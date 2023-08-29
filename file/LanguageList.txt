@@ -1,0 +1,193 @@
+yue	Yue Chinese	111.13195	22.30541	Sino-Tibetan, Chinese
+cmn	Mandarin Chinese	106.27701	25.92863	Sino-Tibetan, Chinese
+
+gag	Gagauz	28.72994	46.10561	Altaic, Turkic, Southern, Turkish
+kaa	Karakalpak	59.53703	43.29122	Altaic, Turkic, Western, Aralo-Caspian
+tur	Turkish	34.90639	36.72344	Altaic, Turkic, Southern, Turkish
+uig	Uyghur	81.96424	36.36305	Altaic, Turkic, Eastern
+tuk	Turkmen	59.60419	37.19072	Altaic, Turkic, Southern, Turkmenian
+khk	Halh Mongolian	105.69295	46.17193	Altaic, Mongolic, Eastern, Oirat-Khalkha, Khalkha-Buriat, Mongolian Proper
+
+esu	Central Yupik	-161.48588	60.30616	Eskimo-Aleut, Eskimo, Yupik, Alaskan Yupik
+esi	North Alaskan Inupiatun	-153.91532	70.78648	Eskimo-Aleut, Eskimo, Inuit-Inupiaq
+
+jpn	Japanese	136.46904	35.35084	Japonic
+kor	Korean	127.85022	36.62492	Language isolate
+
+caq	Car Nicobarese	92.76706	9.18853	Austro-Asiatic, Mon-Khmer, Nicobar, Car
+bru	Eastern Bru	106.18315	17.12189	Austro-Asiatic, Mon-Khmer, Eastern Mon-Khmer, Katuic, West Katuic, Brou-So
+prk	Parauk	99.0428	22.62124	Austro-Asiatic, Mon-Khmer, Northern Mon-Khmer, Palaungic, Eastern Palaungic, Waic, Wa
+vie	Vietnamese	106.91747	17.11945	Austro-Asiatic, Mon-Khmer, Viet-Muong, Vietnamese
+
+blz	Balantak	123.28932	-0.86809	Austronesian, Malayo-Polynesian, Celebic, Eastern, Saluan-Banggai, Eastern
+ban	Bali	115.07496	-8.35714	Austronesian, Malayo-Polynesian, Bali-Sasak-Sumbawa
+btx	Batak Karo	98.25166	2.12787	Austronesian, Malayo-Polynesian, Northwest Sumatra-Barrier Islands, Batak, Northern
+cha	Chamorro	144.78661	13.45633	Austronesian, Malayo-Polynesian, Chamorro
+mhy	Ma'anyan	115.09176	-2.1239	Austronesian, Malayo-Polynesian, Greater Barito, East, Central-South, South
+mad	Madura	112.96754	-7.98335	Austronesian, Malayo-Polynesian, Madurese
+mak	Makasar	119.8381	-5.65551	Austronesian, Malayo-Polynesian, South Sulawesi, Makassar
+ace	Aceh	96.60325	3.90757	Austronesian, Malayo-Polynesian, Malayo-Chamic, Chamic, Acehnese
+iba	Iban	112.46189	1.82601	Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Ibanic
+ind	Indonesian	109.71572	-7.33458	Austronesian, Malayo-Polynesian, Malayo-Chamic, Malayic, Malay
+jra	Jarai	108.14356	13.69433	Austronesian, Malayo-Polynesian, Malayo-Chamic, Chamic, Highlands
+tgl	Tagalog	121.74695	14.06	Austronesian, Malayo-Polynesian, Philippine, Greater Central Philippine, Central Philippine, Tagalog
+
+naq	Nama	15.01542	-21.09522	Khoisan, Southern Africa, Central, Nama
+
+kqs	Northern Kissi	-10.20533	8.87056	Niger-Congo, Atlantic-Congo, Atlantic, Southern, Mel, Bullom-Kissi, Kissi
+snf	Noon	-16.92051	14.79201	Niger-Congo, Atlantic-Congo, Atlantic, Northern, Cangin
+ffm	Maasina Fulfulde	-4.10264	14.91803	Niger-Congo, Atlantic-Congo, Atlantic, Northern, Senegambian, Fula-Wolof, Fula, West Central
+wol	Wolof	-16.20793	15.43737	Niger-Congo, Atlantic-Congo, Atlantic, Northern, Senegambian, Fula-Wolof, Wolof
+bci	Baoulé	-4.76565	5.42509	Niger-Congo, Atlantic-Congo, Volta-Congo, Kwa, Nyo, Potou-Tano, Tano, Central, Bia, Northern
+ibo	Igbo	7.23441	4.62705	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Igboid, Igbo
+dts	Toro So Dogon	-3.10006	14.40749	Niger-Congo, Atlantic-Congo, Volta-Congo, Dogon
+dur	Dii	13.98844	7.77412	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Adamawa-Ubangi, Adamawa, Leko-Nimbari, Duru, Dii
+dgi	Northern Dagara	-3.0124	11.04408	Niger-Congo, Atlantic-Congo, Volta-Congo, North, Gur, Central, Northern, Oti-Volta, Western, Northwest, Dagaari-Birifor, Dagaari
+etu	Ejagham	8.66317	5.46344	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Ekoid
+lem	Nomaande	10.91566	4.5893	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, A, Basaa (A.46)
+myx	Masaba	34.28286	1.05906	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, J, Masaba-Luhya (E.31)
+thk	Tharaka	38.07303	-0.13221	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, E, Kikuyu-Kamba (E.54)
+run	Rundi	29.92039	-3.51292	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, J, Ruanda-Rundi (D.62)
+kki	Kagulu	37.05341	-6.38204	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, G, Gogo-Kagulu (G.12)
+nya	Nyanja	34.09663	-13.42326	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, N, Chewa-Nyanja (N.31)
+
+tac	Lowland Tarahumara	-107.85428	27.46229	Uto-Aztecan, Southern Uto-Aztecan, Taracahitic, Tarahumaran, Tarahumara
+nhg	Tetelcingo Nahuatl	-98.89301	18.88539	Uto-Aztecan, Southern Uto-Aztecan, Corachol-Aztecan, Core Nahua, Nahuatl
+nhw	Western Huasteca Nahuatl	-98.77114	21.3711	Uto-Aztecan, Southern Uto-Aztecan, Corachol-Aztecan, Core Nahua, Nahuatl
+crn	El Nayar Cora	-104.46744	22.40993	Uto-Aztecan, Southern Uto-Aztecan, Corachol-Aztecan, Cora-Huichol, Cora
+hop	Hopi	-110.53483	35.76526	Uto-Aztecan, Northern Uto-Aztecan
+
+dgr	Dogrib	-114.19257	62.38234	Eyak-Athabaskan, Athabaskan, Northern Athabaskans
+gwi	Gwich'in	-139.80541	67.63566	Eyak-Athabaskan, Athabaskan, Northern Athabaskan
+
+chr	Cherokee	-83.16303	35.46639	Iroquoian
+
+yua	Yucatán Maya	-89.11902	19.66147	Mayan, Yucatecan-Core Mayan, Yucatecan, Yucatec-Lacandon
+chf	Tabasco Chontal	-92.73666	18.17129	Mayan, Yucatecan-Core Mayan, Core Mayan, Cholan-Tzeltalan, Cholan, Chol-Chontal
+cac	San Sebastián Coatán Chuj	-91.56175	15.71373	Mayan, Yucatecan-Core Mayan, Q’anjob’alan-Chujean, Chujean
+
+poi	Highland Popoluca	-94.91088	18.19804	Mixe-Zoquean, Zoquean, Gulf Zoquean
+zos	Francisco León Zoque	-93.36326	17.36536	Mixe-Zoquean, Zoquean, Chiapas Zoquean
+mco	Coatlán Mixe	-95.46586	16.94037	Mixe-Zoquean, Mixean, Oaxaca Mixean, Lowland Mixe
+mto	Totontepec Mixe	-96.0179	17.21565	Mixe-Zoquean, Mixean, Oaxaca Mixean
+
+srq	Sirionó	-63.9688	-15.52979	Tupian, Tupí-Guaraní, Guarayú, Sirionó
+gug	Paraguayan Guarani	-57.08816	-25.60551	Tupian, Tupí-Guaraní, Guaraní, Guaraní
+pah	Tenharim	-61.93599	-7.92626	Tupian, Tupí-Guaraní, Kawahib, Parintintin
+
+inb	Inga	-76.86062	1.00313	Quechuan, Peripheral Quechua, Chinchay, Northern Chinchay
+quy	Ayacucho Quechua	-74.32246	-13.84714	Quechuan, Peripheral Quechua, Chinchay, Southern Chinchay, Southern Peruvian Quechua
+qub	Huallaga Huánuco Quechua	-75.59401	-9.57135	Quechuan, Central Quechua, Ap-am-ah
+
+pib	Yine	-73.30868	-11.10862	Maipurean, Southern, Southern Outlier, Piro, Piro
+cab	Garifuna	-86.32738	15.77296	Maipurean, Northern, Maritime, Ta-Maipurean, Iñeri
+pab	Parecís	-57.40595	-14.59295	Maipurean, Southern, Central, Paresí
+mcb	Machiguenga	-72.50171	-12.12905	Maipurean, Southern, Campa, Machiguenga
+
+gvn	Kuku-Yalanji	145.18837	-16.00359	Australian, Pama-Nyungan, Yalandyic
+bvr	Burarra	134.36499	-12.30605	Australian, Gunwingguan, Burarran
+are	Western Arrarnta	133.24621	-24.05052	Australian, Pama-Nyungan, Arandic
+
+sme	North Saami	20.12405	69.29134	Uralic, Sami, Western, Northern
+fin	Finnish	26.33121	64.22287	Uralic, Finnic
+hun	Hungarian	19.50894	46.12207	Uralic
+
+eng	English	-2.23831	53.27692	Indo-European, Germanic, West, English
+deu	Standard German	10.45276	47.45546	Indo-European, Germanic, West, High German, German, Middle German, East Middle German
+nld	Dutch	5.332	51.77029	Indo-European, Germanic, West, Low Saxon-Low Franconian, Low Franconian
+isl	Icelandic	-19.02117	63.48375	Indo-European, Germanic, North, West Scandinavian
+dan	Danish	9.51882	54.9485	Indo-European, Germanic, North, East Scandinavian, Danish-Swedish, Danish-Riksmal, Danish
+spa	Spanish	-2.98782	40.0288	Indo-European, Italic, Romance, Italo-Western, Western, Gallo-Iberian, Ibero-Romance, West Iberian, Castilian
+cat	Catalan-Valencian-Balear	1.23027	41.91647	Indo-European, Italic, Romance, Italo-Western, Western, Gallo-Iberian, Ibero-Romance, East Iberian
+ron	Romanian	24.97773	45.73279	Indo-European, Italic, Romance, Eastern
+cym	Welsh	-4.22094	51.97481	Indo-European, Celtic, Insular, Brythonic
+gle	Irish Gaelic	-7.68971	52.00883	Indo-European, Celtic, Insular, Goidelic
+ces	Czech	15.37182	49.88641	Indo-European, Slavic, West, Czech-Slovak
+hrv	Croatian	16.47117	43.51499	Indo-European, Slavic, South, Western
+
+
+
+To-do:
+lav	Latvian	24.60772	57.1435	Indo-European, Baltic, Eastern
+lit	Lithuanian	23.96007	55.14291	Indo-European, Baltic, Eastern
+sqi	Albanian	20.18	39.85	Indo-European, Albanian
+
+
+bre	Breton	-3.78934	48.24523	Indo-European, Celtic, Insular, Brythonic
+
+por	Portuguese	-7.83932	39.44108	Indo-European, Italic, Romance, Italo-Western, Western, Gallo-Iberian, Ibero-Romance, West Iberian, Portuguese-Galician
+fra	French	1.71931	46.77921	Indo-European, Italic, Romance, Italo-Western, Western, Gallo-Iberian, Gallo-Romance, Gallo-Rhaetian, Oïl, French
+ita	Italian	12.97622	42.609	Indo-European, Italic, Romance, Italo-Western, Italo-Dalmatian
+
+
+
+fao	Faroese	-6.88	62.07	Indo-European, Germanic, North, West Scandinavian
+fry	Western Frisian	5.86091	53.143	Indo-European, Germanic, West, Frisian
+nob	Bokmal Norwegian	8.886	61.112	Indo-European, Germanic, North, East Scandinavian, Danish-Swedish, Danish-Bokmal
+
+
+est	Estonian	25.8136	58.72406	Uralic, Finnic
+
+
+nuy	Nunggubuyu	135.75267	-14.26229	Australian, Gunwingguan, Enindhilyagwa
+
+
+guc	Wayuu	-72.24028	11.52576	Maipurean, Northern, Maritime, Ta-Maipurean
+apu	Apurinã	-66.77141	-8.21692	Maipurean, Southern, Southern Outlier, Piro
+cni	Asháninka	-73.90728	-11.93109	Maipurean, Southern, Campa
+not	Nomatsiguenga	-74.43713	-11.53487	Maipurean, Southern, Campa, Ashéninga
+ame	Yanesha'	-75.31497	-10.54539	Maipurean, Southern, Western
+
+
+
+qup	Southern Pastaza Quechua	-76.52697	-3.32733	Quechuan, Peripheral Quechua, Chinchay, Northern Chinchay
+quw	Tena Lowland Quichua	-77.54039	-0.76271	Quechuan, Peripheral Quechua, Chinchay, Northern Chinchay
+qvw	Huaylla Wanca Quechua	-75.20551	-12.18092	Quechuan, Central Quechua, Wankay
+qwh	Huaylas Ancash Quechua	-77.77681	-9.38709	Quechuan, Central Quechua, Waylay
+
+
+
+oym	Wayampi	-52.95521	2.25217	Tupian, Tupí-Guaraní, Wayampí, Wayampí
+urb	Urubú-Kaapor	-46.22037	-2.46455	Tupian, Tupí-Guaraní, Wayampí, Amanayé
+kyz	Kayabí	-55.54792	-11.27468	Tupian, Tupí-Guaraní, Kayabí
+mav	Sateré-Mawé	-56.87489	-3.63897	Tupian
+
+
+
+mxp	Tlahuitoltepec Mixe	-96.11857	16.96335	Mixe-Zoquean, Mixean, Oaxaca Mixean, South Highland Mixe
+
+
+jac	Eastern Jacalteco	-91.66327	15.66095	Mayan, Yucatecan-Core Mayan, Q’anjob’alan-Chujean, Q’anjob’alan, Q’anjob’al-Akateko-Jakalteko
+lac	Lacandon	-91.42348	17.02093	Mayan, Yucatecan-Core Mayan, Yucatecan, Yucatec-Lacandon
+
+
+
+ncj	Northern Puebla Nahuatl	-97.98141	20.1356	Uto-Aztecan, Southern Uto-Aztecan, Corachol-Aztecan, Core Nahua, Nahuatl
+ncl	Michoacán Nahuatl	-103.36118	18.34119	Uto-Aztecan, Southern Uto-Aztecan, Corachol-Aztecan, Core Nahua, Nahuatl
+
+poy	Pogolo	36.41485	-8.72283	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, G, Pogolo-Ndamba (G.51)
+toi	Tonga	26.63571	-16.90839	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, M, Lenje-Tonga (M.64)
+kde	Makonde	39.6133	-10.29823	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, P, Yao (P.23)
+ndo	Ndonga	16.95918	-18.03018	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, R, Wambo (R.22)
+
+
+lol	Mongo-Nkundu	20.42587	-1.54228	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Northwest, C, Mongo-Nkundo (C.61)
+
+
+Not-do:
+tem	Themne	-12.33307	8.90294	Niger-Congo, Atlantic-Congo, Atlantic, Southern, Mel, Temne, Temne-Banta
+fuf	Pular	-12.59126	11.48254	Niger-Congo, Atlantic-Congo, Atlantic, Northern, Senegambian, Fula-Wolof, Fula, West Central
+fuh	Western Niger Fulfulde	1.94971	13.92109	Niger-Congo, Atlantic-Congo, Atlantic, Northern, Senegambian, Fula-Wolof, Fula, East Central
+bfd	Bafut	10.11939	6.14153	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Wide Grassfields, Narrow Grassfields, Mbam-Nkam, Ngemba
+nnb	Nande	29.02426	-0.24904	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, J, Konzo-Ndandi (D.42)
+jmc	Machame	37.07033	-3.29385	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, E, Chaga (E.621)
+old	Mochi	37.33568	-3.33743	Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, E, Chaga (E.622)
+
+ntp	Northern Tepehuan	-107.37932	26.43476	Uto-Aztecan, Southern Uto-Aztecan, Pimic, Tepehuan
+ood	Tohono O'odham	-111.98409	32.18903	Uto-Aztecan, Southern Uto-Aztecan, Pimic
+stp	Southeastern Tepehuan	-103.98322	23.15844	Uto-Aztecan, Southern Uto-Aztecan, Pimic, Tepehuan
+pao	Northern Paiute	-119.53609	40.0799	Uto-Aztecan, Northern Uto-Aztecan, Numic, Western
+
+aca	Achagua	-72.2005	4.38649	Maipurean, Northern, Upper Amazon, Western Nawiki, Piapoco (*!fehlen viele Versen!*)
+
+mwp	Kala Lagaw Ya	142.19566	-10.67483	Australian, Pama-Nyungan, Kala Lagaw Ya
