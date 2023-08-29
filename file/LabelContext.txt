@@ -1,0 +1,414 @@
+verse	label	cluster	neighbor	sil_width	QW	context
+43001038b	place.event	1	5	0.498376180534969	where	" Rabbi ( which is translated Teacher ) , where are you staying ? "
+43011034	place.event	1	5	0.490794518998811	where	He asked , " Where have you laid him ? " They replied , " Lord , come and see . "
+43009012	place.object.sg	1	5	0.485713037351067	where	They asked , " Where is this man ? " He replied , " I don’t know . "
+40002002	place.object.sg	1	5	0.483933655041494	where	They asked , " Where is the newborn king of the Jews ? We’ve seen his star in the east , and we’ve come to honor him . "
+42022009	place.event	1	5	0.47966783551143	where	They said to him , " Where do you want us to prepare it ? "
+40002004	place.event	1	5	0.475616393885547	where	He gathered all the chief priests and the legal experts and asked them where the Christ was to be born .
+43007011	place.object.sg	1	5	0.473809365429729	where	The Jewish leaders were looking for Jesus at the festival . They kept asking , " Where is he ? "
+43006005	place.event	1	5	0.472798666008598	where	Jesus looked up and saw the large crowd coming toward him . He asked Philip , " Where will we buy food to feed these people ? "
+43008019	place.object.sg	1	5	0.470304914757747	where	They asked him , " Where is your Father ? " Jesus answered , " You don’t know me and you don’t know my Father . If you knew me , you would also know my Father . "
+42017037	place.event	1	5	0.469582874908362	where	The disciples asked , " Where , Lord ? " Jesus said , " The vultures gather wherever there’s a dead body . "
+46015055b	NA	1	5	0.461596648291368	~	
+41014014	NA	1	5	0.456423568647741	where	Wherever he enters , say to the owner of the house , ‘ The teacher asks , " Where is my guest room where I can eat the Passover meal with my disciples ? " ’
+46015055a	NA	1	5	0.431348313208153	~	
+43008010	place.object.pl	1	3	0.428794177207001	where	Jesus stood up and said to her , " Woman , where are they ? Is there no one to condemn you ? "
+42017017	place.object.pl	1	5	0.42518784329642	where	Jesus replied , " Weren’t ten cleansed ? Where are the other nine ?
+40013054a	place.from.source	1	5	0.398025592560638	where	When he came to his hometown , he taught the people in their synagogue . They were surprised and said , " Where did he get this wisdom ? 
+41006002a	place.from.source	1	2	0.386739472247951	where	On the Sabbath , he began to teach in the synagogue . Many who heard him were surprised . " Where did this man get all this ? 
+40015033	NA	1	5	0.38423752739594	where	His disciples replied , " Where are we going to get enough food in this wilderness to satisfy such a big crowd ? "
+43013036	place.goal	1	5	0.384029108909179	where	Simon Peter said to Jesus , " Lord , where are you going ? " Jesus answered , " Where I am going , you can’t follow me now , but you will follow later . "
+43016005	place.goal	1	5	0.37611720129693	where	But now I go away to the one who sent me . None of you ask me , ‘ Where are you going ? ’
+66007013b	place.from.origin	1	5	0.367051334125267	where	and where did they come from ? "
+40013056	place.from.source	1	5	0.362577716615694	where	And his sisters , aren’t they here with us ? Where did this man get all this ? "
+43004011	NA	1	5	0.359525547896182	where	The woman said to him , " Sir , you don’t have a bucket and the well is deep . Where would you get this living water ?
+43019009	place.from.origin	1	5	0.347399596225168	where	He went back into the residence and spoke to Jesus , " Where are you from ? " Jesus didn’t answer .
+43007035	place.goal	1	5	0.344883969197325	where	The Jewish opposition asked each other , " Where does he intend to go that we can’t find him ? Surely he doesn’t intend to go where our people have been scattered and are living among the Greeks ! He isn’t going to teach the Greeks , is he ?
+61003004	NA	1	3	0.279891287503704	where	and saying , " Where is the promise of his coming ? After all , nothing has changed — not since the beginning of creation , nor even since the ancestors died . "
+46001020a	NA	1	3	0.254485131493461	where	Where are the wise ? 
+44007049b	NA	1	3	0.24564444167945	where	‘ or where is my resting place ?
+42008025a	NA	1	4	0.212481759440765	where	He said to his disciples , " Where is your faith ? " Filled with awe and wonder , they said to each other , 
+41008004	NA	1	5	0.195511887916698	how	His disciples responded , " How can anyone get enough food in this wilderness to satisfy these people ? "
+59004001a	NA	1	3	0.142086824888601	what	What is the source of conflict among you ? 
+40013027	NA	1	5	0.141241076142296	how	“ The servants of the landowner came and said to him , ‘ Master , didn’t you plant good seed in your field ? Then how is it that it has weeds ? ’
+48004015	NA	1	3	0.136317736951656	where	Where then is the great attitude that you had ? I swear that , if possible , you would have dug out your eyes and given them to me .
+41005030	person.role.agent	2	3	0.636419451877986	who	At that very moment , Jesus recognized that power had gone out from him . He turned around in the crowd and said , " Who touched my clothes ? "
+42008045	person.role.agent	2	3	0.635018571194943	who	" Who touched me ? " Jesus asked . When everyone denied it , Peter said , " Master , the crowds are surrounding you and pressing in on you ! "
+43007020	person.role.agent	2	3	0.628085472193634	who	The crowd answered , " You have a demon . Who wants to kill you ? "
+45011034b	NA	2	3	0.624330241557695	who	Or who has been his mentor ?
+45010016	NA	2	3	0.623111978020342	who	But everyone hasn’t obeyed the good news . As Isaiah says , Lord , who has had faith in our message ?
+42022064	person.role.agent	2	3	0.622754315591926	who	They blindfolded him and asked him repeatedly , " Prophesy ! Who hit you ? "
+66005002	NA	2	3	0.621374046595967	who	I saw a powerful angel , who proclaimed in a loud voice , " Who is worthy to open the scroll and break its seals ? "
+42012014	person.role.agent	2	3	0.617157670751713	who	Jesus said to him , " Man , who appointed me as judge or referee between you and your brother ? "
+45010006	NA	2	3	0.615465337737351	who	But the righteousness that comes from faith talks like this : Don’t say in your heart , " Who will go up into heaven ? " ( that is , to bring Christ down )
+45010007	NA	2	3	0.615110427846026	who	or " Who will go down into the region below ? " ( that is , to bring Christ up from the dead ) .
+43012038a	person.role.agent	2	3	0.615096572495555	who	This was to fulfill the word of the prophet Isaiah : Lord , who has believed through our message ? 
+45008033	NA	2	3	0.614003066924144	who	Who will bring a charge against God’s elect people ? It is God who acquits them .
+44007027	person.role.agent	2	3	0.613880550231298	who	The one who started the fight against his neighbor pushed Moses aside and said , ‘ Who appointed you as our leader and judge ?
+45007024	person.role.agent	2	3	0.613547679080866	who	I’m a miserable human being . Who will deliver me from this dead corpse ?
+42003007	person.role.agent	2	4	0.612300780660839	who	Then John said to the crowds who came to be baptized by him , " You children of snakes ! Who warned you to escape from the angry judgment that is coming soon ?
+45008031b	person.role.agent	2	3	0.607024623411863	who	If God is for us , who is against us ?
+41011028b	person.role.agent	2	3	0.605429078893723	who	Who gave you this authority to do them ? "
+47002016	NA	2	3	0.603930221717871	who	We smell like a contagious dead person to those who are dying , but we smell like the fountain of life to those who are being saved . Who is qualified for this kind of ministry ?
+40003007	person.role.agent	2	3	0.601836453316828	who	Many Pharisees and Sadducees came to be baptized by John . He said to them , " You children of snakes ! Who warned you to escape from the angry judgment that is coming soon ?
+45011034a	NA	2	3	0.601518498702164	who	Who has known the Lord’s mind ? 
+45011035	NA	2	3	0.601382576976612	who	Or who has given him a gift and has been paid back by him ?
+43021020	person.role.agent	2	3	0.599390204812451	who	Peter turned around and saw the disciple whom Jesus loved following them . This was the one who had leaned against Jesus at the meal and asked him , " Lord , who is going to betray you ? "
+43006060	person.role.agent	2	3	0.597998712235188	who	Many of his disciples who heard this said , " This message is harsh . Who can hear it ? "
+45008034	NA	2	3	0.596669719420801	who	Who is going to convict them ? It is Christ Jesus who died , even more , who was raised , and who also is at God’s right side . It is Christ Jesus who also pleads our case for us .
+42018026	NA	2	5	0.594935118851449	who	Those who heard this said , " Then who can be saved ? "
+48003001	person.role.agent	2	3	0.593549865810623	who	You irrational Galatians ! Who put a spell on you ? Jesus Christ was put on display as crucified before your eyes !
+43005012	person.role.agent	2	1	0.592974098111321	who	They inquired , " Who is this man who said to you , ‘ Pick it up and walk ’ ? "
+41016003	person.role.agent	2	3	0.591767673470507	who	They were saying to each other , " Who’s going to roll the stone away from the entrance for us ? "
+42010029	NA	2	3	0.591302410775578	who	But the legal expert wanted to prove that he was right , so he said to Jesus , " And who is my neighbor ? "
+66015004a	NA	2	3	0.590198282446989	who	Who won’t fear you , Lord , 
+40018001	NA	2	3	0.583149216563947	who	At that time the disciples came to Jesus and asked , " Who is the greatest in the kingdom of heaven ? "
+62002022	NA	2	3	0.578014577726371	who	Who is the liar ? Isn’t it the person who denies that Jesus is the Christ ? This person is the antichrist : the one who denies the Father and the Son .
+40019025	NA	2	3	0.577538238407834	who	When his disciples heard this , they were stunned . " Then who can be saved ? " they asked .
+41005031	person.role.agent	2	4	0.577495105635249	who	His disciples said to him , " Don’t you see the crowd pressing against you ? Yet you ask , ‘ Who touched me ? ’ "
+47002002	person.role.agent	2	5	0.577137389071157	who	If I make you sad , who will be there to make me glad when you are sad because of me ?
+48005007a	person.role.agent	2	4	0.574632696570651	who	You were running well — who stopped you from obeying the truth ?
+42016012	NA	2	5	0.573977254642364	who	If you haven’t been faithful with someone else’s property , who will give you your own ?
+62005005	NA	2	3	0.568857976274868	who	Who defeats the world ? Isn’t it the one who believes that Jesus is God’s Son ?
+43012034b	NA	2	3	0.566194060511171	who	Who is this Human One ? "
+41010026	NA	2	3	0.565537826957568	who	They were shocked even more and said to each other , " Then who can be saved ? "
+43009036	NA	2	3	0.562709962455077	who	He answered , " Who is he , sir ? I want to believe in him . "
+60003013	NA	2	3	0.562310813466805	who	Who will harm you if you are zealous for good ?
+66006017	NA	2	5	0.561215011736485	who	The great day of their wrath has come , and who is able to stand ? "
+40021010	person.identity.3sg	2	3	0.557185010800722	who	And when Jesus entered Jerusalem , the whole city was stirred up . " Who is this ? " they asked .
+42009009a	person.identity.3sg	2	1	0.551749014739097	who	Herod said , " I beheaded John , so now who am I hearing about ? " Herod wanted to see him .
+40012048a	NA	2	3	0.5499718851252	who	Jesus replied , " Who is my mother ? 
+43013025	NA	2	3	0.542502398550486	who	Leaning back toward Jesus , this disciple asked , " Lord , who is it ? "
+42016011	person.role.agent	2	5	0.532413669972661	who	If you haven’t been faithful with worldly wealth , who will trust you with true riches ?
+43021012	person.identity.2sg	2	3	0.526381516344319	who	Jesus said to them , " Come and have breakfast . " None of the disciples could bring themselves to ask him , " Who are you ? " They knew it was the Lord .
+42007049	person.identity.3sg	2	3	0.526221335618626	who	The other table guests began to say among themselves , " Who is this person that even forgives sins ? "
+43001022a	person.identity.2sg	2	3	0.518125506472184	who	They asked , " Who are you ? We need to give an answer to those who sent us . 
+46004007a	person.role.agent	2	3	0.513992669770541	who	Who says that you are better than anyone else ? 
+43008025a	person.identity.2sg	2	3	0.50987454819495	who	" Who are you ? " they asked . 
+44021033a	NA	2	3	0.508658348073204	who	When the commander arrived , he arrested Paul and ordered him to be bound with two chains . Only then did he begin to ask who Paul was 
+42005021a	person.identity.3sg	2	3	0.505660721579916	who	The legal experts and Pharisees began to mutter among themselves , " Who is this who insults God ? 
+44022008	person.identity.2sg	2	3	0.504980070487719	who	I answered , ‘ Who are you , Lord ? ’ ‘ I am Jesus the Nazarene , whom you are harassing , ’ he replied .
+45008035	NA	2	3	0.48783818082188	who	Who will separate us from Christ’s love ? Will we be separated by trouble , or distress , or harassment , or famine , or nakedness , or danger , or sword ?
+42012025	NA	2	3	0.477486351320976	who	Who among you by worrying can add a single moment to your life ?
+43008046a	NA	2	3	0.465946171696282	who	Who among you can show I’m guilty of sin ? 
+40024045	NA	2	3	0.465402007460353	who	“ Who then are the faithful and wise servants whom their master puts in charge of giving food at the right time to those who live in his house ?
+43018004	person.role.patient	2	3	0.46439073706851	who	Jesus knew everything that was to happen to him , so he went out and asked , " Who are you looking for ? "
+43020015b	person.role.patient	2	4	0.456860351185884	who	Who are you looking for ? " Thinking he was the gardener , she replied , " Sir , if you have carried him away , tell me where you have put him and I will get him . "
+40016013	person.ascription	2	3	0.452891239921425	who	Now when Jesus came to the area of Caesarea Philippi , he asked his disciples , " Who do people say the Human One is ? "
+44008034	NA	2	3	0.440810872869351	whom	The eunuch asked Philip , " Tell me , about whom does the prophet say this ? Is he talking about himself or someone else ? "
+40012048b	person.identity.pl	2	3	0.438288178145934	who	Who are my brothers ? "
+41008029b	person.ascription	2	3	0.436204932604362	who	Who do you say that I am ? " Peter answered , " You are the Christ . "
+42009018	person.ascription	2	3	0.431982258607346	who	Once when Jesus was praying by himself , the disciples joined him , and he asked them , " Who do the crowds say that I am ? "
+42012020	NA	2	3	0.431137518608203	who	But God said to him , ‘ Fool , tonight you will die . Now who will get the things you have prepared for yourself ? ’
+59004012	person.identity.2sg	2	3	0.430861740067729	who	There is only one lawgiver and judge , and he is able to save and to destroy . But you who judge your neighbor , who are you ?
+42022027	person.selection.two	2	3	0.409083224940027	which one	So which one is greater , the one who is seated at the table or the one who serves at the table ? Isn’t it the one who is seated at the table ? But I am among you as one who serves .
+66007013a	person.identity.pl	2	3	0.406028613178345	who	Then one of the elders said to me , " Who are these people wearing white robes , 
+42008025b	NA	2	3	0.393982354266675	who	" Who is this ? He commands even the winds and the water , and they obey him ! "
+43006068	person.role.goal	2	1	0.388121807722929	where	Simon Peter answered , " Lord , where would we go ? You have the words of eternal life .
+43012038b	person.role.goal	2	3	0.38809638540997	whom	To whom is the arm of the Lord fully revealed ?
+44019015	person.identity.pl	2	5	0.384406614368244	who	The evil spirit replied , " I know Jesus and I’m familiar with Paul , but who are you ? "
+44011017a	NA	2	5	0.373214241421946	who	If God gave them the same gift he gave us who believed in the Lord Jesus Christ , then who am I ? 
+43008053	person.identity.2sg	2	3	0.372092058325214	who	Are you greater than our father Abraham ? He died and the prophets died , so who do you make yourself out to be ? "
+40027017	NA	2	3	0.369731333107108	whom	When the crowd had come together , Pilate asked them , " Whom would you like me to release to you , Jesus Barabbas or Jesus who is called Christ ? "
+42020024a	person.possessor	2	3	0.358235922103273	whose	" Show me a coin . Whose image 
+40022020a	person.possessor	2	3	0.346843582284014	whose	" Whose image 
+58003016	NA	2	3	0.339787232999248	who	Who was it who rebelled when they heard his voice ? Wasn’t it all of those who were brought out of Egypt by Moses ?
+40022042b	person.possessor	2	3	0.335278079106084	whose	Whose son is he ? " " David’s son , " they replied .
+42011019	person.possessor	2	5	0.328666457360876	whose	If I throw out demons by the authority of Beelzebul , then by whose authority do your followers throw them out ? Therefore , they will be your judges .
+43001021	person.identity.2sg	2	3	0.323795652621811	who	They asked him , " Then who are you ? Are you Elijah ? " John said , " I’m not . " " Are you the prophet ? " John answered , " No . "
+42010036b	person.selection.multiple	2	1	0.321709958820638	which one	Which one of these three was a neighbor to the man who encountered thieves ? "
+40017025b	NA	2	3	0.320469230572477	whom	From whom do earthly kings collect taxes , from their children or from strangers ? "
+46003005b	person.kind	2	3	0.310877328386869	what	What is Paul ? They are servants who helped you to believe . Each one had a role given to them by the Lord :
+43009002	NA	2	4	0.306714038147425	who	Jesus’ disciples asked , " Rabbi , who sinned so that he was born blind , this man or his parents ? "
+58003018	person.role.recipient	2	3	0.302995381446281	whom	And against whom did he swear that they would never enter his rest , if not against the ones who were disobedient ?
+58003017	person.role.recipient	2	1	0.291600356841823	whom	And with whom was God angry for forty years ? Wasn’t it with the ones who sinned , whose bodies fell in the desert ?
+46003005a	person.kind	2	3	0.28472012517273	what	After all , what is Apollos ? 
+42020033	person.possessor	2	3	0.270472487728769	whose	In the resurrection , whose wife will she be ? All seven were married to her . "
+42007042	person.selection.two	2	3	0.258729505794117	which	When they couldn’t pay , the lender forgave the debts of them both . Which of them will love him more ? "
+44004007c	person.possessor	2	3	0.253163788016244	what	or in what name did you do this ? "
+40027021	person.selection.two	2	3	0.251398292710177	which	The governor said , " Which of the two do you want me to release to you ? " " Barabbas , " they replied .
+40021031	person.selection.two	2	3	0.208910725586263	which one	" Which one of these two did his father’s will ? " They said , " The first one . " Jesus said to them , “ I assure you that tax collectors and prostitutes are entering God’s kingdom ahead of you .
+40008027	person.kind	2	3	0.0573655770331579	what kind of	The people were amazed and said , " What kind of person is this ? Even the winds and the lake obey him ! "
+40021025a	NA	2	1	-0.00235691071155564	where	Where did John get his authority to baptize ? Did he get it from heaven or from humans ? " They argued among themselves , 
+44021033b	NA	3	4	0.465041349516084	what	and what he had done .
+41006024	thing.patient	3	4	0.461730363588258	what	She left the banquet hall and said to her mother , " What should I ask for ? " " John the Baptist’s head , " Herodias replied .
+41010051	NA	3	4	0.459618345537438	what	Jesus asked him , " What do you want me to do for you ? " The blind man said , " Teacher , I want to see . "
+40020032	NA	3	4	0.453914894358078	what	Jesus stopped in his tracks and called to them . " What do you want me to do for you ? " he asked .
+40020021	thing.patient	3	4	0.446284683823277	what	" What do you want ? " he asked . She responded , " Say that these two sons of mine will sit , one on your right hand and one on your left , in your kingdom . "
+43001038a	thing.patient	3	4	0.445681198906299	what	When Jesus turned and saw them following , he asked , " What are you looking for ? " They said , 
+41010036	thing.patient	3	4	0.444864250954852	what	" What do you want me to do for you ? " he asked .
+40006031b	thing.patient	3	4	0.439459157898003	what	‘ What are we going to drink ? ’ or 
+44023019	NA	3	4	0.435289562289913	what	The commander took him by the hand and withdrew to a place where they could speak privately . He asked , " What do you have to report to me ? "
+43004027a	thing.patient	3	4	0.428060214251644	what	Just then , Jesus’ disciples arrived and were shocked that he was talking with a woman . But no one asked , " What do you want ? " or 
+44017018	NA	3	5	0.427232360207376	what	Certain Epicurean and Stoic philosophers engaged him in discussion too . Some said , " What an amateur ! What’s he trying to say ? " Others remarked , " He seems to be a proclaimer of foreign gods . " ( They said this because he was preaching the good news about Jesus and the resurrection . )
+41010017	NA	3	5	0.426126145457887	what	As Jesus continued down the road , a man ran up , knelt before him , and asked , " Good Teacher , what must I do to obtain eternal life ? "
+42018018	NA	3	5	0.424407192969944	what	A certain ruler asked Jesus , " Good Teacher , what must I do to obtain eternal life ? "
+43018035	NA	3	4	0.415047356977891	what	Pilate responded , " I’m not a Jew , am I ? Your nation and its chief priests handed you over to me . What have you done ? "
+43018038	thing.patient	3	4	0.414339450243012	what	" What is truth ? " Pilate asked . After Pilate said this , he returned to the Jewish leaders and said , " I find no grounds for any charge against him .
+44022010	NA	3	5	0.413565061535137	what	I asked , ‘ What should I do , Lord ? ’ ‘ Get up , ’ the Lord replied , ‘ and go into Damascus . There you will be told everything you have been appointed to do . ’
+40019020	thing.patient	3	4	0.41077640263973	what	The young man replied , " I’ve kept all these . What am I still missing ? "
+43016017	NA	3	5	0.410242958291615	what	Some of Jesus’ disciples said to each other , " What does he mean : ‘ Soon you won’t see me , and soon after that you will see me ’ and ‘ Because I’m going to the Father ’ ?
+40006031a	thing.patient	3	4	0.401067651494315	what	Therefore , don’t worry and say , ‘ What are we going to eat ? ’ or 
+43006028	NA	3	5	0.395765234441378	what	They asked , " What must we do in order to accomplish what God requires ? "
+59002016b	NA	3	5	0.394414402786917	what	What good is it if you don’t actually give them what their body needs ?
+59002014	NA	3	4	0.38802070483007	what	My brothers and sisters , what good is it if people say they have faith but do nothing to show it ? Claiming to have faith can’t save anyone , can it ?
+42010025	NA	3	5	0.385425223558138	what	A legal expert stood up to test Jesus . " Teacher , " he said , " what must I do to gain eternal life ? "
+42003010	thing.do	3	5	0.384911096422348	what	The crowds asked him , " What then should we do ? "
+44016030	NA	3	5	0.38388297829508	what	He led them outside and asked , " Honorable masters , what must I do to be rescued ? "
+42023022b	NA	3	4	0.383554443009003	what	What wrong has he done ? I’ve found no legal basis for the death penalty in his case . Therefore , I will have him whipped , then let him go . "
+40019027	thing.patient	3	4	0.382049504218643	what	Then Peter replied , " Look , we’ve left everything and followed you . What will we have ? "
+42007024	thing.patient	3	4	0.379577784846663	what	After John’s messengers were gone , Jesus spoke to the crowds about John . " What did you go out into the wilderness to see ? A stalk blowing in the wind ?
+41009010	thing.patient	3	4	0.378963006108657	what	So they kept it to themselves , wondering , " What’s this ‘ rising from the dead ’ ? "
+43006030b	thing.patient	3	4	0.378036855099308	what	What will you do ?
+44010004	thing.patient	3	4	0.376827826740942	what	Startled , he stared at the angel and replied , " What is it , Lord ? " The angel said , " Your prayers and your compassionate acts are like a memorial offering to God .
+42020017	NA	3	4	0.374369397511085	what	Staring at them , Jesus said , " Then what is the meaning of this text of scripture : The stone that the builders rejected has become the cornerstone ?
+42010026a	NA	3	5	0.371969725553807	what	Jesus replied , " What is written in the Law ? 
+41009033	thing.patient	3	4	0.370895802941317	what	They entered Capernaum . When they had come into a house , he asked them , " What were you arguing about during the journey ? "
+45006021	NA	3	4	0.369972967808938	what	What consequences did you get from doing things that you are now ashamed of ? The outcome of those things is death .
+42003012	thing.do	3	5	0.368940600335259	what	Even tax collectors came to be baptized . They said to him , " Teacher , what should we do ? "
+40006031c	thing.patient	3	1	0.368690125568172	what	‘ What are we going to wear ? ’
+42003014b	thing.do	3	5	0.364981570739471	what	What should we do ? " He answered , " Don’t cheat or harass anyone , and be satisfied with your pay . "
+45009030	thing.say	3	5	0.363377365311093	what	So what are we going to say ? Gentiles who weren’t striving for righteousness achieved righteousness , the righteousness that comes from faith .
+41008037	thing.patient	3	4	0.36138721096675	what	What will people give in exchange for their lives ?
+42018036	thing.happen	3	4	0.360800212075911	what	When the man heard the crowd passing by , he asked what was happening .
+42024019	thing.patient	3	4	0.358912132893088	what	He said to them , " What things ? " They said to him , " The things about Jesus of Nazareth . Because of his powerful deeds and words , he was recognized by God and all the people as a prophet .
+45008031a	thing.say	3	5	0.352493642136351	what	So what are we going to say about these things ? 
+44002012	thing.patient	3	4	0.35110547949767	what	They were all surprised and bewildered . Some asked each other , " What does this mean ? "
+43009026a	NA	3	5	0.34768372150294	what	They questioned him : " What did he do to you ? 
+43021022	NA	3	4	0.344110270977979	what	Jesus replied , " If I want him to remain until I come , what difference does that make to you ? You must follow me . "
+43012027	thing.say	3	5	0.342416692247815	what	" Now I am deeply troubled . What should I say ? ‘ Father , save me from this time ’ ? No , for this is the reason I have come to this time .
+42016002	NA	3	5	0.341727429514469	what	He called the manager in and said to him , ‘ What is this I hear about you ? Give me a report of your administration because you can no longer serve as my manager . ’
+40019016	NA	3	5	0.340206733091747	what	A man approached him and said , " Teacher , what good thing must I do to have eternal life ? "
+41009016	NA	3	4	0.338948110214027	what	Jesus asked them , " What are you arguing about ? "
+43007036	thing.patient	3	4	0.337965760605029	what	What does he mean when he says , ‘ You will look for me , but you won’t find me , and where I am you can’t come ’ ? "
+42024017	NA	3	5	0.335154734973164	what	He said to them , " What are you talking about as you walk along ? " They stopped , their faces downcast .
+46015032	NA	3	4	0.333486243040153	what	From a human point of view , what good does it do me if I fought wild animals in Ephesus ? If the dead aren’t raised , let’s eat and drink because tomorrow we’ll die .
+46014006	NA	3	5	0.331921795970716	how	After all , brothers and sisters , if I come to you speaking in tongues , how will I help you unless I speak to you with a revelation , some knowledge , a prophecy , or a teaching ?
+46009018	NA	3	4	0.331658561245271	what	What reward do I get ? That when I preach , I offer the good news free of charge . That’s why I don’t use the rights to which I’m entitled through the gospel .
+46011022	thing.say	3	5	0.328172063406561	what	Don’t you have houses to eat and drink in ? Or do you look down on God’s churches and humiliate those who have nothing ? What can I say to you ? Will I praise you ? No , I don’t praise you in this .
+41010003	NA	3	5	0.328119895967145	what	Jesus answered , " What did Moses command you ? "
+44002037	thing.do	3	5	0.323987687158336	what	When the crowd heard this , they were deeply troubled . They said to Peter and the other apostles , " Brothers , what should we do ? "
+41008036	NA	3	4	0.315763822674946	why	Why would people gain the whole world but lose their lives ?
+40021040	NA	3	5	0.314861863984852	what	" When the owner of the vineyard comes , what will he do to those tenant farmers ? "
+48004030	NA	3	5	0.311257441728694	what	But what does the scripture say ? Throw out the slave woman and her son , because the slave woman’s son won’t share the inheritance with the free woman’s son .
+40026015	thing.patient	3	4	0.310112901131096	what	and said , " What will you give me if I turn Jesus over to you ? " They paid him thirty pieces of silver .
+43018029	NA	3	4	0.305773786468105	what	So Pilate went out to them and asked , " What charge do you bring against this man ? "
+42015026	thing.happen	3	4	0.301138804194998	what	He called one of the servants and asked what was going on .
+41001024	NA	3	4	0.298642001428647	what	" What have you to do with us , Jesus of Nazareth ? Have you come to destroy us ? I know who you are . You are the holy one from God . "
+41001027	thing.patient	3	5	0.297152269919713	what	Everyone was shaken and questioned among themselves , " What’s this ? A new teaching with authority ! He even commands unclean spirits and they obey him ! "
+45006001	thing.say	3	5	0.291264310789052	what	So what are we going to say ? Should we continue sinning so grace will multiply ?
+45004001	NA	3	5	0.289817075749822	what	So what are we going to say ? Are we going to find that Abraham is our ancestor on the basis of genealogy ?
+41005007	NA	3	4	0.288605768777704	what	shouting , " What have you to do with me , Jesus , Son of the Most High God ? Swear to God that you won’t torture me ! "
+43001022b	NA	3	5	0.287987988641443	what	What do you say about yourself ? "
+44004016	NA	3	5	0.287452372478534	what	" What should we do with these men ? Everyone living in Jerusalem is aware of the sign performed through them . It’s obvious to everyone and we can’t deny it .
+42020013	NA	3	5	0.282177238504266	what	The owner of the vineyard said , ‘ What should I do ? I’ll send my son , whom I love dearly . Perhaps they will respect him . ’
+40024003b	NA	3	5	0.281655966196405	what	What will be the sign of your coming and the end of the age ? "
+43009017	NA	3	5	0.281423759789726	what	Some of the Pharisees questioned the man who had been born blind again : " What do you have to say about him , since he healed your eyes ? " He replied , " He’s a prophet . "
+42016003	NA	3	5	0.28073133279273	what	“ The household manager said to himself , What will I do now that my master is firing me as his manager ? I’m not strong enough to dig and too proud to beg .
+43002018b	thing.kind	3	2	0.280606953971224	what	What miraculous sign will you show us ? "
+42012017	NA	3	5	0.275467718885014	what	He said to himself , What will I do ? I have no place to store my harvest !
+43011047	NA	3	5	0.272438577961795	what	Then the chief priests and Pharisees called together the council and said , " What are we going to do ? This man is doing many miraculous signs !
+58002006a	NA	3	4	0.272430889462117	what	Instead , someone declared somewhere , What is humanity that you think about them ?
+40027022	NA	3	5	0.270179353232745	what	Pilate said , " Then what should I do with Jesus who is called Christ ? " They all said , " Crucify him ! "
+46014015	NA	3	5	0.265246313892586	what	What should I do ? I’ll pray in the Spirit , but I’ll pray with my mind too ; I’ll sing a psalm in the Spirit , but I’ll sing the psalm with my mind too .
+42021007b	NA	3	5	0.259953046950502	what	What sign will show that these things are about to happen ? "
+43006030a	thing.kind	3	5	0.257654448599257	what	They asked , " What miraculous sign will you do , that we can see and believe you ? 
+46004021	NA	3	5	0.247939850565194	which	Which do you want ? Should I come to you with a big stick to punish you , or with love and a gentle spirit ?
+45003001a	NA	3	4	0.246980571732617	what	So what’s the advantage of being a Jew ? 
+41013004b	NA	3	5	0.238737313129606	what	What sign will show that all these things are about to come to an end ? "
+42001066	NA	3	5	0.231469013593321	what	All who heard about this considered it carefully . They said , " What then will this child be ? " Indeed , the Lord’s power was with him .
+42006032	thing.kind	3	4	0.228678924679192	why	“ If you love those who love you , why should you be commended ? Even sinners love those who love them .
+40005046	thing.kind	3	4	0.222076332416346	what	If you love only those who love you , what reward do you have ? Don’t even the tax collectors do the same ?
+41004030a	NA	3	5	0.215985789311263	what	He continued , " What’s a good image for God’s kingdom ? 
+43008005	NA	3	5	0.199661958476228	what	In the Law , Moses commanded us to stone women like this . What do you say ? "
+42023031	NA	3	5	0.197468666573128	what	If they do these things when the tree is green , what will happen when it is dry ? "
+44019003	thing.kind	3	5	0.18886345802348	what	Then he said , " What baptism did you receive , then ? " They answered , " John’s baptism . "
+41004030b	thing.kind	3	5	0.184792549394965	what	What parable can I use to explain it ?
+42004036	NA	3	5	0.179017247554699	what kind of	They were all shaken and said to each other , " What kind of word is this , that he can command unclean spirits with authority and power , and they leave ? "
+40022042a	thing.think	3	5	0.17556813645993	what	" What do you think about the Christ ? 
+41002009	thing.selection.two	3	2	0.171395446842524	which	Which is easier — to say to a paralyzed person , ‘ Your sins are forgiven , ’ or to say , ‘ Get up , take up your bed , and walk ’ ?
+40011016	NA	3	2	0.167364953789219	what	" To what will I compare this generation ? It is like a child sitting in the marketplaces calling out to others ,
+40023019	thing.selection.two	3	4	0.160692179426304	which	You blind people ! Which is greater , the gift or the altar that makes the gift holy ?
+41011028a	thing.kind	3	2	0.158958060844959	what kind of	They asked , " What kind of authority do you have for doing these things ? 
+40026066	thing.think	3	5	0.157000453529559	what	What do you think ? " And they answered , " He deserves to die ! "
+40023017	thing.selection.two	3	4	0.156528145669773	which	You foolish and blind people ! Which is greater , the gold or the temple that makes the gold holy ?
+40021028	thing.think	3	5	0.153066737560373	what	“ What do you think ? A man had two sons . Now he came to the first and said , ‘ Son , go and work in the vineyard today . ’
+42013018a	NA	3	5	0.145087319940392	what	Jesus asked , " What is God’s kingdom like ? 
+43021021	NA	3	5	0.142693103129399	~	When Peter saw this disciple , he said to Jesus , " Lord , what about him ? "
+44021022	NA	3	5	0.120510430169914	~	What about this ? Without a doubt , they will hear that you have arrived .
+43011056	thing.think	3	5	0.117947902072016	what	They were looking for Jesus . As they spoke to each other in the temple , they said , " What do you think ? He won’t come to the festival , will he ? "
+42007031b	NA	3	2	0.103831133549659	what	" What are they like ?
+41006002b	NA	3	5	0.102860327463922	what	What’s this wisdom he’s been given ? 
+46015029b	NA	3	4	0.100628916139226	what	Otherwise , what are those who are getting baptized for the dead doing ? 
+40019018	thing.selection.multiple.pl	3	5	0.0894971031520894	which ones	The man said , " Which ones ? " Then Jesus said , " Don’t commit murder . Don’t commit adultery . Don’t steal . Don’t give false testimony .
+40022036	thing.selection.multiple.sg	3	1	0.0833719085341836	what	" Teacher , what is the greatest commandment in the Law ? "
+40017025a	thing.think	3	5	0.0682218853098483	what	" Yes , " he said . But when they came into the house , Jesus spoke to Peter first . " What do you think , Simon ? 
+42008030	NA	3	2	0.0681485842240529	what	Jesus asked him , " What is your name ? " " Legion , " he replied , because many demons had entered him .
+60004018	NA	3	5	0.0521240673632837	what	If the righteous are barely rescued , what will happen to the godless and sinful ?
+40018012	thing.think	3	5	0.050926252822954	what	What do you think ? If someone had one hundred sheep and one of them wandered off , wouldn’t he leave the ninety-nine on the hillsides and go in search for the one that wandered off ?
+44007049a	thing.kind	3	5	0.0501889569252388	what kind of	Heaven is my throne , and the earth is my footstool . ‘ What kind of house will you build for me , ’ says the Lord , 
+43010032	thing.selection.multiple.sg	3	2	0.0483220247731585	which	Jesus responded , " I have shown you many good works from the Father . For which of those works do you stone me ? "
+41012028	thing.selection.multiple.sg	3	2	0.0451433773272012	which	One of the legal experts heard their dispute and saw how well Jesus answered them . He came over and asked him , " Which commandment is the most important of all ? "
+44010021	NA	3	4	0.0414148712764126	why	So Peter went downstairs and told them , " I’m the one you are looking for . Why have you come ? "
+42016007	quantity.mass	5	5	0.0241395915747205	how much	Then the manager said to another , ‘ How much do you owe ? ’ He said , ‘ One thousand bushels of wheat . ’ He said , ‘ Take your contract and write eight hundred . ’
+44022016	thing.patient	3	4	0.0214233118346925	what	What are you waiting for ? Get up , be baptized , and wash away your sins as you call on his name . ’
+42016005	quantity.mass	5	5	0.00900251149350562	how much	“ One by one , the manager sent for each person who owed his master money . He said to the first , ‘ How much do you owe my master ? ’
+48003019	NA	3	4	-0.0905883834607061	why	So why was the Law given ? It was added because of offenses , until the descendant would come to whom the promise had been made . It was put in place through angels by the hand of a mediator .
+41011005	thing.patient	3	4	-0.037459064655854	what	Some people standing around said to them , " What are you doing , untying the colt ? "
+42006002	intention	4	5	0.626346858552947	why	Some Pharisees said , " Why are you breaking the Sabbath law ? "
+42018019	intention	4	5	0.617298174425155	why	Jesus replied , " Why do you call me good ? No one is good except the one God .
+51002020	intention	4	5	0.616604750088355	why	If you died with Christ to the way the world thinks and acts , why do you submit to rules and regulations as though you were living in the world ?
+40020006	intention	4	5	0.614907178455107	why	Around five in the afternoon he went and found others standing around , and he said to them , ‘ Why are you just standing around here doing nothing all day long ? ’
+42024005	intention	4	5	0.612067802161337	why	The women were frightened and bowed their faces toward the ground , but the men said to them , " Why do you look for the living among the dead ?
+44009004	intention	4	5	0.611200118494846	why	He fell to the ground and heard a voice asking him , " Saul , Saul , why are you harassing me ? "
+40009004	intention	4	5	0.610680992210952	why	But Jesus knew what they were thinking and said , " Why do you fill your minds with evil things ?
+40022018	intention	4	5	0.606842396966704	why	Knowing their evil motives , Jesus replied , " Why do you test me , you hypocrites ?
+42019023	intention	4	5	0.605450752760019	why	Why then didn’t you put my money in the bank ? Then when I arrived , at least I could have gotten it back with interest . ’
+45009020c	intention	4	5	0.604702143719319	why	" Why did you make me like this ? "
+44004025a	NA	4	5	0.602020153291731	why	You are the one who spoke by the Holy Spirit through our ancestor David , your servant : Why did the Gentiles rage , 
+40027046	NA	4	5	0.600425381897564	why	At about three Jesus cried out with a loud shout , " Eli , Eli , lama sabachthani , " which means , " My God , my God , why have you left me ? "
+41007005	NA	4	5	0.597776898371921	why	So the Pharisees and legal experts asked Jesus , " Why are your disciples not living according to the rules handed down by the elders but instead eat food with ritually unclean hands ? "
+41011031b	NA	4	5	0.59643713156022	why	" If we say , ‘ It’s of heavenly origin , ’ he’ll say , ‘ Then why didn’t you believe him ? ’
+44003012b	NA	4	5	0.594790003929655	why	Why are you staring at us as if we made him walk by our own power or piety ?
+43007019	NA	4	5	0.594534192112383	why	Didn’t Moses give you the Law ? Yet none of you keep the Law . Why do you want to kill me ? "
+40013010	NA	4	5	0.594470270933435	why	Jesus’ disciples came and said to him , " Why do you use parables when you speak to the crowds ? "
+43008046b	NA	4	5	0.593690199432399	why	Since I speak the truth , why don’t you believe me ?
+41014006	NA	4	3	0.593391680129678	why	Jesus said , " Leave her alone . Why do you make trouble for her ? She has done a good thing for me .
+40015002	NA	4	5	0.592574758083516	why	" Why are your disciples breaking the elders’ rules handed down to us ? They don’t ritually purify their hands by washing before they eat . "
+41002008	NA	4	5	0.592500087926279	why	Jesus immediately recognized what they were discussing , and he said to them , " Why do you fill your minds with these questions ?
+40016008	NA	4	5	0.590559503322657	why	Jesus knew what they were discussing and said , " You people of weak faith ! Why are you discussing among yourselves the fact that you don’t have any bread ?
+40019017	NA	4	5	0.590293087816058	why	Jesus said , " Why do you ask me about what is good ? There’s only one who is good . If you want to enter eternal life , keep the commandments . "
+42024038a	NA	4	3	0.582849777023963	why	He said to them , " Why are you startled ? 
+42012057	NA	4	5	0.582549905871757	why	And why don’t you judge for yourselves what is right ?
+44003012a	NA	4	5	0.58089977342241	why	Seeing this , Peter addressed the people : “ You Israelites , why are you amazed at this ? 
+42019033	NA	4	3	0.580197840723358	why	As they were untying the colt , its owners said to them , " Why are you untying the colt ? "
+40015003	NA	4	5	0.575170568125663	why	Jesus replied , " Why do you break the command of God by keeping the rules handed down to you ?
+43013037	NA	4	5	0.574049626608859	why	Peter asked , " Lord , why can’t I follow you now ? I’ll give up my life for you . "
+44007026	NA	4	5	0.573606061354629	why	The next day he came upon some Israelites who were caught up in an argument . He tried to make peace between them by saying , ‘ You are brothers ! Why are you harming each other ? ’
+42006046	NA	4	5	0.573210559131836	why	" Why do you call me ‘ Lord , Lord ’ and don’t do what I say ?
+40008026	NA	4	5	0.572762880086406	why	He said to them , " Why are you afraid , you people of weak faith ? " Then he got up and gave orders to the winds and the lake , and there was a great calm .
+40009014	NA	4	5	0.572010216829115	why	At that time John’s disciples came and asked Jesus , " Why do we and the Pharisees frequently fast , but your disciples never fast ? "
+43007045	NA	4	5	0.564943827977645	why	The guards returned to the chief priests and Pharisees , who asked , " Why didn’t you bring him ? "
+41008012	NA	4	5	0.559957297932885	why	With an impatient sigh , Jesus said , " Why does this generation look for a sign ? I assure you that no sign will be given to it . "
+40014031	NA	4	5	0.559342350673658	why	Jesus immediately reached out and grabbed him , saying , " You man of weak faith ! Why did you begin to have doubts ? "
+43012005	NA	4	5	0.557750099576389	why	" This perfume was worth a year’s wages ! Why wasn’t it sold and the money given to the poor ? " (
+43007023	NA	4	5	0.557054006114663	why	If a man can be circumcised on the Sabbath without breaking Moses’ Law , why are you angry with me because I made an entire man well on the Sabbath ?
+43008043	NA	4	5	0.556645417528531	why	Why don’t you understand what I’m saying ? It’s because you can’t really hear my words .
+43018023	NA	4	3	0.555797633066622	why	Jesus replied , " If I speak wrongly , testify about what was wrong . But if I speak correctly , why do you strike me ? "
+44026008	NA	4	5	0.555533954718965	why	Why is it inconceivable to you that God raises the dead ?
+42022046	NA	4	5	0.54946615130766	why	He said to them , " Why are you sleeping ? Get up and pray so that you won’t give in to temptation . "
+42024038b	NA	4	5	0.543959298550671	why	Why are doubts arising in your hearts ?
+45014010b	NA	4	5	0.541022362630424	why	Or why do you look down on your brother or sister ? We all will stand in front of the judgment seat of God .
+42019031	NA	4	5	0.540920683372107	why	If someone asks , ‘ Why are you untying it ? ’ just say , ‘ Its master needs it . ’ "
+46010030	NA	4	5	0.539360766247929	why	If I participate with gratitude , why should I be blamed for food I thank God for ?
+40019007	NA	4	5	0.538508291079471	why	The Pharisees said to him , " Then why did Moses command us to give a divorce certificate and divorce her ? "
+40017010	NA	4	5	0.534331929828898	why	The disciples asked , " Then why do the legal experts say that Elijah must first come ? "
+42002049	NA	4	5	0.532819290054272	why	Jesus replied , " Why were you looking for me ? Didn’t you know that it was necessary for me to be in my Father’s house ? "
+40017019	NA	4	5	0.530212206689466	why	Then the disciples came to Jesus in private and said , " Why couldn’t we throw the demon out ? "
+66017007	NA	4	5	0.529804851800602	why	Then the angel said to me , " Why are you amazed ? I will tell you the mystery of the woman and the seven-headed , ten-horned beast that carries her .
+47011011	NA	4	5	0.527815551324668	why	Why ? Is it because I don’t love you ? God knows that I do !
+43018021	NA	4	3	0.527181183600337	why	Why ask me ? Ask those who heard what I told them . They know what I said . "
+42002048	NA	4	5	0.52571663958231	why	When his parents saw him , they were shocked . His mother said , " Child , why have you treated us like this ? Listen ! Your father and I have been worried . We’ve been looking for you ! "
+43001025	NA	4	5	0.523376110327461	why	asked , " Why do you baptize if you aren’t the Christ , nor Elijah , nor the prophet ? "
+41005039a	NA	4	3	0.521317005738775	what	He went in and said to them , " What’s all this commotion 
+42012026	NA	4	5	0.512355912278612	why	If you can’t do such a small thing , why worry about the rest ?
+46004007c	NA	4	5	0.512322583094572	why	And if you received it , then why are you bragging as if you didn’t receive it ?
+43009027	NA	4	5	0.512052649578095	why	He replied , " I already told you , and you didn’t listen . Why do you want to hear it again ? Do you want to become his disciples too ? "
+43020015a	NA	4	3	0.508302544193792	why	Jesus said to her , " Woman , why are you crying ? 
+45003007b	NA	4	5	0.507753867627678	why	why am I still judged as a sinner ?
+46010029	NA	4	5	0.507636096183236	why	Now when I say " conscience " I don’t mean yours but the other person’s . Why should my freedom be judged by someone else’s conscience ?
+44015010	NA	4	5	0.503227294724817	why	Why then are you now challenging God by placing a burden on the shoulders of these disciples that neither we nor our ancestors could bear ?
+44001011	NA	4	3	0.499171773503156	why	They said , " Galileans , why are you standing here , looking toward heaven ? This Jesus , who was taken up from you into heaven , will come in the same way that you saw him go into heaven . "
+45014010a	NA	4	5	0.49910718214952	why	But why do you judge your brother or sister ? 
+40006028	NA	4	5	0.490879686420483	why	And why do you worry about clothes ? Notice how the lilies in the field grow . They don’t wear themselves out with work , and they don’t spin cloth .
+45009019a	NA	4	5	0.485530028664249	why	So you are going to say to me , " Then why does he still blame people ? 
+42006041	NA	4	5	0.48491289186241	why	Why do you see the splinter in your brother’s or sister’s eye but don’t notice the log in your own eye ?
+45009032	NA	4	5	0.479448931281725	why	Why ? It’s because they didn’t go for it by faith but they went for it as if it could be reached by doing something . They have tripped over a stumbling block .
+41011003	NA	4	3	0.474422569823423	why	If anyone says to you , ‘ Why are you doing this ? ’ say , ‘ Its master needs it , and he will send it back right away . ’ "
+46015030b	NA	4	5	0.473130170355639	why	Why are we in danger all day every day ?
+62003012	NA	4	5	0.468442113394013	why	Don’t behave like Cain , who belonged to the evil one and murdered his brother . And why did he kill him ? He killed him because his own works were evil , but the works of his brother were righteous .
+43004027b	NA	4	3	0.467498599339878	why	" Why are you talking with her ? "
+44014015	NA	4	3	0.462967168731629	what	" People , what are you doing ? We are humans too , just like you ! We are proclaiming the good news to you : turn to the living God and away from such worthless things . He made the heaven , the earth , the sea , and everything in them .
+40009011	NA	4	5	0.462188991405156	why	But when the Pharisees saw this , they said to his disciples , " Why does your teacher eat with tax collectors and sinners ? "
+44005003	NA	4	5	0.459289802689857	how	Peter asked , " Ananias , how is it that Satan has influenced you to lie to the Holy Spirit by withholding some of the proceeds from the sale of your land ?
+43010020	NA	4	3	0.452117682218757	why	Many of them said , " He has a demon and has lost his mind . Why listen to him ? "
+46015029c	NA	4	3	0.421592011644724	why	If the dead aren’t raised , then why are they being baptized for them ?
+42005022	NA	4	3	0.391467876753807	why	Jesus recognized what they were discussing and responded , " Why do you fill your minds with these questions ?
+44005009	NA	4	5	0.371980281538622	how	He replied , " How could you scheme with each other to challenge the Lord’s Spirit ? Look ! The feet of those who buried your husband are at the door . They will carry you out too . "
+44005004	NA	4	5	0.360753759030356	what	Wasn’t that property yours to keep ? After you sold it , wasn’t the money yours to do with whatever you wanted ? What made you think of such a thing ? You haven’t lied to other people but to God ! "
+41002007a	NA	4	5	0.338489953814615	why	" Why does he speak this way ? He’s insulting God . 
+44010029	NA	4	3	0.301727689853229	why	For this reason , when you sent for me , I came without objection . I want to know , then , why you sent for me . "
+41014004	NA	4	3	0.29203127099942	why	Some grew angry . They said to each other , " Why waste the perfume ?
+43014022	NA	4	5	0.248591931868587	why	Judas ( not Judas Iscariot ) asked , " Lord , why are you about to reveal yourself to us and not to the world ? "
+42012056	NA	4	5	0.241457344908593	how	Hypocrites ! You know how to interpret conditions on earth and in the sky . How is it that you don’t know how to interpret the present time ?
+44021013a	NA	4	3	0.221698078752169	why	Paul replied , " Why are you doing this ? 
+40016011	NA	4	5	0.0651361661141452	~	Don’t you know that I wasn’t talking about bread ? But be on your guard for the yeast of the Pharisees and Sadducees . "
+48004009a	NA	4	5	0.0334661661436368	how	But now , after knowing God ( or rather , being known by God ) , how can you turn back again to the weak and worthless world system ? 
+45010014c	NA	5	3	0.540148548380297	how	And how can they hear without a preacher ?
+54003005	NA	5	4	0.539055276478758	how	because if they don’t know how to manage their own household , how can they take care of God’s church ?
+45010014a	NA	5	3	0.536285869644258	how	So how can they call on someone they don’t have faith in ? 
+45010014b	NA	5	3	0.523066911158968	how	And how can they have faith in someone they haven’t heard of ? 
+42006042	NA	5	3	0.522939116312175	how	How can you say to your brother or sister , ‘ Brother , Sister , let me take the splinter out of your eye , ’ when you don’t see the log in your own eye ? You deceive yourselves ! First take the log out of your eye , and then you will see clearly to take the splinter out of your brother’s or sister’s eye .
+43005044	NA	5	3	0.521684784511706	how	How can you believe when you receive praise from each other but don’t seek the praise that comes from the only God ?
+41004013	manner	5	3	0.520485587694876	how	" Don’t you understand this parable ? Then how will you understand all the parables ?
+43006052	NA	5	3	0.512373363794418	how	Then the Jews debated among themselves , asking , " How can this man give us his flesh to eat ? "
+43003012	NA	5	3	0.511313803631299	how	If I have told you about earthly things and you don’t believe , how will you believe if I tell you about heavenly things ?
+43014005	NA	5	3	0.504705614328709	how	Thomas asked , " Lord , we don’t know where you are going . How can we know the way ? "
+40026054	NA	5	3	0.503587399123257	how	But if I did that , how would the scriptures be fulfilled that say this must happen ? "
+41003023	NA	5	3	0.50220298965502	how	When Jesus called them together he spoke to them in a parable : " How can Satan throw Satan out ?
+40023033	NA	5	4	0.501105954432742	how	You snakes ! You children of snakes ! How will you be able to escape the judgment of hell ?
+43005047	NA	5	3	0.500826402476723	how	If you don’t believe the writings of Moses , how will you believe my words ? "
+43003004	NA	5	3	0.490903113802725	how	Nicodemus asked , " How is it possible for an adult to be born ? It’s impossible to enter the mother’s womb for a second time and be born , isn’t it ? "
+43003009	NA	5	3	0.489965366731874	how	Nicodemus said , " How are these things possible ? "
+46015035a	manner	5	3	0.480706080283637	how	But someone will say , " How are the dead raised ? 
+42001034	NA	5	3	0.480479867734894	how	Then Mary said to the angel , " How will this happen since I haven’t had sexual relations with a man ? "
+42020044	NA	5	4	0.477624131798122	how	Since David calls him ‘ Lord , ’ how can he be David’s son ? "
+43009010	manner	5	3	0.475904588497195	how	So they asked him , " How are you now able to see ? "
+44008031	NA	5	3	0.472936667924464	how	The man replied , " Without someone to guide me , how could I ? " Then he invited Philip to climb up and sit with him .
+40021020	manner	5	4	0.469211648306624	how	When the disciples saw it , they were amazed . " How did the fig tree dry up so fast ? " they asked .
+43009026b	manner	5	3	0.462331611424864	how	How did he heal your eyes ? "
+45006002	NA	5	4	0.461914956612938	how	Absolutely not ! All of us died to sin . How can we still live in it ?
+45010015	NA	5	3	0.456402768834993	how	And how can they preach unless they are sent ? As it is written , How beautiful are the feet of those who announce the good news .
+46014007	NA	5	3	0.446797099397433	how	Likewise , things that aren’t alive like a harp or a lyre can make a sound , but if there aren’t different notes in the sounds they make , how will the tune from the harp or the lyre be recognized ?
+43009019	NA	5	4	0.438949461731959	how	The Jewish leaders asked them , " Is this your son ? Are you saying he was born blind ? How can he now see ? "
+58002003	NA	5	3	0.438626795779312	how	how will we escape if we ignore such a great salvation ? It was first announced through the Lord , and then it was confirmed by those who heard him .
+41012037	NA	5	4	0.420692378108769	how	David himself calls him ‘ Lord , ’ so how can he be David’s son ? " The large crowd listened to him with delight .
+44002008	NA	5	4	0.401246378724496	how	How then can each of us hear them speaking in our native language ?
+43007015	NA	5	1	0.394841609546417	how	Astonished , the Jewish leaders asked , " He’s never been taught ! How has he mastered the Law ? "
+40022012	NA	5	4	0.391470249444309	how	He said to him , ‘ Friend , how did you get in here without wedding clothes ? ’ But he was speechless .
+46014009	NA	5	2	0.387198049842976	how	It’s the same way with you : If you don’t use language that is easy to understand when you speak in a tongue , then how will anyone understand what is said ?
+42001018	NA	5	3	0.351206253674253	how	Zechariah said to the angel , " How can I be sure of this ? My wife and I are very old . "
+43006042	manner.statement	5	4	0.348942103007583	how	They asked , " Isn’t this Jesus , Joseph’s son , whose mother and father we know ? How can he now say , ‘ I have come down from heaven ’ ? "
+43004009	manner.statement	5	4	0.269729414616466	why	The Samaritan woman asked , " Why do you , a Jewish man , ask for something to drink from me , a Samaritan woman ? " ( Jews and Samaritans didn’t associate with each other . )
+43012034a	manner.statement	5	4	0.263998963391978	how	The crowd responded , " We have heard from the Law that the Christ remains forever . How can you say that the Human One must be lifted up ? 
+42020041	manner.statement	5	4	0.237909184025389	why	Jesus said to them , " Why do they say that the Christ is David’s son ?
+41012035	manner.statement	5	4	0.226850121234057	why	While Jesus was teaching in the temple , he said , " Why do the legal experts say that the Christ is David’s son ?
+46012017b	NA	5	1	0.174849145223697	what	And if the whole body were an ear , what would happen to the sense of smell ?
+43008033	manner.statement	5	4	0.152420982451009	how	They responded , " We are Abraham’s children ; we’ve never been anyone’s slaves . How can you say that we will be set free ? "
+43001048	NA	5	1	0.141506319889598	how	Nathanael asked him , " How do you know me ? " Jesus answered , " Before Philip called you , I saw you under the fig tree . "
+46012017a	NA	5	1	0.137301341834676	what	If the whole body were an eye , what would happen to the hearing ? 
+46015012	manner.statement	5	4	0.133890697148747	how	So if the message that is preached says that Christ has been raised from the dead , then how can some of you say , " There’s no resurrection of the dead " ?
+43014009	manner.statement	5	4	0.131854352511796	how	Jesus replied , “ Don’t you know me , Philip , even after I have been with you all this time ? Whoever has seen me has seen the Father . How can you say , ‘ Show us the Father ’ ?
+42010026b	NA	5	3	0.103284639006211	how	How do you interpret it ? "
+60004017	NA	5	3	0.0871660486163544	what	because it’s time for judgment to begin with God’s own household . But if judgment starts with us , what will happen to those who refuse to believe God’s good news ?
+40022043	manner.statement	5	4	0.0566971380869991	how	He said , " Then how is it that David , inspired by the Holy Spirit , called him Lord when he said ,
+48002014	manner.statement	5	4	0.0363109140278522	how	But when I saw that they weren’t acting consistently with the truth of the gospel , I said to Cephas in front of everyone , " If you , though you’re a Jew , live like a Gentile and not like a Jew , how can you require the Gentiles to live like Jews ? "
+40015034	quantity.count	5	3	0.0122193774560676	how much	Jesus said , " How much bread do you have ? " They responded , " Seven loaves and a few fish . "
+41008020	quantity.count	5	6	0.00983190230445319	how many	" And when I broke seven loaves of bread for those four thousand people , how many baskets full of leftovers did you gather ? " They answered , " Seven . "
+41009050	NA	5	3	0.00931107588155677	how	Salt is good ; but if salt loses its saltiness , how will it become salty again ? Maintain salt among yourselves and keep peace with each other . "
+40018021	quantity.frequency	5	6	0.00543546196461342	how many times	Then Peter said to Jesus , " Lord , how many times should I forgive my brother or sister who sins against me ? Should I forgive as many as seven times ? "
+46015035b	NA	5	3	-0.011401342501827	what kind of	What kind of body will they have when they come back ? "
+41009012	manner.statement	5	4	-0.00973769392435786	why	He answered , " Elijah does come first to restore all things . Why was it written that the Human One would suffer many things and be rejected ?
+43006062	NA	5	3	-0.00148617474135193	~	What if you were to see the Human One going up where he was before ?
+40025039	time.general.past	6	1	0.477686433507522	when	When did we see you sick or in prison and visit you ? ’
+40025038	time.general.past	6	1	0.463050239437966	when	When did we see you as a stranger and welcome you , or naked and give you clothes to wear ?
+40025037	time.general.past	6	2	0.458413544775502	when	“ Then those who are righteous will reply to him , ‘ Lord , when did we see you hungry and feed you , or thirsty and give you a drink ?
+42021007a	time.general.future	6	1	0.429094975744342	when	They asked him , " Teacher , when will these things happen ? 
+43006025	time.selection	6	5	0.419421703285635	when	When they found him on the other side of the lake , they asked him , " Rabbi , when did you get here ? "
+42017020	time.general.future	6	3	0.415462360893505	when	Pharisees asked Jesus when God’s kingdom was coming . He replied , " God’s kingdom isn’t coming with signs that are easily noticed .
+66006010a	duration.future	6	5	0.291752700935988	how long	They cried out with a loud voice , " Holy and true Master , how long will you wait before you pass judgment ? 
+41009019b	duration.future	6	3	0.242181940128437	how long	How long will I put up with you ? Bring him to me . "
+42009041a	duration.future	6	5	0.240042334712159	how long	Jesus answered , " You faithless and crooked generation , how long will I be with you 
+43010024	duration.future	6	5	0.236430562119935	how long	The Jewish opposition circled around him and asked , " How long will you test our patience ? If you are the Christ , tell us plainly . "
+45004010	NA	6	5	0.171502835817416	how	So how was it credited ? When he was circumcised , or when he wasn’t circumcised ? In fact , it was credited while he still wasn’t circumcised , not after he was circumcised .
+41009021	duration.past	6	5	0.170365999952752	how long	Jesus asked his father , " How long has this been going on ? " He said , " Since he was a child .
