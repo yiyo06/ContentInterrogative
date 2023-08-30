@@ -1,0 +1,743 @@
+40002002	hehe		barabaza bati : " Umwami w'Abayuda yavutse ari hehe ? Kuko twabonye inyenyeri yiwe ? " " ri mu buseruko , none tukaba tuzanywe no kumushengerera . "
+40002004	hehe		Akoranya abakuru b'abaherezi n'abahinga b'ivyanditswe bose bo muri ubwo bwoko , arababaza ati : " Kristo azovukira hehe ? "
+40003007	nde		Abonye benshi bo mu Bafarisayo no mu Basadukayo bazanywe no kugira ngo ababatize , arababaza ati : " Mwa bana b'inzoka mwe , ni nde yababuriye ngo muhunge ishavu rizoza ? "
+40005013	igiki		Muri umunyu w'isi . Ariko umunyu , iyo ushize uburyohe , uba ukiryoshwa ni igiki ? Nta co uba ukimaze atari ugutabwa hanze ugahonyangwa n'abantu .
+40005046	ki		Ni mwakunda ababakunda , muri n'impera ki ? Mbega abatozakori bo si ko bagira ?
+40005047	iki		Ni mwaramukanya n'incuti zanyu gusa , abandi muzoba mubarusha iki ? Abanyamahanga bo si ko bagira ?
+40006027	nde		Ni nde muri mwebwe yoshobozwa n'amaganya kwisumvya uko yareha nk'ukuboko kumwe ?
+40006028	kuki		Ni kuki mwiganyira kuvyerekeye impuzu ? Ni murabe amashurwe yo ku misozi ingene akura , ntiyirirwa aratama , ntajisha impuzu ;
+40006031a	iki		Nuko ntimukiganyire , ngo tuzorya iki ? 
+40006031b	iki		canke tuzonywa iki ? 
+40006031c	iki		canke tuzokwambara iki ?
+40007003	iki		Urabira iki akabango kari mu jisho rya mugenzawe , kandi akabango kari mu jisho ryawe ntukitegereze ?
+40007004	ute		Wobwira ute mugenzawe uti : " Zana ndagutosore akabango kari mu jisho ryawe , nawe ufise akandi mu jisho ryawe ?
+40007009	~		Hari umuntu muri mwebwe , umwana wiwe yomusaba umutsima , akamuha ibuye ?
+40007016a	~		Muzobamenyera ku vyo bama . Mbega hari uwokwamura inzabibu ku munyinya , 
+40007016b	~		canke insukoni ku bitovu ?
+40008026	igiki		Arababaza ati : " Ni igiki kibateye ubwoba , mwa bafise ukwizera guke mwe ? " Buno aravyuka azibiza ingunza n'ikiyaga , haba agahwekere rwose .
+40008027	ki		Maze abo bantu baratangara bati : " Uwu ni umuntu ki , umuyaga n'ikiyaga ko bimwumvira ? "
+40008029	iki		Barasemerera bati : " Dupfa iki nawe ga Mwana w'Imana ? Uje hano kutwica nabi igihe cacu kitarashika ? "
+40009004	igiki		Yesu amenye ivyo biyumvira arababaza ati : " Ni igiki kibateye kwiyumvira nabi mu mitima yanyu ? "
+40009005	ikihe		None icoroshe ni ikihe , ni ukuvuga nti : " Uhariwe ivyaha vyawe ; canke ni ukuvuga nti : ' Vyuka , ugende ? ' "
+40009011	igiki gitumye		Abafarisayo babibonye , babaza abigishwa biwe bati : " " Ni igiki gitumye umwigisha wanyu asangira n'abatozakori n'abanyavyaha ? "
+40009014	igiki gituma		Kuri we haza abigishwa ba Yohana bati : " Ni igiki gituma twebwe n'Abafarisayo twisonzesha kenshi , abigishwa bawe ntibisonzeshe ? "
+40009015	~		Yesu arababaza ati : " Abatowe bobabara bate bakiri kumwe n'umukwe ? " Hari imisi izoza umukwe akurwe muri bo , ni ho bazokwisonzesha .
+40010025	~		Umwigishwa biramubereye kumera nk'umwigisha wiwe , n'umushumba nka shebuja . Nyene urugo ko bamwise Beyezebuli , none abo mu rugo rwiwe ntibazorushiriza kubita batyo ?
+40011007	iki		Abo bagiye , Yesu atangura kubwira ishengero ivya Yohana ati : " Mwagiye mu bugaragwa kuraba iki ? " Mbega ni irenga rihungabanywa n'umuyaga ?
+40011008	iki		Ariko mwagiye kuraba iki ? Mbega ni umuntu yambaye impuzu z'igiciro ? Erega abambaye impuzu z'igiciro baba mu ngo z'abami .
+40011009	igiki		Ariko mwajanywe ni igiki ? Mbega kwari ukuraba umuntu avugishwa n'Imana ? Ego me ni co ; kandi ndababwire , aruta uwuvugishwa n'Imana cane .
+40011016	igiki		Ariko abo uru ruvyaro ndabagereranye ni igiki ? Basa n'abana bicaye mw'idandarizo , bahamagara abavukanyi babo
+40012011	nde		Arabishura ati : " Ni nde muri mwebwe yoba afise intama imwe ikagwa mu cobo kw'isabato , ntayifate ngo ayikureyo ? "
+40012026	bute		Na Satani , yosenda Satani , yoba yitandukanije ubwiwe ; none ubwami bwiwe bworama bute ?
+40012027	nde		Ariko jewe namba Beyezebuli ari we anshoboza kwirukana abadayimoni , abana banyu bashobozwa na nde kubasenda ? Ni co gituma ari bo bazobatsindisha .
+40012029	ate		None umuntu yoshobora ate kwinjira mu nzu y'umuntu w'inkomezi kumusahura ibintu atabanje kuboha wa munyenkomezi ? Maze akabona kumusahura ivyo mu nzu yiwe .
+40012034	mute		Mwa bana b'inzoka mwe , mwoshobora mute kuvuga ivyiza muri babi ? Ibibogaboga mu mutima ni vyo akanwa kavuga .
+40012048a	nde		Yishura uno abimubwiye ati : " Mama ni nde ? 
+40012048b	ba nde		Canke bene mama ni ba nde ? "
+40013010	igiki		Abigishwa baramwegera , baramubaza bati : " Mbega ikigutera kubigishiriza mu migani ni igiki ? "
+40013027	hehe		Abashumba ba nyene urugo baraza baramubaza bati : " Mbega mutungwa , ntiwabivye imbuto nziza mu murima wawe ? None urwamfu rwavuye hehe ? "
+40013054a	hehe		Aja mu ntara y'i wabo , yigishiriza mu rusengero rw'Abayuda , bituma batangara bati : " Ubu bwenge n'ivyo bitangaza mbega uwu yabikuye hehe ? " "
+40013054b	~		
+40013056	hehe		Bashiki biwe ntibari i wacu bose ? None ivyo vyose yabikuye hehe ? "
+40014031	igiki		Buno Yesu agorora ukuboko , aramucakira , aramubwira ati : " Yewe w'ukwizera guke , ni igiki cagukekeranishije ? "
+40015002	kuki		bati : " Ni kuki abigishwa bawe barenga imigenzo twabwirijwe n'aba kera , ntibakarabe iyo bagira barye ? "
+40015003	igiki catumye		Na we arababaza ati : " None mweho , ni igiki catumye murenga icagezwe c'Imana ku bwo imigenzo yanyu ? "
+40015033	hehe		Abigishwa baramubaza bati : " Twokura hehe muri ubu bugaragwa imitsima ingana ityo yo guhaza iri shengero ringaho ? "
+40015034	ingahe		Yesu arababaza ati : " Mufise imitsima ingahe ? " Na bo bati : " Ni indwi , n'udufi dukeya . "
+40016008	igiki gitumye		Yesu arabimenya , arababaza ati : " Yemwe abo ukwizera guke , ni igiki gitumye mwiburanya ngo nta mitsima mufise ?
+40016009	~		Ntimuraruha mubimenya , ntimwibutse ya mitsima itanu ku bihumbi bitanu , n'ibiseke mwegeranije uko vyangana ?
+40016010a	~		Canke ya mitsima indwi ku bihumbi bine , 
+40016010b	~		n'ibiseke mwegeranije uko vyangana ?
+40016011	igiki		Ni igiki kibabujije gutahura ko ntababwiye imitsima ? Ariko mwirinde umwambiro w'Abafarisayo n'Abasadukayo . " "
+40016013	nde		Yesu aja mu misozi ihera i Kayisariya mu bwa Filipo , abaza abigishwa biwe ati : " " Abantu bagira ngo Umwana w'umuntu ndi nde ? "
+40016015a	~		Arababaza ati : " Ariko mweho , 
+40016015b	nde		mugira ngo ndi nde ? "
+40016026a	iki		Kandi umuntu vyomumarira iki kwunguka ivyo mw'isi vyose abitangiye ubugingo bwiwe ? 
+40016026b	iki		Canke umuntu yotanga iki ngo acungure ubugingo bwiwe ?
+40017010	igiki gituma		Abigishwa baramubaza bati : " None rero ni igiki gituma abahinga b'ivyanditswe bavuga yuko Eliya akwiye kubanza kuza ? "
+40017017a	ryari		Yesu arishura ati : " Yemwe abo iki gihe mutizera b'inkozi z'ibibi , nzogeza ryari kubana namwe ; 
+40017017b	ryari		nzogeza ryari kubihanganira ? Ni mumunzanire hano . "
+40017019	iki		Maze abigishwa baza kuri Yesu biherereye , baramubaza bati : " Tweho ni iki catumye bitunanira kumusenda ? "
+40017025a	gute		Binjiye mu nzu , Yesu aramwitanga , aramubaza ati : " Uvyiyumvira gute ga Simoni ? 
+40017025b	abahe		Abami bo mw'isi batangisha canke batoza abahe ? Ni ababo canke ni abandi ? "
+40018001	nde		Muri uwo mwanya abigishwa baza kuri Yesu , baramubaza bati : " Umukuru mu bwami bwo mw'ijuru ni nde ? "
+40018012	gute		Muvyiyumvira gute ? Umuntu afise intama ijana , imwe yozimira , ntiyosiga zimwe mirongo icenda n'icenda , akagenda mu misozi kurondera iyazimiye ?
+40018021	kangahe		Maze Petero aza kuri we , aramubwira ati : " Mushingantahe , incuti yanje ni yangirira nabi , nzomuharira ngeze kangahe ? Ngeze indwi ? "
+40019007	igiki catumye		Baramubaza bati : " None se , ni igiki catumye Mose agera ko bamuha ikete ryo kuvavanura , akamwirukana ? "
+40019016	ki		Haza umuntu kuri we , aramubaza ati : " " Mwigisha , nkore iciza ki ngo ndonke ubugingo budashira ? "
+40019017	iki		Aramubaza ati : " Umbariza iki iciza ? " Inziza ni Imwe . Ariko asangwa ugomba kwinjira mu bugingo , witondere ivyagezwe .
+40019018	ibihe		Aramubaza ati : " Ni ibihe ? " Yesu aramwishura ati : " Ntukice , ntugasambane , ntukibe , ntukagirize abandi ibinyoma ,
+40019020	~		Wa musore aramubwira ati : " Ivyo vyose naravyitondeye ; hari ikindi mpajije ? "
+40019025	nde		Abigishwa bavyumvise baratangara cane bati : " None rero , ni nde ashobora gukizwa ? "
+40019027	iki		Buno Petero aramubaza ati : " Mbega twebwe ko twaretse vyose tukagukurikira ; none tuzohabwa iki ? "
+40020006	ko		Kandi nko kw'isaha icumi n'imwe aragenda , abona abandi bihagarariye ; arababwira ati : " Mbega ko mwahagaze hano umusi wose ata co mukora ? "
+40020012	~		bati : " Abaherutse kuza , bagakora isaha imwe gusa , none ko ubaringanije natwe twacumukuye umurango wose no mu ndugumba ! "
+40020021	iki		Aramubaza ati : " Uragomba iki ? " Na we ati : " Bivuge ko aba bahungu banje babiri ngo bazokwicare umwe i buryo bwawe uwundi i bubamfu mu bwami bwawe . "
+40020032	iki		Yesu arahagarara , arazihamagara , arazibaza ati : " Mugomba ko ndabakorera iki ? "
+40021010	nde		Ashitse i Yerusalemu , igisagara cose kirashwabaduka , barabaza bati : " Uwo ni nde ? "
+40021016	~		baramubaza bati : " Urumva ivyo bavuga ? " Yesu arabishura ati : " Ego me ; nta ho murasoma , ngo Mu kanwa k'abana bato n'abonka waroranijemwo ishimwe ? " "
+40021020	igiki		Abigishwa babibonye , baratangara bati : " Mbega uwu musukoni uwu mwanya ukabiranijwe ni igiki ? "
+40021023a	nyabaki		Yinjiye mu rusengero , ariko arigisha , abaherezi bakuru n'abashingantahe b'ubwo bwoko baza kuri we , baramubaza bati : " Mbega ivyo ukora ubikoreshwa n'ububasha nyabaki ? 
+40021023b	nde		Kandi ni nde yaguhaye ubwo bubasha ? "
+40021025a	hehe		None ukubatiza kwa Yohana kwaturutse hehe ? Ni mw'ijuru , canke ni mu bantu ? " Baravugana bati : 
+40021025b	~		" Ni twavuga ko ari mw'ijuru ; 
+40021025c	~		ahava atubaza icatubujije kumwemera ?
+40021028	gute		Muvyumva gute ? Habaye umuntu yarafise abahungu babiri , aragenda abarira umukuru ati : " Genda , mwana wanje , uwu musi uje gukora mu ruzabibu . "
+40021031	uwuhe		None muri abo bompi ni uwuhe yakoze ivyo se agomba ? Baramwishura bati : " Ni uwa mbere . " Yesu arababwira ati : " " Ndababwira ukuri yuko abatozakori n'abasambanyikazi babatanga kwinjira mu bwami bw'Imana . "
+40021040	ate		None nyene umurima ni yiyizira azogira ate , abo barimyi ? "
+40022012	ute		aramubaza ati : " Mugenzi wanje , winjiye ute hano utambaye impuzu y'ubukwe ? " Uno nawe arajorerwa .
+40022017	ute		None utubwire , wiyumvira ute ? Biremerwa gutanga ikori rya Kayisari , canke ntivyemerwa ? "
+40022018	iki		Ariko Yesu amenya ububi bwabo , arababaza ati : " Mungereza iki ga mwa ndyarya mwe ?
+40022020a	nde		Arababaza ati : " Iki gishushanyo n'ibi vyanditsweko ni ivya nde ? "
+40022020b	~		
+40022028	nde		None mw'izuka azoba muka nde muri abo uko ari indwi ? Ko bari bamufise bose !
+40022036	irihe		ati : " " Mwigisha , ibwirizwa risumba ayandi mu vyagezwe ni irihe ? "
+40022042a	mute		ati : " Ivya Kristo muvyiyumvira mute ? " 
+40022042b	nde		Ni mwene nde ? Baramwishura bati : " Ni umwana wa Dawidi . "
+40022043	iki		Na we arababaza ati : " None Dawidi mu vya Mpwemu yamwitiye iki Umwami ? "
+40022045	ate		None Dawidi ko yamwise Umwami , yoshobora ate kuba umwana wiwe ?
+40023017	ikihe		Mwa bipfu n'impumyi mwe , none ni ikihe gihambaye ; ni izahabu canke ni urusengero rweza izahabu ?
+40023019	ikihe		Mwa mpumyi mwe , none ni ikihe ari gikuru , ni ishikanwa , canke ni igicaniro ceza ishikanwa ?
+40023033	mute		Mwa nzoka mwe , mwa bana b'inzoka , muzohunga mute urubanza rwa Gehinomu ?
+40024003a	ryari		Yicaye ku musozi wa Elayono , abigishwa biwe baramwegera bihereranye , baramubaza bati : " Tubwire , ivyo bizobaho ryari , 
+40024003b	ikihe		kandi ikimenyetso kizoba ikihe c'ukuza kwawe n'ico umuhero w'isi ? "
+40024045	nde		None ni nde mushumba wo kwizigirwa w'ubwenge shebuja yosigarana abo mu rugo rwiwe , ngo abagaburire igihe kigeze ?
+40025037	ryari		Maze abagororotsi bazomubaza bati : " Mwana , twakubonye ryari ushonje , tukakugaburira ; canke ufise inyota , tuguha ico unywa ?
+40025038	ryari		Twakubonye ryari uri ingenzi , tuguha indaro ; canke ugenda gusa tukakwambika ?
+40025039	ryari		Twakubonye ryari urwaye , canke uri mw'ibohero , tuza kukuraba ? "
+40025044	ryari		Maze na bo bazomwishura bati : " Mwana , twakubonye ryari ushonje , ufise inyota , uri ingenzi , ugenda gusa , urwaye canke uri mw'ibohero , ntitwagira ico tugukorera ? "
+40026008	iki		Ariko abigishwa babibonye , baritonganya bati : " Mbega ubu buhombe ni ubwo iki ?
+40026010	iki		Yesu avyumvise arababwira ati : " Mubabariza iki uwu mugore ? Ankoreye igikorwa ciza .
+40026015	iki		arababaza ati : " Mwompera iki , nkazomubaronkera ? " " Bamugerera intete z'ifeza mirongo itatu .
+40026017	hehe		Ku musi wo gutangurirako kurya imitsima itambiwe abigishwa baza kuri Yesu , baramubaza bati : " " Ugomba ko tugutegurira hehe aho uriburire ivya Pasika ? "
+40026040	~		Agaruka ku bigishwa , asanga basinziriye , abaza Petero ati : " Ubwo ntimurushe mubana maso nanje n'isaha n'imwe ?
+40026050	~		Yesu aramubarira ati : " Mugenzi wanje , ikikuzanye ni ugikore . " Buno baraza , bashorera amaboko kuri Yesu , baramufata .
+40026054	bite		None ivyanditswe vyoshika bite ko ari ko bikwiye kuba ?
+40026062a	~		Umuherezi mukuru arahaguruka , aramubaza ati : " Nta co wiregura ? 
+40026062b	iki		Aba bakwagirije iki ? "
+40026065	iki		Buno umuherezi mukuru yitabagurirako impuzu ziwe ati : " Ararogose ; turacaronderera iki ivyabona ? Ehe muriyumviye ingene arogose ;
+40026066	kw'iki		mubivuga kw'iki ? " Na bo baramwishura ko akwiye gupfa .
+40026068	nde		bati : " Yewe Kristo , dupfindure , ni nde agukubise ? "
+40027004	iki		ati : " Nacumuye , naguze amaraso y'uwutagira icaha . " Na bo baramwishura bati : " Bidutwaye iki ? Ni ivyawe . "
+40027013	~		Pilato aramubaza ati : " Ntiwumva ingene bakwagiriza vyinshi ? "
+40027017	nde		Bakoranye , Pilato arababaza ati : " Uwo mugomba ko ndabarekurira ni nde ? " Ni Baraba , canke ni Yesu yitwa Kristo ?
+40027021	nde		Ico cegera kirababaza kiti : " Muri abo bompi uwo mugomba ko ndabarekurira ni nde ? " Na bo baramwishura bati : " Ni Baraba . "
+40027022	nte		Pilato arababaza ati : " None Yesu yitwa Kristo , we ndamugire nte ? " Bose bati : " Ni abambwe . "
+40027023a	kuki		Arababaza ati : " Ni kuki ? 
+40027023b	ki		Yakoze ikibi ki ? " Ariko barushiriza gusemerera cane bati : " Ni abambwe . "
+40027046	igiki		Nko kw'isaha y'icenda Yesu asemerera n'ijwi rirenga ati : " " Eli , Eli , lama sabakatani ? " Risobanurwa ngo , " Mana yanje , Mana yanje , ni igiki kikumpebesheje ? "
+41001024	hehe		ati : " " Duhuriye hehe ga Yesu Munyanazareti ? Uje kuduhonya ? Ndakuzi uwo uri we , uri Uwera w'Imana . "
+41001027	iki		Bose baratangara , bituma babazanya bati : " Iki ni iki ? " Ni ukwigisha gusha ! " " Ni ububasha ategeka n'impwemu zihumanye na zo , zikamwumvira . " "
+41002007a	igiki gitumye		bati : " Ni igiki gitumye uwo avuga atyo ? 
+41002007b	nde		Aratyojeje , ni nde ashobora guharira ivyaha , atari umwe , ni we Mana ? "
+41002008	igiki gitumye		Yesu amenye mu mutima wiwe yuko biburanya muri bo batyo , aca arababaza ati : " Ni igiki gitumye mwiburanya ivyo mu mitima yanyu ? "
+41002009	ikihe		Icoroshe ni ikihe , ni ukubarira ikimuga nti : " Uhariwe ivyaha vyawe ; canke ni ukukibarira nti : ' Vyuka , wikorere inderuzo yawe , ugende ? ' "
+41002016	ko		Abahinga b'ivyanditswe bo mu Bafarisayo babonye asangira n'abanyavyaha n'abatozakori babwira abigishwa biwe bati : " Mbega ko asangira n'abatozakori n'abanyavyaha ! "
+41002018	igiki gituma		Kandi abigishwa ba Yohana bo n'Abafarisayo bari bisonzesheje . Baraza , baramubaza bati : " Ni igiki gituma abigishwa ba Yohana n'abigishwa b'Abafarisayo bisonzesha , abigishwa bawe ntibisonzeshe ? "
+41002019	bate		Yesu arababaza ati : " Mbega abatowe bokwisonzesha bate , bakiri kumwe n'umukwe ? Umukwe akiri kumwe na bo ntibashobora kwisonzesha .
+41002024	igiki gitumye		Abafarisayo baramubaza bati : " Ni igiki gitumye bakora ikizira gukorwa kw'isabato ? "
+41003004	~		Arababaza ati : " Mbega ivyemerwa ni ugukora ivyiza kw'isabato canke ni ugukora ibibi ? Gukiza umuntu canke kumwica ? " " Barihorera .
+41003023	ate		Arabahamagara , abacira umugani ati : " Satani yoshobora ate kwirukana Satani ? "
+41003033a	nde		Na we arababaza ati : " Mama ni nde , 
+41003033b	ba nde		canke bene mama ni ba nde ? "
+41004013	mute		Kandi arababaza ati : " Ntimuzi uwo mugani ? none imigani yose muzoyitahura mute ?
+41004030a	iki		Kandi arababaza ati : " Ubwami bw'Imana tubushushanye ni iki ? 
+41004030b	iki		Canke tubusobanurishe umugani ki ?
+41004038	~		Ariko we yari aryamye mu mutwe w'inyuma , yiseguye umusego yisinziriye . Baramukangura , baramubaza bati : " Mwigisha , ntubabaye ko turiko turapfa ? "
+41004040a	igiki		Arababaza ati : " Ni igiki kibateye ubwoba ? 
+41004040b	~		Ntimurizera ? "
+41004041	ki		Baratinya , bagira ubwoba bwinshi , barabazanya bati : " Mbega uwu ni umuntu ki , umuyaga n'ikiyaga ko bimwumvira ? "
+41005007	hehe		asemerera n'ijwi rirenga ati : " Duhuriye hehe ga Yesu Mwana w'Imana Isumbavyose ? Ndakurahiye Imana , ntubabaze ushinyagurira . "
+41005009	nde		Aramubaza ati : " Witwa nde ? " Aramwishura ati : " Gitero ni ryo zina ryanje kuko turi benshi . "
+41005030	nde		Ako kanya Yesu yumva muri we ubushobozi bumuvamwo , ahindukira abandana n'ishengero , arababaza ati : " Ni nde akoze ku mpuzu zanje ? "
+41005031	nde		Abigishwa biwe baramwishura bati : " Ubone abantu bariko barakubanda , nawe ukagira ngo ni nde ankozeko ? "
+41005035	iki		Akivuga , haza abavuye kwa wa mukuru w'isengero ry'Abayuda bati : " Wa mwana wawe aracikanye , uracagorera iki Umwigisha ? "
+41005039a	igiki gitumye		Yinjiye arababaza ati : " Ni igiki gitumye mukoma induru murira ? Umwana ntahwereye , ariko arasinziriye .
+41005039b	~		
+41006002a	hehe		Isabato ishitse , aca yigishiriza mu rusengero rw'Abayuda . Benshi bamwumvise baratangara bati : " Ivyo vyose uwu yabikuye hehe ? " 
+41006002b	ibiki		Kandi n'ubwenge ki yahawe , n'ivyo bitangaza bingana bityo bikorwa n'amaboko yiwe ni ibiki ?
+41006002c	~		
+41006022	~		Umukobwa wa Herodiya nyene arinjira aratamba , Herode n'abashitsi biwe baramushima . Umwami abwira uwo mukobwa ati : " Nsaba ico ugomba cose , ndakiguha . "
+41006024	iki		Arasohoka , abaza nyina ati : " Nsabe iki ? " Aramwishura ati : " Saba umutwe wa Yohana Umubatizi . "
+41006037	~		Arabishura ati : " Mube ari mwebwe mubagaburira . " Baramubaza bati : " Tugende tugure imitsima y'idenariyo amajana abiri , tuyibahe ga barye ? "
+41006038	ingahe		Na we arababaza ati : " Mufise imitsima ingahe ? " Ni mugende muyirabe . Babimenye baramwishura bati : " Ni dutanu , n'udufi tubiri . "
+41007005	igiki gitumye		Abafarisayo n'abahinga b'ivyanditswe baramubaza bati : " Ni igiki gitumye abigishwa bawe badakurikira ingeso twabwirijwe n'aba kera , bagapfa kurisha ivyo kurya intoke zihumanye ? "
+41008004	hehe		Abigishwa biwe baramubaza bati : " Umuntu yokura hehe imitsima yo guhaza aba bantu , ko hano ari mu bugararwa ? "
+41008005	ingahe		Arababaza ati : " Mufise imitsima ingahe ? " Na bo bati : " Ni indwi . " "
+41008012	igiki gitumye		Aruhutsa umutima cane ati : " " Ni igiki gitumye abo iki gihe barondera ikimenyetso ? Ndababwira ukuri abo iki gihe bakazohabwa ikimenyetso ! "
+41008017	igiki gitumye		Yesu arabimenya , arababaza ati : " Ni igiki gitumye mwiburanya ngo nta mitsima mufise ? " Ntimuraruha mubimenya canke mubitahura ? Mbega mufise imitima ikomantaye ?
+41008018a	~		Amaso ko muyafise ntimuruha mubona ? 
+41008018b	~		Mufise amatwi , ntimwumva , kandi ntimwibuka ?
+41008019	bingahe		Hamwe namanyagurira ya mitsima itanu ibihumbi bitanu , mwegeranije ibiseke bingahe vyuzuye utumanyagu ? " Baramwishura bati : " Ni icumi na bibiri . "
+41008020	bingahe		Kandi hamwe namanyagurira ya mitsima indwi ibihumbi bine , mwatororokanije ibiseke bingahe vyuzuye utumanyagu ? Baramwishura bati : " Ni indwi . "
+41008021	~		Arababaza ati : " Ntimuraruha mubitahura ? "
+41008023	~		Afata iyo mpumyi ukuboko , ayikura mu mihana , acira amate mu maso yayo , ayirambikako ibiganza , arayibaza ati : " Hari ico ubona ? "
+41008027	bnde		Yesu avanayo n'abigishwa biwe , aja mu mihana y'i Kayisariya mu bwa Filipo . Bari mu nzira , abaza abigishwa biwe ati : " Abantu bagira ngo ndi nde ? "
+41008029a	~		Na we arababaza ati : 
+41008029b	nde		" Ariko mweho mugira ngo ndi nde ? " Petero aramwishura ati : " Uri Kristo . "
+41008036	iki		Kandi umuntu vyomumarira iki kwunguka ivyo mw'isi vyose , abitangiye ubugingo bwiwe ko iciru ?
+41008037	iki		Mbega umuntu yotanga iki ngo acungure ubugingo bwiwe ?
+41009010	~		Babika iryo jambo , babazanya ivyo ukuzuka mu bapfuye ivyo ari vyo .
+41009011	ko		Baramubaza bati : " Mbega abahinga b'ivyanditswe ko bavuga yuko Eliya akwiye kubanza kuza ? "
+41009012	bite		Arabishura ati : " Eliya abanza kuza koko , akaroranya vyose neza . " Ariko vyanditswe bite ku Mwana w'umuntu yuko azobabazwa vyinshi , agatiturwa ?
+41009016	ibiki		Arababaza ati : " Mwariko murabahaririza ibiki ? "
+41009019a	ryari		Arabishura ati : " Yemwe abo iki gihe mutizera , nzogeza ryari kubana namwe ? 
+41009019b	ryari		Nzogeza ryari kubihanganira ? Ni mumunzanire . "
+41009021	igihe		Yesu abaza se ati : " Amaze igihe kingana iki bimutera bityo ? " Aramwishura ko vyahereye mu bwana bwiwe . "
+41009028	ko		Yinjiye mu nzu , abigishwa biwe bamubaza biherereye bati : " Tweho mbega ko vyatunaniye kuyirukana ? "
+41009033	ibiki		Bashika i Kaperinawumu . Yinjiye mu nzu arababaza ati : " Mwaharira ibiki mu nzira ? "
+41009050	iki		Umunyu ni mwiza , ariko umunyu woshira uburyohe , mwoba mukiwuryohesha iki ? Mugire umunyu mu mitima yanyu , kandi mubane amahoro .
+41010003	iki		Na we arababaza ati : " Mose yabagereye iki ? "
+41010017	iki		Agisohoka ngo akomeze urugendo , haza umuntu kuri we yirukanga , aramupfukamira , aramubaza ati : " " Mwigisha mwiza , nkore iki , ngo nze ndagwe ubugingo budashira ? "
+41010018	iki		Yesu aramubaza ati : " Unyitira iki mwiza ? Nta mwiza , atari umwe , ni we Mana . "
+41010026	nde		Baratangara rwose bati : " None rero , ni nde ashobora gukizwa ? "
+41010036	iki		Arababaza ati : " Mugomba ko ndabaha iki ? "
+41010051	iki		Yesu arayibaza ati : " Ugomba ko ndagukorera iki ? " Ino mpumyi iramwishura iti : " Ndagomba guhumuka , Mwigisha . "
+41011003	iki		Kandi ni hagira uwubabaza ati : " Ivyo mubikoreye iki ? " Mumwishure muti : " Databuja ni we ayigomba . " Uwo mwanya arayirungika ino .
+41011005	iki		Bamwe mu bahahagaze barababaza bati : " Mukora iki ko muzitura iyo nyana ? "
+41011028a	ki		baramubaza bati : " Ni ububasha ki bugutera gukora ivyo ? 
+41011028b	nde		Canke ni nde yaguhaye ubwo bubasha bwo kubikora ? "
+41011030	~		None ukubatiza kwa Yohana kwaturutse mw'ijuru , canke se mu bantu ? Ni munyishure . "
+41011031a	~		Baravugana bati : " Ni twavuga ko ari mw'ijuru ; ahava atubaza ati : 
+41011031b	igiki		' Ni igiki cababujije kumwemera ? ' "
+41012009	ate		None nyene uwo murima azogenza ate ? Abo barimyi azoza abice rubi , umurima w'inzabibu awusigarane abandi .
+41012015	iki		Turitange , canke dusigeho ? " Maze amenye uburyarya bwabo arababaza ati : " Mungereza iki ? Ni munzanire idenariyo , ndayirabe . "
+41012016a	nde		Barayizana . Arababaza ati : " Iki gishushanyo n'ibi vyanditsweko ni ivya nde ? " baramwishura bati : " Ni ivya Kayisari . "
+41012016b	~		
+41012023	nde		Mbega mw'izuka azoba muka nde muri bo ? Ko bari bamufise bose uko ari indwi ! "
+41012028	irihe		Haza umwe mu bahinga b'ivyanditswe yumva babazanya , amenye ko abishuye neza , aramubaza ati : " Ibwirizwa ry'imbere muri yose ni irihe ? "
+41012035	bate		Kandi Yesu yigishiriza mu rusengero , arababaza ati : " Abahinga b'ivyanditswe bavuga bate yuko Kristo ari umwana wa Dawidi ? "
+41012037	hehe		Dawidi ko ari we amwita Umwami , none ivyo kuba umwana wiwe vyavuye hehe ? " Abenshi mw'ishengero banezererwa kumwumva .
+41013004a	ryari		bati : " Tubwire , ivyo bizobaho ryari , 
+41013004b	c'igihe		ikimenyetso kizoba iki , c'igihe ivyo vyose bizoba bigira bishike ? "
+41014004	iki		Bamwe muri bo baritonganya bati : " Mbega ubu buhombe bw'aya mavuta ni ubwo iki ? "
+41014006	iki		Yesu arababarira ati : " Ni mumureke ! Mumubabariza iki ? Ankoreye igikorwa ciza .
+41014012	hehe		Ku musi wo gutangurirako ivyo kurya imitsima itambiwe , uwo babagako umwagazi w'intama wa Pasika , abigishwa biwe baramubaza bati : " " Ugomba ko twoja hehe gutegura ivya Pasika ngo ubirye ? "
+41014014	hehe		Aho aja kwinjira mubwire nyene urwo rugo muti : ' Umwigisha agize ngo indaro yiwe y'aho asangirira ivya Pasika n'abigishwa biwe iri hehe ? "
+41014060a	~		Umuherezi mukuru arahaguruka , ahagarara hagati , abaza Yesu ati : " Nta co wiregura ? 
+41014060b	iki		Aba bakwagirije iki ? "
+41014063	iki		Maze umuherezi mukuru yitabagurirako imyambaro yiwe , aravuga ati : " Turacaronderera iki ivyabona ?
+41014064	iki		Muriyumviye ingene atutse Imana ; mugira ngo iki ? " Bose bamucira urubanza ngo akwiye gupfa .
+41015004	~		Pilato yongera kumubaza ati : " Nta co wiregura ? " Umve ivyo bakwagiriza ingene ari vyinshi . "
+41015012	nte		Pilato yongera kubabaza ati : " " None uwo mwita Umwami w'Abayuda , we ndamugire nte ? "
+41015014a	ku ki		Pilato arababaza ati : " Ku ki ? 
+41015014b	ki		Yakoze ikibi ki ? " Maze barushiriza kuyogora cane bati : " Mubambe . "
+41015034	igiki		Kw'isaha y'icenda Yesu asemerera n'ijwi rirenga ati : " " Eloi , Eloi , lama sabakatani ? " Risobanurwa ngo Mana yanje , Mana yanje , ni igiki kikumpebesheje ?
+41016003	nde		Barabazanya bati : " Ni nde yodutembagariza ikibuye co ku munwa w'imva ? "
+42001018	n'iki		Zakariya abaza umumarayika ati : " Ivyo nzovyerekwa n'iki , ko ndi umutama , n'umugore wanje akaba ageze mu zabukuru ? "
+42001034	bite		Mariya abaza umumarayika ati : " Ivyo bizobaho bite , ko ntararongorwa ? "
+42001043	iki		Kandi iryo teka ndaritewe ni iki kubona nyina w'umwami wanje aza kundamutsa ?
+42001066	ki		Abavyumvise bose babishira mu mitima yabo bati : " Mbega none uwo mwana azoba umuntu ki ? " Kuko ukuboko kw'Umwami Imana kwari kumwe na we .
+42002048	iki catumye		Bamubonye baratangara . Nyina aramubaza ati : " Mwananje , ni iki catumye utugirira utyo ? " Urabona twe na so aho twakurondereye tubabaye .
+42002049	igiki		Arababaza ati : " Ni igiki cabateye kundondera ? " Ntimwari muzi yuko bikwiye ko mba kwa Data ?
+42003007	nde		Nuko abwira ishengero ryari rivuye i wabo rije kubatizwa na we ati : " Mwa bana b'inzoka mwe , ni nde yababuriye ngo muhunge ishavu buzoza ? "
+42003010	dute		Ishengero riramubaza riti : " None tugire dute ? "
+42003012	dute		Kandi haza n'abatozakori kubatizwa , baramubaza bati : " Mwigisha tugire dute ? "
+42003014a	~		N'abasoda baramubaza bati : 
+42003014b	dute		" Tweho tugire dute ? " Arabishura ati : " Ntihakagire umuntu mwambura ivyiwe canke mumwagirize ibinyoma , kandi ingero zanyu zibabumbe . "
+42004034	hehe		ati : " " Yo ! Duhuriye hehe ga Yesu Munyanazareti ? Uje kuduhonya ? Ndakuzi uwo uri we , uri Uwera w'Imana . "
+42004036	ki		Bose baratangara , barabazanya bati : " Iryo ni ijambo ki ? Kubwo ububasha n'ubushobozi afise , ategeka impwemu zihumanye zigasohoka . " "
+42005021a	nde		Abahinga b'ivyanditswe n'Abafarisayo batangura kwiburanya bati : " Uwo ni nde arogose ? 
+42005021b	nde		Ni nde ashobora guharira ivyaha atari Imana yonyene ? "
+42005022	ibiki		Maze Yesu , amenye ivyo biburanya , arababaza ati : " Mwiburanya ibiki mu mitima yanyu ? "
+42005023	ikihe		Icoroshe ni ikihe ni ukuvuga nti : ' Uhariwe ivyaha vyawe ; ' canke ni ukuvuga nti : ' Vyuka ugende ? '
+42005030	igiki gitumye		Abafarisayo n'abahinga b'ivyanditswe bafatanye na bo bidodombera abigishwa ba Yesu bati : " Ni igiki gitumye musangira n'abatozakori n'abanyavyaha ? "
+42005033	igiki gitumye		Na bo baramubwira bati : " Abigishwa ba Yohana barisonzesha kenshi bagasenga , n'abo Abafarisayo ni uko , ariko abawe baririra , barinywera . "
+42005034	mute		Yesu arababaza ati : " Mbega mwoshobora mute kugera abatowe ngo bisonzeshe , bakiri kumwe n'umukwe ? "
+42006002	igiki gitumye		Bamwe mu Bafarisayo barababaza bati : " Ni igiki gitumye mukora ikizira gukorwa kw'isabato ? "
+42006009	~		Yesu arababwira ati : " Ndababaze , mbega ivyemerwa ni ugukora ivyiza kw'isabato , canke ni ugukora ibibi ; gukiza umuntu , canke kumwica ? "
+42006032	iki		Kandi ni mwakunda ababakunda , muzoshimwa iki ? Kuko abanyavyaha na bo bagira batyo .
+42006033	iki		Kandi ni mwagirira neza ababagirira neza , muzoshimwa iki ? Kuko abanyavyaha na bo bagira batyo .
+42006034	iki		Kandi ni mwagurana abo muziga ko bazobishura , muzoshimwa iki ? Abanyavyaha na bo bagurana abandi banyavyaha , ngo bishurwe nk'ivyabo .
+42006039	~		Kandi abacira umugani ati : " Mbega impumyi yoshobora kujana iyindi mpumyi ? " Zompi ntizogwa mu cobo ?
+42006041	iki		Urabira iki akabango kari mu jisho rya mugenzawe , ikigiga kiri mu jisho ryawe ntucitegereze ?
+42006042	ute		Woshobora ute kubwira umuvukanyi wawe uti : " Zana muvukanyi ndagutosore ikigiga kiri mu jisho ryawe ; nawe ubwawe nturabe ikigiga kiri mu jisho ryawe ? Wa ndyarya we , banza witosore ikigiga kiri mu jisho ryawe , uheze ubone neza gutosora akabango kari mu jisho ry'umuvukanyi .
+42006046	iki		Kandi mumpamagarira iki ngo Mwami , Mwami ; ntimukore ivyo mvuga ?
+42007024	iki		Abatumwe na Yohana bagiye , atangura kubwira ishengero ivya Yohana ati : " Mwagiye mu bugaragwa kuraba iki ? " Mbega ni irenga rihungabanywa n'umuyaga ?
+42007025	iki		Ariko mwagiye kuraba iki ? Mbega ni umuntu yambaye impuzu nziza ? Erega abambara impuzu zishajije n'abidibamiye baba mu ngo z'abami .
+42007026	iki		Ariko mwajanywe no kuraba iki ? Umuntu avugishwa n'Imana ? Ego me ni vyo ; kandi ndababwire , Aruta uwuvugishwa n'Imana cane .
+42007031a	iki		Nuko abantu b'iki gihe ndabagereranya ni iki , 
+42007031b	igiki		kandi basa ni igiki ?
+42007042	uwuhe		Maze badafise ico kumwishura , azibahebera bompi . Mbega uwuzorushiriza kumukunda ni uwuhe ?
+42007049	nde		Maze abasangira na we batangura kwibaza bati : " Uwo ni nde , ko aharira n'ivyaha ? "
+42008025a	hehe		Arababaza ati : " Mbega ukwizera kwanyu kuri hehe ? " Baratinya baratangara , barabazanya bati : 
+42008025b	ki		" Mbega uwu n'umuntu ki , ko abarira n'umuyaga n'amazi bikamwumvira ? "
+42008028	iki		Abonye Yesu arasemerera , amwikubita imbere , avuga n'ijwi rirenga ati : " Unshakako iki ga Yesu , Mwana w'Imana Isumbavyose ? " Ndakwinginze , ntunyice rubi .
+42008030	nde		Yesu aramubaza ati : " Witwa nde ? " Aramwishura ati : " Ndi Gitero . " Kuko abadayimoni benshi bari baramwinjiyemwo .
+42008045	nde		Yesu arabaza ati : " " Ni nde ankozeko ? " Bose bahakanye , Petero n'abari kumwe na we baramwishura bati : " Erega Mwigisha , n'ishengero rigutaye hagati rikugundanirako . "
+42009009a	nde		Herode aravuga ati : " Yohana ni jewe namwiciriye izosi ; mbega uwo ni nde , 
+42009009b	~		numvako ibimeze bityo ? " " Arondera uko yomubona .
+42009018	nde		Maze yariko arasenga yiherereye , abigishwa biwe bari kumwe na we ; arababaza ati : " " Abantu bagira ngo ndi nde ? "
+42009020a	~		Arababaza ati : 
+42009020b	nde		" Ariko mweho mugira ngo ndi nde ? " Petero aramwishura ati : " Uri Kristo w'Imana . "
+42009025	iki		Kandi umuntu vyomumarira iki gutunga ivyo mw'isi vyose ni yiyica canke akiyaka ubugingo ubwiwe ?
+42009041a	ryari		Yesu arishura ati : " Yemwe abo iki gihe mutizera b'ibigaba , nzogeza ryari kubana namwe 
+42009041b	~		no kubihanganira ? " Zana hano umwana wawe .
+42010025	iki		Maze umwe mu bigisha ivyagezwe ava hasi , aramugeza ati : " Mwigisha , nkore iki , ngo nzoragwe ubugingo budashira ? "
+42010026a	bite		Na we aramubaza ati : " Vyanditswe bite mu vyagezwe , 
+42010026b	iki		kandi usoma iki ? "
+42010029	nde		Maze uwo agomvye kwiyerekana nk'uwugororotse , abaza Yesu ati : " Mbega umubanyi wanje ni nde ? "
+42010036a	~		
+42010036b	nde		Muri abo batatu ugira ngo ni nde yabonetse ko ari umubanyi w'uwaguye mu bambuzi ?
+42011008	~		Ndababwire , Naho atovyurwa n'uko ari umugenzi wiwe ngo ayimuhe , ariko kuko atagize isoni zo kumugobera , aravyuka , akamuha ivyo agomba vyose .
+42011011	~		Canke muri mwebwe hari umuvyeyi umwana wiwe yomusaba umutsima , akamuha ibuye ; canke yomusaba ifi , akamuha inzoka ;
+42011012	~		canke yomusaba irigi , akamuha sikorupiyo ?
+42011013	~		None mwebwe , ko muzi guha abana banyu ingabire nziza muri babi , mbega So wo mw'ijuru ntazorushiriza rwose guha Mpwemu Yera abamumusavye ?
+42011018	bute		Na Satani , namba yitandukanije ubwiwe , ubwami bwiwe buzorama bute ? Kuko muvuga yuko Beyezebuli ari we anshoboza kwirukana abadayimoni .
+42011019	nde		Ariko jewe namba Beyezebuli ari we anshoboza kwirukana abadayimoni , abana banyu bashobozwa na nde kubasenda ? Ni co gituma ari bo bazobatsindisha .
+42012014	nde		Aramubaza ati : " Mbega wa mugabo , ni nde yanshizeho kuba umucamanza wanyu , canke kubagaburira ivyanyu ? "
+42012017	nte		Yiyumvira mu mutima wiwe ati : " Ndagira nte , ko ntagira aho nimburira imirima yanje ? "
+42012020	nde		Maze Imana iramubwira iti : " Wa gipfu we muri iri joro barakwaka ubugingo bwawe ; none ivyo woziganije bizoba ivya nde ? "
+42012024	~		Ni mwitegereze ibikona , ingene bitabiba , ntibishwabure , ntibigire ububiko canke ikigega , kandi Imana irabitunga . Erega mwebwe muruta ibisiga cane .
+42012025	nde		Ni nde muri mwebwe ku bwo amaganya yiwe yoshobora kwiyongerako n'akangana n'ukuboko kumwe ?
+42012026	iki gituma		Nuko ko mudashobora gukora gito rwose ni iki gituma mwiganyira ibindi ?
+42012042	nde		Umwami Yesu na we aramubaza ati : " Ni nde munyabigega wo kwizigirwa w'ubwenge , shebuja yosigarana abo mu rugo rwiwe , ngo abagaburire ku ngero yabo igihe kigeze ? "
+42012049	~		Naje guta umuriro mw'isi , none iyaba wari umaze gufatwa , nta kindi mba nkigomba ?
+42012056	iki		Mwa ndyarya mwe , murazi kugenzura isi n'ijuru , ni iki kibabuza kugendeza iki gihe ?
+42012057	iki		Kandi namwe ubwanyu ni iki kibabuza kugenzura ivyo kugororoka ?
+42013004	~		Canke ba bandi icumi n'umunani , bamwe umunara muremure w'amatafari w'i Silowamu wahomvokeyeko , ukabica , mwiyumvira yuko barusha abandi b'i Yerusalemu bose kuba abanyabicumuro ?
+42013007	iki		Abwira umukozi w'uwo murima w'inzabibu ati : " Raba , ubu haheze imyaka itatu nza kurondera ivyamwa ku giti c'umusukoni , sindabibone ; ni uwuce , kigasarira iki aha hantu ? "
+42013015	~		Umwami Yesu aramwishura ati : " Mwa ndyarya mwe , mbega umuntu wese muri mwebwe ntazitura inka yiwe canke indogoba yiwe mu ruhongore kw'isabato , akayijana , akayishora ku mugezi ? "
+42013018a	n'iki		Kandi aravuga ati : " Ubwami bw'Imana busa n'iki , 
+42013018b	igiki		kandi ndabushushanye ni igiki ? "
+42013020	igiki		Yongera kuvuga ati : " Ubwami bw'Imana ndabushushanye ni igiki ? "
+42013025	~		Nyene inzu ni yaheza guhaguruka , akugara urugi , mugatangura gukomanga muhagaze hanze , mukavuga ko umupfasoni abugururira . Ni ho azovuga ko atabazi , atazi n'iyo muvuye .
+42014005	nde		Kandi arababaza ati : " Ni nde muri mwebwe afise umwana canke inka , hogira igikorokera mw'iriba , ntiyoca agikurayo kw'isabato ? "
+42014028	nde		Ni nde muri mwebwe agomba kwubaka umunara w'amatafari muremure , ntiyobanza kwicara , akarimbura igitigiri c'amahera yowubaka , ngo amenye yuko afise ayowuheraheza ?
+42014031	~		Canke hari umwami yoba agiye guhura n'uwundi ngo barwane , ntiyobanza kwicara , akaja inama , ko yoshobora kujana ingabo ibihumbi icumi guhwana ni uwumuteye ari n'ingabo ibihumbi mirongo ibiri ?
+42014034	igiki		Umunyu ni mwiza ; ariko umunyu wo , woshira uburyohe , woba ukiryoshwa ni igiki ?
+42015004	~		ati : " Hogira umuntu muri mwebwe afise intama ijana , yozimiza imwe muri zo , ntiyosiga izindi mirongo icenda n'icenda mu gahinga , akaja kurondera iyazimiye , kugeza aho ayibonera ? "
+42015008	~		Canke umugore yogira amahera icumi , akabura rimwe , ntiyodomeka itara , agakubura inzu , akarondera ashishikaye kugeza aho aribonera ?
+42015026	~		Ahamagara umwe mu bashumba , amubaza ibibaye ivyo ari vyo .
+42015029	~		Maze abwira se ati : " Raba iyi myaka ingana itya ndagukorera , nta ho nigeze kwanka ico wangezeko , nanje nta ho wigeze kumpa n'agasuguru , ngo nezeranwe n'abagenzi . "
+42016002	ibiki		Aramuhamagaza , aramubaza ati : " Ivyo ndakwumvako ni ibiki ? " Harura igitigiri c'ivyo wabikijwe , kuko utagikwiye kuba umukuru w'abakozi bo mu rugo rwanje .
+42016003	gute		Uwo mukuru w'abakozi bo mu rugo aribaza ati : " Mbe ndabigire gute , ko databuja agira ansohore mu bubwiriza bwanje ? " Sinshobora kurima , binteye isoni ko nosegerereza .
+42016005	iki		Ahamagara abari n'imyenda ya shebuja bose umwumwe , abaza uwa mbere ati : " Harya databuja umufitiye ibingana iki ? "
+42016007	iki		Kandi abaza uwundi ati : " Harya weho umufitiye ibingana iki ? " Aramwishura ati : " Ingero ijana z'ingano . " Aramubarira ati : " Akira ikete ryawe , wandike mirongo umunani . "
+42016011	nde		Namba mutabaye abizigirwa kw'itunga ribi mubikijwe , ni nde azobabitsa itunga nyaryo ?
+42016012	nde		Kandi namba mudakora ivyo mwizigiweko ku vy'abandi mwabikijwe , ni nde azobaha ivyo mwokwiganzira ?
+42017007	nde		Ariko ni nde muri mwebwe afise umushumba amurimira canke amuragirira intama , iyo yinjiye avuye ku kivi canke kuragira , mbega yomubarira ko aza ningoga akicara akarya ?
+42017017	hehe		Yesu arabaza ati : " Ntibahumanutse bose uko ari icumi ? " Abandi icenda bari hehe ?
+42017018	~		Nta bandi babonetse ngo bagaruke guhimbaza Imana , atari uwu munyamahanga ?
+42017020	igihe		Abafarisayo bamubajije igihe ubwami bw'Imana buzozira , arabishura ati : " Ubwami bw'Imana ntibuzoza bwerekanwa ,
+42017037	hehe		Baramubaza bati : " Bizoba hehe ga Mushingantahe ? " Arabishura ati : " aho umuvyimba uri hose , ni ho ibikona bizokoranira . "
+42018018	iki		Umukuru w'isengero ry'Abayuda aramubaza ati : " Mwigisha mwiza , nkore iki , ngo nzoragwe ubugingo budashira ? "
+42018019	iki		Yesu aramubaza ati : " Unyitira iki mwiza ? " Nta mwiza atari umwe , ni we Mana .
+42018026	nde		Abavyumvise baravuga bati : " Ubu rero , ni nde ashobora gukizwa ? "
+42018036	~		Yumvise ishengero rihita , ibaza ivyo ari vyo .
+42018041	iki		ati : " Ugomba ko ndagukorera iki ? " Iramwishura iti : " Ndagomba guhumuka , Mwami wanje . "
+42019007	~		Babibonye , bose baridodomba bati : " Ko yinjiye kurarira umuntu w'umunyavyaha ! "
+42019023	~		none se cakubujije guha abacuruza amahera yanje , nanje nagaruka nkayakwaka n'inyungu yayo ? "
+42019031	~		Kandi ni hagira uwubabaza igitumye muyizitura ? mumwishure ko Sobuja ari we ayigomba . "
+42019033	ibiki		Bariko barazitura ya nyana y'indogoba , bene yo barababaza bati : " Ko muzitura iyo nyana ni ibiki ? "
+42020002a	~		Baramubaza bati : " Tubwire ububasha bugutera gukora ivyo . 
+42020002b	nde		Canke ubwo , ni nde yabuguhaye ? "
+42020005a	~		Baravugana bati : 
+42020005b	~		" Ni twavuga ko ari mw'ijuru ; ahava atubaza icatubujije kumwemera ?
+42020013	gute		Nyene umurima w'inzabibu aribaza ati : " Ndabigire gute ? Ndatuma umwana wanje nkunda , kumbure bazomusonera . "
+42020015	ate		Bamuhindira inyuma y'umurima w'imizabibu , baramwica . None nyene umurima w'inzabibu azobagira ate ?
+42020017	amaki		Arabitegereza , arababaza ati : " None rero aya majambo yanditswe ni amaki , ngo ibuye abubatsi bagaye , Ni ryo ryahindutse irigumya imfuruka ? "
+42020023	~		Maze amenya uguhendana kwabo , arababwira
+42020024a	nde		ati : " Ni munyereke ihera ; igishushanyo n'ivyanditswe kuri ryo ni ivya nde ? " Bati : " Ni ivya Kayisari . "
+42020024b	~		
+42020033	nde		None mw'izuka azoba muka nde muri bo ? Ko bari bamufise bose uko ari indwi !
+42020041	bate		Arababaza ati : " Bavuga bate yuko Kristo ari umwana wa Dawidi ?
+42020044	ate		Dawidi ko yamwise Umwami , none ashobora ate kuba umwana wiwe ? "
+42021007a	ryari		Baramubaza bati : " Mwigisha , none ivyo bizobaho ryari ? 
+42021007b	c'igihe		" Ikimenyetso kizoba iki c'igihe ivyo bizoba bigira bishike ?
+42022009	hehe		Baramubaza bati : " Ugomba ko tubitegurira hehe ? "
+42022011	~		Mubwire nyene urugo ko umwigisha abaza aho indaro iri , aho asangirira ivya Pasika n'abigishwa biwe ?
+42022027	nde		Umukuru ni nde , ni uwukorerwa , canke ni uwumukorera ? Mbega si uwukorerwa ariko jeho ndi hagati muri mwebwe meze nk'uwubakorera .
+42022046	igiki gitumye		Arababaza ati : " Ni igiki gitumye musinzira ? Ni muvyuke , musenge , ntimuje mu mosha mabi . "
+42022064	nde		bamupfuka mu maso , baramubaza bati : " " Pfindura : ni nde agukubise ? " "
+42022071	iki		Bati : " Turacaronderera iki ivyabona ? Kuko ubwacu tuvyiyumviye ibivuye mu kanwa kiwe .
+42023022a	ku ki		Ababaza ubugira gatatu ati : " Ku ki ? 
+42023022b	giki		uwu yakoze ikibi giki ? Sindamubonako igikwiye kumwicisha ; nuko ndamukubita , ndamurekure . "
+42023031	gite		Ko bagirira batyo igiti kibisi , none icumye kizogirirwa gite ?
+42024005	igiki gitumye		Bagitinye , bunamitse amaso hasi , barababaza bati : " Ni igiki gitumye muronderera uwuriho , ahantu h'abapfuye ? "
+42024017	ibiki		Arababaza ati : " " Mbega ivyo mugenda murabazanya ni ibiki ? " Barahagarara , bijiriwe .
+42024019	ibiki		Arababaza ati : " Ni ibiki ? " Baramwishura bati : " Ni ivya Yesu Umunyanazareti , yari umuntu avugishwa n'Imana , akaba umunyabushobozi bwinshi mu vyo yakora no mu vyo yavuga , imbere y'Imana n'imbere y'abantu bose :
+42024025	~		Arababwira ati : " Yemwe mwa mburabwenge , imitima yanyu itevye cane kwizera ivyo abavugishwa n'Imana bavuze vyose ! "
+42024038a	igiki		Arababaza ati : " Ni igiki kibahagaritse imitima ? 
+42024038b	iki		Kandi mwibaza iki mu mitima yanyu ? "
+43001019	nde		Uku ni ko Yohana yashinze intahe igihe Abayuda bamutumako abaherezi n'Abalewi bavuye i Yerusalemu ngo bamubaze bati : " " Uri nde ? "
+43001021	bite		Baramubaza bati : " None se bimeze bite ? Uri Eliya ? " Ati : " Sindi we . " Bati : " Uri wa muntu avugishwa n'Imana ? " Ati : " Oya . "
+43001022a	nde		Baramubaza bati : " None uri nde , ngo tuje kwishura abadutumye ? 
+43001022b	ute		Kuri wewe wivuga ute ? "
+43001025	iki		baramubaza bati : " None ubatiriza iki , ko utari Kristo , ntube Eliya canke wa muntu avugishwa n'Imana ? "
+43001038a	iki		Yesu akebutse , abona bamukurikiye , arababaza ati : " Murondera iki ? " Baramubwira bati : 
+43001038b	hehe		" Rabi " ( risobanurwa ngo Mwigisha ) , " usembereye hehe ? "
+43001046	~		Natanayeli aramubaza ati : " Mbega i Nazareti hova iciza ? " Filipo aramubwira ati : " Ni uze urabe . "
+43001048	hehe		Natanayeli aramubaza ati : " Wamenyeye hehe ? " Yesu aramwishura ati : " Filipo ataraguhamagara , aho wari musi y'umusukoni , nakubonye . "
+43002004	hehe		Yesu aramwishura ati : " Duhuriye hehe ga nyina wanje ? Igihe canje ntikiragera . "
+43002018a	~		Abayuda baramubaza bati : 
+43002018b	ki		" Utwereka ikimenyetso ki , gituma ukora ivyo ? "
+43003004	ate		Nikodemu aramubaza ati : " Umuntu ashobora ate kuvyarwa ashaje ? Mbega yoshobora gusubira mu nda ya nyina akavuka ? "
+43003009	bite		Nikodemu aramubaza ati : " Ivyo bishoboka bite ? "
+43003012	mute		Ko nababwiye ivyo isi ntimwemere , none muzokwemera mute ni nababwira ivyo ijuru ?
+43004009	ute		Uno Musamariyakazi aramubaza ati : " Wewe uri Umuyuda , none unsaba amazi ute , jewe ndi Umusamariyakazi ? " Ni kuko Abayuda n'Abasamariya banenana . )
+43004011	hehe		Wa mugore aramwishura ati : " Mugenzi , ko ata co kuvomesha ufise , kandi iriba rikaba ari rirerire , ubwo ayo mazi y'ubugingo uyakura hehe ? "
+43004027a	iki		Buno abigishwa biwe barashika , batangazwa n'uko avugana n'umugore ; ariko nta wavuze ati : " Urondera iki ? 
+43004027b	iki		Canke ngo Muvuganira na we iki ? "
+43005012	nde		Baramubaza bati : " Uwo muntu ni nde yakubariye ngo ikorere ugende ? " "
+43005044	mute		Mwoshobora kwizera mute , ari mwebwe mwubahana , ariko icubahiro kiva ku Mana imwe nsa mutakirondera ?
+43005047	mute		Ariko ni mutizera ivyo uwo yanditse , amajambo yanje muzoyizera mute ?
+43006005	hehe		Yesu yunamutse , abona ishengero ryinshi riza kuri we , abaza Filipo ati : " Tugurira hehe imitsima , ngo barye bose ? "
+43006009	iki		ati : " Hano hari umuhungu ari n'udutsima dutanu twa sayiri , n'udufi tubiri , ariko tumaze iki mu bantu bangana uko ? "
+43006025	ryari		Bamubonye hakurya y'ikiyaga baramubaza bati : " Mwigisha , waje ino ryari ? "
+43006028	dute		Baramubaza bati : " Tugire dute ngo dukore ibikorwa vy'Imana ? "
+43006030a	ki		Nuko baramubaza bati : " None ukora ikimenyetso ki , ngo tukirabe tukwizere ? 
+43006030b	gite		Ukora ikimeze gite ?
+43006042	ate		Bati : " Uwu si we Yesu umwana wa Yosefu ? Na se na nyina turabazi ; none avuga ate ngo Namanutse mva mw'ijuru ? "
+43006052	ate		Abayuda batanako ibirake bati : " Uwu ashobora ate kuduha umubiri wiwe ngo tuwurye ? "
+43006060	~		Nuko benshi mu bigishwa biwe bavyumvise , baravuga bati : " Iryo jambo riragoye , hari uworyumva akarishobora ? "
+43006062	bite		None bizomera bite ni mwabona Umwana w'umuntu aduga aja iyo yahora ubwa mbere ?
+43006068	nde		Simoni Petero aramwishura ati : " Tuje kwa nde ga Mwigisha ? Ko ari wewe ufise amajambo y'ubugingo budashira ,
+43007011	hehe		Maze Abayuda bamurondera muri iyo misi mikuru bati : " Mbega wa wundi ari hehe ? "
+43007015	hehe		Abayuda baratangara bati : " Mbega uwu yakuye ubwenge hehe , atigishijwe ? "
+43007019	iki		Mbega Mose si we yabahaye ivyagezwe ? Ariko muri mwebwe nta n'umwe yitondera ivyo vyagezwe . Muronderera iki kunyica ? "
+43007020	nde		Ishengero riramwishura riti : " Urimwo dayimoni ! Ni nde ashaka kukwica ? "
+43007023	iki		None se , ko umuntu ahimburwa igikoba c'ubugabo kw'isabato , kugira ngo icagezwe ca Mose ntimukirenge , none jewe mumpora iki ko kw'isabato nakijije umuntu akwiye ?
+43007035	hehe		Maze Abayuda baravugana bati : " Mbega uwo agira aje hehe , aho twebwe tutazoshobora kumubona ? Agira aje mu basabagiriye mu Bagiriki , ngo azokwigishe Abagiriki ?
+43007036	iriki		Mbega iryo jambo atubwiye ni iriki , ngo Muzondondera , ariko ntimuzombona , kandi ngo iyo nzoba ndi mwebwe ntimuzoshobora gushikayo ? "
+43007041	~		Abandi bati : " Uwu ni we Kristo . Abandi bati : " Oya , mbega Kristo yova i Galilaya ?
+43007045	ko		Nuko ba bagendanyi basubira ku baherezi bakuru n'Abafarisayo , na bo barababaza bati : " Ko mutamuzanye ? "
+43007048	~		Hari umukuru n'umwe yamwizeye , canke Umufarisayo ? "
+43007051	~		ati : " Mbega ivyagezwe vyacu biratsindisha umuntu batabanje kumwumva no kumenya ico yakoze ? "
+43008005	iki		Kandi Mose mu vyagezwe yatugeze kwicisha amabuye bene abo . None weho uvuga iki ? "
+43008010	hehe		Yesu yunamutse aramubaza ati : " Yewe mugore , bamwe bakureze bari hehe ? Nta n'umwe aguciriye urubanza ? "
+43008019	hehe		Na bo baramubaza bati : " So ari hehe ? " Yesu arabishura ati : " Nta jewe , nta Data , nta we muzi ; iyo muba munzi , na Data muba mumuzi . "
+43008025a	nde		Nuko baramubaza bati : " Uri nde , wewe ? " 
+43008025b	~		Yesu arabishura ati : " Ndi ico nababwiye uhereye ubwa mbere .
+43008033	ute		Baramwishura bati : " Turi uruvyaro rwa Aburahamu , nta ho twigeze kujakarira umuntu n'umwe ; none uvuga ute ngo tuzohabwa kwidegemvya ? "
+43008043	igiki gituma		Ni igiki gituma mutamenya imvugo yanje ? Ni uko mudashobora kwumva ijambo ryanje .
+43008046a	nde		Ni nde muri mwebwe yonyagiriza icaha nakoze ? 
+43008046b	igiki gituma		Ko mvuga ukuri , ni igiki gituma mutanyemera ?
+43008053	nde		Mbega uruta sogokuruza wacu Aburahamu ? We ko yapfuye , n'abavugishwa ni Imana na bo bakaba barapfuye , wiyita nde ? "
+43008057	~		Nuko rero Abayuda baramubwira bati : " Ube utaramara imyaka mirongo itanu , ngo warabonye Aburahamu ? "
+43009002	nde		Abigishwa biwe baramubaza bati : " Mwigisha , ni nde yakoze icaha , ni uwo , canke ni abavyeyi biwe , ko yavutse ari impumyi ? "
+43009010	ate		Nuko baramubaza bati : " Mbega none amaso yawe yahumutse ate ? "
+43009012	hehe		Baramubaza bati : " Ari hehe ? " Ati : " Sindahazi . "
+43009016	ate		Bamwe mu Bafarisayo baravuga bati : " Uwo muntu ntava ku Mana , kuko ataziririza isabato . " Abandi bati : " Mbega umuntu w'umunyavyaha yoshobora ate gukora ibimenyetso bingana bityo ? " Baramupfa .
+43009017	iki		Basubira kubaza umwe yahora ari impumyi bati : " Weho uvuga ko ari iki , kuko yaguhumuye amaso ? " Na we ati : " Ni uwuvugishwa n'Imana . "
+43009019	ate		barababaza bati : " Mbega uwu ni umwana wanyu , mwebwe muvuga ko yavutse ari impumyi ? None yahumutse ate ? "
+43009026a	ate		Baramubaza bati : " Yakugiriye ate ? 
+43009026b	ate		Yahumuye amaso yawe ate ? "
+43009027	iki		Arabishura ati : " Namaze kubibabwira ariko ntimwavyumvise . Mugombera iki gusubira kuvyumva ? Mbega namwe mugomba kuba abigishwa biwe ? "
+43009034	~		Baramwishura bati : " Wewe wavukiye mu vyaha gusa gusa , ni wewe utwigisha ? " Bamuhindira hanze .
+43009036	nde		Na we aramwishura ati : " Ni nde ga Mugenzi , nkamwizera ? "
+43010020	iki		benshi muri bo bati : " Arimwo dayimoni , kandi yasaze ; mumwumviririza iki ? "
+43010021	~		Abandi bati : " Erega ayo majambo si nk'ayo uwuhagazweko na dayimoni ; mbega dayimoni arashobora guhumura amaso y'impumyi ? "
+43010024	ryari		Abayuda baramukikiza , baramubaza bati : " Mbega uzotujuragiza kugeza ryari ? " Asangwa uri Kristo bidufoborere .
+43010032	ikihe		Yesu arababwira ati : " Naberetse ibikorwa vyiza vyinshi bivuye kuri Data , ikibatuma kuntera amabuye muri ivyo bikorwa ni ikihe ? "
+43010036	mute		mwebwe mubwira mute uwo Data yejeje , akamutuma mw'isi , ko atyojeje Imana , kuko navuze nti : " Ndi Umwana w'Imana ?
+43011034	hehe		arababaza ati : " Mwamuhamvye hehe ? " Bati : " Mugenzi , ngwino urabe . "
+43011047	dute		Nuko abaherezi bakuru n'Abafarisayo bakoranya inama nkuru y'abacamanza , barababaza bati : " " Mbega , tugire dute ? Ko uwu muntu akora ibimenyetso vyinshi .
+43011056	iki		Maze barondera Yesu , babazanya bahagaze mu rusengero bati : " Mbega , mugira ngo iki ? Ubwo ntazoza muri iyi misi mikuru ? "
+43012005	igiki catumye		ati : " Ni igiki catumye ayo mavuta ataguzwe idenariyo amajana atatu , ngo zihabwe aboro ? "
+43012027	iki		Umushaha wanje urahagaze ; none mvuge iki ? Ngire nti : " Data , ni unkize iki gihe ? Yamara ni co canzanye ngo nshike muri iki gihe .
+43012034a	ute		Ishengero riramwishura riti : " Twebwe twumvise mu vyagezwe ko Kristo azohoraho ibihe bidashira . None uvuze ute ngo Umwana w'umuntu akwiye kumanikwa ? 
+43012034b	nde		Mbega uwo Mwana w'umuntu ni nde ? "
+43012038a	nde		ngo ijambo ry'uwavugishwa n'Imana Yesaya rishike , ngo , Mwami , ni nde yizeye ico twumvise ? 
+43012038b	nde		Kandi ukuboko kw'Uhoraho kwahishuriwe nde ? "
+43013025	nde		Uwo rero ahengamira inyuma , uko yari hano nyene mu gikiriza ca Yesu , aramubaza ati : " Ni nde ga Mugenzi ? "
+43013036	hehe		Simoni Petero aramubaza ati : " Mugenzi , uja hehe ? " Yesu aramwishura ati : " Aho nja ntushobora kunkurikira ubu , ariko uzonkurikira hanyuma . "
+43013037	igiki		Petero aramubaza ati : " Mugenzi , ni igiki kimbuza kugukurikira n'ubu ? " Erega nzonakwigura .
+43014002	~		I muhira kwa Data hari inzu nyinshi , iyo ziba zitariho , mba ndabibabwiye , kuko ngiye kubategurira ahanyu .
+43014005	dute		Toma aramubwira ati : " Mugenzi , ntituzi iyo uja , dushobora dute kumenya inzira ? "
+43014009	ute		Yesu aramubaza ati : " Mbega ko nabanye namwe igihe kingana gityo , nturakaruha umenya ga Filipo ? Uwubonye jewe aba abonye Data ; none uvuga ute ngo Twereke So ? "
+43014022	bite		Yuda ( atari Isikaryota ) , aramubaza ati : " Mugenzi , bibaye bite , ko ugira wihishurire twebwe , ntiwihishurire abo isi ? "
+43016005	hehe		None ngira ngende ku wantumye , kandi nta n'umwe muri mwebwe arushe ambaza ati : " Uja hehe ? "
+43016017	ibiki		Bamwe mu bigishwa biwe barabazanya bati : " Mbega ivyo atubwiye ni ibiki ngo Hasigaye igihe gito ntimube mukimbona , ngo maze hazoca ikindi gihe gito musubire kumbona , kandi ngo kuko nja kwa Data ? "
+43016018	ibiki		Kandi bati : " Ivyo atubwiye ni ibiki , ngo igihe gito ? " Ntitumenye ico avuze ico ari co .
+43018004	nde		Nuko Yesu amenye ibigira bimubeko vyose , arabasanganira , arababaza ati : " Murondera nde ? "
+43018007	nde		Na we asubira kubabaza ati : " Murondera nde ? " Na bo bati : " Yesu Umunyanazareti .
+43018011	~		Maze Yesu abarira Petero ati : " Subiza inkota mu rwubati , mbega igikombe Data yampaye ndeke kukinywa ? "
+43018021	iki		Umbarije iki ? Baza abahora bavyumva ico nababariye : erega ni bo bazi ivyo navuze . "
+43018023	iki		Yesu aramubaza ati : " Namba mvuze nabi , nyagiriza ico kibi ; ariko namba ari neza , unkubitiye iki ? "
+43018029	igiki		Kubwo ivyo Pilato arasohoka aja aho bari , arababaza ati : " " Ikirego mufise kuri uwo muntu ni igiki ? "
+43018035	iki		Pilato ati : " Mbega nanje ndi Umuyuda ? Abo mu bwoko bwanyu n'abaherezi bakuru ni bo bakunzaniye . Wakoze iki ? "
+43018038	iki		Pilato aramubaza ati : " Mbega ukuri ni iki ? " Amaze kuvuga ivyo , asubira gusohoka , aja aho Abayuda bari , arababwira ati : " Jewe nta kibi nabonye kuri we .
+43019009	hehe		Asubira kwinjira mu kibanza baciramwo imanza , abaza Yesu ati : " Uri uwa hehe ? " Ariko Yesu ntiyamwishura na rimwe .
+43019015	~		Na bo barasemerera bati : " Mukureho , mukureho , umubambe . " Pilato arababaza ati : " Mbambe umwami wanyu ? " Abaherezi bakuru bati : " Nta mwami dufise , atari Kayisari . " "
+43020013	iki		Baramubaza bati : " Mbega nyina wanje , urizwa ni iki ? " Na we ati : " Ni uko bakuyeho Umwami wanje , nanje nkaba ntazi aho bamushize . "
+43020015a	n'iki		Yesu aramubaza ati : " Mbega nyina wanje , urizwa n'iki ? 
+43020015b	nde		Urondera nde ? " Na we yiyumvira ko ari umurimyi waho , aramubwira ati : " Mugenzi , namba ari wewe wamukuye hano , ndangira aho wamushize , ndamukureyo . "
+43021012	nde		Yesu arababarira ati : " Ni muze murye . " " Ariko mu bigishwa ntihagira uwutinyuka kumubaza ati : " Uri nde ? " Kuko bari bamenye ko ari Umwami Yesu .
+43021020	nde		Petero arakebuka , abona wa mwigishwa Yesu yakunda abakurikiye , umwe yari yegamiye mu gikiriza ca Yesu hamwe basangira , akamubaza ati : " Mugenzi , ni nde azokugura ? "
+43021021	bite		Nuko Petero amubonye , abaza Yesu ati : " Mugenzi , uwu we bizoba bite ? "
+43021022	iki		Yesu aramwishura ati : " Namba ngomba ko azogumaho kugeza aho nzozira , bigutwaye iki ? " Wewe nkurikira . "
+43021023	iki		Ni co catumye iri jambo rikwira mu bavukanyi , ngo uwo mwigishwa ntazopfa . Ariko Yesu ntiyamubwiye ko atazopfa , ariko yavuze ati : " Namba ngomba ko agumaho kugeza aho nzozira , bigutwaye iki ? "
+44001011	iki gitumye		barababaza bati : " Yemwe bagabo b'i Galilaya , ni iki gitumye muhagaze muraba mw'ijuru ? Uwo Yesu , abakuwemwo , akaduzwa mw'ijuru , azoza atyo , nk'uko mumubonye aja mw'ijuru . "
+44002008	igiki gitumye		Kandi ni igiki gitumye twese tubumva bavuga indimi z'i wacu izo twavukanye ?
+44002012	ibiki		Bose barumirwa barazazanirwa , barabazanya bati : " Ibi ni ibiki ? "
+44002037	dute		Bumvise ivyo , bibacumita mu mitima , babaza Petero n'izindi ntumwa bati : " Bagabo bavukanyi mbega tugire dute ? "
+44003012a	iki		Petero abibonye , abaza abo bantu ati : " Yemwe bagabo b'Abisirayeli , ni iki gitumye mutangazwa n'ibi , 
+44003012b	iki		muduhangiye amaso iki , nk'aho ubushobozi bwacu canke ukwubaha Imana kwacu ari vyo vyaduhaye kumugendesha ?
+44004007a	~		
+44004007b	ki		Babashize hagati , barababaza bati : " Ni ubushobozi ki , 
+44004007c	riki		canke ni izina riki , vyabateye gukora ivyo ? "
+44004016	dute		bati : " Mbega aba bantu tubagire dute ? Ko vyamenyekanye mu baba i Yerusalemu bose yuko bakoze ikimenyetso kibaye rurangiranwa , natwe ntidushobora kubihakana ;
+44004025a	iki		kandi wavugiye mu kanwa ka sogokuruza Dawidi , umusavyi wawe , ubivugisha Mpwemu Yera uti : " Abanyamahanga ni iki kibateye umuvurungano , 
+44004025b	iki		N'amoko yagiriye ingingo iki ivyo ubusa ? "
+44005003	iki gitumye		Petero aramubaza ati : " Ananiya , ni iki gitumye Satani yuzuza umutima wawe guhenda Mpwemu Yera , ukisigariza ku biguzi vy'itongo ?
+44005004	igiki catumye		Ukiyifise ntiyari iyawe ? Kandi umaze kuyigurisha , ibiguzi vyayo ntuba warabikoze uko ugomba ? Ni igiki catumye wigira ingingo mu mutima wawe gukora utyo ? Si abantu uhenze , Imana ni yo uhenze . "
+44005009	igiki gitumye		Petero aramubaza ati : " Ni igiki gitumye muhuza inama kugerageza Mpwemu w'Uhoraho Imana ? Ehe ibirenge vy'abahejeje guhamba umugabo wawe biri ku rugi , nawe barakujana . "
+44007026	iki gitumye		Bukeye bw'aho , asanga abarwana , ageza kubatatura ati : " Yemwe bagabo , muri umuryango umwe , ni iki gitumye mugiriranira nabi ? "
+44007027	nde		Ariko uwagirira umubanyi wiwe nabi aramusunika , aramubaza ati : " Ni nde yakugize umukuru canke umucamanza wacu ?
+44007035	nde		Uwo Mose , umwe banka bati : " Ni nde yakugize umukuru canke umucamanza ? ni we Imana yatumye kuba umukuru n'umucunguzi , abihawe n'ukuboko kw'umumarayika yamubonekereye muri ca gisaka .
+44007049a	ki		ati : " Ijuru ni ryo ntebe yanje y'ubwami , Isi na yo ni indava y'ibirenge vyanje ; Muzonyubakira inzu ki ? 
+44007049b	ki		ni ko Uhoraho abajije , Canke nzoruhukira ahantu ki ?
+44007052	nde		Ni nde mu bavugishijwe n'Imana ba sogokuruza banyu batahamye ? Bishe ababanje kumenyekanisha ivyo kuza kwa wa Mugororotsi , none namwe mwaramuguze muramwica .
+44008031	nte		Na we ati : " Nobishobora nte , ntabonye uwubindongoramwo ? " Yinginga Filipo ngo yurire bicarane .
+44008033	nde		Hamwe yacishwa bugufi nta numwe yamuciriye urwo ukuri , Ni nde azoshobora kudonda ivyo uruvyaro rwiwe ? Kuko ubugingo bwiwe bukuwe mw'isi .
+44008034	nde		Iyo nkone ibaza Filipo iti : " Ndakubaza , uwavugishwa n'Imana yavuze ayo majambo kuri nde ? Ni we yayivuzeko , canke yayavuze ku wundi ? "
+44008036	igiki		Bakigenda mu nzira , bashika ahari amazi ; iyo nkone iramubaza iti : " Ehe amazi ; ikimbuza kubatizwa ni igiki ? " [
+44009004	iki		Yikubita hasi , yumva ijwi rimubaza riti : " Sawuli , Sawuli , umpigira iki ? "
+44009005	nde		Aramubaza ati : " Uri nde ga Mwami ? " Na we ati : " Ni jewe Yesu , uwo uriko urahiga ;
+44009006	~		ariko va hasi , ushike mu gisagara , uzobarirwa ivyo ukwiye gukora . "
+44010004	iki		Na we amukanurira amaso , afise ubwoba , aramubaza ati : " Ni iki ga Mwami ? " Aramwishura ati : " Ugusenga kwawe n'ubuntu bwawe vyaduze biba icibutso imbere y'Imana .
+44010021	iki		Petero arururuka , asanga abo bantu aho bari , arababarira ati : " Ni jewe uwo murondera . Mbega mugenzwa ni iki ? "
+44010029	~		Ni co catumye nza , ntarinze guhakana , ntumweko . None rero ndabaza ico mwantumiyeko ico ari co . "
+44010047	~		ati : " Mbega hari uwoshobora kwima amazi abahawe Mpwemu Yera nkatwe , ngo ntibabatizwe ? "
+44011017a	igiki		None ko Imana yabahaye ingabire imwe n'iyo natwe twahawe hamwe twizera Umwami Yesu Kristo , jewe ndi igiki gishobora gutangira Imana ?
+44011017b	~		
+44012018	~		Ijoro rikeye , havyuka imivurungano itari mike mu basoda , kuko bazazaniwe ukuntu Petero yabaye .
+44013025	nde		Ariko Yohana ariko arasozera urugendo rwiwe , arababaza ati : " Mbega mwiyumvira ko ndi nde ? " Jewe sindi we . Mugabo hari uwuzoza mu nyuma yanje , kandi jewe ntibimbereye no gupfundurura ibirato vyo mu birenge vyiwe .
+44014015	iki gitumye		bati : " Yemwe bagabo , ni iki gitumye mugira mutyo ? Natwe turi abantu basanzwe , tumeze nkamwe , kandi tubabwira ubutumwa bwiza , ngo mureke ivyo bitagira ikimazi , muhindukirire Imana nzima , yaremye ijuru , isi , ikiyaga n'ibirimwo vyose ,
+44015010	iki gitumye		None rero ni iki gitumye mugerageza Imana , mwikoreza abigishwa imitwaro ba sogokuruza batashoboye kwikorera canke twebwe ?
+44016030	iki		arabasohokana , arababaza ati : " Bagenzi , nkwiye gukora iki ngo nkire ? "
+44017018	ibiki		Maze bamwe mu banyabwenge bitwa Abepikureyo , n'abandi bitwa Abasitoyiko bahura na we . Bamwe muri bo barabazanya bati : " Mbega uwu adedemba agomba kuvuga ibiki ? " Abandi bati : " Umenga ni uwuzanye imana z'ivyaduka ; kuko yavuga ubutumwa bwiza bwa Yesu n'ubwo ukuzuka .
+44017019	~		Baramufata bamujana ahitwa Areyopago , baramubaza bati : " Mbega ubona twoshobora kumenya ukwo kwigisha gusha uvuga uko ari kwo ?
+44019003	ki		Arababaza ati : " None mwabatijwe umubatizo ki ? " Bati : " Umubatizo wa Yohana . "
+44019015	ba nde		Igisigo kirabishura kiti : " Yesu ndamuzi , na Pahulo ndamuzi , ariko mweho muri ba nde ? "
+44019035	~		Umwanditsi ( ari we mukuru w'igisagara ) amaze guhoza ishengero , arababarira ati : " Bagabo b'Abanyefeso , mbega hariho umuntu atazi yuko igisagara c'Abanyefeso ari co kizigama ingoro y'imisezero y'imanakazi ihambaye Arutemi , ari co gishushanyo cakorotse kiva mw'ijuru ? "
+44021013a	ibiki		Maze Pahulo aratubaza ati : " Mukora ibiki , 
+44021013b	~		kurira mundandura umutima ? Siniteguye kuboherwa gusa i Yerusalemu , ariko no gupfirayo , kubwo izina ry'Umwami Yesu . "
+44021022	igiki		None icobimara ni igiki ? " Ntibazobura kwumva ko waje .
+44021033a	~		Maze uwo mukuru w'intwazangabo arabashikira , aramufata , avuga ko bamufatisha iminyororo ibiri , abaza uwo ari we , n'ico akoze ico ari co .
+44021033b	~		
+44022007	iki		Nikubita hasi numva ijwi rimbaza riti : " Sawuli , Sawuli , umpigira iki ? "
+44022008	nde		Nanje ndabaza nti : " Uri nde ga Mwami ? " Aranyishura ati : " Ndi Yesu Umunyanazareti , uwo uriko urahiga . "
+44022010	nte		Ndamubaza nti : " Ngire nte ga Mwami ? " Umwami aranyishura ati : " Va hasi , ushike i Damasiko , ni ho uzobaririrwa ivyashinzwe ko uzokora . "
+44022016	iki		None ikigutevya ni iki ? Va hasi , ubatizwe , wiyuhagire ivyaha vyawe , wambaze izina ryiwe . "
+44022026	iki		Iyo ntwazangabo ivyumvise , ija ku mukuru w'abasoda , irabimumenyesha iti : " Ugira ukore iki ? Erega wa muntu ni Umuroma . "
+44023003	~		Maze Pahulo aramubwira ati : " Imana izogukubita , wa rusika rukuyengejeko ingwa , mbega wewe ko wicaritswe no kuncira urubanza nk'uko ivyagezwe biri , ugatako ukavuga ko bankubita ukanyuranya n'ivyagezwe ? "
+44023009	~		Habaho urwamo rwinshi ; bamwe mu bahinga b'ivyanditswe bo mu muce w'Abafarisayo bava hasi baraharira bati : " Nta kibi twabonye kuri uwo muntu . Kumbure impwemu canke umumarayika yoba yavuganye na we . "
+44023019	igiki		Uwo mukuru amufata ukuboko , aramukebukanya aramubaza biherereye ati : " Ico ufise kumbarira ni igiki ? "
+44026008	igiki gituma		Ni igiki gituma mugira ngo ni ikintu kitoruha cemerwa ko Imana izura abapfuye ?
+44026014	iki		Twese twikubise hasi , numva ijwi rimbwira mu rurimi rw'Igiheburayo riti : " Sawuli , Sawuli , umpigira iki ? Erega birakugoye gutera imigere ku mihunda . "
+44026015	nde		Nanje ndabaza nti : " Uri nde ga Mwami ? " Umwami aranyishura ati : " Ndi Yesu , uwo uriko urahiga . "
+45002017	~		Ko witwa Umuyuda , ukishimira ivyagezwe , ukirata Imana ,
+45002021	~		Nuko wewe wigisha abandi , mbega ntiwiyigisha ? Wewe wihaniza abiba , weho ntiwiba ?
+45002028	~		Kuko Umuyuda wo ku rukoba atari we Muyuda ; kandi guhimbura igikoba c'ubugabo kwo ku mubiri atari kwo guhimburwa igikoba c'ubugabo .
+45003001a	ate		None Umuyuda aruta abandi ate ? 
+45003001b	iki		Canke guhimburwa igikoba c'ubugabo kumara iki ?
+45003003	iki		Tuvuge iki ? Naho bamwe batizeye , mbega kutizera kwabo kuzohindura ubusa ivyo Imana yizigiweko ?
+45003005	iki		Ariko namba ukugabitanya kwacu kwashimagije ukugororoka kw'Imana , tuvuge iki ? Mbega Imana iragabitanya , kuko iduhanisha ishavu ryayo ? Ndabivuze nk'imvugo y'abantu .
+45003006	ite		Eka na mba ! Iyo biba bityo , Imana yociriye abari mw'isi urubanza ite ?
+45003007a	~		Ariko namba ibinyoma vyanje vyatumye ukuri kw'Imana kurushiriza kwerekanwa , bikayitera icubahiro , 
+45003007b	igiki gituma		ni igiki gituma nanje ncirwa urubanza nk'umunyavyaha ?
+45003008	igiki		Kandi ni igiki kitubuza gukora ibibi kugira ngo ivyiza bibeho ? ( nk'uko batubeshera bakanavuga ko twigisha ibibi ) . Abakora batyo bazocirwa urubanza bakwiranye .
+45003009	iki		Nuko tuvuge iki ? Mbega turuta abandi ? Oya , ntitubaruta na gatoya , kuko tumaze kwagiriza Abayuda n'Abagiriki bose ko baganzwa n'icaha ;
+45003027a	hehe		None rero ukwihaya kuri hehe ? Kwarabujijwe . 
+45003027b	ki		Kwabujijwe n'ivyagezwe ki ? 
+45003027c	~		Mbega ni ivyo ibikorwa ? Haba na mba ; kwabujijwe n'ivyo ukwizera .
+45004001	igiki		None rero , ico twovuga yuko Aburahamu sogokuruza ku mubiri yaronse ni igiki ?
+45004003	iki		Ivyanditswe bivuga iki ? Bivuga ngo Aburahamu yizeye Imana , ibimuharurako nk'ukugororoka .
+45004010	ryari		Kwaharuwe ryari ? Yari yarahimbuwe igikoba c'ubugabo , canke ntiyaribwagihimburwe ? Ico gihe si uko yari amaze guhimburwa igikoba c'ubugabo ariko ntiyaribwagihimburwe .
+45005010	~		Ko twujujwe n'Imana n'urupfu rw'Umwana wayo , tukiri abansi bayo , none tumaze kwuzura na yo , ubugingo bwiwe buzorushiriza kudukiza .
+45005021	~		kugira ngo , nk'uko icaha cashizwe ku butware n'urupfu , mube ari ko n'ubuntu bw'Imana bushirwa ku butware n'ukugororoka , buheshe ubugingo budashira , kubwa Yesu Kristo Umwami wacu .
+45006001	iki		Nuko tuvuge iki ? Mbega twame dukora ivyaha kugira ngo ubuntu bw'Imana bugwire ?
+45006002	dute		Biragahera . Twebwe twapfuye ku caha , twoba tukikibamwo dute ?
+45006015	dute		Nuko tugire dute ? Mbega dukore ivyaha , kuko tutaganzwa n'ivyagezwe , ariko tuganzwa n'ubuntu ? Biragahera .
+45006021	gihe		None rero ico gihe mwari n'imbuto ki mu bibamaramaza ubu ? kuko amaherezo yavyo ari urupfu .
+45007007	iki		Nuko tuvuge iki ? Mbega ivyagezwe ni icaha ? Eka na mba . Ariko simba naramenye icaha , iyo ntakimenyeshwa n'ivyagezwe ; kuko ntaba naramenye ukwifuza , iyo ivyagezwe bitavuga " ngo Ntukifuze .
+45007024	nde		Ewe jewe ndagowe ! Ni nde yonkiza umubiri untera uru rupfu ?
+45008024	ate		Kuko twakijijwe mu buryo bwo kugira ico twiteze ; ariko icari citezwe iyo kibonetse ntikiba kicitegwa . Ico umuntu abonye , yoba akicitega ate ?
+45008031a	iki		Ko bimeze bityo , tuvuge iki ? 
+45008031b	nde		Bisanzwe Imana iri mu ruhande rwacu , uwoturwanya ni nde ?
+45008032	ite		Iyitimanye Umwana wayo , ikamutanga kubwacu twese , izobura ite kutugabirira vyose kuri we ?
+45008033	nde		Ni nde azorega abo Imana yatoranije ? Mbega ni Imana , kandi ari yo ibahindura intungane ?
+45008034	nde		Ni nde azobagira abera ? Mbega ni Kristo Yesu , kandi ari we yapfuye ? Ibibiruta yarazutse , ari i buryo bw'Imana , bitayeko aradusengera .
+45008035	nde		Ni nde azodutandukanya n'urukundo rwa Kristo ? Mbega ni amarushwa , ni ivyago , ni uguhamwa , ni inzara , ni ukwambara ubusa , ni ukuba mw'irinde , canke ni inkota ?
+45009014	iki		Nuko tuvuge iki ? Mbega Imana irarenganya ? Eka na mba !
+45009019a	igiki gituma		Nuko wombaza uti : " Ni igiki gituma ikigaya umuntu ? 
+45009019b	nde		Ni nde yankiye ivyo igomba ?
+45009020a	nde		Ariko ga wa muntu , uri nde , uharira n'Imana ? 
+45009020b	~		Mbega icabumbwe cobaza uwakibumvye kiti : 
+45009020c	igiki catumye		' Ni igiki catumye umbumba utya ? '
+45009021	~		canke umubumvyi ntagera ibumba rimwe ngo aribumbemwo urwavya rumwe rwo gukoresha ivyo icubahiro , n'urundi rwo gukoresha ibiteye isoni ?
+45009022	~		Mbega hari ico biriko , naho Imana yagomvye kwerekana ishavu ryayo , no kumenyesha ubushobozi bwayo , namba yihangananiye imbabazi nyinshi inzavya z'ukuraka , ziteguriwe guhona ;
+45009023	~		kugira ngo yerekanire ubutunzi bw'ubwiza bwayo ku nzavya z'ikigongwe , izo yiteguriye guha ubwiza kera ,
+45009024	~		kuri twebwe , abo yahamagaye , si mu Bayuda bonyene ariko no mu banyamahanga ? "
+45009030	iki		None tuvuge iki ? Ehe tuvuge yuko abanyamahanga batakurikiye ivyo ukugororoka bashitse ku kugororoka , ni kwo kugororoka kuva ku kwizera .
+45009032	ku ki		Ni ku ki ? Ni uko batabironderesheje ukwizera , yamara babironderesheje ibikorwa nk'ivyobibahesha , batsitara kuri rya buye ritsitaza ,
+45010006	nde		Ariko ukugororoka kuva ku kwizera kuvuga gutya , ngo ntiwibaze uti : " Ni nde azoduga , ngo aje mw'ijuru ? ( risobanurwa ngo kumanukana Kristo ) , "
+45010007	nde		canke uti : " Ni nde azomanuka i kuzimu ? ( risobanurwa ngo kudugana Kristo , amukuye mu bapfuye ) . "
+45010008	gute		Ariko kwavuze gute ? Kwavuze kuti : " Ijambo riri hafi yawe , riri mu kanwa kawe no mu mutima wawe ; ni ryo jambo ryo kwizera , iryo tubigisha . "
+45010014a	bate		None bazokwambaza bate uwo batarizera ? 
+45010014b	bate		Kandi bazokwizera bate uwo batarumva ? 
+45010014c	bate		Kandi bazokwumva bate , ata wabasiguriye ivyiwe ?
+45010015	bate		Kandi bazosigura ivyiwe bate , batatumwe ? Nk'uko handitswe , ngo ewe kuntu ibirenge vy'abazanye ubutumwa bw'ivyiza ari vyiza !
+45010016	nde		ariko abumviye ubutumwa bwiza si bose . Kuko Yesaya yavuze ati : " Mwami , ni nde yemeye ivyo twumvise ? "
+45011004	iki		Ariko Imana yamwishuye ngo iki ? Iti : " Nisigarije abantu ibihumbi indwi batapfukamiye Bayali . "
+45011007	bite		None vyabaye bite se ? ico Abisirayeli barondeye , ntibakibonye ; ariko , abatoranijwe barakironse , abandi bakomantazwa imitima .
+45011015	gute		Ko gutabwa kwabo kwazaniye abari mw'isi kwuzura n'Imana , ukugarukanwa kwabo kuzoba gute ? Mbega ntikuzoba ubugingo buzutse mu bapfuye ?
+45011018	~		ntiwihayagize kuri ayo mashami . Namba uyihayagizako si igishitsi kimeze kuri wewe , ariko ni wewe umeze ku gishitsi .
+45011033a	~		Yo , uburebure bw'amajepfo bw'ubutunzi bw'ubwenge no kumenya vy'Imana ! Imigabo yayo ntishoboka kubariritswa , 
+45011033b	~		n'inzira zayo ntizigira akehe !
+45011034a	nde		Ni nde yamenye umutima w'Uhoraho ? 
+45011034b	nde		Canke ni nde yabaye umuhanuzi wiwe ?
+45011035	nde		Canke ni nde yabanje kumuha kandi akazokwishurwa ?
+45014004	nde		Wewe uri nde uhinyura umushumba w'abandi ? Kuko imbere ya shebuja ari ho ahagarara canke agatemba ; mbere ushime azohagarara , kuko Umwami wacu ashobora kumuhagarika .
+45014010a	igiki gituma		Ariko weho , ni igiki gituma uhinyura umwana wa So ? 
+45014010b	igiki gituma		Kandi nawe , ni igiki gituma ukengera umwana wa So ? Kuko twese tuzohagarara imbere y'intebe y'imanza y'Imana .
+46001020a	hehe		Umunyabwenge ari hehe ? 
+46001020b	hehe		Umwanditsi ari hehe ? 
+46001020c	hehe		Umunyabihari wo muri iki gihe ari hehe ? Mbega Imana ntiyahinduye ubupfu ubwenge bw'iyi si ?
+46002011	nde		Ni nde mu bantu azi ibiri mu muntu , atari impwemu yiwe , iri muri we ? Ni ko n'ivyo Imana biri , nta wubizi , atari Mpwemu w'Imana .
+46002016a	nde		Ni nde yigeze kumenya ivyiyumviro vy'Uhoraho ngo yigishe Uhoraho ? Ariko twebwe dufise ivyiyumviro vya Kristo .
+46002016b	~		
+46003005a	igiki		None Apolo ni igiki ? 
+46003005b	igiki		Kandi Pahulo ni igiki ? Mbega si abakozi batumye mwizera Imana , nk'uko Imana yahaye umuntu wese ?
+46004007a	nde		Ni nde aguteye kwitandukanya n'abandi ? 
+46004007b	igiki		Kandi ico ufise utahawe ni igiki ? 
+46004007c	igiki gituma		Ariko namba waragihawe , ni igiki gituma wirata , nk'uwutagihawe ?
+46004021	iki		Mugomba iki ? Ko nza i wanyu nzanye inkoni , canke ko nzana urukundo n'umutima w'ubugwaneza ?
+46005002	~		Namwe mukikakisha , ntimubabare , nk'uko mwari mukwiye , kugira ngo uwakoze ico caha akurwe muri mwebwe .
+46005012	hehe		Mpuriye hehe no gucira urubanza abo hanze ? Mbega si mwebwe mucira urubanza abo muri mwebwe ?
+46006001	~		Mbega hari uwo muri mwebwe yogira ico apfa n'umuvukanyi wiwe , akubahuka kuburanira ku bagabitanya , ntaburanire ku bera ?
+46006003	~		Ntimuzi yuko tuzocira abamarayika urubanza ? None ntiturushiriza kuba abo guca imanza z'ivyo ubu bugingo ?
+46006004	~		Nuko , iyo mufise imanza zo guhimburwa igikoba c'ubugabo z'ivyo ubu bugingo , mbega mushiraho abatagira ico bamariye ishengero ngo abe ari bo bazica ?
+46006007a	~		Mbere n'ubu hari ico muhomvye rwose , kuko musubiranamwo mukaburana . Ntimwopfuma mugirirwa nabi ? 
+46006007b	~		Ntimwopfuma mwemera kugungwa ?
+46006009	~		Ntimuzi yuko abagabitanya batazoragwa ubwami bw'Imana ? Ntimuzimire ; abashurashuzi , canke abasenga ibigirwamana , abasambanyi , abagabo basambana , abagabo basambana n'abandi bagabo ,
+46006016	~		Ntimuzi yuko uwimatanya n'umumaraya aba ari umubiri umwe na we ? Kuko yavuze iti : " Bompi bazoba umubiri umwe . "
+46006019	~		Ntimuzi yuko imibiri yanyu ari insengero za Mpwemu Yera ari muri mwebwe , uwo mufise , avuye ku Mana ? Kandi si mwe mwiganza ,
+46007016a	n'iki		Yewe mugore , ubwirwa n'iki yuko uzokiza umugabo wawe ? 
+46007016b	n'iki		Yewe mugabo , ubwirwa n'iki yuko uzokiza umugore wawe ?
+46009007a	nde		Ni nde yigeze kwitunga , ari umusoda ? 
+46009007b	nde		Ni nde yotera umurima w'inzabibu ntarye inzabibu zarwo ? 
+46009007c	nde		Canke ni nde yoragira ubusho , ntabunywe ?
+46009018	inki		None ingero yanje ni inki ? Ni uko ubutumwa , uko ndabuvuze , ndabuvuga ku buntu , kugira ngo sindwanire ivyo nemerewe mu butumwa .
+46010019a	n'igiki		Nuko ico mvuga n'igiki ? 
+46010019b	~		Mbega mvuga yuko icaterekerejwe ikigirwamana ari ikintu , 
+46010019c	~		canke yuko ikigirwamana ari ikintu ?
+46010029	igiki gituma		Ariko umutima mvuze si uwawe , ni uwa wa wundi . Ni igiki gituma ukwidegemvya kwanje guhinyurwa n'umutima w'uwundi ?
+46010030	igiki gituma		Ko ndya ndabishimiye , ni igiki gituma ntukirwa ivyo nshimiye ?
+46011022	iki		Mbega yemwe ; ntimufise ingo zo kuriramwo no kunyweramwo ? Canke mukengera ishengero ry'Imana , mugatetereza abadafise ? Ndababwire iki ? Ndabashime ? Kuri ivyo sindabashima .
+46012017a	hehe		Iyo umubiri wose uba ijisho , kwumva kwobaye hehe ? 
+46012017b	hehe		Iyo wose uba kwumva , kumoterwa kwobaye hehe ?
+46012019	hehe		Kandi iyo zose ziba urugingo rumwe , umubiri wobaye hehe ?
+46014006	iki		Ariko none , bavukanyi , ni naza i wanyu mvuga indimi zitamenyekana , nzobamarira iki , ni ntababarira ivyo mpishuriwe , canke ivyo mpawe kumenya , canke kuvugishwa n'Imana , canke kwigisha ?
+46014007	bate		Kandi n'ibidafise ubugingo biri n'amajwi : umwironge iyo udatandukanije ijwi , canke inanga , bomenya bate irivuzwa canke iricurarangwa ?
+46014008	nde		Kandi n'inzumbeti yovuga ijwi ritamenyekana , ni nde yokwitegura gutabara ?
+46014009	bate		Namwe ni uko , ururimi rwanyu ni rutavuga ibimenyekana , bazomenya bate ivyo muvuga ? Kuko muzoba muvuga ibitwarwa n'umuyaga .
+46014015	nte		Nuko ngire nte ? Nzosengesha impwemu yanje , ariko kandi nzosengesha n'ubwenge . Nzoririmbisha impwemu yanje , ariko kandi nzoririmbisha n'ubwenge .
+46014016	ate		Iyo ushimye Imana , ushimishije impwemu yawe yonyene , mbega uri ku ruhande rw'abatungu yoshobora ate kuvuga ati : " Amina , ni waheza gushima , kandi atamenye ico uvuze ? "
+46014026	bite		Ni bite ga bavukanyi ? Iyo mukoranye , umuntu wese aba afise indirimbo , canke amajambo yo kwigisha , canke amajambo ahishuriwe , canke ururimi rutamenyekana , canke amajambo yo kurusobanura . Vyose bikorwe kugira ngo abantu bakomezwe .
+46014036	~		Mbega kuri mwebwe ni ho ijambo ry'Imana ryandurutse ? Canke ryashitse kuri mwebwe mwenyene ?
+46015012	bate		Ariko , ko Kristo avugwa ko yazutse mu bapfuye , bamwe muri mwebwe bavuga bate yuko ata wuzuka ?
+46015029a	~		
+46015029b	iki		Canke ababatizwa mu gishingo c'abapfuye bazobamarira iki ? 
+46015029c	igiki gituma		Asangwa abapfuye batazurwa na mba , ni igiki gituma bababatirizwa ?
+46015030a	~		
+46015030b	igiki gituma		Natwe Ni igiki gituma twama turi mw'irinde ?
+46015032	iki		Asangwa narwaniye n'ibikoko muri Efeso , ndi mu buryo bw'abantu gusa , bimarira iki ? Namba abapfuye batazurwa , ni twirire , twinywere , kuko ejo tuzopfa .
+46015035a	bate		Ariko umuntu yobaza ati : " Abapfuye bazurwa bate , 
+46015035b	ki		kandi baza bafise umubiri ki ? "
+46015055a	hehe		Wa rupfu we , intsinzi yawe iri hehe ? 
+46015055b	hehe		Wa rupfu we , uruboyi rwawe ruri hehe ?
+47002002	nde		Ni nabatera umubabaro , uwuzonezereza ni nde ? Si uwo nteye umubabaro nyene ?
+47002016	nde		Kuri abo turi agacuku k'urupfu kazana urupfu , kuri ba bandi turi ubumote bw'ubugingo buzana ubugingo . kandi ivyo ni nde abishobora ?
+47003008	~		None ko vyabaye bityo , ubugabuzi buganzwa na Mpwemu ntiburushiriza cane kuzanana n'ubwiza ?
+47003009	~		Ubugabuzi bwo gutsindwa ko ari ubwiza , ubugabuzi bwo kugororoka burushiriza kugira ubwiza bw'akaburarugero .
+47006014a	bite		Ntimwifatanye n'abatizera , kandi ata co musangiye . Ukugororoka n'ukugabitanya bifatana bite ? 
+47006014b	bite		Canke umuco n'umwiza bifatanya bite ?
+47006015a	hehe		Kandi Kristo ahuriye hehe na Beliyari ? 
+47006015b	iki		Canke uwizera n'uwutizera basangiye iki ?
+47006016	rute		Kandi urusengero rw'Imana ruhuza rute n'ibigirwamana ? Kuko twebwe turi urusengero rw'Imana nzima ; nk'uko Imana yavuze iti : " Nzobagereramwo , nzobagenderamwo , Mbe Imana yabo , na bo babe abantu banje . "
+47011011	ku ki		Ni ku ki ? Ni uko ntabakunda ? Bizi Imana .
+47011029a	nde		Ni nde adakomera , nanje simbe uwudakomeye ? 
+47011029b	nde		Ni nde agira ikimugwisha , nanje isoni ntizinyice ?
+47012013	iki		Ayandi mashengero yabarushije iki , atari uko jewe ubwanje ntababereye ikirusha ? Mumparire ico caha !
+47012017	~		Mbega mu bo nabatumyeko hari umuntu natumye kubaka inyungu ?
+48002014	ute		Ariko ndabonye badaca mu nzira igororotse , nk'uko ukuri kw'ubutumwa bwiza kuri , mbaririra Kefa imbere ya bose nti : " Ko wewe witondera ingeso z'abanyamahanga , zitari izo Abayuda , kandi uri Umuyuda , ugobera ute abanyamahanga kuba nk'Abayuda ? "
+48003001	nde		Yemwe Bagalatiya b'ibijuju , ni nde yabaroze , kandi ari mwebwe mweretswe Yesu Kristo abambwe , mu maso yanyu ?
+48003019	iki		Nuko ivyagezwe ni ivyo iki ? Vyageretsweko kubwo ibicumuro , ngo bigumeho kugeza aho uruvyaro rwasezeranywe ivyo isezerano ruzozira . Kandi vyahawe abamarayika kubigera , na bo babiha umushikirwa w'amajambo .
+48004009a	igiki catumye		Ariko none , ko mwamenye Imana , canecane ko mwamenywe na yo , ni igiki catumye musubira inyuma mugahindukirira ivya mbere vya goyigoyi , 
+48004009b	~		bitagira ikimazi , mukagomba kubijakarira ukundi gusha ?
+48004010	~		Muziririza imisi , amezi , ibihe n'imyaka .
+48004015	hehe		None kwa kwishima kwanyu kuri hehe ? Ndi icabona canyu yuko iyo biba vyarashobotse , muba mwaremeye kwinogora amaso , mukayampa .
+48004021	~		Mwebwe abagomba kuganzwa n'ivyagezwe , ni mumbarire . Mbega ntimwumva ivyagezwe ?
+48004030	~		Ivyanditswe bivuga biti : " Irukana incoreke n'umwana wayo , kuko umwana w'incoreke atazoraganwa n'umwana w'umugore bwite . "
+48005007a	nde		Ko mwagenda neza ; ni nde yabateye gutezura ngo ntimwumvire ukuri ?
+48005007b	~		
+48005011	igiki gituma		Ariko jewe , bavukanyi , namba nkibarira abantu guhimburwa igikoba c'ubugabo , ni igiki gituma ngihamwa ? Igitsitaza c'umusaraba kiba carahindutse ubusa .
+49004009	iki		Ariko iryo jambo ngo Yaraduze , ni ukuvuga iki ? Mbega ntiryerekana yuko yabanje kumanuka i kuzimu ?
+50001018	~		Hari ico biriko ? Kizima mu buryo bwose , ari mu buryarya ari mu kuri , Kristo avugwa , kandi ivyo ndabinezererewe , kandi nzokwama ndabinezererwa ;
+50001021	~		Kuko kubwanje kubaho ari Kristo , kandi gupfa ari inyungu .
+51002020	igiki gituma		Asangwa mwarapfanye na Kristo , mukareka ivya mbere vy'isi , Ni igiki gituma mwemera kuganzwa na ya mabwirizwa , nk'abazokwama bari kw'isi --
+52002019	n'iki		None ivyizigiro vyacu n'iki , canke umunezero , canke igitsibo co mu mutwe twirata ? Mbega si mwebwe , imbere y'Umwami wacu Yesu aho azozira ?
+52003009	ki		Ni ishimwe ki twoshobora kwishura Imana kubwanyu , kubwo umunezero wose tubanezererwa imbere y'Imana yacu ?
+54003005	ate		( Uwutazi kuganza abo mu rugo rwiwe yoshobora ate kuzigama ishengero ry'Imana ? )
+54006007a	~		Kuko ata co twazanye mw'isi 
+54006007b	~		kandi ata co dushobora kuyivanamwo .
+58001005	nde		Ni nde wo mu bamarayika Imana yigeze kubarira iti : " Uri Ubura bwanje ? Uwu musi ndakuvyaye ? " Kandi iti : " Nzomubera Se . Na we azombera Umwana wanje ? "
+58001013	nde		Ariko ni nde wo mu bamarayika yigeze kubarira iti : " Icara i buryo bwanje , Ushitse aho nzohindurira abansi bawe indava yo musi y'ibirenge vyawe ? "
+58001014	~		Mbega abamarayika bose si impwemu ziyikorera , zitumwa gukora igikorwa kubwo abazoragwa agakiza ?
+58002003	dute		tweho tuzokwikiza dute , ni twanjanjwa ku gakiza kangana gatyo ? Kabanje kuvugwa n'Umwami wacu , kakadukomezwako n'abakumvise ,
+58002006a	~		Ariko hari aho umuntu yashinze intahe ati : " Umuntu aho umwibuka , 
+58002006b	~		Canke umwana w'umuntu aho umugendera ? "
+58003016	ba nde		Ni ba nde bamaze kwumva bakayiratsa ? Mbega si abavuye i Misiri bose , barongowe na Mose ?
+58003017	ba nde		Kandi ni ba nde yagiriye umwikomo imyaka mirongo ine ? Si abacumuye , imivyimba yabo igahindikirana mu bugaragwa ?
+58003018	ba nde		Ni ba nde yarahiye ko batazoshika mu buruhukiro bwayo ? Si abatayumviye ?
+58006004	~		Kuko abamaze kwakirwa n'umuco , bagatamira ingabire iva mw'ijuru , bagasangira Mpwemu Yera ,
+58007011	iki catumye		None iyaba gutunganywa rwose kwazanywe n'ubuherezi bw'Abalewi , -- kuko ku butware bwabwo ari ho ubwo bwoko bwahawe ivyagezwe , -- ni iki catumye bigikwiye ko haboneka uwundi muherezi wo mu buryo bwa Melekisedeki , atavugwa mu buryo bwa Aroni ?
+58009014	~		mbega amaraso ya Kristo , uwo yitanze ku Mana atagira agasembwa , abitewe na Mpwemu ahoraho , ntazorushiriza guhumanura imitima yanyu ngo ibikorwa vy'impfagusa biyivemwo , kugira ngo mubone ingene mukorera Imana nzima ?
+58010001	~		Ivyagezwe ko bifise igitutu c'ivyiza bizoza , bidafise ishusho bwite y'ivyo vyiza , nta ho vyoshobora guhingura abegera igicaniro , bibahingurisha ivyo bimazi nyene bahora batanga imyaka n'imyaka .
+58010029a	~		Mugira ngo umuntu ntazoba akwiye guhanwa ibirushirije cane , 
+58010029b	~		asiribanze Umwana w'Imana , 
+58010029c	~		akiyumvira amaraso y'isezerano yamwejeje ko ari igihumane , 
+58010029d	~		agacokora Mpwemu w'ubuntu ?
+58011032	ki		Mvuge ikindi ki ? Kuko igihe condengana ndondoye ivya Gideyoni , ivya Baraki , ivya Samusoni , ivya Yefuta , ivya Dawidi , ivya Samweli n'ivyo abavugishwa n'Imana ,
+58012007	ki		Ico mukwiye kwihanganira ni ugutozwa indero nziza . Imana ibagirira nk'abana bayo . Ni umwana ki , adakangirwa na se ?
+58012009	~		Kandi twari dufise ba data b'imibiri , baradukangira , natwe tukabubaha . None ntituzorushiriza cane kugororokera Se w'impwemu tugahoraho ?
+58012025	~		Mwirinde ntimwanke kwumva Iyiriko iravuga . Ba bandi ko batakize , hamwe banka uwababuririye mw'isi , tweho tuzorushiriza cane kudakira , namba dutera ibitugu Iyituburira iri mw'ijuru .
+58013006	iki		Ni co gituma tuvuga dushize ubwoba tuti : " Uhoraho ni umutabazi wanje , sinzotinya ; None umuntu yoshobora kungira iki ? "
+59002006	~		Ariko mweho mwatetereje umworo . None abatunzi si bo babatwaza amanyama , bakaba ari bo babakwega babajana mu manza ?
+59002014	iki		Vyomara iki ga bavukanyi , namba umuntu avuga yuko afise ukwizera , ata bikorwa akora ? Mbega ukwo kwizera kwoshobora kumukiza ?
+59002016a	~		maze umwe muri mwebwe akamubwira ati : " " Genda amahoro , ususuruke , uhage " " ; 
+59002016b	iki		ariko ntimumuhe ivyo umubiri ukena , vyomara iki ?
+59002018	~		Nk'umuntu yovuga ati : " " Weho ufise ukwizera , jeho mfise ibikorwa : nyereka ukwizera kwawe kutagira ibikorwa , nanje ndakwereka ukwizera kwanje guserurwa n'ibikorwa vyanje . " " "
+59002021	~		Aburahamu sogokuruza , mbega ntiyahinduwe umwere n'ibikorwa , hamwe yari atanze umwana wiwe Isaka ko ishikanwa amutanze ku gicaniro ?
+59003013	nde		Ni nde muri mwebwe w'umunyabwenge kandi w'umuhanga ? Ni yerekanishe ibikorwa vyiwe ingeso nziza mu bugwaneza bufatanije n'ubwenge .
+59003017	~		Ariko ubwenge buva mw'ijuru , irya mbere buratunganye , kandi n'ubwo amahoro , burengenga , bukunda kugirwa inama , bwuzuye imbabazi n'imbuto nziza , ntibukekeranya , ntibugira uburyarya .
+59004001a	hehe		Muri mwebwe intambara ziva hehe , 
+59004001b	hehe		n'imitongano iva hehe ? Mbega ntibiva mu bibahimbara birwanira mu ngingo zanyu ?
+59004012	iki		Uwushinga ivyagezwe , ari we mucamanza , ni Imwe gusa ; ni yo ishobora kurokora no guhonya . Ariko wewe uri iki , uhinyura mugenzawe ? "
+59004014	nk'iki		ariko mutazi ibizoba ejo . Ubuzima bwanyu ni nk'iki ? muri umwuka uboneka umwanya muto , ugahava uyongayonga .
+60002020	iki		Mwokwihanganira gukubitwa ibipfunsi muhowe icaha , mwokwihaya iki ? Ariko mwokwihanganira kubabazwa muhowe gukora neza , ivyo ni vyo bishimwa ku Mana .
+60003013	nde		Kandi ni nde yobagirira nabi , ni mwagira ishaka ry'ivyiza ?
+60004017	rite		Kuko igihe gishitse c'uko urubanza rutangurira mu b'inzu y'Imana , none ko rutanguriye kuri twebwe , iherezo ry'abatumvira ubutumwa bwiza bw'Imana rizomera rite ?
+60004018	hehe		Kandi ko umugororotsi akizwa agarukiye ku manga , uwutubaha Imana n'umunyavyaha bazoboneka hehe ?
+61003004	hehe		babaza bati : " Isezerano ryo kuza kwiwe riri hehe se ? " Kuko uhereye aho ba sogokuruza basinziririye , vyose bihora uko vyamye , uhereye ku kuremwa kw'isi .
+61003011	mute		None , ko ivyo vyose bizoshonga bityo , mukwiye kumera mute mu ngeso zera no mu kwubaha Imana ,
+62002022	nde		Umubeshi ni nde , atari uwuhakana ko Yesu ari Kristo ? Ni we Antikristo , ahakana Data wa twese n'Umwana .
+62003012	igiki		ntiduse na Kayini , yari uwa wa Mubi , akica murumuna we . Kandi icatumye amwica ni igiki ? Ni uko ibikorwa vyiwe vyari bibi , ivya murumuna we bikaba vyiza .
+62003017	gute		Ariko uwufise ibintu vyo mw'isi , akabona umuvukanyi wundi akenye , akazitira imbabazi ziwe kuri uwo , mbega ugukunda Imana kwoguma muri we gute ?
+62004020	~		Umuntu ni yavuga ati : " Ndakunda Imana , " akanka umuvukanyi wundi , aba ari umubeshi , kuko uwudakunda umuvukanyi yabonye ntashobora gukunda Imana atabonye .
+62005005	nde		Ni nde atsinda isi , atari uwizera yuko Yesu ari Umwana w'Imana ?
+66005002	nde		Mbona umumarayika w'inkomezi nyinshi asemereza ijwi rirenga ati : " Ni nde bibereye ko azingurura kirya gitabo ngo amene ibikimatanije ? "
+66006010a	ryari		Batakambisha ijwi rirenga bati : " Databuja wera w'ukuri , uzogeza ryari kudaca imanza no kudahora abari mw'isi amaraso yacu ?
+66006010b	~		
+66006017	nde		kuko umusi uhambaye w'ishavu ryabo ushitse , kandi ni nde ashobora guhagarara ? "
+66007013a	ba nde		Umwe muri ba bakuru arambaza ati : " Aba bambaye imyambaro yera ni ba nde , 
+66007013b	hehe		kandi bavuye hehe ? "
+66013004a	nde		Batazira ico gisato bagisenga , kuko cahaye ico gikoko ububasha bwaco ; batazira na kino gikoko bagisenga bati : " Ni nde ahwanye n'iki gikoko , 
+66013004b	nde		kandi ni nde ashobora kukirwanya ? "
+66015004a	nde		Ni nde atazogutinya ga Mwami , 
+66015004b	~		canke atazohimbaza izina ryawe ? Kuko ari wewe wenyene wera , amahanga yose azoza akwikubite imbere , agusenge , kuko imanza zawe zigororotse ziseruwe .
+66017007	igiki		Umumarayika arambaza ati : " Ni igiki kigutangaje ? " Ndakubwira akabanga k'uriya mugore n'ako igikoko agenderako gifise imitwe indwi n'amahembe icumi .
+66018018	ikihe		kandi bakiraba umwotsi wo kuyigizwa kwaco barataka bati : " Ni ikihe cari gihwanye na kiriya gisagara gihambaye ? "

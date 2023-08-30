@@ -1,0 +1,743 @@
+40002002	Wanjabu		Jana babajin , “ Wanjabu ngawa , nyulu majamanka bamanka Jew-warranka ? Nganjin dawar nyungu nyajin nakamun dakal-dakanya . Nganjin kadarin , nyungun buyay-maninka . ”
+40002004	Wanjabu		Nyulu Herodangka wubulku kunjan , jananin maja-maja Godundumunku bayanka and teacher-teacher lawmunku . Nyulu jananda babajin , “ Wanjabu nyulu bama Godundumun balkaji , Christ ? ”
+40003007	wanyangka		Kanbal yinyarrin Pharisee-warra . Jana law janangaku ngulkurrduku kujin , yamba jana kanbalanka bamanka wawu kari . Kanbal yinyarrin Sadducee-warra . Johnungku jananin Pharisee-warra , Sadducee-warra nyajin , nyungundu kankadanya , banabu dukul-damajinka . Nyulu jananda yalaman , “ Yurra yala jarba kuliji . Nyulu Godungku juma kuli jirray yungal bubungu . Yurrangan wanyangka milka-bakan Godundumun kulimun ngakijinka ?
+40005013	~		Jesusangka yalaman baja , “ Yurra yala salt . Bamangka mayi ngulkurr-bungal saltmundu . Saltmundu minya kaka-bungal , minya kari kabumal . Kaki salt buyunmal , bamangka yilbal , mayi kari damal baja . Kaki salt buyunmal , bamangka yilbal , jinabu nyarril . Yurra yala yinya salt ngulkurr . Bamangka yurranin nyajil ngulkurrku bundanya , jana yalarrku ngulkurrku bundanka .
+40005046	~		Bama kanbal yununku wawu . Yundu nguba janankaku wawu , yindu-yinduynku wawu kari . Yinya ngulkurr kari . Bama buyun-buyun janawunkuku jawun-karrankaku wawumal . Bamangka money bangkal Governmentamu , jana yinyarrin yalaku bundari . Yamba Godumu jawun-karra yindu-yinduynku bamanka wubulkuku wawu .
+40005047	~		Yundu nguba jawun-karranjiku jawun-jawunku balkaway , yamba kanbal bayjal . Yinya ngulkurr kari . Bama Godunku wawu kari , janaku yalaku bundari . Yamba Godumu jawun-karra jawun-jawunku balkaway bamanji wubulinjiku .
+40006027	~		Kari worry-balamaka . Yinyamundu yunun kari juran dandiku kujil .
+40006028	~		“ Kambika kari wawu-buyunmaka . Nganka nyaka . Nganka balkaji , jirraymal , yamba jana nganka kari wawu-buyunmal , kambi damanka . Godungku nganka ngulkurrduku kujil .
+40006031a	wanjamun		“ Kari wawu-buyunmakada . Kari yalamaka , ‘ Ngananga mayi wanjamun manil ? 
+40006031b	wanjabu		Bana wanjabu ? 
+40006031c	wanjamun		Kambi wanjamun manil ? ’ Godungku yurranin ngulkurrduku kujil .
+40007003	~		Buyun-buyun yala juku bamandamunbu miyilba . Juku karrkay bamanda yinduymbu miyilba . Yundu nyajil , balkal , ‘ Yunuwunbu miyilba juku . ’ Yunuwunbukulu miyilba juku yalbay bajaku , yamba yundu ngambaku bundanday .
+40007004	~		Kaki juku jirray yunuwunbu miyilba , yundu juku kari nyaka bamanda yinduymbu miyilba .
+40007009	~		Kaki yunuwundu kangkalda mayika babaji , yundu nyungu mayikuda dajil , kari bubu dajil . Kaki nyulu minyaka kuyuku babaji , yundu nyungu minyakuda dajil , kari jarba kuliji .
+40007016a	wanjarrku		Yundu wanjarrku binal bamanka ? Jananin nyakaku . Kanbal ngulkurrku dungay , kanbalda buyun-buyun wukurril . Yinya yala mayi jukungu . Yurra mayi kurruy jukumun milimun kari manil . Bama jurril-baka yalarrku kari junkayku bunday . Nyulu yinyanka bama kari helpim-bungal .
+40007016b	~		
+40008026	Wanyurrinku		Jesusangka yalaman , “ Wanyurrinku yurra yinyilmalmal ? Yurra ngaykunku bubanku binal . Yurra should nganya trustim-bungarrku . ” Nyulu janan , kuku yirrkanda jarramalinda and muyaranda . Jalun marrkamaynda .
+40008027	Wanju		Jana wubulku kungkurr-kadarinda . Jana yalaman , “ Wanju yinya dingkar ? Jarramalingka , muyarangka , jalundu nyungun kuku nyajil . ”
+40008029	Wanyurrinku		Bula yaykarrku yirrkajin , “ Yundu Godumu kangkal . Wanyurrinku yundu ngalinyanda kadan ? Yundu ngalinyin punishim-bunganka , right time kadanjiku ? Godungku juma ngalinyin punishim-bungalkuda . ”
+40009004	wanyurrinku		Jesus nyulu binal wanyu jana dukulbu kujil-kujin . Nyulu babajin , “ Yurra wanyurrinku buyun-buyun kujil-kujil ?
+40009005	~		Ngayu nyungundu balkan ngayu nyungu wawu dayirr-bunganka . Yamba yurra yurra-karrajiku yalaman , ‘ Nguba , nguba kari . Nyulu still wunanay , bambaynji . ’ Kari . Ngayu nyungundu balkalda , ‘ Wandida , jinabu dungayda . ’
+40009011	Wanyurrinku		Kanbalda Pharisee-warrangka yinya nyajin , Jesusandamunbu jawun-karranda yalaman , “ Wanyurrinku yurrandamundu teacherangka mayi nukal jananji , bamanji buyunyunji , bamanji yinyarrinyanji tax money mujal-mujal ? ”
+40009014	wanyurrinku		Kanbalda bamangka John the Baptist wukurril-wukurrin . Kanbal Johnumu jawun-karra Jesusanda kadarinda , babajinda , “ Nganjin and jana Pharisee-warrangka , nganjin mayi jururr-jururr bawal , Godunji balkawanka baja . Yamba yurra wanyurrinku mayi kari bawal , Godunji balkawanka baja ? ”
+40009015	~		Jesusangka yalaman , “ Kari . Ngayu yala bridegroom . Bama weddingba kari milka-bujarmal , bridegroom jananjiku . Yamba juma bamangka bridegroom karrbal , ngaykuwundu bamangka mayida bawal . ”
+40010025	~		Kaki bamangka kuli dajil teacheranda , jana yalarrku kuli dajil bamanda binalmalmanya teacherandamun . Kaki bamangka majamu kuli dajil , jana yalarrku kuli dajil nyunguwunbu workingmanamu . Yinya yala ngayu and ngayku bama . Kaki bamangka ngayku kuli dajil , jana yalarrku yurranga kuli dajil , yurra nganya wukurril-wukurrinya . Yalada , kari wawu-buyunmaka . Nganya wukurril-wukurrikaku . Jana ngaykungurr kuli dajin . Kanbalda jana nganya Dubu burri dalkin , burri Beelzebub . Jana yurrangan yalarrku buyun burri kulbal . Burri buyun bajaku . ”
+40011007	wanyurrimbu		Johnumu jawun-karra dungan baja . Jesusangka balkanda bamanda wubulbuku nyungundu murumarin . Nyulu balkan Johnunku . Nyulu yalaman , “ Yurra ngadiku wanyurrimbu bubungu jirrbu-jirrbungu dungarin , John nyajinka ? Kuda binalmanka nyungunku ? Nyulu wawu kima kari , kari yala jikan bulngan-bulngaji muyara .
+40011008	wanyurrimbu		Yurra wanyurrimbu dungarin ? Nguba bama nyajinka kambiji ngulkurrijinji ? Kari . Bama kambiji ngulkurrijinji , jana bayanba yalbaymba ngulkurrbu bundanday . John yala kari .
+40011009	wanyurrimbu		Yurra wanyurrimbu dungarin ? Yurra dungarin , bama prophet nyajinka , balkal-balkanya kuku ngulkurr Godundumun . Yamba John jarra jirray prophet-prophetanka yindu-yinduynku .
+40011016	wanju		“ Yurra bama wubulku , yurra yala wanju ? Yurra yala kaykay-kaykay ngalkalba kinkay-kinkan . Jana kaykay-kaykayanda yindu-yinduymbu yalaman ,
+40012011	wanjarrmalda		Jesusangka yalaman , “ Nguba yunu sheep nyubunku . Nyulu sheep nguba bulkajimunbu daray Saturdaymunbu . Yundu wanjarrmalda ? Yundu sheep karrbal , bulkajimun jarra-kulbal .
+40012026	~		Kaki dubu-dubu jana-karrajiku kangaway , jana ngami-ngamimalkuda . Jana kunbayda , kari ngadingka bunday baja , junkurr karimal .
+40012027	Wanjungku		Yurra jurrilman , balkan majangka dubu-dubundumundu ngayku junkurr dajin , dubu-dubu kanganka . Yamba yurrandamundu jawun-karrangka yalarrku dubu-dubu kangal . Wanjungku jananda junkurr dajin ? Godungkuku . Majangka dubu-dubundumundu kari . Yurra jananin nyajil dubu-dubu kanganya , yurra binalda , jana junkurr Godundumun manin . Yurra nganya nyajil dubu-dubu kanganya , yurra yalarrku binalmanyaku ngayu junkurr manin Godundumun .
+40012029	~		“ Bama nguba dingkarandamunbu junkurrjimunbu bayanba walanka , yamba-yamba ngakinka . Wurrmay-bakangka dingkarangarr karrabu kajal . Yinyamun nyulu yamba-yamba ngakilkuda bayanmun .
+40012034	~		Yurra yala jarba kuliji . Yurra kari kuku ngulkurr balkal , yurra buyun-buyunku bundandanya . Yurranga wawu buyun , yurra kukuku buyun-buyunku balkaway .
+40012048a	wanju		Jesusangka babajin , “ Wanju ngayku ngamu ? 
+40012048b	wanju		Wanju ngayku yabaju-karra ? ”
+40013010	wanyurrinku		Yinyamun nyungu jawun-karra 12-bala Jesusanda kadarin , nyungundu babajin , “ Yundu wanyurrinku jananin binal-bungal storybu ? ”
+40013027	wanjamun		Nyungu dingkaramu workingman kadan , nyungundu yalaman , ‘ Maja , yundu diburr ngulkurr ngami-ngamiku yilban yunuwunbu gardenba . Buljun wanjamun kadan ? ’
+40013054a	Wanyandamun		Nyulu nyunguwunbuku bubunguku dungan baja . Nyulu Jew-warrandamunbu churchmunbu walan , bama binal-bungan . Jana bamangka nyungun nyajin , kungkurr-kadanda , yamba warmbin . Jana-karrajiku yalaman , “ Nyulu binal bajaku . Wanyandamun nyulu manin ? Nyulu junjuy-junjuy miracle junkurr-murubuku balkal . 
+40013054b	wanyandamun		Wanyandamun nyulu junkurr manin ?
+40013056	Wanyandamun		Nyungu jinkurr-karra yalaymba bundanday . Wanyandamun baja nyulu binalman ? ”
+40014031	~		Jesusangka jinbaldaku Peter karrban , nyungundu yalaman , “ Yundu nganya kari warmbinyaku . Nganya believeim-bunganyaku . ”
+40015002	Wanyurrinku		“ Wanyurrinku yunuwundu jawun-karrangka 12-balangka law ngujakura kari wukurril ? Jana kari mara julurriji , mayi nukanka . Jana law ngujakura darrbil-darrbil . ”
+40015003	~		Jesusangka yalaman , “ Yurra yurrangaku kuku wukurril-wukurril . Yamba yurra God kari kuku nyajil .
+40015033	wanjamun		Jawun-karrangka yalaman , “ Yanyu bubu marral bajaku , mayi kari . Nganjin wanjamun mayi bread manil wambanka ? Bama wubul bajaku . ”
+40015034	wanjarr		Jesusangka jananda babajin , “ Yurranga mayi bread wanjarr ? ” Jana yalaman , “ Bread 7-bala , kanbal minya kuyu kaykay-kaykay . ”
+40016008	wanyurrinku		Jesusangka jibabu nyajin jananin yinyaynka balkan-balkawanya . Nyulu jananda yalaman , “ Yurra God warmbin-warmbil . Yurra wanyurrinku balkan-balkaway breadmunku yamba-karika ?
+40016009	wanjarr		Yurra kariku binalman . Yurra nguba milka-wulan mayika breadmunku 5-balaka . Ngayu yinya bread jirray-bungan , bamanka 5000-balanka . Yala-yalaku yurra kurmun wanjarr jakal-bungan mayibu yandaynja ?
+40016010a	~		Yurra milka-wulan mayika breadmunku 7-balaka . Ngayu jirray-bungan bamanka 4000-balanka . 
+40016010b	wanjarr		Yala-yalaku yurra kurmun wanjarr jakal-bungan mayibu yandaynja ?
+40016011	wanyurrinku		Yurra wanyurrinku kari binalmanda ? Ngayu breadka kari balkan-balkaway . Yurra mumbarmaka bamanka Pharisee-warranka , Sadducee-warranka . Jana bama wadu-waduku binal-bungal yirmbalka wubulkuku . Yinya yala yeast breadmunku . ”
+40016013	wanyu		Yinyamun jana Jesus bubungu Caesarea Philippi kadarin . Nyulu jawun-karranda 12-balanda babajin , “ Ngayu bamanga wubulbuku yaba . Bamangka wanyu balkal ngaykunku ? Ngayu wanju ? ”
+40016015a	wanyu		Jesusangka jananda yalaman , “ Yala yurra ? Yurra wanyu balkal , 
+40016015b	wanju		ngayu wanju ? ”
+40016026a	~		Bamangka nyubunyinja nguba junjuy-junjuy wubulku manin , jumbunmanya . Yinyamundu junjuy-junjuynju nyungun kari juran-bungal . Karibi ! Bamangka dukuldu Godku manada , junjuy-junjuy kari . 
+40016026b	wanjarrmal		Bamangka wanjarrmal juranmanka baja ? Yala kari . Godungkuku bama juran-bungal .
+40017010	wanyurrinku		Jana Jesusanda babajin , “ Jana teacher-teacher ngadimunku , jana wanyurrinku balkal Elijahngarr jakalba kadanka , Christ kudamundu ? ”
+40017017a	wanja-wanja		Jesusangka jananda bamanda yalaman , “ Yurra wubulku bundandayda , yurra nganya warmbil-warmbil , kari junkayku bundanday . Ngayu ngadingka bundandan yurranji . Yurra wanja-wanja nganya kuku nyajil ? Karrkay ngaykundu wundi . ”
+40017017b	~		 
+40017019	Wanyurrinku		Yinyamun jana jawun-karra 12-bala janarrku Jesusanda kadarin . Jana babajin , “ Nganjin can't dubu kangan . Wanyurrinku nyulu kari dungan ? ”
+40017025a	wanyu		Peterangka yalaman , “ Yuwu , payim-bungalkuda . ” Nyulu Peter bayanbaku kadan baja , Jesusangka nyungundu yalaman , “ Simon , yundu wanyu milkabu baykal ? 
+40017025b	wanjundumun		Jana maja-maja king , jana wanjundumun tax money bangkal ? Jawun-karrandamun or bamandamun yindu-yindundumun ? ”
+40018001	wanju		Yala-yalaku jana jawun-karra 12-bala Jesusanda kadarin , yalaman , “ Godungku nyungu jawun-karra ngulkurrduku kujil . Bama wanju majamal Godundumunku bamanka kanbalanka ? ”
+40018012	wanjarrmalda		Jesusangka jananda yalaman , “ Ngayu yurranda story balkanka . Yurra story milkabu bayka . Nyubun bama sheepmunji 100-balanji . Yamba nyubun sheep nubijinda . Nyulu bama wanjarrmalda ? Nyulu kanbal bawal wuburrbu , jikanba nukal-nukajinya . Nyulu dungayda , nubinka yinya sheep nyubun nubijinya .
+40018021	wanjarrku		Wawu yinyamun Peter Jesusanda kadan , babajin , “ Kaki bamangka nganya buyun-damal , ngayu wanjarrku jawunmal baja ? Ngayu jawunmal baja 7 times ? ”
+40019007	~		Jana Pharisee-warrangka Jesusanda yalaman , “ Mosesangka yanyu kuku balkan ,
+40019016	wanjarrmanka		Nyubun warru Jesusanda kadan , babajin , “ Maja , ngayu wanjarrmanka , junkayku bundanka , wuljaljiku juranku bundanka heavenba ? ”
+40019017	wanyurrinku		Jesusangka yalaman , “ Yundu wanyurrinku ngaykundu babaji ngulkurrku bundanka ? Nyubunku ngulkurrkuda , Godku . Kaki yundu wuljaljiku juranku bundanka , yundu Godumu kuku wukurrika . ”
+40019018	Wanjarrku		Warrungku babajin , “ Wanjarrku kuku Godumu ? ” Jesusangka yalaman ,
+40019020	wanjarrmal		Nyulu warrungku yalaman , “ Ngayu karrkaymunku yinya kuku wukurrin . Ngayu wanjarrmal baja ? ”
+40019025	wanju		Jana jawun-karrangka yinya kuku nyajin , kungkurr-kadarin . Balu Godungku bama money jirray juran-bunganka . Jana yalaman , “ Kaki yinya kuku manubaja , wanju baja Godungku juran-bungal ? ”
+40019027	wanyu		Peterangka yalamanda , “ Yala nganjin ? Nganjin wubulku bawan , jawun-karra , bayan , yamba-yamba , yunun wukurrinka . Nganjin wanyu manil yinyaynka ? ”
+40020006	wanyurrinku		Wungar kuwaman , nyulu storengu dungan baja . Nyulu bama-bama yindu nyajin , yinyaymba janjanarinya . Nyulu jananda babajin , ‘ Yurra wanyurrinku yalaymba janjanari work-kariku ? ’
+40020012	~		Jana majanda yalaman , ‘ Jana bama wungar kuwakuda kadarin , jana buban workmanijin . Yamba nganjin all day wungara wumbulbuku workmanijin , yamba yundu nganjinanga same pay dajin yala jananda . ’
+40020021	wanyurrinku		Jesusangka yalaman , “ Yundu wanyurrinku ? ” Nyulu yalaman , “ Yundu nganya wawurr-wawurr-bunga . Yundu kingmal , ngayu wawu ngayku warru bulal yununji bundanka majamanka . Yundu wawurr-wawurr-bunga bula yununji bundanka , majamanka . ”
+40020032	wanjarrmal		Jesus janan , bulanin kunjan . Nyulu bulanda babajin , “ Ngayu wanjarrmal yubalanga ? ”
+40021010	wanju		Jana yalaku dungan-dungarin , Jesus townbu Jerusalemmunbu walan . Jana townbuku nyajin nyurra bangkanya , jana babajin , “ Ya , nyulu wanju ? ”
+40021016	~		Jana Jesusanda yalaman , “ Milka-janay . Yundu kuku nyajin jananga kaykay-kaykayamu ? ” Jesusangka yalaman , “ Yuwu , ngayu nyajinkuda . Yurra kariku Godumu kuku kabanba nyajin ? Godumu kuku yalaku :
+40021020	wanjarrku		Jana jawun-karrangka yinya nyajin , kungkurr-kadarin . Jana Jesusanda babajin , “ Yinya birra wanjarrku jinbalku nganjaymayn ? ”
+40021023a	Wanjungku		Jesus jananda Godundumunbu bayanba dungan baja , jananin binal-bungan Godundumunku kukuku . Nyulu binal-bungal-bungan , jana maja-maja Godundumunku bayanka , teacher-teacher ngadimunku , jana nyungundu kadarin , babajin , “ Wanjungku yunundu balkan jananin binal-bunganka , ngulkurr-bunganka ? 
+40021023b	wanyangka		Wanyangka yunun yungan ? ”
+40021025a	wanjungku		Wanjungku John the Baptist yungan , bama banabu dukul-damanka ? Godungku nyungun yungan or bamangka ? Kaki yurra yinya ngaykundu balkal , ngayu yurranda balkal wanjungku nganya yungan . ” Jana jana-karrajiku balkawan , yalaman , 
+40021025b	wanyu		“ Ngana wanyu baja balkal nyungundu ? Kaki ngana balkal , ‘ Godungkuku John yungan , ’ nyulu ngananda babaji , 
+40021025c	wanyurrinku		‘ Yala yurra wanyurrinku nyungundu kari milka-janan ? ’
+40021028	~		Yinyamun Jesusangka jananda yalaman , “ Yurra yanyu story nyaka . Nyubunyimba dingkaramu kangkal-bulal jambul , dingkar-bulal . Nganjan , nyulu yabamalanda dungan , yalaman , ‘ Kangkal , yundu ngaykuwunbu gardenba dungay , jurrbu nyaka , workmanijika . ’
+40021031	Wanjingka		Jesusangka jananda babajin , “ Wanjingka kangkalda nganjan kuku nyajin ? ” Jana yalaman , “ Nyulu yabamalangka . ” Jesusangka yalamanda , “ Ngayu yurranda balkal , jakalbaku kanbalda bamangka buyun-buyun-daman . Kanbalda tax money mujan bamandamun , buban kujin janangaku . Kanbal kalngar-baka . Yamba jana juma Godumu kuku nyajin , yinyamun jana jurrkijin , Godumu jawun-jawunman . Jana God kuku nyajinda , nyungunin wukurrinda . Yamba yurra yala kari . Yurra Godumu baral kari wukurril .
+40021040	wanjarrmal		Jesusangka babajinda , “ Nyulu maja nyunguwunbuku gardenba dungay baja , nyulu wanjarrmal jananka bamanka buyunku ? ”
+40022012	wanjarrku		Majangka dingkaranda yalaman , ‘ Jawun , yundu wanjarrku kananga kadan , kambi ngulkurr kari ? ’ Yamba nyulu dingkarangka nyungun kuku kari manin .
+40022017	wanjarrmal		Yala , wanjarrmal taxmunku ? Yinya yalada ngana money tax payim-bunganka majanda jirrayanda townbu Rome ? Nganandamundu lawmundu kiril or kari ? ”
+40022018	~		Yamba Jesus binal jana nyungun walu ngangkal-ngangkal-bunganka , catchim-bunganka . Nyulu jananda yalaman , “ Yurra bulu-duray , nganya jurril-bunganka . Yurra nganya mambarrinka kuku buyun balkanka .
+40022020a	wanjuyimbu		Nyulu jananda babajin , “ Walu ngurma wanjuyimbu kuljinga ? 
+40022020b	wanju		Burri wanju moneynga ? ”
+40022028	wanyambaku		Kaki jumalu wubulku bama juranmal baja , manyarr wanyambaku ? Jananga yaba-yabajumuku wubulbuku manyarr . ”
+40022036	wanjinyaku		Nyulu Jesusanda babajin , “ Maja , wanjinyaku kuku yalbayku Godungku balkan ? ”
+40022042a	~		“ Yala nyungunku Christanka ? 
+40022042b	wanjundumun		Nyulu bamandamun wanjundumun ? ” Jana yalaman , “ Nyulu Christ Davidandamun . ”
+40022043	~		Jesusangka jananda yalaman , “ Godundumundu Wawubu dayirrda Davidanda balkan Christ maja bambanka . Nyulu Davidangka Godundumunbu kabanba balkan ,
+40022045	wanjarrku		Davidangka Christ maja bamban , nyulu Christ wanjarrku Davidandamun kadan ? ”
+40023017	Wanjaku		Yurra dukul buyun . Yurra yala miyil-burra , binal kari , kiru-kari . Wanjaku jarra ngulkurr , gold or Godumu bayan ? Godumu bayankuda . Yamba yinya gold yalarrku ngulkurr , Godundumunbu bayanba wunananya . Yamba Godumu bayan jarra ngulkurr goldku .
+40023019	Wanjaku		Yurra yala miyil-burra bajaku . Wanjaku jarra ngulkurr ? Present tablebu or table ? Tablekuda . Yinya present tablebu , yinya yalarrku ngulkurrman , tablebu wunananya . Yamba table jarra ngulkurr presentmunku .
+40023033	~		Yurra buyun bajaku , yala jarba . Godungku yurranin bayanga yungalkuda .
+40024003a	wanja-wanja		Wawu yinyamun jana wuburrbu Olivemunbu dungarin . Nyulu Jesus bubungu bundandan , jawun-karra 12-bala nyungundu kadarin , babajin , “ Bayan wanja-wanja dumbarriji ? 
+40024003b	wanjarrmal		Yundu kadanjiku , yanyu bubu wanjarrmal ? Wanjarrmal , bubu and jiri kunbanjiku ? ”
+40024045	~		Jesusangka yalaman baja , “ Yindu story nyakada . Yurra dukul ngalu-ngalumaka , yala yanyu bama yaluy storynga . Nyubunyinja majangka nyubun workingman ngulkurr wangkanin , foreman-bunganka yindu-yinduynku workingmananka . Nyulu bama foremanman , nyulu junkayku bundan , binal bajaku . Nyulu workingmananda yindu-yinduymbu work dajin , mayi dajin , jananin ngulkurrduku kujin .
+40025037	wanja-wanja		“ Yinyamun jana yinyarrinyangka bamangka ngulkurrdu yalamal , ‘ Maja , nganjin wanja-wanja yunun nyajin dakwuynji , yunu mayi dajin ? Nganjin wanja-wanja yunun nyajin banaka wawu-wulanya , yunu bana dajin ?
+40025038	wanja-wanja		Nganjin yunun wanja-wanja ngarrbal nyajin , yununin bayanba walay-manin ? Yunun wanja-wanja nyajin kambi kari , yunundu kambi dajin ?
+40025039	wanja-wanja		Nganjin yununin wanja-wanja jailba nyajin , wanja-wanja bambayku nyajin , yunundu kadarin ? ’
+40025044	wanja-wanja		“ Jana balkalda , ‘ Maja , nganjin yunun wanja-wanja nyajin , mayi kari , bana kari ? Yundu wanja-wanja ngarrbalku kadan ? Yundu wanja-wanja kambi kari ? Yundu wanja-wanja bambay ? Wanja-wanja jailba ? Nganjin wanja-wanja yunun kari ngulkurrduku kujin ? ’
+40026008	Wanyurrinku		Jana Jesusandamundu jawun-karrangka 12-balangka yinya nyajin , jana kuli-kadarin . Jana babajin , “ Wanyurrinku wumbabuku nyangarrin , wasteim-bungan ?
+40026010	wanyurrinku		Jesus , nyulu binal wanyu jana balkal-balkan . Nyulu jananda yalaman , “ Yurra wanyurrinku yaluymu jalbumu kuli dajin-dajil ? Nyulu ngulkurr balkan ngaykunku .
+40026015	wanyu		Nyulu yalaman , “ Kaki ngayu Jesus mambarril yurranda , yurra wanyu ngayku dajil ? ” Yinyamun jana silver money 30-bala countim-bungan , nyungundu dajin .
+40026017	wanjabu		First day kadan , Passover holidaymunku . Yala-yalaku jana bread balan-balan nukan . Jawun-karra nyungu Jesusanda kadarin , babajin , “ Yundu wanjabu nganjinin yunganka , mayi Passover supper yanday-bunganka yununku ? ”
+40026040	Wanyurrinku		Nyulu kadan baja jawun-karrandaku kuluruku , jananin nyajin , wunanarinya warngku . Nyulu Peteranda yalaman , “ Wanyurrinku yurra kari miyil-janan ngaykunji , one hourmunku ?
+40026050	wanyurrimbu		Jesusangka yalaman , “ Jawun , yundu wanyurrimbu kadan ? ” Jana wubulku kadarinda , Jesus karrban , yaykarrdaku kujin .
+40026054	~		Yamba ngayu kari babaji . Ngayu babajinyaku , Godumu kuku kari manubajamanyaku . Nyunguwundu kabanda balkal ngayu must yalaku wulay . ”
+40026062a	~		Maja jirray dakan , Jesusanda yalaman , “ Yundu bulanin nyajin yunun nyuyanya . 
+40026062b	wanyu		Yundu wanyu kuku dajil baja ? ”
+40026065	~		Yinyamun majangka kambi nyungu dumbarrinda , kuku Jesusamu nyajinya . Nyulu yalaman , “ Nyulu Jesusangka yalaman , ‘ Ngayu Godkuda . ’ Ngana bama kanbal kari mana baja , Jesusanka balkanka . Yurra nyungu kuku nyajin , buyun bajaku . ” Bama Jew-warra yalaku ; kaki jana kuku wadu-wadu Godunku nyajil , jana jananga kambi dumbarril .
+40026066	wanjarrmal		Majangka yalaman , “ Ngana wanjarrmal ? ” Jana yalaman , “ Nyulu Jesus malaji , nyulu must wulay . ”
+40026068	wanyangka		Jana nyungun kuya-bungan , yajarril-yajarrin , yalaman , “ Kaki yundu bama Godundumun , yundu must binal wanyangka yunun kunin . ”
+40027004	~		Judasangka maja-majanda yalaman , “ Ngayu buyunman . Jesus ngulkurr , malaji kari . Ngayu buyunman , bama ngulkurr mambarrinya , jana nyungun yarkinkaku kuninka . ” Jana maja-majangka yalaman , “ Nganjinanga kari business . Yunuku . ”
+40027013	~		Pilateangka nyungundu babajin , “ Yundu kuku kari nyajil , jana yalamalmal junjuy-junjuynku ? ”
+40027017	Wanjaku		Yinyamun jana bama murumarin . Nyulu Pilateangka jananda babajin , “ Wanjaku bama yurra wawu ngayu yunganka ? Barabbas or Jesus Christ ? ”
+40027021	Wanjaku		Pilateangka jananda babajin , “ Wanjaku bama ngayu yunganka ? ” Jana yalaman , “ Barabbas yunga . ”
+40027022	wanjarrmal		Pilateangka jananda babajin , “ Ngayu wanjarrmal Jesus Christanda ? ” Jana wubulduku yalaman , “ Nyungun nailda dama , jukungu crossmunbu . ”
+40027023a	~		Yamba Pilateangka babajin , 
+40027023b	wanyu		“ Wanyu nyulu buyun balkan ? ” Yamba jana junkurr-murubuku balkan , “ Nyungun walngkan-dama , jukungu . ”
+40027046	wanyurrinku		3 o'clockmaynda , nyulu Jesus kawal yaykarrku yirrkan . Nyulu nyunguwundu kukubu yalaman , “ Eli , Eli , lema sabachthani ? ” Yinya kuku mean , “ Ngayku God , ngayku God , yundu wanyurrinku nganya bawanyarrkukuda ? ”
+41001024	wanjarrmal		Nyulu dingkar yirrkan , “ Ya , yundu Jesus , yundu townmunku Nazarethmunku . Yundu ngalinyanda wanjarrmal ? Ngalinin buyun-damanka ? Ngayu yununku binal . Yundu Godumu kangkal , yundu junkay bajaku . ”
+41001027	wanyu		Jana bama wubulku kungkurr-kadarin , jana-karrajiku balkawan , yalaman , “ Ya , wanyu yinya ? Yanyu kuku jirakal . Jesus junkurrjikuda . Nyulu dubu-dubundu junkurr-murubuku balkan , dubu-dubungku nyungun kuku nyajinda . ”
+41002007a	wanyurrinku		Jana janaku balkan , “ Nyulu wanyurrinku yanyu kuku balkan ? Nyulu Jesus yala Godmanka ! 
+41002007b	~		Godungkuku bamandamun buyun-buyun kidal , bamangka kari . ”
+41002008	wanyurrinku		Jesus binal jana wanyu dukulbu kujin . Yinyaynka nyulu jananda babajin , “ Yurra wanyurrinku yanyu milkabu kujil ?
+41002009	~		Ngayu nyungundu balkan ngayu nyungu wawu dayirr-bunganka . Yamba yurra yurraku yalaman , ‘ Nguba , nguba kari . Nyulu still wunanay , bambaynji . ’ Kari . Ngayu nyungundu balkalda , ‘ Dakada , jinabu dungayda . ’
+41002016	wanyurrinku		Kanbal bama yinyarrin teacher-teacher ngadimunku , kanbal yinyarrin Pharisee-warra . Teacher-teacherangka ngadimunduku Jesus nyajin nukan-nukajinya bamanji buyunyunji , bamanji tax money mujal-mujan Governmentamu . Jana teacher-teacherangka Jesusandamunbu jawun-karranda babajin , “ Nyulu wanyurrinku nukaji jananji tax collectoranji ? Jana buyun bajaku . ”
+41002018	wanyurrinku		Jana , Johnundumundu jawun-karrangka , Pharisee-warrangka , jana mayi kari nukan-nukan , Godunji balkawanka baja . Kanbal bama Jesusanda kadarin , babajinda , “ Yunuwundu jawun-karrangka wanyurrinku mayi kari bawan , Godunji balkawanka baja ? Jana , Johnundumundu jawun-karrangka , Pharisee-warrangka , jana yinyaynka mayi kari nukal-nukalda . ”
+41002019	~		Jesusangka jananda yalaman , “ Kari . Ngayu yala bridegroom . Bamangka weddingba mayi kari bawal , bridegroom jananji bundandanya yinyay .
+41002024	~		Pharisee-warrangka Jesusanda yalaman , “ Ngadimunku lawmundu nganangan kiril mayi murrnganka Saturdaynga . ”
+41003004	wanjarrmalda		Jesusangka jananda bamanda yalaman , “ Nganawundu lawmundu nganangan kiril Saturdaymunbu workmanijinka . Ngayu wanjarrmalda ? Ngayu yinya dingkar nguba ngulkurr-bungal , nguba buyun-damal . Wanjinyaku ngulkurr , nguba juran-bunganka , nguba kuninka . ” Yamba jana jankamaynda .
+41003023	~		Jesusangka bama kunjan , nyungundu kadanka , nyulu janangan binal-bunganka kukubu . Nyulu yalaman , “ Dubu-dubumu maja nyuluku kari kangaji , nyulu nyungu yindu-yindu dubu-dubu kari kangal .
+41003033a	wanju		Jesusangka yalaman , “ Wanju ngayku ngamu ? 
+41003033b	wanju		Wanju ngayku yabaju-karra ? ”
+41004013	~		Jesusangka jawun-karranda , and bamanda yindu-yinduymbu babajin , “ Yurra binal kukuku storyka yinyaynka ? Kaki yurra binal kari yinyaynka kukuku , yurra yalarrku binal kari yindu-yinduynku kukuku .
+41004030a	wanyu		Jesusangka yalaman , “ Godungku nyungu bama ngulkurrduku kujil , yinya yala wanyu ? 
+41004030b	~		Ngayu yurranda story balkal , milkanga-bunganka .
+41004038	~		Jesus warngku wunanan kurmunbu bada bijikanba . Jawun-karrangka nyungun walngan , babajin , “ Maja , yundu wawu ngana wubulku bujil-janjinka ? ”
+41004040a	Wanyurrinku		Nyulu jananda babajin , “ Yurra wanyurrinku yinyilmarin ? 
+41004040b	Wanyurrinku		Wanyurrinku nganya kari kuku nyajil ? ”
+41004041	wanju		Jana kungkurr-kadarinda , yinyilmarin , balkawaynda , “ Nyulu wanju ? Muyarabu , and jalundu nyungun kuku nyajil . Nyulu muyar , jalun marrka-bungal . ”
+41005007	wanjarrmanka		Jesusangka nyungundu yalaman , “ Yundu dukurrmun wandi dingkarandamun . ” Nyulu dingkar yaykarrku yirrkan , yalaman , “ Yundu Jesus , yundu Godumu kangkal , nyulu God junkurrji bajaku . Yundu wanjarrmanka ngaykundu ? Nganya kari punishim-bunga , kari warrngkay-mana . ”
+41005009	wanju		Jesusangka nyungundu babajin , “ Yundu burri wanju ? ” Nyulu yalaman , “ Ngayku burri Big Mob , nganjin wubul yalurrin . ”
+41005030	Wanjungku		Jesus binalda junkurr nyungundumun dunganda . Nyulu jurrkijin , bamanda wubulbuku babajin , “ Wanjungku ngayku kambi karrban ? ”
+41005031	Wanjungku		Nyunguwundu jawun-karrangka nyungundu yalaman , “ Bama wubulku yuba kadarin . Wanjungku baja yunun karrban ? ”
+41005035	~		Jesus jalbunji balkan-balkawan , bama kanbal kukuji kadarin majandamun bayanmun . Kukujingka majanda yalaman , “ Yunu kangkal wulaynda . Jesus kari wundi baja . ”
+41005039a	Wanyurrinku		Jesus bayanba walan , bamanda babajin , “ Yurra wanyurrinku nyurra-nyurramanmaniji ? 
+41005039b	Wanyurrinku		Wanyurrinku banbadi ? Yinya maral karibi wulan , nyulu warngku wunanay . ”
+41006002a	wanyu		Jesusangka Saturdaynga bama binal-bungan Jew-warrandamunbu churchmunbu . Bama wubulku nyunguwunku kukuku kungkurr-kadarin , balkawan , “ Wanyu yinya ? Nyulu jirakal kuku dajil-dajil . 
+41006002b	wanjundumun		Wanjundumun nyulu manin ? 
+41006002c	Wanjarrku		Wanjarrku nyulu junjuy-junjuy miracles balkal ? Nyulu binal bajaku !
+41006022	wanyurrinku		Herodiasamu kangkal jalbu bayanba walan , jakalba maja-majanda wurin . Jana wawurr-wawurrman nyungunku . Herodangka maralanda babajin , “ Yundu wanyurrinku wawu ? Ngayu yunu junjuy dajinka . Yundu yalunku wawu , ngayu yunu dajilda . Ngayu maja yalbay bubuku yalbaynka . Kaki yundu wawu bubuku , ngayu yunu kankur dajil . Jana yindu-yinduynju nganya nyajin yunun promiseim-bunganya . ”
+41006024	wanyurrinku		Maral ngalkalba dungan , ngamundu babajin , “ Ngayu wanyurrinku babaji ? ” Ngamungku yalaman , “ Yundu babajika Johnundumunku dukulku . ”
+41006037	~		Jesusangka yalaman , “ Yurraku mayi daya jananga . ” Jana nyungundu babajin , “ Yundu wawu nganjin mayi maninka moneybu 200 dollarsmundu , jana nukanka ? ”
+41006038	wanjarrkuda		Nyulu jawun-karranda babajin , “ Yurranga wanjarrkuda bread ? Dungarika , nyakada . ” Jana nyajin , yalaman , “ Bread 5-bala , kuyu jambul . ”
+41007005	~		Jana , Pharisee-warrangka , teacher-teacherangka lawku ngadimunku , jana Jesusanda yalaman , “ Yunu jawun-karra mara kari julurrijin , mayi nukanka . Jana law kari wukurrin . ”
+41008004	wanjamun		Nyunguwundu jawun-karrangka babajin , “ Yanyu bubu marral bajaku , mayi kari . Nganjin wanjamun baja mayi bread manil , wambanka ? Bama wubul bajaku . ”
+41008005	wanjarr		Jesusangka jananda babajin , “ Yurranga mayi bread wanjarr ? ” Jana yalaman , “ 7-bala . ”
+41008012	wanyurrinku		Jesusangka wawu yalbayku yilban , babajin , “ Bamangka wanyurrinku ngaykundu babaji junjuy miracle balkanka Godundumundu junkurrdu ? Ngayu yurranda manubajabuku balkal . Bamangka yalu-warrangka kari nyajil junkurr wangkar-wangkarmun . ”
+41008017	wanyurrinku		Jesus binal jana yinyaynka balkan-balkawan . Yinyaynka nyulu jananda yalaman , “ Yurra wanyurrinku balkan-balkaway , bread yamba-kari ? Yala yurra kariku binalman ? Yala yurra dukul-dandi ?
+41008018a	~		Yurra miyiljida , nyajinyakuda . 
+41008018b	~		Yurra milkajida , nyajinyakuda . ” Nyulu jananda babajin , “ Yurra breadka milka-wulan ?
+41008019	wanjarr		Ngananga mayi bread 5-bala , yamba ngayu jirray-bungan , yurra wambanda bamanga wubulbuku , 5000-balanda . Mayi yanday wanjarr bawajin ? ” Jana nyungundu yalaman , “ Kurmun 12-bala jakal-bungan yandaynja . ”
+41008020	wanjarr		Jesusangka yalaman , “ Juma-juma ngayu mayi bread 7-bala jirray-bungan , yurra wambanda bamanga wubulbuku , 4000-balanda . Mayi yanday wanjarr bawajin ? ” Jana yalaman , “ Kurmun 7-bala . ”
+41008021	~		Jesusangka jananda babajin , “ Yurra still ngaykunku binal kari ? ”
+41008023	~		Jesusangka miyil-burra marabu karrban , wayankuda townmun . Nyulu miyil nyumbabu daman , marabu karrban , miyil-burranda babajin , “ Yundu nyajilku junjuy ? ”
+41008027	wanju		Jana , Jesus , nyungu jawun-karra , jana townbu yindu-yinduymbu bubungu Caesarea Philippi dungan-dungarin . Jilbanga-jilbanga Jesusangka jawun-karranda babajin , “ Bamangka wanjarrmal ngaykunku ? Jana nganya wanju bambal ? ”
+41008029a	~		Jesusangka jananda babajin , “ Yala yurra ? 
+41008029b	wanju		Yurra nganya wanju bambal ? ” Peterangka nyungundu yalaman , “ Yundu bama Godundumun . Godungku yunun bamban Christkuda . ”
+41008036	~		Bamangka nyubunyinja nguba junjuy-junjuy wubulku manil , jumbunmanya . Junjuy-junjuynju yinyangka nyungu wawu kari juran-bungal wawu wulanyamun . Karibi ! Bamangka dukulbu Godku mana , junjuy-junjuy kari .
+41008037	wanyu		Bamangka wanyu dajil , juranmanka baja ? Yamba-karikuda . Godungkuku bama juran-bungal .
+41009010	wanyurrinku		Jana nyungun kuku nyajin , bamanda kari balkan . Janarrku balkawan , wanyurrinku juranmal baja yarkinmun .
+41009011	wanyurrinku		Jana Jesusanda babajin , “ Jana teacher-teacherangka ngadimunku wanyurrinku balkal Elijahngarr kaday ? ”
+41009012	~		Nyulu jananda yalaman , “ Elijahngarr kaday , junjuy-junjuy ngulkurr-bunganka . Yamba ngayu wubulbuku yaba . Ngaykunku Godundumundu kabanda balkan ngayu juma bangkarr kakamal , juma ngaykunku kuli balkaji .
+41009016	wanyurrinku		Jesusangka jawun-karranda babajin , “ Yurra jananji wanyurrinku murru-kangan-kangaway ? ”
+41009019a	wanja-wanja		Jesusangka jananda yalaman , “ Yurra nganya kari kuku nyajil-nyajil . Ngayu wuljayjiku bundandan yurranji . Yurra wanja-wanja nganya kuku nyajil ? Warru wundi ngaykundu . ”
+41009019b	~		
+41009021	wanja-wanja		Jesusangka nganjananda babajin , “ Nyulu wanja-wanja buyunman ? ” Nganjanangka yalaman , “ Karrkaynjaku manin .
+41009028	wanyurrinku		Jesus , jawun-karra janarrku bayanba walan . Nyunguwundu jawun-karrangka nyungundu yalaman , “ Yala nganjin wanyurrinku dubu kari kangan ? ”
+41009033	wanyurrinku		Jana , Jesus , jawun-karra , jana baraldarr dungan-dungarin , jawun-karra murru-kangawan , wanju majamanka . Jana townbu Capernaum kadarin , bayanba walarin , Jesusangka babajinda , “ Yurra wanyurrinku balkan-balkawan baraldarr ? ” Yamba jana nyungun kari answerim-bungan , jankakuda bundandarinda .
+41009050	~		“ Salt ngulkurr . Kaki salt bujarmal , yinya buyunda . Saltdu minya ngulkurr-bungal . Ngulkurrmaka bamanka , jawunmaka bamanji . Yinyamun yundu ngulkurrda yala salt . ”
+41010003	wanyu		Jesusangka babajin , “ Mosesangka ngadiku wanyu balkan ? ”
+41010017	wanjarrmal		Jesus dungan-dungan , dingkar yindu nyungundu warrin . Nyulu dingkar bungkubu janan , yalaman , “ Maja , yundu ngulkurr . Ngayu wanjarrmal , junkayku bundanka , wuljaljiku juranku bundanka jiringa ? ”
+41010018	wanyurrinku		Jesusangka nyungundu yalaman , “ Yundu nganya wanyurrinku bamban ngulkurr ? Nyubunku Godku ngulkurr . Kanbal-kanbal ngulkurr kari .
+41010026	wanju		Jawun-karra kungkurr-kadarin , nyungundu babajin , “ Yala wanju bama Godungku juran-bungalkuda ? ”
+41010036	wanjarrmal		Nyulu bulanda babajin , “ Ngayu wanjarrmal yubalanka ? ”
+41010051	wanjarrmanka		Jesusangka nyungundu babajin , “ Ngayu yununku wanjarrmanka ? ” Nyulu miyil-burrangka nyungundu yalaman , “ Maja , ngayku miyil ngulkurr-bunga . ”
+41011003	wanjarrmalmal		Nguba bamangka yubalanda babaji , ‘ Yubal wanjarrmalmal ? ’ Kaki nyulu babaji , yubal yalamaka , ‘ Majangka donkey kunjan , nyulu wawu . Nyulu kunbay , yungal baja . ’ ”
+41011005	wanyurrinku		Kanbal bama yinyaymba janjanan , jana bulanda babajin , “ Yubal wanyurrinku karra walngal-walngal ? ”
+41011028a	wanjundumundu		Jana nyungundu babajin , “ Yundu wanjundumundu junkurrdu junjuy-junjuy balkal ? 
+41011028b	Wanjungku		Wanjungku yunu junkurr dajin ? ”
+41011030	wanjungku		Yurra balka , wanjungku John yungan , banabu dukul-damanka ? Nguba Godungku , nguba bamangka . Balkada . ”
+41011031a	wanjarrmal		Jana jana-karrajiku murru-kangawan , yalaman , “ Ngana wanjarrmal Jesusanda ? Ngana kari yalamaka , ‘ Godungku yungan . ’ Jesusangka nganandada yalamal , 
+41011031b	wanyurrinku		‘ Yala yurra wanyurrinku John kari kuku nyajin ? ’
+41012009	wanjarrmalda		Nyulu maja wanjarrmalda ? Nyulu jananda kaday , jananin yarkinkaku kunilda . Nyulu bama yindu manil , workmanijinka nyungunku .
+41012015	wanyurrinku		Yamba Jesus binal jana nyungun kukubu ngangkal-ngangkal-bunganka , nyungun kukubu karrbanka . Nyulu jananda yalaman , “ Yurra wanyurrinku nganya kukubu ngangkal-ngangkal-bunganka ? Ngaykundu money wundi , ngayu nyajinka . ”
+41012016a	wanyamba		Jana money wundin nyungundu . Nyulu jananda yalaman , “ Yalunyu wanyamba ngurma , 
+41012016b	~		and burri moneynga ? ” Jana nyungundu yalaman , “ Kingamu . ”
+41012023	wanyambaku		Kaki bama juma wubulku juranmal baja , manyarr wanyambaku ? Jananga yaba-yabajumu wubulbuku manyarr . ”
+41012028	Wanjinyaku		Nyubun teacher ngadimunku kadan , janangan nyajin balkan-balkawanya . Nyulu Jesus nyajin mumbarku balkawanya . Nyulu Jesusanda babajin , “ Wanjinyaku kuku yalbay bajaku Godungkuku balkan ? ”
+41012035	~		Jesusangka Godundumunbu bayanba binal-bungal-bungan , nyulu yalaman , “ Teacher-teacher ngadimunku balkal Christanka . Jana yalamal , ‘ Christ , nyulu Davidandamun . ’
+41012037	wanyurrinku		Davidangka Christ bamban maja . Yala teacher-teacherangka ngadimunku wanyurrinku balkan , ‘ Christ Davidandamun ’ ? ”
+41013004a	wanja-wanja		Jana Jesusanda babajin , “ Yundu nganjinanda balka , bamangka wanja-wanja bayan dumbarril ? 
+41013004b	wanjarrmal		Godungku juma wanjarrmal , nganjin binalmanka , timeda dingkar-dingkarda kadari bayanda dumbarrinka ? ”
+41014004	wanyurrinku		Bama kanbal jalbunku kuli-kadarin , jana-karrajiku balkawan , “ Nyulu wanyurrinku jila mini-mini wumbabuku nyangarrinyarrkuda ? Wanyurrinku wasteim-bungan ?
+41014006	wanyurrinku		Yamba Jesusangka yalaman , “ Nyungun bawa , yurra wanyurrinku nyungu kuli dajil-dajil ? Nyulu ngaykundu ngulkurr balkan .
+41014012	wanjabu		First day holidaymunku Passovermunku kadan . Jana Jew-warra yalaku , jana first daymunbu minya sheep karrkay kuninya , minyaka Passovermunku . Jesusandamundu jawun-karrangka nyungundu yalaman , “ Nganjin wanjabu dungari , minya wayjunku , Passover nukanka ? ”
+41014014	wanjaku		Bayanba wukurrika , maja bayanka babajika , ‘ Nyulu Teacherangka Jesusangka babajin , “ Room wanjaku , ngayu , and ngaykuwundu jawun-karrangka mayi Passover nukanka ? ” ’
+41014060a	~		Maja yalbay jakalba jananda dakan , Jesusanda yalaman , “ Yundu jananin nyajin yunun nyuyanya . 
+41014060b	wanyu		Yundu wanyu kuku dajil baja ? ”
+41014063	~		Majangka yalbaynja kulibu nyunguku kambi dumbarrin , yalaman , “ Ngana wawu karida nyungunku balkanka baja .
+41014064	wanjarrmanka		Nyulu balkan nyulu Godkuda . Yurra nyungun nyajin , buyun bajaku . Yurra nyungundu wanjarrmanka ? ” Jana wubulduku kuku dajin , nyungun yarkinkaku kuninka , nyulu malajikuda .
+41015004	wanyurrinku		Pilateangka nyungundu babajin , “ Yundu wanyurrinku kari kuku dajil baja ? Milka-janay , jana yunun nyuyan-nyuyal . ”
+41015012	wanjarrmal		Pilateangka bamanda wubulbuku babajin , “ Ngayu wanjarrmal dingkaranda kinganda Jew-warranka ? ”
+41015014a	Wanyurrinku		Pilateangka jananda babajin , “ Wanyurrinku nyungun walngkan-damanka , 
+41015014b	wanyu		nyulu wanyu buyun balkan ? ” Yamba jana yirrkajin baja , “ Nyungun jukungu walngkan-dama . ”
+41015034	wanyurrinku		3 o'clockda , Jesus kawal yirrkajin , nyunguwundu kukubu yalaman , “ Eli , Eli , lema sabachthani . ” Yinya kuku mean “ Ngayku God , ngayku God , yundu wanyurrinku nganya bawan ? ”
+41016003	Wanjungku		Jana kankadarin , balkawan , “ Wanjungku ngananka kulji yiringkal jakuwaymun ? ” Kulji yalbay bajaku .
+42001018	wanjarrku		Zechariahngka yalaman , “ Ngayu wanjarrku binalmal if yinya kuku manubajakuda ? Ngayu wulman bajaku , yalarrku ngayku manyarr wulbumankuda . ”
+42001034	Wanjarrku		Maryngka angelanda yalamanda , “ Wanjarrku ngayu kulngkulmal ? Ngayu dingkar kariku dunyu-bungan . ”
+42001043	~		Yundu ngaykuwunbu Majamu ngamukuda . Karibi . Godungku yununin ngaykundu yungan .
+42001066	wanjarrmalkuda		Bamangka wubuliynjaku yinya kuku nyajin , jana janaku babajin , “ Yanya ngawa ngananka balkajinda , nyulu wanjarrmalkuda ? Nyulu yalbaymal , nyulu nguba majamalkuda . ” Jana binal Godundumundu junkurrdu nyungun junkurrji-bungankuda .
+42002048	wanyurrinku		Bula ngamu-nganjanangka nyungun nyajin Godundumunbu bayanba , bula yalarrku kungkurr-kadan . Ngamungku nyungundu yalaman , “ Kangkal , yundu wanyurrinku ngalinin bawan ? Ngalin wawu-buyunman yununku , yunun nubil-nubin . ”
+42002049	wanyurrinku		Jesusangka bulanda babajin , “ Yubal nganya wanyurrinku nubil-nubin ? Yubal binalmanyaku ngayu ngaykuwunbu nganjanandamunbu bayanba must bunday . ”
+42003007	Wanjungku		Bama wubul Johnundu kadarin . Jana wawu nyulu jananin banabu dukul-damanka . Nyulu jananda yalaman , “ Yurra yala jarba kuliji . Wanjungku yurrangan milka-bakan Godundumun kulimun ngakijinka ? Nyulu Godungku juma kuli jirray yungal bubungu .
+42003010	wanjarrmalda		Bamangka Johnundu babajinda , “ Nganjin wanjarrmalda ? ”
+42003012	wanjarrmalkuda		Kanbal bama Johnundu kadan banabu dukul-damajinka . Yinyanguy bama tax money mujal-mujan bamandamun Governmentamu . Jana Johnundu babajin , “ Teacher , nganjin wanjarrmalkuda ? ”
+42003014a	~		Kanbalda soldier-soldierangka Johnundu babajin , “ Yala nganjin ? 
+42003014b	wanjarrmalda		Nganjin wanjarrmalda ? ” Johnungku yalaman , “ Yurra bama kari wumbabuku nyuya , janandamun money maninka . Jananin kari yinyil-bunga , money maninka . Yurranga pay mana , wawurr-wawurrmakada . ”
+42004034	wanjarrmal		“ Yundu Jesus , townmun Nazarethmun . Yundu wanjarrmal nganjinanda ? Yundu nganjinan kuninka ? Ngayu yununku binal . Yundu kukuji kadan Godundumun , dayirr , ngulkurr . ”
+42004036	wanyu		Jana bama wubulku kungkurr-kadarin , jana-karrajiku balkawan , yalaman , “ Ya , wanyu yinya kuku ? Yanyungku dingkarangka dubu-dubundu balkal junkurr-murubuku , jana bamandamun wandarikuda . ”
+42005021a	wanju		Yinyaynka jana Pharisee-warra and teacher-teacher lawmunku , jana jana-karrajiku balkawan , jana babajin , “ Wanju yanyu dingkar ? 
+42005021b	Wanyurrinku		Wanyurrinku nyulu yanyu kuku balkal-balkal ? Nyulu yala Godmanka . Godungkuku bamanga wawu dayirr-bungalkuda , ngana bamangka kari ! ”
+42005022	wanyurrinku		Jesusangka jibabu nyajin wanyu jana dukulbu kujil-kujin . Nyulu jananda babajin , “ Yurra wanyurrinku yanyu milkabu manil-manil ?
+42005023	~		Ngayu nyungundu balkan , ‘ Ngayu yunu wawu dayirr-bungal . ’ Yamba yurra yurra-karrajiku yalaman , ‘ Nguba , nguba kari . Nyulu still wunanay , bambaynji . ’ Yala , ngayu nyungundu balkalda , ‘ Dakada , jinabu dungayda . ’
+42005030	Wanyurrinku		Kanbalda Pharisee-warrangka and teacher-teacherangka Jesusandamunbu jawun-karranda babajin , “ Wanyurrinku yurra nukaji jananji , bamanji buyun-buyunyunji , bamanji yinyaywunji money mujal-mujal governmentamu ? ”
+42005033	Wanyurrinku		Kanbalda bamangka Jesusanda yalaman , “ Jana Pharisee-warrangka , Johnundumundu jawun-karrangka , jana mayi jururr-jururr kari nukal Godunku , nyungundu praymanka baja . Wanyurrinku yunuwundu jawun-karrangka mayi kari bawal Godunku ? ”
+42005034	~		Jesusangka yalaman , “ Kari , ngayu yala bridegroom . Bama weddingba mayi kari bawal , bridegroom jananji bundandanya yinyay .
+42006002	~		Jana Pharisee-warrangka yinya nyajin , yalaman , “ Nyiku Saturday . Nganandamundu lawmundu ngananin kiril workmanijinka Saturdaymundurr . Yurra yinya mayi kari mujanyaku Saturdaymunbu . ”
+42006009	Wanjanguy		Jesusangka jananda balkanda , “ Wanjanguy work ngana doim-bungal Saturdaymunbu ? Nganandamundu lawbu wanjarr kiril ? Ngana bama ngulkurr-bungal or buyun-damal Saturdaymunbu ? Jananin juran-bungal or wulay-manil ? ”
+42006032	~		“ Yunu jawun-karra yununku wawu jirray . Kaki yundu janankaku wawu jirray , God yununku kari wawurr-wawurrmal . Bama buyun yalarrku janawunkuku jawun-karrankaku wawu jirray . Yamba yundu kari yalamaka . Yundu bamanka wubulkuku wawumaka , kari jawun-karrankaku .
+42006033	~		Kanbalda bamangka ngulkurrduku dajil yunundu . Kaki yundu janandaku dajil baja , God kari wawurr-wawurrmal yununku . Bamangka buyunyungku yalaku dajil baja , yamba yurra bamanda wubulimbaku ngulkurrduku daya .
+42006034	~		Kanbalda bamangka yunundu nguba junjuy dajil . Kaki yundu janandaku yinya junjuy dajil baja , God kari wawurr-wawurrmal yununku . Bamangka buyundu yalaku dajil . Yamba yundu bamanda wubuliymbaku daya , kari janandaku yinyanguymbuku yunundu dajin .
+42006039	~		Jesusangka jananda yanyu kuku balkan , “ Kaki miyil-burrangka yindu miyil-burra juru-kulbanka , bula jambulku jankungu daray .
+42006041	wanyurrinku		“ Buyun-buyun yala juku yulal . Yundu bamandamunbu yinduymbu miyilba juku karrkay wanyurrinku nyajil , yamba yundu yunuwunbukulu miyilba juku yalbay kari nyajil ?
+42006042	~		Kaki juku jirray yunuwunbu miyilba , yundu juku karrkay murruji nyajil bamanda yinduymbu miyilba . Kaki yundu yalaku bunday , yundu bulu-duray bajaku . Yundu wawu yindu-yindu helpim-bunganka buyunmun jurrkijinka , yamba yundu yalarrku buyun . Jakalba yundu juku jirray walnga miyilmun yunundumun . Yinyamun yundu ngulkurrduku nyajil , juku karrkay walnganka bamandamun yinduyndumun miyilmun . ”
+42006046	Wanyurrinku		Jesusangka yalaman baja , “ Wanyurrinku yurra nganya maja bambal , yamba yurra ngayku kuku kari wukurril ?
+42007024	wanyurrimbu		Johnumu jawun-karra dungan baja . Jesusangka Johnunku balkanda bamanda wubulbuku nyungundu murumarin . Nyulu yalaman , “ Yurra ngadiku wanyurrimbu bubungu jirrbu-jirrbungu dungarin , John nyajinka ? Kuda binalmanka nyungunku ? Nyulu wawu-kima kari , yala kari jikan bulngan-bulngaji muyara .
+42007025	wanyurrimbu		Yurra wanyurrimbu dungan ? Nguba bama nyajinka kambiji flash-balaji . Kari . Bama kambiji flash-balaji , jana bayanba yalbaymba ngulkurrbu bundanday . John yala kari .
+42007026	wanyurrimbu		Yurra wanyurrimbu dungarin ? Bama prophet nyajinka , balkal-balkanya kuku ngulkurr Godundumun . Yamba John jarra jirray prophet-prophetanka yindu-yinduynku .
+42007031a	wanju		Jesusangka yalaman baja , “ Yurra bama wubulku , yurra yala wanju ?
+42007031b	~		
+42007042	wanjaku		Yinya dingkar juma bulanda dungan , babajin , ‘ Yubal ngayku money daya baja ? ’ Yamba bula murruji payim-bungan baja . Money yamba-karikuda . Nyulu dingkar jiba-badiman bulanka , yalamanda , ‘ Yalada , yubal kari payim-bunga baja . ’ Nyulu bulanga kaban dumbarrin moneyka payim-bunganka . ” Jesusangka Simonanda babajinda , “ Simon , wanjaku yinyarrin wawu jirray nyungunku ? Nyulu 500 dollars manin nyungundumun or nyulu 50 dollars manin nyungundumun ? ”
+42007049	~		Jana yindu-yindu tablebu bundandarin , jana janaku balkan , “ Nganga Godungkuku bamanga buyun-buyun kidal , yanyungku dingkarangka kari . ”
+42008025a	Wanyurrinku		Yinyamun nyulu jananda yalaman , “ Wanyurrinku yurra nganya kari trustim-bungan ? ” Yamba jana kungkurr-kadarin , yinyilmarin . Jana yalaman , 
+42008025b	wanju		“ Yanyu dingkar wanju ? Muyarabu , banabu nyungunin kuku nyajil . Nyulu muyar , bana marrka-bungan . ”
+42008028	wanjarrmanka		Dubungku dingkar yarbarrka karrban baja , karrban baja . Yinyaynka nyunguwundu jawun-karrangka nyungun ngarri and dakil chainda kajan baja , kajan baja . Yamba nyulu chain dumbarrin baja , dumbarrin baja . Yinyamun dubungku nyungun kangan baja , kangan baja bubungu jirrbu-jirrbungu . Jesusangka yinya dingkar dubunji nyajin , nyulu dubu kanganka . Yinyaynka dingkar yaykarrku kawal yirrkan , nyulu bungkubu janan jakalba Jesusanda , yalamanda , “ Yundu Jesus , yundu Godumu junkurrjimu kangkal . Yundu wanjarrmanka ngaykundu ? Kari nganya wurrkay-mana , kari warrngkay-mana . ”
+42008030	wanju		Jesusangka nyungundu babajin , “ Yundu burri wanju ? ” Nyulu yalaman , “ Ngayu burri Big Mob . ” Nyulu burri Big Mob , dubu-dubu wubul nyungundu walanya .
+42008045	Wanjungku		Jesus jananda babajin , “ Wanjungku nganya karrban ? ” Jana wubulduku yalaman , “ Nganjin kari . ” Peterangka yalaman Jesusanda , “ Maja , bama wubulku murumarin yunundurr . Wanyangka baja yunun karrban ? ”
+42009009a	wanju		Herodangka yalaman , “ Ngaykuwundu soldier-soldierangka Johnumu dukul yakankuda , yamba wanju yanyu dingkar ? 
+42009009b	~		Ngayu junjuy-junjuy wubulku milkabu nyajil nyungunku . ” Nyulu Jesus nyajinka , nyungunji balkawanka .
+42009018	wanju		Yala , Jesus juma nyulurrku bundandan , Godunji balkal-balkawan . Nyungu jawun-karra nyungundu kadarin , nyulu jananda babajin , “ Bama ngaykunku balkan-balkaway , jana wanyu balkal ngaykunku ? Ngayu wanju ? ”
+42009020a	wanyu		Jesusangka jananda babajin , “ Yala yurra ? Yurra wanyu balkal , 
+42009020b	wanju		ngayu wanju ? ” Peterangka yalaman , “ Yundu bama Godundumun . Yundu Godumu Christkuda . Godungku yunun bamban . ”
+42009025	wanjarrmal		Bamangka nyubunyinja nguba junjuy-junjuy wubul manil , jumbunmanya . Yinyamundu junjuy-junjuynju nyungun kari juran-bungal . Karibi ! Bamangka wanjarrmal juranmanka baja ? Yala kari . Bamangka dukuldu Godku manada , junjuy-junjuy kari . Godungkuku bama juran-bungal .
+42009041a	wanja-wanja		Jesusangka jananda bamanda yalaman , “ Yurra wubulduku nganya warmbin-warmbil , kari junkayku bundandari . Ngayu ngadingka bundandan yurranji . Yurra wanja-wanja nganya kuku nyajil ? ” Nyulu dingkaranda yalaman , “ Karrkay ngaykundu wundi . ”
+42009041b	~		
+42010025	wanjarrmal		Nyubun teacher lawmunku Jesusanda kadan . Nyulu Jesus jurril-bunganka , nyungun catchim-bunganka . Nyulu babajin Jesusanda , “ Maja , ngayu wanjarrmal wuljaljiku juranku bundanka ? ”
+42010026a	wanyu		Jesusangka babajin , “ Godundumundu kabanda wanyu balkal , 
+42010026b	~		wuljaljiku juranku bundanka ? ”
+42010029	~		Yinya teacher wawu Jesusanda milkanga kadanka nyulu ngulkurr . Yinyaynka nyulu Jesusanda babajin , “ Yala ngayu bamanka wubulkuku wawu-jirraymaka ? Kanbal bama ngayku jawun-karra kari . Yala ngayu jananka yalarrku wawumaka ? ”
+42010036a	~		Jesusangka teacheranda yalamanda , “ Bama kulur baraldarr dungan . 
+42010036b	wanjaku		Wanjaku bama yala jawun dingkaramu bambayamu ? ”
+42011008	~		Yinyanguynku nyulu yunundu mayi kari dajil . Yundu nyungu jawun , yamba nyulu kari wandil . Yamba yundu nguba walngkurril baja , walngkurril baja mayika . Yinyaynka nyulu juma wandil , mayi manil , yunundu dajil , yundu kari murru-kadanya babajinka baja .
+42011011	~		Kaki yunuwundu kangkalangka yunundu babaji minyaka kuyuku , yundu nyungu minya kuyukuda dajil , jarba kuliji kari dajil .
+42011012	~		Kaki nyulu yunundu babaji minyaka diburrku , yundu nyungu minya diburrkuda dajil , munu-dumbun kari dajil .
+42011013	~		Bama buyun bajaku , yamba jana mayi ngulkurr dajinka kangkal-kangkalanda . Bamangka janawunbu kangkal-kangkalanda mayi ngulkurr dajinka . Nyulu Nganjan jiringa jarra ngulkurr bajaku bamanka . Nyulu wawu jirray bamanda dajinka . Kaki bamangka nyungundu babaji nyunguwunku Wawuku , nyulu dajilkuda . ”
+42011018	~		Kaki dubu-dubu jana-karrajiku kangaway , jana ngami-ngamimalkuda . Jana kunbayda , juma yamba-karimalkuda . Yurra balkal majangka dubundumundu ngayku junkurr dajil , dubu-dubu kanganka .
+42011019	wanjungku		Yala , wanjungku yurrandamunbu jawun-karranda junkurr dajil , dubu-dubu kanganka ? Majangka dubu-dubundumundu kari . Yamba yurrawundu jawun-karrangka dubu-dubu yalarrku kangal . Jana milbilda yurra wadu-waduku .
+42012014	~		Yamba Jesusangka nyungundu yalaman , “ Yinya ngayku kari . Majangka yinduynjuku yinya kuku balka nyungundu . Ngayu yamba-yamba kari wamba bamanga . ”
+42012017	wanjarrmalda		Nyulu yalaku milkabu baykan , ‘ Ngayu mayi jirray manin ngaykuwunmun bubumun . Ngayku bayan karrkay bajaku mayika jirraynka . Ngayu wanjarrmalda ? ’
+42012020	wanjungku		Yamba Godungku yalaman nyungundu , ‘ Yundu kiru-kari bajaku . Nyiku wujurrbu yundu wulaykuda . Wawu wulanyamun , wanjungku yunu money , yunu mayi and yunu yamba-yamba manil ? Yundu junjuy-junjuy yununji kari wundil . ’ ”
+42012024	~		Dikalanda wajanda miyil-janay . Jana kari diburr nandal gardenba , mayi maninka . Yamba Godungku jananda mayi dajil . God yurranka wawu jirray jarra dikalanka .
+42012025	~		Kaki bama wawu-buyunmal mayika yala kambika , nyulu kari bajaku ngadingka juranku bunday , wawu-buyunmanya .
+42012026	~		Kaki Godungkuku ngananin ngulkurrduku kujil juranku bundanka , ngana junjuy-junjuy wubulku nyungundu bawa , junjuy-junjuy yalbay , junjuy-junjuy buban . Kari wawu-buyunmaka .
+42012042	~		Majangka Jesusangka yalaman , “ Yindu story nyakada . Yurra dukul ngalu-ngalumaka , yala yanyu bama yaluy storynga . Majangka nyubun workingman ngulkurr bamban foreman-bunganka yindu-yinduynku workingmananka . Nyulu bama foremanman , nyulu junkayku bundan , binal bajaku . Nyulu workingmananda yindu-yinduymbu work dajin , mayi dajin , jananin ngulkurrduku kujin .
+42012049	~		Jesusangka jananda yalaman baja , “ Ngayu yalaymba kadan wangkar-wangkarmun . Ngayu kadan yurranin ngulkurr-bunganka buyun-buyunmun . Yala bayabu rubbish wayjul-wayjul , ngayu yurranga buyun-buyun wayjul . Ngayu yinya baya wayjunku , yamba jakalba ngayu must warrngkay . Wawu nyikumun ngayu milka-bujarku dungan-dungay , warrngkanya .
+42012056	~		Yurra bulu-durayku bundanday . Yurra binal ngurrbanka jiringa , and muyaraka , yamba yurra binal kari Godundumunku kukuku . Yurra binal kari wanyu nyulu yurranda nyiku balkanka . ”
+42012057	~		Jesusangka yalaman baja , “ Yurra kari junkaynjaku milkabu wukurril , wadu-wadubuku . Yurra junkaynjaku milkabu wukurrika .
+42013004	~		Jesusangka yalaman baja , “ Milkabu wukurrika jananin bama bayanba townbu Siloam . Bayan daran , bama 18-bala nyarrinkuda . Yurra milkabu bayka , yala jana yarkinkaku kunijin janawunku buyun-buyunku ? Yala jana jarra buyun bamanka yindu-yinduynku Jerusalem-warranka ?
+42013007	~		Nyulu nyunguwunbu workingmananda yalaman , ‘ Ngayu 3 years kujil-kujin mayi maninka yinyamun jukumun , yamba mayi yamba-kari . Yundu juku nyanda , room dajinka jukungu yinduymbu . ’
+42013015	~		Majangka Jesusangka yalaman , “ Yurra bulu-duray bajaku . Kaki yurra yarraman or bulki karrabu kajal Saturdaynga , yurra nyungun walngal , wundinka bananga .
+42013018a	wanyu		Jesusangka jananin binal-bungan baja . Nyulu babajin , “ Godungku nyungu jawun-karra ngulkurrduku kujil , yinya yala wanyu ?
+42013018b	~		
+42013020	wanyu		Jesus babajin baja , “ Godungku nyungu jawun-karra ngulkurrduku kujil , yinya yala wanyu ?
+42013025	~		Nyulu majangka bayanka yinya door nandal . Yurra ngalkalba janay , door dudal , yalamal , ‘ Maja , door walnga nganjinanka . ’ Nyulu kanamundu bayanmundu yalamal yurranda , ‘ Kari . Ngayu yurranka binal kari . ’
+42014005	wanjarrmal		Yinyamun nyulu jananda yalamanda , “ Kaki yurranga kangkal or bulki bulkajimunbu yalbaymba daray Saturdaynga , yurra wanjarrmal ? Yurra jinbalku nyungun wangkar kulbal , walngal baja . ”
+42014028	~		Jesusangka yanyu story balkan . Nyulu yalaman , “ Kaki bamangka bayan yalbay ngaranka , nyulu milkabu wukurrika moneyka . Nyulu money countim-bungal , nyajinka enoughkuda bayan kunbay-maninka .
+42014031	~		Jesusangka yindu story balkan baja , “ Nyubun king soldier-soldier buban , 10000-bala . Juma nyulu kuku nyajin , king yindu kankadan nyungunji kuniwanka . Yindu king soldier-soldier jirray , 20000-bala . Yinya king soldier-soldier buban , nyulu kari jinbalku nyunguwunbu soldier-soldieranda balkan dunganka , jananji kuniwanka . Kari , nyulu jakalba yalaku milkabu wukurrin , ‘ Ngayku soldier-soldier buban , nyungu soldier-soldier jirray . Jana ngananin yarkinkaku kuninji . ’
+42014034	~		Jesusangka yalaman baja , “ Bamangka mayi and minya ngulkurr-bungal saltmundu . Kaki salt buyunmal , yundu kari ngulkurr-bungal baja .
+42015004	wanjarrmalda		Nyulu yalaman , “ Nguba bama nyubun sheepmunji wubuljiku , 100-balanji . Yamba nyubun sheep nubijin . Nyulu bama wanjarrmalda ? Nyulu kanbal bawal , jikanba nukal-nukajinya . Nyulu dungayda , nubinka yinya sheep nyubun nubijinya , juma warrmba-bungal .
+42015008	wanjarrmalda		Jesusangka yindu story balkan baja . “ Jalbu nyubun nguba moneyji silverji 10-balaji , yamba nyubun nubijin . Nyulu jalbu wanjarrmalda ? Nyulu light wayjul , bubu kidal , yiringkurrku nubil-nubil , juma nyulu warrmba-bungal .
+42015026	wanjarrmalmal		Yinyaynka nyulu nyubun workingman kunjan , nyungundu babajin , ‘ Jana bama wanjarrmalmal ? ’
+42015029	wanyu		Yabangka nganjananda yalaman , ‘ Yundu nyaka . Ngayu ngadi bajaku yunundu workmanijin , yala slave . Ngayu yunu kuku mumbarabuku wukurrin . Yundu ngaykundu wanyu dajin workmunku ? Yamba-karibi ! Yundu minya kari dajin , ngayu jawun-karranji nukanka . Minya karrkay yala nanny goat yundu kari dajin .
+42016002	wanjarrman		Money-jirrayangka foreman kunjan , nyungundu yalaman , ‘ Ngayu kuku nyajin yundu ngayku money wasteim-bungan . Yundu kaban yunuwunku workmunku ngaykundu wundi . Ngayu nyajinka yundu wanjarrman ngaykuwunku moneyka , ngaykuwunku yamba-yambaka . Yinyamun yunu work kunbayda . Yundu kari ngaykunku workmaniji baja . ’
+42016003	wanjarrmal		Yinyangka foremanangka nyuluku yalamanda , ‘ Ngayu wanjarrmal ? Ngaykuwundu majangka nganya kangal . Ngayu junkurrji kari , bubu bakanka . Ngayu murru-kaday mayika babajinka .
+42016005	wanjarr		“ Yinyaynka nyulu bama wubulku kunjan , richmanamu money oweim-bungan . Nyulu jananji nyubun-nyubunyinjiku balkawan . Nyulu nyubunyimba yalaman , ‘ Yundu wanjarr money oweim-bungal rich-balanda ? ’
+42016007	wanjarr		Yinyamun nyulu foremanangka bamanda yinduymbu babajin , ‘ Yundu rich-balanda wanjarr money oweim-bungal ? ’ Nyulu yalaman , ‘ Ngayu nyungundu mayi wheat jirray oweim-bungal , kurmun 100-bala . ’ Foremanangka nyungundu yalaman , ‘ Yanyu yunu kaban , yundu jarra buban kabanba balka , kurmun 80-bala . ’
+42016011	wanjarr		Kaki yurra bamanga yinduymbu money , and yamba-yamba kari ngulkurrduku kujil , Godungku wanjarr yunun trustim-bungal ? Yamba-karikuda .
+42016012	~		Yamba-yamba and money yurrawunbu bayanba wunay , yurranga kari . Kari . Godungku yurranda dajin , yurra mumbarabuku ngulkurrduku useim-bunganka . Kaki yurra yinya yamba-yamba and money kari ngulkurrduku useim-bungal bubungu , Godungku yurranda junjuy kari yungal nyunguwunmun bubumun .
+42017007	~		Jesusangka jawun-karra binal-bunganka storybu . Nyulu yalaman , “ Yundu nguba yunu workingman gardenba yungal bubu bakanka , or nguba yundu nyungun manjalba yungal sheep miyil-kujinka . Nguba yilay-yilaymal , yinya workingman gardenmun kaday , bayanba walal , workmanijinka bayanba . Yundu nyungundu kari balkalda , ‘ Bunday , ngayu yunu mayi manil , yundu nuka . ’
+42017017	Wanjabu		Jesusangka yalaman , “ Yala kanbal ? Ngayu 10-bala ngulkurr-bungan . Wanjabu jana yindu 9-bala ?
+42017018	Wanyurrinku		Wanyurrinku nyubunku kadan , God buyay-maninka ? Nyulu nganandamun kari , nyulu bubumun Samariamun . Jana kanbal kari kadarin baja , God buyay-maninka . ”
+42017020	wanja-wanja		Kanbalda Pharisee-warrangka Jesusanda babajin , “ Godungku wanja-wanja nyungu bama ngulkurrduku kujil ? ” Jesusangka yalaman , “ Yala kari . Yurra kari God nyajil nyungu bama ngulkurrduku kujinya . Yurra nyungun kari nyajil jananin junkurr-murubuku kujinya .
+42017037	Wanjabu		Jana jawun-karrangka Jesusanda babajin , “ Wanjabu nyulu jananin bawal , Maja ? ” Jesusangka yalaman , “ Yarkin-yarkin bubungu wunay , jana dikal waja yinyaymba kadarikuda , murumarikuda . ”
+42018018	wanjarrmal		Nyubunyinja majangka Jew-warrandamundu Jesusanda yalaman , “ Yundu teacher ngulkurr . Ngayu wanjarrmal , junkayku dunganka , wuljaljiku juranku bundanka heavenba ? ”
+42018019	wanyurrinku		Jesusangka yalaman , “ Yundu nganya wanyurrinku ngulkurr bamban ? Nyubunku Godku ngulkurr bajaku .
+42018026	wanju		Jana bamangka yinya kuku nyajin , jana babajin , “ Kaki yinya kuku manubaja , wanju bama Godungku juran-bungal ? ”
+42018036	Wanyu		Nyulu bama wubul milkabu nyajin dungan-dungarinya , nyulu babajin , “ Wanyu yanyu ? ”
+42018041	wanjarrmal		“ Ngayu wanjarrmal yunundu ? ” Miyil-burrangka yalaman , “ Maja , ngayu miyilda nyajinka baja . ”
+42019007	Wanyurrinku		Jana bamangka bulanin nyajin dunganya , jana kuli-kadarin Jesusanka . Jana yalaman , “ Wanyurrinku nyulu Jesus yinyarrinyanji bamanji buyunji bundanka ? ”
+42019023	~		Yinyaynka yundu yinya money bankmunbu yijarrinyaku . Yinya money bankmunbu wunananyaku , juma-juma money interest jirraymanyaku . ’
+42019031	Wanyurrinku		Bama nguba yubalanda babaji , ‘ Wanyurrinku yubal yinya donkey walngal-walngal ? ’ Kaki jana babaji , yubal balka , ‘ Ngalinya Maja nyungundu dakanka . ’ ”
+42019033	wanyurrinku		Bula donkey walngal-walngan , majangka donkeyndamundu bulanda babajin , “ Yubal wanyurrinku nyungun walngal-walngal ? ”
+42020002a	Wanjungku		Jana nyungundu babajin , “ Wanjungku yunundu balkan jananin binal-bunganka , ngulkurr-bunganka ? 
+42020002b	Wanyangka		Wanyangka yunun yungan ? ”
+42020005a	wanyu		Jana jana-karrajiku balkawan , yalaman , “ Ngana wanyu baja balkal nyungundu ? Kaki ngana balkal , ‘ Godungku John yungan , ’ nyulu Jesusangka ngananda babaji , 
+42020005b	wanyurrinku		‘ Yala yurra wanyurrinku nyungundu kari milka-janan ? ’
+42020013	wanjarrmalda		Yinyamun nyulu majangka yalaman , ‘ Ngayu wanjarrmalda ? Ngayu ngayku kangkal yungal . Jana workingmanangka nyungun kari kangal , nyulu ngayku kangkalkuda . ’
+42020015	~		Jana majamu kangkal karrbanda , yarkinkaku kunin , ngalkalba yilban . ”
+42020017	~		Jesusangka jananin nyajin , yalaman , “ Yuwu , yalakudabi ! Godungku ngadiku nyunguwunbuku kabanba balkan ,
+42020023	~		Yamba Jesus binal jana nyungun jurril-bunganka , catchim-bunganka . Nyulu jananda yalamanda ,
+42020024a	wanjuymbu		“ Money ngaykundu milbi tax payim-bunganka . ” Jana money dajin nyungundu . Yinyamun nyulu jananda babajin , “ Walu ngurma wanjuymbu moneynga ? 
+42020024b	wanju		Burri wanju ? ” Jana yalaman , “ Maja townbu Rome . ”
+42020033	wanyambaku		Kaki jumalu wubulku bama juranmal baja , manyarr wanyambaku ? Jananga yaba-yabajumuku wubuliymbaku yinya manyarr . ”
+42020041	Wanyurrinku		Wawu yinyamun Jesusangka jananda babajin , “ Wanyurrinku bamangka balkal nyulu Christ Davidandamun ? Wanyurrinku jana balkal nyulu maja king yala David ?
+42020044	wanjarrku		Davidangka Christ Maja bamban . Nyulu Christ wanjarrku Davidandamun kadan ? ”
+42021007a	wanja-wanja		Jawun-karrangka 12-balangka nyungundu babajin , “ Bayan wanja-wanja dumbarriji ? 
+42021007b	wanjarrmal		Yundu kadanjiku , yanyu bubu wanjarrmal ? Wanjarrmal , before bubu , jiri kunbanjiku ? ”
+42022009	Wanjabu		Bula nyungundu babajin , “ Wanjabu ngalin ready-bungal ? ”
+42022011	wanjabu		Yubal dingkaranda majanda bayanka balka , ‘ Majangka Jesusangka babajin , “ Room wanjabu ngayu , ngaykuwundu jawun-karrangka mayi Passover nukanka ? ” ’
+42022027	Wanju		Wanju jarra yalbay , bama tablebu bundanday or bamangka nyungu mayi wundil ? Yuwu , bama tablebu bunday , nyulu maja , yindu workingman . Ngayu kari kadan majamanka . Ngayu kadan workingmanmanka , bama helpim-bunganka . ”
+42022046	wanyurrinku		Jesusangka jananda yalaman , “ Yurra wanyurrinku warngku wunanay ? Wandi , praymaka , yurra kari milka-jananka Dubundu . ”
+42022064	Wanjungku		Jana nyungun miyil nandan , babajin , “ Wanjungku yunun kunin , nganjinanda balka . ”
+42022071	~		Jana jana-karrajiku balkawan , “ Bama yindu kari wundi baja , nyungun nyuyanka . Ngana nyungun nyajin yalamanya , ‘ Ngayu Godkuda . ’ ”
+42023022a	~		Pilateangka jananda babajin baja , 
+42023022b	wanyu		“ Nyulu wanyu buyun balkan ? Ngayu nyungun kari nyajin malaji . Ngayu jananda balkal nyungun wuybubu kulbanka , yunganka . ”
+42023031	~		Bamangka nganya jukungu walngkan-damal , yarkinkaku kunil . Godungku nganya kari nyuyal buyun-buyunku . Yamba Godungku jananin junkurr-murubuku nyuyal buyun-buyunku , jana nganya yarkinkaku kuninya . Kaki jana nganya yalaku buyun-damal , jana yurranin jarra jirray bajaku buyun-damal . ”
+42024005	Wanyurrinku		Jalbu-jalbu yinyilmarin , dukul badamarin bubungu . Bula dingkarangka yalaman , “ Wanyurrinku yurra juljalba nubil-nubil bama juranku ?
+42024017	wanyurrinku		Jesusangka bulanda babajin , “ Yubal dungan-dungay , wanyurrinku balkan-balkaway ? ”
+42024019	wanyu		Jesusangka babajin , “ Kuku wanyu ? ” Bula yalaman , “ Kuku Jesusanka townmun Nazarethmun . Nyulu prophet . Godungku nyungun junkurrji-bungan , junjuy-junjuy ngulkurr balkanka . Bamangka nyajin nyulu junkurr-murubuku junjuy-junjuy miracle ngulkurr balkanya .
+42024025	~		Yinyamun Jesusangka bulanda yalaman , “ Yubal ngambabuku Godumu kaban nyajil prophet-prophetangka balkan . Yubal jananga kuku kari mumbarabuku believeim-bungal .
+42024038a	wanyurrinku		Nyulu jananda yalaman , “ Yurra wanyurrinku yinyilmalmal ? 
+42024038b	wanyurrinku		Yurra wanyurrinku nganya warmbil ?
+43001019	wanju		Yala , John townbu Bethany naka-naka wawubajanga Jordan . Nyulu bama banabu dukul-damal-daman . Kanbal maja-maja townbu Jerusalem bundandarin , Pharisee-warra . Jana maja-maja yindu Johnundu yungan , maja-maja Jew-warrandamunku churchmunku , Levi-karra . Jananin yungan Johnundu babajinka , “ Yundu wanju ? Yundukuda bama Godundumun , Christ ? ”
+43001021	wanju		Jana babajin baja , “ Wanju yundu ? Yundu Elijah ? ” Johnungku yalaman , “ Kari , ngayu Elijah kari . ” Jana babajin , “ Yundu yinya dingkar prophet ngadimunku ? ” Nyulu yalaman , “ Kari . ” Jana bama balu yinya dingkar prophet ngadimunku bubungu kadanka baja .
+43001022a	wanju		Jana yalaman , “ Wanju yundu ? Balka . Jana maja-majangka nganjinin yungan , yununin wawu-yimbanka . Yununkuku balka . 
+43001022b	~		Nganjin must jananda balka yununku . ”
+43001025	wanyurrinku		Yala yundu wanyurrinku banabu dukul-daman-damal , baptiseim-bungan-bungal ? ”
+43001038a	wanyunku		Jesus jurrkijin , bulanin nyajin wukurrinya , bulanda babajin , “ Yubal wanyunku nubin-nubiji ? ” Bula yalaman , “ Kari . 
+43001038b	wanjabu		Teacher , yundu wanjabu bundanday ? ”
+43001046	~		Nathanaelangka yalaman , “ Kari . Bama ngulkurr townmun Nazarethmun kari bajaku kaday . Nyulu Nazarethmunku , nyulu ngulkurr kari . ” Philipangka yalaman , “ Kaday , nyaka . ”
+43001048	~		Nathanael kungkurr-kadan , yalaman , “ Ya , yundu ngaykunku binal kari . ” Jesusangka yalaman , “ Yubal Philip balkawanjiku , ngayu yununin nyajin bada-bada jukungu mujarrba . ”
+43002004	~		Jesusangka ngamundu yalaman , “ Kari . Yundu ngaykundu kariku balkanyaku . Kuku Godundumun ngaykundu kariku kadan , workmanijinka , bama helpim-bunganka . Kariku , juma . ”
+43002018a	~		Jana maja-karra Jesusanda kadarin , babajin , 
+43002018b	Wanjungku		“ Wanjungku yunundu balkan jananin kanganka ? Yundu junjuy miracle balkada Godundumundu junkurrdu , nganjinanda milbinka . Nganjin binalmanka yundu Godundumun or kari . ”
+43003004	wanjarrku		Nicodemusangka Jesusanda babajin , “ Ya ! Bama wanjarrku jirakalku balkaji ? Jaba-jaba can't ngamundu waralba walal baja , balkajinka baja . ”
+43003009	wanjarrku		Nicodemus binal kariku jirakalku balkajinka . Nyulu yalaman , “ Ngayu binal kariku . Bama wanjarrku jirakalku balkajinka baja ? ”
+43003012	~		Ngayu yunundu balkan junjuynku yaluynku bubuku , yamba yundu yinya kuku kari milkabu manin . Yinyaynka yundu yalarrku ngayku kuku wangkar-wangkariynka kari milkabu manil .
+43004009	~		Jalbungku yalaman , “ Yundu bama Jew , ngayu Samariamunku . Yundu ngaykundu banaka kari babajinyaku . ” Bama Jew-warra yalaku , pannikan nyubunku kari useim-bunganya bamanji Samariamunku .
+43004011	wanjamun		Jalbungku yalaman , “ Yundu bucket kari . Well bada-bada bajaku . Yundu bana wanjamun manil , juran-bunganka ?
+43004027a	wanyu		Jesusamu jawun-karra kadarinda . Jana kungkurr-kadarin , nyulu jalbunji balkawanya . Jana jana-karrajiku balkawan , “ Ya , wanyu yinya ? Nyulu balkan-balkaway jalbunji bubuku Samariamunku . ” Yamba jana kari Jesusanda babajin , 
+43004027b	Wanyurrinku		“ Wanyurrinku ? ”
+43005012	wanjungku		Jana nyungundu babajin , “ Bamangka wanjungku yunundu balkan bilangkurr maninka , dunganka ? ”
+43005044	~		Yurra wawu bamangka yurranin buyay-maninka . Yalarrku yurra wawu Godungku yurranin buyay-maninka . Yamba yurra Godundu kari milka-jananka . Yurra bulu-duray . Yinyaynka Godungku yurranin kari buyay-manil .
+43005047	~		Yurra Mosesamu kaban kari believeim-bungan . Yinyaynka yurra yalarrku nganya kari believeim-bungan . ”
+43006005	wanjamun		Jesusangka walu-wukurrin , nyajin bama wubul bajaku nyungundu kankadanya . Nyulu Philipanda babajin , “ Ngana wanjamun mayi manil bamanga dajinka ? ”
+43006009	~		“ Yaluy karrkay dingkar nyubun breadji , minyaji kuyuji . Bread flourmun diburrmun barleymun . Nyungu bread 5-bala , minya kuyu jambul . Yinya mayi buban , yalurrinyanka bamanka . Mayi yamba-karibi ! ”
+43006025	wanja-wanja		Jana bamangka Jesus naka-naka warrmba-bungan , nyungundu babajin , “ Maja , yundu wanja-wanja kadan ? ”
+43006028	wanjarrmal		Jana babajin , “ Nganjin wanjarrmal , juranku bundanka wuljaljiku ? ”
+43006030a	wanyu		Jana wawu nyulu jananda dajinka mayi jirray , yala Mosesangka ngadiku dajin . Yinyaynka jana nyungundu yalaman , “ Nganjan-karra ngujakuramunku bubungu jirrbu-jirrbungu bundandarin , jana mayi manna nukan . Godungku yinya mayi jirimun yungan jananda . Yinya kuku Godundumunbu kabanba . Yundu nganjinanda wanyu milbil ? Nganjin binalmanka . 
+43006030b	~		Kuda yundukuda bama Godundumun or kari ? ”
+43006042	wanyurrinku		Jana Jew-warra balkawan , “ Yanyu dingkar Jesus , nyulu bama bajaku , kangkal Josephamu . Ngana ngamunku , nganjananka binal . Nyulu wanyurrinku baja balkan nyulu wangkar-wangkarmun jirimun kadan ? Ngana nyungun kari believeim-bungal . ”
+43006052	wanjarr		Jana Jew-warra jawarr-wunan . Jana yalaman , “ Nyulu wanjarr ngananda nyungu bangkarr dajil , nukanka ? Karibi . ”
+43006060	~		Bamangka wubuldu Jesus nyajin binal-bunganya . Kanbalda nyajin , jana yalaman , “ Nganjin binal kari bajaku , wawu kari . ”
+43006062	~		Kaki yurra dingkar jirimun nyajil jiringa dunganya baja , yurra nguba wawu kari .
+43006068	wanyanda		Simon Peterangka nyungundu yalaman , “ Maja , nganjin wanyanda dungari baja ? Bama yindu yamba-kari nganjinanga wawu dayirr-bunganka . Nganjin yunuku kuku wukurrinka , juranmanka baja wuljaljiku .
+43007011	wanjabu		Jana maja-majangka Jew-warrangka nyungunin nubil-nubin mayinga jirraymba . Jana babajin , “ Nyulu wanjabu ? ”
+43007015	wanjabu		Jana Jew-warra maja-maja ngangkan nyungunku . Jana yalaman , “ Nyulu juburr bajaku . Nyulu wanjabu binalman ngujakuraka lawmunku ? Nyulu lawmunbu schoolbu kari walan . ”
+43007019	~		Mosesangka yurranda ngujakura law dajin , yamba yurra yinya ngujakura law kari wukurril . Yurra law wukurrinyaku , yurra nganya kari yarkinkaku kuninyaku . ”
+43007020	Wanjungku		Jana bamangka yalaman , “ Yundu Dubunji . Wanjungku yununin yarkinkaku kuninka ? ”
+43007023	wanyurrinku		Kaki yurra ngawa dingkar yulban yakal Saturdaymunbu , yurra Mosesamu kuku wukurril . Yurra workmanmalda . Yurra wanyurrinku ngaykunku kuli-kaday , ngayu bama ngulkurr-bunganya bambaymun Saturdaymunbu ?
+43007035	Wanjabu		Jana Jew-warrangka jana-karrajiku yalaman , “ Wanjabu nyulu dungay ? Bubu wanjabu ngana nyungunin can't warrmba-bungal ? Nyulu nguba bubungu yinduymbu dungay , bubungu Greece . Kanbal bama Jew-warra bundanday yinyaymba bamanji Greek-warranji . Nyulu nguba jananin binal-bunganka .
+43007036	wanyu		Nyulu yalaman , ‘ Yurra nganya nubil yamba nganya kari warrmba-bungal . Yurra can't yinyaymba kaday ngaykundu . ’ ” Jana yalaman , “ Yinya kuku wanyu ? ”
+43007041	~		Kanbalda yalaman , “ Nyulu Christ Godundumun . ” Yamba kanbalda yalaman , “ Kari . Christ bubumun Galileemun kari kaday .
+43007045	wanyurrinku		Jana buliman-buliman Pharisee-warrandaku , maja-majandaku priestandaku dungarin baja . Jakalbaku jana Pharisee-warrangka buliman-buliman yungan Jesus karrbanka , yamba jana nyungun kari karrban . Jana maja-majangka buliman-bulimananda babajin , “ Yurra wanyurrinku nyungunin kari wundin ? ”
+43007048	~		Nganjin Pharisee-warra , and maja-karra juburr bajaku ngujakuraku lawmunku . Nganjin nyungunin kari bajaku believeim-bungal .
+43007051	~		“ Ngana bama kari punishim-bungal jinbaldaku . Ngana jakalba nyungunin wawu-yimbal courtcasemunbu , nyajinka nyulu wanyu buyun-daman . Yinya nganandamunbu kabanba lawmunbu . ”
+43008005	~		Mosesangka law ngujakura ngadiku dajin . Nyulu yalaku kabanba balkan ,
+43008010	wanjabu		Jesus dakan baja , jalbundu babajin , “ Jana wanjabu ? Kuda wubulku dungarin ? Kuda jana yununin kari nyuyal baja ? ”
+43008019	wanjabu		Jana Jesusanda babajin , “ Yunu nganjan wanjabu ? ” Jesusangka kari answerim-bungan , nyulu yalaman , “ Yurra ngalinyanka binal kari , ngaykunku , ngaykuwunku nganjananka . Kaki yurra ngaykunku binal , yurra ngaykuwunku nganjananka yalarrku binal . ”
+43008025a	wanju		Jana babajin , “ Yundu wanju ? ” 
+43008025b	~		Jesusangka jananin kari answerim-bungan , yamba nyulu yalaman , “ Jakalbaku ngayu yurranda balkan wanju ngayu . Ngayu yinyakuda bama .
+43008033	wanyurrinku		Jana maja-maja binal kari yinyaynka kukuku kajajinka . Jana yalaman , “ Nganjin Abrahamandamunku . Nganjin slave-warra kari , kari bajaku kajajin . Yundu wanyurrinku yalaman , ‘ Yurra kari kajaji baja ’ ? ”
+43008043	wanyurrinku		Yurra wanyurrinku ngayku kuku kari nyajil ? Yurra wawu kari nyajinka .
+43008046a	~		Yurra nganya kari malaji-bungal buyun-buyunku . Ngayu manubajabuku balkan . 
+43008046b	wanyurrinku		Yurra wanyurrinku nganya kuku kari believeim-bungal ?
+43008053	wanyu		Ngadiku Abraham wulan . Yundu jirray kari Abrahamanka . Jana prophet-prophet yalarrku wulankuda . Ya , wanyu ! Yundu yunduku yalbay kari . ”
+43008057	~		Jana Jew-warrangka nyungundu yalaman , “ Yundu ngujakuramun kari . Yundu kariku 50-years old . Yundu kari bajaku Abraham nyajin . ”
+43009002	Wanju		Jana Jesusanda babajin , “ Maja , nyulu wanyurrinku miyil-burraku balkajin ? Wanju buyunman , nyungunin miyil-burra-bunganka ? Nyunguwundu nganjanangka , ngamungku or nyulu ? ”
+43009010	wanjarr		Jana nyungundu babajin , “ Yunu miyil wanjarr walngan ? Wanjungku ngulkurr-bungan ? ”
+43009012	wanjabu		Jana babajin , “ Nyulu wanjabu ? ” Dingkarangka yalaman , “ Wanjabu baja ? Ngayu binal kari . ”
+43009016	~		Kanbalda Pharisee-warrangka yalaman , “ Nyulu Jesus kari Godundumun , nyulu Saturdaymunbu workmanijinya . ” Yinduynju yalaman , “ Kari . Nyulu buyunmanyaku , nyulu kari miracle yalaku junkurr-murubuku balkanyaku . Godungku junkurr kari dajil bamanda buyunyundu . ” Jana yindu-yinduku jana-karrajiku balkawan , kari wawuman .
+43009017	wanyu		Jana dingkaranda babajin baja , “ Nyulu yunu miyil ngulkurr-bungan , yundu wanyu balkal nyungunku ? ” Dingkarangka yalaman , “ Nyulu Godundumunkuda , prophet . ”
+43009019	Wanjarr		Jana bulanda babajin , “ Yala nyulu yubalanga kangkal ? Yala nyulu miyil-burraku balkajin ? Wanjarr nyulu miyilda nyajil-nyajilda ? ”
+43009026a	wanjarrman		Jana babajin baja , “ Nyulu wanjarrman yunundu ? 
+43009026b	wanjarr		Nyulu wanjarr yunun ngulkurr-bungan ? ”
+43009026b	~		Nganjin readim-bungan ,
+43009027	wanyurrinku		Nyulu yalaman , “ Ngayu yurranda balkankuda . Yamba yurra ngayku kuku kari nyajinka , kari believeim-bunganka . Yurra wanyurrinku babajin baja ? Yurra wawu kari nyungu jawun-jawunmanka . ”
+43009034	~		Jana nyungundu yalaman , “ Yundu nganjinin kari bajaku binal-bunga . Yundu buyun-buyunjiku balkajin , buyun-buyun bajaku . ” Jana nyungun kirinda , churchmunbu walanka baja .
+43009036	wanju		Dingkarangka Jesusanda babajin , “ Maja , nyulu wanju ? Ngaykundu balka , ngayu nyungundu mambarrijinka . ”
+43010020	wanyurrinku		Wubuldu yalaman , “ Dubu nyungundu dukurrbu walan . Nyulu kiru-kari bajaku . Yurra wanyurrinku nyungundu milka-janjanay ? Nyulu dubunji . ”
+43010021	~		Yamba kanbalda yalaman , “ Bamangka dubunjiku murruji yalaku balkal . Dubungku miyil-burra kari ngulkurr-bungalarrku . ”
+43010024	wanja-wanja		Kanbal bama Jew-warra nyungundu murumarin , babajin , “ Yundu yinya bama Godundumun or kari ? Yundu wanja-wanja nganjinanda balkal ? Mumbarabuku balka . Nganjin binal kari . Wanyu baja yundu balkal-balkal ? Mumbarabuku balka nganjinanda . ”
+43010032	~		Jesusangka jananda yalaman , “ Ngayu junjuy-junjuy miracle ngulkurr balkanya ngaykuwundu nganjanandamundu junkurrdu . Yurra nganya nyajin balkanya , yamba yurra nganya kuninka . Yurra nganya yarkinkaku kuninka , ngayu junjuy-junjuy ngulkurr balkanya . ”
+43010036	~		Ngaykungundu nganjanangka nganya yungan bubungu . Ngayu yalaman , “ Ngayu Godumu kangkal . ’ Yinya kari buyun balkal-balkal . Nyulu nganya yungankuda .
+43011034	wanjabu		Nyulu babajin , “ Nyungunin wanjabu nandan ? ” Jana yalaman , “ Kaday , nyaka . ”
+43011047	wanjarrmalda		Yala , jana , Pharisee-warra , maja-maja churchmunku , council-council , jana murumarin , balkawan . Jana Jesusanka wawu kari bajaku . Jana yalaman , “ Ngana wanjarrmalda ? Nyulu junjuy-junjuy miracle yalbay balkanya junkurr-murubuku , bama wubul nyungundu jurrkin-jurrkiji .
+43011056	Wanjarr		Jana miyil-janjanan Jesusanka . Jana churchmunbu yalbaymba murumarin , balkawan , “ Wanjarr ? Nyulu Jesus holidaymunku Passovermunku kaday or kari ? ”
+43012005	~		“ Jalbungku yinya scent kari nyangarrinyaku . Nyulu sellim-bunganyaku moneyka jirraynka , 300-dollarsmunku . Nyulu money dajinyaku bamanda money-karinga . ”
+43012027	wanyu		Jesusangka yalaman baja , “ Ngayu milka-bujarmalda . Ngayu wanyu Nganjananda balkal ? Ngayu wawu kari warrngkanka , yamba ngayu kari nyungundu balkal , ‘ Nganjan , kuli nyandi . Ngayu wawu kari warrngkanka . ’ Ngayu kari bajaku yala balkal . Ngayu bubungu kadan warrngkanka , wulanka . Ngayu kari kulbaji . Kari . Mambarriji .
+43012034a	~		Jana bamangka nyungundu yalaman , “ Nganjin kabanba nyajin lawmunku ngujakuramunku . 
+43012038a	~		Ngadi bajaku Isaiahangka kuku manin Godundumun , nyulu yinya kuku kabanba balkan . Kuku yalaku :
+43012038b	~		
+43013025	wanjungku		Nyulu jawunyungku yuba baja Jesusanda kadan , babajin , “ Maja , wanjungku yununin mambarril ? ”
+43013036	wanjabu		Simon Peterangka babajin , “ Maja , yundu wanjabu dungay ? ” Jesusangka yalaman , “ Yurra murruji nganya wukurrilda . Yamba juma yurra nganya wukurril . ”
+43013037	wanyurrinku		Peterangka babajin , “ Ngayu wanyurrinku yununin kari wukurrilda ? Ngayu wawurr-wawurrku yununku wulay . Ngayu yununku wawu jirray bajaku . ”
+43014002	~		Bayan wubul bajaku ngaykuwunbu nganjanandamunbu bubungu . Ngayu dungay , bayan yanday-bunganka , yurra yinyaymba bundarinka . Yinya kari manubajamanyaku , ngayu yurranda yinya kuku kari balkanyaku .
+43014005	wanjabu		Thomasangka nyungundu yalaman , “ Maja , yundu wanjabu baja dungay ? Nganjin baralka binal kari yinyaynka , ngangkal-ngangkari . ”
+43014009	wanyurrinku		Jesusangka yalaman , “ Ngayu yurranji ngadingka bundan , yamba yurra ngaykunku binal kariku . Bamangka nganya nyajin , jana yalarrku Nganjan nyajin . Yundu wanyurrinku balkan , ‘ Nganjan nganjinanda milbi ’ ? Yurra binal kariku .
+43014022	wanjarr		Dingkar nyubun yinyaymba burri Judas . Nyulu Judas Iscariot kari , bama yindu burri Judas . Nyulu babajin , “ Maja , yundu wanjarr nganjininku yununkuku binal-bungal yamba bama yindu-yindu kari ? ”
+43016005	wanjabu		Ngayu Nganjanandaku dungay baja . Nyulu nganya yungan , ngayu nyungunduku dungay baja . Yurra milka-bujarkuda , ngayu balkanya ngayu dunganka . Yamba yurra ngaykundu kariku babajin , ‘ Yundu wanjabu dungay ? ’
+43016017	wanyu		Jana jawun-karra jana-karrajiku balkawan . Jana babajin , “ Yinya kuku wanyu ? Nyulu yalaman , ‘ Yurra juma nganya kari nyajil . Yinyamun yurra nganya nyajil baja . Ngayu Nganjanandaku dunganya , yurra nganya kari nyajil . ’ Wanyu yinya kuku ? ” jana babajin .
+43016018	~		Jana balkawan , “ Nyulu yalaman , ‘ Ngayu juma dungay . ’ Ngana ngangkan-ngangkay yinyaynka kukuku . ”
+43018004	wanjunku		Jana kadarin Jesusanda . Jesus binal jana nyungunin karrbanka . Nyulu jananda Judasanda kadan , babajin , “ Yurra wanjunku nubin-nubiji ? ”
+43018007	wanjunku		Nyulu babajin baja , “ Yurra wanjunku nubin-nubiji ? ” Jana yalaman , “ Jesusanka townku Nazarethmunku . ”
+43018011	~		Jesusangka Peteranda yalaman , “ Naybu yulbanbaku mumba baja . Nganjanangka nganya yungan warrngkanka . Ngayu ngaykuwunbu nganjananda must milka-janay . Ngayu must jananji dungay . ”
+43018021	wanyurrinku		Yundu wanyurrinku nganya wawu-yimbal-yimbal ? Yundu bamaku wawu-yimba . Jana nganya nyajin binal-bunganya . Jana bama binal kukuku ngayu binal-bungan . ”
+43018023	~		Jesusangka yalaman , “ Ngayu buyunduku balkanyaku , yundu bamanda wubulimbaku balkanyaku buyun-buyunku . Kari . Ngayu ngulkurrduku balkan . Yundu nganya wumbabuku kari walu-kulbanyaku . ”
+43018029	wanyurrinku		Nyulu Pilate bama Roman , Jew kari . Nyulu Governor , maja yalbay bajaku Jew-warrandamunku bubuku . Jana bama Jew-warra nyunguwunbu bayanba kari walanya , nyulu ngalkalba jananda kadan , babajin , “ Yurra wanyurrinku nyungunin nyuyan ? ”
+43018035	Wanyu		Pilateangka yalaman , “ Kari . Ngayu Jew kari bajaku . Yundu bama Jew . Jana yununin ngaykundu mambarrin , Jew-warrangka , maja-majangka . Yamba yala yundu ? Yundu wanjarrman ? Wanyu yundu buyun-daman ? ”
+43018038	Wanyu		Pilateangka babajin , “ Wanyu kuku manubaja ? ”
+43019009	Wanjamun		Pilateangka soldier-soldieranda balkan Jesus bayanba walay-maninka baja . Pilate yalarrku walan baja . Nyulu Jesusanda babajin , “ Wanjamun yundu ? ” Jesus yinyilji kari , yamba nyulu kari balkan , nyulu jankaku janan .
+43019015	~		Yamba jana yirrkan , “ Wundi ! Nyungunin wundi ! Jukungu walngkan-dama . ” Pilateangka jananda yalaman , “ Yurra wawu-karimanyaku yurranga maja king jukungu walngkan-damanka . ” Maja-majangka yalbaynja yalaman , “ Nganjinanga maja king nyubunku , nyulu Caesar . ”
+43020013	wanyurrinku		Bula Marynda babajin , “ Yundu wanyurrinku banbadi ? ” Nyulu yalaman , “ Jana yarkin ngayku maja yalamun wundinya . Wanjabu baja yijarrin ? ”
+43020015a	wanyurrinku		Jesusangka nyungundu babajin , “ Yundu wanyurrinku banbadi ? 
+43020015b	Wanjunku		Wanjunku nubin-nubiji ? ” Mary nyungunku binal kari , balu nyulu workingman nyajin yinyaymba . Maryngka babajin , “ Yundu yarkin wundin ? Wanjabu yijarrin ? Ngayu maninka . ”
+43021012	~		Jesusangka jananda yalaman , “ Kadayda , nukada . ” Jana jawun-karrangka Jesus wawu-yimbanka . Yamba jana kari wawu-yimban , murru-kadanya . Jana nyungunin mumbarabuku nyajin , binalman , nyulu Majakuda , Jesuskuda .
+43021020	wanjungku		Peterangka walu-wukurrin , jawun nyajin bulanin wukurrinya . Yinyayanka jawunyunku Jesus wawu jirray . Jesus wulanjiku , jana mayinga nukal-nukajin , nyulu Jesusanda yubaku bundandan . Nyulu Jesusanda babajin , “ Maja , wanjungku yununin mambarrinka bulimananda ? ” Yinya jawun Peterangka nyajin .
+43021021	~		Yala , Peterangka nyungunin nyajin , Jesusanda babajin , “ Yala nyulu ? ”
+43021022	~		Jesusangka yalaman , “ Ngayu nguba wawu nyulu juranku bundanka ngayu kadanyamunku baja . Nguba kari . Yinya ngayku business . Ngayu yunundu kari balkal . Yinya yunuku kari . Ngaykuku . Yundu nganya wukurrika . ”
+43021023	~		Yinyaynka jana Jesusamu bama jana-karrajiku balkawan , “ Nyulu jawun wulayarrku kari , juranku bundayarrku . ” Kari . Jesusangka yinyaynka kari balkan . Nyulu yalaman , “ Ngayu nguba wawu nyulu juranku bundanka ngayu kadanyamunku . Nguba kari . Yinya yunuku kari . ”
+44001011	wanyurrinku		Bula yalaman , “ Ya , yurra Galilee-warra , yurra wanyurrinku janjanari , kunkun-bal-bal jiri ? Godungku yurrandamun Jesus manin , wangkar-wangkar-bungan . Nyulu Jesus kaday baja bubungu . Nyulu kaday baja yalaku nyulu dungan . ”
+44002008	wanyurrinku		Yala kuku ? Ngana wubulduku wanyurrinku jananin nyajin-nyajil balkanya nganawundu kukubu yindu-yinduynju ? Jana wanjarrku kukuku wubulkuku binalman ?
+44002012	Wanyu		Jana wubulduku kunkun-bal-ban , jana-karrajiku balkawan , “ Wanyu yinya ? ”
+44002037	wanjarrmalda		Jana bamangka kuku Peterandamun nyajin , jana milka-bujarman , babajin jananda Peteranda , “ Yurra , nganjin wanjarrmalda ? ”
+44003012a	wanyurrinku		Peterangka jananin nyajin murumarinya , nyulu yalamanda , “ Yurra Jew-warra , yurra wanyurrinku nganjinin kunkun-bal-bal ? Balu ngalinyandamundu junkurrdu nyungunin ngulkurr-bungan . Balu ngalin nyungun dandi-bungan , ngalin junkayku bundandanya . Kari . Ngalin kari . Jesusangkaku .
+44003012b	~		
+44004007a	~		Jana bulanin Peter , John manin , jajirrin jakalba jananda . Jana bulanda babajin , 
+44004007b	Wanjungku		“ Wanjungku yubalan yungan ? 
+44004007c	Wanyurrinju		Wanyurrinju junkurrdu yubal yanyu dingkar ngulkurr-bungan ngarri ? ”
+44004016	wanjarrmal		yalaman , “ Ngana wanjarrmal yaluy-bulalanda dingkar-bulalanda ? Bula ngarri ngulkurr-bungankuda , dandi-bungankuda . Bama wubulku townbu Jerusalem yinyayinka binalman . Ngana kari jurrilmal , bama wubulku binalkuda .
+44004025a	~		Ngadiku Davidangka yunu kuku balkan . Yunuwundu Wawubu kuku yunundumun wundin Davidanda . Davidangka kuku yunundumun kabanba balkan . Nyulu yalaku kabanba balkan ,
+44004025b	~		
+44005003	~		Peterangka yalaman , “ Ananias , yundu , yunu manyarr , yubal Satananda milka-janan . Satanangka yubalanda balkan jurrilmanka . Yubal kanbal money kujinya , yubal jurrilman Godundumunbu Wawungu .
+44005004	~		Yubal bubu sellim-bunganjiku , yinya bubu yubalangakuda . Wawu sellim-bunganyamun money yubal manin yubalangakuda . Yubal wawu kari money dajinka , yalada . Yubal kanbal dajin , yalada . Yubal wubulku dajinka , yalada . Money yubalangakuda . Yubal kanbal dajin , yamba yubal yalaman yinya money yalakubada yubalanga . Yubal kari jurrilmanyaku . Bamanda kari jurrilman , Godunduku yubal jurrilman . ”
+44005009	wanyurrinku		Peterangka yalaman , “ Yubal yubal-karrajiku balkawan jurrilmanka . Yubal jurrilman Godundumunbu Wawungu . Yubal wanyurrinku jurrilman ? Junkaynjaku balkanyaku . Nyaka , jana kankadayda jakalba bayanba . Jana yunu dunyu nandan , yunun yalarrku jarra-kulbalda . ”
+44007026	~		Warngku yindu nyulu jambul dingkar-bulal Jew nyajin kuniwanya . Nyulu bulanda yalaman , ‘ Yubal kari kuniwaka ! Yubal yaba-yabaju , jawun-jawunkuda . Yubal kari kuniwanyaku . ’
+44007027	wanyangka		Bamangka kulijingka Moses kanganka . Nyulu Mosesanda yalaman , ‘ Yunundu wanyangka balkan nganjinanka majamanka ?
+44007035	wanyangka		Stephenangka yalamanda , “ Ngadiku jana Jew-warrangka Moses kari yulmbarrin . Jana nyungundu yalaman , ‘ Yunun wanyangka balkan majamanka nganjinanka ? ’ Kari , Godungku nyungun Moses jananda yungan baja . Angel nguwimal milbijin nyungundu , Godungku nyungun yunganda , majamanka , jananin wundinka bamandamun kulijindamun .
+44007049a	~		‘ Godungku yalaman , “ Ngayu yiringkurrku . Ngayu jiringa bundanday , bubungu bundanday . Ngayu maja jirika , ngayu maja bubuku . Yurra bayan murruji ngaral ngayku . 
+44007049b	~		Ngayu kari wawu-balangaji bayanba .
+44007052	wanjarrman		Yurrandamundu nganjan-karrangka kuli dajin jananda Godundumunbu prophetanda . Ngadiku jana prophetangka Godundumunku kukuku balkan . Jana yalaman , ‘ Nyubun dingkar ngulkurr kankaday . ’ Nyulu yinya dingkar jarra nyiku-nyiku yurranda kadankuda . Yamba yurra wanjarrman nyungunku ? Yurra nyungun majanda jirrayanda mambarrin , nyungunin yarkinkaku kuninyarrkuda .
+44008031	~		Dingkarangka yalaman , “ Kari , ngayu binal kari . Bama yamba-kari , nganya binal-bunganka . Yundu buggynga daka , ngaykunji bunday . ” Philip dakanda .
+44008033	~		Jana nyungun buyun-daman . Nyulu courtcase haveim-ban , yamba jana nyungun nyuyan yala wurrmay-bakanguy . Jana nyungunku kari bajaku wawumarin , kuli dajil-dajin . Jana kuku jurril balkan nyungunku . Bama yinyanguymbu buyun bajaku , kuli-baka bajaku . Jana nyungun yarkinkaku kuninda . ”
+44008034	wanyanka		Nyulu dingkarangka Philipanda babajin , “ Isaiahangka wanyanka kabanba balkan ? Nyulu nyungunkuku balkal-balkan , or yinduynku bamanka ? ”
+44008036	~		Bula duwan-duwan baraldarr , bula bananga kadan . Nyulu dingkarangka yalaman , “ Nyaka , yanyu bana . Yundu nganya banabu dukul-dama , nganya baptiseim-bunga . ”
+44009004	wanyurrinku		Nyulu Saul bubungu daran , Jesus milkabu nyajin yalamanya , “ Saul , Saul , yundu nganya wanyurrinku buyun-daman-damal ? ”
+44009005	wanju		Saulungku babajin , “ Yundu wanju , Maja ? ” Jesusangka yalaman , “ Ngayu Jesus , yundu nganya buyun-daman-damal .
+44009006	wanjarrmanka		Kari , yundu daka , townbu dungay , yinyaymba ngayu yunundu balkal yundu wanjarrmanka . ”
+44010004	wanyu		Cornelius kungkurr-kadan , yinyilman angelanka . Nyulu angelanda yalaman , “ Maja , wanyu ? ” Angelangka nyungundu yalaman , “ God kari milka-wulan yundu nyungunji balkan-balkawan . Nyulu kari milka-wulan yundu money bamanga mayi-karinga dajil-dajin . Nyulu yinya nyajinkuda .
+44010021	wanyurrimbu		Peter bada-bada jananda dingkar-dingkaranda dungan , yalaman , “ Ngayuda Simon Peter , yurra nganya nubil-nubin . Yurra wanyurrimbu kadarin ? ”
+44010029	wanyurrinku		Yurra nganya kunjan , ngayu jinbalku kadan , Godungku ngaykundu balkanya . Yurra wanyurrinku nganya kunjan ? ”
+44010047	~		“ Godumu Wawu jananda dukurrbu walan yala ngananda . Ngana jananin banabu dukul-damada , baptiseim-bungada . ”
+44011017a	~		Jakalbaku ngana Maja Jesus Christ kuku nyajin , believeim-ban , Godungku nyungu Wawu dajin ngananga . 
+44011017b	~		Nyulu yalarrku nyungu Wawu dajin jananga bamanga Gentile-warramu . Godungkuku dajin , ngayu can't nyungu wawu kirinya jananda dukurrbu walanka . ” Yinya kuku Peterangka yalaman .
+44012018	wanyurrinku		Wungar dakan , soldier-soldier jailba walu-ngangkarin , Peter walu-karimanya . Jana ngangkarinkuda , jana-karrajiku yalaman , “ Ya , wanyurrinku yinya ? Peter wanjabuda ? ”
+44013025	~		Kunbaja-kunbaja , nyulu Johnungku yalaman , ‘ Yurra nganya kari kujil-kujil . Yurra kujil-kujil yinya dingkar kankadanyamunku , nyulu kudamundu ngaykunku kaday . Nyulu ngulkurr bajaku , ngayu buyun . Nyulu junkurrji , ngayu burldar . ’
+44014015	~		“ Ya , yurra , yurra kari bajaku yalamaka . Ngalin bamakuda , god kari . Ngalin bama bajaku , yala yurra . Ngalin kadan yurranda balkanka yanyumun buyun-buyunmun jurrkijinkada , Godundu jurrkijinkada . Nyulu jurankuda . Nyuluku wubulku marabu balkan , jiri , bubu , jalun , junjuy-junjuy wubulku nyulu balkan .
+44015010	~		Godungku ngananga law ngujakura kari dajin Gentile-warranda . Yinyaynka ngana Gentile-warra kari mambarrika yinya law wukurrinka . Yinya law hard-bala wukurrinka . Nganandamundu nganjan-karrangka murruji ngananga law wubulku wukurrinyarrku , and ngana still can't wubulku wukurrilda .
+44016030	wanjarrmal		Yinyamun nyulu bulanin jailmun ngalkalba wundin , bulanda yalaman , “ Ya , yubal , ngayu wanjarrmal buyun-buyunmun ngayku wawu juranmanka ? ”
+44017018	wanyu		Kanbal bama Paulunji balkawan . Kanbalda yinyarrinyangka kaban nyajinya , kaban Epicurusangka balkanya . Kanbalda yinyarrinyangka kaban nyajinya , kaban Stoicandamun . Kanbalda yalaman , “ Nyulu Paul kuku-baka bajaku . Nyulu wanyu balkal-balkal ? ” Yindu-yinduynju yalaman , “ Nyulu balkal-balkal Godunku walu-yinduynku . ” Jana yalaku balkan , Paulungku bamanda balkal-balkanya Jesusanka , balkal-balkanya Jesus juranman baja yarkinmun .
+44017019	~		Jana nyungun Paul wundin wuburrbu . Wuburr burri Areopagus . Yinyaymba wuburrbu dingkar-dingkar yarbarrka murumarin , balkawanka kukuku jirakalka . Jana nyungundu yalaman , “ Yundu nganjinanda balka yinyayinka kukuku jirakalka .
+44019003	wanjarrku		Nyulu babajin , “ Jana yurranin wanjarrku banabu dukul-daman , baptiseim-bungan ? ” Jana yalaman , “ Jana nganjinin banabu dukul-daman yala Johnungku . ”
+44019015	~		Kari , dubungku yalaman , “ Ngayu Jesusanka binal , ngayu Paulunku binal , yamba ngayu yurranka binal kari . ”
+44019035	~		Nyubun dingkar yinyarrin , nyulu town clerk . Nyulu bama janka-bungan , jananda yalaman , “ Yurra bama Ephesus-warra , bama wubulku bubungu yindu-yinduymbu binal Ephesus-warrangka jalbumu Dianamu bayan kujil-kujil . Jana binal Ephesus-warrangka Diana statue mulkaynji kujil-kujil , statue ngadiku jirimun daran .
+44021013a	wanyurrinku		Yamba Paulungku yalaman , “ Yurra wanyurrinku banbadi ? 
+44021013b	Wanyurrinku		Wanyurrinku nganya milka-bujar-bungal ? Kaki jana Jerusalem-warrangka nganya kajanka , balu nganya kaja . Kaki ngayu wulay Jesusanka , ngayu balurrku wulay . Ngayu readyda , jailba dunganka or wulanka Jesusanka . ”
+44021022	wanjarrmalda		Jana Jerusalem-warra juma binalmal yundu townbu Jerusalem kadan baja . Ngana wanjarrmalda ?
+44021033a	wanju		Maja soldier-soldieranka yuba kadan . Nyulu soldier-soldieranda balkan , “ Nyungun karrbada . ” Jana Paul chainda jambuldu kajan . Majangka Jew-warranda babajin , “ Yanyu bama wanju ? 
+44021033b	wanjarrman		Nyulu wanjarrman ? ”
+44022007	wanyurrinku		Ngayu bubungu daran , ngayu kuku nyajin yalamanya , ‘ Saul , Saul , yundu nganya wanyurrinku buyun-damal-damal ? ’
+44022008	wanju		Ngayu babajin , ‘ Yundu wanju , Maja ? ’ Jesusangka yalaman , ‘ Ngayu Jesus townmun Nazarethmun . Yundu nganya buyun-damal-damal . ’
+44022010	wanjarrmalda		Ngayu babajin , ‘ Ngayu wanjarrmalda , Maja ? ’ Nyulu yalaman , ‘ Yundu daka , dungay townbu Damascus . Yinyaymba bamangka yunundu balkal wanjarrmanka baja . ’
+44022016	wanyurrinku		Yundu wanyurrinku bundandayku ? Dakada ! Dukul-damajikada , baptisemakada . Yundu Jesusanda yirrkay , yunun buyun-buyun kidanka . ’ Ananiasangka ngaykundu yinya kuku yalaman . ”
+44022026	wanjarrmanka		Yinyangka majangka yinya kuku nyajin , nyulu majanda jirrayanda dungan , yalaman , “ Yundu nyungundu wanjarrmanka ? Nyulu bama Roman . ”
+44023003	~		Paulungku Ananiasanda yalaman , “ Godungku yunun yalarrku kangkul kulbal . Yundu bama manubu-wundil . Yundu Jew-warrandamundu lawbu nganya jailba-bunganka , yamba yundu yinya law dumbarrin , yundu jananda balkanya nganya kangkul kulbanka . ”
+44023009	~		Jana yaykarrku murru-kangawan . Kanbal Pharisee-warra dakan , Paulunku balkawan . Jana yalaman , “ Yaluyngku bamangka kari buyun-daman . Nguba angelangka or wawubu nyungundu balkankuda . ”
+44023019	wanyu		Majangka warru marabu wayan , bula bularrku balkawan . Majangka babajin , “ Yundu kuku wanyu balkanka ? ”
+44026008	~		Yurra yalamal , ‘ Godungku bama kari juran-bungal . ’ Yamba Godungku bama juran-bungalarrkukuda .
+44026014	wanyurrinku		Nganjin wubulku bubungu daran , ngayu Jesus milkabu nyajin kukubu Hebrewmundu yalamanya , ‘ Saul , Saul , yundu nganya wanyurrinku buyun-damal-damal ? Yundu yunduku yudan-yudaji . Yundu yala bulki . Bamangka nguba bulki wukurril jukubu jalngkundu . Bulkingka juku jalngkun jabil , nyulu nyuluku yudaji . Yundu yala yinya bulki , Saul . ’
+44026015	wanju		Ngayu babajin , ‘ Yundu wanju , Maja ? ’ Majangka ngaykundu yalaman , ‘ Ngayu Jesus , yundu nganya buyun-damal-damal .
+45002017	~		Yurra Jew-warra balu yurra Godumu kurrbar . Yurra yurra-karrajiku balkaway , “ Godungku nyungu law nganandaku dajin , yinyaynka ngana yalada . ”
+45002021	~		Yurra bama yindu-yindu binal-bungal , yamba yurraku kari binalmal . Yurra kuku yirrkay , “ Kari junjuy-junjuy ngaki , kari wurrmaymaka . ” Yamba yurra yurraku wurrmay-baka .
+45002028	wanju		Wanju nyulu Jew bajakulu ? Yala nyulu Jewkuda , nyulu janandamun balkajinya ? Kari . Yala nyulu Jewkuda , nyulu yulban yakajinya , brandim-bungajinya ? Kari bajaku . Nyulu bama wanya Jew bajakulu ? Nyulu yalaku yanyu . Nyulu Godumu law dukulbukulu kuji , nyulu yalarrku must wukurrika . Yulban yakajinya nyungun kari Jew-bungal .
+45003001a	~		Yurra nguba yurraku babaji , “ Ngulkurr ngana bamandamun Jew-warrandamun balkajin ? 
+45003001b	~		Yala ngulkurr ngana yulban yakal , mark bawanka ? ”
+45003003	~		Godumu kuku manubajakuda . Kanbalda Jew-warrangka Godumu law kari junkaynjaku wukurrin . Yamba yinyamundu God kari buyun-daman . Kaki jana Jew-warrangka Godumu kuku kari wukurril , God still manubajaku bunday , nyulu nyungu promises kabanba still kujilkuda .
+45003005	~		Yundu nguba yunduku balkal , “ Ngulkurr ngayu buyun-damal , yinyamun bamangka nyajil Godku ngulkurrkuda . ” Yundu nguba yalarrku balkal , “ Godungku nganya kari punishim-bunga ngaykuwunku buyun-buyunku . Kaki ngayu kari buyun-damanyaku , bamangka kari nyajinyaku Godku ngulkurr . ”
+45003006	~		Kari . Yala kari bajaku . Kaki Godungku buyun-buyun bayjal , nyulu bama can't courtcasemunbu wundil , nyuyanka buyun-buyunku .
+45003007a	~		Yundu nguba yunduku balkal , “ Ngulkurr ngayu jurrilmal . Kaki ngayu jurrilmal , bamangka nyajilda Godku manubajamalkuda . Yinyaynka nyulu nganya kari nyuya jurrilmanya . ” Kari . Yala kari .
+45003007b	~		
+45003008	~		Kanbalda bamangka balkal ngayu yanyunku kukuku buyunku binal-bungal . Jana yalamal , “ Kaki ngana buyun-damal , ngana bamanda milbil Godku ngulkurrkuda . Yinyaynka ngana should yaykarrdaku buyun-dama , bamangka nyajinka Godku ngulkurrkuda . ” Kari . Ngayu kari yalaku bama binal-bungal . Jana kanbalda nganya nyuyanya yinyaynka kukuku , Godungku janangan buyun-damalkuda . Ngana binal yinya junkay .
+45003009	~		Yalada . Ngayu Jew-warranda babaji , “ Kuda Godungku balkal bama Jew-warra jarra ngulkurr bamanka yindu-yinduynku ? Kuda bama Jew-warra Godumuku kurrbar ? ” Kari bajaku . Bama wubulku buyun . Ngana wubulku buyunmankuda .
+45003027a	~		Yalada ! Yala ngana bulmbuymal , ngananga wawu ngulkurrmanya ? Kari bajaku ! 
+45003027b	~		Yala nganawundu workmundu ngulkurrdu ngananin ngulkurr-bungan ? Kari . 
+45003027c	~		Yala lawmundu nganangan ngulkurr-bungan ? Kari . Lawmundu wawu ngananga kari bajaku ngulkurr-bungal . Yala ngana wanjarrmalda , ngulkurrmanka ? Ngana nganaku dajijika Jesusanda , milka-janay . Nyuluku ngananga wawu ngulkurr-bungalkuda .
+45004001	~		Yalada . Ngayu balkankada Abrahamanka . Ngana Jew-warra wubulku Abrahamandamun . Nyulu ngananga nganjan ngadimunku .
+45004003	~		Godundumundu kabanda yalaku balkal ,
+45004010	wanja-wanja		Abraham wanja-wanja ngulkurrman Godundumunbu miyilba ? Nyulu ngulkurrman , nyulu yulban yakajinjiku . Nyulu kariku bama Jewman .
+45005010	~		Ngadiku ngana Godunku wawu kari bajaku . Yamba nyungu kangkal wulanya , ngana Godumu jawunman . Ngana Godumu jawunmanya , nyulu ngananin yungal buyun-buyunmun , Christandamundu junkurrdu . Jesus Christ juranman baja . Yinyamundu nyulu ngananga wawu juran-bungan , ngana wuljaljiku Godunji bundanka .
+45005021	~		Buyun-buyun jarra junkurrji bamanka . Yinyamundu buyun-buyundu bama wulay-manin . Yamba God jarra junkurrji bajaku buyun-buyunku . Yinyaynka nyulu Jesus Christ yungan , bamanga wawu juran-bunganka , jana wuljaljiku juranku bundarinka .
+45006001	~		Ngana binal God manun-manunmanka , ngananga buyun-buyun kidanka . Yamba ngana kari kuku balka , “ Ngana yarbarrka buyun-damanka , God yarbarrka manun-manunmanka , buyun-buyun kidanka . ”
+45006002	~		Kari bajaku ! Ngana Jesus believeim-bunganya , and kuku nyajinya , ngana kari buyun-damal baja . Jesus wulan buyun-buyunku . Yinyaynka ngana nyungun wukurrika . Nyulu ngananga buyun-buyun kidanya , ngana kari buyun-dama baja . Buyun-buyun ngananka karida majamal baja .
+45006015	~		Yamba yurra nguba balkalda , “ God ngaykunku wawu jirray . Nyulu nganya yungan lawmun mukulmun . Yinyaynka ngayu buyun-buyun wukurril baja . ” Kari , yala kari .
+45006021	Wanyu		Wanyu yurra manin buyun-buyunmun ? Yamba-kari bajaku ! Buyun-buyundu yurranga junjuy-junjuy ngulkurr kari bajaku dajil . Buyun-buyundu yurrangan murru-kaday-manil , yurranga wawu wulay-manil .
+45007007	~		Yala ngana balkalda law mukul buyun ? Kari bajaku ! Lawmundu mukuldu nganangan binal-bungal wanyu ngulkurr , wanyu buyun . Lawmundu balkal ,
+45007024	Wanjungku		Ngayu wawu Godumu kuku wukurrinka , yamba ngaykuwundu bangkarrda buyun-buyun wukurril . Ngayu milka-bujarku bundaykuda . Wanjungku nganya yungal buyun-buyunmun ? Buyun-buyundu ngayku wawu wulay-maninka . Wanjungku nganya junkurrji-bungal , ngayu buyun-buyun kari wukurrinka baja ? Jesus Christangkaku . Nyuluku nganya juran-bungal , nyuluku nganya junkurrji-bungal , nyuluku nganya yungal buyun-buyunmun . Ngayu yinyaynka God buyay-manilkuda , thankim-bungalkuda .
+45008024	~		Ngadiku ngana nganaku mambarrijin Jesusanda , ngananga wawu walu-yinduman , yamba ngananga bangkarr kariku jirakalman . Ngana binal ngana juma bangkarr jirakal manil Godundumun , yamba ngana kariku manin . Yinyaynka ngana waitmalmalda Godunku . Kaki ngananga bangkarr jirakalmanyaku , ngana kari waitmanyaku baja .
+45008031a	~		Ngana binalda God ngananka wawu jirray . 
+45008031b	wanjungku		Yinyaynka nyulu nganangan ngulkurrduku kujil . Kaki Godungku nganangan ngulkurrduku kujil , wanjungku nganangan buyun-damal ? Yamba-karikuda !
+45008032	~		Godungku nyungu kangkal dajin , wulanka ngananka . Nyulu nyungu kangkal wawurr-wawurrduku dajin . Yinyaynka ngana binal nyulu yalarrku junjuy-junjuy wubulku ngananda dajil , ngananin helpim-bunganka .
+45008033	~		Godungku nganangan wangkanin nyungu bamamanka . Nyulu ngananga buyun-buyun kidan , yinyaynka kanbalda ngananin kari nyuyal baja buyun-buyunku .
+45008034	Wanjungku		Wanjungku Godundu balkal nganangan bayanga yunganka ? Yamba-kari ! Jesus Christ wulan ngananka , yinyamun Godungku nyungun juran-bungan baja . Nyiku nyulu Godunji bundandayda heavenba . Yinyaymba nyulu Godundu baban-babaji ngananka .
+45008035	Wanyangka		Jesus Christ ngananka wawu jirray . Wanyangka nganangan ngami-ngami-bungal nyungundumun ? Yamba-karikuda ! Ngana nguba troubleji . Nguba bambaymal . Bamangka nguba kuku buyun balkal ngananka , nguba kuli dajil . Jana nguba kuniwanka ngananji . Ngana nguba dakwuynji , money kari . Bamangka nguba nganangan yarkinkaku kuninka . Yamba Jesus Christ ngananka wuljaljiku wawu jirray . Yinyaynka ngana kari ngami-ngamimal nyungundumun .
+45009014	~		Kanbalda nguba yalamal , “ Nyulu God buyun , nyulu kanbal bama wangkaninya , kanbal kari . ” Kari . Yala kari . Godku junkurrji , bama wangkaninka .
+45009019a	wanyurrinku		Yurra nguba yalamalda , “ Kaki God yalaku , nyulu wanyurrinku bama nyuyal buyun-buyunku ? 
+45009019b	Wanyurrinku		Wanyurrinku jana malaji buyun-buyunku ? Nyuluku jananin mambarril ngulkurr balkanka or buyun balkanka , nyulu janangan kari nyuyanyaku . ”
+45009020a	~		Ngana kari yalaku milkabu wukurrika . God junkurrjikuda . Ngana nyungun kari murru-kanga . Nyulu nganangan balkan . 
+45009020b	~		Ngana kari nyungundu balka , 
+45009020c	wanyurrinku		“ Yundu nganya wanyurrinku yalaku balkan ? ”
+45009021	~		Yinya yala bamangka dish balkal bubumun claymun . Nyuluku decidemaniji wanyu dish nyulu balkanka . Nyulu nguba bubu clay manil , nguba nyubun dish mayika balkal , nguba yindu rubbishmunku balkal . Yamba nyuluku baja wanjarrmanka .
+45009022	~		Godumu way yalaku . Nyuluku baja wanjarrmanka bamanda . God kuli-kaday bamanka buyunku , nyulu jananda nyungu junkurr milbinka . Nyulu janangan bada-bada bayanga yunganka , yamba nyulu kariku yungal . Nyulu jananka waitmal . Juma nyulu yungalkuda .
+45009023	~		Nyulu manun-manunman nyunguwunku bamanka , and nyulu waitmalmal nyuluku milbijinka ngananda . Nyulu wawu ngana nyajinka nyulu ngulkurr bajaku , dayirr bajaku . Nyulu ngadiku nganangan wangkanin nyungu bamamanka . Juma nyulu ngananin nyunguwunbu bubungu dayirrba wundil .
+45009024	~		Nyulu nganangan wangkanin nyungu bamamanka . Ngana kanbal Jew-warra , kanbal kari , yamba ngana wubulku nyungukuda .
+45009030	~		Ngayu yinya kuku milkanga-bungal yurranda . Jana bama Gentile-warra , jana Jew-warra kari . Jakalbaku jana God kari nubin , ngulkurrmanka . Yamba juma jana kanbal ngulkurrman , jana janaku mambarrijinya Jesusanda , nyungundu milka-jananya .
+45009032	~		Jana Godumu way kari warrmba-bungan . Jana law wubulku wukurrinka , balu jana ngulkurrmal , jana junkayku bundanya . Yamba Godumu way yalaku : Kaki ngana ngulkurrmanka , ngana nganaku mambarrijika Jesusanda , nyungunduku milka-janay . Yinyamun God nganawunku buyun-buyunku milka-wulay . Jesus bubungu bundandan , jana Jew-warrangka kari believeim-bungan nyulu Godumu kangkal . Jana nyungun kari believeim-bungan , nyulu buyun-buyun kidanka . Jesus yala kulji jirray jananda . Jana jurrngajin , yala kulji nyungundu , jana nyungun warmbinya .
+45010006	Wanju		Godungku bamanga wawu ngulkurr-bungal , jana Jesus Christ believeim-bunganya , kari warmbinya . Yinyaynka ngana kari balka , “ Wanju wangkar dungay , Jesus Christ bada wundinka heavenmun ? ” Kari . Ngana binal , nyulu kadankuda .
+45010007	Wanju		Ngana yalarrku kari balka , “ Wanju bada-bada dungay , Jesus Christ wangkar-wangkar wundinka , juran-bunganka baja ? ” Kari . Ngana binal , nyulu yarkinmun juranmankuda .
+45010008	wanyu		Godundumundu kabanda wanyu balkal ? Nyunguwundu kabanda yalaku balkal ,
+45010014a	wanjarrku		Kari . Kaki bamangka Jesus kariku believeim-bungal , jana wanjarrku nyungun babajinka buyun-buyun kidanka ? Yamba-karibi ! 
+45010014b	wanjarrku		Kaki jana Godumu kuku kariku milkabu nyajil , jana wanjarrku nyungun believeim-bunganka ? Yamba-karibi ! 
+45010014c	wanjarrku		Kaki kanbalda Godumu kuku kariku yirrkay jananda , jana wanjarrku milkabu nyajil ? Yamba-karibi !
+45010015	~		Kaki Godungku bama kari yunganyaku kuku yirrkanka , jana nyungu kuku ngulkurr kari nyajinyaku . Yamba Godungku bama yungankuda , nyunguwundu kabanda balkanya ,
+45010016	~		Yamba bamangka wubulduku Godumu kuku ngulkurr kari believeim-bungan . Kari . Isaiahangka yalaman ,
+45011004	~		Yamba Godungku Elijahnda yalaman ,
+45011007	wanyu		Ngana wanyu balkal Jew-warranka ? Jana Godumu baral junkay nubin , yamba jana kari warrmba-bungan . Bamangka kulurubu warrmba-bungan , Godungku janangan wangkaninya . Yamba kanbal milka nandajin , Godumu kuku kari nyajinka .
+45011015	~		Jana Jew-warrangka God bayjanya , nyulu jananin bawan , Gentile-warranda jurrkijinda . Yinyaynka nyulu nyungu way bamanda Gentile-warranda milbin , nyungu bamamanka . Yamba juma jana Jew-warra Jesusanda jurrkiji . Yala-yala ngana wubulku wawurr-wawurrmalkuda . Yinya yala jana Jew-warra yarkinmun juranmal baja .
+45011018	~		Yamba yurra Gentile-warra kari bulmbuymaka . Kari balka , “ Ngana jarra ngulkurr Jew-warranka . ” Yurra dakil-dakilkuda . Kari milka-wulay , ngarabu mayi , and bana dakil-dakilba dakay-manil bubumun . Dakil-dakilda kari ngara ngulkurrduku kujil .
+45011033a	~		God jirray bajaku . Ngana binal kari wanjarrku nyulu milkabu wukurril . Nyulu wubulkuku binalkuda . 
+45011033b	~		Ngana nyunguwunku waymunku kari bajaku binalmal .
+45011034a	~		
+45011034b	~		
+45011035	Wanjungku		Wanjungku junjuy-junjuy Godundu dajil , nyulu dajinka baja ? Yamba-karikuda ! ”
+45014004	~		Kaki bama yinduynku workmaniji , yundu nyungun kari nyaka , nyajinka nyulu nguba ngulkurrku workmaniji , nguba kari . Yinya yunuku kari business . Nyunguwunbuku majamuku . Yundu yalarrku Godumu bama kari nyuya . Yunu kari business . Majamuku Godumuku . Godungkuku nyungun nyajil , nguba ngulkurr , nguba buyun . Godungkuku nyungun junkurrji-bungal , nyulu junkayku bundanka .
+45014010a	wanyurrinku		Yurra kanbalda wanyurrinku yindu Godumu bama nyuyal ? Kari yalaku nyuya . 
+45014010b	wanyurrinku		Yurra wanyurrinku yinduynku wawu kari ? Kari yalamaka . Godungkuku bama nyuya . Nyuluku binal , ngana nguba buyunku bundan , nguba junkayku bundan . Ngana wubulku juma jakalba Godundu janay , courtcasemunbu .
+46001020a	wanju		Bama dukul-ngulkurr wanju ? 
+46001020b	wanju		Bama wanju binal bajaku Godundumunku lawmunku ? 
+46001020c	wanjungku		Bamangka wanjungku law mumbarabuku balkal ? Kari . Bama yamba-kari . Godungkuku binal-bungal , jana dukul-ngulkurrungku karilu . Jana binal kari bajaku .
+46002011	~		Yindu bama binal kari wanyu bamandamunbu milkanga . Yinyaku bamaku binal . Bama yalarrku binal kari wanyu Godundumunbu milkanga . Godku binal , God , nyungu Wawu . Bula yala nyubunku .
+46002016a	~		
+46002016b	~		
+46003005a	~		Kuda nyulu Apollos maja ? 
+46003005b	~		Kuda ngayu Paul maja ? Kari . Ngalin nganga workingman Godumu , nyungunku workmaniji . Ngalin yurranin binal-bunganya , yurra Godundu mambarrijin . Godungku nganya yungan nyungu work balkanka . Nyulu yalarrku Apollos yungan .
+46004007a	wanyurrinku		Yurra wanyurrinku balu jarra ngulkurr yindu-yinduynku ? Kari bajaku . 
+46004007b	Wanjungku		Wanjungku junjuy-junjuy wubulku balkan ? Godungkuku . Yala yurra mayi or yamba-yamba balkan ? Kari bajaku . Godungkuku . Nyuluku yurranda dajinkuda . 
+46004007c	wanyurrinku		Yala yurra wanyurrinku bulmbuymalmal ?
+46004021	wanjarrmal		Ngayu wanjarrmal ? Kaki yurra kari junkayku bundari , ngayu yurranin murru-kangal . Kaki yurra junkayku bundari , ngayu yurranin kari murru-kangal . Ngayu kuku manun-manunku balkalda . Ngayu wanjarrmal ? Yurraku baja .
+46005002	wanyurrinku		Yala yurra wanyurrinku bulmbuyman ? Yurra murru-kadanyaku . Yurra milka-bujarmanyaku yinyaynka buyun-buyunku . Yurra yinya dingkar yurrandamun kanga , yurranji kari murumanka baja .
+46005012	~		Jana bama Godunku binal kari , ngayu jananin kari nyajinka nguba buyunmanya , nguba ngulkurrmanya . Jana ngayku kari business . Godumuku . Nyuluku jananin nyajilkuda . Yamba yurra bama Christian-Christian , yurra nyajiwaka , yindu-yindu nyajinka nguba jana buyunmanya , nguba jana ngulkurrmanya . Godumu kuku yalaku :
+46006001	~		Kaki Christian yindu buyunmal yununku , nyungun kari courtcasemunbu wundi , nyuyanka . Nyulu judge nguba binal kari Godunku . Yinya Christian wundi Godundumunbu bamanda , janaku yubalin helpim-bunganka , jawun-jawunku bundanka baja .
+46006003	wanyurrinku		Yala yurra wanyurrinku yurranga kuli kari kunbay-manil ? Yinya work jarra buban .	
+46006004	~		Kaki yurra Christian-Christian kuli-kuliku bundari , kari nyuyawaka courtcasemunbu jakalba bamanda Christian-karinda , nyulu balkanka .
+46006007a	~		Yinya buyun , nyuyawanka courtcasemunku . Yinya kari Godumu way . Balu jana kuli daya yurranda . 
+46006007b	~		Balu jana ngaki yurrandamun .
+46006009	~		Yurra binal ! Kaki bama wuljaljiku buyunku bundari , jana kari Godundumunbu bubungu dungari . Godungku jananin kari ngulkurrduku kujil . Nyaka . Nganya kari warmbi . Kanbal bama buyunku bundarinya . Kanbal ngurma mulkaynji maninya , balu God . Kanbal kalngar-baka . Kanbal dingkar yinduynji dingkaranji wunanya , yala manyarranji .
+46006016	~		Nyaka . Kaki bama jalbunji kalngaranji wunay , bula yala nyubunmal . Godumu kuku yalaku :
+46006019	~		Nyaka . Godumu Wawu dayirr yurrawunbu dukurrbu bundayarrku . Godungku nyungu Wawu yurranda walay-manin . Yurranga bangkarr yala bayan Godundumunbu Wawungu . Godungku yurranin buy-im-bungan . Nyulu Jesus dajin yurranin buy-im-bunganka . Yurra nyungukuda , yurrangaku kari . Yinyaynka yurra junkayku bundarinka , God buyay-maninka .
+46007016a	~		Yurra Christian-Christian manyarr-karra , kaki yurra dunyunji Christian-karinji junkayku bunday , nyulu nguba Godundu mambarriji , yurra junkayku bundanya . 
+46007016b	~		Yurra Christian-Christian dunyu-karra , kaki yurra manyarranji Christian-karinji junkayku bunday , nyulu nguba Godundu mambarriji , yurra junkayku bundanya .
+46009007a	~		Nyaka . Kaki dingkar-dingkar mabarrba dungari , jana money kari wundil mayika . Governmentangkaku jananda mayi dajil . Kaki bamangka mayi gardenba jaba-jaba-bungal , nyulu kanbal yinya mayi nukalkuda . Kanbalda bamangka bulki ngulkurrduku kujil , milki maninka bulkindamun . Jana kanbal milki nukalkuda . Bama Christian-Christian yalaku wambajinka bamanda Godumu work balkanya .
+46009007b	~		
+46009007c	~		
+46009018	~		Yala ngayku pay ? Ngayu wawu-daraynda , yinya ngayku paykuda . Ngayu kuku ngulkurr balkal moneyka kari . Ngayu moneyka kari babaji kuku ngulkurr balkanya . Yinyaynka ngayu wawu-daray , wawurr-wawurrmaniji . Yinya ngayku pay .
+46010019a	wanyurrinku		Ngayu wanyurrinku yurranda balkan junjuy ngurma idol bawanka ? 
+46010019b	~		Kanbal balu junjuy ngurma idol juran , yamba juran kari . 
+46010019c	~		Kanbalda balu ngulkurr minya dajinka yinyanda junjuymbu . Kari . Yinya ngulkurr kari , buyun .
+46010029	~		Nyulu balu yundu buyunmal , nukanya . Yinyaynka yundu kari nuka , nyungunku . Yinya Christian nguba kariku ngulkurrku binalman Godunku . Yundu nukal , yinyamun nyulu nguba yalarrku nukanka .
+46010030	~		Kaki ngayu God minyaka thankim-bungal , bamangka nganya kari nyuya , yinya minya nukanya . ” Yundu nguba yala balkal .
+46011022	~		Yurra wadu-wadu , buyunman . Kaki yurra yalaku bunday , yindu-yindu bayjanya , ngayu yurranin kari buyay-manil , kari wawurr-wawurrmaniji yurranka . Yurra mayinga nukajika yurrawunbuku bayanba . Wawumaka Godundumunku bamanka yindu-yinduynku , jananga mayi wambajika , mayi-karinga . Kaki jana mayi-kariku bunday , jana murru-kadanji .
+46012017a	~		Bama nguba milka kari , nguba mara kari , nguba jina kari . Nguba miyiljiku bunday . Kaki miyiljiku bunday , nyulu kari milkabu nyajil , milka-karibu . Nyulu nguba milkajiku , jina kari , mara kari , bujil kari . Kaki nyulu milkajiku bunday , nyulu kari nyumal , bujil-karibu .
+46012017b	~		
+46012019	~		Bama nguba miyiljiku bunday , jina kari , mara kari , milka kari , bujil kari , yalaku . Nyubunku miyilku , bangkarr kari , miyilku .
+46014006	~		Kaki ngayu balkal kukubu walu-yinduynju , God buyay-maninka , ngayu yurranin kari helpim-bungal junkurr-jananka . Yurra yinyaynka kukuku binal kari . Kaki ngayu yurranin junkurrji-bunganka , ngayu yurranda yurrawundu kukubu mumbarabuku balkal Godumu kuku . Kaki ngayu Godundumunku kukuku ngulkurrduku binal-bungal , yurra junkurrjimalda .
+46014007	~		Yinya yala bamangka guitar balkal . Kaki bama guitarka binal kari , nyulu buyun-buyun guitar balkal . Bama yindu-yindu nguba badinka guitarji . Yamba jana binal kari wanyu song nyulu balkal , nyulu buyun-buyun balkanya .
+46014008	~		Soldier-soldier nguba mabarrba dungarinka . Janawundu majangka horn yaykarrdaku balkal , jananin kunjanka mabarrka . Kaki nyulu kari mumbarabuku balkal , jana kari readymal , mabarrba dunganka .
+46014009	~		Yinya yala bamangka kukubu yinduynju balkal , God buyay-maninka . Bamangka nyajil , yamba binal kari yinyaynka kukuku . Yinya kuku milkanga kari walal , kunbaykuda .
+46014015	wanjarrmalda		Ngayu wanjarrmalda ? Ngayu Godunji balkaway kukubu walu-yinduynju . Ngayu yalarrku nyungunji balkaway kukubu ngaykuwundu ngaykuwunmun dukulmun . Ngayu Godunku wulngku badi kukubu walu-yinduynju . Ngayu yalarrku wulngku badi ngaykuwundu kukubu , ngayu binalmanka .
+46014016	~		Kaki yundu kukubu walu-yinduynju God buyay-manil , bamangka yinduynju can't yununji God buyay-manil , nyulu yinyaynka kukuku binal kari . Bamangka yinduynju can't yununji God thankim-bungal , nyulu yinyaynka kukuku binal kari .
+46014026	~		Yala , yurra murumari meetingmanka , helpim-bungawaka , junkurrji-bungawaka . Nyubun wulngku badi Godunku . Yinduynju Godundumunku kukuku binal-bunga . Godungku yinduymbu kuku dajil , kanbalba balkanka . Yinduynju kukubu walu-yinduynju balka , God buyay-maninka . Yinduynju yinya kuku milkanga-bunga kanbalba . Yinyamundu yurra wubulku junkurrji-bungawaka .
+46014036	~		Yurra nguba balu yurrangarr jakalbamunku Godumu kuku balkan . Balu nyungu kuku yurrandaku kadan . Kari . Yala kari .
+46015012	Wanyurrinku		Nganjin yurranda balkan , Godungku Christ juran-bungan baja yarkinmun . Yamba yurra kanbalda wadu-wadu balkal-balkal Godungku bama kari juran-bungal baja . Wanyurrinku yurra yala balkal ?
+46015029a	~		
+46015029b	~		Yala bama banabu dukul-damajin jawunyunku wulanya ? 
+46015029c	~		Jananga jawun wulanjiku , kari banabu dukul-damajin . Yinyaynka jana banabu dukul-damajin jawunyunku . Kaki bama kari juranmanyaku , jana wumbaku banabu dukul-damajinyaku .
+46015030a	~		
+46015030b	~		Yala ngayu ? Jana kuli-bakangka nganya yarkinkaku kuninka , ngayu Jesusamu kuku balkanya . Bama kari juranmanyaku , ngayu kari Jesusamu kuku balkanyaku .
+46015032	~		Ngayu townbuku Ephesusku , jana kuli jirray ngaykundu dajin . Jana kulijikuda . Yamba bama kari juranmanyaku , ngayu jananka kuli-bakanka wumbaku junkurr-jananyaku . Bama kari juranmanyaku , ngayu janangan kuli-baka kari munabuku binal-bunganyaku . Bamangka kanbalda wunkunyunku kari milkabu wukurril . Jana God bayjal , janaku milkabu wukurril . Jana yala balkal , “ Ngana mayi jirray nukalda , kamu-kamu-bakamalda . Ngana juma wulayda , kunbayarrkukuda . ”
+46015035a	wanjarr		Bamangka nyubunyinja nguba warmbil , nyulu nguba babaji , “ Godungku wanjarr bama juran-bungal yarkinmun ? 
+46015035b	wanjarr		Wawu juranmanyamun , bama bangkarr wanjarr nyajiji ? ”
+46015055a	~		Jana karida yinyilmal baja wularinka . Bama kari wulari baja , wuljaljiku juranku bundari , wawurr-wawurrku . ”
+46015055b	~		
+47002002	wanjungku		Kaki ngayu yurranin milka-bujar-bungal , wanjungku baja nganya wawurr-wawurr-bungal baja ? Yamba-kari ! Kaki ngayu yurranin milka-bujar-bungal , yurra nganya kari wawurr-wawurr-bungal baja .
+47002016	Wanyangka		Bama kanbal yinyaynka kukuku Jesusanka wawu . Jana wuljaljiku Godunji bundaykuda , wangkar-wangkar . Yamba kanbal yinyaynka kukuku wawu kari . Yinyaynka jana wulay , bada-bada bayanga walalkuda . Godungku ngananda yinya work dajin , bamanda nyungunku balkanka . Wanyangka yinya work balkal nyunguwunduku junkurrdu ? Yamba-kari . Godungkuku ngananga junkurr dajil-dajil , nyungu work balkanka .
+47003008	~		Yuwu , yinya mukul kuku ngulkurr . Yamba bama binal kari ngulkurrduku wukurrinka . Yinyaynka jana wularinkuda . Kari . Godumu jirakal kuku ngulkurr bajaku . Kaki bama nyuluku Godundu dajiji , Godungku nyungu Wawu yinyayanda bamanda yungal , walanka . Nyulu yinyayandamunbu bamanga wawu dayirr-bungalkuda , juran-bungalkuda . Godumu kuku jirakal ngulkurr bajaku kukuku mukulku .
+47003009	~		
+47006014a	~		Kari kunamaka bamanji Godunku wawu kari . Bama ngulkurr can't wawumal bamanji buyunyunji . Godumu bama yala light ; Dubumu bama yala nguwul-nguwul . Light , and nguwul-nguwul kari bajaku kunamal . Godumu bama , and Dubumu bama yalarrku kari bajaku kunamal .
+47006014b	~		
+47006015a	~		Jesus Christ kari wawumal Dubunji . 
+47006015b	~		Godumu bama kari wawumal Dubundumunji bamanji . Bulanga dukurr walu-yindu .
+47006016	~		Ngana Godundumunbu bayanba churchmunbu dungay , Godku buyay-maninka . Ngana yinyaymba ngurma idol kari buyay-manil . Godku . Ngana Godumu bama yala Godumu bayan . Nyungu Wawu nganandamunbu wawungu bundanday , ngananga bangkarr nyungukuda bayankuda . Nyulu God wuljaljiku juranku bunday . Godumu kuku yalaku :
+47011011	~		Yinyaynka yurra nguba balu nyajin ngayu yurranka wawu kari . Kari . God binal ngayu yurranka wawu jirray .
+47011029a	~		Godumu bama nyubun nguba yinyilmal , kari Godundumunjiku junkurrjiku bunday . Ngayu nyungunku jiba-badi , nyungun helpim-bunganka , nyulu junkurr maninka baja Godundumun . Kaki nyubun bama Dubundu milka-janay , ngayu milka-bujarmal , nyungunku badi .
+47011029b	~		
+47012013	~		Nganjin yurranin ngulkurrduku binal-bungan , yala nganjin bama kanbal binal-bungan bubungu yindu-yinduymbu . Kari . Ngayu yurranda moneyka kari babajin . Yurranda nguba milkanga kadan , “ Jana Paulungku ngananda yalarrku moneyka babajinyaku . ” Kaki yurranda milkanga kaday ngayu yinyamundu yurranka buyunman , milka-wulayda yinyaynka buyunku . Jawun-jawunmaka baja ngaykunji .
+47012017	wanjarr		Ngayu wanjarr yurranin jurril-bungan ? Yamba-karibi ! Ngayu jananin kukuji yungankuda . Yurra nguba balu nyajin ngayu jananin yunganya , yurranin jurril-bunganka . Yamba-karibi !
+48002014	~		Ngayu nyajin jana Godumu kuku kari junkaynjaku wukurrinya , ngayu Peter nyuyan jakalba jananda wubulbuku . Ngayu nyungundu yalaman , “ Yundu bama Jew , yamba yundu yala bama Gentile . Yundu Gentile-warramu mayi nukan , bundan yala janaku . Kaki yundu yalaku bundanday , yundu Gentile-warra kari mambarrika bundanka yala Jew-warra . Gentile-warrangka Jew-warramu law mukul kari wukurrika . ”
+48003001	Wanjungku		Yurra Galatia-warra , yurra yala bama kiru-kari . Wanjungku yurranin kiru-kari-bungan ? Ngadiku ngayu yurranin mumbarabuku binal-bungan Jesus Christanka . Yala-yala yurra mumbarku binalman nyulu jukungu wulan nganawunku buyun-buyunku .
+48003019	wanyurrinku		Kaki bama kari ngulkurrmal law wukurrinya , wanyurrinku Godungku Mosesanda law dajin ? Nyulu law dajin , bama binal-bunganka wanyu buyun , wanyu ngulkurr . God wawu bamangka law wukurrinka , yamba nyulu kari wuljaljiku dajil . Nyulu law dajin , bamangka wukurrinka , bama Abrahamandamun Jesus Christ kadanyamunku . Godungku yinya promise dajin nyungundu . Godungku law angel-angelanda dajin . Jana Mosesanda dajinda . Yinyamun Mosesangka bamanda dajin .
+48004009a	Wanyurrinku		Yurra kari God warrmba-bunganda . Godungku yurraninkulu warrmba-bungan . Wanyurrinku yurra jurrkijinkada jananda dubu-dubundu walu-yindu walu-yinduymbu ? Jana burdal , kari junkurrji . 
+48004009b	Wanyurrinku		Wanyurrinku yurra jananga slavemanka baja ?
+48004010	~		Yurra Jew-warrandamunbu churchmunbu dungay Saturdaymundurrku . Yurra Jew-warrandamunbu kunbungu , janawunbu meetingmunbu dungay kijanga yindu-yinduymbu , yearnga yindu-yinduymbu , yarbarrkaku . Yinyamundu yurra ngulkurrmanka Godundumunbu miyilba . Yamba Godungku bama kari ngulkurr-bungal , jana churchmunbu dunganya .
+48004015	Wanyurrinku		Ngadiku yurra wawurr-wawurrku bundarin . Wanyurrinku yurra kari wawurr-wawurrmal baja ? Yala-yala yurra ngaykunku manun-manunman , ngayku miyil buyunmanya . Ngayu binal yurra yurrangaku miyil ngaykundu dajinyaku , nganya helpim-bunganka .
+48004021	~		Yurra nganya nyaka ! Yurra kanbalda Jew-warramu law mukul wukurrinka . Yurra nyaka wanyu lawmundu balkal .
+48004030	wanyu		Yamba Godundumundu kabanda wanyu balkal ? Godungku yalaman Abrahamanda ,
+48005007a	wanjungku		Ngadiku yurra junkayku bundandan . Wanjungku yurrangan milka-bakan , 
+48005007b	~		Godumu kuku karida manubajabuku wukurrinka baja ?
+48005011	~		Kanbalda balkal , “ Nyulu Paulungku kuku balkal bama must yakajika and law wukurrika , ngulkurrmanka . ” Kari bajaku . Kaki ngayu yinya kuku balkanyaku , jana bamangka ngayku kari kuli dajinyaku baja . Kanbalda law wukurrinka , yamba jana Christalu wawu kari wukurrinka . Jana ngayku kuli dajil , ngayu kuku balkanya Jesus Christ jukungu walngkan , bama juran-bunganka .
+49004009	~		Ngayu yinya kuku Godundumun kabanmun mumbarabuku milkanga-bungalda . Nyungu bubu wangkar-wangkar , heaven . Nyulu wangkar-wangkarmun heavenmun bubungu kadan , yinyamun nyulu wangkar-wangkar dakan baja .
+50001018	~		Yamba yinya yalada . Ngayu wawurr-wawurrmal , bamangka Christamu kuku nyajinya . Kanbalda Christamu kuku nganjar-nganjardaku yirrkay ; kanbalda manubajabuku yirrkay . Yalada , ngayu wawurr-wawurrku bunday , ngayu binalmanya yurra Godunji balkawanya ngaykunku . Ngayu binal Jesusandamundu Wawubu nganya helpim-bungal , ngayu juma jailmun wandilkuda .
+50001021	~		Kaki ngayu juranku bunday , ngayu Jesusku wukurrinka . Kaki ngayu wulay , yinya yalada . Ngayu Jesusanjiku bundayda .
+51002020	wanyurrinku		Ngana yala wulan Christanji . Ngana bubuku karikuda , heavenankakuda . Dubu ngananga maja karikuda . Ngana dubu-dubundu karikuda milka-janay . Yala yurra wanyurrinku bunday yala bama bubuku ? Wanyurrinku law mukul wukurril ?
+52002019	wanyurrimbu		Nganjin wanyurrimbu yurranda kadarinka baja ? Yurra , Godumu bama yindu-yindu , yurranka nganjin wawurr-wawurrmaniji , yurra Jesusanda mambarrijinya , nganjinku yurranda balkanya Jesusanka . Maja Jesus bubungu kaday baja , nganjin yurranin milbilda . Yurra Dubundumun jurrkijin , nganjin yurranda Jesusanka balkanya . Bama yurranka binal , jana nganjinanda milka-janayda . Yuwu , nganjin yurranka wawurr-wawurrmanijikuda .
+52003009	~		Nganjin God thankim-bungalda yurranka . Nganjin nyungun thankim-bungal , nganjin wawurr-wawurrku bundanya yurranka . Godungkuku nganjinin wawurr-wawurr-bungal .
+54003005	~		Kaki pastorangka nyungu family , kangkal-kangkal murruji milka-janay-manil , nyulu yalarrku bama churchmunbu murruji milka-janay-manilda Godundu .
+54006007a	~		Ngana ngadiku balkajin , ngananga junjuy-junjuy yamba-kari . 
+54006007b	~		Ngana wulay , ngana junjuy-junjuy kari wundil baja .
+58001005	~		Godungku kangkalandaku balkan ,
+58001013	~		Godungku kari angel-angelanda yinya kuku balkan . Kangkalandaku . Nyulu kangkalandaku yalaman ,
+58001014	~		Yala angel-angel ? Jana yala wawu . Jana Godumu workingmen . Godungku jananin yungal , helpim-bunganka bama nyulu juran-bungal .
+58002003	~		Yala ngana ? Ngana yalarrku nyajin yinya kuku Godungku ngananga wawu juran-bunganka . Kaki ngana yinyamun kukumun jurrkiji , Godungku yalarrku ngananin punishim-bungalkuda . Ngana can't Godundumun ngakiji . Majangka Jesusangka jakalbaku yinya kuku ngulkurr balkan , yinyamun jana dingkar-dingkarangka Jesus nyajinyamundu ngananda balkan , “ Yinya kuku manubajakuda . ”
+58002006a	~		Godundumundu kabanda balkal ,
+58002006b	~		
+58003016	Wanjungku		Wanjungku Godumu kuku bawan ? Bamangka Moses wukurrin bubumun Egyptmun , yinyarrinyangka Godumu kuku bawankuda .
+58003017	wanjunku		God wanjunku 40-years kuli-kadan ? Yinyarrin buyunman , God yinyarrinyanka kuli-kadan 40-years . Jana wulaynda , bubungu jirrbu-jirrbungu .
+58003018	~		Godungku kuku junkurr-murubuku dajinda . Nyulu yalaman ,
+58006004	~		Bamangka nguba God bawalkuda , Godunku wawu-karimalkuda . Yinya bama Godundu kari jurrkiji baja . Nyulu jakalbaku Godunku binal , God ngulkurrman nyungunku . Godumu Wawu jakalbaku nyunguwunbu dukurrbu walan .
+58007011	~		Priest wubulku Levindamun kadarin , Moses , Aaron , priest kanbal . Godungku law Mosesanda dajin , Mosesangka bamanda Jew-warranda dajin . Jana priest-karrangka Jew-warra lawmunku binal-bungan , minya bamandamun Godundu dajin . Bama lawmunku binalman , yinyamun jana Godundu mambarrijinyaku . Lawmundu bamanga wawu juran-bunganyaku , yamba lawmundu kari juran-bungan . Yinyaynka Godungku Jesus yungan priestmanka yala Melchizedek , bama ngulkurr-bunganka .
+58009014	~		Yamba Jesusamu ngulkurr bajaku bulkindamunku mulaka . Jesus ngulkurr bajaku , kari buyunman . Godumu Wawu ngulkurr wuljaljiku juranku bundanday . Nyulu Jesusanda junkurr dajin , Jesus nyuluku Godundu dajijinka , Jesusangka nyunguku mula Godundu dajinka . Nyunguwundu mulabu ngananga wawu dayirr-bungal , buyun-buyun kidalarrkuda , ngana karida murru-kadanka baja buyun-buyunku ngana jakalbaku balkan . Nyulu ngananin dayirr-bungan , ngana junkayku bundanka , Godumu work balkanka . God wuljaljiku juranku bunday . Ngana karida jurrilku Christianku bunday baja . Kari . Ngana Christiankukuda bundayda .
+58010001	~		Jesus Christangka way jirakal wundin bamanda , jana ngulkurrku bundarinka . Nyulu kadan , bamanga wawu juran-bunganka , jana junkayku bundarinka , juma wuljaljiku nyungunji bundarinka . Jew-warrandamundu lawbu milbin Jesus juma kadanyamunku . Lawbu jananin binal-bungan Jesusandamunku waymunku ngulkurrku kadanyamunku . Jana lawmunku mukulku minya Godundu dajin , every year . Kaki bama Godundu kadanka , lawmundu mukuldu jananga wawu kari juran-bungan . Kari . Jana Jesusamu way jirakal wukurrika .
+58010029a	~		Yala yinya bama Godundumunku kangkalanka wawu kari ? 
+58010029b	~		Godungku nyungun yaykarr bajaku punishim-bungalarrkukuda , nyulu Jesusanka wawu-karimanya . Yinyangka bamangka nguba nyuluku balkal , “ Jesusamu mula buyun , bamanga wawu kari dayirr-bungal . ” Yamba nyulu wadu-wadu . Jesusangka nyungu mula dajin , Godungku yinya bamanga wawu dayirr-bunganka , yala nyulu ngadiku promiseim-bungan . Yinya bama buyun yalarrku wawu kari Godundumunku Wawuku . Yamba Godundumundu Wawubu Godumu bama ngulkurrduku kujil , ngulkurr dajil Godundumunbu bamanda . Yamba yinyangka bamangka buyundu Godumu Wawu yajarril , yukil . Kaki bama yalaku bunday , Godungku nyungun jirrayku punishim-bungal , yala kari bama ngadimunku . Nyulu jananin jarra buban punishim-bungal .
+58010029c	~		
+58010029d	~		
+58011032	~		Yala yindu-yinduynju God believeim-bungan ? Jana , Gideon , Barak , Samson , Jepthah , David , Samuel , yindu-yindu prophet-prophet wubulku , jana kuku Godundumun balkan kanbalba . Yamba ngayu time kari jananka kabanba balkanka .
+58012007	~		Kaki bamangka yununin warrngkay-manil , junkayku bunday . Munamaka . Godungku nyungun kari kanbil yunun warrngkay-maninka . Nyulu yinyamundu yunun junkay-bungankakuda . Nganjanangka kangkal punishim-bungal , binal-bunganka . Kaki yundu warrngkay , binalda Godungku yunun binal-bungan-bungal . Yundu nyungu kangkalkuda . Nyulu yununku wawu jirray bajaku .
+58012009	~		Nganawundu nganjan-karrangka ngananin punishim-bungan , junkay-bunganka . Ngana jananda milka-jananda . God ngananga nganjan heavenba . Ngana nyungundu must milka-janayarrkukuda . Ngana nyungu kuku wukurril , juma nyungunji wuljaljiku juranku bunday , nyunguwunbu bubungu .
+58012025	~		Yurra , mumbarmaka . Godungku kuku dajin-dajil ngananda , ngana nyungundu milka-janay . Ngadiku nyulu nyungu kuku dajin Mosesanda , Mosesangka kanbalba dajinka . Yamba jana kari milka-janan , wawu kari . Godungku jananin buyun-damankuda , jana nyungundumun can't ngakijin . Jesusangka Godumu kuku heavenmun ngananda wundin . Kaki ngana kari milka-janay , Godungku ngananin yalarrku buyun-damalkuda . Ngana kari bajaku nyungundumun ngakiji .
+58013006	~		Nyulu wuljaljiku ngananji . Yinyaynka ngana munamaka . Ngana yalamaka ,
+59002006	~		Yamba yurra poor-balanda buyun balkal , jananin murru-kaday-manil . Jana rich-bala yurranka kari ngulkurrmal . Kari . Jana yurranga kuli dajil , yurrangan courtcasemunbu wundil .
+59002014	~		Ngayku jawun-karra , nyaka . Bamangka nyubunyinja nguba yalamal , “ Ngayu Jesus Christ believeim-bungal . ” Yamba nyulu nguba Jesusamu kuku kari wukurril . Yala yinya bama ngulkurr Godundumunbu miyilba ? Kari . Yinya bama jurrilmalmal . Godungku nyungu wawu kari juran-bungal .
+59002016a	~		Nyulu nguba kiwaynjiku bunday , dakwuynjiku . Yamba yundu nguba nyungun kari helpim-bungal , nguba yalamal , “ Ngayu yunun yungalda . Godungku yunu kambi wumbul , and mayi dajil . ” 
+59002016b	~		Kaki yundu nyungu kambi , and mayi kari dajil , yundu ngulkurr kari Godundumunbu miyilba .
+59002018	~		Bamangka nyubunyinja nguba balkal , “ Ngayu Jesus believeim-bungal , yinya yalada , enoughkuda . ” Yinduynju yalamal , “ Yinya kari yalakuda , kari enoughkuda . Ngayu believeim-bungal , yalarrku wukurrilda . ” Yamba yanyu kuku manubajakuda , “ Kaki bamangka Jesus manubajabuku believeim-bungal , nyulu yalarrku wukurrilda . Kaki bamangka Jesus kari wukurril , nyulu kari bajaku believeim-bungal . Kaki bamangka Jesus wukurril , yinyamundu milbil nyulu manubajabuku believeim-bungal . ”
+59002021	wanjarrman		Milkabu wukurrika Abraham . Nyulu ngadimunku , ngana Jew-warra nyungundumun kadarin . Nyulu wanjarrman ngulkurrmanka Godundumunbu miyilba ? Nyulu Godumu kuku wukurrin . Godungku nyungundu yalaman , “ Yundu yunu kangkal Isaac ngayku daya , kuni . ” Abrahamangka Godumu kuku wukurrin . Yinyaynka nyulu kangkal manin , kuninka , Godumu dajinka . Yamba Godungku nyungun kirin baja . Nyulu Abrahamanda yalaman , “ Kari kuni . Ngayu binalda yundu nganya wukurrilarrku . ” Abrahamangka God wukurrinya , nyulu ngulkurrman Godundumunbu miyilba .
+59003013	~		Bama nyubun nguba dukul-ngulkurr , binal bajaku . Nyulu ngulkurrmaka yindu-yinduynku , junkayku bunday . Nyulu kari bulmbuymaka . Nyulu yinyakudabi bamanda milbil nyulu dukul-ngulkurr .
+59003017	~		Kari . Godumu way yala kari , walu-yindu . Nyulu bama binal-bungal , yinya bama walu-yindumalkuda . Godungku bamanda balkal ngulkurrmanka . Nyulu balkal jawun-jawunku bundanka , jankaku bundanka , yindu-yinduymbu milka-jananka . Nyulu balkal manun-manunmanka , kanbalanka ngulkurrmanka , helpim-bunganka . Nyulu balkal ngana nyungun junkaynjaku wukurrinka , kari bulu-duraymanka .
+59004001a	Wanyurrinku		Yurra wanyurrinku kurru-jindaway ? 
+59004001b	Wanyurrinku		Wanyurrinku murru-kangaway ? Yurra milkanga buyunjiku bundandari . Yurra yamba-yamba-baka , kuli-baka , money-baka , kalngar-baka . Yinyaynka yurra kari jawun-jawunku bundandari .
+59004012	~		Godungkuku bamanga law dajin . Godungkuku bama judgeim-bungal . Nyuluku courtcasemunbuda kuku dajil , nguba bayanga yungal , nguba heavenba wundil . Bamangka kari . Godungkuku . Yinyaynka yurra kari binda-dama .
+59004014	wanjarrmanka		Kari yalamaka . Yurra binal kari wunkun wanjarrmanka baja . Bama yala wurrbal . Wurrbal buban bunday , yamba-karimalda . Ngana bama yalarrku buban bunday , wulayda .
+60002020	~		Kaki yundu buyun balkal , jana yunu kuli dajilkuda . Godungku yunun kari buyay-manilda , yundu buyun balkanya . Yamba yundu nguba junkayku bundan , kari buyunman . Kaki jana yunu still kuli dajilda , and yundu kari kuli dajil baja , Godungku yunun buyay-manilda .
+60003013	~		Kaki yundu kajaka ngulkurrmanka , bamangka yunun kari buyun-damal .
+60004017	~		Time kadanda , Godungku bama wubulku courtcasemunbu wundinka buyun-buyunku . Nyulu nyungungurr bama jakalba courtcasemunbu wundil . Yamba jana bama Godumu kari , nyulu jananin yaykarrdaku punishim-bungal janawunku buyun-buyunku .
+60004018	~		Godundumundu kabanda balkal ,
+61003004	wanjabuda		Jana kuli-wuybarrdaku kuya-bungal , yalamal , “ Nyulu promiseim-bungan kadanka baja . Yala nyulu wanjabuda ? Ngananga nganjan-karra wulaynda , yamba nyulu kariku kadan . Nyulu kari kaday baja . Jiri , bubu , bana , wubulku wunanay yala ngadimunku . Nyulu kadanyaku , wubulku kari yalaku wunanyaku . Nyulu kari kaday baja . ”
+61003011	wanjarrku		Godungku wubulku bayabu buyun-damalarrku . Yala yurra wanjarrku bundayda ? Junkayku bundarika . Godunjiku milkanga bundarika . Godku wukurrika . Ngulkurrku bundarika , binalmanya Godungku wubulku wayjunku .
+62002022	Wanya		Wanya nyulu jurril-baka ? Nyulu jurril-bakangka yalamal , “ Jesus nyulu Christ kari , Godundumun kari . ” Yinyanguy bama Jesusanka wawu kari . Nyulu Nganjan God bawan , yalarrku nyulu Godumu kangkal bawan .
+62003012	Wanyurrinku		Ngana kari yalamaka yala Cain ngadimunku . Nyulu Dubumu kangkal , nyulu nyungu yabaju yarkinkaku kunin . Wanyurrinku nyulu nyungun kunin ? Nyulu yarbarrka buyun-daman , yamba nyungu yabaju ngulkurrku bundan . Yinyaynka nyulu nyungun kunin .
+62003017	~		Bama nyubun nguba rich-bala , money jirray . Nyulu nguba bama nyajil dakwuyku bundanya , mayi kari . Kaki rich-balangka yinya bama kari helpim-bungal , nyulu Godunku wawu kari . Kaki ngana yinduynku wawu kari , ngana yalarrku Godunku wawu kari .
+62004020	~		Kaki bamangka balkal , “ Ngayu Godunku wawu jirray , ” yamba nyulu yinduynku bamanka wawu kari , yinya bama jurrilmalmalkuda . Nyulu yindu bama miyilda nyajil , yamba nyulu nyungunku wawu kari . Nyulu balkal nyulu Godunku wawu jirray , yamba nyulu God kari miyilda nyajin . Kari . Yala kari . Kaki ngana yinduynku bamanka wawu kari , ngana yalarrku Godunku wawu kari .
+62005005	Wanju		Wanju junkurrji Dubunku ? Kaki bamangka balkal , “ Jesus , nyulu Godumukuda kangkal , ” yinya bama junkurrjimal Dubunku , nyulu yinya kuku believeim-bunganya .
+66005002	Wanju		Ngayu angel junkurrji nyajin yaykarrku babajinya , “ Wanju ngulkurr , karra dumbarrinka , kaban walnganka ? ”
+66006010a	wanja-wanja		Jana yaykarrku yirrkan , “ Ya , Maja God , yundu ngulkurr bajakukuda , manubajakuda , junkaykuda . Yundu wanja-wanja bama bubungu jajirril jakalba yunundu courtcasemunku ? 
+66006010b	wanja-wanja		Wanja-wanja jananin punishim-bungal , jana nganjinin yarkinkaku kuninya ? ”
+66006017	~		Time kadaynda , bula kuli-kadanka , nganjin buyun-damanya . Nganjin murruji munamal , yinyilmanya . ”
+66007013a	wanju		Nyubunyinja elderangka ngaykundu babajin , “ Jana bama kambiji bingajimunji wanju ? 
+66007013b	wanjamun		Jana wanjamun kadarin ? ”
+66013004a	wanju		Bamangka wubulduku yinya jarba buyay-maninda , nyulu yinya junjuy yala lion maja-bunganya . Jana yalarrku yinya lionnguy buyay-manin . Jana yalaman , “ Wanju yala nyulu ? Yamba-kari . 
+66013004b	Wanjungku		Wanjungku nyungun kangal ? Bamangka kari . Nyuluku majakuda . ”
+66015004a	~		Bama wubulku yununku yinyilmaka . Jana binalmal , yundu ngulkurr bajaku , junkurrji bajaku . Jana yununin buyay-mana . Yunduku junkaykuda . Bama wubulku kadari , bubumun yindu-yindumun . Jana kadari , yunun buyay-maninka , jana yunun nyajinya junkaynjaku balkanya . ”
+66015004b	~		
+66017007	wanyurrinku		Angelangka ngaykundu babajin , “ Yundu wanyurrinku kungkurr-kadan ? Ngayu yununin binal-bungal yinyaynka jalbunku , yinyaynka kulijinka dukulji 7-balajinka , hornmunji 10-balajinka . Yinya jalbu mukungu kulijinda . Yinya kuku jakalbaku muwul , yamba ngayu balkalda .
+66018018	~		Jana kubu nyajin dakanya yinyamun townmun , jana yalaman , “ Town yindu yala kari yala yanyu town yalbay . ”

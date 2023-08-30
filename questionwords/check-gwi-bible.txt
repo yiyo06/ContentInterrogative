@@ -1,0 +1,743 @@
+40002002	adaajii		Są' zhat dha'aii ąįį geenjit ch'agoahkat , “ Ąįį tr'iinin tsal , Jews nąįį eenjit King heelyaa goo'aii , vagoodlit adaajii ? Nijin East gwats'an khaneech'ii'ak dąį' va-są' tr'ąąh'in ts'ą' vats'a' khadigireheejyaa geenjit dzaa gwats'ą' tr'ahaajil t'igwii'in . ” ginyąą .
+40002004	Nijin		Herod , giinkhih kįh dilk'ii nąįį , ts'ą' Law eech'ǫąąhtan nąįį datthak khaihłan niinlii ts'ą' goovahkat , “ Nijin gwa'an Messiah vigweheelyaa goo'aii ? ” goovahnyąą .
+40003007	~		Nijin John , Pharisee ts'ą' Sadducee lęįį nąįį chųų goots'an tr'ahahtsyaa geenjit giits'ą' adaa gwąąh'in dąį' t'agovahnyąą , “ Gyųų ts'an deedhaa nąįį ! It'ee niighit kwaa Vit'eegwijyąhchy'aa vats'an khaiinjich'akhwaghit gwideetaa hohdaa nohthan ?
+40005013	~		“ Dzaa nankat dinjii nąįį datthak eenjit lisil k'it t'ohchy'aa ts'ą' nakhwat'injigaahchy'aa t'oonchy'aa . Ąįįts'ą' lisil vagwaandaii kwaa dhidlit ji' duuyeh chan hee vagwaandaii neerahtsii t'inchy'aa ts'ą' duuyeh chan hee vit'ineegwaachy'aa , ts'ą' oo'an tr'ahahtł'aa gwizhrįh , ts'ą' dinjii nąįį gwintł'oo giikat k'eeheedal .
+40005046	jaghaii		Juu neet'iindhan zhrįh eet'iindhan ji' , jaghaii Vit'eegwijyąhchy'aa geenjit nahah'aa ? Juu tax eenjit laraa oonjii nąįį gaa jyaa digii'in .
+40005047	jaghaii		Ąįįts'ą' nijyaa nąįį zhrįh ts'ą' inzii ji' , jaghaii Vit'eegwijyąhchy'aa geenjit nahah'aa ? Juu Vit'eegwijyąhchy'aa haandaii kwaa nąįį gaa jyaa digii'in . ”
+40006027	~		Nakhwatee gwa'an ch'ihłee niighyuk goiihndaii niindhan ts'ą' geenjit tr'igwidii ji' , duuyeh gwintsal niighyuk gwandaii adaatsii t'inchy'aa .
+40006028	jaghaii		“ Ąįįts'ą' jaghaii gwach'aa nahoozhyaa eenjit tr'agohdii ? Zhit gwanzhįh gwinzii vigweech'in nahshii nǫh'in . Ideenjit tr'agwagwah'in kwaa ts'ą' ideenjit chan gwach'aa gahtsii kwaa gooh'in ?
+40006031a	~		Nijin gwats'an , shih hoh'aa ts'ą' , 
+40006031b	~		chųų khwanjyaa ts'ą' nijin gwats'an gwach'aa nahoozhyaa , 
+40006031c	~		geenjit tr'agohdii shrǫ' .
+40007003	jaghaii		Ąįįts'ą' chan jaghaii , nachaa gwik'injiighit vindee zhit gał tsal dha'aii nah'in eenjit gwintł'oo ninjich'iindhat gwiizhit nindee zhit dachan choh dhihtin ąįį gwadrąįį ninjich'iindhat kwaa ?
+40007004	Nats'ahts'ą'		Nats'ahts'ą' nandee dachan choh dhitin gwiizhit nachaa gwik'injigwiighit zhit ‘ Ąįį gał tsal vindee dha'aii neenjit hoihchyaa ! ’ vahaiinjyaa ?
+40007009	~		Nakhwatee ch'iti' nilii ąįį vidinji' łųhchy'aa yahnyąą ji' duuyeh kii ( ghoo ) yantł'ah'ąįį t'inchy'aa !
+40007016a	~		Nats'ahts'ą' deegii'in gwik'iighai' gavaakhwandaii t'inchy'aa . Khoh duuyeh jak choh ( grapes ) vakat nahshii , ąįį gwik'it jak , 
+40007016b	~		Figs duuyeh khoh kat nahshii t'inchy'aa .
+40008026	Jaghaii		“ Jaghaii zhyaa noojat ? Deegwiłtł'oo zhyaa nakhwak'injigwiighit natsal ! ” gavahnyąą . Ndak needhikhin ts'ą' ahtr'aii nint'aii ts'ą' tit choo kwaii haa ts'ą' gwint'aii khaginkhee ts'ą' datthak tsinehdan nagwaanąįį .
+40008027	juu		Juu nąįį datthak gwintł'oo gwihil'ee t'iizhik ts'ą' gihilghaa haa jyaa t'inihłagaanyąą , “ Jii dinjii juu t'inchy'aa ? Ahtr'aii choh , ts'ą' tit choh kwaii gaa yik'eegwahthat ! ”
+40008029	deediinahah'yaa		Zhat gwagwahkhan , gwint'aii gazhral ts'ą' Jesus jyaa dagahnyąą , “ Vit'eegwijyąhchy'aa Vidinji' , deediinahah'yaa t'ini'in ? Diidrin gweheelyaa gwehkįį khaiinjidiich'ahahthat eenjit dzaa gwats'ą' hoiinzhii lee t'ini'in ? ” giiyahnyąą .
+40009004	Jaghaii		Gaa Jesus , nats'ahts'ą' ninjich'agadhat gavaandaii ts'ą' t'agavahnyąą . “ Jaghaii zhyaa tr'agwaanduu ninjich'ǫhthat ?
+40009005	jidii shrit		Jii jidii shrit ts'ąįį t'avarahaanjyaa ąįį ts'ąįį googwantrii kwaa , ‘ Natr'agwaanduu neenjit oo'an gwarahaadlii , ’ akwat ‘ Ndak nineenjii ts'ą' inkhaa ? ’
+40009011	jaghaii		Ts'ą' nijin Pharisee nąįį gwagwah'ya' dąį' Jesus vitsyaa nąįį jyaa dagahnyąą , “ Zhit nakhwageech'ǫąąhtan , jaghaii dinjii tax eenjit laraa oonjii nąįį ts'ą' dinjii vatr'agwaanduu gwanlii varahnyąą nąįį haa neech'a'aa t'ii'in ? ”
+40009014	jaghaii		Ąįįtł'ęę John , chųų gwats'an ąhtsii ąįį vitsyaa nąįį Jesus ts'ą' gahaajil ts'ą' giiyųąhkat , “ Diikhwan ts'ą' Pharisee nąįį haa khadigireheejyaa geenjit ch'ihłee adach'ara'aa kwaa , gwiizhit jaghaii nitsyaa nąįį jyaa t'igii'in kwaa ? ” giiyahnyąą .
+40009015	~		Jesus t'agoovahnyąą , “ Dinjii , tr'injaa haa nihłeegoorahchįį dąį' juu goovaach'ihee'aa nąįį tr'igwidii t'igiheechy'aa goovohnyąą ? Duuyeh jyaa t'igiinchy'aa gaakhwandaii , dinjii goonjik gavaa dhidii gwizhit jyaa digihee'yaa kwaa goo'aii . ”
+40010025	~		Juu geeraahtan , ąįį juu geeyųąąhtan k'it t'iheechy'aa geenjit gwitr'it t'agwah'in ji' geenjit shoo oolį' . Ąįįts'ą' juu slave nilii ąįį juu yats'ą' k'eedeegwaadhat k'it t'inchy'aa dhidlit ji' geenjit shoo oolį' . Juu yizhehk'aa gwats'ą' k'eedeegwaadhat Beelzebul ( Satan ) oozhii ji' , ąįį vizhehk'aa nąįį datthak gwandaa gwiizųų goovaagweheelyaa t'oonchy'aa . ”
+40011007	jidii		John vitsyaa nąįį neegeheenjyaa , gwiizhit Jesus , zhit juu yaa łeeljil nąįį John eegavaagwaandak , “ Nijin John nangwinjir gwa'an vats'a' hadhoojil dąį' jidii hǫǫh'yaa nohthan ? Dinjii vat'aii kwaa , tł'oo ts'ik ch'ihłak ahtr'aii tee yihichik k'it t'inchy'aa hǫǫh'yaa nohthan ?
+40011008	jidii		Zhat gwats'ą' khadhoojil dąį' jidii hǫǫh'yaa nohthan ? Dinjii gwach'aa nidiiltsį' nizįį naazhii hǫǫh'yaa nohthan ? Dinjii jyąhts'ą' nagwaazhii nąįį zhrįh King vizheh gwachoh gwizhit gwigwich'įį t'oonchy'aa .
+40011009	jidii		Shaagoondak , jidii hǫǫh'yaa nohthan ąįį nǫh'ya' ? Vit'eegwijyąhchy'aa Eenjit Ginkhii hǫǫh'yaa nohthan ? Aahą' , łyaa Vit'eegwijyąhchy'aa Eenjit Ginkhii hǫǫh'yaa nohthan akhai' Vit'eegwijyąhchy'aa Eenjit Ginkhii andaa hil'ee nilii ąįį nǫh'ya' .
+40011016	jidii		“ Juk gweendaa dzaa nankat gwich'in nąįį jidii k'it t'igiinchy'aa hihjyaa li' ? Tr'iinin tsal k'it nijin gwa'an dinjii gwanlii ch'oorookwat deek'it , gwa'an nihłaa nigiilzhii ts'ą' ch'izhii łeeljil nąįį ts'ą' gazhral ,
+40012011	~		Jesus t'agoovahnyąą , “ Nakhwatee dinjii ch'ihłak divii dii'įį akhai' ch'a'an gwachoh gwizhit t'aanaii ji' , Neegwaazhii Drin zhit gwanlii ji' gaa k'iizhak gwinzii oohiindal ts'ą' khaneehahchyaa lee t'inchy'aa ?
+40012026	~		Ąįį gwik'it Satan vineegoo'ee khaihłak gwanlii kwaa ts'ą' nihtee nihłigiighan ji' duuyeh niighyuk khaihłak gwanlii ts'ą' nihłaa shrahtee gwagwahahtsyaa ts'ą' an gweheelyaa t'oonchy'aa .
+40012027	juu		Beelzebul k'iighai' ch'anky'aa iizųų kwaii dinjii ts'an tr'ihłii dohnyąą ji' , nakhwatsyaa nąįį juu t'aih goots'an ąhtsii haa jyaa digii'in t'igii'in ? Deeshi'in ąįį gwik'it t'igii'in t'igii'in , ąįįts'ą' datthak ts'ą' gwiizųų t'akhwa'in nakhwagahąąnjyaa t'oonchy'aa .
+40012029	~		Ąįį gwik'it duuyeh dinjii ch'ihłak gaa dinjii vat'aii niint'aii gwanlii ąįį zheh nadakhaii ts'ą' yik'eiich'į' kwaii teegwąhjii t'inchy'aa , tr'ookit diiyahahchaa ts'ą' naghwaa yihee'aa , ąįįtł'ęę yizheh yik'eiich'į' datthak ooheendal t'inchy'aa .
+40012034	nats'ahts'ą'		Nakhwan ąįį gyųų choh k'it t'ohnyąą , nats'ahts'ą' tr'ǫǫnduu gwiizhit gwinzii gwanlii geegahohkhyaa ? Nakhwaghit haa nats'ahts'ą' gohkhii ąįįt'ee nakhwadrii zhit jyaa doonchy'aa geh'an jyąhts'ą' goohkhii t'ohnyąą .
+40012048a	juu dee		Jesus gwidiiginkhii , “ Juu dee 
+40012048b	~		shahan ts'ą' shachaa nąįį nilii ? ”
+40013010	jaghaii		Ąįįtł'ęę Jesus vitsyaa nąįį giits'ą' haajil ts'ą' giiyųąhkat , “ Nijin dinjii nąįį ts'ą' ginkhii dąį' jaghaii gwandak ąhtsii zhit geech'ǫąąhtan ? ” Giiyahnyąą .
+40013027	nats'ahts'ą'		Gwiizhit ąįį dinjii va-slaves nilii nąįį giits'ą' haajil ts'ą' t'igiiyahnyąą , ‘ Shik'eedeegwaadhat , gwanzhįh nizįį gwit'ehrinlii , gaa jii gwanzhįh iizųų nats'ahts'ą' gwitee t'iizhik t'inchy'aa ? ’
+40013054a	nijin		ts'ą' nijin dink'iindhat , gwits'ee hoozhii . Ts'ą' Jews tr'igiinkhii zheh gwizhit geegoovąąhtan , akhai' juu yiitth'ak nąįį gooveenjit łyaa geegwaroolii kwaa t'igwinyąą , “ Jii dinjii nijin gwats'an vigwizhi' gwanlii t'inyąą ? ” giiyahnyąą 
+40013054b	Nats'ahts'ą'		“ Nats'ahts'ą' gwigweech'in t'ii'in t'ii'in ? ” ginyąą .
+40013056	Nijin		Vijuu nąįį datthak dzaa gwigwich'įį lee t'iginchy'aa ? Nijin gwats'an jii gwigwee'in ts'ą' ginjik jiintsii kwaii datthak oonjik t'ii'in ? ” giiyahnyąą ts'ą' ,
+40014031	jaghaii		Zhat gwagwahkhan Jesus danli' k'iindaa t'inlik ts'ą' neeyahtsit ts'ą' t'inyąą , “ Łyaa nigwik'iinjigwiighit natsal , jaghaii zhyaa tr'adashoiinlii ? ” yahnyąą .
+40015002	Jaghaii		“ Jaghaii nitsyaa nąįį yeenii diitsii nąįį jidii eech'agwaahtan ąįį gwik'it t'igii'in kwaa ? Ch'igihee'aa gwehkįį diinanli' geech'arahtryaa , jaghaii gwik'it t'igii'in kwaa ? ”
+40015003	Jaghaii		Jesus t'agoovahnyąą , “ Jaghaii , Dęhtły'aa Choo zhit Vit'eegwijyąhchy'aa deenakhwahnyąą ąįį gwik'it t'akhwa'in kwaa gwiizhit yeenii nakhwatsįį nąįį jidii geenakhwagǫǫłtin ąįį gwik'it t'akhwa'in ?
+40015033	nijin		“ Dzaa nangwinjir gwa'an nijin shih lęįį goorahah'aa tr'ooheendal t'iinyąą ? ” Vitsyaa nąįį yahnyąą .
+40015034	daanchy'aa		“ Łųhchy'aa daanchy'aa khwa'įį ? ” Jesus gavahnyąą . “ Łųhchy'aa 7 ts'ą' łuk nitsya' chan tr'ii'įį . ” giiyahnyąą .
+40016008	Jaghaii		Jesus , deeginyąą gavaandaii ts'ą' t'agavahnyąą . “ Jaghaii zhyaa łųhchy'aa khwa'įį kwaa geenjit nihłaa gookhii ? Nakhwak'injigwiighit łahchy'aa nitsii kwaa t'agwarahnyąą !
+40016009	daanchy'aa		Nijin ji' gwik'eehoondal t'oonchy'aa ? Nijin dąį' nakhwandah łųh chy'aa 5 , dinjii 5,000 nąįį eenjit khadidhiizhuu nik'ee chan ganoondaii ? Tyah daanchy'aa zhat dąį' deedąą'ąį' dhohtsąįį ? ”
+40016010a	~		Dinjii 4000 nąįį łųhchy'aa 7 loaves aanchy'aa goovał'al ąįį yu' , 
+40016010b	daanchy'aa		zhat dąį' ch'ityah daanchy'aa deedąą'ąį' dhohtsąįį ?
+40016011	Nats'ahts'ą'		Nats'ahts'ą' chan łųhchy'aa eegiihkhii kwaa t'ihnyąą gaahahkhwandaii ? Pharisee ts'ą' Sadducee nąįį goołuh niituu ts'į' adak'ǫǫntii . ”
+40016013	juu		Nijin Jesus , ditsyaa nąįį haa ąįį Caesarea Philippi geeghaih gwa'an kwaiik'it gwachoo goodlii gwats'ą' gahaajil , dąį' ditsyaa nąįį oahkat , “ Dinjii nąįį juu Gwidinji' t'inchy'aa ginyąą ? ”
+40016015a	~		“ Nakhwan ąįį yu' ? 
+40016015b	juu		Juu t'ihchy'aa shoohnyąą ? ” gavahnyąą .
+40016026a	~		Dinjii jii nankat datthak ideenjit goonjik gaa viyinji' an dhidlit ji' ąįį dinjii nihk'it gaayiich'ahaahtsyaa shrǫǫ ? Łyaa duuyeh ! 
+40016026b	jidii		Akwat dinjii gweheendaii geenjit jidii gwantł'eehee'aa ?
+40017010	Jaghaii		Ąįįtł'ęę vitsyaa nąįį giiyųąhkat , “ Jaghaii Law eech'ǫąąhtan nąįį Elijah tr'ookit k'ineeheedik ginyąą t'iginyąą ? ”
+40017017a	Deegwąhkhyuk		Jesus ditsyaa nąįį jyaa dahnyąą , “ Łyaa gwik'iinjuhkhit kwaa ts'ą' gwiizųų t'oochy'aa łee it'ee nakhwaashandaii goodlit ! Deegwąhkhyuk zhyaa 
+40017017b	~		nakhwaa t'ihihchy'aa shoohnyąą ? Ąįį chyaatsal dzaa shats'ą' hohchįį ! ” Gavahnyąą .
+40017019	Jaghaii		Ąįįtł'ęę vitsyaa nąįį dinjii nąįį kwaa gwiizhit giiyųąhkat , “ Jaghaii khyų' ąįį ch'anky'aa iizųų kharahchįį t'oonchy'aa ? ” giiyahnyąą .
+40017025a	juu		“ Jyaa dihee'yaa gwizhrįh t'inchy'aa ! ” Peter gavahnyąą . Nijin Peter zheh nihdineezhii dąį' Jesus t'iiyahnyąą , “ Simon jii geenjit deeyiindhan , juu dzaa nankat kings nąįį ts'ą' tax ookwat t'oonchy'aa ? 
+40017025b	juu		Juu zhat gwich'įį nąįį akwat juu zhat gwich'įį kwaa nąįį ? ” yahnyąą .
+40018001	Juu shrit		Izhit dąį' Jesus vitsyaa nąįį giits'ą' haajil ts'ą' giiyųąhkat , “ Juu shrit Zheekat Gweegwinii'ee ch'andaa hil'ee t'oonchy'aa ? ” Giiyahnyąą .
+40018012	deehee'yaa		“ Jii dinjii divii 100 aanchy'aa dii'įį ts'ą' nijin ch'ihłak haa tr'agwąhdaii dąį' deehee'yaa shrǫǫ ohnyąą ? Zhit divii 99 kwaii akhahoonjyaa ts'ą' zhat taih khyųų gwa'an ch'aga'aa gwiizhit t'oołii heekhaa ts'ą' zhat gwa'an ąįį divii ch'ihłak vaatr'igweendaii kaheentyaa t'inchy'aa .
+40018021	deegwaanchy'aa		Ąįįtł'ęę Peter , Jesus ts'ą' niinzhii ts'ą' yuahkat , “ K'eegwaadhat , shachaa shats'ą' tr'agwaanduu t'ii'in ji' deegwaanchy'aa veenjit gineehaaldee t'inchy'aa ? Nihk'iitik ants'ą' ch'ihłak gwagwaanchy'aa veenjit gineehaldee lee t'oonchy'aa ? ” yahnyąą .
+40019007	jaghaii		Pharisee nąįį jyaa t'igiiyahnyąą , “ Akwaa ji' jaghaii Moses dinjii nąįį law antł'eiin'ąįį , ąįį ch'akai' dęhtły'aa da'at antł'eehahchal ts'ą' t'ee va'at t'ohłii neeheedyaa gwahahtsyaa ? ”
+40019016	jidii		Ch'ihłan dąį' dinjii ch'ihłak , Jesus ts'ą' haazhii ts'ą' yuahkat , “ Geech'ǫąąhtan , gwandaii ndaanąą'ąį' kwaa shi'yaa geenjit jidii gwinzii t'ishi'yaa goo'aii ? ” yahnyąą .
+40019017	Jaghaii		“ Jaghaii jidii gwinzii ji' geenjit shǫąąhkat ? Vit'eegwijyąhchy'aa zhrįh nizįį t'oonchy'aa , gwandaii ndaanąą'ąį' kwaa zhit goiihndaii nindhan ji' Moses va-law kat deegwinyąą gwik'eegwahthat . ” Jesus yahnyąą .
+40019018	jidii		“ Moses va-law kat jidii shrik eeginkhii t'iinyąą ? ” dinjii yahnyąą . Jesus , t'iiyahnyąą , “ Dinjii ęhdaa tr'agoon'aa shrǫ' ! Nakąį' akwat na'at nilii kwaa haa oonchį' shrǫ' ! Ch'ooan'įį shrǫ' ! Ninee'ok dinjii nąįį eenjit oiints'it shrǫ' !
+40019020	deehishi'yaa		Ąįį dinjii t'iiyahnyąą , “ Jii datthak gwik'it t'ishi'ya' , ts'ą' geeghaih chan deehishi'yaa goo'aii ? ”
+40019025	juu dee		Nijin vitsyaa nąįį gwigwiitth'ak dąį' łyaa gwintł'oo gooveenjit nindal deegwidlii , ts'ą' t'iginyąą . “ Akwaa ji' juu dee neeheezhii diinyąą t'iinyąą ? ” giiyahnyąą .
+40019027	jidii		Ąįįtł'ęę Peter khagiinkhee , “ Dzaa gwąąh'in , jidii datthak akharoonyąą ts'ą' natąįį tr'ahaajil ts'ą' nitsyaa tr'aadlit . Diikhwan ąįį jidii tr'ihee'yaa ? ” yahnyąą .
+40020006	Jaghaii		Ąįįtł'ęę chan hee khaiinjii 5:00 o'clock nagwahaaghyii gwizhit oondaa neehoozhii akhai' ch'izhii dinjii nąįį zhyaa zhat gwa'an nigeelzhii goovah'in ts'ą' t'agavahnyąą , ‘ Jaghaii zhyaa drin datthak zhat gwa'an nadhoozhii ? ’
+40020012	~		Ts'ą' jyaa digiiyahnyąą , ‘ Jii dinjii nąįį one hour gwizhrįh tr'agwagwah'ya' gwiizhit diikhwan ąįį drin datthak shree nindhaa zhit tr'agwarah'ya' gwiizhit gook'it diigoinkwat ! ’ ginyąą .
+40020021	Deeyiindhan		“ Deeyiindhan , ” Jesus yahnyąą . Ch'ahan ąįį jyaa yahnyąą , “ Nijin Neegwinii'ee nihdeiinzhii ji' , shidinji' neekwaii nąįį neeghaii naa goodi' nihthan , ch'ihłak chan nishriits'ąįį heedyaa ts'ą' ch'izhii chan natł'ohts'ąįį heedyaa , jii łyaa gwik'it t'inihi'yaa gwizhrįh t'ihnyąą . ” yahnyąą .
+40020032	deesho'yaa		Jesus , ndaaniinzhii ts'ą' t'agavahnyąą , “ Aanaii , nakhweenjit deesho'yaa nohthan ? ”
+40021010	Juu		Nijin Jesus , Jerusalem nihdeiinzhii dąį' ąįį kwaiik'it gwachoo gwizhit gwich'in nąįį datthak łagalgaadaa gwiizhit deegwii'in gaagiindaii kwaa ts'ą' , “ Juu t'inchy'aa ? ” ginyąą .
+40021016	Deeginyąą		Jesus , ąįį jyaa dagahnyąą , “ Deeginyąą t'iginyąą nik'ee gaviintth'ak ? ” giiyahnyąą . Jesus t'agoovahnyąą , “ Łahchy'aa gwinzii gaviitth'ak t'igiinchy'aa ! Dęhtły'aa Choo zhit nik'ee gooh'in ? ‘ Nakhwan , ąįį tr'iinin nąįį ts'ą' tr'iinin tsal nąįį haa , gwinzii Vit'eegwijyąhchy'aa deenagahah'aa geenjit geegoovǫǫhtan . ’ ” goovahnyąą .
+40021020	deegwiłkhan		Nijin vitsyaa nąįį gwagwąąh'ya' dąį' deegiheenjyaa gaa gaagiindaii kwaa ts'ą' t'igiiyahnyąą , “ Zhit Fig vadachan deegwiłkhan chan traa daagąįį naanaii ? ” ginyąą .
+40021023a	dini'yaa		Ąįįtł'ęę Jesus Kharigidiinjii Zheh gwits'ee hoozhii ts'ą' geech'ǫąąhtan , akhai' giinkhih kįh dilk'ii nąįį ts'ą' Israel kįh dilk'ii nąįį haa giits'ą' haajil ts'ą' giiyųąhkat , “ Jii jyaa dini'yaa eenjit 
+40021023b	juu		juu t'aih nantł'eiin'ąįį t'ini'in ? ” giiyahnyąą .
+40021025a	nijin gwats'an		John chųų gwats'an hahtsyaa dąį' nijin gwats'an t'aih oonjik t'ii'in ? Vit'eegwijyąhchy'aa vats'an akwat dzaa nankat dinjii nąįį ts'an ? ” Deegiheenjyaa geenjit nihzheedagąąn'ee , 
+40021025b	~		“ Vit'eegwijyąhchy'aa vats'an t'aih di'įį gwinyąą ji' chan 
+40021025c	jaghaii		jaghaii John vik'injuhkhit kwaa diinahąąnjyaa t'inchy'aa . ” ginyąą .
+40021028	deenohthan		Jesus t'agoovahnyąą , “ Juk zhat jii geenjit deenohthan ? Ch'ihłan dinjii ch'ihłak vidinji' neekwaii gwanlii . Ch'oodee ąįįts'ą' haazhii ts'ą' t'ahnyąą , ‘ Shidinji' juk drin nijin jak choh tr'ąąhshii gwideek'it gwizhit tr'agwah'in . ’ yahnyąą .
+40021031	Juu		“ Juu shrit viti' deeyahnyąą gwik'it t'iizhit ? ” gavahnyąą . “ Ch'oodee ąįįt'ee gwik'it t'iizhik , ” giiyahnyąą . Ąįįts'ą' t'ee Jesus t'agavahnyąą , “ Łyaa nakhwaagwaldak t'ihnyąą , Prostitutes ąįįts'ą' tax eenjit laraa oonjii nilii nąįį Vit'eegwijyąhchy'aa Veegwinii'ee gwizhit nakhwehkii nihdeegiheedaa t'igiinchy'aa . “ David vidinji' neeshraahchy'aa diinoiinyaa ! ” ginyąą .
+40021040	deehee'yaa		“ Nijin jak choh deek'it gwats'ą' k'eedeegwaadhat oo'ee neezhįį ji' , deehee'yaa shrǫǫ nohthan ? ” nyąą ts'ą' Jesus goovoahkat .
+40022012	nats'ahts'ą'		‘ Shijyaa , nihłeegwarahchįį geenjit needeegwanzhii kwaa gwiizhit nats'ahts'ą' dzaa nihdeiinzhii ? ’ yahnyąą ts'ą' ( King ) k'eedeegwaadhat choo yuahkat . Gaa ąįį dinjii yidii ginkhii kwaa .
+40022017	jidii shrit		Diihaa gwandak , Caesar , Rome nahkat gwats'ą' k'eedeegwaadhat , vats'a' taxes tr'ookwat ji' dii-law inehts'į' t'igwii'in lee t'igwii'in ? Googwarahookwat kwaa akwat googwarahookwat , jidii shrit ? ”
+40022018	Jaghaii		Jesus ąįį giits'ą' gwiizųų t'igihee'yaa gwik'eegogwandaii goovaandaii ts'ą' t'inyąą , “ Gwik'injiighit adaa'įį nąįį ! Jaghaii gwiizųų t'ihihjyaa ji' geenjit , goodhaii nashahohthal gwik'eegǫhdaii ?
+40022020a	juu		ts'ą' goovahkat , “ Juu vinin ts'ą' voozhri' haa vakat dha'aii ? ”
+40022020b	~		
+40022028	juu		Nijin drin niindhat nąįį neegogwandaii neegahoodlit nigwiindhat ji' nihchaa 7 datthak neegiiyuunjik ts'ą' juu zhrįh va'at heelyaa t'inchy'aa , ” giiyahnyąą .
+40022036	jidii		“ Geech'ǫąąhtan , jidii Moses va-law zhrįh ch'andaa jiintsii t'oonchy'aa ? ” yahnyąą .
+40022042a	deeyųųhthan		“ Christ eenjit deeyųųhthan ? 
+40022042b	juu		Juu ts'an neezheeneedijii t'inchy'aa . ” yahnyąą . “ Yeenii King David vizhehk'aa gwats'an ahaa t'inchy'aa , ” giiyahnyąą .
+40022043	jaghaii		Jesus gavahkat , “ Akwaa ji' jaghaii , Ch'anky'aa Shroodiinyąą zhit King David Shik'eegwaadhat yahnyąą ? ” Dęhtły'aa Choo zhit David jii jyaa nyąą ,
+40022045	nats'ahts'ą'		King David , adan gaa Shik'eegwaadhat yahnyąą gwiizhit nats'ahts'ą' Christ ąįį yeenii David ts'an diheedhaa ? ” Jesus gavahnyąą .
+40023017	jidii shrit		Nakhwaa gweech'in kwaa ts'ą' tr'agǫhjik ky'aa tr'agwah'in , jidii shrit ch'andaa gwihil'ee , gold akwat Kharigidiinjii zheh ? Kharigidiinjii zheh t'ee gold izhit shroodiinyąą ąhtsii doonchy'aa ?
+40023019	jidii shrit		Deegwahtł'oo zhyaa nakhwaa gweech'in kwaa ! Jidii shrit ch'andaa veegoo'aii t'inchy'aa ? Zhit jidii ataiinjii tr'ahtsii deek'it kat doodlii Vit'eegwijyąhchy'aa gwantł'eerinlii akwat zhit altar ąįį jidii gwakat doodlii ąįį shroodiinyąą ąhtsii ?
+40023033	nats'ahts'ą'		“ Gyųų choh ǫhłįį ts'ą' gyųų choh gii chan ǫhłįį ts'ą' nats'ahts'ą' hell nihdeenakhwaraheelyaa , ąįį gehgoo hohdaa nohthan ? Duuyeh gwik'it gwanlii !
+40024003a	Nijin		Jesus , Taih Vakat Olives Nahshii kat dhidii gwiizhit vitsyaa nąįį gweentak giits'ą' haajil ts'ą' giiyųąhkat , “ Zhat nigwiindhat ji' , deegwehee'yaa ts'ą' deegweheenjyaa diinaa gwandak . Nijin neiindyaa ts'ą' ndaagwahąąn'ąį' gwats'ą' nahgwan ji' 
+40024003b	deegwehee'yaa		deegwehee'yaa gwarahąąh'yaa ? ”
+40024045	Juu		“ Juu yats'ą' k'eedeegwaadhat eenjit yitsyaa nilii t'ee vigwitr'it gwinzii ts'ą' chan goonzhįį ? Ąįį t'ee juu yats'ą' k'eedeegwaadhat ch'izhii ditsyaa nąįį k'eehahtyaa yahahtsyaa ts'ą' drin gwiteegwaanchy'aa zhat nineegwiidhak dąį' gooch'ahah'aa geenjit .
+40025037	nijin dąį'		“ Ts'ą' tee dinjii nąįį juu Vit'eegwijyąhchy'aa k'eegwahthat nąįį jii jyaa digiheenjyaa , ‘ K'eegwaadhat nijin dąį' nizhit gwiłts'ik naaraah'ya' ts'ą' nach'arah'al ? Akwat nijin dąį' chųų doiinlii gwizhit chųų nantł'eerinkaii ?
+40025038	nijin dąį'		Nijin dąį' aakin inlii naraah'ya' ts'ą' diizheh nihdeenaraahchįį , akwat nijin dąį' nagwach'aa kwaa ts'ą' gwach'aa nineeriinlii ?
+40025039	nijin dąį'		Nijin dąį' dhąhts'ik naraah'ya' ts'ą' nik'eeraahti' ? Ts'ą' chan nijin dąį' zheegwaazhrąįį dhindii gwizhit nineenidik ? ’
+40025044	nijin dąį'		Ąįįtł'ęę jii jyaa digiiyahaanjyaa , ‘ K'eegwaadhat nijin dąį' nizhit gwiłts'ik , ts'ą' chųų doiinlii , ts'ą' aakin inlii , ts'ą' nagwach'aa kwaa ts'ą' dhąhts'ik ts'ą' zheegwaazhrąįį dhindii dąį' naraah'ya' kwaa ts'ą' nits'igwiinyą' kwaa ? ’ giiyahaanjyaa .
+40026008	Jaghaii		Gaa nijin vitsyaa nąįį gwagwaah'in dąį' gook'įį goodlit , ts'ą' ch'agoahkat , “ Jaghaii zhyaa an yahtsii ? ginyąą .
+40026010	jaghaii		Jesus deeginyąą gavaandaii ts'ą' t'agavahnyąą , “ Jii tr'injaa jaghaii vaanagoh'ąįį ? Łyaa gwiinzii shats'ą' tr'agwah'in t'ii'in .
+40026015	jidii		Ts'ą' gavahkat , “ Jesus nakhwantł'ałchįį ji' , jidii shantł'eehoh'aa ? ” goovahnyąą . Laraa 30 dollars silver choh k'it t'inchy'aa giiyintł'inlii .
+40026017	nijin		Tr'ookit drin łųhchy'aa vitee łųh niituu tr'ihee'aa kwaa nigwiindhat dąį' , Jesus vitsyaa nąįį giits'ą' haajil ts'ą' giiyųąhkat , “ Passover ch'irehee'aa geenjit nijin tr'iilęįį gwarahahtsyaa ? ” giiyahnyąą .
+40026040	~		Ąįįtł'ęę ditsyaa tik nąįį ts'eehoozhii akhai' giłchųų łee ts'ą' Peter ąįį t'ahnyąą , “ Hour ch'ihłak gwizhrįh gwik'eehoohtyaa goo'aii gaa geenjit gohthan kwaa ? ”
+40026050	jaghaii		Jesus t'iiyahnyąą , “ Shijyaa , jaghaii dzaa dhindii ? ” Ąįįtł'ęę Jesus goonjik ts'ą' gwiint'aii giiyuutą' .
+40026054	nats'ahts'ą'		Gaa gwik'iighai' , nats'ahts'ą' Dęhtły'aa Choo zhit deegweheenjyaa gwinyąą ąįį gwik'it gweheelyaa . ”
+40026062a	jaghaii		Ndak khii giinkhih choh ndak nigiilzhii ts'ą' Jesus goots'ą' nadhat gwiizhit giiyųąhkat , “ Jaghaii jii dinjii nąįį gwiizųų neegigiinkhii gwiizhit 
+40026062b	jaghaii		jaghaii goodii ginkhii kwaa ? ”
+40026065	~		Jyaa nyąą geh'an ndak khii giinkhih choo dagwach'aa dats'an tr'ahch'aa ts'ą' jyaa nyąą , “ Vit'eegwijyąhchy'aa vinehts'į' ginkhii ! Dinjii nąįį tr'agwaanduu vigwitr'it gwanlii giheenjyaa t'eegwaahchy'aa kwaa ! Datthak ts'ą' Vit'eegwijyąhchy'aa vinehts'į' ginkhii dohtth'ak !
+40026066	Deereheelyaa		Deereheelyaa ? ” goovahnyąą . Ts'ą' giidii ginkhii , “ Vęhdaa tr'agǫh'ąįį ! ” ginyąą .
+40026068	juu		ts'ą' jyaa ginyąą , “ Christ , Vit'eegwijyąhchy'aa Eenjit Ginkhii inlii ji' , juu neełgwat diinaa gwaandak ! ” giiyahnyąą .
+40027004	Jaghaii		Ts'ą' t'inyąą , “ Tr'agwaanduu shizhit łee , dinjii vatr'agwaanduu gwakwaa ąįį vęhdaa tr'igwirehee'aa eenjit gwantł'ąhchįį łee , ” nyąą . “ Jaghaii , neenjit ninjich'ireheedhat ąįį nats'an t'oonchy'aa ! ” giiyahnyąą .
+40027013	~		Ts'ą' Pilate t'iiyahnyąą , “ Gwiizųų datthak neegigiinkhii , ąįį nik'ee gaviintth'ak ? ”
+40027017	Juu		Ąįįts'ą' nijin dinjii nąįį khaihłan niinjil dąį' Pilate gavahkat , “ Juu shrit chanoołchyaa shohnyąą , Barabbas akwat Jesus Christ oozhii ? ”
+40027021	Juu		Ąįįts'ą' t'ee Pilate ąįį zhat dinjii nąįį oahkat . “ Juu shrit nakhweenjit chanoołchyaa shohnyąą ? ” Gavahnyąą . Datthak ts'ą' “ Barabbas , ” ginyąą .
+40027022	deehihłyaa		“ Akwaa ji' Jesus , Messiah oozhii ąįį deehihłyaa ? ” Pilate , gavahnyąą ? “ Nihk'ataa'ee cross kat gohtsak ! ” datthak ginyąą .
+40027023a	~		Gaa Pilate gavahkat , 
+40027023b	jidii		“ Jidii tr'agwaanduu t'iizhik ? ” nyąą , googaa nihk'it datthak gwint'aii gazhral ts'ą' “ Nihk'ataa'ee cross kat gohtsak ! ” ginyąą .
+40027046	jaghaii		:00 gwa'an gweedhaa gwiizhit Jesus , azhral haa gwint'aii khashraa'iintrat , “ Eli Eli lema sabachthani ? ” Ąįįt'ee , “ Shivit'eegwijyąhchy'aa , Shivit'eegwijyąhchy'aa jaghaii akhashoiinyąą ! ” , gwinyąą t'igwinyąą .
+41001024	jidii		ts'ą' azhral ts'ą' jyaa nyąą , “ Jesus Nazareth kwaiik'it gwats'an inkhaa , jidii diinanh niindhan ? An diihahtsyaa lee t'ini'in ? Juu t'iinchy'aa naashandaii ! Vit'eegwijyąhchy'aa vats'an Shroodiinyąą t'iinchy'aa ! ”
+41001027	Nats'ahts'ą'		Dinjii nąįį datthak gooveenjit geegwaroolii kwaa t'igwiizhit ts'ą' nihłagwaakat ts'ą' t'iginyąą , “ Nats'ahts'ą' yeenjit ginjik di'įį t'inyąą ? Geech'arǫąąhtan k'eejit haa geech'ǫąąhtan lee t'ii'in ? Jii dinjii łyaa vat'aii gwanlii haa ch'anky'aa iizųų nąįį ts'ą' k'eedeegwaadhat ts'ą' giik'eegwahthat ! ” jyaa ginyąą .
+41002007a	Deenyąą		“ Deenyąą zhyaa Vit'eegwijyąhchy'aa inehts'į' jyąhts'ą' ginkhii t'inyąą ? Dinjii ch'ihłee gaa tr'agwaanduu oo'an gwihilii kwaa t'oonchy'aa ! 
+41002007b	~		Vit'eegwijyąhchy'aa zhrįh jyaa dii'in t'oonchy'aa . ”
+41002008	Jaghaii		Zhat gwagwahkhan Jesus deegiindhan gavaandaii ts'ą' t'agoovahnyąą , “ Jaghaii jyąhts'ą' geenjit ninjich'ǫhthat ?
+41002009	jidii shrit		“ Jii dinjii neehidik kwaa , ąįį t'avarahaanjyaa , jidii shrit gwagwantrii kwaa , ‘ Natr'agwaanduu neenjit oo'an gwarahaadlii , ’ akwat ‘ Ndak nininjii , ts'ą' nichyah noiinjii , ts'ą' inkhaa ? ’
+41002016	Jaghaii		“ Law eech'ǫąąhtan nąįį , ts'ą' Pharisee chan ginlii nąįį , nijin Jesus , tax eenjit laraa oonjii nąįį ts'ą' dinjii tr'agwaanduu googwitr'it gwanlii googahnyąą nąįį haa neech'a'aa googwah'in dąį' , giitsyaa nąįį oahkat , “ Jaghaii tax eenjit laraa oonjii nąįį ts'ą' dinjii vatr'agwaanduu gwanlii varahnyąą nąįį haa neech'a'aa t'ii'in ? ” googahnyąą .
+41002018	Jaghaii		Ch'ihłan gęhdaa gwandaa John chųų gwats'an ąhtsii vitsyaa nąįį ts'ą' Pharisee gootsyaa nąįį haa khadigiheejyaa geenjit ch'ihłee adach'agaa'aa kwaa . Dinjii lat nąįį Jesus gwaahkat , “ Jaghaii John vitsyaa nąįį ts'ą' Pharisee gootsyaa nąįį adach'agaa'aa kwaa gwagwahtsii gwiizhit nitsyaa nąįį jyaa digii'in kwaa ? ”
+41002019	~		Jesus t'agoovahnyąą , “ Dinjii , tr'injaa haa nihłeegoorahchįį dąį' juu goovaach'ihee'aa nąįį shih ehdan t'igiheechy'aa goovohnyąą ? Duuyeh jyaa t'igiinchy'aa gaakhwandaii , dinjii goonjik gavaa dhidii gwiizhit jyaa t'igihee'yaa kwaa goo'aii .
+41002024	~		Ąįįtł'ęę Pharisee nąįį Jesus jyaa dagahnyąą , “ Dzaa gwąąh'in ! Dii-law kat jyaa digwehee'yaa kwaa goo'aii gwinyąą ąįį gwiizhit nitsyaa nąįį Neegwaazhii Drin zhit jyaa digii'in ginyąą ! ”
+41003004	~		Ąįįtł'ęę Jesus dinjii nąįį oahkat , “ Dii-law Neegwaazhii Drin zhit deegwehee'yaa goo'aii gwinyąą ? Dinjii ts'igweheenjyaa akwat dinjii ts'arahahthaa , dinjii viheekwaa gwits'į' vits'igweheenjyaa akwat dinjii ęhdaa tr'igwirehee'aa ? ” Gaa k'eegwiichy'aa t'iginyąą kwaa .
+41003023	Nats'ahts'ą'		Ąįįts'ą' t'ee Jesus dinjii zhat łeeljil nąįį , aanaii gavahnyąą ts'ą' gwandak haa geegoovąąhtan , “ Nats'ahts'ą' Satan dinjii nąįį goozhit gwats'an Satan ch'anky'aa iizųų nąįį cheehahchyaa ?
+41003033a	juu dee		Ts'ą' t'agoovahnyąą , “ Juu dee shahan ts'ą' shachaa nąįį haa nilii ? ”
+41003033b	~		
+41004013	nats'ahts'ą'		Ąįįtł'ęę Jesus , goovaahkat , “ Jii gwandak ałtsii haa geech'ǫąąłtan deegwinyąą t'igwinyąą gaakhwandaii ? Nakwaa , ji' nats'ahts'ą' gwandak ałtsii eegwaldak kwaii deihnyąą t'ihnyąą gaahahkhwandaii ?
+41004030a	jidii		Jesus ch'oahkat , “ Vit'eegwijyąhchy'aa Veegwinii'ee jidii k'it t'oonchy'aa t'agwarahnyąą gweheenjyaa ? 
+41004030b	jidii		Jidii gwandak tr'ahtsii haa geegwarahaandak li' ?
+41004038	~		Gaa jyaa digwii'in gwiizhit , Jesus , tr'ihchoh tł'i' zhit , tsuh kat diki' dił'aii ts'ą' gwinzii dhichįį . Ts'ą' vitsyaa nąįį khakigiiyiin'ąįį ts'ą' t'igiiyahnyąą . “ Geech'ǫąąhtan , it'ee tr'ahahchyaa nagwaanąįį nik'ee diineenjit tr'igwiindii ? ”
+41004040a	~		Ąįįtł'ęę Jesus ditsyaa nąįį t'ahnyąą , “ Nakhwagwik'injigwiighit kwaa geh'an noojat t'akhwa'in ? ”
+41004040b	~		
+41004041	juu		Ts'ą' gwintł'oo gwihil'ee t'iizhik ts'ą' gihilghaa haa jyaa dinihłagaanyąą , “ Jii juu dinjii t'inchy'aa ? Ahtr'aii choh , ts'ą' tit choh kwaii gaa giik'eegwahthat ! ”
+41005007	deeshahah'yaa		ts'ą' gwint'aii azhral ts'ą' jyaa nyąą , “ Jesus , Vit'eegwijyąhchy'aa Jiintsii , Vidinji' inlii , deeshahah'yaa eenjit t'ini'in ? Vit'eegwijyąhchy'aa vik'iighai' nadach'ooshakwat t'inyąą khaiinjich'ashǫhthat shrǫ' ! ”
+41005009	doozhii		Jesus yuahkat , “ Noozhri' doozhii ? ” Ąįį dinjii yidii ginkhe' , “ Shoozhri' Legion ( niveet'ah'in lęįį ) oaazhii , it'ee shrit tr'iinlęįį ts'ąįį jyąhts'ą' diinoozhri' t'oonchy'aa ! ”
+41005030	Juu		Gwagwahkhan dinjii gwanlii tee Jesus vat'aii kwaa nagwaanąįį . Giky'aanjik gwagwahkhan łihts'eediil'ee ts'ą' ch'oahkat , “ Juu shagwach'aa kat naanjik ? ”
+41005031	juu		“ Dinjii neelin gwanlii gwiizhit jaghaii juu nakat naanjik , diinyąą ts'ą' ch'oahkat ? ” vitsyaa nąįį giiyahnyąą .
+41005035	Jaghaii		Tth'aii hee ginkhii gwiizhit , Jairus vizheh gwats'ąnh dinjii lat nąįį k'eegiidal ts'ą' Jairus jyaa agahnyąą , “ Nigii nich'it tsal ch'adąį' hee niindhat t'oonchy'aa . Jaghaii ąįį geech'ǫąąhtan vaandeegwiin'ąįį ? ”
+41005039a	jaghaii		ąįįts'ą' nijin nihdeiinzhii dąį' t'agavahnyąą , “ Jaghaii nakhwaa gwinzii goo'aii kwaa , 
+41005039b	~		ts'ą' ohtree ? Jii nich'it tsal niindhat kwaa gąą zhyaa dhichįį t'inchy'aa . ” gavahnyąą .
+41006002a	Nijin gwats'an		Nijin Neeraazhii Drin zhit nigwiindhat dąį' , Jews tr'igiinkhii zheh gwizhit geech'ǫąąhtan . Dinjii lęįį nąįį giiyiitth'ak dąį' , gooveenjit łyaa geegwaroolii kwaa t'igwinyąą ts'ą' t'iginyąą , “ Nijin gwats'an jii kwaii datthak goonjik t'inyąą ? 
+41006002b	jidii		Jidii gwizhįh dee vantł'eetr'in'ąįį t'inyąą ? 
+41006002c	Nats'ahts'ą'		Nats'ahts'ą' gwigweech'in t'ii'in t'ii'in ?
+41006022	Jidii		Herodias vigii nich'it nihdeiinzhii ts'ą' gooveenjit ch'ildzyaa . Herod ąįįts'ą' zhit juu gooveenjit ch'a'aa gwahtsii , datthak łyaa gwintł'oo shoo iłtsąįį , ts'ąįį King ąįį nich'it t'ahnyąą , “ Jidii shi'įį datthak tee jidii niindhan ? Jidii nindhan datthak nats'an hałtsyaa !
+41006024	Jidii		Ąįįts'ą' t'ee nich'it cheehoozhii ts'ą' dahan oahkat , “ Jidii geenjit ch'oohałkat ? ” dahan ahnyąą . “ Juk zhat John chųų gwats'an ąhtsii ąįį viki' , nihthan diinyąą ! ” vahan yahnyąą .
+41006037	~		“ Nakhwan nakhwakhai' jidii gihee'aa gavantł'ohtsit , ” Jesus , gavaiinyąą . “ Laraa 200 denarius agwahtsii łųhchy'aa tr'ooheekwat ts'ą' gooch'arahah'aa ? ” vitsyaa nąįį yahnyąą .
+41006038	daanchy'aa		“ Łųhchy'aa daanchy'aa khwa'įį ? Zhik gwa'an gooh'in . ” Jesus gavahnyąą . “ Łųhchy'aa ch'ihłoanli' ts'ą' łuk dhichy'aa neekwaii haa tr'ii'įį . ” giiyahnyąą .
+41007005	Jaghaii		“ Jaghaii nitsyaa nąįį , diitsii nąįį geech'agoahchya' , ąįį gwik'it t'igii'in kwaa daganli' shroodiinyąą gahahtsyaa geenjit k'eech'agahtryaa kwaa ? ” Pharisee , ąįįts'ą' Law eech'ǫąąhtan nąįį haa Jesus goahkat .
+41008004	nijin		Vitsyaa nąįį giiyųąhkat , “ Dzaa nangwinjir gwa'an nijin gwats'an shih tr'ooheendal ts'ą' jii dinjii lęįį nąįį gooch'arahah'aa ? ”
+41008005	daanchy'aa		“ Łųhchy'aa daanchy'aa akhwa'įį ? ” nyąą ts'ą' Jesus gavahkat . “ Łųhchy'aa 7 tr'ii'įį . ” giiyahnyąą .
+41008012	Jaghaii		Gaa Jesus , veenjit gitr'igwii'ee , haa gwint'aii khaazhee ts'ą' jyaa nyąą , “ Jaghaii zhyaa juk gweendaa dinjii ǫhłįį ts'ą' gwigwee'in gach'oohkat ? Nakhwaagwaldak , duuyeh jii dinjii ǫhłįį ts'ą' jyaa doonchy'aa nakhwats'ą' gwagwaałkįį t'oonchy'aa . ”
+41008017	Jaghaii		Jesus , deeginyąą gavaandaii ts'ą' gavaahkat , “ Jaghaii zhyaa łųhchy'aa tr'ii'įį kwaa eenjit nihłihtee gookhii ? Nik'ee juk deegwinyąą gaakhwandaii ? Zhyaa deegwahtł'oo nakhwayinji' neeshraahchy'aa ?
+41008018a	~		Nik'ee chan ganoondaii ? 
+41008018b	~		Nakhwandee gwanlii ji' nik'ee gooh'in ? Nakhwadzee gwanlii ji' nik'ee chan ch'ootth'ok ? ”
+41008019	daanchy'aa		“ Nijin łųhchy'aa 5 khandidhiizhuu dąį' dinjii 5,000 nąįį eenjit t'ishizhik łųhchy'aa tł'ootyah zhit daanchy'aa tr'ooniindhat ? ” “ Tł'ootyah 12 . ” giiyahnyąą .
+41008020	daanchy'aa		“ Ąįįts'ą' chan łųhchy'aa 7 , dinjii 4,000 eenjit khandidhiizhuu dąį' , tł'ootyah zhit daanchy'aa tr'ooniindhat ? ” Jesus gavahnyąą . “ Tł'ootyah 7 . ” giiyahnyąą .
+41008021	~		“ Gwiizhit tth'aii hee deegwinyąą t'igwinyąą gaakhwandaii kwaa ? ” gavahnyąą .
+41008023	~		Jesus , ąįį dinjii vandee kwaa anli' oonjik ts'ą' kwaiik'it geh'at gwa'an gwats'ą' yihiłchįį . Yindee kat haa zhrik ąįįtł'ęę Jesus danli' haa yindee kat naanjik . “ Nik'ee k'eegwiichy'aa gwąąh'in ? ” yahnyąą .
+41008027	juu		Ąįįtł'ęę Jesus , ts'ą' ditsyaa nąįį haa Caesarea Philippi kwaiik'it gwachoo gwa'an kwaiik'it gwatsal goodlii gwats'ą' gahaajil . Gwats'ą' geedaa gwiizhit gavahkat , “ Dinjii nąįį juu ihłii shagahnyąą ? ”
+41008029a	~		“ Nakhwan ąįį yu' ? 
+41008029b	juu		Juu ihłii shoonyąą ? ” nyąą , ts'ą' gavahkat . “ Christ inlii ! ” Peter yahnyąą .
+41008036	~		Dinjii nankat datthak ideenjit goonjik gaa viyinji' an dhidlit ji' ąįį dinjii nihk'it gwats'an gaayiigwahaahtsyaa shrǫǫ ? Łyaa duuyeh !
+41008037	jidii		Łyaa zhyaa , neegwihiindaii geenjit jidii datthak gwats'an ąhtsii ji' gaa duuyeh gwik'it neegwiindaii t'oonchy'aa .
+41009010	deenyąą t'inyąą		Gaa nihłihts'ą' geegiginkhii , ts'ą' nihłigwaakat , “ Ch'ichį' gaa neegwiindaii nyąą deenyąą t'inyąą ? ” Ąįįts'ą' deegavahnyąą gwik'it t'igiinchy'aa ts'ą' giik'eegwahthat .
+41009011	Jaghaii		Ąįįtł'ęę vitsyaa nąįį giiyųąhkat , “ Jaghaii Law eech'ǫąąhtan nąįį Elijah tr'ookit k'ineeheedik ginyąą t'iginyąą ? ”
+41009012	Jaghaii		Jyaa gavahnyąą , “ Elijah adan tr'ookit neeheedyaa t'oonchy'aa , datthak shrigweheelyaa ts'ą' tr'iilęįį nigwehee'aa t'inchy'aa . Jaghaii Dęhtły'aa Choh zhit Gwidinji' gwintł'oo khaiinjich'iheedhat ts'ą' giits'į' t'iheechy'aa ts'ą' gwadanakhwatł'oo gwinyąą ?
+41009016	jidii		“ Jidii eenjit nihzheedǫǫ'ee ? ” Jesus gavahkat .
+41009019a	Deegwąhkhyuk		Jesus ditsyaa nąįį jyaa dahnyąą , “ Łyaa nakhwagwik'injigwiighit kwaa łee shakhwandaii nahoihnyąą ! Deegwąhkhyuk zhyaa nakhwaa t'ihihchy'aa shoohnyąą ? Ąįį chyaatsal dzaa shats'ą' hohchįį ! ”
+41009019b	~		
+41009021	Deegwąhkhyuk		“ Deegwąhkhyuk jyaa dinchy'aa ? ” Jesus yiti' oahkat . “ Tr'iinin tsal , nilii dąį' gwats'an jyaa dinchy'aa t'inchy'aa .
+41009028	Jaghaii		Ąįįtł'ęę nijin Jesus zheh nihdeiinzhii dąį' , ąįį zhit gwizhit tthan goo'aii vitsyaa nąįį giiyųąhkat , “ Jaghaii diikhwan khyų' ch'anky'aa iizųų , kharahchįį ? ” giiyahnyąą .
+41009033	jidii		Capernaum kwaiik'it k'eegiidal , ts'ą' zheh nihdeegiinjil tł'ęę Jesus , ditsyaa nąįį oahkat , “ Nijin k'ii'ee tąįį gwinjik tr'eedaa dąį' , jidii eegoohkhii t'oohnyąą ? ” gavahnyąą .
+41009050	~		Lisil , shih kat deeranjal dąį' gwinzii vagwandaii gwik'it nakhwant'ee nakhwanee'ok dinjii nąįį ts'ą' ohtsii ts'ą' tsinehdan zhit nihłaa gǫhdaii . ”
+41010003	deekhwa'yaa		“ Moses va-law nakhwantł'eiin'ąįį zhit deekhwa'yaa nakhwarahnyąą ? ” nyąą ts'ą' Jesus gavaahkat .
+41010017	deeshi'yaa		Jesus gihłeehidii gwiizhik dinjii ch'ihłak yats'ą' naangik ts'ą' yats'ą' nikiigwiintthaii , ąįįtł'ęę yuahkat , “ Geech'ǫąąhtan nizįį inlii , gwandaii ndaanąą'ąį' kwaa shi'yaa geenjit deeshi'yaa goo'aii ? ” yahnyąą .
+41010018	Jaghaii		“ Jaghaii nizįį shaiinyąą ? ” Jesus yuahkat . “ Ch'ihłak gaa nizįį kwaa gaa Vit'eegwijyąhchy'aa zhrįh nizįį t'oonchy'aa .
+41010026	juu dee		Jyaa nyąą dąį' vitsyaa nąįį gwandaa gooveenjit geegwagoolii kwaa t'iinyąą , ąįįts'ą' t'inihłagaanyąą , “ Akwaa ji' juu dee neeheezhii ? ” ginyąą .
+41010036	deesho'ya'		“ Nakhweenjit deesho'ya' shohnyąą ? ” Jesus gavahkat .
+41010051	deesho'ya'		“ Neenjit deesho'ya' shǫįįnyąą ? ” Jesus , yahnyąą “ Geech'ǫąąhtan , chan hee gwał'in neeshooli' nihthan . ” yahnyąą .
+41011003	Jaghaii		‘ Jaghaii jii jyaa dakhwa'in ? ’ Nakhwarahnyąą ji' , ‘ K'eegwaadhat yat'ąąhchy'aa ts'ą' yat'ąąhchy'a' gwagwahkhan gwantł'ee neeyahahchyaa t'oonchy'aa . ’ vohnyąą . ”
+41011005	jaghaii		zhat gwa'an dinjii neiilzhii nąįį t'agoogahnyąą . “ Ąįį donkey gii tsal jaghaii danoh'at t'akhwa'in ? ” googahnyąą .
+41011028a	deeni'yaa		Ąįįts'ą' giiyųąhkat , “ Jii jyaa deeni'yaa geenjit 
+41011028b	juu		juu t'aih nantł'eiin'ąįį t'ini'in ? ” giiyahnyąą .
+41011030	~		Jii shaagoondak , nijin gwats'an John t'aih oonjik t'ii'in chųų gwats'an hahtsyaa geenjit . Vit'eegwijyąhchy'aa vats'an akwat dzaa nankat dinjii nąįį ts'an ? ”
+41011031a	~		Deegiheenjyaa li' geenjit nihzheedagąąn'ee , 
+41011031b	jaghaii		“ Vit'eegwijyąhchy'aa vats'an gwinyąą ji' chan jaghaii John vik'injuhkhit kwaa ? Diinahąąnjyaa t'inchy'aa . ” ginyąą .
+41012009	deehee'yaa		“ Ąįįtł'ęę gwanzhįh deek'it vats'an nilii ąįį deehee'yaa shrǫǫ nohthan ? ” Jesus gavahkat . “ K'iinaa heekhaa ts'ą' datthak goovęhdaa tr'igwihee'aa ts'ą' ch'izhii dinjii nąįį zhat nineeheelyaa t'oonchy'aa . ” giiyahnyąą .
+41012015	Jaghaii		Gaa Jesus goodhaii nideegiihaahkhii eenjit t'iginyąą goovaandaii ts'ą' t'agoovahnyąą , “ Jaghaii goodhaii nashoohohthal gwik'eegǫhdaii ? Laraa ghoo tsal shantł'oh'ąįį ts'ą' hooł'yaa . ”
+41012016a	juu		Ąįįts'ą' laraa ghoo giiyintł'eiin'ąįį , ts'ą' gavahkat , “ Juu vinin 
+41012016b	~		ts'ą' voozhri' haa vakat dha'aii ? ” “ Caesar vats'an t'inchy'aa , ” giiyahnyąą .
+41012023	juu		Nihchaa 7 nąįį datthak eendi' ts'ą' nijin drin zhit niindhat dąį' neegogwandaii neegahoodlit ji' , juu va'at heelyaa t'inchy'aa ? ” ginyąą ts'ą' giiyųąhkat .
+41012028	jidii		Jews Law eech'ǫąąhtan ch'ihłak zhat dhidii deegwinyąą gwiitth'ak . Jesus , Sadducee nąįį gwinzii goodii ginkhe' , gwah'in ts'ą' Jesus ts'ą' haazhii ts'ą' yuahkat , “ Dii-law tee jidii ch'andaa jiintsii t'oonchy'aa ? ” yahnyąą .
+41012035	deeginyąą		Jesus Kharigidiinjii Zheh gwizhit geech'ǫąąhtan gwiizhit ch'oahkat , “ Law eech'ǫąąhtan nąįį , yeenii King David vizheh k'ąą gwats'an Christ tr'iheehaa ginyąą deeginyąą t'iginyąą ?
+41012037	nats'ahts'ą'		King David adan gaa Shik'eegwaadhat yahnyąą , gwiizhit nats'ahts'ą' Christ ąįį yeenii David ts'an diheedhaa ? ” giiyahnyąą .
+41013004a	Nijin ji'		“ Zhat nigwiindhat ji' , deegwehee'yaa ts'ą' deegweheenjyaa diinaa gwandak . Nijin ji' jii kwaii datthak gwik'it gweheelyaa gwarahąąh'yaa ? ”
+41013004b	~		
+41014004	Jaghaii		Dinjii zhat dilk'ii nąįį lat shoh iłtsąįį kwaa ts'ą' t'inihłagaanyąą , “ Jaghaii jii gwanzhįh chų' gwinzii vagwaatsan zhyaa an ąhtsii ?
+41014006	jaghaii		Gaa Jesus jyaa nyąą , “ Vandeegoh'ąįį kwaa ! Łyaa gwinzii shats'ą' t'iizhik geenjit jaghaii vandeegoh'ąįį ?
+41014012	nijin		Tr'ookit drin łųhchy'aa vitee łųh niituu kwaa nigwiindhat dąį' , Jesus vitsyaa nąįį giits'ą' haajil ts'ą' giiyųąhkat , “ Passover ch'arehee'aa geenjit nijin tr'iilęįį gwarahahtsyaa ? ” giiyahnyąą .
+41014014	nijin		Jidii zheh gwizhit nihdeiinzhii , ąįį zhit gwizhit juu zheh gwats'ą' k'eedeegwaadhat ąįį jyaa vohnyąą . ‘ Geech'ǫąąhtan , jii jyaa dohnyąą diinahnyąą gwik'it t'anarahnyąą t'igwinyąą , ąįį nijin shitsyaa ąįįts'ą' shįį haa Passover ch'ara'aa gwarahahtsyaa deegwaajii ? ’
+41014060a	jaghaii		Ndak khii giinkhih choh ndak nigiilzhii ts'ą' Jesus goots'ą' nadhat gwiizhit giiyųąhkat , “ Jaghaii jii dinjii nąįį gwiizųų neegigiinkhii gwiizhit goodii ginkhii kwaa ? ” yahnyąą .
+41014060b	~		
+41014063	nats'ąą		Ndak khii giinkhih choo vik'įį gwanlii haa dagwach'aa adak'ach'iłch'aa , ts'ą' jyaa nyąą . “ Dinjii nąįį nats'ąą tr'agwaanduu t'ii'in yaandaii giiyeeginkhii gwit'eegwaahchy'aa kwaa !
+41014064	deehohjyaa		Vit'eegwijyąhchy'aa vinehts'į' ginkhii dohtth'ak ? Datthak ts'ą' geenjit deehohjyaa ? ” nyąą . Zhat dilk'ii nąįį datthak vęhdaa tr'agwaroo'aa giiyahnyąą .
+41015004	~		Ąįį geh'an Pilate , chan hee neeyuahkat , “ Nik'ee gwidii giihinkhyaa ? Łyaa gwinlęįį ninehts'į' giginkhii gwiintth'ak ! ” yahnyąą .
+41015012	deehihłyaa		Ts'ą' Pilate dinjii nąįį chan hee ts'ą' jyaa nyąą , “ Ąįį ji' yagha' Jews eenjit King nilii vohnyąą ąįį deehihłyaa ? ”
+41015014a	~		
+41015014b	jidii		“ Jidii tr'agwaanduu tr'agwah'ya' ? ” nyąą ts'ą' Pilate gavahkat . Googaa nihk'it gwandaa gazhral ts'ą' , “ Cross kat garahahtsak ąhtsii ! ” giiyahnyąą .
+41015034	jaghaii		:00 gwa'an gweedhaa gwiizhit , Jesus gwint'aii khashraa'iintrat , “ Eloi , Eloi , lama shabachthani ! ” ąįįt'ee , “ Shivit'eegwijyąhchy'aa , Shivit'eegwijyąhchy'aa , jaghaii akhashoiinyąą ? ” gwinyąą t'igwinyąą .
+41016003	Juu		Geedaa gwiizhit jyaa nihłagaanyąą , “ Juu tth'ank'it gwadąįį kii choh gindeiin'ąįį , diineenjit gihłeehee'aa t'oonchy'aa ? ” ( Łyaa kii nitsii t'agahnyąą ) Gwiizhit zhazhat k'iidak gwagwaah'in akhai' kii choh ch'adąį' hee gihłeerahaa'ąįį łee gwagwaah'in .
+42001018	nats'ąą		Zechariah ąįį zheekat gwich'in jyaa ahnyąą , “ Łyaa t'igwinyąą ji' nats'ąą gaashahandaii ? Shaghaii lęįį ts'ą' chan sha'at chan vaghaii lęįį . ”
+42001034	nats'ahts'ą'		Mary , zheekat gwich'in jyaa ahnyąą , “ Dinjii gaa haa dhiichįį kwaa gwiizhit nats'ahts'ą' t'agwaiinyąą ? ”
+42001043	Jaghaii		Jaghaii jii shats'ą' gwinzii t'igwiizhik , Shik'eegwaadhat vahan sheenihee t'igwii'in ?
+42001066	jidii		Juu gwiitth'ak nąįį datthak gininjich'agahthat ąįįtł'ęę ch'agoahkat , “ Jii tr'iinin jidii heelyaa t'inchy'aa ? ”
+42002048	deeni'in		Viyehghan nąįį nijin Dęhtły'aa Choh Gǫąąhtan nąįį haa giiyąh'in dąį' łyaa geegagoolii kwaa goots'an goodlit . Vahan t'iiyahnyąą , “ Shizhuu , deeni'in t'ini'in ? Niti' haa khyų' nankarantii dąį' łyaa tsineeroolii . ”
+42002049	Jaghaii		Akhai' t'agoovahnyąą , “ Jaghaii shinkeegoh'in ? Shiti' vizheh hihdyaa gaakhwandaii shrǫǫ nihthan ? ”
+42003007	~		Lęįį nąįį chųų goots'an gweheelyaa eenjit John ts'ą' gahaajil jyaa goovahnyąą , “ Gyųų choh ts'an deedhaa nąįį ! It'ee niighit kwaa Vit'eegwijyąhchy'aa vats'an khaiinjich'akhwaghit gwideetaa hohdaa nohthan ?
+42003010	deegwehee'yaa		Dinjii nąįį giiyųąhkat , “ Akwaa ji' , deegwehee'yaa ? ”
+42003012	deegwehee'yaa		Tax eenjit laraa oonjii nąįį chan chųų goots'an heelyaa eenjit giits'ą' haajil , ts'ą' giiyųąhkat , “ Geech'ǫąąhtan , deegwehee'yaa ? ” giiyahnyąą .
+42003014a	~		Niveet'ah'in lat nąįį chan giiyųąhkat , “ Diikhwan ąįį yu' , 
+42003014b	deegwehee'yaa		deegwehee'yaa t'oonchy'aa ? ” giiyahnyąą . “ Zhyaa dinjii ts'an laraa tr'ohłyaa shrǫ' , ąįįts'ą' geenjit kwaa zhyaa dinjii iizųų dohnyą' shrǫ' ! Jidii laraa ohtsii haa shoo ǫhłįį , ” goovahnyąą .
+42004034	jidii		“ Jesus Nazareth kwaiik'it gwats'an inkhaa , jidii diinanh niindhan ? An diihahtsyaa lee t'ini'in ? Juu t'iinchy'aa naashandaii ! Vit'eegwijyąhchy'aa vats'an Shroodiinyąą t'iinchy'aa ! ”
+42004036	Nats'ahts'ą'		Datthak gihilghaa ts'ą' t'inihłagaanyąą , “ Nats'ahts'ą' yeenjit ginjik di'įį t'inyąą ? Ch'anky'aa iizųų nąįį , gaa yik'eegwahthat ! ”
+42005021a	juu		Jii kwaii datthak geh'an ąįį Pharisee chan ts'ą' Law eech'ǫąąhtan nąįį haa jyaa dinihłagaanyąą , “ Jii juu dinjii nilii Vit'eegwijyąhchy'aa jyąhts'ą' hił'ee kwaa t'inyąą ? 
+42005021b	~		Dinjii ch'ihłak gaa duuyeh gwik'it t'ii'in gaa Vit'eegwijyąhchy'aa ji' gwizhrįh diitr'agwaanduu diineenjit oo'an gweheelyaa ! ”
+42005022	Jaghaii		Jesus jyaa deegiindhan goovandaii ts'ą' jyaa goovahnyąą , “ Jaghaii jyąhts'ą' geenjit ninjich'ǫhthat ?
+42005023	jidii shrit		Jidii shrit t'igwehee'yaa ąįį gogwantrii kwaa ? Dinjii atr'agwaanduu oo'an gwireheelyaa akwat dinjii k'ęhdik dhidlit shrineereheelyaa ?
+42005030	Jaghaii		Ąįį Pharisee chan ts'ą' Law eech'ǫąąhtan nąįį Jesus vitsyaa nąįį ts'ą' gitr'igii'ee haa googaahkat , “ Jaghaii nakhwan chan ts'ą' Jesus haa tax eenjit laraa oonjii nąįį ts'ą' zhit gwa'an dinjii vatr'agwaanduu gwanlii nąįį haa neech'oh'aa t'akhwa'in ? ”
+42005033	~		Jesus t'agahnyąą “ Zhit John gweedhaa datthak vitsyaa chan ts'ą' Pharisee gootsyaa nąįį haa adach'agaa'aa kwaa ts'ą' khadigigiinjii gaa nan nitsyaa nąįį adach'agaa'aa gwiizhit jak chų' chan giinįį . ”
+42005034	~		Jesus t'agoovahnyąą , “ Zhit juu goohaanjik zhat dhidii gwiizhit zhat vijyaa nąįį gooch'arahah'aa kwaa shrǫǫ niindhan ? Łyaa duuyeh !
+42006002	Jaghaii		Jesus vitsyaa nąįį gwanzhįh tł'oo li' gaajyaa . Pharisee nąįį googwąąh'in ts'ą' t'agoogahnyąą , “ Jaghaii juk drin tr'agoh'in ? Jyąhts'ą' gwik'injiriighit kwaa t'oonchy'aa . ”
+42006009	jidii shrit		“ Dęhtły'aa Choh zhit gwa'an nik'ee Neegwaazhii Drin gwizhit gwits'eediireen'yaa nik'ee geenjit gwadanakhwatł'oo ? Jidii shrit t'igwehee'yaa , dinjii ts'ireheenjyaa akwat ts'arahaatthaa ? Dinjii viheekwaa gwits'į' gadarahahchyaa akwat dinjii ęhdaa tr'igwirehee'aa ? ”
+42006032	jaghaii		“ Zhit juu dinjii neet'iindhan nąįį zhrįh eet'iindhan ji' , jaghaii geenjit narahah'aa ? Juu tr'agwaanduu tr'agwah'in nąįį gaa jyaa diginchy'aa .
+42006033	jaghaii		Ąįįts'ą' juu nats'ą' nizįį nąįį zhrįh ts'ą' inzii ji' , jaghaii geenjit narahah'aa ? Juu tr'agwaanduu tr'agwah'in nąįį gaa jyaa diginchy'aa .
+42006034	jaghaii		Ąįįts'ą' juu shineegwahahtsyaa oiinyąą nąįį zhrįh eech'idiintł'oo ji' , jaghaii geenjit narahah'aa ? Juu tr'agwaanduu tr'agwah'in nąįį gaa ch'izhii tr'agwaanduu tr'agwah'in nąįį eech'adagantł'oo dąį' , daanchy'aa gooveedagaantł'oo aanchy'aa shintł'ineeroo'aa giindhan .
+42006039	~		Ąįįts'ą' Jesus jii gwandak zhit geegoovąąhtan , “ Dinjii vandee kwaa duuyeh ch'izhii dinjii vandee kwaa nee'aa t'oonchy'aa . Jyaa diizhik ji' nihłaa ts'ą' nanzhit gweedii t'eegahaadhal t'oonchy'aa .
+42006041	Jaghaii		“ Jaghaii nachaa vandee zhit gał nah'in , gwiizhit nandee ąįį zhit traa eenjit k'eegwiichy'aa t'ini'in kwaa ?
+42006042	Nats'ąą		Nats'ąą nachaa jyaa vahaiinjyaa , ‘ Shachaa , nandee zhit gałgihłeehoihchyaa , ’ diinyąą gwiizhit nandee zhit traa ąįį nah'in kwaa . Dinjii nizįį adaa'įį nąįį ! Nan tr'ookit nandee zhit traa gihłeehinchįį ąįįtł'ęę gwinzii naa gweech'in tł'ęę nachaa vandee zhit gałkhaneiinchįį . ”
+42006046	Jaghaii		“ Jaghaii zhyaa , ‘ Shik'eegwaadhat , Shik'eegwaadhat , ’ shohnyąą gwiizhit deenakhwaihnyąą gwik'it t'akhwa'in kwaa ?
+42007024	jidii		John vitsyaa nąįį neegahoo'oo ąįįtł'ęę Jesus dinjii lęįį nąįį ts'ą' nadhat ts'ą' John eegoovaagwaandak , “ Nijin oo'ok nangwinjir John vats'ą' noojil dąį' , jidii hǫǫh'yaa gwich'in nohthan ? Tł'oo ts'ik tsal ahtr'aii yichik hǫǫh'yaa nohthan ?
+42007025	Jidii		Jidii hǫǫh'yaa eenjit t'akhwa'in ? Dinjii gwach'aa zų' naazhii hąąh'yaa eenjit lee ? Łyaa juu jyąhts'ą' nagwaazhii nąįį t'ee zhee gwachoo gwihil'ee gwizhit gwizhrįh gooraah'in t'oonchy'aa .
+42007026	jidii		Shaagwandak , jidii hąąh'yaa eenjit t'ini'in ? Dinjii Vit'eegwijyąhchy'aa Eenjit Ginkhii hąąh'yaa eenjit lee ? Aahą' , nakhwaagwahaldak , ąįį k'it t'inchy'aa dinjii andaa veegoo'aii nǫh'ya' t'oonchy'aa .
+42007031a	juk		“ Juk gweendaa gwidinjii nąįį nats'ąą gook'it teech'igihihkhyaa ? 
+42007031b	jidii		Jidii k'it t'inchy'aa dinjii ginlii ?
+42007042	Juu		Nihłaa ts'ą' laraa gii'įį kwaa geh'an khyų' giineegookwat , ąįįts'ą' ąįį laraa gooveedaantł'oo shineegohkwat gwat'oohchy'aa kwaa goovahnyąą . Juu shrit ch'andaa ąįį dinjii laraa gooveedaantł'oo eet'igehęęnghyaa li' ? ”
+42007049	juu		Ąįį juu dinjii zhat ch'a'aa nąįį adats'ą' niinjich'agadhat , “ Dinjii atr'agwaanduu gaa oo'an gwihilii ! Jii juu dinjii t'inchy'aa ? ”
+42008025a	jaghaii		Ąįįtł'ęę ditsyaa nąįį t'ahnyąą , “ Shit'injuhchy'a' jaghaii ? ” Jesus goovandaa gwihil'ee t'iizhik ts'ą' łyaa gihilghaa . 
+42008025b	juu		“ Jii juu t'iinchy'aa , ” nihłagaanyąą ? “ Ahtr'aii ts'ą' tit kwaii haa ts'ą' khaginkhee ts'ą' giik'eegwahthat ! ”
+42008028	Jaghaii		Nijin Jesus niił'in dąį' gwint'aii khaiintrii ts'ą' yakwai' ehzhee oo'an teehiilnaii ts'ą' azhral ts'ą' jyaa nyąą , “ Jesus , Vit'eegwijyąhchy'aa Choh Vidinji' ! Jaghaii shaanagwiin'ąįį t'ini'in ? Khaiinjich'ashǫhthat shrǫ' ! ”
+42008030	Nats'ąą		Jesus yuahkat , “ Nats'ąą noozhri' ? ” “ Diinoozhri' Legion oaazhii , ” nyąą-gwehkįį ch'anky'aa iizųų lęįį nąįį chan vizhit diindhat geh'an .
+42008045	Juu		Jesus ch'oahkat , “ Juu shakat naanjik ? ” Datthak ts'ą' shįį shizhit kwaa ginyąą . Peter ąįį t'iiyahnyąą , “ Dinjii neelin gwanlii , ts'ą' juu t'iizhik gaagwiindaii kwaa t'iinyąą ? ”
+42009009a	juu		Herod t'inyąą , “ John vikiitth'an k'eech'iikil , akǫǫ jii dinjii ąįį juu t'agahnyąą ? ” Ąįįts'ą' Jesus hah'yaa gwik'eegwandaii .
+42009009b	~		
+42009018	juu		Ch'ihłan Jesus tthan gwa'an adąhzhrįh khadigiinjii gwiizhit vitsyaa nąįį yeenineejil , ts'ą' t'agoovahnyąą , “ Dinjii nąįį juu ihłii shagahnyąą ? ”
+42009020a	~		“ Nakhwan ąįį yu' , 
+42009020b	juu		juu t'ihchy'aa shohnyąą ? ” goovahnyąą . Peter jyaa yahnyąą , “ Dinjii neehahshii eenjit Vit'eegwijyąhchy'aa nihił'e' inlii ! ”
+42009025	~		Dinjii nankat datthak ideenjit goonjik gaa viyinji' an dhidlit ji' ąįį dinjii nihk'it gwats'an gaayiigwahaahtsyaa shrǫǫ ? Łyaa duuyeh !
+42009041a	Deegwąhkhyuk		Jesus ditsyaa nąįį jyaa dahnyąą , “ Łyaa gwik'iinjuhkhit kwaa ts'ą' gwiizųų t'oonchy'aa łee it'ee nakhwaashandaii goodlit ! Deegwąhkhyuk zhyaa nakhwaa t'ihihchy'aa shoohnyąą ? ” Ąįįtł'ęę ąįį dinjii jyaa ahnyąą , “ Nidinji' dzaa gwats'ą' hahchįį . ”
+42009041b	~		
+42010025	deeshi'yaa		Law eech'ǫąąhtan nąįį ch'ihłak ndak needhihkhin ts'ą' Jesus tsinteehąąhkaii gwik'eegwandaii . “ Geech'ǫąąhtan , gwandaii ndaanąą'ąį' kwaa shi'yaa eenjit deeshi'yaa goo'aii ? ” jyaa yahnyąą .
+42010026a	deegwinyąą		Jesus t'iiyahnyąą , “ Dęhtły'aa Choh zhit Law kat deegwinyąą gǫ' ? 
+42010026b	deenyąą t'inyąą		Nik'ee deenyąą t'inyąą vaanandaii ? ”
+42010029	juu		Gaa ąįį Law eech'ǫąąhtan ąįį łyaa łi'didlii adoodiinyąą ts'ą' Jesus oahkat , “ Ąįį Gwidinji' , ąįį juu t'inchy'aa ? ”
+42010036a	~		
+42010036b	juu		“ Jii dinjii khaiinjii tr'oołkhwąįį ąįį jii dinjii tik nąįį tee gwats'an juu shrit vinee'ok gwich'įį k'it t'ii'in ? ”
+42011008	deehee'yaa		Ąįįtł'ęę yu' , deehee'yaa shrǫǫ yuuhthan ? Nakhwaa gwahaldak . Nijyaa nilii , gaa ąįį geenjit khakihee'aa ts'ą' nantł'eech'ahahchaa kwaa . Gaa nihk'it k'ii'ee ch'oahkat ji' , nijyaa nilii eenjit gwizhrįh kwaa , gaa jidii t'aahchy'aa datthak nintł'eeheelyaa t'inchy'aa .
+42011011	~		“ Nakhwatee nik'ee ch'iti' vigii ‘ łuk , ’ yahnyąą , gwiizhit gyųų choh yintł'eehahchyaa ?
+42011012	~		Akwat ch'aghoo ach'oohkat , gwiizhit gwideedrii Scorpion ha'al iizųų yintł'eehahchyaa ?
+42011013	~		Deegwahtł'oo ohsųų . Googaa nakhwagii k'aiich'ii nizįį antł'ohłii gaakhwandaii . Izhit gwandaa ts'ą' zheekat Diiti' juu yuahkat , ąįį Ch'anky'aa Shroodiinyąą antł'eehee'aa . ”
+42011018	nats'ahts'ą'		Ąįįts'ą' Satan vitsyaa nąįį geedan chan nihłigiighan ji' , nats'ahts'ą' ndaagiheedaa ? Beelzebul vat'aii eh'an ch'anky'aa iizųų cheehihłii shohnyąą .
+42011019	juu		Jyąhts'ą' ch'anky'aa iizųų cheehihłii ji' , nitsyaa nąįį juu t'aih goots'an ąhtsii haa ch'anky'aa iizųų cheegihilii gǫ' ?
+42012014	Juu		Jesus jyaa yahnyąą , “ Dzaa gwąąh'in ! Juu ch'aroahkat zheh gwizhit noohaałkat akwat niti' veegoo'aii , noondee haa teetł'an ǫhjii nakhwahaihjyaa eenjit sheenjit gwiłtsąįį ? ”
+42012017	Deehishi'yaa		Idizhit niinjich'adhat ts'ą' jyaa diindhan , ‘ Gwanzhįh noołshįį kwaii nijin nihihłyaa ? Videek'it gwishi'įį kwaa . Deehishi'yaa li' ? ’
+42012020	juu		Vit'eegwijyąhchy'aa jyaa yahnyąą , ‘ Tr'igwiinjik kwaa ! Juk khaa gwats'ą' gwizhrįh gwihiindaii . Ąįįtł'ęę juu nats'an kwaii ts'ą' k'eegwahaadhat ? ’ ”
+42012024	~		Zhit deetrya' kwaii nǫh'in , gogwąąhshii khagiiyilii kwaa t'inchy'aa , dagogwanzhii gahahdlyaa gwakwaa , Vit'eegwijyąhchy'aa yach'ah'aa t'inchy'aa ! Chiitsal nąįį andaa ts'ą' nakhweegoo'aii !
+42012025	~		Duuyeh ch'ihłak gaa geenjit tr'igwidii ts'ą' nahgwan neegwiindaii t'oonchy'aa .
+42012026	jaghaii		Jii gwarandaii zhit jidii gwatsal khyų' t'agwah'in gwiizhit jaghaii ch'andaa gwa'an geenjit tr'igwindii .
+42012042	Juu		K'eegwaadhat yidii khaginkhee , “ Juu k'eegwaadhat vitsyaa nilii nąįį tee gwinzii gwitr'it t'agwah'in ts'ą' chan goozhii , ąįį dinjii jidii k'it t'inchy'aa dinjii t'arahnyąą ? Adan ąįįt'ee zhit juu yats'ą' k'eegwaadhat gwats'ą' k'eegwaadhat yahahtsyaa . Zheh gwizhit chan gwats'ą' k'eegwahaadhat ts'ą' zhit juu yaatr'agwah'in nąįį chan drin gwiteegwaanchy'aa zhat nineegwiidhak hee ach'ahah'aa .
+42012049	~		“ Jii nan kǫ' vihihtthal eenjit dzaa gwats'ą' hoiizhii . Ch'adąį' daak'a' ji' , oihnyąą gwiizhit !
+42012056	deehee'yaa		Gwik'iinjiighit adaa'įį nąįį ! Zhit zhee , nan haa nǫh'in gwik'iighai' deehee'yaa gaakhwandaii , gaa jaghaii jii gweedhaa , ąįį gaakhwandaii kwaa t'ohchy'aa ?
+42012057	Jaghaii		“ Jaghaii jidii gweheezyaa ts'ąįį ideenjit gaakhwandaii kwaa t'ohchy'aa ?
+42013004	~		Zhit Siloam gwich'in 18 juu zhit zheh gwachoo gook'aa neegwadąąnąįį ts'ą' giłchįį nąįį yu' ? Ch'izhii Jerusalem gwich'in nąįį andaa datthak ts'ą' gootr'agwaanduu gwanlii geh'an lee t'igiizhik ?
+42013007	jaghaii		Ąįįts'ą' gwanzhįh k'ąąhtii ąįį t'ahnyąą , ‘ Gwąąh'in , neegwadadhat tik gwahaadhat tthak dzaa nineihdik ts'ą' jii Fig dachan kat Figs keegwaał'in gaa Figs agwał'ąįį kwaa . Gihłeekhwanchyaa jaghaii ? Jaghaii zhyaa gwanzhįh dehk'it gwinii'ee ? ’
+42013015	~		Diik'eegwaadhat t'iiyahnyąą , “ Gwik'iinjiighit adaa'įį ǫhłįį ! Neegwaazhii Drin nakhwąnin kwaii dineegoovahoh'at ts'ą' chųų goovahohjyaa goo'aii .
+42013018a	doonchy'aa		Jesus ch'oahkat , “ K'eegwaadhat Veegwinii'ee doonchy'aa t'agwarahnyąą ? 
+42013018b	jidii		Jidii geeghaih gwik'it t'oonchy'aa haa nihłaa geegihihkhyaa ?
+42013020	jidii		Chan hee Jesus ch'oahkat , “ K'eegwaadhat Veegwinii'ee jidii geeghaih gwik'it t'oonchy'aa haa nihłaa geegihihkhyaa ?
+42013025	Nijin		Ąįį zheh gwats'ą' k'eegwaadhat khakihee'aa ts'ą' angineehąhdal . Ąįįtł'ęę chiitąįį niindhat ts'ą' ganlaanaii ts'ą' jyaa deehiinjyaa , ‘ K'eegwaadhat ! Sheenjit gihdiinchįį ! ’ Oozhaa jyaa nahaanjyaa , ‘ Juu inlii ? Nijin gwats'an inkhaa naashandaii kwaa ! ’
+42014005	~		Ąįįtł'ęę t'agoovahnyąą “ Nakhwagii akwat nakhwa-Ox ąįį Neegwaazhii Drin gwizhit chųųk'it gwizhit t'aanaii ji' , Neegwaazhii Drin gwizhit geh'an khaneehohchyaa kwaa ? ”
+42014028	~		Nakhwatee ch'ihłak zheh gwintsii gwahahtsyaa ji' , tr'ookit heedyaa ts'ą' deegwahtsii gweheelyaa , akwat zheh gwintsii geenjit laraa di'įį ji' , eenjit shrigweheelyaa .
+42014031	~		King ch'ihłak viniveet'ah'in 10,000 di'įį ts'ą' ch'izhii King ąįį chan 20,000 nąįį di'įį , ąįį nąįį haaghan ji' , heedyaa ts'ą' gwinzii gininjich'ahahthat , ch'izhii King andaa t'ąąht'aii ji' eenjit .
+42014034	~		“ Lisil nizįį , gaa vagwaandaii kwaa dhidlit ji' chan duuyeh lisil k'it vagwaandaii neerahtsii ąįį lisil iizųų .
+42015004	deehee'yaa		“ Nakhwatee ch'ihłak divii 100 di'įį , akhai' ch'ihłak haa tr'igweendaii ji' , deehee'yaa t'inchy'aa ? Divii 99 kwaii tthan gwa'an akhooheenjyaa ts'ą' divii ch'ihłak ineegwahah'aa gwats'ą' datthak niheentyaa .
+42015008	deehee'yaa		“ Tr'injaa ąįį laraa ghoo tsal ch'ihłoaatin ts'an ch'ihłak haa tr'agwąhdaii ji' , deehee'yaa t'inchy'aa ? Adrii neehaahky'aa ts'ą' gihłeech'iheelii ts'ą' nijuk datthak yinkeegwahąąh'yaa yineegwahah'aa gwats'ą' .
+42015026	deegwii'in		‘ Deegwii'in ? ’ nyąą ditsyaa oahkat .
+42015029	jaghaii		Diti' ąįį t'ahnyąą , ‘ Nitsyaa chan ihłii ts'ą' deeshaiinyąą tthak chan nik'eegwałthat , gwiizhit duuyeh gaa divii tsal shijyaa nąįį haa vaa ch'ara'aa hałtsyaa eenjit shantł'ahchįį , gwizhit jaghaii nigii ąįį nalaraa ąįį yit'ii tr'injaa haa dhichįį gwiizhit veenjit ch'ara'aa gwąhtsii ? ’
+42016002	Deeni'in		Adats'ą' nihdeeyąąhchįį ts'ą' jyaa yahnyąą , ‘ Deeni'in t'anarahnyąą neegwiitth'ak ? It'ee duuyeh sheenjit laraa k'ąąhtii neenilįį . Dęhtły'aa kat laraa dąh'in ąįį gwidęhtły'aa shintł'ineiinlii . ’
+42016003	deeshi'yaa		Ąįį dinjii jyaa adaanyąą , ‘ It'ee deeshi'yaa ? Shats'ą' k'eegwaadhat shigwitr'it shits'į' neegǫǫnjik . Łųh khaihihthaa eenjit shat'aii kwaa . Ąįįts'ą' chan ch'adooshakwat eenjit hihłyaa .
+42016005	deegwahtsii		Ąįįts'ą' ąįį juu yats'ą' k'eedeegwaadhat ts'ą' agaandaii nąįį gooteegwagwaanchy'aa ts'ą' nihdeegoovahchik . Dinjii ch'ihłak jyaa ahnyąą , ‘ Shats'ą' k'eegwaadhat deegwahtsii vats'ą' andaii ? ’
+42016007	Deegwąhtsii		Ch'izhii dinjii chan jyaa ahnyąą , ‘ Nan ąįį yu' ? Deegwąhtsii gwats'ą' andaii ? ’ ‘ Tł'oo li' ch'ityah 1000 , ’ jyaa nyąą . ‘ Dzaa nidęhtły'aa iłtsuu , ’ ąįį laraa k'ąąhtii nyąą . ‘ Khan vakat 800 diintł'oo . ’
+42016011	Nats'ahts'ą'		Gwik'eegwahthat kwaa ts'ą' jyaa t'inchy'aa ji' , duuyeh nankat gwik'eiich'i' ts'ą' t'anarahtthan . Nats'ahts'ą' zheekat łi'didlii ąįį gwats'ą' t'anarahąhkhyaa ?
+42016012	~		Ch'izhii dinjii ts'an k'ąąhtii kwaa ji' , duuyeh ch'ihłak gaa nats'an nilii nantł'ana'aii .
+42017007	~		“ Nakhwatee ch'ihłak ch'itsyaa di'įį . Ąįį gwanzhįh deek'it geetr'agwah'in , akwat divii k'ąąhtii nilii ji' . Nijin gwanzhįh deek'it gwats'an oo'ee neezhįį dąį' , nik'ee jyaa vaiinyąą , ‘ Dzaa dhindii , ts'ą' neech'in'aa ? ’
+42017017	dagaajii		Jesus juu dinjii nąįį yaa nilii nąįį t'ahnyąą , “ Dinjii ch'ihłoaatin nąįį ashranǫąhjik . Zhit juu dinjii vaa shranoaazhik nąįį dagaajii ?
+42017018	Jaghaii		Jaghaii jii aakin zhrįh nihkhaneezhii ts'ą' Vit'eegwijyąhchy'aa mahsį' , ahnyąą ? ”
+42017020	nijin ji'		Pharisee lat nąįį Jesus goahkat , nijin ji' nankat datthak Vit'eegwijyąhchy'aa dinjii idik'iinjyahahdaa ? Akhai' jyaa dagoovahnyąą , “ Nankat datthak Vit'eegwijyąhchy'aa , dinjii idik'iinjyahahdaa ji' diinandee ts'ą' t'igwehee'yaa t'igwinyąą kwaa .
+42017037	nijin		Vitsyaa nąįį yuahkat , “ Ąįį nijin t'agwaiinyąą , K'eegwaadhat ? ” Jesus t'agoovahnyąą , “ Nijin ch'atthąį' iłchįį t'ee zhat gwa'an vultures , ( deetrya' k'it t'inchy'aa ) nąįį łaahaadaa t'oonchy'aa . ”
+42018018	deeshi'yaa		Israel kįh nilii ąįį Jesus oahkat , “ Geech'ǫąąhtan nizįį , khit gwarandaii shi'yaa ji' geenjit deeshi'yaa goo'aii ? ”
+42018019	Jaghaii		“ Jaghaii dinjii nizįį shaiinyąą ? ” Jesus yuahkat . Vit'eegwijyąhchy'aa zhrįh nizįį t'oonchy'aa .
+42018026	Juu		Juu zhat dilk'ii yiitth'ak nąįį giiyųąhkat , “ Juu neeheezhii gǫ' ? ”
+42018036	Deegwii'in		Lęįį nąįį yehgoo hijyaa diitth'ak dąį' ch'oahkat , “ Deegwii'in t'igwinyąą ? ”
+42018041	dooshi'yaa		Jesus jyaa yahnyąą , “ Neenjit dooshi'yaa shǫįįnyąą ? ” “ Shik'eegwaadhat , shaagoochy'a' nihthan , ” nyąą .
+42019007	~		Juu nąįį datthak Jesus yizheh nihdąhkhaii yąąh'in dąį' datthak giiyeeginkhii ts'ą' jyaa ginyąą , “ Jii dinjii vatr'agwaanduu gwanlii vizheh heedyaa eenjit nihdeiinzhii ! ”
+42019023	Jaghaii		Jaghaii shalaraa nitsii dhąhtsąįį kwaa gǫ' ? Nijin k'inidik ji' nitsii dhidlit ji' noohihdal reh . ’
+42019031	Jaghaii		‘ Jaghaii gwats'an tr'oohchįį t'oh'in ? ’ nakhwarahnyąą ji' , jyaa vohnyąą , ‘ K'eegwaadhat yat'ąąhchy'aa . ’ ”
+42019033	Jaghaii		Donkey tsal gwats'an tr'agąąhchįį gwiizhit ąįį vats'an yinlii t'agoovahnyąą , “ Jaghaii gwats'an tr'ohchįį t'oh'in ? ”
+42020002a	jidii		jyaa giiyahnyąą , “ Jidii t'aih ni'įį t'ini'in ? 
+42020002b	juu		Juu jyaa deeni'in nahnyąą , diinaa gwandak lee ? ”
+42020005a	Deegweheenjyaa		Izhit geenjit nihłitee ts'ą' nihzheedagąąn'ee ts'ą' jyaa ginyąą , “ Deegweheenjyaa ? Vit'eegwijyąhchy'aa vats'an gwinyąą ji' , jyaa diinahąąnjyaa , 
+42020005b	jaghaii		jaghaii John vik'injuhkhit kwaa gǫ' ?
+42020013	Deeshi'yaa		“ Ąįįtł'ęę ąįį dinjii gwanzhįh ts'ą' k'eegwaadhat adats'ą' niinjich'adhat , ‘ Deeshi'yaa ? Shidinji' gęhdaa kwaa veet'iihthan , ąįį oo'an nahał'aa . Giiyeenjit hił'e' ji' , łyaa gweheezyaa . ’
+42020015	deehee'yaa		Ts'ą' t'ee gwanzhįh dehk'it gihłeegiihaaluu . Ąįįtł'ęę giiyiiłkhwąįį . Ąįįts'ą' Jesus dinjii nąįį t'ahnyąą . “ Jii dinjii gwanzhįh ts'ą' k'eegwaadhat deehee'yaa li' ?
+42020017	deegwinyąą t'igwinyąą		Jesus goovąąh'in ts'ą' gavoahkat , “ Akwaa ji' , jii Dęhtły'aa Choh zhit deegwinyąą t'igwinyąą shrǫǫ yuuhthan , ‘ Kii vaa zheh ndak gwehee'aa , ąįį kii nizįį nilii kwaa k'it t'inchy'aa . Gaa ndaagwąą'ąį' dąį' , kii hil'ee dhidlit . ’
+42020023	~		Gaa Jesus ąįį goodhaii nideegiihaahkhii t'iginyąą goovaandaii ,
+42020024a	juu		“ Laraa ghoo tsal nooł'ya' . Juu vinin chan 
+42020024b	~		ts'ą' voozhri' haa vakat dha'aii ? ” “ Caesar reh , ” ginyąą .
+42020033	juu		Nihchaa 7 nąįį datthak neegiiyuunjik ts'ą' nijin drin zhit niindhat nąįį neegogwandaii neegahoodlit ji' , juu va'at heelyaa t'inchy'aa ? ” giiyahnyąą .
+42020041	Nats'ąą		Jesus jyaa goovahnyąą , “ Nats'ąą Christ ąįį yeenii David ts'an deedhaa ginyąą t'iginyąą ?
+42020044	nats'ąą		David ąįį ‘ Shik'eegwaadhat . ’ yahnyąą gwiizhit nats'ąą Christ ąįį yeenii David ts'an diheedhaa ? ”
+42021007a	nijin ji'		“ Geech'ǫąąhtan , ” ginyąą , “ Ąįį nijin ji' ? 
+42021007b	nats'ąą		Nijin jyaa deegweheenjyaa ji' , nats'ąą googwahaakyaa ? ”
+42022009	nijin		“ Ąįį nijin ch'arehee'aa gwarohtsyaa diinoiinyaa ? ” giiyahnyąą .
+42022011	nijin		ts'ą' ąįį juu zhat zheh gwats'ą' k'eegwaadhat jyaa vohnyąą : ‘ Geech'ǫąąhtan jyaa nahnyąą , nizheh gwizhit nijin shitsyaa nąįį haa Passover drin neech'irehee'aa ? ’
+42022027	juu		Juu shrit ch'andaa hil'ee , zhit juu ch'ihee'aa eenjit dhidii akwat zhit juu ch'itsyaa nilii ? Zhit juu dhidii reh . Gaa shįį ąįįt'ee nakhwatee ch'itsyaa ihłii gwik'it t'ishi'yaa .
+42022046	Jaghaii		“ Jaghaii dhohchųų ? ” goovahnyąą . “ Khakyuuzhii ts'ą' neenakhwariheen'ee gwizhit gwiizųų tr'agahoh'yaa kwaa geenjit khadagohjii ! ”
+42022064	Juu		Giiyandee tł'an dineech'ahchal ts'ą' giiyųąhkat , “ Juu nilgwat ? Diinaa gwandak lee ? ”
+42022071	~		Ąįįts'ą' jyaa nihłagaanyąą , “ Juk t'ee dinjii yeediinaagwahaandak veenjit t'eegwaahchy'aa kwaa ! Diinandah deiinyą' gwizhrįh , gaa gwinzii ! ”
+42023022a	~		Neekwat gwehkįį gavoahkat ts'ą' chan hee t'agoovahnyąą . 
+42023022b	jidii		“ Jidii gwiizųų tr'agwah'ya' eenjit t'avohnyąą ? Dee'ya' vohnyąą ąįį ch'ihłak gaa gwik'it t'ee'ya' veegwaał'in kwaa . Jaghaii tr'ahaahkhwaa vaashandaii kwaa . Tr'ahahtrii veenjit gwahałtsyaa . Ąįįtł'ęę vineereheendal . ”
+42023031	~		Ts'iivii tth'aii diłtraa gwiizhit t'ee jyaa deegwehee'yaa , nijin ąįį ts'iivii traa dhidlit ji' , gwandaa gwiizųų nagwahaatth'aa . ”
+42024005	jaghaii		Gwint'aii gąąnjat ts'ą' nankat nikiigogwąh'ee gwiizhit ąįį zheekat gwich'in neekwaii jyaa goovahnyąą , “ Dinjii gwandaii gwiizhit jaghaii tth'ank'it gwizhit vinkeegǫh'in ?
+42024017	jidii		Jesus t'agoovahnyąą , “ Oh'al gwiizhit jidii eegoohkhii ? ” Khaihłan nagadhat ts'ą' goonin kat tr'igwidii dha'aii .
+42024019	Jaghaii		“ Jaghaii , deegwiizhik ? ” goovahnyąą . “ Jesus , Nazareth gwats'an deeginlik reh , ” ginyąą . “ Ąįį dinjii t'ee łyaa Vit'eegwijyąhchy'aa Eenjit Ginkhii nilii , dee'ya' chan ts'ą' deiinyą' datthak geenjit t'ee Vit'eegwijyąhchy'aa chan ts'ą' dinjii datthak haa giishoo'ąhłii .
+42024025	~		Tł'ęę Jesus jyaa goovahnyąą , “ Łyaa tr'agǫhjik , deegwahtł'oo zhyaa Vit'eegwijyąhchy'aa Eenjit Ginkhii deegiinyą' gaa gwik'iinjuhkhit kwaa !
+42024038a	jaghaii		Gaa jyaa goovahnyąą , “ Jaghaii noojat 
+42024038b	jidii		ts'ą' jidii datthak geenjit gwik'iinjuhkhit kwaa ?
+43001019	Juu		Jews khaihkwaii nąįį , digigiinkhii chan ts'ą' Levite nąįį haa John ts'ą' googihił'e' , jii giiyųąhkat eenjit “ Juu inlii ? ”
+43001021	juu		“ Juu inlii gǫ' , Elijah inlii ? ” giiyahnyąą . “ Nakwaa , ąįį t'ihchy'aa kwaa . ” John nyąą . “ Vit'eegwijyąhchy'aa Eenjit Ginkhii inlii ? ” giiyahnyąą “ Nakwaa , ” gavahnyąą .
+43001022a	juu		“ Juu inlii diinaa gwandak , juu naroohaahkat eenjit diihił'e' nąįį gavaa gwarahaandak eenjit . 
+43001022b	juu		Juu inlii ? ” giiyahnyąą .
+43001025	jaghaii		Gwiizhit jaghaii chųų gwats'an ąhtsii ? ”
+43001038a	jidii		Jesus neediil'ee ts'ą' giitąįį adaa gwąąh'in ts'ą' gavaahkat , “ Jidii keegǫh'in t'akhwa'in ? ” 
+43001038b	nijin		“ Geech'ǫąąhtan , nijin gwinch'įį ? ” giiyahnyąą .
+43001046	nijin		“ Nazareth nijin ji' gweheezyaa li' ? ” Nathaniel nyąą “ Aanaii ts'ą' gwąąh'in , ” Philip yahnyąą .
+43001048	nats'ąą		Nathaniel yuahkat , “ Nats'ąą shaanandaii ? ” Jesus jyaa yahnyąą , “ Philip nagwahah'aa gwats'ą' dąį' ts'iivii vakat Figs nahshii t'eh dhindii naał'ya' ! ”
+43002004	~		“ Ni'ęę , jyaa dini'in shahaiinjyaa kwaa goo'aii t'oonchy'aa . Zhat tth'aii shaa nigwiighit kwaa . ” Jesus yahnyąą .
+43002018a	~		Izhit zhat Jews kįh dilk'ii nąįį jii giiyųąhkat , “ Vit'eegwijyąhchy'aa vats'an ni'in ji' , diinandah geegwaroolii kwaa t'ini'in lee . ”
+43002018b	~		Vit'eegwijyąhchy'aa geegwaroolii
+43003004	nats'ąą		Nicodemus jyaa yahnyąą , “ Dinjii vaghaii lęįį gwiizhit nats'ąą vineegweheelyaa t'iinyąą ? Duuyeh dahan zhit nidii ts'ą' chan vineegwiilii t'oonchy'aa ! ”
+43003009	nats'ąą		“ Jii nats'ąą t'agwaiinyąą , ” Nicodemus yahnyąą .
+43003012	~		Dząą nijin nankat t'igwii'in geenaagwaldak dąį' shik'iinjiinghit kwaa ; akwat zheekat geenaagwaldak ji' izhit chan shik'iinjihįįnghit kwaa .
+43004009	jaghaii		Ąįį tr'injaa jyaa yahnyąą , “ Jews nąįį tee gwats'an iinlii , shįį ąįį Samaria gwats'an ihłii , jaghaii chųų shaiinyąą t'iinyąą ? ” ( Jews nąįį duuyeh gaa Samaria gwich'in nąįį k'it zhit ch'aga'aa ) .
+43004011	Nijin		Ąįį tr'injaa jyaa yahnyąą , “ Tyah ni'įį kwaa , nanzhit k'iizhak chųų ts'ą' niighit . Nijin chųų gwandaii oohiindal t'iinyąą ?
+43004027a	jidii		Izhit gwiizhit Jesus vitsyaa nąįį oo'ee neegiijil ; tr'injaa ts'ą' ginkhii giiky'aanjik dąį' deegiheenjyaa gaa gaagiindaii kwaa . Gootee ch'ihłak gaa ąįį tr'injaa jyaa ahnyąą kwaa , “ Jidii yiindhan ? ” akwat Jesus chan jii agaahkat kwaa , 
+43004027b	jaghaii		“ Jaghaii jii tr'injaa vats'ą' ginkhii ? ”
+43005012	juu		Jii giiyųąhkat , “ Jii dinjii nichyah oiinjii ts'ą' inkhaa nahnyąą ąįį juu t'inchy'aa ? ”
+43005044	nats'ąą		Nihłeenjit khadhoo'ee łyaa geet'ohthan , gaa Vit'eegwijyąhchy'aa ch'ihłak zhrįh nilii ąįį hil'ee di'įį ąįį geenjit ninjich'ǫhthat kwaa . Jii kwaii jyaa dohchy'aa gwiizhit nats'ąą gwik'iinjuhohkhit ?
+43005047	nats'ąą		Gaa deenaadąį' Moses deenyąą ts'ą' gwadąąntł'oo ąįį gwik'iinjuhkhit kwaa akwat gwiizhit nats'ąą shiginjik k'injihohkhit ? ”
+43006005	nijin		Jesus zhit gwa'an gwąąh'in akhai' lęįį nąįį yats'ą' adaa nigwiił'in ts'ą' Philip jyaa ahnyąą , “ Jii dinjii lęįį nąįį nijin shih gavaanchy'aa tr'ooheekwat ? ”
+43006009	~		“ Yaagha' gwitee gwa'an tsyaa tsal dhidii ąįį łųhchy'aa barley ch'ihłoanli' ts'ą' łuk neekwaii haa di'įį . Gaa jii kwaii duuyeh jii dinjii nąįį datthak eenjit tr'oonadhat ! ”
+43006025	nijin dąį'		Nijin ąįį dinjii nąįį van ndųhts'ąįį Jesus agogwąh'ąįį dąį' jyaa giiyahnyąą , “ Geech'ǫąąhtan , nijin dąį' dząą k'eiindik ? ”
+43006028	Jidii		Ąįįtł'ęę jii giiyųąhkat , “ Jidii k'it t'inchy'aa Vit'eegwijyąhchy'aa vigwitr'it t'igwehee'yaa t'agwaiinyąą ? ”
+43006030a	jidii		Jyaa giiyahnyąą , “ Gwarahąąh'yaa ts'ą' gik'iinjireheeghit eenjit jidii t'aih diinandah t'ini'yaa ? 
+43006030b	Deehini'yaa		Deehini'yaa ?
+43006042	nats'ąą		Izhit geh'an jyaa ginyąą , “ Joseph vidinji' Jesus lee t'inchy'aa ? Vahan , viti' haa gwiindaii t'inchy'aa adan t'inchy'aa ji' , nats'ąą zheekat gwats'an ihshyaa nyąą t'inyąą ? ”
+43006052	nats'ąą		“ Jii gwigwiitth'ak dąį' geenjit Jews nąįį nihzheedagąąn'ee . Jii dinjii nats'ąą datthąį' diihah'aa t'inyąą ? ” ginyąą .
+43006060	Juu		Vitsyaa lęįį nąįį jii datthak eenjit gwigwiitth'ak dąį' jyaa ginyąą , “ Jii jidii eech'ǫąąhtan łyaa vagwantrii . Juu yuuhaahky'aa ts'ą' gwik'it t'ihee'yaa ? ”
+43006062	nijin		Ąįį ji' , Gwidinji' gwehkįį nijin gwats'an tr'iinzhii gwits'eehoozhii nǫh'ya' ji' yu' ?
+43006068	juu		Simon Peter jyaa yahnyąą , “ Shik'eegwaadhat , juu vats'ą' tr'iheedaa gǫ' ? Gwandaii ndaanąą'ąį' kwaa gweheelyaa eenjit nan zhrįh ginjik ni'įį .
+43007011	Adaajii		Jews kįh dilk'ii nąįį dinjii khaihłan niinjil tee giiyinkeegwaah'in , “ Adaajii t'inchy'aa ? ” giiyahnyąą .
+43007015	deegwiłtsii		Jews kįh dilk'ii nąįį eenjit geegagoolii kwaa t'inyąą ts'ą' jyaa ginyąą , “ Jii dinjii gooltin kwaa gwiizhit deegwiłtsii gwandaii t'inyąą ? ”
+43007019	Jaghaii		Deenaadąį' Moses va-law nakhwantł'in'ąįį , t'oonchy'aa . Nakhwatee ch'ihłak gaa Law k'eegwahthat kwaa . Jaghaii geenjit shęhdaa tr'agǫh'aa geetr'agoh'in ? ”
+43007020	Juu		Izhit zhat dinjii lęįį nąįį jyaa ginyąą , “ Nizhit ch'anky'aa iizųų dhidii ! Juu nęhdaa tr'igwihee'aa gwik'eegwandaii t'igwii'in ? ”
+43007023	jaghaii		Moses va-law łeehaanaii kwaa eenjit chyaatsal Neegwaazhii Drin vadhah gihłeerahaht'ii goo'aii ji' jaghaii Neegwaazhii Drin dinjii ts'ą' tr'iinjik eenjit shats'ą' nakhwak'įį gwanlii ?
+43007035	Nijuk		Jews kįh dilk'ii nąįį jyaa nihłagaanyąą , “ Nijuk gwats'ą' heekhaa ts'ą' khyų' vagwarahah'aa t'inyąą ? Greek kwaiik'it Jews nąįį tee gwats'ą' hahaii ts'ą' geech'oohąąhchyaa lee t'inyąą ?
+43007036	Deiinyąą t'inyąą		Jyaa goovahnyąą , ‘ Shikeegohǫǫh'yaa gaa duuyeh shagoh'ąįį , ts'ą' nijuk hihdyaa duuyeh gooh'in . ’ Deiinyąą t'inyąą ? ”
+43007041	~		Ch'izhii nąįį jyaa ginyąą , “ Christ t'inchy'aa oo'ee ? ” Gaa ch'izhii nąįį chan jyaa nyąą , “ Christ duuyeh Galilee gwats'an ahaa t'inchy'aa !
+43007045	Jaghaii		Ąįį gwiky'aahtii nąįį , giinkhih kįh dilk'ii nąįį chan ts'ą' Pharisee khaihkwaii nąįį haa ts'eegahoojil , ąįį nąįį googaahkat , “ Jaghaii adahaa oo'ee noohchįį kwaa ? ”
+43007048	~		“ Diitee gwa'an nik'ee diikhaihkwaii akwat Pharisee khaihkwaii ch'ihłak yik'injiighit haakhwandaii ?
+43007051	~		“ Dii-law zhit duuyeh dinjii tr'ahaahkhwaa gwats'ą' dee'ya' eenjit vęhdaa tr'agwara'aii goo'aii gwinyąą . ”
+43008005	deehiinjyaa		Moses dii-law zhit tr'injaa jyaa dii'in t'ee kii haa tr'ahaahkhwaa goo'aii nyąą . Akwat , geenjit deehiinjyaa ? ”
+43008010	nijin		Ndak ninehjin ts'ą' jyaa nyąą , “ Tr'injaa nijin neegahoojil ? Nik'ee gwintł'ee nahahchyaa ch'ihłak dząą dhidii ? ”
+43008019	adaajii		“ Niti' adaajii ? ” giiyahnyąą . “ Shaakhwandaii kwaa ts'ą' Shiti' chan vaakhwandaii kwaa , shaakhwandaii ji' Shiti' chan vaakhwahandaii goo'aii t'oonchy'aa . ” Jesus gavahnyąą .
+43008025a	juu		“ Juu inlii ? ” 
+43008025b	~		giiyahnyąą ? Jesus jyaa gavahnyąą , “ Juu ihłii tr'ookit dąį' gwats'an nakhwaihnyąą ąįį ihłii t'oonchy'aa .
+43008033	Deiinyąą t'iinyąą		“ Abraham vats'an direedhaa , ąįįts'ą' ch'ihłak gaa ts'an tr'iinli' kwaa . Deiinyąą t'iinyąą , ‘ Gadanakhwahałchyaa . ’ diinyąą dąį' ? ” giiyahnyąą .
+43008043	Jaghaii		Jaghaii deiinyąą t'iihnyąą datthak gaakhwandaii kwaa ? Deiinyąą t'ihnyąą ąįį goohtth'ak nohthan kwaa geh'an t'oonchy'aa .
+43008046a	~		Nakhwatee ch'ihłak nik'ee vandah shatr'agwaanduu gwałtsii shąąh'ya' ? 
+43008046b	jaghaii		Łi'didlii eegiihkhii t'ihnyąą ji' jaghaii shik'injuhkhit kwaa ?
+43008053	Jidii		Diilak Abraham chan ts'ą' Vit'eegwijyąhchy'aa Eenjit Ginkhii nąįį niinjik . Abraham vandaa t'agwahtsii sheegoo'aii diinyąą lee t'iinyąą ? Jidii ihłii niindhan ? ”
+43008057	~		Jews nąįį jyaa giiyahnyąą , “ Tth'aii googaa 50 years old inlii kwaa gwiizhit Abraham nah'ya' ? ”
+43009002	juu		Vitsyaa nąįį yuahkat , “ Geech'ǫąąhtan , vandee kwaa ts'ą' vagoodlit ąįį juu vatr'agwaanduu t'oonchy'aa ? Adan vats'an akwat viyehghan nąįį ? ”
+43009010	nats'ąą		“ Nats'ąą naagweech'in needhindlit ? ” giiyahnyąą .
+43009012	Adaajii		“ Adaajii ? ” giiyahnyąą . “ Adaajii vaashandaii kwaa , ” goovahnyąą .
+43009016	Nats'ąą		Pharisee lat nąįį jyaa ginyąą , “ Jii dinjii juu t'iizhik Vit'eegwijyąhchy'aa ts'an t'inchy'aa kwaa , Neegwaazhii Drin jyaa dihee'yaa kwaa goo'aii ąįį gwik'eegwahthat kwaa geh'an . ” Goolat nąįį jyaa ginyąą , “ Nats'ąą dinjii vatr'agwaanduu gwanlii ąįį gwitr'it geegwaroolii kwaa t'ihee'yaa ? ” ąįįts'ą' t'ee datthak geenjit nihzheedagąąn'ee .
+43009017	deehiinjyaa		Ąįįts'ą' t'ee Pharisee nąįį chan hee giiyųąhkat , “ Naagweech'in neegwiłtsąįį akwat veenjit deehiinjyaa ? ” “ Vit'eegwijyąhchy'aa Eenjit Ginkhii nilii t'inchy'aa , ” jyaa nyąą .
+43009019	jaghaii		Vandee kwaa ts'ą' vagoodlit vohnyąą gwiizhit jaghaii juk vaagweech'in gǫ' ? ”
+43009026a	Deeniinlik		“ Deeniinlik ? 
+43009026b	Nats'ąą		Nats'ąą naagweech'in neegwiłtsąįį ? ” giiyųąhkat .
+43009027	Jaghaii		“ Ch'adąį' nakhwaagwaldak t'oonchy'aa , gaa khų' ch'oodǫǫhk'įį . Jaghaii chan hee geenakhwaagwaldak yuuhthan ? Nakhwan chan vitsyaa ǫhłį' nohthan ? ” gavahnyąą
+43009034	~		Jyaa giiyahnyąą , “ Tr'agwaanduu gwitr'it gwizhit nagoodlit ts'ą' gwizhit diink'iindhat . Geediinǫąąhtan gwik'eegwiindaii lee t'iinyąą ? ” Ąįįts'ą' Israel tr'igiinkhii zheh gwizhit cheet'eegiiheełnaii .
+43009036	Juu		Ąįį dinjii jyaa nyąą , “ Juu t'inchy'aa veeshaagwandak vik'injihihthaa eenjit ! ”
+43010020	Jaghaii		Gootee lęįį nąįį jyaa ginyąą , “ Vizhit ch'anky'aa iizųų dhidii ! Vagwandaii iizųų ! Jaghaii oodǫǫhk'įį t'ohchy'aa ? ”
+43010021	nats'ąą		Gaa ch'izhii nąįį jyaa ginyąą , “ Dinjii vizhit ch'anky'aa iizųų gwiizhit jyąhts'ą' ginkhii kwaa t'oonchy'aa ! Nats'ąą ch'anky'aa iizųų dinjii vandee kwaa haagweech'in neegwahahtsyaa ? ”
+43010024	Deegwiłkhyuk		Nijin ąįį Jews nąįį Jesus eelin nigiilzhii ts'ą' jyaa ginyąą dąį' , “ Deegwiłkhyuk diits'ą' gwit'eegwaha'aa t'inchy'aa ? Łi'didlii haa diinaa gwandak nan lee Christ inlii ? ”
+43010032	jidii shrit		Jesus jyaa gavahnyąą , “ Nakhwandah gwitr'it gwinzii gwinlęįį t'ishizhik , ąįįt'ee Gwiti' shintł'eegwiin'ąįį ; ąįį gwitee jidii shrit t'ishizhik eenjit kii haa shohohkhwaa ? ”
+43010036	Nats'ąą		Shįį ąįį , Gwiti' gwiteetr'ashąhchįį ts'ą' nankat gwats'ą' shihił'e' . Nats'ąą Vit'eegwijyąhchy'aa Vidinji' ihłii dihnyąą eenjit vinehts'į' giihkhii shohnyąą t'ohnyąą ?
+43011034	Nijin		“ Nijin vanǫǫhjik ? ” goovahnyąą . “ Aanaii ts'ą' gwąąh'in ! ” giiyahnyąą .
+43011047	Deereheelyaa		Ąįįts'ą' t'ee jii Pharisee chan ts'ą' giinkhih kįh dilk'ii nąįį haa Israel gwakhaihkwai' nąįį ts'ą' giginkhe' ąįįtł'ęę jyaa ginyąą . “ Deereheelyaa ? Gwitr'it geegwaroolii kwaa lęįį t'ii'in !
+43011056	deeyųųhthan		Datthak Jesus keegihi'ik , Kharigidiinjii Zheh Gwachoh gwizhit khaihłan nigiinjil ts'ą' nihłaagwaakat , “ Veenjit deeyųųhthan ? Łyaa duuyeh dząą gwats'ą' hahaii gwich'in , shrǫǫ ohnyąą ? ” nihłagaanyąą .
+43012005	Jaghaii		“ Jaghaii jii gwanzhįh chų' $ 300 . Denarius vit'ii hohłii kwaa ts'ą' neeshraahchy'aa nąįį antł'ohłii kwaa ? ”
+43012027	deehihjyaa		“ Et'ee łyaa shidrii zhit tr'igwidii dha'aii gaa reh deehihjyaa gǫ' ? ‘ Shiti' , jii kwaii shats'ą' t'agǫǫ'ya' shrǫ' ! ’ Gaa ąįį geenjit dząą gwats'ą' hoiizhii , khaiinjich'ashahadhat gwahaał'yaa eenjit .
+43012034a	Nats'ąą		Zhat dilk'ii nąįį jyaa ginyąą : “ Dęhtły'aa Choh zhit Christ khit geenjit gweheendaii gwinyąą . Nats'ąą Gwidinji' ndak deerahahchyaa deenyąą t'iinyąą ? 
+43012034b	juu		Gwidinji' ąįį juu t'arahnyąą ? ”
+43012038a	juu		Isaiah , Vit'eegwijyąhchy'aa Eenjit Ginkhii nilii ąįį jii kwaii łi'didlii heelyaa nyąą : “ K'eegwaadhat , juu yik'injiheeghit ? 
+43012038b	juu		Juu yat'aii nah'ya' ? ”
+43013025	juu		Ąįį dinjii Jesus eeghaii naadii ts'ą' yuahkat , “ Shik'eegwaadhat , juu t'aiinyąą ? ”
+43013036	Nijin gwats'ą'		“ K'eegwaadhat , nijin gwats'ą' hiinkhaii ? ” , Simon Peter yahnyąą . “ Nijin gwats'ą' hihshyaa duuyeh gwats'ą' hinkhaii t'oonchy'aa , ” Jesus yahnyąą , “ Gaa nahgwan ji' hee shatąįį hinkhaa t'oonchy'aa . ” nyąą .
+43013037	jaghaii		“ K'eegwaadhat , jaghaii juk naahihshyaa kwaa gǫ' ? ” Peter nyąą . “ Neenjit nihihthaa ji' gaa , ” Peter yahnyąą .
+43014002	~		Shiti' vizheh gwizhit gwintsii , ts'ą' izhit nakhweenjit shrigwihihłyaa . Jyąhts'ą' nakhwadivee goo'aii kwaa ji' duuyeh jyaa nakhwaihnyąą .
+43014005	Nats'ąą		Thomas jyaa yahnyąą , “ K'eegwaadhat , nijin gwats'ą' hinkhaa t'iinyąą , gaagwiindaii kwaa . Nats'ąą gaagweheendaii ? ”
+43014009	Jaghaii		Jesus jyaa nyąą , “ Łyaa niighyuk nakhwaa t'ihchy'aa gwiizhit tth'aii shaakhwandaii kwaa Philip ? Juu shaa'ya' t'ee gwiti' chan nah'ya' t'oonchy'aa . Jaghaii gwiizhit ‘ Gwiti' diits'ą' agwahch'in ! ’ diinyąą ?
+43014022	jaghaii		Judas Iscariot ąįį kwaa gaa ch'izhii Judas ąįį jyaa yahnyąą , “ K'eegwaadhat , jaghaii diits'ą' adagwahaankyaa gwiizhit jii nankat ąįį kwaa ? ”
+43016005	Nijin gwats'ą'		“ Juk juu shihił'e' ąįį vits'eehihdyaa ; gaa nakhwatee ch'ihłak gaa jii shǫąąhkat kwaa , ‘ Nijin gwats'ą' hinkhaa ? ’
+43016017	Deiinyąą t'inyąą		Vitsyaa lat nąįį jyaa nihłagaanyąą , “ Deiinyąą t'inyąą li' ? Jyaa diinahnyąą , ‘ It'ee nahgwan chan neeshahǫǫ'yaa kwaa ts'ą' ąįįtł'ęę gwats'an nahgwan chan neeshahǫǫ'yaa . ’ Jii chan jyaa nyąą , ‘ Gwiti' vats'ą' hihshyaa geh'an . ’ ”
+43016018	deenyąą t'inyąą		“ ‘ Jii nahgwan it'ee , ’ nyąą ąįį deenyąą t'inyąą ? ” Nihłagaanyąą , “ Jidii eeginkhii t'inyąą vaagwiindaii kwaa ! ” ginyąą .
+43018004	juu		Jesus deereheelyaa datthak ch'adąį' hee gaandaii ; ąįįts'ą' goots'ą' niinzhii ts'ą' jyaa gavahnyąą : “ Juu vinkeegǫh'in t'akhwa'in ? ”
+43018007	juu		Jesus chan hee gavaahkat , “ Juu vinkeegǫh'in t'akhwa'in ? ” “ Jesus Nazareth gwats'an , ” ginyąą .
+43018011	~		Jesus Peter jyaa ahnyąą , “ Nizhrii choh gwizhit nąhchįį ! Shiti' chųų tyah vizhit khaiinjich'iidhat shintł'eiin'ąįį zhit ch'ishinjyaa kwaa shǫįįnyąą ? ”
+43018021	Jaghaii		Jaghaii geenjit shoohkat t'ohnyąą gǫ' ? Ąįį juu gwaałchy'a' oohkat . Deegavaiinyą' ąįį geenjit gavoohkat , deihnyą' shaagiindaii . ”
+43018023	jaghaii		Jesus t'iiyahnyąą , “ Yee'at k'ii'an t'iinyą' ji' , juk dząą gavaagwandak . Gaa deiinyą' eenjit oiints'it kwaa ji' , jaghaii shįįt'an ni'in ? ”
+43018029	jidii		Ąįįts'ą' ąįį Roman khaihkwaii choh ( Pilate ) yats'ą' ch'izhii ts'ą' yuahkat , “ Jii dinjii jidii eenjit gwiizųų tr'agwah'ya' ? ”
+43018035	t'igwinyąą		Pilate jyaa yahnyąą , “ Jew ihłii shaiinyąą ? Naa gwich'in nąįį akwat ąįį googiinkhii choh nąįį haa shintł'eenagąhchįį t'oonchy'aa . Nigwitr'it deezhik t'igwinyąą ? ”
+43018038	jidii		“ Ąįį łi'didlii ąįį jidii t'aiinyąą ? ” Pilate yuahkat .
+43019009	Nijin		Dizheh gwachoh nihdineezhii ts'ą' Jesus jyaa ahnyąą , “ Nijin gwats'an inkhaa ? ” Gaa Jesus yidii ginkhii kwaa .
+43019015	~		Gazhral ts'ą' jyaa giiyahnyąą , “ Vęhdaa tr'agǫh'ąįį ! Vęhdaa tr'agǫh'ąįį ! Cross kat gohtsak ! ” Pilate gavoahkat , “ Nakhwaa-King gwałtsak shoohnyąą ? ” Giinkhih kįh dilk'ii nąįį jyaa ginyąą , “ Caesar zhrįh dii-King nilii t'oonchy'aa ! ”
+43020013	jaghaii		“ Tr'injaa , jaghaii iintree ? ” giiyahnyąą . Jyaa gavahnyąą , “ Shik'eegwaadhat gihłeegihiłchįį ts'ą' nijuk nigiiyąąhchįį gaashandaii kwaa ! ”
+43020015a	jaghaii		“ Tr'injaa , jaghaii intree ? 
+43020015b	juu		Juu vinkeegwąh'in t'ini'in ? ” Jesus yuahkat . Gwanzhįh eetr'agwah'in t'inchy'aa yuunyąą , ts'ą' Mary jyaa yahnyąą , “ Oodhiinjik t'inchy'aa ji' nijuk nąąhchįį shaagwandak , vats'ą' hihshyaa ts'ą' noohihdal eenjit . ”
+43021012	Juu		Jesus jyaa gavahnyąą , “ Aanaii ts'ą' dząą ch'oh'aa . ” “ Juu inlii ? ” giiyahaanjyaa eenjit giideetr'oaanyąą . Gook'eegwaadhat t'inchy'aa giiyaandaii geh'an .
+43021020	juu		Peter neediil'ee akhai' ąįį juu Jesus ditsyaa nąįį tee ch'andaa yeet'iindhan niił'in , nijin neech'aga'aa dąį' Jesus eeghaii niighit kwaa dhidii chy'aa ąįį niił'in ts'ą' Jesus oahkat . “ Diik'eegwaadhat , juu diitee gwintł'ee nahahchyaa t'oonchy'aa ? ”
+43021021	aiiyu		Nijin Peter ąįį dinjii niił'in dąį' , Jesus oahkat , “ Shik'eegwaadhat , jii dinjii aiiyu' ? ”
+43021022	jaghaii		“ K'ineehihdik gwats'ą' goondaii oihnyąą ji' , jaghaii geenjit tr'igwiindii ? Aanaii , shatąįį hinkhaii ! ” Jesus yahnyąą .
+43021023	jaghaii		Vitsyaa nąįį ąįį gootee dinjii ch'ihłak niheedhaa kwaa łee ginyąą ts'ą' geenihłagogwaandak . Gaa Jesus ąįį dinjii niheedhaa kwaa nyąą t'inyąą kwaa jii ąįį jyaa nyąą t'inyąą ; “ K'ineehihdik gwats'ą' gwandaii oihnyąą ji' , jaghaii geenjit tr'igwiindii ? ”
+44001011	jaghaii		“ Galilee gwich'in nąįį , jaghaii k'iidak zhee zhit gwizhrįh aakin gǫǫ'įį ? Jesus nakhwałeehoozhii ts'ą' zheekat gwats'ą' neeroonjik t'inchy'aa . Nats'ahts'ą' k'iidak tr'ineediindhat gwik'it t'inchy'aa ts'ą' k'ineeheedik t'inchy'aa . ” ąįį dinjii neekwąįį nąįį jyaa googahnyąą .
+44002008	Nats'ahts'ą'		Nats'ahts'ą' nijin diigoodlit gwa'an diiginjik ky'aa diits'ą' giginkhii lee t'iginyąą ginyąą ?
+44002012	Jidii		Jii deegwii'in t'igwii'in gaagiindaii kwaa . Ąįįts'ą' geegaroolii kwaa t'igwiizhik , “ Jidii eenjit t'igwii'in li' ? ” gwinlęįį jyaa diginyąą ts'ą' nihłagwaakat .
+44002037	nats'ahts'ą'		Jii datthak gwigwiitth'ak dąį' , gwintł'oo tr'igwigwidii , “ Shalak nąįį , juk nats'ahts'ą' deehishi'yaa ? ” jyaa Peter ąįįts'ą' gah Tr'ihił'e' nąįį jyaa dagahnyąą .
+44003012a	jaghaii		Nijin Peter dinjii nąįį datthak zhat niinjil , gwąąh'in dąį' , goots'ą' khaginkhee , “ Israel gwich'in shalak nąįį ǫhłii , jaghaii jii t'igwiizhik łyaa geegohłii kwaa t'igwiizhik , geenjit aakin diinoo'įį ? 
+44003012b	~		Jii t'igwiizhik , diit'aii akwat Vit'eegwijyąhchy'aa vik'iighai' tr'iinzii geh'an ąįį dinjii neehidik neeriłtsąįį t'igwii'in kwaa .
+44004007a	~		Ąįįtł'ęę Peter ts'ą' John haa dagats'ą' nagąąhchįį , ts'ą' googahkat , 
+44004007b	~		
+44004007c	juu		“ Juu voozhri' zhit gwats'an t'aih khwa'įį geenjit t'akhwa'in ? ” googahnyąą .
+44004016	deegooreheelyaa		“ Jii dinjii nąįį deegooreheelyaa ? Łyaa gwigwee'in gwintsii t'igii'in , akwat nats'ahts'ą' goodirihęę'aa . Jerusalem gwizhit gwich'įį nąįį datthak jii ch'adąį' hee gaagiindaii , ts'ą' duuyeh jyaa digiizhik kwaa gwinyąą .
+44004025a	jaghaii		Diitsii David nakhwatsyaa nilįį ąįį Ch'anky'aa Shroodiinyąą k'iighai' nakhweenjit ginkhe' dąį' jii jyaa dinyąą , ‘ Jaghaii dee aakin nąįį geenjit gwint'aii zhagąąnts'įį ? 
+44004025b	jaghaii		Jaghaii dee gwik'it gweheelyaa kwaa gaagiindaii gwizhit geenjit ninjich'agadhat ?
+44005003	jidii		Peter gwint'aii jyaa diiyahnyąą , “ Ananias , jidii t'ihini'yaa kwaa ąįį t'inizhik , Satan jyaa nahnyąą k'iighai' . Ch'anky'aa Shroodiinyąą ts'ą' oonts'it . ‘ Nanan tr'oiinkwat , ąįį gwalaraa datthak gwantł'eiinlii , ’ diinyąą gąą gwik'it t'inizhik kwaa . Valat tth'aii hee khadhanzhii . Ąįį haa Ch'anky'aa Shroodiinyąą tsinteehąąhkaii gwik'eegwiindaii .
+44005004	Jaghaii		Nan gwitł'eehinlyaa gwehkįį dąį' gwats'an , nanan nilįį t'inchy'aa . Ąįįtł'ęę gwit'įį larąą oodhiinjik , ąįįt'ee nalaraa t'inchy'aa . Nats'ahts'ą' vat'oołchy'a' oiinyąą gwik'it vit'eehąąhchy'aa goo'aii . Jaghaii jyaa dooshi'ya' , yiindhan ? Dinjii zhrįh ts'ą' oonts'it kwaa , gąą Vit'eegwijyąhchy'aa chan ts'ą' oonts'it gwizhit vininjigwanzhii t'ini'in . ” yahnyąą .
+44005009	Jaghaii		“ Jaghaii nan ts'ą' nakai' haa K'eegwaadhat Vach'anky'aa Shroodiinyąą tsinteehookaii gwik'eegǫhdaii ? Yee'at chiitąįį tsyaa nąįį nakąį' anagąąhjik juk dilk'ii ts'ą' nan chan dząą gwats'an chineenagahahchyaa t'oonchy'aa . ” Peter yahnyąą .
+44007026	jaghaii		Gęhdaa drin chan valak neekwąįį nihłaaghwąįį , gwąąh'in . ‘ Nihłagahaaghwaa kwaa gavoołtsyaa , nihlak nąįį ǫhłįį , jaghaii nihłooghwaii ? ’ gavahnyąą .
+44007027	Juu		Dinjii ch'ihłee gaiich'ahtsii , ąįį Moses an yąąhtrat . ‘ Juu diineenjit k'eedeegwaadhat ts'ą' ch'oohahkat choh hinlyaa geenjit niłtsąįį ? ’ yahnyąą .
+44007035	Juu		“ Moses t'ee Israel dinjii nąįį gwehkįį dąį' , an-giiyąąhtrat . ‘ Juu k'eegwaadhat hinlyaa eenjit diineenjit niłtsąįį , ’ giiyaiinyą' chy'ąh . Ąįįtł'ęę tr'ał daak'a' zhit zheekat gwich'in nah'ya' , gwats'an k'eedeegwaadhat heelyaa geenjit Vit'eegwijyąhchy'aa goots'ą' neeyihił'e' . Gwehkįį dąį' giiyeet'iindhan kwaa googaa chan goots'eeyihił'e' .
+44007049a	jidii		‘ Zheekat , izhik gwats'an t'ee k'eegwaaldhat . Jii nan datthak eenjit K'eegwaadhat ihłįį . Ts'ą' nankat t'ee vakat shakwai' doołdlii . Jidii k'it t'inchy'aa zheh sheenjit gwahohtsyaa ? 
+44007049b	~		Neehalzhii gwideek'it deegwaajii ?
+44007052	~		Yeenii nakhwatsįį nąįį Vit'eegwijyąhchy'aa Eenjit Ginkhii nilįį nąįį khaiinjich'igiłthat , ts'ą' Christ neeheedyaa ginyąą geenjit googiiłkhwąįį . Christ t'ee khit Vit'eegwijyąhchy'aa k'eegwahthat , ts'ą' niighit kwaa dąį' juu yitr'ii'ee nąįį antł'ohchįį ts'ą' giiyiiłkhwąįį t'oonchy'aa .
+44008031	nats'ahts'ą'		“ Ch'ihłee deegwinyąą t'igwinyąą shaa gwaandak kwaa gwiizhik , nats'ahts'ą' deegwinyąą t'igwinyąą gaahashandaii ? Dząą , deedhinkhaii ts'ą' sheeghaii dhindii . ” Philip ahnyąą .
+44008033	Juu		Dinjii iizųų nilįį k'it giits'ą' t'ee'ya' , gąą łyaa dinjii nizįį inli' . Tr'agwaanduu t'ee'ya' kwaa . Juu vineezhyaadijii nąįį eegwahaandak ? Ninghyuk kwaa gwizhrįh jii nankak gweheendaii , ąįį geh'an . ” jyaa gwiinyą' .
+44008034	juu		“ Jii vakat giihkhii , nik'ee duulee geeshaagwaandak ? Jii juu dinjii dee Vit'eegwijyąhchy'aa Eenjit Ginkhii nilįį Vit'eegwijyąhchy'aa deenyąą geeginkhii ? Ideeginkhii ? Gąą yee'an dinjii eenjit ginkhii lee t'inyąą ? ” jyaa Philip ahnyąą .
+44008036	~		Tąįį gwinjik łąįį choh gavahchyaa gwa'an , chųų gąąh'in . “ Zhik chųų nah'in , nik'ee duulee chųų shats'an ąhtsii ? ” Philip ahnyąą .
+44009004	jaghaii		Gwagwahkhan nankak neet'aanąįį . “ Saul , Saul , jaghaii dee shagwahąąhshii eenjit shatąįį neehindik ? ” gwideezhuh yahnyąą .
+44009005	Juu		“ Juu inlii , K'eegwaadhat ? ” Saul yahnyąą . “ Jesus , vagwahąąhshii eenjit vatąįį neehindik , ąįį ihłįį . ” gwideezhuh yahnyąą .
+44009006	~		“ Gaa nininjii tł'ęę , Damascus gwizhit nihdeiinkhaii . Zhat dinjii ch'ihłee deehini'yaa datthak geenjit naa gwahaandak . ” jyaa gwideezhuh yahnyąą .
+44010004	jidii		Łyaa gwiint'aii zheekat gwich'in yąąh'in , gwiizhik łyaa gwintł'oo naajat . “ Shik'eegwaadhat , jidii dee ? ” yahnyąą . “ Nijin khagidiinjii dąį' , Vit'eegwijyąhchy'aa khit niitth'ak . Nats'ahts'ą' khit neeshraahchy'aa nąįį ts'iinyąą , ąįį datthak gwąąh'in ts'ą' nashoo ahłįį t'inchy'aa .
+44010021	Jidii		Jii geh'an vakwantee dinjii niilzhii nąįį ts'ą' nineezhii , “ Shįį t'ee dinjii vankeegǫǫh'in chy'ąą t'ihchy'aa . Jidii nohthan ? ” gavahnyąą .
+44010029	Jaghaii		Jii geh'an nijin shoonkach'ąh'ee dąį' , łyaa nagwal'ya' kwaa ts'ą' dzaa khan nats'ą' hoiizhii . Jaghaii shankach'ah'e' ? ” Peter yahnyąą .
+44010047	~		“ Jii dinjii nąįį geedan t'ee diik'it Ch'anky'aa Shroodiinyąą goonjik . Khan chųų goots'an tr'ahtsii kwaa gwarahahtsyaa lee t'oonchy'aa ? ” nyąą .
+44011017a	~		Nijin diikhwan t'ee K'eegwaadhat Jesus Christ vik'injiriighit dąį' , Ch'anky'aa Shroodiinyąą diits'an iłtsąįį . Israel gwich'in nilįį kwaa nąįį chan googaa Ch'anky'aa Shroodiinyąą ts'an iłtsąįį . Vit'eegwijyąhchy'aa Ch'anky'aa Shroodiinyąą goots'an hahtsyaa , 
+44011017b	~		ąįį gwik'it t'ihee'yaa kwaa gwahaałtsyaa ? Ąįį sheenjit gashragwąhchy'aa kwaa . ” Peter gavahnyąą .
+44012018	~		Nijin vanh gach'ahaa'ąįį dąį' , niveet'ah'in zhee gwaazhrąįį gwadąįį gwak'ąąhtii nąįį gwizhit łyaa deegwiizhik gaagiindaii kwaa , ts'ą' Peter deezhik gaagiindaii kwaa .
+44013025	Juu		Ąįįtł'ęę nijin gwitr'it vats'an goodlit ąįį datthak khaiinjii datthak giinjik dąį' , jyaa dagavahnyąą , ‘ Juu t'ihchy'aa shrǫǫ shohnyąą ? Juu noodhoo'in ąįį t'ihchy'aa kwaa . Gaa jii dinjii shandaa t'aih nitsii di'įį shatąįį ahaa , it'ee shrit hił'ee ts'ąįį vakwaiitryaa dineehih'ak geenjit gaa sheegoo'aii kwaa . ’
+44014015	~		“ Jyaa dakhwa'in kwaa ! ” googahnyąą . “ Diikhwan t'ee nakhwak'it dzaa nankak gwidinjii tr'inlii t'oonchy'aa . Ąįįts'ą' jii gogoonlii kwaa t'akhwa'in . Ąįį gwik'it t'ahokhwa'yaa kwaa , ts'ą' Vit'eegwijyąhchy'aa khit gwandaii nilįį , ąįįtł'ęę gwahoolyaa geenjit Gwandak Nizįį eenakhwarahtan t'igwinyąą , Vit'eegwijyąhchy'aa zhee , nan , chųų choh datthak k'eegwiichy'aa gwinlęįį gwiłtsąįį .
+44015010	jaghaii		Ąįįts'ą' t'ee , jaghaii , Vit'eegwijyąhchy'aa dee'ya' geenjit it'ee lee łi'deegwidlii li' nohthan ts'ą' Israel gwich'in nilįį kwaa nąįį Jesus k'injigiheeghit geenjit ( Law ) gwinlęįį t'agǫǫ'ya' gavoohnyąą ? Yeenii diitsii nąįį ts'ą' diikhwan haa gaa Moses va-law khyų' k'eegwarahthat gwiizhit .
+44016030	nats'ahts'ą'		Ąįįtł'ęę ninehjin ts'ą' chineegavąąhchįį , “ Shalak nąįį , deehishi'yaa ts'ą' shatr'agwaanduu gwats'an nats'ahts'ą' neehishizhii t'oonchy'aa ? ” gavahnyąą .
+44017018	~		Ąįįtł'ęę dinjii nąįį tr'igiiyoiidlii geh'an gwint'aii giidii ginkhii . Ąįį goolat nąįį dinjii Epicurus oozhii geech'ǫąąhtan k'injigijii . Goolat nąįį chan Stoic gwich'in nąįį geech'ǫąąhtan k'injigijii , “ Jii juu dinjii dee zhyąą khit ginkhii , diinaa gwahaandak gwik'eegwandaii ? ” goolat nąįį nyąą . “ Vit'eegwijyąhchy'aa ch'ijuk t'inchy'aa eegwaandak k'it t'inyąą . ” goolat nąįį chan nyąą , “ Jesus eenjit gavaa gwaandak ąįį dinjii niindhat nąįį neegwiindaii . ” gavahnyąą geh'an .
+44017019	~		Ąįįts'ą' Paul goonjik ts'ą' kwaiik'it gwachoh gwats'ą' k'eedeegwaadhat nąįį Areopagus goozhii ąįį nąįį taih Mars kat łigiiljil nąįį ts'ą' nigiiyąąhchįį , ts'ą' jyaa nyąą , “ Jii ginjik k'eejit haa geech'ǫąąhtan . Ąįį eenjit gwinzii diinaa gwandak , łyaa gaagoondaii gwiindhan .
+44019003	nats'ahts'ą'		“ Ąįį ji' , nats'ahts'ą' chųų nakhwats'an tr'iłtsąįį ? ” gavahnyąą . “ John vik'it chųų diits'an tr'iłtsąįį , adan chųų gwats'an ąhtsii nilįį geech'ǫąąhtan gwik'it t'igwiizhik ? ” giiyahnyąą .
+44019015	juu		Gaa dinjii vizhit ch'anky'aa iizųų jyaa gavahnyąą , “ Jesus vaashandaii . Ąįįts'ą' Paul chan vaashandaii . Gąą nakhwan ąįį juu t'ohchy'aa ? ”
+44019035	~		Gohch'it dinjii kwaiik'it gwachoh gwizhit nach'adantł'oo nilįį , dinjii nąįį deegwahtsai' kwaa gwiłtsąįį . Ąįįtł'ęę goots'ą' gahaakhe' , “ Ephesus gwich'in nąįį ! Diikhwan Ephesus gwich'in nąįį łyaa diivit'eegwijyąhchy'aa Artemis vakharigidiinjii zheh łyaa gwinzii gwik'eerąąhtii . Ąįįts'ą' kii vik'it teeyiltsį' zheekat gwats'an naanaii , ąįį kwaii gwinzii k'eerąąhtii . Nihky'aa dinjii datthak łyaa gaandaii .
+44021013a	jaghaii		“ Jaghaii ohtree ts'ą' shidrii zhit tr'igwidii shats'an ohtsii ? K'eegwaadhat Jesus veenjit , Jerusalem gwizhit nashaghwaarehee'aa ts'ą' sharahaahkhwaa ji' googaa geenjit tr'iilęįį ihłii t'oonchy'aa ! ” Paul diinahnyąą .
+44021013b	~		
+44021022	nats'ąą		Nijin dząą k'indik gwigwiitth'ak ji' nats'ąą deegwehee'yaa ?
+44021033a	juu		Roman niveet'ah'in kįh dhidii ąįį Paul ts'ą' haazhii ts'ą' yuunjik ts'ą' niveet'ah'in nąįį ch'iitsii tły'ah neekwąįį haa naghwaagiiyin'ąįį , ąįįtł'ęę goovahkat , “ Jii juu dinjii t'inchy'aa ? 
+44021033b	Nats'ahts'ą'		Nats'ahts'ą' deezhik ? ” dinjii nąįį ahnyąą .
+44022007	jaghaii		Ąįįtł'ęę tąįį gwinjik nankak neet'aalnąįį . Gwiizhik gwideezhuh shats'ą' ginkhii dihtth'ak . ‘ Saul , Saul , jaghaii dee shagwahąąhshii eenjit shatąįį neehindik ? ’ gwideezhuh shahnyąą .
+44022008	Juu		‘ Juu inlii ? ’ jihnyąą . ‘ Shįį t'ee Jesus Nazareth kwaiik'it gwats'an , ąįį vagwahąąhshii eenjit vatąįį neehindik , ąįį t'ihchy'aa , ’ gwideezhuh shahnyąą .
+44022010	nats'ahts'ą'		Ąįįtł'ęę ‘ Shik'eegwaadhat , nats'ahts'ą' deehishi'yaa ? ’ jihnyąą . ‘ Ndak nininjii , Damascus kwaiik'it gwizhit nihdeiinkhaii . Izhik dinjii k'eegwiichy'aa datthak Vit'eegwijyąhchy'aa doo'ya' , noonyąą geenjit naagwahaandak . ’ jyaa K'eegwaadhat shahnyąą .
+44022016	jidii		Juk jidii eenjit tth'aii nagoorahaa'yaa ? Ndak nininjii ts'ą' chųų nats'an tr'ahtsii . K'eegwaadhat Jesus natr'agwaanduu oo'an gweheelyaa eenjit vats'ą' khadigiinjii , ’ jyaa Ananias shahnyąą .
+44022026	Deeni'in		Nijin gwiitth'ak dąį' , niveet'ah'in choh kįh dhidii ts'ą' haazhii , “ Deeni'in t'ini'in ? Jii dinjii Roman nilįį nyąą vaanandaii ? ” niveet'ah'in kįh dhidii tsal yahnyąą .
+44023003	~		“ Dinjii , Vit'eegwijyąhchy'aa nagwahąhshįį , nizįį inlii adaan'įį ! Izhik dhindii ts'ą' Law k'iighai' shoohahkat geenjit , gaa nijin tr'oont'an diinyąą dąį' Law łeedǫhnaii ! ” Paul yahnyąą .
+44023009	~		Datthak ts'ą' gazhral haa ch'ats'ą' t'anihłagaanyąą . Ąįįtł'ęę Law eech'ǫąąhtan nąįį , Pharisee ky'aa gwik'injijii nąįį ndak nineegeejil , Paul eenjit giginkhii , “ Jii dinjii tr'agwaanduu t'ii'in veenjit gwagwarah'ąįį kwaa . Duulee ch'anky'aa nizįį ts'ą' zheekat gwich'in haa ch'ihłee yits'ą' ginkhii . ” ginyąą .
+44023019	jidii		Ąįįtł'ęę niveet'ah'in kįh dhidii choh tsyaa tsal anli' oonjik ts'ą' tthan niyąąhchįį , “ Juk jidii eenjit shaagoondak shǫįįnyąą ? ” niveet'ah'in kįh dhidii choh tsyaa tsal ahnyąą .
+44026008	jaghaii		Ąįįtł'ęę Paul Jews nąįį ts'ą' nil'ee ts'ą' goovah'in , “ Nakhwan Jews nąįį , jaghaii dee Vit'eegwijyąhchy'aa ‘ dinjii niindhat gwats'an gwandaii neehałtsyaa , ’ nyąą , gwik'injǫhjii kwaa ? Gwik'it t'igwehee'yaa kwaa , nohthan ? ” Paul Jews nąįį ahnyąą .
+44026014	jaghaii		Datthak ts'ą' nankak oo'an tr'ihiltł'it . Ąįįtł'ęę gwideezhuh Jews ( Hebrew ) nąįį ginjik ky'aa shats'ą' ginkhii . ‘ Saul , Saul , jaghaii dee shagwahąąhshii gwik'eegwiindaii . Nijin geenjit gwakwaa , shats'ą' neech'itsyahthat , ąįįt'ee ididininjii t'ini'in . Ąįįt'ee k'aiich'i' vagoontrii vaa ideehaandal akwanghyii k'it t'ini'in , ąįįt'ee Ox k'it t'ini'in ni'in . ’ gwideezhuh shahnyąą .
+44026015	Juu		‘ Juu inlii ? ’ jiinyą' . Ąįįtł'ęę K'eegwaadhat shats'ą' ginkhii , ‘ Shįį t'ee Jesus ihłįį , ąįįt'ee khaiinjich'ąhthat t'ini'in .
+45002017	~		Nakhwan ąįį yu' ? Jews ǫhłįį dohnyąą ts'ą' Law k'it dinjii ǫhłįį ts'ą' Vit'eegwijyąhchy'aa vaakhwandaii ąįį geech'oh'in ts'ą' adashoo ǫhłįį .
+45002021	jaghaii		Geech'oohtan , akwat geedoontan jaghaii ? “ Ch'ǫįį'įį shrǫ' ! ” dohnyąą gwiizhit nakhwan ąįį ch'ooh'įį !
+45002028	juu dee		Juu dee vadhah gihłeerihiłt'uu ts'ą' łyaa Jews nilii ? Zhit Jews nilii , vadhah vatthąį' kat gihłeerihiłt'uu ąįį nakwaa .
+45003001a	~		Jews nąįį , Jews nilii kwaa nąįį andaa ginzįį lee t'oonchy'aa ? 
+45003001b	~		Jews nąįį goodhah gihłeerahaht'ii ąįį gwihil'ee lee t'igii'in ?
+45003003	~		Gaa goolat nąįį Vit'eegwijyąhchy'aa akhagoonyąą ji' yu' ? Ąįį ji' Vit'eegwijyąhchy'aa chan akhagavohoonjyaa lee t'oonchy'aa ?
+45003005	gweheenjyaa		Gaa gwiizųų t'igwii'in ąįį Vit'eegwijyąhchy'aa gwinzii t'ii'in andaa gwigweech'in ji' yu' ? Geenjit Vit'eegwijyąhchy'aa diigwąąhshii dąį' lee gwiizųų t'ii'in gweheenjyaa ? ( Dinjii , Vit'eegwijyąhchy'aa haandaii kwaa k'it giihkhii t'ihnyąą . )
+45003006	nats'ahts'ą'		Łyaa zhyaa nakwaa ! Vit'eegwijyąhchy'aa łi'didlii kwaa ji' nats'ahts'ą' jii nan ts'an dinjii nizįį akwat dinjii iizųų nąįį tr'iheelyaa ?
+45003007a	~		Dinjii ch'ihłee duulee jii jyaa diheenjyaa , “ Gaa gwintł'oo oihts'it ąįį Vit'eegwijyąhchy'aa vich'eegwąhndit gwandaa gwizhrįh gwagwahch'in ji' yu' ? 
+45003007b	jaghaii		Jaghaii shatr'agwaanduu eenjit khaiinjich'isheheeghit ? ”
+45003008	jaghaii		Jii jyaa dagoonyą' jaghaii , “ Gweheezyaa geenjit tr'agwaanduu t'agǫǫ'ya' jaghaii ? ” Dinjii lat nąįį sheegiginkhii ts'ą' jyaa dihnyąą shagahnyąą , ąįį nąįį t'ee Vit'eegwijyąhchy'aa nats'ahts'ą' gooveegoo'aii gwik'it googwahąhshii t'iginchy'aa .
+45003009	~		Ąįįts'ą' t'ee Jews nąįį lee Jews nilii kwaa nąįį andaa ginzįį ? Łyaa zhyaa nakwaa ! Jews ts'ą' Jews nilii kwaa haa nihłaa gootr'agwaanduu gwanlii t'oonchy'aa .
+45003027a	jidii		Akwat jidii eenjit ideech'irehee'yaa ? Jaghaii ideech'irehee'yaa ? 
+45003027b	nats'ąą		Law kat nats'ąą dinjii tr'iheelyaa gwinyąą gwik'it dinjii tr'iinlii geh'an lee ? 
+45003027c	~		Nakwaa , gaa gwik'injiriighit geh'an gwizhrįh ideech'irehee'yaa .
+45004001	deegweheenjyaa		Abraham , Jews nąįį yats'an deedhaa veenjit deegweheenjyaa ? Abraham deezhik ?
+45004003	~		Dęhtły'aa Choh zhit gwadanakhwatł'oo , “ Abraham , Vit'eegwijyąhchy'aa k'injiighit geh'an Vit'eegwijyąhchy'aa dinjii khit shik'eegwahthat nilii yahnyąą . ”
+45004010	~		Jii Abraham vadhah gihłeerihłt'uu ąįį gwik'injiheedhaa gwehkįį akwat ąįįtł'ęę dąį' lee t'igwiizhit ? Vit'eegwijyąhchy'aa k'injiindhat ąįįtł'ęę t'igwiizhit t'oonchy'aa .
+45005010	~		Gwehkįį dąį' Vit'eegwijyąhchy'aa łyaa vitr'igwii'ee googaa nihk'it Vidinji' niindhat k'iighai' vijyaa neediiniłtsąįį . Et'ee Vit'eegwijyąhchy'aa vijyaa tr'iinlii geh'an Christ gwandaii k'iighai' neediihahshii gwizhrįh goo'aii !
+45005021	~		Ąįįts'ą' ch'ichį' ąįį tr'agwaanduu t'igwii'in diits'ą' k'eedeegwaadhat k'it t'oonchy'aa geh'an niriindhat , gaa juk Vit'eegwijyąhchy'aa dich'eegoonzhrįį diinantł'eiin'ąįį haa vaa gwinzii tr'eedaa diiniłtsąįį , Diik'eegwaadhat Jesus Christ k'iighai' gwandaii ndaanąą'ąį' kwaa khit geenjit tr'ihee'yaa .
+45006001	deegweheenjyaa		Akwat deegweheenjyaa ? Vit'eegwijyąhchy'aa vich'eegoonzhrii gwandaa nitsii heelyaa geenjit nihk'it diitr'agwaanduu gweheelyaa ?
+45006002	jaghaii		Łyaa zhyaa nakwaa ! Diitr'agwaanduu zhit niriindhat k'it t'igwiizhik , gwiizhit jaghaii tth'aii hee vizhit gwireheendaii ?
+45006015	~		Ąįįtł'ęę yu' ? Moses va-law deediinoonyąą gwik'it gwarandaii kwaa ji' , tr'aanduu diigwitr'it gwanlii gwiizhit Vit'eegwijyąhchy'aa vich'eegoonzhrii zhit gwireheendaii ? Łyaa zhyaa nakwaa !
+45006021	~		Datthak ts'ą' ąįį tr'agwaanduu gwigwitr'it t'akhwa'ya' vaa gaiiyiigwadhohtsąįį kwaa , ts'ą' jii t'ee gwa'oozhii ǫhłįį . Ąįį kwaii t'ee dinjii nąįį giiyaa ch'ichį' ndaagwąą'ąį' di'įį t'oonchy'aa .
+45007007	~		Ąįįts'ą' Moses va-law tr'aanduu gwigwitr'it dihnyąą lee t'ihnyąą ? Łyaa zhyaa nakwaa ! Gaa vik'iighai' t'ee shatr'agwaanduu gwanlii gaashandaii , ąįį geenjit t'inchy'aa . “ Nakhwanee'ok dinjii ts'an ts'ą' dinjikhwaghit shrǫ' ! ” Gwinyąą ts'ą' danakhwatł'oo kwaa ji' dinjiriighit gwinyąą ąįį deegwinyąą t'igwinyąą gaahashandaii kwaa .
+45007024	~		Dinjii vaa-shroonchy'aa kwaa ihłii ! Vit'eegwijyąhchy'aa viłeesharahahchyaa kwaa geenjit , shatthąį' tr'agwaanduu t'oo'ya' nindhan ąįį zhit gwats'an tr'ineesharohchyaa nihthan ,
+45008024	~		Nijin Vit'eegwijyąhchy'aa dii gwik'injigwiighit k'iighai' neediinahshii dąį' gwats'an ch'ichį' ts'ą' diitthąį' ahjat ilii ts'an zhyaa tr'ineereejil ji' gwindhan . Ch'ihłee gaa jidii ch'adąį' di'įį ts'ą' dinjiighit kwaa t'oonchy'aa .
+45008031a	deegweheenjyaa		Jii kwaii datthak gwaraah'in geenjit deegweheenjyaa ? 
+45008031b	juu		Vit'eegwijyąhchy'aa diinaa t'inchy'aa ji' juu dee diits'į' t'iheechy'aa ?
+45008032	jidii		Vit'eegwijyąhchy'aa Didinji' ootą' kwaa gaa diineenjit gwantł'eeyahchįį ! Didinji' diineenjit gwantł'ąhchįį gwizhit zhyaa jidii gwiindhan datthak diinantł'eehee'aa ?
+45008033	juu dee		Juu dee Vit'eegwijyąhchy'aa dinjii gwitee tr'iinlii nąįį gwiizųų t'igiizhik heenjyaa ? Ch'ihłee gaa nakwaa Vit'eegwijyąhchy'aa adan ąįį gootr'agwaanduu kwaa goovahnyąą t'oonchy'aa !
+45008034	juu dee		Juu dee dinjii tr'agwaanduu vigwitr'it gwanlii ts'ą' nooghit heenjyaa ? Christ Jesus diineenjit niindhat ts'ą' ninehjin , ts'ą' Vit'eegwijyąhchy'aa vishriits'ąįį gwihil'ee dhidii gwiizhit diineenjit ch'oodiikwat ąįį nakwaa .
+45008035	Juu dee		Juu , akwat jidii dee Christ vich'eet'igwiniindhan ts'an tr'eediihahchyaa ? Googwantrii akwat khaiinjich'iriighit akwat neeshreeraahchy'aa , diigwarahshii akwat ch'ichį' . Kwaii khan gwats'an tr'idiiheelyaa lee t'oonchy'aa ?
+45009014	gweheenjyaa		Vit'eegwijyąhchy'aa gwinzii t'ii'in kwaa lee gweheenjyaa ? Łyaa nakwaa .
+45009019a	doonchy'aa		Gaa nakhwatee ch'ihłee jyaa dashahaanjyaa t'oonchy'aa , “ Jyaa doonchy'aa ji' , 
+45009019b	~		Vit'eegwijyąhchy'aa ch'ihłee gaa iizųų heenjyaa kwaa , adan reh jyaa diginchy'aa gooviłtsąįį geh'an ! ”
+45009020a	juu		Shijyaa nąįį , juu ihłii nohthan dee , 
+45009020b	~		Vit'eegwijyąhchy'aa vidii gohkhii ? 
+45009020c	jaghaii		“ Jaghaii jyąhts'ą' shontsąįį ? ” ąįį tyah łųhch'ant'ak haa iltsąįį ąįį dinjii yiłtsąįį jyaa dahnyąą kwaa doonchy'aa .
+45009021	nats'ąą		Ąįį geh'an t'ee zhit dinjii łųhch'ant'ak haa tyah ąhtsii , nats'ąą ołtsyaa yuunyąą gwik'it yahtsii , ts'ą' nijin łųhch'ant'ak haa tyah neekwaii oiłtsyaa niindhan ji' gaa gwik'it t'ihee'yaa , tyah ch'ihłak ąįį nijin gwihil'ee t'igwii'in geenjit , ts'ą' ch'ihłak chan nijin drin gwiteegwaanchy'aa vit'eegwahahchy'aa geenjit .
+45009022	~		Ąįį gwik'it Vit'eegwijyąhchy'aa deezhit chan gwik'it t'oonchy'aa . Zhyaants'įį haa dat'aii gwagwahch'in . Gaa juu an hahtsyaa nąįį gootr'agwaanduu geh'an dinjii halchi' kwaa nilii ąįį gwinzii t'inchy'aa .
+45009023	~		Neeshraahchy'aa diinoonyąą niindhan ji' gwik'it t'iheechy'aa , datthak shrigwinlik dich'eegwąhndit diits'ą' gwagwahahchy'aa geenjit .
+45009024	~		Jews nąįį zhrįh tee gwats'an tr'idiiniinlii kwaa gaa Jews nilii kwaa tee gwats'an chan .
+45009030	deegweheenjyaa		Ąįįts'ą' deegweheenjyaa ? Zhit Israel gwich'in nilii kwaa nąįį Vit'eegwijyąhchy'aa haa gwinzii giheedaa geenjit gwik'eegogwandaii kwaa gaa googwik'injigwiighit eh'an Vit'eegwijyąhchy'aa haa gwinzii geedaa .
+45009032	Jaghaii		Jaghaii khų' t'igii'in t'ee , digwik'injigwiighit t'eegąhchy'aa kwaa ts'ą' googwitr'it haa gwik'eegwagwandaii , ąįįts'ą' kii taa t'eeraadhak k'it t'iginjik .
+45010006	Juu		Dęhtły'aa Choh zhit diigwik'injigwiighit haa Vit'eegwijyąhchy'aa vaa gwinzii tr'eedaa ji' gwinyąą t'ee jii t'agwarahnyąą : “ Juu zheekat gwats'ą' heekhaa li' gweheenjyaa kwaa t'oonchy'aa ? ” jyaa digweheenjyaa goo'aii kwaa ! ( Christ oodaa neerahahchyaa gwinyąą t'igwinyąą . )
+45010007	Juu		Ąįį gwik'it chan duuyeh : “ Juu oozhak gwit'eh goo'aii kwaa gwats'ą' heekhaa li' gweheenjyaa kwaa t'oonchy'aa . ” ( Jyaa t'igwinyąą dąį' Christ ch'ichį' ts'an tr'ineerahchįį t'igwinyąą . )
+45010008	~		Jii t'ee Dęhtły'aa Choh zhit jyaa digwinyąą , “ Vit'eegwijyąhchy'aa deenyąą t'ee nakhwats'ą' niighit kwaa dha'aii , ts'ą' nakhwaghit ts'ą' nakhwadrii zhit dha'aii k'it t'inchy'aa . ” Ąįį gwik'injigwiighit gwandak geeraahtan t'oonchy'aa .
+45010014a	nats'ąą		Gaa K'eegwaadhat k'injigiighit kwaa ji' duuyeh neeshahshii giiyahnyąą . Jesus Vagwandak Nizįį giitth'ak kwaa ts'ą' chan geegoorahtan kwaa gwiizhit nats'ąą gwik'injigeheeghit ?
+45010014b	~		
+45010014c	~		
+45010015	nats'ąą		Gwandak Nizįį eech'ǫąąhtan nąįį , geech'oohahchyaa geenjit zhit gwa'an gwats'ą' nagooriinlii kwaa ji' nats'ąą gwigweheetth'ak ? Dęhtły'aa Choh zhit jyaa digwinyąą , “ Gwandak Nizįį eegwaandak nąįį goovał'in dąį' łyaa shaashroonchy'aa . ”
+45010016	~		Gaa Isaiah vagwanlii gwanaa dąį' lęįį nąįį Gwandak Nizįį k'injigiighit kwaa , ts'ą' Isaiah jyaa nyąą , “ K'eegwaadhat , lęįį nąįį jidii geegoorołtin gwik'injigiighit kwaa ! ”
+45011004	Nats'ahts'ą'		Nats'ahts'ą' Vit'eegwijyąhchy'aa yidii ginkhe' ? “ Dinjii 7 thousand nąįį ch'ik'itiltsį' Baal oozhii ts'ą' khagidiinjii kwaa nąįį shaa khagoovoolzhii t'oonchy'aa . ”
+45011007	nats'ąą		Ąįį nats'ąą dee ? Israel nąįį jidii keegwagwąh'in agwagwąh'ąįį kwaa ? Aahą' , Vit'eegwijyąhchy'aa gootee nitsya' zhrįh gwitee tr'iinlii nąįį giigwąh'ąįį . Zhit ch'izhii nąįį Vit'eegwijyąhchy'aa goovankee ginkhii gaa giiyiitth'ak kwaa .
+45011015	deegweheenjyaa		Nijin Jews nąįį gootr'igwii'ee dąį' , ch'izhii dinjii nąįį Vit'eegwijyąhchy'aa vijyaa gaadlit . Nijin Jews nąįį vijyaa neeriłtsąįį ji' , deegweheenjyaa li' ? Vit'eegwijyąhchy'aa gooneegwiłdaii k'it t'igiheenjyaa .
+45011018	nats'ąą		Ąįįts'ą' t'ee jii tthoochyah lęįį nąįį andaa ihsįį nǫh'ya' shrǫ' , nats'ąą zhyaa ideech'oh'in ? Tthoochyah zhrįh ǫhłįį t'oonchy'aa , zhit tthoochan lęįį ndak ohtą' kwaa , ąįį tthoochan nakhwan ndak nakhoontą' t'oonchy'aa .
+45011033a	~		Vit'eegwijyąhchy'aa jiintsii veegoo'aii gwinyąą ąįį łyaa gęhdaa kwaa gwiintsii t'agwarahnyąą ! Vigwizhi' ts'ą' deegwahtł'oo gaandaii dinjii ch'ihłak gaa duuyeh yandaa gaandaii ! 
+45011033b	~		Dinjii ch'ihłee gaa nats'ąą Vit'eegwijyąhchy'aa ninjich'adhat gaandaii kwaa . Ch'ihłee gaa deehee'yaa yaandaii kwaa .
+45011034a	juu dee		Dęhtły'aa Choh zhit jyaa digwinyąą , “ Juu dee K'eegwaadhat viyinji' haandaii ? 
+45011034b	juu		Juu jyaa dini'in yahaanjyaa geenjit gwintsii veegoo'aii ?
+45011035	juu dee		Giineegooheekwat geenjit juu dee yintł'eegwinlii ? ”
+45014004	juu dee		Nakhwan ąįį juu ǫhłįį dee ch'izhii dinjii vi-slave nąįį nakhweenjit iizųų ? Geedan juu goots'ą' k'eedeegwaadhat t'ee giizųų akwat ginzįį goohaanjyaa t'oonchy'aa . Ąįįts'ą' K'eegwaadhat t'aih goots'an ąhtsii haa digwik'injigwiighit duuyeh akhagagoonyąą t'iginchy'aa .
+45014010a	jaghaii		Zhit juu gwanzhįh zhrįh a'aa nąįį jaghaii ch'izhii nąįį nakhweenjit iizųų ? 
+45014010b	jaghaii		Zhit juu jidii datthak a'aa nąįį chan jaghaii juu gwik'injiighit nąįį gwanzhįh zhrįh ga'aa nakhweenjit iizųų ? Datthak ts'ą' Vit'eegwijyąhchy'aa vats'a' nireheedhat ts'ą' diinahahkat t'oonchy'aa .
+46001020a	nijuk		Akwaa ji' zhit vigwizhi' gwanlii nąįį ts'ą' Moses va-law geech'ǫąąhtan nąįį ts'ą' zhit dinjii vigwizhi' gwanlii niindhan nąįį nihzheedagąąn'ee datthak nijuk giilk'ii ? Vit'eegwijyąhchy'aa zhyaa k'ii'an ninjich'agadhat łee goots'ą' gwigweełkįį .
+46001020b	~		
+46001020c	~		
+46002011	nats'ąą		Jii diinanky'aa diizhit t'inchy'aa t'ee nats'ąą ninjich'aradhat gaandaii , ąįį gwik'it Ch'anky'aa Shroodiinyąą zhrįh nats'ąą Vit'eegwijyąhchy'aa ninjich'adhat gaandaii .
+46002016a	juu dee		Jii Dęhtły'aa Choh zhit gwadanakhwatł'oo , “ Juu dee nats'ąą K'eegwaadhat ninjich'adhat gaandaii ? 
+46002016b	juu dee		Juu dee K'eegwaadhat jyaa danoo'ya' jaghaii heenjyaa ? ” Gaa diikhwan Ch'anky'aa Shroodiinyąą tr'ii'įį ts'ą' gwik'injiriighit geh'an Christ vik'it ninjich'aradhat .
+46003005a	juu		Apollos ts'ą' shįį haa juu t'igwinchy'aa nakhwaagwarahaandak , Vit'eegwijyąhchy'aa vitsyaa tr'iinlii ts'ą' tr'ihil'ee kwaa gwizhrįh t'oonchy'aa . Diitee gwagwaanchy'aa ts'ą' jidii gwitr'it K'eegwaadhat diits'an iłtsąįį ąįį eetr'agwarah'in k'iighai' Jesus vik'injuhkhit nakhwariłtsąįį .
+46003005b	~		
+46004007a	juu		Ch'izhii dinjii nąįį gwiizųų tr'agwah'in dohnyą' shrǫ' , juu goovandaa hil'ee niłtsąįį ? 
+46004007b	jidii		Jidii khwa'įį ąįį Vit'eegwijyąhchy'aa ts'an datthak oodhoojik t'oonchy'aa . 
+46004007c	jaghaii		Vit'eegwijyąhchy'aa vats'an oodhoojik ji' jaghaii vaa ideech'oh'in ?
+46004021	nijuk		K'eihdik ji' nijuk ts'ąįį hihshyaa shrǫǫ shohnyąą ? Tth'aii hee gwiizųų t'akhwa'in ji' , geenjit akǫǫ danakhwahaihjyaa . Gaa nakhwatr'agwaanduu ts'į' an-needhoo'ee ji' nakhwats'ą' ch'eeshroonchy'aa gwizhit ch'eet'igwiniindhan haa zhat neehihdyaa gaakhwandaii .
+46005002	jaghaii		Gwa'oozhii ǫhłį' gaa gwiizhit nihk'it tr'igiinkhii zheh nineedal nąįį ashoo'ohłįį ! Jii dinjii vatr'agwaanduu eenjit tr'agohdii jaghaii ? Jyaa dagwahtł'oo veenjit tr'agohdii ji' , dahthee ch'ijuk t'iheenjyaa gwats'ą' datthak chan nakhwatr'igiinkhii zheh neegwahaan'yaa kwaa ohtsii .
+46005012	~		Juu tr'igiinkhii zheh nineedal kwaa ts'ą' gwik'injiighit kwaa nąįį ch'ats'ą' t'ahaihjyaa geenjit sheegoo'aii kwaa . Gaa nakhwan ąįį juu nakhwatr'igiinkhii zheh nineedal nąįį khan ch'ats'ą' t'agavahohjyaa ts'ą' jyaa dini'in kwaa gavahohjyaa goo'aii .
+46006001	~		Nijin nakhwatee ch'ihłee ch'izhii gwik'injiighit haa gwinzii gwił'ąįį kwaa ji' , zhit ch'aroahkat zheh dinjii neenjit shrigweheelyaa ąįį gwik'injiighit kwaa vats'ą' hoiinzhi' shrǫ' . Gaa juu gwik'injiighit nąįį gwinzii t'ohnyąą ji' oohkat .
+46006003	~		Ch'aroahkat drin ji' zheekat gwich'in iizųų dhidlit nąįį gaa tr'oohahkat t'oonchy'aa gaakhwandaii ? Zheekat gwich'in nąįį gaa tr'oohahkat łee akwat jii nankat datthak nihzheedagąąn'ee gaa shrigweheelyaa ąįį gwintsal .
+46006004	~		Nakhwatee gwik'injiighit gwinzii gwił'ąįį kwaa ji' , juu gwintsii veegoo'aii kwaa nąįį ji' gaa , nakhweenjit shrigweheelyaa .
+46006007a	~		Zhit juu ch'aroahkat łi'didlii nahnyąą gaa Vit'eegwijyąhchy'aa vandee zhit gwik'injiighit ch'aroahkat zheh nąhchįį geh'an gwiizųų t'ini'in . Ch'izhii gwik'injiighit nąįį nats'ą' gwiizųų t'igiizhit ji' ts'ąįį gwandaa gwiizųų , ch'agoahkat ts'ą' haazhii zhit gwiizųų t'ishizhit diinyąą ąįį gwinzii . Dinjii gwik'injiighit nats'an ch'aan'įį ji' yu' ? Vits'į' neeyuunjii shrǫ' gaa zhyaa vats'ą' akhoiinyąą ts'ąįį gwinzii .
+46006007b	~		
+46006009	~		Dinjii tr'agwaanduu vigwitr'it gwanlii nąįį yeendaa ji' zheekat gwizhit duuyeh Vit'eegwijyąhchy'aa haa nadhat ts'ą' yaa k'eedeegwaadhat t'oonchy'aa . Geeghaih ch'ijuk naagwaraandak ji' gwik'injuhkhit shrǫ' ! Juu dinjii akwat tr'injaa haa zhyaa ch'aa'iłchųų nąįį ts'ą' ch'ik'itiltsį' ts'ą' khagidiinjii nąįį chan ts'ą' juu geedhidii gaa va'at akwat vakai' nilii kwaa nąįį haa dhichįį nąįį t'aihnyąą , dinjii akwat tsyaa tsal haa ch'izhii dinjii haa gaachįį nąįį chan ,
+46006016	~		Tr'injaa laraa eenjit ch'aadhichįį vaadhinchįį ji' vaa natthąį' ch'ihłak ilik gaanandaii , jyąhts'ą' Dęhtły'aa Choh zhit gwadanakhwatł'oo ; “ Dinjii , tr'injaa haa nihłeegǫǫndak dąį' da'at haa inchi' tł'ęę ch'ihłak gaadlit . ”
+46006019	~		Natthąį' t'ee Ch'anky'aa Shroodiinyąą yizhit gwich'įį gaanandaii . Vit'eegwijyąhchy'aa nakhwats'ą' yihił'e' t'inchy'aa . Vit'eegwijyąhchy'aa vats'an ǫhłįį t'oonchy'aa , nan natthąį' ts'ą' k'eegwandhat kwaa .
+46007016a	~		Vit'eegwijyąhchy'aa vik'injuhkhit ts'ą' nihk'it nakhwakai' haa dhoodii . Ąįį ji' duulee nakhwakai' gwik'injahohthaa . 
+46007016b	~		Ąįį gwik'it ch'akai' gwik'injiighit nąįį nakhwan t'ee nakhwa'at haa nihk'it dhoodii ji' duulee nakhwa'at gwik'injahohthaa t'oonchy'aa .
+46009007a	~		Niveet'ah'in giinlii geenjit googwarookwat goo'aii . 
+46009007b	~		Dinjii gwanzhįh nahshii nąįį khit giits'an jak ga'aa t'oonchy'aa , 
+46009007c	~		ts'ą' divii k'ąąhtii nąįį khit chan digidivii ts'an aak'ii t'ok giheenjyaa t'oonchy'aa .
+46009018	Jidii		Jidii haa shagwarookwat ? Jii Gwandak Nizįį gwaałtan eenjit Vit'eegwijyąhchy'aa shihił'ee ts'ą' shagwarookwat nihthan kwaa , gwizhit chan shaagoondaii nihthan kwaa .
+46010019a	jidii		Ch'ik'itiltsį' akwat jidii shih ch'ik'itiltsį' antłeerahchak nik'ee geenjit gwihil'ee lee t'oonchy'aa ?
+46010019b	~		
+46010019c	~		
+46010029	jaghaii		Ąįį niyinji' ts'an t'oonchy'aa kwaa gaa ch'izhii dinjii jyaa nyąą ąįį viyinji' ts'an t'oonchy'aa . Akwaa ji' jaghaii nats'ąą neediheeshindik ąįį ch'izhii dinjii viyinji' ts'an gweheelyaa ?
+46010030	jaghaii		Vit'eegwijyąhchy'aa jii shih eenjit mahsį' vaihnyąą ji' , jaghaii dinjii nąįį jidii shih ii'al geenjit sheegiginkhii ?
+46011022	deenahaihjyaa		Nijin ch'ihin'aa ts'ą' ch'ininjyaa geenjit nizheh goo'aii ? Vit'eegwijyąhchy'aa vitr'igiinkhii zheh nihił'ee kwaa ts'ą' dinjii neeshraahchy'aa nąįį chan ts'an oozhii ąhtsii ! Jii geenjit deenahaihjyaa ? Nahooł'ee shǫįįnyąą ? Duuyeh gwik'it gwanlii .
+46012017a	nats'ąą		Shatthąį' ąįį shandee zhrįh nilii ji' nats'ąą shiheetth'ak ? 
+46012017b	nats'ąą		Shidzee zhrįh nilii ji' nats'ąą shahahtsan ?
+46012019	~		Shatthąį' nihłehjuk t'iichy'aa gwanlii kwaa ji' , duuyeh shatthąį' ch'ihłak zhrįh gwanlii t'oonchy'aa .
+46014006	Jidii		Ąįįts'ą' shachaa nąįį nakhwats'ą' khoiizhii ts'ą' gwikyaa zhit gihkhii ts'ą' shootth'ak kwaa ji' nakhwats'ihihjyaa gwakwaa . Jidii Vit'eegwijyąhchy'aa shats'ą' gwigweełkįį nakhwaagwahaldak ts'ą' gwizhįh shintł'eegwiin'ąįį , ąįį nakhwantł'eegwiilii ji' gwizhrįh nakhwats'ihihjyaa .
+46014007	~		Jii gwik'it gooh'in , Flute akwat ch'iitsiidlii harp , haa ch'ilik tr'ahtsii ąįį gwandaii nilii kwaa t'inchy'aa . Gwinzii tr'iheetth'ak ky'aa vaach'ohłii kwaa ji' duuyeh jidii ach'oohłii gaagiindaii .
+46014008	juu		Ąįįts'ą' niveet'arah'in geenjit ch'ilik ( bugle ) gwinzii ach'aahłii kwaa ji' , juu niveet'ahah'yaa geenjit gwats'ą' heekhaa ?
+46014009	nats'ąą		Ąįį gwik'it gwikyaa zhit ginkhii gwinzii nigiitth'ak kwaa ji' , nats'ąą deiinyąą t'iinyąą naagiheendaii ? Zhyaa niginjik an heelyaa t'oonchy'aa .
+46014015	deeshi'yaa		Geenjit deeshi'yaa ? Geetee hee Ch'anky'aa Shroodiinyąą , akwat shagwandaii haa khadigeheejyaa . Geetee hee shagwandaii akwat Ch'anky'aa Shroodiinyąą haa ch'ilik eehihłyaa .
+46014016	nats'ąą		Nijin Ch'anky'aa Shroodiinyąą zhit gwizhrįh Vit'eegwijyąhchy'aa vats'a' mahsį' diinyąą ji' , juu vaa khagidiinjii nąįį deiinyąą t'iinyąą naagiindaii kwaa gwiizhit nats'ąą gwik'it gooli' giheenjyaa ?
+46014026	~		Shachaa nąįį jii jyaa dihnyąą t'ihnyąą ; nijin tr'igiinkhii gohtsii geenjit khaihłan nineekhwadal dąį' nakhwatee ch'ihłee Vit'eegwijyąhchy'aa vich'ilik iilii , ts'ą' ch'izhii chan gwinzii geech'ǫąąhtan gwiizhit ch'izhii chan Vit'eegwijyąhchy'aa ts'an deeheenjyaa yats'ą' gwagwahkįį , ch'izhii chan gwikyaa zhit ginkhii , ts'ą' ch'ihłee chan ąįį deenyąą t'inyąą geegwaandak . Jii datthak t'ee tr'igiinkhii zheh nineedal nąįį ts'igiheenjyaa jyaa digihee'yaa goo'aii t'oonchy'aa .
+46014036	~		Akwat nakhwats'an Vit'eegwijyąhchy'aa viginjik tr'aatth'ak lee t'oonchy'aa ? Nakhwan zhrįh nakhwats'ą' tr'aatth'ak lee t'inchy'aa ?
+46015012	jaghaii		Jii gwandak t'ee Christ niindhat ts'ą' neegwiindaii gwinyąą gwizhit jaghaii nakhwatee nakhwalat nąįį juu niindhat duuyeh neegwiindaii ginyąą ?
+46015029a	juu		Akwat zhit juu niinjik nąįį eenjit dinjii ts'an chųų dhidlit nąįį yu' ? 
+46015029b	jidii		Jidii gaiiyiigahahtsyaa giindhan t'igii'in ? 
+46015029c	jaghaii		Niinjik nąįį duuyeh neegwiindaii gwinyąą ąįį łyaa t'igwinyąą ji' jaghaii dinjii nąįį , niinjik nąįį eenjit goots'an chųų dhidlit ?
+46015030a	~		
+46015030b	jaghaii		Ąįį Tr'ihił'e' tr'iinlii ts'ą' jaghaii drin gwiteegwagwaanchy'aa diirahaakhwaa akwat khaiinjich'idiirahahthat gwizhit gwireheendaii ?
+46015032	jidii		Ephesus gwizhit gwitr'it t'agwał'in gwiizhit nin iizųų k'it nich'itsałthat ji' , jidii ideenjit gaiiyiihałtsyaa ? Niinjik nąįį neegweheendaii kwaa ji' , jyaa t'igwinyąą gwik'it , “ Nihkaa nireheedhaa gwehkįį ch'aroo'aa ts'ą' ch'aroonį' . ”
+46015035a	Nats'ąą		“ Nats'ąą niinjik nąįį neegweheendaii ? 
+46015035b	deeheechy'aa		Akwat gootthąį' deeheechy'aa li' ? ” Nakhwatee ch'ihłee zhyaa jyaa diheenjyaa ts'ą' ch'oohahkat .
+46015055a	adaajii		Ch'ichį' gaayiich'ahałtsyaa niindhan chy'ah adaajii ? 
+46015055b	adaajii		Ch'ichį' t'aih haa ts'agwahaałthaa niindhan chy'ah adaajii ? ”
+47002002	juu		Nakhwaa shroonchy'aa kwaa nakhwadhałtsąįį ji' juu shizhit shoo hah'aa ? Nakhwan juu vaashroonchy'aa kwaa dhałtsąįį nąįį zhrįh chan hee shoo shahąhtsyaa .
+47002016	juu		Juu vatr'agwaanduu gwanlii ts'ą' teehaajil nąįį jii gwanzhįh tr'ahk'an dąį' gwinzii vagwaatsan łyaa gooveenjit tr'aatsan ts'ąįį khaiinjii gaa giłchįį . Gaa juu neeheezhii nąįį jii gwanzhįh tr'ahk'an t'ee gwandaii goots'an ąhtsii k'it t'inchy'aa . Vit'eegwijyąhchy'aa k'iighai' gwizhrįh jii gwitr'it t'agwarah'in t'oonchy'aa !
+47003008	~		Ąįįts'ą' Vit'eegwijyąhchy'aa , Ch'anky'aa Shroodiinyąą k'iighai' dee'in gwandaa vich'eegwąhndit .
+47003009	~		Juu Moses va-law k'eegwahthat kwaa t'ee an heelyaa , ąįį law vich'eegwąhndit gwanlii ji' gaa nihk'it . Gaa neereheezhii ąįį gwandaa ch'eegwąhndit t'oonchy'aa .
+47006014a	Nats'ahts'ą'		Juu gwik'injiighit kwaa nąįį haa kheihłak ǫhłį' shrǫ' , duuyeh jyaa dakhwa'in goo'aii t'oonchy'aa . Nats'ahts'ą' nizįį , 
+47006014b	~		ąįį iizųų haa nihjyaa k'it nihłaa khaihłak giheelyaa ? Duuyeh tǫǫ , ts'ą' drin haa nihłaa t'iginchy'aa t'oonchy'aa .
+47006015a	deeginyąą		Duuyeh Christ ts'ą' Ch'anky'aa Tr'aanduu ( Belial ) haa nihłaa deeginyąą nihk'it t'igii'in ? 
+47006015b	deeginyąą		Ąįį gwik'it gwik'injiighit ts'ą' gwik'injiighit kwaa nąįį haa nihłaa deeginyąą duuyeh nihk'it t'igii'in .
+47006016	Nats'ahts'ą'		Nats'ahts'ą' Vit'eegwijyąhchy'aa vakharigidiinjii zheh nineedal nąįį ts'ą' gwik'injiighit kwaa goo-ch'ik'itiltsį' zheh nineedal nąįį haa nihłaa deeginyąą nihk'it t'igihee'yaa ? Diikhwan t'ee Vit'eegwijyąhchy'aa khit gwandaii ąįį vakharigidiinjii zheh tr'iinlii k'it t'oonchy'aa . Dęhtły'aa Choh zhit Vit'eegwijyąhchy'aa jyaa dinyąą , “ Shigii nąįį goovaa t'ihihchy'aa ts'ą' gootee chan gwihihchy'aa . Shatąįį giheedaa ts'ą' Goovit'eegwijyąhchy'aa hihłyaa . ”
+47011011	~		Nakhweet'ihthan geh'an jii jyąhts'ą' nakhwats'ą' giihkhii t'ihnyąą . Vit'eegwijyąhchy'aa nakhweet'ihthan gaandaii t'inchy'aa !
+47011029a	~		Nakhwatee ch'ihłee vat'aii kwaa dąį' shant'ee shat'aii kwaa gohtsii t'oonchy'aa . 
+47011029b	~		Nakhwatee ch'ihłee tr'agwaanduu tr'agwah'in dąį' shidrii zhit łyaa gitr'iih'ee , gwiizhit shik'įį gwanlii .
+47012013	~		Ch'adanh tr'igiinkhii zheh gwa'an gwizhrįh goot'injyaałchy'a' gaa nakhwan ąįį nakhwat'injyaałchy'aa kwaa , ąįį gwiizųų t'ishizhik kwaa t'oonchy'aa .
+47012017	~		Jyaa dishi'in kwaa t'oonchy'aa ! Dinjii nakhwats'ą' nanalzhit nąįį chan zhyaa deenakhwaroh'ya' giindhan gwik'it t'anakhwagahah'yaa geenjit nakhwats'ą' nineegoovalzhit t'ishi'in kwaa .
+48002014	nats'ąą		Gwandak Nizįį łi'didlii haa k'igwąą'ee geedaa kwaa gwaał'in dąį' , Peter gwandah jyaa vaihnyąą : “ Jews inlii googaa Jews nilii kwaa nąįį k'it gwiindaii gwiizhit nats'ąą Jews nąįį k'it gwigweheendaii eenjit gwik'eegwiindaii ni'in ? Jyaa dini'yaa kwaa goo'aii gaanandaii ! ”
+48003001	~		Galatians , łyaa nakhwagwizhi' kwaa ts'ą' tr'agǫhjik ! Tr'aanduu tee nakhwahaadlii ! Jesus Christ nihk'ataa'ee ( cross ) kat nakhweenjit giriłtsak gohtth'ak gaa nihk'it tr'agǫhjik .
+48003019	Jaghaii		Jaghaii Law diinantł'eegwariin'ąįį gwanlii gǫ' ? Gwiizųų gwitr'it gwanlii ąįį gwizhrįh nagwahaatth'aa eenjit danakhwatł'oo t'inchy'aa . Ąįįts'ą' dahthee yeenii diilak Abraham ts'an deeddhaa nąįį neegoorahaan'yaa gwats'ą' gwizhrįh goo'aii , ąįį Vit'eegwijyąhchy'aa Abraham neenjit deeshi'yaa ahnyąą t'arahnyąą . Zheekat gwich'in nąįį ąįį Vit'eegwijyąhchy'aa eenjit Law k'eega'ak , Moses antł'eegiiyin'ąįį ąįįtł'ęę Moses chan dinjii nąįį intł'eeyiin'ąįį t'arahnyąą .
+48004009a	jaghaii		Gaa juk Vit'eegwijyąhchy'aa haakhwandaii dhoodlit akwat jii ąįį jyaa danakhwahaihjyaa , juk Vit'eegwijyąhchy'aa naandaii goodlit . Ąįį ch'anky'aa iizųų goot'aii kwaa ts'ą' ginilih kwaa haa ginlii , jii nankat gwats'ą' k'eedeegwaadhat ąįį jaghaii goots'eekhwajyaa nohthan ?
+48004009b	~		
+48004010	~		Drin akwat , shin , khaii , khaiits'ą' , shreenyaa , neegwadadhat kwaii gwiteegogwąąnchy'aa khagadǫhjii goo'įį .
+48004015	Deegwiizhik		Łyaa nakhwaashroonchy'aa chy'aa nakhwanaldaii ! Deegwiizhik gǫ' ? Nakhwandee shantł'eehoh'aa ji' gaa gwik'it t'akhwa'yaa reh nakhwaashandaii !
+48004021	deenyąą t'inyąą		Nakhwatee juu Moses va-law k'it oihshyaa niihthan nąįį nakhwaahałkat , it'ee lee ąįį Law deenyąą t'inyąą gaakhwandaii ?
+48004030	deegwinyąą		Gaa Dęhtły'aa Choh kat deegwinyąą ? Jyaa t'igwinyąą , “ Ąįį tr'injaa slave nilii digigii haa cheegahohchįį , ąįį vigii duuyeh diti' vik'eiich'į' lat tr'injaa slave nilii kwaa vidinji' haa ts'an yaa'įį t'inchy'aa . ”
+48005007a	juu		Jesus vatąįį ohdaa łyaa gwinzii t'akhwa'in chy'aa ! Juu łi'didlii k'eegohthat kwaa nakhwiłtsąįį ? 
+48005007b	Nats'ąą		Nats'ąą gwik'it t'akhwa'in nakhwiłtsąįį ?
+48005011	jaghaii		Shachaa nąįį , diidhah gihłeerahaht'al eenjit geech'ǫąąłtan , geh'an jaghaii shats'ą' nich'itsigahthat t'igii'in ? Jyaa t'ishi'in ji' zhit Christ giriłtsak ts'ą' niindhat eech'oaałtan ąįį łi'didlii heelyaa kwaa .
+49004009	deegwinyąą t'igwinyąą		Dęhtły'aa Choh kat dagwanakhwatł'oo dąį' , “ Zheezhit gwikiit'ik gwiintsii geegoo'aii gwits'eehoozhii . ” gwinyąą ąįį deegwinyąą t'igwinyąą ? Ąįįt'ee ch'adąį' hee Christ dzaa nankat dhidii geh'an t'igwinyąą .
+50001018	Nats'ahts'ą'		Nats'ahts'ą' gwiizųų shidivee nagogwa'aii , gaa tthak sheenjit gwinzii . Gwinzii geenjit t'iginyąą , akwat gwiizųų geenjit t'iginyąą , gaa Christ eegiginkhii ji' , izhik ts'ąįį gwandaa gwihil'ee . Ąįį geh'an shoo ihłįį .
+50001021	jidii		Akwat gwįįhdaii jidii gwats'an gogwahał'aa ? Christ veenjit gwitr'it t'agwał'in geh'an gwizhrįh gwįįhdaii ts'ą' gaashandaii . Akwat shiriiłkhwąįį ji' , gwik'iighai' gwandaa Gwandak Nizįį eegigeheekhyaa .
+51002020	jaghaii		Nijin Christ niindhat dąį' khit tr'agwaanduu t'agǫǫ'ya' nohthan datthak vaa niyiindhat ts'ą' dzaa nankat nats'ąą deekhwa'in ąįį gwik'it t'akhwa'in gwat'oohchy'aa kwaa . Ąįį gwiizhit jaghaii tth'aii hee dzaa nankat nats'ąą deegii'in datthak gwik'it t'akhwa'in ?
+52002019	~		Nakhwagwik'injigwiighit niint'aii gaagwiindaii ąįį geenjit shoo tr'iinlii , ts'ą' nijin K'eegwaadhat Jesus Christ nineezhii ji' ąįį gwik'injuhkhit geenjit vandah nakhwashoo tr'ahahłyaa .
+52003009	~		Nijin khadigiriinjii dąį' gwintł'oo shoo diinadhohtsąįį geh'an Vit'eegwijyąhchy'aa vats'a' nakhweenjit mahsį' gwinyąą gaa zhyaa k'it t'oonchy'aa .
+54003005	nats'ąą		Da'at digii nąįį gwinzii k'ąąhtii kwaa ji' , nats'ąą Vit'eegwijyąhchy'aa vitr'igiinkhii zheh gwik'eehaahtyaa ?
+54006007a	jidii		Diigwanlii dąį' jidii adahaa k'eera'ak ? Ch'akwaa ! 
+54006007b	jidii		Niriidhat ji' jidii adahaarehee'aa ? Ch'akwaa !
+58001005	~		“ Shidinji' inlii t'oonchy'aa , juk drin it'ee niti' dhiidlit . ” Vit'eegwijyąhchy'aa , jii deenyąą , ch'ihłok gaa zheekat gwich'in naii jyaa dahnyąą kwaa . “ Shįį t'ee viti' hihłyaa ts'ą' shidinji' heelyaa , t'inchy'aa ” Ąįįts'ą' chan Vit'eegwijyąhchy'aa , jii deenyąą , ch'ihłok gaa zheekat gwich'in naii jyaa dahnyąą kwaa .
+58001013	~		Vit'eegwijyąhchy'aa , ch'ihłok gaa dizheekat gwich'in nąįį jyaa dahnyąą kwaa , “ Dahthee juu nitr'ii'ee nąįį , diikwai' vakat diriłdlii , ąįį k'įh nakwai' t'eh nagavahihłyaa gwats'ą' datthak dzaa shishriits'ąįį gwihil'ee dhindii , ” jyaa nyąą .
+58001014	juu		Zheekat gwich'in nąįį juu t'igiinchy'aa ? Zheekat ch'anky'aa ginlii ts'ą' Vit'eegwijyąhchy'aa deenyąą datthak gwik'eegwagwahthat t'igiinchy'aa ąįįts'ą' juu neeheezhii nąįį ts'igiheenjyaa goo'aii geh'an Vit'eegwijyąhchy'aa goots'ą' goohił'ee t'iginchy'aa .
+58002003	Nats'ąą		Nats'ąą gwik'iighai' khaiinjich'iriighit gwats'an tr'ineereheedaa ąįį neereheezhii gwadrąįį gwatsal gaa ninjich'aradhat kwaa ji' ? Ąįį K'eegwaadhat Jesus adan tr'ookit it'ee neereheezhii jiintsii geegiinkhe' , ąįįts'ą' juu zhat dąį' yiitth'ak nąįį datthak diits'ą' łi'deegwidlii gwigwigweełkįį .
+58002006a	jaghaii		Gaa , Dęhtły'aa Choh zhit gwa'an jyaa digwinyąą , “ Vit'eegwijyąhchy'aa jiintsii jaghaii jii nankat gwidinjii nąįį gooninjich'ahthat ? 
+58002006b	jaghaii		Jaghaii gook'ąąhtii ?
+58003016	Juu dee		Juu dee Vit'eegwijyąhchy'aa viginjik diitth'ak gaa doo'ya' yuunyąą gwik'it t'ii'in kwaa ? Zhit juu Egypt gwats'an Moses tr'agoovinlii nąįį t'arahnyąą .
+58003017	juu		years gahkhyuk datthak Vit'eegwijyąhchy'aa juu nąįį ts'ą' vik'įį gwanlii ? Zhit juu tr'agwaanduu googwitr'it gwanlii geh'an nangwinjir gwa'an niinjik nąįį reh .
+58003018	juu		Nijin Vit'eegwijyąhchy'aa łi'deegwidlii haa jyaa dishi'yaa nyąą gwik'it t'ihee'yaa t'inyąą , “ Nijin nankat gwizhit neehoozhii nakhwaihnyąą ąįį nakhwantł'eegwiin'ąįį chy'ah , ąįį zhit gwizhit nihdeehohdaa kwaa ! ” gavaiinyą' , jyaa nyąą dąį' juu nąįį ts'ą' ginkhii t'inyąą ? Ąįį juu zhat dąį' Vit'eegwijyąhchy'aa doo'ya' goovoonyąą ąįį gwik'it t'igii'in kwaa nąįį t'ahnyąą .
+58006004	nats'ahts'ą'		Ąįįts'ą' zhit juu gwik'injiighit gwats'an łihts'eedaa'ee nąįį nats'ahts'ą' chan hee shatr'agwaanduu kwaa giheenjyaa ? Vit'eegwijyąhchy'aa viginjik łi'didlii gaagwiindaii , ts'ą' Vit'eegwijyąhchy'aa chan goots'ą' ch'eiinzhrii ts'ą' ch'izhii gwik'injiighit nąįį k'it Ch'anky'aa Shroodiinyąą goots'an dhidlit t'oonchy'aa .
+58007011	~		Jii t'ee Levitical giinkhih nąįį k'iighai' Israel gwich'in nąįį Moses va-law antł'eegwarin'ąįį . Ąįį giinkhih Levi ts'an deedhaa nąįį Vit'eegwijyąhchy'aa deekhwa'in goovahnyąą gwik'it t'igiizhik ji' , juk duuyeh ch'izhii ginkhih Melchizedek tąįį adaa nąįį t'eegwaahchy'aa , ąįį t'ee Aaron vats'an deedhaa kwaa .
+58009014	deegwahtł'oo		Ąįįt'ee łi'deegwidlii geh'an , deegwahtł'oo Christ vadaa haa gaiiyiigwahahtsyaa t'oonchy'aa ! Ch'anky'aa Shroodiinyąą ndaanąą'ąį' kwaa k'iighai' gwinzii ąįį gwandaa gweheezyaa geenjit vatr'agwaanduu kwaa haa Vit'eegwijyąhchy'aa ts'ą' gwantł'eedaachįį . Vadaa eh'an ataiinjii tr'ahtsii akhagwaroonyąą , ąįį ataiinjii t'ee gwandaii ndaanąą'ąį' diits'an ąhtsii kwaa , ts'ą' Vit'eegwijyąhchy'aa khit gwandaii vats'a' kharigeheejyaa ts'ą' veenjit gwitr'it t'agwarahah'yaa geenjit diiyinji' nizįį niłtsąįį .
+58010001	~		Yeenaa dąį' Moses va-law zhit deegwehee'yaa goo'aii ąįį Christ diineenjit gwinzii t'ee'ya' ąįį ant'ii gwank'oh t'eh goo'aii k'it t'oonchy'aa . Ąįįt'ee łyaa gwik'it t'igwiizhik . Ąįį gwantł'eeyaandak t'ee shree drin gwats'an shree drin gwats'ą' khik geenjit gwik'it t'oonchy'aa , gaa zhit juu gwantł'aandak ch'ihłok gaa vatr'agwaanduu oo'an gwirihilii kwaa t'oonchy'aa .
+58010029a	~		Ąįįts'ą' juu Vit'eegwijyąhchy'aa Vidinji' eet'iindhan kwaa 
+58010029b	~		ts'ą' Vit'eegwijyąhchy'aa deehee'yaa nyąą Christ vadaa k'iighai' ąįį diitr'agwaanduu oo'an gwihilii ąįį gweechyaa kwaa 
+58010029c	~		ts'ą' Ch'anky'aa Shroodiinyąą diits'ą' ch'eegoonzhrįį ąhtsii 
+58010029d	~		chan gwiizųų eeginkhii nąįį deegwahtł'oo khaiinjich'igiheeghit t'igiinchy'aa li' .
+58011032	~		Tth'aii hee jii nąįį datthak gooveegoihkhyaa shoohnyąą ? Gideon , Barak , Samson , Jephthah , King David , Samuel ts'ą' Vit'eegwijyąhchy'aa Eenjit Ginkhii nąįį , jii nąįį datthak gaveegiihihkhyaa gaa juk geenjit gwik'it goo'aii kwaa .
+58012007	~		Khaiinjich'akhwaghit ąįį nakhwati' nakhwagwahąąhshii k'it t'oonchy'aa ts'ą' zhyaa gooh'in . Khaiinjich'akhwaghit t'ee Vit'eegwijyąhchy'aa digii k'it nakhwaneehahdak t'igwii'in . Tsyaa ch'ihłee gaa viti' yagwahshii kwaa gwanlii kwaa .
+58012009	~		Dzaa nankat diiti' nąįį diigwąąhshii dąį' googaa nihk'it gaveenjirihil'ee , ąįį gwik'it deegwahtsii Diizheekat Diiti' ąįį vik'eegwarahahthat ts'ą' gwandaii ndaanąą'ąį' kwaa tr'ihee'yaa geenjit !
+58012025	~		Gwak'ǫǫhtii ts'ą' Vit'eegwijyąhchy'aa ginkhii oodǫǫhk'įį gatr'oh'ee shrǫ' . Zhit juu Moses k'iighai' Vit'eegwijyąhchy'aa vagwaandak diitth'ak gitr'ii'ee t'ee googwarahshii gideegijyaa kwaa t'oonchy'aa . Zhit juu zheekat gwats'an ginkhii vits'į' neediriil'ee ji' , deegwiłtsal zhyaa diigwarahshii gideereheedaa .
+58013006	~		Jii geh'an tr'ahąąnjat kwaa goo'aii Dęhtły'aa Choh zhit Psalms kat jyaa digwinyąą , “ Haaljat kwaa , K'eegwaadhat shits'inyąą geh'an . Dinjii nąįį shats'ą' gwiizųų t'ii'in ji' gaa nihk'it duuyeh goovaaljat . ”
+59002006	~		Gaa nakhwan , ąįį neeshraahchy'aa nąįį khadhoo'ee kwaa ! Valaraa gwanlii nąįį t'ee khit nakhwach'itsigahaa'e' ts'ą' ch'aroahkat zheh nihdeenakhwagahahchyaa t'oonchy'aa .
+59002014	nats'ąą		Shachaa nąįį ! K'eegwaadhat veenjit k'eegwiichy'aa t'ini'in kwaa gwiizhit zhyaa , “ Gwik'injihkhit ! ” doiinyą' shrǫ' ! Jyaa ni'in ji' t'ee nats'ąą neehįįnzhii yiindhan ? Ąįį k'it t'iinchy'aa gwik'injiighit dii'įį ji' t'ee ąįį dinjii neeheezhii kwaa .
+59002016a	~		
+59002016b	~		
+59002018	nats'ąą		Gaa dinjii jyaanyąą ji' yu' , “ Dinjii ch'ihłak gwik'injiighit ąįįts'ą' ch'ihłak chan K'eegwaadhat eenjit k'eegwiichy'aa t'ii'in . ” Ąįį dinjii jyaanyąą ji' , jyaa vakhaihjyaa , “ Nats'ąą K'eegwaadhat veenjit k'eegwiichy'aa t'ini'in kwaa gwiizhit vik'injinghit shaagwandak , shįį ąįį deeshi'in k'iighai' nats'ąą gwik'injiighit gwahąąh'yaa . ”
+59002021	~		Yeenii diilak , Abraham , K'eegwaadhat k'eegwiłthat nijin didinji' Isaac ataiinjii tr'ahtsii deek'it kat yantł'ahchįį dąį' . Ąįį geh'an Abraham tr'agwaanduu tr'agwah'ya' kwaa k'it K'eegwaadhat yąąh'in .
+59003013	~		Dinjii goonzhįį ji' , khit ts'ą' gwinzii gwizhrįh t'ihee'yaa . Gwantł'oo ideech'iin'in kwaa ji' t'ee nigwizhi' gwanlii t'ihiinchy'aa .
+59003017	~		Gaa K'eegwaadhat vigwizhi' t'ee shroodiinyąą , deegwaahnyąą , diishrooanjyaa , veeshroonchy'aa , ąįįts'ą' neeshraahchy'aa niindhan kwaii datthak nilii . Ąįįts'ą' vigwitr'it gwinzii kwaii chan lęįį . Dinjii nąįį inehts'į' t'inchy'aa kwaa , ąįįts'ą' dinjii gwik'injiighit kwaa gaa gwik'injiighit adaa'įį kwaii chan veenjit kwaa .
+59004001a	nijin gwats'an		Zhit nihłit'iinjuh'ee , tr'eedeenihłoojyaa haa nijin gwats'an tr'idigwiindhat ? Gwiizųų gwizhit shroonchy'aa gahohtsyaa gwizhrįh gwinkeehoh'ik , ąįįt'ee khit nakhwazhit nich'itsahthat , ąįįt'ee jyaa dini'yaa kwaa gaanandaii gwiizhit .
+59004001b	~		
+59004012	Juu		K'eegwaadhat zhrįh diginjik diitł'eiin'ąįį . Adan zhrįh neediihahshii akwat an diihahtsyaa . Ch'aroahkat drin zhit ji' adan zhrįh diinoohahkat . Juu ihłįį niindhan eenjit dinjii nąįį eeginkhii ts'ą' neenjit iizųų ?
+59004014	~		Nihkaa naa deegweheechy'aa gaanandaii kwaa ! Ch'atr'ał vakwaa neegwiilik k'it neegoo'aii .
+60002020	jidii		Gwiizųų nakhwagwitr'it gwanlii eenjit khaiinjich'anakhwarahkhit ji' jidii gaiiyiigohtsii ? Ch'akwaa ! Gaa gwiizųų nakhwagwitr'it gwakwaa gwiizhit khaiinjich'anakhwarahkhit ji' Vit'eegwijyąhchy'aa nakhwashoohahłyaa .
+60003013	juu		Gwintł'oo nakhwagwitr'it gwinzii gooli' nohthan ji' , juu geenjit nakhwagwahahshii ?
+60004017	nats'ąą		It'ee khaiinjii Ch'aroahkat Drin nigwiindhat ts'ą' gwik'injiighit nąįį tr'ookit tr'oohaahkat . Diikhwan tr'ookit diiroohahkat ji' , juu Vit'eegwijyąhchy'aa Vagwaandak Nizįį k'injiighit kwaa nąįį nats'ąą teeheedhat li' ?
+60004018	deegweheechy'aa		Dęhtły'aa Choh zhit jyaa t'igwinyąą , “ Dinjii nizįį nąįį gaa neeheezhii geenjit gogwantrii , akwat zhit juu Vit'eegwijyąhchy'aa nehts'į' nilii nąįį ts'ą' tr'agwaanduu tr'agwah'in nąįį goodivee deegweheechy'aa li' ? ”
+61003004	adaajii		Ąįį nąįį nakhwageheedlaa gwizhit nakhwagahąąhkat , “ Yeenii diilak ch'adąį' hee nigiinjik gaa jii nan goodlit tth'aii hee nihk'it t'iichy'aa . Jesus oo'ee neehihdyaa nakhwarahnyąą chy'aa adaajii ? ”
+61003011	nats'ahts'ą'		Jyąhts'ą' t'ee jidii datthak an heelyaa t'igwinyąą akwat nats'ahts'ą' dinjii ǫhłį' nohthan ? Juk gwats'an Vit'eegwijyąhchy'aa vik'eegohthat ts'ą' shroodiinyąą ǫhłįį .
+62002022	juu		Ąįį ji' t'ee , juu oots'it nilii ? Juu , “ Jesus łyaa Christ ( Messiah ) t'inchy'aa kwaa , ” nyąą ji' , ąįįt'ee oots'it t'iheechy'aa . Adan it'ee Christ ts'ą' gwił'ąįį t'iheechy'aa . Ąįįt'ee Diiti' ts'ą' chan Vidinji' haa eenjit gwik'injiighit kwaa . Diiti' , Didinji' eenjit deiinyą' chan gwik'injiighit kwaa .
+62003012	Jaghaii		Dinjii , Cain oaazhii , vik'it dinjii tr'oolį' shrǫ' , khai' dachaa , Abel oaazhii , diłkhwąįį . Ch'anky'aa tr'aanduu ts'an nilii . Jaghaii dachaa diłkhwąįį ? Vachaa gweheezyaa geenjit gwizhrįį gwitr'it t'agwah'in , gąą adan ąįį gweheezųų geenjit gwizhrįį gwitr'it t'agwah'in . Izhik geh'an gwizhrįį dachaa diłkhwąįį .
+62003017	~		Juu jidii t'aahchy'aa datthak di'įį , gąą Christ k'injiighit nąįį ch'ihłak k'eiich'ii t'aahchy'aa haandaii , googaa yeechyaa kwaa ts'ą' yits'inyąą kwaa . Ąįįt'ee Vit'eegwijyąhchy'aa vich'eet'igwiniidhan haandaii kwaa .
+62004020	nats'ahts'ą'		Juu , “ Vit'eegwijyąhchy'aa eet'iihthan , ” nyąą gwiizhik Christ k'injiighit nąįį itr'ii'ee , vaagwiindaii ji' , ąįįt'ee oots'it nilii . Dzaa nankak juu Christ k'injiighit nąįį nah'in gwiizhik giveenjit ch'eet'igwiniindhan di'įį kwaa ji' , Vit'eegwijyąhchy'aa tth'aii googaa nah'in kwaa , ąįį nats'ahts'ą' eet'ihęęnghyaa ?
+62005005	Juu		Juu Jesus łyaa Vit'eegwijyąhchy'aa Vidinji' t'inchy'aa , gwik'injiighit ji' t'ee , ąįį nąįį zhrįh dzaa nankak gwizhit ch'anky'aa tr'aanduu gwitr'it ideet'igiheechy'aa .
+66005002	Juu dee		ts'ą' zheekat gwich'in vat'aii gwanlii ts'ą' gwint'aii khaginkhee nał'in , “ Juu dee dęhtły'aa nakhwadǫǫ nihłaghwadzii nihky'aa ooheendal geenjit gwintsii veegoo'aii ? ”
+66006010a	Dahthee		Gwint'aii gazhral haa jyaa diginyąą : “ Shroodiinyąą ts'ą' łi'didlii , Vit'eegwijyąhchy'aa jiintsii ! Dahthee ji' dzaa nankat gwidinjii nąįį khaiinjich'agoohahthat 
+66006010b	~		ts'ą' goohaankat t'oonchy'aa diigeełkhwąįį geenjit ? ”
+66006017	juu dee		Gook'įį gwanlii geh'an googwantrii drin teegoodhat , ts'ą' juu dee goots'į' t'iheechy'aa ?
+66007013a	juu		Ch'anjaa ch'ihłee shǫąąhkat , “ Jii dinjii ch'adak ik daagąįį ninjyaa nagaazhii nąįį juu t'igiinchy'aa ? 
+66007013b	Nijin gwats'an		Nijin gwats'an tr'igiinjil t'igiinchy'aa ? ” Ginyąą .
+66013004a	~		Dragon ąįį nin iizųų ch'atthąįįn choh dat'aii antł'eiin'ąįį geh'an juu nąįį datthak deegiihił'ee ts'ą' nin iizųų ch'atthąįįn choh chan deegihił'ee . “ Ch'ihłee gaa nin iizųų ch'atthąįįn choh k'it jiintsii kwaa t'oonchy'aa ! 
+66013004b	~		Ch'ihłee gaa duuyeh khit ts'ą' nich'itsahthat ! ” ginyąą haa deegiihił'ee .
+66015004a	juu dee		K'eegwaadhat juu nąįį datthak łyaa nahaanjat ts'ą' deenagahah'aa ! Juu dee nijiintsii zhyaa k'it t'ahoonjyaa ? Nan zhrįh shroodiinyąą inlii . Nahkat datthak nats'ą' giheedaa ts'ą' Vit'eegwijyąhchy'aa deenagahah'aa , deeni'in datthak łi'deegwidlii gwagwah'in geh'an . ”
+66015004b	~		
+66017007	Jaghaii		“ Jaghaii khǫǫnghaa ? ” zheekat gwich'in shahkat , “ Jii tr'injaa , veenaagwahaldak ts'ą' zhit nin iizųų ch'atthąįįn choh neeyahahchik chan , ” nin iizųų ch'atthąįįn choh viki' seven gwanlii ts'ą' viji' 10 chan gwanlii .
+66018018	~		ts'ą' nijin tr'injaa ahk'an gwats'an łat gah'in dąį' gwint'aii khashraagiintrat : “ Ch'ihłok gaa jii kwaiik'it gwachoo gwik'it kwaiik'it gwachoo gwin'ee kwaa ! ” ginyąą .

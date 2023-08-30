@@ -1,0 +1,743 @@
+40002002	nin		bé usa ke : ? Juif'm bé famien'n bo bé wulii ityra'n o ô nin ? Afin é wuun i nzraama'n wia afilie lo , ye é bee i nvle yôleo .
+40002004	~		O yia Juif'm bé Nyanmien nyrun dyranfue dandan nin bé mmla kléfue'n kwlaa , nan wa usa bé lika nga bé wa wu Christ'n .
+40003007	wan		Ke o wuun ke Pharisifue nin Sadducéfue kpanngban bé ba ke o yô bé baptême'n , o usaa bé ke : ? Onda mma mun , wan ye o séé amun ke an wanndi ya b'o wa dyaô'n i bôo ?
+40005013	nzu		Amun ye an ti ke ndyin sa men'n nuon . ? Sannge se ndyin'n i ta'n kpo'n , nzu ye béh fah yô nan wa yô fe ékuon ? O yô'a sa fi yé kun , san blô ke béh yih io , ye swran'm béh tiatiah su .
+40005046	nzu		? Afin se an klô amun klôfue'm bé ngunmin'n , nzu liké ye amunh nyenh io ? ? Guabô sika défue mun bobo bé klô'a bé klôfue mun ?
+40005047	nzu		? Se an yô amun niaan'm bé ngunmin bé liké'n , wuun nzu liké dan ye amuan yôo ? ? Bé bo bé ti'a Juif'n bobo bé yô'a bé niaan'm bé liké
+40006027	ônin		Amun nun ônin ye i kôkôle nun o kwla gue i afue'n su bo kaan ?
+40006028	nzu ti		? Ye nzu ti ye an kôkô trale tio ? Anh nian waka nyre bo bé ô blô lo'n , bé di'a fié , bé tô'a dyésé .
+40006031a	nzu		I so'n ti , nanh an kôkô sé ke : ? Nde nzu ye é dio ? annze , 
+40006031b	nzu		? Nzu ye é noon ? annze , 
+40006031c	nzu		? Nzu ye é klaa ?
+40007003	O yô se		? O yô se ye a wun wla'n b'o ô o niaan i nyin su'n sannge a wu'an dyanvle'n b'o ô o bobo o nyinma su nion ?
+40007004	O yô se		? O yô se ye a sé o niaan ke : Dyran man n yi o nyin su wla'n , sannge dyanvle ô o bobo o nyin su nion ?
+40007009	ônin		? Amun nun ônin ye se i wa sé i ke o men i kpaun'n , o fa yebue men io ?
+40007016a	~		Bé nzuen'n ye amunh fah si béo . ? Bé kô ti lômin , lôlô su ? 
+40007016b	~		? Bé kô ti blofue aloma aintonman su ?
+40008026	nzu ti		O usaa bé ke : ? Nzu ti ye sre kun amuon ? ? An lafi'a n su tio ? O dyaôli , o idyoli aunngban'n nin nzué'n , nan ba dyran diin .
+40008027	nzu		Bé nuan bôô bé wun , nan ba usa bé wiéngu ke : ? Nzu swran yele nga bo aunngban'n nin nzué'n nin nzué'n bobo bé srôé soo ?
+40008029	nzu		Bé kpan use i ke : ? Nyanmien Wa Yasua , nzu nde ye o ô é nin wo yé afieon ? ? A baa ke a wa dun mmua klé é nyrennen , nan é nyrennen kléle ble'n wa dyu ?
+40009004	nzu ti		Jésus wuun bé akunndan'n , nan wa sé ke : ? Nzu ti ye amun akunndan'n ti te soo ?
+40009005	ônin		? Ke bé sé ke , Nyanmien a yatyi sa nga a yôlii'n wa tye o'n , annze , dyaô nanti ko'n , i nnyon'n ônin ye i kanle ti popo tra kuon ?
+40009011	nzu ti		Ke Pharisifue'm bé wuun i so'n , bé usee i sonnzonfue'm bé ke : ? Nzu ti ye amun si nin guabô sika défue nin sa tete yôfue mun di likéo ?
+40009014	O yô se		Ye Jean sonnzonfue'm bé baa Jésus wun le bé usee i ke : ? O yô se ti ye é nin Pharisifue mun é kpe sre nun , bo o lie'm bé kpe'a wiéo ?
+40009015	~		Jésus sé bé ke : ? Se yasua kun su fa atonvle'n b'o nin i dyanvue'm b'o yiaa bé'n bé te ô le'n , bé wla bô ? Lé kun bé wa dé yasua so'n bé sa nun , ble so'n nun ye béh kpeh sre nuon .
+40010025	~		Se swran b'o suan liké'n yô ke swran b'o klé i liké'n sa'n , i so'n ti kpa , ye se swran b'o su swran'n yô ke i min'n sa'n , i so'n ti kpa . Se bé flee awlô kpen'n ke Béelzébul'n , bé wa fle i awlôfue'm bé kusu so kpe blu .
+40011007	Nzu		Ke bé oli'n , Jésus kan Jean nde kléé swran mun ke : ? Nzu ye an woo i nianle blô lo nion ?
+40011008	nzu		An kô nian ndema bo aunngban kédyéé'n ? ? Se nanh ndema'n , wuun nzu ye an woo i nianleo ? ? Swran b'o wla trale kpakpaa ? Swran nga bé wla trale kpakpa'n bé ô famien'm bé awlô .
+40011009	nzu ti		? Wuun nzu ti ye an wolio ? ? An woo Nyanmien nuan idyofue nianle ? Een , sannge nh kanh klé amun ke o tra Nyanmien nuan idyofue bobo .
+40011016	Wan		? Wan mun ye nh fah adyulisufue nga mun sunnzun béo ? Bé fa ba kanngan mun bo bé ti asé guasu le bé kpan sé bé wiéngu mun ke :
+40012011	ônin		O usaa bé ke : ? Amun nun ônin ye se o le i bua ba kunngba tye b'o to kunman nun sabbat tyen'n o yimen io ?
+40012026	oh yôh se		Se Satan fuen i bobo wun'n , wuun wa bu i bobo wun nun . ? Oh yôh se ye oh kwlah sié i swran muon ?
+40012027	wan		? Se n fuan asie usu mun Béelzébul dunman nun'n , wuun wan dunman nun ye amun mma'm bé kusu bé fuan béo ? I so'n ti , bé ye bé wa di amun nde nion .
+40012029	oh yôh se		? Ye kusu , se swran kun du'an mmua tyi'a swran wunmienfue'n , oh yôh se ye oh kwlah wlu i awlô'n nun fen i bô ninngé muon ? San oh tyih swran so'n , nan wa kwla fen i bô ninngé'n .
+40012034	O yô se		? Onda mma mun , amun bo an ti swran te kpa'n , o yô se ye nde kpa kwla fin amun nuan fitéo ? Afin nde kwlaa ng'o ô swran awlen'n nun'n ye o fité i nuaan .
+40012048a	wan		Sannge Jésus usaa swran ng'o kan nde so'n klélii'n i ke : ? Wan ye o ti min nin nion ? 
+40012048b	wan		? Wan mun ye bé ti min niaan mun nion ?
+40013010	nzu ti		I sonnzonfue'm bé wunngéé i wun le , bé usee i ke : ? Nzu ti ye a ken nyanndra nun klé béo ?
+40013027	nin fan		Awlô bô kpen so'n i dyunman difue'm bé wa usee i ke : ? Baba , a guaman awié kpa o fié'n su ? ? Nin fan ye awié idyré nga fin b'o dyuu fié'n su waa ?
+40013054a	nin		Ke o dyuu i men'n nun'n , o klé swran'm bé liké bé Nyanmien sua'n nun . Liké b'o klé bé'n , o bô bé nuan , nan ba usa ke : ? O nin i ngwlele nin 
+40013054b	nin		i sa kéklééklé yôle nga fin nin ?
+40013056	O yô se		? I niaan bla'n kwlaa bé nu'an wa ? ? O yô se ye o si sa nga muon ?
+40014031	nzu ti		Kpekuun Jésus tinnge i sa'n soli i nun , ye o sue i ke : ? O bo wo awlen soman'n , nzu ti ye a lafi'a n suo ?
+40015002	nzu ti		? Nzu ti ye o sonnzonfue'm bé fa'a é nannan'm bé nzuen'n su , bo bé wunnzi'an bé sa nan ba di likéo ?
+40015003	nzu ti		I kusu usa bé ke : ? Amun kusu , nzu ti ye amun nannan'm bé nzuen'n i fale'n ti an ton Nyanmien mmla nion ?
+40015033	se		I sonnzonfue'm bé usee i ke : ? É yôé se nan ya nyan liké b'o kwla dyu swran kpanngban ke nga sa mun bô nga nun wa ?
+40015034	nnye		Jésus usaa bé ke : ? Kpaun'n b'o ô amun sa nun'n ti nnye ? Ye bé waan : O ti nsô , ye dyué kanngan wié mun .
+40016008	nzu ti		Ke Jésus tili'n , o sé ke : An ti swran bo amun awlen soman . ? Nzu ti ye kpaun bo amuan faman'n ti an idyoo ?
+40016009	~		? An nian wu'en i wle ékun , ye amun wla kpe'an kpaun nnun bo swran akpi-nnun bé dili'n , nin i ônga bo an isali'n , i gbôgbô'n i nuan su .
+40016010a	~		? Ye amun wla kpe'an kpaun nsô bo swran akpi-nnan bé dili'n , 
+40016010b	~		o nin i ônga bo an isee gbôgbô dandan'm bé nun'n i gbôgbô'n i nuan su ?
+40016011	O yô se		? Ke n kan kléé amun ke an nian amun wun Pharisifue nin Sadducéfue'm bé kpaun ayré'n i lika'n , o yô se ti ye amuan wu'en i wle ke , nanh kpaun nde ye n kan kléé amuon ?
+40016013	wan		Ke Jésus dyuu Césarée Philippe asa lie'n su'n , o use i sonnzonfue'm bé ke : ? Swran'm bé waan , wan yele m bo n katyii Swran'n ?
+40016015a	~		Ye o usa bé ke : ? Ye amun kusu amun waan , 
+40016015b	wan		wan yele min ?
+40016026a	nzu		? Se swran kun nyan men wunmuan'n , nan i ti i nguan'n kpe sin'n , nzu ye o yô yé men io ? ? 
+40016026b	nzu		Ye nzu liké ye swran kun kwla fa tô i nguan nion ?
+40017010	nzu ti		I sonnzonfue'm bé usee i ke : ? Nzu ti ye man mmla kléfue'm bé waan , san Élie ye oh dunh mmua ba nion ?
+40017017a	tyen ônin		Ye Jésus sé ke : ? Amun adyulisufue nyin kékléfue bo an lafi'a sa su'n , min nin amunh tranh lélé tyen ônin ? 
+40017017b	tyen ônin		? Nh trah min awlen amun wun lélé tyen ônin ? Anh fe ble min .
+40017019	nzu ti		Ye i sonnzonfue'm bé wunngé i wun le bé usee blele ke : ? Nzu ti ye ya kwla fua'an asie usu so nion ?
+40017025a	~		Ye o sé ke : O tua wié . Ke Pierre wluu awlô lo'n , Jésus dun mmua use i ke : ? Simon , 
+40017025b	wan		wan'm bé sa nun ye asie'n su famien'm bé dé guabô sika nin l'impôt nion ? ? Bé bobo bé nvlé'n nun swran'm bé sa nun , annze aôfue'm bé sa nuon ? ? A bui se ?
+40018001	ônin		I ôsu kunngba'n nun Jésus i sonnzonfue'm bé bee i wun le , bé use i ke : ? Bé bo Nyanmien sié bé'n , bé nun ônin ye o ti dan tra bé kwlaaa ?
+40018012	se		? Se swran kun le bua ya , nan bé nun kun mlin'n , an bu'e i ke o yatyi ablangwlan-nin-ngwlan'n ôka'n su le o kô kunnde bé nun kun ng'o mlinnin'n ?
+40018021	nnye		Ye Pierre wunngéé i wun le , o use i ke : ? Nannan , se n niaan kun yô n te'n , kpe nnye ye n yatyi tye io ? ? Lélé kpe nsô ?
+40019007	nzu ti		Ye bé usee i ke : ? Se o ti so'n , wuun nzu ti ye Moïse klelii ke : « Se swran kun waan oh yreh i yi'n , o men fluwa b'o klé ke wa yre nion ? »
+40019016	nzu		Ye swran kun baa Jésus wun le , o use i ke : ? Ndya , nzu liké kpa ye n yô nan man nyan anannganman nguan nion ?
+40019017	Nzu ti		O sé i ke : ? Nzu ti ye a usa min liké ng'o ti kpa'n i wun ndeo ? Nyanmien kunngba tye ye o ti kpaa . Se a klô ke ah nyanh nguan'n , fa mmla'n su .
+40019018	ônin		O usa Jésus ke : ? Mmla ônin ? Ye i waan : « Nanh kun swran , nanh kunnde bla annze bian o yi annze o wun bô , nanh wua , nanh ton swran suen , bu o si nin o nin bé swran ,
+40019020	Nzu		Gbanflen'n séé i ke : N fe i kwlaa so'n su . ? Nzu ye o te ka ékuon ?
+40019025	wan		Ke i sonnzonfue'm bé tii nde so'n , o bôô bé nuan dan kpa , nan ba usa ke : ? Se o ti so'n , wuun wan ye o kwla fité nuon ?
+40019027	Nzu		Ye Pierre waan : Nian , ya yatyi é ninngé'n kwlaa ya su o su . ? Nzu ye éh nyenh io ?
+40020006	nzu ti		O fité nnosua nun ékun , o wuun wié mun bo bé gua le bé le'a dyunman , nan wa usa bé ke : ? Nzu ti ye ke alie tyen lalaa'n an gua wa bo an di'a dyunman ?
+40020012	~		bé sé ke : Bé nga bé ba kasien bo bé dii do kun'n , ye é bo é dii tyen ba wunmuan kun'n bo wia'n bô é bo nvuflé tu yé'n , é kale'n se !
+40020021	Nzu		Jésus use i ke : ? Nzu ye a klô ke ah sreoh ? Bla'n sé i ke : Tyen nga ah dih o famien'n , yô man n wa yasua nnyon'n bo bé ô ye'n bé tran o wun le , kun tran o fama su ye kun tran o be su .
+40020032	Nzu		Jésus dyrannin , o fle bé usa bé ke : ? Nzu ye an klô ke n yô man amuon ?
+40021010	waan		Ke o wluu Jérusalem klo'n nun'n , klo wunmuan'n kédyéli , ye bé usa ke : ? Waan ?
+40021016	~		Bé usa Jésus ke : ? A ti nde nga bé kan'n ? Jésus sé bé ke : N ti . ? Nde nga bé klee ke : « A fo o manmanle'n wlee ba kanngan nin bé nga bé te non'n bé nuan'n , » an nian kennge'en lé ?
+40021020	o yô se		Ke i sonnzonfue'm bé wuun sa so'n , o bôô bé nuan , ye bé usa ke : ? Ééé , o yô se ye man aloma nga wu i dya nun le soo ? Nan Jésus a sé bé ke :
+40021023a	wan		Jésus oo Nyanmien sua dan'n nun lo . Ke oh kléh liké'n , Nyanmien nyrun dyranfue dandan nin men kpenngben'm bé wa use i ke : ? Wan dunman nun ye a yô sa nga muon ? 
+40021023b	wan		? Ye wan ye o tuu o ke a yôo ?
+40021025a	~		? Jean i baptême b'o yôli'n , Nyanmien ye o meen i atin , annze swran ye o meen i atin ye o yôo ? 
+40021025b	~		Bé bu i akunndan , bé sé ke : 
+40021025c	nzu ti		? Se o ti so'n , nzu ti ye amuan lafi'e i suo ?
+40021028	~		Anh tié . Bian kun le ba yasua nnyon , lé kun o kô sé kpenngbenfue'n ke : N wa , nde ko n raisin fié'n su lo .
+40021031	ônin		? Ba nnyon so'n , ônin ye o yôô i si klun sa nion ? Ye bé waan : Klikli nion . Ye Jésus sé bé ke : Nanwle , guabô sika défue nin téklé mmla'm béh dunh mmua fa bé wun man Nyanmien ke o sié bé amun nyrun .
+40021040	se		? Se fié ifue'n ba'n , an bu i ke o yô swran so'm bé se ?
+40022012	o yô se		O use i ke : ? Dyanvue , o yô se ye a wla'a trale nga bé fa ko atonvle bô'n bo a wluu waa ?
+40022017	~		? É su l'impôt man César , annze nanh man é su men ? Nga bo a bu i su'n kan klé é .
+40022018	nzu ti		Sannge Jésus si bé akunndan te bo bé bu'n , o usa bé ke : ? Gble tôfue mun , nzu ti ye an kan min niaan ?
+40022020a	wan		O usa bé ke : ? Wan ye ng'o ô su ye'n ? 
+40022020b	wan		? Ye wan sunuan yele ng'o kle su le'n ?
+40022028	~		? Ke swran'm béh tyenh'n , bla so'n oh yôh bé nun ônin lie , afin bé nsô'n bé dyelii ?
+40022036	ônin		? Ndya , mmla'n i nun dan'n yele ônin ?
+40022042a	se		? An bu Christ'n se ? 
+40022042b	wan		? O ti wan wa ? Bé sé i ke : O ti David i anunman .
+40022043	O yô se		Ye Jésus sé bé ke : ? Se o ti so'n , wuun o yô se ye man Nyanmien Wawe'n fanngan nun David flee i Min , b'o séé ke :
+40022045	o yô se		? Se David flee i Min'n , wuun o yô se man o kô yô i anunmaan ?
+40023017	ônin		Anyansifue , sinnglinfue mun , sika okwle'n nin Nyanmien sua dan'n b'o man sika okwle so'n katyi Nyanmien lie'n , bé nun ônin ye o ti dan tra kuon ?
+40023019	~		? Anyansifue mun , nnen'n ye o ti daan , annze Nyanmien sowle'n bo i su ye Nyanmien fa nnen nion ?
+40023033	se		? Wuô , onda mma mun , se ye amunh yôh nan ba bu'a amun fo ba fa'a amun a oman nyrennen lika'n nuon ?
+40024003a	Ble ônin		O kô traan asé Olive Ôka'n su . Ye i sonnzonfue'm bé bee i wun le , bé use blele ke : ? Ble ônin ye sa so'm bé yôo , 
+40024003b	nzu		ye nzu ye o ti o bale'n nin men'n i awiélie'n i nzolie nion ? Klé é .
+40024045	wan		? Swran kpa nanwlefue b'o si ngwlele'n bo i min'n fe sié i swran'm bé su ke o man bé alie ble ng'o ti i nuan su'n i su'n , yele wan ?
+40025037	tyen ônin		Ye nanwlefue'm bé wa usa n ke : ? Nannan , tyen ônin ye é wuun wo bo awé kun wo bo é moon o likéo , annze é wuun wo bo nzué wé kun wo bo é moon o nzuéo ?
+40025038	tyen ônin		? Tyen ônin ye é wuun wo bo a ti aôfue bo é sikéli woo , annze o wun ti kplen bo é moon o tannion ?
+40025039	tyen ônin		? Ye tyen ônin ékun ye é wuun ke a too tukpatye annze ba wlo o bisua bo é niannin o ôsuo ?
+40025044	tyen ônin		Ye bé kusu béh usah n ke : ? Nannan , tyen ônin ye é wuun wo bo awé kuun wo , nzué wé kuun wo , a ti aôfue , o wun ti kplen , a too tukpatye , bé wloo o bisua bo ya nionmon o likaa ?
+40026008	ônin		Ke i sonnzonfue'm bé wuun i so'n , o yôô bé ya , nan ba sé ke : ? Liké satyile ngben ke nga sa'n , i bô yele ônin ?
+40026010	nzu ti		Jésus wuun bé akunndan'n , nan wa sé bé ke : ? Nzu ti ye an fita bla'n i awlen soo ? Liké ng'o yô maan min'n ti kpa .
+40026015	nzu		o usa bé ke : ? Se n fe man amun'n , nzu ye amunh manh mion ? Nan bé nen a su ke béh menh i dyete ufué ablasan .
+40026017	nin		Lé kunngba bo béh bôh kpaun bo bé gua'a nun ayré'n i dile bô'n , Jésus sonnzonfue'm bé wa usee i ke : ? Nin ye a klô ke é kô siésié nan a di Pâque nion ?
+40026040	~		Ke o se i sin b'o tô i sonnzonfue muon , bé ô le bé su lafi , ye o sé Pierre ke : Amuan kwla tra'an amun nyin su a uka'a min do bo kun !
+40026050	~		Jésus sé i ke : Dyanvue , liké nga a bee i yôle'n , yô . Nan swran so'm ba to Jésus su , ba tre .
+40026054	oh yôh se		? Se wa yô'a so'n , oh yôh se nan nde nga bé kleli i ke béh yôh ke nga sa'n , wa kpen su ?
+40026062a	~		Nyanmien nyrun dyranfue dan'n o dyaô usaa Jésus ke : ? A te'a nde fi su ? 
+40026062b	se		? Nde nga bé ken le'n , o ti se ?
+40026065	ônin		Ye Nyanmien nyrun dyranfue dan'n tii i bobo wun trale'n nuon , o sé ke : Wa satyi Nyanmien dunman ! ? Lalôfue ônin ye éh kunndeh i ékuon ? Afin amun bobo an tii Nyanmien dunman b'o satyi'n . 
+40026066	se		? An bu i se ? Ye bé sé i ke : O nin kunle ye o fataa .
+40026068	~		Wié'm bé kpatyi i nyrun , bé sé ke : Christ , klé é swran ng'o bô wo'n .
+40027004	~		o sé ke : Ke n fa swran bo wa yô'a sa te fi'n maan amun ke an kuin'n , man yô'e kpa mlonmlon . Ye bé sé i ke : ? É nde ô nun ? O bobo o ndeo .
+40027013	~		Ye Pilate use i ke : ? A ti'a suen tete kpa nga bé ton o le'n ?
+40027017	ônin		Ke bé yiali'n , Pilate usa bé ke : ? Barabbas nin Jésus bo bé flee Christ'n , bé nun ônin ye an klô ke n yatyi i nun man amuon ?
+40027021	ônin		Kpenngben'n usaa bé ékun ke : ? Bé nnyon'n bé nun ônin ye an klô ke n yatyi i nun man amuon ? Ye bé waan , Barabbaso .
+40027022	se		Pilate usa bé ke : ? Ye n yô Jésus bo bé flee Christ'n i se ? Bé kwlaa bé waan : Man bé bôbôé waka'n su !
+40027023a	~		Ye o usaa bé ékun ke : 
+40027023b	ônin		? Sa te ônin bo tye ye o yôlio ? Ye bé kpan kéklé kpa ékun ke : Man bé bôbôé waka'n su !
+40027046	nzu ti		Nnosua wia so'n nun Jésus kpaan kéklé kpa , o sé ke : ? Éli , Éli , lama sabaktani ? bo i bô yele : ? Min Nyanmien , min Nyanmien , nzu ti ye a wanndi mion ?
+41001024	nzu		o kpan sé ke : ? Jésus bo a fin Nazareth , nzu sa ye o ô é nin wo yé afieon ? A baa é nunnunle . N si o kpa , a ti Nyanmien i Swran .
+41001027	Nzu		Swran'n kwlaa bé nuan bôô bé wun , i so'n ti , bé usaa bé wun ke : ? Nzu sa yele nga ? ? Liké ufle ye o su kléo ? O kwla asie usu bo bé satyi swran'n , bé srôé !
+41002007a	nzu		? Nzu ti ye o ken i nde lie soo ? O satyi Nyanmien dunman . 
+41002007b	wan		? Se nanh Nyanmien kunngba tye'n , wan ye o kwla yatyi swran wun sa tye io ?
+41002008	nzu ti		Kpekuun Jésus wuun bé akunndan'n , nan wa sé bé ke : ? Nzu ti ye an bu akunndan ke nga saa ?
+41002009	ônin		? Ke n sé bubuwafue'n ke , ba yatyi o wun sa a tye wo'n , annze , dyaô fo o te'n nanti ko'n , ônin ye i kanle ti popo tra kuon ?
+41002016	nzu ti		Ke mmla kléfue bo bé ti Pharisifue'n bé wuun ke o nin guabô sika défue nin sa tete yôfue'm bé su di liké'n , bé sé i sonnzonfue'm bé ke : ? Nzu ti ye o nin guabô sika défue nin sa tete yôfue mun di likéo ?
+41002018	nzu ti		Lé kun Jean sonnzonfue'm bé nin Pharisifue'm bé su kpe sre nun , bé wa usaa Jésus ke : ? Nzu ti ye Jean sonnzonfue'm bé nin Pharisifue'm bé lie'n bé kpe sre nun , sannge o sonnzonfue'm bé kpe'a wiéo ?
+41002019	~		Jésus sé bé ke : ? Ke yasua b'o su fa atonvle'n nin i dyanvue mun te ô le'n , bé kwla kpe sre nun ? Ke yasua so'n nin bé te ô le'n , bé kwla kpe'a sre nun .
+41002024	nzu ti		Pharisifue'm bé séé i ke : ? Nian , nzu ti ye bé yô liké nga swran le'a atin ke o yôé sabbat tyen nion ?
+41003004	~		I sin o usa bé ke : ? Sabbat tyen bé kwla yô swran yé , annze bé yô swran te , bé dé swran , annze bé kun swran ? Sannge ba uké'a bé nuan .
+41003023	O yô se		Jésus flee bé , nan wa bu bé nyanndra ke : ? O yô se ye Satan kwla fuen i bobo wuon ?
+41003033a	wan		Ye o usaa bé ke , ? Wan ye o ti min nin 
+41003033b	~		nin min niaan nion ?
+41004013	oh yôh se		O séé bé ékun ke : ? Se an si'a nyanndra nga bô'n , oh yôh se ye amunh kwlah wun nyanndra ufle'm bé bôo ?
+41004030a	nzu		O sé bé ékun ke : ? Nzu ye éh fah Nyanmien siéle'n sunnzun io , 
+41004030b	ônin		annze nyanndra ônin ye éh fah klé i bôo ?
+41004038	~		Sannge Jésus la alié'n sin lo sunmun'n su o su lafi . Bé tinngélii , bé sé i ke : ? Baba , ke é su wu'n , a bu'e i nde ?
+41004040a	nzu ti		Ye o usaa bé ke : ? Nzu ti ye sre kun amun soo ? 
+41004040b	O yô se		? O yô se ti ye an lafi'a n suo ?
+41004041	nzu		Sre kuun bé dan kpa , nan ba usa bé wun ke : ? Nzu swran yele nga bo aunngban'n nin nzué'n bobo bé srôé soo ?
+41005007	nzu		o kpan kéklé kpa ke : ? Jésus , Nyanmien Kpli bo liké fi nu'en i sin'n i Wa , nzu nde ye o ô min nin wo yé afieon ? Nh sreh o , nian Nyanmien'n ti , nanh klé n yale .
+41005009	se		Ye Jésus use i ke : ? Bé fle o se ? O sé ke : Bé fle min Akpasua Kpli , afin é soon kpa .
+41005030	Wan		Kpekuun Jésus wuun i wun ke swran wié a ken , o man wa yô dyuédyué . O kpee i wun swran'm bé su , o sua ke : ? Wan ye o kaan n trale nion ?
+41005031	Wan		Ye i sonnzonfue'm bé séé i ke : A wun swran nga bé mian o ye'n , ye a te usa ke : ? Wan ye o kaan mion ?
+41005035	nzu ti		Ke i nuan te ô nde'n su'n , kpekuun swran'm bé fin Nyanmien sua sukpen so'n i awlô lo , bé wa séé i ke : O wa'n wa wu . ? Nzu ti ye a te klé bian'n yaleo ?
+41005039a	nzu ti		O wluu sua lo , o sé bé ke : ? Nzu ti ye an bô auyé bo an sun soo ? Ba'n wa wuman , lafile ye o su lafio .
+41005039b	~		
+41006002a	nin		Ke sabbat b'o ti Juif'm bé tyen te'n dyuli'n , o wa kléé bé liké Nyanmien sua'n nun . Swran kpanngban bo bé tié i nde'n bé nuan bôô bé wun , bé sé ke : ? Ééé , o tii nde nga'm bé nin ? 
+41006002b	nin		? O nin i ngwlele nga fin nin ? 
+41006002c	O yô se		? O yô se ye o yi atre nga muon ?
+41006022	~		Ke Hérodiade wa talua'n wluu lo b'oh sih ablé'n , Hérode nin bé b'o yiaa bé ke bé wa di liké'n , bé klun dyoo i wun kpa . Ye famien'n séé talua'n ke , liké ng'o klô'n , o kan kléé , oh fah men .
+41006024	Nzu		O fité kô usee i nin ke : ? Nzu ye n sre io ? I nin sé i ke : Jean baptême yôfue'n i ti'n .
+41006037	~		Jésus sé ke : An bobo anh man bé liké . Sannge bé sé i ke : ? Denier ya nnyon kpaun ye é kô tô man bé nan bé dio ?
+41006038	nnye		Ye o usa ke : ? An le kpaun nnye ? Anh kô nian . Bé kô niannin , nan ba sé i ke : Kpaun'n ti nnun ye kpatra nnyon .
+41007005	nzu ti		Ye Pharisifue nin mmla kléfue'm bé usaa Jésus ke : ? Nzu ti ye o sonnzonfue'm bé fa'a lalafue kpenngben'm bé nzuen'n su , bo bé fa bé sa fien di likéo ?
+41008004	oh yôh se		I sonnzonfue'm bé séé i ke : ? Oh yôh se ye béh kwlah nyan liké diwa blô wa man bé bo bé ku yioh ?
+41008005	nnye		O usa bé ke : ? An le kpaun nnye ? Bé sé ke : É le nsô .
+41008012	nzu ti		Jésus ôtôô dan kpa , nan wa sé ke : ? Nzu ti ye adyulisufue nga'm bé kunnde atreo ? Nanwle , bé su yi'a atre fi klé'a adyulisufue nga mun .
+41008017	nzu ti		Jésus wuun i wle ye o sé ke : ? Nzu ti ye an idyo kpaun bo an lemen'n tio ? ? An si'a ngwlele , an wu'an sa wle ? ? Amuan dyinmin ?
+41008018a	~		? Amun nyinma'n wô le ngben , an wu'an asé ? 
+41008018b	~		? Amun su'n wô le ngben , an ti'a sa ?
+41008019	nnye		? Ke m bubuu kpaun nnun'n nun maan swran akpi-nnun'n , an wla a fi ? ? I sinsin bo an isali'n ti gbôgbô nnye ? Bé sé ke : O ti blu-nin-nnyon .
+41008020	nnye		O usa bé ékun ke : ? Ke m bubuu kpaun nsô'n nun maan swran akpi-nnan'n , i sinsin bo an isali'n ti gbôgbô nnye ? Bé sé ke : O ti nsô .
+41008021	~		Ye o séé bé ke : ? I kwlaa so'n an nian wu'en i wle ?
+41008023	~		O traa anyansifue'n i sa , o fe oo klo'n i sin lo , nan wa fe i nuan nzué a kpe i nyin su . O fe i sa'n fuee i wun o use i ke : ? A wun asé ?
+41008027	wan		Jésus nin i sonnzonfue'm bé oo Césarée Philippe akpasua su klo'm bé su , ke béh koh'n , o usa bé ke : ? Swran'm bé waan , wan yele min ?
+41008029a	~		Ye o usa bé ke : ? Sannge amun lie'n , amun waan , 
+41008029b	wan		wan yele min ? Pierre sé ke : A ti Christ .
+41008036	se		? Se swran kun nyan men'n nun ninngé'n kwlaa , nan se i nguan'n kpe sin'n , nzu ye o yô yé men io ?
+41008037	Nzu		? Nzu ye swran kun kwla fa tô i nguan nion ?
+41009010	ônin		Bé faa sa so'n su , nan ba usa bé wun ke : ? Tyenle so'n i bô yele ônin ?
+41009011	nzu ti		Ye bé usa Jésus ke : ? Nzu ti ye man mmla kléfue'm bé waan , san Élie ye oh dunh mmua ba nion ?
+41009012	O yô se		O sé bé ke : Élie dunh mmua o wa yô ninngé'n kwlaa bé ufle ékun . ? Ye o yô se ti ye bé kle m bo n katyii Swran'n min wun nde ke m ma wun nyrennen dan kpa nan béh yôh n finfin nion ?
+41009016	Nzu		Ye o use i sonnzonfue'm bé ke : ? Nzu nde ye amun nin bé kaan ?
+41009019a	tyen ônin		Ye Jésus usa ke : ? Amun adyulisufue mun bo an lafi'a sa su'n , min nin amunh tranh lélé fa dyu tyen ônin ? Anh fe ble min .
+41009019b	~		
+41009021	nnye		Ye Jésus use i si'n ke : ? Ke liké so'n too i wun'n i afue nnye ye ? O sé ke : Ke o fin i ba kaan nun'n .
+41009028	nzu ti		Ke Jésus wluu awlô lo b'o nin i sonnzonfue'm bé ngunmin bé ô le'n , bé use i ke : ? Nzu ti ye ya kwla fua'an asie usu so nion ?
+41009033	Nzu		Bé dyuu Capernaüm lo . Ke bé wluu awlô lo'n , Jésus usee i sonnzonfue'm bé ke : ? Nzu nde ye an ken i atin nun nion ?
+41009050	se		? Ndyin'n ti liké kpa , sannge se i ta'n kpo'n , bé yôé se nan wa nyan ta ékun ? Man amun nuan nun yô fe ke ndyin sa , man amun nuan se .
+41010003	se		I kusu usa bé ke : ? Moïse séé amun se ?
+41010017	nzu		Ke Jésus faa atin'n su b'oh koh'n , swran kun wanndi wa kôtôô i bô , o use i ke : ? Ndya , o bo a ti liké kléfue kpa'n , nzu ye n yô nan man nyan anannganman nguan nion ?
+41010018	nzu ti		Jésus sé i ke : ? Nzu ti ye a fle min ke n ti kpa nion ? Swran fi ti'a kpa san Nyanmien kunngba tye .
+41010026	wan		O bô i sonnzonfue'm bé nuan dan kpa ékun , nan ba usa bé wun ke : ? Se o ti so'n , wuun wan ye oh kwlah fité nuon ?
+41010036	Nzu		O usa bé ke : ? Nzu ye amun waan n yô man amuon ?
+41010051	Nzu		Jésus use i ke : ? Nzu ye o waan n yô man oo ? Anyansifue'n sé i ke : Baba , yô man n wun asé .
+41011003	nzu ti		Se swran wié usa amun ke , nzu ti ye an nyanndyii'n , anh sé i ke : É Min'n i sa a mien i wun , i waan é fa ble , oh fah ble amun ékun ityra'n .
+41011005	nzu ti		Bé nga bé ô le'n , bé wié'm bé usaa bé ke : ? An su yô nzu ? ? Nzu ti ye an nyanndyi aflunmun nion ?
+41011028a	wan		bé usee i ke : ? Wan dunman nun ye a yô sa nga muon ? 
+41011028b	wan		? Ye wan ye o tuu o ke a yôo ?
+41011030	~		? Jean i baptême b'o yôli'n , Nyanmien ye o meen i atin annze swran ye o meen i atin ye o yôo ? Anh bua n wié .
+41011031a	~		Sannge bé sé bé wiéngu ke : Se é sé ke Nyanmien ye o meen i atin'n , oh usah é ke : 
+41011031b	nzu ti		? Se o ti so'n , nzu ti ye amuan lafi'e i suo ?
+41012009	Nzu		? Nzu ye raisin fiéfue'n o wa yôo ? Oh bah , oh kunh raisin fié sunianfue mun , ye oh fah raisin fié'n wla swran ufle'm bé sa nun .
+41012015	nzu ti		Ke Jésus wuun ke bé su tô i gble'n , o sé bé ke : ? Nzu ti ye an kan min niaan ? Anh fa denier kun ble min man n nian .
+41012016a	wan		Bé blee i kun , ye o usa bé ke : ? Wan ye ng'o ô su ye'n ? 
+41012016b	wan		? Ye wan sanuan yele ng'o kle su le'n ? Bé sé i ke : César lieo .
+41012023	ônin		? Ke swran'm béh tyenh'n , bla so'n oh yôh bé nun ônin lie , afin bé nsô'n bé dyelii ?
+41012028	ônin		Mmla kléfue'm bé nun kun tii bé nde nga bé kan'n . Ke o wuun ke Jésus tee bé su kpa'n , o wunngéé Jésus wun le , o usee i ke : ? Mmla'n i nun dan'n yele ônin ?
+41012035	o yô se		Ke Jésus kléh liké Nyanmien sua dan'n nun'n , o usaa ke : ? O yô se ye mmla kléfue'm bé kwla sé ke Christ ti David anunman nion ?
+41012037	O yô se		David bobo flee i Min . ? Se o ti so'n , o yô se ye o ti i anunmaan ? Swran kpanngban so'n bo bé tié i nde'n , o yô bé fe .
+41013004a	~		Klé é ble nga liké so'n o wa yô'n , 
+41013004b	~		o nin liké ng'o klé ke liké so'm bé su wa yô'n .
+41014004	ônin		O yôô wié'm bé ya , nan ba usa bé wiéngu ke : ? Blofue nzué satyile ngben ke nga sa'n , i bô yele ônin ?
+41014006	nzu ti		Sannge Jésus sé bé ke : Anh yatyii le . ? Nzu ti ye an fite i awlen soo ? Liké ng'o yô maan min'n ti kpa .
+41014012	nin fan		Kpaun bo bé gua'a nun ayré'n i tyen dile klikli'n bo i nun ye bé kun Pâque bua'n , Jésus sonnzonfue'm bé usee i ke : ? Nin fan ye a klô ke é kô siésié nan a di Pâque nion ?
+41014014	nin		Lika ng'o wlu nun'n , anh sé awlô ifue'n ke : Ndya waan é wa uso o ke : ? Lika ng'o nin i sonnzonfue'm bé di Pâque'n o ô nin ?
+41014060a	~		Ye Nyanmien nyrun dyranfue dan'n o dyaô usaa Jésus ke : ? A te'a nde fi su ? 
+41014060b	se		Nde nga bé ken le'n , o ti se ?
+41014063	ônin		Ye Nyanmien nyrun dyranfue dan'n tii i bobo wun trale'n nuon , o sé ke : ? Lalôfue ônin ye éh kunndeh ékuon ?
+41014064	se		An tii Nyanmien dunman b'o satyi'n . ? An bu i se ? Bé kwlaa bé sé ke wa di fo , nan o nin kunle fata .
+41015004	~		Pilate usee ékun ke : ? A te'a nde fi su ? Nian o wun nde kpanngban bo bé kaan .
+41015012	se		Pilate usaa bé ékun ke : ? Ye n yô bian nga an flee Juif'm bé famien'n , i se ?
+41015014a	~		Pilate usa bé ke : 
+41015014b	nzu		? Nzu sa bo tye ye o yôlio ? Ye bé kpaan kéklé kpa ke : Bôbôé !
+41015034	nzu ti		Nnosua wia so'n nun Jésus kpaan kéklé ke : « ? Éloï , Éloï , lama sabaktani ? » bo i bô'n yele : « ? Min Nyanmien , min Nyanmien , nzu ti ye a wanndi mion ? »
+41016003	Wan		Ke béh koh'n , bé usa bé wiéngu ke : ? Wan ye oh yih yebue'n ndia'n i anuan'n su man yéo ?
+42001018	oh yôh se		Zacharie usaa ange'n ke : ? Oh yôh se ye nh kwlah si so sakpaa ? Afin man yô kpenngben , ye n yi kusu wa di afue louun .
+42001034	oh yôh se		Marie usaa ange'n ke : ? Ke bo n si'a yasua'n , oh yôh se ye sa so'n kwlah yôo ?
+42001043	wan		? Wan yele min bo min Min'n i nin'n ba min wun waa ?
+42001066	Nzu		Bé kwlaa nga bé tii nde so'n bé bu i akunndan , bé sé ke : ? Nzu ye ba nga o wa yôo ? Afin é Min Nyanmien Kpli'n dyin i sin .
+42002048	nzu ti		Ke i si nin i nin bé wunniin'n , bé nuan bô bé wun , ye i nin sé i ke : ? N wa , nzu ti ye a yô é soo ? Min nin o si ya kunnde o lélé , é nyin a blô dan kpa .
+42002049	nzu ti		Ye o sé bé ke : ? Nzu ti ye an kunnde mion ? ? An si'a ke n Si ninngé'm bé mian n saa ?
+42003007	wan		I so'n ti , o sé swran kpanngban bo bé bee i wun le ke o yô bé baptême'n , bé ke : ? Onda mma mun , wan ye o séé amun ke Nyanmien i ya'n o wa dyaô nan an wanndi i nyruon ?
+42003010	nzu		I so'n ti , swran'm bé usee i ke : ? Wuun nzu ye é yôo ?
+42003012	nzu		Guabô sika défue'm bé bee i wun le ke o yô bé baptême , bé use i ke : ? Ndya , nzu ye é kusu é yôo ?
+42003014a	~		Sôndya'm bé kusu bé use i ke : ? É lie'n , 
+42003014b	nzu		nzu ye é yôo ? O sé bé ke : Nanh an dé swran fi liké wué kéklé su , ye nanh an ton swran suen , sannge man amun klun dyo amun kale nga bé fa tua amun'n su .
+42004034	nzu		Hé ! ? Jésus Nazarethfue , nzu sa ye o ô é nin wo yé afieon ? ? A ba é satyile ? N si o kpa , a ti Nyanmien i Swran kpa .
+42004036	Nzu		Bé kwlaa bé nuan bôô bé wun , bé usa bé wiéngu ke : ? Nzu sa yele nga ? O kwla asie usu b'o satyi swran'n , bé srôé , o man ke o sé bé ke bé dyaô swran'm bé su'n , bé dyaô !
+42005021a	wan		Mmla kléfue nin Pharisifue'm bé bu i akunndan bé sé ke : ? Wan ye o satyi Nyanmien dunman soo ? 
+42005021b	wan		? Se nanh Nyanmien kunngba tye'n , wan ye o kwla yatyi swran wun sa tye io ?
+42005022	nzu ti		Jésus wuun bé akunndan'n , o so su sé bé ke : ? Nzu ti ye an bu akunndan ke nga saa ?
+42005023	ônin		? Ke n sé ke ba yatyi o wun sa a tye wo'n , annze n sé ke , dyaô nanti'n , i nnyon'n , ônin ye i kanle ti popo tra kuon ?
+42005030	nzu ti		Pharisifue'm bé nin bé mmla kléfue'm bé idyo bé kônviabô , bé use i sonnzonfue'm bé ke : ? Nzu ti ye amun nin guabô sika défue nin sa tete yôfue mun non nzan , amun nin bé di likéo ?
+42005033	~		Bé sé i ke : Jean sonnzonfue'm bé nin Pharisifue'm bé lie'n bé ta sre nun kpe , bé nin Nyanmien kôkô yale , sannge o lie'm bé non nzan bé di liké .
+42005034	~		Ye Jésus usaa bé ke : ? Yasua kun b'o su fa atonvle'n , ke o nin i dyanvue mun te ô le'n , an kwla mian bé ke bé kpe sre nun ?
+42006002	nzu ti		Pharisifue wié'm bé usa bé ke : ? Nzu ti ye an yô liké nga bé yômen sabbat tyen nion ?
+42006009	~		Jésus sé bé ke : Nh wusah amun sa kun . ? Bé kwla yô swran yé annze bé yô swran te , bé dé swran annze bé kun swran sabbat tyen ?
+42006032	nzu		? Se bé nga bé klô amun'n , bé ngunmin ye an klô bé'n , nzu ye amunh nyenh nuon ? Sa te yôfue'm bé kusu bé klô bé klôfue mun .
+42006033	nzu		? Se bé nga bé yô amun kpa'n , bé ngunmin ye an yô bé kpa'n , nzu ye amunh nyenh nuon ? Sa te yôfue'm bé kusu bé yô i so wié .
+42006034	nzu		? Ye se swran nga an lafi i su ke se an bô i bôsiaa o yi man amun'n , i ngunmin ye an bô i bôsia'n , nzu ye amunh nyenh nuon ? Sa te yôfue'm bé kusu bé bô bé wiéngu sa te yôfue'm bé bôsia , nan bé yô wié man bé .
+42006039	~		O bu bé nyanndra kun kusu ke : Anyansifue kun kwla tre'e i wiéngu anyansifue kponman , se o yô so'n , bé nnyon'n béh toh kunman nun .
+42006041	O yô se		? O yô se ye a wun wla'n b'o ô o niaan'n i nyin su , sannge a wu'an dyanvle'n b'o ô o bobo o nyinma su nion ?
+42006042	o yô se		? O bo a wu'an dyanvle'n b'o ô o bobo o nyinma su'n , o yô se ye a sé o niaan'n ke : Min niaan , dyran man n yi o nyin su wla nion ? Dunman klôfue , yi dyanvle'n b'o ô o bobo nyin su'n ka , nan a wun asé a yi o niaan'n i nyin su wla'n .
+42006046	nzu ti		? Nzu ti ye an fle min , Nannan , Nannan , sannge an yôman liké nga n klé amun nion ?
+42007024	Nzu		Ke swran bo Jean sunmaan bé'n bé oli'n , kpekuun Jésus su usa swran mun Jean wun nde ke : ? Nzu ye an woo i nianle blô lo nion ? ? An kô nian ndema bo aunngban kédyéé'n ?
+42007025	nzu		? Se nanh ndema'n , wuun nzu ye an woo i nianleo ? ? Swran b'o wla trale kpakpaa ? Nian , swran nga bé wla trale kpakpa bo bé le ninngé nglanman'n , bé fin famien'm bé awlô .
+42007026	nzu		? Se o ti'a so'n , wuun nzu ye an woo i nianleo ? ? An woo Nyanmien nuan idyofue nianle ? Nanwle o ti so , sannge o tra Nyanmien nuan idyofue .
+42007031a	nzu		? Nzu ye nh fah adyulisufue nga mun sunnzun io ? 
+42007031b	nzu		? Bé fa nzu ?
+42007042	ônin		Ke bé le'a liké fi nan ba fa tutu kale so'n , o yatyi tyee bé . ? Swran nnyon so'n ônin ye o wa klô bian so'n i sa tra suo ?
+42007049	se		Bé nga bé nin i di liké'n , bé usa bé bobo bé wun ke : ? Bian nga ti lie se , b'o yatyi swran i wun sa tye io ?
+42008025a	nzu		Ye o usa bé ke : ? Nzu ti ye an lafi'a n suo ? Sre kun bé , o bô bé nuan , nan ba usa bé wiéngu ke : 
+42008025b	se		? Bian nga ti i lie se , b'o man o sé aunngban'n nin nzué'n ke bé dyran'n , bé dyraan ?
+42008028	nzu		Ke o wuun Jésus'n , o kpannin , o wa kôtô i bô , o kpan séé ke : ? Jésus , Nyanmien Kpli bo liké fi nu'en i sin'n , i Wa , nzu nde ye o ô min nin wo yé afieon ? N sre o , nanh klé n yale .
+42008030	~		Jésus use i ke : ? O dunman ? Ye o sé ke : Bé fle min Akpasua Kpli . Afin asie usu'm bo bé su i su'n , bé sonnin .
+42008045	Wan		Jésus usaa ke : ? Wan ye o kan mion ? Nga waan : Nanh mion , nga waan : Nanh mion . Pierre séé i ke : Baba , swran'm bé sin yia o , bé mian o !
+42009009a	~		Sannge Hérode sé ke : M man bé kpee Jean ti'n . ? Ye swran nga bé ken i nde ye'n , wuun waan ? I so'n ti , o klô ke oh wunh Jésus .
+42009009b	~		
+42009018	wan		Lé kun ke Jésus nin i sonnzonfue'm bé ngunmin bé ô le b'oh kôkôh yale klé Nyanmien'n , o usa bé ke : ? Swran'm bé waan , wan yele min ?
+42009020a	~		Ye o usa bé ke : ? Amun kusu , amun waan , 
+42009020b	wan		wan yele min ? Pierre séé i ke : A ti Nyanmien i Christ .
+42009025	nzu		? Se swran kun nyan men wunmuan'n , nan se o satyi i wun annze se i nguan'n kpe sin'n , nzu ye o yô yé men io ?
+42009041a	tyen ônin		Ye Jésus sé ke : ? Amun adyulisufue nyin kékléfue bo an lafi'a sa su'n , min nin amunh tranh lélé tyen ônin ? 
+42009041b	tyen ônin		? N tra min awlen amun wun lélé tyen ônin ? Fo o wa'n ble min .
+42010025	nzu		Jésus kan nianle ti mmla sifue kun dyaô use i ke : ? Ndya , nzu ye n yô nan man nyan anannganman nguan nion ?
+42010026a	se		Jésus use i ke : ? Bé klelii se mmla fluwa'n nun ? 
+42010026b	se		? Ye ke a kanngan'n , o sé se ?
+42010029	Wan		Sannge o klô ke bé bui swran kpa , i so'n ti , o usa Jésus ke : ? Wan ye o ti n wiéngu nion ?
+42010036a	~		? Bé swran nsan so'n , 
+42010036b	ônin		o nyrun'n bé nun ônin ye o ti bian b'o too kôdiawiéfue'm bé nun'n i wiénguo ?
+42011008	~		nanwle , nanh ke o ti i dyanvue'n ti ye man oh dyaôh fa men io , sannge i yale b'o kléé'n ti ye man oh dyaôh fa liké kwlaa ng'o mien i sa'n men io .
+42011011	ônin		? Amun nun ônin ye se i wa sé i ke o men i kpatra'n , o yatyi fa wuô men io ?
+42011012	~		? Kusu se o sé i ke o men i klénzua'n , o fa nyannglan men io ?
+42011013	~		Se amun bo an ti swran te'n , an fa liké kpa tye amun mma mun'n , wuun é Si b'o ô nyanmien su lo'n kusu , oh feh i Wawe'n man bé nga bé sre i'n kpe blu .
+42011018	oh yôh se		? I so'n ti , se Satan i minnien'm bé bu bé wun nun'n , oh yôh se ye i men'n kwlah yô kpaa ? Afin amun waan , Béelzébul dunman nun ye n fuan asie usu muon .
+42011019	wan		? Se n fuan asie usu mun Béelzébul dunman nun'n , wuun wan dunman nun ye amun mma'm bé kusu bé fuan béo ? I so'n ti , bé bobo ye bé nin amunh kaanh .
+42012014	wan		Ye Jésus sé i ke : ? Ndya , wan ye o fa min sié ke n yô amun dyole difue , nin amun ninngé tyefueo ?
+42012017	se		O bu akunndan o sé ke : N ninngé mun ye bé ô ye'n , n le'a lika n gua'a bé nun . ? N yôé se ?
+42012020	wan		Sannge Nyanmien usa bian so'n ke : ? Sinnglinfue , nde kongue béh fah o , ye ninngé nga a yiayia bé su ye'n , oh kah wan sa nun ?
+42012024	~		Anh nian kuankuan mun , bé gua'a awié , bé kpe'a awié , bé le'a kuku nin tanngannin , sannge Nyanmien ta bé . An ti kpa tra anunman mun kpe blu !
+42012025	ônin		? Amun nun ônin ye i kôkôle nun o kwla gue i afue'n su bo kaan ?
+42012026	nzu ti		? Se an kwla'a liké kaan ke nga sa yô'n , nzu ti ye liké nga'm bé ti an kôkôo ?
+42012042	Wan		Ye é Min'n sé ke : ? Wan ye o ti swran kpa b'o si liké su nian kpa , bo i min'n fe sié i minnien'm bé su ke o man bé alie tyen bo bé siéli'n su nion ?
+42012049	~		M baa men'n nun wole , o ka n ngunmion wa so !
+42012056	nzu ti		Dunman klôfue mun , an si asie'n su wa nin nyanmien su lo ninngé'm bé nzolie . ? Nzu ti ye an si'a ble nga an wô nun ye'n i nzolieo ?
+42012057	O yô se		? O yô se ye an kwla wu'an liké ng'o ti kpa'n i wleo ?
+42013004	~		? Ye swran blu-nin-motyue bo Siloé akpa fléiin'n bu to bé su kuun bé'n , an bu i ke bé wun sa lie'n tra Jérusalemfue'n kwlaa bé lie'n ?
+42013007	Nzu		Ye o sé raisin fié sunianfue'n ke : Nian blofue aloma bô kun nga ke m be i nianle nan se mma ô suo , n ti , bo wa suman'n i afue nsan ye , i so'n ti , bu i bô . ? Nzu ye o dyin le yôo ?
+42013015	ônin		Ye é Min'n sé ke : ? Amun dunman klôfue mun , amun nun ônin ye sabbat tyen o nyanndyimen i nnen b'o ô tuin'n nun'n , se nannin ô , se aflunmun ô , o kô me'en nzuéo ?
+42013018a	nzu		O sé bé ékun ke : ? Nyanmien siéle'n fa nzu , 
+42013018b	nzu		ye nzu ye n fa sunnzun io ?
+42013020	nzu		O sé bé ékun ke : ? Nzu ye nh fah Nyanmien siéle'n sunnzun io ?
+42013025	~		Ke awlô bô kpen'n kô tô anuan'n nun'n , amun bo an ka gua su lo'n , amunh bôbôh anuan'n amunh séh ke : Ndya , tiké é anuan ! ye oh séh amun ke : N si'a amun finwle .
+42014005	~		I sin o usa bé ke : ? Amun kunman nun'n , o ka'a le yi'e kpekuon ?
+42014028	ônin		? Amun nun ônin ye se i waan oh kplanh nglô sua fléiin kun'n , o du'an mmua tra'an asé bu'e i sika'n nianman , se i sika'n kwlah dyu i kplanle ô nion ?
+42014031	ônin		? Ye famien ônin ye se i waan o nin i wiéngu famien kun béh kôh kun ale'n , o du'an mmua tra'an asé bu'e i akunndan kpa se o kwla fa swran akpi-blu o nin nga b'o le swran akpiablaon'n bé kun ô nion ?
+42014034	nzu		? Ndyin'n ti liké kpa , sannge se i ta'n kpo'n , nzu ye béh fah yô nan wa yô fe ékuon ?
+42015004	ônin		? Amun nun ônin ye se o le bua ya , nan se kun mlin'n , o yatyi'a ablangwlan-nin-ngwlan nga mun blô lo o kunndeman kun ng'o mlinnin'n lélé san oh wunh io ?
+42015008	ônin		? Ye bla ônin ye se o le dyete mma blu , nan kun mlin'n , o so'a kannin o kuanman sua lo , o kunndemen bleble lélé san oh wunh io ?
+42015026	~		O flee i si i swran'm bé nun kun , nan wa use sa nga ti ye bé bô klen'n .
+42015029	~		I si fité kô kpetelii , ye o séé i si ke : Nian , sule nga n fa su o lélé fa dyu nde'n , n nian kpeman wo atisre lé , sannge a nian ma'an min bôli ba bo kun lé , bo min nin n dyanvue mun é fa di tyeon .
+42016002	Nzu		O flelii , o usé i ke : ? Nzu sa ye a yôli bo bé wa kan kléé min nion ? Kan o dyunman'n i nun nde klé min , afin a su kwla nia'an n ninngé'm bé su kun .
+42016003	se		Ye ninngé sunianfue so'n bu akunndan sé ke : ? Ke bé kô tu n dyunman'n nun bo ba dé bé ninngé mun n sa nun'n , nh yôéh se sien'n ? N le'a wunmien nan man di fié , ye kusu n kwla yô'a lala sinfue , se n yô so'n , o ti n nyannzuen .
+42016005	nnye		Ye o flee bé nga i min'n i kale ô bé su'n , o usa kun ke : ? Min min'n i kale ng'o ô o su'n ti nnye ?
+42016007	nnye		Ye o usa kun ékun ke : ? O kusu , o kale lie'n ti nnye ? Ye o sé i ke : Awié tonne ablanan . Ye o sé i ke : Fo o fluwa'n kle ablasan-nin-nnyon .
+42016011	wan		? I so'n ti , se amun di'a nanwle sika ng'o man nde swran'm bé di'a nanwle'n su'n , wan ye oh feh i liké kpa man amun ke an fa siéo ?
+42016012	wan		? Ye se an di'a nanwle swran wié liké lie'n su'n , wan ye oh fah ng'o ti amun bobo amun lie'n man amuon ?
+42017007	ônin		? Amun nun ônin ye se o le i swran kun se o di fié ô , se o ta nnen ô , ke o fin blô lo dyu le tye'n , o sé i ke , o bla'a tran asé di likéo ?
+42017017	~		Ye Jésus sé ke : ? Bé swran blu'n bé ngba bé wun a saman ? ? Ye bé ngwlan nga'm bé li ?
+42017018	O yô se		? O yô se ye ya wu'an swran fi bo san nvlé wié nunfue nga kunngba ye o wa la Nyanmien aséo ?
+42017020	~		Lé kun Pharisifue'm bé séé Jésus ke o klé bé ble nga Nyanmien wa sié swran mun'n , ye o sé bé ke : Nyanmien i swran'm bé siéle'n o ti'a liké bo bé wun ke i ye oh bah ye'n .
+42017037	nin fan		Ye i sonnzonfue'm bé use i ke : ? Nannan , nin fan ye sa so'm béh yôoh ? Ye o sé bé ke : Lika nga liké fuen ô le'n , le ye apetekuasi'm bé yiaa .
+42018018	nzu		Juif'm bé kpen kun wa usa Jésus ke : ? Ndya , o bo a ti swran kpa'n , nzu ye n yô nan man nyan anannganman nguan nion ?
+42018019	nzu ti		Ye Jésus use i ke : ? Nzu ti ye a sé n ke n ti swran kpa nion ? Swran fi ti'a kpa , san Nyanmien kunngba tye .
+42018026	wan		Bé nga bé tii nde so'n , bé sé ke : ? Se o ti so'n , wuun wan ye o kwla fité nuon ?
+42018036	Nzu		Ke o tii swran'm bo bé sin'n bé ngan'n , o use ke : ? Nzu saa ?
+42018041	~		Ye i waan : Nannan , n waan , a tiké min nyin !
+42019007	~		Ke swran'm bé wunnin i so'n , bé kwlaa bé ken i nde , bé sé ke : Wa kô siké bian sa tete yôfue'n .
+42019023	nzu ti		? B'o li a si so'n , nzu ti ye a fa'a n sika'n a kô ma'an sika siéfue wiéo ? Se a yôli i so'n , wuun ke m bali bo n kô fa'n , nh nyanh su nvasue .
+42019031	nzu ti		Se swran wié usa amun ke : ? Nzu ti ye an nyanndyii'n ? anh sé i ke : É Min'n i sa mien i wun , i waan é fa ble .
+42019033	nzu ti		Ke béh nyanndyih aflunmun'n , ifue'm bé usa bé ke : ? Nzu ti ye an nyanndyi io ?
+42020002a	wan		? Wan dunman nun ye a yô sa nga muon ? 
+42020002b	wan		? Ye wan ye o tuu o ke a yôo ? Klé é swran so'n .
+42020005a	~		Bé bu i akunndan bé sé ke : Se é sé ke Nyanmien ye o meen i atin'n , oh usah é ke : 
+42020005b	nzu ti		? Ye nzu ti ye amuan lafi'e i suo ?
+42020013	se		Fié ifue'n sé ke : ? N yô i se ? M ma sunman n wa yasua'n b'o ti min awlen su ba'n , wiénuon i lie'n béh buih swran .
+42020015	se		Ye bé tre fa oo fié'n sin lo nan ba kuin . ? An bu i ke fié ifue'n o wa yô swran so'm bé se ?
+42020017	se		Sannge Jésus nian bé , o sé ke : ? Nde nga bé klelii ke : « Yebue nga sua kplanfue'm bé yii blô'n , I ye wa yatyi yebue kpa b'o tra sua'n i tyondyo'n i asé'n , » i bô klé se ?
+42020023	~		Sannge Jésus wun bé gble'n , ye o sé bé ke :
+42020024a	wan		Anh fa denier kun bla n nian , ye bé fa ble io . O usa bé ke : ? Wan ye ng'o ô su ye'n ? 
+42020024b	wan		? Ye wan sunuan yele ng'o kle su le'n ? Ye bé waan : César lieo .
+42020033	ônin		? Ke swran'm béh tyenh'n , bla so'n oh yôh bé nun ônin lie , afin bé ngba bé dyelii ?
+42020041	o yô se		Ye Jésus usa bé ke : ? O yô se ye bé sé ke , Christ ti David i Anunmaan ?
+42020044	o yô se		O man David bobo flee Nannan . ? O yô se ye man o kô yô i anunmaan ?
+42021007a	ble ônin		Bé use i ke : ? Ndya , ble ônin ye sa so'm béh yôoh ? 
+42021007b	ônin		? Ye liké ônin ye o klé ke sa so'm bé su wa yôo ?
+42022009	nin		Bé use i ke : ? Nin ye a klô ke é kô ton io ?
+42022011	nin		Anh sé awlôfue'n ke , Ndya waan é bla nan a klé é wo aôfue sua'n man o nin i sonnzonfue'm bé wa di Pâque'n nun .
+42022027	ônin		? Swran ng'o ti alie'n sin'n , o nin swran ng'o isa alie'n , bé nun ônin ye o ti daan ? ? Nanh swran ng'o ti alie'n sin'n ye o ti daan ? Sannge n lie'n n wô amun afien ke dyunman difue sa .
+42022046	nzu ti		? Nzu ti ye an lafio ? Anh dyaô sre Nyanmien ke nanh man Lakafue'n laka amun .
+42022064	~		bé bôé zaga bé use i ke : ? Won o bô woo ?
+42022071	se		Ye bé sé ke : Ya ti i bobo i nuan nun sien'n . ? Lalôfue se ye é kunnde i ékuon ?
+42023022a	~		I kpe nsan su lie'n bo Pilate usa bé'n , o usa bé ke : 
+42023022b	nzu		? Nzu sa bo tye ye o yôlio ? Man wu'an sa ng'o yôli b'o nin kunle fataa . I so'n ti , m man béh bôéh nan nh yatyih i nun .
+42023031	se		? Se bé yô waka monnen ke nga sa'n , i kéé'n kusu oh yôh i lie se ?
+42024005	nzu ti		Sre b'o kun bla mun'n ti , bé tôô bé nyin blô , ye swran so'm bé usa bé ke : ? Nzu ti ye an kunnde swran nga i nyin ô su'n fuen'm bé afieon ?
+42024017	Nzu		O usa bé ke : ? Nzu yale ye an kôkô koo ? Ye bé dyrannion , bé nyrun'n tuun .
+42024019	Nzu		Ye o usa bé ke : ? Nzu saa ? Ye bé sé i ke : Sa nga bé yôô Jésus b'o fin Nazareth'n , i nde ye é kaan . O ti Nyanmien nuan idyofue b'o yô sa kéklééklé b'o si idyo kpa Nyanmien nin swran'm bé nyrun .
+42024025	~		Ye Jésus sé bé ke : An wu'an sa wle , ye nde nga Nyanmien nuan idyofue'm bé kannin'n , an ka le fe'e i ngba su !
+42024038a	~		Ye o usa bé ke : 
+42024038b	nzu ti		? Nzu ti ye amun akunndan sanngan so bo an bu akunndan ke nga saa ?
+43001019	wan		Anh nian i nun nga Jérusalem Juif'm bé yii Nyanmien nyrun dyranfue nin Lévifue mun ke bé kô usa Jean ke , wan yele i'n , nde ng'o kannin'n ye .
+43001021	wan		Ye bé use i ékun ke : ? Wuun , wan yele o ? ? Élie yele o ? O sé bé ke , nenh i yele i . ? Nyanmien nuan idyofue'n yele o ? O sé bé ke : Tyetye .
+43001022a	wan		O man bé use i ke : ? O kpa'n , wan yele o ? Bua é wié man é wun nde nga é kô kan klé bé nga bé sunmaan yé'n . 
+43001022b	se		? A bu o wun se ?
+43001025	nzu ti		bé usaa Jean ke : ? Se a ti'a Christ nin Élie nin Nyanmien nuan idyofue'n , nzu ti ye a yô swran'm bé baptême nion ?
+43001038a	nzu		Jésus kpeh i nyion … bé su i su , ye o usa bé ke : ? Nzu ye an kunndeo ? Bé use i ke : 
+43001038b	nin		? Rabbi , a tran nin ? — Rabbi'n i bô yele ninngé kléfue . —
+43001046	~		Nathanaël sé i ke : ? Nazareth ôle ng'o ô le'n , liké kpa kun ô lo ? Philippe sé i ke : Bla'a nian .
+43001048	nin		Nathanaël use i ke : ? A si min nin ? Jésus sé i ke : Ke Philippe nian fle'a o bo a ô blofue aloma'n bô lo'n , ye n wuun woo .
+43002004	nzu ti		Jésus sé i ke : ? Mmô , nzu ti ye a kan klé mion ? O nian dyu'a n liké yôle ka .
+43002018a	~		Juif'm bé use i ke : 
+43002018b	nzu		? Nzu atre ye a wa yi klé é ti ye a yô soo ?
+43003004	oh yôh se		Nicodème kusu sé i ke : ? Se swran kun yô kpenngben'n oh yôh se ye béh kwlah wui ékuon ? ? O kwla se i sin i nin klun nan ba wui ékun ?
+43003009	oh yôh se		Ye Nicodème use i ke : ? Oh yôh se ye sa so'n kwlah yôo ?
+43003012	oh yôh se		? Ke bo n kan sa ng'o yô asie'n su wa'n bé nde klé amun bo an lafi'a su'n , se n kan sa ng'o yô nyanmien su lo'n bé nde klé amun'n , oh yôh se ye amunh lafih suo ?
+43004009	O yô se		Juif'm bé nin Samariefue mun diman . I son'n ti , bla'n use i ke : ? O yô se ye a sre min nzuéo ?
+43004011	nin		Ye bla'n sé ke : Ndya , kunman'n ti kplôuun , a le'a liké bo a fa saa . ? Nin ye a nyan nzué so nion ?
+43004027a	nzu		Ke oh yôh so'n ye i sonnzonfue'm bé dyuu leo . Ke bé wuun ke o nin bla kun su idyo'n , o bô bé nuan . Sannge bé nun kun sa wa use'e i ke : ? Nzu ye a kunnde bla'n sa nuon ? annze : 
+43004027b	nzu		? Nzu nde ye a nin i bé kaan ?
+43005012	Wan		Bé use i ke : ? Wan ye o sé o ke a fo o be'n nan a nantio ?
+43005044	oh yôh se		? Amun bo an klô ke amun wiéngu bô amun dunman'n , bo an klô'a ke Nyanmien b'o ti kunngba tye'n ye o bô amun dunman'n , oh yôh se ye amunh kwlah lafi i suo ?
+43005047	oh yôh se		? Ke an lafi'a nde ng'o kleli'n su'n , oh yôh se ye amunh lafih min nde lie'n suo ?
+43006005	nin		Jésus meen i ti su , o wuun swran kpanngban kpa bé su bé i wun le , ye o usa Philippe ke : ? Nin ye éh nyanh liké é tô man minnien nga mun bé dio ?
+43006009	nin		Gbanflen kaan kun ô wa , o le orge kpaun nnun nin dyué nnyon . ? Sannge swran wlawla nga , o dyu bé nin ?
+43006025	ônin		Bé kô tôé fete'n bué kun lo , bé use i ke : ? Baba , tyen ônin ye a baa waa ?
+43006028	Nzu		Bé use i ke : ? Nzu ye é yô nan ya kwla yô liké ng'o ti Nyanmien klun suo ?
+43006030a	ônin		O man bé usee i ékun ke : ? Atre ônin ye ah yih klé é bo éh wuinh nan ya lafi o suo ? 
+43006030b	nzu		? Nzu liké ye a wa yôo ?
+43006042	O yô se		sé ke : ? Nanh Jésus bo é si i si Joseph nin i nin nion ? ? O yô se ye i waan o fin nyanmien su ye o balio ?
+43006052	o yô se		I so'n ti , akplôwa too Juif'm bé afien , bé sé ke : ? O yô se ye i li waan o kwla fe i wun man é bo é dio ?
+43006060	Wan		Ke bé tii nde so'n , i sonnzonfue'm bé nun kpanngban bé sé ke : Nde nga ti kéklé . ? Wan ye o kwla fa suo ?
+43006062	se		? Se an wun ke m bo n katyii Swran'n n su fu kan n wô lo laa'n , amunh yôh amun wun se ?
+43006068	Wan		Ye Simon Pierre sé i ke : ? Wan sin ye é koo ? O nde'n ye man é nyan anannganman nguaan .
+43007011	nin		Ke béh dih tyen'n , Juif'm bé kunndee , bé sé ke : ? O ô nin ?
+43007015	O yô se		O bô Juif'm bé nuan , bé sé ke : ? Bian nga wa sua'an liké'n , o yô se ye o si fluwaa ?
+43007019	nzu ti		? Moïse ye o fa mmla'n maan amuon , nenh io ? Sannge amun nun wié fi fa'a su . ? Nzu ti ye an klô ke amunh kunh mion ?
+43007020	Wan		Swran'm bé sé i ke : O kpa'n , liké wié su o su . ? Wan ye o klô ke oh kunh woo ?
+43007023	nzu ti		? Se an wla bé klen sabbat tyen nan amuan satyi'a Moïse mmla'n , nzu ti ye swran ti blé wunmuan kun bo n yôé dyuédyué sabbat tyen'n ti , an fa min wun yaa ?
+43007035	nin		Juif'm bé usa bé wun ke : ? Nin ye o wa ko bo é su wunmen nion ? ? O wa ko Juif'm bo ba sanndi ba kô tran Grec'm bé nun'n bé sin , nan oh kléh Grec'm bé liké ?
+43007036	ônin		? Ke o sé ke , é wa kunndee , é su wunmen , ye lika nga oh koh lo'n , é su kwla ko'a lo wié'n , i bô yele ônin ?
+43007041	~		Wié'm bé kusu bé waan : Bian nga ye o ti Christ nion . Ye wié'm bé usa ke : ? Ai , Galilée ye Christ'n fion ?
+43007045	O yô se		Ke sôndya'm bé saa bé sin Nyanmien nyrun dyranfue dandan nin Pharisifue'm bé wun lo'n , bé usa bé ke : ? O yô se ye amuan tre'e i a bamaan ?
+43007048	~		? É kpenngben nin Pharisifue'm bé nun wié a lafi i su ?
+43007051	~		É mmla'n nun swran nga bé nian ti'e i nuan nun nde bo bé nian wu'an sa ng'o yôli'n , bé bu'e i fo .
+43008005	~		Moïse klee mmla'n nun ke bla ng'o yô sa ke nga sa'n , é fin i yebue é kuin . ? Ye o kusu , o wannze ?
+43008010	nin		Ye Jésus meen i wun su o use i ke : ? Mmô , bé ô nin ? ? Swran fi a sé'a ke oh kunh o ?
+43008019	nin		I so'n ti , bé use i ke : ? O Si'n wô nin ? Jésus sé bé ke : An si'a min nin n Si'n . Se an si min'n , wuun an si n Si kusu .
+43008025a	nzu		Bé use i ke : ? A ti o lie nzu ? 
+43008025b	~		O sé bé ke : Swran wafa nga n ti'n , ye n kan kléli amun i bôbôle nun nion .
+43008033	o yô se		Bé sé i ke : É ti Abraham anunman , é nian yô'a swran fi kanga lé . ? O yô se ye man a sé ke , éh nyanh é ti nion ?
+43008043	nzu ti		? Nzu ti ye an wu'an nde nga n kan klé amun'n i wleo ? Afin an klô'a ke an tié .
+43008046a	ônin		? Amun nun ônin ye o kwla si i wué nun sé ke n yôô sa teo ? 
+43008046b	nzu ti		? Se n di nanwle'n , nzu ti ye an lafi'a n suo ?
+43008053	se		? A ti kpa tra é nannan Abraham b'o wuli'n ? Nyanmien nuan idyofue'm bé kusu bé wuli . ? O kpa'n , a bu o wun se ?
+43008057	~		Ye Juif'm bé sé i ke : ? O bo a nian di'a afue ablénun'n , a wuun Abraham ?
+43009002	O yô se		I sonnzonfue'm bé usee i ke : ? Baba , bian nga , o yô se ti ye bé wuu i anyansifueo , i bobo yôô sa wié annze i si nin i nin bé yôô sa wié ti ye bé wuu i soo ?
+43009010	O yô se		O man bé usee i ke : ? O yô se ye o nyinma'n tikélio ?
+43009012	nin		Bé use i ke : ? Bian so'n wô nin ? O sé ke : Man wunman kan o olio .
+43009016	o yô se		Pharisifue'm bé wié'm bé sé ke : Bian so'n tyi'a sabbat'n , o man nanh Nyanmien ye o sunmeen io . Bé wié'm bé kusu bé waan : ? Se swran kun ti sa te yôfue'n , o yô se ye o kwla yi atre ke nga saa ? Kpekuun ba bu bé wun nun .
+43009017	se		Pharisi fue'm bé usa anyansifue'n ékun ke : ? Ke o tikéé o nyin'n , o bobo a bu i se ? O sé ke : O ti Nyanmien nuan idyofue ,
+43009019	o yô se		bé usaa bé . Bé usa bé ke : ? Amun wa'n bo an ken i nde ke bé wu i anyansifue'n i ye ? ? O yô se ye wa wun aséo ?
+43009026a	nzu		Bé use i ke : ? Nzu ye o yô maan o ? 
+43009026b	se		? O yôli o nyinma'n se ye o tikélio ?
+43009027	O yô se		O sé bé ke : Man kan klé amun laa , amuan fa'a su . ? O yô se ye an klô ke n ken i ékuon ? ? Amun kusu , an klô ke amunh katyih i sonnzonfue wié ?
+43009034	~		Bé sé i ke : ? O bo ke bé wuu wo'n , sa tete'n ye o ti o dyunman'n , a wa klé é liké ? Ye bé keen i bôo .
+43009036	~		O sé ke : Ndya , klé min swran so'n man n lafi i su .
+43010020	nzu ti		Bé nun kpanngban bé sé ke : Liké wié su i su . I ti a satyi . ? Nzu ti ye an tié nde ng'o kan nion ?
+43010021	~		Wié'm bé sé ke : I nde ng'o kan'n , o fa'a swran bo asie usu a satyii'n i nde . ? Asie usu kwla tiké anyansifue nyinma ?
+43010024	tyen ônin		Juif'm bé kpe sin yielii , bé use i ke : ? Tyen ônin bo tye ye wo man é wla'n guah aséo ? Se wo ye a ti Christ'n , di i nanwle wéiin klé é .
+43010032	ônin		Jésus sé bé ke : M man wunnin sa kpakpa bo n yô bé n Si fanngan nun'n . ? Sa so'm bé nun ônin ti ye man amun waan amunh finh n yebue kun mion ?
+43010036	nzu ti		? Se o ti so'n , m bo Nyanmien fa min sié ke n di i dyunman'n b'o sunmaan min men'n nun'n , ke n sé ke n ti Nyanmien Wa'n , nzu ti ye an sé ke n satyi Nyanmien dunmaan ?
+43011034	nin		O usa bé ke : ? An siéé nin ? Bé sé i ke : Nannan , bla'a nian .
+43011047	se		Ye Nyanmien nyrun dyranfue dandan nin Pharisifue'm bé nin dyole difue dandan mun , bé sé bé ke : ? É yô bian nga se ? Afin o yi atre kpanngban .
+43011056	se		Bé kunnde Jésus , ke bé ô Nyanmien sua dan'n nun le'n , bé usa bé wiéngu ke : ? An bu i se ? ? O su ba'a tyen'n bô wié ?
+43012005	nzu ti		? Nzu ti ye ba yô'a blofue nzué so'n i ate denier ya nsan ba fa ma'an yalefue muon ?
+43012027	se		Sien'n min akunndan'n wa sanngan . ? N sé se ? ? N sé ke : N Si , dé min sa ng'o wa dyu ye'n nun ? Sa so'n ti ye m bali lélé ye wa fa dyu ke é sé ye'n .
+43012034a	o yô se		Swran'm bé use i ke : É kenngen mmla'n nun ke : Christ su wu'a mlonmlon . ? Se o ti so'n , o yô se ye man a sé ke , san béh manh i b'o katyii Swran'n i su nion ? 
+43012034b	wan		? Swran b'o katyii so'n yele wan ?
+43012038a	wan		O yôô so nan nde nga Nyanmien nuan idyofue Ésaïe kannin'n o kpen su , o sé ke : « ? Nannan , nde nga é kan kléé bé'n , wan ye o fa suo ? 
+43012038b	wan		? Wan ye é Min Nyanmien'n yi i liké ng'o yô'n i nglô kléé io ? »
+43013025	waan		Jésus sonnzonfue so'n kise i wué nun , o use i ke : ? Nannan , waan ?
+43013036	nin		Simon Pierre use i ke : ? Nannan , nin ye a koo ? Jésus sé i ke : Lika nga nh koh lo'n , a kwla su'a n su ityra'n , sannge tyen wié lélé ah suh n su .
+43013037	nzu ti		Pierre use i ke : ? Nannan , nzu ti ye n kwla su'o o su ke é sé ye nion ?
+43014002	~		N Si i awlô lo tranwle'n sonnin , n su kô siésié lika man amun . Se o ti'a so'n , wuun man kan klé'a amun .
+43014005	O yô se		Thomas sé i ke : Nannan , é si'a lika nga a ko'n . ? O yô se ye é si i atin nion ?
+43014009	O yô se		Jésus sé i ke : ? Philippe , lalaa bo min nin amun ô wa'n , a nian si'a min ? Swran ng'o wun min'n , wuun wa wun é Si'n . ? O yô se ye a sé n ke n klé amun é Si nion ?
+43014022	oh yôh se		Jude use i ke : ? Nannan , oh yôh se ye ah yih o wun klé é bo men nunfue'm bé lie su tra'an nuon ? Nanh Judas Iscariotfue'n ye o séé soo .
+43016005	nin		Sien'n n su ko swran ng'o sunmaan min'n i sin , sannge amun nun wié fi usa'a n ke : ? A su kô nin ?
+43016017	ônin		O man i sonnzonfue'm bé nun wié'm bé usa bé wiéngu ke : ? Ke o sé ke , o tye kan'n é su wu'en kun , sannge se i sin tyuen nun kan'n , éh wunh i ékun ye o su ko é Si'n sin'n , i bô yele ônin ?
+43016018	ônin		Bé usa ke : ? O tye kan ng'o ken i le'n , i bô yele ônin ? Nde kpa ng'o ken i le'n , é wu'en i wle .
+43018004	wan		Jésus b'o si sa kwlaa nga bé su wa yôé'n , o wunngé bé wun le o usaa bé ke : ? An su kunnde wan ?
+43018007	wan		Jésus usa bé ékun ke : ? An su kunnde wan ? Bé sé ke : Jésus b'o fin Nazareth nion .
+43018011	~		Jésus sé Pierre ke : Wlo o kaka'n i bua'n nun . ? A bu i ke nyrennen nga é Si waan n wuin'n , n su wunmen ?
+43018021	nzu ti		? Nzu ti ye a usa min ékuon ? Usa bé nga n kan klé bé bo bé tili'n . Bé bobo bé si nde nga n kan kléé bé'n .
+43018023	nzu ti		Jésus sé i ke : Se nde te ye n kannin'n , kan klé min . ? Se kusu nde kpa ye n kannin'n , nzu ti ye a bô mion ?
+43018029	Nzu		O man Pilate fité baa bé wun le , o usa bé ke : ? Nzu nde su ye an sanmaan bian ngaa ?
+43018035	Nzu		Pilate sé i ke : ? Bé waan Juif yele min ? O bobo o nvléfue nin Nyanmien nyrun dyranfue dandan mun ye bé fa o blee mion . ? Nzu sa ye a yôlio ?
+43018038	nzu		Pilate use i ke : Nanwle'n yele nzu ? Ke i nuan toli'n , o fité oo Juif'm bé wun lo ékun , o sé bé ke : N wu'en i wun nde kun bo n dyran su fa bu i foo .
+43019009	se		O wlu i awlô lo ékun , o usa Jésus ke : ? A fin é se ? Sannge wa te'e i su .
+43019015	~		Sannge bé kpan sé ke : Bé kuin ! Bôbôé waka'n su ! Pilate usa bé ke : ? M bôbô amun famien'n ? Nyanmien nyrun dyranfue dandan'm bé sé ke : É le'a famien ufle fi san César kunngba tye .
+43020013	nzu ti		Ye bé usee i ke : ? Mmô , nzu ti ye a suon ? O sé bé ke : Ba fa min Min'n i fuen'n , n si'a lika nga bé yilii'n .
+43020015a	nzu ti		Ye Jésus use i ke : ? Mmô , nzu ti ye a suon ? 
+43020015b	wan		? A kunnde wan ? O bu i ke fiéfue nion , o sé i ke : Ndya , se wo ye a lafi'n , klé min lika nga a kô yilii'n man n kô fa .
+43021012	waan		Jésus sé bé ke : Anh bla'a di liké . Sannge i sonnzonfue'm bé nun kun sa a tre'e i awlen a use'e i ke : ? O waan ? afin bé ngba bé si ke bé Min nion .
+43021020	wan		Pierre kpe i nyin o wuun Jésus sonnzonfue ng'o klôé kpa'n bo ke béh dih liké'n o kisa Jésus wué nun , o usee i ke : ? Nannan , wan ye oh foh o man swran mun'n ?
+43021021	~		Ke Pierre wunniin'n , o use Jésus ke : ? Nannan , ye nga li ?
+43021022	~		Ye Jésus sé i ke : ? Se n klô ke o tran le lélé mon o fa dyu m bale'n , o nde ô nun ? O li , su n su .
+43021023	~		O man nde so'n truu é niaan'm bé nun ke i waan i sonnzonfue so'n su wuman . Sannge Jésus a sé'a Pierre ke o su wuman , i waan , se o klô ke o tran le mon o fa dyu i bale'n , i nde nu'an nun .
+44001011	nzu ti		? Galiléefue mun , nzu ti ye an dyin wa nian nyanmien su lo soo ? Jésus bo Nyanmien men i su oo nyanmien su lo amun nyrun wa'n , o wa ba ékun ke an wunniin ke o fa oli'n sa .
+44002008	O yô se		? O yô se ye man é kwlaa é ti é bobo é anien'n bé nuan nuon ?
+44002012	Nzu		O bôô bé kwlaa bé nuan , bé wu'an sa nga bé yôo , ye bé usa bé wiéngu ke : ? Nzu sa yele nga ?
+44002037	se		Ke bé tii nde so'n o yô bé ya , nan ba usa Pierre nin i wiéngu mun ke : ? Nnya mun , éh yôéh se ?
+44003012a	nzu ti		Ke Pierre wuun i so'n , o sé swran'm bé ke : ? Amun Israëlfue mun , nzu ti ye sa nga bô amun nuaan ? 
+44003012b	nzu ti		? Nzu ti ye an nian é siin soo , ke é bobo é fanngan nun annze é Nyanmien srôle ti ye man bian nga a nantio ?
+44004007a	~		Ke bé kô fa Pierre nin Jean bali'n , bé dyraan bé bé afien le , bé usa bé ke : 
+44004007b	O yô se		? O yô se ye an kwla yô sa ngaa ? 
+44004007c	wan		? Ye wan dunman nun ye an yôlio ?
+44004016	se		bé sé ke : ? Éh yôh minnien nga'm bé se ? Afin Jérusalemfue'n kwlaa bé si nun wéiin ke sa nga bé yôli'n ti dan kpa , o man é kwla fia'a su .
+44004025a	nzu ti		wo ye man o Wawe'n fo o nde'n wlaa é nannan David o swran'n i nuan b'o kenniin ke : « ? Nzu ti ye nvlé wié nunfue'm bé plan soo , 
+44004025b	~		Ye swran'm bé bu sinnzin akunndan soo ?
+44005003	nzu ti		Pierre usee i ke : ? Ananias , nzu ti ye a fo o wun maan Satan b'o man a bua atô klé Nyanmien Wawe'n , bo a fa asie'n i sika i bué siélio ?
+44005004	nzu ti		? Ke o ô le bo a nian yômen i ate'n , o ti'o o lie ? ? Ye ke a yôô i ate'n , i sika'n ti'o o lie ? ? Nzu ti ye a bu akunndan ke nga saa ? Nanh swran ye a bua atô so'n klé io , sannge Nyanmieon .
+44005009	nzu ti		Ye Pierre sé i ke : ? Nzu ti ye amun bô yôô kun bo an kan é Min'n i Wawe'n niaan ? Nian anuan nun le , bé nga bé kô siéé o wun'n bé ye bé wlu wa leo , bé wa fo o kusu ko wié .
+44007026	nzu ti		Ke i alie tyennin'n , o fité bé suo , bé ngunminngunmin'n bé su di utré , i waan oh kpatah bé . O sé bé ke : ? An ti niaan , nzu ti ye an di utréo ?
+44007027	Wan		Sannge ng'o kwle i wiéngu kun'n , o suu i bô , o use i ke : « ? Wan ye o fo siéé é sukpen nin é dyole difueo ?
+44007035	Wan		Moïse so'n bo Israël'm ba kpli'en i su ke o sié bé'n , bo bé usee i ke , « Wan ye o fe siéé bé sukpen nin bé dyole difue'n , » i ye Nyanmien sunmeen ke o yô bé sukpen nin bé défueo , ange b'o man o fitéli i nyrun waka kpuye nun b'o kan nde klélii'n ti .
+44007049a	nzu		« Nglô lo'n ti m bia , Ye asie'n ti aaba bo n takataka n dya nun . É Min Nyanmien'n sé ke : ? Nzu sua ye an kwla kplan man mion ? 
+44007049b	nin fan		? Ye nin fan ye nh déh wunmieon ?
+44007052	ônin		? Nyanmien nuan idyofue ônin ye amun nannan'm ba klé'a bé yaleo ? Bé kunnin bé nga bé dun mmua kaan Nanwlefue'n i bale nde'n , i ye an fe maan swran mun bo bé kunniin nion .
+44008031	oh yôh se		O sé i ke : Se swran a klé'a min'n , oh yôh se ye nh sih i bôo ? Ye o flee Philippe ke o fu wa tran asé i wun le .
+44008033	Wan		Ke bé guee i nyin asé'n , ba di'e dyole , ? Wan ye o wa bô i ôsufue'm bé dunman di dyole ékuon ? Afin bé meen i lie'n wié asie'n su . »
+44008034	wan		Ye bian salie'n kpe i nyin usaa Philippe ke : ? Kafle , wan wun nde ye Nyanmien nuan idyofue'n keen soo ? ? I bobo wun ndeo , annze swran ufleo ?
+44008036	nzu		Ke béh koh bé nyrun'n , bé tôô nzué , ye bian'n waan : ? Nian , nzué ye ô ye'n , nzu ye man n kwla yô'a baptêmeon ?
+44009004	nzu ti		O toli , o tii swran kun nen , o sé i ke : ? Saul , Saul , nzu ti ye a klé n yale soo ?
+44009005	se		Ye o use i ke : ? Nannan , bé fle o se ? Ye o sé ke : Min Jésus-o , min ye a klé n yale nion .
+44009006	~		Sannge dyaô wlu klo'n nun , bé wa klé o liké nga a wa yô'n .
+44010004	nzuo		Ye Corneille nieen siin , sre kuin , o use i ke : ? Nannan , nzuo ? Ye ange'n sé i ke : O liké bo a sre Nyanmien'n , o ti , ye yé bo a yô yalefue mun'n , o wuin , i so'n ti , i wla ô o su .
+44010021	Nzu		O man Pierre dyrali , nan wa sé swran so'm bé ke : Swran nga an kunndee'n yele min . ? Nzu sa su ye an balio ?
+44010029	~		I so'n ti ye ke bé kô yiaa min'n , man katyi'a n nuan ye m bali nion . I so'n ti , anh kan sa ti bo an yiaa min'n .
+44010047	~		Ye Pierre maan nde'n su ékun ke : ? Bé nga Nyanmien fe i Wawe'n maan bé ke é lie'n sa'n , é kwla sé bé ke , nanh man bé yô bé baptême nzué'n nun ?
+44011017a	wan		Ke é lafii é Min Jésus-Christ su'n , liké nga Nyanmien fa maan yé'n , o fe i kunngba'n maan bé wié . ? I so'n ti , wan yele min bo n kwla sé Nyanmien ke nanh mon o yôo ?
+44011017b	~		
+44012018	~		Ke alie tyennin'n , sôndya'm bé wun usu bé dan kpa , yele ke bé si'a lika nga Pierre a oo .
+44013025	~		Ke Jean wiéé i lie'n yô'n , o sé ke : « Swran nga an bu i akunndan'n , nenh i yele min , o ô sien o su ba , min nin i ngbabua nyanman'n i nyanndyile fataman . »
+44014015	nzu ti		? Nnya mun , nzu ti ye an yô soo ? Nanh an so é , é kusu é ti swran ke amun sa , ye é su bô dyasin fe'n klé amun nan an yatyi liké ngbenngben nga'm bé yôle , an kpe amun nyin Anannganman Nyanmien b'o yii nglô nin asie , nin dyénvié'n , ye liké kwlaa b'o ô men'n nun'n i wun .
+44015010	nzu ti		? Se o ti so'n , nzu ti ye an kunnde Nyanmien nuan , bo an fa tro bo é nin é nannan mun ya kwle'e sua'n , sua Jésus sonnzonfue muon ?
+44016030	nzu		O fa bé fité wéiin nun lo , o usa bé ke : ? Nnya mun , nzu ye n yô nan man fité nuon ?
+44017018	~		Fluwa sifue dandan wié'm bo bé fle bé épicurefue nin stoïquefue'n bé nin Paul kaan nde . Bé wié'm bé sé ke : ? Fiaifue nga i wannze ? Ye wié'm bé sé ke : O su kan nvlé wié'm bé amuen nde . Sa ti bo bé ken i so'n yele ke o kan Jésus nde nin swran'm bé tyenle nde .
+44017019	~		Bé tre fa oo bé dyole diwle bo bé fle i Aréopage'n nun lo , bé use i ke : ? Liké ufle so'n bo a ken i nde'n , é kwla si i bô ?
+44019003	ônin		Ye o usa bé ékun ke : ? Baptême ônin ye bé yôô amuon ? Bé sé i ke : Jean baptême lie nion .
+44019015	nin		Lé kun lie'n ke béh yôh'n , liké'n séé bé ke : ? N si Jésus , ye n si Paul kusu , sannge amun lie'n , an fin nin ?
+44019035	wan		Ke o yôô so'n , klo'n su fluwa klefue'n guaa swran'm bé asé , o usa bé ke : ? Éphèsefue mun , wan ye o si'a ke Éphèse klo'n nian Artémis amuen bla dan'n i sua'n nin i ba b'o fin nyanmien su toli'n bé likaa ?
+44021013a	nzu ti		Ye Paul séé bé ke : ? Nzu ti ye an sun man min wun yô n nyeiin soo ? N si so , nanh ke yile ngunmin ye béh tyih mion , sannge se bé kun min bobo é Min Jésus ti Jérusalem lo'n , o ti'a sa .
+44021013b	~		
+44021022	se		Swran'm bé wa ti ke w'a ba sakpa . ? É yô i se ?
+44021033a	~		O wunngéé Paul wun le nan wa tre , o man bé tyii nin dyroko nnyon , ye o usa bé swran wafa ng'o ti'n , o nin sa ng'o yôli'n .
+44021033b	~		
+44022007	nzu ti		N toli ye n tii swran kun nen , o sé n ke : ? Saul , Saul , nzu ti ye a klé n yale soo ?
+44022008	se		N wusee i ke : Nannan , bé fle o se ? Ye o sé n ke : Min Jésus bo n fin Nazareth nion , min ye a klé n yale nion .
+44022010	nzu		Ye n wusee i ke : ? Nannan , nzu ye a klô ke n yôo ? Ye o sé n ke : Dyaô ko Damas , se a dyu lo'n , bé wa klé o liké kwlaa nga n waan a yô'n .
+44022016	Nzu		? Nzu ye a te minndee sien nion ? Dyaô man bé yô o baptême i dunman nun , mon o yatyi o wun sa'n tye o .
+44022026	~		Ke sôndya ya sukpen'n tii nde so'n , o kô sé sôndya akpi sukpen'n ke : Sae ye a su kunnde i leo . Bian so'n ti Romefue .
+44023003	~		Ye Paul sé i ke : Tale ufué , Nyanmien wa bô o ! A ti le a dyran mmla'n su a di dyole , ke a sé ke bé bô min'n , o bobo a fa'a mmla'n su .
+44023009	~		O yôô ndengan dan kpa , ye Pharisifue'm bé nun mmla kléfue'm bé dyaôli , bé dyraan nun kéklé kpa , bé sé ke : Bian nga , é wu'an sa fi i wun . Wiénuon liké wié annnze ange wié a kan nde wié a kléé .
+44023019	Nzu		Sôndya akpi sukpen'n tre i sa o fe oo aamien , o use i ke : ? Nzu nde ye o waan ah kanh klé mion ?
+44026008	nzu ti		? Nzu ti ye an lafi'a su ke bé nga bé wuli'n Nyanmien kwla tyen béo ?
+44026014	nzu ti		É kwlaa é finnin asé , ye n tii swran kun nen o sé min hébreu nun ke : ? Saul , Saul , nzu ti ye a klé n yale soo ? A su klé o wun yale ngben ke nannin b'o kpenten i dya si waka piémbié bo i kankanfue'n fa kenken'n sa .
+44026015	se		N wusee i ke : ? Nannan , bé fle o se ? Ye o séé ke : Min Jésus-o , min ye a klé n yale nion .
+45002017	~		Sannge amun , an fle amun wun Juif , an di mmla'n su , an fa Nyanmien di amun nuan ,
+45002021	~		? Amun bo an klé swran wié'm bé liké'n , amun bobo an klé'a amun wun wié ? ? Ye amun bo an sé ke , nanh man bé wua'n , an wuaman ?
+45002028	~		Nanh bé kplô'n su Juif'n ye o ti Juif kpa nion , ye nanh bé kplô'n su klen wlale'n ye o ti klen wlale kpa nion ,
+45003001a	nzu		? Se o ti so'n , ke bé sé ke bé ti Juif'n , nzu liké ye bé nyen b'o tra swran wié'm bé lie nion ? 
+45003001b	nzu		? Ye nzu liké ye bé nyen klen wlale'n nuon ?
+45003003	se		? O man é sé se ? ? Se swran wié'm bé lafi'a Nyanmien su'n , i su bo bé lafiman'n ti , o man i nanwlefue b'o ti'n o katyi ?
+45003005	se		? Se sa te nga é yô'n man bé wun ke Nyanmien ti kpa'n , é sé se ? ? Ye se i ya'n dyaô'n , éh séh ke o ti'a kpa ? — Kpo swran akunndan ye n fa ken i soo . —
+45003006	o yô se		O su yô'a so mlonmlon ! ? Afin se Nyanmien di'a nanwle'n , o yô se ye o kwla di menfue'm bé dyoleo ?
+45003007a	~		? Sannge se min atô'n o man bé wun wéiin kpa ke Nyanmien di nanwle b'o i nun o nyan dunman'n , 
+45003007b	o yô se		o yô se ti ye bé te bu min sa te yôfueo ?
+45003008	nzu ti		? Ye nzu ti ye é sé'a ke : Man é yô sa tete nan i agualie'n o gua é kpaa ? Swran wié'm bé satyi n dunman ke , ke n sé soo . Se bé sé ke swran so'm ba di fo'n , o ti su .
+45003009	se		? Se o ti so'n , é yôé se ? ? É Juif mun é ti kpa tra swran nga mun ? O ti'a so mlonmlon ! Afin ya dun mmua sé ke sa te'n wa ka swran'n kwlaa bé nun , Juif ô , swran wié mun ô .
+45003027a	nzu		? Se o ti so'n , nzu su ye é dyran fa di é nuaan ? É le'e i so liké mlonmlon ! 
+45003027b	nzu ti		? Nzu ti ye é le'e i so liké nion ? 
+45003027c	~		? Mmla'n b'o man é si liké nga é yô'n tio ? Tyetye , Nyanmien bo é lafi i su'n tio .
+45004001	Nzu		? Se o ti so'n , é kan é nannan Abraham i lie'n se ? ? Nzu ye o nyennin io ?
+45004003	~		afin é kenngen Nyanmien Nde nga bé kleli'n nun ke : « Abraham lafii Nyanmien su , o man i su b'o lafi'n ti , o bulii swran kpa . »
+45004010	se		? Ke oh buih so'n , wuun o ti se ? ? Ba wle i klen annze bé nian wle'e i klen ? Wuun bé nian wle'e i klen .
+45005010	~		Afin se laa bo é ti Nyanmien i kpofue'n b'o fe i Wa'n siésié é afien'n , sien'n bo é nin i é afien a se'n , i Wa'n i nyin b'o ô su'n ti , oh déh é ti kpe blu .
+45005021	~		O man ke sa tete'n yô swran'm bé nzuen lélé o man bé wu'n , i kunngba'n Nyanmien i aklunyé'n o man sa kpa'n katyi bé nzuen lélé béh nyanh anannganman nguan é Min Jésus-Christ fanngan nun .
+45006001	se		? O man é sé se ? ? É ka sa tete yôle'n su nan Nyanmien i aklunyé'n i nyin fité dan ?
+45006002	O yô se		É su yô'e i so mlonmlon ! ? Sa te'n , ke é wuli bo é nin i a bu'n , o yô se ye éh yôéh ékuon ?
+45006015	se		? Se o ti so'n , éh yôéh se ? ? Ke Nyanmien dyra'an mmla'n su ye o sié é , b'o yô é yé titi'n , i so'n ti , éh yôh sa te ? É su yô'e i so mlonmlon ?
+45006021	nzu		? Sa nga an yôô bé laa bo sien'n bé yô amun nyannzuen'n , nzu liké ye an nyen i nuon ? Sa so'm bé agualie'n yele wié .
+45007007	se		? O man é sé se ? ? É sé ke mmla'n ti sa te ? O ti'a so mlonmlon ! Afin se o ti'a mmla'n ti'n , n si'a ke sa te'n ti te , yele ke se o ti'a ke bé klee mmla'n nun ke : « Nanh o nyin blô swran liké su'n , » wuun n si'a liké nga bé flee ke bé nyin blô liké su'n .
+45007024	Wan		Ééé , n ti nyrennenfue dan ! ? Wan ye oh tuh min nzuen nga b'o man nh wuh'n , i suo ?
+45008024	wan		Nyanmien su bo é lafi'n ti ye é si ke wa dé yéo . Sannge se swran i nyin ô liké bo bé waan béh fah men'n i sin'n , se o nyen'n , i nyin tre'en i sin kun . ? Wan ye se o nyan liké ng'o kunnde'n , i nyin te ô liké so'n i sin ékuon ?
+45008031a	nzu		? Se o ti so'n , nzu nde ye é ken ékuon ? 
+45008031b	wan		? Se Nyanmien yô é yé'n , wan ye o kwla yô é saa ?
+45008032	~		Nyanmien bo wa sié'e i sa i Wa'n su , b'o fe mannin é kwlaa é ti'n , oh fah liké'n kwlaa uka su man é i klun-ufué su .
+45008033	Wan		? Wan ye o kwla satyi bé bo Nyanmien faa bé'n bé dunmaan ? Nyanmien ye o bu bé swran kpaa .
+45008034	Wan		? Wan ye o kwla sé ke ba di foo ? Christ-Jésus ye o wulio , kusu o tyennin , o ô Nyanmien Kpli'n i fama su , o kpete man é .
+45008035	nzu		? Klôle nga Christ fa klô yé'n , nzu liké ye man i nyin kwla tu é suo ? se nyrennen ô , mianle ô , yale kléle ô , awé ô , se é wun kplen ô , se é dyin wié nuan ô , se béh kunh é ô .
+45009014	se		? O man éh séh se ? ? É sé ke Nyanmien yô'a sa i nuan su ? O ti'a so mlonmlon !
+45009019a	o yô se		Wiénuon swran wié wa usa n ke : ? Se o ti so'n , o yô se ti ye Nyanmien fa sa nga é yô'n gua é suo ? 
+45009019b	~		Afin swran fi kwla kpalô'a Nyanmien nuan .
+45009020a	se		? O bo a usa so'n , a ti o lie se bo a yiyi Nyanmien nuan nuon ? 
+45009020b	~		« ? Liké nga bé fa ufa wu'n , o kwla use i ufue'n ke : 
+45009020c	o yô se		O yô se ti ye a wuu n soo ? »
+45009021	~		? Se ufue'n o kwla fa'a fa tole kunngba'n wu'a se wafa ng'o klô'n , se o wui klaan ô , se o wu'e klaan kpa ô , o kwla yô'e so ?
+45009022	~		? Ye Nyanmien kusu yô'a swran mun ke se ufue'n yô i se mun'n sa ? ? Se o klô ke swran'm bé si ke wa fa bé wun ya , ye o kwla sa kwlaa yô'n , ye se bé nga bé kun i ya bo bé nin kunle fata'n , o blu su'n , o kwla yô'e so ?
+45009023	~		? Se o yôé so ke o fe i yé dan b'o yô é i klun-ufué su'n klé yé'n , o kwla yô'e so ? Afin é b'o wunnin é aunnvue'n é ti ke se klaan sa . O dun mmua siéé é ke é nyan nyrun .
+45009024	~		É b'o fleli yé'n , nanh é Juif mun é ngunmin ye o flee yéo , sannge bé nga bé ti'a Juif'n bé ô nun wié .
+45009030	se		? O man éh séh se ? Bé bo ti'a Juif bo ba kunnde'a ke Nyanmien bu bé swran kpa'n , Nyanmien buu bé swran kpa i su bo bé lafili'n ti .
+45009032	nzu ti		? Nzu tio ? Afin bé kunnde'a ke bé lafi Nyanmien su nan bé yô swran kpa , sannge bé bu ke bé yô swran kpa bé sa kpakpa bo bé yô bé'n bé ti . Bé dya kplaa yebue bo swran'm bé fin asé su'n ,
+45010006	Wan		Sannge se swran kpa yôle b'o fin Nyanmien su bo bé lafi'n ti swran'n , oh séh ke : « Nanh bu o klun lo sé ke : ? Wan ye oh koh nyanmien su loo ? » — i bô klé ke bé kô fa Christ ba — ,
+45010007	Wan		annze : « ? Wan ye oh dyrah kunman bo bé sié i bô'n nun loo ? » — i bô klé ke bé kô fa Christ blolo lo ba — .
+45010008	se		? O sé se ? O sé ke : « Nyanmien nde'n wô o wun kôkô le , o ô o klun ye a kaan . » Nde so'n yele Nyanmien sulafile nde bo é kan'n .
+45010014a	oh yôh se		? Se ba du'an mmua lafi'e i su'n , oh yôh se ye béh fleh io ? 
+45010014b	oh yôh se		? Ye se ba ti'e i dunman'n , oh yôh se ye béh lafih i suo ? 
+45010014c	oh yôh se		? Ye se swran fi ke'en i nde klé'a bé'n , oh yôh se ye béh tioh ?
+45010015	oh yôh se		? Se ba sunma'an swran'n , oh yôh se ye oh kenh i ndeo ? Afin bé klee ke : « Bé bo bé ba dyasin fe bôle'n , Bé bale'n yô swran'm bé fe . »
+45010016	wan		Sannge bé ngba ba fa'a dyasin fe so'n su . Ésaïe ken ékun ke : « ? Nannan , wan ye o lafi nde nga é kannin'n suo ? »
+45011004	se		? Sannge Nyanmien séé i se ? O sé i ke : « N le swran akpi-nsô bo ba kôtô'a Baal bô . »
+45011007	~		Se o ti so'n , éh séh ke , liké nga Israëlfue'm bé kunnde'n , ba nyenmen , san bé kaan nga Nyanmien faa bé'n , bé ngunmin ye bé nyennin io . Sannge nde nga bé klee ke bé nga'm bé wa yô swran bo bé wu'an sa wle'n , ye wa kpen su ye'n . Bé klee ke : « Nyanmien man bé katyii ke swran bo bé akunndan nu'an le sa , Ye o man bé wu'an asé , Bé ti'a sa Lélé fa dyu nde . »
+45011015	oh yôh se		? Afin se bé asé siéle kan bo Nyanmien siéé bé'n o man men nunfue'm bé nin Nyanmien bé afien a se'n , ke o kô fa bé ékun'n , oh yôh se ? O man bé nga bé wuli'n béh nyanh nguan !
+45011018	nzu ti		O man se o ti so'n , nanh an bu ke an ti kpa tra bé nga bé kpe bé guali'n . ? Nzu ti ye an tu amun wuon ? Afin nanh amun ye an ti waka'n i bô nion .
+45011033a	wan		Iii , Nyanmien ti anyanbéunfue ô ! O si ngwlele ô ! O si sa'n kwlakwla kpa ! ? Wan ye o si i klun lo akunndaan ? 
+45011033b	wan		? Wan ye o wun sa ng'o yô bé'n bé wleo ? Afin ,
+45011034a	wan		« ? Wan ye o si akunndan nga é Min Nyanmien'n buli nion ? 
+45011034b	wan		? Wan ye o klélii ngwleleo ?
+45011035	Wan		? Wan ye o dun mmua maan Nyanmien liké ti ye o men i wiéo ? »
+45014004	~		? A ti o lie se bo a kon o niaan wié dyunman difue'n i wun ndeo ? Se i nzuen ti kpa ô , se o ti'a kpa ô , nonh o ndeo , i min'n i ndeo . Oh yôh kpa , afin é Min'n kwla suen i bô mon o yô kpa .
+45014010a	~		? O kpa'n , a fin o lie nin bo a kon o niaan i wun nde , annze a yô i finfion ? Afin bé wa fa é kwlaa ko Nyanmien dyasu .
+45014010b	~		
+46001020a	nin		? Ngwlele sifue'n wô nin ? 
+46001020b	nin		? Mmla sifue'n wô nin ? 
+46001020c	nin		? Ble nga nun bé bo bé kunnde ke béh sih sa'm bé bô'n bé ô nin ? ? Swran nga bé ti ngwlelefue men nga nun'n Nyanmien bu'a bé sinnglinfue ?
+46002011	~		Swran si'e i wiéngu klun akunndan sen i bobo ye o si io ? Nenh io ? I kunngba nion , swran fi si'a Nyanmien ninngé mun , san Nyanmien Wawe'n kunngba tye ye o si béo .
+46002016a	wan		Afin bé klee ke : « ? Wan ye o si é Min'n i akunndan nion ? 
+46002016b	wan		? Wan ye o klé i likéo ? » Sannge é lie'n , é nin Christ é akunndan'n ti kun .
+46003005a	nzu		Anh nian : ? Apollos ti nzu ? 
+46003005b	nzu		? M Paul kusu n ti nzu ? É ti dyunman difue bo é nde bo é kannin'n ti ye an lafii Jésus suo .
+46004007a	wan		? Wan ye o sé o ke a ti kpa tro o wiénguo ? 
+46004007b	nzu		? Nzu ye a le bo nanh Nyanmien ye o maan oo ? 
+46004007c	nzu ti		? Se i ye o maan wo'n , nzu ti ye a fa di o nuan ke o bobo o sa ti liké sa nion ?
+46004021	ônin		? An klô ke n fa ngblé ye m bla amun wun loo , annze m bla wetee su b'o klé ke n klô amun , ônin ye an klôo ?
+46005002	~		Ye an fa amun asonun'n di amun nuan ! Sa so'n wa yô'a amun ya nan amuan yi swran b'o yô sa so'n amun nun !
+46005012	O yô se		? O yô se ye min nde kô tran bé bo bé nin é ti'a kun'n bé nde nuon ? ? Nanh bé bo bé nin é ti kun'n ye amun nde tran bé nde nun nion ?
+46006001	~		? Ke amun nun kun nin kun bé nyan nde bo an yatyi Nyanmien mma'm bé le an fa ko bé bo bé ti'a Christfue'n bé dyasu'n , nyannzuen ku'an amun ?
+46006003	~		? An si'a ke é dyasu ye béh fah ange'm bé nde'n baa ? Se o ti so'n , an kwla kan nde kanngan b'o to'n kpe blu !
+46006004	nzu ti		? Se o ti so'n , ke an nyan nde'n , nzu ti ye an fa ko bé bo bé le'a nyrun asonunfue'm bé nyrun'n bé dyasu ?
+46006007a	nzu ti		Ke amun nun kun kun bé sanman bé wun'n , nanwle , o ti amun nyin asé guale dan ! ? Nzu ti ye sa nga bé yô amun'n o so'an amun nuon ? 
+46006007b	nzu ti		? Nzu ti ye an kpli'an su ke bé di amun luflé nion ?
+46006009	~		? An si'a ke sa tete yôfue'm bé su yô'a men nga Nyanmien siéé'n i nunfue mlonmlon ? Nanh an laka amun wun , afin bla annze bian kunndefue , nin amuen sofue , nin yasua b'o kunnde bla i yi bô annze bla b'o kunnde bian i wun bô'n , nin yasua b'o kunnde i wiéngu yasua'n ,
+46006016	~		? An si'a ke swran b'o nin téklé bla kun bé san nun'n , wuun ba katyi swran wunmuan ? Afin bé klee ke « bé nnyon'n béh katyih swran wunmuan . »
+46006019	~		? An si'a ke amun wunnen'n ti Nyanmien i Wawe'n b'o fa maan amun b'o ô amun nun'n i sua , o man an di'a amun tiaun ?
+46007016a	se		? Mmô , se o ti ye man o wun'n oh nyenh i ti ô , a wun i wle se ? 
+46007016b	se		? Ndya , se o ti ye man o yi'n oh nyenh i ti ô , a wun i wle se ?
+46009007a	wan		? Wan ye o ô sôndya nun b'o tu'e i bobo wun kaleo ? 
+46009007b	wan		? Wan ye o di fié b'o di'a su likéo ? 
+46009007c	wan		? Wan ye o ta nnen b'o nonmen i nonnoon ?
+46009018	nzu		? Se o ti so'n , nzu ye nh nyenh i nuon ? Ke nh kanh dyasin fe'n bo n dé'a liké fi , bo n yô'a , i ye o ti min akatua nion .
+46010019a	~		? I so'n ti , ke n ken i so'n , n waan , nnen bo bé fa so amuen'n ti liké dan ? 
+46010019b	~		? Annze amuen'n bobo ti liké dan ?
+46010019c	~		
+46010029	Nzu ti		Nde nga n ken ye'n , nanh ke amun bobo amun klun titile tio , swran so'n lie tio . Swran wié usah ke : ? Nzu ti ye n liké lie nga n kwle i yô'n , swran wié'm bé klun titile'n ti , n kwla yô'e kuon ?
+46010030	nzu ti		? Se liké nga n di bo n si ke o fin Nyanmien'n , bo i ti n le i asé'n , nzu ti ye bé satyi n dunmaan ?
+46011022	Nzu		? An le'a awlô bo an di liké loo ? ? Annze Nyanmien i asonun'n i finfin ye amunh yôoh ? ? Amunh guah yalefue'm bé nyin asé ? ? Nzu nde ye n kan klé amuon ? ? N yi amun aye ? Sa so'n lie'n , n su yi'a amun aye .
+46012017a	se		? Se bé wunnen wunmuan'n ti nyinma'n , béh yôh se ye béh tih saa ? 
+46012017b	se		? Se bé fa bé wunnen wunmuan'n ti sa'n , béh yôh se ye béh tih nvaan ?
+46012019	~		? Se bé wunnen wunmuan'n ti tunndrunndun kunngba'n , bé kwla flee swran ?
+46014006	nzu		? Aniaan mun , anh nian , se m ba amun wun lo bo n kan anien wié mun'n , se n ka'an nde wié bo Nyanmien kan kléli min'n klé'a amun'n , se n kan nde bo an nya'an ngwlele nun'n , se n idyo'a Nyanmien nuan klé'a amun'n , ye se n klé'a amun liké fi'n , nzu yé ye o yôo ?
+46014007	oh yôh se		? Nian , se ninngé bo bé bô bé'n se kété ô , se aluku ô , se bé bô b'o fité'a kpa'n , oh yôh se ye béh sih dyué bo bé fa tô nion ?
+46014008	oh yôh se		? Se o ti ale su'n , bo klensin'n te sukusuku'n , oh yôh se ye yasua'm béh tih , béh tanndanh bé wuon ?
+46014009	oh yôh se		? I kunngba'n , amun kusu , se an kan nde b'o ti sukusuku'n , oh yôh se ye béh sih nde nga an kan nion ? An kan gue le ngben .
+46014015	se		? Ke o ti ke nga sa'n , nh yôéh se Se o ti so'n , ke nh kanh nde klé Nyanmien'n , nde ng'o fa wla n nuan ke n kan'n , ye nh kaanh , sannge kusu nh wunh i wle ye nh kaanh . Dyué nga Nyanmien fa wla n nuan ke n tô'n , ye n tôo , sannge kusu nh wunh i wle ye nh tôoh .
+46014016	oh yôh se		? Se wa yô'a so'n , se Nyanmien Wawe'n man a yi i aye anien wié nun so'n , oh yôh se ye swran b'o wu'an sa so'n wle'n oh soh o Nyanmien asénna'n su ke : Mon o yô soo ? afin o ti'a nde nga a kan'n .
+46014026	se		? Aniaan mun , se o ti so'n , ke amun yia'n bo amun kwlaa an le liké bo an yô'n , bo kun tô dyué , kun kusu klé liké wié , kun kan nde bo Nyanmien kan klélii'n , kun idyo anien wié'n , kun kusu katyi anien wié , é yôé se ? Anh yô i kwlaa so'n man asonun'n yô kpa .
+46014036	~		? Amun wun lo ye Nyanmien nde'n bôô i bôô ? ? Amun ngunmin ti ye bé klee Nyanmien nde nion ?
+46015012	O yô se		? Se é kan klé amun ke Nyanmien tyennin Christ'n , o yô se ti ye amun nun wié'm bé sé ke se swran wuo o tyenman nion ?
+46015029a	~		
+46015029b	se		? Se o ti'a so'n , bé bo bé yô baptême bé bo bé wuli'n bé ti'n , béh yôéh se ? 
+46015029c	nzu ti		? Se swran wuo o su tye'an mlonmlon'n , nzu ti ye bé yô baptême bé tio ?
+46015030a	~		
+46015030b	nzu ti		? Nzu ti ye é kusu é ô wié'n i nuan titi nion ?
+46015032	nzu		? Se swran'm bé nuan ti ye min nin nnen tete mun é tu ngôndin Éphèse lo'n , nzu ye nh nyenh nuon ? Se swran'm bé wuo bé tyenman'n , « Man é di liké é non nzan , ainman éh wuh , wuun é lie a wié . »
+46015035a	oh yôh se		Sannge swran wié wa usa ke , ? Oh yôh se ye bé bo bé wu'n béh tyeonh ? 
+46015035b	ônin		? Ye ke béh bah'n wunnen wafa ônin ye béh fah baa ?
+46015055a	nin		« Wié , liké nga b'o man a kwla'n o ô nin ? 
+46015055b	nin		? Wié , o dyé'n wô nin ? »
+47002002	wan		? Afin se m bô amun bo amun man n klun dyo'n amun wla'n , wan ye o man n klun dyoh ékuon ?
+47002016	Wan		Bé nga bé su mlin'n bé lie'n o ti ke duwle kpukpuwa sa , o kun swran , ye bé nga bé su fité nun'n bé lie'n o ti liké kpa , o man bé nyan nguan . ? Wan ye o kwla di i so dyunman nion ?
+47003008	~		Nyanmien Wawe'n lie'n tre fatifati !
+47003009	~		Se liké nga bé yôo o man bé bu swran fo'n , o le nyrun dan so'n , liké nga kusu bo bé yôo o man Nyanmien bu swran swran kpa'n , o le nyrun tre fatifati .
+47006014a	nzu		Nanh amun nin bé nga bé lafi'a Christ su , bo amun nzuen'n seman'n , an san nun . ? Nzu anuanse ye swran kpa nin swran te'n bé dio ? 
+47006014b	~		? Wia'n nin aôsin'n bé kwla tran lika wle ?
+47006015a	se		? Christ nin mmusu'm bé si Satan'n bé nuan se ? 
+47006015b	~		? Swran ng'o lafi Christ su'n nin swran ng'o lafi'e i su'n bé akunndan'n ti kun ?
+47006016	~		? Bé kwla fa sua kun yô Nyanmien nin amuen'm bé sua ? Afin é ti Anannganman Nyanmien'n i sua , afin Nyanmien bobo waan : « Min nin bé éh tranh , éh sanh nun , Nh yôh bé Nyanmien , ye bé kusu béh yôh n swran . »
+47011011	~		? An bu i ke n klô'a amun ti ye n sé soo ? Nyanmien si ke n klô amun .
+47011029a	~		Se swran kun le'a wunmien'n , n kusu n wun ke n le'a wunmien . 
+47011029b	~		Se swran wié yô sa te'n , o yô n ya kpa .
+47012013	Nzu		? Nzu liké ye n yô maan asonun nga mun bo man yô'a wié a ma'an amuon ? San liké bo man démen amun sa nun'n , i tye ! Se i ye o ti sa bo n yôli amun'n , anh yatyi .
+47012017	~		? Bé nga n sunmaan bé amun wun lo'n , m man bé nun kun dé amun liké blee min ?
+48002014	O yô se		Ke n wuun bé sa nga bé yô'n ke o nin dyasin fe'n b'o ti nanwle'n bé seman'n , n wusaa Céphas bé kwlaa bé nyrun le ke : ? O bo a ti Juif'n bo a yatyi Juif'm bé nzuen'n a yô ke bé nga bé ti'a Juif'n bé sa'n , o yô se ye a mian bé ke bé yô ke Juif'm bé sa nion ?
+48003001	wan		Galatiefue sinnglinfue mun ! ? Amun bo bé kaan Jésus-Christ i wule nde'n wéiin klé amun b'o man o yô ke o yôli amun nyrun sa'n , wan ye o wa lakaa amuon ?
+48003019	nzu		? Se o ti so'n , mmla'n yô i lie nzu ? Nyanmien siéé i kusu nan bé wun ke sa te'n ti te , ye bé di su lélé fa dyuu Abraham ôsufue nga ti ye Nyanmien séé ke oh yôh liké wié men'n i bale . Ange mun ye bé fa wla swran kun b'o dyran swran'm bé nuan'n i sa nun ye o fa balio .
+48004009a	nzu ti		? Sannge sien'n , ke amuan si Nyanmien'n , annze bo Nyanmien bobo a si amun'n , nzu ti ye an klô ke amunh sah amun sin ko ninngé ngbenngben bo bé kwla yô'a liké fi'n bé sin ékun ke amunh kôh yô bé akuaa ?
+48004009b	~		
+48004010	~		An tyi tyen'n wié , nin anglô'n wié , nin lé motyue'n wié , nin afue'n wié !
+48004015	nzu		Laa amun klun dyo min wun kpa . ? Nzu ye amuan wuin sien nion ? Afin m bô amun dunman ke , se o ti ke an kwla tu amun nyinma'n man min'n , wuun an tuli .
+48004021	~		? Amun bo an klô ke mmla'n su ye amunh di'n , an ti'e i nun nde'n ? Anh bua n wié .
+48004030	se		? Nyanmien Nde nga bé kleli'n , bé klee se ? Bé klee ke : « Fuan afannien'n nin i wa'n , afin afannien ba'n nin diéwa bla'n i wa'n bé kwla di'a adya kun . »
+48005007a	wan		Laa an bôô manndren kpa . ? Wan ye man an dyrannin , b'o man an lafi'a nde nanwle'n su kuon ?
+48005007b	~		
+48005011	nzu ti		? Sannge n lie'n , aniaan mun , se lélé nde n te kan klen wlale nde'n , nzu ti ye bé te klé n yaleo ? Se n te yô so'n , Christ i waka'n su bôbôle nde bo n kan'n , o su yô'a swran ngasi kun .
+49004009	se		? Ke bé sé ke : « o fuu nglô lo'n , » i bô ti se ? I bô klé ke o dun mmua oo asie'n i bô mmuamua kpa lo .
+50001018	~		Min nde nu'an nun ! Kannze bé akunndan'n ti te ô , o ti kpa ô , i wafa so'n kwlaa nun bé kan Christ nde'n o man n klun dyo , ye oh dyoh tititi .
+50001021	~		Afin n liké lie nga ti ye n wô men'n nun'n yele Christ , ye wié'n ti min nvasue .
+51002020	nzu ti		? Se amun nin Christ ye an wuli'n , bo amun nin asie'n su ninngé'm ba bu'n , nzu ti ye an te yô amun wun ke an ti asie'n sufue sa bo an di bé mmla'n suo ?
+52002019	nzu		? Se é Min Jésus bah bo éh dyrenh i nyrun'n , nzu su ye éh fah é wla guaa ? ? Nzu ye man é klun dyooh ? Nzu ye o klé ke é kwlali bo éh fah di é nuaan ? ? Nanh amuon ?
+52003009	~		Ke Nyanmien wun ke amun ti é klun dyo dan kpa'n , é wu'an asénna kun nga é fa le io .
+54003005	oh yôh se		? Afin se swran kun sié i bobo i awlô'n su nian'n , oh yôh se ye oh kwlah nian Nyanmien i asonun'n suo ?
+54006007a	~		Afin ke béh wuh yé'n , é nin liké fi a baman , 
+54006007b	~		o man ke éh koh'n , é kwla fa'a liké fi koman
+58001005	ônin		Afin ange'm bé nun ônin ye Nyanmien séé i ke , « o ti i Wa , ndeken wa katyi i sio » ? ? Ye bé nun ônin ékun ye o ken i nde ke , « oh yôh i si , ye i kusu oh yôh i Waa » ?
+58001013	ônin		? Ye ange'm bé nun ônin ye o sé i ke : « Tran asé n fama su , Lélé m man ah tioh o kpofue'm bé suo » ?
+58001014	~		? Ange'n kwlaa bo bé ti aôlia nun swran bo bé su Nyanmien'n , wa sunma'an bé ke bé wa nian bé nga bé wa nyan bé ti'n bé su ?
+58002003	se		wuun se é kpa sa nga é yôo éh nyanh é ti'n su'n , éh yôh se ye éh fitéh nuon ? É Min'n bobo dun mmua kan é ti nyanle so'n i nde , ye bé ng'o kannin bo bé tili'n , bé kan kléé é wéiin ke o ti nanwle .
+58002006a	nzu		Sannge é kenngen Nyanmien Nde nga bé kleli'n i lika wié nun ke swran wié sé ke : « Nzu yele swran b'o man a bu i akunndaan , 
+58002006b	nzu		Nzu yele klo swran b'o man a nien i likaa ?
+58003016	wan		? Wan mun ye ke Nyanmien kan nde bo bé tili'n bé dyaô i wun nion ? ? Nanh bé kwlaa nga Moïse nin bé fin Égypte bali muon ?
+58003017	wan		? Wan mun ye Nyanmien fa bé wun ya afue ablanan nion ? ? Nanh bé kwlaa nga bé yô sa te bo bé fuen'n kaa blô lo muon ?
+58003018	wan		? Ye wan mun ye Nyanmien ta bé nda ke bé su dyu'e i lika nga bé di aladyé lo nun nion ? ? Nanh bé nga bé yô nyin kéklé i su muon ?
+58006004	~		Afin se Nyanmien man swran kun wun asé , b'o wun nyanmien su lo liké b'o bé fa men'n i fe'n , bo Nyanmien Wawe'n yô i lie wié'n ,
+58007011	~		Mmla nga Nyanmien fa maan Israël mun'n o taka Lévifue'm bé Nyanmien nyrun dyranle'n su . Se o ti ke bé dyunman nga bé dili'n o yôô yé , b'o man swran'm bé yô kpa'n , wuun Nyanmien nyrun dyranfue ufle b'o fi'an Aaron ôsu'n nun , b'o ti ke Melchisédek sa'n wa ba'a kun .
+58009014	~		Se o ti so'n , Christ kwla fe i mmôdya lie'n kusu yô liké b'o tra wun asô bôle'n fatifati ! Ke o ti aôlia nun swran b'o ti anannganman'n ti'n , o fe i bobo bo fien kaan nu'en i wun'n maan Nyanmien . O man liké nga bé yô'a liké fi yé bo é yô bé man é klun titi yé'n , oh wiéh nan é kwla su Anannganman Nyanmien'n !
+58010001	~		Afin mmla'n ti ke liké kpakpa nga béh bah'n bé wawe sa , o klé'a bé wafa kpa'n . I so'n ti ye ke bé fa su bo bé so Nyanmien i wafa kunngba'n afue nuan'n kwlaa'n , o kwla yôman man bé nga bé fa bé wun mantan Nyanmien so'n , bé yô'a swran kpa mlonmlon nion .
+58010029a	se		? Se o ti so'n , an bu bé nga bé yô Nyanmien Wa'n i finfin'n , bo bé bu sa nga Nyanmien waan oh yôh man swran'n i mmôdya b'o man bé wun sa'n wié'n i ngben'n , bo bé kpe Nyanmien Wawe'n b'o yô swran yé'n i nzôwa'n bé lie'n se ? Bé lie'n yôh te tra su .
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	Nzu		? Nzu nde ye n ken ékuon ? Se n waan nh kanh Gédéon , nin Barak , nin Samson , nin Jephté , nin David , nin Samuel , nin Nyanmien nuan idyofue'm bé nde'n , n su nya'an n ti ke'en i ngba .
+58012007	ônin		Se Nyanmien tu amun fo'n , mon o son amun nun , afin o bu amun i wa . ? Ba ônin ye i si tu'e i foo ?
+58012009	~		É si'm bé tu é fo , é bu bé swran . Se o ti so'n , man é bu é Si nga é wawe'n wô i sa nun'n i swran tra bé nan ya nyan nguan .
+58012025	~		Anh nian amun wun kpa , nanh an kpalô nde nga bé kan klé amun'n . Bé nga bé kpalô swran ng'o kan nde kléé bé asie'n su wa'n i nde'n , ba fité'a nun . Se é kusu é katyi é sin si swran ng'o ô nyanmien su lo b'o kan nde klé yé'n , é su fité'a nun mlonmlon .
+58013006	Nzu		I so'n ti , é tra é awlen kan nde nga bé klee ke : « É Min Nyanmien'n ye o ti n wukafueo , sre ku'an min . ? Nzu ye swran kwla yô mion ? »
+59002006	~		Sannge amun lie'n , an bu'a yalefue'm bé swran . ? Nanh anyanbéunfue mun ye bé mianmian amun , bé fa amun ko dyole difue'm bé dyasu nion ?
+59002014	nzu		? N niaan mun , se swran kun sé ke o lafi Nyanmien su , sannge bé wu'en i so i nzuen'n nun'n , nzu yé ye o yô men io ? ? I Nyanmien sulafile so'n kwla déé ?
+59002016a	~		? Se amun nun kun sé i ke : Mon o wun dyo o fouun , man a nyan tannin kla , mon o ku yi ! sannge o me'en liké nga i sa mien i wun'n , 
+59002016b	nzu		nzu yé ye wa yô a men io ?
+59002018	~		Wiénuon swran wié wa sé n ke : O lie'n , a lafi Nyanmien su , ye n kusu , n yô be'n m ma fa klé o ke n lafi Nyanmien su .
+59002021	~		? Ke é nannan Abraham fee i wa Isaac ke o fa so Nyanmien'n , wa bu'e i swran kpa i sa so'n ti ?
+59003013	ônin		? Amun nun ônin ye o si ngwlele , o wun sa wleo ? Man bé wun i so i nzuen kpa'n nin sa kpa ng'o yô bé'n bé nun , ye man bé wun ke o yô i wun aénvue , o ti ngwlelefue .
+59003017	~		Ngwlele b'o fin nyanmien su'n , se o ti swran'n , wuun éh séh ke , sa te kaan sa nu'en i wun . O klô'a ndengan , o ti wetee fue , bé nin i kwla kôkô yale , o si aunnvue dan , o yô sa kpa , o bu'a swran'n wié kpa tra'a wié , o klô'a dunman .
+59004001a	nin		? Utré'n nin akplôwa ng'o ô amun afien'n , 
+59004001b	nin		bé fin nin ? ? Bé fi'an amun nyin b'o blô liké'm bé su , b'o man amun klun dyoman'n ?
+59004012	se		Nyanmien kunngba'n b'o siéé mmla'n , b'o dyran su di dyole'n , i ye o man swran nguaan , i ye man swran wuo . ? A ti o lie se bo a bu o niaan foo ?
+59004014	~		An si'a liké ng'oh yôh amun ainman'n . An ti ke bole'n b'o gua kaan , sannge ke oh yôh kan'n , wa titi'n sa .
+60002020	nzu		? Sannge se an yô sa , bo an tra amun awlen an dyran lé bé bô amun'n , nzu mô ye béh yôh amuon ? Sannge se an yô kpa bo bé klé amun nyrennen , b'o son amun nun'n , i so'n ye o yô Nyanmien feo .
+60003013	wan		? Se an tu amun klun yô sa ng'o ti kpa'n , wan ye o kwla yô amun teo ?
+60004017	se		Tyen nga béh bôh dyole dile'n bô'n wa dyu , béh bôh i bô Nyanmien bobo i awlô'n nun . ? Se é su ye béh bôh i bô'n , bé nga ba fa'a Nyanmien dyasin fe'n su'n , bé lie'n yôh se ?
+60004018	se		? Se bé nga bé ti kpa'n bé ti nyanle'n ti kéklé'n , bé nga bé srô'a Nyanmien bo bé yô sa tete'n , bé lie'n yôh se ?
+61003004	nin		béh séh ke : « ? O séé amun ke , oh bah , nenh io ? ? Ye o ô nin ? Ke o fin lalaa'n bo é nannan'm bé wuli'n , liké kwlaa nga Nyanmien yii bé'n , bé te ô bé ôsu'n nun . »
+61003011	ônin		? Se ninngé so'n kwlaa béh satyih so'n , liké ônin ye se an yôo o ti suo ? Man amun nzuen'n yô kpa , anh fa amun wun mantan Nyanmien !
+62002022	Wan		? Wan ye o ti atôfue nion ? ? Nanh swran nga i waan , Jésus ti'a Christ nion ? Swran so'n ye o ti Christ kpofue nion , afin o bu'a é Si'n nin i Wa'n bé liké fi .
+62003012	nzu ti		Nanh man é yô ke Caïn b'o ti Klunwifue'n i lie'n ti , o kuun i niaan bian'n i lie'n sa . ? Nzu ti ye o kunnin io ? Yele ke sa nga i bobo yô bé'n bé ko'a atin su , sannge i niaan bian lie'n ko atin su .
+62003017	nzu		? Se swran kun ti anyanbéunfue , b'o wun i niaan wié bo i sa a mian , b'o ti'e i wun nyanman nun'n , nzu ye o klé ke o klô Nyanmien nion ?
+62004020	O yô se		Se swran kun sé ke o klô Nyanmien , sannge o kpo i niaan'n , wuun atô ye o buaa . ? Afin se o klô'e i niaan'n b'o wuin'n , o yô se ye o kwla klô Nyanmien b'o wunmen nion ?
+62005005	Wan		? Wan ye o kwla men'n nun ninngé kwlaa bo bé ti ke é kpofue sa nion ? ? Nanh swran ng'o lafi su ke Jésus ti Nyanmien Wa nion ?
+66005002	Wan		Ye n wun ange wunmienfue kun , o kpan kéklé , o usa ke : ? Wan ye oh kwlah kpekpe liké nga bé fa tyityili nun b'oh nyanndyih fluwa so'n nuon ?
+66006010a	tyen ônin		Bé kpan kéklé bé sé ke : ? Nannan , o bo o nzuen'n nin klo swran lie'n ti'a kun , bo a ti nanwlefue'n , tyen ônin ye ah dih é dyole'n bo ah tuh é klunngbo'n asie'n sufue'm bé su , kunle bo bé kuun yé'n tio ?
+66006010b	~		
+66006017	Wan		Afin tyen dan nga bé ya'n dyaô dan'n wa dyu . ? Wan ye oh kwlah dyran bé nyruon ?
+66007013a	wan		Kpenngben'm bé nun kun usa n ke : ? Bé nga trale ufué ô bé wun le'n , wan muon ? 
+66007013b	nin		? Bé fin nin ?
+66013004a	~		Bé kôtô dragon'n i bô , afin o tiin nnen so'n . Bé kôtô nnen'n i bô , bé sé ke : ? Wan ye o nin nnen'n bé se , 
+66013004b	~		b'o nin i kwla kuon ?
+66015004a	wan		? Nannan , wan ye o srôman woo ? 
+66015004b	wan		? Wan ye o bô'a o dunmaan ? Afin o kunngba tye ye o nzuen'n nin klo swran lie'n ti'a kuon . Nvlénvlé'n kwlaa bé wa kôtô o bô , afin bé kwlaa ba wun ke a di dyole nanwle su .
+66017007	O yô se		Ye ange'n wusa n ke : ? O yô se ti ye o bô o nuaan ? M ma klé o bla'n nin nnen'n b'o ti su'n bo i ti'n ti nsô , i wue blu'n , bé liké bo swran sié i bô'n i bô .
+66018018	ônin		Ke oh yrah bo bé wun i wensren'n , bé kpan sé ke : ? Klo ônin ye o nin klo dan nga seo ?

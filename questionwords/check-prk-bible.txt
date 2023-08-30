@@ -1,0 +1,743 @@
+40002002	dee mawx		chawk ah nin , " Kaw pa hoik keh mawh Simiang pui Yudax koe dee mawx ? Mawh kheu hoik yaox ex simuing Nawh lih plak lih singaix , ex tom hoek ti krub ka Nawh Cao heue . "
+40002004	dee mawx		Nawh kieh cao giex kaing li pa ting khankix mai pui tiiem lai khawmuik khrawm paox tix mai nawh chawk kix grawh grawng tak sang keh Cao Khrit dee mawx heue .
+40003007	mawx		Viang mawh nan yam yaox Yohan ka pui Pharishie mai Sadukie khankix hoek sonsang rieb cubcom , nawh ah nin ka kix , " Ceu siuing pa cai eue , mawx nhie pex to sonsang luan khaing pa song rhawm pa tak sang hoek lie ?
+40005013	yuh ka mawx		" Pex mawh kih haktiex heue , viang mawh nan phan pa laoh kih hoik grai , kienie , chix deeh kieh laoh yuh ka mawx ? Lheu khaing tik plak praix mai pui dig greem caong tix ang koe bwanson tidtix .
+40005046	yuh ka mawx		Phan pex moh pui pa moh ka pex ngie , pex tak pon bwanson yuh ka mawx ? Pie pui koh mau khankix kawx , yuh nan ang mawh lie ?
+40005047	yuh ka mawx		Phan pex nawb pex sikah mai puxaik pex ngie , pex yuh pa lheu khaing tang kaux yuh ka mawx ? Pui tang ceu kawx yuh nan ang mawh lie ?
+40006027	pui mawx		Ka daux pex , kheu pa khi rhawm , pui mawx chix kieh tokaux tix baox lhaong tix sawk lie ?
+40006028	yuh ka mawx		Kheu pa tix pex lai khi rhawm son kraung ceep yuh ka mawx ? Keud ti yaox ka grawng ting lhaong tai siyak pa koe daux tiagtu . Kix ang yuh kaing mai ang kling heue .
+40006031a	patix		Mawh kheu nan , paw khi rhawm ti ah nin , Ex sang ih patix ? 
+40006031b	patix		Phan ang mawh nan , Ex sang nyaux patix ? 
+40006031c	patix		Phan ang mawh nan , Ex sang ceep patix ?
+40007003	tix		Kheu maix jhak kuh ngai pa iak daux ngai puxaik maix mai ang keud grawh grawng nuk pa koe daux ngai tokaux tix lie ?
+40007004	yuh ka mawx		Sang chix krai maix ka puxaik tix , kieh aux teei ti tik kuh ngai maix , yuh ka mawx yam kawn koe nuk ka daux ngai maix ?
+40007009	~		Phan kawn pex rawg mhaing blah , pa teei simaox tawx ka nawh , koe ka daux pex tix kaux kaux lie ?
+40007016a	~		Pex tak tawng kix ka plix kix heue . Pui pieh plix siiet ka pang kat lie ? 
+40007016b	~		mai pieh plix ruh ka pang kat heeik lie ?
+40008026	yuh ka mawx		Nawh Cao ah nin ka kix , " Pex pa iak krax yum rhawm eue , pex lhat graung yuh ka mawx ? " Yam an Nawh kaoh mai sidiex ka bhaung khankix mai rawm nhawng deeh yiien sigrien sigre heue .
+40008027	yuh ka mawx		Pui khankix daox deng mai tom ah nin , " Kaw in mawh Pui pa yuh ka mawx ? Pie bhaung khankix mai rawm nhawng kawx , nghiet lox Nawh heue . "
+40008029	patix		Jhak heue , kiex kok yo ah nin , " Kawn Siyiex eue , Maix koe pa yuh mai yiex ceu patix ? Maix hoek ti tuktiak ka yiex ka sang hoek bawg yam lie ? "
+40009004	pa tix		Viang mawh nan , Yesux tawng pa keud kix daux rhawm tix ah nin , " Kheu pa tix pex lai keud pa caox daux rhawm tix ? "
+40009005	yuh ka mawx		Lox pa ah , " Hoik pluat phimap maix heue . " , phan ang mawh nan , " Kaoh mai hu heue , " pa yuh ka mawx pa yie ti ah lie ?
+40009011	pa tix		Yam yaox Pharishie khankix ka ceu an , kix ah nin ka kawncau Nawh khankix , " Sara Cao gau pex sawm tau mai pui koh mau mai pui ting map khankix kheu pa tix ?
+40009014	yuh ka mawx		Yam an kawncau Yohan khankix hoek ka Nawh Cao mai chawk ah nin , " Ex mai Pharishie khankix twah pa ih law lawx , viang mawh nan kawncau Maix khankix ang twah pa ih yuh ka mawx ? "
+40009015	~		Yesux ah nin ka kix , " Nyo ka paox khankix , sang chix ngau kix yam kawn ot kix mai kaw pa yuh kapaox lie ? Viang mawh nan , singaix tak sang teei hu ka kaw pa yuh kapaox khaing kix tak sang hoek mai yam an kix tak twah pa ih heue .
+40010025	miex ding		Phan kawncau awm sara cao gau nawh mai siliex awm simiang nawh , ding heue . Phan kix hoik kok Cao nyiex Belazebulax kix tak nie lheu kok pui nyiex Nawh khaing in miex ding heue . "
+40011007	patix		Khaix hoik hu kix , Yesux jah ti sidiex gau grawng Yohan ka cub pui hun khankix , " Pex lih hu jhak patix daux tiagtu ? Hu jhak pex ka gawng priem , pa vu vied yam phlu bhaung lie ?
+40011008	patix		Phan ang mawh nan , pex lih hu jhak patix ? Hu sonsang yaox pui pa ceep kraung pa awn lie ? Kix pa ceep kraung pa awn khankix ot ka daux nyiex simiang ting khankix heue .
+40011009	patix		Pex lih hu kheu patix ? Lih hu jhak ka cao jhai lie ? Mawh heue , Aux krai ka pex , mawh pa lheu ting khaing cao jhai heue .
+40011016	pa tix		Sang chix tiag aux ka baux ju in ka ceu pa tix lie ? Hoik awm kawn nyawm khankix pa ngawm daux lah mai kok yo ka tix kaux lai tix kaux ,
+40012011	tix		Nawh Cao ah nin ka kix , " Ka daux pex pui pa koe yung tix mu phan yung an rau daux o singaix twah pa ang teei yung an lih , koe lie ?
+40012026	yuh ka mawx		Phan Satan grheu Satan lih , nawh mawh pa gwieh ka tokaux tix heue . Phan mawh nan , meung nawh chix kaux chix cong yuh ka mawx ?
+40012027	mawx		Phan Aux een rhawm ka Belazebulax ti sang grheu phicaox khankix lih , kawn praix pex sang een rhawm ka pui mawx ti sang grheu phicaox lih lie ? Mawh kheu nan , kix tak mawh cao prawng ca pex heue .
+40012029	tix		Sang chix laig pui tix kaux ka daux nyiex pui pa ting riang mai khin ti teei kraung nawh , phan nawh ang phyawk ka pui pa ting riang an sivoe lie ? Khaix an nawh tak chix yieh nyiex nawh laux heue .
+40012034	yuh ka mawx		Ceu siuing pa cai eue , yam kawn mawh pex pa caox kawx , chix krai lox pa mhawm yuh ka mawx ? Kheu jheeh krai ceu pa koe daux rhawm tom nie heue .
+40012048a	mawx		Nawh pawk lox mai chawk ah nin ka kaw pa hoik krai ka Nawh , " Miex Aux mawh mawx ? 
+40012048b	mawx		pux Aux khankix mawh mawx ? "
+40013010	patix		Kawncau khankix chawk ah nin ka Nawh Cao , " Kheu patix Maix teei lox tiag khankix sidiex ka kix ? "
+40013027	tix		Siliex khankix hu ka cao nyiex ah nin , Simiang eue , maix rhuat simie pa mhawm daux ma tix ang mawh lie ? Kheu vang lai lih koe lie ?
+40013054a	dee mawx		Nawh Cao hoek ka daux meung ot tix , mai Nawh gau kix ka daux nyiex sidiex , kix tom kied daox deng ah nin , " Pui in pon pingnya cuyi mai siawp sibrawm khankix khaing dee mawx lie ?
+40013054b	~		
+40013056	dee mawx		Nan Nawh khankix ot tau mai ex khawmuik ang mawh lie ? Phan mawh nan , kaw in , pon ceu in khankix khawmuik khaing dee mawx lie ? "
+40014031	yuh ka mawx		Dom mawx dom an , Yesux nyeu taix tix giex nawh mai ah nin ka nawh , " Maix pa iak krax yum rhawm eue , maix chix ang yum rhawm yuh ka mawx lie ? "
+40015002	patix		" Yuh patix kawn cau Maix yuh pa ang khaw mai been tax yiex miex keeing ? Kix ang khoek taix tix , yam ih priex heue . "
+40015003	patix		Nawh Cao pawk lox ah nin ka kix , " Yuh patix pex chix lheu lox tawm jhawm krai Siyiex , kheu lox been prim pex lie ? "
+40015033	dee mawx		Kawncau Nawh khankix ah nin ka Nawh Cao , " Ex sang pon blah dee mawx ka daux tiag in , sonsang tawx pui hun ding dawd ih tom sak lie ? "
+40015034	miex		Yesux baox chawk kix ah nin " Pex koe blah miex lon ? " kix ah nin , " Koe aliah lon mai kax iak ceeix ngie heue . "
+40016008	pa tix		Yesux tawng grawng an ah nin , " Pex pa iak krax yum rhawm khankix eue , kheu pa tix pex tix kaux lai tix kaux ah ka paox tix ka grawng ang blah koe lie ?
+40016009	miex		Pex ang nyang tawng lie ? Ang pex doh keud ka grawng blah phwan lon mai pui phwan rheng kaux mai pex deeh pon ti khrawm miex phliex ?
+40016010a	~		Blah aliah lon mai pui pon rheng mai 
+40016010b	meix		pex deeh pon ti khrawm miex phliex ?
+40016011	patix		Yuh patix pex khex ang tawng pa ang Aux krai grawng blah ka pex ? Rien rhawm pex ka susaix Pharishie mai Sadukie khankix . "
+40016013	mawx		Yam hoek Yesux ka daux haktiex Kesarix Philippix mai Nawh Cao chawk ka kawncau Nawh khankix ah nin , " Ka mawh aux kawn pui , Pui ah Kawn kawn pui mawh mawx lie ? "
+40016015a	~		Nawh Cao baox chawk ka kix ah nin , 
+40016015b	mawx		" Pex ah Aux mawh mawx ? "
+40016026a	pa tix		Phan pui tix kaux kaux pon haktiex khawmuik mai som ju tokaux tix , sang koe bwanson ceu pa tix ? 
+40016026b	pa tix		Lheu khaing an , pui sang teei pa tix , taoh ka ju tix lie ?
+40017010	~		Kawncau Nawh khankix chawk Nawh Cao ah nin , " Kheu pui tiiem lai khankix ah Eliyax tak sang hoek sivoe ? "
+40017017a	miex grheung		Yesux pawk lox ah nin , " Baux ju pa ang koe krax yum rhawm mai pa tieh feen eue , Aux tak kawn sang ot mai pex miex grheung lie ? 
+40017017b	miex grheung		Aux tak kawn sang gun yeung ka pex miex grheung lie ? Viex nawh hoek ka Aux , "
+40017019	tix		Yam an kawncau khankix hoek ka Yesux dee ang pui ot mai chawk ah nin , " Kheu ex ang pon tix grheu phicaox an lih ? "
+40017025a	yuh ka mawx		Nawh ah nin , " Tawx heue . " Yam laig nawh daux nyiex , Yesux sikah ka nawh ah nin , " Simon eue , maix ce yuh ka mawx ? 
+40017025b	pui mawx		Simiang haktiex khankix koh mau gha khaing pui mawx ? Pon khaing kawn praix tix lie ? Phan ang mawh nan pon khaing pui tang lie ? "
+40018001	pui mawx		Daux bawg yam nari an kawncau khankix hoek ka Yesux , chawk ah nin , " Pui mawx pa nie ting khaing paox tix daux meung raoma ? "
+40018012	yuh ka mawx		Pex keud yuh ka mawx ? Phan pui tix kaux kaux koe yung tix yieh mai yung tix mu hoik lud krax mai grai , nawh prah pa kawn koe tixdim dim mu piang gawng mai hu sawg yung pa hoik lud krax pa grai an ang mawh lie ?
+40018021	miex bawg		Yam an Petrux hoek mai ah nin ka Nawh Cao , " Simiang eue , sang caw aux ti pluat ka phimap pa lud puxaik aux miex bawg lie ? Tom sidah aliah bawg lie ? "
+40019007	tik		Kix ah nin ka Nawh Cao , " Phan mawh nan Mose chix tawx lox kieh tawx lai grawng pa hoik hoik lox mai tik ka bun ? "
+40019016	yuh ka mawx		Khaix an , pui tix kaux hoek ka Nawh Cao ah nin , " Sara cao gau eue , sonsang pon aux ju leeing ju , aux tak yuh pa mhawm , ceu pa yuh ka mawx lie ? "
+40019017	~		Nawh Cao ah nin ka nawh , " Yuh ka mawh maix lai chawk aux ka grawng ceu pa mhawm lie ? Pa mhawm koe tix kaux khaing , viang mawh nan , phan maix simie ti laig ka daux pa im ju , priex ti hawt gumlox pingnyap khankix heue . "
+40019018	yuh ka mawx		Kaw an baox ah nin ka Nawh Cao , " Pingnyap pa yuh ka mawx ? " Yesux ah nin , " Paw pah pui yum , paw lut vao , paw briex mai paw kham mhai rug pa ang mawh ang meh ,
+40019020	patix		Pui awn ju an baox ah nin ka Nawh Cao , " Aux hoik hawt yuh ceu in khankix khawmuik heue . Aux kawn cha ceu patix ? "
+40019025	pui mawx		Yam mhong kawncau Nawh khankix ka lox an , kix kied daox deng kah ah nin , " Phan mawh nan , pui mawx tak sang pon hoek krax taoh ? "
+40019027	patix		Yam an Petrux pawk lox mai ah nin ka Nawh Cao , " Ex hoik prah pa koe tix khawmuik mai hawt khaix Maix . Mawh kheu nan ex tak pon ceu patix ? "
+40020006	pa tix		Yam koe kao tix taix nawh baox lih hu mai yaox pui tang kaux khankix cung , nawh baox ah nin ka kix , " Kheu pa tix pex lai cung , ang pex yuh tid tix leeing lang singaix lie ? "
+40020012	~		Ah nin , Pa hoek yuh khaix khankix tak yuh tix taix ngie khaing maix hoik tawx ka kix situ awm yix pa hoik yuh kaing leeing lang singaix mai kham geu pa kied hax koek .
+40020021	pa tix		Nawh Cao ah nin ka kiex , " Lo maix ceu pa tix ? " Kiex deeh ah nin ka Nawh Cao , " Tawx lox kieh kawn aux ra kaux in ngawm plak taix khawn dawm Maix tix kaux mai plak taix khawn gwiex maix tix kaux daux meung Maix liak . "
+40020032	patix		Yesux cung kaog mai kok kiex ah nin , " Pax sang kieh Aux yuh ceu patix ka pax ? "
+40021010	mawx		Yam laig Nawh Cao ka daux veng Yerusaliem , khawm veng khawmuik lulax rhawm , lawh maw mai chawk ah nin , " Kaw in mawh mawx ? "
+40021016	~		mai ah nin ka Nawh Cao , " Mhong Maix pa ah pui ceu in khankix lie ? " Yesux ah nin ka kix , " Mawh heue , ang pex sax phat , Maix hoix kieh krax yaog yaw grum , khaing daux jheeh kawn nyawm iak , Kawn nyawm peuex khankix , lie . "
+40021020	yuh ka mawx		Yam yaox kawncau khankix ka in , kix kied daox deng ka ah nin , " Khaox ruh in chix kroh hu dom mawx dom an yuh ka mawx ? "
+40021023a	pui mawx		Yam hoek Nawh Cao ka daux nyiex bwan , cao giex kaing li pa ting khankix mai kuad song pui khankix hoek ka Nawh Cao yam sidiex gau Nawh ah nin , " Maix yuh ceu in khankix ka akhwang sibrawm pui mawx ? 
+40021023b	pui mawx		pui mawx pa tawx sibrawm in ka Maix ? "
+40021025a	dee mawx		Krax cubcom Yohan kaoh khaing dee mawx ? Kaoh khaing raoma lie , phan ang mawh nan kaoh khaing kawn pui lie ? " Kix keud tau ah nin , 
+40021025b	~		" Phan ex ah , Kaoh khaing raoma , Nawh Cao tak chawk ah nin , 
+40021025c	patix		Phan mawh nan yuh patix pex ang yum rhawm ka nawh ?
+40021028	yuh ka mawx		Pex ce yuh ka mawx ? Pui tix kaux koe kawn simex ra kaux mai nawh hu ka kaw phao ka ah nin , Kawn simex aux eue maix hu ka daux sipeem plix siiet singaix heue . "
+40021031	mawx		Kiex ra kaux , mawh mawx pa hawt yuh alo keeing tix ? " kix ah nin , " Kaw phao ka heue . " Yesux ah nin ka kix , " Aux krai lox tete ka pex , pui pa koh mau khankix mai bun pa coh kaux tix , tak laig ka daux meung Siyiex ka pex heue .
+40021040	pa tix		Yam hoek cao sipeem , nawh tak sang yuh pa tix ka pui yuh kaing sipeem khankix lie ? "
+40022012	patix		Nawh ah nin ka kaw an , paox grawm eue , yuh patix maix lai hoek tin maix khex ang ceep kraung ka paox lie ? kaw an ang nye ka heue .
+40022017	tix		Mawh kheu nan , Maix ce yuh ka mawx , krai ex mhong liak . Khaw tix tawx mau koh ka simiang Kesa lie , ang khaw ti tawx lie ? "
+40022018	yuh ka mawx		Viang mawh nan Yesux tawng grawng pa caox pa keud kix ah nin , " Pui pie lhen khankix eue , pex nyaw cheuk ti yaox Aux yuh ka mawx ?
+40022020a	pui mawx		Nawh Cao chawk ah nin ka kix , " In mawh riang mawx ceu kaux pui mawx ? "
+40022020b	~		
+40022028	mawx		Mawh kheu nan , yam hoek bawg yam deeh kaoh im , ka daux kix aliah kaux bun an tak mawh moeng kaw mawx lie ? Kheu kix khawmuik hoik to moeng ka nawh heue . "
+40022036	yuh ka mawx		" Sara cao gau eue , ka daux lai beenli , lox pingnyap pa yuh ka mawx , lheu ting khaing paox tix ? "
+40022042a	yuh ka mawx		Ah nin , " Pex ce grawng Khrit yuh ka mawx ? 
+40022042b	mawx		Nawh mawh Kawn mawx ? " kix ah nin ka Nawh Cao , " Mawh kawn Davit heue . "
+40022043	yuh ka mawx		Nawh Cao baox ah nin ka kix , " Phan mawh nan yuh ka mawx Davit kok Nawh mawh Simiang ka daux Khuan ah nin ,
+40022045	yuh ka mawx		Phan Davit kok Nawh mawh Simiang , Nawh chix mawh kawn nawh yuh ka mawx ? "
+40023017	~		Pui brai pui dug ngai eue , mawh khri pa nie lheu ting lie , phan ang mawh nan mawh nyiex bwan pa kieh khri singax pa nie lheu ting lie ?
+40023019	yuh ka mawx		Pui dug ngai eue , pa yuh ka mawx lheu ting , pa tan lie , phan ang mawh nan khu dee tan , pa kieh pa tan singax lie ?
+40023033	yuh ka mawx		Pex pa mawh siuing , pa mawh ru siuing pa cai eue , pex sang pon ti luan khaing krax ciyang mawnarhok yuh ka mawx ?
+40024003a	yam mawx		Yam ngawm Nawh Cao piang gawng Sanlun , kawncau khankix hoek ka Nawh Cao dee ang pui ot ah nin , " Ceu in khankix tak sang mawh yam mawx ? 
+40024003b	yuh ka mawx		Mhai rug grawng sang deeh hoek Maix mai grawng sang sidah haktiex in , tak sang mawh pa yuh ka mawx ? krai ex mhong liak . "
+40024045	~		" Simiang hoik deuh siliex pa kaux sijax mai pa koe pingnya mawh cao kaing ting piang geh nyiex tix , sonsang tawx pa ih ka kix awm pa khaw bawg yam khankix heue .
+40025037	lai mawx		Yam an pui rahsee khankix tak sang pawk lox ah nin ka Nawh , Simiang eue , ex yaox yam cai rhawm Maix mai tawx Maix sawm lai mawx ? Ex yaox yam sang nyaux nie Maix rawm mai tawx Maix nyaux lai mawx ?
+40025038	lai mawx		Ex yaox yam mawh Maix nyo mai rieb ti teei Maix lai mawx ? Ex yaox ot Maix kakaong mai tawx Maix ceep kraung lai mawx ?
+40025039	lai mawx		Ex yaox yam saux Maix phan ang mawh nan yam ot Maix daux thawng mai hoek ka Maix lai mawx ?
+40025044	lai mawx		Yam an kix kawx tak sang pawk lox ah nin , Simiang eue , ex yaox Maix cai rhawm lai mawx , yam sang nyaux nie Maix rawm , yam mawh nyo , yam ot kakaong , yam saux , yam ot daux thawng mai ang kia ngien Maix lai mawx ?
+40026008	yuh ka mawx		Yam yaox kawncau Nawh khankix , kix song rhawm ka ah nin , " Kieh nai giex going yuh nin yuh ka mawx ?
+40026010	yuh ka mawx		Viang mawh nan Yesux tawng grawng an mai ah nin ka kix , " Pex chuh ka bun in yuh ka mawx ? Nawh hoik yuh kaing pa mhawm piang Aux heue .
+40026015	pa tix		ah nin , " Phan aux tawx Nawh Cao ka pex , pex sang tawx pa tix ka aux ? " kix tawx mau ka nawh tixngoe plah heue .
+40026017	dee mawx		Ka daux singaix pa liang ih ka blah pa ang sau susaix , kawncau Nawh khankix hoek ka Yesux ah nin , " Maix mie ti kieh ex cox khre dee sang ih pawie Pasakha son Maix dee mawx ? "
+40026040	tix		Nawh Cao deeh hoek ka kawncau khankix mai yaox kix laig it mai ah nin ka Petrux , " Ang pex pon ti pau tau mai Aux tix nari khaing lie ?
+40026050	~		Yesux ah nin ka nawh , " Paox grawm eue , yuh awm pa sang yuh maix tin heue . " kix hoek mai taix kix tum piang Yesux mai giex ka Nawh heue .
+40026054	yuh ka mawx		Phan mawh nan lox Phuk lai sigang khri , pa ah tak mawh nin , tak chix naog yuh ka mawx ? "
+40026062a	~		Cao giex kaing li pa ting piang khawmuik , kaoh cung mai ah nin ka Nawh Cao , " Maix ang koe lox pawk tidtix lie ? 
+40026062b	pa tix		Sakse pa kham pui inkix ka grawh grawng Maix mawh pa tix ? "
+40026065	yuh ka mawx		Yam an cao giex kaing li pa ting an riah kraung ceep tix ah nin , " Kaw in hoik ah lox pa salao ka Siyiex , ex baox lo pui kham mhai rug yuh ka mawx ? Jhak heue , pex hoik mhong lox pa salao ka Siyiex heue .
+40026066	yuh ka mawx		Pex ce yuh ka mawx ? " Kix pawk lox ah nin , " Nawh keung ti yum heue . "
+40026068	pui mawx		ah nin , " Cao Khrit eue , krai lox jhai ka ex liak , mawh pui mawx pa tap toi ka Maix lie , krai lox jhai ka ex liak . "
+40027004	pa tix		Ah nin , " Aux hoik lud , kheu hoik tik hoik tawx aux nham pa ang koe dee lud heue . " Viang mawh nan kix ah nin , " Shiang mai yix pa tix ? In mawh pa sung sang pa yuh maix "
+40027013	~		Yam an Pilat baox ah nin ka Nawh Cao , " Ang maix mhong mhai rug pa tang kix phimap ka grawng maix tom nie ceu lie ? "
+40027017	pui mawx		Khaix hoik kraix khrawm kix paox tix , Pilat chawk ah nin ka kix , " Pex mie aux ploi pui mawx ka son pex ? Barabax lie , phan ang mawh nan Yesux pa kok mawh Khrit lie ? "
+40027021	yuh ka mawx		Simiang baox chawk lox ka kix ah nin , " Daux pui ra kaux in , pex mie ti kieh aux ploi pa yuh ka mawx ka son pex ? " kix ah nin , " Barabax . "
+40027022	patix		Pilat baox ah nin ka kix , " Phan mawh nan aux sang yuh patix ka Yesux pa kok mawh Khrit ? " Kix khawmuik ah nin , " Tawk Nawh piang khaox lhak heue . "
+40027023a	patix		Nawh baox ah nin , " Mawh kheu grawng patix , 
+40027023b	yuh ka mawx		Nawh hoik yuh pa caox pa yuh ka mawx ? " Viang mawh nan kix nied ti yo ah nin , " Tawk Nawh piang khaox lhak heue . "
+40027046	yuh ka mawx		Yam dex hoek dim nari Yesux kok yo lox sinum ah nin , " Elix , Elix , lama sabak-tanix ? " pa ah , " Siyiex Aux , Siyiex Aux , Maix lai tik vud Aux yuh ka mawx ? "
+41001024	patix		" Yesux Pui veng Nazariet eue , ex koe pa yuh mai Maix ceu patix . Maix hoek ti yuh ex laux lie ? Kaw pa Singax Singeh Siyiex eue , aux hoik tawng mawh Maix pui mawx . "
+41001027	patix		Pui khawmuik khawm leeing daox deng kah , kix tom chawk paox tix , tix kaux lai tix kaux ah nin , " Lox sidiex gau pa khraox pa koe sibrawm In mawh patix ? Nawh tawx lox ka phi pa seeing kawx , kix nghiet lox Nawh heue . "
+41002007a	~		" Kheu Pui in ah lox yuh nin , Nawh salao ka Siyiex heue . 
+41002007b	pui mawx		Lheu khaing Siyiex tix kaux khaing , pui mawx chix ploi phimap ? "
+41002008	yuh ka mawx		Dom mawx dom an Yesux tawng ka daux rhawm tix , grawh grawng pa keud kix daux rhawm kix mai ah nin ka kix , " Pex lai keud ceu in khankix ka daux rhawm pex yuh ka mawx ?
+41002009	yuh ka mawx		Lox yuh ka mawx lheu yie ti ah , ka kaw pa koe jhawm saux pa yum taix caong , Hoik pluat phimap maix heue , yie ti ah lie ? Phan ang mawh nan Kaoh , viex kraung it maix mai hu heue , yie tix ah lie ?
+41002016	yuh ka mawx		Pui tiiem lai mai Pharishie khankix yaox yam sawm Nawh tau mai pui pa koh mau mai pui koe phimap khankix , kix ah nin ka kawncau Nawh khankix , " Nawh lai sawm tau mai pui koh mau mai pui koe phimap khankix yuh ka mawx ? "
+41002018	yuh ka mawx		Bawg yam an kawncau Yohan mai Pharishie khankix twah pa ih mai kix hoek mai ah nin ka Nawh Cao , " Kawncau Yohan mai kawncau Pharishie khankix twah pa ih , yuh ka mawx kawncau Maix lai ang twah pa ih ? "
+41002019	~		Yesux chawk kix ah nin , " Yam yuh pui ka paox ot tau mai paox grawm nawh khankix , kix chix twah pa ih lie ? Yam yuh pui ka paox , kawn ot mai kix , kix ang tau ti chix twah pa ih .
+41002024	patix		Pharishie khankix ah nin ka Nawh Cao , " Jhak heue , yuh patix kix lai yuh pa ang khaw mai beenli ngaix twah ? "
+41003004	~		Nawh Cao baox chawk ah nin ka kix , " Khaw ti yuh pa mhawm ngaix twah lie ? phan ang mawh nan khaw ti yuh laux lie ? Khaw ti taoh ju lie , phan ang mawh nan khaw ti pah yum lie ? " Kix ang nye heue .
+41003023	yuh ka mawx		Nawh Cao kok kix hoek ka Nawh mai Nawh teei lox tiag ah nin ka kix , " Satan chix grheu Satan lih yuh ka mawx ?
+41003033a	mawx		Nawh Cao pawk lox ah nin ka kix , " Miex Aux mai pux Aux khankix mawh mawx ? "
+41003033b	~		
+41004013	yuh ka mawx		Nawh Cao baox ah nin ka kix , " Pex ang tawng lox tiag in lie ? Phan mawh nan pex tak chix tawng lox tiag khawmuik yuh ka mawx ?
+41004030a	patix		Nawh Cao baox ah nin , " Meung Siyiex awm ceu patix ? 
+41004030b	yuh ka mawx		Ex tak teei lox tiag yuh ka mawx , krai grawh grawng nawh ?
+41004038	~		Tokaux Nawh Cao ot plak sidax reu , it piang mhawn gaong mai kix so Nawh siduad mai ah nin ka Nawh , " Sara Cao gau eue , Maix ang keud grawh grawng hoek ex krax laux lie "
+41004040a	yuh ka mawx		Nawh Cao baox ah nin ka kix , " Pex lhat yuh ka mawx ? 
+41004040b	~		Pex ang nyang koe krax yum rhawm lie ? "
+41004041	mawx		Kix die lhat kah mai tix kaux lai tix kaux ah nin ka paox tix , " Kaw in mawh mawx ? viang bhaung mai rawm nhawng kawx nghiet lox Nawh heue . "
+41005007	patix		Nawh kok yo lox sinum ah nin , " Yesux , Kawn Siyiex pa ting lhaong khaing khawmuik eue , aux koe pa yuh mai Maix ceu patix ? Aux khyox khaw ka Maix ka daux ceu kaux Siyiex , paw vi tuktiak ka aux liak . "
+41005009	patix		Nawh Cao chawk nawh ah nin , " Ceu kaux maix kaux patix ? " Nawh pawk lox ka Nawh Cao ah nin , " Ceu kaux aux kaux Liecong kheu kied haoh hun yix heue . "
+41005030	pui mawx		Dom mawx dom an Yesux tawng daux tokaux tix , grawh grawng sibrawm hoik lih khaing Nawh mai Nawh Cao deeh gi cub pui an ah nin , " Pui mawx pa teeh kraung ceep Aux ? "
+41005031	pui mawx		Kawncau Nawh khankix ah nin ka Nawh Cao , " Maix yaox cub pui hun nie ding nie dod theen ka Maix mai Maix chawk , Pui mawx pa teeh ka Aux lie ? "
+41005035	patix		Yam kawn sikah Nawh Cao , pui hoek khaing nyiex pui giex kaing nyiex sidiex ah nin , " Kawn bun maix hoik yum heue . Yuh patix maix lai kawn lak lheut ka Sara Cao gau ? "
+41005039a	patix		Khaix hoik laig Nawh Cao tan Nawh ah nin ka kix , " Yuh patix pex lai sinum siaox mai yiiem riag yuh nin ? Kawn nyawm in hoik yum ang mawh , mawh ngie laig it nawh khaing "
+41005039b	~		
+41006002a	dee mawx		Yam hoek singaix twah Nawh Cao jah ti sidiex gau ka daux nyiex sidiex mai pui hun pa mhong Nawh Cao , kied daox deng ah nin , " Pui in pon ceu in khankix dee mawx ? 
+41006002b	yuh ka mawx		Hoik tawx pingnya cuyi , pa yuh ka mawx ka Pui in ? 
+41006002c	yuh ka mawx		Kaing pa ting sibrawm ceu in chix mawh daux tawm taix Nawh yuh ka mawx ?
+41006022	patix		Yam hoek kawn bun Herodix mai yuh graoh , Herut mai pui khankix pa ngawm sawm tau mai nawh khaw rhawm mai simiang ah nin ka bunkrih an , " Maix mie ceu patix ang ah , rawg ka aux mai aux tak tawx ka maix heue . "
+41006024	patix		Bun an lih hu chawk ka miex nawh ah nin , " Aux sang rawg mhaing ceu patix ? " miex nawh pawk lox ah nin , " Rawg kaing Yohan cao cubcom heue . "
+41006037	~		Nawh Cao pawk lox ah nin ka kix , " Pex tawx kix ih heue . " kix baox ah nin ka Nawh Cao , " Ex sang teei mau denari ra yieh hu liag blah mai tawx kix ih lie ? "
+41006038	miex		Nawh Cao baox ah nin ka kix , " Pex koe blah miex lon ? Hu jhak ti yaox . " Khaix hoik tawng kix , kix ah nin , koe blah phwan lon mai kax ra mu heue . "
+41007005	~		Pharishie mai pui tiiem lai khankix chawk ka Nawh Cao ah nin , " Kheu kawncau Maix khankix ang hawt been tax yiex miex keeing mai teei taix pa seeing brai ih blah cie kix ? "
+41008004	yuh ka mawx		Kawncau Nawh khankix deeh pawk ah nin ka Nawh Cao , " Pon ti kieh pui khankix sak ka blah daux tiag yuh ka mawx ? "
+41008005	miex		Nawh Cao chawk kix ah nin , " Pex koe blah miex lon ? " Kix deeh krai " Koe aliah lon heue . "
+41008012	patix		Nawh Cao ngia daux khuan tix ah nin , " Yuh patix pui ju in sawg mhai pa daox deng ? Aux krai lox tete ka pex , tak ang tawx mhai pa daox deng ka pui ju in tix ceu kawx heue . "
+41008017	patix		Yesux tawng grawh grawng an , tom ah nin ka kix , " Yuh patix pex keud ti ah ka paox tix , kheu ang pex koe blah ? Pex ang chix yaox ang chix tawng lie ? Rhawm pex kawn kien lie ?
+41008018a	~		Pex koe ngai kawx , ang chix yaox lie ? 
+41008018b	~		Pex koe yhaok kawx , ang chix mhong lie ? Pex ang nyang doh keud kah lie ?
+41008019	miex		Yam sivit Aux blah phwan lon ti tawx ka pui phwan rheng , pex hoik pon ti khrawm pa max pa phawng miex phliex ? " kix ah nin ka Nawh Cao , " Pon kao ra phliex heue . "
+41008020	miex		" Yam sivit Aux blah aliah lon tawx ka pui pon rheng , pex pon ti khrawm pa max pa phawng miex phliex ? " Kix baox ah nin ka Nawh Cao , " Pon aliah phliex heue . "
+41008021	~		Nawh Cao baox ah nin ka kix , " Pex ang nyang bax tawng lie ? "
+41008023	tix		Nawh Cao giex taix pui dug ngai an mai viex nawh lih hu plak praix veng , khaix hoik baig Nawh Cao rawm myia piang ngai nawh mai deuh taix tix piang nawh , Nawh Cao chawk ah nin ka kaw an , " Maix uik chix yaox tix ceu ceu lie ? "
+41008027	mawx		Yesux lih hu tau mai kawncau Nawh khankix mai laig ka daux yaong Kesarix Philipux khankix . Yam kawn hu krax Nawh Cao chawk ka kawncau Nawh khankix ah nin , " Pui khankix ah Aux mawh mawx ? "
+41008029a	``		Nawh Cao baox ah nin ka kix , 
+41008029b	mawx		" Pex ah Aux mawh mawx ? " Petrux pawk lox mai ah nin ka Nawh Cao , " Maix mawh Khrit heue . "
+41008036	yuh ka mawx		Grawh grawng nawh , phan pui tix kaux kaux pon haktiex khawmuik mai som ju tokaux tix , sang koe bwanson yuh ka mawx ?
+41008037	patix		Kawn pui sang chix pon tawx ceu patix tideeh taoh khuan ju tix ka ?
+41009010	tix		Kix priex ti hawt lox an mai chawk paox tix , tix kaux lai tix kaux grawng dee bleeh lox pa ah , " Deeh kaoh khaing krax yum heue . "
+41009011	~		Kix chawk Nawh Cao ah nin , " Kheu pui tiiem lai khankix ah Eliyax tak sang hoek phao ka ? "
+41009012	yuh ka mawx		Nawh Cao ah nin ka kix , " Eliyax tak hoek phao ka tete mai cox mhawm khawmuik heue . Pa hoik tiiem grawng Kawn kawn pui , tak kham geu tom nie ceu mai pa tik vud sang yuh ka mawx ?
+41009016	patix		Nawh Cao ah nin ka kix , " Pex chawk lox patix ka kix ? "
+41009019a	miex grheung		Nawh Cao pawk lox mai ah nin ka kix , " Pui ju pa ang koe krax yum rhawm eue , Aux tak kawn sang ot mai pex miex grheung ? 
+41009019b	miex grheung		Aux tak kawn sang gun yeung pex miex grheung ? Viex nawh hoek ka Aux heue . "
+41009021	miex grheung		Nawh Cao chawk ka keeing nawh ah nin , " Ceu in hoik hoek ka nawh miex grheung ? " Keeing nawh pawk ah nin , " Mawh tom yam mawh nawh kawn nyawm iak heue .
+41009028	~		Yam hoik laig Nawh Cao ka daux nyiex , yam ot tau Nawh mai kawncau nong nong , kix chawk Nawh ah nin , " Kheu ang ex pon ti grheu phi an lie ? "
+41009033	patix		Kix hoek ka veng Kapenion mai yam ot Nawh Cao ka daux nyiex , Nawh chawk kix ah nin , " Yam hoek pex daux krax pex kum pex thung thiang paox tix grawh grawng patix ? "
+41009050	yuh ka mawx		Kih kienie mawh pa mhawm , viang mawh nan phan pa laoh kih hoik grai , tak sang teei pa yuh ka mawx ti deeh chix kieh nawh laoh ? Kieh kih koe ka daux tokaux pex mai kieh tix kaux lai tix kaux khaw paox tix heue . "
+41010003	yuh ka mawx		Nawh Cao baox pawk lox mai ah nin ka kix , " Mose hoik nhie pex yuh ka mawx ? "
+41010017	yuh ka mawx		Yam lih hu Nawh Cao ka daux krax , pui tix kaux to hoek ka Nawh , grux ngawng tix mai chawk ka Nawh Cao ah nin , " Sara Cao gau pa mhawm eue , aux tak yuh ka mawx , sonsang pon aux ju leeing ju ? "
+41010018	~		Yesux pawk lox ah nin ka nawh , " Kheu maix lai kok Aux mawh pa mhawm ? Lheu khaing Siyiex tix kaux khaing , tix kaux kawx ang mhawm heue .
+41010026	pui mawx		Viang mawh nan kix kied daox deng kah mai ah nin ka Nawh Cao , " Phan mawh nan , pui mawx tak sang pon hoek krax taoh ? "
+41010036	patix		Nawh Cao chawk ah nin ka kiex , " Pax simie ti kieh Aux yuh ceu patix son pax ? "
+41010051	patix		Yesux chawk nawh ah nin , " Maix mie ti kieh Aux yuh patix ka maix ? " pui dug ngai an ah nin ka Nawh Cao , " Rabonix eue , kieh ngai aux chix yaox liak "
+41011003	patix		Phan pui tix kaux kaux chawk pax ah nin , Pax yuh ceu in kheu patix ? Pax deeh krai ah nin , Simiang lo nawh heue . Kaw an tak deeh ploi nawh hoek tin dom mawx dom an heue . "
+41011005	yuh ka mawx		Pui pa cung tan tix blah ah nin ka kiex , " Pax kah la in yuh ka mawx ? "
+41011028a	dee mawx		Kix chawk ah nin ka Nawh Cao , " Maix pon akhuang sibrawm ti yuh ceu in khankix dee mawx ? 
+41011028b	pui mawx		Pui mawx tawx akhuang sibrawm in ka Maix , ti yuh ceu in khankix lie ? "
+41011030	~		Krax cubcom Yohan kaoh khaing raoma lie ? Phan ang mawh nan kaoh khaing kawn pui lie ? Deeh krai ka Aux liak "
+41011031a	~		Kix keud tau ah nin , 
+41011031b	patix		" Phan ex ah Kaoh khaing raoma , Nawh Cao tak chawk ah nin , phan mawh nan yuh patix pex ang yum rhawm ka nawh ?
+41012009	yuh ka mawx		Mawh kheu nan cao sipeem plix siiet tak sang yuh ka mawx ? Nawh tak hoek yieh mai yuh pui pa yuh sipeem an khankix laux mai tawx sipeem plix siiet an ka pui tang kaux heue .
+41012015	yuh ka mawx		Ex tak tawx lie ? Phan ang mawh nan , ex tak ang tawx lie ? " Nawh Cao tawng grawng pie lhen kix mai ah nin ka kix , " Pex nyaw cheuk ti yaox Aux yuh ka mawx ? Viex denari tix plah sonsang jhak Aux nawh , "
+41012016a	pui mawx		kix viex mai Nawh Cao chawk ah nin ka kix , " In mawh riang mawh lai pui mawx ? " kix ah nin ka Nawh Cao , " Mawh riang mai lai simiang Kesa heue . "
+41012016b	~		
+41012023	yuh ka mawx		Mawh kheu nan yam hoek bawg yam deeh kaoh im , ka daux kix nawh tak mawh moeng kaw pa yuh ka mawx ? Kheu kix khawm aliah kaux hoik to moeng bun an heue . "
+41012028	yuh ka mawx		Pui tiiem lai tix kaux hoek mai mhong lox pa chawk kix ka paox tix mai nawh tawng grawng Nawh Cao hoik pawk lox ka kix mhawm mhawm mai chawk Nawh Cao ah nin , " Lox pingnyap pa yuh ka mawx lheu ting khaing paox tix khawmuik ? "
+41012035	yuh ka mawx		Yam sidiex gau Yesux ka daux nyiex bwan Nawh ah nin , " Pui tiiem lai khankix ah Khrit mawh kawn Davit yuh ka mawx ?
+41012037	yuh ka mawx		Tokaux Davit hoik kok Nawh mawh Simiang . Nawh chix mawh kawn nawh yuh ka mawx ? " Pui hun khankix gaux rhawm ti nghiet lox Nawh Cao heue .
+41013004a	lai mawx		" Ceu in khankix tak sang mawh lai mawx ? 
+41013004b	yuh ka mawx		Yam tak sang dex mawh ceu in khankix , tak koe mhai pa yuh ka mawx ? Krai ka ex liak . "
+41014004	yuh ka mawx		Viang mawh nan koe tix blah pa song rhawm mai ah nin ka paox tix , " Kieh sidah bhawng in nai giex going yuh nin yuh ka mawx ?
+41014006	yuh ka mawx		Viang mawh nan , Yesux ah nin , " Paw chuh nawh , pex lai laklheut nawh yuh ka mawx ? Nawh hoik yuh kaing pa mhawm piang Aux heue .
+41014012	dee mawx		Daux ngaix tix , blah pa ang sau susaix , khaix hoik pah hoik tan kix yung Pasakha , kawncau Nawh khankix ah nin ka Nawh Cao , " Maix mie ti kieh ex hu cox dee sang ih Maix pawie Pasakha dee mawx ?
+41014014	dee mawx		Nawh laig dee mawx ang ah , ah nin ka cao nyiex an , Sara Cao gau ah nin , Lawg son nyo maix , dee tak sang ih Aux Pasakha tau mai kawncau Aux khankix , koe dee mawx ?
+41014060a	~		Cao giex kaing li pa ting cung sinax kix mai chawk Yesux ah nin , " Maix ang deeh pawk lox tidtix lie ? 
+41014060b	yuh ka mawx		a kham mhai rug ceu in grawh grawng Maix , mawh pa yuh ka mawx ? "
+41014063	yuh ka mawx		Cao giex kaing li pa ting an riah kraung ceep tix ah nin , " Ex baox lo mhai rug yuh ka mawx ?
+41014064	yuh ka mawx		Pex hoik mhong lox salao Nawh ka Siyiex heue . Pex ce yuh ka mawx ? " kix khawmuik prawng ca Nawh , ah Nawh keung ti yum heue .
+41015004	~		Pilat baox deeh chawk Nawh Cao ah nin , " Maix ang pawk lox tidtix lie ? Jhak heue , kix deuh phimap ka Maix tom nie ceu miex ding . "
+41015012	patix		Pilat baox deeh chawk kix ah nin , " Phan mawh nan aux tak yuh patix ka Kaw pa kok pex mawh Simiang pui Yudax ? "
+41015014a	patix		Pilat baox ah nin ka kix , " Mawh kheu grawng patix , 
+41015014b	yuh ka mawx		Nawh hoik yuh pa caox pa yuh ka mawx ? " Viang mawh nan kix nied ti yo ah nin , " Tawk Nawh piang khaox lhak heue . "
+41015034	yuh ka mawx		Yam hoek dim nari Yesux kok yo lox sinum ah nin , " Elix , Elix , lama sabak-tanix ? " Phan toe dee bleeh mawh , " Siyiex Aux , Siyiex Aux , Maix lai tik vud Aux yuh ka mawx ? "
+41016003	pui mawx		Kix ah nin ka paox tix , " Pui mawx tak sang plu plie simaox an khaing moing daux simeeig son ex . "
+42001018	yuh ka mawx		Zakharix ah nin ka kawncau Siyiex an , " Grawh grawng tak sang mawh , ceu in aux chix tawng yuh ka mawx ? Mawh kheu aux uik mawh tax kuad mai moeng aux ka hoik riex ju uik kuad heue . "
+42001034	yuh ka mawx		Viang mawh nan Marix chawk ah nin ka kawncau Siyiex an , " Ceu in chix mawh yuh ka mawx ? Kheu aux ang koe mex mai ang pied ang pha simex heue . "
+42001043	yuh ka mawx		Aux pon min plakngai pa hoek miex Simiang aux ka aux yuh nin , yuh ka mawx ?
+42001066	yuh ka mawx		Kix pa mhong grawh grawng ceu in khawmuik priex ti tawng ka daux rhawm tix , ah nin , " Phan mawh nin , kawn nyawm in tak sang mawh pa yuh ka mawx ? Mawh kheu ot taix Siyiex tau mai nawh heue . "
+42002048	yuh ka mawx		Yam yaox kiex Nawh , kiex daox deng ka mai miex Nawh ah nin ka Nawh , " Kawn eue , yuh ka mawx Maix lai yuh nin ka yiex ? Jhak heue , keeing Maix mai aux hoik sawg Maix mai khi rhawm tix heue . "
+42002049	~		Nawh Cao ah nin ka kiex , " Kheu pax lai sawg Aux ? Ang pax tawng grawng tak lai ot Aux ka daux nyiex Keeing Aux lie ? "
+42003007	mawx		Mawh kheu nan nawh tom ah nin ka cub pui hun pa hoek ti cubcom mai nawh , " Ceu siuing pa cai eue , mawx nhie pex to , sonsang luan khaing pa song rhawm pa tak sang hoek ? "
+42003010	yuh ka mawx		Cub pui hun chawk nawh ah nin , " Phan mawh nan ex tak sang yuh ka mawx ? "
+42003012	yuh ka mawx		Pui koh mau khankix kawx hoek sonsang cubcom mai nawh . Kix chawk ah nin ka nawh , " Sara cao gau eue , ex tak sang yuh ka mawx ? "
+42003014a	~		Pui naing khankix kawx hoek mai chawk nawh ah nin , 
+42003014b	yuh ka mawx		" ex tak sang yuh ka mawx ? " Nawh ah nin ka kix , " Paw vi khin ti teei khaing pui tix kaux kawx . Paw vi deuh phimap pa ang mawh ang meh ka piang pui mai kieh rhawm pex fah ka mau riang pa pon pex heue . "
+42004034	patix		" Yesux Pui veng Nazariet eue , ex koe pa yuh mai Maix ceu patix ? Maix hoek ti yuh ex laux lie ? Kaw pa Singax Singeh Siyiex eue , aux hoik tawng Maix mawh mawx . "
+42004036	yuh ka mawx		Pui khawmuik daox deng kah , kix tom chawk paox tix , tix kaux lai tix kaux ah nin , " In mawh lox pa yuh ka mawx ? " Mawh kheu Nawh koe sibrawm tawx lox ka phi pa seeing brai khankix mai kix lih hu heue .
+42005021a	mawx		Pui tiiem lai mai Pharishie khankix keud ti ah nin , " Kaw pa ah lox salao in mawh mawx ? 
+42005021b	pui mawx		Lheu khaing Siyiex nong nong pui mawx pa chix ploi phimap ? "
+42005022	yuh ka mawx		Viang mawh nan Yesux tawng grawh grawng pa keud pa sawn kix mai ah nin ka kix , " Pex keud pa yuh ka mawx ka daux rhawm tix ?
+42005023	yuh ka mawx		Lox pa yuh ka mawx lheu yie ti ah , hoik pluat phimap maix heue , yie ti ah lie ? Phan ang mawh nan , kaoh mai hu heue . " yie ti ah lie ?
+42005030	yuh ka mawx		Pharishie mai pui tiiem lai khankix deuh phimap ka kawncau Nawh khankix ah nin , " Pex lai sawm rheep tau mai pui koh mau mai pui ting map yuh ka mawx ? "
+42005033	~		Kix ah nin ka Nawh Cao , " Kawncau Yohan khankix twah pa ih mai rawg bwan law lawx . Kawncau Pharishie khankix kawx yuh awm an , viang mawh nan kawncau Maix ih mai nyaux heue . "
+42005034	~		Yesux chawk kix ah nin , " Pex chix kieh paox grawm pui pa yuh ka kapaox twah pa ih yam kawn ot kaw pa yuh kapaox mai kix lie ?
+42006002	patix		Pharishie tix blah ah nin , " Yuh patix pex lai yuh pa ang khaw mai beenli ngaix twah ? "
+42006009	tix		Yesux ah nin ka kix , " Aux sang chawk pex , khaw mai beenli yuh tix pa mhawm ngaix twah lie , phan ang mawh nan yuh tix pa laux lie ? Khaw ti taoh ju lie phan ang mawh nan khaw ti phah yum lie ? "
+42006032	yuh ka mawx		Phan pex moh ka pui pa moh ka pex khaing , pex tak koe bwanson yuh ka mawx ? Mawh kheu pui tingmap khankix kawx , deeh moh ka pui pa moh ka kix heue .
+42006033	yuh ka mawx		Phan pex yuh pa mhawm ka pui pa yuh pa mhawm ka pex khaing , pex tak koe bwanson yuh ka mawx ? Mawh kheu pui ting map khankix kawx , yuh awm an heue .
+42006034	yuh ka mawx		Phan pex tawx yaog yaing ka pui , pa keud pex ti deeh pon khaing , pex tak koe bwanson yuh ka mawx ? Mawh kheu pui ting map khankix kawx , tawx yaog yaing ka paox pui ting map khankix , ti deeh pon awm pa tawx kix heue .
+42006039	~		Nawh Cao kawx krai lox tiag pa ah nin ka kix , " Pui dug ngai chix jhi , pui pa dug ngai yaox krax lie ? Kiex khawm ra tak rau daux o ang mawh lie ?
+42006041	tix		Kheu maix jhak kuh ngai pa iak daux ngai puxaik maix mai ang keud grawh grawng nuk pa koe daux ngai tokaux tix ?
+42006042	yuh ka mawx		Phan ang mawh nan maix chix ah ka puxaik maix , puxaik eue , kieh aux teei ti tik kuh ngai maix , yam ang maix yaox nuk pa koe ka daux ngai tokaux tix , yuh ka mawx ? Pui pie pui lhen eue , teei ti tik nuk pa koe daux ngai maix ka ha mai maix tak sang yaox mhawm mhawm , sonsang teei kuh pa koe daux ngai puxaik maix heue .
+42006046	yuh ka mawx		" Pex lai kok Aux , Simiang eue , Simiang eue mai ang yuh ceu pa krai Aux khankix yuh ka mawx ?
+42007024	patix		Khaix hoik ing kawncau Yohan an kiex , Nawh Cao jah ti sidiex gau grawh grawng Yohan , ka cub pui hun khankix , " Pex lih hu daux tiagtu sang jhak patix ? Pex hu jhak gawng priem pa phlu bhaung mai vuhvied lie ?
+42007025	patix		Phan ang mawh nan pex lih hu sonsang yaox patix ? Hu sonsang yaox pui pa ceep kraung pa awn lie ? Jhak heue , kix pa ceep kraung pa jiet mhawm mai pa ih priex preem pa nyawm , ot ka daux nyiex simiang ting khankix heue .
+42007026	patix		Phan ang mawh nan pex lih hu sonsang yaox patix ? Lih hu sonsang yaox cao jhai lie ? Mawh heue , Aux krai ka pex , mawh pa lheu khaing cao jhai heue .
+42007031a	patix		Ceu pui ju in , Aux sang tiag awm patix ? 
+42007031b	yuh ka mawx		mai kix sang awm pa yuh ka mawx ?
+42007042	yuh ka mawx		Mawh kheu ang kiex koe ti tawx ceuk an , nawh pluat ploi ceuk kiex khawm ra kaux heue . Ka daux kiex ra kaux , mawh kaw pa yuh ka mawx , pa nie lheu moh ka kaw an ? "
+42007049	mawx		Kix pa ngawm neung ti sawm tau mai Nawh Cao , keud ti ah nin ka daux tokaux tix , " Kaw in mawh mawx ? Viang mawh phimap kawx , Nawh khex ploi heue . "
+42008025a	dee mawx		Nawh Cao chawk ah nin ka kix , " Krax yum rhawm pex koe dee mawx ? " Viang mawh nan kix lhat mai daox kah , kix tom ah nin ka paox tix , tix kaux lai tix kaux , 
+42008025b	mawx		" Kaw in mawh mawx , Nawh tawx lox ka bhaung mai rawm khankix kawx , kix nghiet ka lox Nawh heue . "
+42008028	patix		Yam yaox nawh Yesux , nawh krub sivoe Nawh Cao mai nawh riag kok yo lox tix sinum ah nin , " Yesux , Kawn Siyiex pa ting lhaong khaing khawmuik eue , aux koe pa yuh mai Maix ceu patix ? Aux khyox khaw ka Maix paw vi tuktieak tukte ka aux liak "
+42008030	patix		Nawh Cao chawk nawh ah nin , " Ceu kaux maix kaux patix ? Nawh deeh ah nin , " Mawh Liecong heue . " Mawh kheu hoik laig phicaox ka nawh tom nie , nawh tom ah nan .
+42008045	mawx		Yesux ah nin , " Mawx pa teeh ka Aux ? " Yam thiang pui grawng an khawmuik , Petrux mai kix pa ot tau mai Nawh khankix , ah nin , " Simiang eue , cub pui hun khankix nyheen ka Maix , tom uik tip , Maix lai kawn chawk mawx pa teeh ka Aux lie ? "
+42009009a	mawx		Viang mawh nan Herut ah nin , " Aux hoik kid kaing Yohan , viang mawh nan , kaw pa mhong aux grawng ceu in khankix mawh mawx ? " Nawh sawg sonsang pon ti yaox Yesux heue .
+42009009b	~		
+42009018	mawx		Yam ot tau mai kawncau tix khankix Nawh Cao rawg bwan nong nong , Nawh chawk kix ah nin , " Cub pui hun khankix ah Aux mawh mawx ? "
+42009020a	~		
+42009020b	mawx		Yesux baox chawk kix , " Pex kawx ah Aux mawh mawx lie ? " Petrux deeh pawk ah nin , " Maix mawh Khrit cie Siyiex heue . "
+42009025	yuh ka mawx		Grawh grawng nawh , phan pui tix kaux kaux pon haktiex khawmuik mai som tokaux tix , sang koe bwanson yuh ka mawx ?
+42009041a	miex grheung		Yesux deeh ah nin , " pui pa ang koe krax yum rhawm mai pa nu ti sidiex eue , Aux kawn tak sang ot mai pex miex grheung ? 
+42009041b	miex grheung		Aux kawn tak sang gun yeung pex miex grheung ? Viex kawn simex maix hoek heue . "
+42010025	yuh ka mawx		Jhak heue , cao prawng cao tawng lai been tix kaux kaoh cung sonsang cheuk sang nyaw ti yaox Nawh Cao , chawk ah nin , " Sara Cao Gau eue , sonsang pon aux sin ju leeing ju , aux tak sang yuh ka mawx ? "
+42010026a	yuh ka mawx		Nawh Cao ah nin ka nawh " Hoik tiiem ti deuh daux lai beenli pa yuh ka mawx ? 
+42010026b	ka mawx		Maix phat pa ah ka mawx ? "
+42010029	mawx		Viang mawh nan kaw an , simie ti yuh tokaux tix , awm pui rahsee pa ang koe dee lud , nawh tom chawk ah nin ka Yesux , " Paox plawg paox nyhawm aux mawh mawx ? "
+42010036a	yuh ka mawx		Maix ce yuh ka mawx , 
+42010036b	mawx		ka daux pui in loe kaux , mawh mawx pa mawh paox plawg ka kaw pa sidah pui tud rhim an lie ? "
+42011008	~		Aux krai ka pex , phan kaw an ang kaoh ti tawx ka nawh , kheu mawh nawh paox grawm nawh , viang mawh nan , kheu ca rawg nawh pot ang jud , kaw an tak kaoh ti tawx ka nawh awm pa lo nawh heue .
+42011011	tix		Ka daux pex pa mawh keeing koe tix kaux kaux lie ? Yam rawg yam mhaing kawn tix blah , nawh sang tawx simaox kah lie ? Phan ang mawh nan phan rawg kax , nawh sang tawx siuing kah , son kax lie ?
+42011012	~		Phan ang mawh nan , phan nawh rawg tawm , nawh sang tawx tamtim ka nawh lie ?
+42011013	miex ding		Phan pex pa mawh pui caox kawx , chix tawx kraung pa mhawm ka kawn praix tix , Keeing pex pa ot ka daux meung raoma tak nie lheu tawx Khuan Singax Singeh , ka pui pa rawg ka Nawh miex ding ? "
+42011018	yuh ka mawx		Satan kawx , phan ang khaw , gwieh tokaux tix , meung nawh chix kaux chix cong yuh ka mawx ? Mawh kheu pex ah , Aux een rhawm ka Belazebulax mai grheu phicaox khankix lih heue .
+42011019	pui mawx		Phan Aux een rhawm ka Belazebulax mai grheu phicaox khankix lih , kawn praix pex , een rhawm ka pui mawx mai grheu phicaox lih ? Mawh kheu nan , kix tak mawh cao prawng cao ca pex heue .
+42012014	mawx		Viang mawh nan Nawh Cao chawk ah nin ka kaw an , " Pui eue , mawx pa kieh Aux mawh cao prawng cao gwieh ka piang pax ? "
+42012017	yuh ka mawx		Nawh keud ti ah nin ka daux tokaux tix , Aux tak sang yuh ka mawx ? Kheu ang aux koe dee een plix cie tix khankix heue .
+42012020	pui mawx		Viang mawh nan , Siyiex ah nin ka nawh , Pui daox eue , tak teei ju maix khaing maix ka daux sawm in heue . Ceu pa hoik cox hoik priex maix khankix , tak mawh cie pui mawx ?
+42012024	miex ding		Keud ti yaox grawh grawng lak khankix , kix ang rhuat ang van mai kix ang vawg ang pat mai kix ang koe lawg koe krao dee een kraung , viang mawh nan Siyiex tawx kix sawm . Pex lheu ngawh lheu mhawm khaing sim khankix miex ding ?
+42012025	mawx		Mawh kheu krax khi rhawm , ka daux pex , mawx pa chix kieh , tokaux tix baox lhaong tix sawk ?
+42012026	yuh ka mawx		Phan pex ang chix yuh ceu pa nie iak khaing paox tix , pex lai khi rhawm grawh grawng tang ceu pa taig khankix yuh ka mawx ?
+42012042	mawx		Simiang deeh ah nin , " Siliex pa kaux sijax mai pa koe pingnya , pa hoik kieh simiang nawh ting piang geh nyiex tix , sonsang tawx nyum pa ih , ka kix yam hoek bawg yam pa khaw ti tawx , mawh mawx ?
+42012049	yuh ka mawx		" Aux hoek sonsang taing ngu ka piang haktiex mai alo Aux mawh pa yuh ka mawx ? Viang mawh yam in kawx , phan ngu an hoik cap mhawm heue .
+42012056	~		Pex pa mawh pui pie lhen eue , pex chix jhak chix tawng mhai haktiex mai raoma heue . Kheu , pex khex ang chix tawng ka grawh grawng bawg yam , yam in ?
+42012057	patix		Yuh patix tokaux pex ang chix tawng , mawh pa yuh ka mawx , pa mawh pa rahsee ?
+42013004	~		Phan ang mawh nan kix kao kaux daix , pa hoik grhup dheem nyiex lhaong Silom kix yum , pex ce kix nie lheu lud khaing pui pa ot ka daux veng Yerusaliem khawmuik lie ?
+42013007	patix		Nawh ah nin ka pui pa pau sipeem . Jhak heue . Daux loe num pa hoik luan in , aux hoek ti sawg plix ka khaox ruh in , ang yaox tidtix . Kid ti tik heue . Yuh patix kieh nawh kram haktiex yuh nin ?
+42013015	~		Simiang pawk lox ka nawh ah nin , " Pui pie pui lhen khankix eue , pex ku kaux daux pui , ploi mawie ploi la khaing kawg mai tuk ti tawx hu nyaux rawm , ngaix twah ang mawh lie ?
+42013018a	patix		Nawh Cao baox ah nin , " Meung Siyiex awm ceu patix ? 
+42013018b	patix		Aux tak plak kieh awm patix ?
+42013020	patix		Nawh Cao baox deeh ah nin , " Aux tak plak kieh Meung Siyiex awm patix ?
+42013025	dee mawx		Yam hoik kaoh cao nyiex mai hoik song siviex mai pex cung plak praix mai gleuh siviex ah nin , Simiang eue , paoh siviex son ex liak heue . Nawh tak pawk lox mai ah nin ka pex , grawng kaoh pex khaing dee mawx Aux ang tawng heue .
+42014005	mawx		Nawh Cao baox chawk ah nin ka kix , " Ka daux pex tix kaux kaux pa koe la phan ang mawh nan pa koe mawie , pa rau ka daux o ngaix twah , pa tak ang bluh nawh lih dom mawx dom an koe lie ? "
+42014028	pui mawx		Mawh kheu ka daux pex koe pui mawx , pa simie ti yuh nyiex lhaong , pa ang ngawm phao ka mai sawn ti yaox grawh grawng sang uik miex ding mai grawh grawng nawh koe mau sang kub ti yuh tom hoik lie , ang kub lie ?
+42014031	mawx		Phan ang mawh nan koe simiang mawx , pa sang hu ti puing simiang tang kaux , pa ang ngawm ti kum kawng grawh grawng nawh pon teei pui tix mheen ngie mai pon ti hu cha paox tix , ka simiang pa viex pui ra mheen lie , ang pon lie ?
+42014034	yuh ka mawx		Kih kienie mawh pa mhawm , viang mawh kih kawx , phan pa laoh nawh hoik grai , tak sang deeh teei pa chix kieh nawh laoh yuh ka mawx ?
+42015004	tix		" Ka daux pex koe pui tix kaux kaux , pa koe yung tiyieh mai phan grai tix mu , pa ang prah ang grham , yung tix dim dim an , ka daux tiag mai hu sawg pa grai an tom hoik yaox nawh lie ?
+42015008	tix		" Phan ang mawh nan bun tix kaux kaux , pa koe mau kao pieak , phan grai tix plah , nawh ang tok kawk ngu mai pih nyiex tix mai nied ti sawg tom yaox mau an lie ?
+42015026	yuh ka mawx		Nawh kok kawncau tix kaux mai chawk nawh , grawng ceu an mawh pa yuh ka mawx .
+42015029	~		Nawh deeh pawk lox ka keeing tix ah nin , jhak heue , aux hoik yuh son maix tom nie num in kix mai aux ang sax lheu lox maix tix bawg kawx , viang mawh nan maix ang sax tawx kawn pex ka aux tix mu kawx , yuh ka mawx sonsang yuh aux krax gaux rhawm tau mai paox grawm aux khankix heue .
+42016002	yuh ka mawx		Simiang nawh kok nawh mai ah nin ka nawh , pa mhong aux grawh grawng maix mawh pa yuh ka mawx ? Deeh tawx lai carang , grawh grawng yam yuh maix kawncau pa bung kaing . Mawh kheu ang maix lai baox pon ti yuh kawncau pa bung kaing heue .
+42016003	yuh ka mawx		Kawncau pa bung kaing an keud ah nin daux tokaux tix , aux tak sang yuh ka mawx , kheu simiang aux hoik deeh teei , kaing bung aux khaing aux ? Aux ang koe riang ti sang kaong tiex mai phan caung ti ih , kaig aux kah heue .
+42016005	miex ding		Nawh kok pui pa ceuk ka simiang nawh ku kaux mai chawk ah nin ka kaw phao ka , maix ceuk ka simiang aux miex ding ?
+42016007	miex ding		Khaix an nawh baox chawk ka tang kaux ah nin , maix ceuk cie tix miex ding ? Kaw an deeh ah nin ka nawh , ceuk nghox ca tix rheng glawm heue . Kawncau pa bung kaing an ah nin ka nawh , teei lai grawng ceuk maix mai nied ti tiiem daix yieh glawm heue .
+42016011	mawx		Mawh kheu nan phan pex ang kaux sijax , ka sinngao ceu pa ang rahsee , mawx sang tawx pex priex sinngao pa mawh pa meh ?
+42016012	mawx		Phan pex ang hoik kaux sijax ka cie pui tang kaux , mawx tak sang tawx cie tokaux pex , ka pex ?
+42017007	~		Phan pex koe siliex pa thai ma ang ah , pa liang yung ang ah , yam deeh hoek nawh khaing ma , hoek dom in mai ngawm ti sawm heue . Kadaux pex koe pa nghaox ah nin lie ?
+42017017	dee mawx		Yesux ah nin ka nawh , " Pa hoik deeh kieh singax koe kao kaux ang mawh lie ? Viang mawh nan kix dim kaux ot dee mawx ?
+42017018	~		Ang koe pa sang deeh hoek ti yaog yaw bwanson Siyiex , lheu khaing pui tang ceu in lie ? "
+42017020	lai mawx		Pharishie khankix hoek tix chawk ah nin , " Meung Siyiex tak sang hoek lai mawx ? " Nawh Cao pawk lox ah nin ka kix , " Meung Siyiex hoek ka daux pa chix yaox pui ang mawh heue .
+42017037	dee mawx		Kix chawk Nawh Cao ah nin , " Simiang eue , ceu in tak sang mawh ka dee mawx ? " Nawh Cao pawk lox ah nin ka kix , " Tokaux yum koe dee mawx ang ah klang preng tak sang khrawm tix tan heue . "
+42018018	yuh ka mawx		Cao mi pui awnju tix kaux hoek ti chawk Nawh Cao ah nin , " Sara cao gau pa mhawm eue , sonsang pon aux , ju leeing ju aux tak sang yuh ka mawx ? "
+42018019	~		Yesux pawk lox ah nin ka nawh , " Kheu maix lai kok Aux mawh , pa mhawm ? Lheu khaing Siyiex tix kaux khaing , tix kaux kawx ang mhawm heue .
+42018026	pui mawx		Kix pa mhong lox an chawk ah nin , " Phan mawh nan , pui mawx tak sang pon hoek krax taoh ? "
+42018036	yuh ka mawx		Kheu mhong nawh cub pui hun hu daux krax , nawh tom chawk grawng in mawh pa yuh ka mawx .
+42018041	patix		" Maix simie ti kieh Aux yuh patix son maix ? " Kaw an ah nin , " Simiang eue , kieh ngai aux chix yaox liak "
+42019007	~		Yam yaox pui , kix khawmuik salao ah nin , " Nawh hoik laig ti paung mai pui pa ting map heue . "
+42019023	yuh ka mawx		Phan mawh nan yuh ka mawx maix ang tawx mau cie aux ka nyiex dee deuh mau ? Yam deeh hoek aux , aux tak pon mau aux khawm rao heue .
+42019031	yuh ka mawx		Phan pui tix kaux kaux chawk pax , pax lai kah kawn la in yuh ka mawx ? Pax tak deeh ah nin , Simiang lo nawh heue . "
+42019033	yuh ka mawx		Yam kawn tak kah kiex kawn la an , cao la an khankix , chawk kiex ah nin , " Pax lai kah la in yuh ka mawx ? "
+42020002a	dee mawx		mai chawk ah nin ka Nawh Cao , " Krai ex mhong liak , Maix pon akhuang sibrawm ti yuh ceu in khankix dee mawx ? 
+42020002b	pui mawx		Pui mawx pa tawx akhuang sibrawm in ka Maix . "
+42020005a	~		Kix keud tau ah nin , 
+42020005b	patix		" Phan ex ah kaoh khaing raoma , Nawh Cao tak chawk ah nin , phan mawh nan yuh patix , pex ang yum rhawm ka Mose lie ?
+42020013	yuh ka mawx		Simiang sipeem plix siiet an ah nin , Aux tak sang yuh ka mawx ? Aux tak ploi kawn simex aux pa moh tix hu ka heue . Kix tee sang yungyi ka nawh pleue .
+42020015	yuh ka mawx		Kix taing vud nawh khaing sipeem plix siiet an mai teei nawh yum heue . Mawh kheu nan simiang sipeem plix siiet an , tak sang yuh ka mawx ka kix ?
+42020017	yuh ka mawx		Viang mawh nan , Nawh Cao jhak ka piang kix ah nin , " Phan mawh nan lox pa hoik tiiem ti deuh ah nin , Simaox pa hoik tik pui yuh nyiex , hoik yuh kieh mawh kaing ka daog , mawh pa yuh ka mawx ?
+42020023	~		Viang mawh nan Nawh Cao tawng grawng pa lhak lhiiem pa pie kix mai ah nin ka kix ,
+42020024a	pui mawx		" Jhi Aux yaox mau denari tix plah heue . Mau in koe riang mai lai pui mawx ? " Kix deeh ah nin , " Mawh riang mai lai simiang Kesa heue . "
+42020024b	~		
+42020033	yuh ka mawx		Yam hoek bawg yam deeh kaoh im , ka daux kix nawh tak mawh moeng kaw pa yuh ka mawx ? Kheu kix khawm aliah kaux hoik to moeng bun an heue . "
+42020041	yuh ka mawx		Yesux ah nin ka kix , " Kix ah Khrit mawh kawn Davit yuh ka mawx ?
+42020044	yuh ka mawx		Mawh kheu nan , phan Davit hoik kok Nawh mawh Siyiex , nawh chix mawh kawn Nawh yuh ka mawx ? "
+42021007a	lai mawx		Kix chawk Nawh Cao ah nin , " Phan mawh nan , ceu in khankix tak sang mawh lai mawx ? 
+42021007b	yuh ka mawx		Yam tak sang dex mawh ceu in khankix , tak koe mhai pa yuh ka mawx ? "
+42022009	dee mawx		Kiex chawk ka Nawh Cao , " Maix simie yiex cox khre dee mawx ? "
+42022011	dee mawx		mai ah nin ka cao nyiex an , Sara Cao Gau chawk ah nin ka maix , lawg son nyo maix , dee tak sang ih Aux Pasakha tau mai kawncau Aux khankix , koe dee mawx ?
+42022027	yuh ka mawx		Grawh grawng nawh , kaw pa yuh ka mawx nie lheu ting , mawh kaw pa ngawm ti sawm lie , phan ang mawh nan mawh kaw pa khan kheu lie ? Kaw pa ngawm ti sawm lheu ting ang mawh lie ? Viang mawh nan , Aux ot sinax pex awm kaw pa khan kheu heue .
+42022046	yuh ka mawx		Nawh Cao ah nin ka kix , " Pex laig it yuh ka mawx ? Kaoh mai rawg bwan , son ang pex sang laig ka daux pa nyaw glaw heue . "
+42022064	pui mawx		Kix lhop vien ka ngai Nawh Cao mai chawk Nawh ah nin , " Krai lox jhai ka ex liak , mawh pui mawx pa tap Maix ? "
+42022071	yuh ka mawx		Kix baox ah nin , " Ex kawn baox lo mhai rug yuh ka mawx ? Kheu tokaux ex hoik mhong lox khaing jheeh Nawh heue . "
+42023022a	patix		Nawh chawk ka kix loe bawg tix bawg ah nin , " Mawh kheu patix , 
+42023022b	yuh ka mawx		pui in hoik yuh pa caox pa yuh ka mawx ? Aux ang yaox grawng ceu pa khaw Nawh ti yum tix ceu kawx heue . Mawh kheu nan aux tak sang sivied Nawh mai ploi Nawh heue . "
+42023031	yuh ka mawx		Kheu phan kix yuh ceu in khankix ka khaox im khaox klai , tak sang yuh ka mawx ka khaox kroh ? "
+42024005	~		Yam kix lhat mai num gup ngai tix ka tiex , kiex ah nin ka kix , " Kheu pex lai sawg Kaw pa im ju , ka sinax pui yum ?
+42024017	yuh ka mawx		Nawh Cao chawk ah nin ka kiex , " Lox kum pax ka paox tix , yam hu pax krax , mawh ceu pa yuh ka mawx ? " Kiex yut ti kaog mai yuh awm pa voi rhawm tix heue .
+42024019	yuh ka mawx		Nawh Cao chawk kiex ah nin , " Grawh grawng ceu pa yuh ka mawx ? " Kiex deeh ah nin ka Nawh Cao , " Mawh grawh grawng Yesux , Pui Nazariet , pa mawh Cao jhai , pa ting sibrawm ka daux pa yuh mai ka daux gumlox , sivoe Siyiex mai kawn pui khawmuik heue .
+42024025	~		Nawh Cao ah nin ka kiex , " Pui pa daox mai pa sivix tix yum rhawm , ka lox khawmuik , pa hoik krai cao jhai khankix eue ,
+42024038a	yuh ka mawx		Nawh Cao baox ah nin ka kix , " Pex sung sang rhawm yuh ka mawx ? 
+42024038b	yuh ka mawx		Pex keud jee keud blaong daux rhawm tix yuh ka mawx ?
+43001019	mawx		In mawh mhai rug pa kham Yohan , yam ploi pui Yudax cao giex kaing li kix pui Lewix khankix hu khaing veng Yerusaliem ti sang chawk ka nawh , " Maix mawh mawx ? "
+43001021	yuh ka mawx		Kix baox chawk nawh , " Phan mawh nan maix mawh pui yuh ka mawx ? Maix mawh Eliyax lie ? " Nawh baox ah nin , " Aux ang mawh " " Maix mawh Cao jhai an lie ? " ? Nawh baox deeh pawk lox in , " Ang mawh heue . "
+43001022a	mawx		Kix baox ah nin ka nawh , " Maix mawh mawx ? Krai ka ex liak , sonsang koe ex lox ti sang krai ka pui pa ploi ex hoek . 
+43001022b	yuh ka mawx		Sang ah maix ka grawng tokaux tix yuh ka mawx ? "
+43001025	patix		Kix baox chawk ka nawh ah nin , " Phan maix ang mawh Cao Khrit , ang mawh Eliyax , ang mawh Cao jhai an , yuh patix maix lai cubcom pui ka rawm lie ? "
+43001038a	patix		Yesux deeh gi mai yaox kiex hawt khaix tix , Nawh ah nin , " Sawg pax patix ? " Kiex deeh ah nin ka Nawh Cao . 
+43001038b	dee mawx		" Rabi eue , ot Maix dee mawx ? "
+43001046	tix		Nasanilax baox chawk ah nin ka nawh , " Ceu pa mhawm chix lih ka daux veng Nazariet tix ceu ceu lie ? " Philipux baox ah nin ka nawh , " Hoek ti jhak heue . "
+43001048	yuh ka mawx		Nasanilax chawk ah nin ka Nawh Cao , " Maix tawng aux yuh ka mawx ? " Yesux deeh pawk lox ka nawh ah nin , " Ka ang Philipux nyang bax kok maix , yam ot maix greem khaox ruh , Aux hoik dawg yaox maix heue . "
+43002004	patix		Yesux deeh ah nin ka kiex , " Bun eue , Aux koe pa yuh mai pax ceu patix ? Bawg yam Aux ang nyang bax hoek "
+43002018a	~		
+43002018b	patix		Cao kaing pui Yudax khankix chawk ah nin ka Nawh Cao . " Pa yuh Maix ceu in khankix , Maix sang jhi ex yaox mhai pa daox am ceu patix ? "
+43003004	yuh ka mawx		Nikawdimux baox ah nin , " Pui pa riex ju sang deeh pon keh yuh ka mawx ? Nawh deeh chix laig ka daux vaig miex tix mai baox deeh chix keh kah lie
+43003009	yuh ka mawx		Nikawdimux baox pawk lox mai ah nin ka Nawh , " Ceu in khankix tak chix mawh yuh ka mawx ? "
+43003012	yuh ka mawx		Phan Aux hoik krai grawng ceu pa dex mai haktiex in pex ang yum rhawm kah , phan Aux krai grawng ceu pa dex mai meung raoma , pex sang chix yum rhawm kah yuh ka mawx ?
+43004009	~		Bun Samarix baox ah nin ka Nawh Cao , " Kheu Maix pa mawh pui Yudax chix mhaing ti nyaux rawm ka aux pa mawh bun Samarix lieh ? " Grawh grawng nawh , pui Yudax ang sax yuh paox pie mai pui Samarix .
+43004011	dee mawx		Bun an baox ah nin ka Nawh Cao , " Simiang eue , Maix ang koe ceu pa pug rawm , kheu rawm daux in kied raux tete , kheu nan Maix chix pon rawm im ju ka dee mawx ?
+43004027a	patix		Yam an kawncau Nawh deeh hoek mai daox deng kheu sikah Nawh mai bun an . Viang mawh nan tix kaux kawx ang chawk ka Nawh , " Maix sawg patix ? 
+43004027b	yuh ka mawx		Phan ang mawh nan Maix sikah mai bun an yuh ka mawx ? "
+43005012	pui mawx		Kix baox chawk ka nawh , " Mawh pui mawx pa nhie maix teei kraung it maix hu ? "
+43005044	yuh ka mawx		Pex chix yum rhawm yuh ka mawx ? Pex pa sawg ti pon min pakngai ka paox tix , tix kaux lai tix kaux pex ang sawg ti pon min pakngai ka Siyiex pa koe tix kaux khaing .
+43005047	yuh ka mawx		Viang mawh nan phan pex ang yum rhawm ka lox ceu pa tiiem Mose , pex tak sang chix yum rhawm ka lox Aux yuh ka mawx ? "
+43006005	dee mawx		Yesux yaog ti jhak yaox cub pui pa kied hun hoek ka Nawh Cao mai ah nin ka Philipux , " Sonsang yaox pui inkix ti ih Ex sang pon ti liag blah dee mawx ? "
+43006009	yuh ka mawx		" Kawn nyawm pa ot tin tix kaux , koe blah nghox ca pa lang sidax phwan lon mai kax iak ra mu , viang mawh nan son pui nie ding nie dod sang koe bwanson yuh ka mawx ? "
+43006025	yam mawx		Yam yaox kix Nawh Cao plak toi rawm nhawng , kix ah nin ka Nawh , " Rabi eue , Maix hoek tin yam mawx ? "
+43006028	yuh ka mawx		Mawh kheu nan kix tom chawk Nawh ah nin , " Ex tak lai yuh ka mawx , sonsang pon ex ti yuh kaing Siyiex ? "
+43006030a	patix		Mawh kheu nan kix tom baox ah nin ka Nawh , " Maix sang yuh ex yaox mhai pa daox am sonsang yum rhawrn ex ka Maix ceu patix ? 
+43006030b	patix		Maix sang yuh kaing ceu patix ?
+43006042	yuh ka mawx		Kix ah nin , " In mawh Yesux kawn Yosiep ang mawh lie ? Miex keeing Nawh , ex kawx tawng ang mawh lie ? Nawh ah , Aux mawh pa lih hoek khaing raoma , yuh ka mawx ? "
+43006052	yuh ka mawx		Kheu in pui Yudax khankix tix kaux lai tix kaux thung thiang paox ti ah nin , " Pui in sang chix tawx ex ih nex tix yuh ka mawx ? "
+43006060	pui mawx		Yam mhong kawncau Nawh khankix ka lox in , kix Pui hun ah nin , " Lox in mawh pa nu tete , pui mawx chix nghiet kah ? "
+43006062	yuh ka mawx		Phan pex yaox Kawn kawn pui deeh haok hu dee hoik ot Nawh phao ka , pex sang ce yuh ka mawx ?
+43006068	pui mawx		Simon Petrux pawk lox ah nin ka Nawh , " Simiang eue , ex tak sang hu ka pui mawx ? Maix koe gumlox ju leeing ju .
+43007011	dee mawx		Mawh kheu nan pui Yudax khankix sawg Nawh daux pawie mai chawk ah nin , " Ot Nawh dee mawx ? "
+43007015	yuh ka mawx		Pui Yudax khankix daox deng ka lox Nawh ah nin , " Kaw in ang gau lai kawx , Nawh chix tawng lai yuh ka mawx ? "
+43007019	yuh ka mawx		Mose hoik tawx lox lai beenli ka pex ang mawh lie ? Viang mawh nan pex ang hawt tiyuh awm lox lai beenli an tix kaux kawx . Pex lai sawg ti pah Aux yum yuh ka mawx ? "
+43007020	pui mawx		Cub pui hun an baox pawk lox ah nin , " Maix koe phicaox heue , pui mawx sawg ti pah Maix yum ? "
+43007023	~		Phan sang pat hak singaix twah , son ang sang yuh lox lai beenli pa tawx Mose laux , kheu cox Aux pui moi singaix twah pex song rhawm ka Aux lie ?
+43007035	dee mawx		Mawh kheu nan pui Yudax khankix tix kaux lai tix kaux ah nin ka paox tix , " Pui in sang hu dee mawx , son ang ex lai pon ti yaox Nawh ? Nawh sang hu ka pui pa hoik prung prang hu sinax pui Helasax , sidiex gau ka pui Helasax khankix lie ?
+43007036	patix		Lox pa ah Nawh nin , Pex tak sang sawg Aux , viang mawh nan pex ang lai yaox Aux dee ot Aux , pex ang pon ti hoek kah , sang ah Nawh ka patix ? "
+43007041	~		Tang kaux ah nin , " In mawh Khrit heue . " viang mawh nan , tix blah ah nin , " Khex sang lih hoek Cao Khrit khaing daux meung Galilie lie ?
+43007045	patix		Yam an pui cau khankix deeh hoek ka cao giex kaing li pa ting mai ka Pharishie khankix , kix chawk kix ah nin , " Yuh patix pex ang viex Nawh hoek ? "
+43007048	~		Simiang mai Pharishie khankix yum rhawm ka Nawh tix kaux kaux lie ?
+43007051	~		" Lai beenli ex chix prawng ca ka pui , ka sang ciied ti mhong lox nawh mai tawng grawng pa yuh nawh lie ? "
+43008005	yuh ka mawx		Daux lai beenli Mose nhie ex teei simaox dheem pui pa yuh nan yum . Viang mawh nan , Maix sang ah grawng nawh yuh ka mawx ? "
+43008010	dee mawx		Yam an Yesux yaog ti kaoh ang lai yaox pui tang kaux tix kaux kawx , yaox ngie bun an tix kaux khaing , Nawh Cao ah nin ka nawh , " Bun eue , pui pa deuh phimap piang maix ot dee mawx ? Pui tix kaux kawx ang prawng see maix lie ? "
+43008019	dee mawx		Kheu nan kix baox chawk Nawh Cao ah nin , " Keeing Maix ot dee mawx ? " Yesux baox pawk ah nin , " Pex ang tawng ka Aux , ka Keeing Aux kawx pex ang tawng . Phan pex tawng ka Aux , Keeing Aux kawx , pex tak sang tawng heue . "
+43008025a	mawx		Mawh kheu nan kix baox pawk lox ah nin ka Nawh Cao , " Maix mawh mawx ? 
+43008025b	~		" Yesux baox ah nin ka kix , " Aux mawh awm pa hoik krai Aux ka pex tom yam jah heue .
+43008033	yuh ka mawx		Kix ah nin ka Nawh Cao , " Ex mawh ru Abraham , ang ex sax yuh siliex ka pui tix kaux kawx . Maix lai ah , tak sang kieh pex lawd luan , yuh ka mawx ? "
+43008043	patix		Mawh kheu patix pex lai ang tawng lox Aux ? Mawh kheu ang pex chix nghiet lox Aux heue .
+43008046a	mawx		Ka daux pex mawh mawx pa pon jhawp pon krai grawng koe phimap Aux ? 
+43008046b	patix		Phan Aux krai lox pa mawh meh , yuh patix pex lai ang yum rhawm ka Aux ?
+43008053	mawx		Khex lheu ting Maix khaing keeing ex Abraham pa hoik yum lie ? Cao jhai khankix kawx hoik yum . Maix sang yuh tokaux Maix mawh mawx ? "
+43008057	~		Kheu nan Yudax khankix ah nin ka Nawh , " Pie ju Maix ang nyang bax koe tixphwan num . Maix khex hoik yaox Abraham lie ? "
+43009002	mawx		Kawncau Nawh khankix chawk Nawh ah nin , " Rabi eue , kaw in dug ngai kheu phimap mawx ? Kheu tokaux nawh lie ? Kheu miex keeing nawh lie ? "
+43009010	yuh ka mawx		Mawh kheu nan kix chawk nawh ah nin , " Phan mawh nan ngai maix hoik baoh yuh ka mawx ? "
+43009012	dee mawx		Kix chawk nawh ah nin , " Ot Nawh dee mawx ? " Nawh deeh ah nin , " Aux ang tawng . "
+43009016	yuh ka mawx		Mawh kheu nan Pharishie tix blah ah nin , " Pui an ang mawh pa hoek khaing Siyiex , kheu ang Nawh twah klaung singaix twah " Pui tang kaux ah nin , " Pui caox chix yuh mhai pa daox am yuh nin yuh ka mawx ? " Kheu nan kix tix kaux lai tix kaux tang lox siyox moing ang khaw paox tix .
+43009017	mawx		Mawh kheu nan kix deeh baox chawk pui pa hoik dug ngai an ah nin , " Kheu cox Nawh ngai maix blah maix sang ah ka mawx grawng Nawh ? " Nawh pawk ah nin , " Nawh mawh Cao jhai heue . "
+43009019	yuh ka mawx		chawk kiex ah nin , " In mawh kawn pax , pa ah pax , dug ngai tom yam keh lie ? Phan mawh nan yam in nawh lai chix yaox yuh ka mawx ? "
+43009026a	patix		Kix baox chawk nawh ah nin , " Nawh yuh patix ka maix ? 
+43009026b	yuh ka mawx		Nawh cox ngai maix blah yuh ka mawx ? "
+43009027	patix		Nawh pawk lox ka kix ah nin , " Pie yam in aux hoik krai ka pex , pex ang nghiet . Mawh kheu patix pex mie ti baox deeh mhong ? Viang mawh pex kawx simie ti yuh kawncau Nawh lie ? "
+43009034	~		Kix baox pawk lox mai ah nin ka nawh , " Maix mawh pa keh ka daux phimap maix gau ka yix lie ? " Kix grheu ti tik nawh khaing nyiex sidiex heue .
+43009036	mawx		Nawh baox pawk lox mai chawk ah nin , " Simiang eue , sonsang yum rhawm aux ka Nawh , Nawh mawh mawx ? "
+43010020	yuh ka mawx		Kix Pui hun ah nin , " Nawh koe phi caox mai yhot heue , pex lai nghiet lox Nawh yuh ka mawx ? "
+43010021	~		Tang kaux ah nin , " Lox Nawh in ang mawh lox pui pa laig phi caox . Phi caox khex chix cox pui dug ngai blah ngai lie ? "
+43010024	miex grheung		Mawh kheu nan pui Yudax khankix hoek ti ot vung viang Nawh Cao mai ah nin ka Nawh , " Pa ang Maix sang kieh ex tawng grawng Maix sidawng tak sang koe miex grheung ? Phan Maix mawh Cao Khrit krai ka ex sidawng heue . "
+43010032	patix		Yesux baox pawk lox mai ah nin ka kix , " Aux hoik yuh pex yaox kaing pa mhawm pa kaoh khaing Keeing Aux kied nie tete . Ka daux kaing pa yuh Aux khankix an , mawh kheu grawh grawng kaing patix , pex tom sang teei simaox dheem ka Aux ? "
+43010036	~		Pex sang ah ka grawng Kaw pa hoik kieh Siyiex nawh singax mai ploi hoek piang haktiex , Maix salao ka Siyiex , kheu hoik krai Aux , Aux mawh Kawn Siyiex , lie ?
+43011034	dee mawx		Chawk ah nin , " Pex sipaung nawh dee mawx ? " Kix deeh ah nin ka Nawh , " Simiang eue , hoek ti jhak heue . "
+43011047	yuh ka mawx		Mawh kheu nan cao giex kaing li mai Pharishie khankix , khrawm paox tix kum ah nin , " Ex sang yuh ka mawx son Kaw in , mhai daox am yuh Nawh kied nie heue .
+43011056	yuh ka mawx		Mawh kheu nan kix tom sawg Yesux yam cung kix ka daux nyiex bwan tix kaux lai tix kaux chawk ka paox ti ah nin , " Pex ce yuh ka mawx ? Nawh sang hoek ka daux pawie in lie ? "
+43012005	~		" Khex ang coh sidah bhawng in loe yieh denari tawx ka pui pa hot sia lie ? "
+43012027	ka mawx		Bawg yam in Aux koe krax khi rhawm Aux tak sang ah ka mawx ? Sang ah , Keeing eue . Taoh Aux khaing bawg yam nari in liak , lie ? Viang mawh nan pa hoik hoek Aux mawh son bawg yam nari in heue .
+43012034a	~		Pui hun khankix tom baox pawk lox ah nin ka Nawh Cao , " Ex mhong khaing daux lai beenli grawng tak sang ot Cao Khrit jheung jheung . Phan mawh nan , Maix lai ah tak sang yaog Kawn kawn pui ? 
+43012034b	mawx		Kawn kawn pui mawh mawx ? "
+43012038a	pui mawx		Kheu nan lox pa krai cao jhai Isayax pa ah nin hoik naog , " Simiang eue , pui mawx hoik yum rhawm ka lox sidiex gau ex ? 
+43012038b	pui mawx		Simiang hoik plak jhi sibrawm Nawh ka pui mawx ? "
+43013025	pui mawx		Nawh deeh neung piang naok Yesux chawk Nawh ah nin , " Simiang eue , mawh pui mawx ? "
+43013036	dee mawx		Simon Petrux baox chawk Nawh Cao ah nin , " Simiang eue , Maix sang hu dee mawx ? " Yesux pawk lox ah nin , " Dee sang hu Aux maix ang pon ti hawt Aux yam in , viang mawh nan maix tak sang pon ti hawt Aux khaix in heue . "
+43013037	patix		Petrux baox chawk ah nin ka Nawh Cao , " Simiang eue , mawh kheu patix aux ang pon ti hawt Maix yam in ? Aux koe rhawm ti sang tik sang deuh ju tix yum son Maix heue . "
+43014002	~		Daux nyiex Keeing Aux koe lawg haoh hun , phan ang mawh nan Aux tak hoik krai ka pex , mawh kheu sang hu cox Aux dee ot son pex .
+43014005	yuh ka mawx		Thomax baox ah nin ka Nawh Cao , " Simiang eue , ex ang tawng dee sang hu Maix , ex khex chix tawng krax yuh ka mawx ? "
+43014009	yuh ka mawx		Yesux baox ah nin ka nawh , " Philipux eue , Aux hoik ot mai pex nie grheung nie grhaoh maix khex ang tawng Aux lie ? Pui pa hoik yaox ka Aux , hoik yaox ka Keeing Cao , yuh ka mawx maix lai ah , Jhi ex yaox Keeing Cao ?
+43014022	yuh ka mawx		Yudax , ( Pa ang mawh Yudax Isakariut ) chawk ah nin ka Nawh Cao , " Simiang eue , Maix jhi yix yaox tokaux tix Maix ang jhi haktiex yaox yuh ka mawx ? "
+43016005	dee mawx		Viang mawh nan yam in Aux sang hu ka Kaw pa hoik ploi Aux hoek , pex tix kaux kawx ang chawk Aux , Maix sang hu dee mawx ?
+43016017	ka mawx		Mawh kheu nan kawncau Nawh tix blah tix kaux lai tix kaux ah nin ka paox tix , " Pa ah Nawh , Khaix in rheung ti vud khaing pex ang lai yaox Aux khaix in rheung ti vud khaing pex tak sang baox deeh yaox Aux tix bawg pa ah nin , Mawh kheu hu Aux ka Keeing Cao , sang ah ka mawx ? "
+43016018	ka mawx		Mawh kheu nan kix baox ah nin , " Pa ah Nawh , Khaix in rheung ti vud khaing , Nawh sang ah ka mawx ? Ex ang tawng lox pa krai Nawh heue . "
+43018004	pui mawx		Mawh kheu hoik tawng Yesux grawng ceu pa tak sang hoek ka piang Nawh khawmuik , Nawh Cao tom hu chawk ka kix ah nin , " Sawg pex pui mawx ? "
+43018007	pui mawx		Mawh kheu nan Nawh Cao baox deeh chawk ka kix , " Sawg pex pui mawx ? " kix ah nin , " Sawg ka Yesux pui veng Nazariet heue . "
+43018011	~		Mawh kheu nan Yesux ah nin ka Petrux , " Teei vaid maix deeh sau ka daux phak tix . Kawk pa hoik tawx Keeing Cao ka Aux , Aux tak ang lai nyaux kah lie ? "
+43018021	yuh ka mawx		Maix lai chawk ka Aux yuh ka mawx ? Chawk ka kix pa hoik mhong ka Aux , grawng pa hoik krai Aux patix ka kix , kix tawng grawng ceu pa hoik krai Aux khankix heue . "
+43018023	patix		Yesux pawk lox ah nin , " Phan Aux hoik ah pa caox pa ang khaw , tawx mhai rug grawh grawng pa caox pa ang khaw an , viang mawh nan phan Aux hoik krai ceu pa mhawm , yuh patix maix lai simang Aux ? "
+43018029	patix		Mawh kheu nan Pilat lih hu ka kix chawk ah nin , " Pex deuh phimap ceu patix ka Pui in ? "
+43018035	patix		Pilat baox pawk lox ah nin , " Aux mawh pui Yudax lie ? Pui ceu Maix cao giex kaing li pa ting khankix , hoik tawx Maix ka aux . Maix hoik yuh ceu patix ? "
+43018038	patix		Pilat baox chawk ah nin ka Nawh Cao , " Pa mawh pa meh mawh patix ? " Khaix hoik ah nawh nin , nawh deeh lih hu ka pui Yudax khankix tix bawg ah nin ka kix , " Aux ang yaox pa lud ka Kaw in tix ceu kawx .
+43019009	dee mawx		Nawh deeh laig daux nyiex haw chawk Yesux ah nin , " Maix kaoh khaing dee mawx ? " Viang mawh nan Yesux ang pawk lox tix gum kawx heue .
+43019015	~		Mawh kheu nan kix tom kok yo ah nin , " Teei ti tik Nawh . Teei ti tik Nawh . Tawk Nawh piang khaox lhak heue . " Pilat baox ah nin ka kix , " Aux tak sang teei ti tawk Simiang pex piang khaox lhak lie ? " Cao giex kaing li pa ting khankix pawk lox ah nin , " Lheu khaing simiang Kiesa ex ang lai koe simiang tix kaux kawx heue . "
+43020013	patix		Kiex chawk nawh ah nin , " Bun eue , yiiem maix kheu patix ? " Nawh deeh ah nin ka kiex , " Mawh kheu hoik teei kix Simiang aux , ang aux tawng dee hoik een kix Nawh heue . "
+43020015a	patix		Yesux chawk ah nin ka nawh , " Bun eue , yiiem maix kheu patix ? 
+43020015b	pui mawx		Sawg maix pui mawx ? " Nawh ce Nawh mawh kaw pa pau sipeem pawk lox ah nin ka Nawh Cao , " Simiang eue , phan Maix hoik teei Nawh hu , krai aux mhong dee een maix Nawh liak aux tak sang teei ti viex Nawh hu heue . "
+43021012	mawx		Yesux ah nin ka kix , " Hoek ti ih priex ngawb heue . " Kawncau khankix tix kaux kawx ang pon ti chawk Nawh , " Maix mawh mawx ? " Kheu hoik tawng kix grawng mawh Nawh Simiang heue .
+43021020	mawx		Petrux deeh gi ti jhak plak khaix mai yaox kawncau pa moh Yesux , hawt hoek khaix kiex , nawh mawh kaw pa neung ka naok Yesux yam ih kix priex bo yam an nhaox chawk ah nin , " Kaw pa sang tik sang tawx Maix mawh mawx ? "
+43021021	yuh ka mawx		Yam yaox Petrux ka nawh , nawh chawk ah nin ka Yesux , " Simiang eue , grawh grawng pui in sang yuh ka mawx ? "
+43021022	yuh ka mawx		Yesux baox ah nin ka nawh , " Phan Aux sang kieh nawh ot tom deeh hoek Aux sax , sang dex dawd mai maix yuh ka mawx ? Maix kienie hawt khaix Aux heue . "
+43021023	yuh ka mawx		Kheu an lox pa ah , " Kawn cau an tak ang lai yum , " tah hu ka puxaik khankix . Viang mawh nan Yesux ang ah , " Nawh tak ang lai yum . " Nawh ah nin , " Phan Aux sang kieh nawh ot tom deeh hoek Aux sax , sang dex dawd mai maix yuh ka mawx ? "
+44001011	yuh ka mawx		pa ah nin , " Pui Galilie khankix eue , pex cung ti jhak ka raoma yuh ka mawx ? Yesux in , pa hoik rieb ti teei haok ka daux meung raoma khaing pex , tak sang deeh hoek , awm yaox pex Nawh haok hu ka daux meung raoma heue . "
+44002008	yuh ka mawx		Phan mawh nan , ex ku kaux daux pui pon mhong lox tokaux tix , dee hoik keh ex yuh ka mawx ?
+44002012	yuh ka mawx		Kix khawmuik kied daox deng ka mai ah nin ka paox tix , " Dee bleeh grawng in mawh pa yuh ka mawx ? "
+44002037	yuh ka mawx		Yam mhong kix lox an , dung ka rhawm kix mai kix chawk ah nin ka Petrux mai kawncau pa ting tang kaux khankix , " Puxaik khankix eue , ex tak sang yuh ka mawx ? "
+44003012a	yuh ka mawx		Yam yaox Petrux pa yuh nan , nawh deeh ah nin ka kix , " Pex pa mawh pui Isarelax eue , pex lai daox deng ka pui in yuh ka mawx ? 
+44003012b	pa tix		Yuh pa tix ? pex lai jawg ti jeung ngai pex ka yiex , awm pa hoik mawh sibrawm mai pa rahsee yiex , pa hoik kieh nawh deeh chix hu ka caong tix ,
+44004007a	~		
+44004007b	yuh ka mawx		Yam hoik deuh kix kiex ka sinax , kix chawk kiex ah nin , " Pax teei sibrawm pa yuh ka mawx , phan ang mawh nan , 
+44004007c	pui mawx		pax hoik yuh ceu in ka daux ceu kaux pui mawx ? "
+44004016	yuh ka mawx		Ah nin , " Ex tak sang yuh ka mawx ka pui in kiex ? Mawh kheu kiex hoik yuh mhai pa daox deng pa koe cee mai hoik sidawng ka pui pa ot ka daux veng Yerusaliem khawmuik mai ex ang pon thiang ka grawng an heue .
+44004025a	yuh ka mawx		Kaw pa hoik krai ka daux Khuan Singax Singeh , ka jheeh keeing ex Davit pa mawh kawncau Maix ah nin , Pui tang ceu cong rhawm ka grawng pa yuh ka mawx ? 
+44004025b	yuh ka mawx		Ceu pui khankix nieb keud grawng pa giex going yuh ka mawx ?
+44005003	yuh ka mawx		Viang mawh nan Petrux ah nin , " Ananix eue , yuh ka mawx maix lai kieh Satan naog ka rhawm maix , sonsang pie ka Khuan Singax Singeh mai mox ti een ngawh haktiex an tix blah ?
+44005004	~		Yam kawn koe haktiex an mawh cie maix ang mawh lie ? Khaix hoik coh haktiex an maix sang yuh ka mawx ka ngawh an koe ka maix ang mawh lie ? Kheu maix lai keud ti yuh ceu in ka daux rhawm maix ? Maix hoik pie ka kawn pui ang mawh , viang mawh nan , hoik pie ka Siyiex heue . "
+44005009	~		Petrux baox chawk ah nin ka nawh , " Kheu pax lai kum ti mawh rhawm tix mu , sonsang cheuk sang nyaw ka Khuan Siyiex lie ? Jhak heue , caong kix pa hoik sipaung mex maix ot ka siviex mai kix tak sang klawm maix lih heue .
+44007026	yuh ka mawx		Ngaix pasax nawh hoek mai yaox pui pa simah ka paox tix mai nawh sang kieh raw kieh yiien nhim , ah nin , pui eue , pax mawh puxaik , pax lai yuh pa ang khaw ka paox tix , tix kaux lai tix kaux yuh ka mawx ?
+44007027	mawx		Viang mawh nan kaw pa yuh pa ang khaw ka paox plawg nawh an , nyheen nawh yoi , ah nin , mawx pa kieh maix mawh cao giex kaing mai cao prawng ca piang ex ?
+44007035	mawx		Mose kaw pa ang kix rieb ti teei ah nin , mawx pa kieh maix mawh cao giex kaing mai cao prawng ca piang ex ? Kaw an Siyiex hoik kieh mawh khawm cao giex kaing mai cao pa taoh , ka tawm taix kawncau Siyiex , pa hoik lih bleeh ka nawh ka daux yeem khaox an heue .
+44007049a	yuh ka mawx		Raoma mawh dang ngeung Aux mai haktiex mawh ngot dee deuh Aux caong tix heue . Siyiex ah nin , tak sang sum nyiex pa yuh ka mawx son Aux ? 
+44007049b	yuh ka mawx		Phan ang mawh nan , Aux tak koe dee laux lee pa yuh ka mawx ?
+44007052	yuh ka mawx		Hoik koe cao jhai kaw pa yuh ka mawx , pa ang tax du pex tuktiak kah ? Kix pah kix yum pa jhi sivoe ka sang hoek . Kaw pa rahsee heue . Kaw pa pex hoik lih mawh pui pa tik vud mai pui pa teei yum heue .
+44008031	yuh ka mawx		Kaw an deeh ah nin , " Phan ang koe cao pa jhi aux yaox , aux chix tawng yuh ka mawx ? " Nawh khyox khaw ka Philipux , nhie nawh haok ngawm tau mai tix heue .
+44008033	mawx		Ka daux krax tiem rhawm Nawh , rud ti teei pa prawng ca , ceu pa mawh meh khaing Nawh heue . Mawh mawx pa sang krai grawng ju Nawh ? Mawh kheu hoik teei ju Nawh khaing haktiex heue . "
+44008034	pui mawx		Pui sieh an deeh chawk Philipux ah nin , " Aux khyox khaw ti chawk maix , cao jhai in krai grawng pui mawx ? Krai grawng tokaux tix lie , phan ang mawh nan , krai grawng tang kaux lie ?
+44008036	yuh ka mawx		Yam kawn lawng kix krax kix hoek ka dee koe rawm tix dah mai pui sieh an ah nin , rawm koe tin , mawh pa yuh ka mawx pa sang kieh tie aux khaing pa cubcom ? "
+44009004	yuh ka mawx		Nawh goh gup piang tiex mai mhong lox pa ah nin ka nawh , " Sawlux eue , Sawlux eue , maix lai tuktiak Aux yuh ka mawx ? "
+44009005	mawx		Nawh chawk ah nin , " Simiang eue , Maix mawh mawx ? " Nawh Cao deeh ah nin , " Aux mawh Yesux pa tuktieak maix kah heue .
+44009006	yuh ka mawx		Kaoh mai laig ka daux veng mai tak sang krai ka maix grawng maix tak lai yuh pa yuh ka mawx . "
+44010004	patix		Nawh lhat ka , jeung ngai tix piang kawncau Siyiex an ah nin , " Mawh patix , Simiang eue ? " kawncau Siyiex an ah nin ka nawh , " Ceu pa rawg maix bwan mai ceu pa tan maix , hoik haok , sonsang mawh ceu pa doh keud , ka sivoe Siyiex heue .
+44010021	yuh ka mawx		Petrux lih hu ka pui khankix ah nin , " Jhak heue , aux mawh kaw pa sawg pex , mawh kheu nan pex hoek kheu grawng pa yuh ka mawx ?
+44010029	yuh ka mawx		Mawh kheu in yam ploi ti kok aux , aux ang thiang mai hoek heue . Mawh kheu nan aux tom chawk pex , pex ploi ti kok aux kheu keud pex yuh ka mawx ? "
+44010047	pui mawx		" Kaux pui mawx sang pon sidien rawm , son ang pon ti tawx krax cubcom ka pui inkix , pa hoik pon Khuan Singax Singeh awm hoik pon ex ? "
+44011017a	~		Mawh kheu nan phan Siyiex hoik tawx totaix ka kix , awm hoik tawx Nawh ka ex , yam yum rhawm ex ka Simiang Yesux Khrit , 
+44011017b	yuh ka mawx		aux mawh pui pa yuh ka mawx , pa sang pon tieb tie ka Siyiex ? "
+44012018	yuh ka mawx		Yam hoik bah riang praix , pui naing khankix lawh maw ceeix ngie ang mawh , grawng hoik mawh pa yuh ka mawx ka Petrux .
+44013025	yuh ka mawx		Yam kawn tak yuh Yohan sonsang naog pa yuh tix , nawh ah nin , Pex ce aux mawh pa yuh ka mawx ? Aux ang mawh Kaw an . Viang mawh nan jhak heue , khaix aux tak sang hoek tix Kaux , pie maox kiep caong Nawh ang aux keung ti kah heue .
+44014015	yuh ka mawx		ah nin , " Pui khankix eue , pex lai yuh ceu inkix yuh ka mawx ? Yiex kawx mawh kawn pui , pa koe ceu pa chix keud awm pex mai viex lox gaux rhawm hoek ka pex , sonsang deeh tieh pex khaing ceu pa giex going inkix , ka Siyiex pa im ju , Kaw pa hoik yuh raoma mai haktiex mai rawm sigrit sigra mai can pa koe ka daux kix khawmuik heue .
+44015010	yuh ka mawx		Mawh kheu nan , yam in , pex lai cheuk ti yaox Siyiex , sonsang sau pex iak piang ngawg kawncau mau soi khankix , pa ang ex mai tax du ex pon kham ti fak yuh ka mawx ?
+44016030	yuh ka mawx		Nawh viex kiex lih plak praix mai chawk ah nin , " Simiang eue , aux tak sang yuh ka mawx sonsang hoek krax taoh ? "
+44017018	yuh ka mawx		Pui Epikurux mai khawm pui Satawek , pa mawh pui ting pingnya cuyi ka grawng been tix blah cha ka Pawlux heue . Tix blah ah nin , " Pui caung haoh jheeh in , sang ah pa yuh ka mawx ? " Tang kaux tix blah ah , " Nawh awm pui pa sang sidiex gau grawng siyiex tang praix tang meung heue . " Mawh kheu Pawlux sidiex gau grawng Yesux mai krax deeh kaoh im , kix tom ah nan heue .
+44017019	~		Kix teei nawh mai viex nawh hoek ka gawng Are ah nin , " Ex pon ti tawng grawng lox gau pa khraox pa sidiex maix liak lie ?
+44019003	yuh ka mawx		Nawh baox chawk ah nin , " Phan mawh nan pex cubcom ka pa yuh ka mawx ? " Kix deeh ah nin , " Ka krax cubcom Yohan heue . "
+44019015	mawx		Phicaox deeh pawk lox ah nin ka kix , " Yesux aux uik tawng mai Pawlux kawx aux tawng mhawm mhawm , viang mawh nan pex mawh mawx ? "
+44019035	pui mawx		Cao tiiem lai veng an yam hoik kieh nawh cub pui khawmuik yiien yawg tix , nawh ah nin , " Pui veng Efesux eue , koe kaux pui mawx pa ang tawng grawng veng pui Efesux in , mawh cao pa priex nyiex bwan Atemi pa ting lhaong mai riang grang pa hoik cod khaing Cusa ?
+44021013a	~		Yam an Pawlux deeh pawk ah nin , 
+44021013b	~		" Kheu ex lai yiiem mai kieh rhawm aux laux ka ? Mawh kheu aux hoik rien ti pon kham geu pa phyawk ngie ang mawh , viang mawh phan tak lai yum son ceu kaux Simiang Yesux ka veng Yerusaliem kawx pon tix heue . "
+44021022	yuh ka mawx		Mawh kheu in khaw ti yuh ka mawx ? Kix tee sang mhong grawng hoek maix tete heue .
+44021033a	mawx		Yam cao giex kaing naing pa ting an hoek dex , nawh giex Pawlux mai tawx lox sonsang phyawk nawh ka ceng ra nyaing mai chawk ah nin , " Kaw in mawh mawx ? 
+44021033b	yuh ka mawx		mai nawh hoik yuh pa yuh ka mawx ? "
+44022007	yuh ka mawx		Aux goh gup piang tiex mai mhong lox pa ah nin ka aux , Sawlux eue , Sawlux eue , maix lai tuktiak Aux yuh ka mawx ?
+44022008	mawx		Aux deeh chawk ah nin , Simiang eue , Maix mawh mawx ? Nawh deeh ah nin ka aux , Aux mawh Yesux pui veng Nazariet , pa tuktiak maix kah heue .
+44022010	yuh ka mawx		Aux deeh chawk ah nin , Simiang eue , aux tak lai yuh ka mawx ? Simiang deeh ah nin ka aux , " Kaoh mai laig ka daux veng Damase mai tak sang krai grawng kuceu ka maix dee an , pa hoik ciak ti deuh sonsang yuh maix heue . "
+44022016	yuh ka mawx		Yam in maix kawn gla yuh ka mawx ? Kaoh , kok ka ceu kaux Nawh mai cubcom ka daux rawm mai sigrhah phimap maix luan heue .
+44022026	yuh ka mawx		Yam mhong cao giex kaing naing an lox an , nawh hu ka cao giex kaing naing pa ting mai krai ka nawh ah nin , " Maix dex sang yuh pa yuh ka mawx ? " Mawh kheu pui in mawh pui Romax heue .
+44023003	~		Yam an Pawlux ah nin ka nawh , " Siyiex tak sang lah ka maix , pa awm ding pa kraix simaox ceed eue maix ngawm sonsang prawng aux hawt lox lai beenli mai nhie pui lah aux ka pa ang khaw mai been lie ? "
+44023009	yuh ka mawx		Yam an lih mawh krax lawh maw pa ting mai pui tiiem lai plak Pharishie tix blah , kaoh cung mai riex thiang ah nin , " Ex ang yaox pa caox ka daux pui in ceeix kawx , viang mawh khuan phan ang mawh nan kawncau Siyiex hoik sikah mai nawh kawx , mawh pa yuh ka mawx ? "
+44023019	yuh ka mawx		Cao giex kaing naing pa ting an teei taix nawh mai hu dee ang pui ot mai chawk nawh nong nong ah nin , " Ceu pa koe maix ti sang krai ka aux , mawh pa yuh ka mawx ? "
+44026008	~		Kheu pex lai keud ang tau ti chix mawh , phan Siyiex kieh pui yum deeh kaoh im ?
+44026014	yuh ka mawx		Khaix hoik goh gup yix ka piang tiex khawmuik , aux mhong lox pa ah nin ka aux daux lox Hebrie , Sawlux eue , Sawlux eue , maix lai tuktiak Aux yuh ka mawx ? Pa thip ka khaox lawm toh , mawh pa kin nu son maix heue .
+44026015	mawx		Aux deeh ah nin , Simiang eue , Maix mawh mawx ? Simiang deeh ah nin , Aux mawh Yesux pa tuktiak maix kah heue .
+45002017	~		Phan maix kok tokaux tix mawh pui Yudax mai een rhawm tix ka lox lai beenli mai yaw rhang di ka daux Siyiex ,
+45002021	~		Mawh kheu nan maix pa gau ka pui tang kaux , ang maix gau ka tokaux tix tiru lie ? Maix pa sidiex gau nhie pui paw briex , tokaux maix lai briex lie ?
+45002028	~		Grawh grawng nawh pui pa mawh pui Yudax plak praix , ang tie mawh pui Yudax tete , viang pa pat hak ka nex nham plak praix kawx , ang tie mawh pa pat hak tete ,
+45003001a	yuh ka mawx		Phan mawh nan pui Yudax chix nie lheu koe bwanson yuh ka mawx ? 
+45003001b	yuh ka mawx		Phan ang mawh nan pa pat hak koe bwanson yuh ka mawx ?
+45003003	yuh ka mawx		Viang pui tix blah ang yum rhawm kawx , khex sang yuh ka mawx ? Krax pa ang kix yum rhawm , sang chix laux yuh ceu pa kaux sijax Siyiex lie ?
+45003005	yuh ka mawx		Viang mawh nan phan pa ang rahsee ex , kieh pa rahsee Siyiex sidawng , ex sang ah ka mawx ? Yam tawx Siyiex pa song rhawm pa ciyang Nawh ang rahsee lie ? Aux ah hawt rhawm pui heue .
+45003006	yuh ka mawx		Ang doh mawh nan . Grawh grawng nawh , phan mawh nan Siyiex tak chix prawng ca pui haktiex yuh ka mawx ?
+45003007a	~		Viang mawh nan phan pa kaux sijax Siyiex , nie lheu ting min plakngai , kheu pa laux sijax aux , 
+45003007b	yuh ka mawx		lai kawn prawng ca aux awm pui pa koe phimap yuh ka mawx ?
+45003008	~		Kheu ang ah , awm pui tix blah nieb ah grawng ex mai dhua ex ah " Kieh ex yuh ceu pa caox , sonsang lih hoek ceu pa mhawm ? " Pa ciyang ka pui pa yuh nan khaw heue .
+45003009	yuh ka mawx		Phan mawh nan yuh ka mawx ? Ex lheu mhawm khaing kix lie ? Ang doh lheu mhawm ceeix kawx heue . Grawh grawng nawh ex hoik ah grawng pui Yudax mai khawm pui Helasax , mawh pa ot greem phimap khawmuik ,
+45003027a	dee mawx		Phan mawh nan grawng pa yaw rangdi koe dee mawx ? Hoik nyeep kieh ot plak praix heue . 
+45003027b	yuh ka mawx		Hoik mawh kheu beenli pa yuh ka mawx ? Kheu krax twah klaung lie ? Ang mawh . Viang mawh nan hoik mawh kheu beenli krax yum rhawm heue .
+45003027c	~		
+45004001	patix		Phan mawh nan ex sang ah ka mawh grawng Abraham pa mawh tax du ex hawt plak nex nham , hoik pon nawh bwanson patix ?
+45004003	ka mawx		Grawh grawng nawh Phuk lai sigang khri ah ka mawx ? " Abraham hoik yum rhawm ka Siyiex mai hoik sawn mawh pa rahsee son nawh heue . "
+45004010	~		Phan mawh nan hoik sawn mawh khaix hoik pat hak nawh lie ? Ka sang pat hak lie ? Ang lai mawh khaix hoik pat hak , viang mawh nan hoik mawh tom ka sang pat hak heue .
+45005010	~		Grawh grawng nawh , yam kawn mawh ex pui koeng , hoik kieh ex deeh khaw paox tix ka Siyiex , kheu pa yum Kawn Nawh Cao , kheu hoik deeh khaw caw ex paox tix , ex tak nie lheu hoek krax taoh kheu pa im ju Nawh .
+45005021	~		awm hoik kwang hoik giex phimap kaing ka daux krax yum , viang bwanson kawx , sang pon kwang pon giex kaing kheu pa rahsee , tom lih pon ju leeing ju kheu Simiang ex Yesux Khrit heue .
+45006001	ka mawx		Phan mawh nan ex sang ah ka mawx ? Ex kawn ca sang ot ka daux phimap , sonsang kieh nie lheu ting bwanson lie ?
+45006002	yuh ka mawx		Ang doh mawh nan . Ex pa hoik yum ka phimap , ex kawn baox chix im ka daux phimap yuh ka mawx ?
+45006015	yuh ka mawx		Yuh ka mawx ? Kheu ang ex ot greem lox lai beenli , viang mawh nan kheu ot greem bwanson , ex tak sang yuh phimap lie ? Ang doh mawh nan .
+45006021	yuh ka mawx		Pex hoik koe plix pa yuh ka mawx ka bawg yam an , ka daux ceu pa kaig tua pex kah yam in ? Grawh grawng nawh dee sidah ceu an khankix mawh krax yum heue .
+45007007	ka mawx		Phan mawh nan , ex sang ah ka mawx ? Sang ah , lox lai beenli mawh phimap lie ? Ang doh mawh nan . Viang mawh nan , aux ang lai tawng ka phimap phan ang mawh kheu lox lai beenli , grawh grawng nawh aux ang lai tawng ceu pa ghoing , phan lox lai beenli ang nyang ah , " Maix paw vi ghoing heue . "
+45007024	mawx		Aux mawh pui pa nie lang teung kha rhawm heue . Mawx pa sang taoh aux khaing tokaux pa dex mai krax yum in ?
+45008024	yuh ka mawx		Ex hoek krax taoh ka daux pa keud pot jun pot heue . Viang mawh nan pa keud pot jun pot , phan hoik yaox , ang lai baox mawh pa sang keud pot jun pot heue . Ceu pa hoik yaox pui , nawh lai baox keud pot jun pot yuh ka mawx ?
+45008031a	ka mawx		Phan mawh nan ex sang ah ka mawx ka grawng ceu in khankix ? 
+45008031b	mawx		Phan Siyiex ot plak ex , mawx pa sang ot tang plak ti yuh ka ex ?
+45008032	~		Kaw pa ang deuh pie ka Kawn tix , viang mawh nan hoik tawx Nawh son ex khawmuik , Nawh tak ang yuh bwanson ti tawx giex ka ex , kuceu khawmuik tau mai Nawh lie ?
+45008033	mawx		Mawx pa sang chix deuh phimap ka pui pa hoik laug Siyiex ti teei ? Mawh Siyiex pa kieh rahsee heue .
+45008034	mawx		Mawh mawx pa sang prawng ca ti deuh phimap ? Mawh Cao Khrit pa hoik yum , mawh heue , nie lheu mawh pa hoik deeh kaoh im khaing krax yum mai pa ot plak taix khawn dawm Siyiex mai pa khyox khaw son ex heue .
+45008035	mawx		Mawh mawx pa sang gwieh ex khaing krax moh krax rhawm Cao Khrit ? Mawh pa kha rhawm , phan ang mawh nan pa khi rhawm , phan ang mawh nan pa tuktiak , phan ang mawh nan pa sibhawm siya , phan ang mawh nan pa ot kakaong , phan ang mawh nan krax caox krax laux , phan ang mawh nan mawh vaid lie ?
+45009014	ka mawx		Phan mawh nan ex sang ah ka mawx ? Khex koe pa ang rahsee mai Siyiex lie ? Ang doh mawh nan .
+45009019a	~		Phan mawh nan maix tak ah nin ka aux , " Kheu Nawh Cao kawn baox deuh phimap ? 
+45009019b	pui mawx		Grawh grawng nawh kaux pui mawx chix tiebtie ka alo Nawh Cao ? "
+45009020a	mawx		Pui pa deeh pawk lox thiang ka Siyiex , " Siyiex eue , maix mawh mawx ? " 
+45009020b	~		Ceu pa hoik phan hoik yuh , tak sang ah ka Kaw pa phan pa yuh tix , 
+45009020c	yuh ka mawx		" Maix lai yuh aux awm in yuh ka mawx lie ? "
+45009021	~		Phan ang mawh nan , cao pa yuh aw ang ting piang tiex klox , ti sang teei tiex khaing tiex tix lon ngie mai yuh aw ti kieh koe min plakngai tix mu mai tix ang koe min plakngai tix mu kah lie ?
+45009022	ka mawx		Phan Siyiex koe rhawm ti sang jhi krax song rhawm Nawh mai ti sang kieh tawng sibrawm Nawh sidawng , viang mawh nan hoik gun yeung ka pa lang gun yeung tom nie ka aw son pa song rhawm khankix , pa hoik cox son pa laux leeing , tak sang koe ti ah ka mawx ?
+45009023	~		son sang kieh Nawh tawng ka pa mi pa koe min plakngai Nawh piang aw pa caux rhawm khankix , pa hoik dawg grux cox Nawh son min plakngai ,
+45009024	ka mawx		pa mawh ex , pa hoik kok Nawh Cao ti teei , ang mawh ngie khaing pui Yudax , viang mawh nan mawh khaing khawm pui tang ceu , tak sang koe ti ah ka mawx ?
+45009030	ka mawx		Mawh kheu nan ex tak sang ah ka mawx ? Sang ah , pui tang ceu , tang cat pa ang hawt leue khaix pa rahsee , hoik pon giex ka pa rahsee , pa mawh pa rahsee pa dex mai krax yum rhawm lie ?
+45009032	patix		Mawh kheu patix ang hoek ka ? Hoik mawh kheu ang kix viex krax yum rhawm ti hawt leue ka , viang mawh nan kheu hawt leue ka krax twah klaung . Kix hoik sideeing ka simaox dee sideeing ,
+45010006	mawx		Viang mawh nan krax rahsee pa dex mai krax yum rhawm , ah nin , " Paw ah daux rhawm tix , Mawh mawx pa sang haok piang raoma ? " ti sang viex Cao Khrit lih ,
+45010007	mawx		phan ang mawh nan , " Mawh mawx pa sang lih dee raux ? " Ti sang viex Cao Khrit haok khaing dee yum .
+45010008	ka mawx		Viang mawh nan hoik ah ka mawx ? " Gumlox hoik koe dex ka maix , ka daux jheeh maix mai ka daux rhawm maix heue . " Mawh in heue , pa mawh gumlox pa dex mai krax yum rhawm , pa sidiex gau ex kah heue .
+45010014a	yuh ka mawx		Phan mawh nan kix tak sang chix kok ka Kaw pa ang kix nyang bax yum rhawm kah , yuh ka mawx ? 
+45010014b	yuh ka mawx		kix tak sang chix yum rhawm ka Kaw pa ang kix nyang bax pon tix mhong grawng yuh ka mawx ? 
+45010014c	yuh ka mawx		phan ang koe cao sidiex gau kix tak sang chix pon ti mhong yuh ka mawx ?
+45010015	yuh ka mawx		Phan ang ploi pui hu , kix tak sang pon ti sidiex gau yuh ka mawx ? Awm pa hoik tiiem ti deuh ah nin , " Caong kix pa viex lox bwan gaux rhawm grawng pa mhawm mhiem khankix , mhawm grang miex ding heue . "
+45010016	mawx		Viang mawh nan pui khawmuik hoik nghiet ka lox bwan gaux rhawm ang mawh , grawh grawng nawh Isayax hoik ah nin , " Simiang eue , mawh mawx pa hoik yum rhawm ka lox pa sidiex ex ? "
+45011004	yuh ka mawx		Lox pa pawk Siyiex , hoik ah yuh ka mawx ka nawh ? " Aux hoik prah kieh deuk pui aliah rheng son tokaux tix , pa ang sax grux ngawng ka Balax . "
+45011007	yuh ka mawx		Phan mawh nan sang mawh pa yuh ka mawx ? Ceu pa hoik sawg pui Isarelax ka , kix ang lai pon heue , viang mawh nan pa hoik laug ti teei khankix hoik pon nawh mai pa deuk khankix hoik kiien hu heue ,
+45011015	patix		Phan pa tik vud kix mawh grawng pa deeh khaw caw pui haktiex paox tix ka Siyiex , pa sang deeh rieb ti teei kix tak sang lih bleeh ti mawh patix , lheu khaing mawh pa deeh kaoh im khaing krax yum ?
+45011018	~		Paw vi yaw ti ting piang kak khankix , phan maix hoik luan yaw tokaux tix ting , paw piawm grawng ang maix mawh pa peeh riah khaox , viang mawh nan mawh riah khaox pa peeh maix heue .
+45011033a	~		Pa mi , pa koe pingnya cuyi mai krax tawng ka Siyiex mawh pa raux miex ding miex glhaong . 
+45011033b	~		Pa prawng ca Nawh Cao mawh pa ang uik tah sawg mai krax pa hu Nawh Cao khankix mawh pa ang chix ti sikaw miex ding miex glhaong .
+45011034a	pui mawx		" Mawh pui mawx pasax tawng ka rhawm Siyiex ? 
+45011034b	pui mawx		Phan ang mawh nan mawh pui mawx pasax mawh cao pa teem kum , teem ah ka son Nawh Cao ? "
+45011035	pui mawx		" Mawh pui mawx pasax tawx ka Nawh Cao ka sivoe , sonsang baox deeh pon kah ? "
+45014004	mawx		Maix pa prawng ca ka siliex pui tang kaux mawh mawx ? Nawh yaox tix cung ang ah , phan ang mawh nan nawh goh ang ah , koe ka cao nawh heue . Grawh grawng nawh Simiang koe sibrawm tix sang kieh nawh cung heue .
+45014010a	yuh ka mawx		Maix lai prawng ca ka puxaik ti yuh ka mawx ? 
+45014010b	yuh ka mawx		Phan ang mawh nan maix lai nieb deuh puxaik tix , mawh pa ang koe cee yuh ka mawx ? Ex khawmuik tak sang cung ka sivoe dee ngawm Siyiex ti prawng ca heue .
+46001020a	dee mawx		Kaw pa koe pingnya koe dee mawx ? 
+46001020b	dee mawx		Pui pa tiiem lai koe dee mawx ? 
+46001020c	dee mawx		Cao pa thiang daux ju in koe dee mawx ? Siyiex hoik kieh pingnya haktiex in lih mawh pa daox aw ang mawh lie ?
+46002011	mawx		Ka daux kawn pui khankix , mawh mawx pa tawng , ceu pa dex mai kawn pui , lheu khaing khuan pui , pa koe ka daux Nawh ? Awm an ceu pa dex mai Siyiex khankix kawx , ang koe pui tawng , lheu khaing Khuan Siyiex heue .
+46002016a	mawx		" Grawh grawng nawh , mawh mawx pa tawng ka rhawm Simiang ti sang chix gau ka Nawh Cao ? " Viang mawh nan ex hoik pon rhawm Cao Khrit heue .
+46002016b	~		
+46003005a	yuh ka mawx		Phan mawh nan Apawlux mawh pa yuh ka mawx ? 
+46003005b	yuh ka mawx		mai Pawlux mawh pa yuh ka mawx ? Mawh pui cau pui soi pa hoik kieh pex yum rhawm , awm pa tang tawx Simiang ka kaux pui mawx kaux pui an heue .
+46004007a	mawx		Grawh grawng nawh , mawh mawx pa kieh maix tang siyox ? 
+46004007b	yuh ka mawx		Maix koe ceu pa yuh ka mawx , pa ang maix pon khaing pui ? 
+46004007c	yuh ka mawx		Phan hoik pon khaing pui maix lai yuh ti yaw awm grang pa ang maix pon khaing pui yuh ka mawx ?
+46004021	yuh ka mawx		Pex simie pa yuh ka mawx ? Aux tak sang viex khaox hoek ka pex lie ? Phan ang mawh nan sang hoek ka daux krax moh krax rhawm mai pa mhawm rhawm lie ?
+46005002	~		Jalao pex sang khi rhawm kah mai grheu ti tik kaw pa yuh nan khaing daux pex , pex briex ti ting rhawm kah heue .
+46005012	yuh ka mawx		Grawh grawng nawh , pa prawng ca ka kix pa ot plak praix , chix dex mai aux yuh ka mawx ? Pex prawng ca ka kix pa ot plak daux ang mawh lie ?
+46006001	~		Phan pex koe lox koe see ka paox tix , pex khex ang ring ti hu prawng ca ka sivoe pui pa ang rahsee , khaing ka sivoe pui pa singax lie ?
+46006003	miex ding		Ang pex tawng grawng ex tak sang prawng ca ka kawncau Siyiex khankix lie ? Mawh kheu nan tak sang nie lheu yaox ti prawng ca ka ceu pa dex mai ju in miex ding ?
+46006004	~		Mawh kheu nan phan pex tak sang prawng ca ka ceu pa dex mai ju in khankix , pex lai teei kix pa ang koe bwanson ka daux ceu cao , ti kieh mawh cao prawng ca lie ?
+46006007a	~		Pa yuh pex see ka paox tix mawh pa som nai son pex . Kheu lai yuh nan , khaing pa kham pex ka ceu pa lud ? 
+46006007b	tix		Khaing pa kham pex ka ceu pa lhen ti teei kraung tix ?
+46006009	~		Phan ang mawh nan ang pex tawng grawng pui pa ang rahsee ang pon ti cie sin pa mawh meung Siyiex lie ? Paw kieh pie lhen phit vao , pui pa krub riang grang ang ah , pui pa phit vao mai moeng pui ang ah , pui simex bun ang ah , pui pa deeh phit vao ka paox simex tix ang ah ,
+46006016	~		Phan ang mawh nan , ang pex tawng grawng kaw pa hu kleuk tix tau mai bun pa coh kaux , hoik mawh tokaux tix mu khaing mai nawh lie ? Grawh grawng nawh , Nawh Cao hoik ah nin , " Kiex ra kaux tak mawh nex nham tix mu khaing . "
+46006019	~		Phan ang mawh nan , ang pex tawng grawng mawh tokaux pex nyiex bwan Khuan Singax , pa ot ka daux pex , pa hoik pon pex khaing Siyiex lie ? Pex ang lai mawh cie tokaux tix ,
+46007016a	yuh ka mawx		Pa mawh moeng eue maix chix tawng grawng pa sang pon taoh , ang maix pon taoh , ka mex tix yuh ka mawx ? 
+46007016b	yuh ka mawx		Phan ang mawh nan , pa mawh mex eue maix chix tawng pa sang pon taoh , ang maix pon taoh , ka moeng tix yuh ka mawx ?
+46009007a	mawx		Pui naing mawx sax ih mau tokaux tix , ti yuh kaing pui naing ? 
+46009007b	mawx		Mawh mawx pa sum sipeem plix siiet mai ang ih ka plix nawh ? 
+46009007c	mawx		Phan ang mawh nan , mawh mawx pa liang cub yung mai ang ih rawm teeih cub yung an ?
+46009018	yuh ka mawx		Phan mawh nan , bwanson aux mawh pa yuh ka mawx ? Mawh nin heue , aux tak sang kieh lox bwan gaux rhawm mawh pa pon giex pa ang uik ngawh mai aux tak ang phlat shiao akhwang pa koe aux ka daux lox bwan gaux rhawm tom uik heue .
+46010019a	yuh ka mawx		Phan mawh nan pa ah aux mawh pa yuh ka mawx ? 
+46010019b	tix		Sang ah , ceu pa tan ka riang grang khankix , mawh tix ceu ceu , 
+46010019c	tix		phan ang mawh nan riang rao mawh tix ceu ceu lie ?
+46010029	~		Dee chix keud chix tawng , pa ah aux , ang lai ah ka cie maix viang mawh nan ah ka cie tang kaux an heue . Kheu lai prawng ca ka akhwang aux ka dee chix keud chix tawng pui tang kaux ?
+46010030	yuh ka mawx		Phan aux yaog yaw bwanson mai ih , yuh ka mawx lai ah lox caox grawh grawng aux , ka grawng ceu pa hoik yaogyaw aux bwanson kah ?
+46011022	ka mawx		Kheu hah , ang pex koe nyiex son dee sang ih , sang nyaux lie ? Phan ang mawh nan pex nieb yuh ti ang nab yam ka ceu cao Siyiex mai yuh ti kieh kix pa ang koe tidtix kaig tua kah lie ? Aux tak sang ah ka mawx ka pex grawng in ? Aux tak sang yaog yaw pex kah lie ? Aux ang lai yaog yaw pex kah heue .
+46012017a	dee mawx		Phan tokaux khawmuik mawh ngai , pa chix mhong tak koe dee mawx ? 
+46012017b	dee mawx		Phan tokaux khawmuik mawh pa chix mhong , pa chix ngheut tak koe dee mawx ?
+46012019	dee mawx		Lheu khaing an phan kraung grang khankix khawmuik hoik mawh ngie kraung grang tix mu khaing , tokaux tak koe dee mawx ?
+46014006	yuh ka mawx		Puxaik khankix eue , phan aux hoek ka pex mai sikah ka lox ceu pa tang siyox khankix , aux chix koe bwanson son pex yuh ka mawx ? Phan aux ang lai sikah ka pex ka krax pa plak jhi pex yaox , phan ang mawh nan ka krax tawng , ka krax pa krai lox jhai , ka krax pa gau heue .
+46014007	yuh ka mawx		Awm an ceu pa ang koe ju pa chix luah lox , pa mawh pi lawk leh ang ah , phan ang mawh nan ting ang ah , phan lox pa luah kix ang koe dee tang , chix tawng grawng lox pa phlu pi , phan ang mawh nan lox pa tah ting , mawh lox pa yuh ka mawx lie ?
+46014008	mawx		Viang mawh teet tawng kawx phan luah lox pa ang sidawng , mawh mawx pa sang khre tokaux tix son naing .
+46014009	yuh ka mawx		Awm an pex kawx phan pex ang ah lox pa yie ti nghiet kah , chix tawng ka lox pa krai an yuh ka mawx ? Grawh grawng nawh pex tak sang sikah ngie ka bhawm heue .
+46014015	yuh ka mawx		Tak sang yuh ka mawx ? Aux tak sang rawg bwan ka daux khuan mai ka daux khawm krax tawng heue . Aux tak sang ah lox rhax ka daux khuan mai ka daux khawm krax tawng yung heue .
+46014016	yuh ka mawx		Phan ang mawh nan , phan maix nawb bwan ka daux khuan , kaw pa ang chix , chix ah " Amen , " yam yaog yaw maix bwanson , kheu ang nawh tawng ka lox pa ah maix yuh ka mawx ?
+46014026	yuh ka mawx		Puxaik khankix eue , tak sang yuh ka mawx ? Yam krawk khrawm pex paox tix , kaux pui mawx kaux pui an tang koe , lox rhax yaogyaw , koe lox pa sang gau kah , koe pa sang plak jhi kieh yaox , koe pa sikah ka lox ceu pa tang pa siyox , koe pa teei lih dee bleeh heue .
+46014036	yuh ka mawx		Mawh pa yuh ka mawx ? Khex kaoh gumlox Siyiex khaing pex lie ? Phan ang mawh nan hoik hoek ngie ka pex nong lie ?
+46015012	yuh ka mawx		Yam in phan hoik sidiex grawh grawng pa deeh kaoh im Cao Khrit khaing krax yum , ka daux pex tix blah lai ah , " Ang lai koe ceu pa deeh kaoh im khaing krax yum , " yuh ka mawx ?
+46015029a	~		
+46015029b	yuh ka mawx		Phan ang mawh nan kix pa cubcom tang pui pa hoik yum , tak sang yuh ka mawx ? 
+46015029c	yuh ka mawx		Phan raux ang kieh pui yum deeh kaoh kah tete , kix lai cubcom rawm ka tang kix yuh ka mawx ?
+46015030a	~		
+46015030b	patix		Mawh kheu patix , ex kawx , lai yaox krax lhat krax caox ku nari ?
+46015032	yuh ka mawx		Phan aux hoik lah paox tix ka totiag hawt been pui ka veng Efesux , koe bwanson son aux yuh ka mawx ? Phan pa yum ang lai deeh kaoh , " Kieh ex ih mai nyaux , grawh grawng nawh pasax ex tak yum heue . "
+46015035a	yuh ka mawx		Viang mawh nan tix kaux kaux tee sang chawk ah nin , " Tak sang kieh pa yum deeh kaoh yuh ka mawx ? 
+46015035b	yuh ka mawx		yam deeh hoek kix , kix tak sang koe tokaux pa yuh ka mawx ? "
+46015055a	dee mawx		" Pa yum eue , pa pex maix koe dee mawx ? 
+46015055b	dee mawx		Pa yum eue , nyeeig maix koe dee mawx ? "
+47002002	yuh ka mawx		Grawh grawng nawh phan aux kieh pex khi rhawm kah , lheu khaing kaw pa hoik kieh aux nawh khi kah , mawh kaw pa yuh ka mawx pa sang kieh aux gaux rhawm kah lie ?
+47002016	mawx		Ka kix pa hoek krax laux leeing mawh ceu pa sioe baux krax yum tom hoek krax yum heue . Ka kix pa hoek krax taoh mawh ceu pa sioe baux , krax im ju tom hoek krax im ju heue . Mawh mawx pa dak pon yuh ceu in khankix ?
+47003008	yuh ka mawx		Lox been pa dex mai Khuan , tak ang nie lheu tawx tau mai min pakngai yuh ka mawx ?
+47003009	~		Grawh grawng nawh phan lox been pa dex mai pa prawng pa ciyang phimap hoik koe min pakngai , lox been pa dex mai pa rahsee tak sang kied nie lheu koe min pakngai heue .
+47006014a	yuh ka mawx		Paw rom tix sau iak tau mai pui pa ang yum rhawm khankix , grawh grawng nawh ceu pa rahsee chix yuh paox pie ka pa lheu lox been yuh ka mawx ? 
+47006014b	yuh ka mawx		Phan ang mawh nan pa riang chix yuh paox pie ka pa faik yuh ka mawx ?
+47006015a	yuh ka mawx		Cao Khrit mai Belialax chix khaw ka paox tix yuh ka mawx ? 
+47006015b	yuh ka mawx		Phan ang mawh nan pui pa yum rhawm mai pui pa ang yum rhawm chix dex mai paox tix yuh ka mawx ?
+47006016	yuh ka mawx		Nyiex bwan Siyiex mai riang grang chix khaw paox tix yuh ka mawx ? Grawh grawng nawh ex mawh nyiex bwan Siyiex pa im ju , awm pa khaw mai pa hoik ah Siyiex yuh nin , " Aux tak ot ka daux kix mai hu ka daux kix mai Aux tak mawh Siyiex kix mai kix tak mawh pui cie Aux heue . "
+47011011	patix		Mawh kheu patix ? Mawh kheu ang aux moh ka pex lie ? Siyiex hoik tawng heue .
+47011029a	pui mawx		Mawh kaux pui mawx pa iak riang , pa ang aux rom ti iak riang tau ? 
+47011029b	pui mawx		Mawh kaux pui mawx pa hoik kieh sideeing ka , pa ang aux hax rhawm chu rhawm kheu ?
+47012013	yuh ka mawx		Grawh grawng nawh hoik koe ceu pa yuh ka mawx , pa hoik yuh ti kieh pex cud ti ang krup ka ceu cao pa kawn deuk khankix , phan mawh pa lheu khaing pa ang tokaux aux mawh beeh glawm ka pex ? Pluat ploi ceu pa lud aux ka in liak .
+47012017	~		Khex hoik nieb yuh aux cuyi ti ih kaing pex , ka kix pa hoik ploi aux ka pex tix kaux kaux lie ?
+48002014	yuh ka mawx		Yam yaox aux grawng ang kix hu rahsee , awm pa khaw mai pa mawh meh lox bwan gaux rhawm , aux ah nin ka Kephax sivoe kix khawmuik , " Phan maix pa mawh pui Yudax , yuh ti ot yaung pui tang ceu khankix mai ang yuh ti ot awm pui Yudax mai khex sang khin ti kieh pui tang ceu khankix yuh ti ot awm pui Yudax yuh ka mawx ?
+48003001	mawx		Pui Kalatix pa daox aw khankix eue , pa hoik plak kieh sidawng grawng pa yum Yesux Khrit piang khaox lhak sivoe ngai pex , mawh mawx pa hoik kieh pex nih son ang sang nghiet ka lox pa mawh meh ?
+48003019	yuh ka mawx		Phan mawh nan lox lai beenli mawh son pa yuh ka mawx ? Hoik baox thiien thie lox lai beenli kheu phimap , tom sang hoek ru pa hoik tawx lox sijax mukheu kah heue . Hoik kieh kawncau Siyiex khankix teei ti tawx lox lai beenli ka tawm taix pui sinax heue .
+48004009a	~		Yam in pex hoik tawng ka Siyiex , phan ang mawh nan nie lheu mawh Siyiex hoik tawng ka pex , pex lai deeh tieh ti hu ka lox been pa ang grum naog , pa bhaw riang mai pa ang koe bwanson , pex khex simie ti baox deeh mawh siliex lie ?
+48004009b	~		
+48004010	~		Pex lai twah klaung ka singaix mai jhong khix mee num .
+48004015	dee mawx		Phan mawh nan pa hoik gaux rhawm pex an koe dee mawx ? Grawh grawng nawh , aux kham mhai rug , phan chix , pex tee hoik koik ngai tix mai tawx ka aux heue .
+48004021	~		Krai ka aux liak , pex pa simie ti ot greem lox lai beenli khankix eue , ang pex nyang mhong lox lai beenli lie ?
+48004030	ka mawx		Lox phuk lai sigang khri ah ka mawx ? " Grheu ti tik bun siliex mai kawn simex kiex , mawh kheu kawn simex bun siliex , tak ang lai pon sin tau mai kawn simex bun pa ploi heue . "
+48005007a	mawx		Glang ka in pex hoik to mhawm heue . Mawh mawx pa hoik sidien pex son ang pex sang nghiet ka lox pa mawh meh ?
+48005007b	~		
+48005011	~		Puxaik khankix eue , phan aux kawn sidiex been pat hak , lai kawn tuktiak ka aux ? Phan mawh nan ceu pa sideeing ka khaox lhak hoik teei ti tik heue .
+49004009	yuh ka mawx		Pa hoik ah " Nawh haok , " sang bleeh ka pa yuh ka mawx , phan Nawh ang nyang bax hoik lih khawm ka greem daux tiex ?
+50001018	pa tix		Pa sivix mawh pa tix lie ? Nieb lak pie ti sidiex ang ah , sidiex ka daux pa mawh meh ang ah , sidiex yuh ka mawx ang ah , mawh pa sidiex grawh grawng Cao Khrit heue . Mawh kheu grawng in aux gaux rhawm kah heue . Mawh heue , aux tak sang baox deeh gaux rhawm kah heue .
+50001021	~		Ka son aux , pa im mawh Cao Khrit mai pa yum mawh bwan son heue .
+51002020	~		Phan pex hoik yum tau mai Cao Khrit khaing been haktiex pa ang grum naog khankix , pex lai ot awm pa kawn im ka daux haktiex , cu nghiet ka been khankix ,
+52002019	yuh ka mawx		Pa keud pot jun pot ex , phan ang mawh nan pa gaux rhawm ex , phan ang mawh nan mhok khri pa yaw rangdi ex kah , mawh pa yuh ka mawx ? Pex mawh pa yuh nan ka sivoe Simiang ex Yesux Khrit yam sang hoek Nawh ang mawh lie ?
+52003009	~		Ex tak sang baox deeh pon yaogyaw bwanson ka Siyiex son pex , son krax gaux rhawm khawmuik , pa gaux rhawm ex kah kheu pex , sivoe Siyiex ex ,
+54003005	yuh ka mawx		Viang mawh nan phan mawh pui pa ang chix giex kaing nyiex tokaux tix , nawh tak chix priex ceu cao Siyiex yuh ka mawx ?
+54006007a	~		Grawh grawng nawh ex ang viex tidtix hoek ka piang haktiex 
+54006007b	~		mai ex ang pon ti viex tidtix lih hu heue .
+58001005	mawx		Grawh grawng nawh hoik sax ah Nawh Cao ka kawncau Siyiex kaux mawx , " Maix mawh Kawn simex Aux . Aux hoik kieh Maix keh ka daux singaix in heue . " pa baox ah nin , " Aux tak mawh Keeing ka Nawh mai Nawh tak mawh Kawn ka Aux heue . " ?
+58001013	mawx		Hoik sax ah Nawh Cao ka kawncau Siyiex kaux mawx ? " Ngawm plak taix khawn dawm Aux , tom kieh Aux pui pa koeng ka Maix , mawh ngot dee deuh Maix caong tix heue . "
+58001014	~		Kawncau Siyiex khankix khawmuik mawh khuan pa cau , pa hoik ploi ti yuh son kix pa tak sang pon ti cie sin krax taoh ang mawh lie ?
+58002003	yuh ka mawx		Phan ex dha ti ang kriem ka krax taoh pa ting nie ding nie dod , ex lai chix pon luan khaing krax ciyang yuh ka mawx ? Mawh tokaux Simiang pa jah ti krai grawng krax taoh in ka sivoe paox tix mai kix pa hoik mhong khankix hoik kham mhai rug grawng mawh pa mawh meh ka ex ,
+58002006a	yuh ka mawx		tix kaux hoik kham mhai rug kah , tix dah ah nin , " Kawn pui mawh pa yuh ka mawx ? Maix lai kawn doh keud ka nawh . 
+58002006b	yuh ka mawx		Phan ang mawh nan Kawn kawn pui mawh pa yuh ka mawx ? Maix lai kawn lai ling ka nawh .
+58003016	mawx		Grawh grawng nawh kix pa hoik mhong mai kawn baox cheeik ti kieh rhawm Nawh chu mawh mawx ? Can kix pa hoik lih hoek khaing meung Ejiptux kheu pa thong Mose hoik yuh nan ang mawh lie ?
+58003017	mawx		Kix pa ang Nawh caw rhawm ka been tixpon num mawh mawx ? Mawh ka kix pa hoik yuh phimap mai pa tokaux kix hoik goh ti yum ka daux tiagtu ang mawh lie ?
+58003018	pui mawx		Nawh Cao hoik tiextu grawh grawng kix tak ang pon ti laig ka daux dee laux dee lee tix , ka pui mawx , phan ang mawh ka kix pa lieh lox pa ang cu nghiet khankix ?
+58006004	~		Phan mawh grawh grawng kix pa hoik pon pa riang tix bawg mai hoik cim ti yaox ka totaix raoma mai hoik kieh mawh pa rom ti pon ka Khuan Singax ,
+58007011	yuh ka mawx		Mawh kheu nan phan hoik koe ceu pa grum naog kheu cub cao giex kaing li pa dex mai Lewix , kawn baox lo pa lih bleeh cao giex kaing li tang kaux awm pa khaw mai ara Melakhizediek , pa ang sawn mawh pa khaw mai ara Arun , yuh ka mawx ?
+58009014	miex ding		nham Cao Khrit tokaux Nawh pa loig pa ang koe dee ne hoik tan ka Siyiex kheu Khuan Singax Singeh leeing ju , tak sang nie lheu kieh dee chix keud chix tawng pex singax khaing krax twah klaung pa dex mai krax yum , ti sang yuh kaing krub ka Siyiex pa im ju miex ding ?
+58010001	~		Grawh grawng nawh kheu lox lai beenli koe pang peue ceu pa mhawm pa tak sang hoek khaix khankix mai ang lai koe riang pakpeung ceu an khankix tete , pa ca tan ceu pa tan cao giex kaing li kix tix num hoik tix num jheung jheung , ang lai chix kieh kix pa greed hoek dex khankix grum mhawm kah heue .
+58010029a	miex ding		Kaw pa hoik dig ka Kawn Siyiex ka greem caong nawh mai hoik een nham sijax mukheu pa hoik kieh nawh singax singeh , mawh ceu pa ang singax mai hoik nieb yuh pa ang cee ang cak ka bwanson Khuan Cao , pex ce nawh mawh pa keung ti pon krax ciyang pa nie lheu lang teung nu miex ding ?
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	yuh ka mawx		Aux tak sang baox krai pa yuh ka mawx ? Grawh grawng nawh bawg yam aux tak ang kub phan aux krai grawh grawng Gideon , Barak , Samson Yephathax , grawng Davit , Samoelax mai cao jhai khankix .
+58012007	pui mawx		Ceu pa yaox pex ti kham geu khankix mawh sonsang sivied ti gau ka pex . Siyiex yuh ka pex awm yuh ka kawn tix heue . Grawh grawng nawh , koe kawn kaux pui mawx , pa ang keeing nawh sivied ti gau kah ?
+58012009	~		Lheu khaing an ex hoik koe keeing pa dex mai nex nham ex , sonsang sivied ti gau ka ex mai ex hoik yung yi ka kix heue . Ex tak ang nie lheu cu nghiet ka Keeing khuan khankix mai im lie ?
+58012025	~		Rien rhawm tix son ang pex lai mawh pa ang cu ti nghiet ka Kaw pa sikah heue . Grawh grawng nawh phan kix pa ang cu ti nghiet ka lox kaw pa tawx lox ne ka kix ka piang haktiex , ang pon ti luan kah , ex tak nie lheu ang pon ti luan phan ex veeh tix ang nghiet ka Kaw pa tawx lox ne khaing meung raoma ,
+58013006	~		Mawh kheu nan ex tom chix viex rhawm kwa ti ah nin , " Simiang mawh cao pa teem aux , aux tak ang lhat graung heue .
+59002006	~		Pex hoik nieb thang yuh ka pui hot pui sibhawm heue . Pui pa mi pa koe khankix , mawh pa khin pex mai reu pex hu sivoe dee ngawm ti prawng ca , khankix ang mawh lie ?
+59002014	yuh ka mawx		Puxaik aux khankix eue , phan pui tix kaux kaux ah koe krax yum rhawm tix , viang mawh nan ang koe krax twah klaung chix koe bwanson yuh ka mawx , krax yum rhawm an chix taoh nawh lie ?
+59002016a	~		phan pex tix kaux kaux lai ah nin ka kix , " Hu mhawm mhawm , kieh pex siu mai sak heue . 
+59002016b	yuh ka mawx		" Maung pa lo kix son tokaux kix kawx pex ang tawx , chix koe bwanson yuh ka mawx ?
+59002018	~		Ha pui tix kaux kaux ah nin , " Maix koe krax yum rhawm mai aux koe krax twah krax klaung , " jhi aux yaox krax yum rhawm maix pa ang koe krax twah klaung mai aux tak jhi maix yaox krax yum rhawm aux , ka pa twah pa klaung heue .
+59002021	~		Keeing ex Abraham pon pa rahsee kheu krax twah krax klaung pa yuh tix , yam hoik tan kawn simex tix Icak piang khu dee tan ang mawh lie ?
+59003013	pui mawx		Ka daux pex kaux pui mawx , mawx pa koe pingnya , pa chix tawng ? Kieh nawh jhi ka daux ceu pa yuh tix pa mhawm , pa awn rhawm ka pingnya heue .
+59003017	~		Pingnya pa kaoh khaing dee long phao ka tix ceu mawh pa singax , lheu khaing an pa chix khaw paox tix mai pa awn rhawm mai ceu pa yie ti gau ti glaw , pa naog ka pa caux rhawm mai plix pa mhawm khankix , pa ang jhak ka pakngai pui ti yuh tang siyox mai pa ang koe pa pie lhen heue .
+59004001a	dee mawx		Sinax pex krax naing mai krax simah kaoh khaing dee mawx ? Kaoh khaing alo nex nham pex , pa koe krax naing sinax kraung pakpeung tokaux tix , ang mawh lie ?
+59004001b	~		
+59004012	yuh ka mawx		Cao pa tawx lox lai beenli mai cao prawng ca koe tix kaux khaing , pa mawh kaw pa chix taoh mai pa chix yieh yuh laux heue . Maix phex mawh pui pa yuh ka mawx , pa prawng ca ka paox plawg tix ?
+59004014	yuh ka mawx		Pex ang tawng grawh grawng ceu pa tak sang mawh pasax heue . Ju pex mawh pa yuh ka mawx ? Grawh grawng nawh pex mawh awm taox simawg pa sidawng tivud khaing mai deeh grai khaix heue .
+60002020	yuh ka mawx		Mawh kheu phan pex chix viex rhawm gun yeung mai kham geu pa tap toi , yam lud , chix yaogyaw yuh ka mawx ? Viang mawh kawx nan yam yuh pex ceu pa mhawm mai yaox ti kham geu kheu an , pex tak lai viex rhawm gun yeung , kheu in mawh pa khaw caw mai Siyiex heue .
+60003013	yuh ka mawx		Phan pex nied ti yuh ceu pa mhawm , mawh kaw pa yuh ka mawx , pa sang yuh pex laux ?
+60004017	yuh ka mawx		Bawg yam pa sang jah ti prawng ca , ka pui geh nyiex Siyiex hoik hoek mai phan krax prawng ca an jah ka ex phao ka , dee sidah kix pa ang koe krax cu nghiet ka lox bwan gaux rhawm Siyiex , tak sang mawh pa yuh ka mawx ?
+60004018	dee mawx		Phan pui rahsee nu ti hoek krax taoh , pui pa sang chix nab yam mai pa ang khaw ka Siyiex mai pui phimap khankix tak sang bleeh dee mawx ?
+61003004	dee mawx		ah nin , " Lox mukheu grawng pa sang hoek Nawh koe dee mawx ? Grawh grawng nawh jah ka singaix pa tax du khankix pa hoik laig it , kuceu khawmuik ca kawn mawh awm yam jah ti phan ti yuh heue . "
+61003011	yuh ka mawx		Mawh kheu hoik yaox pex grawng ceu in khawmuik tak sang grai hu , pex khaw ti mawh pui pa yuh ka mawx , ka daux krax twah klaung pa singax singeh mai pa chix nab yam mai pa yuh pa khaw ka Siyiex ,
+62002022	pui mawx		Pui mawx pa mawh pui pie lhen , phan ang mawh kaw pa thiang ti tik grawh grawng mawh Yesux Cao Khrit ? Kaw pa thiang ti tik Keeing Cao mai Kawn Cao , mawh antikhrit heue .
+62003012	patix		Ang awm Ka-inax pa dex dawd mai kaw pa caox mai pa hoik pah pux tix yum . Ka-inax pah pux tix yum kheu grawng patix ? Mawh kheu pa yuh tokaux nawh mawh pa caox mai pa yuh pux nawh mawh pa rahsee heue .
+62003017	yuh ka mawx		Viang mawh nan pui mawx ang ah pa koe kraung khrai haktiex mai yaox puxaik tix hot sibhawm mai lo tix mai nyeep krax caux rhawm tix khaing nawh , krax moh krax rhawm Siyiex tak chix ot ka daux nawh yuh ka mawx ?
+62004020	~		Phan pui tix kaux kaux ah , " Aux moh ka Siyiex , " mai koeng ka puxaik tix , nawh mawh pui pa pie lhen , mawh kheu kaw pa ang moh ka puxaik tix pa hoik yaox nawh , ang tau ti chix moh ka Siyiex pa ang nawh sax yaox heue .
+62005005	pui mawx		Mawh pui mawx pa pex haktiex , phan ang mawh kaw pa yum rhawm grawng mawh Yesux Kawn Siyiex ?
+66005002	mawx		Aux yaox kawncau Siyiex pa ting riang tix kaux , pa ah nin ka lox pa ting pa sinum , " Mawh mawx pa keung ti paoh ka phuk lai an mai teei ti tik ka cum nawh khankix ? "
+66006010a	miex grheung		Kix kok yo lox pa ting pa sinum , ah nin , " Simiang pa giex kaing , pa singax singeh , pa mawh meh eue , Maix tak ang prawng ciyang mai ang pawk bix ka son nham ex , ka kix pa ot ka piang haktiex khankix miex grheung .
+66006010b	~		
+66006017	pui mawx		Grawh grawng nawh singaix pa ting pa song rhawm kiex hoik hoek . Pui mawx pon ti cung ka ?
+66007013a	yuh ka mawx		Kuad song khankix tix kaux chawk ah nin ka aux , " Pui inkix pa ceep kraung paing , mawh pa yuh ka mawx 
+66007013b	dee mawx		mai kix kaoh khaing dee mawx ? "
+66013004a	mawx		Kix krub ka siyawng an , mawh kheu hoik tawx nawh sibrawm giex kaing tix ka totiag an heue . Kix krub ka totiag an ah nin , " Mawh mawx pa awm ka totiag in ? 
+66013004b	mawx		Mawh mawx pa chix yuh naing ka nawh ? "
+66015004a	mawx		Simiang eue , mawh mawx pa tak ang lhat 
+66015004b	~		mai ang yaogyaw ka ceu kaux Maix , mawh kheu mawh ngie Maix khaing pa singax singeh heue . Mawh kheu ceu pui khawmuik tak sang hoek mai krub ka sivoe Maix heue . Mawh kheu jhawm pa rahsee yuh Maix hoik sidawng heue . "
+66017007	yuh ka mawx		Kawncau Siyiex an ah nin ka aux , " Maix lai daox deng ka yuh ka mawx ? Aux tak sang krai ka maix grawh grawng ceu pa raux pa mox , pa dex mai bun an mai pa dex mai totiag an , pa koe kaing aliah mu mai rung kao mu , pa pux ka bun an heue .
+66018018	yuh ka mawx		mai yam jhak kix ka taox ngu pa gleeing nawh , kix kok yo ah nin , veng pa yuh ka mawx , awm ka veng ting an ? "

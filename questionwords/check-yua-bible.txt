@@ -1,0 +1,743 @@
+40002002	Tu'ux		ca tu káat chi'itajo'ob : ¿ Tu'ux yaan u ajaw le judiób dzo'oc u síijilo' ? Tumen t ilaj u eek te j lakino' , ca j taalo'on u ti'al c kultic .
+40002004	tu'ux		Le ajaw túuno' tu t'anaj tuláacal u nuuctaquilo'ob le aj kiino'obo' , bey xan u aj ca'anbesajilo'ob a'almaj t'aan , ca tu káat chi'itaj ti'ob tu'ux bíin síijic le Cristoo' .
+40003007	Máax		Ba'ale' le ca tu yilaj Juan ya'ab ti' le fariseob yéetel seduceob cu taalo'ob ocja'o' , ca tu ya'alaj ti'ob : ¡ U ch'i'ibale'ex cano'ob ! ¿ Máax a'al ti' te'ex ca púudzuque'ex ti' le nojoch jaadz cu náadzalo' ?
+40005013	bix		Te'exe' u ta'abile'ex yóokolcaab . Ba'ale' wa cu sa'atal u ch'óoch'il le ta'abo' , ¿ bix cu bin ca'a ch'óoch'quinaj ? Mix ba'al u biilal ba'ale' chéen u ti'al j pulbil yéetel u ti'al j pepe'echa'atbil tumen máaco'ob .
+40005046	ba'ax		Tumen wa te'ex ca yaabiltique'ex chéen le máaxo'ob yaabiltique'exo' , ¿ ba'ax bo'olil bíin a kame'ex tu yo'olal lelo' ? Tac le j kam patano'obo' bey u beetico'obo' .
+40005047	ba'ax		Wa ca tziquique'ex xan chéen a sucu'une'exe' , ¿ ba'ax ma'alobil ca beetique'ex ? Tac le máaxo'ob ma' ocsaj óolo'ob cu beetico'ob beyo' .
+40006027	Máax		¿ Máax ti' ichile'ex je'el u páajtal u asab ca'analcunsic u wíinclil chéen iquil u sen tuucule' ?
+40006028	Ba'ax ten		¿ Ba'ax ten ca sen tucultique'ex ba'ax can a búuquinte'ex ? Ile'ex bix u ch'íijil u nicte'ilo'ob káax , ma' tu meyajo'ob mix tu chuyo'ob .
+40006031a	ba'ax		Le beetique' ma' a sen tuucule'ex táan a wa'alique'ex : ¿ Ba'ax c bíin jaante ? , 
+40006031b	ba'ax		wa ¿ Ba'ax c bin uke ? 
+40006031c	ba'ax		wa ¿ Ba'ax c bin búuquinte ?
+40007003	bix		¿ Bix anil cu páajtal a wilic le chan sojol yaan tu yich a sucu'uno' wa ma' táan u páajtal a wilic le che' yaan ta wich techo' ?
+40007004	bix		Wa yaan jun p'éel che' ta wiche' ¿ bix úuchac u páajtal a wa'alic ti' a sucu'un : cha'a in jóokesic le chan sojol yaan ta wicho' ?
+40007009	máax		¿ Yaan wa máax ichile'ex je'el u dzáic jun p'éel tuunich ti' u paal le quéen káata'ac waaj ti'e' ?
+40007016a	~		Te'exe' je'el u páajtal a kaj óoltique'exo'obe' tu yo'olal ba'ax cu beetico'ob , tumen ma' teech u t'o'ocol uva ti' ki'ixo'ob , 
+40007016b	~		mix higo ti' tzacamo'ob .
+40008026	Ba'ax ten		Leti'e' tu núucaj ti'ob : ¿ Ba'ax ten sen sajaque'ex ? ¿ Ba'ax ten jach jun p'íit a wocsaj óolale'ex ? J líik túune' ca tu keyaj le iiko' yéetel le ka'anabo' ; tu séeblaquil p'áat tuláacal jach jejedzqui .
+40008027	Máax		Le máaco'obo' ja'ak u yóolo'ob ca tu káat chi'ituba'ob : ¿ Máax le máac cu yu'uba'al u t'aan tac tumen le iiko'ob yéetel ka'anabo' ?
+40008029	~		Ca jo'op' u yawatico'ob : ¡ Ma' a wocsicabáa t éetel , Jesús u Paal Yuum ! ¿ J taalech wa u ti'al a dzáa to'on yaayaj óolal ma'ili' kuchuc u kiinile' ?
+40009004	Ba'ax ten		Tumen Jesús u yojel ba'ax cu tucultico'obe' , tu ya'alaj ti'ob : ¿ Ba'ax ten jach kaas a tuucule'ex ? ,
+40009005	ba'ax		¿ tumen ba'ax asab séeba'an u ya'ala'al : Sa'atsa'an a kebanoob , wa u ya'ala'al , Líiken , xíimbalnen ?
+40009011	bix		Ba'ale' le j fariseobo' , le ca tu yilajo'obe' , tu káat chi'itajo'ob ti' u j canbalo'obo' : ¿ Bix anil a j ca'anbesaje'exe' cu janal yéetel le j kam patano'obo' bey xan yéetel le j keban máaco'obo' ?
+40009014	Ba'ax ten		U j tzaypacho'ob Juan Bautistae' tu nadzajuba'ob ti' Jesús ca tu káat chi'ito'ob ti' : ¿ Ba'ax ten to'on yéetel le fariseobo' ya'ab c su'ukin , ba'ale' a aj canbalo'obe' ma' tu su'ukino'ob ?
+40009015	~		Jesuse' tu núucaj ti'ob : ¿ Je'el wa u páajtal u okom óolta'al le máaxo'ob t'aana'ano'ob u ti'al jun p'éel dzo'ocol beel ca'aliquil ti' yaan le íichamtzil tu yicnalo'obo' ? Ba'ale' bíin talac u kiinil quéen lukesa'ac le íichamtzil ti'obo' ; le túun quéen su'ukinaco'ob .
+40010025	ba'ax		Le aj canbalo'obo' unaj u qui'imactal u yóol u kuchul béeytal je'el bix u aj ca'anbesajo' , bey xan le palitzilo' je'el bix u dzuulile' . Wa u nojochil le naj cu ya'ala'al Belzebú ti'o' , ¿ ba'ax ma' je'el u ya'ala'al ti' u láaktzilo'obe' ?
+40011007	Ba'ax		Le ca j bino'obe' , Jesuse' jo'op' u t'aan tu yo'olal Juan ti' le máaco'obo' , ca tu ya'alaj : ¿ Ba'ax bine'ex a wile'ex te x tocoy lu'umo' jun cúul jalal cu yúunta'al tumen iik ?
+40011008	ba'ax		Wa ma' leti'e' , ¿ ba'ax bine'ex a wile'ex ? ¿ Jun túul máac u búuquintma co'ocoj nooko'ob ? Te'exe' a wojele'ex le máaxo'ob cu búuquintico'ob co'ocoj nooko'obe' ti' yano'ob tu yotoch ajawo'obo' .
+40011009	ba'ax		U dzo'oque' ¿ ba'ax bine'ex a wile'ex ? ¿ Jun túul aj bóobat ? Bey tu jaajil , jun túul máac asab nojoch ti' jun túul aj bóobat .
+40011016	Ba'ax		¿ Ba'ax yéetel bíin in quet u cajnáalilo'ob le kiino'oba' ? Beyo'ob je'el bix le mejen paalal cu cutalo'ob báaxal te j kíiwico'obo' yéetel cu yawtico'ob ti' u yéet báaxalo'ob :
+40012011	Máax		Jesuse' tu núucaj ti'ob : ¿ Máax ti' te'ex wa yaan jun túul u j taman ca lúubuc ti' jun p'éel ch'e'en tu kiinil sábadoe' ma' wa tu bin u jóokes ?
+40012026	bix		Bey xan , wa Satanás cu tojolch'intic Satanase' u jatzláantmubáa túun , ¿ bix je'el u páajtal u xáantal u páajtalile' ?
+40012027	máax		Te'exe' ca wa'alique'ex tene' táan in tojolch'intic le kaakas pixano'obo' yéetel u páajtalil Beelzebú ; wa bey anilo' , ¿ máax dzáic ti' a paalale'ex u páajtalil u ti'al u tojolch'intico'ob ? Le o'olale' leti'ob e'esic ma' toj a tuucule'exi' .
+40012029	Bix		Tumen : ¿ Bix je'el u páajtal u yocol wa máax tu yotoch jun túul mu'uka'an máac u ti'al ca ocla'ac u ba'aluba'ob wa ma' tu ka'axal táanile' ? Tumen chéen bey je'el u páajtal u yocla'al u yotoche' .
+40012034	Bix		¡ U ch'i'ibale'ex cano'ob ! ¿ Bix je'el u páajtal a wa'alique'ex ma'alob ba'alo'ob wa kasa'ane'exe' ? Tumen ti' u chi' máac cu jóokol tuláacal ba'ax yaan tu pucsi'ikal .
+40012048a	máax		Ba'ale' leti'e' tu núucaj ti' le máax tu taasaj le kuben t'aan ti'o' : ¿ Máax in maama yéetel 
+40012048b	máax		máax in wíidzino'ob ?
+40013010	Ba'ax ten		Le aj canbalo'ob túuno' tu nadzajuba'ob ti' Jesuse' ca tu káat chi'ito'ob ti' ba'ax ten táan a ca'ansic le máaco'ob yéetel quet t'aano'obo' .
+40013027	tu'ux		Le j palitzilo'ob túuno' j bino'ob u ya'alo'ob ti' u yuumil le coolo' : Dzuul ¿ ma' wa ma'alob le trigo ta pakaj ta coolo' ? ¿ tu'ux túun u taal le kaakas xíiwo' ?
+40013054a	tu'ux		ca j bin tu caajal , te'elo' jo'op' u ca'ansaj tu sinagogail caajo' . Le máaco'ob túuno' tumen jaka'an u yóolo'obe' tu ya'alajo'ob : ¿ Tu'ux tu canaj le máac le ba'alo'oba' ? 
+40013054b	bix		¿ Bix u páajtal u beetic le chíiculalo'oba' ?
+40013056	Tu'ux		¿ Ma' wa way caja'ano'ob xan ichilo'on u x ch'upul íidzino'obe' ? ¿ Tu'ux túun tu canaj tuláacal le ba'alo'oba' ?
+40014031	Ba'ax ten		Tu séeblaquil j ma'ach tu kab tumen Jesuse' ca j a'ala'ab ti' : ¡ Jach jun p'íit a wocsaj óolal ! ¿ Ba'ax ten ca'a p'éelchaj a tuucul ?
+40015002	Ba'axten		¿ Ba'axten a aj canbalo'obe' ma' tu beetico'ob ba'ax tu ca'ansaj to'on c úuchben láako'ob ? tumen ma' táan u p'o'ico'ob u kabo'ob u ti'al u janalo'ob .
+40015003	Ba'axten		Jesuse' tu káat chi'itaj ti'ob : ¿ Ba'axten te'exe' ma' ta beetique'ex ba'ax cu ya'alic Ku , ba'ale' ca beetique'ex ba'ax tu ya'alaj le úuchben máaco'obo' ?
+40015033	tu'ux		U aj canbalo'obe' tu ya'alajo'ob ti' : ¿ Bix je'el u páajtal c caxtic janal u ti'al tuláacal le máaco'oba' way ti' le cúuchil tu'ux mix máac caja'ana' ?
+40015034	Jay p'éel		Jesuse' tu káat chi'itaj ti'ob : ¿ Jay p'éel waaj yaan te'ex ? Leti'obe' tu núucajo'ob : Siete waajo'ob yéetel dze'edzec mejen cayo'ob .
+40016008	Ba'axten		Jesuse' tu kaj óoltaj lela' , ca tu ya'alaj ti'ob : ¿ Ba'axten ca wa'alique'ex mina'an te'ex waaj ? ¡ Jach jun p'íit a wocssaj óolale'ex !
+40016009	Jay p'éel		¿ Láili' ma' ta na'atique'ex , mix tu ka'ajal te'ex le cinco waajo'ob tin t'oxaj ichil cinco mil máaco'obo' , jay p'éel xaaco'ob ta li'isaje'exi' ?
+40016010a	~		¿ Ma' tu ka'ajal te'ex le siete waajo'ob tin t'oxaj ichil cuatro mil máaco'obo' , 
+40016010b	jay p'éel		yéetel jay p'éel xaaco'ob ta li'isaje'exi' ?
+40016011	Ba'axten		¿ Ba'axten ma' ta na'atique'ex , tene' ma' táan in t'aan tu yo'olal le waaj le ca tin wa'alaj ? ca a canantaba'ex ti' u levadura le fariseob yéetel le saduceobo' .
+40016013	Máax		Le ca j kuch Jesús tu lu'umil Cesarea ti' Filipoe' , tu káat chi'itaj ti' u aj canbalo'ob : ¿ Máax cu ya'alic le máaco'ob u Paal Máac ?
+40016015a	ba'ax		Jesuse' tu ya'alaj ti'ob : Cux te'ex ¿ Ba'ax ca wa'alique'ex ? 
+40016015b	Máaxen		¿ Máaxen teen ?
+40016026a	ba'ax		Tumen ¿ Ba'ax u biil ti' máac wa cu náajaltic tuláacal yóokolcaab cu dzo'ocole' cu sa'atal u pixan ? 
+40016026b	buca'aj		¿ Wa buca'aj je'el u bo'otic máac tu yo'olal u pixane' ?
+40017010	Ba'ax ten		Le aj canbalo'ob túuno' tu káat chi'ito'ob ti' Jesús : ¿ Ba'ax ten u aj ca'anbesajilo'ob le a'almaj t'aano' cu ya'alico'ob yaan u taal yáax táanil Elías ?
+40017017a	tac ba'ax biin		Jesuse' tu ya'alaj : ¡ Ma' ocsaj óol yéetel loolob wíinique'ex ! ¿ Tac ba'ax kiin kabéet in wantal ta wéetele'ex ? 
+40017017b	tac ba'ax kiin		¿ Tac ba'ax kiin yaan in mukyajtique'ex ? Taase'ex way le xi'ipalo .
+40017019	Ba'axten		Cu dzo'ocole' le aj canbalo'obo' j t'aanajo'ob jun páayil yéetel Jesús ca tu káat chi'ito'ob ti' : ¿ Ba'axten to'one' ma' páatji' c jóokesic le kaakas pixano' ?
+40017025a	bix		Pedroe' tu núucaj : Cu bo'otic . Le ca j ooc Pedro ich naje' , Jesuse' j t'anaj táanil táan u ya'alic ti' : ¿ Bix a wilic , Simón ? 
+40017025b	máax		¿ U ajawo'ob yóokolcaabe' , máax ti'ob cu tzáico'ob le patano' yéetel le u láak bo'olalo'obo' : ti' u yéet caajalo'ob wa ti' le táanxel lu'umilo'obo' ?
+40018001	Máax		Ti' le kiino' le aj canbalo'obo' tu nadzajuba'ob ti' Jesuse' ca tu káat chi'itajo'ob ti' : ¿ Máax u asab nojochil tu ajawil ca'an ?
+40018012	bix		¿ Bix a wilique'ex ? Wa jun túul máac yaan cien j tamano'ob ti'e' wa ca sa'atac jun túul ti'obe' , ¿ ma' wa cu p'atic le noventa y nueve te j pu'uco' u ti'al ca xi'ic u caxant le j sa'ato' ?
+40018021	jay téen		Pedro tu nadzajubae' ca tu káat chi'itaj ti' Jesús : ¿ Yuumtzil , jay téen unaj in sa'atsic in sucu'un cu beetic ten wa ba'ax kaasil ? ¿ Tac siete u téenel ?
+40019007	Ba'ax ten		Tu káat chi'ito'ob túun ti' : ¿ Ba'ax ten túun Moisese' tu ya'alaj ca dza'abac ti' jun túul atantzil u ju'unil x p'atbáile' cu dzo'ocole' cu páajtal u tojolch'inta'al ?
+40019016	ba'ax		Jun túul táanquelem máaque' bin u yil Jesuse' ca tu káat chi'itaj ti' : Utzil aj ca'anbesaj ¿ ba'ax ma'alob meyaj unaj in beetic u ti'al ca yanac ten cuxtal mina'an u xuul ?
+40019017	Ba'axten		Jesuse' tu ya'alaj ti' : ¿ Ba'axten ca wa'alic teen utzen ? Chéen jun túulili' máax utz yaan , leti'e' Ku . Ba'ale' wa a káat ocol ti' le cuxtalo' , dzo'ocbes le a'almaj t'aano'obo' .
+40019018	máacal máac		Le máaco' tu ya'alaj ti' : ¿ Máacal máaco'obi' ? Jesuse' tu ya'alaj ti' : Ma' a quíimsic wíinic , ma' a nupkeban , ma' a woocol , ma' a tuus ,
+40019020	Ba'ax		Le táanquelem máaco' tu ya'alaj ti' : Palili'en ca jo'op' in dzo'ocbesic tuláacal lela' . ¿ Ba'ax u bin teen ?
+40019025	Máax		Le ca tu yu'ubajo'ob u aj canbalo'obe' jach ja'ak u yóolo'ob , ca tu káat chi'itajo'ob tu baatzilo'ob : ¿ Máax je'el u páajtal u to'ocole' ?
+40019027	Ba'ax		Pedroe' tu ya'alaj túun ti' : Yuumtzil to'one' t p'ataj tuláacal ba'ax yaan to'one' ca j taalo'on ta paach . ¿ Ba'ax túun cun antal to'on ?
+40020006	Ba'axten		Míin las cinco ocnaj kiine' jóok tu ca'a téen te j kíiwico' ca tu yilaj u láak máaco'ob yano'ob te'elo' mina'an meyaj ti'ob , ca tu ya'alaj ti'ob : ¿ Ba'axten way yane'ex bul kiin x ma' meyajile' ?
+40020012	~		tu ya'alajo'ob : Lelo'ob j kucho'ob tu dzo'oca' chéen jun p'éel hora meyaj tu beetajo'ob cu dzo'ocole' ta bo'otajo'ob láili' je'el bix ta bo'otajo'on to'ono' máaxo'on t mukyajtaj u meeyjul yéetel u yoxowil jun p'éel túulis kiin .
+40020021	Ba'ax		Jesuse' tu káat chi'itaj : ¿ Ba'ax a káati' ? Leti'e' tu ya'alaj : A'al ca culac le in ca'a túul paalalo'oba' jun túule' ta x no'oj , u láake' ta x dzíic , te ta ajawilo' .
+40020032	Ba'ax		Je'el túun Jesuse' , tu t'anaj le ch'óopo'obo' ca tu káat chi'itaj ti'ob : ¿ Ba'ax a káate'ex ca in beet ti' te'ex ?
+40021010	Máax		Le ca j ooc Jesús Jerusalene' wóoch'lantáanbanaj tuláacal le caajo' , ya'ab máaxo'ob tu káat chi'itajo'ob : ¿ Máax lela' ?
+40021016	ba'ax		ca tu ya'alajo'ob ti' Jesús : ¿ Táan a wu'uyic ba'ax cu ya'alico'ob lelo'oba' ? Jesuse' tu núucaj ti'ob : Bey táan in wu'uyic . Ba'ale' ¿ ma' wa a xocmaje'ex le Quili'ich Dzíib tu'ux cu ya'ala'al le ba'ax cu yúuchula' ? Cu ya'alic beya' :
+40021020	Bix		Le j canbalo'obo' , le ca tu yilajo'obe' , ja'ak u yóolo'ob ca tu káat chi'itajo'ob ti' Jesús : ¿ Bix úuchic u tijil séeba'an le higuerao' ?
+40021023a	ba'ax		Cu dzo'ocole' , Jesuse' j ooc kulnaj . Ca'aliquil táan u ca'ansaj te'elo' , tu nadzajuba'ob ti'e' u nuuctaquil le aj kiino'obo' yéetel u nuuctaquil le judíobo' ca tu káat chi'itajo'ob ti' : ¿ Yéetel ba'ax páajtalil ca beetic le ba'alo'oba' ? 
+40021023b	Máax		¿ Máax dzáa teech le páajtalila' ?
+40021025a	Máax		¿ Máax túuxt Juan u ti'al u dzáa ocja' ? ¿ Ku túuxte wa máaco'ob ? Ba'ale' jo'op' u ba'atel t'aano'ob tu baatzilo'ob táan u ya'alico'ob : 
+40021025b	~		Wa c a'alic Ku túuxte' je'el u núuquic to'one' 
+40021025c	ba'axten		¿ ba'axten túun ma' ta wocsaj óolte'exi' ?
+40021028	Ba'ax		Jesuse' tu ya'alaj ti'ob : ¿ Ba'ax ca wa'alique'ex tu yo'olal le ba'ala' ? Jun túul máaque' yanji ca'a túul u paalal ; ca tu ya'alaj ti' jun túul ti' leti'obe' : In paal , xeen meyaj ichil in paakal uvaob .
+40021031	máacal máac		¿ Máacal máac ti' le ca'a túul tu beetaj ba'ax u káat u taataobo' ? Leti'obe' ca tu ya'alajo'ob : Le yáaxo' . Jesús túune' tu ya'alaj ti'ob : Tu jaajil quin wa'alic ti' te'exe' le j kam patano'ob yéetel le x cáacbacho'obo' yaan u yoclo'ob tu ajawil Ku táanil ti' te'ex .
+40021040	ba'ax		Jesús túune' tu káat chi'itaj ti'ob : Le quéen suunac u yuumil le lu'umo' ¿ ba'ax cun u beet ti' le j meyajo'obo' ?
+40022012	Bix		Ca tu ya'alaj ti' : In wet' xiibil ¿ Bix ooquiquech waye' wa ma' a búuquintma u nookil u ti'al jun p'éel dzo'ocol beeli' ? Ba'ale' le máaco' mix ba'al tu ya'alaj .
+40022017	ba'ax		A'al ti' to'on túun ba'ax ca tucultic : ¿ Ma'alob wa ca c bo'ot patano'ob ti' Cesar wa ma' ?
+40022018	ba'ax ten		Ba'ale' Jesuse' tu kaj óoltaj u kaakas tuuculo'obe' ca tu ya'alaj ti'ob : J ca'a p'éel iche'ex ¿ ba'ax ten a káat a túunte'ex in wóol ?
+40022020a	Máax		Jesuse' le ca tu yilaje' tu káat chi'itaj ti'ob : ¿ Máax ti'alintic le ich 
+40022020b	~		yéetel le kaaba' dzíibta'ana' ?
+40022028	máacal máac		Le quéen ca'a púut cuxlac le quimeno'obo' , ¿ máacal máac ti' le siete sucu'untzilo'ob cu bin atantic le co'olelo' , tumen tu sieteil j dzo'oc u beelo'ob tu yéetel ?
+40022036	macalmáac		Aj ca'anbesaj , ¿ macalmáac u asab nojochil ichil le a'almaj t'aano'obo' ?
+40022042a	ba'ax		Jesuse' tu káat chi'itaj ti'ob : ¿ Ba'ax ca tucultique'ex tu yo'olal Le Cristoo' ? 
+40022042b	máaxi'		¿ U paal máaxi' ? Tu ya'alajo'ob ti' : U paal David .
+40022043	Bix		Jesuse' tu ya'alaj túun ti'ob : ¿ Bix túun anil Davide' le ca'a t'aanaj péecsa'an tumen Quili'ich Pixane' , tu ya'alaj Yuumtzil ti' ? Tumen Davide' tu ya'alaj :
+40022045	~		
+40023017	Máacalmáac		¡ J ma' na'ate'ex yéetel ch'óope'ex ! ¿ Máacalmáac u asab nojochil ti' lelo'oba' : le oroo' wa le kulnaj cu beetic u quili'ichtal le oroo' ?
+40023019	Máacalmáac		¡ J ma' na'ate'ex yéetel ch'óope'ex ! ¿ Máacalmáac u asab nojchil ti' lelo'oba' : le ti'ibil óolal wa le multuunil kultaj cu beetic u quili'ichtal le ti'ibil óolalo' ?
+40023033	Bix		¡ Caane'ex ! ¡ U ch'i'ibale'ex caan ! ¿ Bix can a jechile'ex u jaadzil metnal ?
+40024003a	ba'ax kiin		J bino'ob túun tu pu'uquil le olivo'obo' ; le ca j culaj Jesús te'elo' , le j canbalo'obo' j bino'ob u x mucul a'alo'ob ti' : A'al to'on ba'ax kiin quéen úuchuc le ba'alo'oba' . 
+40024003b	ba'ax		¿ Ba'ax chíiculal cu bin e'esic a taalbal yéetel quéen xu'uluc yóokolcaab ?
+40024045	Máax		¿ Máax le palitzil chúucpaja'an u yóol yéetel yaan u na'at , cu p'a'atal tumen u dzuulil u ti'al u táan óolt le máaxo'ob otochnáalo'ob u ti'al ca u dzáa janal ti'ob tu yorailo' ?
+40025037	ba'ax kiin		Le máaxo'ob toj u cuxtalo'obo' bíin u ya'alo'ob : Yuumtzil , ¿ ba'ax kiin t ilajech wi'ijech ca t dzaj ti' teech ba'al a jaante' ? ¿ Wa ba'ax kiin t ilajech ukajech ca t dza teech ba'al a wuke ?
+40025038	ba'ax kiin		¿ Wa ba'ax kiin t ilajech beyech j táanxel lu'umil ca t dzaj ti' tech tu'ux a kuchul , wa mina'an a nook ca t dzaj ti' teech nook a búuquinte ?
+40025039	ba'ax kiin		¿ Wa ba'ax kiin t ilajech koja'anech wa kala'anech j bino'on c ilech ?
+40025044	ba'ax kiin		Leti'obe' bíin u ya'alo'ob ti' : Yuumtzil , ¿ ba'ax kiin t ilajech wi'ijech , wa ukajech , wa beyech táanxel lu'umile' , wa mina'an a nook , wa koja'anech , wa kala'anech , cu dzo'ocole' ma' t áantechi' ?
+40026008	Ba'axten		Le aj canbalo'obo' le ca tu yilajo'ob lela' , kuuxilnajo'ob ca jo'op' u ya'alico'ob : ¿ Ba'axten cu we'equel lela' ?
+40026010	Ba'axten		Jesuse' tu yu'ubaje' ca tu ya'alaj ti'ob : ¿ Ba'axten ca kuuxile'ex ti' le co'olela' ? Le ba'ax dzo'oc u beetic tena' jun p'éel ma'alob ba'al .
+40026015	Bajux		ca tu ya'alaj ti'ob : ¿ Bajux je'el a dzáique'ex teen wa quin kubic Jesús ti' te'exe' ? Leti'ob túune' tu bo'otajo'ob ti' treinta u taakinil plata .
+40026017	Tu'ux		Tu yáax kiinil le kiinbesaj iquil u jaanta'al le waaj x ma' levadurao , le j canbalo'obo' tu nadzajuba'ob ti' Jesuse' ca tu káat chi'itajo'ob ti' : ¿ Tu'ux a káat ca c nu'ucbes u ti'al ca a jaant u jaanlil le Táadz máanbalo' ?
+40026040	~		Ca j suunaj tu'ux yaan u aj canbalo'obe' , ca tu yilaj táan u wenelo'ob . Ca tu ya'alaj ti' Pedro : ¿ Ma' páatchaj a p'il iche'ex tin wéetel mix jun p'éel horai' ?
+40026050	ba'ax		Jesuse' tu núucaj ti' : In wet' bisajbáa , le ba'ax ca taal a beete Tu nadzajuba'ob túune' , tu machajo'ob Jesuse' ca tu bisajo'ob .
+40026054	Bix		Ba'ale' wa beyo' ¿ Bix cun dzo'ocpajal le Quili'ich Dzíib cu ya'alic unaj u yúuchul le ba'alo'oba' ?
+40026062a	~		U nojoch le aj kiino'obo' j líike' ca tu ya'alaj ti' Jesús : ¿ Ma' ta núuquic mix ba'al ? 
+40026062b	ba'ax		¿ Ba'ax le ba'alo'ob cu ya'ala'al ta wo'olala' ?
+40026065	Ba'ax		U nojoch aj kiino'ob túuno' tu jataj u nooke' ca tu ya'alaj : Le máaca' dzo'oc u poch'ic Ku ; ¿ Ba'ax u biilal to'on u láak j tacpoolo'ob ? Te'exe' dzo'oc a wu'uyique'ex le kaakas t'aano'ob tu ya'alajo' ;
+40026066	bix		¿ bix a wilique'ex ? Leti'obe' tu ya'alajo'ob : Yaan u si'ipil , unaj u quíimil .
+40026068	máax		ca tu ya'alajo'ob ti' : Bey teech le Cristoo' ¡ Na'at máax tu lajech !
+40027004	Ba'ax		ca tu ya'alaj ti'ob : Tene' kebanchajen iquil tin kubilac u ti'al ca quíimsa'ac jun túul máac mina'an u si'ipil . Ba'ale' leti'obe' tu núucajo'ob ti' : ¿ Ba'ax yaan c il to'on yéetel lelo' ? ¡ Teech a ca'acaj yéetel !
+40027013	buca'aj		Pilato túune' tu ya'alaj ti' : ¿ Ma' wa ta wu'uyic buca'aj ba'alo'ob cu ya'ala'al ta wo'olalo' ?
+40027017	Máax		le ca j much'lajo'obe' Pilatoe' tu káat chi'itaj ti'ob : ¿ Máax a káate'ex ca in jáalkabte , Barrabás wa Jesús máax cu ya'ala'al le Cristoo' ?
+40027021	Máacal máac		Le jalach wíinico' tu káat chi'itaj ti'ob tu ca'a téen : ¿ Máacal máac ti' le ca'a túul a káate'ex ca in jáalkabte'exo' ? Leti'obe' tu ya'alajo'ob : Jáalkabt to'on Barrabás .
+40027022	Ba'ax		Pilatoe' tu káat chi'itaj ti'ob : ¿ Ba'ax túun quin in beet yéetel Jesús le máax cu ya'ala'al le Cristoo' ? Tuláacalo'ob tu núucajo'ob : ¡ Sin ti' cruz !
+40027023a	~		Pilato túune' tu ya'alaj ti'ob : 
+40027023b	ba'ax		¿ Ba'ax kaasil u beetmaj ? Ba'ale' leti'obe' tu sen awto'ob : ¡ Sin ti' Cruz !
+40027046	Ba'axten		Ti' le horao' Jesuse' tu ka'am a'alaj : Eli , Eli , ¿ Lama sabactaní ? u káat ya'ale' : In Ku , in Ku , ¿ Ba'axten dzo'oc a p'atiquen ?
+41001024	Ba'axten		¿ Ba'axten ca wocsicabáa t éetel Jesús Nazaretil ? ¿ Talaja'anech a xu'ulso'on ? Tene' in kaj óolech , in wojel teche' u Quili'ichilech Ku .
+41001027	Ba'ax		Láaj ja'ak u yóolo'ob , ca tu káat chi'ito'ob tu baatzilo'ob : ¿ Ba'ax lela' ? ¿ Ba'ax túumben ca'ansajil lela' ? Le máaca' yaan u páajtalil ti' u keyic tac le kaakas pixano'obo' yéetel cu yu'uba'al u t'aan .
+41002007a	ba'axten		¿ Ba'axten bey u t'aan le máaca' ? Táan u ya'alic ba'al ti' Ku , 
+41002007b	~		tumen mix máac cu páajtal u sa'atsic kebano'ob wa ma' chéen Ku .
+41002008	Ba'axten		Ba'ale' Jesuse' tu séeblaquil tu na'ataj ba'ax cu tucultico'ob , ca tu ya'alaj ti'ob : ¿ Ba'axten ca tuucule'ex beyo' ?
+41002009	Ba'ax		¿ Ba'ax asab ma' talam u ya'ala'al ti' le koja'ano' : sa'atsa'an a kebano'ob , wa u ya'ala'al ti' : Líiken , ch'a a kóochche'il , xíimbalnen ?
+41002016	bix		Ba'ale' u aj ca'anbesajilo'ob le a'almaj t'aano' yéetel le j fariseobo' , le ca tu yilajo'ob táan u janal Jesús yéetel le máaco'obo' , tu ya'alajo'ob ti' u aj canbalo'ob Jesús : ¿ Bix yanil a aj ca'anbesajile'exe' cu janal yéetel cu yukul jun múuch' yéetel le j kam páatano' bey xan yéetel le j kebano'obo' ?
+41002018	Ba'axten		Jun téene' táan u su'ukin u j tzaypacho'ob Juan yéetel u j tzaypacho'ob le fariseobo' . J taal túun dze'edzec máaco'ob tu yicnal Jesús ca tu káat chi'itajo'ob ti' : ¿ Ba'axten u j tzaypacho'ob Juan yéetel le fariseobo' cu su'ukino'ob , ba'ale' a aj canbalo'obe' ma' tu su'ukino'ob ?
+41002019	~		Jesuse' tu núucaj ti'ob : ¿ Cu páajtal wa u su'ukin le máaxo'ob t'a'ano'ob u ti'al jun p'éel dzo'ocol beel ca'aliquil ti' yaan le íichamtzil yéetelo'obe' ? Wa cula'an le íichamtzilo' ma' tu páajtal u su'ukino'ob .
+41002024	ba'axten		Ca j a'ala'ab ti' tumen le fariseobo' : ¿ Ile , ba'axten a aj canbalo'obe' táan u beetico'ob meyaj ma' unaj u beeta'al ti' u kiinil sábadoi' ?
+41003004	Ba'ax		Cu dzo'ocole' ca tu káataj ti' le u láak máaco'obo' : ¿ Ba'ax kambe'en u beeta'al ti' u kiinil sábado , le utzo' wa le kaaso' ? ¿ U to'ocol cuxtal wa u quíimsa'al ? Ba'ale' leti'obe' ma' tu núucajo'obi' .
+41003023	Bix		Ca túun j t'aan le máaco'ob tumen Jesuso' , ca tu tzicbaltaj jun p'éel queet t'aan ti'ob , táan u ya'alic : ¿ Bix je'el u jóokesa'al Satanás tumen Satanase' ?
+41003033a	Máax		Ba'ale' leti'e' tu ya'alaj ti'ob : ¿ Máax in maama 
+41003033b	~		yéetel in wíidzino'ob ?
+41004013	Bix		Tu ya'alaj xan ti'ob : ¿ Ma' táan a na'atique'ex le queet t'aana' ? ¿ Bix túun can a na'ate'ex le u láak queet táano'obo' ?
+41004030a	ba'ax		Tu ya'alaj xan Jesús : ¿ Ti' ba'ax chica'an u ajawil Ku , 
+41004030b	ba'ax		wa ba'ax yéetel queet t'aanil cu páajtal c quetbesic ?
+41004038	~		Jesuse' táan u wenel te pachilo' , u t'alcuntmaj u pool yóokol jun p'éel káamjo'ol ; ca j ajsa'ab tumen u aj canbalo'ob , ca tu ya'alajo'ob ti' : ¡ aj Ca'anbesaj ! ¿ Ma' wa táan a wilic táan c búulul ?
+41004040a	ba'ax		Cu dzo'ocole' Jesuse' tu ya'alaj ti' u aj canbalo'ob : ¿ Ba'ax teen jach sajque'ex ? 
+41004040b	bix		¿ Bix yanil mina'an te'ex ocsaj óolal ?
+41004041	Máax		Leti'obe' jach ja'ak u yóolo'ob ca tu ya'alajo'ob tu baatzilo'ob : ¿ Máax lela' , cu yu'uba'al u t'aan tac tumen iik yéetel ka'anab ?
+41005007	Ba'ax		ca tu yaawtaj ti' : ¿ Ba'ax teen ca wocsicabáa tin wéetel , Jesús , u Paal Ca'anil Ku ? Quin káat óoltic ti' teech tu yo'olal Ku ma' a beetic in mukyaj .
+41005009	Bix		Jesuse' tu káataj ti' : ¿ Bix a kaaba' ? Leti'e' tu núucaj : Legión in kaaba' , tumen ya'abo'on .
+41005030	Máax		Jesuse' tu na'ataj dzo'oc u dzáic toj óolal ti' wa máax yéetel u páajtalile' , ca tu suutuba'e ca j paacatnaj ichil le máaco'obo' , ca tu káat chi'itaj : ¿ Máax péedzkabt in nook ?
+41005031	Máax		J a'ala'ab túun ti' tumen u aj canbalo'obe' : Táan a wilic táan a pe'ech'el tumen le máaco'obo' , cu dzo'ocole' ca káat chi'itic : ¿ Máax péedz kabten ?
+41005035	Ba'ax ti'al		Ma'ili' dzo'ococ u t'aan Jesuse' , dze'edzec u j palitzilo'ob j taalo'ob ti' u yotoch le u nojochil le sinagogao' , ca tu ya'alajo'ob ti' u taata le x ch'úupalo' : A x ch'úupale' dzo'oc u quíimil . ¿ Ba'ax ti'al ca chi'ichnaccuntic le aj ca'anbesajo' ?
+41005039a	ba'axten		Ca túun j ooc Jesuse' ca tu ya'alaj ti'ob : ¿ Ba'axten ca juume'ex 
+41005039b	~		yéetel ca wokole'ex beyo' ? Le x ch'úupala' ma' quimeni' , chéen táan wenel .
+41006002a	tu'ux		Le ca j kuch u kiinil sábadoe' , chu'unpaj u ca'ansaj te j sinagogao' . ya'ab ti' le máaxo'ob j u'uyo' ja'ak u yóolo'ob ca tu ya'alajo'ob : ¿ Tu'ux tu canaj le máac tuláacal le ba'alo'oba' ? 
+41006002b	ba'ax		¿ Ba'ax le sen na'at dza'an ti'a' ? 
+41006002c	~		¿ Cux le chíiculalo'ob cu beetica' ?
+41006022	~		U x ch'upul paal Herodiase' j ooc ti' u cúuchil le nojoch janalo' ca j óokotnaji ; le óokoto' j lúub jach utzil ti' Herodes yéetel ti' tuláacal le cu janalo'ob yéetelo' . Le ajawo' tu ya'alaj túun ti' le x ch'úupalo' : Káat ti' teen je'el ba'alac a káate' , tene' je'el in dzáic ti' teche' .
+41006024	Ba'ax		Le x ch'úupalo' jóoke' ca tu ya'alaj ti' u maama : ¿ Ba'ax je'el in káatic ti'e' ? u maamae' tu ya'alaj ti' : Káat u pool Juan Bautista ti' .
+41006037	~		Ba'ale' Jesuse' tu núucaj ti'ob : Dza'ex ba'al u jaanto'ob . Leti'obe' tu ya'alajo'ob : ¿ Cu páajtal wa c bin c man doscientos denarios waaj , u ti'al c dzáic ba'al u jaanto'ob ?
+41006038	Jay p'éel		Jesuse' tu ya'alaj ti'ob : ¿ Jay p'éel waaj yaan ti' te'ex ? Le ca tu yojéeltajo'obe' , tu ya'alajo'ob ti' : cinco waajo'ob yéetel ca'a túul cayo'ob .
+41007005	Ba'ax		Bey túuno' le fariseob yéetel u ca'anbesajilo'ob le a'almaj t'aano' tu káat chi'ito'ob ti' : ¿ Ba'ax teen a aj canbalo'obe' ma' tu dzo'ocbesico'ob u ya'almaj t'aan le anciano'obo' ? ¿ Ba'ax teen ma' tu p'o'aj u kabo'ob u ti'al u janalo'obi' ?
+41008004	bix		U aj canbalo'obe' tu núucajo'ob ti' : ¿ Bix je'el u páajtal túun u dza'abal ba'al u jaanto'ob way ti' le cúuchil tu'ux mix máac caja'ana' ?
+41008005	Jai p'éel		Jesús tu káat chi'itaj ti'ob : ¿ Jai p'éel waaj yaan te'ex ? Leti'obe' tu ya'alajo'ob : Siete .
+41008012	Ba'axten		Jesuse' tu ch'a'aj yiik , ca tu ya'alaj : ¿ Ba'axten táan u káatico'ob jun p'éel nojoch chíiculal le máaco'oba' ? Tu jaajil quin wa'alic te'exe' mix jun p'éel chíiculal bíin dza'abac ti'ob .
+41008017	Ba'axten		Jesuse' tu na'ataj ba'ax cu ya'alico'obe' , ca tu káat chi'itaj ti'ob : ¿ Ba'axten ca wa'alique'ex mina'an te'ex waaj ? ¿ Láili' ma' táan a na'atique'ex mix táan a wilaje'ex ? ¿ Jach wa chich a pucsi'ikale'ex ?
+41008018a	~		¿ Ma' táan wa a paacate'ex yéetel a wiche'ex , 
+41008018b	~		mix táan a wu'uyaje'ex yéetel a xiquine'ex ? ¿ Ma' táan wa u ka'ajal ti' te'ex ?
+41008019	jay p'éel		Le ca tin t'oxaj le cinco waajo'ob ichil cinco mil máaco'obe' , ¿ jay p'éel xaac u xéexet'al ta mole'ex ? Leti'obe' ca tu ya'alajo'ob : Doce u p'éelel .
+41008020	jay p'éel		Le ca tin t'oxaj le siete waajo'ob ichil cuatro mile' , ¿ jay p'éel xaac chuuptac ta mole'exi' ? Tu ya'alajo'ob : Siete u p'éelel .
+41008021	~		Ca túun tu ya'alaj ti'ob : ¿ Láili' ma' táan a na'atique'exe' ?
+41008023	ba'ax		Bey túuno' , tu machaj u kab le ch'óopo' , ca tu jóokesaj paachil ti' le caajo' . Ca tu ji'ikabtaj u yich yéetel túub , ca tu dzáa u kab tu yóokol , ca tu káataj ti' wa cu páajtal u yilic wa ba'ax .
+41008027	Máaxen		Cu dzo'ocole' j bin Jesús yéetel u aj canbalo'ob tac tu mejen caajilo'ob Cesareail Filipo . Te j bejo' tu káat chi'itaj ti' u aj canbalo'ob : ¿ Máaxen cu ya'alic le máaco'obo' ?
+41008029a	~		Tu káat chi'itaj ti'ob : Cux túun te'ex , 
+41008029b	Máaxen		¿ Máaxen ca wa'alique'ex ? Pedroe' tu ya'alaj túun ti' : Teche' leti' le Cristoo' .
+41008036	ba'ax		¿ Tumen ba'ax u biilal ti' máac u náajaltic tuláacal yóokolcaab wa cu satic u pixan ?
+41008037	buca'aj		Tumen ¿ buca'aj je'el u páajtal u bo'otic jun túul máac u ti'al u toquic u pixane' ?
+41009010	ba'ax		Le o'olale' tu muclo'ob ichilo'ob lela' , ba'ale' táan u káatico'ob tu baatzilo'ob ba'ax le ca'a púut cuxtal ichil le quimeno'obo' .
+41009011	Ba'ax		Tu káat chi'ito'ob túun ti' Jesús : ¿ Ba'ax teen cu ya'alico'ob u aj ca'anbesajilo'ob le a'almaj t'aano' kabéet u taal Elías táanil ?
+41009012	Ba'ax		Leti'e' tu núucaj ti'ob : Tu jaajile' Eliase' yaan u taal táanil , u ti'al u nu'uct tuláacal ba'al . ¿ Ba'ax cu ya'alic le Quili'ich Dzíibo'ob tu yo'olal u Paal Máaco' ? Cu ya'alique' yaan u mukyaj yéetel yaan u ch'a'ap'ecta'al .
+41009016	Ba'ax		Leti'e' tu káat chi'itaj túun ti'ob : ¿ Ba'ax ca ba'atel t'antique'ex yéetelo'ob ?
+41009019a	tac ba'ax kiin		Jesuse' tu núucaj : ¡ J ma' ocsaj óol máaque'ex ! ¿ Tac ba'ax kiin quin wantal ta wéetele'ex ? 
+41009019b	tac ba'ax kiin		¿ Tac ba'ax kiin yaan in mukyajtique'ex ? Taase'ex teen way le j xi'ipalo' .
+41009021	Buca'aj kiin		Jesuse' tu káat chi'itaj ti' u taata : ¿ Buca'aj kiin cáajac u yúuchul ti' lela' ? Ca tu núucaj le taatatzilo' : Tu chan xi'ipalil .
+41009028	ba'ax		Jesuse' j ooc túun ti' jun p'éel naj , u canbalo'obe' tu káat chi'ito'ob ti' jun páayil : ¿ Ba'ax teen ma' j páatchajac jóokesic le kaakas pixano' ?
+41009033	Ba'ax		J kucho'ob túun tu caajil Capernaum ; le ca j ooco'ob ich naje' , Jesuse' tu káat chi'itaj ti'ob : ¿ Ba'ax ca ba'atel t'antique'ex ca'ach te j bejo' ?
+41009050	bix		Le ta'abo' ma'alob , ba'ale' wa cu p'áatal ma' ch'óoch'e' , ¿ bix je'el u páajtal u ma'alobquinta'al tu ca'a téene' ? Yanac ta'ab ti' te'ex , yéetel cuxlene'ex ich jéedzel ta baatzile'ex .
+41010003	Ba'ax		Leti' túune' tu núucaj ti'ob : ¿ Ba'ax tu tzolbe'en t'antaj Moisés ?
+41010017	ba'ax		Le ca jóok u binbal Jesuse' , áalcabil taalic jun túul máac , ca j xolaj tu táan ca tu káat chi'itaj ti' : Utzil aj ca'anbesaj , ¿ ba'ax unaj in beetic u ti'al ca yanac teen le cuxtal mina'an u xuulo' ?
+41010018	ba'axten		Jesuse' tu ya'alaj ti' : ¿ Ba'axten ca wa'alic utzen ? Chéen yaan jun túulili' máax utz , leti'e' Ku .
+41010026	Máax		Le ca tu yu'ubajo'ob lela' , sen ja'ak u yóolo'ob ca tu káatajo'ob tu baatzilo'ob : Bey túuno' . ¿ Máax je'el u páajtal u to'ocole' ?
+41010036	Ba'ax		Leti' túune' tu ya'alaj ti'ob : ¿ Ba'ax a káate'ex ca in beete' ?
+41010051	Ba'ax		Jesuse' tu káat chi'itaj ti' : ¿ Ba'ax a káat ca in beet ti' teech ? Le ch'óopo' ca tu núucaj ti' : Aj ca'anbesaj , in káat paacat .
+41011003	ba'axten		Wa máax cu káatic te'ex ba'axten ca beetique'exe' , a'ale'ex ti'e' : kabéet ti' Yuumtzil , cu dzo'ocole' sutic .
+41011005	Ba'ax		Dze'edzec ti' le máaxo'ob yano'ob te'elo' tu ya'alajo'ob ti'ob : ¿ Ba'ax ca beetique'ex ? ¿ Ba'axten ca wach'ique'ex le burroo' ?
+41011028a	ba'ax		ca tu káat chi'ito'ob ti' : ¿ Yéetel ba'ax páajtalil ca beetic le ba'alo'oba' ? 
+41011028b	Máax		¿ Máax dzáa ti' teech páajtalil u ti'al a beetico'ob ?
+41011030	Máax		¿ Máax túuxt Juan u ti'al u dzáa ocja' ? ¿ Ku wa chéen wíinico'ob ? núuque'ex ti' teen .
+41011031a	~		Jo'op' túun u ba'atel t'aano'ob tu baatzilo'ob , táan u ya'alico'ob : Wa c a'alic Ku túuxte , yaan u núuquic ti' to'on : 
+41011031b	ba'axten		¿ Ba'axten túun ma' ta wocsaj óolte'exi' ?
+41012009	Ba'ax		Jesuse' tu káataj túun ti'ob : ¿ Ba'ax cu bin u beet túun u yuumil le lu'umo' ? Bíin taalac u quíims le j meyajo'obo' , yéetel bíin u dzáa le lu'um ti' yaanalo'ob .
+41012015	Ba'axten		Ba'ale' Jesuse' tu kaj óoltaj u ca'a p'éel ichilo'ob , ca tu ya'alaj ti'ob : ¿ Ba'axten a káat a beete'ex in lúubul ? Taase'ex teen jun p'éel taakin u ti'al in wile .
+41012016a	Máax		Ca tu taasajo'ob ti' . Le ca tu yilaje' , Jesuse' tu káat chi'itaj ti'ob : ¿ Máax ti'alintic le ich 
+41012016b	~		yéetel le kaaba' dzíibta'an te'ela' ? Leti'obe' tu núucajo'ob : U ti'al César , u noj jalachil Roma .
+41012023	Máax		Bey túuno' , le quéen ca'a púut cuxlaco'obe' , ¿ máax ichilo'ob cu bin atantic , tumen tu sieteilo'ob j dzo'oc u beelo'ob tu yéetel ?
+41012028	Máacalmáac		J kuch xan jun túul u aj ca'anbesajil le a'almaj t'aano' , máax tu yu'ubaj u ba'atel t'aano'ob . Tumen u yojel ma'alob núuca'abic u t'aano'ob tumen Jesuse' ca tu káat chi'itaj ti' : ¿ Máacalmáac u yáaxil ichil ti' tuláacal le a'almaj t'aano'obo' ?
+41012035	Bix		Jesuse' táan u ca'anbesaj te j kulnajo' , ca tu káat chi'itaj : ¿ Bix yanil le u aj ca'anbesajilo'ob le a'almaj t'aano' cu ya'alico'ob le Cristoo' u Paal David ?
+41012037	~		
+41013004a	ba'ax kiin		A'al to'on ba'ax kiin quéen úuchuc le ba'alo'oba' . 
+41013004b	ba'ax		¿ Ba'ax chíiculal bíin ila'ac bin u ca'aj úuchul tuláacal le ba'alo'oba' ?
+41014004	Ba'axten		Dze'edzec ti' le yano'ob te'elo' j kuuxilnajo'ob , ca tu ya'alajo'ob tu baatzilo'ob : ¿ Ba'axten cu we'equel le qui'iboc aceitea' ?
+41014006	Ba'axten		Ba'ale' Jesuse' tu ya'alaj ti'ob : P'ate'ex , ¿ Ba'axten ca kuuxile'ex ti' ? Le ba'ax dzo'oc u beetic tena' jun p'éel ma'alob ba'al .
+41014012	Tu'ux		U yáax kiinil le kiinbesaj iquil u jaanta'al le waaj x ma' levadurao' , le quéen quíimsa'ac le u j tamanil le Táadz máanbalo' , u aj canbalo'ob Jesuse' tu káat chi'ito'ob ti' : ¿ Tu'ux a káat ca xi'ico'on c máakant u ti'al a jaant u jaanlil le Táadz máanbalo' ?
+41014014	Tu'ux		Je'el tu'uxac ca ocoque' , a'ale'ex ti' u yuumil naj : Le aj ca'anbesajo' cu ya'alic : ¿ Tu'ux yaan le cúuchil tu'ux quin in jaant yéetel in aj canbalo'ob u jaanlil le Táadz máanbalo' ?
+41014060a	~		U noojoch le aj kiino'obo' j líik chúumuc tuláacalo'obe' ca tu káat chi'itaj ti' Jesús : ¿ Ma' táan a núuquic mix ba'al ? 
+41014060b	ba'ax		¿ Ba'ax le ba'alo'ob cu ya'ala'al ta wo'olala' ?
+41014063	Ba'ax		U nojoch le aj kiino'obo' tu jataj u nook túun , ca tu ya'alaj : ¿ Ba'ax u biilal to'on u láak j tac poolo'ob ?
+41014064	Ba'ax		Te'exe' dzo'oc a wu'uyique'ex bix tu poch'ilac Ku yéetel u t'aano'ob . ¿ Ba'ax ca tuclique'ex ? Tuláacalo'ob tu tucultajo'ob u kubico'ob ti' quíimil .
+41015004	~		Bey túuno' Pilatoe' tu ca'a káat chi'itaj ti' , táan u ya'alic : ¿ Ma' ta núuquic mix ba'al ? Il tu yo'olal buca'aj ba'alo'ob cu taquico'ob a pool .
+41015012	Ba'ax		Pilatoe' tu káataj ti'ob tu ca'a téen : ¿ Ba'ax a káate'ex ca in beet yéetel le ca wa'alique'ex u ajaw le judíobo' ?
+41015014a	~		Pilatoe' tu ya'alaj ti'ob : 
+41015014b	ba'ax		¿ Ba'ax kaasil u beetmaj ? Ba'ale' leti'obe' tu yawat a'alo'ob tu ca'a téen : ¡ Quíimsa'ac ti' Cruz !
+41015034	Ba'axten		Ti' le horao' Jesuse' tu ka'am a'alaj : Eloi , Eloi , ¿ Lama sabactaní ? u káat ya'ale' : In Ku , in Ku . ¿ Ba'axten dzo'oc a p'atiquen ?
+41016003	Máax		Táan u ya'alico'ob tu baatzilo'ob : ¿ Máax cu bin lukesic le tuunich yaan tu jool le mucnalo' ?
+42001018	bix		Zacaríase' ca tu káat chi'itaj ti' le ángelo' : ¿ Bix je'el u páajtal in jach ojéeltic lela' ? Tumen tene' jach ch'ija'anen , bey xan in watan .
+42001034	Bix		María túune' ca tu káat chi'itaj ti' le ángelo' : ¿ Bix túun bíin úuchuc lela' ? Tumen mina'an in wíicham .
+42001043	Máaxen		¿ Máaxen teen u ti'al ca taalac u xíimbalten u maama in Yuumtzil ?
+42001066	Máax		Tuláacal le máaxo'ob tu yu'ubajo'ob lela' tu sen tucultajo'ob ca tu káato'ob tu baatzilo'ob : ¿ Máax túun le chan xi'ipala' ? Tumen jach qui' t'anta'an tumen Yuumtzil .
+42002048	ba'axten		Le ca j ila'ab tumen u taataobe' , ja'ak u yóolo'ob ; u maama túune' tu ya'alaj ti' : in j xibil paal , ¿ ba'axten ta beetaj to'on lela' ? A taata yéetel tene' dzo'oc c sen caxtiquech yéetel yaayaj óolal .
+42002049	Ba'axten		Jesús tu ya'alaj ti'ob : ¿ Ba'axten ca caxtiquene'ex ? ¿ Ma' wa a wojele'ex ti' u ba'alilo'ob in Taata unaj in wantali' ?
+42003007	Máax		Le quéen jóokoc ca'ach le máaco'ob u ti'al u dza'abal ocja' ti'ob tumen Juane' , leti'e' cu ya'alic ti'ob : ¡ U ch'i'ibale'ex cano'ob ! ¿ Máax a'al te'ex ca púudzuque'ex ti' le nojoch jaadz cu náadzalo' ?
+42003010	Ba'ax		Le máaco'ob túuno' tu káato'ob ti' : ¿ Ba'ax túun unaj c beetic ?
+42003012	ba'ax		J taalo'ob xan dze'edzec ti' le j kam páatan u ti'al ca dza'abac ocja' ti'ob , ca tu káat chi'ito'ob ti' Juan : Aj ca'anbesaj , ¿ ba'ax unaj c beetic to'on ?
+42003014a	~		Bey xan dze'edzec soldado'ob tu káat chi'ito'ob ti' : Cux to'on , 
+42003014b	ba'ax		¿ ba'ax unaj c beetic ? Leti'e' tu núucaj ti'ob : Ma' a luksique'ex mixba'al ti' mix máac , mix tu yo'olal yaayaj t'aan mix yéetel tacpool tu yo'olal ba'ax ma' u beeti' , yéetel qui'imacchajac a wóole'ex yéetel a bo'olale'ex .
+42004034	Ba'axten		P'ato'oni' . ¿ Ba'axten ca wocsicabáa t éetel , Jesús Nazaretil ? ¿ Taalech wa u ti'al a xu'ulso'on ? Tene' in kaj óolech , in wojel xan teech u Quili'ich Ku .
+42004036	Ba'ax		Tuláacal ja'ak u yóolo'ob , táan u ya'alico'ob ca'ach tu baatzilo'ob : ¿ Ba'ax t'aanil le beyo'oba' ? Tumen le máaca' yéetel nojoch páajtalil cu ya'alic ca jóokoc le kaakas pixano'obo' , leti'ob xane' cu jóokolo'ob .
+42005021a	Máax		Je'el túuna' le u aj ca'anbesajilo'ob le a'almaj t'aano' yéetel le fariseobo' jo'op' u tucultico'ob : ¿ Máax le máac cu ya'alic ba'al ti' Yuum Ku iquil u t'aan beya' ? 
+42005021b	~		Mix máac cu páajtal u sa'atsic kebano'ob wa ma' chéen Ku .
+42005022	Ba'ax		Ba'ale' Jesuse' u yojel ba'ax cu tucultico'ob , ca tu ya'alaj ti'ob : ¿ Ba'ax teen ca tuucule'ex beyo' ?
+42005023	Ba'ax		¿ Ba'ax asab séeba'an u ya'ala'al : Sa'atsa'an a kebano'ob , wa u ya'ala'al : Líiken xíimbalnen ?
+42005030	Ba'axten		Ba'ale' le fariseobo' yéetel u aj ca'anbesajilo'ob le a'almaj t'aano' jo'op' u ch'inch'in t'aano'ob tu contra u aj canbalo'ob Jesús , táan u ya'alico'ob : ¿ Ba'axten ca janale'ex yéetel ca wukule'ex tu yéetel le j kam páatano'obo' bey xan tu yéetel le j kebano'obo' ?
+42005033	Ba'axten		Je'el túuna' leti'obe' tu káat chi'ito'ob ti' Jesús : ¿ Ba'axten u aj canbalo'ob Juane' cu su'ukino'ob yéetel cu sen payalchi'ob , bey xan le u aj canbalo'ob le fariseobo' , ba'ale' a aj canbalo'obe' mantadz táan u janalo'ob yéetel táan u yukulo'ob ?
+42005034	~		Jesús tu núucaj ti'ob : ¿ Je'el wa a beetique'ex u su'ukin le máaxo'ob t'ana'ano'ob u ti'al jun p'éel dzo'ocol beel ca'aliquil le íichamtzil ti' yaan tu yéetelo'obo' ?
+42006002	Ba'axten		Dze'edzec túun ti' le fariseobo' tu káato'ob ti'ob : ¿ Ba'axten ca beetique'ex meyaj ma' utz u beeta'al tu kiinil sábadoi' ?
+42006009	ba'ax		Ca túun tu ya'alaj Jesús ti' le u láak máaco'obo' : Bin in ca'aj in beet te'ex jun p'éel káat chi' : ¿ Ba'ax unaj u beeta'al sábado , ba'ax utz wa ba'ax kaas ? ¿ U to'ocol cuxtal wa u luksa'al ?
+42006032	ba'ax		Wa te'ex ca yaacuntique'ex chéen le máaxo'ob yaacuntmaile'exo' , ¿ ba'ax u ma'alobil ca beetique'ex ? Tumen tac le kaakas máaco'obo' bey u beetico'obo' .
+42006033	ba'ax		Wa xan ca beetique'ex utz chéen ti' le máaxo'ob beetic te'ex utzo' , ¿ ba'ax u ma'alobil ca beetique'ex ? Tumen le kaakas máaco'obo' bey xan u beetico'obo' .
+42006034	ba'ax		Wa xan ca dzáique'ex majnil wa ba'ax chéen ti' le máaxo'ob ca tucultique'ex a kamique'ex wa ba'axe' , ¿ ba'ax utzil ca beetique'ex ? Tumen le kaakas máaco'obo' cu dzáico'ob majnil ti' le kaakas máaco'obo' u ti'al u kamico'ob xan wa ba'ax ti' leti'ob .
+42006039	~		Jesús tu ya'alaj le queet t'aan ti'oba' : ¿ Cu páajtal wa u bisa'al jun túul ch'óop tumen u láak ch'óop ? ¿ Ma' wa tu ca'a túulalo'ob je'el u lúubulo'ob tu joomlil lu'umi' ?
+42006041	bix		¿ Bix anil cu páajtal a wilic le chan sojol yaan tu yich a sucu'uno' , Ba'ale' ma' táan a wilic le che' yaan ta wicho ?
+42006042	Bix		Wa ma' ta wilic le che' yaan ta wicho , ¿ Bix je'el u páajtal a wa'alic ti' a sucu'une' : Sucu'un , cha'aten in jóokesic le chan sojol yaan ta wicho' ? ¡ J ca'a p'éel ich ! Jóokes táanil le che' yaan ta wich techo' , ca páatac a wilic ma'alob le chan sojol yaan tu yich a sucu'uno' .
+42006046	Ba'axten		¿ Ba'axten ca wa'alique'ex teen : Yuumtzil , Yuumtzil , cu dzo'ocole' ma' táan a beetique'ex le ba'ax quin wa'alico' ?
+42007024	Ba'ax		Le ca j bino'ob le máaxo'ob j túuxta'abo'ob tumen Juano' , cáaj u t'aan jesús tu yo'olal Juan , táan u ya'alic : ¿ Ba'ax bine'ex a wile'ex te x tocoy lu'umo' ? ¿ Jun cúul jalal cu yúumta'al tumen iik ?
+42007025	ba'ax		Wa ma'e' , ¿ ba'ax j bine'ex a wile'ex ? ¿ Jun túul máac u búuquintmaj co'ocoj nooko'ob ? Te'exe' a wojele'exe' le máaxo'ob cu búuquintico'ob co'ocoj nooko'obe' yéetel cuxa'ano'ob ich ayikalile' ti' yano'ob tu najil ajawo'obe' .
+42007026	ba'ax		Tu dzooque' ¿ ba'ax j bine'ex a wile'ex ? ¿ Jun túul aj bóobat ? Bey , jach jaj , jun túul máac asab nojoch ti' jun túul aj bóobat .
+42007031a	ba'ax		Yuumtzile' tu ya'alaj : ¿ Ba'ax yéetel quin in quetbes u máaquilo'ob le kiino'oba' ? 
+42007031b	ba'ax		¿ Ti' ba'ax chica'ano'ob ?
+42007042	Máacalmáac		Ba'ale' mix jun túul páatji' u bo'otic u p'axi' . Le máac túun p'axa'ano' tu sa'atsaj u p'ax tu ca'a túulal . A'al teen : ¿ Máacalmáac ti' le ca'a túulo'ob cun asab yaabiltico' ?
+42007049	Máax		Le máaxo'ob túun t'ana'ano'ob , culucbalo'ob tu yéetel te'elo' , jo'op' u ya'alico'ob tu baatzilo'ob : ¿ Máax ta t'aan le máaca' cu sa'atsic tac kebano'ob ?
+42008025a	ba'ax		Ca tu ya'alaj ti' u aj canbalo'ob : ¿ Ba'ax j úuch yéetel a wocsaj óolale'ex ? Ba'ale' leti'obe' sajacchajo'ob yéetel ja'ak u yóolo'ob , ca tu káat chi'ituba'ob tu baatzlilo'ob : 
+42008025b	Máax		¿ Máax ta t'aan le máaca' ? Cu ya'almaj t'aantic tac le iiko' bey xan le ja'o' , Yéetel cu yu'ubal u t'aan .
+42008028	Ba'axten		Le máaca' , le ca tu yilaj Jesuse' , j xolaj tu táan ca tu yaawtaj : ¿ Ba'axten ca wocsicabáa tin wéetel , Jesús u paal ca'anil Ku ? Quin káat óoltic teech ma' a beetic in mukyaj .
+42008030	Bix		Jesús tu káataj ti' : ¿ Bix a kaaba' ? Leti'e' tu núucaj : Legion in kaaba' . Tu ya'alaj lela' tumen ya'abcach kaakas pixano'ob oca'an ti' .
+42008045	Máax		Jesuse' tu káat chi'itaj túun : ¿ Máax péedzkabten ? Ba'ale' tumen mix máac a'al wa leti'e' , Pedro yéetel le u láak aj canbalo'obo' tu ya'alajo'ob : Aj ca'anbesaj , le máaco'obo' táan u pech'iquecho'ob , cu dzo'ocole' ca káatic wa túun : ¿ Máax péedzkabten ?
+42009009a	Máax		Ba'ale' Herodese' tu ya'alaj : Ten tin túuxtaj cúulch'acbil u caal Juan . ¿ Máax túun le 
+42009009b	~		máac quin wu'uyic u ya'ala'al ba'alo'ob tu yo'olala' ? Herodes túune' jach u káat u yile .
+42009018	Máaxen		Jun téene' táan u payalchi' Jesús tu juunal , ti' yaan xan u aj canbalo'ob tu yicnale' ca tu káat chi'itaj ti'ob : ¿ Máaxen cu ya'alic le máaco'obo' ?
+42009020a	~		Ca tu káataj túun ti'ob : Cux túun te'ex , 
+42009020b	Máaxen		¿ Máaxen ca wa'alique'ex ? Ca tu ya'alaj Pedro : Teeche' u Cristoech Ku .
+42009025	ba'ax		Tumen ¿ ba'ax u biilal ti' jun túul máac u náajaltic tuláacal yóokolcaab , cu dzo'ocole' cu sa'atal wa cu xu'ulsicubáa leti' ?
+42009041a	tac ba'ax kiin		Jesuse' tu núucaj : Ma' ocsaj óol yéetel kaakas wíinique'ex , ¿ tac ba'ax kiin quin antal ta wéetele'ex ? 
+42009041b	tac ba'ax kiin		¿ Tac ba'ax kiin quin in mukyajte'ex ? Taas teen a paal waye' .
+42010025	ba'ax		Ca j wa'alaj jun túul u aj ca'anbesajil le a'almaj t'aano' . U ti'al u túuntic u yóol Jesuse' ca tu káataj ti' : Aj ca'anbesaj , ¿ ba'ax unaj in beetic u ti'al ca yanac teen cuxtal mina'an u xuul ?
+42010026a	ba'ax		Jesuse' tu núucaj ti' : ¿ Ba'ax dzíiba'an ti' le a'almaj t'aano' ? 
+42010026b	bix		¿ Bix a xoquic ?
+42010029	Máax		Ba'ale' u aj ca'anbesajil le a'almaj t'aano' tu yóoltaj ba'atel t'aane' , ca tu ya'alaj ti' Jesús : ¿ Máax túun in láak ?
+42010036a	bix		Ma'alob túun , ¿ bix a wilic ? 
+42010036b	máacalmáac		¿ máacalmáac ti' le óox túul máaco'ob u láak le máax lúub tu kab le j ocolo'obo' ?
+42011008	~		Tu jaajil quin wa'alic te'exe' , quex ma' u líikil u dzáa wa ba'ax ti' tumen u amigoe' , ba'ale' tumen táan u sen káatal ti'e' , yaan u líikil u ti'al u dzáa tuláacal ba'ax kaabéet ti' .
+42011011	Máax		¿ Máax taatatzil ichile'ex je'el u chúucpajal u yóol u dzáa jun p'éel tuunich ti' u paal le quéen u káat waaje' ? ¿ Wa ca u dzáa jun túul caan ti' le quéen u káat jun túul caye' ?
+42011012	~		¿ Wa ca u dzáa jun túul síina'an ti' le quéen u káat jun p'éel je' ?
+42011013	~		Bey túuno' wa te'ex , quex kaakas máaque'ex , a wojel a dza'ex ma'alob ba'alo'ob ti' a paalale'exe' , jach tu jaajil a Taataex yaan te j ca'ano' bíin u dzáa le Quili'ich Pixan ti' le máaxo'ob káatic ti'e' .
+42011018	bix		Bey xan wa satanas cu jáatzpajal tu baatzile' , ¿ bix cun xáantal u páajtalil ? Quin wa'alic lela' tumen táan a wa'alique'exe' yéetel u páajtalil Beelzebú quin jóokesic kaakas pixano'ob .
+42011019	máax		Wa beyo' , ¿ máax dzáic páajtalil ti' le máaxo'ob tzaypachtique'ex u ti'al u jóokesico'ob ? Le beetique' leti'ob e'esic te'ex kaas ba'ax ca wa'alique'ex .
+42012014	Máax		Ba'ale' ca j a'ala'ab ti' tumen Jesús : Máac , ¿ Máax dzáen ta wóokole'ex je'el bix jun túul juez wa je'el bix jun túul máax cu páajtal u jatzic ba'ax ati'ale'ex ?
+42012017	Ba'ax		Le ayikal máac túuno' jo'op' u sen tucultic : ¿ Ba'ax quin in beete ? Tumen mina'an tu'ux in líiksic u yich in pakalo'obi' .
+42012020	máax		Ba'ale' j a'ala'ab ti' tumen Ku : J ma' na'at wíinic , yaan a quíimil ti' le áakaba' ; le ba'alo'ob a líikesmajo' , ¿ máax bíin ti'alintic ?
+42012024	~		Pacte'ex le j ka'awo'obo' : ma'atech u pakalo'ob mixtech u jocho'ob , mina'an xan u cúunche'ob mix u ch'iilo'ob , ba'ale' cu tzéenta'alo'ob tumen Ku . ¿ Ma' wa asab yaan a tojole'ex ti' le ch'íich'o'obo' ?
+42012025	Máax		¿ Máax ti' te'ex cu páajtal u yantal jun náab asab ti' u ca'anlil u wíinclil tu yo'olal u sen tuclique' ?
+42012026	ba'axten		Le beetique' wa ma' tu páajtal a beetique'ex mix le ba'ax chichana' , ¿ ba'axten túun ca sen tuclique'ex le u láak ba'alo'obo' ?
+42012042	Máax		Ca tu ya'alaj Yuumtzil : ¿ Máax le palitzil chuca'an yóol yéetel yaan u na'at p'a'at tumen u dzuulil u ti'al u canan tu yotoch yéetel ca u dzáa u janal le u láak palitzilo'ob jach tu yorailo' ?
+42012049	Buca'aj		Tene' j taalen in t'ab káak way yóokolcaabe' . ¡ Buca'aj utzil tin t'aan wa bejela' táan u tóoch'bale' !
+42012056	ba'axten		¡ J ca'a p'éel iche'ex ! te'exe' a canmaje'ex a kaj óolte'ex u táan ca'an bey xan lu'um . ¿ Ba'axten túun ma' ta kaj óoltique'ex le kiino'ob cuxlique'exa' ?
+42012057	Ba'axten		¿ Ba'axten ma' ta kaj óoltique'ex tu juunal a wóole'ex ba'ax toj ?
+42013004	~		¿ Táan wa a tucultique'exe' le dieciocho máaco'ob quíimo'ob le ca j lúub u torreil Siloé yóokolo'obo' asab yaan u si'ipilo'ob ti' le u láak u cajnáalilo'ob Jerusaleno' ?
+42013007	ba'ax		Ca tu ya'alaj ti' le máax canantic le lu'umo' : Ile , tu yáam óox p'éel ja'ab quin taal in wil wa yaan u yich le che'a' , ba'ale' mix jun téen tu dzáaj u yich . Ch'aque , ¿ ba'ax u biilal yanil te j lu'uma' ?
+42013015	~		Ca túun j núuca'ab ti' tumen Yuumtzil : J ca'a p'éel iche'ex , je'el máaxac ti' te'exe' , ¿ ma' wa cu wach'ic u wacax wa u tzíimin sábado yéetel cu luksic tu'ux cu janalo' u ti'al u bis u yuk ja' ?
+42013018a	ba'ax		Ca túun tu ya'alaj Jesús : ¿ Ti' ba'ax chica'an u ajawil Ku ? 
+42013018b	ba'ax		¿ Ba'ax yéetel je'el u páajtal in quetique' ?
+42013020	ba'ax		Ca tu ya'alaj xan : ¿ Ba'ax yéetel je'el u páajtal in quetic u ajawil Kue' ?
+42013025	~		Cu dzo'ocol u líikil u yuumil naj u kal le jool najo' , te'ex ti' yane'ex táancabe' bíin koopnaque'ex yéetel bíin a wa'ale'ex : Yuumtzil , je'e to'on jool naj , ba'ale' leti' bíin u núuc ti' te'ex : Ma' in wojel tu'uxile'exi' .
+42014005	Máax		Ca tu ya'alaj ti' le fariseobo' : ¿ Máax ti' ichile'ex , wa cu lúubul u burro wa u wacax ichil jun p'éel ch'e'ene' ma' tu bin tu séeblaquil u jóokes , quex sábado ?
+42014028	~		Wa yaan jun túul ti' te'ex u káat u beet jun p'éel torree' , ¿ ma' wa tu cutal táanil u tucult bajux cun u tojolt ti' , tu yo'olal u yilic wa chuca'an u tojol ti' u ti'al u dzo'ocsic ?
+42014031	~		Wa xan jun túul ajaw yaan u ba'atel yéetel u láak ajaw , ¿ ma' wa táanil kaabéet u cutal u tucult wa je'el u páajtal u bin yéetel diez mil soldado'ob u ti'al ba'atel tu contra le cu taal yéetel veinte milo' ?
+42014034	bix		Ta'abe' ma'alob , ba'ale' wa cu p'áatal ma' ch'óoch'e' , ¿ Bix cun ch'óoch'quinta'al tu ca'a téen ?
+42015004	Máax		¿ Máax ti' te'ex , wa yaan cien j tamano'ob ti'e' , ca kuchuc sa'atal jun túul ti'obe' , ma' tu p'atic le noventa y nueve te j káaxo' ca xi'ic u caxant le j sa'ato' tac quéen u caxte ?
+42015008	Máax		Wa ¿ Máax co'olelil yaan diez taakino'ob ti'e' , wa cu satic jun p'éele' , ma' tu t'abic jun p'éel sáasil , yéetel cu míistic le najo' , iquil u dzaamail u yóol u ti'al u caxantic tac quéen u caxte ?
+42015026	ba'ax		Ca tu t'anaj jun túul ti' le xi'ipalo'obo' ca tu káat chi'itaj ti' ba'ax cu yúuchul .
+42015029	~		Leti' túune' tu ya'alaj ti' u taata : Buca'aj ja'abo'ob dzo'oc in meyajtiquech , mix jun téen p'áatac ma' in beetic ba'ax ca wa'alic , ba'ale' mix jun téen a dzáa teen quex jun túul chan j taman u ti'al in qui'imaccuntic in wóol yéetel in amigo'ob .
+42016002	Ba'ax		Lela' j t'aan tumen u dzuulile' ca j a'ala'ab ti' : ¿ Ba'ax le cu ya'ala'al teen ta wo'olala' ? Kub teen le meyaj a beetmajo' , tumen bin u ca'aj xu'ulul a canantic in ayikalil .
+42016003	Ba'ax		Le j canan ayikalil túuno' jo'op' u tucultic : Bey táan u luksa'al ti' teen le meyaj tumen in dzuulila' . ¿ Ba'ax quin in beet bejela'e' ? Mina'an in muuk u ti'al in meyajtic lu'um . Sublaquen xan in káat máatan .
+42016005	Buca'aj		Ca jo'op' u t'anláantic jujun túulil tuláacal le máaxo'ob yaan u p'aaxo'ob ti' u dzuulilo' . Ti' yáax jun túule' tu káat chi'itaj ti' : ¿ Buca'aj a p'aax ti' in dzuulil ?
+42016007	buca'aj		Cu dzo'ocole' tu káat chi'itaj ti' u láak jun túul : Cux túun teech , ¿ buca'aj a p'axmaj ti' ? Ca tu núucaj : Cien u p'iisil trigo . Ca túun tu ya'alaj ti' : Ch'a'a u ju'unil a p'aax . Beet u jeel tu yo'olal chéen ochenta .
+42016011	máax		Bey túuno' , wa ma' tu chúucpajal a wóole'ex a meyajtique'ex le lu'umcabil ayikalilo' , ¿ máax cun u dzáa a canante'ex le jaajil ayikalilo' ?
+42016012	máax		Wa xan ma' chuca'an a wóole'ex a meyajte'ex ba'al ma' a ti'ale'exe' , ¿ máax cun dzáic te'ex le ba'al a ti'ale'exo' ?
+42017007	~		Wa jun túul ti' te'ex yaan jun túul u palitzil cu yu'ul ich cool wa ti' u canan tamane' , ¿ cu ya'alic wa ti' : Máanen , culen janal ?
+42017017	Tu'ux		Ca tu ya'alaj Jesús : ¿ Ma' wa diez le máaco'ob j tojchaj u yóolo'obo' ? ¿ Tu'ux yano'ob le u láak nueveo' ?
+42017018	~		¿ Chéen wa le j táanxel lu'umil máac j suunaj u qui'iqui' t'ant Kua' ?
+42017020	ba'ax kiin		Le fariseobo' tu káat chi'ito'ob ti' Jesús ba'ax kiin quéen taalac u ajawil Ku . Leti' túune' tu núucaj ti'ob : U taalbal u ajawil Kue' ma' jun p'éel ba'al cu páajtal u yila'ali' .
+42017037	Tu'ux		Le ca tu yu'ubajo'ob lela' , tu káatajo'ob ti' : ¿ Tu'ux bíin úuchuc lela' , Yuumtzil ? Leti'e' tu núucaj ti'ob : Tu'ux yaan le quimen wíinclilo' , ti' bíin much'lac le ch'oomo'obo' .
+42018018	ba'ax		Jun túul ti' u nojochil le judíobo' tu ya'alaj ti' Jesús : Utzil aj ca'anbesaj , ¿ ba'ax unaj in beetic u ti'al ca yanac teen cuxtal mina'an u xuul ?
+42018019	Ba'axten		Jesuse' tu ya'alaj ti' : ¿ Ba'axten ca wa'alic utzen ? Chéen jun túulili' máax utz , lelo' Yuum Ku .
+42018026	máax		Le máaxo'ob j u'uy lela' ca tu ya'alajo'ob : Bey túuno' , ¿ máax je'el u páajtal u to'ocole' ?
+42018036	ba'ax		Le ch'óopo' , le ca tu yu'ubaj táan u máan ya'abcach máaco'obe' , tu káat chi'itaj ba'ax cu yúuchul .
+42018041	Ba'ax		¿ Ba'ax a káat ca in beet ti' teech ? le ch'óopo' tu núucaj : Yuumtzil , in káat in kam u sáasil in wich .
+42019007	~		Tuláacal le máaco'ob , le ca tu yilajo'ob lela' , jo'op' u tutucchi'ob , táan u ya'alico'ob j bin Jesús tu yotoch jun túul j keban wíinic .
+42019023	ba'axten		¿ ba'axten túun ma' ta dzáaj in taakin tu'ux cu beeta'al u meyajo'ob u ti'al beyo' , le quéen taalaquene' , ca in kam yéetel le buca'aj tu náajaltaje' ?
+42019031	ba'ax		Wa yaan máax cu káatic te'ex ba'ax o'olal ca wach'ique'ex le burroo' , a'ale'ex ti'e' kaabéet ti' Yuumtzil .
+42019033	Ba'axten		Ca'aliquil táan u wach'ico'obe' , j káata'ab ti'ob tumen u yuumilo'ob le burroo' : ¿ Ba'axten ca wach'ique'ex ?
+42020002a	ba'ax		ca tu ya'alajo'ob ti' : A'al to'on yéetel ba'ax páajtalil ca beetic le ba'alo'oba' . 
+42020002b	Máax		¿ Máax dzáa teech le páajtalila' ?
+42020005a	ba'ax		Ba'ale' jo'op' u tucultico'ob tu baatzilo'ob , táan u ya'alico'ob : ¿ Ba'ax je'el c a'alique' ? Wa c a'alic Ku túuxte' , yaan u núuquic to'on : 
+42020005b	ba'ax		¿ Ba'ax teen ma' ta wocsaj óolte'exi' ?
+42020013	Ba'ax		U dzooque' u yuumil le lu'umo' tu ya'alaj : ¿ Ba'ax quin in beete ? Bin in ca'aj in túuxt le in paal in yaabiltmajo' . Le quéen u yilo'obe' úuchac u tziquico'ob .
+42020015	Ba'ax		Ca tu jóokesajo'ob paachil ti' le lu'umo' ca tu quíimsajo'ob . Ca j káata'ab ti'ob tumen Jesús : ¿ Ba'ax ta t'aane'ex cun j beetbil ti'ob tumen u yuumil le lu'umo' ?
+42020017	Ba'ax		Ba'ale' j pacta'abo'ob tumen Jesuse' ca j a'ala'ab ti'ob : ¿ Ba'ax u káat ya'al le ba'ax yaan ti' le Quili'ich Dzíibo'obo' ? Cu ya'alic beya' :
+42020023	Ba'axten		Ba'ale' Jesuse' tu kaj óoltaj u kaakas tuuculo'obe' ca tu ya'alaj ti'ob : ¿ Ba'axten ca túuntique'ex in wóol ?
+42020024a	Máax		E'ese'ex teen jun p'éel taakin . ¿ Máax ti'alintic le ich 
+42020024b	~		yéetel le kaaba' dzíibta'ana' ? Leti'obe' tu núucajo'ob : U ti'al César .
+42020033	máacalmáac		Le quéen ca'a púut cuxlaco'obe' , ¿ máacalmáac ti'ob cun atantic le co'olelo' ? tumen u sieteilo'ob j dzo'oc u beelo'ob tu yéetel .
+42020041	Bix		Ca j a'ala'ab ti'ob tumen Jesús : ¿ Bix u ya'ala'al Cristoe' u paal David ?
+42020044	Bix		¿ Bix je'el u páajtal u paalinta'al Cristo tumen David wa David cu ya'alic Yuumtzil ti'e' ?
+42021007a	ba'ax kiin		Ca túun káata'ab ti' Jesús : Aj ca'anbesaj , ¿ ba'ax kiin quéen úuchuc lela' ? 
+42021007b	ba'ax		¿ Ba'ax chíiculal cun e'esic bin u ca'aj úuchul le ba'alo'oba' ?
+42022009	Tu'ux		Leti'obe' tu káat chi'ito'ob ti' : ¿ Tu'ux a káat ca c nu'ucbesej ?
+42022011	Tu'ux		ca a wa'ale'ex ti' u yuumil le najo' : Le aj ca'anbesajo' cu ya'alic teech : ¿ Tu'ux yaan le cúuchil tu'ux quin in jaant u janalil le Pascua yéetel in aj canbalo'obo' ?
+42022027	máax		Tumen ¿ máax mas nojoch , le máax cu cutal janalo' wa le máax meyajtico' ? ¿ Ma' wa leti' le máax cu cutal janalo' ? Ba'ale' tene' ti' yanen ichile'ex bey le máax cu meyajo' .
+42022046	Ba'axten		Ca tu ya'alaj ti'ob : ¿ Ba'axten táan a wenele'ex ? Líikene'ex , payalchi'inene'ex tu yo'olal ma' a lúubule'ex ti' túuntaj óol .
+42022064	máax		Tu pixajo'ob u yiche' , tu lajo'obe' , ca tu ya'alajo'ob ti' : ¡ Na'at máax lajech !
+42022071	Ba'ax		Leti'ob túune' tu ya'alajo'ob : ¿ Ba'ax u biilal to'on u láak j tacpoolo'ob ? To'on dzo'oc c u'uyic u jóokol tu chi' .
+42023022a	~		Pilatoe' tu ya'alaj ti'ob tu yóox téen : 
+42023022b	ba'ax		¿ Ba'ax kaas u beetmaj ? Tene' mixba'al quin wilic ti' ca u najmat u quíimsa'al . Bin in ca'aj in jadze , cu dzo'ocole' quin jáalkabtic .
+42023031	ba'ax		Tumen wa ti' le áak che' cu beeta'al tuláacal le ba'alo'oba' , ¿ ba'ax ma' bíin beeta'ac ti' le tiquino' ?
+42024005	Ba'axten		Ba'ale' tumen chinlajo'ob tac lu'um yéetel sajaquilile' , j a'ala'ab ti'ob tumen le xiibo'obo' : ¿ Ba'axten ca caxtique'ex ichil quimeno'ob máax cuxa'an ?
+42024017	Ba'ax		Ca túun j káata'ab ti'ob tumen Jesús : ¿ Ba'ax ca t'anal t'antique'ex ca'aliquil táan a xíimbale'ex te j beja' ? ¿ Ba'axten jach luba'an a wóole'ex ?
+42024019	Ba'ax		Jesuse' tu ya'alaj ti'ob : ¿ Ba'ax dzo'oc u yúuchul ? Ca tu núucajo'ob ti' : Le ba'ax j úuch ti' Jesús Nazaretilo' , jun túul aj bóobat nojoch u páajtalil tu táan Ku yéetel tu táan tuláacal máaco'ob ti' ba'ax cu beetic yéetel ti' ba'ax cu ya'alic .
+42024025	~		Ca túun j a'ala'ab ti'ob tumen Jesús : ¡ Jach mina'an wa a na'ate'ex , buca'aj dzo'oc u xáantal a wocsaj óoltique'ex tuláacal ba'ax a'ala'an tumen le aj bóobato'obo' !
+42024038a	ba'axten		Ba'ale' ca j a'ala'ab ti'ob tumen Jesús : ¿ Ba'axten jaka'an a wóole'ex ? 
+42024038b	ba'axten		¿ Ba'axten yaan ca'a p'éel óolal ta pucsi'ikale'ex ?
+43001019	máaxech		U judíoilo'ob Jerusalene' tu túuxtajo'ob aj kiino'ob yéetel levitaob u ti'al u káato'ob ti' Juan : ¿ Teche' máaxech ?
+43001021	Máaxech		Tu káat chi'ito'ob ti' tu ca'a téen : ¿ Máaxech túun ? ¿ Teech wa aj bóobat Elías ? Juane' ca tu ya'alaj : Ma' teni' . Cu dzo'ocole' ca tu káat chi'ito'ob ti' : ¿ Teech wa le aj bóobat bíin taalaco' ? Leti'e' tu núucaj : Ma' .
+43001022a	Máaxech		Ca túun tu ya'alajo'ob ti' ¿ Máaxech túun ? Yaan c a'alic ba'ax ta núucaj to'on ti' le máaxo'ob túuxto'ono' . 
+43001022b	ba'ax		¿ Ba'ax ca wa'alic to'on ta wo'olal ?
+43001025	ba'axten		ca tu káatajo'ob ti' : Wa ma' teech le Cristoo' , mix Elías , mix le aj bóobat , ¿ ba'axten túun ca dzáic ocja' ?
+43001038a	ba'ax		Jesuse' j paacatnaj paachil , le ca tu yilaj táan u tzaypachta'al tumeno'obe' , ca tu ya'alaj ti'ob : ¿ Ba'ax ca caxtique'ex ? Leti'obe' tu ya'alajo'ob ti' : Aj ca'anbesaj , 
+43001038b	tu'ux		¿ tu'ux caja'anech ?
+43001046	~		Natanaele' tu ya'alaj : ¿ Je'el wa u páajtal u jóokol ba'al ma'alob ti' u caajil Nazarete' ? Felipee' tu núucaj ti' : Co'oten a wile .
+43001048	bix		Natanaele' tu káataj túun ti' : ¿ Bix a kaj óolilen ? Jesuse' tu ya'alaj ti' : Ma'ili' u t'anech Felipee' tin wilajech culucbalech ca'ach yaanal jun cúul higo .
+43002004	ba'ax		Ba'ale' Jesuse' tu núucaj ti' : Co'olel , ¿ ba'ax teen ca wa'alic teen lelo' ? Ma' kuchuc in kiinili' .
+43002018a	~		Le judíob túuno' tu káatajo'ob ti' : 
+43002018b	ba'ax		¿ Ba'ax chíiculal ca we'esic to'on u ti'al c kaj óoltic tu jaajil yaan teech páajtalil a beetic le ba'alo'oba' ?
+43003004	Bix		Nicodemoe' tu káat chi'itaj ti' : ¿ Bix je'el u páajtal u síijil tu ca'a téen jun túul máac dzo'oc u nojochtale' ? ¿ Je'el wa u páajtal u yocol tu jobnel u maama u ti'al u síijil tu ca'a téene' ?
+43003009	Bix		Nocodemoe' tu káat chi'itaj tu ca'a téen : ¿ Bix je'el u páajtal u yúuchul lela' ?
+43003012	bix		Wa ma' ta wocsaj óoltiquene'ex le quéen in wa'al ti' te'ex u ba'alo'obil le yóokolcaaba' ¿ bix can a wocsaj óoltene'ex le quéen in wa'al ti' te'ex u ba'alo'obil ca'an ?
+43004009	Bix		Le co'olel samariailo' tu ya'alaj túun ti' Jesús : ¿ Bix anil teech judíoeche' ca káatic ja' ti' teen samariailen ? ( Tumen le judíobo' ma'atech u biscuba'ob yéetel le samariailo'obo' )
+43004011	Tu'ux		Le co'olelo' tu ya'alaj ti' : Yuumtzil taam le ch'e'ena' mina'an teech ba'ax yéetel a jóoksic le ja'a' . ¿ Tu'ux can a jóokes le cuxa'an ja' u ti'al a dzáic teno' ?
+43004027a	ba'ax		Ti' le súutuca' j kucho'ob u aj canbalo'ob , ca ja'ak u yóolo'ob tumen táan u t'aan yéetel jun túul co'olel . Ba'ale' mix jun túul tu yóoltaj u ya'al ti' le co'olelo' : ¿ Ba'ax a káati' ? wa ti' Jesús : 
+43004027b	ba'ax		¿ Ba'ax ca tzicbaltic tu yéetel ?
+43005012	Máax		Tu káatajo'ob túun ti' : ¿ Máax a'al teech : ch'a'a u nu'ucul a chital xíimbanen ?
+43005044	Bix		¿ Bix je'el u páajtal u yantal te'ex ocsaj óolal , wa ca kamique'ex tziquil cu taal chéen ta baatzile'exe' yéetel ma' táan a caxtique'ex le tziquil cu taal ti' le jun túulili' Kuo' ?
+43005047	bix		Ba'ale' wa ma' táan a wocsaj óoltique'ex ba'ax tu dzíibtaj leti'e' , ¿ bix can a wocsaj óolte'ex ba'ax quin wa'alic teen ?
+43006005	Tu'ux		Le ca j paacatnaj Jesús ca tu yilaj ya'abcach máaco'ob cu taalo'ob tu paache' , tu ya'alaj ti' Felipe : ¿ Tu'ux je'el c manic janal u ti'al tuláacal le máaco'oba' ?
+43006009	ba'ax		Je'el jun túul chan xi'ipal yaan cinco u waajil cebada ti'a' yéetel ca'a túul cay ; ba'ale' lela' , ¿ ba'ax u biilal u ti'al buca'aj máaco'ob ?
+43006025	ba'ax kiin		Le ca j kucho'ob ti' u láak jun tzéel le ka'anabo' , tu caxtajo'ob Jesús ca tu káat chi'ito'ob ti' : Aj ca'anbesaj , ¿ Ba'ax kiin ca j kuchech waye' ?
+43006028	Ba'ax		Tu káatajo'ob túun ti' : ¿ Ba'ax unaj c beetic u ti'al c dzo'ocbesic le ba'alo'ob u káat Ku ca c beeto' ?
+43006030a	ba'ax		Tu káatajo'ob túun ti' : ¿ Ba'ax chíiculal cu páajtal a we'esic ti' to'on u ti'al ca c ila'e' yéetel ca c ocsaj óoltech ? 
+43006030b	ba'ax		¿ Ba'ax ba'alil ca beetic ?
+43006042	Bix		Ca tu ya'alajo'ob : ¿ Lela' ma' wa Jesús u paal José ? To'one' c kaj óol u taata yéetel u maama . ¿ Bix túun u ya'alic ca'an u taal ?
+43006052	Bix		Le judíob túuno' jo'op' u ba'atel t'aano'ob tu baatzilo'ob , táan u ya'alico'ob : ¿ Bix je'el u páajtal le máaca' u dzáic to'on jach u wíinclil u ti'al ca c jaante ?
+43006060	Máax		Le ca tu yu'ubajo'ob le ca'ansaja' ya'ab ti' u tzaypacho'ob Jesuse' tu ya'alajo'ob : Le ba'ax cu ya'alica' jach talam u ka'amal . ¿ Máax je'el u páajtal u yu'ubique' ?
+43006062	ba'ax		¿ Ba'ax je'el u yúuchul túun wa ca a wile'ex u na'acal u Paal Máac tac tu'ux yaan ca'acho' ?
+43006068	máax		Ba'ale' Simón Pedroe' tu núucaj ti' : Yuumtzil , ¿ Ti' máax je'el u páajtal c bine' ? A t'aano'obe' u t'aanilo'ob cuxtal mina'an u xuul .
+43007011	Tu'ux		Le judíobo' jo'op' u caxantico'ob Jesús te j kiinbesajo' , táan u ya'alico'ob : ¿ Tu'ux yaan le máaco' ?
+43007015	Bix		Le judíobo' jaka'an u yóolo'ob táan u ya'alico'ob : ¿ Bix u yojéeltmail buca'aj ba'alo'ob le máaca' quex ma' xoocnaja'ani' ?
+43007019	Ba'axten		¿ Ma' wa jaaj Moisés dzáa te'ex le a'almaj t'aano' ? Cu dzo'ocole' mix jun túul ti' te'ex dzo'ocbesic le a'almaj t'aano' . ¿ Ba'axten a káat a quiimsene'ex ?
+43007020	Máax		Le máaco'obo' tu núucajo'ob ti' : Oca'an kaakas pixan ti' teech . ¿ Máax u káat u quiimsech ?
+43007023	ba'axten		Le beetique' u ti'al ma' u mamba'alcunta'al u ya'almaj t'aan Moisese' te'exe' ca súut kuptique'ex jun túul chaan pale' quex sábado , ¿ ba'axten túun ca kuuxile'ex tin wéetel tumen tin dzáa toj óolal tuláacal u wíinclil jun túul máac ti' sábado ?
+43007035	Tu'ux		Le judíob túuno' jo'op' u káatico'ob tu baatzilo'ob : ¿ Tu'ux je'el u bin le máaca' u ti'al ma' c caxtique' ? ¿ Je'el wa u bin ti' le judíob t'i'it'paja'ano'ob ichil le griego'obo' , u ti'al u ca'ansic le griego'obo' ?
+43007036	Ba'ax		¿ Ba'ax u káat u ya'al le tu ya'alaj to'ono' : Bíin a caxtene'ex , ba'ale' ma' bíin a wilene'exi' , tumen ma' tu páajtal a bine'ex tac tu'ux quin bin ?
+43007041	~		U láako'obe' tu ya'alajo'ob : Lela' leti' le Cristoo' . Ba'ale' u láako'obe' tu ya'alajo'ob : ¿ Galilea wa bíin taalac le Cristoo' ?
+43007045	Ba'axten		Le palitzilo'obo' j suunajo'ob tac tu'ux yaan le fariseobo' yéetel u nuuctaquil le aj kiino'obo' , lelo'oba' tu káat chi'ito'ob ti'ob : ¿ Ba'axten ma' ta taase'exi' ?
+43007048	~		¿ Dzo'oc wa u yocsaj óolta'al tumen wa máax ti' le c nuuctaquilo'obo' , wa ti' le fariseobo' ?
+43007051	~		C a'almaj t'aane' cu ya'alique' ma' tu páajtal c xot kintic jun túul máac , wa ma' táanil kaabéet c u'uyic u ti'al c ojéeltic ba'ax u beetmaj .
+43008005	Ba'ax		U ya'almaj t'aan Moisese' cu ya'alic to'on ca muruxtunta'ac le co'olelo'ob beyo'oba' . Teche' ¿ Ba'ax ca wa'alic ?
+43008010	Tu'ux		Le ca tu líiksaj u yich Jesuse' , mix máac u láak tu yilaj chéen le co'olelo' ca tu ya'alaj ti' : Co'olel , ¿ Tu'ux yano'ob le máaxo'ob cu taquico'ob a pool ca'acho' ? ¿ Mix jun túul tu xot kintechi' ?
+43008019	Tu'ux		Tu káat chi'ito'ob túun ti' : ¿ Tu'ux yaan a Taata ? Jesuse' tu núucaj ti'ob : Te'exe' ma' a kaj óolene'exi' , mix in Taata a kaj óole'ex . Wa ca kaj óoltene'exe' , je'el xan a kaj óoltique'ex in Taatae' .
+43008025a	Máaxech		Tu káatajo'ob túun ti' : ¿ Máaxech teech ? 
+43008025b	~		Jesuse' tu núucaj ti'ob : Dzo'oc in wa'alic ti' te'ex tu yáax chuun .
+43008033	Bix		Leti'obe' tu núucajo'ob ti' : To'one' u ch'i'ibalo'on Abraham yéetel mix jun téen palitzilta'aco'on tumen mix máac . ¿ Bix a wa'alic teech yaan c jáalkabta'al ?
+43008043	Ba'axten		¿ Ba'axten ma' tu páajtal a na'atique'ex ba'ax quin wa'alic ? Tumen ma' a káat a wu'uye'ex in ca'ansaji' .
+43008046a	Máax		¿ Máax ti' te'ex cu páajtal u ye'esic wa yaan wa ba'ax kebanil ti' teen ? Wa táan in wa'alic u jaajile' 
+43008046b	ba'axten		¿ Ba'axten ma' ta wocsaj óoltiquene'ex ?
+43008053	Máaxech		¿ Mas nojochech wa ti' c taata Abraham ? leti'e' j quíimi , le aj bóobato'obo' j quíimo'ob xan . ¿ Máaxech ca tuclicabáa ?
+43008057	~		Le judíobo' tu ya'alajo'ob túun ti' Jesús : Mina'an mix cincuenta a ja'abilo'ob ¿ cu dzo'ocole' ca wa'alic ta wila Abraham ?
+43009002	ba'axten		U aj ca'anbesajo'ob túune' tu káat chi'ito'ob ti' : Aj ca'anbesaj ¿ Ba'axten ch'óop síijic le máaca' ? ¿ Tu yo'olal u keban u taataob , wa tu yo'olal u keban leti' ?
+43009010	Bix		Ca tu káatajo'ob ti' : ¿ Bix yanil cu páajtal a paacat ?
+43009012	Tu'ux		Káata'ab túun ti' : ¿ Tu'ux yaan le máaco' ? Leti'e' tu ya'alaj ti'ob : Ma' in wojeli' .
+43009016	Bix		Dze'edzec túun ti' le fariseobo' tu ya'alajo'ob : Le máac tu beetaj lela' ma' ti' Ku taalaja'ani , tumen ma' tu kiinbesic sábadoi . Ba'ale' u láako'obe' tu ya'alajo'ob : ¿ Bix je'el u páajtal u beetic le nucuch chíiculalo'ob wa jun túul keban máac ? Ca yanji' jatzlantáambail ichilo'ob .
+43009017	ba'ax		Ca tu ca'a káato'ob ti' le máac ch'óop ca'acho' : ¿ Teche' , ba'ax ca wa'alic tu yo'olal le máac tu dzaj ti' teech u sáasil a wicho' ? Leti'e' tu ya'alaj : Tene' quin wa'alique' jun túul aj bóobat .
+43009019	Bix		ca tu káat chi'ito'ob ti'ob : ¿ Leti' wa le a paal ca wa'alique'ex ch'óop síijica ? ¿ Bix yanil cu páajtal u paacat bejela'e' ?
+43009026a	ba'ax		Tu káatajo'ob ti' tu ca'a téen : ¿ Ba'ax tu beetaj teech ? 
+43009026b	bix		¿ Bix tu beetil u ti'al u dzáic teech u sáasil a wich ?
+43009027	Ba'ax		Tu núucaj ti'ob : Dzo'oc in wa'alic ti' te'ex , ba'ale' ma' ta wóoltaj a wu'uye'exi' ; ¿ Ba'ax teen a káate'ex ca in wa'al tu ca'a téen ? ¿ A káate'ex xan a beetaba'ex u aj canbalo'ob ?
+43009034	~		Tu ya'alajo'ob túun ti' : Teche' síijech chuupech yéetel keban . Cu dzo'ocole' ¿ A káat a ca'anso'on ? Ca tu jóokeso'ob ti' le Sinagogao' .
+43009036	máaxi'		Le máaco' tu ya'alaj ti' : Yuumtzil , a'alten máaxi' , u ti'al ca in woques in wóol ti' .
+43010020	ba'axten		Ya'ab ichilo'obe' tu ya'alajo'ob : Yaan jun túul kaakas pixan ti' yéetel choco u pool . ¿ Ba'axten ca wu'uyique'ex u t'aan ?
+43010021	~		Ba'ale' u láako'obe' tu ya'alajo'ob : Mix máac ca yanac jun túul kaakas pixan ti' cu páajtal u t'aan beya' . ¿ Cu páajtal wa jun túul kaakas pixan u dzáic u paacat le ch'óopo'obo' ?
+43010024	tac ba'ax kiin		ca bakpachta'ab tumen le judíobo' ca tu káat chi'ito'ob ti' : ¿ Tac ba'ax kiin can a p'ato'on yéetel ca'a p'éel óolal ? Wa teech le Cristoo' a'al to'on tu jaajil a wóol jun puli' .
+43010032	máacalmáac		Jesuse' tu ya'alaj túun ti'ob : Dzo'oc in beetic ya'ab ba'alo'ob ma'alobtac ta táane'ex yéetel u páajtalil in Taata . ¿ Tu yo'olal máacalmáac ti' le ba'alo'ob can a muruxtuntene'exo' ?
+43010036	bix		Wa Ku tu jun páaycunten ca tu túuxtajen yóokolcaabe' , ¿ bix je'el u páajtal a wa'alique'ex táan in wa'alic ba'al ti' Ku tumen tin wa'alaj : Tene' u Paalen Ku ?
+43011034	Tu'ux		Tu káataj túun ti'ob : ¿ Tu'ux ta muque'ex ? Ca j a'ala'ab ti' : Yuumtzil , co'oten a wile .
+43011047	Ba'ax		Le fariseob túuno' yéetel u nuuctaquil le aj kiino'obo' much'lajo'ob yéetel u nuuctaquil le caajo' ca tu ya'alajo'ob : ¿ Ba'ax bin c beete' ? Le máaca táan u beetic ya'ab noj chíiculalo'ob .
+43011056	bix		Jo'op' túun u caxtico'ob Jesús . Ti' yano'ob kulnaje' ca tu káatajo'ob tu baatzilo'ob : ¿ Bix ca tucultique'ex ? ¿ Je'el u taal ti' le kiinbesajo' wa ma' ?
+43012005	Ba'axten		¿ Ba'axten ma' j co'on le qui'iboc aceitea' u ti'al ca dza'abac ti' óotzilo'ob ? tumen je'el u tojoltic trecientos denariose' .
+43012027	Ba'ax		Beora' péecnaja'an in wóol . ¿ Ba'ax túun quin in wa'ale ? ¿ Yaan wa in wa'alic : In Yuum , toquen ti' le ba'ax cun úuchul tena' ? Ba'ale' taalaja'anen u ti'al lela' .
+43012034a	bix		Le máaco'obo' tu núucajo'ob ti' : C u'uymaj u xo'ocol ti' le a'almaj t'aano' leti' le Cristoo' yaan u cuxtal mantadz . ¿ Bix túun a wa'alic teech yaan u líikesa'al u Paal Máac ? 
+43012034b	Máax		¿ Máax le u Paal Máaca' ?
+43012038a	~		tumen yanchaj u dzo'ocpajal le ba'ax tu dzíibtaj aj bóobat Isaías :
+43012038b	~		
+43013025	Máaxi'		Leti' túune' tu jach nadzubáa ti' Jesuse' ca tu káataj ti' : Yuumtzil ¿ Máaxi' ?
+43013036	Tu'ux		Simón Pedroe' tu káat chi'itaj ti' Jesús : Yuumtzil ¿ Tu'ux ca bin ? Jesuse' tu núucaj ti' : Tu'ux quin bine' ma' tu páajtal a taal tin paach beora' , ba'ale' cu dzo'ocole' yaan a taal tin paach .
+43013037	ba'axten		Pedroe' tu ya'alaj túun ti' : Yuumtzil , ¿ ba'axten ma' tu páajtal in taal ta paach beora' ? Chuca'an in wóol in dzáa in cuxtal ta wo'olal .
+43014002	~		Tu yotoch in Taatae' yaan ya'abcach cúuchilo'ob tu'ux cu yúuchul cajtal . Wa ma' bey anilo' , tene' dzo'oc in wa'alic ti' te'exe' . Bey túuno' bin in ca'aj in nu'uct jun p'éel cúuchil a ti'al te'ex .
+43014005	Bix		Tomase' tu ya'alaj ti' : Yuumtzil , ma' c ojel tu'ux ca bini' ¿ Bix je'el u páajtal c ojéeltic u bejile' ?
+43014009	ba'axten		Jesuse' tu núucaj ti' : Felipe , buca'aj kiin yanaquen ta wéetele'ex ¿ ma' páatac wa a kaj óoltiqueni' ? Le máax cu yilquen tene' cu yilic le Taatao' , ¿ Ba'axten túun ca káatic teen ca in we'es te'ex le Taatao' ?
+43014022	ba'axten		Judas ma' Iscarioteil tu ya'alaj ti' : Yuumtzil ¿ Ba'axten can a we'esabáa ti' to'on , ba'ale' ma' ti' u máaquilo'ob yóokolcaabi' ?
+43016005	tu'ux		Ba'ale' beora' táan in bin u ti'al in wantal yéetel máax túuxten , ba'ale' mix jun túul ti' te'ex cu katic teen tu'ux quin bin ;
+43016017	Ba'ax		Dze'edzec túun ti' u aj canbalo'obe' tu káat chi'ito'ob tu baatzilo'ob : ¿ Ba'ax u káat u ya'al lela' ? Cu ya'alic ti' to'one' : Ichil jun p'íit kiine' ma' bíin a wilene'exi' , ba'ale' le quéen máanac u láak jun p'íit kiine' bíin a wilene'ex tu ca'a téen tumen tene' táan in bin tu'ux yaan le Taatao .
+43016018	Ba'ax		¿ Ba'ax u káat u ya'al Ichil jun p'íit kiin ? Ma' táan c na'atic ba'ax cu ya'alic .
+43018004	Máax		Ba'ale' tumen Jesús u yojel tuláacal ba'ax cu úuchule' , jóok tu táano'obe' ca tu káat chi'itaj ti'ob : ¿ Máax ca caxtique'ex ?
+43018007	Máax		Jesuse' tu káataj ti'ob tu ca'a téen . ¿ Máax ca caxtique'ex ? Leti'obe' tu ya'alajo'ob : Jesús Nazaretil .
+43018011	~		Ba'ale' Jesuse' tu ya'alaj ti' Pedro : Oques le máascab tu pixo' . Wa le Taata u káat ca máanaquen ti' le yaayaj óolala' , ¿ ma' wa unaj ca náaqueni' ?
+43018021	ba'axten		¿ Ba'axten ca káatic ti' teen ? Káat ti' le máaxo'ob tu yu'ubajeno'obo' , ca u ya'alo'ob teech ba'ax tin wa'alaj ti'ob . Leti'obe' u yojelo'ob ba'ax in wa'almaj .
+43018023	ba'axten		Jesuse' tu núucaj ti' : Wa tin wa'alaj ba'al kaase' , a'al tu'ux yaan u kaasil . Ba'ale' wa ma'alob ba'ax tin wa'alaje' , ¿ ba'axten ca lajiquen ?
+43018029	Ba'ax		Le o'olale' jóok Pilato j t'aan yéetelo'ob , ca tu ya'alaj ti'ob : ¿ Ba'ax tacpoolil ca taasique'ex tu yóokol le máaca' ?
+43018035	Ba'ax		Pilatoe' tu núucaj ti' : ¿ Judíoen wa ? A wéet caajalo'ob yéetel u nuuctaquil le aj kiino'ob kubecho'ob ti' teno' . ¿ Ba'ax a beetmaj ?
+43018038	Ba'ax		Pilatoe' tu ya'alaj ti' : ¿ Ba'ax le jaajo' ? Cu dzo'ocol u káatic lela' , Pilatoe' jóok t'aan tu ca'a téen yéetel le judíobo' ca tu ya'alaj ti'ob : Mix jun p'éel si'ipil quin wilic ti' le máaca' .
+43019009	Tu'uxilech		Ca j ooc tu ca'a téen te j chúumuc najo' ca tu káataj ti' Jesús : ¿ Tu'uxilech ? Ba'ale' Jesuse' mixba'al tu núucaj ti' .
+43019015	~		Ba'ale' leti'obe' tu yaawtajo'ob : ¡ Quíimic ! ¡ Sin ti' cruz ! Pilatoe' tu ya'alaj ti'ob : ¿ Yaan wa in sinic ti' cruz a ajawe'exa' ? Ba'ale' u nuuctaquil le aj kiino'obo' tu núucajo'ob ti' : To'one' mina'an to'on u láak ajaw chéen César .
+43020013	ba'axten		Le ángelo'obo' tu káat chi'ito'ob ti' : Co'olel , ¿ ba'axten táan a wokol ? Leti'e' tu ya'alaj ti'ob : Tumen dzo'oc u bisa'al in Yuumtzil , cu dzo'ocole' ma' in wojel tu'ux dza'abi' .
+43020015a	ba'axten		Jesuse' tu káat chi'itaj ti' : co'olel , ¿ ba'axten táan a wokol ? 
+43020015b	Máax		¿ Máax ca caxtic ? Leti'e' tu tuclaje' leti' le máax canantic le huerto' ca tu ya'alaj ti' : Dzuul wa teech bise' , a'alten tu'ux ta dzáa , u ti'al ca in bise .
+43021012	Máaxech		Jesuse' tu ya'alaj túun ti'ob : Co'otene'ex ukul . Mix jun túul ti' le aj canbalo'ob tu yóoltaj u káat ti' : Teche' ¿ Máaxech ? Tumen u yojelo'ob leti' le Yuumtzilo' .
+43021020	máax		Le ca tu sutjubáa Pedroe' , tu yilaj táan u taal tu paacho'obe' le aj canbal jach yaabilta'an tumen Jesuse' , le máax yanchaj tu tzéel Jesús le ca jaano'ob tu dzoocaque' yéetel tu káataj ti' Jesús : Yuumtzil , ¿ máax cun kubiquecho' ?
+43021021	Ba'ax		Pedroe' le ca tu yilaje' tu káataj ti' Jesús : Yuumtzil , cux túun lela' ¿ Ba'ax bíin úuchuc ti' ?
+43021022	ba'ax		Jesuse' tu núucaj ti' : Wa in káat ca p'áatac tac quéen suunaquene' , ¿ ba'ax a káat ti' ? ¡ Teche' tzaypachteni' !
+43021023	Ba'ax		Jóok u tzicbalil ichil le sucu'uno'obo' le aj canbalo' ma' bíin quíimiqui' . Ba'ale' Jesuse' ma' tu ya'alaj ti' wa ma' bíin quíimiqui' , ba'ax tu ya'alaje' : Wa in káat ca p'áatac tac quéen suunaquene' ¿ Ba'ax a káat ti' ?
+44001011	ba'axten		Lelo'oba' tu ya'alajo'ob ti'ob : Galileaile'ex , ¿ ba'axten táan a paacate'ex ca'an ? Leti' le Jesusa' , máax luk ichile'ex ca j na'ac ca'ano' , yaan u taal tu ca'a téen je'el bix ta wilaje'ex u bino' .
+44002008	Bix		¿ Bix túun anil táan c u'uyic u t'aano'ob ti' le t'aano'ob síijico'ono' ?
+44002012	Ba'ax		Láaj jaka'an u yóolo'ob , ma' táan u caxtico'ob ba'ax u tuculto'ob , tu káatajo'ob : ¿ Ba'ax u káat ya'al le ba'ala' ?
+44002037	ba'ax		Le ca tu yu'ubajo'ob lela' , yaachaj u yóol u pucsi'ikalo'ob , ca tu káat chi'itajo'ob ti' Pedro yéetel ti' u láak apóstolo'ob : C sucu'une'ex ¿ ba'ax unaj c beetic ?
+44003012a	ba'axten		Pedroe' , le ca tu yilaj lela' , tu ya'alaj ti' le máaco'obo' : U cajnáalile'ex Israel , ¿ ba'axten cu ja'akal a wóole'ex ? 
+44003012b	ba'axten		¿ Ba'axten ca pactico'one'ex ? ¿ Ca tucultique'ex wa to'on t beetaj u xíimbal le máaca' yéetel c páajtalil , wa tu yo'olal c kub óolal ti' Ku ?
+44004007a	~		Lelo'oba' tu túuxtajo'ob taasbil Pedro yéetel Juane' tu dzajo'ob chúumuque' ca tu káatajo'ob ti'ob : 
+44004007b	ba'ax		¿ Yéetel ba'ax páajtalil wa tu kaaba' 
+44004007c	máax		máax ta beetaje'ex lela' ?
+44004016	Ba'ax		Ca tu ya'alajo'ob : ¿ Ba'ax bíin c beet yéetel le máaco'oba' ? Tumen tuláacal le máaxo'ob cajnáalo'ob Jerusaleno' u yojelo'ob dzo'oc u beetico'ob le jakbe'en chíiculala' , cu dzo'ocole' ma' tu páajtal c mixba'alcuntic .
+44004025a	~		Teche' , yéetel a Quili'ich Pixane' tu chi' a palitzil Davide' ta wa'alaj :
+44004025b	~		
+44005003	ba'axten		Pedroe' tu ya'alaj túun ti' : Ananías ¿ ba'axten j chu'up a pucsi'ikal tumen Satanás ca tu beetaj a tusic Quili'ich Pixan u ti'al ca p'áatac teech dze'edzec le taakin bo'ota'ab teech tu yo'olal le lu'umo' ?
+44005004	Ba'axten		¿ Ma' wa a ti'al le lu'umo' ? cu dzo'ocol a conique' ¿ ma' waa ti'al u taakinili' ? ¿ Ba'axten ta tucultaj a beetic lela' ? Ku ta tusaj , ma' wíinico'obi' .
+44005009	Ba'axten		Pedroe' tu ya'alaj ti' : ¿ Ba'axten queetchaj a tuucule'ex u ti'al a túuntique'ex u yóol u Quili'ich Pixan Yuutzil ? Je'el yano'ob táancab le máaxo'ob tu biso'ob u muco'ob a wíichamo' ; beoraa' binuca'ajo'ob u bisecho'ob u muquecho'ob tac teech .
+44007026	ba'axten		Tu jeel kiine' Moisese' tu yilaj ca'a túul israelitaob táan u ba'atelo'ob ; tu yóoltaj túun u jatzo'obe' ca tu ya'alaj ti'ob : Te'exe' sucu'untzile'ex , ¿ ba'axten ca loobilticaba'ex ta baatzile'ex ?
+44007027	Máax		Le máax túun loobiltic u yéet meyajo' tu léemch'intaj Moisese' ca tu ya'alaj ti' : ¿ Máax dzáech u ti'al ca a beet a nojochil tóokol yéetel u ti'al ca p'is óolto'on ?
+44007035	Máax		Le Moisés p'ecta'ab yéetel a'ala'ab ti' : ¿ Máax dzáech u ti'al a beetic a nojochil yéetel a p'is óolile' ? Leti' túuxta'ab tumen Ku je'el bix jun túul nojoch yéetel jun túul tocsaj , tu yo'olal le ángel j chíicpaj ti' te jun cúul che'o' .
+44007049a	bix		Le ca'ano' u cúuchil tu'ux quin cutal , le lu'umo' u cúuchil tu'ux quin t'alcuntic in wooc . ¿ Bix le naj ca bin a beete'ex teno' ? cu ya'alic Yuumtzil , 
+44007049b	máacalmáac		wa ¿ máacalmáac le cúuchil tu'ux cu páajtal in je'elelo' ?
+44007052	Máacalmáac		¿ Máacalmáac ti' le aj bóobato'ob ma' j ch'a'apachta'ab tumen le a wúuchben taataexo' ? Leti'obe' tu quiimsajo'ob le máaxo'ob tu ya'alajo'ob bíin taalac le máax quili'icho' , bejela'a' dzo'oc u taale' , te'exe' kuch a wóole'ex a kube'ex ti' quíimil , bey ta quiimsilaque'exo' .
+44008031	Bix		Le máaco' tu núucaj ti' : ¿ Bix túun je'el u páajtal in ch'a'anu'uctic wa mina'an mix máac tzolic tene' ? Ca u ya'alaj ti' Felipe ca na'acac u ti'al j cutal tu tzéel .
+44008033	~		
+44008034	máax		Le jalach wíinico' tu káataj ti' Felipe : Quin káatóoltic teech ca a wa'al teen , ¿ tu yo'olal máax cu ya'alic le aj bóobat le ba'alo'oba' , tu yo'olal leti' , wa tu yo'olal yaanal máac ?
+44008036	~		Le ca j máano'ob ti' jun p'éel cúuchil tu'ux yaan ja'e' le jalach wíinico' tu ya'alaj : je'el ja'a' . ¿ Je'el wa u páajtal in wocja'e' ?
+44009004	ba'axten		Saulo' túune' j lúub lu'ume' ca tu yu'ubaj jun p'éel t'aan , táan u ya'alic ti' ; Saulo , Saulo , ¿ ba'axten ca ch'a'apachtiquen ?
+44009005	Máaxech		Sauloe' tu káat chi'itaj túun : ¿ Máaxech Yuumtzil ? Le t'aano' tu núucaj : Teen Jesús le máax ca ch'a'apachtico' . Táan a loobilticabáa teech , je'el bix u beetic le wacax le quéen u co'ococha'at le lom che'o' .
+44009006	ba'ax		Saulo túune' táan u quiquilanquil tumen sajaque' , ca tu ya'alaj : Yuumtzil , ¿ ba'ax a káat ca in beete ? Yuumtzile' tu ya'alaj ti' : Líiken ooquen te j caajo' . Ti' cu bin a'albil teech ba'ax unaj a beetique' .
+44010004	Ba'axi'		Cornelioe' p'áat táan u pactic le ángel yéetel nojoch sajaquil , ca tu káat chi'itaj ti' : ¿ Ba'axi' Yuumtzil ? Le ángel túuno' tu ya'alaj ti' : Kue' dzo'oc u kamic a payalchi'ob bey xan ba'ax dzo'oc a beetic u ti'al a wáantic le óotzilo'obo' .
+44010021	Ba'ax		Pedroe' j éem túun tac tu'ux yaan le máaco'ob túuxta'ano'ob tumen Cornelio' ca tu ya'alaj ti'ob : Teen wa le máax ca caxtique'exo' . ¿ Ba'ax taale'ex a beete'ex ?
+44010029	ba'ax		Le o'olale' le ca j t'a'anene' mix ba'al tin wa'alaj , ca j taalen . In káat túun in wojéelte' ba'ax o'olal ta t'anjene'ex .
+44010047	~		Pedro túune' tu ya'alaj ti'ob : ¿ Je'el wa túun u páajtal u we'et'el u yocja' le máaxo'ob dzo'oc u kamico'ob Quili'ich Pixan jeel bixto'one' ?
+44011017a	máaxen		Wa Ku tu dzaj ti'ob le ba'ax u dzaamaj to'on máaxo'on dzo'oc c ocsaj óoltic Yuumtzil Jesucristo , ¿ máaxen teen u ti'al in katic u beel Yuum Ku ?
+44011017b	~		
+44012018	ba'ax		Le ca sáasjie' yanchaj jun p'éel nojoch sat óolal ichil le aj ba'atelo'obo' tumen ma' u yojelo'ob ba'ax úuch ti' Pedroi' .
+44013025	~		Le ca j náadz u xuul u cuxtal Juane' , leti'e' tu ya'alaj : Ma' teen le máax ca tucultique'ex teno' ; ba'ale' tin paache' táan u taal jun túul máax ma' táan in najmatic in wach'ic mix u táabil u xanab .
+44014015	ba'ax		Máaque'ex , ¿ ba'ax teen ca beetique'ex lela' ? To'one' máaco'on je'el bix te'exe' , j taalo'on u ti'al ca c a'al te'exe' ca a p'ate'ex le ba'alo'ob mix ba'al u biilala' yéetel ca xi'ique'ex tu paach cuxa'an Junab Ku tu beetaj le ca'ano' , le lu'uma' , le ka'anabo' yéetel tuláacal le ba'alo'ob yano'obo' .
+44015010	ba'axten		Bejla'a' túune' ¿ ba'axten ca ca'a p'éel óoltique'ex ba'ax tu beetaj Ku , yéetel ca dzáique'ex tu yóokol le sucu'uno'oba' cuucho'ob mix to'on mix c úuchben taataob c páatac u bisic ?
+44016030	ba'ax		ca tu káataj ti'ob : taate'ex , ¿ ba'ax úuchac in beetic u ti'al ca to'ocoquen ?
+44017018	Ba'ax		Dze'edzec ti' u j ca'anbesajil le epicúreobo' , yéetel ti' le estoico'obo' , jo'op' u t'aano'ob tu yéetel . Yane' tu ya'alaj : ¿ Ba'ax u káat u ya'al to'on le máac ya'ab u t'aana' ? U láako'obe' tu ya'alajo'ob : Bey jun túul máac cu tze'ectic u láak kuobe' . Lela' tu ya'alajo'obe' tumen Pabloe' táan u tze'ectic ti'ob u ma'alob péectzil Jesús yéetel le ca'a púut cuxtalo' .
+44017019	ba'ax		Tu bisajo'ob túun ti' jun p'éel cúuchil cu kaaba'intic Aereópago , tu'ux suuc u much'talo'ob u ti'al tzicbale' , ca tu káat chi'tajo'ob ti' : ¿ Cu páajtal wa c ojéeltic ba'ax le túumben ca'ansajo'ob ca taasica' ?
+44019003	ba'ax		Pablo túune' tu káat chi'itaj ti'ob : ¿ Ba'ax ocja'il ta kamaje'ex ? Leti'obe' tu núucajo'ob : u dzaa ocja' Juan .
+44019015	máaxe'ex		Ba'ale' le ca tu beetajo'obe' , le kaakas pixano' tu núucaj ti'ob : In kaj óol Jesús , in wojel máax Pablo ; ba'ale' te'exe' ¿ máaxe'ex ?
+44019035	~		U aj dzíibil le caajo' le ca páajtji u jedzic u yóolo'ob le máaco'obo' tu ya'alaj : U cajnáalile'ex Efeso , tuláacal yóokolcaab u yoojel le u caajil Efesoa' dza'an u ti'al u canant u kulnajil le nojoch x co'olebil Dianao' yéetel le u yoochel ca'an u taalo' .
+44021013a	ba'axten		Ba'ale' Pabloe' tu núucaj : ¿ Ba'axten ca wokole'ex 
+44021013b	~		yéetel ca okom óolquintiquene'ex ? Tumen tene' in dzaamaj in wóol u ti'al ma' chéen ca kaxa'aqueni' , ba'ale' tac u ti'al quíimil Jerusalén tu yo'olal Yuumtzil Jesús .
+44021022	bix		¿ Bix yanil le ba'alo'oba' ? Tumen le máaco'obo' yaan u much'talo'ob le quéen u yojéelto'ob dzo'oc a taal .
+44021033a	máaxi'		U méektáan le aj ba'atelo'obo' tu nadzubae' , tu machaj Pabloe' ca tu ya'alaj ca ka'axac yéetel ca'a p'éel cadena ; cu dzo'ocole' tu káataj máaxi' 
+44021033b	ba'ax		yéetel ba'ax u beetmaj .
+44022007	ba'axten		J lúuben j lu'um . Cu dzo'ocole' tin wu'uyaj jun p'éel t'aan tu ya'alaj teen : Saulo , Saulo , ¿ ba'axten ca ch'a'apachtiquen ?
+44022008	Máaxech		Ca tin káataj túun : ¿ Máaxech Yuumtzil ? Ca tu ya'alaj : Ten Jesús Nazaretil , le máax ca ch'a'apachtico' .
+44022010	Ba'ax		Tene' tin wa'alaj túun : ¿ Ba'ax unaj in beetic Yuumtzil ? Yuumtzile' tu ya'alaj teen : Líiken , xeen Damasco , ti' cu bin a'albil teech tuláacal ba'ax unaj a beetico' .
+44022016	ba'axten		Bejla'e' ¿ ba'axten ca xáantal ? Líiken ca ocja'anaquech , dzáa xan a wocsaj óolal ti' u kaaba' Yuumtzil u ti'al u p'o'ic a kebano'ob .
+44022026	ba'ax		Le ca tu yu'ubaj le náacomo' le t'aana'j bin u ya'al ti' u méektáan le aj ba'etelo'obo' : Canantabáa yéetel ba'ax can a beete tumen le máaca' romail .
+44023003	ba'axten		Ba'ale' Pabloe' tu núucaj ti' : ¡ Ku cu bin jadziquech , teech ca'a p'éel ich ! ¿ Culucbalech te'elo' u ti'al a p'is óoltiquen je'el bix u ya'alic le a'almaj t'aano' ? ¿ Ba'axten ca wa'alic ca la'ajaquen wa ma' bey u ya'alic le a'almaj t'aano' ?
+44023009	~		Ca jo'op' u yawat t'aano'ob . Ca j líik dze'edzec ti' u j ca'anbesajilo'ob le a'almaj t'aano' , máaxo'ob yano'ob tu tzéel le fariseobo' , ca tu ya'alajo'ob : Mix ba'al kaas c ilic ti' le máaca' ; wa dzo'oc u t'a'anal tumen jun túul ángel wa jun túul pixane' , ma' unaj c xachicbáa ti' Kui .
+44023019	Ba'ax		U náacom le aj ba'atelo'obo' tu machaj tu kab le xi'ipalo' , ca tu bisaj jun páayile' ca tu káataj ti' : ¿ Ba'ax a káat a wa'al teen ?
+44026008	Ba'axten		¿ Ba'axten te'exe' ma' ta wocsaj óoltique'ex wa Ku cu páajtal u ca'a púut cuxquintic le quimeno'ob' ?
+44026014	ba'ax ten		Tuláacalo'on j lúubo'ob j lu'um , ca tin wu'uyaj jun p'éel t'aan táan u ya'alic teen ich hebreo : Saulo , Saulo , ¿ ba'ax ten ca ch'a'apachtiquen ? Táan a loobilticabáa teech , je'el bix u beetic le wacax le quéen u co'ococha'at le lóom che'o' .
+44026015	Máaxech		Tin wa'alaj túun : ¿ Máaxech Yuumtzil ? Yuumtzile' tu ya'alaj teen : Teen Jesús , le máax ca ch'a'apachtico' .
+45002017	~		Ba'ale' teche' ca wa'alique' Judíoech , yéetel ca ch'a'ic a muuk ti' u ya'almaj t'aan Moisés , bey xan ca'anal a wich ti' Ku .
+45002021	~		Teech ca ca'ansic u láako'obe' ¿ ma' ta ca'ansicabáa teech ? Teech ca tze'ectic ma' unaj u yúuchul oocole' . ¿ Ma' ta woocol teech ?
+45002028	~		Tumen ma' judío le máax judío yóokcabile' bey xan ma' súutkuptajil le cu beeta'al yóokcabil ti' le wíinclilo' .
+45003001a	ba'ax		Bey túuno' , ¿ ba'ax cu núumyatic jun túul Judío ? 
+45003001b	ba'ax		¿ Wa ba'ax u ma'alobil le súutkuptajo' ?
+45003003	ba'ax		¿ Ba'ale' ba'ax cu yúuchul wa dze'edzec ti'ob ma' tu yocsaj óolo'ob ? ¿ Le o'olal ma' túun dzo'ocpajal ba'ax u ya'almaj Ku ?
+45003005	ba'ax		Ba'ale' wa c kasa'anil cu meyaj u ti'al u ye'esic u tojil Kue' ¿ ba'ax je'el c a'alique' ? ¿ Ma' toj Ku tumen cu jadzico'oni' ? ( Táan in t'aan je'el bix u t'aan máaco'obe' . )
+45003006	bix		¡ Tu jaajile' ma' beyi' ! Tumen wa ma' toj Kue' , ¿ bix je'el u páajtal u toj p'is óoltic yóokolcaabe' ?
+45003007a	~		Ba'ale' wa in tuus cu meyaj u ti'al u nojbe'encunta'al mas u jaajil Kue' , 
+45003007b	ba'axten		¿ ba'axten quin p'is óolta'alo bey jun túul j kebane' ?
+45003008	ba'axten		Wa beyo' ¿ ba'axten ma' táan c beetic le kaaso' u ti'al ca taalac le utzo' ? Lela' leti' cu ya'alico'ob dze'edzec máaco'ob yéetel kaakas tuucule' , táan c ca'ansic to'on ; ba'ale' le máaco'obo' cu najmatico'ob xot kinaj .
+45003009	Ba'ax		¿ Ba'ax túun ? ¿ To'on judíone' asab ma'alobo'on wa ti'ob ? ¡ Tu jaajile' ma' ! Tumen dzo'oc c e'esic ma'alobe' le judíob je'el bix xan le ma' judíobo' ti' yano'ob tu yáanal u páajtalil le kebano' .
+45003027a	ba'ax		¿ Ba'ax úuch túun yéetel u ca'anal ichil máac ? J p'áat jun tzéelil . 
+45003027b	ba'ax		¿ Ba'ax o'olal ? 
+45003027c	~		Tumen u dzo'ocbesa'al le a'almaj t'aano' je'el u taasic ca'anal ichile' , ba'ale' le ocsaj óolalo' ma' .
+45004001	ba'ax		Ba'ale' co'ox a'alic tuun : ¿ ba'ax tu náajaltaj Abraham , c úuchben láak ?
+45004003	ba'ax		Tumen ¿ ba'ax cu ya'alic le Quili'ich Dzíibo' ? Abrahame' tu yocsaj óoltaj Ku , tu yo'olal u yocsaj óolale' j ka'am tumen Ku je'el bix máac toje' .
+45004010	ba'ax kiin		Ba'ale' ¿ ba'ax kiin ca tu kamaj ? ¿ Cu dzo'ocol u súutkupta'al Abraham wa ma'ili'e' ? Ma' cu dzo'ocoli' , ba'ale' ma'ili'e' .
+45005010	~		tumen wa Ku tu dzajo'on ma'alob tu táan leti' tu yo'olal u quíimil u Paal quex enemigo'on ca'ach ti'e' , jach u tojil ca c tuculte' je'el u toquico'on tu yo'olal u cuxtale' , tumen yaan to'on jéedzel tu yéetel .
+45005021	~		Bey túuno je'el bix yanji páajtalil ti' le keban u ti'al u taasic quíimilo' , bey xan le ca j yanchajo'on ma'alob tu táan Kue' , u siibal utzile' yanji páajtalil ti' u ti'al u dzaíc to'on cuxtal mina'an u xuul tu yo'olal c Yuumtzil Jesucristo .
+45006001	Ba'ax		¿ Ba'ax bin c a'al túun ? ¿ Bíin p'áataco'on wa ti' le kebano' u ti'al ca sen ya'abac u siibal utzil Ku ?
+45006002	bix		¡ Tu jaajile' ma' ! To'one' dzo'oc c quíimil u ti'al le kebano' ; ¿ bix túun je'el u páajtal c cuxtal láili' ti' le kebano' ?
+45006015	Ba'ax		¿ Ba'ax túun ? ¿ Binel ca'aj kebanchajal tumen mina'ano'on tu yáanal le a'almaj t'aano' ba'ale' ti' yano'on tu yáanal u siibal utzil Kue' ? ¡ Tu jaajile' ma' !
+45006021	ba'ax		ba'ale' ¿ ba'ax ta náajalte'ex ti' le ba'alo'ob cu beetic a ch'a'ique'ex subtal bejela'e' tumen chéen cu bisico'ob máac ti' quíimil ? .
+45007007	Ba'ax		¿ Ba'ax túun bin c a'ale' ? ¿ Keban le a'almaj t'aano' ? ¡ Tu jaajile' ma' ! ba'ale' quex beyo' , tene' ma' táan in wojéeltic ba'ax ca'ach le kebano' , wa ma' tu yo'olal le a'almaj t'aano' . Bey túuno' ma' tin in wojéelt ca'ach ba'ax u dzíibolal ba'al u ti'al yaanal máac , wa ma' u ya'alic le a'almaj t'aano' : Ma' a dzíiboltic ba'al u ti'al yaanal máac .
+45007024	Máax		¡ Jach óotzilen ! ¿ Máax toquiquen ti' le wíinclil cu bisiquen ti' le quíimilo' ?
+45008024	~		Tumen tu yóokol alab óolal to'oco'on ; ba'ale' wa yaan máax táan u yilic ba'ax cu pa'atique' , lelo' ma' alab óolali' . Ba'ax táan u yila'ale' , mina'an ba'ax óolal u p'a'atal .
+45008031a	ba'ax		¿ Ba'ax túun je'el c a'alic tu yo'olal lela' ? Wa Junab Ku ti' yaan t éetele' , 
+45008031b	máax		¿ máax je'el u páajtal u yantal t contrae' ?
+45008032	bix		Kue' ma' tu ya'alaj to'on ma' u dzaíc u Paali' , ba'ale' tu kubaj u ti'al j quíimil t o'olal tuláacalilo'on ; ¿ bix túun ma' u dzáic to'on xan tuláacal ba'al yéetel u Paal ?
+45008033	máax		¿ máax je'el u páajtal u taquic u pool le máaxo'ob yéeyano'ob tumen Kuo' ? Ku máax a'al mina'an u si'ipilo'ob ;
+45008034	Máax		¿ Máax túun je'el u páajtal u xot kintico'obe' ? Cristo máax quíimi , bey xan leti' máax ca'a púut cuxquinta'abi' yéetel ti' yaan tu x no'oj kab Kue' , táan u káat óolal t o'olal .
+45008035	Máax		¿ Máax túun je'el u páajtal u tzelico'on ti' u yaacunaj Cristoe' ? ¿ Je'el wa u páajtal u beetic le mukyajo' , wa le talam ba'alo'obo' , wa le ch'a'apachtajilo' , wa le wi'ijilo' , wa le wa le x ma' nookilo' , wa le sajbe'entzililo' , wa le quíimilo' ?
+45009014	Ba'ax		¿ Ba'ax túun je'el c a'alique' ? ¿ Ma' toj ba'ax cu beetic Kui' ? ¡ Tu jaajile' ma' táan c a'alic lelo' !
+45009019a	ba'axten		Ba'ale' je'el a wa'alic teen túune' : Wa beyo' , ¿ ba'axten túun cu si'ipilcunta'al máac tumen Ku ? , 
+45009019b	máax		tumen ¿ máax je'el u páajtal u bin tu contra ba'ax u káate' ?
+45009020a	Máaxech		¡ Ba'ale' , máac ! ¿ Máaxech teech u ti'al a kakat núuctic u t'aan Ku ? 
+45009020b	~		¿ Je'el wa u páajtal u ya'alic le cuum kat ti' máax beeto' ? 
+45009020c	ba'axten		¿ Ba'axten ta beetajen beya' ?
+45009021	~		Tumen le j pat kato' yaan u páajtalil ti' u beetic yéetel le kato' je'el ba'ax u káate' ; cu páajtal u beetic yéetel le kato' jun p'éel cuum u ti'al j meyaj ti' wa ba'ax jun páaycunta'an , bey xan cu páajtal u beetic u láak u ti'al j meyaj ti' je'el ba'alaque' .
+45009022	ba'ax		¿ Ba'ax túun , wa Ku , u ti'al u dzáic ilbil bix u jaadz , yéetel u ti'al u ye'esic u páajtalile' tu mukyajtaj yéetel chuca'an óolal le máaxo'ob cu najmatico'ob ca'ach le jaadzo' , yéetel yaan u xu'ulsa'alo'ob ca'acho' ?
+45009023	~		Tu beetaje' u ti'al u ye'esa'al u ayikalil u nojbe'enil ti' le máaxo'ob tu ch'a'aj óotzililo' , máaxo'ob xan tu nu'uctaj tu yáax chuun u ti'al u kamo'ob le nojbe'enila' .
+45009024	~		Tumen Kue' tu t'anajo'on , ma' chéen ichil le judíobo' , ba'ale' tac ichil xan le máaxo'ob ma' judíobo' .
+45009030	Ba'ax		¿ Ba'ax bin c a'al túun ? Le máaxo'ob ma' judíob mix táan u caxtico'ob u dza'abalo'ob ma'alob tu táan Kuo' , leti'ob máax dzo'oc u dza'abalo'ob ma'alob tu táan Ku tu yo'olal le ocsaj óolalo' .
+45009032	Ba'axten		¿ Ba'axten ? Tumen ma' tu dzaj yóolo'ob u dzabalo'ob tu táan Ku tu yo'olal le ocsaj óolalo' , ba'ale' tu yo'olal le ba'ax cu beetico'ob leti'obo' . Le o'olale' j t'óochpajo'ob ti' le u tuunichil t'óochpajal
+45010006	Máax		Ba'ale' u ti'al ca dza'abac máac ma'alob tu táan Ku tu yo'olal le ocsaj óolalo' cu ya'alic beya' : Ma' a wa'alic ta pucsi'ikal : ¿ Máax cun na'acal ca'an ? Lela' u ti'al u beeta'al u yéemel Cristo ;
+45010007	Máax		Mix a wa'alic : ¿ Máax cun j éemel tu sen taamil lu'um ? Lela' u ti'al u beeta'al u líikil Cristo ichil quimeno'ob .
+45010008	Ba'ax		¿ Ba'ax túun cu ya'alic ? Naadz ti' teech yaan le t'aano' , ti' a chi' yéetel ti' a pucsi'ikal . Lela' leti' le u t'aanil ocsaj óolal c tze'ectico' .
+45010014a	bix		Ba'ale' ¿ bix cun u ch'a'a chi'ito'ob u kaaba' wa ma' yocsaj óolto'obi' ? 
+45010014b	bix		¿ Bix cun u yocsaj óolto'ob wa ma' u yu'ubo'ob u yúuchul t'aan tu yo'olali' ? 
+45010014c	bix		¿ Bix cun u yu'ubilo'ob wa mina'an mix máac u ti'al tze'ectic ti'ob le ma'alob péectzilo' ?
+45010015	Bix		¿ Bix cu bin u tze'ectico'ob le ma'alob péectzilo' wa mina'an mix máac túuxtico'ob ? Je'el bix cu ya'alic le Quili'ich Dzíibo' : ¡ Buca'aj jadzutzil u yooco'ob le máaxo'ob taasico'ob u péectzilil jedzel óolal , yéetel cu tze'ectico'ob le ma'alob péectzilo' !
+45010016	máax		Ba'ale' ma' tuláacal táan óoltic u ma'alob péectzilil le tocsajilaa' . Bey je'el bix cu ya'alic Isaíase' : Yuumtzil , ¿ máax dzo'oc u yocsaj óoltic le ma'alob péectzil c tze'ectica' ?
+45011004	~		Ba'ale' Kue' tu núucaj ti' : Dzo'oc in jun páaycuntic in ti'al teen siete mil máaco'ob ma' xolaco'ob tu táan beetbil ku Baal .
+45011007	Ba'ax		¿ Ba'ax túun ? Le israelitaobo' ma' yanchaj ti'ob ba'ax cu caxtico'obi' , ba'ale' le máaxo'ob yéeya'ano'ob tumen Kue' ; yanji ti'ob . Le u láako'obo' chichcunta'ab u pucsi'ikalo'ob
+45011015	ba'ax		Tumen wa tu yo'olal cúulpachcunta'ab le judíob , páatji u yóokolcaab u bisicubáa tu ca'a téen yéetel Ku , ¿ ba'ax ma' je'el u yúuchul le quéen ka'amaco'obe' ? Mix ba'al u láak wa ma' cuxtal u ti'al le máaxo'ob quimeno'obo' .
+45011018	~		Ba'ale' ma' a tucultic mas ma'alobech ti' le máaxo'ob jach u kabo'ob le olivoo' . Wa ca tuculticabáa mas ma'alobeche' , ka'ajac teche' ma' teech tzéentic le mootzo' , ba'ale' le mootz tziquiquecho' .
+45011033a	~		¡ Buca'aj taamil u ayikalil Ku , yéetel u kaj óolalil bey xan u na'at ! Ma' tu páajtal c tzolic ba'ax cu tucultic u beetic , 
+45011033b	~		mix cu páajtal c ch'a'a nu'uctic u beelo'ob .
+45011034a	máax		Tumen ¿ máax dzo'oc u ch'a'a nu'uctic u tuucul Yuumtzil ? 
+45011034b	máax		¿ Wa máax tzol u xiquin ?
+45011035	Máax		¿ Máax tu dzaj táanil wa ba'ax ti' Yuumtzil u ti'al cu dzo'ocole' ca u kam u bo'olil ?
+45014004	Máaxech		¿ Máaxech teech u ti'al a p'is óolt le máax táan u meyajtic yaanal máaco' ? Tumen wa utz wa kaas u p'áatale' , lelo' u dzuulil máax unaj u ya'alic . Yéetel utz cun p'áatal , tumen Yuumtzile' yaan páajtalil ti' u ti'al u beetic u p'áatal utzil .
+45014010a	ba'axten		¿ Ba'ale' teche' , ba'axten ca p'is óoltic a sucu'un ? 
+45014010b	ba'axten		¿ wa ba'axten ca p'ectic ? Tumen tuláacalo'on yaan c antal tu táan Cristo u ti'al ca p'is óolta'aco'on tumen leti' .
+46001020a	ba'ax		¿ Ba'ax u biilal le na'ato' , 
+46001020b	~		wa le ca'anbesajo' , 
+46001020c	máax		wa le máax u yojel ba'atel t'aan tu yo'olal u ba'alilo'ob le yóokolcaaba' ? Tumen Kue' dzo'oc u mixba'alcuntic u na'atil le yóokolcaaba' .
+46002011	máax		Ichil máaco'obe' , ¿ máax je'el u yojéeltic ba'ax yaan tu pucsi'ikal máac wa ma' chéen le pixan yaan ti'o' ? Bey xan chéen u Quili'ich Pixan Ku cu páajtal u yojéeltic ba'ax yaan ti' Yuum Ku .
+46002016a	Máax		Tumen le Quili'ich Dzíibo' cu ya'alic : ¿ Máax dzo'oc u na'atic u tuucul Yuumtzil ? 
+46002016b	Máax		¿ Máax cu páajtal u ca'ansic Ku ? Ba'ale' yaan to'on u tuucul Cristo .
+46003005a	máax		Tumen ¿ máax Pablo ? 
+46003005b	máax		¿ máax Apolos ? chéen u palitzilo'ob Ku , máaxo'ob meyajnajo'ob u ti'al ca a wocsaj óolte'ex Yuumtzil . Tu jujun túule' tu beetaj le meyaj dzaab ti' tumen Yuumtzil ca u beeto' .
+46004007a	máax		Tumen ¿ máax tu asab ma'alobquintech tu yóokol u láak ? 
+46004007b	ba'ax		¿ Ba'ax yaan ti' teech wa ma' Ku dzáa ti' techi' ? Wa Ku dzáa ti' teche' 
+46004007c	ba'axten		¿ ba'axten cu ca'analtal a wich bey ma' kambil ta beetilaque' ?
+46004021	Ba'ax		¿ Ba'ax túun a káate'ex ? ¿ Ca xi'iquen in wile'ex yéetel jaadz wa yéetel yaacunaj bey xan yéetel muumun óolal ?
+46005002	~		¡ Cu dzo'ocole' láili' jach ca'anal a wiche'exe' ! ¡ Unaj u yaatal a wóole'ex ! Le máac beet le ba'ax jach kaasa' unaj u luksa'al ichile'ex .
+46005012	~		
+46006001	bix		Le quéen yanac ti' wa máax ichile'ex jun p'éel kuuxil yéetel u láake' , ¿ bix u bin tac pool tu táan máaco'ob ma' c éet ocsaj óolo'obi' ? ¿ Bix ma' tu bin tu táan u caajal Kuo' ?
+46006003	~		¿ Ma' a wojele'ex yaan c p'is óoltic tac le ángelo'obo' ? ¡ Cux túun u ba'alilo'ob le cuxtala' !
+46006004	ba'axten		Wa yaan te'ex ba'atelo'ob tu yo'olal u ba'alo'obil le cuxtala' ¿ ba'axten ca dzáique'ex le máaxo'ob mix ba'al yaan u yilo'ob yéetel le iglesiao' u ti'al ca u p'is óolto'obo' ?
+46006007a	ba'axten		Tu jaajile' kaas u yantal ba'atelilo'ob ta baatzile'ex . ¿ Ba'axten ma' táan a mukyajtique'ex u beeta'al te'ex kaas ? 
+46006007b	ba'axten		¿ Ba'axten ma' ta cha'aique'ex a wocla'ale'ex ?
+46006009	~		
+46006016	~		¿ Jach tu jaajil ma' a wojele'ex le quéen u nupubáa jun túul máac yéetel jun túul kaakas co'olele' , tu ca'a túulalo'ob cu béeytalo'ob bey jun p'éel wíinclile' ? Tumem le Quili'ich Dzíibo' cu ya'alique' : Tu ca'a túulalo'ob bíin béeychajco'ob bey jun p'éelili' wíinclile' .
+46006019	~		¿ Ma' a wojele'ex a wíinclile'exe' u najil Quili'ich Pixan dza'an ti' te'ex tumen Ku , yéetel le Quili'ich Pixano' caja'an ti' te'ex ? Te'exe' ma' u yuumile'ex a wíinclile'exi' ,
+46007016a	bix		Tumen ¿ bix je'el a wojéeltic , teech atantzilech , wa je'el u páajtal a toquic a wíichame' ? 
+46007016b	bix		¿ wa bix je'el a wojéeltic , teech íichamtzilech , wa je'el u páajtal a toquic a watane' ?
+46009007a	Máax		¿ Máax cu beetic u soldadoil yéetel cu tojoltic ti' xan ba'ax cu xupic ? 
+46009007b	Máax		¿ Máax cu pakic uva cu dzo'ocole' ma' tu jaantic u yich ? 
+46009007c	Máax		¿ Máax cu canantic j tamano'ob cu dzo'ocole' ma' tu yukik u kaab u yiim le j tamano'obo' ?
+46009018	~		Bey túuno' , le bo'olal yaan teno' leti' u qui'imac óolil in tze'ectic x ma' bo'olil le ma'alob péectzilo' ; in káat in wa'ale' , quex ma' in ka'abetcuntic le páajtalil yaan teno' u ti'al ca cuxlaquen ti' u meyajil in tze'ec .
+46010019a	~		Ma' in káat in wa'ale' wa yaan u tojol le beetbil kuo' , 
+46010019b	~		mix wa le janal dza'an tu táan le beetbil kuo' asab ma'alob ti' u láak janal .
+46010019c	~		
+46010029	Ba'ax		Táan in wa'alic u tuucul le u láako' ma' a tuucul techi' . Ba'ale' yaan máax cu páajtal u káatic : ¿ Ba'ax teen bíin p'is óolta'ac ba'ax quin beetic tu yo'olal u tuucul yaanal máac ?
+46010030	ba'axten		Tumen wa quin dzáic nib óolal ti' Ku tu yo'olal ba'ax quin jaantique' , ¿ ba'axten bíin a'ala'ac teen ba'al tumen táan in jaantic ?
+46011022	Ba'ax		¿ Mina'an a wotoche'ex u ti'al a janale'ex yéetel a wukule'ex ? Beya' táan a p'ectique'ex u iglesia Ku yéetel táan a pajique'ex u subtal le máaxo'ob mina'an mix ba'al ti'obo' . ¿ Ba'ax quin in wa'al te'ex ? ¿ unaj in qui'iqui' t'antique'ex ? ¡ Ti' lela' ma' !
+46012017a	bix		Tumen wa tuláacal le wíinclil icho' , ¿ bix je'el u páajtal c u'uyaje' ? Wa tuláacal le wíinclil xiquino' , 
+46012017b	bix		¿ bix je'el u páajtal c úudzbentaje' ?
+46012019	Tu'ux		Wa tuláacal chéen jun p'éel u xéet'ele' ¿ Tu'ux yaan le wíinclilo' ?
+46014006	Ba'ax		Le o'olale' , sucu'une'ex , wa teen quin bin in xíimbalte'ex táan in t'anique'ex ich jejeláas t'aano'obe' . ¿ Ba'ax u biilal te'ex wa in t'aano'ob ma' tu taasic te'ex wa ba'ax chíicbesajil , wa ba'ax kaj óolalil , wa ba'ax tze'equil wa ba'ax ca'ansajil ?
+46014007	bix		Co'ox dzáic u queet t'aanil u nu'uculilo'ob paax , mina'an cuxtal ti'ob , je'el bix le flauta wa le arpao' . Wa ma' tu páajtal u yu'uba'al u jejeláas juume' , ma' tu páajtal u yojéelta'al ba'ax cu paxic .
+46014008	~		Yéetel ti' le ba'atelo'obo' wa ma' tu na'ata'al ba'ax cu paxic le trompetao' , mix máac cun u líiksubáa u ti'al le ba'atelo' .
+46014009	bix		Queet u yúuchul ti' te'ex : wa yéetel a waake'ex ma' táan a wa'alique'ex t'aano'ob cu páajtal u na'ata'ale' , ¿ bix je'el u páajtal u yojéelta'al ba'ax ca wa'alique'exe' ? ¡ Chéen bin a ca'aje'ex t'aan ti' iik !
+46014015	ba'ax		¿ Ba'ax túun unaj in beetic ? Unaj in payalchi' yéetel in pixan , ba'ale' unaj in payalchi' xan yéetel in na'at . Unaj in kaay yéetel in pixan , ba'ale' unaj in kaay xan yéetel in na'at .
+46014016	bix		Tumen wa teech táan a qui'iqui' t'antic Ku chéen yéetel a pixane' , le máax u'uyiqueche' ¿ bix cun u ya'alil Amén tu yo'olal le gracias ca dzáico' wa ma' tu na'atic ba'ax ca wa'alic ?
+46014026	~		Bey túuna' , sucu'une'ex , le ba'ala' bey yanila' . Le quéen much'laque'exe' , dze'edzec ti' te'exe' yaan kaayo'ob ti' , wa ca'ansajo'ob , wa yaan ba'ax dza'an u yojéelt tumen Ku , wa tze'eco'ob ich jejeláas t'aano'ob wa u tzoolol le tze'eco'oba' . Ma'alob , tuláacale' beeta'ac u ti'al u yutzil le máaxo'ob yano'ob te j iglesiao' .
+46014036	~		Unaj a kaj óoltique'exe' u ya'almaj t'aan Kue' ma' chu'unpaj ta wéetele'exi' , mix chéen te'ex ta kamaje'exi' .
+46015012	bix		Ba'ale' wa to'on táan c tze'ectic u ca'a púut cuxtal Cristo ichil le quimeno'obo' , ¿ bix u ya'alico'ob dze'edzec ti' te'exe' mina'an ca'a púut cuxtal ?
+46015029a	~		U láak ba'ax , yaan dze'edzec cu yocja'ob tu yo'olal le quimeno'obo' . 
+46015029b	ba'axten		¿ Ba'axten cu beetico'ob lela' ? Wa le quimeno'ob ma' tu ca'a púut cuxtalo'obo' 
+46015029c	ba'ax		¿ ba'ax ti'al cu yocja'ob tu yo'olalo'ob ?
+46015030a	~		
+46015030b	ba'axten		¿ Ba'axten túun c dzáicbáa tu táan sajbe'entzilo'ob ?
+46015032	ba'ax		Wa tu yo'olal lu'umcabil ba'alo'ob ba'atelnajen yéetel dzíidzic ba'alche'ob tu caajil Efesoe' ; ¿ ba'ax túun tin náajaltaj yéetel lelo' ? Wa jaaj ma' tu ca'a púut cuxtal le quimeno'obo' , ti' jaajil yano'ob máax cu ya'alico'ob : Janaco'on yéetel ukulnaco'on tumen sáamal bíin quíimico'on .
+46015035a	bix		Yaan máax je'el u páajtal u káatique' : ¿ Bix cun ca'a púut cuxtal le quimeno'obo' ? 
+46015035b	ba'ax		¿ Ba'ax wíinclil cun yantal ti'ob ?
+46015055a	tu'ux		Quíimil ¿ tu'ux yaan a páajtalil u ti'al loobiltico'on ? 
+46015055b	tu'ux		¿ Tu'ux yaan , quuíimil , a dza'ancha'atajil ?
+47002002	máax		Tumen wa teen quin beetic u yajtal a wóole'exe' , ¿ máax túun cun beetic u qui'imactal a wóol ? Chéen te'ex máaxe'ex dzo'oc in beetic u yajtal a wóole'ex .
+47002016	Máax		U ti'al le máaxo'ob cu sa'atalo'obo' , le qui'iboca' bey jun p'éel booc cu quiimsaje' , ba'ale' u ti'al le máaxo'ob cu to'oclo'obo' , bey jun p'éel booc cu dzáic cuxtal ti'obe' ¿ Máax túun jach ma'alob u ti'al lela' ?
+47003008	~		¡ buca'aj u asab nojochil u qui'ichquelemil le ma'alob péectzil cu taasic to'on Quili'ich Pixano' !
+47003009	buca'aj		U káat u ya'ale' , wa le a'almaj t'aan meyajnaj u ti'al u xot kinto'on jach qui'ichquelemo' , ¡ buca'aj u asab qui'ichquelemil le ma'alob péectzil iquil u ya'alic Ku : Mina'an to'on si'ipilo' !
+47006014a	ba'ax		Ma' a nupcaba'ex yéetel máaxo'ob ma' tu yocsaj óolo'obo' . Tumen ¿ ba'ax yaan u yila'al ba'ax toj yéetel ba'ax kaas ? 
+47006014b	bix		¿ Wa bix je'el u páajtal u bisicubáa le sáasilo' yéetel le éekjoch'e'enilo' ?
+47006015a	bix		¿ Bix je'el u páajtal u yantal queet tuucul ti' Cristo yéetel Satanase' ? 
+47006015b	bix		¿ Wa bix je'el u páajtal u yantal jun túul ocsaj óol yéetel jun túul mina'an ocsaj óol ti'e' ?
+47006016	~		¿ Je'el wa u páajtal u yantal ba'al u yil u templo Ku yéetel le beetbil kuo'obo' ? Tumen te'exe' u templo le cuxa'an Kuo' , je'el bix tu ya'alaj Kue' : Bíin cajlaquen yéetel bíin xíimbalnaquen ichilo'ob ; teen bíin u Kuinto'ob , leti'obe' bíin in caajilto'ob .
+47011011	Ba'axten		¿ Ba'axten quin t'aan beyo' ? ¿ Tumen ma' in yaabilmaje'exi' ? Kue' u yojel buca'aj in yaabiltmaje'ex .
+47011029a	máax		Wa yaan máax mina'an u muuke' , bey teen mina'an in muuke' . 
+47011029b	máaxe'		Wa cu beeta'al u lúubul wa máaxe' , teen quin mukyajtic sublaquil yéetel kuuxil .
+47012013	ba'ax		¿ Ti' ba'ax asab chichane'ex ti' u láak iglesiaobo' ? U jela'anile' tene' ma' béeychajen bey jun p'éel cuuch a ti'al te'exe' . ¡ Sa'atse'ex teen le kaas tin beetaj te'exa' !
+47012017	~		¿ Tin tusaje'ex wa yéetel le máaxo'ob tin túuxtaj te'exo' ?
+48002014	ba'ax		Ba'ale' le ca tin wilaj ma' tu xíimbalo'ob ti' u jaajil le ma'alob péectzilo' , tin wa'alaj ti' Pedro tu táan tuláacal u múuch'ul le ocsaj óolo'obo' : Teech judióech , táan ca'ach a cuxtal je'el bix le ma' judíobo' , ma' je'el bix le judíobo' , ¿ ba'ax teen túun a káat a beet u cuxtal le ma' judíob je'el bix le judíobo' ?
+48003001	Máax		¡ Galaciaile'ex , jach ma' na'ate'ex ! ¿ Máax sat a na'ate'ex u ti'al ma' a wu'uyique'ex u t'aan u ma'alob péectzilil le jaajo' ? Ichil c tze'eque' tu táan a wiche'ex dzo'oc c tze'ectic Jesucristo sina'an ti' cruz .
+48003019	ba'ax		Wa bey túuno' , ¿ ba'ax túun u biilal u ya'almaj t'aan Moisés ? Dzaab cu dzo'ocol lela' u ti'al u ye'es le si'ipilo'obo' . Chéen unaj u yantal tac quéen talac le ch'i'ibal ti' máax beeta'ab le dzaa t'aano' . Le a'almaj t'aano' dzaab ojéeltbil tumen ángelo'ob tu yo'olal jun túul j bisaj t'aan .
+48004009a	bix		Ba'ale' beoraa' a kaj óole'ex Kue' wa a'albil mas ma'alobe' , Ku u kaj óole'exe' ¿ Bix u yúuchul a suute'ex tu ca'a téen ti' le ma' muukil yéetel óotzil tuuculo'obo' ? 
+48004009b	ba'ax		¿ Ba'ax teen a káate'ex ca palitzilta'aque'ex tu ca'a téen ?
+48004010	~		Te'exe' láili' ca kiinbesique'ex dze'edzec kiino'ob , meso'ob , yéetel ja'abo'ob .
+48004015	Ba'ax		¿ Ba'ax úuch yéetel le qui'imac óolal anji te'exo' ? cu páajtal in wa'alic ta wo'olale'exe' , wa ca páatac ca'ache' , tac je'el a jóokesique'ex a wiche'ex u ti'al a dza'ex tene' .
+48004021	~		Te'ex a káate'ex antal yáanal u ya'almaj t'aan Moisese' , a'ale'ex teen lela' : ¿ Ma' a wu'uymaje'ex ba'ax cu ya'alic le a'almaj t'aano' ?
+48004030	ba'ax		Ba'ale' , ¿ ba'ax cu ya'alic le Quili'ich Dzíibo' ? Cu ya'alic : Tojolch'int le x palitzil yéetel u paalo' , tumen u paal le x palitzilo' ma' tu páajtal u kamic u ayikalil le taatao' jun múuch' yéetel u paal le co'olel ma' palitzililo' .
+48005007a	Máax		Te'exe' ma'alob a wanile'ex ca'achi . ¿ Máax túun tu beetaj u jáawal a wu'uyique'ex u t'aan le jaajilo' ?
+48005007b	~		
+48005011	~		Ba'ax quin wa'alic tin wo'olale' , sucu'une'ex , wa teen láili' táan in ca'ansic le súutkuptajo' , bejela'a' le judíob ma' táan u ch'a'apachtiqueno'obe' , tumen beyo' u ma'alob péectzilil u cruz Cristoe' ma' táan u lúubul kaasil tu xiquino'obi' .
+49004009	Ba'ax		¿ Ba'ax túun u káat u ya'al le t'aan cu ya'alic : j na'aco' ? U káat u ya'ale' táanil éem ti' u mas taamil lu'um .
+50001018	ba'ax		Ba'ale' ¿ ba'ax túun ? je'el bixaque' , wa yéetel tuláacal pucsi'ikal wa ma'e' , táan u tze'ecta'al u kaaba' Cristo ; lela' cu qui'imaccunsic in wóol . Yéetel yaan u asab qui'imactal in wóol ,
+50001021	~		Tumen in ti'al tene' le cuxtalo' Cristo , yéetel le quíimilo' jun p'éel náajal .
+51002020	Ba'axten		Te'exe' dzo'oc a quíimile'ex yéetel Cristo , iquil ta xúump'attile'ex le lu'umcabil tuuculo'obo' yaan tu yo'olal le ba'alo'obo' . ¿ Ba'axten túun táan a cuxtale'ex bey yóokolcaabile'exe' táan a dzáicaba'ex tu yáanal a'almaj t'aano'ob ,
+52002019	máacalmáac		Tumen , ¿ máacalmáac c alab óolal , wa c qui'imac óolal , wa ba'ax óolalil u yantal to'on nojbe'enil ? ¿ ma' wa te'ex le quéen taalac c Yuumtzil Jesucristoi' ?
+52003009	bix		¿ Bix je'el u páajtal c chúucbesic le nib óolal c dzáic ti' Ku ta wo'olale'exo' yéetel tu yo'olal le ya'abcach qui'imac óolal dzo'oc a dzáique'ex to'on tu táan leti'o' ?
+54003005	bix		tumen wa jun túul máac ma' u yojel u nu'uct u beel u yotochnáalo'obe' ¿ bix je'el u páajtal u canantic u Iglesia Kue' ?
+54006007a	~		Tumen mixba'al t taasaj way yóokolcaabe' , 
+54006007b	~		mixba'al xan cu páajtal c bisic ;
+58001005	~		Tumen Kue' mix bikin tu ya'alaj ti' mix jun túul ángel :
+58001013	~		Kue' mix bikin tu ya'alaj ti' mix jun túul ángel :
+58001014	~		
+58002003	Bix		¿ Bix je'el u páajtal c jechicbáa to'one' wa ma' c táan óoltic le jach nojoch tocsajilo' ? Tumen Yuumtzil yáax tze'ect le tocsajila' , cu dzo'ocole' le máaxo'ob u'uye' tu jaajcunto'obe' ca tu máansajo'ob ti' to'on .
+58002006a	tu'ux		U jaajile' , wa tu'ux ti' le Quili'ich Dzíibo' yaan 
+58002006b	máax		máax cu ya'alic :
+58003016	~		
+58003017	~		
+58003018	~		
+58006004	~		Tumen le máaxo'ob tu kamajo'ob jun téen le sáasilo' yéetel dzo'oc u yu'ubico'ob u qui'il le ba'ax cu dzáic Kuo' , yéetel dzo'oc u táacpajlo'ob ti' Quili'ich Pixane' ,
+58007011	~		U caajil Israele' tu kamaj le a'almaj t'aano' tu yo'olal le aj kiino'ob levitaobo' , máaxo'ob u ch'i'ibalo'ob Aarón . Bey túuno' wa lelo'ob cu páajtal ca'ach u utzil chuca'ancuntico'ob le máaxo'ob cu bino'ob tu paach le a'almaj t'aano' , ma' kabéet túun ca chíicpajac u láak aj kiini' , jun túul aj kiin ma' je'el bix Aaroni' ba'ale' je'el bix Melquisedeque' .
+58009014	buca'aj		Ba'ale' wa bey anilo' ¡ buca'aj asab páajtalil yaan ti' u ki'ikel Cristo ! Tumen tu yo'olal le Quili'ich Pixan mina'an u xuulo' , Cristoe' tu kubjubáa ti' Ku bey jun p'éel siibal mina'an mixba'al kasa'an ti'e' yéetel u ki'ikele' cu p'o'ic c tuucul ti' le meyajo'ob cu bisico'ob máac ti' quíimilo' , u ti'al ca páatac c meyajtic le cuxa'an Kuo' .
+58010001	~		Tumen u ya'almaj t'aan Moisese' chéen jun p'éel u yoochel le ma'alob ba'alo'ob bíin taalaco' , ma' jach bixo'ob tu jaajili' . Bey túuno' , le a'almaj t'aano' mix bikin cu páajtal u yutzil chuca'ancuntic le máaxo'ob cu nadzicuba'ob ti' Ku tu yo'olal le quiimsbil siibalo'ob cu ku'ubulo'ob cada ja'abo' .
+58010029a	buca'aj		Beyo' ¿ Buca'aj asab nojoch jaadz ca tucultique'ex cu najmatic le máax cu pe'epe'echa'atic u Paal Ku yéetel cu tucultic mixba'al u biilal u ki'ikele' , bey xan cu poch'ic le Quili'ich Pixan cu dzáic siibal utzo' ? Le ki'iko' leti' jaajcuntic le nup t'aano' bey xan tu yéetel quili'ichcunta'ano'ob .
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	Ba'ax		¿ Ba'ax asab je'el in wa'alique' ? Mina'an u yorail in t'aan tu yo'olal Gedeón , Barac , Sansón , Jefté , David , Samuel yéetel le aj bóobato'obo' .
+58012007	~		
+58012009	~		
+58012025	~		Le o'olale' , canantaba'ex ma' a cúulpachcuntique'ex le máax t'anico'ono' . Tumen wa ma' tu jechuba'ob le máaxo'ob tu cúulpachcunto'ob Ku le ca j t'aano'ob way te yóokol le lu'uma' ; asab talam ca c jechabáa to'on wa c cúulpachcuntic le máax cu t'anico'on te j ca'ano' .
+58013006	~		Bey túuno' c páajtal c a'alic yéetel kub óolal :
+59002006	~		Ba'ale' te'exe' ca pajique'ex u subtal le máaxo'ob óotzilo'obo' . ¿ Ma' le máaxo'ob ayikalo'ob jaantic u yich a meyaje'exo' yéetel máaxo'ob jíiltique'ex tu táan le jalach wíinico'obo' ?
+59002014	ba'ax		In sucu'une'ex , ¿ ba'ax u biilal ti' máac wa cu ya'alic yaan ocsaj óolal ti' ba'ale' ma' táan u beetic utzil meyajo'ob ? ¿ Je'el wa u páajtal u to'ocol tumen le ocsaj óolalo' ?
+59002016a	~		yéetel jun túul ichile'exe' cu ya'alic ti'e' : Ca xi'ic teech utzil ; tep'abáa yéetel jaanen , ba'ale' ma' táan u dzáic ti' le ba'ax kabéet u ti'al le wíinclilo' 
+59002016b	ba'ax		¿ ba'ax u biilal lelo' ?
+59002018	~		Ba'ale' je'el u yúuchul u ya'alic wa máaxe' : Teche' yaan teech ocsaj óolal , tene' quin beetic utzil meyajo'ob . E'es teen túun a wocsaj óolal x ma' utzil meyajo'obe' teen túune' quin we'esic teech in wocsaj óolal tu yo'olal le utzil meyajo'ob quin beetico' .
+59002021	~		Kue' tu kamaj Abraham , c úuchben taata bey jun túul máax toje' tu yo'alal le ba'ax tu beetaj ca tu kubaj u paal Isaac bey jun túul quíimsbil siibale' .
+59003013	máax		¿ Yaan wa máax ichile'ex yaan u na'at bey xan kaj óolal ? U ye'es yéetel u ma'alob cuxtale' u utzil meyajo'ob yéetel le cabal óolal cu dza'abal ti' tumen le na'ato' .
+59003017	~		Ba'ale' le máaxo'ob yaan le ca'anilbe'en na'at ti'obo' yáax táanile' yaan jun p'éel qui'ilich cuxtal ti'ob ; cu dzo'ocole' yaan suuc óolal ti'ob ; utz u pucsi'ikalo'ob yéetel toj u tuuculo'ob . Cu ch'a'ico'ob óotzilil yéetel cu beetico'ob utz ; cu ya'alico'ob ba'al jaaj yéetel mina'an ca'a p'éel ichil ti'ob .
+59004001a	tu'ux		¿ Tu'ux u taal le quiimsajbáil 
+59004001b	~		yéetel le ba'atelilo'ob ichile'exo' ? ¿ Ma' wa ti' le kaakas dzíibolalo'ob cu ba'atelo'ob mantadz ichil a wíinclile'exo' ?
+59004012	máaxech		Ba'ale' chéen yaan jun túul máax dzáa le a'almaj t'aano' , leti' xan máax juez , leti' xan máax cu páajtal u tocsaj wa u xu'ulsaj . ¿ Ba'ale' teche' , máaxech u ti'al a p'is óolt a láak ?
+59004014	ba'ax		mix túun a wojele'ex ba'ax cun úuchul sáamali' . ¿ Tumen ba'ax u cuxtal jun túul máac ? Bey le ye'eb cu chíicpajal tu yo'olal jun súutuco' cu dzo'ocole' cu sa'atal .
+60002020	ba'ax		Tumen wa te'ex ca beetique'ex ba'al kaase' , yéetel tu yo'olal lelo' ca ja'adzale'exe' , ¿ ba'ax ca numyajtique'ex iquil a mukyaje'ex yéetel chuca'an óolal ? Ba'ale' wa ca mukyaje'ex tu yo'olal a beetique'ex ba'al utze' , yéetel ca mukyaje'ex yéetel chuca'an óolale' , lela' ma'alob tu táan Ku .
+60003013	Máax		¿ Máax je'el u páajtal u beetic te'ex kaas , wa te'ex mantadz táan a beetique'ex le utzo' ?
+60004017	bix		Tumen dzo'oc u kuchul u kiinil u caajal le p'is óolo' yéetel u yéet otochnáalo'ob Ku . Wa le p'is óol táan u cáajal bey t éetelo' , ¿ bix cun dzo'ocol le máaxo'ob ma' táan u yu'ubaj t'antico'ob u ma'alob péectzil Kuo' ?
+60004018	ba'ax		Wa le máaxo'ob utzo'ob istiquiail u to'ocolo'obo' , ¿ ba'ax cun j úuchul yéetel le máaxo'ob kasa'ano'obo' bey xan yéetel le j kebano'obo' ?
+61003004	ba'ax		yéetel táan u ya'alico'ob : ¿ Ba'ax j úuch yéetel u dzaa t'aanil bíin taalac Cristo ? Tumen likbal tu kinil ca j quíim le c úuchben taataob tac bejela'e' tuláacal ba'al queet yanil je'el bix u yanil ca'ach le ca j beeta'ab yóokolcaabe' .
+61003011	buca'aj		Tumen tuláacal bíin xu'ulsa'ac beyo' bey túuno' yéetel buca'aj kub óolal yéetel quili'ichil unaj a cuxtale'ex .
+62002022	Máax		¿ Máax le j tuuso' ? Leti' le máax cu ya'alique' Jesuse' leti' le Cristoo' . Leti' máax yaan tu contra le Cristo' , tumen cu cúulpachcuntic le Taatao' bey xan le Paalo' .
+62003012	Ba'axten		Ma' unaj c béeytal je'el bix Caine' máax u ti'al kasiba'ale' ca tu quiimsaj u yíidzin . ¿ Ba'axten tu quiimsaj ? Tumen le ba'ax cu beetic Caino' kaas , yéetel le ba'ax cu beetic u yíidzino' utz .
+62003017	bix		Tumen wa yaan jun túul máac yaan lu'umcabil ayikalil ti' , cu dzo'ocole' cu yilic u yóotzilil u sucu'une' ba'ale' ma' tu ch'a'ic óotzilil ti'e' ¿ bix je'el u ya'alic wa yaan u yaacunaj Ku tu pucsi'ikale' ?
+62004020	~		Ba'ale' wa yaan máax cu ya'alic : Tene' in yaabiltmaj Ku , ba'ale' u p'ecmaj u sucu'une' , jun túul j tuus . Tumen wa jun túul máac ma' táan u yaabiltic u sucu'un , máax táan u yilique' , ma' táan u páajtal u yaabiltic Ku máax ma' táan u yilic .
+62005005	Máax		¿ Máax cu páajtal u dzáancha'atic yóokolcaab wa ma' chéen le máax cu yocsaj óoltic Jesuse' u Paal Ku ?
+66005002	Máax		Tin wilaj jun túul mu'uka'an ángel táan u káatic yéetel ka'am t'aan : ¿ Máax cu najmatic u je'ic le libro yéetel u jatic le chíiculo'ob ?
+66006010a	tac ba'ax kiin		Lelo'oba' cu ya'alico'ob yéetel ka'am t'aan : Quili'ich Yuumtzil máax u jaajil , ¿ tac ba'ax kiin quéen a p'is óolt 
+66006010b	~		yéetel a sutic loob ti' le máaxo'ob caja'ano'ob yóokolcaabo' tu yo'olal tu wequilo'ob c ki'ikel ?
+66006017	Máax		Tumen u nojoch kiinil u p'u'ujule' dzo'oc u kuchul . ¿ Máax je'el u páajtal u wa'atal tu táane' ?
+66007013a	Máaxo'obi'		Jun túul ti' le nojochil u caajil Israelo' tu káataj teen : Le búucbesa'ano'ob yéetel sac búuco' , ¿ Máaxo'obi' 
+66007013b	tu'ux		yéetel tu'ux u taalo'ob ?
+66013004a	Máax		Tu kultajo'ob le caano' tumen tu dzáa páajtalil ti' le nojoch ba'alche'o' , tu kultajo'ob xan le nojoch ba'alche'o' , táan u ya'alico'ob : ¿ Máax yaan je'el bix le nojoch ba'alche'a' ? 
+66013004b	Máax		¿ Máax je'el u páajtal u bin u beet loob ti'e' ?
+66015004a	~		
+66015004b	~		
+66017007	Ba'axten		Ca tu ya'alaj teen le ángelo' : ¿ Ba'axten jaka'an a wóol ? Bin in ca'aj in beet a wojéeltic ba'ax u káat u ya'al u balbil kaaba' le co'olelo' yéetel ba'ax u káat ya'al le nojoch ba'alche' bisico' , le yaan siete u poolo' yéetel diez u dzíitil u baaco' .
+66018018	ba'ax		ca j awatnajo'ob le ca tu yilajo'ob u buudzil u tóoca'al le caajo' , táan u ya'alico'ob : ¿ Ba'ax u láak caajil yaan ca'ach je'el bix le nojoch caaja' ?

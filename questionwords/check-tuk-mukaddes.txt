@@ -1,0 +1,743 @@
+40002002	nirede		« Ýahudylaryň patyşasy bolup doglan nirede ? Biz Onuň dogluş ýyldyzyny gördük we Oňa sežde etmäge geldik » diýdiler .
+40002004	nirede		Ol ähli ýolbaşçy ruhanylary , Töwrat mugallymlaryny ýygnap , olardan Mesihiň nirede dogulmalydygy hakynda sorady .
+40003007	~		Ýahýa fariseýleriň we saddukeýleriň ençemesiniň çümdürilmek üçin öz ýanyna gelýändiklerini görende , olara şeýle diýdi : « Eý , alahöwrenler nesli ! Geljek gazapdan gaçyp gutulyp bileris öýdýäňizmi ?
+40005013	näme		Siz ýeriň duzusyňyz , emma duz tagamyny ýitirse , ol näme bilen duzlanar ? Daşary zyňlyp , aýak astynda depelenmekden başga hiç zada ýaramaz .
+40005046	näme		Siz özüňizi söýýänleri söýýän bolsaňyz , onda näme sylag alarsyňyz ? Salgyt ýygnaýanlar-da şeýle etmeýärmi näme ?
+40005047	näme		Diňe öz dostlaryňyza salam berýän bolsaňyz , onda näme artykmaç iş edýärsiňiz ? Butparazlar-da şeýle etmeýärmi näme ?
+40006027	haýsy		Siziň haýsy biriňiz gaýgy edip , ömrüňizi bir sagat uzaldyp bilýärsiňiz ?
+40006028	Näme üçin		Näme üçin egin-eşigiň aladasyny edýärsiňiz ? Meýdandaky liliýalaryň nähili ösüşine serediň : olar ne zähmet çekýärler , ne-de ýüp egirýärler .
+40006031a	näme		Şonuň üçin näme iýip-içeris , 
+40006031b	~		
+40006031c	näme		näme geýeris diýip alada etmäň .
+40007003	Näme üçin		Näme üçin sen doganyňyň gözündäki çöpi görýärsiň-de , öz gözüňdäki agajy saýgarmaýarsyň ?
+40007004	Nädip		Nädip sen öz gözüňde agaç barka , doganyňa : „ Gel , gözüňdäki çöpi çykaraýyn “ diýjek ?
+40007009	haýsy		Siziň haýsy biriňiz ogluňyz çörek dilände , oňa daş berer ?
+40007016a	~		Siz olary miwelerinden tanarsyňyz . Tikenden üzüm ýa-da 
+40007016b	~		ýandakdan injir ýygylýarmy ?
+40008026	Nämä		Isa olara : « Nämä gorkýarsyňyz , eý , imany azlar ? ! » diýdi . Soňra Ol ýerinden turup , ýele we köle käýedi welin , ol ýere doly ümsümlik aralaşdy .
+40008027	nähili		Olar haýran galyp : « Bu nähili Adamka , hatda ýel bilen köl-de Oňa gulak asýar ? » diýişdiler . Isa arwah-jynlary çykarýar .
+40008029	näme		Birdenkä olar : « Eý , Hudaýyň Ogly ! Seniň biziň bilen näme işiň bar ? Bizi wagtyndan öň gynamaga geldiňmi ? » diýip gygyryşyp başladylar .
+40009004	Näme üçin		Emma Isa olaryň pikirlerini bilip : « Näme üçin göwnüňize erbet pikirler getirýärsiňiz ?
+40009005	Haýsyny		Haýsyny aýtmak aňsat : „ Günäleriň ötüldi “ diýmekmi ýa-da : „ Tur-da , ýöre “ diýmek ?
+40009011	Näme üçin		Fariseýler muny görüp , Onuň şägirtlerinden : « Näme üçin siziň Mugallymyňyz salgytçylardyr günäkärler bilen bile nahar iýýär ? » diýip soradylar .
+40009014	Näme üçin		Onsoň Ýahýanyň şägirtleri Isanyň ýanyna gelip : « Näme üçin biz we fariseýler agyz bekleýäris-de , Seniň şägirtleriň agyz beklänoklar ? » diýip soradylar .
+40009015	~		Isa olara : « Giýew ýanlaryndaka , heý-de , toýuň myhmanlary ýas tutarmy ? Emma giýewiň olardan alynjak günleri geler , şonda olar agyz beklärler .
+40010025	~		Şägirdiň öz halypasy ýaly , guluň öz hojaýyny ýaly bolmagy ýeterlikdir . Eger öý eýesine Beýelzebul diýýän bolsalar , onda onuň içerisindäkilere ondan hem beter zat diýmezlermi ? ! Kimden gorkmaly ? .
+40011007	näme		Ýahýanyň şägirtleri giden wagty , Isa mähellä Ýahýa barada gürrüň bermäge başlady : « Çöle näme görmäge gitdiňiz ? Şemala yranýan ýylgynymy ?
+40011008	näme		Ýeri , näme görmäge gitdiňiz ? Nepis eşikler geýnen bir adamymy ? Emma nepis eşikler geýnenler patyşalaryň köşklerindedir .
+40011009	näme		Onda näme görmäge gitdiňiz ? Bir pygamberimi ? Hawa , Men size şuny aýdýaryn , ol gören kişiňiz hatda pygamberden hem artykdyr .
+40011016	kime		Men bu nesli kime meňzedeýin ? Olar bazarlarda oturyp , başgalara : „ Size tüýdük çaldyk , tans etmediňiz ; agy aýtdyk , aglamadyňyz “ diýip gygyrýan çagalara meňzeýärler .
+40012011	haýsyňyz		Isa olara : « Eger bir goýnuňyz bolup , ol-da Sabat güni çukura gaçsa , haýsyňyz ony çykaryp almarsyňyz ?
+40012026	nähili		Şeýtan şeýtany kowýan bolsa , onda içinde bölünişik bardyr , onsoň onuň patyşalygy nähili durar ?
+40012027	kim		Eger Men arwah-jynlary Beýelzebul arkaly kowýan bolsam , onda siziň adamlaryňyz olary kim arkaly kowýarlar ? Şu sebäpli sizi öz adamlaryňyz höküm eder .
+40012029	kim		Kim güýçli adamyň öýüne girip , malyny talap biler ? Ilki ony daňmaly bolar , onsoň öýüni talar .
+40012034	nädip		Eý , alahöwrenler nesli ! Ynsanyň dili ýüreginden joşanyny sözleýändir . Şeýlelikde , özüňiz erbetkäňiz , nädip siz oňat zatlar sözläp bilersiňiz ?
+40012048a	kim		Emma Isa muny aýdana : « Meniň ejem , doganlarym kim ? » diýdi .
+40012048b	~		
+40013010	Näme üçin		Onsoň şägirtler Isadan : « Näme üçin halka tymsallar bilen gürrüň berýärsiň ? » diýip soradylar .
+40013027	nireden		Ýer eýesiniň hyzmatkärleri onuň ýanyna gelip : „ Hojaýyn , sen atyzyňa oňat tohum sepmänmidiň ? Bu haşal otlar nireden peýda bolduka ? “ diýip soraýarlar .
+40013054a	nireden		Ol Öz dogduk mekanyna gelip , adamlara olaryň sinagogalarynda sapak bermäge başlady . Adamlar Oňa haýran galyp : « Bu Adam beýle danalygy nireden aldyka ? 
+40013054b	nädip		Ol nädip beýle mugjyzalary görkezmegi başarýarka ?
+40013056	nireden		Onuň uýalary-da biziň aramyzda ýaşamaýarlarmy näme ? Onda bu Adam munça zady nireden bilýärkä ? » diýişdiler .
+40014031	näme üçin		Isa şobada elini uzadyp , ony tutdy-da : « Eý , az imanly , näme üçin şübhelendiň ? » diýdi .
+40015002	Näme üçin		« Näme üçin Seniň şägirtleriň ata-babalaryň adatyny bozýarlar ? Näme üçin olar nahar iýenlerinde ellerini ýuwmaýarlar ? » diýip soradylar .
+40015003	näme üçin		Isa olara şeýle jogap berdi : « Siz näme üçin öz adatlaryňyzyň hatyrasyna Hudaýyň buýrugyny bozýarsyňyz ?
+40015033	nireden		Şägirtleri Oňa : « Beýle uly mähelläni doýrar ýaly , bu çola ýerde biz çöregi nireden alaly ? » diýdiler .
+40015034	Näçe		Isa olardan : « Näçe çöregiňiz bar ? » diýip sorady . Olar : « Ýedi çörek bilen birnäçe ownuk balygymyz bar » diýdiler .
+40016008	nämä		Emma Isa olaryň näme diýişýändiklerini bilip , şeýle diýdi : « Eý , imany azlar ! Çörek almandyrys diýşip , nämä özara çekeleşýärsiňiz ?
+40016009	näçe		Entek hem düşüneňizokmy ? Bäş çörek bilen bäş müň adamyň doýandygy , artanynyň näçe sebet bolandygy ýadyňyza düşmeýärmi ?
+40016010a	~		Ýedi çörek bilen dört müň adamyň doýandygy , 
+40016010b	näce		artanyndan näçe sebedi dolduryp ýygnandygyňyz hem ýadyňyza düşenokmy ?
+40016011	nädip		Siz nädip çörek barada gürrüň etmeýändigime düşüneňzok ? Men size : „ Özüňizi fariseýler bilen saddukeýleriň hamyrmaýasyndan goraň “ diýýärin » .
+40016013	kim		Isa Kaýsariýa-Filip şäheriniň golaýyna gelende , şägirtlerinden : « Adamlar Ynsan Ogluna kim diýýärler ? » diýip sorady .
+40016015a	~		
+40016015b	kim		Isa olardan : « Siz Maňa kim diýýärsiňiz ? » diýip sorady .
+40016026a	näme		Ynsan tutuş dünýäni gazanybam , janyndan mahrum bolsa , oňa näme peýdasy bar ? 
+40016026b	näme		Ynsan öz janyna derek näme berip biler ?
+40017010	näme üçin		Şägirtleri Ondan : « Onda näme üçin Töwrat mugallymlary öňürti Ylýas gelmelidir diýýärler ? » diýip soradylar .
+40017017a	haçana çenli		Isa : « Eý , ýoldan çykan , imansyz nesil ! Men haçana çenli siziň bilen bile bolup , 
+40017017b	~		size çydaýyn ? Oglany şu ýere , Meniň ýanyma getiriň » diýdi .
+40017019	näme üçin		Onsoň şägirtler Isanyň ýanyna gelip , özli-özlerikä Ondan : « Biz näme üçin ony çykaryp bilmedik ? » diýip soradylar .
+40017025a	näme		Petrus : « Töleýär » diýdi . Petrus öýe gelende , Isa ondan öňürdip : « Simun , sen näme diýýärsiň ? 
+40017025b	kimden		Ýer ýüzündäki patyşalar gümrükdir salgydy kimden alýarlar ? Öz ogullaryndanmy ýa kesekilerden ? » diýip sorady .
+40018001	kim		Şol wagt şägirtler Isanyň ýanyna gelip : « Gögüň Şalygynda iň beýik kim ? » diýip soradylar .
+40018012	nähili		Siz nähili pikir edýärsiňiz ? Bir adamyň ýüz goýny bolup , olaryň biri azaşsa , ol togsan dokuzyny daglarda goýup , azaşanyň gözlegine çykmazmy ?
+40018021	näçe		Soňra Petrus Isanyň ýanyna gelip , Ondan : « Agam , doganym maňa garşy günä etse , ony näçe gezek bagyşlaýyn ? Ýedi gezekmi ? » diýip sorady .
+40019007	näme üçin		Fariseýler Isadan : « Onda näme üçin Musa talak hatyny ýazyp , aýrylyşmaga ygtyýar beripdir ? » diýip soradylar .
+40019016	näme		Şol mahal bir adam Isanyň ýanyna gelip : « Eý , Mugallym , baky ýaşaýşa eýe bolar ýaly , men näme ýagşy iş etmeli ? » diýip sorady .
+40019017	Näme üçin		Isa : « Näme üçin Menden ýagşylyk hakynda soraýarsyň ? Ýeke-täk Hudaýdan başga hiç kim ýagşy däldir . Baky ýaşaýşa gowuşmak isleýän bolsaň , Hudaýyň tabşyryklaryny berjaý et » diýdi .
+40019018	Haýsy		Ol Isadan : « Haýsy tabşyryklaryny ? » diýip sorady . Isa : « Adam öldürme , zyna etme , ogurlyk etme , ýalan şaýatlyk etme , ata-eneňe hormat goý , ýakynyňy özüňi söýşüň ýaly söý » diýip jogap berdi .
+40019020	näme		Ýaş ýigit Isadan : « Men bularyň hemmesini ýaşlygymdan bäri berjaý edip gelýärin-ä , men ýene näme etmeli ? » diýip sorady .
+40019025	kim		Muny eşidenlerinde , şägirtleri çakdanaşa haýran galyp : « Onda kim halas bolup biler ? » diýip soradylar .
+40019027	näme		Onsoň Petrus Oňa : « Ine , biz ähli zadymyzy taşlap , Seniň yzyňa düşdük ! Munuň üçin biz näme alarys ? » diýdi .
+40020006	Näme üçin		Öýlän sagat bäşlerde aýlanmaga çykan wagty , başga boş duranlary görüp , olardan : « Näme üçin günuzyn bu ýerde boş dursuňyz ? » diýip soraýar .
+40020012	~		« Bu iň soňky gelenler diňe bir sagat işlediler , biz bolsa , jöwzaly yssyda günuzyn agyr zähmet çekdik . Muňa garamazdan sen biziň zähmetimizi olaryňky bilen deň etdiň » diýýärler .
+40020021	Näme		Isa aýaldan : « Näme isleýärsiň ? » diýip sorady . Aýal Isa ýüzlenip : « Öz Şalygyňda meniň bir oglumyň Seniň sagyňda , beýlekisiniň bolsa çepiňde oturmagyny emr et » diýdi .
+40020032	näme		Isa aýak çekdi-de , olary çagyryp : « Siziň üçin näme etmegimi isleýärsiňiz ? » diýip sorady .
+40021010	kim		Isa Iýerusalime girende , tutuş şäher : « Bu kim ? » diýip , galagopluga düşdi .
+40021016	näme		Olar Isadan : « Bularyň näme diýýänini eşidýärsiňmi ? » diýip soradylar . Isa olara : « Hawa , eýsem siz : „ Çagalaryň , bäbekleriň dilinde alkyş senasyny ýaratdyň “ diýen sözleri asla okamadyňyzmy ? » diýdi .
+40021020	nädip		Şägirtler muny görüp : « Injir agajy şol pursadyň özünde nädip gurady ? » diýşip haýran galdylar .
+40021023a	haýsy		Isa ybadathananyň howlusyna gelip , sapak berip otyrka , ýolbaşçy ruhanylar , halkyň ýaşululary Onuň ýanyna gelip : « Sen bu zatlary haýsy ygtyýar bilen edýärsiň ? 
+40021023b	kim		Saňa bu ygtyýary kim berdi ? » diýip soradylar .
+40021025a	nireden		Ýahýa suwa çümdürmäge ygtyýary nireden aldy ? Gökdenmi ýa-da ynsandan ? » diýip sorady . Olar muny özara maslahatlaşmaga başladylar : 
+40021025b	~		« Eger Gökden diýsek , Ol bize : 
+40021025c	näme üçin		„ Onda näme üçin oňa ynanmadyňyz ? “ diýer .
+40021028	näme		Isa söze başlady : « Siz muňa näme diýersiňiz ? Bir adamyň iki ogly bar eken . Ol birinji oglunyň ýanyna baryp : „ Oglum , bu gün git-de , üzümçilikde işle “ diýýär .
+40021031	haýsysy		Bularyň ikisinden haýsysy kakasynyň islegini ýerine ýetirdi ? » Olar : « Birinjisi » diýip jogap berdiler . Isa olara : « Size dogrusyny aýdýaryn , salgytçylar we lolular Hudaýyň Şalygyna sizden öň girerler .
+40021040	näme		Indi üzümçiligiň eýesi gelip , bu kärendeçilere näme eder ? »
+40022012	nädip		Oňa : „ Eý , dost , sen toý geýimini geýmän , bu ýere nädip girip bildiň ? “ diýip soraýar . Şonda ol adamyň dili tutulýar .
+40022017	~		Hany , bize aýt , Seniň pikiriňçe , imperatora salgyt tölemek dogrumy ýa dogry däl ? » diýip soradylar .
+40022018	näme üçin		Isa olaryň niýetleriniň ýamandygyny bilip : « Meni näme üçin synaýarsyňyz , eý , ikiýüzlüler ?
+40022020a	kimiňki		Isa olara : « Şu surat bilen ýazgy kimiňki ? » diýip sorady .
+40022020b	~		
+40022028	haýsysynyň		Indi direliş güni bu aýal olaryň haýsysynyň aýaly bolar ? Olaryň ýedisi hem oňa öýlenipdi ahyryn » .
+40022036	näme		« Mugallym , Töwratda iň uly tabşyryk näme ? » diýip sorady .
+40022042a	näme		« Mesih barada näme pikir edýärsiňiz ? 
+40022042b	kimiň		Ol kimiň ogly ? » diýip sorady . Olar hem Isa : « Ol Dawudyň ogly » diýip jogap berdiler .
+40022043	näme üçin		Isa olara şeýle diýdi : « Onda näme üçin Dawudyň özi Mukaddes Ruhdan ylham alyp , Mesihe Reb diýýär ? Ol şeýle diýipdir :
+40022045	nähili		Eger Dawut Mesihe Reb diýýän bolsa , Ol nähili Dawudyň ogly bolýar ? »
+40023017	Haýsysy		Eý , nadan körler ! Haýsysy uly : altynmy ýa-da altyny mukaddes edýän ybadathana ?
+40023019	Haýsysy		Eý , körler ! Haýsysy uly : sadakamy ýa-da sadakany mukaddes edýän gurbanlyk sypasy ?
+40023033	nähili		Eý , ýylanlar ! Eý , alahöwrenler nesli ! Siz dowzahyň jezasyndan nähili gaçjaksyňyz ?
+40024003a	haçan		Soňrak Isa ýeke Özi Zeýtun dagynda otyrka , şägirtleri Onuň ýanyna gelip : « Bize aýtsana , bu zatlar haçan bolar ? 
+40024003b	nähili		Seniň gelmegiňi we dünýäniň ahyryny görkezýän alamat nähili bolar ? » diýip soradylar .
+40024045	kim		Hojaýynyň sadyk hem akylly hyzmatkäri kim ? Beýleki hyzmatkärlerine wagtly-wagtynda nahar bermek üçin , olaryň üstünden goýan adamy dälmi ?
+40025037	haçan		Şonda dogry adamlar Oňa jogap berip diýerler : „ Ýa Reb , biz Seni haçan aç görüp , nan berdik ? Haçan teşne görüp , suw berdik ?
+40025038	Haçan		Haçan Seni keseki görüp , myhman aldyk ýa ýalaňaç görüp , don berdik ?
+40025039	Haçan		Haçan Seni hassa ýa-da zyndanda görüp , ýanyňa geldik ? “ .
+40025044	haçan		Şonda olar : „ Ýa Reb , biz Seni haçan aç , teşne , keseki , ýalaňaç , hassa ýa-da tussaglykda görüp-de , Saňa hyzmat etmedik ? “ diýip sorarlar .
+40026008	Näme üçin		Şägirtler muny görenlerinde , gaharlanyp : « Näme üçin bu ýag beýle isrip edildi ?
+40026010	Näme üçin		Isa muny bilip , olara şeýle diýdi : « Näme üçin aýaly ynjadýarsyňyz ? Ol Meniň üçin ajaýyp iş etdi .
+40026015	näme		Ýudas olardan : « Eger men Isany siziň eliňize tabşyrsam , maňa näme berersiňiz ? » diýip sorady . Olar hem Ýudas otuz teňňe kümüş çekip berdiler .
+40026017	nirede		Petir baýramynyň ilkinji güni şägirtler Isanyň ýanyna gelip : « Seniň üçin Pesah naharyny nirede taýýarlamagymyzy isleýärsiň ? » diýip soradylar .
+40026040	~		Isa gaýdyp gelende , şägirtleri uklap ýatan ekenler . Isa Petrusa : « Meniň bilen bile bir sagat-da oýa bolup bilmediňizmi ?
+40026050	näme		Isa hem oňa : « Dostum , hany , näme etjek bolsaň et » diýdi . Edil şol wagt adamlar Isany tutup , ele saldylar .
+40026054	nähili		Emma beýtsem , Mukaddes Ýazgylar nähili berjaý bolar ? Bularyň ählisiniň amala aşmagy gerek ahyry ! »
+40026062a	~		Baş ruhany ornundan turup : « Sen asla jogap berjek dälmi ? 
+40026062b	näme		Bu adamlaryň Seniň garşyňa berýän şaýatlygy näme ? » diýdi .
+40026065	nämä		Şonda baş ruhany ýakasyny ýyrtyp : « Ol Hudaýa dil ýetirdi , bize başga şaýatlyk nämä gerek ? Onuň Hudaýa dil ýetirenini özüňiz eşitdiňiz ahyryn .
+40026066	Näme		Näme karara gelýärsiňiz ? » diýdi . Olar : « Ol ölüme mynasyp ! » diýip jogap berdiler .
+40026068	kim		« Eý , Mesih , bize welilik et , Seni uran kim ? » diýip , Ony şapbatladylar . Petrus Isany inkär edýär .
+40027004	näme		« Men bigünä kişä haýynlyk edip , günä gazandym » diýdi . Olar-da : « Bize näme , muňa özüň jogap berýäň » diýdiler .
+40027013	~		Onsoň Pilat Ondan : « Seniň garşyňa berilýän munça şaýatlyklary eşitmeýärsiňmi ? » diýip sorady .
+40027017	kimi		Şeýlelikde , halk ýygnanyşanda Pilat olardan : « Siziň üçin kimi boşatmagymy isleýärsiňiz ? Ýeşuwa Barabbasymy ýa-da Mesih diýilýän Isany ? » diýip sorady .
+40027021	haýsyny		Häkim olara ýüzlenip : « Siz bu ikisinden meniň haýsyny boşatmagymy isleýärsiňiz ? » diýip sorady . Olar hem : « Barabbasy » diýip jogap berdiler .
+40027022	näme		Pilat olara : « Onda men Mesih diýilýän Isany näme edeýin ? » diýip sorady . Olaryň hemmesi biragyzdan : « Ol haça çüýlensin ! » diýdiler .
+40027023a	näme üçin		Pilat : « Näme üçin ? 
+40027023b	näme		Ol näme ýamanlyk etdi ? » diýip sorady . Emma olar : « Ony haça çüýle ! » diýip , has beter gygyryşdylar .
+40027046	Näme üçin		Öýlän sagat üç töweregi Isa gaty ses bilen gygyryp : « Elohi , Elohi ! Lema sabaktani ? » ýagny : « Hudaýym , Hudaýym ! Näme üçin Meni terk etdiň ? » diýdi .
+41001024	näme		« Eý , nasyraly Isa ! Biziň bilen näme işiň bar ? Bizi ýok etmäge geldiňmi ? Men Seniň kimdigiňi bilýärin , Sen Hudaýyň Mukaddesisiň » diýip gygyrdy .
+41001027	näme		Hemmeler haýran galyp , biri-birlerine : « Bu näme boldugy ? Bu bir täze taglymat ! Ol arwah-jynlara erk-ygtyýar bilen buýruk berýär , olar-da Oňa tabyn bolýarlar ! » diýişdiler .
+41002007a	näme üçin		Ol ýerde oturan Töwrat mugallymlaryň käbiri içinden : « Bu adam näme üçin beýle gepleýär ? Ol Hudaýa dil ýetirýär !
+41002007b	kim		Günäleri ýeke-täk Hudaýdan başga kim ötüp biler ? » diýip oýlandy .
+41002008	Näme üçin		Isa dessine olaryň näme pikir edýändigini ruhunda syzyp : « Näme üçin göwnüňize beýle pikirler getirýärsiňiz ?
+41002009	haýsyny		Ysmaza haýsyny aýtmak aňsat : „ Günäleriň ötüldi “ diýmekmi ýa-da : „ Tur , düşegiňi al-da , ýöre “ diýmek ?
+41002016	Näme üçin		Fariseýler bolan Töwrat mugallymlary Isanyň günäkärler hem salgytçylar bilen nahar iýip oturanyny görenlerinde , Onuň şägirtlerinden : « Näme üçin Ol salgytçylardyr günäkärler bilen bile nahar iýýär ? » diýip soradylar .
+41002018	Näme üçin		Ýahýanyň şägirtleri we fariseýler agyz bekleýärdiler . Käbir adamlar gelip , Isadan : « Näme üçin Ýahýanyň we fariseýleriň şägirtleri agyz bekelýärler-de , seniň şägirtleriň bolsa agyz beklänok ? » diýip sorady .
+41002019	~		Isa olara : « Giýew ýanlaryndaka , heý-de , toýuň myhmanlary agyz beklärmi ? ! Ýok , giýew aralaryndaka , olar agyz bekläp bilmezler ahyryn .
+41002024	näme üçin		Fariseýler Isa : « Seret , näme üçin olar Sabat güni gadagan işi edýärler ? » diýdiler .
+41003004	~		Onsoň olardan : « Kanun boýunça Sabat güni ýagşylyk etmek dogrumy ýa-da ýamanlyk ? Biriniň janyny halas etmek dogrumy ýa-da öldürmek ? » diýip sorady . Olardan ses çykmady .
+41003023	nädip		Şonuň üçin Isa halky ýanyna çagyryp , tymsallar arkaly söze başlady : « Şeýtan öz-özüni nädip kowup çykarsyn ?
+41003033a	kim		Isa olara jogap berip : « Meniň ejem , doganlarym kim ? » diýdi .
+41003033b	~		
+41004013	nähili		Isa olara şeýle diýdi : « Siz bu tymsala düşünmeýärsiňizmi ? Onda başga tymsallara nähili düşünjeksiňiz ?
+41004030a	nämä		Isa olara ýene-de : « Hudaýyň Şalygyny nämä meňzedeli ? 
+41004030b	haýsy		Ony haýsy tymsal bilen düşündireli ?
+41004038	~		Isa bolsa gaýygyň yzky tarapynda bir ýassygy ýassanyp , uklap ýatyrdy . Şägirtler Ony oýaryp : « Mugallym , biz heläk bolýas ! Bu Seniň perwaýyňa-da dälmi ? » diýdiler .
+41004040a	näme üçin		Isa şägirtlerine : « Näme üçin gorkýarsyňyz ? Eýsem heniz-de iman edeňzokmy ? 
+41004040b	~		Eýsem imanyňyz şeýle gowşakmy ? » diýdi .
+41004041	kimkä		Olar gaty gorkuşyp , biri-birlerine : « Bu kimkä ? Onuň sözüne hatda ýelem , kölem gulak asýar ! » diýişdiler .
+41005007	näme		Batly ses bilen gygyryp : « Eý , Isa ! Eý , Beýik Hudaýyň Ogly , meniň bilen näme işiň bar ? Ýalbarýan , Hudaýyň haky üçin meni gynama ! » diýdi .
+41005009	näme		Onsoň Isa arwah-jyndan : « Adyň näme ? » diýip sorady . Ol hem : « Adym Goşun , çünki biz köplükdiris » diýip jogap berdi .
+41005030	kim		Isa Özünden bir güýjüň çykandygyny şobada duýup , köpçülige tarap öwrülip : « Donuma kim elini degirdi ? » diýip sorady .
+41005031	kim		Şägirtleri Oňa : « Sen Özüňi gysyp-gowrup gelýän mähelläni görýärsiň-ä ! Onsoň nädip : „ Maňa kim elini degirdi ? “ diýip soraýarsyň ? » diýdiler .
+41005035	Näme üçin		Ol bu sözleri aýdyp durka , sinagoga baştutanynyň öýünden birnäçe adam gelip : « Gyzyň öldi . Näme üçin Mugallymy artykmaç biynjalyk edýärsiň ? » diýdi .
+41005039a	näme üçin		Içeri girip , olara : « Näme üçin dady-perýat edip , 
+41005039b	~		aglaşyp otyrsyňyz ? Çaga ölenok , ol diňe uklap ýatyr » diýdi .
+41006002a	nireden		Sabat güni Isa sinagogada halka öwretmäge başlady . Onuň aýdýan zatlaryny eşiden köp adamlar haýran galyp : « Bu Adam munça zady nireden öwrendikä ? 
+41006002b	kim		Oňa beýle danalygy kim berdikä ? 
+41006002c	nädip		Ol nädip beýle mugjyzalary görkezmegi başarýarka ?
+41006022	~		Hirodiýanyň gyzy içeri girip , tans edip , Hirodyň we onuň myhmanlarynyň göwnüni çaglady . Patyşa gyza : « Islän zadyňy dile , saňa bereýin » diýdi .
+41006024	Näme		Gyz hem daşary çykyp ejesinden : « Näme diläýin ? » diýip sorady . Ol hem : « Ýahýa çümdürijiniň başyny » diýip jogap berdi .
+41006037	~		Emma Isa : « Olara iýmäge zady siz beriň » diýdi . Olar : « Eýsem biz iki ýüz kümüş teňňäni çörege sarp edip , olara iýdirelimi ? » diýdiler .
+41006038	näçe		Isa olardan : « Baryň , görüň , näçe çöregiňiz bar ? » diýip sorady . Görenlerinden soň olar : « Bäş çörek bilen iki balygymyz bar » diýdiler .
+41007005	Näme üçin		Şonuň üçin fariseýler bilen Töwrat mugallymlary Isadan : « Näme üçin Seniň şägirtleriň ata-babalarymyzdan galan adata eýermeýärler ? Näme üçin ellerini ýuwman nahar iýýärler ? » diýip soradylar .
+41008004	nireden		Şägirtleri Ondan : « Bu çöllükde olary doýrar ýaly çöregi nireden tapyp bolarka ? » diýip soradylar .
+41008005	Näçe		Isa : « Näçe çöregiňiz bar ? » diýip , olaryň özlerinden sorady . Olar : « Ýedi sany » diýip jogap berdiler .
+41008012	Näme üçin		Ol hem ah çekip : « Näme üçin bu nesil alamat talap edýär ? Size dogrusyny aýdýaryn , bu nesle hiç bir alamat görkeziljek däldir » diýdi .
+41008017	Näme üçin		Isa olaryň näme diýişýändiklerini bilip , olardan : « Näme üçin çöregimiz ýok diýşip çekeleşýärsiňiz ? Siziň entegem akylyňyz ýetenokmy , düşünmeýärsiňizmi ? Ýüregiňiz şeýle gatymy ?
+41008018a	~		Gözli bolup , görmeýärsiňizmi ? 
+41008018b	~		Gulakly bolup , eşitmeýärsiňizmi ? Bolup geçen zatlar ýadyňyza düşmeýärmi ?
+41008019	näçe		Men bäş çöregi bäş müň adama bölüp paýlanymda , galan döwümlerden näçe sebet doldurypdyňyz ? » diýip sorady . Olar : « On iki » diýip jogap berdiler .
+41008020	näçe		Isa ýene : « Ýedi çöregi dört müň adama bölüp paýlanymda , artyp galany näçe sebet bolupdy ? » diýip sorady . Olar : « Ýedi » diýdiler .
+41008021	~		Şonda Isa olara : « Entek hem düşünmeýärsiňizmi ? » diýdi .
+41008023	~		Isa kör adamyň elinden tutup , ony obanyň daşyna çykardy . Isa onuň gözlerine tüýkürip , ellerini onuň başyna goýup : « Bir zat görýärsiňmi ? » diýip sorady .
+41008027	kim		Isa şägirtleri bilen Kaýsariýa-Filip şäheriniň golaýyndaky obalara gitdi . Ýolda Isa şägirtlerinden : « Adamlar Maňa kim diýýärler ? » diýip sorady .
+41008029a	~		
+41008029b	kim		Isa olardan : « Siz Maňa kim diýýärsiňiz ? » diýip sorady . Petrus : « Sen Mesihsiň » diýip jogap berdi .
+41008036	näme		Ynsan tutuş dünýäni gazanybam , janyndan mahrum bolsa , oňa näme peýdasy bar ?
+41008037	näme		Ynsan öz janyna derek näme berip biler ?
+41009010	näme		Şägirtler Onuň bu sözüni ýüreklerinde saklap , ölümden direlmegiň näme aňladýandygy barada biri-birlerinden soraýardylar .
+41009011	Näme üçin		Olar Isadan : « Näme üçin Töwrat mugallymlary öňürti Ylýas gelmelidir diýýärler ? » diýip soradylar .
+41009012	~		Isa hem olara : « Dogrudan-da , öňürti Ylýas gelip , ähli zady düzetmeli . Emma Ynsan Oglunyň köp görgi görüp , ret edilmelidigi hakynda hem ýazylan ahyryn .
+41009016	näme		Isa adamlardan : « Bular bilen näme hakda jedelleşýärsiňiz ? » diýip sorady .
+41009019a	haçana çenli		Isa olara : « Eý , imansyz nesil , Men haçana çenli siziň bilen bolaýyn ? 
+41009019b	haçana çenli		Haçana çenli size çydaýyn ? Oglany Meniň ýanyma getiriň » diýdi .
+41009021	näçe wagt		Isa oglanyň kakasyndan : « Munuň beýle bolanyna näçe wagt boldy ? » diýip sorady . Kakasy : « Çagalygyndan bäri şeýle .
+41009028	näme üçin		Isa öýe girenden soň , şägirtleri özli-özlerikä Ondan : « Biz näme üçin arwah-jyny çykaryp bilmedik ? » diýip soradylar .
+41009033	näme		Olar Kapernauma bardylar . Öýe girenden soň , Isa olardan : « Ýolda näme hakda jedelleşýärdiňiz ? » diýip sorady .
+41009050	nädip		Duz gowy zatdyr , emma ol öz tagamyny ýitirse , onda oňa nädip tagam berersiňiz ? Duz ýaly tagamly boluň , özara parahatlykda ýaşaň » .
+41010003	nähili		« Musa size nähili buýruk berdi ? » diýip , Isa olaryň özlerinden sorady .
+41010017	näme		Isa ýaňy ýola düşen mahaly bir adam ylgap geldi-de , öňünde dyza çöküp , Ondan : « Eý , ýagşy Mugallym ! Men baky ýaşaýşy miras almak üçin näme etmeli ? » diýip sorady .
+41010018	Näme üçin		Isa oňa : « Näme üçin Maňa ýagşy diýýärsiň ? Ýeke-täk Hudaýdan başga hiç kim ýagşy däldir .
+41010026	kim		Şägirtler çakdanaşa haýran galyp , biri-birlerine : « Onda kim halas bolup biler ? » diýişdiler .
+41010036	näme		Isa olardan : « Siziň üçin näme etmegimi isleýärsiňiz ? » diýip sorady .
+41010051	näme		Isa ondan : « Seniň üçin näme etmegimi isleýärsiň ? » diýip sorady . Kör adam : « Halypa , gözlerim açylsyn ! » diýdi .
+41011003	Näme üçin		Eger biri sizden : „ Näme üçin ony çözýärsiňiz ? “ diýip sorasa , oňa : „ Bu taýhar Rebbe gerek , ony basym yzyna iberer “ diýip aýdyň » diýdi .
+41011005	Näme üçin		Ol ýerde duran birnäçe kişi olara : « Näme üçin taýhary çözýärsiňiz ? » diýip soradylar .
+41011028a	haýsy		« Sen bu zatlary haýsy ygtyýar bilen edýärsiň ? 
+41011028b	kim		Bu işleri etmäge Saňa kim ygtyýar berdi ? » diýip soradylar .
+41011030	nireden		Hany , Maňa aýdyň , Ýahýa çümdüriş ygtyýaryny nireden aldy ? Gökdenmi ýa-da ynsandan ? » diýdi .
+41011031a	~		Olar muny özara maslahatlaşmaga başladylar : 
+41011031b	näme üçin		« Eger Gökden diýsek , Ol bize : „ Onda näme üçin oňa ynanmadyňyz ? “ diýer .
+41012009	näme		Indi üzümçiligiň eýesi näme eder ? Ol gelip , bu kärendeçileri öldürer-de , üzümçiligi başgalara berer .
+41012015	näme üçin		Isa olaryň ikiýüzlüdigini bilip : « Meni näme üçin synaýarsyňyz ? Maňa kümüş teňňäni beriň , göreýin » diýdi .
+41012016a	kimiňki		Olar bir teňňe getirdiler . Isa olardan : « Bu teňňedäki şekil bilen ýazgy kimiňki ? » diýip sorady . Olar : « Imperatoryňky » diýip jogap berdiler .
+41012016b	~		
+41012023	haýsysynyň		Indi direliş güni bu aýal olaryň haýsysynyň aýaly bolar ? Olaryň ýedisi hem oňa öýlenipdi ahyryn » .
+41012028	Haýsy		Golaýa gelip , olaryň çekişmelerini eşiden Töwrat mugallymlardan biri Isanyň olara jaýdar jogap berenini görüp , Ondan : « Haýsy tabşyryk iň wajyp tabşyryk ? » diýip sorady .
+41012035	nädip		Isa ybadathanada halka öwredip otyrka , olara şeýle diýdi : « Töwrat mugallymlary Mesihe nädip Dawudyň ogly diýýärler ?
+41012037	nähili		Dawudyň özi Mesihe Reb diýýän bolsa , Ol nähili Dawudyň ogly bolýar ? » Uly mähelle Ony hezil edip diňleýärdi . Isa ikiýüzli Töwrat mugallymlary ýazgarýar .
+41013004a	haçan		« Bize aýtsana , bu zatlar haçan bolar ? 
+41013004b	nähili		Bu zatlaryň amala aşýandygyny görkezýän nähili alamat bolar ? » diýip soradylar .
+41014004	Näme üçin		Käbirleri gaharlanyp , biri-birlerine : « Näme üçin bu ýag isrip edildi ?
+41014006	Näme üçin		Emma Isa olara : « Naçary öz gününe goýuň ! Näme üçin ony ynjadýarsyňyz ? Ol Meniň üçin ajaýyp iş etdi .
+41014012	nirede		Pesah janlysynyň soýulýan güni , ýagny Petir baýramynyň ilkinji güni şägirtleri Isadan : « Seniň üçin Pesah naharyny nirede taýýarlamagymyzy isleýärsiň ? » diýip soradylar .
+41014014	nirede		Ol nirä baryp girse , şol öýüň eýesine : „ Mugallym senden şägirtlerim bilen Pesah naharyny iýer ýaly , Meniň myhman otagym nirede diýip soraýar “ diýiň .
+41014060a	~		Soňra baş ruhany mejlisiň ortasynda ýerinden turup , Isadan : « Sende hiç hili jogap ýokmy ? 
+41014060b	näme		Bu adamlaryň Saňa garşy berýän şaýatlygyna näme diýersiň ? » diýip sorady .
+41014063	nämä		Baş ruhany şonda ýakasyny ýyrtyp : « Bize başga şaýatlyk nämä gerek ?
+41014064	Näme		Onuň Hudaýa dil ýetirenini özüňiz eşitdiňiz ahyryn . Näme karara gelýärsiňiz ? » diýip sorady . Olaryň bary Isany ölüm jezasyna laýyk diýip höküm çykardylar .
+41015004	~		Pilat ýene-de Oňa : « Sen hiç hili jogap berjek dälmi ? Gör , näçe zatlarda Seni aýyplaýarlar ! » diýdi .
+41015012	näme		Pilat ýene olardan : « Onda men siziň ýahudylaryň patyşasy diýýän adamyňyzy näme edeýin ? » diýip sorady .
+41015014a	näme üçin		Pilat olardan : « Näme üçin ? 
+41015014b	näme		Ol näme ýamanlyk etdi ? » diýip sorady . Emma olar : « Ony haça çüýle ! » diýip , has beter gygyryşdylar .
+41015034	Näme üçin		Öýlän sagat üçde Isa gaty ses bilen gygyryp : « Elohi , Elohi ! Lema sabaktani ? » , ýagny : « Hudaýym , Hudaýym ! Näme üçin Meni terk etdiň ? » diýdi .
+41016003	kim		Olar biri-birlerine : « Mazaryň agzyndan daşy bize kim aýryp bererkä ? » diýişýärdiler .
+42001018	nähili		Zekarýa perişdä : « Men muny nähili bileýin ? Men bir garry adam , aýalym-da garrylyk ýaşyna ýeten » diýdi .
+42001034	nähili		Merýem perişdä : « Bu nähili bolar ? Men heniz durmuşa çykamok ahyry » diýdi .
+42001043	nädip		Rebbimiň enesi meniň ýanyma geler ýaly , men nädip beýle ýalkandymkam ?
+42001066	kim		Muny eşidenleriň bary bu zatlar hakda oý-pikire batyp : « Bu çaga kim bolarka ? » diýişýärdi . Çünki Rebbiň güýji onuň bilendi .
+42002048	Näme üçin		Ene-atasy Ony görenlerinde geň galdylar . Ejesi Oňa : « Oglum ! Näme üçin beýtdiň ? Kakaň ikimiz gaty gaýgy edip , Seni gözledik » diýdi .
+42002049	näme üçin		Isa olara : « Meni näme üçin gözlediňiz ? Siz Meniň Atamyň öýünde bolmalydygymy bilmeýärdiňizmi ? » diýdi .
+42003007	~		Bir uly mähelle suwa çümdürilmek üçin , Ýahýanyň ýanyna geldi . Ýahýa olara şeýle ýüzlendi : « Eý , alahöwrenler nesli ! Geljek gazapdan gaçyp gutulyp bileris öýdýäňizmi ?
+42003010	näme		Halk ondan : « Eýsem , biz näme etmeli ? » diýip sorady .
+42003012	näme		Salgytçylar-da çümdürilmek üçin onuň ýanyna gelip : « Mugallym , biz näme etmeli ? » diýip soradylar .
+42003014a	~		Onsoň esgerler-de : 
+42003014b	näme		« Biz näme etmeli ? » diýip soradylar . Olara : « Hiç kimden zorluk bilen pul almaň , nähak ýere töhmet atmaň , öz hakyňyza kaýyl boluň » diýdi .
+42004034	näme		« Eý , nasyraly Isa ! Biziň bilen näme işiň bar ? Bizi ýok etmäge geldiňmi ? Men Seniň kimdigiňi bilýärin , Sen Hudaýyň Mukaddesisiň » diýip gygyrdy .
+42004036	nähili		Hemmeler haýran galyp , biri-birlerine : « Bu nähili söz ? Ol ygtyýar hem gudrat bilen arwah-jynlara buýruk berýär . Olar hem çykýarlar » diýişdiler .
+42005021a	kim		Töwrat mugallymlary bilen fariseýler : « Hudaýa dil ýetirýän bu adam kim ? 
+42005021b	kim		Günäleri ýeke-täk Hudaýdan başga kim ötüp biler ? » diýip , içini gepletmäge başladylar .
+42005022	Näme üçin		Emma Isa olaryň näme pikir edýändiklerini bilip , olara : « Näme üçin hyýalyňyzda beýle pikirler edýärsiňiz ?
+42005023	Haýsyny		Haýsyny aýtmak aňsat : „ Günäleriň ötüldi “ diýmekmi ýa-da : „ Tur-da , ýöre “ diýmek ?
+42005030	Näme üçin		Fariseýler bilen Töwrat mugallymlary Onuň şägirtlerine : « Näme üçin salgytçylardyr günäkärler bilen bile iýip-içýärsiňiz ? » diýip hüňürdeşdiler .
+42005033	~		Olar Isa : « Ýahýanyň şägirtleri ýygy-ýygydan agyz bekläp , doga-dileg edýärler , fariseýleriň şägirtleri hem şeýle , emma Seniň şägirtleriň iýip-içip ýörler » diýdiler .
+42005034	~		Isa : « Toýda giýew dostlarynyň ýanyndaka , siz onuň myhmanlaryna agyz bekledip bilersiňizmi ?
+42006002	Näme üçin		Fariseýleriň käbiri olardan : « Näme üçin Sabat güni gadagan işi edýärsiňiz ? » diýip sorady .
+42006009	~		Onsoň Isa olardan : « Size bir sowalym bar : „ Kanun boýunça Sabat güni ýagşylyk etmek dogrumy ýa-da ýamanlyk ? Biriniň janyny halas etmek dogrumy ýa-da heläk etmek ? “ » diýip sorady .
+42006032	näme		Siz özüňizi söýýänleri söýýän bolsaňyz , munuň bilen näme hormat gazanýarsyňyz ? Günäkärlär-de özlerini söýýänleri söýýärler ahyryn .
+42006033	näme		Siz özüňize ýagşylyk edýänlere ýagşylyk edýän bolsaňyz , munuň bilen näme hormat gazanýarsyňyz ? Günäkärler-de şeýle edýändirler .
+42006034	näme		Yzyna almak tamasy bilen karz berýän bolsaňyz , munuň bilen näme hormata mynasypsyňyz ? Günäkärler-de doly yzyna almak niýeti bilen günäkärlere karz berýändirler .
+42006039	~		Isa olara bir tymsal hem aýdyp berdi : « Kör köri idip bilermi ? Ikisi hem çukura gaçmazmy ? !
+42006041	Näme üçin		Näme üçin sen doganyňyň gözündäki çöpi görýärsiň-de , öz gözüňdäki agajy saýgarmaýarsyň ?
+42006042	Nädip		Nädip sen öz gözüňdäki agajy görmän , doganyňa : „ Dogan ! Gel , gözüňdäki çöpi çykaraýyn “ diýjek ? Eý , ikiýüzli , ilki öz gözüňdäki agajy çykar , şonda doganyňyň gözündäki çöpi çykarmak üçin oňat saýgararsyň » . Agaç we onuň miwesi .
+42006046	Näme üçin		Näme üçin Maňa : „ Ýa Reb ! Ýa Reb ! “ diýip-de , aýdanlarymy etmeýärsiňiz ?
+42007024	näme		Ýahýanyň ilçileri gidenden soň , Isa mähellä Ýahýa barada gürrüň bermäge başlady : « Çöle näme görmäge gitdiňiz ? Şemala yranýan ýylgynymy ?
+42007025	näme		Ýeri , näme görmäge gitdiňiz ? Nepis eşikler geýen adamymy ? Emma gymmatbahaly lybaslara beslenip , şady-horramlykda ýaşaýanlar şa köşklerindedir .
+42007026	näme		Ýeri , siz näme görmäge gitdiňiz ? Bir pygamberimi ? Hawa , Men size şuny aýdýaryn , ol gören kişiňiz hatda pygamberden hem artykdyr .
+42007031a	kime		Isa sözüni dowam etdirdi : « Men bu nesli kime meňzedeýin ? 
+42007031b	kime		Olar kime meňzeýär ?
+42007042	haýsysy		Bergisini bermäge hiç pullarynyň ýokdugy üçin , ol bularyň ikisiniň hem bergisini geçipdir . Munuň üçin olaryň haýsysy ony has köp söýer ? »
+42007049	kimkä		Isa bilen bir saçakda oturanlar öz aralarynda : « Günäleri-de bagyşlaýan bu kimkä ? » diýişmäge başladylar .
+42008025a	hany		Isa şägirtlerine : « Siziň imanyňyz hany ? » diýip sorady . Olar bolsa gorkuşyp hem geň galyp , biri-birlerinden : 
+42008025b	kimkä		« Bu Adam kimkä ? Ol ýele hem suwa buýruk berýär , olar-da Oňa gulak asýar ! » diýişdiler . Isa arwah-jyn eýelän adamy sagaldýar .
+42008028	näme		Ol Isany görende , gygyryp goýberdi . Onuň öňünde ýere ýüzin ýykylyp , batly ses bilen : « Eý , Isa , Beýik Hudaýyň Ogly ! Meniň bilen näme işiň bar ? Ýalbarýan , meni gynama » diýdi .
+42008030	näme		Isa ondan : « Adyň näme ? » diýip sorady . Ol hem : « Adym Goşun » diýip jogap berdi , sebäbi oňa san-sajaksyz arwah-jyn giripdi .
+42008045	kim		Isa : « Maňa kim elini degirdi ? » diýip sorady . Hiç kim boýun almady . Şonda Petrus : « Halypa ! Halk daşyňy alyp , Seni gysyp-gowrup barýar , Sen bolsa : „ Maňa kim elini degirdi ? “ diýýärsiň » diýdi .
+42009009a	kimkä		Hirod bolsa : « Men Ýahýanyň başyny çapdyrdym , onda bu adam kimkä ? Ol hakda üýtgeşik habarlar eşidýän » diýdi . Ol Isany görmäge jan etdi . Isa bäş müň adamy doýurýar .
+42009009b	~		
+42009018	kim		Bir gün Isa ýekelikde Hudaýa doga okaýardy , şägirtleri hem Onuň ýanyndady . Isa olardan : « Halk Maňa kim diýýär ? » diýip sorady .
+42009020a	~		
+42009020b	kim		Isa olardan : « Siz Maňa kim diýýärsiňiz ? » diýip sorady . Petrus : « Sen Hudaýyň Mesihisiň » diýip jogap berdi .
+42009025	näme		Ynsan tutuş dünýäni gazanybam , janyndan mahrum bolsa , oňa näme peýdasy bar ?
+42009041a	haçana çenli		Isa : « Eý , ýoldan çykan , imansyz nesil ! Men haçana çenli siziň bilen bolup , 
+42009041b	~		size çydaýyn ? Ogluňy bärik getir » diýdi .
+42010025	näme		Bir dindar Isany synamak üçin , ýerinden turup : « Mugallym ! Baky ýaşaýşy miras almak üçin men näme etmeli ? » diýip sorady .
+42010026a	näme		Isa onuň özüne sorag bilen ýüzlenip : « Töwratda näme ýazylgy ? 
+42010026b	nähili		Sen muňa nähili düşünýärsiň ? » diýdi .
+42010029	kim		Emma ol özüni aklajak bolup , Isadan : « Meniň ýakynym kim bolýar ? » diýip sorady .
+42010036a	~		
+42010036b	haýsysy		Seniň pikiriňçe , bu üç adamyň haýsysy garakçylaryň eline düşen adamyň ýakyny bolýar ? »
+42011008	~		Size şuny aýdaýyn , ol adam saňa çöregi dostlugyň hatyrasyna bermese-de , ony gününe goýman , erjellik bilen soraberseň , islendik soran zadyňy berer .
+42011011	haýsy		Sizden haýsy ata ogly balyk dilände , balyga derek oňa ýylan berer ?
+42011012	~		Ýa bolmasa ýumurtga dilände , oňa içýan berer ?
+42011013	~		Şeýlelikde , siz erbet bolubam öz çagalaryňyza oňat peşgeşler bermegi bilýän bolsaňyz , onda gökdäki Ataňyz Özünden dileýänlere Mukaddes Ruhy has-da köp bermezmi ? » Isa we jynlaryň hökümdary .
+42011018	~		Şeýtan öz içinden bölünse , heý-de patyşalygy durarmy ? Muny siziň Maňa arwah-jynlary Beýelzebul arkaly kowýar diýýäniňiz üçin aýdýaryn .
+42011019	kim		Men arwah-jynlary Beýelzebul arkaly kowýan bolsam , onda siziň adamlaryňyz olary kim arkaly kowýarlar ? Şeýle diýýäniňiz üçin sizi öz adamlaryňyz höküm eder .
+42012014	kim		Isa oňa : « Eý , ynsan , kim Meni siziň üstüňizden kazy ýa-da häkim edip belledi ? » diýdi .
+42012017	Näme		Ol adam : „ Näme etsemkäm ? Hasylymy goýmaga-da ýerim ýok “ diýip , içini gepledýär .
+42012020	kime		Emma Hudaý oňa : „ Eý , akmak ! Edil şu gijäniň özünde janyň alnar . Onsoň özüň üçin taýýarlan zatlaryň kime galar ? “ diýýär .
+42012024	~		Gargalara serediň , olar ne ekýärler , ne-de orýarlar . Olaryň ne ammarlary , ne-de urulary bar . Muňa garamazdan , Hudaý olary iýmitlendirýär . Siz guşlardan näçe esse gymmatlysyňyz !
+42012025	haýsy		Siziň haýsy biriňiz gaýgy edip , ömrüňizi bir sagat uzaldyp bilýärsiňiz ?
+42012026	näme üçin		Bu kiçijik zady edip bilmeýän bolsaňyz , onda näme üçin galan zatlaryň gaýgysyny edýärsiňiz ?
+42012042	kim		Reb Isa şeýle jogap berdi : « Hojaýynyň sadyk hem akylly iş dolandyryjysy kim ? Beýleki hyzmatkärlerine wagtly-wagtynda nahar bermek üçin , olaryň üstünden goýan adamy dälmi ?
+42012049	~		Isa sözüni dowam etdi : « Men ýer ýüzüne ot ýagdyrmaga geldim . Hernä şol ot indi tutaşyp bir ýansady !
+42012056	näme üçin		Eý , ikiýüzlüler ! Ýeriň hem asmanyň görnüşinden many çykaryp bilýäňiz-de , näme üçin bu häzirki döwürden many çykaryp bileňzok ?
+42012057	Näme üçin		Näme üçin özüňize dogry zady saýlap alyp bilmeýärsiňiz ?
+42013004	~		Ýa Siloýam minarasy üstlerine ýykylyp ölen on sekiz adam ýadyňyzda dälmi ? Eýsem şolar Iýerusalimdäkilerden has köp ýazyklydyr öýdýäňizmi ?
+42013007	nämä		Ol bagbana : „ Men üç ýyldan bäri gelip , bu injir agajyndan miwe gözleýän , emma birini-de tapamok . Ony kesip taşla ! Ol nämä biderek ýer tutup otyr ? “ diýýär .
+42013015	haýsy		Reb Isa hem oňa : « Eý , ikiýüzlüler ! Siziň haýsy biriňiz Sabat güni öküzüňizi ýa eşegiňizi ahyryň başyndan çözüp , suwa ýakmaga äkitmeýärsiňiz ?
+42013018a	nämä		Onsoň Isa : « Hudaýyň Şalygy nämä meňzeýär ? 
+42013018b	nämä		Ony nämä meňzedeýin ?
+42013020	nämä		Isa ýene-de söz açyp : « Hudaýyň Şalygyny nämä meňzedeýin ?
+42013025	nireden		Öý eýesi turup , gapyny gulplanda , siz daşarda galyp , gapyny kakarsyňyz we : „ Aga , bize gapyny açaý-da ! “ diýip ýalbararsyňyz . Ol hem size : „ Men sizi tanamok , nireden geleniňizi-de bilemok “ diýip jogap berer .
+42014005	~		Onsoň olardan : « Biriňiziň ogluňyz ýa-da öküziňiz guýa gaçsa , Sabat günüdigine garamazdan ony dessine çykarmazmy ? » diýip sorady .
+42014028	~		Aýdaly , araňyzdan biri minara gurmak isleýär . Ol ilki oturyp , muny tamamlamaga pulunyň ýetip-ýetmejekdigini hasaplamazmy ?
+42014031	~		Ýa bolmasa bir patyşa başga bir patyşa bilen uruş etmäge barýar diýeli . Üstüme gelýän ýigrimi müň esgere on müň esger bilen garşylyk görkezip bilermikäm diýip , ilki oturyp maslahatlaşmazmy ?
+42014034	nädip		Duz gowy zatdyr , emma ol öz tagamyny ýitirse , onda oňa nädip tagam berler ?
+42015004	~		« Sizden biriniň ýüz goýny bar diýeli . Ol bularyň birini ýitirýär . Şonda ol togsan dokuzsyny düzde goýup , tä ýiten goýnuny tapýança , ony gözlemäge gitmezmi ?
+42015008	~		« Aýdaly , bir aýalyň on sany kümüş teňňesi bar eken . Ol bularyň birini ýitirýär . Şonda ol çyrany ýakyp , öýi süpürip , ony tapýança , üns berip gözlemezmi ?
+42015026	~		Ol hyzmatkärleriň birini ýanyna çagyryp , munuň sebäbini soraýar .
+42015029	~		Emma ol kakasyna şeýle jogap berýär : „ Görýäňmi , men näçe ýyldyr , seniň üçin gul ýaly işledim , hiç haçan seniň buýruklaryňa ýok diýmedim . Muňa garamazdan , öz dostlarym bilen şüweleň eder ýaly , sen maňa hiç haçan bir çebiş-de bermediň .
+42016002	näme		Baý ony ýanyna çagyryp : „ Sen hakda eşidýän zatlarym näme ? Iş dolandyryşyň babatda hasabat ber , sebäbi sen mundan beýläk meniň iş dolandyryjym bolup bilmersiň “ diýýär .
+42016003	näme		Iş dolandyryjy öz-özüne : „ Indi näme etsemkäm ? Hojaýynym işimi elimden alýar . Men gazy gazmaga ejiz , dilenmäge utanýaryn .
+42016005	näçe		Şeýlelikde , ol hojaýynyna bergili adamlaryň baryny bir-birden ýanyna çagyrýar . Birinji çagyranyndan : „ Meniň hojaýynyma näçe bergiň bar ? “ diýip soraýar .
+42016007	näçe		Onsoň başga birinden : „ Seniň näçe bergiň bar ? “ diýip soraýar . Ol hem : „ Müň halta bugdaý “ diýip jogap berýär . Oňa-da : „ Dil hatyňy al-da , şony sekiz ýüz diýip ýaz “ diýýär .
+42016011	kim		Şeýlelikde , dünýäniň baýlygynda ynamdar bolmasaňyz , size çyn baýlygy kim ynanar ?
+42016012	kim		Başga biriniň emlägi babatda ynamdar bolmasaňyz , öz emlägiňizi size kim berer ?
+42017007	haýsyňyz		Aýdaly , siziň ýer sürýän ýa-da çopançylyk edýän hyzmatkäriňiz bar . Ol meýdandan gelende , siziň haýsyňyz oňa : „ Basym gel-de , saçak başynda otur “ diýersiňiz ?
+42017017	nirede		Isa : « Keselden saplanan on kişi dälmidi ? Galan dokuz adam nirede ?
+42017018	~		Hudaýy şöhratlandyrmak üçin bu kesekiden başga hiç kim yzyna öwrülmedimi ? » diýip sorady .
+42017020	haçan		Bir gün fariseýler Isadan Hudaýyň Şalygynyň haçan geljekdigini soranlarynda , Ol : « Hudaýyň Şalygy göze görnüp gelmez .
+42017037	nirede		Şägirtler Isa ýüzlenip : « Agam , bu hadysalar nirede bolar ? » diýip soradylar . Isa hem : « Maslyk nirede bolsa , garaguşlar hem şol ýere üýşýändir » diýip jogap berdi .
+42018018	näme		Bir ýolbaşçy Isadan : « Eý , ýagşy Mugallym ! Men baky ýaşaýşy miras almak üçin näme etmeli ? » diýip sorady .
+42018019	Näme üçin		Isa oňa : « Näme üçin Maňa ýagşy diýýärsiň ? Ýeke-täk Hudaýdan başga hiç kim ýagşy däldir .
+42018026	kim		Muny eşidenler : « Onda kim halas bolup biler ? » diýip soradylar .
+42018036	nämedigini		Ol ýanyndan mähelläniň geçip barýandygyny eşidip , munuň nämedigini sorady .
+42018041	näme		« Seniň üçin näme etmegimi isleýärsiň ? » diýip sorady . Ol : « Agam , gözlerim açylsyn ! » diýdi .
+42019007	~		Halk muny görüp : « Bir günäkäriň öýüne myhman boldy » diýşip , hüňürdemäge başlady .
+42019023	näme üçin		Onda näme üçin pulumy işletmäge bermediň ? Men gelenimde , ony peýdasy bilen alardym “ diýýär .
+42019031	Näme üçin		Eger biri sizden : „ Näme üçin ony çözýärsiňiz ? “ diýip sorasa , oňa : „ Bu taýhar Rebbe gerek “ diýiň » diýdi .
+42019033	näme üçin		Taýhary çözüp durkalar , onuň eýeleri : « Taýhary näme üçin çözýärsiňiz ? » diýip soradylar .
+42020002a	haýsy		Olar Isa : « Hany , bize aýt , Sen bu zatlary haýsy ygtyýar bilen edýärsiň ? 
+42020002b	kim		Bu ygtyýary Saňa kim berdi ? » diýdiler .
+42020005a	~		Olar muny özara maslahatlaşmaga başladylar : « Eger Gökden diýsek , Ol bize : 
+42020005b	näme üçin		„ Onda näme üçin oňa ynanmadyňyz ? “ diýer .
+42020013	näme		Onsoň üzümçiligiň eýesi : „ Men näme etmeli ? Gel , öz söwer oglumy ibereýin , belki , ony sylarlar “ öýdýär .
+42020015	näme		Şeýlelikde , ony üzümçilikden çykaryp öldürýärler . Indi üzümçiligiň eýesi bulara näme eder ?
+42020017	näme		Isa olara bakyp : « Onda „ Ussalaryň ret eden daşy , binýadyň burç daşy boldy “ diýen ýazgynyň manysy näme ?
+42020023	~		Isa olaryň hilesine düşünip :
+42020024a	kimiňki		« Maňa salgyt puluny görkeziň . Bu teňňedäki şekil bilen ýazgy kimiňki ? » diýdi . Olar : « Imperatoryňky » diýip jogap berdiler .
+42020024b	~		
+42020033	haýsysynyň		Indi direliş güni bu aýal olaryň haýsysynyň aýaly bolar ? Olaryň ýedisi hem oňa öýlenipdi ahyryn » .
+42020041	Näme üçin		Onsoň Isa olara : « Näme üçin Mesihe Dawudyň ogly diýýärler ?
+42020044	nähili		Eger Dawut Mesihe Reb diýýän bolsa , Ol nähili Dawudyň ogly bolýar ? » diýdi .
+42021007a	haçan		Olar Isadan : « Mugallym ! Bu zatlar haçan bolar ? 
+42021007b	nähili		Bularyň boljak mahalynda nähili alamat peýda bolar ? » diýip soradylar .
+42022009	nirede		Olar : « Ony nirede taýýarlamagymyzy isleýärsiň ? » diýip soradylar .
+42022011	nirede		Onsoň öý eýesine : „ Mugallym senden şägirtlerim bilen Pesah naharyny iýer ýaly , myhman otagy nirede diýip soraýar “ diýiň .
+42022027	Haýsysy		Haýsysy has uly : saçak başynda oturanmy ýa-da hyzmat edýän ? Saçak başynda oturan dälmi ? Emma Men siziň araňyzda bir hyzmat edýän kimindirin .
+42022046	Näme üçin		Isa olara : « Näme üçin uklap ýatyrsyňyz ? Synaga düşmez ýaly , turuň-da , Hudaýa dileg ediň ! » diýdi . Isa tutulýar .
+42022064	kim		Gözüni daňyp : « Hany , welilik et ! Seni uran kim ? » diýip soradylar .
+42022071	nämä		Olar : « Bize mundan başga şaýatlyk nämä gerek ? Biz muny Onuň Öz dilinden eşitdik ahyry » diýişdiler .
+42023022a	näme üçin		Pilat üçünji gezek olara : « Näme üçin ? 
+42023022b	näme		u adam näme ýamanlyk etdi ? Men Ondan ölüm jezasyna laýyk hiç zat tapmadym . Şonuň üçin hem Ony jezalandyryp boşatjak » diýdi .
+42023031	näme		Eger adamlar gök daragta şeýle zatlar edýän bolsalar , onda gury daragta näme bolar ? »
+42024005	näme üçin		Aýallar gorkup , başlaryny ýere egdiler . Ýaňky adamlar olara : « Siz näme üçin dirini ölüleriň arasyndan gözleýärsiňiz ?
+42024017	Näme		Isa olardan : « Ýol bolsun ! Näme hakda gürrüň edip barýaňyz ? » diýip sorady . Olar gaýgyly ýagdaýda aýak çekdiler .
+42024019	Haýsy		Isa olardan : « Haýsy wakalar ? » diýip sorady . Olar şeýle jogap berdiler : « Nasyraly Isa hakdaky wakalar . Ol Hudaýyň we ähli halkyň nazarynda sözde hem işde güýçli pygamberdi .
+42024025	~		Isa olara : « Wah , siz akmaklar ! Pygamberleriň aýdanlaryna giç ynanýanlar !
+42024038a	näme üçin		Isa olara : « Näme üçin dowla düşýärsiňiz ? 
+42024038b	näme		Näme sebäpden göwnüňize beýle pikirler gelýär ?
+43001019	kim		Ine , ýahudylaryň baştutanlary Iýerusalimden ruhanylary we lewileri Ýahýanyň ýanyna iberdiler . Olar Ýahýadan : « Sen kim ? » diýip soradylar . Ýahýa sözüni inkär etmedi ,
+43001021	kim		Olar ondan : « Onda sen kim ? Belki , Ylýassyň ? » diýip soradylar . Ýahýa : « Ýok » diýip jogap berdi . Olar ýene-de : « Onda şol garaşylýan pygambermiň ? » diýip soradylar . Ol : « Ýok , ol däl » diýip jogap berdi .
+43001022a	kim		Ahyry olar : « Onda sen kim ? Biz özümizi ýollanlara näme jogap bereli ? 
+43001022b	näme		Sen özüň hakda näme aýdyp biljek ? » diýip soradylar .
+43001025	näme üçin		Onsoň onuň ýanyna iberilen käbir fariseýler : « Sen Mesihem , Ylýasam , garaşylýan pygamberem däl bolsaň , onda näme üçin adamlary suwa çümdürýärsiň ? » diýip soradylar .
+43001038a	näme		Isa gaňrylyp , yzyna düşüp gelýänleri gördi-de , olardan : « Size näme gerek ? » diýip sorady . Olar : 
+43001038b	nirede		« Rabbi , Sen nirede ýaşaýarsyň ? » diýip soradylar . ( Rabbi mugallym diýmekdir ) .
+43001046	~		Natanaýel oňa : « Nasyraly ? ! Ol ýerden , heý , bir oňly zat çykarmyka ? ! » diýdi . Filip hem oňa : « Ýör , görersiň ! » diýdi .
+43001048	nireden		Natanaýel Ondan : « Sen meni nireden tanaýarsyň ? » diýip sorady . Isa oňa : « Filip seni heniz çagyrmanka , Men seni injir agajynyň aşagynda gördüm » diýip jogap berdi .
+43002004	näme		Isa oňa : « Eý , hatyn , munuň Maňa näme dahyly bar ? Meniň wagtym entek gelenok » diýip jogap berdi .
+43002018a	~		
+43002018b	näme		Onsoň ýahudylaryň baştutanlary Ondan : « Seniň beýtmäge näme hakyň bar ? Eger hakyň bar bolsa , gudrat görkezip , muny bize subut et » diýip talap etdiler .
+43003004	nädip		Nikodim Oňa : « Garran adam nädip gaýtadan doglup biler ? Ol ýene-de enesiniň göwresine girip , täzeden doglup bilmez ahyry ! » diýdi .
+43003009	nähili		Nikodim Ondan : « Bu nähili beýle bolup bilýär ? » diýip sorady .
+43003012	nähili		Meniň ýerdäki zatlar barada aýdýanlaryma ynanmasaňyz , onda gökdäki zatlar barada aýtsam , nähili ynanarkaňyz ?
+43004009	nädip		Samariýaly aýal Isa geň galyp : « Sen ýahudy bolup , men samariýaly aýaldan nädip içmäge suw soraýarsyň ? » diýdi . Sebäbi ýahudylar samariýalylary äsgermeýärdiler .
+43004011	nireden		Aýal Oňa : « Eý , Aga , Seniň suw çeker ýaly hiç zadyňam-a ýok , guýy bolsa çuň , ýaşaýyş suwuny nireden aljak ?
+43004027a	näme		Edil şol wagt Isanyň şägirtleri geldiler we Onuň bir aýal bilen gepleşip duranyna haýran galdylar . Emma hiç kim : « Edýäniň näme ? » ýa-da 
+43004027b	näme üçin		« Bu aýal bilen näme üçin gepleşýärsiň ? » diýip soramady .
+43005012	kim		Ondan : « Saňa : „ Düşegiňi al-da , ýöre “ diýen Adam kim ? » diýip soradylar .
+43005044	nädip		Siz biri-biriňizden öwgüler kabul edýärsiňiz , emma ýeke-täk Hudaýyň öwgüsini gazanmaga çalyşmaýarsyňyz . Onsoň nädip sizde iman bolsun ?
+43005047	nähili		Onuň ýazanlaryna ynanmaýan bolsaňyz , onda Meniň aýdýanlaryma nähili ynanjaksyňyz ? »
+43006005	nireden		Isa töweregine gözüni aýlady . Öz ýanyna uly mähelläniň gelýänini görüp , Filipe : « Bulara iýer ýaly çöregi nireden satyn alarys ? » diýdi .
+43006009	nämejik		« Bu ýerde bir oglanda bäş arpa çöregi bilen iki balyk bar . Emma şeýle uly mähellä bular nämejik bolar ? » diýdi .
+43006025	haçan		Ony kölüň aňry tarapyndan tapyp : « Mugallym , bu ýere haçan geldiň ? » diýip soradylar .
+43006028	näme		Ondan : « Biz Hudaýyň işlerini berjaý etmek üçin näme etmeli ? » diýip soradylar .
+43006030a	nähili		Olar ýene-de : « Görüp , Saňa iman ederimiz ýaly , Sen nähili gudratly alamat görkezersiň ? 
+43006030b	näme		Hany , näme edersiň ?
+43006042	nähili		Olar : « Bu Ýusubyň ogly Isa dälmi ? Biz Onuň ata-enesini tanaýarys . Ol nähili „ Men gökden indim “ diýýär ? » diýişdiler .
+43006052	nähili		Onsoň ýahudylar : « Bu Adam Öz bedenini bize iýmäge nähili berip biler ? » diýşip , özara jedelleşmäge başladylar .
+43006060	kim		Şägirtleriň köpüsi muny eşidip : « Bu sözler agyr . Muny kim kabul edip biler ? » diýişdi .
+43006062	näme		Onda siz Ynsan Oglunyň owal bolan ýerine gaýtadan çykanyny görseňiz näme diýerkäňiz ?
+43006068	kime		Simun Petrus Oňa : « Agam , biz Seni terk edip , başga kime baraly ? Baky ýaşaýyş sözleri diňe Sende ahyryn .
+43007011	nirede		Ýahudylaryň baştutanlary baýramçylykda Ony idäp : « Ol nirede ? » diýip soraýardylar .
+43007015	nireden		Ýahudylar haýran galyp : « Bu adam hiç ýerde okamadyk bolsa-da , Mukaddes Ýazgylary nireden bilýärkä ? » diýişýärdiler .
+43007019	Näme üçin		Musa size Mukaddes Kanuny bermedimi näme ? Ýöne siziň hiç biriňiz bu Kanuny berjaý etmeýärsiňiz . Näme üçin Meni öldürjek bolýarsyňyz ? »
+43007020	kim		Mähelle Oňa : « Sen jynly , kim Seni öldürjek bolýar ? » diýdi .
+43007023	näme üçin		Şeýlelikde , Musanyň kanuny bozulmasyn diýip hem , özüňiz Sabat güni sünnet edýäňiz . Onda näme üçin Sabat güni bir adamy bütinleý sagaldandygym üçin Meni ýazgarýarsyňyz ?
+43007035	nirä		Onsoň ýahudylaryň baştutanlary biri-birine : « Bu Adam biz tapyp bilmez ýaly , nirä gitjekkä ? Grekleriň arasyna dargap giden ýahudylaryň ýanyna gidip , greklere-de öwretjekmikä ?
+43007036	nämekä		Munuň „ Meni gözlärsiňiz , ýöne tapmarsyňyz , Meniň barjak ýerime siz baryp bilmersiňiz “ diýýäni nämekä ? » diýişdiler .
+43007041	~		Başgalary : « Bu Mesihdir » diýdiler , emma käbirleri : « Bolup bilmez ! Mesih , heý-de , Jelileden gelermi ?
+43007045	Näme üçin		Ahyrsoňy ybadathana garawullary gaýdyp geldiler we ýolbaşçy ruhanylar bilen fariseýler olardan : « Näme üçin Ony getirmediňiz ? » diýip soradylar .
+43007048	~		Ýolbaşçylardan ýa-da fariseýlerden , heý , Oňa iman eden barmy ?
+43007051	~		« Kanunymyza görä bir adamy öňürti diňlemän , näme edenini bilmän , oňa höküm çykarmak dogrumydyr ? » diýdi .
+43008005	näme		Musa Töwratda bular ýalylary daşlap öldürmegi buýrupdyr . Sen muňa näme diýersiň ? » diýip soradylar .
+43008010	hany		Isa dikelende , aýaldan başga hiç kime gözi düşmänsoň , oňa : « Eý , naçar , beýlekiler hany ? Hiç kim seni höküm etmedimi ? » diýip sorady .
+43008019	nirede		Onsoň Isadan : « Seniň Ataň nirede ? » diýip soradylar . Isa olara : « Siz ne Meni tanaýarsyňyz , ne-de Meniň Atamy . Meni tanaýan bolsadyňyz , Meniň Atamy-da tanardyňyz » diýdi .
+43008025a	kimsiň		Ondan : « Sen kimsiň ? » diýip soradylar . Isa olara : « Ozal-başdan size kim diýip aýdan bolsam , Şolduryn .
+43008025b	~		
+43008033	nädip		Olar Isadan « Biz Ybraýymyň neslidiris , hiç wagt hiç kime gul bolan däldiris . Onsoň nädip Sen bize azat bolarsyňyz diýip bilýärsiň ? » diýdiler .
+43008043	Näme üçin		Näme üçin Meniň aýdýanlaryma düşünmeýärsiňiz ? Sebäbi siz Meniň aýdýanlarymy diňlemegi başarmaýarsyňyz .
+43008046a	haýsyňyz		Siziň haýsyňyz Maňa günä ýöňkäp bilersiňiz ? 
+43008046b	näme üçin		Eger Men hakykaty aýdýan bolsam , onda näme üçin siz Maňa iman etmeýärsiňiz ?
+43008053	~		Eýsem , Sen atamyz Ybraýymdan hem beýikmi ? Ol-da , pygamberler-de öldi . Sen Özüňi kimdirin öýdýärsiň ? » diýdiler .
+43008057	~		Ýahudylar Ondan : « Heniz elli ýaşa-da barmadyk halyňa Sen Ybraýymy gördüňmi ? » diýip soradylar .
+43009002	kim		Şägirtleri Ondan : « Mugallym , bu adamyň kör bolup dogulmagyna kim günäkär ? Onuň özi günäkärmi ýa-da ene-atasy ? » diýip soradylar .
+43009010	nähili		Ondan : « Şeýle bolsa , onda gözleriň nähili açyldy ? » diýip soradylar .
+43009012	nirede		Ondan : « Şol Adam nirede ? » diýip soradylar . Ol : « Bilemok » diýip jogap berdi .
+43009016	~		Fariseýleriň käbirleri : « Ol Adam Hudaýdan däl , sebäbi Sabat gününi saklamaýar » diýdiler . Başgalary bolsa : « Eýsem günäkär adam beýle gudratly alamatlary görkezip bilermi ? » diýdiler . Şeýdip , olaryň arasynda agzalalyk döredi .
+43009017	näme		Olar ýene-de körden : « Gözüňi açan şol Adam barada näme diýýärsiň ? » diýip soradylar . Ol hem : « Ol bir pygamber » diýdi .
+43009019	nädip		Olardan : « Kör doguldy diýýän ogluňyz şumy ? Indi bu nädip görýär ? » diýip soradylar .
+43009026a	näme		« Ol saňa näme etdi ? 
+43009026b	nädip		Gözüňi nädip açdy ? » diýip , ondan ýene soradylar .
+43009027	Näme üçin		Ol bulara : « Men ýaňy aýtdym ahyry , ýöne diňlemediňiz . Näme üçin ýene eşitmek isleýärsiňiz ? Ýa sizem Onuň şägirtleri bolmakçymy ? » diýip jogap berdi .
+43009034	~		Oňa : « Sen bütinleý günä içinde doglup , indi bize akyl satýarmyň ? » diýdiler . Şeýlelikde , ony sinagogadan kowup çykardylar .
+43009036	kimkä		Ol hem Oňa : « Aga , aýtsana , Ol kimkä ? Men Oňa iman edeýin » diýip jogap berdi .
+43010020	Näme üçin		Olaryň köpüsi : « Ony jyn urupdyr , Ol däliräpdir . Näme üçin siz Ony diňleýärsiňiz ? » diýdi .
+43010021	~		Başgalar bolsa : « Bular jyn uran adamyň aýtjak sözleri däl . Jyn körleriň gözüni açyp bilermi ? » diýdiler .
+43010024	haçana çenli		Mesih Ýahudylaryň baştutanlary Onuň daşyna üýşüp : « Sen haçana çenli bizi alasarmyk edip goýjak ? Eger Mesih bolsaň , anygyny aýt » diýdiler .
+43010032	haýsysy		Isa olara : « Men Atam tarapyndan size köp ýagşylyklar etdim . Bularyň haýsysy üçin Meni daşlajak bolýarsyňyz ? » diýdi .
+43010036	näme		onda näme Meni Hudaýyň Ogly diýenim üçin küpür geplän hasaplaýarsyňyz ? Meni bolsa Atam Özi üçin saýlap-seçip , dünýä iberdi .
+43011034	nirede		Ol : « Ony nirede jaýladyňyz ? » diýip sorady . Oňa : « Eý , Agam , gel , gör » diýdiler .
+43011047	Näme		Onsoň ýolbaşçy ruhanylar bilen fariseýler ýokary mejlisi çagyryp : « Näme etmeli ? Bu Adam köp gudratlar görkezýär .
+43011056	Nähili		Olar Isany gözleýärdiler , ybadathanada durkalar , biri-birlerine : « Nähili pikir edýärsiňiz ? Ol baýrama gelermi ýa-da gelmez ? » diýişýärdiler .
+43012005	Näme üçin		« Näme üçin bu ýag satylyp , onuň puly garyplara paýlanmady ? Munuň bahasy bir ýyllyk iş hakyna barabar ahyry » diýdi .
+43012027	näme		Häzir Meniň ýüregim gam-gussa batýar . Men näme diýeýin ? „ Eý , Ata , Meni şu pursatdan halas et “ diýeýinmi ? Ýok , Men hut şu pursat üçin geldim ahyryn .
+43012034a	nädip		Mähelle Oňa garşy bolup : « Töwratda aýdylyşyna görä , Mesih ebedi galmalydyr . Onsoň nädip Sen : „ Ynsan Ogly ýokary göterilmelidir “ diýýärsiň ? 
+43012034b	kim		Ol Ynsan Ogly diýýäniň kim ? » diýip sorady .
+43012038a	kim		Bularyň bary Işaýa pygamberiň : « Ýa Reb , biziň habarymyza kim ynandy ? 
+43012038b	kime		Rebbiň güýç-gudraty kime aýan boldy ? » — diýip aýdan şu sözüniň berjaý bolmagy üçin şeýle boldy .
+43013025	kim		Ol hem Isa ýaplanyp oturşyna Ondan : « Agam , ol kim ? » diýip sorady .
+43013036	nirä		Simun Petrus Isadan : « Agam , Sen nirä barýarsyň ? » diýip sorady . Isa oňa : « Sen Meniň bilen häzir gidip bilmersiň , ýöne soňra baryp bilersiň » diýip jogap berdi .
+43013037	näme üçin		Petrus Oňa : « Agam , näme üçin men Seniň bilen häzir gidip bilmerin ? Men Seniň üçin janymy bermäge-de taýýar » diýdi .
+43014002	~		Atamyň öýünde ýaşamaga ýer köpdür . Şeýle bolmasa , Men size : „ Ýer taýynlamaga barýaryn “ diýermidim ?
+43014005	nireden		Tomas Oňa : « Agam , biz Seniň nirä barýanyňy bilmesek , ýoly nireden bileli ? » diýdi .
+43014009	näme		Isa oňa şeýle diýdi : « Eý , Filip , Men siziň bilen şeýle köp wagt bolsam-da , Meni tanamadyňmy ? Meni gören Atany-da görendir . Seniň „ Atany bize görkez “ diýmäň näme ?
+43014022	näme üçin		Şonda Iskariýot däl-de , beýleki Ýudas Isadan : « Eý , Agam , näme üçin Sen Özüňi dünýä däl-de , bize aýan etmek isleýärsiň ? » diýip sorady .
+43016005	Nirä		Indi bolsa Men Özümi Ibereniň ýanyna gidýärin . Siziň hiç biriňiz Menden : « Nirä gidýärsiň ? » diýip soramaýarsyňyz .
+43016017	näme		Şonda Isanyň käbir şägirtleri biri-birine : « Onuň : „ Az wagtdan soň Meni görmersiňiz , emma köp wagt geçmänkä , ýene Meni görersiňiz “ , şeýle hem : „ Men Atamyň ýanyna gidýärin “ diýen sözleri näme aňladýarka ? » diýişdiler .
+43016018	nämekä		Olar sözüni dowam edip : « Az wagtdan soň Meni görmersiňiz diýdigi nämekä ? Onuň näme diýmekçi bolýanyna biz-ä düşünmeýäris » diýdiler .
+43018004	Kimi		Isa Öz başyna düşjek ähli zady bilýärdi . Şonuň üçinem öňe çykyp , olardan : « Kimi gözleýärsiňiz ? » diýip sorady .
+43018007	Kimi		Isa olardan ýene : « Kimi gözleýärsiňiz ? » diýip sorady . Olar : « Nasyraly Isany » diýdiler .
+43018011	~		Isa Petrusa : « Gylyjyňy gynyna sal . Atamyň Maňa beren hasrat käsesinden içmäýinmi ? » diýdi .
+43018021	Näme üçin		Näme üçin Menden soraýarsyň ? Näme aýdanymy eşidenlerden sora . Olar Meniň näme diýenimi bilýändirler » diýdi .
+43018023	näme üçin		Isa oňa : « Men nädogry aýdan bolsam , munuň nädogrudygyny subut et . Eger dogry aýdan bolsam , onda näme üçin Meni urýarsyň ? » diýdi .
+43018029	nämede		Şeýlelikde , Pilatyň özi olaryň ýanyna gelip : « Bu Adamy nämede aýyplaýarsyňyz ? » diýip sorady .
+43018035	näme		Pilat Isa : « Eýsem men ýahudymy näme ? Seni maňa Öz halkyň bilen ýolbaşçy ruhanylar tutup getirdiler . Sen näme iş etdiň ? » diýdi .
+43018038	näme		Pilat Ondan : « Hakykat näme ? » diýip sorady . Muny diýenden soň , ol ýene ýahudylaryň ýanyna çykyp , olara : « Men Ondan hiç bir ýazyk tapmadym .
+43019009	nireli		Ol täzeden özüniň häkimlik jaýyna girip , Isadan : « Sen nireli ? » diýip sorady . Emma Isa oňa jogap bermedi .
+43019015	~		Olar : « Güm et Ony ! Ýok et ! Ony haça çüýle ! » diýip gygyryşdylar . Pilat olardan : « Patyşaňyzy haça çüýläýinmi ? » diýip sorady . Ýolbaşçy ruhanylar : « Biziň imperatordan başga patyşamyz ýokdur » diýip jogap berdiler .
+43020013	näme üçin		Olar ondan : « Eý , zenan , näme üçin aglaýarsyň ? » diýip soradylar . Merýem olara : « Agamy mazardan çykaryp alyp gidipdirler . Ony nirede goýandyklaryny bilmeýärin » diýdi .
+43020015a	näme üçin		Isa oňa : « Eý , zenan , näme üçin aglaýarsyň ? 
+43020015b	kimi		Kimi gözleýärsiň ? » diýdi . Merýem Oňa bagbandyr öýdüp : « Eý , aga , Ony mazardan sen äkiden bolsaň , nirede goýanyňy maňa aýt , men Ony alyp gideýin » diýdi .
+43021012	kim		Isa olara : « Hany , geliň , ertirlik ediniň » diýdi . Ondan : « Sen kim ? » diýip soramaga şägirtleriň hiç biri milt edip bilmedi . Olar Onuň Rebdigini bilýärdiler .
+43021020	kim		Petrus yzyna seredende , Isanyň söýgüli şägirdiniň hem öz yzlaryna düşüp gelýänini gördi . Bu şägirt agşamlyk nahary wagtynda Isa ýaplanyp , Ondan : « Agam , Saňa haýynlyk etjek adam kim ? » diýip soran şägirtdi .
+43021021	nähili		Petrus ony görüp , Isadan : « Ýa Reb , onuň ykbaly nähili bolar ? » diýip sorady .
+43021022	näme		Isa oňa : « Özüm dolanyp gelýänçäm , onuň diri galmagyny isleýän bolsam , saňa näme ? Sen Meniň yzyma düş » diýip jogap berdi .
+43021023	näme		Şu sebäpden imanly doganlaryň arasynda bu şägirt ölmez diýen gürrüň ýaýrady . Emma Isa onuň ölmejekdigi barada aýtmandy , Ol Petrusa diňe : « Özüm dolanyp gelýänçäm , onuň diri galmagyny isleýän bolsam , saňa näme ? » diýipdi .
+44001011	Näme üçin		« Eý , jelileliler ! Näme üçin göge seredip dursuňyz ? Isanyň göge göterilenini gözüňiz bilen gördüňiz ahyry . Ol göge nähili göterilen bolsa , hut şonuň ýaly hem gaýdyp geler » diýdiler .
+44002008	nädip		Onda nädip biziň her birimiz öz ene dilimizdäki sözleri eşidýäris ?
+44002012	näme		Olar haýran galdylar we aljyraşyp : « Bu näme boldugyka ? » diýişdiler .
+44002037	näme		Bu sözleri eşidende , adamlaryň ýüregine hanjar urlan ýaly boldy . Olar Petrusdan we beýleki resullardan : « Doganlar , biz näme etmeli ? » diýip soradylar .
+44003012a	näme üçin		Petrus muny görende , halka ýüzlenip , şeýle diýdi : « Eý , ysraýyl halky ! Näme üçin muňa haýran galýarsyňyz ? 
+44003012b	näme üçin		Näme üçin biz bu adamy öz gudratymyz ýa hudaýhonlygymyz bilen ýöreden ýaly , bize beýle dykgat bilen seredýärsiňiz ?
+44004007a	~		
+44004007b	haýsy		Olar Petrus bilen Ýohannany ortada durzup : « Siz muny haýsy gudrat bilen , 
+44004007c	kimiň		kimiň adyndan etdiňiz ? » diýip soradylar .
+44004016	näme		« Bu adamlary näme edeliň ? Iýerusalimde ýaşaýanlaryň her biri bularyň täsin gudrat görkezendigini bilýär . Biz muny inkär edip bilmeýäris .
+44004025a	näme üçin		Sen Mukaddes Ruh arkaly Öz guluň — atamyz Dawudyň üsti bilen şeýle diýdiň : „ Milletler näme üçin gazaba münýär ? 
+44004025b	nämä		Halklar nämä biderek pitne turuzýar ?
+44005003	näme üçin		Petrus oňa şeýle diýdi : « Hanany , näme üçin sen şeýtana kalbyňdan orun berdiň ? Sen Mukaddes Ruha ýalan sözläp , puluň bir bölegini özüňe alyp galdyň .
+44005004	Nädip		Ol satylanda-satylmanda hem öz emlägiňdi ahyry . Ony satanyňdan soňam puluny öz isleýşiň ýaly ulanyp bilerdiň . Nädip beýle zady edip bildiň ? Sen ynsanlara däl-de , Hudaýa ýalan sözlediň » .
+44005009	Näme üçin		Petrus oňa : « Näme üçin siz Rebbiň Ruhuny synaga salmak üçin dilleşdiňiz ? Anha , seret , seniň adamyňy jaýlanlar gapa golaýlap gelýärler , olar seni hem äkiderler » diýdi .
+44007026	Näme üçin		Ertesi gün Musa iki ysraýylly adamyň dawalaşyp duranyny gördi we ýanlaryna baryp , olary ýaraşdyrmaga synanyşdy . Olara : „ Eý , adamlar , siz dogan ahyry ! Näme üçin biri-biriňize azar berýärsiňiz ? “ diýdi .
+44007027	Kim		Emma öz ildeşine azar berýän adam ony itekläp : „ Kim seni bize hökümdar ýa-da kazy edip goýdy ?
+44007035	Kim		Ine , bu Musa : „ Kim seni bize hökümdar ýa-da kazy edip goýdy ? “ diýip , halkyň inkär eden Musasydy . Hudaýyň Özi ony çalyda görnen perişdäniň üsti bilen hökümdar hem halasgär edip ýollady .
+44007049a	nähili		Reb , olara , ine , şeýle diýdi : „ Gökler Meniň tagtym , ýer aýagyma kürsüdir . Maňa nähili öý gurjaksyňyz siz ? ! 
+44007049b	haýsy		Haýsy ýer dynçlyk mekanym bolar ? !
+44007052	~		Ata-babalaryňyzyň , heý , azar bermedik pygamberi barmy ? Olar hatda Dogry Bolanyň geljegini öňünden pygamberlik edip aýdanlary-da öldürdiler . Siz bolsa bu dogry Ynsana haýynlyk edip ganyna galdyňyz .
+44008031	nädip		Ol : « Biri düşündirmese , nädip düşüneýin ? » diýdi . Onsoň Filipi araba münüp , ýanynda oturmaga çagyrdy .
+44008033	kim		Ol kemsidilip , adalatsyzlyk bilen äkidildi . Onuň nesli hakda kim aýdyp biljek ? Çünki Onuň ömür tanapy üzüldi » .
+44008034	kim		Efiopiýaly Filipden : « Aýtsaňyzlaň , pygamber muny kim hakda aýdýar ? Özi hakdamy ýa-da başga biri hakda ? » diýip sorady .
+44008036	näme		Olar ýolda barýarka , bir suwly ýeriň üstünden geldiler . Agta : « Ine , bu ýerde suw bar . Meniň çümdürilmegime näme päsgel berýär ? » diýdi .
+44009004	Näme üçin		Şawul ýere ýykyldy . Şonda ol : « Şawul ! Şawul ! Näme üçin Maňa azar berýärsiň ? » diýen sesi eşitdi .
+44009005	kim		Ol : « Agam , sen kim ? » diýip sorady . Oňa : « Men seniň azar berýän Isaň . Indi tur-da , şähere git , näme etmelidigiň saňa şol ýerde aýdylar » diýdi .
+44009006	~		Indi tur-da , şähere git , näme etmelidigiň saňa şol ýerde aýdylar » diýdi
+44010004	~		Korneliý gorky içinde gözlerini oňa dikip : « Gulak asýan ! » diýdi . Perişde oňa : « Seniň Hudaýa eden dogalaryň , garyplara paýlan sadakalaryň Onuň nazarynda kabul boldy .
+44010021	Näme üçin		Petrus adamlaryň ýanyna gelip : « Gözleýän adamyňyz men . Näme üçin geldiňiz ? » diýdi .
+44010029	näme üçin		Şonuň üçin hem çagyrylanymda , ikirjiňlenmän gaýtdym . Indi meni näme üçin çagyrandygyňyzy sorap bilerinmi ? » diýdi .
+44010047	kim		« Edil biziň ýaly , bu adamlar hem Mukaddes Ruhy kabul etdiler . Indi bulary suwa çümdürilmegini kim gadagan edip biler ? » diýdi .
+44011017a	kim		Şeýlelikde , Rebbimiz Isa Mesihe iman edenimizde , Hudaý bize beren peşgeşini olara hem beren bolsa , Hudaýa garşy durar ýaly , men kim bolupdyryn ? »
+44011017b	~		
+44012018	näme		Gün doganda , esgerleriň arasynda uly galmagal turdy . Olar biri-birinden : « Petrusa näme bolduka ? » diýşip soraýardylar .
+44013025	~		Ýahýa özüne tabşyrylan işi tamamlamazdan öň : „ Siz meni Mesih hasaplaýarsyňyzmy ? Ýok , men Mesih däl . Ol menden soňra geler . Men Onuň çarygynyň bagyny çözmäge-de mynasyp däldirin “ diýdi .
+44014015	Näme üçin		« Adamlar ! Näme üçin beýle edýärsiňiz ? Biz hem size meňzeş ynsandyrys . Size Hoş Habar alyp geldik . Indi bu boş zatlardan el çekiň-de , ýeri , gögi , deňzi we olardaky ähli zady ýaradan diri Hudaýa tarap dolanyň .
+44015010	näme üçin		Beýle bolsa , näme üçin ata-babalarymyzyň we özümiziň göterip bilmedik boýuntyrygymyzy şägirtleriň boýnuna salýaňyz ? Hudaýy synajak bolýarsyňyzmy ?
+44016030	näme		Olary daşary çykaryp : « Agalar ! Men halas bolmak üçin näme etmeli ? » diýip sorady .
+44017018	näme		Birnäçe epikur we stoik taglymatçylar hem Pawlus bilen jedelleşdiler . Käbiri : « Bu ýaňra näme diýjek bolýar ? » diýse , käbiri : « Ol keseki hudaýlar barada wagyz edýär » diýýärdi . Olar Pawlus Isanyň Hoş Habaryny we direlişini wagyz edýändigi üçin şeýle diýýärdiler .
+44017019	nämedigini		Olar Pawlusy tutup , Arýopagus mejlisine getirip , şeýle diýdiler : « Seniň öwredýän bu täze taglymatyňyň nämedigini biz hem bilsek bolarmy ?
+44019003	nämä		Olardan : « Onda nämä esaslanyp çümdürildiňiz ? » diýip sorady . Olar : « Ýahýanyň çümdürmesine esaslanyp çümdürildik » diýip jogap berdiler .
+44019015	kim		Bir gezek arwah-jyn olardan : « Isany tanaýaryn , Pawlusy-da bilýärin , ýöne siz kim ? » diýip sorady .
+44019035	kim		Şäher kätibi mähelläni köşeşdirip , şeýle diýdi : « Eý , efesliler ! Beýik Artemis buthanasynyň we asmandan inen heýkeliniň goragçysynyň Efes şäheridigini kim bilmeýär ? !
+44021013a	näme üçin		Pawlus : « Näme üçin aglaşyp , meniň ýüregimi agyrdýarsyňyz ? Men Iýerusalimde diňe el-aýagymyň baglanmagyna däl , eýsem , Rebbimiz Isanyň ady üçin ölmäge-de taýýar » diýip jogap berdi .
+44021013b	~		
+44021022	näme		Indi näme etmeli ? Seniň geleniňi olar hökman eşiderler .
+44021033a	kim		Şol wagt müňbaşy golaý gelip , Pawlusy tussag etdi we goşa zynjyrlar bilen baglamagy buýurdy . Soňra ol : « Bu adam kim ? 
+44021033b	näme		Ol näme etdi ? » diýip sorady .
+44022007	näme üçin		Men ýere ýykyldym . Şol wagt : „ Şawul , Şawul , näme üçin sen Maňa azar berýärsiň ? “ diýen sesi eşitdim .
+44022008	kim		Men : „ Agam , sen kim ? “ diýip soradym . Ol maňa : „ Men seniň azar berýän nasyraly Isaň “ diýip jogap berdi .
+44022010	näme		Men : „ Ýa Reb ! Men näme etmeli ? “ diýip soradym . Ol hem maňa : „ Ýeriňden tur-da , Damaska git . Näme etmelidigiň saňa şol ýerde aýdylar “ diýdi .
+44022016	nämä		Indi nämä garaşýarsyň ? Tur , Rebbi çagyryp , suwa çümdüril , günäleriňden saplan “ diýdi .
+44022026	Näme		Ýüzbaşy muny eşidip , müňbaşynyň ýanyna baryp : « Näme etjek bolýaň ? Bu adam Rim raýaty ahyry » diýip habar berdi .
+44023003	~		Pawlus oňa : « Seni Hudaý urar , eý , ýüzi aklanan diwar ! Özüň-ä meniň üstümden kanuna görä höküm çykarmak üçin otyrsyň , soňam bolsa kanuny bozup , meni urmagy buýurýarsyň » diýdi .
+44023009	näbilýäňiz		Şeýlelikde , uly galmagal turdy . Fariseýleriň tarapyny tutýan käbir Töwrat mugallymlary ýerinden turup , uly dawa turuzdylar . Olar : « Biz bu adamda hiç hili aýyp tapmadyk . Onuň bilen bir ruh ýa perişde gepleşen bolsa näbilýäňiz ? » diýdiler .
+44023019	näme		Müňbaşy ýigidi goltuklap , bir gyra çekdi-de , ondan : « Sen maňa näme hakda habar bermekçi ? » diýip sorady .
+44026008	Näme üçin		Näme üçin Hudaýyň ölüleri direltmegini ynanyp bolmajak zat hasaplaýarsyňyz ?
+44026014	Näme üçin		Hemmämiz ýere ýykyldyk . Bir sesiň maňa arameý dilinde : „ Şawul , Şawul ! Näme üçin Meni yzarlap , azar berýärsiň ? Tekepbirligiň bilen özüňe zeper ýetirmäňi bes et “ diýenini eşitdim .
+44026015	kim		Men : „ Agam , sen kim ? “ diýip soradym . Reb : „ Men seniň yzarlap , azar berýän Isaň .
+45002017	~		Indi bolsa sen ýahudy barada aýtmakçy : sen özüňi ýahudy saýyp , Musanyň Kanunyna bil baglaýarsyň , Hudaýy tanaýandygyňa buýsanýarsyň .
+45002021	näme üçin		Eger şeýle bolsa , onda näme üçin başgalara taglym berip-de , özüňe taglym bermeýärsiň ? Ogurlyk etmezligi wagyz edip , näme üçin ogurlyk edýärsiň ?
+45002028	~		Çünki daşky görnüşi boýunça ýahudy görünýän her kes ýahudy däldir , tendäki her sünnet-de hakyky sünnet däldir .
+45003001a	näme		Şeýlelikde , ýahudy bolmagyň näme artykmaçlygy bar ? 
+45003001b	näme		Sünnetiň näme peýdasy bar ?
+45003003	~		Olaryň käbiriniň Hudaýa sadyk galmandygy hemmelere mälimdir . Ýöne olaryň biwepalygy , heý-de , Hudaýyň sadyklygyny ýok edermi ?
+45003005	näme		Ýöne biziň bütin nädogrulygymyz Hudaýyň dogrulygyny has äşgär edýän bolsa , muňa näme diýeris ? Käbir ynsanlaryň şeýle diýip soramagy mümkin : eýsem Hudaý Öz gazabyny başymyzdan inderende , biz babatda adalatsyzlyk edýärmikä ?
+45003006	~		Elbetde , ýok ! Hudaý adyldyr . Eger şeýle bolmasa , Ol heý-de dünýä kazylyk edip bilermi ? !
+45003007a	~		Ýöne meniň biwepalygym arkaly Hudaýyň sadyklygy has äşgär bolup , Onuň şöhraty artýan bolsa , 
+45003007b	~		men bir günäli hökmünde höküm edilmelimi näme ?
+45003008	~		Ýagşylygy artdyrmak üçin , belki , biz ýamanlyk etmelidiris ? Elbetde , ýok ! Ýöne käbir adamlar men hut şeýle zatlary öwredýärmişim diýip , maňa töhmet baryny ýapýarlar . Şeýle töhmetçiler öz edenlerine laýyk jeza alarlar .
+45003009	näme		Onda näme , biz ýahudylar beýleki milletlerden artykmy ? Asla artyk däldiris ! Ýahudylaryň-da , başga milletleriň-de günäniň tussaglygyndadygy barada öň aýdypdyk ahyryn .
+45003027a	~		Indi magtanara tutarygymyz galdymy ? Asla galan däldir ! 
+45003027b	haýsy		Bu haýsy kanuna görä şeýle boldy ? Parzlary berjaý edilmeli kanuna görämi ? Ýok , iman kanunyna görä şeýle boldy .
+45003027c	~		
+45004001	näme		Ýokarda aýdylanlary nazara alyp , atamyz Ybraýym babatda näme aýdyp bileris ?
+45004003	~		Çünki Mukaddes Ýazgyda : « Ybraýym Hudaýa iman etdi we Hudaý ony dogry hasaplady » diýip ýazylgydyr .
+45004010	haçan		Eger şeýle bolsa , haçan dogruçyl hasaplady ? Sünnetlenmänkämi ýa-da sünnetlenenden soň ? Ýok , soň däl-de , öň dogruçyl hasaplady !
+45005010	~		Çünki duşmankak Oglunyň ölümi arkaly Hudaý bilen ýaraşan bolsak , onda Onuň ömri arkaly halas ediljegimiz hem gürrüňsizdir .
+45005021	~		Ozal günä hökmürowanlyk sürüp , hemmeleriň ömür tanapyny gyrýardy . Indi welin Hudaýyň merhemeti hökmürowanlyk sürýär . Şoňa görä-de , biz aklanyp , Rebbimiz Isa Mesih arkaly baky ýaşaýşa eýe bolduk .
+45006001	näme		Onda näme , Hudaý Öz merhemetini bize köpden-köp görkezsin diýip , günä edibermelimi ?
+45006002	neneň		Elbetde , ýok ! Biz günä babatda öldük ahyryn . Onsoň neneň edip günä içinde ýaşap bileris ?
+45006015	näme		Indi näme ? Biz indi Kanunyň ygtyýarynda däl-de , merhemetiň ygtyýarynda diýip , günä edibermelimi ? Elbetde , ýok !
+45006021	näme		Ozal eden işleriňizden , ýagny şindi utanýan işleriňizden näme bähbit gördüňiz ? Şeýle işleriň soňy ölümdir .
+45007007	näme		Onda näme , Musanyň Kanuny erbet bir zatmy ? Elbetde , ýok ! Ýöne bu Kanun bolmadyk bolsa , men günäniň nämedigini-de bilmezdim . Kanun : « Başganyň zadyna göz dikme » diýip buýurmadyk bolsa , men munuň günädigini hem bilmezdim .
+45007024	kim		Wah , men bagtygarany diýsene ! Ölüme eltýän bu bedenimden meni kim halas eder ?
+45008024	~		Biz halas edilenimiz üçin , indi bu umydymyz bardyr . Ýöne göze görnüp duran umyt asla umyt däldir . Görüp duran zadyna umyt baglaýan barmy näme ?
+45008031a	~		Bulardan başga aýdara zat galdymy ? 
+45008031b	kim		Hudaý bizlik bolsa , kim bize garşy çykyp biler ?
+45008032	näme		Hudaý hatda Öz Ogluny aýaman , Ony biziň günälerimiz üçin ölüme tabşyran bolsa , onda Onuň bilen birlikde beýleki zatlaryň baryny hem eçilmezmi näme ? !
+45008033	kim		Hudaýyň saýlap-seçenlerini aýyplamaga kim milt eder ? Hiç kim , sebäbi olary Hudaýyň hut Özi aklaýar !
+45008034	kim		Hudaýyň halkyny kim höküm edip biler ? Hiç kim , sebäbi ölümden direlen Isa Mesih Hudaýyň sagynda oturyp , biziň üçin töwella edýär .
+45008035	~		Biz görgüdir muşakgatlary çekýäris , yzarlanmalara , açlyga , mätäçlige duçar bolýarys , howp-hatara we ölüm howpuna sezewar edilýäris . Eýsem bularyň bary bizi Isa Mesihiň söýgüsinden aýryp bilermi ? Elbetde , ýok ! Sebäbi Mukaddes Ýazgylarda şeýle ýazylgydyr :
+45009014	näme		Muňa näme diýeli ? Eýsem Hudaý adalatsyzmydyr ? Elbetde , ýok !
+45009019a	näme üçin		Onda menden : « Eger şeýle bolsa , onda näme üçin Hudaý adamlary ýazgarýar ? 
+45009019b	~		Onuň islegine garşy çykyp biljek barmy ? » diýip soramagyň mümkin .
+45009020a	kimmişiň		Heý , adam , Hudaýa gep gaýtarar ýaly , sen kimmişiň ? 
+45009020b	~		Heý-de ýasalan zat özüni ýasandan : 
+45009020c	näme üçin		« Näme üçin meni beýle ýasadyň ? » diýip sorap bilermi ?
+45009021	~		Eýsem küýzegäriň şol bir toýundan islän gabyny : birini toý-baýramlar üçin , beýlekisini gündelik işler üçin ýasamaga haky ýokmy näme ?
+45009022	~		Hudaý Öz gudratyny görkezmek üçin , heläkçilige doglan adamlaryň üstüne gazabyny döküp bilýär . Ýöne Ol Özüni gazaplandyrýan adamlara uly sabyr-takatlyk edýändir !
+45009023	~		Hudaý Özüniň öňden şöhrat üçin taýýarlap , merhemet edenlerine Öz şöhratynyň baýlygyny bildirmek üçin şeýle sabyr-takatly bolýandyr .
+45009024	~		Hudaýyň şeýle merhemet edenleriniň we çagyranlarynyň arasynda diňe ýahudylar däl , eýsem başga milletler hem bardyr . Hawa , bularyň arasynda biz hem bardyrys .
+45009030	näme		Bu näme diýildigi ? Hudaýyň huzurynda aklanmaga ymtylmadyk milletler iman edip , aklandylar .
+45009032	Näme üçin		Näme üçin ? Sebäbi olaryň ymtylyşlary imana däl-de , Kanuna daýandy . Olar « Büdreme daşyna » büdrediler .
+45010006	kim		Imana daýanýan dogrulyk barada , bolsa ol şeýle diýýär : « „ Ol ýere kim çykar ? “ , ( ýagny Mesihi göklerden indirmek üçin ) , „ Düýpsüz çukura kim iner ? “ , ( ýagny Mesihi direltmek üçin ) — diýip , öz-özüňden sorama » .
+45010007	kim		„ Düýpsüz çukura kim iner ? “ , ( ýagny Mesihi direltmek üçin ) — diýip , öz-özüňden sorama »
+45010008	~		Şeýle-de , imandan bolan dogrulyk : « Bu söz saňa ýakyndyr , ol seniň agzyňda we ýüregiňdedir » diýýär . Bu söz bolsa biziň wagyz edýän imanymyz hakdaky habardyr .
+45010014a	nädip		Ýöne adamlar Hudaýa iman etmeseler , Ony nädip çagyrsyn ? 
+45010014b	nädip		Hudaý barada eşitmeseler , Oňa nädip iman etsin ? 
+45010014c	nädip		Hudaý barada wagyz edilmese , adamlar Ol barada nädip eşitsin ? !
+45010015	nädip		Eger wagyzçylar iberilmese , nädip wagyz edilsin ? Wagyzçylar barada Mukaddes Ýazgylarda şeýle ýazylgydyr : « Hoş Habary yglan edýäniň gelşi ne gözeldir ! » .
+45010016	kim		Ýöne bu habary hemmeler kabul etmedi . Işaýa hem bu barada : « Ýa Reb , biziň habarymyza kim ynandy ? » diýip soraýar .
+45011004	näme		Şonda Hudaý oňa näme jogap berdi ? Hudaý : « Men Ysraýylda Bagal butuna sežde etmedik ýedi müň adamy Özüme aýryp goýdum » diýdi .
+45011007	näme		Indi näme ? Ysraýyl halky dogrulyga ymtylsa-da , oňa ýetip bilmedi . Oňa diňe saýlanyp-seçilenler ýetdi , galanlary bolsa öz doň ýürekleriniň ygtyýaryna tabşyryldy .
+45011015	nämä		Hawa , Hudaý ysraýyl halkyny ret etdi . Onuň şeýle etmegi beýleki milletleriň hem Hudaý bilen ýaraşmagyna mümkinçilik berdi . Eger Hudaýyň ret etmesi beýleki halklara şeýle ýalkanyş getiren bolsa , onda Onuň ysraýyl halkyny gaýtadan kabul etmegi nämä ýetirer ? Ölümden ýaşaýşa ýetirer !
+45011018	~		Şoňa görä-de , onuň döwlen şahalarynyň öňünde magtanmaň , sebäbi siz köki däl-de , kök sizi saklaýandyr .
+45011033a	kim		Hudaýyň baýlygy , danalygy we bilimi ummasyzdyr ! Onuň hökümlerini kim düşündirip biler ? 
+45011033b	kim		Onuň ýollaryna kim akyl ýetirip biler ?
+45011034a	kim		« Rebbe kim akyl ýetirdi ? 
+45011034b	kim		Kim Oňa maslahat berip bildi ?
+45011035	kim		Hudaý bergili bolar ýaly , kim Oňa zat berdi ? »
+45014004	kimmişiň		Başga biriniň hyzmatkärini ýazgarar ýaly sen kimmişiň ? ! Hyzmatkäriň özüne buýrulanlary berjaý edip-etmändigini diňe onuň hojaýyny kesgitleýändir . Ýöne hyzmatkär özüne buýrulanlary berjaý edip biler , sebäbi onuň hojaýyny Rebdir , Ol hyzmatkärini kuwwatlandyrmagy başarýandyr .
+45014010a	näme üçin		Onda näme üçin käbirleriňiz öz doganyňyzy ýazgarýarsyňyz ? 
+45014010b	näme üçin		Näme üçin käbirleriňiz öz doganyňyza äsgermezlik edýärsiňiz ? Biziň barymyz Hudaýyň höküm kürsüsiniň öňünde durmaly dälmi näme ?
+46001020a	hany		Hany dana kişi ? 
+46001020b	hany		Töwrady öwredýän hany ? 
+46001020b	kim		Kim Oňa maslahat berip bildi ? » Emma bizde welin Isa Mesihiň akyly bardyr .
+46001020c	hany		Bu döwrüň alymy hany ? Eýsem Hudaý dünýä danalygynyň akmaklykdygyny görkezmedimi ?
+46002011	~		Ynsanyň pikirlerini onuň içindäki öz ruhundan başga hiç kim bilmeýär . Hudaý babatda hem şeýle : Onuň Öz Ruhundan başga hiç kim Hudaýyň pikirlerini bilýän däldir .
+46002016a	kim		« Rebbe kim akyl ýetirdi ? 
+46003005a	kim		Apollo kim ? 
+46003005b	kim		Pawlus kim ? Bular siziň Isa Mesihe iman getirmegiňize ýardam beren hyzmatçylar ahyryn . Rebbiň belleýşi ýaly , biziň herimiz öz işimizi ýerine ýetirdik .
+46004007a	~		Eýsem siz beýlekilerden üýtgeşikmi ? 
+46004007b	~		Siz özüňizdäkileriň baryny Hudaýdan almadyňyzmy näme ? 
+46004007c	näme üçin		Eger Ondan alan bolsaňyz , näme üçin özüňiz gazanan ýaly öwünýärsiňiz ? !
+46004021	haýsyny		Men size näme bilen baraýyn ? Gamçy bilenmi ýa-da söýgi we ýumşaklyk bilenmi ? Siz bularyň haýsyny saýlaýarsyňyz ?
+46005002	~		Siz bolsa öz-özüňize buýsanýarsyňyz ! Eýsem siz muňa derek ýas tutup , şeýle iş edýäni araňyzdan aýyrmaly dälmi ?
+46005012	näme		Eýsem biz ýygnaga degişli bolmadyklaryň üstünden höküm çykarmalymy näme ? Olaryň üstünden Hudaý höküm çykarar . Biz diňe ýygnaga degişli bolanlaryň üstünden höküm çykarmaly . « Siz öz araňyzdan pislik edýäni aýryp taşlaň » .
+46006001	näme üçin		Siz imandaky doganyňyz bilen dawalaşanyňyzda , näme üçin onuň meselesine kazyýetde imansyzlaryň öňünde garaýarsyňyz ? ! Eýsem siz muny Hudaýyň halkynyň öňünde çözmeli dälmi ?
+46006003	~		Eýsem siz biziň hatda perişdelere-de kazylyk etjekdigimizi bilmeýärsiňizmi ? Gündelik durmuşyň işleri barada gürrüň-de ýok !
+46006004	näme üçin		Şeýle dawalaryňyz bar bolsa , näme üçin olary ýygnaga degişli bolmadyklaryň kazylygyna tabşyrýarsyňyz ?
+46006007a	~		Aslynda biri-biriňiz bilen kazyýetde dawalaşmagyň özi siziň eýýäm ýeňlendigiňizi habar berýär . Eýsem haksyzlyga çydanyňyz gowy dälmi ? 
+46006007b	~		Talaňa çydanyňyz gowy dälmi ?
+46006009	~		Eýsem siz ýamanlyk edýänleriň Hudaýyň Şalygyny miras almajakdygyny bilmeýärsiňizmi ? Öz-özüňizi aldamaň ! Ne azgynlar , ne-de butparazlar , ne zynahorlar , ne-de erkekbazlar , ne beçebazlar ,
+46006016	~		Eýsem siz özüni loly bilen birikdireniň onuň bilen bir ten bolýandygyny bilmeýärsiňizmi ? Çünki Töwratda : « Ikisi bir ten bolýar » diýip ýazylgydyr .
+46006019	~		Eýsem siz öz bedeniňiziň Mukaddes Ruhuň ýaşaýan ybadathanasydygyny bilmeýärsiňizmi ? Siz bu Ruhy Hudaýdan aldyňyz . Siz diňe özüňiziňki dälsiňiz .
+46007016a	~		Hudaý bizi bilelikde parahat ýaşamaga çagyrandyr . Eý , aýal , belki , äriň sen arkaly halas ediler .
+46007016b	~		Eý , är , belki , aýalyň sen arkaly halas ediler .
+46009007a	~		Gullukdaky esgerler öz hasabyna ýaşaýarlarmy ? 
+46009007b	~		Eýsem miwesinden iýmejek bolsa , üzüm agajyny oturdýan barmy ? 
+46009007c	~		Süri bakyp-da , onuň süýdüni içmeýän barmy ?
+46009018	nämedir		Onda sylagym nämedir ? Hoş Habary hiç bir muzdsuz wagyz edip , onuň maňa berýän hak-hukugyndan peýdalanmazlyk meniň üçin sylagdyr .
+46010019a	~		Muny diýmek bilen , buta berlen gurbanlygyň ýa-da butuň özüniň haýsydyr bir ähmiýeti bar diýjek bolýarynmy ?
+46010019b	~		
+46010019c	~		
+46010029	Näme üçin		Men siziň ynsabyňyz däl-de , şol adamyň ynsaby barada aýdýaryn . Näme üçin başganyň ynsaby meniň erkinligime kazylyk edýär ?
+46010030	näme üçin		Eger men nahar iýmezden öň Hudaýa şükür edip , nahara goşulýan bolsam , onda näme üçin şükür edýän naharym üçin ýazgarylýarkam ?
+46011022	näme		Eýsem iýip-içmek üçin öz öýüňiz ýokmy ? Ýa-da siz Hudaýyň ýygnagyny äsgermän , garyplary kemsitmek isleýäňizmi ? Men muňa näme diýeýin ? Şeýle edýäniňiz üçin sizi taryplaýynmy ? Elbetde , ýok !
+46012017a	nädip		Eger bütin beden göz bolan bolsa , onda ol nädip eşiderdi ? 
+46012017b	nädip		Eger bütin beden gulak bolan bolsa , onda ol nädip ys alardy ?
+46012019	nirede		Eger agzalaryň bary haýsydyr bir agza bolan bolsa , onda beden nirede bolardy ?
+46014006	~		Eý , doganlar , men ýanyňyza baryp , nämälim dillerde gürlesem , ýöne aýanlyk , bilim , pygamberlik , ýa-da taglymat öwretmesem , meniň size peýdam degermi ?
+46014007	nädip		Mysal hökmünde jansyz saz gurallaryny : tüýdügi ýa-da arfany alyp göreliň . Eger olar tapawutly äheňde çalynmasa , haýsy mukamyň çalynýandygyny nädip saýgarjak ?
+46014008	~		Ýene-de bir mysal : eger surnaýyň çagyryş sesi aýdyň bolmasa , urşa taýynlanjak barmy ?
+46014009	kim		Siz babatda hem şeýledir . Eger-de siz dil arkaly aýdýanlaryňyz aýdyň bolmasa , size kim düşüner ? Bu diňe howaýy gürrüň eden ýalydyr .
+46014015	Näme		Näme etmeli ? Men ruhum bilen doga-dileg etsem , muny aňymda-da etjek . Men ruhum bilen nagma aýtsam , muny aňymda-da aýtjak .
+46014016	nädip		Eger sen Hudaýy öz kalbyňda şöhratlandyrsaň , seniň aýdýan zatlaryňa düşünmeýän adam şükürleriňe nädip « omyn » diýsin ? Ol seniň aýdýanlaryňa düşünmeýär ahyryn .
+46014026	nähili		Eý , doganlar , mundan nähili netije çykarsa bolar ? Siz bir ýere üýşeniňizde , her biriňizde nagma , öwüt sözi , aýanlyk , nämälim dillerde gürlemek ýa-da ony manylandyrmak bardyr . Goý , bularyň bary ýygnagy berkitmek üçin ulanylsyn .
+46014036	~		Hudaýyň sözi sizden çykandyr öýdýärsiňizmi ? Ýa-da ol diňe size baryp ýetdimi ?
+46015012	nädip		Biz Mesih direldi diýip wagyz edýäris . Onda siziň araňyzdan käbirleri nädip merhumlar direlmez diýip bilýär ?
+46015029a	~		
+46015029b	näme		Eger direliş ýok bolsa , merhumlara derek suwa çümdürilenler näme ederkä ? 
+46015029c	näme üçin		Eger merhumlar hiç haçan direlmejek bolsa , adamlar näme üçin olara derek suwa çümdürilýärkä ?
+46015030a	~		
+46015030b	näme üçin		Biz hem näme üçin özümizi sagatsaýyn howp astyna salýarkak ?
+46015032	näme		Eger-de meniň delillerim diňe ynsan delilleri bolan bolsa , men heý-de Efesdäki wagşy haýwanlar bilen göreşermidim ? Mundan näme peýda gazanardym ? Eger merhumlar direlmeýän bolsalar , « geliň , iýeliň , içeliň , ertir biz öleris ! »
+46015035a	nädip		Ýöne kimdir biriniň : « Merhumlar nädip direler ? 
+46015035b	nähili		Olar gaýdyp gelenlerinde bedenleri nähili bolarka ? » diýip soramagy mümkin .
+46015055a	hany		« Eý , ölüm , hany seniň ýeňşiň ? 
+46015055b	hany		Eý , ölüm , hany seniň zäherli neşderiň ? »
+47002002	kim		Eger men sizi gamlandyrýan bolsam , meni kim şatlandyrsyn ? Meniň gamlandyranlarymmy ? !
+47002016	~		Biz heläkçilik ýolundan barýanlar üçin ölüm ysy bolsak , gutulyş ýolundan barýanlar üçin ýaşaýyş müşki-anbarydyrys . Beýle işiň hötdesinden geljek asla ýokdur !
+47003008	~		onda Hudaýa Mukaddes Ruh arkaly hyzmat etmekligiň şöhraty ondan parlak dälmidir ? !
+47003009	~		Eger adamlary höküm edýän hyzmat şöhratly bolan bolsa , onda adamlary Hudaýyň nazarynda aklaýan hyzmatyň şöhraty ondan-da beýikdir .
+47006014a	näme		Iman etmedikler bilen bir boýuntyryga girmäň ! Dogrulygyň pislik bilen näme şärikligi bar ? 
+47006014b	näme		Ýa-da nur bilen tümlügiň näme umumylygy bar ?
+47006015a	~		Isa Mesih bilen şeýtanyň arasynda ylalaşyk , heý-de , bolup biljek zatmy ? 
+47006015b	näme		Imanly bilen imansyzyň näme şärikligi bar ?
+47006016	~		Hudaýyň ybadathanasy bilen butlaryň , heý-de , özara ylalaşygy bolarmy ? Çünki biz diri Hudaýyň ybadathanasydyrys . Hudaý : « Men olaryň arasynda mesgen tutaryn we olaryň arasynda bolaryn . Men olaryň Hudaýy , olar hem Meniň halkym bolarlar » diýipdi ahyryn .
+47011011	näme üçin		Eýsem men näme üçin size agram salmadym ? Sizi söýmeýändigim üçinmi ? Ýok , sizi söýýändigime Hudaý şaýatdyr .
+47011029a	kimdir		Kimdir biri ejizlände , men hem ejizlemeýärinmi ? 
+47011029b	kimdir		Kimdir biri günä iteklenende , ýürek-bagrym köýmeýärmi ?
+47012013	~		Men size beýleki ýygnaklardan kemter garadymmy ? Hä , hawa , men size agram salmadym-ow ! Bu « adalatsyzlygym » üçin meni bagyşlaweriň !
+47012017	nädip		Ýöne nädip ? Men ýanyňyza iberen adamlarym arkaly sizi heý-de öz bähbidim üçin işletdimmi ?
+48002014	näme üçin		Men olaryň edýän hereketleriniň Hoş Habaryň hakykatyna laýyk däldigini gördüm . Şonda men hemmeleriň öňünde Petrusyň ýüzüne gelip , şeýle diýdim : « Sen ýahudy bolsaň-da , ýahudylar ýaly ýaşamaýarsyň . Sen başga milletler ýaly ýaşaýarsyň . Onsoň sen näme üçin başga milletleri ýahudylar ýaly ýaşamaga mejbur edýärsiň ?
+48003001	kim		Eý , akmak galatýalylar ! Siziň gözüňizi kim baglady ? Men size Hoş Habary wagyz edenimde , haça çüýlenen Isa Mesihi hut öz gözüňiz bilen görýän ýalydyňyz ahyryn !
+48003019	nämä		Onda Mukaddes Kanun nämä gerek boldy ? Ol günäniň nämedigini görkezmek üçin goşmaça berlipdi . Kanun Hudaýyň wadasy we Ybraýymyň nesli bolan Mesih gelýänçä hereket etdi . Bu Kanun perişdeler arkaly töwellaçy Musanyň gatnaşmagynda berlipdi .
+48004009a	nädip		Indi bolsa siz Hudaýy tanaýarsyňyz , dogrusy , Hudaý tarapyndan tanalýansyňyz . Şundan soň siz nädip şol ejiz we ýaramaz ýörelgelere dolanýarsyňyz ? ! 
+48004009b	~		Ýa-da gaýtadan olaryň guly bolmak isleýärsiňizmi ?
+48004010	~		Siz dini baýramlara : mukaddes günlere , Täze Aý baýramlaryna , pasyl baýramlaryna we ýyllara üns berýärsiňiz ahyryn !
+48004015	näme		Indi ol şatlygyňyza näme boldy ? Meniň özüm diri şaýat ahyryn : siz eliňizden gelse , öz gözüňizi hem oýup , maňa berjekdiňiz-ä !
+48004021	~		Eý , Mukaddes Kanuna görä ýaşamakçy bolýanlar ! Men şuny soramakçy : eýsem siz Töwratda ýazylany bilmeýäňizmi ?
+48004030	näme		Emma Mukaddes Ýazgylar näme diýýär ? « Gyrnagy ogly bilen bile çykaryp kow . Gyrnagyň ogly azat aýaldan doglan ogul bilen mirasy paýlaşmaz » .
+48005007a	kim		Siz şeýle oňat gadam urýardyňyz ahyryn . Sizi hakykata ynandyrmajak bolup , kim siziň gadamyňyza badak saldy ?
+48005007b	~		
+48005011	näme üçin		Eý , doganlarym ! Eger men heniz-de sünnetlenilmäni wagyz edýän bolsam , onda men näme üçin yzarlanýarkam ? ! Eger dogrudan-da şeýle bolýan bolsa , onda Isanyň haçy babatdaky wagzym büdreme daşy bolmazdy .
+49004009	nämäni		Eýsem « çykanda » diýen söz nämäni aňladýar ? Bu Mesihiň ilki aşak — ýer ýüzüne inendigini aňlatmaýarmy näme ?
+50001018	näme		Edenlerinde näme ? ! Her nähili bolsa-da , isle betpällikden , isle-de ýagşy niýetden , barybir olar Isa Mesihi wagyz edýärler . Men muňa begenýärin . Hawa , gaýta-gaýta begenerin ,
+50001021	~		Çünki meniň üçin ýaşaýyş Mesihdir , ölüm-de bähbitlidir .
+51002020	näme üçin		Siz Mesih bilen ölüp , bu pany dünýäniň ýörelgelerinden azat bolduňyz . Onda näme üçin henizem bu dünýä degişli ýaly , « Muňa galtaşma » , « Muny iýme » , « Muňa el degirme » diýen ynsan kadalaryna eýerýärsiňiz ?
+52002019	kimdir		Biziň umydymyz we şatlygymyz kimdir ? Rebbimiz Isa gelende Onuň öňünde guwanjak täjimiz kimdir ? Siz dälmisiňiz ? Elbetde sizsiňiz !
+52003009	näçe		Biz Hudaýymyzyň öňünde siz sebäpli örän şatlandyk . Siziň üçin Hudaýa näçe şükürler aýtsagam azdyr !
+54003005	~		Sebäbi öz öýüni dolandyryp bilmeýän adam , heý-de Hudaýyň ýygnagynyň aladasyny edip bilermi ? !
+54006007a	~		Çünki biz dünýä hiç zat getirmedik . 
+54006007b	~		Ondan hiç zat äkidip bilmejegimiz hem mese-mälimdir .
+58001005	haýsy		Eýsem Hudaý perişdeleriň haýsy birine : « Sen Meniň Oglumsyň , bu gün Men Saňa Ata boldum » ýa-da « Men Oňa Ata , Ol bolsa Maňa Ogul bolar » diýipdir ?
+58001013	haýsy		Hudaý haýsy perişdä : « Duşmanlaryňy aýak astyna salýançam , Meniň sagymda otur » diýipdir ?
+58001014	~		Şeýlelikde , ähli perişdeler diňe halas boljaklara hyzmat etmek üçin iberilýär .
+58002003	~		Indi biz şundan soň halas bolmagyň bu ajaýyp ýoluny inkär etsek , onda heý-de jezadan halas bolup bilerismi ? Halas bolmagyň bu ýoluny owal-başda Reb yglan etdi we muny Isa Mesihiň hut Özünden eşidenler tassykladylar .
+58002006a	näme		Tersine , Mukaddes Ýazgylaryň bir ýerinde şeýle şaýatlyk edilýär : « Adam näme Sen ony ýatlaryň ýaly ? 
+58002006b	näme		Ynsan ogly näme aladasyny ederiň ýaly ?
+58003016	kimlerdi		Onuň sesini eşidibem pitne turzanlar kimlerdi ? Eýsem bular Musanyň Müsürden çykaranlary dälmidi ?
+58003017	kime		Hudaý kyrk ýyllap kime gazaplandy ? Günä edenlere dälmi näme ? Olaryň jesetleri çölde serildi .
+58003018	kimler		Hudaý : « Olar dynçlyk mekanyma girmezler » diýip , kimler hakda kasam etdi ? Özüne tabyn bolmaýan adamlar hakda dälmi näme ?
+58006004	~		Kim öň bir gezek Hudaýdan nurlanyp , gögüň peşgeşini alandan soňam , şeýle hem Mukaddes Ruha şärik bolup , Hudaýyň Hoş Habarynyň ýagşylygyny dadyp , geljekki döwrüň gudratyny görenden soňam , Hudaýdan ýüz öwrüp , ýoldan çyksa , ony täzeden toba getirmek asla mümkin däl . Sebäbi ol adam Hudaýyň Ogluny gaýtadan haça çüýläp , ile ryswa edýändir .
+58007011	nämä		Şeýlelikde , eger kämillige lewi ruhanylygy arkaly ýetilýän bolsa , onda başga bir ruhanynyň gelmegi nämä gerekdi ? Mukaddes Kanuna görä , lewi tiresi ruhanylyk etmelidi , emma bu ruhanylyk arkaly hiç kim kämil bolup bilmeýärdi . Şonuň üçin hem Harun ýaly däl-de , Mäliksadyk ýaly ruhanynyň gelmegi gerekdi .
+58009014	~		Eger şeýle eden bolsalar , onda Mesihiň gany arkaly has-da beýik işler edip bolar ! Şeýdip , Mesih ebedi Ruhuň gudraty arkaly Özüni müýnsüz gurbanlyk hökmünde Hudaýa hödürledi . Onuň döken gany biziň wyždanymyzy ölüme eltýän işlerden päkleýär , şonda biz diri Hudaýa gulluk edýäris .
+58010001	~		Musanyň kanuny geljekki oňat zatlaryň özi däl-de , şol zatlaryň kölegesidir . Şu sebäpli Kanun her ýyl üznüksiz hödürlenen şol bir gurbanlyklar bilen Hudaýa sygynýanlary hiç haçan kämil edip bilmeýär .
+58010029a	~		Şeýle bolsa , Hudaýyň Ogluny aýak astyna salana ondan-da agyr jezanyň garaşýandygyny göz öňüne getirip görüň ! 
+58010029b	~		
+58010029c	~		Mesihiň äht gany bilen päklenip , 
+58010029d	niçik		soňam muny murdar hasaplaýanyň we merhemet Ruhuny ryswa edýäniň haly niçik bolar ?
+58011032	näme		Başga ýene näme aýdaýyn ? Gidegon , Barak , Şimşon , Ýeftah hakda , Dawut , Şamuwel we beýleki pygamberler hakda gürrüň bermäge wagtym ýok .
+58012007	haýsy		Terbiýelenmekde çydamly boluň . Çünki Hudaý sizi Öz perzentleri kimin terbiýeleýär . Eýsem , haýsy ogla atasy terbiýe bermeýär ?
+58012009	~		Mundan başga-da , bize terbiýe beren dünýewi atalarymyz bardy , biz olara hormat goýýarys . Eger şeýdýän bolsak , ruhy Atamyza has-da berk tabyn bolup ýaşamaly dälmi ?
+58012025	~		Üns beriň , özüňize gepleýän Hudaýdan ýüz öwürmäň ! Özlerine ýerde Gepläni ret edenlerinde , gaçyp gutulyp bilmedik bolsalar , onda biz gökde Gepländen ýüz öwräýsek , jezadan asla gutulmajakdygymyz mese-mälim görnüp dur ahyry .
+58013006	näme		Şoňa görä-de , biz ynam bilen şeýle diýýäris : « Reb — tarapdarym , men gorkmaýaryn , ynsan maňa näme edip bilsin ? » .
+59002006	~		Emma siz garyplary masgara edýärsiňiz . Ýogsam size sütem edýän baýlar dälmi ? Sizi kazyýete süýreýän hem şolar dälmi ?
+59002014	näme		Eý , doganlarym ! Araňyzdan biri « imanym bar » diýibem , ony oňat işler bilen görkezmese , munuň näme peýdasy bar ? ! Beýle iman ony halas edip bilermi ? !
+59002016a	~		
+59002016b	nämä		siz oňa iýmit , geýim bermän , diňe : « Sag-aman bar , daşyňyň ýylap , garnyňyň doýmagyny dileýärin » diýseňiz , bu sözüňiz oňa nämä derkar ?
+59002018	~		Käbiriniň : « Seniň imanyň bar , meniň bolsa oňat işlerim » diýmegi mümkin . Emma men aýdýaryn , hany , oňat işler etmezden maňa imanyňy görkez , men hem saňa imanymy oňat işlerim arkaly görkezeýin !
+59002021	~		Atamyz Ybraýym gurbanlyk sypasynda öz ogly Yshagy hödürlemek bilen aklanmadymy eýsem ?
+59003013	~		Araňyzda dana hem parasatly adam barmy ? Eger bar bolsa , goý , ol muny dogry durmuşy we danalykdan çykýan pespälligi bilen bitiren oňat işlerinde görkezsin .
+59003017	~		Emma gökden inen danalyk ilki bilen päklikdir , soňra parahatlyk söýüjilikdir , mylaýymlyk we özara ylalaşyklykdyr . Ol merhemetden we haýyrly işlerden doludyr . Şeýle danalyk tarapgöýlik we ikiýüzlülik etmeýär .
+59004001a	nireden		Araňyzdaky çaknyşykly gowgalar we dawa-jenjeller nireden döreýär ? Kalbyňyzda söweş edýän pis höwesleriňizden dälmi ?
+59004001b	~		
+59004012	kim		Emma Kanun Çykaryjy we Kazy birdir , Ol halas etmegi-de , heläk etmegi-de başarýandyr . Başga adamlara kazylyk eder ýaly , sen kim bolupsyň ?
+59004014	näme		Ertir näme boljagyny nireden bilýärsiňiz ? ! Siziň ömrüňiz näme ? Ol az salym görnüp , soňra ýitirim bolýan säher çygy ýalydyr .
+60002020	näme		Eger eden nädogry işiňiz üçin ýenjilmelere döz gelýän bolsaňyz , bu size näme hormat getirer ? Emma ýagşylyk edibem ýene ejir çekseňiz we muňa çydasaňyz , Hudaý mundan has köp razy bolar .
+60003013	kim		Ýagşylyk etmäge jan etseňiz , size kim ýamanlyk eder ?
+60004017	näme		Çünki hökümiň Hudaýyň maşgalasyndan başlanmaly wagty gelip ýetdi . Höküm öňürti bizden başlansa , onda Hudaýyň Hoş Habaryna tabyn bolmaýanlaryň soňy näme bolar ?
+60004018	niçik		Eger dogry adam zordan halas bolýan bolsa , onda hudaýsyzyň we günäkäriň ahwaly niçik bolar ?
+61003004	Hany		Olar : « Hany , Rebbiň geljekdigi barada beren wadasy ? Ata-babalarymyz ölenden bäri hemme zat owal-başda nähili ýaradylan bolsa , şonuň ýaly hem dur » diýip ýaňsylarlar .
+61003011	nähili		Ähli zat şeýdip dargajak bolsa , onda siziň nähili adamlar bolmagyňyz gerek ? Hudaýyň gününe garaşyp , ony çaltlandyryp , Hudaýyň päk ýörelgesine eýermegiňiz gerek . Ol gün asman ýanyp ýok bolar , asman jisimleri ýanyp erär .
+62002022	kim		Onda ýalançy kim ? Isanyň Mesihdigini inkär edýän adam ýalançydyr . Ol Mesihiň duşmanydyr ! Ol Atany-da , Ogly-da inkär edýär .
+62003012	näme üçin		Şeýtana degişli bolup , öz doganyny öldüren Kabyl ýaly bolmalyň . Kabyl ony näme üçin öldürdi ? Sebäbi öz eden işleri pislikdi , doganynyňky bolsa dogrudy .
+62003017	~		Dünýä malyna baý bolup , doganyny mätäçlikde görende , oňa ýüregi awamaýan adamda , heý-de , Hudaýyň söýgüsi bolup bilermi ?
+62004020	~		Kim « Hudaýy söýýärin » diýip hem , öz doganyny ýigrenýän bolsa , ol ýalançydyr . Özüniň görüp duran doganyny söýmeýän adam görmedik Hudaýyny söýüp bilmez ahyry .
+62005005	kim		Eýsem dünýäni kim ýeňip biler ? Elbetde , Isanyň Hudaýyň Ogludygyna iman edýän adam ýeňip biler !
+66005002	kim		Soňra güýçli bir perişdäni gördüm . Ol batly sesi bilen : « Düýrlenen kagyzyň möhürlerini döwmäge , ony açmaga kim mynasyp ? » diýip soraýardy .
+66006010a	haçan		Olar batly ses bilen gygyryp : « Eý , mukaddes we hakyky Reb ! Sen ýer ýüzüniň ilatyny haçan höküm etjek ? 
+66006010b	haçan		Biziň ganymyzy olardan haçan sorajak ? » diýip soradylar .
+66006017	~		Çünki Olaryň gazabynyň güni ýetip geldi . Muňa döz geljek barmy ? »
+66007013a	kim		Onsoň ýaşululardan biri menden : « Bu ak lybasa beslenenler kim , 
+66007013b	nireden		nireden gelipdirler ? » diýip sorady .
+66013004a	~		Adamlar aždarha sežde etdiler , sebäbi ol öz ygtyýaryny jandara beripdi . Olar : « Jandara taý geljek barmy ? 
+66013004b	~		Oňa garşy urşup biljek barmy ? » diýip , oňa hem sežde etdiler .
+66015004a	~		Ýa Reb , Senden gorkmajak barmy ? Adyňa şöhrat aýtmajak barmy ? Çünki mukaddes ýeke-täk Sensiň ! Ähli milletler huzuryňa gelerler , Olar Saňa sežde ederler . Çünki adalatly hökümleriň aýan boldy » .
+66015004b	~		
+66017007	Näme		Perişde maňa şeýle diýdi : « Näme geň galýarsyň ? Aýalyň , onuň atlanyp barýan ýedi başly we on şahly jandarynyň syryny men saňa aýdaýyn .
+66018018	~		şäheriň ýangynynyň tüssesini görenlerinde : „ Bu şähere taý geljek şäher barmydy ? “ diýerler .

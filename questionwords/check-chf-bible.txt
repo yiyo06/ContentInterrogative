@@ -1,0 +1,743 @@
+40002002	Cada		U c'atänob ca'da : ― ¿ Cada an jini rey tuba aj judíosob , jini apäncäbiba ? Uc'a jinq'uin ya'to anon täj cab t'ocob acä chäni t'ocob jini ajlucero que u ye'e' cache' apäncäbiba . Jin uc'a aton cä sacän t'ocob tuba cä ch'u'ul c'ajti'in t'ocob .
+40002004	cada		De ya'i aj Herodes u yäq'ui tä jo'can upete u yajnojajob pale taj judíosob y machcatac u ye'e' ni ley taj Moisés tuba u c'atbenob cada u xe tä päncäban jini aj Cristo .
+40003007	Caxca		Jinq'uin u chäni aj Juan cache' q'uen aj fariseojob y aj saduceojob , jini ajt'äbälajob tuba aj judíosobba , u c'ote bajca an une tuba c'ablacob u yälbijob ca'da : ― ¡ Anela malojetla ca' a wälä u ch'ocobetla chan ! ¿ Caxca u yälbetla cache' c'änä a putz'tanla ni castigo que u xe u yäq'ue' Dios ji'patba ?
+40005013	cua'		’ Anelaba ca' atz'ametla pancab . Atz'am u yäq'ue' mach sätic we'e . Anelaba ca' atz'ametla uc'a mach säticob gente pancab . Si ni atz'am sätic u ch'och'an , ¿ cua' t'oc u ch'och'escan cua' chichca ? Mach ni' utz tuba niump'e cua' une . U chojcan päti tuba xac'äjte'cac .
+40005046	~		Uc'a si a yajna'tan sec' machca u yajna'tanet namásba , ¿ u xe quira u yäc'benet a matän Dios uc'a a chi ca' jini ? Mach une . Ixta ajcojtaq'uinob täcä , ni mäx malojobba , ca' jini u chenob täcä .
+40005047	~		Si a wäc'ben u c'aba' Dios sec' jini machca a bisan bij t'oc , mach'an niump'e cua' a chenla jiq'uin que otrosjob mach bay u chejob . Uc'a ixta ni gente que mach u totoj ch'u'ul c'ajti'i Diosba che' chich u chenob ca' jini täcä .
+40006027	Caxca une		¿ Caxca une u ch'e' u täm'esan yoc si u bon älben täm'ac ? Niuntu mach u ch'ä u täm'esan ni tz'ita' .
+40006028	cua' uc'a		’ ¿ Cua' uc'a tä' a chen pensala cada a xe a ch'e' a bucla ? Tic ta' c'ajalinla cache'da u ch'ije ni rosa ya'an tä campoba . Mach u che patanob . Mach u jälä noc'ob .
+40006031a	cua'		Mach a chen pensala jiq'uin ca'da : “ ¿ Cua' jini wäre cä xe cä c'uxe'la ? 
+40006031b	cua'		¿ Cua' jini wäre cä xe cuch'enla ? 
+40006031c	cada		¿ Cada wäre cä xe cä ch'e'la cua' cä xoje' täjcac'ola ? ”
+40007003	cua' uc'a		¿ Cua' uc'a a wäle' que mach utz cua' u chen a lot jinq'uin mäx tz'ita' u säte'ba , y ane mach a wäc'be aba cuenta que ayan a noj q'uenel tanä ? Es ca' a wälä ya'an yoc p'i' p'os tan u jut y noj gran te' tan a jut aneba .
+40007004	~		Mach u ch'ä a wäle' : “ Cä lot , la'ix cä pa'säbenet ni p'os tan a jut ” si aneba ya'an noj gran te' tan a jut .
+40007009	~		’ Caba winic de anelaba , si a wajlo' u c'atbenet waj , ¿ a xe quira a wäc'ben ump'e ji'tun ?
+40007016a	~		T'oc lo que u chenobba , a xe a wina'tanla caxcatac une . Ca' chich ni uva mach utuq'uinti tuyac'o te' chäcch'ix , 
+40007016b	~		che' chich täcä u jut tzajäla u c'aba' higoba mach utuq'uinti tuyac'o bäläna .
+40008026	Cua' uc'a		Aj Jesús u yälbijob ca'da : ― ¿ Cua' uc'a bäc'tetla ? ¿ Mach to quira a totoj tz'onäla ? De ya'i ch'oyi . U q'uejpi ic' y nab . Laj ch'ijcäbi upete .
+40008027	caba		Ni winicob u bixe nämte' t'ocba tajch'icwäni u jutob , u yäle'ob ca'da : ― ¿ Caba winic wäre jinda ixta ic' y nab u tz'omben u t'an ?
+40008029	Cua'		U chijob noj t'an u yäle'ob ca'da : ― ¿ Cua' atet a cherbenon t'ocob , aneba Jesús , u yajlo'et Dios ? ¿ Atet quira wida tuba a tz'ibajtesanon t'ocob antes de c'otic u q'uini ?
+40009004	cua' uc'a		Aj Jesús yuwi chich cua' an tu c'ajalinob . U yälbijob ca'da : ― ¿ Cua' uc'a u te ta' c'ajalinla cua' chichca jini mach utz ?
+40009005	Caxcamba		¿ Caxcamba jiq'uin más u ch'e' älbintic : “ A tanä alaj cherbintet perdona ” , o älbintic : “ Ch'oyen , chen xämba ” ?
+40009011	cuaxca uc'a		Jinq'uin u chänijob aj fariseojob ca' jini , u yälbijob u yajcänt'anob aj Jesús ca'da : ― ¿ Cuaxca uc'a u c'uxnan a maestrola t'oc ajcojtaq'uinob y ajcherajtanäjob ?
+40009014	cua' uc'a		C'oti u yajcänt'anob aj Juan u yälben aj Jesús ca'da : ― ¿ Cua' uc'a no'on t'ocobba y aj fariseojob mach unnum cä chen su'q'uin t'ocob , y a wajcänt'anobba mach u chejob ?
+40009015	~		Aj Jesús u yälbijob ca'da : ― ¿ U ch'e' quira ajnic ch'oc u pixanob machcatac ya'an bajca an lotojan jinq'uin ajlotojan ya'to an bajca anob ? U xe tä c'ote q'uin jinq'uin ajlotojan u xe tä pase bajca anob . Jinq'uintoba u xe u ch'e' u chen su'q'uinob . Ca' jini , jinq'uin ya'to anon t'oc cajcänt'anob , mach u ch'ä u chen su'q'uinob . Pero cuanta bixonba , u xe u chen su'q'uinob .
+40010025	~		Tic ta' c'ajalinla jiq'uin cache' jini u cherbinte untu maestro , che' chich u xe tä cherbinte u yajcänjun täcä . Jini u cherbinte u yum patan , che' chich u xe tä cherbinte u yajpatan täcä . Si ajnoja tuba ump'e otot u yälbinte cache' t'oc u poder tzuc pixan ayan , más u xe tä c'ac'a' älbinte u ch'ocob .
+40011007	Cua'		Jinq'uin bixe to u chenob ni ajc'äncan que u täsqui aj Juanba , aj Jesús u täq'ui u yälbenob ni gente cache'da an aj Juan . U yäle' ca'da : ― ¿ Cua' ajnet a chänenla bajca mach cuxu niuntu ? ¿ Untz'it oj quira que yumajtan t'oc ic' ? Aj Juan mach ca' jini .
+40011008	Cua'		¿ Cua' une jiq'uin ajnet a chänen ? ¿ Untu winic quira t'oc u noj pitzil buc tä' choj u valor ? Aj Juan mach ca' jini . Si a wo a wiran ni machcatac u c'äne' u buc tä' choj u valorba , ya'an une tan yotot reyjob .
+40011009	Cua'		¿ Cua' une jiq'uin apaset a chänenla ? ¿ Untu ajt'an ta Dios quira ? Jin chich une . Cälbenetla cache' mero totoj ajt'an ta Dios chich aj Juan .
+40011016	cua'		’ ¿ Cua' jini cä xe cäle' tuba cälbenetla cache'da an upete ni machcatac cuxu pancab badaba ? Es ca' ni bijch'oc tä alas que u chumtä tänxin caj y u chen noj t'an u yälben u lot ca'da :
+40012011	caba		Aj Jesús u p'albijob ca'da : ― Caba winic de anela que u cänäntan untu yoc oveja si yälic tama ch'en tu q'uini ch'ämbäji , ¿ mach quira uxin u pa'sen jinchichba q'uin ?
+40012026	cache'da		Si aj Satanás u pa'sen aj Satanás , ca' jini une chich u jeq'ue' uba . Si ca' jini u chenba , ¿ cache'da u xe u ch'e' u chen segui de ajmanda tuba ni tzuc pixanob ?
+40012027	ca		Si no'on cä pa'sen tzuc pixan t'oc u poder aj Beelzebú , ¿ ca t'oc u poder jiq'uin u pa'senob a wajcänt'anla ane ? Unejob jiq'uin u xe u yäle' camba ni u toja .
+40012029	Cache'da		’ ¿ Cache'da a wäle'la jiq'uin ? ¿ U ch'e' quira ochic ajxuch' tama u yotot untu winic mäx q'uen u muc'ba sin que mach u cäche' najtäcä u yum jini otot ? Si u cäche' najtäcäba , u ch'e' u xuch'ben upete lo que u cänäntan .
+40012034	cache'da		Anela ca' a wälä yoco chanetla . Si ca' jini ayanetla , mach'an cache'da a wäle'la cua' chichca utz uc'a malujetla . Uc'a ca' chich an tan cä c'ajalinla , che' chich cäle' t'oc cä ti'la .
+40012048a	caxca une		U yubi aj Jesús jini u yälbiba , y u p'albi ca'da : ― ¿ Caxca une cä na' , 
+40012048b	caxca une		y caxca une ni quitz'inob ? Jindajob chich .
+40013010	cua' uc'a		De ya'i u natz'ijob u yajcänt'anob , u yälbijob ca'da : ― ¿ Cua' uc'a a wälbenob ni gente u t'an Dios t'oc tz'aji que mach cheque cua' u yäle' ?
+40013027	cua' uc'a		U yajpatanob ni winic u yum päc'äbiba c'otijob u yälben ca'da : “ Cajnoja , ¿ mach quira a päq'ui yajän trigo tan a cab ? ¿ Cua' uc'a jiq'uin aweti tzuc bänäla täcä ? ”
+40013054a	cada		Tu c'ote tu cabba , u ye'e' u t'an Dios tama u ch'ujob ni aj judíosob ya'i . Tajch'icwäni u jutob u yubinob u t'an y u yäle'ob ca'da : ― ¿ Cada u c'ac'a' ch'i ni c'ajalin jini ? 
+40013054b	caxca		¿ Caxca u yäc'bi poder u chen jini que mach bay uchänintiba ?
+40013056	Cada		¿ Mach quira nämte' t'oc no'onla täcä la'anob jitz'inob ixictac ? ¿ Cada jiq'uin u c'ac'a' cäni upete cua' chichca que u chen ?
+40014031	cua' uc'a		Jinchichba rato jini , aj Jesús u sätz'i u c'äb u q'ueche' , u yälben ca'da : ― ¿ Cua' uc'a asujlet tä bäc'tan ? ¿ Mach quira a totoj tz'onä ?
+40015002	cua' uc'a		― ¿ Cua' uc'a a wajcänt'anob aneba mach u chejob ca' chich u yäq'uijob tä ute oni ni ajt'äbälajob tuba aj judíosob ? Uc'a a wajcänt'anobba mach u poco u c'äb tu xe tä c'uxnanob ca' chich u yäq'ui tä ute ni ajt'äbälajob .
+40015003	cua' uc'a		Aj Jesús u p'ali , u yälbijob ca'da : ― ¿ Cua' uc'a anelaba mach a tz'ombela u t'an Dios uc'a a tz'onän a chenla ni u yäq'ui tä ute ajt'äbälajob oniba ?
+40015033	Cada		De ya'i u yajcänt'anob u p'ali , u yälbijob ca'da : ― ¿ Cada cä xe cä ch'e' t'ocob noj q'uenel waj tuba u na'esan ni noj q'uenel genteda ? Wida mach'an otote .
+40015034	Jäyp'e		Aj Jesús u yälbijob ca'da : ― ¿ Jäyp'e waj a cänäntanla ? Unejob u yäli : ― Sec' siete waj namás , y tz'ita' yoc buch' .
+40016008	cua' uc'a		Yuwi chich aj Jesús cua' an tu c'ajalinob . U yälbijob ca'da : ― ¿ Cua' uc'a a chen pensala uc'a mach a täsila waj ? ¿ Mach to quira a totoj tz'onäla ?
+40016009	jäyp'e		¿ Mach to quira uta ta' c'ajalinla cache' ayan cä poder cä chen cua' chichca ? ¿ Mach quira ni' c'aja ac'ala cache' u chi pasa t'oc ni cinco waj que c'uxnesqui t'oc cinco mil winicob , y jäyp'e chach u colob a ch'uch'ila ?
+40016010a	~		¿ Mach quira ni' c'aja ac'ala täcä cache' u chi pasa t'oc ni siete waj que c'uxnesqui t'oc cuatro mil winicob , 
+40016010b	jäyp'e		y jäyp'e chach u colob a ch'uch'ila ?
+40016011	~		Mach uyoch ta' c'ajalinla lo que mu' cälbenetla . Jini cälbetla ca'da , que mach a ch'e'la ni jusonib ta waj que u c'äne'ob aj fariseojob y aj saduceojob , mach uc'a mach a täsila waj cälbetla ca' jini .
+40016013	caxcajon		Jinq'uin c'oti aj Jesús tama ni caj u c'aba' Cesarea Filipo , u c'atbi u yajcänt'anob ca'da : ― ¿ Cache'da u yäle' ni gentejob caxcajon , no'on que sutwänon de winic ?
+40016015a	~		De ya'i aj Jesús u c'atbijob tä cha'num ca'da : ― Y anelaba , 
+40016015b	caxcajon		¿ caxcajon a wäle'la ?
+40016026a	cua'		¿ Cua' u pa'se untu winic si u c'ac'a' mote' pancab q'uen cua' chichca utz tuba cuxlec y de ya'i sätic u pixan ? 
+40016026b	cache'da		Sätic u pixanba , mach'an cache'da u ch'e' u japän , ni t'oc noj q'uenel taq'uin .
+40017010	cua' uc'a		De ya'i u yajcänt'anob u c'atbijob ca'da : ― ¿ Cua' uc'a jiq'uin u yäle'ob jini que tä' yuwijob ni ley taj Moisésba cache' c'änä tic aj Elías najtäcä ?
+40017017a	caxti amba q'uni		Aj Jesús u p'ali , u yäli ca'da : ― ¡ Anela que ya'anetla pancab bada , mach a tz'onäla y mach tu toja a c'ajalinla ! Ixta caxti amba q'uin cä xe tä ajtä t'oc anela . 
+40017017b	caxti amba q'uni		Ixta caxti amba q'uin c'änä ajnic sis cä c'ajalin t'oc anela . Täsen wida ni ajc'ojpan .
+40017019	cua' uc'a		C'oti sec' u bajnimajob u yajcänt'anob aj Jesús u yälben ca'da : ― ¿ Cua' uc'a no'on t'ocob mach cä chi trebe cä pa'säben t'ocob ni tzuc pixan tuyac'o ?
+40017025a	cache'		Aj Pedro u yäli : ― U toje' chich une . Ochi tama ni otot bajca an aj Jesús . Mach to u yälbe cua' jinq'uin aj Jesús u yälbi ca'da : ― ¿ Cache' a wäle' ane , Simón ? Ajmandajob pancab , 
+40017025b	caxcatac		¿ caxcatac u yäc'ben u toje' ni taq'uin que u ch'uch'inte tuba gobiernoba ? ¿ U ch'ocob quira o ni mach jin u ch'ocobba ?
+40018001	Caxca une		Jimba q'uin jini u yajcänt'an aj Jesús u natz'ijob u yälben ca'da : ― ¿ Caxca une u xe más ajnoja bajca u chen manda ni Dios ya'an tä cieloba ?
+40018012	cache'		’ ¿ Cache' a wäle'la ? Si untu winic u cänäntan cien ovejas y si sätic untuba , ¿ mach quira uxin u yäctan ni noventa y nueve u juntuma tu pam tz'ic tuba bixic une u sacän jini asätiba ?
+40018021	jäynum		De ya'i aj Pedro u natz'i aj Jesús , u yälbi ca'da : ― Cajnoja , ¿ jäynum c'änä cä chen perdona cä lot jinq'uin u säte' t'oc no'on ? ¿ Ixta siete vez quira ?
+40019007	cua' uc'a		De ya'i aj fariseojob u yälbijob täcä ca'da : ― ¿ Cua' uc'a jiq'uin aj Moisés u yäli cache' machca u waläctan jit'oc c'änä u yäq'ue' tä tz'ibinte ump'e jun bajca u yäle' cache' atotoj waläctinti ni ixic jini ?
+40019016	Cua'		De ya'i c'oti untu winic bajca an aj Jesús u yälben ca'da : ― Maestro , utz a c'ajalin une . ¿ Cua' une ni utzba que c'änä cä chen tuba äc'binticon paq'uin cuxlecon ?
+40019017	cua' uc'a		Aj Jesús u p'albi ca'da : ― ¿ Cua' uc'a a wälbenon cache' utz cä c'ajalin ? Mach'an niuntu utz u c'ajalin seq'uen Dios une . Pero si a wo ochiquet bajca a xe tä paq'uin ajtä cuxu , chen ca' chich u yäle' u manda Dios .
+40019018	catac		Une u yäli : ― ¿ Catac anba ? Aj Jesús u yälbi : ― Mach a chen tzämsa . Mach a sacän a tz'ijte' . Mach a chen xuch' . Mach a sube' a lot t'oc jop'ojti' .
+40019020	Caxcamba		Jini ch'oc winic u yälbi ca'da : ― Upete ni jini cä chen chich ca' u yäle' , desde p'i'on to . ¿ Caxcamba jiq'uin u chen falta ta cä chen ?
+40019025	Caxca une		U yajcänt'anob aj Jesús , jinq'uin u yubi cua' u yäli , tajch'icwäni u jutob u yubin , u yäle'ob ca'da : ― ¿ Caxca une jiq'uin u ch'e' u japän uba ?
+40019027	Cua'		De ya'i u p'ali aj Pedro , u yälbi aj Jesús ca'da : ― Iranba , no'on t'ocobba cä laj äcti upete lo que cä cänänti t'ocob y cä tzäypätet t'ocob . ¿ Cua' une jiq'uin cä xe tä äc'binte t'ocob uc'a cä chi ca' jini ?
+40020006	cua' uc'a		Ump'e hora yo tuba chajcac ajpatan , pasi cha'num jini winic . U nuc'ti tä cha'num otros ajpatanob que mach'an cua' u chen . U yälbijob ca'da : “ ¿ Cua' uc'a ya'anetla wida entero q'uin sin patan ? ”
+40020012	~		U yälbijob ca'da : “ Jini ajpatanobdaba sec' ump'e hora u chi patanob , y ane a toji ca' chich a tojon t'ocob , y no'on t'ocobba cä chi patan t'ocob entero q'uin , tan noj ticäw q'uin ” .
+40020021	Cua'		Une u yälbi : ― ¿ Cua' a wo ? Ni ixic u yäli ca'da : ― Co que a'ben ni cä ch'ocobda chunwänicob ta' ch'ejpa bajca a xe de ajmanda , untu ta' noj y untu ta' tz'ej .
+40020032	Cua'		De ya'i tajwa'wäni aj Jesús . U joq'uíjob , u yälbenob ca'da : ― ¿ Cua' a wo cä cherbenetla ?
+40021010	caba		Jinq'uin oche u chen tama caj tä Jerusalén , a'ajtäjob tama ni caj jini u jobi ubajob , u yäle' ca'da : ― ¿ Caba winic ni jinda ?
+40021016	cua'		Unejob u yälbi aj Jesús ca'da : ― ¿ Mach quira a ubi cua' mu' u yäle'ob ? Aj Jesús u p'albijob : ― Mu' chich cubin . Mach quira bay to a tziquila ane bajca u yäle' ca'da : Ane a wäc'bi u ch'u'ul c'äye' a c'aba' bijch'oc ixta ni mu'to u chu'nanba .
+40021020	Cache'da		Jinq'uin u chäni u yajcänt'anob , tajch'icwäni u jutob u yäle'ob ca'da : ― ¿ Cache'da tiqui seb ni te' higo ?
+40021023a	Caxcaba		C'oti aj Jesús tama ni noj ch'u'ul otot u ye'e' u t'an Dios ya'i . C'otijob täcä u yajnojajob pale y noxibilbajob tuba caj u yälbenob ca'da : ― ¿ Caxcaba poder a cänäntan tuba a chen ane ca' jini ? 
+40021023b	caxca une		¿ Caxca une u yäc'bet ni poder jini tuba a chen ca' jini ?
+40021025a	caxca une		Jini c'ablesia que u chen aj Juanba , ¿ caxca une u yäc'bi u chen ? 
+40021025b	~		¿ Dios quira o winicob pancab ? Unejob ti tu c'ajalinob u maläc äle'ob ca'da : ― Si cälbenla cache' Dios u yäc'bi u chen , une u xe u yälbenonla ca'da : 
+40021025c	cua' uc'a		“ ¿ Cua' uc'a jiq'uin mach a tz'ombila ? ”
+40021028	Cache'da		Aj Jesús u yälbijob täcä ca'da : ― Cache'da a wale'la jiq'uin t'oc ni t'anda cä xe cäle'ba : Ajni untu winic que u cänänti cha'tu u yajlo' . U pequi ni yajlo' u nojaba , u yälbi ca'da : “ Cä ch'oc , corre bada tä patan tama u caba cä päc'äbi ” .
+40021031	Caxcamba		¿ Caxcamba de ni cha'tu ajlo' jini u chi ca' chich u yoli u pap u chen ? Unejob u yäli : ― Ni ajnojaba . Aj Jesús u yälbijob ca'da : ― Totojtoj cälbenetla cache' ajcojtaq'uinob y jini ixictacob u nume u sacän u tz'ijte'obba más u xe u ch'e' ochicob bajca u chen manda ni Dios ya'an tä cieloba , y mach anela .
+40021040	cua'		Tu xe tä te jiq'uin u yum ni u caba päc'äbi , ¿ cua' a wäle'la u xe u cherbenob najpatanob jini ?
+40022012	cua' uc'a		U yälbi ca'da : “ Cä lot , ¿ cua' uc'a ochet ane wida sin que a q'uexe' aba ca' tuba xiquet ca'an lotojanba ? ” Ni winicba mach u pojli cache' u p'alän .
+40022017	cache'da		Älbenon t'ocob jiq'uin , ¿ cache'da a wäle' ane ? ¿ Utz quira cä tojben t'ocob aj César ni derecho u chen cobraba , o mach utz ?
+40022018	cua' uc'a		Aj Jesúsba yuwi chich cua' an tan u c'ajalinob , u yälbijob ca'da : ― Anela ajsusuccheriajetla , ¿ cua' uc'a a sacänla cache' a'benonla cä säte' ?
+40022020a	caxca		Aj Jesús u c'atbijob ca'da : ― ¿ Caxca u jut ya'an tuyac'o , 
+40022020b	caxca		y caxca u c'aba' ya' tz'ibi tu pamba ?
+40022028	caxcamba		Tu xe tä cuxpan ajchämejob jiq'uin , ¿ caxcamba de ni sietejob jini u xe tä colan de mero jit'oc ni ixic , uc'a upetejob laj ajni chich de jit'ocob ?
+40022036	camba		― Maestro , ¿ camba ni u manda Dios ni más c'änä cä tz'onänlaba , jini ya' tz'ibi tama u junba ?
+40022042a	cache'da		― ¿ Cache'da a wäle'la ane , caxca une naj Cristo jini u yaqui Dios tuba ajnojaba ? 
+40022042b	caxca		¿ Caxca u yajlo' ? Aj fariseojob u p'ali ca'da : ― U yajlo' aj David une .
+40022043	cua' uc'a		Aj Jesús u yälbenob : ― ¿ Cua' uc'a jiq'uin ni Ch'u'ul Pixan u yäc'bi u yäle' aj David cache' u Yajnoja ? Uc'a aj David u yäli ca'da :
+40022045	cache'da		Bada jiq'uin , si aj David u yälben aj Cristo cache' u Yajnoja , ¿ cache'da a wäle'la jiq'uin cache' u yajlo' ?
+40023017	Camba		¡ Ajsinc'ajalinetla y ajchoq'uetla ! ¿ Camba más utz , ni c'änc'än taq'uin , o ni noj ch'u'ul otot que u yäq'ue' ch'u'ul ajnic ni c'änc'än taq'uin que u yälo tama tuba äc'bintic Dios ?
+40023019	Caxcamba		¡ Ajsinc'ajalinetla y ajchoq'uetla ! ¿ Caxcamba jiq'uin más utz , u matän Dios , o jini alta que u yäq'ue' ch'u'ul ajnic jini matän que u yäc'can tu pamba tuba äc'bintic Dios ?
+40023033	cache'da		’ ¡ Ca' a wälä noj chanetla ! ¡ U ch'ocobetla chan ! Mach'an cache'da a xe a chen trebe a japän aba t'oc ni noj toji'tanä tan c'ac' tä infierno .
+40024003a	caxca q'uin		Jinq'uin ya' chumca tu pam ni noj tz'ic u c'aba' Olivasba , u natz'i u yajcänt'anob u c'atbenob u juntuma ca'da : ― Älbenon t'ocob , ¿ caxca q'uin u xe u chen pasa ni a wäliba ? 
+40024003b	cua'		¿ Cua' jini u xe tä chäncan uc'a wina'tintic cache' ya' a te , y cache' atz'äcti q'uin tuba xupic u pancab ?
+40024045	Caxcaba		’ ¿ Caxcaba ajpatan jiq'uin , que u paq'uin chen ca' chich u yälbinte u chen , y an u c'ajalin ? Jin une u yum otot u yäc'bi tu c'äb upete cua' chichca tuba u yäc'ben cua' u c'uxe' ni otros ajpatanob tu horäji .
+40025037	caxca q'uin		De ya'i ni machcatac an tu tojajobba u xe u yäle'ob ca'da : “ Cajnoja , ¿ caxca q'uin cä chänet t'ocob a na'ti jitz'o y cä'bet t'ocob cua' a c'uxe' ? ¿ O a na'ti tiquin ti'a y cä'bet t'ocob cua' a wuch'en ?
+40025038	caq'uin		O ¿ caq'uin cä chänet t'ocob ca' untu ajpäpä'cab y coset t'ocob tan cotot ? ¿ O sin buc y cä'bet t'ocob a buc ?
+40025039	caq'uin		O ¿ caq'uin cä chänet t'ocob c'ojo o tä cárcel y ajnon quiranet t'ocob ? ”
+40025044	caxca q'uin		Unejob täcä u xe u p'alän ca'da : “ Cajnoja , ¿ caxca q'uin cä chänet t'ocob a na'tan jitz'o , a na'tan tiquin ti'a , o numet de ajpäpä'cab o ajnet sin buc , ajnet c'ojo , o tä cárcel , y mach cä cherbet t'ocob lo que c'änä cherbintiquet ? ”
+40026008	cua' uc'a		Jinq'uin u chäni u yajcänt'anob cua' uti , cäräx'ijob , u yälijob ca'da : ― ¿ Cua' uc'a cräx uti ni jätzäcnib jini ?
+40026010	cua' uc'a		Yuwi chich aj Jesús cua' mu' u yäle'ob , u yälbijob ca'da : ― ¿ Cua' uc'a a jaq'uesben ujin ni ixicda ? Tä' utz ni cua' u cherbonba .
+40026015	Jäyp'e		U yälbijob ca'da : ― ¿ Jäyp'e a wo a wäc'benonla tuba cä'benetla ta' c'äb aj Jesús ? Unejob u tzicbi treinta säsäc taq'uin .
+40026017	Cada		Primer q'uin de ni q'uin ch'uje , jini q'uin que u c'uxe'ob ni waj sin jusonibba , u natz'i u yajcänt'anob aj Jesús u yälbenob ca'da : ― ¿ Cada a wo cä tuse' t'ocob tuba a c'uxe' ni cua' tä c'uxcan ta paxcu' ?
+40026040	~		De ya'i sujli bajca an u yajcänt'anob , y u chänijob cache' mu' u wäye . U yälbi aj Pedro ca'da : ― ¿ Niump'e hora mach a chi trebe a wäybetanla t'oc no'on ?
+40026050	cua'		Aj Jesús u yälbi ca'da : ― Cä lot , ¿ cua' a t'an atet ane ? De ya'i c'oti noj q'uenel gente u juli uba tuyac'ojob aj Jesús y u q'uechijob .
+40026054	cache'da		Pero si ca' jini , ¿ cache'da jiq'uin a wäle'la que u xe tä tz'äctan tä ute jini worin tz'ibi tama u jun Dios cache' c'änä tz'ibajtescaconba ?
+40026062a	cache'		Wa'wäni mero no' ajnoja pale , u yälben aj Jesús ca'da : ― ¿ Mach a pojle cache' a xe a p'alän ? 
+40026062b	cache'		¿ Mu' a ubin cache' mu' u yäle'ob tuba u sube'etob t'oc ?
+40026065	cua' tuba		Jinq'uin u yubi ca' jini , ni mero no' ajnoja pale u tzili u buc de cräxle u yäle' ca'da : ― Tanä chich uc'a u yäli cache' mero u Yajlo' Dios . ¿ Cua' tuba c'änä cäc'ala más machca u sube' ? Iranla jiq'uin bada , anela chich a ubila u tanä .
+40026066	cache'		¿ Cache' a wäle'la ane ? Unejob u p'ali : ― C'änä chich tzämsintic une .
+40026068	Caxca une		U yälbenob ca'da : ― Ane que a wäle' cache' aj Cristojet , pa'sen ta' c'ajalin caxca une u cunet .
+40027004	Cua'		U yälbenob ca'da : ― Ump'e noj tanä chich acä chi , cäq'ue' tä tzämsinte untu que mach u chi u tanä . Unejob u p'albijob ca'da : ― ¿ Cua' päq'uin täc'a t'ocob ? ¿ Caxto une u chet manda a chen ca' jini ?
+40027013	cua'tac		De ya'i aj Pilato u yälbi ca'da : ― ¿ Mach quira a ubi cua'tac u yäle'ob tuba u sube'etob ?
+40027017	Caxcamba		Jinq'uin moto ayanob ni gente , aj Pilato u yälbijob ca'da : ― ¿ Caxcamba winic a wo cä chajbenetla , aj Barrabás o aj Jesús , ni u yälbinte aj Cristoba ?
+40027021	Caxcamba		De ya'i u yäli tä cha'num ni gobierno ca'da : ― ¿ Caxcamba de ni cha'tujobba a wola cä chajbenetla ? Ni gente u yälijob ca'da : ― Aj Barrabás co t'ocob a chajbenon t'ocob .
+40027022	Cuaxca		Aj Pilato u yälbijob ca'da : ― ¿ Cuaxca cä xe cä chen jiq'uin t'oc jini aj Jesús ni u yälbinte aj Cristoba ? Upete u p'alijob ca'da : ― ¡ Tzämsintic tä cruz !
+40027023a	~		Ni gobierno u yäli : 
+40027023b	caba		― ¿ Caba tanä jiq'uin u chi ? Unejob u chi más muc' noj t'an , u bon äle'ob ca'da : ― ¡ Tzämsintic tä cruz !
+40027046	cua' uc'a		Jinq'uin ochiq'uin aj Jesús u chi noj gran t'an , u yäle' ca'da : ― Elí , Elí , ¿ lama sabactani ? ― ni t'andaba ca'da u yäle' une : Cä Dios , cä Dios , ¿ cua' uc'a a waläcton ?
+41001024	Cua'		― ¿ Cua' atet a cherbenon t'ocob , Jesús , aneba que a cab tä Nazaret ? ¿ A xe quira a säte'on t'ocob ? No'on cuwi chich machcajet aneba . Ch'u'ul Ajlo'et ta Dios .
+41001027	Cua'		Upetejob tajch'icwäni u jutob y u maläc äle'ob ca'da : ― ¿ Cua' jini mu' u chen pasa ? ¿ Cua' tzijib t'an jini mu' u ye'can ? Ni winicda ayan u poder tuba u chen manda ni tzuc pixan y u tz'ombenob .
+41002007a	cua' uc'a		“ ¿ Cua' uc'a u yäle' ca' jini ? Mach utz u yäle' ca' jini , uc'a mu' u chen uba ca' Dios . 
+41002007b	~		Uc'a niuntu mach u ch'ä u chen perdona tanä , sec' Dios namás ” .
+41002008	cua' uc'a		Aj Jesúsba yuwi chich cua' mu' u yäle'ob tan u c'ajalin , jin uc'a u yälbijob ca'da : ― ¿ Cua' uc'a a wäle'la cua' chichca tan a c'ajalinla ?
+41002009	Caxcamba		¿ Caxcamba jiq'uin más u ch'e' cälben ni ajc'ojpan : “ A tanä a'uti perdona ” , o cälben ca'da : “ Ch'oyen , ch'ä a ch'a'lib , y corre cux ” ?
+41002016	cua' uc'a		Jinq'uin ni machca u ye'e'ob ni ley taj Moisés , y aj fariseojob , u chäni cache' aj Jesús mu' u c'uxnan nämte' t'oc ajcherajtanäjob y ajcojtaq'uinob ta caj u yälbi u yajcänt'anob ca'da : ― ¿ Cua' uc'a ni a maestrola u c'uxnan y u buc'a nämte' t'oc ajcojtaq'uinob ta caj y ajcherajtanäjob ?
+41002018	cua' uc'a		U yajcänt'anob aj Juan y tuba aj fariseojob u chenob su'q'uin . Jin uc'a tulaj c'otijob u yälbenob aj Jesús ca'da : ― ¿ Cua' uc'a u yajcänt'anob aj Juan y tuba aj fariseojob u chenob su'q'uin y a wajcänt'an ane mach u chejob ?
+41002019	~		Aj Jesús u p'albijob : ― ¿ U ch'e' quira u chenob su'q'uin jini machcatac ya'an can lotojan jinq'uin ni ajlotojan ya'an nämte' t'oc unejob ? Uc'a jinq'uin ya'an ni ajlotojan nämte' t'oc unejobba , mach u ch'ä u chen su'q'uinob .
+41002024	cua' uc'a		Jinq'uin u chänijob aj fariseojob ca' jini , u yälbijob ca'da : ― Ubixto , ¿ cua' uc'a u chenob ca' jini a wajcänt'anob , jini que mach utz utic tu q'uini ch'ämbäji ?
+41003004	cua'		De ya'i u c'atbijob ni gente ca'da : ― ¿ Cua' une u ch'e' utic tu q'uini ch'ämbäji , ni cua' chichca utzba o ni cua' chichca mach utzba ? ¿ Tz'äcälcac untu o tzämsintic untu ? Pero unejobba mach u p'alijob cua' .
+41003023	Cache'da		De ya'i aj Jesús u pequijob y u yälbijob ca'da : ― ¿ Cache'da u ch'e' u jule' uba aj Satanás tuyac'o mismo aj Satanás ?
+41003033a	caxca une		Aj Jesús u p'albijob : ― ¿ Caxca une ni cä na' , 
+41003033b	caxca une		y caxca une ni quitz'inob ?
+41004013	Cache'da		Aj Jesús u yälbijob täcä : ― ¿ Mach quira a che entendela ni tz'ajida ? ¿ Cache'da jiq'uin a xe a chen entendela los demás tz'aji ?
+41004030a	cuaxca		Aj Jesús u yälbijob täcä ca'da : ― ¿ Cuaxca jini u c'ote t'oc u manda Dios ? 
+41004030b	cua'		¿ Cua' tz'aji u ch'e' cäle' cache'da an u manda Dios ?
+41004038	cache'		Aj Jesúsba ya'an tu pam jucub tä wäye , ya' ch'a'a tu pan c'änjo . De ya'i u yajcänt'anob u p'isíjob , u yälbijob ca'da : ― ¡ Maestro ! ¿ Mach quira a chäne cache' acä chen tä jomela ?
+41004040a	cua' uc'a		De ya'i aj Jesús u yälbi u yajcänt'anob ca'da : ― ¿ Cua' uc'a tä' bäc'tetla ? 
+41004040b	cua' uc'a		¿ Cua' uc'a mach a totoj tz'onäla ?
+41004041	Caxca une		Y unejob tajch'icwäni u jutob de bac'ät , y cayi u yäle'ob tan u c'ajalin ca'da : ― ¿ Caxca une wäre ni winicda , que ixta ic' y nab u tz'omben u t'an ?
+41005007	Cua'		U chi noj t'an , u yäle' ca'da : ― ¿ Cua' atet a cherbenon , Jesús , Ajlo'et tuba ni Dios ya'an isquiba ? Cä cocoj älbenet por Dios que mach a tz'ibajtesanon .
+41005009	Cua'		Aj Jesús u c'atbi ni tzuc pixan : ― ¿ Cua' a c'aba' ? Ni tzuc pixan u p'ali : ― Aj Legión cä c'aba' , uc'a q'uenon t'ocob .
+41005030	Caxca une		Aj Jesúsba ti tu c'ajalin cache' u tz'äcäli untu t'oc u poder , jin uc'a u suti u jut tu pat u chänen ni gente , u c'atän ca'da : ― ¿ Caxca une u täli cä buc ?
+41005031	caxca		De ya'i u yajcänt'anob u yälbijob ca'da : ― Mu' a chänen que q'uen ni gente u net'e'et , ¿ y ane a c'atän caxca u tälet ?
+41005035	~		Ya'to an tä t'an aj Jesús t'oc ni ixic jini , c'oti untu winic que ya' ati tu yotot ni ajnoja tuba ni ch'uj tuba aj judíosob . C'oti u yälben u pap ni yoc ixoc ca'da : ― A yoc ixoc san chämi . Mach a ni' jaq'uesben ujin ni noxi' winic .
+41005039a	cua' uc'a		Aj Jesús ochi tan otot y u yälbijob ca'da : ― ¿ Cua' uc'a ju'lawjetla tä uq'ue ? Ni yoc ixocda mach chämen . Wäye u chen .
+41005039b	~		
+41006002a	cada		Tu q'uini ch'ämbäji u täq'ui u ye'e' u t'an Dios tama ch'uj taj judíosob . Tajch'icwäni u jut ni gente u yubinob , y u yäle'ob ca'da : ― ¿ Cada wäre u cäni ni winicda upete jini u ye'e'ba ? 
+41006002b	caxca une		¿ Caxca une wäre u yäc'bi jini c'ajalin ? 
+41006002c	caxca une		¿ Caxca une u yäc'bi poder tuba u chen jini que mach bay uchänintiba ?
+41006022	~		De ya'i jixic ch'oc ix Herodías ochi tä ac'ot bajca an ni gente tä c'uxnan . Jini ac'ot tä' utz yäli tu c'ajalin aj Herodes y ni gente ya'an tä c'uxnan t'ocba . Aj Herodes u yälbi ni telom ca'da : ― C'atän lo que a wo , y cä xe chich cä'benet .
+41006024	Cua'		Ni telom bixi u yälben u na' ca'da : ― ¿ Cua' jini cä c'atän ? Ni ixic u yälbi : ― C'atän äc'bintiquet u pam aj Juan ajc'ablesia .
+41006037	~		Aj Jesús u yälbijob ca'da : ― Äc'benla ane cua' u c'uxe' . Unejob u p'ali : ― Si cä mäne' t'ocob doscientos taq'uin ni u yälbinte cache' denarioba de puro waj mach u yäc'ä tuba c'uxnac upete .
+41006038	Jäyp'e		Aj Jesús u yälbijob : ― ¿ Jäyp'e waj a cänäntanla ane ? Corre iranla . Jinq'uin u jirijob jäyp'e waj ya'an , u yälbijob ca'da : ― Cinco waj y cha'tu buch' cä cänäntan t'ocob .
+41007005	cua' uc'a		De ya'i ni aj fariseojob y jini u ye'e' ni ley taj Moisés u yälbijob ca'da : ― ¿ Cua' uc'a a wajcänt'an mach u che ca' chich u yäle' ni ajt'äbäla que utic y u c'uxnanob sin que u poque' u c'äb ?
+41008004	cache'da		U yajcänt'anob u p'ali ca'da : ― ¿ Cache'da u ch'e' c'uxnescac ni genteda wida bajca mach cuxu niuntu ?
+41008005	Jäyp'e		Aj Jesús u c'atbijob : ― ¿ Jäyp'e waj a cänäntanla ane ? Unejob u p'ali : ― Siete waj .
+41008012	cua' uc'a		Aj Jesús u sapi ic' , y u yäli ca'da : ― ¿ Cua' uc'a u c'atän ni genteda ump'e seña que mach bay uchänintiba tuba u chänenob ? Totojtoj cälbenetla que mach uxet tä äc'bintela niump'e seña tuba a chänenla .
+41008017	cua' uc'a		Aj Jesúsba yuwi chich cua' mu' u yäle'ob y u yälbi ca'da : ― ¿ Cua' uc'a a wäle'la que mach a täsi wajla ? ¿ Mach to quira uyoch ta' c'ajalinla y mach to a che entendela ? Tä' tzätz a pamla .
+41008018a	~		¿ Mach quira a chäne t'oc a jutla ? 
+41008018b	~		¿ Y mach quira a ubi t'oc a chiquinla ? ¿ Mach quira a ni' c'ajti'ila täcä ?
+41008019	jäyp'e		Jinq'uin cä puqui cinco waj tuba c'uxnacob cinco mil winicob , ¿ jäyp'e chach a ch'uch'ila de u colob ? Unejob u p'ali : ― Doce chach .
+41008020	jäyp'e		― Jinq'uin cä puqui siete waj tuba cuatro milobba , ¿ jäyp'e chach a ch'uch'ila de u colob ? Unejob u p'ali : ― Siete chach .
+41008021	~		De ya'i u yälbijob : ― ¿ Mach to quira a laj che entendela cache' ayan cä poder ?
+41008023	~		De ya'i u q'uechbi tu c'äb ni ajchoc' , u pa'si tama caj . U ch'i u tub u tatz'bi tu jut , y u yäc'bi u c'äb tu jut , y u c'atbi si u chänen tz'ita' .
+41008027	Caxcajon		Ji'pat de ni jini aj Jesús bixi t'oc u yajcänt'anob tama ni cajob tä Cesarea tä Filipo . Bixe to u chen tä bij u c'atbi u yajcänt'anob ca'da : ― ¿ Caxcajon u yäle' ni gente ?
+41008029a	~		De ya'i u c'atbijob tä cha'num ca'da : ― ¿ Anelaba , 
+41008029b	caxcajon		caxcajon a wäle'la ? Aj Pedro u p'ali : ― Aneba aj Cristojet , que u täsquet Diosba .
+41008036	Cua'		¿ Cua' u pa'se untu winic si u c'ac'a' mote' pancab q'uen cua' chichca tuba cuxlec utz , y de ya'i sätic u pixan ?
+41008037	Jäyp'e		¿ Jäyp'e u ch'e' u toje' untu winic tuba u japän u pixan ?
+41009010	cua'		Jin uc'a mach u tz'ayquijob cua' u chänijob , pero u maläc c'atänob cua' jini u yäli , que u xe tä cuxpan tan ajchämeba .
+41009011	cua' uc'a		De ya'i u c'atbijob aj Jesús ca'da : ― ¿ Cua' uc'a u yäle' jini que u ye'e'ob ley taj Moisésba cache' aj Elías u te najtäcä ?
+41009012	cua'		Une u p'albijob : ― Toj chich que aj Elías u xe tä te najtäcä . U xe u laj äq'ue' tu toja upete cua' chichca . ¿ Cua' u yäle' jini t'an ta Dios tz'ibiba , cache' cä xe cä chen pasa no'on que sutwänon de winicba ? Ni t'an jini u yäle' cache' cä xe tä tz'ibajtescan y cache' mach uxin u sapänonjob .
+41009016	Cua'		Une u c'atbijob ca'da : ― ¿ Cua' jini mu' a wäle'la ?
+41009019a	ca ti q'uin		Aj Jesús u p'albi : ― Anela mach a tz'ombela u t'an Dios . ¿ Ixta ca ti q'uin cä xe tä ajtä t'oc anela ? 
+41009019b	cax ti amba q'uin		¿ Ixta cax ti amba q'uin c'änä ajnic sis cä c'ajalin t'oc anela ? Täsenla wida jini ajlo' .
+41009021	jäyp'e q'uin		De ya'i aj Jesús u c'atbi u pap ni ajlo' jäyp'e q'uin u cänäntan que u q'uechi jini yaj . U pap ni yoc ajlo' u p'ali : ― Desde p'i' to .
+41009028	cua' uc'a		De ya'i aj Jesús ochi tama ump'e otot y u yajcänt'anob u c'atbijob u juntuma ca'da : ― ¿ Cua' uc'a mach cä chi trebe cä pa'sen t'ocob jini tzuc pixan ?
+41009033	Cua'		De ya'i c'otijob tama ni caj tä Capernaum . Jinq'uin ya'anob tama ump'e otot , aj Jesús u c'atbijob ca'da : ― ¿ Cua' jini a maläc äle'la jinq'uin a tela tä bij ?
+41009050	cache'da		Ni atz'amba utz chich une . Pero si sätic u ch'och'anba , ¿ cache'da u ch'e' u ch'och'esan cua' chichca ? Ajniquetla jiq'uin ca' atz'am , y cuxlequetla ch'ijcab a c'ajalinla t'oc upete a lotla .
+41010003	Cache'da		Une u p'albijob ca'da : ― ¿ Cache'da u yälbetla aj Moisés ?
+41010017	Cua'		Jinq'uin aj Jesús u chi segui xämba tutz'i untu winic t'oc noj ancäre y c'oti tä nocyälo tu yoc . U c'atben ca'da : ― Maestro , utz a c'ajalin . ¿ Cua' u ch'e' cä chen tuba paq'uin cuxlecon ?
+41010018	Cua' uc'a		Aj Jesús u p'albi : ― ¿ Cua' uc'a a wälbenon cache' utz cä c'ajalin ? Niuntu mach'an utz u c'ajalin , seq'uen Dios une .
+41010026	Caxca une		Jinq'uin u yubijob ca'da , más tajch'icwäni u jutob , y cayi u maläc c'atben u lotob ca'da : ― ¿ Caxca une jiq'uin u ch'e' u japän uba ?
+41010036	Cua'		Une u c'atbijob : ― ¿ Cua' a wo cä cherbenetla ?
+41010051	Cua'		Aj Jesús u yälbi ca'da : ― ¿ Cua' a wo cä cherbenet ? Jini ajchoc' u p'ali : ― Maestro , co que a tz'äcälin cä jut .
+41011003	cua' uc'a		Machca chichca u c'atän : “ ¿ Cua' uc'a a p'äne'la ? ” , älbenla cache' Ajnoja c'änä uc'a , y ji'pat u xe u sutatz'än .
+41011005	Cua'		Jini machcatac ya'anob ya'iba u yälbijob ca'da : ― ¿ Cua' a chenla ? ¿ Cua' uc'a a p'äne'la jini tzimim ?
+41011028a	caxcone		U c'atbijob ca'da : ― ¿ Caxcone u yäc'bet poder tuba a chen upete jini a chenba ? 
+41011028b	caxcone		¿ Caxcone u yälbet a chen ca' jini ?
+41011030	Caxca une		¿ Caxca une u täsqui aj Juan u chen c'ablesia , Dios quira o winicob ? Co que a wälbenonla .
+41011031a	~		De ya'i u täq'ui u maläc äle'ob ca'da : ― Si cäle'la cache' Dios , u xe u p'albenonla ca'da : 
+41011031b	cua' uc'a		“ ¿ Cua' uc'a jiq'uin mach a tz'ombila ? ”
+41012009	Cua'		De ya'i aj Jesús u yälbijob : ― ¿ Cua' a wäle'la u xe u chen u yum ni u caba päc'äbi jini ? Cäle' que u xe tä te , u xe u tzämsen ni ajpatanob jini y u xe u yäc'ben u caba jini päc'äbi otros ajpatanob .
+41012015	Cua' uc'a		Aj Jesúsba yuwi chich cua' an tu c'ajalinob , y u yälbijob ca'da : ― ¿ Cua' uc'a a sacänla cache' a wäc'benon cä säte' ? Täsenla wida ump'e taq'uin uc'a cä chänen .
+41012016a	caxca		Unejob u yäc'bijob . Jinq'uin u chäni aj Jesús jini taq'uin , u c'atbijob ca'da : ― ¿ Caxca u retrato ni jinda , 
+41012016b	caxca		y caxca u c'aba' ya' tz'ibi tuyac'o ? Unejob u p'ali : ― Tuba aj César .
+41012023	caxcamba		Tu xe tä cuxpanob jinq'uin u xe tä cuxpan ajchämejobba , ¿ caxcamba de ni siete winicob jini u xe tä colan de jit'oc ? Uc'a upetejob laj ajni chich de jit'oc .
+41012028	Camba		C'oti täcä bajca an aj Jesús untu jini que u ye'e' ni ley taj Moisés , y u yubi cua' jini mu' u yäle'ob t'oc aj Jesús , y u yubi täcä cache' u p'ali tu toja . Y une u c'atbi ca'da : ― ¿ Camba ni manda más c'änä cä tz'onänla que u yäq'ui Diosba ?
+41012035	can uc'a		Aj Jesús ya'an u ye'benob u t'an Dios tama noj ch'u'ul otot , u yälbenob ca'da : ― ¿ Can uc'a u yäle'ob ni machca u ye'e' ley taj Moisésba cache' aj Cristo u yajlo' aj David ?
+41012037	cache'da		Bada jiq'uin , ixta aj David u yälben aj Cristo cache' u Yajnoja . ¿ Cache'da a wäle'la jiq'uin cache' aj Cristo es u yajlo' aj David ? Ni noj q'uenel gente que ya'an bajca an aj Jesúsba u c'alin ubinob cua' u yäle' .
+41013004a	caq'uin		― Co que a wälbenon t'ocob caq'uin u xe tä ute ni a wäliba , 
+41013004b	cache'da		y cache'da u xe tä wina'tinte si ac'oti u q'uini tuba u chen pasa ca' jini .
+41014004	Cua' uc'a		Tulaj ajni ni ya'anob ya'iba que cäräx'ijob , y u maläc älijob ca'da : ― ¿ Cua' uc'a cräx uti ni jätz'äcnib jini ?
+41014006	~		Aj Jesúsba u yälbijob ca'da : ― Mach a ni' q'uejpanla ni ixic jini , y mach a ni' jaq'uesben ujinla . Uc'a ni jinda que u cherbonba , tä' utz une .
+41014012	Caxcada		Jini najtäcäl q'uin tuba ni q'uin ch'ujeba jinq'uin u c'uxcan ni waj sin jusonibba , y jinq'uin u tzämsinte ni ch'oc oveja tuba ni paxcu'ba , ni ajcänt'anob taj Jesús u c'atbijob ca'da : ― ¿ Caxcada a wo xicon cä tuse' t'ocob ni cua' tä c'uxcan ta paxcu' tuba cä c'uxe'la ?
+41014014	Caxcada		Bajca u xe tä oche , ochenla täcä , y älbenla u yum ni otot ca'da : “ Ni Maestro u yäle' ca'da : ¿ Caxcada an ni cuarto bajca cä xe cä c'uxe' ni cua' tä c'uxcan ta paxcu' nämte' t'oc cajcänt'anobba ? ”
+41014060a	cua' uc'a		De ya'i ni ajnoja ta pale wa'wäni tänxin ni gente , u yälbi aj Jesús ca'da : ― ¿ Cua' uc'a mach a p'alä niump'e cua' ? 
+41014060b	~		¿ Mach quira a ubi cua' mu' u sube'etob t'oc ?
+41014063	cua' tuba		De ya'i ni ajnoja ta palejob u xet'i u buc de cräxle u yäli ca'da : ― ¿ Cua' tuba cä sacänla machca u sube' ?
+41014064	cache'		Anela chich a ubila t'oc a chiquinla cache' u chen uba ca' Dios . ¿ Cache' a wäle'la ane ? Upetejob u yäli cache' c'änä tzämsintic .
+41015004	Cua' uc'a		De ya'i aj Pilato sutwäni u yälben ca'da : ― ¿ Cua' uc'a mach a p'alä niump'e cua' ? Iran cache' mäx q'uen cua' chichca mu' u sube'etjob t'oc .
+41015012	Cuaxca		De ya'i aj Pilato u c'atbijob ca'da : ― ¿ Cuaxca a wola cä chen t'oc jini a wälbenla cache' Ajnoja taj judíosobba ?
+41015014a	~		Aj Pilato u yäli : 
+41015014b	cuaxca		― ¿ Cuaxca tanä u chi ? Ni gente sujli u yäle' t'oc noj t'an tä cha'num : ― ¡ Baja tä cruz !
+41015034	Cua' uc'a		Jimba hora jini aj Jesús u chi noj t'an , u yäle' ca'da : ― Eloi , Eloi , ¿ lama sabactani ? ― ni t'andaba u yäle' ca'da : Cä Dios , cä Dios , ¿ cua' uc'a a waläctanon ?
+41016003	Caxca une		Tä bij u maläc äle'ob : ― ¿ Caxca une u xe u pa'sen ni ji'tun tu ti' mucliba ?
+42001018	cache'da		De ya'i aj Zacarías u chi t'an u yälben ni ángelo ca'da : ― ¿ Cache'da cä xe cuwina'tan si toj ni jini a wäle'ba ? Uc'a no'onba anoxibon y quit'oc täcä ach'upimi .
+42001034	Cache'		De ya'i ix María u yälbi ni ángelo ca'da : ― ¿ Cache' ti da u xe tä ute cua' a wäle'ba ? Uc'a no'onba mach'an quit'oc .
+42001043	Caxcajon		¿ Caxcajon no'onba tuba tiquet a chänenon , ane que a xe de u na' Cajnoja ?
+42001066	caba		Upete machcatac u laj ubijob cua'tac atz'ayquinti u muque' tan u pixanob . U maläc älijob ca'da : ― ¿ Caba winic wäreca u xe ni yoc ajlo' jini ? Uc'a Dios ayan t'oc ni yoc ajlo' jini u täclen t'oc u poder .
+42002048	Cua' uc'a		Jinq'uin aj José y u na' u chäni , c'äsbäc'tijob , y u na' u yälbi ca'da : ― Cä ch'oc , ¿ cua' uc'a a cherbon t'ocob ca' jini ? A pap y no'on c'ac'a' ch'ocomi cä pixan tuba cä sacänet t'ocob .
+42002049	Cua' uc'a		De ya'i aj Jesús u yälbi : ― ¿ Cua' uc'a a bon saconla ? ¿ Mach quira a wila cache' c'änä cä cherben u patan ni cä Pap ya'an tä cieloba ?
+42003007	Caxca		Q'uen gente bixijob tuba u c'ablesan aj Juan , y une u yälbijob ca'da : ― Anela ca' a wälä yal chanetla que u pase tä putz'e jinq'uin ya'an noj pule . ¿ Caxca wäreca u yälbetla que a putz'tanla ni toji'tanä que Dios u xe u yäq'ue'ba ?
+42003010	Cua'		De ya'i ni gente u c'atbijob ca'da : ― ¿ Cua' cä xe cä chen t'ocob jiq'uin ?
+42003012	cua'		C'otijob ajcojtaq'uinob tuba u c'ablesanob aj Juan , y u yälbijob ca'da : ― Cä Maestro , ¿ cua' c'änä cä chen t'ocob ?
+42003014a	~		Ni soldadojob täcä u c'atbijob ca'da : ― No'on t'ocobba , 
+42003014b	cuaxca		¿ cuaxca c'änä cä chen t'ocob ? Aj Juan u yälbijob ca'da : ― Mach a xuch'benla niuntu niump'e cua' . Mach a päpä' sube'la niuntu t'oc ni mach tojba . Ajnic ch'a'a ajinla t'oc lo que a tojcanla .
+42004034	Cua'		― Lo' , äctanon t'ocob . ¿ Cua' a xe a cherbenon t'ocob , Jesús aj nazarenojet ? ¿ Atet quira tuba a säte'on t'ocob ? No'on cuwi chich machcajet aneba . Ane Ch'u'ul Winiquet ta Dios .
+42004036	Cua'		Upetejob c'äsbäc'tijob y u maläc äle'ob ca'da : ― ¿ Cua' wäreca t'an u chen ni winic jini ? Une u chen manda tzuc pixanob t'oc poder y ca' untu totoj ajmandaba , y u tz'onänob chich pasic tuyac'o untu .
+42005021a	~		De ya'i jini machcatac u ye'e' ni ley que u tz'ibi aj Moisés , nämte' t'oc aj fariseojobba , u täq'uijob u yäle' tu c'ajalinob ca'da : “ Ni winic jini u päpä' chen uba cache' une ni Dios . 
+42005021b	~		U susuc äle' cache' u ch'e' u chen perdona u tanä untu ” .
+42005022	Cua' uc'a		Aj Jesús yuwi cua' mu' u yäle' tan u c'ajalinob , y u yälbi ca'da : ― ¿ Cua' uc'a a päpä' chen pensala ca' jini tan a pixanla ?
+42005023	Caxcamba		¿ Caxcamba quira más u ch'e' cälben ni ajc'ojpan , que u tanä a'uti perdona , o cälben que ch'oyic y u chen xämba ?
+42005030	Cua' uc'a		Jini machcatac u ye'e' ni ley que u tz'ibi aj Moisés y aj fariseojob u cäräx älbijob u yajcänt'anob aj Jesús y u yälbijob ca'da : ― ¿ Cua' uc'a a chenla ni mach utzba ? ¿ Cua' uc'a a c'uxnanla y a buc'ala t'oc ajcojtaq'uinob y ajcherajtanäjob ?
+42005033	Cua' uc'a		De ya'i unejob u yälbi ca'da : ― U yajcänt'anob aj Juan ayan q'uen q'uin que mach u buc'ob mach u c'uxnajob , u chenob c'änti'ya , y che' chich täcä u yajcänt'anob aj fariseojob . A wajcänt'anob aneba u c'uxnanob y u buc'ajob chich upete q'uin . ¿ Cua' uc'a a chenla ca' jini ?
+42005034	~		Aj Jesús u yälbijob ca'da : ― ¿ U ch'e' quira a wäc'benla mach c'uxnacob mach buq'uicob ajmajnintejob ca'an ump'e lotojan jinq'uin ya'to an ajlotojan t'oc unejob ? Mach une .
+42006002	Cua' uc'a		Yebe aj fariseojob u yälbijob ca'da : ― ¿ Cua' uc'a a chenla lo que ni ley taj Moisés u yäle' que mach u ch'ä utic tu q'uini ch'ämbäji ?
+42006009	~		De ya'i aj Jesús u yälbijob ca'da : ― Ump'e cosa cä xe cä c'atbenetla . ¿ U yäle' quira ni ley que u tz'ibi aj Moisés cache' c'änä cä chenla cua' chichca utzba tu q'uini ch'ämbäji , o ni mach utzba ? ¿ U yäle' quira tz'äcälcac untu uc'a mach chämic , o äctintic untu tä chämo ?
+42006032	cua'		’ Si anela a yajna'tanla machcatac u yajna'tanetla namásba mach jin cua' une ta'ala , uc'a ajmalujlejob u yajna'tanob chich täcä machcatac u yajna'tanob unejob .
+42006033	cua'		Si namás a cherbenla favor machcatac u cherbenetla favorba mach jin cua' une ta'ala , uc'a ca' chich jini u chenob täcä ajmalujlejob .
+42006034	cua'		Si namás a wäc'benla u majnanob cua' chichca jini machcatac que a wäle'la que u xe u sutjatz'benetla tä cha'numba , mach jin cua' une ta'ala . Ajmalujlejob täcä u yäc'ben u majnanob cua' chichca jini u lotob , uc'a u yäle'ob cache' u xe tä sutjatz'bintejob tz'äcä lo que u yäq'uijob tä majninte .
+42006039	~		Aj Jesús u yälbijob ump'e t'an täcä ca'da : ― ¿ U ch'e' quira untu ajchoc' u päyben u c'äb otro ajchoc' ? ¿ Mach quira u cha'tumajob u xe tä yälo tama ch'en ?
+42006041	Cua' uc'a		’ ¿ Cua' uc'a a wäle' cache' a chen trebe a chänen cache' tz'ita' u säte' a lot t'oc ump'e u tanä si ane mach a wäc'be aba cuenta cache' mäx malo cua' a chen aneba ? Es ca' a wälä tan u jut a lot ya'an unlip' yoc xixom p'os , y tan a jut aneba ca' a wälä ya'an untz'it noj re'i jäyte' .
+42006042	cache'		Ane mach u ch'ä a wälben a lot que a xe a täclen uc'a mach u ni' säte' si ane mach a wi cache' mäx malo cua' a chen aneba . Es ca' a wälä a wo a pa'säben jini xixom p'os que ya'an tan u jut , pero ane mach a chäne jini noj re'i jäyte' que ya'an tan a jut aneba . ¡ Aneba ajsusutcheriajet ! Najtäcä äctan a chen ni mach utzba tuba a chen tu toja y de ya'i a xe a chen trebe a täclen a lot u chen tu toja täcä . Es ca' a wälä najtäcä a pa'sen ane ni jäyte' tan a jut y de ya'i a xe a chen chanä utz tuba a chen trebe a pa'säben ni xixom p'os ya'an tan u jut a lotba .
+42006046	Cua' uc'a		’ ¿ Cua' uc'a a wälbenon cache' a wajnojalon y mach a che ca' chich cälbenet ?
+42007024	Cua'		Jinq'uin bixijob ni ajc'äncanob tuba aj Juan , aj Jesús u täq'ui u tz'aycäben ni gente de aj Juan ca'da : ― ¿ Cua' jini apaset a chänenla bajca mach cuxu niuntu ? ¿ Untu winic quira chap'e u c'ajalinba , ca' a wälä untz'it oj u nicän uba t'oc ni ic' ? Cälbenetla que mach .
+42007025	Cua'		¿ Cua' jini ajnet a chänenla jiq'uin ? ¿ Untu quira winic c'alin jele t'oc u buc finoba ? Cälbenetla que mach . Ubixto , machcatac u cänäntan u buc mäx pitziba y u numsen q'uin t'oc lo que u ch'a'alesben ujinba ya'anob tan yotot bajca cuxujob rey .
+42007026	Cua'		¿ Cua' jini ajnet a chänenla jiq'uin ? ¿ Untu quira ajt'an ta Dios ? Toj chich , y cälbenetla que uneba täcä es más ajnoja que untu ajt'an ta Dios .
+42007031a	cua'		De ya'i Cajnojala u yäli ca'da : ― ¿ Cua' une u ch'e' cäle' que ca' jini ayanob ni gente ayan pancab badaba ? 
+42007031b	cua'		¿ Cua' une u c'otejob t'oc ?
+42007042	~		Mach'an cua' t'oc u toje'ob y une u chi perdona u cha'tumajob . Älbenon jiq'uin caxcamba de unejob u xe u yajna'tan más ni u yum ni taq'uin .
+42007049	Caxcaba		Machcatac ya' chumca t'oc tä mesa u täq'uijob u maläc äle'ob ca'da : ― ¿ Caxcaba winic wäre ni jinda que u chen perdona täcä u tanä untu ?
+42008025a	cua' uc'a		Une u yälbijob ca'da : ― ¿ Cua' uc'a mach a tz'ombonla ? Unejob c'ac'a' bäc'tijob y ch'icwäni u jutob . U maläc äle'ob ca'da : 
+42008025b	Caxcaba		― ¿ Caxcaba winic wäreca ni jinda que ixta ic' y ja' u chen manda y u tz'omben u t'an ?
+42008028	Cuaxca		Jinq'uin u chäni aj Jesús , u chi awät y nocwäni tu pänte' u chen ump'e noj t'an u yäle' ca'da : ― ¿ Cuaxca a wo t'oc no'on , Jesús , ane u Yajlo'et ni mero Dios Ajnojaba ? Cä cocoj c'atbenet que mach a tz'ibajtesanon .
+42008030	cuaxca		Aj Jesús u c'atbi cuaxca u c'aba' . Une u yäli cache' aj Legión . Ca' jini u c'aba' uc'a q'uen tzuc pixanob ya'an tuyac'o .
+42008045	Caxca		De ya'i aj Jesús u yäli ca'da : ― ¿ Caxca u tälon ? Jinq'uin upete u yälijob que unejob mach u täli , aj Pedro y u lotob u yälijob ca'da : ― Cajnoja , mäx q'uen ni gente ya'anob junxoyma de ane u net'e'et , ¿ y aneba a c'atän caxca u tälet ?
+42009009a	caxca une		U yäli aj Herodes ca'da : ― No'on cäq'ui tä chunjätz'binte u pam aj Juan . ¿ Caxca une ni winic jini jiq'uin que acubin u chen cua' chichca jini ? Une tä' u yoli u chänen aj Jesús .
+42009009b	~		
+42009018	Caxcajon		Ji'pat ya'an aj Jesús tä c'änti'ya c'äsmucu y u yajcänt'anob ya'an t'oc une . Jinq'uin u tzupsiba , u c'atbijob ca'da : ― ¿ Caxcajon no'onba u yäle'ob ni gente ?
+42009020a	~		De ya'i u yälbijob ca'da : 
+42009020b	caxcajon		― ¿ Caxcajon a wäle' anelaba ? Aj Pedro u p'ali ca'da : ― Ane ni Cristojet , ni u yaquet Dios tuba ajmandaba .
+42009025	Cuaxca		¿ Cuaxca u pa'se t'oc untu winic si u laj chen gana upete cua' chichca ayan pancab , y uneba u nonoj säto u pixan ?
+42009041a	ca ti q'uin		U p'ali aj Jesús u yälben ca'da : ― ¡ Anela que ayanetla pancab badaba mach a tz'onäla cua' y mach utz cua' a chenla ! ¿ Ixta ca ti q'uin cä xe tä ajtä t'oc anela 
+42009041b	~		y ajnic sis cä c'ajalin t'oc anela tuba a tz'onänla ? Täsen a wajlo' wida .
+42010025	cua'		De ya'i untu winic machca yuwi leyba , wa'wäni u jiran cache' u p'alän aj Jesús uc'a u ch'e' u sube' . U c'atbi ca'da : ― Maestro , ¿ cua' c'änä cä chen tuba paq'uin cuxlecon ?
+42010026a	cua'		Aj Jesús u p'albi ca'da : ― ¿ Cua' une tz'ibi ayan tan ni ley ? 
+42010026b	cache'da		¿ Cache'da a tzique' ane ?
+42010029	Caxca une		Pero une mach u yoli u säte' t'oc u t'an y u yälbi aj Jesús ca'da : ― ¿ Caxca une ni cä lot ?
+42010036a	~		De u yuxtumajob de ni jinijobba , 
+42010036b	caxcamba		¿ caxcamba a wäle' ni mero u lot tuba ni jini u q'uechijob ajxuch'ba ?
+42011008	~		De ya'i u yäli aj Jesús ca'da : ― No'on cälbenetla que mach uxin tä ch'oye u yäc'ben ni waj aunque es u yamigo . Pero u xe chich tä ch'oye u yäc'ben cua' chichca c'änä uc'a , uc'a u bon c'atben .
+42011011	~		’ ¿ Si a wajlo' u c'atbenet u pa' wajba , a xe quira a wäc'ben ump'e ji'tun ? Mach une . ¿ Si u c'atbenet untu u pa' buch' , en lugar de buch'ba , a xe quira a wäc'ben untz'it chan ? Mach chich täcä .
+42011012	~		¿ O si u c'atbenet ump'e u pa' säctoc'ba a xe a súbben quira untu sina ? Mach chich uxet a chenla ca' jini .
+42011013	más		Anela malojetla y a wila chich cache' u ch'e' a wäc'benla a bijch'ocla cua' chichca jini utztacba . ¿ Mach quira cä Papla Dios täcä más u xe u yäc'ben Ch'u'ul Pixan machcatac u c'atben ?
+42011018	~		Si jini machcatac ya'an t'oc aj Satanásba u jec'lan ubajob tä buya , mach u ni' ch'ä u chen mandajob tomp'e . Jinda cälbenetla uc'a anela a wäle'la cache' cä pa'sen tzuc pixan tuyac'o untu uc'a aj Beelzebú u yäc'benon poder .
+42011019	Caxca une		Si no'on cä pa'sen tzuc pixan tuyac'o untu uc'a aj Beelzebú u yäc'benon ni poderba , ¿ caxca une jiq'uin u yäc'ben poder a wajcänt'anla tuba u pa'sen tzuc pixan ? Jin uc'a unejob chich u xe u ye'benetla cache' mach toj cua' a wäle'la .
+42012014	caxca une		Aj Jesús u yälbi ca'da : ― Lo' , ¿ caxca une u yäc'on de juez ta'ala o tuba cä pucbenetla cua' chichca jini que colesbintetla ?
+42012017	Cua'		Najtaq'uini u yäli tu c'ajalin ca'da : “ ¿ Cua' acä xe cä chen ? Uc'a mach'an cada cä c'ac'a' ch'ujnan u jut cä päc'äbi ” .
+42012020	caxca		Pero Dios u yälbi ca'da : “ Aneba mach'an a c'ajalin . Jimba ac'äbda a xe tä chämo y a pixanba u xe tä bisinte . De ya'i ¿ caxca tuba wäre u xe tä colan ni a ch'ujniba ? ”
+42012024	~		Iranla jini mut u c'aba' ajtz'inub , mach u päc'ä cua' chichca de päc'äbi y mach u c'ä'nesa cua' . Mach u cänänta troja ni ch'uji' cua' chichca y Dios u yäc'benob cua' u c'uxe' . ¿ Mach quira a chen valela más tu jut Dios que ni mutob jini ?
+42012025	~		Niuntu de anela mach u ch'ä a q'ue'nesan a vidala chap'e uxp'e q'uin pancab uc'a a päpä' chen pensa ta' c'ajalinla ca' jini .
+42012026	cua' uc'a		Si mach a che trebe ni a wäle'la ixta ca jun tzäcä a xe a chen vidala , ¿ cua' uc'a a päpä' chen pensa ta' c'ajalinla cua' a c'uxe'la y cua' a xoje' ta'wac'ola ?
+42012042	~		Cajnojala u yäli ca'da : ― Jinda cäli tuba u yubinob upete machca u cänäntan u cargo ca' untu ajnoja ta patan que tä' q'uen u c'ajalinba y u chen ca' chich u yum u yäc'ben u chenba . Ni ajpatan que u chen ca' jiniba u yum u xe u yäc'ben u chen manda upete u yajpatanob tu yotot y tuba u yäc'benob cua' u c'uxe'ob tu horäji c'uxnan .
+42012049	~		’ Jini aton cä chen no'onba es ca' a wälä aton cä tz'äbe' ump'e c'ac' tu pancab . Ni c'ac' jini ca' a wälä u xe u laj pule' cua' chichca mach utzba . Tä' coba cä tz'äbe' ni c'ac' jini mäx seb .
+42012056	Cua' uc'a		Anela ajsusutcheriajetla . A wila si u xe u yäc'ben ja' o si u xe tä ajtä p'ulewa jinq'uin a chänenla cache' u ch'oye bucla o cache' u yustan ic' . ¿ Cua' uc'a mach uta ta' c'ajalinla jiq'uin cua' u xe tä ajtä t'oc ni cä ye'betla no'onba ?
+42012057	Cua' uc'a		’ ¿ Cua' uc'a mach a che trebe a juntumala a wäle'la caxcamba u toja que Dios yo que a chenla ?
+42013004	~		¿ O jini dieciochojobba , jini yäli noj isquil otot tu pamob tä Siloéba u tzämsijob , a wäle'la quira que más an u tanäjob que upete winicob que cuxlijob tä Jerusalénba ?
+42013007	Cua' uc'a		De ya'i u yälbi u yajsispäc'äbi ca'da : “ Ubixto , u cänäntan uxp'e año acajne cä sacben u jut ni te' higoda y mach cä pojläbi cua' . Julu tä cab . ¿ Cua' uc'a päpä' ajnic u cräx päc'chin cä cab ? ”
+42013015	~		De ya'i Cajnojala aj Jesús u p'albi ca'da : ― Ajsusutcheriajetla , ¿ mach quira toj que cada juntu de anela a p'äne'la a beq'uet o a tzimim tu yajliba tu q'uini ch'ämbäji y a bisanla bajca u yäc'binte ja' u yuch'en ?
+42013018a	cache'da		De ya'i aj Jesús u yäli ca'da : ― Cä xe cälbenetla cache'da ayan u manda Dios . 
+42013018b	cua'		Cä xe cälbenetla cua' une ayan pancab que u c'ote t'oc .
+42013020	~		Sutwäni u yäle' tä cha'num ca'da : ― Cä xe cälbenetla cua' une ayan pancab que u c'ote t'oc u manda Dios .
+42013025	cada		Jinq'uin u xe tä ch'oye u yum ni otot u mäque' u ti' ni otot , anela a xe tä colanla päti y a täq'ue'la a jätz'e'la u ti' ni otot y a wäle'la ca'da : “ Cajnoja , jäbbenon t'ocob u ti' ni otot ” . Pero une u xe u p'alän u yälbenetla ca'da : “ Mach cä chet conocela , mach cuwi cada atetla ” .
+42014005	~		De ya'i aj Jesús u yälbi naj fariseojob ca'da : ― Si anela a cänäntanla untu beq'uet ta patanba o untu tzimim que yälic tan ch'enba , ¿ mach quira seb a xe a pa'senla , mach u che si es u q'uini ch'ämbäji ?
+42014028	~		Machca chichca de anela , si a wo a tz'osen ump'e isquil otot , ¿ mach quira a chumtä najtäcä a pa'sen jäyp'e u xe u bisan uc'a a wiran si a cänäntan ni taq'uin tuba a tzupsen t'ocba ?
+42014031	~		Si untu rey u xe u chen jo'yan t'oc otro reyba , ¿ mach quira najtäcä u chumtä u ch'e' u c'ajalin si t'oc diez mil soldadojob u chen trebe u yäc'ben uba t'oc ni jini u te tuyac'o t'oc veinte milba ?
+42014034	cache'da		’ Ni mero atz'amba mäx utz une . Ayan lo que mach jin mero atz'am que u säto u ch'och'anba . Si sätic u ch'och'anba mach'an cache'da äc'bintic u ch'och'an tä cha'num .
+42015004	~		― Si untu de anela a cänäntan cien oveja y sätic untuba , ¿ mach quira a xe a colesan ni noventa y nueveba tä campo y a bixe a sacän ni asätiba ixta que mach a pojlen ?
+42015008	~		’ Untu ixic que u cänäntan diez säsäc taq'uin , si u säte' ump'eba , ¿ mach quira u xe u tz'äbe' gas y u misän tan otot tuba u c'alin sacän ixta que mach u pojlen ?
+42015026	cua'		De ya'i u joq'ui untu ajpatan u c'atben cua' jini mu' u yute .
+42015029	~		Une u p'ali u yälben u pap ca'da : “ Ubixto cä pap , jäyp'exti año cä te cä täclenet ; mach bay cäli si mach cä tz'ombenet a t'an . Niunum mach bay a'bon untu ch'oc ajchibu tuba cä c'uxe' t'oc cä lotob .
+42016002	Cuaxca		De ya'i u joq'ui u yälben ca'da : “ ¿ Cuaxca jini acubin a chenba ? äc'benon ni jun bajca a laj tz'ibi upete cua'tac a chi t'oc cä taq'uin , uc'a ane mach uni' xon cä'benet xiquet de ajnoja ta patan täc'a ” .
+42016003	Cua'		De ya'i ni ajnoja ta patan u yäli tan u c'ajalin ca'da : “ ¿ Cua' acä chen bada uc'a cä yum u pa'säbenon cä patan ? Mach'an cä muc' tuba cä cujän cab , y u yäc'benon quisin ta xicon tä tentenbäji .
+42016005	Jäyp'e		De ya'i u täsqui tä jo'can juntu ajuntu machcatac u cherben debe u yumba . U c'atbi ni najtäcäba ca'da : “ ¿ Jäyp'e a cherben debe cä yum ? ”
+42016007	jäyp'e		Ji'pat u c'atbi otro untu ca'da : “ ¿ Aneba , jäyp'e a chen debe ? ” Une u yäli cache' cien costal de trigo . De ya'i u yälbi ca'da : “ Ya'anda ni jun bajca tz'ibi na betba ; tz'ibän cache' ochenta namás a chen debe ” .
+42016011	~		Jin uc'a , si mach a chila tu toja t'oc jini taq'uin que a'uti tä sätcan t'oc cua' chichca mach utzba , Dios mach uxin u yäc'benet ta' c'äbla cua' chichca utztac que mach uxupba .
+42016012	~		Si mach a chila tu toja t'oc cua' chichca ta Dios que ya'an ta' c'äblaba , une mach uxin u yäc'benetla jini cua' chichca que u xe tä nonoj colan ta'alaba .
+42017007	~		’ Si a cänäntanla untu ajpatan u cujän cab o u cänäntan ovejaba , jinq'uin u te tä jam u sujtä tan ototba , ¿ a xe quira a wälben ca'da : “ La'ix bada tä c'uxnan tä mesa ” ? Mach a chela ca' jini une .
+42017017	Cada		De ya'i aj Jesús u yälbi ca'da : ― ¿ Mach quira diez ni tz'äcälquiba ? ¿ Cada an ni nueveba ?
+42017018	~		¿ Mach quira ajni machca sutwänic u ch'u'ul c'ajti'ben u c'aba' Dios seq'uen ni ajpäpä'cabda ?
+42017020	caq'uin		Ji'pat aj fariseojob u c'atbijob aj Jesús caq'uin u xe tä c'ote q'uin u chen manda Dios pancab . Une u p'albijob ca'da : ― U manda Dios pancab mach uc'ot t'oc cua' chichca jini tuba a chänenla , ca' chich jinq'uin u c'ote untu rey .
+42017037	cada		Jinq'uin u yubijob ca' jini , u yajcänt'anob u c'atbijob ca'da : ― Cajnoja , ¿ cada u xe tä ajtäjob jini machcatac u colescanob ? Une u yälbijob ca'da : ― U ch'e' a wina'tanla que anatz'äjbäli q'uin tuba äc'bintic u toje' u tanäjob machcatac que mach u ni' tz'ombe Diosba cachichcada que ajnicob , ca' chich ni ajma' u woylan ubajob cachichcada que ajnic najchämeba tuba u buq'ue' .
+42018018	Cua'		De ya'i untu ajnoja tuba aj judíosob u yälbi ca'da : ― Maestro , utz a c'ajalin ane . ¿ Cua' une c'änä cä chen tuba paq'uin cuxlecon ?
+42018019	Cua' uc'a		Aj Jesús u yälbi ca'da : ― ¿ Cua' uc'a a wälbenon cache' utz cä c'ajalin ? Niuntu mach'an utz u c'ajalin seq'uen Dios une .
+42018026	Caxca une		Machcatac u yubijob jini que u yäli aj Jesús u yälijob ca'da : ― ¿ Caxca une u xe u ch'e' u japän uba jiq'uin ?
+42018036	cua'		Jinq'uin ni ajchoc' u yubi cache' nume u chen noj q'uenel gente bajca anba , u c'ati cua' jini ayan .
+42018041	Cua'		― ¿ Cua' a wo cä cherbenet ? Ni ajchoc' u p'ali ca'da : ― Cajnoja , co äc'binticon cä chen chanä .
+42019007	~		Jinq'uin u chänijob , upetejob u ju'läwanob tä t'an u yäle'ob cache' aj Jesús c'oti tä wawa'ne tu yotot untu winic ajcherajtanäba .
+42019023	Cua' uc'a		¿ Cua' uc'a jiq'uin mach a wäq'ui cä taq'uin tä banco , uc'a bada que asutwänonba cä ch'e' con to'o u gana ? ”
+42019031	cua' uc'a		Si ajnic machca u c'atbenetla cua' uc'a a p'äne'la , a xe a p'albenla ca'da : “ Cajnojala c'änä uc'a ” .
+42019033	Cua' uc'a		Jinq'uin mu'to u p'äne'ob ni ch'oc burroba , u yumob u yälbijob ca'da : ― ¿ Cua' uc'a a p'äne'la ni ch'oc burro ?
+42020002a	~		Unejob u yälbijob ca'da : ― Älbenon t'ocob caxca une u yäc'bet a chen upete ca' ni mu' a chenba . ¿ Machca une u yälbet que u ch'e' a chen ca' jini ?
+42020002b	~		
+42020005a	~		Unejob u maläc ch'i u c'ajalin u juntumajob u yäle'ob ca'da : ― Si cäle'la cache' Dios u yäc'bi u chenba , 
+42020005b	cua' uc'a		une u xe u yälbenonla cua' uc'a mach cä tz'ombila .
+42020013	Cua'		’ De ya'i u yum ni te'uva u yäli ca'da : “ ¿ Cua' cä xe cä chen ? Cä xe cä täscun cä yajben ajlo' , bay toca tu chänenob u xe u tz'ombenob u t'an ” .
+42020015	Cache'da		De ya'i u pa'sijob tama u caba ni päc'äbi y u tzämsijob . ¿ Cache'da a wäle'la jiq'uin u xe u cherbenob ni ajpatanob jini u yum ni te'uva ?
+42020017	Cua'		De ya'i aj Jesús u chämbi u jutob u yäle' ca'da : ― ¿ Cua' ti jini ya'an tz'ibi tan u jun Dios jiq'uin , jini u yäle' ca'daba ? : Jini ji'tun que u sutjatz'ijob ni ajcheraj ototob , jin une Dios u yäq'ui xic de u ch'ixma yoc otot . Ca' jini tz'ibi ayan tan u jun Dios .
+42020023	Cua' uc'a		Aj Jesús u yäc'bi uba cuenta que unejob u susut c'atbenob y u yälbijob ca'da : ― ¿ Cua' uc'a a wola a wäc'benon cä säte' ?
+42020024a	caxca		Ye'benon ump'e ch'oc taq'uin . ¿ Caxca u jut 
+42020024b	~		y u c'aba' ya'an tuyac'o ? Unejob u p'alijob que tuba aj César .
+42020033	caxcamba		Tu xe tä cuxpan ajchämejob , jiq'uin , ¿ caxcamba de unejob u xe u ch'e' de jit'oc ni ixic jini , uc'a upete ni sietejob u cänäntijob de jit'oc ?
+42020041	Cache'da		De ya'i aj Jesús u yälbijob ca'da : ― ¿ Cache'da u ch'e' u yäle'ob que ni Cristo , jini u yaqui Dios tuba ajmandaba , es u natil ch'oc ni rey aj David ?
+42020044	Cache'da		Aj David u yäle' ca' jini cache' ni Cristo es u Yajnoja une . ¿ Cache'da jiq'uin es u natil ch'oc täcä ?
+42021007a	caq'uin		Unejob u c'atbijob ca'da : ― Maestro , ¿ caq'uin u xe tä ajtä na wäliba ? 
+42021007b	cua'		¿ Y cua' u xe tä chäninte tuba wina'tintic si anatz'äjbäli q'uin tuba utic ?
+42022009	Cada		Unejob u c'atbijob ca'da : ― ¿ Cada a wo cä chen t'ocob upete ni jini ?
+42022011	Cada		A xe a wälbenla u yum ni otot ca'da : “ Ni Maestro u yälbenet ca'da : ¿ Cada an ni cuarto bajca cä xe cä c'uxe' ni ch'oc oveja tuba ni paxcu' t'oc cajcänt'anob ? ”
+42022027	Camba		¿ Camba más ajnoja , machca u chumtä tä mesa tä c'uxnan , o jini machca u täsben cua' u c'uxe'ba ? Jini machca u chumtä tä mesa es más ajnoja , pero no'onba ya'anon t'oc anela ca' jini machca u täsen cua' tä c'uxcanba .
+42022046	Cua' uc'a		Aj Jesús u yälbijob ca'da : ― ¿ Cua' uc'a a wäyela ? Ch'oyenla y chen c'änti'yala uc'a a japän abala t'oc ni cherajtanä .
+42022064	~		U mäcbijob u jut t'oc payu , u cunijob tu jut y u yälbenob ca'da : ― Si ajt'anet ta Dios älä machca u cunet . Ca'da u yälbijob .
+42022071	Cua' tuba		De ya'i unejob u yälijob ca'da : ― ¿ Cua' tuba c'änä cä sacänla más ajsubob ? Watoda acubila cache' une u yäli t'oc u ti' .
+42023022a	cua' uc'a		De ya'i aj Pilato u yälbijob u yuxpetz'ib ca'da : ― ¿ Cua' uc'a ? 
+42023022b	cuaxca		¿ Cuaxca u chi ? Mach cä pojläbi niump'e u tanä ta tzämsintic . Jin uc'a acä xe cäq'ue' tä jätz'can y ji'pat cä chaje' .
+42023031	cua'		Si no'on mach'an cä tanä , ca' a wälä untec te'on cuxuba , y u cherbenonjob ca'da , ¿ cua' jini a wäle'la u xe tä cherbinte machcatac tä' malojobba , jini ca' a wälä untec te'job chäc tiquinba ?
+42024005	Cua' uc'a		C'ac'a' bäc'tijob ni ixictacob y u chinjatz'i u pam u chänen tä cab . De ya'i ni ángelojob u yälbijob ca'da : ― ¿ Cua' uc'a a sacänla tan ajchämejob ni machca cuxu anba ?
+42024017	Cua'		Aj Jesús u c'atbijob ca'da : ― ¿ Cua' tz'aji na bixe a chenla por to'o bij ? ¿ Cua' uc'a triste anetla ?
+42024019	Cua'		De ya'i aj Jesús u yälbijob ca'da : ― ¿ Cua' une u chi pasa ? Unejob u yälbijob ca'da : ― Ajni untu winic u c'aba' aj Jesús , u cab tä Nazaret . Uneba untu ajt'an ta Dios . Dios y upete ni gente u chänijob cache' q'uen u poder tuba u chen cua' chichca , y cua' chichca u yäle'ba t'oc poder chich täcä .
+42024025	~		De ya'i aj Jesús u yälbijob ca'da : ― Tzätz a pamla . Mach u se'en och tan a c'ajalinla tuba a tz'onänla upete cua'tac u yälijob ajt'anob ta Dios oni .
+42024038a	cua' uc'a		Aj Jesús u yälbijob ca'da : ― ¿ Cua' uc'a bäc'tetla ? 
+42024038b	cua' uc'a		¿ Cua' uc'a a sinlaj chen pensala cua' chichca jini ?
+43001019	Caxcajet		Tu toja u yäli aj Juan jinq'uin aj judíosob u täsqui aj Jerusalénob ni palejobba y aj levitasob tuba u c'atbenob : ― ¿ Caxcajet ane ?
+43001021	Caxcajet		De ya'i u c'atbijob tä cha'num : ― ¿ Caxcajet jiq'uin ? ¿ Ane quira aj Elíaset ? U yäli : ― Mach jinon . ― ¿ Ane quira ni ajt'anet ta Dios jini que u xe tä teba ? U p'ali : ― Mach jinon täcä .
+43001022a	caxcajet		U c'atbijob tä cha'num : ― Älbenon t'ocob caxcajet jiq'uin uc'a cälben t'ocob machca u täscon t'ocob . 
+43001022b	cache'da		¿ Cache'da a wäle' ane , caxcajet ?
+43001025	can uc'a		De ya'i u c'atbijob ca'da : ― ¿ Can uc'a jiq'uin a chen c'ablesia si mach jin aj Cristojet , si mach jin aj Elíaset , si mach jin ni ajt'anet ta Dios ?
+43001038a	cua'		U suti uba aj Jesús u chänen cache' ya' u tejob tu pat , u yälbijob ca'da : ― ¿ Cua' a sacänla ? Unejob u p'albi : 
+43001038b	cada		― Maestro , ¿ cada cuxulet ?
+43001046	~		Aj Natanael u yäli : ― ¿ U xe wäreca tä pase ajt'an ta Dios tä Nazaret ? Aj Felipe u yäli : ― La'ix uc'a a chänen .
+43001048	Cada		Aj Natanaelba u yäli ca'da : ― ¿ Cada a chon conoce ? Aj Jesús u p'ali : ― Machto u pequet aj Felipe , jinq'uin ya'to anet yaba te' higo , cä chänet .
+43002004	cua' uc'a		Aj Jesús u yälbi : ― Cä na' , ¿ cua' uc'a a wälbenon no'on ? Mach to c'ot q'uin cä ye'e' cä poder .
+43002018a	~		Aj judíosob u yälbijob ca'da : 
+43002018b	cua'		― ¿ Cua' jini a xe a chen tuba cä chänen t'ocob si ä'bintet chich a chen ca' jini ?
+43003004	Cache'da		Aj Nicodemo u c'atbi : ― ¿ Cache'da u ch'e' päncäbac noxib cha'num ? ¿ U ch'e' quira ochic cha'num tuyac'o u na' uc'a päncäbac ?
+43003009	Cache'da		Aj Nicodemo sujli u c'atben aj Jesús : ― ¿ Cache'da u ch'e' utic jinda ?
+43003012	cache'da		Si cälbet cua' chichca tuba u pancab y mach a tz'onä , ¿ cache'da a xe a tz'onän si cälbenet cua' chichca que ayan tä cielo ?
+43004009	cache'da		Jini ixic u yälbi aj Jesús ca'da : ― Aneba aj judíoset , ¿ cua' ti uc'a a c'atbenon ja' ? Uc'a no'on ix Samariajon . U yäli ca' jini uc'a aj judíosobba mach u bisa bijob t'oc aj Samariajob .
+43004011	Cada		Jini ixic u yälben : ― Noxi' winic , tam ni ch'en , y mach'an cua' t'oc a lupän . ¿ Cada an ac'a jiq'uin jini ja' ta paq'uin cuxleconba ?
+43004027a	cua'		Mu'to u yäle' ca' jini jinq'uin c'oti u yajcänt'anob . Ch'icwäni u jutob u chänen cache' ya'an tä t'an t'oc ixic . Niuntu mach u yäli niump'e cua' . Mach u c'atbijob cua' mu' u yäle' , 
+43004027b	cua' uc'a		y mach u c'atbijob cua' uc'a u pecän .
+43005012	Caxcone		Ni aj judíosob u c'atbijob : ― ¿ Caxcone u yälbet : “ Ch'ä a ch'a'lib y chen xämba ” ?
+43005044	Cache'		¿ Cache' u ch'e' a tz'ombenla u t'an Dios jinq'uin a wola u yäle' a lotla cache' pitzi cua' a chen , y mach a sapäla jini u yäle' Dios cache' utzba ?
+43005047	cache'da		Si mach a tz'onäla ni t'an u tz'ibi aj Moisésba , ¿ cache'da a xe a tz'onänla cä t'an ?
+43006005	Cada		Jinq'uin aj Jesús u t'äbsi u jut u chäni cache' ya' u te noj q'uelen gente bajca an , y u yälbi aj Felipe ca'da : ― ¿ Cada cä mäne'la waj tuba cä'benla u c'uxe' ni gente que ya' u tejob jini ?
+43006009	Cua' tuba		― Ya'anda untu ajlo' que u cänäntan cinco cebadaj waj , y cha'tu yoc buch' . ¿ Cua' tuba jinda , mach u yäc'ä tuba upete ?
+43006025	caq'uin		Jinq'uin u pojlijob tunxe nab , u c'atbijob : ― Maestro , ¿ caq'uin julet wida ?
+43006028	Cua'		Unejob u yälbi : ― ¿ Cua' patan u ch'e' cä chen t'ocob tuba cä cherben t'ocob u patan Dios ?
+43006030a	cua'		Unejob u yälbi : ― ¿ Cua' jini a chen ane tuba a ye'e' a poder , uc'a cä chänen t'ocob y cä tz'onän t'ocob ? 
+43006030b	Cuaxca		¿ Cuaxca patan a cherben Dios ?
+43006042	can uc'a		U yäle'ob ca'da : ― ¿ Mach quira jinda ni aj Jesús , u yajlo' aj José , u pap y u na' cä chen conocela ? ¿ Can uc'a jiq'uin u yäle' : “ Pason tä cielo jacon pancabba ” ?
+43006052	cache'da		Aj judíosob u maläc täq'uijob päpä' t'an , u yäle'ob : ― Jinda winic ¿ cache'da u ch'e' u yäc'benonla u bec'ta tuba cä c'uxe'la ?
+43006060	Caxca une		Q'uen u yajcänt'anob , tu yubinob ca' jini , u yälijob : ― Cach ni t'an jini , ¿ caxca une u xe u tz'onän ?
+43006062	cua'		¿ Cua' ti jini a xe a chenla si a chänenla jiq'uin cache' no'on que sutwänon de winic t'äbicon tä cielo bajca ajnon najtäcä ?
+43006068	caxca		Aj Simón Pedro u p'albi : ― Cajnoja , ¿ caxca t'oc jiq'uin cä xe t'ocob ? A t'an ane u yäq'ue' paq'uin cuxlecon t'ocob .
+43007011	Cada		Aj judíosob cayi u sacänob tan q'uin ch'uje , u yäle'ob ca'da : ― ¿ Cada wäre an jini winic ?
+43007015	Cache'da		Aj judíosob tajch'icwäni u jutob u yubin cua' u yäle' , y u yäle'ob ca'da : ― ¿ Cache'da yuwi q'uen cua' chichca jini winic , y mach ajni u cäne' ?
+43007019	Cua' uc'a		’ ¿ Mach quira u yäc'betla ni ley aj Moisés ? Y niuntu de anela mach a chela tu toja ca' u yäle' jini ley . ¿ Cua' uc'a a sacänla cache' a xe a tzämsenonla ?
+43007020	Caxcone		Ni gente u yälbijob ca'da : ― Ane a cänäntan tzuc pixan ta'wac'o . ¿ Caxcone u sacän u tzämsenet ?
+43007023	~		Si anela a chen circuncisa untu ch'oc tu q'uini ch'ämbäji uc'a mach a säte'la t'oc ni ley taj Moisés , ¿ cäräxetla quira t'oc no'on uc'a tu q'uini ch'ämbäji cä tz'äcäli untu winic ?
+43007035	Cada		De ya'i aj judíosob u maläc älijob : ― ¿ Cada u xe jinda winic que mach cä pojlenla ? ¿ Ya' wäre u xe bajca nonoj bixijob aj judíos ca'an aj griegojob tuba u ye'benob u t'an Dios aj griegojob ?
+43007036	Cua'		Cua' ti jini u yäli : “ A xe a sacänonla , mach uxet a pojlenonla ; bajca cä xe tä ajtä , anela mach u ch'ä xiquetla ” .
+43007041	~		Otros u yälijob : ― Jinda ni aj Cristo . Otros u yälijob : ― ¿ Tä Galilea quira u xe tä te ni aj Cristo ?
+43007045	can uc'a		Ajc'äncanob c'otijob bajca an ajnojajob ta palejob y bajca an aj fariseojob . Unejob u yälbi ni ajc'äncanob : ― ¿ Can uc'a mach a täsila ?
+43007048	~		¿ Mach quira a chänila cache' mach'an niuntu ajnojajob o aj fariseojob que u tz'ombijob ?
+43007051	~		― ¿ Ni ley täc'ala , u yäc'ben quira u toje' u tanä untu si mach to cheque cua' u chi ? Mach une .
+43008005	cache'		Aj Moisés u yäli tuyac'o ley tzämsintic t'oc ji'tun machca u chen ca' jini . ¿ Aneba , cache' a wäle' ?
+43008010	Cada		Wa'wäni aj Jesús u chänen cache' mach'an machca sec' ixic u juntuma , u yälbi jini ixic : ― ¿ Cada an machcatac u sube'et ? ¿ Mach quira coli niuntu machcatac u c'atän a toje' a tanä ?
+43008019	Cada		De ya'i u c'atbijob : ― ¿ Cada an a Pap ? Aj Jesús u p'ali : ― Mach a chon conocela ; cä Pap täcä mach a che conocela . Si fuera no'on a chenon conocela , cä Pap täcä a chen conocela ica .
+43008025a	caxcajet		Unejob u c'atbenob : ― ¿ Caxcajet ane ? 
+43008025b	~		Aj Jesús u yälbijob : ― Jin chich na cälbetla najtäcäba .
+43008033	Cua' uc'a		Unejob u p'ali : ― U ch'ocob aj Abrahanon t'ocob , mach bay ajnon t'ocob tu c'äb cä yum t'ocob . ¿ Cua' uc'a a wäle' ca' jini : “ A xe tä pa'sintela tu c'äb a yumla ” ?
+43008043	Cua' uc'a		¿ Cua' uc'a mach a che entendela cua' cäle' ? Uc'a mach a wo a ubinla cä t'an .
+43008046a	caxca une		¿ Caxca une de anela u ch'e' u yäle' cache' an cä tanä ? Si toj ni cäle'ba , 
+43008046b	cua' uc'a		¿ cua' uc'a mach a tz'ombonla ?
+43008053	caxcajet		¿ Ane quira más ajnojalet que cä papla aj Abraham ni chämiba ? Ajt'anob ta Dios chämijob täcä . ¿ Aneba jiq'uin , caxcajet a wäle' ?
+43008057	~		De ya'i aj judíos u yälbijob : ― Aneba mach to a cänänta cincuenta año , ¿ y a wäle' que a chäni aj Abraham ?
+43009002	Caxca une		U yajcänt'anob u c'atbijob ca'da : ― Maestro , ¿ caxca une an u tanä tuba päncäbac ni winicda de ajchoc' ? ¿ Ayan quira u tanä u pap y u na' , o ayan u tanä uneba ?
+43009010	caxca		Unejob u yälben : ― ¿ Caxca u yäc'bet a chen chanä ?
+43009012	Cada		De ya'i u yälbijob : ― ¿ Cada an ni winic jini ? Une u yäli : ― Mach cuwi .
+43009016	cache'		Jinq'uin u tulaj äle'ob aj fariseojob : ― Jinda winic mach ta Dios , uc'a mach u cänänta u q'uin ch'ämbäji . Otrosjob u yäle'ob : ― ¿ Cache' u ch'e' untu winic ajcherajtanä u chen ca'da ? U jec'li ubajob tä t'an .
+43009017	cache'		Sutwäni u yälbenob ajchoc' ca'da : ― Aneba , ¿ cache' a wäle' t'oc ni machca u jäbbet a jutba ? Une u yäli : ― Ajt'an ta Dios acäle' .
+43009019	Cache'da		U c'atbijob ca'da : ― ¿ Jinda quira na wajlo' , a wäle'la cache' päncäbi ajchoc'ba ? ¿ Cache'da jiq'uin u chen chanä badaba ?
+43009026a	cache'		Sutwänijob u cha'num c'atben : ― ¿ Cache' u cherbet ? 
+43009026b	cache'da		¿ Cache'da u jäbbet a jut ?
+43009027	Cua' uc'a		Une u p'ali : ― San cälbetla , y mach a ubila . ¿ Cua' uc'a a wo a ubinla tä cha'num ? ¿ A wola quira täcä xiquet de u yajcänt'an ?
+43009034	~		Unejob u yälbi : ― Ane päncäbet t'oc a noj q'uenel tanä , ¿ y a ye'benon t'ocob u t'an Dios ? De ya'i u pa'sijob tan noj ch'u'ul otot .
+43009036	Caxcone		Une u p'ali : ― ¿ Caxcone , noxi' winic , uc'a cä tz'onän ?
+43010020	Cua' tuba		Q'uen u yäle'ob : ― Tzuc pixan ya'an tuyac'o ; ajsinc'ajalin une . ¿ Cua' tuba cubinla u t'an ?
+43010021	~		U tulaj äle'ob : ― Jinda t'an mach u yälä machca u cänäntan tzuc pixan tuyac'o . ¿ U ch'e' quira tzuc pixan u jäbben u jut ajchoc' ?
+43010024	Ca jun q'uin		Aj judíosob u woyi ubajob bajca an , u yälbijob ca'da : ― ¿ Ca jun q'uin a wäctan a jobän cä c'ajalin t'ocob ? Si ane aj Cristojet , älbenon t'ocob tu toja .
+43010032	Caxcamba		Aj Jesús u yälbijob : ― Q'uen cä patan utzba acä ye'betla , u patan cä Pap une . ¿ Caxcamba de ni patanda utzba que cä chi , y jin uc'a a wo a jule'onla t'oc ji'tun ?
+43010036	cache'		Cä Pap u yäc'bon ch'u'ul ajnicon u täscon pancab . ¿ A wäle'la quira cache' tzuc t'an cä chen uc'a no'on cäli cache' u Yajlo' Dioson ?
+43011034	Cada		U c'ati : ― ¿ Cada a wäq'uila ? Unejob u yälben : ― Cajnoja , la'ix chänen .
+43011047	cache'		Ajnojajob ta palejob y aj fariseojob u woyi ubajob tomp'e t'oc ajt'äbäla a'äc'c'ajalinob . U yälijob ca'da : ― ¿ Cache' cä xe cä chenla ? Uc'a jinda winic q'uen cua' u chen tuba u ye'e' u poder .
+43011056	cache'		Cayi u sacänob aj Jesús . U maläc äle'ob machcatac ya'an tan noj ch'u'ul otot : ― ¿ Cache' a wäle'la , mach wäreca uta wida tä q'uin ch'uje ?
+43012005	Cua' uc'a		― ¿ Cua' uc'a mach achonqui jini jätz'äcnib por tres cientos taq'uin tuba pucbintic pobrejilba ni taq'uin ?
+43012027	cache'		’ Bada u ch'ocoman cä pixan . ¿ Cache' cä xe cäle' ? ¿ Cä xe quira cälben cä Pap ca'da : “ Cä Pap , japänon t'oc jini u te täjcac'o jimba horada ” ? Mach uxon cälben ca' jini , uc'a jin chich tuba aton jimba horada .
+43012034a	Cuaxca uc'a		U p'albijob ni gente : ― Acubi t'ocob cache' u yäle' ni ley cache' aj Cristo paq'uin ayan . ¿ Cuaxca uc'a a wäle' aneba cache' jini sujli de winicba c'änä äc'cac tä cruz ? 
+43012034b	caxcone		¿ Caxcone jini sujli de winicba ?
+43012038a	~		Ca' jini pasi toj ca' chich u worin äli aj Isaías , ajt'an ta Diosba : Cajnoja , niuntu mach u tz'oni cä t'anla . Mach uta tu c'ajalinob cache' an a poder .
+43012038b	~		
+43013025	Caxca une		Jinq'uin ni ya' t'ele tu ch'ejpaba u c'atbi ca'da : ― Cajnoja , ¿ caxca une ?
+43013036	cada		Aj Simón Pedro u yälbi : ― Cajnoja , ¿ cada a xe ? Aj Jesús u p'albi : ― Bajca cä xe no'on , mach u ch'ä xiquet bada täc pat ; ji'pat to a xe a tzäypätinon .
+43013037	cuaxca uc'a		Aj Simón Pedro u yälbi : ― Cajnoja , ¿ cuaxca uc'a mach u ch'ä cä tzäypätinet bada ? Ixta cäq'ue' cäba tä chämo uc'a ane .
+43014002	~		Tan yotot cä Pap q'uen cuxliba ayan . Si mach ica ajnic , mach ica cälbetla . Acä xe cä tuse' bajca a xe tä ajtäla .
+43014005	Cache'		Aj Tomás u yälbi : ― Cajnoja , mach cuwi t'ocob cada a xe . ¿ Cache' cä xe cuwina'tan t'ocob ni bij ?
+43014009	Cua' uc'a		Aj Jesús u yälbi : ― Abon jäläcnon t'oc anela , ¿ y mach quira a chon conoce , Felipe ? Machca no'on u chänon , cä Pap täcä u chäni . ¿ Cua' uc'a a wäle' aneba : “ Ye'benon t'ocob cä Papla ” ?
+43014022	can uc'a		Aj Judas , ni mach jin aj Iscarioteba , u yälben : ― Cajnoja , ¿ can uc'a a xe a ye'e' a poder bajca anon t'ocob , y mach bajca an jini que tubajob u pancab ?
+43016005	Cada		’ Jinda mach cälbetla najtäcä uc'a ya'to anon t'oc anela . Bada cä xe bajca an machca u täsconba . Niuntu de anela mach a ni' c'atbonla : “ ¿ Cada a xe ? ”
+43016017	Cua'		De ya'i u tulaj maläc älijob u yajcänt'anob : ― ¿ Cua' wäre jini u yälbenonla ? U yäle' cache' acoli tz'ita' q'uin ta bixic y mach uxon cä chänenla ; pero otros tz'ita' q'uin tä cha'num cä xe cä chänenla une , uc'a u xe ca'an u Pap .
+43016018	Cua'		¿ Cua' wäre jini u yäle' jinq'uin u yäli ca'da : “ Acoli tz'ita' ” ? Mach cä che entendela cua' jini u yäli .
+43018004	Caxcone		Aj Jesúsba yuwi chich upete cua'tac u te tuyac'o , pänte'i u c'atbenob : ― ¿ Caxcone a sacänla ?
+43018007	Caxcone		De ya'i aj Jesús sutwäni u c'atbenob : ― ¿ Caxcone a sacänla ? Unejob u yäli : ― Aj Jesús aj nazarenoba .
+43018011	~		De ya'i aj Jesús u yälbi aj Simón Pedro : ― Äc'ä a machit tan u pat . Ni tz'ibajtesia que u yäq'ui cä Pap äc'binticonba , ¿ a wäle' quira que mach uxon cä ch'e' ?
+43018021	can uc'a		¿ Can uc'a a c'atbenon no'on ? C'atbenob machcatac u yubi cua'tac cälbijob . Unejob chich yuwi cua'tac cäli .
+43018023	cua' uc'a		Aj Jesús u p'ali : ― Si mach utz cua' acäli , älä cache'da mach utz . Y si utzba , ¿ cua' uc'a a cune'on ?
+43018029	Cua'		De ya'i aj Pilato pasi päjna bajca anob u yäli ca'da : ― ¿ Cua' sub a täsila tuyac'o jinda winic ?
+43018035	Cuaxca		Aj Pilato u p'ali : ― ¿ Aj judíojon quira no'on ? A wajcäbnajob y ajnojajob ta pale u yäq'uetob täj c'äb . ¿ Cuaxca tanä a chi ?
+43018038	cua'		Aj Pilato u yälbi : ― ¿ Cua' jini ni u tojaba ?
+43019009	Caxcadajet		Ochi cha'num tan yotot u c'atbi aj Jesús : ― ¿ Caxcadajet ane ? Aj Jesús mach u p'ali cua' .
+43019015	~		Unejob t'oc noj t'an u yälijob : ― ¡ Pa'sen ! ¡ Pa'sen ! ¡ äc'ä tä cruz ! Aj Pilato u yälbenob : ― ¿ A wola quira cäq'ue' tä cruz ni a wajnojala ? Ajnojajob ta pale u yälijob : ― Mach'an otro cajnoja t'ocob , sec' aj César une .
+43020013	cua' uc'a		U yälbijob : ― Ixic , ¿ cua' uc'a a chen uq'ue ? Une u yäli : ― Uc'a u bisijob Cajnoja , y mach cuwi cada u yäq'uijob .
+43020015a	cua' uc'a		Aj Jesús u yälbi : ― Ixic , ¿ cua' uc'a a chen uq'ue ? 
+43020015b	caxcone		¿ Caxcone a sacän ? Une u yäli tan u c'ajalin cache' bay ajcänän päc'äbi , y u yälbi : ― Noxi' winic , si ane a bisi , älbenon cada a wäq'ui , uc'a cä bisan no'on .
+43021012	Caxcajet		Aj Jesús u yälbijob : ― La'ixla tä c'uxnan . Pero niuntu u yajcänt'an mach u yoli u c'atben ca'da : “ ¿ Caxcajet ane ? ” Uc'a yuwijob chich cache' Ajnoja .
+43021020	caxca une		U suti uba aj Pedro u chänen jini ajcänt'an tä' u yajna'tan aj Jesúsba cache' u te tu patob , jini ajni t'ele tu ch'ejpa aj Jesús jinq'uin ya'anob tä c'uxnanba , jini que u yälbi täcä ca'daba : “ Cajnoja , ¿ caxca une ni u xe u yäq'ue'et tä c'äbäba ? ”
+43021021	cache'da		Aj Pedro , jinq'uin u chäni jinda winic , u yälbi aj Jesús ca'da : ― Cajnoja , ¿ jindaba , cache'da u xe u chen pasa une ?
+43021022	cua'		Aj Jesús u yäli : ― Si co colac ixta sujlecon , ¿ cua' u chi t'oc ane ? Tzäypätinon ane y chen ca' chich cä chen no'on .
+43021023	cua'		Jin uc'a älqui tan u lotob cache' jini ajcänt'an mach uxin tä chämo . Aj Jesúsba mach u yälbi cache' mach uxin tä chämo , sec' u yälbi ca'da : “ Si co colac ixta que sujlecon , ¿ cua' u chi t'oc ane ? ”
+44001011	cua' uc'a		Jini cha'tu u yälbijob ca'da : ― Anela lo' galileo , ¿ cua' uc'a a chänenla tä cielo ? Jinchichba Jesús ni ajni t'oc anela abixi tä cieloba , ca' chich a chänila bixi tä cielo , che' chich u xe tä sujtä tä cha'num .
+44002008	Cache'da		¿ Cache'da jiq'uin acubinla no'onlaba cache' u chenob jini t'an que ch'ijonla t'ocba ?
+44002012	Cua'		Upetejob tajch'icwäni u jutob , jobo u c'ajalinob , u maläc äle'ob ca'da : ― ¿ Cua' wäreca jinda ?
+44002037	cua'		Jinq'uin u yubijob ca'da , ch'ocomi u pixanob y u yälbijob aj Pedro t'oc ni otros ajc'äncanob tuba aj Jesucristoba ca'da : ― Cä lot , ¿ cua' c'änä cä chen t'ocob jiq'uin ?
+44003012a	cua' uc'a		U jiri ca' jini aj Pedro , u yälbijob ni gente ca'da : ― Anela lo' Israel , ¿ cua' uc'a a bäc'tanla jinda ? 
+44003012b	cua' uc'a		¿ Cua' uc'a a ch'icjatz'än a jutla täjcac'o t'ocob ? ¿ A wäle'la quira cache' t'oc cä poder t'ocob , o uc'a utzon t'ocob , cä'bi t'ocob u chen xämba jini winic ?
+44004007a	~		U yäq'uijob tänxin unejob aj Pedro y aj Juan , u c'atbijob ca'da : 
+44004007b	caxca		― ¿ Caxca t'oc u poder a tz'äcälila jini ajc'ol'oc ? 
+44004007c	caxca		¿ Caxca u yäc'bet a chenla ?
+44004016	cache'		U yäle'ob ca'da : ― ¿ Cache' cä xe cä cherbenla ni winicob jini ? Uc'a upete aj Jerusalénob u yubijob cua' u chijob t'oc poder , y jinda mach u ch'ä cäle'la cache' mach toj .
+44004025a	cua' uc'a		Ane a wälbi u yäle' aj David a wajpatan oniba ca'da : ¿ Cua' uc'a cäräx u numejob ni gente , 
+44004025b	cua'		y ni caj u päpä' äle'ob cua' chichca tan u c'ajalin ?
+44005003	Cua' uc'a		Aj Pedro u yälbi ca'da : ― ¿ Cua' uc'a aj Satanás u yäc'bet ta' pixan a cherben jop'ojti' ni Ch'u'ul Pixan , y mach a wäq'ui tz'äcä u taq'uini ni cab ?
+44005004	Cua' uc'a		¿ Mach quira ta'a chich ajni najtäcä ? Jinq'uin a choni , ¿ mach quira ta' c'äb ajni u taq'uini tuba a chen t'oc lo que a woli a chen ? ¿ Cua' uc'a jiq'uin ati ta' c'ajalin a chen ca' jini ? Mach winicob a wälbi ni jop'ojti' , Dios a cherbi jini jop'ojti' .
+44005009	Cua' uc'a		Aj Pedro u yälbi cha'num : ― ¿ Cua' uc'a a tusila ca' jini a cha'tumala a wälila a sucpecän u Ch'u'ul Pixan Ajnoja Dios ? Ubin u xämba ya' u te ti' otot machcatac ajni u muque' a wit'oc , u xe u bisanetob täcä .
+44007026	Cua' uc'a		Päscab c'oti bajca an cha'tu aj Israelob que mu' u buyajob . U yoli u yäq'ue' que mach u chenob buya , u yälbijob ca'da : “ Cä lot , anelaba tomp'emp'e familiajetla . ¿ Cua' uc'a a maläc tz'ibajtesan abala ? ”
+44007027	Caxca		Ni machca mu' u tz'ibajtesan u lotba u xälnoji aj Moisés , u yälbi ca'da : “ ¿ Caxca u yäq'uet ane de ajnoja y de juez täc'a t'ocob ?
+44007035	Caxca		’ Jini aj Moisés mach u sapijobba , jini que u yälbijob ca'daba : “ ¿ Caxca u yäq'uet de ajnoja y de juez täc'a t'ocob ? ” , jin une u täsqui Dios de ajnoja y de ajjäpom . Dios u täsqui u ángelo tuba u yälben cua' u xe u chen , jini que ajni tan chäcch'ix u pecänba .
+44007049a	cuaxca		Cielo cä chumlib bajca cä chen manda , y u pancab ca' a wälä u läjquiba coc . ¿ Cuaxca otot a xe a cherbenon ? 
+44007049b	caxcada		¿ Caxcada cä xe cä ch'e' cäba ? Ca'da u yäle' Cajnojala Dios .
+44007052	Caxcamba		¿ Caxcamba ajt'an ta Dios mach u tz'ibajtesi a noxi'paplajob ? U tzämsijob chich machcatac u worin äli cache' u xe tä te untu totoj Ajt'an ta Dios , jin une ni a wäq'uila tä c'äbäba y a tzämsila .
+44008031	Cache'		Une u yäli ca'da : ― ¿ Cache' cä xe cä chen entende si mach'an machca u ye'benon ? De ya'i u yäc'bi aj Felipe ochic tä chumtä tu ch'ejpa .
+44008033	Caxca une		Une sojpätesqui , y mach cherbinti niump'e cua' tu toja . ¿ Caxca une u xe u yäle' cache' utz cua' u chi a'ajtä pancab ? Uc'a uneba tzämsinti .
+44008034	caxcone		Aj eunuco u yälben aj Felipe ca'da : ― Älbenon , ¿ caxcone ni ca' ch'oc oveja , jini u yäli aj Isaíasba ? ¿ Une chich quira , o otro ?
+44008036	~		Tu bixejob tä bij , c'otijob bajca an ja' . Aj eunuco u yäli ca'da : ― Ya'anda ja' . ¿ U ch'e' quira c'ablacon bada ?
+44009004	cua' uc'a		Päcyäli tä cab , y u yubi ump'e t'an que u yälben ca'da : ― Saulo , Saulo , ¿ cua' uc'a a tz'ibajtesanon ?
+44009005	caxcaba		Une u yäli : ― Cajnoja , ¿ caxcaba winiquet ane ? Machca u chi t'an u yäli : ― No'on aj Jesúson jini a tz'ibajtesanonba . A sacän chich a yaj si a lomteq'ue' xec'onib .
+44009006	cuaxca		Chicchicna t'oc bac'ät , aj Saulo u yäli : ― Cajnoja , ¿ cuaxca a wo cä chen ? Ajnoja u yälbi ca'da : ― Ch'oyen , cux tan caj . Ya'i a xe tä älbinte cua' c'änä a chen .
+44010004	Cuaxca		Uneba ch'icwäni u jut u chänen , bäc'ti , u yäli ca'da : ― ¿ Cuaxca jini , Cajnoja ? Ni ángelo u yälbi : ― A c'änti'ya y cua'tac a sijbi a lot u yubi chich Dios , jin uc'a u c'ajti'inet .
+44010021	Cua'		Jaqui aj Pedro bajca an ni winicob u täsqui aj Cornelioba u yälbijob ca'da : ― No'on ni a sacänonlaba . ¿ Cua' a t'an atetla ?
+44010029	cuaxca tuba		Jin uc'a jinq'uin a joc'on mach acäli mach ticon . Cä c'atbenet jiq'uin , ¿ cuaxca tuba a täscon tä jo'can ?
+44010047	Caxca une		Aj Pedro u yäli ca'da : ― ¿ Caxca une u xe u yäle' mach utz c'ablacob t'oc ja' jindajob que äc'bintijob Ch'u'ul Pixan ca' chich bintonla ?
+44011017a	Caxcajon		Dios u yäc'bijob jinchichba matän ca' chich u yäc'bonla jinq'uin cä tz'ombila Cajnojala aj Jesucristo . ¿ Caxcajon no'onba tuba cäle' 
+44011017b	cache'		cache' mach utz cua' u chen Dios ?
+44012018	~		Tu t'äbo q'uin mach medio noj jobole ajni bajca an ajcänänyajob , u yäle'ob cada wäreca axi aj Pedro .
+44013025	cua' tuba		Jinq'uin aj Juan u chen u tzupsen u patan pancab , u yäli : “ ¿ Caxcajon no'onba a wäle'la ? Mach no'on une ni a wäle'laba . U te ji'pat que no'on untu , mach jinon niump'e cua' tuba cä p'ämben u täbi u pächi'oc ” .
+44014015	Cua' uc'a		― ¡ Cä lot ! ¿ Cua' uc'a a xe a chenla ca'da ? No'on t'ocob winicon t'ocob ca' chich anela . Cälbenetla a wäctanla jini a päpä' chenlaba . Tz'ombenla ni Dios cuxuba , jini u chi cielo , u pancab y nab , y upete cua' chichca ayan .
+44015010	cua' uc'a		Bada jiq'uin , ¿ cua' uc'a a wola a jaq'uesbenla ujin Dios , ca' a wälä a'benla tu p'ixte' machcatac u tz'omben uneba ump'e u cuch , jini ni cä paplajob mach bay u chi trebe u cuche' ni no'onla täcä ?
+44016030	cua'		U nebaj pa'sijob u yälbenob ca'da : ― Anela cä lot , ¿ cua' c'änä cä chen tuba cä japän cäba ?
+44017018	Cua'		Yebe ni machca tä' yo u yäle' cache'da u xe u pancabba , aj epicúreojob y aj estoicojob tä t'anob t'oc une . Yebe u yäle'ob : ― ¿ Cua' ti yo u yäle' ni ajt'an jini que mäx q'uen cua' u yäle' ? Yebe u yäle'ob : ― Ca' a wälä ajt'an tuba tzijib diosob . Uc'a une u tz'aycäbenob aj Jesús y cache' u xe tä cuxpan ajchämejob .
+44017019	cua'		U bisijob tä Areópago u yälbenob : ― ¿ U ch'e' quira cuwina'tan t'ocob cua' jini ni tzijib t'an a ye'e'ba ?
+44019003	cache'da		Une u c'atbijob : ― ¿ Cache'da c'abletla jiq'uin ? Unejob u yäli : ― C'ablon t'ocob ca' chich u yäli aj Juan c'ablac untu .
+44019015	caxcajetla		Pero ni tzuc pixanba u p'alänob ca'da : ― Cä chen conoce aj Jesús , cuwi camba aj Pablo . Anelaba , ¿ caxcajetla ?
+44019035	caba		Jinq'uin ajtz'ib tuba ajnoja u yäc'bijob ch'ijcolobacob , u yäli ca'da : ― Anela cä lot tä Efeso , ¿ caba winic mach yuwi cache' aj efesiojob u cänäntan mero ixnoja dios , ix Diana , u cänäntanob täcä ni santu ti tä Júpiterba ?
+44021013a	cuaxca		Aj Pablo u p'ali : ― ¿ Cuaxca a wuc'tanla , 
+44021013b	~		a bäc'tesanla cä pixan ? Uc'a no'on mach u che cächcacon , mach u che täcä tzämsinticon tä Jerusalén uc'a u c'aba' Cajnojala aj Jesús .
+44021022	cache'da		¿ Cache'da jiq'uin u xe tä ute ? Ni noj q'uenel gente u xe chich u woye' ubajob , uc'a u xe u yubinob cache' ajulet .
+44021033a	~		C'oti ajnoja u q'uechi , u yäq'ui tä cächcan t'oc chatz'it u cächquiba . U c'ati machca une , 
+44021033b	cua'		y cua' jini u chi .
+44022007	cua' uc'a		Yälon tä cab , cubi ump'e t'an , u yälbenon : “ Saulo , Saulo , ¿ cua' uc'a a tz'ibajtesanon ? ”
+44022008	Caxcaba		No'on cä p'ali : “ ¿ Caxcaba winiquet ane ? ” Une u yälbon : “ No'on aj Jesúson aj Nazaretba , jini a tz'ibajtesanonba ” .
+44022010	cua'		De ya'i cäli ca'da : “ Cajnoja , ¿ cua' jini u ch'e' cä chen ? ” Ajnoja u yälbon : “ Ch'oyen , cux tä Damasco . Ya'i a xe tä älbinte upete cua'tac c'änä a chen ” .
+44022016	cua' uc'a		Y bada , ¿ cua' uc'a a wäctan tuba dali ? Ch'oyen , äc'ä aba tä c'ablan . C'atben t'oc u c'aba' aj Jesús que u poque' a pixan uc'a pasic a tanä ” .
+44022026	cua'		Ajmanda ta cien soldado u yubi ca'da , bixi u yälben ni ajnoja ni t'an jini , u yäli ca'da : ― Iran cua' a chen . Uc'a ni winic jini aj romano une .
+44023003	~		Aj Pablo u yälbi : ― ¡ Dios u xe u chenet castiga , ane ajsusuccherialet ! Ca' a wälä ump'e bojte' säq'uesquet . Ane quira ya' chumcalet a chänen si cä chen tu toja ca' chich u yäle' ley , y aneba mach a che tu toja ca' u yäle' ley uc'a a wäq'ue'on tä äc'binte täc choj .
+44023009	~		Ch'oyi ump'e noj gran jobole de t'an . Tulaj an aj fariseojob jini que u ye'e' ni ley taj Moisésba ch'oyijob tä t'an , u yäle'ob : ― Mach cä pojläbe t'ocob niump'e u tanä ni winicda . Si pixan u pequi , si ángelo ta Dios u pequi , mach u ch'ä cä jule' cäbala tuyac'o Dios .
+44023019	Cuaxca		Ajnojaba u q'uechbi u c'äb ni ajlo' , u tz'eji uba t'oc , u c'atbi : ― ¿ Cuaxca a xe a wälbenon ?
+44026008	cuaxca uc'a		¿ Cuaxca uc'a mach a wola a tz'onän cache' Dios u cuxpesan ajchämejob ?
+44026014	cua' uc'a		Jinq'uin cäpete t'ocob laj yälon t'ocob tä cab , cubi ump'e t'an u pecänon tä hebreojt'an , u yäle' ca'da : “ Saulo , Saulo , ¿ cua' uc'a a tz'ibajtesanon ? A sacän chich a yaj si a lomteq'ue' xec'onib ” .
+44026015	Caxcaba		No'on cä p'ali : “ ¿ Caxcaba winiquet ane ? ” Ajnoja u p'ali : “ No'on aj Jesúson , jini a tz'ibajtesanonba .
+45002017	~		Ane chich a wäle' cache' aj judíoset . A wäle' cache' Dios u xe u sapänet uc'a ya'anet t'oc ni ley . A wäle' que sec' anela ayanetla t'oc ni totoj Dios .
+45002021	~		Ane jiq'uin , que a ye'ben otro , ¿ a laj cäni ane ? Ane a wäle' que mach utz utic xuch' . ¿ Mach quira a che xuch' ane ?
+45002028	~		Mach jin mero aj judío machca päncäbi de aj judío que u chen cua' chichca tuba u chänen u lotob cache' totoj aj judío . Mach jin mero circuncisión täcä ni sec'cac u pächi untu .
+45003001a	Cuaxcatac		¿ Cuaxcatac más utz u cänäntan aj judíosob jiq'uin ? 
+45003001b	cua' tuba		¿ Cua' tuba u chen servi ni circuncisión ?
+45003003	~		Pero mach upete u laj tz'onijob . ¿ A wäle' quira que uc'a ca' jini u chijob , Dios mach uxin u chen ca' chich u yäli u xe u chenba ?
+45003005	cache'		Cua'tac acä chenla no'onlaba que mach tu toja , u yäq'ue' tä chäninte cache' tu toja chich u chen Dios . ¿ Cache' cä xe cäle'la jiq'uin ? ¿ A wäle' quira que mach tu toja u chen Dios jinq'uin u yäq'ue' castigo ? No'onba acäli ca' jini uc'a ayan chich winicob u yäle' ca' jini .
+45003006	cache'		Pero mach ca' jini . Si mach tu toja u chen Dios , ¿ cache' u xe u jiran uneba si u chi tu toja a'ajtäjob pancab ?
+45003007a	~		Ayan machcatac u yäle'ob täcä ca'da : “ Si no'onla cä chenla jop'ojti' , y si jini jop'ojti' que cä chenla u ye'e' cache' tu toja chich u chen Dios y ca' jini u yäq'ue' que más ch'u'ul c'ajti'cac Dios , 
+45003007b	cua' uc'a		¿ cua' uc'a jiq'uin u chenon castigala Dios ca' untu ajcherajtanä ? ”
+45003008	~		¿ Utz quira cä chenla ump'e mal tuba ajnic ump'e bien ? Mach utz une . Ya' chich an machcatac u päpä' tz'aycunon cache' che' cäli ca' jini . Utz chich äc'bintic u castigo machcatac u yäle' ca' jini .
+45003009	Cache'da		¿ Cache'da a wäle'la jiq'uin ? No'on aj judíosonla . ¿ Más quira utzonla que aj gentilob ? Mach une . San chich acä tz'ibi tuba cälbenetla cache' upetejob aj judíos y ni mach jin aj judíosobba mero ajcherajtanäjob chich .
+45003027a	~		¿ U ch'e' quira cäle'la que utz acä chila no'onlaba ? Mach u ch'ä cäle'la ca' jini . Si cä laj tz'ombenla ni ley , u ch'e' cäle'la cache' utz acä chila . 
+45003027b	~		Pero mach cä che trebela cä laj tz'ombenla ni ley . 
+45003027c	~		Dios u japänonla uc'a cä tz'onänla cache' aj Jesucristo chämi por no'onla , y mach uc'a cä laj chen ca' chich u yäle' ley . Jin uc'a mach u ch'ä cäle'la que utz acä chila no'onlaba .
+45004001	~		Bada cä xe cälbenetla cache' u chi Dios t'oc aj Abraham , cä najtäcäl noxi'papla oni , no'onla que aj judíosonla .
+45004003	cache'da		¿ Cache'da u yäle' jiq'uin ni jun u yäq'ui tä tz'ibinte Diosba ? Ni jun u yäle' ca'da : “ Aj Abraham u tz'oni lo que u yälbi Dios , jin uc'a Dios u sapi cache' tu toja ayan ” .
+45004010	Caq'uin		¿ Caq'uin u sapi Dios cache' tu toja ayan aj Abraham ? ¿ Jinq'uin mach to circuncisa'o , o circuncisa'o chich jinq'uin ? Mach to circuncisa'o aj Abraham jinq'uin u sapi Dios cache' tu toja ayan .
+45005010	~		Jinq'uin mach to cä bisala jini bij ta Diosba , sis'i u c'ajalin t'oc no'onla uc'a chämi u Yajlo' tuba u japänonla . Bada que sis u c'ajalinba más totoj cuwila que cä xe tä japintela uc'a tubalonla chich jini u Yajlo' que cuxpiba .
+45005021	~		Ca' chich ajni u poder tanä tuba u yäq'ue' chämic untu , che' chich täcä ayan u poder Dios , uc'a tä' utz u c'ajalin tuba u yäq'ue' ajniconla tu toja y paq'uin cuxleconla uc'a Cajnojala aj Jesucristo .
+45006001	Cache'da		¿ Cache'da cäle'la jiq'uin ? ¿ Utz quira cä chen segui cä chen cä tanäla uc'a más u ch'ämbenonla yajin Dios ?
+45006002	cache'da		Ni tz'ita' mach utz une . No'onla es ca' ajchäme ayanonla bajca an ni cherajtanä . Si ca' jini ayanonlaba , ¿ cache'da u ch'e' cä chen seguila t'oc ni cherajtanä ?
+45006015	Cache'da		¿ Cache'da cäle'la jiq'uin ? ¿ U ch'e' quira cä chen cä tanäla uc'a mach'anonla tu manda ni ley , y uc'a anonla tu manda Dios ni utz u c'ajalinba ? Mach utz cä chen cä tanäla ni tz'ita' .
+45006021	Cuaxca		¿ Cuaxca u yäc'betla ni patan jini de cherajtanä , ni quisnetla a ubinla badaba cache'tacda a chila najtäcä ? Mach u yäc'betla niump'e cua' utz , uc'a u tojquiba de ni jiniba , chämo une .
+45007007	Cache'da		¿ Cache'da cäle'la jiq'uin ? ¿ Mach utz quira ni ley ? ¡ Utz chich une ! Machica cuwi cua' jini ni tanä si fuera mach ajnic ley . Machica cuwi täcä si tanä ni c'upom si mach u yäle' ley ca'da : “ Mach a c'upän cua' chichca jini que mach jin ta'a ” .
+45007024	Caxca une		¡ Lástimajon ! ¿ Caxca une u xe u japänon t'oc ni cä cuerpoda que u yäq'ue'on tä chämo ?
+45008024	Cua' uc'a		Mach to cä nonoj ch'äla jini u yäli Dios que u xe u yäc'benonlaba . U xe tä c'ote u q'uini jinq'uin cä nonoj xe tä äc'bintela . Dios u japonla chich , pero ya'to cä pijnanla u nonoj japänonla y u yäc'benonla upete lo que u yäli u xe u yäc'benonlaba . Si fuera cä cänäntanla upete ni jini , machica ni' an cua' uc'a cä pijnanla to .
+45008031a	cache'		¿ Cache' cä xe cäle'la t'oc ni acäliba ? Si Dios ayan t'oc no'onlaba , 
+45008031b	caxca une		¿ caxca une u xe u chen trebe u yäc'benon cä säte'la ?
+45008032	~		Dios u yäq'ui u Yajlo' y u yäcti tzämsintic por no'onla . Mach u yäli si mach u yäc'ä tä chämo . Si ca' jini u chiba , ¿ a wäle'la quira que mach uxin u yäc'benonla upete lo que c'änä cäc'ala nämte' t'oc ?
+45008033	Caxca une		¿ Caxca une u xe u sube' que mach'an tu toja jini machcatac u yaqui Diosba ? Uc'a Dios chich u yäq'ue' ajniconla tu toja .
+45008034	Caxca une		¿ Caxca une u xe u yäc'benonla cä toje' cä tanäla jiq'uin ? Mach'an machca une . Aj Cristo une chämi por no'onla . Mach sec' chämi , cuxpi täcä . Y mach sec' cuxpi , ya'an tu noj Dios . Une ni u c'atben Dios por no'onla .
+45008035	Caxca une		¿ Caxca une u xe u yäq'ue' que aj Cristo mach u ni' yajna'tanonla ? Mach'an machca . ¿ Tz'ibajtesia quira , o jini cua' chichca u yäc'ben ch'ocomac cä pixanlaba , o jini u sacän cache' u xe u tz'ibajtesanonlaba , o wi'na , o jinq'uin mach cä pojle cache' cä mäne' cä buclaba , o jini cua' chichca bäc'täbiba , o chämo t'oc machit ? Niump'e cua' mach uxin u yäq'ue' que aj Cristo mach u yajna'tanonla .
+45009014	~		Si ca' jini u chi Dios , ¿ a wäle'la quira que mach tu toja u chen ? ¡ Mach une ! Diosba u paq'uin chen chich tu toja .
+45009019a	cua' uc'a		Untu de anela a xe ti a wälbenon ca'da : “ ¿ Cua' uc'a jiq'uin u xe u yäle' Dios que mach u che tu toja a'ajtä pancab ? 
+45009019b	caxca une		¿ Uc'a caxca une u xe u ch'e' u chen cua' chichca si mach u yäc'be Dios u chen ? ”
+45009020a	Caxcajet		¡ Pero hombre ! ¿ Caxcajet ane tuba a wälben Dios que mach tu toja u chen t'oc a'ajtä pancab ? 
+45009020b	~		U ch'e' quira ump'e p'et de cab u yälben machca u päti ca'da : 
+45009020c	cua' uc'a		“ ¿ Cua' uc'a a päton ca'da ? ”
+45009021	~		Ni ajpätp'et u ch'e' chich u chen t'oc ni cab cua' chichca que u yolin u chen . T'oc jinchichba cab u ch'e' u päte' ump'e p'et pitzi y t'oc jinchichba cab u ch'e' u päte' ump'e que mach mäx pitzi .
+45009022	~		Dios täcä jinchichba poder u cänäntan tuba u chen t'oc no'onla ca' jini , uc'a une chich u chonla . Dios u ch'e' chich u yäc'ben u castigo machcatac u chi q'uen cua' chichca mach utz , jini que c'änä chich äc'bintic u castigo bajca u xe tä paq'uin sätoba . Pero mach to u che ca' jini , uc'a une tä' sis u c'ajalin t'oc unejob .
+45009023	~		Dios u ch'e' chich täcä u ye'e' cache' tä' utz u c'ajalin t'oc machcatac tä' u ch'ämbenob yajin , jini machcatac worin yäcä an uc'aba tuba xic tä cielo .
+45009024	~		No'onla une jini u worin yaconlaba , mach sec' aj judíosob . U yaqui täcä aj gentilob .
+45009030	Cache'da		¿ Cache'da cäle'la jiq'uin ? Aj gentilob mach u saquijob niump'e cua' u chenob tuba u sapänob Dios , pero Dios chich u sapijob uc'a u tz'ombenob aj Jesucristo .
+45009032	Cua' uc'a		¿ Cua' uc'a Dios mach u sapi ni aj Israelobba ? Dios mach u sapijob uc'a unejob u yäli que u xe u japän ubajob si u chenob ca' chich u yäle' ni ley sin que u tz'ombenob aj Jesucristo . Ca' a wälä u päcteq'uijob ump'e ji'tun y yälijob tä cab , y ni ji'tun jiniba , aj Cristo une . Jin uc'a mach u chi trebe u ch'e'ob jini jäpom que u yäq'ue' Diosba .
+45010006	Caxca une		No'onlaba u sapänonla Dios uc'a cä tz'onänla aj Cristo . Si cä totoj tz'onänla uneba , mach'an cua' uc'a cä c'atänla caxca une u xe tä t'äbo tä cielo tuba u jäcsen aj Cristo .
+45010007	Caxca une		Mach'an cua' uc'a cä c'atänla täcä caxca une u xe tä jaque can ajchämejob tuba u cuxpesan aj Cristo .
+45010008	Cache'da		¿ Cache'da u yäle' Dios jiq'uin ? “ U t'an Dios ya' chich an bajca anetla y u ch'e' a ubinla . U ch'e' a wäq'ue'la ta' pixanla y a tz'aycunla ” . Uc'a ni t'andaba jin chich ni t'an ta Dios cä tz'aycun t'ocob tuba tz'onintic .
+45010014a	cache'da		¿ Cache'da u xe u ch'u'ul c'ajti'ben u c'aba' Cajnojala aj Jesús si mach to u tz'onäjobba ? 
+45010014b	cache'da		¿ Cache'da u xe u tz'onänjob si mach bay u yubijob ? 
+45010014c	cache'da		¿ Cache'da u xe u yubinob si mach'an machca u tz'aycäbenob ?
+45010015	Cache'da		¿ Cache'da u xe tä ajtä machca u tz'aycäbenob si Dios mach u täsqui ? Ca' chich worin tz'ibi tan u jun Dios ca'da : “ ¡ Pitzi u chenob machcatac u te u tz'aycun jini t'an que Dios u yäq'ui tuba ajnic cä ch'a'aljinlaba , jini t'an tuba aj Cristoba ! ”
+45010016	cada		Pero mach upete u tz'ombijob ni t'an utzba . Aj Isaías u yälbi Dios täcä ca'da : “ Cajnoja , ¿ cada an jiq'uin ni machcatac u tz'oni ni t'an cä tz'ayquiba ? Uc'a ac'ä mäx tz'ita' ni machcatac u tz'oniba ” .
+45011004	cache'da		¿ Cache'da jiq'uin u p'albi Dios ? Dios u yälbi ca'da : “ Ya'to an siete mil wincärejob täc'a , jini mach bay nocwäni tu pänte' jini päpä' dios u c'aba' aj Baalba ” .
+45011007	Cache'da		¿ Cache'da cä xe cäle'la jiq'uin ? Cälbenetla que mach upete aj Israelob u pojli cache' u japän ubajob , sec' namás ni yäcä uc'a Diosba . Ni mach yäcä uc'a Diosba , más tzätz'i u pixanob .
+45011015	~		Si Dios sis'i u c'ajalin t'oc upete a'ajtäjob pancab jinq'uin u yäcti aj Israelob , más pitzi u xe jinq'uin Dios u xe tä sujtä u sapänob tä cha'num . Ca' jini es ca' a wälä u xe tä cuxpescanob tan ajchämejob .
+45011018	~		Mach a wäle' que más utzet que ni u c'äb te' que pa'sinti uc'a äc'caquet aneba . Uc'a si a wäle' ca' jiniba , c'änä a wina'tan que mach ane a chen mantene jini wi' te' . Wi' te' ni u chenet mantene aneba .
+45011033a	~		Mach'an niuntu que u c'ote ca' Dios , uc'a mäx q'uen cua' u cänäntan une . Mäx q'uen u c'ajalin Dios ixta mach'an u xupiba . Uneba yuwi chich upete cua' u xe u chen . Mach cä che trebe cuwina'tanla cache'da u te tu c'ajalin une jinq'uin u chen cua'tac yo u chenba . 
+45011033b	~		Mach cä che trebe cuwina'tanla täcä cua' uc'a u chen ca' jini .
+45011034a	caxca une		¿ Caxca une yuwi cache'da an u c'ajalin Dios ? Mach'an machca . 
+45011034b	caxca une		¿ Caxca une u yäc'ben c'ajalin cache'da u xe u chen ? Mach'an niuntu .
+45011035	Caxca une		¿ Caxca une u yäc'bi u matän Dios najtäcä uc'a Dios u sutjatz'ben u jelo ? Niuntu une .
+45014004	caxcajet		Aneba , ¿ caxcajet ane tuba a wäle' que mach tu toja u chen u yajpatan otro ? Mach jin a cuenta ane . U yum une ni u yäle' si utz o si mach utz cua' mu' u chen . Dios ni cä Yumla . Une u xe u yäle' cache' utz ni cua' cä chenla , uc'a Cajnojala Dios u cänäntan poder tuba u yäc'benonla cä chenla utz .
+45014010a	cua' uc'a		Aneba jiq'uin , ¿ cua' uc'a a wäle' que mach u che tu toja otros hermanojob ? 
+45014010b	cua' uc'a		¿ Cua' uc'a täcä a wäle' que mach to u totoj cänäjob ? Mach jin a cuenta ane tuba a chen ca' jini . Uc'a cäpetela chich cä xela tu pänte' aj Cristo tuba u jiran si acä chila tu toja .
+46001020a	cua'		¿ Cua' wäreca u chi pasajob jini tä' q'uen u c'ajalinob ? 
+46001020b	cua'		¿ Cua' wäreca u chi pasajob jini machcatac mäx yuwi jun ? 
+46001020c	cua'		¿ Cua' wäreca u chi pasajob jini machcatac cuxujtac pancab badaba que tä' yuwi t'anob ? Dios u yäq'ui tä säto ni c'ajalin que u cänäntan winicob pancabba .
+46002011	~		Niuntu mach yuwi cua' an tu c'ajalin otro winic . Une namás yuwi cua' an tu c'ajalin . Ca' jini täcä , mach yuwi niuntu winic cua' an tu c'ajalin Dios . Ni Ch'u'ul Pixan namás yuwi cua' an tu c'ajalin Dios .
+46002016a	~		Tz'ibi ayan tan u jun Dios ca'da : “ Niuntu mach'an machca yuwi cua' an tu c'ajalin Cajnojala Dios . Mach'an täcä machca u chen trebe u yäc'ben c'ajalin Dios ” . Pero no'onlaba , ca' chich ayan tu c'ajalin aj Cristo , che' chich ayan täj c'ajalinla täcä .
+46002016b	~		
+46003005a	cuaxca		No'on aj Pablojon , ¿ y cuaxca poder cä cänäntan no'on ? 
+46003005b	cuaxca		¿ Cuaxca poder u cänäntan aj Apolos ? No'on t'ocob ajpatanon t'ocob ta Dios . Cä tz'aycäbetla u t'an Dios . Jin uc'a a tz'onila . Cajnojala u yäc'bon t'ocob ni patan que une yo u yäc'ben cada juntu de no'on t'ocobba .
+46004007a	caxca		¿ Caxca wäreca une u yäc'bet ajniquetla más mejor que otrosjob ? Mach'an machca . 
+46004007b	cua'		Mach a cänäntala niump'e cua' que Dios mach u yäc'betla . 
+46004007c	cua' uc'a		Si äc'bintetlaba , mach'an cua' uc'a a chen abala como si fuera mach matän a chila lo que a cänäntanla .
+46004021	Caxcamba		¿ Caxcamba a yacänla , jiq'uin ? ¿ Xicon ca'anetla ca' a wälä t'oc te' tuba cä'benetla t'oc ? ¿ O xicon cä yajna'tanetla y t'oc ump'e cä c'ajalin sisba t'oc anela ?
+46005002	~		Y anelaba a chen aba famala cache' utz mu' a chenla tu jut Dios . Lo que u yoli a chenlaba , a ch'ocomesan a pixanla y a pa'senla ni winic que u chi ni tanä jiniba .
+46005012	cua' uc'a		Uc'a mach'an cua' uc'a cä sacben u tanäjob machcatac mach u tz'onäjob . Unejob Dios u xe u yäc'ben u toje' u tanäjob . Pero machcatac u yajnejob tan ch'uj tuba u ch'u'ul c'ajti'inob Diosba , anela chich c'änä a sacben u tanäjob si u säte'ob , y a wäc'benla u toje' . Pa'senla , jiq'uin , bajca anetla jini winic que u chi ni tanä jiniba .
+46006001	cua' uc'a		Jinq'uin untu de anela a cänäntanla buya t'oc otro untu a wermanola , mach'an cua' uc'a xiquet a joq'ue' tu pänte' ni juezob que mach u tz'onäjobba . C'änä a joq'ue' tu pänte' machcatac ta Diosba tuba u jiranob t'oc .
+46006003	~		No'onla chich cä xe cä sacbenla u tanäjob ángelojob que ajnijob t'oc Dios y ji'pat pasi u säte'ob . Si ca' jini cä xe cä chenlaba , más u ch'e' a sacbenla u toja cua' chichca u yute pancabba .
+46006004	Cua' uc'a		Si ajnic machca de anela u cänäntan ump'e buya t'oc u lot , mach'an cua' uc'a u päye' tu pänte' untu juez que mach jin untu de anela que a woylan abala tuba a c'ajti'inla Dios .
+46006007a	cua' uc'a		Ca' jiniba es a tanäla chich ajnic buya entre de anela . ¿ Cua' uc'a mach a c'älela lo que a cherbintela que mach jin u tojaba ? 
+46006007b	cua' uc'a		¿ Cua' uc'a mach a c'älela jajbintiquetla cua' chichca ?
+46006009	~		¿ Mach quira a wila que ajcherajtanäjob mach uxin tä äc'binte ochic bajca u chen manda Dios ? Mach a sucpecän abala . Mach chich uxin tä äc'binte ochicob bajca u chen manda Dios jini machca u chen vida t'oc ixic sin que lotojac t'ocba , ni jini machca u ch'u'ul c'ajti'in cua' chichca santu pancab , ni machca u chen ni cherajtz'ijte' , ni jini machca u yäq'ue' uba tä cherbinte ca' u cherbinte ixic , ni jini machca u chen u lot winic ca' ixic ,
+46006016	~		¿ Mach quira a wila que machca u yole' uba t'oc untu ixic que u chone' uba u sujtä ca' a wälä tontu t'oc une ? Uc'a tz'ibi ayan tan u jun Dios ca'da : “ Machca u ch'e' untu ixic u xe tä sujtäjob ca' a wälä tontujob ” .
+46006019	~		¿ Mach quira a wila que jini a cuerpola ca' a wälä ump'e ch'uj tuba Ch'u'ul Pixan , y uneba ya'an ta'wac'ola ? Dios u yäc'betla chich ni Ch'u'ul Pixan , y jin uc'a mach u ch'ä a chen aba mandala .
+46007016a	cache'da		Uc'a ¿ cache'da a wi aneba , ixic , si a wit'oc u xe chich ti u japän uba por ane ? 
+46007016b	cache'da		o ¿ cache'da a wi aneba , winic , si u xe chich ti u japän uba por ane a wit'oc ?
+46009007a	~		¿ Ayan quira untu ajjo'yan que u chen uba mantené u juntuma ? Mach ayan une . 
+46009007b	~		¿ Ayan quira machca u päq'ue' ni te' uva y mach u c'uxbe u jut ? Mach ayan une . 
+46009007c	~		¿ Ayan quira machca u tz'isen beq'uet y mach u yuch'be u lech ? Mach ayan täcä .
+46009018	Cua'		¿ Cua' une , jiq'uin , ni u tojquiba cä patan ? Jin une , ni ch'a'aljin que u yäc'benon jinq'uin cä tz'aycun u t'an aj Cristo sin que u toje'on niuntu , y mach cä c'atä täcä tojcacon , ca' u ch'e' cä chen si colinicaba .
+46010019a	~		Jini lo que co cäle'ba es que mach jin cua' une ni santu , 
+46010019b	~		y mach jin cua' une jini cua' tä c'uxcan u yä'can pan santuba .
+46010019c	~		
+46010029	~		Mach a c'uxe'la , mach uc'a mach utz c'uxcac , uc'a anela a wila que u ch'e' a c'uxe'la . Pero mach a c'uxe'la uc'a ni otro u te tu c'ajalin bay mach utz c'uxcac jini cua' tä c'uxcan que u nume tu pan santuba . A xe chich ti a wäle' ca'da : “ No'on u ch'e' cä c'uxe' upete cua' chichca jini que co cä c'uxe'ba , mach u che si ajnic otro machca u yäle' que mach utz c'uxcac .
+46010030	Cua' uc'a		Si cä c'uxnan y cä'ben u c'aba' Dios por lo que u yäc'bon , ¿ cua' uc'a cä xe tä älbinte cache' acä säti si acä'ben u c'aba' Dios por lo que u yäc'bon cä c'uxe' ? ”
+46011022	cua'		¿ Mach quira an a wototla bajca u ch'e' c'uxnaquetla y buq'uiquetla ? ¿ O a wo a chenla ca' a wälä mach jin cua' jini u woylan ubajob u ch'u'ul c'ajti'in Dios y a quisnäjesanla machcatac mach u cänänta cua'ba ? ¿ Cua' une cä xe cälbenetla ? ¿ Cä xe quira cäle' cache' tä' utz mu' a chenla ? Por jini que mu' a chenlaba , mach uxon cäle' cache' utz mu' a chenla .
+46012017a	cache'da		Si ajnic ica entero u cuerpo untu seq'uen u jut , mach'an cache'da u yubin t'an . 
+46012017b	cache'da		Si ajnic ica entero u cuerpo untu seq'uen u chiquin , mach'an cache'da u yutz'än niump'e cua' .
+46012019	~		U cuerpo untu mach tz'äcä si ump'emp'e parte namás u cänäntan .
+46014006	cache'da		Hermanos , si xicon ica ca'anetla cä lotänetla t'oc yänäl t'an que mach cä cäni , mach'an cache'da cä täclenetla ca' jini . Pero u ch'e' cä täclenetla si cälbenetla lo que Dios u yäc'bon cuwina'tan , o si cä ye'benetla ni u tojaba . U ch'e' cä täclenetla si cä tz'aycäbenetla ni t'an que Dios u yäc'benon cäle' o si cä ye'benetla ump'e u t'an Dios que tz'ibi ayanba .
+46014007	~		Ca' jini chich täcä untz'it ämäy o cua' chichca instrumento que u jätz'canba . U chenob son , pero mach u juntuma . Pero , si mach tu toja u pase ni son , mach totoj cheque camba son u jätz'can .
+46014008	~		Machca u yustan ni corneta , si bälä ni son u yustanba , mach uxin u tuse' uba niuntu jinq'uin u jo'can xic tä jo'yan .
+46014009	cache'da		Che' chich täcä anela , si mach a chen t'an t'oc a ti'la que u ch'e' utic entendeba , ¿ cache'da u xe tä wina'tinte cua' a wäle' ? Ca' a wälä a xe a chen t'an que u säto tiac'o ic' .
+46014015	~		Ca'da cä xe cä chen , jiq'uin . Cä xe cä chen c'änti'ya t'oc ni yänäl t'an que cä pixan u yäc'benon cä chen , y cä xe cä chen c'änti'ya t'oc cä t'anla no'on täcä uc'a utic entende cua' cäle' . Cä xe cä chen c'ay t'oc ni yänäl t'an que cä pixan u yäc'benon cä chen , y cä xe cä chen c'ay t'oc cä t'anla no'on täcä uc'a utic entende cua' cä c'äye' .
+46014016	cache'da		Si a c'ajti'ben u c'aba' Dios seq'uen t'oc jini yänäl t'an u yäc'benet a chen a pixan , y si ajnic untu ya' jini que mach to u yoco cänä , mach'an cache'da u ch'e' u yäle' une que ca' chich jini utic jinq'uin a c'ajti'ben u c'aba' Dios . Uc'a mach yuwi cua' a wäle' .
+46014026	cache'da		Cä xe cälbenetla , jiq'uin , cache'da c'änä a chenla jinq'uin a woylan abala . Ayan lo que u ch'e' u chen cada juntu . Untu u ch'e' u c'äye' ump'e salmo , untu u ch'e' u ye'e' tu toja tz'ita' u t'an Dios , untu u ch'e' u chen ni yänäl t'an , otro untu u ch'e' u chectesan cua' jini ni yänäl t'an que utiba , y otro untu u ch'e' u chectesan lo que Dios u yäq'ui tä wina'tinte . Chenla upete tuba más a c'ac'a' tz'onänla .
+46014036	~		C'änä tic ta' c'ajalinla cache' u t'an Dios mach tä'qui tä tz'ayquinte bajca anetla . Mach sec' anela täcä a sapila .
+46015012	cua' uc'a		Si no'on t'ocob cä tz'aycäbetla que aj Cristo cuxpi tan ajchämejob , ¿ cua' uc'a jiq'uin a tulaj äle'la que mach uni' xin tä cuxpan ajchämejob tä cha'num ?
+46015029a	~		Jini machca nämäjtac u yäq'ue' ubajob tä c'ablan en lugar de ni achämijobba , 
+46015029b	~		¿ mach quira u chenob ca' jini uc'a u tz'onänob que u xe tä cuxpan ni ajchämejob ? Si ajchämejob mach u cuxpajob , 
+46015029c	cua' uc'a		¿ cua' uc'a u yäq'ue' ubajob tä c'ablan en lugar de unejob , jiq'uin ?
+46015030a	~		Y no'on t'ocob ni apóstoljon t'ocob , si machica cuxpac ajchämejob , 
+46015030b	cua' uc'a		mach'an cua' uc'a cä c'älen t'ocob cada rato cua' chichca u cherbenon machcatac yo u tzämsenon t'ocob .
+46015032	cua'		Jinq'uin ajnon tama ni caj tä Efeso ca' a wälä cä chi buya t'oc te'el animajob , uc'a cherbinton q'uen cua' chichca jini . Si machica u cuxpan ajchämejob mach'an cua' uc'a cä c'älen cherbinticon ca' jini . Utzica cä chen ca' machca u yäle'ob ca'da : “ Cola cä ch'a'alesan cäjinla tä c'uxnan y tä buc'a uc'a ic'ä chich ti o chabi cä xela tä chämo ” . Ca' jini u yäle'ob .
+46015035a	cache'da		Untu u xe chich ti u c'atän ca'da : “ ¿ Cache'da wäreca u xe tä cuxpan ajchämejob ? 
+46015035b	cuaxca		¿ Cuaxca cuerpo u xe u täsenob ? ”
+46015055a	~		Niuntu mach uni' xin tä chämo . Niuntu mach uni' xin tä colan tan u ch'ena bajca mujqui ” . Ca' jini u yäle' tan u jun Dios .
+46015055b	~		
+47002002	Caxca une		Si no'on cä ch'ocomesan a pixanlaba , ¿ caxca une jiq'uin u xe u ch'a'alesan cäjin ? Mach'an machca seq'uen anela chich machcatac cä ch'ocomesbetla a pixanlaba .
+47002016	Caxca une		No'on t'ocob cä c'ote t'ocob ca' a wälä ump'e yutz'u xilawba tuba machcatac mu' u sätojob y u yäq'ue' chämicob . Machcatac mu' u japintejobba , no'on t'ocob ca' a wälä ump'e yutz'u tä' jätz'äcnaba tubajob une y u yäq'ue' cuxlecob . ¿ Caxca une u chen trebe u chen ca' yo Dios cä chenla ?
+47003008	~		Si u c'ac'a' chicti u pitzilan Dios ca' jini jinq'uin tz'ibinti ni ley jini que u yäq'ue' chämoba , más u c'ac'a' xe u yäq'ue' tä chäninte u pitzilan Dios t'oc lo que u yäc'benonla ni Ch'u'ul Pixanba .
+47003009	~		Uc'a si u chicti u pitzilan Dios jinq'uin äc'qui jini ley que u yäq'ue'onla tä chämoba , más u c'ac'a' xe tä chectan u pitzilan Dios uc'a ni tzijib t'an que u yäq'ui Dios tuba ajniconla tu toja .
+47006014a	~		Mach a yole' abala t'oc machcatac que mach u tz'ombe u t'an Diosba , uc'a unejob mach jin a lotla . Ni u tojaba mach u ch'ä ajnic tomp'e t'oc ni malujle . 
+47006014b	~		Ni junch'äcniba mach u ch'ä ajnic tomp'e t'oc ni it'obni .
+47006015a	~		Mach u ch'ä ajnic tomp'e u c'ajalin aj Cristo t'oc ni tzuc pixan . 
+47006015b	~		Ca' jini täcä , untu que u tz'onän mach u ch'ä ajnic tomp'e u c'ajalin t'oc machca que mach u tz'onäba .
+47006016	cua' uc'a		No'onla que tubalonla Dios mach'an cua' uc'a cä xabän cäbala t'oc jini yänäl diosob que u yute t'oc u c'äb winicba , uc'a no'onla chich ca' a wälä ni ch'ujonla tuba ni Dios cuxuba , ca' chich u yäli Dios oni tama ni jun tubaba ca'da : No'on ya' paq'uin cuxulon tama unejob y cä xe tä nume nämte' t'oc unejob . No'on chich une acä xe tä ajtä de Dios tubajob y unejobba u xe tä ajtäjob de ni gente täc'aba .
+47011011	cache'		¿ A wäle'la quira cache' cäle' ca' jini uc'a mach cä yajna'tetla ? Dios yuwi que cä yajna'tanetla chich .
+47011029a	~		Si ajnic machca que mach u che trebe u c'älen cua' chichca que u te tuyac'o , u ch'ocoman cä pixan , ca' a wälä no'on que mach cä che trebe cä c'älen . 
+47011029b	~		Si ajnic machca u yäc'ben u säte' u lotba , u yälo ump'e quisin y ump'e cräxle täj c'ajalin .
+47012013	cua'tac		Älbenonla cua'tac utz acä cherbi otrosjob que u woylan ubajob cachichcada que anela mach cä cherbetla . Seq'uen jinda mach cä chi : Mach bay cä'betla a toje'onla . Si cä säti t'oc anela ca' jini , chenon perdonala jiq'uin .
+47012017	caxca		Jini winicob cä täsqui ca'anetla , ¿ caxca de unejob cä'bi u sucpecänetla tuba u ch'ämbenetla cua' chichca ?
+48002014	can uc'a		Jinq'uin cä chäni no'on cache' mach u totoj chejob tu toja ca' chich u ye'e' u t'an Dios , jini u ye'e' cache' cä japän cäbalaba , cälbi aj Pedro tu jut upete hermanosjob ca'da : “ Ane , que aj judíoset , y a chen ca' chich u chen jini que mach jin aj judíosob , ¿ can uc'a a wo jiq'uin a cocoj äc'ben u chenob ca' chich u chen aj judíosob jini que mach jin aj judíosobba ? ”
+48003001	Caxcone		¡ Ajsinc'ajalinetla ixca , hermanos gálatas ! ¿ Caxcone u tz'a'ta'etla tuba mach a ni' tz'onänla ni totoj t'an ta Dios ? Jinq'uin cä tz'aycäbetla u t'an Dios , cä totoj älbetla chich cache' aj Jesucristo une ni chämi por anela .
+48003019	Cua' tuba		¿ Cua' tuba äc'qui jiq'uin ni ley taj Moisés ? Ni ley taj Moisés äc'qui tuba u ye'e' camba mach utz utic . Ni jini u xe tä ajtä ixta que tic aj Cristo , jini que Dios u yäli que u xe u täscunba . Ni leyba , Dios u yäc'bi ángelojob tuba u numsäben aj Moisés , y aj Moisés u numsäbi ni gente .
+48004009a	can uc'a		Badaba anela a sapila Dios , o mejor cäle' que Dios u sapetla . ¿ Can uc'a jiq'uin a wo sujlequetla a chenla tä cha'num ca' chich a chila najtäcäba , 
+48004009b	~		jini que mach u che trebe ni tz'ita' u japänonlaba ?
+48004010	~		Uc'a anelaba a täq'ui a cänäntanla cua' chichca q'uin que u cänäntanob aj judíosobba , cua' chichca mes , cua' chichca päpä' q'uin ch'uj , y q'uin ch'uj tuba tzib año .
+48004015	cada		¿ Cada axi jiq'uin ni ch'a'aljin que a cänäntila jimba q'uinob jini ? No'on mismo cäle' que si fuera no'on u chon falta unxim cä jut jinq'uin , ixta a pa'sila ica unxim a jutla tuba a wäc'benon , si fuera u ch'e' a chenla ca' jini .
+48004021	~		Anela que a wo a chenla ca' chich u yäle' ni ley taj Moisés , älbenonla jiq'uin jinda : ¿ Mach quira bay a ubila cua' u yäle' ni ley jini ?
+48004030	cua'		A wila chich cua' u yäle' u t'an Dios , cache' Dios u yälbi aj Abraham ca'da : “ Pa'sen tan otot u yajlo' ni ixpatan con to'o u na' , uc'a une mach uxin tä äc'binte lo que aj Isaac u xe tä äc'binte ” .
+48005007a	Caxcone		Anela utz a bixela t'oc lo que a tz'onänla . ¿ Caxcone jiq'uin u yäc'betla a wäctanla a tz'onän ni totoj t'an ta Diosba ?
+48005007b	~		
+48005011	~		Ayan chich machca u yäle' que no'on acä ye'e' to cache' c'änä utic ni circuncisión . Si fuera ca' jini cä chen icaba , mach ica cäräx aj judíosob t'oc no'on . U yälo ica utz tu c'ajalinob jinq'uin cä ye'e' cache' chämi aj Cristo tä cruz .
+49004009	~		Jinchichba aj Cristo que t'äbi tä cieloba , najtäcä jaqui une ixta tu pancab .
+50001018	cuaxca		¿ Y cuaxca u chi ? Si ayan machcatac u yäle' u t'an aj Cristo , mach u che si utz u c'ajalinob ; o si mach mäx utz u c'ajalinobba , mach u che cua' täcä . Ch'a'a chich cäjin uc'a u t'an chich aj Cristo ni u yäle'obba . Más u ch'a'alan cäjin ,
+50001021	~		Si cuxlecon , tomp'e cä c'ajalin cä chen ca' yo aj Cristo . Si chämicon , acä'binte chich más cutzi tä cielo .
+51002020	cua' uc'a		Anelaba ca' a wälä chämetla nämte' t'oc aj Cristo , y ca' jini a wäctila chich a päpä' tz'onänla cua' chichca u yäle' a'ajtäjob pancab tuba a japän abala . Mach'an cua' uc'a jiq'uin a chen segui a chenla ca' chich u chen a'ajtäjob pancab , ca' a wälä anela tubaletla to u pancab .
+52002019	cua'		¿ Cua' une ni acä pitän t'ocob ? ¿ Cua' une ni u ch'a'alesan cäjin t'ocob ? ¿ Cua' une ni acä xe tä äc'binte t'ocob u jelo ni patan acä chiba ? ¿ Mach quira anela chich a xe a c'ac'a' ch'a'alesan cäjin t'ocob jinq'uin cä xela tu pänte' Cajnojala aj Jesucristo , tu te uneba ?
+52003009	~		Tä' re'i de ch'a'a cäjin t'ocob uc'a anela , ixta mach cä ni' pojle cache' cälben t'ocob Dios que uc'adios u chi uc'a mäx a ch'a'alesbon cäjin t'ocob chich tu pänte' Dios .
+54003005	cache'		Uc'a machca mach u che trebe u chen manda tan yototba , ¿ cache' u xe u chen trebe u chen manda machcatac u tz'ombi u t'an Dios ?
+54006007a	~		Uc'a jinq'uin päncäbonla , mach cä täsila niump'e cua' . 
+54006007b	~		Che' chich täc chämola täcä mach u ch'ä cä bisanla niump'e cua' .
+58001005	~		Niuntu ángelo mach bay a'uti Dios u yälben ca'da : Ane Cajlo'et . Sami chich cä'bet cuxlequet . Mach ángelo täcä u yäli Dios jinq'uin u yäli ca'da : No'on cä xe de u Pap . Une u xe de Cajlo' .
+58001013	~		Pero Dios mach bay u yälbi niuntu u ángelo ca'da : Chumi' täc noj ixta que mach cä laj pa'säben u poder jini que mach yo u chänenetba .
+58001014	~		Upete jini u ángelo Dios u yajpatan chich une . Dios u täscun tuba u täclen t'oc cua' chichca que c'änä uc'ajob jini machcatac u yaqui uneba tuba u nonoj japän .
+58002003	cache'da		No'onlaba jiq'uin ¿ cache'da u ch'e' cä japän cäbala si mach cä sapäla ni jäpom que u yäc'benonla Diosba , jini más utzba ? Cajnojala u täq'ui u ye'e' najtäcä cache'da u ch'e' u japänonla Dios , y badaba machcatac u yubijob u t'an u ye'benonla täcä .
+58002006a	Caxcajon		Ayan chich bajca u yäle' tama u jun Dios ca'da : Aneba cä Dios , ¿ caxcajon t'ocob tuba a c'ajti'inon t'ocob ? 
+58002006b	Caxcajon		¿ Caxcajon t'ocob tuba ajniquet a wiranon t'ocob ? Mach jinon t'ocob niump'e cua' y mach cä cänänta t'ocob poder ta' pänte' . Pero ane a yajna'tanon t'ocob chich .
+58003016	Caxcatac		¿ Caxcatac une ni jinijob u yubijob u t'an Dios y mach u tz'ombijob ? ¿ Mach quira jini que u laj japijob aj Moisés tu c'äb aj Egiptoba ? Unejob chich .
+58003017	Caxcatac		¿ Caxcatac t'oc xi tä cäräx'an Dios cuarenta año ? ¿ Mach quira t'oc jini machcatac u sätijob t'ocba , jini machcatac chämijob ya'i bajca mach cuxu niuntu ? T'oc unejob chich .
+58003018	Caxcatac		¿ Caxcatac une u yäli Dios que mach uxin u yosen tama jini cab bajca u xe u ch'e' ubajobba ? ¿ Mach quira jini machcatac mach u tz'ombi u t'anba ? Unejob chich .
+58006004	cache'da		Bada cä xe cäle' cache'da ayanob ni machcatac jäbtesbinti u c'ajalin najtäcäba , machcatac u sapijob ni matän que Dios u yäq'ue' , jini que ya' ti tä cieloba , jini machcatac u sapijob ni Ch'u'ul Pixan tuyac'oba ,
+58007011	Cua' uc'a		Jinq'uin äc'binti ni gente ni ley , äc'bintijob täcä tama jini ley ni palejob aj Leví cua'tac u xe u chen por ni caj . Si uc'a lo que u chenob ni pale aj Levíjobba u ch'e' ajnic untu tu toja tu jut Dios , ¿ cua' uc'a jiq'uin c'änäli ch'oyic otro untu pale ca' chich ni paleji que u cänänti aj Melquisedecba ? ¿ Cua' uc'a jiq'uin mach ch'oyi otro pale ca' chich ni paleji que u cänänti aj Aarónba jini u pap aj Levíjobba ?
+58009014	~		Si ni jini u chi vale ajniba , más chich u chen vale u ch'ich'e aj Cristo tuba u laj pa'säbenon cä tanäla . Uneba u subi uba tu c'äb Dios sin niump'e u tanä , ca' chich u yäc'bi u chen ni Ch'u'ul Pixan que paq'uin an y mach'an u xupibaba . Jin uc'a u ch'ich'e uneba u chen vale chich tuba u laj pa'sen täj c'ajalinla jini cä chenla que u yäq'ue' chämiconlaba . Ca' jini u ch'e' cä cherbenla u patan ni Dios cuxuba .
+58010001	~		Ni ley taj Moisésba u ye'benonla tz'ita' jini cua' chichca utztac que u xe u yäc'benonla Diosba . Ni ley mach u yäc'bonla une . Ni jiniba es ca' a wälä u yetz' une ni u xe u yäq'ue' Diosba . Jin uc'a ni ley mach u ch'ä u yäq'ue' tu toja jini machcatac u c'ote tu pänte' Dios u subben u matän cada año .
+58010029a	cache'		Bada jiq'uin , tic ta' c'ajalinla cache' más c'ux ni castigo u xe tä äc'binte machcatac mach u sapä u Yajlo' Dios , 
+58010029b	~		ca' a wälä u xac'äjteq'ue' tä cabba , 
+58010029c	~		machcatac u yäle' cache' mach utz jini u ch'ich'e aj Jesucristo que äc'qui tuba u pa'säben u tanäjobba y machcatac u xiq'ue'ob ni Ch'u'ul Pixan que utz u c'ajalin t'oc no'onlaba .
+58010029d	~		
+58011032	Cua'		¿ Cua' más cä xe cäle' jiq'uin ? Uc'a mach ni' an tiempo tuba cä laj tz'aycäbenetla cua'tac u chi aj Gedeón , aj Barac , aj Sansón , aj Jefté , aj David , y che' chich täcä aj Samuel y upete u yajt'anob Dios .
+58012007	~		C'älenla chich cua' chichca que u cherbenetla Dios tuba u yäq'ue' a chenla tu tojaba . Dios u cherbenetla ca' jini uc'a u ch'ocobetla chich . Niuntu ajlo' mach'an que u pap mach u yäc'ben c'ajalin .
+58012009	Cua' uc'a		Cä papla pancab u yäc'bonla chich c'ajalin t'oc jatz' y t'oc q'uejpaya , y cä sapila chich . ¿ Cua' uc'a jiq'uin mach cä sapäla ni c'ajalin u yäq'ue' cä Papla tä cieloba tuba paq'uin cuxleconlaba ? Más rete c'änä cä sapänla ni c'ajalin jini .
+58012025	cache'da		Iranla , mach a wäle'la que mach uxet u sapänla u t'an ni machca u pecänetlaba . Uc'a si mach u chi trebe u japän ubajob jini aj Israelob que mach u sapijob ni c'ajalin que äc'bintijob wida pancabba , ¿ cache'da jiq'uin u ch'e' cä japän cäbala no'onlaba si mach cä sapäla ni c'ajalin u te ixta tä cielo tuba äc'binticonlaba ?
+58013006	cua'		Uc'a Dios u yälbenonla ca' jini , cuwila cache' toj chich täcä jinq'uin cäle'la ca'da : Cajnojala Dios une ni cajtäclaya . Mach uxon cä bäc'tan ni tz'ita' cua' chichca jini que yo u cherbenon winic .
+59002006	~		Pero anelaba a quisnäjesanla ni pobrejilba , y ni ajtaq'uinijob que anela utz a c'ajalinla t'ocba , ¿ mach quira yocol unejob u tz'ibajtesanetla ? ¿ Mach quira yocol unejob u päye'etla tä juez ?
+59002014	cua' tuba		Anela hermanos , ¿ cua' tuba u chen servi si untu u taj äle' que u tz'onänba ? ¿ U ch'e' quira u japän uba ca' jini si u taj äle' que u tz'onänba ? Mach une .
+59002016a	~		y ane a wälben ca'da : “ T'oc Dios bixiquet , xojo a jeli' sisi ta'wac'o y c'uxnen ixta que mach na'aquet ” , pero si mach a wäc'be lo que c'änä uc'aba , 
+59002016b	cache'da		¿ cache'da a täclen ca' jini ?
+59002018	cache'		Ayan chich ti machca u xe u yäle' ca'da : “ Aneba sec' a tz'onän , y no'onba sec' acä chen cua' chichca utz ” . ¿ U ch'e' quira a ye'benon cache' a totoj tz'onän sin que a chen niump'e cua' utz ? No'onba cä xe chich cä ye'benet cache' cä tz'onän t'oc ni cua' chichca cä chen utztacba .
+59002021	cache'		¿ Mach quira u yäli Dios cache' ayan tu toja cä najtäcäl noxi'papla aj Abraham jinq'uin aj Abraham u yäli que u tzämsen u yajlo' , aj Isaac , pan ni ji'tun tuba u subben Dios , ca' chich älbinti u chen ?
+59003013	~		Si ajnic tama de anela machca chichca que an u c'ajalinba , jini que tä' yuwi cua' chichca utzba , une c'änä u ye'e' que jini c'ajalin u cänäntanba u yäc'ben u chen tu toja y ajnic ch'oc u pixan .
+59003017	~		Pero si cä cänäntanla ni c'ajalin que Dios u yäq'ue'ba , cä xe cä chenla ca'tacda une : Najtäcä mach uxon cä xac'än cä c'ajalinla t'oc niump'e cua' mach utz . Jin uc'a täcä mach cä chela buya . Ch'oc cä pixanla t'oc cä lotla y cä tz'onän cä chenla lo que cälbintela . Cä täclenla machcatac c'änäjtac uc'ajob täcä y cä chenla utz t'oc upete . Ca' chich cä chenla t'oc untu , che' chich cä chenla t'oc otro , y mach cä chela niump'e cua' täcä tuba cä sucpecän niuntu .
+59004001a	cua' uc'a		¿ Cua' uc'a ayan noj jobole 
+59004001b	~		y buya tama de anela ? Es uc'a apetela a maläc c'upänla cua' chichca jini tan a pixanla , y jinchichba c'upom que a cänäntanla u yäc'benet a chenla buya .
+59004012	Caxcajet		Seq'uen Dios une u yäq'ue' ni ley , y seq'uen une u ch'e' u yäle' si cä chenla ca' chich u yäle'ba . Une chich u ch'e' u japän machcatac u tz'omben , y u ch'e' u yäq'ue' tä nonoj säto machcatac que mach u tz'ombeba . ¿ Caxcajet ane , jiq'uin , tuba a wäle' que mach utz cua' u chen a lot ?
+59004014	cache'da		Ca' jini a wäle'la , pero mach a wila cua' u xe tä ajtä ic'ä . ¿ Cache'da anetla pancab ? ¿ Mach quira tajtzäc a xupola ca' ump'e ye'eb que u chäninte tz'ita' y seb u säto ?
+60002020	~		Si ajätz'quetla uc'a a tanäla y mach a t'äbsen abala mach'an cache' älbintiquetla cache' utz cua' a chila , pero jinq'uin a chenla utz y a jätz'canla sin que a t'äbsen abala , ca' jini tä' yoba u chänen Dios .
+60003013	Caxca une		¿ Caxca une u xe u tz'ibajtesanetla si nämäletla a chenla ni utzba ?
+60004017	~		Ac'oti u q'uini bada tuba u täq'ue' u jiran Dios si machcatac u tz'omben uneba u chijob tu toja ; y si u täq'ue' t'oc no'onla , bäye ti jini toji'tanä que u xe tä c'ac'a' äc'binte machcatac que mach u tz'ombe u t'an Dios .
+60004018	cua'		Si a la fuerza u japän ubajob machcatac an tu tojaba , ¿ cua' wäreca u xe u chen pasa ajsin Diosob y ajcherajtanäjob ?
+61003004	Cua' uc'a		U xe u yäle'ob ca'da : “ ¿ Cua' uc'a mach to jul aj Cristo ca' chich u yäliba ? Uc'a dende jinq'uin chämi cä najtäcäl noxi'papla upete cua' chichca ya' chich paq'uin ayan ca' chich ajni jinq'uin uti upete cua'tac ayan pancab ” . Ca' jini u xe u yäle'ob .
+61003011	~		Uc'a upete ni jini u xe tä säto , ¿ mach quira c'änä ch'u'ul ajniquetla tuba a chenla tu toja y a chenla ca' chich yo Dios ?
+62002022	Caxca une		¿ Caxca une ni ajjop'ojti' ? ¿ Mach quira jin ni u yäle' cache' aj Jesús mach jin aj Cristo ni u täsqui Diosba ? Uc'a machca u yäle' ca' jiniba mach yo u chänen aj Cristo . U yäle' cache' aj Jesucristo mach jin u Yajlo' Dios , y mach u tz'onä täcä Dios .
+62003012	cua' uc'a		Mach utz cä chenla ca' u chi aj Caín . Aj Caínba tuba diablo une , jin uc'a u tzämsi u jitz'in . ¿ A wila cua' uc'a u tzämsi ? Aj Caínba u tzämsi u jitz'in uc'a lo que u chen uneba mach jin tu toja , y lo que u chen u jitz'inba tu toja chich une .
+62003017	cache'da		Machca chichca u cänäntan q'uen cua' chichca tuba cuxlecba , y si u chänen untu u yermano que mäx c'änä uc'a täclintic y mach u ch'ämbe yajinba , ¿ cache'da u xe u yäle' que u yajna'tan Dios tan u pixan ?
+62004020	~		Machca chichca u yäle' cache' u yajna'tan Dios pero si mach yo u chänen u yermanoba , ajjop'ojti' une . Uc'a machca chichca mach u yajna'ta u yermano , jini que u chänen wida pancabba , mach'an cache'da u yajna'tan Dios jini que mach bay u chäneba .
+62005005	~		Machca u tz'onän cache' aj Jesús u Yajlo' chich Diosba , uneba u chen chich trebe u japän uba t'oc cua' chichca que u yute tu pancab que mach utz .
+66005002	Caxca une		De ya'i cä chäni untu ángelo tä' q'uen u muc' que u c'atän t'oc noj gran t'an ca'da : ― ¿ Caxca une utz tu jut Dios tuba u pa'sen jini u tä'quiba jun que mäcä t'ocba y u jobe' jini tupu' jun ? ― che' u yäli .
+66006010a	Caq'uin		Unejob u yäle'ob t'oc noj gran t'an ca'da : ― Cajnoja , ch'u'ul ayanet y ane a paq'uin chen ca' chich a wäle' que a xe a chenba . ¿ Caq'uin a xe a wäc'ben u toje' u tanäjob jini ajtzämsajob pancab ? Uc'a unejob u tzämson t'ocob ― che' u yäle'ob .
+66006010b	~		
+66006017	~		Uc'a ac'oti bada u q'uini ni toji'tanä que unejob u xe u yäq'ue'obba , y niuntu mach u ch'ä u c'älen .
+66007013a	Caxcatac		De ya'i untu de ni ajt'äbälajob u c'atbon ca'da : ― ¿ Caxcatac unejob que xojo an uc'ajob u noj tamäl säsäc buc ? 
+66007013b	caxcada		¿ Y caxcada jun tijob ?
+66013004a	~		U ch'u'ul c'ajti'ijob ni chächäc tzuc anima , jini que u yäc'bi u poder ni te'el anima tuba u chen upete cua' chichca jiniba , y u ch'u'ul c'ajti'ijob ni te'el anima täcä . U yälijob ca'da : ― ¿ Machca wäreca u c'ote t'oc ni te'el anima ? 
+66013004b	~		¿ Machca wäreca u ch'e' u chen gana ump'e jo'yan t'oc une ? Mach'an niuntu ― che' u yälijob .
+66015004a	~		Upetejob u xe chich u bäc'tanet , Cajnoja . Upetejob u xe chich u ch'u'ul c'äye' a c'aba' , uc'a seq'uen ane ch'u'ul ayanet . Machcatac cuxujob tama upete cab u xe tä c'otejob ca'anet u ch'u'ul c'ajti'inetob , uc'a checti chich cache' tu toja une cua' a cherbi ni gente pancab que mach u tz'onäjobba .
+66015004b	~		
+66017007	Cua' uc'a		Ni ángelo ta Dios u yälbon ca'da : ― ¿ Cua' uc'a a bäc'tan ? No'on cä xe cälbenet cache'da an ni ixicda que mach yuwi niuntu , y che' chich täcä ni te'el anima que u chumtanba , jini une que u cänäntan siete u pam y diez u xucubba .
+66018018	~		Tu xe u chänenob u t'äbo u butz'i caj u xe u chenob awät u yäle' ca'da : ― Mach bay ajni niump'e caj que u c'ote u pitzilan ca' ni noj cajda ― che' u xe u yäle'ob .

@@ -1,0 +1,743 @@
+40002002	ka'imma		Reng-oreng jareya e man-dhimman anya-tanya , " E ka'imma kalenggiyanna na'-kana' se gi' buru lahir se bakal jumennengnga ratona oreng Yahudi ka'issa' ? Kaula padha nengale bintangnga kalowar e temor , daddi kaula padha entar ka'anja asojuda ka Salerana . "
+40002004	ka'imma		Daddi rato jareya pas makon makompol sakabbiyanna imam kapala ban ru-guru agamana bangsa Yahudi . Rato jareya pas mareksa ka reng-oreng gella' , " Rato se ejanjiyagi Allah lahira e ka'imma ? "
+40003007	Sapa		Bannya' keya oreng Farisi ban Saduki se nyabis ka Yahya nyo'on ebaptis . Tape e bakto Yahya ngoladi reng-oreng jareya dhateng , pas adhabu ka reng-oreng jareya , " Ba'na reya jahat ! Sapa se ngoca' ja' ba'na bisa lopot dhari okomanna Allah se bakal rabuwa ?
+40005013	~		" Ba'na reya bujana dunnya . Mon buja tabar , ba' ekennenga epaaccen pole ? Tadha' gunana pole , kajabana ebuwang ban enyek-enyek oreng .
+40005046	apa		Sabab mon ba'na pera' neser ka reng-oreng se neser ka ba'na , apa ganjaranna ? Reng-oreng tokang tagina pajek kantha jareya keya .
+40005047	apa		Ban mon ba'na aberri' salam pera' ka ca-kancana malolo , apa kalebbiyanna jareya ? Reng-oreng se ta' kennal ka Allah kantha jareya keya !
+40006027	Sapa		Sapa e antarana ba'na se bisa nambai omorra maske sakone' kalaban kakobateranna jareya ?
+40006028	Arapa		Arapa ba'na me' kobater mekkere angguy ? Abassagi , ra , kembang kacobung se tombu e teggal rowa . Bang-kembang jareya ta' alako ban ta' atennon ;
+40006031a	apa		Ta' osa kobater sarta ngoca' , ' Apa se ekakana ' 
+40006031b	apa		otabana ' apa se eenoma ' , 
+40006031c	apa		otabana ' apa se eangguya ' ?
+40007003	Arapa		Arapa ba'na me' ngabas ka kaju satembil se badha e matana oreng laen , tape balo' se badha e matana ba'na dibi' me' ta' epekkere ?
+40007004	Baramma		Baramma ba'na me' bisa ngoca' ka taretanna , ' Mara bi' sengko' kaju se satembil jareya epakalowarragiya dhari matana , ' mon e matana ba'na dibi' badha balo'na ?
+40007009	~		E antarana ba'na ba' badha'a eppa' se aberri' bato ka ana'na mon ana'na jareya menta roti ?
+40007016a	~		Ba'na bakal taowa sapa reng-oreng jareya dhari hasella lalakonna . Alas se adhuri ta' kera abuwa anggur , 
+40007016b	~		ban ombut se adhuri ta' kera ngasellagi buwana ara .
+40008026	Arapa		" Arapa ba'na me' tako' ? " dhabuna Isa . " Ba'na ta' pate parcaja ka Sengko' ! " Saellana jareya Isa ngadek sarta abentak angen ban talaga jareya . Talaga jareya pas ceddu .
+40008027	apa		Red-moredda Isa kasambu' . Pas padha ngoca' , " Oreng apa Guru reya , me' sampe' angen ban omba' atoro' ka dhabuna ! "
+40008029	ponapa		Se kadhuwa jareya kalowar dhari wa-guwana koburan sarta aera' , " Pottrana Allah , epakadiya ponapa abdidalem sareng Junandalem ? Ponapa ampon eseksa'a sanare gi' ta' napa' ka baktona ? "
+40009004	Arapa		Isa ngagali ka pekkeranna reng-oreng jareya , daddi pas adhabu , " Arapa pekkeranna ba'na me' ce' jahadda kantha jareya ?
+40009005	Kemma		Kemma se agampangan : ngoca' , ' Dusana ba'na la esapora' , otabana ngoca' , ' Mara jaga pas ajalan' ?
+40009011	Aponapa		Badha reng-oreng Farisi se nangale'e jareya . Reng-oreng jareya atanya ka red-moredda Isa , " Aponapa guruna sampeyan me' adha'ar bi' reng-oreng tokang narek pajek ban reng-oreng se ta' becce' ? "
+40009014	Aponapa		Saellana jareya red-moredda Yahya Pambaptis entar nemmone Isa , pas padha atanya , " Aponapa abdina sadaja sareng reng-oreng Farisi padha apowasa , red-moredda Panjennengngan me' bunten ? "
+40009015	Baramma		Isa adhabu , " Baramma ca'na panemmona ba'na ? Ba' bisa'a moy-tamoy e jang-onjangan sossa mon pangantan lake' gi' badha e jang-onjangan jareya ? Tanto enja' ! Tape bakal dhapa'a baktona pangantan lake' jareya ekala' dhari reng-oreng jareya . E bakto jareya buru reng-oreng jareya apowasa .
+40010025	~		La cokop mon mored padha ban guruna , ban bareng padha ban lorana . Mon kapala soma la enyamae Be'elzebul , apa pole saessena bengkona , tanto enyamae se ajuba'an pole ! "
+40011007	apa		Saellana reng-oreng se eotos Yahya jareya abali , Isa molae adhabu ka oreng se bannya' e jadhiya parkara Yahya , dhabuna , " Ba'na entar ka ra-ara terro nangaleyana apa ? Rebba salambar se etongngo' angen ?
+40011008	apa		Entara nenggu apa ba'na ? Oreng se akalambi bagus ? Reng-oreng se akalambi bagus kennengnganna e karaton !
+40011009	arapa'a		Daddi arapa'a ba'na me' entar ka ra-ara ? Nengguwa nabbi ? Pajat iya , la'-mala' lebbi dhari nabbi .
+40011016	apa		Ebandhingngagiya ban apa bi' Sengko' reng-oreng e jaman sateya reya ? Reng-oreng reya padha ban na'-kana' se toju' e pasar . Se sakalompo' aera' ka se laen ,
+40012011	apa		Dhabuna Isa , " Saompamana e antarana ba'na badha se andhi' dumba settong , ban e are Sabat dumba jareya tacabbur ka lobang se dhalem ; apa kerana se andhi' dumba jareya ta' aehteyara makalowara dumba jareya dhari lobang gella' ?
+40012026	~		Bariya keya e dhalem karaja'anna Iblis ; mon se sakalompo' ngojuk sakalompo' laenna , karaja'anna Iblis jareya nyamana la aca-pecca ban bakal ancora .
+40012027	sapa		Ba'na ngoca' ja' Sengko' reya ngojuk erroh jahat ngangguy kobasana Be'elzebul . Daddi mon kantha jareya , red-moredda ba'na se ngojuk erroh jahat ngangguy kobasana sapa ? Lalakonna red-moredda ba'na dibi' noduwagi ja' ba'na sala !
+40012029	~		Tadha' oreng se bisa maso' ka dhalem bengkona oreng se kowat kaangguy arampasa dhi'-andhi'na mon oreng se kowat jareya ta' etale'e gallu . Mon la mare etale'e , buru ekenneng rampas dhi'-andhi'na .
+40012034	baramma		Ba'na oreng daraka , baramma ba'na se bisa'a ngoca'agi rang-barang se becce' mon ba'na dibi' jahat ? Apa se kalowar dhari colo' jareya essena atena !
+40012048a	sapa		Isa pas adhabu , " Sapa Tang ebu ? 
+40012048b	sapa		Sapa Tang tan-taretan ? "
+40013010	Aponapa		Saellana jareya red-moredda Isa nyander sarta atanya , " Aponapa Panjennengngan mon abu-dhabu sareng oreng se bannya' me' ngangguy parompama'an ? "
+40013027	Kadi ponapa		La-kabulana oreng tane jareya nyander ka oreng tane jareya pas atanya , ' Pa' , se etamen sampeyan e teggal ka'dhissa' gu ta' ne-bine se sae , ta' enggi ? Kadi ponapa me' pas badha lalangnga e ka'dhissa' ? '
+40013054a	dhari dhimma		terros abali ka kampongnga . E kampong jareya Salerana morok neng e kennengnganna kabakteyan , ban reng-oreng se ngedhingngagi e jadhiya padha ce' gettonna . Ca'na reng-oreng jareya , " Olle dhari dhimma oreng rowa kapenterran se kantha jareya ? 
+40013054b	dhari dhimma		Ban dhari dhimma olle kobasa mabadha kaajiban ?
+40013056	dhari dhimma		Ban tan-taretan babine'anna gu ta' enneng e dhinna' keya ? Olle dhari dhimma jareya kabbi ? "
+40014031	Arapa		Isa duli ajuluwagi astana pas nyandhak Petrus laju adhabu , " Petrus , Petrus , ba'na reya ta' pate parcaja . Arapa ba'na me' mangmang ka Sengko' ? "
+40015002	Aponapa		" Aponapa red-moredda sampeyan me' ta' atoro' ka adadda bangatowa ? Manabi neddha'a , ta' abacco dhimen menorot atoran ! "
+40015003	arapa		Dhabuna Isa , " Ban arapa ba'na keya me' ta' atoro' ka papakonna Allah , pera' polana atoro'a ka adadda bangatowa ?
+40015033	ka'dhimma		Red-moredda Isa jareya pas atanya , " E kennengngan se jau bara' jau temor kadi ka'dhinto' , e ka'dhimma se manggiya teddha'an se bisa'a nyokobi oreng se saka'dhinto bannya'epon ? "
+40015034	barampa		" Ba'na andhi' roti barampa meggi' ? " ca'na dhabuna Isa ka red-moredda . " Papetto' , " atorra red-moredda , " sareng juko' ne'-kene' sakone' . "
+40016008	Arapa		Isa ngagali ka se ekacaca red-moredda jareya , daddi pas adhabu , " Arapa ba'na ma' acaca parkara se ta' andhi' roti ? Ba'na gi' ta' pate parcaja !
+40016009	Barampa		Masa' ba'na gi' ta' ngarte ? Apa ba'na ta' enga' e bakto Sengko' thok-ngetthok roti se lema meggi' se epakannagi ka oreng se lema ebu rowa ? Barampa budhak karena roti se epakompol bi' ba'na ?
+40016010a	baramma		Ban baramma roti se papetto' se epakannagi ka oreng se pa' ebu rowa ? 
+40016010b	barampa		Barampa budhak karena kakanan se epakompol ba'na ?
+40016011	Arapa		Arapa ba'na ma' sampe' ta' ngarte ja' Sengko' ta' acaca parkara roti ka ba'na ? Pate-ngate ka ragina oreng Farisi ban Saduki ! "
+40016013	sapa		Isa meyos ka dhaera e seddi'na kottha Kaisareya Filipi . E jadhiya Salerana laju mareksane ka red-moredda , " Ca'na oreng , sapa Pottrana Manossa rowa ? "
+40016015a	~		" Tape mon ca'na ba'na , 
+40016015b	sapa		sapa Sengko' reya ? "
+40016026a	apa		Apa ontongnga oreng se ngaandhi' saantero dunnya tape kaelangan odhi'na ? 
+40016026b	apa'a		Ba' ekennenga odhi' reya eporop bi' apa'a bai ?
+40017010	Aponapa		Red-moredda Isa atanya , " Aponapa ru-guru agama me' adhabu ca'epon Eliya kodu rabu kaadha' ? "
+40017017a	sampe' bila		Isa adhabu , " Talebat onggu ba'na reya ! Ba'na reya reng-oreng se nyalethong ban ta' parcaja . Sampe' bila Sengko' kodu apolong 
+40017017b	~		ban ba'na ban kodu sabbar ngadhebbi ba'na kabbi reya ? Giba dha' enna' ana'na ! "
+40017019	Aponapa		Red-moredda Isa pas nyander ka Isa mencar dhari reng-oreng laenna , pas atanya kantha reya , " Aponapa abdina sakanca ma' ta' bisa ngojuk erroh jahat ka'dhissa' ? "
+40017025a	baramma		Saodda Petrus , " Majar ! " E bakto Petrus mole , Isa nyapa kaadha' , " Simon , baramma panemmona ba'na ? 
+40017025b	sapa		Sapa se kodu majar biya ban pajek ka to-rato e dunnya reya ? Ra'yat apa oreng manca ? "
+40018001	Pasera		E bakto jareya red-moreddda Isa nyander ka Salerana laju atanya , " Pasera se eanggep paleng raja e antaraepon ommadda Allah ? "
+40018012	Baramma		Baramma panemmona ba'na ? Saompamana badha oreng se andhi' dumba saratos meggi' , laju elang settong , ba' apa se elakonana oreng jareya ? Tanto dumbana se sangang polo sanga' meggi' edina'agi e gumo' , laju entar nyare se elang gella' .
+40018021	kantos saponapa kale		Saellana jareya Petrus nyander ka Isa , pas mator , " Guste , manabi taretan abdina agabay dusa ka abdina , kantos saponapa kale abdina kodu nyapora ? Kantos pettong kale ? "
+40019007	aponapa		Reng-oreng Farisi jareya pas atanya ka Isa , " Manabi sapaneka aponapa Mosa me' makon oreng apareng sorat panellak ka rajina se etellak ? "
+40019016	ponapa		Kacatora e settong are badha oreng lalake' nyander ka Isa . " Guru , " atorra , " lalakon becce' ponapa se kodu elakone abdina sopaja kengenga odhi' se salerressa sareng se langgeng ? "
+40019017	Arapa		Dhabuna Isa , " Arapa ba'na me' atanya ka Sengko' parkara apa se becce' ? Pera' badha Settong se becce' . Mon ba'na terro odhi'a , toro' pa-apa se eparenta'agi Allah . "
+40019018	ka'dhimma		" Parenta se ka'dhimma ? " ca'na oreng jareya . Dhabuna Isa , " Ja' mate'e oreng , ja' azina , ja' co'-ngeco'on , ja' daddi sakse palsu ,
+40019020	Ponapa		" Sadajana ampon etoro' sareng abdina , " sambidda oreng ngodha jareya . " Ponapa pole se gi' parlo elakone abdina ? "
+40019025	pasera		E bakto ngedhing dhabuna Isa se kantha jareya , red-moredda padha heran . " Manabi kadi ka'dhinto' , " atorra , " pasera se bisa'a salamet ? "
+40019027	ponapa		Petrus pas mator , " Mangken oladi , abdina sakanca ka'dhinto' ampon adinggallagi sadajana kaangguy ngereng Panjennengngan . Ba' ponapa se ekaolleya abdina sakanca ka'dhinto' ? "
+40020006	Arapa		Ban ra-kera pokol lema' para' compet are , oreng se andhi' kebbun jareya gi' nangale'e badha oreng se gi' jeng-manjeng tadha' lakona . Ca'na se andhi' kebbun gella' ka reng-oreng jareya , ' Arapa ba'na ma' pera' jeng-manjeng malolo neng e dhinna' ma' ta' endha' alalakon ? '
+40020012	~		' Reng-oreng se molae alako dhi-budhi kadibi' ka'dhissa' namong alako saejjam . Mangkana kaula sareng en-laenna paneka saare benteng alako e panassa are , nangeng sareng panjennengngan bajaranna epapadha sareng reng-oreng ka'dhissa' ! '
+40020021	arapa'a		" Ba'na arapa'a ? " dhabuna Isa . Babine' jareya nyaot , " Abdina terro sopaja ana' abdina se kadhuwa ka'dhinto' kengenga toju' e kangan kacerra Panjennengngan manabi Panjennengngan ampon jumenneng Rato . "
+40020032	Apa		Isa pas ambu , se kadhuwa laju edikane . " Apa se epenta'a ba'na dhari Sengko' ? " dhabuna Isa .
+40021010	Sapa		E bakto Isa maso' ka Yerusalim oreng sakottha padha baridhu kabbi . " Sapa rowa ? " ca'na reng-oreng e kottha jareya .
+40021016	ponapa		Reng-oreng jareya padha mator ka Isa , " Sampeyan meyarsa ponapa ca'epon na'-kana' ka'issa' ? " " Iya , Sengko' ngedhing , " dhabuna Isa . " Apa ba'na ta' tao maca Alketab se nyebbuttagi kantha reya , ' Na'-kana' ban babaji' bi' ba'na la eajari ngoca'agi pojiyan se samporna ? ' "
+40021020	~		E bakto red-moredda nangale'e parkara jareya , kabbi padha heran . " Bungkana ara reya me' pas mate sanatkala ? " oca'na .
+40021023a	ponapa		Saellana jareya Isa abali ka Padalemman Socce , laju maso' ban morok e jadhiya . Parappa'na morok jareya , mam-imam kapala ban pin-pamimpinna oreng Yahudi nyander ka seddi'na laju atanya , " Kalaban dhasar ponapa sampeyan ngalakone paneka sadaja ? 
+40021023b	pasera		Pasera se apareng ha' ka sampeyan ? "
+40021025a	dhari dhimma		Olle ha' dhari dhimma Yahya abaptis ? Dhari Allah apa dhari manossa ? " Mam-imam kapala ban pin-pamimpinna oreng Yahudi jareya pas padha aparembagan . 
+40021025b	baramma		" Nyaoda baramma reya ? Mon sengko' nyaot ' Dhari Allah , ' oreng reya tanto ngoca' , 
+40021025c	arapa		' Mon bariya , arapa ba'na me' ta' parcaja ka Yahya jareya ? '
+40021028	baramma		" Sateya baramma panemmona ba'na parkara reya ? " dhabuna Isa pole . " Badha oreng lalake' andhi' ana' kadhuwa . Oreng jareya entar ka ana'na se sareyang , laju ngoca' , ' Na' , kassa' alako ka kebbun anggur sateya . '
+40021031	kemma		Daddi , e antarana kana' se kadhuwa jareya , se kemma se ajalannagi karebba eppa'na ? " " Se sareyang , " saodda mam-imam kapala ban pin-pamimpinna oreng Yahudi jareya . Isa pas adhabu ka reng-oreng jareya , " Ba'na paparcaja , ya : Reng-oreng se lakona narek pajek ban del-sondel bakal daddiya anggotana ommadda Allah kaadha' etembang ba'na .
+40021040	epabaramma		Isa mareksane , " Daddi , mon oreng se andhi' kebbun jareya mole , ba' epabaramma'a reng-oreng se agarap kebbunna jareya ? "
+40022012	baramma		Rato pas atanya ka oreng jareya , ' Taretan , baramma ba'na ma' bisa maso' dha' enna' ta' ngangguy kalambi pesta ? ' Oreng jareya ta' metto oca' .
+40022017	kadi ponapa		Daddi , kadi ponapa pamanggina Sampeyan ? Menorot atoranna agamana kaula sareng Sampeyan , majar pajek ka Kaisar kengeng ponapa bunten ? "
+40022018	Arapa		Isa ngagali ka maksod jahadda reng-oreng jareya , daddi pas adhabu , " He , reng-oreng monafik ! Arapa ba'na me' ajebbaga Sengko' ?
+40022020a	sapa		Isa adhabu , " Gambarra ban nyamana sapa reya ? "
+40022020b	~		
+40022028	pasera		Daddi , e bakto oreng mate epaodhi' pole , pasera lakena babine' gapaneka ? Sabab kapetto sadaja padha oneng daddi lakena . "
+40022036	ka'imma		" Guru , " atorra , " se ka'imma papakon se nomer settong e dhalem hokomma agama ? "
+40022042a	baramma		" Baramma panemmona ba'na parkara Rato Panyalamet ? 
+40022042b	sapa		Toronanna sapa jareya ? " " Toronanna Daud , " sambidda reng-oreng jareya .
+40022043	arapa		" Mon bariya , " dhabuna Isa , " Errohna Allah arapa ma' apareng ilham ka Daud sopaja nyebbut ' Pangeran' ka Rato Panyalamet jareya ? Sabab Daud ngoca' ,
+40022045	baramma		Daddi mon Daud jareya nyebbut ' Pangeran' ka Rato Panyalamet , baramma se bisa'a Rato Panyalamet jareya toronanna Daud ? "
+40023017	Kemma		Ba'na reya budhu ban buta ! Kemma se lebbi penting : emmassa , otabana Padalemman Soccena se masocce emmas jareya ?
+40023019	Kemma		Buta onggu ba'na reya ! Kemma se lebbi penting ? Tor-atorra otabana mezba se masocce tor-ator jareya ?
+40023033	Baramma		Ba'na reya jahat ban toronanna oreng jahat ! Baramma ba'na se bisa'a lopot dhari okoman e naraka ?
+40024003a	bilaepon		Saellana jareya Isa meyos ka Gumo' Jaitun , ban parappa'na alenggi e jadhiya , red-moredda nyander acaca'a ban Salerana sacara pribadhi . " Ngereng abdina parenge oneng bilaepon gapaneka se bakal kadaddiyana , " ca'na atorra . 
+40024003b	ponapa		" Dha-tandha ponapa se bakal noduwagiya ja' Panjennengngan ampon rabuwa sareng ja' ampon napa' baktona keyamat ? "
+40024045	kemma		Dhabuna Isa pole , " Mon bariya , abdi se kemma se esto ban bicaksana ? Iya areya se bi' lorana epadaddi kapalana di-abdi laenna , se esoro aberri' ngakan ka di-abdi laenna jareya teppa' baktona .
+40025037	bilaepon		Reng-oreng se becce' jareya bakal nyaoda , ' Guste , bilaepon abdina nengale Junandalem lapar pas ngatore teddha'an ka Junandalem , otaba nengale Junandalem pelka' laju ngatore aeng dha'ar ka Junandalem ?
+40025038	Bilaepon		Bilaepon abdidalem nengale Junandalem menangka oreng manca , laju narema Junandalem e compo' ? Otabana nengale Junandalem ta' ngagem rasogan laju ngatore rasogan ka Junandalem ?
+40025039	Bilaepon		Bilaepon abdidalem nengale Junandalem songkan otaba epenjara laju nyapot Junandalem ? '
+40025044	bilaepon		Reng-oreng jareya pas bakal atanya'a ka rato jareya , ' Guste , bilaepon abdidalem nengale Junandalem lapar , otaba pelka' , otaba menangka oreng manca , otaba ta' ngangguy rasogan otaba songkan sareng epenjara , abdidalem ta' poron nolong Junandalem ? '
+40026008	apa		Red-moredda Isa nangale'e jareya , laju gigir . " Apa gunana wang-mowang cara jareya ? " ca'na red-mored buru .
+40026010	Arapa		Isa ngagali ka pekkeranna red-moredda jareya , daddi pas adhabu , " Arapa ba'na ma' masossa babine' reya ? Babine' reya ngalakone barang se bagus ban pantes ealem kaangguy Sengko' .
+40026015	ponapa		Oca'na Yudas ka reng-oreng jareya , " Kaula eparengngana ponapa manabi kaula massra'agi Isa ka sampeyan ? " Reng-oreng jareya pas ngetong pesse salaka tello polo , laju ebagi ka Yudas .
+40026017	ka'imma		E are se kapeng settong e dhalem Paraya'an Roti Se Ta' Eragi'i , red-moredda Isa nyander ka Salerana laju atanya , " Dhadha'aran Paska kaagem Panjennengngan esadhiya'agiya e ka'imma ? "
+40026040	~		Isa pas abali ka moredda se katello ban se katello jareya etemmo tedhung . Dhabuna Isa ka Petrus , " Pera' saejjam balakka' ba'na ta' bisa aga-jaga bi' Sengko' , ya ?
+40026050	arapa'a		Dhabuna Isa , " Taretan , arapa'a ba'na dha' enna' ? " Oreng se sabannya'na gella' pas nyander ka adha' , terros nangkep Isa .
+40026054	baramma		Tape mon kantha jareya , baramma se kalakona akantha se la eramallagi e dhalem Alketab ja' pajat kodu kalakon kantha se sateya reya ? "
+40026062a	~		Imam agung jareya pas manjeng , laju ngoca' ka Isa , " Apa ba'na ta' nyambidana se earannagi ka ba'na reya ? "
+40026062b	~		
+40026065	~		Imam agung jareya pas bit-nyebbit kalambina dibi' , laju ngoca' , " Oreng reya metenna Allah ! Ta' parlo nyare sakse pole . Sampeyan ampon padha meyarsa dibi' ca'-oca'na se metenna Allah .
+40026066	kadi ponapa		Samangken kadi ponapa pamanggina sampeyan sadaja ? " Saodda reng-oreng se badha e jadhiya , " Oreng ganeka sala , sareng kodu pate'e . "
+40026068	Sapa		sambi ngoca' , " Kodda' tebbak ban ngoca' , he Rato Panyalamet ! Sapa se namper ba'na buru ? "
+40027004	~		Oca'na , " Kaula dusa akiyanadi oreng se ta' andhi' sala , sampe' eokom mate ! " " La ta' tao , ra . Jareya orosanna ba'na dibi' ! " ca'na reng-oreng jareya .
+40027013	apa		Daddi Pilatus mator ka Isa , " Apa ba'na ta' ngedhing da'wa'anna reng-oreng rowa ka ba'na ? "
+40027017	sapa		Daddi e bakto la bannya' oreng se akompol , Pilatus atanya ka reng-oreng jareya , " Ba'na menta'a sapa se epabebasa sateya , Isa Barabbas otabana Isa se esebbut Almasih ? "
+40027021	kemma		Gubennor jareya pas adhabu pole ka reng-oreng buru , " Dhari oreng se kadhuwa jareya , se kemma se epenta'a ba'na kaangguy epabebas bi' sengko' ? " " Barabbas , " saodda reng-oreng jareya .
+40027022	epabaramma'a		" Mon bariya , epabaramma'a bi' sengko' Isa se esebbut Almasih reya ? " dhabuna Pilatus ka reng-oreng se bannya' gella' . " Salib ! " ca'na saodda reng-oreng jareya kabbi .
+40027023a	~		Tape Pilatus atanya , 
+40027023b	apa		" Tape apa kajahadanna ? " Reng-oreng gella' pas aera' jang kaja'an pole , " Salib ! "
+40027046	aponapa		Pokol tello' asar , Isa aera' ce' kajana , " Eli , Eli , lama sabakhtani ? " se artena , " Ya Allah , Ya Allah , aponapa Abdidalem me' edinggallagi ? "
+41001024	ponapa		" Adhu , Isa , oreng Nazaret , abdidalem ka'dhinto' padha epakadiya ponapa sareng Junandalem ? Ponapa abdidalem epatompessa sadaja ? Abdidalem oneng pasera Junandalem : Junandalem otosan se socce dhari Allah ! "
+41001027	apa		Reng-oreng se nangale'e jareya padha kasambu' , sampe' padha ngoca' kantha reya , " Adhu , apa reya ? Areya pangajaran anyar ! Oreng reya kalaban kobasana marenta roh-erroh jahat epakon kalowar , ban roh-erroh jahat jareya atoro' ka dhabuna ! "
+41002007a	~		" Me' ce' bangalla oreng reya ngoca' kantha reya ! Areya nyamana ya-nyeya Allah ! Coma Allah se bisa nyapora dusa . "
+41002007b	~		
+41002008	Arapa		E bakto jareya keya Isa ngagali ka pekkeranna reng-oreng jareya , laju adhabu , " Arapa ba'na me' atanya kantha jareya e dhalem atena ?
+41002009	Kemma		Kemma gampang ngoca' ka oreng se empon reya : ' Dusana ba'na la esapora' , otaba ngoca' , ' Mara jaga , kala' tekerra pas ajalan' ?
+41002016	~		Badha ru-guru agama se tamaso' golonganna kaom Farisi nangale'e Isa adha'ar apolong ban reng-oreng tokang narek pajek sarta reng-oreng laenna se eanggep oreng ta' becce' jareya . Daddi laju padha atanya ka red-moredda Isa , " Guruna sampeyan me' adha'ar abareng ban reng-oreng tokang narek pajek ban reng-oreng se ta' becce' ? "
+41002018	Aponapa		E settong bakto red-moredda Yahya Pambaptis ban reng-oreng Farisi teppa'na apowasa . Laju badha oreng se nyander ka Isa ; oreng jareya atanya , " Aponapa red-moredda Yahya Pambaptis sareng red-moredda oreng Farisi ma' aseyam , nangeng red-moredda sampeyan me' bunten ? "
+41002019	apa		Isa adhabu , " Mon badha oreng andhi' gabay , apa tamoyya ta' kan-ngakan ? Ta' kera ! Mon pangantan lake'na gi' badha , tanto tamoyya ngakan .
+41002024	Aponapa		Daddi reng-oreng Farisi atanya ka Isa , " Aponapa moredda sampeyan ma' ta' atoro' ka hokomma agama , ngalakone barang se elarang e are Sabat ? "
+41003004	apa		Samarena laju adhabu ka reng-oreng se badha e jadhiya , " Menorot agama , apa se olle elakone oreng e are Sabat ? Alako bagus otaba alako juba' ka oreng laen ? Nolong oreng apa mate'e ? "
+41003023	Baramma		Daddi Isa pas adikane reng-oreng se bannya' jareya , laju nyareta'agi pan-barampan parompama'an . Dhabuna , " Baramma erroh jahat se bisa'a ngojuk erroh jahat ?
+41003033a	sapa		Dhabuna Isa , " Sapa Tang ebu ? 
+41003033b	sapa		Sapa Tang taretan ? "
+41004013	baramma		Saellana jareya Isa pas adhabu ka reng-oreng jareya , " Mon ba'na ta' ngarte parompama'an jareya , baramma ba'na se ngarteya parompama'an en-laenna ?
+41004030a	apa		" Mon Allah marenta , ba' ekennenga bandhingngagi bi' apa , ya ? " ca'na dhabuna Isa pole . 
+41004030b	apa		" Conto apa ba'nengan se ekennenga angguy nerrangngagi ?
+41004038	ponapa		Isa badha e bagiyan budhina parao jareya , asare abantalan . Bi' red-moredda ebungowe . Ca'na red-moredda jareya , " Guru , ponapa Panjennengngan ta' parduli manabi abdina sadaja sareng Panjennengngan padha calaka' ? "
+41004040a	arapa		Isa laju adhabu ka red-moredda , " Arapa ba'na me' tako' ? 
+41004040b	arapa		Arapa ba'na me' padha ta' parcaja ka Sengko' ? "
+41004041	Sapa		Red-moredda jareya padha katako'en laju padha saleng ngoca' , " Sapa sabendherra oreng reya ? Me' sampe' angen ban omba' atoro' ka dhabuna "
+41005007	ponapa		Oreng jareya pas aera' ce' kajana , " Isa , Pottrana Allah Se Mahatenggi ! Epakadiya ponapa abdidalem ? Bit asmana Allah , abdidalem nyo'ona , abdidalem ja' seksa'agi ! " (
+41005009	sapa		Isa laju mareksane ka oreng jareya , " Sapa nyamana ba'na ? " Saodda oreng jareya , " Nyama abdidalem ' Legiun' -- sabab se akompol e ka'dhinto' ce' bannya'na ! "
+41005030	Sapa		E bakto jareya keya Isa arassa ja' badha kakowadan se kalowar dhari Salerana , daddi laju atole ka oreng se bannya' jareya sarta mareksane , " Sapa se nyedding Tang juba ? "
+41005031	pasera		Ca'na red-moredda , " Panjennengngan ngagali dibi' oreng saleng sellek kadi ka'dhinto' bannya'na , ma' daddi Panjennengngan mareksane pasera se nyedding Panjennengngan ? "
+41005035	~		Teppa'na Isa gi' abu-dhabu , pas badha reng-oreng dhari bengkona Yairus . " Pottrana panjennengngan ampon seda , " ca'na atorra reng-oreng jareya ka Yairus . " Ampon ta' mabi pot-marepot ka Guru pole . "
+41005039a	arapa		Isa malebbet , pas adhabu ka reng-oreng jareya , " Arapa me' padha 
+41005039b	~		nanges sarta ce' rammena ? Kana' rowa ta' mate ; coma tedhung ! "
+41006002a	Dhari dhimma		E are Sabat Salerana molae morok e kennengnganna kabakteyan . E jadhiya bannya' oreng . E bakto reng-oreng jareya ngedhing pangajaranna Isa , kabbi padha getton . Ca'na reng-oreng jareya , " Dhari dhimma oreng rowa olle jareya kabbi ? 
+41006002b	apa		Kabicaksana'an apa se ekaandhi' oreng rowa ? 
+41006002c	baramma		Baramma me' bisa mabadha kaajiban ?
+41006022	apa		E dhalem jang-onjangan jareya ana'na Herodiyas se la paraban atari ban tariyanna ce' leburra monggu ka Herodes ban moy-tamoyya . Daddi Herodes adhabu ka kana' jareya , " Ba'na terro apa , mara menta . Bi' sengko' eberri'ana ! "
+41006024	ponapa		Daddi pottre jareya kalowar laju atanya ka ebuna , " Bu , se sae kaula nyo'ona ponapa ? " Dhabuna ebuna , " Menta cethagga Yahya Pambaptis . "
+41006037	~		Dhabuna Isa , " La berri'i ngakan ba'na , ra , bai . " " Adhu , manabi neddha'ana oreng se saka'dhissa' bannya'epon , abdina kodu entar ngobange roti saarga dhu ratos pesse salaka , " atorra red-moredda Isa jareya .
+41006038	barampa		Isa laju mareksane , " Ba'na andhi' roti barampa meggi' ? Kodda' tenggu . " Saellana etenggu , red-moredda mator , " Badha roti lalema' sareng juko' dhadhuwa' . "
+41007005	Aponapa		Daddi reng-oreng Farisi ban ru-guru agama gella' atanya ka Isa , " Aponapa red-moredda sampeyan neddha me' ta' abacco dhimen tanangnga ? Me' ta' atoro' ka adadda bangatowa ? "
+41008004	ka'dhimma		Red-moredda nyaot , " E kennengngan se jau bara' jau temor kadi ka'dhinto' , e ka'dhimma se manggiya teddha'an se cokop eteddha'a reng-oreng ka'dhissa' sadaja ? "
+41008005	barampa		" Ba'na andhi' roti barampa meggi' ? " dhabuna Isa . " Papetto' , " saodda reng-oreng jareya .
+41008012	Arapa		Tape Isa ngonju' nyaba , pas adhabu , " Arapa reng-oreng jaman sateya reya me' menta sopaja Sengko' mabadha kaajiban ? Enja' ! Sengko' ta' aberri'a tandha se kantha jareya ka reng-oreng jareya ! "
+41008017	Arapa		Isa ngagali apa se ekacaca red-moredda jareya . Daddi pas mareksane kantha reya , " Arapa ba'na me' acaca parkara se ta' andhi' roti ? Daddi ba'na ta' tao ban gi' ta' ngarte keya ? Me' ce' tompolla pekkeranna ba'na jareya !
+41008018a	~		Ba'na andhi' mata -- masa' ta' nangale ? 
+41008018b	~		Ba'na andhi' kopeng -- masa' ta' ngedhing ? Masa' ba'na ta' enga'
+41008019	Barampa		ka roti se lalema' se bi' Sengko' ethok-ketthok egabay makane oreng lema ebu rowa ? Barampa budhak lebbina se epakompol bi' ba'na ? " " Dhubellas , " saodda red-moredda jareya .
+41008020	barampa		" Ban e bakto Sengko' thok-ngetthok roti se papetto' se egabay makane oreng se pa' ebu rowa ? " dhabuna Isa pole , " barampa budhak lebbina kakanan se epakompol bi' ba'na ? " " Pettong budhak , " saodda red-moredda .
+41008021	~		" La , daddi ba'na gi' ta' ngarte keya ? " dhabuna Isa .
+41008023	apa		Oreng buta jareya bi' Isa eastane tanangnga , laju etonton kalowar kottha . Matana oreng buta jareya eeduwi . Saellana jareya astana pas etompangngagi ka oreng buta jareya , laju mareksane , " Apa ba'na la nangale'e sateya ? "
+41008027	sapa		Saellana jareya Isa ban red-moredda meyos ka sa-disa e sabingkerra Kaisareya Filipi . E tengnga jalan Isa adhabu , " Ca'na oreng , Sengko' reya sapa ? "
+41008029a	~		" Mon ca'na ba'na , 
+41008029b	sapa		sapa Sengko' reya ? " dhabuna ka red-moredda . Petrus mator , " Panjennengngan Rato Panyalamet . "
+41008036	Apa		Apa gunana mon oreng ngaandhi' dunnya reya tape kaelangan odhi'na ?
+41008037	apa'a		Odhi' reya ta' ekenneng porop bi' apa'a bai .
+41009010	Apa		Se katello jareya atoro' ka dhabuna Isa buru , tape padha saleng atanya , " Apa se emaksod bi' ' odhi' pole dhari sedana ' jareya ? "
+41009011	Aponapa		Se katello jareya laju atanya ka Isa , " Aponapa ru-guru agama me' adhabu ja' Eliya masthe rabu kaadha' ? "
+41009012	baramma		Dhabuna Isa , " Eliya pajat dhatengnga kaadha' maberesa sakabbiyanna . Tape baramma parkara Pottrana Manossa ? Apa sababba e dhalem Alketab me' esebbuttagi ja' Pottrana Manossa jareya bakal bannya'a nanggung sangsara ban eya-seya oreng ?
+41009016	Apa		Isa mareksane ka red-moredda jareya , " Apa se ekapadu ba'na bi' ru-guru agama rowa ? "
+41009019a	sampe' bila		Isa pas adhabu ka reng-oreng jareya , " Ba'na reya me' ce' paranana ! Ba'na reya oreng se ta' parcaja onggu . Sampe' bila Sengko' kodu apolong 
+41009019b	~		ban ba'na ban sabbar ka ba'na ? Giba dha' enna' kana jareya ! "
+41009021	barampa abidda		" La barampa abidda kana' reya se kantha reya ? " dhabuna Isa ka eppa'na . " Ngabidi gi' kene' , " ca'na eppa'na .
+41009028	Aponapa		Saellana Isa maso' ka dhalem compo'na , red-moredda nyander , majau dhari reng-oreng laen , laju atanya , " Aponapa abdina me' ta' bisa ngojuk erroh jahat ? "
+41009033	Apa		Isa ban red-moredda napa' ka Kapernaum . Sanapa'na ka compo'na , Isa mareksane ka red-moredda , " Apa se ekapadu ba'na e lorong gella' ? "
+41009050	~		Buja reya nyaman , tape mon buja jareya daddi tabar , ba' ekennenga epaaccen pole ? Daddi , ba'na kodu papadha ban buja , odhi' parokon along-polong . "
+41010003	Baramma		Isa adhabu , " Baramma ca'na parentana Mosa ka ba'na ? "
+41010017	ponapa		E bakto Isa nerrossagi parjalananna pole , pas badha oreng lalake' ka'-berka' , laju asojud e ajunanna Isa . Oreng jareya mator , " Guru se sae , ponapa se kodu ejalannagi abdina sopaja kengenga odhi' se salerressa sareng langgeng ? "
+41010018	Arapa		" Arapa ba'na me' ngoca' Sengko' becce' ? " dhabuna Isa . " Tadha' se becce' kajabana Allah malolo .
+41010026	sapa		Red-moredda Isa heran onggu ngedhing dhabuna Isa jareya , sampe' padha saleng atanya sakanca'an , " Mon kantha jareya sapa se salamedda ? "
+41010036	Apa		" Apa se epenta'a ba'na ka Sengko' ? " dhabuna Isa .
+41010051	Apa		" Apa se epenta'a ba'na ka Sengko' ? " dhabuna Isa . Saodda oreng buta gella' , " Guru , abdidalem terro nengalana pole . "
+41011003	arapa		Mon badha oreng atanya ka ba'na arapa hemar jareya ma' ebukka' talena , koca' , ' Ekaparlo Pangeran , ban duliya epabali . ' "
+41011005	aponapa'a		reng-oreng se manjeng e jadhiya padha atanya , " He , aponapa'a sampeyan ? Aponapa talena budhu'na hemar ganeka me' ebukka' ? "
+41011028a	ponapa		Reng-oreng jareya atanya , " Ponapa dhasarra sampeyan me' alako sapaneka ? 
+41011028b	pasera		Pasera se apareng kobasa ka sampeyan ? "
+41011030	dhari dhimma		Mara koca'agi , olle kobasa dhari dhimma Yahya abaptis oreng : olle dhari Allah apa dhari manossa ? "
+41011031a	baramma		Mam-imam kapala ban pin-pamimpin Yahudi jareya molae aparembagan . Oca'na , " Ngoca'a baramma se nyaman ? Mon ngoca' ' 
+41011031b	arapa		Dhari Allah ' , tanto Isa adhabu , ' Mon bariya , arapa ba'na me' ta' parcaja ka Yahya ? '
+41012009	arapa'a		Isa laju mareksane , " Mon ca'na ba'na ba' arapa'a kerana oreng se andhi' kebbun gella' ? Tanto bai oreng jareya entar mate'e reng-oreng se agarap kebbunna , ban kebbunna tantona laju epasewa ka reng-oreng laenna .
+41012015	Arapa		Isa ngagali kamonafiganna reng-oreng jareya , laju adhabu , " Arapa ba'na me' ngoddi ajebbaga Sengko' ? Kodda' patao ka Sengko' pesse salaka settong . "
+41012016a	sapa		Reng-oreng jareya ngala' pesse salaka settong eatorragi ka Isa . Dhabuna Isa , " Gambarra sapa 
+41012016b	sapa		ban nyamana sapa reya ? " " Kaisar , " ca'na reng-oreng jareya .
+41012023	ka'dhimma		E are baktona oreng mate padha odhi' pole e are keyamat , babine' gapaneka rajina se ka'dhimma ? Sabab se kapetto padha oneng daddi lakena . "
+41012028	ka'imma		Pas badha guru agama ngedhingngagi Isa se abu-dhabu ban reng-oreng dhari golongan Saduki jareya . Guru agama jareya tao ja' jawabanna Isa ka reng-oreng jareya ce' teppa'na . Daddi guru agama jareya pas nyander , laju atanya , " Papakon se ka'imma se paleng otama dhari sadajana ? "
+41012035	Baramma		Sabatara morok e Padalemman Socce , Isa mareksane , " Baramma ru-guru agama me' bisa ngoca' ja' Rato Panyalamet reya toronanna Daud ?
+41012037	baramma		Daddi mon Daud dibi' nyebbut Rato Panyalamet jareya ' Pangeran' baramma se bisa'a Rato Panyalamet jareya toronanna Daud ? " Bannya' oreng e Padalemman Socce jareya se lebur ngedhingngagi Isa se morok .
+41013004a	bilaepon		Atorra ka Isa , " Ngereng abdina parenge oneng , bilaepon se bakal kadaddiyana ka'dhinto' ? 
+41013004b	ponapa		Ban ponapa dha-tandha se bakal noduwagi ja' ampon napa' baktona ? "
+41014004	apa		Reng-oreng se badha e jadhiya badha se padha peggel sarta padha saleng ngoca' , " Apa gunana mennya' jarowa ewang-buwang ?
+41014006	Arapa		Tape Isa adhabu , " La dina , ra , panneng ! Arapa ba'na ma' masossa babine' reya ? Oreng reya ngalakone barang se bagus ka Sengko' .
+41014012	ka'imma		E are parmola'an e dhalem Paraya'an Roti Se Ta' Eragi'i , teppa' baktona oreng nyambelli dumba Paska , red-moredda Isa atanya , " Esadhiya'agiya e ka'imma dhadha'aran Paskana Panjennengngan ? "
+41014014	ka'imma		ka bengko se emaso'e oreng jareya . Ba'na pas ngoca' ka se andhi' bengko , ' Ca'epon Guru , e ka'imma Guru sareng red-moredda se adha'ara dhadha'aran Paska ? '
+41014060a	~		Imam agung jareya pas manjeng e adha'na reng-oreng se badha e jadhiya , pas atanya ka Isa , " Apa ba'na ta' nyaodana se earannagi reng-oreng reya ? "
+41014060b	~		
+41014063	~		Daddi imam agung pas bit-nyebbit kalambina sarta ngoca' , " Samangken pon ta' parlo sakse pole !
+41014064	ponapa		Sampeyan ampon padha meyarsa dibi' ca'-oca'na oreng paneka se metenna asmana Allah . Samangken ponapa potosanna sampeyan ? " Reng-oreng jareya kabbi padha motose ja' Isa sala ban kodu eokom mate .
+41015004	~		daddi Pilatus pas mareksane pole ka Isa , " Ba'na ta' nyaoda pa-apa , ya ? Ba'na la ngedhing bannya'na se earannagi ka ba'na bi' reng-oreng reya ! "
+41015012	epabaramma'a		Pilatus pas adhabu pole ka oreng se bannya' jareya , " Mon bariya , epabaramma'a bi' sengko' oreng se bi' ba'na esebbut ratona oreng Yahudi rowa ? "
+41015014a	~		
+41015014b	apa		" Tape apa kajahadanna ? " dhabuna Pilatus . Oreng se bannya' jareya aera' akaja'an pole , " Salib oreng gapaneka ! "
+41015034	aponapa		E baja pokol tello' asar Isa aera' ce' kajana , " Eloi , Eloi , lama sabakhtani ? " se artena , " Ya , Allah , ya , Allah , aponapa abdidalem me' edinggallagi sareng Junandalem ? "
+41016003	Sapa		E tengnga jalan reng-oreng jareya padha saleng ngoca' , " Sapa dhaggi' se nolongana agulu'agi bato totobba makam rowa ? " Sabab bato jareya ce' rajana . Tape sanapa'na ka makam , reng-oreng jareya nangale'e ja' batona la agulu' .
+42001018	Kadi ponapa		Zakhariya mator ka malaekat jareya , " Kadi ponapa abdina se onenga ja' gapaneka bakal kadaddiyana ? Abdina ampon towa , sapaneka jugan robiya abdina . "
+42001034	Kadi ponapa		Miriyam mator ka malaekat jareya , " Abdina ka'dhinto' gi' paraban . Kadi ponapa se bisa'a kadi ka'dhinto' ? "
+42001043	Sapa		Sapa sengko' reya me' ebuna Pangeran rabu manggi'i sengko' ?
+42001066	apa		Sakabbiyanna oreng se ngedhing jareya atanya e dhalem atena , " Ba' daddiya apa kana' reya pagi' ? " Sabab la terrang Pangeran asarengnge kana' jareya .
+42002048	arapa		Oreng towana heran keya e bakto ngoladi Isa e jadhiya . Dhabuna ebuna , " Na' , arapa Ba'na me' kantha jareya ka sengko' ban ramana ? Sengko' ban ramana nyare'e ba'na , ce' kobaterra . "
+42002049	Aponapa		Dhabuna Isa , " Aponapa rama sareng ebu me' nyare'e kaula ? Ponapa sampeyan ta' oneng ja' Kaula kodu badha e dalemma Rama Kaula ? "
+42003007	sapa		Bannya' oreng nyander ka Yahya menta ebaptis . Dhabuna Yahya ka reng-oreng jareya , " Ba'na oreng jahat ! Ca'na sapa ba'na lopoda dhari okomanna Allah se bakal dhatengnga ?
+42003010	ponapa		" Daddi ponapa se kodu elakone kaula ? " ca'na reng-oreng jareya ka Yahya .
+42003012	ponapa		Badha reng-oreng tokang narek pajek nyander keya ka Yahya menta baptis , sambi atanya , " Guru , ponapa se kodu elakone kaula ? "
+42003014a	kadi ponapa		Badha keya rit-parjurit se atanya , " Kadi ponapa kaula ? 
+42003014b	ponapa		Ponapa se kodu elakone kaula ? " Dhabuna Yahya , " Ja' arampas pesse dhari sapa'a bai otabana ngarane oreng kalaban da'wa'an se palsu . Panarema atena olle gaji sabadhana ! "
+42004034	aponapa'a		" He , Isa dhari Nazaret , aponapa'a Sampeyan ka kaula sadaja ? Sampeyan ka'dhinto' ponapa mateyana kaula sakanca ? Kaula oneng pasera Sampeyan : Sampeyan otosanna Allah se socce ! "
+42004036	~		Reng-oreng padha getton , laju padha ngoca' , " Hebat onggu bu-dhabuna . Kalaban wibawa ban kobasa oreng reya marenta roh-erroh jahat kalowar , ban roh-erroh jahat jareya kalowar onggu ! "
+42005021a	sapa		Ru-guru agama ban reng-oreng Farisi se badha e jadhiya padha molae acaca , oca'na , " Sapa oreng reya me' bangal ya-nyeya Allah ? 
+42005021b	sapa		Sapa se kobasa nyapora dusana oreng kajabana Allah ? "
+42005022	Arapa		Isa ngagali ka pekkeranna reng-oreng jareya , laju adhabu , " Arapa ba'na me' padha apekker kantha jareya ?
+42005023	kemma		Kemma se lebbi gampang , ngoca' , ' Sa-dusana ba'na la esapora' , otaba ngoca' , ' Mara jaga pas ajalan ! ' ?
+42005030	Aponapa		Badha reng-oreng Farisi ban ru-guru agama se ta' senneng nangale jareya , pas ngoca' ka red-moredda Isa , oca'na , " Aponapa sampeyan me' adha'ar bi' reng-oreng tokang narek pajek sarta reng-oreng se ta' sae ? "
+42005033	~		Reng-oreng mator ka Isa , " Red-moredda Yahya apowasa sareng adu'a , sapaneka jugan panganodda oreng Farisi . Nangeng red-moredda Sampeyan neddha sareng ngenom . "
+42005034	apa		Dhabuna Isa , " Apa ba'na bisa nyoro tamoy se kaonjangan ka pangantan apowasa mon pangantan lake'na gi' badha e jang-onjangan jareya ? Tanto enja' !
+42006002	~		Badha reng-oreng Farisi se padha ngoca' , " Sampeyan me' ta' atoro' ka hokomma agama , ajalannagi barang se elarang e are Sabat ? "
+42006009	apa		Isa adhabu ka reng-oreng se badha e jadhiya , " Mara Sengko' atanya'a . Menorot agama , apa se olle elakone e are Sabat ? Alako becce' apa alako juba' ? Masalamet oreng otabana macalaka' ? "
+42006032	apa		Mon ba'na pera' taresna ka reng-oreng se taresna ka ba'na , apa kabecce'anna ba'na ? Oreng se dusa taresna keya ka reng-oreng se taresna ka aba'na !
+42006033	apa		Ban mon ba'na pera' alako bagus ka reng-oreng se alako bagus ka ba'na , apa kabecce'anna ba'na ? Reng-oreng se dusa kantha jareya keya !
+42006034	apa		Ban mon ba'na maenjam pesse pera' ka oreng se bisa nyerra , apa kabecce'anna ba'na ? Reng-oreng se dusa maenjam pesse keya ka oreng se andhi' dusa , saellana laju menta serra .
+42006039	~		Saellana jareya Isa nyareta'agi parompama'an reya ka red-moredda jareya , " Mon oreng buta nonton oreng buta laen , tanto se nonton ban se etonton laju padha tabalusok ka sellogan .
+42006041	Arapa		Arapa ba'na me' nangale kaju satembil se badha e matana taretanna , tape kaju salonjur se badha e matana ba'na dibi' ta' epekkere ?
+42006042	Baramma		Baramma ba'na se bisa'a ngoca' , ' Mara , taretan , kaju se badha e matana ba'na jareya bi' sengko' epakalowara , ' mangkana e matana ba'na dibi' badha kaju salonjur se bi' ba'na ta' etangale'e ? He , oreng monafik ! Pakalowar gallu kaju salonjur se badha e matana ba'na dibi' . Buru ba'na bisa terrang nangale'e ban bisa makalowar kaju satembil se badha e matana taretanna ba'na . "
+42006046	Arapa		" Arapa ba'na me' nyebbut Sengko' ' Pangeran , Pangeran , ' tape ba'na ta' ngalakone apa se eparenta'agi Sengko' ka ba'na ?
+42007024	apa		Saellana otosanna Yahya jareya la abali kabbi , Isa molae adhabu ka oreng se bannya' jareya parkara Yahya , dhabuna , " Ba'na entar ka ra-ara terro nangaleyana apa ? Rebba se etongngo' angen ?
+42007025	apa		Ba'na entara nenggu apa ? Oreng se akalambi bagus ? Reng-oreng se akalambi bagus ban odhi' mewah kennengnganna e karaton !
+42007026	apa		Daddi ba'na kalowar entara nenggu apa ? Nengguwa nabbi ? Pajat bendher , la'-mala' lebbi dhari nabbi .
+42007031a	apa		Isa laju adhabu pole , " Ebandhingngagiya bi' apa reng-oreng jaman sateya reya bi' Sengko' ? 
+42007031b	apa		Ba' padha ban apa reng-oreng jareya ?
+42007042	sapa		Se kadhuwa jareya padha ta' kellar alonase otangnga jareya , daddi otang jareya bi' se maenjam eanggep tadha' . Sateya , sapa e antarana se kadhuwa jareya se ataresna'an ka oreng se maenjam pesse jareya ? "
+42007049	Sapa		Reng-oreng laen se toju' ngakan abareng ban Isa e jadhiya molae padha saleng ngoca' , " Sapa oreng reya me' sampe' bisa nyapora dusa ? "
+42008025a	arapa		Isa adhabu ka red-moredda , " Arapa ba'na me' ta' parcaja ka Sengko' ? " Tape red-moredda jareya heran ban tako' . Kabbi padha saleng ngoca' , 
+42008025b	sapa		" Sapa sanyatana oreng reya me' sampe' apareng parenta ka angen ban omba' , sarta dhabuna etoro' ! "
+42008028	ponapa		E bakto nangale'e Isa , oreng jareya atharat laju asojud e ajunanna Isa sarta ngoca' , " Isa , Pottrana Allah Se Mahatenggi ! Abdina epakadiya ponapa ? Ta' langkong abdina ja' seksa ! "
+42008030	sapa		Isa mareksane ka oreng jareya , " Sapa nyamana ba'na ? " " Nyama abdina ' Legiun' , " saodda oreng jareya -- sabab erroh jahat se maso' ka dhalem oreng jareya bannya' .
+42008045	Sapa		Isa adhabu , " Sapa se nyedding ka Sengko' ? " Oreng padha ta' ngako kabbi . Petrus laju mator , " E sakalenglengnga Panjennengngan ce' bannya'na oreng , padha lek-nyellek ka Panjennengngan ! "
+42009009a	sapa		Dhabuna Herodes , " Yahya bi' sengko' la esoro ketthok le'erra . Tape oreng reya , sapa se sabendherra ? Ce' bannya'na kabar se ekaedhing sengko' parkara Oreng jareya . " Daddi Herodes pas aehteyar terro ngoladana Isa .
+42009009b	~		
+42009018	sapa		E settong are , e bakto Isa teppa'na adu'a kadibi'an , red-moredda nyander ka jadhiya . Isa mareksane ka red-moredda jareya , " Ca'na oreng , Sengko' reya sapa ? "
+42009020a	~		" Tape , mon ca'na ba'na dibi' , 
+42009020b	sapa		Sengko' reya sapa ? " dhabuna Isa . Atorra Petrus , " Panjennengngan Rato Panyalamet se ejanjiyagi Allah . "
+42009025	Apa		Apa ontongnga mon oreng ngaandhi' saantero dunnya , tape marosak otaba mamosna odhi'na ?
+42009041a	Sampe' bila		Dhabuna Isa , " Ba'na reya me' ce' paranana ! Ba'na padha nyalethong , padha ta' parcaja sakale ! Sampe' bila Sengko' reya kodu apolong ban ba'na ? 
+42009041b	Sampe' bila		Sampe' bila Sengko' kodu sabbar ka ba'na ? Kemma ana'na , giba dha' enna' ! "
+42010025	ponapa		Badha guru agama se nyander kalaban maksod ajebbaga Isa . Oca'na , " Guru , ponapa se kodu elakone kaula sopaja kengenga odhi' se saongguna sareng se langgeng ? "
+42010026a	baramma		Dhabuna Isa , " Baramma ca'na monyena Alketab ? 
+42010026b	baramma		Baramma panemmona ba'na parkara essena Alketab jareya ? "
+42010029	Pasera		Tape guru agama jareya gi' terro ngala'a bendherra dibi' . Daddi laju atanya , " Pasera sasamana kaula ? "
+42010036a	~		
+42010036b	kemma		Saellana mare se acareta , Isa adhabu , " Dhari oreng se katello jareya , noro' panemmona ba'na se kemma se lalakonna noduwagi ja' aba'na sasamana oreng se ebigal jarowa ? "
+42011008	baramma		" Mon kantha jareya baramma ? " ca'na dhabuna Isa pole . " Ba'na paparcaja , ya . Maske ba'na kancana , oreng jareya ta' endha' jaga kaangguy ari'-berri' ka ba'na . Tape sarrena ba'na ta' todhus ros-terrosan menta , oreng jareya tanto jaga , ban ba'na laju eberri'i pa-apa se ekabuto ba'na .
+42011011	~		E antarana ba'na se daddi eppa' ba' badha'a se aberri' olar ka ana'na mon ana'na jareya menta juko' ?
+42011012	~		Otabana se aberri' kalajengking mon menta tellor ?
+42011013	~		Maske ba'na reya jahat , ba'na tao keya aberri' se bagus ka ana'na . Apa pole Rama se e sowarga ! Rama bakal marengngagiya Errohna ka sapa'a bai se nyo'on ka Salerana ! "
+42011018	~		Bariya keya e dhalem karaja'anna Iblis ; mon golongan se settong amosowan ban golongan laenna , karaja'an jareya tanto gujur . Ca'na ba'na Sengko' reya ngojuk erroh jahat polana kobasana Be'elzebul .
+42011019	sapa		Mon bariya , kalaban kobasana sapa red-moredda ba'na ngojuk erroh jahat rowa ? Red-moredda ba'na dibi' abukteyagi ja' ba'na sala !
+42012014	sapa		Dhabuna Isa , " Taretan , sapa se ngangkat Sengko' reya daddi hakim otaba tokang bagina sangkolan e antarana ba'na se kadhuwa ? "
+42012017	Apa		Oreng sogi jareya molae apekker e dhalem atena , ' Sengko' la ta' andhi' kennengngan pole se egabaya panyaba'anna hasella tang tana . Apa tang akkal sateya ? '
+42012020	sapa		Tape Allah adhabu ka oreng jareya , ' He , oreng budhu ! E malem reya ba'na bakal mateya , pas sapa se ngaandhi'a sakabbiyanna dhi'-andhi'na ba'na se la epakompol ba'na kaangguy aba'na dibi' jareya ? '
+42012024	~		Abassagi , ra , no'-mano' dhangdhang rowa ! Mano' jareya ta' namen , ta' anye , ta' andhi' gudhang otabana lombung . Tape bi' Allah eparenge kakan keya ! Ba'na reya lebbi arga dhari mano' !
+42012025	Sapa		Sapa e antarana ba'na se polana kobater kantha jareya laju bisa nambai omorra sakone' balakka' ?
+42012026	arapa		Mon ba'na ta' bisa ngalakone barang se kene' kantha jareya , arapa me' kobater parkara en-laenna ?
+42012042	Sapa		Guste Isa adhabu , " Sapa abdi se esto ban bicaksana , sampe' bi' lorana epadaddi kapalana di-abdi laenna sopaja makane di-abdi jareya mon la baktona ?
+42012049	~		" Sengko' dhateng makatonona bume reya , ban ce' nyamanna ja' sakenga apoy jareya sateya la rabbang !
+42012056	Arapa		Ba'na reya dujan tha'-kantha'an ! Ba'na tao nebbak ojan ban panas kalaban ngabas ka langnge' ban bume . Arapa ba'na me' ta' tao nebbak dha-tandhana jaman ? "
+42012057	Arapa		" Arapa ba'na ma' ta' motossagi dibi' apa se bendher ?
+42013004	Baramma		Baramma oreng ballu bellas se mate e Siloam , e bakto ekacecce'e manara rowa ? Ca'na ba'na esanggu reng-oreng jareya dusana alebbiyan dhari sakabbiyanna oreng laenna se badha e Yerusalim ?
+42013007	~		Daddi oreng jareya ngoca' ka tokang kebbunna , ' Tenggu , ra , la tello taon abidda sengko' entar ka kebbun reya nyare buwana bungkana ara reya , tape ta' nemmo settonga balakka' . Mara poger bai ! Bungkana ara reya pera' matadha' ezzadda kakanan e dhalem tana ! '
+42013015	~		Guste Isa adhabu , " Ba'na monafik kabbi ! Sakabbiyanna oreng e are Sabat makalowar sape ban hemarra dhari kandhangnga , laju egiba kalowar eenommana .
+42013018a	baramma		Isa mareksane , " Mon Allah la marenta , baramma kabadha'anna ? 
+42013018b	apa		Ebandhingngagiya bi' apa , ya , bi' Sengko' ?
+42013020	apa		Isa laju mareksane pole , " Mon Allah la marenta , ba' ekennenga bandhingngagi bi' apa kabadha'anna bi' Sengko' ?
+42013025	dhari dhimma		E bakto se andhi' bengko jaga ban nganceng labangnga , ba'na manjeng e lowar , sarta molae nokthok sambi ngoca' , ' Towan , tore pona , bukka'agi labangnga ! ' Oreng jareya bakal nyaoda , ' Sengko' ta' tao ba'na reya dhari dhimma ! '
+42014005	apa		Saellana jareya Isa adhabu ka reng-oreng se badha e jadhiya , " Saompamana e antarana ba'na badha se andhi' ana' otaba sape se labu ka somor e are Sabat , apa oreng jareya ta' duliya maongga ana'na otaba sapena jareya e are jareya keya ? "
+42014028	~		Mon e antarana ba'na badha se maddegga manara , tantona toju' gallu , ngetong barampa baragadda , sopaja tao apa pessena cokop otaba enja' kaangguy mamare manara jareya .
+42014031	~		Mon badha rato se andhi' tantara sapolo ebu oreng aperranga ban rato laen se andhi' tantara dhu polo ebu , tantona rato jareya toju' gallu kaangguy apekker apa aba'na cokop kowat alabana mosona jareya .
+42014034	baramma		" Buja reya bagus , tape mon la tabar , baramma se epaaccena pole ?
+42015004	baramma'a		" Saompamana e antarana ba'na badha se andhi' dumba saratos meggi' , ban dumbana jareya laju elang settong -- ba' baramma'a kerana ba'na ? Tanto dumbana se sangang polo sanga' edina'agi e talon , ban ba'na pas entar nyare se elang sampe' etemmo .
+42015008	baramma'a		" Otabana saompamana badha babine' se andhi' pesse salaka sapolo , laju elang settong -- ba' baramma'a kerana babine' jareya ? Tantona laju ngodhi'i damar ban nyapowe bengkona sarta pessena jareya esare e man-dhimman sampe' etemmo pole .
+42015026	apa		Kana' jareya ngolok sala settong dhari abdina , laju atanya , ' Badha apa e bengko ? '
+42015029	Ponapa		Tape kana' jareya ngoca' , ' Kaula ataonan alako ka sampeyan amba' pate . Kaula ta' oneng alaban ka sampeyan . Ponapa se eparengngagi sampeyan ka kaula , Pa' ? Bi' sampeyan kaula ta' oneng eparenge pa-ponapa kaangguy neng-sennengngan bi' ca-kanca kaula , maske pera' embi' settong .
+42016002	Apa		Daddi oreng jareya laju ngolok ponggaba kauwanganna buru , sarta ngoca' , ' Apa kabar se ekaedhing sengko' parkara ba'na reya ? Sateya mara passra'agi ka sengko' laporan se genna' parkara se elakone ba'na e dhalem ngoros tang dhi'-andhi' . Ba'na ta' olle daddi ponggaba kauwanganna sengko' pole . '
+42016003	Baramma		Ponggaba kauwangan jareya apekker , ' Baramma sengko' sateya reya ? Sengko' epaambuwa bi' tang lora . Alandhu' sengko' ta' kellar ; aburumaena sengko' todhus .
+42016005	Saponapa		Daddi sakabbiyanna oreng se andhi' otang ka lorana bi' ponggaba kauwangan jareya eolok . Ka oreng se kapeng settong ponggaba jareya ngoca' , ' Saponapa otangnga sampeyan ka lora kaula ? '
+42016007	saponapa		Saellana jareya ponggaba buru ngoca' ka oreng se kapeng dhuwa' , ' Sampeyan , saponapa otangnga ? ' Oreng jareya nyaot , ' Gandum saebu karong . ' Ponggaba kauwangan jareya ngoca' pole , ' Paneka' sorat otangnga sampeyan . Tore toles : ballung atos . '
+42016011	sapa		Daddi , mon e dhalem parkara rang-barang e dunnya reya bai ba'na la ta' ekenneng parcaja , sapa se parcaja'a massra'agi arta rohani ka ba'na ?
+42016012	sapa		Ban mon ba'na etemmo ja' ta' ekenneng parcaja e dhalem parkara barangnga oreng laen , sapa se magiya ka ba'na pa-apa se ekaandhi' ba'na ?
+42017007	~		" Saompamana e antarana ba'na badha se andhi' kabula se nyalaga e teggal otaba ngowan dumba . Mon kabulana ba'na jareya mole , apa kerana ba'na ngoca'a ka kabula jareya , ' Mara duliyan kan-ngakan ? '
+42017017	kemma		Isa adhabu , " Se epabaras gu ta' kasapolo , ta' iya ? E kemma kasangana ?
+42017018	Arapa		Arapa me' pera' oreng manca reya se abali kaangguy asakalangkong ka Allah ? "
+42017020	bila		Badha reng-oreng Farisi atanya ka Isa bila Allah se rabuwa kaangguy marenta'a . Dhabuna Isa , " Pamarenta'anna Allah ta' molae kalaban dha-tandha se ekenneng abas oreng
+42017037	ka'dhimma		Red-moredda Isa atanya , " E ka'dhimma se bakal badha'a kadaddiyan gapaneka , Guste ? " Isa adhabu , " E kennengngan se badha babathangnga tanto badha mano' se ngakanan babathang . "
+42018018	ponapa		Badha pamimpinna agama Yahudi se atanya ka Isa , " Guru se sae , ponapa se kodu elakone abdina sopaja narema odhi' se saongguna sareng se langgeng ? "
+42018019	Arapa		" Arapa ba'na me' ngoca' Sengko' bagus ? " dhabuna Isa ka oreng jareya . " Tadha' se bagus kajabana Allah dibi' .
+42018026	pasera		Reng-oreng se ngedhing dhabuna Isa jareya atanya , " Manabi saka'dhinto , pasera se bisa'a salamet ? "
+42018036	apa		E bakto oreng jareya ngedhing bannya' oreng lebat e jadhiya laju atanya , " Badha apa , kana' ? "
+42018041	arapa		" Esorowa arapa Sengko' bi' ba'na ? " " Towan , " sambidda oreng buta jareya , " abdina terro nengalana . "
+42019007	~		Reng-oreng se nangale'e jareya padha agarunggung kabbi . Oca'na , " Huh ! Isa rowa namoy ka bengkona oreng se ta' becce' ! "
+42019023	arapa		Mon bariya arapa obang jareya bi' ba'na me' ta' esaba' e bank , me' olle mon sengko' abali sengko' olle narema budhu'na ? '
+42019031	~		Mon badha oreng atanya ka ba'na , ' Me' ebukka' talena budhu'na hemar jareya ? ' kabala , ' Ekaparlo Pangeran . ' "
+42019033	~		Teppa'na se kadhuwa jareya mokka' talena budhu'na hemar jareya , se andhi' ngoca' , " Me' ebukka' talena budhu'na hemar jareya ? "
+42020002a	ponapa		laju atanya ka Salerana , " Kaula terro taowa ponapa dhasarra Sampeyan me' ngalakone sadajana paneka ? 
+42020002b	pasera		Pasera se apareng ha' ka Sampeyan ? "
+42020005a	~		Reng-oreng jareya laju padha aparembagan , " Mon sampeyan ban kaula ngoca' , ' Dhari Allah , ' tanto oreng paneka ngoca' , 
+42020005b	arapa		' Mon bariya , arapa ba'na me' ta' parcaja ka Yahya ? '
+42020013	Baramma'a		Dhi-budhina se andhi' kebbun jareya ngoca' , ' Baramma'a pole sengko' reya ? Sengko' nyorowa tang ana' dibi' se ekataresnae bi' sengko' . Tanto tang ana' jareya eargai bi' reng-oreng se nyewa tang kebbun jareya ! '
+42020015	epabaramma'a		Daddi ana'na se andhi' kebbun jareya eeret ka lowar laju epate'e . " Isa laju mareksa , " Daddi , mon se andhi' kebbun jareya abali , ba' epabaramma'a kerana reng-oreng se agarap kebbun jareya bi' se andhi' ?
+42020017	apa		Isa ngoladi ka reng-oreng jareya , laju adhabu , " Mon bariya , apa maksodda ayadda Alketab reya ? ' Bato se ta' karaddu ka tokang bangonan , daddi bato se paleng otama . '
+42020023	~		Tape Isa ngagali ka maksodda reng-oreng jareya se saongguna , daddi laju adhabu ,
+42020024a	sapa		" Kodda' duduwagi ka Sengko' pesse salaka settong . Gambarra ban nyamana sapa reya ? " " Kaisar ! " ca'na reng-oreng jareya .
+42020024b	~		
+42020033	Pasera		E are e bakto reng-oreng mate padha epaodhi' pole , rajiepon pasera babine' gapaneka ? Sabab se kapetto padha oneng ngabine babine' gapaneka . "
+42020041	Baramma		Isa mareksane ka reng-oreng jareya , " Baramma me' Rato Panyalamet jareya ekoca' toronanna Daud ?
+42020044	baramma		Daddi mon Daud nyebbut Rato Panyalamet jareya ' Pangeran' , baramma se bisa'a Salerana jareya toronanna Daud ? "
+42021007a	bilaepon		Red-moredda Isa atanya , " Guru , bilaepon gapaneka se bakal kadaddiyana ? 
+42021007b	ponapa		Ban ponapa tandhaepon ja' ampon napa' baktona parkara gapaneka kadaddiyana ? "
+42022009	ka'imma		" Eparanta'agiya e ka'imma ? " ca'na se kadhuwa jareya .
+42022011	dhimma		pas ngoca' ka se andhi' bengko jareya : Guru adhabu sapaneka , ' E dhimma kennengnganna Sengko' ban Tang red-mored se ngakana dhadha'aran Paska ? '
+42022027	Sapa		Sapa se araja'an : oreng se toju' ngakan e meja otaba se aladine oreng se ngakan jareya ? Tanto bai se toju' jareya . Tape Sengko' badha e nga'-tengnga'anna ba'na menangka abdi .
+42022046	~		Dhabuna Isa ka reng-oreng jareya , " Ba'na me' tedhung ? Mara jaga ban nyo'on ka Allah me' olle ba'na ta' sampe' dusa mon ecoba . "
+42022064	sapa		Socana etotobi , ban reng-oreng jareya laju atanya , " Kodda' tebbak , sapa se mokol Ba'na ? "
+42022071	~		Ngedhing jareya , reng-oreng buru padha ngoca' , " Pon ta' parlo nyare sakse pole ! Kaula ban sampeyan ampon mereng dibi' ponapa se ekoca'agi oreng paneka ! "
+42023022a	~		Pilatus adhabu katellokaleyanna ka reng-oreng jareya , 
+42023022b	apa		" Tape apa salana ? Sengko' ta' nemmo kasala'an settonga se pantes eokom bi' okoman mate ! Bi' sengko' epeccoda , pas eocola . "
+42023031	apa		Sabab mon kaju se gi' odhi' la epakantha jareya , apa pole kaju se la kerreng ! "
+42024005	Arapa		Reng-oreng jareya ce' tako'na , laju asojud ka tana sabatara se kadhuwa gella' adhabu kantha reya , " Arapa ba'na me' nyare oreng odhi' e antarana oreng mate ?
+42024017	Apa		Isa laju adhabu , " Apa se ekacaca ba'na e tengnga jalan reya ? " Se kadhuwa jareya ambu se ajalan , abasanna katon sossa .
+42024019	apa		" Kadaddiyan apa ? " dhabuna Isa . " Pa-ponapa se kadaddiyan ka Isa , oreng dhari Nazaret ka'issa' , " saodda se kadhuwa jareya . " Isa ganeka nabbi . Menorot anggebbanna Allah , sapaneka jugan anggebbanna sadajana oreng -- sadajana dhabuna sareng lalakonna Isa gapaneka ce' kobasana .
+42024025	~		Isa laju adhabu ka se kadhuwa jareya , " Ba'na pajat budhu ! Ba'na me' ta' duli parcaja ka pa-apa se ekoca'agi para nabbi !
+42024038a	arapa		Tape Isa adhabu , " Arapa ba'na me' padha tako' ? 
+42024038b	arapa		Arapa atena ba'na me' mangmang ?
+43001019	pasera		Para pangobasa Yahudi e Yerusalim nyoro mam-imam ban reng-oreng Lewi entar ka Yahya sarta atanya kantha reya , " Sampeyan paneka pasera ? "
+43001021	pasera		" Daddi pasera sampeyan paneka ? " ca'na reng-oreng jareya . " Ponapa sampeyan paneka Eliya ? " " Banne , " saodda Yahya . " Ponapa sampeyan paneka Nabbi ? " ca'na reng-oreng jareya pole . " Banne , " sambidda .
+43001022a	pasera		" Manabi sapaneka , ngereng dhabuwagi pasera sampeyan paneka , " ca'na reng-oreng jareya , " me' olle kaula bisa ngatore jawaban ka reng-oreng se ngotos kaula . 
+43001022b	ponapa		Ponapa se edhabuwagiya sampeyan parkara sampeyan dibi' ? "
+43001025	aponapa		atanya , " Manabi sampeyan banne Rato Panyalamet , banne Eliya , banne sang Nabbi , aponapa sampeyan me' abaptis oreng ? "
+43001038a	apa		Isa atole ka budhi , ngoladi se noro' bunte' jareya , laju adhabu , " Ba'na nyareya apa ? " Saodda se kadhuwa jareya , 
+43001038b	ka'imma		" Rabbi , e ka'imma kalenggiyanna panjennengngan ? " ( Oca' ' Rabbi' reya artena ' Guru' . )
+43001046	~		Tape Natana'el nyaot , " Ba' badha'a barang se bagus dhari Nazaret ? " " Mara tenggu dibi' , " saodda Filipus .
+43001048	Kadi ponapa		" Kadi ponapa Panjennengngan me' ngagali ka abdina ? " ca'na patanyana Natana'el ka Isa . Dhabuna Isa , " Sabellunna Filipus ngolok ba'na , Sengko' la nangale'e ba'na e babana bungkana ara jarowa . "
+43002004	Pasera		Dhabuna Isa , " Kaula ja' kon-pakon , Bu . Gi' ta' dhapa' baktona Kaula anyata'agiya pasera salerressa Kaula paneka . "
+43002018a	~		Ja-pangrajana Yahudi nangtang Isa , oca'na , " Kodda' Sampeyan mabadha kaajiban menangka tandha ka kaula sadaja ja' Sampeyan andhi' ha' alako sapaneka ! "
+43002018b	~		
+43003004	Kadi ponapa		" Kadi ponapa oreng se ampon dibasa kengenga lahir pole ? " ca'na Nikodemus ka Isa . " Kadi ponapa se kengenga maso'a ka dhalem gandhu'annepon ebuna sarta laju elahirragi pole . "
+43003009	~		" Me' kadi ka'dhinto' ? " ca'na Nikodemus .
+43003012	baramma		Ba'na ta' parcaja mon Sengko' nyareta'agi ka ba'na parkara pa-apa dhari dunnya reya ; baramma ba'na se parcaja'a mon Sengko' nyareta'agi pa-apa se dhari sowarga ?
+43004009	aponapa		Saodda babine' jareya , " Sampeyan oreng Yahudi , kaula oreng Samaria ; aponapa Sampeyan me' nyo'on aeng enom ka kaula ? " ( Sabab oreng Yahudi ta' endha' apolongan ban oreng Samaria . )
+43004011	ka'imma		Ca'na babine' jareya , " Sampeyan ta' kaagungan temba , ban somor paneka ce' dhalemma . Dhari ka'imma Sampeyan se olleya aeng kaodhi'an ?
+43004027a	aponapa'a		E bakto jareya red-moredda Isa la padha dhateng . Kabbi padha heran nangale'e Isa abu-dhabu ban oreng babine' . Tape tadha' settonga se atanya ka babine' jareya , " Sampeyan aponapa'a ? " otabana atanya ka Isa , 
+43004027b	aponapa		" Aponapa Panjennengngan me' abu-dhabu sareng babine' paneka ? "
+43005012	Sapa		" Sapa se nyoro ba'na kantha jareya ? " ca'na reng-oreng gella' .
+43005044	Baramma		Baramma ba'na se parcaja'a ka Sengko' , mon ba'na terro ealemma sasamana , ban ta' aehteyar sopaja ealemma Allah Se Settong ?
+43005047	baramma		Tape mon ba'na ta' parcaja ka se etoles Mosa , baramma ba'na se parcaja'a ka se ekoca'agi Sengko' ? "
+43006005	dhimma		E bakto ngoladi ka sakalenglengnga , Isa laju ngagali ja' bannya' oreng anyo-ronyo noro' Salerana ka jadhiya . Daddi Isa laju adhabu ka Filipus , " E dhimma melleya roti , sopaja reng-oreng rowa bisa'a ngakan ? " (
+43006009	ponapa		" E ka'dhinto' badha na'-kana' lalake' kasorang se gadhuwan roti lalema' sareng juko' dhadhuwa' . Namong ponapa artena monggu ka oreng se saka'dhinto bannya'epon . "
+43006025	bilaepon		E bakto atemmo bi' Isa e bara' dhajana talaga , reng-oreng jareya laju padha atanya , " Guru , bilaepon Panjennengngan se tanduk dha' ka'dhinto' ? "
+43006028	Ponapa		Reng-oreng jareya laju atanya ka Isa , " Ponapa se elakonana abdina sopaja kengenga ajalannagi kasokanna Allah ? "
+43006030a	ponapa		" Manabi saka'dhinto , " ca'na atorra reng-oreng jareya , " ponapa bukte se eduduwagiya Panjennengngan me' olle abdina sadaja parcaja ka Panjennengngan ? 
+43006030b	ponapa		Ponapa se elampa'agiya Panjennengngan ?
+43006042	Baramma		Ca'na reng-oreng jareya , " Jarowa gu ta' Isa , ana'na Yusup ta' iya ? Sengko' kennal ka rama ebuna ! Baramma me' pas ngoca' ja' aba'na toron dhari sowarga ? "
+43006052	Baramma		Ngedhing parkara jareya , reng-oreng Yahudi se badha e jadhiya laju padha apadu sampe' ramme . " Baramma oreng reya se bisa'a aberri' dagingnga se esorowa kakan ka sengko' ban ba'na ? " ca'na reng-oreng jareya .
+43006060	Sapa		Saellana ngedhing dhabuna Isa se kantha jareya , bannya' moredda se padha ngoca' , " Pangajaran reya taberra' gallu . Sapa se bisa'a narema ! "
+43006062	Baramma		Baramma mon ompamana ba'na dhaggi' nangale'e Pottrana Manossa ongga abali ka kalenggiyanna se asal ?
+43006068	pasera		" Guste , " ca'na atorra Petrus , " Nyengga'a ka pasera abdidalem ? Dhabuepon Junandalem apareng kaodhi'an se saongguna sareng se langgeng .
+43007011	dhimma		E dhalem paraya'an jareya om-kaom oreng agung Yahudi nyare'e Isa sambi anya-tanya , " E dhimma oreng rowa ? "
+43007015	Baramma		Ja-pangraja Yahudi ce' gettonna , laju padha ngoca' , " Baramma oreng reya me' tao ce' bannya'na , mangkana ta' tao asakola ? "
+43007019	Arapa		Mosa gu ta' manapa' papakonna Allah ka ba'na , ta' iya ? Tape e antarana ba'na tadha' se ngestowagi papakon jareya . Arapa ba'na me' mateyana Sengko' ? "
+43007020	Pasera		Oreng se bannya' jareya nyaot , " Sampeyan gila ! Pasera se mateyana sampeyan ? "
+43007023	arapa		Mon ba'na ngalakone jareya polana tako' nerrak hokomma Mosa parkara sonnat , arapa ba'na me' peggel ka Sengko' polana mabaras oreng dhari sakabbiyanna panyakedda e are Sabat ?
+43007035	dha' emma		Ja-pangraja Yahudi pas padha saleng atanya , " Entara dha' emma ba'nengan oreng jareya me' sampe' ta' etemmowa bi' ba'na ban sengko' ? Pola me' entara ka kennengnganna reng-oreng Yahudi e nagarana oreng Yunani ban ngajara oreng Yunani ?
+43007036	Apa		Apa maksodda se ngoca' ja' sengko' ban ba'na bakal nyareya aba'na tape ta' kera tatemmo , ban ja' sengko' ban ba'na ta' bisa entar ka kennengnganna ? "
+43007041	dhimma		Se laen ngoca' , " Jareya Rato Panyalamet ! " Tape badha keya se ngoca' , " Dhu e dhimma se badha'a Rato Panyalamet dhari Galilea ?
+43007045	Arapa		E bakto wal-pangawalla Padalemman Socce se esoro nangkep Isa abali , mam-imam kapala ban reng-oreng Farisi atanya , " Arapa Isa me' ta' egiba dha' enna' bi' ba'na ? "
+43007048	apa		" Apa badha e antarana ja-pangraja Yahudi otabana reng-oreng Farisi se parcaja ka oreng jareya ?
+43007051	~		" Menorot Hokom , oreng ta' kengeng eokom sabellunna parkarana epeyarsa'agi sareng manabi gi' ta' epareksa kasala'anna . "
+43008005	kadi ponapa		E dhalem Hokomma Mosa badha atoran se nyebbuttagi babine' se kadi paneka kodu egarujuk sareng bato kantos mate . Samangken kadi ponapa pamanggina Panjennengngan ? "
+43008010	Dha' emma		Isa adhanga , laju adhabu ka babine' jareya , " Dha' emma reng-oreng rowa kabbi ? Apa tadha' se ngokom ba'na ? "
+43008019	ka'imma		" Badha e ka'imma Ramana Sampeyan ? " ca'na reng-oreng Farisi jareya . Dhabuna Isa , " Ba'na ta' kennal ka Sengko' , bariya keya ka Tang Rama . Ja' sakenga ba'na kennal ka Sengko' , tanto ba'na kennal keya ka Tang Rama . "
+43008025a	pasera		" Pasera Sampeyan paneka ? " ca'na reng-oreng jareya . Dhabuna Isa , 
+43008025b	arapa'a		" Arapa'a Sengko' me' acaca'a bi' ba'na pole !
+43008033	Ponapa		" Kaula paneka toronanna Ibrahim , " ca'na reng-oreng jareya . " Kaula gi' ta' oneng ekadunor pasera'a saos ! Ponapa maksottepon Panjennengngan se adhabu , ' Ba'na bakal epabebasa ? ' "
+43008043	Apa		Apa sababba me' ba'na ta' ngarte ka se ekoca'agi Sengko' ? Tadha' laen kajabana polana ba'na ta' kellar ngedhing Tang pangajaran .
+43008046a	sapa		Sapa e antarana ba'na se bisa abukteyagi ja' Sengko' andhi' dusa ? 
+43008046b	arapa		Mon se ekoca'agi Sengko' bendher kabbi , arapa ba'na me' ta' parcaja ka Sengko' ?
+43008053	apa		Mon Ibrahim dibi' la seda , ban bi-nabbi la padha seda kabbi , sapa ba'na reya ? Apa ba'na apangrasa araja'an dhari Ibrahim ? "
+43008057	~		Ca'na reng-oreng Yahudi jareya , " Omorra ba'na gi' ta' napa' saeket taon , me' ngoca' la nangale'e Ibrahim ? "
+43009002	aponapa		Ca'na red-moredda ka Isa , " Guru , aponapa oreng ka'issa' me' elahirragi buta ? Se dusa ponapa aba'na dibi' , ponapa ebu otaba eppa'na ? "
+43009010	Baramma		" Baramma dha'-adha'na me' ba'na pas nangale'e ? " ca'na reng-oreng jareya ka oreng ngemmes gella' .
+43009012	dhimma		" Badha e dhimma oreng jareya ? " ca'na reng-oreng jareya . Saodda oreng ngemmes jareya , " Ta' oneng . "
+43009016	dhimma		Reng-oreng Farisi jareya badha se padha ngoca' , " Oreng se ngalakone jareya ta' kera dhari Allah asalla , sabab oreng jareya ta' marduli ka are Sabat . " Tape se laen ngoca' , " Dhu e dhimma badha oreng se dusa ngalakone kaajiban se kantha reya ? " Daddi reng-oreng Farisi jareya pas padha apadu .
+43009017	apa		Daddi reng-oreng Farisi jareya atanya ka oreng gella' , " Mon ca'na ba'na , oreng apa se mabaras ba'na sampe' nangale'e jareya ? " " Oreng ganeka nabbi , " saodda oreng jareya .
+43009019	Baramma		pas etanyae , " Bendher reya ana'na ba'na , ya ? Ca'na ba'na ana'na reya buta dhari dhalem tabu' . Baramma sateya me' laju nangale'e ? "
+43009026a	epabaramma		Reng-oreng Farisi jareya pas ngoca' ka oreng jareya , " Ba'na epabaramma bi' oreng jarowa ? 
+43009026b	epabaramma		Epabaramma ba'na me' pas nangale'e ? "
+43009027	Aponapa		" Abdina ampon mator , " ca'na oreng jareya , " panjennengngan ta' kasokan meyarsa'agi . Aponapa me' gi' mareksane pole ? Ponapa panjennengngan terro daddiya red-moredda jugan ? "
+43009034	apa		Saodda reng-oreng Farisi gella' , " Apa ? Ba'na se possa' ban dusa dhari dhalem tabu' ngajarana sengko' kabbi ? " Daddi molae dhari bakto jareya oreng jareya ta' ebagi maso' ka kennengnganna kabakteyan .
+43009036	Pasera		Saodda oreng jareya , " Pasera oreng gapaneka , Guste ? Ngereng abdina parenge oneng me' olle abdina parcaja ka Salerana . "
+43010020	Arapa'a		Bannya' se ngoca' , " Oreng jareya kamaso'an setan ! Gila ! Arapa'a me' ngedhingngagi oreng kantha jareya ? "
+43010021	dhimma		Tape badha keya se ngoca' , " Oreng se kamaso'an setan ta' kera acaca kantha rowa ! E dhimma badha setan mamella' matana oreng buta ? "
+43010024	saponapa abidda		pas badha reng-oreng Yahudi nyander akompol e sakalenglengnga Isa . Oca'na reng-oreng jareya , " Gi' saponapa pole abidda kaula paneka bi' Panjennengngan epanya'-tanya'ana e dhalem ate ? Ngereng dhabuwagi rang-terrangan manabi Panjennengngan paneka Rato Panyalamet . "
+43010032	kemma		Tape Isa adhabu ka reng-oreng jareya , " Ba'na la nangale'e Sengko' ngalakone bannya' lalakon se becce' , se epakonnagi Rama ka Sengko' . Dhari sakabbiyanna Tang lalakon jareya se kemma se andaddiyagi ba'na agarujuga Sengko' sateya reya ? "
+43010036	arapa		arapa bi' ba'na Sengko' me' ekoca' ya-nyeya Allah polana Sengko' ngoca' ja' Sengko' reya Pottrana Allah ? Mangkana Sengko' reya epele bi' Rama sarta eotos ka dunnya .
+43011034	dhimma		Daddi Isa laju mareksane ka reng-oreng jareya , " Ekoburragi e dhimma Lazarus jareya ? " " Ngereng manabi ngoladana , GUSTE , " ca'na reng-oreng jareya .
+43011047	Kadi ponapa		Daddi reng-oreng Farisi ban mam-imam kapala padha arapat ban Mahkamah Agama . Ca'na reng-oreng jareya , " Samangken kadi ponapa ? Oreng paneka mabadha kaajiban sabannya'na .
+43011056	Baramma		Reng-oreng jareya padha nyare'e Isa , ban e bakto padha akompol e Padalemman Socce , padha saleng atanya kantha reya , " Baramma ca'na ba'na ? Olle daddi Salerana ta' kera meyos ka paraya'an reya . "
+43012005	Aponapa		" Aponapa mennya' ro'om paneka me' ta' ejuwal bai , mon gun tello ratos pesse salaka paju ; pessena ekenneng bagi ka oreng mesken . "
+43012027	apa		" Sateya Tang ate arassa ketter ; apa se ekoca'agiya Sengko' sateya ? Apa Sengko' kodu ngoca' , ' Rama , nyo'ona palopot abdidalem dhari sa'at ka'dhinto' ? ' Tape Sengko' dhateng parlo ngadhebbana sa'adda kasangsara'an reya .
+43012034a	~		Ca'na reng-oreng se bannya' jareya ka Isa , " Menorot Buku Hokom kaula , Rato Panyalamet badhi odhi' salanjangnga . Panjennengngan me' adhabu Pottrana Manossa kodu epatenggi e attassa bume ? 
+43012034b	pasera		Pasera Pottrana Manossa gapaneka ? "
+43012038a	pasera		Daddi bendher se edhabuwagi Nabbi Yesaya , " Adhu , GUSTE , pasera se parcaja ka berta se etotorragi abdidalem ? 
+43012038b	pasera		Ka pasera eduduwagiya kobasana Pangeran paneka ? "
+43013025	Pasera		Daddi mored jareya ngengsek ka seddi'na Isa , laju atanya , " Pasera , Guste ? "
+43013036	ka'dhimma		" Meyosa ka ka'dhimma Junandalem , Guste ? " ca'na Simon Petrus ka Isa . Dhabuna Isa , " Sateya reya ba'na ta' bisa noro' Sengko' ka kennengngan se eentarana Sengko' . "
+43013037	aponapa		" Guste , aponapa abdidalem me' ta' kengeng ngereng Junandalem samangken ? " ca'na Petrus pole . " Abdidalem ehlas mate kaangguy Junandalem ! "
+43014002	~		E kalenggiyanna Tang Rama bannya' kennengngan . Sengko' dha' essa'a nyadhiya'agiya kennengngan kaangguy ba'na . Sengko' ta' kera ngoca' kantha jareya ka ba'na mon pajat enja' .
+43014005	Kadi ponapa		Tomas laju mator ka Isa , " Guste , abdidalem sadaja ta' oneng meyosa ka ka'dhimma Junandalem ; kadi ponapa se onenga ka jalanna ? "
+43014009	Baramma		Tape Isa adhabu , " La ce' abidda Sengko' apolong ban ba'na , tape ba'na gi' ta' kennal ka Sengko' , Filipus ? Oreng se la nangale'e Sengko' , la nangale'e Rama . Baramma ba'na me' ngoca' , ' Ngereng duduwagi Rama ka abdidalem sadaja ? '
+43014022	aponapa		Yudas ( banne Yudas Iskariyot ) atanya ka Isa , " Guste , aponapa Junandalem me' anyata'agiya Salerana ka abdidalem sadaja , namong ta' kasokan anyata'agi Salerana ka dunnya ? "
+43016005	dha' emma'a		Tape sateya Sengko' entara ka se ngotos Sengko' ; tape e antarana ba'na tadha' settonga se atanya dha' emma'a Sengko' .
+43016017	Apa		Red-moredda Isa badha se saleng atanya kantha reya , " Apa maksodda Salerana adhabu , ' Sakejja' aggi' ba'na bakal ta' nangaleyana Sengko' pole , ban sakejja' aggi' keya ba'na bakal nangaleyana Sengko' ? ' Bariya keya Guru tao adhabu , ' Sengko' entara ka Rama . ' Apa maksodda , ya ? "
+43016018	Apa		Red-moredda jareya padha saleng atanya terros , " Apa maksodda ' sakejja' aggi' ? ' Sengko' ban ba'na me' ta' ngarte apa se ekadhabu Salerana rowa ! "
+43018004	Sapa		Isa ngagali kabbi se bakal kadaddiyana ka Salerana . Daddi Salerana laju nyemma'e reng-oreng jareya sarta adhabu , " Sapa se esare ba'na ? "
+43018007	Sapa		Isa sakaleyan aggi' mareksane ka reng-oreng jareya , " Sapa se esare ba'na ? " " Isa dhari Nazaret , " saodda reng-oreng jareya .
+43018011	apa		Daddi Isa adhabu ka Petrus , " Pamaso' pole peddhangnga ba'na jareya ! Apa ca'na pekkera ba'na Sengko' reya ta' ngenoma piala kasangsara'an paparengnga Rama ka Sengko' ? "
+43018021	arapa		Daddi arapa ba'na me' atanya ka Sengko' ? Tanya'agi ka reng-oreng se tao ngedhingngagi Sengko' mon teppa'na morok . Tanto reng-oreng jareya tao apa se ekoca'agi Sengko' . "
+43018023	arapa		Dhabuna Isa , " Mon Tang oca' badha se sala , mara koca'agi apa salana ! Tape mon Tang oca' gella' bendher , arapa Sengko' me' etampeleng ? "
+43018029	apa		Daddi Pilatus kalowar nemmone reng-oreng jareya , laju mareksane , " Oreng reya andhi' sala apa ? "
+43018035	Apa		Dhabuna Pilatus , " Apa sengko' reya oreng Yahudi ? Se massra'agi Ba'na ka sengko' bangsana Ba'na dibi' ban mam-imam kapala . Apa kasala'anna Ba'na ? "
+43018038	Apa		Pilatus mareksane , " Apa artena barang se bendher reya ? " Pilatus pas kalowar pole dhari karatonna sarta laju adhabu ka reng-oreng Yahudi , " Oreng reya bi' sengko' la epareksa , tape sengko' ta' nemmo salana maske settonga .
+43019009	dhari dhimma		Daddi pas malebbet pole ka karatonna . Isa ebakta maso' , laju epareksane , " Ba'na dhari dhimma asalla ? " Tape Isa ta' nyaot .
+43019015	apa		Reng-oreng jareya ra'-era'an , " Pate'e oreng ganeka ! Pate'e oreng ganeka ! Salib oreng ganeka ! " Pilatus mareksane , " Apa sengko' nyalibbagiya ratona ba'na ? " Mam-imam kapala se badha e jadhiya padha nyaot , " Pera' Kaisar rato abdina ! "
+43020013	arapa		Kat-malaekat jareya mareksane , " Oreng bine' , arapa ba'na me' nanges ? " Saodda Miriyam Magdalena , " Pangeran kaula ekala' oreng , ban kaula ta' oneng Salerana esaba' e ka'imma . "
+43020015a	arapa		Isa adhabu , " Oreng bine' , arapa ba'na me' nanges ? 
+43020015b	sapa		Ba'na nyare sapa ? " Miriyam nyangka jareya tokang kebbun , daddi laju nyaot , " Pa' , mon sampeyan se ngalle , tore kaula balai esaba' e ka'imma Salerana bi' sampeyan ; bi' kaula ekala'a . "
+43021012	pasera		Dhabuna Isa , " Mara kakan . " Tadha' settonga moredda se bangal atanya , " Sampeyan pasera ? " Sabab red-moredda Isa jareya tao ja' jareya Guste Isa .
+43021020	pasera		Petrus atole , laju nangale'e mored se ekaase'e Isa badha e budhiyanna . ( Mored jareya se toju' e seddi'na Isa e bakto adhadha'aran ban atanya , " Guste , pasera se akiyanadana Junandalem ? " )
+43021021	kadi ponapa		Nangale'e mored jareya , Petrus atanya ka Isa , " Guste , kadi ponapa moredda Junandalem se ka'dhinto' ? "
+43021022	~		Dhabuna Isa , " Ja' sakenga bi' Sengko' oreng jareya epaodhi'a terros sampe' Sengko' dhateng , jareya banne orosanna ba'na . Tape ba'na , mara noro' ! "
+43021023	~		Daddi laju balattra kabar ka red-moredda Isa ja' moredda se settong jarowa ta' bakal mate . Mangkana Isa ta' adhabu ja' mored jareya ta' bakal mate ; se edhabuwagi Isa , " Ja' sakenga bi' Sengko' oreng jareya epaodhi'a terros sampe' Sengko' dhateng , jareya banne orosanna ba'na . "
+44001011	arapa'a		" He , reng-oreng Galilea , " dhabuna se kadhuwa jareya , " arapa'a ba'na me' manjeng terros e jadhiya sambi ngabas ka langnge' ? Isa se etangale'e ba'na epaongga ka sowarga e adha'na ba'na rowa , bakal abaliya pole kalaban cara akantha se etangale'e ba'na e bakto ongga ka sowarga rowa . "
+44002008	~		Me' bisa kaula ban sampeyan ngedhing reng-oreng ka'issa' acaca ngangguy basana kaula ban sampeyan bang-sebang ?
+44002012	Ponapa		Reng-oreng se badha e jadhiya padha kasambu' ban saleng atanya , " Ponapa artena paneka ? "
+44002037	Kadi ponapa		E bakto reng-oreng jareya padha ngedhing parkara jareya , laju padha ngalengsang , daddi pas mator ka Petrus ban sul-rasul laenna , " Tan-taretan , daddi kaula paneka kodu kadi ponapa ? "
+44003012a	aponapa		E bakto Petrus ngoladi reng-oreng jareya , laju adhabu , " He , tan-taretan oreng Isra'il , aponapa sampeyan me' heran nengale parkara paneka ? 
+44003012b	aponapa		Aponapa sampeyan me' terros ngabas ka kaula ban kanca kaula paneka ? Ponapa sampeyan nyangka oreng paneka bisa ajalan polana kaula ban kanca kaula paneka andhi' kobasa otaba polana kaula ban kanca kaula paneka ta'at ka Allah ?
+44004007a	~		Petrus ban Yahya epangadhep ka jadhiya , sarta laju etanya'agi , 
+44004007b	baramma		" Baramma carana ba'na mabaras oreng se empon rowa ? 
+44004007c	sapa		Kalaban kakowadanna apa otabana kakobasa'an dhari sapa ba'na ajalannagi jareya ? "
+44004016	ponapa		oca'na , " Epakadiya ponapa reng-oreng paneka ? Reng-oreng e Yerusalim ampon padha oneng ja' kaajiban se talebat rajana paneka ollena oreng se kadhuwa ka'issa' . Ganeka ta' ekenneng pongkere .
+44004025a	arapa		Kalaban Errohna , Junandalem oneng adhabu kalaban parantara'annepon bangatowa abdidalem , Daud , enggi ka'dhinto' abdiepon Junandalem ; Junandalem adhabu , ' Arapa reng-oreng se ta' tao ka Pangeran me' padha apeggellan ; 
+44004025b	arapa		arapa sa-bangsa me' padha andhi' sajja se tadha' gunana ?
+44005003	arapa		Daddi Petrus adhabu ka oreng jareya , " Ananiyas , arapa ba'na me' endha' atena ekobasae Iblis , sampe' ba'na lecek ka Errohna Allah , tek-ngetek ngerrep sabagiyan dhari pessena ollena ajuwal tanana kaangguy kaparlowanna ba'na dibi' ?
+44005004	arapa		Sabellunna tana jareya ejuwal , andhi'na ba'na . Ban saellana ejuwal , pessena andhi'na ba'na keya . Daddi arapa ba'na me' andhi' maksod e dhalem atena atengka'a kantha jareya ? Se elecegi ba'na Allah , banne manossa ! "
+44005009	Arapa		Petrus pas adhabu ka babine' jareya , " Arapa ba'na ban lakena me' mopakat se nyoba'a Errohna Pangeran ? Edhingngagi , ya ! Reng-oreng se abendhem lakena ba'na la dhateng , tape bakal abaliya ngosonga ba'na kalowar keya . "
+44007026	aponapa		Kalagguwanna Mosa ngoladi oreng Isra'il kadhuwa akeket , Mosa aehteyar mesa'a se kadhuwa gapaneka . Dhabuna , ' Sampeyan sataretan , aponapa me' atokar ? '
+44007027	Sapa		Tape sareng oreng se mokol kancana gella' , Mosa ejungka'agi ka penggir , sambi ngoca' , ' Sapa se madaddi ba'na pamimpinna ban hakimma oreng Isra'il ?
+44007035	Sapa		Mosa paneka Mosa se ta' eakowe sareng bangsa Isra'il sareng etolak kalaban oca' sapaneka , ' Sapa se madaddi ba'na pamimpinna ban hakimma oreng Isra'il ? ' Namong pajat Mosa gapaneka se eotos Allah badhi mimpin sareng malolosa bangsana kalaban bantowanna malaekat se rabu ka salerana e dhalem ombut se rabbang ka'issa' .
+44007049a	apa		' Langnge' Tang katoju'an , ban bume Tang panongko'an . Sengko' egabayyagiya bengko apa bi' ba'na ? 
+44007049b	dhimma		E dhimma se ekennengngana Sengko' aistirahat ?
+44007052	~		Ba' badha'a nabbi se ta' ekaneyaja sareng bangatowana sampeyan ? Otosan-otosanna Allah se jaman lamba' ngabarragi ja' Abdina Allah se lerres ka'issa' badhi rabuwa , sadajana epate'e bi' bangatowana sampeyan . Ban samangken sampeyan akiyanat sareng mate'e Abdina Allah gapaneka .
+44008031	Kadi ponapa		Saodda oreng jareya , " Kadi ponapa se ngarteya mon tadha' se nerrangngagi ka kaula . " Filipus laju eajak netene karetana .
+44008033	~		Oreng ya-nyeya ban ta' adil ka Salerana . Nyabana ecabut dhari bume reya sampe' tadha' oreng settonga se bisa nyareta'agi parkara toronanna . "
+44008034	pasera		Ponggaba tenggi dhari Etiopia jareya mator ka Filipus , " Ngereng kaula parenge oneng , pasera se ekamaksod bi' nabbi ganeka ? Salerana dibi' ponapa oreng laen ? "
+44008036	Ponapa		E tengnga jalan se kadhuwa jareya napa' ka kennengngan se badha aengnga . Ponggaba jareya mator , " Ka'issa' badha aeng ! Ponapa pole se gi' korang kaangguy abaptis kaula ? " [
+44009004	Arapa		Saulus labu ka tana , laju ngedhing badha sowara adhabu kantha reya , " Saulus , Saulus ! Arapa ba'na me' nganeyaja Sengko' ? "
+44009005	Pasera		" Pasera Junandalem , Guste ? " ca'na Saulus . Sowara jareya nyaot , " Sengko' reya Isa se ekaneyaja ba'na .
+44009006	apa		Tape sateya mara ba'na jaga , maso' ka kottha . E jadhiya ba'na ebala'ana apa se kodu elakone ba'na . "
+44010004	Ponapa		Korneliyus mandeng ka malaekat jareya katako'an , laju ngoca' , " Ponapa , guste ? " Malaekat jareya nyaot , " Du'ana ba'na ban kamora'anna atena ba'na la etarema bi' Allah ban Allah emot ka ba'na .
+44010021	apa		Daddi Petrus toron ka baba laju adhabu ka reng-oreng jareya , " Sengko' se esare ba'na . Badha parlo apa ? "
+44010029	aponapa		Ganeka sababba , aponapa e bakto kaula ekone'e bi' sampeyan , kaula ta' kaberradan entar ka ka'dhinto' . Daddi samangken kaula terro onenga aponapa kaula me' epakon ka ka'dhinto' . "
+44010047	sapa		" Reng-oreng reya sateya la narema Errohna Allah , tadha' bidana bi' sengko' ban ba'na kabbi . Daddi sapa se bisa lang-ngalange mon oreng reya padha ebaptisa ban aeng ? "
+44011017a	~		Daddi terrang , Allah apareng jugan ka reng-oreng se ta' noro' agama Yahudi , papareng se padha akadi se eparengngagi ka kaula ban sampeyan sadaja e bakto kaula ban sampeyan parcaja ka Guste Isa Almasih . 
+44011017b	kadi ponapa		Daddi , kadi ponapa kaula se alaranga Allah ! "
+44012018	arapa		Kalagguwanna gu-laggu wal-pangawal padha ramme . Padha bingong mekkere ba' arapa Petrus jareya .
+44013025	sapa		Saamponna lalakonna para' lastareya , Yahya adhabu ka reng-oreng , ' Ca'na ba'na sengko' reya sapa ? Sengko' banne se ete'-nante' ba'na . Tape edhingngagi , ya : oreng jareya bakal rabuwa jang budhiyan dhari sengko' ; mokka' talena sapatuna bai sengko' ta' pantes . '
+44014015	arapa		" He , arapa ba'na me' andhi' maksod kantha reya ? Sengko' ban Barnabas reya manossa biyasa akantha ba'na ! Sengko' dha' enna' aberta'agiya Kabar Bagus ka ba'na kabbi , me' olle ba'na padha ambu ngalakone sabarang se ta' aguna reya sarta ngadhep ka Allah se odhi' , se nyepta'agi langnge' ban bume ban tase' saessena .
+44015010	Aponapa		Aponapa samangken sampeyan me' alabana ka Allah kalaban apareng kawajiban se berra' ka reng-oreng se ampon parcaja paneka , mangkana bangatowana sampeyan ban kaula , sapaneka jugan sampeyan sareng kaula dibi' , ta' sanggup ajalannagi ?
+44016030	ponapa		Kapala penjara jareya ngeba Paulus ban Silas ka lowar , pas atanya , " Towan , samangken ponapa se kodu elakone kaula sopaja kaula epasalamet ? "
+44017018	apa		Ru-guru se nganot pangajaranna Epikuros ban Stowa aso'al jawab keya ban salerana . Pan-barampan e antarana reng-oreng jareya ngoca' , " Oreng reya tao apa ? Pangataowanna pera' sakone' , tape bannya' colo' ! " Se laen padha ngoca' , " Ropana oreng reya notorragi parkara ba-dibana bangsa laen . " Mangkana ngoca' kantha jareya , polana Paulus abu-dhabu parkara Isa ban parkara odhi' pole saellana mate .
+44017019	~		Saellana jareya bi' reng-oreng jareya Paulus laju egiba ka rapat e Gumo' Areyopagus . E jadhiya reng-oreng jareya ngoca' ka Paulus , " Kaula padha terro onenga pangajaran se anyar se etotorragi sampeyan gella' .
+44019003	ponapa		" Manabi sapaneka , sampeyan ebaptis kalaban baptisan ponapa ? " dhabuna Paulus . " Baptisanna Yahya , " saodda reng-oreng jareya .
+44019015	sapa		Tape erroh jahat jareya ngoca' ka lalake' se kapetto jareya , " Sengko' tao ka Isa , bariya keya ka Paulus , tape ba'na reya sapa ? "
+44019035	~		Dhi-budhina panitera kottha jareya ahasel maserep oreng se bannya' jareya . Oca'na , " Tan-taretan oreng Efesus ! Sadajana oreng padha oneng ja' Efesus paneka kottha se meyara kalenggiyanna Dewi Artemis sareng bato socce se gaggar dhari langnge' .
+44021013a	arapa		Tape Paulus adhabu , " Arapa'a ba'na me' padha nanges kantha reya , maancor tang ate ? Sengko' la asadhiya banne pera' se etangkebba , tape asadhiya keya mateya polana Guste Isa . "
+44021013b	~		
+44021022	Kadi ponapa		Samangken reng-oreng Yahudi se ampon parcaja ganeka tanto mereng ja' sampeyan badha e ka'dhinto' . Daddi , kadi ponapa samangken ?
+44021033a	sapa		Komandhan jareya nyander ka Paulus ; Paulus etangkep , laju esoro kalenthong . Komandhan jareya atanya , " Sapa oreng reya , 
+44021033b	apa		ban apa salana ? "
+44022007	Arapa		Kaula labu ka tana , laju mereng badha sowara adhabu ka kaula , ' Saulus , Saulus ! Arapa ba'na me' nganeyaja Sengko' ? '
+44022008	Pasera		Kaula atanya , ' Pasera Junandalem , Guste ? ' ' Sengko' reya Isa oreng Nazaret se ekaneyaja ba'na , ' saodda .
+44022010	Ponapa		Kaula laju atanya pole , ' Ponapa se kodu elakone abdidalem samangken , Guste ? ' Guste Isa adhabu , ' Mara ba'na jaga , pas maso' ka Damsyik . E jadhiya dhaggi' ba'na ebala'ana apa se kodu elakone ba'na menorot kasokanna Allah . '
+44022016	~		Samangken ja' bit-abit pole . Ngereng ngadek , me' olle sampeyan ebaptis . Nyo'on ka Pangeran me' olle sa-dusana sampeyan esapora . ' "
+44022026	ponapa		Ngedhing oca' jareya , parwira buru pas entar ka komandhanna pasukanna , laju ngoca' , " Pa' , ponapa oreng ka'dhissa' epeccoda ? Oreng ka'dhissa' warga nagara Roma ! "
+44023003	~		Paulus laju adhabu ka imam agung jareya , " Sampeyan masthe etamper sareng Allah , he , oreng monafek se ce-masocce ! Sampeyan alenggi e ka'iya ngadilana kaula menorot hokomma Mosa , mangkana sampeyan dibi' ta' atoro' ka hokom ganeka kalaban nyoro oreng namper colo' kaula ! "
+44023009	~		Daddi e jadhiya laju ce' baridhuna . Badha reng-oreng Farisi se daddi guru agama manjeng sarta nangtang theng-mathettheng ; oca'na , " Mon ca'na kaula sadaja , oreng paneka tadha' salana sakale ! Kadiya pajat badha erroh otaba malaekat se abu-dhabu ka oreng paneka ! "
+44023019	Apa		Kana' ngodha gella' bi' komandhan jareya etonton , egiba ka penggir epajau dhari reng-oreng laenna ; parwira jareya atanya , " Apa se ekabala'a ba'na ka sengko' ? "
+44026008	Aponapa		Aponapa tan-taretan reng-oreng Yahudi se badha e ka'dhinto' me' ta' parcaja ja' Allah maodhi' pole oreng se seda ?
+44026014	Arapa		Abdidalem sareng se laen padha labu ka tana . Saamponnepon ka'dhinto' abdidalem laju mereng sowara se adhabu ka abdidalem ngangguy oca' Ibrani , ' Saulus , Saulus ! Arapa ba'na me' terros nganeyaja Sengko' ? Ba'na bakal sake'a dibi' , mon ba'na ros-terrosan alaban pimpinanna Salerana se daddi towanna ba'na . '
+44026015	Pasera		Daddi abdidalem atanya , ' Pasera Junandalem , Guste ? ' Guste Isa adhabu , ' Sengko' reya Isa se ekaneyaja ba'na .
+45002017	Kadi ponapa		Tape samangken , kadi ponapa Sampeyan dibi' ? Sampeyan ngako oreng Yahudi . Sampeyan agantong ka hokomma agama Yahudi ban Sampeyan gumbira polana hubunganna Sampeyan sareng Allah .
+45002021	aponapa		Sampeyan ngajari oreng laen ; aponapa Sampeyan me' ta' ngajari aba'na dibi' ? Sampeyan ngajari oreng sopaja ta' co'-ngeco' , mangkana Sampeyan dibi' co'-ngeco' !
+45002028	~		Sabab oreng Yahudi se saongguna banne pera' nyamana malolo oreng Yahudi ; ban oreng se asonnat ongguwan , banne pera' se asonnat badanna malolo .
+45003001a	ponapa		Daddi mon sapaneka , ponapa ontongnga daddi oreng Yahudi ? 
+45003001b	ponapa		Ban ponapa gunana atoro' ka atoran sonnat ?
+45003003	kadi ponapa		Nangeng , kadi ponapa manabi sabagiyan oreng Yahudi badha se ta' esto ? Ponapa lantaran ganeka Allah pas ta' esto ?
+45003005	ponapa		Nangeng mon kaadilanna Allah atamba nyata polana sampeyan sareng kaula alako ta' lerres , ponapa se ekoca'agiya sampeyan sareng kaula ? ( Pajat partanya'an paneka ampon sapantessa sacara manossa . )
+45003006	kadi ponapa		Bunten ! Sabab mon Allah ta' adil , kadi ponapa Salerana se bisa'a ahakime dunnya paneka ?
+45003007a	~		Nangeng mon polana lalakon se ta' lerres , pa-ponapa se lerres parkara Allah sajan katon kantos Salerana eji-poji , 
+45003007b	aponapa		aponapa oreng se alako jahat me' gi' esala'agi menangka oreng se dusa ?
+45003008	aponapa		Ban aponapa sampeyan sareng kaula sadaja me' ta' kengeng ngoca' , " Mon bariya mara alako jahat bai me' olle kalowar kabecce'an ? " Pajat badha reng-oreng se ya-nyeya kaula kalaban ngoca' ja' kaula oneng ngoca' kantha ganeka . Reng-oreng se kantha ganeka ampon sapantessa eokom sareng Allah .
+45003009	ponapa		Daddi mon sapaneka , ponapa kadhudhuganna sampeyan sareng kaula sadaja se Yahudi paneka asaeyan dhari kadhudhuganna bangsa laen ? Bunten ! Kaula ampon ngoca' ja' sadajana oreng , se Yahudi sareng bangsa laenna , padha ekobasae dusa .
+45003027a	aponapa		Daddi sampeyan sareng kaula sadaja ampon ta' gadhuwan alasan kaangguy dir-ngedirragi . Aponapa me' sapaneka ? 
+45003027b	ponapa		Ponapa polana sampeyan sareng kaula sadaja ajalannagi pa-ponapa se kasebbut e dhalem hokomma agama Yahudi ? Bunten . Tape polana sampeyan sareng kaula sadaja parcaja .
+45003027c	~		
+45004001	Kadi ponapa		Mon sapaneka , ponapa se bisa ekoca'agi sampeyan sareng kaula sadaja parkara Ibrahim , bangatowana sampeyan sareng kaula sadaja ? Kadi ponapa pangalamanna ?
+45004003	~		E dhalem Alketab esebbuttagi , " Ibrahim parcaja ka Allah , ban polana kaparcaja'anna jareya salerana etarema bi' Allah menangka oreng se masenneng panggaliyanna Allah . "
+45004010	bila		Daddi , bila Allah se anyata'agi parkara gapaneka ? Sabellunna otabana saamponna Ibrahim esonnat ? Pajat sabellunna salerana esonnat , banne saamponna .
+45005010	~		Manabi e bakto sampeyan sareng kaula sadaja gi' amosowan sareng Allah , hubungan sareng Allah gapaneka epasae pole kalaban parantara'anna Pottrana , ponapa pole samangken , saamponna hubunganna sampeyan sareng kaula sadaja sareng Allah ampon sae , tanto sampeyan sareng kaula sadaja padha epasalamet jugan kalaban parantara'anna sedana Almasih .
+45005021	~		Daddi sampeyan sareng kaula sadaja kodu mate polana dusa . Namong Allah neser ka sampeyan sareng kaula sadaja , ban apareng jalan ka sampeyan sareng kaula sadaja kaangguy masae pole hubungan sareng Salerana . Ban lantaran hubunganna sampeyan sareng kaula sadaja sareng Allah ampon sae pole , Salerana apareng jugan odhi' se salerressa sareng se langgeng kalaban parantara'anna Isa Almasih , Pangeranna sampeyan sareng kaula sadaja .
+45006001	ponapa		Mon sapaneka , sampeyan sareng kaula sadaja paneka bisa ngoca' ponapa ? Ponapa kodu terros agabay dusa sopaja Allah atamba neser ka sampeyan sareng kaula sadaja ?
+45006002	kadi ponapa		Tanto saos bunten . Dusa ta' kobasa pole ka sampeyan sareng kaula sadaja , daddi kadi ponapa sampeyan sareng kaula sadaja se bisa'a ros-terrosan odhi' kalaban agabay dusa ?
+45006015	kadi ponapa		Daddi samangken kadi ponapa ? Ponapa sampeyan sareng kaula sadaja olle agabay dusa , sabab sampeyan sareng kaula sadaja ampon tadha' e dhalem kobasana hokomma agama Yahudi nangeng e dhalem kakobasa'anna rahmadda Allah ? Bunten ta' sapaneka !
+45006021	ponapa		E bakto gapaneka , kaontongan ponapa se ekaolle sampeyan dhari pa-ponapa se samangken paneka sampeyan todhus ngalakonana ? Kon-lalakon gapaneka coma madhateng pate !
+45007007	ponapa		Mon sapaneka , ngoca'a ponapa sampeyan sareng kaula sadaja ? Ponapa ngoca'a ja' hokomma agama Yahudi paneka jahat ? Tanto bunten ! Nangeng hokom gapaneka se ngajari kaula parkara dusa . Kaula ta' kera oneng ponapa tama' paneka , ja' sakenga hokom ta' ngoca' , " Ja' tama' . "
+45007024	Pasera		Daddi kabadha'an kaula cara paneka : kaula ta'at ka hokomma Allah kalaban akkal sareng pekkeran kaula , nangeng tabi'adda manossana kaula , kaula kala ka dusa . Palang onggu kaula paneka ! Pasera se poron masalamedda kaula dhari badan kaula paneka se ngeret kaula ka pate ? Sokkor ka Allah ! Salerana kasokan masalamet kaula kalaban parantara'anna Isa Almasih .
+45008024	Pasera		Sabab kalaban ngarep , sampeyan sareng kaula sadaja epasalamet . Nangeng manabi se earep sampeyan sareng kaula sadaja ganeka pon etangale'e , nyamana banne se earep pole . Sabab pasera se ngarep pa-ponapa se ampon etengale ?
+45008031a	ponapa		Samangken ponapa se bisa ekoca'agi parkara paneka sadaja ? 
+45008031b	pasera		Manabi Allah nolonge sampeyan sareng kaula sadaja , pasera se bisa alaban sampeyan sareng kaula sadaja ?
+45008032	~		Pottrana dibi' ta' ekaemane , tape eparengngagi kaangguy kaparlowanna sampeyan sareng kaula sadaja ; masa' Salerana ta' marengana sampeyan sareng kaula sadaja sabarang laenna ?
+45008033	Pasera		Pasera se bisa'a agugat sampeyan sareng kaula sadaja ommat se epele Allah , mon Allah dibi' anyata'agi ja' sampeyan sareng kaula sadaja ta' sala ?
+45008034	~		Ba' badha'a oreng se nyala'agiya sampeyan sareng kaula sadaja ? Isa Almasih dhaggi' se abilla'ana sampeyan sareng kaula sadaja ! Salerana se ampon seda , otabana la'-mala' Salerana se ampon epaodhi' pole dhari sedana ban badha e kennengngan se kobasa asareng Allah .
+45008035	~		Ba' badha'a se bisa lang-ngalange Almasih taresna ka sampeyan sareng kaula sadaja ? Ba' bisa'a badha kasossa'an se daddi alangan ka Salerana , otabana kamalaradan , otabana panganeyaja'an , otabana kalaparan , otabana kameskenan , otabana babaja , otabana pate ?
+45009014	ponapa		Daddi , pandha'na kadi ponapa samangken ? Ponapa sampeyan adhabuwa ja' Allah paneka ta' adil ? Tanto saos Allah paneka adil !
+45009019a	aponapa		Tan-taretan , sampeyan tanto adhabu ka kaula , " Mon sapaneka , aponapa Allah me' gi' nyala'agi manossa ? 
+45009019b	~		Gu ta' tadha' oreng settonga se bisa lang-ngalange kasokanna Allah ? "
+45009020a	~		Namong , Taretan ! Sampeyan coma manossa . Ban sampeyan ta' kengeng nyaot ka Allah ! 
+45009020b	ponapa		Ponapa kengeng eppodda kembang atanya ka oreng se agabay eppot ganeka , 
+45009020c	aponapa		" Aponapa sampeyan me' agabay kaula epakantha paneka ? "
+45009021	~		Oreng se agabay eppodda kembang ganeka gu ta' andhi' ha' agabaya ponapa saos dhari tana ganeka menorot sakarebba . Dhari lempong sakeppel oreng ganeka gadhuwan ha' agabay eppodda kembang dhu macem : settong se bagus , ban settonganna se korang bagus .
+45009022	~		Sapaneka jugan parkara ponapa se elampa'agi Allah . Salerana aneyat norodana dukana ban noduwagiya kakobasa'anna . Nangeng Salerana sabbar ka oreng se kodu eokom polana maduka panggaliyanna .
+45009023	~		Allah jugan aneyat noduwagiya ka sampeyan sareng kaula sadaja kasennengngan se ta' sakera-kera se eparengngagi ka sampeyan sareng kaula sadaja se ekataresnae Salerana . Sampeyan sareng kaula sadaja ampon epasadhiya se narema'a kasennengngan ganeka .
+45009024	~		Sampeyan sareng kaula sadaja se etembali Salerana ; banne namong dhari bangsa Yahudi , tape jugan dhari sa-bangsa laen .
+45009030	~		Daddi , pandha'na sapaneka : Sa-bangsa se banne Yahudi ta' aehteyar mabagusa pole hubunganna ban Allah . Tape sarrena bangsa gapaneka parcaja , daddi Allah mabagus pole hubunganna bangsa gapaneka sareng Salerana .
+45009032	Aponapa		Aponapa me' ta' ahasel ? Sabab ehteyarra bangsa gapaneka ta' edhasarragi ka kaparcaja'an , tape edhasarragi ka ehteyarra dibi' . Daddi reng-oreng ganeka labu tatandhung ka " Bato Se Ngaddhang " .
+45010006	Sapa		Nangeng , parkara carana oreng masae pole hubunganna sareng Allah adhasar parcaja ka Allah , Alketab nyebbuttagi sapaneka , " Ba'na ta' osa atanya e dhalem atena , ' Sapa se ongga'a ka sowarga ? ' ( artena ngeba Almasih toron ) ,
+45010007	Sapa		otabana ' Sapa se torona ka dunnyana oreng mate ? ' ( artena maongga Almasih dhari pate ) . "
+45010008	~		Maksodda gapaneka , " Berta dhari Allah jareya ce' semma'na ka ba'na ; badha e colo'na ban badha e atena . " Ganeka berta se ekabarragi kaula ; berta ja' oreng kodu parcaja .
+45010014a	kadi ponapa		Tape kadi ponapa oreng se aserrowa ka Pangeran mon gi' ta' parcaja ? 
+45010014b	kadi ponapa		Ban kadi ponapa se parcaja'a mon gi' ta' oneng mereng parkara Salerana ? 
+45010014c	kadi ponapa		Jugan , kadi ponapa oreng se merengnga parkara Pangeran mon tadha' oreng se ngabarragi ?
+45010015	Kadi ponapa		Ban kadi ponapa se bisa'a badha oreng se ngabarragi mon oreng ganeka ta' eotos ? E dhalem Alketab esebbuttagi sapaneka , " Ce' pojurra badha reng-oreng se ngeba Kabar Bagus dhari Allah ! "
+45010016	pasera		Nangeng ta' sadajana oreng narema Kabar Bagus ganeka . Sabab Isa adhabu , " Guste Pangeran , pasera se parcaja ka kabar se ebakta abdidalem sadaja ? "
+45011004	Ponapa		Ponapa jawabanna Allah ka Eliya ? Dhabuna , " Sengko' la malaen oreng pettong ebu kaangguy Sengko' dibi' . Reng-oreng jareya ta' tao nyemba Diba Ba'al . "
+45011007	kadi ponapa		Daddi kadi ponapa ? Ommat Isra'il ta' ngaolle se esare aba'na . Se ngaolle ganeka namong reng-oreng peleyanna Allah , se namong sakone' . Se laen cengkal ta' poron merengngagi tembalanna Allah .
+45011015	ponapa		Polana bangsa kaula ganeka etolak sareng Allah , hubunganna dunnya sareng Allah sae pole ; ponapa pole mon bangsa kaula ganeka etarema sareng Allah ! Tanto gapaneka padha sareng oreng se mate odhi' pole !
+45011018	~		Daddi sampeyan ja' nganggep entheng ka reng-oreng se ampon eketthok akadi cangka ganeka . Sampeyan kodu emot ja' sampeyan dibi' coma cangka ; ban banne cangka se makane ramo' , tape ramo' se makane cangka .
+45011033a	pasera		Sogi onggu Allah paneka ! Raja onggu kabicaksana'anna sareng pangataowanna ! Pasera se bisa nalektegi kapotosan-kapotosanna ? 
+45011033b	pasera		Pasera se bisa ngarte ra-carana Allah alampa'agi lalakon ?
+45011034a	sapa		E dhalem Alketab esebbuttagi sapaneka , " Sapa se tao ka panggaliyanna Pangeran ? 
+45011034b	sapa		Sapa se bisa la-malae Salerana ?
+45011035	Sapa		Sapa se tao tor-ngatore ka Pangeran sampe' bisa nyo'on les-bales ? "
+45014004	Pasera		Pasera sampeyan paneka me' ro'-noro'a ngadili oreng laen ? Abdi paneka jaga otaba robbu , ganeka orosanna lorana . Ban abdi ganeka bakal manjengnga sodek , sabab Pangeran sanggup mamanjeng oreng ganeka .
+45014010a	ponapa		Daddi , tan-taretan , ponapa gunana nyala'agi taretanna sampeyan se saiman ? 
+45014010b	ponapa		Ban ponapa gunana sampeyan nganggep taretanna ganeka rendha ? Sampeyan sareng kaula sadaja padha ngadhebba ka Allah kaangguy eadili .
+46001020a	ponapa		Daddi , ponapa gunana daddi oreng penter ? 
+46001020b	ponapa		Ponapa gunana oreng andhi' elmo ? 
+46001020c	ponapa		Ponapa gunana reng-oreng ahli pekker e dunnya paneka ? Allah ampon noduwagi ja' kabicaksana'an e dunnya paneka sanyatana kabudhuwan se tadha' essena !
+46002011	~		Sabab se oneng ka essena atena oreng enggi paneka errohna oreng ganeka dibi' , ta' enggi ? Sapaneka jugan parkara Allah . Se ngagali ka panggaliyanna Allah namong Errohna Allah gapaneka dibi' !
+46002016a	sapa		E dhalem Alketab esebbuttagi , " Sapa se tao ka panggaliyanna Pangeran ? 
+46002016b	sapa		Ban sapa se bisa la-malae Salerana ? " Sampeyan sareng kaula sadaja se gadhuwan pekkeran se padha sareng Almasih !
+46003005a	pasera		Salerressa , pasera Apolos ganeka ? 
+46003005b	pasera		Ban pasera Paulus ? Kaula sareng Apolos namong abdina Allah , se nonton sampeyan sopaja parcaja ka Almasih , namong ajalannagi lalakon se epassra'agi sareng Pangeran .
+46004007a	pasera		Pasera se madaddi sampeyan alebbiyan dhari oreng laen ? 
+46004007b	~		Sadaja se etarema sampeyan gu ta' dhari Allah sadaja ? 
+46004007c	aponapa		Daddi , aponapa sampeyan me' ngedirragi aba' , akadi sadajana se badha e sampeyan ganeka banne papareng ?
+46004021	ka'imma		Daddi tore pele ka'imma se ekasokane sampeyan ! Ponapa kaula entara ka sampeyan ngajara kalaban kakerrasan otabana kaula dhatengnga kaangguy ngajar kalaban alos etoro'e bellas ase ?
+46005002	~		Tape sampeyan gi' ga'-maangga' . Sabaligga , samasthena Sampeyan kodu arassa ngennes , ban oreng se atengka sapaneka kodu ebuwang dhari kompolanna Sampeyan .
+46005012	~		Ngadili reng-oreng se banne Kristen pajat banne orosan kaula . Allah dibi' se bakal ngadilana reng-oreng gapaneka . Nangeng , parkara sadajana anggotana jema'adda sampeyan , gu ta' sampeyan dibi' se kodu ngadili ? E dhalem Alketab esebbuttagi , " Tondhung oreng jahat dhari seddi'na ba'na . "
+46006001	Kadi ponapa		Kadi ponapa me' badha e antarana sampeyan se bangal entar ka hakim se ta' oneng ka Allah , parlo agugat taretanna se saiman mon oreng ganeka atokar ban taretanna ganeka ? Ponapa me' nyo'on ka ommadda Allah sopaja ngorossagi parkara ganeka kantos lastare ?
+46006003	Ponapa		Ponapa sampeyan ta' oneng ja' sampeyan sareng kaula badhi ngadilana para malaekat ? Ponapa pole ra-parkara ren-aren e dhalem odhi' e dunnya paneka !
+46006004	ponapa		Daddi mon badha ra-parkara kadi ganeka , ponapa sareng sampeyan eparkara'agiya ka reng-oreng se ta' gadhuwan kobasa sakale e dhalem jema'at ?
+46006007a	ponapa		Ponapa pole abakta parkara ka oreng se banne Kristen ; badhana tokar e antarana sampeyan dibi' bai ampon noduwagi kakala'anna sampeyan . 
+46006007b	~		Langkong sae sampeyan narema barang se ta' adil otabana eparogi !
+46006009	~		Sampeyan ba' onenga ja' reng-oreng se ta' atoro' ka karsana Allah , ta' kera daddi anggotana ommadda Allah ? Ja' ekenneng co-koco oreng ! Reng-oreng se alako ma'seyat , reng-oreng se nyemba brahala , se azina , se alako cemmer sareng oreng se padha lake'na ,
+46006016	~		Otabana , kadiya sampeyan gi' ta' oneng ja' oreng se apolong sareng sondel , daddi settong sareng sondel ganeka ? Sabab e dhalem Alketab esebbuttagi , " Se kadhuwa daddi settong . "
+46006019	~		Sampeyan kodu oneng ja' badanna sampeyan paneka kalenggiyanna Errohna Allah . Erroh ganeka badha e dhalemmanna sampeyan . Ban Allah dibi' se apareng Erroh ganeka ka sampeyan . Sampeyan paneka andhi'na Allah , banne andhi'na sampeyan dibi' .
+46007016a	kadi ponapa		Sarrena sampeyan babine' se ampon parcaja ka Almasih , kadi ponapa sampeyan se onenga ja' sampeyan ta' kera bisa masalamet rakana ? 
+46007016b	kadi ponapa		Sapaneka jugan sampeyan , lalake'an se ampon parcaja ka Almasih , kadi ponapa sampeyan se onenga kalaban masthe ja' sampeyan ta' kera bisa masalamet rajina ?
+46009007a	~		Tadha' anggotana tantara se kodu nyare kakan dibi' e dhalem angkadan perrang ! 
+46009007b	~		Tadha' oreng tana se namen anggur e kebbunna pas ta' neddha hasella anggur dhari kebbunna ganeka ! 
+46009007c	~		Tadha' oreng ngowan se meyara dumba , se ta' ngenom susuna ba-dumbana ganeka !
+46009018	ponapa		Mon sapaneka , ponapa opa kaula ? Paneka' opana : Kaula bisa aberta'agi Kabar Bagus ganeka ta' kalaban maberra' oreng settonga kaangguy abandhai kaula , sabab kaula ta' menta ha'-ha' kaula menangka oreng se aberta'agi Kabar Bagus ganeka .
+46010019a	ponapa		Ponapa maksod kaula ngoca' kantha ganeka ? 
+46010019b	~		Brahala otaba teddha'an se ebagi ka brahala ganeka tadha' artena sakale .
+46010019c	~		
+46010029	Aponapa		Maksod kaula banne sowara atena sampeyan , tape sowara atena oreng ganeka . Olle daddi badha se atanya , " Aponapa kabebasan kaula me' kodu ebatesse bi' sowara atena oreng laen ?
+46010030	aponapa		Mon kaula neddha teddha'an kalaban asokkor ka Allah , aponapa oreng me' kodu nyale kaula polana teddha'an ganeka , mangkana kaula asokkor ka Allah polana teddha'an ganeka ? "
+46011022	ponapa		Aponapa me' sapaneka ? Sampeyan gu ta' padha kaagungan compo' ? Daddi bisa adha'ar sareng ngenom e compo'na ! Otabana ponapa sampeyan ya'-nyeya'a jema'adda Allah ban matodhusana reng-oreng mesken ? Ponapa se ekoca'agiya kaula ka sampeyan ? Kodu ngalem sampeyan ? Bunten ! Maske kadi ponapa kaula ta' ngalemma sampeyan .
+46012017a	kadi ponapa		Ja' sakenga sadajana bagiyanna badan paneka namong mata malolo , kadi ponapa badan ganeka se bisa'a ngedhing ? 
+46012017b	kadi ponapa		Otabana ja' sakenga badan ganeka sadajana kopeng malolo , kadi ponapa badan se bisa'a nyeyom ?
+46012019	ka'imma		Mon sadajana namong settong anggota saos , se ka'imma se enyamae badan ?
+46014006	ponapa		Mon ompamana kaula entar ka sampeyan ban kaula acaca ngangguy acem-macem basa se ajib , ponapa gunana ka sampeyan ? Tadha' gunana sakale ! Laen parkarana mon kaula anyata'agi settong parnyata'an dhari Allah , otabana mon kaula nerrangngagi pa-ponapa parkara Allah , otabana mon kaula manapa' berta dhari Allah , otabana mon kaula ngajar .
+46014007	kadi ponapa		Kas-pakakassa mosik se ta' anyaba sakale , akadi soleng sareng calempong , mon monyena ta' emaennagi epaterrang , kadi ponapa oreng se onenga nyanyeyan ponapa se emaennagi ?
+46014008	pasera		Conto laenna pole : Mon tarompet epamonye ban-saromban , pasera se asadhiya'a mangkada aperrang ?
+46014009	~		Sapaneka jugan kasanggubanna sampeyan abu-dhabu ngangguy acem-macem basa se ajib . Mon sampeyan kalaban kasangguban ganeka adhabuwagi ca'-oca' se ta' terrang , tadha' oreng settonga se ngarte ponapa se edhabuwagi sampeyan . Se edhabuwagi sampeyan bakal elanga tadha' gunana .
+46014015	aponapa		Daddi kaula kodu aponapa ? Paneka' se elakonana kaula : Kaula bakal adu'a bi' erroh kaula , nangeng kaula bakal adu'a jugan bi' pekkeran kaula . Kaula anyanye bi' erroh kaula , nangeng kaula anyanye jugan bi' pekkeran kaula .
+46014016	~		Sabab mon sampeyan asokkor ka Allah bi' errohna malolo , ban badha oreng laen se ta' ngarte basa se ajib se dhari Errohna Allah ganeka , oreng ganeka ta' kera ngoca' , " Amin " ka du'a sokkorra sampeyan ganeka ; polana oreng ganeka ta' oneng ponapa se edhabuwagi sampeyan .
+46014026	ponapa		Tan-taretan ! Daddi ponapa artena ganeka sadaja ? Mon sampeyan akompol abakteya ka Pangeran , badha se anyanye , badha se ngajar , badha se aberta'agi pa-ponapa se dhari Allah , badha se acaca ngangguy basa se ajib , ban badha se nerrangngagi ponapa se ekoca'agi ganeka . Nangeng ganeka sadaja kodu elakone kaangguy ngajar ban kaangguy kabecce'anna sadajana .
+46014036	Ponapa		Ponapa dhabuna Allah dhatengnga dhari sampeyan ? Otabana ponapa dhabu gapaneka pera' epanapa' ka sampeyan ?
+46015012	aponapa		Mon se eberta'agi kaula ganeka kabar ja' Almasih ampon epaodhi' pole dhari sedana , aponapa me' badha e antarana sampeyan se adhabu ja' oreng mate ta' kera epaodhi' pole ?
+46015029a	aponapa		Mon oreng seda ta' epaodhi' pole , aponapa me' badha oreng se ebaptis kaangguy oreng mate ? 
+46015029b	ponapa		Ponapa parlona ganeka ? 
+46015029c	aponapa		Mon oreng mate pajat ta' kera epaodhi' pole , aponapa reng-oreng ganeka me' ngalakone ganeka ?
+46015030a	~		
+46015030b	ponapa		Ban egabaya ponapa me' kaula sadaja poron ngadhebbi babaja ros-terrosan ?
+46015032	ponapa		Mon ganeka pera' dhari kaparlowanna manossa malolo , ponapa ontongnga kaula aperrang akadi se ngadhebbi run-burun alas galak e kottha Efesus paneka ? Mon oreng mate pajat ta' epaodhi' pole , lebbi becce' sampeyan sareng kaula sadaja atoro' parebasan paneka , " Tore ar-dha'aran sareng nom-enoman , ban neng-sennengngan , sabab lagguna sampeyan sareng kaula sadaja bakal mateya . "
+46015035a	baramma		Olle daddi badha se atanya , " Baramma oreng mate epaodhi' pole ? 
+46015035b	apa		Kantha apa badanna saellana epaodhi' pole jareya ? "
+46015055a	dhimma		" He , maot , e dhimma kamennanganna ba'na ? 
+46015055b	dhimma		He , maot , e dhimma sengnga'na ba'na ? "
+47002002	pasera		Sabab mon kaula masossa sampeyan , pasera se alepora kaula , mon banne reng-oreng se epasossa kaula ganeka ?
+47002016	pasera		Samangken , pasera se sanggup ajalannagi lalakon paneka ?
+47003008	~		tantona se abadhi parjanjiyan se eparengngagi sareng Errohna Allah , eresmeyagi kalaban lebbi bagus pole .
+47003009	~		Mon parjanjiyan se ngokom manossa ganeka ce' agungnga , tanto lebbi agung pole parjanjiyan se bisa apareng jalan ka manossa kaangguy masae pole hubunganna sareng Allah .
+47006014a	kadi ponapa		Ja' akanca'an sareng oreng se ta' parcaja ka Isa ; ganeka ta' cocok . Kadi ponapa kabecce'an se bisa'a acampo sareng kajahadan ! 
+47006014b	~		Ta' kera terrang acampo sareng petteng .
+47006015a	ponapana		Ta' kera Almasih cocok sareng Iblis . Ponapana se padha antarana oreng Kristen sareng se banne Kristen ?
+47006015b	~		
+47006016	Ponapa		Ponapa hubunganna antara Padalemman Socce sareng brahala ? Sampeyan sareng kaula paneka Padalemmanna Pangeran , Allah se odhi' . Allah dibi' adhabu , " Sengko' ennengnga e nga'-tengnga'anna Tang ommat , odhi'a apolong ban reng-oreng jareya . Sengko' daddiya Allahna reng-oreng jareya , ban reng-oreng jareya daddiya Tang ommat .
+47011011	Aponapa		Aponapa kaula me' ngoca' sapaneka ? Ponapa polana kaula ta' neser ka sampeyan ? Allah ngagali ja' kaula neser ka sampeyan !
+47011029a	~		Mon badha se ta' gadhuwan kakowadan , kaula arassa ta' gadhuwan kakowadan jugan . 
+47011029b	~		Mon badha se gaggar ka dhalem dusa , ate kaula noro' ancor .
+47012013	ponapa		E dhalem parkara ponapa sampeyan se korang egateyagi , mon ebandhing sareng jema'at-jema'at laennepon ? Paleng coma e dhalem parkara paneka : ja' kaula ta' marepot sampeyan kaangguy nanggung kabutowan kaula . Kaula menta'a sapora polana kasala'an ganeka !
+47012017	kadi ponapa		Kadi ponapa se bisa'a sapaneka ! Ponapa kalaban parantara'anna reng-oreng se eotos kaula ka sampeyan ka'issa' kaula ngoro' kaontongan dhari sampeyan ?
+48002014	aponapa		E bakto kaula nengale ja' gulina reng-oreng ganeka ta' padha sareng barang se lerres se esebbuttagi e dhalem Kabar Bagus , kaula ngoca' ka Petrus e adha'na reng-oreng se badha ka'issa' , " Sampeyan paneka oreng Yahudi , nangeng odhi'na sampeyan ampon akadi oreng se banne Yahudi . Daddi aponapa sampeyan me' maksa reng-oreng laen odhi' akadi reng-oreng Yahudi ? "
+48003001	pasera		Tan-taretan reng-oreng Galatia ! Budhu onggu sampeyan paneka ! Ekenneng pangarona pasera sampeyan paneka ? Kaula ampon nerrangngagi epajarna' ka sampeyan parkara sedana Almasih e salib !
+48003019	ponapa		Manabi sapaneka , ponapa gunana hokomma agama ganeka ? Jawabba enggi paneka ja' hokom ganeka etamba'agi kaangguy anyata'agi kasala'anna manossa . Hokomma agama ganeka kodu terros eestowagi namong kantos rabuna toronanna Ibrahim se kasorang , se esebbut e dhalem janjina Allah ka Ibrahim . Hokomma agama ganeka epanapa' sareng kat-malaekat kalaban parantara'anna settong manossa .
+48004009a	aponapa		Nangeng samangken sampeyan ampon oneng ka Allah , otabana langkong sae pole mon ekoca'agi Allah ampon ngagali ka sampeyan . Daddi aponapa sampeyan me' abaliya pole ka roh-erroh se ngobasae dunnya paneka , se mesken sareng ta' gadhuwan kakowadan ? 
+48004009b	aponapa		Aponapa sampeyan me' poron ekadunor pole sareng roh-erroh ganeka ?
+48004010	~		Badha re-are , lan-bulan , sem-mosem , on-taon , se bi' sampeyan eraya'agi sarta eanggep alebbiyan dhari re-are , lan-bulan , sem-mosem , sareng on-taon laenna .
+48004015	ka'imma		Sampeyan ce' sennengnga e bakto ganeka . Nangeng samangken , ka'imma kasennengngan ganeka ? Kaula oneng ja' e bakto ganeka ja' sakenga kengeng , sampeyan ehlas nyongke' socana kaangguy eparengngagi ka kaula .
+48004021	~		Tan-taretan se terro odhi'a e dhalem kakobasa'anna kom-hokomma agama , ngereng peyarsa'agi ! Bi' kaula sampeyan ebala'ana ponapa sabendherra essena Ketab Hokomma Mosa .
+48004030	Kadi ponapa		Nangeng kadi ponapa se esebbuttagi e dhalem Alketab ? Kadi paneka monyena , " Ojuk dunor babine' jareya ban ana'na , sabab ana'na dunor babine' jareya ta' daddiya ahli waris abareng ban ana'na babine' se mardika jarowa . "
+48005007a	pasera		Gi' dhimen sampeyan padha aperrang kalaban sae . Samangken aponapa sampeyan me' ta' ngestowagi pole ka kasokanna Allah ? Pasera se nyacae sampeyan ? 
+48005007b	~		
+48005011	aponapa		Parkara kaula dibi' , tan-taretan , aponapa kaula me' gi' ekamoso terros , mon kaula gi' aberta'agi ja' atoran sonnat paneka parlo ? Mon kaula pajat aberta'agi sapaneka , tanto paberta'an kaula parkara salibba Almasih ta' kera madhateng parkara pa-ponapa .
+49004009	~		Daddi , mon ekoca'agi " Salerana ongga " artena Salerana ampon toron e kennengngan se paleng mandhap e bume paneka .
+50001018	aponapa		Nangeng ta' aponapa ! Sabab , kadi ponapa'a saos , ponapa maksodda morne otaba sala , ollena gi' padha , enggi paneka Almasih gi' eberta'agi jugan ; daddi kaula senneng . Ban kaula bakal terrosa arassa senneng ,
+50001021	~		Sabab monggu ka kaula , tojjuwan odhi'na kaula namong Almasih ! Daddi mate artena pojur .
+51002020	aponapa		Sampeyan ampon seda asareng Almasih , ban ampon epabebas dhari roh-erroh se ngobasane alam paneka . Daddi , aponapa sampeyan me' gi' odhi' akadi oreng se gi' ekobasae dunnya paneka ? Aponapa sampeyan me' atoro' ka sadajana atoran akadi paneka ,
+52002019	~		Ongguwan , sampeyan se daddi pangarebban sareng kasennengnganna ate kaula sadaja . Sabab mon dhaggi' Guste Isa rabu , ban sampeyan sareng kaula ngadhep ka Salerana , sampeyan se daddiya kagumbira'anna kaula sadaja !
+52003009	Saponapa		Saponapa sokkorra ate kaula sadaja ka Allah polana sadajana kagumbira'an se ealame kaula sadaja e ajunanna lantaran sampeyan .
+54003005	baramma		Sabab mon oreng ta' tao ngator bengkona dibi' , baramma se bisa'a ngator jema'adda Allah ?
+54006007a	~		Sabab ba'na ta' ngeba pa-apa ka dunnya reya , 
+54006007b	apa'a		ban ta' kera bisa ngeba apa'a bai kalowar dhari dunnya reya .
+58001005	~		Allah ta' oneng adhabu sapaneka ka settonga malaekat , " Ba'na Tang ana' ; e are teya Sengko' daddi Ramana ba'na . " Ta' oneng jugan Allah adhabu sapaneka parkara malaekat se ka'dhimma'a jugan , " Sengko' daddiya Ramana , ban aba'na daddiya Tang ana' . "
+58001013	~		Allah ta' oneng adhabu sapaneka ka malaekat sanare settonga , " Mara toju' e kanganna Sengko' reya , sampe' so-mosona ba'na bi' Sengko' epanyemba ka ba'na . "
+58001014	ponapa		Manabi sapaneka , kat-malaekat gapaneka ponapa sabendherra ? Kat-malaekat ganeka roh-erroh se aladine Allah , ban se epakon Allah nolonge reng-oreng se narema'a kasalameddan .
+58002003	Ponapa		Ponapa pole sareng kasalameddan se lebbi hebat dhari sen-pessen ganeka ! Mon ta' eparduli , tanto sampeyan sareng kaula sadaja ta' lopot dhari okoman . Sabab Pangeran dibi' se dha'-adha' ngomommagi parkara kasalameddan ganeka , ban reng-oreng se mereng dha'-adha' parkara ganeka ampon abukteyagi ka sampeyan sareng kaula sadaja ja' ganeka pajat lerres .
+58002006a	ponapa		Sabaligga , e settong bagiyan e dhalem Alketab esebbuttagi sapaneka , " Manossa ka'dhinto' ponapa , Guste , me' sareng Junandalem ekaemodi ? 
+58002006b	~		Manossa ka'dhinto' namong manossa , nangeng sareng Junandalem egateyagi !
+58003016	Pasera		Pasera se meyarsa sowarana Allah pas aberonta' ka Salerana ? Gu ta' sadajana oreng se epimpin Mosa kalowar dhari Messer , ta' enggi ?
+58003017	pasera		Ban pasera se edukane Allah pa' polo taon abidda ? Reng-oreng se dusa , se gaggar mate e sagara beddhi , ta' enggi ?
+58003018	pasera		E bakto Allah asompa sapaneka , " Reng-oreng reya ta' kera maso' ka nagara rowa , kaangguy aistirahat abareng ban Sengko' " -- pasera ganeka se ekamaksod sareng Allah ? Se ekamaksod enggi paneka reng-oreng se aberonta' ka Allah , ta' enggi ?
+58006004	~		Sabab , reng-oreng se ampon mortad ta' kera epateppa' pole . Reng-oreng ganeka gi' dhimen ampon badha e dhalem terrangnga Allah , ban ampon ane'madi paparengnga . Reng-oreng ganeka jugan ampon noro' ekobasae Errohna Allah .
+58007011	~		E dhalem pimpinanna mam-imam Lewi , hokomma agama Yahudi eparengngagi ka ommat Isra'il . Sarrena mam-imam Lewi gi' dhimen ta' bisa samporna alampa'agi lalakonna , daddi kodu badha imam laen , enggi paneka se akadi Imam Melkisedek , ban banne dhari golonganna Imam Harun pole !
+58009014	ponapa		ponapa pole dharana Almasih ! Kalaban parantara'anna Erroh se langgeng , Almasih ngatorragi Salerana dibi' ka Allah menangka kurban se samporna . Dharana maberse atena sampeyan sareng kaula sadaja dhari opacarana agama se tadha' gunana , sopaja sampeyan sareng kaula sadaja bisa aladine Allah se odhi' .
+58010001	~		Hokomma agama Yahudi pera' aberri' gambaran se mar-samar parkara sadaja se bagus se bakal dhatengnga , ban banne gambaran se saongguna parkara gapaneka sadaja . Hokom ganeka ta' kera bisa masamporna oreng se entar nyemba ka Allah kalaban abakta tor-ator , sanare sabban taon terros eatorragi ban-kurban se padha .
+58010029a	saponapa		Saponapa lebbi berra' pole okoman se kodu eteba'agi ka oreng se nyek-ngenyek Pottrana Allah . 
+58010029b	~		Oreng ganeka nganggep ta' aji dharana parjanjiyanna Allah , 
+58010029c	~		enggi paneka sedana Almasih se maberse aba'na dhari dusa . 
+58010029d	~		Oreng ganeka ya-nyeya Erroh se apareng rahmat .
+58011032	~		Daddi kaula bisa saos terros acaca , nangeng bakto kaula ta' cokop . Sabab kaula gi' ta' but-nyebbut parkara Gideyon , Barak , Simson , Yefta , Daud , Samuwel sareng bi-nabbi .
+58012007	ponapa		Sampeyan kodu narema peccodda Allah menangka pangajaran dhari eppa'na . Sabab ponapa badha ana' se ta' oneng eokom sareng eppa'na ?
+58012009	ponapa		Sampeyan sareng kaula sadaja gadhuwan eppa' e dunnya . Eppa' ganeka ngajar sampeyan sareng kaula , dineng sampeyan sareng kaula padha ngormat ka eppa' ganeka . Daddi , ponapa pole ka Rama rohanina sampeyan sareng kaula se e sowarga , tantona kodu lebbi ngestowagi Salerana sopaja sampeyan sareng kaula odhi' .
+58012025	ponapa		Daddi , sampeyan kodu te-ngate , ja' sampe' ta' kasokan meyarsa'agi Salerana se abu-dhabu ganeka . Reng-oreng se ta' poron merengngagi Salerana se rabu ka bume ban manapa' berta dhari Allah , ta' bisa buru . Ponapa pole sampeyan sareng kaula paneka se meyarsa'agi Salerana se abu-dhabu dhari sowarga ! Mon sampeyan sareng kaula ta' poron merengngagi Salerana , sampeyan sareng kaula sadaja ta' kera bisa lopot !
+58013006	~		Daddi sampeyan ban kaula bangal ngoca'a , " Pangeran tang Panolong , sengko' ta' tako' . Manossa ta' kera bisa apa-rapa ka sengko' . "
+59002006	~		Tape sampeyan ya-nyeya oreng mesken ! Mangkana reng-oreng sogi se kejjem ka sampeyan sarta ngeret sampeyan ka pangadilan !
+59002014	Ponapa		Tan-taretan ! Ponapa gunana oreng ngoca' " Sengko' reya oreng se parcaja " , manabi imanna ganeka ta' eduduwagi e dhalem lalakonna ? Ponapa iman se kadi gapaneka bisa masalamet aba'na ?
+59002016a	~		Ponapa gunana sampeyan adhabu ka oreng ganeka , " Eatore agem rasogan se anga' ban eatore manabi adha'ara ! " -- 
+59002016b	~		manabi sampeyan ta' kasokan apareng ka oreng ganeka pa-ponapa se ekabuto e dhalem odhi'na ?
+59002018	Kadi ponapa		Olle daddi badha oreng se ngoca' , " Badha oreng se asandhar ka iman ban badha oreng se asandhar ka lalakonna . " Kaula nyaoda sapaneka , " Duduwagi ka kaula kadi ponapa oreng bisa gadhuwan iman tape ta' etoro'e lalakon . Kaula noduwagiya ka sampeyan kalaban lalakon ja' kaula gadhuwan iman . "
+59002021	~		Oladi saos Ibrahim bangatowana sampeyan sareng kaula sadaja . Salerana etarema kalaban sae sareng Allah lantaran lalakonna , enggi paneka e bakto ngatorragi Ishak , pottrana , ka Allah , e attassa mezba .
+59003013	~		Mon e antarana sampeyan badha se bicaksana sareng tenggi buddina , duduwagi ganeka sareng odhi' se sae kalaban ngalakone sabarang se sae , se etoro'e kaandhapasoran sareng kabicaksana'an .
+59003017	~		Nangeng oreng se gadhuwan kabicaksana'an se asalla dhari attas , oreng ganeka nomer settong morne ; nomer dhuwa'na ta' lebur atokaran , laba ban toro' oca' . Possa' ban bellas ase sarta ngasellagi kon-lalakon se sae . Ta' ro'-noro' ban ta' tha'-kantha'an .
+59004001a	Dhari ka'imma		Dhari ka'imma asalla keket sareng tokar e antarana sampeyan ? Asalla gu ta' dhari pangaterro-pangaterro se terros saos aperrang e dhalem aba' paneka kaangguy nyare kasennengngan e dunnya ?
+59004001b	~		
+59004012	pasera		Mangkana pera' settong se kaagungan ha' apareng hokom ka manossa ban ngadili manossa . Enggi paneka Allah se kobasa masalamet sareng matompes . Daddi , pasera sampeyan paneka me' nyala'agiya sasama manossa ?
+59004014	Ponapa		Ponapa se bakal kadaddiyana ka odhi'na sampeyan lagguna , sampeyan dibi' ta' oneng ! Sampeyan paneka pera' padha sareng okos se sakejja' etangale ban sakejja' aggi' elang .
+60002020	ponapa		Sabab mon sampeyan sabbar nanggung okoman se pajat sapantessa etanggung lantaran kasala'anna sampeyan dibi' , ponapa kaistimewa'anna ganeka ? Nangeng mon sampeyan sabbar nanggung kasangsara'an se etarema sampeyan lantaran alako bagus , tanto Allah aberkadi sampeyan .
+60003013	Pasera		Pasera se alakowa jahat ka sampeyan mon sampeyan lebur alako becce' ?
+60004017	kadi ponapa		Ampon napa' baktona Allah molae ngadilana dunnya , ban ommadda Allah dibi' se bakal eadilana kaadha' . Manabi pangadilanna Allah ganeka emolae dhari sampeyan sareng kaula sadaja , kadi ponapa daddina dhaggi' reng-oreng se ta' parcaja ka Kabar Bagus dhari Allah ganeka ?
+60004018	baramma'a		E dhalem Alketab esebbuttagi sapaneka , " Mon reng-oreng se becce' bai malarat se epasalamedda , baramma'a pole reng-oreng dusa se ta' parcaja ka Allah ? "
+61003004	Kemma		sambi ngoca' sapaneka , " Ca'na Pangeran ajanji rabuwa ? Kemma me' tadha' ? Lalake'an bangatowana sampeyan ban kaula ampon padha adinggal dunnya , tape sabarang gi' paggun padha akantha e bakto alam dunnya gi' buru ecepta'agi ! "
+61003011	Kadi ponapa		Sarrena ganeka sadaja epamosna'a kalaban cara se sapaneka , daddi kadi ponapa koduna odhi'na sampeyan ? Sampeyan kodu odhi' socce ban malolo abakte ka Allah ,
+62002022	~		Se lecek oreng se ngoca' ja' Isa paneka banne Rato Panyalamet se ejanjiyagi Allah . Oreng ganeka mosona Almasih ; oreng ganeka ta' ngakone Rama ban Pottra .
+62003012	Aponapa		Sampeyan ban kaula sadaja ja' kantos padha sareng Kain , se daddi ana'na Iblis ban mate'e taretanna dibi' . Aponapa Kain me' mate'e taretanna ? Polana pa-ponapa se elakone aba'na sala , nangeng pa-ponapa se elakone taretanna bendher .
+62003017	Kadi ponapa		Mon oreng se odhi'na cokop nengale taretanna kakorangan nangeng ta' poron nolong taretanna ganeka , kadi ponapa oreng ganeka se bisa'a ngoca' taresna ka Allah ?
+62004020	~		Mon oreng ngoca' , " Sengko' taresna ka Allah , " tape ta' taresna ka taretanna , oreng ganeka lecegan . Sabab oreng se ta' taresna ka taretanna se etangale , ta' kera taresna ka Allah se ta' etangale .
+62005005	Pasera		Pasera se bisa makala dunnya ? Pera' oreng se parcaja ja' Isa paneka Pottrana Allah .
+66005002	Sapa		Kaula laju nengale malaekat se parjuga aera' , sowarana raja , " Sapa se patot mokka' segel reya ban mokka' ketabba ? "
+66006010a	kantos bilaepon		Reng-oreng ganeka aera' epakaja , " Pangeran Se Mahakobasa , se socce sareng se lerres ! Kantos bilaepon Junandalem buru ngadilana pandhudhu' bume 
+66006010b	~		ban ngokoma reng-oreng se mate'e abdidalem sadaja ka'dhinto' ? "
+66006017	~		Are se nako'e la napa' ; sateya se alenggi e tahta jareya ban Cacempena Allah jareya duka , ban tadha' oreng settonga se kellar nanggung dadukan jareya ! "
+66007013a	sapa		Sala settong e antarana para pamimpin gella' atanya ka kaula , " Reng-oreng se ajuba pote jareya sapa , 
+66007013b	dhari dhimma		ban dhari dhimma ? "
+66013004a	~		Ban reng-oreng bume ganeka mojja naga gella' polana se aberri' kakobasa'an ka keban ganeka . Ban reng-oreng ganeka mojja keban ganeka jugan . Sadaja padha ngoca' , " Tadha' se padha bi' keban reya ! 
+66013004b	~		Tadha' se bisa aperrang bi' keban reya ! "
+66015004a	pasera		Pasera se ta' tako' ka Junandalem , Guste ? 
+66015004b	pasera		Pasera se ta' poron ngabarragi kaagungannepon Junandalem ? Namong Junandalem se socce . Sadajana bangsa bakal dhatengnga nyemba ka Junandalem polana sadajana kaadilan se elampa'agi Junandalem ampon etengale sadajana oreng . "
+66017007	Arapa		Malaekat gella' pas adhabu ka kaula , " Arapa ba'na me' heran ? Mara ba'na ebala'ana roseyana babine' jareya ban roseyana keban se etompa' rowa , iya areya keban se acethak petto' ban atandhu' sapolo rowa .
+66018018	~		Kabbi padha acerreng e bakto nengale okos bul-ngebbul dhari apoy se makatonon kottha ganeka . Reng-oreng ganeka aera' , " Ta' tao badha kottha laen akantha kottha se raja reya ! "

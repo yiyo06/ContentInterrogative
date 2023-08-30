@@ -1,0 +1,743 @@
+40002002	Cá		ag fiafraí : “ Cá bhfuil an leanbh seo atá saolaithe , Rí na nGiúdach ? Mar chonaiceamar a réalta ag éirí , agus thángamar ag déanamh ómóis dó . ”
+40002004	cén áit		Thionóil sé le chéile uachtaráin na sagart agus scríobhaithe an phobail , agus d'fhiafraigh díobh cén áit a raibh an Críost le saolú .
+40003007	cé		Nuair a chonaic sé mórán de na Fairisínigh agus de na Sadúcaigh ag teacht chun baisteadh chuige , dúirt sé leo : “ A sceith na bpéisteanna , cé thug leid daoibhse teitheadh ón díbheirg atá le teacht ?
+40005013	cad		“ Is sibhse salann na talún . Ach má éiríonn an salann leamh , cad a dhéanfaidh goirt arís é ? Níl tairbhe ann feasta chun rud ar bith , ach é a chaitheamh amach mar a ngabhfar de chosa ann .
+40005046	cad		Óir , má thugann sibh grá dóibh seo a thugann grá daoibh , cad é an tuarastal atá ag dul daoibh ? Nach ndéanann na poibleacánaigh féin an rud céanna ?
+40005047	~		Agus mura mbeannaíonn sibh ach do bhur mbráithre amháin , an ndéanann sibh aon ní thar na bearta ? Nach ndéanann na págánaigh féin an rud céanna ?
+40006027	Cé agaibh		Cé agaibh a d'fhéadfadh , le bheith ag déanamh imní , aon bhanlámh amháin a chur le fad a shaoil ?
+40006028	cé an fáth		Agus cé an fáth a bhfuil sibh imníoch i dtaobh an éadaigh ? Tugaigí faoi deara lilí an bháin , mar a fhásann siad ; ní dhéanann siad saothar ná sníomh .
+40006031a	Cá		Dá bhrí sin , ná bígí go himníoch ag fiafraí : ‘ Cá bhfaighimid bia , 
+40006031b	~		nó deoch , 
+40006031c	~		nó éadach ? ’
+40007003	Cén fáth		“ Cén fáth a bhfeiceann tú an cáithnín i súil do bhráthar agus nach n‑airíonn tú an tsail i do shúil féin ?
+40007004	cad		Nó cad a bheir duit a rá le do bhráthair : ‘ Fan go mbainfidh mé an cáithnín as do shúil duit ’ ; agus sin í an tsail i do shúil féin !
+40007009	cén duine agaibh		Nó cén duine agaibh a n‑iarrfaidh a mhac arán air , agus ar cloch a shínfidh sé chuige ?
+40007016a	~		Ar a dtorthaí a aithneoidh sibh iad . An mbaintear fíonchaora de dheilgneach , 
+40007016b	~		nó fígí d'fheochadáin ?
+40008026	Cén fáth		Dúirt sé leo : “ Cén fáth a bhfuil eagla oraibh , a lucht an bheagán creidimh ? ” D'éirigh sé ina sheasamh ansin agus bhagair sé ar na gaotha agus ar an bhfarraige , agus bhí sé ina théigle mhór .
+40008027	Cén sórt		Bhí ionadh ar na fir agus deiridís : “ Cén sórt duine é seo a rá go ndéanann na gaotha féin agus an fharraige rud air ? ”
+40008029	Cad		Scread siad amach : “ Cad ab áil leat dínn , a Mhic Dé ? An é a thug anseo thú chun sinn a chrá roimh an uain ? ”
+40009004	Cén fáth		Ach bhí a fhios ag Íosa cad a bhí ina gcroí agus dúirt : “ Cén fáth a bhfuil na smaointe mallaithe seo in bhur gcroí ?
+40009005	cé acu		Cé acu is fusa a rá , más ea : ‘ Tá do pheacaí maite ’ ; nó a rá : ‘ Éirigh agus siúil ’ ?
+40009011	Cén fáth		Nuair a chonaic na Fairisínigh é sin , dúirt siad lena dheisceabail : “ Cén fáth a mbíonn bhur máistir ag ithe leis na poibleacánaigh agus na peacaigh ? ”
+40009014	Cén fáth		Tháinig deisceabail Eoin chuige ansin agus dúirt siad : “ Cén fáth a mbíonn a lán troscaidh ar siúl againne agus ag na Fairisínigh , ach nach ndéanann do dheisceabailse troscadh ? ”
+40009015	~		Dúirt Íosa leo : “ An féidir go mbeadh ógánaigh na bainise ag déanamh bróin fad a bhíonn an fear nuaphósta leo ? Ach tiocfaidh na laethanta nuair a bheidh an fear nuaphósta tógtha uathu agus déanfaidh siad troscadh ansin .
+40010025	~		Ba leor don deisceabal bheith ar aon dul lena mháistir , agus don sclábha bheith ar aon dul lena úinéir . Má thug siad Béalzabúl ar fhear an tí , nach móide dóibh é thabhairt ar lucht a theaghlaigh ?
+40011007	Cad		Le linn dóibh seo bheith ag imeacht , thosaigh Íosa ag caint leis na sluaite faoi Eoin : “ Cad a chuaigh sibh amach faoin bhfásach a fheiceáil ? Giolcach á suaitheadh ag an ngaoth ?
+40011008	cad		Ach cad a chuaigh sibh amach a fheiceáil ? Duine a bhí cóirithe go mín ? Iad seo a mbíonn éadaí míne orthu , is i dtithe na ríthe atá siad .
+40011009	cad		Ach cad a thug amach sibh ? Chun fáidh a fheiceáil ? Sea , deirim libh , agus duine ba mhó ná fáidh .
+40011016	cad		“ Ach cad leis a gcuirfidh mé an ghlúin seo i gcomparáid ? Tá sí cosúil leis na leanaí a bhíonn ina suí sna háiteanna margaidh agus iad ag glaoch chun a gcomrádaithe
+40012011	cén duine agaibh		Ach dúirt sé leo : “ Cén duine agaibh a mbeadh an t‑aon chaora amháin aige agus go dtitfeadh sí i bpoll lá sabóide , nach mbéarfadh sé greim uirthi á tarraingt as ?
+40012026	conas		Agus más é Sátan a chaitheann Sátan amach , tá sé ar deighilt ina aghaidh féin , agus dá réir sin conas a sheasfaidh a ríocht ?
+40012027	cé		Agus más trí Bhéalzabúl a chaithimse na deamhain amach , cé tríd a gcaitheann bhur gclann féin amach iad ? Uime sin , is iad sin a thabharfaidh breith oraibh .
+40012029	conas		Nó fós , conas a d'fhéadfadh duine ar bith dul isteach i dteach an fhir láidir agus a urra tí a shlad gan an fear láidir a chur i ngéibheann ar dtús ? Ansin creachfaidh sé a theach .
+40012034	conas		A sceith na bpéisteanna , conas a d'fhéadfadh sibh an mhaith a labhairt agus sibh féin olc , agus gur as lán an chroí a labhraíonn an béal ?
+40012048a	cé		Agus dúirt leis an té a d'inis dó é : “ Cé hí mo mháthair agus 
+40012048b	cé		cé hiad mo bhráithre ? ”
+40013010	Cén fáth		Tháinig na deisceabail chuige á rá : “ Cén fáth ar i bparabail atá tú ag caint leo ? ”
+40013027	cad		Tháinig a chuid sclábhaí go dtí an fear tí agus dúirt siad leis : ‘ A mháistir , an síol a chuir tú i do ghort , nach síol maith a bhí ann ? Agus cad a thug an cogal ann más ea ? ’
+40013054a	Cá		agus ar theacht ina dhúiche féin dó , bhíodh sé ag teagasc na ndaoine ina sionagóg , ionas gur ghabh iontas iad : “ Cá bhfuair sé seo , ” deiridís , 
+40013054b	~		“ an eagna seo agus na míorúiltí ?
+40013056	Cá		A shiúracha freisin , nach bhfuil siad uile inár measc ? Cá bhfuair sé na nithe seo uile , mar sin ? ”
+40014031	cén fáth		Shín Íosa amach a lámh láithreach , agus ag breith greama air dúirt : “ A fhir an bheagán creidimh , cén fáth ar tháinig amhras ort ? ”
+40015002	Cén fáth		“ Cén fáth a sáraíonn do dheisceabail traidisiún na sinsear ? Ní dhéanann siad a lámha a ní nuair a bhíonn siad ag caitheamh a gcoda . ”
+40015003	Cén fáth		“ Agus cén fáth , ” ar seisean leo á bhfreagairt , “ a sáraíonn sibh féin aithne Dé ar son an traidisiúin seo agaibh ?
+40015033	Cá		Ach dúirt na deisceabail leis : “ Cá bhfaighimis a ndóthain aráin don slua seo , agus sinn san fhásach ? ”
+40015034	Cé mhéad		Dúirt Íosa leo : “ Cé mhéad builín atá agaibh ? ” “ Tá a seacht , ” ar siadsan , “ agus tá beagán mioniasc . ”
+40016008	Cén fáth		Ach bhí a fhios ag Íosa agus dúirt : “ Cén fáth a bhfuil an machnamh seo in bhur gcroí , a lucht an bheagán creidimh , mar nár thug sibh an t‑arán libh ?
+40016009	cé mhéad		Nach dtuigeann sibh fós , nó nach cuimhin libh na cúig builíní don chuig mhíle , agus cé mhéad ciseán a thóg sibh suas ?
+40016010a	~		Nó na seacht mbuilíní don cheithre mhíle 
+40016010b	cé mhéad		agus cé mhéad cléibhín a thóg sibh suas ?
+40016011	Cén fáth		Cén fáth nach dtuigeann sibh nach ag caint ar arán a bhí mé libh ? Ach seachnaígí sibh féin ar ghabháil na bhFairisíneach agus na Sadúcach . ”
+40016013	Cé		Ar theacht isteach i gceantar Chéasaráia Philib dó , d'fhiafraigh Íosa dá chuid deisceabal : “ Cé hé a deir na daoine Mac an Duine ? ”
+40016015a	~		Dúirt sé leo : 
+40016015b	cé		“ Ach cé a deir sibhse mé ? ”
+40016026a	cá		Óir cá fearrde duine go ngnóthódh sé an domhan go léir dá ligfeadh sé a anam féin ar ceal ? 
+40016026b	cad		Nó cad a d'fhéadfadh duine a thabhairt mar mhalairt ar a anam ?
+40017010	Cad		Ach chuir a dheisceabail ceist air : “ Cad é seo a deir na scríobhaithe , más ea , go gcaithfidh Éilias teacht ar dtús ? ”
+40017017a	Cá fhad		D'fhreagair Íosa agus dúirt : “ Ó a ghlúin dhíchreidmheach chlaon , cá fhad a bheidh mé faraibh ? 
+40017017b	Cá fhad		Cá fhad a bheidh mé ag cur suas libh ? Tugaigí chugam anseo é . ”
+40017019	Cén fáth		Ina dhiaidh sin tháinig na deisceabail ag caint le hÍosa os íseal : “ Cén fáth nárbh fhéidir dúinne é chaitheamh amach ? ”
+40017025a	~		“ Íocann , ” ar seisean . Ach ar dhul isteach sa teach dó , bhain Íosa tosach an scéil de á rá leis : “ Do bharúilse , a Shiomóin : 
+40017025b	cé		cé uathu a dtobhann prionsaí an tsaoil seo cíos nó cáin - an óna gclann féin nó ó choimhthígh ? ”
+40018001	Cé		Tháinig na deisceabail san am sin ag triall ar Íosa chun a rá : “ Cé hé mar sin an té is mó i ríocht na bhflaitheas ? ”
+40018012	Cad		“ Cad is dóigh libh ? Má bhíonn céad caora ag duine agus aon chaora amháin díobh a dhul amú , nach bhfágfaidh sé an naoi nóchad ar na sléibhte agus dul ag lorg an tseachránaí ?
+40018021	cé mhéad uair		Tháinig Peadar chuige ansin agus dúirt leis : “ A Thiarna , cé mhéad uair ba cheart dom pardún a thabhairt do mo bhráthair nuair a chiontaíonn i m'aghaidh ? Go dtí seacht n‑uaire ? ”
+40019007	Cén fáth		Dúirt siad leis : “ Cén fáth , más ea , ar ordaigh Maois litir idirscartha a thabhairt le linn í a scaoileadh ? ”
+40019016	cad		Tháinig an duine áirithe seo chuige agus dúirt leis : “ A Mháistir , cad é an mhaith atá le déanamh agam chun go mbeadh an bheatha shíoraí agam ? ”
+40019017	Cén fáth		Dúirt sé leis : “ Cén fáth a bhfiafraíonn tú díomsa faoin maith ? Aon neach amháin is maith . Ach más áil leat dul isteach sa bheatha , coinnigh na haitheanta . ”
+40019018	cad		“ Cad iad féin ? ” ar seisean leis . Dúirt Íosa : “ Ná déan marú . Ná déan adhaltranas . Ná déan goid . Ná tabhair fianaise bhréige .
+40019020	cad		Dúirt an fear óg leis : “ Choimeád mé iad sin uile : cad é an t‑easnamh atá fós orm ? ”
+40019025	Cé		Ar a chloisteáil sin do na deisceabail , ghabh iontas mór iad agus dúirt siad : “ Cé is féidir a shlánú más ea ? ”
+40019027	cad		Labhair Peadar ansin agus dúirt sé leis : “ Sinne , féach , d'fhágamar an uile ní agus leanamar thusa : cad a bheidh againn , más ea ? ”
+40020006	Cad		Ach nuair a chuaigh sé amach timpeall an aonú huair déag , fuair sé tuilleadh acu ann agus dúirt leo : ‘ Cad a d'fhág anseo ar feadh an lae sibh agus sibh díomhaoin ? ’
+40020012	~		‘ An dream déanach seo , ’ deiridís , ‘ níor thug siad ach an t‑aon uair amháin , agus chuir tú ar aon dul iad féin agus sinne a d'fhulaing ualach an lae agus an brothall . ’
+40020021	Cad		Dúirt sé léi : “ Cad ab áil leat ? ” “ Tá , ” ar sise leis , “ an bheirt mhac seo agamsa , go n‑ordófá iad a bheith ina suí , duine acu ar do dheis agus an duine eile ar do chlé , i do ríocht . ”
+40020032	Cad		Stad Íosa dá shiúl , ghair sé iad agus dúirt : “ Cad ab áil libh mé a dhéanamh daoibh ? ”
+40021010	Cé		Nuair a chuaigh sé isteach in Iarúsailéim , bhí an chathair go léir ar bís : “ Cé hé seo ? ” deirtí .
+40021016	cad		Dúirt siad leis : “ An gcluineann tú cad tá á rá acu seo ? ” “ Cinnte ! ” arsa Íosa leo , “ nár léigh sibh riamh é seo : ‘ As béal naíonán agus leanaí deoil bhain tú moladh amach duit féin ’ ? ”
+40021020	Cén chaoi		Chonaic na deisceabail é agus rinne siad ionadh de : “ Cén chaoi , ” ar siad , “ ar shearg an crann fígí láithreach ? ”
+40021023a	cén		Bhí sé tar éis teacht isteach sa Teampall agus bhí sé ag teagasc nuair a tháinig uachtaráin na sagart agus seanóirí an phobail chuige agus dúirt siad : “ Cén t‑údarás atá agat leis na nithe seo a dhéanamh , 
+40021023b	cé		agus cé thug an t‑údarás sin duit ? ”
+40021025a	cárbh		Baisteadh Eoin , cárbh as dó ? Ó neamh nó ó dhaoine ? ” Ach bhí siad ag machnamh mar seo ina gcroí : “ Má deirimid : ‘ Ó neamh , ’ 
+40021025b	~		déarfaidh sé linn : 
+40021025c	Cén fáth		‘ Cén fáth nár chreid sibh ann , mar sin ? ’
+40021028	~		“ Ach bhur mbarúil air seo : Bhí beirt mhac ag duine . D'agaill sé duine acu ar dtús : ‘ A mhic , ’ ar seisean , ‘ téighse inniu ag obair san fhíonghort . ’
+40021031	Cé acu		Cé acu den bheirt a rinne toil a athar ? ” “ An dara duine , ” ar siad . Dúirt Íosa leo : “ Deirim libh go fírinneach , tá tosach ag na poibleacánaigh agus ag na striapacha oraibhse isteach i ríocht Dé .
+40021040	cad		Dá bhrí sin , nuair a thiocfaidh máistir an fhíonghoirt , cad a dhéanfaidh sé leis na curadóirí úd ? ”
+40022012	Cad		Dúirt sé leis : ‘ Cad a thug isteach anseo thú , a chara , gan éadach bainise ort ? ’ Ach ní raibh focal as .
+40022017	~		Abair linn do bharúil , mar sin : An dleathach cáin a íoc le Céasar nó an mídhleathach ? ”
+40022018	Cad		Ach bhí a fhios ag Íosa an mhallaitheacht a bhí iontu agus dúirt : “ Cad ab áil libh ag baint trialach asam , a bhréagchráifeacha ? Taispeánaigí bonn na cánach dom , ”
+40022020a	cé		Dúirt sé leo : “ Cé hé arb í seo a íomhá 
+40022020b	~		agus a inscríbhinn ? ”
+40022028	cé acu		San aiséirí , más ea , cé acu den seachtar a mbeidh sí ina bean chéile aige ? Óir bhí sí acu uile . ”
+40022036	cén		“ A Mháistir , cén aithne mhór sa dhlí ? ”
+40022042a	cad		“ Cad é bhur mbarúil faoin gCríost ? 
+40022042b	cé		Cé dó ar mac é ? ” Dúirt siad leis : “ Do Dháiví . ”
+40022043	cad		Dúirt sé leo : “ Más ea , cad a bheir do Dháiví Tiarna a ghlaoch air nuair a dúirt sé faoi luí an Spioraid :
+40022045	cad		“ Má ghlaonn Dáiví Tiarna air , mar sin , cad a bheir ina mhac dó é ? ”
+40023017	cé acu		A dhaoine atá dall gan tuiscint , cé acu is mó le rá , mar sin , an t‑ór féin nó an sanctóir faoi deara an t‑ór a bheith naofa ?
+40023019	cé acu		A dhaoine dalla , cé acu ís mo le rá , mar sin , an ofráil , nó an altóir faoi deara an ofráil a bheith naofa ?
+40023033	conas		“ A nathracha nimhe , a sceith na bpéisteanna , conas a fhéadfaidh sibh teitheadh ó dhaorbhreith ifrinn ?
+40024003a	cén uair		Agus ina shuí dó ar Chnoc na nOlóg , tháinig na deisceabail chuige ar leithligh agus dúirt siad : “ Inis dúinn cén uair a thitfidh an méid sin amach 
+40024003b	cén		agus cén comhartha a bheidh ann ar do théarnamhsa agus ar dheireadh an tsaoil . ”
+40024045	Cé		Cé hé , más ea , an seirbhíseach iontaofa ciallmhar ar cheap a mháistir os cionn sclábhaí a theaghlaigh é chun a gcuid bia a thabhairt dóibh i dtráth ?
+40025037	cén uair		Freagróidh na fíréin é ansin : ‘ A Thiarna , cén uair a chonaiceamar thú agus ocras ort go dtabharfaimis bia duit , nó tart ort go dtabharfaimis deoch duit ?
+40025038	Cén uair		Cén uair a chonaiceamar i do strainséir thú go dtabharfaimis aíocht duit , nó nocht go gcuirfimis éadach ort ?
+40025039	cén uair		Nó cén uair a chonaiceamar tinn thú , nó i bpríosún , go dtabharfaimis cuairt ort ? ’
+40025044	cén uair		Agus freagróidh siad sin é ansin : ‘ A Thiarna , cén uair a bhí tú le feiceáil againn agus ocras nó tart ort , nó i do strainséir , nó nocht nó tinn nó i bpríosún agus nach ndearnamar freastal ort ? ’
+40026008	Cén fáth		Agus nuair a chonaic na deisceabail é bhí míchéadfa acu : “ Cén fáth an diomailt seo ? ” ar siad ;
+40026010	Cén fáth		Ach bhí a fhios ag Íosa agus dúirt sé leo : “ Cén fáth a bhfuil sibh ag déanamh cros don bhean ? Óir is dea-obair í sín atá déanta aici orm ;
+40026015	Cad		agus dúirt : “ Cad ab áil libh a thabhairt dom agus tabharfaidh mé ar láimh daoibh é ? ” Chomhair siad amach chuige tríocha píosa d'airgead geal .
+40026017	Cárbh		Ar an gcéad lá d'fhéile an tslimaráin , tháinig na deisceabail chun Íosa ag rá : “ Cárbh áil leat go n‑ullmhóimis an Cháisc duit le hithe ? ”
+40026040	~		Tháinig sé chun na ndeisceabal agus fuair ina gcodladh iad , agus dúirt le Peadar : “ An ea nár fhéad sibh , mar sin , faire aon uaire a dhéanamh liom ?
+40026050	~		Dúirt Íosa leis : “ A chara , déan an beart a thug anseo thú . Tháinig siad ar aghaidh ansin , leag siad a lámha ar Íosa agus ghabh siad é .
+40026054	Conas		Conas a chomhlíonfaí na scrioptúir , más ea , a deir gur mar seo nach foláir a bheith ? ”
+40026062a	~		D'éirigh an t‑ardsagart ina sheasamh agus dúirt leis : “ Nach bhfuil freagra ar bith agat ? 
+40026062b	cad		Cad tá acu seo á dhearbhú ort ? ”
+40026065	cad		Leis sin , stróic an t‑ardsagart a chuid éadaigh : “ Tá diamhasla déanta aige ! ” ar seisean ; “ cad is gá dúinn a thuilleadh finnéithe ? Sin anois an diamhasla cloiste agaibh .
+40026066	Cad		Cad é bhur mbarúil ? ” Agus ba é an freagra a thug siad : “ Tá an bás tuillte aige . ”
+40026068	Cé		ag rá : “ Tairngir dúinn , a Chríost ! Cé hé sin a bhuail thú ? ”
+40027004	Cad		ag rá : “ Ba pheaca dom fuil neamhchiontach a bhrath . ” Ach dúirt siad sin : “ Cad é sin dúinne ? Féach féin chuige . ”
+40027013	~		Dúirt Pioláit leis ansin : “ Nach gcluineann tú a bhfuil d'fhianaise acu á thabhairt i d'aghaidh ? ”
+40027017	cé acu		Mar sin , nuair a bhí siad cruinnithe le chéile dúirt Pioláit leo : “ Cé acu ba rogha libh mé a scaoileadh chugaibh , Barabas , nó Íosa ar a dtugtar an Críost ? ” -
+40027021	Cé acu		Labhair an gobharnóir leo : “ Cé acu den bheirt is rogha libh mé a scaoileadh chugaibh ? ” “ Barabas ! ” ar siad .
+40027022	cad		Dúirt Pioláit leo : “ Más ea , cad a dhéanfaidh mé le hÍosa ar a dtugtar an Críost ? ” Dúirt siad : “ Céastar é ! ”
+40027023a	~		Dúirt seisean : 
+40027023b	cén		“ Ach cén t‑olc a rinne sé ? ” Ach is ea ba mhó a bhí siad ag screadadh : “ Céastar é ! ”
+40027046	cén fáth		Agus timpeall an naoú huair , d'éigh Íosa de ghlór ard : “ Élí , Élí , lamá sabachtání ? ” is é sin le rá : “ A Dhia , a Dhia , cén fáth ar thréig tú mé ? ”
+41001024	cad		“ Há , cad ab áil leat dínn , a Íosa Nazairéanaigh ? Chun ár millte a tháinig tú . Is eol dom cé hé thú : Naomh Dé . ”
+41001027	Cad		Agus bhí alltacht chomh mór sin ar chách go raibh siad ag fiafraí dá chéile : “ Cad é an rud é seo ? ” deiridís : “ teagasc nua á dhéanamh le húdarás ; na spioraid mhíghlana féin , fógraíonn sé orthu agus déanann siad rud air . ”
+41002007a	cad		“ Cad a bheir dó seo labhairt mar sin ? Is diamhasla dó é . 
+41002007b	Cé		Cé fhéadann peacaí a mhaitheamh ach amháin Dia ? ”
+41002008	Cad		Ach thuig Íosa láithreach ina spiorad go raibh an smaoineamh sin ina n‑aigne agus dúirt sé leo : “ Cad a bheir na smaointe sin in bhur gcroí ?
+41002009	cé acu		Cé acu is fusa , a rá leis an bpairiliseach : ‘ Tá do pheacaí maite , ’ nó a rá : ‘ Éirigh , tóg do shráideog , agus siúil ’ ?
+41002016	Cén fáth		Nuair a chonaic scríobhaithe na bhFairisíneach go raibh sé ag ithe leis na peacaigh agus na poibleacánaigh , dúirt siad lena dheisceabail : “ Cén fáth a mbíonn sé ag ithe agus ag ól le poibleacánaigh agus le peacaigh ? ”
+41002018	Cén fáth		Bhí troscadh á dhéanamh ag deisceabail Eoin agus ag na Fairisínigh , agus tháinig daoine á rá leis : “ Cén fáth a ndéanann deisceabail Eoin agus deisceabail na bhFairisíneach troscadh , agus nach ndéanann do dheisceabailse troscadh ? ”
+41002019	~		Dúirt Íosa leo : “ An féidir le hógánaigh na bainise troscadh a dhéanamh le linn don fhear nuaphósta bheith leo ? Fad a bhíonn an fear nuaphósta leo , ní féidir dóibh troscadh a dhéanamh .
+41002024	cén fáth		Dúirt na Fairisínigh leis : “ Féach , cén fáth a bhfuil siad ag déanamh ruda nach dleathach sa tsabóid ? ”
+41003004	cé acu		Agus dúirt sé leo : “ Cé acu is dleathach a dhéanamh lá sabóide , an mhaith nó an t‑olc , beatha a shaoradh nó a mharú ? ” Ach ní raibh focal astu .
+41003023	Conas		Ghlaoigh sé chuige iad agus labhair sé i bparabail leo : “ Conas a fhéadann Sátan Sátan a chaitheamh amach ?
+41003033a	cé		Dúirt sé leo á bhfreagairt : “ Cé hiad mo mháthair 
+41003033b	~		agus mo bhráithre ? ”
+41004013	Conas		Agus dúirt sé leo : “ An ea nach dtuigeann sibh an parabal seo ? Conas a gheobhaidh sibh fios ar na parabail uile ?
+41004030a	cad		Agus dúirt : “ Cad leis a gcuirfimid ríocht Dé i gcomparáid , 
+41004030b	cén		nó cén parabal a luafaimid léi ?
+41004038	~		Bhí sé féin i ndeireadh an bháid ina chodladh agus a cheann ar an bpillín , agus mhúscail siad é agus dúirt leis : “ A Mháistir , an ea nach cás leat go bhfuil an bás againn ? ”
+41004040a	Cén fáth		“ Cén fáth a bhfuil an eagla seo oraibh ? 
+41004040b	~		An ea nach bhfuil creideamh agaibh ? ”
+41004041	Cé		Bhí uamhan agus eagla orthu agus bhí siad á rá eatarthu féin : “ Cé hé an duine seo , más ea , a rá go ndéanann gaoth agus farraige rud air ? ”
+41005007	Cad		agus ag screadach de ghlór ard dúirt : “ Cad ab áil leat díom , a Íosa , a Mhic Dé ró-aird ? Cuirim ort , as ucht Dé , gan mé a chrá , ”
+41005009	Cad		Agus d'fhiafraigh de : “ Cad is ainm duit ? ” Dúirt sé leis : “ Léigiún is ainm dom , óir tá mórán againn ann . ”
+41005030	Cé		Ach d'airigh Íosa ann féin go ndeachaigh brí amach uaidh , chas sé timpeall láithreach sa slua agus dúirt : “ Cé bhain le mo chuid eádaigh ? ”
+41005031	Cé		Dúirt a dheisceabail leis : “ Feiceann tú an slua ag plódú ort , agus deir tú ‘ Cé bhain liom ? ’ ”
+41005035	cén fáth		Le linn dó bheith ag caint tháinig daoine ó theach cheann urra na sionagóige ag rá : “ Tá d'iníon tar éis bháis ; cén fáth a mbeifeá ag cur as don Mháistir níos mó ? ”
+41005039a	Cén fáth		Agus ar dhul isteach dó dúirt sé leo : “ Cén fáth a bhfuil sibh ag déanamh calláin 
+41005039b	~		agus ag gol ? Ní marbh atá an leanbh ach ina codladh . ”
+41006002a	Cá		Agus ar an tsabóid thosaigh sé ag teagasc sa tsionagóg , agus ghabh iontas mórán dár chuala é ; agus deiridís : “ Cá bhfuair sé seo an méid sin ? 
+41006002b	cén		Agus cén eagna í seo a tugadh dó 
+41006002c	~		agus na míorúiltí móra seo a dhéantar trína lámha ?
+41006022	~		agus tháinig iníon Héaróidias isteach agus rinne sí rince , agus thaitin sé le Héaród agus leo seo a bhí ag bord leis . Dúirt an rí leis an gcailín : “ Iarr orm cibé ní is mian leat agus tabharfaidh mé duit é . ”
+41006024	Cad		Ghabh sise amach agus dúirt sí lena máthair : “ Cad a iarrfaidh mé ? ” Dúirt sí siúd : “ Ceann Eoin Baiste . ”
+41006037	~		Dúirt sé leo á bhfreagairt : “ Tugaigí sibhse rud le hithe dóibh . ” Dúirt siad leis : “ An ea go rachaimid ag ceannach luach dhá chéad déanar d'arán agus é a thabhairt dóibh le hithe ? ”
+41006038	Cé mhéad		Dúirt sé leo : “ Cé mhéad builín atá agaibh ? Imígí agus faighigí amach . ” Ar fháil amach dóibh dúirt siad : “ Tá cúig cinn , agus dhá iasc . ”
+41007005	Cén fáth		d'fhiafraigh na Fairisínigh agus na scríobhaithe de : “ Cén fáth nach siúlann do dheisceabail de réir thraidisiún na sinsear ach a gcuid bia a chaitheamh le lámha neamhghlana ? ”
+41008004	Cá		D'fhreagair a dheisceabail é : “ Cá bhféadfadh duine a ndóthain aráin a fháil dóibh seo anseo san fhásach ? ”
+41008005	cé mhéad		D'fhiafraigh sé díobh : “ Cé mhéad builín atá agaibh ? ” “ Tá a seacht , ” ar siadsan .
+41008012	Cén fáth		Rinne sé osna dhomhain ina spiorad agus dúirt : “ Cén fáth a bhfuil an ghlúin seo ag lorg comhartha ? Deirim libh go fírinneach , ní thabharfar comhartha don ghlúin seo . ”
+41008017	Cén fáth		Bhí a fhios ag Íosa agus dúirt sé leo : “ Cén fáth a bhfuil sibh ag plé an scéil gan arán a bheith agaibh ? Nach bhfuil tuiscint agaibh fós nó meabhair ? An bhfuil bhur gcroí dúr ?
+41008018a	~		Cé go bhfuil súile agaibh , an ea nach bhfeiceann sibh , 
+41008018b	~		agus cé go bhfuil cluasa agaibh an ea nach gcluineann sibh ? Agus nach cuimhin libh ,
+41008019	cé mhéad		nuair a bhris mé na cúig builíní don chúig mhíle , cé mhéad ciseán lán de bhruscar a thóg sibh suas ? ” Dúirt siad : “ Dhá cheann déag . ”
+41008020	cé mhéad		“ Agus na seacht gcinn don cheithre mhíle , cé mhéad cléibhín lán de bhruscar a thóg sibh ? ” Dúirt siad : “ Seacht gcinn . ”
+41008021	~		Agus dúirt sé leo : “ Nach dtuigeann sibh fós ? ”
+41008023	~		Rug sé ar láimh ar an dall agus sheol as an mbaile é , chaith sé seile ar a shúile agus ar leagan a lámh air d'fhiafraigh de : “ An bhfeiceann tú aon ní ? ”
+41008027	Cé		D'imigh Íosa agus a chuid deisceabal go dtí na bailte i gCéasaráia Philib , agus sa tslí dóibh d'fhiafraigh sé dá dheisceabail : “ Cé hé a deir na daoine mise ? ”
+41008029a	~		D'fhiafraigh sé díobh : 
+41008029b	cé		“ Ach cé hé a deir sibhse mé ? ” Dúirt Peadar leis á fhreagairt : “ Is tú an Críost . ”
+41008036	cá		Óir cá fearrde duine an domhan go léir a ghnóthú agus a anam féin a ligean ar ceal ?
+41008037	cad		Óir cad a d'fhéadfadh duine a thabhairt mar mhalairt ar a anam ?
+41009010	cad		Agus choinnigh siad an scéal chucu féin ach go mbídís ag fiafraí dá chéile cad ba chiall leis an éirí úd ó mhairbh .
+41009011	Cén fáth		Agus chuir siad ceist air : “ Cén fáth a ndeir na scríobhaithe go gcaithfidh Éilias teacht ar dtús ? ”
+41009012	conas		Dúirt sé leo : “ Tagann Éilias ar dtús gan amhras chun an uile ní a chur ina cheart arís . Agus conas atá sé scríofa i dtaobh Mhac an Duine nach foláir dó mórán a fhulaingt agus bheith faoi dhrochmheas ?
+41009016	Cén		D'fhiafraigh sé díobh : “ Cén argóint atá agaibh leo ? ”
+41009019a	Cá fhad		Dúirt sé leo á bhfreagairt : “ Ó a ghlúin dhíchreidmheach , cá fhad a bheidh mé faraibh ? 
+41009019b	Cá fhad		Cá fhad a bheidh mé ag cur suas libh ? Tugaigí chugam é . ”
+41009021	cá fhad		D'fhiafraigh Íosa dá athair : “ Cá fhad atá sé seo air ? ” Dúirt seisean : “ Ó bhí sé ina pháiste ,
+41009028	Cén fáth		Ar dhul isteach sa teach dó , d'fhiafraigh a chuid deisceabal de ar leithligh : “ Cén fáth nárbh fhéidir dúinne é a chaitheamh amach ? ”
+41009033	Cad		Tháinig siad go dtí Cafarnáum , agus sa teach do d'fhiafraigh sé díobh : “ Cad a bhí á chur trí chéile agaibh sa tslí ? ”
+41009050	cad		Is maith an rud salann , ach má éiríonn an salann leamh cad a chuirfidh sibh mar anlann leis ? Bíodh salann agaibh ionaibh agus bíodh síocháin eadraibh . ”
+41010003	Cad		D'fhreagair sé agus dúirt leo : “ Cad a d'ordaigh Maois daoibh ? ”
+41010017	cad		Agus ag cur chun bóthair dó rith duine chuige agus chaith sé é féin ar a ghlúine ina láthair agus d'fhiafraigh sé de : “ A Mháistir mhaith , cad tá le déanamh agam chun go mbeinn páirteach sa bheatha shíoraí ? ”
+41010018	cad chuige		Dúirt Íosa leis : “ Cad chuige a ndeir tú maith liom ? Ní maith aon neach ach Dia amháin .
+41010026	Cé		Ba mhó ná sin an t‑ionadh a bhí orthu agus dúirt siad lena chéile : “ Cé is féidir a shlánú , más ea ? ”
+41010036	Cad		Dúirt seisean leo : “ Cad ab áil libh a dhéanfainn daoibh ? ”
+41010051	Cad		Ansin labhair Íosa leis : “ Cad ab áil leat mé a dhéanamh duit ? ” ar sé . Dúirt seisean leis : “ Rabúní , mo radharc a bheith agam ! ”
+41011003	Cad		Agus má deir aon duine libh : ‘ Cad atá sibh a dhéanamh ? ’ abraigí : ‘ Tá gá ag an Tiarna leis . Ach cuirfidh sé ar ais anseo gan mhoill é . ’ ”
+41011005	Cad		Agus dúirt cuid dá raibh ina seasamh ansiúd leo : “ Cad ab áil libh ag scaoileadh an tsearraigh ? ”
+41011028a	cén		“ Cén t‑údarás atá agat leis na nithe seo a dhéanamh , 
+41011028b	cé		nó cé thug an t‑údarás sin duit chun na nithe seo a dhéanamh ? ”
+41011030	~		baisteadh Eoin , arbh ó neamh nó ó dhaoine é ? Tugaigí freagra orm . ”
+41011031a	~		Ach rinne siad machnamh ar an scéal mar seo ina gcroí : “ Má deirimid ‘ ó neamh ’ , 
+41011031b	Cén fáth		déarfaidh sé : ‘ Cén fáth nár chreid sibh ann ?
+41012009	cad		Anois , cad a dhéanfaidh máistir an fhíonghoirt ? Tiocfaidh sé agus cuirfidh sé na curadóirí chun báis , agus tabharfaidh sé an fíonghort do dhaoine eile .
+41012015	Cad		Ach bhí a fhios ag Íosa an fhimíneacht a bhí iontu agus dúirt sé leo : “ Cad ab áil libh ag baint trialach asam ? Tugaigí chugam déanar go bhfeicfidh mé . ”
+41012016a	cé		Agus shín siad chuige é . Dúirt sé leo : “ Cé hé arb é seo a íomhá 
+41012016b	~		agus a inscríbhinn ? ” “ Céasar , ” ar siad leis .
+41012023	cé acu		San aiséirí , nuair a éireoidh siad arís , cé acu a mbeidh an bhean ina bean chéile aige , óir bhí sí ina bean chéile ag an seachtar ? ”
+41012028	Cén		Duine de na scríobhaithe , a bhí ag éisteacht leo ag aighneas , nuair a thug sé faoi deara a fheabhas a fhreagair Íosa iad , tháinig sé chuige agus chuir sé ceist air : “ Cén chéad aithne de na haitheanta go léir ? ”
+41012035	Conas		Fad is a bhí Íosa ag teagasc sa Teampall d'fhreagair sé agus dúirt : “ Conas is féidir leis na scríobhaithe a rá gur Mac do Dháiví an Críost ?
+41012037	cad		“ Glaonn Dáiví féin Tiarna air , agus cad a bheir ina mhac dó é ? ” D'éist an slua mór leis le háthas .
+41013004a	cén uair		“ Inis dúinn cén uair a thitfidh an méid sin amach , 
+41013004b	cén		agus cén comhartha a bheidh ar na nithe sin eile a bheith ag teacht chun cinn . ”
+41014004	Cén fáth		Bhí daoine ann a raibh mícheádfa acu agus dúirt siad le chéile : “ Cén fáth an diomailt ola seo ?
+41014006	Cén fáth		Ach dúirt Íosa : “ Ligigí di ! Cén fáth a bhfuil sibh ag déanamh cros di ?
+41014012	Cárbh		Ar an gcéad lá d'fhéile an tSlimaráin , nuair ba ghnách leo an cháisc a íobairt , dúirt a dheisceabail leis : “ Cárbh áil leat go rachaimis agus ullmhú duit chun an cháisc a ithe ? ”
+41014014	Cá		Leanaigí é agus cibé áit a dtéann sé isteach , abraigí le fear an tí ‘ Deir an máistir : Cá bhfuil mo sheomra aíochta go n‑ithinn an cháisc in éineacht le mo dheisceabail ? ’
+41014060a	~		Agus d'éirigh an t‑ardsagart i lár baill agus chuir sé ceist chun Íosa , á rá : “ Nach bhfuil aon fhreagra ar bith agat ? 
+41014060b	cad		Cad atá acu seo á dhearbhú ort ? ”
+41014063	Cad		Stróic an t‑ardsagart a róbaí : “ Cad is gá dúinn a thuilleadh d'fhinnéithe ? ” ar sé , “ chuala sibh an diamhasla . Cad é bhur mbarúil ? ”
+41014064	~		Agus thug siad go léir de dhaorbhreith air go raibh an bás tuillte aige .
+41015004	~		D'fhiafraigh Pioláit de arís : “ Nach bhfuil aon fhreagra agat á thabhairt ? Féach a bhfuil acu á gcur i do leith ! ”
+41015012	cad		Agus dúirt Pioláit leo arís á bhfreagairt : “ Más ea , cad a dhéanfaidh mé leis an té ar a dtugann sibh Rí na nGiúdach ? ”
+41015014a	~		Dúirt Pioláit leo : 
+41015014b	cén		“ Ach , cén t‑olc a rinne sé ? ” Ach is ea ba mhó a scread siad : “ Céas é ! ”
+41015034	cén fáth		Agus ar an naoú huair d'éigh Íosa de ghlór ard : “ Elóí , Elóí , lamá sabachthaní ? ” a chiallaíonn : “ A Dhia , a Dhia , cén fáth ar threig tú mé ? ”
+41016003	Cé		Agus bhí siad á rá le chéile : “ Cé a iompóidh an chloch siar dúinn ó bhéal an tuama ? ”
+42001018	conas		Agus dúirt Zachairias leis an aingeal : “ Conas a bheidh a fhios sin agam ? Óir táim féin aosta , agus mo bhean anonn i mblianta . ”
+42001034	Conas		Dúirt Muire leis an aingeal : “ Conas a bheidh seo amhlaidh , agus gan cuid agam d'fhear chéile ? ”
+42001043	conas		Agus conas a tharla seo domsa , máthair mo Thiarna a theacht chugam ?
+42001066	Cad		agus gach ar chuala trácht orthu , chuir siad chucu ina gcroí iad , agus deiridís : “ Cad is dán don leanbh seo , mar sin ? ” Óir go deimhin bhí lámh an Tiarna leis .
+42002048	cad chuige		Nuair a chonaic siad é , ghabh iontas iad , agus dúirt a mháthair leis : “ A mhic , cad chuige a ndearna tú é seo orainn ? Féach , bhí d'athair agus mé féin do do lorg go cráite . ”
+42002049	cad chuige		Agus dúirt sé leo : “ Cad chuige a mbeadh sibh do mo lorg ? Nach raibh a fhios agaibh gur i dteach m'Athar nárbh fholáir dom bheith ? ”
+42003007	cé		Dúirt sé ansin leis na sluaite a bhí ag teacht amach chun baiste a fháil uaidh : “ A sceith na bpéisteanna , cé a thug leid daoibh teitheadh ón díbheirg atá le teacht ?
+42003010	Cad		Agus bhí na sluaite ag fiafraí de : “ Cad tá le déanamh againn , más ea ? ”
+42003012	cad		Tháinig poibleacánaigh freisin chun baiste a fháil agus dúirt siad leis : “ A mháistir , cad tá le déanamh againne ? ”
+42003014a	~		D'fhiafraigh saighdiúirí de , freisin : 
+42003014b	cad		“ Agus cad tá le déanamh againne ? ” Agus dúirt sé leo : “ Gan éigean a dhéanamh ar dhuine ar bith , ná dearbhú éithigh ; agus sibh a bheith sásta le bhur bpá . ”
+42004034	cad		“ Há , cad ab áil leat dínn , a Íosa Nazairéanaigh ? Ar tháinig tú chun sinn a mhilleadh ? Is eol dom cé hé tú : Naomh Dé . ”
+42004036	Cad é mar		Agus bhí alltacht ar chách agus bhí siad ag caint eatarthu féin a rá : “ Cad é mar bhriathar é seo ? Óir fógraíonn sé ar na spioraid mhíghlana le húdarás agus le cumhacht , agus gabhann siad amach . ”
+42005021a	Cé		Agus thosaigh na scríobhaithe agus na Fairisínigh ag smaoineamh : “ Cé hé seo a labhraíonn diamhaslaí ? 
+42005021b	Cé		Cé a fhéadann peacaí a mhaitheamh ach Dia amháin ? ”
+42005022	cad chuige		Ach thuig Íosa na smaointe a bhí acu , agus dúirt sé leo á bhfreagairt : “ Cad chuige a bhfuil na smaointe seo in bhur gcroí ?
+42005023	cé acu		Cé acu is fusa a rá : ‘ Tá do pheacaí maite duit ’ ; nó a rá : ‘ Éirigh agus siúil ’ ?
+42005030	Cad chuige		Agus bhí na Fairisínigh agus a gcuid scríobhaithe ag monabhar , á rá lena dheisceabail : “ Cad chuige a bhfuil sibh ag ithe agus ag ól leis na poibleacánaigh agus na peacaigh ? ”
+42005033	~		Dúirt siad leis : “ Bíonn deisceabail Eoin ag troscadh go minic agus ag déanamh urnaithe , agus deisceabail na bhFairisíneach mar an gcéanna ; ach iad seo agatsa , bíonn siad ag ithe agus ag ól . ”
+42005034	~		Dúirt Íosa leo : “ An féidir libh a thabhairt ar ógánaigh na bainse troscadh a dhéanamh , le linn don fhear nuaphósta bheith leo ?
+42006002	Cad chuige		Dúirt cuid de na Fairisínigh : “ Cad chuige a bhfuil sibh ag déanamh ruda nach dleathach a dhéanamh lá sabóide ? ”
+42006009	cé acu		Dúirt Íosa leo : “ Fiafraím díbh , cé acu is dleathach a dhéanamh lá sabóide , an mhaith nó an t‑olc , anam a shaoradh nó a mhilleadh ? ”
+42006032	cad		Má thugann sibh grá dóibh seo a thugann grá daoibh , cad é an buíochas atá oraibh ? Óir tugann na peacaigh féin grá dóibh seo a thugann grá dóibh .
+42006033	cad		Agus má dhéanann sibh an mhaith dóibh seo a dhéanann an mhaith daoibh , cad é an buíochas atá oraibh ? Déanann na peacaigh féin an rud céanna .
+42006034	cad		Agus má thugann sibh iasacht dóibh seo gur dóigh mhaith agaibh iad , cad é an buíochas atá oraibh ? Fiú amháin peacaigh , tugann siad iasacht do pheacaigh chun go bhfaighidís an oiread céanna ar ais .
+42006039	~		Agus dúirt sé parabal leo : “ An féidir do dhall bheith ina ghiolla i gcionn daill ? Nach dtitfidh siad araon sa díg ?
+42006041	Cad chuige		Cad chuige a bhfeiceann tú an cáithnín i súil do bhráthar agus nach n‑airíonn tú an tsail atá i do shúil féin ?
+42006042	Conas		Conas is féidir duit a rá le do bhráthair : ‘ A bhráthair , fan go mbaine mé as do shúil an cáithnín atá inti , ’ agus nach bhfeiceann tú an tsail atá i do shúil féin ? A bhréagchráifigh , bain ar dtús an tsail as do shúil féin , agus ansin is fearrde a fheicfidh tú an cáithnín atá i súil do bhráthar a bhaint aisti .
+42006046	cad chuige		Ach cad chuige a nglaonn sibh orm ‘ A Thiarna , a Thiarna , ’ agus nach ndéanann sibh a ndeirim ?
+42007024	Cad		Nuair a bhí teachtairí Eoin imithe , thosaigh sé ag caint leis na sluaite faoi Eoin : “ Cad a chuaigh sibh amach faoin bhfásach a fheiceáil ? Giolcach á suaitheadh ag an ngaoth ?
+42007025	cad		Ach cad a chuaigh sibh amach a fheiceáil ? Duine a bhí cóirithe in éadaí míne ? Iad seo a bhíonn gléasta go niamhrach agus a mhaireann go beadaí , is i bpáláis na ríthe atá siad .
+42007026	cad		Ach cad a chuaigh sibh amach a fheicéail ? Fáidh , an ea ? Sea , deirim libh , agus duine ba mhó ná fáidh .
+42007031a	cad		Uime sin , cad leis a gcuirfidh mé lucht na glúine seo i gcomparáid ? 
+42007031b	cad		Cad leis ar cosúil iad ?
+42007042	Cé acu		Nuair nach raibh an t‑íoc acu , mhaith sé dóibh araon . Cé acu , mar sin , is mó grá dó ? ”
+42007049	Cé		Agus iad seo a bhí ag bord leis , thosaigh siad ag rá ina n‑aigne : “ Cé hé seo a dhéanann fiú amháin peacaí a mhaitheamh ? ”
+42008025a	cá		Agus dúirt sé leo : “ Cá bhfuil bhur gcreideamh ? ” Ach bhí uamhan orthu agus rinne siad ionadh de , á rá eatarthu féin : 
+42008025b	Cé		“ Cé hé an duine seo , más ea , a rá go bhfógraíonn sé ar na gaotha féin agus ar an uisce , agus go ndéanann siad rud air ? ”
+42008028	Cad		Agus ar fheiceáil Íosa dó , scread sé amach agus chaith é féin síos roimhe agus dúirt de ghlór ard : “ Cad ab áil leat díom , a Íosa , a Mhic Dé ró-aird ? Iarraim ort , ná déan mé a chrá . ”
+42008030	Cad		D'fhiafraigh Íosa de : “ Cad é an t‑ainm atá ort ? ” Dúirt sé : “ Léigiún ” - óir bhí mórán deamhan imithe isteach ann .
+42008045	Cé		Ach dúirt Íosa : “ Cé bhain liom ? ” Agus nuair a shéan cách é , dúirt Peadar : “ A Mháistir , tá na sluaite timpeall ort agus tá siad ag brú ort . ”
+42009009a	cé		Ach dúirt Héaród : “ Maidir le hEoin , bhain mé féin an ceann de ; ach cé hé an duine seo a gcluinim tuairiscí mar iad seo air ? ” Agus bhí sé ag iarraidh radharc a fháil air .
+42009009b	~		
+42009018	Cé		Aon lá amháin agus é i leataobh ag guí agus na deisceabail in éineacht leis , d'fhiafraigh sé díobh : “ Cé hé a deir na sluaite mise ? ”
+42009020a	~		Dúirt sé leo : 
+42009020b	cé		“ Ach cé hé a deir sibhse mé ? ” Agus dúirt Peadar á fhreagairt : “ Críost Dé . ”
+42009025	cá		Óir cá fearrde do dhuine an domhan go léir a ghnóthú agus é féin a chailleadh agus a ligean ar ceal ?
+42009041a	cád fad		D'fhreagair Íosa agus dúirt : “ Ó a ghlúin dhíchreidmheach chlaon , cá fad a bheidh mé in bhur measc 
+42009041b	~		agus a chuirfidh mé suas libh ? Tabhair chugam anseo do mhac . ”
+42010025	cad		D'éirigh dlíodóir ina sheasamh agus dúirt leis , á phromhadh : “ A Mháistir , cad tá le déanamh agam chun go mbeinn páirteach sa bheatha shíoraí ? ”
+42010026a	cad		Dúirt sé leis : “ Cad tá scríofa sa dlí ? 
+42010026b	cad		Cad a léann tú ann ? ”
+42010029	cé		Ach ó b'áil leis seo a cheart a phlé , dúirt sé le Íosa : “ Agus cé hé mo chomharsa ? ”
+42010036a	~		
+42010036b	cé acu		Cé acu den triúr sin , do bharúil , ba chomharsa don té a tharla i líon na robálaithe ? ”
+42011008	~		deirim libh , ach mura n‑éirí sé agus iad a thabhairt dó de chionn gur cara dó é , mar sin féin , de chionn a mhínáirí atá sé , éireoidh agus tabharfaidh dó oiread is a bhíonn de dhíth air .
+42011011	Cé		Cé hé an t‑athair in bhur measc go n‑iarrfaidh a mhac arán air , agus ar cloch a shínfidh sé chuige ? Nó más iasc a iarrann , an nathair nimhe a shínfidh sé chuige in ionad éisc ?
+42011012	~		Nó fós má iarrann ubh , an sínfidh sé scairp chuige ?
+42011013	~		Dá bhrí sin , más eol daoibhse atá go holc nithe maithe a thabhairt do bhur gclann , nach móide go dtabharfaidh an tAthair ó neamh an Spiorad Naomh dóibh seo a iarrann air é ? ”
+42011018	conas		Agus má bhíonn Sátan freisin ar deighilt ina aghaidh féin , conas a sheasóidh a ríocht ? - os á rá sibh gur trí Bhéalzabúl a chaithim amach na deamhain .
+42011019	cé		Ach más trí Bhéalzabúl a chaithimse na deamhain amach , cé tríd go gcaitheann bhur gclann féin amach iad ? Uime sin , is iad sin a thabharfaidh breith oraibh .
+42012014	cé		Ach dúirt seisean leis : “ A chara , cé a cheap mise chun bheith i mo bhreitheamh ná i mo mholtóir oraibh ? ”
+42012017	Cad		agus dúirt sé leis féin as a mhachnamh : ‘ Cad a dhéanfaidh mé , mar níl slí stórála agam do mo chuid barraí ? ’
+42012020	cé		Ach dúirt Dia leis : ‘ A dhuine gan chiall , san oíche anocht féin , táthar chun d'anam a iarraidh ort ar ais ; agus an cnuasach atá déanta agat , cé aige a mbeidh sé ? ’
+42012024	~		Breathnaígí na fiacha dubha : ní dhéanann siad síolchur ná fómhar , níl teach stórais acu ná scioból ; agus tugann Dia bia dóibh . Nach mó is fiú sibhse ná an éanlaith ?
+42012025	Cé agaibh		Cé agaibh a d'fhéadfadh , trí bheith ag déanamh imní aon bhanlámh amháin a chur le fad a shaoil ?
+42012026	cad chuige		Dá bhrí sin , nuair nach bhfuil neart agaibh ar an rud is lú , cad chuige daoibh bheith imníoch faoi na rudaí eile ?
+42012042	Cé		Dúirt an Tiarna : “ Cé hé más ea , an maor úd atá iontaofa géarchúiseach a gceapfaidh an máistir os cionn a lucht tís é chun a gcion den arbhar a thabhairt dóibh i dtráth ?
+42012049	~		“ Chun tine a chaitheamh ar an talamh a tháinig mé , agus nach mór is áil liom go mbeadh sí ar lasadh cheana féin !
+42012056	cad		A bhréagchráifeacha , tá a fhios agaibh conas dreach na talún agus na spéire a léamh , ach cad a bheir daoibh gan an t‑am seo i láthair a léamh ?
+42012057	Cad chuige		Cad chuige nach dtugann sibh breith , uaibh féin , faoin rud is cóir a dhéanamh ?
+42013004	~		Nó an t‑ocht nduine dhéag úd ar thit an túr orthu i Siolóam agus gur mharaigh iad , an dóigh libh gur mhó a bhí siad i bhfiacha ná an chuid eile d'áitritheoirí Iarúsailéim ?
+42013007	cad chuige		Dúirt sé le curadóir na fíniúna : ‘ Féach , táim le trí bliana ag teacht ag lorg toraidh ar an gcrann fígí seo agus ní bhfaighim é . Gearr anuas é . Cad chuige a mbeadh an talamh ó rath aige i gcónaí ? ’
+42013015	~		D'fhreagair an Tiarna é : “ A bhréagchráifeacha , ” ar sé , “ nach scaoileann gach duine agaibh a dhamh nó a asal ón mainséar lá na sabóide agus nach seolann chun uisce é ?
+42013018a	cad		Agus dúirt sé : “ Cad leis a bhfuil ríocht Dé cosúil ? 
+42013018b	cad		Cad leis a gcuirfidh mé i gcomparáid í ?
+42013020	cad		Agus dúirt sé arís : “ Cad leis a gcuirfidh mé ríocht Dé i gcomparáid ?
+42013025	cad as		Tar éis d'fhear an tí éirí agus an doras a dhúnadh , agus go dtosóidh sibhse , in bhur seasamh amuigh , ag bualadh an dorais ag rá : ‘ A Thiarna , oscail dúinn ! ’ déarfaidh seisean libh do bhur bhfreagairt : ‘ Níl a fhios agam cad as daoibh ! ’
+42014005	~		Agus dúirt sé leo : “ An bhfuil aon duine agaibh a dtitfidh a mhac nó a dhamh sa tobar agus nach dtarraingeoidh amach láithreach é lá na sabóide ? ”
+42014028	Cé agaibh		Óir cé agaibh arb áil leis túr a thógáil , nach suífidh síos ar dtús agus an costas a mheas , féachaint an acmhainn dó é a chríochnú ?
+42014031	cén		Nó cén rí , agus é ag dul i ngleic cogaidh le rí eile , nach suífidh síos ar dtús ag déanamh comhairle , féachaint an bhféadfaidh sé dul , líon deich míle , faoina dhéin siúd atá ag déanamh air agus fiche míle aige ?
+42014034	cad		Óir is maith an rud salann , ach má éiríonn an salann féin leamh , cad a dhéanfaidh anlann dó ?
+42015004	cén duine agaibh		“ Cén duine agaibh a mbíonn céad caora aige agus go gcaillfidh sé aon cheann amháin acu , nach bhfágann an naoi nóchad eile san fhásach agus dul ina diaidh siúd a bhí caillte nó go bhfaigheann í ?
+42015008	cén		“ Nó cén bhean a mbíonn deich ndrachma aici , má chailleann sí aon drachma amháin , nach lasann lampa agus an teach a scuabadh agus léirchuardach a dhéanamh nó go bhfaigheann é ?
+42015026	cad		Ghlaoigh sé chuige duine de na giollaí agus d'fhiafraigh de cad é an rud é seo a bhí ar bun .
+42015029	~		Ach dúirt sé lena athair á fhreagairt : ‘ Féach féin a bhfuilim de bhlianta ag seirbhís duit agus ní dheachaigh mé riamh thar do réir , agus riamh níor thug tú dom mionnán gabhair chun go ndéanfainn aoibhneas le mo chairde .
+42016002	Cad		Chuir sé fios air agus dúirt leis : ‘ Cad é seo a chluinim mar gheall ort ? Tabhair cuntas uait i do mhaoirseacht , óir ní féidir thú a bheith i do mhaor feasta . ’
+42016003	Cad		Ansin dúirt an maor ina aigne : ‘ Cad a dhéanfaidh mé , óir tá mo mháistir ag baint na maoirseachta díom ? Níl neart ionam chun rómhair , ba nár liom dul le déirc .
+42016005	cé mhéad		Ghlaoigh sé chuige gach aon duine dá raibh i bhfiacha ag a mháistir , agus dúirt leis an gcéad duine : ‘ Cé mhéad atá ag mo mháistir ort ? ’
+42016007	cé mhéad		Ansin dúirt sé le duine eile : ‘ Cé mhéad atá amuigh ortsa ? ’ Dúirt seisean : ‘ Tá céad ceathrú arbhair . ’ Dúirt sé leis : ‘ Tóg do bhille agus scríobh ochtó . ’
+42016011	cé		Dá bhrí sin , mura raibh sibh iontaofa faoin airgead mímhacánta , cé a thaobhóidh libh an saibhreas fírinneach ?
+42016012	cé		Agus mura raibh sibh iontaofa faoin rud a bhí ar iasacht agaibh , cé thabharfaidh daoibh an rud is libh de sheilbh dhílis ?
+42017007	Cé agaibh 		“ Cé agaibh a mbíonn seirbhíseach aige ag treabhadh nó ag aoireacht , a déarfaidh leis nuair a thagann sé isteach ón ngort : ‘ Tar anois agus buail fút ag bord ’ ?
+42017017	cá		Labhair Íosa agus dúirt : “ Nár glanadh an deichniúr ? Agus an naonúr eile , cá bhfuil siad ?
+42017018	~		An ea nach raibh aon duine le fáil a thiocfadh ar ais ag tabhairt glóire do Dhia ach an coimhthíoch seo amháin ? ”
+42017020	cén uair		Nuair a d'fhiafraigh na Fairisínigh de cén uair a bheadh ríocht Dé ag teacht , dúirt sé leo á bhfreagairt : “ Ríocht Dé , ní amhlaidh a bhraitear ag teacht í ,
+42017037	cén áit		Dúirt siad leis á fhreagairt : “ Cén áit , a Thiarna ? ” Dúirt sé leo : “ Mar a mbíonn an corpán , is ann freisin a bheidh na badhbha cruinnithe le chéile . ”
+42018018	cad		D'fhiafraigh duine ainmniúil de : “ A Mháistir mhaith , cad tá le déanamh agam chun go mbeinn páirteach sa bheatha shíoraí ? ”
+42018019	cad chuige		Dúirt Íosa leis : “ Cad chuige go ndeir tú maith liom ? Ní maith aon neach ach Dia amháin .
+42018026	cé		Agus iad seo a chuala é , dúirt siad : “ Agus cé is féidir a shlánú ? ”
+42018036	cad		Nuair a chuala sé an slua ag gabháil thairis , d'fhiafraigh sé cad é a bhí ar bun .
+42018041	Cad		“ Cad ab áil leat mé a dhéanamh duit ? ” Dúirt seisean : “ A Thiarna , mo radharc a bheith agam ! ”
+42019007	~		Ar a fheiceáil sin do chách , bhí siad ag monabhar á rá : “ Tá sé tar éis dul ar lóistín ag peacach . ”
+42019023	cad chuige		Cad chuige más ea nár chuir tú mo chuid airgid ar gaimbín ? Agus nuair a thiocfainn , dhéanfainn é éileamh le hús . ’
+42019031	Cad chuige		Agus má fhiafraíonn aon duine díbh : ‘ Cad chuige a bhfuil sibh á scaoileadh ? ’ is é a déarfaidh sibh : ‘ Mar go bhfuil gá ag an Tiarna leis . ’ ”
+42019033	Cad chuige		Le linn dóibh bheith ag scaoileadh an tsearraigh , dúirt na húinéirí leo : “ Cad chuige a bhfuil sibh ag scaoileadh an tsearraigh ? ”
+42020002a	cén		agus dúirt an méid seo leis : “ Inis dúinn cén t‑údarás atá agat leis na nithe seo a dhéanamh , 
+42020002b	cé		nó cé hé seo a thug an t‑údarás sin duit ? ”
+42020005a	~		Ach bhí siad ag suaitheadh an scéil eatarthu , á rá : “ Má deirimid : ‘ Ó neamh , ’ déarfaidh sé : 
+42020005b	cad chuige		‘ Cad chuige nár chreid sibh ann ? ’
+42020013	Cad		Dúirt máistir an fhíonghoirt ansin : ‘ Cad a dhéanfaidh mé ? Cuirfidh mé uaim mo mhac muirneach féin ; b'fhéidir go dtabharfaidís ómós dó sin . ’
+42020015	cad		Agus tar éis dóibh é a thiomáint amach as an bhfíonghort , mharaigh siad é . Dá bhrí sin , cad a dhéanfaidh máistir an fhíonghoirt leo ?
+42020017	cad		Ach bhreathnaigh sé orthu agus dúirt : “ Murab ea , cad is ciall leis an rud úd atá scríofa : ‘ An chloch dár dhiúltaigh na saoir , rinne di ceann an chúinne ’ ?
+42020023	~		Ach thuig sé a gceilg agus dúirt leo :
+42020024a	cé		“ Taispeánaigí dom déanar . Cé hé a bhfuíl a íomhá air 
+42020024b	~		agus a inscríbhinn ? ” Dúirt siad : “ Céasar . ”
+42020033	cé acu		San aiséirí , más ea , cé acu a mbeidh an bhean ina bean chéile aige ? Óir bhí sí ina bean chéile ag an seachtar . ”
+42020041	Conas		Dúirt sé leo ansin : “ Conas is féidir a rá gur Mac do Dháiví an Críost ?
+42020044	cad		“ Dá bhrí sin , glaonn Dáiví Tiarna air , agus cad a bheir ina mhac dó é ? ”
+42021007a	cén uair		D'fhiafraigh siad de ansin : “ Más ea , a Mháistir , cén uair a thitfidh an méid sin amach , 
+42021007b	cad		agus cad is comhartha ar na nithe sin a bheith ag teacht ? ”
+42022009	Cárbh		Dúirt siad leis : “ Cárbh áil leat go n‑ullmhóimis í ? ”
+42022011	Cá		agus abraigí le fear an tí : ‘ Dúirt an Máistir a rá leat : Cá bhfuil an seomra aíochta go n‑ithinn an cháisc ann in éineacht le mo dheisceabail ? ’
+42022027	Cé acu		Cé acu is mó dáiríre , an té a bhíonn ag bord nó an té a bhíonn ag freastal ? Nach é an té a bhíonn ag bord ? Ach táimse in bhur measc ar nós an té a bhíonn ag freastal .
+42022046	Cad		agus dúirt sé leo : “ Cad a bheir in bhur gcodladh sibh ? Éirígí agus guígí , le heagla go rachadh sibh i gcathú . ”
+42022064	cé		agus chuiridís dallóg air agus d'fhiafraídís de : “ Tairngir ! cé hé sin a bhuail thú ? ”
+42022071	Cad		“ Cad is gá dúinn a thuilleadh fianaise ? ” ar siadsan , “ óir chualamar féin as a bhéal féin é . ”
+42023022a	~		Dúirt sé leo den tríú huair : 
+42023022b	Cén		“ Cén t‑olc mar sin a rinne an duine seo ? Ní bhfuair mé rud ar bith ann a thuillfeadh bás . Dá bhrí sin , tar éis a smachtaithe dom , scaoilfidh mé saor é . ”
+42023031	cad		Óir , más mar seo a dhéantar leis an adhmad glas , cad a bhainfidh don chríon ! ”
+42024005	Cad		Ghlac na mná bíogadh agus chrom siad a gceann chun na talún , agus dúirt siadsan leo : “ Cad a bheir daoibh a bheith ar lorg an bheo i measc na marbh ?
+42024017	Cad		Dúirt sé leo : “ Cad iad na scéala iad seo atá sibh a reic le chéile sa tslí ? ” Agus stad siad suas agus iad go gruama .
+42024019	Cad		Dúirt sé leo : “ Cad iad na nithe ? ” Dúirt siad leis : “ Mar gheall ar Íosa - Nazairéanach , duine a bhí ina fháidh éifeachtach ó ghníomh agus ó bhriathar i bhfianaise Dé agus an phobail uile ;
+42024025	~		Ansin dúirt sé féin leo : “ A dhaoine gan tuiscint atá dúr ó chroí chun a bhfuil ráite ag na fáithe a chreidiúint !
+42024038a	cad		Ach dúirt sé leo : “ Cad é an scanradh atá oraibh , 
+42024038b	cad chuige		agus cad chuige a bhfuil ceisteanna ag teacht in bhur gcroí !
+43001019	Cé		Is í seo an fhianaise a thug Eoin nuair a chuir na Giúdaigh sagairt agus Léivítigh ó Iarúsailéim chuige á fhiafraí de : “ Cé hé thusa ? ”
+43001021	Cad		D'fhiafraigh siad de : “ Cad eile , más ea ? An tú Éilias ? ” “ Ní mé , ” ar seisean . “ An tú an fáidh ? ” Agus d'fhreagair : “ Ní mé . ”
+43001022a	cé		Dúirt siad leis mar sin : “ Cé hé thú ? - chun go mbeadh freagra againn dóibh seo a chuir chugat sinn . 
+43001022b	cad		Cad tá le rá agat mar gheall ort féin ? ”
+43001025	Cén fáth		agus chuir siad ceist air : “ Cén fáth a mbíonn tú ag baisteadh más ea , ” ar siad , “ mura thú an Críost , nó Éilias , nó an fáidh ? ”
+43001038a	cad		D'iompaigh Íosa , chonaic iad á leanúint agus dúirt sé leo : “ Cad tá uaibh ? ” D'fhreagair siad é : “ A raibí ” - is é sin le rá “ a mháistir ” - 
+43001038b	cá		“ Cá bhfuil cónaí ort ? ”
+43001046	~		Dúirt Natanael : “ As Nazarat ? An féidir aon ní fónta a theacht as sin ? ” “ Tar agus feic , ” a dúirt Pilib leis .
+43001048	Cén chaoi		“ Cén chaoi a n‑aithníonn tú mé ? ” arsa Natanael leis . D'fhreagair Íosa : “ Sular ghlaoigh Pilib ort , ” ar sé leis , “ agus tú faoin gcrann fígí , chonaic mé thú . ”
+43002004	Cad		Dúirt Íosa léi : “ Cad ab áil leat díom , a bhean ? Níl m'uairse tagtha fós . ”
+43002018a	~		D'fhreagair na Giúdaigh ansin : 
+43002018b	cén		“ Cén comhartha , ” ar siad leis , “ atá á thaispeáint agat dúinn mar bhonn lena bhfuil á dhéanamh agat ? ”
+43003004	Conas		Dúirt Níocodaemas leis : “ Conas is féidir duine a ghiniúint agus é ina sheanduine ? An amhlaidh a d'fhéadfadh sé dul isteach i mbroinn a mháthar agus teacht ar an saol athuair ? ”
+43003009	Conas		D'fhreagair Níocodaemas : “ Conas is féidir na nithe sin a bheith amhlaidh ? ” ar sé leis .
+43003012	cén chaoi		Má inis mé nithe talmhaí daoibh , agus nach gcreideann sibh , cén chaoi a chreidfidh sibh , má insím nithe neamhaí daoibh ?
+43004009	Conas		Dúirt an Samárach mná leis ansin : “ Conas go n‑iarrann tusa , agus gur Giúdach thú , deoch ormsa agus gur Samárach mná mé ? ” Ní bhíonn aon chaidreamh ag Giúdaigh ar Shamáraigh .
+43004011	Cad		“ Níl aon bhuicéad agat , a dhuine uasail , ” arsa an bhean leis , “ agus tá an tobar domhain . Cad as mar sin a gheobhfá an t‑uisce beo seo ?
+43004027a	cad		Lena linn sin tháinig a dheisceabail agus rinne siad ionadh de go raibh sé ag caint le bean . Ní dúirt aon duine acu , áfach : “ Cad tá uait ? ” 
+43004027b	Cén fáth		ná “ Cén fáth tú a bheith ag caint léi ? ”
+43005012	Cé		D'fhiafraigh siad de ansin : “ Cé hé an duine a dúirt leat : ‘ Tóg do shráideog agus siúil ’ ? ”
+43005044	Conas		Conas a b'fhéidir daoibh creidiúint , agus glóir á glacadh agaibh óna chéile gan aon lorg agaibh ar an nglóir a thagann ó Dhia amháin .
+43005047	conas		Mura gcreideann sibh a scríbhinní-sean , conas a chreidfidh sibh mo bhriathar-sa ?
+43006005	Cá		Nuair a d'ardaigh Íosa a shúile , mar sin , agus nuair a chonaic go raibh slua mór ag teacht chuige , dúirt sé le Pilib : “ Cá gceannóimid arán chun go mbeadh bia acu seo ? ”
+43006009	cá		“ Tá ógánach anseo a bhfuil cúig builíní eorna aige , agus dhá iasc , ach cá rachadh an méid sin ar oiread daoine ? ”
+43006025	cén uair		Nuair a fuair siad é taobh thall den fharraige dúirt siad leis : “ A raibí , cén uair a tháinig tú anseo ? ”
+43006028	Cad		Dúirt siad leis ansin : “ Cad tá le déanamh againn ionas go ndéanfaimis oibreacha Dé ? ”
+43006030a	cén		Dúirt siad leis : “ Cén comhartha mar sin atá tú a dhéanamh ionas go bhfeicfimis é agus go gcreidfimis ionat ? 
+43006030b	cad		Cad atá tú a dhéanamh ?
+43006042	Cén chaoi		“ Nach é seo , ” a deiridís , “ Íosa mac Iósaef a bhfuil aithne againn ar a athair agus ar a mháthair ? Cén chaoi is féidir leis a rá : ‘ Tháinig mé anuas ó neamh ’ ? ”
+43006052	Conas		Bhí na Giúdaigh ansin ag aighneas le chéile á rá : “ Conas is féidir don duine seo a fheoil a thabhairt dúinn le hithe ? ”
+43006060	cé		Ar gclos na cainte dá lán dá dheisceabail dúirt siad : “ Is crua an chaint í seo , agus cé a d'fhéadfadh éisteacht léi ? ”
+43006062	cad		Ach cad é má fheiceann sibh Mac an Duine ag dul suas mar a raibh sé cheana ?
+43006068	cé		D'fhreagair Síomón Peadar é : “ A Thiarna , cé chuige a rachamaid ? Is agatsa atá briathra na beatha síoraí ,
+43007011	Cá		“ Cá bhfuil sé siúd ? ” Bhí na Giúdaigh dá réir sin á lorg lá na féile agus deiridís :
+43007015	Cén chaoi		Tháinig ionadh , dá bhrí sin , ar na Giúdaigh agus dúirt siad : “ Cén chaoi a bhfuil léann aige agus nach bhfuair sé foghlaim ? ”
+43007019	Cad chuige		Nár thug Maois an dlí daoibh ? agus ní chomhlíonann aon duine agaibh an dlí . Cad chuige daoibh a bheith ag iarraidh mé a chur chun báis ? ”
+43007020	Cé		D'fhreagair an slua : “ Tá deamhan ionat ! Cé atá ag iarraidh tú a chur chun báis ? ”
+43007023	~		Má dhéantar timpeallghearradh ar dhuine sa tsabóid chun nach mbrisfí dlí Mhaois , an bhfuil fearg oraibh liomsa mar go ndearna mé duine iomlán a leigheas sa tsabóid ?
+43007035	Cá		Dúirt na Giúdaigh eatarthu féin dá bhrí sin : “ Cá bhfuil sé le dul agus nach bhfaighimid é ? An bhfuil sé chun dul ag triall ar na deoraithe ar fud an domhain Ghréagaigh , agus na Gréagaigh a theagasc ?
+43007036	Cad		Cad í an chaint í seo a dúirt sé : ‘ Beidh sibh ar mo lorg ach ní bhfaighidh sibh mé ; agus an áit ina bhfuilimse , ní féidir daoibhse teacht ann ’ ? ”
+43007041	~		Deireadh tuilleadh acu : “ Is é an Críost é seo , ” ach deireadh cuid eile acu : “ An as an nGailíl atá an Críost ag teacht ?
+43007045	Cad chuige		Tháinig na póilíní dá bhrí sin go dtí na hardsagairt agus na Fairisínigh agus dúirt siadsan leo : “ Cad chuige nár thug sibh libh é ? ”
+43007048	~		Ar chreid aon duine de na huachtaráin nó de na Fairisínigh ann ?
+43007051	~		“ An dtugann ár ndlí breith ar aon duine gan éisteacht a thabhairt dó ar dtús agus a fháil amach cad tá sé a dhéanamh ? ”
+43008005	Cad		D'ordaigh Maois dúinn sa dlí bás a imirt ar a leithéidí seo le clocha . Cad deir tú más ea ? ”
+43008010	cá		D'éirigh Íosa suas agus dúirt sé léi : “ A bhean , cá bhfuil siad ? Nár dhaor aon duine thú ? ”
+43008019	Cá		Dúirt siad leis ansin : “ Cá bhfuil d'Athair ? ” D'fhreagair Íosa : “ Níl aithne agaibh ormsa ná ar m'Athair . Dá mbeadh aithne agaibh ormsa , bheadh aithne agaibh ar m'Athair chomh maith . ”
+43008025a	cé		Dúirt siad leis ansin : “ Cé hé thú féin ? ” Dúirt Íosa leo : 
+43008025b	cén fáth		“ Cén fáth a bhfuilim ag caint libh ar aon chor ?
+43008033	Conas		D'fhreagair siad é : “ De shíol Abrahám sinne é , agus ní rabhamar inár ndaoir ag aon duine riamh . Conas go ndeir tú : ‘ Saorfar sibh ’ ? ” D'fhreagair Íosa iad :
+43008043	Cén fáth		Cén fáth nach dtuigeann sibh mo chaint ? De bhrí nach féidir daoibh mo bhriathar a chlos .
+43008046a	cén duine agaibh		Cén duine agaibh a dhéanfaidh mé a chiontú in éagóir ? 
+43008046b	cén fáth		Má labhraím an fhírinne , cén fáth nach gcreideann sibh mé ?
+43008053	Cé		An ea gur mó thusa ná ár n‑athair Abrahám atá marbh ? Agus na fáithe freisin , tá siad marbh . Cé tá tú a dhéanamh díot féin ? ”
+43008057	~		Ansin dúirt na Giúdaigh leis : “ Níl tú caoga bliain d'aois fós agus an bhfaca tú Abrahám ? ”
+43009002	cé acu		D'fhiafraigh a dheisceabail de : “ A raibí , ” ar siad , “ cé acu a rinne an peaca , é seo nó a thuismitheoirí á rá is gur rugadh ina dhall é ? ”
+43009010	Conas		Dúirt siad leis ansin : “ Conas a osclaíodh do shúile mar sin ? ”
+43009012	Cá		D'fhiafraigh siad : “ Cá bhfuil sé ? ” “ Níl a fhios agam , ” ar sé .
+43009016	Conas		Dúirt cuid de na Fairisínigh ansin : “ Ní ó Dhia an duine seo mar ní choinníonn sé an tsabóid . ” Dúirt cuid eile : “ Conas is féidir duine peacúil a dhéanamh míorúiltí mar iad seo ? ” Agus bhí aighneas eatarthu .
+43009017	Cad		Dúirt siad arís leis an dall dá bhrí sin : “ Cad deir tusa mar gheall air ó d'oscail sé do shúile ? ” D'fhreagair sé : “ Fáidh is ea é . ”
+43009019	Conas		agus gur cheistigh siad iad : “ An é seo bhur mac a deir sibh a rugadh ina dhall ? ” ar siad . “ Conas go bhfuil radharc anois aige , mar sin ? ”
+43009026a	cad		Dúirt siad leis ansin arís : “ Cad a rinne sé leat ? 
+43009026b	conas		Conas a d'oscail sé do shúile ? ”
+43009027	cad		D'fhreagair sé iad : “ D'inis mé cheana daoibh é , agus ní éistfeadh sibh ; cad ab áil libh á chloisteáil arís ? An amhlaidh gur mian libhse a bheith in bhur ndeisceabail aige chomh maith ? ”
+43009034	~		D'fhreagair siad agus dúirt leis : “ I bpeacaí a rugadh thusa ar fad , agus an dár dteagasc-na atá tú ? ” Agus chaith siad amach é .
+43009036	Cé		D'fhreagair seisean : “ Cé hé féin , a thiarna ? ” - ar sé leis - “ chun go gcreidfinn ann . ”
+43010020	Cad		Dúirt a lán acu : “ Tá deamhan ann agus tá sé as a mheabhair . Cad a ba áil libh a bheith ag éisteacht leis ? ”
+43010021	~		Dúirt cuid eile : “ Ní focail deamhnaigh na focail seo . An féidir le deamhan súile na ndall a oscailt ? ”
+43010024	fada a		Chruinnigh na Giúdaigh ina thimpeall agus dúirt siad leis : “ An fada a bheimid dár gcoinneáil ar bís agat ? Más tú an Críost inis dúinn é os comhair an tsaoil . ”
+43010032	Cé acu		D'fhreagair Íosa iad : “ Tá a lán oibreacha fónta taispeánta agam daoibh ó m'Athair . Cé acu obair díobh a bhfuil sibh ag gabháil de chlocha ionam mar gheall uirthi ? ”
+43010036	~		an té a naomhaigh an tAthair , agus a chuir sé uaidh sa saol , an ndeir sibhse leis : ‘ Sin diamhasla agat ! ’ mar gur dhúirt mé : ‘ Is mé Mac Dé ’ ?
+43011034	Cá		agus dúirt sé : “ Cá bhfuil sé curtha agaibh ? ” Dúirt siad leis : “ Tar , a Thiarna , agus feic . ”
+43011047	Cad		Thionóil na hardsagairt agus na Fairisínigh comhairle agus dúirt siad : “ Cad atá á dhéanamh againn ? Óir tá a lán míorúiltí á ndéanamh ag an duine seo .
+43011056	Cad		Bhí siad ag lorg Íosa dá bhrí sin agus deiridís le chéile agus iad ina seasamh sa Teampall : “ Cad is dóigh libh ? An amhlaidh nach dtiocfaidh sé chun na féile ? ”
+43012005	cad chuige		“ Cad chuige nár díoladh an ola seo ar thrí chéad déanar agus é a thabhairt do na boicht ? ”
+43012027	Cad		Tá buaireamh ar m'anam anois . Cad déarfaidh mé ? ‘ A Athair , saor mé ón uair seo ’ ? Ach is chuige sin a tháinig mé chun na huaire seo .
+43012034a	Cén chaoi		D'fhreagair an slua é ansin : “ Chualamar ón dlí go bhfanfaidh Críost go deo , agus cén chaoi a ndeir tú nach foláir Mac an Duine a ardú ? 
+43012034b	Cé		Cé hé an Mac seo an Duine ? ”
+43012038a	cé		ionas go gcomhlíonfaí an focal a dúirt Íseáia fáidh : “ A Thiarna , cé a chreid ár scéala ? 
+43012038b	cé		Agus cé dó ar taispeánadh lámh an Tiarna ? ”
+43013025	Cé		Luigh seisean mar sin ar bhrollach Íosa agus dúirt leis : “ Cé hé féin , a Thiarna ? ”
+43013036	cá		Dúirt Síomón Peadar leis : “ A Thiarna , cá bhfuil tú ag dul ? ” D'fhreagair Íosa é : “ Mar a bhfuilimse ag dul , ní féidir duitse mé a leanúint anois , ach leanfaidh tú mé níos déanaí . ”
+43013037	cad chuige		Dúirt Peadar leis : “ A Thiarna , cad chuige nach féidir dom thú a leanúint anois ? Tabharfaidh mé m'anam ar do shon . ”
+43014002	~		Is iomaí áras i dteach m'Athar . Mura mbeadh , d'inseoinn daoibh é . Óir táim ag dul ag cur áite i gcóir daoibh ,
+43014005	Cén chaoi		Dúirt Tomás leis : “ A Thiarna , ní eol dúinn cá bhfuil tú ag dul agus cén chaoi is féidir dúinn eolas na slí a bheith againn ? ”
+43014009	Conas		Dúirt Íosa leis : “ An bhfuilim an fad sin aimsire , a Philib , in bhur measc agus gan aithne agat orm ? An té a chonaic mise , chonaic sé an tAthair . Conas , mar sin , a deir tú : ‘ Taispeáin dúinn an tAthair ’ ?
+43014022	cad		Dúirt Iúdás - níorbh é fear Isceiriót é : “ A Thiarna , cad é seo ? Nach bhfuil tú chun tú féin a thaispeáint don saol , ach dúinne ? ”
+43016005	Cá		“ Táim ag imeacht anois , go dtí an té a chuir uaidh mé , agus ní fhiafraíonn aon duine agaibh díom , ‘ Cá bhfuil tú ag dul ? ’
+43016017	Cad		Ansin dúirt cuid dá dheisceabail le chéile : “ Cad é seo a deir sé linn : ‘ Tamall beag agus ní fheicfidh sibh mé , agus tamall beag eile , agus beidh radharc agaibh orm ’ ; agus ‘ mar táim ag triall ar an Athair ’ ? ”
+43016018	Cad		Dá bhrí sin dúirt siad : “ Cad é an ‘ tamall beag ’ é seo a deir sé ? Níl a fhios againn cad is ciall lena chomhrá . ”
+43018004	Cé		Ó bhí a fhios ag Íosa an uile ní dá raibh le teacht air , ghabh sé amach agus dúirt sé leo : “ Cé tá uaibh ? ”
+43018007	Cé		D'fhiafraigh sé díobh arís : “ Cé tá uaibh ? ” “ Íosa ó Nazarat , ” ar siad .
+43018011	~		Malcas a ba ainm don seirbhíseach . Dúirt Íosa le Peadar : “ Cuir an claíomh ar ais ina thruaill . An cupa a thug an tAthair dom , nach n‑ólfaidh mé é ? ”
+43018021	Cén fáth		Cén fáth a bhfuil tú do mo cheistiú-sa ? Ceistigh iad siúd a chuala mé faoina ndúirt mé leo . Is iadsan , féach , a bhfuil a fhios acu cad a dúirt mé . ”
+43018023	cén fáth		D'fhreagair Íosa é : “ Má labhair mé go héagóir , cruthaigh an éagóir ; ach má labhair mé go ceart , cén fáth a mbuaileann tú mé ? ”
+43018029	Cén		Mar sin , tháinig Pioláit amach chucu agus dúirt : “ Cén cion atá sibh a chur i leith an duine seo ? ”
+43018035	Cad		D'fhreagair Pioláit : “ An Giúdach mise ? Do náisiún féin agus uachtaráin na sagart a thug ar láimh dom tú . Cad tá déanta agat ? ”
+43018038	Cad		Dúirt Pioláit leis : “ Cad is fírinne ann ? ” Agus arna rá sin dó , ghabh sé amach arís chun na nGiúdach , agus dúirt leo : “ Ní fhaighim aon chúis daortha ann .
+43019009	Cad as		Chuaigh sé isteach sa Phréatóiriam arís agus dúirt le Íosa : “ Cad as duit ? ” Ach níor thug Íosa aon fhreagra air .
+43019015	~		Ach chuir siad na gártha suas : “ Beir uainn é ! Beir uainn é ! Céas é ! ” Dúirt Pioláit leo : “ An amhlaidh a chéasfaidh mé bhur rí ? ” D'fhreagair uachtaráin na sagart : “ Níl de rí againne ach Céasar . ”
+43020013	Cén fáth		“ Cén fáth a bhfuil tú ag gol , a bhean , ” ar siad léi . “ Mar gur thóg siad mo Thiarna , ” ar sí leo , “ agus nach eol dom cár chuir siad é . ”
+43020015a	cén fáth		Dúirt Íosa léi : “ A bhean , cén fáth a bhfuil tú ag gol ? 
+43020015b	cé		Cé atá uait ? ” Mheas sí gurbh é an garraíodóir é agus dúirt leis : “ A dhuine uasail , más tusa a thóg é , inis dom cár chuir tú é agus tabharfaidh mé liom é . ”
+43021012	Cé		Dúirt Íosa leo : “ Tagaigí agus ithigí . ” Ní raibh sé de mhisneach ag aon duine de na deisceabail a fhiafraí de : “ Cé hé thú féin ? ” mar go raibh fhios acu gurbh é an Tiarna é .
+43021020	cé		D'iompaigh Peadar agus chonaic sé á leanuint an deisceabal ar thug Íosa grá dó , an té a luigh ar a ucht ag an suipéar agus a dúirt : “ A Thiarna , cé atá chun tú a bhrath ? ”
+43021021	Cad		Nuair a chonaic Peadar é sin dá bhrí sin , dúirt sé le Íosa : “ Cad mar gheall air seo ? ”
+43021022	cad		Dúirt Íosa leis : “ Más mian liom é a fhanacht go dtaga mé , cad é sin duitse ? Lean-sa mise . ”
+43021023	cad		Bhí sé ina scéal reatha dá bhrí sin i measc na mbráithre nach bhfaigheadh an deisceabal sin bás . Ach níor dhúirt Íosa leis : “ Ní bhfaighidh sé bás ” ; ach : “ Más mian liom é a fhanacht go dtaga mé , cad é sin duitse ? ”
+44001011	cad		“ A fheara na Gailíle , ” ar siad , “ cad ab áil libh in bhur seasamh ansin ag amharc in airde sa spéir ? An Íosa seo a tógadh suas ar neamh uaibh , tiocfaidh sé an tslí chéanna ina bhfaca sibh ag dul suas é . ”
+44002008	Conas		Conas a tharlaíonn go gcloiseann gach duine againne iad ag labhairt inár dteanga dhúchais féin ?
+44002012	Cad		Bhí alltacht agus mearbhall orthu go léir agus deiridís le chéile : “ Cad is ciall leis seo ? ”
+44002037	Cad		Chuaigh an chaint sin go dtí an croí iontu agus dúirt siad le Peadar agus leis na haspail eile : “ Cad atá le déanamh againn , a bhráithre ? ”
+44003012a	cad chuige		Ar fheiceáil seo do Pheadar labhair sé leis an slua : “ A fheara Iosrael , ” ar seisean , “ cad chuige a bhfuil sibh ag déanamh iontais de seo ? 
+44003012b	cad chuige		Nó cad chuige a bhfuil sibh ag stánadh orainne amhail is dá mba dár gcumhacht féin nó dár gcráifeacht féin a thugamar siúl don fhear seo ?
+44004007a	~		Chuir siad na haspail ina seasamh i lár baill agus rinne siad iad a cheistiú : 
+44004007b	cén		“ Cén chumhacht , ” ar siad , 
+44004007c	cén		“ nó cén t‑ainm lena ndearna sibh an ní seo ? ”
+44004016	Cad		“ Cad a dhéanfaimid leis na daoine seo ? ” ar siad . “ Tá míorúilt shuntasach déanta acu , rud is follas d'áitritheoirí Iarúsailéim ar fad , agus ní féidir dúinne é a shéanadh .
+44004025a	cad		Is tú a dúirt tríd an Spiorad Naomh , trí bhéal do sheirbhísigh , ár n‑athair Dáiví : ‘ Cad ab áil leis na ciníocha bheith ar buile le feirg ? 
+44004025b	cad		Cad ab áil leis na náisiúin nithe baotha a bheartú ?
+44005003	cén fáth		Labhair Peadar leis : “ A Anainias , ” ar seisean , “ cén fáth ar líon Sátan do chroí sa chaoi gur inis tú bréag don Spiorad Naomh agus cuid de luach na feirme a choinneáil agat féin .
+44005004	Cad		Fad a bhí an talamh i do sheilbh , nár leat féin é ? Agus tar éis duit é a dhíol nach raibh a luach faoi do réir agat ? Cad ab áil leat an rud seo a bheartú i do chroí ? Ní do dhaoine a thug tú an t‑éitheach ach do Dhia . ”
+44005009	Cad		“ Cad a thug oraibh , ” arsa Peadar léi , “ socrú le chéile ar thriail a bhaint as Spiorad an Tiarna ? Féach , sin iad ag an doras coiscéimeanna na ndaoine atá tar éis d'fhear a adhlacadh agus ardóidh siad thusa chomh maith . ”
+44007026	Cad		Lá arna mhárach tháinig sé orthu agus iad ag bruíon le chéile agus nuair a d'fhéach sé le síocháin a dhéanamh eatarthu , á rá : ‘ A fheara , nach bráithre sibh ? Cad uime a bhfuil sibh ag déanamh éagóra ar a chéile ? ’
+44007027	Cé		An fear a bhí ag déanamh na héagóra ar a chomharsa , bhrúigh sé Maois uaidh á rá : ‘ Cé a cheap thusa i do cheann urra agus i do bhreitheamh orainn ?
+44007035	Cé		“ An Maois seo ar dhiúltaigh siad dó á rá : ‘ Cé a cheap thusa i do cheann urra agus i do réiteoir orainn , ’ sin é an fear a sheol Dia chucu ina cheann agus ina fhuascailteoir le cabhair an aingil a thaispeáin é féin dó ag an tor .
+44007049a	cén sórt		‘ Is iad na spéartha mo chathaoir ríoga , agus an talamh stól mo chos . Cén sórt tí a thógfaidh sibhse dom , arsa an Tiarna , 
+44007049b	cá		nó cá mbeidh m'áit chónaithe ?
+44007052	Cén		Cén duine de na fáithe nach ndearna bhur sinsir géarleanúint air ? Agus d'imir siad an bás orthu siúd a thairngir teacht an Fhíréin . Agus anois tá sibhse tar éis é a bhrath agus a chur chun báis ,
+44008031	Conas		“ Conas a thuigfinn , ” d'fhreagair an coillteán , “ gan duine éigin a mhíneodh dom é ? ” agus d'iarr ar Philib suí in airde leis .
+44008033	Cé		Ó tugadh céim síos dó ní raibh cothrom le fáil aige . Cé a dhéanfaidh trácht ar a shliocht mar tógadh as an saol seo é . ”
+44008034	cé		Labhair an coillteán le Pilib : “ Inis dom , ” ar sé , “ cé dó a bhfuil an fáidh ag tagairt ? Cé acu dó féin atá sé ag tagairt nó do dhuine éigin eile ? ”
+44008036	Cad		Bhí siad ag cur an bhóthair díobh nuair a tháinig siad chun lochán uisce . “ Féach , ” arsa an coillteán , “ tá uisce anseo . Cad é an bac atá ormsa mo bhaisteadh ? ”
+44009004	cén fáth		Thit sé chun talaimh agus chuala sé an guth á rá leis : “ A Shóil , a Shóil , cén fáth a bhfuil tú do mo ghéarleanúint ? ”
+44009005	Cé		“ Cé thú féin , a Thiarna ? ” d'fhiafraigh Sól . D'fhreagair an guth : “ Is mise Íosa , an té a bhfuil tú á ghéarleanúint .
+44009006	cad		Ach éirigh i do sheasamh , gabh isteach sa chathair agus déarfar leat cad is déanta duit . ”
+44010004	Cad		Stán sé ar an aingeal le scanradh agus dúirt : “ Cad é sin , a dhuine uasail ? ” D'fhreagair an t‑aingeal : “ Tá d'urnaithe agus do dhéirc imithe suas i bhfianaise Dé agus tá cuimhne aige orthu .
+44010021	Cad		Chuaigh Peadar síos chun na bhfear agus dúirt leo : “ Is mise an té atá uaibh . Cad é an gnó a thug anseo sibh ? ”
+44010029	cad		Dá chomhartha sin tháinig mise anseo gan cheist gan doicheall an túisce a cuireadh fios orm . Ceist agam oraibh dá bhrí sin : cad uime ar chuir sibh fios orm , fiafraím díbh ? ”
+44010047	Cé		Ansin labhair Peadar leo : “ Cé a d'fhéadfadh uisce a mbaiste a dhiúltú do na daoine seo agus iad tar éis an Spiorad Naomh a fháil chomh maith linn féin ? ”
+44011017a	cérbh		Dá réir sin má thug Dia dóibhsean an tabhartas céanna a thug sé dúinne tar éis dúinn creidiúint sa Tiarna Íosa Críost , cérbh é mise go bhféadfainn bac a chur ar Dhia ? ”
+44011017b	~		
+44012018	cad		Nuair a bhí sé ina lá , bhí buairt nár bheag ar na saighdiúirí i dtaobh cad ba chor do Pheadar .
+44013025	~		agus nuair a bhí Eoin ag teacht go deireadh a chúrsa , is é a dúirt sé : ‘ Ní mise an té is dóigh libhse is mé , mar tá duine le teacht i mo dhiaidhse agus ní fiú mise go scaoilfinn a bhróga . ’
+44014015	cad		“ A fheara , ” ar siad , “ cad ab áil libh é seo a dhéanamh ? Níl ionainne ach daoine daonna cosúil libh féin , agus táimid a fhógairt mar dhea-scéal daoibh éirí as na nithe baotha seo agus iompú ar an Dia beo a rinne neamh agus talamh agus an fharraige agus gach a bhfuil iontu .
+44015010	cad		Más ea , cad ab áil libhse bheith ag tabhairt dúshláin faoi Dhia anois agus cuing a chur ar mhuineál na ndeisceabal nár fhéadamar féin ná ár sinsir a iompar ?
+44016030	Cad		Ansin sheol sé amach iad agus d'fhiafraigh díobh : “ Cad atá le déanamh agam , a mháistrí , go slánófaí mé ? ”
+44017018	Céard		Chuaigh cuid de na fealsaimh Eipiciúracha agus de na fealsaimh Stóchacha ag plé leis chomh maith . Deireadh cuid acu : “ Céard atá ar siúl ag an síodrálaí seo ? ” Agus de chionn é bheith ag fógairt dhea-scéal Íosa agus an aiséirí , ís é a deireadh cuid eile acu : “ Déithe éigin iasachta atá sé a fhógairt , is cosúil . ”
+44017019	cén		Rug siad air agus sheol chun an Airiopagas é , á rá : “ An miste dúinn a fhiafraí cén teagasc nua seo atá ar siúl agat ?
+44019003	cén		“ Agus cén baisteadh a fuair sibh más ea ? ” ar sé . “ Baisteadh Eoin a tugadh dúinn , ” ar siadsan .
+44019015	cé		ach d'fhreagair an spiorad mallaithe iad : “ Tá aithne agam ar Íosa agus tá eolas agam ar Phól ach cé sibhse ? ”
+44019035	~		Faoi dheireadh chuir cléireach an bhaile an slua chun suaimhnis agus labhair sé leo : “ A mhuintir Eifeasas , ” ar seisean , “ an bhfuil duine ar bith nach bhfuil a fhios aige gurb í cathair Eifeasas is caomhnóir ar theampall Airtimis Móire agus ar a híomhá a thit ó neamh ?
+44021013a	cad		Ach d'fhreagair Pól ansin : “ Cad ab áil libh bheith ag olagón mar sin 
+44021013b	~		agus ag scóladh an chroí ionam ? Táim ullamh ní amháin le mo cheangal ach leis an mbas féin a fhulaingt ar son ainm an Tiarna Íosa in Iarúsailéim . ”
+44021022	Cad		Cad atá le déanamh mar sin ? Mar níl aon amhras ná go gcloisfidh siad go bhfuil tú tagtha .
+44021033a	cérbh		Chuaigh an ceannasaí suas chuige agus ghabh é agus d'ordaigh é a cheangal le dhá shlabhra . D'fhiafraigh sé ansin cérbh é 
+44021033b	cad		agus cad a bhí déanta aige .
+44022007	cad chuige		Thit mé go talamh agus chuala mé an guth á rá liom : ‘ A Shóil , a Shóil , cad chuige a bhfuil tú do mo ghéarleanúint ? ’
+44022008	Cé		‘ Cé thú féin , a thiarna ? ’ arsa mise á fhreagairt . ‘ Is mé Íosa Nazórach atá agat á ghéarleanúint , ’ ar seisean .
+44022010	Cad		Dúirt mé ansin : ‘ Cad atá le déanamh agam , a thiarna ? ’ Agus dúirt an Tiarna liom : ‘ Éirigh i do sheasamh , lean ort go Damaisc agus inseofar ansin duit gach ní atá ceaptha duit le déanamh . ’
+44022016	cad		Anois cad é an mhoill atá ort ? Éirigh i do sheasamh , déantar thú a bhaisteadh agus do pheacaí a ní díot féin trí ghlaoch ar a ainm . ’ ”
+44022026	Cad		Nuair a chuala an taoiseach céad an méid sin , chuaigh sé go dtí an ceannasaí : “ Cad a mheasann tú a dhéanamh ? ” ar seisean leis , “ is saoránach Rómhánach é siúd . ”
+44023003	~		Ansin d'iompaigh Pól air : “ Buailfidh Dia thusa , a bhalla aolta , ” ar seisean . “ An bhfuil tú i do shuí ansin ag tabhairt breithiúnais ormsa de réir an dlí agus tú féin ag sárú an dlí ag ordú mo bhualadhsa ? ”
+44023009	~		Mhéadaigh ar an ngleo , agus d'éirigh roinnt scríobhaithe de chuid na bhFairisíneach agus thosaigh siad ag maíomh go colgach : “ Ní fhaighimid aon locht ar an bhfear seo . Más ea féin gur labhair aingeal nó spiorad leis … ”
+44023019	Cén		Rug an ceannasaí ar láimh ar an ngasúr , chuaigh i leataobh leis agus d'fhiafraigh de : “ Cén scéal atá agat le hinsint dom ? ”
+44026008	Cén fáth		Cén fáth gur dochreidte libhse mar scéal é go dtógann Dia na mairbh ? ”
+44026014	cad		Thiteamar go léir chun talaimh agus chuala mé an guth á rá liom sa teanga Eabhra : ‘ A Shóil , a Shóil , cad uime a bhfuil tú do mo ghéarleanúint ? Goilleann sé ort a bheith ag speachaíl in aghaidh na mbrod . ’
+44026015	Cé		‘ Cé thú féin , a thiarna ? ’ arsa mise . Agus dúirt an Tiarna : ‘ Is mé Íosa atá agat á ghéarleanúint .
+45002017	~		Má thugann tusa Giúdach ort féin ; agus go bhfuil do sheasamh ar an dlí ; agus tú muiníneach as Dia agus fios a thola agat ;
+45002021	~		tusa , más ea , a bhíonn ag múineadh an fhir thall , nach múinfeá thú féin ? Bíonn tú ag fógairt gan goid a dhéanamh , ach an mbíonn tú féin ag goid ?
+45002028	~		Mar ní fíorGhiúdach an té atá ina Ghiúdach ar an taobh amuigh , ná ní fíorthimpeallghearradh an marc lasmuigh ar an gcolainn .
+45003001a	cad		Cad é an buntáiste atá ag an nGiúdach mar sin ? 
+45003001b	cad		Nó cad é an tairbhe dó an timpeallghearradh ?
+45003003	~		Má bhí féin cuid acu mídhílis , an gcuirfidh a mídhílseacht sin dílseacht Dé ar ceal ?
+45003005	cad		Ach má dhéanann ár gcuid urchóide fíréantacht Dé a léiriú , cad a déarfaimid ? An bhfuil Dia éagórach má agraíonn sé a chuid feirge orainn ? i dtéarmaí an duine atáim ag caint .
+45003006	conas		Níl ná éagórach , mar dá mbeadh conas a thabharfadh Dia breith ar an domhan ?
+45003007a	~		Mar sin féin , má dhéanann mo chuid éithighse fírinne Dé a mhéadú agus cur lena glóir , 
+45003007b	cén fáth		cén fáth a dtugtar breith pheacaigh fós orm ?
+45003008	~		Mar an amhlaidh a “ dhéanfaimis an t‑olc chun go dtiocfadh an mhaith as ” , teagasc a chasann daoine áirithe linn mar mhilleadh ar ár gclú . Is maith atá a ndaoradh tuillte acu siúd .
+45003009	cad		Cad atá le rá mar sin ? An fearr an bhail atá orainne ná mar atá orthusan ? Ní fearr ar chor ar bith , mar chuireamar i leith Giúdach agus Gréagach cheana féin go bhfuil siad uile faoi smacht an pheaca
+45003027a	cá		Cá bhfuil do chuid mórála , mar sin ? Tá an doras dúnta uirthi . 
+45003027b	cad		Agus cad é an saghas dlí a dhún an doras uirthi ? 
+45003027c	~		Dlí na n‑oibreacha an ea ? Ní hea go deimhin , ach dlí an chreidimh .
+45004001	Cad		Cad a déarfaimid , mar sin , faoi Abrahám , ár sinsear de réir na feola ?
+45004003	cad		mar cad é seo a deir an scrioptúr : “ Chreid Abrahám Dia agus áiríodh é sin mar fhíréantacht aige . ”
+45004010	conas		Ach conas a áiríodh ? Tar éis a thimpeallghearrtha nó sular timpeallghearradh é ? Ní tar éis a thimpeallghearrtha é ach roimhe sin ,
+45005010	~		Agus má rinneadh athmhuintearas idir sinn agus Dia trí bhás a Mhic agus sinn inár naimhde dó , nach móide go mór anois agus an t‑athmhuintearas déanta go saorfar sinn trína bheatha ?
+45005021	~		ionas , mar a tháinig an peaca i réim tríd an mbás , go dtiocfadh an grásta i réim tríd an bhfíréantacht chun na beatha síoraí trí Íosa Críost ár dTiarna .
+45006001	Cad		Cad a déarfaimid mar sin ? An leanfaimid den pheaca chun go méadódh ar an ngrásta ?
+45006002	conas		Nár lige Dia sin ! Sinne a fuair bás mar leis an bpeaca , conas a mhairfimid fós ann ?
+45006015	Cad é mar		Cad é mar sin ? An ndéanfaimid an peaca nuair nach faoin dlí atáimid ach faoi ghrásta ? Nár lige Dia sin !
+45006021	cad		Agus cad é an toradh a bhíodh agaibh an uair sin ar nithe ar náir libh anois iad ? Mar is é an bás a ndeireadh siúd .
+45007007	Cad		Cad a déarfaimid mar sin ? Gur peaca é an dlí ? Ní hea ar chor ar bith . Mar sin féin ní chuirfinnse eolas ar an bpeaca murach an dlí . Ní thuigfinn cad is saint ann , ach gur dhúirt an dlí “ ná santaigh ” .
+45007024	Cé		Ó nach mise an díol trua ! Cé a fhuasclóidh ón trú seo coirp mé ?
+45008024	conas		Le dóchas a slánaíodh sinn . Ach an dóchas a fheictear ní dóchas é feasta , mar conas a bheadh duine ag tnúth le rud a bheadh ina fhianaise ?
+45008031a	cad		Cad a déarfaimid faoin méid sin , más ea ? 
+45008031b	cé		Má tá Dia ar ár dtaobh , cé atá inár gcoinne ?
+45008032	cén fáth		Nuair nár lig sé uaidh a mhac féin ach é a thabhairt suas ar mhaithe linne go léir , cén fáth nach mbronnfaidh sé gach grásta eile orainn ina theannta chomh maith ?
+45008033	cé		Agus cé a dhéanfaidh lucht tofa Dé a chúisiú ?
+45008034	cé		Nuair atá Dia dár saoradh , cé a dhéanfaidh ár ndaoradh ? An é Críost a dhéanfaidh é , an té a fuair bás agus a tógadh ó mhairbh , atá fós ar dheis Dé agus atá ag idirghuí ar ár son ?
+45008035	Cé		Cé a scarfaidh ó ghrá Chríost sinn ? Trioblóid an ea ? nó cruatan , nó géarleanúint , nó gorta , nó nochtacht , nó guais , nó an claíomh féin ?
+45009014	Cad		Cad a déarfaimid mar sin ? Go bhfuil éagóir ag baint le Dia , an ea ?
+45009019a	cad		Déarfaidh tú liom , ní foláir : “ Cad é an gearán atá aige ar dhaoine , más ea , 
+45009019b	cé		mar cé a fhéadfaidh cur in aghaidh a thola ? ”
+45009020a	cé		Airiú , cé hé tusa , a dhuine , le bheith tagarthach le Dia ? 
+45009020b	~		An ndéarfaidh an pota leis an bpotadóir : 
+45009020c	cad		“ Cad ab áil leat mé a dhéanamh mar seo ? ”
+45009021	~		An amhlaidh nach bhfuil d'údarás ag an gcriadóir ar an gcré áras chun onóra agus áras chun neamhonóra a dhéanamh den chnapán céanna ?
+45009022	~		Agus , nuair ab áil le Dia a chuid feirge a thaispeáint agus a chuid cumhachta a léiriú , má chuir sé suas go fada foighneach leis na hárais a bhí ina ndíol feirge agus iad ar bhealach a mbasctha ,
+45009023	~		d'fhonn saibhreas a ghlóire a léiriú do na hárais a bhí ina ndíol trócaire agus a bhí ullamh ó thús aige le haghaidh na glóire sin ?
+45009024	~		Mar is sinne a ghlaoigh sé ní as measc na nGiúdach amháin ach as measc na ngintlithe chomh maith .
+45009030	Cad		Cad a déarfaimid mar sin ? An méid seo : na gintlithe nach raibh aon tóir ar fhíréantacht acu , bhain siad amach í , an fhíréantacht a thagann ó chreideamh .
+45009032	cad fáth		Agus cad é an fáth ? De bhrí nach ar chreideamh a bhí siad ag brath ach ar ghníomhartha . Bhuail siad a gcos faoin gceap tuisle
+45010006	Cé		Ach is é a deir an fhíréantacht a thagann ó chreideamh : Ná habair leat féin : “ Cé a rachaidh suas ar neamh ? ” ( is é sin le rá chun Críost a thabhairt anuas ) ;
+45010007	Cé		nó : “ Cé a rachaidh síos sa duibheagán ? ” ( is é sin le rá chun Críost a thabhairt aníos ó mhairbh ) .
+45010008	cad		Ach cad a deir sé ? “ Tá an briathar i ngar duit , i do bhéal agus i do chroí ” ( is é sin le rá briathar an chreidimh atáimidne a fhógairt ) .
+45010014a	conas		Ach conas a ghlaofaidís ar an té nár chreid siad ann ? 
+45010014b	conas		Agus conas a chreidfidís sa te nár chuala siad trácht air ? 
+45010014c	conas		Agus conas a chloisfidís trácht air gan duine á fhógairt dóibh ?
+45010015	conas		Agus conas a dhéanfadh daoine é a fhógairt mura gcuirtear amach iad chuige sin ? Mar atá scríofa : “ Nach álainn iad cosa lucht fógartha an dea-scéil . ”
+45010016	cé		Ach ní gach aon duine a ghéill don dea-scéal , de réir mar a deir Íseáia : “ A Thiarna , cé a chreid ár dteagasc ? ”
+45011004	cad		Agus cad é an freagra a thug Dia air ? “ Choimeád mé dom féin seacht míle fear nár fheac a nglúin do Bhál . ”
+45011007	cad		Cad a thagann de sin ? Tá , an ní a raibh clann Iosrael ar a thóir , ní fhuair siad é ; ach an mhuintir thofa , fuair siad agus cruadh an chuid eile ,
+45011015	cad		Mar , má tugadh an domhan chun athmhuintearais trína gcaitheamh amach , cad a thiocfaidh dá nglacadh ar ais ach beatha ó mhairbh ?
+45011018	~		ná bí á mhaíomh sin ar na craobhacha scoite . Ach má tá maíomh le déanamh agat , bí ag maíomh nach tusa atá ag iompar na fréimhe ach gurb í an fhréamh atá do d'iomparsa .
+45011033a	~		Cad é doimhneas ollmhaitheasaí agus eagna agus eolas Dé ! Nach do-thuigthe atá a bhreithiúnais agus nach dorianta atá a bhealaí !
+45011033b	~		
+45011034a	cé		“ Cé a thuig aigne an Tiarna ? 
+45011034b	cé		Nó cé a bhí riamh ina chomhairleoir aige ? ”
+45011035	Cé		Nó “ Cé a thug rud riamh dó go bhfaighidh sé a chúiteamh ? ”
+45014004	cé		Agus cé hé tusa chun breith a thabhairt ar sheirbhíseach duine eile ? Seasann sé nó titeann sé i láthair a mháistir féin . Agus is seasamh a dhéanfaidh sé mar tá sé ar chumas an Tiarna é a choimeád ina sheasamh .
+45014010a	cad		Tusa , más ea , cad ab áil leat ag tabhairt breithe ar do bhráthair ? 
+45014010b	cad		Nó tusa , cad ab áil leat drochmheas a bheith ar do bhráthair agat ? Mar caithfimid go léir seasamh os comhair suí breithiúnais Dé ,
+46001020a	cá		Cá bhfuil an t‑eagnaí ? 
+46001020b	cá		Cá bhfuil an fear léinn ? 
+46001020c	Cá		Cá bhfuil aighneasóir na haoise seo ? Nach bhfuil Dia tar éis díth céille a dhéanamh d'eagna an tsaoil ?
+46002011	Cé		Cé a thuigeann cúrsaí an duine ach spiorad an duine féin istigh ann ? Ar an gcuma chéanna níl aon duine a thuigeann cúrsaí Dé ach Spiorad Dé .
+46002016a	cé		Óir “ cé a thuigeann aigne an Tiarna ? 
+46002016b	cé		Nó cé a thabharfaidh comhairle dó ? ” Tá aigne Chríost againne , áfach .
+46003005a	céard		Céard é Apollós 
+46003005b	céard		nó céard é Pól ? Níl iontu ach na seirbhísigh trínar chreid sibh , gach duine acu mar a dháil an Tiarna air :
+46004007a	Cé		Cé a thugann an seasamh ar leith duitse ? 
+46004007b	Céard		Céard atá agat nach bhfuair tú ? 
+46004007c	cad		Agus más amhlaidh a fuair tú é , cad ab áil leat bheith ag maíomh as faoi mar nach bhfuair tú é .
+46004021	cé acu		Cé acu is rogha libh , mar sin , mé a theacht chugaibh le slat nó mé a theacht le grá agus le spiorad na séimhe ?
+46005002	~		is é sin le rá go bhfuil duine agaibh i lánúnas lena leasmháthair . Agus sibhse lán de mhórchúis ! Ag déanamh bróin ba chóra daoibh a bheith chun go n‑ardófaí uaibh an té a rinne amhlaidh .
+46005012	Cad		Cad ab áil liomsa breith a thabhairt ar an muintir atá lasmuigh ? Tabharfaidh Dia féin breith orthu siúd .
+46006001	~		Nuair a bhíonn cúis ag duine agaibh ar dhuine eile an mbíonn sé d'éadan air an scéal a chur faoi bhreith na neamhfhíréan in ionad na naomh ?
+46006003	~		Nach bhfuil a fhios agaibh go dtabharfaimid breith ar na haingil féin gan trácht ar nithe saolta ?
+46006004	cad		Dá bhrí sin má bhíonn cúrsaí saolta le réiteach agaibh , cad ab áil libh iad a chur faoi bhreithiúnas daoine nach bhfuil seasamh ar bith sa phobal Críostaí acu ?
+46006007a	Cén fáth		Is locht oraibh a bheith ag dul chun dlí le chéile ar chor ar bith . Cén fáth nach gcuireann sibh suas leis an éagóir ? 
+46006007b	Cén fáth		Cén fáth nach bhfulaingíonn sibh leis an bhfeall ?
+46006009	~		An é nach dtuigeann sibh nach bhfaighidh drochdhaoine ríocht Dé mar oidhreacht ? Ná bíodh aon dul amú oraibh : drúisigh ná íoltóirí ná adhaltraigh ná piteoga ná sodamaigh
+46006016	~		Nach bhfuil a fhios agaibh an té a bhíonn go dlúth i bpáirt le meirdreach go mbíonn sé d'aon chorp léi ? Mar a deir an scrioptúr : “ Aon cholainn amháin a bheidh sa bheirt acu . ”
+46006019	~		Nach bhfuil a fhios agaibh gur teampall bhur gcorp ag an Spiorad Naomh atá istigh ionaibh mar bhronn Dia oraibh é ? Ní libh féin sibh
+46007016a	cá		Agus cá bhfios duit a bhean , go sábhálfaidh tú d'fhear céile ? 
+46007016b	cá		Agus cá bhfios duitse , a dhuine , go sábhálfaidh tú do bhean ?
+46009007a	Cé		Cé a théann riamh ag saighdiúireacht ar a chostas féin ? 
+46009007b	Cé		Cé a chuireann fíonghort ach nach n‑itheann cuid dá thoradh ? 
+46009007c	Cén		Nó cén t‑aoire a dhéanann aoireacht ach nach n‑ólann bainne a thréada féin ?
+46009018	Cén		Cén tuarastal atá ag dul dom mar sin ? Tá , go ndéanaim an dea-scéal a fhógairt saor in aisce gan feidhm ar bith a bhaint as an gceart is liom ón dea-scéal .
+46010019a	Céard		Céard atá i gceist agam ? 
+46010019b	~		Go bhfuil brí ar bith leis an mbia a ofráiltear d'íola 
+46010019c	~		nó go bhfuil brí ar bith leis an íol ?
+46010029	Cén fáth		ní hé do choinsias féin atá i gceist agam ach coinsias an fhir thall . Cén fáth a mbeadh mo shaoirse-sé á meas de réir choinsias duine eile ?
+46010030	cén fáth		Má chaithimse mo chuid go buíoch cén fáth a gcáinfí mé mar gheall ar bhia a altaím ?
+46011022	Cad		Nach bhfuil tithe de bhur gcuid féin agaibh chun bheith ag ithe agus ag ól iontu ? Nó an é is áil libh eaglais Dé a dhíspeagadh agus na boicht a náiriú ? Cad a déarfaidh mé libh mar sin ? Sibh a mholadh dá bharr , an ea ? Go deimhin ní mholfaidh mé .
+46012017a	cá		Dá mba shúil an corp iomlán , cá mbeadh an éisteacht ? 
+46012017b	cá		Nó dá mba éisteacht an t‑iomlán cá mbeadh an boladh ?
+46012019	cá		Dá mba aon bhall amháin an t‑iomlán acu , cá mbeadh an corp ?
+46014006	cén		Cuirim i gcás , a bhráithre , go dtagaimse chugaibh ag labhairt i dteangacha , cén tairbhe daoibh mé mura mbíonn foilsiú éigin nó eolas nó tairngreacht nó teagasc éigin agam le tabhairt daoibh ?
+46014007	conas		Na huirlisí ceoil féin , nithe neamhbheo ar nós na feadóige agus na cruite , mura mbíonn dealú idir na nótaí iontu , conas a aithneofar a mbeidh á sheinm orthu ?
+46014008	cé		Agus má thugann an stoc uaidh glór éiginnte , cé a ullmhóidh é féin chun catha ?
+46014009	conas		Sibhse mar an gcéanna , mura labhraíonn sibh go soiléir sa teanga , conas a thuigfear a mbeidh á rá ? Ag caint san aer a bheidh sibh .
+46014015	cad		Cad atá le déanamh mar sin ? Tá , go ndéanfaidh mé guí le mo spiorad ach go ndéanfaidh mé guí le m'intleacht chomh maith . Canfaidh mé le mo spiorad ach canfaidh mé le m'intleacht chomh maith .
+46014016	conas		Más le do spiorad amháin a mholann tú conas a chuirfidh aon ghnáthdhuine “ Amen ” le d'altú nuair nach bhfuil a fhios aige cad atá tú a rá ?
+46014026	cad		Cad atá le déanamh mar sin , a bhráithre ? Tá , nuair a thagann sibh i gceann a chéile bíonn ag gach duine salm nó teagasc nó foilsiú nó caint i dteanga nó míniú ar an gcaint sin ; ach bíodh gach ní acu ag treisiú leis an gcomhluadar .
+46014036	~		An amach uaibhse a tháinig briathar Dé ? nó an chugaibhse amháin a tháinig sé ?
+46015012	cad		Ós é atá á fhógairt go bhfuil Críost éirithe ó mhairbh , cad a bheir do chuid agaibhse a rá nach bhfuil aiséirí na marbh ann ar chor ar bith ?
+46015029a	~s		Rud eile de , 
+46015029b	cén		cén fheidhm a bhíonn leo siúd a bhaistear thar ceann na marbh ? 
+46015029c	cad chuige		Más rud é nach n‑aiséiríonn na mairbh ar chor ar bith , cad chuige a mbaistear thar a gceann iad ?
+46015030a	~		
+46015030b	cad chuige		Agus cad chuige a dtéimidne i mbaol gach uair den lá ?
+46015032	cad		Mura mbeadh agam ach aidhmeanna daonna nuair a chuaigh mé ag troid le beithígh allta in Eifeasas , cad é an tairbhe dom é ? Más rud é nach n‑aiséiríonn na mairbh “ bímis ag ithe agus ag ól mar go mbeidh an bás amárach againn . ”
+46015035a	conas		Fiafróidh duine éigin : “ Conas a aiséireoidh na mairbh ? 
+46015035b	Cén sórt		Cén sórt coirp a bheidh acu ag teacht ? ”
+46015055a	cá		“ Tá an bás slogtha siar ag an mbua . Anois , a bháis , cá bhfuil do bhua ? 
+46015055b	cá		A bháis , cá bhfuil do chealg ? ”
+47002002	cé		Mar má chuirimse brón oraibh cé atá ann chun áthas a chur orm ach an duine céanna ar chuir mé brón air ?
+47002016	cé		do bhuíon acu is boladh marfach é a sheolann chun báis iad , agus don bhuíon eile is boladh beomhar é a sheolann iad chun na beatha . Agus cé atá in ann chun na hoibre seo ?
+47003008	~		nach mó go mór an niamhracht a bheidh leis an gcóras spioradálta ?
+47003009	~		Má bhí niamhracht ag gabháil le córas ár ndaortha , nach móide go mór go mbeadh niamhracht ag gabháil le córas ár bhfíréanaithe ?
+47006014a	Cén		Ná téigí i bpáirtíocht éagothrom le díchreidmhigh . Cén pháirt atá ag an bhfíréantacht leis an urchóid ? 
+47006014b	Cén		Cén bhaint atá ag an solas leis an dorchadas ?
+47006015a	Cén		Cén cumann atá ag Críost le Beiliar ? 
+47006015b	Cén		Cén chuid atá ag an gcreidmheach leis an díchreidmheach ?
+47006016	Cén		Cén ceangal atá ag teampall Dé le déithe bréige ? Mar is teampall Dé bheo sinne , de réir mar atá ráite ag Dia féin : “ Cónóidh mé agus siúlfaidh mé ina measc , beidh mé i mo Dhia acu agus beidh siadsan ina bpobal agamsa .
+47011011	cén fáth		Agus cén fáth ? Toisc nach bhfuil cion agam oraibhse , an ea ? Tá a fhios ag Dia go bhfuil .
+47011029a	Cé		Cé bhaintear dá threoir nach mbímse scólta mar gheall air ?
+47011029b	~		
+47012013	Cad		Cad é an buntáiste a bhí ag na heaglaisí eile oraibh ach amháin nach raibh mise i mo mhuirín oraibh ? Maithigí dom an éagóir sin !
+47012017	~		An amhlaidh a rug mé buntáiste oraibh trí dhuine éigin dár sheol mé chugaibh ?
+48002014	conas		Ach nuair a thug mé féin faoi deara nach raibh siad ionraic faoi fhírinne an dea-scéil , dúirt mé le Céafas i bhfianaise chách : “ Má mhaireann tusa ar an nós gintlí in áit an nóis Ghiúdaigh ar a shon gur Giúdach tú féin , conas is féidir duit mar sin a thabhairt ar na gintlithe an nós Giúdach a leanúint ? ”
+48003001	cé		A Ghalatacha gan chiall , cé a d'imir an draíocht oraibh tar éis an léiriú gléineach a tugadh daoibh ar Íosa Críost céasta ?
+48003019	cad chuige		Cad chuige an dlí mar sin ? Cuireadh leis an gconradh é toisc na gcionta nó go dtiocfadh an síol úd ar tugadh an gealltanas dó . Ordaíodh trí bhíthin aingeal é le cabhair idirghabhálaí .
+48004009a	cad		Anois , áfach , tá aithne curtha agaibh ar Dhia nó , ba chirte a rá , tá aithne curtha ag Dia oraibh . Cad ab áil libh , dá bhrí sin , bheith ag filleadh ar na dúile dearóile suaracha úd d'fhonn dul ag daoirseacht dóibh athuair ?
+48004009b	~		
+48004010	~		Agus sibh ag comóradh laethanta féile agus míonna agus ráithí agus blianta !
+48004015	Cad		Cad a d'imigh ar bhur gcroíúlacht ? Ar m'fhocal daoibh go sracfadh sibh bhur súile amach agus iad a thabhairt dom , dá mb'fhéidir é .
+48004021	~		Sibhse arb áil libh bheith faoi réir an dlí , ceist agam oraibh : an gcloiseann sibh a bhfuil le rá ag an dlí ?
+48004030	cad		Ach cad é seo a deir an scrioptúr : “ Caith amach an daorbhean agus a mac , mar ní bheidh aon pháirt go deo ag mac na daormhná in oidhreacht mhac na saormhná . ”
+48005007a	Cé		Bhí sibh ag dul chun cinn go hálainn . Cé a chuir bac oraibh géilleadh don fhírinne ?
+48005007b	~		
+48005011	Cén fáth		I dtaca liomsa de , a bhráithre , más fíor go mbím fós ag fógairt timpeallghearrtha , cén fáth a bhfuilim fós do mo ghéarleanúint ? Dá mbeinn ag déanamh amhlaidh bheadh scannal na croise ar neamhní .
+49004009	Cad		Cad tá le tuiscint as an “ dul in airde ” sin ach gur tháinig sé anuas chomh maith ar an domhan íochtarach seo ?
+50001018	~		Ach nach cuma é ? Mar , cibé acu le cur i gcéill nó le dáiríreacht é , is é Críost atá á fhógairt ar aon chuma agus sin é an rud a chuireann áthas orm ; agus leanfaidh mé ag déanamh áthais mar gheall air
+50001021	~		Mar is é Críost is beatha domsa agus ba shochar dom an bás .
+51002020	cad		Ós rud é go bhfuil sibh básaithe mar aon le Críost agus reidh le dúile an tsaoil , cad ab áil libh bheith ag géilleadh do rialacha ar nós :
+52002019	cén		Tar éis an tsaoil , cén t‑ábhar dóchais agus áthais atá againn ach sibhse ? Cén chraobh a bheidh againn le maíomh aisti os comhair an Tiarna Íosa Críost , nuair a thiocfaidh sé , ach sibhse ?
+52003009	Cén		Cén buíochas is féidir dúinn a ghabháil le Dia as a bhfuil de lúcháir curtha orainn agaibh os comhair ár nDé ?
+54003005	conas		Mura bhfuil duine in ann a theaghlach féin a stiúradh , conas a dhéanfaidh sé Eaglais Dé a riaradh ?
+54006007a	~		Mar níor thugamar aon ní isteach sa saol ná ní féidir dúinn aon ní a thógáil as .
+54006007b	~		
+58001005	cé acu		Óir cé acu de na haingil a ndúirt sé leis riamh : “ Is tú mo Mhac , inniu a ghin mé thú ” ; agus arís : “ Beidh mé i m'Athair aige agus beidh seisean ina Mhac agamsa ” ?
+58001013	cé acu		Agus cé acu de na haingil a ndúirt sé leis riamh : “ Suigh ar mo láimh dheis go gcuirfidh mé do naimhde mar stól faoi do chosa ” ?
+58001014	~		Nach spioraid fhriothála iad go léir a chuirtear amach ag déanamh seirbhíse ar son na ndaoine a gheobhaidh an slánú mar oidhreacht .
+58002003	conas		conas a éalóimidne as má bhímid ar nós cuma liom faoina chomhmhór sin de shlánú [ agus a gealladh dúinn ] . Óir is trí bhéal an Tiarna a fógraíodh é ar dtús agus deimhníodh dúinn é ansin tríd an muintir a chuala é .
+58002006a	cad		Thug duine éigin dearbhú dúinn air seo áit éigin , á rá : “ Cad é an duine go mbeadh cuimhne agat air 
+58002006b	~		nó mac an duine go ndéanfá cúram de ?
+58003016	~		caithfear a fhiafraí cérbh iad na daoine a chuala é agus a rinne ceannairc ina aghaidh . Nárbh iad na daoine go léir iad a d'fhág an Éigipt faoi cheannas Mhaois ?
+58003017	cérbh		Agus cérbh iad na daoine a raibh sé i bhfeirg leo ar feadh daichead bliain ? Nárbh iad na daoine a rinne peaca agus a thit fuar marbh ina gcorpáin san fhásach ?
+58003018	cérbh		Agus cérbh iad na daoine ar thug sé mionn dóibh nach rachaidís isteach ina áitreabh suaimhnis choíche ach na daoine a bhí easumhal dó .
+58006004	~		Na daoine a soilsíodh tráth agus a bhlais an tabhartas neamhaí agus a fuair a gcion féin den Spiorad Naomh
+58007011	cén fáth		Fuair an pobal tofa dlí a bhí ceangailte go dlúth leis an tsagartacht Léivíteach . Más ea , dá mbeadh slánú iomlán le fáil tríd an tsagartacht sin cén fáth a mbeadh gá fós lena athrach sin ar fad de shagart , is é sin , ceann nach mbeadh ar nós Árón ach ar nós Mheilcizidic .
+58009014	~		Más ea , nach bhfuil fuil Chríost níos cumhachtaí go mór ná é sin ? Óir de bharr a spioraid bhuanmharthanaigh d'ofráil Íosa é féin chun Dé ina íobairt gan smál . Glanfaidh sé bhur gcoinsias ó pheacaí marfacha ionas go mbeidh sé ar bhur gcumas seirbhís a dhéanamh do Dhia beo .
+58010001	~		Scáil éideimhin de na maitheasaí atá le teacht is ea an dlí ; ní íomhá fhírinneach í , áfach , de na nithe neamhaí . Mar sin de , bíodh go n‑ofráltar na híobairtí céanna bliain i ndiaidh bliana , ní féidir leis an dlí an lucht ofrála a shlánú go hiomlán ar aon chor .
+58010029a	~		Más ea , nach dóigh libh gur measa go mór ná sin an pionós a chuirfear ar an duine a shatail ar Mhac Dé agus a chaith drochmheas ar fhuil an conartha ar naomhaíodh é léi agus a thug masla do Spiorad an ghrásta ?
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	céard		Agus céard eile céard a déarfaidh mé ? Níl mo dhóthain ama agam chun cuntas a thabhairt ar Ghideón , ar Bhárác , ar Shamsón , ar Iaftá , ar Dháiví , ar Shamúéil agus ar na fáithe .
+58012007	Cá		Bígí buanseasmhach , mar sin , ionas go ndéanfar sibh a oiliúint ; is mar chlann mhac atá Dia ag caitheamh libh . Cá bhfuil an mac nach gcuireann a athair smacht air ?
+58012009	~		Lena chois sin , nuair a chuireadh ár n‑aithreacha nádúrtha smacht orainn , bhímis urramach dóibh . Nach mó go mór ná sin is ceart dúinn bheith umhal dár n‑athair spioradálta agus an bheatha a shealbhú ?
+58012025	~		Féachaigí chuige nach ndiúltóidh sibh éisteacht leis an té atá ag labhairt libh . Óir más rud é nár éalaigh na daoine sin slán a dhiúltaigh éisteacht leis an té a thug foláireamh dóibh ar talamh is lú go mór ná sin an chaoi éalaithe a bheidh againne má thugaimid ár gcúl leis an té a thugann foláireamh dúinn ó neamh .
+58013006	Cad		Mar sin de , ní miste dúinn a rá go muiníneach : “ Is é an Tiarna a thugann cabhair dom , ní bheidh eagla dá laghad orm . Cad is féidir le haon duine a dhéanamh orm ? ”
+59002006	~		Sibhse ámh , thug sibh easonóir don duine bocht . Nach iad lucht an tsaibhris a dhéanann leatrom oraibh ? Nach iadsan a tharraingíonn os comhair na cúirte sibh ?
+59002014	Cén		Cén tairbhe é , a bhráithre liom , má deir duine go bhfuil creideamh aige , ach é gan dea-oibreacha ? An féidir don chreideamh é a shábháil ?
+59002016a	~		agus go ndeir duine agaibhse leo : “ Imígí faoi shíocháin ; faighigí goradh agus ithigí bhur sáith , ” agus nach dtugann sibh riachtanais na beatha dóibh , 
+59002016b	cén		cén tairbhe é ?
+59002018	~		Ach déarfaidh duine éigin : “ Tá creideamh agatsa agus tá dea-oibreacha agamsa . ” Taispeáin dom do chreideamh in éagmais do dhea-oibreacha , agus taispeánfaidh mise mo chreideamh duitse trí mo dhea-oibreacha .
+59002021	~		Nár fíréanaíodh Abrahám ár n‑athair trína dhea-oibreacha nuair a d'ofráil sé a mhac Íosác ar an altóir ?
+59003013	Cé		Cé tá eagnaí agus tuisceanach in bhur measc ? Taispeánadh sé a dhea-oibreacha in umhlaíocht na heagna lena iompar fónta .
+59003017	~		Ach an eagna ó lastuas tá sí ar dtús íon , ansin síochánta , cineálta , sochomhairlithe , lán de thrócaire agus de dhea-thorthaí , gan leathchuma , gan cur i gcéill .
+59004001a	cad		Cad faoi deara cogaí 
+59004001b	~		agus cathanna a bheith in bhur measc ? Nach é seo , go bhfuil bhur n‑ainmhianta ag troid le chéile in bhur mbaill bheatha ?
+59004012	cé		Níl ach aon reachtóir agus aon bhreitheamh amháin ann , agus tá cumhacht saortha agus scriosta aigesean . Ach cé hé tusa le breith a thabhairt ar do chomharsa ?
+59004014	céard		Níl a fhios agaibh céard a tharlóidh amárach . Céard é bhur mbeo ? Níl ionaibh ach mar ghal a thaibhsíonn ar feadh tamaill bhig agus a théann ar ceal ansin .
+60002020	Cén		Cén chreidiúint é má dhéanann sibh rud as an tslí agus go n‑iompraíonn sibh bhur bpionós le foighne ? Ach má dhéanann sibh an mhaith agus go bhfulaingíonn sibh dá bharr le foighne , tuilleann sin gnaoi Dé .
+60003013	cé		Agus cé a dhéanfaidh díobháil daoibh má tá cíocras oraibh chun na maitheasa ?
+60004017	cén		Óir tá an uain tagtha don bhreith tosú le teaghlach Dé ; agus más linne a thosaíonn sí , cén chríoch a bheidh ar an muintir nach ngéilleann do shoisceal Dé ?
+60004018	cad		Agus “ más ar éigean a shábhálfar an fíréan , cad a tharlóidh don éagráifeach agus don pheacach ? ”
+61003004	Cá		agus á rá : “ Cá bhfuil gealltanas a theachta ? Mar ón am a ndeachaigh na hAithreacha chun suain maireann gach ní díreach mar a bhí siad ó thús na cruthaíochta . ”
+61003011	cén sórt		Ó tharla go bhfuil gach ní le scriosadh ar an gcuma sin , cén sórt daoine ar cheart daoibh a bheith maidir le hiompar naofa agus le cráifeacht ,
+62002022	Cé		Cé tá bréagach murab é sin a shéanann gurb é Íosa an Críost ? Seo é an tAinchríost , an té a shéanann an tAthair agus an Mac .
+62003012	cad chuige		Ná bígí fearacht Cháin , ar den mhac mallachta é , agus a mharaigh a dheartháir féin . Agus cad chuige ar mharaigh sé é ? Mar gurb éagórach a shaothar féin ; ba shaothar cóir áfach saothar a dhearthár .
+62003017	conas		Duine a bhfuil maoin an tsaoil aige agus go n‑airíonn a bhráthair ar an gcaolchuid , agus go gcruann a chroí air , conas a bheadh grá Dé go buan sa duine sin ?
+62004020	~		Má deir duine : “ Mo ghrá-sa Dia ” agus gur fuath leis a bhráthair , is bréagach é , mar an té nach dtugann grá don bhráthair ar léir dó é , ní féidir leis grá a thabhairt do Dhia nach bhfaca sé riamh .
+62005005	Cé		Cé sháraíonn an saol murab é an té a chreideann gurb é Íosa Mac Dé ?
+66005002	Cé		agus chonaic mé aingeal tréan ag fógairt de ghlór ard : “ Cé hé ar fiú é an scrolla a oscailt agus a shéalaí a bhriseadh ? ”
+66006010a	cá fada		Agus ghlaoigh siad de ghuth ard : “ A Thiarna uasail , atá naofa fírinneach , cá fada go ndéana tú breithiúnas 
+66006010b	~		agus díoltas ar son ár gcuid fola ar áitritheoirí an domhain ? ”
+66006017	cé		óir tháinig lá mór a fheirge , agus cé a fhéadann é a sheasamh ? ”
+66007013a	cé		Ansin labhair duine de na seanóirí agus dúirt sé liom : “ Iad seo atá gléasta in éidí geala , cé hiad féin 
+66007013b	cad as		agus cad as ar tháinig siad ? ”
+66013004a	cé		Shléacht siad le hómós don dragan mar gur thug sé an chumhacht don bheithíoch , agus shléacht siad le hómós don bheithíoch á rá : “ Cé atá cosúil leis an mbeithíoch ? 
+66013004b	cé		Agus cé a fhéadann troid leis ? ”
+66015004a	Cé		Cé hé nach eagal leis thú , a Thiarna , 
+66015004b	~		agus nach dtabharfaidh glóir do d'ainm ? Óir is tú amháin is naofa . Agus tiocfaidh na ciníocha uile agus sléachtfaidh romhat le hómós , óir foilsíodh do bhreithiúnais . ”
+66017007	Cad		Agus dúirt an t‑aingeal liom : “ Cad a bheir ionadh ort ? Inseoidh mise duit rúndiamhair na mná agus an bheithígh atá á hiompar , é siúd ar a bhfuil seacht gceann agus deich n‑adharc . ”
+66018018	~		agus chaoin siad go hard nuair a chonaic siad deatach a tóiteáin á rá : “ An raibh leithéid eile na cathrach móire ann ? ”

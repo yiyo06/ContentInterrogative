@@ -1,0 +1,743 @@
+40002002	Missä		He kysyivät : " Missä se juutalaisten kuningas on , joka nyt on syntynyt ? Me näimme hänen tähtensä nousevan taivaalle ja tulimme osoittamaan hänelle kunnioitustamme . "
+40002004	missä		Hän kutsui koolle kansan ylipapit ja lainopettajat ja tiedusteli heiltä , missä messiaan oli määrä syntyä .
+40003007	Kuka		Mutta kun Johannes näki , että hänen kasteelleen oli tulossa myös monia fariseuksia ja saddukeuksia , hän sanoi heille : " Te käärmeen sikiöt ! Kuka teille on sanonut , että te voitte välttää tulevan vihan ?
+40005013	millä		" Te olette maan suola . Mutta jos suola menettää makunsa , millä se saadaan suolaiseksi ? Ei se kelpaa enää mihinkään : se heitetään menemään , ja ihmiset tallaavat sen jalkoihinsa .
+40005046	minkä		Jos te rakastatte niitä , jotka rakastavat teitä , minkä palkan te siitä ansaitsette ? Eivätkö publikaanitkin tee niin ?
+40005047	mitä		Jos te tervehditte vain ystäviänne , mitä erinomaista siinä on ? Eivätkö pakanatkin tee niin ?
+40006027	Kuka		Kuka teistä voi murehtimalla lisätä elämänsä pituutta kyynäränkään vertaa ?
+40006028	Mitä		" Mitä te vaatetuksesta huolehditte ! Katsokaa kedon kukkia , kuinka ne nousevat maasta : eivät ne näe vaivaa eivätkä kehrää .
+40006031a	Mitä		" Älkää siis murehtiko : ' Mitä me nyt syömme ? ' 
+40006031b	Mitä		tai ' Mitä me juomme ? ' 
+40006031c	Mistä		tai ' Mistä me saamme vaatteet ? '
+40007003	Kuinka		Kuinka näet roskan veljesi silmässä , mutta et huomaa , että omassa silmässäsi on hirsi ?
+40007004	Kuinka		Kuinka voit sanoa veljellesi : ' Annapa kun otan roskan silmästäsi ' , kun omassa silmässäsi on hirsi ?
+40007009	~		Ei kai kukaan teistä anna pojalleen kiveä , kun hän pyytää leipää ?
+40007016a	~		Hedelmistä te heidät tunnette . Eihän orjantappuroista koota rypäleitä eikä ohdakkeista viikunoita .
+40007016b	~		
+40008026	Miksi		" Miksi te noin pelkäätte , vähäuskoiset ? " Jeesus sanoi . Sitten hän nousi ja nuhteli tuulta ja aaltoja , ja tuli aivan tyven .
+40008027	Mikä		Ihmiset hämmästyivät ja sanoivat : " Mikä tämä mies on ? Häntähän tottelevat tuulet ja aallotkin . "
+40008029	Mitä		He huusivat : " Mitä sinä meistä tahdot , Jumalan Poika ? Oletko tullut tänne kiduttamaan meitä jo ennen määräaikaa ? "
+40009004	Miksi		Mutta Jeesus näki , mitä he ajattelivat , ja sanoi : " Miksi teillä on pahoja ajatuksia sydämessänne ?
+40009005	Kumpi		Kumpi on helpompaa , sanoa : ' Sinun syntisi annetaan anteeksi ' , vai sanoa : ' Nouse ja kävele ' ?
+40009011	Kuinka		Tämän nähdessään fariseukset sanoivat Jeesuksen opetuslapsille : " Kuinka teidän opettajanne syö yhdessä publikaanien ja muiden syntisten kanssa ! "
+40009014	Miksi		Sitten Johanneksen opetuslapset tulivat Jeesuksen luo . He sanoivat : " Meille ja fariseuksille paastoaminen on tärkeää . Miksi sinun opetuslapsesi eivät paastoa ? "
+40009015	~		Jeesus vastasi heille : " Eivät kai häävieraat voi surra silloin , kun sulhanen vielä on heidän kanssaan ! Vielä tulee sekin aika , jolloin sulhanen on poissa , ja silloin he paastoavat .
+40010025	kuinka paljon		Tyytyköön opetuslapsi samaan kuin opettaja ja palvelija samaan kuin isäntä . Jos talon isäntää nimitetään Belsebuliksi , kuinka paljon helpommin sen nimen saa talonväki !
+40011007	Mitä		Heidän mentyään Jeesus alkoi puhua ihmisille Johanneksesta : " Mitä te lähditte autiomaahan katsomaan ? Ruokoako , jota tuuli huojuttaa ?
+40011008	mitä		Vai mitä odotitte näkevänne ? Kenties hienosti pukeutuneen miehen ? Kuninkaanlinnoista te niitä löydätte , jotka hienostelevat vaatteillaan !
+40011009	Mitä		Mitä te sitten odotitte näkevänne ? Profeetanko ? Aivan oikein , ja minä sanon teille , että hän on enemmänkin kuin profeetta .
+40011016	Mihin		" Mihin minä vertaisin tätä sukupolvea ? Se on kuin torilla istuvat lapset , jotka huutavat toisilleen :
+40012011	~		Jeesus vastasi heille : " Jos jollakulla teistä on lammas ja se putoaa sapattina kuoppaan , niin kai hän tarttuu siihen ja nostaa sen sieltä ylös !
+40012026	Kuinka		Jos Saatana ajaa ulos Saatanan , silloin se on noussut itseään vastaan . Kuinka sen valtakunta silloin voi pysyä koossa ?
+40012027	kenen		Jos minä karkotan pahoja henkiä Belsebulin avulla , kenen avulla sitten teikäläiset niitä karkottavat ? Heistä te saatte itsellenne tuomarit .
+40012029	Kuinka		" Kuinka kukaan voi tunkeutua väkevän miehen taloon ja ryöstää hänen tavaroitaan , ellei ensin sido häntä ? Vasta sitten hän voi ryöstää talon ja tavarat .
+40012034	kuinka		Te käärmeen sikiöt , kuinka teidän puheenne voisi olla hyvää , kun itse olette pahoja ! Mitä sydän on täynnä , sitä suu puhuu .
+40012048a	kuka		Mutta Jeesus vastasi sanantuojalle : " Kuka on äitini ? 
+40012048b	Ketkä		Ketkä ovat veljiäni ? "
+40013010	Miksi		Opetuslapset tulivat Jeesuksen luo ja kysyivät : " Miksi sinä puhut heille vertauksin ? "
+40013027	Mistä		Työmiehet menivät silloin isäntänsä luo ja sanoivat hänelle : ' Herra , etkö sinä kylvänyt peltoosi hyvää siementä ? Mistä siihen on tullut rikkaviljaa ? '
+40013054a	mistä		ja meni kotikaupunkiinsa . Hän opetti ihmisiä heidän synagogassaan , ja hämmästyksissään he kysyivät : " Mistä hänellä on tämä viisaus , 
+40013054b	mistä		mistä voima tehdä ihmeitä ?
+40013056	Mistä		Hänen sisarensakin asuvat kaikki täällä missä mekin . Mistä hän on voinut saada tämän kaiken ? "
+40014031	Miksi		Jeesus ojensi heti kätensä , tarttui häneen ja sanoi : " Vähäinenpä on uskosi ! Miksi aloit epäillä ? "
+40015002	Miksi		" Miksi sinun opetuslapsesi rikkovat isien perinnäissääntöjä ? " he kysyivät . " Hehän eivät pese käsiään , kun rupeavat syömään . "
+40015003	Miksi		Jeesus vastasi heille : " Miksi te itse rikotte Jumalan käskyä perinnäissäännöillänne ?
+40015033	Mistä		Opetuslapset sanoivat hänelle : " Mistä me täällä asumattomalla seudulla saamme niin paljon leipää , että pystymme ruokkimaan tällaisen väkijoukon ? "
+40015034	Montako		" Montako leipää teillä on ? " Jeesus kysyi . " Seitsemän " , he vastasivat , " ja jokunen pieni kala . "
+40016008	~		Jeesus huomasi sen ja sanoi heille : " Te vähäuskoiset ! Te puhutte vain siitä , että teillä ei ole leipää .
+40016009	kuinka monta		Ettekö te vieläkään ymmärrä ? Ettekö muista niitä viittä leipää , joista riitti viidelletuhannelle ? Ja kuinka monta korillista te vielä keräsitte ?
+40016010a	~		Entä ne seitsemän leipää , joista riitti neljälletuhannelle ? 
+40016010b	kuinka monta		Ja kuinka monta korillista te keräsitte ?
+40016011	Kuinka		Kuinka te ette ymmärrä , etten minä puhunut teille leivistä ? Varokaa fariseusten ja saddukeusten hapatetta . "
+40016013	Kuka		Kun Jeesus oli tullut Filippoksen Kesarean seudulle , hän kysyi opetuslapsiltaan : " Kuka Ihmisen Poika on ? Mitä ihmiset hänestä sanovat ? "
+40016015a	~		" Entä te ? " kysyi Jeesus . 
+40016015b	kuka		" Kuka minä teidän mielestänne olen ? "
+40016026a	Mitä		Mitä hyödyttää ihmistä , jos hän voittaa omakseen koko maailman mutta menettää sielunsa ? 
+40016026b	Millä		Millä ihminen voi ostaa sielunsa takaisin ?
+40017010	Miksi		Opetuslapset kysyivät häneltä : " Miksi lainopettajat sanovat , että Elian pitää tulla ensin ? "
+40017017a	kuinka kauan		Silloin Jeesus sanoi : " Voi tätä epäuskoista ja kieroutunutta sukupolvea ! Kuinka kauan minun vielä on oltava teidän keskuudessanne ? 
+40017017b	kuinka kauan		Kuinka kauan minun pitää kestää teitä ? Tuokaa poika tänne . "
+40017019	Miksi		Kun he olivat taas keskenään , opetuslapset kysyivät Jeesukselta : " Miksi me emme kyenneet ajamaan sitä henkeä pojasta ? "
+40017025a	mitä		" Maksaa kyllä " , hän vastasi . Kun hän meni sisälle taloon , Jeesus ehätti kysymään : " Mitä mieltä olet , Simon ? 
+40017025b	Keiltä		Keiltä tämän maailman kuninkaat perivät tullia ja veroa , omilta lapsiltaan vai vierailta ? "
+40018001	Kuka		Kohta sen jälkeen opetuslapset tulivat Jeesuksen luo ja kysyivät : " Kuka on suurin taivasten valtakunnassa ? "
+40018012	Mitä		" Mitä arvelette : jos jollakulla on sata lammasta ja yksi niistä eksyy , niin eikö hän jätä ne yhdeksänkymmentäyhdeksän vuorille ja lähde etsimään sitä eksynyttä ?
+40018021	kuinka monta kertaa		Silloin Pietari tuli Jeesuksen luo ja sanoi : " Herra , jos veljeni yhä uudestaan tekee väärin minua kohtaan , niin kuinka monta kertaa minun on annettava hänelle anteeksi ? Peräti seitsemän kertaako ? "
+40019007	Miksi		Fariseukset kysyivät häneltä : " Miksi sitten Mooses on säätänyt , että jos mies hylkää vaimonsa , hänen on annettava tälle erokirja ? "
+40019016	mitä		Eräs mies tuli kysymään Jeesukselta : " Opettaja , mitä hyvää minun pitää tehdä , jotta saisin iankaikkisen elämän ? "
+40019017	Miksi		Jeesus vastasi hänelle : " Miksi sinä minulta hyvästä kyselet ? On vain yksi , joka on hyvä . Jos haluat päästä sisälle elämään , noudata käskyjä . "
+40019018	Mitä		" Mitä käskyjä ? " mies kysyi . " Näitä " , vastasi Jeesus , " älä tapa , älä tee aviorikosta , älä varasta , älä todista valheellisesti ,
+40019020	mitä		" Kaikkia niitä olen noudattanut " , sanoi nuorukainen , " mitä vielä puuttuu ? "
+40019025	Kuka		Kun opetuslapset kuulivat tämän , he olivat ihmeissään ja kysyivät : " Kuka sitten voi pelastua ? "
+40019027	Mitä		" Entä me ? " kysyi silloin Pietari . " Me olemme luopuneet kaikesta ja seuranneet sinua . Mitä me siitä saamme ? "
+40020006	Miksi		Kun hän sitten meni ulos yhdennellätoista tunnilla , hän näki vieläkin muutamia joutilaita ja kysyi heiltä : ' Miksi te seisotte täällä kaiken päivää toimettomina ? '
+40020012	~		' Nämä viimeksi tulleet tekivät työtä yhden ainoan tunnin , ja silti sinä annat heille saman kuin meille , jotka olemme kantaneet päivän kuorman ja helteen . '
+40020021	Mitä		" Mitä haluat ? " Jeesus kysyi . Nainen sanoi hänelle : " Lupaathan , että nämä kaksi poikaani saavat valtakunnassasi istua vierelläsi , toinen oikealla ja toinen vasemmalla puolella . "
+40020032	Mitä		Silloin Jeesus pysähtyi ja kutsui heidät luokseen . " Mitä haluatte minun tekevän teille ? " hän kysyi .
+40021010	Kuka		Kun hän tuli Jerusalemiin , koko kaupunki alkoi kuohua ja kaikki kyselivät : " Kuka hän on ? "
+40021016	mitä		ja sanoivat hänelle : " Kuuletko , mitä nuo huutavat ? " " Kuulen " , vastasi Jeesus . " Ettekö ole koskaan lukeneet tätä sanaa : ' Lasten ja imeväisten suusta sinä olet hankkinut kiitoksesi ' ? "
+40021020	Kuinka		Kun opetuslapset sen näkivät , he hämmästyivät ja sanoivat : " Kuinka tuo puu noin äkkiä kuivettui ? "
+40021023a	Millä		Kun Jeesus oli mennyt temppeliin ja opetti siellä , sinne tuli ylipappeja ja kansan vanhimpia . He kysyivät : " Millä valtuuksilla sinä tällaista teet ? 
+40021023b	kuka		Kuka sinut on tähän valtuuttanut ? "
+40021025a	mistä		Mistä Johanneksen kaste oli peräisin ? Taivaasta vai ihmisistä ? " He neuvottelivat keskenään : " Jos sanomme : ' Taivaasta ' , 
+40021025b	~		hän sanoo meille : 
+40021025c	miksi		' Miksi sitten ette uskoneet häntä ? '
+40021028	Mitä		" Mitä te tästä sanotte ? Eräällä miehellä oli kaksi poikaa . Hän meni toisen luo ja sanoi : ' Poikani , mene tänään viinitarhaan työhön . '
+40021031	Kumpi		Kumpi näistä kahdesta teki , mitä hänen isänsä tahtoi ? " " Edellinen " , he vastasivat . Jeesus sanoi : " Totisesti : portot ja publikaanit menevät Jumalan valtakuntaan ennemmin kuin te .
+40021040	mitä		" Kun viinitarhan omistaja tulee , mitä hän tekee noille viljelijöille ? "
+40022012	kuinka		Hän kysyi tältä : ' Ystäväni , kuinka saatoit tulla tänne ilman häävaatteita ? ' Mies ei saanut sanaa suustaan .
+40022017	mitä		Sano siis meille , mitä mieltä olet : onko oikein maksaa keisarille veroa vai ei ? "
+40022018	Miksi		Mutta Jeesus huomasi heidän kieroutensa ja sanoi : " Te teeskentelijät ! Miksi te yritätte saada minut ansaan ?
+40022020a	kenen		Jeesus kysyi heiltä : " Kenen kuva 
+40022020b	~		ja nimi siinä on ? "
+40022028	Kenen		Kenen vaimo hän on oleva ylösnousemuksessa ? Hänhän on ollut naimisissa heidän jokaisen kanssa . "
+40022036	mikä		" Opettaja , mikä on lain suurin käsky ? "
+40022042a	mitä		" Mitä te ajattelette Messiaasta ? 
+40022042b	kenen		Kenen poika hän on ? " He vastasivat : " Daavidin . "
+40022043	miksi		Silloin Jeesus kysyi : " Miksi Daavid sitten Hengen innoittamana kutsuu häntä herraksi ? Hän sanoo :
+40022045	kuinka		Jos kerran Daavid sanoo Messiasta herraksi , kuinka Messias silloin voi olla hänen poikansa ? "
+40023017	Kumpi		Te sokeat typerykset ! Kumpi on tärkeämpi , kulta vai temppeli , joka sen kullan pyhittää ?
+40023019	Kumpi		Te sokeat ! Kumpi on tärkeämpi , uhrilahja vai alttari , joka lahjan pyhittää ?
+40023033	Miten		Te käärmeet , te kyykäärmeitten sikiöt ! Miten te voisitte välttää kadotustuomion ?
+40024003a	milloin		Kun Jeesus sitten istui Öljymäellä eikä siellä ollut muita , opetuslapset tulivat hänen luokseen ja kyselivät : " Sano meille , milloin se kaikki tapahtuu . 
+40024003b	mikä		Mikä on merkkinä sinun tulostasi ja tämän maailman lopusta ? "
+40024045	Kuka		" Kuka siis on uskollinen ja viisas palvelija , jonka talon isäntä asettaa palvelusväkensä esimieheksi katsomaan , että kaikki saavat ruokansa ajallaan ?
+40025037	milloin		" Silloin vanhurskaat vastaavat hänelle : ' Herra , milloin me näimme sinut nälissäsi ja annoimme sinulle ruokaa , tai janoissasi ja annoimme sinulle juotavaa ?
+40025038	Milloin		Milloin me näimme sinut kodittomana ja otimme sinut luoksemme , tai alasti ja vaatetimme sinut ?
+40025039	Milloin		Milloin me näimme sinut sairaana tai vankilassa ja kävimme sinun luonasi ? '
+40025044	milloin		" Silloin nämäkin kysyvät : ' Herra , milloin me näimme sinut nälissäsi tai janoissasi , kodittomana tai alasti , tai sairaana tai vankilassa , emmekä auttaneet sinua ? '
+40026008	Millaista		Mutta kun opetuslapset näkivät sen , he sanoivat paheksuen : " Millaista haaskausta !
+40026010	Miksi		Jeesus huomasi tämän ja sanoi heille : " Miksi te pahoitatte naisen mielen ? Hän teki minulle hyvän teon .
+40026015	Paljonko		ja sanoi : " Paljonko maksatte minulle , jos toimitan hänet teidän käsiinne ? " He sopivat hänen kanssaan kolmestakymmenestä hopearahasta .
+40026017	Minne		Happamattoman leivän juhlan ensimmäisenä päivänä opetuslapset tulivat Jeesuksen luo ja kysyivät : " Minne tahdot meidän valmistavan sinulle pääsiäisaterian ? "
+40026040	~		Hän palasi opetuslasten luo ja tapasi heidät nukkumasta . Silloin hän sanoi Pietarille : " Ettekö te edes hetken vertaa jaksaneet valvoa kanssani ?
+40026050	~		Jeesus sanoi hänelle : " Ystävä , tätä varten sinä olet tullut . " Silloin miehet astuivat lähemmäs , kävivät käsiksi Jeesukseen ja vangitsivat hänet .
+40026054	kuinka		Mutta kuinka silloin kävisivät toteen kirjoitukset , joiden mukaan näin täytyy tapahtua ? "
+40026062a	~		Silloin ylipappi nousi paikaltaan ja kysyi : " Etkö lainkaan vastaa heidän syytöksiinsä ? "
+40026062b	~		
+40026065	Mitä		Silloin ylipappi repäisi vaatteensa ja sanoi : " Hän herjaa Jumalaa . Mitä me enää todistajia tarvitsemme ! Kuulittehan , miten hän herjasi .
+40026066	Mitä		Mitä mieltä olette ? " He vastasivat : " Hän on ansainnut kuoleman . "
+40026068	kuka		ja ilkkuivat : " Profetoi , Messias , sano kuka sinua löi ! "
+40027004	Mitä		ja sanoi : " Tein väärin , kun kavalsin viattoman veren . " Mutta he vastasivat : " Mitä se meitä liikuttaa ? Omapa on asiasi . "
+40027013	kuinka		Silloin Pilatus sanoi hänelle : " Etkö kuule , kuinka raskaita todisteita he esittävät sinua vastaan ? "
+40027017	Kumman		Kun väkijoukko oli koolla , Pilatus kysyi : " Kumman haluatte ? Vapautanko Barabbaksen vai Jeesuksen , jota sanotaan Kristukseksi ? "
+40027021	Kumman		Maaherra kysyi nyt : " Kumman näistä kahdesta haluatte ? Kumman päästän vapaaksi ? " Väki vastasi : " Barabbaksen . "
+40027022	Mitä		Pilatus kysyi : " Mitä minä sitten teen Jeesukselle , jota sanotaan Kristukseksi ? " Kaikki vastasivat : " Ristiinnaulittakoon ! "
+40027023a	~		
+40027023b	mitä		" Mitä pahaa hän on tehnyt ? " kysyi Pilatus . Mutta he vain huusivat entistä kovemmin : " Ristiinnaulittakoon ! "
+40027046	miksi		Yhdeksännen tunnin vaiheilla Jeesus huusi kovalla äänellä : " Eeli , Eeli , lama sabaktani ? " Se merkitsee : Jumalani , Jumalani , miksi hylkäsit minut ?
+41001024	Mitä		" Mitä sinä meistä tahdot , Jeesus Nasaretilainen ? Oletko tullut tuhoamaan meidät ? Minä tiedän , kuka sinä olet , Jumalan Pyhä ! "
+41001027	Mitä		Kaikki joutuivat ymmälle ja kyselivät toisiltaan : " Mitä tämä on ? Tällä miehellä on valta opettaa uudella tavalla ! Saastaiset hengetkin tottelevat , kun hän käskee . "
+41002007a	miten		" Miten hän tuolla tavalla puhuu ? Hän herjaa Jumalaa . 
+41002007b	kuka		Kuka muu kuin Jumala voi antaa syntejä anteeksi ? "
+41002008	Kuinka		Jeesus tunsi heti hengessään , mitä he ajattelivat , ja sanoi heille : " Kuinka te tuollaista ajattelette ?
+41002009	Kumpi		Kumpi on helpompaa , sanoa halvaantuneelle : ' Sinun syntisi annetaan anteeksi ' , vai sanoa : ' Nouse , ota vuoteesi ja kävele ' ?
+41002016	Kuinka		Kun fariseuksiin kuuluvat lainopettajat näkivät Jeesuksen syövän syntisten ja publikaanien seurassa , he sanoivat hänen opetuslapsilleen : " Kuinka hän syö yhdessä publikaanien ja muiden syntisten kanssa ! "
+41002018	Miksi		Johanneksen opetuslapset ja fariseukset paastosivat . Jeesukselta tultiin kysymään : " Miksi sinun opetuslapsesi eivät paastoa , kun kerran Johanneksen opetuslapset ja fariseusten opetuslapset paastoavat ? "
+41002019	~		Jeesus vastasi : " Eivät kai häävieraat voi paastota silloin , kun sulhanen vielä on heidän kanssaan ! Niin kauan kuin sulhanen on heidän joukossaan , he eivät voi paastota .
+41002024	Miksi		Silloin fariseukset sanoivat hänelle : " Katso nyt ! Miksi opetuslapsesi tekevät sellaista , mitä sapattina ei ole lupa tehdä ? "
+41003004	kumpi		ja kysyi sitten fariseuksilta : " Kumpi on sapattina luvallista , tehdä hyvää vai tehdä pahaa , pelastaa ihmishenki vai tappaa ihminen ? " He eivät vastanneet mitään .
+41003023	Miten		Silloin Jeesus kutsui heidät luokseen ja puhui heille vertauksin : " Miten Saatana voi ajaa ulos Saatanan ?
+41003033a	kuka		Mutta Jeesus vastasi heille : " Kuka on äitini ? 
+41003033b	ketkä		Ketkä ovat veljiäni ? "
+41004013	~		Sitten Jeesus sanoi : " Jos te ette käsitä tätä vertausta , niin onko teistä ymmärtämään muitakaan vertauksia ?
+41004030a	mihin		Vielä Jeesus sanoi : " Mihin vertaisimme Jumalan valtakuntaa ? 
+41004030b	millä		Millä vertauksella kuvaisimme sitä ?
+41004038	~		Mutta Jeesus vain nukkui veneen perässä nojaten päänaluseen . Opetuslapset herättivät hänet ja sanoivat : " Opettaja , etkö näe , me hukumme ! "
+41004040a	miksi		Jeesus sanoi heille : " Miksi te noin pelkäätte ? 
+41004040b	~		Eikö teillä vieläkään ole uskoa ? "
+41004041	Mikä		Silloin suuri pelko valtasi heidät ja he kyselivät toisiltaan : " Mikä mies tämä oikein on ? Häntähän tottelevat tuuli ja aallotkin . "
+41005007	Mitä		ja huusi kovalla äänellä : " Mitä sinä minusta tahdot , Jeesus , Korkeimman Jumalan poika ? Jumalan tähden , älä kiduta minua ! "
+41005009	Mikä		" Mikä sinun nimesi on ? " Jeesus kysyi , ja sai vastauksen : " Legioona , sillä meitä on monta . "
+41005030	Kuka		Jeesus tunsi heti , että hänestä oli lähtenyt voimaa . Hän kääntyi tungoksessa ja kysyi : " Kuka koski vaatteisiini ? "
+41005031	kuka		Opetuslapset sanoivat hänelle : " Sinä näet , millaisen tungoksen keskellä olet , ja kysyt : kuka koski minuun ? "
+41005035	miksi		Jeesuksen vielä puhuessa tuotiin synagogan esimiehelle kotoa sana : " Tyttäresi kuoli jo , miksi enää vaivaisit opettajaa . "
+41005039a	miksi		Hän meni sisään ja sanoi : " Miksi te noin hälisette 
+41005039b	~		ja itkette ? Ei lapsi ole kuollut , hän nukkuu . "
+41006002a	mistä		Kun tuli sapatti , hän ryhtyi opettamaan synagogassa , ja häntä kuunnellessaan monet kyselivät hämmästyneinä : " Mistä hän on saanut tämän kaiken ? 
+41006002b	mikä		Mikä on tämä viisaus , joka hänelle on annettu ? 
+41006002c	mitä		Mitä ovat nuo voimateot , jotka tapahtuvat hänen kättensä kautta ?
+41006022	mitä		Herodiaan tytär tuli silloin sisään ja tanssi , ja Herodes ja hänen pöytävieraansa olivat ihastuksissaan . Kuningas sanoi tytölle : " Pyydä minulta mitä vain tahdot , niin minä annan sen sinulle . "
+41006024	Mitä		Tyttö meni ulos ja kysyi äidiltään : " Mitä minä pyytäisin ? " Äiti vastasi : " Pyydä Johannes Kastajan päätä . "
+41006037	~		" Antakaa te heille syötävää " , vastasi Jeesus . He sanoivat hänelle : " Pitäisikö meidän mennä ostamaan kahdellasadalla denaarilla leipiä ja antaa ne heille syötäväksi ? "
+41006038	Montako		Jeesus kysyi : " Montako leipää teillä on ? Käykää katsomassa . " He tekivät niin ja ilmoittivat : " Viisi , ja kaksi kalaa . "
+41007005	Miksi		Niinpä fariseukset ja lainopettajat kysyivät Jeesukselta : " Miksi sinun opetuslapsesi eivät elä isien perinnäissääntöjen mukaan , vaan aterioivat epäpuhtain käsin ? "
+41008004	Mistä		Opetuslapset sanoivat hänelle : " Mistä kukaan täällä asumattomalla seudulla voi hankkia leipää näiden kaikkien ruokkimiseksi ? "
+41008005	Paljonko		" Paljonko teillä on leipiä ? " Jeesus kysyi . He vastasivat : " Seitsemän . "
+41008012	Miksi		Jeesus huokasi syvään ja sanoi : " Miksi tämä sukupolvi vaatii merkkiä ? Totisesti : tälle sukupolvelle ei merkkiä anneta . "
+41008017	Miksi		Jeesus huomasi sen ja sanoi : " Miksi te puhutte siitä , ettei teillä ole leipää ? Ettekö vieläkään ymmärrä , ettekö käsitä ? Onko teidän sydämenne paatunut ?
+41008018a	~		Onhan teillä silmät , ettekö te näe ? 
+41008018b	~		Onhan teillä korvat , ettekö kuule ? Ja ettekö muista :
+41008019	kuinka monta		kun jaoin ne viisi leipää viidelletuhannelle ihmiselle , kuinka monta täyttä korillista te keräsitte palasia ? " " Kaksitoista " , he vastasivat .
+41008020	Kuinka monta		" Entä kun jaoin ne seitsemän leipää neljälletuhannelle ? Kuinka monta koria te silloin keräsitte täyteen palasia ? " He vastasivat : " Seitsemän . "
+41008021	~		Jeesus sanoi heille : " Ettekö te vieläkään käsitä ? "
+41008023	~		Jeesus otti sokeaa kädestä ja vei hänet kylän ulkopuolelle . Sitten hän sylkäisi miehen silmiin , pani kätensä hänen päälleen ja kysyi : " Näetkö mitään ? "
+41008027	Kuka		Jeesus ja hänen opetuslapsensa lähtivät Filippoksen Kesarean ympärillä oleviin kyliin . Matkalla hän kysyi opetuslapsilta : " Kuka minä ihmisten mielestä olen ? "
+41008029a	~		" Entä te ? " kysyi Jeesus . 
+41008029b	kuka		" Kuka minä teidän mielestänne olen ? " Pietari vastasi hänelle : " Sinä olet Messias . "
+41008036	Mitä		Mitä hyödyttää ihmistä , jos hän voittaa omakseen koko maailman mutta menettää sielunsa ?
+41008037	Millä		Millä ihminen voi ostaa sielunsa takaisin ?
+41009010	mitä		He pitivät Jeesuksen sanat mielessään ja pohtivat keskenään , mitä kuolleista nouseminen saattoi merkitä .
+41009011	~		Opetuslapset kysyivät Jeesukselta : " Eivätkö lainopettajat sano , että Elian pitää tulla ensin ? "
+41009012	miksi		" Elia tuleekin ensin " , hän vastasi , " ja panee kaiken taas kohdalleen . Mutta miksi sitten on kirjoitettu , että Ihmisen Poika joutuu paljon kärsimään ja kokemaan halveksuntaa ?
+41009016	Mikä		Jeesus kysyi heiltä : " Mikä väittely täällä on ? "
+41009019a	kuinka kauan		Silloin Jeesus sanoi heille : " Voi tätä epäuskoista sukupolvea ! Kuinka kauan minun on vielä oltava teidän keskuudessanne ? 
+41009019b	kuinka kauan		Kuinka kauan minun pitää kestää teitä ? Tuokaa poika minun luokseni . "
+41009021	Kuinka kauan		Jeesus kysyi pojan isältä : " Kuinka kauan hänellä on ollut tämä vaiva ? " " Pienestä pitäen " , vastasi mies .
+41009028	Miksi		Kun Jeesus sitten oli mennyt sisään ja vain opetuslapset olivat paikalla , nämä kysyivät häneltä : " Miksi me emme kyenneet ajamaan sitä henkeä pojasta ? "
+41009033	Mistä		He saapuivat Kapernaumiin . Kotiin tultuaan Jeesus kysyi opetuslapsilta : " Mistä te matkalla keskustelitte ? "
+41009050	millä		Suola on tarpeellista . Mutta jos se menettää suolaisuutensa , millä te sen suolaatte ? Olkoon teissä suola itsessänne ja eläkää sovussa toinen toisenne kanssa . "
+41010003	Mitä		Hän vastasi heille : " Mitä Mooses on siitä säätänyt ? "
+41010017	mitä		Kun Jeesus lähti jatkamaan matkaansa , muuan mies tuli juoksujalkaa , polvistui hänen eteensä ja kysyi : " Hyvä opettaja , mitä minun pitää tehdä , jotta perisin iankaikkisen elämän ? "
+41010018	Miksi		Jeesus vastasi hänelle : " Miksi sanot minua hyväksi ? Ainoastaan Jumala on hyvä , ei kukaan muu .
+41010026	Kuka		Opetuslapset olivat yhä enemmän ihmeissään ja kyselivät toisiltaan : " Kuka sitten voi pelastua ? "
+41010036	Mitä		" Mitä te haluatte minun tekevän ? " kysyi Jeesus .
+41010051	Mitä		" Mitä haluat minun tekevän sinulle ? " Jeesus kysyi . Sokea vastasi : " Rabbuuni , anna minulle näköni . "
+41011003	miksi		Jos joku kysyy , miksi te niin teette , vastatkaa , että Herra tarvitsee sitä mutta lähettää sen pian takaisin . "
+41011005	Mitä		Paikalla olevat ihmiset kysyivät : " Mitä te oikein teette ? Miksi te viette varsan ? "
+41011028a	millä		He kysyivät häneltä : " Millä valtuuksilla sinä tällaista teet ? 
+41011028b	kuka		Kuka sinut on valtuuttanut tekemään tätä ? "
+41011030	~		Oliko Johanneksen kaste peräisin taivaasta vai ihmisistä ? Mitä sanotte ? "
+41011031a	~		He neuvottelivat keskenään : " Jos sanomme : ' Taivaasta ' , hän sanoo : 
+41011031b	miksi		' Miksi sitten ette uskoneet häntä ? '
+41012009	Mitä		" Mitä viinitarhan omistaja nyt tekee ? Hän tulee ja ottaa nuo viljelijät hengiltä ja antaa viinitarhansa toisille .
+41012015	Miksi		Jeesus tiesi heidän teeskentelevän ja sanoi : " Miksi te yritätte saada minut ansaan ? Näyttäkää minulle denaarin raha . "
+41012016a	kenen		He ottivat esiin rahan , ja hän kysyi : " Kenen kuva 
+41012016b	~		ja nimi siinä on ? " " Keisarin " , he vastasivat .
+41012023	kenen		Kun he ylösnousemuksen päivänä nousevat kuolleista , kenen vaimo hän silloin on ? Hänhän on ollut kaikkien seitsemän vaimo . "
+41012028	Mikä		Muuan lainopettaja oli seurannut heidän väittelyään ja huomannut , miten hyvän vastauksen Jeesus saddukeuksille antoi . Hän tuli nyt Jeesuksen luo ja kysyi : " Mikä käsky on kaikkein tärkein ? "
+41012035	Kuinka		Temppelissä opettaessaan Jeesus puolestaan kysyi : " Kuinka lainopettajat voivat sanoa , että Messias on Daavidin poika ?
+41012037	Kuinka		Daavid itse sanoo Messiasta herraksi . Kuinka Messias silloin voi olla Daavidin poika ? " Suuri kansanjoukko kuunteli Jeesusta halukkaasti .
+41013004a	milloin		" Milloin se kaikki tapahtuu ? Kerro meille , 
+41013004b	mikä		mikä on merkkinä siitä , että sen toteutuminen on lähellä . "
+41014004	Millaista		Jotkut paheksuivat tätä ja sanoivat toisilleen : " Millaista voiteen haaskausta !
+41014006	Miksi		Mutta Jeesus sanoi : " Antakaa hänen olla . Miksi te pahoitatte hänen mielensä ? Hän teki minulle hyvän teon .
+41014012	Missä		Happamattoman leivän juhlan ensimmäisenä päivänä , jolloin oli tapana teurastaa pääsiäislammas , opetuslapset kysyivät Jeesukselta : " Missä tahdot syödä pääsiäisaterian ? Minne menemme valmistamaan sen ? "
+41014014	missä		ja minne hän menee , siellä sanokaa talon isännälle näin : ' Opettaja kysyy , missä on häntä varten huone , jossa hän voi syödä pääsiäisaterian opetuslastensa kanssa . '
+41014060a	~		Silloin ylipappi nousi paikaltaan , astui esiin ja kysyi Jeesukselta : " Etkö lainkaan vastaa heidän syytöksiinsä ? "
+41014060b	~		
+41014063	Mitä		Silloin ylipappi repäisi vaatteensa ja sanoi : " Mitä me enää todistajia tarvitsemme !
+41014064	Mitä		Kuulittehan , miten hän herjasi Jumalaa . Mitä ehdotatte ? " Kaikki olivat yhtä mieltä siitä , että hän oli syyllinen ja ansaitsi kuoleman .
+41015004	~		ja Pilatus kysyi : " Etkö lainkaan vastaa ? Kuulethan , mistä kaikesta he sinua syyttävät . "
+41015012	Mitä		Vielä Pilatus kysyi kansalta : " Mitä minä sitten teen tälle , jota te sanotte juutalaisten kuninkaaksi ? "
+41015014a	~		
+41015014b	mitä		" Mitä pahaa hän on tehnyt ? " kysyi Pilatus . Mutta he huusivat entistä kovemmin : " Ristiinnaulitse se mies ! "
+41015034	miksi		Yhdeksännellä tunnilla Jeesus huusi kovalla äänellä : " Elohi , Elohi , lema sabaktani ? " Se on käännettynä : Jumalani , Jumalani , miksi hylkäsit minut ?
+41016003	Kuka		Matkalla he puhuivat keskenään : " Kuka auttaisi meitä ja vierittäisi kiven hautakammion ovelta ? "
+42001018	Mistä		Sakarias kysyi enkeliltä : " Mistä voin tietää , että niin käy ? Minähän olen jo vanha , ja vaimonikin on iäkäs . "
+42001034	Miten		Maria kysyi enkeliltä : " Miten se on mahdollista ? Minähän olen koskematon . "
+42001043	Kuinka		Kuinka minä saan sen kunnian , että Herrani äiti tulee minun luokseni ?
+42001066	Mikähän		Ne , jotka niistä kuulivat , painoivat kaiken mieleensä ja sanoivat : " Mikähän tästä lapsesta tulee ? " Sillä Herran käsi oli hänen yllään .
+42002048	miksi		Hänet nähdessään vanhemmat hämmästyivät kovasti , ja hänen äitinsä sanoi : " Poikani , miksi teit meille tämän ? Isäsi ja minä olemme etsineet sinua , ja me olimme jo huolissamme . "
+42002049	Mitä		Jeesus vastasi heille : " Mitä te minua etsitte ? Ettekö tienneet , että minun tulee olla Isäni luona ? "
+42003007	Kuka		Kun ihmisiä tuli joukoittain kastettavaksi , Johannes sanoi heille : " Te käärmeen sikiöt ! Kuka teille on sanonut , että te voitte välttää tulevan vihan ?
+42003010	Mitä		Ihmiset kysyivät häneltä : " Mitä meidän sitten tulee tehdä ? "
+42003012	mitä		Myös publikaaneja tuli kastettavaksi , ja he kysyivät Johannekselta : " Opettaja , mitä meidän tulee tehdä ? "
+42003014a	~		Sotilaatkin kysyivät häneltä : " Entä me , 
+42003014b	mitä		mitä meidän tulee tehdä ? " Hän sanoi heille : " Älkää ryöstäkö älkääkä kiristäkö keneltäkään , vaan tyytykää palkkaanne . "
+42004034	mitä		" Voi , mitä sinä meistä tahdot , Jeesus Nasaretilainen ? Oletko tullut tuhoamaan meidät ? Minä tiedän , kuka sinä olet , Jumalan Pyhä ! "
+42004036	Mitä		Kaikki olivat ymmällä ja sanoivat toisilleen : " Mitä tämä puhe oikein on ? Hän käskee saastaisia henkiä vallalla ja voimalla , ja ne lähtevät tiehensä . "
+42005021a	Mikä		Silloin lainopettajat ja fariseukset ajattelivat : " Mikä mies tämä on ? Hän herjaa Jumalaa , kun puhuu noin . 
+42005021b	kuka		Kuka muu kuin Jumala voi antaa syntejä anteeksi ? "
+42005022	Mitä		Mutta Jeesus oli selvillä siitä , mitä he ajattelivat , ja sanoi heille : " Mitä te oikein ajattelette ?
+42005023	Kumpi		Kumpi on helpompaa , sanoa : ' Sinun syntisi on annettu anteeksi ' , vai sanoa : ' Nouse ja kävele ' ?
+42005030	Kuinka		Fariseukset ja heihin kuuluvat lainopettajat olivat tästä äkeissään ja sanoivat Jeesuksen opetuslapsille : " Kuinka te syötte ja juotte yhdessä publikaanien ja muiden syntisten kanssa ! "
+42005033	~		Jeesukselle sanottiin : " Johanneksen opetuslapset paastoavat usein ja pitävät rukouksia , samoin fariseusten opetuslapset , mutta sinun opetuslapsesi syövät ja juovat . "
+42005034	~		Hän vastasi : " Ette kai te voi vaatia häävieraita paastoamaan silloin kun sulhanen vielä on heidän kanssaan ?
+42006002	Miksi		Muutamat fariseukset sanoivat : " Miksi teette sellaista , mitä sapattina ei ole lupa tehdä ? "
+42006009	kumpi		Jeesus sanoi : " Vastatkaa minulle : kumpi on sapattina luvallista , tehdä hyvää vai tehdä pahaa , pelastaa ihmishenki vai tuhota ihminen ? "
+42006032	mitä		Jos te rakastatte niitä , jotka rakastavat teitä , mitä kiitettävää siinä on ? Syntisetkin rakastavat niitä , joilta itse saavat rakkautta .
+42006033	mitä		Jos te teette hyvää niille , jotka tekevät hyvää teille , mitä kiitettävää siinä on ? Syntisetkin tekevät niin .
+42006034	mitä		Ja jos te lainaatte niille , joiden uskotte maksavan takaisin , mitä kiitettävää siinä on ? Syntisetkin lainaavat toisilleen , kun tietävät saavansa takaisin saman verran .
+42006039	Miten		Hän puhui heille vielä vertauksin : " Miten sokea voisi taluttaa sokeaa ? Molemmathan siinä putoavat kuoppaan .
+42006041	Kuinka		" Kuinka näet roskan veljesi silmässä , mutta et huomaa , että omassa silmässäsi on hirsi ?
+42006042	Kuinka		Kuinka voit sanoa veljellesi : ' Annapa , veli , kun otan roskan silmästäsi ' ? Ethän sinä näe edes hirttä omassa silmässäsi . Sinä tekopyhä ! Ota ensin hirsi omasta silmästäsi , vasta sitten näet ottaa roskan veljesi silmästä .
+42006046	Miksi		" Miksi te sanotte minulle : ' Herra , Herra ' , mutta ette tee mitä minä sanon ?
+42007024	Mitä		Kun Johanneksen lähettämät miehet olivat menneet pois , Jeesus alkoi puhua ihmisille Johanneksesta : " Mitä te lähditte autiomaahan katsomaan ? Ruokoako , jota tuuli huojuttaa ?
+42007025	mitä		Vai mitä odotitte näkevänne ? Kenties hienosti pukeutuneen miehen ? Kuninkaanlinnoista te niitä löydätte , jotka koreilevat vaatteillaan ja elävät ylellisesti !
+42007026	Mitä		Mitä te sitten odotitte näkevänne ? Profeetanko ? Aivan oikein , ja minä sanon teille , että hän on enemmänkin kuin profeetta .
+42007031a	mihin		" Mihin siis vertaisin tämän sukupolven ihmisiä ? 
+42007031b	millaisia		Millaisia he ovat ?
+42007042	kumpi		Kun heillä ei ollut millä maksaa , rahanlainaaja antoi molemmille velan anteeksi . Miten on , kumpi heistä nyt rakastaa häntä enemmän ? "
+42007049	Kuka		Pöytävieraat alkoivat ihmetellä : " Kuka tuo mies on ? Hänhän antaa syntejäkin anteeksi . "
+42008025a	missä		" Missä teidän uskonne on ? " kysyi Jeesus . Opetuslapset joutuivat pelon valtaan ja sanoivat hämmästyneinä toisilleen : 
+42008025b	mikä		" Mikä mies tämä oikein on ? Hän käskee jopa tuulta ja vettä , ja ne tottelevat häntä . "
+42008028	Mitä		Jeesuksen nähdessään hän parkaisi , heittäytyi hänen eteensä ja huusi kovalla äänellä : " Mitä sinä minusta tahdot , Jeesus , Korkeimman Jumalan poika ? Minä pyydän : älä kiduta minua ! "
+42008030	Mikä		" Mikä sinun nimesi on ? " kysyi Jeesus . Mies vastasi : " Legioona " , sillä häneen oli mennyt monta pahaa henkeä .
+42008045	Kuka		Jeesus kysyi : " Kuka koski minuun ? " Kukaan ei myöntänyt koskeneensa , ja Pietari sanoi : " Opettaja , joka puoleltahan tässä ihmiset tunkevat päällesi . "
+42009009a	kuka		Herodes sanoi : " Johanneksen minä olen mestauttanut . Kuka sitten on tämä mies , 
+42009009b	~		josta minulle kerrotaan tuollaista ? " Hän halusi nähdä Jeesuksen ja etsi tilaisuutta siihen .
+42009018	Kuka		Kerran , kun Jeesus oli vetäytynyt yksinäisyyteen rukoilemaan ja opetuslapset olivat hänen kanssaan , hän kysyi heiltä : " Kuka minä ihmisten mielestä olen ? "
+42009020a	~		" Entä te ? " kysyi Jeesus . 
+42009020b	kuka		" Kuka minä teidän mielestänne olen ? " Pietari vastasi : " Sinä olet Kristus , Jumalan Voideltu . "
+42009025	Mitä		Mitä hyödyttää ihmistä , jos hän voittaa omakseen koko maailman mutta saattaa itsensä tuhoon ja turmioon ?
+42009041a	kuinka kauan		Silloin Jeesus sanoi : " Voi tätä epäuskoista ja kieroutunutta sukupolvea ! Kuinka kauan minun vielä on oltava teidän keskuudessanne 
+42009041b	~		ja kestettävä teitä ? Tuo poikasi tänne . "
+42010025	mitä		Muuan lainopettaja halusi panna Jeesuksen koetukselle . Hän kysyi : " Opettaja , mitä minun pitää tehdä , jotta saisin omakseni iankaikkisen elämän ? "
+42010026a	mitä		Jeesus sanoi hänelle : " Mitä laissa sanotaan ? 
+42010026b	mitä		Mitä sinä itse sieltä luet ? "
+42010029	Kuka		Mies tahtoi osoittaa , että hän noudatti lakia , ja jatkoi : " Kuka sitten on minun lähimmäiseni ? "
+42010036a	~		
+42010036b	kuka		Kuka näistä kolmesta sinun mielestäsi oli ryöstetyn miehen lähimmäinen ? "
+42011008	~		Mutta minä sanon teille : vaikka hän ei nousisikaan antamaan toiselle leipää pelkkää ystävyyttään , hän kuitenkin tekee sen , kun tämä hellittämättä pyytää , ja hän antaa niin paljon kuin toinen tarvitsee .
+42011011	~		Ei kai kukaan teistä ole sellainen isä , että antaa pojalleen käärmeen , kun poika pyytää kalaa ?
+42011012	~		Tai skorpionin , kun hän pyytää munaa ?
+42011013	~		Jos kerran te pahat ihmiset osaatte antaa lapsillenne kaikenlaista hyvää , niin totta kai teidän Isänne paljon ennemmin antaa taivaasta Pyhän Hengen niille , jotka sitä häneltä pyytävät . "
+42011018	kuinka		Jos nyt Saatana taistelee itseään vastaan , kuinka sen valtakunta voi pysyä koossa ? Tehän sanotte , että minä ajan pahoja henkiä ihmisistä Belsebulin avulla .
+42011019	kenen		Mutta jos minä ajan pahoja henkiä ihmisistä Belsebulin avulla , kenen avulla sitten teikäläiset niitä karkottavat ? Heistä te saatte itsellenne tuomarit .
+42012014	Mitä		" Mitä ? " kysyi Jeesus . " Onko minut pantu teidän tuomariksenne tai jakomieheksenne ? "
+42012017	Mitä		Hän mietti itsekseen : ' Mitä tekisin ? Minun satoni ei mahdu enää mihinkään . '
+42012020	kenelle		Mutta Jumala sanoi hänelle : ' Sinä hullu ! Tänä yönä sinun sielusi vaaditaan sinulta takaisin . Ja kaikki , minkä olet itsellesi varannut -- kenelle se joutuu ? '
+42012024	Kuinka paljon		Katsokaa korppeja : eivät ne kylvä eivätkä leikkaa , ei niillä ole vajaa eikä varastoa , ja silti Jumala ruokkii ne . Kuinka paljon arvokkaampia te olettekaan kuin linnut !
+42012025	Kuka		Kuka teistä voi murehtimalla lisätä elämänsä pituutta kyynäränkään vertaa ?
+42012026	mitä		Jos siis näinkään vähäinen asia ei ole teidän vallassanne , mitä te muusta huolehditte ?
+42012042	Kuka		Herra vastasi : " Kuka on uskollinen ja viisas taloudenhoitaja , sellainen jonka isäntä asettaa huolehtimaan palvelusväestään ja jakamaan vilja-annokset ajallaan ?
+42012049	kuinka		" Tulta minä olen tullut tuomaan maan päälle -- ja kuinka toivonkaan , että se jo olisi syttynyt !
+42012056	kuinka		Te tekopyhät ! Maan ja taivaan ilmiöt te kyllä osaatte tulkita , kuinka sitten ette tätä aikaa ?
+42012057	Miksi		" Miksi te ette jo itse ratkaise , mikä on oikein ?
+42013004	~		Entä ne kahdeksantoista , jotka saivat surmansa , kun Siloan torni sortui heidän päälleen ? Luuletteko , että he olivat syyllistyneet johonkin pahempaan kuin muut jerusalemilaiset ?
+42013007	~		Silloin hän sanoi puutarhurille : ' Jo kolmena vuotena olen käynyt etsimässä hedelmiä tästä viikunapuusta , mutta en ole löytänyt . Kaada se , sehän vain vie voiman maasta . '
+42013015	~		Herra vastasi : " Te tekopyhät ! Jokainen teistä kyllä päästää sapattina härkänsä tai aasinsa kytkyestä ja vie sen juomaan .
+42013018a	millainen		Jeesus sanoi sitten : " Millainen on Jumalan valtakunta ? 
+42013018b	mihin		Mihin vertaisin sitä ?
+42013020	Mihin		Vielä hän sanoi : " Mihin vertaisin Jumalan valtakuntaa ?
+42013025	Keitä		" Tulee hetki , jolloin talon isäntä nousee ja sulkee oven . Kun te sitten seisotte ulkona , kolkutatte ovelle ja huudatte : ' Herra , avaa meille ! ' , hän vastaa : ' Keitä te olette ? En tunne teitä . '
+42014005	Miten		Sitten hän taas kysyi : " Miten te itse teette ? Jos jonkun poika tai härkä putoaa kaivoon , niin kai hän heti nostaa sen sieltä , vaikka olisikin sapatti ? "
+42014028	~		Jos joku teistä aikoo rakentaa tornin , niin kai hän ensin istuutuu arvioimaan kustannuksia nähdäkseen , onko hänellä varoja rakentaa se valmiiksi .
+42014031	~		" Tai jos kuningas on lähdössä taisteluun toista kuningasta vastaan , niin kai hän ensin istuutuu harkitsemaan , pystyykö hän kymmenellätuhannella miehellä kohtaamaan vihollisen , joka on tulossa kahdenkymmenentuhannen miehen voimalla .
+42014034	millä		" Suola on tarpeellista . Mutta jos suolakin menettää makunsa , millä se saadaan taas suolaiseksi ?
+42015004	~		" Jos jollakin teistä on sata lammasta ja yksi niistä katoaa autiomaahan , niin totta kai hän jättää ne yhdeksänkymmentäyhdeksän , lähtee sen kadonneen perään ja etsii , kunnes löytää sen .
+42015008	~		" Tai jos naisella on kymmenen hopearahaa ja hän kadottaa niistä yhden , niin totta kai hän sytyttää lampun , lakaisee huoneen ja etsii tarkoin , kunnes löytää sen .
+42015026	mitä		Hän huusi luokseen yhden palvelijoista ja kysyi , mitä oli tekeillä .
+42015029	~		mutta hän vastasi : ' Kaikki nämä vuodet minä olen raatanut sinun hyväksesi enkä ole kertaakaan jättänyt käskyäsi täyttämättä . Silti et ole koskaan antanut minulle edes vuohipahaista juhliakseni ystävieni kanssa .
+42016002	Mitä		Hän kutsui tämän luokseen ja sanoi : ' Mitä minä sinusta kuulen ! Tee tili toimistasi , minun talouttani sinä et enää hoida . '
+42016003	Mitä		Mies mietti : ' Mitä minä nyt teen ? Isäntä panee minut pois taloudenhoitajan toimesta . Kaivaa en jaksa , kerjätä en kehtaa .
+42016005	Paljonko		Hän kutsui isäntänsä velalliset vuoron perään luokseen . ' Paljonko olet velkaa isännälleni ? ' hän kysyi ensimmäiseltä .
+42016007	paljonko		Sitten hän kysyi toiselta : ' Entä sinä , paljonko sinä olet velkaa ? ' Tämä vastasi : ' Sata tynnyriä vehnää . ' Taloudenhoitaja sanoi : ' Tässä on velkakirjasi , merkitse kahdeksankymmentä . ' "
+42016011	kuka		Jos te ette luotettavasti hoida väärää rikkautta , kuka uskoo teille todellista ?
+42016012	kuka		Ja jos te ette luotettavasti hoida toisen omaisuutta , kuka teille kerran antaa sen , mikä on teidän omaanne ?
+42017007	~		" Jos teillä on palvelija kyntötöissä tai paimenessa , niin ettehän te hänen kotiin palatessaan sano : ' Käy pöytään , saat heti ruokaa . '
+42017017	Missä		Jeesus kysyi : " Eivätkö kaikki kymmenen puhdistuneet ? Missä ne yhdeksän muuta ovat ?
+42017018	~		Tämä muukalainenko on heistä ainoa , joka palasi ylistämään Jumalaa ? "
+42017020	milloin		Kun fariseukset kysyivät Jeesukselta , milloin Jumalan valtakunta tulee , hän vastasi : " Ei Jumalan valtakunta tule niin , että sen tulemista voidaan tarkkailla .
+42017037	Missä		" Missä , Herra ? " kysyivät opetuslapset . Hän sanoi : " Missä on haaska , sinne kokoontuvat korppikotkat . "
+42018018	Mitä		Muuan korkeassa asemassa oleva mies kysyi Jeesukselta : " Mitä minun pitää tehdä , hyvä opettaja , että perisin iankaikkisen elämän ? "
+42018019	Miksi		Jeesus vastasi hänelle : " Miksi sanot minua hyväksi ? Ainoastaan Jumala on hyvä , ei kukaan muu .
+42018026	Kuka		" Kuka sitten voi pelastua ? " kysyivät kuulijat .
+42018036	mitä		Kuullessaan , että tiellä kulki paljon väkeä , mies kysyi , mitä oli tekeillä .
+42018041	Mitä		" Mitä haluat minun tekevän sinulle ? " Mies vastasi : " Herra , anna minulle näköni . "
+42019007	~		Kun ihmiset näkivät tämän , he sanoivat paheksuen : " Syntisen miehen talon hän otti majapaikakseen . "
+42019023	Mikset		Mikset sitten vienyt minun rahaani pankkiin , niin että olisin palattuani voinut nostaa sen korkoineen ? '
+42019031	miksi		Jos joku kysyy , miksi te otatte sen , vastatkaa , että Herra tarvitsee sitä . "
+42019033	Miksi		Kun he olivat irrottamassa varsaa , sen omistajat kysyivät : " Miksi te viette varsan ? "
+42020002a	millä		ja sanoivat hänelle : " Kerro meille , millä valtuuksilla sinä tällaista teet . 
+42020002b	kuka		Kuka on valtuuttanut sinut tähän ? "
+42020005a	~		He neuvottelivat keskenään : " Jos sanomme : ' Taivaasta ' , hän sanoo : 
+42020005b	miksi		' Miksi sitten ette uskoneet häntä ? '
+42020013	Mitä		" Mitä minä teen ? ' mietti viinitarhan omistaja . ' Minä lähetän sinne rakkaan poikani . Häneen he varmaankaan eivät uskalla koskea . '
+42020015	Mitä		He raahasivat hänet ulos viinitarhasta ja tappoivat hänet . -- Mitä viinitarhan omistaja nyt tekee heille ?
+42020017	Mitä		Jeesus katsoi ihmisiin ja sanoi : " Mitä sitten tarkoittaa tämä kirjoitusten kohta : -- Kivi , jonka rakentajat hylkäsivät , on nyt kulmakivi .
+42020023	~		Jeesus huomasi heidän juonensa ja sanoi :
+42020024a	kenen		" Näyttäkää minulle denaarin raha . Kenen kuva 
+42020024b	~		ja nimi siinä on ? " " Keisarin " , he vastasivat .
+42020033	Kenen		Kenen vaimo tämä nainen on oleva ylösnousemuksessa ? Hänhän on ollut kaikkien seitsemän vaimona . "
+42020041	Kuinka		Jeesus kysyi heiltä : " Kuinka voidaan sanoa , että Messias on Daavidin poika ?
+42020044	Kuinka		Daavid siis kutsuu Messiasta herraksi . Kuinka Messias silloin voi olla hänen poikansa ? "
+42021007a	milloin		Jotkut kysyivät : " Opettaja , milloin tämä kaikki tapahtuu ? 
+42021007b	mikä		Mikä on merkkinä siitä , että se aika on tulossa ? "
+42022009	Minne		He kysyivät : " Minne tahdot meidän valmistavan sen ? "
+42022011	missä		ja sanokaa talon isännälle : ' Opettaja kysyy sinulta , missä on huone , jossa hän voi syödä pääsiäisaterian opetuslastensa kanssa . '
+42022027	Kumpi		Kumpi on suurempi , se , joka on aterialla , vai se , joka palvelee häntä ? Eikö se , joka on aterialla ? Mutta minä olen teidän keskellänne niin kuin se , joka palvelee .
+42022046	Mitä		" Mitä ? Nukutteko te ? " hän sanoi . " Nouskaa ja rukoilkaa , ettette joutuisi kiusaukseen . "
+42022064	Kuka		He peittivät hänen silmänsä ja sanoivat : " Profetoi nyt ! Kuka sinua löi ? "
+42022071	Mitä		Silloin he sanoivat : " Mitä me enää todisteita tarvitsemme ! Mehän olemme kuulleet sen hänen omasta suustaan . "
+42023022a	~		Pilatus sanoi heille kolmannen kerran : 
+42023022b	mitä		" Mitä pahaa hän sitten on tehnyt ? En ole havainnut mitään , minkä vuoksi hänet pitäisi tuomita kuolemaan . Minä päästän hänet vapaaksi , kunhan olen antanut kurittaa häntä . "
+42023031	mitä		Jos näin tehdään vihannalle puulle , mitä tapahtuukaan kuivalle ! "
+42024005	Miksi		Naiset pelästyivät ja painoivat katseensa maahan . Mutta miehet sanoivat heille : " Miksi etsitte elävää kuolleiden joukosta ?
+42024017	Mistä		Jeesus kysyi heiltä : " Mistä te oikein keskustelette , matkamiehet ? " He pysähtyivät murheellisina ,
+42024019	Mitä		" Mitä te tarkoitatte ? " Jeesus kysyi . He vastasivat : " Sitä , mitä tapahtui Jeesus Nasaretilaiselle . Se mies oli tosi profeetta , voimallinen sanoissa ja teoissa , sekä Jumalan että kaiken kansan edessä .
+42024025	~		Silloin Jeesus sanoi heille : " Voi teitä ymmärtämättömiä ! Noinko hitaita te olette uskomaan kaikkea sitä , mitä profeetat ovat puhuneet ?
+42024038a	miksi		Mutta Jeesus sanoi heille : " Miksi te olette noin kauhuissanne ? 
+42024038b	miksi		Miksi teidän mieleenne nousee epäilyksiä ?
+43001019	Kuka		Tämä on todistus , jonka Johannes antoi , kun juutalaiset lähettivät Jerusalemista pappeja ja leeviläisiä kysymään häneltä : " Kuka sinä olet ? "
+43001021	Mikä		" En minä ole Messias . " " Mikä sitten ? " he kysyivät . " Oletko Elia ? " " En ole " , Johannes vastasi . " Oletko se luvattu profeetta ? " Hän vastasi : " En . "
+43001022a	kuka		Silloin he sanoivat : " Kuka sitten olet ? Meidän on vietävä vastaus niille , jotka meidät lähettivät . 
+43001022b	mitä		Mitä sanot itsestäsi ? "
+43001025	Miksi		He kysyivät häneltä : " Miksi sitten kastat ihmisiä , jos et ole Messias , et Elia etkä se profeetta ? "
+43001038a	mitä		Jeesus kääntyi , ja nähdessään heidän seuraavan hän kysyi : " Mitä te haluatte ? " He vastasivat : 
+43001038b	missä		" Rabbi " -- se merkitsee : opettaja -- " missä sinä asut ? "
+43001046	~		" Nasaretistako ? " Natanael kysyi . " Voiko Nasaretista tulla mitään hyvää ? " " Tule , niin näet " , sanoi Filippus .
+43001048	Mistä		" Mistä sinä minut tunnet ? " kysyi Natanael . Jeesus vastasi hänelle : " Jo ennen kuin Filippus kutsui sinua , näin sinut viikunapuun alla . "
+43002004	~		Mutta Jeesus vastasi : " Anna minun olla , nainen . Minun aikani ei ole vielä tullut . "
+43002018a	mikä		Juutalaiset sanoivat Jeesukselle : " Mikä oikeus sinulla on tehdä noin ? 
+43002018b	millä		Millä tunnusteolla todistat meille oikeutesi ? "
+43003004	Miten		Nikodemos kysyi : " Miten joku voisi vanhana syntyä ? Miten joku voisi mennä takaisin äitinsä kohtuun ja syntyä toisen kerran ? "
+43003009	miten		" Miten tämä kaikki on mahdollista ? " Nikodemos kysyi .
+43003012	kuinka		Jos te ette usko , kun puhun teille tämän maailman asioista , kuinka voisitte uskoa , kun puhun taivaallisista !
+43004009	kuinka		Samarialaisnainen sanoi : " Sinähän olet juutalainen , kuinka sinä pyydät juotavaa samarialaiselta naiselta ? " Juutalaiset eivät näet ole missään tekemisissä samarialaisten kanssa .
+43004011	Mistä		Nainen sanoi : " Herra , eihän sinulla edes ole astiaa , ja kaivo on syvä . Mistä sinä lähdevettä ottaisit ?
+43004027a	mitä		Juuri silloin tulivat opetuslapset paikalle . Heitä hämmästytti , että Jeesus puhui naisen kanssa , mutta kukaan ei kuitenkaan kysynyt , mitä hän tahtoi 
+43004027b	miksi		ja miksi hän puhui naiselle .
+43005012	Kuka		Silloin juutalaiset kysyivät : " Kuka se mies oli , joka käski sinun ottaa vuoteesi ja kävellä ? "
+43005044	Kuinka		Kuinka te voisittekaan uskoa ! Te kärkytte kunniaa toisiltanne ettekä etsi sitä kunniaa , joka tulee yhdeltä ja ainoalta Jumalalta .
+43005047	kuinka		Mutta kun te ette usko hänen kirjoituksiaan , kuinka voisitte uskoa minun puhettani ! "
+43006005	Mistä		Jeesus kohotti katseensa ja näki , että suuri ihmisjoukko oli tulossa . Hän kysyi Filippukselta : " Mistä voisimme ostaa leipää , että he saisivat syödäkseen ? "
+43006009	miten		" Täällä on poika , jolla on viisi ohraleipää ja kaksi kalaa . Mutta miten ne riittäisivät noin suurelle joukolle ? "
+43006025	milloin		He löysivät Jeesuksen järven toiselta puolelta ja kysyivät häneltä : " Rabbi , milloin sinä olet tullut tänne ? "
+43006028	Mitä		He kysyivät : " Mitä meidän tulee tehdä , että tekomme olisivat Jumalan tekoja ? "
+43006030a	minkä		He sanoivat Jeesukselle : " Minkä tunnusteon teet , että me sen nähtyämme uskomme sinuun ? 
+43006030b	mitä		Mitä sinä teet ?
+43006042	Kuinka		He sanoivat : " Eikö tämä ole Jeesus , Joosefin poika ? Me tiedämme hänen isänsä ja äitinsä . Kuinka hän voi sanoa tulleensa alas taivaasta ? "
+43006052	Kuinka		Tästä sukeutui kiivas väittely juutalaisten kesken . He kysyivät toisiltaan : " Kuinka tuo mies voisi antaa ruumiinsa meidän syötäväksemme ? "
+43006060	Kuka		Tämän kuultuaan monet hänen opetuslapsistaan sanoivat : " Sietämätöntä puhetta . Kuka voi kuunnella tuollaista ? "
+43006062	Miten		Miten käykään , jos te näette Ihmisen Pojan nousevan sinne , missä hän ennen oli !
+43006068	kenen		Simon Pietari vastasi hänelle : " Herra , kenen luo me menisimme ? Sinulla on ikuisen elämän sanat .
+43007011	Missä		Juhlien alettua juutalaiset etsivät häntä ja kyselivät : " Missä se mies on ? "
+43007015	Kuinka		Juutalaiset olivat ihmeissään ja sanoivat : " Kuinka tuo oppimaton mies voi tuntea kirjoitukset ? "
+43007019	Miksi		Mooses antoi teille lain , vai kuinka ? Silti yksikään teistä ei noudata sitä . Miksi te haluatte tappaa minut ? "
+43007020	Kuka		Ihmiset sanoivat : " Sinussa on paha henki . Kuka sinut yrittäisi tappaa ? "
+43007023	miksi		Jos kerran ihminen ympärileikataan sapattinakin , ettei Mooseksen lakia rikottaisi , niin miksi te olette vihoissanne siitä , että minä sapattina paransin koko ihmisen ?
+43007035	Minne		Juutalaiset kyselivät toisiltaan : " Minne hän aikoo mennä ? Mistä me emme häntä löytäisi ? Onko hän lähdössä niiden luo , jotka asuvat kreikkalaisten keskuudessa ? Aikooko hän opettaa kreikkalaisiakin ?
+43007036	Mitä		Mitä hän mahtoi tarkoittaa sanoessaan : ' Te etsitte minua mutta ette löydä ' , ja : ' Te ette pääse sinne , missä minä olen ' ? "
+43007041	~		Toiset sanoivat : " Hän on Messias . " Mutta toiset epäilivät : " Ei kai Messias Galileasta tule !
+43007045	Miksi		Jeesusta pidättämään lähetetyt miehet palasivat ylipappien ja fariseusten luo , ja nämä kysyivät : " Miksi ette tuoneet häntä ? "
+43007048	~		Onko kukaan hallitusmies uskonut häneen ? Tai yksikään fariseus ?
+43007051	~		" Eihän meidän lakimme mukaan ketään voi tuomita , ennen kuin on kuultu häntä ja otettu selville , mitä hän on tehnyt . "
+43008005	Mitä		Mooses on laissa antanut meille määräyksen , että tällaiset on kivitettävä . Mitä sinä sanot ? "
+43008010	missä		Jeesus kohotti päänsä ja kysyi : " Nainen , missä ne kaikki ovat ? Eikö kukaan tuominnut sinua ? "
+43008019	Missä		" Missä sinun isäsi on ? " he kysyivät . Jeesus vastasi : " Te ette tunne minua ettekä Isääni . Jos tuntisitte minut , tuntisitte myös Isäni . "
+43008025a	kuka		" Kuka sitten olet ? " he kysyivät . Jeesus vastasi : 
+43008025b	miksi		" Miksi minä ollenkaan puhun teille ?
+43008033	Kuinka		He vastasivat hänelle : " Me olemme Abrahamin jälkeläisiä , emme me ole koskaan olleet kenenkään orjia . Kuinka voit sanoa , että meistä tulee vapaita ? "
+43008043	Miksi		Miksi te ette ymmärrä minun puhettani ? Siksi , että te ette siedä kuunnella , mitä minä sanon .
+43008046a	kuka		Kuka teistä voi osoittaa , että minä olen tehnyt syntiä ? 
+43008046b	miksi		Ja jos puhun totta , miksi ette usko minua ?
+43008053	Mikä		Sinäkö muka olet suurempi kuin isämme Abraham ? Hän on kuollut , ja niin ovat kuolleet myös profeetat . Mikä sinä luulet olevasi ? "
+43008057	~		Juutalaiset sanoivat hänelle : " Et ole edes viidenkymmenen ja olet muka nähnyt Abrahamin ! "
+43009002	kuka		Opetuslapset kysyivät häneltä : " Rabbi , kuka on tehnyt sen synnin , jonka vuoksi hän on syntynyt sokeana ? Hän itsekö vai hänen vanhempansa ? "
+43009010	Kuinka		He kysyivät häneltä : " Kuinka olet saanut näkösi ? "
+43009012	Missä		" Missä se mies on ? " he kysyivät häneltä , mutta hän vastasi : " En tiedä . "
+43009016	~		Silloin jotkut fariseuksista sanoivat : " Ei hän voi olla Jumalan mies , koska hän ei noudata sapattikäskyä . " Toiset taas sanoivat : " Voisiko syntinen ihminen tehdä sellaisia ihmeitä ? " Tästä syntyi kiistaa ,
+43009017	Mitä		ja siksi he kysyivät taas sokealta : " Mitä mieltä sinä itse olet hänestä ? Sinunhan silmäsi hän avasi . " Mies vastasi : " Hän on profeetta . "
+43009019	Kuinka		He kysyivät vanhemmilta : " Onko tämä teidän poikanne ? Väitättekö te hänen syntyneen sokeana ? Kuinka sitten on mahdollista , että hän nyt näkee ? "
+43009026a	mitä		He kyselivät : " Mitä hän sinulle teki ? 
+43009026b	millä		Millä tavoin hän avasi silmäsi ? "
+43009027	Miksi		Mies vastasi : " Johan minä sen teille sanoin , te vain ette kuunnelleet . Miksi te taas tahdotte sen kuulla ? Tekeekö teidänkin mieli hänen opetuslapsikseen ? "
+43009034	~		Silloin fariseukset sanoivat : " Sinä olet syntymästäsi syntinen , syntiä täynnä koko mies -- ja sinä rupeat opettamaan meitä ! " He ajoivat miehen ulos .
+43009036	kuka		" Herra , kuka hän on ? " mies kysyi . " Sano , jotta voisin uskoa . "
+43010020	Mitä		Monet heistä sanoivat : " Hänessä on paha henki , hän on järjiltään . Mitä te häntä kuuntelette ? "
+43010021	~		Toiset taas sanoivat : " Noin ei puhu sellainen , jossa on paha henki . Ja pystyisikö paha henki avaamaan sokeiden silmät ? "
+43010024	Kuinka kauan		juutalaiset piirittivät hänet ja tiukkasivat : " Kuinka kauan sinä kiusaat meitä ? Jos olet Messias , sano se suoraan . "
+43010032	Mikä		Jeesus sanoi heille : " Minä olen teidän nähtenne tehnyt monta hyvää tekoa , jotka ovat lähtöisin Isästä . Mikä niistä antaa teille aiheen kivittää minut ? "
+43010036	Kuinka		Isä on minut pyhittänyt ja lähettänyt maailmaan . Kuinka te voitte väittää minun pilkkaavan Jumalaa , kun sanon olevani Jumalan Poika ?
+43011034	Missä		ja hän kysyi : " Missä hänen hautansa on ? " " Herra , tule katsomaan " , he vastasivat .
+43011047	Mitä		Ylipapit ja fariseukset kutsuivat neuvoston koolle ja kysyivät siltä : " Mitä meidän pitäisi tehdä ? Se mies tekee paljon tunnustekoja .
+43011056	Mitä		He etsivät Jeesusta ja puhuivat temppelissä keskenään : " Mitä arvelette ? Tuskinpa hän tulee juhlille . "
+43012005	Miksei		" Miksei tuota voidetta myyty kolmestasadasta denaarista ? Rahat olisi voitu antaa köyhille . "
+43012027	Mitä		" Nyt olen järkyttynyt . Mitä sanoisin ? Isä , pelasta minut tästä hetkestä ! Ei ! Juuri tähän on elämäni tähdännyt .
+43012034a	kuinka		Ihmiset sanoivat Jeesukselle : " Me olemme laista oppineet , että Messias pysyy ikuisesti . Kuinka voit sanoa , että Ihmisen Poika on korotettava ? 
+43012034b	kuka		Kuka tämä Ihmisen Poika on ? "
+43012038a	kuka		Näin kävi toteen profeetta Jesajan sana : -- Herra , kuka uskoi meidän sanomamme ? 
+43012038b	kenen		Kenelle ilmaistiin Herran käsivarren voima ?
+43013025	kuka		Opetuslapsi nojautui taaksepäin , Jeesuksen rintaa vasten , ja kysyi : " Herra , kuka se on ? "
+43013036	Minne		" Herra , minne sinä menet ? " kysyi Simon Pietari . Jeesus vastasi : " Minne minä menen , sinne et sinä nyt voi tulla minun kanssani , mutta myöhemmin kyllä tulet . "
+43013037	miksi		Pietari sanoi : " Herra , miksi en nyt pääse mukaasi ? Minä annan vaikka henkeni puolestasi . "
+43014002	~		Minun Isäni kodissa on monta huonetta -- enhän minä muuten sanoisi , että menen valmistamaan teille asuinsijan .
+43014005	Kuinka		Tuomas sanoi hänelle : " Herra , emme me tiedä , minne sinä menet . Kuinka voisimme tuntea tien ? "
+43014009	Kuinka		Jeesus vastasi : " Etkö sinä , Filippus , tunne minua , vaikka olen jo näin kauan ollut teidän seurassanne ? Joka on nähnyt minut , on nähnyt Isän . Kuinka voit sanoa : ' Anna meidän nähdä Isä ' ?
+43014022	miksi		Juudas -- se toinen , ei Iskariot -- sanoi hänelle : " Herra , miksi teet niin ? Miksi ilmaiset itsesi vain meille etkä maailmalle ? "
+43016005	minne		Mutta nyt minä menen hänen luokseen , joka on minut lähettänyt . Kukaan teistä ei kysy minulta , minne minä menen ,
+43016017	Mitä		Jotkut opetuslapsista kyselivät toisiltaan : " Mitä hän oikein tarkoittaa sanoessaan : ' Vielä vähän aikaa , ettekä te näe minua , taas vähän aikaa , ja te näette minut jälleen ' ? Ja mitä hän tarkoittaa , kun sanoo menevänsä Isän luo ? "
+43016018	Miksi		" Miksi hän puhuu vähästä ajasta ? " he ihmettelivät . " Ei hänen puhettaan ymmärrä . "
+43018004	Ketä		Jeesus tiesi kaiken , mikä häntä odotti . Hän meni miehiä vastaan ja kysyi : " Ketä te etsitte ? "
+43018007	Ketä		Jeesus kysyi uudelleen : " Ketä te etsitte ? " He vastasivat : " Jeesus Nasaretilaista . "
+43018011	~		Mutta Jeesus sanoi Pietarille : " Pane miekkasi tuppeen ! Kun Isä on tämän maljan minulle antanut , enkö minä joisi sitä ? "
+43018021	Miksi		Miksi sinä minulta kysyt ? Kysy kuulijoiltani , mitä olen heille puhunut . He kyllä tietävät , mitä olen sanonut . "
+43018023	miksi		Jeesus sanoi miehelle : " Jos puhuin väärin , osoita , mikä puheessani oli sopimatonta . Jos taas puhuin oikein , miksi lyöt minua ? "
+43018029	Mistä		Niinpä Pilatus tuli ulos heidän luokseen ja kysyi : " Mistä te syytätte tätä miestä ? "
+43018035	Mitä		Pilatus sanoi : " Olenko minä mikään juutalainen ? Oma kansasi ja ylipapit sinut ovat minulle luovuttaneet . Mitä sinä olet tehnyt ? "
+43018038	Mitä		" Mitä on totuus ? " kysyi Pilatus . Tämän sanottuaan Pilatus meni taas ulos juutalaisten luo ja sanoi heille : " En voi havaita hänen syyllistyneen mihinkään rikokseen .
+43019009	Mistä		Hän meni takaisin palatsiin ja kysyi Jeesukselta : " Mistä sinä olet lähtöisin ? " Mutta Jeesus ei vastannut hänelle .
+43019015	~		Juutalaiset huusivat : " Pois ! Pois ! Ristiinnaulitse hänet ! " Pilatus sanoi heille : " Pitääkö minun ristiinnaulita teidän kuninkaanne ? " Mutta ylipapit vastasivat : " Ei meillä ole muuta kuningasta kuin keisari . "
+43020013	Mitä		Enkelit sanoivat hänelle : " Mitä itket , nainen ? " Hän vastasi : " Minun Herrani on viety pois , enkä tiedä , minne hänet on pantu . "
+43020015a	mitä		Jeesus sanoi hänelle : " Mitä itket , nainen ? 
+43020015b	ketä		Ketä sinä etsit ? " Maria luuli Jeesusta puutarhuriksi ja sanoi : " Herra , jos sinä olet vienyt hänet täältä , niin sano , minne olet hänet pannut . Minä haen hänet pois . "
+43021012	Kuka		Jeesus sanoi : " Tulkaa syömään . " Kukaan opetuslapsista ei rohjennut kysyä : " Kuka sinä olet ? " , sillä he tiesivät , että se oli Herra .
+43021020	kuka		Pietari kääntyi katsomaan taakseen ja näki , että heidän perässään tuli Jeesuksen rakkain opetuslapsi , se , joka aterialla oli nojannut hänen rintaansa vasten ja kysynyt : " Herra , kuka se on ? Kuka sinut kavaltaa ? "
+43021021	~		Hänet nähdessään Pietari kysyi Jeesukselta : " Entä hän , Herra ? "
+43021022	Mitä		Jeesus vastasi : " Mitä se sinulle kuuluu , vaikka tahtoisin hänen jäävän tänne aina siihen asti kun tulen ? Seuraa sinä minua . "
+43021023	Mitä		Tästä sai veljien keskuudessa alkunsa käsitys , ettei se opetuslapsi kuole . Jeesus ei kuitenkaan sanonut Pietarille , ettei tämä opetuslapsi kuole . Hän sanoi : " Mitä se sinulle kuuluu , vaikka tahtoisin hänen jäävän tänne aina siihen asti kun tulen ? "
+44001011	mitä		Nämä sanoivat : " Galilean miehet , mitä te siinä seisotte katselemassa taivaalle ? Tämä Jeesus , joka otettiin teidän luotanne taivaaseen , tulee kerran takaisin , samalla tavoin kuin näitte hänen taivaaseen menevän . "
+44002008	Kuinka		Kuinka me sitten kuulemme kukin oman synnyinmaamme kieltä ?
+44002012	Mitä		He eivät tienneet , mitä ajatella . Ihmeissään he kyselivät toinen toiseltaan : " Mitä tämä oikein on ? "
+44002037	mitä		Kuullessaan tämän kaikki tunsivat piston sydämessään , ja he sanoivat Pietarille ja muille apostoleille : " Veljet , mitä meidän pitää tehdä ? "
+44003012a	miksi		Tämän nähdessään Pietari alkoi puhua kansalle : " Israelilaiset , miksi te tätä ihmettelette ? 
+44003012b	miksi		Miksi te tuijotatte meitä , aivan kuin me omalla voimallamme tai hurskaudellamme olisimme saaneet tämän miehen kävelemään ?
+44004007a	~		He käskivät tuoda apostolit eteensä ja kysyivät : 
+44004007b	millä		" Millä voimalla 
+44004007c	kenen		ja kenen nimessä te tämän teitte ? "
+44004016	Mitä		" Mitä me teemme näille miehille ? Heidän toimestaan on selvästikin tapahtunut ihme . Jerusalemilaiset sen jo tietävät , emmekä me voi sitä kiistää .
+44004025a	miksi		Sinä olet antanut Pyhän Henkesi puhua palvelijasi Daavidin , meidän isämme , suulla : -- Miksi pakanat raivoavat , 
+44004025b	~		kansat punovat turhia juonia ?
+44005003	miksi		Silloin Pietari sanoi : " Ananias , miksi olet antanut sydämesi Saatanan valtaan ? Miksi yritit pettää Pyhää Henkeä ja jättää maatilan hinnasta osan itsellesi ?
+44005004	Kuinka		Tilahan oli sinun , kun et vielä ollut myynyt sitä , ja sinun olivat myös rahat , kun sen myit . Kuinka saatoit ryhtyä tällaiseen tekoon ? Et sinä ole valehdellut ihmisille , vaan Jumalalle . "
+44005009	Kuinka		Silloin Pietari sanoi : " Kuinka te yksissä tuumin ryhdyitte koettelemaan Herran Henkeä ? Kuuletko askelia oven takaa ? Ne , jotka hautasivat miehesi , kantavat täältä myös sinut . "
+44007026	Miksi		Seuraavana päivänä hän tuli paikalle juuri kun kaksi heistä tappeli keskenään , ja hän yritti saada sovinnon aikaan . Hän sanoi : ' Miehet , tehän olette veljiä ! Miksi te käytte toistenne kimppuun ? '
+44007027	Kuka		Mutta se mies , joka oli tappelun aloittanut , työnsi Mooseksen syrjään ja sanoi : ' Kuka sinut on pannut meidän päälliköksemme ja tuomariksemme ?
+44007035	Kuka		" Tämän Mooseksen israelilaiset olivat kieltäneet sanoen : ' Kuka sinut on pannut päälliköksi ja tuomariksi ? ' Mutta juuri hänet Jumala lähetti päälliköksi ja vapauttajaksi , kun enkeli ilmestyi hänelle orjantappurapensaassa .
+44007049a	millaisen		-- Taivas on minun valtaistuimeni ja maa minun jalkojeni koroke . Millaisen talon te minulle rakentaisitte , sanoo Herra , 
+44007049b	mikä		mikä olisi minun asuinsijani ?
+44007052	~		Onko yhtäkään profeettaa , jota teidän isänne eivät olisi vainonneet ? He tappoivat ne , jotka ennalta ilmoittivat , että Vanhurskas oli tuleva . Ja nyt olette te kavaltaneet ja murhanneet hänet !
+44008031	Kuinka		Mies vastasi : " Kuinka ymmärtäisin , kun kukaan ei minua neuvo . " Hän pyysi Filipposta nousemaan vaunuihin ja istumaan vierellään .
+44008033	Kuka		Kun hänet alennettiin , hänen tuomionsa otettiin pois . Kuka voi laskea hänen jälkeläistensä määrän ? Hänen elämänsä otetaan pois maan päältä .
+44008034	kenestä		Hoviherra sanoi Filippokselle : " Voisitko sanoa , kenestä profeetta puhuu , itsestäänkö vai jostakin toisesta ? "
+44008036	~		Matkan jatkuessa he tulivat paikkaan , jossa oli vettä . Silloin hoviherra sanoi : " Tässä on vettä . Estääkö mikään kastamasta minua ? " [
+44009004	miksi		Hän kaatui maahan ja kuuli äänen sanovan : " Saul , Saul , miksi vainoat minua ? "
+44009005	kuka		Hän kysyi : " Herra , kuka sinä olet ? " Ääni vastasi : " Minä olen Jeesus , jota sinä vainoat .
+44009006	mitä		Nouse ja mene kaupunkiin . Siellä saat kuulla , mitä sinun on tehtävä . "
+44010004	Mitä		Cornelius tuijotti peloissaan enkeliä ja kysyi : " Mitä tahdot , herra ? " Enkeli vastasi : " Rukouksesi ja almusi ovat uhrina nousseet Jumalan eteen , ja hän on muistanut sinut .
+44010021	Mikä		Pietari meni alas miesten luo ja sanoi : " Minä olen se , jota etsitte . Mikä on asianne ? "
+44010029	miksi		Siksi lähdin vastustelematta , kun minua tultiin hakemaan . Nyt tahtoisin tietää , miksi te pyysitte minua tulemaan . "
+44010047	kuka		" Kuka voi estää kastamasta vedellä näitä , jotka ovat saaneet Pyhän Hengen niin kuin mekin ? "
+44011017a	mikä		Jos siis Jumala silloin , kun heistä tuli Herraan Jeesukseen uskovia , antoi heille samanlaisen lahjan kuin meille , mikä olin minä estämään Jumalaa ? "
+44011017b	~		
+44012018	Mitä		Aamulla sotilaiden keskuudessa syntyi tavaton hämminki . Mitä oli tapahtunut Pietarille ?
+44013025	~		Kun Johannes oli matkansa päässä , hän sanoi : ' En minä ole se , joksi te minua luulette . Minun jälkeeni tulee toinen , jonka kenkiäkään minä en kelpaa riisumaan . '
+44014015	Mitä		" Mitä te oikein teette ? Ihmisiä me vain olemme , samanlaisia kuin te . Me julistamme teille hyvää sanomaa ja kehotamme teitä luopumaan näistä tyhjänpäiväisistä jumalista ja kääntymään elävän Jumalan puoleen , hänen , joka on luonut taivaan ja maan ja meren ja kaiken , mitä niissä on .
+44015010	Miksi		Miksi te siis nyt uhmaatte Jumalaa ja panette opetuslasten harteille ikeen , jota eivät meidän isämme emmekä me itse ole jaksaneet kantaa ?
+44016030	Mitä		Hän vei heidät ulos ja kysyi : " Herrat ! Mitä minun on tehtävä , että pelastuisin ? "
+44017018	Minkähän		Muutamat epikurolaiset ja stoalaiset filosofit ryhtyivät puheisiin hänen kanssaan , ja jotkut heistä sanoivat : " Minkähän tiedonjyvän tuokin luulee noukkineensa ? " " Taitaa olla vieraiden jumalien julistajia " , sanoivat toiset , sillä Paavali julisti evankeliumia Jeesuksesta ja ylösnousemuksesta .
+44017019	mikä		He veivät hänet mukanaan Areiopagille ja sanoivat : " Saisimmeko tietää , mikä on se uusi oppi , jota sinä julistat ?
+44019003	Millä		" Millä kasteella teidät sitten on kastettu ? " kysyi Paavali . He vastasivat : " Johanneksen kasteella . "
+44019015	keitä		mutta paha henki vastasi heille : " Jeesuksen minä tunnen ja Paavalinkin tiedän , mutta keitä te olette ? "
+44019035	~		Lopulta kaupungin sihteeri sai joukon rauhoittumaan . " Efesolaiset ! " hän huusi . " Kaikkihan tietävät , että Efesoksen kaupunki on pantu vaalimaan suuren Artemiin temppeliä ja hänen taivaasta pudonnutta kuvaansa .
+44021013a	miksi		Mutta Paavali sanoi : " Miksi te tuollaista puhutte , 
+44021013b	miksi		miksi itkette ja raastatte minun sydäntäni ? Minä olen valmis kahleisiin ja kuolemaankin Jerusalemissa Herran Jeesuksen nimen tähden . "
+44021022	Mitä		Mitä siis tehdä ? Varmastikin he saavat kuulla , että olet täällä .
+44021033a	kuka		Komentaja astui lähemmäs , pidätti Paavalin ja käski panna hänet kaksiin kahleisiin . Hän kysyi sitten ihmisiltä , kuka mies oli 
+44021033b	mitä		ja mitä hän oli tehnyt .
+44022007	miksi		Kaaduin maahan ja kuulin äänen sanovan : ' Saul , Saul , miksi vainoat minua ? '
+44022008	kuka		Minä kysyin : ' Herra , kuka sinä olet ? ' Ääni vastasi : ' Minä olen Jeesus Nasaretilainen , jota sinä vainoat . '
+44022010	mitä		Minä kysyin : ' Herra , mitä minun tulee tehdä ? ' Herra sanoi minulle : ' Nouse ja mene Damaskokseen . Siellä saat kuulla kaiken , mitä sinun tehtäväksesi on määrätty . '
+44022016	~		Älä vitkastele . Huuda avuksi hänen nimeään , nouse ja anna kastaa itsesi , anna pestä syntisi pois . '
+44022026	Mitä		Tämän kuultuaan sadanpäällikkö meni komentajan luo , ilmoitti asiasta ja sanoi : " Mitä olet tekemässä ? Se mies on Rooman kansalainen . "
+44023003	~		Paavali sanoi hänelle : " Sinä saat vielä iskun Jumalan kädestä , sinä kalkilla valkaistu seinä ! Sinä istut oikeutta tuomitaksesi minut lain mukaan , mutta teet vastoin lakia ja käsket lyödä minua . "
+44023009	~		Meteli kävi yhä kovemmaksi , ja fariseusten joukosta muutamat lainopettajat alkoivat jo väittää : " Me emme voi havaita tässä miehessä mitään pahaa . Jospa henki tai enkeli on puhunut hänelle . "
+44023019	Mitä		Komentaja otti nuorukaista kädestä , vei hänet syrjään ja kysyi : " Mitä asiaa sinulla on minulle ? "
+44026008	Miksi		Miksi teistä on niin uskomatonta , että Jumala herättää kuolleet ?
+44026014	miksi		Me kaikki kaaduimme maahan , ja minä kuulin äänen sanovan heprean kielellä : ' Saul , Saul , miksi vainoat minua ? Paha sinun on potkia pistintä vastaan . '
+44026015	kuka		Minä kysyin : ' Herra , kuka sinä olet ? ' Herra sanoi : ' Minä olen Jeesus , jota sinä vainoat .
+45002017	Kuinka		Kuinka siis on ? Sinä sanot itseäsi juutalaiseksi , sinä luotat lakiin ja ylpeilet Jumalastasi .
+45002021	~		Kun siis opetat muita , etkö opetakaan itseäsi ? Varastatko itse , vaikka julistat , ettei saa varastaa ?
+45002028	~		Oikea juutalainen ei ole se , joka on juutalainen ulkonaisesti , eikä oikea ympärileikkaus ole se , joka on ulkonaisesti näkyvänä ruumiissa .
+45003001a	mitä		Mitä etuja sitten on juutalaisilla , 
+45003001b	mitä		ja mitä hyötyä on ympärileikkauksesta ?
+45003003	~		Mutta vaikka jotkut ovatkin olleet epäuskoisia , ei kai heidän epäuskonsa tee Jumalan uskollisuutta tyhjäksi ?
+45003005	mitä		Mutta jos meidän väärämielisyytemme tuo esiin Jumalan oikeamielisyyden , mitä meidän on silloin sanottava ? Onko Jumala ehkä väärämielinen -- puhun nyt ihmisten tavoin -- kun hän antaa vihan kohdata meitä ?
+45003006	Kuinka		Ei suinkaan ! Kuinka Jumala siinä tapauksessa voisi tuomita maailman ?
+45003007a	~		Mutta jos minun valheellisuuteni vain lisää Jumalan kirkkautta , kun sen ansiosta hänen totuutensa yhä korostuu , 
+45003007b	miksi		miksi minut sitten tuomitaan syntisenä ?
+45003008	~		Ei kai asia niin ole , kuin jotkut herjaajat väittävät meidän sanovan : " Tehdään vain pahaa , niin saadaan aikaan hyvää ! " He kyllä saavat ansaitsemansa rangaistuksen .
+45003009	Miten		Miten siis on ? Olemmeko me muita parempia ? Emme lainkaan . Olen jo esittänyt sen syytöksen , että kaikki , niin juutalaiset kuin kreikkalaisetkin , ovat synnin vallassa .
+45003027a	~		Onko siis syytä kerskailuun ? Siltä on pohja pudonnut pois . 
+45003027b	mikä		Mikä laki on saanut tämän aikaan ? 
+45003027c	~		Sekö , joka vaatii tekoja ? Ei , vaan uskon laki .
+45004001	Mitä		Mitä meidän on sanottava Abrahamista , kansamme kantaisästä ? Mitä hän saikaan osakseen ?
+45004003	Mitä		Mitä sanovat kirjoitukset ? " Abraham uskoi Jumalan lupaukseen , ja Jumala katsoi hänet vanhurskaaksi . "
+45004010	~		Oliko Abraham silloin ympärileikattu ? Ei ollut , hän oli vielä ympärileikkaamaton .
+45005010	~		Jos kerran Jumalan Pojan kuolema sovitti meidät Jumalan kanssa , kun olimme hänen vihollisiaan , paljon varmemmin on Jumalan Pojan elämä pelastava meidät nyt , kun sovinto on tehty .
+45005021	~		Niin kuin synti on hallinnut ja vienyt kuolemaan , niin on armo hallitseva ja johtava ikuiseen elämään , koska Herramme Jeesus Kristus on lahjoittanut meille vanhurskauden .
+45006001	Mitä		Mitä me tähän sanomme ? Onko meidän jatkuvasti tehtävä syntiä , jotta armo tulisi yhä suuremmaksi ?
+45006002	kuinka		Ei tietenkään . Kun kerran olemme kuolleet pois synnistä , kuinka voisimme edelleen elää siinä ?
+45006015	Miten		Miten siis on ? Saammeko tehdä syntiä , koska emme elä lain vaan armon alaisina ? Emme toki !
+45006021	Minkä		Minkä sadon te siitä korjasitte ? Kaikkea sellaista mitä nyt häpeätte , sillä sen loppuna on kuolema .
+45007007	Mitä		Mitä meidän on siis sanottava ? Onko laki syntiä ? Ei toki . Mutta vasta lain vaikutuksesta tulin tuntemaan synnin . Himo olisi ollut minulle tuntematon asia , ellei laki olisi sanonut : " Älä himoitse . "
+45007024	Kuka		Minä kurja ihminen ! Kuka pelastaa minut tästä kuoleman ruumiista ?
+45008024	~		Meidät on pelastettu , se on varma toivomme . Mutta toivo , jonka jo näkee täyttyneen , ei enää ole toivo . Kukapa toivoo sellaista , minkä jo näkee !
+45008031a	mitä		Mitä voimme tästä päätellä ? 
+45008031b	kuka		Jos Jumala on meidän puolellamme , kuka voi olla meitä vastaan ?
+45008032	kuinka		Kun hän ei säästänyt omaa Poikaansakaan vaan antoi hänet kuolemaan kaikkien meidän puolestamme , kuinka hän ei lahjoittaisi Poikansa mukana meille kaikkea muutakin ?
+45008033	Kuka		Kuka voi syyttää Jumalan valittuja ? Jumala -- mutta hän julistaa vanhurskaaksi !
+45008034	Kuka		Kuka voi tuomita kadotukseen ? Kristus -- mutta hän on kuollut meidän tähtemme , ja enemmänkin : hänet on herätetty kuolleista , hän istuu Jumalan oikealla puolella ja rukoilee meidän puolestamme !
+45008035	Mikä		Mikä voi erottaa meidät Kristuksen rakkaudesta ? Tuska tai ahdistus , vaino tai nälkä , alastomuus , vaara tai miekka ?
+45009014	Mitä		Mitä me tähän sanomme ? Ei kai Jumala ole epäoikeudenmukainen ? Ei suinkaan .
+45009019a	miksi		Joku teistä ehkä kysyy : " Miksi Jumala sitten moittii ihmisiä ? 
+45009019b	~		Eihän kukaan voi vastustaa hänen tahtoaan . "
+45009020a	mikä		Ihmisparka , mikä sinä olet arvostelemaan Jumalaa ? 
+45009020b	~		Sanooko saviastia muovaajalleen : 
+45009020c	miksi		" Miksi teit minusta tällaisen ? "
+45009021	~		Kyllä kai savenvalajalla on oikeus tehdä samasta savesta toinen astia arvokasta ja toinen arkista käyttöä varten ?
+45009022	~		Näin on myös Jumala tehnyt näyttääkseen vihansa ja osoittaakseen voimansa . Suuressa kärsivällisyydessään hän on tosin säästänyt noita vihan astioita , jotka on määrätty tuhottaviksi .
+45009023	~		Loppumattoman kirkkautensa hän taas on antanut ilmetä niistä astioista , joita kohtaan hän osoittaa laupeutta ja jotka hän on valmistanut kirkkautta varten .
+45009024	~		Sellaisiksi hän on kutsunut meidät , olimmepa juutalaisia tai emme .
+45009030	Mitä		Mitä tämä siis merkitsee ? Sitä , että vieraat kansat , jotka eivät tavoitelleet vanhurskautta , ovat saaneet sen , nimittäin uskon vanhurskauden .
+45009032	Miksi		Miksi ei ? Siksi , että israelilaiset eivät lähteneet uskon tielle vaan tekojen . He ovat kompastuneet siihen kiveen ,
+45010006	Kuka		Mutta uskon vanhurskaus puhuu näin : " Älä kysy sydämessäsi : Kuka voi nousta taivaaseen ? " -- nimittäin tuomaan Kristusta maan päälle --
+45010007	Kuka		" tai : Kuka voi laskeutua syvyyksiin ? " -- nimittäin noutamaan Kristusta ylös kuolleista .
+45010008	Mitä		Mitä siis on sanottu ? -- Sana on lähellä sinua , sinun suussasi ja sinun sydämessäsi , nimittäin se uskon sana , jota me julistamme .
+45010014a	kuinka		Mutta kuinka he voivat huutaa avukseen sitä , johon eivät usko ? 
+45010014b	kuinka		Kuinka he voivat uskoa siihen , josta eivät ole kuulleet ? 
+45010014c	kuinka		Kuinka he voivat kuulla , ellei kukaan julista ?
+45010015	Kuinka		Kuinka kukaan voi julistaa , ellei häntä ole lähetetty ? Onhan kirjoitettu : " Kuinka ihanat ovat ilosanoman tuojan askelet ! "
+45010016	kuka		Mutta kaikki eivät ole olleet evankeliumille kuuliaisia . Jesaja sanookin : " Herra , kuka on uskonut meidän sanomamme ? "
+45011004	minkä		Mutta minkä vastauksen hän saa Jumalalta ? " Minä olen jättänyt itselleni seitsemäntuhatta miestä , jotka eivät ole polvistuneet Baalin edessä . "
+45011007	mitä		Israel ei siis ole saavuttanut sitä , mitä se on tavoitellut ; vain valitut ovat sen saaneet . Muut ovat paatuneet ,
+45011015	mitä		Jos juutalaisten hylkääminen on avannut maailmalle pääsyn sovintoon , niin mitä tapahtuukaan , kun Jumala ottaa heidät yhteyteensä ? Silloin kuolleet heräävät eloon !
+45011018	~		älä ylvästele alkuperäisten oksien rinnalla ! Mutta jos ylvästelet , muista , ettet sinä kannata juurta vaan juuri kannattaa sinua .
+45011033a	~		Kuinka ääretön onkaan Jumalan rikkaus , kuinka syvä hänen viisautensa ja tietonsa ! 
+45011033b	~		Kuinka tutkimattomat ovat hänen tuomionsa ja jäljittämättömät hänen tiensä !
+45011034a	kuka		Kuka voi tuntea Herran ajatukset , 
+45011034b	kuka		kuka pystyy neuvomaan häntä ?
+45011035	Kuka		Kuka on antanut hänelle jotakin , mikä hänen olisi maksettava takaisin ?
+45014004	Mikä		Mikä oikeus sinulla on tuomita toisen palvelijaa ? Oman isäntänsä edessä hän seisoo tai kaatuu -- vaikka kyllä hän seisoo , sillä Herra kykenee pitämään hänet pystyssä .
+45014010a	kuinka		Kuinka sinä voit tuomita veljesi ? 
+45014010b	kuinka		Tai sinä toinen , kuinka voit halveksia veljeäsi ? Kaikki me joudumme Jumalan tuomioistuimen eteen .
+46001020a	missä		Missä ovat viisaat 
+46001020b	~		ja oppineet , 
+46001020c	missä		missä tämän maailman älyniekat ? Eikö Jumala ole tehnyt maailman viisautta hulluudeksi ?
+46002011	Kuka		Kuka muu kuin ihmisen oma henki tietää , mitä ihmisessä on ? Samoin vain Jumalan Henki tietää , mitä Jumalassa on .
+46002016a	kuka		-- Kuka tuntee Herran mielen , niin että voi neuvoa häntä ? Mutta meillä on Kristuksen mieli .
+46002016b	~		
+46003005a	mikä		Mikä sitten Apollos on ? 
+46003005b	~		Tai Paavali ? He ovat palvelijoita , jotka ovat johtaneet teidät uskoon , kumpikin siinä tehtävässä , jonka Herra on hänelle antanut .
+46004007a	kuka		Kuka antaa sinulle erikoisaseman ? 
+46004007b	mitä		Onko sinulla mitään , mitä et ole saanut lahjaksi ? 
+46004007c	miksi		Jos kerran olet saanut kaiken lahjaksi , miksi ylpeilet niin kuin se olisi omaa ansiotasi ?
+46004021	kumpaa		Kumpaa tahdotte : tulenko luoksenne piiska kädessä vai rakastavin ja lempein mielin ?
+46005002	~		Ja te vielä pöyhkeilette , vaikka teillä olisi ollut syytä surra ja erottaa joukostanne mies , joka on syyllistynyt tuollaiseen .
+46005012	~		Ei kai minun asiani ole tuomita ulkopuolisia ? Ettehän tekään tuomitse muita kuin omaan piiriinne kuuluvia .
+46006001	kuinka		Kun teidän keskuudessanne jollakin on riita-asia toisen kanssa , kuinka hän julkeaa viedä sen pakanoiden ratkaistavaksi ? Miksi hän ei jätä sitä pyhien ratkaistavaksi ?
+46006003	kuinka		Ettekö tiedä , että me tulemme tuomitsemaan enkeleitäkin -- kuinka emme sitten voisi ratkaista tämän elämän asioita ?
+46006004	~		Mutta kun teillä on riitaa maallisista asioista , te otatte tuomareiksi sellaisia , joille seurakunnassa ei anneta mitään arvoa .
+46006007a	miksi		Jo se , että yleensä käräjöitte keskenänne , on teille tappioksi . Miksi ette ennemmin kärsi vääryyttä ? 
+46006007b	miksi		Miksi ette ennemmin anna riistää itseltänne ?
+46006009	~		Ettekö tiedä , että vääryydentekijät eivät saa omakseen Jumalan valtakuntaa ? Älkää eksykö ! Jumalan valtakunnan perillisiä eivät ole siveettömyyden harjoittajat eivätkä epäjumalien palvelijat , eivät avionrikkojat , eivät miesten kanssa makaavat miehet ,
+46006016	~		Ettekö tiedä , että joka yhtyy porttoon , on samaa ruumista hänen kanssaan ? Onhan sanottu : " Nämä kaksi tulevat yhdeksi lihaksi . "
+46006019	~		Ettekö tiedä , että teidän ruumiinne on Pyhän Hengen temppeli ? Tämän Hengen on Jumala antanut asumaan teissä . Te ette itse omista itseänne ,
+46007016a	mistä		Ja mistä tiedät , vaimo , voitko pelastaa miehesi ? 
+46007016b	mistä		Tai mies , mistä tiedät , voitko pelastaa vaimosi ?
+46009007a	~		Ei kai kukaan palvele sotilaana omalla kustannuksellaan ? 
+46009007b	~		Kai se , joka istuttaa viinitarhan , myös syö sen hedelmiä ? 
+46009007c	~		Ja kai se , joka paimentaa lampaita ja vuohia , myös käyttää niiden maitoa ?
+46009018	Mikä		Mikä siis on palkkani ? Se , että julistan evankeliumia ilman korvausta , käyttämättä hyväkseni niitä oikeuksia , joita minulla sen julistajana on .
+46010019a	mitä		Mitä tällä tarkoitan ? 
+46010019b	~		En sitä , 
+46010019c	~		että epäjumalille uhrattu liha sinänsä olisi jotakin tai että epäjumalat olisivat jotakin todellista .
+46010029	Miksi		En tarkoita teidän omaatuntoanne vaan tuon toisen . Miksi antaisin toisen ihmisen omantunnon määrätä omaa vapauttani ?
+46010030	miksi		Jos minä kiitän Jumalaa ruoastani , miksi minua moitittaisiin siitä , mistä itse kiitän ?
+46011022	Mitä		Ettekö voi syödä ja juoda kotonanne ? Vai halveksitteko te Jumalan seurakuntaa niin että häpäisette niitä , joilla ei ole ruokaa ? Mitä minun pitäisi sanoa teille ? Kiittääkö teitä ? Tässä asiassa en teitä kiitä .
+46012017a	~		Jos koko ruumis olisi pelkkää silmää , olisiko silloin kuuloa ? 
+46012017b	~		Tai jos se olisi pelkkää korvaa , olisiko silloin hajuaistia ?
+46012019	~		Jos kaikki olisi yhtä ja samaa jäsentä , olisiko silloin mitään ruumista ?
+46014006	Mitä		Mitä hyötyä minusta on , veljet , jos tulen luoksenne ja vain puhun kielillä enkä välitä mitään ilmestystä tai anna teille tietoa , profetiaa tai opetusta ?
+46014007	Miten		Samoinhan on elottomien soittimienkin laita , vaikkapa huilun tai lyyran . Miten huilulla tai lyyralla soitettu sävelmä voidaan tuntea , elleivät sävelet erotu toisistaan ?
+46014008	kuka		Ja jos sotatorvesta lähtee epäselvä ääni , kuka valmistautuu taisteluun ?
+46014009	kuinka		Sama koskee teitäkin : ellette puhu selvää kieltä , kuinka teidän puhettanne voidaan ymmärtää ? Sananne haihtuvat taivaan tuuliin .
+46014015	Mitä		Mitä tämä siis tarkoittaa ? Minun tulee rukoilla hengelläni , mutta myös ymmärryksellä ; minun tulee laulaa kiitosta hengelläni , mutta myös ymmärryksellä .
+46014016	miten		Jos kiität Jumalaa vain hengelläsi , miten paikalla oleva ulkopuolinen voi sanoa kiitokseesi aamenen , kun hän ei ymmärrä mitä sanot ?
+46014026	Mitä		Mitä tämä siis tarkoittaa , veljet ? Kun kokoonnutte yhteen , jokaisella on jotakin annettavaa : laulu , opetus tai ilmestys , puhe kielillä tai sen tulkinta . Kaiken on tapahduttava yhteiseksi parhaaksi .
+46014036	~		Teidänkö luotanne Jumalan sana on lähtenyt liikkeelle ? Tai onko se tullut pelkästään teidän luoksenne ?
+46015012	kuinka		Jos kerran julistetaan , että Kristus on herätetty kuolleista , kuinka jotkut teistä voivat sanoa , ettei kuolleiden ylösnousemusta ole ?
+46015029a	~		
+46015029b	mitä		Mitä varten sitten jotkut antavat kastaa itsensä kuolleiden puolesta ? 
+46015029c	miksi		Ellei kuolleita lainkaan herätetä , miksi he kastattavat itsensä näiden puolesta ?
+46015030a	~		
+46015030b	mitä		Entä mitä varten me joka hetki antaudumme vaaraan ?
+46015032	~		Olisiko minun kannattanut taistella Efesoksessa petoja vastaan , jos asiaa ajatellaan vain tavalliseen ihmistapaan ? Ellei kuolleita herätetä eloon , niin " syödään ja juodaan , huomenna kuollaan " .
+46015035a	millä		Joku ehkä kysyy : " Millä tavoin kuolleet herätetään ? 
+46015035b	millainen		Millainen ruumis heillä silloin on ? "
+46015055a	missä		Missä on voittosi , kuolema ? 
+46015055b	missä		Missä on pistimesi , kuolema ?
+47002002	~		Jos minä pahoitan teidän mielenne , eihän silloin kukaan voi saada minuakaan iloiseksi , paitsi se jolle olen tuottanut surua .
+47002016	kuka		Se on toisille kuoleman haju , joka tuo kuoleman , toisille elämän tuoksu , joka tuo elämän . Mutta kuka on tähän kelvollinen ?
+47003008	Kuinka		Kuinka paljon suurempaa kirkkautta säteileekään Hengen palveluvirka !
+47003009	~		Jos kerran tuomion julistamisen virkaa ympäröi kirkkaus , paljon kirkkaampi loiste ympäröi silloin vanhurskauden julistamisen virkaa .
+47006014a	mitä		Älkää ryhtykö epäuskoisten aisapariksi . Mitä tekemistä on keskenään oikeudella ja vääryydellä , 
+47006014b	mitä		mitä yhteistä on valolla ja pimeydellä ?
+47006015a	~		Voivatko Kristus ja Beliar olla yhtä mieltä ? 
+47006015b	mikä		Mikä voi liittää uskovan sellaiseen , joka ei usko ?
+47006016	Miten		Miten jumalien kuvat soveltuvat Jumalan temppeliin ? Mehän olemme elävän Jumalan temppeli , niin kuin Jumala on sanonut : -- Minä asetun heidän keskelleen ja vaellan heidän mukanaan . Minä olen oleva heidän Jumalansa ja he minun kansani .
+47011011	Kuinka		Kuinka niin ? Enkö muka rakasta teitä ? Sen tietää Jumala .
+47011029a	~		Jos joku on heikko , niin minäkin olen heikko . 
+47011029b	~		Jos joku lankeaa , se polttaa minua .
+47012013	Missä		Missä suhteessa te olette jääneet muita seurakuntia vähemmälle ? Enintään siinä , että minä en ole ollut teille rasituksena . Suokaa tämä vääryys minulle anteeksi !
+47012017	~		Kukaties olen hyötynyt teistä jonkun työtoverini avulla , jonka olen lähettänyt luoksenne ?
+48002014	miksi		Mutta kun minä näin heidän poikkeavan evankeliumin totuuden tieltä , sanoin Keefakselle kaikkien kuullen : " Jos sinä juutalaisena voit luopua juutalaisten tavoista ja elää pakanoiden lailla , miksi pakotat pakanoita elämään niin kuin juutalaiset ? "
+48003001	kuka		Te mielettömät galatalaiset , kuka teidät on lumonnut ? Asetettiinhan teidän silmienne eteen aivan avoimesti Jeesus Kristus ristiinnaulittuna !
+48003019	Mikä		Mikä sitten on lain tarkoitus ? Se säädettiin perästäpäin osoittamaan rikkomukset , kunnes tulisi se jälkeläinen , jota lupaus koski . Lain luovuttivat enkelit välittäjää käyttäen .
+48004009a	kuinka		Mutta nyt te tunnette Jumalan , ja ennen kaikkea Jumala tuntee teidät . Kuinka te nyt jälleen turvaudutte noihin heikkoihin ja surkeisiin alkuvoimiin ? 
+48004009b	~		Aiotteko jälleen alistua niiden orjiksi ?
+48004010	~		Te pidätte tarkoin silmällä päiviä , kuukausia , juhla-aikoja ja määrävuosia .
+48004015	Missä		Missä teidän riemunne ja innostuksenne nyt on ? Voin todistaa teistä , että olisitte silloin antaneet minulle vaikka silmät päästänne , jos se olisi ollut mahdollista .
+48004021	mitä		Te , jotka tahdotte elää lain alaisuudessa , vastatkaa : ettekö kuule , mitä laki sanoo ?
+48004030	mitä		Mutta mitä pyhät kirjoitukset sanovatkaan ? " Aja pois orjatar ja hänen poikansa , sillä orjattaren poika ei saa jakaa perintöä vapaan naisen pojan kanssa . "
+48005007a	kuka		Te etenitte jo hyvää vauhtia . Kuka teidät on pysäyttänyt ? 
+48005007b	~		Tehän ette enää tottele totuutta .
+48005011	miksi		Veljet , jos minä tosiaan yhä julistan ympärileikkausta , miksi minua sitten vainotaan ? Silloinhan ei julistamani risti olisi enää loukkauksena .
+49004009	~		Eikö se , että hän nousi korkeuteen , merkitse , että hän oli laskeutunut alas , aina maan alimpiin paikkoihin ?
+50001018	~		Mutta ei sillä väliä ! Minä iloitsen siitäkin , kunhan Kristusta vain kaikin tavoin julistetaan , oli tarkoitus vilpitön tai ei . Minulla on vastedeskin aihetta iloita ,
+50001021	~		Minulle elämä on Kristus ja kuolema on voitto .
+51002020	miksi		Jos kerran olette yhdessä Kristuksen kanssa kuolleet pois maailman alkuvoimien ulottuvilta , miksi yhä käyttäydytte tämän maailman mukaisesti ja alistutte sellaisiin sääntöihin kuin
+52002019	Kuka		Kuka on meidän toivomme , riemumme ja kunniaseppeleemme seisoessamme Herramme Jeesuksen edessä , sitten kun hän saapuu , ellette te ?
+52003009	Miten		Miten voimme kylliksi kiittää Jumalaa teistä ja kaikesta siitä ilosta , jota saamme hänen edessään tuntea teidän tähtenne ?
+54003005	kuinka		Jos joku ei osaa pitää huolta omasta perheestään , kuinka hän voisi huolehtia Jumalan seurakunnasta ?
+54006007a	~		Emme me ole tuoneet mitään mukanamme maailmaan emmekä voi viedä mitään täältä pois .
+54006007b	~		
+58001005	~		Ei Jumala ole yhdellekään enkelille milloinkaan sanonut : -- Sinä olet minun Poikani , tänä päivänä minä sinut synnytin . Ei myöskään näin : -- Minä olen oleva hänen Isänsä , ja hän on oleva minun Poikani .
+58001013	~		Yhdellekään enkelille ei Jumala milloinkaan ole sanonut : -- Istu oikealle puolelleni . Minä kukistan vihollisesi , panen heidät korokkeeksi jalkojesi alle .
+58001014	~		Eivätkö enkelit ole palvelevia henkiä ? Heidät lähetetään palvelemaan niitä , jotka saavat osakseen autuuden .
+58002003	Kuinka		Kuinka sitten me voisimme välttää rangaistuksen , jos emme pidä arvossa sitä suurta pelastusta , jota itse Herra ensimmäisenä julisti ? Ne , jotka kuulivat hänen julistuksensa , ovat sen todistuksellaan vahvistaneet ja välittäneet meille ,
+58002006a	mikä		Tästä on jossakin kohdassa joku todistanut : -- Mikä on ihminen ! Kuitenkin sinä häntä muistat . 
+58002006b	mikä		Mikä on ihmislapsi ! Kuitenkin pidät hänestä huolen .
+58003016	Ketkä		Ketkä tekivät näin : kuulivat mutta nousivat kapinaan ? Kaikki ne , jotka Mooseksen johtamina olivat lähteneet pois Egyptistä .
+58003017	Keille		Keille Jumala oli vihoissaan neljäkymmentä vuotta ? Niille , jotka lankesivat syntiin ja joiden ruumiit sitten jäivät autiomaahan .
+58003018	Keille		Keille hän vannoi , etteivät he pääse hänen lepopaikkaansa ? Niille , jotka eivät totelleet .
+58006004	~		Mahdotontahan on auttaa niitä , jotka kerran ovat päässeet valoon , maistaneet taivaan lahjaa ja tulleet osallisiksi Pyhästä Hengestä ,
+58007011	mitä		Jos jo Leevin heimon pappisvirka , josta Israelin kansalle on annettu säädökset laissa , olisi johtanut täydellisyyteen , mitä tarvetta olisi ollut sanoa , että vielä tulee uudenlainen pappi , jonka pappeus on Melkisedekin pappeutta , ei Aaronin ?
+58009014	kuinka paljon		kuinka paljon paremmin puhdistaakaan Kristuksen veri ! Ikuisen henkensä voimalla hän on antanut itsensä virheettömänä uhrina Jumalalle , ja hänen verensä puhdistaa meidän omantuntomme kuoleman teoista , niin että voimme palvella elävää Jumalaa .
+58010001	~		Laissa siis on vain varjo tulevasta , paremmasta todellisuudesta , ei sen varsinaista ilmentymää . Vaikka lain määräämät uhrit toistetaan vuodesta vuoteen , laki ei ikinä pysty tekemään pysyvästi täydellisiksi niitä , jotka astuvat Jumalan eteen .
+58010029a	kuinka paljon		Kuinka paljon ankaramman rangaistuksen ansaitseekaan mielestänne se , 
+58010029b	~		joka polkee jalkoihinsa Jumalan Pojan , 
+58010029c	~		pitää epäpyhänä liiton verta , 
+58010029d	~		jolla hänet itsensä on pyhitetty , ja häpäisee armon Henkeä !
+58011032	Mitäpä		Mitäpä tähän enää lisäisin ? Minulta loppuisi aika , jos kertoisin Gideonista , Barakista , Simsonista ja Jeftasta , Daavidista , Samuelista ja profeetoista .
+58012007	~		Teidän kärsimyksenne on kasvatusta : Jumala kohtelee teitä omina poikinaan . Onko sellaista poikaa , jota isä ei kurittaisi ?
+58012009	~		Kun maalliset isämme kurittivat meitä , me emme tohtineet vastustaa . Vielä paljon suurempi syy meillä on alistua taivaallisen Isämme tahtoon , sillä se takaa meille elämän .
+58012025	~		Varokaa torjumasta häntä , joka puhuu ! Kun isät Siinailla torjuivat hänet , joka ilmoitti tahtonsa maan päällä , he eivät päässeet rangaistuksetta . Vielä huonommin käy meidän , jos käännämme selkämme hänelle , jonka sanat tulevat taivaasta .
+58013006	Mitä		Sen tähden me voimme turvallisin mielin sanoa : -- Herra on minun auttajani , siksi en pelkää . Mitä voisi ihminen minulle tehdä ?
+59002006	~		Mutta te häpäisette köyhän . Eivätkö juuri rikkaat sorra teitä ja raahaa teitä oikeuden eteen ?
+59002014	mitä		Veljet , mitä hyötyä siitä on , jos joku sanoo uskovansa mutta häneltä puuttuvat teot ? Ei kai usko silloin voi pelastaa häntä ?
+59002016a			niin turha teidän on sanoa : " Menkää rauhassa , pitäkää itsenne lämpimänä ja syökää hyvin " , 
+59002016b	mitä		jos ette anna heille mitä he elääkseen tarvitsevat .
+59002018	~		Ehkä joku nyt sanoo : " Sinulla on usko , minulla teot . " Näytä sinä minulle uskosi ilman tekoja , minä kyllä näytän sinulle uskon teoillani .
+59002021			Eikö meidän isämme Abraham osoittautunut vanhurskaaksi tekojensa perusteella , kun hän vei poikansa Iisakin uhrialttarille ?
+59003013	Kuka		Kuka teistä on viisas ja ymmärtäväinen ? Esittäköön hän osoitukseksi hyvästä vaelluksesta tekonsa , sävyisästi , niin kuin viisas tekee .
+59003017	~		Mutta ylhäältä tuleva viisaus on puhdasta ja pyhää , ja niin se myös rakentaa rauhaa , se on lempeää ja sopuisaa , täynnä armahtavaisuutta ja hyviä hedelmiä , se on tasapuolista ja teeskentelemätöntä .
+59004001a	mistä		Mistä teidän keskinäiset kiistanne 
+59004001b	~		ja taistelunne syntyvät ? Mistäpä muusta kuin haluistanne , jotka käyvät taistelua teidän ruumiissanne .
+59004012	mikä		Yksi ainoa on lainsäätäjä ja tuomari , hän , jolla on valta pelastaa ja valta tuomita kadotukseen . Mutta mikä sinä olet tuomitsemaan lähimmäisesi ?
+59004014	~		Ettehän te tiedä , mitä huomispäivä tuo teidän elämäänne ! Savua te olette , joka hetken näkyy ja sitten haihtuu .
+60002020	Mitä		Mitä erinomaista siinä on , jos te kestätte silloin , kun teitä kuritetaan tehtyänne väärin ? Jos te sen sijaan kestätte silloin , kun joudutte kärsimään tehtyänne oikein , se on Jumalalta teille tulevaa armoa .
+60003013	Kuka		Kuka voi tehdä teille pahaa , jos te kiihkeästi pyritte tekemään hyvää ?
+60004017	mikä		On tullut tuomion aika , ja tuomio alkaa Jumalan huoneesta . Mutta jos se alkaa meistä , mikä onkaan niiden loppu , jotka eivät taivu uskomaan Jumalan evankeliumia ?
+60004018	miten		-- Jos hurskas pelastuu vaivoin , miten käykään jumalattoman ja syntisen !
+61003004	~		He sanovat pilkaten : " Onko hän muka tullut , niin kuin lupasi ? Isämme ovat nukkuneet pois , ja kaikki on entisellään , niin kuin on ollut maailman luomisesta asti . "
+61003011	millaisia		Koska tämä kaikki näin hajoaa , millaisia onkaan pyhässä elämässä ja hurskaissa teoissa oltava niiden ,
+62002022	Kuka		Kuka sitten on valehtelija , ellei se , joka kieltää Jeesuksen olevan Kristus ? Sellainen ihminen on antikristus , niin Isän kuin Pojan kieltäjä .
+62003012	miksi		Me emme saa olla sellaisia kuin Kain , Pahan lapsi , joka tappoi veljensä . Ja miksi hän tappoi tämän ? Siksi , että hänen omat tekonsa olivat pahoja mutta hänen veljensä teot oikeita .
+62003017	kuinka		Jos joku , jonka toimeentulo on turvattu , näkee veljensä kärsivän puutetta mutta sulkee häneltä sydämensä , kuinka Jumalan rakkaus voisi pysyä hänessä ?
+62004020	~		Jos joku sanoo rakastavansa Jumalaa mutta vihaa veljeään , hän valehtelee . Sillä se , joka ei rakasta veljeään , jonka on nähnyt , ei voi rakastaa Jumalaa , jota ei ole nähnyt .
+62005005	Kuka		Kuka sitten voittaa maailman , ellei se , joka uskoo , että Jeesus on Jumalan Poika ?
+66005002	Kuka		Ja minä näin mahtavan enkelin , joka kuulutti kovalla äänellä : " Kuka on arvollinen avaamaan kirjan ja murtamaan sen sinetit ? "
+66006010a	kuinka kauan		Ne huusivat kovalla äänellä : " Kuinka kauan kestää , Valtias , sinä Pyhä ja Tosi , 
+66006010b	~		ennen kuin lausut tuomiosi ja kostat meidän veremme maan asukkaille ? "
+66006017	kuka		Heidän vihansa suuri päivä on tullut -- kuka voi sen kestää ? "
+66007013a	keitä		Yksi vanhimmista kysyi minulta : " Keitä nämä valkeavaatteiset ovat ? 
+66007013b	mistä		Mistä he ovat tulleet ? "
+66013004a	kuka		ja kaikki kumarsivat lohikäärmettä , joka oli antanut pedolle sellaisen vallan . He kumarsivat myös petoa ja sanoivat : -- Kuka on pedon vertainen , 
+66013004b	kuka		kuka pystyy taistelemaan sitä vastaan ?
+66015004a	kuka		Kuka ei sinua pelkäisi , Herra , 
+66015004b	kuka		kuka ei ylistäisi nimeäsi ? Sinä yksin olet pyhä . Kaikki kansat tulevat eteesi ja kumartavat sinua , sillä sinun oikeat tuomiosi ovat tulleet julki .
+66017007	Miksi		Enkeli sanoi minulle : " Miksi ihmettelet ? Minä paljastan sinulle naisen salaisuuden ja häntä kantavan pedon salaisuuden , tuon , jolla on seitsemän päätä ja kymmenen sarvea .
+66018018	Mikä		ja kun he näkivät savun nousevan hänen roviostaan , he huusivat : ' Mikä veti vertoja tälle suurelle kaupungille ? '

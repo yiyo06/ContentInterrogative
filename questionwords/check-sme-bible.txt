@@ -1,0 +1,743 @@
+40002002	Gos		ja jerre : « Gos lea dat juvddálaččaid gonagas gii dál lea riegádan ? Dasgo mii oinniimet su nástti badjáneamen iđitgukso áiggi ja leat boahtán gudnejahttit su . »
+40002004	gos		Son gohčui čoahkkái buot bajitbáhpaid ja álbmoga čálaoahppavaččaid ja jearai sis gos Messias galggai riegádit .
+40003007	Gii		Muhto go Johanas oinnii ahte ollu farisealaččat ja saddukealaččat bohte su lusa gásttašuvvot , de son celkkii sidjiide : « Gearpmaščivggat ! Gii lea cuigen din báhtarit boahttevaš moarreduomus ?
+40005013	mainna		Dii lehpet eatnama sálttit ! Muhto jos sálttit veagahuvvet , mainna dalle sáhttá sáltet ? Eai dat dohkke šat maninge , muhto bálkásit ja duolmmahallet olbmuide .
+40005046	~		Jos dii ráhkistehpet dušše sin geat ráhkistit din , ánssášehpet go dalle das bálkká ? Eai go tuollárat ge daga nu ?
+40005047	~		Jos dii buorástahttibehtet ustitlaččat dušše oskuguimmiideattet , lea go dat nu erenoamáš ? Eai go báhkinat ge daga aiddo nu ?
+40006027	Guhtemuš		Guhtemuš ba dis sáhttá buot morrašiiddisguin lasihit ovtta állana ge eallinguhkkodahkasis ?
+40006028	manne		Ja manne moraštehpet biktasiid dihtii ? Gehččet gietti liđiid , mo dat šaddet ! Eai dat bargga eai ge bane ,
+40006031a	maid		Allet nappo moraš ja cealkke : Maid mii dál borrat ? 
+40006031b	maid		dahje : Maid juhkat ? 
+40006031c	mainna		dahje : Mainna gárvodit ?
+40007003	Manne		Manne oainnát riba oskuguoimmát čalmmis , muhto it fuomáš hirssa iežat čalmmis ?
+40007004	mo		Dahje mo sáhtát dadjat oskuguoibmásat : Divtte mu váldit eret riba du čalmmis , go iežat čalmmis lea hirsa ?
+40007009	~		Lea go ba din gaskkas oktage gii attášii bárdnásis geađggi go son sihtá sus láibbi ,
+40007016a	~		Šattuin dii dovdabehtet sin . Sáhttá ba viidnemurjjiid gal čoaggit bastilislánjáin dahje fiikkoniid gáskálasain ?
+40007016b	~		
+40008026	Manne		Son cealká sidjiide : « Manne dii ballabehtet ? Dii uhcán oskkolaččat ! » De son čuožžilii ja šikkui biekka ja jávrri , ja šattai vuodjagoalki .
+40008027	Gii		Olbmot ovddošedje ja jerre : « Gii son lea go sihke biegga ja jávri jeagadit su . »
+40008029	mii		Soai gilljugođiiga : « Ipmila Bárdni , mii dus lea munnuin dahkamuššan ? Leat go boahtán deike ovdal áiggi givssidit munno ? »
+40009004	Manne		Muhto Jesus diđii maid sii jurddašedje ja celkkii : « Manne dis leat diekkár bahás jurdagat din váimmuin ?
+40009005	Goappá		Goappá lea álkkit dadjat , jogo : Du suttut leat dutnje ándagassii addojuvvon , dahje : Čuožžil ja vázzil ?
+40009011	Manne		Farisealaččat oidne dán , ja sii jerre su máhttájeddjiin : « Manne din oahpaheaddji borada tuolláriiguin ja suttolaččaiguin ? »
+40009014	manne		De Johanasa máhttájeaddjit bohte Jesusa lusa ja jerre : « Mii ja farisealaččat atnit borakeahttáivuođa , muhto manne du máhttájeaddjit eai daga dan ? »
+40009015	~		Jesus vástidii : « Sáhttet go headjaguossit moraštit dan botta go irgi lea sin luhtte ? Muhto áigi boahtá go irgi váldojuvvo sis eret , ja daid beivviid go dat dáhpáhuvvá , de sii atnet borakeahttáivuođa .
+40010025	~		Máhttájeaddji galgá leat duhtavaš jos sutnje geavvá nugo su oahpaheaddjái , ja bálvaleaddji galgá leat duhtavaš jos oažžu seammá dili go hearrás . Jos dáluisit lea gohčoduvvon Beelsebulan , sáhttet go su dáluolbmot vuordit maidge buorebu ?
+40011007	manne		Go sii ledje mannan , de Jesus sárdnidišgođii olbmuide Johanasa birra : « Manne dii manaidet meahccái ? Oaidnit skáhčira sojadeamen biekkas ?
+40011008	Manne		Ehpet ! Manne manaidet dohko ? Oaidnit čábbát gárvodan olbmá ? Sii guđet gárvodit čáppa biktasiiguin , leat gonagasaid šloahtain .
+40011009	Manne		Manne de manaidet dohko ? Oaidnit profehta ? Áibbas riekta , ja mun cealkkán didjiide : Eanet go profehta !
+40011016	mainna		Muhto mainna mun veardidan dán sohkagotti ? Dat lea mánáid láhkásaš geat čohkkájit šiljus ja čurvot guhtet guimmiidasaset :
+40012011	Guhtemuš		Son vástidii : « Guhtemuš dis , geas lea okta sávza , ii dohppeše dan ja geasáše dan bajás , jos dat gahčašii roggái sábbáhin ?
+40012026	Mo		Jos dál Sáhtán ádjá olggos Sáhtána , de son lea soahpameahttun iežainis . Mo sáhttá su riika dalle bissut ?
+40012027	gean		Jos mun áján olggos bahá vuoiŋŋaid Beelsebula fámuin , gean fámuin din iežadet oahppit ádjet olggos daid ? Dan dihtii sii šaddet din duopmárin .
+40012029	mo		Dahje mo sáhttá oktage mannat gievrras olbmá dállui ja rievidit su opmodagaid , ovdal go son vuos čatná su ? De son easkka sáhttá stajidit su viesu .
+40012034	Mo		Dii gearpmaščivggat ! Mo dii geat lehpet bahát sáhttibehtet dadjat maidege buriid ? Dasgo mas váibmu lea dievva , dan han njálbmi sárdnu .
+40012048a	gii		Jesus vástidii sutnje gii lei jearran sus : « Gii lea mu eadni , 
+40012048b	geat		ja geat leat mu vieljat ? »
+40013010	Manne		Máhttájeaddjit bohte su lusa ja jerre : « Manne don sártnut sidjiide veardádusaiguin ? »
+40013027	Gos		Bálvaleaddjit manne dalle isideaset lusa ja jerre : Hearrá ! It go lean gilván buriid nisuid beldosat ? Gos bohtet árvvohis rásit ?
+40013054a	gos		ja bođii ruovttugávpogasas . Son oahpahii olbmuid sin synagogas , nu ahte sii hirpmástuvve ja jerre : « Gos son lea ožžon dán viisodaga 
+40013054b	~		ja fámu dahkat dákkár oavdudaguid ?
+40013056	Gos		Eai go buot su oappát ása dáppe min searvvis ? Gos ba son lea ožžon buot dán ? »
+40014031	Manne		Dan seammás Jesus geigii gieđas , dohppii su ja celkkii : « Man uhcán osku dus lea ! Manne eahpidit ? »
+40015002	Manne		« Manne du máhttájeaddjit rihkkot máddariid árbevieruid ? Sii eai basa gieđaideaset ovdal go boradit . »
+40015003	manne		Son vástidii : « Naba dii , manne dii ieža rihkkubehtet Ipmila báhkkomiid ja čuovvubehtet iežadet árbevieruid ?
+40015033	Gos		Máhttájeaddjit dadje sutnje : « Gos mii dáppe meahcis fidnet nu ollu láibbiid gallehit dákkár stuora joavkku ? »
+40015034	galle		Jesus jearai : « Galle láibbi dis leat ? » Sii vástidedje : « Čieža , ja vel moadde uhca guoláža . »
+40016008	Manne		Muhto Jesus fuobmái dán ja celkkii : « Man uhcán osku dis lea ! Manne árvalehpet gaskaneattet ahte dis ii leat láibi ?
+40016009	galle		Ehpet go velá árvit maidege ? Ehpet go muitte dan vihtta láibbi mat ledje doarvái viđa duhát olbmui , ja galle veaddelihti dievva dii dalle čohkkiidet ?
+40016010a	~		Dahje dan čieža láibbi mat ledje doarvái njealje duhát olbmui , 
+40016010b	galle		ja galle veaddelihti dievva dii dalle čohkkiidet ?
+40016011	Manne		Manne ehpet ádde ahte in sárdnon didjiide láibbi birra ? Muhto váruhehket farisealaččaid ja saddukealaččaid suvrradáiggis . »
+40016013	Geanin		Go Jesus bođii Cæsarea Filippi guovlluide , de jearai máhttájeddjiinis : « Geanin olbmot dadjet Olbmobártni ? »
+40016015a	~		Son jearai sis : « Naba dii , 
+40016015b	geanin		geanin dii dadjabehtet mu ? »
+40016026a	mii		Mii ávkkiid lea olbmui jos vuoitá ge oppa máilmmi , muhto massá heakkas ? 
+40016026b	maid		Dahje maid sáhttá olmmoš addit máksun heakkas ovddas ?
+40017010	Manne		De máhttájeaddjit jerre : « Manne čálaoahppavaččat dalle dadjet ahte Elia vuos ferte boahtit ? »
+40017017a	Man guhká		Jesus vástidii sutnje : « Eahpeoskkolaš ja jorggu sohkagoddi ! Man guhká ferten leat din luhtte ? 
+40017017b	Man guhká		Man guhká ferten gierdat din ? Buktet bártni mu lusa ! »
+40017019	Manne		Dasto máhttájeaddjit bohte iehčanassii Jesusa lusa ja jerre : « Manne mii eat veadján ádjit dan olggos ? »
+40017025a	mo		Biehtár vástidii : « De máksá . » Go son bođii ruoktot , de Jesus ollásii Biehtáriin : « Simmon , mo du mielas orru : 
+40017025b	geas		Geas gáibidit máilmmi gonagasat tuolu ja vearu ? Mánáineaset vai vierrásiin ? »
+40018001	Gii		Aiddo dalle máhttájeaddjit bohte Jesusa lusa ja jerre : « Gii lea stuorimus almmiriikkas ? »
+40018012	Mo		Mo orru din mielas ? Jos muhtun olbmás leat čuođi sávzza , ja okta dain láhppo , ii go son dalle guođe dan ovccilogiovcci várrái ja vuolgge ohcat dan mii lea láhppon ?
+40018021	gallii		De Biehtár manai Jesusa lusa ja jearai : « Hearrá , gallii ferten addit ándagassii oskuguoibmásan go son sudduda mu vuostái ? Nu eatnat go gitta čieža geardái ? »
+40019007	Manne		Sii jerre sus : « Manne Movsses lea gohččon boatnjá addit earrogirjji go earrána áhkástis ? »
+40019016	maid		De bođii olmmái Jesusa lusa ja jearai : « Oahpaheaddji , maid buriid mun galggan dahkat , vai árbešin agálaš eallima ? »
+40019017	Manne		Jesus vástidii : « Manne don gohčodat mu buorrin ? Dušše okta lea buorre . Muhto jos dáhtut beassat eallimii , de doala báhkkomiid ! »
+40019018	Guđiid		Son jearai : « Guđiid báhkkomiid ? » Jesus vástidii : « It galgga goddit , it galgga rihkkut náittosdili , it galgga suoládit , it galgga cealkit vearreduođaštusa ,
+40019020	mii		Nuorra olmmái dajai sutnje : « Buot dáid lean doallan , mii mus velá váilu ? »
+40019025	Gii		Go máhttájeaddjit gulle dan , de hirpmástuvve ja jerre : « Gii dalle sáhttá bestojuvvot ? »
+40019027	Maid		De Biehtár dajai : « Mo dalle mii ? Mii leat guođđán visot ja čuvvon du . Maid mii oažžut ? »
+40020006	Manne		Go son oktanuppelogát diimmus manai olggos , de gávnnai velá muhtumiid čuožžumin das , ja jearai sis : Manne dii čuožžubehtet dás joavdelassan geažos beaivvi ?
+40020012	~		ja dadje : Sii geat bohte maŋimužžan , leat bargan dušše ovtta diimmu , ja don dagat daid min dássásažžan , min geat leat gillán beaivvi noađi ja báhka .
+40020021	Maid		Jesus jearai : « Maid don dáhtut ? » Nisu vástidii : « Cealkke ahte dát mu bártniguovttos beassaba čohkkát du bálddas du riikkas , nubbi olgeš gieđat bealde ja nubbi gurut gieđat bealde . »
+40020032	Maid		De Jesus orustii , gohčui sudno boahtit lusas ja jearai sudnos : « Maid doai dáhttubeahtti mu dahkat alcceseatte ? »
+40021010	Gii		Go son manai Jerusalemii , de oppa gávpot lihkadišgođii , ja buohkat jerre : « Gii son lea ? »
+40021016	maid		ja jerre sus : « Gulat go maid sii dadjet ? » Jesus vástidii : « De gulan , muhto ehpet go goassege leat lohkan : Mánáid ja njuoratmánáid njálmmis don leat háhkan alccesat máidnuma ! »
+40021020	Mo		Máhttájeaddjit ovddošedje go oidne dán ja jerre : « Mo fiikkonmuorra sáhtii ástat nu fargga ? »
+40021023a	gean		Go Jesus lei boahtán tempelšilljui ja lei oahpaheamen , de bajitbáhpat ja álbmoga vuorrasat bohte su lusa ja jerre : « Gean fámuin dagat don dán ? 
+40021023b	gii		Gii lea addán dutnje dákkár fámu ? »
+40021025a	gos		Johanasa gásta , gos dat bođii ? Almmis vai olbmuin ? » Sii árvaladde gaskaneaset : 
+40021025b	~		« Jos mii vástidit : Almmis , de son jearrá : 
+40021025c	manne		Manne dalle ehpet oskon sutnje ?
+40021028	Maid		« Maid dii dás árvalehpet : Muhtun olbmás ledje guokte bártni . Son manai nuppi lusa ja dajai : Bárdnán , mana odne viidnegárdái bargat .
+40021031	Goabbá		Goabbá sudnos dagai áhčiska dáhtu mielde ? » Sii vástidedje : « Vuosttaš bárdni . » Jesus celkkii sidjiide : « Duođaid , mun cealkkán didjiide : Tuollárat ja fuorát mannet Ipmila riikii ovdal din .
+40021040	maid		Go viidnegárdeisit boahtá , maid son dahká dáidda viidnegárdebargiide ? »
+40022012	mo		Son jearai sus : Ustiban , mo don leat beassan deike headjabiktasiid haga ? Muhto son orui jávohaga .
+40022017	maid		Cealkke danne midjiide maid don oaivvildat : Lea go riekta máksit vearu keaisárii vai ii ? »
+40022018	manne		Muhto Jesus árvidii sin bahávuođa ja celkkii : « Dii guoktilaččat , manne geahččalehpet mu ?
+40022020a	gean		ja son jearai : « Gean govva 
+40022020b	~		ja namma lea dás ? »
+40022028	Gean		Gean áhkká son lea bajásčuožžileamis ? Buohkat han leat leamaš náitalan suinna . »
+40022036	guhtemuš		« Oahpaheaddji , guhtemuš báhkkon lea lága stuorimus báhkkon ? »
+40022042a	maid		« Maid dii árvalehpet Messiasa birra ? 
+40022042b	gean		Gean bárdni son lea ? » Sii vástidedje : « Dávveda . »
+40022043	Mo		Son celkkii sidjiide : « Mo de Dávvet sáhttá Vuoiŋŋa bokte gohčodit su hearrán ja cealkit :
+40022045	mo		Jos dál Dávvet gohčoda Messiasa hearrán , mo son de sáhttá leat Dávveda bárdni ? »
+40023017	Goabbá		Dii čalmmehis jallat ! Goabbá lea stuorit , golli vai tempel mii basuha golli ?
+40023019	Goabbá		Dii čalmmeheamit ! Goabbá lea stuorit , oaffarskeaŋka vai áltár mii basuha skeaŋkka ?
+40023033	Mo		Dii gearbmašat ja gearpmaščivggat ! Mo dii sáhttibehtet vealtat dubmejuvvomis helvehii ?
+40024003a	goas		Go son lei čohkkámin Oljováris eai ge lean earát das , de máhttájeaddjit bohte su lusa ja jerre : « Muital midjiide , goas dát dáhpáhuvvá , 
+40024003b	mii		ja mii lea du boahtima ja dálá máilmmi loahpa mearka ? »
+40024045	Gii		Gii lea dalle oskkáldas ja jierpmálaš bálvaleaddji , gean isit lea gohččon bearráigeahččat eará bálvaleddjiid , vai son attášii sidjiide borramuša rivttes áigái ?
+40025037	goas		De vanhurskásat vástidit sutnje : « Hearrá , goas mii oinniimet du nealgumin ja attiimet dutnje borrat , dahje goikkus ja attiimet dutnje juhkat ?
+40025038	Goas		Goas oinniimet du amasin ja válddiimet du vuostái , dahje álásin ja gárvvoheimmet du ?
+40025039	Goas		Goas oinniimet du buohcamin dahje giddagasas , ja galliimet du ? »
+40025044	goas		Dalle sii vástidit sutnje : « Hearrá , goas oinniimet mii du nelgon dahje goikan dahje amasin dahje álásin dahje buohcamin dahje giddagasas veahketkeahttá du ? »
+40026008	masa		Máhttájeaddjit oidne dán ja suhtte . Sii dadje : « Masa lea diekkár skihtardeapmi ávkin ?
+40026010	Manne		Muhto Jesus fuobmái dán ja celkkii sidjiide : « Manne dii vuorjabehtet su ? Son lea dahkan munnje buori dagu .
+40026015	Man		ja dajai : « Man ollu mávssášeiddet munnje jos mun attášin su din háldui ? » Sii mákse sutnje golbmalogi silbaruđa .
+40026017	Gosa		Suvrrokeahtes láibbiid basiid vuosttaš beaivvi máhttájeaddjit bohte Jesusa lusa ja jerre : « Gosa don hálidat min lágidit alccesat beassášmállásiid ? »
+40026040	~		Son máhcai máhttájeddjiidis lusa ja gávnnai sin oađđimin , ja son celkkii Biehtárii : « Ehpet de nagadan gohcit muinna ovttage diimmu .
+40026050	man		Muhto Jesus celkkii sutnje : « Ustiban , daga dan man várás don leat boahtán ! » De earát ge bohte su lusa ja dohppejedje Jesusa ja válde su gitta .
+40026054	mo		Muhto mo ollašuvašedje dalle čállagat mat celket ahte dát galgá dáhpáhuvvat ? »
+40026062a	~		Dalle bajimušbáhppa čuožžilii ja jearai sus : « Ii go dus leat mihkkege dadjamušaid sudno áššáskuhttimiidda ? »
+40026062b	~		
+40026065	Maid		Dalle bajimušbáhppa gaikkihii biktasis guovdat ja dajai : « Son lea bilkidan Ipmila ! Maid mii dál vihtaniiguin ? Dii lehpet gullan bilkádusa .
+40026066	Maid		Maid dii oaivvildehpet ? » Sii vástidedje sutnje : « Son lea sivalaš jápmit . »
+40026068	Gii		ja dadje : « Messias , einnos dal midjiide ! Gii čorpmai du ? »
+40027004	Mii		ja dajai : « Mun lean suddudan ja beahttán vigihis vara . » Sii vástidedje : « Mii ba das guoská midjiide ? Diet lea du iežat ášši . »
+40027013	~		Dalle Pilatus jearai sus : « It go don gula man garrasit sii sivahallet du ? »
+40027017	Goappá		Pilatus jearai dál sis geat ledje čoahkkanan : « Goappá dii dáhttubehtet mu luoitit luovus , Barabbasa vai Jesusa , gii gohčoduvvo Messiasin ? »
+40027021	Goappá		Go eananhearrá jearai sis : « Goappá dii dáhttubehtet mu luoitit luovus ? » de sii vástidedje : « Barabbasa . »
+40027022	Maid		Pilatus jearai : « Maid mun dalle dagan Jesusii , gii gohčoduvvo Messiasin ? » Buohkat čurvo sutnje : « Russiinávle su ! »
+40027023a	~		Son jearai : 
+40027023b	maid		« Maid baháid ba son lea dahkan ? » Muhto sii huike ain jitnoseabbot : « Russiinávle su ! »
+40027046	manne		Ovccát diimmus Jesus čuorvvui alla jienain : « Eli , Eli , lema sabaktani ? » Dat lea : « Ipmilan , Ipmilan , manne don leat mu guođđán ? »
+41001024	Mii		« Mii dus lea minguin dahkamuššan , nasaretlaš Jesus ? Leat go boahtán duššadit min ? Mun dieđán gii don leat , Ipmila Bassi ! »
+41001027	Mii		Buohkat suorganedje ja dadje oktiinjálmmiid : « Mii dát lea ? Son buktá ođđa oahpu isitvuođain ! Son han gohčču vel buhtismeahttun vuoiŋŋaid ge , ja dat jeagadit su . »
+41002007a	mo		« Mo ba son sáhttá sárdnut ná ? Son bilkida Ipmila ! 
+41002007b	gii		Gii sáhttá addit suttuid ándagassii earet go Ipmil ? »
+41002008	Manne		Jesus dovddai dakkaviđe vuoiŋŋastis ahte sii jurddašedje nie , ja son celkkii sidjiide : « Manne dis leat diekkár jurdagat din váimmuin ?
+41002009	Goabbá		Goabbá lea álkkit dadjat lápmásii , jogo : Du suttut leat dutnje ándagassii addojuvvon , dahje : Čuožžil , váldde seaŋggat ja vázzil ?
+41002016	Mo		Go farisealaččaid čálaoahppavaččat oidne ahte son boradii suttolaččaiguin ja tuolláriiguin , de sii jerre su máhttájeddjiin : « Mo son sáhttá boradit tuolláriiguin ja suttolaččaiguin ? »
+41002018	manne		Johanasa máhttájeaddjit ja farisealaččat atne borakeahttáivuođa , ja muhtumat bohte Jesusa lusa ja jerre : « Johanasa máhttájeaddjit ja farisealaččaid máhttájeaddjit atnet borakeahttáivuođa , muhto manne du máhttájeaddjit eai daga dan ? »
+41002019	~		Jesus vástidii : « Sáhttet go headjaguossit atnit borakeahttáivuođa dan botta go irgi lea sin luhtte ? Nu guhká go irgi lea sin luhtte , eai sáhte atnit borakeahttáivuođa .
+41002024	Manne		Farisealaččat dadje sutnje : « Geahča ! Manne sii dahket dan mii ii leat lobálaš sábbáhin ? »
+41003004	~		Ja son jearai sis : « Lea go sábbáhin lobálaš dahkat buriid dahje dahkat baháid , gádjut heakka dahje goddit ? » Muhto sii orro jávohaga .
+41003023	Mo		De Jesus gohčui sin lusas ja sártnui sidjiide veardádusaiguin : « Mo sáhtášii Sáhtán ádjit olggos Sáhtána ?
+41003033a	gii		Son vástidii sidjiide : « Gii lea mu eadni 
+41003033b	geat		ja geat leat mu vieljat ? »
+41004013	mo		Ja son celkkii sidjiide : « Jos dii ehpet árvit dán veardádusa , mo dalle sáhttibehtet áddet eará veardádusaid ?
+41004030a	manin		Son celkkii : « Manin veardidivččiimet mii Ipmila riikka ? 
+41004030b	Makkár		Makkár veardádusa geavahivččiimet ?
+41004038	~		Muhto Jesus lei oađđimin guottá alde fatnasa maŋágeahčen . Sii bokte su ja dadje sutnje : « Oahpaheaddji , it go beroš go mii leat heavvaneamen ? »
+41004040a	manne		Jesus celkkii sidjiide : « Manne dii nu ballabehtet ? 
+41004040b	~		Ii go dis leat velá osku ? »
+41004041	Gii		Muhto sii ledje sakka suorganan ja dadje guhtet guimmiidasaset : « Gii son lea ? Sihke biegga ja jávri jeagadit su . »
+41005007	mii		ja čuorvvui alla jienain : « Jesus , Alimus Ipmila Bárdni , mii dus lea muinna dahkamuššan ? Mun vuortnuhan du Ipmila bokte , ale givssit mu ! »
+41005009	Mii		Jesus jearai : « Mii du namma lea ? » Son vástidii : « Mu namma lea Legion , dasgo mii leat olusat . »
+41005030	Gii		Dan seammás Jesus dovddai ahte sus vulggii fápmu , ja son jorggihii olbmuid gaskkas ja jearai : « Gii guoskkahii mu biktasiid ? »
+41005031	gii		Máhttájeaddjit dadje sutnje : « Don oainnát mo olbmot bahkkejit du birra , ja de jearat vel gii guoskkahii du . »
+41005035	Manne		Go son lei ain sárdnumin , de muhtumat bohte synagoga ovddasčuožžu viesus ja dadje : « Du nieida lea jápmán ! Manne ain vuorjjat oahpaheaddji ? »
+41005039a	manne		ja son manai sisa ja celkkii sidjiide : « Manne dii šlápmabehtet 
+41005039b	~		ja čierrubehtet ? Mánná ii leat jápmán , son lea oađđimin . »
+41006002a	gos		Go sábbát bođii , de son oahpahišgođii synagogas , ja buohkat geat gulle su , ovddošedje ja dadje : « Gos son lea ožžon buot dáid ? 
+41006002b	mii		Mii viisodagaid lea addojuvvon sutnje go sáhttá dahkat dakkár fámolaš daguid gieđaidisguin ?
+41006002c	~		
+41006022	maid		Herodiasa nieida bođii sisa ja dánssui , ja Herodes ja su guossit liikojedje dasa nu bures ahte gonagas dajai niidii : « Siđa mus maid hálideaččat , de áiggun addit dutnje dan . »
+41006024	Maid		Nieida manai olggos ja jearai eatnistis : « Maid mun galggan sihtat ? » Eadnis vástidii : « Siđa gásttašeaddji Johanasa oaivvi . »
+41006037	~		Muhto Jesus vástidii sidjiide : « Addet dii sidjiide borramuša ! » Sii dadje sutnje : « Galgat ba mii oastit láibbi guovttečuođi denara ovddas , vai sii besset boradit ? »
+41006038	galle		Son jearai : « Galle láibbi dis leat ? Mannet geahččat ! » Go sii ledje dahkan dan , de dadje : « Vihtta láibbi ja guokte guoli . »
+41007005	Manne		Danne farisealaččat ja čálaoahppavaččat jerre sus : « Manne du máhttájeaddjit eai čuovo máddariid árbevieruid , muhto boradit eahpebassi gieđaiguin ? »
+41008004	Gos		Su máhttájeaddjit vástidedje : « Gos mii fidnet nu ollu láibbiid gallehit buot dáid dáppe meahcis ? »
+41008005	galle		Son jearai sis : « Galle láibbi dis leat ? » Sii vástidedje : « Čieža . »
+41008012	Manne		Dalle son šuohkihii lossadit ja celkkii : « Manne gáibida dálá sohkabuolva mearkka ? Duođaid , mun cealkkán didjiide : Dát sohkabuolva ii oaččo makkárge mearkka . »
+41008017	Manne		Jesus fuomášii dán ja celkkii sidjiide : « Manne dii árvalehpet gaskaneattet ahte dis ii leat láibi ? Ehpet go árvit dahje ádde velá maidege ? Leat go din váimmut nu buoššuduvvon ?
+41008018a	~		Leat go dis čalmmit ehpet ge oainne ? 
+41008018b	~		Leat go dis bealjit ehpet ge gula ? Ehpet go muitte
+41008019	galle		galle veaddelihti dievva dii čohkkiidet báhcán láibebihtáid go mun doadjalin dan vihtta láibbi ja adden daid viđa duhát olbmui ? » Sii vástidedje : « Guoktenuppelohkái . »
+41008020	galle		« Ja go doadjalin dan čieža láibbi dan njealje duháhii , galle veaddelihti dievva dii dalle čohkkiidet láibebihtáid ? » Sii vástidedje : « Čieža . »
+41008021	~		De son celkkii sidjiide : « Ehpet ge velá ádde ? »
+41008023	~		Son válddii čalmmeheami gihtii ja láidii su gávpoga olggobeallái . De čolggai su čalmmiide ja bijai gieđaidis su ala ja jearai sus : « Oainnát go maidege ? »
+41008027	Geanin		Jesus ja su máhttájeaddjit vulge Cæsarea Filippi biras giliide . Váccedettiin son jearai máhttájeddjiinis : « Geanin olbmot dadjet mu ? »
+41008029a	~		Son jearai : « Naba dii , 
+41008029b	geanin		geanin dii dadjabehtet mu ? » Biehtár vástidii sutnje : « Don leat Messias . »
+41008036	mii		Mii ávkkiid lea olbmui jos vuoitá ge oppa máilmmi , muhto massá heakkas ?
+41008037	Maid		Maid olmmoš sáhttá addit buhtadussan heakkas ovddas ?
+41009010	maid		Sii vurkejedje dán sáni ja árvaledje gaskaneaset maid mearkkašii bajásčuožžilit jábmiid luhtte .
+41009011	Manne		Ja sii jerre sus : « Manne čálaoahppavaččat dadjet ahte Elia vuos ferte boahtit ? »
+41009012	manne		Son vástidii : « Elia gal boahtá vuos ja ráhkada visot gárvvisin . Muhto manne de lea čállojuvvon Olbmobártni birra ahte son gártá gillát ollu ja badjelgehččojuvvot ?
+41009016	man		Son jearai sis : « Man birra nákkáhallabehtet ? »
+41009019a	Man guhká		De Jesus vástidii : « Eahpeoskkolaš sohkagoddi ! Man guhká mun ferten leat din luhtte ? 
+41009019b	Man guhká		Man guhká ferten gierdat din ? Buktet bártni deike mu lusa ! »
+41009021	man guhká		Jesus jearai su áhčis : « Man guhká son lea leamaš diekkár ? » Áhčči vástidii : « Gitta mánnávuođa rájes .
+41009028	Manne		Go Jesus lei boahtán vissui , de su máhttájeaddjit jerre sus iehčanassii : « Manne mii eat veadján ádjit olggos dan ? »
+41009033	Maid		Sii jovde Kapernaumii , ja go Jesus lei boahtán ruoktot , de jearai sis : « Maid dii hálešteiddet mátkkis ? »
+41009050	mainna		Sálttit leat ávkkálaččat , muhto jos sálttit veagahuvvet , mainna dalle sáhttá sáltet ? Atnet sálttiid duohkineattet , ja dollet ráfi gaskaneattet ! »
+41010003	Maid		Son vástidii sidjiide : « Maid Movsses lea gohččon din ? »
+41010017	maid		Go Jesus lei vuolgimin , de bođii muhtun olmmái viega , luoitádii su ovdii ja jearai : « Buorre oahpaheaddji , maid mun galggan dahkat vai árbešin agálaš eallima ? »
+41010018	Manne		Jesus vástidii : « Manne don gohčodat mu buorrin ? Ii oktage leat buorre , earet go Ipmil .
+41010026	Gii		De sii hirpmástuvve vel eanebut ja dadje guhtet guoibmáseaset : « Gii dalle sáhttá bestojuvvot ? »
+41010036	Maid		Jesus jearai : « Maid sihtabeahtti mu dahkat dudnuide ? »
+41010051	Maid		Jesus jearai sus : « Maid don dáhtut mu dahkat alccesat ? » Čalmmeheapmi vástidii : « Rabbuni , attášit munnje oainnu ! »
+41011003	manne		Ja jos oktage jearaš dudnos manne doai dahkabeahtti dan , de vástideahkki : Hearrá dárbbaša dan , ja son vuolggaha dan dakkaviđe fas deike . »
+41011005	Maid		Muhtumat geat ledje čuožžumin das , jerre sudnos : « Maid doai dahkabeahtti ? Čoavdibeahtti go várssá ? »
+41011028a	gean		ja jerre : « Gean fámuin dagat don dán ? 
+41011028b	gii		Dahje gii lea addán dutnje fámu dahkat dán ? »
+41011030	~		Johanasa gásta , bođii go dat almmis vai olbmuin ? Vástidehket munnje dan ! »
+41011031a	~		Dán sii árvaladde gaskaneaset : « Jos mii vástidit : Almmis , de son jearrá : 
+41011031b	manne		Manne dalle ehpet oskon sutnje ?
+41012009	Maid		Maid dál viidnegárdeisit dahká ? Son boahtá ja duššada viidnegárdebargiid ja addá viidnegárddi earáide .
+41012015	Manne		Muhto Jesus dovddai sin guoktilašvuođa ja celkkii sidjiide : « Manne dii geahččalehpet mu ? Buktet munnje denara vai beasan geahččat dan ! »
+41012016a	gean		Sii adde sutnje dan , ja son jearai : « Gean govva 
+41012016b	~		ja namma lea dás ? » Sii vástidedje : « Keaisára . »
+41012023	gean		Muhto go sii bajásčuožžilit bajásčuožžileami beaivvi , gean áhkká son de lea ? Dasgo buot čiežas han leat leamaš náitalan suinna . »
+41012028	Guhtemuš		Muhtun čálaoahppavaš gii gulai sin nákkáhallama ja fuomášii man bures Jesus lei vástidan , manai su lusa ja jearai : « Guhtemuš báhkkon lea buot mávssolaččamus ? »
+41012035	Mo		Oahpahettiin tempelšiljus Jesus sárdnugođii ja jearai : « Mo čálaoahppavaččat sáhttet dadjat ahte Messias lea Dávveda bárdni ?
+41012037	mo		Dávvet ieš nappo gohčoda Messiasa hearrán ; mo son de sáhttá leat Dávveda bárdni ? »
+41013004a	goas		« Muital midjiide goas dát dáhpáhuvvá , 
+41013004b	mii		ja mii lea mearkan dasa ahte buot dát ollašuvvá ? »
+41014004	Manne		Muhtumat geat ledje das , suhtte ja dadje guhtet guoibmáseaset : « Manne nie skihtarda vuoidasa ?
+41014006	Manne		Muhto Jesus celkkii : « Diktet su ráfis ! Manne dii vuorjabehtet su ? Son lea dahkan munnje buori dagu .
+41014012	Gosa		Suvrrokeahtes láibbiid basiid vuosttaš beaivvi , go beassášláppis njuvvojuvvui , máhttájeaddjit jerre sus : « Gosa don hálidat min mannat ráhkadit dutnje beassášmállásiid ? »
+41014014	Gos		ja go son manná sisa , de daddji dáluisidii : Oahpaheaddji jearrá : Gos lea latnja gos mun beasašin borrat beassášmállásiid máhttájeddjiidanguin ?
+41014060a	~		Dalle bajimušbáhppa čuožžilii ja jearai Jesusis : « Ii go dus leat mihkkege dadjamušaid sin áššáskuhttimiidda ? »
+41014060b	~		
+41014063	Maid		Dalle bajimušbáhppa gaikkihii biktasis guovdat ja dajai : « Maid mii dál vihtaniiguin ?
+41014064	Maid		Dii lehpet ieža gullan ipmilbilkádusa . Maid oaivvildehpet ? » Buohkat dubmejedje su sivalažžan jápmit .
+41015004	~		De Pilatus jearai fas : « It go don vástit maidege ? Gula , mo sii áššáskuhttet du ! »
+41015012	Maid		Pilatus jearai fas : « Maid mun dalle dagan suinna gean dii gohčodehpet juvddálaččaid gonagassan ? »
+41015014a	~		Pilatus jearai : 
+41015014b	maid		« Maid baháid ba son lea dahkan ? » Muhto sii huike vel jitnoseabbot : « Russiinávle su ! »
+41015034	manne		Ovccát diimmus Jesus čuorvvui alla jienain : « Eloi , Eloi , lema sabaktani ? » Dat lea : « Ipmilan , Ipmilan , manne don leat mu guođđán ? »
+41016003	Gii		Sii dadje guhtet guimmiidasaset : « Gii fieraha eret geađggi hávddi ovddas ? »
+42001018	mo		Sakarja jearai eŋgelis : « Mo sáhtán mun diehtit ahte dáhpáhuvvá ná ? Mun han lean boaris , ja mu áhkká lea maid juo eallilan olmmoš . »
+42001034	Mo		Márjá jearai eŋgelis : « Mo dát sáhttá dáhpáhuvvat go in leat leamaš ovttainge olbmáin ? »
+42001043	gii		Gii ba mun leaččan , ahte Hearrán eadni boahtá mu lusa ?
+42001066	Mii		Buohkat geat gulle dan , vurkejedje dan váimmuidasaset ja jerre : « Mii son dán mánás boahtá ? » Ja Hearrá giehta láidii su .
+42002048	mo		Vánhenguovttos hirpmástuvaiga sakka go oinniiga su , ja su eadni dajai sutnje : « Mánážan , mo don sáhttet dahkat dán munnuide ? Moai áhčiinat letne ohcan du baluin . »
+42002049	Manne		Muhto son vástidii : « Manne doai ozaide mu ? Eahppi go ipmirdan ahte mun ferten leat Áhččán viesus ? »
+42003007	Gii		Go stuora olmmošjoavkkut bohte Johanasa lusa gásttašuvvot , de son celkkii sidjiide : « Gearpmaščivggat ! Gii lea dadjan didjiide ahte sáhttibehtet báhtarit boahttevaš moarreduomus ?
+42003010	Maid		Olbmot jerre sus : « Maid mii de dahkat ? »
+42003012	maid		Muhtun tuollárat ge bohte gásttašuvvot , ja sii jerre sus : « Oahpaheaddji , maid mii galgat dahkat ? »
+42003014a	mo		Muhtun soalddáhat jerre sus : « Mo minguin gis , 
+42003014b	maid		maid mii galgat dahkat ? » Son vástidii sidjiide : « Allet rivve ruđaid geasge veahkaválddiin dahje gávvilvuođain , muhto duhtet dan bálkái man oažžubehtet . »
+42004034	Mii		« Mii dus lea minguin dahkamuššan , nasaretlaš Jesus ? Leat go boahtán duššadit min ? Mun diedán gii don leat , Ipmila Bassi ! »
+42004036	Makkár		Buohkat suorganedje ja jerre guhtet guimmiineaset : « Makkár sátni lea dát ? Isitvuođain ja fámuin gohčču son buhtismeahttun vuoiŋŋaid , ja dat vulget olggos . »
+42005021a	gii		Muhto čálaoahppavaččat ja farisealaččat jurddašišgohte : « Gii lea dát gii bilkida Ipmila ? 
+42005021b	gii		Gii sáhttá addit suttuid ándagassii earet go Ipmil ? »
+42005022	Maid		Jesus diđii maid sii jurddašedje ja celkkii sidjiide : « Maid dii duođaid jurddašehpet váimmuineattet ?
+42005023	Goappá		Goappá lea álkkit cealkit , jogo : Du suttut leat dutnje ándagassii addojuvvon , dahje : Čuožžil ja vázzil ?
+42005030	Manne		Farisealaččat ja erenoamážit sin čálaoahppavaččat nimmoredje ja dadje máhttájeddjiide : « Manne dii boradehpet ja juhkabehtet tuolláriiguin ja suttolaččaiguin ? »
+42005033	~		Sii dadje sutnje : « Johanasa máhttájeaddjit atnet dávjá borakeahttáivuođa ja rohkadallet , ja nu dahket farisealaččaid máhttájeaddjit ge , muhto du máhttájeaddjit borret ja juhket . »
+42005034	~		Jesus vástidii sidjiide : « Sáhttibehtet go gáibidit headjagussiid atnit borakeahttáivuođa dan botta go irgi lea sin luhtte ?
+42006002	Manne		Muhtun farisealaččat dadje : « Manne sii dahket dan mii ii leat lobálaš sábbáhin ? »
+42006009	goabbá		ja Jesus celkkii sutnje : « Dál jearan dis , goabbá lea lobálaš sábbáhin ? Buriid dahkat vai baháid dahkat , gádjut olbmoheakka vai duššadit heakka ? »
+42006032	~		Jos dii ráhkistehpet dušše sin geat ráhkistit din , lea go das giitámuš ? Velá suttolaččat ge ráhkistit daid geat ráhkistit sin .
+42006033	~		Ja jos dii dahkabehtet buriid daidda geat dahket didjiide buriid , lea go das giitámuš ? Dan han dahket suttolaččat ge .
+42006034	~		Ja jos dii lonebehtet sidjiide geain vuordibehtet oažžut fas ruovttoluotta , lea go das giitámuš ? Suttolaččat ge lonejit suttolaččaide vai oččošedje seammá ollu fas ruovttoluotta .
+42006039	~		Son muitalii sidjiide veardádusa : Sáhttá ba čalmmeheapmi oahpistit čalmmeheami ? Eaba go guktot dalle gahča roggái ?
+42006041	Manne		Manne oainnát riba oskuguoimmát čalmmis , muhto it fuomáš hirssa iežat čalmmis ?
+42006042	mo		Ja mo sáhtát dadjat oskuguoibmásat : « Oskuguoibmi , divtte mu váldit eret riba du čalmmis ! » go it oainne hirssa iežat čalmmis ? Don guoktilaš ! Váldde vuos eret hirssa iežat čalmmis ! Easkka dalle oainnát čielgasit ja sáhtát váldit eret riba oskuguoimmát čalmmis .
+42006046	Manne		Manne dadjabehtet munnje : Hearrá , Hearrá ! ehpet ge daga dan maid mun cealkkán ?
+42007024	manne		Go Johanasa áirasat leigga mannan , de Jesus sárdnugođii olbmuide Johanasa birra : « Manne dii manaidet meahccái ? Oaidnit skáhčira sojadeamen biekkas ?
+42007025	Manne		Ehpet ! Manne manaidet dohko ? Oaidnit čábbát gárvodan olbmá ? Sii guđet gárvodit hearvás biktasiiguin ja ellet badjelmearálašvuođas , ásset šloahtain .
+42007026	manne		Manne de manaidet dohko ? Oaidnit profehta ? Áibbas riekta , ja mun cealkkán didjiide : Eanet go profehta !
+42007031a	mainna		Mainna mun veardidan dán sohkagotti olbmuid ? 
+42007031b	gean		Gean láhkásaččat sii leat ?
+42007042	Goabbá		Muhto go sudnos ii lean mainna máksit , de luittii guktuide vealggi . Goabbá sudnos ráhkista su eanebut ? »
+42007049	Gii		Su beavdeguoimmit imaštallagohte : « Gii dát lea , go vel suttuid ge ándagassii addá ? »
+42008025a	gos		Son jearai sis : « Gos lea din osku ? » Muhto dievva balus ja ovddošeamis sii dadje guhtet guimmiidasaset : 
+42008025b	gii		« Gii son lea ? Son šiggu sihke biekka ja čázi , ja dat jeagadit su . »
+42008028	mii		Go son áiccai Jesusa , de gilljugođii , luoitádii su ovdii ja čuorvvui alla jienain : « Jesus , Alimus Ipmila Bárdni , mii dus lea muinna dahkamuššan ? Mun ánuhan dus : Ale givssit mu ! »
+42008030	Mii		Jesus jearai : « Mii du namma lea ? » Son vástidii : « Legion , » dasgo ollu bahá vuoiŋŋat ledje namalassii mannan olbmá sisa .
+42008045	Gii		Jesus jearai : « Gii guoskkahii mu ? » Muhto go ii oktage dovddastan dan , de Biehtár dajai : « Oahpaheaddji , olbmot hoiget ja bahkkejit juohke guovllus du ala . »
+42009009a	gii		Muhto Herodes dajai : « Johanasas mun lean diktán čuohppat oaivvi eret ; gii de lea dat gean birra mun gulan buot dáid ? » Ja son geahččalii deaivvadit Jesusiin .
+42009009b	~		
+42009018	Geanin		Go son oktii lei rohkadallamin oktonassii , dušše máhttájeaddjit ledje suinna , de son jearai sis : « Geanin olbmot dadjet mu ? »
+42009020a	~		Son jearai : « Na ba dii , 
+42009020b	geanin		geanin dii dadjabehtet mu ? » De Biehtár vástidii : « Don leat Ipmila Messias . »
+42009025	Mii		Mii ávkkiid lea olbmui jos dat vel vuoitá ge oppa máilmmi , muhto massá heakkas ja duššá ?
+42009041a	man guhká		De Jesus vástidii : « Eahpeoskkolaš ja jorggu sohkagoddi ! Man guhká mun ferten leat din luhtte 
+42009041b	~		ja gierdat din ? Buvtte bártnát deike ! »
+42010025	maid		Muhtun láhkadovdi bođii dasa ja hálidii geahččalit Jesusa . Son dajai : « Oahpaheaddji , maid mun galggan dahkat vai oččošin agálaš eallima ? »
+42010026a	mii		Jesus jearai : « Mii lea čállojuvvon láhkii ? 
+42010026b	maid		Maid don logat das ? »
+42010029	Gii		Muhto nubbi vikkai dahkat iežas vanhurskkisin ja jearai : « Gii de lea mu lagamuš ? »
+42010036a	~		
+42010036b	Guhtemuš		Guhtemuš dán golbmasis orui du mielas leamen rieviduvvon olbmá lagamuš ?
+42011008	~		Muhto mun cealkkán didjiide : Jos son ii lihkaše ge addit sutnje maidege ustitvuođa dihtii , de dagašii dan goittot su sihtavašvuođa dihtii , ja attášii sutnje buot maid dárbbaša .
+42011011	~		Lea go ba din gaskkas áhčči gii attášii bárdnásis gearbmaša go dat sihtá sus guoli ,
+42011012	~		dahje attášii sutnje skorpiovnna go dat sihtá sus moni ?
+42011013	~		Go vel dii ge geat lehpet bahát , áddebehtet addit buriid attáldagaid mánáidasadet , ii go Áhččádet ollu eanebut attáše Bassi Vuoiŋŋa almmis sidjiide geat átnot sus ! »
+42011018	mo		Jos dál Sáhtán lea soahpameahttun iežainis , mo sáhttá su riika dalle bissut ? Dasgo dii han dadjabehtet ahte Beelsebula fámuin mun áján olggos bahá vuoiŋŋaid .
+42011019	gean		Muhto jos mun dagan dan Beelsebula fámuin , gean fámuin din iežadet oahppit ádjet olggos bahá vuoiŋŋaid ? Dan dihtii sii šaddet din duopmárin .
+42012014	gii		Muhto Jesus vástidii sutnje : « Olmmoš , gii lea bidjan mu din gaskii dubmet dahje juogadit ? »
+42012017	Maid		ja son jurddašii : Maid mun dál dagan ? Mus ii leat sadji rádjat buot šattuidan .
+42012020	Geasa		Muhto Ipmil celkkii sutnje : Don jalla ! Otná ija gáibiduvvo dus heagga . Geasa gullá dat maid don leat čohkken ?
+42012024	Man ollu		Gehččet gáranasaid ! Eai dat gilvve eai ge láddje , ii dain leat áiti ii ge láhtu , muhto Ipmil biebmá daid . Man ollu eanet veara lehpet dii go lottit !
+42012025	Guhtemuš		Guhtemuš ba dis sáhttá buot morrašiiddisguin lasihit ovttage állana eallinguhkkodahkasis ?
+42012026	manne		Go dii dalle ehpet veaje oppa dan uhcánačča ge , manne de váivvidehpet iežadet buot eará diŋggaiguin ?
+42012042	Gii		Ja Hearrá vástidii : Gii lea oskkáldas ja jierpmálaš dállodoalli , dakkár gean isit bidjá bearráigeahččat eará bálvaleddjiid vai attášii sidjiide borramuša rivttes áigái ?
+42012049	~		Mun lean boahtán suhppet dola eatnama ala ; ja vare dat livččii juo buollán !
+42012056	manne		Guoktilaččat ! Eatnama ja almmi mearkkaid dii gal máhttibehtet árvidit , manne dalle ehpet máhte árvidit dán áiggi ?
+42012057	manne		Ja manne ehpet ieža rátkke dan mii lea riekta ?
+42013004	~		Dahje dat gávccenuppelogis geat sorbmašuvve go Siloatoardna gahčai sin ala , jáhkkibehtet go ahte sii ledje eanet sivalaččat go buot earát Jerusalemis ?
+42013007	Manne		Dalle son dajai viidnegárdeolbmái : Golbma jagi lean boahtán ohcat šattuid dán fiikkonmuoras gávnnakeahttá maidege . Njeaidde dan ! Manne dat galgá goaridit eatnama duššás ?
+42013015	guhtemuš		Hearrá vástidii sutnje : « Guoktilaččat , guhtemuš dis ii čoavdde vuovssás dahje ásenis hiŋgalis sábbáhin ge , ja láide olggos jugahit dan ?
+42013018a	man		Son celkkii : « Man láhkásaš lea Ipmila riika ? 
+42013018b	manin		Manin mun veardidan dan ?
+42013020	mainna		Ja son jotkkii : « Mainna mun veardidan Ipmila riikka ?
+42013025	gos		Go dáluisit lea čuožžilan ja gidden uvssa , de dii báhcibehtet olggobeallái , ja dii goalkkuhišgoahtibehtet uvssa ja dadjabehtet : « Hearrá , rabas midjiide ! » Muhto son vástida didjiide : « Mun in dovdda din , in ge dieđe gos dii bođežehpet . »
+42014005	~		Ja son celkkii sidjiide : « Jos ovttasge dis lea bárdni dahje vuoksá mii gahččá gáivui , ii go son dakkaviđe rohtteše su bajás , vaikko lea ge sábbát ? »
+42014028	~		Jos oktage dis áigu hukset toartna , ii go son vuos rehkenasttáše maid dat máksá oaidnin dihtii lea go sus doarvái ruhta ollašuhttit dan .
+42014031	~		Dahje jos muhtun gonagas áigu vuolgit soahtat eará gonagasa vuostái , ii go son vuos smiehta sáhttá go son logiduhát olbmáin mannat nuppi vuostái guhte boahtá su ovddal guoktelotduháhiin ?
+42014034	mainna		Sálttit leat ávkkálaččat . Muhto jos sálttit veagahuvvet , mainna dalle sáhttá sáltet ?
+42015004	~		Jos muhtumis dis leat čuođi sávzza , ja okta láhppo , ii go son dalle guođe dan ovccilogiovcci meahccái ja oza dan ovtta mii lea láhppon dassážii go gávdná dan ?
+42015008	~		Dahje jos nissonis leat logi silbaruđa ja son láhppá ovtta , ii go son dalle cahkket čuovgga ja suohpalastte buot vistti ja oza dárkilit dassážii go gávdná dan ?
+42015026	mii		Son čurvii muhtun bálvaleaddjái ja jearai mii lea dáhpáhuvvamin .
+42015029	~		Muhto son vástidii áhččásis : « Mun lean bálvalan du buot jagiid , in ge leat goassege dahkan du miela vuostái , muhto munnje it leat addán gihci ge vai livččen sáhttán bovdet ustibiiddán guossái .
+42016002	Maid		Son gohčui su lusas ja dajai : « Maid mun gulan du birra ? Daga rehkega dállodoalus , dasgo don it sáhte šat leat mus dállodoallin . »
+42016003	Maid		Dállodoalli jurddašii : « Maid dál dagan , go isit bidjá mu eret barggus ? In mun leat nu gievra ahte nagadan goaivut , ja mun heahpanattan gearjideames .
+42016005	man ollu		De son gohčui lusas isida velggolaččaid ovttaid mielde , ja jearai vuosttažis : « Man ollu don leat velggolaš mu isidii ? »
+42016007	man ollu		Dasto son jearai nuppis gis : « Naba don , man ollu don leat velggolaš ? » Son vástidii : « Čuohte fárpala nisuid . » Dállodoalli dajai sutnje : « Dá lea du vealgečálus , čále gávccilogi . »
+42016011	geat		Jos dii ehpet leat oskkáldasat ruđain , maidda lea čadnon vearrivuohta , geat dalle oskkildit didjiide duohta riggodagaid ?
+42016012	gii		Ja jos dii ehpet leat oskkáldasat das mii gullá earáide , gii dalle addá didjiide maidege iežadet opmodahkan ?
+42017007	~		Jos muhtumis lea bálvaleaddji boltumin eatnama dahje guođoheamen sávzzaid , dadjá go son dalle bálvaleaddjái go dat boahtá giettis : Boađe dál čohkkedit beavdái ?
+42017017	gos		Jesus jearai sus : « Eai go buot logis buhtásmuvvan ? Gos de leat dat ovccis ?
+42017018	~		Eai go lean earát go dát amas olmmoš gii máhcai rámidit Ipmila ? »
+42017020	goas		Go farisealaččat jerre Jesusis goas Ipmila riika boahtá , de vástidii sidjiide : « Ipmila riika ii boađe dainna lágiin ahte sáhttá oaidnit dan čalmmiiguin .
+42017037	~		Máhttájeaddjit jerre sus
+42018018	maid		Muhtun juvddálaš oaivámuš jearai sus : « Buorre oahpaheaddji , maid mun galggan dahkat vai árbešin agálaš eallima ? »
+42018019	Manne		Jesus vástidii : « Manne don gohčodat mu buorrin ? Ii oktage leat buorre , earet go Ipmil .
+42018026	Gii		Sii geat ledje guldaleamen , jerre : « Gii dalle sáhttá bestojuvvot ? »
+42018036	mii		Olmmái gulai ollu olbmuid mannamin meattá ja jearai mii dat lea .
+42018041	Maid		« Maid don dáhtut mu dahkat alccesat ? » Son vástidii : « Hearrá , attášit munnje oainnu ! »
+42019007	~		Muhto buohkat geat oidne dan , nimmoredje ja dadje : « Son manná guossin suttolaš olbmá dállui ! »
+42019023	Manne		Manne dalle it bidjan mu ruđa ruhtalonejeaddji háldui , vai livččen ožžon dan ruovttoluotta reanttuiguin go máhccen ? »
+42019031	Manne		Ja jos oktage jearaš dudnos : Manne dien čoavdibeahtti ? de vástideahkki : Hearrá dárbbaša dan . »
+42019033	Manne		Go leigga čoavdimin várssá , de dan eaiggádat jerre : « Manne doai čoavdibeahtti várssá ? »
+42020002a	gean		ja jerre : « Muital midjiide : Gean fámuin dagat don dán ? 
+42020002b	gii		Gii lea addán dutnje dakkár fámu ? »
+42020005a	~		Sii árvaladde gaskaneaset ja dadje : « Jos mii vástidit : Almmis , de son jearrá : 
+42020005b	manne		Manne dalle ehpet oskon sutnje ?
+42020013	Maid		De viidnegárdeeaiggát jurddašii : Maid mun dál dagan ? Mun vuolggahan iežan ráhkis bártni . Almma su gal atnet árvvus .
+42020015	Maid		Ja sii bálkestedje su olggos viidnegárddis ja cábme su jámas . Maid dál viidnegárdeisit dahká singuin ?
+42020017	Maid		Muhto son geahčai sidjiide ja celkkii : « Maid dasto mearkkaša dát mii lea čállojuvvon : Dat geađgi man huksejeaddjit hilgo , lea šaddan váldočiehkageađgin .
+42020023	~		Muhto son árvidii sin bahás jurdagiid ja celkkii sidjiide :
+42020024a	gean		« Čájehehket munnje denara ! Gean govva 
+42020024b	~		ja namma lea dás ? » Sii vástidedje : « Keaisára . »
+42020033	Gean		Gean áhká son lea bajásčuožžileamis ? Buot čiežas han leat leamaš náitalan suinna . »
+42020041	Mo		Jesus jearai sis : « Mo sáhttá dadjat ahte Messias lea Dávveda bárdni ?
+42020044	mo		Dávvet nappo gohčoda Messiasa hearrán ; mo son de sáhttá leat Dávveda bárdni ? »
+42021007a	goas		Sii jerre sus : « Oahpaheaddji , goas dát dáhpáhuvvá , 
+42021007b	mii		ja mii lea mearkan dasa ? »
+42022009	Gosa		Soai jearaiga sus : « Gosa don dáhtut munno ráhkadit daid ? »
+42022011	Gos		ja daddji dáluisidii : Oahpaheaddji jearrá dus : Gos lea latnja gos mun beasan borrat beassášmállásiid máhttájeddjiidanguin ?
+42022027	gii		Dasgo goabbá lea stuorit , son gii čohkká beavddis vai son gii bálvala ? Ii go leat son gii čohkká beavddis ? Muhto mun lean din gaskkas dego bálvaleaddji .
+42022046	Manne		Son celkkii sidjiide : « Manne oađđibehtet ? Čuožžilehket ja rohkadallet amadet šaddat geahččalussii ! »
+42022064	Gii		sii gokče su ámadaju ja dadje : « Einnos dal ! Gii cápmii du ? »
+42022071	mii		Sii dadje : « Dárbbašit go mii eanet duođaštusaid ? Mii han leat ieža gullan dan su iežas njálmmis . »
+42023022a	~		Pilatus celkkii sidjiide goalmmádassii : 
+42023022b	maid		« Maid baháid ba son lea dahkan ? In mun leat gávnnahan su áššálažžan masage mas ánssášivččii jápmima . Mun spihččehan su , ja de luoittán su luovus . »
+42023031	mo		Dasgo jos sii nu dahket ruonas muorain , mo dalle geavvá ástan muorain ? »
+42024005	Manne		Nissonat ballagohte ja gopmirdedje , ámadadju eatnama vuostái . Muhto dat guovttis celkkiiga sidjiide : « Manne dii jábmiid gaskkas ohcabehtet su guhte lea eallimin ?
+42024017	man		Son jearai sudnos : « Man birra doai nu háleštallabeahtti ? » Soai orusteigga ja geahčaiga morašlaččat bajás ,
+42024019	mii		Son jearai : « Na mii lea dáhpáhuvvan ? » Soai vástideigga : « Dát mii dáhpáhuvai nasaretlažžii Jesusii . Son lei profehta , daguin ja sániin fámolaš Ipmila ja oppa álbmoga ovddas .
+42024025	man		De son celkkii sudnuide : « Man jallat dii lehpet , ja nu hilljánat oskut buot daid maid profehtat leat cealkán !
+42024038a	manne		Muhto son celkkii sidjiide : « Manne suorganehpet , 
+42024038b	manne		ja manne badjána eahpádus din millii ?
+43001019	Gii		Dá lea dat duođaštus man Johanas attii go juvddálaččat vuolggahedje muhtun báhpaid ja levihtaid Jerusalemis su lusa jearrat : « Gii don leat ? »
+43001021	gii		Sii jerre : « Gii don dalle leat , leat go Elia ? » Son vástidii : « In leat . » Sii jerre : « Leat go don dat lohpiduvvon profehta ? » Son vástidii : « In leat . »
+43001022a	gii		De sii dadje sutnje : « Gii don dalle leat , dasgo mii fertet addit vástádusa sidjiide geat vuolggahedje min . 
+43001022b	maid		Maid don cealkkát iežat birra ? »
+43001025	Manne		jerre sus : « Manne don dalle gásttašat , go juo it leat Messias , it Elia , it ge profehta ge ? »
+43001038a	maid		Jesus jorggihii ja oinnii sudno čuovvumin iežas ja jearai : « Maid doai ohcabeahtti ? » Soai vástideigga : 
+43001038b	gos		« Rabbi , gos don orut ? » Rabbi lea seammá go oahpaheaddji .
+43001046	~		Natanael dajai : « Sáhttá ba Nasaretas boahtit mihkkege buriid ? » Filip vástidii : « Boađe geahččat ! »
+43001048	Mas		Natanael jearai : « Mas don mu dovddat ? » Jesus vástidii : « Mun oidnen du čohkkámin fiikkonmuora vuolde juo ovdal go Filip čurvii dutnje . »
+43002004	maid		Jesus celkkii : « Nisu , maid don áiggut muinna ? Ii mu diibmu leat velá boahtán . »
+43002018a	~		Juvddálaččat hállagohte ja jerre sus : 
+43002018b	Makkár		« Makkár mearkkain čájehivččet midjiide ahte dus lea vuoigatvuohta dán dahkat ? »
+43003004	Mo		Nikodemus jearai sus : « Mo sáhttá boares olmmoš riegádit , ii han son sáhte beassat eatnis goaŧu sisa fas ja riegádit ođđasis ? »
+43003009	Mo		Nikodemus jearai : « Mo dát lea vejolaš ? »
+43003012	mo		Jos dii ehpet oskko go mun sárdnidan didjiide eatnanlaš áššiid , mo de sáhttibehtet oskut go mun sárdnidan almmálaš áššiid ?
+43004009	Mo		Nisu dadjá : « Mo don guhte leat juvddálaš , sáhtát bivdit juhkat mus , Samaria nissonis ? » Dasgo juvddálaččat eai servvoštala samarialaččaiguin .
+43004011	Gos		Nisu dajai : « Hearrá , dus ii leat lihtti ge mainna geasášit bajás čázi , ja gáivo lea čieŋal . Gos don dalle válddášit dan ealli čázi ?
+43004027a	maid		Dan seammás bohte su máhttájeaddjit , ja sii ovddošedje go son lei hálešteamen nissoniin . Muhto ii oktage jearran maid son dáhtui 
+43004027b	manne		dahje manne lei hálešteamen nissoniin .
+43005012	Gii		Sii jerre : « Gii lea dat olmmái guhte gohčui du váldit seaŋggat ja vázzilit ? »
+43005044	Mo		Mo dii sáhttibehtet oskut , dii geat áinnas dáhttubehtet gudni guhtet guimmiineattet , ehpet ge oza gudni áidna Ipmilis ?
+43005047	mo		Muhto jos dii ehpet oskko su čállagiidda , mo de sáhttibehtet oskut mu sániide ?
+43006005	Gos		Go Jesus geahčastii ja oinnii ollu olbmuid boahtimin su lusa , de celkkii Filipii : « Gos mii oastit láibbi , vai dát buohkat oččošedje borrat ? »
+43006009	mat		« Dás lea uhca gánddaš geas leat vihtta bivgeláibbi ja guokte guoláža , muhto mat dat leat nu olusiidda ? »
+43006025	goas		Sii gávdne su nuppi bealde jávrri ja jerre sus : « Rabbi , goas don bohtet deike ? »
+43006028	mat		Sii dadje sutnje : « Mat leat dasto dat dagut maid Ipmil dáhttu min dahkat ? »
+43006030a	Makkár		Sii jerre : « Makkár mearkka de dagat , vai mii oainnášeimmet ja oskkošeimmet ? 
+43006030b	maid		Maid don dagat ?
+43006042	Mo		Ja sii jerre : « Ii go dát leat Jesus , Jovsseha bárdni . Mii han dovdat sihke su áhči ja su eatni . Mo son de sáhttá dadjat ahte son lea boahtán vuolás almmis ? »
+43006052	Mo		Dás maŋŋil juvddálaččat riidališgohte gaskaneaset ja dadje : « Mo sáhttá son addit midjiide rupmašis borrat ? »
+43006060	Gii		Olusat su máhttájeddjiin geat gulle dán , dadje dalle : « Dát leat garra sánit ! Gii gierdá guldalit diekkáriid ? »
+43006062	Mo		Mo de jos oaidnibehtet Olbmobártni mannamin bajás dohko gos lei ovdal ?
+43006068	gean		Muhto Simmon Biehtár vástidii : « Hearrá , gean lusa mii manašeimmet ? Dus leat agálaš eallima sánit ,
+43007011	Gos		Juvddálaččat ohce su basiid áigge ja jerre : « Gos son lea ? »
+43007015	Gos		Juvddálaččat ovddošedje ja dadje . « Gos son lea ožžon oahpas , go ii leat oahpahuvvon ? »
+43007019	Manne		Ii go Movsses leat addán didjiide lága ? Muhto ii oktage dis jeagat lága . Manne dalle viggabehtet goddit mu ? »
+43007020	gii		Olbmot vástidedje : « Dus lea bahá vuoigŋa , gii ba du vikkašii goddit ? »
+43007023	~		Jos dál olmmoš sáhttá birračuhppojuvvot sábbáhin , amas Movssesa láhka rihkkojuvvot , sáhttibehtet go dii dalle suhttat munnje dan dihtii go mun dahken olbmo ollásit dearvvašin sábbáhin ?
+43007035	Gosa		De juvddálaččat jerre guhtet guimmiineaset : « Gosa son áigu mannat ? Manne mii eat gávnnaše su ? Lea go son vuolgimin min álbmotguimmiid lusa geat ásset greikalaččaid gaskkas , ja áigu go sárdnidit greikalaččaide ge ?
+43007036	Maid		Maid son oaivvilda go cealká : Dii ohcabehtet mu , muhto ehpet gávnna , ja dii ehpet beasa dohko gos mun lean ? »
+43007041	~		Earát fas dadje : « Dat lea Messias ! » De muhtumat dadje : « Ii han Messias gal boađe Galileas ?
+43007045	Manne		Go fávttat bohte ruovttoluotta , de bajitbáhpat ja farisealaččat jerre sis : « Manne dii ehpet buktán su deike ? »
+43007048	~		Lea ba gal oktage ráđđehearrá velá oskon sutnje ? Dahje oktage farisealaš ?
+43007051	~		« Ii han min láhka dubme olbmo ovdal go son lea dutkojuvvon , ja lea čielggas maid son lea dahkan ? »
+43008005	Maid		Lágas Movsses lea gohččon geađgádit diekkár nissoniid . Maid ba don cealkkát dasa ? »
+43008010	gos		Jesus njulgestii iežas ja jearai : « Nisu , gos sii leat ? Ii go oktage leat dubmen du ? »
+43008019	Gos		Sii jerre sus : « Gos du áhčči lea ? » Jesus vástidii : « Dii ehpet dovdda mu ehpet ge mu Áhči . Jos dovddašeiddet mu , de dovddašeiddet Áhččán ge . »
+43008025a	gii		Sii jerre sus : « Gii don leat ? » Jesus celkkii : 
+43008025b	manne		« Manne mun oppa sártnun ge dinguin ?
+43008033	Mo		Sii dadje sutnje : « Mii leat Abrahama nálli eat ge leat goassege leamaš geange šlávat . Mo dalle sáhtát cealkit ahte mii šaddat friddjan ? »
+43008043	Manne		Manne dii ehpet ádde maid mun sártnun ? Danne go ehpet gierdda gullat mu sáni !
+43008046a	Guhtemuš		Guhtemuš dis sáhttá čájehit ahte mun lean dahkan suttu ? 
+43008046b	manne		Muhto jos mun sártnun duohtavuođa , manne dalle ehpet oskko munnje ?
+43008053	Geanin		It dal don leat stuorit go áhččámet Abraham ? Sihke son ja profehtat leat jápmán . Geanin don anát iežat ? »
+43008057	~		Juvddálaččat dadje : « It don leat vihttalot jagi ge ja leat oaidnán Abrahama ? »
+43009002	gii		Máhttájeaddjit jerre : « Rabbi , gii lea dahkan suttuid maid sivas son lea riegádan čalmmeheapmin , son ieš vai su vánhemat ? »
+43009010	Mo		Sii jerre sus : « Mo dus rahpasedje čalmmit ? »
+43009012	Gos		Sii jerre : « Gos dát olmmái lea ? » Son vástidii : « In mun dieđe . »
+43009016	Mo		Muhtun farisealaččat dadje : « Ii dat olmmái boađe Ipmila luhtte , go juo ii doala sábbáha . » Earát dadje : « Mo suttolaš olmmái sáhttá dahkat diekkár mearkkaid ? » Sii riidališgohte gaskaneaset dien alde .
+43009017	Maid		Danne jerre fas čalmmeheamis : « Maid don oaivvildat su birra , du čalmmiid han son rabai ? » Olmmái vástidii : « Son lea profehta . »
+43009019	Mo		ja jearran sudnos : « Lea go dát dudno bárdni , gean dadjabeahtti riegádan čalmmeheapmin ? Mo son dál sáhttá oaidnit ? »
+43009026a	maid		Sii jerre : « Maid son dagai dutnje ? 
+43009026b	mo		Mo son rabai du čalmmiid ? »
+43009027	Manne		Olmmái vástidii sidjiide : « Mun lean juo dadjan dan didjiide , muhto dii ehpet guldal . Manne fas dáhttubehtet gullat dan ? Áiggošeiddet go dii ge su máhttájeaddjin ? »
+43009034	~		Sii vástidedje : « Don leat riegádan čađa suttolažžan , ja de vikkat oahpahit min ? » Ja sii bálkestedje su olggos .
+43009036	Gii		Olmmái vástidii : « Gii son lea , Hearrá , vai mun beasašin oskut sutnje ? »
+43010020	Manne		Olusat sis dadje : « Sus lea bahá vuoigŋa ! Son lea mielaheapmi ! Manne dii guldalehpet su ? »
+43010021	~		Earát dadje : « Nie ii sártno olmmoš geas lea bahá vuoigŋa ! Sáhtášii go bahá vuoigŋa rahpat čalmmehemiid čalmmiid . »
+43010024	Man guhká		Juvddálaččat čoahkkanedje su birra ja jerre : « Man guhká áiggut doalahit min vissismeahttunvuođas ? Jos don leaččat Messias , de cealkke midjiide njulgestaga ! »
+43010032	Man		Jesus celkkii sidjiide : « Mun lean čájehan didjiide ollu buriid daguid mat bohtet Áhčistan . Man dagu dihtii dii geađgádehpet mu ? »
+43010036	Mo		Áhčči lea basuhan mu ja vuolggahan mu máilbmái . Mo sáhttibehtet dii čuoččuhit ahte mun bilkidan Ipmila go cealkkán ahte lean Ipmila Bárdni ?
+43011034	Gosa		ja jearai : « Gosa dii lehpet bidjan su ? » Sii vástidedje : « Hearrá , boađe geahččat . »
+43011047	Maid		Dalle bajitbáhpat ja farisealaččat gohččo čoahkkái Ráđi , ja dadje : « Maid mii dál dahkat ? Dát olmmái dahká ollu mearkadaguid .
+43011056	Maid		Sii ohce Jesusa , ja čuoččodettiin tempelšiljus sii jerre guhtet guimmiineaset : « Maid jáhkkibehtet ? Ii go son dáidde boahtit basiide ? »
+43012005	Manne		« Manne dát vuoiddas ii vuvdojuvvon golmma čuođi denarii nu ahte livččii sáhttán addit ruđaid gefiide ? »
+43012027	~		Dál lea mu siellu suorganan . Muhto cealkkán go : Áhčči , beastte mu dán diimmus ? In ! Dasgo aiddo dán diimmu várás mun lean boahtán .
+43012034a	mo		Olbmot dadje dalle Jesusii : « Mii leat oahppan lágas ahte Messias bissu agálaččat . Mo dalle sáhtát cealkit ahte Olbmobárdni galgá bajiduvvot ? 
+43012034b	gii		Gii lea dát Olbmobárdni ? »
+43012038a	gii		vai profehta Jesaja sátni ollašuvašii : Hearrá , gii oskkui min sártni , 
+43012038b	geasa		ja geasa lea almmustuvvan Hearrá gieđa fápmu ?
+43013025	gii		Son mieiggastii dalle Jesusa ratti vuostái ja jearai : « Hearrá , gii dat lea ? »
+43013036	gosa		Simmon Biehtár jearrá sus : « Hearrá , gosa don manat ? » Jesus vástidii : « Dohko gosa mun manan , dohko don it sáhte čuovvut mu dál . Maŋŋil don beasat čuovvut mu . »
+43013037	Manne		Biehtár dadjá : « Manne mun in sáhte čuovvut du dál ? Mun attán heaggan du ovddas . »
+43014002	~		Mu Áhččán viesus leat ollu lanjat . Jos nu ii livčče , de mun cealkkášin didjiide dan . Dasgo mun manan gárvvistit didjiide saji .
+43014005	Mo		Duomás dadjá sutnje : « Hearrá , eat mii dieđe gosa don manažat . Mo mii de sáhttit diehtit geainnu ? »
+43014009	Mo		Jesus vástida : « It go dovdda mu , Filip , vaikko mun lean leamaš nu guhká din luhtte ? Dat guhte lea oaidnán mu , lea oaidnán Áhči . Mo de sáhtát dadjat : Čájet midjiide Áhči ?
+43014022	manne		Nubbi Judas , ii ge Iskariot , dadjá sutnje : « Hearrá , manne don almmustahtát iežat midjiide , it ge máilbmái ? »
+43016005	Gosa		Dál manan su lusa gii lea vuolggahan mu , muhto ii oktage dis jeara : « Gosa don manat ? »
+43016017	Maid		Muhtumat su máhttájeddjiin dadje guhtet guoibmáseaset : « Maid son oaivvilda dainna ahte bottoža geahčen mii eat oainne su , ja bottoža geahčen fas oaidnit , ja ahte son manná Áhči lusa ?
+43016018	Maid		Maid mearkkaša dát go cealká : bottoža geahčen ? Mii eat ádde man birra son sárdnu . »
+43018004	Gean		Jesus diđii buot dan mii galggai dáhpáhuvvat sutnje . Son manai sin lusa ja jearai : « Gean dii ohcabehtet ? »
+43018007	Gean		Son jearai fas : « Gean dii ohcabehtet ? » Sii dadje : « Nasaretlačča Jesusa . »
+43018011	~		Muhto Jesus celkkii Biehtárii : « Nahket miehki dohppii ! In go mun jugaše dan geara man Áhčči lea addán munnje ? »
+43018021	Manne		Manne jearahat mu ? Jearat baicca sin geat leat gullan mu , maid mun lean sárdnon sidjiide . Sii dihtet maid mun lean cealkán . »
+43018023	manne		Jesus celkkii sutnje : « Jos mun leaččan cealkán maidege boastut , de duođaš dan ! Muhto jos dat lei riekta maid celken , manne dalle doškejit mu ? »
+43018029	Mas		Pilatus manai olggos sin lusa ja jearai : « Mas dii guoddalehpet dán olbmá ? »
+43018035	Maid		Pilatus dajai : « Lean go mun gal juvddálaš ? Du iežat álbmot ja bajitbáhpat leat addán du mu háldui . Maid don leat dahkan ? »
+43018038	Mii		Pilatus jearai : « Mii lea duohtavuohta ? » Dasto son manai fas olggos juvddálaččaid lusa ja celkkii sidjiide : « Mun in gávnna maidege áššiid dán olbmás .
+43019009	Gos		Ja son manai ladnái fas ja jearai Jesusis : « Gos don leat eret ? » Muhto Jesus ii vástidan sutnje maidege .
+43019015	~		Muhto sii čurvo : « Doalvvo su eret ! Russiinávle su ! » Pilatus jearai : « Dáhttubehtet go mu russiinávlet din gonagasa ? » Bajitbáhpat dadje : « Ii mis leat eará gonagas go keaisár . »
+43020013	manne		Soai jearaiga sus : « Nisu , manne don čierut ? » Son vástidii : « Sii leat váldán mu Hearrá eret , in ge mun dieđe gosa sii ležžet bidjan su . »
+43020015a	manne		Jesus jearrá : « Nisu , manne don čierut ? 
+43020015b	gean		Gean don leat ohcamin ? » Márjá gáttii ahte son lei gilvvagárdeolmmái ja dadjá sutnje : « Hearrá , jos don leaččat váldán su eret , de muital munnje gosa leat bidjan su , vai beasan váldit su fárrui . »
+43021012	Gii		Jesus celkkii sidjiide : « Bohtet boradit . » Ii oktage máhttájeddjiin arvan jearrat sus : « Gii don leat ? » dasgo sii dihte ahte dat lei Hearrá .
+43021020	gii		Biehtár jorggihii ja oinnii ahte dat máhttájeaddji gean Jesus ráhkistii , bođii maŋis . Son lei dat gii eahkedismállásiid boradettiin lei mieiggastan Jesusa ratti vuostái ja jearran : « Hearrá , gii beahttá du ? »
+43021021	mo		Go dál Biehtár oinnii su , de jearai Jesusis : « Hearrá , mo sutnje gis geavvá ? »
+43021022	mii		Jesus vástidii : « Jos mun dáhtošin ahte son eallá dassážii go mun boađán , mii das guoská dutnje ? Čuovo don mu ! »
+43021023	mii		Dát sátni bođii maŋŋil oskuguimmiid gaskii : « Dát máhttájeaddji ii jáme . » Muhto ii Jesus lean cealkán ahte son ii jáme , muhto son celkkii : « Jos mun dáhtošin ahte son eallá dassážii go mun boađán , mii das guoská dutnje ? »
+44001011	manne		ja celke : « Galilealaččat , manne dii čuožžubehtet dás geahččamin bajás almmi guvlui ? Dát Jesus gii váldojuvvui albmái eret din luhtte , boahtá fas seammá láhkái go dii oinniidet su mannamin bajás albmái . »
+44002008	Mo		Mo de sáhttit mii gullat juohkehaš iežamet eatnigiela ?
+44002012	Mii		Buohkat hirpmástuvve ja šadde eahpádussii ja jerre guhtet guimmiineaset : « Mii son dát lea ? »
+44002037	maid		Go sii gulle dán , de dat čuggii sin váibmui , ja sii jerre Biehtáris ja eará apoastaliin : « Vieljat , maid mii galgat dahkat ? »
+44003012a	manne		Go Biehtár oinnii dan , de sárdnugođii olbmuide : Israellaččat , manne dii ovddošehpet dán ? 
+44003012b	manne		Manne geahččabehtet munnuide dego moai iežame fámuin dahje ipmilbalolašvuođain livččiime ožžon dán olbmá vázzit ?
+44004007a	~		
+44004007b	Makkár		Sii gohččo apoastalguoktá lusaset ja jearahedje sudno : « Makkár fámuin 
+44004007c	gean		ja gean nammii leahppi dahkan dan ? »
+44004016	Maid		« Maid mii galgat dahkat dáinna olbmoguoktáin ? Soai leaba dahkan čielga oavdudagu ; dat lea almmus juohkehažžii gii orru Jerusalemis , eat ge mii sáhte biehttalit dan .
+44004025a	manne		Don addet Bassi Vuoiŋŋa min máddarii Dávvedii , bálvaleaddjásat , ja celket su njálmmiin : Manne báhkinat stuibmidit ? 
+44004025b	manne		Manne álbmogat hutket joavdelas juonaid ?
+44005003	manne		De Biehtár dajai : « Ananias , manne Sáhtán lea deavdán du váimmu , go don geahččalat gielistit Bassi Vuigŋii ja doaladit alccesat oasi dan ruđas maid ožžot bealddu ovddas ?
+44005004	Mo		Ii go bealdu gullan dutnje ovdal go vuvdet dan ? Ja go de ledjet vuovdán , eai go dalle ruđat gullan dutnje ? Mo dakkár jurdagat sáhtte badjánit du váibmui ? It don leat gielistan olbmuid , muhto Ipmila . »
+44005009	Mo		Biehtár dajai sutnje : « Mo doai sáhtiide soabadit geahččalit Hearrá Vuoiŋŋa ? Gula , uvssa olggobealde gullojit sin lávkkit geat leat hávdádan du boatnjá ; sii guddet du ge olggos . »
+44007026	Manne		Nuppi beaivvi son bođii go guovttis sis leigga doarrumin gaskaneaskka , ja son geahččalii soabahit sudno ja dajai : « Olbmát , doai han leahppi álbmotguimmežat ! Manne doai dahkabeahtti vearrut goappat guoibmáseatte ? »
+44007027	Gii		Muhto son guhte lei dahkan vearrut nubbái , hoigadii Movssesa eret ja dajai : « Gii lea bidjan du min oaivámužžan ja duopmárin ?
+44007035	Gii		Dán Movssesa israellaččat biehttaledje go dadje : Gii lea dahkan du oaivámužžan ja duopmárin ? Muhto aiddo su Ipmil vuolggahii oaivámužžan ja gáddjun go eŋgel almmustuvai bastilislánjás sutnje veahkkin .
+44007049a	Makkár		Albmi lea mu truvdnu , ja eanan lea mu julggiid vuloš . Makkár viesu dii huksešeiddet munnje , cealká Hearrá , 
+44007049b	gos		ja gos ba livččii mu vuoiŋŋastanbáiki ?
+44007052	gean		Lea go goassege leamaš profehta gean din máddarat eai leat doarrádallan ? Sii godde sin geat einnostedje ahte Vanhurskkis galggai boahtit . Ja dál dii lehpet beahttán ja goddán su ,
+44008031	Mo		Olmmái vástidii : « Mo mun áddešin go ii oktage čilge munnje ? » De son bivddii Filipa boahtit vovdnasis ja čohkánit iežas báldii .
+44008033	Gii		Go son vuoliduvvui , de váldojuvvui su duopmu eret . Gii máhttá lohkat su maŋisbohttiid logu ? Dasgo su heagga lea váldojuvvon eret eatnama alde .
+44008034	gean		Gonagasbálvaleaddji dajai Filipii : « Muital munnje gean birra profehta dás sárdnu ? Lea go iežas vai muhtun eará birra ? »
+44008036	mii		Ja mátkkoštettiin soai bođiiga muhtun sadjái gos lei čáhci , ja gonagasbálvaleaddji dajai : « Dás lea čáhci . Lea go mihkkege mii hehttešii mu gásttašuvvomis ? »
+44009004	manne		Son gahčai eatnamii ja gulai jiena mii celkkii sutnje : « Sávlos , Sávlos , manne doarrádalat mu ? »
+44009005	gii		Son jearai : « Hearrá , gii don leat ? » Ja jietna vástidii : « Mun lean Jesus , gean don doarrádalat .
+44009006	maid		Muhto čuožžil dál ja mana gávpogii . Doppe oaččut diehtit maid don galggat dahkat . »
+44010004	maid		Kornelius gávkkai suorganemiin eŋgelii ja jearai : « Hearrá , maid don dáhtut ? » Eŋgel vástidii sutnje : « Du rohkosat ja attáldagat leat badjánan Ipmila ovdii , ja son lea muitán du .
+44010021	Manne		Biehtár manai vuolás olbmáid lusa ja dajai : « Mun lean dat gean dii ohcabehtet . Manne lehpet boahtán deike ? »
+44010029	manne		Go mun gohčohallen deike , de bohten biehttalkeahttá . Muhto dál jearan dis : Manne lehpet rávkan mu boahtit ? »
+44010047	~		De Biehtár jearai : « Sáhttá go oktage biehttalit sis čázi ja hehttet sin gásttašuvvomis , go sii leat ožžon Bassi Vuoiŋŋa nugo mii ? »
+44011017a	gii		Jos nappo Ipmil lea addán sidjiide seammá attáldaga maid mii oaččuimet go oskugođiimet Hearrá Jesus Kristusii , gii dalle mun livččen ahte hehttešin Ipmila ? »
+44011017b	~		
+44012018	gosa		Iđedis šattai stuora moivi soalddáhiid gaskkas : Gosa Biehtár lei šaddan ?
+44013025	~		Go Johanas lei loahpaheamen daguidis , de son celkkii : « Mun in leat dat geanin dii gáddibehtet mu . Muhto mu maŋŋil boahtá muhtun gean gápmagiid ge mun in leat dohkálaš nuollat . »
+44014015	manne		ja čuorvvuiga : « Olbmát , manne dahkabehtet dan ? Moai han letne dábálaš olbmot nugo dii ge . Ja moai bukte didjiide buori sága , ahte dii fertebehtet jorgalit eret duššálaš eahpeipmiliin ealli Ipmilii , sutnje guhte lea sivdnidan almmi ja eatnama ja meara ja buot mat daid siste leat .
+44015010	Manne		Manne dii dalle geahččalehpet Ipmila ja bidjabehtet máhttájeddjiid niskki ala geassá man eai min máddarat eat ge mii leat veadján guoddit ?
+44016030	maid		Son doalvvui sudno olggos ja dajai : « Buorit olbmát , maid mun galggan dahkat , vai bestojuvvošin ? »
+44017018	Maid		Muhtun epikuralaš ja stoalaš filosofat nákkáhallagohte suinna , ja muhtumat dadje : « Maid duođaid viggá dat hállás olmmái muitalit ? » Earát árvaledje : « Son dáidá leat amas ipmiliid sárdnideaddji . » Dasgo Bávlos sárdnidii evangeliuma Jesusa ja bajásčuožžileami birra .
+44017019	mii		Sii válde dasto Bávlosa mielddiset ja dolvo su Areiopagosii ja dadje : « Oažžut go mii diehtit makkár lea dat ođđa oahppu maid don buvttát ?
+44019003	Makkár		Bávlos jearai : « Makkár gásttain gásttašuvvuidet ? » Sii vástidedje : « Johanasa gásttain . »
+44019015	geat		Muhto bahá vuoigŋa vástidii sidjiide : « Jesusa mun gal dovddan , ja mun dieđán gii Bávlos lea , muhto geat bat dii lehpet ? »
+44019035	~		Muhto gávpotčálli vejii loahpas jaskkodahttit olbmuid ja dajai : « Efesoslaččat , eai go buohkat dieđe ahte efesoslaččaid gávpot lea gáhttemin stuora Artemisa ja su gova mii lea gahččan almmis ?
+44021013a	manne		Muhto Bávlos vástidii : « Manne dii čierrubehtet ja givssidehpet mu váimmu ? In leat gárvvis dušše čadnojuvvot , muhto maiddái jápmit Jerusalemii min Hearrá Jesusa nama dihtii . »
+44021013b	~		
+44021022	Maid		Maid mii dál dahkat ? Fargga šaddá dovddusin ahte don leat boahtán .
+44021033a	gii		Kommandánta manai ovdan ja válddii Bávlosa gitta ja gohčui čatnat su guvttiin láhkkiin . De son jearai gii Bávlos lei 
+44021033b	maid		ja maid son lei dahkan .
+44022007	manne		Mun gahččen eatnamii ja gullen jiena mii celkkii munnje : « Sávlos , Sávlos , manne doarrádalat mu ? »
+44022008	gii		Mun jerren : « Hearrá , gii don leat ? » Son vástidii : « Mun lean nasaretlaš Jesus gean don doarrádalat . »
+44022010	maid		Mun jerren : « Hearrá , maid mun galggan dahkat ? » Ja Hearrá celkkii munnje : « Čuožžil bajás ja mana Damaskusii ! Doppe beasat gullat makkár doaimmaide don leat mearriduvvon . »
+44022016	mainna		Mainna ádjánat ? Čuožžil , divtte iežat gásttašuvvot ja suttuidat sihkkojuvvot eret ja čuorvvo Hearrá nama . »
+44022026	~		Go offiseara gulai dan , de manai kommandántta lusa ja dajai : « Várut , dasgo dát olmmái lea Roma riikkavuloš . »
+44023003	~		Bávlos celkkii sutnje : « Ipmil cábmá du , don kálkejuvvon seaidni ! Don leat čohkkámin dás dubmen dihtii mu lága mielde , muhto don rihkut lága go gohčut cábmit mu . »
+44023009	~		Dál sii čuorvugohte ja farisealaččaid bealladagas čuožžiledje muhtun čálaoahppavaččat ja vuostálaste garrasit : « Mii eat gávnna maidege baháid dán olbmás . Mo jos eŋgel dahje vuoigŋa lea sárdnon sutnje ! »
+44023019	Mii		Kommandánta válddii bártni gihtii ja manai sierranassii ja jearai : « Mii dus lea munnje muitalit ? »
+44026008	Manne		Manne lea didjiide jáhkkemeahttun ahte Ipmil bajásčuoččáldahttá jábmiid ?
+44026014	manne		Mii buohkat gahčaimet eatnamii , ja mun gullen jiena cealkimin alccesan hebreagillii : « Sávlos , Sávlos , manne doarrádalat mu ? Dutnje šaddá lossadin čiekčat seahčagasa vuostái . »
+44026015	gii		Mun jerren : « Hearrá , gii don leat ? » Ja Hearrá celkkii : « Mun lean Jesus gean don doarrádalat .
+45002017	~		Na ba don , gii gal gohčodat iežat juvddálažžan ja luohtát láhkii , don čeavlástalat Ipmiliinnát ,
+45002021	~		Don gii oahpahat earáid , it go iežat ge oahpat ? Don gii sárdnidat ahte ii galgga suoládit , suoládat go ieš ?
+45002028	~		Dasgo rivttes juvddálaš ii leat son gii olgguldasat lea juvddálaš , ja rivttes birračuohpahus ii leat rupmaša olgguldas mearka .
+45003001a	Makkár		Makkár ovdamunni lea dasto juvddálaččas , 
+45003001b	mii		dahje mii ávkkiid lea birračuohpahusas ?
+45003003	mo		Muhto mo de jos muhtumat sis leat leamaš oskkáldasmeahttumat ? Sáhttá go sin oskkáldasmeahttunvuohta dahkat Ipmila oskkáldasvuođa duššin ?
+45003005	maid		Muhto jos min vearrivuohta čájeha Ipmila vanhurskkisvuođa , maid dat mearkkaša ? Go sártnun olbmo vuogi mielde , lea go dalle Ipmil vuoigatmeahttun , go diktá moaris deaivat min ?
+45003006	mo		Ii eisege ! Jos Ipmil lea vuoigatmeahttun , mo son dalle sáhttá dubmet máilmmi ?
+45003007a	~		Muhto jos mu gielisvuohta šaddá sutnje gudnin go čájeha vel čielgaseabbot ahte Ipmil sárdnu duohtavuođa , 
+45003007b	manne		manne mun dalle liikká dubmejuvvon suttolažžan ?
+45003008	~		Ii goit ášši leat nugo muhtun bilkideaddjit dadjet min oahpahit : « Dahkot fal bahá vai dat šattašii buorrin . » Ožžoset sii dan duomu man ánssášit .
+45003009	Mo		Mo lea dalle ? Leat go mii juvddálaččat buoret dilis go báhkinat ? Eat eisege ! Mii han leat juo čájehan ahte buot olbmot , sihke juvddálaččat ja greikalaččat , leat suttu vuložat .
+45003027a	gos		Gos de lea dat mas mii sáhttit rábmot iežamet ? Buot rápmi lea dušši ! 
+45003027b	mii		Mii lágaid cealká dan ? 
+45003027c	~		Lea go dat daguid láhka ? Ii leat , muhto oskku láhka .
+45004001	Maid		Maid dát mearkkaša Abrahama , min álbmoga máddara , dáfus ? Mii šattai su oassin ?
+45004003	Maid		Maid čála cealká dasa ? Abraham jáhkii Ipmila , ja danne Ipmil anii su vanhurskkisin .
+45004010	goas		Goas dat dáhpáhuvai ? Lei go ovdal vai maŋŋil go son birračuhppojuvvui ? Dat lei ovdal go son birračuhppojuvvui .
+45005010	~		Go mii ain leimmet Ipmila vašálaččat , de Ipmila Bártni jápmin soabahii min Ipmiliin . Dál go mii leat soabahuvvon , de dađe vissáseabbot Bártni eallin beastá min .
+45005021	~		Ja nugo suddu lea ráđđen ja buktán jápmima , nu árbmu ráđđe ja buktá vanhurskkisvuođa ja addá agálaš eallima Hearrámet Jesus Kristusa bokte .
+45006001	Maid		Maid mii dása cealkit ? Bissut go mii ain suttus , vai árbmu šattašii dađe stuoribun ?
+45006002	mo		Eat eisege ! Mii geat leat jápmán eret suttus , mo mii sáhttit ain eallit das ?
+45006015	Maid		Maid dat mearkkaša ? Beassat go mii suddudit , danne go eat leat lága , muhto árpmu vuložat ? Eat eisege !
+45006021	Maid		Maid oaččuidet dalle ? Šattuid main dál heahpanaddabehtet , dasgo dat buktet jápmima .
+45007007	Maid		Maid mii dása cealkit ? Lea go láhka suddu ? Ii eisege ! Muhto lága haga in livčče dovdan suttu . Mun in livčče dovdan anistumi , jos láhka ii livčče cealkán : Don it galgga anistuvvat .
+45007024	Gii		Mun vártnuhis olmmoš ! Gii čoavdá mu dán jápmima rupmašis ?
+45008024	mo		Dán doaivaga mielde mii leat bestojuvvon . Muhto doaivva man oaidná juo ollašuvvan , ii leat šat doaivva . Mo sáhttá oktage doaivut dan man oaidná ?
+45008031a	maid		Maid mii dása cealkit ? 
+45008031b	gii		Jos Ipmil lea min beale , gii dalle lea min vuostái ?
+45008032	manne		Son guhte ii seastán Bártnis , muhto attii su min buohkaid ovddas , manne son dalle ii galggaše addit midjiide buot eará ge oktan suinna ?
+45008033	Gii		Gii sáhttá váidalit sin geaid Ipmil lea válljen ? Ii oktage , go Ipmil lea dat guhte cealká sin vanhurskkisin .
+45008034	Gii		Gii sáhttá dubmet sin ? Ii oktage , go Kristus Jesus lea dat guhte jámii ja velá bajásčuoččáldahttojuvvui ja čohkká Ipmila olgeš gieđa bealde ja rohkadallá min ovddas .
+45008035	Gii		Gii dalle sáhttá earuhit min Kristusa ráhkisvuođas ? Sáhttá go áŧestus , ballu , doarrádallojupmi , nealgi , álásvuohta , heahti dahje miehkki ?
+45009014	Maid		Maid mii dása cealkit ? Lea go Ipmil vuoigatmeahttun go dahká dan ? Ii eisege !
+45009019a	manne		Don dáiddát dadjat munnje : « Manne son dalle láitá min jos ii oktage sáhte vuostálastit su dáhtu ? »
+45009019b	~		
+45009020a	gii		Muhto gii leat don , olmmošriehpu , gii duosttat cuiggodit Ipmila ? 
+45009020b	~		Sáhttá go dat mii lea ráhkaduvvon , dadjat ráhkadeaddjái : 
+45009020c	manne		« Manne don dahket mu dákkárin ? »
+45009021	~		Ii go láirálihttedahkki sáhte hábmet láirrá nugo ieš dáhttu , nu ahte son seammá láirrás ráhkada guokte lihti , nuppi čikŋalihttin ja nuppi fas atnulihttin ?
+45009022	~		Ja nu lea maiddái Ipmil dahkan go dáhtui čájehit moaris ja almmuhit fámus . Stuora guhkesmielalašvuođain son sesttii vel daid lihtiid ge maid lei ráhkadan cuvken dihtii moaristis .
+45009023	~		Son dáhtui almmustahttit rikkis hearvásvuođas daid lihtiide maid son váibmoláđisvuođastis lea gárvvistan hearvásvuhtii .
+45009024	~		Maiddái min ge son lea rávkan dákkár lihttin , ii dušše juvddálaččaid gaskkas , muhto báhkiniid gaskkas ge ,
+45009030	Maid		Maid mii dása cealkit ? Mii cealkit ahte báhkinat geat eai bivdán vanhurskkisvuođa , leat ožžon vanhurskkisvuođa , ja dat lea vanhurskkisvuohta mii boahtá oskkus .
+45009032	Manne		Manne ii ? Danne go dat ii faŋuhan dan oskkuin , muhto daguidisguin . Sii jorraledje norddastusgeađgái ,
+45010006	Gii		Muhto vanhurskkisvuohta mii boahtá oskkus , cealká : Ale jurddaš váimmustat : Gii manná bajás albmái ? — namalassii viežžat Kristusa vuolás —
+45010007	Gii		dahje : Gii njiedjá čiekŋalassii ? — namalassii viežžat Kristusa bajás jábmiid luhtte .
+45010008	maid		Muhto maid dat dasto cealká ? Sátni lea du lahka , du njálmmis ja du váimmus , namalassii dat oskku sátni man mii sárdnidit .
+45010014a	mo		Muhto mo sii sáhttet čuorvut su geasa eai oskko ? 
+45010014b	mo		Mo sii sáhttet oskut sutnje gean birra eai leat gullan ? 
+45010014c	mo		Mo sii sáhttet gullat jos ii oktage sárdnit ?
+45010015	Mo		Mo sáhttet geatge sárdnidit jos eai leat vuolggahuvvon ? Nugo lea čállojuvvon : Man čábbát čudjet sin lávkkit geat buktet buriid ságaid !
+45010016	gii		Muhto eai buohkat lean gulolaččat evangeliumii . Dasgo Jesaja cealká : Hearrá , gii oskkui min sárdnái ?
+45011004	maid		Muhto maid Ipmil vástida sutnje ? Mun lean guođihan alccesan čieža duhát olbmá geat eai leat sojaldahttán čippiideaset Baala ovddas .
+45011007	Maid		Maid dat mearkkaša ? Israel ii leat olahan dan maid lea viggan , muhto sii geat leat válljejuvvon , leat olahan dan . Earát leat buoššuduvvon ,
+45011015	mii		Dasgo jos juvddálaččaid hilgojupmi buvttii soabahusa máilbmái , mii dalle dáhpáhuvvá go sii dohkkehuvvojit ? Dalle jábmit ožžot eallima !
+45011018	~		Muhto ale goarggastala álgoovssiid bálddas ! Jos dagat dan , de muitte ahte it don guotte ruohttasa , muhto ruohtas guoddá du !
+45011033a	man		Man čieŋal lea Ipmila riggodat , viisodat ja diehtu ! Man suokkardallameahttumat leat su duomut , 
+45011033b	man		ja man árvitmeahttumat su geainnut !
+45011034a	gii		Gii dovdá Hearrá jurdagiid , 
+45011034b	gii		gii sáhttá leat su ráđđeaddi ?
+45011035	Gii		Gii lea addán sutnje maidege , man son ferte buhtadit ?
+45014004	Mii		Mii vuoigatvuođaid dus lea dubmet nuppi olbmo bálvaleaddji ? Su isit mearrida jogo son čuožžu dahje gahččá . Muhto son bissu čuoččat , dasgo Hearrás lea fápmu doallat su čuoččat .
+45014010a	manne		Muhto don , manne dubmet oskuguoimmát , 
+45014010b	manne		dahje manne badjelgeahčat oskuguoimmát ? Mii han galgat buohkat Ipmila duopmostuolu ovdii ,
+46001020a	gos		Gos dál lea viissis , 
+46001020b	mii		ja mii lea Bávlos ? Soai leaba dušše bálvaleaddjit geat veahkeheigga din oskut , goappašagat dan doaimmas man Hearrá attii sutnje .
+46001020b	~		čálaoahppavaš 
+46001020c	~		ja dálá máilmmi viissástalli ? Ii go Ipmil leat dahkan dán máilmmi viisodaga jallodahkan ?
+46002011	Gii		Gii earáid go olbmo iežas vuoigŋa diehtá mii lea olbmo siste ? Seammá láhkái dušše Ipmila Vuoigŋa diehtá mii lea Ipmila siste .
+46002016a	gii		Dasgo : Gii dovdá Hearrá miela nu ahte sáhtášii rávvet su ? Muhto mis lea Kristusa miella .
+46002016b	~		
+46003005a	mii		Mii lea dasto Apollos , 
+46004007a	gii		Gii bidjá du earáid ovddabeallái ? 
+46004007b	mii		Mii dus lea maid don it leat ožžon attáldahkan ? 
+46004007c	manne		Ja jos leat ožžon dan , manne dalle rábmot dego ii livčče attáldat ?
+46004021	Goappá		Goappá dii hálidehpet , ahte mun boađán din lusa rissiin dahje ráhkisvuođain ja láđisvuođain ?
+46005002	~		Ja das vel čeavlástallabehtet ! Dii galggašeiddet baicca moraštit ja ádjit eret su gii lea dahkan dákkáriid .
+46005012	Mii		Mii vuoigatvuođaid mus lea dubmet sin geat leat olggobealde ? Ieža han dii ge dubmebehtet sin geat gullet din searvái .
+46006001	mo		Go muhtumis dis lea riidoášši oskuguimmiin , mo son jolggada bidjat dan báhkinlaš duopmáriid ovdii ii ge bassi olbmuid ovdii ?
+46006003	Manne		Ehpet go dieđe ahte mii šaddat dubmet eŋgeliid ? Manne dalle eat sáhtáše dubmet dán eallima áššiid .
+46006004	manne		Muhto jos dis leat dakkár áššit , manne de bidjabehtet daid dakkár olbmuid ovdii guđet eai adnojuvvo árvvus searvegottis ?
+46006007a	manne		Didjiide lea heahpadin ahte dis leat diggeáššit gaskaneattet . Manne dii ehpet baicca gillá vearrivuođa ? 
+46006007b	manne		Manne ehpet baicca divtte iežadet vuoittahallat ?
+46006009	~		Ehpet go dieđe ahte vearredahkkit eai árbe Ipmila riikka ? Allet čádjádala ! Ipmila riikka eai árbe furrošeaddjit , eahpeipmiliid bálvaleaddjit , náittosdilirihkkut , eai olbmát geat diktet eará olbmáid anašit iežaideasetguin , eai ge olbmát geat nuskošit olbmáiguin ,
+46006016	~		Dahje ehpet go dieđe ahte dat gii ovttastuvvá fuoráin , šaddá oktan rumašin suinna ? Lea celkojuvvon : « Soai šaddaba oktan oažžin . »
+46006019	~		Ehpet go dieđe ahte din rumaš lea Bassi Vuoiŋŋa tempel ? Vuoigŋa ássá din siste , ja dii lehpet ožžon su Ipmilis . Dii ehpet gula šat alcceseattet ,
+46007016a	mas		Áhkká , mas dieđát sáhtežat go beastit boatnját ? 
+46007016b	mas		Ja boadnjá , mas dieđát sáhtežat go beastit áhkát ?
+46009007a	gii		Gii ba iežas bálkáha soalddáhin ? 
+46009007b	~		Ii go viidnegárddi gilvi beasa borrat dan šattu ? 
+46009007c	~		Ii go geahčči oaččo mielkki ealus ?
+46009018	Mii		Mii lea dalle mu bálká ? Dat ahte mun sárdnidan evangeliuma bálkká haga in ge ane ávkki dan vuoigatvuođas man evangelium attášii munnje .
+46010019a	maid		Maid mun oaivvildan dáinna ? 
+46010019b	~		Oaivvildan go ahte eahpeipmiloaffar livččii mihkkege , 
+46010019c	~		dahje ahte eahpeipmil livččii mihkkege ?
+46010029	Manne		Mun in oaivvil du oamedovddu , muhto nuppi olbmo oamedovddu ! De muhtun jearrá : Manne divttášin eará olbmo oamedovddu dubmet friddjavuohtan ?
+46010030	manne		Jos mun giittán Ipmila go boran , manne mun dalle láitojuvvon das man ovddas mun giittán Ipmila ?
+46011022	Maid		Ehpet go dii sáhte boradit ja juhkat ruovttuineattet ? Vai badjelgeahččabehtet go Ipmila searvegotti , ja heahppašuhttibehtet go sin geain ii leat mihkkege ? Maid dii hálidehpet mu cealkit dása ? Ahte mun rábmošin din ? Dán áššis mun in rábmo din !
+46012017a	~		Jos oppa rumaš livččii čalbmi , livččii go dalle gullu ? 
+46012017b	~		Jos buot livččii gullu , livččii go dalle haksin ?
+46012019	~		Jos buot livččii okta lahttu , livččii go dalle mihkkege rupmašiid ?
+46014006	mii		Oskuguoimmit , mii ávkkiid livččii didjiide jos mun boađášin din lusa ja sártnošin gielaiguin , in ge attáše didjiide almmustusa , dieđu , profetiija dahje oahpaheami ?
+46014007	mo		Seammá láhkái lea jápma čuojanasaiguin , nugo njurggonasain ja hárppain . Jos nuohtain ii livčče erohus , mo dalle sáhtášii gullat dan mii čuojahuvvo ?
+46014008	gii		Ja jos soahtedorvves boahtá eahpečielga jietna , gii dalle ráhkkanišgoađášii soahtái ?
+46014009	mo		Nu lea dinguin ge : Jos ehpet sártno čielga giela , mo dalle sáhttá áddet dan mii daddjojuvvo ? Dalle han sárdnubehtet aivve duššás !
+46014015	Maid		Maid dát mearkkaša ? Mun hálidan rohkadallat vuoiŋŋainan , muhto maiddái jirpmiinan ; mun dáhtun lávlut ávvulávlagiid vuoiŋŋainan , muhto maiddái jirpmiinan .
+46014016	mo		Jos don rámidat Ipmila dušše vuoiŋŋastat , mo de sáhttá olggobealeolmmoš gii lea dás , dadjat « Amen » du giittusrohkosii jos ii ádde dan maid don dajat ?
+46014026	maid		Oskuguoimmit , maid nappo dát mearkkaša ? Go dii čoagganehpet , de juohkehaččas lea juoga maid addit : sálbma , oahppu , almmustus , gielaiguin sárdnun ja dulkon . Šaddos buot nu ahte dat nanosmahttá .
+46014036	~		Lea go ba Ipmila sátni vuolgán dis , dahje lea go dat ollen dušše din lusa ?
+46015012	mo		Muhto jos dál sárdniduvvo ahte Kristus lea bajásčuožžilan jábmiid luhtte , mo dalle sáhttet muhtumat dis cealkit ahte ii leat mihkkege bajásčuožžilemiid jábmiid luhtte ?
+46015029a	~		
+46015029b	manne		Manne muhtumat gásttašahttet iežaset jábmiid bealis ? 
+46015029c	manne		Jos jábmit eai oppanassiige bajásčuožžil , manne sii dasto gásttašahttet iežaset sin bealis ?
+46015030a	~		
+46015030b	manne		Ja manne mii gis diktit iežamet áitojuvvot juohke diimmu ?
+46015032	mii		Jos mun dušše olmmošlaš doaivagiin livččen dorron spiriiguin Efesosas , mii ávkkiid das livččii munnje ? Jos jábmit eai bajásčuožžil , de gul « boradehkot ja juhkot , dasgo ihttin mii jápmit » .
+46015035a	mo		Muhto muhtun dáidá jearrat : « Mo jábmit bajásčuožžilit ; 
+46015035b	makkár		makkár rumaš sis dalle lea ? »
+46015055a	gos		Jápmin , gos lea du seahčagas ? 
+46015055b	gos		Jápmin , gos lea du vuoitu ?
+47002002	gii		Dasgo jos mun buvttán didjiide morraša , gii dalle illudahtášii mu earet go dat gean mun lean dagahan morrašii ?
+47002016	Gii		sidjiide geat mannet gáđohussii , mii leat jápminhádja mii doalvu jápmimii , muhto sidjiide geat bestojuvvojit , mii leat eallinhádja mii doalvu eallimii . Gii sáhttá dán dahkat ?
+47003008	Man		Man ollu eanet hearvásvuohta lea ge Vuoiŋŋa bálvalusas !
+47003009	man ollu		Jos duođaid dubmehusa bálvalusas lei nu ollu hearvásvuohta , man ollu eanet hearvásvuohta de fertešii leat vanhurskkisvuođa bálvalusas ?
+47006014a	mii		Allet mana eahpeoskkolaččaiguin ovttaide áissáide ! Dasgo mii dahkamušaid lea vanhurskkisvuođas lágahisvuođain , 
+47006014b	mii		ja mii servvolašvuođaid lea čuovgasis seavdnjadasain ?
+47006015a	mo		Mo ba Kristus ja Beliar sáhttiba leat ovtta oaivilis ? 
+47006015b	mii		Mii ovttastahttá oskkolačča eahpeoskkolaččain ?
+47006016	Mo		Mo Ipmila tempel ja eahpeipmilat sáhttet soabadit ? Dasgo mii leat ealli Ipmila tempel , nugo Ipmil lea cealkán : Mun áiggun ássat ja vádjolit sin gaskkas ; mun dáhtun leat sin Ipmil , ja sii leat mu álbmot .
+47011011	Manne		Manne ? Mahká danne go in ráhkis din ? Ipmil diehtá ahte mun ráhkistan din .
+47011029a	~		Jos oktage jorrala , de dat čuohcá munnje ge . 
+47011029b	~		Jos oktage vearránahttojuvvo , de mun buolán siskkáldasan .
+47012013	Man		Man láhkái dii leiddet heajubut go eará searvegottit , earet go dan ahte in leat leamaš dis noađđin ? Addet munnje ándagassii dan vearrivuođa !
+47012017	~		Lean go mun ávkkástallan dinguin ovttage olbmo bokte gean mun lean vuolggahan din lusa ?
+48002014	mo		Muhto go oidnen ahte sin dagut eai lean evangeliuma duohtavuođa mielde , de celken Kefasii buohkaid gullut : « Go don gii leat juvddálaš , ealát báhkinlaš it ge juvddálaš vieru mielde , mo de sáhtát bágget báhkiniid eallit juvddálaš vieru mielde ? »
+48003001	Gii		Jierpmehis galatialaččat ! Gii lea fillen din ? Russiinávlejuvvon Jesus Kristus han lea čielgasit govviduvvon din čalmmiid ovdii !
+48003019	Manne		Manne de láhka addojuvvui ? Dat addojuvvui čájehit mii rihkkun lea , dassá go boađášii dat nálli mii lei ožžon lohpádusa . Láhka addojuvvui eŋgeliid ja gaskaolbmá bokte .
+48004009a	mo		Muhto dál go lehpet dovddiidan Ipmila , ja erenoamážit go Ipmil dovdá din , mo de sáhttibehtet fas máhccat dán máilmmi heajos ja geahnohis álgofámuide ? 
+48004009b	~		Hálidehpet go fas šaddat daid šlávvan ?
+48004010	~		Dii váldibehtet vuhtii erenoamáš beivviid , mánuid , áiggiid ja jagiid .
+48004015	gosa		Gosa lea dál šaddan din stuora illu ? Mun sáhtán duođaštit ahte dii livččiidet dalle áinnas roggan alddádet čalmmiid ja addán munnje , jos dat livččii lean vejolaš .
+48004021	~		Celket munnje , dii geat hálidehpet leat lága vuložin , ehpet go guldal lága ?
+48004030	maid		Muhto maid čála cealká ? Áje eret šlávvanissona ja su bártni ! Dasgo šlávvanissona bárdni ii eisege oaččo juogadit árbbi friddja nissona bártniin .
+48005007a	gii		Dii vádjolišgođiidet nu bures . Gii hehttii din čuovvumis duohtavuođa ?
+48005007b	~		
+48005011	manne		Oskuguoimmit , jos leažžá nu ahte mun ain lean sárdnideamen birračuohpahusa , manne de doarrádallojuvvon ? Dalle han ruossa vearránus livččii váldojuvvon eret .
+49004009	~		Go celkojuvvo ahte son manai bajás , ii go dat mearkkaš ahte son vuos njiejai gitta eatnama vuolimus čiekŋalasa rádjái ?
+50001018	maid		Muhto maid dat dahká ? Kristus goittot sárdniduvvo , lehkos dal behtolašvuođain dahje duohtavuođain , ja das mun illudan .
+50001021	~		Dasgo munnje eallin lea Kristus ja jápmin lea vuoitu .
+51002020	manne		Jos dii Kristusiin lehpet jápmán eret dán máilmmi álgofámuin , manne ain eallibehtet dego gulašeiddet dán máilbmái ja doalašeiddet dan gohččumiid :
+52002019	Gii		Gii lea min doaivva , illu ja vuoitokruvdnu Hearrámet Jesusa ovddas go son boahtá , jos ehpet dii ?
+52003009	Mo		Mo mii sáhtášeimmet ge doarvái giitit Ipmila din dihtii , buot dan ilu ovddas man dii lehpet addán midjiide ja mii deavdá min Ipmila muođuid ovddas .
+54003005	mo		Jos muhtun ii veaje hovdet dálus , mo son de veajášii dikšut Ipmila searvegotti ?
+54006007a	~		Dasgo guorosgieđaid mii bođiimet máilbmái , 
+54006007b	~		ja guorosgieđaid mii guođđit dan .
+58001005	~		Dasgo Ipmil ii leat goassege cealkán guđege eŋgelii : Don leat mu bárdni , mun lean riegádahttán du odne . Ii ge son leat cealkán : Mun lean su áhčči , ja son lea mu bárdni .
+58001013	~		Lea go Ipmil goassege cealkán guđege eŋgelii : Čohkán mu olgeš gieđa beallái , dassážii go bijan du vašálaččaid du julggiid vuložin .
+58001014	~		Eai go buot eŋgelat leat bálvaleaddji vuoiŋŋat guđet leat vuolggahuvvon bálvalit daid guđet árbejit bestojumi ?
+58002003	mo		mo mii dasto sáhtášeimmet vealtat ráŋggáštusas , jos eat beroš nu stuora bestojumis , man Hearrá ieš vuosttažin sárdnidii ? Sii guđet gulle su duođaštusa nannejedje dan bestojumi duohtan midjiide ,
+58002006a	mii		Muhto muhtun lea duođaštan ná : Mii lea olmmoš , go anát su muittus , 
+58002006b	~		dahje olbmobárdni , go anát sus fuola ?
+58003016	Geat		Geat dat ledje guđet gulle , muhto almmatge stuimmáskedje ? Eai go dat lean buohkat geaid Movsses doalvvui eret Egyptas ?
+58003017	Geaidda		Geaidda lei Ipmil moaris njealljelot jagi ? Ii go daidda geat suddudedje ja geaid rupmašat dasto báhce meahccái ?
+58003018	geaidda		Ja geaidda son vuortnui ahte eai sii beasa su vuoiŋŋadussii ? Ii go dat guoskan daidda guđet ledje eahpegulolaččat ?
+58006004	~		Dasgo go olbmot oktii leat čuvgejuvvon ja muosáhan almmálaš attáldaga , šaddan oasálažžan Bassi Vuoiŋŋas ,
+58007011	manne		Jos juo Levi soga báhppavuohta , man vuođul Israela álbmogii addojuvvui láhka , livččii dolvon ollisvuhtii , manne dalle dárbbašii vel čuožžilit nubbi báhppa , gean báhppavuohta lea Melkisedeka báhppavuođa mielde ii ge Arona ?
+58009014	~		de dađe buorebut buhtista ge Kristusa varra ! Agálaš vuoiŋŋas bokte son lea oaffaruššan iežas láitemeahttun oaffarin Ipmilii ja buhtista min oamedovddu jápma daguin eret vai mii sáhtášeimmet bálvalit ealli Ipmila .
+58010001	~		Lágas lea nappo dušše boahtteáiggi buriid suoivva , ii ge daid duohta govva . Seammá oaffarat oaffaruššojuvvojit álelassii jagis jahkái , muhto láhka ii sáhte goassege dahkat ollisin sin guđet loaiddastit daiguin Ipmila muođuid ovdii .
+58010029a	man ollu		Man ollu garraset ráŋggáštusa ánssáša ge din mielas son guhte duolbmá Ipmila Bártni julggiidis vuollái ja eahpegudnejahttá lihtu vara , 
+58010029b	~		mainna son ieš lea dahkkojuvvon bassin , 
+58010029c	~		ja heahppašuhttá árpmu Vuoiŋŋa !
+58010029d	~		
+58011032	Maid		Maid ba dása vel lasihivččen ? Mus nogašii áigi , jos muitalivččen Gideona , Baraka , Samsona ja Jefta , Dávveda , Sámmola ja profehtaid birra .
+58012007	gean		Din gillámušat leat bagadussan . Ipmil meannuda dinguin nugo mánáidisguin . Sáhttá go leat dakkár mánná , gean ii áhčči bagadivčče ?
+58012009	~		Go min eatnanlaš áhčit bagadedje min , de mii aniimet sin árvvus . Eat go mii vel ollu eanebut galggaše leat vuoiŋŋalaš Áhččámet vuolibužžan , vai eallit .
+58012025	~		Váruhehket amadet hilgut su guhte sárdnu ! Jos sii eai vealtan ráŋggáštusas guđet hilgot su guhte sártnui ipmillaš sániid eatnama alde , de dađe vissáseabbot mii eat vealtta das jos jorgalit sus eret gean sánit bohtet almmis .
+58013006	Maid		Dan dihtii mii sáhttit cealkit dorvvolaš mielain : Hearrá lea mu veahkeheaddji , in mun bala . Maid olmmoš sáhtášii dahkat munnje ?
+59002006	~		Muhto dii badjelgeahččabehtet geafes olbmuid ! Eai go jur riggát soardde din ja gease din dikki ovdii ?
+59002014	mii		Oskuguimmiidan , mii ávkkiid lea jos muhtun dadjá ahte sus lea osku , jos sus eai leat dagut ? Sáhttá ba dakkár osku beastit su ?
+59002016a	~		Jos dalle muhtun dis dadjá sidjiide : « Mannet dearvan , biktalehket iežadet ja boradehket gallás » , muhto ii atte sidjiide dan maid rumaš dárbbaša , 
+59002016b	mii		mii ávkkiid das lea ?
+59002018	~		Muhtun veadjá dadjat : « Dus lea osku , mus gis dagut » . Čájet munnje dasto oskkot daguid haga , de mun gis čájehan dutnje oskon daguidanguin .
+59002021	~		Ii go min áhčči Abraham dahkkojuvvon vanhurskkisin daguidis dihtii go son vel bártnis Issáha ge bijai oaffaráltára ala ?
+59003013	Gii		Gii lea din gaskkas viissis ja jierpmálaš ? Čájehehkos son daguidisguin dan vuollegašvuođa mii gullá viisodahkii .
+59003017	~		Muhto dat viisodat mii boahtá badjin , lea ovddimustá buhtis , dasto ráfálaš , láđis ja guoibmái , dan dievva lea váibmoláđisvuohta ja buorit šattut , dat lea bealátkeahttá ja duođalaš .
+59004001a	mas		Mas boahtá buot soahti 
+59004001b	~		ja riidu din gaskkas ? Ii go dat boađe himuin mat sohtet din lahtuin ?
+59004012	gii		Lea dušše okta láhkaaddi ja duopmár , son geas lea fápmu sihke beastit ja duššadit . Muhto mii don leat , gii dubmet lagamuččat ?
+59004014	mii		Ehpet han dii dieđe makkár din eallin leažžá ihttin ! Dii han lehpet dušše suovva mii oidno oanehis áiggi ja de jávká .
+60002020	~		Lea go mihkkege rámiid ahte dii gierdabehtet ráŋggáštusa go lehpet dahkan veriid ? Muhto jos dii gierdabehtet gillámušaid go lehpet dahkan dan mii lea riekta , de oažžubehtet Ipmila árpmu .
+60003013	Gii		Gii sáhttá vahágahttit din , jos dii áŋgiruššabehtet dan mii lea buorre ?
+60004017	mo		Dasgo dál lea áigi boahtán go duopmu álggahuvvo , ja dat álggahuvvo Ipmila viesus . Muhto jos dat álggahuvvo min luhtte , mo lea dalle sin loahppa geat eai jeagat Ipmila evangeliuma ?
+60004018	mo		Ja jos vanhurskkis olmmoš illá bestojuvvo , mo de geavvá ipmilmeahttumii ja suttolažžii ?
+61003004	~		ja dadjet : « Lea go son mahkáš máhccan , nugo lohpidii ? Dasgo min máddarat leat jápmán , ja buot han lea nugo lea leamaš sivdnideami rájes . »
+61003011	man		Go buot dál duššá , man bassi ja ipmilbalolaš berrešii ge dalle din eallin leat ,
+62002022	Gii		Gii livččii gielisteaddji earet su guhte biehttala ahte Jesus lea Kristus ? Son lea Antikristus , son guhte biehttala Áhči ja Bártni .
+62003012	manne		Mii eat galgga leat Kain láhkásaččat , guhte bođii bahákasas ja sorbmii vieljas . Ja manne son sorbmii vieljas ? Danne go su iežas dagut ledje bahát , muhto su vielja dagut ledje vuoigatlaččat .
+62003017	mo		Jos geasge lea buot maid son dárbbaša dán máilmmis , ja oaidná oskuguoimmi gillámin , muhto dahppá váimmus sutnje , mo Ipmila ráhkisvuohta sáhttá bissut su siste ?
+62004020	~		Jos guhtege dajaš ahte son ráhkista Ipmila , muhto dattege vašuha oskuguoimmis , de son lea gielis . Dasgo son guhte ii ráhkis oskuguoimmis gean lea oaidnán , ii sáhte ráhkistit Ipmila gean ii leat oaidnán .
+62005005	Gii		Gii eará vuoitá máilmmi go dat guhte osku ahte Jesus lea Ipmila Bárdni ?
+66005002	Gii		Ja mun oidnen fámolaš eŋgela gii čuorvvui alla jienain : « Gii lea dohkálaš rahpat girjegearu ja doadjit dan seaillaid ? »
+66006010a	man guhká		Sii čurvo alla jienain : « Man guhká áiggut vuordit , 
+66006010b	~		bassi ja duođalaš ráđđejeaddji , ovdal go dubmet ja mávssahat min vara eatnama ássiide ? »
+66006017	gii		Dasgo sudno moari stuora beaivi lea boahtán , ja gii dalle sáhttá bissut ? »
+66007013a	geat		De muhtun vuorrasiin jearai mus : « Geat leat dát vilgesbivttasolbmot , 
+66007013b	gos		ja gos sii bohtet ? »
+66013004a	gii		Olbmot gopmirdedje guovddi danne go lei addán behtui fámu , ja sii gopmirdedje beađu ge ja dadje : « Gii lea beađu láhkásaš , 
+66013004b	gii		ja gii sáhttá soahtat dan vuostái ? »
+66015004a	guhte		Guhte ii galggaše ballat dus , Hearrá , 
+66015004b	~		ja gudnejahttit du nama ? Dasgo aivvefal don leat bassi . Buot álbmogat bohtet gopmirdit du du muođuid ovddas , dasgo du vanhurskkis duomut leat almmustuvvan .
+66017007	Manne		Muhto eŋgel celkkii munnje : « Manne don imaštalat ? Mun muitalan dutnje nissona ja beađu čiegusvuođa , dan mii lea guoddimin su , ja mas leat čieža oaivvi ja logi čoarvvi .
+66018018	gos		ja čurvo go oidne suova badjáneamen go son bulii : « Gos lea dán stuora gávpoga veardásaš ? »

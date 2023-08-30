@@ -1,0 +1,743 @@
+40002002	tɛ́lá		vu̵ vi : « Gbanaa nán Yúúda voo ku̵u̵ ha̧a̧wo̧ máa dɨ tɛ́lá ? Vɔ́ ho̧ zoo waa woo ka' mam na'alȩ́ , máa vɔ́ yaa bi na"o̧ ó̧ . »
+40002004	tɛ́lá		Gbanaa bee gbanaa hȩn ha"ı̵́ vu̵ kan nán moo Tayɨɨ tú"í hág woolı̵́ vu̵ 'waapád , vi yee ba vu̵n ha̧a̧ ı̵́ nán sənné máa tɛ́lá ?
+40003007	nóo		A̧máa Yoohá̧na ho̧ nán farísa vu̵ kan nán sadukée vu̵ yaa woolı̵́ ɓu̵u̵lı̵́ na'a , moo a woo bi mam Tayɨɨ á̧ḿ . Yoohá̧na o̧d vu̵ : « Ɨ́ víí , ı̵́ kɛb , du̵kə́ŋ́ waa vu̵ , nóo o̧d ví i kɛ ɗug sə́d hȩn si̧'i̧ní Tayɨɨ woo ka dɨ yaalı̵́ yȩlȩ́lá ?
+40005013	nɛ́nná		« Víi mbaa hágá yɛlı̵́ kɔ́ ı̵́ ta̧m zú̵g wɔgɔ . A̧máa ta̧m zú̵g ka san sı̵́ né tée , ba duu kɔ́gɔ nɛ́nná ? Duu maan sı̵́ hȩn tóó kɔ́lı̵́ né , ba yɛddu̵ yɛnnée , nán vú̵ń 'ná'awu̵ kan dooɨ .
+40005046	ȩná		I hí̧í̧ séý nán ı̵́ ku̵u̵ hí̧í̧ ví máa vu̵ yu̵ dágá tée , víń nuŋ hȩn sú̵ú̵lı̵́ woo ȩná ? Nán ndu̵n vu̵ kɔ́n ı̵́ yo̧go̧ á̧ḿ náa ?
+40005047	née		I vá' séý nán víí vu̵ yu̵ tée , dəŋ née víń mba nán tóó vu̵lá ? Nán gaa Tayɨɨ sá vu̵ kɔ́n ı̵́ yo̧go̧ á̧ḿ náa ?
+40006027	Nóo		Nóo víílí sa̧a̧mé , dam gbɔ́lı̵́ woo ka há"u̵ nɔm waaná' agalá ?
+40006028	Moo ȩn		Moo ȩn ví tó̧' zó̧ó̧ moo sa̧a̧m vu̵lı̵́lá ? I ho̧ yəəyə́əné vu̵ hó̧gó̧ . Vu̵ kɔ́n ba'ad né , vu̵ paan sugud né . Kóó ı̵́ yo̧go̧ si̧' , vu̵ dɨ na"ȩ́ , vu̵ ko̧' á̧ḿ .
+40006031a	ȩná		I gbɔ́ dam : ‹ Vɔ́ń lá ȩná ? › , 
+40006031b	ȩná		‹ Vɔ́ń zɔ ȩná ? › , 
+40006031c	ȩná		‹ Vɔ́ń dɔ́ń sa̧a̧m kan ȩná ? › sá .
+40007003	Moo ȩn		Moo ȩn mɔ́ ho̧ hó̧d waa nɔ́ɔ́ dam tóó woolı̵́ , a̧máa mɔ́ ho̧n la' gbo̧o̧ ka dɨ nɔ́ɔ́ móólȩ́ yȩ nélá ?
+40007004	née		Dəŋ née mɔ́ o̧d dam tóó : ‹ A̧m yaa mí ɓɛ hó̧d waa móólȩ́ nɔ́lȩ́ › lá ? Mɔ́ ho̧n la' gbo̧o̧ ka dɨ nɔ́ɔ́ móólȩ́ yȩ náa ?
+40007009	nóo		Nán woo nóo sa̧a̧m víílí , waa ka ɓá"u̵ nan tée , ka pú̵gu̵ 'yɛgɛlá ?
+40007016a	~		Víń gaa vu̵ kan ba'ad yȩ́ń voo nɔ . Vu̵ to̧'o̧n kaɓɔg ŋgagamé né náa ? 
+40007016b	~		Vu̵ to̧'o̧n bo' gaŋhu̵u̵lı̵́ né náa ?
+40008026	Moo ȩn		Yesu o̧d vu̵ : « Moo ȩn ví kɔ́ dú̵ú̵lá ? Nán moo fȩȩlȩ́ waaná' yɛ víw . » Yesu níḿ dɔg sée hȩn , sápéém kan mam vu̵ gə́d mbaa simmm .
+40008027	nóo		Nán pee vu̵ mbaa ɗii , vu̵ o̧ : « Nán woo nóo yɛlá ! Sápéém kan mam ku̵u̵ kiddu̵ tɔ́g á̧ḿ yɛlá ! »
+40008029	ȩn		Vu̵ moo dɔg moo yúba , vu̵ o̧d Yesu : « Waa Tayɨɨ woo , mɔ́ hí̧í̧ ȩn kan vɔ́lá ? Mɔ́ bi ya dəŋ si̧'i̧d vɔ́ pȩ́ńnáa ? Sey ka ya̧n ná né máalá̧ ! »
+40009004	Moo ȩn		A̧máa Yesu ka gaa moo taalı̵́ voo máa , vi vu̵ : « Moo ȩn ví taa moo ɓı̵́d ı̵́ yo̧go̧ zó̧ó̧ víílílá ?
+40009005	ȩn		Kaa o̧d nán : ‹ Hȩn ɓı̵́d móó vu̵ kéé gboy sú̵'ú̵ , › tóó tée , kaa o̧ : ‹ A̧m lúú yúba , mɔ́ 'yȩmma ó̧ › tée , ȩn təə mbalá ?
+40009011	Moo ȩn		Nán farísa ku̵u̵ ho̧ hȩn yȩ máa , vu̵ vi waa duulí Yesu woo vu̵ : « Moo ȩn akaw víí ka sú̵g lá hȩn kan nán lámba su̵ggı̵́ vu̵ kan nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ dágálá ? »
+40009014	Moo ȩn		A̧máa waa duulí Yoohá̧na ı̵́ mam Tayɨɨ wooné woo vu̵ yaa Yesu woolı̵́ , vu̵ vigi : « Moo ȩn vɔ́ kȩȩ vóó hȩn lálı̵́ kan nán farísa vu̵ , a̧máa waa duulí móó vu̵ kȩȩn voo nélá ? »
+40009015	~		Yesu hí̧i̧d vu̵ o̧ : « Nán ku̵u̵ bee vu̵ hȩn lálı̵́ lig pú̵lı̵́lı̵́ máa , vu̵ vi̧i̧ zó̧ó̧ sey ı̵́ kȩ́ȩ́ aga ka dɨ lá kan vu̵ áa ? A̧máa zá̧ga̧ tóó wú̵ń yaa dɨlı̵́ , vú̵ń luu ı̵́ kȩ́ȩ́ aga voolı̵́ sa̧a̧mé , tée vú̵ń kȩȩ hȩn lálı̵́ wu̵lı̵́ .
+40010025	~		Waa zaŋde tóó a kɔ́ hȩn akaw woo ka kɔ́ má nɔ tée , 'wáa yȩ . Gba'a tóó a kɔ́ hȩn ı̵́ buulí woo ka kɔ́ má nɔ tée , maa sú̵'ú̵ . Tow u̵u̵ bee baa lig víí Belzabúl tée , vú̵ń been víw mban naa ? »
+40011007	ȩn		A̧máa sey waa duulí Yoohá̧na woo ku̵u̵ lúú laa máa , Yesu bé'ed dúú vu̵ moo moolȩ́ yúú Yoohá̧na woolı̵́ , o̧ : « Ví vúd laa ȩn ho̧lȩ́ hó̧g tíŋ́ŋá ? Dȩ' sápéém ka dɨ namné yȩ naa ? Pɛ́lı̵́ sá̧ḿ .
+40011008	ȩn		Ví vúd laa ȩn ho̧lȩ́lá ? Ví la ho̧ nán ka dɔ́ sa̧a̧m du̵u̵ na'a yȩ naa ? A̧máa nán ku̵u̵ dɔ́ sa̧a̧m du̵u̵ vu̵ máa , vu̵ dɨ kíi gbanii voolı̵́ . A̧máa ví vúd laa ȩn ho̧lȩ́lá ? Anábiaa ?
+40011009	~		Ee , a̧máa mí o̧d ví , Yoohá̧na wu̵ mba anábi .
+40011016	nɔ́nná		Yesu duu o̧ : « Míń gú̵gú̵n nán ɓəə yɛ vu̵ kan nɔ́nná ? Vu̵ man kan náásá̧ŋ́ waa ku̵u̵ mbaa saalı̵́ máa vu̵ yu̵ . Vu̵ béén ,
+40012011	Nóo		Yesu hí̧i̧d vu̵ , o̧ : « Nóo víílí sa̧a̧mé ka dɨ kan mbee woo dágá , ka wá̧á̧ dəə gbo̧o̧lȩ́ tée , ka ma' woo vunnɔ zá̧ga̧ asawəlı̵́ nélá ?
+40012026	née		Tow Seeɗán a nɛŋ Seeɗánne tée , hı̵́'ı̵́n sı̵́ kan fó̧ó̧ woo ú̵ , gbaŋ waalı̵́ woo wú̵ń dəŋ née diilá ?
+40012027	nóo woolá		Ɨ́ míí , a̧n nɛŋ yigid ɓı̵́d vu̵ kan néélȩ́ Belzabúl woo nɔ tée , waa duulí víí vu̵ nɛŋ voo kan néélȩ́ nóo woolá ? Moo woo nɔ , aga vú̵ń o̧ moo víí ba kə̧ə̧ ó̧ .
+40012029	née		Dəŋ née nán tóó ka dɔ́ kíi nán néélȩ́ tóó woolı̵́ ka vbiddu̵ hȩn naa woolá ? Wú̵ń dəŋ ma"o̧ ta pȩ́ń , wú̵ń vbid hȩn naa woo 'waapád kíi woolı̵́ .
+40012034	née		Ɨ́ víí , ı̵́ kɛb , du̵kə́ŋ́ waa vu̵ , dəŋ née víń moo moo du̵u̵ vu̵lá ? Nán hȩn ɓı̵́d kɔ́lı̵́ yɛ víw , moo hȩn ka hi̧' zó̧ó̧lȩ́ máa , ya̧g o̧ wu̵ yu̵ .
+40012048a	nóo		A̧máa Yesu hí̧i̧d nán ba o̧ddu̵ moo pee : « Nóo na' míílá̧ ? 
+40012048b	nóo		Dan sá̧ŋ́ wu̵ nóo vu̵lá ? »
+40013010	Moo ȩn		Waa duulí Yesu woo vu̵ séé ya , vu̵ vigi : « Moo ȩn mɔ́ o̧d dúú vu̵ moo kan ya̧g zílílá ? »
+40013027	tɛ́lá		Nán ba'ad baa pee woo vu̵ ya vigi : ‹ Ba'á , ká ví ban tú̵d hó̧d du̵u̵ wu̵ bab víílí náa ? Hó̧d ɓı̵́d yɛ vu̵ vúd tɛ́lá ? ›
+40013054a	tɛ́lá		Daa laa kaa ha̧a̧lȩ́ woolı̵́ , tú' moo lig sú̵ggı̵́ nán Yúúda voolı̵́ . Nán ku̵u̵ ki moo tú"í woo máa , kɔ́ vu̵ la ɓá' , vu̵ o̧ : « Nuŋ hȩn gaalı̵́ yȩ kan néélȩ́ hȩn sa̧ga̧ kɔ́lı̵́ yȩ vu̵ tɛ́lá ?
+40013054b	~		
+40013056	tɛ́lá		Daa kȩ́ȩ́ vu̵u̵ sa̧a̧m baa vílí 'waapád yɛ nɔ náa ? Nuŋ hȩn 'waapád yȩ vu̵ tɛ́lá ? »
+40014031	Moo ȩn		Yesu yo̧o̧ nag ma"o̧ vaŋná , o̧ddu̵ : « Nán moo fȩȩlȩ́ waaná' , moo ȩn mɔ́ 'yɛ́ zó̧ó̧ i'idúlá ? »
+40015002	Moo ȩn		« Moo ȩn waa duulí móó vu̵ duun hȩn dikab a ba ví yée voo vu̵ nélá ? Moo ȩn vu̵ nɛ'ɛn nag né , vu̵ lá hȩnná ? »
+40015003	Moo ȩn		Yesu hí̧i̧d vu̵ , o̧ : « Ɨ́ víí máalá̧ ? Moo ȩn ví duu hȩn dikab víí vu̵ , ví duun dooká Tayɨɨ woo nélá ?
+40015033	téé		Waa duulí woo vu̵ hí̧i̧du̵ : « Báń nuŋ ví hȩn lálı̵́ téé hó̧g tíŋ́ yɛlı̵́ wú̵ń maa dúú yɛ vu̵lá ? »
+40015034	nɛ́nná		Yesu vi vu̵ : « Ví dɨ kan beréd kígi nɛ́nná ? » Vu̵ hí̧i̧du̵ : « Dɨ kígi gúndɛm kan ze' waa tóó vu̵ . »
+40016008	Moo ȩn		Yesu ka ki máa , o̧ : « Nán moo fȩȩlȩ́ waaná' vu̵ , moo ȩn ví fan moo víílí sa̧a̧mé , ví o̧ : ‹ Moo kaa 'yɛ́n ví beréd né yɛ nɔ › lá ?
+40016009	nɛ́nná		Ví kin ná moo né yeý ? Ví duu taan beréd kígi nɔ́nɔ́ nán uzinɛɛre nɔ́nɔ́ ku̵u̵ lá máa náa ? Ku̵u̵ lá , ku̵u̵ ha̧' máa , ví duu su̵g kéélı̵́ woo dɨ ɓaa nɛ́nná ?
+40016010a	~		Kan beréd kígi gúndɛm nán uzinɛɛre ndaddú̵ ku̵u̵ lá máa , 
+40016010b	nɛ́nná		ví duu su̵g kéélı̵́ woo dɨ ɓaa gbo̧o̧ nɛ́nná ?
+40016011	Moo ȩn		Moo ȩn ví taa ba mín o̧d bi moo beréddɨlá ? A̧máa i gág kan moo tú"í nán farísa voo kan nán sadukée voo ú̵ , moo moo tú"í voo man kan wággɨ . »
+40016013	nɔ́nná		Yesu ka ya̧ hág Sezarée ı̵́ Filíb woolı̵́ máa , vi waa duulí woo vu̵ : « Yee nán vu̵ o̧ ba mín nɔ́nná ? »
+40016015a	~		Ma Yesu duu vi vu̵ : « Ví o̧ 
+40016015b	nɛ́nná		víí nɛ́nná ? »
+40016026a	ȩn		Nán tóó a nuŋ hȩn góó 'waapád pȩ́ń , a tid vágád woo tée , ȩn wú̵ń yagadu̵lá ? 
+40016026b	ȩná		Tóó tée nán vu̵ píń vágád kan ȩná ?
+40017010	Moo ȩn		Pig woo máa , waa duulí woo vu̵ vigi : « Moo ȩn nán moo Tayɨɨ tú"í vu̵ o̧ Elía ban yaa pȩ́ńná ? »
+40017017a	nɛ́nná		Yesu hí̧i̧du̵ o̧ : « Nán moo faalı̵́ kan hȩn kə̧ə̧g kɔ́lı̵́ yɛ ví , míń ma' zó̧ó̧ mbaa kan ví nɛ́nná ? I pa̧n waa yȩ ya yɛlı̵́ . »
+40017017b	~		
+40017019	Moo ȩn		Waa duulí Yesu woo vu̵ séé ya woolı̵́ vu̵ mɛ́ń , vu̵ vigi : « Moo ȩn ba vɔ́n nɛŋ vóó yigid ɓı̵́d yȩ mban nélá ? »
+40017025a	nɛ́nná		Piɛ́r hí̧i̧d vu̵ : « Ee , wú̵ń sú̵ú̵ ú̵ . » Piɛ́r ka dɔ́ ligí máa , Yesu dəŋ ka moo vigi : « Mɔ́ taa móó nɛ́nná , Simɔ́ŋ ? 
+40017025b	nóo		Ŋgó̧ḿna vu̵ ɓɛ lámba , kóó hȩn hág nóo voolı̵́lá ? Waa hág vooláa ? Tóó tée gáá vooláa ? »
+40018001	Nóo		Sey woo , waa duulí Yesu woo vu̵ séé ya woolı̵́ , vu̵ vigi : « Nóo mba daga vu̵ na"ȩ́ gbaŋ waalı̵́ Tayɨɨ woolı̵́lá ? »
+40018012	nɛ́nná		Ví taa víí nɛ́nná ? Nán tóó ka dɨ kan mbee tȩmɛre , dágá ka ti tée , wú̵ń kéé ı̵́ vo' kɛ́gdágá zu̵u̵ kɛ́gdágá vu̵ gbɔ gu̵u̵lı̵́ , wú̵ń la soo ı̵́ ka ti yȩ nɔ . Ɨ́ yo̧go̧ pɛ́láa ?
+40018021	nɛ́nná		Piɛ́r séé ya Yesu woolı̵́ vigi : « Ba'á , dan tóó a kɔ́n hȩn ɓı̵́d tée , a̧n kéé moo woo gbɔ do' nɛ́nná ? Há̧á̧ do' gúndɛmaa ? »
+40019007	Moo ȩn		Vu̵ duu vigi : « Tow a dɨ ı̵́ yo̧go̧ tée , moo ȩn Múúsa ká o̧ : ‹ Nán ka bi hı̵́'ı̵́n kan kȩ́ȩ́ȩ tée , a pa̧ŋŋɔ kan sa̧a̧m laan ba' woo woolı̵́ › lá ? »
+40019016	ȩn		Nán tóó yaa Yesu woolı̵́ , vigi : « Akaw , míń kɔ́ hȩn du̵u̵ woo ȩn pȩ́ń míń nuŋ vágád ı̵́ káákáálá ? »
+40019017	Moo ȩn		Yesu hí̧i̧du̵ : « Moo ȩn mɔ́ vin moo yúú hȩn du̵u̵ kɔ́lı̵́lı̵́lá ? Ɨ́ hȩn du̵u̵ kɔ́lı̵́ dɨ dágá 'nɛ́ŋ́ . Tow a̧m hí̧í̧ bi dɔ́ ya vágádı̵́ tée , a̧m duu dooká Tayɨɨ woo vu̵ yu̵ . »
+40019018	téé		Nán pee hí̧i̧du̵ : « Moo ı̵́ téé vu̵lá ? » Yesu duu hí̧i̧du̵ : « A̧m nɔɔ nɔm sá . A̧m kɔ́ ɓáa sá . A̧m kɔ́ líw sá . A̧m gəd dam vu̵ moo sá .
+40019020	ȩn		Náásaa pee duu hí̧i̧d Yesu : « Mí duu hȩn yȩ vu̵ 'waapád sú̵'ú̵ . Ȩn duu kéé míílí̧lá ? »
+40019025	nóo		Sey waa duulí woo ku̵u̵ ki moo yȩ máa , kɔ́ vu̵ la ɓá' , vu̵ vi : « A ı̵́ yo̧go̧ tée , nóo wú̵ń sə́ddá ? »
+40019027	ȩná		Piɛ́r ka moo o̧ddu̵ : « Ɨ́ vóó , vɔ́ gbɔ hȩn 'waapád vɔ́ duum sú̵'ú̵ . Yee vɔ́ń nuŋ vóó ȩná ? »
+40020006	Moo ȩn		Zamndi nɔ́nɔ́ ka ya̧ máa , duu vúd nuŋ nán tóó vu̵ dii mbaa dɨ lummí , duu o̧d vu̵ : ‹ Moo ȩn ví dii mbaa yɛlı̵́ zá̧ga̧a̧ té"á ? ›
+40020012	~		vu̵ o̧ : ‹ Nán ı̵́ yȩ vu̵ yaa ná voo pigim yɛ nɔ náa ? Vu̵ kɔ́ ba'ad zamndi dágá aga nɔ , a̧máa mɔ́ sú̵ú̵ vɔ́ man kííd . Ɨ́ vóó , vɔ́ ta̧a̧ kan ba'ad zá̧ga̧ máa na'aa yɛlı̵́ zá̧ga̧a̧ máalá̧ ! ›
+40020021	nɛ́nná		Yesu vigi : « Mɔ́ o̧ nɛ́nná ? » Naa pee hí̧i̧du̵ : « Sey gbaŋ waalı̵́ móólȩ́ tée , a̧m ta ya̧g ba bíń 'yɛ́ waa míí idú yɛ vu̵ , dágá a mbaa nag nán móólȩ́ , tóó a mbaa nag kpáag móólȩ́ . »
+40020032	ȩná		Yesu dii , bee vu̵ , vi vu̵ : « Ví hí̧í̧ a̧n kɔ́d bi ȩná ? »
+40021010	nɔ́nná		Sey Yesu ka dɔ́ Yerúsalemmé máa , kaa nam 'waapád . Nán kaa vu̵ vi : « Nán yȩ nɔ́nná ? »
+40021016	~		ma vu̵ o̧d Yesu : « Mɔ́ ki moo ku̵u̵ dɨ o̧lȩ́ yȩ á̧a̧ ? » Yesu hí̧i̧d vu̵ : « Ee , mí ki ú . Ká ví záŋ́ga lá moo yȩ né kəddaa ? Moo Tayɨɨ o̧ : ‹ Mɔ́ mbɔ́g náásá̧ŋ́ waa vu̵ kan waa pə̧́ə̧d vu̵ u̵u̵ na' bi ú . › »
+40021020	née		Waa duulí woo vu̵ ho̧ , la' vu̵ kɛb . Vu̵ vi : « Dəŋ née la' zɔgɔb yɛ ka há̧á̧ 'wɔ́ vaŋná yɛlá ? »
+40021023a	ȩná		Sey Yesu ka ya̧ na'am gbo̧o̧ lig hȩn ha"ı̵́lı̵́ máa , tú'ud nán vu̵ moo . Gbanaa hȩn ha"ı̵́ vu̵ kan ı̵́ nii Yúúda vu̵ ya vigi : « Mɔ́ kɔ́ hȩn yȩ vu̵ kan néélȩ́ woo ȩná ? 
+40021023b	nóo		Mɔ́ nuŋŋɔ nóo woolı̵́lá ? »
+40021025a	Nóo		Nóo ba' Yoohá̧na a woo nánán vu̵ mam Tayɨɨɨlá ? Tayɨɨa ? Tóó tée nánán vu̵ yaa ? » A̧máa vu̵ fan moo ya voolı̵́ , vu̵ o̧ : 
+40021025b	~		« Aa hí̧í̧ ví : ‹ Tayɨɨ wu̵ ba"u̵ › tée , wú̵ń vi ba ví : 
+40021025c	Moo ȩn		‹ Moo ȩn ví fȩȩn moo Yoohá̧na woo nélá ? ›
+40021028	nɛ́nná		Yesu duu vi vu̵ : « Ví taa víí nɛ́nná ? Nán tóó ká dɨ kan waa idú , dəŋ o̧d waa dágá : ‹ Waa míí , a̧m la kɔ́ ba'ad ɓəə bab míílí̧ . ›
+40021031	nóo		Sa̧a̧m waa idú yȩ voolı̵́ máa , nóo kɔ́ hȩn hí̧í̧lí̧ ba' voo woolá ? » Vu̵ hí̧i̧du̵ : « Ɨ́ ka kɔ́ ba'ad yȩ nɔ . » Ma Yesu o̧d vu̵ : « Mí o̧d ví moo yȩ́ńne , nán ndu̵n vu̵ kan wakȩ́ȩ́ ɓáa kɔ́lı̵́ vu̵ , vú̵ńnɔ dəŋ dɔ́ ɓə́əd ví tíŋ́ ya gbaŋ waalı̵́ Tayɨɨ woolı̵́ .
+40021040	née		Sey ı̵́ bab aga a yaa tée , wú̵ń kɔ́ née kan nán bab tu̵lı̵́ yȩ vu̵lá ? »
+40022012	née		Ma vigi : ‹ Dan gboo , kɔ́ née mɔ́ dɔ́ ya yɛlı̵́ mɔ́ dɔ́n sa̧a̧m lig pú̵lı̵́ nélá ? › A̧máa nán pee kuun ya̧g né .
+40022017	~		Máa , a̧m o̧d vɔ́ hȩn káḿ taa má nɔ . Aa sú̵ú̵ ví lámba pú̵ gbanii nán Róma voo áa ? Tée du̵u̵ áa , kóó du̵u̵ náa ? »
+40022018	Moo ȩn		A̧máa Yesu ka gaa moo taalı̵́ ɓı̵́d voo máa , hí̧i̧d vu̵ : « Nán zó̧ó̧ ví̧i̧g vu̵ , moo ȩn ví zo'oná ?
+40022020a	nóo woolá		Yesu vi vu̵ : « Fóto yɛ , fóto nóo woolá ? 
+40022020b	Nóo		Nóo bíńda hȩn yɛlá ? »
+40022028	nóo woo		Ma zá̧ga̧ nímní nɔmmélȩ́ tée , sa̧a̧m nán gúndɛm yȩ voolı̵́ máa , wakȩ́ȩ́ yȩ wú̵ń mbaa kȩ́ȩ́ nóo woo dágálá ? Moo ya voo 'waapád ká vu̵ ééwu̵ sú̵'ú̵ . »
+40022036	tɛ́lá		« Akaw , dooká Tayɨɨ woo ı̵́ ka mba daga vu̵ máa , wu̵ ı̵́ tɛ́lá ? »
+40022042a	née		o̧ : « Ví taa née yúú ı̵́ nán sənné woolı̵́lá ? 
+40022042b	nóo woolá		Ag yée nóo woolá ? » Vu̵ hí̧i̧du̵ : « Ag yée Daavíd woo nɔ . »
+40022043	~		Yesu o̧d vu̵ : « Daavíd aga ká ho̧ kan yigid Tayɨɨ woo máa , beewu̵ ‹ ı̵́ 'yɛ́lı̵́ míí , › o̧ :
+40022045	née		« Daavíd ká beewu̵ ba ı̵́ 'yɛ́lı̵́ bii , ma dəŋ née ı̵́ nán sənné duu mbaa aa yéelá ? »
+40023017	ȩn		Nán ya̧ŋ , ı̵́ yə̧m vu̵ ! Ȩn mba na"ȩ́lá ? Kaŋyȩȩrȩa̧a̧ ? Kóó lig hȩn ha"áa ? A̧máa lig hȩn ha"ı̵́ wu̵ tii kaŋyȩȩrȩ hȩn gbo̧o̧ .
+40023019	ȩn		Ɨ́ yə̧m vu̵ , ȩn mba na"ȩ́lá ? Hȩn ha"áa ? Tóó tée ya hȩn ha"áa ? A̧máa ya hȩn ha"ı̵́ wu̵ tii hȩn ha"ı̵́ hȩn gbo̧o̧ .
+40023033	née		Ɨ́ víí , ı̵́ kɛb , bɨɨg vu̵ , du̵kə́ŋ́ waa vu̵ , dəŋ née víń sə́d moo sə̧"ȩ́ vee gə̧ə̧ dɔ́lı̵́lı̵́lá ?
+40024003a	ndɛnná		Yesu ka la mbaa gu̵u̵ la' kúḿmí máa , waa duulí woo vu̵ yaa woolı̵́ vu̵ mɛ́ń , vu̵ vigi : « A̧m o̧d vɔ́ ú̵ , hȩn yȩ vú̵ń ya̧ zag ndɛnná ? 
+40024003b	ȩná		Hȩn a tú' sey yaalı̵́ móó kan sey hág 'wáané máa , wu̵ ȩná ? »
+40024045	Nóo		« Nóo nán ba'ad yȩ́ń kan zó̧ó̧ diinílá ? Wu̵ ı̵́ nán baa lig woo ka 'yɛ́gɛ yúú nán woo voolı̵́ , moo a yȩ' vu̵ hȩn lálı̵́ sey hȩn lálı̵́lı̵́ má nɔ .
+40025037	téé		Tée nán ı̵́ ku̵u̵ kɔ́ hȩn hí̧í̧lí̧ Tayɨɨ woo máa , vú̵ń hí̧í̧ moo , vú̵ń o̧ : ‹ Ba'á , go̧o̧m ká ya̧m yaga téé kóó pú̵m hȩn lálı̵́lá ? Mam ká 'wɔm yaga tée kóó pú̵m mam zɔlı̵́lá ?
+40025038	téé		Ká vɔ́ ho̧m téé káḿ yaa gáá ma kóó fȩȩmá ? Tóó tée káḿ mbaa fó̧ó̧ leená , ma kóó dɔ́m sa̧a̧m ,
+40025039	tée		hȩn ká ho̧o̧m , tóó tée ká mɔ́ dɔ́ púúsina , kóó la ho̧mmá ? ›
+40025044	tée		Tée vú̵ń hí̧i̧n : ‹ Ba'á , ká vɔ́ ho̧m yaga tée go̧o̧mná , tóó tée mam ká 'wɔm , káḿ laa gáá , káḿ mbaa fó̧ó̧ leená , hȩn ká ho̧o̧m , káḿ dɔ́ púúsina pȩ́ń , kóó kɔ́n mɔ́ ba'ad nélá ? ›
+40026008	tɛ́lá		Waa duulí woo ku̵u̵ ho̧ máa , vu̵ kɔ́ zó̧ó̧ yȩ́ȩ́ , vu̵ o̧ : « Hȩn lı̵́nné ı̵́ yo̧go̧ máa , du̵u̵ dɨ tɛ́lá ?
+40026010	Moo ȩn		Yesu ka ki máa , o̧d vu̵ : « Moo ȩn ví 'máá wakȩ́ȩ́ yȩlá ? Kɔ́ ba'ad du̵u̵ yúú míílí̧ sú̵'ú̵ .
+40026015	ȩná		o̧d vu̵ : « A̧n pú̵ ví kannɔ tée , víń pú̵n míí ȩná ? » Ma vu̵ pú̵gu̵ sɨɨde 'mɛ́ŋ́ tóó vu̵ vo' ta̧a̧nɔ́ .
+40026017	tɛ́lá		Zá̧ga̧ mam vúnní 'yɛ́ wág sá ka dəŋ máa , waa duulí Yesu woo vu̵ yaa woolı̵́ , vu̵ vigi : « Mɔ́ hí̧í̧ oo la mbɔ́gɔm hȩn lálı̵́ páska ya woo tɛ́lá ? »
+40026040	~		Duu vȩ́' ya waa duulí woo voolı̵́ , vu̵ dɨ nəmme . O̧d Piɛ́r : « Ví mbaan kan nɔ́ɔ́ to̧o̧ kan mí zamndi dágá aga né sá̧ḿma ?
+40026050	~		Ma Yesu hí̧i̧du̵ : « Dan gboo , hȩn káḿ yaa kɔ́lı̵́ máa , a̧m kɔ́ sı̵́nná ! » Ma nán pee vu̵ séé la , vu̵ yo̧o̧ nag ma' Yesu .
+40026054	née		Tée hȩn ku̵u̵ bíńda debterelı̵́ máa wú̵ń dəŋ née kɔ́yyá ? Ká vu̵ o̧ hȩn yȩ ban kɔ́y pȩ́ń . »
+40026062a	~		Ɨ́ nii hȩn ha"ı̵́ lúú dii yúba vi Yesu : « Mɔ́ hí̧i̧n ya̧g né sá̧ḿmaa ? 
+40026062b	~		Nán yȩ vu̵ moo moo ȩn yúú móólȩ́ yȩlá ? »
+40026065	Moo ȩn		Ma ı̵́ nii hȩn ha"ı̵́ dee sa̧a̧m woo , tii píg , o̧ : « Nán yɛ haa Tayɨɨ ! Moo ȩn ba duu soo ví nán ya̧g du̵lı̵́ vu̵lá ? Ví ki Tayɨɨ haalı̵́ woo sú̵'ú̵ náa ?
+40026066	nɛ́nná		Ví taa víí nɛ́nná ? » Vu̵ hí̧i̧du̵ : « Maa nɔmme . »
+40026068	nóo		vu̵ vigi : « Ɨ́ nán sənné , a̧m moo moo anábiɨ , a̧m o̧d vɔ́ ú̵ , nóo ku̵u̵ dȩ́gȩmá ? »
+40027004	tɛ́lá		o̧d vu̵ : « Mí kɔ́ hȩn ɓı̵́d , mí dɔd nán ı̵́ ka kɔ́n hȩn ɓı̵́d né máa nag nánán voolı̵́ té' . » A̧máa vu̵ hí̧i̧du̵ : « Ka vɔ́ vóó tɛ́lá ? Aga moo móó nɔ . »
+40027013	~		Ma Pilád duu vigi : « Mɔ́ kin hȩn máa nán yȩ ku̵u̵ doon mɔ́ na'a yȩ náa ? »
+40027017	nóo		Pilád gaa dúú ba vu̵n dɔd Yesu biilí nagá kan sɨg moolȩ́ȩ . Moo woo nɔ ma , dúú ku̵u̵ sú̵g 'waa ya máa , Pilád vi vu̵ : « Ví hí̧í̧ a̧n vud nóo pú̵ bilá ? Barábasdaa ? Tóó tée Yesu ı̵́ ku̵u̵ beewu̵ Krístu yɛ naa ? »
+40027021	nɔ́nná		Guvɛrnə́ər duu vi vu̵ : « Sa̧a̧m nán idú yɛ , ví hí̧í̧ a̧n gbɔd bi nɔ́nná ? » Vu̵ hí̧í̧ : « Barábaddu̵ . »
+40027022	née		Pilád duu vi vu̵ : « Míń kɔ́ née kan Yesu ı̵́ ku̵u̵ beewu̵ Krístu yɛlá ? » Nán 'waapád vu̵ hí̧í̧ : « A̧m ga"u̵ la' vbagadı̵́ ! »
+40027023a	~		Duu vi vu̵ : 
+40027023b	ȩná		« Kɔ́ hȩn ɓı̵́d woo ȩná ? » A̧máa vu̵ duu moo moo dɔg yúba vu̵ o̧ : « A̧m ga"u̵ la' vbagadı̵́ ! »
+40027046	Moo ȩn		Zamndi ta̧a̧nɔ́ ya̧g mɛnné ka ya̧ sú̵'ú̵ máa , Yesu moo dɔg moo há̧á̧ yúba , o̧ : « Elíi , Elíi , lemá sabagtaní ? » ( Moo woo tú' « Tayɨɨ míí , Tayɨɨ míí , moo ȩn mɔ́ gbɔnná ? » )
+41001024	ȩná		o̧ : « Yesu nán Naazaréd , moo móó kan vɔ́ máa ȩná ? Mɔ́ yaa vɔ́ tunnáa ? Mí gaamɔ́ , mɔ́ nán gbo̧o̧ Tayɨɨ ka ba' ya má nɔ . »
+41001027	ȩná		Nán sú̵ggı̵́ ku̵u̵ ki máa , vu̵ mbaa ɗii ya voo 'waapád , há̧á̧ vu̵ víń ya voolı̵́ , vu̵ o̧ : « Hȩn ı̵́ yo̧go̧ máa , ȩná ? Moo tú"í 'maŋ tóó ı̵́ ka mba hȩn má nɔ . Nán yɛ pi̧i̧ yigid ɓı̵́d vu̵ , vu̵ kiddu̵ tɔ́g á̧ḿ . »
+41002007a	Moo ȩn		« Moo ȩn nán yȩ ka o̧ moo ı̵́ yo̧go̧lá ? Haa Tayɨɨɨ ! 
+41002007b	~		Nán tóó dɨ kan néélȩ́ kéé hȩn ɓı̵́d nán voo gbɔn né , séý Tayɨɨɨ . »
+41002008	Moo ȩn		Yesu gaa moo taalı̵́ voo zó̧ó̧ woolı̵́ vaŋná , ma vi vu̵ : « Ví taa moo ȩn ı̵́ yo̧go̧ zó̧ó̧ víílílá ?
+41002009	ȩn		Kaa o̧d nán kpee : ‹ Hȩn ɓı̵́d móó vu̵ kéé gboy sú̵'ú̵ , › tóó tée kaa o̧ : ‹ A̧m lúú yúba , mɔ́ gaŋ píg móó , mɔ́ 'yȩmma ó̧ › tée ȩn təə mbalá ?
+41002016	Moo ȩn		Nán moo Tayɨɨ tú"í tóó vu̵ du̵u̵lı̵́ á̧ḿ , vu̵ nán farísa vu̵ yu̵ . Vu̵ ho̧ Yesu lá hȩn kan nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ kan nán lámba su̵ggı̵́ vu̵ , vu̵ vi waa duulí Yesu woo vu̵ : « Moo ȩn Yesu sú̵g lá hȩn kan nán lámba su̵ggı̵́ vu̵ kan nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ dágálá ? »
+41002018	Moo ȩn		Sey tóólı̵́ máa , waa duulí Yoohá̧na ı̵́ mam Tayɨɨ wooné woo vu̵ , kan nán farísa vu̵ , vu̵ dɨ hȩn lálı̵́ kȩȩlȩ́ . Nán tóó vu̵ yaa Yesu woolı̵́ , vu̵ vigi : « Moo ȩn waa duulí Yoohá̧na woo vu̵ , kan waa duulí nán farísa voo vu̵ , vu̵ dɨ voo hȩn lálı̵́ kȩȩlȩ́ , a̧máa waa duulí ı̵́ móó , vu̵ kȩȩn voo nélá ? »
+41002019	~		Yesu hí̧i̧d vu̵ o̧ : « Nán ku̵u̵ bee vu̵ hȩn lálı̵́ lig pú̵lı̵́lı̵́ , ma ı̵́ kȩ́ȩ́ aga ka dɨ lá kan vu̵ tée , víń hí̧í̧ u̵u̵ kȩȩ hȩn lálı̵́ á̧ḿma ? Ka dɨ lá mbaalı̵́ kan vu̵ tée , vu̵ kȩȩ né sá̧ḿ .
+41002024	Moo ȩn		Nán farísa ku̵u̵ ho̧ máa , vu̵ vi Yesu : « I ho̧ sú̵m , moo ȩn vu̵ kɔ́ hȩn moo palı̵́ baa ví ku̵u̵ há' kɔ́lı̵́ zá̧ga̧ asawəlı̵́ máalá̧ ? »
+41003004	nɛ́nná		Ma Yesu vi nán vu̵ , o̧ : « Debtere Múúsa woo o̧ nɛ́nná ? Zá̧ga̧ asawə máa , zá̧ga̧ hȩn du̵u̵ kɔ́láa ? Tóó tée zá̧ga̧ hȩn ɓı̵́d wu̵ kɔ́láa ? Tóó tée , moo nán sənnáa ? Tóó tée moo nán nɔɔnáa ? » A̧máa vu̵ mbaa simná .
+41003023	née		Yesu ka ki máa , bee vu̵ , o̧d vu̵ moo kan gɛŋ : « Seeɗán dəŋ née nɛŋ fó̧ó̧ dáń woolá ?
+41003033a	Nóo		Yesu hí̧i̧d vu̵ , o̧ : « Nóo na' míí kan dan 
+41003033b	~		sá̧ŋ́ vu̵lá ? »
+41004013	née		Yesu duu o̧d waa duulí woo vu̵ : « I kin ya̧g zílí ı̵́ yɛ né tée , víń dəŋ née ki ya̧g zílí tóó vu̵lá ?
+41004030a	ȩná		Yesu duu faa o̧ : « Ba gú̵gu̵n gbaŋ waalı̵́ Tayɨɨ woo kan ȩná ? 
+41004030b	ȩná		Ba tú'únɔ kan ya̧g zílí woo ȩná ?
+41004038	~		Yesu dɨ woo nəm pigim nɛ́ŋ́ŋı̵́ , ɓəg yúú hȩn yúú ɓəggı̵́lı̵́ . Vu̵ nimmɔ , vu̵ vigi : « Akaw , mɔ́ taan vɔ́ náa ? Ba ti ví sú̵'ú̵ náa ? »
+41004040a	Moo ȩn		Pig woolı̵́ máa , Yesu vi vu̵ : « Moo ȩn ví kɔ́ dú̵ú̵lá ? 
+41004040b	moo ȩná		Ví 'yɛ́n zó̧ó̧ míílí̧ ní moo ȩná ? »
+41004041	nóo		Ku̵u̵ ho̧ hȩn yȩ máa , dú̵ú̵ kɔ́ vu̵ gbo̧o̧ ba'a , vu̵ ó̧ń ya voolı̵́ : « Nán woo nóo yȩlá ! Sápéém kan mam ku̵u̵ kiddu̵ tɔ́g á̧ḿ yɛlá ! »
+41005007	ȩn		Yesu o̧ddu̵ : « Yigid ɓı̵́d , a̧m vúd la fó̧ó̧ nán yȩ woolı̵́ . » Nán pee moo dɔg moo yúba , o̧ : « Yesu , Waa Tayɨɨ ı̵́ be"ı̵́ woo , mɔ́ hí̧í̧ ȩn kan mílá ? Mí sa̧a̧m hȩn kan yɛ́g Tayɨɨ woo nɔ , a̧m si̧'i̧n sá . »
+41005009	nɛ́nná		Yesu duu vigi : « Yéé móó nɛ́nná ? » Duu hí̧i̧du̵ : « Yéé míí Dúú , moo vɔ́ ɓu̵u̵ ú̵ . »
+41005030	Nóo		Yesu há̧á̧ gaa néélȩ́ tóó ba vúd biilí fó̧lȩ́ sú̵'ú̵ , tii daa dúú voolı̵́ sa̧a̧mé , vi vu̵ : « Nóo za'an sa̧a̧mɛ́lá ? »
+41005031	Nóo		Waa duulí woo vu̵ hí̧i̧du̵ : « Mɔ́ ho̧ dúú vu̵ ɓəəm mbaa ná' , ma mɔ́ vi : ‹ Nóo za'anáa ? › »
+41005035	Moo ȩn		Sey ka dɨ moo yȩ moolȩ́ máa , nán tóó vu̵ yaa kíi ı̵́ nii lig sú̵ggı̵́ nán Yúúda voo pee woolı̵́ , vu̵ o̧ddu̵ : « Waa móó sı̵́ pɛ́lı̵́ . Moo ȩn mɔ́ duu 'máá akawwá ? »
+41005039a	ȩná		Yesu dɔ́ la o̧d vu̵ : « Ví dɔb hȩn ȩná ? 
+41005039b	ȩná		Ví ká̧ŋ́ ȩná ? Waa yȩ nɔɔ né , a̧máa nə nəmme . »
+41006002a	tɛ́lá		Zá̧ga̧ asawəlı̵́ máa , bé' moo tú"í lig sú̵ggı̵́ nán Yúúda voolı̵́ . Nán ɓu̵u̵lı̵́ na'a vu̵ ki moo tú"í woo , kɔ́ vu̵ la ɓá' , vu̵ o̧ : « Hȩn yȩ vu̵ yaadu̵ tɛ́lá ? 
+41006002b	Nóo		Nóo tú'udu̵ hȩn gaalı̵́ yȩlá ? 
+41006002c	née		Dəŋ née ka kɔ́ hȩn sa̧ga̧ yȩ vu̵ á̧ḿmá ?
+41006022	~		Wakȩ́ȩ́ waa Herodía woo dɔ́ ya naa náb . Náb woo to̧o̧d Heeród mbaa ná' , kan nán pee vu̵ á̧ḿ . Pig woo máa , gbanaa o̧d wakȩ́ȩ́ waa pee : « A̧m vin hȩn káḿ hí̧í̧ má nɔ , míń pú̵mmɔ́ . »
+41006024	ȩná		Wakȩ́ȩ́ waa pee vúd la vi na' woo : « A̧n vi ȩná ? » Na' woo hí̧i̧du̵ : « Yúú Yoohá̧na ı̵́ mam Tayɨɨ wooné woo nɔ . »
+41006037	~		A̧máa Yesu hí̧i̧d vu̵ o̧ : « Aga a víi pú̵ vu̵ hȩn lálı̵́ . » Ku̵u̵ ki ná' máa , vu̵ duu o̧ddu̵ : « Oo la fȩȩd vu̵ beréd booro tȩmɛre idú pú̵ vu̵ u̵u̵ lá áa ? »
+41006038	nɛ́nná		Yesu duu vi vu̵ : « Ví dɨ kan beréd kígi nɛ́nná ? I la ho̧ la lée ! » Ku̵u̵ la ho̧ sú̵'ú̵ máa , vu̵ hí̧i̧du̵ : « Dɨ kígi nɔ́nɔ́ , kan ze' idú . »
+41007005	Moo ȩn		vu̵ vi Yesu : « Moo ȩn waa duulí móó vu̵ duun hȩn dikab a ba ví yée voo vu̵ nélá ? Moo ȩn vu̵ lá hȩn nag ví̧i̧gnálá̧ ? » Nán farísa kan nán Yúúda vu̵ 'waapád vu̵ baa nɛ' nag pȩ́ń , vu̵ lá hȩn , vu̵ duu hȩn dikab aa yée voo vu̵ ı̵́ yo̧go̧ . Ku̵u̵ fíí ya lummí tée , vu̵ lán hȩn né , vu̵ nɛ' nag pȩ́ń . Vu̵ duu hȩn dikab tóó vu̵ ɓu̵u̵lı̵́ na'a , kɔ́ ı̵́ aa yée ku̵u̵ tú'ud vu̵ máa wɔgɔ , moo ɗag ha̧nné vu̵ , kan gbág vu̵ kan gbág hɨɨ vu̵ kan leeso vu̵ á̧ḿ .
+41008004	née		Waa duulí woo vu̵ hí̧i̧du̵ : « Ba dəŋ née ku̵u̵ lá hȩn ha̧' hó̧g tíŋ́ yɛlı̵́lá ? »
+41008005	nɛ́nná		Yesu vi vu̵ : « Ví dɨ kan beréd kígi nɛ́nná ? » Vu̵ hí̧i̧du̵ : « Gúndɛm . »
+41008012	Moo ȩn		Yesu ka ki ná' máa , ndɛ gbɔ zu̵u̵ zó̧ó̧lȩ́ 'mm , o̧ : « Moo ȩn nán 'ya̧'a̧ yɛ vu̵ vi hȩn sa̧ga̧lá ? Mí o̧d ví moo yȩ́ńne , nán 'ya̧'a̧ yɛ vú̵ń ho̧n hȩn sa̧ga̧ tóó né sá̧ḿ . »
+41008017	Moo ȩn		Ma Yesu vi vu̵ : « Ví fan moo ȩn ya víílí , kíí o̧ : ‹ Moo kaa 'yɛ́n ví beréd né yɛ nɔ › lá ? Ví kin ná moo né yeý ? Ví gaa ná hȩn né yeý ? Ví ŋgó̧ó̧ tɔ́gga ?
+41008018a	~		Ví dɨ kan nɔ́ɔ́ , ví ho̧n né . 
+41008018b	~		Ví dɨ kan tɔ́g , ví kin ní . Ví dȩ́'ȩ ná né á̧ḿma ?
+41008019	nɛ́nná		Sey káń yɨɨ beréd kígi nɔ́nɔ́ pú̵ nán uzinɛɛre nɔ́nɔ́ vu̵ máa , ví duu su̵g púpúd woo hi̧' ɓaa nɛ́nná ? » Vu̵ hí̧i̧du̵ : « Wa̧nɓó' zu̵u̵ idú . »
+41008020	nɛ́nná		Duu vi vu̵ : « Sey káń yɨɨ beréd kígi gúndɛm , pú̵ nán uzinɛɛre ndaddú̵ vu̵ máa , ví duu su̵g kéélı̵́ woo hi̧' ɓaa gbo̧o̧ nɛ́nná ? » Vu̵ hí̧i̧du̵ : « Gúndɛm . »
+41008021	~		Ma duu vi vu̵ : « Ví kin ná né yaa ? »
+41008023	~		Yesu ka ki máa , ka nán yə̧m pee nagá , tee laanɔ kaa pigim , tu̵'u̵d su̵d so̧'o̧du̵ nɔ́lȩ́ , ha'adu̵ nag yúlí , vigi : « Mɔ́ ho̧ hȩn tóó sá'áa ? »
+41008027	nɔ́nná		Yesu daa laa kan waa duulí woo vu̵ kaa waa tóó vu̵lı̵́ , hág Sezarée ı̵́ Filíb woolı̵́ . Ku̵u̵ dɨ lá hi̧naalȩ́ máa , vi vu̵ : « Yee nán vu̵ o̧ ba mín nɔ́nná ? »
+41008029a	~		Ma Yesu duu vi vu̵ : « Ví o̧ 
+41008029b	nɛ́nná		víí nɛ́nná ? » Piɛ́r hí̧i̧du̵ , o̧ : « Mɔ́ ı̵́ nán sənnée . »
+41008036	ȩn		Nán tóó a nuŋ hȩn góó 'waapád pȩ́ń , a tid vágád woo tée , ȩn wú̵ń yagadu̵lá ?
+41008037	ȩná		Tóó tée nán vu̵ píń vágád kan ȩná ?
+41009010	ȩná		Vu̵ tu̵ moo yȩ voolı̵́ zó̧ó̧lȩ́ , vu̵ víń ya voolı̵́ : « ‹ Nímní nɔmmé › sú̵u̵ ȩná ? »
+41009011	Moo ȩn		Pig woo máa , waa duulí woo vu̵ vigi : « Moo ȩn nán moo Tayɨɨ tú"í vu̵ o̧ Elía ban yaa pȩ́ńná ? »
+41009012	née		Yesu hí̧i̧d vu̵ : « Elía wú̵ń yaa pȩ́ń , wú̵ń mbɔ́g hȩn 'waapád du̵u̵ na'a . A̧máa moo Tayɨɨ o̧ née yúú míílí̧lá ? Ɨ́ míí Tayɨɨ ka ba'an ya yɛ , míń nuŋ hȩn ndɔ́gɔné gbo̧o̧ ba'a , vú̵ń ho̧n hȩn leená pȩ́ńnáa ?
+41009016	ȩnnélá		Yesu vi waa duulí woo vu̵ : « Ví fan moo kan vu̵ yúú ȩnnélá ? »
+41009019a	nɛ́nná		Ma Yesu hí̧i̧d vu̵ o̧ : « Nán moo faalı̵́ vu̵ , míń ma' zó̧ó̧ mbaa kan ví nɛ́nná ? I pa̧nnɔ ya ú̵ . »
+41009019b	~		
+41009021	née		Yesu vi waa ba'a : « Hȩn yɛ dəŋŋɔ bá' née yɛlá ? » Hí̧i̧du̵ : « Dəŋŋɔ ya náásá̧ŋ́ woolı̵́ .
+41009028	Moo ȩn		Sey Yesu ka dɔ́ kíilí máa , waa duulí woo vu̵ vigi vu̵ mɛ́ń : « Moo ȩn vɔ́ nɛŋ vóó yigid ɓı̵́d yȩ mban nélá ? »
+41009033	ȩn		Yesu vu̵ ya̧ la kaa Kapɛrnáhu̧mmé . Ku̵u̵ dɔ́ la kíilí máa , Yesu vi waa duulí woo vu̵ : « Vín fan moo woo ȩn hi̧naalȩ́lá ? »
+41009050	ȩná		Ta̧m zú̵g máa , hȩn to̧o̧ȩ , a̧máa ta̧m hú̧u̧m ka vúd sú̵'ú̵ tée , ví duu mbɔ́ggu̵ kan ȩná ? I to̧n ya víílí ú . I mbaa kɔ́ ı̵́ wi' ku̵u̵ gbɔ ta̧m wu̵lı̵́ máa wɔgɔ . »
+41010003	nɛ́nná		Yesu hí̧i̧d vu̵ , o̧ : « Múúsa o̧d ví nɛ́nná ? »
+41010017	née		Yesu ka ɓɛ hi̧naa bi lúú sú̵'ú̵ máa , nán tóó kɛ ɗug ya sə̧"o̧ tíŋ́ , gu doo núug tíŋ́ woolı̵́ , vigi : « Akaw to̧o̧ , míń kɔ́ née pȩ́ń míń nuŋ vágád ı̵́ káákáálá ? »
+41010018	Moo ȩn		Ma Yesu hí̧i̧du̵ : « Moo ȩn mɔ́ been nán to̧o̧lá ? Nán to̧o̧ tóó pɛ́lı̵́ , séý wu̵ Tayɨɨɨ dágá 'nɛ́ŋ́ .
+41010026	nóo		Moo yȩ la' waa duulí woo vu̵ kɛb , vu̵ víń ya voolı̵́ : « A ı̵́ yo̧go̧ tée , nóo wú̵ń sə́ddá ? »
+41010036	ȩná		Yesu vi vu̵ : « Ví hí̧í̧ ȩná ? »
+41010051	ȩná		Yesu vigi : « Mɔ́ hí̧í̧ a̧n kɔ́d bi ȩná ? » Nán yə̧m pee hí̧i̧du̵ : « Akaw , ka míń ho̧ nɔ́ɔ́e . »
+41011003	ȩn		Nán tóó ka vi ví : ‹ Ví kɔ́ ȩn yȩlá ? › Tée i hí̧i̧du̵ : ‹ Ɨ́ 'yɛ́lı̵́ hí̧í̧wo̧ ó̧ , tée wú̵ń duu vȩ"o̧ pa̧n ví ya dɨlı̵́ vaŋná . › »
+41011005	née		Nán tóó ku̵u̵ mbaa wu̵lı̵́ máa , vu̵ vi vu̵ : « Kɔ́ née ví buu wamnde waa yȩlá ? »
+41011028a	ȩná		vu̵ vigi : « Mɔ́ kɔ́ hȩn yȩ vu̵ kan néélȩ́ woo ȩná ? 
+41011028b	nóo		Mɔ́ nuŋŋɔ nóo woolı̵́ , káḿ kɔ́ hȩn yȩ vu̵lá ? »
+41011030	tɛ́lá		Yoohá̧na nuŋ néélȩ́ mam Tayɨɨ wooné tɛ́lá ? Tayɨɨ wooláa ? Tóó tée nánán tóó vooláa ? I hí̧i̧n sı̵́nná ! »
+41011031a	~		Ku̵u̵ ki moo woo máa , vu̵ fan moo ya voolı̵́ , vu̵ o̧ : 
+41011031b	Moo ȩn		« Aa hí̧í̧ ví : ‹ Tayɨɨ wu̵ pú̵gu̵ › tée , wú̵ń vi ba ví : ‹ Moo ȩn ví fȩȩn moo Yoohá̧na woo nélá ? ›
+41012009	nɛ́nná		Yee tée , ı̵́ bab aga wú̵ń ya kɔ́ woo nɛ́nná ? Wú̵ń yaa , wú̵ń tud nán bab tu̵lı̵́ yȩ vu̵ , wú̵ń ɓɛ bab pú̵ nán tóó u̵u̵ tu̵d bi ú . »
+41012015	Moo ȩn		Yesu ka gaa zó̧ó̧ ví̧i̧g voo máa , hí̧i̧d vu̵ , o̧ : « Moo ȩn ví zo'oná ? I pú̵n ya sɨɨde lámba sú̵ú̵lı̵́ sú̵u̵ , mí ho̧ ó̧ . »
+41012016a	Nóo woolá		Ku̵u̵ pa̧nnɔ ya máa , Yesu vi vu̵ : « Fóto yɛ , fóto nóo woolá ? 
+41012016b	Nóo		Nóo bíńda hȩn yɛlá ? » Vu̵ hí̧i̧du̵ : « Gbanii woo nɔ . »
+41012023	nóo woo		Ma zá̧ga̧ nímní nɔmmélȩ́ tée , sa̧a̧m nán gúndɛm yȩ voolı̵́ máa , wakȩ́ȩ́ yȩ wú̵ń mbaa kȩ́ȩ́ nóo woo dágálá ? Moo ya voo gúndɛm á̧ḿ , ká vu̵ ééwu̵ sú̵'ú̵ . »
+41012028	tɛ́lá		Nán moo Tayɨɨ tú"í tóó ka ki moo fanné voo yȩ , Yesu ka hí̧i̧d vu̵ moo du̵u̵ na'a máa , séé ya vi Yesu : « Dooká Tayɨɨ woo ı̵́ ka mba daga vu̵ máa , wu̵ ı̵́ tɛ́lá ? »
+41012035	née		Yesu ka moo tú'ud vu̵ na'am gbo̧o̧ lig hȩn ha"ı̵́lı̵́ , o̧ : « Dəŋ née nán moo Tayɨɨ tú"í ku̵u̵ o̧ ı̵́ nán sənné ba ag yée Daavíd woo nɔlá ?
+41012037	née		« Daavíd aga ká beewu̵ ba ı̵́ 'yɛ́lı̵́ bii , ma duu dəŋ née ı̵́ nán sənné ka mbaa aa yéelá ? » Dúú ɓu̵u̵lı̵́ na'a vu̵ baa ki moo Yesu woo kan zó̧ó̧ dȩ"ȩ́ .
+41013004a	ndɛnná		« A̧m o̧d vɔ́ ú̵ , hȩn yȩ vú̵ń ya̧ zag ndɛnná ? 
+41013004b	ȩná		Hȩn a tú' zaa ban ya̧ sú̵'ú̵ máa , wu̵ ȩná ? »
+41014004	tɛ́lá		A̧máa nán tóó vu̵ kɔ́ zó̧ó̧ yȩ́ȩ́ , vu̵ ó̧ń ya voolı̵́ : « Duusá̧n lı̵́nné ı̵́ yo̧go̧ máa , du̵u̵ dɨ tɛ́lá ?
+41014006	Moo ȩn		Yesu ka ki máa , o̧d vu̵ : « I gbɔgɔ ú̵ ; moo ȩn ví 'mááwo̧lá ? Kɔ́ ba'ad du̵u̵ yúú míílí̧ sú̵'ú̵ .
+41014012	tɛ́lá		Zá̧ga̧ mam vúnní 'yɛ́ wág sá ka dəŋ , ku̵u̵ dɨ mbee waa páska vu̵ sə̧'ə̧né wu̵lı̵́ máa , waa duulí Yesu woo vu̵ vigi : « Mɔ́ hí̧í̧ oo la mbɔ́gɔm hȩn lálı̵́ páska ya woo tɛ́lá ? »
+41014014	tɛ́lá		Kíi ka dɔ́ wu̵lı̵́ tée , ví o̧d ı̵́ kíi aga : ‹ Akaw o̧ lig bii ba ii lá hȩn lálı̵́ páska kan waa duulí bii vu̵ wu̵lı̵́ máa , ba dɨ tɛ́lá ? ›
+41014060a	~		Ma ı̵́ nii hȩn ha"ı̵́ lúú dii yúba sa̧a̧m voolı̵́ , vi Yesu : « Mɔ́ hí̧i̧n ya̧g né sá̧ḿmaa ? 
+41014060b	moo ȩn		Nán yȩ vu̵ moo moo ȩn yúú móólȩ́ yȩlá ? »
+41014063	Moo ȩn		Ɨ́ nii hȩn ha"ı̵́ ka ki ná' máa , dee sa̧a̧m woo , tii píg , o̧ : « Moo ȩn ba duu soo ví nán ya̧g du̵lı̵́ vu̵lá ?
+41014064	nɛ́nná		Ví ki Tayɨɨ haalı̵́ woo sú̵'ú̵ . Ví taa víí nɛ́nná ? » Ya voo 'waapád vu̵ sə̧' moo yúú Yesu woolı̵́ , vu̵ o̧ : « Maa nɔmme . »
+41015004	~		Ma Pilád duu vigi : « Ku̵u̵ dɨm doolı̵́ na'a yȩ nɔ , mɔ́ń hí̧i̧n ya̧g náa ? »
+41015012	née		Pilád duu vi vu̵ : « Ví hí̧í̧ a̧n kɔ́ née kan ı̵́ kíí beewu̵ gbanaa nán Yúúda voo yȩlá ? »
+41015014a	~		Ma Pilád duu vi vu̵ : 
+41015014b	ȩná		« Kɔ́ hȩn ɓı̵́d woo ȩná ? » A̧máa dúú vu̵ duu tó̧' kɔɔg , vu̵ o̧ : « A̧m ga"u̵ la' vbagadı̵́ ! »
+41015034	Moo ȩn		Zamndi ta̧a̧nɔ́ ya̧g mɛnné máa , Yesu moo dɔg moo há̧á̧ yúba , o̧ : « Eloí , Eloí , lemá sabagtaní ? » ( Moo woo tú' « Tayɨɨ míí , Tayɨɨ míí , moo ȩn mɔ́ gbɔnná ? » )
+41016003	Nóo		Vu̵ víń ya voolı̵́ : « Nóo wú̵ń la vbíid ba ví 'yɛgɛ yúú bɛ́ɛ́gı̵́ yȩlá ? »
+42001018	née		A̧máa Zakaríi ka ki moo yȩ máa , vi maleeka : « Míń dəŋ née gaa ba moo yȩ́ńnelá ? Moo mí gbo̧o̧ sú̵'ú̵ , ve' kȩ́ȩ́ míí woo ya̧a̧ sú̵'ú̵ á̧ḿ . »
+42001034	née		A̧máa Maaríi ka ki ná' máa , duu vi maleeka : « Hȩn woo wú̵ń dəŋ née kɔ́yyá ? Moo mí kan ná nag né . »
+42001043	née		Kɔ́ née na' ı̵́ 'yɛ́lı̵́ míí woo ka yaa míílí̧ ı̵́ yo̧go̧lá ?
+42001066	nɛ́nná		Nán 'waapád ku̵u̵ ki moo yȩ máa , vu̵ 'yɛ́ moo woo voolı̵́ zó̧ó̧lȩ́ , vu̵ o̧ : « Waa yȩ wú̵ń mbaa nɛ́nná ? » Moo yȩ́ńná , nag Tayɨɨ ı̵́ 'yɛ́lı̵́ woo dɨ yúú woolı̵́ .
+42002048	ȩn		Na' woo kan ba' woo ku̵u̵ ho̧go̧ máa , kɔ́ vu̵ la ɓá' . Na' woo o̧ddu̵ : « Waa míí , mɔ́ kɔ́ vɔ́ ȩn ı̵́ yo̧go̧lá ? Vɔ́ kan ba' móó á̧ḿ , zó̧ó̧ tó̧' vɔ́ mbaa ná' , kóó dɨm soolı̵́ yɛ nɔ ! »
+42002049	Moo ȩn		Yesu hí̧i̧d vu̵ : « Moo ȩn ví sooná ? Ká ví gaan ba míń dɨn hȩn Ba' míí woo vu̵ yu̵ kɔ́lı̵́ máa náa ? »
+42003007	nóo		Dúú vu̵ yaa Yoohá̧na woolı̵́ , moo a woo bi mam Tayɨɨɨ . Ma o̧d vu̵ : « Ɨ́ víí , ı̵́ kɛb , du̵kə́ŋ́ waa vu̵ , nóo o̧d ví i kɛ ɗug sə́d hȩn si̧'i̧ní Tayɨɨ woo ka dɨ yaalı̵́ yȩlȩ́lá ?
+42003010	nɛ́nná		Dúú vu̵ baa vígi : « Yee tée , vɔ́ń kɔ́ vóó nɛ́nná ? »
+42003012	nɛ́nná		Nán lámba su̵ggı̵́ tóó vu̵ yaa woolı̵́ moo a woo bi mam Tayɨɨ á̧ḿ , vu̵ vigi : « Akaw , yee tée vɔ́ń kɔ́ vóó nɛ́nná ? »
+42003014a	~		Só̧ó̧ze tóó vu̵ baa vígi : « Ɨ́ vóó máalá̧ ? 
+42003014b	nɛ́nná		Oo kɔ́ vóó nɛ́nná ? » Duu o̧d vu̵ : « I vbid nán tóó hȩn sá . I sóowu̵ yúú hȩn woolı̵́ sá . A̧máa zó̧ó̧ víí a ka̧' yúú hȩn ku̵u̵ sú̵ú̵ ví máalȩ́ . »
+42004034	ȩná		« Wí , Yesu nán Naazaréd , moo móó kan vɔ́ máa ȩná ? Mɔ́ yaa vɔ́ tunnáa ? Mí gaamɔ́ , mɔ́ nán gbo̧o̧ Tayɨɨ ka ba' ya má nɔ . »
+42004036	moo ȩná		Nán vu̵ 'waapád vu̵ mbaa ɗii , vu̵ víń ya voolı̵́ : « Moo yȩ , moo ȩná ? Nán yɛ pi̧i̧ yigid ɓı̵́d vu̵ kan néélȩ́ kɔ́ ı̵́ nán gbo̧o̧ wɔgɔ , nɛŋ vu̵ vud á̧ḿ . »
+42005021a	nóo		Nán moo Tayɨɨ tú"í vu̵ kan nán farísa ku̵u̵ ki moo yȩ máa , vu̵ taa moo voolı̵́ zó̧ó̧lȩ́ : « Nán yȩ nóo pȩ́ń , 
+42005021b	~		ka haa Tayɨɨ yɛlı̵́ ? Nán tóó dɨ kan néélȩ́ kéé hȩn ɓı̵́d nán voo gbɔn né , séý Tayɨɨɨ . »
+42005022	Moo ȩn		Yesu ka gaa moo taalı̵́ voo máa , vi vu̵ : « Ví taa moo ȩn ı̵́ yo̧go̧ zó̧ó̧ víílílá ?
+42005023	ȩn		Kaa o̧d nán : ‹ Hȩn ɓı̵́d móó vu̵ kéé gboy sú̵'ú̵ , › tóó tée kaa o̧ : ‹ A̧m lúú yúba , mɔ́ 'yȩmma ó̧ › tée ȩn təə mbalá ?
+42005030	Moo ȩn		Nán farísa vu̵ kan nán moo Tayɨɨ tú"í ku̵u̵ duu moo voo máa , vu̵ ŋguu moo , vu̵ vi waa duulí Yesu woo vu̵ : « Moo ȩn ví sú̵g lá hȩn , ví zɔ hȩn kan nán lámba su̵ggı̵́ vu̵ kan nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ dágálá ? »
+42005033	~		Nán pee vu̵ duu o̧d Yesu : « Waa duulí Yoohá̧na woo vu̵ kan nán farísa vu̵ , vu̵ baa kȩȩ hȩn lálı̵́ bə́' bə́' , vu̵ baa o̧d Tayɨɨ moo á̧ḿ . A̧máa waa duulí móó vu̵ dɨ voo hȩn lálı̵́ , vu̵ zɔ hȩn á̧ḿ . »
+42005034	~		Yesu hí̧i̧d vu̵ o̧ : « Nán ku̵u̵ bee vu̵ hȩn lálı̵́ lig pú̵lı̵́lı̵́ , ma ı̵́ kȩ́ȩ́ aga ka dɨ lá kan vu̵ tée , víń hí̧í̧ u̵u̵ kȩȩ hȩn lálı̵́ á̧ḿma ?
+42006002	Moo ȩn		Nán farísa tóó vu̵ vi vu̵ : « Moo ȩn ví kɔ́ hȩn moo palı̵́ baa ví ku̵u̵ há' kɔ́lı̵́ zá̧ga̧ asawəlı̵́ máalá̧ ? »
+42006009	nɛ́nná		Ma Yesu vi vu̵ : « Mí vi ví , debtere Múúsa woo o̧ nɛ́nná ? Zá̧ga̧ asawə máa , zá̧ga̧ hȩn du̵u̵ kɔ́láa ? Tóó tée , zá̧ga̧ hȩn ɓı̵́d wu̵ kɔ́láa ? Tóó tée moo nán vu̵ sənnáa ? Tóó tée , moo nán vu̵ tunnáa ? »
+42006032	~		« I hí̧í̧ séý nán ı̵́ ku̵u̵ hí̧í̧ ví máa vu̵ yu̵ dágá tée , hȩn gbo̧o̧ wu̵ yȩ naa ? Nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ kɔ́n ı̵́ yo̧go̧ á̧ḿ náa ?
+42006033	~		Nán ku̵u̵ kɔ́d ví hȩn du̵u̵ máa , tow i kɔ́d séý vu̵ yu̵ dágá hȩn du̵u̵ tée , hȩn gbo̧o̧ wu̵ yȩ naa ? Nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ dɨ kɔ́lı̵́ ı̵́ yo̧go̧ á̧ḿ .
+42006034	~		Nán kíí taa ba vú̵ń sú̵ú̵ bi ɓoo ú̵ máa , i pú̵ séý vu̵ yu̵ ɓoo dágá tée , hȩn gbo̧o̧ wu̵ yȩ naa ? Nán hȩn ɓı̵́d kɔ́lı̵́ vu̵u̵ baa kɔ́ ı̵́ yo̧go̧ , moo bi duu nuŋ 'waapád .
+42006039	~		Ma Yesu duu zíd vu̵ ya̧g tóó , o̧ : « Nán yə̧m tee daga áa ? Tée vú̵ń kə̧ə̧n dəəlı̵́ ya voo idú á̧ḿ náa ?
+42006041	Moo ȩn		« Moo ȩn mɔ́ ho̧ hó̧d waa nɔ́ɔ́ dam tóó woolı̵́ , a̧máa mɔ́ ho̧n la' gbo̧o̧ ka dɨ nɔ́ɔ́ dáń móólȩ́ yȩ nélá ?
+42006042	née		Dəŋ née mɔ́ o̧d dam tóó : ‹ Dan sá̧ŋ́ , a̧m yaa mí ɓɛ hó̧d waa móólȩ́ nɔ́lȩ́ › lá ? Mɔ́ ho̧n la' gbo̧o̧ ka dɨ nɔ́ɔ́ móólȩ́ yȩ náa ? Nán zó̧ó̧ ví̧i̧g , a̧m vud la' gbo̧o̧ nɔ́ɔ́ móólȩ́ yȩ pȩ́ń , tée mɔ́ń ho̧ nɔ́ɔ́ túlí na'a moo hó̧d waa ɓɛlı̵́ nɔ́ɔ́ dam woolı̵́ . »
+42006046	Moo ȩn		« Moo ȩn ví been : ‹ Ɨ́ 'yɛ́lı̵́ , ı̵́ 'yɛ́lı̵́ míí › , a̧máa ví kɔ́n hȩn káń o̧n ví nélá ?
+42007024	ȩn		Sey waa ba'ad Yoohá̧na woo ku̵u̵ vȩ́' la máa , Yesu bé'ed dúú vu̵ moo moolȩ́ yúú Yoohá̧na woolı̵́ , o̧ : « Ví vúd laa ȩn ho̧lȩ́ hó̧g tíŋ́ŋá ? Dȩ' sápéém ka dɨ namné yȩ naa ? Pɛ́lı̵́ sá̧ḿ .
+42007025	ȩn		Ví vúd laa ȩn ho̧lȩ́lá ? Ví la ho̧ nán ka dɔ́ sa̧a̧m du̵u̵ na'a yȩ naa ? A̧máa nán ku̵u̵ dɔ́ sa̧a̧m du̵u̵ , ku̵u̵ pág mbaa ya du̵u̵lı̵́ máa , vu̵ dɨ kíi gbanii woolı̵́ .
+42007026	ȩn		A̧máa ví vúd laa ȩn ho̧lȩ́lá ? Anábiaa ? Ee , a̧máa mí o̧d ví , Yoohá̧na wu̵ mba anábi .
+42007031a	ȩná		Ma Yesu duu o̧ : « Míń gú̵gú̵n nán ɓəə yɛ vu̵ kan ȩná ? 
+42007031b	nóo		Vu̵ man kan nóo vu̵lá ?
+42007042	nóo		A̧máa ya voo idú á̧ḿ , vu̵ nugun hȩn u̵u̵ sú̵u̵nɔ wu̵lı̵́ né , ma kéé gbɔd vu̵ la , ya voo idú á̧ḿ . Yee nóo wú̵ń hí̧í̧ baa yȩ mba sa̧a̧m nán idú yȩ voolı̵́lá ? »
+42007049	nóo		Nán ı̵́ ku̵u̵ mbaa ya hȩn lálı̵́lı̵́ máa , vu̵ ó̧ń ya voolı̵́ : « Nán yɛ nóo ka kéé hȩn ɓı̵́d nán voo gbɔ á̧ḿ yɛlá ! »
+42008025a	tɛ́lá		Vi vu̵ : « Ví 'yɛ́ zó̧ó̧ víí dɨ tɛ́lá ? » A̧máa dú̵ú̵ kɔ́ vu̵ , hȩn woo la' vu̵ la fid , vu̵ ó̧ń ya voolı̵́ : 
+42008025b	nóo		« Nán woo nóo yȩlá ! Ka o̧d sápéém vu̵ kan mam ku̵u̵ kiddu̵ tɔ́g á̧ḿ yȩlá ! »
+42008028	ȩn		« Yesu , Waa Tayɨɨ ı̵́ be"ı̵́ woo , mɔ́ hí̧í̧ ȩn kan mílá ? Mí dȩm naggɨ , a̧m si̧'i̧n sá . »
+42008030	nɛ́nná		Ma Yesu vigi : « Yéé móó nɛ́nná ? » Duu hí̧i̧du̵ : « Yéé míí Dúú , » moo yigid ɓı̵́d ɓu̵u̵lı̵́ na'a ká vu̵u̵ dɔ́ woolı̵́ .
+42008045	Nóo		Ma Yesu vi : « Nóo za'aná ? » Nán 'waapád vu̵ su̵u̵ , ma Piɛ́r vigi : « Ba'á , nán vu̵ gbɔ kan mɔ́ , vu̵ ɓəəmɔ́ á̧ḿ náa ? »
+42009009a	nɔ́nná		A̧máa Heeród ka ki máa , o̧ : « Aga ká mí du̵ yúú Yoohá̧na woo sə̧' sú̵'ú̵ . A̧máa nán káń duu ki moo ı̵́ yo̧go̧ yúú woolı̵́ yȩ , nɔ́nná ? » Heeród soo kɛb bi ho̧ Yesu ú̵ .
+42009009b	~		 
+42009018	nɔ́nná		Zá̧ga̧ tóólı̵́ máa , Yesu o̧d Tayɨɨ moo , vu̵ kan waa duulí woo vu̵ mɛ́ń . Ma vi vu̵ : « Yee nán vu̵ o̧ ba mín nɔ́nná ? »
+42009020a	~		Ma Yesu duu vi vu̵ : « Ví o̧ 
+42009020b	nɛ́nná		víí nɛ́nná ? » Ma Piɛ́r hí̧i̧du̵ o̧ : « Mɔ́ ı̵́ nán sənné Tayɨɨ ka ba' ya má nɔ . »
+42009025	ȩn		Nán tóó a nuŋ hȩn góó 'waapád pȩ́ń , a tid vágád woo , a lı̵́ddu̵ tée , ȩn wú̵ń yagadu̵lá ?
+42009041a	nɛ́nná		Ma Yesu hí̧i̧du̵ o̧ : « Nán moo faalı̵́ kan hȩn kə̧ə̧g kɔ́lı̵́ yɛ ví , míń ma' zó̧ó̧ mbaa kan ví nɛ́nná ? A̧m pa̧nnɔ ya ú̵ . »
+42009041b	~		
+42010025	née		I ki ú , nán debtere gaalı̵́ tóó lúú yúba , bi gu̵g Yesu wu̵ , vigi : « Akaw , míń kɔ́ née , ma míń nuŋ vágád káákáá Tayɨɨ woolı̵́lá ? »
+42010026a	nɛ́nná		Yesu hí̧i̧du̵ : « Debtere o̧ nɛ́nná ? 
+42010026b	nɛ́nná		Mɔ́ záŋ́ga ki nɛ́nná ? »
+42010029	nɔ́nná		A̧máa nán pee hí̧í̧ bi nuŋ moo to̧o̧ȩ , ma duu vi Yesu : « Dan sú̵u̵ nɔ́nná ? »
+42010036a	~		Yesu ka zíd nán yȩ ya̧g 'waa máa , duu vigi : « Mɔ́ taa nán máa ta̧a̧nɔ́ yȩ vu̵ , 
+42010036b	nóo		nóo ba ka mbaa dag gboo ı̵́ ka dɔ́d kɛm vu̵ ya̧gá̧ yȩ woolá ? »
+42011008	~		Mí o̧d ví , tóó tée wú̵ń lúun yúba bi pú̵nnɔ moo ka daga gbooɨ má nɔ né . A̧máa ka 'mááwo̧ na'aa yȩ , wú̵ń pú̵gu̵ hȩn a maawo̧ pú̵lı̵́ máa 'waapád .
+42011011	nóo		« Waa ba'a woo nóo sa̧a̧m víílí , waa ka ɓá"u̵ ze' tée , ka pú̵gu̵ bɨɨgá ?
+42011012	~		Tóó tée ka ɓá"u̵ nɔ́g ba̧' tée , ka pú̵gu̵ nɛɛgá ?
+42011013	~		Ɨ́ víí , nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ , vín gaa waa víí vu̵ hȩn du̵u̵ pú̵lı̵́ gu̵y dan tóó Ba' víí ı̵́ ka dɨ be"ı̵́ má naa ? Nán a ɓá"u̵ yigid woo tée , wú̵ń pú̵gu̵ ú̵ . »
+42011018	née		Yee Seeɗán a wu̵ hı̵́'ı̵́n ya idú tée , gbaŋ waalı̵́ woo wú̵ń dəŋ née diilá ? Moo ví o̧ ba mín nɛŋ yigid ɓı̵́d vud kan néélȩ́ Belzabúl woo nɔ .
+42011019	nóo woolá		Ɨ́ míí , a̧n nɛŋ vu̵ kan néélȩ́ woo nɔ tée , waa duulí víí vu̵ nɛŋ voo kan néélȩ́ nóo woolá ? Moo woo nɔ , aga vú̵ń o̧ moo víí ba kə̧ə̧ ó̧ .
+42012014	nóo		Yesu ka ki máa , hí̧i̧du̵ : « Ɨ́ yo̧go̧ yȩȩ́ , nóo 'yɛ́n ı̵́ moo sə̧"ȩ́ , tóó tée , ı̵́ hȩn gaga yȩ"ȩ́ sa̧a̧m víílílá ? »
+42012017	nɛ́nná		Ka ho̧ ná' máa , taa o̧ zó̧ó̧ woolı̵́ : ‹ Mí kan ya a̧n su̵g hȩn bab míí vu̵ 'yɛ́n wu̵lı̵́ né . Yee míń kɔ́ nɛ́nná ? ›
+42012020	nɔ́nná		A̧máa Tayɨɨ o̧d baa pee : ‹ Ya̧ŋ móó yɛ nɔ ! Vid ɓəə yɛ mɔ́ń nɔɔ wu̵lı̵́ . Hȩn káḿ mbɔ́g 'yɛ́ vu̵ yȩ , vú̵ń mbaad nɔ́nná ? › »
+42012024	~		I tə́g lá ví kpa̧a̧naag vu̵ yu̵ , vu̵ ban hȩn né , vu̵ su̵gu̵n hȩn bab vu̵ né , vu̵ kan lig hȩn 'yɛ́lı̵́ pɛ́lı̵́ , a̧a̧ pɛ́lı̵́ á̧ḿ . A̧máa kóó ı̵́ yo̧go̧ si̧' , Tayɨɨ dɨ vu̵ hȩn lálı̵́ pú̵lı̵́ɨ . Máa , víi mban nɔ́g waa vu̵ náa ?
+42012025	Nóo		Nóo víílí sa̧a̧mé , dam gbɔ́lı̵́ woo ka há"u̵ nɔm waaná' agalá ?
+42012026	Moo ȩn		A̧máa kíí dɨ kan néélȩ́ kɔ́n hȩn waa sȩ́gȩ́d yȩ vu̵ né , máa moo ȩn ví gbɔ́ dam moo hȩn tóó vu̵lá ?
+42012042	Nóo		Ɨ́ 'yɛ́lı̵́ Yesu hí̧i̧du̵ : « Nóo nán hȩn tu̵lı̵́ yȩ́ń kan zó̧ó̧ diinílá ? Wu̵ ı̵́ nán baa lig woo ka 'yɛ́gɛ yúú nán woo voolı̵́ 'waapád , moo a yȩ' vu̵ hȩn lálı̵́ sey hȩn lálı̵́lı̵́ má nɔ .
+42012049	~		Yesu o̧ : « Mí yaa moo vee wu̵ mu"í̧ hágá yɛlı̵́ . Mí hí̧í̧ vee woo kan dəŋ má"ȩ́ 'ya̧'a̧ yɛ nɔ !
+42012056	~		Nán zó̧ó̧ ví̧i̧g yȩ ví , ví gaa hȩn hágá yɛ vu̵ səgən , kan ı̵́ be"ı̵́ vu̵ á̧ḿ , a̧máa ví ho̧ hȩn 'ya̧'a̧ yɛ vu̵ səgə né . »
+42012057	Moo ȩn		Yesu duu o̧ : « Moo ȩn ví səgən víí hȩn hí̧í̧lí̧ Tayɨɨ woo kan hȩn tóó vu̵ nélá ?
+42013004	~		I ho̧ nán wa̧nɓó' zu̵u̵ ka'andaddú̵ lig lú̵gú̵d Silówalı̵́ ka túḿ pi̧i̧ vu̵ yȩ , vu̵ nɔɔ sú̵'ú̵ . Tóó tée ví taa ba vu̵nnɔ kɔ́ hȩn ɓı̵́d mba nán Yerúsalem tóó vu̵ 'waapáddaa ?
+42013007	Moo ȩn		Ka ho̧ ná' máa , o̧d nán bab baalı̵́ : ‹ A̧m ho̧ ve' ta̧a̧nɔ́ wu̵ yɛ nɔ , mí baa ya soo zɔgɔb yɛ líid woo , a̧máa mí ho̧n né . A̧m du̵ gbɔgɔ la ú̵ . Moo ȩn ka lá hág té"á ? ›
+42013015	~		Ɨ́ 'yɛ́lı̵́ Yesu hí̧i̧du̵ ya̧g o̧ : « Nán zó̧ó̧ ví̧i̧g yɛ víw ! Ya víí 'waapád , ví buu ndaa víí , tóó tée , wamnde víí , moo bi zɔnnɔ mam zá̧ga̧ asawəlı̵́ náa ?
+42013018a	ȩná		Yesu duu o̧ : « Gbaŋ waalı̵́ Tayɨɨ woo man kan ȩná ? 
+42013018b	ȩná		Ba gú̵gú̵nɔ kan ȩná ?
+42013020	ȩná		Yesu duu faa o̧d vu̵ : « Míń gú̵gú̵n ví gbaŋ waalı̵́ Tayɨɨ woo kan ȩná ?
+42013025	~		Zá̧ga̧ woo , ı̵́ kíi aga wú̵ń tú̵' ya̧g dɔ́m . Tée víń dii gɔ́ŋ́ , víń béé bee , o̧ : ‹ Ɨ́ 'yɛ́lı̵́ vóó , i tú̵'u̵d vɔ́ ú̵ . › A̧máa , wú̵ń hí̧i̧d ví : ‹ Mí gaan ya kíí yaa né . ›
+42014005	~		duu o̧d vu̵ : « Nán tóó waa woo , tóó tée ndaa woo , ka wá̧á̧ dəə mammé zá̧ga̧ asawəlı̵́ tée , wú̵ń vunnɔ vaŋná náa ? »
+42014028	~		« Nán tóó sa̧a̧m víílí ka hí̧í̧ bi yo̧o̧ lig hɨɨ tée , a wá' hȩn a yo̧o̧n wu̵lı̵́ pȩ́ń . Tée a gaa sɨɨde bii ban maa sú̵'ú̵ pȩ́ń , ma a dəŋ ba'ad woo .
+42014031	nɛ́nná		Dɨ ı̵́ yo̧go̧ á̧ḿ , gbanaa tóó ka laa daga sɨɨ salı̵́ , ma ka dɨ kan fó̧ó̧ uzinɛɛre wa̧nɓó' . Ɨ́ tóó dɨ woo kan fó̧ó̧ uzinɛɛre gbɛg . Ɨ́ ka dɨ woo kan fó̧ó̧ uzinɛɛre wa̧nɓó' yȩ , kɔ́ nɛ́nná ? Taan moo pȩ́ń náa ?
+42014034	nɛ́nná		Yesu duu o̧d vu̵ : « Ta̧m zú̵g máa , hȩn to̧o̧ȩ , a̧máa ka san sı̵́ né tée , ba duu kɔ́gɔ nɛ́nná ?
+42015004	~		« Nán tóó sa̧a̧m víílí a 'yɛ́ mbee tȩmɛre , dágá ka ti tée , wú̵ń kéé ı̵́ vo' kɛ́gdágá zu̵u̵ kɛ́gdágá vu̵ gbɔ hó̧gó̧ , wú̵ń la soo ı̵́ dágá yȩ , há̧á̧ wú̵ń nuŋŋɔ . Ɨ́ yo̧go̧ náa ?
+42015008	~		Yesu duu zíd vu̵ ya̧g tóó o̧ : « Tow wakȩ́ȩ́ tóó ka dɨ kan sɨɨde yȩ́ń wa̧nɓó' , dágá ka tigi tée , sa vee lámmé , kəə lig woo , soo du̵u̵ na'a , há̧á̧ nuŋŋɔ náa ?
+42015026	ȩn		Bee nán ba'ad tóó , vigi : ‹ Ɓəə ȩn kɔ́y dɨ kíi baa vílílá ? ›
+42015029	ȩn		A̧máa hí̧i̧d ba' woo : ‹ A̧m ho̧ ó̧ , mí kɔ́m ba'ad ve' ɓu̵u̵lı̵́ na'a , mí man mɔ́ ba'ad né sá̧ḿ . Kóó ı̵́ yo̧go̧ si̧' , mɔ́ pú̵n mí ɓee waa aga , oo dȩ'ȩn zó̧ó̧ kan dan gboo vu̵ wu̵lı̵́ né sá̧ḿ .
+42016002	~		Ma bee nán hȩn tu̵lı̵́ woo pee , vigi : ‹ Mí ki moo tóó yúú móólȩ́ máalá̧ ! A̧m wá' hȩn yúú ba'ad móólȩ́ bɔ , moo mɔ́ń duu tu̵n sı̵́ hȩn míí ní . ›
+42016003	nɛ́nná		« Nán hȩn tu̵lı̵́ pee ka ki moo yȩ máa , o̧ zó̧ó̧ woolı̵́ : ‹ Baa lig míí wú̵ń vun sı̵́ ba'ad hȩn tu̵lı̵́ míí yɛlı̵́ yɔ . A̧máa mí baa hȩn mban né , sȩ́ḿ kɔ́n hȩn ɓá"ı̵́ á̧ḿ ! Yee míń kɔ́ nɛ́nná ?
+42016005	nɛ́nná		Bee nán ɓoo baa lig woo tóó vu̵ dágá dágá , dəŋ vi tóó : ‹ Baa lig míí duum dɨ nɛ́nná ? ›
+42016007	nɛ́nná		« Pig woo duu vi nán tóó : ‹ Ɨ́ móó máa , baa lig míí duum dɨ nɛ́nná ? › Ma hí̧i̧du̵ : ‹ Tú̵d ŋgóŋ́góŋ́ gbo̧o̧ tȩmɛre . › Ma ı̵́ hȩn tu̵lı̵́ pee duu o̧ddu̵ : ‹ A̧m ɓɛ ɗerwəl ɓoo móó yɔ , mɔ́ bíńda vo' ka'andaddú̵ . ›
+42016011	nóo		Tow i kɔ́n hȩn yȩ́ń yúú hȩn naa ɓı̵́d hágá yɛlı̵́ né tée , nóo wú̵ń pú̵ ví hȩn naa ı̵́ də́ń kəd máalá̧ ?
+42016012	nóo		Tow i kɔ́n hȩn yȩ́ń yúú hȩn dey voolı̵́ né tée , nóo wú̵ń pú̵ ví hȩn dáń ı̵́ víílá ?
+42017007	~		« Sa̧a̧m víílí máa , tóó tée nán tóó dɨ kan gba'a ka ɓúudu̵ hág , tóó tée , ka tu̵ddu̵ hȩn buulí má nɔ . Gba'a yȩ ka fíí ya babbı̵́ tée , ı̵́ buulí woo wú̵ń o̧ddu̵ : ‹ A̧m yaa vaŋná , mɔ́ mbaa ya hȩn lálı̵́lı̵́ › áa ?
+42017017	tɛ́lá		Ma Yesu o̧ : « Ho̧o̧ ka̧' nán wa̧nɓó' vu̵ yu̵ náa ? Nán kɛ́gdágá vu̵ dɨ voo tɛ́lá ?
+42017018	~		Nán tóó vu̵ taan bi ya na'an Tayɨɨ né , séý nán gáá yɛ naa ? »
+42017020	ndɛnná		Nán farísa vu̵ vi Yesu gbaŋ waalı̵́ Tayɨɨ woo ban yaa zag ndɛnná ? Ma Yesu hí̧i̧d vu̵ : « Gbaŋ waalı̵́ Tayɨɨ woo wú̵ń yaan kɔ́ ı̵́ hȩn nán ku̵u̵ ho̧n kan nɔ́ɔ́ wɔgɔ né .
+42017037	tɛ́lá		Sey waa duulí Yesu woo ku̵u̵ ki moo yȩ máa , vu̵ vigi : « Ba' vóó , wú̵ń kɔ́y yaga tɛ́lá ? » Yesu hí̧i̧d vu̵ : « Ya hȩn nɔm ku̵u̵ du̵u̵lı̵́ máa , gbu̵u̵g vu̵ sú̵g wu̵lı̵́ . »
+42018018	née		Ɨ́ nii Yúúda tóó vi Yesu o̧ : « Akaw to̧o̧ , míń kɔ́ née pȩ́ń míń nuŋ vágád ı̵́ káákáálá ? »
+42018019	Moo ȩn		Ma Yesu hí̧i̧du̵ : « Moo ȩn mɔ́ been nán to̧o̧lá ? Nán to̧o̧ tóó pɛ́lı̵́ , séý wu̵ Tayɨɨɨ dágá 'nɛ́ŋ́ .
+42018026	nóo		Nán ku̵u̵ ki moo yȩ máa , vu̵ o̧ : « A ı̵́ yo̧go̧ tée , nóo wú̵ń sə́ddá ? »
+42018036	ȩná		Sey ka ki dúú ku̵u̵ dɨ daa ya̧a̧lȩ́ máa , vi : « Ɓəə ȩná ? »
+42018041	ȩná		« Mɔ́ hí̧í̧ a̧n kɔ́d bi ȩná ? » Ma hí̧i̧du̵ : « Ɨ́ 'yɛ́lı̵́ míí , ka míń ho̧ nɔ́ɔ́e . »
+42019007	~		Nán 'waapád ku̵u̵ ho̧ hȩn yȩ ná' máa , vu̵ ŋguu moo , vu̵ o̧ : « Nán yȩ dɨ sílí kíi nán hȩn ɓı̵́d kɔ́lı̵́ yȩ woolı̵́ . »
+42019023	Moo ȩn		Moo ȩn mɔ́ 'yɛ́n sɨɨde míí nán sɨɨde tu̵lı̵́ woolı̵́ nélá ? Ka míń fíí ya nuŋ kan mam woo á̧ḿ . ›
+42019031	Moo ȩn		Nán tóó ka vi ví : ‹ Moo ȩn ví buuwu̵lá ? › , tée i hí̧i̧du̵ : ‹ Ɨ́ 'yɛ́lı̵́ hí̧í̧wo̧ ó̧ . › »
+42019033	Moo ȩn		Ku̵u̵ dɨ wamnde waa pee buuní máa , ı̵́ wamnde aga vu̵ vi vu̵ : « Moo ȩn ví buuwu̵lá ? »
+42020002a	ȩná		vu̵ vigi : « A̧m o̧d vɔ́ ú̵ , mɔ́ kɔ́ hȩn yȩ vu̵ kan néélȩ́ woo ȩná ? 
+42020002b	nóo		Mɔ́ nuŋŋɔ nóo woolı̵́lá ? »
+42020005a	~		A̧máa vu̵ fan moo ya voolı̵́ , vu̵ o̧ : « Aa hí̧í̧ ví : 
+42020005b	Moo ȩn		‹ Tayɨɨ wu̵ pú̵gu̵ › tée , wú̵ń vi ba ví : ‹ Moo ȩn ví fȩȩn moo Yoohá̧na woo nélá ? ›
+42020013	nɛ́nná		« Pig woo máa , ı̵́ bab aga o̧ : ‹ Míń kɔ́ nɛ́nná ? Míń ba' waa hí̧í̧lí̧ míí yɛ nɔ , ya tóó tée , vú̵ń gu̵g kiddu̵ tɔ́ggú̵ . ›
+42020015	nɛ́nná		Vu̵ nɛŋŋɔ vud babbı̵́ , vu̵ nɔɔwo̧ . Yee tée , ı̵́ bab aga wú̵ń kɔ́ vu̵ nɛ́nná ?
+42020017	~		A̧máa Yesu tə́g vu̵ , o̧ : « Ví ki hȩn debtere ka o̧ yȩ áa ? ‹ 'Yɛgɛ nán hȩn yo̧o̧lȩ́ ku̵u̵ ma gbɔ máa , wu̵ duu tii 'yɛgɛ ndam .
+42020023	~		A̧máa Yesu ka gaa kɛb voo yȩ máa , o̧d vu̵ :
+42020024a	nóo woolá		« I tú'un ya sɨɨde lámba sú̵ú̵lı̵́ sú̵ nɔ . Fóto yɛ , fóto nóo woolá ? 
+42020024b	Nóo		Nóo bíńda hȩn yɛlá ? » Vu̵ hí̧i̧du̵ : « Gbanii woo nɔ . »
+42020033	nóo woo		Ma zá̧ga̧ nímní nɔmmélȩ́ tée , wakȩ́ȩ́ yȩ wú̵ń mbaa kȩ́ȩ́ nóo woo dágálá ? Moo ya voo gúndɛm á̧ḿ , ká vu̵ ééwu̵ sú̵'ú̵ ! »
+42020041	née		Pig woo máa , Yesu vi vu̵ : « Dəŋ née nán vu̵ o̧ ı̵́ nán sənné ba Daavíd aa yéeɨlá ?
+42020044	née		« Daavíd ká beewu̵ ba ı̵́ 'yɛ́lı̵́ bii , ma dəŋ née ı̵́ nán sənné mbaa aa yéelá ? »
+42021007a	ndɛnná		Ma nán vu̵ vi Yesu : « Akaw , hȩn yȩ vú̵ń ya̧ zag ndɛnná ? 
+42021007b	ȩná		Hȩn a tú' zaa ban ya̧ sú̵'ú̵ máa , wu̵ ȩná ? »
+42022009	tɛ́lá		Ma vu̵ hí̧i̧du̵ : « Mɔ́ hí̧í̧ oo la mbɔ́g ya woo tɛ́lá ? »
+42022011	tɛ́lá		ví o̧d ı̵́ kíi aga : ‹ Akaw o̧ lig ba ii lá hȩn lálı̵́ páska kan waa duulí bii vu̵ wu̵lı̵́ máa , ba dɨ tɛ́lá ? ›
+42022027	Nóo		Nóo nán gbo̧o̧lá ? Nán ı̵́ ka mbaa ya hȩn lálı̵́lı̵́ má naa ? Tóó tée , nán ı̵́ ka kɔ́ddu̵ ba'ad má naa ? Ɨ́ ka mbaa ya hȩn lálı̵́lı̵́ máa , wu̵ mbaga . A̧máa ı̵́ míí , mí mbaa víílí sa̧a̧mé kɔ́ ı̵́ nán ba'ad wɔgɔ .
+42022046	Moo ȩn		Ka ho̧ vu̵ la ná' máa , o̧d vu̵ : « Moo ȩn ví nəlá̧ ? I níḿ dɔg , i ɓá' Tayɨɨɨ , moo ka vín dɔ́ hȩn zo"ı̵́lı̵́ . »
+42022064	Nóo		« Nóo ku̵u̵ zúgumá ? A̧m moo dɔg sı̵́ moo anábi móó pee na ! »
+42022071	Moo ȩn		Ku̵u̵ ki ı̵́ yo̧go̧ máa , vu̵ ó̧ń : « Moo ȩn ba duu soo ví nán ya̧g du̵lı̵́ vu̵lá ? Aga ba ki ví moo ya̧g woolı̵́ sú̵'ú̵ náa ? »
+42023022a	~		Pilád duu vi vu̵ moo do' ta̧a̧nɔ́ woo , o̧ : 
+42023022b	ȩná		« Kɔ́ hȩn ɓı̵́d woo ȩná ? Mí ho̧n míí hȩn tóó woolı̵́ ka maanɔ nɔm né . Moo woo nɔ , míń o̧d vu̵ u̵u̵ gbɔ́gɔ tée , míń kéé gbɔgɔ la . »
+42023031	~		« Vu̵n kɔ́ kan la' há̧a̧d ı̵́ yo̧go̧ ma dan tóó la' 'wɔ́gga ? »
+42024005	Moo ȩn		Dú̵ú̵ kɔ́ wakȩ́ȩ́ pee vu̵ , vu̵ sú'u nɔ́ɔ́ hágá hágá . Nán pee vu̵ o̧d vu̵ : « Moo ȩn ví soo ı̵́ zá̧a̧d sa̧a̧m nán nɔm voolı̵́lá ?
+42024017	ȩn		Yesu vi vu̵ : « Ví mba moo woo ȩn , ya 'yȩ́ȩm víílílá ? » Ma vu̵ dii kan zó̧ó̧ ví̧i̧ní .
+42024019	ȩná		Yesu duu vigi : « Ȩná ? » Vu̵ hí̧i̧du̵ : « Moo Yesu nán Naazaréd tóó woo , wu̵ anábi ká dɨ kan néélȩ́ ba'ad tóó kɔ́lı̵́ , kan moo moolȩ́ tíŋ́ Tayɨɨ woolı̵́ , kan tíŋ́ zig yɛ voolı̵́ 'waapád má nɔ .
+42024025	~		Yesu ka ki moo yȩ máa , o̧d vu̵ : « Ví nán moo taalı̵́ pɛ́lı̵́ . Ví fȩȩn moo anábi voo ku̵u̵ o̧ 'waapád yȩ vaŋná né á̧ḿ .
+42024038a	Moo ȩn		A̧máa Yesu o̧d vu̵ : « Zó̧ó̧ tó̧' ví moo ȩná ? 
+42024038b	Moo ȩn		Moo ȩn moo faalı̵́ ka dɔ́ zó̧ó̧ víílí ı̵́ yo̧go̧lá ?
+43001019	nɔ́nná		Sey tóólı̵́ máa , nán Yúúda vu̵ ba' nán hȩn ha"ı̵́ tóó vu̵ kan nán Levíd tóó vu̵ u̵u̵ lúú Yerúsalemmé , u̵u̵ laa Yoohá̧na woolı̵́ , u̵u̵ vigi : « Mɔ́ nɔ́nná ? » Ma ya̧g du̵lı̵́ Yoohá̧na woo , wu̵ yɛ nɔ .
+43001021	née		Ma vu̵ duu vigi : « Kɔ́ woo née ? Mɔ́ Elíaa ? » Hí̧i̧d vu̵ : « Mí wu̵ yu̵ pɛ́lı̵́ . » Ma vu̵ duu vigi : « Mɔ́ anábi pee naa ? » Duu hí̧í̧ : « Áá'a . »
+43001022a	nɔ́nná		Ku̵u̵ ki máa , vu̵ duu vigi : « Máa mɔ́ nɔ́nná ? 
+43001022b	nɛ́nná		Oo la o̧d nán ku̵u̵ ba' vɔ́ ya yɛ vu̵ nɛ́nná ? Aga mɔ́ o̧ móó bin nɔ́nná ? »
+43001025	Moo ȩn		Vu̵ duu vigi moo yɛ : « Móo ı̵́ nán sənné pɛ́lı̵́ , tóó tée Elía wu̵ , tóó tée anábi pee nɔ pɛ́lı̵́ , ma moo ȩn mɔ́ woo nán vu̵ mam Tayɨɨlá ? »
+43001038a	ȩná		Yesu tii daa nɔ́ɔ́ , ho̧ vu̵ , vu̵ dugu , vi vu̵ : « Ví soo ȩná ? » Vu̵ hí̧i̧du̵ : 
+43001038b	nóo		« Rábi ! ( Yéé woo tú' ‹ Akaw . › ) Mɔ́ń sí nóo woolı̵́lá ? »
+43001046	~		Ma Natanaɛ́l hí̧i̧du̵ : « Hȩn du̵u̵ tóó wú̵ń yaa kaa Naazaréddı̵́ áa ? » Filíb duu o̧ddu̵ : « A̧m yaa tée , mɔ́ń ho̧ . »
+43001048	tɛ́lá		Natanaɛ́l ka ki moo Yesu woo máa , vigi : « Mɔ́ gaan tɛ́lá ? » Yesu hí̧i̧du̵ : « Sey Filíb ka been mɔ́ lá né , káḿ dɨ mbaalı̵́ zɔgɔb do̧o̧lȩ́ máa , mí ho̧mmɔ́ . »
+43002004	~		A̧máa Yesu hí̧i̧du̵ : « Na'á , moo móó wu̵lı̵́ pɛ́lı̵́ . Sey míí ya̧n ndɛ́ né . »
+43002018a	~		Ma nán Yúúda vu̵ vigi : « Káḿ kɔ́ hȩn yȩ vu̵ máa , a̧m kɔ́d vɔ́ hȩn sa̧ga̧ tóó a tú' Tayɨɨ ba wu̵ pú̵m néélȩ́ woo pȩ́ń . »
+43002018b	~		
+43003004	née		Níkodém vigi : « Nán ka gbo̧o̧ sú̵'ú̵ tée , dəŋ née ku̵u̵ duu ha̧a̧wo̧ ha̧a̧lȩ́ 'maŋŋá ? Wú̵ń duu fíí dɔ́n sii na' woo woolı̵́ , ma vú̵ń duu ha̧a̧nɔ né ! »
+43003009	nɛ́nná		Ma Níkodém duu vigi : « Hȩn woo wú̵ń kɔ́y nɛ́nná ? »
+43003012	née		Káń o̧d ví moo hȩn ı̵́ hágá yɛlı̵́ vu̵ , kíí fȩȩ né yɛ , víń dəŋ née fȩȩ moo ı̵́ a̧n o̧d ví yúú hȩn ı̵́ ku̵u̵ dɨ be"ı̵́ máalá̧ !
+43004009	née		Ma wakȩ́ȩ́ pee hí̧i̧du̵ : « A̧máa mɔ́ móó nán Yúúdaɨ . Kɔ́ née mɔ́ o̧ a̧n pú̵ bi mammelá ? Mí wakȩ́ȩ́ Samaríi pɛ́láa ? » ( Moo nán Yúúda vu̵ sɛ́n nán Samaríi vu̵ né . )
+43004011	tɛ́lá		Wakȩ́ȩ́ pee o̧ddu̵ : « Ba'á , ví kan sóo pɛ́lı̵́ , dəə mam yɛ sú ú á̧ḿ ; mam dȩ"ȩ́ yȩ , víń nuŋŋɔ tɛ́lá ?
+43004027a	ȩná		Sey ku̵u̵ dɨ moo yȩ mbalı̵́ máa , waa duulí Yesu woo vu̵ fíí ya , ma vu̵ ho̧go̧ dɨ moo mbalı̵́ kan wakȩ́ȩ́ tóó nɔ , la' vu̵ la fid . Kóó ı̵́ yo̧go̧ si̧' , nán tóó vinnɔ moo tóó né . Vu̵ vinnɔ : « Mɔ́ vigi ȩná ? » máa né . Vu̵ vinnɔ : 
+43004027b	Moo ȩn		« Moo ȩn mɔ́ mba moo kannɔlá ? » máa né á̧ḿ .
+43005012	Nóo		Vu̵ vigi : « Nóo o̧m : ‹ A̧m gaŋ píg móó , mɔ́ 'yȩmma ó̧ › lá ? »
+43005044	née		Ɨ́ víí aga kíí hí̧í̧ ná'ané ya víílí , kíí hí̧í̧ Tayɨɨ aga a wu̵ na' bi sá yȩ , víń dəŋ née fȩȩ moo woolá ?
+43005047	née		A̧máa i fȩȩn moo Múúsa ka bíńda yȩ vu̵ né tée , víń dəŋ née fȩȩ moo káń o̧ yȩ vu̵lá ? »
+43006005	téé		Yesu luu dɔg nɔ́ɔ́ yúba ho̧ dúú vu̵ dɨ yaalı̵́ woolı̵́ du̵u̵n də́ń né , ma o̧d Filíb : « Báń nuŋ ví beréd téé , báń hɨ ví moo dúú yȩ u̵u̵ nuŋ hȩn lálı̵́lá ? »
+43006009	née		« Náásá̧ŋ́ waa tóó dɨ kan beréd yɛlı̵́ kígi nɔ́nɔ́ , kan ze' waa idú . A̧máa hȩn ı̵́ yo̧go̧ yȩ wú̵ń dəŋ née maa dúú yȩ vu̵lá ? »
+43006025	ndɛnná		Dúú ku̵u̵ nuŋ Yesu mam dən máa , vu̵ vigi : « Akaw , mɔ́ yaa yɛlı̵́ zag ndɛnná ? »
+43006028	nɛ́nná		Ku̵u̵ ki máa , vu̵ duu vigi : « Oo kɔ́ ba'ad Tayɨɨ woo nɛ́nná ? »
+43006030a	ȩn		Ma vu̵ duu vigi : « Mɔ́ń kɔ́ hȩn sa̧ga̧ woo ȩn , oo ho̧ ma oo 'yɛ́ zó̧ó̧ móólȩ́lá ? 
+43006030b	ȩná		Mɔ́ń kɔ́ ba'ad gbo̧o̧ woo ȩná ?
+43006042	née		Vu̵ o̧ : « Yesu yȩ , waa Yu̵u̵séfu woo nɔ pɛ́láa ? Ba gaan ví ba' woo kan na' woo á̧ḿ náa ? Dəŋ née ka o̧ ba bin sí zu̵u̵ be"ı̵́lá ? »
+43006052	née		Nán Yúúda ku̵u̵ ki moo yȩ máa , vu̵ fan moo yúú moo woo yȩlȩ́ , vu̵ o̧ : « Dəŋ née wú̵ń pú̵ ba ví fó̧ó̧ yo̧go̧ woo , báń lá vílá ? »
+43006060	Nóo		Nán ɓu̵u̵lı̵́ na'a sa̧a̧m waa duulí Yesu woo voolı̵́ , ku̵u̵ ki moo yȩ máa , vu̵ o̧ : « Moo máa yȩ təə ú̵ náa ! Nóo wú̵ń duulá ? »
+43006062	nɛ́nná		A̧máa i ho̧ ı̵́ míí Tayɨɨ ka ba'an ya yɛ , a̧n ɗáá dɔg ya mbaalı̵́ míí ká tíŋ́ peelı̵́ tée , víń o̧ nɛ́nná ?
+43006068	nóo		Simɔ́ŋ Piɛ́r hí̧i̧du̵ : « Ɨ́ 'yɛ́lı̵́ vóó , vɔ́ń laa nóo woolı̵́lá ? Mɔ́ dɨ kan moo ı̵́ ku̵u̵ pú̵ nánán vu̵ vágád káákáá má nɔ .
+43007011	tɛ́lá		Nán Yúúda ku̵u̵ soowu̵ ya mam vúnnílí̧ máa , vu̵ vi : « Dɨ tɛ́lá ? Dɨ tɛ́lá ? »
+43007015	née		Kɔ́ la nán Yúúda vu̵ ɓá' , vu̵ o̧ : « Dəŋ née nán yȩ ka kúgun hȩn né , ka gaa hȩn na'a yȩlá ? »
+43007019	Moo ȩn		Múúsa ká wu̵ pú̵n ví moo Tayɨɨ woo náa ? A̧máa kóó nán dágá aga víílí sa̧a̧mé , duun moo Tayɨɨ woo né . Moo ȩn ví soo bi nɔɔnɔ́lá ? »
+43007020	Nóo		Ma dúú vu̵ o̧ddu̵ : « Yigid ɓı̵́d tóó kɔ́mmɔ́ . Nóo soom bi nɔɔmɔ́lá ? »
+43007023	moo ȩn		Nán a dɔ́ do̧ŋ zá̧ga̧ asawəlı̵́ moo dooká Múúsa woo a lı̵́d sá tée , káń za̧a̧ nán fó̧ó̧ woo 'waapád zá̧ga̧ asawəlı̵́ máa , moo ȩn ví kɔ́n zó̧ó̧ yȩ́ȩ́lá ?
+43007035	téé		Nán Yúúda ku̵u̵ ki máa , vu̵ víń ya voolı̵́ : « Wú̵ń laa téé báń nugunɔ ví nílá ? Wú̵ń laa nán Yúúda ı̵́ ku̵u̵ hɨ'ɨ la yúkaa máa vooláa ? Tóó tée wú̵ń la tú'ud nán Gɛrɛ́g vu̵ yu̵ hȩnnaa ?
+43007036	ȩná		Moo woo ka o̧ : ‹ Víń soonɔ́ , a̧máa víń nugun mí ní , moo víń ya̧ ya mbaalı̵́ míí mban né á̧ḿ › yȩ , tú' ȩná ? »
+43007041	~		Nán tóó vu̵ o̧ voo : « Ɨ́ nán sənné wu̵ . » Tóó vu̵ o̧ : « A̧máa ı̵́ nán sənné sú̵u̵ wú̵ń yaa hág Gáliléeláa ?
+43007045	Moo ȩn		Só̧ó̧ze ı̵́ lig hȩn ha"ı̵́ ku̵u̵ vȩ́' laa gbanaa hȩn ha"ı̵́ voolı̵́ , kan nán farísa vu̵ máa , nán farísa vu̵ vi vu̵ : « Moo ȩn ví pa̧ga̧n Yesu ya nélá ? »
+43007048	~		Nán tóó sa̧a̧m ı̵́ nii Yúúda voolı̵́ , kan nán farísa tóó vu̵ fȩȩ moo woo sá'áa ?
+43007051	~		« Tow aa kin ví ya̧g nánán tóó woo né , aa gaan ví hȩn ka kɔ́n né pȩn , tée dooká baa ví o̧ aa sə̧' ví moo yúú woolı̵́ há̧ná á̧a̧ ? »
+43008005	nɛ́nná		Dooká Múúsa woo o̧ wakȩ́ȩ́ ı̵́ yo̧go̧ máa , ba oo gbóo vu̵ kan 'yɛgɛ nɔɔ ó̧ . Ɨ́ móó máa , mɔ́ o̧ móó nɛ́nná ? »
+43008010	téé		Ma Yesu duu luu dɔg nɔ́ɔ́ woo yúba , vigi : « Dan kȩ́ȩ́ , nán pee vu̵ dɨ voo téé ? Nán tóó sə̧'ə̧n moo yúú móólȩ́ náa ? »
+43008019	tɛ́lá		Ma vu̵ vigi : « Ba' móó sú̵u̵ dɨ tɛ́lá ? » Yesu hí̧i̧d vu̵ o̧ : « Ví gaan mí ní . Ví gaan Ba' míí ní á̧ḿ . Ka víń gaanɔ́ tée , ka víń gaa Ba' míí á̧ḿ . »
+43008025a	nɔ́nná		Ma vu̵ vigi : « Yee mɔ́ nɔ́nná ? » 
+43008025b	~		Yesu hí̧i̧d vu̵ : « Hȩn káń o̧d ví diga dəné woolı̵́ .
+43008033	Moo ȩn		Vu̵ hí̧i̧du̵ : « Vɔ́ vóó zig Ibrahí̧í̧ma woo vu̵ yu̵ , ká vɔ́ mbaan gba'a nán tóó woo né sá̧ḿ , kóó sey woo tɛ́lá ! Moo ȩn káḿ o̧ : ‹ Víń vúd zaŋ gba'alı̵́ › lá ? »
+43008043	Moo ȩn		Moo ȩn ví kin moo míí vu̵ nélá ? Moo ví kan néélȩ́ moo míí kilí pɛ́lı̵́ .
+43008046a	Nóo		Nóo víílí sa̧a̧mé wú̵ń tú'un hȩn ɓı̵́d míí káń kɔ́ máalá̧ ? 
+43008046b	moo ȩn		Káń o̧d ví moo yȩ́ń máa , moo ȩn ví fȩȩ nélá ?
+43008053	nɔ́nná		Ba' vóó Ibrahí̧í̧ma nɔɔ sú̵'ú̵ ; mɔ́ na' mbaga áa ? Anábi vu̵ nɔɔ sú̵'ú̵ á̧ḿ . Mɔ́ taa móó ba bin nɔ́nná ? »
+43008057	~		Nán Yúúda ku̵u̵ ki máa , vu̵ o̧ddu̵ : « Ve' móó ya̧n ná vo' nɔ́nɔ́ né á̧ḿ , ma mɔ́ o̧ ba bin ho̧ Ibrahí̧í̧ma á̧a̧ ! »
+43009002	~		waa duulí Yesu woo vu̵ vi Yesu moo yɛ : « Akaw , nán yȩ aga wu̵ kɔ́ hȩn ɓı̵́ddaa ? Tóó tée , ı̵́ ha̧a̧lȩ́ woo vu̵ yu̵ , ma vu̵ ha̧a̧wo̧ yə̧mnáa ? »
+43009010	née		Ku̵u̵ ki máa , vu̵ vigi : « Dəŋ née káḿ ho̧ nɔ́ɔ́ yɛlá ? »
+43009012	tɛ́lá		Ma vu̵ duu vigi : « Nán sú̵u̵ dɨ tɛ́lá ? » Hí̧i̧d vu̵ : « Mí gaa né . »
+43009016	née		Nán tóó vu̵ sa̧a̧m nán farísa voolı̵́ ku̵u̵ ki máa , vu̵ o̧ : « Yesu yȩ yaan Tayɨɨ woolı̵́ né , moo na'an woo zá̧ga̧ asawə né . » A̧máa nán tóó vu̵ o̧ voo : « Dəŋ née nán hȩn ɓı̵́d kɔ́lı̵́ ka kɔ́ hȩn sa̧ga̧ vu̵ ı̵́ yo̧go̧lá ? » Ma vu̵ mbaa ya̧g kə́dkə́d .
+43009017	née		Pig woo máa , vu̵ duu vi nán yə̧m pee : « Ka kɔ́m káḿ ho̧ nɔ́ɔ́ yȩ , mɔ́ o̧ móó née yúú woolı̵́lá ? » Hí̧i̧d vu̵ : « Anábiɨ náa ? »
+43009019	née		vu̵ vi vu̵ : « Nán yɛ waa víí naa ? Víi ha̧a̧wo̧ yə̧mnáa ? Dəŋ née ka ho̧ nɔ́ɔ́ 'ya̧'a̧ yɛlá ? »
+43009026a	nɛ́nná		Vu̵ duu vigi : « Kɔ́m nɛ́nná ? 
+43009026b	née		Dəŋ née ka kɔ́ ma káḿ ho̧ nɔ́ɔ́lá ? »
+43009027	ȩná		Ma duu hí̧i̧d vu̵ : « Mí o̧d ví sú̵'ú̵ , ma ví kin mí ní . Ví hí̧í̧ bi duu ki sı̵́ tóó ȩná ? Ví hí̧í̧ bi tiin waa duulí woo vu̵ né á̧ḿmaa ? »
+43009034	~		Ku̵u̵ ki moo yȩ máa , vu̵ hí̧i̧du̵ : « Vu̵ ha̧a̧m də́ń kəd nán hȩn ɓı̵́d kɔ́lı̵́ɨ ; ma mɔ́ hí̧í̧ bi tú'ud vɔ́ moo Tayɨɨa ? » Ma vu̵ daa nɛŋŋɔ vud gbɔ la lig sú̵ggı̵́ nán Yúúda voolı̵́ gɔ́ŋ́ .
+43009036	nóo		Nán pee hí̧i̧du̵ ya̧g o̧ : « Ɨ́ 'yɛ́lı̵́ míí , wu̵ nóo ma míń 'yɛ́ zó̧ó̧ míí woolı̵́lá ? »
+43010020	Moo ȩn		Nán ɓu̵u̵lı̵́ na'a vu̵ o̧ : « Yigid ɓı̵́d kɔ́gɔ ú̵ ; yı̵́gı̵́d sú̵'ú̵ náa ? Moo ȩn ví ki moo woolá ? »
+43010021	~		A̧máa nán tóó vu̵ o̧ voo : « Moo yȩ moo nán yigid ɓı̵́d woo nɔ pɛ́lı̵́ . Yigid ɓı̵́d tóó kɔ́n nán yə̧m vu̵ ho̧n nɔ́ɔ́ né náa ? »
+43010024	sey woo téé		Nán Yúúda vu̵ gbɔ daa kan Yesu , vu̵ vigi : « Vɔ́ń laam há̧á̧ sey woo téé ? Móo ı̵́ nán sənnáa ? A̧m o̧d vɔ́ ya ha̧d . »
+43010032	téé		Ma Yesu o̧d vu̵ : « Ba'á pú̵n néélȩ́ ba'ad du̵u̵ kɔ́lı̵́ ɓu̵u̵lı̵́ na'a , ma víi bi gbóon kan 'yɛgɛ nɔɔ moo ba'ad ı̵́ téé dágálá ? »
+43010036	née		Ɨ́ míí , Ba'á yeen , ba'an ya hágá yɛlı̵́ . Dəŋ née ví o̧ ba mín haa Tayɨɨɨlá ? Moo káń o̧ ba bin Waa Tayɨɨ woo nɔ má naa ?
+43011034	tɛ́lá		vi vu̵ : « Ví 'yɛ́gɛ dɨ tɛ́lá ? » Vu̵ hí̧i̧du̵ : « A̧m ya ho̧ sı̵́nná , ba'á ! »
+43011047	nɛ́nná		Gbanaa hȩn ha"ı̵́ vu̵ kan nán farísa vu̵ ku̵u̵ ki máa , vu̵ su̵g ı̵́ nii moo sə̧"ȩ́ vu̵ , vu̵ o̧ : « Yee báń kɔ́ ví nɛ́nná ? Yesu yȩ baa kɔ́ hȩn sa̧ga̧ vu̵ ɓu̵u̵lı̵́ na'a .
+43011056	~		Vu̵ baa soo Yesu , vu̵ víń ya voolı̵́ ya ku̵u̵ dii na'am gbo̧o̧ lig hȩn ha"ı̵́lı̵́ máalȩ́ : « Ví taa Yesu ban yaa mam vúnnílí̧ á̧a̧ ? Kóó pɛ́láa ? »
+43012005	Moo ȩn		« Moo ȩn vu̵ gín kúḿ yȩ mba booro tȩmɛre ta̧a̧nɔ́ á̧ḿ , pú̵n nán gíḿ vu̵ nélá ? »
+43012027	nɛ́nná		Yesu duu o̧d vu̵ : « 'Ya̧'a̧ yɛ zó̧ó̧ tó̧'o̧nɔ́ . Yee míń o̧ nɛ́nná ? Ba'á , yee tée míń o̧ a̧m há' hȩn ndɔ́gɔné yȩ la áa ? A̧máa mí yaa də́ń moo hȩn ndɔ́gɔné yȩ nɔ .
+43012034a	née		Ma dúú vu̵ vigi : « Vɔ́ ki debtere Tayɨɨlı̵́ ı̵́ nán sənné ban mbaa káákáá náa ? Kɔ́ née mɔ́ o̧ ba vú̵ń dɔgɔn ı̵́ Tayɨɨ ka ba"u̵ ya yɛlı̵́ yɛ yúba pȩ́ń máalá̧ ? 
+43012034b	nɔ́nná		Ɨ́ Tayɨɨ ka ba"u̵ ya yɛlı̵́ sú̵u̵ , nɔ́nná ? »
+43012038a	Nóo		Anábi Esáya ká moo moo yȩ , ma hȩn yȩ kɔ́y ı̵́ yo̧go̧ , ká o̧ : « Ɨ́ 'yɛ́lı̵́ vóó , nóo fȩȩ moo vóó ya̧gá̧lá ? 
+43012038b	Nóo		Nóo ho̧ nag néélȩ́ ı̵́ 'yɛ́lı̵́ Tayɨɨ woolá ? »
+43013025	nɔ́nná		Ma ɓəgga yúú Yesu woolı̵́ haalı̵́ , vigi : « Ba'á , nán woo nɔ́nná ? »
+43013036	tɛ́lá		Simɔ́ŋ Piɛ́r vi Yesu : « Ɨ́ 'yɛ́lı̵́ vóó , mɔ́ń dɨ laalı̵́ tɛ́lá ? » Yesu hí̧i̧du̵ : « Ya a̧n dɨ laalı̵́ wu̵lı̵́ yȩ , mɔ́ń dɨ kan néélȩ́ duun mí 'ya̧'a̧ yɛ né . A̧máa sey tóólı̵́ tée , mɔ́ń duun . »
+43013037	ȩn		Ma Piɛ́r o̧ddu̵ : « Ɨ́ 'yɛ́lı̵́ míí , ȩn wú̵ń há'an 'ya̧'a̧ yɛlá ? Míń pú̵ fó̧ó̧ míí moo móólȩ́ . »
+43014002	~		Ya mbaalı̵́ dɨ kíi Ba' míí woolı̵́ ɓu̵u̵lı̵́ na'a . Kan ı̵́ yo̧go̧ pɛ́lı̵́ tée , ka míń o̧d ví bin laad ví ya mbaalı̵́ mbɔ́ggáa ?
+43014005	née		Ma Tomás vigi : « Ba'á , vɔ́ gaan ya a̧m laan wu̵lı̵́ yȩ né , tée vɔ́ń dəŋ née gaa hi̧naa woolá ? »
+43014009	née		Yesu ka ki máa , o̧ddu̵ : « Filíb , mí mbaa kan ví gbó̧ŋ́ na'a , mɔ́ gaan mí lá náa ? Nán ka ho̧n sú̵'ú̵ tée , ho̧ sı̵́ Ba'á ú̵ . Kɔ́ née mɔ́ o̧ : ‹ A̧m tú'ud vɔ́ Ba'á sú̵ nɔ › máalá̧ ?
+43014022	Moo ȩn		Yúúdas ( ı̵́ Iskarióɨ pɛ́lı̵́ ) o̧ddu̵ : « Ba'á , moo ȩn mɔ́ hí̧í̧ aga oo wu̵ ho̧ bi , nán tóó u̵u̵ ho̧ bi sálá ? »
+43016005	tɛ́lá		'Ya̧'a̧ yɛ máa mí dɨ laalı̵́ ı̵́ ka ba'an ya yɛ woolı̵́ . Nán tóó víílí sa̧a̧mé wú̵ń vin mí : ‹ Mɔ́ dɨ laalı̵́ tɛ́lá ? › máa né .
+43016017	nɛ́nná		Waa duulí woo tóó ku̵u̵ ki máa vu̵ víń ya voolı̵́ : « Moo ka o̧d ba ví yȩ tú' nɛ́nná ? ‹ Zaa tée víń ho̧n mí sı̵́ né , a̧máa zaa tée víń duu ho̧n pig woolı̵́ . › Duu o̧ : ‹ Moo mí dɨ laalı̵́ Ba'á woolı̵́ › máalá̧ ? »
+43016018	Moo ȩn		Vu̵ duu vi : « Moo ȩn ka o̧ ‹ zaa tɛ́ nɔ , › ‹ zaa tɛ́ nɔ › lá ? Ba gaan ví hȩn ka o̧n yȩ né . »
+43018004	nɔ́nná		Yesu ka gaa hȩn ka dɨ yaalı̵́ yúú woolı̵́ 'waapád yȩ sú̵'ú̵ máa , séé la , vi vu̵ : « Ví soo nɔ́nná ? »
+43018007	nɔ́nná		Yesu duu vi vu̵ : « Ví soo nɔ́nná ? » Ma vu̵ duu hí̧í̧ : « Yesu nán Naazaréddu̵ . »
+43018011	~		A̧máa Yesu o̧d Piɛ́r : « A̧m doo pag naa móó la fə́ə́ woolı̵́ . Hȩn ndɔ́gɔné Ba'á ka pú̵n yɛ , séý míń fȩȩwo̧ ó̧ náa ? »
+43018021	ȩná		Mɔ́ vín moo ȩná ? A̧m vi nán ku̵u̵ ki moo míí máa vu̵ yu̵ , mí baa o̧d vu̵ moo nɛ́nná ? Vu̵ gaa voo moo káń o̧d vu̵ máa ó̧ . »
+43018023	Moo ȩn		Ma Yesu hí̧i̧du̵ : « Káń moo moo ɓı̵́ddɨ tée , mɔ́ o̧n ya . A̧máa a̧n moo moo to̧o̧ȩ tée , moo ȩn káḿ dȩgȩná ? »
+43018029	ȩn		Moo woo nɔ ma , guvɛrnə́ər Pilád vúd ya voolı̵́ , vi vu̵ : « Dom woo ȩn kíí pa̧ŋ yaan yúú nán yɛ woolı̵́lá ? »
+43018035	ȩná		Pilád duu vigi : « Mí nán Yúúdaɨ pɛ́lı̵́ náa ? Aga zig móó kan gbanaa hȩn ha"ı̵́ vu̵ , vu̵u̵ dɔm míílí̧ nagá . Máa mɔ́ kɔ́ ȩná ? »
+43018038	ȩná		Ma Pilád duu vigi : « Moo yȩ́ń sú̵u̵ ȩná ? » Sey Pilád ka moo moo yȩ 'waa máa , duu vúd laa nán Yúúda voolı̵́ , o̧d vu̵ : « Mí nugun moo tóó ɓı̵́dná yúú nán yȩ woolı̵́ né .
+43019009	tɛ́lá		Duu fíí dɔ́ la ke'emé , vi Yesu : « Mɔ́ yaa móó yaga tɛ́lá ? » Yesu hí̧i̧n ya̧g né .
+43019015	~		A̧máa vu̵ dɔ́b voo moo , vu̵ o̧ : « Nɔɔwo̧ la ú̵ ! Nɔɔwo̧ la ú̵ ! Ga"u̵ la la' vbagadı̵́ ! » Pilád vi vu̵ : « A̧n ga' gbanaa víí naa ? » Gbanaa hȩn ha"ı̵́ vu̵ hí̧i̧du̵ : « Gbanaa vóó wu̵ gbanii nán Róma voo nɔ dágá . »
+43020013	Moo ȩn		Vu̵ vigi : « Na'á , moo ȩn mɔ́ ká̧ŋ́ŋá ? » Hí̧i̧d vu̵ : « Moo ku̵u̵ gaŋ ı̵́ 'yɛ́lı̵́ míí luu yɛ nɔ ; mí gaan ya ku̵u̵ 'yɛ́nnɔ né . »
+43020015a	ȩná		Ma Yesu vigi : « Na'á , mɔ́ ká̧ŋ́ ȩná ? 
+43020015b	nɔ́nná		Mɔ́ soo nɔ́nná ? » Maaríi taa woo ba nán bab baalı̵́ tóó nɔ , o̧ddu̵ : « Ba'á vu̵ , i wu̵ gaŋŋɔ tée , i tú'un ya kíí 'yɛ́gɛ wu̵lı̵́ má nɔ , tée míń gaŋŋɔ . »
+43021012	nɔ́nná		Ma Yesu o̧d vu̵ : « I ya lá hȩnne . » Waa duulí woo tóó ba zi̧i̧ zó̧ó̧ vigi : « Mɔ́ nɔ́nná ? » máa pɛ́lı̵́ , moo vu̵ gaa ı̵́ 'yɛ́lı̵́ ba wu̵ yȩ nɔ .
+43021020	nóo		Sey Piɛ́r ka tii daa nɔ́ɔ́ máa , ho̧ waa duulí Yesu woo ká hí̧í̧wo̧ na'a pee dɨ vu̵ duulíi . ( Ká wu̵ ɓəg Yesu haalı̵́ ya hȩn lálı̵́lı̵́ , ma ka vigi : « Ba'á , nóo dɨm dɔnné nag nánán voolı̵́lá ? » má nɔ . )
+43021021	ȩn		Piɛ́r ho̧go̧ , ma vi Yesu : « Ɨ́ 'yɛ́lı̵́ míí , ȩn wú̵ń kɔ́ nán ı̵́ yȩ woolá ? »
+43021022	tɛ́lá		Yesu hí̧i̧du̵ : « Kam móó tɛ́lá ? A̧n hí̧í̧ tée , wú̵ń mbaa há̧á̧ míń fíí ya . Ɨ́ móó máa , a̧m duunɔ́ . »
+43021023	tɛ́lá		Moo woo nɔ , moo yȩ kiy nán kirtȩ́n voolı̵́ sa̧a̧mé , vu̵ o̧ waa duulí Yesu woo ı̵́ yɛ ban nɔɔ né . A̧máa Yesu o̧n Piɛ́r : « Nán yȩ wú̵ń nɔɔ né » né . A̧máa o̧ : « A̧n hí̧í̧ a mbaa há̧á̧ a̧n fíí ya tée , kam móó tɛ́lá ? »
+44001011	Moo ȩn		vu̵ o̧d vu̵ : « Nán Gálilée vu̵ , moo ȩn ví tə́gə nɔ́ɔ́ dɔg be"ı̵́lá ? Tayɨɨ ɓɛ Yesu yȩ dɔgɔn be"ı̵́ ma , wú̵ń duu dɨ zu̵u̵ fíiní ı̵́ yo̧go̧ á̧ḿ kɔ́ ı̵́ kíí ho̧go̧ dɔg yȩ wɔgɔ . »
+44002008	née		Kɔ́ née ku̵u̵ moo moo ma , kóó nɔ́nná ka ki ya̧g dáń woo voolı̵́ ya̧gá̧ yȩlá ?
+44002012	ȩná		Hȩn woo la' vu̵ la fid ya voo 'waapád , vu̵ gaan sı̵́ hȩn tóó u̵u̵ o̧n né , ma vu̵ ó̧ń ya voolı̵́ : « Hȩn yȩ tú' ȩná ? »
+44002037	nɛ́nná		Sey nán Yúúda ku̵u̵ ki moo yȩ máa , vu̵ mbaa yəbəə . Vu̵ vi Piɛ́r vu̵ kan waa ba'ad tóó vu̵ , vu̵ o̧ : « Nán vóó vu̵ , yee tée vɔ́ń kɔ́ vóó nɛ́nná ? »
+44003012a	Moo ȩn		Piɛ́r ka ho̧ dúú vu̵ máa , o̧d vu̵ : « Nán Izraɛ́l vu̵ , moo ȩn nán kpee yȩ 'yȩ́m woo ka kɔ́ ví la ɓá' yȩlá ? 
+44003012b	Moo ȩn		Moo ȩn ví 'yɛ́ nɔ́ɔ́ vóólı̵́lá ? Moo ȩn ví ho̧ hȩn woo kɔ́ ı̵́ kóó wu̵ kɔ́ hȩn yȩ kan néélȩ́ dáń vóó , tóó tée moo kóó duu Tayɨɨ du̵u̵ na'a má nɔ wɔgɔlá ?
+44004007a	~		vu̵ pa̧ŋ waa ba'ad Yesu woo yȩ vu̵ yaan tíŋ́ voolı̵́ , vu̵ vi vu̵ : 
+44004007b	nóo woolá		« Ví za̧a̧ ho̧o̧ kan néélȩ́ nóo woolá ? 
+44004007c	nóo woolá		Kóó kan yɛ́g nóo woolá ? »
+44004016	née		« Yee báń kɔ́ ví née kan nán yȩ vu̵lá ? Moo nán Yerúsalem vu̵ 'waapád vu̵ gaa hȩn sa̧ga̧ Piɛ́r ku̵u̵ kɔ́ yȩ sú̵'ú̵ . Báń dəŋ née su̵u̵ ví ya̧ggá ?
+44004025a	Moo ȩn		Móo o̧d nán ba'ad móó a vɔ́ yée Daavíd moo kan yigid móó , ma Daavíd o̧ : ‹ Moo ȩn zig nán yȩ vu̵ dáb moo kan yúú na"ȩ́lá ? 
+44004025b	Moo ȩn		Moo ȩn vu̵ yá̧ḿ hȩn leená té"á ?
+44005003	Moo ȩn		Ka yaa máa , Piɛ́r vigi : « Ananía , moo ȩn Seeɗán ka dɔ́m zó̧ó̧lȩ́ , káḿ kɔ́d yigid Tayɨɨ woo vbád , káḿ gɛ sɨɨde káḿ nuŋ hág móólȩ́ yȩ ka' tóó 'yɛ́ daa yȩlá ?
+44005004	née		Hág yȩ ká hág móó nɔ , a̧máa káḿ gígi yȩ á̧ḿ , sɨɨde woo ká móó nɔ . Ɨ́ yo̧go̧ pɛ́láa ? Kɔ́ née káḿ mbɔ́g moo bi kɔ́ hȩn ı̵́ yo̧go̧lá ? Mɔ́ kɔ́n nánán vu̵ yu̵ vbád yȩ nɔ né , a̧máa mɔ́ kɔ́d Tayɨɨɨ . »
+44005009	née		Ma Piɛ́r duu vigi : « Kɔ́ née ví su̵g ya̧g ya víílí bi gu̵g yigid ı̵́ 'yɛ́lı̵́ Tayɨɨ woo nɔlá ? A̧m ki doo nán ku̵u̵ la dɔd wə̧́ə̧́m máa , vu̵ dɨ ya̧gníimí yȩlȩ́ . Vú̵ń gaŋ la dɔm á̧ḿ . »
+44007026	Moo ȩn		« Ya̧g ka̧'a̧m woo máa , duu kan kan waa Izraɛ́l tóó vu̵ dɨ gbɔ́ńné ya voolı̵́ , ma hí̧í̧ bi mbɔ́gɔ́n vu̵ ú̵ , o̧d vu̵ : ‹ Dan gboo vu̵ , zig víí dágá náa ? Moo ȩn ví gbɔ́ńná ? ›
+44007027	Nóo		A̧máa nán ı̵́ ba gbɔ́ daga pee ndaa Múúsa gbɔ la zulí , o̧ddu̵ : ‹ Nóo 'yɛ́m gbanaa , tóó tée ı̵́ moo sə̧"ȩ́ yúú vóólı̵́lá ?
+44007035	Nóo		« Múúsa ı̵́ waa Izraɛ́l ku̵u̵ maga , ku̵u̵ o̧ddu̵ : ‹ Nóo 'yɛ́m gbanaa , tóó tée ı̵́ moo sə̧"ȩ́ yúú vóólı̵́lá ? › pee , Tayɨɨ ba' wu̵ yu̵ kɔ́ ı̵́ gbanaa wɔgɔ , wu̵ səd vu̵ á̧ḿ . Maleeka ba vúd maawo̧ kúdugu waalı̵́ pee , maawo̧ ba'ad .
+44007049a	ȩn		Tayɨɨ o̧ : ‹ Be' máa , láan míí nu . Hág máa , ya doo diiní míí nu . Lig woo ȩn víń yo̧o̧ná ? 
+44007049b	tɛ́lá		Míń nəə ka' woo tɛ́lá ?
+44007052	~		A ví yée kú̵u̵ duun anábi tóó vu̵ kan moo ; vu̵ nɔɔ nán ı̵́ ku̵u̵ moo moo yaalı̵́ ı̵́ to̧o̧g Tayɨɨ woo yȩ máa vu̵ . Ma 'ya̧'a̧ yɛ ví duu moo moo vbád yúú woolı̵́ , ví nɔɔwo̧ sú̵'ú̵ .
+44008031	née		Nán pee hí̧i̧du̵ : « Nán tóó a tú'un mí moo woo né tée , míń dəŋ née kilá ? » Ma bee Filíb a ɗáá mbaa ya dáŋ́ biilí .
+44008033	Nóo		Vu̵ igidu̵ , vu̵ sə̧'ə̧nɔ moo yȩ́ń né á̧ḿ . Nóo wú̵ń pa'a moo yúú aa waa woo voolı̵́lá ? Moo vu̵ luuwu̵ sı̵́ hágá yɛlı̵́ ú̵ . »
+44008034	nóo		Nán pee ka záŋ́ga 'waa máa , vi Filíb : « Mí dȩm naggɨ , a̧m o̧nnɔ́ . Anábi o̧ moo yɛ yúú nóo woolı̵́lá ? Tóó tée aga o̧ fó̧ó̧ woo naa ? Kóó yúú nán tóó wooláa ? »
+44008036	~		Ku̵u̵ dɨ 'yȩ́mné la zaa máa , vu̵ ya̧ la mam tóólı̵́ , ma nán pee vi Filíb : « Mam wu̵ yɛ nɔ . Hȩn a há'an mam Tayɨɨ woolı̵́ máa dɨláa ? »
+44009004	Moo ȩn		Sól wá̧á̧ zu̵u̵ hágá , ki yɛ́g tóó vigi : « Sól , Sól , moo ȩn mɔ́ duun mí kan moolá ? »
+44009005	nɔ́nná		Ma Sól vi : « Ɨ́ 'yɛ́lı̵́ míí , ví nɔ́nná ? » Yɛ́g pee hí̧i̧du̵ : « Mí Yesu wu̵ , mɔ́ duun míw kan moo yȩ nɔ .
+44009006	~		A̧máa a̧m lúú dɔg , mɔ́ dɔ́ la kaalı̵́ , tée vú̵ń o̧m hȩn a̧m kɔ́ máa wu̵lı̵́ . »
+44010004	~		Sey Kornéy ka ho̧go̧ máa , dú̵ú̵ kɔ́gɔ , o̧d maleeka : « Ba'á , ví yaa ɓəə míílí̧ máalá̧ ! » Maleeka hí̧i̧du̵ : « Tayɨɨ ki moo káḿ o̧ddu̵ yȩ , ho̧ hȩn káḿ baa pú̵ nán gíḿ vu̵ yȩ á̧ḿ , ma duu taam wu̵lı̵́ .
+44010021	ȩná		Piɛ́r ka sí zu̵u̵ nán pee voolı̵́ máa , vi vu̵ : « Nán kíí soo yɛ , wu̵ míw . Ví yaa ȩná ? »
+44010029	~		Moo woo nɔ , kíí been ya máa , mí ká̧ŋ́ yaalı̵́ɨ . A̧máa mí hí̧í̧ bi gaa hȩn kíí been ya moo woo má nɔ . »
+44010047	~		« Nán yɛ vu̵ nuŋ sı̵́ yigid Tayɨɨ woo kɔ́ ı̵́ ba ví wɔgɔ á̧ḿ . Nán tóó wú̵ń duu há' vu̵ mam Tayɨɨ woolı̵́ áa ? »
+44011017a	nóo		Tayɨɨ pú̵ nán yȩ vu̵ yigid woo kɔ́ ı̵́ ká pú̵ ba ví máa wɔgɔ , moo kaa 'yɛ́ ví zó̧ó̧ Yesu Krístu ı̵́ 'yɛ́lı̵́ baa ví woolı̵́ má nɔ . Tayɨɨ ka kɔ́ hȩn yȩ máa , mí nóo ma , 
+44011017b	~		míń há' Tayɨɨ ba'ad woo kɔ́lı̵́lá ? »
+44012018	née		Ya̧g ka̧'a̧m ka tú sú̵'ú̵ máa , só̧ó̧ze vu̵ kɔ́ moo gbo̧o̧ ba'a ya voolı̵́ , vu̵ víń : « Yee Piɛ́r dəŋ née ka vúd yɛlá ? »
+44013025	nɔ́nná		Zaa Yoohá̧na kan 'waa ba'ad woo sú̵'ú̵ máa , o̧ : ‹ Ví taa víí ba mín nɔ́nná ? Mí nán ı̵́ kíí laawu̵ yȩ nɔ pɛ́lı̵́ . A̧máa i ki ú . Wú̵ń duun ya dɨlı̵́ , mí maan míí zaŋ tɛ́gɛ́ woo buuní ní á̧ḿ . ›
+44014015	Moo ȩn		vu̵ o̧ : « Dag gboo vu̵ , moo ȩn ví kɔ́ hȩn ı̵́ yo̧go̧lá ? Vɔ́ nánánne ; ba ví hȩn dágáɨ . Vɔ́ pa̧n ví ya moo to̧o̧ 'maŋ moo i gbɔ tayɨɨ lee yȩ vu̵ , i tii ya Tayɨɨ ı̵́ zá̧a̧d ka mbɔ́g be' kan hág kan mam gbo̧o̧ kan hȩn 'waapád ku̵u̵ du̵u̵lı̵́ máa woolı̵́ .
+44015010	Moo ȩn		Moo ȩn ɓəə ví zo' Tayɨɨ moo , ví hí̧í̧ bi ha'ad nán sú̵ggı̵́ yȩ vu̵ hȩn gané ı̵́ a ba ví yée kú̵u̵ gaŋŋɔ mban né , kaa gaŋ mban ví ní á̧ḿ yɛlá ?
+44016030	née		Pig woolı̵́ máa , vud vu̵ la gɔ́ŋ́ , vi vu̵ : « Ba'á vu̵ , yee míń kɔ́ née , ma míń sə́ddá ? »
+44017018	ȩná		Nán ku̵u̵ baa tú' moo taalı̵́ nánán voo vu̵ máa , vu̵ du̵u̵lı̵́ á̧ḿ . Tóó vu̵ duu moo tú"í Epikúr woo ; tóó vu̵ duu voo moo tú"í nán Estosíi voo . Vu̵ mba moo kan Pól á̧ḿ , ma tóó vu̵ vi : « Nán moo dámné lee ı̵́ yo̧go̧ yȩ , hí̧í̧ bi tú' ȩná ? » Tóó vu̵ duu o̧ voo : « Hí̧í̧ bi tú'ud ba ví tayɨɨ hág tóó kə́ddɨ . » Vu̵ víń moo yȩ , moo Pól ká tú'ud vu̵ moo yúú Yesu woolı̵́ , kan moo nímní woo nɔmmé má nɔ .
+44017019	~		Ma vu̵ bee Pól laan ya moo mbɔ́ggı̵́ tóó ku̵u̵ bee « Areopáazə » máalȩ́ , vu̵ vigi : « Vóo bi ki hȩn tú"í 'maŋ móó yȩ nɔ ,
+44019003	tɛ́lá		Pól ka ki ná' máa , duu vi vu̵ : « Máa vu̵ woo ví mam Tayɨɨ ı̵́ tɛ́lá ? » Vu̵ hí̧i̧du̵ : « Mam Tayɨɨ ı̵́ Yoohá̧na woo nɔ . »
+44019015	nɔ́nná		A̧máa yigid ɓı̵́d pee hí̧i̧d vu̵ : « Mí gaa Yesu ú̵ . Mí gaa Pól á̧ḿ . A̧máa ı̵́ víí máa , ví nɔ́nná ? »
+44019035	~		Ma akaw nán Ɛfɛ́ɛz voo tóó gəd vu̵ , o̧d vu̵ : « Nán Ɛfɛ́ɛz vu̵ ! Nán 'waapád vu̵ gaa kaa gbaŋ Ɛfɛ́ɛz ba wu̵ tu̵ lig Aatemíi gbo̧o̧ woo kan fóto woo ka pɛ zu̵u̵ be"ı̵́ yȩ á̧ḿ . Ɨ́ yo̧go̧ pɛ́láa ?
+44021013a	moo ȩná		A̧máa Pól hí̧i̧d vɔ́ : « Ví ká̧ŋ́ moo ȩná ? 
+44021013b	~		Ví hí̧í̧ bi to̧'o̧n zó̧ó̧ȩ ! Ɨ́ míí , mí hí̧i̧n moo talı̵́ɨ dágá né , a̧máa kóó u̵u̵ bi nɔɔn moo ı̵́ 'yɛ́lı̵́ Yesu woo nɔ Yerúsalemmé si̧' , moo tóó pɛ́lı̵́ . »
+44021022	nɛ́nná		Báń kɔ́ ví nɛ́nná , moo vú̵ń gaa ba mɔ́n yaa dɨ yɛlı̵́ .
+44021033a	nɔ́nná		Kolonɛ́l séé ya Pól woolı̵́ , o̧d só̧ó̧ze vu̵ u̵u̵ ga"u̵ kan ɗág idú , ma duu vi vu̵ : « Nán yɛ nɔ́nná ? 
+44021033b	ȩná		Kɔ́ ȩná ? »
+44022007	Moo ȩn		Mí wá̧á̧ zu̵u̵ hágá , mí ki yɛ́g tóó vin : ‹ Sól , Sól , moo ȩn mɔ́ duun mí kan moolá ? ›
+44022008	nɔ́nná		Mí vigi : ‹ Ɨ́ 'yɛ́lı̵́ míí , ví nɔ́nná ? › Ma duu o̧n : ‹ Mí Yesu nán Naazaréddú̵ , mɔ́ duun míw kan moo yȩ nɔ . ›
+44022010	nɛ́nná		Ma mí vigi : ‹ Yee tée míń kɔ́ nɛ́nná , ı̵́ 'yɛ́lı̵́ míí ? › Ɨ́ 'yɛ́lı̵́ o̧n : ‹ A̧m lúú dɔg , mɔ́ dɔ́ la kaa Damásdı̵́ , tée vú̵ń la o̧m hȩn Tayɨɨ ka hí̧í̧ a̧m kɔ́ máa wu̵lı̵́ . ›
+44022016	ȩn		Mɔ́ duu laa ȩn 'ya̧'a̧ yɛlá ? A̧m lúú dɔg , mɔ́ ɓá' Yesu , mɔ́ woo mam Tayɨɨ , tée Tayɨɨ wú̵ń tɛ hȩn ɓı̵́d móó vu̵ ú̵ . ›
+44022026	~		Sey ı̵́ nii só̧ó̧ze pee ka ki la moo yȩ ná' máa , la o̧d kolonɛ́l : « Ví dɨ sı̵́ moo soolı̵́ ú̵ . Nán pee , nán Rómaɨ . »
+44023003	~		Ka o̧ ná' máa , Pól o̧ddu̵ : « Gbɔmvəg hee yȩ mɔ́ yo̧ , ı̵́ móó Tayɨɨ wú̵ń dȩgȩm á̧ḿ ! Mɔ́ mbaa yɛlı̵́ moo bi sə̧' moo kɔ́ ı̵́ debtere Tayɨɨ woo ka o̧ wɔgɔ , ma mɔ́ kɔ́n hȩn woo né , a̧máa mɔ́ o̧d vu̵ u̵u̵ dȩgȩnɔ́ . »
+44023009	~		Vu̵ bé' kɔɔg vu̵ to̧'o̧né mɛ́ń , ma nán moo Tayɨɨ tú"í tóó vu̵ dɨ voo ka' nán farísa voolı̵́ , vu̵ lúú dɔg , vu̵ sée hȩn , vu̵ o̧ : « Vɔ́ ho̧n vóó hȩn ɓı̵́d tóó nán yȩ woolı̵́ né . Tóó tée yigid tóó , tóó tée maleeka tóó , a wu̵ o̧ddu̵ dɨ moo zulá ? »
+44023019	~		Kolonɛ́l pee ka ya náásaa pee nagá , daa dɔ́nna ya tóólı̵́ , vu̵ idú , vigi : « Mɔ́ dɨ kan moo tóó bi o̧nnáa ? »
+44026008	Moo ȩn		Ɨ́ víí nán Yúúda vu̵ , moo ȩn ví fȩȩn víí moo Tayɨɨ ban nim nánán vu̵ nɔmmé ú̵ nélá ?
+44026014	Moo ȩn		Ya vóó 'waapád , vɔ́ wá̧á̧ zu̵u̵ hágá , ma mí ki yɛ́g tóó o̧n moo kan ya̧g eebərə́ə : ‹ Sól , Sól , moo ȩn mɔ́ duun mí kan moolá ? A̧m hı̵́'ɨ vı̵́d dȩŋ sa̧'a̧d sá . ›
+44026015	nɔ́nná		« Mí vigi : ‹ Ɨ́ 'yɛ́lı̵́ míí , ví nɔ́nná ? › Ma ı̵́ 'yɛ́lı̵́ o̧n : ‹ Mí Yesu wu̵ , mɔ́ duun míw kan moo yȩ nɔ .
+45002017	~		Ɨ́ móó káḿ nán Yúúdaɨ , káḿ nda doo dooká Múúsa woo vu̵lı̵́ , káḿ na' yúú móó yúú Tayɨɨ woolı̵́ yȩ ,
+45002021	Moo ȩn		A̧máa ı̵́ móó káḿ baa tú'ud dam vu̵ hȩn yȩ , moo ȩn káḿ tú'un fó̧ó̧ móó hȩn nélá ? Ɨ́ móó káḿ pa moo u̵u̵ kɔ́ líw sá yȩ , moo ȩn káḿ kɔ́ líwwá ?
+45002028	~		Nán Yúúda ı̵́ də́ń kəd máa , wu̵ nán ı̵́ ka kɔ́ hȩn moo nán u̵u̵ ho̧ má nɔ pɛ́lı̵́ . Naa do̧ŋ ı̵́ də́ń kəd máa , wu̵ nán ı̵́ ka dɔ́ do̧ŋ fó̧ó̧ woolı̵́ má nɔ pɛ́lı̵́ á̧ḿ .
+45003001a	~		Mbaalı̵́ nán Yúúda máa wu̵ du̵u̵ mba hȩnna ? 
+45003001b	~		Do̧ŋ dɔ́lı̵́ wu̵ hȩn gbo̧o̧a̧a̧ ?
+45003003	nɛ́nná		Báń o̧ ví nɛ́nná ? Nán Yúúda tóó u̵u̵ buu ya̧g talı̵́ voo tée , ya̧g talı̵́ Tayɨɨ woo wú̵ń tii hȩn lee áa ?
+45003005	nɛ́nná		A̧máa hȩn ɓı̵́d máa kaa kɔ́ ví yɛ , Tayɨɨ a nuŋ na"ȩ́ wu̵lı̵́ tée , báń o̧ ví nɛ́nná ? Tayɨɨ a si̧'i̧d ba ví tée , kɔ́ hȩn kə̧ə̧gaa ? ( Mí vi moo kɔ́ ı̵́ nánán ku̵u̵ baa vi ví máa wɔgɔ . )
+45003006	nɛ́nná		Pɛ́lı̵́ sá̧ḿ ! Tayɨɨ kan kɔ́ hȩn kə̧ə̧gɨ tée , kan sə̧' moo yúú nánán voolı̵́ nɛ́nná ?
+45003007a	~		A̧máa moo yȩ́ń Tayɨɨ woo a ɓu̵u̵ mba moo vbád míí vu̵ , moo a nuŋ na"ȩ́ wu̵lı̵́ tée , 
+45003007b	moo ȩn		moo ȩn ka sə̧' moo yúú míílí̧ kɔ́ ı̵́ nán hȩn ɓı̵́d kɔ́lı̵́ wɔgɔlá ?
+45003008	Moo ȩn		Moo ȩn kaa o̧n ví ba kɔ́ ví hȩn ɓı̵́d tée , hȩn du̵u̵ a yaanɔ nélá ? Nán tóó u̵u̵ bi o̧n moo ɓı̵́ddɨ tée , vu̵ gən mooɨ . Nán yȩ Tayɨɨ wú̵ń sə̧' moo yúú voolı̵́ , vu̵ maa ba sə̧'ə̧d vu̵ moo ó̧ !
+45003009	nɛ́nná		Báń o̧ ví nɛ́nná ? Ɨ́ vóó nán Yúúda vu̵ , vɔ́ mba zig tóó vu̵ áa ? Pɛ́lı̵́ sá̧ḿ ! Mí tú'ud ví sú̵'ú̵ , nán Yúúda vu̵ , kan nán tóó vu̵ 'waapád , hȩn ɓı̵́d wu̵ pi̧i̧ vu̵
+45003027a	~		Hi̧naa tóó moo nán u̵u̵ duu na' yúú wu̵lı̵́ máa dɨláa ? 
+45003027b	Moo ȩná		Pɛ́lı̵́ , kóó dágá aga . Moo ȩná ? Moo ku̵u̵ kid dooká Múúsa woo vu̵ tɔ́g má naa ? 
+45003027c	~		Pɛ́lı̵́ á̧ḿ , a̧máa moo ku̵u̵ 'yɛ́ zó̧ó̧ voo Yesu woolı̵́ má nɔ ,
+45004001	née		Vɔ́ń o̧ vóó née yúú a vɔ́ yée Ibrahí̧í̧ma woolı̵́lá ? Ibrahí̧í̧ma nánánne á̧ḿ . Máa ká nuŋ ȩná ?
+45004003	~		Debtere o̧ : « Ibrahí̧í̧ma ká 'yɛ́ zó̧ó̧ woo Tayɨɨ woolı̵́ , ma Tayɨɨ ho̧ zó̧ó̧ 'yɛ́lı̵́ woo , 'yɛ́gɛ nán to̧o̧g woo . »
+45004010	ndɛnná		A̧máa hȩn woo ká kɔ́y zag ndɛnná ? Ká kɔ́y pig Ibrahí̧í̧ma ka dɔ́ do̧ŋ máa láa ? Tóó tée , kɔ́y pȩ́ń , ya dɔ́ do̧ŋ pigimaa ? A̧máa dəŋ kɔ́y pȩ́ń , ya dɔ́ do̧ŋ pigim .
+45005010	~		Ká ba mbaa ví ı̵́ maag Tayɨɨ woo vu̵ yu̵ , ma duu mbɔ́g moo kan ba ví yúú nɔm Waa woo woolı̵́ . Kaa to̧n ví kannɔ yȩ , báń sə́n ví yúú ba'ad ka dɨn kɔ́lı̵́ yȩlȩ́ náa ?
+45005021	~		Hȩn ɓı̵́d ka waa gbaŋ moo nán u̵u̵ nɔɔ ó̧ máa , zó̧ó̧ nán Tayɨɨ woo waa gbaŋ yúú hȩn hí̧í̧lí̧ woo ka kɔ́y yȩlȩ́ , moo bi pa̧ŋ ba ví laan vágád ı̵́ káákáálı̵́ moo Yesu Krístu ı̵́ 'yɛ́lı̵́ baa ví woolı̵́ á̧ḿ .
+45006001	nɛ́nná		Tée báń o̧ ví nɛ́nná ? Ba kɔ́ ví hȩn ɓı̵́d laa tíŋ́ tíŋ́ moo Tayɨɨ a kɔ́ zó̧ó̧ nán gbo̧o̧ ba'aa ?
+45006002	~		Ɨ́ yo̧go̧ pɛ́lı̵́ sá̧ḿ ! Ba mbaa ví sı̵́ nɔmná yúú hȩn ɓı̵́ddı̵́ ú̵ , ma báń duu dəŋ née mbaa ví kan hȩn ɓı̵́ddá ?
+45006015	nɛ́nná		Tée kɔ́ nɛ́nná ? Báń kɔ́ ví hȩn ɓı̵́d moo kaa duun ví sı̵́ dooká Múúsa woo vu̵ né , a̧máa kaa mbaa ví sı̵́ kan zó̧ó̧ nán Tayɨɨ woo yȩ naa ? Ɨ́ yo̧go̧ pɛ́lı̵́ sá̧ḿ !
+45006021	ȩná		Sey woo máa , ví nuŋ hȩn yȩ́ń woo ȩná ? 'Ya̧'a̧ yɛ ví ho̧ gaa ma , ma sȩ́ḿ kɔ́ ví sú̵'ú̵ náa ? Ba'ad woo pa̧ŋ ba laan nɔmmé !
+45007007	nɛ́nná		Tée báń o̧ ví nɛ́nná ? Dooká máa vu̵ hȩn ɓı̵́ddaa ? Pɛ́lı̵́ sá̧ḿ ! A̧máa dooká vu̵u̵ tú'un hȩn yɛ ba hȩn ɓı̵́ddɨ . Moo yȩ́ńne , dooká kan o̧n : « A̧m ha' zó̧ó̧ hȩn dam woolı̵́ sá » né tée , ka míń gaan zó̧ó̧ ha"ı̵́ máa ba hȩn ɓı̵́ddɨ né .
+45007024	nóo		Wáý ! Gíḿ gbo̧o̧ tóó naá ! Hȩn fó̧ó̧ míílí̧ ka dɨn pa̧né laan ya nɔmmé yɛ , nóo wú̵ń sənná ?
+45008024	Nóo		Tayɨɨ ká səd ba ví sú̵'ú̵ , a̧máa ba 'yɛ́ ví lá zó̧ó̧ wu̵lı̵́ á̧ḿ . Tow aa ho̧ ví hȩn kaa 'yɛ́ ví zó̧ó̧ wu̵lı̵́ yɛ sú̵'ú̵ tée , duu sı̵́ hȩn zó̧ó̧ 'yɛ́lı̵́ɨ pɛ́lı̵́ . Nóo duu 'yɛ́ sı̵́ zó̧ó̧ yúú hȩn ka nuŋ máalȩ́lá ?
+45008031a	ȩná		Báń duu o̧ ví sı̵́ tóó ȩná ? Tayɨɨ máa , baa ví nu . 
+45008031b	Nóo		Nóo wú̵ń kɔ́ moo kan ba vílá ?
+45008032	~		Há̧ga̧n ba ví Waa dáń woo né , a̧máa dɔddu̵ nɔmmé moo baa ví 'waapád . Tée wú̵ń su̵g hȩn pú̵ ba ví 'waapád kan Waa woo á̧ḿ ; ı̵́ yo̧go̧ náa ?
+45008033	Nóo		Nóo wú̵ń doo nán Tayɨɨ ka yee vu̵ yȩlá ? Pɛ́lı̵́ , moo Tayɨɨ wu̵ o̧ ba vu̵n kan moo pɛ́lı̵́ .
+45008034	Nóo		Nóo wú̵ń sə̧'ə̧d vu̵ moolá ? Pɛ́lı̵́ , moo Yesu Krístu wu̵ nɔɔ , ma duu níḿ nɔmmé , mbaa dɨ ka' nag nánné dáŋ́ Tayɨɨ woolı̵́ , dɨ Tayɨɨ ɓá"ı̵́ yúú baa vílí á̧ḿ .
+45008035	Nóo		Nóo wú̵ń hɨ'ɨn ba ví kan zó̧ó̧ nán Krístu woo yȩlá ? Hȩn ndɔ́gɔné , kan zó̧ó̧ to̧"ȩ́ , kan moo dunní vu̵ , go̧o̧m vu̵ , kan gíḿ , kan hȩn dú̵ú̵ zálı̵́ , kan nɔm , vú̵ńnɔ hɨ'ɨn ba vía ?
+45009014	nɛ́nná		Tée báń o̧ ví nɛ́nná ? Tayɨɨ kɔ́n hȩn kə̧ə̧g né náa ? Kɔ́n né sá̧ḿ ,
+45009019a	moo ȩn		Tóó tée nán tóó wú̵ń vin : « A dɨ ı̵́ yo̧go̧ tée , moo ȩn Tayɨɨ ka sée nán vu̵lá ? 
+45009019b	Nóo		Nóo wú̵ń nda doo kan hí̧í̧lí̧ Tayɨɨ woolá ? »
+45009020a	nóo		Dan gboo , mɔ́ móó nóo káḿ faa moo Tayɨɨ woolá ? 
+45009020b	~		Hád gbág tóó vi wakȩ́ȩ́ ka yo̧o̧wo̧ máa : 
+45009020c	Moo ȩn		« Moo ȩn mɔ́ yo̧o̧n ı̵́ yɔgɔlá ? » áa ?
+45009021	~		Wakȩ́ȩ́ gbág yo̧o̧lȩ́ kɔ́ hȩn ka hí̧í̧ máa yúú hád van woolı̵́ ú̵ . Hád dágá yȩ wú̵ń yo̧o̧ gbág yȩ́ȩ́ wu̵lı̵́ , a̧máa wú̵ń yo̧o̧ gbág tóó vu̵ wu̵lı̵́ kə́dkə́d á̧ḿ .
+45009022	~		A̧máa Tayɨɨ hí̧í̧ bi tú' zó̧ó̧ yȩ́ȩ́ bii , kan hȩn mbalı̵́ bii nu . Kóó ı̵́ yo̧go̧ si̧' , nán ku̵u̵ maa ba kɔ́d vu̵ zó̧ó̧ yȩ́ȩ́ , ku̵u̵ maa tunní máa vu̵ , Tayɨɨ ma' zó̧ó̧ yúú voolı̵́ .
+45009023	~		Hí̧í̧ bi tú'ud ba ví na"ȩ́ bii ba ɓu̵u̵ dɨ née yúú baa vílílá ! Tayɨɨ mbɔ́g ba ví , bi ho̧ gíḿ gaad ba ví , ba aa nuŋ ví na"ȩ́ biilí á̧ḿ .
+45009024	~		Tayɨɨ bee ba ví , nán Yúúda vu̵ yu̵ dágá pɛ́lı̵́ , a̧máa bee zig tóó vu̵ á̧ḿ .
+45009030	nɛ́nná		Tée báń o̧ ví nɛ́nná ? Nán ı̵́ ku̵u̵ nán Yúúda pɛ́lı̵́ , ku̵u̵ soon to̧o̧g Tayɨɨ woolı̵́ né pee , vu̵ tii nán to̧o̧g Tayɨɨ woo yúú zó̧ó̧ 'yɛ́lı̵́ voolı̵́ sú̵'ú̵ .
+45009032	moo ȩná		Moo ȩná ? Moo vu̵ soon hȩn a to̧o̧d Tayɨɨ máa kan zó̧ó̧ 'yɛ́lı̵́ né , vu̵ taa ba bíń nuŋ kan ba'adɨ . A̧máa hȩn woo mbaad vu̵ kɔ́ ı̵́ 'yɛgɛ tóó ku̵u̵ fə́ń yúú woolı̵́ máa wɔgɔ ,
+45010006	Nóo		A̧máa yúú to̧nné kan Tayɨɨ yúú zó̧ó̧ 'yɛ́lı̵́lı̵́ máa , debtere o̧ : « A̧m o̧ zó̧ó̧ móólȩ́ : ‹ Nóo wú̵ń ɗáá dɔg be"ı̵́lá ? › sá . » ( Moo yɛ tú' « Nóo wú̵ń sid zu̵u̵ Krístu be"ı̵́ pilá ? » )
+45010007	Nóo		A̧m o̧ : « Nóo wú̵ń sí zu̵u̵ hágá zulílá ? » sá á̧ḿ . ( Moo yɛ tú' « Nóo wú̵ń sí zu̵u̵ la vud dɔg Krístu kaa nɔmmélá ? » )
+45010008	nɛ́nná		A̧máa debtere o̧ nɛ́nná ? O̧ : « Moo Tayɨɨ woo dɨ bə́' kan mɔ́ , dɨ ya̧g móólȩ́ , dɨ zó̧ó̧ móólȩ́ á̧ḿ ; » moo máa yɛ wu̵ ya̧g ba'ad zó̧ó̧ 'yɛ́lı̵́ woo , ma kóó pa moo yúú woolı̵́ yɛ nɔ .
+45010014a	née		A̧máa u̵u̵ 'yɛ́n zó̧ó̧ voo woolı̵́ né tée , vú̵ń dəŋ née duuwu̵lá ? 
+45010014b	née		U̵u̵ kin ná moo woo né tée , vú̵ń dəŋ née 'yɛ́ zó̧ó̧ voo wu̵lı̵́lá ? 
+45010014c	née		Nán tóó a o̧n vu̵ moo woo né tée , vú̵ń dəŋ née kilá ?
+45010015	nóo		Tow u̵u̵ ba'an nán tóó vu̵ la né tée , nóo wú̵ń la o̧d vu̵lá ? Debtere o̧ ı̵́ yo̧go̧ , o̧ : « Nán ku̵u̵ pa̧ŋ moo to̧o̧ 'maŋ yaan máa , hȩn zó̧ó̧ dȩ"ȩ́ȩ . »
+45010016	nóo		A̧máa nán 'waapád ká vu̵ fȩȩn moo to̧o̧ 'maŋ né , moo Esáya o̧ : « Ɨ́ 'yɛ́lı̵́ vóó , nóo fȩȩ moo vóó ya̧gá̧lá ? »
+45011004	~		A̧máa Tayɨɨ hí̧i̧du̵ : « Mí 'yɛ́ nán míí vu̵ dɨlı̵́ uzinɛɛre gúndɛm . Vu̵ nə'əyn voo tíŋ́ tayɨɨ Ba'ál woolı̵́ né . »
+45011007	nɛ́nná		Tée báń o̧ ví nɛ́nná ? Hȩn Izraɛ́l ka soo máa , nugu ní . A̧máa séý nán ı̵́ Tayɨɨ ka yee vu̵ máa , vu̵u̵ nuŋ . Nán tóó voo máa , vu̵ kan néélȩ́ kilí woo pɛ́lı̵́
+45011015	~		Sey Tayɨɨ ka ma nán Yúúda vu̵ máa , mbɔ́gɔd zig nán vu̵ 'waapád hi̧naa laalı̵́ woolı̵́ sú̵'ú̵ . A̧máa a duu ɓɛ vu̵ tée , nán ı̵́ kú̵u̵ mbaa kɔ́ ı̵́ nɔm vu̵ wɔgɔ yȩ , vú̵ń duu níḿ á̧ḿ .
+45011018	~		Moo woo nɔ , a̧m ho̧ la' nag ku̵u̵ sə̧'ə̧ gbɔ vu̵ yȩ hȩn leená sá , moo la' nag wu̵ tín zágád né , a̧máa la' zágád wu̵ tíd la' nag vu̵ .
+45011033a	Nóo		Hȩn naa vu̵ hi̧' dɨ Tayɨɨ woolı̵́ ! Kɛb woo , kan moo gaalı̵́ woo vu̵ ɓu̵u̵ wa̧a̧níi ! Nóo wú̵ń tii moo mbɔ́ggı̵́ woo o̧lá ? 
+45011033b	Nóo		Nóo wú̵ń ki hȩn ka mbɔ́g yȩ mbagalá ?
+45011034a	Nóo		Debtere o̧ : « Nóo gaa moo taalı̵́ ı̵́ 'yɛ́lı̵́ baa ví woolá ? 
+45011034b	Nóo		Nóo wú̵ń tú'udu̵ moolá ?
+45011035	Nóo		Nóo dəŋ pú̵ Tayɨɨ hȩn ma , Tayɨɨ ka duu vȩ' sú̵ú̵wu̵ yalá ? »
+45014004	nóo		Mɔ́ móó nóo ma , mɔ́ sə̧' moo yúú nán ba'ad dam voolı̵́lá ? Kóó a mbaa du̵u̵ na'a ba'ad woolı̵́ , kóó a mbaa du̵u̵ né á̧ḿ , aga moo baa lig woo woo nɔ . A̧máa wú̵ń mbaa du̵u̵lı̵́ na'a , moo ı̵́ 'yɛ́lı̵́ Tayɨɨ wu̵ dɨ kan néélȩ́ tíddu̵ .
+45014010a	moo ȩn		A̧máa ı̵́ móó máa , moo ȩn mɔ́ sə̧'ə̧d móó dam vu̵ moolá ? 
+45014010b	moo ȩn		Ɨ́ móó máa , moo ȩn mɔ́ ho̧ dam vu̵ kɔ́ ı̵́ hȩn lee wɔgɔlá ? Moo ya baa ví 'waapád Tayɨɨ wú̵ń dɨd ba ví moo sə̧"ȩ́ȩ .
+46001020a	téé		Nán moo gaalı̵́ dɨ téé ? 
+46001020b	téé		Nán moo Tayɨɨ tú"í dɨ téé ? 
+46001020c	téé		Tóó tée , nán moo fanné dɨ téé hágá yɛlı̵́lá ? Tayɨɨ tii moo gaalı̵́ hágá yɛ hȩn ya̧ŋ sú̵'ú̵ náa ?
+46002011	~		Séý zó̧ó̧ nánán woo wu̵ gaa hȩn ka dɨ tíŋ́ woolı̵́ náa ! Hȩn Tayɨɨ woo dɨ ı̵́ yo̧go̧ á̧ḿ ; séý yigid woo wu̵ gaa á̧ḿ .
+46002016a	Nóo		Debtere o̧ ı̵́ yo̧go̧ , o̧ : « Nóo gaa moo taalı̵́ ı̵́ 'yɛ́lı̵́ baa ví woolá ? 
+46002016b	Nóo		Nóo wú̵ń tú'udu̵ moolá ? » A̧máa ı̵́ baa ví , ba dɨ ví kan moo taalı̵́ ı̵́ Krístu woo nɔ .
+46003005a	nɔ́nná		Apolóo sú̵u̵ nɔ́nná ? 
+46003005b	nɔ́nná		Pól sú̵u̵ nɔ́nná ? Vɔ́ vóó nán ba'ad vu̵ yu̵ ; kóó nɔ́nná kɔ́ hȩn ı̵́ 'yɛ́lı̵́ Yesu ka o̧d vɔ́ má nɔ , ma ví 'yɛ́ zó̧ó̧ víí woolı̵́ .
+46004007a	Nóo		Nóo 'yɛ́m nán gbo̧o̧ yúú dam voolı̵́lá ? 
+46004007b	~		Tayɨɨ wu̵ pú̵n mɔ́ hȩn 'waapád yȩ náa ? 
+46004007c	Moo ȩn		Moo ȩn káḿ na' yúú kɔ́ ı̵́ Tayɨɨ ka pú̵n mɔ́ hȩn 'waapád né wɔgɔlá ?
+46004021	ȩná		Ví hí̧í̧ ȩná ? Looa ? Tóó tée , a̧n laa víílí kan zó̧ó̧ to̧o̧ , kan zó̧ó̧ ká̧'a̧daa ?
+46005002	~		Maa zó̧ó̧ kan ví̧i̧ ví wu̵lı̵́ máa , ví tii na' yúú mɛ́ńnaa ? Maa ka víń nɛŋ nán ka kɔ́ hȩn ı̵́ yo̧go̧ yȩ vud víílí sa̧a̧mé má nɔ .
+46005012	~		Moo yȩ́ńne , nán ı̵́ ku̵u̵ nán kirtȩ́n pɛ́lı̵́ máa , mí sə̧'ə̧n míí moo yúú voolı̵́ né ; aga Tayɨɨ wú̵ńnɔ sə̧' . A̧máa i sə̧' nán baa ví vu̵ moo kɔ́ ı̵́ debtere ka o̧ wɔgɔ : « I nɛŋ nán hȩn ɓı̵́d kɔ́lı̵́ luu sa̧a̧m víílí la ú̵ ! »
+46006001	Moo ȩn		Sey nán kirtȩ́n tóó víílí sa̧a̧mé ku̵u̵ kɔ́ń moo ya voolı̵́ tée , moo ȩn ku̵u̵ kéé zig Tayɨɨ woo gbɔ , ku̵u̵ pa̧ŋ moo woo laan fá̧né nán gaa Tayɨɨ sá voolı̵́ máalá̧ ?
+46006003	née		Ví gaan ba báńnɔ sə̧'ə̧n ví moo yúú maleeka voolı̵́ á̧ḿ máa náa ? Ma kɔ́ń née kan moo ı̵́ nánán voolá ?
+46006004	~		Kíí dɨ kan moo tóó ı̵́ yo̧go̧ tée , ví pa̧ŋ moo woo laan tíŋ́ nán ı̵́ tóó nán sú̵ggı̵́ ku̵u̵ ɓéé vu̵ máa vooláa ?
+46006007a	Moo ȩn		Moo a kɔ́y sa̧a̧m víílí tée , hȩn woo hȩn nag tunníi . Ndíga ka víńnɔ ma' zó̧ó̧ moo nán tóó u̵u̵ kɔ́d ví hȩn ɓı̵́d . Ka vu̵n vbid víw hȩn tée , kan du̵u̵ . Moo ȩn ví kɔ́n ı̵́ yo̧go̧ nélá ?
+46006007b	~		
+46006009	~		Ví gaa náa ? Nán hȩn kə̧ə̧g kɔ́lı̵́ vú̵ń dɔ́n ya gbaŋ waalı̵́ Tayɨɨ woolı̵́ né . I gággú̵ ! Nán hȩn sí̧i̧d kɔ́lı̵́ vu̵ , kan nán ku̵u̵ duu tayɨɨ mbɔ́ggı̵́ vu̵ , kan nán ɓáa kɔ́lı̵́ vu̵ , kan wayée ku̵u̵ ud kan daga vu̵ ,
+46006016	~		Tóó tée , ví gaan nán ba ka ud kan wakȩ́ȩ́ ɓáa kɔ́lı̵́ tóó tée , ba vu̵n tii mbaan fó̧ó̧ dágáɨ máa náa ? Moo debtere o̧ : « Ya voo idú á̧ḿ vú̵ń tii fó̧ó̧ dágáɨ . »
+46006019	~		Ví gaa fó̧ó̧ bii máa ba lig yigid Tayɨɨ woo nɔ máa ó̧ náa ? Yigid Tayɨɨ woo víílí yȩ , Tayɨɨ wu̵ pú̵ ví náa ? Aga ví mbaan dáńná né .
+46007016a	~		Ɨ́ móó wakȩ́ȩ́ kirtȩ́n , a̧mmɔ səd dɨ wə̧́ə̧́m zulá ? 
+46007016b	~		Ɨ́ móó wayée kirtȩ́n , a̧mmɔ səd dɨ kȩ́ȩ́m zulá ?
+46009007a	Nóo		Nóo baa kɔ́ ba'ad só̧ó̧ze kan sɨɨde dáń woolá ? 
+46009007b	Nóo		Nóo ka ba la' lálı̵́ woo tée , ka lán líid woo nélá ? 
+46009007c	Nóo		Nóo ka tu̵ ndaa tée , ka zɔn va̧a̧ woo nélá ?
+46009018	ȩná		Hȩn sú̵ú̵lı̵́ míí wu̵ ȩná ? Wu̵ káń tú' moo to̧o̧ 'maŋ té' má nɔ ; mí lán hȩn ka míń lá yúú moo to̧o̧ 'maŋŋı̵́ máa né á̧ḿ .
+46010019a	~		Hȩn káń o̧d ví yȩ , mí hí̧í̧ bi o̧d ví hȩn ku̵u̵ ha'ad tayɨɨ mbɔ́ggı̵́ vu̵ yȩ ba hȩn gbo̧o̧ tóó naa ? 
+46010019b	~		Kóó tayɨɨ mbɔ́ggı̵́ vu̵u̵ hȩn gbo̧o̧a̧ ?
+46010019c	~		
+46010029	moo ȩn		Mí o̧n moo zó̧ó̧ vínní ı̵́ víí nu né , a̧máa moo nán ı̵́ ka o̧d ví yȩ woo nɔ . Nánán tóó wú̵ń o̧ : « Nán tóó a víń moo zó̧ó̧ woolı̵́ tée , moo ȩn ka sə̧' moo yúú mbaalı̵́ vəg lee míí yɛlı̵́lá ?
+46010030	Moo ȩn		Mí dȩn Tayɨɨ nag pȩ́ń , mí lá hȩn ; moo ȩn vu̵ lágán mí moo yúú hȩn káń dȩn Tayɨɨ nag wu̵lı̵́ yɛlá ? »
+46011022	nɛ́nná		Máa ví kan lig vín lán hȩn víí , vín zɔn hȩn víí vu̵ wu̵lı̵́ máa pɛ́láa ? Ɨ́ yȩ ví ɓéé sú̵ggı̵́ Tayɨɨ woo nɔ náa ? Tóó tée ví hí̧í̧ bi kɔ́d nán gíḿ vu̵ yu̵ hȩn sȩ́ḿmaa ? Tée a̧n o̧d ví nɛ́nná ? A̧n dəm ví áa ? Pɛ́lı̵́ sá̧ḿ !
+46012017a	ȩná		Tow fó̧ó̧ 'waapád kan maa nɔ́ɔ́ mɛ́ń tée , kan kin moo kan ȩná ? 
+46012017b	ȩná		Fó̧ó̧ 'waapád kan maa tɔ́g mɛ́ń tée , kan kin hȩn sa̧g kan ȩná ?
+46012019	téé		Ya voo 'waapád ka vu̵n dɨ fó̧ó̧ ka' dágáɨ tée , fó̧ó̧ kan dɨ téé ?
+46014006	ȩn		Dan kirtȩ́n vu̵ , mí vi ví yee a̧n laa víílí , a̧n bé'ed ví ya̧g tóó kə́d wu̵ moolȩ́ , i kin ní , nán tóó a tii moo woo vu̵ o̧n ví ní á̧ḿ tée , ȩn wú̵ń du̵u̵d vílá ? A̧máa a̧n vud moo yú̵ggı̵́ tóó o̧d ví , a̧n tú'ud ví hȩn káń gaa , a̧n o̧d ví moo Tayɨɨ woo , a̧n tú'ud ví hȩn tóó tée , wú̵ń du̵u̵d víw .
+46014007	née		Tée ba gú̵gú̵n ví hȩn yȩ vu̵ kan lɨtɨɨd , kan ko̧ŋ vu̵ yu̵ . Tow nán tóó a úú lɨtɨɨd a vun yéé woo né , a wa̧a̧ ko̧ŋ vun yéé woo né tée , dəŋ née víń ki gaalá ?
+46014008	nóo		Tóó tée , nán ga̧' sɨɨ úúlí tóó a úú vun dɔg yɛ́g woo né tée , nóo wú̵ń mbɔ́g hȩn sɨɨlá ?
+46014009	née		Moo kíí moowo̧ ya̧g tɔgɔtɔ́gɔná tée , vú̵ń dəŋ née kilá ? Tée víń o̧ gbɔnna dɨ sápéémé náa ?
+46014015	nɛ́nná		Yee tée mín kɔ́ nɛ́nná ? Míi bi o̧d Tayɨɨ moo zó̧ó̧ míílí̧ , a̧máa míń o̧ddu̵ moo woo ha̧d á̧ḿ . Míi bi bee yéé na' Tayɨɨ zó̧ó̧ míílí̧ , a̧máa mí hí̧í̧ bi ki moo yéé káń bee vu̵ yɛlı̵́ á̧ḿ .
+46014016	née		Tow a̧m dȩn Tayɨɨ nag zó̧ó̧ móólȩ́ ı̵́ yo̧go̧ , nán lee tóó ka dɨ ya sú̵ggı̵́ yȩlȩ́ , a kin ní tée , wú̵ń dəŋ née hí̧í̧ : « Aamɛ́n » yúú moo yȩlȩ́lá ?
+46014026	nɛ́nná		Dan kirtȩ́n vu̵ , yee báń kɔ́ ví nɛ́nná ? Kíí dɨ sú̵ggı̵́ tée , nán tóó a bee woo yéé , tóó a tú' woo moo , tóó a vud moo yú̵ggı̵́ Tayɨɨ woo o̧ . Nánán tóó a moo woo ya̧g tóó kə́d kaa kin ní máa , tée nánán tóó a tii woo moo woo . Hȩn yȩ u̵u̵ kɔ́y moo nán sú̵ggı̵́ u̵u̵ 'yɛ́ zó̧ó̧ voo néélȩ́ na'a Yesu woolı̵́ .
+46014036	~		Moo Tayɨɨ yɛ ká dəŋ vúd ya vííláa ? Tóó tée , ya̧ də́ń víílí dágá ya̧a̧ ?
+46015012	moo ȩn		Vɔ́ pa moo o̧ Krístu ba níḿ sı̵́ nɔmmé ó̧ . Ma moo ȩn nán tóó víílí sa̧a̧mé vu̵ o̧ nímní nɔmmé ban pɛ́lı̵́lá ?
+46015029a	~		I taa moo nán ı̵́ ku̵u̵ woo mam Tayɨɨ kan yéé nán nɔm voo má nɔ . 
+46015029b	moo ȩn		Tow nán u̵u̵ ním nɔmmé né tée , moo ȩn nán yȩ vu̵ woo mam Tayɨɨ kan yéé nán nɔm voo á̧ḿ máalá̧ ? 
+46015029c	ȩná		Tée vú̵ń nuŋ ȩná ?
+46015030a	~		Ɨ́ baa ví máa , 
+46015030b	moo ȩn		moo ȩn kaa dɔd ví baa yúú hȩn dú̵ú̵ zálı̵́ vu̵lı̵́ zá̧ga̧ 'waapád yɛlá ?
+46015032	ȩn		Kóó ka míń kɔ́ ya̧g kan kəə vu̵ yɛlı̵́ kaa Ɛfɛ́ɛzlı̵́ kɔ́ ı̵́ nánán tóó ku̵u̵ baa kɔ́ , bi nuŋ hȩn wu̵lı̵́ máa wɔgɔ si̧' , ȩn kan du̵u̵n wu̵lı̵́lá ? Tow nímní nɔmmé a pɛ́lı̵́ tée , « Ba lá ví hȩn ɓəə , ba zɔ ví hȩn , moo yɔ́gɔ́ báń nɔɔ ví sú̵'ú̵ , » kɔ́ ı̵́ nán tóó ku̵u̵ taa wɔgɔ .
+46015035a	nɛ́nná		A̧máa nán tóó vú̵ń vi : « Nɔm u̵u̵ níḿ tée , vú̵ń mbaa nɛ́nná ? 
+46015035b	tɛ́lá		Vú̵ń yaa kan fó̧ó̧ ı̵́ tɛ́lá ? »
+46015055a	tɛ́lá		« Nɔm , hȩn mbalı̵́ móó pee dɨ tɛ́lá ? 
+46015055b	tɛ́lá		Nɔm , táa móó pee dɨ tɛ́lá ? »
+47002002	nóo		moo a̧n la vi̧i̧ ví zó̧ó̧ tée , nóo wú̵ń dȩ'ȩn zó̧ó̧lá ? Nán mín vi̧i̧wo̧ zó̧ó̧ pee nɔ náa ?
+47002016	Nóo		Ba sa̧'a̧d ví nán tóó vu̵ voo kɔ́ ı̵́ sa̧g nɔm wɔgɔ , vú̵ń nɔɔ ; a̧máa ba sa̧'a̧d ví nán tóó vu̵ voo kɔ́ ı̵́ sa̧g vágád wɔgɔ , vú̵ń nuŋ vágád . Nóo dɨ kan néélȩ́ kɔ́ ba'ad ı̵́ yo̧go̧lá ?
+47003008	~		A̧máa ba'ad ı̵́ yigid Tayɨɨ woo wu̵ hȩn gbo̧o̧ mban náa ?
+47003009	~		Ba'ad a sə̧'ə̧d nán vu̵ moo nɔm máa , Tayɨɨ ba 'yɛ́gɛ hȩn gbo̧o̧ gu̵y , dan tóó ı̵́ ka mbɔ́g moo to̧o̧g kan Tayɨɨ má naa ?
+47006014a	née		I sú̵g kɔ́ ba'ad kan nán gaa Tayɨɨ sá vu̵ sá . Dəŋ née nán to̧o̧g Tayɨɨ woo wú̵ń dɔ́ń kan nán maag Tayɨɨ woo vu̵lá ? 
+47006014b	née		Ya túlí dəŋ née ka sú̵g mbaa kan ya dimmá ?
+47006015a	née		Dəŋ née Krístu wú̵ń to̧n kan Seeɗánná ? 
+47006015b	ȩná		Tóó tée , hȩn a su̵gu̵n nán zó̧ó̧ 'yɛ́lı̵́ vu̵ kan nán ku̵u̵ 'yɛ́n zó̧ó̧ voo Tayɨɨ woolı̵́ né máa , wu̵ ȩná ?
+47006016	née		Dəŋ née lig hȩn ha"ı̵́ Tayɨɨ woo wú̵ń mbaa hȩn dágá kan lig hȩn ha"ı̵́ nán gaa Tayɨɨ sá voolá ? Moo ba ví baa lig hȩn ha"ı̵́ Tayɨɨ ı̵́ zá̧a̧d woo nɔ kɔ́ ı̵́ Tayɨɨ aga ka o̧ wɔgɔ , o̧ : « Míń mbaa voolı̵́ sa̧a̧mé , míń 'yȩm kan vu̵ . Míń mbaa Tayɨɨ voo , vú̵ń mbaa zig míí vu̵ á̧ḿ . »
+47011011	Moo ȩn		Moo ȩn káń moo moo ı̵́ yo̧go̧lá ? Mí hí̧i̧n ví náa ? Tayɨɨ gaa ba mín hí̧í̧ ví ú .
+47011029a	Nóo		Nóo ka nugun néélȩ́ né , ma káń mbaan míí nélá ? 
+47011029b	Nóo		Nóo ka kɔ́ hȩn ɓı̵́d , ma zó̧ó̧ míí ka a̧n woo nélá ?
+47012013	ȩná		Hȩn ı̵́ kíí ho̧ káń kɔ́ ya tóó vu̵lı̵́ , káń kɔ́n víílí ní máa , wu̵ ȩná ? Moo káń vin ví hȩn sú̵ú̵lı̵́ né má naa ? Tow i ho̧ ba yagalı̵́ pɛ́lı̵́ tée , i kéé « hȩn ɓı̵́d míí » yɛ gbɔ la ú̵ !
+47012017	~		Nán káń ba' vu̵ la víílí máa , vu̵ vbid ví hȩn pa̧n ya wu̵láa ?
+48002014	née		Sey káń ho̧ ku̵u̵ kɔ́n hȩn kɔ́ ı̵́ moo to̧o̧ 'maŋ ka tú'un wɔgɔ yȩ́ńná né máa , mí o̧d zu̵u̵ Piɛ́r nɔ́ɔ́ nánán voolı̵́ 'waapád : « Mɔ́ nán Yúúdaɨ . Yɛlı̵́ máa mɔ́ duu mbaan sı̵́ kɔ́ ı̵́ nán Yúúda wɔgɔ né . Ma mɔ́ń kɔ́ née pȩ́ń mɔ́ń yú nán ı̵́ ku̵u̵ Yúúda pɛ́lı̵́ máa vu̵ u̵u̵ duu hȩn dikab nán Yúúda voo nɔlá ? »
+48003001	nóo		Nán ya̧ŋ Galáddı̵́ yȩ víw , nóo ka zo' ví moolá ? Vu̵ ga' Yesu Krístu la' vbagadı̵́ . Vɔ́ tú'ud ví moo woo du̵u̵ na'a kɔ́ ı̵́ kíí ho̧ kan nɔ́ɔ́ víí nu zu wɔgɔ .
+48003019	ȩná		Tée ba'ad ı̵́ dooká Múúsa woo máa , wu̵ ȩná ? Vu̵ ha"u̵ wu̵lı̵́ , moo nán u̵u̵ gaa hȩn Tayɨɨ ba ka sɛ́n né má nɔ , há̧á̧ a ya̧ yaalı̵́ Waa ya̧g talı̵́ Tayɨɨ woo yȩ pȩ́ń . Maleeka vu̵u̵ pa̧ŋ dooká Tayɨɨ woo yȩ yaan nag nán moo mbɔ́ggı̵́ tóó woolı̵́ .
+48004009a	née		'Ya̧'a̧ yɛ máa , ví gaa Tayɨɨ sú̵'ú̵ ( maa i o̧ Tayɨɨ ba gaa bi sú̵'ú̵ ! ) , ma kɔ́ née ví duu vȩ́' la moo tú"í yúú yigid néélȩ́ tóó vu̵lı̵́ , kan hȩn gíḿ yȩ vu̵lı̵́ á̧ḿmá ! 
+48004009b	~		Ví hí̧í̧ bi duu la kɔ́d vu̵ ba'ad gba'aa ?
+48004010	~		Ví 'yɛ́ zó̧ó̧ víí bi na' zá̧ga̧ ı̵́ tóó ku̵u̵ yee vu̵ , kan sȩȩ tóó vu̵ , kan mam vúnní tóó vu̵ , kan ve' tóó vu̵ yȩlȩ́ á̧ḿ .
+48004015	tɛ́lá		Zó̧ó̧ dȩ"ȩ́ víí pee laa dɨ tɛ́lá ? Moo yȩ́ńne , mí o̧ nɔ́ɔ́ kan hȩn vbənnée tée , ka víń vbəd pú̵n sú̵'ú̵ .
+48004021	~		Ɨ́ víí , kíí hí̧í̧ bi duu dooká Múúsa woo yȩ , i o̧nnɔ ! Ví kin moo debtere Múúsa woo ka o̧n máa náa ?
+48004030	nɛ́nná		A̧máa debtere o̧ nɛ́nná ? O̧ : « A̧m nɛŋ gba'a kȩ́ȩ́ yȩ gbɔ la , kan waa woo á̧ḿ , moo waa gba'a kȩ́ȩ́ yȩ woo u̵u̵ yȩ'ȩn hȩn gaga kan waa ı̵́ wakȩ́ȩ́ wə̧ə̧ yȩ woo sá sá̧ḿ . »
+48005007a	nóo		Ká ví laa ɗug tíŋ́ du̵u̵ na'a , ma nóo duu há' ví i kid moo yȩ́ń yȩ tɔ́g sálá ?
+48005007b	~		
+48005011	~		Dan kirtȩ́n vu̵ , ı̵́ míí , ka mín o̧d nán u̵u̵ dɔ́ do̧ŋ la ú̵ tée , ka vu̵n duun mí kan moo né . A ı̵́ yo̧go̧ tée , hȩn a há' nán vu̵ moo nɔm Yesu woo la' vbagadı̵́ máa , lúú sú̵'ú̵ .
+49004009	ȩná		( A̧máa moo kíí ki , « ɗáá dɔg yúba » yȩ , tú' ȩná ? Moo yȩ tú' ká ba sí zu̵u̵ hág tíŋ́ , ya súlí na'a yȩlȩ́ .
+50001018	nɛ́nná		Tée nɛ́nná ? Kóó moo taalı̵́ voo a moo ɓı̵́ddɨ , kóó a moo to̧o̧ȩ á̧ḿ si̧' , hȩn tóó təə né . Vu̵ dɨ moo Krístu woo wu̵ tú"í á̧ḿ , ma mí dȩ' míí zó̧ó̧ moo woo nɔ . A̧máa zó̧ó̧ míí wú̵ń dȩ' laa tíŋ́ tíŋ́ á̧ḿ ,
+50001021	~		Ɨ́ míí máa , a̧n mbaa kan vágád tée , mí mbaad Krístu wu̵ . A̧máa a̧n nɔɔ ó̧ tée , míń nuŋ hȩn ha'an wu̵lı̵́ á̧ḿ .
+51002020	Moo ȩn		Kíí sú̵g nɔɔ kan Krístu , kíí gbɔ moo tú"í yúú yigid néélȩ́ tóó vu̵lı̵́ yȩ , moo ȩn ví duu mbaa kɔ́ ı̵́ nánán hágá yɛ vu̵ wɔgɔlá ? Moo ȩn ví duu dooká voo yȩ vu̵lá ?
+52002019	nóo		Sey ı̵́ 'yɛ́lı̵́ baa ví Yesu a fíí ya tée , nóo wú̵ń mbaa hȩn zó̧ó̧ 'yɛ́lı̵́ vóó , kan hȩn zó̧ó̧ dȩ"ȩ́ vóó , kan hȩn yúú na"ȩ́ vóó tíŋ́ Yesu woolı̵́lá ? Wu̵ víw náa ? Séý víw ,
+52003009	~		Hȩn zó̧ó̧ dȩ"ȩ́ máa kíí kɔ́d vɔ́ tíŋ́ Tayɨɨ baa ví woolı̵́ yȩ , vɔ́ gaan moo tóó oo o̧n né ; séý vɔ́ dȩn Tayɨɨ wu̵ nag dágá .
+54003005	née		( Tow nán tóó a gaan kíi woo tu̵lı̵́ né tée , wú̵ń dəŋ née tu̵ nán sú̵ggı̵́ Tayɨɨ woo vu̵lá ? )
+54006007a	~		Ba yaan ví kan hȩn waaná' aga hágá yɛlı̵́ né . 
+54006007b	~		Báń duu pa̧ŋ ví hȩn tóó laan pig nɔmmé né á̧ḿ .
+58001005	~		moo Tayɨɨ o̧ddu̵ : « Mɔ́ Waa míí nu ; mí ha̧a̧m sı̵́ ɓəə ú̵ . » Tayɨɨ o̧n moo yȩ yúú maleeka tóó woolı̵́ né , o̧ yúú Waa woo woolı̵́ . Duu o̧ : « Míń mbaa Ba' woo , wú̵ń mbaa Waa míí . »
+58001013	~		Tayɨɨ ká o̧ : « A̧m ya mbaa nag nán míílí̧ , há̧á̧ mí 'yɛ́ ı̵́ maag móó vu̵ u̵u̵ mbaa hȩn doo 'ná'ané móó vu̵ pȩ́ń . » O̧n moo yȩ yúú maleeka woo tóó woolı̵́ né .
+58001014	ȩná		Maleeka sú̵u̵ vu̵ voo ȩná ? Ya voo 'waapád , vu̵ yigid ı̵́ ku̵u̵ kɔ́d Tayɨɨ ba'ad máa vu̵ yu̵ . Wu̵ ba' vu̵ ya , moo u̵u̵ ya maa nán ı̵́ u̵u̵ sə́d máa vu̵ yu̵ .
+58002003	née		Ma tow aa ɓéé ví moo sə́nné yȩ tée , báń dəŋ née sɔ́d ví hȩn si̧'i̧ní yȩlȩ́lá ? Ɨ́ 'yɛ́lı̵́ baa ví dəŋ moo moo sə́nné yȩ wu̵ tíŋ́ , ma nán ku̵u̵ ki máa , vu̵ duu tú'ud ba ví moo yȩ́ń yȩ .
+58002006a	ȩn		Ka' tóólı̵́ máa , nán tóó bíńda debterelı̵́ o̧ : « Tayɨɨ , nánán sú̵u̵ vu̵ ȩn , mɔ́ń duu taa vu̵lá ? 
+58002006b	~		Nánán yɛ , mɔ́ń duu gbá̧' vu̵ yaa ?
+58003016	nóo		Nán ı̵́ ku̵u̵ ki yɛ́g Tayɨɨ woo , ma ku̵u̵ lúú moo kannɔ máa , wu̵ nóo vu̵lá ? Wu̵ nán ı̵́ Múúsa ka vud vu̵ ya hág Mísiralı̵́ máa vu̵ yu̵ náa !
+58003017	nóo		Tayɨɨ ká kɔ́d nóo vu̵ zó̧ó̧ yȩ́ȩ́ ve' vo' ndaddú̵ máalá̧ ? Ká kɔ́d nán ku̵u̵ kɔ́ hȩn ɓı̵́d , ma ku̵u̵ nɔɔ hó̧g kȩŋŋı̵́ máa vu̵ yu̵ .
+58003018	nóo		Sey Tayɨɨ ka sa̧a̧ hȩn kan zó̧ó̧ yȩ́ȩ́ , ka o̧ : « Vú̵ń dɔ́n ya u̵u̵ sú̵g nəən kan mí wu̵lı̵́ yȩlȩ́ né sá̧ḿ » máa , o̧d nóo vu̵ moo yȩlá ? O̧d nán ku̵u̵ ŋgó̧ó̧ tɔ́g máa vu̵ yu̵ .
+58006004	~		Nán tóó vu̵ nuŋ ya túlí Tayɨɨ woo , vu̵ gu̵g nuŋ hȩn yȩ"ȩ́ ı̵́ be"ı̵́ máa sú̵'ú̵ , vu̵ nuŋ yigid Tayɨɨ woo sú̵'ú̵ á̧ḿ .
+58007011	~		Tayɨɨ pú̵ Múúsa dooká yúú ba'ad Levíd waa voolı̵́ , moo zig Izraɛ́l a duu ú . Tow hȩn ha"ı̵́ Levíd waa voo ka vu̵n kɔ́ ba'ad si̧' la gbug tée , nán hȩn ha"ı̵́ tóó kə́d kan duu yaa né . Nán hȩn ha"ı̵́ tóó ka yaa kan hȩn kɔ́lı̵́ ı̵́ Mɛlkisedɛ́g woo yȩ , yaan kan hȩn kɔ́lı̵́ ı̵́ Harúna woo nɔ né .
+58009014	~		dan tóó mɛm ı̵́ Krístu woo naa ? Krístu ha'ad Tayɨɨ fó̧ó̧ woo kan néélȩ́ yigid woo ka mbaa káákáá yȩ nɔ . Hȩn ha"ı̵́ woo yȩ kɔ́n ví̧i̧g né . Mɛm woo wú̵ń tɛ moo taalı̵́ lee zó̧ó̧ víílí , a mbaa dȩ"ȩ́ na'a , tée víń gbɔ ba'ad lee víí vu̵ , víń kɔ́d Tayɨɨ ı̵́ zá̧a̧d ba'ad .
+58010001	~		Debtere Múúsa woo vu̵ tú'un voo hȩn zu̵u̵ tə́g , moo yȩ́ńná né , man woo kan hȩn ka dɨ yaalı̵́ yȩ mannée . Hȩn ha"ı̵́ ku̵u̵ dɨ ha"ı̵́ ve' kan ve' , ku̵u̵ sí̧'i̧ ní yȩ , vu̵ kan néélȩ́ u̵u̵ mbɔ́g nán ı̵́ ku̵u̵ hí̧í̧ bi séé la Tayɨɨ woolı̵́ du̵u̵lı̵́ na'a máa pɛ́lı̵́ .
+58010029a	nɛ́nná		Ma dan tóó nán ı̵́ a ɓéé Waa Tayɨɨ woo má naa ! A 'yɛ́n mɛm ya̧g talı̵́ ka to̧n ba ví kan Tayɨɨ yȩ kɔ́ ı̵́ hȩn za̧a̧ tóó wɔgɔ né , a haa yigid zó̧ó̧ nán yȩ tée , wú̵ń mbaa nɛ́nná ? 
+58010029b	~		Tée víń taa du̵u̵lı̵́ na'a , 
+58010029c	~		hȩn si̧'i̧ní woo a nuŋ máa , 
+58010029d	~		ban zi̧i̧ mban kɛbbú̵ náa !
+58011032	nɛ́nná		Míń duu o̧ nɛ́nná ? Sey wú̵ń maan , moo a̧n duu moon moo yúú Gedeó̧ŋ woolı̵́ né , kan Barág , kan Sáḿso̧n , kan Zébte , kan Daavíd , kan Samɛ́l , kan anábi voolı̵́ á̧ḿ .
+58012007	~		I ma' zó̧ó̧ yúú hȩn ndɔ́gɔné víílí ú . Tayɨɨ si̧'i̧d ví si̧'i̧ní waaɨ . Waa tóó ba' woo ka si̧'i̧nɔ né máa dɨláa ?
+58012009	~		Ba duu taa ví ba' baa ví hágá yɛ vu̵ yu̵ . Vu̵ si̧'i̧d ba ví , a̧máa ba na' vu̵ ví bó ! Ndíga ba kid ví Ba' baa ví ı̵́ be"ı̵́ wu̵ tɔ́g mba , tée báń nuŋ ví vágád .
+58012025	~		I gággú̵ ! I ma moo ı̵́ ka dɨd ví moo o̧lȩ́ yȩ woo sá . Nán ı̵́ ku̵u̵ ma moo ı̵́ ka dɨd vu̵ moo Tayɨɨ woo gagané hágá yȩ máa , vú̵ń sɔ́n hȩn si̧'i̧ní yȩlȩ́ né , ma dan tóó ba vía ? Tow aa tii pig sad ví ı̵́ ka dɨd ba ví moo o̧lȩ́ zu̵u̵ be"ı̵́ zu woo tée , báń sə́n ví ní á̧ḿ .
+58013006	nɛ́nná		Moo woo nɔ báń o̧ ví kan zó̧ó̧ baa ví 'waapád , báń o̧ ví : « Ɨ́ 'yɛ́lı̵́ wú̵ńnɔ ya maan . Dú̵ú̵ wú̵ń kɔ́n mí ní . Nánán vú̵ń kɔ́n nɛ́nná ? »
+59002006	~		A̧máa ı̵́ víí , ví tii kɔ́d víí nán gíḿ vu̵ hȩn sȩ́ḿ mɛ́ń . Nán naa vu̵u̵ baa duun ví kan moo , vu̵u̵ pa̧ŋ laan ví ya moo sə̧"ȩ́lȩ́ má nɔ náa ?
+59002014	ȩn		Dan kirtȩ́n vu̵ , tow nán tóó a o̧ : « Mí 'yɛ́ míí zó̧ó̧ míí dɨ Tayɨɨ woolı̵́ , » a̧máa a kɔ́n ba'ad ka to̧o̧n Tayɨɨ né yȩ tée , ȩn wú̵ń du̵u̵du̵lá ? Zó̧ó̧ 'yɛ́lı̵́ woo yȩ wú̵ń səddu̵ áa ?
+59002016a	~		ma mɔ́ń o̧d vu̵ : « I laa nánná ; i o̧o̧ vee , i lá hȩn , i ha̧' la ú̵ ! » 
+59002016b	ȩn		A̧máa tow i pú̵n vu̵ hȩn ka maan vu̵ pú̵lı̵́ máa né tée , ȩn wú̵ń du̵u̵d vu̵lá ?
+59002018	~		A̧máa tóó tée nán tóó wú̵ń o̧ woo : « Mɔ́ 'yɛ́ móó zó̧ó̧ móó Tayɨɨ woolı̵́ , a̧máa mí kɔ́ míí ba'ad ka to̧o̧d Tayɨɨ má nɔ . » Ma míń hí̧i̧du̵ : « A̧m tú'un zó̧ó̧ 'yɛ́lı̵́ ı̵́ móó ka to̧o̧d Tayɨɨ ba'ad ka wu̵lı̵́ pɛ́lı̵́ má nɔ . Tée míń tú'um ba'ad ı̵́ míí ka to̧o̧d Tayɨɨ yȩ , tée mɔ́ń gaa zó̧ó̧ 'yɛ́lı̵́ míí wu̵lı̵́ . »
+59002021	née		Dəŋ née Tayɨɨ ka 'yɛ́ a ba ví yée Ibrahí̧í̧ma nán to̧o̧g woo máalá̧ ? Moo ba'ad woo ku̵u̵ to̧o̧d Tayɨɨ máa vu̵ yu̵ pɛ́láa ? Moo ka ɓɛ waa woo Iizág ha'ad Tayɨɨ ya hȩn ha"ı̵́lı̵́ má nɔ .
+59003013	~		Nán moo gaalı̵́ , tóó tée , nán moo taalı̵́ tóó a dɨ víílí ú tée , mbaalı̵́ du̵u̵ woo , kan yúú nə"ȩ́ woo a wu̵ tú' moo gaalı̵́ woo yȩ .
+59003017	~		A̧máa moo gaalı̵́ ı̵́ ka zu̵u̵ be"ı̵́ máa , dəné woo , mbaa woo dȩ"ȩ́ na'a , kan zó̧ó̧ ká̧'a̧d kan zó̧ó̧ to̧o̧ , faan moo né , hi̧' kan zó̧ó̧ nán , ba'ad du̵u̵ woo vu̵ laa tíŋ́ tíŋ́ , səgən nánán vu̵ né , kɔ́n zó̧ó̧ ví̧i̧g né á̧ḿ .
+59004001a	tɛ́lá		Ya̧g kɔ́nné , kan háńné víílí sa̧a̧mé yȩ , vu̵ yaad ví tɛ́lá ? Vu̵ yaan kan hȩn hí̧í̧lí̧ víí ka dɨ ví pinní fó̧lȩ́ yȩ nɔ náa ?
+59004001b	~		
+59004012	nɔ́nná		Tayɨɨ wu̵ dágá wu̵ pú̵ dooká vu̵ . Wú̵ńnɔ sə̧' moo , wú̵ńnɔ səd nán vu̵ á̧ḿ , tóó tée wú̵ń nɔɔ vu̵ . Ɨ́ móó káḿ sə̧'ə̧d dam tóó moo yȩ , mɔ́ móó nɔ́nná ?
+59004014	~		Ɨ́ víí kíí gaan hȩn yɔ́gɔ́ né , ví gaan mbaalı̵́ víí yɔ́gɔ́ né á̧ḿ , moo ví mbaa kɔ́ ı̵́ mam ka uu ya̧g ka̧'a̧mé máa wɔgɔ . Zaa tée daa 'wáa la .
+60002020	~		Tow i zi̧i̧ zó̧ó̧ mbaa moo kíí kɔ́ hȩn ɓı̵́d , ma ku̵u̵ gbɔ́ ví yȩ nɔ tée , ví kɔ́ hȩn gbo̧o̧ wu̵ yȩ naa ? A̧máa tow i nuŋ hȩn ndɔ́gɔné pig hȩn du̵u̵ kɔ́lı̵́ víílí , ma i zi̧i̧ zó̧ó̧ wu̵lı̵́ tée , tíŋ́ Tayɨɨ woolı̵́ máa hȩn du̵u̵ɨ .
+60003013	nóo		Tow i pi zó̧ó̧ moo hȩn du̵u̵ kɔ́lı̵́ tée , nóo wú̵ń kɔ́d ví hȩn ɓı̵́ddá ?
+60004017	nɛ́nná		Bá' moo sə̧"ȩ́ a dəŋ wu̵lı̵́ máa ya̧ sú̵'ú̵ ; wú̵ń dəŋ sə̧' zig Tayɨɨ woo wu̵ moo tíŋ́ . A̧máa tow moo sə̧"ȩ́ a dəŋ kan ba víw tée , nán ı̵́ ku̵u̵ ma moo to̧o̧ 'maŋ Tayɨɨ woo fȩȩlȩ́ yȩ vú̵ń kɔ́ voo nɛ́nná ?
+60004018	nɛ́nná		Debtere o̧ : « Sənné nán to̧o̧ voo a təə ú̵ tée , nán ku̵u̵ duunɔ né máa vu̵ , kan nán hȩn ɓı̵́d kɔ́lı̵́ vu̵ máa , vú̵ń mbaa voo nɛ́nná ? »
+61003004	~		Vú̵ń o̧ : « Yesu ta ya̧g ba bíń fíí ya dɨlı̵́ náa ? Máa dɨ tée ? A ba ví yée ká vu̵ nɔɔ ya sı̵́ káákáá pi nu , a̧máa hȩn 'waapád vu̵ dɨ mbaalı̵́ nag dágá yȩ nɔ kɔ́ ı̵́ Tayɨɨ ka yɨb vu̵ máa wɔgɔ . »
+61003011	~		Hȩn yȩ vú̵ń yı̵́ı̵́b 'waa ı̵́ yo̧go̧ . Moo woo nɔ , yúú mbaalı̵́ víílí i baa kɔ́ də́ń hȩn Tayɨɨ ka hí̧í̧ má nɔ , i dugu kəd .
+62002022	Nóo		Nóo kɔ́ vbáddá ? Wu̵ nán ı̵́ ka o̧ Yesu ba Krístu pɛ́lı̵́ má nɔ . Nán yȩ ı̵́ maag Krístu woo nɔ , su̵u̵ Ba'á Tayɨɨ kan Waa Tayɨɨ woo á̧ḿ .
+62003012	moo ȩná		Ba mbaa ví kɔ́ ı̵́ Kayí̧n wɔgɔ sá . Ká woo nán gbaŋ hȩn ɓı̵́d woo nɔ , ká nɔɔ daa sá̧ŋ́ . Nɔɔwo̧ moo ȩná ? Moo ba'ad woo aga ka kɔ́ máa , ba'ad ɓı̵́ddɨ , ba'ad daa sá̧ŋ́ woo ká wu̵ to̧o̧d Tayɨɨ .
+62003017	~		Nán tóó ka kɔ́ naa pȩ́ń , ka ho̧ daga kirtȩ́n tóó ka 'yɛ́n hȩn né , a̧máa ka sȩȩ nɔ́ɔ́ ya̧a̧wo̧ daa tée , wú̵ń duu o̧ ba bin hí̧í̧ Tayɨɨ zó̧ó̧ biilí áa ?
+62004020	~		Tow nán tóó a o̧ : « Mí hí̧í̧ Tayɨɨ ú̵ , » a̧máa a máń daga tóó tée , kɔ́ vbáddɨ . Nán sú̵u̵ a ho̧ daga vu̵ nɔ́lȩ́ ma , a hí̧i̧n vu̵ né tée , wú̵ń hí̧i̧n Tayɨɨ né á̧ḿ , moo nán sú̵u̵ ho̧n Tayɨɨ né .
+62005005	Nóo		Nóo mba hȩn hágá yɛ vu̵lá ? Séý nán ı̵́ ka fȩȩ moo Yesu ba Waa Tayɨɨ woo nɔ má nɔ .
+66005002	Nóo		Ma mí ho̧ maleeka tóó ka mba daga vu̵ máa , moo moo dɔg yúba , o̧ : « Nóo sı̵́ń dɨ kan néélȩ́ dɛ hȩn sȩȩmné yɛ vu̵ , ma sı̵́ń buu debtere yɛlá ? »
+66006010a	sey woo tɛ́lá		Vu̵ moo yɛ́g dɔg yúba , vu̵ vi : « Ɨ́ 'yɛ́lı̵́ vóó , ı̵́ hȩn gbo̧o̧ , ı̵́ yȩ́ń , mɔ́ laa bi sə̧'ə̧d nán ku̵u̵ nɔɔ vɔ́ hágá yȩ vu̵ moo , bi si̧'i̧d vu̵ sey woo tɛ́lá ? »
+66006010b	~		
+66006017	Nóo		Zá̧ga̧ hȩn si̧'i̧ní vóó ya̧ sú̵'ú̵ . Nóo sı̵́ń nda doo kan vu̵lá ? »
+66007013a	Nóo		Ɨ́ nii pee dágá vin : « Nóo vu̵ dɔ́ sa̧a̧m heená heená yȩlá ? 
+66007013b	tɛ́lá		Vu̵ yaa ya woo tɛ́lá ? »
+66013004a	Nóo		Nán 'waapád vu̵ bé' hȩn nii naa na"ȩ́ , moo ka pú̵ hȩn mam yȩ néélȩ́ woo má nɔ . Vu̵ na' hȩn mam pee á̧ḿ , vu̵ o̧ : « Nóo man kan hȩn mam yȩlá ? 
+66013004b	Nóo		Nóo sı̵́ń dɨ kan néélȩ́ kɔ́ sɨɨ kannɔlá ? »
+66015004a	Nóo		Nóo wú̵ń ndɔgɔn mɔ́ nélá , ı̵́ 'yɛ́lı̵́ vóó ? 
+66015004b	Nóo		Nóo wú̵ń sɛ́n mɔ́ na"ȩ́ nélá , moo móo mbaa hȩn gbo̧o̧ dágá , moo zig nán 'waapád vú̵ń yaa , vú̵ń nə'əy tíŋ́ móólȩ́ , vú̵ń na'am , moo ba'ad yȩ́ń móó vu̵ vúd ; nán vu̵ gaa sú̵'ú̵ . »
+66017007	Moo ȩn		Maleeka pee duu o̧n : « Moo ȩn mɔ́ mbaa ɗiilá ? Míń tú'um hȩn ka yú̵g wakȩ́ȩ́ yȩ woolı̵́ , kan hȩn hó̧g ka gaŋŋɔ yȩ á̧ḿ , hȩn hó̧g ka dɨ kan yúú gúndɛm kan ga̧' wa̧nɓó' yȩ nɔ .
+66018018	~		vu̵ ho̧ nim vee ka a̧n kaa yȩ , ma vu̵ ká̧ŋ́ , vu̵ o̧ : « Kaa gbo̧o̧ tóó kɔ́ ı̵́ kaa yȩ wɔgɔ máa pɛ́lı̵́ ! »

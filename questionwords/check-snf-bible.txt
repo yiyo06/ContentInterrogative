@@ -1,0 +1,743 @@
+40002002	Yada		ɓa meekisohha an : Yada buurii yaawúuꞌcii han kilímuɗa ? Ɗí hotin kuꞌolkaagari ga Peŋku ee ɗí hay kijaamukki .
+40002004	~		Ya hídírohha sarahohcaa ɓiyaakɓaa na jëgíroh-waascaa ɓu-dëkaa . Ya meekissaɓa ɗekataa Kiristaanaa jom kilímohuɗa .
+40003007	ɓa		Daa Saŋ hotee ɓiFërísiyeeŋ na ɓiSaduseyeeŋ ɓiyewin ɓaa hay gari kibëtísiꞌuk , ya woꞌꞌaɓa an : Heet goŋ-saamaancii , ɓii lëdíꞌtúu ɓa iñaa tahanndúu kirëc ga aylukaa Kooh ƴah kihayɗa ?
+40005013	na		Ɗú ɓërí en maraamii ëldúna . Binaa maraa safissiinaa , ma ɗaanohsan na ya ? Ma laaksisoo jeriñ , ma aamsan ga lëedúu , ɓuwaa togisohma .
+40005046	wiida		Binaa en lak ɗú waaꞌ ɓuwii waaꞌtúuɗa rekaa , neehalii wiida wërí ɗú laakan ga iñaama ? Iñaama , bi ga juuticii sah tumsinndi .
+40005047	ya		En lak ɗú këñɗohi na ɓoꞌꞌúu dogaa , ɗú tum ya daama yiyëkíꞌ ? Iñaama , bi ga yiifaꞌcii tumsinndi .
+40006027	yiida		Ɓii yiida garúu mín kiɓaat iñaa hín na siñdaa jokon ga kipesci , bi ya ɓítuki ga coonucaagari ?
+40006028	tahhúu ya		Kon iñii tahhúu kiɓítuk ya ga iñcaa ɗú ekukan ? Malkat ga pëegíi-nduhumfii fimóríꞌfii ga ëgíriiɗa na ga dii fa kolukiɗa : fa lëgëyoo , fa foliloo .
+40006031a	~		Kon kaa ɓítukat rek ga kiheel iñaa ɗú ñaman , 
+40006031b	na		na iñaa ɗú anan , 
+40006031c	na		na iñaa ɗú ekukan .
+40007003	tah ya		Iñii tah ya fu malaki ɓolaa en ga kuhaskaa mooroomfu , ee fu mínoo sah kimalaksukoh dúuñii ga kuhaskiigaraaɗa .
+40007004	Fu fu		Fu yii fu ɓay dúuñ ga kuhaskiigaraaɗa , fu mín na kiwoꞌ mooroomfu an : « Íisa mi nísíꞌtaa ɓolii en ga kuhaskiigaraaɗa » ?
+40007009	yiida		Ɓii yiida garúu eran kowukaagari atoh binaa ka kíimmbi mbúurúnaa ?
+40007016a	na		Ɗú ínohsohanɓa ga tumeencaagaɓa . Ɓoꞌ mínan na kiɓeen kowu reseŋ ga pëegíi-ñaawaaɓ 
+40007016b	~		wala kowu een ga kaꞌkaꞌ ?
+40008026	tahhúu ya		Yéesu woꞌꞌaɓa an : Iñii tahhúu ya kiniik hínɗa ? Ɗú daal ngëmiigarúu yëgíssii ! Waa ennda ɗa , ya kolukka , gëtta uurisaa na giiyaa , tóoh ennda selew .
+40008027	ɓa		Ɓa jaahliꞌꞌa lool , ɓa ɓaa woꞌ an : Moo ɓii yii yërí en ɓa bi uurisii sah na giiyii tumsi ga iñaa ya nakohɗa ? .
+40008029	ya		Ɓa aawwa kifiip an : Fu naríi ya , fu Kowukii Kooh ! Kitummbíi iñaa meskin haydohhaa dii ee wahtii leꞌꞌii duume ?
+40009004	tah ya		Wayee Yéesu ínohha iñaa en ga helcaagaɓa , woꞌꞌaɓa an : Iñii tah ya ɗú laak halaatcum cibóníꞌcuma ga helciigarúu ?
+40009005	yiida		Kon iñii yiida wëñ kiyooɓ kiwoꞌ lafañii ? Kiwoꞌꞌi an « Baakaaꞌcumgaraa bayaluununndaanoo » , kiwoꞌꞌi an « Kolka fu tíin » ?
+40009011	tah ya		Fërísiyeeŋcaa hotussa iñaama , woꞌussa tëelíbéecaa Yéesu an : Iñii tah ya jëgírohiirúu bok kiñam na juuticii na ɓuwii ɓibóníꞌɓii ɓii ?
+40009014	tah ya		Waa ennda ɗa , tëelíbéecaa Saŋ hayussa ga Yéesu , ɓa meekissari an : Iñii tah ya ɗí na Fërísiyeeŋcii ɗí oori ee tëelíbéeciigaraa ooꞌsoo ?
+40009015	na		Yéesu loffaɓa an : Ɓedohcaa haꞌ-kílookkaa , mínan na kiꞌen keeñɓa newoo ee lak haꞌ-kílookkaa yaa naɓa ? Wayee bes waa hay , waa haꞌ-kílookkaa hay kiɓewohu ga leelooɓa ; leꞌ bëríinaa , tëelíbéeciigoo hay kidalu kiꞌooꞌ .
+40010025	~		Tëelíbée heelat kiman na ɓaa jëgíꞌtiɗa rek ee súrga heelat kiman na haꞌ-kaanci rek . En lak haꞌ-kaadii yërí ɓa ɓay Belsebulaa , wëñaa ga ɓu-kaanci , ɓa ɓaysan na ?
+40011007	ya		Tëelíbéecaa ɓanakɓaa , daa ɓa soofee , Yéesu aawwa ɓuwaa kiwoꞌ ga loo Saŋ , an : Ɗú karee kimalaknee ya ga ëgíꞌ-dúndagaa ? Pëegíi-përúudúufaa en na kiꞌeguk ga uurisaane ?
+40011008	ya		Enndiikanaa , ɗú karee ya kimalaknee ? Ɓoꞌ yaa ekuk kúltí cimóríre ? Ee sah ɓuwii ekuk kúltí cimóríꞌɗa ɓii ga kaancii buuꞌcii .
+40011009	ya		Kon ɗú karee kimalaknee ya daama ? Sëldíiga-Koohe ? Ee ! Mi woꞌꞌúuka , ɓaama paafin sah sëldíiga-Kooh .
+40011016	naɓa		Ɓuwii jamaanii wati , mi mëdírohanɓa naɓa ? Ɓa man na oomaacaa yugu ga paanaa dëkaa ee ɓa woꞌ mooroomɓa an :
+40012011	Yiida		Yéesu taassaɓa an : Yiida garúu , binaa ya laak baal yíinoo doŋ , ee baalaa keen ga noŋ wihóotíꞌ ga bes Sabataa , ya karoori kiꞌam meƴdohhi ?
+40012026	na		Kon binaa Seytaani kaal Seytaaninaa , ya hëgískohin ga ɗuuƴci . Haa baanaa nguuraagari mínan na kituuk ?
+40012027	ɓa		Ee en an mi , Belsebul yërí onndoo dooli kikaal rawaa , haa ɓii on ɓuwiigarúu dooli kikaal raɓ ɓa ? Kon ɓuwumgarúu , ga kihafɓa , ɓërí attiꞌanndúu .
+40012029	na		Wala ɓan , ɓoꞌ mínan na kiꞌaas kaan ɓaa yaa na doolaagari gík , ya ɓeɓ iñaa yaama laakɗa ee ya ɗewohhii ga kiɓaŋngi paaƴ , doonaa ya han kimín kipook kaanfaa ?
+40012034	na		Túuk goŋ-saamaancii ! Dii ɗú bonɗa moos , ɗú mínan na kiwoꞌ yijófíꞌ ? En kiꞌenaa , iñaa meyi ga kúuw yërí líif ga keeñ haꞌci .
+40012048a	yiida		Yéesu taassa ɓaa an : Ɓii yiida en eewwoo ? 
+40012048b	ɓiida		Ɓuwii ɓiida en ɓikëmëeŋkíroo ?
+40013010	tah ya		Tëelíbéecaa deeyussa ga Yéesu , ɓa meekissari an : Iñii tah ya fu woꞌꞌa na ɓuwaa ga liiwuk ?
+40013027	na		Daa súrgacaa hotee pëegíi-jëmfaa , ɓa kaꞌta ga haꞌ-yoonaa , ɓa woꞌꞌari an : « Kiyaakii , hanaa fu sokéeríi pesoh pijófíꞌ ga yoonfu ? Kon tum na pëegíi-jëmfii en ga ɗuuƴgii ? »
+40013054a	gada		ya kaꞌta teeraa ya dëkohɗa , ya yaa jëgíꞌ ɓuwaa ga jaangu-yaawúuraa daamaɗa . Ɓéeɓ ɓuwaa súkúrukeeriɗa jaahliꞌussa ga lool bi ɓaa woꞌ an : Ya ɓewohnee hamhamii wii na kíntaancii ya tumiɗa gada ?
+40013054b	~		
+40013056	gada		Ee ɓikëmëeŋkíci ɓiɓeti enussii ɓéeɓɓa ga ɗuuƴcuune ? Iñcii ya mín cii tóohca ya ɓewohca gada ?
+40014031	tahhaa ya		Yéesu gaawwa kilërís yah , ammbari , woꞌꞌari an : Ngëmiigaraa daal dooyyii ! Iñii tahhaa kilaak hel kanak ya ?
+40015002	tah ya		Iñii tah ya tëelíbéeciigaraa taabuksoo baahcii caasamuncii ? Ndaga ɓa ƴah kiñamaa ɓa tísoo yahciigaɓa fodii dii baahcii nakohkaɗa .
+40015003	tah ya		Wayee Yéesu loffaɓa an : Haa ɗú , iñii tah ya ɗú taabukoo iñii Kooh nakohɗa ? Ɗú am ga baahciigarúu ?
+40015033	gada		Tëelíbéecaa woꞌussari an : Ñamahaa ƴah kikëpíꞌ ɓuwii ɓii , ɗí ɓewohanwa gada , ga ɗekatii wii laakoo daraɗa ?
+40015034	cera		Yéesu meekissaɓa an : Ɗú laak mbúurú cera dii ? Ɓa taassa an : Ciyitnakanak na tujëntaa yewinndii .
+40016008	tah ya		Yéesu ínohha iñaa ɓa en kiwoꞌ ga díkaantiɓaɗa , woꞌꞌaɓa an : Iñii tah ya ɗú woꞌ ga díkaantirúu an dii ɗú ɓaydohhii mbúurúɗa tah . Ngëmiigarúu daal dooyyii !
+40016009	cera		Helciirúu hayyii bi watine ? Hanaa ɗú níindísukkii mbúurúcaa ciyëtúuscaa warohsee ɓuwaa ɓijúnni-yëtúusɓaaɗa ( 5.000 ) ? Pañi cera cërí ɗú wookee ga iñaa teseeɗa ?
+40016010a	~		Haa mbúurúcaa ciyitnakanakcaa warohsee ɓuwaa ɓijúnni-nikiisɓaaɗa ( 4.000 ) , 
+40016010b	cera		ɗaba cera cërí ɗú wookee ga iñaa teseeɗa ?
+40016011	na		Tum na ɗú ínohoo an mi woꞌꞌiirúu mbúurú kiñam ga wii mi woꞌꞌúu an « Abukat ga lëwíiraa Fërísiyeeŋcaa na waa Saduseyeeŋcaa » ?
+40016013	ɓa		Yéesu kaꞌta bi ga ɓak teeraa Sesaree-Filiip . Daama , ya meekissa tëelíbéecaagari an : Ɓuwii woꞌu an mi , Kowukii ɓii , mi yërí en ɓa ?
+40016015a	~		Yéesu meekissaɓa an : Haa ɗú , 
+40016015b	ɓa		ɗú woꞌ an mi yërí en ɓa ?
+40016026a	ya		Ee ɓoꞌ enoh kilaak iñcii ga ëldúna tóohɗa ya , binaa ya naꞌ kiñak kipesci bi taaraa ? 
+40016026b	~		Ati laakin iñaa ɓoꞌ mín nawa kilaasoh kipeskaagari ?
+40017010	tah ya		Lëehíꞌta tëelíbéecaa meekissa Yéesu an : Iñii tah ya jëgíroh-waascii woꞌu an Ili yërí ɗewan kihay paaƴ . ?
+40017017a	bi kera		Yéesu woꞌꞌari an : Cëeƴ , ɗú ɓuwii wati , ɗú laakoo ngëm ee ɗú tumi iñaa joffii . Mi enan narúu bi kera ? 
+40017017b	bi kera		Mi múuñɗanndúu bi kera ? Haydohɗattoo oomaanaa gii .
+40017019	tah ya		Lëehíꞌta , ga waa ɓa tessa haŋɓaɗa , tëelíbéecaa deeyussa ga Yéesu , meekisussari an : Iñii tah ya ɗí , ɗí mínndii kikaal rawaama ga oomaanaa ?
+40017025a	ya		Ahaŋ kay , hayaa fayin ! Lëehíꞌta Peeꞌ aassa kaanfaa , daa ya leꞌee Yéesu ɗëwírukkari meekissari an : Ya Simoŋ , fu ínoh ya ga iñii yii ? 
+40017025b	ɓiida		Ɓuwii ɓiida jom kifay buuꞌcii ga ëldúnaɗa lempu wala juuti ? Ɓuwii dëku ga kúlkiiɗanoo ɓii en sagacɗa ?
+40018001	yiida		Ga wahtaama , tëelíbéecaa deeyussa ga Yéesu , ɓa meekissari an : Ɓii yiida wëñ kiyak ga Nguuraa yii ga ɗookɗa ?
+40018012	ya		Ɗú ínoh ya ga iñii yii ? Binaa ɓoꞌ laak baal ɓitéeméeꞌ ee ya múuƴluk ga yíinoonaa , ya foñanndii ɓidaaŋkaah-yitnanikiis na ɓiyitnanikiisɓaa ga ɗook jaŋjagaa ɓa níirohuɗa , ya ƴee kiraasnee yaa múuƴɗane ?
+40018021	cera		Waa ennda ɗa , Peeꞌ deeƴca ga Yéesu , meekissari an : Haꞌmudii , mbokkoo yaa dëkkoo kitooñ , mi jommbi kibayal waas cera ? Karat bi en waas ciyitnakanake ?
+40019007	tah ya		Fërísiyeeŋcaa meekisohussari an : Kon iñii tah ya Móyíis nakoh an binaa ɓoꞌ ƴah kifoñ ɓeticinaa , ya onuunun kibín këyít ya eꞌtija kiteewoh an sëyaa tasin ?
+40019016	ya		Laakka ɓoꞌ yaa deeƴ ga Yéesu meekissari an : Jëgírohii , mi mín ya kitum yijófíꞌ bi mi laas ga kipeskaa leehoo taaꞌɗa ?
+40019017	tah ya		Yéesu taassari an : Iñii tah yah fu meekissoo ga loo yijófíꞌyaa fu mín kitumɗa ? Ɓoꞌ yíinoo doŋ yërí jof . Fu waaꞌ kiꞌaas ga kipeskaa leehoo taaꞌɗanaa , tumaa iñcii Waasii Móyíis nakoh kitumɗa .
+40019018	ciida		Ɓaa meekissa Yéesu an : Iñcii ciida nakohu kitum ? Yéesu taassa an : Kaa laŋ kumuun ɓoꞌ ; kaa ɗúk ɓetifu wala ƴaalfu , fu faanuk na ɓoꞌ yiliis ; kaa lok ; kaa seediꞌ saboh .
+40019020	yiida		Oomaa-fiilaa woꞌꞌa Yéesu an : Mi tumin iñcuma tóohca , iñii yiida tessoo kitum ?
+40019025	ɓa		Daa tëelíbéecaa kelohee woꞌeenaama , ɓa waaruꞌꞌa lool , ɓa woꞌꞌa an : Kon baanaa , ɓii mín kimúc ɓa ?
+40019027	ya		Waa ennda ɗa , Peeꞌ dallari kiwoꞌ an : Malkaa , ɗí , ɗí foñin tóoh , ɗí taabukinndaa , kon ɗí ƴah ya kilaak ?
+40020006	ya		Ya meƴsissa lak nohaa waa soos , ya hotta ɓiɓoꞌ ɓiliis daama , ga paanaa , ya meekissaɓa an : « Ɗú yugoh ya dii noh-noh , ɗú tummbii dara ? »
+40020012	~		ɓa woꞌꞌari an : « Ɓuwii ɓii mëeñjoh kiɓewuɗa lëgëyu wahtu wíinoo doŋ ee fu hídíꞌɓa naríi , ɗí ɓii ɗí kooruk coonufii lëgëyii na taangaayii noh-nohɗa ! »
+40020021	ya		Yéesu meekissari an : Fu waaꞌ ya ? Ya taassa an : Dígaaroo an binaa fu yuŋ ga Nguuraagaraanaa , oomaciigoo ɓii , yii yugan ga yahfu ñaam , yíinoo ga yahfu seŋ .
+40020032	ya		Yéesu tuukka , ɓayyaɓa , woꞌꞌaɓa an : Ɗú waaꞌ ya mi tumiꞌtúu ?
+40021010	ɓa		Daa Yéesu aasee Yéerúsaleem , tóoh dëkaa yëngëlukka , ɓuwaa ɓaa meekisoh an : Ɓii yii , ya ɓa ?
+40021016	~		Ɓa dalla Yéesu kiwoꞌ an : Fu kelohin iñii oomaacii woꞌɗane ? Yéesu taassaɓa an : Ee mi keloh ga . Hanaa ɗú mosoo kijaŋ iñii bídu yii an : « Ga túuwtii oomaacii na tii liiꞌcii , fu meƴdohɗin haffu ga ƴeek-kañ » ?
+40021020	na		Daa tëelíbéecaa hotee iñaama , ɓa jaahliꞌꞌa lool , ɓa meekissa Yéesu an : Tum na kedikkii súɓ ga saasi ?
+40021023a	gada		Yéesu aassa Kaanfaa Kooh , ya yaa jëgíroh . Sarahohcaa ɓiyaakɓaa na yaakcaa dëkaa hayussa , ɓa meekissari an : Iñcii fu tumɗa , fu aƴka gada ? 
+40021023b	kitumɓa		Ɓii onndaaca kitumɓa ?
+40021025a	yiida		Saŋ-Bëtís , ɓii yiida woseeri kibëtísiꞌ ɓuwaa ? Kooh wala ɓoꞌ-súusúus ? Ɓa ɓaa woꞌ ga díkaantiɓa an : 
+40021025b	~		« Binaa ɗu woꞌ an Kooh yërí woseerinaa , ya hayyuu kilof an : 
+40021025c	tah ya		iñii tah ya ɗú gëmmbii ga Saŋ ?
+40021028	ya		Ɗú ínoh ya ga iñii yii ? Enee ɓoꞌ , ya laakee towu tanak . Ya hayya ga yíinooyaa woꞌꞌari an : « Kowuroo , wati , leenaa kara , fu lëgëynee ga yoon-biiñaagaruu . »
+40021031	Yiida		Yéesu meekissaɓa an : Yiida ga towutaa tanaktaa tum iñaa paamci waaꞌɗa ? Ɓa taassa an : Yaa ya ɗewohɗa yërí . Yéesu dallaɓa kiwoꞌ an : Mi woꞌꞌúuka ee kayoh ; juuticii na faankoh-pakaƴcii ɓërí ɗewanndúu kiꞌaas ga Nguuraa Kooh .
+40021040	ya		Yéesu meekissa ɓuwaa an : Binaa haꞌ-yoonaa hayaa , ya ƴah lëgëyohcaama na kitum ?
+40022012	na		Ya meekissari an : « Ƴaal , tum na fu aassa dii ee fu ɓayyii kúltí hew » ? Wayee ɓaa laakkii iñaa ya woꞌan .
+40022017	~		Kërí tah , woꞌaaríi halaatfu ga iñii yii : Waasii onohin kifay lempaa Sesaaꞌ , buuraa yiyaakyaa ga Roomɗanoo , onohhii ka ?
+40022018	tah ya		Wayee Yéesu ínohha nof-moroonaa ɓa naꞌɗa , ya woꞌꞌaɓa an : Ɗú ɓii ɗú jófjófɗuki ga fíkíi ɓuwiiɗa ! Iñii tah ya ɗú heelloo kifíꞌ ?
+40022020a	wuu ɓa		Yéesu nak meekissaɓa an : Nataalii wii wuu ɓa na teekii en gaɗa ?
+40022020b	~		
+40022028	yuuɓa		Diimaɗa woꞌaaríi bëríinaa ɓuwii mílísan ga kikaanɗa , ɓetifaama ƴah kiꞌen yuuɓa ga ɓiyitnaɓanakɓaa ? Ndaga yaa en ɓéeɓ ga ɓiyitnaɓanakɓaa ɓeweerari ɓeti !
+40022036	yiida		Jëgírohii , iñii yiida kuliyuk ga iñcii Waasii Móyíis nakohɗa ?
+40022042a	ya		Wiima lak Fërísiyeeŋcaa hídírukohuunun daama , Yéesu meekissaɓa an : Ɗú ínoh ya ga Kiristaanii ? 
+40022042b	ɓa		Ya kucaasamun ɓa ?
+40022043	na		Yéesu woꞌꞌaɓa an : Kon tum na Dëwít , ga waa ya líif na Helaa yiselaꞌíꞌyaaɗa , ɓayyari “ Haꞌmudii ” ? En kiꞌenaa , Dëwít ga kihafci woꞌin an :
+40022045	na		Waa Dëwít ɓay Kiristaanii “ Haꞌmudii ” , kon tum na bi Kiristaanii mín kiꞌen kucaasamun Dëwít ?
+40023017	ya		Ɗú dofin , ɗú búumin . Iñii wëñ kilaak solu ya ? Wúrúusaa en ga Kaanfaa Koohɗanoo Kaanfaa Kooh tah wúrúusaa kiselaꞌɗa ?
+40023019	ya		Búumíꞌcii ! Iñii wëñ kilaak solu ya : Sarahcaanoo loteelaa tah sarahaa kiselaꞌɗa ?
+40023033	na		Goŋcii ! Heet goŋ-saamaancii ! Tum na ɗú halaat kirëc ga safara ?
+40024003a	kera		Wiima lak Yéesu yugin ga ɗook tëgëlaa Ólíwíyéecaa , tëelíbéecaagari hayussa gari ɓa haŋɓa , meekisohussari an : Woꞌaaríi , iñcuma ƴah kilaak kera , 
+40024003b	wiida		ee mandargii wiida ƴah kiteewoh kihayiskaagaraa na kitúkíꞌkaa ëldúna ?
+40024045	yiida		Kon ɓii yiida en súrgaa tookɗin haꞌ-kaanci ee ya ñaañin ? Yërí en yaa haꞌ-kaanci tíkan ga fíkíi súrgacaagari , doo ya eꞌɓa yaa en ɓéeɓ iñaa ya jom kiñamɗa binaa wahtaa leꞌaa .
+40025037	kera		Fodaama ɓuwaa ɓijúwíꞌɓaa hayyi kitaas an : « * Haꞌmudii , ɗí hoteeraa kera lak fu yaawin , ɗí onndaraa fu ñam ? Ɗí hoteeraa kera lak fu pílin , ɗí onndaraa fu an ?
+40025038	kera		Ɗí hoteeraa kera lak fu sagac , ɗí ɗapparaa ? Ɗí hoteeraa kera lak fu tesin dúŋ , ɗí ekkaraa kúltí ?
+40025039	kera		Ɗí hoteeraa kera lak fu ɗúukoolin wala fu laguunun ga kasu , ɗí hayyaraa kiwaak ? »
+40025044	kera		Ɓaama ɓan , hayyi kitaas an : « Haꞌmudii , ɗí hoteera kera lak fu yaawin wala lak fu pílin , wala lak fu sagac , wala lak fu tesɗa dúŋ , wala lak fu ɗúukoolin , wala lak fu laguunun ga kasu ee ɗí dímalliiraa ? »
+40026008	ya		Daa tëelíbéecaa hotee iñaama , ɓa aylukka , ɓa ɓaa woꞌ an : Kiyasohkuma jeriñ ya ?
+40026010	ya		Yéesu ínohha iñaa ɓa woꞌɗa , ya woꞌꞌaɓa an : Ɗú sodaloh ɓetifii ya ? Iñii ya tumiꞌtooɗa jekin .
+40026015	ya		ya woꞌꞌaɓa an : Mi tík Yéesu ga yahhúunaa ɗú fayanndoo hín na ? Sarahohcaa ɓiyaakɓaa kídussa hanjaꞌ-hëelís cidaaŋkaah-kaahay , ɓa eꞌtari .
+40026017	gada		Ga besaa ɗeɓ ga feetaa ñamsi mbúurúcaa laakoo lëwíiꞌɗa , tëelíbéecaa Yéesu hayussa , ɓa meekissari an : Fu waaꞌ gada ɗí waayukɗineeraa ñamahii Paakii ?
+40026040	ya		Ya sooffa ga tëelíbéecaa ɓaahayɓaa , ya laakkaɓa ɓaa neeh , ya woꞌꞌa Peeꞌ an : Kon ɗú mínndii kiwíisoh luu enee sah wahtu wíinoo , waa ɗú yugan naroone ?
+40026050	~		Yéesu loffari an : Fiilii ! Iñii haydohhaaɗa tumaari . Waa ennda ɗa , ɓuwaa taam na Yúdaaɗa deeyussa , tíkussa yah ga Yéesu , abussari .
+40026054	na		Wayee baanaa iñaa bídu ga Këyítfaaɗa tuman na bi wa mat ? En kiꞌenaa , fa woꞌin an tóoh jomɗa kilaakoh .
+40026062a	~		Haꞌ-kaadaa sarahohcaa kolukka woꞌꞌa Yéesu an : Fu taasoo dara ga iñii ɓuwii ɓii yammbaaɗane ?
+40026062b	~		
+40026065	ya		Daama , Haꞌ-kaadaa sarahohcaa ɗaꞌta kúltícaagari ndaga kiꞌayluk , ya woꞌꞌa an : Ɓasin Kooh ! Ɗu enohis seedi ya ? Ɓéeɓpúu ɗú keloh ga , ɓasin Kooh .
+40026066	ya		Ɗú ínoh ya ga ? Ɓa taassa an : Yii kay , jom kiꞌapu hen !
+40026068	ɓa		ɓa ɓaa woꞌꞌi an : Fu Kiristaanii , líiruka , woꞌaaríi ɓii feekkaaɗa ?
+40027004	~		Ya woꞌꞌaɓa an : Mi tumin baakaaꞌ ndaga mi erohin ɓaa tummbii dara , ya apunee . Ɓa taassari an : Waassíi wíinoo gaa ga ! Fu yërí ínoh !
+40027013	~		Pílaat woꞌꞌari an : Iñcii fu yabu ɓéeɓcaɗa , fu kelohincane ?
+40027017	~		Pílaat meekissa mbooloomaa hídírukohee daamaɗa an : Ɗú waaꞌ mi méyíꞌtúu Barabaasoo Yéesu yii teeku Kiristaaniiɗa ?
+40027021	Yiida		Wayee Pílaat meekissa mbooloomaa an : Yiida ga ɓuwii ɓanakɓii ɓii yërí ɗú waaꞌ mi méyíꞌtúu ? Ɓa taassa an : Barabaas !
+40027022	na		Pílaat meekissaɓa an : Kon Yéesu yii teeku Kiristaaniiɗa mi tumanndi na ? Ɓéeɓɓa taassa an : Daayaari ga kuraa !
+40027023a	~		Wayee Pílaat meekisissaɓa an : 
+40027023b	ya		Ya tum ya yibóníꞌ ? Wayee ɓa ɓaa wëñ kifiip didóolíꞌ an : Daayaari ga kuraa !
+40027046	tah ya		Ee ga wahtu kigoonaluk , Yéesu lessa koonaa kiyaak an : Élí , Élí , lema sabaktani ? ( Wërí en an : « Koohyiigoo , Koohyiigoo , iñii tah ya fu foñnjoo ? » )
+41001024	ya		Yéesu Nasareet , fu naríi ya ? Fu hayyíi kiɗúbíre ? Mi ínohin ɓii fu enɗa . Fu yërí en ɓii yiselaꞌíꞌyii meyoh ga Koohɗa !
+41001027	na		Ɓuwaa enee daamaɗa ɓéeɓɓa jaahliꞌussa ga iñaama , bi ɓa ɓaa woꞌ ga díkaantiɓa an : Iñii yii man na ? Ati jëgíroh wiꞌas ! Ɓii yii woꞌi woꞌeen wíinoo , ee bi ga raɓcii sah tumsi iñaa ya nakohɗa !
+41002007a	tah ya		« Iñii tah ɓii yii kiwoꞌ iñaama ya ? Ɓasin Kooh ! 
+41002007b	ɓa		ii mín kibayal baakaaꞌ ɓa , enndii Kooh dogaa ? » .
+41002008	tah ya		Yéesu ínohha haat ga helaagari iñaa ɓuwaama halaatɗa . Ya woꞌꞌaɓa an : Iñii tah ya ɗú halaat iñuma ga helciigarúu ?
+41002009	yiida		Kon iñii yiida wëñ kiyooɓ kiwoꞌ lafañii : kiwoꞌꞌi an « Baakaaꞌcumgaraa bayaluununndaanoo » , kiwoꞌꞌi an « Koluka fu tíin » ?
+41002016	tah ya		Ga daa jëgíroh-waascaa faꞌ na Fërísiyeeŋcaa hotussi yaa bok kiñam na juuticaa na ɓuwaa júwussiiɗa ɓan , ɓa meekissa tëelíbéecaagari an : Iñii tah ya , ya bok kiñam na juuticii na ɓuwii júwussiiɗa ? .
+41002018	tah ya		Laakka bes , tëelíbéecaa Saŋ na ɓaa Fërísiyeeŋcaa ɓaa ooꞌ . Ɓiɓoꞌ hayya ga Yéesu kimeekissi an : Iñii tah ya tëelíbéecii Saŋ na ɓii Fërísiyeeŋcii ɓii ooꞌ , ee tëelíbéeciigaraa ooꞌsoo ?
+41002019	~		Yéesu taassaɓa an : Ɓedohcaa haꞌ-kílookkaa mínin kiꞌooru ee lak haꞌ-kílookkaa yaa naɓane ? En lakanaa haꞌ-kílookkaa kaa lís naɓa kiꞌen , ɓa mínoo kiꞌooꞌ .
+41002024	tahɓa ya		Laakka Fërísiyeeŋcaa woꞌu Yéesu an : Malka ! Iñii tahɓa kitum ya iñaa Waasii kokohin kitum ga bes Sabatɗa ? .
+41003004	ya		Lëehíꞌta ya woꞌꞌa ɓuwaa ensee daɗa an : Iñii onohu kitum ga bes Sabat ya ? Iñaa jofin wala iñaa moroo ? Kisom kumuun ɓoꞌ wala kilaŋ kumuun ? Ɓa ennda tiiꞌ .
+41003023	na		Yéesu ɓayyaɓa , liiwukkaɓa anee : Seytaani mín na kikaal Seytaani ?
+41003033a	ɓa		Ya taassa an : Ɓii en eewwoo ɓa ? 
+41003033b	ɓa		Ɓuwii en ɓikëmëeŋkírooɗa ɓa ?
+41004013	na		Yéesu woꞌsissaɓa an : Binaa ɗú ínohhii iñii liiwukii wii waaꞌ kiwoꞌɗanaa , ɗú mínan na kiꞌínoh iñii liiwukcii tesɗa waaꞌ kiwoꞌɗa ?
+41004030a	ya		Yéesu woꞌissa an : Iñii ɗu mín kimëdíroh Nguurii Kooh nawaɗa ya ? 
+41004030b	wiida		Wala liiwukii wiida mínwa kiteewoh ?
+41004038	~		Lak Yéesu yaa neeh ga ɓakaa hanoh bosaa loocaaɗa , tígínkin . Tëelíbéecaagari yúudussari , ɓaa woꞌꞌi an : Jëgírohii ! Tumuuntii ɓuwii ɓíttiiraane ?
+41004040a	ya		Lëehíꞌta ya woꞌꞌa ɓuwaa an : Iñii tahhúu kiniik ya ? 
+41004040b	~		Ɗú gëmmbii garoo bi watine ?
+41004041	ɓa		Ɓa tíitta lool ga iñaama ee ɓa ɓaa meekisoh ga leelooɓa an : Kon ɓii yii yërí en ɓa , bi uurisii sah na giiyii tumsi ga iñaa ya nakohɗa ? .
+41005007	ya		Yéesu woꞌꞌari an : Hel wibóníꞌ , meyohaa ga ɓii ! Ɓaa ennda ga kifiip didóolíꞌ an : Yéesu , fu naroo ya , fu Kowukii Kooh yii ga ɗookaa-ɗookɗa ? Mi yii kíimmbaa ga teekii Kooh , kaa tummboo iñaa meskin !
+41005009	na		Yéesu meekissari an : Fu teeku na ? Ɓaa taassa an : Mi teeku coogeel , ndaga ɗí yewinin .
+41005030	ɓa		Yéesu dalla kiyéeŋ ga hafci an laakin doolaa meyoh gari . Ya móoñsúkka ga leeloo mbooloomaa , meekisohha an : Ɓii leꞌ ga kúltíciigoo ɓa ?
+41005031	ɓa		Tëelíbéecaagari woꞌussari an : Fu hot ga dii mbooloomii ñaak ga ɗookfuɗa , an fu woꞌ an : Ɓii leꞌ garoo ɓa ?
+41005035	ya		Lak Yéesu yaa lís kiwoꞌ fodaama , ɓiɓoꞌ meyohussa kaan ɓaa kuliyuk ga jaangu-yaawúuraaɗa , kiwoꞌꞌi an : Kowukaagaraa kaanin . Iñii fu ƴah Jëgírohii kisonlukohis gaɗa ya ?
+41005039a	na		Ya aassa , woꞌꞌaɓa an : Coowiigarúu wa yak na ɗa ? 
+41005039b	ya		Ɗú looyoh ya ? Oomaanii kaanndii , en na kineeh .
+41006002a	gada		Bes Sabat hayya , ya yaa jëgíroh ga jaangu-yaawúuraa . Ɓoꞌ ɓiyewin daa ɓa súkúrukeeri , jaahliꞌussa , ɓa ɓaa woꞌ an : Ya ɓewohnee iñcii cii gada ? 
+41006002b	ya		Hamhamii ya ɓay wii , wa man na ? 
+41006002c	na		Ee tum na kíntaancaa man na cii mín kimeyoh gari ?
+41006022	~		Kowukaa kiɓetikaa Erojaas aassa kaa ham ; hamaa neɓpa Eroot lool , na ɓuwaa ya nakee hewaaɗa . Buuraa woꞌꞌa oomaa-jowaa an : Meekisohaaroo iñaa neɓpaa , mi hayyaari kiꞌeꞌ .
+41006024	ya		Oomaanaa meƴca , meekisneera eeci an : Mi kíimanndi ya ? Yaama taassari an : Hafaa Saŋ-Bëtís .
+41006037	~		Yéesu taassaɓa an : Eratɓa na kihaffúu iñaa ɓa ñaman . Wayee ɓa woꞌꞌari an : Ɗí karat kilomnee mbúurú iñaa leꞌ denariyon citéeméeꞌ-kanak , ee ɗí eꞌɓa ɓa ñame ?
+41006038	cera		Yéesu meekissaɓa an : Ɗú ɓay mbúurú cera ? Malaknat ! Ɓa laakka iñaa leeꞌɓa ga , ɓa hayya , ɓa woꞌꞌari an : Mbúurú ciyëtúus na jën kanak cërí ɗí laak .
+41007005	tah ya		Fodaama , Fërísiyeeŋcaa na jëgíroh-waascaa meekisohussari an : Iñii tah ya tëelíbéeciigaraa taabukussii baahcii caasamuncii , ɓa ñami na yahcaa settii ?
+41008004	gada		Tëelíbéecaagari taasussari an : Mbúurúcaa ƴah kikëpíꞌ ɓuwii ɓii meyohan gada , ga ɗekatii wii laakoo daraɗa ?
+41008005	cera		Yéesu meekissaɓa an : Ɗú laak mbúurú cera ? Ɓa taassa an : Ciyitnakanak .
+41008012	tah ya		Yéesu íikka hëes , woꞌꞌa an : Iñii tah ya ɓuwii wati waaru kihot kíntaan ? Mi woꞌꞌúuka ee kayoh ; ɓuwii wati , ken teewooɓa kíntaan .
+41008017	tah ya		Yéesu ínohha iñaa ɓa en kiwoꞌ ga díkaantiɓaɗa , woꞌꞌaɓa an : Iñii tah ya ɗú woꞌ an : dii ɗú laakoo mbúurúɗa kërí tah ? Bi wati helciirúu hayyiine ? Helciirúu aboo darane ? Ɗú yëgísíꞌ keeñciirúu ya ?
+41008018a	~		Man ɗú laakin has , ati ɗú hotoo ? 
+41008018b	~		Ɗú laakin nof , ati ɗú kelohoo ? . Ee hanaa ɗú níindísukoo :
+41008019	cera		ga waa mi weeliꞌ ɓuwaa ɓijúnni-yëtúusɓaa mbúurúcaa ciyëtúuscaaɗa , ɗú wookee pañi cera , caa ɗú líifɗee na mbúurúcaa teseeɗa ? Ɓa taassa an : Cidaaŋkaah na kanak . .
+41008020	cera		Yéesu meekisissaɓa an : Haa ga waa mi weeliꞌ ɓuwaa ɓijúnni-nikiisɓaa ( 4.000 ) mbúurúcaa ciyitnakanakcaaɗa , ɗú wookee ɗaba cera , caa ɗú líifɗee na mbúurúcaa teseeɗa ? Ɓa taassa an : Ciyitnakanak . .
+41008021	~		Ya woꞌꞌaɓa an : Ee helciirúu hayyii bi watine ?
+41008023	~		Yéesu ammba búumíraa ga yahaa , ya meƴca dëkaa nari . Lëehíꞌta ya tumiꞌtari mitoos ga hascaa , ya tíkkari yahcaagari , ya meekissari an : Fu yii hot yene ?
+41008027	ɓa		Yéesu kaꞌta na tëelíbéecaagari ga dëkcaa wíil teeraa Sesaree-Filiipɗa . Ga waasaa , ya meekissa tëelíbéecaa an : Ɓuwii woꞌu an mi yërí en ɓa ?
+41008029a	~		Ya meekissaɓa an : Haa ɗú , 
+41008029b	ɓa		ɗú woꞌ an mi yërí en ɓa ? Peeꞌ taassari an : Fu yërí en Kiristaanii .
+41008036	ya		Ɓoꞌ enoh kilaak iñcii ga ëldúna tóohɗa ya , binaa ya naꞌ kiñak kipesci bi taaraa ?
+41008037	~		Ati laakin iñaa ɓoꞌ mín nawa kilaasoh kipeskaagari ?
+41009010	ya		Tëelíɓéecaa abussa woꞌeenaama , ee ɓa ɓaa woꞌ ga díkaantiɓa an : Iñii ya waaꞌ kiwoꞌ ga « kimílís ga ɓuwaa kaaninɗa » ya ?
+41009011	tah ya		Lëehíꞌta ɓa meekissa Yéesu an : Iñii tah ya jëgíroh-waascii woꞌu an Ili yërí ɗewan kihay paaƴ ? .
+41009012	tah ya		Ya taassaɓa an : Ee , Ili ɗewan kihay , ya hëwíraat iñaa en tóoh bi jek . Wayee iñii tah ya , Këyítfaa Kooh woꞌ ɓan an Kowukii ɓii hay kikooroh ga mesiklaat ciyewin , ee ya hay kisagu ? .
+41009016	ya		Ya meekissaɓa an : Ɗú en na kiwoꞌ ya naɓa ?
+41009019a	bi kera		Yéesu woꞌꞌaɓa an : Cëeƴ , ɗú ɓuwii wati ee ɗú laakoo ngëmɗa , mi enan narúu bi kera ? 
+41009019b	bi kera		Mi múuñɗanndúu bi kera ? Haydohɗattoo oomaanaa . Ya haydohɗussari .
+41009021	kera		Yéesu meekissa paamunaa an : Iñii yii ammbi kera ? Paamunaa taassa an : Ammbi ga waa ya en oomaaɗa bi wati .
+41009028	tah ya		Lëehíꞌta Yéesu aassa kaan . Lak tëelíbéecaagari doŋ enu nari , ɓa meekissari an : Iñii tah ya ɗí , ɗí mínéeríi kikaal rawaama ga oomaanaa ?
+41009033	ya		Yéesu na tëelíbéecaagari leꞌussa Kafarnawom . Ga ɗuuƴ kaanfaa , Yéesu meekissa tëelíbéecaa an : Ɗú nookohee ya ga waasii ?
+41009050	na		Maraa jofin , wayee binaa maraa safissiinaa , ma ɗaanohsan na ya ? Madat na maraa ga ɓimooroommbúu . Laakat jam ga díkaantirúu .
+41010003	ya		Yéesu meekissaɓa ɓan an : Móyíis nakeerúu ya kitum ?
+41010017	na		Daa Yéesu enee na kimeƴ kiƴahɗa , laakka ɓoꞌ yiƴaal yaa hay gari na jaaꞌ , ya ƴíꞌꞌa ga fíkíici , meekissari an : Jëgírohii yijófíꞌyii , mi tuman na bi mi laak ɓakkoo ga kipeskaa leehoo taaꞌɗa ?
+41010018	tah ya		Yéesu woꞌꞌari an : Iñii tah ya fu woꞌ kijof garoo ? Ken joffii , enndii Kooh rekaa .
+41010026	ɓa		Tëelíbéecaa wëñussa kiwaaruꞌu . Ɓa ɓaa meekisoh ga díkaantiɓa an : Kon baanaa , ɓii mín kimúc ɓa ?
+41010036	ya		Yéesu meekissaɓa an : Ɗú waaꞌ ya mi tumiꞌtúu ?
+41010051	ya		Yéesu meekissari an : Fu waaꞌ ya mi tumiꞌtaa ? Búumíraa taassari an : Jëgírohii , tumɗaaroo bi mi mín kihot .
+41011003	ya		Ee binaa ɓoꞌ meekissúu an : « Iñum ɗú tum yuma ya ? » , Taasatti an : « * Haꞌmudii yërí laak sooli ga . Ee ya hayyi kiwosoh dii diima-diima . »
+41011005	tah ya		Ɓiɓoꞌ ga ɓuwaa ensee daamaɗa woꞌussa tëelíbéecaa an : Ɗú tum ya yuma ? Iñii tah ya ɗú pëkís cúmbúrii ?
+41011028a	ɓa		Ɓa meekissari an : Iñcii fu tumɗa , fu aƴca ga ɓa ? 
+41011028b	ɓa		Ɓii onndaa dooli kimínca kitum ɓa ?
+41011030	yiida		Ɓii yiida wosee Saŋ kibëtísiꞌ ɓuwaa . ? Kooh wala ɓoꞌ-súusúus ? Taasattoo ?
+41011031a	~		Wayee ɓa ennda ga kiwoꞌ ga díkaantiɓa an : Binaa ɗu taas an Kooh yërí woseerinaa , 
+41011031b	tah ya		ya hay kiwoꞌ an « Iñii tah ya ɗú gëmmbii ga Saŋ ? »
+41012009	na		Yéesu meekissa ɓuwaa an : Haa haꞌ-yoonaa tuman na ? Ya hay kihay , ya ap línohcaa , ya ek ɓiɓoꞌ ɓiliis ga yoonaa .
+41012015	tah ya		Wayee Yéesu ínohha helaagaɓa ɓa ɗaakɗa , ya woꞌꞌaɓa an : Iñii tah ya ɗú waaꞌtoo kifíꞌ ? Haydohɗattoo hëelís denariyon wíinoo , mi malak .
+41012016a	wuu ɓa		Ɓa haydohha ga wíinoo . Yéesu meekissaɓa an : Nataalii wii wuu ɓa , na teekii en gaɗa ? Ɓa taassa an : Cuu Sesaaꞌ .
+41012016b	~		
+41012023	yuuɓa		Diimaɗa woꞌaaríi , bëríinaa ɓuwii mílísan ga kikaanɗa , ɓetifaama ƴah kiꞌen yuuɓa ? Ndaga yaa en ga ɓéeɓ ga ɓiyitnaɓanakɓaa tumeerari ɓeti .
+41012028	yiida		Laakka jëgíroh-waasaa keloh ga daa ɓa en na kiwoꞌɗa , ya hotta an taasaa Yéesu taas Saduseyeeŋcaaɗa júwin , ya deeƴca gari , meekissari an : Iñii yiida kuliyuk ga iñcii nakohu kitumɗa ?
+41012035	na		Ga daa Yéesu jëgírohee ga ɗuuƴ Kaanfaa Koohɗa , ya meekisohee an : Jëgíroh-waascii mín na kiwoꞌu an Kiristaanii kucaasamun Dëwít ?
+41012037	na		Dëwít , ga kihafci , ɓay ɓaama « Haꞌmudii » : Kon tum na bi Kiristaanii mín kiꞌen kucaasamun rek ga Dëwít ? Mbooloo wiyaak waa súkúruk Yéesu ee iñaama neɓpaɓa ga keeñ .
+41013004a	kera		Woꞌaaríi , iñaama laakan kera , 
+41013004b	wiida		ee mandargii wiida teewohan an iñcii cii ɓéeɓca jomin kilaak ?
+41014004	ya		Ga ɓuwaa en daamaɗa , laakka ɓuwaa ayluk ga iñaama , ɓa ɓaa woꞌ ga díkaantiɓa an : Laak ya jeriñ kiyasoh laꞌkoleñii wii foduma ?
+41014006	ya		Wayee Yéesu woꞌꞌa an : Íisatti yas . Ɗú sodalohhi ya ? Iñii ya tumiꞌtooɗa jekin .
+41014012	gada		Ga besaa ɗeɓ ga feetaa ñamsi mbúurúcaa laakoo lëwíiꞌɗa ee bëríi tubaaltaa hoossi fodii sarah Paakɗa , tëelíbéecaa Yéesu meekisohussari an : Fu waaꞌ gada ɗí kaꞌtaa kiwaayukiꞌ ñamahii Paak ?
+41014014	wada		ee daa ya ƴah kiꞌaasohɗa , woꞌat haꞌ-kaanfaa an : « * Haꞌmudii meekisoh an : Túuyii mi ƴah kiñamoh Paakɗa wada , mi na tëelíbéeciigoo ? »
+41014060a	~		Waa ennda ɗa , haꞌ-kaadaa sarahohcaa kolukka ga fíkíi ɓéeɓ , meekissa Yéesu an : Fu taasoo dara ga iñii ɓuwii ɓii yammbaaɗane ?
+41014060b	~		
+41014063	ya		Daama , haꞌ-kaadaa sarahohcaa ɗaꞌta kúltífaagari ndaga kiꞌayluk , ya woꞌꞌa an : Ɗu laakis ya sooli ga woꞌeen seedi ?
+41014064	ya		Ɓéeɓpúu ɗú keloh ga , ɓasin Kooh . Ɗú ínoh ya ga ? Ɓuwaa ɓéeɓ tíkussa Yéesu saboh ee ɓa woꞌꞌa an ya jomin kiꞌapu . .
+41015004	~		Pílaat meekisissa Yéesu an : Fu taasoone ? Man fu keloh ga iñcii ɓa yammbaaɗa !
+41015012	na		Pílaat ɓeɓsissa daa karam an : Kon mi tuman na , na ɓii ɗú teek buurii yaawúuꞌciiɗa ?
+41015014a	~		Pílaat meekissaɓa an : 
+41015014b	ya		Iñii yibóníꞌyii ya tumɗa ya ? Wayee ɓa ɓaa wëñ kifiip didóolíꞌ an : Daayaari ga kuraa !
+41015034	tah ya		Ee ga wahtu kigoonaluk , Yéesu lessa koonaa didóolíꞌ an : Élóyí , Élóyí , lema sabaktani ? ( Wërí en : « Koohyiigoo , Koohyiigoo , iñii tah ya fu foñnjoo ? » )
+41016003	ɓa		Ɓa ɓaa woꞌ ga díkaantiɓa an : Ati ɓii ƴahhuu kipírgíniꞌ atohaa ga halaa loyaa , bi úsaayɗa ɓa ?
+42001018	na		Sakarí loffa malaakaa an : Mi ínohan iñaama na ? Ndaga mi guꞌgi , ee ɓetiroo ɓan yakakin .
+42001034	na		Mariyaama loffa malaakaa an : Iñaama mínan na kiꞌen ? Mi ínohoo ƴaal .
+42001043	ɓa		Mi yërí en ɓa , bi eew Haꞌmudiigoo , hay kaanndoo ?
+42001066	ɓee		Ɓaa iñaama aasin nofci ɓéeɓ , ammbaka ga helci ee ya yaa woꞌ an : Kuꞌoomaakii jii ƴah ɓee ? En kiꞌenaa , doolaa Haꞌmudii , enee nari .
+42002048	tah ya		Paamci na eeci hotussi hen , ɓa waaruꞌꞌa ; eeci meekissari an : Kowuroo , iñii tah ya fu tummbíi iñii yii ? Mi na paapu ɗí jaahliꞌeera lool ga dii ɗí eneeraa na kiraasɗa .
+42002049	ya		Ya loffaɓa an : Ɗú raaseeroo doo ya ? Ɗú ínohéeríi an mi jom kiꞌen ga kaanfii Paammboo hene ?
+42003007	ɓa		Ɓuwaa ɓaa hay ga Saŋ doo ya bëtísiꞌɓa . Ya yaa woꞌɓa an : Heet goŋ-saamaancii , ɓii lëdíꞌtúu ɓa iñaa tahanndúu kirëc ga aylukaa Kooh ƴah kihayɗa ?
+42003010	ya		Mbooloomaa meekissari an : Kon ɗí jom ya kitum ?
+42003012	ya		Juuticaa hayussa ɓan kibëtísiꞌu , ɓa meekissa Saŋ an : Jëgírohii , ɗí jom ya kitum ?
+42003014a	~		Laakka ɓan soldaaꞌcaa meekissi an : Ɗí ɓan , 
+42003014b	ya		ɗí jom ya kitum ? Ya woꞌꞌaɓa an : Kaa teꞌat hëelís ken na dooli wala ga pokiꞌ ɓoꞌ iñcaa laakkii , wayee eemat ga fayaagarúu .
+42004034	ya		Éeƴ ! Yéesu-Nasareet , fu naríi ya ? Kiɗúmíꞌtíi kërí haydohhane ? Mi ínohin ɓii fu enɗa : fu yërí en ɓii yiselaꞌíꞌyii meyoh ga Koohɗa .
+42004036	yee		Ɓuwaa ɓéeɓɓa jaahliꞌussa , ɓa ɓaa woꞌ ga díkaantiɓa an : « Cii woꞌeen ca yee ? Ɓii laakin dooli kinak raɓcii ɓa meyoh ga ɓuwaa ee na woꞌeen wíinoo rek ɓa meƴ . »
+42005021a	ɓa		Jëgíroh-waascaa na Fërísiyeeŋcaa ɓaa halaat ga ɗuuƴɓa , ɓaa woꞌ an : « Ɓii yii ya ɓa , ya ɓasi Kooh ? 
+42005021b	ɓa		Ɓii mín kibaal baakaaꞌ ɓa , enndii Koohaa ? »
+42005022	tah ya		Wayee Yéesu ínohha halaatcaagaɓa , woꞌꞌaɓa an : Iñii tah ya ɗú laak halaatcuma ga helciigarúu ?
+42005023	yiida		Kon iñii yiida wëñ kiyooɓ kiwoꞌ lafañii : kiwoꞌꞌi « Baakaaꞌcumgaraa bayaluununndaanoo » , kiwoꞌ an : « Koluka , fu tíin » ?
+42005030	tah ya		Fërísiyeeŋcaa na jëgíroh-waascaa faꞌ naɓaɗa ɓaa ñaꞌsukoh , ɓa woꞌꞌa tëelíbéecaa Yéesu an : Iñii tah ya ɗú bok kiñam na kiꞌan na juuticii na ɓuwii júwussiiɗa ?
+42005033	~		Ɓiɓoꞌ woꞌussa Yéesu an : Tëelíbéecii Saŋ na ɓii Fërísiyeeŋcii ooꞌsi leekleek ee ɓa kíimi Kooh , wayee ɓiigaraa ñami hen , ɓa ani .
+42005034	~		Yéesu loffaɓa an : Ɗú mínin kiꞌooꞌlukoh ɓedohcii haꞌ-kílookkii lakanaa haꞌ-kílookkii yii naɓane ?
+42006002	tah ya		Laakka Fërísiyeeŋcaa woꞌuɓa an : Iñii tah ya ɗú tum iñii Waasii kokohin kitum ga bes Sabat ?
+42006009	~		Lëehíꞌta , Yéesu woꞌꞌa ɓuwaa an : Mi meekissúu ati ga bes Sabat Waas onoh kitum iñaa jofin wala iñaa moroo , kisom kumuun ɓoꞌ wala kilaŋ kumuun ?
+42006032	wiida		Binaa en lak ɗú waaꞌ ɓuwii waaꞌtúuɗa rekaa , ndamii wiida wërí ɗú laakan ga iñaama ? Bi ga ɓuwii júwussiiɗa sah waaꞌsin ɓuwaa waaꞌɓaɗa .
+42006033	wiida		Ee binaa en lak ɓuwii tumɗirúu yijófíꞌɗa ɓërí rek ɗú íkiꞌ iñaa jofinaa , ndamii wiida wërí ɗú laakan ga iñaama ? Bi ga ɓuwii júwussiiɗa sah tumsinka .
+42006034	wiida		Ee binaa en lak ɓuwaa ɗú yaakaaꞌ an ɓa hayyúu kifayɗa ɓërí rek ɗú wútíranaa , ndamii wiida wërí ɗú laakan ga iñaama ? Bi ga ɓuwii júwussiiɗa sah wútíꞌsin ɓuwaa man naɓaɗa , lëehíraa ɓa laas iñaa hín na iñaa ɓa wútírohɗa .
+42006039	~		Lëehíꞌta , Yéesu liiwukkaɓa anee ɓan : Búumíꞌ mín kinook búumíꞌ mooroomcine ? Baanaa ɓéeɓɓa ɓa ɓanak , ɓa keenanndii ga noge ?
+42006041	tah ya		Iñii tah ya fu malaki ɓolaa en ga kuhaskaa mooroomfu , ee fu mínoo sah kimalaksukoh dúuñii en ga kuhaskiigaraaɗa ?
+42006042	~		Fu yii fu hottii dúuñii en ga kuhaskiigaraaɗa , fu mínan na kiwoꞌ mooroomfu an : « Fiilii , íisa mi nísíꞌtaa ɓolii en ga kuhaskiigaraa » ? Fu yii fu jófjófɗuki ga fíkíi ɓuwiiɗa , ɗewaa kinís dúuñii en ga kuhaskiigaraaɗa , en ɗanaa fu hay kihot dijófíꞌ bi fu mín kinís ɓolaa en ga kuhaskaa mooroomfuɗa .
+42006046	~		Yéesu tíkka ga an : Ɗú ɓayohhoo ya « * Haꞌmudii , Haꞌmudii » ee iñii mi nakirúuɗa ɗú tumoori ?
+42007024	ya		Ga waa ɓuwaa Saŋ woseeɗa karussa , Yéesu aawwa kiwoꞌ mbooloomaa iñaa aaw ga Saŋ , an : Ɗú karee kimalaknee ya ga ëgíꞌ-dúndagaa ? Pëegíi-përúudúufaa en na kiꞌeguk ga uurisaane ?
+42007025	ya		Enndiikanaa ɗú karee ya kimalaknee ? Ɓoꞌ yaa ekuk kúltí cimóríre ? En kiꞌenaa , ɓuwii ekuk kúltí cimóríꞌ ee dëku ga iñaa newinɗa , ɓii ga kaancii buuꞌcii .
+42007026	ya		Kon ɗú karee kimalaknee ya daama ? Sëldíiga-Koohe ? Ee ! Mi woꞌꞌúuka , ɓaama paafin sah sëldíiga-Kooh .
+42007031a	ɓa		Yéesu tíkka ga an : Kon ɓuwii jamaanii wati , mi mëdírohanɓa na ɓa ? 
+42007031b	ɓa		Ɓa man na ɓa ?
+42007042	yiida		Ya múuñíꞌtaɓa ɓéeɓɓa ɓanakɓaa ndaga lak ɓa mínéeríiri kifay . Kon yiida wëñanndi kiwaaꞌ ga ɓuwaa ɓanakɓaama ?
+42007049	ɓa		Ɓuwaa boksee nari kanuɗa ɓaa woꞌ ga helcaagaɓa an : « Ɓii yii ya ɓa , bi ya bayalli sah baakaaꞌ ? »
+42008025a	wada		Lëehíꞌta Yéesu woꞌꞌa tëelíbéecaagari an : Ngëmumgarúu narooɗa wada ? Wayee ɓa tíitta , ɓa waaruꞌꞌa lool , ɓa ɓaa woꞌ ga díkaantiɓa an : 
+42008025b	ɓa		Moo , ɓii yii ya ɓa ? Ya ebili sah uurisii na músúmii ee ca kelohɗiri !
+42008028	ya		Daa ya hotee Yéesu hen , ya fiippa , ya jafukka ga kotcaa Yéesu , ya woꞌꞌa didóolíꞌ an : Fu naroo ya , Yéesu , fu Kowukii Kooh yii ga ɗookaa-ɗookɗa ? Mi kíimmbaa hen , kaa tummboo iñaa meskin .
+42008030	na		Yéesu meekissari an : Fu teeku na ? Ya taassa an : Mi teeku coogeel . Ya woꞌee iñaama ndaga raɓ ɓiyewin ɓërí abeeri .
+42008045	ɓa		Daama Yéesu meekisohha an : Ɓii leꞌ garoo ɓa ? Waa ɓaa en ɓéeɓ yaa taasuk , Peeꞌ woꞌꞌari an : Jëgírohii , man ɓuwii wíiluununndaa ee ɓii ñuupuk garaa !
+42009009a	ɓa		Wayee Eroot woꞌꞌa an : Saŋ , mi gúꞌlukka hafaa . Kon ɓii mi keloh ya woꞌɗu iñcuma ɓéeɓcaɗa ya ɓa ? Ga iñaama ya aawwa kiheel kihot Yéesu .
+42009009b	~		
+42009018	ɓa		Laakka bes , lak Yéesu enee na kikíim Kooh haŋci ee tëelíbéecaagari ensee nari daama . Ya meekissaɓa an : Ɓuwii woꞌu an mi yërí en ɓa ?
+42009020a	~		Ya meekissaɓa an : Haa ɗú , 
+42009020b	ɓa		ɗú woꞌ an mi yërí en ɓa ? Peeꞌ taassa an : Fu yërí en Kiristaanii Kooh wosɗa .
+42009025	ya		Ee kilaak iñcii ga ëldúnaɗa tóoh jeriñan ɓoꞌ ya , en lak ya ñak hafcinaa wala ya saŋkuꞌaa ?
+42009041a	bi kera		Yéesu taassa an : Ɗú , ɓuwii wati , ɗú ɓii ɗú laakoo ngëm ee ɗú tumi iñaa joffiiɗa , mi enan narúu bi kera ? 
+42009041b	bi kera		Mi múuñɗanndúu bi kera ? Haydohaa kowukiigaraa dii .
+42010025	yiida		Laakka jëgíroh-waas yaa waaree kimalaksukoh Yéesu , ya kolukka , meekissari an : Jëgírohii , iñii yiida mi jom kitum bi mi laas ɓakkoo ga kipeskaa leehoo taaꞌɗa ?
+42010026a	yiida		Yéesu loffari an : Iñii yiida bídu ga Waasiiruu ? 
+42010026b	ya		Fu am ya ga iñaa fu jaŋ gaɗa ?
+42010029	yiida		Wayee jëgíroh-waasaa waaree kilaak kayoh , ya dalla kimeekis Yéesu an : Ɓii yiida en mooroommboo ?
+42010036a	~		Yéesu meekissa jëgíroh-waasaa an : Ga ɓuwaa ɓaahayɓaa ɓaama , 
+42010036b	yiida		yiida gaɓa teewoh kiꞌen mooroom ɓaa gúroh-waascaa feekeeɗa ?
+42011008	~		Mi woꞌꞌúu man , luu enee an ya kolukkii eꞌti mbúurú ndaga daa ɓa en ɓifíiliimunɗa , ennaa ya hay kikoluk eꞌti iñaa ya soolukɗa tóoh ndaga daa yaama ɗuucuk ga kikíimkaaɗa .
+42011011	yiida		Paamudii yiida garúu eran kowuci goŋ binaa ka kíimmbi jënaa ?
+42011012	ya		Wala ya eꞌka dagal binaa ka kíimmbi wakaa ?
+42011013	~		Kon ga dii ɗú hín kibonɗa , en lak ɗú ɓërí mín kiꞌon towutaagarúu enaama cijófíraa , wëñaa ga Paamudii ga ɗookɗa . Ɓuwaa kíimmbi Helaa yiselaꞌíꞌyaaɗa , ya onooɓayane ?
+42011018	na		Kon binaa Seytaani hëgískoh ga ɗuuƴcinaa , nguuraagari tuman na bi wa lísi kituuk ? Ndaga ɗú woꞌ an Belsebul yërí onndoo dooli kikaal raɓ ga ɓuwii .
+42011019	ɓa		En lak an mi , Belsebul yërí onndoo dooli kikaal rawaa , haa ɓii on ɓuwiigarúu dooli kikaal raɓ ɓa ? Kon ɓuwumgarúu , ga kihafɓa , ɓërí attiꞌanndúu .
+42012014	yiida		Yéesu taassari an : Moo ƴaalii yii , ɓii yiida falloo kiꞌattiꞌꞌúu wala kiwarohhúu alalaagarúu ?
+42012017	na		Ya yaa halaat ga helaagari an : « Mi tuman na ee mi laakoo daa mi ɗapan iñcii mi píikɗa ? »
+42012020	ɓa		Wayee Kooh woꞌꞌari an : « Fu yërí lohoƴ hel ! Ga wekii wati sah sah kipesfu hay kileeh . Kon iñcii fu waayukɗee haffuɗa tóohca , ɓii ƴahca kilaak ɓa ? »
+42012024	~		Malkat ga hëekërúucii , ɓa sokoo , ɓa píikoo , ɓa laakoo dap-kaan , ɓa laakoo dap fenoo kaan wayee Kooh yaa ñëmíꞌɓa . Ee ɗú wëñ selii solu fúuf !
+42012025	yiida		Ɓii yiida garúu mín kiɓaat iñaa hín na siñdaa jokon ga kipesci bi ya ɓítuki ga coonucaagari ?
+42012026	ya		En lakanaa iñaama doŋ ɗú mínoo kitum dara ganaa , ɗú ƴah ya kihalaat ga iñcaa cíinoo ?
+42012042	yiida		Haꞌmudii taassari an : Kon ɓii yiida yërí en súrgaa tookɗin haꞌ-kaanci ee teeyin ? Yërí en yaa haꞌ-kaanci tíkan ga fíkíi súrgacaagari , doo ya eꞌɓa yaa en ɓéeɓ iñaa ya jom kiñamɗa , binaa wahtaa leꞌaa .
+42012049	~		Yéesu tíkka ga an : Kiwii kërí mi hayee kihaydoh ga ëldúna , ee dii mi waaree ka am kimëeñíꞌɗa !
+42012056	na		Ɗú , ɓii ɗú jófjófɗuki ga fíkíi ɓuwiiɗa ! Ɗú mínin kimalaksukoh iñcii meyi ga asamaan na ga kakayɗanaa ; haa tum na ɗú mínoo kimalaksukoh iñii hew watiɗa ?
+42012057	tah ya		Yéesu woꞌissa an : Iñii tah ya ɓan ɗú malaksukohoo na kihaffúu iñaa júwin ?
+42013004	~		Haa ɓuwaa ɓidaaŋkaah na ɓiyitnaɓaahayɓaa tawahaa wihooꞌtawaa ga Sílowee keenee ga ɗookɓa , appaɓaɗa ; ɗú fooŋ an ɓërí wëñee kitum baakaaꞌ ga ɓu-Yéerúsaleem ɓéeɓɓane ?
+42013007	ya		Ya woꞌꞌa súrgaagari an : « Tíkíis taahay tee , taa mi hayi kiheel towu ga eenii wii , ee mi hotoo dara ga . Gúraawa ! Iñii tahan ya wa ñami kakayfii sooƴ ? »
+42013015	yiida		Haꞌmudii loffari an : Ɗú jófjófɗuki hen ga fíkíi ɓuwii ! Ɓii yiida garúu , en ga bes Sabataa , pëkísoo enohfaagari wala baamaagari ga daa ya sawoheeriɗa , ya ɓayyi kiꞌëníꞌnee ?
+42013018a	ya		Yéesu woꞌꞌa an : Iñii Nguurii Kooh man nawaɗa ya ? 
+42013018b	ya		Iñii mi mín nawa kimëdírohɗa ya ?
+42013020	ya		Yéesu woꞌissaɓa an : Iñii mi mëdírohan Nguurii Kooh nawaɗa ya ?
+42013025	~		Bëríinaa haꞌ-kaanfii kolukan , ya laŋ halaagari ee ɗú en ga fooh , ɗú aaw kifëekíꞌ halaa na kiwoꞌ an : « Kiyaakii , lëgísɗaaríi . » Ya hayyúu kitaas an : « Mi ínohoo dii ɗú meyohɗa ! »
+42014005	Yiida		Waa ennda ɗa , Yéesu woꞌꞌaɓa an : Yiida garúu , binaa kowuci wala enohci keen ga ɗuuƴ neꞌaa , ya gaawoori kimeƴdoh , luu enee ga bes Sabat ?
+42014028	yiida		En kiꞌenaa , yiida garúu , binaa ya waaꞌ kihëwíꞌ tawah wihooꞌtanaa , ɗewoo kiyuŋ paaƴ , ya malak iñaa jom kikaꞌ ga tawahaaɗa tóoh , doo ya ínoh ati iñaa ya laakɗa hay kidooy kimëtíꞌ lëgëyaa ?
+42014031	yiida		Ee ɓan buurii yiida , binaa ya ƴah kiheñohnee na buuꞌ yiliisaa , ɗewoo kiyuŋ paaƴ , ya malak ati ya hay kimín , na ɓoꞌ ɓijúnni-daaŋkaah , kileŋkoh na buuraa taam na ɓiɓoꞌ ɓijúnni-daaŋkaah-kanak ?
+42014034	na		Yéesu tíkka ga an : Maraa jofin . Wayee binaa maraa safissiinaa , ma ɗaanohsan na ya ?
+42015004	Yiida		Yiida garúu binaa ya laak baal ɓitéeméeꞌ , ee ya múuƴluk yíinoo ganaa , ya foñoo ɓidaaŋkaah-yitnanikiis na ɓiyitnanikiisɓaa , ɓa tes ga ëgíraa ? Lëehíraa ya kaꞌ kitëebíꞌnee yaa múuƴɗa , bi ga daa ya hotanndine .
+42015008	fiida		Yéesu tíkka ga an : Wala ɓetifii fiida ɓan , binaa ya laak hëelís cidaaŋkaah ee múuƴluk wíinoo ganaa , taaloo lampu , ya paruki , raasi dijófíꞌ bi ga daa ya hotanwa ?
+42015026	~		Ka ɓayya yíinoo ga súrgacaa , meekissari iñaa hewɗa .
+42015029	~		Wayee kowukaa woꞌꞌa paamci an : « Malka , tíkíis tiyewin tee , taa mi lëgëyiꞌtaa , mi mosoo kikëldúk woꞌeenfu ee fu mosooroo sah kiꞌon kupeꞌ , mi mbúumbaayuk na fiiliimunciigoo .
+42016002	ya		Haꞌ-alalaa ɓaylukka tuukkohaagari , woꞌꞌari an : « Iñii mi keloh woꞌu garaaɗa ya ya ? Teewaaroo iñum fu tum ga lëgëyiigaraaɗa , ndaga diimaɗa , fu ƴahissii kituukuk alaliigoo . »
+42016003	na		Tuukukohaa woꞌꞌa ga helci an : « Mi tuman na ga dii kiyaakii ƴahhoo kinís ga kituukuk alaliigariɗa ? Hanaa kilín kakayfii , wayee mi laakoo doolaa gawa , ee kisarahtuk , mi rúusinka .
+42016005	hín na		Waa ennda ɗa , ya ɓaylukka yíinoo yíinoo , ɓéeɓ ɓuwaa ɓayɗee haꞌ-kaanci kobotɗa . Ya woꞌꞌa yaa ɗeɓɗa an : « Fu laakiꞌ haꞌ-kaanndoo hín na ? »
+42016007	hín na		Lëehíꞌta ya woꞌꞌa yaa tík gaɗa an : « Haa fu , fu laakiꞌ haꞌ-kaanndoo hín na ? » Yaama taassa an : « Saaku citéeméeꞌ ga beli . » Tuukukohaa woꞌꞌari an : « Këyít-kobotfiigaraa fee , bídaa cidaaŋkaah-yitnakaahay . »
+42016011	ɓa		Kon binaa ɗú júɓpii ga kituukuk alal ëldúnanaa , ɓii díŋkaananndúu alalaa wiwóoríꞌwaa ɓa ?
+42016012	ɓa		Ee binaa ɗú enndii goꞌ ga iñaa enndii yuurúunaa , ɓii ƴahhúu kiꞌeꞌ iñaa en yuurúu ɓa ?
+42017007	yiida		Yéesu woꞌsissa an : Ɓii yiida garúu , binaa ya laak súrgaa línɗiri wala yaa níiꞌɗiri , ee súrgaa meyoh yooncaanaa ya woꞌꞌi an : « Deeya , fu yuŋ kiñam » ?
+42017017	ɓada		Yéesu woꞌꞌari an : Enndii ɓidaaŋkaahɓaa ɓéeɓɓa ɓërí wak hanaa ? Haa ɓiyitnanikiisɓaa ɓíinoo ɓada ?
+42017018	~		Ɗal ɓii yii ee enndii yaawúuꞌɗanaa , laakkii yíinoo gaɓa yaa ɓoyuk kigërëm Kooh !
+42017020	~		Fërísiyeeŋcaa meekissa Yéesu besaa Nguurii Kooh ƴah kihayɗa . Yéesu taassaɓa an : Nguurii Kooh ƴahhii kihay fodii iñaa ɓaa en ɓéeɓ hotan wa hayi , bi leꞌ .
+42017037	gada		Tëelíbéecaa meekissari an : Haꞌmudii , iñaama ƴah gada kilaakoh ? Yéesu taassaɓa an : Daa mídi enoh , daama ɓan suulcaa hídohsan da .
+42018018	na		Laakka ɓoꞌ yaa kuliyuk ga yaawúuꞌcaa , meekissa Yéesu an : Jëgírohii yijófíꞌyii , mi tuman na bi mi laak ɓakkoo ga kipeskaa leehoo taaꞌɗa ?
+42018019	tah ya		Yéesu woꞌꞌari an : Iñii tah ya fu woꞌ kijof garoo ? Ken joffii , enndii Kooh rekaa .
+42018026	ɓa		Ɓuwaa súkúrukeeriɗa woꞌussa an : Kon baanaa ɓii mín kimúc ɓa ?
+42018036	ya		Ya kelohha coowaa mbooloomaa enee na kipaafɗa , ya meekisohha iñaa hewɗa .
+42018041	ya		Yéesu meekissari an : Fu waaꞌ ya mi tumiꞌtaa ? Búumíraa taassari an : Haꞌmudii , tumɗaaroo bi mi mín kihotsis .
+42019007	~		Wayee ɓéeɓ ɓuwaa hotee iñaamaɗa ɓaa jambat an : Malkat , Yéesu kaꞌ kisagacuknee ga kaan ɓaa júɓpii !
+42019023	tah ya		Kon iñii tah ya fu wútírohiꞌtiiroo hëelísiigoo ? Eneenaa mi ɓoyukaa , mi mínwa kilaas na iñaa wa límɗa . »
+42019031	ya		Ee binaa ɓoꞌ meekissúu an : « Ɗú pëkísohhi ya ? » Taasatti an : « Haꞌmudii yërí laak sooli ga . »
+42019033	ya		Lakanaa ɓa ɓaa pëkís cúmbúꞌ-baamaa , haꞌmuncaa woꞌussaɓa an : Ɗú pëkísoh cúmbúrii ya ?
+42020002a	ɓa		ɓa meekissari an : Woꞌaaríi iñcum fu tumɗa fu aƴca ga ɓa ? 
+42020002b	ɓa		Ɓii onndaaca kitum ɓa ?
+42020005a	~		Wayee ɓa ɓaa woꞌ ga díkaantiɓa an : 
+42020005b	tah ya		Binaa ɗu taas an : « Meyohee ga Koohaa » , ya hayyuu kilof an : « Iñii tah ya ɗú gëmmbii ga Saŋ ? »
+42020013	na		Haꞌ-yoonaa woꞌꞌa ga helci an : « Moo , mi tuman na ? Hanaa mi wosan kowukiigoo mi keeñukɗa , heƴna ɓa hayyi kiꞌon céeꞌ . »
+42020015	na		Ɓa meƴdohhari yoonaa , ɓa appari . Yéesu meekissaɓa an : Haa haꞌ-yoonaa tuman ɓuwaama na ?
+42020017	ya		Wayee Yéesu yíppaɓa has , woꞌꞌaɓa an : Kon woꞌeenii wii bídu ga Këyítfaa Koohɗa , wa waaꞌ ya kiwoꞌ : « Atohaa tawahohcaa jafeeɗa , atohaa waama , enin atoh-koñ ! »
+42020023	~		Wayee Yéesu ínohha iñaa ɓa heelɗa , woꞌꞌaɓa an :
+42020024a	cuuɓa		Teewattoo hëelís denariyon wíinoo , Nataalii wii na teekii en gaɗa cuuɓa ? Ɓa taassari an : Cuu buuꞌ Sesaaꞌ .
+42020024b	~		
+42020033	yuu ɓa		Kon bëríinaa ɓuwii mílísan ga kikaanaa ɓetifaama ƴah yuu ɓa ? Ndaga yaa en ɓéeɓ ga ɓiyitnaɓanakɓaa tumeerari ɓeti .
+42020041	na		Yéesu woꞌissaɓa an : Ɓuwii mín na kiwoꞌu an Kiristaanii kucaasamun Dëwít ?
+42020044	na		Fodaama Dëwít ɓayyi « Haꞌmudii » . Kon Kiristaanii mín na kiꞌen ɓan kucaasamun Dëwít ?
+42021007a	kera		Ɓuwaa meekisussa Yéesu an : Jëgírohii , iñcaama ƴah kilaak kera ? 
+42021007b	wiida		Mandargii wiida teewohan an iñcii cii jomin kilaak ?
+42022009	gada		Ɓa meekissa Yéesu an : Fu waaꞌ ɗí waayukneefa gada ?
+42022011	wada		ee ɗú woꞌ haꞌ-kaanfaama an : Jëgírohii meekisoh an túuyaa ya ñamohan Paak , ya na tëelíbéecaagariɗa wada ?
+42022027	yiida		En kiꞌenaa , yaa yuŋ ga kankaa kiñamɗa , na yaa enndi na kinoriꞌɗa ; ɓanakɓaama , yiida wëñ ga kiyak ? Man yaa yuŋ ga kankaa kiñamɗa yërí ya , enndii ɗane ? Mi nak , mi yii ga díkaantirúu fodii súrga .
+42022046	ya		Ya woꞌꞌaɓa an : Ɗú neeh ya ? Kolkat , ɗú aaw kikíim Kooh doonaa ɗú keenoo ga fíraa Seytaani .
+42022064	ɓa		Ɓa pokka hascaagarinaa , ɓa meekisiri an : Líiruka , ɓii feekkaaɗa ɓa ?
+42022071	ya		Ɓa dalla kiwoꞌ an : Ɗu laakis ya sooli ga woꞌeen seedi ? Ɗu kelohin ga kúuwci na kihaffuu !
+42023022a	~		Pílaat woꞌissa naɓa kotaa kukaahaykaa an : 
+42023022b	ya		Ɓii yii tum ya yibóníꞌ ? Mi hottii dara gari iñaa tahan kumuunci hín ga . Kon mi hay kitëmóhíꞌ faanci , mi íissi ya ƴee !
+42023031	na		Kon , en lak kedik kiꞌiilii kërí tumu aneenaa , haa kisúwíꞌkaa ƴah na kitumu ?
+42024005	ya		Ɓeticaa tíitussa lool , híilussa kakay . Ɓuwaa ɓanak ɓaa woꞌussaɓa an : Ɗú raas ɓaa en na kipes ya ga leeloo ɓuwaa kaaninɗa ?
+42024017	na		Yéesu meekissaɓa an : Ɗú en na kisaawalukoh ya ga waasii ? Daama ɓa tuukka , keeñɓa leehha tak .
+42024019	ya		Yéesu meekissaɓa an : Iñii hewee ya ? Ɓa taassari an : Hanaa iñaa aaw ga Yéesu Nasareet ! Ya enee sëldíiga-Kooh yiyaak ga fíkíi Kooh na ga fíkíi ɓuwii ɓéeɓɓa : tumeencaagari yakeera ee woꞌeencaagari laakeera dooli .
+42024025	~		Yéesu dallaɓa kiwoꞌ an : Ɗú daal , ɗú ɓërí lohoƴ hel ee ɗú ɓërí yéeh ga kigëm iñcaa sëldíiga-Koohcaa yéegaloheeɗa !
+42024038a	tah ya		Wayee Yéesu woꞌꞌaɓa an : Iñii tah hafciirúu kimúuƴ ya bi ɗú laaki hel kanak ga iñii ɗú hotɗa ?
+42024038b	~		
+43001019	ɓa		Yaawúuꞌcaa ga Yéerúsaleemɗa wosussa ɓisarahoh na ɓiLéwít kimeekis Saŋ-Bëtís an : Fu yërí en ɓa ? Iñii yii yërí Saŋ seediꞌ .
+43001021	ɓa		Ɓa meekissari an : Kon fu yërí en ɓa ? Fu yërí en Ili , sëldíiga-Koohaane ? Saŋ taassaɓa an : Óꞌóo , mi enndiiri . Ɓa meekissari an : Fu yërí en sëldíiga-Koohii jom kihayɗane . ? Saŋ taassaɓa an : Óꞌóo .
+43001022a	ɓa		Waa ennda ɗa , ɓa woꞌꞌari an : Kon woꞌaaríi ɓii fu enɗa , ndaga ɓuwaa wossíiɗa , ɗí jomin kilaak iñaa ɗí woꞌanɓa . 
+43001022b	ya		Fu woꞌ ya ga haffu ?
+43001025	tah ya		Ɓa meekissari an : Waa fu enndii Kiristaanii , fu enndii Ili , fu enndii sëldíiga-Koohii jom kihayɗa , kon iñii tah ya fu bëtísiꞌi ɓuwii ?
+43001038a	ya		Yéesu heelukka , ya hotta an ɓa ɓaa taabukki , ya meekissaɓa an : Ɗú heel ya ? 
+43001038b	gada		Ɓa woꞌꞌari an : Rabí , fu dëk gada ? « Rabí » wërí en « Jëgírohii » . 
+43001046	~		Natanayeel woꞌꞌari an : Nasareete ? Enaama yijófíꞌ mínin daama kimeyohe ? Filiip woꞌꞌari an : Haya , fu hot .
+43001048	gada		Natanayeel meekissari an : Fu ínohohhoo gada ? Yéesu taassari an : Balaa Filiip ɓayyaanaa , mi hotee garaa lak fu yaa ga bosaa eenaa .
+43002004	ya		Yéesu taassari an : Yaꞌɓu , mi naraa ga ya , ee wahtiigoo leꞌꞌii duum ?
+43002018a	~		Waa ennda ɗa , ɓuwaa kuliyuk ga yaawúuꞌcaaɗa woꞌussari an : Tumaa Kíntaan , fu teeɓpíi an fu ga kayoh ga iñii fu tum yii !
+43002018b	~		
+43003004	na		Níkodeem meekissari an : Ɓaa kasohin límukisan na ? Ya mínan na kiɓoyukis lookaa eeci , ya límukis ?
+43003009	na		Waa ennda ɗa , Níkodeem meekissari an : Iñaama mín na kiꞌen ?
+43003012	na		Mi woꞌ narúu ga iñaa aaw ga ëldúna , ɗú gëmmbiiroonaa , binaa mi woꞌ narúu ga iñaa aaw ga Koohaa ɗú mínanndoo na kigëm ?
+43004009	na		Ɓetifaama ee dëk Samaríiɗa , taassa Yéesu an : Fan na ? Fu , fu Yaawúuꞌ , fu kíimmboo músú kiꞌan , mi yii mi bok ga ɓu-Samaríiɗa ? ( Ɓetifaa woꞌee iñaama ndaga yaawúuꞌcaa na ɓu-Samaríi haɓséeríi ga kuꞌon peꞌ . )
+43004011	gaɗa		Ɓetifaa woꞌꞌa Yéesu an : Kiyaakii , fu laakoo hoc ee neꞌii huutin . Fu ɓewohan músúmaa onohi kipesɗa gaɗa ?
+43004027a	ya		Ga wahtaama , tëelíbéecaa Yéesu leꞌussa . Ɓa jaahliꞌꞌa lool ga daa ɓa laak Yéesu yaa saawal na ɓetiɗa . Wayee laakkii yíinoo gaɓa yaa kaañnji kimeekis an : « Fu meekisoh ya ? » wala 
+43004027b	ya		« Fu waaꞌ ya gari ? »
+43005012	ɓa		Ɓa meekissari an : Haa , ɓaa yaama woꞌꞌaa an « ɓewaa gataniigaraa fu tíinɗa » ya ɓa ?
+43005044	na		Ɗú wëñi kiwaaꞌ kindamoh ga ɗuuƴcúu ee ɗú heeloo ndamaa meyoh ga Kooh haŋci doŋɗa . Kon ɗú mínanndoo na kigëm ?
+43005047	na		Wayee waa ɗú gëmmbii iñaa Móyíis bín yaama ga Këyítfaaɗa , ɗú tuman na bi ɗú gëm iñcii mi woꞌɗa ?
+43006005	gada		Yéesu malak hen , ya séennda mbooloo wiyaak waa hay gari . Ya meekissa Filiip an : Mbúurúcaa mínan ɓuwii ɓii ɓéeɓ kiñëmíꞌɗa , ɗu lomohnanca gada ?
+43006009	ya		Laakin kuꞌoomaa-ƴaalkaa en dii , ja ɓayin mbúurú-lorsu ciyëtúus na jën kanak . Wayee ɓuwii , dii ɓa yewinɗa , iñcaama ca paƴɓa ya ?
+43006025	kera		Ɓa laakneera Yéesu ɓakaa giiyaa hanoh gaaɗa , ɓa meekissari an : Jëgírohii , fu hay dii kera ?
+43006028	ya		Waa ennda ɗa , ɓa meekissari an : Kon ɗí jom ya kitum lëgëy kimëtíꞌ iñcii Kooh sek garíiɗa ?
+43006030a	~		Ɓa woꞌꞌari an : Tumaa Kíntaan , ɗí hotwanaa ɗí gëm garaa ! 
+43006030b	ya		Iñii fu tumɗa ya ?
+43006042	na		Ɓa ɓaa woꞌ an : Ɓii yii , hanaa enndii Yéesu , kowu Yoseef ? Ɗu ínohoo eeci na paamci hene ? Ya mín na kiwoꞌ diima an : Mi yoosukoh ɗook asamaan ?
+43006052	na		Ga iñaama , yaawúuꞌcaa enussa ga nookoh witamóhíꞌ , ɓaa woꞌ an : Ɓii yii mínannduu na kiꞌeꞌ faanfiigari kiñam ?
+43006060	ɓa		Ɓoꞌ ɓiyewin ga tëelíbéecaa Yéesu , daa ɓa kelohee iñaa ya woꞌ yaama , woꞌussa an : Woꞌeenii wii , wa ɓít na ɗa ? Ɓii mín ɓa kiyuŋ súkúrukiwa ?
+43006062	~		Haa binaa ɗú hot Kowukii ɓii ɓoyuk ga daa ka ɗewee kiꞌenɗanaa ?
+43006068	ɓa		Simoŋ-Peeꞌ taassari an : Haꞌmudii , ɗí ƴahan ga ɓa ? Fu yërí ɓay Woꞌeencii onohi kipeskaa leehoo taaꞌɗa .
+43007011	ya da		Ɓuwaa kuliyuk ga yaawúuꞌcaaɗa ɓaa raassi ga ɗuuƴ hewaa , ɓaa meekisoh an : Ya ya da ?
+43007015	na		Yaawúuꞌcaa jaahliꞌussa ga iñcaa ya jëgírohɗa , ɓa ɓaa woꞌ an : Waa ya jaŋngii , tum na bi ya ínoh iñii Këyítfii woꞌɗa fodii dii ?
+43007019	tah ya		Enndii Móyíis yërí eꞌtúu Këyítfaa Waasaane ? Ee yíinoo garúu taabukkii iñaa fa nakohɗa . Iñii tah ya ɗú heelloo kiꞌap ?
+43007020	ɓa		Ɓuwaa taassari an : Fu déy Seytaani aaskinndaa ! Ɓii heellaa kiꞌap ɓa ?
+43007023	tah ya		En lak ɗú mínin kigúꞌ oomaa ga bes Sabat ndaga kisaŋ kiɗeeŋ Waasii Móyíisaa , iñii tah ya ɗú aylukkoo ndaga dii mi wëkɗin ɓoꞌ ñëm ga bes Sabat ?
+43007035	gada		Ga iñaama , ɓuwaa kuliyuk ga yaawúuꞌcaaɗa ɓaa woꞌ ga díkaantiɓa an : Ya ƴah gada kikaꞌ daa ɗu mínoori da kilaak ? Ya ƴah kilaaknee yaawúuꞌcaa tasaarukoh ga ɗuuƴ Gerekcaaɗane ? Ati ya ƴah kijëgíꞌnee Gerekcaa ?
+43007036	ya		Woꞌeenii ya woꞌ wii an « Ɗú hayyoo kiraas wayee ɗú hotanndiiroo , ee ɗú mínoo kikaꞌ ga daa mi ƴah kiꞌenɗa » , wa waa ya kiwoꞌ ?
+43007041	~		Ɓíinoo an : Kiristaanii yërí ! Wayee ɓíinooɓaa woꞌꞌa an : Kiristaanii mínin kimeyoh Gëlíléene ?
+43007045	tah ya		Ɓuwaa watuki Kaanfaa Kooh ee ɓa wossee kiꞌam Yéesuɗa , ɓoyukussa ga sarahohcaa ɓiyaakɓaa na ga Fërísiyeeŋcaa . Daa ɓa leꞌee , ɓaama meekissaɓa an : Iñii tah ya ɗú haydohhiiri ?
+43007048	~		Ɗú hotin ɓoꞌ yíinoo ga ɓuwii kuliyuk ga Waasiigaruu wala ga Fërísiyeeŋcii yaa gëm garine ?
+43007051	ya		Waasiigaruu oninnduu kitík ɓoꞌ kikaan ee lak ɗu súkúrukkiiri ee ɗu ínohoo ati ya tum ya yibóníre ?
+43008005	ya		Ee ga Waasii , Móyíis nakoh an ɓetifaa tum iñaamanaa jom kitapu na atoh bi ya kaan . Fu nak , fu woꞌ ya ga ?
+43008010	ɓada		Yéesu yolohha , meekissa ɓetifaa an : Ɓetifii , ɓada ɓuwii yabeeraaɗa ? Ken attiꞌꞌiiraa kikaane ?
+43008019	Ya da		Ɓa meekissari an : Ya da Paamfu ? Yéesu loffaɓa an : Ɗú ínohoo ken garíi , enndii mi enndii Paammboo . Enee an ɗú ínohinndoonaa , ennaa ɓan ɗú ínoh Paammboo .
+43008025a	ɓa		Ɓa meekissari an : Fu , fu yërí en ɓa ? 
+43008025b	~		Yéesu taassaɓa an : Mi dëk ga kiwoꞌꞌúuka ga dalaaraa bi ga wati .
+43008033	na		Ɓa taassari an : Ɗí , ɗí bok ga níilaa Abaraham ee ɗí mosoo kiꞌen ñaam ken . Kon fu mínndíi na kiwoꞌ an ɗí hay kilaak haffíi ?
+43008043	tah ya		Iñii tah ya ɗú ínohoo iñii mi woꞌꞌúuɗa ? Ɗú nam kimínoo kisúkúruk woꞌeenciigoo hen , kërí tah .
+43008046a	yiida		Yiida garúu mín kiseediꞌ an mi tumin baakaaꞌ ? 
+43008046b	tah ya		Ee en an mi woꞌ kayohaa , iñii tah ya ɗú gëmmbiiroo ?
+43008053	ɓa		Paammbíi Abaraham , fu wëñnji kilaak solu hene ? Ya , ya kaanin ee sëldíiga-Koohcaa ɓan kaanuunun . Fu tík haffu ɓa ?
+43008057	ya		Yaawúuꞌcaa dallari kiwoꞌ an : An ya ? Fu laakkii sah tíkíis tidaaŋkaah-yëtúus , an fu hotin Abaraham !
+43009002	~		Tëelíbéecaagari meekisohussari an : Jëgírohii , ɓii yii límu na kibúum . Baakaaꞌciigari kommbikanoo , caa ɓuwaa límmbiɗa ?
+43009010	na		Ɓuwaa meekissari an : Tum na bi fu mínnda kihot ?
+43009012	Yada		Ɓa meekissari an : Yada ɓaa yaama ? Ya taassa an : Mi ínohoo daa ya enɗa !
+43009016	na		Laakka ga Fërísiyeeŋcaa , ɓaa woꞌ an : Ɓii tum iñii yiiɗa , meyohhii ga Kooh , ndaga ya faaliꞌꞌii bes Sabat . Wayee ɓíinoo woꞌꞌa an : Ɓoꞌ mín na kiteewoh mandargacaa man na cii en lak ya tumoh-baakaaraa ? Kihëgískoh laakka ga díkaantiɓa .
+43009017	ya		Fërísiyeeŋcaa meekisohussa ɓaa wëkíruɗa an : Fu nak , fu ínoh ya ga ɓii tah hasciigaraa kihotɗa ? Ya taassa an : Iñaa sëldíiga-Kooh !
+43009019	na		ɓa meekissaɓa an : Ɓii yii yërí en kowukiigarúu ɗú woꞌ an límu na kibúumɗane ? Kon tum na bi ya yii mín kihot diima ?
+43009026a	ya		Fërísiyeeŋcaa meekissari an : Ya tumeeraa ya ? 
+43009026b	na		Ya tumee na bi hasciigaraa mínnda kihot ?
+43009027	ya		Búumíraa wëkíruɗa taassaɓa an : Mi ɗewinndúuka kiwoꞌ ee ɗú súkúrukkiiroo . Ɗú waaꞌ ya ga kikeloh mi woꞌis ? Hanaa ɗú ɓan ɗú waaꞌ kiꞌen ɓitëelíbéeci ?
+43009034	~		Ɓa taassari an : Fu límu múlúŋ mút ga baakaaꞌ , an fu waaꞌtíi kijëgíꞌ ! Waa ennda ɗa , ɓa kaallari fooh .
+43009036	ɓa		Ɓaa taassa an : Haꞌmudii , ɓaama ya ɓa , mi gëm gari ?
+43010020	ya		Ɓiyewin gaɓa , ɓaa woꞌ an : Ɓii yii taam na Seytaani , ŋalaañkin ! Ɗú en ya dii ɗú súkúrukiri ?
+43010021	na		Wayee ɓuwaa ɓíinoo , ɓaa woꞌ an : Ɓaa taam na Seytaani woꞌoo woꞌeencii cii de ! Ee sah , Seytaani mín na kiꞌon búumíꞌ kihot ?
+43010024	bi kera		Yaawúuꞌcaa dalla kihayu , wíilussari , ɓa woꞌꞌari an : Fu íisanndíi ga kúmpafii bi kera ? En an fu yërí en Kiristaaniinaa , woꞌaaríika bi leeꞌ lañ .
+43010032	Wiida		Yéesu dallaɓa kiwoꞌ an : Mi tumin ga fíkíirúu enaama ciyewin cijófíꞌ , caa Paamudii onndoo kitum . Wiida ga tumeencaama tah bi ɗú waaꞌtoo kitapisoh atoh bi mi kaan ?
+43010036	na		Mi , Kooh yërí tanukkoo , wossaroo ëldúna . Kon ɗú mín na kiwoꞌ an mi ɓasin Kooh ga dii mi woꞌ an mi kowu Koohɗa ?
+43011034	gaɗa		ya meekissaɓa an : Ɗú ac Lasaaꞌ gaɗa ? Ɓa taassari an : Haꞌmudii , haya fu hot .
+43011047	na		Waa ennda ɗa , sarahohcaa ɓiyaakɓaa na Fërísiyeeŋcaa dalla kiɓëytoh paanaa wiyaakwaa . Ɓa woꞌꞌa an : Ɓii yii kat , iñii ya tum ga kíntaanɗa hëpin . Ɗu tuman na ?
+43011056	ya		Ɓa ɓaa raas Yéesu , ee ga ɗuuƴ Kaanfaa Kooh ɓa enoheeɗa , ɓa ɓaa meekisoh ga díkaantiɓa an : Ɗú ínoh ya ga ? Ya hayanndii feetiine ?
+43012005	~		Laꞌkoleñuma mínéeríi kitoonu kopaꞌ wiyewin , wa sarahohu ɓuwii laakooɗane ?
+43012027	ya		Diima deŋ heliigoo hícukohin . Haa mi woꞌan ya ? Mi woꞌan an : « Paamudii , músalaaroo ga coonucii ƴahhoo kidal ga wahtiimane ? » Múk ! Man kikooꞌ ga coonucii ga wahtiimaɗa tahhoo kihay .
+43012034a	na		Mbooloomaa taassari an : Ɗí jaŋ ga Këyítfaa Waasiigaríi an Kiristaanii pesan bi taaꞌ . Kon fu mín na kiwoꞌ an Kowukii ɓii jomin kiɓëwíru ka tíim kakayfii ? 
+43012034b	ɓa		Ɓii en Kowukii ɓii yaama , ya ɓa ?
+43012038a	ɓa		Fodaama , iñaa Ísayíi , sëldíiga-Koohaa woꞌeeɗa matta . Ya woꞌee an : « Haꞌmudii , ɓii gëm iñii ɗu yéegalohɗa ɓa ? 
+43012038b	ɓa		Haꞌmudii teeɓ ɓa dooliigari ? »
+43013025	ɓa		Tëelíbéenaa tobinukka ga Yéesu , meekissari an : Haꞌmudii , ɓaama ya ɓa ?
+43013036	gada		Simoŋ-Peeꞌ meekissa Yéesu an : Haꞌmudii , fu ƴah gada ? Yéesu taassari an : Daa mi en na kiƴahɗa , fu mínooroo da kitaabuk diimaɗa , wayee paaf fíkíi , fu hayyoo da kitaabuk .
+43013037	tah ya		Simoŋ-Peeꞌ woꞌꞌari an : Haꞌmudii , iñii tah ya mi mínooraa kitaabuk diimaɗa ? Mi tuukin tek ga kiꞌeroh kumuunkiigoo ndaga fu .
+43014002	~		Kaan Paammboo yewinin didëkaaꞌ . Ee iñaama laakéeríinaa , eneenaa mi woꞌoorúu an mi yii ƴahhúu kiwaayukɗinee daa ɗú enan .
+43014005	na		Toomaa woꞌꞌari an : Haꞌmudii , ɗí ínohoo dii fu aawɗa , ɗí mínan na kiꞌínoh waasii ?
+43014009	tah ya		Yéesu taassari an : Mi enin narúu yimëeñíꞌ , ee bi wati Filiip , fu ínohooroone ? Ɓaa hotinndoonaa , hotin Paamudii . Kon iñii tah ya fu woꞌ an : « Teewaaríi Paamudii ? »
+43014022	na		Yúdaa , ee bokkii na Yúdaa Iskariyot , woꞌꞌari an : Haꞌmudii , mín na kiꞌen an fu ƴah kiteewoh haffu garíi ɗí haŋngíi , ee an fu ƴahhii kiteewukoh haffuu ga ɓu-ëldúna tóoh ?
+43016005	gada		Diimaɗa mi yii ƴah ga ɓaa wossooɗa ee yíinoo garúu meekissiiroo an : « fu ƴah gada ? » .
+43016017	ya		Ga tëelíbéecaagari , laakka ɓaa dalu kiwoꞌ ga díkaantiɓa an : Ya waaꞌtuu ya kiwoꞌ duma an : « Tesin ga jutuut ɗú hotsisanndiiroo ee tík ga jutuutaa ɗú hayyoo kihotis ? » Ee ɓan ya woꞌin an : « Mi yii ƴah ga Paamudii . »
+43016018	ya		Ɓa tíkissa ga an : « Jutuutaa ya woꞌ waama , wa ya ? Iñii ya waaꞌ kiwoꞌɗa daal ɓoꞌ ínohoori . »
+43018004	ɓa		Lak Yéesu ínohin iñaa ƴahhi kidalɗa , ya hídohneera naɓa , meekissaɓa an : Ɗú raas ɓa ?
+43018007	raasɓa		Yéesu meekisissaɓa an : Ɗú raasɓa ? Ɓa taassa an : Ɗí raas Yéesu Nasareet !
+43018011	~		Yéesu dalla kiwoꞌ Peeꞌ an : Íkaa kalaɓfiigaraa ga huuwii . Kaas-coonii Paamudii eꞌtooɗa mi jommbiiwa kiꞌan hene ?
+43018021	ya		Kon fu meekissoo ya ga iñaama ? Meekisaa ɓuwaa súkúrukeerooɗa iñaa mi woꞌɓaɗa . Ɓa ga kihafɓa , ɓa ínohin dijófíꞌ iñaa mi , mi woꞌɗa .
+43018023	ya		Yéesu taassari an : En lak woꞌeeniigoo júɓpiinaa , woꞌaa iñaa júɓpii gaɗa . Wayee en an iñii mi woꞌɗa júwinaa fu feekohhoo ya ?
+43018029	ya		Iñaama tah , Pílaat , gúwernëeraa nammba kimeƴ gaɓa ga fooh , meekissaɓa an : Ɓii yii , iñii ɗú yabohhiɗa , ya ya ?
+43018035	ya		Pílaat loffari an : Mine , mi nam kiꞌen yaawúure ? Heetiigaraa na sarahohcii ɓiyaakɓaa ɓërí kalaamiꞌꞌaa garoo . Fu , fu tum ya ?
+43018038	ya		Pílaat woꞌꞌari an : Kayoh , fa ya ? Waa ennda ɗa , Pílaat meyissa ga yaawúuꞌcaa ga fooh , ya woꞌꞌaɓa an : Mi ga kihaffoo , mi hottii ga ɓii yii enaama yíinoo yaa cal kiꞌattiꞌu kikaan .
+43019009	gada		Ya ɓoyukka ɗuuƴ kaanfaa , ya meekissa Yéesu an : Fu kúlkoh gada ? Wayee Yéesu taassiiri hen sah .
+43019015	~		Wayee ɓaa fiip didóolíꞌ an : Ya kaanat , ya kaanat ! Daayaari ga kuraa ! Pílaat woꞌꞌaɓa an : Buuriigarúu , mi daayatti ga kuraane ? Sarahohcaa ɓiyaakɓaa taasussa Pílaat an : Ɗí laak buuꞌ yíinoo kep ee yërí en buuꞌ Sesaaꞌ .
+43020013	ya		Malaakacaa meekissari an : Ɓetifii , fu koduk ya ? Ya taassaɓa an : Ɓa ɓewin faraaffii Haꞌmudiigoo ee mi ínohoo ga daa ɓa faanndiɗa .
+43020015a	ya		Yéesu meekissari an : Ɓetifii , fu koduk ya ? 
+43020015b	ɓa		Fu raas ɓa ? Mërí fooŋnga an ɓaa watuki yoon-dëraaɗa yërí , ya woꞌꞌari an : Kiyaakii , en lak fu yërí ɓeɓpinaa , woꞌaaroo ga daa fu faanndiɗa , mi kaꞌ , mi kooꞌneeri .
+43021012	ɓa		Yéesu woꞌꞌaɓa an : Deeyat ɗú ñëkítuk ! Wayee yíinoo ga tëelíbéecaa kaañnjiiri kimeekis , « fu yërí en ɓa ? » Ndaga ɓa ínoheera an Haꞌmudii yërí .
+43021020	ɓa		Peeꞌ heeluk hen , ya hotta tëelíbéenaa Yéesu keeñukɗa , yii hay ga fenooɓa . Tëelíbéenaama yërí tobinukee ga fasaafaa Yéesu , ga waa ɓa ñam cuuníinfaa fiselaꞌíꞌfaaɗa ee yërí meekiseeri an : « Haꞌmudii , ɓii ƴahhaa kiꞌon bíiŋɗa , ya ɓa ? » .
+43021021	ya		Daa Peeꞌ hotti hen , ya meekissa Yéesu an : Haꞌmudii , haa yii fu ínoh ya gari ?
+43021022	ya		Yéesu taassari an : Mi waaꞌ ya pes bi ga daa mi haysanaa , waasfu ya ga ? Fu kay , taabukaaroo rek !
+43021023	ya		Woꞌeenaama síwwa ga ɗuuƴ ɓuwaa gëm ga Yéesuɗa an tëelíbéenaama kaananndii bi taaꞌ . En kiꞌenaa , Yéesu woꞌéeríi Peeꞌ an : « tëelíbéenaama kaananndii » , wayee ya woꞌeeri an : « Mi waaꞌ ya pes bi ga daa mi haysanaa , waasfu ya ga ? »
+44001011	ya		woꞌussaɓa an : Ɗú , ɓu-Gëlílée , ɗú tuukoh ya dii ɗú taaginuki asamaanii ? Yéesu yiima , ɓëwíru aaw asamaanɗa haysisan fodii dii ɗú hotti yii ƴah asamaanɗa .
+44002008	na		Tum na yaa en garuu ɓéeɓ kelohi iñii ɓa woꞌɗa ga lakaagari ya ɓapɗa ?
+44002012	ya		Ɓa waaruꞌꞌa lool ee hafcaagaɓa kúnukka bi ɓa ɓaa woꞌ ga díkaantiɓa an : Iñii yii ya yee ?
+44002037	ya		Daa ɓuwaa kelohee jangataama , fítcaagaɓa gúꞌta kërít , ɓa meekissa Peeꞌ na apotaaꞌcaa ɓíinooɓaa an : Mbokcii , ɗí jom ya kitum ?
+44003012a	ya		Daa Peeꞌ hotee iñaama , ya woꞌꞌa mbooloomaa an : Ɗú ɓu-Isarayeel , iñii han kilaak yii jaahallúu ga ya ? 
+44003012b	ya		Ɗú malkohhíi ya en fan dooliríi wala kiniik Kooh onndíi kitíinlukoh ɓii yii ?
+44004007a	~		
+44004007b	widda		Ɓa nakohha kihaydoh Apotaaꞌcaa ga fíkíiɓa , ɓa meekissaɓa an : Ɗú kooroh ga doolii wiida 
+44004007c	wiida		wala ga teekii wiida bi ɗú mín wëkíꞌ ɓii yii ?
+44004016	na		Ɓa ɓaa woꞌan : Ɓuwii ɓii ɗu tumanɓa na ? En kiꞌenaa , wóorin an ɓuwii ɓii tumuunun kíntaan wiléeríꞌ . Ɓéeɓ ɓu-Yéerúsaleem yéeguununka ee ɗu mínooka kisaŋ .
+44004025a	tah ya		Fu yërí kooroh ga tumeencaa Helaa yiselaꞌíꞌyaa fu tummba woꞌeencii cii ga kúuwkaa caasammbíi Dëwít , súrgafu an : « Iñii tah ya coow koluk ga ɗuuƴ heetcii ? 
+44004025b	ya		Iñii tahɓa kipokoh nof ya ga iñcaa mínoo kilaak ?
+44005003	tah ya		Waa ennda ɗa , Peeꞌ woꞌꞌari an : Anañaas , iñii tah ya Seytaani teꞌ keeñfu , fu kaakin Helii yiselaꞌíꞌyii saboh ee fu tëhdohin ga koparaa fu toonoh yoonaaɗa .
+44005004	na		Yoonaa tesee danaa , wa tesiꞌtiiraa dane ? Waa fu toonndawa , koparaa enndii wuufune ? Kon iñii fu waaꞌ kitum yii fu mínndi na kihalaat ga helfu ? Fu kaakkii ɓoꞌ-súusúus saboh wayee Kooh yërí fu kaak saboh .
+44005009	na		Peeꞌ woꞌꞌari an : Ɗú mín na kipokoh nof kiheel kiɗúk Helii Haꞌmudii ? Súkúruka ! Ɓuwum kaꞌsee kiꞌac ƴaalfuɗa ɓooma ga halii , ee ɓa hayyaa kiɓay , fu ɓan .
+44007026	ya		Ga kooh-wíisfaa , ya hotta ɓoꞌ ɓanak ga ɓu-Isarayeel ɓaa enee na kiheñoh , ya waaꞌtaɓa kijúwohiꞌ , ya woꞌꞌaɓa an : « ɓiƴaay , ɗú heñoh ya , ee ɗú ɓimbok ? »
+44007027	ɓa		Yaa jekelukee mooroomciɗa nak tappa Móyíis yah wooꞌꞌari an : « Ɓii fallaa buuꞌ na attiꞌoh ga ɗookkíi ɓa ?
+44007035	ɓa		Móyíis yaama , yërí mbokcaagari taasukee , ɓa woꞌꞌari an : « ɓii fallaa buuꞌ na attiꞌoh ɓa ? » Yërí Kooh wosee ya kuliyuk ga heetaa ya laasɓa , koorohha ga malaakaa Kooh feeñukee Móyíis ga dútúkaaɗa .
+44007049a	na		« Asamaanii wërí en baŋ-buuriigoo , kakayfii ennda ditogaaꞌ kottoo . Kon ɗú tawahɗanndoo kaan fa man na ? 
+44007049b	na		Wala ɗú heeliꞌtoo daa mi dëkohan da man na ?
+44007052	~		Laakin sëldíiga-Kooh yíinoo rek yaa ɓicaasammbúu hatallii ga kipese ? Ɓa appa sëldíiga-Koohcaa ɗeɓ kiyéegaloh kihaykaa yijúwíꞌyiiɗa . Ee watifii wati ɗú onin yijúwíꞌyii bíiŋ , ɗú apinndi .
+44008031	na		Ɓaa taassa an : Mi laakkii ɓaa lóogísohɗanndoowanaa , mi tuman na bi mi ínoh iñii wa waaꞌ kiwoꞌɗa ? Lëehíꞌta ya woꞌꞌa Filiip kilap ga sareetaa , ya yuŋ ga yahaaci .
+44008033	~		Ya torohɗussa ee ken onndiiri kayoh . Kumuunci laguunun ee ya foñnjii lam . »
+44008034	ɓa		Ɓaa kúlkoh Ecoopíiɗa , meekissa Filiip an : Woꞌaaroo en neɓpaanaa , sëldíiga-Koohaa woꞌ loo ɓa dii ? Woꞌ na hafcinoo , woꞌ ga ɓoꞌ yiliis ?
+44008036	ya		Daa ɓa en na kiƴahɗa , ɓa leꞌꞌa ga ɗekataa taakin músú , lëehíꞌta ɓaa woꞌꞌa Filiip an : Man músú mee , iñii kokohan ya mi bëtísiꞌu ? [
+44009004	tah ya		Ya keennda kakay . Ya kelohha koonaa , kaa woꞌꞌi an : Sóol ! Sóol , iñii tah ya fu hatalloo ga kipes ?
+44009005	ɓa		Ya taassa an : Kiyaakii , fu yërí en ɓa ? Koonaakaa woꞌꞌari an : Mi yërí en Yéesu yii fu hatal ga kipesɗa .
+44009006	~		Wayee koluka nak , fu aas ɗuuƴ teerum . Daama , fu hay kiwoꞌu iñaa fu jom kitumɗa .
+44010004	ya		Korney ennda hascaagari jak ga malaakaa , ya dalla kitíit , meekissari an : Kiyaakii , iñii laak ya ? Malaakaa woꞌꞌari an : Kooh tookin iñii fu kíimmbiɗa ee ya hotin dii fu amɗohi ɓuwii laakooɗa .
+44010021	ya		Peeꞌ yoosukka , kaꞌta ga ɓuwaa , woꞌꞌaɓa an : Mi yërí en ɓii ɗú waaꞌ kihotɗa . Iñii enee kottúu ya ?
+44010029	ya		Kërí tah mi laakkii hel kanak ga kihay dii ga wii ɗú ɓaylukkooɗa . Kon diimaɗa soolii enee ya ?
+44010047	ɓa		Ɓoꞌ mínin ɓuwii ɓii kihoonoh kibëtísiꞌu ga músú ee lak fodii garuu , ɓa laasin ga Helii yiselaꞌíꞌyiinee ?
+44011017a	ɓa		Kon , waa Kooh yërí onɓa Helii yiselaꞌíꞌyii fodii dii ya oneeruuwa ga waa ɗu gëm ga Yéesu Kiristaa , Haꞌmudiiɗa , mi mínee ɓa kiꞌen bi mi kokoh Kooh kitum iñaa ya waaꞌɗa .
+44011017b	~		
+44012018	~		Ga waa Kooh wíisɗa , soldaaꞌcaa lëyussa lool , ɓa ɓaa meekisoh iñaa mín Peeꞌ kidalɗa .
+44013025	ɓa		Bi ga daa kikaanci deeƴɗa , Saŋ lísee kiwoꞌ an : « Ɗú fooŋ an mi yërí en ɓa ? Mi enndii ɓii ɗú sekɗa . Ɓaama yii hay ga fenooroo ee kipëkís liiɓcaa ñafaꞌcaagari sah joobinndoo . »
+44014015	ya		Héey , ɓiƴaay , ɗú ƴah ya kitum yuma ? Ɗí ga kihaffíi , ɗí ɓiɓoꞌ doŋ fodii garúu . Ɗí hay dii kiyéegallúu Hewhewii winéwíꞌwii , ɗú foñ iñcii cii laakoo jeriñɗa , ɗú mëeñsuk , ɗú ëewdoh haffúu ga Koohyii en na kipesɗa , yii sak asamaanii , kakayfii , giiyii na ɓéeɓ iñcii en gaɗa .
+44015010	tah ya		Kon iñii tah ya ɗú waaꞌ Kooh kitooñ ga kikooꞌ ɓuwii enussii yaawúuꞌ gëmu gariɗa ɗofcaa , ennda ɗu , ennda ɓicaasammbuu , ɗu mosooca kimín kikooruk .
+44016030	ya		Waa ennda ɗa , ya meƴdohhaɓa kasaa , ya meekissaɓa an : Tiyaatii , mi jom ya kitum bi mi kimúc ?
+44017018	ya		Laakeera daama ɓijëgíroh ɓaa woꞌu ɓiꞌÉpíkuriyeŋ na ɓiꞌEstóyísiyeŋ , ɓaa daanee kisaawal na Pool . Ɓii woꞌee an : Moo jawulii yii , ya waaꞌ ya kiwoꞌ ? Ɓíinoo an : Man na ya en na kiyéegaloh koohcaa ɗú ínohoo ! En kiꞌenaa , Pool yéegalohee loo Hewhewii woꞌ ga loo Yéesu na loo kimílískaa ɓuwaa kaaninɗa .
+44017019	~		Waa ennda ɗa , ɓa taammba nari , ɓa ɓayyari ga paanaagaɓa woꞌsi Ayeropaasɗa , ɓa woꞌꞌari an : Ɗí waaꞌ fu woꞌꞌíi iñaa leeꞌ ga iñii yiꞌasyii fu jëgírohɗa ,
+44019003	wiida		Pool meekissaɓa an : Kon ɗú laas ga bëtísii wiida ? Ɓa taassari an : Ɗí laas ga bëtísaa Saŋ-Bëtís tumeeɗa .
+44019015	ɓa		Wayee , ga waa ɓa tummbaka , rawaa taassaɓa an : Mi ínohin Yéesu mi ínohin ɓaa en Poolɗa , Wayee ɗú , ɗú ɓërí en ɓa ?
+44019035	yiida		Ɓaa dëkaa tíku ga yahciɗa yërí mëeñjoh kimín kiƴím ɓuwaa doo ɓa han kiɗekoh . Ya woꞌꞌaɓa an : Ɗú ɓu-Efees , ɓii yiida ínohoo an kaanfii Artémís yiyaakyii en ga teeriigaruu ee nataaliigari keenoh asamaanɗa en ɓan ga teeriigaruu ?
+44021013a	ya		Wayee Pool taassaríi : Ɗú tum ya yii , 
+44021013b	~		ɗú yahi keeñiigoo ? Mi saŋngii kiɓagu rek , wayee mi tookin sah bi ga kikaan ga Yéerúsaleem ndaga teekii Yéesu , Haꞌmudii .
+44021022	na		Ɗu tuman na ee ɓa hay kiyéeŋ an fu hayin ?
+44021033a	ɓaa		Waa ennda ɗa ya deeƴca ga Pool ammbari , ya nakohha kiɓaŋngi na ceen kanak . Lëehíꞌta ya meekisohha ɓaa ya 
+44021033b	ya		ennda na iñaa ya tumɗa .
+44022007	tah ya		Mi keennda kakay , mi kelohha koonaakaa woꞌ naroo an : « Sóol ! Sóol ! Iñii tah ya fu hatalloo ga kipes ? »
+44022008	ɓa		Mi meekisohha an : « Kiyaakii , fu yërí en ɓa ? » Koonaakaa taassaroo an : « Mi yërí , Yéesu Nasareet , yii fu hatal ga kipesɗa . »
+44022010	ya		Mi meekisohha an : « Haꞌmudii , mi jom ya kitum ? » Haꞌmudii woꞌꞌaroo an : « Koluka fu kaꞌ Damaas , fu leꞌ daamanaa , fu hay kiwoꞌu ɓéeɓ iñaa fu jom kitumɗa . »
+44022016	ya		Kon diimaɗa fu sekis ya ? Koluka , fu bëtísiꞌuk , fu kíim Yéesu , Haꞌmudii fu set ga baakaaꞌciigaraa . »
+44022026	ya		Daa soldaaraama kelohee iñaama , ya foolla ga haꞌ-kaadaa soldaaꞌcaa , ya woꞌꞌari an : Fu ínohin iñii fu ƴee kitumɗa sahe ? Man ɓii bok ga ɓu-Room !
+44023003	~		Pool nak woꞌꞌari an : Na cii fu man na míiraa yaanaawɗu henɗa , fu , Kooh ƴahhaa kifeek . Fu yuŋ dii kiꞌattiꞌꞌoo ga iñaa waas nakoh , fu nakoh mi feeku ee waas hoonohinka !
+44023009	~		Waa ennda ɗa , coowaa kolukka cúr . Laakka jëgíroh-waascaa koluk ee boku ga fërísiyeencaa , ɓa woꞌꞌa didóolíꞌ an : Iñii ɓii yii woꞌɗa ɗí hottii yibóníꞌ ga . Mínin kiꞌen jíni wala malaaka woꞌ nari !
+44023019	ya		Haꞌ-kaadaa soldaaꞌcaa ammba oomaa-ƴaalaa , nookkari , ɓa úsaayya ɓuwaa , ya meekissari an : Fu ƴahhoo ya kiwoꞌ ?
+44026008	tah ya		Iñii tah ya ɗú yaawúuꞌcii ɗú tum ga helciigarúu an Kooh mínoo kimílísiꞌ ɓuwaa kaaninɗa ?
+44026014	tah ya		Ɗí ɓéeɓpíi , ɗí keennda kakay , mi dalla kikeloh koonaakaa woꞌ naroo ga kiꞌArameyee an : « Sóol , Sóol , iñii tah ya fu hatalloo ga kipes ? Fu tum haffu , fu man na baamaa tap dooraa haꞌmudaagari feekkiɗa » Mi meekissari an :
+44026015	ɓa		« Kiyaakii , fu yërí en ɓa ? » Haꞌmudii taassaroo an : « Mi yërí en Yéesu yii fu hatal ga kipesɗa .
+45002017	~		Fu nak , fu yii fu taas ga teekii yaawúuꞌɗa , fu ayuk ga Waasii Móyíis , fu maruki ga iñaama an fu ɓoꞌ Kooh .
+45002021	tah ya		Kon fu yii fu jëgíri ɓuwii ɓíinooɗa , iñii tah ya fu jëgíroo haffu ? Fu jaŋngati ɓuwii ɓíinoo an ɓa hanat kilok . Kon iñii tah ya fu loki ? .
+45002028	~		En kiꞌenaa , kiꞌen yaawúuꞌ enndii iñaa hotuki ga ɓoꞌ ee kigúruk kayoh-kayohɗa enndii mandargaa hotuki ga faanɗa .
+45003001a	ya		En fodaamanaa , kon kiꞌen yaawúuꞌ ɓaat ya ga ɓoꞌ ? 
+45003001b	ya		Kigúruk laakiꞌ ɓoꞌ ya jeriñ ?
+45003003	ya		En kiꞌenaa , laakin gaɓa , ɓaa enndii goꞌ . Diima nak ya ? Kiꞌenndii-goꞌkaagaɓa kaama mín kihoonoh Kooh kiꞌen gore ?
+45003005	ya		En an kijúɓpiikiigaruu teewohi an Kooh júwinaa , ɗú woꞌ ya ga iñaama ? Ɗú woꞌ an , binaa Kooh íif aylukaagari ga ɗookkuunaa lak ya júɓpii hene ? En kiꞌenaa , iñii yii mi woꞌꞌi fodii ɓuwii woꞌikaɗa .
+45003006	na		Múk , iñaama mínukoo . Haa en an Kooh júɓpiinaa ya mínan na kiꞌattiꞌ ɓu-ëldúna ?
+45003007a	~		Hay kilaak ɓuwaa woꞌ an , « En sabohfiigoo on kayohfii Kooh kiwëñ kisíw na kilaak ndamaa , 
+45003007b	tah ya		iñii tah ya mi lísi kitíku tumoh-baakaaꞌ ? »
+45003008	~		Ɓíinoo hay kikaꞌ bi ɓa woꞌ an : « Ɗu tumat yibóníꞌ en ɗanaa yijófíꞌ mín ga kimeƴ . » Laakin ɓuwaa pokiꞌtíi kiwoꞌ an ɗí jëgíroh iñaama . Ɓuwaa woꞌ iñaamaɗa , Kooh hayɓa kiꞌattiꞌ ee kooran ga waas .
+45003009	ya		Kon , ɗu jom ya kiwoꞌ ? Ɗu yaawúuꞌcii ɗu ɓërí gën ɓuwii enussii yaawúuꞌɗa ga fíkíi Koohe ? Múk ! En kiꞌenaa , ɗu teewohin an yaawúuꞌcii na ɓuwii enussii yaawúuꞌɗa tóoh , ɓéeɓɓa ɓiñaam-baakaaꞌ .
+45003027a	~		Kon laakin iñaa ɓoꞌ bakukohan ga fíkíi Koohe ? Dara ! 
+45003027b	tahkaɗa ya		Haa iñii tahkaɗa ya ? Iñaa tahkaɗa wërí en an iñaa wëñ kilaak soluɗa enndii iñcii ɗu tumi fodaa waas nakohkaɗa , wayee kigëm ga Yéesu .
+45003027c	~		
+45004001	yiida		Kon , ɗu ɓeɓ caasammbuu Abarahamaa , ga kiɓoꞌkaagari , iñii yiida yërí ɗú mín kiwoꞌ ga looci ?
+45004003	~		En kiꞌenaa , bídu ga Këyítfaa an : « Abaraham gëmmba ga Kooh , ee ga iñaama Kooh abohhari ɓoꞌ yijúwíꞌ . »
+45004010	~		Kon ga waa Kooh aboh Abaraham ɓoꞌ yijúwíꞌɗa , laak Abaraham gúrukinoo , gúrukkii ? Mon lakanaa ya gúrukkii duum .
+45005010	~		Ee ga wii ɗu en ɓuwaa sagoh na Koohɗa , Kooh júwohiꞌtaruu na hafci , koorohha ga kikaankaa Kowukaagari . Wëñaa ga , waa ɗu júwohin nari diimaɗa , kipeskaa Kowukaagari onooruu kimúce ? Ahaŋ kay .
+45005021	~		Ee fodaa daa baakaaꞌ haydohee kikaan , ka tíkukka ga ɗook ɓuwiiɗa , fodaama yërmaandaa Kooh hay kitíkuk ga ɓéeɓ ɓuwii onɓa kijúɓ ga fíkíici , ee fodaama ɗu laas ga kipeskaa leehoo taaꞌɗa , kooroh ga Yéesu Kiristaa , Haꞌmudiigaruu .
+45006001	diima		Kon ɗu woꞌan ya diima ? Ɗu enukohan ga kibaakaaꞌ doonaa yijófíꞌyaa Kooh waariꞌtuuɗa wëñ kiꞌaamuk ga ɗuuƴcuune ?
+45006002	na		Mínoo kiꞌen kay ! Ɗu man na ɓuwaa kaanin ee baakaaꞌ laakissii dooli ga ɗookɓa . Kon mínan na kiꞌen baakaaꞌ lísi kikuliyuk ga kipessuu ?
+45006015	ya		Kon diimaɗa ɗu jom ya kiwoꞌ ? Ɗu woꞌat an ɗu ayukissii ga Waasii Móyíis , wayee ɗu ayuk ga yërmaandaa Kooh . Kon luu ɗu baakaaree , iñaama enoo darane ? Óꞌóo kay !
+45006021	ya		Ɗú laak ya ga iñcaa cibóníꞌcaa ɗú tumee kuɗewaaɗa ee wati ca enin kaci garúu ? Iñcaama déy , kikaan doŋ kërí ca haydohi .
+45007007	ya		Kon ɗu jom ya kiwoꞌ ? An Waasii Móyíis wërí haydoh baakaare ? Múk ! Wayee Waasii Móyíis wërí onndoo kiꞌínoh iñii en baakaaꞌɗa . En kiꞌenaa , Waasii Móyíis woꞌéeríi an : « Kaa ɗíibuk kilaas enaama mooroomfunaa » , eneenaa mi ínohoo baakaaraa en ga kiɗíibuk enaama ɓoꞌɗa .
+45007024	ɓa		En kiꞌenaa , massa mi ! Ɓii músalanndoo ga faanfiigoo fii ëewdohhoo ga kikaanɗa ɓa ?
+45008024	na		En kiꞌenaa , Kooh músalinnduu wayee ɗu taam ga na kiꞌam yaakaaꞌ . Ee fu hot iñaa fu yaakaaraa , iñaama ensisoo yaakaaꞌ . Iñaa fu hotin , fu lísan na kiyaakaaꞌ gari ?
+45008031a	ya		Kon waa enin ɗa , ɗu ƴah ya kiwoꞌ yiliis ? 
+45008031b	yiida		Waa Kooh taam naruu , ɓii yiida mín yen garuu ?
+45008032	ya		Ya yaa , ya saŋngii Kowukaagari ka kooꞌ ga coonu ndaga ɗu ɓéeɓpuu ɗu tah ya erohhakaɗa , kon ya na Kowukaagari , ya tumɗooruu iñaa en tóohe ?
+45008033	yiida		Ɓuwaa Kooh tanuk ga hafciɗa , ɓii yiida mínan ɓuwaama kiyam yen ? Kooh yërí abohɓa ɓiɓoꞌ ɓijúwíꞌ .
+45008034	yiida		Ɓii yiida mínɓa kiꞌattiꞌ kikaan ? Kiristaanii , ga kihafci , kaanin , wëñaa ga Kooh mílísɗinndi ; ya yugin , hanohin Kooh yah-ñaabaagari ee ya yaa kíimiꞌtuu Kooh .
+45008035	ɓa		Ee ɓii mínan kiꞌaas ga díkaantiruu na Kiristaanii bi hëgísohhuu na kiwaaꞌkiigariɗa ɓa ? Ƴah coonu ciméeskíroo ƴah kitíit , ati kihatalluu ga kipes , wala aꞌ , kinduul wala iñaa mín kihídíꞌ kumuun ɓoꞌ ga , wala kikaan ?
+45009014	ya		Ɗu ƴah ya kiwoꞌ ga iñaama ? Ɗu woꞌan an iñaa Kooh tumɗa júɓpiine ? Mínoo ɗa kiꞌen .
+45009019a	ya		Ɓoꞌ hayyoo kimeekis an : « Waa ken mínoo dara ga iñaa Kooh waaꞌ , kon ya na ɓuwii ga ya ? »
+45009019b	~		
+45009020a	ɓa		Mi nak , mi woꞌ an fu , ɓoꞌ-súusúus , fu nam kiꞌen ɓa bi fu weeraantiꞌi na Kooh ? 
+45009020b	~		Kataa mín kiwoꞌ ɓaa tawahkaɗa an : 
+45009020c	tah ya		« Iñii tah ya fu tawahhoo fodii dii » ?
+45009021	~		Man tawahoh kataa mínin kitum ga ban iñaa neɓpi : ga ƴooŋ-banaa wa wíinoo , ya mínin ga kihëwíꞌ kataa-túuƴ kimoꞌta na ɓan kataakaa foñsi ga fooh .
+45009022	~		En an Kooh waaree kiteewoh aylukaagari na doolaagari , ya tookka kon kimúuñiꞌ iñaa maañ , ɓuwii tahee aylukaagari , ee kisaŋkuꞌ jomeeɓa ga kilaakɗa ;
+45009023	~		ee ɓan , en an ya waaree kiteewoh daa ndamaagari hín kiyak ga ɗookkuu , ɗu ɓuwii ya laakin yërmaandi gaɓa , ee ya waayukiꞌɓa kilaas ga ndamaagariɗa ,
+45009024	~		ɗu ɓéeɓpuu , ɗu ɓërí Kooh nook ga hafci . Ya eemmbii ga kinook yaawúuꞌcii doŋ ga hafci , wayee ɓan ɓuwii enussii yaawúuꞌɗa .
+45009030	ya		Kon ɗu aban ya kimma ? Iñii yii : ɓuwii enussii yaawúuꞌ heelséeríi Kooh abohɓa ɓiɓoꞌ ɓijúwíꞌɗa , Kooh abohhaɓa ɓiɓoꞌ ɓijúwíꞌ . Ee ngëmaa ɓa laak ga Kiristaaniiɗa onɓaka .
+45009032	tah ya		Iñii tah ya ɓa laakkiika ? Ɓa tíkee yaakaaꞌɓa ga tumeencaagaɓa , ɓa saŋnga kigëm ga Kooh . Ɓa tapukka ga atohaa këfíti ɓoꞌɗa ,
+45010006	yiida		Wayee ga daa kigëm ga Kiristaa onohi kijúɓ ga fíkíi Koohɗa , iñii yii yërí woꞌu ga an : « Kaa woꞌ ga helfu an : Ɓii yiida ƴah kilap ɗook asamaan ? » Waaꞌ kiwoꞌ : kiɓewohnee da Kiristaanii , ya yoosuk ?
+45010007	yiida		Kaa woꞌ ɓan an : « Ɓii yiida ƴah kiyoosuk daa ɓuwaa kaanin enohɗa ? » Waaꞌ kiwoꞌ : kikólkíꞌ Kiristaanii ga ɓuwaa kaninɗa , ya hay ?
+45010008	ya		Këyítfaa woꞌ ya kon ga kijúɓ ? Iñii yii : « Woꞌeenii Kooh , wii ga yahaafu , wa wii ga kúuwkiigaraa na ga keeñiigaraa » . . Woꞌeenii wiima wërí en wii ɗí yéegal ɓuwii an ɓa gëmat ga Yéesuɗa .
+45010014a	~		Iñaama yërí laak . En kiꞌenaa , binaa ɓuwii gëmussii garinaa , ɓa kooran gada bi ɓa mín kifool gari kikíim dímal ? 
+45010014b	na		Ɓa tuman na bi ɓa mín kigëm gari , ee ɓa kelohhii teekiigari woꞌu ? 
+45010014c	na		Ɓa tuman na bi ɓa keloh teekiigari , ee laakkii ɓaa yéegalohwa ?
+45010015	~		Kon ɓuwaa yéegalohan teekiigari meyohan gada , ee laakkii ɓuwaa wosu . Moona Këyítfaa woꞌin an : « Malkat ga dii keeñcii ɓuwii soos ga hayii ɓuwii hay kiyéegaloh Hewhew cinéwíꞌɗa . »
+45010016	yiida		Wayee nak enndii ɓuwii ɓéeɓɓa ɓërí keloh Hewhewii winéwíꞌwii , taabukussawa . Ísayíi , sëldíiga-Koohaa woꞌ an : « Haꞌmudii , moo ɓii yiida gëm ga iñii ɗu yéegalohɗa ? »
+45011004	~		Kooh ga kihafci woꞌꞌari an : « Fu tessii haŋfu , mi faanɗin haffoo ɓoꞌ ɓijúnni-yitnaɓanak ɓaa jaamukussii Baal » .
+45011007	~		Kon ɗu woꞌat an ɓu-Isarayeel hotussii iñii ɓa heelɗa , wayee ɓiɓoꞌ ga ɗuuƴɓa ɓaa Kooh tanuk , hotuununwa . Ɓaa tesɗa nak enussa ɓuwaa yëgísuunun ga keeñ .
+45011015	na		Ga waa Kooh foñ yaawúuꞌciiɗa , ya lëgíssa hal fodaama , doonaa heetcii ga ëldúnaɗa tóoh júwoh nari . Kon binaa ya haydohis ɓu-Isarayeelaa , iñaama moos madanndii na kimílískaa ɓuwaa kaaninɗane ?
+45011018	~		Kon kaa ndamuk ga fíkíi toytaa kedikkaama Kooh ɓëjísɗa . Ee luu enee an helfu waa ga kindamuk , kaa al múk an enndii fu ɓay níilaa , wayee níilaa wërí ɓayyaa .
+45011033a	ɓa		Ga dii Kooh hín kiyakɗa moos ! Ga dii hamhamiigari hín kiyakɗa ee tóoh iñaa ya ínohin laaskooɗa ! Ɓii mín kiꞌínoh helci bi leeh takɗa ɓa ? 
+45011033b	ɓa		Ɓii mín kitëebíꞌ iñaa ya nat kitumɗa ɓa ?
+45011034a	ɓa		« En kiꞌenaa , ɓii ínoh iñaa Haꞌmudii halaatɗa ɓa ? 
+45011034b	ɓa		Ɓii mínndi kiꞌon hel ɓa ?
+45011035	ɓa		Wala ɓan , ɓii eꞌ Kooh yen ɓa , bi an Kooh jominndika kiꞌík ? » .
+45014004	ɓa		Fu nak , fu tík haffu ɓa , bi fu attiꞌi súrga jaambuuꞌ ? Waa ya am lëgëyaagari , waa ya foñlukwa tóoh , ya dígohka na haꞌ-kaanci . Ee sah ya hay kiꞌam lëgëyaagari ndaga Haꞌmudii laakin doolaa amlukohanndiwa .
+45014010a	ɓa		Kon fu , fu yërí en ɓa bi fu attiꞌꞌi mooroomfu ? 
+45014010b	ɓa		Ee fu ɓan , fu yërí en ɓa bi fu eewi mooroomfu ? Ɗu ɓéeɓpuu , ɗu hay kituuk ga fíkíi Kooh , ya attiꞌꞌuu .
+46001020a	gada		Kon ñëeñíꞌ laak gada ? 
+46001020b	gada		Ɓaa jagin laak gada ? 
+46001020c	gada		Ɓaa ínohin kiwoꞌ laak gada ga ëldúnanii wii ? Hanaa Kooh teewohhii an kiñaañ ɓoꞌ-súusúus iñaa kidof ?
+46002011	yiida		Ɓoꞌ-súusúus iñaa en gariɗa , ɓii yiida mínndi kiꞌínoh enndii helaa en gari , ya ga kihafciɗanaa ? Fodaama ken mínoo kiꞌínoh iñaa en ga Kooh enndii Helii Kooh dogaa .
+46002016a	ɓa		En kiꞌenaa , bídu ga Këyítfaa an : « Ɓii mín kiꞌínoh iñaa Haꞌmudii halaatɗa ɓa , 
+46002016b	~		bi ya míniri kiꞌon hel ? » Ɗí ga kihaffíi nak , ɗí ɓay halaatii Kiristaanii .
+46003005a	ɓa		Ee sah , ɓii en Apoloos ɓa ? 
+46003005b	ɓa		Ɓii en Pool ɓa ? Ɗí , ɗí súrga Kooh kep , ee ɗú kooroh garíi hen , kiꞌaas ga ngëmii . Yaa en ɓéeɓ garíi tum lëgëyaa Haꞌmudii sassiɗa .
+46004007a	ya		En kiꞌenaa , fu wóotíroh na ɓuwii ga ya ? 
+46004007b	yiida		Iñii yiida fu laak ee enndii Kooh onndaari ? 
+46004007c	ya		Waa Kooh yërí onndaa iñcii fu laakɗa , fu ndamuk ya ga en fan fu yërí on haffu ?
+46004021	ya		Iñii gënëllúu ya ? Mi hay garúu , mi taam na kifeekoh , wala mi hayan , mi tam na keeñ kiwaaroh na kiɗúkoh narúu ?
+46005002	~		ee an ɗú ndamukoh iñaama . Keeñnjúu jomee ga kileeh hen ee ɓaa tum iñaamaɗa ɗú kaalli ga díkaantirúu .
+46005012	~		Ɓuwii enussii kerceenɗa mi yërí jomɓa kiꞌattiꞌe ? Óꞌóo , Kooh yërí ƴahɓa kiꞌattiꞌ . Wayee ɗú , ɗú jomin kiꞌattiꞌ ɓuwii ɗú bok naɓa jaanguɗa . En kiꞌenaa , bídu ga Këyítfaa an : « Ɓii yibóníꞌyii , meƴdohatti ga díkaantirúu . »
+46006001	ya		Mbokcii , binaa yíinoo garúu laakoh na mbok-kerceen mooroomcinaa , ya mínan na kikëldúk ɓuwii en ɓuu Koohɗa , ya kaꞌ kiꞌattiꞌu ga ɓuwaa júwussii ga fíkíi Kooh ?
+46006003	na		Hanaa ɗú ínohoo an bi ga sah malaakacii ɗu ɓërí ƴahɓa kiꞌattiꞌ ? Kon kiꞌattiꞌ iñcii ga ëldúnaɗa mínannduu na kitëh ?
+46006004	~		Ee kat , laakohaa man fodaama , en ga díkaantirúunaa , ɗú ɓeɓnee ɓiɓoꞌ , ɓaa jaangii abohɓa ɓuwaa enndii dara , ɓa attiꞌꞌúu ?
+46006007a	~		En kiꞌenaa , kilayoh ga díkaantirúu kërí ɗeɓ kiteewoh an ɗú keenin jac . Kitooñu fu múuñ , kilokɗu fu múuñ enndii kërí gën kilayoh na mooroomfune ?
+46006007b	~		
+46006009	~		Kon ɗú ínohoo an ɓuwii júwussiiɗa boksanndii ga ɓuwaa ƴah kilam Nguuraa Koohɗane ? Kon ken hanattúu kiɗúk . Ɓuwii faanuki na ɓaa en ɓéeɓɗa , ɓuwii aamuki koofɗa , ɓuwii ɗúki ƴaalɓa na ɓetiɓa ɓa faanuki na ɓoꞌ yiliisɗa , ƴaalcii faanuki kiɓeti na ƴaal mooroomɓaɗa , na ɓuwaa tumka lëgëyɗa ,
+46006016	~		Kon ɗú ínohoo an ɓaa fu faanuk na faankoh-pakayaa , fu enin nari faan fíinoone ? En kiꞌenaa , ga loo ɓeti na ƴaal , bíduunun ga Këyítfaa an : « Ɓa ɓanak , ɓa ƴah faan fíinoo » . .
+46006019	~		Kon ɗú ínohoo an faanfiigarúu fërí en Kaanfii fiselaꞌíꞌfii Helii yiselaꞌíꞌyii dëkohɗane ? Heliima en garúuɗa , Kooh yërí onndúuwa . Ɗú , ɗú laakkii haffúu .
+46007016a	~		Fu ɓetifii en kerceenɗa , fu ínohoo ati eneenaa fu hay kitah ƴaalfu kimúc , 
+46007016b	~		ee fu ƴaalii en kerceenɗa ɓan , fu ínohoo ati eneenaa fu hay kitah ɓetifu kimúc .
+46009007a	yiida		Soldaarii yiida mos kiɓay hafci ga poosci ? 
+46009007b	yiida		Ɓii yiida yípan kedik , ka límaa ya jomoo kimaƴ ga towutaa ? 
+46009007c	yiida		Wala níirohii yiida níiran yop ee an ya jomoo kileꞌ ga miismaa ya teniɗa ?
+46009018	ya		Kon fayiigoo gaɗa wërí en ya ? Hanaa kiyéegaloh Hewhewii winéwíꞌwii , mi meekisohoo dara ee mi ɗíibukoo kilaas iñaa ɓuwii yéegalohiwa jom ga kilaakɗa .
+46010019a	ya		Mi waaꞌ ya kiwoꞌ daama ? 
+46010019b	~		Koynohkaa tumu sarahɗa , ka na kooffaa tóoh , 
+46010019c	~		ca laak jeriñ hene ?
+46010029	ya		Mi woꞌ loo kiyah helaa , enndii waa garúu tahhoo kiwoꞌ wayee waa gari . En kiꞌenaa , mi mínin kitum iñaa neɓpoo , wayee mi ƴahka ya kitumoh mi yahi hel ɓoꞌ yiliis bi ɓaama attiꞌiroo ga tumeencaagoo caama .
+46010030	tah ya		Iñaa mi ñam ee mi gërëmin Kooh gawaɗa , iñii tah ya ɓoꞌ ƴeeroo kiñaawal ga ñamahaama mi gërëmoh Kooh gawaɗa .
+46011022	tah ya		En lak kiñam na kiꞌan doŋ hídírohhúunaa , ɗú mínoo kiꞌeem ga kaancaagarúune ? Iñii tah ya ɗú faaliꞌꞌii ɓu-jaangii Kooh ? Iñii tah ya ɗú kikaciꞌlukohi ɓuwii hóomíꞌtiiɗa ? Ɗú waaꞌ mi woꞌꞌúu ya ? Mi kañattúu ga iñaamane ? Múk , mi kañoorúu !
+46012017a	na		Binaa ɓoꞌ , faanfaagari ɓéeɓfa enee tóoh hasaa , eneenaa ya mínan na kikeloh ? 
+46012017b	na		Ee ɓoꞌ , faanfaagari enee tóoh nofaa , eneenaa ya mínan na kiꞌéeñɗuk ?
+46012019	~		Binaa faanfii ɓéeɓfa enee tóoh céeꞌ wíinoo dogaa , eneenaa woꞌsoo faan .
+46014006	wiida		Mbokcii , binaa mi hay garúu , mi woꞌ narúu lakaa ɓoꞌ-súusúus kelohoonaa , jeriñii wiida mi laakɗanndúu ? Iñaa gënɗa kay , woꞌeenaa mi woꞌan narúuɗa ínohlukohhúu iñaa Kooh teeɓpoo , wa ínohlukohhúu yen , wa yéegallúu woꞌeenaa meyoh ga Kooh wa kijëgíꞌtúu .
+46014007	na		Malakat ga iñcii típsiɗa , fodii mbiiɓ na riiti : binaa típaagaca kooꞌtii waasaa , ɓoꞌ mínan na kiꞌínoh iñaa mbiiwaa woꞌɗa wala riitaa ?
+46014008	meyanɓa		Ee ɓan kúlúɓ , binaa típussii bi leeꞌ , ɓuwaa ínoh iñaa laakɗanaa , ɓii meyanɓa kiheñohnee ?
+46014009	na		Fodaama ɓan , ɗú woꞌ lakaa ɓoꞌ-súusúus kelohoonaa , ɓuwaa tuman na bi ɓa ínoh iñaa ɗú woꞌɗa ? Madan na ɗú woꞌ ga uurisii rek .
+46014015	na		Kon mi jom na kitum ? Mi kíim Koohaa , mi kíimanndi na keeñiigoo ee mi kíimaanndi ɓan heliigoo en ga iñaa mi woꞌɗa . Mi ƴeek Koohaa , mi ƴeekanndi na keeñiigoo ee mi ƴeekanndi ɓan heliigoo en ga iñaa mi woꞌɗa .
+46014016	na		Fu en na kigërëm Kooh na keeñaagaraa doŋ , fu woꞌ ga lakaa ɓoꞌ-súusúus kelohoonaa , ɓaa en daama ee en sagac ga iñaamaɗa mínan na kiwoꞌ « Aameen » ga iñaa fu woꞌɗa ee lak ya ínohoo iñcaa fu woꞌɗa ?
+46014026	yiida		Kon mbokcii , iñii yiida jom kilaak ? Binaa ɗú hídoh , yii jom kiƴeek Kooh , yii kijëgíroh , yíinoo kiwoꞌ iñaa Kooh teeɓpi , yiliis kiwoꞌ lakaa ɓoꞌ-súusúus kelohoo , yiliisyaa kilóogísoh woꞌeenaama . Iñcaama tumsat kiɓaat kiyëgísíꞌ ngëmaa ɓuwaa .
+46014036	~		Ɗú fooŋ an woꞌeenii Kooh límukoh garúune ? Ati ɗú fooŋ an ɗú doŋ ɗú ɓërí laas gawa ?
+46015012	na		Waa ɗí yéegaloh an Kiristaanii mílísin ga ɓuwaa kaaninɗa , mín na kiꞌen laak garúu ɓuwaa woꞌ an kimílís laakoo ?
+46015029a	~		Laakin ɓuwaa bëtísiꞌuki ga teek ɓuwaa kaaninɗa . 
+46015029b	wiida		En an kimílís laakoonaa , iñaama laak jeriñii wiida ? 
+46015029c	ya		En an ɓuwaa kaaninɗa mílíssanndiinaa , ɓa bëtísiꞌuki ya ga teek ɓuwaama
+46015030a	~		
+46015030b	tah ya		Ee ɗí ɓan , iñii tah ya wahtaa en tóoh , ɗí tooni kumuunndíi ga ? .
+46015032	ya		En an heñaagoo ga teeraa Efees na rap-luufcaaɗa eemee ga dii ɓoꞌ-súusúus hotohiwaɗanaa , eneenaa wa jeriñanndoo ya ? En lak ɓuwii kaaninɗa mílíssanndiinaa , kon ɗu tumat fodaa ka bídu ga këyítfaaɗa : « Ɗu ñamat , ɗu ani , ndaga kuwis ɗu hay kikaan . »
+46015035a	na		Heƴna hay kilaak ɓaa meekisoh an : « ɓuwaa kaaninɗa ɓa mílísan na ? 
+46015035b	na		Ɓa hayisan na faanfaa man na » ?
+46015055a	wada		Éeƴ kikaan ndamiigaraa wada ? 
+46015055b	kada		Éeƴ kikaan kútúŋkaagaraa kada ? .
+47002002	~		En kiꞌenaa , binaa mi léehíꞌ keeñnjúunaa , laaksanndii ɓaa sóosíran keeñiigoo , ndaga lak ɗú ɓéeɓpúu keeñnjúu leehin tak .
+47002016	yiida		Ɓuwii aaw ga kisaŋkuꞌɗa , wa en gaɓa ngetii kikaankii haydohi kikaanɗa . Ɓii aaw ga kimúcɗa , wa en gaɓa ngetii kipeskii haydohi kipesɗa . Kon ɓii yiida , ya haŋci kesi mín kitum lëgëyaama ?
+47003008	na		ndamii meyoh ga lëgëyii Helii yiselaꞌíꞌyiiɗa hídan na kiyak ?
+47003009	na		Waasii Móyíis teewohee an ɓoꞌ-súusúus tooñin Koohɗa , en an lëgëyiigawa wërí laak ndam fodaamanaa , lëgëyii Helii yiselaꞌíꞌyii on ɓuwii kiꞌabohu ɓiɓoꞌ ɓijúwíꞌ ga fíkíi Koohɗa , ndamaagawa hídan na kiyak ?
+47006014a	na		Kaa aasukohat na ɓuwaa gëmussii ga Yéesu . Ɓuwaama enndii ɓa gën ga kitaaboh . En kiꞌenaa , kitaabohkii kiida mín kilaak ga díkaanti iñaa júwin na iñaa joffii ? 
+47006014b	na		Leeꞌlaat mínan na kiꞌakitukoh na ñúus ?
+47006015a	na		Mínan na kiꞌen Kiristaanii júwoh na Seytaani ? 
+47006015b	na		Ɓaa gëm ga Yéesu aasukohan na , na ɓaa gëmmbii gari ?
+47006016	na		Kaanfii Kooh mínan na akitohu na koofcii yiifaꞌcii ? En kiꞌenaa , ɗu ɓërí en Kaanfii Kooh yii laak kipesɗa , fodaa ya ga kihafci ya woꞌkaɗa an : « Mi ƴah kidëk naɓa , mi taabi naɓa , mi yërí ƴah kiꞌen Koohyiigaɓa , ɓa ɓërí ƴah kiꞌen heetiigoo » . .
+47011011	tah ya		Iñii tah ya mi woꞌka ? Ati mi waaꞌtiirúu hen ? Kooh ínohin an mi waarinndúu .
+47011029a	~		Binaa laak garúu ɓaa laakoo doolinaa , mi ɓan , mi yéeŋka ga haffoo . 
+47011029b	~		Ɓoꞌ keen ga baakaaraa , keeñnjoo taki ga iñaama hen .
+47012013	yiida		Iñii yiida yërí mi tumiꞌ jaangucii cíinoo ee mi tumiꞌtiirúu ya ? Hanaa ga dii mi faanukkii ga dooliciirúuɗa . Kon , bayalattoo ga iñaa mi tooñnjúu yaama .
+47012017	~		Ati mi mosin kiñam doolirúu , kooroh ga yíinoo ga ɓuwii mi wosee garúuɗa ?
+48002014	ya		Daa mi hotee an enukeenaagaɓa waama júɓpii ee taammbii na kayohfii Hewhewii winéwíꞌwii , mi tapukohha na Peeꞌ ga fíkíi ɓéeɓ , mi woꞌꞌari an : « Fu yii fu en yaawúuꞌ ee fu foñin dii yaawúuꞌ pesiɗa , fu taabukka kipeskii ɓuwii enussii yaawúuꞌɗa , fu gítínoh ɓuwii enussii yaawúuꞌɗa ya ga kitaabuk kipeskii yaawúuꞌcii ? »
+48003001	ɓa		Ɗú ɓu-Galaat , ɗú lohoyin hel kat , ɓii móoñís hafciigarúu ɓa ? Moona déy , ɗú teewuunun bi leerin lañ ga hasciigarúu Yéesu Kiristaa yaa daayu ga kuraanaaɗa .
+48003019	ya		Kon Waasii Móyíis wa enohu ya ? Wa ɓaatu ga hen doonaa wa teeɓ ɓuwii faŋ iñcii ɓa tumi ee ɓa këldúki iñcii Kooh nakohɗa . Ee iñaama laakan bi ga daa níilii Abaraham Kooh dígoheeɗa hayohan . Waasiima , Kooh yërí yóoskíꞌwa ga ɓuwii , koorohha ga malaakacaagari , ɓa eꞌtawa Móyíis yaa enee ga díkaanti . Kooh na ɓuwiiɗa .
+48004009a	na		Wayee diimaɗa , waa ɗú hídohin na Kooh , wala sah waa Kooh hídohin narúu , ɗú mín na kiɓoyukis ga baahcaa caama haydohɗoorúu tús ee ca caloo daraɗa ? 
+48004009b	tah ya		Iñii tah ya ɗú waaꞌ kiɓoyukis kiꞌen ñaam gaca ?
+48004010	~		Laakin ga bescii , ga ñiincii , ga jamaanucii , wala tíkíistii , caa ɗú am , ɗú tíkkaca enaama cilëekíꞌ-solu .
+48004015	wada		Wada keeñ-soosaa ɗú taabee nawaɗa ? Na dii ɗú safareeɗa ! Mi mínin kiseediꞌ garúu an , enee an mínukinaa eneenaa ɗú hay kilukit tuhastiigarúu , ɗú eꞌtoota .
+48004021	~		Woꞌattoo , ɗú ɓii ɗú waaꞌ kiꞌaƴ kipeskiigarúu ga Waasii Móyíisɗa , ɗú ínohoo iñii wa woꞌɗa hene ?
+48004030	yiida		Wayee iñii yiida woꞌsee Abaraham bídussa ga Këyítfaa an : « Kaalaa ñaamii ya na kowukiigari , ndaga kowukii ñaamii jomoo kibok kilam na kowukii ɓetifii enndii ñaamɗa . . » ?
+48005007a	ɓa		Jaarii ɗú bëteeɗa dii wa jekeeɗa moos ! Ɓii pellúu ɓa , hoonohharúu kitaabuk kayohfii ?
+48005007b	~		
+48005011	tah ya		Kon mbokcii , mi ga kihaffoo , enee an mi lís kijëgíroh an kigúruk tumsataa , eneenaa mi hatalsoo ga kipes . Kon iñii tah ya mi hatalu ga kipessoo ? Kikaankii Yéesu ga kuraanaa mi en kiyéegaloh ee ka newoo ɓuwiiɗa , kërí tahka .
+49004009	ya		Kon woꞌeenii wii an , ya lapin ɗook asamaanɗa , waaꞌ ya kiwoꞌ ? Wërí en an ya ɗeɓ kiyoosuk hen bi ga ɗekataa wëñ kihuutɗa .
+50001018	~		Iñaama ɓa tum ga helɓaɗa , waa wa jof , waa wa joffii tóoh , dara ɓíttiiroo ga ! Iñii laak soluɗa wërí en an Kiristaanii yii yéegalohu ; mi yii neɓluk ga ee mi hay ɗa kiwëñ kineɓluk ga .
+50001021	~		En kiꞌenaa , mi ga kihaffoo , Kiristaanii en kipeskiigoo ee kikaan ɓaatanndoo hen .
+51002020	tah ya		Waa ɗú kaandohin na Kiristaanii bi ɗú ɓëgísukin ga iñcii ga ëldúna laakin dooli ee ca hotukooɗa , iñii tah ya ɗú lís kitaabuk iñii ca nakohɗa , en fan ëldúnaaniima ɓay kipessúu ? Ɗú ebilohi an :
+52002019	ɓa		En kiꞌenaa , ɗí ɓewohan yaakaaꞌ ga ɓa ? Ɗí ɓewohan ga ɓa iñaa sóosíꞌ keeñnjíi , na neehalaa ɗí ndamukohan ga fíkíi Yéesu , Haꞌmudii , binaa ya hayisaa ? Enndii ɗúne ?
+52003009	ya		Ɗí mínoo Kooh kigërëm garúu bi dooy ndaga ga dii ɗú hín kisóosíꞌ keeñciigaríi ga fíkíici , ya yii ya en Koohyiigaruuɗa .
+54003005	na		En kiꞌenaa , ɓaa mínoo kiɓay ɓu-kaanci bi jof ya mínan na kiɓay jaangii Kooh ?
+54006007a	~		En kiꞌenaa , ɗu hayyii na dara ga ëldúna , 
+54006007b	~		ee ɓan ɗu soofanndii na dara .
+58001005	~		En kiꞌenaa , Kooh mosoo kiwoꞌ yíinoo ga malaakacii an : « Fu , fu en kowukiigoo , wati mi en Paapu » , Ya mosoo kiwoꞌ ɓan yíinoo gaɓa an : « Mi ƴah Paamun gari , ya en kowu garoo » . .
+58001013	~		Kooh mossoo kiwoꞌ malaaka yíinoo an : « Hay , yugaa dii fu hanoh yah-ñaabiigoo bi ga daa mi tuman ɓuwii sagoh naraaɗa ditogaaꞌ kotfu . » .
+58001014	~		Ɓéeɓ malaakacii , ɓa en rek hel , caa lëgëyiꞌ Kooh ee ya wosɓa kiꞌamɗoh ɓuwii jom kilaas kimúckiiɗa .
+58002003	na		Kon ɗu ɓii ɗu kelohin kimúckaa hín na kiima kiyakɗa , binaa ɗu ammbiika bi yëgísaa , ɗu tuman na bi Kooh korooruu . En kiꞌenaa , Haꞌmudii ga kihafci yërí ɗeɓ kiyéegaloh kimúckiima , tíkka ɓuwaa keloh kaɗa onussaruu kiꞌínoh an kayoh .
+58002006a	ya		Laakin daa bídu ga Këyítfaa an : « Éeƴ Kooh , ɓoꞌ-súusúus nam ya kiꞌen bi fu foñi hel gari ? 
+58002006b	ya		Ɓoꞌ-súusúus nam ya kiꞌen bi fu malaki hasfu gari ?
+58003016	ɓiida		En kiꞌenaa , ɓuwii ɓiida ɓërí kelohee woꞌeenaa Kooh ee ɓa ɓaa ñaꞌsukoh fodaama ? Man enee ɓéeɓ ɓuwaa Móyíis meƴdohee kúlkaa Esíptiɗa !
+58003017	ɓiida		Ɓuwii ɓiida ɓërí Kooh aylukee bi ennda tíkíis tidaaŋkaah-nikiis ? Man enee ɓuwaa tumee baakaaꞌ ee faraafcaagaɓa keennda ga ëgíꞌ-dúndagaaɗa .
+58003018	ɓiida		Ɓuwii ɓiida ɓërí Kooh woꞌee naɓa an ɓa aasoo múk daa ya onanɓa kiꞌíikaruk ? Man enee ɓuwaa sageeri kikelohiꞌɗa !
+58006004	~		En kiꞌenaa , ɓuwii mosin kilaas ga leeꞌlaatii Koohɗa , ɓa ƴoohin ga iñcii cijófíꞌcii meyoh asamaanɗa , ɓa laakin doolaa Helaa yiselaꞌíꞌyaa , ɓa yéegin ga keeñɓa neɓlaatii Woꞌeenii Kooh , na ɓan doolaa ëldúnaanii en na kihayɗa , ee hoonohhii ɓa ɓoƴkisin ga kipeskaagaɓa kibóníꞌkaaɗa , laakissii iñaa ɓoꞌ mín kitum kinookɓa bi ɓa súpít kipeskaagaɓa . Ɓuwaama man fodaama , ɓa daaƴsin Yéesu ga kuraanaa , ɓa ɓaslukinndi ga fíkíi ɓéeɓ .
+58007011	ya		Lëgëy sarahohaa ɓu-kaan Léwí ɓa tumee ga lagaa Aaronɗa , Waasii Móyíis wërí ebiloheewa kitum . Enee an lëgëy-sarahohaama míneera ɓuwaa kiꞌon kimat ga fíkíi Koohaa , eneenaa soolukan ya sarahoh yiliis , yaa manndii na sarahohcaama , falu ga lagaa Melkisedek ?
+58009014	~		En an iñaama laakohɗanaa , wëñaa ga ñífaa Kiristaanii paafin ñífoo ñífɗa ! Ya erohin hafci sarah ga Kooh , waa laakoo sík , kooroh ga doolii Helii yiselaꞌíꞌyii ƴah bi taaꞌɗa . Fodaama ya hay kiꞌsétíꞌ keeñciigaruu bi ɗu tumsisoo iñcaa ëewdohi ɓoꞌ ga kikaanɗa ; en ɗanaa ɗu mín kijaamuk Kooh yii laak kipesɗa .
+58010001	~		En kiꞌenaa , iñcii Waasii Móyíis teewohɗa ca en sóogúufii iñcii cijófíꞌcii en na kihayɗa ; wa mínoo kiꞌon ɓuwaa kilaas ga iñcaama kayoh-kayohɗa . Daa ka mín kiman tóoh , ga dii kíiskaa en tóoh , sarahcaa tumsiɗa caca caca , iñaama teewoh an Waasaa Móyíis mínoo kiꞌon ɓuwii deeyi ga Koohɗa kimat .
+58010029a	~		Ɗú fooŋ an ɓaa faaliꞌii Kowukii Kooh , 
+58010029b	~		keeñukkii ñífii pokohu kifiiliimunkii kiꞌaskii onndi kisétíruɗa , 
+58010029c	~		ee ya ɓasi Helii yiselaꞌíꞌyii teeɓpuu kijofkii Koohɗa , 
+58010029d	~		ɓaama , attiꞌaa ya jom kitíkuɗa enndii wërí wëñan kimesike ?
+58011032	ya		Mi woꞌat ya yiliis , waa mi laakanndii jot kiwoꞌ wíinoo wíinoo ga loo Gedewoŋ , Barak , Samson , Yeftee , Dëwít , Samiyeel na sëldíiga-Koohcaa ɓíinooɓaa ?
+58012007	kiida		Tookat coonucii ɗú daƴɗa ; Kooh enndúu na kikoꞌ . En kiꞌenaa , coonuciima teewoh an ya tíkkúu ɓitowuci . Kowukii kiida , en na paamcinaa , paamci koroori ?
+58012009	na		Ɗu níindísukat paamunciigaruu ga ëldúna : man ɓa koreeruu hen ee ɗu eꞌtaɓa céeꞌ . Kon paamudiigaruu ga asamaanɗa , ɗu jommbi na kihín kikelohiꞌ , en ɗanaa ɗu laas ga kipeskaa leehoo taaꞌɗa ?
+58012025	~		Watukat kon kiɗúkúruk ɓii woꞌ narúuɗa . En an ɓu-Isarayeel ɓaa sagee kikelohiꞌ Móyíis , yaa woꞌee naɓa dii ga ëldúnaɗa , ɓërí rëcussii ga kisaŋkuꞌaa , wëñaa ga , ɗu ɓii ɓii , binaa ɗu súugúruk yii woꞌ naruu , en ga asamaanɗa .
+58013006	ya		Kon ɗu mínin kiwoꞌ na hel widëlíꞌ an : Haꞌmudii yërí en ɓii ƴahhoo kisomɗa , mi niikanndii dara . Ɓoꞌ mínndoo ya kitum ?
+59002006	~		Wayee ɗú tíkkii nduul ɓoꞌ ! Enndii haꞌ-alalcii ɓërí hoonohirúu kilaak jame ? Enndii ɓërí fasirúu bi ga paancii attiꞌohsiɗane ?
+59002014	ya		Mbokcii , kiwoꞌ an « mi laakin ngëm » ee ngëmaagaraa taammbii na tumeen , jeriñ ya ? Ngëmaama mínin ɓoꞌ kimúsale ?
+59002016a	~		Laak garúu yaa woꞌꞌi an : « Karaa na jam ee fu ekuk faanfu bi ɓít , fu ñami bi fu kap ! » . 
+59002016b	ya		Ya woꞌꞌi iñaama ee ya eꞌtiiri iñaa ya soolukɗanaa , laak ya jeriñ ?
+59002018	~		Heƴna ɓoꞌ hayyoo kiwoꞌ an : « Ɓii laak ngëm , ɓii laakka tumeen . » Wayee mi taasanndi an : « teewaaroo ngëmaa ɓoꞌ mín kilaak ee taammbii na tumeen , mi , mi teeɓpaa ngëm ga tumeen . »
+59002021	~		Caasammbuu Abaraham , Kooh abohhi ɓoꞌ yijúwíraa , enndii ga daa ya faanee kowuci Ísaak ga loteelaa kitumiꞌ Kooh sarahɗane ?
+59003013	Yiida		Yiida garúu laak kiñaañ ee ínohin yen ? Ga ɓadukeenci wijúwíꞌ , ya teewohatka ga tumeencaa teeyin , caa teewoh kiñaañ kimëtíꞌ .
+59003017	~		Wayee ɓaa laak kiñaañkaa meyoh ɗookɗa , ɗeɓ kiset hen paaƴ , ya hannda kiyewin jam , ya teeyya ; ya hídírohi hen , ya líifin na yërmaandi , ya lími yijófíꞌ ; ya faꞌɗohoo ken ee ya ínohoo kijófjófɗuk .
+59004001a	ya		Heñcii na ñarohcii ga ɗuuƴcúuɗa iñii haydohcaɗa ya ? Kiwaaꞌ neɓlaat-kumuunkii dëk kiheñoh ga ɗuuƴcúuɗa kërí haydohca .
+59004001b	~		
+59004012	ɓa		Kooh haŋci doŋ , yërí hëwíꞌ Waasii , ee yërí laak kiꞌattiꞌ . Ya doŋ yërí mín ɓoꞌ kimúsal , ee ya mín ɓoꞌ kisaŋkuꞌ . Haa fu yii fu attiꞌi mooroomfuɗa , fu tík haffu ɓa ?
+59004014	~		Ɗú ínohoo dara ga kipessúu , iñaa ka ƴah kuwisɗa ! Ndaga ɗú man na eeɓ . Wa kolukaa , maañoo dara wa keen .
+60002020	wiida		En kiꞌenaa , ndamii wiida wërí laak ga kikooruk dooꞌcaa ɗú feekuca ndaga lak ɗú tum iñaa joffii ? Wayee binaa ɗú took kikooruk coonu ndaga kitum iñaa jofinaa , ínohat an Kooh ga kijofkaagari yërí onndúu kimín iñaama .
+60003013	yiida		Ee sah , ɓii yiida tumanndúu iñaa mesikin binaa ɗú kaantukoh ga kitum yijófíraa ?
+60004017	na		Wahtii kiꞌattiꞌkii leꞌin , ee wa ɗewoh ga ɓuwii en ɓuu Koohɗa . En lak wa daloh garuunaa , kon ɓuwii sagu kigëm ga Hewhewii winéwíꞌwii Koohɗa , ɓa ƴah na kimëeñjoh ?
+60004018	na		Fodaa këyítfaa woꞌɗa : « En lak kimúc ɓoꞌ yijúwíꞌ kërí yooɓpiinaa , kon ɓaa tumi baakaaꞌ , faaliꞌꞌii Koohɗa , ya aaw na ? » .
+61003004	ya da		ɓa woꞌi an : « Man Haꞌmudaagarúu dígohee an ya hay kihayis ! Haa ya da ? Caasamuncaagaruu kaanuunun , ee bi wati , iñaa Kooh sakee ëldúna , tóoh lís ɗa . »
+61003011	~		Kon waa ɗú ínohin an ɓéeɓ hay kiɗúbiru fodaama , ɗú jomin kiꞌínoh dijófíꞌ daa kipeskiigarúu jom kiman . Ɗú jom kiɓay ɓadukeen wiselaꞌíꞌ , waa teewoh an ɗú am ga Kooh .
+62002022	yiida		Kon ɓii yiida en yii woꞌoo kayohɗa ? Ɓaa wediꞌ an Yéesu yërí en Kiristaaniiɗa , yërí . En kiꞌenaa , ɓaama yërí en ɓaa heñoh Kiristaaniiɗa ee yërí saŋ kitook Paamudii na Kowukii .
+62003012	tah ya		Ɗu hanat kiman na Kayeeŋ . Ya taabee na Seytaani bi faf ya appa këmëeŋkíci . Ya ga kihafci tumeencaagari enee cibóníꞌ , ee caa këmëeŋkíci enee cijúwíꞌ . Kërí tah ya appari .
+62003017	gada		Binaa ɓoꞌ yaa laakin alal dii ga ëldúna , ya hot mooroomci kerceen yaa laakoo ee soolukin dímal , ya tëc keeñci ga ɓaamanaa , kon kiwaarohkaa Kooh nakohɗa ka hanoh gada ga keeñci ?
+62004020	na		Binaa ɓoꞌ woꞌ an : « Mi waarin Kooh » , ee lak ya waaꞌtii kihot ga mooroomci kerceenaa , ya woꞌꞌii kayoh . En kiꞌenaa , ɓaa waaꞌtii mooroomci , yii ya hotɗa , mínan na kiwaaꞌ Koohyii ya hottiiɗa ?
+62005005	yiida		Kon ɓii yiida mín kilaak ndam ga ɗook ëldúna ? Hanaa ɓaa gëm an Yéesu yërí en Kowukii Kooh .
+66005002	yiida		Mi hotta ɓan malaaka yilëekíꞌ-dooli , yaa woꞌ didóolíꞌ an : Ɓii yiida mat ga kinís capcii Këyítfii , ya pónísfa ?
+66006010a	bi kera		Ca nak , caa fiip didóolíꞌ an : Cic Kooh , fu selaꞌin ee fu kayoh kesi . Fu sekan bi kera kiꞌattiꞌ ɓuwii ga ëldúnaɗa na kiꞌëldúkiꞌtíi ñífiigaríi ɓa aamɗa . ?
+66006010b	~		
+66006017	ɓa		ndaga besii wiyaakwii aylukiigaɓa ƴah kikeen ga ɗookkíiɗa leꞌin . Ee ati ɓii múcan ga ɓa ?
+66007013a	ɓa		Yíinoo ga yaakcaa nak meekissaroo an : Ɓuwii ɓii ekuk kúltícii ciyaanaawciiɗa , ɓa ɓiɓa ? 
+66007013b	gada		Ɓa meyoh gada ?
+66013004a	yiida		Ɓéeɓ aawwa kijaamuk goŋ-jësíkaa ndaga daa ya on rawaa dooliɗa . Ɓa ɓaa jaamuk ɓan rawaa , ɓa ɓaa woꞌ an : « Ɓii yiida man na rawii ? 
+66013004b	yiida		Ɓii yiida mín nari kiheñoh ? » .
+66015004a	ɓa		Haꞌmudii , ɓii kaañanndaa kiniikoo ɓa ? 
+66015004b	ɓa		Ɓii sagan kikañ teekiigaraaɗa ɓa ? Kayoh , fu doŋ fu yërí selaꞌ , ee ɓéeɓ heetcii hay kihayu ƴíꞌu ga fíkíifu , jaamuksiraa , ndaga ɓa hotin an tumeenciigaraa júwin .
+66017007	ya		Malaakaa nak woꞌꞌaroo an : Fu waaruꞌ ya hínɗa ? Mi hayyaa kiléeríꞌ kúmpafii en ga ɓetifii , na rawii koorukki , ee ɓay hafcii ciyitnakanakcii na wiiƴcii cidaaŋkaahciiɗa .
+66018018	~		ee daa ɓa hotee iifiilaa tëkíree teeraaɗa , ɓa fiippa an : Laakoo múk teeraa hín na teerii wii kiyaak ! .

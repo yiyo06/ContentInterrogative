@@ -1,0 +1,743 @@
+40002002	fan		Nji á bháe , a bhâ jóe á bhəbha ane sê “ Mmon i mfê nnyo á jíi mfá , nnyo ntûfâm ane Jus , a ri fan ? E yéne írʉnândʉ ósô mfi í tóŋe eriŋ ojî obhê ka ebhat ejə́ré , é bha áno sê é bhá kúp yê . ”
+40002004	~		Erot a chə́me fép ane-echî akará-agore Obhasi na atóŋá-ebhín a bhə̂p ábho se á sə́re yê eji á tóe sê tîk á jî Krayis , nne nnyo Obhasi a kí tum se a yim ngun á sém .
+40003007	énê		Jon a kpo to a yén etî-etî ane echəme Farasi na echəme Sadusi á kə́ bha sê yê a fúk ábho ayép , a fáme ábho se , “ O ri ên ńgô , ekpin noŋ efomnté ! Énê a sə́re ên se kə́n o bê ên oyámá-ḿbə́ŋé Obhasi mbi ó kə́ bha ? .
+40005013	~		“ O ri ên noŋ akâŋ mbâ ane ngun chénchén . Kən ájoé ogyep akâŋ ó man , ekpak nji á kí yim ḿmáne á kpó gyebhé cháŋ . Eji á kí kpo ko ḿmáne á yîm kpe ejûm cháŋ . Á kí bhum ḿmáne ane á chemá .
+40005046	nan		Ájoé ó kot ên a ri ane mba á kóre ên , o kí yim ên nan ó fôn ekəp Obhasi , ka kpe ane abhí noŋ abhə́bhá-ntí-echî á kóra a ri ane mba á kóra ábho .
+40005047	~		Ájoé o kí joé ka ekone a ri na atem abhâ , ó kere se ó yim ejûm eno etat egyê a ? Ó ka yim , ka kpe ane mba á ká məŋé Obhasi , á kóra fə́ne a ri atem ábho .
+40006027	énê		Ka oseŋe mbi ó kará ên áno biji , énê owəné nnyo ofú ekʉ̂ obhê ó si , a bhîk ekpeém ofú bhə́t ?
+40006028	Jen		“ Jen nji o kí karé ên biji oseŋe ka nchot i ḿfô ? Kêp ên mfem nnyi á kua ka ajé etə́m . Ntûm á bhó yim . Ḿfô á bhó yim .
+40006031a	~		“ Ájoé ó ki ên ḿbə́ŋé na Obhasi , o kâ kpô karé biji oseŋe ka nji o kí di ên 
+40006031b	~		na nji o kí gwo 
+40006031c	~		na nji o kí kak ka biji ?
+40007003	Nan		Nan kən o kí kep ńtép nnyi a ri ka eyə̂t í ntem , ńga nnyi a ri wâ ka eyə̂t a ri nkoghe ?
+40007004	nan		O kí yim nan ó sə́ré ntem se a tóŋé eyə̂t , ó yíghi yê ńtép nji nkoghe a ri ka ejâ eyə̂t ?
+40007009	Nnyón		Nnyón nne ka ekam ejə́né nnyo mmon owe a kí bhəp yê édî , a kô a ri ntáé a káre yê ?
+40007016a	~		O kí məŋé ábho ka oyima-ejûm ábho . Nne á bhó bhoŋ ńchít ka étí ajoŋe . 
+40007016b	~		Nne á bhó bhoŋ mbaŋ ka íríghí egóm .
+40008026	Jen		Jisos a fáme ábho se , “ Jen nji o kí fup ên ka ekpak njí , ḿbə́ŋé nnyi o kíi ên na Obhasi á ka son kpe mkpât . ” A rúi mân ngyím a nyân mfêp na aya , ngûm fə́ne a nâ chák .
+40008027	bhaghé ekpak		Biji í kpô ábho kpe-eji . Á kí bhəp sê , “ Bhaghé ekpak í nne nná nnyo kpe mfêp , kpe aya , í kí yuk yê ? ”
+40008029	jen		Nji á yéne Jisos , á kûk káŋ káŋ káŋ sê , “ Wóó Mmon Obhasi , ó woma jen na êt . O bháe ó bhá kpə́re êt kpá kən mfoné ebhú é sí a ? ”
+40009004	nan		Jisos a mə́ŋe nji ábho á kéra , a bhə̂p ábho se , “ É yími nan kən o kí fon ên ntʉ́ghi íkíkéré ibhí mfí ?
+40009005	Jen		Jen nji é rî wát , esə́rə́m nne se , ‘ Ń di nsôn ń su obhí obhâ , ’ kən nji ń sə́ré yê bəre , ‘ Duî ngyím , jen ejen ? ’
+40009011	Jen é yími kən		Kən ane Jus mba echəme Farasi á yéna nchot nnyí , á bhə̂p ane mba á tóbha Jisos sê , “ Jen é yími kən ńsé owəné a kí di édî na abhə́bhá-ntí-echî na ane abhí ? ” .
+40009014	Jen é yími kən		Atóbhá Jon nnyo mfúgha-ane-ayép á bhak mbâ Jisos á bhâ bhə̂p yê sê , “ Jen é yími kən êt na ane echəme Farasi e kí kaghâ njaé sê é jíghí Obhasi kən ane mba á tóbha wâ á bhó yim erû njí ? ”
+40009015	~		Jisos a táme ábho se , “ Ó kere ên sê ajéné mba á bháe erom ebháé á fôn nsae nji nne-ndûm nnyo a yaghê ábho a ri áfo na ábho a ? Eji á kí fon cháŋ . Kən ofú tîk ó sî mbi á kí yighí nne-ndûm nnyó . Nâ ebhú mân nji ane mba á bháe ebháé njí á kí ka njaé , á saa .
+40010025	~		A ri ejûm ogyebhá-ḿbə́ŋé nji mmon-i-nwet á si noŋ nne nnyo a kpíi yê . Ḿgbán fə́ne eróŋ nnyo á si noŋ ńsé owe , a ri ka efonóm ogyebhá-ḿbə́ŋé . Ájoé ane á kí faŋ ḿbə́ŋé á bhiŋá ə̂m ka ńsé owəné sê Satan , obhiŋ mân mbi á kí bhiŋ ên , ó kí bhip ó chíŋi ochíŋ . ” .
+40011007	jen		Nji ágbán í Jon á mághe á kí ji , Jisos a bhə̂p ekam ane nji é rî áfo na yê achot í Jon se , “ Ebhú nji o maghê ên o jî kpúghi Jon ka etə́m , o kére ên sê tîk o yên ên jen ? O kére ên sê o kí ji ó jí yén ên nne noŋ kpe ńjé egomé nnyi a kí neŋ a jak ngá a jak ńgô ka ekpak nji mfêp a kí nok a ? Ée !
+40011008	jen		O jiî ên mân , o jiî oyén ên jen ? Nne nnyo a gúŋi nnyen oguŋi obhê a ? Ée ! Ane mba á kágha énoê oguŋi mbí á kúma ka ókʉ́rí atúi-ofâm .
+40011009	jen		O jiî ên mân , ó jí yén ên jen ? Nkara-otîp Obhasi a ? Nâ nji o jiî oyén . Deê ń sə́ré ên mân bəre nne nnyo o jî yên ên a fâŋ a chíŋi nkara-otîp Obhasi .
+40011016	jen		“ N kí gaé abhon ebhú njí na jen ? Á rî noŋ abhonche mba á kûn ka éré ogəm , ekam jə́t á kí kpoŋe na nji tat sê ,
+40012011	nan		Jisos a táme ábho se , “ É kó sê nne owəné yót a fôn mbúi nnyi a gboê ka ébhírí ka ofú oyoá-biji , o kí yim nan ? Ó bhó bhi obhô o yíghi ńnyə́ne a ? .
+40012026	~		Ájoé mân otúi Satan ó kirí ka ngûm ka ngûm , ó noghá na atem , ó kí gbo .
+40012027	~		Ájoé ń yighá ojê na ikom í Besebup , ane mba á tóbha ên mân aŋ ? Yên mân ane mba á tóbha ên á tóŋe jáé sê ó gbo ên .
+40012029	~		“ Kpe nne yót cháŋ nnyo a kí wa njû mgban a gyê a jʉ̂ iyîm ibhê nji á ka raŋ mbá kpá a fi yê a bhóp .
+40012034	nan		Abhon efomnté iyîm ane ! O kí yim ên nan ó chôt ên nchot nnyi no nji ên áfoné a ri ane abhí ? Nji é kí fap nne ka nnyo nâ nji é rî yê ka ḿbə́ŋé .
+40012048a	Nnyón		Kən Jisos a táme ábho ka ebhə̂p se , “ Nnyón nâ ó bhiŋá ên sê nnyen omé , abhon-í-nnyen abhámé nâ mbán ? ”
+40012048b	~		
+40013010	jen		Ane mba á tóbha Jisos á bhâ bhə̂p yê sê , “ Echî nji ó chorá nchot ka ngan a ri jen . ”
+40013027	fan		Ágbán í mfone ebhin nnyó á kpô yén áno , á bhâ bhə̂p ńsé ábho se , ‘ Ńsé , o bheê nná érési ka ebhin ejâ . Njé nnyí a kpó dʉ fan ? ’
+40013054a	fan		A chə́bhe njəm ka eték ejê , a jî gyê ka óchâm Obhasi a kí kpi ane . Ane mba á yúghi yê á kə̂t á chorá ábho-ábhô sê , “ Ntʉ́ghi mbí oməŋá-ejûm ó dʉ̂ fan ? 
+40013054b	fan		A kóe ikom mfí fan a yimá ntûm okpógha-biji nnyí ?
+40013056	fan		Ḿfa asík nâ chénchén abhon-í-nnyen abhê mba ane-akáé á kúma a ? Mbá nnyi yê a fonê mân chénchén aron mmá na ikom mfí a ri fan ? ”
+40014031	Jen é yími kən		Jisos a tə̂n fə́ne obhô ebhú jə́t , a fî yê . A sə́re Pita se , “ Ḿbə́ŋé eya nnyi o kíi na mme á ka son kpe mkpât . Jen é yími kən o fôn efup ? ”
+40015002	Jen		“ Jen nji ane mba á tóbha wâ á bhó top ntóŋé ane-atəm ? Á bhó su abhô kən á dí iyîm ka ekpak ebhín é fíi . ”
+40015003	Jen é yími kən		Jisos a táme ábho se , “ Jen é yími kən o kí maghé ên ebhín Obhasi o tóbhá ên a ri ejə́né ?
+40015033	fan		Kən ane abhê á bhə̂p yê sê , “ Tîk e fôn mân édî fan ka etə́m njí , nji é kí bhik ane mbá chénchén ? ”
+40015034	é bhík		Jisos a bhə̂p ábho se , “ O fonê ên nsûm i brêt é bhík ? ” Á táme sê , “ Nsûm enígisá na mkpât osí . ”
+40016008	nan		Jisos a mə́ŋe nji ágbán abhê á chóra , a bhə̂p ábho se , “ Nnyi édî a dʉ nan ? Bhaghé ntʉ́ghi ḿbə́ŋé ekíím nâ ó kik ên nná ?
+40016009	íbhík		É nyə́ne é ká jae ên a ? Ó gyini ên ebhú nji n kóe nsûm i brêt érôn n gyê ane ntem-esam ntə̂m-ntə̂m ófó na ébháe na ejûm ( 5,000 ) a ? Édî nji é kə́re , o kaghê ên bikáé , í súi íbhík ? .
+40016010a	~		Ó gyini ên fə́ne ebhú nji n kóe nsûm i brêt enígisá n gyê ane ntem-esam ntə̂m-ntə̂m ófó ( 4,000 ) a ? 
+40016010b	íbhík		Édî nji é kə́re , o kaghê ên bikáé , í súi íbhík ? .
+40016011	Jen		Jen nji ó ka məŋé ên sê nchot amé á ka joé a kpê na édî ? Kô ên mân ebhú na yîs nnyi ane echəme Farasi na mba Sadusi á kágha ka brêt ábho . ”
+40016013	bhaghé		Nji Jisos a síi ebhat eték í Sesariya Firipi , a bhə̂p atóbhá abhê se , “ Ane á sə́ra sê Mmon-i-ntem-nne a ri bhaghé nne kpá títí ? ”
+40016015a	~		A bhə̂p mân ábho se , “ Ên áfoné , 
+40016015b	énê		ó məŋe ên sê mme a ri énê ? ”
+40016026a	jen		Orʉrí obhâ a ri jen nji ó fon ngun ndə́m kən ó ka fon ekpin ejâ ? 
+40016026b	jen		Ka etʉri , ó kam ên sê kə́n nne a kô jen a yóŋe na ekpin ejê ka ngun nnyí ?
+40017010	Jen		Ágbán í Jisos á bhâ bhə̂p yê sê , “ Jen nji atóŋá-ebhín á kí chot sê Erayija tîk a râŋ mbá a bhák ? ” .
+40017017a	nan		Jisos a kpíghi a sə́re atóbhá abhê se , “ Abhon ebhú njí , obhí jen na ên ? Echî ó bhó ki ên ḿbə́ŋé na Obhasi a ri jen ? Ó woma ên sê ta ń ká nan na ên ? 
+40017017b	é bhík		Ń kúmi na ên ka nyâ é bhík ? Kô ên mmon ányo bhák ên ngá . ”
+40017019	Jen é yími kən		É kpó kət , ágbán abhê á bhə̂p yê njəm-ńjə̂m sê , “ Jen é yími kən é ka məŋé oyighí ojê mmon ányo ? ”
+40017025a	jen		Pita a táme se , “ Á bhó tup nná jen ? ” Pita a gyê mân njû a tôp Jisos , kən Jisos nâ a raŋê mbá a chôt se , “ Pita , sə́ré ə̂m ! 
+40017025b	énê		Énê nnyo a fonê ka etúbhúm ntí ókʉ́rí achot Obhasi ? Énê nnyo a fonê ka ekarám ntí-echî mbâ atúi-ofâm í ngun nnyí ? Afoná-nsi kən ajéné ? ”
+40018001	énê		Ka ebhú áji , atóbhá Jisos á bhâ bhə̂p yê sê , “ Énê a faŋê a chíŋi ntem ka otúi Obhasi ? ” .
+40018012	nan		“ Kére ên kpá nchot nnyí . É kó sê nne owəné yót a fôn nsam i mbúi érôn , kən mbúi yə́t a tân . Ó kere ên sê nne nnyó a kí yim nan ? A ri a maghé mbi ngá ka eji édî a jí wom nnyi a táne áno .
+40018021	ébhík		Pita a bhâ bhə̂p Jisos se , “ Ntûfâm , ntə̂m ébhík nâ ntem a kí yim ə̂m obhí kən n dik yê nsôn ? Ntə̂m enígisá a ? ”
+40019007	nan		Kən ane echəme Farasi mbá fə́ne á bhə̂p yê sê , “ Ájoé nâ noŋ é rî , Mosis a yimî nan a káre ikom se nne á timí nkáé ebhímím , deê a séŋ nwet ebháé emanám , kən a bhím mân nkáé ? ” .
+40019016	bhaghé		Nne yót a bhák mbâ Jisos a bhâ bhə̂p yê se , “ Ńsé , n kí yim bhaghé énoê etûm kən ḿ fôn ekpin ótúm-ótúm ? ”
+40019017	Jen		Jisos a táme se , “ Jen kən o kí bhəp ə̂m nchot énoê etûm ? Kpe nne nno cháŋ , é ká chiŋi Obhasi átíŋ . Kən á joé o kí wom ó fôn ekpin , kî ebhín Obhasi . ”
+40019018	njə́n		Nne nnyó a bhə̂p se , “ Ebhín í nchane nâ njə́n ? ” Jisos se , “ O kâ yúi nne , ka gbô ekun , ka jʉ́ ejʉ̂ , ka gyími ntî-isê áfúbhí .
+40019020	Bhaghé ejûm		Kən nne-ndûm nnyó a táme se , “ N kí kighâ bibhín mbí chénchén . Bhaghé ejûm nâ é kpo kə́t ə̂m ? ”
+40019025	énê		Nji ane abhê á yúghi nchot nnyí , á kêt . Á bhə̂p sê , “ Kən énê mân tîk a sêm ? ”
+40019027	jen		Kən Pita a bhə̂p mân Jisos se , “ Ńgyê êt , é maghe chénchén iyîm ibhə́ré e kí top wâ , orʉrí obhə́ré ka etím a ri jen ? ”
+40020006	jen		“ Ta ńkánínká a kí si érôn na egu , nne nnyó a kpô ji ka éré ogəm a jî yên ane etat á gyím . A bhə̂p ábho se , ‘ O gyím ên mfá jen o bhíbhá ên ofú ndə́m ka chichi ? ’
+40020012	~		é kí yim nan a káre ábho ntí ekan na ane mba a kóe ka etûm nsígha-njəm . Ane mbá á yim etûm ka áwa mát , kən ábho á kət ka njúí ofú ndə́m á yim ekpatə́m etûm ?
+40020021	Jen		Jisos a bhə̂p yê se , “ Jen ? ” Nne-nkáé nnyó se , “ N kí wom ó chimi se ebhú ó kumí ka otúi obhâ , tîk o yîm abhon abhámé mbá ábháe , yót a kúmi wâ mkpe obhô-orûm , yót mkpe obhô-okáé . ”
+40020032	jen		Jisos a gyími , a bhîŋ ábho a bhə̂p se , “ Ó woma ên ń yîm jen ń káre ên ? ”
+40021010	énê		Nji Jisos a gyée Jerusarem , eték é nyíŋi . Ane á kí bhəp sê , “ Énê nná kpá títí ? ”
+40021016	~		Á bhâ bhə̂p mân Jisos sê , “ O kí yuk ejûm nji abhon mbá á chóra asík a ? ” Jisos a táme ábho se , “ Nn̂ , n kí yuk , kən ó ka nok ên obhiŋ tîk ka eji á séŋe ka nwet Obhasi sê , ‘ Obhasi a yîm abhonche , kpe mba á rî ka obhô , se á káre yê ekûp na ejík a ? ’ ” .
+40021020	nan		É kpô ane mba á tóbha yê biji kpe-eji , á kí bhəp sê , “ Étí njí é yími nan é kpô mfá-mfá njí nná ? ”
+40021023a	bhaghé		Jisos a chə́bhe njəm ka ókʉ́rí achot Obhasi , a kí kpi ane achot . Kən ane-echî akará-agore Obhasi na ane-akúí eték , á bhâ bhə̂p yê sê , “ O fonê bhaghé ikom kən o kí yim iyîm mbí ? 
+40021023b	énê		Énê a karé wâ ḿfə́ne ? ”
+40021025a	énê		Sə́re ên ə̂m ikom mfi Jon a fonê kən a kí fuk ane ayép , í dʉ̂ mbâ énê ? Í dʉ̂ mbâ Obhasi kən mbâ ntem-nne ? ” Ane mbá á róghe efírím ábho-ábhô sê , 
+40021025b	~		“ Ájoé é tame sê Obhasi nâ a karê Jon ikom , 
+40021025c	~		a ri a bhə́p echî nji e rô kam na Jon .
+40021028	~		Jisos se , “ Kére ên nchot nnyí . Nne yót a fôn abhon ábháe , a jî sə́re nnyo nne-nkúí se , ‘ Mmon omé , choŋ oyim etûm ka ebhin égyé . ’
+40021031	nnyón		“ Ka ifə́né íkíkéré , nnyón ka abhon mbá ábháe nnyo a yimî ejûm nji ńsé a wóme ? ” Chénchén ane á táme sê , “ Nnyo nne-nkúí . ” Á kpó to á táme , Jisos a sə́re ábho se , “ Deê ń sə́ré ên bəre ane-akáé-ejen na abhə́bhá-ntí-echî mba ó kera ên sê ane chichi , tîk á gyê otúi Obhasi kən ên ó sí ên ágo .
+40021040	nan		Jisos a bhâ bhə̂p mân ane se , “ Ó kere ên sê ebhú mfone ebhin nnyó á bha , a kí yim nan na ane etûm mbá ? ”
+40022012	nan		“ A bhə̂p nne nnyó se , ‘ Ntem , é yími nan kən we o gyê mfá , nkʉ̂ ebháé ó ka fon ? ’ “ Nne nnyó á ka támé kpe nchot .
+40022017	~		Kən sə́re êt mân ejûm nji o kére . Nâ-ngá é rî nono sê é káre ntí-echî mbâ Ntûfâm i Rom , kən é ká nop ? ”
+40022018	énê		Kən Jisos a mə́ŋe ńtimî mbí ábho . A sə́re ábho se , “ Ane áfúbhí ! Ó gaá ên kpá énê ?
+40022020a	énê		Nji á tóŋe yê á bhə̂p ábho se , “ Efóŋé énê na mbiŋ 
+40022020b	énê		énê a ri áno ka ntí mmí ? ”
+40022028	énê		Ka ofú mân mbi á sə́ra nná sê ane tîk á nyə́me ka ekʉ̂ , nne-nkáé nnyó a kí joé nkáé énê , ka chénchén abhon-í-nnyen mbá á joe arûm abhê ? ”
+40022036	bhaghé		“ Ńsé , bhaghé ebhín nâ é fáŋe é chíŋi atem bibhín ? ” .
+40022042a	~		“ Krayis , nne nnyo Obhasi a túmi nná se a bhá yim ngun á sém , 
+40022042b	énê		ó kere ên sê a ri eyábhé-mmon énê ? ” Á táme yê sê , “ A ri eyábhé-mmon í Debhit . ”
+40022043	jen		A kpô bhə́p mân ábho se , “ Ájoé nne nnyó a ri mmon i Debhit , jen mân Obhasi Ebhare Ntʉgantʉ a karê Debhit íkíkéré se a bhiŋ nne nnyó se ntûfâm ? Debhit a chorê ebhú áji se ,
+40022045	nan		Debhit a kí bhiŋ Krayis se Ntûfâm . Krayis a kí kpo yim nan yê a joê mmon i Debhit ? ”
+40023017	Njə́n		Ánə́mé atáná-amə̂t ! Njə́n nji é fáŋe é chíŋ ? Ntí kən ókʉ́rí mbi ó kí yim ntí mmí ń chə́bhe ejûm eno mbâ Obhasi ?
+40023019	Njə́n		Otána-amə̂t í jen ! Njə́n nâ é fáŋe é chíŋi ntem , ekəp kən eji nji á túbha ekəp njí nji é kí yim ekəp é jóe ejûm eno mbâ Obhasi ?
+40023033	~		“ Abhon efomnté iyîm ane ! O kére ên sê tîk o chébhe ên akpəre mma Obhasi a kí karé ên ka erəmta-ngûn a ? .
+40024003a	bhaghé ebhú		Nji Jisos a kun ka Egui Orif , atóbhá abhê á bhâk kəma-kəma mbâ eye . A bhə̂p yê sê , “ Sə́re êt , achot mmá á kí fap bhaghé ebhú ? 
+40024003b	Bhaghé		Bhaghé eriŋ é kí toŋe ebháám ejâ na ntə̂m i ngun ? ”
+40024045	énê		Jisos se , “ Énê mân nâ a ri nnyen i ḿgbán nnyo a fonê aron ? A ri yê nnyo ńsé ábho a kî se a kép atem , a karé atem édî nji ebhú é si .
+40025037	bhaghé ebhú		“ Kən ane mbá tîk á tô sê , ‘ Ntûfâm , bhaghé ebhú nâ e yéne wâ ka njaé kən e káre wâ édî o dî ? Bhaghé ebhú nâ e yéne wâ ka ekot ayép , e káre wâ ejûm egwóóm ?
+40025038	bhaghé ebhú		E yéne wâ o bhák ojéné bhaghé ebhú kən e gyê wâ ? Bhaghé ebhú nâ e yéne wâ o kí chiŋ oyán , e kâk wâ ḿfô ?
+40025039	bhaghé ebhú		Ntûfâm , bhaghé ebhú nâ e noghê oyén wâ o kí maŋé na kpe ebhú tat o ri ka ókúmí , e bhák sê é bhá yén wâ ? ’
+40025044	bhaghé ofú		“ Ane mbá eróŋ tîk á bhə̂p yê sê , ‘ Ntûfâm , bhaghé ofú nâ e nôk oyén wâ o chíŋá na njaé , o ri ka ekot ayép , o bhák ojéné , o chíŋá oyán , o maŋá , á kûm wâ , kən é ka bhá sê é bhá nyáŋé wâ ? ’
+40026008	Bhaghé		Kən nji atóbhá Jisos á yéne ejûm njí , é yâm ábho é kpô . Á bhə̂p mân sê , “ Bhaghé énə́mé o bhíbhá ejûm nná ?
+40026010	jen		Kən Jisos a mə́ŋe ejûm nji ábho á kéra , a bhə̂p ábho se , “ Ó kará ên nne-nkáé nnyó ńtə́mé jen ? A yîm ekpatə́m ejûm a káre ə̂m .
+40026015	jen		A bhə̂p ábho se , “ Tîk o káre ên ə̂m jen ájoé ń karé ên Jisos ? ” Ane mbá á fân abhon iyîm esam njəm ófó nâ ntí mmi á káre Juda .
+40026017	fan		Ndaŋa-mbá ofú mbi Erom Édî Ábhiî-Ábhiî Eyámám ó si . Ágbán í Jisos á bhâ bhə̂p yê sê , “ O wóme se é dí ejə́ré erom í Ntə̂m Osʉ́ŋ fan ? ”
+40026040	jen		A rúi ngyím a jak a jî yên ágbán abhê mbá ásá á kí yae . A bhə̂p Pita se , “ Jen kən ên ta ane ásá ó ka bhik ên ejoóm ka ibhábhé kpe ka áwa mát na mme ?
+40026050	~		Kən Jisos a sə́re yê se , “ Ntem , nji o bháe oyim , yim ńjə́ne . ” Ka ngyím ányi , ane mbá á chîŋ fə́ne ka eji Jisos a gyím , á fî joók .
+40026054	nan		Kən ḿ kpo yim ekpak njí , é kí yim nan kən ekpak nji Obhasi a chorê ka nwet eye é jóe ka echî . ”
+40026062a	~		Ntûfâm akará-agore Obhasi a rúi ngyím a bhə̂p mân Jisos se , “ Nji ane mbá á sə́ra nná sê ó yim , 
+40026062b	~		ó ka fon kpe ejûm echoróm a ? ”
+40026065	jen		Nji ntûfâm akará-agore Obhasi a yúghi nchot nnyí , é yâm yê é kpô ta a fî nkʉ̂ eye yê ḿfoné a wáre . A kûk se , “ Nne nnyó a yîm ekpatə́m obhí a kpê na Obhasi ! Echî e kí kpo wom atî-isê mba tat a ri jen ? Ka ochî obhə́ré mfá , kpe énê a yûk achot abhí mma á fábha yê ka nnyo .
+40026066	jen		Ó kere ên mân sê jen ? ” Á gyʉ́i sê , “ A gbô , a ri a kpó . ” .
+40026068	~		sê , “ We nnyo o ri Krayis , nne nnyo Obhasi a túmi se ó bhá yîm êt é sém , tak kpá nne nnyo a súmi wâ . ”
+40027004	~		“ Ń yim obhí nji n kamê n gúri nne nnyo kpe ejûm á ka yim ta á kam sê á yúí yê . ” . Kən á táme yê sê , “ Ágo nâ achot amâ , nji é fóghe êt cháŋ . ”
+40027013	~		Piratus a kpô chot na yê se , “ O yúghá achot fép mma á chóra áno sê ó yim a ? ”
+40027017	~		Ebhú ane á chə́me , Piratus a bhə̂p ábho se , “ Barabas kən Jisos nâ o wóme ên se ń yíghi ka ókúmí ? Jisos nnyó á kamá se Krayis , nne nnyo Obhasi a túmi se a yim ngun á sém . ”
+40027021	Nnyón		Kən Piratus a bhə̂p ábho se , “ Ka ane mbá ábháe , ó woma ên sê ń yíghi nnyón ? ” Á táme sê , “ Barabas . ”
+40027022	nan		A kpô bhə́p ábho se , “ O kí wom ên mân sê ń yîm nan na Jisos nnyo á kamá se Krayis , nne nnyo Obhasi a túmi se a yim ngun á sém ? ” Á táme chénchén sê , “ Kûm yê ka ego . ”
+40027023a	~		Kən Piratus a kpô bhə́p ábho se , 
+40027023b	bhaghé		“ Nne nnyó a yimî bhaghé obhí ? ” Kən ekam ane njí á róghe ekughúm na ikom-ikom sê , “ Kûm yê ka ego . ”
+40027046	jen		Ńkánínká ésá a kpo to a sí , Jisos a kûk káŋ káŋ káŋ se , “ Erayi ! Erayi ! lámá sabatani ? ” Nâ é fap se , “ Obhasi omé ! Obhasi omé ! O jiŋî ə̂m jen ? ” .
+41001024	jen		“ Wóó ! Jisos , mmon i Nasaret , ó woma ó yîm jen na êt ? O bháe áno ó bhá yúí êt a ? Ń diŋi ekpak í nne nnyo we o ri . We a ri Obhô-orûm Obhasi . ”
+41001027	jen		Biji í kpô ane chénchén . Á róghe echoróm na atem sê , “ Ńga nâ jen ? Nâ ejûm efê nji é kpo bhá a ? Nne a nyán ojê , ó yúk yê a ? ”
+41002007a	~		
+41002007b	~		
+41002008	Jen é yími kən		Jisos ta a mə́ŋe nji ábho á kéra , a bhə̂p mân ábho se , “ Jen é yími kən o kérá ên ka ekpak njí ?
+41002009	Bhaghé ejûm		Bhaghé ejûm nji é yúŋi é chîŋ , nji ń səre mbə́né nnyó bəre ‘ Ń di wâ nsôn , ń su obhí obhâ , ’ kən nji ń səre yê bəre , ‘ Duî ngyím , kə́n ekpa ejâ , jen na akát choŋ ? ’
+41002016	Jen		Atóŋá-ebhín mba á rî ka echəme Farasi , á yên noŋ Jisos á dik édî na abhə́bhá-ntí-echî na ane mba ane á kébha sê ane abhí . Á chîŋ á jî bhə̂p atóbhá abhê sê , “ Jen kən ńsé owəné a kí di édî na ntʉ́ghi ane mbá ? ”
+41002018	jen		Atóbhá Jon nnyo mfúgha-ane-ayép , na mba ane Farasi á kâk njaé sê á jíghí Obhasi . Ofú bhə́t á rî á kak njaé nnyí , etʉ̂ ane á bhâ bhə̂p Jisos sê , “ Atóbhá Jon na ane echəme Farasi á kí ka njaé , jen kən abhâ á bhó ka ? ”
+41002019	~		Jisos se , “ Ka ifə́né íkíkéré , nâ-ngá é rî nono nji ane á bha erom ebháé , á jak á kʉra kpe mkpât édî á ká kak ka nnyo a ? Ée , áno asík ! Ka nji nkógha-nkáé a ri áfo na ábho , á bhó ka njaé .
+41002024	jen		Ane echəme Farasi á sə́re mân Jisos sê , “ Ńgyê , jen kən ábho á kí yim ejûm nji kə́n á ká yim égyé , ka ofú oyoá-biji ? ”
+41003004	jen		A bhə̂p mân ane mbá se , “ Ebhín ejə́ré é tóe se é yîm jen ka ofú oyoá-biji ? É yîm ono kən obhí , é nyáŋé ekpin í nne kən é bhíbhí obhíbhí ? ” Ane mbá á ká tame yê kpe nchot .
+41003023	~		Nji Jisos a yúghi achot mmá , a bhîŋ ábho a chôt ka ngan . A bhə̂p ábho se , “ Ta ó kam ên sê Satan kə́n a bê Satan a ?
+41003033a	Nnyón		Kən yê a bhə̂p se , “ Nnyón nâ ó bhiŋá ên sê nnyen omé , 
+41003033b	~		abhon-í-nnyen abhámé nâ mbán . ”
+41004013	nan		Jisos a bhə̂p mân ábho se , “ Ájoé ó ka məŋé ên echî egan njí , o kí yim ên mân nan ó mə́ŋe echî egan kpe jə́t ? ”
+41004030a	jen		Jisos a bhə̂p ábho se , “ Kə́n êt e gáe otúi Obhasi na jen ? 
+41004030b	bhaghé		E kí ko bhaghé egan é tóŋé ekpak nji otúi Obhasi ó rî ?
+41004038	~		Kən Jisos a ri enuŋ ka ebhat í ndə́p okpi , a kúni echî ka étí-echî , a kí yae . Ane abhê á sʉ̂k yê , á bhə̂p sê , “ Ńsé , kpe aya á bhó kim wâ se e kə́ bha otán ka aya á ? ”
+41004040a	jen		A bhə̂p mân ábho se , “ Jen nji o kí fup ên ka ekpak njí ? 
+41004040b	fan		Ḿbə́ŋé nnyi o kíi ên na Obhasi a ri fan ? ”
+41004041	énê		Efup é yîm ábho kpe-eji . Á kí gəm sê “ Énê nná nnyo kpe mfêp na aya í kí yuk yê ? ”
+41005007	jen		A kûk káŋ káŋ káŋ se , “ Wóó Jisos , Mmon Obhasi ósô ! Ó woma jen na mme ? Ka mbiŋ Obhasi , ń gore wâ , ka kpə́re ə̂m . ”
+41005009	jen		Jisos a bhə̂p mân yê se , “ Mbiŋ eya á kamá jen ? ” Nne-ndûm nnyó se , “ Mbiŋ amé a ri Nchəme-ojê , ka é ti otí . ”
+41005030	énê		Ka ngyím ányi , Jisos a ríŋi se ikom í fap yê ka biji , a fáre amə̂t a kêp , a bhə̂p se , “ Énê a kəmê nkʉ̂ amé ? ”
+41005031	nan		Kən atóbhá abhê sê , “ Ó yen ekam ane mba á fáre wâ á kâk ka étíŋanti . Nan kən o kí bhəp nne nnyo a kəmê nkʉ̂ eya ? ”
+41005035	~		Nji Jisos a nyə́ne áno a chorá mbâ nne-nkáé ányo , ágbán etat á bhak nnyi mbâ njû Jayirus , á sə́re Jayirus se , “ Mmon owa a kpô . Ka kpó yui biji o kará ńsé oseŋe . ”
+41005039a	jen		A gyê ka njû ányi a bhə̂p ábho se , “ Jen ên kpá títí , 
+41005039b	jen		echî onyʉk mbí a ri jen ? Ó kughá ên o rʉ́rá ên jen ? Mmon nnyó á ka kpó okpó , á yaá a ri eyô . ”
+41006002a	fan		Ka ofú oyoá-biji , a róghe ekpíím ane achot ka óchâm Obhasi . Ane etî-etî á rî áfo á yugha yê . É kpô ábho biji kpe-eji , á gyê atem ebhə́bhə́m sê , “ A kóe iyîm mbí chénchén fan ? 
+41006002b	fan		Oməŋa-ejûm obhê mbí , ó dʉ̂ fan ? 
+41006002c	nan		É dʉ̂ nan kpá títí ta a kí yim etûm okpógha-biji ntʉ́ghi njí ?
+41006022	~		Kən mmon Erodiyas nnyo nne-nkáé a fâp a bhə̂n ebhə̂n ka erom njí . É gyébhe Erot na ane mba á bháe erom kpe-eji . Ka ogyebhá-ḿbə́ŋé mbí , a chími a sə́re mmon nnyó se , “ Sə́re ə̂m nji-nji o wóme , n kí karé wâ .
+41006024	jen		Kən mmon nnyó a bhéne a jak mbâ nnyen , a jî bhə̂p yê se , “ Mmá , ḿ bə́p ntûfâm a karé ə̂m jen ? ” Nnyen se , “ Bhə̂p yê a karé wâ echî Jon nnyo mfúgha-ane-ayép . ”
+41006037	~		Kən Jisos se , “ Karê ên ábho iyîm á dí . ” Á fê fə́ne Jisos sê , “ Áfo nâ e kí ko ntâk i ntí ébháe kən e nâm édî é bhîk ekam ane njí ndə́m . ”
+41006038	é bhík		Jisos a bhə̂p mân ábho se , “ Choŋ okép ên kpá , o fôn ên nsûm i brêt é bhík ? ” Á bhâ sə́re yê sê nsûm a ri érôn na nsí ébháe .
+41007005	Jen		Ane echəme Farasi na atóŋá-ebhín á bhə̂p mân Jisos sê , “ Jen nji ane mba á tóbha wâ á bhó top ntóŋé ane-atəm ? Echî nji á dîk édî na abhô akôp , á bhó yim noŋ ebhín é fíi a ri jen ? ”
+41008004	fan		Atóbhá abhê á bhə̂p mân yê sê , “ Kən nne a foná édî fan ka etə́m njí , nji é kí bhik ane mbá chénchén ? ”
+41008005	ébhík		Jisos a bhə̂p ábho se , “ Ó fon ên nsûm i brêt ébhík ? ” Á táme yê sê á fon enígisá .
+41008012	Jen é yími kən		Kən Jisos a sóme chóót , a bhə̂p ábho se , “ Jen é yími kən abhon ebhú njí á kí wom sê ta á tóŋé eriŋ Obhasi kən á kâm nchot ? Deê ń sə́ré ên bəre nne nnyo a kí toŋe ên eriŋ kpe jə́t cháŋ . ” .
+41008017	nan		Kən Jisos a mə́ŋe nji á chóra , a bhə̂p ábho se , “ Nchot édî a dʉ nan mfá ? Nâ-ngá o nyə́ne ó ka jáé ên a ? Ó nəma ên jen kpá títí ?
+41008018a	~		Ó fon ên amə̂t echî okum mma mbá ó bhó yen ên tîk ? 
+41008018b	~		Ó kak ên atûŋ ebhák mma ó bhó yuk ên mbá a ? Ó gyini ên tîk .
+41008019	í bhík		ofú mbi n kóe nsûm i brêt érôn n kíri n káre ane ntem-esam ntə̂m-ntə̂m ófó na ébháe na ejûm ( 5,000 ) a ? Nji o bhúbhi ên akpât mma á kə́re o kâk ên ka bikáé , í súi í bhík ? ” Á táme sê , “ Í súi ófó na íbháe . ”
+41008020	í bhík		A kpô bhə́p ábho se , “ Ebhú nji n kóe nsûm i brêt enígisá n gyê ane ntem-esam ntə̂m-ntə̂m ófó ( 4,000 ) , o bhûp ên akpât mma á kə́re á súi bikáé í bhík ? ” Á táme sê , “ Inígisá . ”
+41008021	nyə́ne		Jisos a bhə̂p mân ábho se , “ O nyə́ne ó ka jáé ên mân a ? ”
+41008023	~		Jisos a fî ntána-amə̂t nnyó ka obhô , á jak ka echî-mbá eték . Nji á jíi , Jisos a fə̂m nne-ndûm nnyó oson ka amə̂t , a râŋ yê na obhô . A bhə̂p mân yê se , “ O ri ágo o yéná kpe ejûm a ? ”
+41008027	énê		Jisos na atóbhá abhê á jak mân ka nték i Sesariya Firipi . Nji á síi ka mbá , a bhə̂p ábho se , “ Ane á kí səre sê mme nâ énê ? ”
+41008029a	~		Kən a bhə̂p mân ábho se , “ Ên áfoné , 
+41008029b	énê		ó məŋe sê mme a ri énê ? ” . Pita a táme se , “ We a ri Krayis , nne nnyo Obhasi a túmi se a bhá yim ngun á sém . ”
+41008036	jen		Orʉrí obhâ a ri jen nji ó fon ngun ndə́m kən ó ka fon ekpin ejâ ?
+41008037	jen		Ka etʉri , ó kam ên sê kə́n nne a kô jen a yóŋe na ekpin ejê ka ngun nnyí ? Nâ məŋê ên mân sê ,
+41009010	jen		Á ká səre fə́ne ane ejûm nji ábho á yéne , a ri á kə̂t á bhəbha atem sê , “ Enyəmə́m ka ekʉ̂ nâ jen kpá títí ? ”
+41009011	Jen é yími kən		Á bhə̂p mân Jisos sê , “ Jen é yími kən atóŋá-ebhín á kí chot sê Erayija tîk a râŋ mbá a bhák ? ” .
+41009012	nan		A táme se , “ Ka etʉri , Erayija a fonê ka ebháám ndaŋa-mbá a bhá tʉrí chénchén achot a kí . Kən á yími nan á sêŋ ka nwet Obhasi sê Mmon-i-ntem-nne tîk a yên oseŋe etî-etî , ane ngun á jîŋ yê .
+41009016	jen		Jisos a bhə̂p atóbhá abhê se , “ Ó fira ên jen na ábho ? ”
+41009019a	nan		Jisos a róghe mân atóbhá abhê efámám , a bhə̂p ábho se , “ Abhon ebhú njí , echî ó bhó ki ên ḿbə́ŋé na Obhasi a ri jen ? Ó woma ên sê ta ń ká nan na ên ? 
+41009019b	é bhík		Ń kúmi na ên ka nyâ é bhík ? Kô ên mmon ányo bhák . ”
+41009021	nan		Jisos a bhə̂p ńsé mmon nnyó se , “ Emaŋé njí é ka nan ? ” A táme se , “ É róghe yê ta ka obhonche .
+41009028	Jen é yími kən		Nji Jisos na ágbán abhê á jî gyê ka njû á kúmi ábho-ábhô , á bhə̂p yê sê , “ Jen é yími kən é ka məŋé oyighí ojê mmon ányo ? ”
+41009033	jen		Jisos na atóbhá abhê á jen kpáát á si eték í Kapanom . Nji á gyée njû á kúmi , a bhə̂p ábho se , “ Éyughí ka mbá ó fira ên kpá jen ? ”
+41009050	~		Akâŋ á gyebhá , kən ájoé ogyep akâŋ ó man , akâŋ mmá á ro kpó gyebhé . Fon ên amə́né akâŋ ka biji , o jóe ên ka ekone na atem . ” .
+41010003	bhaghé		Jisos se , “ Mosis a karê ên bhaghé ebhín ka nchot ebháé nnyí ? ”
+41010017	jen		Nji Jisos a kə́ bha oyəp ndə́p a ji ejen , nne-ndûm yót a bhéne a bhák mbâ eye . A tə̂m arúŋ ka nsi áfo ka ochî obhê . A bhə̂p yê se , “ Nyima-ono ńsé , n kí yim jen kən ḿ fôn ekpin ótúm-ótúm ? ”
+41010018	nan		Jisos a bhə̂p yê se , “ É yími nan o kí bhiŋ ə̂m se nyima-ono ? Kpe nyima-ono yót cháŋ ka nsi nnyí , é ká chiŋi Obhasi átíŋ .
+41010026	énê		Nji atóbhá abhê á yúghi , á yíri biji , á kpíghi á bhə̂p atem sê , “ Kən énê mân tîk a sêm ? ”
+41010036	jen		A bhə̂p ábho se , “ Ó woma ń yîm jen ń káre ên ? ”
+41010051	jen		Jisos a bhə̂p yê se , “ Ó woma ń yîm jen ń káre wâ ? ” A táme se , “ Ńsé , n kí wom ḿ kpó yen mbá . ”
+41011003	Jen é yími kən		Ebhú nne á bhəp ên se jen é yími kən o kí kpat ên , sə́ré ên yê sê ntûfâm a kí wom a bhéné ka ńnyə́ne kən tîk a chə́bhe njəm a fê mfá-mfá . ”
+41011005	jen		ane etat mba á gyím áfo á bhə̂p ábho sê , “ Ágo nâ jen ? O kí kpat ên mfoŋ ane ó jî ên fan ? ”
+41011028a	bhaghé		Á bhə̂p yê sê , “ O fonê bhaghé ikom kən o kí yim iyîm mbí ? 
+41011028b	énê		Énê a karê wâ ḿfə́ne ? ”
+41011030	~		Sə́re ên ə̂m ikom mfi Jon a fonê a fúghá ane ayép , í dʉ̂ mbâ Obhasi kən mbâ atem-ane ? ”
+41011031a	~		Ane mbá á róghe efírím ábho-ábhô sê , 
+41011031b	nan		“ E kí fe yê ebhə̂p njí nan eé ? Ájoé é tame sê Obhasi nâ a karê Jon ikom , a ri a bhə́p echî nji e rô kam na Jon .
+41012009	jen		Jisos a bhə̂p mân se , “ Ó kere ên sê mfone ebhin nnyó kə́n a yîm jen na ane mbá ? To a kí yui ábho a tábhe ebhin ejê a káre ane etat ?
+41012015	énê		É káre kən e kâ káre ! Kən Jisos a yên oka nchot ábho a táme ábho ka ebhə̂p se , “ Ó gaá ên kpá énê ? Kô ên ntí bhák ên , mme ń yén . ”
+41012016a	énê		Á bhak yê na ntí a kô , a kêp . A bhə̂p mân ábho se , “ Efóŋé énê na mbiŋ 
+41012016b	énê		énê nâ a ri áno ka ntí mmí ? ” Á táme sê , “ Ntûfâm i Rom . ”
+41012023	énê		Ka ofú mbi ane chénchén á kí nyəmé ka ekʉ̂ , nne-nkáé nnyó a kí joé nnyo énê , ka ábho anígisá á kô yê ebhú á rî mbít . ”
+41012028	Bhaghé		Ntóŋa-ebhín yót a ri áfo nnyo a yúghi noŋ ane á chóra na Jisos . A yên se a táme ane echəme Sadusi mbá nono , a bhâ bhə̂p yê se , “ Bhaghé ebhín Obhasi nâ é fáŋe é chíŋi atem ? ” .
+41012035	Jen é yími kən		Nji Jisos a kí kpi ane achot ka ókʉ́rí achot Obhasi , a bhə̂p ebhə̂p se , “ Jen é yími kən atóŋá-ebhín á kí səre sê Krayis , nne nnyo Obhasi a túmi se a bhá yim ngun á sém , a ri eyábhé-mmon í Debhit ?
+41012037	nan		Debhit yê ḿfoné a kí bhiŋ Krayis se , ‘ Ntûfâm . ’ Krayis a kí kpo yim nan a jóe mmon i Debhit ? ” Ekam ane é chəme , é yugha okpígha-ejûm mbi Jisos na ogyebhá-ḿbə́ŋé .
+41013004a	bhaghé ebhú		“ Sə́re êt , achot mmá á kí fap bhaghé ebhú ? 
+41013004b	Bhaghé		Bhaghé biriŋ nâ e kí yen kən é mə́ŋe sê ebhú é si . ”
+41014004	Jen é yími kən		Nji a yimî áno erû njí , etʉ̂ ane mba á rî áfo ka ekumi á yâm ḿbə́ŋé kpe-eji . Á róghe echoróm ábho-ábhô sê , “ Jen é yími kən nne-nkáé nnyó a bhíbhi akʉ́ mmá áno ?
+41014006	jen		Kən Jisos a sə́re ábho se , “ Ó kará ên yê ńtə́mé jen ? Maghê ên yê ! A yîm ekpatə́m ejûm a káre ə̂m .
+41014012	fan		Ndaŋa-mbá ofú mbi Erom Édî Ábhiî-Ábhíi Eyámám ó si . Ofú mbí fə́ne nâ á yúa obhúi Erom í Ntə̂m Osʉ́ŋ á yʉ́ri agyʉ́ŋ ka nsi . Ágbán í Jisos á bhə̂p yê sê , “ O wóme é jí dí ejə́ré Erom í Ntə̂m Osʉ́ŋ fan ? ”
+41014014	~		Gyê ên njû-njû nnyi á gye . Ebhú ó gye ên , sə́re ên mfone njû se , ‘ Ńsé owəré se deê ó tóŋé mmon-i-njû owe nnyo yê a kí di Erom í Ntə̂m Osʉ́ŋ na ágbán abhê . ’
+41014060a	~		Ntûfâm akará-agore Obhasi a rúi mân ngyím , a bhə̂p Jisos se , “ Nji ane mbá á sə́re nná sê ó yim , 
+41014060b	~		ó ka fon kpe ejûm echoróm a ? ”
+41014063	jen		Nji Jisos a táme áno , ntûfâm nnyó a fî éfô ejê yê ḿfoné , a wáre ka oyámá-ḿbə́ŋé . A kpíghi mân mbâ atem a bhə̂p se , “ Echî nji e kí not atî-isê mba tat a ri jen ?
+41014064	jen		Ó yuk ên akpatə́m achot abhí mma a chorê mfá a kpê na Obhasi . Ó kere ên mân sê jen ? ” Ane mba á rî áfo á táme sê , “ Esup é bhip yê , é yúí yê . ” .
+41015004	~		Piratus a kpô bhə́p yê se , “ Nâ-ngá o yúghá achot mma á sə́ra sê ó yim a ? Ejûm nji o kí tame cháŋ a ? ”
+41015012	nan		Piratus a bhə̂p mân ekam ane njí se , “ Ó kí wom ên n yîm mân nan na nnyo ó bhiŋá ên sê ntûfâm ane Jus ? ”
+41015014a	~		Kən a bhə̂p ábho se , 
+41015014b	bhaghé		“ Nne nnyó a yimî bhaghé obhí ? ” Kən ekam ane njí á róghe ekughúm na ikom-ikom sê , “ Kúm yê ka ego . ”
+41015034	jen		Nji ńkánínká ésá a síi , á kpó to á yúk Jisos a kûk káŋ káŋ káŋ se , “ Eroi , Eroi , lámá sabatani . ” Nâ se , “ Obhasi omé , Obhasi omé , o jiŋî ə̂m jen ? ” .
+41016003	énê		Nji á jâk ka mbá , á kí bhəp biji ábho sê , “ É jak nná , énê nnyo tîk a yíghi êt ndûm i ntáé nnyi á bhúi ka nnyo oyəm ? ”
+42001018	nan		Kən Sakariya a bhə̂p énjel nnyó se , “ N kí yim nan ḿ mə́ŋe bəre nchot eya nnyí a ri ka echî ? Ó məŋe se mme na nkáé omé é kui é chiŋ nji e kí kpo ji abhon . ”
+42001034	nan		Meri a bhə̂p yê se , “ Tîk nchot nnyí a yîm nan a jóe ka ekpak njí , mme nne-ndûm ń ka məŋé kpá ? ”
+42001043	nan		É yími nan kən ejûm eyúp njí é kí fap na mme ? Jen kən nnyen i Ńtâ Obhasi omé a kə́ bha ejen mbâ amé ?
+42001066	bhaghé ekpak		Kpe énê nnyo a yúghi nchot nnyí , á kâm sê ikom Obhasi í rî na mmon ányo . Á bhəbha mân se , “ Mmon nnyó á bhak ojoé bhaghé ekpak í nne ka nsi ? ”
+42002048	jen		Nji ane abhê á yéne yê , á kêt . Nnyen a bhə̂p yê se , “ Mmon omé , echî nji o kaghê êt ekpatə́m efup nji a ri jen ? É gat wâ enóróm . ”
+42002049	jen		Kən Jisos a táme se , “ Ó nora ên kpá ə̂m jen ? Ó ka riŋí ên sê m fonê ka eyimím etûm í Ńsé omé a ? ”
+42003007	énê		Nji Jon á kará áno otîp mbí a jak , ekam ane á fâp á bhak mbâ eye sê á bhá fúk ayép . Kən Jon a chôt mbâ ábho se , “ O ri ên ńgô , ekpin noŋ efomnté ! Énê a sə́re ên se kə́n o bê ên oyámá-ḿbə́ŋé Obhasi mbi ó kə́ bha .
+42003010	nan		Nji Jon á chorá áno , ane á bhə̂p yê sê , “ Kən tîk e yîm mân nan ? ”
+42003012	nan		Etʉ̂ abhə́bhá-ntí-echî mba á bháe ayép ofúk , á bhə̂p Jon sê , “ Ńsé , êt e kí yim nan ? ” .
+42003014a	~		Etʉ̂ ane-enok á bhə̂p Jon sê , “ Êt mân , 
+42003014b	nan		tîk e yîm nan ? ” Jon a sə́re ábho se , “ Ka ko ên ntí mbâ ane ka ikom , ka nyére ên nne nchot ka echî nnyi á ka yim . Deê mô ntí nnyo á kára ên ka emané nnyam-ósô a bhik ên . ”
+42004034	jen		“ Jisos , mmon i Nasaret , ó woma jen na êt eé ! O bháe ó bhá yúí êt tîk . Ḿ məŋe nne nnyo we o ri . We a ri Obhô-orûm Obhasi . ”
+42004036	Bhaghé		É kpô ane biji kpe-eji , á kə̂t á bhəbha atem sê , “ Bhaghé okpígha-ejûm nná ? Nne nnyó a kô ikom í ńgyímí eye a kí nyan ojê ó fabha ane ka ḿbə́ŋé . ”
+42005021a	Bhaghé énê		Atóŋá-ebhín na ane echəme Farasi mba á rî nná áfo á róghe echoróm ka óbhə́ŋé ábho sê , “ Bhaghé énê nná kpá títí nnyo á chorá noŋ yê a ri Obhasi ? Obhasi átíŋ nâ kə́n a rî nsôn , a sû obhí nne . ”
+42005021b	~		
+42005022	Jen		Kən Jisos a mə́ŋe íkíkéré ábho , á bhə̂p ábho se , “ Jen nji o kí fon ên ekpak íkíkéré mfí ?
+42005023	Jen		Jen nji é rî wát , esə́rə́m nne nnyó se , ń di nsôn ń su obhí obhê , kən nji ń sə́ré yê bəre a ruí ngyím , a ji a kʉ́rí ?
+42005030	Jen é yími kən		Etʉ̂ ane echəme Farasi na atóŋá-ebhín ábho á róghe egəmə́m , á bhə̂p atóbhá Jisos sê , “ Jen é yími kən o kí di o wók ên na abhə́bhá-ntí-echî mbá na ane abhí ? ” .
+42005033	jen		Etʉ̂ ane á sə́re Jisos sê , “ Mfín a ri nnyi atóbhá Jon nnyo mfúgha-ane-ayép á kâk njaé noŋ ejík mbâ Obhasi , á gorá yê . Mba ane echəme Farasi fə́ne á yimá ekpak njí jə́t , kən abhâ á kət á dik á wok . Echî a ri jen ? ”
+42005034	~		Kən Jisos a táme ábho ka egan se , “ Kə́n o kâm ên sê ajéné mba á bháe erom ebháé á kâ njaé nji nkógha-nkáé ányo a ri na ábho a ? Cháŋ .
+42006002	Jen		Etʉ̂ ane echəme Farasi á bhə̂p ábho sê , “ Jen kən o kí yim ên ejûm nji ebhín Obhasi é gbʉ́i sê nne a kâ yîm ka ofú oyoá-biji noŋ égyé ? ”
+42006009	nan		Jisos a chôt mân na ane mbá se , “ Deê mme ḿ bə́p ên kpá , ebhín ejə́ré é sə́re sê é yîm nan ka ofú oyoá-biji ? É yîm ono kən obhí , é nyáŋé ekpin í nne kən é bhíbhí obhíbhí ? ”
+42006032	jen		“ Ájoé ó kot a ri nne nnyo a korê wâ , echî nji Obhasi a kí kpo karé wâ ekəp etat a ri jen ? Kpe ayimá-obhí á kot ane mba á kóra ábho .
+42006033	jen		Ó to fə́ne se ó tóŋé onobhá-eji a ri mbâ ane mba á tóŋa wâ onobhá-eji , echî nji Obhasi a kí karé wâ ekəp a ri jen ? Kpe ayimá-obhí á kí toŋe onobhá-eji a ri mbâ ane mba á tóŋa ábho onobhá-eji .
+42006034	jen		Ájoé se o kí bho ejûm a ri mbâ ane mba kə́n á fôn á fê wâ , echî nji Obhasi a kí kpo karé wâ ekəp a ri jen ? Kpe ayimá-obhí á kí bho atem-ayimá-obhí sê á chə́bhe njəm á kó ekan-ékân noŋ á bhóe ábho .
+42006039	~		Nji Jisos a chorê achot mmá chénchén , a tûp mân egan se , “ Ntána-amə̂t á bhó tʉ ntem-ntána-amə̂t mbá . Á tʉ , ábho ábháe chénchén á kí gbo ka ébhírí .
+42006041	Nan		“ Nan kən o kí kep ńtép nnyi a ri ka eyə̂t í ntem , ó bhó məŋé se nnyi a ri ka ejâ a ri nkoghe ?
+42006042	nan		O kí yim nan ó sə́re ntem se á tóŋé eyə̂t ó yíghi yê ńtép nji nkoghe a ri ka ejâ eyə̂t ? Ane áfúbhí ! Yighî ên kpá nkoghe nnyi a ri ên ka amə̂t kən ó yén ên mbá nono ó yíghi ńtép nnyi a ri ka amə̂t atem . ”
+42006046	jen		Jisos se , “ Ó bhiŋá ên ə̂m jen sê , ntûfâm , ntûfâm , nji ó bhó yim ên ejûm nji ń səre ên bəre ó yîm ?
+42007024	jen		Nji ágbán í Jon á jíi , Jisos a bhə̂p ekam ane nji é rî áfo na yê achot í Jon se , “ Ebhú nji o maghê ên o jî kpúghi Jon ka etə́m , o kére ên sê tîk o yên ên jen ? O kére ên sê o kí ji ó jí yén ên nne noŋ kpe ńjé egomé nnyi a kí neŋ a jak ngá a jak ńgô ka ekpak nji mfêp a kí nok a ? Ée !
+42007025	jen		O jiî oyén ên kpá jen ? Nne nnyo a gúŋi nnyen oguŋi obhê a ? Ée ! Ane mba á kágha énoê oguŋi mbí á kúma ka ókʉ́rí atúi-ofâm , a dík ekpin eyúp .
+42007026	jen		O jiî oyén ên kpá jen ? Nkara-otîp Obhasi a ? Nâ nji o jiî ên . Deê ń sə́ré ên mân bəre nnyo o jî yên ên a fâŋ a chíŋi nkara-otîp Obhasi .
+42007031a	jen		Jisos se , “ N kí gaé abhon ebhú njí na jen ? 
+42007031b	nan		Ábho á rî nan ?
+42007042	nnyón		Kpe nne ábho nnyo a fonê ntí mmí a fé cháŋ , nne nnyó a kpére a tô se á kə́t na ntí ámi . ” Jisos a bhə̂p mân Simun se , “ Ka ane mbá ábháe , ó kere se nnyón kə́n a kôt nne nnyo a bhoê ábho ntí a chíŋi ochíŋ ? ”
+42007049	énê		Kən ane mba ngá mba á rî áfo ka eji édî njí á róghe echoróm ábho-ábhô sê , “ Énê nná kpá títí nnyo a kí səre se yê a rî nsôn , a sû obhí nne ? ”
+42008025a	fan		A bhə̂p mân ábho se , “ Ḿbə́ŋé nnyi o kíi ên na Obhasi a ri fan ? ” Kən á fôn efup , biji í mân ábho kpe-eji . Á kí bhəp atem sê , 
+42008025b	énê		“ Énê nná nnyo kpe a nyáne mfêp na kpe ébhúghí-aya , í yûk yê ? ”
+42008028	jen		Nji a yéne Jisos , a gbô yê ka akát , a kûk káŋ káŋ káŋ se , “ Wóó Jisos , Mmon Obhasi ósô , ó woma jen na mme ? Ń gore wâ , ka kpə́re ə̂m . ”
+42008030	jen		Jisos a bhə̂p yê mân se , “ Ó kamá se jen ? ” A táme se , “ Ń kamá bəre Nchəme-ojê . ” A kamê áno , ka ojê ó ti yê ka ḿbə́ŋé .
+42008045	énê		Jisos a bhə̂p se , “ Énê a kəmê ə̂m ? ” Kpe nne nnyo a kamê cháŋ . Kən Pita nnyo ḿgbán owe a táme se , “ Ńsé , o kí yim nan ó bhə́p ntʉ́ghi ebhə̂p njí ka ekam ane nji é bhúi wâ nná ? ”
+42009009a	fan		Kən Erot a bhə̂p biji se , “ Mme ḿfoné nâ n karê ikom á gbût echî Jon , nnyo ḿ kpok nná oyúk a dʉ fan ? ” A kə̂t mân a wómá ekpak nji yê a kí yen Jisos .
+42009009b	~		
+42009018	bhaghé ekpak		Ebhú jə́t nji Jisos a ri yê átíŋ a kí goré Obhasi , ágbán abhê á bhak mbâ eye . A bhə̂p ábho se , “ Ane á sə́ra sê mme a ri bhaghé ekpak í nne ? ”
+42009020a	~		Kən Jisos a bhə̂p mân ábho se , “ Ên áfoné , 
+42009020b	énê		ó məŋe ên sê mme a ri énê ? ” Pita a táme yê se , “ We a ri Krayis , nne nnyo Obhasi a túmi se a bhá yim ngun á sém . ” .
+42009025	jen		Orʉrí obhâ a ri jen nji ó fon ngun ndə́m , kən ó ka fon ekpin ejâ , o táne ńjə́ne ? Ekəp cháŋ .
+42009041a	nan		Jisos a fáme ane chénchén mba á rî áfo se , “ Abhon ebhú nji , obhí jen na ên ? Echî ó bhó ki ên ḿbə́ŋé na Obhasi a ri jen ? Ó woma ên sê ta ń ká nan na ên ? 
+42009041b	é bhík		Ń kúmi na ên ka nyâ é bhík ? Bhák ngá na mmon owa . ”
+42010025	jen		Ka ebhú etat , ntóŋa-ebhín yót a bhák Jisos ogaé . A rúi ngyím a bhə̂p yê se , “ Ńsé , n kí yim jen kən m fôn ekpin ótúm-ótúm ? ” .
+42010026a	jen		Jisos se , “ Á séŋe ka nwet Obhasi sê jen ? 
+42010026b	jen		Ó bhiŋá ó səra echî se jen ? ”
+42010029	énê		Kən ntóŋa-ebhín nnyó a wóm a tóŋé se yê a mə́ŋe , a bhə̂p Jisos se , “ Énê mân a ri ntem-nne ? ”
+42010036a	~		Jisos a bhə̂p mân ntóŋa-ebhín nnyó se , “ Ka ifâ íkíkéré , 
+42010036b	énê		énê ka ane mbá ásá nâ a kóe nne nnyo anyághá-ajʉ̂ á tə́me nná noŋ ntem-nne ? ”
+42011008	~		Deê ń sə́ré ên mân bəre ntem nnyó á ro ruí ngyím noŋ ntem a karé wâ ejûm nji ó bhəbha , a ri a ruí ngyím nji ó kət o súmá , a karé wâ nji-nji o wóme .
+42011011	Nnyón		“ Nnyón ńsé ka ekam ejə́né nnyo mmon owe a kí bhəp yê nsí , a kô a ri nnyô a káre yê ?
+42011012	Nnyón		Nnyón ńsé nnyo mmon owe a kí bhəp yê eji-nkok , a kô a ri ényaŋkíŋ a káre yê ?
+42011013	~		Ájoé ên , ka ane abhí , ó riŋi ên ekpak o kí karé ên iyîm ino mbâ abhon abhə́né , ó kere ên mân sê Ńsé owəné nnyo a ri ka ósô á bhó karé Ebhare Ntʉgantʉ owe mbâ ane mba á bhə́bhe yê a ? ”
+42011018	~		É fap fə́ne sê ájoé otúi Satan ó kirí ka ngûm ka ngûm , ó noghá na atem , ó kí gbo . Ń chorá nchot nnyí , ka o kí səre ên sê Besebup nâ a karê ə̂m ikom kən n kí yighí ane ojê ka ḿbə́ŋé .
+42011019	énê		Ájoé ń yighá na ikom í Besebup , ane mba á tóbhe ên mân á kí yighí ojê na ikom énê ? Yên ên mân ane mba á tóbha ên á tóŋe jáé sê ḿ bó yighí na ikom í Besebup .
+42012014	fan		Jisos a táme yê se , “ Ntem , mme m fonê ikom fan ń táŋ achot amə́né , na kpe ń kíri iyîm í ńsé owəné ń káre ên ? ”
+42012017	nan		Nne nnyó a róghe ekérém se , ‘ Ń ka fon ekpatə́m etəm nji n kí ki njok édî njí , n kí yim mân nan ? ’
+42012020	énê		“ Kən Obhasi a sə́re yê se , ‘ Énə́mé nne ! Ka atʉ́ mmá n kí ko ekpin ejâ . Iyîm ibhâ mân aŋ ? Énê a kí fon ? ’ ”
+42012024	~		Kêp ên nnón , édî á bhó kpaŋ kən á fʉ̂ . Á ká fon kpe ojû , kpe ntəm kən á kí édî ábho . A ri Obhasi nâ á gyek ábho . Ên , ka ane , ó faŋ ó chiŋi nnón .
+42012025	énê		Ka oseŋe mbi ó kará ên áno biji , énê owəné nnyo ofú ekʉ̂ obhê ó si , a bhîk ekpeém ofú bhə́t ?
+42012026	jen		Ájoé ó ka bhik eyimím mmon ejûm noŋ nnyó , ó kará mân biji oseŋe jen ?
+42012042	énê		Ńtâ Jisos a táme se , “ Énê mân nâ a ri nnyen i ḿgbán nnyo a fonê aron ? A ri yê nnyo ńsé ábho a kî se a kép atem , a káre atem nnyi ábho nkiri édî nji ebhú é si . Ntʉ́ghi ḿgbán nnyó a kí fon ekpatə́m ogyebhá-ḿbə́ŋé ájoé ńsé á fap kən a chə́bhe njəm a bhâ kpúghi yê a yimá etûm ejê .
+42012049	~		Jisos se , “ M báe áno ḿ bá kâk ngûn ka nsi bəre a rík . Kə́n n kôt kpe-eji bəre ngûn mmí ta ń doghe kən ń nyə́ne ń ká roghe .
+42012056	jen		Ên ane áfúbhí ! Kə́n o kêp ên ósô o kêp ên nsi , o sə́re ên ejûm nji é kí fap . Jen ó ka məŋé ên mân ekpak nji ngun ebhú njí a ri ? ”
+42012057	Jen		Jisos se , “ Jen nji ó bhó kere ên sê ejûm njí nâ é rî nono , deê ń yîm ńjə́ne .
+42013004	jen		Ane Siroyam ekû na ásá mba enyóŋ é gbóe é yúi ábho , o kí chot ên mân sê jen ? Ó kere ên sê nji é fábhe na ábho é toŋe sê ábho á bhip á chiŋi chénchén ane mba á kúma ka eték í Jerusarem a ?
+42013007	~		A bhâ sə́re nyima-ebhin ejê njí se , ‘ Nyâ a sî ésá nnyi ń jen ń wom nkap ka étí njí kən kpe ejûm ń ka yén . Gbût ńjə́ne yighî , é kâ kúmi mfá é bhibha nsi chichi . ’
+42013015	Nnyón		Ńtâ Jisos a táme nne-ndûm nnyó se , “ Ane baram ! Nne owəné kpe nnyón a kí kpat mfoŋ eye , kpe nnyi abhaŋ , kpe anyanyâ ka eji á bhóbha , a jak a jí karé ńnyə́ne ayép a gwó ka ofú oyoá-biji .
+42013018a	nan		Jisos a bhə̂p mân se , “ Sê otúi Obhasi , ḿbə́ne ó rî nan ? 
+42013018b	jen		N kí ko jen ń gáe na ḿbə́ne ?
+42013020	jen		Jisos a kpô bhə́p se , “ N kí ko jen kən ń gáe na otúi Obhasi ?
+42013025	~		Mfone tîk a rúi ngyím a bhâm itə̂m ifê . Ebhú ó gyimi mân ka éré o súmá , sê , ‘ Ńsé , rəbhê êt njû , ’ a kí tame ên se , ‘ Ń ka məŋé mbá nnyi ên o dʉ . ’
+42014005	~		A bhə̂p mân ábho se , “ É kó sê nne owəné kpe yót a fôn kpe mmon , kpe mfoŋ , kən mmon nnyó a gbô ka ébhírí ayép ka ofú oyoá-biji . Nâ-ngá ó bhó yighí yê ka ngyím ányi ka a ri ofú oyoá-biji a ? ” .
+42014028	~		“ Kən nne a gbe enyóŋ , a kí kumí kpá a kére mfan i ntí nnyi a kí bhibhi kən é mân , a kâ bhâ oróghé , ntí ḿ mân , enyóŋ é ká man .
+42014031	~		“ É kó sê ntûfâm yót a fôn ane-enok ntem-esam esam na ejûm ( 10,000 ) . A yə̂p se yê a kí ji enok na ntem-ntûfâm nnyo á bhak na ane-enok mba á chíŋi abhê ntə̂m kpe ébháe . Nnyo ane abhê á ká ti nná , a ri a kumí kpá a kére ájoé yê a sôn a bhîk nji a kí ji enok njí .
+42014034	~		Jisos se , “ Akâŋ á gyebhá , kən ájoé ogyep akâŋ ó man , ekpak nji á kí yim ḿmáne á kpó gyebhé cháŋ .
+42015004	nan		“ É kó sê nne owəné yót a fôn nsam obhúi érôn . Mbúi yə́t a bhâ tân . Kə́n o yîm nan ? O ri ó mághe mbi ngá ka eji édî o jak o jî wôm nnyi a táne áno ta o tî .
+42015008	jen		Jisos se , “ É kó fə́ne sê nne-nkáé yót a fôn ntí imê , abhon iyîm ófó , kən kpe jə́t é tân . Ó kere ên sê nne-nkáé nnyó a kí yim jen ? Ka etʉri , nne-nkáé nnyó a kí nyoé ngûn a kô ofâk , a fâk njû nnyí nono , a nâ biji a wôm ntí imê ta a tî .
+42015026	jen		A bhîŋ ḿgbán yót a bhə̂p se , ‘ Ágo jen égyé ? ’
+42015029	jen		“ Mmon nnyó a sə́re yê se , ‘ Ńgyê , ń kumi mfá na we ka nyâ na nyâ , n yimá etûm noŋ nsʉ́ŋ , kpe o chorê jen , n kâm , ḿ bó firi . Ó kare ə̂m jen , o nôk oyighí kpe mmon i mbúi o káre ə̂m se ḿ fî erom na atem abhámé a ?
+42016002	jen		Kən nne-efaŋ nnyó a bhîŋ ḿgbán owe a bhə̂p se , ‘ Ń yugha nná jen m kpek na ekpak nji ó fik iyîm ibhámé ? Choŋ osêŋ jə́t na jə́t ekpak nji ó chiŋa na iyîm ibhámé ka obhô , bhá karé ə̂m , ka tîk ó ro kpó yim etûm na mme . ’
+42016003	nan		“ Ḿgbán nnyó a kére ka ḿbə́ŋé se , ‘ Nâ á kə́ bha nná oyighí ə̂m ka etûm , tîk n yîm nan eé ? Ifámé ikom ebhin cháŋ , egyéŋé ngá a ri ejûm ísonê kpe-eji .
+42016005	nan		“ Ḿgbán nnyó a bhâ bhîŋ mân ane chénchén mba á fíi ńsé owe arə́m , se á bhá yén yê . A bhə̂p nnyo ndaŋa-mbá se , ‘ O fiî nná ńsé omé nan ? ’
+42016007	nan		“ Ḿgbán nnyó a bhə̂p enyeré nne se , ‘ We o fiî nan ? ’ “ Nne nnyó se , ‘ M fiî nsam i ntâk i nkʉi érôn . ’ “ Ḿgbán nnyó se , ‘ Ńgyê nwet arə́m eya , kó sêŋ se o fiî nsam énî . ’
+42016011	nan		Ájoé mân ó ka məŋé ên ofi efaŋ í ngun nji kpe é ká joé mfoné efaŋ , o kí yim ên nan ó fî mfoné efaŋ ?
+42016012	~		Ájoé mfá-mfá o kí chaghé ache na ejûm nji cháŋ ejâ , kən ebhú mân á karé wâ ejâ we ḿfoné aŋ ?
+42017007	~		Jisos se , “ É kó sê nne owəné yót a fôn ḿgbán nnyo á kpaŋá ekpaŋ , na kpe ebhú tat sê á bhabha obhúi . Ebhú ḿgbán nnyó á bha mbâ ebhin , ó tok yê nná se a yim babhap , a dí édî ejê kəne ?
+42017017	fan		Kən Jisos a bhə̂p se , “ Ane ófó nâ á yími ofunum ábho ó mân , mba ngá árôn-ánî , á rî fan ?
+42017018	jen		Jen kən njéné nnyó yê átíŋ nâ a chəbhé njəm a bhá karé Obhasi ekûp ? ”
+42017020	~		Etû ane echəme Farasi á bhə̂p Jisos ebhú otúi Obhasi ó kə́ bha . A táme se , “ Otúi Obhasi ó bhó bha ka ekpak nji nne a kí yen .
+42017037	fan		Nji atóbhá Jisos á yúghi , á bhə̂p yê sê , “ Ńsé , iyîm mbí í kí fap ka fan ? ” Jisos a táme ábho se , “ Ékpoê nnyam kpe é rî fan , áfo nâ nnón mmi ń dîk ákpoê onyam , ń kí chəmé . ”
+42018018	jen		Nne-echî ane Jus yót a bhə̂p Jisos se , “ Nyima-ono ńsé , n kí yim jen kən ḿ fôn ekpin ka ótúm-ótúm ? ”
+42018019	nan		Jisos a bhə̂p yê se , “ É yími nan o kí bhiŋ ə̂m se nyima-ono ? Kpe nyima-ono yót cháŋ ka nsi nnyí , é ká chiŋi Obhasi átíŋ .
+42018026	énê		Ane mba á yúghi nchot nnyí á bhə̂p sê , “ Kən énê mân tîk a sêm ? ”
+42018036	jen		Ebhú a yúghi ane á kí chiŋ , a bhə̂p se , “ Ńga jen ? ”
+42018041	jen		“ Ó woma ń yîm jen ń káre wâ ? ” Nne nnyó a táme se , “ Ntûfâm , n kí wom ḿ kpó yen mbá . ”
+42019007	~		Chénchén ane mba á yéne ejûm njí á róghe egəmə́m sê , “ Nne nnyó a jî ojéné ka njû nyima-obhí . ”
+42019023	Jen		Jen mân ó ka kak ntí imámé ka njû-ntí nji kə́n n kí fon orʉrí noŋ m báe nná ? ’
+42019031	Jen é yími kən		Ebhú nne á bhəp ên se jen é yími kən o kí kpat ên , sə́re ên yê sê ntûfâm a kí wom ńnyə́ne . ”
+42019033	jen		Ebhú á kí kpat mfoŋ nnyí , afoné á bhə̂p ábho se , “ Ó kpará ên mfoŋ ányi jen ? ”
+42020002a	nan		á bhâ bhə̂p yê sê , “ Sə́re êt kpá , o yimî nan o kí yim iyîm mbí ? 
+42020002b	énê		Énê a karê wâ ikom ? ”
+42020005a	~		Nji a bhə́bhe nná ebhə̂p njí , ane mbá á róghe echoróm ábho-ábhô sê , 
+42020005b	~		“ Ájoé é tame sê Obhasi nâ a karê Jon ikom , a ri a bhə́p echî nji e rô kam na Jon .
+42020013	nan		“ Mfone nnyó a bhâ kére se , n kí yim nan eé ? Tîk n tûm mmon okot omé . Ebhú ane mbá á yen yê , tîk á káre yê ejík .
+42020015	jen		Á bhâ fî mmon nnyó á yúi , á bhûm ka etə́m . ” Jisos a bhə̂p mân ane se , “ Ó kere ên mân sê mfone ebhin nnyó a kí yim jen mbâ ane mbá ? ”
+42020017	jen		Jisos a kêp ábho nyamḿ , a bhə̂p se , “ Echî esə́re njí a ri jen mân ? Á séŋe sê , Isôk mfi agbeghá-ojû á bhúmi sê í ká nop njû egbeém , ḿfə́ne nâ í bhâ chə́bhe mfoné-mfoné isôk mfi í fíi njû .
+42020023	~		Kən Jisos a yên oka nchot ábho , a sə́re ábho se ,
+42020024a	énê		“ Kó ên ntí bhá tóŋé ə̂m . ” Nji á kóe á bhak , a bhə̂p ábho se , “ Efóŋé énê na mbiŋ 
+42020024b	énê		énê nâ í rî áno ka ntí mmí ? ” Á táme sê , “ Ntûfâm i Rom . ”
+42020033	énê		Ka ofú mbi ane chénchén á kí nyəmé ka ekʉ̂ , nne-nkáé nnyó a kí joé nnyo énê , ka ábho anígisá á kô yê ebhú á rî mbít . ”
+42020041	nan		Jisos a bhə̂p mân ábho se , “ É yími nan kən ane á kí səre sê Krayis , nne nnyo Obhasi a túmi se a bhá yim ngun á sém , a ri mmon i Debhit ?
+42020044	nan		Debhit a kí bhiŋ Krayis se Ntûfâm . Krayis a kí kpo yim nan a jóe mmon owe ? ”
+42021007a	bhaghé ebhú		Atóbhá Jisos á bhə̂p yê sê , “ Ńsé , achot mmá á kí fap bhaghé ebhú ? 
+42021007b	Bhaghé		Bhaghé eriŋ nâ é kí yen kən é mə́ŋe sê ebhú é si ? ”
+42022009	fan		Á bhə̂p yê sê , “ O wóme se é dí ejə́ré erom fan ? ”
+42022011	~ 		Ebhú ó gye ên , sə́ré ên mfone njû se ńsé owəré se deê ó tóŋé mmon-i-njû nnyo yê a kí di Erom í Ntə̂m Osʉ́ŋ na ágbán abhê .
+42022027	énê		Énê a faŋê a chíŋi ntem ? Nne nnyo á kí jighí yê édî ojighí sê a dí , kən yê nnyo á jighá áno ojighí ? A ri yê nnyo á jighá yê édî . Kən mme ń ka kumí bəre á jíghi ə̂m édî . Ń ki biji ibhámé noŋ ḿgbán .
+42022046	jen		A sʉ̂k ábho a bhə̂p se , “ Ó yaá ên jen ? Duî ên ngyím , gorê ên Obhasi sê ó fôn ên osoná-ḿbə́ŋé ka oseŋe mbi ó kə́ bha . ”
+42022064	Bhaghé ejûm		Á bhôp yê na éfô ka amə̂t , á bhúri na egba . Á bhə̂p mân yê sê , “ We nne nnyo ó yena kpe bhaghé ejûm , tak nne nnyo a bhúri wâ . ”
+42022071	Bhaghé ejûm		Ane mbá á kí chot mân na atem sê , “ E kí kpo chik é yúk bhaghé ejûm etat kən é kâm sê nne nnyó a gbô ? É ko atûŋ amə́ré é yuk fép achot mmá á fábhe ka nnyo imê . ”
+42023022a	~		Piratus a kpô chot ka osúí ntə̂m ésá se , 
+42023022b	bhaghé		“ Nne nnyó a yimî bhaghé obhí ? Ń ka yén kpe ejûm nji a gboê kən sê á yúí yê . Tîk n tə̂m yê otəm n nyáŋe abhô . ”
+42023031	~		A chôt mân se , “ Ékpoê étí é ru ngûn é chiŋi étí mbít . Ájoé mme , nnyo n di noŋ étí mbít , ngun á kí seŋé ə̂m nná , kən ên mân ? ”
+42024005	Nan		Na ekpatə́m efup , ane-akáé mbá á bhî bichî ka nsi . Ane-arûm mbá á bhə̂p ábho sê “ Nan kən o kí wom ên nne mbít ka etím oyəm ?
+42024017	bhaghé		A bhə̂p mân ábho sê “ Ó chorá ên bhaghé nchot o jak ên ka mbá ? ” Ane mbá á kə̂t áfo ngyím amə̂t nsôn-ńsôn .
+42024019	Bhaghé		Kən Jisos a kpô bhə́p se “ Bhaghé achot ? ” Ane mbá á táme yê sê “ Ájoé we ó ka yúk kpe nchot nnyi a fábhe na Jisos nnyo nne Nasaret , deê êt é sə́ré wâ . Jisos nnyó a ri nkara-otîp Obhasi . Ka amə̂t Obhasi na atem-ane , á chorá nchot , a yimá iyîm na ikom Obhasi .
+42024025	jen		Jisos a sə́re ábho se “ Bhaghé énə́mé nji é rî ên ka echî ? Jen kən é kí yuŋi kən ó kâm ên na achot Obhasi mma akará-otîp Obhasi á sə́re ?
+42024038a	jen		Jisos a bhə̂p ábho se “ Ó fubhá ên jen ? 
+42024038b	jen		Jen kən íkíkéré ifə́né í bhó jen koŋ ?
+43001019	~		Ńgyê nchot nnyi a fábhe Jon ka nnyo noŋ ntî-isê . Atúi-ofâm ane Jus ka eték í Jerusarem á tûm akará-agore Obhasi na ane ndə́p-i-njû Libhayi sê á jí bhə́p yê a sə́ré ábho ekpak í nne nnyo yê a ri .
+43001021	énê		Ane mbá á bhə̂p yê sê , “ We mân nâ énê ? We a ri Erayija nchane a ? ” Jon se , “ Mme asík . ” Á kpô bhə́p yê sê , “ We a ri nkara-otîp Obhasi nchane a ? ” Jon se , “ Ée . ” .
+43001022a	énê		Kən sê , “ We a ri énê mân ? Sə́re êt , ka e ri é jî na esə́re mbâ ane mba á túmi êt . 
+43001022b	jen		O kí səre êt jen ó kpê na biji ibhâ ? ”
+43001025	jen		á bhə̂p Jon sê , “ Ájoé we asík nâ o ri Krayis , nne nnyo Obhasi a túmi se a bhá yim êt é sém , we Erayija asík , we nkara-otîp Obhasi nchane asík , jen kən o kí fuk ane ayép ? ”
+43001038a	jen		Jisos a kpíghi echî a yên noŋ á tóbha yê . A bhə̂p ábho se , “ Ó woma ên jen ? ” Á táme sê , 
+43001038b	fan		“ Rabayi , we ó kumá fan ? ” ( Rabayi nâ se ńsé nnyo á kpik ane achot . )
+43001046	~		Kən Nataniye a bhə̂p Firip se , “ Ka Nasaret a ? Kə́n ejûm eno é fâp ka eték áji a ? ” Firip se , “ Bhák é jí yén . ”
+43001048	nan		Nataniye a bhə̂p yê se , “ O yimî nan o mə́ŋe ə̂m ? ” Jisos se , “ N yên wâ ka ebhú o ri ka ndə́p étí fîk , kən Firip a bhiŋ wâ . ”
+43002004	~		Kən Jisos a táme yê se , “ Ńnâ , we asík ó səra ə̂m ejûm nji n kí yim . Ebhú ejámé é nyə́ne é ká si . ”
+43002018a	~		Kən atúi-ofâm ane Jus á bhâ bhə́p yê sê , 
+43002018b	bhaghé		“ O kí yim bhaghé eriŋ nji é kí toŋe sê ó fon ikom mfi kə́n o yîm ntʉ́ghi ejûm nji ó yimá nná ? ”
+43003004	nan		Nikodemus a táme se , “ Á kí kpo yim nan á jí ékúí nne ? Tîk a kpô gye oya nnyen á jí yê ka osúí ntə̂m ébháe a ? ”
+43003009	nan		Nikodemus a bhə̂p se , “ Achot mmá á kí joé nan ? ”
+43003012	nan		Ájoé ó bhó kam ên sê ń chorá ka etʉri ebhú n kí səre ên achot í ngun nnyí , o kí yim ên nan ó kâm ebhú ń səre ên achot Obhasi ?
+43004009	nan		Kən nne-nkáé nnyó a bhə̂p Jisos se , “ We a ri nne Jus , mme nne-nkáé Samariya . É kí yim nan ó bhə́p ə̂m ń káre wâ ayép ó gwó ? ” Nne-nkáé nnyó a chorê áno nchot nnyí , ka ane Jus á bhó koné na ane Samariya .
+43004011	fan		Nne-nkáé nnyó se , “ Ńsé , we ejûm nji o kí tuk ayép ó ka fon , ébhírí-ayép njí fə́ne é rəme kpe-eji , o kí ko ayép ekpin áma fan ó káre ə̂m ?
+43004027a	~		Ka nkúbhi ebhú áji , ágbán í Jisos á chə́bhe njəm á bhak . É kpô ábho biji nji á kpúghi Jisos a chorá na nne-nkáé . Kən kpe nne ábho nnyo a bhə́bhe nne-nkáé nnyó ejûm nji á woma cháŋ . 
+43004027b	~		Kpe nne nnyo a bhə́bhe fə́ne Jisos echî á chorá na yê cháŋ .
+43005012	énê		Á bhə̂p yê sê , “ Nne nchane a ri énê nnyo a sə́re wâ se ó kə́n ekpa ó jên ? ”
+43005044	nan		O kí yim ên nan ó yûŋ ên ḿbə́ŋé ó kí na Obhasi , nji o noghá ên ngá sê ngun á kât ên . Ó maghe ên ewómóm nkat mbâ mfoné Obhasi .
+43005047	nan		Kən ájoé ó bhó kam ên na nji yê a séŋe , o kí yim ên nan ó kâm ên na nchot amé ? ”
+43006005	fan		Nji a kun áno ka egúí njí , a kpíghi a yên se ekam ane é kí ti otí é bhak . A bhə̂p Firip se , “ E kí nam édî fan nji tîk é tî é bhîk ane mbá chénchén ? ”
+43006009	jen		“ Mmon i ndûm yót a ri mfá nnyo a fonê nsûm i brêt érôn na nsí ébháe , kən áji é fap jen ka ekam ane njí ? ”
+43006025	bhaghé ebhú		Ekam ane njí á kpó to á wóm yê á yén njəm aya nnyi ńgô , á bhə̂p yê sê , “ Ńsé , bhaghé ebhú nji o yaŋê ngá ? ”
+43006028	nan		Á bhə̂p mân yê sê , “ E kí yim nan kən e yimá ntûm nnyi Obhasi a wóme ? ”
+43006030a	bhaghé ejûm		Á kpô bhə́p yê sê , “ Bhaghé etûm okpógha-biji nji kə́n o yîm mfá kən é yén é kâm na we . 
+43006030b	bhaghé ejûm		O kí yim bhaghé ejûm ?
+43006042	nan		Sê , “ Jisos nnyo mmon i Jusep nná asík a ? É məŋe ńsé , é məŋe nnyen . É kí yim nan a kpó səre se yê a dʉ mbâ Obhasi a bhák ? ”
+43006052	nan		Kən ane Jus á róghe mân ekpóŋóm ábho-ábhô sê , “ Nne nnyó a kí yim nan a sə́ré se yê a kí karé êt biji ibhê é dí ? ”
+43006060	énê		Atóbhá Jisos á yûk achot mma yê a chorê nná , kən etî-etî biji í kpô ábho kpe-eji . Á chə́bhe á chorá sê , “ Ntʉ́ghi mbí okpígha-ejûm ó chíŋi êt kpá . Énê nnyo kə́n a kâm na achot ntʉ́ghi mmá ? ”
+43006062	~		Ájoé ńji é kí yam ên ḿbə́ŋé , kən ebhú ó yen ên mân Mmon-i-ntem-nne a kí gyʉt a jak mbâ Obhasi ka eji nji a ri ofú ábhi .
+43006068	énê		Kən ḿgbán owe yót a kamá se Simun Pita a táme se , “ Ntûfâm , e kí kpo maghé wâ é jî mbâ énê ? We nâ o fonê nchot nnyi a kí karé ekpin ótúm-ótúm .
+43007011	fan		Atúi-ofâm ane Jus á róghe yê ewómóm ka erom njí sê , “ Nne nnyó a ri fan ? ”
+43007015	nan		É kpô atúi-ofâm ane Jus biji kpe-eji sê , “ Nne nnyó a məŋê achot mmá nan nji kpe njû-osêŋ á ka ji ? ”
+43007019	jen		To Mosis a karê ên ebhín , kən kpe nne owəné nnyo á kik ebhín cháŋ . Ó woma ên jen ó yúí ên ə̂m ? ”
+43007020	énê		Ekam ane njí á bhə̂p yê sê , “ Ojê ó kí karé wâ oseŋe tîk ? Énê nnyo á woma wâ eyúúm ? ”
+43007023	jen		Ájoé mân o kí kimâ ên nkîm ka ofú oyoá-biji sê o kâ gbô ên ebhín í Mosis , ó yama ên mân ḿbə́ŋé na mme jen ka n yimî nne a sôn a chə́bhe njəm ka biji ka ofú oyoá-biji ? .
+43007035	fan		Atúi-ofâm ane Jus mân á róghe atem ebhə́bhə́m sê , “ Nne nnyó á jak fan nji é bhó yen yê ? A kí ji ka nték ajéné nnyi ane Jus á rî tîk ? A kí ko achot amê a jí kpi ajéné tîk ?
+43007036	jen		Echî nchot eye a ri jen nnyi se , ‘ Tîk o wôm ên ə̂m ó bhó yen . Mbá n kí joé , ó ka bhik ên ebháám . ’ ”
+43007041	nan		Etʉ̂ sê Jisos a ri Krayis , nne nnyo Obhasi a túmi a bhá yim ábho á sém . Kən etʉ̂ ane á kí bhəp sê , “ Krayis a kí yim nan a dʉ eték í Gariri ?
+43007045	nan		Abhábhá-ókʉ́rí á chə́bhe mân njəm á jak mbâ ane-echî akará-agore Obhasi na ane echəme Farasi . Atúi-ofâm mbá á kí bhəp ábho sê , “ É yími nan kən ó ka fi ên nne nnyó ó bhá ên ? ”
+43007048	~		Ó nok oyén ên kpe nne echəme Farasi yót , kpe nne-echî yót a kâm na nne nnyó a ?
+43007051	~		“ Nâ-ngá ebhín ejə́ré é kam sê é bhíbhí nne nji é ka yúk ejûm nji nne a yimî , e bhə̂p yê fə́ne ejûm nji a yimî a ? ”
+43008005	jen		Ka ebhín í Mosis á túbha ntʉ́ghi nne-nkáé nnyó atáé ta a kpô . Kən we ó kere se jen ? ” .
+43008010	fan		Jisos a rúi ngyím , a bhə̂p nne-nkáé nnyó se , “ Nne-nkáé , ane mbá chénchén á ji fan ? Nne ábho kpe yót á ka kə́t obhíbhí wâ a ? ”
+43008019	fan		Á bhə̂p mân yê sê , “ Ńsé owa a ri fan ? ” Jisos se , “ Ó ka məŋé ên ə̂m , kpe Ńsé omé ó ka məŋé ên . Ebhú sê o məŋê ên mme eê , kə́n o kí məŋé ên fə́ne Ńsé omé . ”
+43008025a	énê		Kən á bhə̂p yê sê , “ We nâ énê kpá títí ? ” 
+43008025b	~		A táme ábho se , “ Mme a ri yê nnyo n sə́re ên ta ka eróghá-ndə́p .
+43008033	nan		Kən ane á bhə̂p yê sê , “ Êt a ri biyábhé-abhon Abraham , osʉ́ŋ í nne asík e noghê ogbo . É yími nan o kí səre se tîk e sêm ? ” .
+43008043	echî		A bhə̂p mân ábho se , “ Ó məŋe ên ejûm nji nchot amé á bhó gye ên ka echî a ? Ó ka wóm ó yúk ên ńnyə́ne .
+43008046a	énê		Énê owəné nnyo kə́n a tóŋe se mme nyima-obhí ? 
+43008046b	jen		Jen mân nji ń səre ên nchot ka echî ó bhó kam ên na mme ?
+43008053	énê		Ńsé owəré Abraham a kpô , é kere sê ó bhó kep biji se ó faŋ ó chiŋi Abraham . Átíŋ nâ noŋ ó kera ? Akará-otîp Obhasi eróŋ á kpo , we nâ énê ? ”
+43008057	~		Ane Jus á bhə̂p yê sê , “ We kpe nsam i nyâ ébháe na ófó ó ka sí , se ó yen Abraham a ? ”
+43009002	énê		Ágbán í Jisos á bhə̂p yê sê , “ Ńsé , obhí énê nâ ó yími á jî nne nnyó kpup na otáná-amə̂t ? Obhê kən mbi ásé abhê ? ”
+43009010	nan		Á bhə̂p yê sê , “ Ájoé a ri we , amə̂t amâ á yími nan á rə́bhe ? ”
+43009012	fan		Á bhə̂p yê sê “ Jisos nchane a ri fan ? ” Se , “ Ń ka məŋé mbá a ri . ”
+43009016	~		Etʉ̂ ane echəme Farasi sê nne nnyo á yim ejûm ntʉ́ghi njí á bhó joé nne Obhasi ka á ka jíghí ofú oyoá-biji . Kən etʉ̂ fə́ne sê , “ Nyima-obhí kpe yót nnyo a kí yim ntʉ́ghi ntûm okpógha-biji nnyí cháŋ . ” Achât á bhâ gbô áfo ábho-ábhô .
+43009017	énê		Á kpô bhə́p nne nnyó sê , “ Ó səre se a rə́bhe wâ amə̂t , o kí kere mân se yê a ri énê ? ” Nne nnyó se , “ A ri nkara-otîp Obhasi . ”
+43009019	nan		á bhə̂p sê , “ Nne nnyó a ri mmon owəné kən ee . Ó səre ên sê a gboê na otáná-amə̂t , é yími nan a kí yen mbá mfá-mfá njí ? ”
+43009026a	nan		Kən á bhə̂p yê sê , “ A yimî nan kən a rə́bhe wâ amə̂t ? ”
+43009026b	~		
+43009027	jen		A táme se , “ Ń daŋ mbá kpá ń səre ên ó bhó kam ên , jen kən o kí kpo bhə́p ên ə̂m . Átíŋ o kí wom ên ó chə́bhe ane abhê ? ”
+43009034	~		Ane mbá sê , “ Mbôp á jíi wâ ta é si égyé , ó kpiná ka obhí . O kə́ bha okpí êt achot égyé a ? ” Á bhîm yê sê a ji .
+43009036	énê		Nne nnyó se , “ Ńsé , yê a ri énê ? Sə́re ə̂m mme ń yûŋ ḿbə́ŋé ń kí na yê . ”
+43010020	Jen		Etî-etî sê , “ Ojê nâ ó kará nne nnyó oseŋe . Ekí é kí nok yê . Jen ta o jî gyími ên o kí yuk nchot eye ? ”
+43010021	nan		Kən etʉ̂ sê , “ Nne nnyo ojê ó kára yê oseŋe á bhó məŋé ochot nchot ka ekpak njí . Ojê ó kí yim nan ó rə́bhe amə̂t í ntána-amə̂t ? ”
+43010024	nan		Ane á bhâ fáre yê á kâk , á bhə̂p yê sê , “ O kí ki êt é chîk nan kən ó sə́ré êt ájoé we nâ Krayis , nne nnyo Obhasi a túmi se a bhá yim êt é sém ? Sə́re êt jáé . ”
+43010032	Bhaghé		Kən Jisos a sə́re ábho se , “ Ó yen ên ánoê ntûm etî-etî nnyi n yimî . Ntûm nnyí a dʉ mbâ Ńsé omé . Bhaghé etûm ejámé nji ń yim kən o kí wom ên sê ó túp ên ə̂m na atáé ? ”
+43010036	jen		yê ngá nâ a sáŋe ə̂m a tûm ka ngun , jen mân nji o kí səre ên sê ń tu yê ka ń səre bəre mme Mmon owe ?
+43011034	fan		A bhə̂p ábho se , “ O kə́ne ên yê fan ? ” Á sə́re yê sê , “ Ntûfâm , bhák ó jí yén . ”
+43011047	nan		Nji á sə́re ábho , ane echəme Farasi na ane-echî akará-agore Obhasi , á bhîŋ echəme Atáŋá-eték . Nji á chə́me , á kí bhəp sê , “ É bhak oyim nan na nne nnyó ka ntûm okpógha-biji nnyi á yimá nná ?
+43011056	~		Á róghe Jisos ewómóm . Á chúi ka ókʉ́rí achot Obhasi á kí bhəp sê , “ Ó kere ên sê nne nnyó tîk a bhák erom njí ka etʉri a ? ”
+43012005	jen		“ Kə́n á ká ko akʉ́ mmá á gúri ka ntâk i ntí kpe ésá , á káre mbâ akpák a ? Echî ebhíbhím njí a ri jen ? ”
+43012027	jen		Jisos se , “ Mfá-mfá n di na ekpatə́m í nsae ka ḿbə́ŋé , n kí chot jen ? Ń sə́ré Ńsé omé bəre a gbʉ́í oseŋe mbí ó kâ bhâ ə̂m mbâ biji tîk ? Ée ! Ńji nâ é kóe ə̂m é bhak ka ngun , bəre ḿ bá yén oseŋe mbí .
+43012034a	nan		Kən ekam ane njí á sə́re yê sê , “ Nwet Obhasi a toê se Krayis á bhó kpo , yê nnyo Obhasi a kí tum se a yim êt é sém . O kí yim nan ó sə́ré se tîk á tʉ́ghi Mmon-i-ntem-nne ka ósô . 
+43012034b	nnyón		Mmon-i-ntem-nne nchane nâ nnyón ? ” .
+43012038a	énê		Ńji é fap fə́ne ka ekpak nji nkara-otîp Obhasi nnyo á kamá se Asaya a séŋe se , “ Ńtâ Obhasi , énê nnyo a kâm na otîp mbi e yúghi e sə́re ábho . 
+43012038b	bhaghé énê		Ntûfâm a tóŋe ikom ifê mbâ bhaghé énê ? ” .
+43013025	énê		Ḿgbán nnyó a cháe a kpúghi Jisos a bhə̂p yê se , “ Ntûfâm , énê nchane nnyo a kí gurí wâ ? ”
+43013036	fan		Kən Simun Pita a bhə̂p yê se , “ Ntûfâm , o kí ji fan ? ” Jisos se , “ Ka mfá-mfá ó bhó bhik ə̂m etóbhóm mbá ń jak áno , kən ka nsígha-njəm ebhú , tîk o tôp . ”
+43013037	jen		Pita se , “ Ntûfâm , jen kən ḿ bó bhik wâ etóbhóm mfá-mfá ? Mme kpe ekʉ̂ ń kam , tîk m kpô ka echî ejâ . ”
+43014002	~		Abhon-ojû á ti otí ka njû Ńsé omé , tîk n tʉ́ri ên eji ágo . É rô joé se asík eê , kə́n ḿ bó səre ên .
+43014005	nan		Kən Tomas a bhə̂p yê se , “ Ntûfâm , eji ó jak é ka məŋé , e kí yim nan é mə́ŋe mbá ? ”
+43014009	jen		Jisos a bhə̂p yê se , “ Nâ njok ebhú nji n kumî áno na ên , we Firip o nyə́ne ó ka məŋé ə̂m a ? Nne nnyo á yen ə̂m , a yên Ńsé . Echî mân nji o kí to se ń tóŋé wâ Ńsé a ri jen ?
+43014022	nan		Juda , kən Juda Iskariyot asík , a bhə̂p Jisos se , “ Ntûfâm , o kí yim nan ó tóŋé êt ekpin ejâ nji ngun ndə́m á bhó yen ? ”
+43016005	~		Kən mfá-mfá n kí ji mbâ yê nnyo a túmi ə̂m . Kən kpe nne owəné nnyo á bhəbha ə̂m mbá ń jak cháŋ .
+43016017	jen		Etʉ̂ ágbán abhê á kí bhəp atem sê , “ Á woma a sə́ré êt kpá jen títí ? Se mkpât ebhú é ro yén yê , kən é kpo kət , tîk e kpô yén yê . Se yê a kí ji mbâ Ńsé owe .
+43016018	~		Mkpât ebhú nchane nâ nnyə́n . Ntʉ́ghi nchot nnyí é ka məŋé kpá . ”
+43018004	énê		Jisos a mə́ŋe chénchén nji é bhâk ofáp , a chêm a kpúghi ábho , á bhə̂p se , “ Ó woma ên énê ? ”
+43018007	énê		Kən Jisos a kpô bhə́p ábho se , “ Ó woma ên énê ? ” Á táme sê , “ É woma Jisos , mmon i Nasaret . ”
+43018011	~		Kən Jisos a sə́re Pita se , “ Chəbhê njəm fê akparanja amâ ka mbâk . Ńsé omé nâ a túmi ə̂m se ḿ bá yén oseŋe mbí , n kâ yên a ? ” .
+43018021	jen		Echî mân nji o kí bhəp ə̂m a ri jen ? Bhə̂p ane mba á yúghi okpígha-ejûm obhámé . Ábho á məŋe iyîm mbi n chorê . ”
+43018023	jen		Kən Jisos se , “ Ájoé nji n chorê é ji nchík , sə́re se yên nji é jíi nchík . Ájoé kpe nji é jíi nchík cháŋ , o súmi ə̂m mân áno jen ? ”
+43018029	jen		Ka obhô mbí , Piratus a fâp a kpúghi ábho , a bhə̂p se , “ Sê nne nnyó a yimî ên jen ? ”
+43018035	jen		Piratus se , “ Ó kera tîk se mme nne Jus ? A ri ane abhâ na ane-echî akará-agore Obhasi nâ á gbíbhi wâ á káre ə̂m . O yimî jen ? ”
+43018038	jen		Piratus a bhə̂p mân yê se , “ Mfoné nchot nâ jen ? ” Nji Piratus a bhə́bhe nchot nnyí , a kpô ji ka éré a jî kpúghi ane mba á rî ágo , a chôt se , “ Mbâ amé , ń ka yén kpe echî nji n kí bhibhi nne nnyó .
+43019009	fan		A chə́bhe njəm ka etím ókʉ́rí , a jî bhə̂p Jisos se , “ We o dʉ fan ? ” Jisos á ka támé yê kpe nchot .
+43019015	~		Á kûk sê , “ Yúi yê ! Yúi yê ! Kúm yê ka ego ! ” Piratus a bhə̂p ábho se , “ O kí wom ên ń kúm ntûfâm owəné ka ego a ? ” Ane-echî akará-agore Obhasi á táme sê , “ É ka kpó fon ntûfâm etat é chíŋí Ntûfâm i Rom . ”
+43020013	jen		Á bhə̂p yê sê , “ Mmá , ó rʉra jen ? ” A táme ábho se , “ Á yighi ntûfâm omé , ń ka riŋí mbá á jî kî yê . ”
+43020015a	jen		Jisos a bhə̂p yê se , “ Mmá , ó rʉra jen ? 
+43020015b	énê		Ó woma énê ? ” Nne-nkáé nnyó a kí kere se a ri mbábha-ebhin áji nâ á chorá áno na yê . A chôt mbâ Jisos se , “ Ńsé , ájoé we nâ o yighî yê , ń gore wâ sə́re ə̂m , ń jí yíghi yê ka eji o kíi . ”
+43021012	énê		Jisos a bhîŋ ábho se , “ Bhák é dí ên édî . ” Kpe nne ábho nnyo a gaê ebhə̂p se kpe , “ We énê ? ” cháŋ , ka á məŋe sê a ri Ńtâ Jisos .
+43021020	énê		Pita a kpíghi a yên ḿgbán nnyo Jisos a korê nná , noŋ á bhak . Ḿgbán nnyó nâ a nuŋî nná a kúni Jisos echî ka ngaŋ ka ebhú á dîk édî . Yê yót nâ a bhə́bhe nná Jisos se , “ Ntûfâm , énê nnyo tîk a gúri wâ ? ” .
+43021021	~		Nji Pita a yéne yê , a bhə̂p Jisos se , “ Ntûfâm , kən ntem ńnyô fə́ne aŋ ? ”
+43021022	jen		Jisos a bhə̂p yê Pita se , “ Ájoé ń woma bəre a joé ta ń chə́bhe njəm ḿ bá , nchot eya ka etím a ri jen ? We , tóp ə̂m ! ”
+43021023	jen		Nji Jisos a chorê áno se ḿgbán nnyo yê a korê á bhó kpo , atóbhá abhê chénchén á bhâ yûk nchot nnyí . Kən Jisos á ka to se á bhó kpo . Nji a chorê é ká chiŋi a ri se , “ Ájoé ń woma bəre a joé ta ń chə́bhe njəm ḿ bá , nchot eya ka etím a ri jen ? ”
+44001011	jen		Á bhə̂p ágbán mbá sê , “ Ane-arûm í Gariri , o gyím ên jen o kébhá ósô ? Jisos nnyó yót nnyo á kóe áno á jak nnyi ósô , a kí kpo chəbhé njəm a bhá ka ekpak nji o yéne ên yê áno a jak . ”
+44002008	nan		É yími nan e kí yuk ábho , kpe énê ka ejê eyum eték ?
+44002012	jen		Kpe énê biji í kpô yê . É chíŋi ábho á chə́bhe á chorá na atem sê , “ Ḿfa nâ jen ? ”
+44002037	nan		Ane á kpó yuk nchot nnyí , efup é gyê ábho , á bhə̂p Pita na ágbán mba ngá sê , “ Atem-abhon-í-nnyen , e kí yim mân nan ? ”
+44003012a	jen		Pita a yên ábho á kə́ bha a sə́re ábho se , “ Atem-ane Isrel , etûm njí é kpôk ên biji jen ? 
+44003012b	jen		Ó kebha ên êt jen noŋ kpe e yimî nne nnyó a jên ka ikom ifə́ré ? Á ka jen fə́ne ka obhô sê é fon ekpin ka ekpak nji Obhasi a wóme .
+44004007a	~		Á kpó chəmé , á yíghi mba Pita á bhak ka ochî ábho . Á bhə̂p ábho sê , 
+44004007b	énê		“ Énê a karê ên ikom kən o yimá ên iyîm mbí ? 
+44004007c	énê		Ka mbiŋ énê nâ ó yimá ên ḿbə́ne ? ”
+44004016	nan		“ E kí yim nan na ane mbá éé ? Kpe énê ka Jerusarem a mə́ŋe se ábho nâ á yími ntʉ́ghi ekpatə́m ejûm okpógha-biji njí . Nne owəré nnyo a kí firi cháŋ .
+44004025a	jen		Ka ikom Obhasi Ebhare Ntʉgantʉ , o chôt éməné ka nnyo nne-etûm owa Debhit se , ‘ Ane mba á ká məŋé Obhasi á yáma kpá ḿbə́ŋé jen ? 
+44004025b	jen		Á chəmá kpá á fígha achot í chichi jen ?
+44005003	nan		Pita a bhîŋ yê a bhə̂p se , “ Ananiyas , o yimî nan o kâm Satan a súi wâ ka ḿbə́ŋé , a yîm wâ ó sə́ré áfúbhí mbâ Obhasi Ebhare Ntʉgantʉ ? Ntí mmi o gurî nsi eya , ó ki etʉ̂ mbá-njəm ó ko mân mmí ó bha .
+44005004	jen		Nsi a ri eya , ntí mmi o gurî , a ri imâ . Echî mân nji o kére se ó yîm ntʉ́ghi ejûm njí a ri jen ? Məŋê se o sə́re áno áfúbhí mbâ Obhasi , mbâ ntem-nne asík . ”
+44005009	Jen		Pita a bhə̂p yê mân se , “ Jen kən we na ndûm owa ó kam ên sê ó gáe ên Ntʉgantʉ Obhasi ? Yûk , n kí səre wâ bəre ane mba á kə́ne ndûm owa á rî ka nnyo-mbá , á kí kən wâ eróŋ á jî . ”
+44007026	jen		Ntem-ofú , a kpo to a bhá , a yên ane Isrel ábháe á kí nok , kən a jî gyê a sə́re ábho se , ‘ Yûk ên ! Ên a ri abhon-í-nnyen . Echî nji o kí karé ên atem oseŋe a ri jen ? ’
+44007027	énê		“ Kən nnyo á təmá ntem a chóe Mosis a kî ka mkpe a sə́re yê se , ‘ Énê nnyo a kíi wâ ntûfâm se ó táŋ achot amə́ré ?
+44007035	énê		“ Nkúbhi Mosis nnyó nâ ane abhê á táŋe nná ka ebhú á sə́re yê sê , ‘ Énê a sáŋe wâ noŋ nne-echî se o táŋá achot amə́ré ? ’ Yê mân nâ Obhasi a túmi noŋ nne-echî , nnyo a kí yim ane abhê á sém . Énjel nnyo a fábhe yê ka ochî ka echʉt-ájé njí na ngûn , nâ a kí kak Mosis obhô ka etûm njí .
+44007049a	bhaghé		‘ Ósô nâ ó rî ekumi otúi ejámé , nsi nâ ekíghá-akát . O kí gbe mân bhaghé ntʉ́ghi njû ó kí ə̂m ? 
+44007049b	fan		N kí yoé biji fan ?
+44007052	~		Nkara-otîp Obhasi a ri ágo nnyo ásé abhə́né á ká karé onyʉk a ? Á yúi ane Obhasi mba ebhú áji á sə́ra sê yê nnyo ekpin ejê é rî ka nnyen-i-mbá á kə́ bha . Ên mân ó bha guri ên yê , ó yui ên yê .
+44008031	nan		Nne nnyó se , “ N kí yim nan ń tóp nji nne á ka joé a sə́rá ə̂m kən é jáé ə̂m . ” A bhîŋ fə́ne Firip se a gyʉ́t a kumí na yê ka okpi-nsi .
+44008033	~		Á káre yê ísonê , á séŋe yê ka chichi . Nne nnyo a kí toŋe se ńgyê mmon owe cháŋ ka ekpin í nne nnyó ka ngun é man . ” .
+44008034	énê		Kən nne-ndûm nnyó a bhə̂p Firip se , “ Nne nchane nnyo nkara-otîp nnyó a séŋe a kpê a ri énê ? A séŋe a kpê na nne etat kən yê ḿfoné ? ”
+44008036	~		Nji á jéna á jak , á sî ka eji ayép etat , nne-ndûm nnyó a bhə̂p Firip se , “ Ńgyê ayép , ejûm etat é rî nji é kí gbʉi ə̂m n kâ fûk ayép a ? ” [
+44009004	jen		A gbô áfo ka nsi , a yûk eyum é bhə̂p se , “ Sol , Sol , ó kará ə̂m oseŋe jen ? ”
+44009005	énê		Sol a bhə̂p se , “ Ntûfâm , we a ri énê ? ” Eyum njí é fê sê , “ Mme a ri Jisos nnyo ó kará áno ńtə́mé ányi .
+44009006	~		Kən duî ngyím choŋ ka eték , tîk á sə́re wâ ejûm nji o ri ó yîm . ”
+44010004	jen		A yûŋ amə̂t a kí kep énjel nnyó na efup . A bhə̂p yê se , “ Ńsé , jen ? ” Énjel nnyó a táme se , “ Obhasi a yûk agore amâ , a yên ntûm onyáŋá-ane eya , a tît wâ .
+44010021	jen		Pita a bhə̂t a jak , a bhə̂p ábho se , “ Mme a ri nne nnyo ó woma ên . O bháe ên jen ? ”
+44010029	~		Nâ ejûm é yími ə̂m m bák kpe áfírí ń ka fírí . Sə́re ên ə̂m ejûm nji é yími kən o tûm á bhá bhîŋ ə̂m . ”
+44010047	jen		“ Obhasi a káre ane mbá Ebhare Ntʉgantʉ noŋ a karê êt eróŋ . Nji é kí kpo gbʉi ábho á kâ fûk ayép a ri jen ? ”
+44011017a	énê		M bâ mə́ŋe mân bəre Obhasi a kí karé ajéné ekpak ekəp jə́t nji a karê êt ka ebhú e yúŋi ḿbə́ŋé e kî na Ńtâ Jisos Krayis . Mme a ri énê mân nnyo n kí gbʉi Obhasi a kâ yîm nji a wóme a yim ? ”
+44011017b	~		
+44012018	~		Ofú ó kpó che , ekpatə́m í nchot a gbô ka njû ókúmí , abhábhá-ókúmí á kí bhəp nji é fábhe na Pita .
+44013025	énê		Nji Jon a kə́ bha ojeghé etûm ejê , a bhə̂p ane se , ‘ Ó kera ên sê mme a ri énê ? Mme nne ányo asík . Kpák ! Yê ḿfoné a kə́ bha ə̂m mbá-njəm . Ń ka bhik nnyo ḿ kpará kpe arík iyîm akát ibhê . ’ .
+44014015	bhaghé		“ Atem , bhaghé achot nâ ó yimá ên áno . Êt a ri ane fə́ne noŋ ên . E bháe na otîp ogyebhá-ḿbə́ŋé Obhasi sê é bhá séré ên ó mághe ên achot í chichi mmá sê ajom , ó tóp ên mfoné-mfoné Obhasi . Yê nâ a yimî ósô na nsi , a yîm aya na chénchén nji é rî ka ḿmáne .
+44015010	Jen		Jen mân nji o kí wom ó gáe ên Obhasi ka echə́mə́m atóbhá Jisos mbá echóé nji kpe ásé abhə́ré éməné na êt , é ka bhik ekə́nə́m ?
+44016030	jen		A kô ábho a fábhá ka éré , a bhə̂p ábho se , “ Ásé , n kí yim jen kən ń sém ? ”
+44017018	jen		Echəme akpíghá-ane achot etat mba á bhíŋa sê Epikʉriya na Stoyik á bhâ kpúghi Pol . Etʉ̂ ábho nâ á chóra áno mbâ Pol sê , “ Énə́mé nne nnyó á chorá kpá jen ka nnyo ? ” Etʉ̂ sê , “ A bháe okpí tîk nchot ajom etat ńgô , mma êt é ka məŋé . ” Á chóra áno ka Pol á chorá a kpek na Jisos na enyəmə́m ka ekʉ̂ .
+44017019	nan		Á kô yê mân á bhak ka ochî atáŋá-eték etat mba á bhíŋa sê Eriyapagos . Á bhə̂p yê mân sê , “ Okpígha-ejûm mbi fê mbi o bháe nná na ḿbə́ne , ó dʉ̂ nan ?
+44019003	nan		Kən a bhə̂p ábho se , “ Á fúghi ên mân ayép nan ? ” Á táme sê , “ Ka ekpak nji Jon á fugha ane ayép . ”
+44019015	bhaghé		Kən ofú bhə́t ojê nne etat ó táme ábho se , “ Ḿ məŋe Jisos , ḿ məŋe Pol , kən ên a ri bhaghé ane ? ”
+44019035	énê		Nséŋa-achot eték a dâŋ tata ane á mághe ejok , kən a róghe echoróm na ábho se , “ Ane Efesus , yûk ên . Ḿ bəp ên kpá , énê a ri ka ngun nnyo á ka məŋé se eték Efesus nâ á gbée njû njom mbâ ekpatə́m Atemis ? Ḿfa fə́ne nâ á kîk ntáé njom ányi nnyi a dʉ ka ósô , a gbô .
+44021013a	jen		Kən Pol a táme se , “ Ó rʉra ên kpá jen o kará ên ə̂m ekpatə́m ofiná-ḿbə́ŋé ? Mme ń kam bəre kpe a ri ókúmí , kpe a ri ekʉ̂ , ḿ kpok ka Jerusarem ka echî Ńtâ Jisos . ”
+44021013b	~		
+44021022	nan		Mfá-mfá e kí yim mân nan ? Á rî á yúk sê we ó bha ka eték .
+44021033a	~		Ntûfâm nnyó a sə́re se á fî Pol á bhóp na mkpokobhé ébháe . A bhə̂p se á sə́ré yê nne nnyo Pol a ri na ejûm nji a yimî .
+44021033b	~		
+44022007	jen		M gbô áfo ka nsi , n yûk eyum é bhə̂p se , ‘ Sol , Sol , ó kará ə̂m oseŋe jen ? ’
+44022008	énê		“ Kən n táme bəre , ‘ Ntâ , we a ri énê ? ’ “ A sə́re ə̂m se , ‘ Mme a ri Jisos , mmon i Nasaret , nâ ó kará áno oseŋe mbí . ’
+44022010	jen		“ Nji eyum njí é chóre nná na mme , m bə̂p mân bəre , ‘ Ntâ , ń yîm jen ? ’ “ A sə́re ə̂m se , ‘ Duî ngyím , choŋ nnyi Damakus . Tîk nne a sə́re wâ chénchén nji Obhasi a sáŋe wâ sê ó yîm ágo . ’
+44022016	jen		Ó chighá mân jen ? Duî ngyím , á fúk wâ ayép , á sû obhí obhâ á yíghi ka nji ó kam ka mbiŋ eye . ’
+44022026	jen		Nji Pol a bhə́bhe ebhə̂p njí , nne nyúp ane-enok nnyó a jak a jî bhə̂p ntûfâm ábho nnyo se á tə̂m Pol se , “ O sə́re nná se á yîm jen ? Á tə̂m nne Rom a ? ”
+44023003	~		Kən Pol a sə́re yê se , “ Obhasi tîk a sûm wâ a fê , nne áfúbhí ! O kun o táŋá ə̂m ka ekpak ebhín é fíi , o gbok ebhín njí jə́t ka esə́rə́m ane se á súm ə̂m . ” .
+44023009	~		Okpóŋe ó bhə̂t . Etʉ̂ atóŋá-ebhín ka echəme ane Farasi á rúi ngyím á kí tup áfírí sê , “ É ka yén kpe ejûm nji nne nnyó a yimî . É joé áfo ka etʉri sê ebhú tat énjel na kpe ebhú tat ńtʉgântʉ etat ágo a sə́re yê ejûm mân aŋ ? ”
+44023019	jen		Ntûfâm nnyó a fî mmon nnyó ka obhô á jak ka eji átíŋ , a bhə̂p yê se , “ O fonê jen nji o wóme ó sə́ré ə̂m ? ”
+44026008	Jen		Jen kən nne owəné kpe yót a kí kere se Obhasi á bhó yim ane á nyə́me ka ekʉ̂ ?
+44026014	jen		Êt chénchén é gbo ka nsi , n yûk eyum é chorá na mme ka eyum Ibru se , ‘ Sol , Sol , ó kará ə̂m oseŋe jen ? O kí karé biji ibhâ oseŋe nji ó bhó yuk ə̂m , noŋ mfoŋ nnyi a kí nok na nne nnyo á bhima ńnyə́ne na ítí . ’
+44026015	énê		“ Ḿ bəp bəre , ‘ Ntâ , we a re énê ? ’ “ Yê se , ‘ Mme a ri Jisos nnyo ó kará áno oseŋe mbí .
+45002017	~		Ên mba ó bhiŋá ên biji sê ane Jus , o kérá ên sê nchot a mân ka eji Mosis a karê ên ebhín Obhasi ka obhô a ? O kamá ên ńkamê sê o ri ên nono na Obhasi .
+45002021	jen		O kí kpighâ ên mân ane etat , biji ibhə́né ó bhó kpi ên jen ? O kí sərâ ên ane etat á kâ jʉ̂ ejʉ̂ , nâ-ngá ên áfoné ó bhó jʉ ên a ?
+45002028	~		Mfoné-mfoné nne Jus mân á ka joé sê ka o kí top erû ane Jus . Mfoné-mfoné nkîm nnyi sê ó tóŋé se we nne Obhasi á ka joé nkîm i biji .
+45003001a	bhaghé		Ka ejoóm nne Jus , nne a fôn mân bhaghé ekəp nji ane mba tat á ká fon ? 
+45003001b	bhaghé		Nkîm nnyi ane Jus á kíma nná , a fonê bhaghé orʉrí kpá títí ?
+45003003	~		Kən é jóe sê etʉ̂ ane Jus á yóŋe ḿbə́ŋé nnyi á kíi na Obhasi aŋ , kə́n Obhasi a yóŋe ḿbə́ŋé eye a ?
+45003005	jen		Nne kə́n a tô se , “ Kən ájoé obhí obhə́ré ó kí toŋe ekpak Obhasi á yimá iyîm ka nnyen-i-mbá , kə́n e chôt mân sê jen ? Sê Obhasi á ka fon ebhíbhím nne nnyo a yimî obhí a ? ” Ḿfa nâ íkíkéré ngun .
+45003006	~		Áno asík , ka é joé ka ekpak njí , Obhasi á ka bhik etáŋám ngun ndə́m .
+45003007a	~		Nne kə́n a tô mân se , “ Ka eji obhí obhámé ó kí toŋe ekpak Obhasi á yimá iyîm ka nnyen-i-mbá , ó kará yê ejík , Obhasi á ka fon ə̂m ebhíbhím se ń yim obhí . ”
+45003007b	~		
+45003008	~		Nâ é rî ekan-ékân etoóm se , “ Deê nne a yim obhí kən ono ó tóp . ” Ka etʉri , etʉ̂ ane á kí bhibhâ mbiŋ amé sê mme nâ ń səra ane ntʉ́ghi nchot nnyí . Obhasi a ri a bhíbhí ntʉ́ghi ane mbá ka ekpak a fonê ábho ebhíbhím .
+45003009	~		Nâ-ngá êt ane Jus mân kə́n e tô sê e ri nono ka ochî Obhasi e chíŋi ajéné a ? Áfúbhí ! Ka ekpak nji ń daŋ mbá ń chot bəre chénchén ane , kpe ó jóe Jus , kpe ó jóe njéné , o ri ka ńgyímí obhí eyimím .
+45003027a	~		Kpe ejûm etat cháŋ mân nji nne a kí sum obhô ngaŋ . 
+45003027b	~		Echî é rî sê , Obhasi a kóe nne se a fôn ekpin ka nnyen-i-mbá , cháŋ ka ebhín ekíím . 
+45003027c	~		É dʉ̂ ka ḿbə́ŋé nnyi nne a kíi na Jisos Krayis .
+45004001	Bhaghé ejûm		É ko ên kpá Abraham , ńsé owəré éməné nnyo ndə́p-i-njû eyəré ane Jus . Bhaghé ejûm é fábhe na yê ?
+45004003	Echî		Echî aŋ ? Nwet Obhasi a sə́re se Abraham a kíi ḿbə́ŋé na yê . Ka ḿbə́ŋé nnyí , Obhasi fə́ne se ekpin Abraham é rî ka nnyen-i-mbá .
+45004010	~		Nchot Abraham nnyí a fábhe nná ebhú ta a kîm nkîm kən á ka kím ? A fábhe ebhú Abraham a nyə́ne á ka kim nkîm .
+45005010	nan		Ájoé ebhú nji e ri ka ebhan na Obhasi , a chə́bhe njəm a kô êt ka ekone , nji Mmon owe a kpóe ka echî ejə́ré . Mfá-mfá mân nji Mmon a ri mbít , é joe ka ekone na Obhasi , esémém ejə́ré tîk é jóe nan ?
+45005021	~		É yen mân sê ka eji obhí ó fon ikom ó bha na ekʉ̂ , onobhá-eji Obhasi fə́ne ó fon ikom ó bha na ekpin efonóm ka nnyen-i-mbá . Nâ ekpin nji é kára êt ekpin ótúm-ótúm ka obhô Ntûfâm owəré Jisos Krayis .
+45006001	jen		Nâ é fap mân sê jen ? É kə́t e yimá obhí e jak ochî sê é yîm onobhá-eji Obhasi ó súí a ?
+45006002	~		Áno asík ! Ka ebhú áji , obhí ó fon ikom ka ekpin ejə́ré , kən mfá-mfá , ikom áfi kpó cháŋ . Nâ e kâ kpô yimâ ên mân obhí ka ekpin ejə́ré .
+45006015	~		Noŋ ebhín é ká kpó fon ikom ka ekpin ejə́ré , e kí fon ekpin ka onobhá-eji Obhasi , nâ-ngá é yîm mân obhí ekpak é kóre êt a ? Bhúghí-bhúghí !
+45006021	jen		Orʉrí mbi o fonê ên ka etím , ebhú áji a ri jen ? Kpe orʉrí etat cháŋ é ká chiŋi achot mma mfá-mfá ó kpighi amə̂t o kêp , echî é yûp ên . Echî aŋ ? Achot ntʉ́ghi áma á chóa ên á kaghá ka ekʉ̂ .
+45007007	jen		É tô mân sê jen ? É tô sê ebhín a ri obhí eróŋ a ? Bhúghí-bhúghí . Ebhín obhí asík ! Kən a ri ebhín nâ é yími ə̂m m mə́ŋe obhí . Kə́n ń ka məŋé bəre amə̂t ekíím ka ejûm í nne a ri ejûm ebhí ájoé ebhín é ká to sê , “ Ka kí amə̂t ka ejûm í nne . ” .
+45007024	énê		Bhaghé ntʉ́ghi ofará-ḿbə́ŋé nná ! Énê nnyo tîk a nyáŋe ə̂m ka ekpin ejámé njí , nji é kí ko ə̂m nná é kâk ka ekʉ̂ ?
+45008024	énê		A ri Obhasi nnyo é chighá nná , nâ a yimî êt é sem . Kən ájoé é fon ejûm nji é chighá , é ro kpó yim ka etʉri . Echî aŋ ? Énê nâ kə́n a chîk ejûm nji ta a fôn ?
+45008031a	jen		E kí kpo chot jen etat é kpê ka achot mma é chot nná ? 
+45008031b	énê		Énê nnyo a kí bhik egyímím ngyím enok na êt nji Obhasi a ri njəm eyəré ?
+45008032	jen		Ka eji Obhasi á ka ri Mmon owe nsôn , a kô yê a káre se a kpó ekʉ̂ , êt chénchén é fôn ekəp , deê é kâm mân sê ka eji a karê êt ntʉ́ghi ekəp njí , tîk á bhó taŋé êt ekarám kpe jen nji yê a kíi êt .
+45008033	énê		Énê nnyo kə́n a sə́re se ane mba Obhasi a sáŋe á yim njí , á yim ńjî ? Nne cháŋ . A ri Obhasi nâ a kóe ekpin ane abhê sê é rî ka nnyen-i-mbá .
+45008034	énê		Énê mân nnyo kə́n a fíri se á gbo ? Nne cháŋ . Echî aŋ ? Jisos Krayis a ri ágo a gorá Obhasi ka echî ejə́ré . A ri Jisos nnyó nnyo a kpóe ka echî ejə́ré , kən Obhasi a yimî yê fə́ne a nyə́me ka ekʉ̂ , a karê yê ekumi ejík mkpe obhô-orûm obhê .
+45008035	énê		Énê mân nnyo a kí bhibhi okot mbi Jisos Krayis a fonê na êt ? Nne cháŋ . Kpe e ri ka oseŋe , kpe ḿbə́ŋé nâ á nyʉghá êt , kpe á bhíbhi êt , kpe e rô fon édî , kpe e ri akpák , kpe a ri á kí to sê “ Tîk e yîm yê , ” kpe á yúi êt oyúí , Jisos Krayis á bhó re êt ekoróm .
+45009014	~		E kí səre mân sê nâ ekpin Obhasi cháŋ ka nnyen-i-mbá a ? Áfúbhí !
+45009019a	jen		Ebhú tat tîk nne owəné a bhə̂p ə̂m se , “ Ájoé ekpak Obhasi á səre se é jóe , nyóŋá cháŋ , jen mân kən a kí fi nne se a gbô ? ”
+45009019b	~		
+45009020a	bhaghé		Ntem , we ka nne , o fonê kpá bhaghé ikom mfi o kí bhəp ntʉ́ghi ebhə̂p njí mbâ Obhasi ? 
+45009020b	~		Nne nnyo a kô otop a kí moŋe ebhí ka ekpak nji a kére , eji o nôk oyúk ebhí áji é bhə̂p se , 
+45009020c	jen		“ Jen é yími kən o kí yim ə̂m ekpak njí ” a ri fan ? .
+45009021	~		Nyima-ebhí nâ a fonê ikom mfi a kí ko otop mbí , a yim nji-nji é kóre yê . A kí ko ekpək otop jə́t a yîm abhí ábháe . A korê a yîm jə́t a kí se təm ka ofú erom kən á yîm kpe ejûm ka etím . Nji tat se kpe bhaghé ebhú á kô á yîm nji-nji á kóre .
+45009022	~		Nâ noŋ fə́ne é rî na Obhasi . Kpe noŋ á woma a tóŋé oyámá-ḿbə́ŋé obhê na ekpatə́m ikom ifê , a kí kəbhâ ḿbə́ŋé , a kaghá biji na ane nchane bhát mba á yíma yê a yámá ḿbə́ŋé . Á rî mba kə́n á bhíbha obhíbhí .
+45009023	~		Á kəbhá áno ḿbə́ŋé a kaghá biji na ábho ka obhô ane mba ngá , mba yê a wóme a ri nsôn . Á woma a tóŋé fə́ne ábho efaŋ nji é rî ka ejík ejê . Nâ ane mba yê a yîm se á jóe na yê ka ekpatə́m ejík ejê .
+45009024	~		Êt a ri ane nchane mba Obhasi a sáŋe ta ebhú áji . Á ka sáŋ mbâ ane Jus átíŋ , a sáŋe fə́ne mbâ ane nték ajéné .
+45009030	jen		E kí sə́re mân sê jen ? É tô sê ane mba á ká dʉ ka nték i Jus , á ká nok ka biji ábho sê Obhasi a kó ekpin ábho se é rî ka nnyen-i-mbá , á fôn ekpin áji . Á fóne ńjə́ne ka ḿbə́ŋé nnyi á kí ki na Jisos Krayis .
+45009032	jen		Echî a ri jen ? Á ká ki ḿbə́ŋé na Jisos Krayis . Á kən ḿbə́ŋé ábho chénchén á kuni ka ntûm eno eyimím . Á kobhe á gbo ka nchot i ḿbə́ŋé ekíím na Jisos nnyo a ri nâ ntáé nnyi
+45010006	énê		Kən ka nchot se Obhasi a kí ko se ekpin í nne é rî ka nnyen-i-mbá , nne a ri a kí ḿbə́ŋé na Jisos Krayis . Á séŋe sê , “ O kâ bhə̂p ka ḿbə́ŋé eya se , ‘ Énê nâ tîk a jak ka ósô ? ’ ” Se a jí ko Jisos Krayis , a bhət a bhá .
+45010007	énê		Sê “ O kâ bhə̂p fə́ne se , ‘ Énê nâ tîk a jak ka eték akə́bha-nsi ? ’ ” Se a jí sʉk Jisos Krayis a bhá .
+45010008	~		Nji é rî ka etím a ri sê , “ Otîp Obhasi ó ká rap mbá na we , ó rî ka nnyo imâ na ḿbə́ŋé eya . ” Otîp mbí a ri ḿbə́ŋé ekíím na Jisos . E sə́re ên nná sê ,
+45010014a	nan		Kən tîk nne a yîm nan a góre Obhasi nji á ka kí ḿbə́ŋé na yê . 
+45010014b	nan		Nne a kí yim nan a kí fə́ne ḿbə́ŋé nji á bhó yuk otîp obhê . 
+45010014c	nan		Nne a kí yim nan a yúk otîp obhê nji á ká səre yê .
+45010015	nan		Á kí yim nan fə́ne á sə́ré otîp í nchane nji á ká tum ane á jí sə́ré . Á séŋe ka nwet Obhasi sê , “ Ane á kí fon ekpatə́m ogyebhá-ḿbə́ŋé á kpê na ane mba á bháe ábho na otîp ogyebhá-ḿbə́ŋé Obhasi . ” .
+45010016	~		Kən chénchén ane asík mba á yúghi otîp mbí nâ á fóne ebhú na ḿbə́ne . Ka ekpak nji Asaya a séŋe se , “ Ńtâ Obhasi , ane ábhík nâ á yuk okpígha-ejûm obhə́ré á kam na ḿbə́ne ? ” .
+45011004	jen		Nji Erayija a sə́re Obhasi nchot nnyí , Obhasi a táme yê se jen ? Obhasi a sə́re yê se , “ Ń ki ane-arûm ntem-esam ntə̂m-ntə̂m ekû na ábháe na ejûm ( 7,000 ) bəre nâ ane abhámé . Ane mbá nâ mba á ká təm arúŋ ebhú áji á káre njom nnyi á kamá se Bal . ” .
+45011007	~		Nji é rî mân ka etím a ri se , ekpin ka nnyen-i-mbá nji ane Isrel á wóma , etî-etî á ká fon , kən mkpât mba Obhasi a sáŋe a fôn . Mba ngá chénchén á gbo atáná-amə̂t ka achot Obhasi .
+45011015	~		Ájoé etaŋám nji Obhasi a taŋê ábho é yim Obhasi a fôn ekone na ane ngun , ó məŋe ên mân nji é kí fap ebhú Obhasi á chəbhé njəm a bhîŋ ábho á gyê yê ka biji a ? Nji é kí fap , áfo nâ nne a kpô kən a chə́bhe njəm ka ekpin .
+45011018	Echî		O kâ yûŋ ên mân afâŋ sê ó chiŋi ên arâp mma á yíghi oyighí . Echî aŋ ? Arâp asík nâ á fíi arʉk , kən arʉk nâ á fíi arâp .
+45011033a	énê		Ekpatə́m onono jen mbi Obhasi a yimî a káre êt ! Aron amê á son á chiŋ . Oməŋa-ejûm obhê ó fon arʉk . Énê kə́n a bhîk esə́rə́m ekpak Obhasi a kí ko eye ńgyímí ka achot ? 
+45011033b	énê		Énê nnyo kə́n a mə́ŋe ekpak nji Obhasi á yimá iyîm ibhê ? .
+45011034a	énê		Noŋ ekpak nji á séŋe sê , “ Énê nnyo a məŋê ḿbə́ŋé Ńtâ Obhasi ? 
+45011034b	énê		Énê nnyo kə́n a bhîk yê etí etáám ? .
+45011035	énê		Énê nnyo a nôk okaré yê kpe ejûm jə́t , kən se Obhasi a fé ? ” .
+45014004	énê		We a ri énê kpá títí nnyo o kí tâŋ ḿgbán i nne etat . Ńsé owe nâ a fonê ikom mfi a kí səre se ḿgbán nnyó a mə́ŋe oyim na ebhú tat se á ka məŋé oyim . Ḿgbán nnyó eróŋ a ri ka eyéném echî , ka Ńtâ Obhasi kə́n a yîm yê a yên echî .
+45014010a	~		Nâ ńjə́ne fə́ne á sə́re sê ntem-mmon-i-nnyen a kâ bhíbhi ntem kpák . 
+45014010b	~		Nne a kâ kêp ntem-mmon-i-nnyen se echâk í nne . Echî aŋ ? Êt fép tîk e gyími ka ochî Obhasi , a tâŋ êt .
+46001020a	jen		Ka íkíkéré mfí mân , mməŋa-ejûm a fábhe jen ? 
+46001020b	jen		Ane mba á kpîk ane achot í ngun , ábho á mə́ŋe jen ? 
+46001020c	jen		Á fíra áfírí mma sê á məŋe ejûm , áfírí mmá á kí karé ábho jen ? Obhasi á ka tóŋé nná jáé se oməŋá-ejûm í ngun nnyí a ri chichi ejûm a ? .
+46002011	énê		Echî aŋ ? Énê etat nnyo a kí məŋé nji é rî ka ḿbə́ŋé nne é ro joé ḿbə́ŋé nne yê ḿfoné ? Ka ekpak njí eróŋ , nne etat nnyo a kí məŋé nji Obhasi á kera cháŋ , təm Obhasi Ebhare Ntʉgantʉ .
+46002016a	~		Á séŋe sê , “ Nne kpe yót nnyo a kí məŋé íkíkéré Obhasi cháŋ . 
+46002016b	~		Nne fə́ne nnyo á kpok otá yê etí cháŋ . ” Kən êt , é fon ḿbə́ŋé nnyi Jisos Krayis a karê êt .
+46003005a	énê		Mme Pol nâ énê kpá títí ? 
+46003005b	énê		Aporos nâ énê ? Êt a ri ágbán mba Obhasi a túmi se é bhá nyáŋé ên ó kí ên ḿbə́ŋé na Jisos Krayis . Obhasi a káre kpe énê owəré ejê etûm nji a kí yim .
+46004007a	jen		We nnyo o kí kere se we ó chiŋi ochíŋ , o fábhe kpá jen ? 
+46004007b	Bhaghé ejûm		Bhaghé ejûm ejâ nji o fonê nji Obhasi asík a karê wâ ? 
+46004007c	jen		Ájoé mân á káre wâ okaré , ó yuŋá biji jen ka ejûm ekəp ?
+46004021	Njə́n		Njə́n nji o korê ên ? Ḿ gbút íkpá ḿ bá tə̂m ên otəm , kən ḿ mághe ofúbhá-ḿbə́ŋé ḿ bá tóŋé ên bəre ń kot ên ka etʉri ?
+46005002	nan		O kí yim ên mân nan o yuŋá ên biji sê ó chiŋi ên ochíŋ ? O ri ên nji o foná ên oyúbhá-echî na onoghá-ḿbə́ŋé . Yighî ên yê nnyo a yimî ntʉ́ghi achot mmá ka echəme ejə́né .
+46005012	~		Mme ḿ bó taŋ nchot ane mba cháŋ ka echəme atóbhá Jisos . Mba o fonê ên ka etáŋám ábho a ri ane mba á rî ka echəme ejə́ré .
+46006001	nan		O kí yim ên nan ájoé nne owəné a fôn okpóŋe na ntem , ó kə́n ên nchot nnyí o jak ên ka ochî ane mba á ká məŋé Obhasi ? Ane Obhasi nâ á bhíghi nchot ntʉ́ghi nnyí otáŋ .
+46006003	Jen		Ó ka məŋé ên tîk sê a ri êt na ên nâ e kí taŋ kpe ágbán i Satan a ? Jen mân nji kə́n é bhó bhik etáŋám achot í ngun nnyí ?
+46006004	~		Ájoé mân ó fon ên áfírí , é nóbhe é chiŋ á sâŋ ane ka echəme ejə́né kpe á rô məŋé ejûm á tâŋ .
+46006007a	~		Áfírí á ká nop kpe ejoóm ka echəme ejə́né , ka áfo a ri obhí ka ochî Obhasi . É nóbhe o mághe nne a yim wâ obhí a jak . 
+46006007b	~		Ájoé nne a jʉ̂ wâ ejʉ̂ , maghê nchot ányi a joé .
+46006009	~		Ó ka məŋé ên tîk sê ane mba ekpin ábho cháŋ ka nnyen-i-mbá á bhó gye otúi Obhasi ? Ka ríri ên biji ibhə́né , ane obhí á bhó gye otúi Obhasi , kpe ayimá-achot enuŋ akôp , kpe akorá-ajom , kpe agboghá-ekun , kpe anuŋá na nne ka nchot i ntí , kpe agboghá-ebhín enuŋ nji sê nne-ndûm a kâ núŋi na ntem-nne-ndûm ,
+46006016	~		Ó ka məŋé ên tîk sê nne nnyo á chəm biji ibhê na nne-nkáé ejen , a chə́bhe nne yót na yê a ? Ń chorá áno ka á seŋ ka nwet Obhasi sê , “ Ane mbá ábháe á kí chəbhé nne yót . ” .
+46006019	~		Nâ-ngá ó məŋe ên tîk sê biji ibhə́né a ri ókʉ́rí Ebhare Ntʉgantʉ nnyo a ri na ên é róghé ka ebhú Obhasi a karê ên . We asík o fonê biji ibhâ .
+46007016a	~		Ên ane-akáé mba o ri ên atem-abhon-í-nnyen , ó ka məŋé ên sê arûm abhə́né kə́n á sêm ka obhô obhə́né a ? 
+46007016b	~		Mba ane-arûm fə́ne mba o ri ên atem-abhon-í-nnyen , ó ka məŋé ên fə́ne sê akáé abhə́né kə́n á sêm ka obhô obhə́né a ?
+46009007a	~		É ko ane-enok ka enok , á kok a ri ntí ábho , ábho áfoné , kən á dik édî a ? 
+46009007b	énê		Énê nnyo a kí yim ebhin á bhó ko édî ka ebhin ejê a dí ? 
+46009007c	Nnyón		Nnyón mbábha-obhúi nnyo á bhó gwo abhê obhúi obhê ?
+46009018	jen		Ekəp ejámé mân a ri jen ? A ri nji á sáŋe ə̂m sê ń sə́ré ane otîp ogyebhá-ḿbə́ŋé Obhasi , n kâ bhə̂p kpe ejûm . Nâ echî nji ń ka bhə́p , kpe na ńgyímí nnyi m fonê .
+46010019a	jen		Ńji é toŋe sê jen ? 
+46010019b	~		Sê njom nâ a ri ejûm kən édî nji á jóma á kará ńnyə́ne nâ é rî ejûm ?
+46010019c	~		
+46010029	jen		Ń ka to ka ḿbə́ŋé eyəné , kən nnyi ntem nnyo a sə́re ên nná . Nne tîk a bhə̂p se , “ Ájoé nne etat a fôn onyʉghá-ḿbə́ŋé ka ejûm , jen é kí yim ə̂m n kâ yîm nji n korê ?
+46010030	jen		Ájoé ń kup Obhasi ka édî nji ń di , jen ane etat á gə́ma ə̂m ka édî nji n kí karé Obhasi ekûp ? ”
+46011022	nan		Bhaghé ntʉ́ghi ejûm ! Ojû nâ ó ka fon ên mbi o kí dik ên o gboghá ên ágo a ? Átíŋ ó timá ên otimí sê ó tú ên echəme ane Obhasi , ó yimá ên fə́ne ane mba á ká fon nji ábho , á fôn oyúbhá-echî . Ó woma ên sê ntʉ́ghi nchot nnyí ń chôt nan ? Ń sə́ré ên bəre ó yim ên nono a ? Kpák , mme asík .
+46012017a	jen		Ájoé eyə̂t ńjə́ne-njənê nâ a ri nná eyô-biji , nne a kí yuk mbá na jen ? 
+46012017b	jen		Ájoé otûŋ átíŋ nâ a ri eyo-biji , nne a kí ko jen a yúk egyʉ ?
+46012019	~		Ájoé Obhasi a kóe nná eyô jə́t-ajərâ a yîm biji ibhə́ré , kə́n áfo biji asík .
+46014006	jen		Atem-abhon-í-nnyen , é kó sê ḿ ba mbâ eyəné n dóghe echoróm na ên ka eyum eték nji ó bhó yuk ên , ń nyaŋa ên mân áfo ka jen ? Ń ka nyáŋé ên təm ḿ ba na nchot nnyi Obhasi a tóŋe ə̂m , na oməŋá-ejûm , na okpígha-ejûm , na fə́ne otîp mbi Obhasi a karê ə̂m .
+46014007	~		Kó ên noŋ egaé . Ájoé kpe iyîm mbi í ká fon ekpin noŋ kpe ibhaŋ mfi nne a kí fi , na kpe ebhú tat gitá , í ró gbo jáé-jáé , nne á bhó məŋé ekpak ekôn nji-nji á súma .
+46014008	nnyón		Ájoé abhukpoŋ enok mma á fíi á ká joé jáé , nnyón nne-enok nnyo a kí tʉrí biji enok ?
+46014009	nan		Nâ noŋ fə́ne é rî na ên . Ájoé ó chot ên ka nyum i nték etat nnyi nne á bhó yuk , ane á kí yim nan á mə́ŋe ejûm nji ó chorá ên ? Nchot eya a kí tan ka nsi .
+46014015	fan		Áji é kí ko ə̂m é jî fan ? N di ń góre Obhasi na ńtʉgântʉ amé é kpê na íkíkéré ifámé . N di ń kón ekôn ń káre Obhasi na ńtʉgântʉ amé é kpê na íkíkéré ifámé eróŋ .
+46014016	nan		Ka é rî sê ájoé ó kará Obhasi ekûp na ejík ka ńtʉgântʉ eya ńnyə́ne-nnyənê , nne ka echəme áji a kí yim nan a chot se , “ É rî áno ” nji á ka yuk ekûp nji o karê Obhasi ? Kpe ekpak á məŋá ejûm nji ó chorá cháŋ .
+46014026	~		Atem-abhon-í-nnyen , ńgyê ejûm nji o fonê ên ka eyimím ebhú ó chəmé ên ka echəme ejə́né . Ó chəmé ên , nne yót a kí fon ekôn Obhasi , nnyo tat okpígha-ejûm , nnyo tat nchot nnyi Obhasi a tóŋe yê , nnyo tat nchot ka eyum í nték etî-etî , nnyo tat a kí səre nji á chorá ka eyum í nték etat . Chénchén mbí é yimá nná sê á nyáŋé atem .
+46014036	~		Ó kera ên tîk sê nchot Obhasi a róghe a ri mbâ eyəné ? Ó kera ên sê təm ên nâ o fonê ên nchot Obhasi a ?
+46015012	nan		Ájoé á kí səre ane sê Jisos Krayis a nyə́me ka ekʉ̂ , etʉ̂ ên o kí yim ên mân nan o sə́rá ên sê enyəmə́m ka ekʉ̂ cháŋ ?
+46015029a	~		Ájoé nchot nnyí cháŋ ka echî , 
+46015029b	jen		jen kən ane á fúgha ayép ka obhiŋ ane mba á kpóe ? 
+46015029c	jen		Ájoé ane mba á kpóe nná á bhó nyəmé ka ekʉ̂ , echî nji ane á fúgha ayép ka obhiŋ ábho a ri jen ?
+46015030a	~		
+46015030b	jen		Echî oseŋe obhə́ré mân kpe bhaghé ebhú a ri jen ?
+46015032	jen		Ebhú n di ka Efesus , achot mma á tə́ma ə̂m , é rî noŋ kpe nne á noghá na onyam obhí . Ájoé Obhasi á bhó sʉghâ ane ka ekʉ̂ , echî ń kará ə̂m biji oseŋe a ri jen ? Ájoé nne á kpo nâ a kpô , kə́n ń səra ên mfá-mfá bəre , “ Atem-abhon-í-nnyen , é dí ên , é gwó ên , ka ójô e kí kpo . ” .
+46015035a	nan		Etʉ̂ ejə́né , tîk o bhə̂p ên sê , “ É kí yim nan nne a kpô okpó a chə́bhe njəm ka ekpin . 
+46015035b	~		Biji ntʉ́ghi mbə́n nâ a kí fon ? ”
+46015055a	fan		“ Ekʉ̂ , érûm ejâ é rî fan , 
+46015055b	fan		ikom mfi ó seŋá nne , í ji fan ? ” .
+47002002	énê		Ka ń karé ên nsae , énê nnyo a kpó ri ágo nnyo a kí karé ə̂m ogyebhá-ḿbə́ŋé é chíŋi ên mba n karê nsae ?
+47002016	énê		Mbâ ane mba é kí bhip ábho , egyʉ njí a ri ekʉ̂ . Mba é kí nop ábho , egyʉ njí a ri ekpin . Énê nnyo a bhighî eyimím ntʉ́ghi etûm njí ?
+47003008	~		ejík Obhasi Ebhare Ntʉgantʉ é bhó chiŋi mân obhô a ?
+47003009	~		Ájoé ebhín nji é kí bhibhi nne esup é bhak na ejík , kən ejík Obhasi Ebhare Ntʉgantʉ nnyo a kí yim ane á sém , é bhó chiŋ obhô a ?
+47006014a	~		Ka joê ên ejûm jə́t na ane mba á ká ki ḿbə́ŋé na Jisos Krayis . Ekpin efonóm ka nnyen-i-mbá na ekpin obhí á ká joé íríghí fə́t . 
+47006014b	~		Ebhát na ejírim í bhó chəm .
+47006015a	Bhaghé ejûm		Bhaghé ejûm nji Jisos Krayis na Satan á fóne chəm-chəm ? Cháŋ ! 
+47006015b	Bhaghé ejûm		Bhaghé ejûm nâ nne nnyo a kíi ḿbə́ŋé na Jisos Krayis a fonê chəm-chəm na nne nnyo á ka kí ? Cháŋ !
+47006016	Bhaghé		Bhaghé ekubhi nâ ókʉ́rí achot Obhasi ó fóne na ajom ? Á ka fon . Êt nâ e ri ókʉ́rí mfoné-mfoné Obhasi . Obhasi a chorê se , “ N kí joé ábho ka biji , n jená ka ekam ábho . N kí joé Obhasi ábho . Ábho tîk á jóe ane abhámé . ” .
+47011011	~		Nâ-ngá ń chorá ka ń ka kot ên a ? Áno asík . Obhasi a mə́ŋe se ń kot ên .
+47011029a	nnyón		Nne Obhasi kpe nnyón á joá áno bəre kpe á ka fon ikom , mme fə́ne ń kera áno bəre kpe ikom cháŋ . 
+47011029b	~		Á choe nne a yîm obhí , n sôn á yimá ə̂m áno kpe-eji .
+47012013	Bhaghé ejûm		Bhaghé ejûm nji n yimî ka echəme atóbhá Jisos ebhat etat ń ka yim mbâ eyəné ? Nji ń ka yim a ri sê ń ka maghé biji bəre ó gyê ên ə̂m ? Ḿ gbo ka njí , ri ên ə̂m nsôn , gyíni nchot ányi .
+47012017	~		Sə́re ên ə̂m , n nôk omoé ên ka ane mba ń tuma mbâ eyəné a ?
+48002014	nan		Nji m kpô yén bəre ekpin njí é ká jen ka mbá otîp ogyebhá-ḿbə́ŋé Obhasi , n dúi ngyím ka ochî ane chénchén n sə́re Pita bəre , “ Ájoé we ka nne Jus o kí yim ekpin noŋ ajéné , é kí yim nan ó sə́ré ajéné se á tóp erû ane Jus ? ”
+48003001	jen		Ên ane Garasiya , énə́mé jen nâ é rî ên ka echî ? A ri ichóe a ? To á sə́re ên jáé ekpak á kúmi Jisos Krayis ka ego ?
+48003019	jen		Echî ebhín mân a ri jen ? Á kpée ebhín á tóŋé nne ejûm nji á bhíŋa sê obhí eyimím . Sê é jóe tata Eyábhé-mmon Abraham nnyo Obhasi a chimî nná a bhák . A ri baénjel nâ á kóe ebhín njí á káre Mosis nnyo a gyím ka étíŋanti a kók mbâ Obhasi a kará mbâ ane .
+48004009a	jen		Mfá-mfá njí ó məŋe ên Obhasi . Ên asík , a ri Obhasi nâ a məŋê ên . Jen nji o kí wom ên ó kpó top ên ikom íkíkéré ngun mfi í ká fon nnyen ikom , í rî éfébhé ? 
+48004009b	jen		Ó woma ó chə́bhe ên njəm jen ó kpó joé ên asʉ́ŋ ikom mfí ?
+48004010	~		Ó kebha ên ḿbi ofú sê ofú oyúp , ńnyi nnyam-ósô sê nnyam-ósô nyúp , ńji ebhú sê ebhú eyúp , ńji eyâ sê eyâ eyúp .
+48004015	jen		Ebhú áji o fonê ên ekpatə́m ogyebhá-ḿbə́ŋé ka obhô obhámé . Mfá-mfá , jen é kpô yim ? Ka etʉri , ebhú áji kpe kə́n n sə́re ên bəre ó kpághe ên amə̂t amə́né ó káre ə̂m , kə́n o yîm ên .
+48004021	~		Ên ane mba sê ó tobha ên ebhín , ó bhó yuk ên tîk ejûm nji ebhín é chóra ?
+48004030	jen		Kən á séŋe sê jen ? To á séŋe sê , “ Bhîm nsʉ́ŋ na mmon owe , ka mmon i nsʉ́ŋ á bhó kirí iyîm i ńsé na mfoné mmon . ” .
+48005007a	énê		Mbôp nnyí o kí yimâ ên nono . Énê mân a rirî ên kən ó ro top ên mfoné otîp Obhasi ?
+48005007b	~		
+48005011	jen		Atem-abhon-í-nnyen , ájoé n nyə́ne n sə́rá ane bəre ta á kîm nkîm kən á jóe ane Obhasi , jen mân nji ane Jus á nyə́ne á kará ə̂m oseŋe ? Ájoé n nyə́ne n sə́rá ane ka ekpak njí , nâ nji ḿ kpik áno ane nchot ekʉ̂ Jisos ka ego , é bhó bha na onyʉk .
+49004009	~		É chot sê a gyʉ̂t ka ósô , nná e ri é mə́ŋe sê a bhə̂t a sî etím í nsi .
+50001018	~		Kən ejûm etat cháŋ , kpe nne a sə́re otîp Obhasi na íkíkéré ibhí , na kpe a sə́re na íkíkéré ino , á səra áno a ri otîp mbí bhə́t . Nâ echî ejûm nji n kí fon ogyebhá-ḿbə́ŋé . Ka etʉri , tîk ḿ bó maghé ḿbə́ŋé egyebhém .
+50001021	~		Ka ifámé íkíkéré , ekpin a ri Krayis . Ḿ kpo ka obhô Krayis , ekəp ejámé a ri ekpin nji é chíŋi obhô .
+51002020	Jen		Ó kpo ên na Jisos Krayis , ikom íkíkéré ngun nnyí í ká kpo fon kpe ejûm í kpê na ên . Jen mân o nyə́ne ên o yimá ekpin noŋ ane ngun ? O kí yim nan o kamá ên na achot mma ane á kí səre sê ,
+52002019	jen		Kən echî a ri jen nji é woma é bhá kpo yen ên ? To ebhú Ńtâ Jisos á bha , ên nâ o kí joé ên osona-ḿbə́ŋé na ejûm nji ogyebhá-ḿbə́ŋé ejə́ré ka ochî obhê . Ên nâ e kí ko é tóŋe noŋ érûm ka etûm nji yê a káre êt .
+52003009	~		É ka fon kpe nnyo mmi e kí kup Obhasi ka chénchén ogyebhá-ḿbə́ŋé mbi ên o karê êt ka ochî obhê .
+54003005	nan		Ó ka məŋé noŋ o kí fi eya ndə́p-i-njû , o kí yim nan ó fíi echəme ane Obhasi ?
+54006007a	~		Echî aŋ ? Nji á jíi êt ka nsi nnyí , é ka bhá kpe na ejûm , é bhó ko fə́ne kpe jə́t é chə́bhe njəm .
+54006007b	~		
+58001005	~		Ka nan ? Obhasi á ka nok osə́ré énjel owe kpe yót se , “ We a ri Mmon omé . Éróghé ka égyé , ń chəbhe Ńsé owa ? ” Obhasi á ka nok ochot fə́ne na énjel owe kpe yót se , “ Mme tîk n jóe Ńsé mbâ eya , we fə́ne Mmon mbâ amé ” ? .
+58001013	~		Obhasi á ka nok osə́ré baénjel abhê kpe yót se , “ Kumî ə̂m mfá ka ekumi ejík , mkpe obhô-orûm amé ta n yîm ane-ebhan abhâ á chə́bhe ekíghá-akát ejâ . ” .
+58001014	jen		Énjel mân a ri jen ? A ri ńtʉgântʉ nnyo Obhasi a túmi se á bhá ka ngun á bhá nyáŋé ane mba yê a kí yim á sém . ?
+58002003	nan		Ájoé mân é bhó yuk ekpatə́m otîp mbí , mbi ó kí yim êt e sêm , e kí yim nan á bhó kpəré êt ? Ńtâ Jisos nâ a raŋê mbá a sə́re otîp mbí , ane mba á yúghi yê fə́ne á tóŋe êt sê achot mmá á rî ka echî .
+58002006a	jen		Kən ka ekpak á séŋe sê , “ Obhasi , nne a fábhe jen kpá títí nji ta o kí kerâ yê . A fábhe jen nji ta o kə́ bha se ó bhá nyáŋé yê ? .
+58002006b	~		
+58003016	Bhaghé énê		Bhaghé énê nâ a yúghi nná eyum Obhasi kən á chə̂p njəm á káre yê ? A ri ásé abhə́né chénchén mba ebhú áji Mosis a kóe ábho á mághe eték Ijip .
+58003017	~		Mbán mba Obhasi a yáme nná ḿbə́ŋé na ábho ka nsam nyâ ébháe ? A ri mba á yími nná obhí , á kpô á kə̂t ka etə́m .
+58003018	~		A chimî nná se mbán ane nâ tîk á bhó si eji oyoá-biji ejê ? A ri mba á ká top nji yê a chorê .
+58006004	~		Ane á rî mba ta á məŋe obhí na ono , á fon ekəp Obhasi á chəm biji na Obhasi Ebhare Ntʉgantʉ , kən á bhâ táŋe Obhasi . A ri ejûm eyúŋi ka esə́rə́m ntʉ́ghi ane mbá á yóŋé ḿbə́ŋé á mághe obhí ábho .
+58007011	jen		A ri ka ńgyímí akará-agore ndə́p-i-njû Libhayi nâ Mosis a karê nná ebhín Obhasi mbâ ane Isrel . Ájoé Obhasi a kóe ekpin ane se é rî ka nnyen-i-mbá ka obhô ndə́p-i-njû Libhayi mba á rî akará-agore abhê , jen mân nkara-agore nnyo tat a kpô bhá á ka bhá ka ńgyímí akará-agore Eron , a bháe a ri ka ńgyímí nnyi Mekisedek ?
+58009014	~		Ájoé nâ noŋ é rî , kən mân agyʉ́ŋ í Jisos Krayis ! Kpe akôp á ka fon ka ochî Obhasi , a kpô ekʉ̂ ka echî ejə́ré ka ikom Obhasi Ebhare Ntʉgantʉ nnyo á bhó kpo bhúghí-bhúghí . A sû êt a yíghi ka obhí mbi ó kə́ bha êt na ekʉ̂ , se é yîm etûm é káre mfoné-mfoné Obhasi .
+58010001	~		Ebhín ane Jus é rî noŋ ńtʉgântʉ ejûm , mfoné ejûm asík . É kí toŋe a ri mkpât , é bhó toŋe chénchén ekpak okara-agore mmá mát kpe bhaghé eyâ . Agore ntʉ́ghi mmá á ká bhik eyimím ane mba á jígha Obhasi a kâ fôn akôp bhúghí-bhúghí .
+58010029a	nan		Á kí kpəre mân nne nan nji nne á ko Mmon Obhasi se chichi nne ? 
+58010029b	nan		Á kí kpəre nne nan nji nne á ko agyʉ́ŋ mma Jisos a karê se yê a yim ane á kâ fôn akôp ka ochî Obhasi se echâk ejûm ? 
+58010029c	nan		Á kí kpəre nne nan nji kpe ebhú tat nne a tû Ntʉgantʉ Obhasi nnyo á toŋá êt onobhá-eji ? .
+58010029d	~		
+58011032	jen		N kí kpo chot jen ka nchot i ḿbə́ŋé ekíím nnyí ? Ebhú tîk é bhó bhik ka esə́rə́m ên ḿ kpê na Gidiyon na Barak na Samson na Jefa na Debhit na Samuwel na akará-otîp Obhasi éməné .
+58012007	nnyón		Kə̂p ên ḿbə́ŋé nji o kí yen ên oseŋe noŋ ekpərə́m nji ńsé . Echî aŋ ? Obhasi á yimá ên áno noŋ abhon abhê . Ó nok oyén ên nnyón mmon nnyo ńsé á bhó kpəré yê nji mmon a yîm obhí ?
+58012009	~		Ásé abhə́ré ka nsi nnyí á kpə́ra êt nji é yim ejûm ebhí , e jíghá ábho . Kən mân Ńsé owəré ka ńtʉgântʉ ! E fonê ka ejíghím yê é chíŋ ochíŋ , é fôn ekpin .
+58012025	Echî		Nok ên o kâ táŋe ên Obhasi nnyo á chorá áno . Echî aŋ ? Ájoé ane éməné á ká be ta á sém nji á táŋe yê nnyo a sə́re ábho ka nsi nnyí se á kó ebhú , êt é bhó bhik ebéém ta é sém ájoé é taŋe yê nnyo a ri ka ósô a sə́rá êt se é kó ebhú .
+58013006	jen		Nâ kə́n e chôt , efup é bhó fon sê , “ Ńtâ Obhasi nâ á nyaŋa ə̂m , efup ḿ bó fon . Nne a kí bhik ə̂m jen oyim ? ” .
+59002006	~		Kən ên , ó kebha akpák fóŋ . Mbán nâ á kára ên oseŋe á kaghá ên ka bisup ? Ane efaŋ asík a ?
+59002014	~		Atem-abhon-í-nnyen , ájoé nne a kí səre se yê a kâm na Obhasi kən á bhó toŋe ka oyima-ejûm obhê , ó kam ên sê ekamám ntʉ́ghi njí kə́n é yîm yê a sêm a ?
+59002016a	~		
+59002016b	Bhaghé		Bhaghé ono nâ ó yim ên ó kare ábho nji ó səre ên ábho se , “ Deê Obhasi a joé na ên , ka kéré ên , dîk ên o gyʉ́rá ên , ” kən ó ka karé ábho iyîm mbí ?
+59002018	~		Etʉ̂ ane tîk á tô sê , “ Ane etat á rî á kamá na Obhasi , mba tat á yimá ntûm i nno . ” Táme ên ntʉ́ghi ane mbá sê , “ O kí yim ên nan ó sə́ré ên sê ó kam ên na Obhasi nji ó bhó yim ên ntûm i nno . N kí toŋe mân bəre ń kam ka ntûm i nno amé . ”
+59002021	Jen é yími kən		Jen é yími kən Obhasi a kô ńsé éməné owəré , Abraham , se a fôn ekpin ka nnyen-i-mbá ? A ri ka ekpin ejê nji a yimî ebhú a karê mmon owe Isak mbâ Obhasi ka eji ekəp etúbhúm .
+59003013	~		Ájoé ane á rî ka ekam ejə́né mba á kéra sê ábho á fon oməŋá-ejûm na aron , deê á tóŋé ka ekpin eno na ntûm i nno . Deê oməŋá-ejûm ábho ó kâ yîm ábho á yuŋá biji .
+59003017	~		Kən oməŋá-ejûm ósô ó ká fon akôp . Nâ ndaŋa-mbá ejûm . Ó jóa fə́ne na ekone , ó joá nyamḿ , ó toŋa onobhá-eji , ó rik nsôn . Ó məŋá ḿbə́ne ka ntûm i nno . Ó ká fon áfúbhí , ó bhó bhibhi ntem .
+59004001a	nan		N kí bhəp ên bəre achot enok na okpóŋe ka ekam ejə́né á dʉ̂ nan ? To á dʉ̂ ka ekot ekpin edíím ka ngun ? Ekot njí é kət é kará ên onyʉk ka ḿbə́ŋé .
+59004001b	~		
+59004012	énê		Obhasi yê átíŋ nâ ntáŋa-achot . Yê átíŋ nâ á kará ebhín . Yê átíŋ nâ kə́n a yîm ane á sêm , a yîm é bhîp ábho . Ó kera mân se we nâ énê nji o kí taŋ ntem-mmon-i-nnyen ?
+59004014	~		Məŋê sê ó ka məŋé kpe ekpak ekpin ejə́né é bhâk ojoé ójô . O ri noŋ abhʉ́í ka ajé mma á kí fap mfá-mfá , kən mkpât ebhú á tan .
+60002020	jen		Kən sê nne a yîm ejûm ebhí , á kpəre yê , kən a kâm akpəre mmá , echî á kí karé yê ejík na ekûp a ri jen ? Kən nji nne a yimî ono á kpəre yê , a kâm fə́ne akpəre mmá , Obhasi a kí toŋe yê onobhá-eji .
+60003013	énê		Ájoé o kí nok ên ka nnyen onogha-ejûm se ó yîm ên onono , énê nnyo kə́n a bhíbhi ên ?
+60004017	nan		Ebhú é si nji Obhasi a kí taŋ ngun , a kí raŋ mbá kpá na ane abhê . Ájoé Obhasi a kí roghe kpá na ane abhê , tîk a jéghe mân nan na ane mba á ká ki ḿbə́ŋé na otîp ogyebhá-ḿbə́ŋé mbi ó dʉ̂ mbâ eye ?
+60004018	~		Á séŋe sê , “ Ájoé é kí yuŋi kən ane ano á sém , ane abhí mba á ká məŋé Obhasi mân aŋ ? ” .
+61003004	~		sê , “ To Jisos a chimî se yê a kí kpo bha , yê maná ? Ta ka eróghá-ndə́p í ngun , ta é si égyé , ásé abhə́ré á kpo á ji , nji é yóŋe cháŋ . ”
+61003011	bhaghé		Ájoé nâ noŋ á kí bhibhi chénchén iyîm , bhaghé ekpin mân nâ ên o ri ó fôn ên ? Nji ó chighá ên nná sê Ofú Obhasi ábhi ó sí , o ri ó káre ên biji mbâ Obhasi , ekpin ejə́né é kâ fôn akôp . Gorê ên fə́ne sê ofú mbí ó bhá babhap . Na ofú mbí ósô ó kí rik , iyîm ósô chénchén í kí sare , ka efû nji é kí gbo .
+62002022	énê		Nne mân nnyo e kí ko sê nne baram ka étíŋanti njí a ri énê ? A ri yê nnyo á ka kam se Jisos nâ Obhasi a túmi se a bhá yim ngun á sém . Ntʉ́ghi nne nnyó nâ nne-ebhan i nchane nnyo a taŋê nná Obhasi Ńsé na Mmon .
+62003012	~		Deê e kâ fôn ekpin noŋ nne etat ka ane-atəm nnyo a kamê mbiŋ se Keyin . Keyin a fonê ekpin nji mmon i Satan . A fî fə́ne enyeré ejê a yúi . Echî etat cháŋ nji a yúi enyeré ejê , é ká chiŋi sê Keyin a fonê ekpin ebhí , enyeré ejê a fonê nnyen ekpin .
+62003017	nan		Ájoé ó fon iyîm í ngun kən o yên ntem-mmon-i-nnyen a ri ka eket , kən o yíghi amə̂t ó ka nyáŋé , okot Obhasi ó kí yim nan ó jóe wâ ka ḿbə́ŋé .
+62004020	Echî		Nne kpe nnyón nnyo a kí to se , “ Ń kot Obhasi , ” kən a kí bhan ntem-mmon-i-nnyen , a ri áfúbhí nâ á səra . Echî aŋ ? Ntem-mmon-i-nnyen nnyo we o kí yen na amə̂t , ó ka kot , o kí yim nan ó kôt Obhasi nnyo ó ka nok oyén bhúghí-bhúghí .
+62005005	Bhaghé ekpak		Bhaghé ekpak í nne nnyo a kí nok enok na obhí ka ngun nnyí a kô érûm , á ro joé təm nne nnyo a kí kam se Jisos a ri Mmon Obhasi .
+66005002	énê		N yên mân ndûm i énjel yót a fâp a kí bhəp na ndûm eyum se , “ Énê nnyo a bhighî eyighím mbuí ekpághé nwet nnyí , a rəbhé ńnyə́ne ? ”
+66006010a	nan		N yûk noŋ ane mbá á kúghi sê , “ Ńtâ Obhasi Ósô , mfoné-mfoné Ntûfâm nnyo akôp bhúghí-bhúghí á ka fon , é kí kət nan kən ó táŋ ngun , ó yîm ane mba á yúi êt , ó fé ? ”
+66006010b	~		
+66006017	énê		Ekpatə́m ofú oyámá-ḿbə́ŋé mbí ábho ó bha . Énê nnyo a kí gbʉi ḿbə́ne ? ” .
+66007013a	Bhaghé		Nne-nkúí yót áfo a bhə̂p ə̂m se , “ Bhaghé ane nná na ábháré ḿfô ka biji ? 
+66007013b	fan		Á dʉ̂ fan á bhak ? ”
+66013004a	énê		Ane á róghe ejík ekarám mbâ ndûm i nnyam achî anígisá nnyí , ka a káre otúi obhê mbâ nnyam-i-mbí nnyí . Á róghe fə́ne ejík ekarám mbâ nnyam-i-mbí nnyí , á chorá sê , “ Énê a síi nnyam-i-mbí nnyí ? 
+66013004b	énê		Énê kə́n a gyími enok na ńnyə́ne ? ”
+66015004a	énê		Ńtâ Obhasi , énê nnyo á bhó fup mbiŋ eya ? 
+66015004b	énê		Nne nnyo á bhó jighi wâ nâ énê ? We átíŋ nâ o ri ó ka fon ekpin akôp . Nték i ngun chénchén tîk á bhâ káre wâ ekûp na ejík , ka ane á yen sê oyima-ejûm obhâ ó rî ka nnyen-i-mbá . ” .
+66017007	jen		Kən énjel nnyo osúí anígisá se , “ Biji í kpóe wâ jen ? Tîk n sə́re wâ nchot ebhə̂t nnyi a ri a kpê na nne-nkáé nnyó , na nnyam achî anígisá na abhaŋ ófó nnyi a kə́ne nná yê .
+66018018	Bhaghé		á kugha nji á kí yen átʉ́k mma á fábha noŋ á rígha yê sê , “ Bhaghé eték nâ é síi ndûm eték njí ? ” .

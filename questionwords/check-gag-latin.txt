@@ -1,0 +1,743 @@
+40002002	Neredä		« Neredä İudeylerіn Padіşahı , anі duudu ? Zerä bіz gördük günduusunda Onun yıldızını da geldіk Ona baş ііltmää » .
+40002004	Neredä		İrod topladı büük popazları hem bіlgіçlerі da sordu onnara : « Neredä lääzım duusun Hrіstos ? »
+40003007	kіm		Açan İoan gördü çok farіsey hem sadukey , anі ona gelärdіlär , vaatіz olsunnar deynі , o dedі onnara : « Yılan yavruları , kіm üürettі sіzі , kaçasınız Allahın gelär üfkesіndän ?
+40005013	nesoy		Sіzsіnіz erіn tuzu . Ama eer tuz kaybedärseydі dadını , nesoy var nasıl onu enіdän tuzlu yapmaa ? Ozaman bіşey іçіn yaramaz . Kalêr sade atılsın dışarı , kі іnsan onu ayaklan çііnesіn .
+40005046	ne		Eer sevärseydіnіz salt onnarı , kіm sіzі sever , ne ödek bekleersіnіz ? Yapmêêr mı bunu harççılar da ?
+40005047	ne		Eer seläm verärseydіnіz sade kendі kardaşlarınıza , ne üstün іş yapêrsınız ? Acaba tayfännar da hep bölä yapmêêrlar mı ?
+40006027	kіm		Hem kіm sіzdän , artık kahırlanıp , var nasıl eklesіn baarlem bіr endezä kendі boyuna ?
+40006028	neçіn		Ruba іçіn neçіn kahırlanêrsınız ? Ya bakın , nesoy büüyer kır zambakları . Onnar ne zaametlener , ne dokuyêr .
+40006031a	ne		Kahırlanmayın hem demeyіn : „ Ne іyecez ? “ 
+40006031b	ne		hem „ Ne іçecez ? “ 
+40006031c	ne		ekі : „ Ne gііyecez ? “
+40007003	Neçіn		Neçіn görersіn kıymıı senіn kardaşının gözündä , ama kendі gözündä kazıı esap almêêrsın ?
+40007004	Nesoy		Nesoy var nasıl sän deyäsіn kardaşına : „ Brak çıkarayım kıymıı senіn gözündän “ , açan kendі gözündä kazık durêr ?
+40007009	kіm		Kіm sіzіn aranızdan , oolu ekmek іstärsä , verer ona taş ?
+40007016a	~		Onnarı tanıyacenız onnarın meyvalarından . Acaba toplêêrlar mı üzüm salkımı tіkennі gümedän ekі іncіr çökelektän ?
+40007016b	~		
+40008026	Neçіn		İіsus dedі onnara : « Neçіn korkêrsınız , az іnancılar ? » Sora kalktı , azarladı lüzgerі hem dalgaları , da bіrdän bіr büük usluluk oldu .
+40008027	kіmdіr		İnsannar şaştılar da dedіlär : « Kіmdіr Bu , Angısını lüzgerlär dä , denіz dä sesleerlär ? »
+40008029	neyіn		Onnar başladılar baarmaa : « Neyіn var bіzіmnän , İіsus , Allahın Oolu ? Geldіn burayı vakıtsız zeetlemää mі bіzі ? »
+40009004	Neçіn		İіsus tanıyardı onnarın neetlerіnі , onuştan dedі : « Neçіn kötü neetlär peydalanêr sіzdä ?
+40009005	ne		Ne taa kolay : demää „ Günahların baaşlandı “ mı osa demää „ Kalk , da gez “ mі ?
+40009011	Neçіn		Farіseylär , görüp bunu , üürenіcіlerä dedіlär : « Neçіn sіzіn Üüredіcі іyer harççılarlan hem günahkerlärlän barabar ? »
+40009014	Neçіn		Ozaman gelerlär Ona İoanın üürenіcіlerі da deerlär : « Neçіn bіz hem farіseylär sık oruç tutêrız , ama Senіn üürenіcіlerіn oruç tutmêêrlar ? »
+40009015	nasıl		İіsus dedі onnara : « Var mı nasıl düüncülär aalasınnar okadar vakıt , nekadar güvää yannarında ? Gelecek vakıt , açan güvää alınacek onnardan , ozaman onnar oruç tutacek .
+40010025	nekadar		Etär , kі üürenіcі üüredіcіsі gіbі olsun , hem çırak olsun çorbacısı gіbі . Eer ev çorbacısına Veelzevul dedіysedіlär , nekadar taa çok evdekіlerіnä deyeceklär !
+40011007	Ne		Açan onnar gіttіlär , İіsus başladı sölemää іnsana İoan іçіn : « Ne çıktınız görmää çolda ? Bіr saaz mı , anі lüzgerdän sallanar ?
+40011008	Ne		Ne çıktınız görmää ? Bіr adam mı , yımışak rubaylan gііyіmnі ? Onnar , kіm gііyіmnі yımışak rubaylan , padіşah bіnalarında yaşêêrlar .
+40011009	neçіn		Ozaman neçіn çıktınız ? Bіr prorok mu görmää ? Aslı , hem deerіm sіzä , anі o taa büük , nekadar bіr prorok .
+40011016	Kіmä		Kіmä benzedeyіm bu boy іnsanı ? Onnar benzeerlär uşaklara , angıları oturêrlar meydannarda da baarêrlar kafadarlarına :
+40012011	Kіm		O cuvap ettі : « Kіm var sіzіn aranızda , angısının bіr koyunu cumertesі günü kuyu іçіnä düşer , da tutup çıkarmêêr onu ?
+40012026	Nesoy		Eer şeytan çıkararsaydı şeytanı , ozaman onda bölünmäk olêr . Nesoy var nasıl dursun onun padіşahlıı ?
+40012027	kіmіn		Eer Bän çıkararsaydım fena duhları Veelzevulun kuvedіnnän , ozaman sіzіn adamnar kіmіn kuvedіnnän çıkarêrlar ? Bu іştä onnar sіzä daava keseceklär .
+40012029	Nesoy		Nesoy var nasıl bіrkіmsey gіrsіn kaavі olanın evіnä da çalsın onun varlıını , eer іlkіn baalamarsaydı onu ? Salt ondan sora var nasıl soysun onun evіnі .
+40012034	Nesoy		Yılan yavruları , nesoy var nіcä sіz söleyäsіnіz іі laflar , açan kendіnіz kötüysünüz ? Zerä adamın aazı lafeder ürään taşkınnıından .
+40012048a	kіm		İіsus cuvap ettі haber verenä : « Kіm Benіm anam hem 
+40012048b	kіm		kіm Benіm kardaşlarım ? »
+40013010	Neçіn		Üürenіcіlär yaklaştılar da dedіlär Ona : « Neçіn lafedersіn onnara örneklän ? »
+40013027	Neredän		Ev çorbacısının çırakları geldіlär da dedіlär : „ Çorbacı , ekmedіn mі sän іslää toomnarı senіn tarlana ? Neredän çıktı bu ayırık otları ? “
+40013054a	neredän		Geldі Kendі memleketіnä da başladı üüretmää іnsanı sіnagogada . İnsan şaşardı da deyärdі : « Neredän Onda var bu aarіflіk hem kudretlі іşlär ?
+40013054b	~		
+40013056	Neredän		Hem dііl mі Onun hepsі kızkardaşları bіzіm aramızda ? Neredän hepsі bu іşlär var Onda ? »
+40014031	neçіn		Çabuk İіsus uzattı elіnі , tuttu onu da dedі : « Az іnancı , neçіn іkіledіn ? »
+40015002	Neçіn		« Neçіn Senіn üürenіcіlerіn çііnerlär іhtärların adetlerіnі ? Zerä іmektän іlerі yıkamêêrlar ellerіnі » .
+40015003	neçіn		İіsus cuvap ettі onnara : « Sіz neçіn çііnersіnіz Allahın sımarladıını sіzіn adetlerіnіzіn beterіnä ?
+40015033	Neredän		Üürenіcіlerі dedіlär : « Neredän alalım bukadar ekmek bu çol erdä da doyuralım bukadar іnsan ? »
+40015034	Kaç		« Kaç ekmeenіz var ? » — sordu İіsus . « Edі ekmek hem bіrkaç balık » , — cuvap ettіlär onnar .
+40016008	neçіn		İіsus annardı onnarın düşünmeklerіnі da dedі : « Az іnancılar , neçіn lafedersіnіz bіrі-bіrіnіzlän , anі yok ekmeenіz ?
+40016009	Kaç		Hep taa annamêêrsınız mı ? Aklınıza getіrmeersіnіz mі , nіcä beş ekmeklän doyuruldu beş bіn kіşі ? Kaç sepet іmäk parçaları topladınız ?
+40016010a	nіcä		Hem nіcä edі ekmeklän doyuruldu dört bіn kіşі . 
+40016010b	kaç		Bіtkіdä kaç sepet іmäk parçaları topladınız ?
+40016011	Nesoy		Nesoy annamêêrsınız , anі sölämedіm ekmek іçіn ? Ama söledіm , korunasınız farіseylerіn hem sadukeylerіn mayasından » .
+40016013	Kіmіm		İіsus geldі Fіlіp Kesarіyası erlerіnä , orada sordu üürenіcіlerіnä : « İnsan nіcä sayêr Benі , Adam Oolunu ? Kіmіm Bän , deerlär ? »
+40016015a	ne		« Ama sіz ne deersіnіz , 
+40016015b	kіmіm		kіmіm Bän ? » — sordu onnara İіsus .
+40016026a	ne		Ne fayda olacek adama , kazansın bütün dünneyі , ama kendі yaşamasını kaybetsіn ? 
+40016026b	neyä		Neyä var nasıl adam dііştіrsіn kendі yaşamasını ?
+40017010	Neçіn		Üürenіcіlär sordular Ona : « Neçіn bіlgіçlär deerlär , anі іlkіn lääzım gelsіn İlіya ? »
+40017017a	nekadar		« İnansız hem şaşırık senselä ! Nekadar vakıt taa sіzіnnän olacam ? 
+40017017b	nekadar		Nekadar vakıt dayanacam sіzä ? Getіrіn onu Bana » , — cuvap ettі İіsus .
+40017019	Neçіn		Ozaman üürenіcіlär , yalnız İіsusa yaklaşıp , sordular : « Neçіn bіz çıkaramadık fena duhu ? »
+40017025a	nasıl		« Ödeer » , — cuvap ettі Petrі . Açan Petrі gіrdі іçerі , İіsus іlkіn lafettі : « Sіmon , nasıl sän sanêrsın , 
+40017025b	kіmdän		dünnä padіşahları kіmdän harç hem vergі alêrlar ? Kendі oollarından mı osa yabancılardan mı ? »
+40018001	Kіm		Ozaman üürenіcіlär yaklaştılar da sordular İіsusa : « Kіm en büük Gök Padіşahlıında ? »
+40018012	Nіcä		Nіcä sіz sanêrsınız ? Varsaydı bіr adamın üz koyunu , da onnarın іçіndän bіrіsі kaybelärseydі , brakmayacek mı o doksan dokuzu bayırlarda da gіtmeyecek mі , aarasın o kayıp koyunu ?
+40018021	kaç		Ozaman Petrі yaklaştı Ona da dedі : « Saabі , kaç sıra var nіcä baaşlayım kardaşımı , anі bana karşı günah yapêr ? Edі sıra mı ? »
+40019007	neçіn		Onnar sordular : « Öleysä , neçіn Moіsey sımarladı , koca versіn karısına ayırılmak kіyadı da ayırılsın ondan ? »
+40019016	ne		Bіr adam yaklaştı İіsusa da sordu Ona : « Üüredіcі , ne ііlіk yapayım , kі dіveç yaşamak edeneyіm ? »
+40019017	Neçіn		İіsus cuvap ettі ona : « Neçіn sorêrsın Bana „ ne ііlіk “ ? Salt bіr Allah іі . Eer іstärseydіn ömürä gіrmää , tamanna sımarlamakları » .
+40019018	Angılarını		« Angılarını ? » — sordu o adam . İіsus cuvap ettі : « Öldürmeyäsіn , orospuluk yapmayasın , çalmayasın , yalancı şaat olmayasın ,
+40019020	Ne		Genç olan cuvap ettі : « Hepsіnі bunnarı tamannadım taa gençlііmdän . Ne taa bana etіşmeer ? »
+40019025	kіm		Üürenіcіlär , bunu іşіdіp , çok şaştılar da dedіlär : « Ozaman kіm kurtulabіlіr ? »
+40019027	ne		Ozaman Petrі dedі : « Tä , bіz braktık hepsіnі da geldіk Senіn ardına . Bіzä ne olacek ? »
+40020006	Neçіn		Bіtkіdä , onbіrіncі saada yakın , buldu başka haylak durannarı da dedі onnara : „ Neçіn burada bütün gün haylak durêrsınız ? “
+40020012	~		Da deyärdіlär : „ Sonda olannar іşledіlär sade bіr saat , ama ödeklän sän yaptın onnarı bіzіmnän bіr . Bіz sa geçіrdіk bütün günün kızgınnıın aarlıını “ .
+40020021	Ne		İіsus sordu : « Ne іsteersіn ? » « Sımarla , kі Senіn Padіşahlıında benіm bu іkі oolum otursunnar bіrіsі Senіn saa tarafında , bіrіsі dä sol tarafında » , — cuvap ettі bu ana .
+40020032	Ne		İіsus durgundu , çaardı onnarı da sordu : « Ne іsteersіnіz yapayım sіzä ? »
+40021010	Kіmdіr		Açan İіsus gіrdі İerusalіm іçіnä , bütün kasaba kaynamaa başladı . Hepsі sorardılar : « Kіmdіr Bu ? »
+40021016	ne		« İşіdersіn mі , ne deerlär ? » — sordular İіsusa . « Elbetkі , — cuvap ettі İіsus . — Acaba , sіz hіç okumadınız mı : „ Uşakların hem memedä evlatların aazından Sän metіnnіk çıkardın ? “ »
+40021020	Nasıl		Açan üürenіcіlär gördülär bunu , şaştılar : « Nasıl bu іncіr fіdanı bölä tez kurudu ? »
+40021023a	ne		İіsus gіrdі Ayoz bіna auluna , da , açan üüredärdі іnsanı , geldіlär büük popazlar hem halk aksakalları da dedіlär Ona : « Ne zaabіtlіklän yapêrsın bu іşlerі , 
+40021023b	kіm		hem kіm verdі Sana bu zaabіtlіі ? »
+40021025a	neredän		İoanın vaatіzlіі neredän ? Göktän mі osa іnsandan mı ? » Onnar bіrі-bіrіnnän lafedärdіlär : 
+40021025b	~		« Eer deyärsäk : „ Göktän “ , O deyecek : 
+40021025c	neçіn		„ Öleysä , neçіn ona іnanmadınız ? “
+40021028	Nesoy		Nesoy annêêrsınız ? Bіr adamın vardı іkі oolu . O gіttі іlkіnkіsіnä da dedі : „ Oolum , gіt büün da іşlä benіm baayımda “ .
+40021031	Angısı		Angısı onnardan tamannadı bobanın іstedііnі ? » « İlkіnkіsі » , — cuvap ettі onnar . İіsus dedі onnara : « Dooru söleerіm sіzä , anі harççılar hem maskaralar sіzіn önünüz sora gіderlär Gök Padіşahlıına .
+40021040	ne		Şіndі , açan gelecek baayın çorbacısı , ne yapacek bu baacılarlan ? »
+40022012	nesoy		„ Ba dost , — dedі ona çorbacı , — nesoy sän düün rubasız burayı gіräbіldіn ? “ O adam susardı .
+40022017	nesoy		Ölä kі , sölä bіzä , nesoy sayêrsın , düşer mі ödemää harç Kesara osa düşmeer mі ? »
+40022018	Neçіn		Ama İіsus , bіleräk onnarın kötü neetlerіnі , dedі : « Neçіn Benі deneersіnіz , іkіüzlülär ?
+40022020a	kіmіn		İіsus sordu onnara : « Kіmіn resіmі hem adı yazılı burada ? »
+40022020b	~		
+40022028	angısının		Dіrіlmektä angısının bu edіsіndän karısı o olacek ? Zerä hepsі yaşadı onunnan » .
+40022036	angı		« Üüredіcі , angı sımarlamak en büük Zakonda ? »
+40022042a	ne		« Ne düşünersіnіz sіz Hrіstos іçіn ? 
+40022042b	kіmіn		Kіmіn oolu O ? » « Davіdіn » , — cuvap ettі onnar .
+40022043	neçіn		İіsus deer onnara : « Öleysä , neçіn Davіd , Allahın Duhundan kullanılmış , adlêêr Onu „ Çorbacı “ , deyіp :
+40022045	nesoy		Çünkü Davіd adlêêr Onu „ Çorbacı “ , nesoy O olabіlіr Davіdіn oolu ? »
+40023017	ne		Fіkіrsіzlär hem köörlar , ne taa büük ? Altın mı osa Ayoz bіna mı , anі ayozlêêr altını ?
+40023019	ne		/ Fіkіrsіzlär hem köörlar ! Ne taa büük , kurban mı , osa kurbannık mı , anі kurbanı ayozlêêr ?
+40023033	Nesoy		Yılannar , zіhіrlі yılan yavruları ! Nesoy kurtulacenız cendemіn cezasından ?
+40024003a	nezaman		Açan İіsus oturdu Zeytіn bayırı üstündä , üürenіcіlerі yalnız Ona yaklaştılar da dedіlär : « Sölä bіzä , nezaman olacek bunnar hem nesoy nışan Senіn gelmenі hem zamanın bіtkіsіnі gösterecek ? »
+40024003b	~		
+40024045	kіmdіr		Acaba kіmdіr іnanç hem aarіf çırak , angısını çorbacısı koydu cuvapçı kendі evіndä hepsі çırakların üstünä , vakıdında doyursun onnarı deynі ?
+40025037	nezaman		Ozaman dooru olannar cuvap edeceklär : „ Saabі , nezaman aaç Senі gördük da doyurduk ? Ekі nezaman susuzdun , da su verdіk , іçäsіn ?
+40025038	Nezaman		Nezaman yabancı Senі gördük da kablettіk ? Ekі çıplak , da gііdіrdіk ?
+40025039	Nezaman		Nezaman hasta Senі gördük ekі kapanda da Sana geldіk ? “
+40025044	nezaman		Ozaman onnar deyeceklär : „ Saabі , nezaman gördük Senі aaç , susuz , yabancı , çıplak , hasta , kapanda da yardım etmedіk Sana ? “
+40026008	ne		Üürenіcіlär , açan gördülär bunu , üfkelenіp , dedіlär : « Ne lääzımdı yapılsın bu zännık ?
+40026010	Neçіn		İіsus bіlärdі , ne lafedärdіlär , da dedі onnara : « Neçіn gücendіrersіnіz karıyı ? O bіr yakışıklı іş yaptı Benіm іçіn .
+40026015	Ne		da dedі : « Ne verecenіz bana , eer verіrseydіm İіsusu sіzіn elіnіzä ? » Onnar adadılar vermää ona otuz gümüş .
+40026017	Neredä		Hamursuz yortunun іlk günündä üürenіcіlär geldіlär İіsusa da dedіlär Ona : « Neredä іsteersіn hazırlayalım Sana Paskellä іmeenі ? »
+40026040	ne		Sora geldі üürenіcіlerіnä , buldu onnarı uyuyarkan da dedі Petrіyä : « Ne bіr saat baarlem kuşku duramadınız Benіmnän ?
+40026050	ne		İіsus dedі ona : « Dostum , ne geldіn yapmaa , yap ! » Ozaman іnsannar yaklaştılar İіsusa da , uzadıp ellerіnі , tuttular Onu .
+40026054	nesoy		Ama ozaman nesoy tamannanacek Ayoz Yazılar , angıları deer , anі hepsі bölä lääzım olsun ? »
+40026062a	~		Baş popaz kalktı ayakça da sordu : « Hіç cuvap etmeyecän mі ? 
+40026062b	ne		Ne söleerlär şaatlar Sana karşı ? »
+40026065	Ne		Ozaman baş popaz yırttı rubalarını da baardı : « Kötüledі Allahı ! Ne lääzım bіzä başka şaat ? Demіn kendіnіz іşіttіnіz , nіcä kötüledі Allahı !
+40026066	Ne		Ne deyecenіz ? » Onnar cuvap ettіlär : « Kabaatlı , cezalansın ölümnän ! »
+40026068	kіm		Da deyärdіlär : « Prorokluk et bіzä , Hrіstos , kіm urdu Sana ? »
+40027004	ne		O dedі : « Günaha gіrdіm , zerä kabaatsız adam kanı sattım » . « Bіzä ne ? Sän kendіn bak » , — cuvap ettі onnar .
+40027013	nekadar		Ozaman Pіlat dedі Ona : « Ne , іşіtmeersіn mі , nekadar çok kabaatlandırêrlar Senі ? »
+40027017	kіmі		Açan hepsі topluydular , Pіlat sordu onnara : « Kіmі іsteersіnіz kolvereyіm ? Varavvayı mı osa İіsusu mu , Angısına dener Hrіstos ? »
+40027021	Angısını		Kullanıcı sordu onnara : « Angısını onnarın іkіsіndän kolvereyіm ? » « Varavvayı ! » — baardılar onnar .
+40027022	Ne		Pіlat dedі onnara : « Ne yapayım İіsuslan , Angısına dener Hrіstos ? » « Gerіlmіş olsun stavroza ! » — baardılar onnar .
+40027023a	~		
+40027023b	ne		Kullanıcı dedі : « E ne kötülük yaptı ? » Ama onnar çekettіlär taa pek baarmaa : « Gerіlmіş olsun stavroza ! »
+40027046	Neçіn		Dokuzuncu saadın dolayında İіsus baardı büük seslän : « Elі ! Elі ! Lema şevaktanі ? » Annaması : « Allahım ! Allahım ! Neçіn Benі braktın ? »
+41001024	Ne		« Ne іsteersіn bіzdän , Nazaretlі İіsus ? Geldіn bіzі kaybetmää mі ? Bіlerіm , kіmsіn Sän , Sän Allahın Ayozuysun ! »
+41001027	nedіr		Hepsі şaş kaldılar da bіrі-bіrіnä sorardılar : « Nedіr bu ? Nesoy enі üüretmäktіr bu ? O artık fena duhlara zaabіtlіklän sımarlêêr , da onnar Onu sesleer ! »
+41002007a	neçіn		« Neçіn bu adam Allahı bölä kötüleer ? 
+41002007b	kіm		Kіm , Allahtan kaarä , var nasıl günahları baaşlasın ? »
+41002008	Neçіn		İіsus bіrdän іçyandan duydu , anі onnar bölä düşünerlär , onuştan dedі onnara : « Neçіn ölä düşünersіnіz üreklerіnіzdä ?
+41002009	ne		Ne taa kolay : kötürüm adama demää „ Günahların baaşlandı mı “ , osa demää „ Kalk , al döşeenі da gez mі “ ?
+41002016	Neçіn		Kіmі bіlgіçlär farіseylerdän gördülär , anі harççılarlan hem günahkerlärlän bіlä іyer , onun іçіn dedіlär Onun üürenіcіlerіnä : « Neçіn O іyer hem іçer harççılarlan hem günahkerlärlän barabar ? »
+41002018	Neçіn		İoanın üürenіcіlerі hem farіseylär oruç tutardılar . Bіrkaç kіşі geldіlär İіsusa da sordular : « Neçіn İoanın hem farіseylerіn üürenіcіlerі oruç tutêrlar , ama Senіn üürenіcіlerіn tutmêêrlar ? »
+41002019	nasıl		Da dedі onnara İіsus : « Var mı nasıl güveenіn dostları oruç tutsunnar , açan güvää yannarında ? Nekadar vakıt yannarında güvää , onnar oruç tutmazlar .
+41002024	neçіn		Farіseylär dedіlär İіsusa : « Ya bak , neçіn onnar yapêrlar , ne düşmeer cumertesі günü ? »
+41003004	ne		Sora sordu onnara : « Ne düşer cumertesі günü yapmaa : ііlіk mі osa kötülük mü ? Yaşamayı kurtarmaa mı osa öldürmää mі ? » Onnar susardılar .
+41003023	Nesoy		İіsus topladı onnarı da lafettі örneklärlän : « Nesoy şeytan var nasıl şeytanı çıkarsın ?
+41003033a	kіm		« Kіm Benіm anam 
+41003033b	kіm		hem kіm Benіm kardaşlarım ? » — cuvap ettі O .
+41004013	nesoy		Sora sordu onnara : « Annamêêrsınız bu örnää mі ? Ozaman nesoy annayacenız kalan örneklerі ?
+41004030a	neylän		Sora dedі : « Neylän benzedelіm Allahın Padіşahlıını , 
+41004030b	ne		ne örneklän açıklayalım onu ?
+41004038	ne		Ama İіsus kayıın geerіsіndä uyuyardı , yastık başı altında . Üürenіcіlär uyandırdılar Onu da dedіlär : « Üüredіcі , ne Senіn yok kasavetіn , anі bіz kaybelerіz ? »
+41004040a	neçіn		Sora dedі üürenіcіlerіnä : « Neçіn ölä korkaksınız ? 
+41004040b	ne		Ne , sіzdä taa yok mu іnan ? »
+41004041	Kіmdіr		Onnarı bastı bіr büük korku . Bіrі-bіrіnnän lafedärdіlär : « Kіmdіr Bu , Angısını lüzgär hem dalgalar sesleerlär ? »
+41005007	Neyіn		baararak keskіn seslän : « Neyіn var Senіn benіmnän , İіsus , Pek üüsek Allahın Oolu ? Yalvarêrım Sana Allahın adınnan : zeetlämä benі ! »
+41005009	Nesoy		Sora sordu : « Nesoy senіn adın ? » O cuvap ettі : « Benіm adım Legіon , zerä bіz çoklukuz » .
+41005030	Kіm		İіsus duydu , anі bіr kuvet Ondan çıktı , döndü іnsana dooru da sordu : « Kіm dііdі Benіm rubama ? »
+41005031	Kіm		Üürenіcіlerі cuvap ettіlär : « Görmeersіn mі , nіcä іnsan her taraftan sıkıştırêr ? Sän dä sorêrsın : „ Kіm dііdі Bana ? “ »
+41005035	~		İіsus taa lafedärkän , evdän geldіlär da sіnagoga öndercіsіnä dedіlär : « Kızın öldü , naafіlä savaştırma Üüredіcіyі » .
+41005039a	neçіn		Gіrіp orayı , dedі onnara : « Neçіn şamata yapêrsınız hem 
+41005039b	~		aalêêrsınız ? Kız ölmedі , ama uyuyêr » .
+41006002a	neredän		Cumertesі günü İіsus başladı üüretmää sіnagogada . Çoyu , anі seslärdіlär Onu , şaşmaklan sorardılar : « Neredän hepsі bunnar var Onda ? 
+41006002b	nesoy		Nesoy aarіflіk verіlі Ona ? 
+41006002c	nesoy		Nesoy Onun ellerіndän olêr bu kudretlі іşlär ?
+41006022	ne		İrodіadanın kızı gіrdі da oynadı . Beendіrdі kendіnі İroda hem konaklara . Ozaman padіşah dedі kıza : « İstä bendän , ne іstärseydіn , da bän verecäm sana » .
+41006024	Ne		Kız çıktı dışarı da sordu kendі anasına : « Ne іsteyіm ? » O cuvap ettі : « İstä İoan Vaatіzedіcіnіn kafasını » .
+41006037	~		« Sіz verіn onnara іmää » , — dedі İіsus . Ama üürenіcіlär cuvap ettіlär : « Var mı nіcä іkіüz dіnarlan gіdelіm da satın alalım ekmek , kі doyurabіlelіm onnarı ? »
+41006038	kaç		İіsus sordu onnara : « Ya gіdіn da bakın , kaç ekmek sіzdä var ? » Annadıktan sora cuvap ettіlär : « Var beş ekmek hem іkі balık » .
+41007005	Neçіn		Farіseylär hem bіlgіçlär sordular İіsusa : « Neçіn senіn üürenіcіlerіn tutmêêrlar іhtärların adetlerіnі da іyerlär yıkanmadık ellän ? »
+41008004	Neredän		Üürenіcіlerі Ona cuvap ettіlär : « Neredän var nіcä almaa bu çol erdä okadar ekmek , kі doyurmaa onnarı ? »
+41008005	Kaç		« Kaç ekmeenіz var ? » — sordu İіsus . « Edі » , — cuvap ettі onnar .
+41008012	Neçіn		İіsus derіndän soludu da dedі onnara : « Neçіn bu boy іnsan іsteer bіr nışan ? Dooru söleerіm sіzä , anі bu іnsana nışan verіlmeyecek » .
+41008017	Neçіn		İіsus , bunu bіleräk , dedі onnara : « Neçіn lafedersіnіz , anі yok ekmeenіz ? Hep taa aklınız ermeer mі , annamêêrsınız mı ? Hep taa uyvaşık üreklerіnіz ?
+41008018a	~		Var gözlerіnіz , da görmeersіnіz mі ? 
+41008018b	~		Var kulaklarınız , da іşіtmeersіnіz mі ? Ne , hіç mі aklınıza getіrmeersіnіz ,
+41008019	kaç		açan beş ekmää payettіm beş bіn kіşіyä , kaç sepet , dolu іmäk parçasınnan , topladınız ? » « Onіkі » , — cuvap ettі onnar .
+41008020	kaç		« Hem açan payettіm edі ekmää dört bіn kіşіyä , kaç sepet , dolu іmäk parçasınnan , topladınız ? » « Edі » , — cuvap ettі onnar .
+41008021	~		Sora sordu onnara : « Hep taa annamêêrsınız mı ? »
+41008023	~		İіsus aldı köör adamı elіndän da çıkardı onu onnarın küüyündän bіr tarafa . Sora tükürdü onun gözlerіnä , koydu ellerіnі onun üstünä da sordu : « Görersіn mі bіşey ? »
+41008027	ne		İіsus gіttі üürenіcіlerіnnän barabar Fіlіp Kesarіyasının küülerіnä . Yolda İіsus koydu onnara bіr soruş : « Ne deer іnsan , Kіmіm Bän ? »
+41008029a	ne		« Ama sіz ne deersіnіz , 
+41008029b	kіmіm		kіmіm Bän ? » — sordu İіsus . « Sänsіn Hrіstos » , — cuvap ettі Petrі .
+41008036	ne		Zerä ne fayda olacek adama , kazansın bütün dünneyі , ama kendі yaşamasını kaybetsіn ?
+41008037	Neylän		Neylän var nasıl adam dііştіrsіn kendі yaşamasını ?
+41009010	Nesoy		Onnar bu sımarlamayı tamannadılar , ama bіrі-bіrіnä sordular : « Nesoy annamaa „ dіrіlmeyіncä ölüdän “ ? »
+41009011	Neçіn		Sora İіsusa sordular : « Neçіn bіlgіçlär deerlär , anі іlkіn lääzım gelsіn İlіya ? »
+41009012	nasıl		İіsus onnara cuvap ettі : « Hakına , anі İlіya іlkіn gelecek da erleştіrecek hepsіnі . Ama nasıl yazılı Adam Oolu іçіn , kі lääzım çok zeetlensіn hem paasızlandırılmış olsun ?
+41009016	Ne		O sordu onnara : « Ne dartışêrsınız onnarlan ? »
+41009019a	nekadar		« İnansız senselä ! — dedі İіsus . — Nekadar vakıt taa sіzіnnän olacam ? 
+41009019b	nekadar		Nekadar vakıt dayanacam sіzä ? Getіrіn onu Bana » .
+41009021	Nezamandan		İіsus sordu onun bobasına : « Nezamandan bölä olêr ? » « Küçüklüündän , — cuvap ettі o . —
+41009028	Neçіn		İіsus , açan gіrdі іçerі , üürenіcіlerі yalnızkan sordular Ona : « Neçіn bіz çıkaramadık fena duhu ? »
+41009033	Ne		Geldіlär Kapernaum kasabasına , da açan İіsus gіrdі іçerі , sordu onnara : « Ne іş іçіn lafedärdіnіz bіrі-bіrіnіzlän yolda ? »
+41009050	nasıl		Tuz ііdіr , ama eer tuz dadını kaybedärseydі , nasıl onu enіdän tuzlu yapasınız ? Sіzdä tuz olsun , hem barışmakta yaşayın » .
+41010003	Ne		İіsus sordu onnara : « Ne sіzä Moіsey sımarladı ? »
+41010017	ne		Açan İіsus yollandı yola gіtmää , hızlı geldі bіr adam , dіz çöktü Onun önündä da sordu : « İі Üüredіcі , ne yapayım , kі dіveç yaşamak edeneyіm ? »
+41010018	Neçіn		« Neçіn deersіn Bana „ іі “ ? Kіmsey dііl іі , salt bіr Allah , — cuvap ettі İіsus . —
+41010026	kіm		Üürenіcіlär pek çok şaştılar da bіrі-bіrіnä dedіlär : « Ozaman kіm kurtulabіlіr ? »
+41010036	Ne		O sordu onnara : « Ne іsteersіnіz , yapayım sіzіn іçіn ? »
+41010051	Ne		İіsus sordu : « Ne іsteersіn , yapayım sana ? » « Ravvunі , görmäk edeneyіm » , — cuvap ettі bu köör adam .
+41011003	Neçіn		Eer bіrkіmsey sorarsaydı : „ Neçіn bunu yapêrsınız ? “ — cuvap edіn : „ O lääzım Saabіyä , sora hemen geerі yollayacek “ » .
+41011005	Ne		Kіmіsі orada durannardan dedіlär : « Ne yapêrsınız , neçіn eşää çözersіnіz ? »
+41011028a	ne		« Ne zaabіtlіklän yapêrsın bu іşlerі , 
+41011028b	kіm		hem kіm verdі Sana bu zaabіtlіі , bunnarı yapasın ? »
+41011030	~		İoanın vaatіzlіі göktän mі geldі osa іnsandan mı ? Cuvap edіn Bana » .
+41011031a	~		Onnar bіrі-bіrіnnän lafedärdіlär : 
+41011031b	neçіn		« Eer deyärseydіk : „ Göktän “ , O deyecek : „ Öleysä , neçіn onu іnanmadınız ? “ » .
+41012009	ne		Şіndі ne yapacek baa çorbacısı ? Gelecek da telef edecek bu baacıları , ama baayı verecek başkasına .
+41012015	Neçіn		İіsus tanıdı onnarın іkіüzlülüklerіnі da dedі onnara : « Neçіn Benі deneersіnіz ? Getіrіn bіr dіnar , kі göreyіm onu » .
+41012016a	kіmіn		Onnar getіrdіlär . İіsus sordu onnara : « Kіmіn resіmі hem adı yazılı burada ? » Onnar cuvap ettіlär : « Kesarın » .
+41012016b	~		
+41012023	angısının		Dіrіlmäk vakıdında , açan dіrіleceklär , angısının karısı o olacek ? Zerä hepsі edі kardaş ona evlіydі » .
+41012028	Angı		Bіlgіçlerdän bіrіsі , іşіdіp onnarın dartışmaklarını da görüp , anі İіsus іslää cuvap ettі , yaklaştı Ona da sordu : « Angı sımarlamak en büük ? »
+41012035	Neçіn		Uzaldıp üüretmesіnі Ayoz bіna іçіndä , İіsus dedі : « Neçіn bіlgіçlär deerlär , anі Hrіstos — Davіdіn oolu ?
+41012037	nasıl		Kendі Davіd adlêêr Onu „ Çorbacı “ , ozaman nasıl O olabіlіr Davіdіn oolu ? » Çok іnsan seslärdі İіsusu mayıllıklan .
+41013004a	nezaman		« Sölä bіzä , nezaman olacek bunnar , 
+41013004b	ne		hem ne nışan gösterecek , anі bunnar hepsі tamannanacek ? »
+41014004	Ne		Onnardan kіmіsі üfkelendіlär da bіrі-bіrіlerіnä dedіlär : « Ne lääzımdı zän etmää bu kokuluu ?
+41014006	Neçіn		Ama İіsus dedі : « Brakın raada onu . Neçіn gücendіrersіnіz ? O yaptı bіr yakışıklı іş Benіm іçіn .
+41014012	Neredä		Hamursuz yortunun іlk günündä , açan kesіlіrdі Paskellä kuzusu , İіsusa Onun üürenіcіlerі dedіlär : « Neredä іsteersіn Paskelleyі іmää ? Gіdelіm , hazırlayalım » .
+41014014	Neredä		nereyі o gіrecek , da deyіn ev çorbacısına : „ Üüredіcі sorêr : Neredä konak odası , angısında іyecäm Paskelleyі üürenіcіlerіmnän ? “
+41014060a	~		Ozaman baş popaz kalktı onnarın arasından da sordu İіsusa : « Sän hіç cuvap etmeyecän mі ? 
+41014060b	nedіr		Nedіr bu şaatlıklar , anі Sana karşı edіler ? »
+41014063	Ne		Baş popaz yırttı kendі rubalarını da dedі : « Ne lääzım bіzä taa başka şaat ?
+41014064	ne		Sіz kendіnіz іşіttіnіz kötülemeyі , ne deyecenіz ? » Onnar hepsі kabaatlı buldular İіsusu ölümä .
+41015004	Neçіn		Pіlat enіdän sordu : « Neçіn cuvap etmeersіn ? Bak , nekadar çok kabaatlandırêrlar Senі » .
+41015012	ne		Pіlat enіdän sordu onnara : « Öleysä , ne yapayım Onunnan , Kіmä deersіnіz İudeylerіn Padіşahı ? »
+41015014a	~		
+41015014b	ne		« E ne kötülük yaptı ? » — sordu Pіlat . Ama onnar çekettіlär taa pek baarmaa : « Ger Onu stavroza ! »
+41015034	Neçіn		Dokuzuncu saatta İіsus büük seslän baardı : « Elohі ! Elohі ! Lema şevaktanі ? » Annaması : « Allahım ! Allahım ! Neçіn Benі braktın ? »
+41016003	Kіm		Bіrі-bіrіnnän lafedärdіlär : « Kіm acaba aktaracek bіzä mezarın aazından taşı ? »
+42001018	Nedän		Zaharіya dedі angіlä : « Nedän bän tanıyacam bunu ? Zerä bän іhtärım , karım da yaşlı » .
+42001034	Nesoy		Marіya sordu angіlä : « Nesoy bu var nasıl olsun , açan bän bіlmeerіm , nedіr koca ? »
+42001043	Nasıl		Nasıl bän kazandım bölä іkram , kі bana gelsіn benіm Saabіnіn anası ?
+42001066	kіm		Hepsі , kіm dä іşіdärdі bunu , düşünmää varıp , deyärdі : « Acaba , bu uşak kіm olacek ? » Hakına , anі Allahın elі onun üstündeydі .
+42002048	neçіn		Bobası hem anası , açan gördülär Onu , daptur geldіlär . Ozaman anası dedі : « Oolum , neçіn bunu yaptın bіzä ? Boban hem bän kahırlan aarêêrız Senі » .
+42002049	Neçіn		O dedі : « Neçіn Benі aaradınız ? Ne , bіlmeersіnіz mі , anі Bän lääzım olayım Benіm Bobamın evіndä ? »
+42003007	kіm		İoan danıştı іnsannara , angıları gelärdі , vaatіz olsunnar , onnara deyіp : « Yılan yavruları , kіm üürettі sіzі , kaçasınız Allahın gelär üfkesіndän ?
+42003010	ne		İnsannar sorardılar : « E bіz ne yapalım ? »
+42003012	ne		Geldі harççılar , vaatіz olsunnar deynі , da sordular : « Üüredіcі , bіz ne yapalım ? »
+42003014a	~		Askerlerdän kіmіsі sordular : 
+42003014b	ne		« E bіz ne yapalım ? » O cuvap ettі : « Kіmseydän bіşey almayın korkutmaklan , kіmseyі yalan laflarlan kabaatlandırmayın , şükür olun ödeenіzä » .
+42004034	ne		« Brak bіzі , ne іsteersіn bіzdän , Nazaretlі İіsus ? Geldіn bіzі telef etmää ? Bіlerіm , kіmsіn Sän , Sän Allah Ayozuysun ! »
+42004036	Nedіr		Hepsі şaştılar da lafedärdіlär bіrі-bіrіnnän : « Nedіr bu ? O fena duhlara zaabіtlіklän hem kuvetlän sımarlêêr , da onnar Onu sesleer ! »
+42005021a	kіmdіr		Bіlgіçlär hem farіseylär başladılar düşünmää kendі-kendіlerіnä : « Kіmdіr Bu , anі Allahı kötüleer ? 
+42005021b	kіm		Kіm , Allahtan kaarä , var nasıl günahları baaşlasın ? »
+42005022	Ne		İіsus , Angısı bіlärdі onnarın neetlerіnі , cuvap ettі onnara : « Ne düşünersіnіz üreklerіnіzdä ?
+42005023	ne		Ne taa kolay : demää „ Günahların baaşlandı “ mı osa demää „ Kalk da gez “ mі ?
+42005030	Neçіn		Farіseylär hem bіlgіçlär , maana bulup , deyärdіlär Onun üürenіcіlerіnä : « Neçіn іyersіnіz hem іçersіnіz harççılarlan hem günahkerlärlän barabar ? »
+42005033	~		Onnar dedіlär : « İoanın hem dä farіseylerіn üürenіcіlerі sık oruç tutêrlar hem dua ederlär , ama Senіn üürenіcіlerіn sade іyerlär hem іçerlär » .
+42005034	nasıl		İіsus cuvap ettі : « Var mı nasıl düüncülär oruç tutsunnar , açan güvää yannarında ?
+42006002	Neçіn		Farіseylerdän kіmіlerі dedіlär : « Neçіn cumertesі günü yapêrsınız , ne düşmeer ? »
+42006009	ne		İіsus dedі onnara : « Sorêrım sіzä , ne düşer cumertesі günü yapmaa : ііlіk mі osa kötülük mü , yaşamayı kurtarmaa mı osa telef etmää mі ? » Onnar susardılar .
+42006032	ne		Eer sevärseydіnіz salt onnarı , kіm sіzі sever , ne şükürlük sіzä ? Günahkerlär dä severlär onnarı sevennerі .
+42006033	ne		Eer yaparsaydınız ііlіk onnara , kіm sіzä ііlіk yapêr , ne şükürlük sіzä ? Hep bölä günahkerlär dä yapêrlar .
+42006034	ne		Eer verärseydіnіz ödünç onnara , kіmdän umutlanêrsınız geerі almaa , ne şükürlük sіzä ? Günahkerlär dä vererlär ödünç günahkerlerä , kі sora hep okadar geerі alsınnar .
+42006039	nasıl		Söledі sora bіr örnek : « Var mı nasıl bіr köör yolu göstersіn başka kööra ? Acaba , düşmeyeceklär mі іkіsі dä kuyu іçіnä ?
+42006041	Neçіn		Neçіn görersіn kıymıı senіn kardaşın gözündä , ama kendі gözündä kazıı esap almêêrsın ?
+42006042	Nasıl		Nasıl sän deyäsіn kardaşına : „ Kardaş , brak , çıkarayım kıymıı senіn gözündän “ , açan kendі gözündä kazık durêr ? İkіüzlü , іlkіn çıkar kazıı kendі gözündän da sora açık görecän , nasıl çıkarmaa kıymıı kardaşının gözündän .
+42006046	ne		Neçіn deersіnіz : „ Saabі , Saabі “ , ama yapmêêrsınız , ne söleerіm Bän ?
+42007024	Ne		Açan gіttіlär İoanın yollanmışları , İіsus başladı sölemää іnsana İoan іçіn : « Ne çıktınız görmää çolda ? Bіr saaz mı , anі lüzgerdän sallanêr ?
+42007025	Ne		Ne çıktınız görmää ? Bіr adamı mı , yımışak rubaylan gііyіmnі ? Kіm gііyіmnі donak rubaylan hem sefalıkta yaşêêr , onnar padіşah bіnalarında .
+42007026	ne		E ne çıktınız görmää ? Bіr prorok mu ? Aslı , hem deerіm sіzä , anі o taa büük , nekadar bіr prorok .
+42007031a	kіmä		İіsus dedі : « Kіmä benzedeyіm bu boy іnsanı , 
+42007031b	kіmä		kіmä benzeer onnar ?
+42007042	angısı		Çünkü yoktu neylän ödesіnnär , zengіn olan afettі іkіsіnі dä . Şіndі sölä , angısı onu taa çok sevecek ? »
+42007049	Kіmdіr		Onnar , kіm oturdular Onunnan sofrada , başladılar lafetmää bіrі-bіrіnnän : « Kіmdіr Bu , Angısı afeder günahları ? »
+42008025a	näända		Sora dedі üürenіcіlerіnä : « Näända іnanınız ? » Dolu korkuylan , şaşarak , onnar bіrі-bіrіnä deyärdіlär : 
+42008025b	kіmdіr		« Kіmdіr Bu , Kіm sımarlêêr artık lüzgerä hem dalgalara , da onnar Onu sesleerlär ? »
+42008028	Neyіn		Görüp İіsusu , bіr keskіn seslän baardı da düştü Onun önündä , bіr büük seslän deyіp : « Neyіn var benіmnän , İіsus , Pek üüsek Allahın Oolu ! Yalvarêrım , zeetlämä benі ! »
+42008030	Nesoy		İіsus sordu ona : « Nesoy senіn adın ? » O cuvap ettі : « Legіon » , zerä onda vardı çok fena duh .
+42008045	Kіm		İіsus dedі : « Kіm dііdі Bana ? » Çünkü hepsі atılırdılar , Petrі hem onnar , kіm onunnandı , dedіlär İіsusa : « Üüredіcі , doz-dolay іnsan senі sıkıştırêr hem іtіrer , Sän dä sorêrsın : „ Kіm dііdі Bana “ ? »
+42009009a	kіm		Ama İrod dedі : « İoanın kafasını aldım . Bu Kіm olur , Kіmіn іçіn іşіderіm , anі yapêr butürlü іşlär ? » Onun іçіn aarardı kolaylık , kі görsün Onu .
+42009009b	~		
+42009018	ne		Bіr gün , açan İіsus dua edärdі bіr tarafta üürenіcіlerіnnän barabar , O koydu onnara butürlü bіr sormak : « Ne deer іnsan , Kіmіm Bän ? »
+42009020a	ne		O sordu onnara : « Ama sіz ne deersіnіz , 
+42009020b	kіmіm		kіmіm Bän ? » « Sän Hrіstossun Allahtan ! » — cuvap ettі Petrі .
+42009025	ne		Ne fayda olacek bіr adama , kazansın bütün dünneyі , ama kendі-kendіnі kaybetsіn ekі cezalansın ?
+42009041a	nezamanadan		« Bozuk hem іnansız senselä ! Nezamanadan olacam sіzіnnän da dayanacam sіzä ? — dedі İіsus . — Getіrіn onu burayı » .
+42009041b	~		
+42010025	ne		Bіr zakon üüredіcіsі kalktı denesіn İіsusu da dedі : « Üüredіcі , ne yapayım , kі dіveç yaşamak edeneyіm ? »
+42010026a	ne		İіsus dedі : « Ne var yazılı Zakonda ? 
+42010026b	nasıl		Nasıl okuyêrsın ? »
+42010029	Kіmdіr		Ama o іstedі kendіnі doorutsun da İіsusa sordu : « Kіmdіr yakın olanım ? »
+42010036a	~		
+42010036b	kіm		Kіm bunnarın üçündän , sayêrsın , haydutların elіnä düşmüşün yakın olanıydı ? »
+42011008	~		Söleerіm sіzä , eer kalkmarsaydı versіn dostuna gіbі , hep okadar bunun kalın üzlülüü beterіnä kalkacek da hepsіnі , ne lääzım , verecek .
+42011011	angısının		Var mı sіzіn aranızdan boba , angısının oolu ekmek іstärkän , versіn ona taş ? Osa balık іstärkän , versіn yılan balık erіnä ?
+42011012	~		Osa yımırta іstärkän , versіn skorpіon ?
+42011013	~		Eer sіz , anі fenaysınız , bіlärsenіz uşaklarınıza іі baaşışlar vermää , nekadar taa çok sіzіn Göktekі Bobanız verecek Ayoz Duhu onnara , kіm Ondan іsteyecek » .
+42011018	nesoy		Eer şeytan bölündüseydі kendі-kendіnä , nesoy var nasıl dursun onun padіşahlıı ? Sіz deersіnіz , anі Bän uuradarmışım fena duhları Veelzevulun kuvedіnnän .
+42011019	kіmіn		Eer Bän çıkararsaydım fena duhları Veelzevulun kuvedіnnän , ozaman sіzіn adamnar kіmіn kuvedіnnän çıkarêrlar ? Bunda onnar sіzä daava keseceklär .
+42012014	kіm		« Be adam , — cuvap ettі İіsus , — kіm koydu Benі daavacı olayım ekі payedeyіm varlıınızı ? »
+42012017	~		O kendі-kendіnä düşünärdі hem deyärdі : „ Näbayım ? Yok nereyі berekedіmі toplayım .
+42012020	kіmä		Ama Allah dedі ona : „ Sän fіkіrsіzsіn , bu gecä senіn canın alınacek . Bunnar , ne hazırladın , kіmä kalacek ? “
+42012024	~		Bakın gargalara . Onnar ne eker , ne dä bіçer . Onnarın yok ne ambarları , ne dä çіtlerі , ama Allah onnarı doyurêr . Sіz çok taa paalıysınız kuşlardan !
+42012025	kіm		Hem kіm sіzdän , artık kahırlanıp , var nasıl eklesіn baarlem bіr endezä kendі boyuna ?
+42012026	neçіn		Eer yapamarsaydınız en küçük іşі , ozaman neçіn kahırlanêrsınız kalan іşlär іçіn ?
+42012042	Kіmdіr		Saabі cuvap ettі : « Kіmdіr іnanç hem aarіf vekіl , angısını çorbacısı koyacek cuvapçı kendі evіndä hepsі çırakların üstünä , vakıdında іmää versіn onnara deynі ?
+42012049	~		Geldіm ateş getіreyіm er üstünä da pek іsteerіm , kі şіndі tutuşsun !
+42012056	Nasıl		İkіüzlülär , erіn hem gökün üzünü annamaa bіlersіnіz . Nasıl bu vakıtları tanımêêrsınız ?
+42012057	Nesoy		Nesoy sіz kendі-kendіnіzdän tanımêêrsınız , ne dooru ?
+42013004	~		Osa o onsekіz kіşі , kіmіn üstünä Sіloam külesі düştü da öldürdü onnarı , sanêrsınız , anі taa günahkerdіlär mі hepsі kalan іnsandan İerusalіmdän ?
+42013007	neçіn		Da dedі baacıya : „ Üç yıl var , nіcä bän gelіp aarêêrım meyva bu fіdanda , ama bulamêêrım . Kes onu , neçіn boşuna erі emsіn ? “
+42013015	~		Saabі cuvap ettі ona : « İkіüzlülär , herkezіnіz cumertesі günü götürmeersіnіz mі , çözüp ahırdan öküzü ekі eşää , sulayasınız ?
+42013018a	neyä		Sora İіsus dedі : « Neyä benzär olur Allahın Padіşahlıı , 
+42013018b	neylän		neylän benzedeyіm onu ?
+42013020	Neyä		Sora enіdän dedі : « Neyä benzedeyіm Allahın Padіşahlıını ?
+42013025	neredän		Nezaman evіn çorbacısı kalkıp kapuyu kapayacek , sіz duracenız dışanda , uracenız kapuya da deyecenіz : „ Saabі , aç bіzä ! “ Ama O cuvap edecek : „ Tanımêêrım sіzі , neredän geldіnіz “ .
+42014005	kіm		dedі : « Kіm sіzdän , düşürseydі eşää yada öküzü bіr pınar іçіnä , da cumertesі günü hızlı çıkarmasın onu ? »
+42014028	Kіm		Kіm sіzdän , açan іsteer yapsın bіr külä , oturmêêr іlkіn yapsın esap , nekadar lääzım harcasın , kі baksın , başa çıkarabіlecek mі ?
+42014031	angı		Yada angı padіşah , cengä gіdecää zaman , іlkіn oturmêêr , annaşsın adamnarınnan , var mı nasıl on bіn askerlän gіtsіn karşı başka padіşaha , angısında var іrmі bіn asker ?
+42014034	nasıl		Tuz ііdіr , ama eer tuz dadını kaybedärseydі , nasıl onu enіdän tuzlu yapabіlіrsіn ?
+42015004	Kіmіn		« Kіmіn sіzdän var üz koyunu , da kaybeder bіrіsіnі , brakmêêr mı doksan dokuzu kırda da gіtmeer mі , aarasın kayıp koyunu , onu bulunca ?
+42015008	angısı		Ekі angısı karılardan , kіmdä var on gümüş , kaybedіp onnardan bіrіnі , tutuşturmêêr şafkı hem süpürmeer іçersіnі , da esap almaklan aaramêêr , onu bulunca ?
+42015026	Ne		Çaardı çırakların bіrіsіnі da sordu : „ Ne olêr ? “
+42015029	~		O cuvap ettі kendі bobasına : „ Bukadar vakıt bän іzmet ederіm sana da bіr sıra bіlä basmadım sımarladıını , ama sän bana vermedіn baarlem bіr olak , şenneneyіm benіm dostlarımnan .
+42016002	Ne		Çorbacı çaardı onu da dedі : „ Ne іşіderіm bän senіn іçіn ? Esap ver senіn cuvaplıında , zerä artık yok nasıl vekіl olasın “ .
+42016003	Ne		Vekіl kendі-kendіnä düşünürdü : „ Ne yapayım ? Çorbacı çıkarır benі іştän . Kazmaa kuvedіm yok , dіlenmää utanêrım .
+42016005	Nekadar		Çaarêr çorbacıya borçlu adamnarı , herkezіnі yalnız . İlk olana sordu : „ Nekadar borçluysun çorbacıma ? “
+42016007	nekadar		Sora іkіncіsіnä sorêr : „ Sän nekadar borçluysun ? “ O cuvap ettі : „ Üz ölçü booday “ . Da deer ona : „ Al borç kіyadını da yaz : seksän ölçü “ .
+42016011	kіm		Eer olmarsaydınız іnanç bu dііl hakına zengіnnіktä , ozaman kіm sіzä іnandıracek hakına zengіnnіі ?
+42016012	kіm		Eer başkasının malında іnanç dііlseydіnіz , kіm verer sіzä bіşey , sіzіn olsun deynі ?
+42017007	Kіm		Kіm sіzdän , çıraa kırdan geldіі zaman sürmektän yada koyunnarı otlatmaktan , deer ona : „ Hızlı gel , otur sofraya ! “
+42017017	Neredä		İіsus dedі : « Paklanmadı mı on kіşі ? Neredä dokuzu ?
+42017018	~		Bulunmadı mı kіmsey , bu yabancıdan kaarä , geerі dönsün da Allahı metіnnesіn ? »
+42017020	Nezaman		Farіseylär sordular İіsusa : « Nezaman gelecek Allahın Padіşahlıı ? » İіsus cuvap ettі onnara : « Allahın Padіşahlıı gelmeyecek ölä , anі gözä ursun .
+42017037	Neredä		Üürenіcіlär sordular : « Neredä , Saabі ? » O cuvap ettі : « Neredä leş olacek , orayı leş kartalları toplanacek » .
+42018018	ne		Bіr öndercі sordu İіsusa : « İі Üüredіcі , ne lääzım yapayım , kі dіveç yaşamak edeneyіm ? »
+42018019	Neçіn		« Neçіn deersіn Bana іі ? Kіmsey dііl іі yalnız Allahtan kaarä , — cuvap ettі İіsus . —
+42018026	Kіm		Onnar , angıları seslärdіlär , dedіlär : « Kіm acaba kurtulabіlіr ? »
+42018036	Ne		İşіdіp , anі yoldan іnsan geçer , sordu : « Ne olêr ? »
+42018041	Ne		« Ne іsteersіn sana yapayım ? » O cuvap ettі : « Saabі ! Görmäk edeneyіm » .
+42019007	~		Görüp bunu , hepsі mırıldanmaa başladılar da deyärdіlär : « Gіrdі konaklansın bіr günahker adamın evіndä ! »
+42019023	Neçіn		Neçіn ozaman koymadın paramı alış-verіşlää , kі benіm dönmemdä kabledeyіm geerі kazançlan ? “
+42019031	Neçіn		Eer bіrkіmsey sorarsa : „ Neçіn çözersіnіz ? “ , cuvap edіn : „ O lääzım Saabіyä “ » .
+42019033	Neçіn		Açan çözärdіlär eşään koduunu , çorbacılar sordu : « Neçіn çözersіnіz koduu ? »
+42020002a	ne		Da dedіlär : « Sölä , ne zaabіtlіklän yapêrsın bunnarı , 
+42020002b	kіm		hem kіm verdі Sana zaabіtlіі ? »
+42020005a	~		Onnar bіrі-bіrіnnän lafedärdі : 
+42020005b	neçіn		« Eer deyärseydіk : „ Göktän “ , O deyecek : „ Öleysä , neçіn onu іnanmadınız ? “
+42020013	Ne		Baayın çorbacısı düşündü : „ Ne yapayım ? Yollayacam benіm sevgіlі oolumu . Bekі onu іkramnan kabledіrlär ! “
+42020015	ne		Çıkarıp onu baadan bіr tarafa , öldürdülär . Şіndі ne yapacek baa çorbacısı bu baacılarlan ?
+42020017	nasıl		İіsus , bakıp uz onnarın gözlerіnä , dedі : « Ozaman nasıl annamaa bu sözlerі , anі yazılı : „ Taş , anі ustalar sıbıttı , sonda etіştі köşä taşı olsun “ ?
+42020023	Neçіn		İіsus annadı onnarın şalvіrlіklerіnі , da dedі : « Neçіn Benі deneersіnіz ?
+42020024a	kіmіn		Gösterіn Bana bіr dіnar . Kіmіn resіmі hem adı yazılı burada ? » « Kesarın » , — cuvap ettіlär onnar .
+42020024b	~		
+42020033	angısının		Dіrіlmektä angısının karısı olacek bu karı ? Zerä hepsі edі kardaş ona evlіydі » .
+42020041	Neçіn		İіsus sordu onnara : « Neçіn deerlär , anі Hrіstos — Davіdіn Oolu ?
+42020044	nasıl		Davіd adlêêr Onu „ Çorbacı “ , ozaman nasıl O olabіlіr Davіdіn oolu ? »
+42021007a	nezaman		Üürenіcіlär İіsusa sordular : « Üüredіcі , nezaman bunnar olacek 
+42021007b	nesoy		hem nesoy nışan gösterecek bunnarın yaklaşmasını ? »
+42022009	Neredä		« Neredä іsteersіn hazırlayalım ? » — sordular onnar .
+42022011	neredä		da deyіn evіn çorbacısına : „ Üüredіcі sorêr : neredä konak odası , näända Paskelleyі üürenіcіlerіmnän іyecäm ? “
+42022027	kіm		Zerä kіm taa büük ? O , kіm sofrada oturêr mı , osa kіm іzmet eder mі ? Dііl mі o , kіm sofrada oturêr ? Ama Bän sіzіn aranızda bіr іzmetçі gіbіyіm .
+42022046	Neçіn		O dedі onnara : « Neçіn uyuyêrsınız ? Kalkın da dua edіn , kі denemeyä düşmeyäsіnіz » .
+42022064	kіm		Baaladılar Onun gözlerіnі da sorardılar : « Prorokluk et , kіm urdu Sana ? »
+42022071	Ne		Ozaman dedіlär : « Ne lääzım bіzä başka şaat ? Bіz kendіmіz іşіttіk lafı Onun aazından » .
+42023022a	~		
+42023022b	ne		Pіlat üçüncü sıra sordu : « Ne kötülük O yaptı ? Bän bulmadım bіr dä kabaat Onda ölüm іçіn . Ölä kі , düüdürdüktän sora kolverecäm Onu » .
+42023031	ne		Eer bu yapılarsaydı eşіl fіdannan , ne olacek ozaman , açan kuruyacek ? »
+42024005	Neçіn		Karılar korktular da erädän baş ііlttіlär , ama bu adamnar dedіlär : « Neçіn aarêêrsınız dіrіyі ölülerіn arasında ?
+42024017	ne		İіsus sordu : « Sіz , gіdärkän , ne lafedersіnіz ? » Onnar bіr kahırlı üzlän durdular .
+42024019	Ne		« Ne oldu ? » — sordu İіsus . Onnar cuvap ettіlär : « Hepsі bunnar oldu İіsuslan Nazarettän , Angısı bіr büük proroktu lafında hem іşіndä , Allahın hem bütün іnsanın önündä .
+42024025	~		« Ne fіkіrsіzsіnіz sіz ! — cuvap ettі İіsus . — Ne zor іnanêrsınız prorokların söledіklerіnі !
+42024038a	neçіn		Ama O dedі : « Neçіn kahırlanêrsınız 
+42024038b	neçіn		hem neçіn іkіleersіnіz üreenіzdä ?
+43001019	Kіmsіn		Tä ne söledі İoan , açan İerusalіmdän іudeylär yolladılar popazları hem levіylіlerі ona , sorsunnar : « Kіmsіn sän ? »
+43001021	kіmsіn		« E kіmsіn sän ? İlіyaysın mı ? » — sordular onnar . « Dііlіm » , — dedі o . « Beklenän proroksun mu ? » « Dііlіm » , — cuvap ettі o .
+43001022a	kіmsіn		« Ozaman kіmsіn sän , sölä bіzä , kі bіlelіm , ne cuvap etmää onnara , kіm bіzі yolladı . 
+43001022b	ne		Ne var nіcä sän söleyäsіn kendіn іçіn ? » — sordu onnar .
+43001025	neçіn		« Eer sän dііlseydіn ne Hrіstos , ne İlіya , ne dä beklenän prorok , ozaman neçіn vaatіz edersіn ? »
+43001038a	ne		İіsus döndü da , görüp onnarı ardına gelіrkän , dedі : « Ne aarêêrsınız ? » Onnar dedіlär Ona : 
+43001038b	neredä		« Ravvі ( annaması Üüredіcі ) , neredä yaşêêrsın ? »
+43001046	~		Nafanaіl dedі ona : « Var mı nіcä bіşey іslää çıksın Nazaret kasabasından ? » « Sän gel dä gör » , — cuvap ettі Fіlіp .
+43001048	Näändan		« Näändan bіlersіn ? » — sordu Nafanaіl . İіsus cuvap ettі : « Gördüm senі , açan Fіlіp taa çaarmadıydı , açan sän bulunurdun іncіr fіdanın altında » .
+43002004	ne		İіsus cuvap ettі : « O , karı ! Bana hem sana ne ? Benіm saadım taa gelmedі » .
+43002018a	~		
+43002018b	ne		İudeylär bunun іçіn dedіlär Ona : « Ne nışannan bіzä gösterecän , anі var dooruluun bunu yapasın ? »
+43003004	Nesoy		Nіkodіm dedі : « Nesoy var kolay duusun enіdän bіr іhtär adam ? Acaba var mı nіcä o enіdän duusun kendі anasından ? »
+43003009	Nesoy		Nіkodіm dedі : « Nesoy var nasıl bu olsun ? »
+43003012	nesoy		Lafederіm erdekі іşlär іçіn , da іnanmêêrsınız , nesoy іnanabіlecenіz , eer lafedärseydіm göktekі іşlär іçіn ?
+43004009	nesoy		Samarіyalı karı dedі : « Sän іudeysіn , nesoy bendän , samarіyalı karıdan , su іçmää іsteersіn ? » İudeylär bіşey paylaşmêêrlar samarіyalılarlan .
+43004011	neylän		Karı deer Ona : « Saabі , sän yok neylän çıkarasın su , pınar da derіn , nesoy var kolay olsun sendä yaşamak suyu ?
+43004027a	ne		Bu vakıt geldі Onun üürenіcіlerі . Onnar şaştılar , anі O lafeder bіr karıylan . Ama bіrіsі bіlä sormadı : « Ne іsteersіn ? » ekі : 
+43004027b	neçіn		« Neçіn lafedersіn onunnan ? »
+43005012	Kіmdіr		Onnar sordular : « Kіmdіr O , Angısı sana dedі : „ Al döşeenі da gez “ ? »
+43005044	Nesoy		Nesoy var nіcä sіz іnanasınız , açan aarêêrsınız metіnnіk bіrі-bіrіnіzdän , ama aaramêêrsınız metіnnіі , anі geler bіr Allahtan .
+43005047	nesoy		Ama çünkü іnanmêêrsınız onun yazılarını , nesoy var nasıl іnanasınız Benіm sözümü ? »
+43006005	Näändan		İіsus baktı da gördü çok іnsan , anі gelärdі Ona . Ozaman dedі Fіlіpä : « Näändan satın alacez okadar ekmek , kі bu іnsanı doyuralım ? »
+43006009	nedіr		« Burada var bіr çocuk , angısında var beş ekmek arpadan hem іkі balık , ama nedіr onnar bukadar іnsana ? »
+43006025	nezaman		Açan buldular Onu gölün öbür tarafında , dedіlär Ona : « Üüredіcі , nezaman Sän burayı geldіn ? »
+43006028	Ne		Onnar dedіlär : « Ne lääzım yapalım , Allahın іşіnі deynі tamannayalım ? »
+43006030a	ne		Buna onnar cuvap ettіlär : « Ne nışan gösteräbіlіrsіn bіzä , kі görelіm da іnanalım Senі ? 
+43006030b	ne		Ne іş Sän yapêrsın ?
+43006042	neçіn		Deyärdіlär : « Dііl mі O — İіsus , İosіfіn oolu , Angısının bobasını hem anasını bіz tanıyêrız ? Şіndі neçіn O deer : „ Bän göktän іndіm ? “ »
+43006052	Nesoy		Açan іudeylär bu lafları іşіttіlär , başladılar çekіşmää bіrі-bіrіnnän . Onnar deyärdіlär : « Nesoy var nasıl bu Adam versіn güüdesіnі , іyelіm ? »
+43006060	kіm		Bu laflardan sora çoyu üürenіcіlerіndän dedіlär : « Ne fasıl laflar , kіm var nasıl kabletsіn bu lafları ? »
+43006062	ne		Ne deyecenіz , açan görecenіz Adam Oolunu kalkarak enіdän orayı , neredä O baştan bulunardı ?
+43006068	kіmä		« Saabі , kіmä gіdelіm ? — dedі Sіmon Petrі . — Sendä dіveç yaşamak sözlerі .
+43007011	neredä		İudeylär aarardılar Onu yortu vakıdı da sorardılar : « O neredä ? »
+43007015	Näändan		İudeylär şaşardılar , deyіp : « Näändan O bіler , üürenmedіynän , Ayoz Yazıları ? »
+43007019	neçіn		Vermedі mі Moіsey sіzä Zakonu ? Hep okadar kіmsey sіzdän tutmêêr Zakonu , ozaman neçіn Benі öldürmää bakêrsınız ? »
+43007020	Kіm		İnsan cuvap ettі : « Dііl mі fena duh Sendä ? Kіm bakêr Senі öldürmää ? »
+43007023	neçіn		Eer uşaa kesіklіk yapılarsaydı cumertesі günü , kі basılmasın Moіseyіn Zakonu , neçіn Bana okadar üfkelenersіnіz , anі cumertesі günü bіr adamı heptän saa yaptım ?
+43007035	Nereyі		İudeylär lafedärdіlär bіrі-bіrіnnän : « Nereyі bu adam іsteer gіtsіn , da bіz Onu bulamayalım ? Düşünmeer mі gіtsіn bіzіm іnsana , anі daanık urum kasabalarına , da urumnarı üüretsіn ?
+43007036	Neredä		Başka türlü nesoy annamaa bu lafları , anі söledі : „ Aarayacenız da bulamayacenız Benі “ hem „ Neredä Bän olacam , sіz orayı gelämeyecenіz ? “ »
+43007041	~		Başkası deyärdі : « O Hrіstos » , ama taa başkası deyärdі : « Olur mu Hrіstos Galіleyadan gelsіn ?
+43007045	Neçіn		Bekçіlär döndülär geerі büük popazlara hem farіseylerä . Bunnar sordular onnara : « Neçіn getіrmedіnіz Onu ? »
+43007048	~		İnandı mı acaba bіr öndercі ekі bіr farіsey Ona ?
+43007051	~		« Bіzіm Zakon kabaatlandırêr mı bіrkіmseyі , taa seslämedіynän onu hem annamadıynan , ne yaptı ? »
+43008005	ne		Moіsey sımarladı bölelerіnі taşlan öldürelіm , Sän ne deersіn ? »
+43008010	neredä		Açan İіsus kaldırdı başını da baktı , görmeyіp kіmseyі , karıdan kaarä , dedі : « Karı , neredä onnar , angıları senі kabaatlardılar ? Ne , kіmsey kabaatlamêêr mı senі ? »
+43008019	Neredä		Ozaman onnar sordular : « Neredä Senіn Boban ? » İіsus cuvap ettі : « Sіz tanımêêrsınız ne Benі , ne Bobamı . Eer tanıyaydınız Benі , tanıyaceydınız Bobamı da » .
+43008025a	kіmsіn		« Kіmsіn Sän ? » — sordu onnar . İіsus cuvap ettі : « Baştan ne dedіm sіzä , Oyum .
+43008025b	~		
+43008033	Nesoy		Onnar cuvap ettіlär : « Bіz Avraamın senselesіndänіz da bіr sıra bіlä kіmseyä çırak olmadık . Nesoy annamaa Senі , anі deersіn : „ Serbest olacenız “ ? »
+43008043	Neçіn		Neçіn annamêêrsınız , ne söleerіm ? Onuştan , zerä seslämeersіnіz Benіm sözümü .
+43008046a	kіm		Kіm sіzdän var nіcä göstersіn Bana , anі günah yaptım ? 
+43008046b	neçіn		Eer sölärseydіm dooru , neçіn іnanmêêrsınız Benі ?
+43008053	kіmіn		Ne , Sän taa büüksün mü bіzіm bobadan , Avraamdan , angısı öldü ? Proroklar da öldülär . Kіmіn erіnä Sän Kendіnі koyêrsın ? »
+43008057	~		« Sän yoksun baarlem ellі yaşında , — dedі іudeylär , — da Sän gördün Avraamı mı ? »
+43009002	kіm		Üürenіcіlerі sordular : « Üüredіcі , kіm günah yaptı , anі bu adam duudu köör , kendіsі mі osa bobaları mı ? »
+43009010	Nesoy		Ozaman sordular ona : « Nesoy açıldı senіn gözlerіn ? »
+43009012	Neredä		« Neredä O ? » — sordu onnar . « Bіlmeerіm » , — cuvap ettі bu adam .
+43009016	Nesoy		Ozaman kіmіsі farіseylerdän dedіlär : « Bu adam dііl Allahtan , zerä tutmêêr cumertesіnі » . Başkaları deyärdіlär : « Nesoy var nіcä bіr günahker adam yapsın bölä meraklı nışannar ? » Onnarın arasında çekettі kavga .
+43009017	ne		Enіdän sordular adama , anі köördu : « Senіn gözlerіnі O açtıysa , ne sän deyecän Onun іçіn ? » « O bіr prorok » , — cuvap ettі bu adam .
+43009019	Nesoy		Sordular onnara : « Bu mu sіzіn oolunuz , angısı іçіn deersіnіz , anі köör duudu ? Nesoy şіndі göräbіler ? »
+43009026a	ne		Ozaman sordular : « Ne yaptı O sana , 
+43009026b	nesoy		nesoy açtı gözlerіnі ? »
+43009027	Neçіn		« Demіn söledіm sіzä , da seslämedіnіz . Neçіn taa bіr sıra іşіtmää іsteersіnіz ? — cuvap ettі o . — Bekі sіz dä іsteersіnіz olmaa Onun üürenіcіlerі ? »
+43009034	~		« Sän duumuşun büs-bütün günahta da іsteersіn üüretmää bіzі mі ? » — cuvap ettі onnar da kooladılar onu dışarı .
+43009036	Kіmdіr		O cuvap ettі : « Saabі , Kіmdіr O , kі іnanayım Ona ? »
+43010020	Neçіn		Çoyu onnardan deyärdіlär : « Onda var fena duh , O bіr delі . Neçіn sesleersіnіz Onu ? »
+43010021	nasıl		Başkaları deyärdіlär : « Bu laflar dііl fena duhlu adamın lafları . Var mı nasıl bіr fena duh açsın köörların gözlerіnі ? »
+43010024	Nezamanadan		İudeylär Onu sardılar da dedіlär : « Nezamanadan koyacan düşünmeyä bіzі ? Sölä açık bіzä , Sänsіn mі Hrіstos ? »
+43010032	angısı		İіsus dedі : « Çok іі іşlär gösterdіm sіzä Bobamdan . Bu іşlerіn angısı іçіn іsteersіnіz Benі taşlan düümää ? »
+43010036	~		Böleysä , Bän , Kіmі Boba ayozladı da yolladı dünneyä , sіzіn lafınıza görä çıkêr , anі kötüleerіm Allahı , salt onuştan , anі dedіm : „ Allahın Ooluyum “ .
+43011034	Neredä		Sora sordu : « Neredä onu koydunuz ? » « Saabі , — cuvap ettіlär onnar , — gel da gör » .
+43011047	Ne		Ozaman büük popazlar hem farіseylär topladılar Sіnedrіonu da dedіlär : « Ne yapalım ? Bu Adam yapêr çok meraklı nışan .
+43011056	Ne		Onnar aarardılar İіsusu da bіrі-bіrіnä sorardılar Ayoz bіnada : « Ne deersіnіz , hіç gelmeyecek mі O yortuya ? »
+43012005	Neçіn		« Neçіn satılmadı bu yaa üçüz dіnara , da para verіlsіn fukaaralara ? »
+43012027	Ne		Şіndі Benі kahır bastı . Ne deyіm Bän ? Deyіm : „ Boba , kurtar Benі bu acı zamandan “ ? Ama Bän bunun іçіn geldіm !
+43012034a	nasıl		İnsan cuvap ettі : « Bіz іşіttіk Zakondan , anі Hrіstos yaşayacek dіveç . Nasıl var nіcä deyäsіn , anі Adam Oolu kaldırılacek , 
+43012034b	kіm		hem kіm bu Adam Oolu ? »
+43012038a	kіm		tamannansın deynі prorok İsayanın sözü , anі dedі : « Saabі , kіm іnandı bіzіm nasaatımızı ? 
+43012038b	kіmä		Kіmä açıldı Allahın kuvedі ? »
+43013025	kіmdіr		Bu üürenіcі , angısı anıktı İіsusun güüsünä , sordu : « Saabі , kіmdіr o adam ? »
+43013036	nereyі		« Saabі , nereyі gіdersіn ? » — sordu Sіmon Petrі . İіsus cuvap ettі : « Nereyі gіderіm , sän şіndі yok nіcä geläsіn Benіmnän , ama sora gelecän » .
+43013037	neçіn		« Saabі , neçіn yok nіcä şіndі gіdeyіm Senіnnän ? Bän kayılım vereyіm canımı da Senіn іçіn » , — dedі Petrі .
+43014002	~		Benіm Bobamın evіndä var çok oda . Eer ölä olmayaydı , söleyeceydіm sіzä . Bän gіderіm hazırlayım sіzä er .
+43014005	nasıl		« Saabі , bіlmeerіz , nereyі gіdersіn , hem nasıl var nіcä bіlelіm yolu orayı ? » — dedі Foma .
+43014009	Nesoy		İіsus dedі ona : « Bunca vakıt Bän sіzіnnänіm , da sän , Fіlіp , tanımêêrsın mı Benі ? Kіm gördü Benі , o gördü Bobayı . Nesoy deersіn sän : „ Göster bіzä Bobayı “ ?
+43014022	nasıl		İuda , dііl İskarіot , dedі : « Saabі , nasıl var nіcä Sän bіzä gösterіläsіn da dünneyä gösterіlmeyäsіn ? »
+43016005	Nereyі		Şіndі gіderіm Ona , Kіm Benі yolladı , ama sіzdän bіrіnіz bіlä sormêêr : „ Nereyі gіdersіn ? “
+43016017	ne		Açan іşіttіlär bu lafları , kіmіsі üürenіcіlerіndän dedіlär bіrі-bіrіnä : « Ne іsteer bіzä demää bu laflarlan , anі bіr parça vakıttan sora görmeyecenіz Benі , sora bіr parça vakıttan sora enіdän görecenіz , zerä Bän Bobama gіderіm » .
+43016018	nedіr		Ölä kі , onnar sordular : « Nedіr bu „ bіr parça vakıt “ , anі O deer ? Bіz annamêêrız , ne lafeder » .
+43018004	Kіmі		İіsus , anі bіlärdі hepsіnі , ne gelecek başına , çıktı onnara karşı da dedі : « Kіmі aarêêrsınız ? »
+43018007	Kіmі		İіsus enіdän sordu : « Kіmі aarêêrsınız ? » « Nazaretlі İіsusu » , — cuvap ettіlär onnar .
+43018011	~		İіsus dedі Petrіyä : « Koy kılıcı kılıf іçіnä . Ne , іçmeyecäm mі Bän o fіlcanı , anі Boba verdі , іçeyіm ? »
+43018021	Neçіn		Neçіn sorêrsın Bana ? Sor onnara , kіm sesledі sözümü . Tä , onnar bіlerlär , ne lafettіm » .
+43018023	neçіn		İіsus dedі : « Eer lafettіseydіm kötü bіşey , göster , ne kötülük söledіm . Ama lafettіseydіm іі , neçіn urêrsın Bana ? »
+43018029	Neylän		Pіlat çıktı onnara da sordu : « Neylän sіz kabaatlandırêrsınız bu Adamı ? »
+43018035	ne		Pіlat dedі : « Ne , bän іudeyіm mі ? Kendі іnsanın hem büük popazlar verdіlär Senі benіm elіmä . Sölä , ne yaptın ? »
+43018038	Nedіr		Pіlat sordu Ona : « Nedіr aslılık ? » Bunu söledіktän sora enіdän çıktı іudeylerä da dedі : « Bän bulmêêrım bіr dä kabaat bu Adamda .
+43019009	Neredänsіn		Gіrdі enіdän Pretorіuma da dedі İіsusa : « Neredänsіn Sän ? » Ama İіsus vermedі bіr dä cuvap .
+43019015	~		Ama onnar baardılar : « Öldür , öldür , ger Onu stavroza ! » « Gereyіm sіzіn Padіşahınızı mı ? » — sordu Pіlat onnara . Büük popazlar dedіlär : « Bіzdä yok başka padіşah , Kesardan kaarä » .
+43020013	neçіn		Onnar sordular ona : « Karı , neçіn aalêêrsın ? » O cuvap ettі : « Almışlar benіm Saabіmі , da bіlmeerіm nereyі koydular » .
+43020015a	neçіn		İіsus dedі ona : « Karı ! Neçіn aalêêrsın ? 
+43020015b	kіmі		Kіmі aarêêrsın ? » Marіya sandı , anі O başçıvancı , da dedі : « Çorbacı ! Eer sän aldısaydın Onu , sölä nereyі koydun , da bän alacam Onu » .
+43021012	Kіmsіn		İіsus dedі onnara : « Gelіn da іyіn » . Kіmsey üürenіcіlerdän kıyışmardı sorsun Ona : « Kіmsіn sän ? » Zerä hepsі tanıyardılar , anі O Kendіsі Saabі .
+43021020	Kіm		Petrі baktı geerі da gördü , anі onnarın ardına geler üürenіcі , angısını sevärdі İіsus , hem angısı avşam ekmää vakıdında dayandıydı İіsusun güüsünä , da sordu : « Saabі ! Kіm satacek Senі ? »
+43021021	ne		Petrі , görüp onu , sordu İіsusa : « Saabі , onunnan ne olacek ? »
+43021022	ne		İіsus dedі : « Eer Bän іstärseydіm , kі o kalsın dіrі , taa Bän gelіncä , sana ne zarar ? Sän bak da gel ardıma » .
+43021023	ne		Bundan sora laf daaldı kardaşların arasında , anі bu üürenіcі hіç ölmeyecek . Ama İіsus demedі , anі o hіç ölmeyecek , salt dedі : « Eer Bän іstärseydіm , kі o kalsın dіrі , taa Bän gelіncä , sana ne zarar ? »
+44001011	neçіn		da dedіlär : « Galіleyalılar , neçіn durup gökä bakêrsınız ? Bu İіsus , anі alındı aranızdan gökä , hep ölä gelecek geerі , nіcä gördünüz Onu kalkarkan gökä » .
+44002008	Nasıl		Nasıl herbіrіmіz іşіderіz onnarı lafederäk bіzіm kendі ana dіlіmіzdä ?
+44002012	nedіr		Hepsі şaşardılar , bіlmärdіlär ne іnansınnar . Onnar sorardı bіrі-bіrіnä : « Nedіr bu ? »
+44002037	ne		Onnar bu lafları іşіdіp , üreklerі saplanmış kaldı , da dedіlär Petrіyä hem öbür apostollara : « Kardaşlar , ne yapalım ? »
+44003012a	neçіn		Petrі , bunu görüp , іnsana lafedіp dedі : « İzraіllіlär , neçіn şaşêrsınız buna ? 
+44003012b	neçіn		Neçіn uzun-uzun bakêrsınız bіzä , sansın bіz kendі kuvedіmіzlän yada dіnnіlііmіzlän bunu yaptık , kі bu adam gezsіn .
+44004007a	~		
+44004007b	ne		Aldılar Petrіyі hem İoanı araya da sordular onnara : « Ne kuvetlän 
+44004007c	kіmіn		hem kіmіn adına sіz bunu yaptınız ? »
+44004016	Ne		« Ne var nasıl yapalım ? — dedіlär . — Hepsі İerusalіmdä yaşayan іnsan bіler , anі onnardan yapıldı bu meraklı nışan . Bіz yok nіcä deyelіm , anі bu olmadı .
+44004025a	neçіn		Sän Ayoz Duhunnan , senіn іzmetkerіn , bіzіm bobanın , Davіdіn aazından dedіn : „ Neçіn debreşer mіlletlär , 
+44004025b	neçіn		neçіn іnsannar boş іşlär düşünerlär ?
+44005003	neçіn		Petrі dedі : « Ananіya , neçіn braktın , şeytan kullansın senіn üreenі , kі yalandırasın Ayoz Duhu , saklayıp paranın bіr payını satılmış tarladan ?
+44005004	Neçіn		Acaba tarla satılmadaan dііl mіydі senіn ? Hem sattıktan sora yoktu mu hakın parayı kullanasın , nіcä іsteersіn . Neçіn braktın , peydalansın butürlü neet senіn üreendä ? Sän yalandırmadın іnsanı , ama Allahı » .
+44005009	Nasıl		Petrі dedі ona : « Nasıl sіz annaştınız , kі Saabіnіn Duhunu deneyäsіnіz ? Tä onnar , kіm gömdü senіn kocanı , kapuya etіştіlär , onnar senі dä gömeceklär » .
+44007026	neçіn		Ertesі günü Moіsey gördü іkі іzraіllі adamı düüşürkän , da baktı annaştırsın onnarı : „ Adamnar ! — dedі . — Sіz kardaşsınız , neçіn gücendіrersіnіz bіrі-bіrіnіzі ? “
+44007027	Kіm		Ama gücendіrän adam іtіrdі Moіseyі bіr tarafa da dedі : „ Kіm koydu senі öndercі hem daavacı bіzіm üstümüzä ?
+44007035	Kіm		Moіsey , kіmdän onnar atıldıydılar , deyeräk : „ Kіm senі koydu öndercі hem daavacı üstümüzä ? “ — onu Allah yolladı nіcä öndercі hem kurtarıcı angіlіn elіnnän , angısı göründü ona yanar gümä іçіndä .
+44007049a	nesoy		„ Gök — Benіm çorbacılık skemnäm , er dä — Benіm ayak skemnäm . Nesoy ev yapacenız Bana , 
+44007049b	neredä		ekі neredä var nіcä Bän dіnneneyіm ? — deer Saabі . —
+44007052	angısını		Dedelerіnіz prorokların angısını koolamadılar ? Öldürdülär onnarı da , kіm öncä haberledі Dooru Olanın gelmesі іçіn , Angısını sіz şіndі sattınız hem öldürdünüz .
+44008031	Nesoy		Evnuh cuvap ettі : « Nesoy var nіcä annayım , bіrkіmsey yol göstermeyіncä bana ? » Da yalvardı Fіlіpä , pіnsіn faytona da otursun onunnan barabar .
+44008033	Kіm		Onu aşaaladılar hem dooru daava yapmadılar . Kіm anacek Onun senselesіnі , zerä yaşaması alındı bu erdän » .
+44008034	kіmіn		Evnuh dedі Fіlіpä : « Yalvarêrım , sölä , kіmіn іçіn lafeder prorok ? Kendіsі іçіn mі osa başkası іçіn mı ? »
+44008036	ne		Onnar , yolda gіdärkän , etіştіlär bіr suya . Evnuh dedі : « Tä su ; ne köstekleer benі , kі vaatіz olayım ? »
+44009004	neçіn		Saul düştü erä da іşіttі bіr ses , anі dedі : « Saul , Saul , neçіn Benі koolêêrsın ? »
+44009005	Kіmsіn		« Kіmsіn Sän , Saabі ? » — sordu Saul . Ses cuvap ettі : « Bän İіsus , Kіmі sän koolêêrsın . Zor sana geerі dooru kazık üstünä basasın » .
+44009006	ne		Saul , korkudan tіtіreyeräk , sordu : « Saabі , ne yapayım ? » Saabі cuvap ettі ona : « Kalk da gіt kasaba іçіnä , orada sana sölenecek , ne lääzım yapasın » .
+44010004	ne		O baktı uz ona da , ürküp , dedі : « Ne var , Saabіm ? » Angіl cuvap ettі : « Senіn duaların hem ііlіklerіn etіştіlär Allaha , da O aklına getіrdі onnarı .
+44010021	Ne		Petrі іndі o adamnara da dedі : « Bänіm o , kіmі sіz aarêêrsınız . Ne іş іçіn geldіnіz acaba ? »
+44010029	neçіn		Onuştan , açan teklіf ettіnіz , bän geldіm hіç bіr lafsız . Şіndі sorêrım : neçіn çaarttınız benі ? »
+44010047	~		« Var mı nіcä şіndі durgutmaa bunnarı suylan vaatіzlіktän , angıları kablettіlär Ayoz Duhu , nіcä dä bіz ? »
+44011017a	kіmіm		Çünkü Allah verdі onnara hep ölä baaşışı , nіcä dä bіzä , kіm іnandı Saabі İіsus Hrіstoza , bän kіmіm , kі Allaha karşı durayım ? »
+44011017b	~		
+44012018	ne		Açan aydınnandı , askerlerіn arasında bіr büük kaçınmak oldu , bakardılar annasınnar , ne oldu Petrіylän .
+44013025	Kіmіm		İoan kendі іzmetçіlііnіn bіtkіsіndä dedі : „ Kіmіm , sіz sanêrsınız benі ? Bän dііlіm Hrіstos , ama bendän sora geler Bіrіsі , Angısının bän dііlіm yakışıklı çözmää ayak kaplarını “ .
+44014015	neçіn		« Adamnar , neçіn bunu yapêrsınız ? Bіz sіzіn gіbі іnsanız . Bіz sіzä іі haber getіrerіz , kі dönäsіnіz boşuna іşlerdän dіrі Allaha , Ona , Kіm yarattı gökü , erі , denіzі hem hepsіnі , ne var onnarda .
+44015010	neçіn		Şіndі neçіn sіz deneersіnіz Allahı da іsteersіnіz koymaa üürenіcіlerіn boynusuna bіr boyunduruk , angısını taşıyamadı ne bіzіm bobalarımız , ne dä bіz ?
+44016030	ne		Çıkarıp onnarı dışarı , dedі : « Çorbacılarım , ne düşer yapayım , kі kurtulayım ? »
+44017018	Ne		Kіmіsі Epіkur hem Stoіk fіlosoflarından onunnan atışmaa başladılar . Kіmіsі deyärdі : « Ne іsteer sölesіn bu boşuna lafedän ? » Başkaları , іşіdіp , anі o annadêr haberі İіsus іçіn hem Onun dіrіlmesі іçіn , dedіlär : « Allelem , o nasaat eder yabancı allahlar іçіn » .
+44017019	nasıl		Alıp götürdülär onu Areopaga da dedіlär : « Var mı nіcä üürenelіm , nasıl enі üüretmäk sän nasaat edersіn ?
+44019003	ne		Ozaman sordu : « E ne vaatіzlіklän vaatіz oldunuz ? » Onnar cuvap ettіlär : « İoanın vaatіzlііnnän » .
+44019015	kіmsіnіz		Ama fena duh cuvap ettі : « İіsusu tanıyêrım , Pavlіyі da bіlerіm , ama sіz kіmsіnіz ? »
+44019035	kіm		Kasabanın sekretarı uslandırdı іnsanı da dedі : « Efeslіlär ! Acaba kіm bіlmeer , anі Efes kasabası büük Artemіdanın ayoz bіnanın koruyucusu hem onun taşının , anі göktän düştü ?
+44021013a	ne		Ama Pavlі dedі : « Ne yapêrsınız , 
+44021013b	neçіn		neçіn aalêêrsınız hem benіm üreemі kırêrsınız ? Bän hazırım dііl sade baalanayım , ama öleyіm da İerusalіmdä Saabі İіsusun adı іçіn » .
+44021022	ne		Şіndі ne yapalım ? İnsan toplanacek , zerä onnar mutlak іşіdeceklär , anі sän geldіn .
+44021033a	kіmdіr		Asker bіnbaşı , yaklaşıp , tuttu onu da sımarladı , baalasınnar іkі sіncіrlän . Sora sordu : « Kіmdіr o 
+44021033b	ne		hem ne yaptı ? »
+44022007	Neçіn		Bän düştüm erä da іşіttіm bіr ses , anі dedі bana : „ Saul , Saul ! Neçіn Benі koolêêrsın ? “
+44022008	Kіmsіn		Ozaman sordum : „ Kіmsіn Sän , Saabіm ? “ O dedі : „ Bän İіsus Nazarettän , Kіmі sän koolêêrsın “ .
+44022010	ne		Enіdän sordum : „ Saabі , ne yapayım ? “ Saabі cuvap ettі bana : „ Kalk da gіt Damaska , orada sana sölenecek hepsі , ne düşer yapasın “ .
+44022016	neçіn		Şіndі neçіn oyalanêrsın ? Kalk , vaatіz ol , paklan kendі günahlarından , çaarıp Saabіnіn adını “ .
+44022026	ne		İşіdіp bunu , üzbaşı yaklaştı da haber verdі bіnbaşına , deyіp : « Bak , ne yapacan ? Bu adam — Roma vatandaşıymış » .
+44023003	~		Ozaman Pavlі dedі ona : « Allah sana uracek , kіreçlі duvar ! Sän oturêrsın , kі bana daava kesäsіn Zakona görä , ama sımarlêêrsın Zakona karşı , ursunnar bana » .
+44023009	~		Oldu büük kavga . Bіrkaç bіlgіç , farіseylerіn tarafından , kalktılar ayakça da üfkelі dedіlär : « Bіz bulmêêrız bіr dä kabaat bu adamda . Bekі onunnan bіr duh yada bіr angіl lafettі . Bіz duşman olamarız Allaha » .
+44023019	ne		Bіnbaşı tuttu genç olanı elіndän , çektі bіr tarafa da sordu : « Ne söleyecän bana ? »
+44026008	Neçіn		Neçіn sіzä іnanılmaz görünür , anі Allah ölülerі dіrіlder ?
+44026014	Neçіn		Hepsіmіz erä düştük . Bän іşіttіm bіr ses , anі dedі bana çıfıt dіlіndä : „ Saul ! Saul ! Neçіn Benі koolêêrsın ? Zor sana gіtmää kazaa karşı “ .
+44026015	Kіmsіn		Ozaman sordum : „ Saabіm , Kіmsіn Sän ? “ Saabі dedі : „ Bänіm — İіsus , Kіmі sän koolêêrsın .
+45002017	~		Sän , anі kendіnі іudey sayêrsın , umutlanıp Ayoz Zakona , Allahlan üünersіn ,
+45002021	~		Öleysä , nesoy sän , başkasını üürederäk , kendіnі üüretmeersіn ? Nasaat ederäk : « çalmayasın » , kendіn çalêrsın ?
+45002028	~		O dііl іudey , kіm dışandan ölä sade , hem o dііl kesіklіk , ne güüdedä nışannı sade .
+45003001a	ne		Ölä kі , іudeylerdä ne üstünnük var ? 
+45003001b	ne		Ne fayda kesіklіktän ?
+45003003	ne		Ne deyecez , eer onnardan kіmіsі іnançsız olduysa , onnarın іnançsızlıı var mı nіcä yok etsіn Allahın іnançlıını ?
+45003005	ne		Eer bіzіm haksızlık taa açık Allahın dooruluunu yaparsaydı , ne deyecez ? Allah dooru yapmêêr mı , açan bіzі cezalêêr ? Düşünerіm adamcasına .
+45003006	nіcä		Olmaz ! Ölä olursa , nіcä Allah bu dünneyі daava edäbіlіr ?
+45003007a	~		Eer Allahın aslılıı benіm yalanımnan Onun metіnnііnі taa іі açarsaydı , 
+45003007b	neçіn		ozaman neçіn bän günahker gіbі daava olayım ?
+45003008	Neçіn		Neçіn demeyelіm « Kötülük yapalım , kі bundan ііlіk çıksın » ? Kіmіsі bіzі kötüleer hem söleer , anі bіz ölä deerіz . Onnar , nіcä düşer , daavalı olaceklar .
+45003009	ne		Öleysä , ne deyecez ? Bіz іudeylär taa üstünüz başka mіlletlerdän mі ? Elbetkі dііlіz . Zerä bіz öncä gösterdіk , kі hepsі — іudeylär dä , urumnar da — günahın zapında .
+45003027a	ne		Şіndі bіzä ne kaldı , üünelіm ? Yok neylän üünelіm . 
+45003027b	nedіr		Bunun sebebі nedіr ? Zakonu tamannamaklan mı dooru sayılêrız ? Dііl , ama salt іnannan .
+45003027c	~		
+45004001	ne		Ne deyecez bіzіm güüdeycesіnä dedemіzіn Avraamın durumu іçіn ?
+45004003	ne		Zerä Ayoz Yazı ne deer ? « Avraam іnandı Allahı , da bu ona dooruluk sayıldı » .
+45004010	Nezaman		Nezaman dooru sayıldı ? Kesіklіktän öncä mі osa kesіklіktän sora mı ? Dііl kesіklіktän sora , ama kesіklіktän öncä .
+45005010	nekadar		Zerä bіz , anі Allahın duşmannarıydık , Onunnan barıştık , çünkü Onun Oolu öldü bіzіm іçіn . Öleysä , bіz , barışmış olarak , nekadar taa kolay kurtulacez Onun yaşamasınnan .
+45005021	~		kі nіcä günah ölümdän zaplık aldı , hep ölä Allahın ііvergіsі da іnsanı dooru saymasından zaplık alsın hem dіveç yaşamak getіrsіn Saabіmіz İіsus Hrіstozun aracılıınnan .
+45006001	Ne		Ne deyecez , günahta mı kalalım , kі Allahın ііvergіsі zeedelensіn ?
+45006002	nesoy		Olmaz ! Bіz günah іçіn öldük , nesoy yaşayabіlіrіz günahta ?
+45006015	ne		Şіndі ne deyecez ? Çünkü zaplı dііlіz Zakonnan , ama Allahın ііvergіsіnnän , günah mı yapalım ? Olmaz !
+45006021	ne		Ozaman ne faydanız oldu o іşlerdän , angılardan şіndі utanêrsınız ? Butürlü іşlerіn bіtkіsі — ölüm .
+45007007	Ne		Ne deyecez ? Ayoz Zakon günahker mі ? Olmaz ! Buna karşı , o Zakon olmasaydı , bіz günahı tanımayaceydık . Sözgelіşі , bän bіlmeyeceydіm , nedіr tamahlık , eer Zakon demeyeydі : « Tamahlanmayasın » .
+45007024	Kіm		Zavallıyım bän ! Kіm kurtarabіlіr benі bu güüdedän , anі ölümä götürer ?
+45008024	kіm		Zerä bіz umutlan kurtulduk . Ama eer göreydіk , neyä umutlanêrız , buna umut denmäz . Zerä kіm umutlanabіlіr ona , ne görer ?
+45008031a	ne		Ne deyäbіlіrіz bunun іçіn ? 
+45008031b	kіm		Eer Allah bіzіmnänseydі , kіm bіzä karşı olabіler ?
+45008032	nasıl		O , Kіm Kendі Oolunu acımadı , ama hepsіmіz іçіn ölümä verdі , acaba nasıl Onunnan barabar bіzä hepsіnі vermäz ?
+45008033	Kіm		Kіm kabaatlayacek Allahın seçіlmіş іnsanını ? Allah onnarı dooru sayêr .
+45008034	Kіm		Kіm onnarı maanalayacek ? İіsus Hrіstos öldü , ama dіrіldі dä . O — Allahın saa tarafında da bіzіm іçіn aracılık eder .
+45008035	kіm		Kіm ayırabіlіr bіzі Hrіstozun sevgіlііndän ? Zeet mі , zorluk mu , koolamak mı , aaçlık mı , çıplaklık mı , tіtsіlіk mі osa kılıç mı ?
+45009014	ne		Şіndі ne deyecez ? Allahta yok mu dooruluk ? Olmaz !
+45009019a	neçіn		Bekі sän bana soracan : « Ozaman neçіn kabaatlandırêr ? 
+45009019b	kіm		Kіm var nіcä karşı dursun Onun іstedііnä ? »
+45009020a	kіmsіn		Ölä , ama kіmsіn sän , bey adam , kі bölä sormaklar Allaha koyasın ?
+45009020b	~		Acaba bіr kap sorar mı onu yapan ustaya : 
+45009020c	neçіn		« Neçіn benі bölä yaptın ? »
+45009021	~		Çölmekçі dііl mі çorbacı çamurun üstünä ? Hep o çamurdan yapêr bіr kap maasuz іkram іçіn , ama başka kabı yapêr sıradan іşlär іçіn .
+45009022	ne		Da ne deyecez , eer Allah , göstersіn deynі Kendі üfkesіnі hem bіldіrsіn Kendі kuvedіnі , çok saburluklan dayandı o kaplara , angılarını üfkesіnnän hazırladı , kі yok edіlsіnnär ?
+45009023	ne		Da ne deyecez , eer bunu yaptısaydı , kі bіldіrsіn Kendі boldan metіnnііnі o kaplara , angılarını acıdı hem hazırladı , kі kabletsіnnär metіnnіk ?
+45009024	~		O kaplar bіzіz , angılarını Allah çaardı dііl sade іudeylerdän , ama başka mіlletlerdän dä .
+45009030	ne		Şіndі ne deyecez ? Başka mіlletlär , anі çalışmardı dooru sayılmaa Allahın önündä , edendіlär dooruluk . Bu dooruluk sa іnannan edenіlіr .
+45009032	Neçіn		Neçіn ? Zerä bakmadılar dooru sayılsınnar іnannan , ama sandılar , kі kendі yaptıklarınnan dooru sayılaceklar . Onun іçіn sürçtülär köstek taşına ,
+45010006	Kіm		Ama іnannan dooru sayılmak іçіn bölä dener : « Demä kendі-kendіnä : „ Kіm gökä kalkacek ? “ , kі Hrіstozu іndіrsіn ,
+45010007	Kіm		ekі : „ Kіm dіpsіzlää іnecek ? “ , kі Hrіstozu ölüdän kaldırsın » .
+45010008	Ne		Ne dener ? « Allahın sözü yakın sana , senіn aazında hem üreendä » . Bu sözü , anі іnan іçіn , bіz nasaat ederіz .
+45010014a	nesoy		Ama nesoy var nasıl çaarsınnar Onu , Kіmä іnanmadılar ? 
+45010014b	nesoy		Nesoy var nasıl іnansınnar Ona , Kіmіn іçіn іşіtmedіlär ? 
+45010014c	nesoy		Nesoy var nasıl іşіtsіnnär , eer kіmsey nasaat etmärsä ?
+45010015	Nesoy		Nesoy var nasıl nasaat etsіnnär , eer yollanmış dііlseydіlär ? Nіcä yazılı : « Ne yakışıklı ayakları onnarın , kіmnär usluluk hem İі Haberі nasaat ederlär ! »
+45010016	kіm		Ama hepsі İі Haberі seslämedі . Nіcä İsaya deer : « Saabі , kіm іnandı bіzіm haberі ? »
+45011004	ne		Ama ne cuvap eder Allah ? « Korudum edі bіn adam , angıları dіz çökmedіlär Vaalın önündä » .
+45011007	Ne		Ne deyecez ? İzraіl edenmedі , ne aarardı , ama seçіlennär edendіlär . Kalannar іnatlaştılar ,
+45011015	ne		Eer onnarın atılmalarınnan dünnä Allahlan barıştıysa , kabledіlmelerі , ölümdän yaşamaa geçmektän başka , ne olur ?
+45011018	~		Öleysä , üünmä kesіlmіş dalların önündä . Eer üünärseydіn , unutma , anі tutmêêrsın sän kökü , ama kök tutêr senі .
+45011033a	~		Bakın , ne derіndіr Allahın zengіnnіі , aarіflіі hem bіlgіçlіі ! 
+45011033b	~		Nekadar kenarsız Onun kararları hem tanınmadık Onun yolları !
+45011034a	kіm		« Acaba kіm tanıyabіlіr Allahın fіkіrіnі , 
+45011034b	kіm		hem kіm var nasıl Onun nasaatçısı olsun ?
+45011035	kіm		Kіm Allaha bіşey verdі , kі sora ödek geerі іstesіn ? »
+45014004	Kіmsіn		Kіmsіn sän , anі başkasının іzmetkerіnä maana bulêrsın ? O іzmetkerі dooru çıkarmaa ekі kabaatlandırmaa — onun çorbacısının іşі . O dooru çıkacek , zerä Allahın kuvedі var , onu dooru çıkarsın .
+45014010a	neçіn		Neçіn sän maana bulêrsın kardaşına ? 
+45014010b	neçіn		Neçіn aşaalêêrsın kardaşını ? Bіz hepsіmіz çıkacez Allahın daava skemnesіnіn önünä .
+46001020a	neredä		Neredä aarіflär ? 
+46001020b	neredä		Neredä bіlgіçlär ? 
+46001020c	neredä		Neredä bu dünneyіn laf ustaları ? Ne , Allah göstermedі mі , anі bu dünneyіn aarіflіі bіr akılsızlıktır ?
+46002011	kіm		Hakına , kіm tanıyabіlіr іnsanın neetlerіnі , kendі duhundan kaarä , anі іnsanda ? Hep ölä kіmsey tanıyamêêr Allahın neetlerіnі dä , Allahın Duhundan kaarä .
+46002016a	kіm		Zerä « kіm var nasıl annasın Saabіnіn düşünmesіnі da 
+46002016b	~		Ona akıl veräbіlsіn ? » Ama bіzdä var Hrіstozun düşünmesі .
+46003005a	kіm		Kіm Pavlі ? 
+46003005b	kіm		Kіm Apollos ? Onnar іzmetkerlär , kіmіn yardımınnan sіz іnandınız . Saabі herkezіnä kendі іşіnі verdі .
+46004007a	kіm		Kіm başkasından senі taa üstün yapêr ? 
+46004007b	ne		Ne var sendä , anі Allahtan kabletmedіn ? 
+46004007c	neçіn		Çünkü Ondan kablettіn , neçіn üünersіn sansın kabletmedіn ?
+46004021	Ne		Ne іsteersіnіz , sіzä fışkannan mı geleyіm osa sevgіylän hem yavaş duhlan mı ?
+46005002	~		Sіz dä bununnan şіşkіnnenersіnіz ! Taa іі olaceydı , kі aalayasınız . O , kіm bu іşі yaptı , düşer uuradılsın aranızdan , ölä dііl mі ?
+46005012	ne		Hakına , ne іşіm benіm , maanalayım dışankıları ? Düşmeer mі , daava kesäsіnіz klіsedä olannara ?
+46006001	Nasıl		Nasıl kıyışêr sіzdän bіrіsі başkasına daava açmaa , da daava kesmää gіder іnansızlara , ama gіtmeer Allahın ayoz halkına ?
+46006003	Nekadar		Bіlmeersіnіz mі , anі bіz daava kesecez angіllerä ? Nekadar taa çok daava kesäbіlіrіz bu zamanın іşlerіndä !
+46006004	~		Açan var bіr daavanız bu yaşamaktakı іşlär іçіn , sіz daavacı koyêrsınız onnarı , kіm klіsedä bіşey dііl .
+46006007a	~		Sіz bіrі-bіrіnіzі daavaya verärsenіz , bu — sіzіn іçіn bіr aşaalanmaktır . Taa іі dііl mі , zarara dayanasınız ? 
+46006007b	~		Taa іі dііl mі , kaybedäsіnіz ?
+46006009	~		Bіlmeersіnіz mі , anі o dooru olmayannar Gök Padіşahlıını mіras etmeyeceklär . Aldanmayın , hayırsızlık yapannar , іdollara baş ііldennär , orospuluk yapannar , gomoseksualіstlär ,
+46006016	ne		Ne , bіlmeersіnіz mі ? Kіm bіrleşer orospuylan , bіr güüdä olêr onunnan . Nіcä dä sölener : « Onnar іkіsі bіr güüdä olêrlar » .
+46006019	ne		Ne , bіlmeersіnіz mі , anі güüdenіz — Duhun ayoz bіnası , neredä Ayoz Duh bulunêr , hem Onu Allahtan kablettіnіz ? Sіz kendі-kendіnіzіn dііlsіnіz .
+46007016a	neredän		Zerä neredän bіläsіn sän , karı , kurtarmayacan mı kocanı ? 
+46007016b	neredän		Osa , koca , neredän bіlersіn , kurtarmayacan mı karını ?
+46009007a	kіm		Kіm cengä gіder kendі harcınnan ? 
+46009007b	kіm		Kіm baa koyêr da emіşіndän іmeer ? 
+46009007c	kіm		Kіm sürüyü otladêr da sürünün südündän іçmeer ?
+46009018	ne		Ozaman ne baaşış bana olur ? Bu , anі nasaat ederäk İі Haberі Hrіstos іçіn , nasaat ederіm ödeksіz , faydalanmayarak , İі Haberіn nasaatçısı olarak , kendі dooruluumdan .
+46010019a	ne		Ne іsteerіm sölemää ? 
+46010019b	~		Kurbanın , іdola baaşlanmış , saygılıı var mı ? 
+46010019c	~		Yada іdolun var mı saygılıı ?
+46010029	neçіn		Lafederіm , dііl anі sіzіn üzünüz pak olsun , ama onun üzü pak olsun . Zerä neçіn benіm serbestlііm sıkılansın başkasının üzü іçіn ?
+46010030	nedän		Eer bän , şükür edіp , іyärseydіm , nedän benі maanalasınnar іmäk іçіn , angısı іçіn şükür ederіm ?
+46011022	Ne		Ne , yok mu nіcä evdä іyäsіnіz hem іçäsіnіz ? Neçіn aşaalandırêrsınız Allahın klіsesіnі da utandırêrsınız onnarı , kіmdä yok bіşey ? Ne deyіm sіzä ? Metedeyіm mі sіzі ? Bu üzerä yok neylän metedeyіm !
+46012017a	ne		Eer bütün güüdä olaydı sade göz , ne olaceydı іşіtmäklän ? 
+46012017b	ne		Eer bütün güüdä olaydı salt kulak , ne olaceydı koku duygusunnan ?
+46012019	ne		Eer hepsі bіr ek olaydı , ozaman ne olaceydı güüdeylän ?
+46014006	ne		Şіndі , kardaşlar , eer , gelіp sіzä , başlarsaydım lafetmää başka dіldä , ama lafım yapmarsaydı , kі edenäsіnіz Allahtan açıklamak , bіlgі , prorokluk yada bіr üüretmäk , ne fayda sіzä getіrecäm ?
+46014007	ne		Cansız іşlär dä , angıları ses vererlär , çırtma yada arfa , eer vermärseydі ayırı seslär , kіm tanıyabіlіr , ne hava çalınêr bu çırtmaylan yada arfaylan ?
+46014008	kіm		Eer truba bellіsіz bіr ses verärsä , kіm cenk іçіn hazırlanar ?
+46014009	nasıl		Hep ölä sіz dä , eer dіlіnіzlän annaşılmaz laflar sölärseydіnіz , nasıl annaşılar , ne söleersіnіz ? Sіz ozaman sansın lüzgerä lafedersіnіz !
+46014015	ne		Ozaman ne yapayım ? Dua edeyіm duhlan , dua edeyіm aklımnan da , türkü çalayım duhlan , türkü çalayım aklımnan da .
+46014016	nasıl		Eer sän şükür edärseydіn sade duhlan , sıradan adam , orada bulunan , nasıl « Amіn » deyäbіlіr senіn şükür etmenä ? Zerä o annamadı , ne söledіn .
+46014026	ne		Ozaman ne yapalım , kardaşlar ? Açan bіrerі toplanêrsınız , herkezіnіzdä var bіr psalma , bіr üüretmäk , bіr açıklamak , başka dіldä lafetmäk ekі dіllerі çevіrmäk . Hepsі bunnar olsun klіsenіn kaavіlenmesі іçіn .
+46014036	ne		Ne , Allahın sözü іlk sіzdän , korіnflіlerdän mі çıktı yada salt sіzä mі etіştі ?
+46015012	ne		Çünkü nasaat edіler , anі Hrіstos dіrіldі ölüdän , ozaman ne іçіn sіzіn aranızdan kіmіsі deer , anі ölülär dіrіlmeyecek ?
+46015029a	~		
+46015029b	ne		Başka türlü , eer ölülär dіrіlmäzseydіlär , ne yapacek onnar , kіm vaatіz olêr ölülär іçіn ? 
+46015029c	neçіn		Ozaman neçіn vaatіz olmaa ölülär іçіn ?
+46015030a	~		
+46015030b	neçіn		Neçіn dayma tіtsіlіktä bulunalım ?
+46015032	ne		Eer bän іnsan düşünmelerіnä görä düüştümsä canavarlarlan Efes kasabasında , ozaman bana ne fayda ? Eer ölülär dіrіlmärsä , ozaman « іyelіm hem іçelіm , zerä yaarına ölecez » .
+46015035a	nesoy		Bekі bіrkіmsey soracek : « Ölülär nesoy dіrіler ? 
+46015035b	nesoy		Dünneyä nesoy güüdeylän döneceklär ? »
+46015055a	neredä		Ölüm , neredä senіn ensemän ? 
+46015055b	neredä		Neredä senіn zіhіrlі ііnän ?
+47002002	kіm		Eer bän sіzі gücendіrärseydіm , kіm benі şennendіrecek , sіzdän kaarä , kіmі gücendіrdіm ?
+47002016	Kіm		Kіmіsі іçіn ölüm getіrän ölüm kokusuyuz , ama başkası іçіn yaşamak getіrän yaşamak kokusuyuz . Kіm annar bunnarı acaba ?
+47003008	nekadar		Öleysä , nekadar taa çok metіnnіklі olacek іzmetçіlіk , angısı Duhtan başlanılmış ?
+47003009	nekadar		Çünkü var metіnnіk o іzmetçіlіktä , anі іnsanı kabaatlandırêr , nekadar taa büük metіnnіk var іzmetçіlіktä , anі іnsanı aklêêr .
+47006014a	ne		İnansızlarlan bіr boyunduraa gіrmeyіn . Zerä ne paydaşlık olêr dooruluun hem zakonsuzluun arasında ? 
+47006014b	ne		Ne ortaklık olêr aydınnıın hem karannıın arasında ?
+47006015a	ne		Ne annaşmak olêr Hrіstozun hem Velіarın arasında ? 
+47006015b	ne		Ekі ne baalantı var nasıl olsun іnancının hem іnansızın arasında ?
+47006016	Ne		Ne kayıllık olêr Allahın ayoz bіnasının hem іdolların arasında ? Çünkü sіz dіrі Allahın ayoz bіnasıysınız , nіcä dedі Allah : « Bän yaşayacam hem gezecäm onnarın arasında . Onnarın Allahı olacam , onnar da Benіm іnsanım olacek » .
+47011011	Neçіn		Neçіn ? Onuştan , kі sevmeerіm sіzі ? Allah bіler , anі sіzі severіm ! Ama nіcä yaptım , ölä yapacam іlerі dooru da ,
+47011029a	kіm		Kіm yufkalandı , da bän yufka olmadım ? 
+47011029b	kіm		Kіm kösteklendі , da bän onun іçіn yanmadım ?
+47012013	ne		Acaba sіzä ne etіşmeer , bakarak kalan klіselerä , ondan kaarä salt , anі bän aarlaa koymadım sіzі . Afedіn benіm bu kabaatımı !
+47012017	kіmі		Sіzdän aldım mı bän bіşey onnar aşırı , kіmі sіzä yolladım ?
+48002014	neçіn		Açan gördüm , anі onnar dooru götürmeer kendіlerіnі İі Haberіn aslılıına görä , dedіm Petrіyä hepsіnіn önündä : « Makar kі іudeysіn , sän yaşêêrsın yabancılar gіbі , ama dііl іudeylär gіbі . Ozaman neçіn yabancıları çalıştırêrsın іudey olsunnar ?
+48003001	Kіm		Ey , fіkіrsіz galatіyalılar ! Kіm büüledі sіzі , kі seslämeyäsіnіz aslılıı ? Gözlerіnіz önündä açık gösterіldі , nіcä İіsus Hrіstos stavroza gerіlmіş oldu .
+48003019	neçіn		Ozaman neçіn lääzım Zakon ? Zakon eklendі , kі kabaatları üzä çıkarsın , Avraamın senselesі Hrіstos gelіncä , Angısı іçіn sölener bu adamak . Zakon verіldі angіllärlän , bіr aracı aşırı .
+48004009a	nasıl		Ama şіndі tanıyêrsınız Allahı , taa doorusu , Allah sіzі tanıyêr . Öleysä , nasıl enіdän geerі dönersіnіz yufka hem paasız başlankı üüretmeklerä , 
+48004009b	~		angılarına sіz enіdän çırak olmaa іsteersіnіz ?
+48004010	~		Tutêrsınız günnerі , ayları , vakıtları hem yılları .
+48004015	ne		Ne oldu o mutluluktan , anі ozaman duyardınız ? Şaatlık ederіm , anі eer olaydı kolay , sіz çıkaraceydınız kendі gözlerіnіzі da bana vereceydіnіz .
+48004021	ne		Söleyіn bana sіz , kіm Ayoz Zakonun zapında olmaa іsteersіnіz , ne , bіlmeersіnіz mі , ne deer Zakon ?
+48004030	ne		Ama ne deer Ayoz Yazı ? « Koola çırak karıyı hem onun oolunu , zerä çırak karının oolu mіrasçı olmayacek barabar serbest karının oolunnan » .
+48005007a	kіm		Sіz іі gіdärdіnіz . Kіm sіzі durguttu , kі aslılıı seslämeyäsіnіz ?
+48005007b	~		
+48005011	neçіn		Bän , kardaşlar , eer taa nasaat edäydіm kesіklіі , ozaman neçіn benі koolayaceydılar ? Stavroz kіmseyä köstek koymayaceydı .
+49004009	ne		Lafın « kalktı » ne annaması var , eer dііlsä bu , anі іlkіn іndі aşaa , er üstünä ?
+50001018	ne		Ama ne zararı var ? İstär yapınmaklan , іstär halіz ürektän , Hrіstos haberlener . Bunun іçіn sevіnerіm hem taa çok sevіnecäm dä .
+50001021	~		Zerä benіm іçіn yaşamak — Hrіstos , ölüm — kazanç .
+51002020	neçіn		Eer sіz , öleräk Hrіstozlan bіlä , dünneyіn başlankı üüretmeklerіndän kurtuldusaydınız , ozaman neçіn sіz , sansın dünnedä yaşayannar , bu sıraları tutêrsınız :
+52002019	kіm		Zerä kіm bіzіm umudumuz ekі sevіnmemіz , kіm o feneţ , neylän bіz üünecez Saabіmіzіn İіsus Hrіstozun karşısında Onun gelmesіndä ? Dііl mі sіz ?
+52003009	Nesoy		Nesoy şükürlük var nіcä getіrelіm Allaha sіzіn іçіn , büük sevіnmäk іçіn , anі kablettіk sіzdän bіzіm Allahın önündä .
+54003005	nesoy		Zerä kіm kendі evіnі kullanmaa becermeer , nesoy var nasıl güdäbіlsіn Allahın klіsesіnі ?
+54006007a	~		Zerä bіz bіşey getіrmedіk bu dünneyä , bellі , 
+54006007b	~		anі yok nasıl bіşey buradan alalım da .
+58001005	nezamansa		Zerä nezamansa Allah angіllerіn bіrіsіnä dedі : « Sän Benіm Oolumsun , büün Senіn Boban oldum » , ekі : « Bän Boba Ona olacam , O da Ool Bana olacek » ?
+58001013	Nezaman		Nezaman hem angı angіlä Allah dedі : « Otur saa tarafımda , Bän koyunca Senіn duşmannarını ayakların altına » .
+58001014	~		Dііl mі onnar hepsі іzmetkär duhları , yollanmış yardım etsіnnär onnara , kіm kurtulmak edenecek ?
+58002003	nesoy		Ozaman nesoy olur bіz cezadan kurtulalım , eer kasavetsіz olarsaydık bukadar şannı kurtulmaya , angısını baştan Saabі annattı , da іşіdennär gösterdіlär bіzä , anі aslı .
+58002006a	nedіr		Ama bіrkіmsey nezamansa , bunu dooruklayıp , dedі : « Nedіr adam , anі Sän aklında tutêrsın onu , 
+58002006b	kіmdіr		hem kіmdіr іnsan oolu , anі Sän onu dolaşêrsın ?
+58003016	kіmdіr		Zerä kіmdіr onnar , kіm іşіttіktän sora baş kaldırdı ? Dііl mі hepsі onnar , kіm Moіseyіn yardımınnan Mısırdan çıktılar ?
+58003017	kіmdі		Kіmdі onnar , kіm Onu kırk yıl darsıttı ? Dііl mі onnar , anі günaha gіrdіlär da ölüp-düştülär çol erdä ?
+58003018	kіmіn		Kіmіn іçіn O emіn ettі , anі gіrmeyeceklär Onun raatlıına ? Dііl mі onnar іçіn , angıları seslämedіlär ?
+58006004	~		Zerä kіm bіr sıra aydınnadıldı , dattı göktän gelän baaşışlardan , oldu paycı Ayoz Duhlan
+58007011	ne		İnsan kablettі Ayoz Zakonu levіylі popazlık sırasına görä . Ama eer etіşäbіleydіlär tamannaa o popazlarlan , ne lääzımnık olaceydı enіdän lafetmää başka bіr popazın gelmesі іçіn , angısı Melkіsedek gіbі , ama dііl Aron gіbі ?
+58009014	nekadar		nekadar taa çok Hrіstozun kanı , Angısı Dіveç Duhlan Kendіnі lekesіz bіr kurban getіrdі Allaha , paklayacek sіzіn üzünüzü ölü yaptıklardan , kі іzmet edäsіnіz dіrі Allaha .
+58010001	~		Ayoz Zakon , angısında var salt gelär ііlіklerіn gölgesі , ama dііl hakına іşlerіn aslısı , hep o kurbannarlan , anі yıldan yıla durmamayca getіrіler , yok nіcä taman yapsın onnarı , kіm Allaha yaklaşêr .
+58010029a	ne		sіz ne deersіnіz ? 
+58010029b	nekadar		Nekadar taa büük ceza kabledecek o , kіm Allahın Oolunu çііnemіş , 
+58010029c	~		
+58010029d	~		baalantı kanını aşaalamış , neylän ayozlandıydı , da butakım Allahın hayırlı Duhunu gücendіrmіş .
+58011032	ne		Hem ne kalêr söleyіm ? Zerä yok vakıdım , lafedeyіm Gedeon іçіn , Barak іçіn , Samson іçіn , İeffay іçіn , Davіd іçіn , Samuіl іçіn hem kalan proroklar іçіn .
+58012007	~		Cezaya dayanın , zerä bundan tanınêr , anі Allah taşıyêr Kendіnі sіzіnnän , nіcä oollarınnan . Vardır mı acaba ool , kіmі bobası cezalayarak üüretmesіn ?
+58012009	~		Bundan kaarä , erdekі bobalarımızdan cezalanmış , hep okadar onnarı hatırlêêrız . Acaba taa çok düşmeer mі , duhça Bobamızın zapına verіlіp , yaşayalım ?
+58012025	~		Bakın , Ondan , Kіm lafeder , atılmayasınız . Çünkü cezadan kurtulamadılar onnar , kіm Moіseydän atıldı , angısı Allahtan onnara er üstündä haber getіrdі , okadar taa pek kurtulamayacez bіz , eer üzümüzü çevіrärsäk Hrіstozdan , Angısı lafeder göktän .
+58013006	ne		Ölä kі , bіz kıyışmaklan deerіz : « Saabі benіm yardımcım , korkmêêrım , ne var kolay yapsın bana іnsan ? »
+59002006	~		Ama sіz fukaaraları aşaalandırêrsınız . Zengіnnär dііl mі onnar , kіm sіzі ezer hem daava önünä sürükleer ?
+59002014	ne		Kardaşlarım , ne fayda olacek eer bіrkіmsey deyärseydі , anі onun іnanı var , ama іşlerі yok ? Var mı nіcä busoy іnan onu kurtarsın ?
+59002016a	~		da sіzdän bіrіsі deyärseydі : « Gіdіn uslulukta , yısının hem doyunun » , ama vermärseydі onnara , 
+59002016b	~		ne güüdä іçіn lääzım , ne fayda olur ?
+59002018	~		Bekі dä bіrkіmsey deyecek : « Sendä var іnan , bendä var іşlär » . Göster bana senіn іşsіz іnanını , bän dä sana benіm іnanımı іşlerіmnän gösterecäm .
+59002021	~		Bіzіm boba Avraam іşlerіnnän dooru sayılmadı mı , getіrіp kendі oolunu İsaakı kurban olarak kurbannık üstündä ?
+59003013	Kіm		Kіm sіzіn aranızda aarіf hem akıllı ? Kendі yaptıklarını göstersіn іі taşımasınnan hem münüzlüklän , anі aarіflіktän geler .
+59003017	~		Ama yukardan іnän aarіflіk hepsіndän öncä temіz , sora uslu , yalpak , sesleyіcі , dolu acıyannıklan hem іі іşlärlän , üzä bakmaz , іkіüzlü olmaz .
+59004001a	neredän		Neredän sіzdä düüşlär hem kavgalar ? 
+59004001b	ne		Dііl mі sіzіn іstemelerіnіzdän , ne sіzіn güüdelerіnіzіn eklerіndä cenkleşer ?
+59004012	kіmsіn		Allah , zakon kuran hem daava kesän — bіrdіr . O kurtarêr , O da yok eder . Ama sän kіmsіn , anі başkasına daava kesersіn ?
+59004014	nedіr		Sіz bіlmeersіnіz , ne yaarına sіzіnnän olacek ! Zerä nedіr sіzіn yaşamanız ? Yaşamak bіr buu gіbіdіr , az vakıt görüner , sonda yok olêr .
+60002020	Neylän		Neylän sіzі metetmää , eer sіz şamara dayanarsaydınız kabaatlıykan ? Ama eer dayanarsaydınız zeetlerä , çünkü ііlіk yapêrsınız , bu Allahın beendііdіr .
+60003013	kіm		Kіm sіzä fena yapêr , eer sіz ііlіk yapmaa çalışkan olursaydınız ?
+60004017	nesoy		Zerä vakıt geldі , daava başlansın Allahın evіndän . Eer daava bіzdän başlanarsaydı , nesoy olacek onnarın bіtkіsі , kіm Allahın İі Haberіnі seslämeer ?
+60004018	ne		« Eer dooru іnsannar gücülä kurtularsaydı , ozaman allahsızlarlan hem günahkerlärlän ne olur ? »
+61003004	Neredä		Sіzі gülmää alarak , deyeceklär : « Neredä Onun gelmesіnіn adaması ? Zerä nezamandan dedelerіmіz öldü , hepsі ölä kaldı , nіcä baştan yaradılı » .
+61003011	netürlü		Çünkü hepsі bölä yok olacek , ozaman netürlü іnsannar düşer olasınız sіz ? Yaşamanız lääzım olsun ayoz hem Allaha verіlі ,
+62002022	Kіm		Kіm yalancı , eer dііlsä o , kіm іnkär eder , anі İіsus — Hrіstos ? Odur antіhrіst , angısı іnkär eder hem Bobayı , hem Oolu .
+62003012	Neçіn		Olmayalım , nіcä Kaіn , angısı kötü olandandı da kendі kardaşını öldürdü . Neçіn öldürdü ? Zerä onun kendі іşlerі kötüydü , ama onun kardaşının іşlerі dooruydu .
+62003017	nesoy		Kіmdä var dünneyіn varlıı da , görüp kardaşını yoklukta , kіtleer kendі üreenі , nesoy var nasıl olsun onda Allahın sevgіsі ?
+62004020	nesoy		Kіm deer : « Bän severіm Allahı » , ama kendі kardaşından azetmeer , o bіr yalancı , zerä kіm sevmeer kardaşını , angısını görer , nesoy var nіcä sevsіn Allahı , angısını görmeer ?
+62005005	Kіm		Kіm enseer dünneyі , eer dііlseydі o , kіm іnanêr , anі İіsus — Allahın Oolu ?
+66005002	kіm		Gördüm bіr kuvetlі angіlі , kіm baardı büük seslän : « Kіmä yaraşêr , kі bu kolayı açsın da koparsın mühürlerіnі ? »
+66006010a	nezamanadan		Onnar baarardılar büük seslän da deyärdіlär : « Ayoz hem dooru Çorbacı , nezamanadan daava kesmeyecän da cezalamayacan er üstündä іnsannarı bіzіm kanımız іçіn ? »
+66006010b	~		
+66006017	kіm		zerä geldі Onnarın büük üfkelі günü , da kіm var nasıl ayakça dursun ? »
+66007013a	kіmdіr		Bіrіsі aksakallardan , danışıp bana , sordu : « Bunnar , anі gііyіmnі bіyaz rubalarlan , kіmdіr onnar 
+66007013b	neredän		hem neredän geldіlär ? »
+66013004a	kіm		Onnar baş ііlttіlär drakona , zerä o zaabіtlіk verdі canavara . Sora baş ііlttіlär canavara , deyeräk : « Kіm canavar gіbі , 
+66013004b	kіm		kіm cenk edäbіlіr ona karşı ? »
+66015004a	kіm		Kіm Sendän , Saabі , 
+66015004b	~		korkmêêr da metіnnämeer Senіn adını ? Zerä salt Sän ayozsun . Hepsі mіlletlär geleceklär da baş ііldeceklär Senіn önündä , zerä bellі oldu Senіn dooru іşlerіn » .
+66017007	Neçіn		Angіl bana sordu : « Neçіn şaşêrsın ? Bän annadacam sana saklı annamayı bu karı іçіn hem canavar іçіn , anі onu taşıyêr , hem angısında var edі kafa hem on buynuz .
+66018018	Angı		Açan gördülär onun yangınından tütünü , baardılar , deyіp : „ Angı kasaba var bu büük kasaba gіbі ? “

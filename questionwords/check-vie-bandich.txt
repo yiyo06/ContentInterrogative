@@ -1,0 +1,743 @@
+40002002	tại đâu		và hỏi , " Vua dân Do-thái mới sinh tại đâu ? Vì chúng tôi đã thấy ngôi sao Ngài bên phương đông , nên đến để bái kiến Ngài . "
+40002004	tại đâu		Ông triệu tập tất cả các trưởng tế và các thầy dạy giáo luật trong dân lại và hỏi họ , " Đấng Christ sẽ sinh ra tại đâu ? "
+40003007	ai		Khi Giăng thấy nhiều người Pha-ri-si và Sa-đu-sê cũng đến để chịu báp-têm , ông nói với họ , " Hỡi thế hệ rắn độc kia , ai đã báo cho các người biết trước để tránh cơn thịnh nộ sắp đến ?
+40005013	gì		" Các ngươi là muối của đất , nhưng nếu muối ấy mất mặn , lấy gì làm nó mặn lại ? Nó chẳng thể dùng vào việc gì nữa , ngoại trừ quăng ra ngoài và bị người ta giẫm dưới chân .
+40005046	gì		Nếu các ngươi chỉ thương người thương mình , các ngươi sẽ được thưởng gì ? Những người thu thuế há chẳng làm như thế sao ?
+40005047	gì		Nếu các ngươi chỉ chào hỏi anh chị em mình , các ngươi có gì hơn ai ? Những người lương chẳng làm như thế sao ?
+40006027	ai		Ai trong các ngươi nhờ lo lắng có thể kéo dài đời mình thêm một khắc không ?
+40006028	tại sao		Còn về quần áo , tại sao các ngươi lại lo lắng ? Hãy ngắm những hoa huệ ngoài đồng , xem chúng đã mọc lên thể nào . Chúng chẳng làm việc khó nhọc , cũng không kéo chỉ ,
+40006031a	gì		Vậy các ngươi đừng lo lắng mà nói rằng , ' Chúng ta sẽ ăn gì ? ' hoặc 
+40006031b	gì		' Chúng ta sẽ uống gì ? ' hoặc 
+40006031c	gì		' Chúng ta sẽ mặc gì ? '
+40007003	sao		Sao ngươi thấy hạt bụi nhỏ trong mắt anh chị em ngươi , mà không thấy cái dằm trong mắt ngươi ?
+40007004	sao		Sao ngươi nói với anh chị em ngươi , ' Hãy để tôi lấy hạt bụi ra khỏi mắt bạn , ' trong khi cái dằm vẫn còn nằm trong mắt ngươi ?
+40007009	ai		Có ai trong các ngươi khi con mình xin bánh mà cho đá chăng ?
+40007016a	ai		Các ngươi sẽ biết chúng khi xem trái của chúng . Nào ai hái trái nho nơi lùm gai , 
+40007016b	~		hay trái vả nơi bụi gai rừng chăng ?
+40008026	sao		Ngài nói với họ , " Sao các ngươi sợ hãi thế , hỡi những kẻ yếu đức tin ? " Rồi Ngài đứng dậy quở gió và biển ; gió và biển liền yên lặng như tờ .
+40008027	ai		Những người đó kinh ngạc và nói , " Người nầy là ai mà cả gió và biển đều vâng lịnh như thế ? "
+40008029	gì		Nầy , họ gào to rằng , " Hỡi Con Đức Chúa Trời , chúng tôi nào có gây sự gì với Ngài chăng ? Ngài đến đây để hình phạt chúng tôi trước kỳ sao ? "
+40009004	tại sao		Nhưng Đức Chúa Jesus biết ý tưởng họ , Ngài nói , " Tại sao tâm trí các ngươi lại nghĩ xấu như vậy ?
+40009005	nào		Trong hai điều sau đây : một là nói , ' Tội lỗi ngươi đã được tha , ' hai là nói , ' Hãy đứng dậy và đi , ' điều nào dễ nói hơn ?
+40009011	tại sao		Khi những người Pha-ri-si thấy vậy , họ nói với các môn đồ Ngài , " Tại sao Thầy các anh ngồi ăn chung với bọn thu thuế và phường tội lỗi như thế ? "
+40009014	tại sao		Bấy giờ các môn đồ của Giăng đến với Ngài và hỏi , " Tại sao chúng tôi và những người Pha-ri-si đều kiêng ăn , còn các môn đồ của Thầy không kiêng ăn ? "
+40009015	~		Đức Chúa Jesus trả lời họ , " Có thể nào khách đến dự tiệc cưới của chàng rể than khóc trong khi chàng rể còn ở với họ chăng ? Sẽ có ngày chàng rể được đem đi , bấy giờ họ sẽ kiêng ăn .
+40010025	~		Môn đồ được như thầy , đầy tớ được như chủ thì cũng đủ lắm rồi . Nếu chủ nhà mà họ còn gọi là Bê-ên-xê-bun thì những người trong nhà họ sẽ gọi còn tệ hơn biết dường nào . "
+40011007	gì		Khi các môn đồ của Giăng đã ra về , Đức Chúa Jesus nói với đám đông về Giăng rằng , " Các ngươi đã vào đồng hoang để xem gì ? Xem một cây sậy phất phơ trước gió chăng ?
+40011008	gì		Vậy các ngươi đã đi xem gì ? Xem một người mặc nhung gấm như trong cung vua chăng ?
+40011009	gì		Vậy các ngươi đã đi xem gì ? Xem một đấng tiên tri chăng ? Phải , Ta nói với các ngươi , có một người ở đây cao trọng hơn một đấng tiên tri .
+40011016	ai		Ta phải ví sánh thế hệ nầy với ai ? Họ giống như đám trẻ ngồi ngoài chợ và gọi đám trẻ khác ,
+40012011	~		Ngài trả lời họ , " Nếu ai trong các ngươi có một con chiên rơi vào hố trong ngày Sa-bát , người ấy há không nắm lấy nó mà kéo lên sao ?
+40012026	làm sao		Nếu Sa-tan loại trừ Sa-tan , tức nó tự chia rẽ với chính nó , làm sao nước của nó tồn tại được ?
+40012027	của ai		Nếu Ta cậy quyền của Bê-ên-xê-bun để trừ quỷ , thì những đệ tử của các ngươi đã cậy quyền của ai để trừ quỷ ? Thế thì chúng sẽ xét đoán các ngươi .
+40012029	làm sao		Hay làm sao người ta có thể vào nhà một người dũng mãnh để cướp của người ấy , nếu trước hết không bắt trói người dũng mãnh ấy lại , rồi sau đó mới cướp của trong nhà người ấy ?
+40012034	làm sao		Hỡi dòng dõi của rắn độc , làm sao các ngươi có thể nói ra điều tốt trong khi lòng các ngươi xấu ? Vì do sự đầy dẫy trong lòng mà miệng mới nói ra .
+40012048a	ai		Ngài trả lời và nói với người ấy , " Ai là mẹ Ta ? 
+40012048b	ai		Ai là các em Ta ? "
+40013010	sao		Các môn đồ đến và nói với Ngài , " Sao Thầy nói với họ bằng ngụ ngôn ? "
+40013027	đâu		Các tôi tớ của chủ đến nói với ông , ' Thưa chủ , không phải ông đã gieo giống tốt vào ruộng của ông sao ? Vậy bởi đâu những cỏ lùng nầy mọc lên như vậy ? '
+40013054a	đâu		Ngài trở về quê hương của Ngài và bắt đầu giảng dạy trong hội đường của họ . Dân địa phương ngạc nhiên và nói , " Bởi đâu người nầy có sự khôn ngoan 
+40013054b	~		và làm được những việc quyền năng như thế ?
+40013056	đâu		Chẳng phải các em gái ông ta đang ở giữa chúng ta sao ? Bởi đâu người nầy có được những điều ấy ? "
+40014031	sao		Đức Chúa Jesus liền đưa tay ra , nắm lấy ông , và nói , " Hỡi người yếu đức tin ! Sao ngươi còn nghi ngờ ? "
+40015002	tại sao		" Tại sao các môn đồ Thầy vi phạm truyền thống của các bậc trưởng lão để lại , vì họ không rửa tay trước khi ăn bánh ? "
+40015003	tại sao		Ngài trả lời và nói với họ , " Vậy tại sao các ngươi vi phạm điều răn của Đức Chúa Trời vì truyền thống của mình ?
+40015033	đâu		Các môn đồ Ngài nói với Ngài , " Chúng ta có thể tìm đâu ra đủ bánh trong nơi hoang dã nầy để cho đoàn dân đông đúc nầy ăn ? "
+40015034	bao nhiêu		Đức Chúa Jesus hỏi họ , " Các ngươi có bao nhiêu bánh ? " Họ đáp , " Thưa có bảy cái bánh và vài con cá nhỏ . "
+40016008	tại sao		Nhưng Đức Chúa Jesus biết và nói với họ , " Các ngươi là những người yếu đức tin ! Tại sao các ngươi bàn với nhau về việc không có bánh ?
+40016009	bao nhiêu		Các ngươi vẫn chưa hiểu sao ? Các ngươi còn nhớ năm cái bánh cho năm ngàn người , và các ngươi đã lượm lại được bao nhiêu giỏ chăng ?
+40016010a	~		Hay bảy cái bánh cho bốn ngàn người , 
+40016010b	bao nhiêu		và các ngươi đã lượm lại được bao nhiêu giỏ chăng ?
+40016011	tại sao		Tại sao các ngươi không hiểu rằng Ta không nói về bánh ? Hãy coi chừng men của người Pha-ri-si và người Sa-đu-sê . "
+40016013	ai		Khi Đức Chúa Jesus vào địa phận Sê-sa-rê Phi-líp , Ngài hỏi các môn đồ Ngài rằng , " Người ta nói Con Người là ai ? "
+40016015a	~		
+40016015b	ai		Ngài hỏi họ , " Còn các ngươi nói Ta là ai ? "
+40016026a	gì		Vì nếu một người được cả thế giới mà mất linh hồn mình thì có ích gì ? 
+40016026b	~		Người ấy sẽ lấy chi để đổi linh hồn mình lại ?
+40017010	tại sao		Các môn đồ hỏi Ngài , " Thế tại sao những thầy dạy giáo luật lại bảo Ê-li-gia phải đến trước ? "
+40017017a	bao lâu		Đức Chúa Jesus trả lời và nói , " Hỡi thế hệ vô tín và băng hoại nầy , Ta phải ở với các ngươi bao lâu nữa ? 
+40017017b	bao lâu		Ta phải chịu đựng các ngươi bao lâu nữa ? Hãy đem đứa trẻ đến với Ta . "
+40017019	tại sao		Bấy giờ các môn đồ đến gặp riêng Đức Chúa Jesus và hỏi , " Tại sao chúng con không thể đuổi quỷ ấy ra được ? "
+40017025a	sao		Phi-rơ trả lời , " Có chứ . " Vừa khi Phi-rơ vào nhà , Đức Chúa Jesus hỏi ông trước , " Si-môn , ngươi nghĩ sao ? 
+40017025b	của ai		Các vua thế gian thu sưu lấy thuế của ai ? Của các con trai mình hay của người ngoài ? "
+40018001	ai		Lúc ấy các môn đồ đến với Đức Chúa Jesus và hỏi , " Thưa Thầy , ai là người lớn nhất trong vương quốc thiên đàng ? "
+40018012	sai		Các ngươi nghĩ sao ? Nếu một người chăn có một trăm con chiên , mà một con đi lạc , người ấy há chẳng để chín mươi chín con kia trên núi mà đi tìm con chiên bị lạc sao ?
+40018021	mấy lần		Bấy giờ Phi-rơ đến và hỏi Ngài , " Lạy Chúa , nếu anh em con có lỗi với con , con sẽ tha thứ cho người ấy mấy lần ? Có phải đến bảy lần không ? "
+40019007	sao		Họ hỏi Ngài , " Thế sao Mô-sê lại truyền rằng hãy trao cho vợ một chứng thư ly dị , rồi để nàng đi ? "
+40019016	gì		Lúc ấy một người đến với Ngài và hỏi , " Thưa Thầy , tôi phải làm việc tốt gì để được hưởng sự sống đời đời ? "
+40019017	sao		Ngài nói với ông , " Sao ngươi hỏi Ta về việc tốt ? Chỉ có một Đấng tốt mà thôi , nhưng nếu ngươi muốn vào hưởng sự sống , hãy vâng giữ các điều răn . "
+40019018	nào		Người ấy hỏi , " Thưa điều răn nào ? " Đức Chúa Jesus đáp , " Ngươi chớ giết người . Ngươi chớ phạm tội ngoại tình . Ngươi chớ trộm cắp . Ngươi chớ làm chứng dối .
+40019020	gì		Chàng thanh niên nói với Ngài , " Tôi đã giữ tất cả những điều ấy . Tôi còn thiếu điều gì nữa chăng ? "
+40019025	ai		Khi các môn đồ nghe vậy , họ rất đỗi ngạc nhiên và nói , " Nếu vậy thì ai sẽ được cứu ? "
+40019027	gì		Phi-rơ đáp lời và thưa với Ngài , " Thầy xem , chúng con đã bỏ tất cả để theo Thầy . Rồi đây chúng con sẽ được gì chăng ? "
+40020006	tại sao		Đến năm giờ chiều , chủ ra và thấy một số người khác đang đứng không ở đó . Chủ hỏi họ , ' Tại sao các anh đứng không ở đây suốt ngày ? '
+40020012	~		' Mấy người cuối cùng nầy chỉ làm một giờ mà cũng được trả tiền công bằng chúng tôi , những người đã làm việc nặng nhọc dưới nắng nóng suốt ngày . '
+40020021	gì		Ngài hỏi bà , " Bà muốn gì ? " Bà trả lời Ngài , " Xin Thầy cho hai con trai tôi , một đứa ngồi bên phải Thầy và một đứa ngồi bên trái Thầy trong vương quốc của Thầy . "
+40020032	gì		Đức Chúa Jesus dừng lại , gọi họ đến , và hỏi , " Các ngươi muốn Ta làm gì cho các ngươi ? "
+40021010	ai		Khi Ngài vào Thành Giê-ru-sa-lem , cả thành đều náo động ; người ta hỏi nhau , " Người nầy là ai thế ? "
+40021016	~		và đến nói với Ngài , " Thầy có nghe những lời đám trẻ con nầy reo không ? " Đức Chúa Jesus trả lời họ , " Có . Thế các ngươi chưa đọc lời nầy sao ? ' Từ miệng trẻ thơ và ấu nhi , Chúa đã chuẩn bị sẵn lời ca ngợi cho Ngài . ' "
+40021020	làm sao		Thấy vậy các môn đồ kinh ngạc và nói , " Làm sao cây vả có thể héo liền như vậy được ? "
+40021023a	nào		Ngài vào đền thờ , và đang khi Ngài dạy dỗ , các trưởng tế và các trưởng lão trong dân đến gặp Ngài và hỏi , " Ông lấy thẩm quyền nào làm những điều nầy ? 
+40021023b	ai		Ai cho ông thẩm quyền ấy ? "
+40021025a	đâu		Phép báp-têm của Giăng đến từ đâu ? Từ trời hay từ người ? " Họ thảo luận với nhau rằng , " 
+40021025b	~		Nếu chúng ta nói , ' Từ trời , ' ông ấy sẽ hỏi chúng ta , 
+40021025c	tại sao		' Tại sao các ngươi không tin Giăng ? '
+40021028	sao		" Các ngươi nghĩ sao ? Người kia có hai con trai . Người cha đến nói với đứa thứ nhất , ' Con à , hôm nay con ra vườn nho làm việc nhé . '
+40021031	ai		Vậy , ai trong hai đứa con ấy làm theo ý người cha ? " Họ đáp , " Đứa thứ nhất . " Đức Chúa Jesus nói với họ , " Quả thật , Ta nói với các ngươi , những người thu thuế và đĩ điếm sẽ vào vương quốc Đức Chúa Trời trước các ngươi ,
+40021040	gì		Bấy giờ chủ của vườn nho sẽ đến . Chủ ấy sẽ làm gì với bọn tá điền đó ? "
+40022012	sao		Vua hỏi người ấy , ' Này bạn , sao bạn đã vào đây mà không chịu mặc y phục dự tiệc cưới ? ' Người ấy không đáp được lời nào .
+40022017	sao		Vậy xin cho chúng tôi biết ý kiến , Thầy nghĩ sao ? Chúng ta có nên nộp thuế cho Sê-sa không ? "
+40022018	tại sao		Nhưng Đức Chúa Jesus biết ác ý của họ , Ngài đáp , " Hỡi những kẻ đạo đức giả , tại sao các ngươi muốn thử Ta ?
+40022020a	của ai		Ngài hỏi họ , " Hình ảnh và danh hiệu nầy của ai ? "
+40022020b	~		
+40022028	của ai		Vậy khi sống lại , người đàn bà ấy sẽ là vợ của ai trong bảy anh em đó , vì tất cả đều đã lấy bà ? "
+40022036	nào		" Thưa Thầy , điều răn nào trong Luật Pháp là lớn hơn hết ? "
+40022042a	thế nào		" Các ngươi nghĩ thế nào về Đấng Christ ? 
+40022042b	của ai		Ngài là Con của ai ? " Họ trả lời Ngài , " Con của Đa-vít . "
+40022043	tại sao		Ngài nói với họ , " Thế tại sao khi được Đức Thánh Linh cảm thúc , Đa-vít đã gọi Ngài là ' Chúa , ' mà rằng :
+40022045	làm sao		Nếu Đa-vít đã gọi Ngài là ' Chúa , ' thì làm sao Ngài là con của ông ấy ? "
+40023017	nào		Hỡi những kẻ điên rồ và mù quáng , vàng hay đền thờ làm cho vàng ra thánh , cái nào trọng hơn ?
+40023019	nào		Hỡi những kẻ mù quáng , của lễ hay bàn thờ làm cho của lễ ra thánh , cái nào trọng hơn ?
+40023033	làm sao		Hỡi loài rắn độc , dòng dõi của độc xà , làm sao các ngươi có thể thoát khỏi hình phạt nơi hỏa ngục ?
+40024003a	khi nào		Khi Ngài đang ngồi trên Núi Ô-liu , các môn đồ Ngài đến gặp riêng Ngài và thưa rằng , " Xin Thầy cho chúng con biết khi nào điều ấy sẽ xảy ra ? 
+40024003b	gì		Và có dấu hiệu gì sẽ báo trước ngày Thầy đến và kỳ tận thế chăng ? "
+40024045	ai		" Vậy ai là đầy tớ trung tín và khôn ngoan , mà chủ đã đặt làm quản gia nhà mình , để cấp phát lương thực cho các gia nhân đúng kỳ ?
+40025037	khi nào		Bấy giờ những người công chính thưa rằng , ' Lạy Chúa , đâu có khi nào chúng con thấy Chúa đói mà cho ăn hoặc thấy Chúa khát mà cho uống ?
+40025038	khi nào		Hay là đâu có khi nào chúng con thấy Chúa là khách lạ mà tiếp đãi hoặc bị trần truồng mà mặc cho ?
+40025039	khi nào		Hoặc đâu có khi nào chúng con thấy Chúa đau ốm hay bị giam cầm mà thăm viếng ? '
+40025044	khi nào		Bấy giờ họ cũng trả lời , ' Lạy Chúa , đâu có khi nào chúng tôi thấy Chúa bị đói hoặc bị khát hoặc là khách lạ hoặc bị trần truồng hoặc bị đau ốm hoặc bị giam cầm mà giúp đỡ Chúa ? '
+40026008	tại sao		Khi các môn đồ Ngài thấy vậy , họ nổi giận và nói , " Tại sao lại phí của như thế ?
+40026010	tại sao		Nhưng Đức Chúa Jesus biết điều ấy , Ngài phán với họ , " Tại sao các ngươi làm khó nàng ? Nàng đã làm một việc tốt cho Ta .
+40026015	bao nhiêu		và nói , " Các ông sẽ trả cho tôi bao nhiêu tiền nếu tôi nộp Người ấy cho các ông ? " Họ thỏa thuận trả cho hắn ba mươi miếng bạc .
+40026017	ở đâu		Vào ngày thứ nhất của Lễ Bánh Không Men , các môn đồ đến với Đức Chúa Jesus và hỏi , " Thầy muốn chúng con chuẩn bị cho Thầy ăn Lễ Vượt Qua ở đâu ? "
+40026040	~		Sau đó Ngài trở lại chỗ các môn đồ và thấy họ đang ngủ . Ngài nói với Phi-rơ , " Thế thì các ngươi không thể thức canh với Ta một giờ sao ?
+40026050	~		Đức Chúa Jesus nói với hắn , " Bạn ơi , bạn đến đây để làm gì hãy làm đi . " Bấy giờ chúng đến gần , tra tay trên Đức Chúa Jesus , và bắt Ngài .
+40026054	làm sao		Nhưng nếu thế , làm sao điều Kinh Thánh chép phải xảy ra như thế nầy có thể được ứng nghiệm ? "
+40026062a	~		Vị thượng tế đứng dậy và nói với Ngài , " Ngươi không trả lời sao ? 
+40026062b	gì		Những người nầy tố cáo ngươi điều gì thế ? "
+40026065	tại sao		Bấy giờ vị thượng tế xé toạc áo choàng của ông ra và nói , " Hắn đã phạm thượng ! Tại sao chúng ta phải cần người làm chứng nữa ? Đấy , quý vị đã nghe những lời phạm thượng của hắn rồi đó .
+40026066	sao		Quý vị nghĩ sao ? " Họ trả lời , " Hắn thật đáng chết . "
+40026068	ai		và nói , " Hỡi Đấng Christ , hãy nói tiên tri cho chúng tôi biết , ai đã đánh ông đó ? "
+40027004	~		Hắn nói , " Tôi có tội vì đã nộp máu vô tội . " Nhưng họ đáp , " Việc ấy có can hệ gì đến chúng tôi . Đó là chuyện của anh . "
+40027013	bao nhiêu		Phi-lát nói với Ngài , " Ngươi không nghe bao nhiêu người tố cáo ngươi sao ? "
+40027017	ai		Vậy sau khi dân đã tụ họp , Phi-lát nói với họ , " Các ngươi muốn ta tha ai ? Ba-ra-ba hay Jesus người được gọi là Đấng Christ ? "
+40027021	ai		Quan tổng trấn hỏi họ , " Trong hai người nầy , các ngươi muốn ta tha ai ? " Họ đáp , " Ba-ra-ba . "
+40027022	gì		Phi-lát hỏi họ , " Vậy ta phải làm gì với Jesus người được gọi là Đấng Christ ? "
+40027023a	tại sao		Tất cả họ đều nói , " Hãy đóng đinh hắn trên cây thập tự ! " Phi-lát lại nói , " Tại sao ? 
+40027023b	gì		Người nầy đã phạm tội gì ? " Nhưng họ càng la lớn hơn , " Hãy đóng đinh hắn trên cây thập tự ! "
+40027046	sao		Vào khoảng ba giờ chiều , Đức Chúa Jesus kêu lớn tiếng , " Ê-li ! Ê-li ! Lê-ma Sa-bách-tha-ni ? " Nghĩa là , " Đức Chúa Trời của con ôi ! Đức Chúa Trời của con ôi ! Sao Ngài lìa bỏ con ? "
+41001024	gì		rằng , " Lạy Đức Chúa Jesus người Na-xa-rét , chúng tôi có đụng chạm gì tới Ngài chăng ? Ngài đến để tiêu diệt chúng tôi sao ? Tôi biết Ngài là ai . Ngài là Đấng Thánh của Đức Chúa Trời . "
+41001027	gì		Mọi người đều kinh ngạc và bàn tán với nhau , " Điều gì đây ? Quả là một sự dạy dỗ mới đầy quyền năng . Ông ấy ra lịnh cho các tà linh ô uế , và chúng vâng lệnh ông ta . "
+41002007a	tại sao		" Tại sao người nầy dám lộng ngôn như thế ? 
+41002007b	ai		Ngoài một mình Đức Chúa Trời , ai có quyền tha tội ? "
+41002008	tại sao		Ngay lập tức , trong tâm linh Ngài , Đức Chúa Jesus biết họ đang nghĩ gì , Ngài nói với họ , " Tại sao trong lòng các ngươi thắc mắc về những điều ấy ?
+41002009	nào		Nói với người bại điều nào dễ hơn ? Nói , ' Tội lỗi ngươi đã được tha , ' hay nói , ' Hãy đứng dậy , vác cáng của ngươi , và đi ' ?
+41002016	tại sao		Khi các thầy dạy giáo luật của phái Pha-ri-si thấy Ngài ngồi ăn với những kẻ tội lỗi và những người thu thuế , họ nói với các môn đồ Ngài , " Tại sao Thầy các anh lại ăn uống với phường thu thuế và những kẻ tội lỗi ? "
+41002018	tại sao		Khi ấy các môn đồ của Giăng và của người Pha-ri-si đang kiêng ăn . Có người đến hỏi Ngài , " Tại sao các môn đồ của Giăng và các môn đồ của phái Pha-ri-si kiêng ăn , còn các môn đồ của Thầy không kiêng ăn ? "
+41002019	~		Đức Chúa Jesus trả lời họ , " Các bạn của chàng rể có thể kiêng ăn khi chàng rể còn ở với họ chăng ? Khi chàng rể còn ở với họ , họ không thể kiêng ăn .
+41002024	tại sao		Những người Pha-ri-si nói với Ngài , " Xem kìa , tại sao các môn đồ của Thầy làm điều trái luật trong ngày Sa-bát như thế ? "
+41003004	~		Đoạn Ngài nói với họ , " Theo Luật Pháp thì trong ngày Sa-bát người ta nên làm điều thiện hay làm điều ác , nên cứu người hay giết người ? " Nhưng họ đều làm thinh .
+41003023	làm sao		Vì thế Ngài bèn gọi những thầy dạy giáo luật ấy đến gặp Ngài , rồi Ngài dùng các ngụ ngôn nói với họ , " Làm sao quỷ Sa-tan có thể đuổi quỷ Sa-tan ?
+41003033a	ai		Ngài nói với họ , " Ai là mẹ Ta và các em Ta ? "
+41003033b	~		
+41004013	làm sao		Sau đó Ngài nói với họ , " Các ngươi không hiểu ý nghĩa của ngụ ngôn ấy sao ? Vậy làm sao các ngươi có thể hiểu tất cả những ngụ ngôn khác ?
+41004030a	gì		Ngài lại phán , " Chúng ta sẽ ví sánh vương quốc Đức Chúa Trời với gì ? 
+41004030b	nào		Hay sẽ giải thích vương quốc ấy bằng ngụ ngôn nào ?
+41004038	~		trong khi đó Ngài ở đuôi thuyền , tựa đầu vào chiếc gối mà ngủ . Các môn đồ đến đánh thức Ngài dậy và nói , " Thưa Thầy , chúng ta sắp chết rồi mà Thầy không lo gì sao ? "
+41004040a	tại sao		Ngài nói với các môn đồ , " Tại sao các ngươi sợ ? 
+41004040b	~		Các ngươi vẫn chưa có đức tin sao ? "
+41004041	ai		Các môn đồ đều quá đỗi kinh hoàng và nói với nhau , " Người nầy là ai mà gió và biển đều vâng lời ? "
+41005007	gì		và nói lớn tiếng , " Lạy Đức Chúa Jesus , Con Đức Chúa Trời Tối Cao , Ngài định làm gì với tôi ? Tôi nhân danh Đức Chúa Trời van xin Ngài đừng hành hạ tôi . "
+41005009	~		Ngài hỏi ông , " Ngươi tên chi ? " Ông đáp , " Tôi tên là ' Đạo quân , ' vì chúng tôi rất đông . "
+41005030	ai		Đức Chúa Jesus biết ngay rằng quyền năng từ Ngài vừa xuất ra ; Ngài quay lại đám đông và hỏi , " Ai đã chạm vào áo Ta ? "
+41005031	ai		Các môn đồ nói với Ngài , " Thầy thấy đó , người ta đông đúc chen lấn nhau quanh Thầy , mà Thầy còn hỏi , ' Ai đã đụng vào Ta ? ' "
+41005035	sao		Khi Ngài còn đang nói , có mấy người từ nhà của người quản lý hội đường đến và báo rằng , " Con gái ông đã chết rồi . Sao ông còn làm phiền Thầy làm chi ? "
+41005039a	tại sao		Khi vào trong nhà , Ngài nói với họ , " Tại sao các ngươi kêu gào và 
+41005039b	~		khóc than như thế ? Đứa trẻ không chết đâu , nhưng chỉ ngủ thôi . "
+41006002a	đâu		Đến ngày Sa-bát , Ngài bắt đầu giảng dạy trong hội đường . Nhiều người nghe ngạc nhiên và nói , " Do đâu người nầy có được những điều ấy ? 
+41006002b	gì		Người nầy được ban cho sự khôn ngoan gì thế ? 
+41006002c	làm sao		Làm sao tay người nầy có thể làm được những phép lạ như thế ?
+41006022	gì		Con gái của bà Hê-rô-đia vào và nhảy múa khiến cho Hê-rốt và quan khách dự tiệc mê mẩn tâm thần . Vua nói với cô gái ấy , " Hãy xin ta bất cứ điều gì ngươi muốn , ta sẽ ban cho . "
+41006024	gì		Cô ấy đi ra hỏi mẹ nàng , " Con nên xin gì ? " Bà ấy bảo , " Cái đầu của Giăng Báp-tít . "
+41006037	~		Ngài trả lời họ , " Chính các ngươi phải cho họ ăn . " Họ đáp , " Chúng con phải đi và mua hai trăm đơ-na-ri tiền bánh cho họ ăn sao ?
+41006038	bao nhiêu		Ngài hỏi họ , " Các ngươi có bao nhiêu bánh ? Hãy đi và xem thử coi . " Khi biết được rồi họ nói , " Thưa có năm cái bánh và hai con cá . "
+41007005	tại sao		Những người Pha-ri-si và các thầy dạy giáo luật hỏi Ngài , " Tại sao các môn đồ Thầy không giữ truyền thống của các bậc trưởng lão để lại , mà ăn bánh với tay bẩn như thế ? "
+41008004	ai		Các môn đồ Ngài thưa với Ngài , " Ai có thể tìm bánh ở đâu ra để cho những người nầy ăn trong nơi hoang vắng nầy ? "
+41008005	bao nhiêu		Ngài hỏi họ , " Các ngươi có bao nhiêu bánh ? " Họ đáp , " Thưa có bảy cái . "
+41008012	tại sao		Ngài thở dài ngao ngán và nói , " Tại sao thế hệ nầy đòi xem một dấu lạ ? Quả thật , Ta nói với các ngươi , thế hệ nầy sẽ chẳng được ban cho dấu lạ nào cả . "
+41008017	tại sao		Biết vậy Ngài nói với họ , " Tại sao các ngươi bàn với nhau về việc không có bánh ? Các ngươi không thấy hoặc không hiểu sao ? Lòng các ngươi vẫn cứng cỏi sao ?
+41008018a	~		Mắt các ngươi không thấy và 
+41008018b	~		tai các ngươi không nghe sao ? Các ngươi chẳng nhớ sao ?
+41008019	bao nhiêu		Khi Ta bẻ năm cái bánh cho năm ngàn người ăn , những mảnh còn lại các ngươi đã lượm được bao nhiêu giỏ đầy ? " Họ đáp , " Thưa mười hai giỏ . "
+41008020	bao nhiêu		" Còn khi bảy cái bánh cho bốn ngàn người ăn , những mảnh còn lại các ngươi đã lượm được bao nhiêu giỏ đầy ? " Họ đáp , " Thưa bảy giỏ . "
+41008021	~		Ngài nói với họ , " Các ngươi vẫn còn chưa hiểu sao ? "
+41008023	gì		Ngài nắm tay người mù và dắt ông ra ngoài làng . Đoạn Ngài phun nước miếng vào mắt ông và đặt tay trên ông , Ngài hỏi ông , " Ngươi thấy gì chăng ? "
+41008027	ai		Đức Chúa Jesus và các môn đồ Ngài đến các làng trong miền Sê-sa-rê Phi-líp . Dọc đường Ngài hỏi các môn đồ Ngài , " Người ta nói Ta là ai ? "
+41008029a	~		Ngài hỏi họ , 
+41008029b	ai		" Còn các ngươi nói Ta là ai ? " Phi-rơ đáp , " Thầy là Đấng Christ . "
+41008036	gì		Vì nếu người nào được cả thế giới mà mất linh hồn mình thì có ích gì ?
+41008037	~		Người ấy sẽ lấy chi để đổi linh hồn mình lại ?
+41009010	gì		Họ ghi nhớ điều ấy trong lòng và bàn bạc với nhau về những lời " từ cõi chết sống lại " có nghĩa gì .
+41009011	tại sao		Họ hỏi Ngài , " Tại sao các thầy dạy giáo luật lại bảo rằng Ê-li-gia phải đến trước ? "
+41009012	gì		Ngài trả lời họ , " Ê-li-gia thật phải đến trước để tái lập mọi sự . Còn những gì đã viết về Con Người phải chịu nhiều đau khổ và bị miệt thị thì sao ?
+41009016	gì		Ngài hỏi họ , " Các ngươi đang tranh luận với họ về việc gì thế ? "
+41009019a	bao lâu		Ngài nói với họ , " Hỡi thế hệ vô tín , Ta phải ở với các ngươi bao lâu nữa ? 
+41009019b	bao lâu		Ta phải chịu đựng các ngươi bao lâu nữa ? Hãy đem đứa trẻ đến Ta . "
+41009021	bao lâu		Ngài hỏi cha đứa trẻ , " Nó bị như thế đã bao lâu rồi ? " Ông đáp , " Thưa từ khi cháu còn bé .
+41009028	tại sao		Sau khi đã vào trong nhà , các môn đồ Ngài đến hỏi riêng Ngài , " Tại sao chúng con không thể đuổi quỷ ấy ra được ?
+41009033	gì		Sau đó họ đến Thành Ca-phác-na-um . Khi đã vào trong nhà , Ngài hỏi họ , " Các ngươi đã bàn cãi với nhau việc gì ở dọc đường thế ? "
+41009050	làm sao		Muối là vật tốt , nhưng nếu muối bị mất mặn , các ngươi sẽ làm sao cho nó mặn lại ? Hãy có muối trong các ngươi , và hãy sống hòa bình với nhau . "
+41010003	gì		Ngài trả lời họ , " Mô-sê đã truyền cho các ngươi điều gì ? "
+41010017	gì		Lúc Ngài vừa lên đường , một người chạy đến , quỳ trước mặt Ngài , và nói , " Thưa Thầy thiện hảo , tôi phải làm gì để được hưởng sự sống đời đời ? "
+41010018	tại sao		Đức Chúa Jesus nói với ông , " Tại sao ngươi gọi Ta là thiện hảo ? Chẳng có ai thiện hảo ngoại trừ một mình Đức Chúa Trời .
+41010026	ai		Nghe thế các môn đồ lại càng lấy làm lạ hơn nữa và nói với nhau , " Nếu vậy thì ai có thể được cứu ? "
+41010036	~		Ngài hỏi họ , " Các ngươi muốn Ta làm chi cho các ngươi ? "
+41010051	gì		Đức Chúa Jesus hỏi ông và nói , " Ngươi muốn Ta làm gì cho ngươi ? " Người mù thưa với Ngài , " Thưa Thầy , con muốn trông thấy được . "
+41011003	tại sao		Nếu ai hỏi các ngươi , ' Tại sao các anh làm thế ? ' các ngươi hãy trả lời , ' Chúa cần dùng nó và Ngài sẽ gởi trả nó lại ngay . '
+41011005	gì		mấy người đứng đó hỏi , " Các anh tính làm gì mà mở dây cột lừa thế ? "
+41011028a	nào		họ hỏi Ngài , " Ông lấy thẩm quyền nào làm những điều nầy ? 
+41011028b	ai		Ai cho ông quyền làm những điều nầy ? "
+41011030	~		Phép báp-têm của Giăng đến từ trời hay từ người ? Hãy trả lời Ta đi . "
+41011031a	~		Họ bàn luận với nhau , " 
+41011031b	tại sao		Nếu chúng ta nói ' Từ trời , ' thì ông ấy sẽ hỏi vặn lại , ' Vậy tại sao các ngươi không tin Giăng ? '
+41012009	gì		Khi ấy chủ của vườn nho sẽ làm gì ? Ông sẽ đến tiêu diệt bọn tá điền đó và trao vườn nho cho người khác .
+41012015	tại sao		Nhưng khi thấy vẻ đạo đức giả của họ , Ngài nói với họ , " Tại sao các ngươi muốn thử Ta ? Hãy đem cho Ta xem một đồng tiền . "
+41012016a	của ai		Họ đưa cho Ngài một đồng tiền . Ngài hỏi họ , " Hình ảnh và danh hiệu nầy của ai ? " Họ trả lời Ngài , " Của Sê-sa . "
+41012016b	~		
+41012023	của ai		Vậy khi sống lại , người đàn bà ấy sẽ là vợ của ai , vì bảy người đều đã lấy bà ? "
+41012028	nào		Một trong các thầy dạy giáo luật đến gần để nghe họ tranh luận . Khi thấy Ngài đối đáp quá hay , ông hỏi Ngài , " Thưa Thầy , điều răn nào là lớn hơn hết ? "
+41012035	thể nào		Khi Đức Chúa Jesus đang giảng dạy trong đền thờ , Ngài hỏi , " Làm thể nào các thầy dạy giáo luật bảo rằng Đấng Christ là Con của Đa-vít ?
+41012037	thể nào		Vậy nếu chính Đa-vít đã gọi Ngài là ' Chúa , ' thì thể nào Ngài là Con của Đa-vít được ? " Đoàn dân đông lấy làm thích thú lắng nghe Ngài .
+41013004a	khi nào		" Xin Thầy nói cho chúng con biết khi nào việc ấy sẽ xảy ra , 
+41013004b	nào		và có dấu hiệu nào báo trước những việc ấy sẽ được ứng nghiệm chăng ? "
+41014004	tại sao		Nhưng mấy người ở đó bực bội nói với nhau , " Tại sao lại phí dầu ấy như thế ?
+41014006	tại sao		Nhưng Đức Chúa Jesus nói , " Hãy để yên nàng . Tại sao các ngươi làm khó nàng ? Nàng đã làm một việc tốt cho Ta .
+41014012	ở đâu		Vào ngày thứ nhất của Lễ Bánh Không Men , ngày người ta sát tế con chiên của Lễ Vượt Qua , các môn đồ Ngài hỏi Ngài , " Thầy muốn chúng con đi và chuẩn bị cho Thầy ăn Lễ Vượt Qua ở đâu ? "
+41014014	ở đâu		Khi người ấy vào nhà nào , các ngươi hãy nói với chủ nhà ấy , ' Thầy hỏi : Phòng khách là nơi Ta sẽ ăn Lễ Vượt Qua với các môn đồ Ta ở đâu ? '
+41014060a	~		Bấy giờ vị thượng tế đứng dậy giữa họ và hỏi Đức Chúa Jesus rằng , " Ngươi không trả lời sao ? 
+41014060b	gì		Những người nầy tố cáo ngươi điều gì thế ? "
+41014063	~		Vị thượng tế bèn xé toạc chiếc áo choàng của ông và nói , " Chúng ta có cần các nhân chứng nữa chăng ?
+41014064	~		Quý vị đã nghe rõ những lời phạm thượng của hắn rồi đấy . Quý vị tính sao ? " Tất cả Hội Đồng đều lên án rằng Ngài đáng chết .
+41015004	~		Phi-lát lại hỏi Ngài nữa , " Ngươi không trả lời gì sao ? Hãy xem , họ cáo buộc ngươi biết bao nhiêu tội . "
+41015012	gì		Phi-lát hỏi lại họ , " Vậy các ngươi muốn ta làm gì với người các ngươi gọi là Vua dân Do-thái ? "
+41015014a	tại sao		Phi-lát hỏi họ , " Tại sao ? 
+41015014b	gì		Người nầy đã làm điều ác gì ? " Nhưng họ lại gào to hơn , " Hãy đóng đinh hắn trên cây thập tự ! "
+41015034	sao		Lúc ba giờ chiều , Đức Chúa Jesus kêu lớn tiếng , " Ê-lô-i ! Ê-lô-i ! Lê-ma Sa-bách-tha-ni ? " Nghĩa là " Đức Chúa Trời của con ôi ! Đức Chúa Trời của con ôi ! Sao Ngài lìa bỏ con ? "
+41016003	ai		Họ nói với nhau , " Ai sẽ lăn tảng đá chận cửa mộ giúp chúng ta ? "
+42001018	làm sao		Xa-cha-ri thưa với thiên sứ , " Làm sao tôi biết việc nầy sẽ xảy ra , vì tôi đã già , còn vợ tôi lại cao tuổi ? "
+42001034	làm sao		Ma-ry thưa với thiên sứ , " Làm sao việc ấy có thể xảy ra được , vì tôi chưa hề biết một người nam nào ? "
+42001043	đâu		Do đâu mà tôi được vinh dự nầy , đó là được thân mẫu của Chúa đến thăm tôi ?
+42001066	sao		Tất cả những ai nghe chuyện đó đều nói , " Rồi đây không biết đứa trẻ ấy sẽ ra sao ? " Vì , thật vậy , tay Chúa ở với nó .
+42002048	tại sao		Khi thấy Ngài , cha mẹ Ngài sửng sốt ; mẹ Ngài nói với Ngài , " Con à , tại sao con làm cho cha mẹ phải vất vả như vậy ? Này , cha con và mẹ đã tìm con và lo lắng cho con biết bao . "
+42002049	sao		Ngài đáp , " Thưa mẹ , sao cha mẹ tìm con ? Cha mẹ không biết con phải ở trong nhà của Cha con sao ? "
+42003007	ai		Vậy Giăng nói với đoàn dân kéo ra gặp ông để chịu báp-têm , " Hỡi dòng dõi của rắn lục kia , ai đã cảnh cáo các người để chạy trốn cơn thịnh nộ sắp đến ?
+42003010	gì		Dân chúng hỏi ông , " Thế thì chúng tôi phải làm gì ? "
+42003012	~		Ngay cả những người thu thuế cũng đến chịu báp-têm , họ hỏi ông , " Thưa thầy , chúng tôi phải làm chi ? "
+42003014a	~		Các binh lính cũng hỏi ông , 
+42003014b	gì		" Còn chúng tôi , chúng tôi phải làm gì ? " Ông đáp , " Đừng tống tiền ai hay cáo gian ai để kiếm tiền , nhưng hãy thỏa lòng với lương bổng của mình . "
+42004034	nào		" Lạy Đức Chúa Jesus ở Na-xa-rét , chúng tôi nào có xúc phạm gì đến Ngài chăng ? Ngài đến để tiêu diệt chúng tôi sao ? Tôi biết Ngài là ai . Ngài là Đấng Thánh của Đức Chúa Trời . "
+42004036	gì		Mọi người đều kinh hãi , họ nói với nhau , " Đạo gì vậy ? Ông ấy lấy quyền năng và uy lực ra lịnh cho các tà linh ô uế , và chúng phải xuất ra ! "
+42005021a	ai		Bấy giờ những thầy dạy giáo luật và những người Pha-ri-si bắt đầu thắc mắc , " Người nầy là ai mà lộng ngôn như thế ? 
+42005021b	ai		Ngoại trừ một mình Đức Chúa Trời , ai có quyền tha tội ? "
+42005022	tại sao		Nhưng biết ý tưởng họ , Đức Chúa Jesus trả lời và nói với họ , " Tại sao tâm trí các ngươi thắc mắc như vậy ?
+42005023	nào		Điều nào dễ hơn , nói ' Tội lỗi của ngươi đã được tha , ' hay nói ' Hãy đứng dậy và bước đi ' ?
+42005030	tại sao		Những người Pha-ri-si và các thầy dạy giáo luật phàn nàn với các môn đồ Ngài rằng , " Tại sao các ông lại ăn uống với bọn thu thuế và phường tội lỗi như thế ? "
+42005033	~		Bấy giờ họ nói với Ngài , " Các môn đồ của Giăng thường kiêng ăn và cầu nguyện , các môn đồ của những thầy Pha-ri-si cũng làm thế , nhưng các môn đồ của Thầy thì vẫn ăn và uống như thường . "
+42005034	~		Đức Chúa Jesus trả lời họ , " Không lẽ các ngươi bắt các quan khách đến dự tiệc cưới phải kiêng ăn trong khi chàng rể vẫn còn ở với họ sao ?
+42006002	tại sao		Mấy người Pha-ri-si thấy vậy bèn nói , " Tại sao các người làm những việc không được phép làm trong ngày Sa-bát như thế ? "
+42006009	~		Đức Chúa Jesus nói với họ , " Ta hỏi các ngươi : Theo luật pháp , trong ngày Sa-bát người ta nên làm điều thiện hay nên làm điều ác , nên cứu người hay nên giết người ? "
+42006032	gì		Nếu các ngươi yêu thương những người yêu thương các ngươi thì có ơn nghĩa gì chăng ? Ngay cả những kẻ tội lỗi cũng yêu thương kẻ yêu thương họ vậy .
+42006033	gì		Nếu các ngươi đối xử tốt với những người đối xử tốt với các ngươi thì có ơn nghĩa gì chăng ? Ngay cả những kẻ tội lỗi cũng làm như vậy .
+42006034	gì		Nếu các ngươi cho vay mà mong đòi lại thì có ơn nghĩa gì chăng ? Ngay cả những kẻ tội lỗi cũng cho những kẻ tội lỗi vay mượn và đòi lại đầy đủ vậy .
+42006039	~		Ngài cũng kể cho họ một ngụ ngôn : " Có thể nào một người mù lại dẫn đường một người mù chăng ? Chẳng phải cả hai sẽ rơi xuống hố sao ?
+42006041	sao		Sao ngươi thấy hạt bụi nhỏ trong mắt người khác , mà không thấy cái dằm trong mắt ngươi ?
+42006042	sao		Sao ngươi có thể nói với người khác rằng , ' Này bạn , hãy để tôi lấy hạt bụi trong mắt bạn ra , ' trong khi ngươi không thấy cái dằm trong mắt mình ? Hỡi kẻ đạo đức giả ! Trước hết hãy lấy cái dằm ra khỏi mắt ngươi , rồi ngươi mới thấy rõ , mà lấy hạt bụi ra khỏi mắt người khác . "
+42006046	tại sao		" Tại sao các ngươi gọi Ta , ' Lạy Chúa , lạy Chúa , ' mà không làm theo điều Ta nói ?
+42007024	gì		Khi các sứ giả của Giăng đã đi rồi , Ngài bắt đầu nói với đoàn dân về Giăng , " Các ngươi đi vào đồng hoang để xem gì ? Xem một cây sậy phất phơ trước gió chăng ?
+42007025	gì		Vậy , các ngươi đi xem gì ? Xem một người mặc nhung gấm chăng ? Kìa , những kẻ mặc nhung gấm và sống xa hoa đều ở trong các cung điện .
+42007026	gì		Vậy các ngươi đi xem gì ? Xem một đấng tiên tri chăng ? Phải , Ta nói với các ngươi , có một người vĩ đại hơn cả đấng tiên tri nữa .
+42007031a	ai		" Ta phải ví những người trong thế hệ nầy với ai ? 
+42007031b	ai		Họ giống như ai ?
+42007042	ai		Cả hai đều không có tiền để trả nợ , nên chủ nợ tha hết cho hai người . Vậy ai trong hai người đó thương chủ nợ nhiều hơn ? "
+42007049	ai		Những người ngồi dùng bữa với Ngài bắt đầu nói với nhau , " Người nầy là ai mà có quyền tha tội ? "
+42008025a	đâu		Ngài nói với họ , " Đức tin của các ngươi đâu rồi ? " Họ sợ hãi và kinh ngạc , nói với nhau , 
+42008025b	ai		" Người nầy là ai , mà khi ra lệnh , ngay cả gió và nước cũng phải vâng lời ? "
+42008028	gì		Khi người ấy thấy Đức Chúa Jesus , ông đến sấp mình trước mặt Ngài và rống cổ gào to , " Lạy Đức Chúa Jesus Con Đức Chúa Trời Tối Cao , Ngài tính làm gì với tôi đây ? Tôi van xin Ngài , đừng làm khổ tôi . "
+42008030	gì		Đức Chúa Jesus hỏi ông , " Ngươi tên gì ? " Ông đáp , " Đạo quân , " vì ông đã bị nhiều quỷ nhập vào .
+42008045	ai		Đức Chúa Jesus hỏi , " Ai đã đụng đến Ta ? " Mọi người đều chối cả . Phi-rơ nói , " Thưa Thầy , đám đông chen lấn nhau quanh Thầy , và có lẽ ai đó đã lỡ đụng vào Thầy . "
+42009009a	ai		Hê-rốt nói , " Giăng thì ta đã chặt đầu , nhưng người nầy là ai mà ta nghe những chuyện như thế ? " Rồi ông tìm cách gặp Đức Chúa Jesus .
+42009009b	~		
+42009018	ai		Một ngày kia Đức Chúa Jesus đang ở riêng cầu nguyện , các môn đồ Ngài ở với Ngài . Ngài hỏi họ , " Đám đông nói Ta là ai ? "
+42009020a	~		Ngài hỏi họ , 
+42009020b	ai		" Nhưng các ngươi nói Ta là ai ? " Phi-rơ trả lời và nói , " Thầy là Đấng Christ đến từ Đức Chúa Trời . "
+42009025	gì		Vì nếu một người được cả thế giới mà mất chính mình hoặc thiệt hại chính mình thì có ích gì ?
+42009041a	bao lâu		Đức Chúa Jesus trả lời và nói , " Hỡi thế hệ vô tín và hư hỏng nầy . Ta phải ở với các ngươi và chịu đựng các ngươi bao lâu nữa ? Hãy đem con ngươi lại đây . "
+42009041b	~		
+42010025	gì		Khi ấy , một luật sư đứng dậy hỏi để thử Đức Chúa Jesus , " Thưa Thầy , tôi phải làm gì để được hưởng sự sống đời đời ? "
+42010026a	gì		Ngài hỏi lại ông , " Trong Luật Pháp có chép những gì ? 
+42010026b	gì		Ngươi đọc và thấy những gì ? "
+42010029	ai		Nhưng muốn chứng tỏ mình là người đã giữ đúng theo luật pháp , ông hỏi Đức Chúa Jesus , " Nhưng ai là người lân cận tôi ? "
+42010036a	~		
+42010036b	ai		Theo ngươi , ai trong ba người đó là người lân cận của người bị sa vào tay bọn cướp ? "
+42011008	~		Ta nói với các ngươi , mặc dù người kia không muốn dậy để cho , dù là bạn bè , thì rồi cũng sẽ dậy để cho những điều bạn mình cần , vì người ấy cứ kiên trì .
+42011011	ai		Có ai trong các ngươi khi con mình xin một con cá mà cho nó một con rắn thay vì một con cá chăng ?
+42011012	~		Hay có ai khi con mình xin một cái trứng mà cho nó một con bò cạp chăng ?
+42011013	~		Vậy nếu các ngươi vốn là xấu mà còn biết cho con cái mình những vật tốt , huống chi Cha các ngươi trên trời , Ngài há không ban Đức Thánh Linh cho những người xin Ngài sao ? "
+42011018	làm sao		Nếu Sa-tan chia rẽ với chính nó , làm sao nước của nó đứng vững ? Ta hỏi thế vì các ngươi bảo rằng Ta đã cậy quyền của Bê-ên-xê-bun để đuổi quỷ .
+42011019	của ai		Nếu Ta cậy quyền của Bê-ên-xê-bun để đuổi quỷ thì các đệ tử của các ngươi đã cậy quyền của ai để đuổi quỷ ? Thế thì chính chúng sẽ xét đoán các ngươi .
+42012014	ai		Ngài trả lời với người ấy , " Hỡi người kia , ai lập Ta làm thẩm phán hay làm người chia gia tài cho các ngươi ? "
+42012017	gì		Người ấy tự nhủ , ' Ta phải làm gì bây giờ , vì ta không còn chỗ để chứa các hoa lợi của ta nữa ? '
+42012020	ai		Nhưng Đức Chúa Trời phán với người ấy , ' Hỡi kẻ dại , chính đêm nay linh hồn ngươi sẽ bị đòi lại , bấy giờ những của cải ngươi đã chuẩn bị sẽ thuộc về ai ? '
+42012024	~		Hãy xem loài quạ . Chúng chẳng gieo và chẳng gặt , chúng chẳng có kho thóc hay vựa lẫm , thế mà Đức Chúa Trời vẫn nuôi chúng . Các ngươi thật quý giá hơn loài chim biết bao .
+42012025	ai		Có ai trong các ngươi nhờ lo lắng có thể làm cho đời mình dài thêm một khắc không ?
+42012026	tại sao		Vậy nếu các ngươi không thể làm được một việc nhỏ như thế , tại sao phải lo lắng những việc khác làm chi ?
+42012042	ai		Chúa đáp , " Ai là người quản gia trung tín và khôn ngoan được chủ lập lên để cai quản các đầy tớ mình và để cấp phát lương thực cho họ đúng kỳ ?
+42012049	~		" Ta đến để mang lửa đến trên đất . Ôi Ta ước chi lửa ấy đã bùng lên !
+42012056	tại sao		Hỡi những kẻ đạo đức giả ! Nhìn những hiện tượng của trời đất , các ngươi có thể giải đoán những gì sẽ xảy đến , tại sao khi nhìn thời đại nầy các ngươi lại không biết giải đoán ?
+42012057	tại sao		Tại sao các ngươi không tự mình phán đoán , để xem điều gì là đúng ?
+42013004	~		Hay mười tám người bị Tháp Si-lô-am đổ xuống đè chết , các ngươi nghĩ những người đó có tội hơn mọi người sống ở Giê-ru-sa-lem sao ?
+42013007	tại sao		Vì thế ông nói với người làm vườn , ' Anh coi , đã ba năm nay , tôi ra cây vả nầy tìm trái nhưng chẳng thấy trái nào . Vậy hãy đốn nó đi . Tại sao để nó choán đất ? '
+42013015	ai		Nhưng Chúa trả lời ông và nói , " Hỡi các ngươi , những kẻ đạo đức giả ! Có ai trong các ngươi trong ngày Sa-bát không mở dây cho bò hay lừa của mình rời máng cỏ để dắt nó đi uống nước chăng ?
+42013018a	gì		Bấy giờ Ngài nói , " Vương quốc Đức Chúa Trời giống như gì ? 
+42013018b	gì		Ta phải ví sánh nó với gì ?
+42013020	gì		Ngài lại nói , " Ta phải ví sánh vương quốc Đức Chúa Trời với gì ?
+42013025	đâu		Một khi chủ nhà đã dậy và đóng cửa , nếu các ngươi còn đứng bên ngoài , gõ cửa , và nói , ' Chủ ơi , xin mở cửa cho chúng tôi . ' Bấy giờ chủ sẽ nói với các ngươi , ' Ta không biết các ngươi từ đâu đến . '
+42014005	ai		Đoạn Ngài nói với họ , " Trong vòng các ngươi , ai có con mình hay bò mình bị rớt xuống giếng trong ngày Sa-bát mà không vớt nó lên chăng ? "
+42014028	ai		Vì ai trong các ngươi muốn xây một cái tháp mà trước hết không ngồi xuống tính phí tổn , xem có đủ khả năng để hoàn tất công trình xây cất ấy chăng ?
+42014031	~		Hoặc có vua nào kéo quân đi giao chiến với vua khác mà trước hết không ngồi xuống bàn tính , xem mười ngàn quân của mình có thể thắng nổi hai mươi ngàn quân của kẻ sẽ giao chiến với mình chăng ?
+42014034	làm sao		" Muối là vật tốt , nhưng nếu muối mất mặn , làm sao để nó mặn lại ?
+42015004	ai		" Ai trong các ngươi có một trăm con chiên , nếu bị mất một con , mà không để chín mươi chín con kia trong đồng , rồi đi tìm con bị mất cho đến khi tìm được chăng ?
+42015008	~		" Hoặc có người phụ nữ nào có mười đồng bạc , nếu bị mất một đồng mà lại không thắp đèn , quét nhà , và tìm kiếm kỹ càng cho đến khi tìm được chăng ?
+42015026	gì		anh gọi một đầy tớ đến và hỏi xem trong nhà có chuyện gì .
+42015029	~		Nhưng anh trả lời và nói với cha anh , ' Cha xem đó , bao nhiêu năm nay con phục vụ cha , con không bao giờ làm trái lệnh cha , nhưng chưa bao giờ cha cho con một con dê con để con vui vẻ với bạn bè .
+42016002	gì		Chủ gọi quản gia ấy đến và bảo , ' Anh đã làm gì mà tôi nghe báo cáo như thế ? Hãy khai trình việc quản lý của anh cho tôi xem , vì anh sẽ không làm quản gia nữa . '
+42016003	gì		Quản gia ấy tự nhủ , ' Ta sẽ làm gì bây giờ , vì chủ cách chức quản gia của ta ? Cuốc đất thì ta không đủ sức , còn ăn mày thì xấu hổ quá .
+42016005	bao nhiêu		Quản gia ấy bèn gọi từng con nợ của chủ đến . Anh hỏi người thứ nhất , ' Ông nợ chủ tôi bao nhiêu ? '
+42016007	bao nhiêu		Rồi anh hỏi người khác , ' Ông nợ bao nhiêu ? ' Người ấy đáp , ' Một trăm thùng lúa . ' Anh bảo người ấy , ' Hãy lấy giấy nợ của ông và viết tám chục . '
+42016011	ai		Vậy nếu các ngươi không trung tín đối với của cải phi nghĩa , ai dám trao cho các ngươi quản lý của cải chân chính ?
+42016012	ai		Nếu các ngươi không trung tín đối với những gì của người khác , ai dám trao cho các ngươi những gì các ngươi có khả năng quản lý ?
+42017007	~		" Có người nào trong các ngươi bảo đầy tớ mình vừa đi cày về hay vừa chăn chiên ở ngoài đồng về , ' Hãy mau ngồi xuống ăn ' chăng ?
+42017017	ở đâu		Bấy giờ Đức Chúa Jesus cất tiếng và nói , " Chẳng phải cả mười người đều được sạch phung sao ? Còn chín người kia ở đâu ?
+42017018	tại sao		Tại sao không ai trở lại và tôn vinh Đức Chúa Trời ngoại trừ người ngoại quốc nầy ? "
+42017020	khi nào		Khi ấy những người Pha-ri-si hỏi Ngài khi nào vương quốc Đức Chúa Trời sẽ đến , Ngài trả lời họ và nói , " Vương quốc Đức Chúa Trời không đến bằng những gì có thể quan sát được .
+42017037	đâu		Họ hỏi Ngài và nói , " Lạy Chúa , tại đâu ? " Ngài trả lời họ , " Xác chết ở đâu , kên kên bâu lại đó . "
+42018018	gì		Một vị quan kia hỏi Ngài rằng , " Thưa Thầy thiện hảo , tôi phải làm gì để hưởng sự sống đời đời ? "
+42018019	tại sao		Đức Chúa Jesus nói với ông , " Tại sao ngươi gọi Ta là thiện hảo ? Chẳng có ai thiện hảo ngoại trừ một mình Đức Chúa Trời .
+42018026	ai		Những người ở đó nghe thế bèn nói , " Nếu vậy thì ai có thể được cứu ? "
+42018036	gì		Nghe tiếng đám đông đi qua , ông hỏi có chuyện gì xảy ra .
+42018041	gì		" Ngươi muốn Ta làm gì cho ngươi ? " Ông đáp , " Lạy Chúa , xin cho con được thấy trở lại . "
+42019007	~		Thấy vậy mọi người xầm xì với nhau , " Ông ấy vào làm khách trong nhà một kẻ tội lỗi . "
+42019023	tại sao		Vậy tại sao ngươi không gởi bạc của ta vào ngân hàng để khi về ta sẽ thu cả vốn lẫn lời ? '
+42019031	tại sao		Nếu ai hỏi các ngươi , ' Tại sao các anh mở nó ra ? ' các ngươi hãy đáp , ' Chúa cần dùng nó . ' "
+42019033	tại sao		Vừa khi họ mở dây cột con lừa , mấy người chủ con lừa hỏi họ , " Tại sao các anh mở dây cột con lừa nầy ra ? "
+42020002a	nào		và nói với Ngài , " Hãy nói cho chúng tôi biết , ông lấy thẩm quyền nào làm những điều nầy ? 
+42020002b	ai		Hay ai ban cho ông thẩm quyền ấy ? "
+42020005a	~		Họ thảo luận với nhau và nói , " Nếu chúng ta nói ' Từ trời , ' ông ta sẽ hỏi lại , 
+42020005b	tại sao		' Thế tại sao các ngươi không tin ông ấy ? '
+42020013	gì		Bấy giờ người chủ của vườn nho nói , ' Ta sẽ làm gì đây ? Ta sẽ sai con trai yêu dấu của ta đến . Có lẽ họ sẽ kiêng nể nó . '
+42020015	gì		Thế là chúng đuổi cậu ấy ra ngoài vườn và giết cậu ấy . Vậy chủ của vườn nho sẽ làm gì đối với bọn ấy ?
+42020017	gì		Nhưng Ngài nhìn họ và nói , " Vậy câu Kinh Thánh nầy , ' Tảng đá bị những thợ xây nhà loại ra đã trở thành tảng đá góc nhà ' có ý nghĩa gì ?
+42020023	~		Nhưng Ngài nhìn thấy rõ lòng xảo quyệt của họ nên nói với họ ,
+42020024a	của ai		" Hãy cho Ta xem một đồng tiền . Hình ảnh và danh hiệu nầy của ai ? " Họ đáp , " Của Sê-sa . "
+42020024b	~		
+42020033	ai		Vậy trong ngày sống lại , người đàn bà ấy sẽ là vợ ai ? Vì cả bảy anh em đều đã lấy bà làm vợ . "
+42020041	thể nào		Bấy giờ Ngài hỏi họ , " Làm thể nào người ta có thể nói Đấng Christ là Con của Đa-vít ,
+42020044	thể nào		Vậy Đa-vít đã gọi Ngài là ' Chúa , ' làm thể nào Ngài là con của ông ấy được ? "
+42021007a	khi nào		Họ hỏi Ngài rằng , " Thưa Thầy , khi nào việc ấy sẽ xảy ra ? 
+42021007b	~		Có điềm gì báo trước việc ấy sẽ xảy đến không ? "
+42022009	ở đâu		Họ hỏi Ngài , " Thưa Thầy , Thầy muốn chúng con dọn tiệc ấy ở đâu ? "
+42022011	ở đâu		Các ngươi hãy hỏi chủ nhà ấy rằng , ' Thầy chúng tôi xin hỏi ông : " Phòng khách , nơi Ta sẽ dự tiệc Lễ Vượt Qua với các môn đồ Ta ở đâu ? '
+42022027	ai		Vì giữa người ngồi ăn và người hầu bàn , ai là người lớn hơn ? Há chẳng phải là người ngồi ăn sao ? Nhưng ở giữa các ngươi , Ta sống như một người phục vụ .
+42022046	sao		Ngài nói với họ , " Sao các ngươi lại ngủ ? Hãy thức dậy và cầu nguyện để các ngươi khỏi sa vào chước cám dỗ . "
+42022064	ai		Chúng bịt mắt Ngài và hỏi Ngài rằng , " Hãy nói tiên tri đi , ai đánh ông đó ? "
+42022071	gì		Họ bèn nói , " Chúng ta đâu cần chứng cớ gì nữa ? Chính chúng ta đã nghe miệng ông ấy nói rồi . "
+42023022a	tại sao		Ông hỏi họ lần thứ ba , " Tại sao ? 
+42023022b	gì		Người nầy đã làm điều ác gì ? Ta không thấy người nầy có tội gì đáng chết . Vậy ta sẽ cho đánh đòn , rồi thả người ấy ra . "
+42023031	sao		Vì khi cây vẫn còn xanh mà người ta đã đối xử như vậy , thì khi cây khô rồi người ta sẽ đối xử ra sao ? "
+42024005	tại sao		Họ hoảng sợ và sấp mặt xuống đất , nhưng hai người đó nói với họ , " Tại sao các ngươi tìm người sống trong vòng kẻ chết ?
+42024017	gì		Ngài hỏi họ , " Các ngươi bàn tán với nhau việc gì trong khi đi đường vậy ? " Họ dừng lại , nét mặt buồn rầu .
+42024019	gì		Ngài hỏi , " Việc gì vậy ? " Họ đáp , " Đó là những việc về Đức Chúa Jesus , người Na-xa-rét ; Ngài là một đấng tiên tri có việc làm và lời nói đầy quyền năng trước mặt Đức Chúa Trời và mọi người .
+42024025	~		Ngài phán với họ , " Ôi những kẻ khờ khạo và có lòng chậm hiểu về mọi điều các đấng tiên tri đã báo trước .
+42024038a	tại sao		Nhưng Ngài nói với họ , " Tại sao các ngươi sợ , 
+42024038b	tại sao		và tại sao lòng các ngươi nảy ra nỗi nghi ngờ ?
+43001019	ai		Đây là lời chứng của Giăng khi người Do-thái phái mấy vị tư tế và người Lê-vi từ Giê-ru-sa-lem đến gặp ông và hỏi , " Ông là ai ? "
+43001021	ai		Họ lại hỏi , " Vậy ông là ai ? Ông có phải là Ê-li-gia chăng ? " Ông đáp , " Không phải . " " Ông có phải là một đấng tiên tri chăng ? " Ông trả lời , " Không . "
+43001022a	ai		Họ hỏi tiếp , " Vậy thì ông là ai ? Xin ông nói cho chúng tôi biết để chúng tôi trở về báo cáo cho những người đã sai chúng tôi . 
+43001022b	ai		Ông tự cho mình là ai ? "
+43001025	gì		Họ hỏi Giăng , " Nếu ông không phải là Đấng Christ , cũng không phải là Ê-li-gia , và không phải là một đấng tiên tri , ông lấy tư cách gì làm báp-têm ? "
+43001038a	gì		Đức Chúa Jesus quay lại và thấy hai người theo mình , Ngài hỏi , " Các ngươi tìm gì ? " Họ trả lời Ngài , 
+43001038b	ở đâu		" Ra-bi ! ( nghĩa là , Thưa Thầy ! ) Thầy ở đâu ? "
+43001046	~		Na-tha-na-ên nói với ông , " Có gì tốt ra từ Na-xa-rét sao ? " Phi-líp đáp , " Mời bạn đến xem . "
+43001048	làm sao		Na-tha-na-ên hỏi Ngài , " Làm sao Thầy biết con ? " Đức Chúa Jesus trả lời và nói với ông , " Trước khi Phi-líp gọi ngươi , khi ngươi ở dưới cây vả , Ta đã thấy ngươi . "
+43002004	~		Đức Chúa Jesus nói với bà , " Mẹ à , mẹ và con phải lo việc nầy sao ? Chưa đến giờ của con mà . "
+43002018a	~		
+43002018b	gì		Người Do-thái cất tiếng hỏi Ngài , " Thầy có phép lạ gì cho chúng tôi thấy để chứng tỏ Thầy có quyền làm những điều nầy ? "
+43003004	làm sao		Ni-cô-đem nói với Ngài , " Làm sao một người già có thể sinh lại được ? Có thể nào người ấy trở vào lòng mẹ lần thứ hai để được sinh ra sao ? "
+43003009	làm sao		Ni-cô-đem đáp lời và nói với Ngài , " Làm sao những điều ấy có thể xảy ra được ? "
+43003012	làm sao		Nếu Ta nói với các ngươi những việc dưới đất mà các ngươi không tin , làm sao các ngươi sẽ tin nếu Ta nói những việc trên trời ?
+43004009	làm sao		Người đàn bà Sa-ma-ri trả lời Ngài , " Làm sao ông , một người Do-thái , lại hỏi tôi , một phụ nữ Sa-ma-ri , để xin nước uống ? " ( Số là người Do-thái không giao thiệp với người Sa-ma-ri ) .
+43004011	đâu		Bà ấy nói với Ngài , " Thưa ông , ông không có gàu , còn giếng thì sâu . Vậy ông lấy đâu ra được nước hằng sống ấy ?
+43004027a	gì		Vừa lúc đó các môn đồ Ngài trở lại , họ ngạc nhiên vì thấy Ngài nói chuyện với một phụ nữ , nhưng không ai hỏi Ngài , " Thầy cần gì ? " hoặc 
+43004027b	tại sao		" Tại sao Thầy nói chuyện với bà ấy ? "
+43005012	ai		Họ hỏi ông , " Ai là người đã bảo ông vác chõng của ông và bước đi ? "
+43005044	làm sao		Làm sao các ngươi có thể tin khi các ngươi chỉ thích vinh danh lẫn nhau , nhưng không tìm kiếm vinh hiển đến từ Đức Chúa Trời là chân thần duy nhất ?
+43005047	làm sao		Nhưng nếu các ngươi không tin những gì Mô-sê đã viết , làm sao các ngươi tin những gì Ta nói ? "
+43006005	ở đâu		Đức Chúa Jesus ngước mắt lên và thấy một đoàn dân rất đông kéo đến với Ngài , Ngài nói với Phi-líp , " Chúng ta phải mua bánh ở đâu cho những người nầy ăn ? "
+43006009	đâu		" Thưa đây có một cậu bé , cậu ấy có năm cái bánh lúa mạch và hai con cá nhỏ , nhưng ngần ấy có thấm vào đâu so với đoàn dân đông nầy ? "
+43006025	khi nào		Khi tìm được Ngài bên kia bờ biển , họ nói với Ngài , " Thưa Thầy , Thầy đã đến đây khi nào ? "
+43006028	gì		Họ hỏi Ngài , " Chúng tôi phải làm gì để có thể làm những công việc của Đức Chúa Trời ? "
+43006030a	gì		Họ nói với Ngài , " Thầy sẽ làm phép lạ gì để chúng tôi thấy và tin Thầy ? 
+43006030b	gì		Thầy sẽ làm việc gì ?
+43006042	sao		Họ nói , " Người nầy chẳng phải là Jesus con của Giô-sép , mà cha và mẹ ông ấy chúng ta đều biết chăng ? Sao bây giờ ông ấy nói , ' Ta từ trời xuống ? ' "
+43006052	làm sao		Bấy giờ người Do-thái bàn cãi sôi nổi với nhau , " Làm sao người nầy lấy thịt mình cho chúng ta ăn ? "
+43006060	ai		Nhiều môn đồ Ngài nghe những lời ấy , họ nói , " Những lời dạy nầy khó quá . Ai có thể lãnh hội nổi ? "
+43006062	thể nào		Vậy nếu các ngươi nhìn thấy Con Người ngự lên nơi Người đã ở trước kia thì thể nào ?
+43006068	ai		Si-môn Phi-rơ thưa với Ngài , " Lạy Chúa , chúng con sẽ theo ai ? Ngài có lời của sự sống đời đời .
+43007011	đâu		Người Do-thái tìm kiếm Ngài trong kỳ lễ và nói , " Ông ấy đâu rồi ? "
+43007015	làm sao		Người Do-thái ngạc nhiên nói , " Làm sao người nầy không được học hành mà có kiến thức uyên bác như thế ? "
+43007019	tại sao		Mô-sê đã chẳng ban Luật Pháp cho các ngươi sao ? Thế nhưng không ai trong các ngươi tuân giữ Luật Pháp ! Tại sao các ngươi tìm cách giết Ta ? "
+43007020	ai		Đám đông đáp , " Thầy bị quỷ ám rồi . Ai tìm cách giết Thầy đâu ? "
+43007023	tại sao		Nếu một người nhận phép cắt bì trong ngày Sa-bát để khỏi vi phạm Luật Pháp Mô-sê , tại sao các ngươi lại giận Ta khi Ta chữa lành hoàn toàn cho một người trong ngày Sa-bát ?
+43007035	đi đâu		Người Do-thái nói với nhau , " Ông ấy định đi đâu mà chúng ta sẽ không tìm được ? Không lẽ ông ấy sẽ đến với đồng bào tha hương sống giữa người Hy-lạp và giảng cho người Hy-lạp chăng ?
+43007036	gì		Ông ấy muốn nói gì khi ông ấy nói , ' Các ngươi sẽ tìm Ta và sẽ không tìm được , ' và ' nơi Ta ở , các ngươi không thể đến được ' ? "
+43007041	~		Những người khác nói , " Người nầy là Đấng Christ . " Nhưng những kẻ khác lại bảo , " Đấng Christ há đến từ Ga-li-lê sao ?
+43007045	tại sao		Thấy vậy toán cảnh binh trở về với các trưởng tế và những người Pha-ri-si ; những người ấy hỏi họ , " Tại sao các anh không dẫn ông ấy đến đây ? "
+43007048	~		Có ai trong giới lãnh đạo hay những người Pha-ri-si tin ông ấy không ?
+43007051	~		" Luật Pháp chúng ta không kết tội ai trước khi nghe người đó phát biểu và biết rõ người đó đã làm gì phải không ? "
+43008005	sao		Trong Luật Pháp , Mô-sê đã truyền chúng ta phải ném đá hạng người như thế ; còn Thầy , Thầy nghĩ sao ? "
+43008010	đâu		Đức Chúa Jesus đứng dậy và nói với bà ấy , " Này bà , những người tố cáo ngươi đâu rồi ? Không ai lên án ngươi sao ? "
+43008019	ở đâu		Vậy họ hỏi Ngài , " Cha Thầy ở đâu ? " Đức Chúa Jesus đáp , " Các ngươi không biết Ta và cũng không biết Cha Ta . Nếu các ngươi biết Ta thì các ngươi cũng biết Cha Ta . "
+43008025a	ai		Vậy họ hỏi Ngài , " Thầy là ai ? " 
+43008025b	~		Đức Chúa Jesus trả lời họ , " Là Đấng Ta đã nói với các ngươi từ đầu .
+43008033	thế nào		Họ đáp lời Ngài , " Chúng tôi là dòng dõi của Áp-ra-ham và chưa hề làm nô lệ ai . Làm thế nào Thầy bảo ' Các ngươi sẽ được tự do ? ' "
+43008043	tại sao		Tại sao các ngươi không chịu hiểu những gì Ta nói ? Bởi vì các ngươi không thể nghe lời Ta .
+43008046a	ai		Ai trong các ngươi có thể chứng minh rằng Ta có tội được chăng ? 
+43008046b	tại sao		Nếu Ta nói thật , tại sao các ngươi không tin Ta ?
+43008053	ai		Chẳng lẽ Thầy lớn hơn tổ phụ chúng tôi là Áp-ra-ham , một người đã chết rồi sao ? Các vị tiên tri cũng đã chết rồi . Thầy tự cho mình là ai ? "
+43008057	~		Người Do-thái nói với Ngài , " Thầy chưa được năm mươi tuổi mà đã thấy Áp-ra-ham sao ? "
+43009002	ai		Các môn đồ Ngài hỏi Ngài , " Thưa Thầy , ai đã phạm tội , ông nầy hay cha mẹ ông , mà vừa sinh ra ông đã bị mù ? "
+43009010	làm sao		Họ hỏi ông , " Làm sao mắt anh thấy được vậy ? "
+43009012	đâu		Họ lại hỏi ông , " Người ấy đâu rồi ? " Ông đáp , " Tôi không biết . "
+43009016	làm sao		Vài người Pha-ri-si nói , " Người ấy không phải từ Đức Chúa Trời đâu , vì người ấy không giữ ngày Sa-bát . " Nhưng những người khác nói , " Một người có tội làm sao làm một phép lạ như thế được ? " Rồi họ chia rẽ nhau .
+43009017	ai		Họ lại hỏi người mù nữa , " Anh nghĩ người đã mở mắt anh là ai ? " Ông đáp , " Người ấy là một đấng tiên tri . "
+43009019	tại sao		Họ hỏi ông bà , " Có phải đây là con trai của ông bà mà ông bà nói nó đã mù từ lúc sinh ra không ? Vậy tại sao bây giờ nó thấy được ? "
+43009026a	gì		Họ lại hỏi ông , " Người ấy đã làm gì cho anh ? 
+43009026b	thế nào		Người ấy đã làm thế nào để mở mắt anh ? "
+43009027	tại sao		Ông trả lời họ , " Tôi đã nói với các ông rồi mà các ông không nghe . Tại sao các ông lại muốn nghe nữa ? Không lẽ các ông muốn làm môn đồ của người ấy à ? "
+43009034	~		Họ trả lời và nói với ông , " Toàn thân anh từ khi sinh ra đã ở trong tội lỗi , mà bây giờ anh còn muốn dạy đời chúng tôi sao ? " Đoạn họ đuổi ông ra .
+43009036	ai		Ông trả lời và nói , " Lạy Chúa , người ấy là ai để con tin ? "
+43010020	sao		Nhiều người giữa họ nói rằng , " Ông ấy bị quỷ ám và điên rồi . Sao các người còn nghe ông ấy làm chi ? "
+43010021	làm sao		Nhưng những người khác lại bảo , " Những lời nầy đâu phải là lời nói của người bị quỷ ám . Người bị quỷ ám làm sao mở mắt cho người mù được ? "
+43010024	bao giờ		Người Do-thái kéo đến quanh Ngài và nói với Ngài , " Thầy cứ để chúng tôi phân vân mãi cho đến bao giờ ? Nếu Thầy là Đấng Christ , xin nói thẳng cho chúng tôi biết . "
+43010032	nào		Đức Chúa Jesus nói với họ , " Ta đã làm trước mắt các ngươi nhiều việc tốt đẹp Cha giao ; vì việc nào trong các việc đó các ngươi muốn ném đá Ta ? "
+43010036	tại sao		thì tại sao các ngươi kết tội Ta , người đã được Cha biệt riêng ra thánh và sai xuống thế gian rằng , ' Thầy đã phạm thượng ' vì Ta nói , ' Ta là Con Đức Chúa Trời ' ?
+43011034	ở đâu		và hỏi rằng , " Các ngươi chôn anh ấy ở đâu ? " Họ trả lời Ngài , " Lạy Chúa , xin Ngài đến xem . "
+43011047	gì		Các trưởng tế và những người Pha-ri-si triệu tập một phiên họp của Hội Đồng Lãnh Đạo và nói , " Chúng ta phải làm gì đây ? Vì người nầy đã làm quá nhiều phép lạ .
+43011056	thế nào		Họ tìm kiếm Đức Chúa Jesus , và khi đứng trong đền thờ , họ nói với nhau , " Quý vị nghĩ thế nào ? Ông ấy sẽ lên dự lễ không ? "
+43012005	tại sao		" Tại sao không đem bán chai dầu ấy , lấy ba trăm đơ-na-ri giúp người nghèo ? "
+43012027	gì		Bây giờ tâm hồn Ta xúc động . Ta sẽ nói gì đây ? ' Lạy Cha , xin cứu con khỏi giờ nầy , nhưng chính vì mục đích ấy mà Con đã đến giờ nầy .
+43012034a	sao		Đám đông nói với Ngài , " Chúng tôi nghe trong sách Luật Pháp dạy rằng Đấng Christ sẽ còn lại đời đời . Nhưng sao Thầy bảo Con Người phải được nhấc lên ? 
+43012034b	ai		Con Người nầy là ai ? "
+43012038a	ai		Điều ấy đã ứng nghiệm lời Tiên Tri I-sa-gia nói trước rằng , " Lạy Chúa , ai tin những lời chúng con rao báo ? 
+43012038b	ai		Và cánh tay của Chúa đã được bày tỏ cho ai ? "
+43013025	ai		Người ấy nghiêng đầu qua trước ngực Đức Chúa Jesus và hỏi , " Lạy Chúa , người ấy là ai vậy ? "
+43013036	đi đâu		Si-môn Phi-rơ thưa với Ngài , " Lạy Chúa , Ngài sẽ đi đâu ? " Ngài đáp , " Nơi Ta đi , bây giờ ngươi không thể đi theo , nhưng sau nầy ngươi sẽ đi theo . "
+43013037	tại sao		Phi-rơ hỏi Ngài , " Lạy Chúa , tại sao con không thể đi theo Ngài bây giờ ? Con sẵn sàng hy sinh tính mạng con cho Ngài . "
+43014002	~		Trong nhà Cha Ta có nhiều chỗ ở ; nếu không như thế , Ta đã bảo cho các ngươi rồi . Ta đi chuẩn bị một chỗ cho các ngươi .
+43014005	làm sao		Thô-ma thưa với Ngài , " Lạy Chúa , chúng con không biết Ngài đi đâu , làm sao biết đường đến đó được ? "
+43014009	sao		Đức Chúa Jesus nói với ông , " Hỡi Phi-líp , Ta đã ở với các ngươi khá lâu mà các ngươi vẫn chưa biết Ta sao ? Ai thấy Ta tức là thấy Cha . Sao ngươi còn hỏi , ' Xin chỉ Cha cho chúng con ' ?
+43014022	tại sao		Giu-đa , không phải là Ích-ca-ri-ốt , thưa với Ngài , " Lạy Chúa , tại sao Ngài chỉ bày tỏ Ngài cho chúng con mà không cho cả thế gian ? "
+43016005	đi đâu		Nhưng bây giờ Ta đi về cùng Đấng đã sai Ta , thế mà không ai trong các ngươi hỏi Ta , ' Thầy đi đâu ? '
+43016017	gì		Bấy giờ một vài môn đồ nói với nhau , " Thầy muốn nói gì khi Thầy nói , ' Còn ít lâu nữa các ngươi sẽ không thấy Ta , rồi sau một ít lâu các ngươi lại thấy Ta ' , và ' Vì Ta đi về cùng Cha ? ' "
+43016018	gì		Rồi họ nói , " Thầy muốn nói gì khi nói , ' Còn ít lâu nữa ' ? Chúng ta không hiểu Thầy muốn nói gì . "
+43018004	ai		Đức Chúa Jesus biết những việc ấy phải xảy đến với Ngài , Ngài bước tới và hỏi , " Các ngươi tìm ai ? "
+43018007	ai		Ngài lại hỏi họ , " Các ngươi tìm ai ? " Họ đáp , " Jesus người Na-xa-rét . "
+43018011	~		Đức Chúa Jesus bảo Phi-rơ , " Hãy tra gươm ngươi vào vỏ . Chén Cha đã trao cho Ta , Ta không uống sao ? "
+43018021	tại sao		Tại sao ngươi hỏi Ta ? Hãy hỏi những người đã nghe Ta nói . Này , họ biết Ta đã nói những gì . "
+43018023	tại sao		Đức Chúa Jesus nói với hắn , " Nếu Ta nói sai , hãy chỉ ra chỗ sai của Ta ; còn nếu Ta nói đúng , tại sao ngươi đánh Ta ? "
+43018029	gì		Vì thế Phi-lát đi ra gặp họ và hỏi , " Các ngươi cáo buộc người nầy về tội gì ? "
+43018035	gì		Phi-lát trả lời , " Ta không phải là người Do-thái , phải không ? Chính đồng bào ngươi và các trưởng tế đã nộp ngươi cho ta . Ngươi đã làm gì ? "
+43018038	gì		Phi-lát nói với Ngài , " Sự thật là gì ? " Sau khi nói như vậy , ông trở ra gặp người Do-thái và nói với họ , " Ta không tìm thấy ông ấy có tội gì .
+43019009	đâu		Ông trở vào dinh và hỏi Đức Chúa Jesus , " Ngươi từ đâu đến ? " Nhưng Đức Chúa Jesus không trả lời ông .
+43019015	~		Họ la lớn , " Hãy trừ hắn đi ! Hãy trừ hắn đi ! Hãy đóng đinh hắn trên cây thập tự ! " Phi-lát hỏi họ , " Ta sẽ đóng đinh Vua các ngươi trên cây thập tự sao ? " Các trưởng tế đáp , " Chúng tôi không có vua nào khác ngoài Sê-sa . "
+43020013	tại sao		Họ hỏi bà , " Này bà , tại sao bà khóc ? " Bà trả lời họ , " Bởi vì người ta đã đem Chúa của tôi đi , và tôi không biết họ để Ngài ở đâu . "
+43020015a	tại sao		Đức Chúa Jesus nói với bà , " Này bà , tại sao bà khóc ? 
+43020015b	ai		Bà tìm ai ? " Tưởng Ngài là người làm vườn , bà nói với Ngài , " Thưa ông , nếu ông đã đem Ngài đi , xin nói cho tôi biết ông đã để Ngài ở đâu , để tôi sẽ đến đem Ngài đi . "
+43021012	ai		Đức Chúa Jesus nói với họ , " Hãy lại ăn điểm tâm . " Không môn đồ nào dám hỏi Ngài , " Ngài là ai ? " Vì họ đều biết rõ rằng ấy là Chúa .
+43021020	ai		Phi-rơ quay lại và thấy môn đồ Ngài yêu thương đi theo ; ấy là người trong bữa ăn tối đã nghiêng đầu qua trước ngực Ngài và hỏi , " Lạy Chúa , ai là kẻ sẽ phản Ngài ? "
+43021021	sao		Phi-rơ thấy môn đồ ấy , ông hỏi Đức Chúa Jesus , " Lạy Chúa , còn người nầy thì sao ? "
+43021022	gì		Đức Chúa Jesus đáp , " Nếu Ta muốn người ấy cứ sống cho đến khi Ta đến thì can hệ gì đến ngươi ? Phần ngươi , hãy theo Ta . "
+43021023	~		Lời ấy được đồn giữa vòng anh chị em rằng môn đồ ấy sẽ không chết . Tuy nhiên Đức Chúa Jesus không nói rằng người ấy sẽ không chết , nhưng Ngài chỉ nói , " Nếu Ta muốn người ấy cứ sống cho đến khi Ta đến thì can hệ gì đến ngươi . "
+44001011	tại sao		Hai vị đó nói với họ , " Hỡi những người Ga-li-lê , tại sao các ngươi đứng nhìn lên trời như thế ? Đức Chúa Jesus nầy , Đấng vừa được cất lên trời khỏi các ngươi , sẽ trở lại y như cách các ngươi đã thấy Ngài lên trời vậy . "
+44002008	sao		Thế sao mỗi chúng ta đều nghe họ nói tiếng bản xứ của chúng ta ?
+44002012	gì		Mọi người đều sửng sốt và hoang mang nói với nhau , " Việc nầy có nghĩa gì ? "
+44002037	gì		Bấy giờ khi nghe như thế , họ cảm thấy đau nhói trong lòng ; họ nói với Phi-rơ và các vị sứ đồ còn lại , " Thưa các anh em , chúng tôi phải làm gì ? "
+44003012a	tại sao		Khi Phi-rơ thấy thế , ông nói với dân , " Thưa anh chị em người I-sơ-ra-ên , tại sao anh chị em kinh ngạc về việc nầy ? 
+44003012b	tại sao		Hay tại sao anh chị em nhìn chầm chập vào chúng tôi như thể tự chúng tôi có quyền phép gì hoặc có đạo hạnh gì có thể làm cho người nầy bước đi ?
+44004007a	~		
+44004007b	nào		Họ điệu các ông ra , bắt đứng giữa , rồi tra hỏi , " Bởi thẩm quyền nào 
+44004007c	ai		hay nhân danh ai các anh làm điều nầy ? "
+44004016	gì		rằng , " Chúng ta phải làm gì với những người nầy bây giờ ? Vì quả thật mọi người sống ở Giê-ru-sa-lem đều biết rõ rằng hai người ấy đã làm một phép lạ rành rành ; chúng ta không thể nào chối cãi .
+44004025a	vì sao		Chính Ngài đã cậy Đức Thánh Linh phán qua miệng của tổ phụ chúng con là Đa-vít , tôi tớ Ngài , rằng : ' Vì sao các quốc gia nổi giận , 
+44004025b	~		Và các dân lập mưu vô ích ?
+44005003	sao		Phi-rơ nói , " Này ông A-na-nia , sao ông để Sa-tan đầy dẫy lòng ông , khiến ông nói dối Đức Thánh Linh mà giữ lại một phần số tiền bán đất ?
+44005004	tại sao		Khi miếng đất chưa bán , nó chẳng phải là của ông sao ? Sau khi bán rồi , chẳng phải ông có quyền giữ số tiền đó sao ? Tại sao ông rắp tâm làm điều ấy ? Không phải ông dối gạt loài người nhưng dối gạt Đức Chúa Trời . "
+44005009	tại sao		Phi-rơ nói với bà , " Tại sao ông bà đồng lòng với nhau thử Đức Thánh Linh của Chúa ? Kìa , bàn chân của những người đi chôn chồng bà vừa về đến cửa , họ sẽ khiêng bà luôn . "
+44007026	sao		Ngày hôm sau khi thấy họ đánh nhau , ông đến gần và tìm cách giải hòa . Ông nói , ' Thưa các anh em , các anh em là đồng bào ruột thịt với nhau , sao lại đánh nhau như vậy ? '
+44007027	ai		Nhưng kẻ đang đánh người lân cận mình xô ông ra và nói , ' Ai đã lập ông làm người lãnh đạo và quan án của chúng tôi ?
+44007035	ai		Chính Mô-sê nầy là người họ đã loại bỏ và bảo rằng , ' Ai lập ông làm người lãnh đạo và quan án ? ' Ông ấy chính là người đã được Đức Chúa Trời sai đi làm người lãnh đạo và người giải thoát họ bằng cánh tay của vị Thiên Sứ đã hiện ra cho ông trong bụi gai cháy .
+44007049a	nào		' Chúa phán , " Trời là ngai Ta , đất là bệ chân Ta . Các ngươi sẽ xây cho Ta nhà nào hoặc 
+44007049b	~		nơi nào đặng cho Ta nghỉ ?
+44007052	~		Có vị tiên tri nào mà tổ phụ quý vị không bách hại chăng ? Họ giết những người nào báo trước về sự xuất hiện của Đấng Công Chính , là Đấng mà bây giờ chính quý vị đã trở thành những kẻ phản bội và những kẻ giết người .
+44008031	làm sao		Ông đáp , " Làm sao tôi hiểu được , nếu không ai giảng giải cho tôi . " Rồi ông mời Phi-líp lên xe ngồi với ông .
+44008033	ai		Trong khi Người chịu nhục , công lý dành cho Người đã bị tước đoạt . Ai có thể biết được dòng dõi của Người rồi đây sẽ ra sao ? Vì mạng sống Người đã bị cắt đứt khỏi đất của người sống . "
+44008034	ai		Quan thái giám hỏi Phi-líp , " Tôi xin hỏi ông , đấng tiên tri nói điều ấy để chỉ về ai , về ông ta hay về một người nào khác ? "
+44008036	~		Trong khi xe chạy dọc đường , gặp chỗ có nước , quan thái giám nói , " Xem kìa , chỗ nầy có nước , có gì ngăn trở tôi chịu báp-têm không ? "
+44009004	sao		Ông té xuống đất và nghe có tiếng nói với ông , " Hỡi Sau-lơ , Sau-lơ , sao ngươi bắt bớ Ta ? "
+44009005	ai		Ông đáp , " Lạy Chúa , Ngài là ai ? " Ngài phán , " Ta là Jesus mà ngươi đang bắt bớ .
+44009006	gì		Hãy đứng dậy và vào thành , sẽ có người bảo cho ngươi những gì ngươi phải làm . "
+44010004	gì		Ông nhìn chăm vào vị thiên sứ và bắt đầu sợ hãi , ông đáp , " Lạy chúa , thưa có chuyện gì ? " Vị thiên sứ nói với ông , " Những lời cầu nguyện và những hành động bố thí của ngươi đã lên thấu trước mặt Đức Chúa Trời và được Ngài ghi nhận .
+44010021	gì		Phi-rơ đi xuống gặp những người ấy và nói , " Tôi là người các ông đang tìm ; xin hỏi , vì lý do gì các ông đến đây ? "
+44010029	tại sao		Vì thế khi quý vị sai người đến mời , tôi đã không phản đối gì mà đến đây . Vậy bây giờ tôi xin hỏi , tại sao quý vị cho mời tôi đến đây ? "
+44010047	ai		Bấy giờ Phi-rơ lên tiếng , " Ai có thể từ chối mà không cho những người nầy được nhận phép báp-têm bằng nước , tức những người đã nhận được Đức Thánh Linh giống như chúng ta đã nhận chăng ? "
+44011017a	ai		Vậy nếu Đức Chúa Trời đã ban cho họ cùng một món quà giống như Ngài đã ban cho chúng ta khi chúng ta tin Chúa , tức Đức Chúa Jesus Christ , thì tôi là ai mà dám cản trở Đức Chúa Trời ? "
+44011017b	~		
+44012018	~		Đến sáng ngày trong đám quân canh có sự nhốn nháo không nhỏ về việc biến mất của Phi-rơ .
+44013025	ai		Khi Giăng sắp hoàn tất chức vụ của mình , ông nói , ' Các người nghĩ tôi là ai ? Tôi không phải là Đấng ấy . Nhưng này , có một Đấng đến sau tôi ; tôi không xứng đáng mở dây giày cho Ngài . '
+44014015	tại sao		và nói lớn rằng , " Hỡi các bạn , tại sao các bạn làm như vậy ? Chúng tôi cũng chỉ là loài người như các bạn . Chúng tôi giảng cho các bạn Tin Mừng , để các bạn lìa bỏ các thần tượng hư không , mà quay về với Đức Chúa Trời hằng sống , Đấng đã dựng nên trời , đất , biển , và mọi vật ở trong đó .
+44015010	tại sao		Vậy bây giờ tại sao anh em lại thử Đức Chúa Trời bằng cách tròng vào cổ các môn đồ một ách mà các tổ phụ chúng ta và chính chúng ta cũng không mang nổi ?
+44016030	gì		Sau khi đưa hai ông ra ngoài , viên cai ngục hỏi , " Thưa các ông , tôi phải làm gì để được cứu ? "
+44017018	gì		Cũng có mấy triết gia thuộc trường phái Khoái Lạc và trường phái Khắc Kỷ tranh luận với ông . Có người nói , " Người lắm lời nầy muốn nói gì ? " Những người khác bảo , " Dường như ông ấy muốn rao giảng về các thần ngoại quốc nào đó . " Số là Phao-lô đã rao giảng cho họ Tin Mừng của Đức Chúa Jesus và sự sống lại .
+44017019	~		Họ dẫn ông đến A-rê-ô-pa-gu và yêu cầu , " Chúng tôi có thể biết giáo lý mới mà ông giảng là gì không ?
+44019003	nào		Ông lại hỏi họ , " Vậy anh em đã chịu phép báp-têm nào ? " Họ trả lời , " Phép báp-têm của Giăng . "
+44019015	ai		Nhưng quỷ trả lời và nói với họ , " Đức Chúa Jesus thì ta biết , và Phao-lô thì ta biết , nhưng các ngươi là ai ? "
+44019035	ai		Cuối cùng viên thư ký thành phố đã bước ra trấn an đám đông rằng : " Kính thưa quý vị , những công dân của Thành Ê-phê-sô . Có ai trong nhân gian không biết Thành Ê-phê-sô đã được chọn làm người bảo hộ cho đền thờ của đại nữ thần Ạc-tê-mít , mà hình tượng của nữ thần đã từ trời rơi xuống chăng ?
+44021013a	gì		Nhưng Phao-lô đáp , " Anh chị em làm gì vậy ? Anh chị em khóc chỉ làm đau lòng tôi thôi , vì tôi đã sẵn sàng không những để chịu trói , mà còn chịu chết vì danh của Đức Chúa Jesus tại Giê-ru-sa-lem . "
+44021013b	~		
+44021022	làm sao		Vậy bây giờ chúng ta phải làm sao ? Chắc chắn họ đã nghe tin anh về đến rồi .
+44021033a	ai		Quan tư lịnh cho bắt Phao-lô và ra lịnh dùng hai dây xích xiềng ông lại , rồi ông hỏi Phao-lô là ai 
+44021033b	gì		và đã làm điều gì .
+44022007	sao		Tôi té xuống đất và nghe có tiếng nói với tôi rằng , ' Hỡi Sau-lơ , Sau-lơ , sao ngươi bắt bớ Ta ? '
+44022008	ai		Tôi thưa , ' Lạy Chúa , Ngài là ai ? ' Ngài phán với tôi , ' Ta là Jesus người Na-xa-rét mà ngươi đang bắt bớ . '
+44022010	gì		Tôi hỏi , ' Lạy Chúa , con phải làm gì bây giờ ? ' Chúa phán với tôi , ' Hãy đứng dậy , đi vào Thành Đa-mách , tại đó sẽ có người nói với ngươi mọi việc đã định cho ngươi phải làm . '
+44022016	gì		Vậy bây giờ anh còn chần chờ gì nữa ? Hãy đứng dậy và chịu phép báp-têm , để tội lỗi anh được rửa sạch , và kêu cầu danh Ngài . '
+44022026	gì		Nghe vậy viên đại đội trưởng đến nói với quan tư lịnh , " Ông tính làm gì thế ? Vì người nầy là một công dân La-mã . "
+44023003	~		Bấy giờ Phao-lô nói với ông ấy , " Nguyền xin Đức Chúa Trời đánh ông , hỡi bức tường tô trắng kia . Ông ngồi đó xét xử tôi theo Luật Pháp mà chính ông lại vi phạm Luật Pháp ; chưa chi ông đã ra lịnh cho người đánh tôi sao ? "
+44023009	~		Thế là một cuộc cãi vã to tiếng nổi lên ; rồi một vài thầy dạy giáo luật thuộc phái Pha-ri-si đứng dậy phản đối mạnh mẽ rằng , " Chúng tôi thấy người nầy chẳng có lỗi gì cả . Biết đâu một thần linh hay một thiên sứ đã nói chuyện với ông ấy ? "
+44023019	~		Quan tư lịnh nắm tay cậu ấy , dắt ra một nơi riêng , và hỏi , " Cậu có điều gì để báo cáo với tôi phải không ? "
+44026008	tại sao		Tại sao quý vị không thể tin rằng Đức Chúa Trời có quyền làm cho người chết sống lại ?
+44026014	sao		Sau khi tất cả chúng tôi đã té xuống đất , tôi nghe có tiếng nói với tôi bằng tiếng Hê-bơ-rơ rằng , ' Hỡi Sau-lơ , Sau-lơ , sao ngươi bắt bớ Ta ? Ngươi đá vào mũi nhọn thì đau đớn cho ngươi thay . '
+44026015	ai		Tôi hỏi , ' Lạy Chúa , Ngài là ai ? ' Chúa đáp , ' Ta là Jesus mà ngươi đang bắt bớ .
+45002017	~		Còn bạn , nếu bạn mang danh là người Do-thái , ỷ lại vào Luật Pháp , tự hào về mối liên hệ với Đức Chúa Trời ,
+45002021	tại sao		vậy tại sao bạn dạy người khác mà không dạy chính mình ? Bạn giảng đừng ăn cắp , mà bạn có ăn cắp không ?
+45002028	~		Vì một người chỉ có bề ngoài là người Do-thái thì không phải là người Do-thái thật ; cũng thế , sự cắt bì chỉ ở bên ngoài và trên thân xác , sự cắt bì đó không phải là sự cắt bì thật .
+45003001a	gì		Vậy thì làm người Do-thái có ích gì chăng ? 
+45003001b	gì		Hoặc được cắt bì có lợi gì chăng ?
+45003003	sao		Nếu có một số người bất trung thì sao ? Liệu sự vô tín của họ sẽ vô hiệu hóa sự thành tín của Đức Chúa Trời chăng ?
+45003005	làm sao		Nhưng nếu sự bất chính của chúng ta làm cho sự công chính của Đức Chúa Trời được thể hiện rõ ràng hơn , thì chúng ta sẽ nói làm sao ? Có phải Đức Chúa Trời bất công khi Ngài giáng cơn thịnh nộ trên chúng ta chăng ? ( Tôi nói theo cách của người đời thường nói . )
+45003006	làm sao		Chẳng hề như vậy ! Vì nếu thế , làm sao Đức Chúa Trời có thể xét đoán thế gian được ?
+45003007a	~		Còn nếu nhờ vào sự dối trá của tôi mà đức chân thật của Đức Chúa Trời được nổi bật lên , quy vinh hiển về cho Ngài , 
+45003007b	tại sao		thì tại sao tôi còn bị kết án như một kẻ tội lỗi ?
+45003008	tại sao		Nếu như thế là đúng , thì tại sao " Chúng ta không cứ làm điều ác đi để được điều thiện " như mấy kẻ đã vu khống chúng tôi , bảo rằng chúng tôi đã nói như vậy ? Họ bị định tội là đáng lắm !
+45003009	sao		Vậy thì sao ? Chúng ta có khá hơn gì chăng ? Không , chẳng khá hơn gì cả . Vì như chúng tôi đã chứng tỏ rằng , người Do-thái lẫn người Hy-lạp , tất cả đều ở dưới quyền lực của tội lỗi ,
+45003027a	nào		Vậy chúng ta tự hào ở điểm nào ? 
+45003027b	~		Chúng ta chẳng có gì để tự hào cả . Chúng ta tự hào vì cậy vào Luật Pháp chăng ? Hoặc cậy vào việc làm chăng ? Hoàn toàn không . Nhưng chúng ta chỉ cậy vào luật của đức tin ,
+45003027c	~		
+45004001	gì		Vậy chúng ta sẽ nói gì về tổ phụ Áp-ra-ham của chúng ta theo phần xác đã được ?
+45004003	gì		vì Kinh Thánh đã nói gì ? " Áp-ra-ham tin Đức Chúa Trời , và vì thế ông được kể là công chính . "
+45004010	thế nào		thì nếu vậy , ông ta được kể là công chính như thế nào ? Lúc ông đã được cắt bì rồi , hay lúc ông chưa được cắt bì ? Không phải sau khi ông đã được cắt bì đâu , nhưng là trước khi ông được cắt bì .
+45005010	~		Vì khi chúng ta còn là thù nghịch với Đức Chúa Trời mà còn được giải hòa với Ngài nhờ sự chết của Con Ngài , huống chi bây giờ đã được giải hòa rồi , chúng ta sẽ được cứu nhờ sự sống của Con Ngài bội phần hơn biết bao .
+45005021	~		Vậy như tội lỗi thống trị khiến người ta phải chết thể nào , ân sủng cũng thống trị , qua sự công chính , làm người ta được hưởng sự sống đời đời nhờ Đức Chúa Jesus Christ , Chúa chúng ta , cũng thể ấy .
+45006001	làm sao		Vậy chúng ta sẽ nói làm sao ? Chúng ta cứ tiếp tục sống trong tội lỗi để ân sủng có thể gia tăng chăng ?
+45006002	thể nào		Chẳng hề như vậy ! Làm thể nào chúng ta đã chết đối với tội lỗi còn có thể tiếp tục sống trong tội lỗi ?
+45006015	sao		Vậy thì sao ? Chúng ta được phép phạm tội thoải mái , vì chúng ta không còn ở dưới Luật Pháp mà đang ở dưới ân sủng chăng ? Chẳng hề như vậy !
+45006021	gì		Thế hồi đó anh chị em làm nô lệ cho tội lỗi và đã thu được kết quả gì mà bây giờ anh chị em lại hổ thẹn vậy ? Thì ra kết quả của những việc ấy chỉ là sự chết .
+45007007	làm sao		Vậy chúng ta sẽ nói làm sao ? Luật Pháp là tội lỗi chăng ? Chẳng hề như vậy ! Nếu không nhờ Luật Pháp , tôi không biết tội lỗi là gì ; vì tôi không biết tham lam là gì , nếu Luật Pháp không nói , " Ngươi chớ tham lam . "
+45007024	ai		Khốn thay cho tôi ! Ai sẽ cứu tôi khỏi thân thể sẽ chết nầy ?
+45008024	ai		Vì chúng ta được cứu để hưởng hy vọng đó , nhưng khi hy vọng đã được thấy thì không còn là hy vọng , vì ai lại trông mong điều mình đang thấy bao giờ ?
+45008031a	gì		Như vậy chúng ta sẽ nói gì về những điều ấy ? 
+45008031b	ai		Nếu Đức Chúa Trời binh vực chúng ta , ai có thể chống lại chúng ta ?
+45008032	~		Ngài đã không tiếc chính Con Ngài nhưng đã ban Con ấy vì tất cả chúng ta , lẽ nào Ngài sẽ không ban cho chúng ta mọi sự cùng với Con ấy sao ?
+45008033	ai		Ai sẽ kiện cáo những người Đức Chúa Trời đã chọn ? Đã có Đức Chúa Trời , Đấng xác nhận họ là công chính .
+45008034	ai		Ai sẽ kết án họ chăng ? Đã có Đức Chúa Jesus Christ , Đấng đã chết , đúng hơn là Đấng đã sống lại , Đấng đang ở bên phải Đức Chúa Trời và cầu thay cho chúng ta .
+45008035	ai		Ai có thể tách rời chúng ta ra khỏi tình yêu của Đấng Christ ? Có phải hoạn nạn , khốn cùng , bách hại , đói khát , trần truồng , hiểm nguy , hoặc gươm giáo chăng ?
+45009014	thể nào		Vậy chúng ta sẽ nói thể nào đây ? Có phải Đức Chúa Trời bất công chăng ? Chẳng hề như vậy !
+45009019a	sao		Thế thì bạn sẽ nói với tôi , " Nếu vậy sao Ngài còn bắt lỗi ? 
+45009019b	ai		Vì ai có thể cưỡng lại được ý Ngài ? "
+45009020a	ai		Hỡi người kia , bạn là ai mà dám cãi lại Đức Chúa Trời ? 
+45009020b	~		Có thể nào một món đồ gốm nói với người đã nặn nên nó rằng , 
+45009020c	tại sao		" Tại sao ông nặn nên tôi như thế nầy ? "
+45009021	~		Chẳng phải người thợ gốm có quyền tạo ra các vật dụng từ một đống đất sét , cái để dùng vào việc sang trọng và cái để dùng vào việc tầm thường chăng ?
+45009022	~		Nếu Đức Chúa Trời muốn bày tỏ cơn thịnh nộ của Ngài và biểu dương quyền năng của Ngài nên đã nhẫn nhục chịu đựng những món đồ gốm đáng chuốc cơn thịnh nộ , được chuẩn bị sẵn cho sự hủy diệt ,
+45009023	~		để bày tỏ sự phong phú của vinh hiển Ngài đối với những món đồ gốm được thương xót và được Ngài chuẩn bị sẵn cho sự vinh hiển ,
+45009024	~		trong đó có chúng ta , những người Ngài đã gọi , không những chỉ từ dân Do-thái nhưng cũng từ các dân ngoại , thì sao ?
+45009030	làm sao		Vậy chúng ta sẽ nói làm sao ? Các dân ngoại không gắng sức tìm kiếm sự công chính nhưng lại được xưng công chính , một sự công chính có được nhờ đức tin ,
+45009032	tại sao		Tại sao ? Tại vì họ không cậy đức tin mà tìm , nhưng cậy vào việc làm . Họ đã vấp phải tảng đá vấp chân ,
+45010006	ai		Nhưng về sự công chính đến bởi đức tin , ông nói , " Ngươi đừng tự nhủ trong lòng rằng , ' Ai sẽ lên trời ? ' " ( Ngụ ý : để đem Đấng Christ xuống ) ,
+45010007	ai		hoặc ' Ai sẽ xuống vực thẳm ? ' ( Ngụ ý : để đem Đấng Christ từ cõi chết lên ) .
+45010008	gì		Nhưng điều ấy nói gì ? " Lời ở gần ngươi , trong miệng ngươi , và trong lòng ngươi . " ( Đó là lời đức tin chúng tôi rao giảng ) .
+45010014a	làm sao		Nhưng làm sao họ có thể kêu cầu Đấng họ chưa tin ? 
+45010014b	làm sao		Làm sao họ có thể tin Đấng họ chưa nghe ? 
+45010014c	làm sao		Làm sao họ có thể nghe nếu không ai rao giảng ?
+45010015	làm sao		Làm sao họ có thể rao giảng nếu họ không được sai đi ? Như có chép rằng , " Bàn chân của những người rao truyền Tin Mừng đẹp biết bao ! "
+45010016	ai		Nhưng không phải mọi người sẽ vâng theo Tin Mừng , vì I-sa-gia nói , " Lạy Chúa , ai tin những gì chúng con rao báo ? "
+45011004	thế nào		Nhưng Đức Chúa Trời đã đáp lại với ông thế nào ? " Ta đã để dành cho Ta bảy ngàn người chưa quỳ gối trước Ba-anh . "
+45011007	sao		Vậy thì sao ? Dân I-sơ-ra-ên không đạt những gì họ đã tìm kiếm , nhưng những người được chọn lại đạt , và số người còn lại thì cứng lòng ,
+45011015	sao		Vì nếu việc họ bị loại bỏ đã đem lại sự giải hòa cho thế gian , thì khi họ được nhận lại , sự thể sẽ ra sao , nếu không phải là cải tử hoàn sinh ?
+45011018	~		thì xin bạn đừng đắc chí mà khinh dể các nhánh ấy . Nếu bạn muốn đắc chí , xin nhớ rằng không phải bạn nuôi cái rễ mà cái rễ nuôi bạn .
+45011033a	~		Ôi sâu nhiệm thay là sự giàu có , khôn ngoan , và tri thức của Đức Chúa Trời ! Những phán quyết của Ngài không thể nào dò thấu , 
+45011033b	~		và những đường lối của Ngài không thể nào hiểu được !
+45011034a	ai		" Vì ai biết được Chúa nghĩ gì ? 
+45011034b	ai		Hay ai có thể làm mưu sĩ cho Ngài ?
+45011035	ai		Hay ai đã cho Ngài điều gì , để được Ngài ban thưởng lại ? "
+45014004	ai		Bạn là ai mà xét đoán tôi tớ của người khác ? Nó đứng hay ngã là việc của chủ nó , và nó sẽ đứng , vì Chúa có quyền làm cho nó đứng .
+45014010a	tại sao		Thế thì tại sao bạn xét đoán anh chị em mình ? 
+45014010b	tại sao		Hay tại sao bạn khinh dể anh chị em mình ? Vì tất cả chúng ta đều sẽ ứng hầu trước tòa phán xét của Đức Chúa Trời ,
+46001020a	ở đâu		Người khôn ngoan ở đâu ? 
+46001020b	ở đâu		Người học thức ở đâu ? 
+46001020c	ở đâu		Nhà hùng biện của đời nầy ở đâu ? Chẳng phải Đức Chúa Trời đã làm cho sự khôn ngoan của thế gian trở nên rồ dại sao ?
+46002011	ai		Vì ai biết được những gì trong lòng người , ngoại trừ tâm linh của người ấy ? Cũng vậy , không ai biết được những gì trong lòng Đức Chúa Trời , ngoại trừ Đức Thánh Linh của Đức Chúa Trời .
+46002016a	ai		" Vì ai biết được tâm trí của Chúa , 
+46002016b	~		để chỉ bảo Ngài ? " Nhưng chúng ta có tâm trí của Đấng Christ .
+46003005a	gì		Vậy A-pô-lô là gì ? 
+46003005b	gì		Phao-lô là gì ? Chúng tôi chẳng qua là các đầy tớ Chúa , mà qua chức vụ của chúng tôi anh chị em đã tin Ngài , theo ơn Chúa đã ban cho mỗi chúng tôi .
+46004007a	ai		Vì ai thấy bạn có gì khác biệt hơn người khác chăng ? 
+46004007b	gì		Có gì bạn có mà không do đã nhận lãnh chăng ? 
+46004007c	tại sao		Vậy nếu bạn đã nhờ nhận lãnh mà có , tại sao bạn lại tự hào như thể không hề nhận lãnh điều gì vậy ?
+46004021	gì		Anh chị em muốn gì đây ? Anh chị em muốn tôi cầm roi đến hay đến với tình thương và một tinh thần dịu dàng ?
+46005002	~		Thế mà anh chị em còn lên mình kiêu ngạo ! Lẽ ra anh chị em phải buồn rầu hầu loại trừ kẻ làm điều loạn luân đó khỏi giữa anh chị em mới đúng .
+46005012	~		Xét xử những người ngoài nào phải là việc của tôi sao ? Không phải anh chị em xét xử những người trong hội thánh sao ?
+46006001	sao		Khi ai trong anh chị em có việc tranh chấp với người khác , sao người ấy dám đưa sự việc ra trước những người không tin kính Chúa để họ xét xử , nhưng không đưa ra trước các thánh đồ ?
+46006003	~		Anh chị em không biết rằng chúng ta sẽ xét xử các thiên sứ , huống chi những việc thuộc về đời nầy sao ?
+46006004	sao		Khi có những vụ tranh chấp thuộc đời nầy , sao anh chị em lại chỉ định những người không được hội thánh kính trọng đứng ra xét xử ?
+46006007a	sao		Thật vậy chỉ việc kiện cáo nhau đủ cho thấy anh chị em đã thất bại rồi . Sao chẳng thà chịu bị đối xử bất công đi ? 
+46006007b	sao		Sao chẳng thà chịu bị lừa gạt đi ?
+46006009	~		Hay là anh chị em không biết rằng những kẻ bất chính sẽ không được thừa hưởng vương quốc Đức Chúa Trời sao ? Đừng tự dối mình ! Những kẻ gian dâm , những kẻ thờ thần tượng , những kẻ ngoại tình , những người nam làm điếm , những kẻ đồng tính luyến ái ,
+46006016	~		Anh chị em có biết rằng hễ ai kết hợp với đĩ điếm thì trở nên một thân với nó chăng ? Vì có lời chép rằng , " Hai người sẽ trở nên một thịt . "
+46006019	~		Anh chị em không biết rằng thân thể anh chị em là đền thờ của Đức Thánh Linh , Đấng đang ngự trong anh chị em , Đấng Đức Chúa Trời ban cho anh chị em , và anh chị em không còn thuộc về chính mình nữa sao ?
+46007016a	~		Vì hỡi người làm vợ , biết đâu chị em sẽ cứu được chồng mình ? 
+46007016b	~		Và hỡi người làm chồng , biết đâu anh em sẽ cứu được vợ mình ?
+46009007a	~		Có ai đi lính mà ăn lương nhà bao giờ chăng ? 
+46009007b	~		Có ai trồng vườn nho mà không ăn trái của nó chăng ? 
+46009007c	~		Hay có ai chăn bầy mà không dùng sữa của bầy súc vật mình chăn nuôi chăng ?
+46009018	gì		Vậy thì phần thưởng của tôi là gì ? Đó là khi tôi rao giảng Tin Mừng , tôi giảng miễn phí , không sử dụng quyền lợi của người rao giảng Tin Mừng .
+46010019a	gì		Tôi nói vậy có ý gì ? 
+46010019b	gì		Của cúng thần tượng có là gì , 
+46010019c	gì		hay chính thần tượng có là gì chăng ?
+46010029	tại sao		Tôi không nói về lương tâm của anh chị em , nhưng lương tâm của người đó . Nhưng tại sao sự tự do của tôi lại bị lương tâm của người khác xét đoán ?
+46010030	tại sao		Nếu tôi cảm tạ Chúa trước khi ăn , tại sao tôi còn bị chỉ trích về thức ăn tôi đã cảm tạ ?
+46011022	thế nào		Anh chị em không có nhà để ăn uống sao ? Hay anh chị em khinh thường hội thánh của Đức Chúa Trời , và muốn làm cho những người nghèo khó thiếu ăn phải hổ thẹn ? Tôi phải nói với anh chị em thế nào đây ? Tôi có nên khen anh chị em không ? Về việc nầy , tôi không khen anh chị em đâu .
+46012017a	làm sao		Nếu cả thân là mắt thì làm sao nghe ? 
+46012017b	làm sao		Nếu cả thân là tai thì làm sao ngửi ?
+46012019	ở đâu		Nếu tất cả là một bộ phận thì thân ở đâu ?
+46014006	gì		Bây giờ thưa anh chị em , nếu tôi đến với anh chị em và chỉ nói tiếng lạ , mà không nói cho anh chị em một sự mạc khải , hoặc một sự hiểu biết , hoặc một lời tiên tri , hoặc một sự dạy dỗ nào , thì tôi giúp ích được gì cho anh chị em chăng ?
+46014007	làm sao		Các nhạc cụ không có sự sống cũng vậy , giống như ống sáo hoặc hạc cầm , nếu chúng không phát ra những âm thanh độc đáo riêng , làm sao người ta biết đó là tiếng sáo thổi hay hạc cầm đang trỗi khúc .
+46014008	ai		Nếu tiếng kèn thổi lên không rõ điệu , ai sẽ chuẩn bị ra trận ?
+46014009	ai		Anh chị em cũng vậy , nếu miệng lưỡi anh chị em không phát âm những lời có thể hiểu được , ai biết anh chị em nói gì ? Chẳng qua là nghe anh chị em nói líu lo thôi .
+46014015	gì		Vậy tôi phải làm gì ? Tôi sẽ cầu nguyện bằng tâm linh và tôi cũng cầu nguyện bằng tâm trí ; tôi sẽ ca ngợi bằng tâm linh và tôi cũng ca ngợi bằng tâm trí .
+46014016	làm sao		Nếu không , khi bạn chúc tụng bằng tâm linh , làm sao một người không biết ngồi nghe có thể nói " A-men " về những lời bạn cảm tạ , khi người ấy không hiểu bạn nói gì ?
+46014026	thế nào		Vậy , thưa anh chị em , chúng ta phải làm thế nào ? Khi anh chị em nhóm lại với nhau , ai có một thánh thi , ai có lời dạy dỗ , ai có sự mạc khải , ai có tiếng lạ , ai có ơn thông giải tiếng lạ , hãy thực hiện tất cả để xây dựng lẫn nhau .
+46014036	~		Không phải lời Đức Chúa Trời đã phát xuất từ anh chị em sao ? Không lẽ lời Ngài chỉ đến với anh chị em thôi sao ?
+46015012	tại sao		Nếu chúng tôi đã giảng rằng Đấng Christ đã sống lại , tại sao trong anh chị em lại có người bảo rằng không có việc người chết sống lại ?
+46015029a	~		
+46015029b	gì		Nếu không , những người chịu báp-têm thay cho những người chết có hy vọng gì ? 
+46015029c	tại sao		Nếu những người chết không sống lại , thì tại sao họ chịu báp-têm thay cho những người chết ?
+46015030a	~		
+46015030b	tại sao		Và tại sao chúng tôi phải đương đầu với nguy hiểm từng giờ ?
+46015032	gì		Nếu chỉ hy vọng nơi con người ở đời nầy mà thôi , thì tôi được lợi gì khi chiến đấu với những thú dữ ở Ê-phê-sô ? Nếu người chết không sống lại thì , " Chúng ta hãy ăn , hãy uống , vì ngày mai chúng ta sẽ chết . "
+46015035a	thể nào		Nhưng có người sẽ hỏi , " Làm thể nào người chết sống lại ? 
+46015035b	thể nào		Họ lấy thân thể nào mà sống lại ? "
+46015055a	đâu		" Hỡi tử thần , chiến thắng của ngươi đâu ? 
+46015055b	đâu		Hỡi tử thần , nọc độc của ngươi đâu ? "
+47002002	ai		Vì nếu tôi đã làm anh chị em đau buồn , thì ai sẽ là người làm tôi vui trở lại , nếu không phải là những người tôi đã làm đau buồn ?
+47002016	ai		Đối với những người bị hư mất , chúng tôi là mùi tử khí để họ biết rằng họ đang tiến dần đến sự chết , nhưng đối với những người được cứu , chúng tôi là mùi sinh khí dẫn họ đến sự sống . Ai có khả năng làm những điều ấy chăng ?
+47003008	~		thì chức vụ của Đức Thánh Linh lại càng không vinh hiển nhiều hơn sao ?
+47003009	~		Vì nếu chức vụ của sự kết án mà còn được vinh hiển dường ấy , thì chức vụ của sự công chính càng được vinh hiển nhiều hơn biết dường nào .
+47006014a	~		Chớ mang ách chung với những kẻ không tin , vì công chính và gian tà có hợp tác với nhau được chăng ? 
+47006014b	~		Ánh sáng và bóng tối có hiệp thông được chăng ?
+47006015a	~		Đấng Christ và Bê-li-an có hòa hợp chăng ? 
+47006015b	~		Hay người tin Chúa có gì chung với kẻ không tin chăng ?
+47006016	~		Đền thờ của Đức Chúa Trời có thỏa hiệp gì với các thần tượng chăng ? Vì chúng ta là đền thờ của Đức Chúa Trời hằng sống , như Đức Chúa Trời đã phán , " Ta sẽ ở giữa họ và đi lại giữa họ , Ta sẽ là Đức Chúa Trời của họ , Và họ sẽ làm dân Ta .
+47011011	tại sao		Tại sao như thế ? Phải chăng vì tôi không yêu thương anh chị em ? Có Đức Chúa Trời biết .
+47011029a	~		Có ai yếu đuối mà tôi không cảm thấy yếu đuối chăng ? 
+47011029b	~		Có ai bị vấp ngã mà tôi không như đang bị nung đốt chăng ?
+47012013	~		Anh chị em có thua kém các hội thánh khác điều gì chăng ? Có chăng là tôi không là gánh nặng cho anh chị em . Hãy tha thứ cho tôi về nỗi bất công ấy !
+47012017	~		Vậy thử hỏi có ai trong số những người tôi đã phái đến với anh chị em , mà qua người đó tôi đã khai thác tư lợi gì của anh chị em chăng ?
+48002014	làm sao		Khi tôi thấy họ không sống ngay thẳng theo chân lý của Tin Mừng , tôi đã nói với Sê-pha trước mặt mọi người , " Nếu ngài là người Do-thái mà sống giống như một người trong các dân ngoại , không như người Do-thái , thì làm sao ngài đòi các dân ngoại phải sống như người Do-thái được ? "
+48003001	ai		Hỡi những người Ga-la-ti khờ khạo kia ! Ai đã mê hoặc anh chị em , những người đã được trình bày rõ ràng trước mắt rằng Đức Chúa Jesus Christ đã chịu đóng đinh trên thập tự giá ?
+48003019	gì		Vậy thì Luật Pháp để làm gì ? Luật Pháp được thêm vào sau nầy để người ta hiểu thế nào là phạm tội . Luật Pháp tồn tại cho đến khi Con của lời hứa đến , đó là Người mà lời hứa đã hứa . Luật Pháp đã được các thiên sứ truyền xuống cho dân qua trung gian của một người .
+48004009a	tại sao		Nhưng bây giờ anh chị em đã biết Đức Chúa Trời rồi , đúng ra là được Đức Chúa Trời biết đến rồi , tại sao anh chị em còn quay về nhờ cậy những thần bất lực và bần cùng ấy ? 
+48004009b	~		Bộ anh chị em muốn bị chúng bắt làm nô lệ trở lại sao ?
+48004010	~		Anh chị em vẫn còn mê tín dị đoan , nào là xem ngày , xem tháng , xem mùa , và xem năm .
+48004015	đâu		Phước hạnh đó của anh chị em bây giờ đâu rồi ? Tôi có thể làm chứng với anh chị em rằng lúc đó , nếu có thể được , anh chị em đã móc mắt mình để cho tôi .
+48004021	gì		Hãy nói cho tôi nghe , hỡi những người muốn ở dưới Luật Pháp kia , anh chị em không nghe Luật Pháp nói gì sao ?
+48004030	gì		Nhưng Kinh Thánh nói gì ? " Hãy đuổi người nữ nô lệ và đứa con của nàng đi , vì đứa con của người nữ nô lệ sẽ không được thừa hưởng gia tài với đứa con của người nữ tự do . "
+48005007a	ai		Anh chị em đang chạy ngon trớn , thế mà ai đã ngăn trở anh chị em trong nỗ lực đeo đuổi chân lý vậy ?
+48005007b	~		
+48005011	tại sao		Thưa anh chị em , về phần tôi , nếu tôi giảng rằng sau khi tin Chúa người tin cần phải được cắt bì nữa , thì tại sao tôi còn bị bắt bớ ? Nếu vậy thì chướng ngại của thập tự giá đã được dẹp bỏ rồi .
+49004009	gì		Khi nói " Ngài ngự lên , " điều ấy có nghĩa gì nếu không hàm ý rằng Ngài cũng đã xuống tận những nơi rất thấp của đất ?
+50001018	sao		Nhưng rồi sao ? Đàng nào cũng được , dù giả vờ hay thành thật , Đấng Christ vẫn được rao giảng ; và như thế là tôi vui rồi , phải , và tôi sẽ tiếp tục vui ,
+50001021	~		Vì đối với tôi , sống là Đấng Christ , và chết là lợi .
+51002020	tại sao		Nếu anh chị em đã chết với Đấng Christ về các nguyên tắc sống cơ bản của đời nầy , tại sao anh chị em sống như thể còn thuộc về đời nầy ? Tại sao anh chị em còn chấp hành các quy tắc như ,
+52002019	gì		Vì hy vọng , niềm vui , và mão hãnh diện của chúng tôi là gì , nếu không phải là anh chị em trước mặt Đức Chúa Jesus , Chúa chúng ta , trong ngày Ngài hiện đến ?
+52003009	làm sao		Làm sao chúng tôi có thể tạ ơn Đức Chúa Trời cho đủ về anh chị em ? Vì tất cả niềm vui chúng tôi có được trước mặt Đức Chúa Trời của chúng ta đều đến từ anh chị em .
+54003005	làm sao		( Vì nếu người nào không biết quản trị gia đình mình , làm sao người ấy có thể chăm sóc hội thánh của Đức Chúa Trời ? )
+54006007a	~		vì khi ra đời chúng ta chẳng đem gì theo , 
+54006007b	~		khi qua đời chúng ta cũng không thể đem gì theo .
+58001005	bao giờ		Vì có bao giờ Đức Chúa Trời phán với một vị thiên sứ nào rằng , “ Con là Con Ta , Ngày nay Ta đã sinh Con ” Và lại phán , “ Ta sẽ làm Cha Người , Và Người sẽ làm Con Ta ” chăng ?
+58001013	bao giờ		Đức Chúa Trời có bao giờ phán với một thiên sứ nào rằng , “ Hãy ngồi xuống bên phải Ta , Cho đến chừng Ta đặt những kẻ thù của Con làm bệ chân Con ” chăng ?
+58001014	~		Chẳng phải tất cả các thiên sứ là những thần được phái đi để phục vụ những người sẽ thừa hưởng ơn cứu rỗi sao ?
+58002003	thế nào		thì làm thế nào chúng ta có thể tránh khỏi hình phạt khi chúng ta thờ ơ với ơn cứu rỗi cực kỳ quan trọng dường ấy ? Ơn cứu rỗi ấy đã được Chúa rao truyền trước tiên , và đã được xác thực cho chúng ta bằng những người nghe .
+58002006a	gì		Nhưng có người đã làm chứng ở đâu đó rằng , “ Con người là gì mà Ngài nhớ đến nó ? 
+58002006b	~		Con của loài người là chi mà Ngài quan tâm đến nó ?
+58003016	ai		Ai là những người đã nghe tiếng Ngài mà vẫn còn nổi loạn ? Chẳng phải là tất cả những người đã được Mô-sê dẫn dắt ra khỏi Ai-cập sao ?
+58003017	ai		Ngài đã giận ai trong bốn mươi năm ? Chẳng phải là những người đã phạm tội và thân thể họ đã ngã xuống trong đồng hoang sao ?
+58003018	ai		Ai là những người Ngài đã thề sẽ không cho vào nơi an nghỉ của Ngài ? Chẳng phải là những người đã không vâng lời Ngài sao ?
+58006004	~		Thật không thể nào làm cho những người đã một lần được soi sáng , đã nếm trải ơn thiên thượng , đã trở thành những người chia sẻ ân tứ của Đức Thánh Linh ,
+58007011	tại sao		Vậy nếu nhờ chức vụ tư tế của người Lê-vi mà người ta được trở nên hoàn toàn –vì dân nhận được Luật Pháp trên căn bản của chức vụ tư tế ấy– thì tại sao cần phải dấy lên một tư tế khác theo dòng Mên-chi-xê-đéc , mà không là một người theo dòng A-rôn ?
+58009014	~		thì huyết của Đấng Christ , Đấng nhờ Đức Thánh Linh đời đời dâng chính Ngài làm con vật hiến tế không tì vết lên Đức Chúa Trời , tẩy sạch những việc chết khỏi lương tâm chúng ta , để chúng ta phục vụ Đức Chúa Trời hằng sống , có hiệu lực hơn biết bao !
+58010001	~		Thật vậy Luật Pháp chỉ là hình bóng của những điều tốt đẹp sắp đến , chứ không phải hình thể đích thực của những điều ấy , nên không bao giờ có thể làm cho những người đến gần được toàn hảo bằng các thú vật hiến tế dâng hiến liên tục từ năm nầy qua năm khác .
+58010029a	~		huống chi kẻ giày đạp Con Đức Chúa Trời , 
+58010029b	~		khinh thường huyết của giao ước mà nhờ đó mình đã được thánh hóa , 
+58010029c	~		và nhục mạ Đức Thánh Linh của ân sủng , 
+58010029d	~		anh chị em nghĩ kẻ như thế không đáng bị hình phạt nặng hơn sao ?
+58011032	gì		Tôi sẽ nói gì nữa ? Tôi sẽ không đủ thì giờ để kể các chuyện của Ghi-đê-ôn , Ba-rác , Sam-sôn , Giép-thê , Đa-vít , Sa-mu-ên , và các vị tiên tri ,
+58012007	ai		Khi anh chị em chịu sự sửa dạy , Đức Chúa Trời đã đối xử với anh chị em như con , vì có ai làm con mà cha không sửa dạy chăng ?
+58012009	~		Hơn nữa , chúng ta có cha phần xác sửa dạy , và chúng ta vẫn tôn kính họ , chúng ta há không thuận phục nhiều hơn đối với Cha phần linh để sống sao ?
+58012025	~		Anh chị em hãy coi chừng , đừng từ chối Đấng phán với mình . Vì nếu những kẻ từ chối người cảnh cáo mình dưới đất còn không thoát khỏi , huống chi những người quay lưng lìa bỏ Đấng cảnh cáo mình từ trời .
+58013006	gì		Do đó chúng ta có thể nói mạnh dạn , “ Chúa là Đấng giúp đỡ tôi , Tôi sẽ không sợ , Loài người làm gì được tôi ? ”
+59002006	~		Thế mà anh chị em lại khinh dể người nghèo ! Chẳng phải những người giàu áp bức anh chị em và đưa anh chị em ra tòa sao ?
+59002014	gì		Thưa anh chị em của tôi , nếu một người nói rằng mình có đức tin nhưng không có hành động , thì đức tin ấy có ích gì chăng ? Đức tin ấy có thể cứu người đó chăng ?
+59002016a	~		mà ai trong anh chị em bảo người ấy , " Hãy đi bình an , hãy mặc ấm và ăn uống đầy đủ , " nhưng không cho người ấy những thứ thân xác người ấy đang cần , 
+59002016b	gì		thì những lời nói đó có ích gì chăng ?
+59002018	~		Nhưng nếu ai nói , " Bạn có đức tin , còn tôi có hành động . " Hãy chỉ cho tôi đức tin không có hành động của bạn , rồi tôi sẽ chỉ cho bạn đức tin của tôi bằng các hành động của tôi .
+59002021	~		Chẳng phải Áp-ra-ham tổ phụ chúng ta được xưng công chính nhờ hành động khi ông dâng I-sác con trai ông trên bàn thờ sao ?
+59003013	ai		Ai là người khôn ngoan và trí thức giữa anh chị em ? Người ấy hãy thể hiện những điều đó qua cách cư xử tốt đẹp và những hành động phản ánh đức khiêm nhường đến từ sự khôn ngoan .
+59003017	~		Nhưng sự khôn ngoan thiên thượng thì trước hết là trong sạch , rồi hiếu hòa , nhã nhặn , nhường nhịn , đầy thương xót và những trái tốt , không thiên vị , và không đạo đức giả .
+59004001a	đâu		Bởi đâu có sự xung đột và bởi đâu có sự tranh chấp giữa anh chị em ? Chẳng phải là do những dục vọng đang đánh nhau trong các chi thể của anh chị em sao ?
+59004001b	~		
+59004012	ai		Chỉ có một Đấng ban hành luật pháp , và chỉ có một Vị Thẩm Phán , đó là Đấng có thể giải cứu và tiêu diệt . Còn bạn là ai mà xét đoán người lân cận mình ?
+59004014	~		trong khi anh chị em không biết ngày mai sẽ ra thế nào , hoặc cuộc đời mình rồi đây sẽ ra sao , vì anh chị em chỉ là hơi nước , hiện ra trong chốc lát , rồi lại tan ngay .
+60002020	gì		Vì nếu anh chị em phạm tội và bị đánh đập thì đâu có gì đáng nói ? Nhưng nếu anh chị em làm điều tốt mà phải kiên tâm chịu khổ , thì hãy coi đó là một ơn phước trước mặt Đức Chúa Trời .
+60003013	ai		Ai nỡ làm hại anh chị em khi anh chị em nhiệt thành làm điều tốt chăng ?
+60004017	sao		Vì thời phán xét đã đến , bắt đầu từ nhà của Đức Chúa Trời , và nếu chúng ta bị phán xét trước nhất , thì số phận cuối cùng của những người không vâng phục Tin Mừng của Đức Chúa Trời sẽ ra sao ?
+60004018	thế nào		Và " Nếu những người công chính còn khó được cứu , Thì những kẻ gian ác và những kẻ tội lỗi sẽ như thế nào ? "
+61003004	đâu		và nói rằng , " Lời hứa về sự hiện đến của Ngài đâu rồi ? Vì từ khi các tổ phụ chúng ta an giấc mọi sự vẫn tiếp tục như từ lúc bắt đầu cuộc sáng tạo . "
+61003011	~		Vì mọi vật sẽ bị tiêu diệt như thế , nên anh chị em phải ăn ở sao cho thánh khiết và thể hiện sự tin kính vẹn toàn ,
+62002022	ai		Ai là kẻ nói dối , nếu không phải là kẻ phủ nhận Đức Chúa Jesus là Đấng Christ ? Nó chính là Kẻ Chống Đấng Christ . Kẻ ấy phủ nhận Đức Chúa Cha và Đức Chúa Con .
+62003012	gì		Chớ như Ca-in là người thuộc về Kẻ Ác và đã giết em mình . Vì cớ gì ông ấy đã giết em ông ? Vì những việc làm của ông là gian ác , còn những việc làm của em ông là ngay lành .
+62003017	thể nào		Nếu ai có của cải ở đời nầy và thấy anh chị em mình lâm vào cảnh khốn cùng mà chặt dạ đối với người ấy , thì làm thể nào tình yêu của Đức Chúa Trời ở trong người đó được ?
+62004020	~		Nếu ai nói , " Tôi yêu Đức Chúa Trời " mà ghét anh chị em mình , người ấy là kẻ nói dối ; vì người nào không yêu anh chị em mình là những người mình thấy được , thì không thể yêu Đức Chúa Trời là Đấng mình chưa thấy .
+62005005	ai		Ai là người chiến thắng thế gian , nếu không là người tin rằng Đức Chúa Jesus là Con Đức Chúa Trời ?
+66005002	ai		Tôi lại thấy một vị thiên sứ mạnh mẽ tuyên bố lớn tiếng , " Ai xứng đáng để mở cuộn sách và tháo gỡ các ấn của nó ? "
+66006010a	bao lâu		Những người ấy kêu lớn rằng , " Lạy Chúa Toàn Năng , Đấng Thánh Khiết và Chân Thật , còn bao lâu nữa Ngài mới xét xử 
+66006010b	~		và báo trả những kẻ sống trên đất về tội làm đổ máu chúng con ? "
+66006017	ai		vì ngày thịnh nộ lớn của họ đã đến , và ai có thể đứng nổi ? "
+66007013a	ai		Bấy giờ một vị trong các vị trưởng lão hỏi tôi , " Ngươi có biết những người mặc áo choàng trắng nầy là ai , 
+66007013b	đâu		và họ từ đâu đến không ? "
+66013004a	ai		Họ thờ phượng Con Rồng , vì Con Rồng ban cho Con Thú quyền phép . Họ cũng thờ phượng Con Thú và nói , " Ai có thể được như Con Thú 
+66013004b	ai		và ai có thể đánh lại nó ? "
+66015004a	ai		Lạy Chúa , ai sẽ không kính sợ Ngài 
+66015004b	~		và không tôn vinh danh Ngài ? Vì duy chỉ Ngài là thánh , Tất cả các dân sẽ đến và thờ lạy trước mặt Ngài , Vì đức công chính của Ngài đã được biểu lộ . "
+66017007	tại sao		Bấy giờ vị thiên sứ nói với tôi , " Tại sao ngươi kinh ngạc như thế ? Ta sẽ nói cho ngươi biết sự bí mật về người đàn bà nầy và Con Thú có bảy đầu và mười sừng chở người đàn bà ấy .
+66018018	~		khóc than khi thấy khói thiêu đốt nó bốc lên , và nói , " Có thành phố nào lớn như thành nầy chăng ? "

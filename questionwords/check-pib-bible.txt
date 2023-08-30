@@ -1,0 +1,743 @@
+40002002	Ginaklu		Wane chinna , “ ¿ Ginaklu wa Goteyone Pogire gishpakachritka ? Gi rixanu tkachi gishpatyawaka sreta wetyalo katagirite . Wuna wyoptsojityentapyaplu . ”
+40002004	ginaka		Rapatna pejnuruneko tsrukakalune sasertotene ga wa yonchikgapine yinenu . Repomgana ginaka rushpakini Kristopa .
+40003007	Katu		Gixo Gwariseyone ga wa Sariseyone retinitka Gwa katlewatyawaka ginachine , wane chinna , “ ¡ Gimnu pixkalungi ! ¿ Katu yimakgi gasukyegityawaklu jgekanchipa ?
+40005013	klu		“ Gixni wa tye psolchijneko tuwnegi . Gi wa mro rixinitka tuwu , ¿ klu tuwutka ? Gike kigleyatkalu , seyni maleka ruknokanruna yineya rakatooko .
+40005046	klu		Gi rixanu gishinikinipna wa gishinikjene , ¿ klu gimapnutko ? ¿ Gi ge waneko pixka rixna gijgawenutachine ?
+40005047	klu		Ga wa gimolenepje galukini , ¿ klu gkamruta gixa pimrine pnute ? ¿ Gi ge waneko pixka rixkoxna payineko ?
+40006027	Katu		¿ Katu gixa gimkata yognikletlu giwekinriya pshinitsonuji gkojwakanshinkanrewleya ?
+40006028	Klu		“ ¿ Klu koxa gkojwakanshinikanutnawa gmakatanruya ? Getjetanru kagwuru chiji gajeru , gi rixpoko tseruwnaleta . Gi kamrurewpotuta . Gi jiweta .
+40006031a	klu		Giyagni gi wa gkojwakanshinikanutinwa , wane nchininri , ‘ ¿ Klu wnikanuna ? 
+40006031b	klu		¿ Klu wuranuna ? 
+40006031c	klu		¿ Klu wutakanuna ? ’
+40007003	~		“ Ga wa waneko pixka rixatnaka . Wutakashatanru : Pixa getlu kapopejiru pumoleygale gwachri , ga wa ¿ puygaleko gwachri kaknalu gi peta ?
+40007004	~		Ga wa wane pchinanru pumole , ‘ Gichikaka . Nwanruchi puygale gajeru kapopejiru . ’ ¡ Ga wa petanru pixako puygale gwachri kaknalu !
+40007009	giru		“ Ga wa gixa , ¿ giru jeji wa gituru gagjitinri jimapro , renekanru sotlu ?
+40007016a	~		Kamrurna gimatinna . ¿ Kawshipirege jirgiylona gowaji ? Ga wa 
+40007016b	~		¿ kawshisureruylege jirgiylona gikersagi ?
+40008026	Klu chinanu		Wale wane chinna , “ ¿ Klu chinanu pikachingi ? Psotsotaji galixachingi . ” Giyagni yotunota . Chigetjetlu kannipgyalu ga wa tsru wenu . Tsru mayegixgalu rixatka .
+40008027	gi		Giyagni jejine giglajita . Wane chinna , “ ¿ Gi gixachri jejnige wa tye ? Wa kannipgyalu ga wa tsru wenu yijnakotanru . ”
+40008029	gi		Wane saplewatyana . Wane chinna , “ ¿ Gi rixwu wixa ga wa pixa , Geso , Goyakalu Wgene ? ¿ Punge gewi psaletpotutyapwu ma mapookanuwa gipapko ? ”
+40009004	Klu chinau		Rumatanshinikanutinna Geso , wane chinna , “ ¿ Klu chinau mugletu gyanshinikanuta gajiya ?
+40009005	girni		Gi rixanu ¿ girni wa myapretu wane chinikolu , waka , ‘ Kaspukmukochiretkalurutkayi , ’ waka wane chinru , ‘ Palnanutka . Pyanamtanutka ’ ?
+40009011	Klu chinanu		Gwariseyone getinna . Wane chinkanna yimaklenni , “ ¿ Klu chinanu gijgawenutachine ga wa kmukochirerune rumnika gyimakjeru ? ”
+40009014	Klu chinanu		Giyagni Gwa yimaklene yayegitlu Geso . Wane chinruna , “ ¿ Klu chinanu wixa ga wa Gwariseyone gixo kata gogajirewata ; ga wa Pixa yimaklene gi gogajirewata ? ”
+40009015	~		Geso wane chinna , “ Gi rumkata wamonuwnaletna wa kashimyolu getachine wannayma rawinikopshini gnunrowatachri , wa xani pixka Gita gimwakopshinna nyimaklene . Seyni runanu pagogne wa gnunrowatachri konkoklunpatka wannayegiya . Waneklu rogajirewatanna wanna .
+40010025	~		Poyagotyalu yimaklechi wa yimakjeru pixka rixinripa , ga wa wayegrechri wa rutsrukate pixka rixinripa . Welsewo chinmakluna kapjiru pnutenapna gipji gajenepni .
+40011007	Kluneru		Yanananumtinna , Geso yinuwaka ginkakletna gixolune yine Gwapirana , “ ¿ Kluneru getapa yineru mwiyawakanuya ? ¿ Satu kapanrege kannipgyalu kowshikanrurge ?
+40011008	kluneru		Seyni ¿ kluneru getapa ? ¿ Satu jeji popchimkalurege gitakachri ? Gike . Pogirchinepji rawna popchimkalu gitakachine .
+40011009	Klu chinanu		Seyni ¿ klu chinanu wane gyapa ? ¿ Satu tokanchi geneklewatachrirge getapinripa ? Gigi , wane nchingi . Tokanchi geneklewatchri pnute .
+40011016	Giru		Geso gomkagi wane chinretna , “ ¿ Giru pixka nutakanna nyi gimuweekakgognenatachine ? Mturune pixka , giputu tuplanatachine , rupxalunna tomsanatachine .
+40012011	Giru		Geso wane chinna , “ ¿ Giru jeji wane gixa yegi , sato gowega waneyalutu ? Walamka gijrukanu kapna gapnanutikalurgogneko . ¿ Gi ge kashichanro ga wa koschekanro ?
+40012026	gi rixpoko		Satanasyokaklukmaka maleka giknoklu Satanasyo , walenanuko kotspalkakanshinikanutinmakwa . Giyagni ¿ gi rixpoko gwagogneretanu wale pogirewatyawaka ?
+40012027	katu		Ga wa Gita Welsewo chinanumka maleka nuknokanna kamchine , gwugenene ¿ katu chinanu maleka ruknokna ? Giyagni gwugenenepni gixa gitakyagokachinepni .
+40012029	gi rixpoko		“ ¿ Gi rixpoko satu gimkata jiglokapjiretlu gichkolu , chowgutyaplu rejnunkate , ma mostutkanuwalu wa gichkolu ? Waneklu chowgutyalu gipji gajeru .
+40012034	Gi gixpoko		Gimnu pixkalungi . ¿ Gi gixpoko gimkata yanumsaletlu kigleru , muglenekgi gixini ? Gi rixanu klunerutka yineru gaji tsepowniyachri , wale yanumatya ginamaya .
+40012048a	katni		Rugitlu wane chinjeru . Wane chinru , “ ¿ Katni wa nunro ? 
+40012048b	katni		¿ Katni wa nepurune ? ”
+40013010	Klu chinanu		Runyegitluna yimaklene . Wane chinruna , “ ¿ Klu chinanu yapkaklu punkaklewyegityana ? ”
+40013027	ginaka		“ Wayegrechine gapyegitlu kwangixleru . Wane chinruna , ‘ Gitsrukaachi , ¿ gi ge kiglejiru putaklu wa pusanate ? Giyagni ¿ ginaka ruyakatya triko pixkalutu kshana ? ’
+40013054a	Ginaka		Gichijne yatka . Wanna ginkaklewawaklepji runkakjetyana . Wane rixa . Wanna giglajita . Wane chinna , “ ¿ Ginaka rawyalu tye gimatkalewlu ga wa tye giyaklukaka ?
+40013054b	~		
+40013056	ginaka		¿ Gi ge pejnuroneko repurone wixa yegi ? ¿ Giyagni ginaka pguta rukshikyalu pejnuruko tyekaka gimatkalewlu ga wa ruyaklewle ? ”
+40014031	Klu chinanu		Waneklu Geso gomyokyegitlu . Kashichlu . Wane chinru , “ Psotsotaji galixachriyi . ¿ Klu chinanu maponshinikanukletyi ? ”
+40015002	Klu chinanu		“ ¿ Klu chinanu pyimaklene giknoklu gitsrukaachinni giykole ? Gi rixanu gi rerkamyotna wa jimapro nikinna . ”
+40015003	Klu chinanu		Wale gigitna . Wane chinna , “ ¿ Klu chinanu koxa gixa giknoklu Goyakalu yokanatanru giykole chinanu ?
+40015033	Ginaka		Yimaklene wane chinru , “ ¿ Ginaka gawinri wixa wane pejnu niikaluru yineru mwiyawakanuya , wunanutyapna wane pejnu gixolune yine ? ”
+40015034	Gi pejnu		Geso wene china , “ ¿ Gi pejnu jimapro waneygi ? ” Wanna wane china , “ Payokgipre ga wa psotsotaji kopaji . ”
+40016008	Klu chinanu		Geso gimata . Wane china , “ ¿ Klu chinanu gixnanuko gishinikanuwata wa jimapro gma manikiniti chinanu ? Psotsotaaji galixachingi .
+40016009	Gi pejnu		¿ Gi ge gimata jemawa ? ¿ Gi ge gishiniikoxlu wa pamyo jimapro wa pamyo waragkane chinanu , ga wa gi pejnu kojita gkoschekyalu ?
+40016010a	~		¿ Gi ge gishiniikoxlu wa payokgipre jimpro wa gepkoxamkoje waragkane chinanu , 
+40016010b	gi pejnu		ga wa gi pejnu kojita gkoschekyalu ?
+40016011	gi		¿ Gi gixge gi gimata jema gi wa jimapropiranni wane nchinyagi ? Gimretinwa gisekachriya Gwariseyonenu ga wa Sariseyonenu . ”
+40016013	katu		Susari Wiliponusreta yinitka , Geso gepomgana yimaklene . Wane chinna , “ Wa yine ¿ katu wane chinna wa Gita Yineru Wgenno nixinri ? ”
+40016015a	~		Wale wane china , “ Ga wa gixa , 
+40016015b	katu		¿ katu wane chinno ? ”
+40016026a	klu		Gi rixanu ¿ klu gaprini wa yineru psolu chijikmaka wane rixletanu , seyni ruwekinri ramginina ? 
+40016026b	klu		Ga wa ¿ klu rupekotanru yineru ruwekinripa ?
+40017010	gi		Yimaklene gepomgalu . Wane chinruna , “ ¿ Gi chinkoxna wa yonchikgapine wa Giliya gingapkatanu ? ”
+40017017a	Gi pejnugognenanukta		Rugita Geso . Wane china , “ ¡ Ya nyi gimuweekakgognenatachine malixkane , mpotukane ! ¿ Gi pejnugognenanukta numwanutkagi ? 
+40017017b	Gi pejnugognenanukta		¿ Gi pejnugognenanukta nakotangi ? Ganikyegitanno . ”
+40017019	Klu chinanu		Giyagni yimaklene gapyegitlu Geso . Wannapje rixinrina , wane chinruna , “ ¿ Klu chinanu wixa gi gimkata giknokletlu maleka ? ”
+40017025a	gi		Petro wane china , “ Gigi . ” Jiglokapjimtini , Geso gapka yanumata . Wane china , “ ¿ Gi pixka getle pixlu Simo ? Tyechijne pogirene , 
+40017025b	katu		¿ katu yoptotyalona sroschi marnewlu girukotikolu chinanu , ga wa satkaka yineru chinanu ? ¿ Gimolenyegiyna waka pnu gajenyegiya ? ”
+40018001	girni		Waneklu yimaklene gapyetitlu Geso . Wane chinna , “ Giyagni ¿ girni wa tsru potu wa tengogne pogirewatyawakaya ? ”
+40018012	gi		“ ¿ Gi pixka getle gixlu gixa ? Waneyapmkalu satu yineru satu pacha gowegane ga wa tamganmaka sato gowega , ¿ gi ge magka ruknokamtna wa mturujmole mturuji gowegane , ga wa rujgaplo wa gamgachro ?
+40018021	Gi pejnu		Giyagni Petro yayegitlu . Wane chinru , “ Gitsrukaachi , ¿ gi pejnu kata mukochirewyegitanno nomole , ga wa gita kaspukinri ? ¿ Payokgipre katpotunanrege nkaspukinri ? ”
+40019007	gi		Wane chinruna , “ ¿ Gi rixkoxge Moysisi yokanrewata kiruka geneekaluropa ma ganunrotyanpatkalo , ruknokyaplo ? ”
+40019016	klu		Wane rixa . Satu ginyegitlu . Wane chinru , “ Yimaklewatachri kigleru , ¿ klu kigleru nkamrutanu nyoptotyaplu wa nuwekinri gike rixiniko mnikawnakatupa ? ”
+40019017	Klu chinanu		Wane chinru , “ ¿ Klu chinanu pepomgano kiglerupirana ? Gi satuna waneru kigleru ; satupjeru : Goyakalu . Wa paluka jiglokletinri giweklu , pkamrutanru yokanrukaka . ”
+40019018	girni		Wane chinru , “ ¿ Girni ? ” Geso wane chinru , “ Gi puylalewatanu . Gi pumopatlewatanu . Gi pchowguwatanu . Gi maleshawaka pupgujtalewashatanu .
+40019020	Kluneru		Wane chinru makluji , “ Pejnuruko tyekaka nkamrutatka nmaklutinyakawa . ¿ Kluneru wanepnute nmagatya ? ”
+40019025	katni		Wa yimaklene yijnakotinri , ruglajpotutna . Wane chinruna , “ Giyagni ¿ katni gimkata gognetkaakota ? ”
+40019027	klu		Giyagni rugita Petro . Wane chinru , “ Wixa giknokamtatkalu pejnuruko . Womkagitatkayi . Giyagni ¿ klu waneyapwu ? ”
+40020006	Klu chinanu		Rumxiikastsi tkachi yatnaka . Rukshikna pimrine tunwanatachine , mkamrurewatkane . Wane chinna , ‘ ¿ Klu chinanu gewi psolgogneko ntunwashgognenata ? ’
+40020012	~		Wane chinna , ‘ Wa nyi gapkatatachine pshinitsonu kamrurewtapna . Ga wa wixako pixka pixna , wa gakota salewnalgognenatachinwu ga wa gemeru . ’
+40020021	Klu		Wale wane chinro , “ ¿ Klu paluka ? ” Wala wane chinru , “ Wane pchinanu tuplatinripna nyi gepi nwugenene satu potuklesretate ga wa satu pkegnetesretate pogirewatyawakaya . ”
+40020032	Klu		Wa Geso tunwata . Tomgana maygalene . Wane chinna , “ ¿ Klu galukatka wa nixyapgi ? ”
+40021010	Katni		Wa Gerosale rapokamtinitka , psolu pokchi gajeneko gimyeka . Wane chinna , “ ¿ Katni wa tye ? ”
+40021016	~		Wane chinruna , “ ¿ Gi ge pjemna wane chinyawakna ? ” Geso wane china , “ Gigi . ¿ Gi ge pagogne getyongatlu : Wa mturunenamaya ga wa gashichachinenamaya puglepotutlu gimalwuru ? ”
+40021020	~		Yimaklene getlo . Ruglajitna . Wane chinna , “ ¡ Ge ! ¡ Wanekluyakawa tuprigamtanatka gikerni ! ”
+40021023a	~		Wa kpashiwakapji yinitka , wa runkaklewanatini , rapyegitluna tsrukakalune sasertotene ga wa yine tsrutene . Wane chinruna , 
+40021023b	katu		“ ¿ Katu gitakyi tyeya ? ”
+40021025a	ginaka		Wa Gwa katlewle ¿ ginaka giyakatyachrini ? ¿ Tengogne waka yinyegiyakla ? ” Giyagni wannananuko gishinikanuwata . Wane chinna , “ Wane wchininipmaka : 
+40021025b	~		Tengogne giyakatyachrini , wane chinanunwu , 
+40021025c	klu chinanu		‘ ¿ Klu chinanu koxa gi galixlu ? ’
+40021028	gi		“ Seyni ¿ gi pixka getle gixlu gixa ? Gepi wgenru satu jeji . Tsru gituru rapyegita . Wane chinru , ‘ Wiwi , nusanate nowashate pyanu . Tyegogne wane pkamrurewatini . ’
+40021031	Giru		“ ¿ Giru wa nyi gepi ruru gishinikanru kamruta ? ” Wanna wane china , “ Tsru gituru . ” Geso wane chinna , “ Galikakni wane nchingi wa gijgawenutachinni , kapoklewaklerone gixa pnute jiglokanna Goyakalu pogirewatyawaka .
+40021040	gi		“ Giyagni wa kgisanateru gininitka , ¿ gi rixanutkana wa wanna sana girukotachine ? ”
+40022012	gi pixpoko		Wane chinru , ‘ Nomole , ¿ gi pixpoko jigloklemta gewi wa kashimyolu getachrimkalu mutaakatyi ? ’ “ Seyni wale pochke .
+40022017	gi		Giyagni punkakanwu . ¿ Gi pixka getle pixlu Pixa ? ¿ Wa munanshichkotnige Goteyone genekyaplu wenrukaka wa Pogirchi Susa waka gike ? ”
+40022018	Klu chinanu		Seyni Geso gimatlu wanna muglenu . Wane china , “ Sanowashatachingi , ¿ klu chinanu gimlukanutno ?
+40022020a	katunni		Wane chinna Wale , “ ¿ Katunni wa tye yaglu ga wa toyonga ? ”
+40022020b	~		
+40022028	giru		Giyagni wa yotunruklupa ¿ giru gnunropni wa payokgiprenni gnunronanni ? Gi rixanu pejnurunenniko gnunronanni . ”
+40022036	girni		“ Yimaklewatachri , ¿ girni wa tsru potu Yokanatkaluru Tokanchi pejnuruko pnute ? ”
+40022042a	gi		Wane chinna , “ ¿ Gi nchina gixa wa Kristoya ? 
+40022042b	Katuklopishni		¿ Katuklopishni ? ” Wane chinruna , “ Tawinu . ”
+40022043	gi		Wane chinna Wale , “ Giyagni ¿ gi rixa Tawi wa Giwekikaluruya wane chinru Gitsrukaachi ? Wane china :
+40022045	gi rixpokotyawaka		Giyagni waleko Tawi wane chininri Gitsrukaachi , ¿ gi rixpokotyawaka giklopishayapni ? ”
+40023017	girni		¡ Seprolokachingi ga wa maygalengi ! Gi rixanu ¿ girni wa tsrupotu ? ¿ Waka kori waka kpashiwaka potu wa kori kpashiri rixikowaka ?
+40023019	girni		Maygalengi , ¿ girni wa tsru potu : genekashlu waka yochpikjetikowakakwa wa genekashlu kpashiri rixikowaka ?
+40023033	Gi gixpoko		“ ¡ Gimnu pixkalungi ! ¿ Gi gixpoko gasukletinri Gigena xirnachri giklukanuwnayegjixikolupa ?
+40024003a	Giklupni		Goliwa Magkate tuplata . Yayegitluna yinaklene wanna mkoje . Wane chinruna , “ Punkakanwu . ¿ Giklupni wa tyekakapa ? 
+40024003b	klu		¿ Klu getkaluru wanepa wa puninipa ga wa yoptukgognetyawakapa ? ”
+40024045	girupni		“ Giyagni ¿ girupni wa wayegrechri gaponshinikanutkaluru ga wa kshinikanuru ? Wale rutakamta rutsrukate gipji gajene chinanu , wale geneka nikletyapna nikjetinnapapko .
+40025037	giklu		“ Giyagni poyagkakachine gigitanno . Wane chinannona , ‘ Gitsrukaachi , ¿ giklu wetyi pnachinatini ga wa woglutyi , waka gonunnagatewatachriyi ga wa weneka giiretyi ?
+40025038	Giklu		¿ Giklu wetyi pnu giyakatyachriyi ga wa wyoptotyi , waka mamkatyi ga wa wmakatyi ?
+40025039	Giklu		¿ Giklu wetyi pyayixanatini ga wa yoshmakikowaka pwini pixa , ga wa wunyegityi pixa ? ’
+40025044	giklu		“ Giyagni wanna koxa gigitanno . Wane chinannona , ‘ Gitsrukachi , ¿ giklu wetyi wa pnachinatini ga wa ponunnagatewatini ga wa pnu puyakatini , mamkatu , ga wa yayixachriyi ga wa yoshmakikowaka pwini , waneklu gi wa wupxakyi ? ’
+40026008	Klu chinanu		Wale retna yimaklene . Rumtuwnana . Wane chinna , “ ¿ Klu chinanu wane tixa salewnaleta ?
+40026010	Klu chinanu		Geso gimatlu . Wane chinna , “ ¿ Klu chinanu nsalewnakaklo twu suxo ? Gi rixanu kigleru kamrurchi tkamrutyano .
+40026015	Klu		Wane chinna , “ ¿ Klu galuka genekletno , gita samyokangi Wale ? ” Rupiratyaluna mapmoleproji .
+40026017	Ginaka		Muchinangogne jimaprojpa gisekachri myapjetkotugognekaka yimaklene ginyegitlu Geso . Wane chinruna , “ ¿ Ginaka paluka galpoklejixwu wa Tsru Giknoglushgogne pnikyawakapa ? ”
+40026040	~		Yimaklene yegi ya . Retamtna gimkanatachine . Wane chinru Petro , “ Giyagni ¿ gi gimkata giyokletge Gitayma pshinitsonu ?
+40026050	Klu chinanu		Geso wane chinru , “ Nomole , ¿ klu chinanu puna ? ” Giyagni rapyegitluna . Geso . Kashichatkaluna .
+40026054	gi rixpoko		¿ Seyni gi rixpoko poyagkaakotanmaka Tokanchi Yonatkaluru wane chinachri rumkata wane gixleta ? ”
+40026062a	~		Palna sasertotene gitsrukate potu . Wane chinru , “ ¿ Gike pugita ? 
+40026062b	klu		¿ Klu rupgujtatyayina wa nyi ? ”
+40026065	Klu		Giyagni wa sasertote gitsrukate potu suskamkata . Wane china , “ Mupashiregnuchi china . ¿ Klu wanepnute magatyawu gipgujtalewatachine ? Getanu wa xani . Gyijnakotatkalu ma mupashiregnuya . ¿ Gi pixka getle gixlu ? ”
+40026066	~		Rugitna . Wane chinna , “ Ruklukanuwna rupninripa . ”
+40026068	Katu		Wane chinna , “ Kristo , Goyakalu chinanu punkakanwu : ¿ Katu giylakyi ? ”
+40027004	gi		Wane china , “ Gita mukochirewatatka . Nsamyoklu muklukanuwnakatugraga . ” Wa wanna wane chinru , “ ¿ Gi rixwu wixa ? Petanru pixa . ”
+40027013	Gi pejnupiranananukta		Giyagni Pilato wane chinru , “ ¿ Gi ge pjema gi pejnupiranananukta jigyegityayina Pixa ? ”
+40027017	giru		Giyagni rapatinitkana , Pilato wane chinna , “ ¿ Giru galuka wa nkaspukyegityapgi ? ¿ Warawaslege waka Geso wa Kristo chinkaluru ? ”
+40027021	Giru		Rugita girukotlewatachri . Wane china , “ ¿ Giru galuka wa nyi gepi wa nkaspukyegityapgi ? ” Wanna wane china , “ Warawasupni . ”
+40027022	gi		Pilato wane chinna , “ Giyagni ¿ gi nixyaplu Geso wa Kristo chinkaluru ? ” Pejnuruneko wane china , “ ¡ Koroshishkita gitaakalurupa ! ”
+40027023a	~		Girukotlewatachri wane china , 
+40027023b	klu		“ ¿ Klu gektutu kamruta ? ” Wanepnute potu tsaplewatna . Wane chinna , “ Koroshishkita gitaakalurupni . ”
+40027046	Klu chinanu		Kayinwakpapko Geso saplewata . Tsru plaji rixa . Wane china , “ Geloyi , Geloyi , ¿ Lama sawajtani ? ” Walenwa , “ Noyakalute , Noyakalute , ¿ klu chinanu puknokatkano ? ”
+41001024	gi		Wane china , “ ¡ Ya ! ¿ Gi pixannatkawu Geso Nasare gajeru ? ¿ Puna pumtukpotutapyapwu ? Numatyi Kpashiryi Goyakalunu . ”
+41001027	Klunerni		Pejnuruneko giglajita . Giyagni repomgakakna . Wane chinna , “ ¿ Klunerni wa tye ? ¿ Klu gerotu ginkaklewlutkani wa tye ? ¡ Waleni wa tsru gitaakaluru pixka rixa ! Wale yokanatna kamchine puchotlewatachine . Jemluna Wale . ”
+41002007a	klu chinanu		Wane chinna wanna , “ ¿ Klu chinanu wane china yanumsaleta wa tye ? Mupashiregnuchi china . 
+41002007b	~		Gike gimkata kaspukmukochirewleta . Satupjeru Goyakalupje . ”
+41002008	Klu chinanu		Giyagni rumata Geso Walenanuko wane rixanshinikanutinrina . Wane china , “ ¿ Klu chinanu wane gixanshinikanuta tyekaka wa gajiya ?
+41002009	girni		¿ Girni wa myapretu potu ? Wane chinikolu giktegachri , ‘ Wa pmukochirkaka pkaspukikatka , ’ ga wa wane chinikolu , ‘ Pyotunotanu . Pkoschekjekotanu . Pyanutka . ’
+41002016	gi		Wanena yonchikgapine . Wannanwa Gwariseyone koxa . Retanatluna nikyawaka wannayma kmukochirerune ga wa gijgawenutachine . Wane chinkanna wa yimaklenni Gwariseyoneya ga wa yonchikgapineya , “ ¿ Gi rixatka wa wannayma nika , rura , wanna gijgawenutachine ga wa kmukochirerune ? ”
+41002018	Klu chinanu		Wa Gwa yimaklene ga wa Gwariseyonenu gogajirewata . Runna . Wane chinruna , “ ¿ Klu chinanu wanna Gwa yimaklene wa Gwariseyone yimaklene koxa gogajirewata , ga wa Pixa yimaklene gi wa gogajirewata ? ”
+41002019	~		Wane chinna Geso , “ Gi rumkata gogajirewletna wanna kashimyolu getachine gnunrowatachri wannaymalutuwa , Gita pixka nyimakleneymano . Wa wannayma rawanatini gnunrowatachri gi rumkata gogajirewletna , xani pixka wa Gita gimwakopshinna nyimaklene .
+41002024	Klu chinanu		Giyagni Gwariseyone wane chinru , “ Petanu . ¿ Klu chinanu wane rixna gapnanutikalurgogne wa ginanshichkalurgogne ? ”
+41003004	girni		Wane chinatnakna Geso , “ ¿ Girni wa gapnanutikalurgogne muklukanutu kamrutkalurupa : waka kiglerge waka gektutlege ? ¿ Gognetkaklurge giweklu waka giylalu ? ” Ga wa wanna pochke .
+41003023	gi rixpoko		Wa tomginitkana Geso , wane china yapkakluya , “ ¿ Gi rixpoko maleka giknokletinwa Satanasyokakluko ?
+41003033a	katni		Wa Wale gigitna . Wane china , “ ¿ Katni wa nunro , 
+41003033b	~		wa nepurune ? ”
+41004013	Gi gixpoko		Wane chinna Geso , “ ¿ Gi ge gimatlu tye yapkaklu ? ¿ Gi gixpoko gimatletanru ptowruko yapkaklu ?
+41004030a	giru		Wane china Geso , “ ¿ Giru wutakanru wale pixkalutu pogirewatyawaka Goyakalu ? 
+41004030b	giru		¿ Giru yapkaklu wutakanru ?
+41004038	~		Tostsi rawananumta . Rumkananumta rutspannojreya . Komyekluna . Wane chinruna , “ Yimaklewatachri , ¿ gikenna rixyi wa wupninripatka ? ”
+41004040a	klu chinanu		Wa wane chinna Geso , “ ¿ Klu chinanu mpikatka ? 
+41004040b	klu chinanu		¿ Klu chinanu gi galixgognenatawa ? ”
+41004041	Katni		Pikna tsru piklu . Wane chinkakna wannakakluko , “ ¿ Katni wa Tye ? Wa kannipgyalu wa tsru wenu jemyawaklu . ”
+41005007	gi		Saplewata . Tsruplaji rixa . Wane china , “ ¿ Gi pixanutkano Geso , Goyakalu teno potu Gajeru Wgene ? Kachingagjire nixyi Goyakalu kawchinanu , gi wa psaletpotutanno . ”
+41005009	klu		Geso gepomgalu , “ ¿ Klu giwakyi ? ” Rugitlu . Wane china , “ Ngiwaka Gixoluru , wa gixolurunpotwu . ”
+41005030	Katu		Waneklutka Geso gimatatka Walenanuko rushpakamtyatka giyaklu . Ruprotaka wa gixolune yine yegi . Wane china , “ ¿ Katu kamrukamkatno ? ”
+41005031	Katu		Wane chinruna wa yimaklene , “ Gi ge petna wa gixolune yine gachpakyawakyi . Seyni wane pchina , ‘ ¿ Katu kamrukno ? ’ ”
+41005035	Klu chinanu		Yanumsatiniwa Wale , ginkaklewawakapji gitsrukatepji runyana pimrine . Wane chinna , “ Pshichni tupnanatka . ¿ Klu chinanu pkojwakawalu Yimaklewatachri ? ”
+41005039a	klu chinanu		Jiglokamta . Wane chinna Geso , “ ¿ Klu chinanu nsejrewna 
+41005039b	~		nchiyaganata ? Wa mturo gi tupna seyni tumkanata . ”
+41006002a	Ginaka		Rapokinitka , gapnanutikalurgogne yinuwaka ginkaklewleta wa ginkaklewawakapjiya . Gi gepika yijnakotlu . Ruglajitna . Wanna wane china , “ ¿ Ginaka rumatyalu Wale tyekaka ? 
+41006002b	klu		¿ Klu gimatkalewlunwa tye renekikolu wa Wale ? 
+41006002c	gi		¿ Gi pixkalutunanni ruyaklekaka kamrutkalurni gimyoya ?
+41006022	klunerukokta		Tjiglokamta Giroryana nshicho . Tansata . Tmeyitlu Girore ga wa waleyma gwanatachine nikawakakwa . Pogirchi wane chinro makloji , “ Pagjitanno klunerukokta paluka . Gita genekanyi . ”
+41006024	Klu		Tushpakamta wala . Wane chinro tunro , “ ¿ Klu nagjitanu ? ” Wala wane china , “ Wa Gwa katlewatachrijiwu pagjitanu . ”
+41006037	~		Rugita Wale . Wane china , “ Gixa genekanna nikanropna . ” Wane chinruna , “ ¿ Wanerge gayanu ? ¿ Wagjitanro jimapro gepi pachproji wenroloto , wenekyapna nikinropna ? ”
+41006038	Gi pejnu		Wale wane china , “ ¿ Gi pejnu jimapro waneygi ? Getapanro . ” Rumatinitkana . Wane chinna wanna , “ Pamyo . Gepi shima . ”
+41007005	Klu chinanu		Repomgaluna Gwariseyone ga wa yonchikgapine , “ ¿ Klu chinanu wa pyimaklene gi wa wane rixna wa gitsrukaachinni giykole , seyni nikna wa gimyoyna gimuteru ? ”
+41008004	Ginaka		Rugitluna yimaklene , “ ¿ Ginaka giyakatyachro jimapro wa satu gimkata ginanuwkakletanunna gewi yineru mwiyawakanuya ? ”
+41008005	Gi pejnu		Geso gepomgana . Wane chinna , “ ¿ Gi pejnu jimapro waneygi ? ” Wanna wane china , “ Payokgipre . ”
+41008012	Klu chinanu		Wamonuwnalenshinikanuya kosennipgyapotuta . Wane china , “ ¿ Klu chinanu rujgaluna getkaluru tye gimuweekakgognenatachine ? Galikaka wane nchingi , gi wa reneekona getkaluru tye gimuweekakgognenatachine . ”
+41008017	Klu		Geso gimatlu . Wane chinna Wale , “ ¿ Klu gyoptopirkakya wa maleshaygi jimapro ? ¿ Gi ge gishinikanuwatawa ? ¿ Gi ge gimata jemanatawa ? ¿ Waneygi shikolu gaji ?
+41008018a	~		Kaygalmakgi ¿ gi ge geta ? Kajnakmakgi 
+41008018b	~		¿ gi ge gjema ? ¿ Gi ge gishinika ? Wa njiknajrotinitkalu pamyo jimapro wa pamyo waragkaneya ¿ gi pejnu kojita katsepo wa psojkaka gkoschekyatkalu gixa ? ”
+41008019	~		Wanna wane chinru , “ Pamole gepi kojita . ”
+41008020	Gi pejnu		“ Wa payokgipre jimapro wa gepkoxamkoje waragkaneya ¿ gi pejnu kojita katsepo wa psojkaka gkoschekyatkalu gixa ? ” Wanna wane china , “ Payokgipre kojita . ”
+41008021	~		Wane chinna Geso , “ ¿ Gi ge gimata jemawalu ? ”
+41008023	~		Geso kanjimtlu wa maygaletu . Raniklu pokchi kegneteya . Gitskaga sagaygaletlu . Rogwaka rutakamyoyegitlu . Repomgalu , “ ¿ Gi ge petlu pa gixanu ? ”
+41008027	katu		Yatkana Geso wa yimakleneyma . Pokchikaka ya Susari Wiliponu yegi . Wa gatnugapoya repomgiyna wa yimaklene . Wane chinna Wale , “ Wa yine ¿ katu wane chinna Gita nixinri ? ”
+41008029a	~		Wa Wale gepomgana , 
+41008029b	katu		“ ¿ Ga wa gixa katu wane chinno ? ” Rugita Petro . Wane chinru , “ Pixni Kristoyi . ”
+41008036	klu		Gi rixanu ¿ klu kigleyanaplu wa yinerupni psolchijnekmaka waneyapmaklu wane rixle , seyni ruwekinri ramgapotutinina ?
+41008037	klu		Gi rixanu ¿ klu rupekotanru yineru ruwekinripa ?
+41009010	Klunerni		Rushinikluna wa tokanu . Rugjekakna wannakakluko , “ ¿ Klunerni wa tye , wa gipnachinyegiya yotunotini ? ”
+41009011	Klunerni		Repomgaluna . Wane chinruna , “ ¿ Klunerni wa yonchikgapine chinanru wa Giliya gapkamka ginanu ? ”
+41009012	gi		Rugitna Wale . Wane china , “ Giliya galikakni rungapkatanu rugletyaplu ptowruko . ¿ Gi chinpiranata koxa wa yonchi wa Gita Yineru Wgenno gixo nsalewninripa , ga wa gi nkagwakpiratko ?
+41009016	Klu		Geso gepomgana , “ ¿ Klu gyoptopiratyana wanna ? ”
+41009019a	Gi pejnugognenanukta		Rugita . Wane chinna Wale , “ ¡ Ya nyi gimuweekakgognenatachine malixkane ! ¿ Gi pejnugognenanukta numwanutkagi ? 
+41009019b	Gi pejnugognenanukta		¿ Gi pejnugognenanukta nakotangi ? Ganikyegitanno . ”
+41009021	Gipshini		Geso gepomgalu ruru , “ ¿ Gipshini wane gixlenatkalu ? ” Wale wane china , “ Mturuyakawa rixini .
+41009028	Klu chinanu		Wa jiglokinitka wa panchi yimaklene gepomgalu wannapje rixini , “ ¿ Klu chinanu wixa gi wumkata giknokletlu maleka ? ”
+41009033	Klu		Rapokna Kapernawo . Panchi rawinitka , Geso gepomgana , “ ¿ Klu gyoptopirkakananumtya gatnugapoya ? ”
+41009050	klu		Kiglerni wa tuwu , seyni wa tuwu mushi rixinitka ¿ klu gmorotanu ? Waneyapgi gixnanuko tuwu . Kigle gimwakaklepgi . ”
+41010003	Klu		Wale gigitna . Wane china , “ ¿ Klu yokanyegitgi Moysisi ? ”
+41010017	Klu		Gatnugapo yapananumtini , runyegitlu satu gasukamtachri . Yoptsojityegitlu . Repomgalu , “ Yimaklewatachri kigleru ¿ Klu nkamrutanu nyoptotyaplu wa nuwekinri gike rixiniko mnikawnakatupa ? ”
+41010018	Klu chinanu		Geso wane chinru , “ ¿ Klu chinanu wane pchinno kigleru ? Gi satuna waneru kigleru . Satupjeru , Goyakalupje .
+41010026	Katu		Wanna giglajpotuta . Wane chinkakna wannakakluko , “ ¿ Katu gimkata gognetkaakotanu ? ”
+41010036	Kluneru		Wane chinna Geso , “ ¿ Kluneru galuka wa nixyapgi ? ”
+41010051	Klu		Geso gepomgalu . Wane chinru , “ ¿ Klu palukatka wa nixyapyi ? ” Maygaletu wane chinru , “ Yimaklewatachri , netinripa . ”
+41011003	Klu chinanugkoshpiroklu		Girukokta wane chininipgi , ‘ ¿ Klu chinanugkoshpiroklu ? ’ wane nchinanu , ‘ Gitsrukaachi galuklu . Waneklutka yokanatanutnaklu gewi . ’ ”
+41011005	Klu chinanu		Pimrine wane gwanatachine wane chinna , “ ¿ Klu chinanu gkoshpirjetlu mporo wgene ? ”
+41011028a	klu		Wane chinruna , “ ¿ Klu putakika pixa tyekaka pkamrutinri ? 
+41011028b	katu		¿ Katu gitakyi tyekaka pkamrutinri ? ”
+41011030	~		Wa Gwa katlewle , ¿ tengogne giyakatyachrirge ? ¿ waka yinenukla ? Gigitanno . ”
+41011031a	~		Yoptopirkakna wannakakluko . Wane chinna , “ Wane wchininipmaka tengogne giyakatyachrini , Wale wane chinanunwu , 
+41011031b	klu chinanu		‘ ¿ Klu chinanu koxa gi galixlu ? ’
+41012009	gi rixpokotanu		“ ¿ Gi rixpokotanu wa kgowashateru ? Runanu . Ruylatanunna wa sana girukotachinepni . Renekanna gowasha pimrine .
+41012015	Klu chinanu		Wa Wale gimatlu rixashleyna . Wane chinna Wale , “ ¿ Klu chinanu gimlukanutno ? Ganikinno sroschiproji netyaplo . ”
+41012016a	katu		Wanna ganikyegitlu . Wane chinna Wale , “ ¿ Katu yaglunwa tye , 
+41012016b	katunni		ga wa katunni toyonga ? ” Wanna wane chinru , “ Susanni . ”
+41012023	katu		Yotunruklupa yotunotinipna , ¿ katu gnunropni wa wannaya ? Gi rixanu payokgipreni gnunronitka wa wala . ”
+41012028	Girni		Rapoka satu yonchikgapri koxa . Yijnakotna rugjekakyawakna . Rumata kigle gigle Geso gixna . Repomgalu , “ ¿ Girni wa tsru potu Yokanatkaluru Tokanchi pejnuruko pnute ? ”
+41012035	gi		Kpashiwakapji runkaklewatya . Geso wane china , “ ¿ Gi chinna wa yonchikgapine wa Tawiklopisha rixinri wa Kristo ?
+41012037	gi rixpokotyawaka		Waleko Tawi wane chinru Gitsrukaachi . ¿ Gi rixpokotyawaka giklopishayapni ? ” Gixolune yine rumuwleyna yijnakotluna .
+41013004a	Giklupni		“ Punkakanwu . ¿ Giklupni wa tyekakapa ? 
+41013004b	klu		¿ Klu getkaluru wanepa wa tye pejnuruko wa poyagkakinpatka ? ”
+41014004	Klu chinanu		Wanena pimrine gimtuwnachine wannananuko . Wane chinna wanna , “ ¿ Klu chinanu wane tixa saletletatkalo pgamlugalo ?
+41014006	Klu chinanu		Geso wane china , “ Getashatanro . ¿ Klu chinanu nsalewnakaklo ? Kigleru kamrurchi tkamrutyano .
+41014012	Ginaka		Muchinangogne jimapro gisekachri myapjetkotu wa renekashatinrina giylatkalurupa wa Tsru Giknoglushgogne chinanu , yimaklene wane chinru , “ ¿ Ginaka paluka yokanretwu wa walpokotyaplu wa pnikanrupa Tsru Giknoglushgogne chinanupa ? ”
+41014014	Ginaklu		Ginakakta jigloka wane nchinanru wa kapjiru , ‘ Yimaklewatachri wane china , “ ¿ Ginaklu wa napokagrukowakle wa nnikyawakapa Tsru Giknoglushgogne nyimakleneyma ? ” china . ’
+41014060a	~		Wa sasertote gitsrukate potu tunwata ganikajitskalaya . Repomgalu wa Geso . Wane chinru , “ ¿ Gikeko pugityano ? 
+41014060b	klu		¿ Klu rupgujtatyayina wanna nyi Pixaya ? ”
+41014063	Klu		Giyagni wa sasertote gitsrukate potu suskakamkata . Wane china , “ ¿ Klu wanepnute magatyawu gipgujtalewatachine ?
+41014064	gi		Gjematkalu wa mupashiregnuchi china . ¿ Gi pixka getle gixlu ? ” Wa wanna pejnuruneko wane chinyegitluna wa Wale giklukanuwna rupninripa .
+41015004	~		Repomgatnaklu Pilato . Wane chinru , “ ¿ Gi ge pugita ? Petanu . ¡ Gi pajigyeglenanukta rixyegityina ! ”
+41015012	Klu		Rugitatnakna Pilato . Wane china , “ ¿ Klu nixyalu galuka wa gixa giwakatyalu Goteyone Pogire ? ”
+41015014a	~		Wane chinna Pilato , 
+41015014b	klu		“ ¿ Klu gektutu kamruta ? ” Wanna saplewpotuta , “ ¡ Koroshishkita putakjixaganru ! ”
+41015034	Klu chinanu		Kayinwakpapko Geso saplewata . Tsruplaji rixa . Wane china , “ Geloyi , Geloyi , ¿ Glama sawajtani ? ” Walenwa yokaakaluru : “ Noyakalute , Noyakalute , ¿ klu chinanu puknokatkano ? ”
+41016003	Katmakla		Wane chinkakananumtna wannakakluko , “ ¿ Katmakla gakaprurutyanwure sotlu yomlechi gipgyaptote gajeru ? ”
+42001018	gi		Sakariya wane chinru Goyakalutowreru , “ ¿ Gi nixpoko gimatletanru ? Gi rixanu tsrutsolejinatkano . Ga wa nganunro koxa gi gepika walapu waneyatkalo . ”
+42001034	gi rixpokotanu		Giyagni Mariya wane chinru Goyakalutowreru , “ ¿ Gi rixpokotanu wa tye ? Gi rixanu gi jeji numatawa . ”
+42001043	gi		¿ Gi nixge gita wa tye giknogyapno , wa Nutsrukate ginro ginyegityawakno ?
+42001066	gi		Pejnuruneko yijnakotachine gimretpiranatlu rajiyna . Wane chinna , “ ¿ Gi gixachrini : xani tye mturu ? Gi rixanu waleymalu Goyakalu . ”
+42002048	Klu chinanu		Wa retinitkaluna , ruglajitna . Runro wane chinru , “ Noturu , ¿ klu chinanu wane pixwu ? Gi rixanu , gita ga wa puru gijgayi . Kachingajpotwu . ”
+42002049	Klu chinanu		Giyagni Wale wane chinna , “ ¿ Klu chinanu gijgano ? ¿ Gi ge gimata wa Nuru kamrure numkata kamruretatka ? ”
+42003007	Katu		Ga wa Gwa wane chinna gixolune yine gishpakamtachine wale katyapna , “ Gimnu pixkalungi . ¿ Katu ginkakgi gasukyegityawaklu Goyakalu jgekanupa ?
+42003010	klu		Ga wa gixolune yine gepomgalu . Wane chinruna , “ Giyagni ¿ klu wkamrutanu ? ”
+42003012	klu		Runkoxna gijgawenutachine katikolupna . Wane chinruna , “ Yimaklewatachri , ¿ klu wkamrutanu ? ”
+42003014a	~		Solalone koxa gepomgalu . Wane chinruna , 
+42003014b	klu		“ ¿ Ga wa wixa klu wkamrutanu ? ” Wane chinna wanna , “ Gi satuna mpiikakanu sroschi gijginriya . Gi koxa gapatlewatanu . Mpoyagnutanru gwenutikolu . ”
+42004034	gi		Wane china , “ ¡ Ya ! ¿ Gi pixannatkawu Geso Nasare gajeru ? ¿ Puna pumtukpotutapyapwu ? Numatyi katyi Pixa Kpashiryi Goyakalunu . ”
+42004036	Klu		Tsru giglajru rixna pejnuruneko . Wannakakluko giynumsakaka . Wane chinkakna , “ ¿ Klu tokanchinwa tye , gi rixanu tsru gitaakaluru ga wa kgiyaklewaklerni rixa yokanretna kamchine puchotlewatachine ? Rushpakamtna . ”
+42005021a	gi		Giyagni wa yonchikgapine ga wa Gwariseyone yinuwaka yanshinikanretna . Wane chinna , “ ¿ Gi gixachrinwa Tye wa mupashiregnuchi china yanumsaleta ? 
+42005021b	katu		¿ Katu gimkata kaspukmukochiirewleta ? Satupjeru , Goyakalupje . ”
+42005022	~		Giyagni Geso gimata wane rixanshinikanutinrina . Rugita . Wane chinna ,
+42005023	Klu chinanu		“ ¿ Klu chinanu wane gixanshinikanuta tyekaka wa gajiya ? ¿ Girni wa myapretpotu , wane chinyalu giktegachri , ‘ Wa pmukochirkaka kaspuukatkayi , ’ ga wa wane chinyalu , ‘ Pyotunotanu . Pyanutka ? ’
+42005030	gi		Gwariseyone ga wa yonchikgaprenna kegemgana Geso yimaklenyegiya . Wane chinna , “ ¿ Gi rixatka wa wannayma nika , rura , wanna gijgawenutachine , wanna kmukochirerune ? ”
+42005033	~		Giyagni wanna wane chinru , “ Wa Gwa yimaklene gogajirewata gixo kata ga wa ragjigognetkoxna . Waneko pixka rixna wa Gwariseyone yimaklene . Ga wa Pixa yimaklene nikna ga wa rurna . ”
+42005034	~		Wane chinna Geso , “ Gi rumkata gogajirewletna kashimyolu getachine , wanna yegi rawinikopshini gnunrowatachri , xani pixka Gita gimwakopshinna nyimaklene .
+42006002	Klu chinanu		Pimrine Gwariseyone wane china , “ ¿ Klu chinanu wane rixna gapnanutikalurgogne wa ginanshichkalurgogne ? ”
+42006009	girni		Giyagni Geso wane chinna , “ Nepomgangi , ¿ girni wa gapnanutikalurgogne muklukanutu kamrutkalurupa , waka kiglerge waka gektutlege ? ¿ Gognetkaklurge giweklu waka giylalu ? ”
+42006032	kluneruya		“ Gi rixanu wa gishinikjene gishinikinipa , ¿ kluneruya mpoyagnutiko ? Gi rixanu kmukochirewaklerune koxa gishinikna wa rushinikjenna .
+42006033	kluneruya		Ga wa kigle getle gixinipna wa kigle getle gixjene , ¿ kluneruya mpoyagnutiko ? Gi rixanu kmukochirewaklerune waneko pixka gixa .
+42006034	kluneruya		Wa nserojiprojite genekinna wa gkagwaka nsatkakletjenepa wane pejnupotuko , ¿ kluneruya mpoyagnutiko ? Wa kmukochirewaklerune koxa sroschi genekjetna wa wane pejnu kagwaka satkakjenepa .
+42006039	~		Satu yapkaklu runkakna . “ ¿ Rumkatge maygaletu kosekletlu maygaletu ? ¿ Gi ge kapna rumujruukakanna ?
+42006041	Klu chinanu		“ ¿ Klu chinanu petlu kapopejiru pumoleygale gwachri , ga wa puygaleko gwachri kaknalu gi peta ?
+42006042	gi		¿ Gi pchinru pumole , ‘ Gichikaka . Nwanruchi puygale gajeru kapopejiru ’ ? Gi petlu wa puygale gwaknatachri . Sanowashatachriyi . Muchinanu gapka puknokanruchi kaknalu puygale gajeru . Waneklu petpotutanutkalu puknokyaplu pumoleygale gwachri kapopejiru .
+42006046	Klu chinanu		“ ¿ Klu chinanu wane nchinno , ‘ Gitsrukaachi , Gitsrukaachi , ’ Ga wa gi wa nchinyawakgi gkamruta ?
+42007024	Kluneru		Wa yinitkana wa Gwatowrene , Geso yinuwaka ginkakletna gixolune yine Gwapirana , “ ¿ Kluneru wa yineru mwiyawakanuwa getapa ? ¿ Satu katslu kannipgyalu kowshikanrurge ?
+42007025	kluneru		Seyni ¿ kluneru getapa ? ¿ Satu jeji popchimkalurege gitakachri ? Gi rixanu pogirchinepji rawna wale potu mkachri ga wa popchimkalu gitakachine .
+42007026	Klu chinanu		Seyni ¿ klu chinanu wane gya getletapa ? ¿ Satu tokanchi geneklewatachrirge getapinripa ? Gigi , wane nchingi . Tokanchi geneklewatachri pnute .
+42007031a	giru		Wane china Gitsrukaachi , “ Giyagni ¿ giru pixka nutakanna nyi gimuweekakgognenatachine ? 
+42007031b	Kluneru		¿ Kluneru pixka rixna ?
+42007042	giru		Maleshayna wa wenutyapluna . Giyagni kaspukyana gepiko . Giyagni ¿ giru wa gepi rixinrina gishinikpotutlu ? ”
+42007049	gi		Giyagni Waleyma tuplanatachine yinuwaka wane chinanshinikanretna , “ ¿ Gi gixachringe wa Tye , wa mukochri koxa kaspukachri ? ”
+42008025a	Ginakatkalu		Wane chinna , “ ¿ Ginakatkalu galixle ? ” Pikanna . Ruglajitanna . Wane chinkakna wannakakluko , 
+42008025b	gi		“ ¿ Gi gixachrikoxnige wa Tye , wa kannipgyaluymawaka towuta ga wa gonu ? Ga wa yijnakotka . ”
+42008028	gi		Wale getinri Geso , saplewata . Chiji rapokamta Walestsi . Tsruplaji rixa . Wane china saplewleta , “ ¿ Gi pixanutkano Geso , Goyakalu teno potu Gajeru Wgene ? Nagjityi gi wa psaletpotutanno . ”
+42008030	klu		Geso gepomgalu , “ ¿ Klu giwakyi ? ” Wale wane china , “ Gixoluru . ” Gi rixanu gixo potu kamchine jigloklu wale .
+42008045	Katu		Giyagni Geso wane china , “ ¿ Katu kamrukapno ? ” “ Goo , ” chinna pejnuruneko . Giyagni wane chinna Petro ga wa waleymalune , “ Gitsrukaachi , gixolune yine gachpakyi ga wa kachinekyina . ”
+42009009a	katni		Wane china Girore , “ Gwa nustaknoojixanru . Giyagni ¿ katni xani wa tyekaka njempiranyegitanru ? ” Giyagni raluka getletlu . Satokatkana yokanatanune . Pejnuruko runkakluna wa kamrutanruna .
+42009009b	~		
+42009018	katu		Wane rixatka . Walepje chininitka ragjigogneta . Wanestsi rawna yimaklene . Repomgana . Wane chinna , “ ¿ Wa gixolune yine katu wane chinna Gita nchininri ? ”
+42009020a	~		Ga wa Wale wane chinna , “ Ga wa gixa 
+42009020b	katu		¿ katu wane chinno ? ” Rugita Petro . Wane chinru , “ Goyakalu Kristotyi . ”
+42009025	klu		Gi rixanu ¿ klu gaprini wa yineru psolchijikmaka wane rixletanu , seyni ramginina ga wa salewninina ?
+42009041a	Gi pejnugognenanukta		Rugita Geso . Wane china , “ ¡ Ya nyi gimuweekakgognenatachine malixkane , mpotukane ! ¿ Gi pejnugognenanukta numwanutkagi ? 
+42009041b	Gi pejnugognenanukta		¿ Gi pejnugognenanukta nakotyagi ? Panikanru puturu gewi . ”
+42010025	klu		Wane rixaka . Satu yonchikgapri palna rumlukanutyaplu . Wane chinru , “ Gitsrukaachi , ¿ klu nkamrutanu wa nuwekgognenatinripa ? ”
+42010026a	gi		Wale wane chinru , “ ¿ Gi china yongata wa Tokanchi Yokanatkaluru ? 
+42010026b	gi pixpoko		¿ Gi pixpoko getyongaletlu ? ”
+42010029	Katni		Walemka galuka muklukanuwnakatu chinretnawa . Wane chinru Geso , “ ¿ Katni wa nomole ? ”
+42010036a	~		
+42010036b	giru		“ ¿ Giru pkagwaka pixa wa mapa chininrinwa gimole wa kachowgurune yegi yachrini ? ”
+42011008	~		“ Wane nchingi gixa , gimka gyotunotanu wa genekyaplu gimatatkalchinanru . Seyni gma mapatewatinitipa chinanu gyotunota . Genekanru psoluko ralukanru .
+42011011	~		“ Ga wa gixa ¿ satu girchi wa gituru gagjitinri jimapro renekanru sotlu ? ¿ Ga wa shima ragjitini , gimnurge renekanru ?
+42011012	~		¿ Ga wa tonaji ragjitini , geklorge renekanru ?
+42011013	~		Giyagni wa gixa muglenmakgi gimata genekawgeneta kigleru genekashle , pnutlu Giru tengogne Gajeru Giwekikaluru Kpashiri renekanna ragjitjene . ”
+42011018	gi rixpoko		Ga wa Satanasyo walenanuko kotspalkakanshinikanutinmakwa , ¿ gi rixpoko gwagogneretanu wale pogirewatyawaka ? Gi rixanu gixa wane china wa Welsewo giyakleya maleka nuknokna kamchine .
+42011019	katu		Ga wa Gita Welsewo giyakleyamka maleka nuknokanna kamchine , ¿ katu giyakleyamka maleka ruknokna gwugenene ? Giyagni gwugenenepni gixa gitakyagokjenepa .
+42012014	katu		Ga wa Wale wane chinru , “ Jeji , ¿ katu gitakno gitakyagokachri ga wa kotspaltatachri nixinripa gixa chinanu ? ”
+42012017	gi		Wale gishinikanuwata ginanwakaya . Wane china , ‘ ¿ Gi nixanutka ? Gi rixanu maleshayatkano nutakyaplu njirganru . ’
+42012020	katunpatkani		“ Goyakalu wane chinru , ‘ Mshinikanutyi . Tyeyechno kashichko puwekinri . ¿ Ga wa palpokotanru katunpatkani ? ’
+42012024	~		Getpotutanna pokotune mutaklewatkanni . Gi jirgana . Maleshayna rapotyawakagrukna , gi wa rugnantakyawakagrukokna . Ga wa Goyakalu goglutna . ¡ Gi psonanukta kigleygi gixa koshichine pnute !
+42012025	katu		¿ Katu gixa gimkata yognikletlu pshinitsonuji ruwekinriya kojwakanshinikanrewleya ?
+42012026	Klu chinanu		Giyagni gi gimkata wa mturu potu kamruretini , ¿ klu chinanu koxa wanepnute gkojwakanshinikanutnawa ?
+42012042	katni		Gitsrukaachi wane china , “ Giyagni ¿ katni wa girukotapjitachri poyagkakachri ga wa kanshinikanuru , wa rutsrukate gitakanru wa gipji kamrurewatyachine chinanu , wa renekyapna nikanruna kyagolu niklupapkokaka ?
+42012049	~		“ Nuna tye psolchijneko nutakyaplu xirnachri . ¡ Gi pagaluklenanukta nixlu wa yochpikikolpatka !
+42012056	Gi gixpoko		¡ Sanowashatachingi ! Gimata getgogneretlu chiji ga wa tengogne . ¿ Gi gixpoko gi gimata getletlu tyepapkopirana ?
+42012057	Klu chinanu		“ ¿ Klu chinanu gixnanuko gi gitakyagoklu wa potukalu ?
+42013004	~		Ga wa wanna pamole yokgipi , wa Silowe gajeru tenopjiru yawnayegitanune . Ruylatanna . ¿ Gkagwakluge wa wanna magatya wa pejnuruneko yine Gerosale gajene pnute ?
+42013007	Klu chinanu		Wane chinru gowasha girukotachri , ‘ Petanro . Mapa walapu nuna . Nujgasagjetlo wa twu gikera . Gi nukshiksagitlo . Pustakaganro . ¿ Klu chinanu tumaletashatatkalu chiji ? ’
+42013015	~		Giyagni Gitsrukaachi Geso gigita . Wane china , “ ¡ Sanowashatachingi ! ¿ Gi ge satkakgi gixa wa gapnanutikalurgogne goglujetyawakna gkoshpirokyana gwakate ga wa mporote gipra ? Ganiklu rurapinripa .
+42013018a	kluneru		Giyagni wane china Geso , “ ¿ Kluneru pixka rixa Goyakalu pogirewatyawaka ? 
+42013018b	giru		¿ Giru pixka nutakanru ?
+42013020	giru		Wane chinatnaka , “ ¿ Giru pixka nutakanru Goyakalu pogirewatyawaka ?
+42013025	ginaka		Wa kwangixlerupji palninpatka , rushyatanutkalu gipgyapto , gyinuwaka maleka gwaletanuna . Giylaylagipgyaptotetanuna . “ Wane nchinanuna , ‘ Gitsrukaachi , Gitsrukaachi , pkotpukyegitanunwu . ’ “ Ga wa rugitanu . Wane chinanu , ‘ Gi numatgi , ginaka giyakatyachinektagi . ’
+42014005	giru		Wane chinna Wale , “ ¿ Giru jeji wane gixa yegi , wa gituru ga wa mporote wa kapna rujrukinna , gi ge koschekanna waneklu wa gapnanutikalurgogneko ? ”
+42014028	~		“ Gi rixanu wa satu gixa yegi galuka tenopjiru kamruretachri , ¿ gi ge muchinanu gapka tuplanatanu ga wa rutakyagokwenutanru , gikta waneylu wa nikatyaplu ?
+42014031	~		“ Ga wa pogirchi giylalu yegi yachri satu pogirchi yoptotachripa , ¿ gi ge muchinanu gapka tuplatanu jemanshinikanrewatachri rixinripa gikta rumkata pamole waragkayma yoptoletlu wa gepmole waragka waneyalutu wa runyegitjerupa ?
+42014034	kluneru		“ Kiglerni wa tuwu . Seyni wa mushi rixinitka tuwu ¿ kluneru morotkatka ?
+42015004	~		“ Satu jeji wa gixa yegi satu pacha gowega waneyalutu , sato gamgini ¿ gi ge yineru mwiyawakanu ruknokamtna wa mturujmole mturuji ga wa gamgachro chinanu wane ya rukshikinpotunanuko ?
+42015008	~		“ Ga wa sato suxo pamoleproji waneyaloto , wa paproji tamgini ¿ gi ge tyochpiklo katalo , ga wa tsaxritlu panchi , ga wa tujgapotutlo tukshikinpotunanuklo ?
+42015026	klunerni		Satu wayegrechri tomga . Repomgalu klunerni .
+42015029	Gi pejnu		Giyagni wale gigita . Wane chinru ruru , ‘ Papa , ¡ gi pejnu walapunanukta pwayegreru nixnawa ! Gi pagogneko nkaspuklu pyokanatyano . Gi pagogneko penekno chiwo wgene numatanune numeyiwatinripa .
+42016002	Klunerni		Giyagni tomgalu . Wane chinru , ‘ ¿ Klunerni wa tye wa nyijnakyegityawakyi ? Puglepokotanru pgirukotanru kwentate . Gi rixanu gi pumkata girukowletatka . ’
+42016003	Klu		“ Giyagni girukowatachri wane china gitoknanwakaya , ‘ ¿ Klu nkamrutanu ? Gi rixanu nutsrukate giknokanno ngirukowatinriya . Gi numkata jitleta . Npatewata sroschi nagjityapmaka .
+42016005	Gi pejnu		“ Giyagni tomgana satkaka rutsrukate riwishkatachri . Wane chinru muchinanu gapokachri , ‘ ¿ Gi pejnu priwishkatlu nutsrukate ? ’
+42016007	Gi pejnu		“ Satu wane chinatnaka , ‘ ¿ Ga wa pixa ? ¿ Gi pejnu priwishkata ? ’ “ Wale wane china , ‘ Satpacha shiwate trikoji . ’ “ Giyagni wane chinru , ‘ Ga ga pkwentate . Yokgipmole pyonatinri . ’
+42016011	katu		Giyagkoxni wa mugletu ponikolewleya gi wa poyagkakachingi , ¿ katu gaponshinikanutangi wa galikaka potu ponikolewluya ?
+42016012	katu		Wa pimrine wane gixleya mpoyagkaakane gixini , ¿ katu genekangi gixanupa ?
+42017007	~		“ ¿ Satu wa gixa yegi waneya wayegreru tsru jitlolepagitachri ganikachri ga wa gowegane girukotachri , wa sana ruyakatini , gi koxa wane nchinru , ‘ Punanu . Nikjetikowaka ptuplatanu ? ’
+42017017	ginakatkana		Ga wa rugita Geso . Wane china , “ ¿ Gi ge pamolna powratkalune ? Ga wa mturuji ¿ ginakatkana ?
+42017018	~		Gi satuna geta satkapletka wa Goyakalu rumalwutyapa , seyni tye pnu gajeru galikakni . ”
+42017020	gikluplu		Repomsatka Geso Gwariseyoneya gikluplu Goyakalu pogirewatyawaka . Wale gigitna . Wane chinna , “ Gi wa getkaluru runini Goyakalu pogirewatyawaka .
+42017037	Ginakakokta		Wale wane chinna , “ Ginakakokta rawmanetanu gipnachri wane rapatjetinna klatatalune . ”
+42018018	klu		Satu gitsrukaachi gepomgalu . Wane chinru , “ Yimaklewatachri kigleru , ¿ klu nkamrutanu nyoptotyaplu nuwekinri gike rixiniko mnikawnakatupa ? ”
+42018019	Klu chinanu		Geso wane chinru , “ ¿ Klu chinanu wane pchinno kigleru ? Gi satuna waneru kigleru . Satupjeru , Goyakalupje .
+42018026	katu		Ga wa yijnakonatachine wane china , “ Giyagni ¿ katu gimkata gognetkaakotanu ? ”
+42018036	klunerni		Wale yijnako giknogletinna gixolune yine . Repomlewata klunerni .
+42018041	Klu		Wane chinru , “ ¿ Klu palukatka wa nixyapyi ? ” Wale wane china , “ Gitsrukaachi , netinripa . ”
+42019007	~		Pejnuruneko getanatachine kegemga . Wane chinna wa satu jeji kmukochireru yegi jiglokinri wane rawinripa .
+42019023	Klu		¿ Klu koxa gi putakyalo nserojiprojite kgipekoklerune yegi , wa napokini nyoptotanmaklo gitanuko ga wa gixolewnachroymananuko ? ’
+42019031	Klu chinanu		Girukokta gepomginipgi , ‘ ¿ Klu chinanu wane gixa koshpirokletlo ? ’ wane nchinanu , ‘ Gitsrukaachi galuklu . ’ ”
+42019033	Klu chinanu		Koshpirokatkaluna mporo wgene . Kwangixleru wane chinna , “ ¿ Klu chinanu gkoshpiroklu mporo wgene ? ”
+42020002a	klu		Ruynumsatluna . Wane chinruna , “ Punkakanwu klu putakika Pixa tyekaka pkamrutinri . 
+42020002b	katu		¿ Katu gitakyi wa tyeya ? ”
+42020005a	~		Yoptopirkakna wannakakluko . Wane chinna , “ Wane wchininipmaka , tengogne giyakatyachrini , Wale wane chinanunwu , 
+42020005b	klu chinanu		‘ ¿ Klu chinanu koxa gi galixlu ? ’
+42020013	Klu		“ Giyagni wa kgisanateru wane china , ‘ ¿ Klu nkamrutanutka ? Nyokanatanru nalukanru noturu . Kagwakpirgetkotanruna wale . ’
+42020015	gi		“ Kashichanruna . Gowasha ruknokyanruna . Wane ruylatyanruna . “ Giyagni ¿ gi rixanutkana kgisanateru wa wanna sana girukotachine ?
+42020017	Klunerkoxni		Wa Wale retanatna . Wane china , “ ¿ Klunerkoxni wa tye yonatkaluru ? Wa sotlu myoptotkotu kamrupjitachineya , wale gitaaka yoptowaka gitsejita .
+42020023	~		Seyni Wale gimatlu wanna sanowashle . Wane chinna ,
+42020024a	katu		“ Gekakgitanno wa sroschiproji . ¿ Katu yaglu waneylo , 
+42020024b	katunni		ga wa katunni toyonga ? ” Wane chinruna , “ Susanni . ”
+42020033	giru		Giyagni yotunruklupa , ¿ giru gnunropni wa wannaya ? Gi rixanu payokgipreni gnunronitka wa wala . ”
+42020041	gi		Giyagni Wale wane chinna , “ ¿ Gi chinna wa Tawiklopisha rixinri wa Kristo ?
+42020044	gi rixpokotyawaka		“ Giyagni waleko Tawi wane chinru Gitsrukaachi , ¿ gi rixpokotyawaka giklopishayapni ? ”
+42021007a	giklupni		Giyagni repomgaluna . Wane chinruna , “ Yimaklewatachri , ¿ giklupni wa tyekakapa ? 
+42021007b	klu		¿ Klu getkaluru wanepa wa tyekaka wane gixinripatka ? ”
+42022009	Ginaka		Wane chinruna , “ ¿ Ginaka paluka galpoklejixwu ? ”
+42022011	Ginaklu		Wane nchinanru wa kapjiru , ‘ Yimaklewatachri wane china , “ ¿ Ginaklu wa napokagrukwakle wa nnikyawaka Tsru Giknoglushgogne nyimakleneyma ? ” china . ’
+42022027	girni		Gi rixanu , ¿ girni wa tsrupotu , wa nikjetikwaka tuplatachri waka kamrurewatachri ? ¿ Gi ge wa nikjetikwaka tuplatachri ? Seyni wa gixyegiya , Gitni wa kamrurewatachri pixkalutno .
+42022046	Klu chinanu		Wane chinna , “ ¿ Klu chinanu gimkanata ? Gyotunotanu . Ga wa gagjigognetanu wa yantaletikowakapa gma jiglokinitipa . ”
+42022064	Katu		Rushyagojitluna . Repomsatluna . Wane chinruna , “ Goyakalu tokanu peneklewatkoxewa . ¿ Katu giylakyi ? ”
+42022071	Klu		Giyagni wanna wane china , “ ¿ Klu wanepnute gipgujtalu walukatka ? Gi rixanu wixa yijnakotokanutatkalu Walepotuko . ”
+42023022a	~		Wale wane chinna mapa kata chininri , “ Seyni 
+42023022b	klu		¿ klu gektutu kamruta wa Tye ? Gi satuna nukshikyalu rupninri chinanupa . Giyagni nkochipjejixanru . Nkaspukanru . ”
+42023031	gi rixpokotanna		Gi rixanu wa tyekaka kamrutna wa yinuwakikoluya , ¿ gi rixpokotanna pagogne ? ”
+42024005	Klu chinanu		Pikanna . Chiji yonogimtna . Wane chinkana , “ ¿ Klu chinanu gijgalu wa giwekachri wa gipnachinetskalaya ?
+42024017	Klupirana		Ga wa Wale wane chinna , “ ¿ Klupirana nchinkakananumta gixkakluko gyanananumtyawaka wamonuwgojitachingi ? ”
+42024019	Klunernige		Giyagni Wale wane chinna , “ ¿ Klunernige ? ” Ga wa wanna wane chinru , “ Wa Gesni Nasare gajernipirana . Walenwa jejni Goyakalu tokanu geneklewatachrini . Kgiyaklewaklerni kamrureya ga wa tokanuya , Goyakalu getanu ga wa pejnuruneko yine getanu .
+42024025	~		Giyagni Wale wane chinna , “ Gaa mumata jemkangi . Mshinikangajingi wa galixinripa wa pejnuruko wa Goyakalu tokanu geneklewatachine chinyawaka .
+42024038a	klu chinanu		Wale wane chinna , “ ¿ Klu chinanu gkojwakanshinikanuta ? 
+42024038b	klu chinanu		¿ Klu chinanu wane gixa gishinikanuwgajreta ?
+43001019	Giryi		Tyenwa Gwa gipgujtale , wa Goteyone yokanatinitkana Gerosaleya sasertotene ga wa Rewinane repomgiyapluna , “ ¿ Giryi pixa ? ”
+43001021	Klunerkoxni		Repomgaluna , “ ¿ Klunerkoxni ? ¿ Giliyaklayge pixa ? ” Wane china , “ Gi waleno . ” “ ¿ Wa tokanchi geneklewatachrirayge ? ” Rugita , “ Gike . Gi waleno . ”
+43001022a	gi		Giyagni wane chinruna , “ ¿ Gi gixachriyi ? wunkakyapna wyokanatjene . 
+43001022b	gi		¿ Gi pchinnawa pixnanuko ? ”
+43001025	Klu		Repomgaluna . Wane chinruna , “ ¿ Klu koxa pkatlewatya , wa Kristomigjekyi , gi wa Giliyyi , gi wa tokanchi geneklewatachrikoxyi ? ”
+43001038a	klu		Ruprotaka Geso . Retna rawgajxigitjene . Wane chinna , “ ¿ Klu gijga ? ” Wa wanna wane chinru , 
+43001038b	ginaka		“ Rawi ( walenwa yokaakaluru , Yimaklewatachri ) , ¿ ginaka pwa ? ”
+43001046	~		Natanayli wane chinru , “ ¿ Nasarege rumkata giyakletya pagixanu kigleru ? ” Wilipi wane chinru , “ Punanu . Petapanru . ”
+43001048	Ginaka		Natanayli wane chinru , “ ¿ Ginaka pumatyano ? ” Geso gigita . Wane chinru , “ Wilipi ma tomgakanuwayi , wa gikera rapukote pwanatini , netyi . ”
+43002004	gi		Wane chinro Geso , “ ¿ Gi rixno Gita ga wa pixa , suxo ? Gi rapokawa nopapko . ”
+43002018a	~		Wa Goteyone wane chinru , 
+43002018b	klu		“ ¿ Klu getkaluru pekakgitwu wa tye pkamrutinri ? ”
+43003004	gi rixpoko		Nikotemo wane chinru , “ ¿ Gi rixpoko gishpakletatnaka satu jeji tsrutsolejinatka ? ¿ Rumkatge gimepe jiglokletanutnaklu runronanwaka , rushpakinripatnaka ? ”
+43003009	gi rixpoko		Rugita Nikotemo . Wane chinru , “ ¿ Gi rixpoko wane gixkotanu ? ”
+43003012	Gi gixpokotyawaka		Wa nunkakingi tyechijne gajerupirankaka , gi galixa , ¿ gi gixpokotyawaka galixini wa tengogne gajerupirankaka nunkakingi ?
+43004009	gi		Samari gajero wane chinru , “ ¿ Gi pixkatge Pixni Goteyyi pagjitno wa nutyapyi , gitni wa Samari gajerno ? ” Gi rixanu Samaritanoneyma gi rumatletkakna Goteyone .
+43004011	Ginaka		Suxo wane chinru , “ Gitokopna rawatkomgata . ¿ Ginaka pguta waneyyi wa gonu giwekachri ?
+43004027a	klu		Wane rixanatawa rapokna yimaklene . Ruglajitna wa suxo ruynumsanatinri . Seyni gi satuna wane china , “ ¿ Klu paluka ? ” 
+43004027b	klu		waka “ ¿ Klu puynumsatyalo wala ? ”
+43005012	giru		Giyagni repomgaluna , “ ¿ Giru jejni wa wane chinyi , ‘ Pkoschekjekotanu . Pyanutka ? ’ ”
+43005044	Gi gixpoko		¿ Gi gixpoko galixleta gixa , gixkakluko gimalwukakinri ? Gi gijgalu wa satupjerutu Goyakalu kigle getle rixyapgi .
+43005047	gi		Gma malixiniplu wale yonatanru ¿ gi rixyawaka galixtokanutinno ? ”
+43006005	Ginaka		Giyagni tunogiygaleta Geso . Retna gixolune yine ginyegityawaklu . Geso wane chinru Wilipi , “ ¿ Ginaka wagjitapinro jimapro wa nikinripna wanna ? ”
+43006009	klu		“ Gewlu satu mturu waneylu pamyo jimapro triko pixkalutu kamrutikaluru , ga wa gepi shima . Seyni ¿ klu kigleylu wane pejnurune chinanu ? ”
+43006025	Giklu		Tsru wenu wakanute rukshikinitkaluna , wane chinruna , “ Rawi , ¿ Giklu papokatka gewi ? ”
+43006028	Klu		Giyagni wane chinruna , “ ¿ Klu wkamrutanu wa Goyakalu kamrure wkamruretinripa ? ”
+43006030a	klu		Giyagni wane chinruna , “ ¿ Klu getkaluru koxa pkamruta Pixa wa wetyaplu , wa walixyapyi ? 
+43006030b	klu		¿ Klu pkamruta ?
+43006042	gi		Wane chinna , “ ¿ Gi ge Gesokni wa tye , wa Gosi wgene , wa ruru , ga wa runro wumatna ? ¿ Gi rixkoxge wane china wa Tye , ‘ Tengogne gijrukyachrino ? ’ ”
+43006052	gi rixpoko		Giyagni Goteyone gejnugimyegkaka . Wane chinna , “ ¿ Gi rixpoko genekletanwu Tye gigitu wnikyaplu ? ”
+43006060	Katu		Wa gixo yimaklene yijnakonatinri , wane chinna , “ Kgimlu tye tokanchi . ¿ Katu gimkata yijnakletlu ? ”
+43006062	Gi gixpokotanu		¿ Gi gixpokotanu wa getinipno Gita Yineru Wgenno teno nyinipa muchinanu nwanatyawaka ?
+43006068	katyegmaka		Simo Petro gigitlu , “ Gitsrukaachi , ¿ katyegmaka gayanu ? Pixa waneya tokanchi giweklu mnikawnakatupirana .
+43007011	Ginaklu		Giyagni rujgaluna Goteyone meyiwluyegiya . Wane chinna , “ ¿ Ginaklu wa Wale ? ”
+43007015	gi rixpoko		Giyagni ruglajitna Goteyone . Wane chinna , “ ¿ Gi rixpoko gimatletlu wa Tye wa yonchi ? Gi wa yimaakalurni . ”
+43007019	Kluneru		¿ Gi ge Tokanchi Yokanatkaluru renekgi Moysisi , ga wa gixa gi satuna kamrutlu Tokanchi Yokanatkaluru ? ¿ Kluneru chinanu galuka giylaletno ? ”
+43007020	Katu		Yine gigita . Wane chinna , “ Kamchi waneyyi . ¿ Katu galuka giylaletyi ? ”
+43007023	~		Wa gapnanutikalurgogne sajruka gistakikolupa jeji wa Tokanchi Yokanatkaluru Moysisinu ma kaspukikotupa , ¿ gimtuwnayegitnoge gixa wa gapnanutikalurgogne nutuukakpotutyalu satu jeji ?
+43007035	Ginaka		Giyagni wa Goteyone wane chinkaka wannakakluko , “ ¿ Ginaka rushinika yaletge wa Tye wma mukshikyanpatkalu ? ¿ Rushinika yaletge gitspalatachine , Kriykonetskala gwachine yegi , runkaklewyegityapna Kriykone ?
+43007036	Klupiranni		¿ Klupiranni wa tye wa Wale wane chinya ? Wa , ‘ Gijganmakno . Gi gikshikanutkano . Wa nwiyawakapa gixa gi gimkata yaletanu . ’ ”
+43007041	~		Pimrine wane china , “ Kristokni wa Tye . ” Pimrine wane china , “ ¿ Kalilege ruyakatini Kristo ? Gike .
+43007045	Klu chinanu		Giyagni towrechine gapyegitna tsrukakalune sasertotene ga wa Gwariseyone . Wane chinkana towrechine , “ ¿ Klu chinanu gi ganiklu ? ”
+43007048	~		¿ Ralixluge satu tsrukakalu , ga wa satu Gwariseyo ? Gi ralixluna .
+43007051	~		“ Tokanchi Yokanatkaluru wixanu gi giklukanuwnayegjixlu yineru ma muchinanu jempiranyegitkanuwalu , rumatikolupa wale kamrutanru . ”
+43008005	gi		Wa Tokanchi Yokanatkaluruya , Moysisi towutwu sotlujetikolupna wane gixachrone . Ga wa Pixa , ¿ gi pchina Pixa ? ”
+43008010	ginakatkana		Potukawatatnaka Geso . Gi satuna retatka . Suxopjetkani . Wane chinro , “ Suxo , ¿ ginakatkana pjigyegitjene ? ¿ Gikena giklukanuwnayegjixyi ? ”
+43008019	Ginaklu		Wane chinruna , “ ¿ Ginaklu Puru ? ” Geso gigita , “ Gi gimatno Gita , gi wa Nuruko . Gitamka gimatanu , Nurkoxmaka gimatanu . ”
+43008025a	gi		Giyagni wane chinruna , “ ¿ Gi gixachriyi Pixa ? ” 
+43008025b	~		Wane chinna Geso , “ Wa muchinanu nunkakyagi .
+43008033	gi		Rugitluna , “ Gawraklopishanwu wixa . Gike wayegrenenanwu , gi pagogneko . ¿ Gi pchinkoxge Pixa , ‘ Gishpakachinepgi ? ’ ”
+43008043	Klu chinanu		¿ Klu chinanu gi gimata jemlu nunkakletjetanru ? Gi rixanu gi gimkata yijnakletlu ntokanu .
+43008046a	katu		¿ Katu wa gixa gimkata gekakgi giklukanuwnaletyano wa nmukochirewatinritka ? Galikakpotunanu nchinini , 
+43008046b	klu chinanu		¿ klu chinanu gi galixno ?
+43008053	Katu		¿ Pixlege wa wutsrukatni Gawrani pnutepgutyi ? Wale gipnachrinatka . Ga wa tokanchi geneklewatachinni gipnana . ¿ Katu pixnawa Pixnanuko ? ”
+43008057	~		Giyagni wane chinruna Goteyone , “ Gi pamyomole walapuunawayi . ¿ Petnirge Gawrani ? ”
+43009002	katu		Yimaklene gepomgalu . Wane chinruna , “ Rawi , ¿ katu mukochirewata , waleko waka rurune , wa maygaletu rushpakinriya ? ”
+43009010	gi pixpoko		Giyagni wane chinruna , “ ¿ Gi pixpoko gimrekgaletatka ? ”
+43009012	Ginaklu		Wane chinruna , “ ¿ Ginaklu Wale ? ” Wale wane china , “ Goo . Gi numata . ”
+43009016	gi rixpoko		Giyagni pimrine Gwariseyone wane china , “ Tye jeji gi wa Goyakalu yegi giyakatyachrini , gi rixanu gi wa gapnanutikalurgogne rapnanuta . ” Pimrine wane china , “ ¿ Gi rixpoko gimkata kamruretlu tyekaka getkalurkaka satu jeji kmukochireru ? ” Wannakakluko kotspalanshinikankakna .
+43009017	gi		Giyagni rumepe wane chinretatnakluna maygaletu , “ Ga wa pixa , ¿ gi pchina pixa Waleya , gi rixanu rumrekgakakyi ? ” Wale wane china , “ Tokanchi geneklewatachrini . ”
+43009019	gi rixpoko		Repomgakna . Wane chinkana , “ ¿ Tyenwa gituru , wa gixa wane chinanru maygaletu gishpakyachri ? ¿ Ga gi rixpoko getletatka ? ”
+43009026a	gi rixpokotyi		Giyagni rumepe wane chinretatnakluna , “ ¿ Gi rixpokotyi ? 
+43009026b	gi rixpoko		¿ Gi rixpoko gimrekgakakletyi ? ”
+43009027	Klu chinanu		Rugitna , “ Nunkakatkagi . Gi wa gjemno . ¿ Klu chinanu galuka yijnakletatnaklu ? ¿ Gixkoxlege galuklu wa yimaklengi gixinripa ? ”
+43009034	~		Rugitluna . Wane chinruna , “ Psolpotuyako mukochri gimushpakachriyi , ¿ ga wa pixa ginkaklewyegitwu wixa ? ” Maleka ruknokluna .
+43009036	Katni		Rugita wale . Wane china , “ ¿ Katni Wale , Gitsrukaachi , wa nalixyaplu Wale ? ”
+43010020	Klu chinanu		Gixolune wane china , “ Kamchi waneylu . Seprolokachrini . ¿ Klu chinanu gyijnakotlu ? ”
+43010021	~		Pimrine wane china , “ Gi wa kamchichachri tokanni wa tye . ¿ Kamchirge gimkata gimrekgakakletlu satu maygaletu ? ”
+43010024	Giklunanu		Giyagni sajrukluna Goteyone . Wane chinruna , “ ¿ Giklunanu pali kojwakanshinikanretanwu ? Wa Kristo pixinipa , punkakanwu pgujetanwaka . ”
+43010032	giru		Rugitna Geso , “ Gixo kigleru kamrurchi nekakgitgi Girchiya . ¿ Giru kamrurchi tyekaka chinanu nsotlujetanmakno ? ”
+43010036	~		wa Gita Girchi kpashiri gitakanruno , tyechijne yokanatanru , gixa wane china , ‘ Mupashiregnuchi pchina , ’ gi rixanu wane nchina , ‘ Gitni Goyakalu Wgenno . ’
+43011034	Ginaka		Wane china , “ ¿ Ginaka gitakanru ? ” Wane chinruna , “ Gitsrukaachi , punanu . Petapanru . ”
+43011047	gi		Giyagni wa tsrukakalune sasertotene ga wa Gwariseyone gapatjetna jemanshinikankakjetikwaka gajene . Wane chinna , “ ¿ Gi wixanutka ? Gi rixanu wa tye jeji kamrutlu gixo getkalurkaka .
+43011056	gi		Giyagni rujgaluna Geso . Kpashiwakapjiya tunwatachine wane chinkakna , “ ¿ Gi pixka getle gixlu ? ¿ Gi wa meyiwatikwaka runanu ? ”
+43012005	Klu chinanu		“ ¿ Klu chinanu gi tushankaka twu pgamlugalo wa mapa pachaproji chinanu , kwamonurunnimka teneeko ? ”
+43012027	gi		“ Xani nkojwakanshinikanuta . ¿ Gi nchinanu ? ¿ Nuru , pognetkakanno tyepapkoya ? Seyni tye chinanukni tyepapko nuna .
+43012034a	gi		Giyagni rugitluna gixolune , “ Wixa jemlu Tokanchi Yokanatkaluruya wa Kristo gwagognenatanu . ¿ Gi pchinkoxge Pixa : ‘ Rumkata yotunkaakota Yineru Wgene ? ’ 
+43012034b	gi		¿ Gi gixachringe wa tye Yineru Wgene ? ”
+43012038a	katu		poyagkakikolupa wa tokanchi Gisayiya tokanchi geneklewatachri chinyawaka : Gitsrukaachi , ¿ katu galixlu wunkakletanru ? 
+43012038b	katu		¿ Katu gekakgitka wa Gitsrukaachimyo ?
+43013025	katni		Geso gitspanostatachri wane chinru , “ Gitsrukaachi , ¿ katni wale ? ”
+43013036	ginaka		Simo Petro wane chinru , “ Gitsrukaachi , ¿ ginaka pyanu ? ” Geso gigitlu , “ Wa nyiyawakapa Gita gi pumkata gomkagletanno wa xani . Wa gowukshini pomkagitanno . ”
+43013037	klu chinanu		Petro wane chinru , “ Gitsrukaachi , ¿ klu chinanu gi numkata gomkagletanyi wa xani ? Pixa chinanu nutakanru nuwekinri . ”
+43014002	~		Nurupji gixo gwikwaka wane . Wane ma mixkanumka , nunkakanmakgi . Giyagni nyanuchi . Nalpoktapingi gwiyawakapa gixanupa .
+43014005	gi		Tomasu wane chinru , “ Gitsrukaachi , gi wumata ginaka pyanu . ¿ Gi wixpoko gimatletanru wa gatnugapo ? ”
+43014009	gi		Geso wane chinru , “ Gi pomshiniko numwatkagi , ¿ gi ge pumatno , Wilipi ? Wa netjeru retkoxlu Girchi . ¿ Gi pchinkoxge pixa , ‘ Pekakgitanwu Girchi ? ’
+43014022	klunerni		Gota gi wa Giskaryotni wale , wane chinru , “ Gitsrukaachi , ¿ klunerni wa tye wa wixa yegi pupgujetinwa , gi wa tye psolchijne gajeneko yegi ? ”
+43016005	Ginaka		Ga wa xani nyokanatjeru yegi nyanutka , ga wa gixa gi satuna gepomgano , ‘ ¿ Ginaka pyanu ? ’
+43016017	Klunerni		Giyagni wane chinkakna pimrine yimaklene , “ ¿ Klunerni wa tye wa wane chinyawu , ‘ Pshinitsonu gi getanutkano . Wanepnute pshinitsonu getanutnakno . ’ Ga wa ‘ gi rixanu Girchi yegi nyanutka ? ’ ”
+43016018	Klunerni		Giyagni wane chinna , “ ¿ Klunerni china , wa ‘ pshinitsonu ? ’ Gi wumata jemlu wa wane chinre . ”
+43018004	Katu		Giyagni Geso gimatlu ptowrunanuka wa ruknogjerupa . Potukle ya . Wane chinna , “ ¿ Katu gijga ? ”
+43018007	Katu		Giyagni rumepe gepomgaletatnakna , “ ¿ Katu gijga ? ” Wanna wane china , “ Geso Nasare gajeru . ”
+43018011	~		Giyagni Geso wane chinru , “ Petro , gipata pyoshmakanru yoglolewapi . Wa Girchi genekyano wa girapistono , ¿ gi ge nurinro ? ” Wane china salewnalepapirana .
+43018021	klu		¿ Klu pepomgiyno Gita ? Pepomganna wa yijnakotachine wa nchinyawakna . Petanu . Wanna gimata wa nchinyawaka . ”
+43018023	Klu chinanu		Rugitlu Geso , “ Wa gektutu nyanumsatini , pupgujetanru gektutu , ga wa kigleru , ¿ klu chinanu puylakno ? ”
+43018029	Klu		Giyagni maleka rushpakyegitna Pilato . Wane china , “ ¿ Klu gijigyegitlu tye jeji ? ”
+43018035	Kluneru		Rugita Pilato , “ ¿ Gitlege wa Goteyo ? Pumolene ga wa tsrukakalune sasertotene gita samyokyina . ¿ Kluneru pkamruta ? ”
+43018038	Klunerni		Pilato wane chinru , “ ¿ Klunerni wa galikakpotunanu ? ”
+43019009	Ginaka		Rumepe jiglokletatnaklu Pretoryopji . Wane chinru Geso , “ ¿ Ginaka giyakatyachriyi ? ” Seyni Geso gi gigitlu .
+43019015	~		Giyagni wanna saplewata , “ ¡ Puxriikakanru ! ¡ Puxriikakanru ! ¡ Koroshishkita putakaganru ! ” Wane chinna Pilato , “ ¿ Wa koroshishkita nutakanru mpogire ? ” Rugitluna tsrukakalune sasertotene , “ Maleshaywu wpogire . Susapjeni . ”
+43020013	klu		Wane chinrona , “ Suxo , ¿ klu kachokyi ? ” Wane chinna wala , “ Gi rixanu ranikluna Nutsrukatni . Gi numata ginakakta rutakanruna . ”
+43020015a	klu		Wane chinro Geso , “ ¿ Suxo , klu kachokanatyi ? 
+43020015b	katu		¿ Katu pujga ? ” Wala kagwaklu sana girukotachrini . Wane chinru , “ Gitsrukaachi , Pixa ganikiniplu punkakanno ginaka putakniri . Gita ganikanutkalu . ”
+43021012	Katyi		Wane chinna Geso , “ Ginanutka . Gnikanutka . ” Gi satuna yimakleru tserpiranawata wa repomgiyaplu , “ ¿ Katyi Pixa ? ” Rumatluna wa Gitsrukaachi rixinri .
+43021020	katupni		Ruprotaka Petro . Retlu wa yimakleru wa Geso gishinikanru romkagitjerna , wa rutspanostatkoxjeru nikikowakaya , wa wane chinachri , “ Gitsrukaachi , ¿ katupni wa psamyokjerupa ? ”
+43021021	gi		Giyagni Petro getlu wale . Wane chinru Geso , “ Gitsrukaachi , ¿ ga wa tye , gi rixanu ? ”
+43021022	gi		Wane chinru Geso , “ Nalukiniplu rutukanu wale nuninpotunanuko , ¿ gi pixanru pixa ? Pomkagitanno pixa . ”
+43021023	gi		Giyagni rushpaka tye tokanchi wa moletkakachinkakluko , wa tye yimakleru gi wa rupnanu . Seyni wa Geso gi wane chinru , “ Gi rupnanu , ” seyni , “ Nalukiniplu rutukanu wale nuninpotunanuko , ¿ gi pixanru pixa ? ”
+44001011	klu		Wanna wane chinkoxna , “ Jejine , Kalile gajene , ¿ klu wane ntunwanatya , tengogne gyiganata ? Waleko Geso tengogne yoptotikaluru gixyegiya , waneko pixka rixa ginretanu gishingatiniko pixkalu tengogne yinitka . ”
+44002008	gi		¿ Gi wixpoko wixa satkakwu wixako tokanuya wa wumushpakanru wtokanu wyijnako yanumletna ?
+44002012	Klunerutkange		Rumyekna pejnuruneko . Gi rumatanshinikanutna . Wane chinkakna , “ ¿ Klunerutkange ? ”
+44002037	gi		Giyagni yijnakotinrina tyepirana , kachingajinatkana . Wane chinkana Petro ga wa pimrine yokanatanune , “ Jejine , wumolene , ¿ gi wixanutka xani ? ”
+44003012a	gi		Petro getlu . Wane chinna yine , “ Jejine , Gisrayiline , ¿ gi gixge giglajita wa tyeya ? 
+44003012b	klu chinanu		¿ Klu chinanu gyopukgapotutwu , wixako wuyaklepgutlege , wixako wupashirenupgutlege wyankakyalu wa tye ?
+44004007a	~		Wanna ganikajite tunwakaakana . Repomsatkana , 
+44004007b	klu		“ ¿ Klu giyakluya , 
+44004007c	katu		katu giwakaya wane gixyalu wa tye ? ”
+44004016	gi		Wane chinkakna , “ ¿ Gi wixanutkana wa nyi jejine ? Gi rixanu getkaluru pgujetanuru kamrutkaluru wannaya . Pejnuruneko Gerosale gwachine yegi rumatika . Gi wumkata ginutletlu .
+44004025a	klu chinanu		Wa putowreru Tawinamaya wane pchina : ¿ Klu chinanu matsuwatna payinemnunanuka , 
+44004025b	~		Ga wa yine gike gapri rushinikna ?
+44005003	Klu chinanu		Petro wane china , “ Ganani , ¿ klu chinanu Satanasyo tsepotgajityi pyokwitmaklu Giwekikaluru Kpashiri , pkotnukyalu puchijne wenru ?
+44005004	Klu chinanu		Pumretanatinri ¿ gi ge waneyananyi ? Wa pushankinitkalu ¿ gi ge pixa chinanni ? ¿ Klu chinanu pyanshinikangaji kamruretlu ? Gi wa yine pyokwita seyni Goyakalu pyokwitmaka . ”
+44005009	Klu chinanu		Ga wa Petro wane chinro , “ ¿ Klu chinanu wanerutu nchinanshinikanuta gyantaletyaplu Giwekikaluru Gitsrukaachinu ? Petanna gipgyaptostsi rapokatkana pganurni kapnatpachine . Koshpakankoxyina pixa . ”
+44007026	Klu chinanu		Waleprika yagotkakna . Wale gapyegitna . Ruykotmakna kigle gimwakakle rixinripna . Wane china , ‘ Jejine , moletkakachingi . ¿ Klu chinanu gyenetkaka ? ’
+44007027	Katu		“ Giyagni rumwastsitanru yenetachri satkaklu . Wane china , ‘ ¿ Katu gitakyi wutsrukate ga wa wuklukanuwnayegjixjeru pixinripa ?
+44007035	Katu		“ Waleko Moysisi wanna ma yoptotanutu — wane chinanruna , ‘ ¿ Katu gitakyi gitsrukaachi ga wa giklukanuwnayegjixlewatachri pixinripa ? ’ chinanruna . Waleko yokanata Goyakalu , wanna Gisrayilini gitsrukate rixinripa , ga wa koshpakjerepni Goyakalutowreru chinanu . Walenwa gitowreru , kawshipiri gipgujewniyachri .
+44007049a	gi		‘ Tengognenwa ntuplapijere . Chijni wa nutspanjixgapre . ¿ Gi pixkapjirutu gkamrutinno ? ’ china Gitsrukaachi . 
+44007049b	ginakapni		‘ ¿ Ga wa ginakapni wa napnanutyawakapa ?
+44007052	~		Pejnurunniko tokanchi geneklewatachinni kojwaknina gitsrukatenni . Ga wa wanna giylatanna Poyagkakachri gininripapirana ginkakletachinni . Wale Poyagkakachri samyokachingi gixa xani . Wale giylatachingi .
+44008031	gi		Wale wane china , “ ¿ Gi rixyawaka numata jeminri gi satuna ginkakpokowakatanno ? ” Ragjitlu Wilipi ratskotinripa , waleyma tuplamta .
+44008033	Katu		Kamturetkoklunu gi wanepotuko rixluna girukotlewatachine . ¿ Katu ginkakletanna walegogne gajene ? Gi rixanu chiji konikaluru ruwekinri .
+44008034	Katupiranni		Suxone girukotachri gepomgalu Wilipi . Wane chinru , “ Nepomganyi . ¿ Katupiranni wane china tokanchi geneklewatachri ? ¿ Walenanuklege waka satupiranra ? ”
+44008036	Klu		Gatnugapo yapananumtna . Gongastsi rapokna . Wane china suxone girukotachri , “ Petanru gonu . ¿ Klu gimaletlu nkatikolupa ? ”
+44009004	Klu chinanu		Chiji rapokamtana . Yijnakotlu satu tokanchi wane chinjeru , “ Sawolo , Sawolo , ¿ klu chinanu pkojwakno ? ”
+44009005	katyi		Wane china , “ ¿ Katyi Pixa , Gitsrukaachi ? ” Wane chinru , “ Gitni Geso , wa pixa kojwakanruno .
+44009006	~		Seyni palnanutka . Pokchi pyanu . Wane punkakiko pumkata kamruretanrupa . ”
+44010004	Klunerni		Retpotutlu . Pikanatka . Wane china , “ ¿ Klunerni , Gitsrukaachi ? ” Wane chinru , “ Pagjigognere ga wa petwamonrekaka Goyakalu getanu rushinikikolpatka .
+44010021	Klu chinanu		Giyagni Petro gijrukyegitna jejine Kornelyo yokanatanune . Wane china , “ Getanno . Gitni wa gijganruno . ¿ Klu chinanu gina ? ”
+44010029	Klu chinanu		Giyagni nepuuka pnumnu mchinkatno nuna . Giyagni nepomgayi , ¿ klu chinanu pepukno ? ”
+44010047	katu		“ ¿ Katu gimkata ginanshiretlu gonu wa ma katikotupna wa nyi Giwekikaluru Kpashiri yoptotachine wixako pixka ? ”
+44011017a	gi		Giyagni wa Goyakalu renekinna waleko genekashlu koxa wa wixako pixka , wa Gitsrukaachi Geso Kristo galixachinwu , ¿ gi gixachripno gita numkata gimaletletyapmaklu Goyakalu ? ”
+44011017b	~		
+44012018	klukta		Wa gogi chininitka tsru kegeknanuwlu rixna solalone Petro chinanu klukta giknogyawakatkalu .
+44013025	giru		Wa poyagkaka kamrurenanumtinitka Gwa , wane china , ‘ ¿ Giru gkagwakyano ? Gi wa gitni gkagwakanru , seyni runa satu najxigi . Gi wa gita gimukluni nkoshpirokyaplu yoshmaklejixitsa . ’
+44014015	Klu chinanu		Wane chinna , “ Jejine , ¿ klu chinanu wane gixa ? Yinkoxwu wixa . Gixa pixka geta salewnaletachinwu . Kiglerpotunanu Tokanchi wunkakleta gkashrijetikolupa tyekaka gike gaprimigjeya . Goyakalu giwekachrinunepgi . Tengogne kamrutachri , ga wa chiji , ga wa tsru wenu , ga wa ptowrunanuka wanerutu kamrutachri .
+44015010	Klu chinanu		Giyagni wa xani ¿ klu chinanu gyantaletlu Goyakalu , Gitsrukaachi yimaklene gogo gitakyawaklu gitjipije ? Gi wa wutsrukatenniko gimkata ganikletlu , gi wixako .
+44016030	klu		Maleka koshpakatkana . Wane chinna , “ Tsrune , ¿ klu numkata kamrureta nognetkakikolupa ? ”
+44017018	Klu		Pimrine galuka gimatletachine Gepikoreyone mkoje gajene ga wa Gestoyko mkoje gajene yoptopiratluna . Ga wa pimrine wane china , “ ¿ Klu raluka chinreta tye kyanumsakleru ? ” Pimrine wane china , “ Kginkaklewaklergetkoni pnuko gixachine goyakalunepirana . ” Gi rixanu Gesopirana ga wa gipnachine yotunrepirana runkakletyegitna .
+44017019	~		Kashichanruna . Gareyo Magkate ranikluna . Wane chinna , “ ¿ Gi ge wumkata gimatletlu tye gerotu ginkaklewlu , wa pixa ginkakletanru ?
+44019003	klu		Wane china , “ ¿ Giyagni klu gkatika ? ” Wanna wane china , “ Gwa katlewleya . ”
+44019015	katgi		Kamchi gigita . Wane china , “ Geso numata . Pawlo koxa numata . Ga wa gixa , ¿ katgi gixa ? ”
+44019035	girni		Giyagni wa yonchikgapri kochrokatkana . Wane china , “ Jejine , Gigwiso gajene , ¿ girni wa jeji mumatkatu wa Gigwiso Pokchi gajene kpashiwakapji girukotachine wa tsro Tiyanapji , ga wa Gopite gijrukyachro .
+44021013a	gi		Giyagni Pawlo gigita , “ ¿ Gi gixanatge nchiyaganata , 
+44021013b	~		gwamontakgajitno ? Gi rixanu galpokomtachritkano gi wa gostutkalurupjepno , seyni nupninrikoxapa numkata gixkota Gerosaleya Gitsrukaachi Geso giwakaya chinanu . ”
+44021022	klu		Giyagni ¿ klu wanepa ? Wa gixolune gimkata gapatleta . Gi rixanu pejnuruneko yijnakyegitinipyi papokinritka .
+44021033a	gi		Giyagni rapokinitka solalone gitsrukate , kashjixlu . Rostujixanru gepitsa yowumatsaya . Repomgalu gi gixachrini , 
+44021033b	klu		ga wa klu kamruta .
+44022007	Klu chinanu		Chiji napokana . Nyijnakotlu satu tokanchi wane nchinjeru , ‘ Sawolo , Sawolo , ¿ klu chinanu pkojwakno ? ’
+44022008	Katyi		“ Giyagni gita gigita , ‘ ¿ Katyi Pixa , Gitsrukaachi ? ’ “ Wane chinno , ‘ Gitni Geso , Nasare gajeru , pixa kojwakanruno . ’
+44022010	klu		“ Wane nchina , ‘ ¿ Klu nkamrutanu , Gitsrukaachi ? ’ “ Gitsrukaachi wane chinno , ‘ Palnanu . Tamasko pyanu . Wane punkakiko pejnuruko putakikolupa pkamrutanrupa . ’
+44022016	klu		Ga wa xani ¿ klu pyoxigikanatya ? Palnanutka . Pkatkotka . Pmukochire gerkikalurpatkayi . Pkoschekgiwakatanutkalu . ’
+44022026	gi		Giyagni ksolaloteru yijnakotinitkalu , wane ya . Runkakaplu solalone gitsrukate . Wane china , “ ¿ Gi pixanu ? Gi rixanu Romanni tye jeji . ”
+44023003	~		Giyagni Pawlo wane china , “ Goyakalu giylakanmakyi pixa , prijeru galatatkaluru pixkalutyi . ¿ Pixa tuplanatachrirayge putakyagokyegitno Tokanchi Yokanatkaluru chinyawaka , ga wa Tokanchi Yokanatkaluru mchinyawakanu puylakjixnoge ? ”
+44023009	~		Tsru saplechi rixna . Palnana yonchikgapine Gwariseyonesreta gwachine . Yawrotna . Wane chinna , “ Gi satuna gektutu wukshikyalu tye jeji . Gikta xani wa giwekikaluru giynumatinri waka Goyakalutowreru . ”
+44023019	Klu		Wa solalone gitsrukate kanjimtlu . Kegnete ya wannapje . Repomgalu , “ ¿ Klu waneyyi punkakyapno ? ”
+44026008	~		¡ Gaa ! ¿ Gixa goya gayroklurge gixkaklukoya wa Goyakalu yotunkakanna gipnachine ?
+44026014	Klu chinanu		Giyagni chiji wapokana pejnurunnikwu wixni . Satu tokanchi nyijnakota Gewreyone tokanuya nuynumatjeru . Wane china , ‘ Sawolo , Sawolo , ¿ klu chinanu pkojwakno ? Pixnanniko kachinolu pixnanwa pakaxjerewatana yowumajri pixka . ’
+44026015	Katyi		“ Wane nchina , ‘ ¿ Katyi Pixa , Gitsrukaachi ? ’ “ Wane china Gitsrukaachi , ‘ Gitni Geso wa pixa kojwakanruno .
+45002017	~		Petanu , pixni Goteyo chinnachriwayi , wa Tokanchi Yokanatkaluru munangachriyi . Ptserpiranatnawa Goyakaluya .
+45002021	~		Giyagni pixa koxa wa satu yineru yimakachriyi pixinipa , ¿ gi ge pyimaknawa pixnanuko koxa ? Pixa wa ginkaklewatachriyi ma chowguwatikotupa , seyni ¿ pchowguwatawa pixa ?
+45002028	~		Gi rixanu gi wa Goteyni , wa wane rixa gipgujewnaletachrini , gi waleni koxa wa sajruka gistaklewlu gipgujewnalu wa manchiya .
+45003001a	kluneru		¿ Giyagni kluneru waneylu Goteyo panene pnute ? 
+45003001b	klu		¿ Klu rupxaklewata wa sajruka gistaklewlu ? Gixo psoluyako .
+45003003	gi		¿ Gi rixkoxge wa pimrine wanna malixaklene rixinrina ? ¿ Wanna ma malixle chinanu gi ralixikolupa Goyakalu ?
+45003005	gi		Yineru ma poyagkaklenu chinanu pnute pgujpotlu Goyakalu poyagkaklewle . Wane rixini galikaka , ¿ gi wchinanuna ? ¿ Mpoyagkaakatlege wa saletlewatinri Goyakalu ? ( Wa yineru gixyawakako nchina . )
+45003006	gi rixpoko		Gike rixininanuko . Wa wane rixini ¿ gi rixpoko giklukanuwnayegjixletanna tye psolchijneko gwachine wa Goyakalu ?
+45003007a	~		Seyni naylokle chinanumka tsru rixinipa Goyakalu myokwirnu , rumalwutikolupa Goyakalu , 
+45003007b	klu chinanu		¿ klu chinanu nuklukanuwnayegjixkota gita kmukochireru pixka ?
+45003008	Klu chinanu		¿ Klu chinanu gi wane wchina , “ Wkamrutanru gektutu runinripa wa kigleru ” ? wa pimrine wane chinyegitwu wa wane pguta wchinyawaka . Poyagkaaka ruklukanuwnayegjixikolupna wane chinachine .
+45003009	klunerni		Giyagni ¿ klunerni ? ¿ Wanna pnutlege kiglewu wixa Goteyonwu ? Gike rixininanuko . Muchinanu wunkakletanatkana Goteyone , ga wa payineko , pejnuruneko kmukochirerunni .
+45003027a	~		¿ Ginaakoxluge wa tserpiranawnalu ? Ginanshichkaluru . 
+45003027b	giru		¿ Giru Tokanchi Yokanatkaluru chinanu ? 
+45003027c	~		¿ Kamrurchiylege ? Gike . Seyni rixjetyawaka galixlu .
+45004001	gi		¿ Gi wchinankoxlu wa Gawra gikshikanru ? Walenwa wutsrukatni wumaneya .
+45004003	go		Gi rixanu ¿ gi china wa yonchi ? Wa ralixlu Goyakalu Gawrani . Rutakyegitka poyagkaklewle rixinri .
+45004010	gi rixpoko		¿ Gi rixpoko poyagkakachri kagwaakota wale ? ¿ wa sajruka gistaakotkaluru , waka msajruka gistaakotuwa ? Gi wa sajruka gistakletkaluru , seyni msajruka gistaakotu .
+45005010	~		Giyagni wkamnixanatinrikopshini rupoyikgayegitinwu Goyakalu Gituru gipuka chinanu , wanepnuteyaka wupoyikgayegitikolutka , wognetkaako Wale giwekle chinanu .
+45005021	~		Wane rixa pogirewata mukochri rupninriyna yine , waneko pixka rixa poyagkaklewlu chinanu ; pogirewata gimutlewlu ruwekinripna gike rixiniko mnikawnakatu Geso Kristo chinanu Wutsrukate wixanu .
+45006001	gi		¿ Gi wchinanu koxa ? ¿ Womkagitanru wmukochirewatinri tseruwninripa gimutlewlu ?
+45006002	gi		Gike wixiniko . Gi rixanu wixa gipniyanatkalu mukochrini . ¿ Gi wixpoko satokleyegitanutnaklu wale ?
+45006015	klunerni		Giyagni ¿ klunerni ? ¿ Wmukochirewatewge gi rixanu gi wa Tokanchi Yokanatkaluryegwu , seyni gimutlewluyegwu ? Gike wixiniko .
+45006021	Klu		¿ Klu koxa waneyatkagi waleya , wa xawakni gipatewatanrutka ? Gi rixanu gipnalni wale yoptukyawaka .
+45007007	gi		¿ Gi wchinanu ? ¿ Tokanchi Yokanatkaluru mukochrirge ? Gike rixiniko . Gi numatanatlu mukochri , seyni wa Tokanchi Yokanatkaluru chinanu numatlu mukochri . Gi rixanu gikoxmaka numatanru getsotanrewlu , wane ma chinkanumka Tokanchi Yokanatkaluru : Gi petsotanrewatanu .
+45007024	Katu		¡ Kapsakletkalurno ! ¿ Katu koshpakanunno tye gipukchimaneya ?
+45008024	gi rixpoko		Gi rixanu kagwakachinwu wognewatinri . Seyni wa kagwaakaluru getika , gi wa kagwaakalurni . Gi rixanu wa satu getkoklunu , ¿ gi rixpoko kagwakletanru ?
+45008031a	gi		Giyagni ¿ gi wchinanu wa tyeya ? Wixa yegi rixini Goyakalu , 
+45008031b	katu		¿ katu kamnixwu wixa ?
+45008032	gi rixpokotyawaka		Ga wa Wale gi chipetlu Giturpotuko , seyni samyoklu ptowruneko wixa chinanupa ¿ gi rixpokotyawaka Gituruymananuko ma meneekanupwu ptowrunanuka ?
+45008033	Katu		¿ Katu jigyegitna Goyakalu tsomitanune ? Goyakalni muklukanuwnakaakone gixkaklewatachri ¿ Katni wa giklukanuwnayegjixlewatachri ?
+45008034	~		Kristonwa gipnachri . Wanepnute Walenwa yotunkaakaluru . Walenwa Goyakalustsi potuklesreta gwachri . Wale koxa giykoyegitwu wixa .
+45008035	Giru		¿ Giru kotspalatinwu Kristo galuklewleya ? ¿ salewakchirge ? ¿ ga wa kachinolege ? ¿ ga wa kojwawakchirge ? ¿ ga wa nachlege ? ¿ ga wa mamkatutnuchlege ? ¿ ga wa kyowikolege ? ¿ ga wa yoglolewaprege ?
+45009014	gi		¿ Gi wchinanu koxa ? ¿ Wanerge Goyakalu mpoyagkaklewle ? Gike rixiniko .
+45009019a	klu		Giyagni wane pchinanno , “ ¿ Klu koxa kegemgiya ? ” Gi rixanu 
+45009019b	katu		¿ katu satkakakanru Goyakalu gishinikanru ?
+45009020a	giryi		Ga wa ¿ giryi pixa yineru pyoptopiratyaplu Goyakalu ? 
+45009020b	~		¿ Kajpa kamrutikolu wanerge chinanru wa kamrutjeru , ? 
+45009020c	klu chinanu		“ ¿ Klu chinanu wane pixa kamruretno ? ”
+45009021	~		¿ Gi ge rumkata kamrurewakleru walejpako kamrutyaplu pastono kigle getkolupa ga wa satu muglegetkotupa ?
+45009022	~		Goyakalu galuka gekakgiretinri jigekanu , rumatikolu raluka gixkakletlu ruyakle , wane rixa wa mapognanutu rixa gakotletlu jgekanchiyegkaka galpokotkaluru ramginripa .
+45009023	~		Wane rixa rumatikolupa wa ponikolkaka royaknuya retwamonutanune chinanupa . Wannanwa ralpokotanune gimalwuru chinanu .
+45009024	~		Wanna koxa tomga , ga wa wixa . Gi wanna Goteyonepjeni , seyni koxa payinkaka .
+45009030	gi		¿ Gi wchinanu koxa ? Wa payineko poyagkaklewlu momkagitkane rapkapluna poyagkaklewlu . Walenwa poyagkaklewlu galixluya .
+45009032	Klu chinanu		¿ Klu chinanu ? Gi rixanu gi wa galixluya romkagitluna , seyni Tokanchi Yokanatkaluru kamrureya pixka . Giyagni rutspetanna sotlu gitspetkaluruya .
+45010006	Katu		Wa ralixleya poyagkakachri wane china : “ Gi wane pchingajitanu , ‘ ¿ Katu tengogne gatskotanu wa chiji rawapyaplu Kristo ? ’ ”
+45010007	Katu		Gi koxa wane pchingajitanu : “ ¿ Katu gijrukanu gitskata potu rawapyapatnaklu Kristo gipnachinetskalaya ? ”
+45010008	~		Gike . Wane china ralixleya poyagkakachri , “ Gi gowuklu Goyakalu tokanu . Punamaya rawa Wale tokanu , ga wa paji rawa . ” Walenwa tokanchi galixluya , wunkakletanru .
+45010014a	Gi rixpoko		Giyagni ¿ gi rixpoko koschekletanruna ma malixanatanutna ? 
+45010014b	Gi rixpoko		¿ Gi rixpoko galixletanruna ma yijnakpiranyegitanruna ? 
+45010014c	Gi rixpoko		¿ Gi rixpoko yijnakletanruna satu munkakletanutu ?
+45010015	gi rixpoko		¿ Gi rixpoko ginkaklewletanna myokanatkoneko rixinna ? Yonchi chinyawaka , “ ¡ Gi pagiglenjixinanuktana wa Kiglerpotunanu Tokanchi kigleruya ginkakletachine ! ”
+45010016	katu		Seyni gi wa pejnuruneko yijnakotlu Kiglerpotunanu Tokanchi . Gi rixanu Gisayiya wane china , “ Gitsrukaachi , ¿ katu galixlu wunkakle ? ”
+45011004	gi		Seyni ¿ gi china gigletlu Goyakalu ? “ Waneyawano payokgipre waragka jejine Waalistsi myoptsojitkane . ”
+45011007	klunerni		Giyagni ¿ klunerni ? Gisrayiline gi gapkaplu rujganruna , ga wa tsomitkalune gapkaplu , ga wa pimrine shikpokwakatana .
+45011015	klunerupni		Gi rixanu wa ramginrina wanna , rupoyikgayegitikolna tye psolchijneko gajene , ¿ klunerupni yoptotikolupna ? Walepjepni wa ruwekinripatkana gipnachinenanu .
+45011018	~		Wa palixkotinmakwa , gi wa pixa giweekaklu gitski , seyni gitski giweekakyi pixa .
+45011033a	~		¡ Tsrupotunanu ponikolu Goyakalunshinikanu , rumatkalewle ! Mumata jemkotpotni rutakyagoklewle . 
+45011033b	~		Mukshikanshinikanutkotu ratnugapote .
+45011034a	~		Gi rixanu gike gimatanshinikanutlu Gitsrukaachi . Gike giyakotlu .
+45011034b	~		
+45011035	katu		Ga wa ¿ katu gapka geneklu Wale , Goyakalu gapnu genekletyaplu ?
+45014004	gi		¿ Gi gixachriyi pixa wa pjigyegityawaklu satu yegi gipxaklewatachri ? Waleko rutsrukate chinanu romkagi kamrurewletanu waka ruknooko . Gi rixanu kgiyaklewakleru rutsrukate romkagikakyaplu .
+45014010a	klu chinanu		Ga wa pixa , ¿ klu chinanu puklukanuwnayegjixlu pumole ? Ga wa pixa koxa 
+45014010b	klu chinanu		¿ klu chinanu peyiklu pumole ? Gi rixanu pejnurunekwu wane tunwatanu Kristo gitakyagoklewatyawakapa .
+46001020a	ginaklu		¿ Ginaklu kgimatkaleru ? 
+46001020b	ginaklu		¿ Ginaklu yonchikgapri ? 
+46001020c	ginaklu		¿ Ginaklu kyoptopirakleru tyegogne gajeru ? ¿ Gi ge Goyakalu manshinikanutu rixlu tye psolchijneko gimatkalewle ?
+46002011	giru		Gi rixanu ¿ giru yineru gimatlu wa yinerunu , seyni giwekikaluru yinerunupje , wa yineru gitokote gwachri ? Waneko pixka rixa . Wa Goyakalunu gike gimatlu , seyni Giwekikalurupje Goyakalunu gimatlu .
+46002016a	katu		Gi rixanu ¿ katu gimatanshinikanutlu Gitsrukaachi , 
+46002016b	~		wa yimakyaplu Wale ? Seyni wixa waneya Kristonshinikannu .
+46003005a	klunerni		Gi rixanu ¿ klunerni Gapolo ? 
+46003005b	klunerni		¿ klunerni Pawlo ? Kamrurewaklerunni , wa wanna chinanu galixinri , wa Gitsrukaachi genekyawaklu satkaka .
+46004007a	katu		Gi rixanu ¿ katu kotnukgi ? 
+46004007b	klu		¿ Klu waneyyi wa pma yoptotanutuya ? 
+46004007c	klu chinanu		¿ Ga wa pyoptoshatinitkalu , klu chinanu palixkotnawa wa pmayoptotanutu pixka ?
+46004021	Giru		¿ Giru xani galuka ? ¿ kochipjerewapi nuyayegitangi , waka galuklewlu ga wa mayogotu shinikanchiyma ?
+46005002	~		Ga wa gixa galixkotnawa . Gi wa gwamonuwatanu gonuka wa gixyegiya koniko wa wane gixachri .
+46005012	Klu chinanu		Gi rixanu ¿ klu chinanu gita gitakyagokyapna wa maleka gajene ? ¿ Gi ge wannanwa gapatjetikowaka gajene wa gixa gitakyagokanu ?
+46006001	~		Gixatskalaya wa pnu gixkoklunu satu , ¿ tserpiranawatewge wa mpoyagkaakanyegiya rutakyaplu wa ruklukanuwnayegjixyaplu , gi wa kpashirine yegi ?
+46006003	~		¿ Gi ge gimata gixa wa wixa gitaako kgitakyagoklewaklerunwu towrechine chinanu ? ¿ Gi ge wanepnute wutakyagokanna tyegogne gajerkaka ?
+46006004	~		Giyagni tyegogne gajerkaka waneygi gitakyagookalurupa , gitakanna giyagoka kiglepiranyegirune gapatjetyawaka gajene .
+46006007a	klu chinanu		Giyagni pnuterututkani wale wa gixkakluko giklukanuwnayegjixlewle gijga . ¿ Klu chinanu gi petashatini gonuka wa pnu gixkota ? 
+46006007b	klu chinanu		¿ Klu chinanu gi nchowgushatiko ?
+46006009	~		¿ Gi ge gimata gixa wa mpoyagkaakane gi yoptotanruna Goyakalu pogirewatyawaka ? Gi wa yokwitkalunepgi . Gi wa kapoklewakleruneko , gi wa yagluchisha kyonogyegikleruneko , gi wa kgimopatakleruneko , gi wa suxo pixkalutuko , gi wa jeji gapokachriko .
+46006016	~		¿ Gi ge gimatkoxlu wa girukokta kapoklewaklero gipxaletachri , pamanepje rixatka walayma ? Gi rixanu kapiranyegirutkani : Wa gepinanna pamanepje rixanutkana .
+46006019	~		¿ Gi ge gimatlu gixa wa gimane kpashiwakpotugruko rixinri wa Giwekikaluru Kpashirinu ? Gixa gitokote gwachrini Wale . Wa Wale waneygi Goyakalu chinanu . Gi wa gixanukni gixa .
+46007016a	gi		Gi rixanu ¿ gi pumatge , suxo , gikta pixa gognetkakanru pganuru ? 
+46007016b	gi		Waka ¿ gi pumatge , jeji , gikta pixa gognetkakanro pganunro ?
+46009007a	katu		¿ Katu pagogne solaltapa ga wa walenanuko wenutnawa ? 
+46009007b	katu		¿ Katu gitaklewata sana gowasha ga wa gi niklu toji ? 
+46009007c	katu		¿ Katu girukotna gowegane ga wa gi ruratnugatlo gowega ?
+46009018	girni		Giyagni ¿ girni wa napnutikolupa ? Wa Kiglerpotunanu Tokanchi nunkakletinri nma mupekotikotu , gi wa gixo potu wane nixletyaplu wa numkatyawaka Kiglerpotunanu Tokanchi chinanu .
+46010019a	gi		¿ Giyagni gi nchina ? 
+46010019b	~		¿ Wa yagluchisha geneekaluru pa gixanrege ? 
+46010019c	~		¿ Ga wa yagluchisha pagixanrege ?
+46010029	Klu chinanu		Gi gixanshinikanni giklukanuwnaluya , wane nchinya , seyni walenni . Gi rixanu ¿ klu chinanu nushpakinri giklukanuwnayegjixko yinerushinikannu chinanu ?
+46010030	Klu chinanu		Ga wa gita gapiika npoyagnutinri , ¿ klu chinanu napatka tye chinanu wa npoyagnutanrutka ?
+46011022	gi		¿ Gi ge kapjigi gixa wa gimkata nikletyawaka ga wa gimkata giiretyawaka ? ¿ Waka geyikluge gapatjetikowaka Goyakalunu ga wa mpatewkakannage wa waneyamigjene ? ¿ Gi nchinangi ? ¿ Numalwuteege ? Wale chinanu gi wa numalwutangi .
+46012017a	ginakapmaklu		Psolmanekmaka ygalchi rixini , ¿ ginakapmaklu yijnaklewlu ? Ga wa psoluko yijnaklewlu rixinmaka , 
+46012017b	ginakapmaklu		¿ ginakapmaklu gamluru ?
+46012019	ginakapmaklu		Wa pejnurukmaka papsojipje rixkamka , ¿ ginakapmaklu manchi ?
+46014006	klu		Giyagni xani , nomolene , gixa yegi nyakamka ga wa pnuko gixachri tokanchimka nyanumyegitingi , ¿ klu rupxakingi nma yanumyegitkangi satu gipgujetkaluru , ga wa gimatkaluru , ga wa Goyakalu tokanu geneekaluru , ga wa ginkaklewlu ?
+46014007	gi rixpoko		Giyagkoxni wa muwekletkaka pogimewatini wa tumleji ga wa gitpetsatkaluro , tma kashrijewnagimjetkanu ¿ gi rixpoko gimatkotanu girgima tumlejitkalurgimni ga wa gitpetsatkalurgimni ?
+46014008	katu		Ga wa tpogimewatini kowi tma pogimewatkanu potu ¿ katu galpokotinwa wa giylalu chinanupa ?
+46014009	gi rixpoko		Waneko pixka gixa koxa gixa . Wa pnuko gixachri tokanchiya gi wa pgujetanu yanumsalpotgi gixini , ¿ gi rixpoko gimatkotanu wa nchinyawaka ? Gi rixanu kannipgyalu giynumsatachingi .
+46014015	klunerni		Giyagni ¿ klunerni ? Giwekikaluru gitanu nagjigognetini , ga wa nonshinikanu koxa nagjigognetini . Giwekikaluru gitanu nshikalewatini , ga wa nonshinikanu koxa nshikalewatini .
+46014016	gi rixpoko		Ga wa giwekikaluru pixanu pumalwutinri , wa munkaakonewa yegi gwachri ¿ gi rixpoko wane chinretanu , “ Wane gixkalurupa , ” wa poyagnutinri ? Gi rixanu gi rumatlu pchinyawaka .
+46014026	klunerni		Giyagni , nomolene , ¿ klunerni ? Wa gapatjetini gixa , satkaka waneya shikalchi . Ga wa satu waneya ginkaklewlu . Ga wa satu waneya gipgujetkaluru . Ga wa satu waneya patokanu . Ga wa satu waneya yokaklu . Pejnuruko kamrutikolupa ntseruwakanshinikanutikolupa .
+46014036	~		¿ Gixyeege ruyakatya Goyakalu tokanu , waka rapyegishatgi ?
+46015012	gi		Ga wa Kristo ginkakletko wa gipnachinetskalaya yotunomtinri , ¿ gi nchinkoxge pimringi gixa wa maleshlu yotunru gipnachinetskalaya ?
+46015029a	~		Wane ma mixkoklunupmaka 
+46015029b	gi		¿ gi rixanna wa katkalune gipnachine chinanu ? Wa gipnachine gi yotunpotutinipmaka , 
+46015029c	klu chinanu		¿ klu chinanu katkana wanna chinanu ?
+46015030a	~		
+46015030b	klu chinanu		¿ Klu chinanu koxa wixa psolgogneko kyowikwaka gwagognenata ?
+46015032	klu		Wa yine gixjetyawaka Gigwisoya kmatsurune nyagotini , ¿ klu kigleylu ? Wa gipnachine ma yotunotkamka , waneklu wnikanu , wuranu . Gi rixanu yechikawa wupnanu .
+46015035a	gi rixpoko		Seyni satu wane chinanu , “ ¿ Gi rixpoko yotunretanna gipnachine ? 
+46015035b	gi		¿ Gi gixachripni gimanepna ? ”
+46015055a	~		Gaalirewlu nikatanatkalu gipukchini . Giyagni wa xani gipukchi gi gakagloklewatatka . Maleshayatkawu gipukchichino .
+46015055b	~		
+47002002	katni		Gi rixanu gita wamontakinmakgi , ¿ katni wa nkomjikjeru seyni nwamontakanruko ?
+47002016	Katupni		Wa nyi gamgachine yegi galikakni gipukchi pogamlunu pixka wixa gipukchi chinanupa . Ga wa gognetkaakalune yegi giweklu pogamlunu wixa giweklu chinanupa . ¿ Katupni tye kamrurchi gimuknuni ?
+47003008	~		¿ Gi ge wanepnute pogirewlupni wa Giwekikaluru kamrurewyeglu ?
+47003009	~		Gi rixanu giklukanuwnayegjixlu kamrurewyeglu pogirewlu rixkamka , wanepnute galikakni pogirewlu rixpotuta poyagkaklewlu kamrurewyeglu .
+47006014a	klu		Wa gixa pixka mixkane , gi wa satupje gitjipijeya gimutjitanna , wa malixkane . Gi rixanu ¿ klu gipxaletlewlu wane wa poyagkaklu ga wa mpoyagkaknuchi ? 
+47006014b	klu		¿ Klu gimatkaklewlu waneylu pokamlalu ga wa mapshagalu ?
+47006015a	klu		¿ Klu pixkakaklu getle rixna Kristoyma Weriya , wa Satanasyo ? 
+47006015b	klu		¿ Klu waneylu wa galixachriyma wa malixkatu ?
+47006016	klu		¿ Klu gipxaletkaklu wane kpashiwaka potu Goyakalunu ga wa yagluchisha ? Gi rixanu gixni wa kpashiwaka potu giwekachri Goyakalunu . Goyakalu chinyawaka : Wanna gitokote nwanu nyananu . Royakalutepnona . Wannapni wa nayinerutene .
+47011011	Klu chinanu		¿ Klu chinanu ? ¿ Gi rixanu gi nushinikgige ? Goyakalu gimata wa nushinikyagi .
+47011029a	katu		¿ Katu gigroka ga wa gi ge nugroka gita ? 
+47011029b	katu		¿ Katu gitspeekaaka , ga wa gita gi ge namewna ?
+47012013	kluneru		Gi rixanu ¿ kluneru gkaptotya gixa wa pimrine gapatjetachinkaka pnute ? Seyni ¿ gi ge tyepjeni gita gi wa gayapretaakakgi ? Gkaspukinno tye mpoyagkaknuchi .
+47012017	~		¿ Patako satu nyokanyegityagi walerge naalikakyagi ?
+48002014	Klu chinanu		Seyni wa netinitkana gi wa potukyaletkana ; gi wa Kiglerpotunanu Tokanchi galikakate chinyawaka pixka rixna , wane nchinru Sotlu pejnurune getanu , “ Wa pixa Goteyokyi wa payineko gixjetyawaka pixka pixini ; gi wanna Goteyone gixjetyawaka pixka pixini , ¿ klu chinanu perutna payineko wa Goteyone gixjetyawaka pixka rixinripna ?
+48003001	katu		Kalatane mshinikanungi , ¿ katu yokshatgi ? Gixaygale getanu rupgujewnakaaka Geso Kristo koroshishkita gitaakaluru .
+48003019	Klu chinanu		Giyagni ¿ klu chinanu wa Tokanchi Yokanatkaluru ? Wa mukochri chinanu yogniika rapokinpotunanuko giklopisha gipiryegitkaluru . Towrechineya rutaaka . Kgiykoyeglewaklerumyo rawanata .
+48004009a	Gi gixpoko		Ga wa xawakni gimatatkalu Goyakalu , ga wa galikakni Goyakalu gimatanungi . ¿ Gi gixpoko satokleyegitanutnaklu tyegogne gajerkaka ? Walenwa muchkotkaka ga wa magatachrikaka . Wa wale wayegrene galuka gixletatnaka .
+48004009b	~		
+48004010	~		Gimretpotutlu gogkaka , ga wa ksurkaka , ga wa gipapkokaka , ga wa walapkaka .
+48004015	ginakatkalu		Giyagni ¿ ginakatkalu wa giglenshinikanyegitikolu ? Gi rixanu nupgujtatgi wa gimkatiniplu giygalejiko gkoshpakyapmaka genekyapno .
+48004021	~		Ginkakanno , gixa Tokanchi Yokanatkaluru galuka yijnakletachingi , ¿ gi ge gjemlu Tokanchi Yokanatkaluru ?
+48004030	gi		Seyni ¿ gi china wa tokanchi yonatkaluru ? “ Puknokanro wayegrechro ga wa toturuyma . Gi rixanu wa wayegrechro wgene gi wa yoptotachripni wa mwayegretkoto wgeneyma . ”
+48005007a	katu		Kigle gixjenata . ¿ Katu gimaletgi wa gma malixyanuplu tokanchi galikakpotunanu ?
+48005007b	~		
+48005011	Klu chinanu		Ga wa gita , nomolene , wa nunkakletinmakawalu sajruka gistaklewlu , ¿ klu chinanu nkojwaakawa ? Gi rixanu wane nixinipmaka koroshishkita gitspekaklewatinriya nkaspukikmaka .
+49004009	~		Ga wa wane chininri , “ Teno ya Geso , ” raluka chinreta wa muchinanu rujrukinritka . Wa chiji ya .
+50001018	klunerni		Giyagni ¿ klunerni ? Tyepjeni . Pnumnu gixikolmaka , waka gixashluya waka galikakaya , Kristo ginkakletpiranatikolu . Tye chinanu numuwata ga wa numuwatanu .
+50001021	~		Gi rixanu gita getanu giweklunwa Kristo , ga wa wupnale walenwa kigleru wukshikinripa .
+51002020	~		Wa Kristoyma gipnachine gixini tyechijne gajerkakaya , gi wa tyechijne giwekanatyachine pixka towutkalunepgi .
+52002019	girni		Gi rixanu ¿ girni wa wkagwakanrupa ga wa wumuwlepa , ga wa walixkowle sagyetapa ? ¿ Gi ge gixapni , Wutsrukate Geso getanu Wale gininipa ?
+52003009	gi		Gi rixanu ¿ gi wchina poyagnutletanutkalu Goyakalu gixa chinanu , wupekotyaplu psoluko wumuwle gixaya wa wumuwyegityagi Woyakalute getanu ?
+54003005	gi rixpoko		Wa mumata girukotapjitkatu ¿ gi rixpoko girukotletanna Goyakalu gapatjetanune ?
+54006007a	~		Gi rixanu gike wanika wa kangini tyechijne , 
+54006007b	~		ga wa gike wumkata ganikletanu tyechijneya .
+58001005	~		Gi rixanu gi pagogneko gi satu gitowreru wane china Goyakalu : “ Noturyi Pixa ; tyegogne nwugenetyi . ” Ga wa wanepnute : “ Rurupno Gita ga wa Walepni Noturu . ”
+58001013	~		Gi rixanu gi pagogneko gi wane chinru satu gitowreru : “ Npotuklesretate ptuplatanu , pkamnixjene nutakinpotunanuko pujixi gitspangaprepa . ”
+58001014	~		Ga wa pejnuruneko giwekikalurune kamrurewaklerunni Goyakalu yokanata rupxakjetyapna gognewatikaluru yoptotachinepa .
+58002003	gi		¿ gi wixpoko mayixawnaletanuna wa wma girukotkanuplu gipsonanru gognewatikaluru ? Tyenwa muchinanu Gitsrukaachi ginkakletanru . Ga wa wixa yegi poyegitkalurni Wale yijnakotachineya .
+58002006a	Klunerni		Satu pasretaya wane china gipgujtaletlu : ¿ Klunerni wa yineru wa Pixa gishinikyawaklu , 
+58002006b	~		ga wa yineru wgene petyawaklu ?
+58003016	ginna		Gi rixanu ¿ ginna wa jemachinemka jigekanuwkaklu ? ¿ Gi ge pejnuruneko wa Gigipto gishpakamtyachine Moysisiyma ?
+58003017	ginna		¿ Ginna wa Wale jigekanuwnayegitanune gepkoxamkojemole walapu ? ¿ Gi ge wannakni wa mukochirewatachinni , wa gimannina yineru mwiyawakaya giknookalurni ?
+58003018	ginnanwa		Ga wa ¿ ginnanwa Wale kawchinanu wane china gi wa rapnanutyawaka jiglokanunna ? ¿ Gi ge malixaklenni ?
+58006004	~		Gi rixanu rujrukinipna wa Giwekikaluru Kpashiri gapsatkalune gi rumkata gerotewkakletkona . Mumkatkotni wa muchinanu pokamlatyeginatkalune , ga wa tengogne genekashle getumganatachine , ga wa Giwekikaluru Kpashiri gapsatkalune ,
+58007011	klumka		Giyagni wa mmagatikane rixanmakna sasertotene Rewinane kamrure chinanu , waneklu ¿ klumka galuukaluru wa satu Sasertote gipgujewnakaakomka Marchisite gitakikolu pixka ? Gi wa Gaaro gitakikolu pixka chinkalurni . Gi rixanu wa sasertotene Rewinane kamrure chinanu gitaakaluru Tokanchi Yokanatkaluru , wa yine gitakyegitikaluru .
+58009014	~		Giyagni ¡ gi papowrananukta rixkakna Kristograga ! Walenwa Giwekikaluru gike rixiniko mnikawnakatuya Walenanuko geneknawa . Muklukanuwnakane rixkakwu Goyakalyegiya . Wuklukanuwnanshinikanutinri , Geso powratyawu kamrurchi muweekatuya , Goyakalu giwekachri wkamrurewyegitinripa .
+58010001	~		Gi rixanu Tokanchi Yokanatkaluruya gi wetpotutawalu psoluko kiglerkaka wa waneyapwu . Mayawle pixka wetyalu wa kamrutkalurkakatka . Gi wetawalu gi pixka rixpotuta . Giyagni waleko giylatkalurkaka pawalapumnunanuka mutuka genekjetkotu , gi pagogneko rumkata mmagatikane gixkakletna kayegikachine .
+58010029a	gi		Giyagni ¿ gi pixkalutunanukta salewakchi gkagwakyalu rumuknu retikolupa wa Goyakalu Wgene gektutetachri , 
+58010029b	~		ga wa Giwekikaluru gimutlewatachri geyikachri ? 
+58010029c	~		Walenwa granchi gimuteru kagwakachri , wa gipiratkaluru tokanchi chinpiranyegitanru granchi . 
+58010029d	~		Walenwa kpashiri rutakjeru gipiratkaluru tokanchi .
+58011032	klu		Ga wa ¿ klu wanepnute nchinanu ? Gi rixanu gogi nmagatya nunkakpiranyempotutyapna Getyo , ga wa Waraka , ga wa Sansoni , ga wa Gepite , ga wa Tawi , ga wa Samoyro , ga wa tokanchi geneklewatachinni .
+58012007	~		Gkashnantakgognenatanru nsaletikolupa . Wugenene pixka rixgi Goyakalu . Gi satu mturu ruru ma saletanutu .
+58012009	~		Gi rixanu waneywu galikaka wurune wumaneya . Saletawakletwuna , ga wa wkagwakpiratna . ¿ Gi ge wanepnute galikaka wyijnakotanru giwekikalurune Giru , ga wa wuwekanu ?
+58012025	~		Ggirukotinwa gi wa giknokanru wa Yanumatachri . Gi rixanu tyechijne giykolewatyachri , Moysisi , giknokachine ma mayxawninitipna , wanepnutpotwu wixa wa tengogne Giykolewatyachri wkatjitini , wma mayxawninitipa .
+58013006	Klu		Giyagni kiglenshinikanwu wane wchininripa : “ Gitsrukaachinwa nupxakjeru . Gi npikanu . ¿ Klu kamrutinno yineru ? ”
+59002006	~		Ga wa gixa mkagwakpiratkone gixna kwamonurune . ¿ Gi ge ponikolune kapsakletgi , ga wa gitakyagookikowaakaka gi gekosemtgina ?
+59002014	klu		Nomolene , ¿ klu rupxaklewatya wa satumka wane chinnawa , “ Kalixaklerno , ” ga wa maleshaylu kamrurchi ? ¿ Rumkatge gognetkakletlu ralixlewlemka ?
+59002016a	~		ga wa satu gixa wane chinashatinipna , “ Gajewa . Kiglenshinikanupgi . Gi wa kachiklepatkagi . Jinanupgi . ” Seyni gi wa genekinipna gimanna galukyawaka , 
+59002016b	klu		¿ klu rupxaklewatya ?
+59002018	~		Seyni satu wane chinanu , “ Pixa waneya galixlewlu . Ga wa gita waneya kamrurchi . ” Mkamruretyi pixini pekakgitanno palixlewle , ga wa gita koxa gekakgitanyi nalixlewle nkamrureyma .
+59002021	~		¿ Gi ge kamrurchi chinanu muklukanuwnakaakotu rutaaka wutsrukatni Gawrani ? Wa gituru Gisaaka giylatikowakakwa ranika genekashleta .
+59003013	~		¿ Wanerge satu kgimatkaleru ga wa kanshinikanuru gixa yegi ? Kigleru rixjetyawakaya kamrure rekakgitanu gimatkalewlu mayognuyma .
+59003017	~		Seyni teno giyakatyachri gimatkalewlu muchinanu gapka kpashirni . Wanepnute giglewanshinikankaklewatachrini . Ga wa mayogotni , ga wa powixkowatachri , ga wa kgetwamonreru potu , ga wa kigleru kamrurewleru potu , ga wa mnutanshinikanutkatu , ga wa mixashatkatu .
+59004001a	ginaka		¿ Ginaka ruyakatya giylalkaka ? 
+59004001b	ginaka		¿ Ginaka ruyakatya yagotkaklukaka gixkakluko ? ¿ Gi ge wane ruyakatya wa gigleretashatanruykaka gimane psojitkaka yagotkakyachri ?
+59004012	Katyi		Satupjerutni wa kyokanrewakleru ga wa kgitakyagoklewakleru . Walenwa gimkata gognetkaklewletachri ga wa gimkata gamgakaklewletachri . ¿ Katyi pixa wa pumwastsitanru gitakyagoklewachripmakyi ?
+59004014	~		Wa wane gixachingi gi gimatlu wa yechikawapirana , ga wa gi pixkalutni giwekinri . Gi rixanu kapgyalu pixkalungi gixa , pshinitsonu gipgujewnachingi . Waneklu gamgamtanu .
+60002020	kluneruya		Gi rixanu ¿ kluneruya galixkotko wa gmukochirewatinipa ga wa gichko getikoklunu , gakotanshinikanutiniplu ? Seyni kigleru gkamrutinipa ga wa nsalewninri , wa gakotanshinikanutiniplu , tyenwa poyagnutikolu Goyakalu getanuya .
+60003013	Katu		¿ Katu gektutetangi wa kigleru jmererune potu gixinipa ?
+60004017	gi rixpokotanu		Gi rixanu rapokatka gipapko wa Goyakalupjiya yinuwakinripa gitakyagoklewlu . Ga wa wixa yegi yinuwakini ¿ gi rixpokotanu yoptukyawakapna wa Kiglerpotunanu Tokanchi Goyakalupirana malixaklene ?
+60004018	gi rixpokotanu		Ga wa ramgakastsimkatkani poyagkakachri ¿ gi rixpokotanu mupashiregotu ga wa kmukochireru ?
+61003004	Ginaklu		Wane chinanna , “ ¿ Ginaklu gipiratkaluru Geso gininripapirana ? Gi rixanu wa gitsrukaachinni gapnanutiniyakawa rixyawakakni ptowrunanuka reyinuwakleyakawa giyakotkalurkaka . ”
+61003011	Gi		Gi rixanu pejnuruko tyekaka nikawnachripni , ¿ gi pixkalune gimkata gixleta ? Kpashirinepgi ga wa kagwakpiraklerunepgi .
+62002022	~		Walenwa kayrokleru , wa Geso wa Kristo rixinri nutatachri . Walenwa Kristo kamnixachri ga wa Girchi nutatachri ga wa Gituru nutatachri .
+62003012	Klu chinanu		Gi wa Kayni pixka gixachinepgi . Walenwa mugletu giyakatyachrini , ga wa ruylatanru repurni . ¿ Ga wa klu chinanu ruylatanru ? Gi rixanu waleko kamrurni mugletu , ga wa repurni kamrurni kpoyagkakaklerni .
+62003017	gi rixpoko		Girukokta waneya tyechijne gajeru wane rixle ga wa reta magletinri gimole ga wa rushyanshinikanyegitlu ma metwamonutyaplu ¿ gi rixpoko gishiniklewleta Goyakalu gishiniklewleya ?
+62004020	~		Girukokta wane chinini , “ Gita gishiniklu Goyakalu , ” ga wa rayegixlu gimole , kayroklerni . Gi rixanu mushinikmoletkatu wa retanru , gi rumkata gishinikletlu Goyakalu wa ma metanutu .
+62005005	Katni		¿ Katni wa tye psolchijne gajerkakako gaalixachri ? Walekni girukokta Geso wa Goyakalu Wgene rixinri galixachri .
+66005002	Katni		Ga wa netlu Goyakalutowreru gichkolu gichkoplaji wane china sapletachri , “ ¿ Katni wa gimuknu kopralatyaplo kirukpoyi , ga wa kotpuka gipretyaplo ? ”
+66006010a	giklunanu		Ga wa gichkoplaji china sapletna , “ Gitsrukaachi kpashiri ga wa galikakpotu , ¿ giklunanu gi puklukanuwnayegjixawana psolchijneko gajene , 
+66006010b	~		ga wa gi papnuyegitawalu wugraga ? ”
+66006017	katu		Gi rixanu rapokatka jigekanna tsrugogne . Ga wa ¿ katu gimkata tunwaleta ? ”
+66007013a	gi		Ga wa rugita satu wanna tsrune . Wane chinno , “ Wa nyi klatalu mkachri gopowalu gitakachine ¿ gi gixachinni 
+66007013b	ginaka		ga wa ginaka ruyakatyana ? ”
+66013004a	Girupni		Ga wa yoptsojityegitluna gimnu gitsruka gi rixanu wale gitaklu kmatsuru . Ga wa yoptsojityegitluna kmatsuru . Wane chinna , “ ¿ Girupni wa kmatsuru pixkalutu ? 
+66013004b	katu		¿ Katu gimkata giylakakleta waleyma ? ”
+66015004a	girupni		¿ Girupni gi wa pikanyi Pixa , Wutsrukate ? 
+66015004b	katupni		¿ Ga wa katupni gi gimalwugiwakatanyi ? Gi rixanu Pixapjeni wa kpashiryi . Gi rixanu payinerumnunanuka ginanu ga wa yoptsojityegitanyina . Gi rixanu gipgujetkalurutkani kiglerkaka pkamrutinri .
+66017007	Klu chinanu		Ga wa Goyakalutowreru wane chinno , “ ¿ Klu chinanu puglajita ? Gita ginkakanyi giyogimanatkaluru tokanchi suxopirana , ga wa kmatsuru tutjitjerupirana , payokgiprejiwurutu ga wa pamolegwalutu .
+66018018	Girupni		Ga wa saplewjektetna retinrina tyoxikikolupgya . Wane chinna , “ ¿ Girupni tye tsru pokchi pixkalutu ? ”

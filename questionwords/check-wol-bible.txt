@@ -1,0 +1,743 @@
+40002002	Ana		Ñu ne : « Ana buur bi juddul Yawut yi ? Ndaxte gis nanu biddiiwam ci penku te ñëw nanu ngir màggal ko . »
+40002004	fu		Mu woolu nag saraxalekat yu mag yépp ak xutbakati xeet wa , laaj leen fu Almasi bi , maanaam Kirist , war a juddoo .
+40003007	ku		Noonu ay Farisen ak ay Sadusen yu bare ñëw ci Yaxya , ngir mu sóob leen ñoom itam ca dex ga . Waaye bi leen Yaxya gisee , mu ne leen : « Yéen ñi fees ak daŋar mel ni ay co , ku leen artu , ngeen daw merum Yàlla mi nar a wàcc ?
+40005013	nan		« Yéena di xoromus àddina . Bu xorom si sàppee , nan lañu koy delloo cafkaam ? Du jariñati dara , lu dul ñu sànni ko ci biti , nit ñi dox ci kawam .
+40005046	ban		Su ngeen soppee ñi leen sopp , ban yool ngeen am ? Xanaa juutikat yi duñu def noonu it ?
+40005047	lu		Su ngeen nuyoo seeni bokk rekk , lu ngeen def lu doy waar ? Xanaa ñi xamul Yàlla duñu def noonu it ?
+40006027	kan		Ana kan ci yéen ci kaw njaaxleem moo man a yokk waxtu ci àppam ?
+40006028	lu tax		« Te lu tax ngeen di jaaxle ngir koddaay ? Seetleen bu baax , ni tóor-tóori ñax mi di saxe ci tool yi . Duñu liggéey , duñu ëcc ,
+40006031a	lu		Buleen jaaxle nag , di wax ne : “ Lu nu war a lekk ? 
+40006031b	lu		Lu nu war a naan ? ” 
+40006031c	lu		walla : “ Lu nu war a sol ? ”
+40007003	Lu tax		Lu tax ngay xool ñax gi ci sa bëtu mbokk , te gisuloo gànj gi ci sa bët yaw ?
+40007004	nan		Walla nan ngay waxe sa mbokk : “ May ma , ma dindil la ñax gi ci sa bët , ” fekk gànj a ngii ci sa bët yaw ?
+40007009	kan		Kan ci yéen , bu la sa doom ñaanee mburu , nga jox ko doj ?
+40007016a	na		Dingeen leen xàmmee ci seeni jëf . Ndax dees na witte réseñ ci dédd , 
+40007016b	~		walla figg ci xaaxaam ?
+40008026	lu tax		Waaye Yeesu tontu leen : « Yéen ñi néew ngëm , lu tax ngeen tiit ? » Ci kaw loolu mu jóg , daldi gëdd ngelaw li ak duus yi . Lépp dal , ba ne nemm .
+40008027	kan		Bi ko nit ña gisee , ñu waaru naan : « Kii kan la ci biir nit ñi , ba ngelaw li ak dex gi di ko déggal ? »
+40008029	loo		Ña rab jàpp daldi xaacu naan : « Yaw Doomu Yàlla ji , loo nuy fexeel ? Ndax danga noo bëgg a mbugal , bala waxtu way jot ? »
+40009004	Lu tax		Waaye Yeesu xam seen xalaat ne leen : « Lu tax ngeen am xalaat yu bon ci seen xol ?
+40009005	lan		Ma wax ne : “ Baal nañu la say bàkkaar , ” walla ma ne : “ Jógal te dox , ” lan moo ci gën a yomb ?
+40009011	lu tax		Bi ko Farisen ya gisee nag , ñu ne taalibe ya : « Lu tax seen kilifa di lekkandoo ak ay juutikat ak ay boroom bàkkaar ? »
+40009014	lu tax		Gannaaw loolu taalibey Yaxya ñëw ci Yeesu ne ko : « Lu tax nuy woor , nun ak Farisen yi , te say taalibe duñu woor ? »
+40009015	~		Yeesu tontu leen : « Ndax gan yi ñëw ci céet dinañu naqarlu dara , li feek boroom céet gaa ngi ànd ak ñoom ? Waaye bés yaa ngi ñëw yu ñuy jële boroom céet gi ci seen biir ; booba nag dinañu woor .
+40010025	~		Bu taalibe yemee ak kilifaam demin , doy na ; jaam it ni sangam . Ndegam tudde nañu boroom kër gi Beelsebul , astemaak waa kër gi .
+40011007	Lu		Bi nga xamee ne taalibe ya Yaxya yónni woon ci Yeesu dem nañu , Yeesu daldi wax ak mbooloo ma ci mbirum Yaxya ne leen : « Lu ngeen seeti woon ca màndiŋ ma ? Xanaa barax buy jaayu ci ngelaw li ?
+40011008	lu		Kon lu ngeen seeti woon nag ? Nit ku sol yére yu rafet ? Waaye ñi sol yére yu rafet ñu ngi dëkk ci këri buur .
+40011009	Lu tax		Lu tax ngeen génn nag ? Ngir gis ab yonent ? Waaw , wax naa leen ne , ëpp na yonent .
+40011016	lan		« Niti jamono jii nag , lan laa leen man a mengaleel ? Ñu ngi nirook xale yu toog ca pénc ma , di woo seeni xarit ,
+40012011	Ku		Yeesu tontu leen : « Ku fi amoon xar , mu daanu ci kàmb ci bésu noflaay bi , ndax doo ko jàpp , génne ko ?
+40012026	naka		Bu Seytaane dàqee Seytaane nag , xeex na boppam ; kon naka la nguuram di man a yàgge ?
+40012027	gan		Te it bu fekkee ne man damay dàq ay rab ci kàttanu Beelsebul , seeni taalibe nag , ci gan kàttan lañu leen di dàqe ? Kon ñoo leen di àtte .
+40012029	naka		« Su fi amee nit ku bare doole , te nit bëgg a dugg ci këram , nangu alalam , naka la koy defe ? Xanaa dafay jëkk a yeew ku bare doole ka , ba noppi door a toj këram gépp .
+40012034	naka		Yéen ñi fees ak daŋar ni ay co , naka ngeen man a waxe lu baax , fekk dangeen bon ? Ndaxte gémmiñ , la fees xol lay wax .
+40012048a	kan		Waaye Yeesu tontu ko ne : « Kan mooy sama ndey ak 
+40012048b	ñan		ñan ñooy samay rakk ? »
+40013010	lu tax		Bi Yeesu waxee ba noppi , ay taalibeem jegeñsi , laaj ko lu tax mu di leen wax ciy léeb .
+40013027	Fu		« Noonu surgay boroom kër ga ñëw ci moom ne ko : “ Góor gi , xanaa jiwuloo jiwu wu baax ci sa tool ? Fu jëmb bi jóge nag ? ”
+40013054a	fu		dem fa mu yaroo . Mu di leen jàngal ci seen jàngu , ba ñu waaru ne : « Xam-xam bii ak kéemaan yii , fu mu ko jële ?
+40013054b	~		
+40013056	fu		Te ay rakkam yu jigéen , ndax nekkuñu fi ak nun ? Lii lépp nag , fu mu ko jële ? »
+40014031	lu tax		Ca saa sa Yeesu tàllal loxoom , jàpp ko naan : « Yaw mi néew ngëm , lu tax nga am xel ñaar ? »
+40015002	Lu tax		« Lu tax say taalibe di moy aaday yoon , yi maam yi tëral ? Ndaxte duñu raxas seeni loxo , bu ñuy lekk . »
+40015003	lu tax		Waaye Yeesu tontu leen ne : « Yéen itam lu tax ngeen di moy li Yàlla santaane , ngir topp seeni aada ?
+40015033	fu		Noonu taalibeem ya laaj ko : « Waaye fu nuy jële ci àll bi mburu mu doy ngir mbooloo mu tollu nii ? »
+40015034	Ñaata		Yeesu ne leen : « Ñaata mburu ngeen am ? » Ñu tontu ko : « Juróom-ñaari mburu ak ay jën yu ndaw . »
+40016008	lu tax		Waaye Yeesu yég loolu ne leen : « Yéen ñi néew ngëm , lu tax ngeen di werante ci seen biir , ndaxte indaalewuleen mburu ?
+40016009	ñaata		Ndax xamaguleen ba tey ? Xanaa fàttalikuwuleen juróomi mburu ya ngir juróomi junniy góor ña , ak ñaata pañe ngeen dajale woon ciy dammit ?
+40016010a	~		Te ndax fàttalikuwuleen itam juróom-ñaari mburu ya ngir ñeenti junniy góor ña , 
+40016010b	ñaata		ak ñaata dàmba ngeen dajale woon ciy dammit ?
+40016011	lu tax		Kon nag lu tax xamuleen ne , waxuma mburu ? Waaye damaa bëgg , ngeen moytu lawiiru Farisen ya ak Sadusen ya . »
+40016013	kan		Bi ñu fa jógee , Yeesu dem ca diiwaanu Sesare bu Filib . Foofa mu laaj taalibeem ya : « Lu nit ñiy wax ci Doomu nit ki ; mooy kan ? »
+40016015a	~		Noonu Yeesu ne leen : « Waaye yéen , 
+40016015b	ku		ku ngeen may teg ? »
+40016026a	lu		Te it moom àddina sépp lu muy jariñ nit , bu ñàkkee bakkanam ? 
+40016026b	lu		Te nit , lu mu war a weccee bakkanam ?
+40017010	Lu tax		Noonu taalibe ya laaj ko : « Lu tax xutbakat ya nag di wax ne , Iliyas mooy jëkk a ñëw ? »
+40017017a	kañ		Noonu Yeesu tontu ne : « Yéen niti jamono jii , yéen ñi gëmadi te dëng , ba kañ laa war a nekk ak yéen , 
+40017017b	kañ		ba kañ laa leen di war a muñal ? » Mu ne leen , « Indil-leen ma xale bi fii . »
+40017019	Lu tax		Bi loolu amee taalibe ya ñëw ci Yeesu , laaj ko ci pegg : « Lu tax nun mënunu woon a dàq rab wi ? »
+40017025a	lu		Piyeer ne leen : « Aaŋkay ! » Ba ñu eggee kër ga nag , Yeesu jëkk a wax ne Piyeer : « Waaw lu ciy sa xalaat , Simoŋ ? B
+40017025b	ñan		uuri àddina si , ñan lañuy laaj juuti walla galag ? Seeni doom walla ñi bokkul ci njaboot gi ? »
+40018001	Kan		Ca waxtu woowu taalibe ya ñëwoon nañu ci Yeesu , laaj ko : « Kan moo gën a màgg ci nguuru Yàlla mi nekk ci kaw ? »
+40018012	Luy		« Luy seen xalaat ci lii ? Su fi amoon nit ku am téeméeri xar , te benn ci ñoom réer , lu muy def ? Ndax du bàyyi ca parlukaay ba juróom-ñeent-fukki xar ya ak juróom-ñeent , te dem wuti ma réer ?
+40018021	ñaata		Noonu Piyeer ñëw ci Yeesu , laaj ko : « Boroom bi , bu ma sama mbokk tooñee , ñaata yoon laa ko war a baal ? Xanaa ba ci juróom-ñaari yoon ? »
+40019007	lu tax		Bi Yeesu waxee loolu , Farisen ya laaj ko ne : « Waaye Musaa santaane na , nit jox jabaram kayitu pase , tàggook moom . Lu tax mu wax loolu nag ? »
+40019016	lan		Bi muy dem nag , nit daldi ñëw ci moom ne ko : « Kilifa gi , lan laa war a def ci lu baax , ngir man a am dund gu dul jeex ? »
+40019017	lu tax		Yeesu tontu ko : « Lu tax nga laaj ma ci wàllu lu baax ? Kenn kepp moo baax . Boo bëggee dugg ca dund googu ci kaw , nanga sàmm ndigal yi . »
+40019018	yan		Waxambaane wa laaj ko : « Yan la ? » Yeesu ne ko : « Yii : bul bóom , bul njaaloo , bul sàcc , bul seede lu dul dëgg ,
+40019020	lu		Waxambaane wa ne ko : « Sàmm naa yooyu yépp , lu ma deseeti ? »
+40019025	Kan		Bi nga xamee ne taalibe ya dégg nañu loolu , ñu daldi waaru lool ne ko : « Kan moo man a mucc nag ? »
+40019027	nu		Bi ko Piyeer déggee , mu daldi ne : « Waaw nun nag , dëddu nanu lépp , topp la ; kon nu nuy mujje nun ? »
+40020006	Lu tax		Mu génnati ci tàkkusaan , gis ñeneen di tendeefal . Mu ne leen : “ Lu tax ngeen yendoo tendeefal , te liggéeyiwuleen ? ”
+40020012	~		naan : “ Ñi mujj a ñëw , benn waxtu rekk lañu liggéey , ba noppi nga yemale leen ak nun , ñi yenu coonob bëccëg bi ak naaj wu metti wi . ”
+40020021	Loo		Yeesu ne ko : « Loo bëggoon ? » Mu tontu ko ne : « Damaa bëggoon nga santaane ne , boo nekkee ci sa nguur , sama ñaari doom ñii toog ak yaw , kenn ci sa ndeyjoor , ki ci des ci sa càmmooñ . »
+40020032	Lu		Noonu Yeesu daldi taxaw , woo leen ne : « Lu ngeen bëgg , ma defal leen ko ? »
+40021010	kan		Bi nga xamee ne Yeesu dugg na Yerusalem , dëkk ba bépp yengatu ne : « Kii moo di kan ? »
+40021016	~		Noonu ñu ne Yeesu : « Ndax dégg nga li ñuy wax ? » Yeesu tontu leen ne : « Waaw dégg naa ko . Ndax musuleen a jàng lii ci Mbind mi : “ Ci gémmiñu perantal ak ñiy nàmp sàkkal nga sa bopp ay cant ” ? »
+40021020	Nan		Bi nga xamee ne taalibe ya gis nañu loolu , ñu waaru naan : « Nan la figg gi daldi wowe ci taxawaay bi ? »
+40021023a	ban		Gannaaw loolu Yeesu dugg ca kër Yàlla ga , di fa jàngale . Bi muy jàngale nag saraxalekat yu mag ya ak njiiti xeet wa ñëw ci moom ne ko : « Yëf yii ngay def , ci ban sañ-sañ nga koy defe ? 
+40021023b	ku		Ku la may boobu sañ-sañ ? »
+40021025a	fu		La Yaxya daan def , di sóob nit ñi ci ndox , fu mu ko jële , ci Yàlla walla ci nit ñi ? » Ci kaw loolu ñu daldi werante ci seen biir naan : 
+40021025b	~		« Bu nu nee : “ Ci Yàlla , ” dina nu laaj : 
+40021025c	lu tax		“ Lu tax gëmuleen ko kon ? ”
+40021028	Lu		« Lu di seen xalaat ci lii ? Kenn nit amoon na ñaari doom . Am bés mu ñëw ca taaw ba ne ko : “ Sama doom , demal tey liggéeyi ca sama toolu réseñ . ”
+40021031	Kan		Noonu Yeesu laaj leen : « Kan ci ñaari doom yooyu moo def coobareg baayam ? » Ñu ne : « Ñaareel bi . » Kon Yeesu ne leen : « Ci dëgg maa ngi leen koy wax , juutikat yi ak jigéeni moykat yi ñoo leen jëkk a dugg ci nguuru Yàlla Aji Kawe ji .
+40021040	na		Noonu Yeesu laaj leen : « Bu boroom tool bi ñëwee nag , na muy def beykat yi ? »
+40022012	naka		Buur ne ko : “ Sama waay , naka nga dugge fii , te amuloo mbubbum céet ? ” Waa ji ne miig .
+40022017	loo		Wax nu nag loo xam ci lii : ndax jaadu na , nu fey buur bi Sesaar galag walla déet ? »
+40022018	Lu tax		Waaye Yeesu xam seen njublaŋ , mu ne leen nag : « Lu tax ngeen bëgg maa fiir , yéen naaféq yi ?
+40022020a	kan		Yeesu ne leen : « Kan lañu ci def nataalam 
+40022020b	~		ak turam ? »
+40022028	kan		Bu ndekkite taxawee nag , jabaru kan lay doon ci juróom-ñaar ñi , ndaxte ñépp jël nañu ko ? »
+40022036	ban		« Kilifa gi , ban ndigal moo gën a màgg ci yoonu Musaa ? »
+40022042a	lu		« Lu ngeen xalaat ci Almasi bi ; 
+40022042b	kan		kan la nekk sëtam ? » Ñu tontu ko : « Daawuda . »
+40022043	Lu tax		Noonu Yeesu ne leen : « Lu tax nag Daawuda , bi muy wax ci kàttanu Xelu Yàlla mi , di ko wooye “ Boroom bi ” ne :
+40022045	nu		Gannaaw Daawuda nag wooye na ko : “ Boroom bi , ” nu muy nekke sëtam ? »
+40023017	Lan		Yéen ñi dof te gumba ! Lan moo gën a màgg , wurus wi walla kër Yàlla , gi tax wurus wi sell ?
+40023019	Lan		Gumba yi ! Lan moo gën a màgg , sarax si walla saraxalukaay bi tax sarax si sell ?
+40023033	naka		Yéen ñi mel ni ay jaan , te fees ak daŋar niy co , naka ngeen di mucce mbugalu safara ?
+40024003a	kañ		Noonu bi nga xamee ne Yeesu toog na ca tundu Oliw ya , taalibeem ya ñëw ci moom cig wet . Ñu ne ko : « Wax nu kañ la loolu di am , 
+40024003b	luy		te luy tegtale ne , yaa ngi ñëw te àddina di tukki ? »
+40024045	Kan		Yeesu teg ca ne : « Kan moo nekk surga bu takku te teey , bu njaatigeem teg ci waa kër gi , ngir mu leen di dundal ca jamono ja ?
+40025037	kañ		Ci kaw loolu ñi jub dinañu tontu ne : “ Boroom bi , kañ lanu la gisoon , nga xiif , nu jox la , nga lekk ; mbaa nga mar , nu jox la , nga naan ?
+40025038	Kañ		Kañ lanu la gisoon , nga nekk ab doxandéem , nu fat la ; mbaa nga rafle , nu wodd la ?
+40025039	Kañ		Kañ lanu la gisoon , nga wopp mbaa ñu tëj la , nu ñëw ci yaw ? ”
+40025044	kañ		Ci kaw loolu dinañu tontu ne : “ Boroom bi , kañ lanu la gisoon , nga xiif , mbaa nga mar , nga nekk ab doxandéem mbaa rafle , nga wopp mbaa ñu tëj la , te topptoowunu la ? ”
+40026008	lu		Waaye bi ko taalibe ya gisee , ñu daldi mer ne : « Yàq gii lu muy jariñ ?
+40026010	lu tax		Yeesu nag xam la ñu wax , mu ne leen : « Jigéen ji defal na ma jëf ju rafet ; lu tax ngeen di ko sonal ?
+40026015	Lan		ne leen : « Lan ngeen ma man a jox , ngir ma jébbal leen Yeesu ? » Noonu saraxalekat ya daldi ko waññal fanweeri poseti estateer .
+40026017	Foo		Bés bu jëkk ca màggal , ga ñuy wax Mburu ya amul lawiir , taalibe yi ñëw ci Yeesu ne ko : « Foo bëggoon nu defaral la reeru màggalu Jéggi ba ? »
+40026040	~		Noonu mu ñëw ca taalibe ya , fekk leen ñuy nelaw . Mu ne Piyeer : « Amuleen sax dooley xoolandoo ak man benn waxtu ?
+40026050	lu tax		Yeesu tontu ko : « Sama xarit , xam naa lu tax nga ñëw . » Noonu ñu daldi jegesi , song ko , jàpp ko .
+40026054	nan		Waaye su ma ko defoon , nan la Mbind mi man a ame ? Ndaxte Mbind mi nee na , nii la war a ame . »
+40026062a	~		Ci kaw loolu saraxalekat bu mag ba jóg ne ko : « Ndax doo tontu dara ? 
+40026062b	loo		Loo xam ci li ñii seede ci yaw ? »
+40026065	lu		Bi mu déggee loolu , saraxalekat bu mag ba daldi mer lool , ba xotti ay yéreem , daldi ne : « Weddi na Yàlla , lu nu doyeeti seede ? Dégg ngeen ni mu weddee .
+40026066	Lu		Lu ngeen ci xalaat ? » Ñu tontu ko : « Yoon teg na ko dee . »
+40026068	ku		ne ko : « Yaw Kirist , yonent bi , ndax xam nga ku la dóor ? »
+40027004	Lu		ne leen : « Am naa bàkkaar ci li ma wor nit ku tooñul , ngir ñu rey ko . » Ñu tontu ko : « Lu ciy sunu yoon ? Loolu yaa ko yég . »
+40027013	~		Noonu Pilaat ne ko : « Xanaa dégguloo lépp li ñu la jiiñ ? »
+40027017	kan		Bi nga xamee ne daje nañu nag , Pilaat laaj leen : « Kan ngeen bëgg , ma bàyyi ko , Barabas walla Yeesu mi ñuy wax Kirist ? »
+40027021	Kan		Noonu boroom réew ma laaj leen : « Kan ci ñaar ñii ngeen bëgg , ma bàyyil leen ko ? » Ñu tontu ko : « Barabas . »
+40027022	Nan		Pilaat ne leen : « Nan laay def nag Yeesu , mi tudd Kirist ? » Ñépp tontu ko ne : « Daaj ko ci bant , ba mu dee ! »
+40027023a	lu tax		Boroom réew ma ne leen : « Lu tax ? 
+40027023b	gan		Gan tooñ la def ? » Waaye ñu daldi yuuxu bu gën a kawe naan : « Daaj ko ci bant ! »
+40027046	lu tax		Noonu ci wetu ñetti waxtu Yeesu daldi wootee kàddu gu dëgër naan : « Eli , Eli , lema sabaktani ? » liy tekki : « Sama Yàlla , sama Yàlla , lu tax nga dëddu ma ? »
+41001024	loo		« Yaw Yeesum Nasaret , loo nuy fexeel ? Ndax dangaa ñëw , ngir alag nu ? Xam naa la , yaa di Aji Sell , ji jóge ci Yàlla . »
+41001027	kan		Bi loolu amee ñépp waaru , ba laajante naan : « Kii mooy kan ? Mii njàngale lu bees la te ànd ak sañ-sañ . Day sant rab yi sax , ñu di ko déggal . »
+41002007a	~		« Kii kan la , ba sañ a wax lii ; mi ngi sosal Yàlla . 
+41002007b	ku		Ana ku man a baale bàkkaar yi , ku dul Yàlla doŋŋ ? »
+41002008	Lu tax		Waaye Yeesu yég ci xelam li ñuy werante ci seen biir , ne leen : « Lu tax ngeen di werantee nii ci seen xel ?
+41002009	Lan		Lan moo gën a yomb , ma wax ku làggi ki : “ Baal nañu la say bàkkaar , ” walla ma wax ko : “ Jógal , jël sa basaŋ , tey dox ” ?
+41002016	Lu tax		Waaye xutbakat yi bokk ci Farisen yi , bi ñu gisee ne , dafa bokk lekk ak ay juutikat ak ay boroom bàkkaar , ñu daldi laaj taalibe yi : « Lu tax muy lekkandoo ak ay juutikat ak ay boroom bàkkaar ? »
+41002018	Lu tax		Taalibey Yaxya nag ak Farisen yi daan nañu woor . Ñu ñëw nag fi Yeesu ne ko : « Lu tax taalibey Yaxya yi ak yu Farisen yi di woor , te say taalibe duñu woor ? »
+41002019	~		Yeesu tontu leen : « Ndax gan , yi ñëw cig céet , dinañu woor , fekk boroom céet gi ànd ak ñoom ? Duñu woor , li feek boroom céet gaa ngi ànd ak ñoom .
+41002024	lu tax		Noonu Farisen ya ne Yeesu : « Gisal , lu tax say taalibe di def lu jaaduwul ci bésu noflaay bi ? »
+41003004	lan		Noonu Yeesu ne leen : « Lan moo jaadu , nu def ko bésu noflaay bi , lu baax mbaa lu bon ; nu musal nit mbaa nu rey nit ? » Waaye ñu ne cell .
+41003023	Naka		Noonu Yeesu woo leen , wax ak ñoom ciy léeb ne leen : « Naka la Seytaane man a dàqe Seytaane ?
+41003033a	kan		Waaye Yeesu tontu leen : « Kan mooy sama ndey ? 
+41003033b	Ñan		Ñan ñooy samay rakk ? »
+41004013	Nu		Noonu Yeesu ne leen : « Ndax xamuleen léeb wii ? Nu ngeen xame nag léeb yi ci des ?
+41004030a	lu		Yeesu ne leen ati : « Lu nu man a mengaleel nguuru Yàlla ? 
+41004030b	ban		Walla ban léeb lanu ko man a misaale ?
+41004038	~		Fekk Yeesu tëdd di nelaw ci ngégenaay ci taatu gaal gi . Taalibe yi daldi ko yee naan : « Kilifa gi , ndax sunu bakkan soxalu la ? »
+41004040a	lu tax		Yeesu ne taalibe ya : « Lu tax ngeen tiit ? 
+41004040b	~		Ndax gëmaguleen ? »
+41004041	kan		Ñu daldi ragal lool , naan ci seen biir : « Kii moo di kan , ba ngelaw li ak dex gi sax di ko déggal ? »
+41005007	loo		di xaacu naan : « Yaw Yeesu Doomu Yàlla Aji Kawe ji , loo may fexeel ? Ci turu Yàlla , bu ma mbugal . »
+41005009	noo		Noonu Yeesu laaj ko : « Noo tudd ? » Mu tontu ko : « Coggal laa tudd , ndaxte ñu bare lanu . »
+41005030	ku		Yeesu yég ci saa si ne , doole génn na ci moom . Mu walbatiku nag ne mbooloo mi : « Ana ku laal samay yére ? »
+41005031	Ku		Ay taalibeem tontu ko : « Xanaa gisuloo mbooloo mi lay wër ; ngay laaj : “ Ku ma laal ? ” »
+41005035	nuy		Bi Yeesu di wax nag , am na ku jóge ca kër njiit la , mu ñëw naan : « Sa doom faatu na ; matatul nuy sonal kilifa gi . »
+41005039a	lu		Mu dugg ne leen : « Lu ngeen di soow , 
+41005039b	~		tey jooy ? Janq bi deewul , day nelaw rekk . »
+41006002a	fu		Bésu noflaay bi nag mu jàngal leen ci seen jàngu , ba mbooloom ñi ko dégg waaru naan : « Lii , fu mu ko jële , te xam-xam bii mu yor , 
+41006002b	lu		lu mu doon , 
+41006002c	~		ba muy def kéemaan yii ?
+41006022	loo		Booba doomu Erojàdd dugg di fecc , mu neex Erodd ak gan ñi , ba buur bi ne janq bi : « Laaj ma loo bëgg , dinaa la ko jox . »
+41006024	Lu		Noonu janq bi génn ne ndeyam : « Lu may laaj ? » Mu tontu ko : « Laajal boppu Yaxya . »
+41006037	~		Waaye Yeesu tontu leen ne : « Yéen joxleen leen lu ñu lekk . » Ñu ne ko : « Xanaa nu jënd lu tollook peyu juróom-ñetti weer ci mburu , jox leen ñu lekk ? »
+41006038	Ñaata		Yeesu laaj leen : « Ñaata mburu ngeen am ? Demleen seeti . » Ñu dem seeti ne ko : « Juróomi mburu ak ñaari jën . »
+41007005	Lu tax		Noonu Farisen ya ak xutbakat ya laaj ko ne : « Lu tax say taalibe duñu topp aaday yoon , yi maam yi tëral , waaye ñuy lekk ak loxo yu setul ? »
+41008004	fu		Taalibe yi tontu ko : « Waaye fii àllub neen la ; fu nuy jële lu doy ngir dundal leen ? »
+41008005	Ñaata		Yeesu laaj leen : « Ñaata mburu ngeen am ? » Ñu ne ko : « Juróom-ñaar . »
+41008012	Lu tax		Waaye Yeesu binni ci xolam ne leen : « Lu tax niti jamono jii di laaj kéemaan ? Ci dëgg maa ngi leen koy wax , duñu jot genn kéemaan . »
+41008017	Lu tax		Waaye Yeesu yég loolu ne leen : « Lu tax ngeen di werante ci li ngeen indaalewul mburu ? Xanaa gisaguleen te xamuleen ? Ndax seen xol dafa fatt ba tey ?
+41008018a	~		Ndax ay gumbay njàccaar ngeen , 
+41008018b	~		te seeni nopp naqari ? Xanaa fàttalikuwuleen ;
+41008019	ñaata		bi ma dammee juróomi mburu ya ngir juróomi junni ña , ñaata pañe yu fees ak ay dammit ngeen ca dajale woon ? » Ñu tontu ko : « Fukk ak ñaar . »
+41008020	ñaata		Yeesu neeti leen : « Te bés bi ma dammee juróom-ñaari mburu yi ngir ñeenti junni ñi , ñaata dàmba yu fees ak dammit ngeen dajale woon ? » Ñu ne ko : « Juróom ñaar . »
+41008021	~		Noonu Yeesu ne leen : « Ndax seen xol dafa tëju ba tey ? »
+41008023	~		Yeesu nag jàpp loxob gumba gi , yóbbu ko , ba génn dëkk bi . Mu def tiflit ciy bëtam , teg ko loxo naan : « Ndax gis nga dara ? »
+41008027	lu		Bi loolu amee Yeesu ànd ak ay taalibeem , dem ca dëkk , yi wër Sesare bu Filib . Bi ñuy dem nag , mu laaj taalibe yi : « Nit ñi , lu ñu wax ne man moom laa ? »
+41008029a	~		Noonu Yeesu laaj leen : « Yéen nag , 
+41008029b	ku		ku ngeen wax ne moom laa ? » Piyeer tontu ko : « Yaa di Almasi bi . »
+41008036	lu		Ndaxte moom àddina sépp , lu muy jariñ nit , bu ñàkkee bakkanam ?
+41008037	lu		Te nit , lu mu war a weccee bakkanam ?
+41009010	lu		Ñu téye wax jooju ci seen biir , di sotteente xel , ba xam lu ndekkite looluy tekki .
+41009011	Lu tax		Noonu taalibe yi laaj Yeesu : « Lu tax xutbakat yi di naan , Iliyas moo war a jëkk a ñëw ? »
+41009012	lu tax		Yeesu ne leen : « Waaw , Iliyas dina jëkk a ñëw , jubbanti lépp . Waaye itam lu tax bind nañu ne , Doomu nit ki war na sonn lu bare , ñu xeeb ko , dëddu ko .
+41009016	lan		Noonu Yeesu laaj leen : « Ci lan ngeen di werante ak ñoom ? »
+41009019a	kañ		Yeesu ne leen : « Yéen niti jamono jii , yéen ñi gëmadi , ba kañ laa war a nekk ak yéen , 
+41009019b	kañ		ba kañ laa leen war a muñal ? Indil-leen ma xale bi . »
+41009021	kañ		Yeesu laaj baay bi : « Lii kañ la ko dal ? » Baay bi ne ko : « Li dale ci nguneem .
+41009028	Lu tax		Bi Yeesu duggee ci kër gi , taalibe yi laaj ko ci pegg : « Lu tax mënunu ko woon a dàq ? »
+41009033	Lu		Bi nga xamee ne egg nañu dëkku Kapernawum , te dugg ci kër gi , Yeesu laaj leen ne : « Lu ngeen doon waxtaane ci yoon wi ? »
+41009050	nan		Xorom lu baax la , waaye bu sàppee , nan lañu koy delloo cafkaam ? Amleen xorom te ngeen jàmmoo . »
+41010003	Lu		Yeesu tontu leen ne : « Lu leen yoonu Musaa sant ? »
+41010017	lu		Gannaaw loolu bi Yeesu nekkee ci kaw yoon wi di dem , am ku daw , sukk ci kanamam ne ko : « Kilifa gu baax gi , lu ma war a def , ngir am wàll ci dund gu dul jeex gi ? »
+41010018	Lu tax		Yeesu tontu ko : « Lu tax nga wooye ma ku baax ki ? Yàlla rekk a baax .
+41010026	ku		Wax jooju gënatee jaaxal taalibe ya , ñu naan ci seen biir : « Kon nag ku man a mucc ? »
+41010036	Lu		Yeesu tontu leen : « Lu ngeen bëggoon , ma may leen ko ? »
+41010051	Loo		Yeesu ne ko : « Loo bëggoon ma defal la ko ? » Gumba gi tontu ko : « Kilifa gi , damaa bëgg a gis . »
+41011003	Lu		Bu leen kenn nee : “ Lu ngeen di def ? ” tontuleen ko : “ Boroom bi da koo soxla , te léegi mu delloosi ko . ” »
+41011005	Lu		Bi ñu koy yiwi nag , am na ca ña fa taxaw , ñu ne leen : « Lu ngeen nar , bay yiwi cumbur gi ? »
+41011028a	ban		ne ko : « Yëf yii ngay def , ci ban sañ-sañ nga koy defe ? 
+41011028b	ku		Te ku la may sañ-sañu def ko ? »
+41011030	fu		La Yaxya daan def , di sóob nit ñi ci ndox , fu mu ko jële , ci Yàlla walla ci nit ñi ? »
+41011031a	~		Bi ñu ko déggee , ñuy werante ci seen biir naan : « Bu nu nee : “ Ci Yàlla , ” kon dina nu laaj : 
+41011031b	lu tax		“ Lu tax gëmuleen ko kon ? ”
+41012009	lu		Noonu Yeesu laaj leen : « Boroom tool bi nag , lu muy def ? Xanaa ñëw , rey beykat ya , dénk tool ba ñeneen .
+41012015	Lu tax		Waaye Yeesu xam na seen naaféq , mu ne leen : « Lu tax ngeen bëgg maa fiir ? Indil-leen ma posetu denariyon , ma seet . »
+41012016a	kan		Ñu jox ko poset bi . Noonu Yeesu laaj leen : « Kan lañu ci def nataalam 
+41012016b	~		ak turam ? » Ñu tontu ko : « Sesaar . »
+41012023	kan		Ci ndekkite li nag kan ci ñoom moo ko war a donn , fekk ku nekk ci juróom-ñaar ñi mas na koo takk ? »
+41012028	ban		Bi ñuy werante , benn xutbakat ñëw , dégg seen waxtaan , gis ne Yeesu tontu na leen tont lu leer . Mu laaj ko nag : « Ci ndigal yi , ban moo ci gën a màgg ? »
+41012035	Lu tax		Bi nga xamee ne Yeesu ma nga doon jàngale ca kër Yàlla ga , mu laaj nit ñi : « Lu tax xutbakat yi di wax ne , Almasi bi mooy sëtu Daawuda ?
+41012037	naka		Gannaaw Daawuda nag wooye na ko : “ Boroom bi , ” naka mu nekke sëtam ? » Noonu mbooloo mu mag mi di ko déglu ak bànneex .
+41013004a	kañ		« Wax nu kañ la loolu di am ? 
+41013004b	luy		Te luy tegtal ne , mbir yii yépp a ngi bëgg a mat ? »
+41014004	lu		Waaye amoon na fa ñu mer , di xultu ci seen biir naan : « Yàq gii , lu muy jariñ ?
+41014006	lu tax		Waaye Yeesu ne leen : « Bàyyileen ko . Defal na ma jëf ju rafet ; lu tax ngeen di ko sonal ?
+41014012	Foo		Bés bu jëkk ca màggal , ga ñuy wax Mburu ya amul lawiir , taalibey Yeesu laaj ko : « Foo bëgg , nu defaral la reeru Jéggi bi ? » Bés bu jëkk booba nag mooy bés , ba ñu faral a rendi xarum màggalu Jéggi ba .
+41014014	Ana		Kër gi mu dugg nag , ngeen ne boroom kër gi : “ Kilifa gi nee na : Ana néegu gan , bi may lekke reeru Jéggi bi , man ak samay taalibe ? ”
+41014060a	~		Ci kaw loolu saraxalekat bu mag bi taxaw ci seen kanam ne Yeesu : « Doo tontu ? 
+41014060b	lu		Lu la nit ñi di jiiñ ? »
+41014063	lu		Bi ko saraxalekat bu mag bi déggee nag , mu daldi mer , ba xotti ay yéreem naan : « Weddi na Yàlla , lu nu doyeeti seede ?
+41014064	lu		 Lu ngeen ci xalaat ? » Noonu ñépp teg ko dee .
+41015004	~		Kon nag Pilaat laajaat ko : « Déggal lépp li ñu lay jiiñ . Xanaa amoo ci tont ? »
+41015012	Lan		Kon Pilaat ne leen : « Lan laay def nag ak ki ngeen di wooye buuru Yawut yi ? »
+41015014a	lu tax		Pilaat ne leen : « Lu tax ? 
+41015014b	gan		Gan tooñ la def ? » Waaye mbooloo mi di yuuxu bu gën a kawe : « Daaj ko ci bant ! »
+41015034	lu tax		Ci tisbaar nag Yeesu wootee kàddu gu dëgër naan : « Elowi , Elowi , lema sabaktani ? » liy tekki : « Sama Yàlla , sama Yàlla , lu tax nga dëddu ma ? »
+41016003	Ku		di laajante : « Ku nuy béraŋal doj , wiy ub bàmmeel bi ? » Doj woowu nag bu réy-a-réy la woon . Noonu ñu xool , gis ne doj wa deñ .
+42001018	nan		Sakariya daldi ne malaaka ma : « Nan laay xame ne , loolu dëgg la ? Ndaxte mag laa , te sama jabar it màggat na . »
+42001034	Naka		Maryaama laaj malaaka ma ne ko : « Naka la loolu man a ame ? Man de , janq laa ba tey . »
+42001043	kan		Man maay kan , ba ndeyu sama Boroom ñëw di ma seetsi ?
+42001066	Nu		Ñi dégg nettali , bi jëm ci mbir yooyu , dañu koo denc ci seen xol te naan : « Nu xale bii di mujje nag ? » Ndaxte leeroon na ne , dooley Boroom baa ngi ànd ak moom .
+42002048	lu tax		Naka la ko waajuram yi gis , ñu daldi waaru . Yaayam ne ko : « Sama doom , lu tax nga def nu lii ? Man ak sa baay nu ngi la doon seet , jaaxle lool . »
+42002049	Lu tax		Mu ne leen : « Lu tax ngeen may seet ? Xanaa xamuleen ne , damaa war a nekk ci sama kër Baay ? »
+42003007	Ku		Mbooloo ma daan ñëw ngir mu sóob leen ci ndox , Yaxya daan na leen wax naan : « Yéen ñi fees ak daŋar mel ni ay co ! Ku leen artu ngeen daw merum Yàlla mi nar a wàcc ?
+42003010	Lan		Mbooloo ma laaj ko ne : « Lan lanu war a def nag ? »
+42003012	lu		Ay juutikat itam ñëw ca Yaxya , ngir mu sóob leen ci ndox ; ñu ne ko : « Kilifa gi , lu nu war a def ? »
+42003014a	~		Ay xarekat laaj nañu ko ne : 
+42003014b	~		« Li jëm ci nun nag ? » Mu ne leen : « Buleen néewal doole kenn , jël xaalisam ci kaw ay tëkku mbaa ci seede lu dul dëgg . Waaye doylooleen li ñu leen di fey . »
+42004034	loo		« Moo ! Yaw Yeesum Nasaret , loo nuy fexeel ? Ndax dangaa ñëw ngir alag nu ? Xam naa la , yaa di Aji Sell ji jóge ci Yàlla ! »
+42004036	~		Bi loolu amee ñépp waaru , ñuy waxante ci seen biir naan : « Céy jii wax ! Ci sañ-sañ ak doole lay sant rab yi , ñu daldi génn . »
+42005021a	kan		Xutbakat yi ak Farisen yi di werante ci seen xel naan : « Kii mooy kan bay sosal Yàlla ? 
+42005021b	ku		Ana ku man a baale bàkkaar yi , ku dul Yàlla doŋŋ ? »
+42005022	Lu tax		Waaye Yeesu xam seen xalaat , tontu leen ne : « Lu tax ngeen di werante ci seen xel ?
+42005023	lan		Ma wax ne : “ Baal nañu la say bàkkaar , ” walla ma ne : “ Jógal te dox , ” lan moo ci gën a yomb ?
+42005030	lu tax		Farisen yi ak seeni xutbakat di xultu taalibey Yeesu yi ne leen : « Lu tax ngeen di lekkandoo ak di naanandoo ak ay juutikat ak ay boroom bàkkaar ? »
+42005033	~		Noonu ñu ne Yeesu : « Taalibey Yaxya yi ak yu Farisen yi dinañu faral di woor ak di ñaan ci Yàlla , waaye say taalibe ñu ngiy lekk ak di naan . »
+42005034	~		Yeesu ne leen : « Ndax man ngeen a woorloo gan , yi ñëw cig céet , li feek boroom céet gaa ngi ànd ak ñoom ?
+42006002	lu tax		Am ay Farisen yu ne : « Lu tax ngeen di def lu jaaduwul ci bésu noflaay bi ? »
+42006009	lan		Yeesu ne leen : « Ma laaj leen , lan moo jaadu , nu def ko bésu noflaay bi , lu baax mbaa lu bon ; nu musal nit mbaa nu lor nit ? »
+42006032	ban		« Su ngeen soppee ñi leen sopp , ban ngërëm ngeen ciy am ? Ndaxte bàkkaarkat yi sax sopp nañu ñi leen sopp .
+42006033	ban		Te bu ngeen defalee lu baax ñi leen koy defal , ban ngërëm ngeen ciy am ? Bàkkaarkat yi it dañuy def noonu .
+42006034	ban		Te bu ngeen dee leble te yaakaar ci ndelloo , ban ngërëm ngeen ciy am ? Bàkkaarkat yi it dañuy lebal seeni moroom , ngir ñu delloo leen ko .
+42006039	~		Noonu Yeesu wax na leen beneen léeb ne leen : « Ndax gumba man na wommat moroomam ? Mbaa duñu daanu ñoom ñaar ci kàmb ?
+42006041	Lu tax		« Lu tax ngay xool ñax gi ci sa bëtu mbokk , te gisuloo gànj gi ci sa bët yaw ?
+42006042	Nan		Nan nga man a waxe sa mbokk : “ Sama xarit , may ma , ma dindil la ñax gi ci sa bët , ” yaw mi gisul gànj gi nekk ci sa bët ? Naaféq ! Jëkkal a dindi gànj gi ci sa bët , te noonu dinga man a gis bu leer , ngir dindi ñax gi ci sa bëtu mbokk .
+42006046	lu tax		« Lu tax ngeen may wooye “ Boroom bi , Boroom bi , ” te dungeen def li may wax ?
+42007024	Lu		Bi ndawi Yaxya yi demee , Yeesu daldi wax ak mbooloo ma ci mbirum Yaxya ne leen : « Lu ngeen seeti woon ca màndiŋ ma ? Xanaa barax buy jaayu ci ngelaw li ?
+42007025	lu		Kon lu ngeen seeti woon nag ? Nit ku sol yére yu rafet ? Waaye ñiy soloo noonu , tey dund dund gu neex ñu ngi dëkk ci këri buur .
+42007026	lu		Kon lu ngeen seeti woon ? Yonent ? Waaw , wax naa leen ne , ëpp na yonent .
+42007031a	lan		Yeesu tegaat ca ne : « Kon lan laa man a mengaleel niti jamono jii ? 
+42007031b	lan		Lan lañuy nirool ?
+42007042	kan		Waaye kenn ci ñoom mënu koo fey . Noonu mu baal leen bor ya . Ci ñaar ñooñu nag kan moo ko ciy gën a bëgg ? »
+42007049	kan		Noonu ñi doon lekkandoo ak moom di wax ci seen xel naan : « Kii am sañ-sañu baale bàkkaar mooy kan ? »
+42008025a	ana		Yeesu ne taalibe yi : « Ana seen ngëm ? » Ñu daldi tiit te waaru , naan ci seen biir : 
+42008025b	kan		« Kii moo di kan ? Mi ngi jox ndigal ngelaw li ak ndox mi , ñu koy déggal . »
+42008028	loo		Bi mu gisee Yeesu , mu yuuxu , daanu ciy tànkam , daldi xaacu ne : « Yaw Yeesu Doomu Yàlla Aji Kawe ji , loo may fexeel ? Maa ngi lay ñaan , nga bañ maa mbugal . »
+42008030	noo		Noonu Yeesu laaj ko : « Noo tudd ? » Mu tontu ne : « Coggal laa tudd . » Dafa wax loolu , ndaxte rab yu baree ko jàppoon .
+42008045	ku		Yeesu laaj nit ña ne : « Ana ku ma laal ? » Ku nekk di miim . Noonu Piyeer ne ko : « Kilifa gi , nit ñépp a ngi lay wër , di la tanc wet gu nekk . »
+42009009a	kan		Waaye Erodd ne : « Yaxya , man mii maa dagglu boppam . Kon kii ma dégg ay jalooreem , mooy kan ? » Noonu mu koy fexee gis .
+42009009b	~		
+42009018	ku		Benn bés Yeesu beddeeku mbooloo ma , di ñaan ; taalibe yi nekk ci wetam . Mu laaj leen ne : « Nit ñi , ku ñu wax ne moom laa ? »
+42009020a	~		Yeesu ne leen : 
+42009020b	ku		« Yéen nag ku ngeen ne moom laa ? » Piyeer tontu ko ne : « Yaa di Almasi , bi Yàlla yónni . »
+42009025	lu		Ndaxte moom àddina sépp , lu muy jariñ nit , su fekkee ne dafay ñàkk bakkanam walla mu loru ?
+42009041a	kañ		Yeesu tontu ne : « Yéen niti jamono jii , yéen ñi gëmadi te dëng , ba kañ laa war a nekk 
+42009041b	~		ak yéen te di leen muñal ? Indil ma sa doom . »
+42010025	lan		Noonu benn xutbakat daldi jóg , ngir fexee fiir Yeesu ne ko : « Kilifa gi , lan laa war a def , ba am dund gu dul jeex ? »
+42010026a	lu		Yeesu ne ko : « Lu ñu bind ci yoonu Musaa ? 
+42010026b	lan		Lan nga ciy jàng ? »
+42010029	Kan		Waaye xutbakat ba bëggoon a am aw lay , ne Yeesu : « Kan mooy sama moroom nag ? »
+42010036a	lu		Yeesu teg ca ne : « Lu ciy sa xalaat ? 
+42010036b	kan		Kan ci ñett ñooñu moo jëfe ni kuy jëf jëme ci moroomam , ba ñu gisee nit , ka sàcc ya dogale woon ? »
+42011008	~		Maa ngi leen koy wax , su jógul jox ko li muy laaj ndax li ñu xaritoo it , ndax la kee ñàkk jom dina tax mu jox ko lépp li mu soxla .
+42011011	bu		Bu la sa doom ñaanee jën , yaw miy baayam , ndax dinga ko bañ a jox jën , jox ko jaan ?
+42011012	~		Walla mu ñaan la nen , nga jox ko jiit ?
+42011013	~		Ndegam yéen ñi bon yéena man a jox seeni gune lu baax , astemaak Baay bi nekk ci kaw dina jox Xel mu Sell mi ñi ko koy ñaan ! »
+42011018	naka		Te it bu Seytaane xeexee boppam , naka la nguuram di man a yàgge ? Damay wax loolu , ndaxte nee ngeen , damay dàq rab jaarale ko ci kàttanu Beelsebul .
+42011019	gan		Te it bu fekkee ne man damay dàq ay rab ci kàttanu Beelsebul , seeni taalibe nag ci gan kàttan lañu leen di dàqe ? Kon ñoo leen di àtte .
+42012014	kan		Yeesu tontu ko ne : « Sama waay , kan moo ma fal àttekat ci seen kaw , walla mu teg ma fi , ma di leen séddaleel seen alal ? »
+42012017	nu		muy werante ci xelam naan : “ Nu ma war a def ? Ndaxte amatuma fu ma dajale sama ngóob mi . ”
+42012020	ku		Waaye Yàlla ne ko : “ Ñàkk xel ! Guddig tey , dees na jël sa bakkan . Kon li nga dajale lépp , ku koy moom ? ”
+42012024	~		Seetleen baaxoñ yi : duñu ji , duñu góob , amuñu dencukaay , amuñu sàq , teewul Yàllaa ngi leen di dundal . Céy ni ngeen ëppe maana picc yi !
+42012025	kan		Ana kan ci yéen ci kaw njaaxleem , moo man a yokk ab waxtu ci àppam ?
+42012026	lu tax		Su fekkee lu tuuti loolu rekk mënuleen koo def , kon lu tax ngeen di jaaxle ci li ci des ?
+42012042	Kan		Boroom bi tontu ko ne : « Kan moo nekk surga bu takku te teey , bu njaatigeem teg ci waa kër gi , ngir mu leen di dundal ci jamono ji ?
+42012049	~		« Damaa ñëw ngir indi safara si ci àddina , te bëgg naa xaat taal bi tàkk .
+42012056	lu tax		Naaféq yi ngeen doon ! Man ngeen a ràññee melow asamaan ak suuf , waaye lu tax mënuleen a ràññee li jamonoy léegi ji di tekki ?
+42012057	lu tax		« Lu tax it dungeen àtteel seen bopp liy jëf ju jub ?
+42013004	~		Te fukki nit ak juróom-ñett ñooñu dee , bi taaxum kaw ma ca goxu Silowe daanoo ci seen kaw , ndax dangeen a yaakaar ne , ñoo gën a nekk ay tooñkat ñeneen ñi dëkk Yerusalem yépp ?
+42013007	Lu tax		Noonu mu ne surga ba : “ Ñetti at a ngii may ñëw di raas-si garab gii te duma ci fekk dara . Gor ko . Lu tax muy xatal tool bi ? ”
+42013015	~		Boroom bi tontu ko : « Naaféq yi ! Ndax bésu noflaay bi , kenn ku nekk ci yéen du yiwee ca gétt ga yëkkam walla mbaamam ngir wëggi ko ?
+42013018a	lan		Noonu Yeesu neeti : « Lan la nguuru Yàlla di nirool ? 
+42013018b	lan		Lan laa ko man a mengaleel ?
+42013020	Lan		Mu neeti : « Lan laa man a mengaleek nguuru Yàlla ?
+42013025	fu		Jamono dina ñëw , ju boroom kër gi di jóg , tëj buntam . Dingeen nekk ci biti di fëgg naan : “ Boroom bi , ubbil nu ! ” Dina leen tontu ne : “ Xawma fu ngeen bokk . ”
+42014005	Ku		Gannaaw loolu mu ne leen : « Ku sa doom walla sa yëkk daanu ci teen , ndax doo dem génneji ko ca saa sa , fekk sax bésub noflaay la ? »
+42014028	~		Su kenn ci yéen bëggee tabax taaxum kaw , ndax du jëkk a toog , xalaat ñaata la ko war a dikke , ngir seet ba xam ndax am na xaalis bu man a àggale liggéey bi ?
+42014031	ban		Walla boog ban buur mooy dugg ci xare ak beneen buur te jëkkul a toog , seet ba xam moom ak fukki junniy xarekat man na xeex ak kiy ñëw ak ñaar-fukki junniy xarekat ?
+42014034	nan		« Xam ngeen nag ne , xorom lu baax la , waaye bu sàppee , nan lañu koy delloo cafkaam ?
+42015004	Kan		« Kan ci yéen soo amoon téeméeri xar , te benn réer ci , nooy def ? Ndax doo bàyyi ca parlukaay ba juróom-ñeent-fukki xar ya ak juróom-ñeent , toppi ma réer , ba gis ko ?
+42015008	bu		« Te it bu jigéen dencoon fukki libidoor , benn réer ca , nu muy def ? Ndax du taal ab làmp , bale kër ga , seet fu nekk , ba gis ko ?
+42015026	lu		Mu daldi woo kenn ca surga ya nag , laaj ko lu xew .
+42015029	~		Waaye taaw ba tontu baayam ne ko : “ Seetal ñaata at laa la liggéeyal , mel ni jaam , te musumaa moy sa ndigal , waaye yaw , musuloo ma may sax tef , ngir ma bànneexu , man ak samay xarit .
+42016002	lan		Waa ja woo ko ne ko : “ Li may dégg ci yaw mooy lan ? Leeralal ma ni nga liggéeye ak sama alal , ndaxte dootoo nekkati sama bëkk-néeg . ”
+42016003	Nu		« Bëkk-néeg bi di xalaat naan : “ Nu may def nag , segam sama njaatige dafa may dàq ci liggéey bi mu ma joxoon ? Dem beyi ? Awma kàttanam . Yelwaani ? Rus naa ko .
+42016005	Ñaata		Noonu mu daldi woolu kenn ku nekk ca ña ameeloon njaatigeem bor . Ka jëkk a ñëw , mu ne ko : “ Ñaata nga ameel sama njaatige ? ”
+42016007	ñaata		Mu neeti keneen : “ Yaw nag , ñaata nga ko ameel ? ” Mu ne ko : “ Téeméeri saakuy pepp . ” Bëkk-néeg ba ne ko : “ Sa kayit a ngii . Bindal juróom-ñett-fukk . ”
+42016011	ku		Su fekkeente ne nag jubuleen ci alalu àddina , kon ku leen di dénk alal ju wóor ji ?
+42016012	ku		Te su ngeen maanduwul ci alal ji ngeen moomul , kon ku leen di jox alal ji ngeen moom ?
+42017007	Kan		« Kan ci yéen bu amoon surga bu beyi walla bu sàmmi ba ñëw , ndax dafa ko naa : “ Kaay lekk . ”
+42017017	Ana		Noonu Yeesu daldi ne : « Xanaa du fukk yépp a wér ? Ana juróom-ñeent ña nag ?
+42017018	~		Amul kenn ci ñoom ku ñëw gërëm Yàlla ku dul doxandéem bii ! »
+42017020	Kañ		Farisen yi laaj Yeesu ne ko : « Kañ la Yàlla di tëral nguuram ? » Mu tontu leen ne : « Bu Yàlla di wàcce nguuram ci nit ñi , kenn du ko man a teg bët .
+42017037	Fu		Taalibe yi ne Yeesu : « Fu loolu di xewe , Boroom bi ? » Yeesu tontu leen ne : « Fa médd nekk , la tan yiy dajee . »
+42018018	lu		Benn njiitu Yawut laaj Yeesu ne ko : « Kilifa gu baax gi , lu ma war a def , ba am wàll ci dund gu dul jeex ? »
+42018019	Lu tax		Yeesu tontu ko : « Lu tax nga wooye ma ku baax ? Yàlla rekk a baax .
+42018026	ku		Ñi doon déglu daldi ne : « Kon nag ku man a mucc ? »
+42018036	lan		Naka la gumba ga dégg mbooloo di jàll , mu laaj lan moo xew .
+42018041	Loo		« Loo bëggoon ma defal la ko ? » Mu ne ko : « Sang bi , damaa bëgg a gis . »
+42019007	~		Ñépp gis loolu , di ñurum-ñurumi naan : « Mi ngi dal cig këru boroom bàkkaar . »
+42019023	lu tax		Lu tax nag yóbbuwoo sama xaalis ca denckati xaalis ya ? Bés bu ma ñëwee nag , ma man a jot sama xaalis ak la mu jur . ”
+42019031	lu tax		Bu leen kenn laajee : “ Lu tax ngeen koy yiwi ? ” tontuleen ko : “ Boroom bi da koo soxla . ” »
+42019033	Lu tax		Bi ñuy yiwi cumbur ga nag , ay boroomam ne leen : « Lu tax ngeen di yiwi cumbur gi ? »
+42020002a	ban		« Wax nu ci ban sañ-sañ ngay defe yëf yii , 
+42020002b	kan		walla kan moo la may boobu sañ-sañ . »
+42020005a	~		Ñu waxtaan ci seen biir naan : « Bu nu nee : “ Ci Yàlla , ” dina laaj : 
+42020005b	lu tax		“ Lu tax gëmuleen ko kon ? ”
+42020013	Nan		« Boroom tool ba daldi ne : “ Nan laay def nag ? Dinaa yónni sama doom , sama reeni xol . Xëy na ñu weg ko , moom . ”
+42020015	Nu		Ñu génne ko tool bi nag , rey ko . » Noonu Yeesu laaj leen : « Nu leen boroom tool bi di def , nag ?
+42020017	lu		Waaye Yeesu ne leen jàkk , daldi ne : « Kon nag lu baat yii ci Mbind mi di tekki : “ Doj wa tabaxkat ya sànni , mujj na di doju koñ . ”
+42020023	~		Waaye Yeesu xam na seen pexe ne leen :
+42020024a	kan		« Wonleen ma posetu denariyon . Kan lañu ci def nataalam 
+42020024b	~		ak turam ? » Ñu tontu ko : « Sesaar . »
+42020033	kan		Ci ndekkite li nag , kan ci ñoom moo war a donn jigéen ja , fekk ku nekk ci juróom-ñaar ñi mas na koo takk ? »
+42020041	Lu tax		Noonu Yeesu ne leen : « Lu tax nit ñi di wax ne , Almasi bi mooy sëtu Daawuda ?
+42020044	nu		Gannaaw Daawuda nag wooye na ko “ Boroom bi , ” nu muy nekke sëtam ? »
+42021007a	kañ		Ñu laaj ko ne : « Kilifa gi , kañ la loolu di am ? 
+42021007b	luy		Te luy tegtal ne , looloo ngi waaj a xew ? »
+42022009	fan		Ñu ne ko : « Fan nga bëggoon , nu defare ko fa ? »
+42022011	Ana		te ngeen ne boroom kër ga : “ Kilifa gi nee na : Ana néegu gan , bi may lekke reeru Jéggi ba , man ak samay taalibe ? ”
+42022027	kan		Ki toog ca lekkukaay ba , moom ak surgaam , ñoom ñaar kan moo ci gën a màgg ? Xanaa du ki toog ci lekkukaay bi ? Waaye man maa ngi ci seen biir ni surga .
+42022046	Lu tax		Noonu mu ne leen : « Lu tax ngeen di nelaw ? Jógleen ñaan , ngir bañ a daanu cig fiir . »
+42022064	ku		Ñu ngi takkoon ay bëtam , di ko laaj , naan ko : « Yaw , wax nu ci kàddug Yàlla , ku la dóor ? »
+42022071	Lu		Ñu daldi ne nag : « Lu nuy doyeeti seede léegi , ndegam nun ci sunu bopp noo ko nangoo ci gémmiñam ! »
+42023022a	lu tax		Pilaat ne leen ñetteel bi yoon : « Lu tax ? 
+42023022b	gan		Gan tooñ la def ? Gisuma ci moom dara lu jar dee . Kon dinaa ko dóorlu ay yar te bàyyi ko . »
+42023031	lu		Ndaxte su ñu defee nii garab gu tooy gi , lu ñuy def garab gu wow gi ? »
+42024005	Lu tax		Jigéen ña am tiitaange ju mag , daldi dëpp seen jë ci suuf . Waaye ñu ne leen : « Lu tax ngeen di seet kiy dund ci biir néew yi ?
+42024017	Lan		Yeesu ne leen : « Lan ngeen di waxtaane nii ci yoon wi ? » Noonu ñu taxaw , seen xol jeex .
+42024019	Lu		Yeesu ne leen : « Lu fi xew ? » Ñu tontu ko ne : « Mbirum Yeesum Nasaret . Ab yonent la woon bu doon def ay jëf yu mag , di wax ay kàddu yu am doole , ci kanam nit ñi ak ca kanam Yàlla .
+42024025	~		Noonu Yeesu ne leen : « Yéen daal , yéena ñàkk xel , te seen xol yéex a gëm li yonent yi yégle woon !
+42024038a	lu tax		Waaye Yeesu ne leen : « Lu tax ngeen jaaxle , 
+42024038b	lu tax		ak lu tax ngeen di xel ñaar ci seen xol ?
+43001019	kan		Lii mooy seedes Yaxya . Amoon na bés Yawut ya yónni ay saraxalekat ca Yaxya , ñu ànd ak ñu soqikoo ci giiru Lewi . Ñu nga jóge Yerusalem , ñëw ci moom , di ko laaj mooy kan .
+43001021	kan		Ñu laaj ko ne : « Kon yaay kan ? Ndax yaa di Iliyas ? » Mu ne leen : « Déedéet , duma Iliyas . » Ñu ne ko : « Ndax yaa di Yonent , bi war a ñëw ? » Mu tontu ne leen : « Déedéet . »
+43001022a	kan		Noonu ñu laaj ko ne : « Wax nu yaay kan , ngir nu man a tontu ñi nu yónni . 
+43001022b	kan		Nga ne yaa di kan ? »
+43001025	lu tax		Ñooñu laaj ko ne : « Gannaaw doo Almasi bi , doo Iliyas , doo Yonent bi war a ñëw , lu tax ngay sóob nit ñi ci ndox ? »
+43001038a	lu		Yeesu geestu , gis ne , ñoo ngi koy topp . Mu ne leen : « Lu ngeen soxla woon ? » Ñu tontu ko : 
+43001038b	foo		« Foo dëkk , Ràbbi ? » Ràbbi mi ngi tekki « Kilifa gi . »
+43001046	~		Nataneel tontu ko ne : « Aa ! Ndax dara lu baax man na jóge Nasaret ? » Filib ne ko : « Ñëwal gis . »
+43001048	Noo		Nataneel ne ko : « Noo ma xame ? » Yeesu tontu ko ne : « Bi la Filib di laata woo , gis naa la , bi nga nekkee ca ker garabu figg ga . »
+43002004	Loo		Yeesu ne : « Soxna si , Loo ma bëggal ? Ndaxte sama waxtu jotagul . »
+43002018a	~		Noonu Yawut ya ne ko : 
+43002018b	ban		« Ban firnde nga nuy won ngir dëggal ne , am nga sañ-sañu def lii nga def ? »
+43003004	nan		Nikodem ne ko : « Nit ku xas ba màggat , nan lay man a judduwaate ? Ndax day dellu ci biiru yaayam ngir judduwaat ? »
+43003009	Nu		Ci baat yooyu Nikodem ne ko : « Nu loolu man a ame ? »
+43003012	naka		Gannaaw gëmuleen li ma leen di wax ci mbiri àddina , naka ngeen man a gëme , bu ma leen waxee ci mbiri asamaan ?
+43004009	nan		Jigéen ja tontu ko ne : « Yaw , ngay Yawut , man maay jigéen ju dëkk Samari ; nan nga ma man a ñaane ndox ? » Jigéen ja wax na loolu , ndaxte Yawut ya bokkuñu woon ak waa Samari ndab yu ñuy lekke .
+43004011	fooy		Jigéen ja ne ko : « Sang bi , teen bi xóot na te amuloo baag , kon fooy jële ndoxum dund ?
+43004027a	looy		Noonu nag taalibey Yeesu ya dellusi , gis muy wax ak ab jigéen . Ñu daldi jaaxle lool . Waaye kenn ñemewu ko woon ne : « Looy laaj ? » walla : 
+43004027b	lu tax		« Lu tax ngay wax ak moom ? »
+43005012	Ku		Ñu ne ko nag : « Ku la ne : “ Jëlal sa basaŋ te dox ? ” »
+43005044	nan		Bëgg ngeen ku leen di tagg , te wutuleen ngërëm , li jóge ci jenn Yàlla rekk ji am . Kon nan ngeen man a gëme ?
+43005047	nu		Waaye su fekkee gëmuleen li Musaa bind , kon nu ngeen man a gëme samay wax ? »
+43006005	Fu		Bi Yeesu xoolee , gis mbooloo mu réy di ñëw ci moom , mu ne Filib : « Fu nuy jële mburu , mu nu leen man a dundale ? »
+43006009	lu		« Am na fi ci mbooloo mi ab xale bu yor juróomi mburu ak ñaari jën , waaye loolu lu muy jariñ mbooloo mu tollu nii ? »
+43006025	kañ		Bi ñu fekkee Yeesu ca geneen wàllu dex ga , ñu ne ko : « Kilifa gi , kañ nga fi ñëw ? »
+43006028	Lu		Noonu ñu laaj ko ne : « Lu nu war a liggéey , ngir matal jëf yi neex Yàlla ? »
+43006030a	ban		Ñu ne ko : « Ban firnde nga nu man a won , ngir nu gëm la ? 
+43006030b	ban		Ban liggéey nga nar a def ?
+43006042	lu tax		Ñu naan : « Ndax kii du Yeesu , doomu Yuusufa ? Xam nanu ndeyam ak baayam . Kon nag lu tax léegi mu naan , mi ngi jóge asamaan ? »
+43006052	Naka		Noonu Yawut ya werante werante bu tàng ci seen biir naan : « Naka la nu waa jii man a joxe yaramam , ngir nu lekk ko ? »
+43006060	Kan		Bi ñu dégloo Yeesu ba noppi , taalibeem yu bare nee nañu : « Njàngale mii de , jafe na ! Kan moo ko man a déglu ? »
+43006062	Lan		Lan mooy am nag , bu fekkee gis ngeen Doomu nit ki dellu , yéeg fa mu jëkkoon a nekk ?
+43006068	kan		Simoŋ Piyeer ne ko : « Boroom bi , ci kan lanuy dem ? Yaa yor kàddu yiy joxe dund gu dul jeex .
+43007011	Ana		Fekk Yawut yaa nga ko doon seet ca màggal ga te naan : « Ana waa ji ? »
+43007015	Nu		Yawut ya nag jaaxle , daldi ne : « Nu waa jii def ba xam lii lépp , moom mi jàngul ? »
+43007019	lu tax		Xanaa du Musaa moo leen jox ndigali Yàlla yi ? Waaye kenn ci yéen sàmmu ko ! Lu tax ngeen bëgg maa rey ? »
+43007020	Ku		Mbooloo ma ne ko : « Xanaa dangaa am ay rab ! Ku lay wut a rey ? »
+43007023	lu tax		Bu ngeen manee xarafal nit ci bésu noflaay bi , ngir bañ a wàcc yoonu Musaa , lu tax nag ngeen mere ma , ndax li ma ci wéral nitu lëmm ?
+43007035	Fu		Yawut ya di laajante ci seen biir naan : « Fu muy dem fu nu ko dul fekk ? Mbaa du dafa nar a dem ca Yawut , ya gàddaaye ca Gereg ya , te jàngali Gereg ya ?
+43007036	Lan		Lan la baat yii mu wax di tekki : “ Dingeen ma seet waaye dungeen ma gis , ” ak : “ Dungeen man a dem fa may nekk ? ” »
+43007041	nan		Ñeneen naan : « Mooy Almasi bi . » Ña ca des it ne : « Waaye nan la Almasi bi man a jógee Galile ?
+43007045	lu tax		Bi alkaati ya delloo , saraxalekat yu mag ya ak Farisen ya laaj leen ne : « Lu tax indiwuleen ko ? »
+43007048	~		Ndax am na kenn ci saraxalekat yi walla ci Farisen yi ku ko gëm ? Déedéet .
+43007051	~		« Ndax ci sunu yoon , man nañoo daan kenn te dégluwuñu ko , mbaa ñu xam lu mu def ? »
+43008005	lu		Ci ndigali Yàlla yi , jigéen ju njaaloo , Musaa dafa santaane ñu sànni ko ay xeer , ba mu dee . Yaw nag , lu ciy sa xalaat ? »
+43008010	ana		Mu daldi siggi ne ko : « Jigéen ji , ana ñi la doon jiiñ njaaloo ? Ndax kenn tegu la tooñ ? »
+43008019	Kuy		Ñu laaj ko ne : « Kuy sa baay ? » Yeesu tontu ne : « Xamuleen ma , xamuleen sama Baay . Bu ngeen ma xamoon , xam ko . »
+43008025a	kan		Ñu ne ko : « Yaay kan ? » 
+43008025b	~		Mu ne leen : « Li ma leen waxoon ca njàlbéen ga .
+43008033	Nan		Ñu tontu ko ne : « Nun ci Ibraayma lanu soqikoo te musunoo nekk jaamu kenn . Nan nga nu man a waxe ne , dinañu leen goreel ? »
+43008043	Lu tax		Lu tax dégguleen li ma leen wax ? Li ko waral moo di mënuleen koo déglu .
+43008046a	kan		Kan ci yéen moo man a seede ne , bàkkaar naa ? 
+43008046b	lu tax		Su ma waxee dëgg nag , lu tax dungeen ma gëm ?
+43008053	loo		Sunu baay Ibraayma faatu na ; mbaa du dangaa defe ne , yaa ko gën a màgg ? Yonent yi itam faatu nañu . Waaw , loo teg sa bopp ? »
+43008057	~		Yawut ya ne ko : « Amaguloo juróom-fukki at , ba noppi naan gis nga Ibraayma ? »
+43009002	lu tax		Taalibeem ya laaj ko ne : « Kilifa gi , lu tax waa jii judduwaale gumba ? Ndax bàkkaaram a ko waral , walla bu waajuram ? »
+43009010	Lu		Ñu ne ko : « Lu ubbi say bët ? »
+43009012	Ana		Ñu ne ko : « Ana waa ji ? » Mu ne leen : « Xawma fu mu nekk . »
+43009016	Nan		Ci noonu am ca Farisen ya ñu naan : « Ki def lii , mënul a jóge ca Yàlla , ndaxte toppul ndigalu bésu noflaay bi . » Ñeneen it di wax ne : « Nan la boroom bàkkaar man a wonee yii firnde ? » Noonu ñu daldi féewaloo ci seen biir .
+43009017	loo		Farisen ya laajaat ka gumba woon ne ko : « Yaw , loo wax ci moom ? Yaw de la ubbil say bët . » Mu ne leen : « Yonent la . »
+43009019	fu		laaj leen ne : « Ndax kii mooy seen doom , ji ngeen ne , gumba judduwaale la ? Kon fu mu jaar , bay gis léegi ? »
+43009026a	lu		Ñu laaj ko ne : « Lu mu la def ? 
+43009026b	nu		Nu mu la ubbile say bët ? »
+43009027	Lu		Mu ne leen : « Wax naa leen ko ba noppi , waaye dégluwuleen ma . Lu ngeen bëgg ci ma di ko wax , di waxaat ? Xanaa dangeen a bëgg a nekk yéen itam ay taalibeem ? »
+43009034	~		Ñu tontu ko ne : « Yaw , ci biir bàkkaar nga juddoo , ba noppi di nu jàngal ? » Noonu ñu dàq ko ca jàngu ba .
+43009036	kan		Waa ja ne ko : « Wax ma mooy kan , Sang bi , ba ma man koo gëm . »
+43010020	Lu tax		Ñu bare ca ñoom naan : « Dafa ànd ak rab ! Dafa dof ! Lu tax ngeen koy déglu ? »
+43010021	~		Waaye ñeneen naan : « Nit ku am ay rab du waxe nii . Ndax rab man na ubbi bëti gumba ? »
+43010024	Kañ		Yawut ya wër ko ne ko : « Kañ nga nuy dindi ci kumpa ? Boo dee Almasi bi , wax ko mu leer . »
+43010032	Ban		Noonu Yeesu ne leen : « Def naa ci seen kanam jëf yu baax yu bare ci ndigalu Baay bi . Ban ci jëf yooyu moo tax ba ngeen bëgg maa sànni ay doj ? »
+43010036	nu		Kon nu ngeen man a waxe ne , damay suufeel turu Yàlla ndax li ma ne Doomam laa , man mi Yàlla tànn , yónni ma ci àddina ?
+43011034	Fu		Mu ne leen : « Fu ngeen ko denc ? » Ñu tontu ko ne : « Kaay gis , Sang bi . »
+43011047	Lu		Farisen ya ak saraxalekat yu mag ya woo kureelu àttekat ya ne : « Nit kii kat , kéemaan yi muy def a ngi bëgg a bare . Lu nuy def nag ?
+43011056	Lu		Ñu ngi doon wut Yeesu tey waxante ca kër Yàlla ga naan : « Lu ngeen ci xam ? Ndax dina ñëw ci màggal gi walla déet ? »
+43012005	Lu tax		« Lu tax jaayewuñu latkoloñ jii peyu atum lëmm , jox ko miskin yi ? »
+43012027	Lu		« Léegi nag damaa jàq . Lu may war a wax ? Mbaa du dama naan : “ Baay , musal ma ci li nar a xew waxtu wiy ñëw ? ” Déedéet , ñëw naa sax ngir jaar ci waxtu woowu .
+43012034a	nan		Mbooloo ma tontu ko ne : « Jàng nanu ci sunu téereb yoon ne , Almasi bi dina sax ba fàww . Kon yaw , nan nga man a waxe ne , “ Doomu nit ki dina yékkatiku ? ” 
+43012034b	kuy		Kuy Doomu nit kooku ? »
+43012038a	ku		ngir li yonent Yàlla Esayi waxoon am : « Boroom bi , ana ku gëm sunu waare ? 
+43012038b	kan		Kan la Boroom bi won dooleem ? »
+43013025	kan		Taalibe ba daldi walbatiku ca Yeesu , laaj ko ne : « Boroom bi , kooku kan la ? »
+43013036	foo		Simoŋ Piyeer laaj ko ne : « Boroom bi , foo jëm ? » Yeesu ne ko : « Fa ma jëm , mënuloo ma faa topp léegi , waaye dinga ma toppi ca kanam . »
+43013037	lu tax		Piyeer ne ko : « Boroom bi , lu tax mënuma laa topp léegi ? Àttan naa joxe sama bakkan ngir yaw ! »
+43014002	~		Am na néeg yu bare ca sama kër Baay , bu dul woon noonu , ma wax leen ko , ndaxte maa ngi dem defaral leen fa ngeen di dëkk .
+43014005	nan		Tomaa ne ko : « Boroom bi , xamunu fa nga jëm . Kon nan lanuy man a xame yoon wi ? »
+43014009	nan		Yeesu tontu ko ne : « Ni ma yàggeek yéen te ba tey Filib , xamuloo ma ? Ku ma gis , gis nga Baay bi . Kon nag nan ngay man a laaje naan : “ Won nu Baay bi ” ?
+43014022	lu		Yudaa -- du Yudaa Iskariyo de , beneen la woon — ne ko : « Boroom bi , lu xew , ba nga nar noo feeñu nun rekk , te doo feeñu àddina sépp ? »
+43016005	~		« Léegi nag maa ngi dem ca ka ma yónni , te kenn ci yéen laaju ma fi ma jëm .
+43016017	Lu		Loolu Yeesu wax , tax na ba am ca taalibe ya , ñu waxante ne : « Lu muy wax nii : “ Ci kanam tuuti dungeen ma gisati ; bu ñu ci tegee ab diir , ngeen gisaat ma , ” ak naan : “ Ndaxte maa ngi dem ca Baay ba ” ? »
+43016018	lu		Ñu ne : « “ Teg cab diir , ” lu muy tekki ? Xamunu li muy bëgg a wax . »
+43018004	Ku		Noonu Yeesu , mi xamoon li ko waroon a dal lépp , jubsi leen ne leen : « Ku ngeen di seet ? »
+43018007	Ku		Yeesu laajaat leen ne : « Ku ngeen di seet ? » Ñu ne ko : « Yeesum Nasaret . »
+43018011	~		Waaye Yeesu ne Piyeer : « Roofal jaasi ji ci mbaram . Ndax warumaa naan kaasu naqar , bi ma Baay bi sédd ? »
+43018021	Lu tax		Lu tax nga may laaj ? Laajal ñi doon déglu li ma leen wax . Ñoom xam nañu li ma doon wax . »
+43018023	lu tax		Yeesu tontu ko ne : « Su ma waxee lu jaaduwul , wone ko ; waaye su ma waxee lu jub , lu tax nga may dóor ? »
+43018029	Lu		Looloo tax Pilaat boroom réew ma génn , dajeek ñoom . Mu laaj leen ne : « Lu ngeen di jiiñ waa jii ? »
+43018035	Lan		Pilaat ne ko : « Mbaa xalaatoo ne , man Yawut laa ? Sa xeet ak saraxalekat yu mag yi ñoo ma la jébbal . Lan nga def ? »
+43018038	Luy		Pilaat laaj ko ne : « Luy dëgg ? » Bi mu waxee loolu ba noppi , Pilaat daldi génnaat , jëm ca Yawut ya ne leen : « Gisuma ci moom genn tooñ .
+43019009	Foo		dugg ca taax ma , daldi ne Yeesu : « Foo jóge ? » Waaye Yeesu tontuwu ko .
+43019015	~		Waaye ñuy yuuxoo naan : « Na dee ! Na dee ! Daaj ko ci bant ! » Pilaat ne leen : « Ndax seen buur bi , dama koo war a daaj ci bant ? » Saraxalekat yu mag ya ne ko : « Amunu benn buur bu dul Sesaar ! »
+43020013	looy		Malaaka ya laaj ko ne : « Jigéen ji , looy jooy ? » Mu tontu leen ne : « Dañoo jël sama Boroom , te xawma fu ñu ko yóbbu . »
+43020015a	looy		Yeesu laaj ko ne : « Jigéen ji , looy jooy ? 
+43020015b	kooy		Kooy seet ? » Mu foog ne boroom tool ba la , ne ko : « Sëriñ bi , bu fekkee yaa ko yóbbu , wax ma foo ko denc , ma jëli ko . »
+43021012	koo		Yeesu ne leen : « Ñëwleen ndékki . » Kenn ci taalibe yi ñemewu koo laaj ki mu doon , ndaxte xam nañu ne , Boroom bi la .
+43021020	kan		Piyeer geestu , gis taalibe bi Yeesu bëggoon , di ñëw ci seen gannaaw . Taalibe boobu mooy ki sóonu woon ca Yeesu , ba ñuy lekk , te laajoon ko ne : « Boroom bi , kan moo lay wori ? »
+43021021	nu		Piyeer gis ko , daldi ne Yeesu : « Kii nag , Boroom bi , nu muy mujje ? »
+43021022	lu		Yeesu ne ko : « Su ma neexoon mu dund , ba ma dellusi , lu ciy sa yoon ? Yaw toppal ci man . »
+43021023	lu		Noonu am , ci bokki taalibe yi , ñu xalaat ne , taalibe boobu du dee . Moona Yeesu musul ne Piyeer , du dee ; waaye li mu wax mooy : « Su ma neexoon mu dund , ba ma dellusi , lu ciy sa yoon ? »
+44001011	lu tax		Ñu ne leen : « Yéen waa Galile , lu tax ngeen taxaw , di xool ci asamaan ? Yeesu male ñu jële ci seen biir , yéege ko asamaan , dina dellusi ni ngeen ko gise , muy dem asamaan . »
+44002008	Naka		Naka la man a ame nag , nu di leen dégg , kenn ku nekk ci nun , ñuy wax ci sa làmmiñ , wi nga nàmp ?
+44002012	lu		Noonu ñépp waaru , ba jaaxle lool , ñuy waxante ci seen biir ne : « Lii lu muy tekki ? »
+44002037	lu		Bi ko mbooloo ma déggee , naqaru xol wu metti jàpp leen ; ñu daldi ne Piyeer ak ndaw ya ca des : « Bokk yi , lu nu war a def ? »
+44003012a	lu tax		Bi Piyeer gisee loolu nag , mu ne mbooloo mi : « Yéen waa Israyil , lu tax ngeen waaru ci lii ? 
+44003012b	lu tax		Lu tax ngeen di nu xool jàkk , mel ni ci sunu kàttan , mbaa ci sunu ragal Yàlla lanu doxloo kii ?
+44004007a	~		Ñu dëj Piyeer ak Yowaana ca digg ba , laaj leen ne : 
+44004007b	gan		« Lii ngeen def , ci gan kàttan , 
+44004007c	kan		mbaa ci turu kan , ngeen ko defe ? »
+44004016	Lu		ne : « Lu nuy def ak ñii ? Ndaxte def nañu kéemaan gu siiw ; loolu leer na ñi dëkk Yerusalem ñépp , te mënunu koo weddi .
+44004025a	lu tax		Yaa wax , jaar ci sunu maam Daawuda sa jaam , mi doon gémmiñu Xel mu Sell mi , ne : “ Lu tax xeeti àddina di bax ? 
+44004025b	lu tax		Lu tax ñuy fexe lu mënul a am ?
+44005003	lu tax		Bi mu ko defee Piyeer ne ko : « Anañas , lu tax nga bàyyi Seytaane dugg la , ba fees sa xol , ngay wor Xel mu Sell mi , ci li nga dencal sa bopp benn cér ci njëg gi ?
+44005004	lu tax		Bi mu jaragul , ndax moomuloo ko woon ? Te bi mu jaree , ndax yilifuloo woon njëg gi ? Lu tax nga fas ci sa xol def nii ? Woruloo nit ñi , waaye Yàlla nga wor . »
+44005009	Lu tax		Ci kaw loolu Piyeer ne ko : « Lu tax ngeen ànd , di diiŋat Xelu Boroom bi ? Ñi denci woon sa jëkkër ñu ngi nii ci bunt bi , te dinañu la yóbbu . »
+44007026	lu tax		Ca ëllëg sa mu juux ci ay Yawut yuy xeex , mu di leen jéem a jubale ne leen : “ Yéen ay bokk ngeen , lu tax ngeen di xeex ? ”
+44007027	Ku		Waaye kiy néewal doole moroomam bëmëx ko ne : “ Ku la teg kilifa ak àttekat ci sunu kaw ?
+44007035	Ku		« Musaa moomu bañoon nañu ko , ba ne ko : “ Ku la teg kilifa ak àttekat ? ” Waaye moom la Yàlla yebal , jaarale ko ci malaaka mi ko feeñu ca ngarab sa , ngir mu nekk kilifa gu leen di goreel .
+44007049a	gan		“ Asamaan mooy sama jal , te suuf mooy sama tegukaayu tànk . Kon gan kër ngeen may tabaxal , 
+44007049b	fan		mbaa fan mooy sama bérabu noppalukaay ?
+44007052	Kan		Kan ca yonent ya la seeni maam tegul woon ay fitna ? Rey nañu ñi doon yégle ñëwug Aji Jub ji , moom mi ngeen jébbale léegi , ba ñu rey ko .
+44008031	Nu		Mu tontu ko ne : « Nu ma ko man a xame , su ma ko kenn firilul ? » Mu woo Filib nag , mu yéeg , toog ak moom .
+44008033	ku		Ci toroxteem nangu nañu dëggam ; ñi mu tollool jamono , ku ci xalaat lii ? Jële nañu bakkanam ci àddina . »
+44008034	kan		Jaraaf ja nag ne Filib : « Maa ngi lay laaj , ci mbirum kan la yonent bi jëmale wax ji ? Ndax mbirum boppam lay wax mbaa mu keneen ? »
+44008036	lu tere		Bi ñuy jaar ci yoon wi , ñu agsi ci ndox . Jaraaf ja ne ko : « Ndox a ngi nii , ana lu tere , nga sóob ma ci ? »
+44009004	lu tax		Mu daanu ci suuf , dégg baat bu ko ne : « Sool , Sool , lu tax nga di ma fitnaal ? »
+44009005	kan		Mu wuyu ne : « Yaay kan Boroom bi ? » Boroom bi ne ko : « Maay Yeesu , mi ngay fitnaal .
+44009006	la		Waaye jógal , dugg ca dëkk ba , te dinañu la wax li nga war a def . »
+44010004	lu		Noonu Korney ne ko jàkk , daldi tiit ne ko : « Kilifa gi , lu mu doon ? » Malaaka ma ne ko : « Say ñaan ak say sarax yéeg na fa kanam Yàlla , te nangul na la .
+44010021	lu		Piyeer wàcc nag ne nit ñi : « Maa ngi nii , man mi ngeen di wut ; lu doon seeni tànk ? »
+44010029	lu		Looloo tax , bi ngeen ma wooloo , ñëw naa ci lu àndul ak werante . Maa ngi leen di laaj nag , lu ngeen may doye ? »
+44010047	~		Booba Piyeer daldi wax ne : « Ñii jot Xel mu Sell mi ni nun , ndax manees na leen a bañ a sóob ci ndox ? »
+44011017a	kan		Gannaaw nag Yàlla jagleel na leen may , gi mu nu mayoon , bi nu gëmee Yeesu Kirist Boroom bi , man maay kan , 
+44011017b	~		bay tebbi àtteb Yàlla ? »
+44012018	ana		Bi bët setee nag , yengu-yengu bu réy am na ca xarekat ya , ñu ne : « Ana Piyeer ? »
+44013025	ku		Te ba Yaxyay jeexal sasam , mu ne : “ Ku ngeen may teg ? Duma Ki war a ñëw ; waaye am na kuy ñëw sama gannaaw , koo xam ne kii yeyoowumaa tekki ay dàllam . ”
+44014015	lu		« Yéen nit ñi , lu leen xiir ci lii ? Nun it ay nit lanu , ñu bokk bind ak yéen . Te nu ngi leen di xamal xebaar bu baax ne leen , ngeen dëddu yëfi neen yii te woññiku ci Yàlla miy dund te sàkk asamaan , suuf , géej ak li ñu ëmb lépp .
+44015010	lu tax		Léegi nag lu tax ngeen di diiŋat Yàlla , ciy teg taalibe yi yen bu nu musul a àttan , nun mbaa sunuy maam ?
+44016030	lu		Mu génne leen ci biti ne leen : « Kilifa yi , lu ma war a def , ba mucc ? »
+44017018	lu		Noonu ay boroom xam-xam ci mbooloo mi ñuy wax Epikuren ak ci mbooloo mi ñuy wax Estowisen , di werante ak moom . Ñenn ci ñoom ne : « Fortukatu xam-xam bii , lu mu bëgg a wax ? » Te ña ca des , bi ñu déggee Pool di waare xebaar bu baax bi , aju ci Yeesu ak ci mbirum ndekkite , ñu ne : « Dafa mel ni , day waare ay yàlla yu nu xamul . »
+44017019	~		Kon nag ñu jël ko , yóbbu ko ca géew , ba ñuy wax Areyopas . Ñu ne ko : « Danoo bëggoon , nga leeral nu ci sa xam-xam bu bees , bii ngay yégle .
+44019003	lu		Mu ne leen : « Kon nag , bi ñu leen sóobee ci ndox , lu ciy maana ? » Ñu tontu ko : « Xanaa li Yaxya tëral . »
+44019015	ñan		Waaye bi ñu ko defee rab wa tontu leen ne : « Xam naa Yeesu , xam naa it kuy Pool , waaye yéenay ñan ? »
+44019035	ku		Gannaaw loolu boroom dëkk ba dalal mbooloo ma ne leen : « Yéen waa Efes , ana ku xamul ne , dëkku Efes moo di wottukaayu màggalukaayu Artemis ak nataalam , bi wàcce asamaan ?
+44021013a	lu		Ci kaw loolu Pool tontu ne : « Lu ngeen di jooy , 
+44021013b	~		di yàq sama xol ? Bañuma ñu yeew ma rekk , waaye nangu naa sax , ñu rey ma ci Yerusalem ngir turu Yeesu Boroom bi . »
+44021022	Lu		Lu nu ci war a def nag ? Ndaxte ci lu wér dinañu xam ne , ñëw nga .
+44021033a	ku		Noonu kilifa ga jegesi jàpp ko , santaane ñu jéng ko ak ñaari càllala . Bi ñu ko defee mu laaj ku mu doon 
+44021033b	lu		ak lu mu def .
+44022007	lu tax		Ma daldi ne nërëm ci suuf , dégg baat bu ma ne : “ Sool , Sool , lu tax nga di ma fitnaal ? ”
+44022008	kan		Ma tontu ko : “ Yaa di kan , Boroom bi ? ” Mu ne ma : “ Maa di Yeesum Nasaret , mi ngay fitnaal . ”
+44022010	Lu		Noonu ma laaj ko : “ Lu ma war a def , Boroom bi ? ” Boroom bi ne ma : “ Jógal dem Damas , foofa dees na la biral lépp , li ma la yen . ”
+44022016	looy		Léegi nag , looy nég ? Jógal , ñu sóob la ci ndox , nga set ci say bàkkaar ci tudd turu Yeesu . ”
+44022026	~		Bi ko njiit la déggee , mu fekki kilifaam , yégal ko ko ; mu ne ko : « Ndax xam nga li ngay def ? Nit kale jaambur la ci Room . »
+44023003	~		Pool ne ko : « Yàlla dina la dóor , yaw mi naaféq , bay samandaay miir bu joy bu ñu weexal . Yaa ngi toog di ma àtte , ci li yoon wi digle , ba noppi santaane ñu dóor ma , ci li yoon wi tere ! »
+44023009	~		Ci kaw loolu nag coow lu bare daldi jib . Ñenn ca xutbakat , ya bokk ca Farisen ya , ne bërét , daldi xuloo bu metti ne : « Gisunu dara lu bon ci nit kii . Su fekkeente ne , rab a ko wax mbaa malaaka . . . ? »
+44023019	Loo		Noonu kilifa ga jàpp ci loxob waxambaane wa , wéetoo ak moom , laaj ko : « Loo ma bëgg a yégal ? »
+44026008	lu tax		Lu tax seen xel dàq ne , Yàlla dina dekkal ñi dee ?
+44026014	lu tax		Nu ne nërëm ci suuf , ma dégg baat bu ma wax ci làkku yawut ne : “ Sool , Sool , lu tax nga di ma fitnaal ? Ngay bëre ak man ni fas wuy woŋŋeetu ku koy jam dëgël , metti na ci yaw . ”
+44026015	kan		« Noonu ma tontu ko : “ Yaa di kan , Boroom bi ? ” Boroom bi ne ma : “ Maa di Yeesu , mi ngay fitnaal .
+45002017	~		Maa ngi ñëw nag ci yaw mi ne Yawut nga ; yaa ngi sukkandiku ci yoonu Musaa ak di damu ci Yàlla .
+45002021	~		Kon nag yaw miy jàngal say moroom , xanaa doo jàngal sa bopp ? Yaw miy waare di tere sàcc , mbaa doo sàcc yaw itam ? Yaw miy tere njaaloo , mbaa doo njaaloo ?
+45002028	~		Juddu nekk Yawut taxul sag Yawut dëggu , te xaraf ci saw yaram taxul sa xaraf wóor .
+45003001a	lan		Yawut bi nag , ci lan la rawe ku dul Yawut ? 
+45003001b	lu		Te xaraf lu muy njariñ ?
+45003003	~		Bu fekkee ne am na ci ñoom ñu ñàkk kóllëre , ndax loolu man na fanq kóllëreg Yàlla ?
+45003005	lu		Su fekkee nag njubadig nit dina feeñal njubteg Yàlla , lu ciy seen xalaat ? Wax ji may bëgg a wax nag léegi , waxi nit rekk la , maanaam : ndax kon Yàlla àttewul yoon ci li muy daan ku jubadi ?
+45003006	naka		Mukk ! Ndax su Yàlla jubadi woon , naka lay àttee àddina si ?
+45003007a	~		Waaye nag xanaa dina am ku tontu ci loolu ne : « Su fekkee sama ñàkk kóllëre gën na yékkati kóllëreg Yàlla , di yokk it ndamam , 
+45003007b	lu tax		lu tax kon Yàlla di ma teg ba tey bàkkaarkat , ba di ma àtte ? »
+45003008	lu tax		Lu tax mënunoo wax ne : « Nanu def lu bon , ngir lu baax génn ca ? » Am na sax ñu nuy tuumaal , di wax ne , noonu lanuy waaree . Waaye ñiy wax loolu , ndaan gi ñu yelloo dina leen dal .
+45003009	lu		Kon nag lu nu ci war a wax ? Nun Yawut yi , ndax noo gën ñi ci des ? Mukk ! Ndaxte wone nanu ne , nit ñépp ñu ngi ci nootaangeg bàkkaar , muy Yawut yi mbaa Gereg yi .
+45003027a	kan		Kan a man a bàkku nag ci kanam Yàlla ? Kenn ! 
+45003027b	lu		Lu ko waral nag ? 
+45003027c	~		Xanaa sàmm yoon ? Déedéet ! Ngëm rekk .
+45004001	nu		Sunu maam Ibraayma , mi nu soqikoo ; nu mbiram tëdde ?
+45004003	Lan		Lan la Mbind mi wax ci loolu ? Nee na : « Ibraayma gëm na Yàlla , te Yàlla jàppe ngëmam ni njub . »
+45004010	Kañ		Kañ la ko jagleel njub nag ? Ndax lu jiitu xarafam la woon , am gannaaw ga ? Lu ko jiitu la woon .
+45005010	~		Nun ay bañaaley Yàlla lanu woon , waaye Doomam dee na , ngir jubale nu ak moom . Gannaaw léegi nag xariti Yàlla lanu , rawatina ne dinanu mucc ndax dundug Doomam .
+45005021	~		Ba tax , ni bàkkaar doon yilife ñépp ni buur , indaale dee , noonu itam la yiwu Yàlla faloo ni buur , jóge ci njub , jëm ci dund gu dul jeex . Te loolu lépp darajay Yeesu Kirist sunu Boroom moo nu ko may .
+45006001	Lu		Lu nu war a wax léegi nag ? Xanaa nu sax ci bàkkaar , ngir yiwu Yàlla gën a bare ?
+45006002	naka		Mukk ! Nun ñi dee , ba rëcc ci kàttanu bàkkaar , naka lanu manatee sax ci di ko def ?
+45006015	Lan		Lan lanu war a wax nag léegi ? Gannaaw génn nanu ci yoonu Musaa , dugg ci yiwu Yàlla , ndax danoo war a sax ci def bàkkaar ? Mukk !
+45006021	Ban		Ban njariñ ngeen ci jële nag ? Dara lu dul gàcce , ndaxte ci dee la leen doon jëmale .
+45007007	lu		Kon nag lu nu war a wax ? Ndax bàkkaar ci yoonu Musaa la jóge ? Mukk ! Waaye moo ma xamal luy bàkkaar . Ndaxte su ma yoon wi waxul woon : « Bul bëgg yëfi jaambur , » kon duma xam luy xemmem .
+45007024	ku		Céy maaka torox ! Ana ku may musal ci sama yaram , wii may jëme ci dee ?
+45008024	noo		Ndaxte sunu mucc ëmb na yaakaar . Li nga gis ba noppi , nekkatul yaakaar ; li teew , noo koy yaakaare ?
+45008031a	lu		Lu nu war a wax nag ci loolu lépp ? 
+45008031b	kan		Gannaaw Yàlla ànd na ak nun , kan moo nu manal dara ?
+45008032	nu		Yàlla mi nu gàntulul Doomam waaye mu joxe ko , mu dee ngir nun , ndax dina nu bañalati dara ?
+45008033	kan		Ñi Yàlla tànnal boppam , kan moo leen di tuumaal ? Yàlla moo leen àtte ni ñu jub .
+45008034	Kan		Kan moo leen man a teg tooñ ? Yeesu Kirist mi dee , moo dekki itam , te mu nga fa ndeyjoorul Yàlla , di nu fa ñaanal !
+45008035	Kan		Kan moo nu man a tàggaleek mbëggeelu Kirist ? Xanaa duy nattu , te du njàqare , du it fitna , du xiif walla rafle , du it ay ngaañ walla jaasi sax .
+45009014	lu		Kon lu nu ci war a wax ? Ndax Yàlla àttewul foofu yoon nag ? Mukk !
+45009019a	lu tax		Waaye xanaa dina am ku may wax ne : « Gannaaw kenn mënul a bañ coobareg Yàlla , lu tax kon muy teg nit tooñ ? »
+45009019b	~		
+45009020a	koo		Yaw nag nit ki , ak koo man a doon , l
+45009020b	lu tax		lu tax ngay werante ak Yàlla ? Ndax mbindeef dina laaj ki ko bind : 
+45009020c	lu tax		« Lu tax nga binde ma nii ? »
+45009021	~		Ndax tabaxkatu ndaa sañul a fab banam , tabax ci ñaari ndaa , benn bi ngir soxla yu am maana , bi ci des ngir soxla yu ndaw ?
+45009022	~		Kon nag looy wax ci lii : Yàlla bëggoon na wone meram , xamle it dooleem ci àddina ; teewul dafa sax ci muñal ñi yelloo meram te taxaw ci sànku .
+45009023	~		Bëggoon na it xamle màggaayam mu ëpp xel , ci boole ñi mu yërëm ci ndamam ; moo tax mu tànn leen ca njàlbéen .
+45009024	~		Te wax ji noo ko moom , nun ñi Yàlla woo ci boppam ci biir Yawut yi ak ci biir xeet yi ci des .
+45009030	Lu		Lu nu ci war a wax nag ? Ñi dul Yawut te fonkuñu woon jub ci kanam Yàlla , léegi jub nañu ci kaw ngëm .
+45009032	lan		Ndax lan ? Ndax dañoo sukkandiku ci seeni jëf , bàyyi ngëm . Dañoo daanu ci « doj wuy fakkatale . »
+45010006	Kuy		Waaye ku jub ci kanam Yàlla ci kaw ngëm , nii lay waxe : « Bul wax ci sa xol ne : “ Kuy yéeg ci kaw ? ” » mel ni dangaa bëgg Kirist wàcc .
+45010007	Kuy		« Bul wax it : “ Kuy dem ca barsàq ? ” » mel ni dangaa bëgg Kirist dekki .
+45010008	lan		Kon boog lan lay wax ? Lii : « Waxu Yàlla mi ngi ci sa wet , ci sa làmmiñ , ci sa xol . » Te wax jooju lal ngëm lanuy waare .
+45010014a	nan		Waaye nan lañuy wooye ki ñu gëmagul ? 
+45010014b	naka		Te naka lañu man a gëme ki ñu déggagul turam ? 
+45010014c	naka		Te naka lañu man a dégge turam , te kenn xamalu leen ko ?
+45010015	nan		Te it nan lañu man a waaree , su leen kenn yónniwul ? Looloo tax Mbind mi wax ne : « Ñiy yégle xebaar bu baax bi , ni seen ñëw di sedde xol ! »
+45010016	ku		Waaye ñépp nanguwuñu xebaar bu baax bi ; moom la Esayi wax ne : « Boroom bi , ana ku gëm sunu waare ? »
+45011004	la		Waaye lii la ko Yàlla tontu : « Dencal naa sama bopp juróom-ñaari junniy nit , ñi jaamuwul Baal . »
+45011007	lu		Kon lu nu ci war a wax ? Li bànni Israyil doon wut , gisuñu ko . Waaye ñi Yàlla tànn rekk a ko gis , te ña ca des bañ a gëm , ba seen xol dërkiis .
+45011015	~		Ndaxte bi Yàlla génnee Israyil , ubbee na noonu bunt , ngir xeeti àddina juboo ak moom ; kon su Yàlla dugalaatee Israyil , ndax du mel ni ndekkitel néew ya ?
+45011018	~		Kon nag bul bàkku , di xeeb car yooyu Yàlla fàq . Waaye soo bëggee bàkku , xamal ne , reen moo lay yenu , te du yaw miy car yaa koy yenu .
+45011033a	kan		Xelum Yàlla ni mu xóote , ak xam-xamam ni mu baree , ba raw xelum nit ! Kan moo muus , ba xam dogalam ? 
+45011033b	~		Walla nga am xel , ba nànd ay jëfam ?
+45011034a	ku		Mbind mi dafa ne : « Ana ku xam xalaatu Boroom bi ? 
+45011034b	ku		Ku ko doon digal ? »
+45011035	Ku		Te it : « Ku ko mas a jox dara , ba mu war laa delloo ? »
+45014004	Koo		Koo teg sa bopp , ba di ko teg tooñ ? Jaamu jaambur la ! Mu taxaw ci liggéeyam , mbaa mu sàggane ko , moom ak sangam la . Waaye dina jub , ndax Boroom bi am na dooley taxawal ko ci njub .
+45014010a	lu tax		Yaw nag lu tax ngay teg sa moroom tooñ ? 
+45014010b	lu tax		Lu tax nga koy xeeb ? Xanaa nun ñépp , danu dul dajeji fa kanam Yàlla , ngir mu layoo ak nun ?
+46001020a	ana		Ana boroom xam-xam bi ? 
+46001020b	ana		Ana kaaŋ mi ? 
+46001020c	ana		Ana boroom làmmiñ wu neex , wi ci àddina sii ? Xanaa Yàlla wonewul ne , xam-xamu àddina si ag ndof la ?
+46002011	Kan		Kan ci nit ñi moo xam yëfi nit ? Xanaa xelum nit mi nekk ci moom rekk a ko xam . Noonu it kenn xamul yëfi Yàlla , ku dul Xelum Yàlla .
+46002016a	ku		Ndaxte Mbind mi nee na : « Ana ku xam xalaatu Boroom bi ? 
+46002016b	ku		Ku ko doon digal ? » Waaye nun am nanu xalaatu Kirist .
+46003005a	kuy		Kuy Apolos ? 
+46003005b	kuy		ak kuy Pool ? Nun ay surga rekk lanu , yu ngeen jaare , ba gëm . Te Boroom bi moo sas ku nekk liggéeyam .
+46004007a	ku		Ndaxte yaw , ku la def , ba nga gën a màgg ñi ci des ? 
+46004007b	loo		Loo am lu ñu la mayul ? 
+46004007c	lu tax		Te bu ñu la ko mayee , lu tax nga di ci tiitaru , mel ni mayuñu la ko ?
+46004021	Lu		Lu leen gënal ? Ma ñëw ci yéen , yor ab yar , walla ma ànd ak mbëggeel , te lewet ?
+46005002	~		Moona yéen de , yéena ngi tiitaru . Waaye dangeen a waroon a am naqar , ba dàq kiy def loolu ci seen biir !
+46005012	~		Ndax man maa war a àtte ñi bokkul ci mbooloom ñi gëm Kirist ? Déedéet ! Waaye ñi bokk ci seen mbooloo yéena leen war a àtte .
+46006001	lu tax		Te it bu kenn ci yéen amee lëj-lëj digganteem ak mbokku taalibeem , lu tax muy dem ca àttekaayi ñi xamul Yàlla , te bañ a dem ca gaayi Yàlla yi , ñu àtte ko ?
+46006003	~		Xanaa xamuleen ne , nooy àtteji malaaka yi ? waxatumaak mbiri àddina sii .
+46006004	~		Bu ngeen amee ay lëj-lëj yu mel noonu , dangeen di wuti ay àttekat ci ay nit , ñi amul wenn yoon ci mbooloom ñi gëm !
+46006007a	lu tax		Layoo bi sax wone na ne , bàyyi ngeen seen warugar . Lu tax muñuleen sax tooñ , yi ñu leen di tooñ ? 
+46006007b	lu tax		Lu tax far nanguwuleen , ñu sàcc leen ?
+46006009	~		Xanaa xamuleen ne , ñi jubadi duñu bokk ci nguuru Yàlla ? Bu leen ci kenn nax : ñiy doxaan walla xërëmkat yi ak njaalookat yi ak góor-jigéen ñi ak ñi ko nangu ,
+46006016	kuy		Xanaa xamuleen ne , kuy ànd ak jigéen juy moy dafay booloo ak moom , nekk benn ? Ndaxte Mbind mi nee na : « Ñoom ñaar dinañu doon benn . »
+46006019	~		Xanaa xamuleen ne , seen yaram mooy kër Yàlla gi ? Gannaaw Xel mu Sell maa ngi ci yéen , te Yàllaa leen ko may , kon moomuleen seen bopp ,
+46007016a	loo		Loo ci xam , yaw jigéen ji , ndax dinga gëmloo sa jëkkër Musalkat bi walla déet ? 
+46007016b	loo		Loo ci xam yaw jëkkër ji it , ndax dinga gëmloo sa jabar Musalkat bi walla déet ?
+46009007a	kan		Kan moo mas a solu soldaar ci pexey boppam ? 
+46009007b	kan		Kan mooy bey tool te du ci jariñu ? 
+46009007c	kan		Walla kan mooy sàmm jur te du naan ca soow ma ?
+46009018	lan		Kon nag lan mooy sama yool ? Xanaa di yégle xebaar bu baax bi ci dara , te bañ a jariñoo sañ-sañ boobu ma ci yelloo .
+46010019a	lu		Li may wax , lu muy tekki ? 
+46010019b	~		Ndax yàpp wi ñu jagleel xërëm yi dafay dara ? 
+46010019c	~		walla xërëm yi dañuy dara ?
+46010029	lu tax		Waxuma sa xel yaw , waaye xelu keneen laay wax . Waaye nga ne : « Li ma sañ a def , lu tax nit ku xelam dalul di am dara lu mu ciy wax ?
+46010030	lu tax		Su ma lekkee dara di ci sant Yàlla , lu tax ñu may wax lu ñaaw , fekk sant naa ci Yàlla . »
+46011022	Lu		Xanaa amuleen kër yu ngeen di lekke ak di naane ? Walla ndax dangeen a xeeb mbooloom Yàlla ? Walla ngeen bëgg a rusloo ñi amul dara ? Lu ma leen ci war a wax nag ? Ma gërëm leen ci loolu ? Mukk ! Gërëmuma leen .
+46012017a	nan		Bu yaram wépp doon bët , kon nan lay dégge ? 
+46012017b	nan		Walla bu yaram wépp doon nopp , kon nan lay xeeñtoo ?
+46012019	fu		Bu lépp doon benn cér , kon fu yaram di nekk ?
+46014006	lu		Kon nag bokk yi , su ma ñëwee ci yéen , di wax ay làkk , lu ma leen di jariñ ? Dara , su ma leen indilul dëgg gu Yàlla feeñal , walla xam-xam walla kàddu gu tukkee ca Yàlla , walla am njàngale .
+46014007	naka		Noonu la mel itam ci yëf yi dundul tey riir , ni toxoro walla xalam . Su li ci jibe leerul , naka la nit man a ràññee li mbiibi toxoro walla buumi xalam di wax ?
+46014008	kuy		Rax-ca-dolli su liit gi jibul bu leer , kuy man a waajal xare ba ?
+46014009	nan		Noonu itam bu ngeen génnewul ay wax yu leer ci seen gémmiñ , nan lañuy man a xame li ngeen di wax ? Dingeen wax cig neen !
+46014015	lu		Kon nag lu muy indi ? Bu may ñaan , dinaa ànd ak sama xol , àndaale ak sama xel . Bu may woy , dinaa ànd ak sama xol , àndaale ak sama xel .
+46014016	nan		Walla , boo dee gërëm Yàlla , ànd ci ak sa xol rekk , kon ku musul a jàng mbir yooyu , nan la man a waxe : « Amiin , » ci sa cant Yàlla googu ? Ndaxte xamul li ngay wax .
+46014026	lu		Kon nag bokk yi , lu muy indi ? Bu ngeen dajee , kii am aw taalif , kii am njàngale , kii dëgg gu Yàlla feeñal , kii di wax aw làkk , kee di ko firi . Na loolu lépp aw ci yoonu yokk ngëmu mbooloo mi .
+46014036	~		Ndax ci yéen la kàddug Yàlla sosoo ? Walla ndax ci yéen rekk la agsi ?
+46015012	nan		Waaye su nu yéglee ne , Kirist dekki na , nan la ñenn ñi ci yéen man a waxe ne , néew yi duñu dekki ?
+46015029a	~		
+46015029b	lu		Su ndekkite amul , kon ñi ñu sóob ci ndox ngir ñi dee , lu mu leen di jariñ ? 
+46015029c	lu tax		Su dekki amul , kon lu tax ñu leen di sóob ngir ñi dee ?
+46015030a	~		
+46015030b	lu tax		Te nun it lu tax fu nu tollu nu jaay sunu bakkan ?
+46015032	ban		Su fekkee ne ci ni ñu ko waxe , xeex naa ca dëkku Efes ak rabi àll , kon ban njariñ la may amal ? Su néew yi dul woon dekki , am na lu ci léeb wax : « Nanu lekk di naan , ndaxte ëllëg dinanu dee . »
+46015035a	nan		Waaye dina am kuy naan : « Nan la néew yi di dekkee ? 
+46015035b	~		Wan yaram lañuy dellusee ? »
+46015055a	ana		Céy yaw dee ! Ana sa ndam ? Céy yaw dee ! 
+46015055b	ana		Ana sa daŋar ji ngay fitte ? »
+47002002	kuy		Ndaxte su ma leen tegee naqar , kuy seddal sama xol ku dul yéen ñi ma teg aw naqar ?
+47002016	ku		ci ñu mujj ñii , xet gu sedd lanu , guy jëme ci dee ; ci ñu jëkk ñi , xetu dund lanu , guy jëme ci dund . Kon ku man a àttan yen boobu !
+47003008	~		rawatina nag ne , jëfu Xelum Yàlla dina gën a ànd ak ndam .
+47003009	~		Su fekkee ne tëralin , wiy teg nit tooñ , àndoon na ak ndam , rawatina ci tëralin wiy àtte nit jub .
+47006014a	gan		Buleen likkoo ak ñi gëmul . Gan àndandoo moo man a am diggante njubte ak ndëngte ? 
+47006014b	gan		Gan booloo moo man a am diggante leer ak lëndëm ?
+47006015a	gan		Gan déggoo moo man a am diggante Kirist ak Beliyar ? 
+47006015b	gan		Gan jaxasoo moo man a am diggante ki gëm ak ki gëmul ?
+47006016	Nan		Nan la këru Yàlla man a mànkoo ak xërëm yi ? Ndaxte nun nooy këru Yàlla Aji Dund ji , ni ko Yàlla waxe : « Dinaa dëkk ci seen biir , tey dox ànd ak ñoom , ma nekk seen Yàlla , ñuy samay gaay . »
+47011011	Lu tax		Lu tax ? Ndax dama leen a bëggul ? Yàlla xam na ne , bëgg naa leen !
+47011029a	ku		Ana ku ci néew doole , te wàlluma ko ? 
+47011029b	ku		Ana ku ci bàkkaar , te awma naqar wu tiis ?
+47012013	Lan		Lan laa defal yeneen mboolooy ñi gëm te defaluma leen ko , xanaa rekk li ma wéeru ci ñoom te wéeruma ci yéen ? Baal-leen ma googu tooñ !
+47012017	~		Mbaa du damaa lekk seen alal , jaare ko ci kenn ci ñi ma yónni woon ?
+48002014	lu tax		Bi ma seetee nag ne , awuñu woon ci dëgg , gi xebaar bu baax bi di jàngale , ma yedd Sefas ci kanamu ñépp ne ko : « Yaw miy Yawut , gannaaw dëddu nga aaday Yawut yi , ba dund ni ku dul Yawut , lu tax nga bëgg a sëf diiney Yawut ci ñi dul Yawut ? »
+48003001	Ku		Yéen waa Galasi , yéena ñàkk xel ! Ku leen fàbbi , gannaaw bi ma leen yégalee ci lu leer ni ñu daaje Yeesu Kirist ca bant ba ?
+48003019	luy		Waaw kon yoonu Musaa , luy jariñam ? Dañu koo wàcceel nit ñi , ngir seen jàdd yoon ne fàŋŋ . Looloo doon wàllu yoon wi , ba kera Sët biy ñëw , moom mi ñu digoon dige bi . Yoon wi nag , Yàlla tëral na ko jaare ci ay malaaka , te am na ku ko jottali .
+48004009a	nan		Waaye léegi nag bi ngeen xamee Yàlla , walla boog bi leen Yàlla xàmmee , nan ngeen man a def , bay delluwaat ca aaday àddina ? 
+48004009b	lu tax		Aada yooyee ñàkk doole te ñàkk njariñ , lu tax ngeen bëgg , ñu nootaat leen ?
+48004010	~		Yéena ngi fonk bés yi , weer yi , màggal yi ak at yi !
+48004015	fan		Waaw , fan la seen mbég jaar ? Ndaxte seedeel naa leen ne , su ngeen ko manoon , kon luqi ngeen seeni bët , jox ma .
+48004021	~		Yéen ñi bëgg a topp yoon wi , xanaa xamuleen li yoonu Musaa wi wax ?
+48004030	Lu		Lu ci Mbind mi wax nag ? Nee na : « Dàqal jaam bi ak doomam , ndaxte doomu jaam bi warul a bokk cér ak doomu gor si ci ndono . »
+48005007a	ku		Ni ngeen jógtee woon de baax na ! Waaw ku leen dog , ba ngeen bañ a déggal dëgg ?
+48005007b	~		
+48005011	~		Man nag bokk yi , bu ma doon faaydaal xaraf ci sama waare , kon duñu ma fitnaale nii ; te it li may yégle ci deewu Kirist ca bant ba dootul naqari kenn .
+49004009	~		Su nu waxee ne « yéeg na , » li moo ci génn : daa jëkk a wàcc ba ca bérab ya gën a suufe .
+50001018	Lu		Lu ci génn nag ? Xanaa lii rekk : turu Kirist jolli na ci nii mbaa naa , muy ci naaféq , muy ci dëgg ; bég naa ci te dinaa ci bégati .
+50001021	~		Ndaxte su ma dundee , Kirist laay noyyee , te su ma deeyee , xéewal lay doon ci man .
+51002020	lu tax		Ndegam deeyandoo ngeen ak Kirist , ba génne noonu ci aaday àddina , lu tax ngeen di nangu , ñu di leen teg ay sàrt yu mel nii : « Bul fab , bul ñam , bul laal , » ni bu seenug dund aju woon ci àddina si ?
+52002019	kan		Ndaxte bés bu Yeesu sunu Boroom dellusee , te nu fekke ko , kan mooy sunu yaakaar ? Kan mooy sunu mbég ? Kan mooy sunu kaala , gi nuy tiitaroo ?
+52003009	~		Ndaw cant yu bare yu nu war a sant Yàlla ndax yéen ! Ndaw mbég mu bare , mi nu am ci kanamam ndax yéen !
+54003005	naka		Ndaxte ku mënta yor njabootam , naka lay man a yore njabootu Yàlla ?
+54006007a	~		Ndaxte indaalewunu fi dara , 
+54006007b	~		te dunu yóbbaale dara .
+58001005	~		Ndaxte Yàlla musul a wax kenn ci malaaka yi ne : « Yaa di sama Doom , maa di sa Baay tey . » Musul ne ci mbirum kenn ci ñoom it : « Man Yàlla , dinaa doon Baay ci moom , mu nekk Doom ci man . »
+58001013	~		Waaye Yàlla musul a teral kenn ci malaaka yi , ba di ko wax : « Toogal ci sama ndeyjoor , ba kera may daaneel say noonci sa kanam . »
+58001014	~		Malaaka yépp ay xel lañu rekk yuy liggéeyal Yàlla , mu di leen yónni ñuy dimbali nit , ñi nar a jot mucc gi .
+58002003	nan		Kon nun ñi dégg mucc gu mag gi , bu nu ko sàgganee , nan lanuy man a rëcce mbugalu Yàlla ? Boroom bi moo xamle woon mucc googu ca njàlbéen ga , te gannaaw gi , ñi ko dégg , ñoo nu ko wóoralal .
+58002006a	lan		ndaxte am na fu ñu wax ci Mbind mi ne : « Lan mooy nit , yaw Yàlla , ba nga di ko xalaat ? 
+58002006b	lan		Lan mooy doomu nit , ba nga koy topptoo ?
+58003016	Ñan		Ñan ñoo dégg baatu Yàlla bi nag te di ko dëddu ? Xanaa ña Musaa génne woon Misra ñépp .
+58003017	ñan		Te ñan la Yàlla mere lu mat ñeent-fukki at ? Xanaa ñi daan bàkkaar te seeni néew tëdd ca màndiŋ ma .
+58003018	ñan		Te it bi Yàlla defee ngiñ lii : « Duñu dugg mukk ci sama noflaay , » booba ñan ñoo ko taxoon di wax ? Xanaa ña ko déggadil .
+58006004	~		Li nu war a jëme kanam mooy lii : su amee ay nit ñu Yàlla xas a leeral ba noppi , ñu mos mayu Yàlla gi , am wàll ci Xelam mu Sell ,
+58007011	~		Jox nañu bànni Israyil yoon wu sukkandiku ci liggéeyu saraxalekat yi soqikoo ci Lewi . Su fekkoonte ne nag liggéeyu saraxalekat yooyu manoon na yeggale nit cig mat , kon du soxlaati ab saraxalekat ni ko Melkisedeg nekke , ci fànn gu wuute ak gu Aaroona .
+58009014	~		Su fekkee ne noonu la deme nag , du kon deretu Kirist moo ëpp doole ? Jox na bakkanam Yàlla , def ko sarax su amul sikk jaarale ko ci dooley Xel miy sax abadan . Kon deretam moo man a sellal sunu xel , mi nu doon yedd ndax jëf yu jëm ci dee , ngir nu man a jaamu Yàlla jiy dund .
+58010001	~		Yoonu Musaa dafa misaal xéewal yi waroon a ñëw ; takkandeer la ci yëf yu dëggu yi , waaye du ñoom ci seen bopp . Looloo tax mënul a yeggale cig mat ñi ñëw ci Yàlla , ndaxte at mu nekk duñu jóg ci jébbal Yàlla sarax yooyu .
+58010029a	ku		Ku xeeb Doomu Yàlla ji te fonkadi deretu kóllëre , 
+58010029b	~		ji ñu ko sellale , 
+58010029c	~		te muy toroxal Xelum Yàlla , mi indi yiw , 
+58010029d	naka		naka la mbugalam war a gën a yéese ?
+58011032	Lu		Lu ma ci war a tegaat ? Ndaxte awma jotu wax ci mbirum Sedeyon , Barag , Samson , Yefte , Daawuda , Samwil ak yonent yi .
+58012007	ana		Li ngeen di war a muñ , ab yar la . Yàlla dafay jëf ak yéen ni ay doomam , ndaxte ana doom ju baayam dul yar ?
+58012009	~		Waaye sax far , sunuy baay ci àddina yaroon nañu nu , te wegoon nanu leen . Baay bi yore ruu yi kon , xanaa warunu koo gën a déggal ngir man a dund ?
+58012025	~		Moytuleen a tanqamlu nag kiy wax ak yéen . Ndegam ñiy tanqamlu ki leen di artu ci àddina , ñoo mënul a rëcc ci àtte bi , aste ku dummóoyu kiy wax ci asamaan .
+58013006	Lu		ba tax nu am kóoluteg wax ne : « Boroom bi moo di sama ndimbal ; duma ragal dara . Lu ma nit manal ? »
+59002006	~		Fekk dangeen leen di toroxal ! Xanaa du boroom alal yi ñoo leen di noot te di leen yóbbu fa kanam àttekat yi ?
+59002014	lu		Te lii itam samay bokk , ku ne gëm nga , te jëfewoo ko , loolu lu muy jariñ ? Ndax googu ngëm man na laa musal ?
+59002016a	~		te kenn ci yéen ne ko : « Demal ak jàmm , nga solu te lekk , » 
+59002016b	lu		te fekk fajuleen aajoom , loolu lu muy jariñ ?
+59002018	~		Waaye xanaa dina am ku ne : « Yaw am nga ngëm , man am naa ay jëf . » Yaw nag won ma sa ngëm gu àndul ak jëf , man ma feeñal la sama ngëm ci samay jëf .
+59002021	~		Sunu maam Ibraayma , ndax du ci kaw jëf la ko Yàlla àttee ni ku jub , ci li mu joxe doomam Isaaxa ni sarax ?
+59003013	ku		Ana ku neex xel ci yéen , ana kuy boroom xam-xam ? Na ko wone ciy jëfam ak dundam gu sell , te feeñal xelam ci jikkoom ju lewet .
+59003017	~		Waaye xel mi jóge ci kaw daa sell , ba noppi ànd ak jàmm te lewet , nooy , fees dell ak yërmande ak jëf yu rafet ; àndul ak genn parlàqu , amul genn naaféq .
+59004001a	lu waral		Xeex yi ak xuloo yi ci seen biir nag , lu leen waral ? Xanaa du ci seeni bëgg-bëgg , yiy xeex ci seeni cér ?
+59004001b	~		
+59004012	kan		Kenn rekk mooy tëral yoon , kooku rekk mooy àtte ; moo man a musle , moo man a alage . Te sax yaw miy àtte sa bokk yaay kan ?
+59004014	luy		Ndax dangeen a xam seen ëllëg ? Te luy seen dund ? Xanaa cóola doŋŋ luy naaw ci diir bu gàtt , daldi naaxsaay .
+60002020	luy		Su ngeen tooñee te muñ i pes , luy pey gi ? Waaye su ñu leen fitnaalee ci def lu baax te ngeen muñ ko , jëf ju rafet la fa kanam Yàlla .
+60003013	kan		Te it kan moo leen di sonal , su ngeen góor-góorloo ci def lu baax ?
+60004017	luy		Ndaxte àpp bi jot na , àtte baa ngi tàmbalee ci nun waa kër Yàlla . Te su tàmbalee ci nun nag , luy muju ñi weddi xebaaru Yàlla ?
+60004018	luy		Te : « Su muccu ki jub jafee , luy doon muju ki weddi te dëng ? »
+61003004	ana		ci di leen ne : Ki dige woon ne dina ñëw , ana mu ? Ndaxte baay ya nelaw nañu , waaye lépp a ngi dox ca njàlbéen ga ba tey .
+61003011	~		Gannaaw loolu lépp dina seeye noonu nag , nangeen góor-góorlu ci gëna sellal seen nekkin , te feddali seen ragal Yàlla .
+62002022	Kan		Kan mooy fenkat bi ? Mooy kiy weddi ne Yeesu mooy Kirist , Almasi bi . Kooka mooy Bañaaleb Kirist , biy weddi Baay bi ak Doom ji .
+62003012	Lu tax		te bañ a mel ni Kayin , mi bokkoon ci Ibliis , ba rey rakkam . Lu tax mu rey ko nag ? Ndaxte ay jëfam dañoo bon , te yu rakkam jub .
+62003017	nan		Waaye ku am alalu àddina te gis sa mbokk nekk ci soxla , nga dummóoyu ko , nan la mbëggeelu Yàlla dëkke ci yaw ?
+62004020	~		Su kenn nee : « Bëgg naa Yàlla , » te bëgguloo sa mbokk , dangay fen ; ndaxte ku bëggul sa mbokk mi ngay gis , doo man a bëgg Yàlla mi nga gisul .
+62005005	Ku		Ku noot àddina mooy kan ? Mooy ki gëm ne , Yeesu mooy Doomu Yàlla .
+66005002	Ku		Noonu ma gis malaaka mu am doole , muy xaacu naan : « Ku yeyoo dindi tayu yi te ubbi téere bi ? »
+66006010a	kañ		Ñuy xaacu naan : « Boroom bu sell bi te dëggu , ba kañ ngay nég àtte bi te feyyul nu sunu deret ci waa àddina ? »
+66006010b	~		
+66006017	Ku		ndaxte bés bu mag , bi seen mer di feeñ , agsi na ! Ku ci man a rëcc ? »
+66007013a	ñan		Noonu kenn ca mag ña ne ma : « Ñi sol mbubb yu weex yi , ñooy ñan ak 
+66007013b	fan		fan lañu jóge ? »	
+66013004a	~		Ñu jaamu ninkinànka ja ndax li mu joxoon sañ-sañ rab wa , di jaamu it rab wa , naan : « Rab wi amul moroom , kenn mënul a xeex ak moom . »
+66013004b	~		
+66015004a	ku		Ku la ragalul , Boroom bi ? 
+66015004b	ku		Ku dul màggal saw tur ? Kenn , ndaxte yaw rekk yaa sell . Xeet yépp dinañu dikk , jaamu la , ndax say àtte bir na ñépp . »
+66017007	lu tax		Malaaka ma ne ma : « Lu tax nga jaaxle ? Dinaa la leeralal kumpag jigéen ji ak rab , wi mu war te am juróom-ñaari bopp ak fukki béjjén .
+66018018	bu		te bu ñu séenee saxar sa cay jollee , naan : « Ndax dëkk bu niroo woon ak dëkk bu mag bii mas na am ? »

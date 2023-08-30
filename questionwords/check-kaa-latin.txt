@@ -1,0 +1,743 @@
+40002002	qayaqta		— Yahudiylerdin' jan'a tuwılg'an Patshası qayaqta eken ? O'ytkeni bizler ku'nshıg'ısta Onın' juldızın ko'rip , Og'an tabınıwg'a keldik , — dep soradı .
+40002004	qay jerde		Hirod xalıqtın' barlıq bas ruwxaniylerin ha'm diniy mug'allimlerin jıynap alıp , olardan Masixtın' qay jerde tuwılıwı tiyis ekenin sorastırdı .
+40003007	kim		Yaqıya o'zine ko'p pariseyler menen saddukeylerdin' shomıldırılıwg'a kiyatırg'anın ko'rip , olarg'a : — Ha'y , uwlı jılanlardın' tuqımları ! Keleshektegi qa'ha'rli jazadan qutılıwdı sizlerge kim u'yretti ?
+40005013	qalay		— Sizler — du'nyanın' duzısızlar . Biraq duz o'z ku'shin joytsa , onı qalay ja'ne shorlı qılıwg'a boladı ? Onda ol hesh na'rsege jaramaydı , tek shıg'arıp taslanıp , adamlardın' ayag'ı astında basılıp qaladı .
+40005046	qanday		Eger sizler o'zlerin'izdi su'ygenlerdi g'ana su'ysen'ler , qanday sıylıq alasızlar ? Salıqshılar da solay islemey me ?
+40005047	qanday		Sizler tuwısqanların'ız benen g'ana sa'lemlessen'ler , onda qanday o'zgesheliklerin'iz bar ? Butqa tabınıwshılar da solay islemey me ?
+40006027	kim		Ta'shiwishleniw sebepli , kim sizlerdin' aran'ızda o'z o'mirin bir saatqa bolsa da uzayta aladı ?
+40006028	nege		Kiyim tuwralı nege ta'shiwishlenesizler ? Daladag'ı liliya gu'llerinin' qalay o'sip turg'anına qaran'lar ! Olar miynet te etpeydi , jip te iyirmeydi .
+40006031a	ne		Sonlıqtan da : « Ne iship , 
+40006031b	ne		ne jeymiz ? » yamasa 
+40006031c	ne		« Ne kiyemiz ? » — dep ta'shiwishlenben'ler .
+40007003	nege		Sen nege tuwısqanın'nın' ko'zindegi sho'pti ko'rip turıp , o'z ko'zin'degi qadanı sezbeysen' ?
+40007004	qalay		O'z ko'zin'de qada bola tura , qalay : « Qa'ne , ko'zin'degi sho'pti shıg'arıp alayın » , — dep tuwısqanın'a aytasan' ?
+40007009	~		Sizlerdin' aran'ızda ulı nan sorasa , tas beretug'ın adam bar ma ?
+40007016a	~		Sizler olardı miywesinen bilesizler . Shen'gelden ju'zim yamasa oshag'annan a'njir jıynay alasız ba ?
+40007016b	~		
+40008026	Nege		İysa olarg'a : — Nege bunshama qorqasızlar , ha'y , isenimi azlar ? — dedi de , turıp samalg'a ha'm ten'izge tıyım salg'anda , awır tınıshlıq ornadı .
+40008027	kim		Adamlar tan' qalısıp : — Samaldı da , ten'izdi de O'zine boysındıratug'ın bul kim ? — desti . Jin urg'an eki adamnın' shıpa tabıwı
+40008029	ne		Olar qıshqırısıp : — Qudaydın' Ulı İysa , Senin' bizler menen ne jumısın' bar ? Bul jerge bizlerdi waqtı kelmesten burın azaplawg'a keldin' be ? — dedi .
+40009004	nege		İysa olardın' ne oylag'anın bilip , olarg'a : — İshlerin'izden nege jamanlıq oylap tursızlar ?
+40009005	Qaysısın		Qaysısın aytıw an'satıraq : « Gu'naların' keshirildi » , — dew me yamasa « Ornın'nan turıp ju're ber » , — dew me ?
+40009011	nege		Pariseyler bunı ko'rip , Onın' sha'kirtlerinen : — Sizlerdin' Ustazın'ız nege salıqshılar ha'm gu'nakarlar menen birge as iship otır ? — dep soradı .
+40009014	nege		Sol waqıtta Yaqıyanın' sha'kirtleri kelip , İysadan : — Bizler de , pariseyler de jiyi-jiyi oraza tutamız , al Senin' sha'kirtlerin' nege oraza tutpaydı ? — dep soradı .
+40009015	~		İysa olarg'a : — Toyg'a kelgenler ku'yew olar menen birge bolg'an waqıtta qayg'ıra ala ma ? Biraq , olardan ku'yewdi tartıp alıp ketiletug'ın ku'nler keledi , sonda olar oraza tutadı .
+40010025	~		Sha'kirt ustazı sıyaqlı bolsa , xızmetshi de xojası sıyaqlı bolsa , olarg'a jetkilikli . Adamlar u'y iyesin Belzebu'l-shaytan dep atag'an bolsa , onın' u'y-ishine onnan da jamanıraq at taqpay ma ? ! Kimnen qorqıw kerek ?
+40011007	neni		Olar ketkennen keyin , İysa xalıqqa Yaqıya tuwralı ayta basladı : — Sizler sho'l dalag'a neni ko'riwge bardın'lar ? Samal terbetken qamıstı ma ?
+40011008	neni		Aytın'lar , neni ko'riwge bardın'lar ? Hasıl kiyim kiygen bir adamdı ma ? Hasıl kiyim kiygenler patsha saraylarında boladı-g'o .
+40011009	neni		Solay etip , neni ko'riwge bardın'lar ? Payg'ambardı ma ? Awa , Menin' sizlerge aytatug'ınım : ol — payg'ambardan da ullı .
+40011016	kimge		Ha'zirgi a'wladtı kimge uqsatayın ? Olar bazarda joldaslarına : « Sizlerge sıbızg'ı sherttik , biraq sizler oynamadın'lar ! Sizlerge joqlaw ayttıq , biraq sizler jılamadın'lar ! » — dep baqırıp otırg'an balalarg'a uqsaydı .
+40012011	~		İysa olarg'a : — Sizlerdin' aran'ızdag'ı birin'izdin' jalg'ız g'ana qoyı bolsa , ol dem alıs ku'ni bir shuqırg'a tu'sip ketkende , onı shıg'arıp almay ma ?
+40012026	qalay		Al eger shaytan o'zin o'zi quwıp shıg'arsa , onda onın' o'z ara qarsı bolıp bo'lingeni boladı . Olay bolsa , onın' patshalıg'ı qalay saqlanadı ?
+40012027	kimnin'		Eger Men jinlerdi Belzebu'l-shaytannın' ku'shi menen quwıp shıg'aratug'ın bolsam , onda sizlerdin' sha'kirtlerin'iz olardı kimnin' ku'shi menen quwıp shıg'arıp ju'r ? Solay etip , olar sizlerdin' nadurıs ekenin'izdi a'shkaralaydı .
+40012029	kim		Kim da'slep ku'shli adamdı baylap taslamay turıp , onın' u'yine kirip , mal-mu'lkin tartıp a'kete aladı ? Tek onı baylag'annan keyin g'ana onın' u'yin tonay aladı-g'o .
+40012034	qalay		Ha'y , uwlı jılanlardın' tuqımları ! Sizler o'zlerin'iz jaman bola tura , qalay jaqsı so'zler so'yley alasızlar ? Adamnın' kewli nege tolıp tassa , awzınan sol shıg'adı-g'o .
+40012048a	kim		Ol bunı aytqan adamg'a qarap : — Menin' anam kim , 
+40012048b	kimler		tuwısqanlarım kimler ? — dedi de ,
+40013010	ne ushın		İysanın' sha'kirtleri qasına kelip , Onnan : — Xalıqqa ne ushın tımsallar menen so'ylep tursan' ? — dep soradı .
+40013027	qayaqtan		Sonda xızmetshileri xojasına kelip : « Xojayın ! Siz egislik jerin'izge jaqsı tuqım seppegen be edin'iz ? Onda haram sho'p qayaqtan payda boldı ? » — depti .
+40013054a	qayaqtan		O'zi o'sken qalag'a kelip , sol jerdegi ma'jilisxanada xalıqqa ta'lim bere basladı . Xalıq tan' qalısıp : — Ol bunday danalıqtı ha'm ka'ramat islew qu'diretin qayaqtan alg'an ?
+40013054b	~		
+40013056	qayaqtan		Onın' ha'mme qarındasları da bizin' aramızda emes pe ? Al bulardın' ha'mmesi Onda qayaqtan payda boldı eken ? — dedi de ,
+40014031	nege		İysa da'rriw qolın sozıp , onı tartıp aldı da , og'an : — Ha'y , isenimi az ! Sen nege gu'manlandın' ? — dedi .
+40015002	ne ushın		— Ne ushın Senin' sha'kirtlerin' ata-babalardan qalg'an da'stu'rlerdi buzıp ju'r ? Olar nan jewden aldın qolların juwmaydı-g'o , — dedi .
+40015003	ne ushın		İysa olarg'a juwap berip , bılay dedi : — Sizler ne ushın da'stu'rlerin'iz sebepli Qudaydın' buyrıg'ın buzasızlar ?
+40015033	qayaqtan		Sha'kirtleri : — Usınshama xalıqtı toyg'ıza alarlıqtay , bir elsiz dalada nandı qayaqtan tabamız ? — desti .
+40015034	neshe		İysa olardan : — Neshe nanın'ız bar ? — dep soradı . Olar : — Jetew , ja'ne bir neshe kishi balıq ta bar , — dep juwap berdi .
+40016008	nege		İysa bunı bilip , olarg'a : — Ha'y , isenimi azlar , sizler nege o'z ara nan a'kelmegenin'izdi aytısıp tursızlar ?
+40016009	neshe		Ele de tu'sinbedin'ler me ? Bes nan bes mın' adamg'a jetip , awısqanın jıynag'anın'ızda neshe sebet toltırg'anın'ız esin'izde joq pa ?
+40016010a	~		Ja'ne de jeti nan to'rt mın' adamg'a jetip , 
+40016010b	neshe		awısqanın jıynag'anın'ızda neshe sebet toltırg'anın'ız esin'izde joq pa ?
+40016011	nege		Menin' sizlerge nan haqqında aytpag'anımdı nege tu'sinbeysizler ? Pariseylerdin' ha'm saddukeylerdin' ashıtqılarınan saq bolın'lar , — dedi .
+40016013	kim		İysa Filip Kesariyasındag'ı u'lkege kelgende , O'z sha'kirtlerinen : — Adamlar Meni , Adam Ulın kim dep sanaydı ? — dep soradı .
+40016015a	~		
+40016015b	kim		İysa olarg'a : — Al sizler Meni kim dep sanaysızlar ? — dedi .
+40016026a	ne		Adam pu'tkil du'nyanı iyelep alıp , biraq o'z janın jog'altsa , bunnan og'an ne payda ? 
+40016026b	qanday		Ol o'z janı ushın qanday to'lem bere aladı ?
+40017010	Nege		Sonda olar : — Nege diniy mug'allimler aldı menen İliyas keliwi sha'rt deydi ? — dep soradı .
+40017017a	qashang'a		İysa juwap qaytarıp : — Ha'y , isenbeytug'ın , adasqan a'wlad ! Men qashang'a deyin sizler menen birge bolaman ? 
+40017017b	qashang'a		Qashang'a deyin sizlerge shıdayman ? Onı Mag'an , bul jerge a'kelin'ler , — dedi .
+40017019	nege		Sonda sha'kirtleri İysag'a awlaqta kelip : — Bizler nege jindi quwıp shıg'ara almadıq ? — dep soradı .
+40017025a	qalay		Petr : — Awa , to'leydi , — dedi . Ol u'yge kelgende , İysa onnan burın : — Simon , sen qalay oylaysan' ? 
+40017025b	kimlerden		Jer betinin' patshaları bajılar menen salıqtı kimlerden aladı ? O'z balalarınan ba yamasa basqa adamlardan ba ? — dep soradı .
+40018001	kim		Aspan Patshalıg'ında en' ullı kim ? . Sol waqıtta sha'kirtleri İysanın' janına kelip : — Aspan Patshalıg'ında en' ullı kim ? — dep soradı .
+40018012	qalay		— Sizler qalay oylaysızlar ? Eger birewdin' ju'z qoyı bolıp , onın' birewi joytılıp ketse , ol toqsan tog'ız qoyın tawda qaldırıp , joytılg'an bir qoyın izlemes pe edi ?
+40018021	neshe		Sonda Petr İysag'a kelip : — İyem , mag'an qarsı gu'na islegen tuwısqanıma neshe ret keshirim bersem boladı ? Jeti retke deyin be ? — dep soradı .
+40019007	nege		Olar İysag'a : — Sonda nege Muwsa payg'ambar er adamnın' hayalına talaq xat berip ajırasıwın buyırg'an ? — dedi .
+40019016	qanday		Sonda bir jigit İysadan : — Ustaz ! Ma'n'gilik o'mirge iye bolıwım ushın qanday iygilikli isler islewim kerek ? — dep soradı .
+40019017	nege		İysa og'an : — Sen nege Mennen iygilik haqqında soradın' ? Tek Quday g'ana iygilikli-g'o . Al ma'n'gilik o'mirge eriskin' kelse , Onın' buyrıqların orınla , — dedi .
+40019018	qanday		Jigit İysadan : — Qanday buyrıqlardı ? — dep soradı . İysa : — « Adam o'ltirme , neke hadallıg'ın buzba , urlıq isleme , jalg'an gu'walıq berme ,
+40019020	ne		Jas jigit Og'an : — Men bulardın' ha'mmesin orınlap kiyatırman , ja'ne ne jetispeydi ? — dedi .
+40019025	kim		Bunı esitken sha'kirtleri qattı tan' qalısıp : — Olay bolsa , kim qutqarıla aladı ? — dep soradı .
+40019027	nege		Sonda Petr juwap qaytarıp , Og'an : — Minekey , bizler ha'mme na'rsemizdi taslap , Senin' izin'e erdik . Bizler nege erisemiz ? — dedi .
+40020006	Nege		Keshki besler shamasında da shıg'ıp , ele jumıssız turg'an basqa adamlardı ko'rip , olarg'a : « Nege bul jerde ku'n boyı jumıssız tursızlar ? » — dep soraptı .
+40020012	~		« Mına en' son'ında kelgenler bir saat g'ana jumıs isledi . Al siz olardı ku'ni boyı azaplanıp , ıssıg'a ku'yip jumıs islegen bizler menen ten' ettin'iz » , — depti .
+40020021	ne		İysa onnan : — Tilegin' ne ? — dep soradı . Hayal Og'an : — O'z patshalıg'ın'da usı eki ulımnın' birewin on' jag'ın'a , ekinshisin sol jag'ın'a otırg'ızıwdı wa'de et , — dedi .
+40020032	ne		İysa toqtap , olardı shaqırıp aldı da : — Menin' sizler ushın ne islewimdi qa'leysizler ? — dep soradı .
+40021010	kim		İysa Erusalimge kirip kelgende , pu'tkil qala janlanıp : — Bul kim ? — dep soradı .
+40021016	ne		Og'an : — Olardın' ne dep atırg'anın esitip tursan' ba ? — dedi . İysa olarg'a : — Awa ! Sizler : « Na'resteler menen emiziwli balalardın' awzınan O'zin'e maqtawlar aytqızdın' » , — dep Muxaddes Jazıwda aytılg'andı hesh oqımag'ansızlar ma ? — dedi .
+40021020	qalayınsha		Sha'kirtleri bunı ko'rgende tan' qalısıp : — Bul a'njir ag'ashı qalayınsha da'rriw quwrap qaldı ? — dep soradı .
+40021023a	qanday		İysa İbadatxanag'a kirip , ta'lim berip otırg'anda , Og'an bas ruwxaniyler menen xalıq aqsaqalları kelip : — Bul islerdi qanday biylik penen islep 
+40021023b	kim		ju'rsen' ha'm bunday biylikti Sag'an kim berdi ? — dep soradı .
+40021025a	qayaqtan		Yaqıya adamlardı shomıldırıw ushın qayaqtan biylik aldı ? Aspannan ba yamasa adamlardan ba ? — dedi . Olar o'z ara oylasıp : 
+40021025b	~		« Eger „ aspannan “ desek , 
+40021025c	nege		Ol bizlerge : „ Sonda nege sizler og'an isenbedin'ler “ , — deydi .
+40021028	qalay		— Sizler qalay oylaysızlar : bir adamnın' eki ulı bolıptı . Ol birinshisine barıp : « Balam , sen bu'gin barıp , ju'zim bag'ında isle » , — depti .
+40021031	qaysısı		Usı ekewinin' qaysısı a'kesinin' tilegin orınlag'an boladı ? — dep soradı İysa . — Birinshisi , — dep juwap qaytardı olar . İysa olarg'a bılay dedi : — Sizlerge shının aytıp turman : salıqshılar ha'm buzıq hayallar Qudaydın' Patshalıg'ına sizlerden burın kiredi .
+40021040	ne		Endi ju'zim bag'ının' iyesi kelgende , sol diyxanlarg'a ne qıladı ?
+40022012	qalay		og'an : « Ha'y , dostım , sen bul jerge toy kiyimisiz qalay kirgensen' ? » — depti . Biraq ol u'ndemepti .
+40022017	qalay		Solay etip , bizlerge aytshı , Sen mınag'an qalay qaraysan' : Rim patshası-Qaysarg'a salıq to'lew durıs pa yamasa nadurıs pa ?
+40022018	nege		Biraq İysa olardın' haram niyetin bilip , olarg'a : — Ha'y , eki ju'zliler ! Sizler Meni nege sınap atırsızlar ?
+40022020a	kimnin'		Ol : — Bunda kimnin' su'wreti bar ha'm kimnin' atı jazılg'an ? — dep soradı .
+40022020b	~		
+40022028	qaysısının'		Al endi qayta tiriliwde ol jetewinin' ishinde qaysısının' hayalı boladı ? Ol olardın' ha'mmesine de hayal bolg'an edi-g'o .
+40022036	qaysı		Onnan : — Ustaz ! Muxaddes Nızamdag'ı en' baslı buyrıq qaysı ? — dep soradı .
+40022042a	ne		— Masix haqqında ne oylaysızlar ? 
+40022042b	kimnin'		Ol — kimnin' urpag'ı ? — dep soradı . — Ol — Dawıttın' Urpag'ı , — dedi olar .
+40022043	qalayınsha		İysa olardan : — Olay bolsa , Dawıt Muxaddes Ruwxtan ilhamlanıp , Masixtı qalayınsha « İyem » dep atag'an ? Ol bılay degen-g'o :
+40022045	qalayınsha		Solay etip , Dawıt Onı « İyem » dep atag'an bolsa , Ol qalayınsha onın' urpag'ı boladı ? — dep soradı .
+40023017	Qaysısı		Ha'y , aqılsız soqırlar ! Qaysısı ullıraq : altın ba yamasa altındı muxaddes qılatug'ın İbadatxana ma ?
+40023019	Qaysısı		Ha'y , soqırlar ! Qaysısı ullıraq : qurbanlıq pa yamasa qurbanlıqtı muxaddes qılatug'ın qurbanlıq shalınatug'ın orın ba ?
+40023033	qalay		Jılanlar , uwlı jılanlardın' tuqımları ! Sizler qalay etip dozaq jazasınan qashıp qutılmaqshısızlar ?
+40024003a	qashan		Sonnan son' , Ol Za'ytu'n tawında otırg'anda sha'kirtleri awlaqta Onın' qasına kelip : — Ustaz , bunın' qashan bolatug'ının bizlerge aytıp ber . 
+40024003b	qanday		Senin' keliwin'di ha'm usı zamannın' aqırın qanday belgi bildiredi ? — dep soraw qoydı .
+40024045	kim		İyesi u'y-ishimdegilerdi basqarsın ha'm olarg'a waqtında awqatın bersin dep tayınlag'an isenimli ha'm aqıllı xızmetshi kim ?
+40025037	qashan		Sonda haq adamlar Og'an : « İyem ! Bizler qashan ash bolg'anın'dı ko'rip , Sag'an awqat berdik , qashan sho'llegenin'di ko'rip , suw berdik ?
+40025038	qashan		Qashan jat jerde ju'rgenin'di ko'rip , Seni qabıl ettik , qashan jalan'ash bolg'anın'da , Sag'an kiyim berdik ?
+40025039	Qashan		Qashan nawqas yamasa qamaqta bolg'anın'dı ko'rip , Sag'an bardıq ? » — deydi .
+40025044	qashan		Sonda olar juwap berip : « İyem ! Bizler Senin' qashan ya ash bolg'anın'dı , ya sho'llegenin'di , ya jat jerde ju'rgenin'di , ya jalan'ash , ya nawqas , ya qamaqta bolg'anın'dı ko'rip , Sag'an xızmet etpedik ? » — deydi .
+40026008	nege		Bunı ko'rgen sha'kirtleri ashıwlanıp : — Bunday ısırapkershiliktin' nege keregi bar ?
+40026010	nege		Biraq İysa bunı esitip , olarg'a : — Bul hayaldı nege uyaltıp atırsızlar ? Ol Mag'an jaqsılıq isledi-g'o .
+40026015	ne		— İysanı sizlerge uslap bersem , mag'an ne beresizler ? — dep soradı . Olar og'an otız gu'mis ten'ge usındı .
+40026017	qay jerde		Ashıtqısız nan bayramının' birinshi ku'ninde İysanın' sha'kirtleri Og'an kelip : — Qutqarılıw bayramının' asın jewin' ushın qay jerde tayarlıq ko'riwimizdi qa'leysen' ? — dep soradı .
+40026040	~		Sha'kirtlerinin' qasına qaytıp kelip , olardın' uyıqlap atırg'anın ko'rdi de , Petrge : — Solay etip , sizler Menin' menen birge uyıqlamay bir saat ta otıra almadın'lar ma ?
+40026050	nege		İysa og'an : — Ha'y , dostım , nege keldin' ? — dedi . Sonda olar İysag'a jaqınlap keldi de , Og'an qol salıp uslap aldı .
+40026054	qalayınsha		Biraq eger onday bolsa , Muxaddes Jazıwlardag'ı solay bolıwı tiyis degen so'zler qalayınsha orınlanar edi ? — dedi .
+40026062a	~		Sonda bas ruwxaniy ornınan turıp , İysadan : — Olar Sag'an qarsı gu'walıq berip atır-g'o . 
+40026062b	nege		Sen nege hesh juwap bermeysen' ? — dep soradı .
+40026065	nege		Sonda bas ruwxaniy o'z kiyimlerin jırtıp : — Ol Qudayg'a til tiygizdi-g'o ! Endi bizlerge gu'walardın' nege keregi bar ? Sizler ha'zir Onın' Qudayg'a til tiygizgenin o'zlerin'iz esittin'iz-g'o !
+40026066	qanday		Sizlerdin' hu'kimin'iz qanday boladı ? — dep soradı . Olar juwap qaytarıp : — Ol o'lim jazasına tartılıwı tiyis , — dedi .
+40026068	kim		Og'an : — Ha'y , Masix ! Bizlerge wa'liylik etip ayt : Seni kim urdı ? — dedi . Petrdin' İysadan u'sh ret tanıwı
+40027004	ne		— Men satqınlıq qıldım . Ayıpsız qandı to'ktirip , gu'na isledim , — dedi . Olar og'an : — Bizlerge ne ? O'zin' bil , — dedi .
+40027013	~		Sonda Pilat Og'an : — Sag'an qarsı qanshama gu'walıqlar aytıp atırg'anın esitip turg'an joqsan' ba ? — dedi .
+40027017	kimdi		Xalıq jıynalıp bolg'anda , Pilat olarg'a bılay dedi : — Sizler kimdi bosatıp beriwimdi qa'leysizler ? Barabanı ma yamasa Masix dep atalatug'ın İysanı ma ?
+40027021	qaysısın		Ha'kim olardan ja'ne : — Sizlerge ekewinin' qaysısın bosatıp beriwimdi qa'leysizler ? — dep soradı . Olar : — Barabanı , — dedi .
+40027022	ne		Pilat olarg'a : — Al Masix dep atalatug'ın İysag'a ne isleyin ? — dep soradı . Olardın' ha'mmesi de : — Onı atanaq ag'ashqa shegeletip tasla ! — dedi .
+40027023a	~		
+40027023b	qanday		Al Pilat olardan : — Ol qanday jamanlıq isledi , aqırı ? — dep soradı . Biraq olar burıng'ısınan beter : — Onı atanaq ag'ashqa shegeletip tasla ! — dep baqırıstı .
+40027046	Nege		Saat u'shler shamasında İysa qattı dawıs penen : — Eli , Eli ! Lama sabaxtani ? ( Yag'nıy : « Qudayım , Qudayım ! Nege Meni taslap kettin' ? » ) — dep baqırdı .
+41001024	ne		— Nasıralı İysa ! Bizler menen ne jumısın' bar ? Sen bizlerdi joq etiwge keldin' be ? Senin' kim ekenin'di bilemen , Sen — Qudaydın' Muxaddesisen' ! — dep baqıra basladı .
+41001027	ne		Ha'mme tan' qalısıp , o'z ara : — Bul ne ? Bul qanday qu'diretli jan'a ta'liymat ? Onın' buyrıg'ına jawız ruwxlar da boysınadı-g'o , — desti .
+41002007a	nege		« Ol nege Qudayg'a til tiygizip tur ? 
+41002007b	kim		Gu'nalardı jalg'ız Qudaydan basqa kim keshire aladı ? » — dep oyladı .
+41002008	nege		İysa olardın' ne oylag'anın da'rriw bilip : — İshlerin'izden nege bunday na'rselerdi oylap tursızlar ?
+41002009	neni		La'n' adamg'a neni aytıw an'satıraq : « Gu'naların' keshirildi » , — dew me yamasa « Ornın'nan turıp , to'segin'di alıp ju'r » , — dew me ?
+41002016	nege		Pariseyler arasındag'ı diniy mug'allimler Onın' gu'nakarlar ha'm salıqshılar menen birge as iship otırg'anın ko'rip , Onın' sha'kirtlerine : — Ol nege salıqshılar ha'm gu'nakarlar menen birge as iship otır ? — dedi .
+41002018	nege		Yaqıyanın' ha'm pariseylerdin' sha'kirtleri oraza tutatug'ın edi . Ayırım adamlar İysag'a kelip : — Yaqıyanın' ha'm pariseylerdin' sha'kirtleri oraza tutadı , al Senin' sha'kirtlerin' nege oraza tutpaydı ? — dep soradı .
+41002019	~		İysa olarg'a : — Toyg'a kelgenler ku'yew olar menen birge bolg'an waqıtta oraza tuta ala ma ? Ku'yew o'zleri menen birge bolsa , olar oraza tuta almaydı .
+41002024	ne ushın		Pariseyler İysag'a : — Qara , olar ne ushın dem alıs ku'ninde islewge bolmaytug'ın isti islep atır , — dedi .
+41003004	ne		Son'ınan olardan : — Nızam boyınsha dem alıs ku'ni ne islegen durıs : jaqsılıq pa yamasa jamanlıq pa ? Adamnın' janın qutqarıw ma yamasa nabıt qılıw ma ? — dep soradı . Biraq olar u'ndemedi .
+41003023	qalay		Sonda İysa olardı O'zine shaqırıp alıp , olarg'a tımsallar menen so'yley basladı : — Shaytandı shaytan qalay quwıp shıg'ara aladı ?
+41003033a	kim		İysa olarg'a juwap qaytarıp : — Menin' anam kim , 
+41003033b	kimler		tuwısqanlarım kimler ? — dedi de ,
+41004013	qalay		İysa olarg'a bılay dedi : — Sizler bul tımsaldı tu'sinbeysizler me ? Onda basqa barlıq tımsallardı qalay tu'sinesizler ?
+41004030a	nege		İysa tag'ı bılay dedi : — Quday Patshalıg'ın nege uqsatayıq ? 
+41004030b	qanday		Onı qanday tımsal menen tu'sindiriwge boladı ?
+41004038	~		Al İysa qayıqtın' artqı jag'ında basına dastıq salıp , uyıqlap atır edi . Sha'kirtleri Onı oyatıp : — Ustaz ! Bizler o'letug'ın boldıq-g'o , bul Sag'an ba'ri bir me ? — dedi .
+41004040a	nege		İysa olarg'a : — Nege bunshama qorqasızlar ? 
+41004040b	~		Ele isenimlerin'iz joq pa ? — dedi .
+41004041	kim		Biraq olar qattı qorqısıp , bir-birine : — Samaldı da , ten'izdi de O'zine boysındıratug'ın bul kim ? — desti .
+41005007	ne		— Qu'diretli Qudaydın' Ulı — İysa ! Menin' menen ne jumısın' bar ? Quday ushın o'tinemen , meni qıynama ! — dep qattı baqırdı .
+41005009	kim		Sonda İysa onnan : — Atın' kim ? — dep soradı . Ol : — Menin' atım u'lken topar , sebebi bizler ko'ppiz , — dedi
+41005030	kim		Sonda İysa O'zinen ku'sh shıqqanın da'rriw bilip , xalıqqa burıldı da : — Menin' kiyimime kim qolın tiygizdi ? — dep soradı .
+41005031	kim		Sha'kirtleri Og'an : — Xalıqtın' Seni tıg'ılıstırıp kiyatırg'anın ko'rip turıp , nege : « Menin' kiyimime kim qol tiygizdi » , — dep soraysan' ? — dedi .
+41005035	nege		Ol ele usılardı aytıp turg'anda , ma'jilisxana basshısının' u'yinen adamlar kelip : — Qızın'ız o'ldi . Endi nege Ustazdın' tınıshın alıp tursız ? — dedi .
+41005039a	nege		İysa ishke kirip : — Nege qayg'ırıp , 
+41005039b	~		jılap tursızlar ? Qız o'lgen joq , ol tek uyıqlap atır , — dedi .
+41006002a	qayaqtan		Dem alıs ku'ni bolg'anda , Ol ma'jilisxanada ta'lim bere basladı . Onı tın'lag'an ko'p adamlar tan' qalısıp : — Bulardın' ba'rin Ol qayaqtan alg'an ? 
+41006002b	kim		Og'an bunday danalıqtı kim bergen ? 
+41006002c	qalay		Usınday ka'ramatlar Onın' qolı menen qalay islenbekte ?
+41006022	ne		Sonda Hirodiyanın' qızı kelip oyıng'a tu'sip , Hirodtın' ha'm onın' qonaqlarının' kewlinen shıqtı . Hirod qızg'a : — Mennen ne tilesen' de sora , beremen , — dedi .
+41006024	Ne		Qız sırtqa shıg'ıp , anasına : — Ne sorayın ? — dedi . Anası : — Shomıldırıwshı Yaqıyanın' basın sora ! — dedi .
+41006037	~		İysa olarg'a juwap berip : — Olarg'a sizler awqat berin'ler ! — degende , olar : — Rasında da , eki ju'z dinarg'a nan satıp alıp , xalıqqa jegizeyik pe ? — dedi .
+41006038	Qansha		İysa olarg'a : — Qansha nanın'ız bar ? Barıp ko'rin'ler , — dedi . Olar bilip kelip : — Bes nan , eki balıq bar eken , — desti .
+41007005	Nege		Sonlıqtan pariseyler menen diniy mug'allimler İysadan : — Nege Senin' sha'kirtlerin' ata-babalardan qalg'an u'rp-a'detlerdi orınlamay , haram qolları menen awqat jeydi ? — dep soradı .
+41008004	kim		Sha'kirtleri Og'an juwap berip : — Kim usınday bir elsiz jerde sonshelli adamdı toydırıw ushın nan taba aladı ? — dedi .
+41008005	Neshe		İysa olardan : — Neshe nanın'ız bar ? — dep soradı . Olar : — Jetew , — dep juwap berdi .
+41008012	Nege		İysa awır gu'rsinip : — Nege bul a'wlad ka'ramatlı belgi talap etip atır ? Shının aytıp turman : bul a'wladqa hesh qanday ka'ramatlı belgi ko'rsetilmeydi , — dedi .
+41008017	Nege		İysa bunı bilip , olardan : — Nege sizler nanın'ızdın' joqlıg'ın aytısıp tursızlar ? Elege deyin ko'rmey ha'm tu'sinbey tursızlar ma ? Elege deyin kewillerin'iz soqır ma ?
+41008018a	nege		Nege ko'zlerin'iz bola tura ko'rmeysizler , qulaqların'ız bola tura esitpeysizler ? 
+41008018b	~		Eslerin'izde joq pa ?
+41008019	neshe		Men bes nandı bes mın' adamg'a sındırıp bergenimde , awısqan bo'leklerdi jıynap neshe sebet toltırdın'lar ? — dep soradı . — On eki , — dep juwap berdi olar .
+41008020	neshe		İysa ja'ne : — Men jeti nandı sındırıp , to'rt mın' adamg'a bo'listirgenimde , awısqan bo'leklerdi jıynap neshe sebet toltırdın'lar ? — dep soradı . — Jeti , — dep juwap berdi olar .
+41008021	~		İysa olarg'a : — Sonda ele de tu'sinbedin'ler me ? — dedi . İysanın' Betsaydada soqır adamg'a shıpa beriwi
+41008023	~		İysa soqır adamnın' qolınan uslap , onı awıldın' sırtına alıp shıqtı . Onın' ko'zlerine tu'kirip , onın' u'stine qolların qoydı da : — Bir na'rse ko'rip tursan' ba ? — dep soradı .
+41008027	kim		İysa O'z sha'kirtleri menen Filip Kesariyasındag'ı awıllarg'a ketti . Jol boyı sha'kirtlerinen : — Meni adamlar kim dep sanaydı ? — dep soradı .
+41008029a	~		
+41008029b	kim		İysa olardan : — Al sizler Meni kim dep sanaysızlar ? — dep soradı . Petr juwap berip : — Sen — Masixsan' , — dedi .
+41008036	ne		Adam pu'tkil du'nyanı iyelep alıp , biraq o'z janın jog'altsa , bunnan og'an ne payda ?
+41008037	qanday		Ol o'z janı ushın qanday to'lem bere aladı ?
+41009010	ne		Olar bul waqıyanı sır saqlap , « o'limnen qayta tiriliw » degennin' ne ekenligi haqqında bir-birinen soraytug'ın edi .
+41009011	Nege		Sha'kirtleri İysadan : — Nege diniy mug'allimler aldı menen İliyas keliwi sha'rt deydi ? — dep soradı .
+41009012	nege		İysa olarg'a juwap berip : — Durıs , aldı menen İliyas kelip , ha'mmesin du'zetedi . Biraq nege Adam Ulı ko'p azap shegip , qabıllanbawı sha'rt , dep jazılg'an ?
+41009016	ne		İysa olardan : — Olar menen ne haqqında tartısıp tursızlar ? — dep soradı .
+41009019a	qashang'a		Sonda İysa olarg'a : — Ha'y , isenbeytug'ın a'wlad ! Men qashang'a deyin sizler menen birge bolaman ? 
+41009019b	qashang'a		Qashang'a deyin sizlerge shıdayman ? Balanı Mag'an alıp kelin'ler , — dedi .
+41009021	qansha		Sonda İysa balanın' a'kesinen : — Bunday bolg'anına qansha waqıt boldı ? — dep soradı . A'kesi : — Kishkene bala waqtınan usınday .
+41009028	nege		İysa u'yge kirgennen keyin , sha'kirtleri awlaqta Onnan : — Bizler nege jawız ruwxtı quwıp shıg'ara almadıq ? — dep soradı .
+41009033	ne		Olar Kaparnahumg'a keldi . İysa u'yde bolg'anda , sha'kirtlerinen : — Jol boyı ne haqqında tartıstın'lar ? — dep soradı .
+41009050	qalay		Duz — jaqsı na'rse . Biraq duz o'z ku'shin joytsa , onı qalay ja'ne shorlı qılıwg'a boladı ? O'zlerin'izde duz bolıp , bir-birin'iz benen tatıwlıqta jasan'lar , — dedi .
+41010003	neni		İysa sorawg'a soraw menen juwap berip : — Muwsa sizlerge neni buyırg'an edi ? — dedi .
+41010017	ne		İysa jolg'a shıg'ıp baratırg'anda bir adam juwırıp kelip , Onın' aldında dize bu'kti de : — İygilikli Ustaz ! Ma'n'gilik o'mirdi alıwım ushın ne islewim kerek ? — dep soradı .
+41010018	nege		İysa og'an : — Sen nege Meni iygilikli dep atap atırsan' ? Jalg'ız Qudaydan basqa hesh kim iygilikli emes .
+41010026	kim		Olar qattı tan' qalısıp , bir-birine : — Olay bolsa , kim qutqarıla aladı ? — dedi .
+41010036	ne		İysa olardan : — Menin' sizler ushın ne islewimdi qa'leysizler ? — dep soradı .
+41010051	ne		İysa onnan : — Menin' sen ushın ne islewimdi qa'leysen' ? — dep soradı . Soqır adam Og'an : — Ustaz ! Ko'zlerim ko'retug'ın bolsın , — dedi .
+41011003	Nege		Eger birew sizlerden : « Nege bunday islep atırsızlar ? » — dep sorasa , sizler : « Bul İyemizge kerek . Ol bunı tez qaytarıp jiberedi » , — dep juwap berin'ler .
+41011005	ne		Sol jerde turg'an geybirewler olarg'a : — Gu'rreni sheship alıp ne qılajaqsızlar ? — dep soradı .
+41011028a	qanday		Onnan : — Sen bulardı qanday biylik penen islep ju'rsen' ? 
+41011028b	kim		Sag'an bul islerdi islewge kim biylik bergen ? — dep soradı .
+41011030	~		Yaqıyanın' shomıldırıwı aspannan boldı ma yamasa adamlardan ba ? Juwap berin'ler , — dedi .
+41011031a	~		Olar o'z ara oylasa basladı : 
+41011031b	nege		« Eger „ aspannan “ desek , Ol : „ Sonda nege og'an isenbedin'ler “ , deydi .
+41012009	ne		Endi ju'zim bag'ının' iyesi ne isleydi ? Ol kelip , diyxanlardı joq qıladı da , ju'zim bag'ın basqalarg'a beredi .
+41012015	nege		Biraq İysa olardın' eki ju'zliligin bilip : — Meni nege sınap atırsızlar ? Mag'an bir dinar a'kelin'ler , ko'reyin , — dedi .
+41012016a	kimnin'		Olar alıp kelgende , Ol : — Bunda kimnin' su'wreti bar 
+41012016b	kimnin'		ha'm kimnin' atı jazılg'an ? — dep soradı . Olar : — Rim patshası-Qaysardın' , — dedi .
+41012023	qaysısının'		Olar qayta tirilgende , hayal qaysısının' hayalı boladı ? Sebebi ol jetewine de hayal bolg'an-g'o , — dep soradı .
+41012028	qaysı		Diniy mug'allimlerdin' biri olardın' tartısların esitti . İysanın' olarg'a jaqsı juwap bergenin ko'rip , Onnan : — Buyrıqlardın' ishinde en' baslısı qaysı ? — dep soradı .
+41012035	qalayınsha		İysa İbadatxanada adamlarg'a ta'lim berip atırıp : — Qalayınsha diniy mug'allimler Masixtı Dawıttın' Urpag'ı deydi ?
+41012037	qalayınsha		Dawıttın' o'zi Onı « İyem » dep atag'an bolsa , Ol qalayınsha onın' Urpag'ı boladı ? — dep soradı . Ko'p xalıq Onı quwanısh penen tın'ladı . Diniy mug'allimler haqqında
+41013004a	qashan		— Bizlerge ayt , bular qashan boladı 
+41013004b	qanday		ha'm bulardın' ha'mmesinin' bolatug'ının qanday belgi bildiredi ? — dep soradı .
+41014004	nege		Geybirewler ashıwlanıp , bir-birine : — Bul may nege biykarg'a ısırap etildi ?
+41014006	nege		Biraq İysa : — Hayaldı tınıshına qoyın'lar . Onı nege uyaltıp atırsızlar ? Ol Mag'an jaqsılıq isledi-g'o .
+41014012	qay jerge		Ashıtqısız nan bayramının' birinshi ku'ni Qutqarılıw bayramının' qozısı shalıng'anda , sha'kirtleri İysag'a : — Qutqarılıw bayramının' asın jewin' ushın , bizlerdin' qay jerge barıp tayarlıq ko'riwimizdi qa'leysen' ? — desti .
+41014014	qa'ne		Ol kirgen u'ydin' iyesine : « Ustazımız : „ Sha'kirtlerim menen birge bayram asın jeytug'ın bo'lme qa'ne ? “ — dep sorap atır » , den'ler .
+41014060a	~		Sonda bas ruwxaniy ortag'a shıg'ıp , İysadan : — Olar Sag'an qarsı gu'walıq berip atır-g'o . 
+41014060b	nege		Sen nege hesh juwap bermeysen' ? — dep soradı .
+41014063	nege		Sonda bas ruwxaniy o'z kiyimlerin jırtıp : — Endi bizlerge gu'walardın' nege keregi bar ?
+41014064	qararın'ız qanday		Qudayg'a til tiygizgenin esittin'ler-g'o . Sizlerdin' qararın'ız qanday ? — dedi . Olardın' ha'mmesi İysanı o'lim jazasına hu'kim etiwge qarar etti .
+41015004	~		Pilat ja'ne İysadan sorap : — Sen hesh juwap bermeysen' be ? Qara , olar Sag'an qanshama ayıp tag'ıp atır , — dedi .
+41015012	ne		Pilat olarg'a ja'ne : — Olay bolsa , sizler Yahudiylerdin' Patshası dep atag'an Adamg'a ne isleyin ? — dedi .
+41015014a	~		
+41015014b	qanday		Pilat olardan : — Ol qanday jamanlıq isledi , aqırı ? — dep soradı . Biraq olar qattıraq baqırısıp : — Onı atanaq ag'ashqa shegelet ! — dedi .
+41015034	Nege		Saat u'shte İysa qattı dawıs penen : — Eloy , Eloy ! Lama sabaxtani ? — dep baqırdı . Bul : « Qudayım , Qudayım ! Nege Meni taslap kettin' ? » — degendi an'latadı .
+41016003	kim		O'z ara : — Qa'birdin' awzındag'ı tastı bizlerge kim domalatıp berer eken ? — dep so'ylesti .
+42001018	qayaqtan		Sonda Zekeriya perishtege : — Bulardın' ras ekenin men qayaqtan bilemen ? O'ytkeni men g'arrıman , hayalım da qartayg'an-g'o , — dedi .
+42001034	qalay		Ma'riyam perishteden : — Men er adamg'a jaqınlamag'an bolsam , bul qalay boladı ? — dep soradı .
+42001043	kimmen		İyemnin' anası keletug'ınday , men kimmen ?
+42001066	kim		Esitkenlerdin' ha'mmesi bunı kewillerinde saqlap : « Bul na'reste kim bolar eken ? » — deytug'ın edi . Sebebi Jaratqan İyemizdin' qu'direti onın' menen birge edi . Zekeriyanın' payg'ambarshılıq jırı
+42002048	nege		Ata-anası İysanı ko'rip , an'-tan' boldı ha'm anası Og'an : — Balam , Sen nege bizlerge bunday isledin' ? A'ken' menen ekewimiz qattı qayg'ırıp , Seni izledik , — dedi .
+42002049	nege		İysa olarg'a : — Meni izlewdin' nege keregi bar edi ? A'kemnin' u'yinde bolıwım kerek ekenin bilmedin'iz be ? — dedi .
+42003007	kim		Yaqıya shomıldırılıwg'a kelgen alamang'a bılay dedi : — Ha'y , uwlı jılanlardın' tuqımları ! Keleshektegi qa'ha'rli jazadan qutılıwdı sizlerge kim u'yretti ?
+42003010	ne		Sonda xalıq onnan : — Olay bolsa , bizler ne islewimiz kerek ? — dep soradı .
+42003012	ne		Salıqshılar da shomıldırılıw ushın kelip , Yaqıyadan : — Ustaz , bizler ne islewimiz kerek ? — dep soradı .
+42003014a	~		A'skerler de onnan : 
+42003014b	ne		— Al bizler ne islewimiz kerek ? — dep soradı . Yaqıya olarg'a : — Hesh kimdi tonaman'lar , hesh kimge jala jappan'lar , o'z is haqın'ızg'a qanaat etin'ler , — dedi .
+42004034	ne		— O , Nasıralı İysa ! Bizler menen ne jumısın' bar ? Sen bizlerdi joq etiwge keldin' be ? Senin' kim ekenin'di bilemen , Sen — Qudaydın' Muxaddesisen' ! — dedi .
+42004036	ne		Ha'mme tan' qalısıp , bir-birine : — Bul ne ga'p ? Ol jawız ruwxlarg'a biylik ha'm qu'diret penen buyrıq bergende , olar shıg'ıp ketedi-g'o , — desti .
+42005021a	kim		Diniy mug'allimler menen pariseyler : « Qudayg'a til tiygizip turg'an Bul kim ? 
+42005021b	kim		Gu'nalardı jalg'ız Qudaydan basqa kim keshire aladı ? » — dep ishlerinen oylay basladı .
+42005022	nege		İysa olardın' ne oylag'anın bilip , olarg'a : — İshlerin'izden nege bunday na'rselerdi oylap tursızlar ?
+42005023	qaysısın		Qaysısın aytıw an'satıraq : « Gu'naların' keshirildi » , — dew me yamasa : « Ornın'nan turıp , ju're ber » , — dew me ?
+42005030	nege		Pariseyler menen diniy mug'allimler İysanın' sha'kirtlerine narazılıq bildirip : — Sizler nege salıqshılar ha'm gu'nakarlar menen birge iship-jep otırsızlar ? — dedi .
+42005033	~		Olar İysag'a : — Yaqıyanın' sha'kirtleri jiyi-jiyi oraza tutıp , duwa etedi . Pariseylerdin' sha'kirtleri de solay isleydi . Al Senin' sha'kirtlerin' iship-jep ju'ripti , — dedi .
+42005034	~		İysa olarg'a : — Ku'yew o'zleri menen birge bolg'anda , toyg'a kelgenlerdi oraza tutıwg'a ma'jbu'r ete alasızlar ma ?
+42006002	nege		Geypara pariseyler olarg'a : — Sizler nege dem alıs ku'ninde islewge bolmaytug'ın isti islep atırsızlar ? — dedi .
+42006009	ne		Sonda İysa olarg'a : — Sizlerge bir soraw bereyin : nızam boyınsha dem alıs ku'ni ne islegen durıs : jaqsılıq pa yamasa jamanlıq pa ? Adamnın' janın qutqarıw ma yamasa nabıt qılıw ma ? — dedi .
+42006032	qanday		Eger sizler o'zlerin'izdi su'ygenlerdi g'ana su'ysen'ler , bul ushın qanday alg'ıs alasızlar ? Gu'nakarlar da o'zlerin su'ygenlerdi su'yedi-g'o .
+42006033	qanday		Eger o'zlerin'izge jaqsılıq islegenlerge g'ana jaqsılıq islesen'ler , bul ushın qanday alg'ıs alasızlar ? Gu'nakarlar da usılay isleydi-g'o .
+42006034	qanday		Eger sizler qaytarıp alıwdan u'mit etip , qarız bersen'ler , bul ushın qanday alg'ıs alasızlar ? Gu'nakarlar da qansha qarız berse , sonsha qaytarıp alıw ushın , gu'nakarlarg'a qarız beredi-g'o .
+42006039	~		İysa olarg'a ja'ne bir tımsal ayttı : — Soqırdı soqır jetelep ju're ala ma ? Ekewi de bir shuqırg'a qulap tu'spey me ?
+42006041	nege		Sen nege tuwısqanın'nın' ko'zindegi sho'pti ko'rip turıp , o'z ko'zin'degi qadanı sezbeysen' ?
+42006042	qalay		O'z ko'zin'degi qadanı ko'rmey turıp , qalay : « Tuwısqanım , qa'ne , ko'zin'degi sho'pti shıg'arıp alayın » , — dep tuwısqanın'a ayta alasan' ? Ha'y , eki ju'zli ! Da'slep o'z ko'zin'degi qadanı shıg'ar , sonda anıq ko'rip , tuwısqanın'nın' ko'zindegi sho'pti shıg'ara alasan' . Terek miywesinen biliner
+42006046	nege		Nege sizler Meni : « İyem , İyem » dep shaqırıp , aytqanlarımdı qılmaysızlar ?
+42007024	neni		Yaqıyanın' jibergen adamları qaytıp ketkennen son' , İysa xalıqqa Yaqıya tuwralı bılay dep ayta basladı : — Sizler sho'l dalag'a neni ko'riwge bardın'lar ? Samal terbetken qamıstı ma ?
+42007025	neni		Neni ko'riwge bardın'lar ? Jipek kiyim kiygen bir adamdı ma ? Biraq hasıl kiyim kiyip , baylıqta jasaytug'ınlar patsha saraylarında boladı-g'o .
+42007026	neni		Solay etip , neni ko'riwge bardın'lar ? Payg'ambardı ma ? Awa , Menin' sizlerge aytatug'ınım : ol — payg'ambardan da ullı .
+42007031a	kimge		İysa ja'ne : — Ha'zirgi a'wladtın' adamların kimge uqsatayın , 
+42007031b	kimlerge		olar kimlerge megzeydi ?
+42007042	qaysısı		Biraq olardın' to'leytug'ın hesh na'rsesi bolmag'anlıqtan , ol ekewinin' de qarızınan keshipti . Qa'ne , aytshı , olardın' qaysısı onı ko'birek su'yedi ? — dedi .
+42007049	kim		Sonda İysa menen birge dasturxan basında otırg'anlar o'z ara : — Gu'nalardı da keshiretug'ın bul kim o'zi ? — desti .
+42008025a	qa'ne		İysa sha'kirtlerine : — İsenimin'iz qa'ne ? — dedi . Olar qorqısıp , an'-tan' bolısıp , bir-birine : 
+42008025b	kim		— Bul kim O'zi ? Ol samal menen suwg'a buyrıq bergende , olar Og'an boysınadı-g'o ! — desti . Jinge shalıng'an adamnın' shıpa tabıwı
+42008028	ne		Ol İysanı ko'rgende qıshqırıp jiberdi ha'm İysanın' aldına jıg'ılıp , qattı dawıs penen : — Qu'diretli Qudaydın' Ulı — İysa ! Menin' menen ne jumısın' bar . O'tinemen , meni qıynama ! — dedi .
+42008030	kim		İysa onnan : — Atın' kim ? — dep soradı . — U'lken topar , — dep juwap berdi ol . Sebebi onın' ishine ko'p jin kirgen edi .
+42008045	kim		Sonda İysa : — Mag'an kim qolın tiygizdi ? — dep soradı . Hesh kim moynına almag'annan son' , Petr : — Ustaz ! Xalıq Seni qorshap , ja'n-jag'ın'nan qısıp tur-g'o , — dedi .
+42009009a	kim		Al Hirod : « Yaqıyanın' basın kestirgen edim-g'o . Endi mınaday islerdi islep atır dep , men esitken Adam kim boldı eken ? » — dep İysanı ko'riwdin' jolın izlestirdi . İysanın' bes mın'nan aslam adamdı toyg'ızıwı
+42009009b	~		
+42009018	kim		Ku'nlerdin' birinde İysa awlaq jerde duwa etip turg'anda , sha'kirtleri de Onın' menen birge edi . İysa olardan : — Xalıq Meni kim dep sanaydı ? — dep soradı .
+42009020a	~		
+42009020b	kim		İysa olardan : — Al sizler Meni kim dep sanaysızlar ? — dep soradı . Petr Og'an : — Sen — Qudaydın' jibergen Masixısan' , — dep juwap berdi . İysanın' O'z o'limi ha'm qayta tiriliwi haqqında aldın ala aytıwı
+42009025	ne		Eger adam pu'tkil du'nyanı iyelegeni menen , o'z janın joytıp , o'zine zıyan keltirse , bunnan og'an ne payda ?
+42009041a	qashang'a		İysa juwap berip : — Ha'y , isenbeytug'ın , adasqan a'wlad ! Men qashang'a deyin sizler menen birge bolıp , 
+42009041b	~		sizlerge shıdayman ? Balan'dı bul jerge alıp kel , — dedi .
+42010025	ne		Sonda bir nızam mug'allimi ornınan turıp , İysanı sınap ko'riw ushın , Onnan : — Ustaz , ma'n'gilik o'mirdi alıwım ushın ne qılıwım kerek ? — dep soradı .
+42010026a	ne		İysa og'an : — Muxaddes Nızamda ne dep jazılg'an ? 
+42010026b	qalay		Sen onı qalay tu'sinesen' ? — dedi .
+42010029	kim		Biraq ol o'zin aqlag'ısı kelip , İysadan : — Menin' jaqınım kim ? — dep soradı .
+42010036a	~		
+42010036b	qaysısı		Endi usı u'shewinin' ishinde qaysısı qaraqshılardın' qolına tu'sken adamnın' jaqını boladı , dep oylaysan' ?
+42011008	~		Biraq sizlerge aytatug'ınım : ornınan turıp , dostı bolg'anı ushın sorag'anın bermese de , izinen qalmay sorag'anı sebepli ol ornınan turıp , qansha sorasa , sonsha beredi .
+42011011	qaysı		Aran'ızda qaysı a'ke balası balıq sorasa , og'an balıq ornına jılan beredi ?
+42011012	~		Ma'yek sorasa , og'an shayan beredi ?
+42011013	~		Solay etip , o'zlerin'iz jaman bola tura , o'z balaların'ızg'a jaqsı sıylar beriwdi bilsen'iz , aspandag'ı A'ke de O'zinen sorag'anlarg'a Muxaddes Ruwxtı beriwi so'zsiz . İysa ha'm Belzebu'l
+42011018	qalay		Eger shaytan o'z ara qarsı bolıp bo'linse , onın' patshalıg'ı qalay saqlanadı ? Sizler Meni : « Jinlerdi Belzebu'l-shaytannın' ku'shi menen quwıp shıg'arıp ju'r » , — deysizler .
+42011019	kimnin'		Eger Men jinlerdi Belzebu'l-shaytannın' ku'shi menen quwıp shıg'aratug'ın bolsam , onda sizlerdin' sha'kirtlerin'iz olardı kimnin' ku'shi menen quwıp shıg'arıp ju'r ? Solay etip , olar sizlerdin' nadurıs ekenin'izdi a'shkaralaydı .
+42012014	kim		İysa og'an : — Kim Meni sizlerge qazı yamasa miyraslardı bo'liwshi etip qoydı ? — dedi .
+42012017	Ne		Ol o'z-o'zine : « Ne islesem eken ? O'nimlerimdi jıynap qoyatug'ın jerim joq » , — dep pikir ju'rgizipti .
+42012020	kimge		Biraq Quday og'an : — Ha'y , aqmaq , bu'gin tu'nde senin' janın' alınadı . Sonda senin' jıynap-tergenlerin' kimge qaladı ? — depti .
+42012024	~		G'arg'alarg'a qaran'lar : olar ekpeydi de , ormaydı da . Olardın' ya da'n saqlag'ıshları , ya g'a'llexanaları joq . Biraq , Quday olardı asıraydı . Al sizler quslardan qanshelli qımbatlısızlar !
+42012025	kim		Ta'shiwishleniw sebepli , kim sizlerdin' aran'ızda o'z o'mirin bir saatqa bolsa da uzayta aladı ?
+42012026	nege		Eger usınday kishkene na'rse qolın'ızdan kelmese , basqa na'rseler haqqında ta'shiwishleniwdin' nege keregi bar ?
+42012042	kim		İyemiz bılay dedi : — İyesi u'y-ishimdegilerge tiyisli awqatın waqtında bersin dep , olardın' u'stinen tayınlag'an isenimli ha'm aqıllı u'y basqarıwshı kim ?
+42012049	~		— Men du'nya ju'zine ot salıwg'a keldim . Onın' ha'zir-aq jalınlap ketiwin qanshelli qa'ler edim !
+42012056	nege		Ha'y , eki ju'zliler ! Jer ha'm aspannın' tu'sin anıqlay alsan'lar da , nege ha'zirgi waqıttın' rayın anıqlay almaysızlar ?
+42012057	nege		Nenin' durıs ekenin nege o'zlerin'iz sheshe almaysızlar ?
+42013004	~		U'stilerine Siloha minarası qulap o'lgen on segiz adam Erusalimde jasawshı adamlardın' ha'mmesinen ayıplıraq edi , dep oylaysızlar ma ?
+42013007	Nege		Sonda ol bag'mang'a : « Mine , men u'sh jıldan beri bul a'njir ag'ashınan miywe alıw ushın kelemen , biraq taba almayman . Onı shawıp tasla ! Nege ol bosqa orın iyelep tur ? » — depti .
+42013015	~		İyemiz İysa og'an bılay dep juwap berdi : — Ha'y , eki ju'zliler ! Dem alıs ku'ni ha'r birin'iz o'gizin'izdi yamasa eshegin'izdi qoradan sheship alıp , suwg'arıwg'a aparmaysız ba ?
+42013018a	nege		Son'ınan İysa : — Quday Patshalıg'ı nege uqsaydı ? 
+42013018b	nege		Onı nege megzeteyin ?
+42013020	nege		İysa ja'ne bılay dedi : — Quday Patshalıg'ın nege uqsatayın ?
+42013025	qayaqtan		U'ydin' İyesi turıp qapını jawıp taslag'anda , sizler sırtta turıp , qapını qag'a baslap : « İyem ! İyem ! Bizlerge qapını ash ! » — deysizler . Biraq Ol sizlerge : « Men sizlerdi tanımayman ha'm qayaqtan kelgenin'izdi bilmeymen » , — dep juwap beredi .
+42014005	~		Son'ınan olarg'a bılay dedi : — Aran'ızdag'ı birin'izdin' balası yamasa o'gizi qudıqqa tu'sip ketse , dem alıs ku'ni bolıwına qaramastan , onı da'rriw shıg'arıp almay ma ?
+42014028	~		Aran'ızdag'ı birin'iz minara qurmaqshı bolsa , onı pitkeriw ushın g'a'rejet jete me dep , aldın ala otırıp , esaplap shıqpay ma ?
+42014031	Qaysı		Qaysı bir patsha basqa patshag'a qarsı urısqa shıg'ajaq bolsa , o'zimnin' on mın' a'skerim menen , kiyatırg'an qarsılasımnın' jigirma mın' a'skerine qarsı tura alaman ba dep , aldın ala otırıp oylanıp almay ma ?
+42014034	qalay		Duz — jaqsı na'rse . Biraq duz o'z ku'shin joytsa , onı qalay ja'ne shorlı qılıwg'a boladı ?
+42015004	~		— Aytayıq , aran'ızdag'ı birin'izdin' ju'z qoyı bolıp , birewin joytıp alsa , ol toqsan tog'ızın sho'l dalada qaldırıp , joytılg'an bir qoyın tappag'ansha izlep ju'rmes pe edi ?
+42015008	~		— Aytayıq , bir hayaldın' on gu'mis ten'gesi bolıp , birewin joytıp alsa , ol shıra jag'ıp , u'ydi sıpırıp , tappag'ansha muqıyatlap izlemes pe edi ?
+42015026	ne		Xızmetshilerinin' birewin shaqırıp alıp : — Bul ne ? — dep soraptı .
+42015029	~		Biraq ol a'kesine bılay depti : — Mine , men sag'an neshe jıldan beri xızmet etip kiyatırman , hesh qashan senin' buyrıg'ın'a qarsı shıqqan emespen . Biraq doslarım menen waqtı xoshlıq etiwim ushın , sen mag'an bir ılaq ta bergen joqsan' .
+42016002	ne		Bay onı shaqırıp alıp : — Sen tuwralı esitip atırg'anım ne ga'p ? O'z jumısın' boyınsha esap ber . Sen bunnan bılay u'y basqarıwshı bola almaysan' , — depti .
+42016003	Ne		Sonda u'y basqarıwshı o'z-o'zine : — Ne qılsam eken ? Xojayınım meni jumıstan bosatıp atır . Jer qazıwg'a ku'shim jetpeydi , sadaqa sorawg'a uyalaman .
+42016005	qansha		xojayınına qarızdar adamlardı birim-birim shaqırıp alıp , olardın' birinshisinen : — Xojayınımnan qansha qarızın' bar ? — dep soraptı .
+42016007	qansha		Son'ınan basqasınan : — Senin' qansha qarızın' bar ? — dep soraptı . — Mın' qap biyday , — dep juwap beripti ol . Og'an da : — Til xatın'dı al da , segiz ju'z qap dep jaz , — depti .
+42016011	kim		Solay etip , eger sizler bul du'nyanın' baylıg'ına sadıq bolmasan'ız , kim sizlerge aspandag'ı haqıyqıy baylıqtı isenip tapsıradı ?
+42016012	kim		Eger sizler basqag'a tiyisli na'rsege sadıq bolmasan'ız , kim sizlerge o'zlerin'izdikin beredi ?
+42017007	qaysı		Aran'ızda qaysı birin'izdin' jer aydap yamasa mal bag'ıp ju'rgen xızmetshisi daladan qaytqanda , og'an : « Tez kelip , dasturxang'a otır » , — deydi ?
+42017017	qayaqta		Sonda İysa : — Shıpa tapqan on adam emes pe edi ? Qalg'an tog'ızı qayaqta ?
+42017018	~		Qudayg'a alg'ıs aytıw ushın , mına shet elliden basqa hesh kim qaytıp kelmedi me ? — dedi .
+42017020	qashan		Pariseyler Quday Patshalıg'ının' qashan keletug'ının sorag'anda , İysa olarg'a bılay dep juwap berdi : — Quday Patshalıg'ı ko'zge ko'rinip kelmeydi .
+42017037	qay jerde		Sonda sha'kirtleri İysadan : — İyem , bul waqıyalar qay jerde boladı , — dep soradı . İysa olarg'a : — O'lik qay jerde bolsa , quzg'ınlar da sol jerge jıynaladı , — dedi .
+42018018	ne		Bir basshı İysadan : — İygilikli Ustaz ! Ma'n'gilik o'mirdi alıwım ushın ne islewim kerek ? — dep soradı .
+42018019	nege		İysa og'an : — Sen nege Meni iygilikli dep atap atırsan' ? Jalg'ız Qudaydan basqa hesh kim iygilikli emes .
+42018026	kim		Bunı esitkenler : — Olay bolsa , kim qutqarıla aladı ? — dep soradı .
+42018036	Ne		Qasınan adamlardın' o'tip baratırg'anın esitken ol : — Ne bolıp atır ? — dep soradı .
+42018041	ne		— Sen ushın ne islewimdi qa'leysen' ? — dep soradı . — İyem , ko'zlerim ko'retug'ın bolsın , — dedi ol .
+42019007	~		Bunı ko'rgenlerdin' ha'mmesi : — Ol gu'nakar adamnın' u'yine qonaqqa bardı , — dep narazılıq bildire basladı .
+42019023	nege		nege endi aqshamdı aylanısqa berip jibermedin' ? Sonda men qaytıp kelgenimde , onı paydası menen qaytarıp alar edim-g'o » , — depti .
+42019031	nege		Eger birew : « Onı nege sheship atırsızlar ? » — dep sorasa , « Ol İyemizge kerek » , — dep aytın'lar .
+42019033	nege		Olar gu'rreni sheship atırg'anda , onın' iyeleri : — Gu'rreni nege sheship atırsızlar ? — dep soradı .
+42020002a	qanday		Onnan : — Bizlerge aytshı , bul islerdi qanday biylik penen islep ju'rsen' 
+42020002b	kim		ha'm bunday biylikti Sag'an kim berdi ? — dep soradı .
+42020005a	~		Olar o'z ara oylasıp : — Eger « aspannan » desek , Ol bizlerge : 
+42020005b	nege		« Onda nege sizler og'an isenbedin'ler » , — dep aytar .
+42020013	Ne		Sonda ju'zim bag'ının' iyesi : « Ne qılsam eken ? Su'yikli ulımdı jibereyin . Mu'mkin , onı hu'rmet eter » , — depti .
+42020015	ne		onı ju'zim bag'ınan sırtqa shıg'arıp , o'ltiripti . Endi ju'zim bag'ının' iyesi olarg'a ne isleydi ?
+42020017	neni		Biraq İysa ko'zlerin olarg'a tigip : — Olay bolsa , Muxaddes Jazıwdag'ı : « Qurılısshılar kereksiz dep taslag'an tas , U'ydin' mu'yeshinin' tiykarg'ı tası boldı » , — degen so'zler neni an'latadı ?
+42020023	~		Biraq İysa olardın' hiylesin tu'sinip , olarg'a :
+42020024a	kimnin'		— Mag'an bir dinar ko'rsetin'ler . Bunda kimnin' su'wreti bar ha'm kimnin' atı jazılg'an ? — dedi . Olar : — Qaysardın' , — dep juwap berdi .
+42020024b	~		
+42020033	qaysısının'		Al qayta tiriliwde ol jetewinin' ishinde qaysısının' hayalı boladı ? Ol jetewine de hayal bolg'an edi-g'o , — dep soradı .
+42020041	Nege		İysa olarg'a bılay dedi : — Nege Masixtı Dawıttın' Urpag'ı desedi ?
+42020044	qalayınsha		Solay etip , Dawıt Onı « İyem » dep atag'an bolsa , Ol qalayınsha onın' Urpag'ı boladı ? Diniy mug'allimler haqqında
+42021007a	qashan		Olar İysadan : — Ustaz , bular qashan boladı ? 
+42021007b	qanday		Bulardın' bolatug'ının aldın ala qanday belgi bildiredi ? — dep soradı .
+42022009	Qay jerde		Olar : — Qay jerde tayarlawımızdı qa'leysen' ? — dep soradı .
+42022011	qa'ne		ha'm u'ydin' iyesine : « Ustazımız : „ Sha'kirtlerim menen birge bayram asın jeytug'ın bo'lmem qa'ne ? “ — dep sennen sorap atır » , — den'ler .
+42022027	Qaysı		Qaysı biri ullı : dasturxan basında otırg'an ba yamasa xızmet etip turg'an ba ? Dasturxan basında otırg'an emes pe ? Biraq Men sizlerdin' aran'ızda xızmetshideymen .
+42022046	Nege		Olarg'a : — Nege uyıqlap atırsızlar ? Turın'lar , azg'ırılmawın'ız ushın duwa etin'ler , — dedi . İysanın' qolg'a alınıwı
+42022064	kim		Onın' ko'zlerin baylap , Onnan : — Wa'liylik etip ayt , Seni kim urdı ? — dep soradı .
+42022071	qanday		Sonda olar : — Bizlerge ja'ne qanday gu'walıq kerek ? O'z awzınan esittik-g'o , — desti .
+42023022a	~		
+42023022b	qanday		Pilat u'shinshi ret olarg'a : — Ol qanday jamanlıq isledi , aqırı ? Men Onnan o'limge ılayıqlı hesh ayıp tappadım . Solay eken , Onı jazalap , bosatıp jibereyin , — dedi .
+42023031	ne		O'ytkeni jap-jasıl ag'ashqa usılay islese , quwrag'an ag'ashqa ne qıladı eken ?
+42024005	nege		Hayallardın' hu'reyleri ushıp , basların jerge iygende , eki adam olarg'a bılay dedi : — Tirini o'lilerdin' arasınan nege izleysizler ?
+42024017	neler		İysa olardan : — Sizler o'z ara neler haqqında so'ylesip baratırsızlar ? — dep soradı . Olar qapalı pishinde toqtap qaldı .
+42024019	Qanday		İysa olardan : — Qanday waqıyalardan ? — dep soradı . Olar juwap berip : — Nasıralı İysa haqqında waqıyalar da . Ol Qudaydın' ha'm pu'tkil xalıqtın' aldında isinde de , so'zinde de qu'diretli bolg'an payg'ambar edi .
+42024025	~		İysa olarg'a bılay dedi : — Ha'y , aqılsızlar ! Payg'ambarlardın' aytqanlarının' ha'mmesine shın ju'rekten isenbeytug'ınlar !
+42024038a	nege		İysa olarg'a : — Nege hayran qalıp tursızlar ? 
+42024038b	nege		Nege kewillerin'izge bunday gu'manlı oylar keledi ?
+43001019	kimsen'		Yahudiy basshıları Erusalimnen ruwxaniyler menen lebiylilerdi jiberip , Yaqıyadan : « Sen kimsen' ? » dep sorag'anda , onın' gu'walıg'ı mınaday boldı .
+43001021	kimsen'		Olar ja'ne Yaqıyadan : — Onday bolsa , sen kimsen' ? İliyassan' ba ? — dep soradı . — Ol emespen , — dedi Yaqıya . — Sen sol payg'ambarmısan' ? — dep soradı olar . — Yaq , — dep juwap berdi ol .
+43001022a	kimsen'		Sonda olar Yaqıyag'a : — Kimsen' , ayt , bizlerdi jibergenlerge bir juwap bereyik . 
+43001022b	ne		O'zin' haqqında ne deysen' ? — dedi .
+43001025	nege	Pariseylerden jiberilgenler Yaqıyadan : — Eger sen Masix , İliyas , ya sol payg'ambar bolmasan' , sonda nege adamlardı shomıldırıp ju'rsen' ? — dep soradı .	
+43001038a	ne		İysa artına burılıp , izinen kiyatırg'anlardı ko'rgende , olardan : — Ne izlep ju'rsizler ? — dep soradı . 
+43001038b	qay jerde		— Qay jerde jasaysan' , Ra'bbi ? — dedi olar . ( Ra'bbi — « ustaz » degendi bildiredi . )
+43001046	~		Nataniel og'an : — Nasıradan jaqsı na'rse shıg'ar ma edi ? — dedi . — Kelip ko'r , — dedi Filip .
+43001048	qayaqtan		Nataniel İysadan : — Meni qayaqtan tanıysan' ? — dep soradı . — Filip seni shaqırmastan burın , seni a'njir ag'ashının' astında ko'rdim , — dep juwap berdi İysa .
+43002004	~		İysa og'an : — Apa , bul Menin' jumısım emes . Menin' waqtım ele kelgen joq , — dedi .
+43002018a	~		
+43002018b	qanday		Yahudiy basshıları İysadan : — Bulardı islewge biyligin' bar ekenin bizlerge qanday ka'ramatlı belgi menen da'lilley alasan' ? — dep soradı .
+43003004	qalay		Nikodim İysadan : — Qartayg'an adam qalay qaytadan tuwıla aladı ? Ol anasının' qursag'ına ekinshi ma'rte kirip , qaytadan tuwıla ala ma ? — dep soradı .
+43003009	qalay		Nikodim İysadan : — Bul qalay bolıwı mu'mkin ? — dep soradı .
+43003012	qalay		Sizlerge jerdegi na'rseler haqqında aytqanımda isenbesen'ler , aspandag'ı na'rseler haqqında aytsam , qalay isenesizler ?
+43004009	Qalay		Samariyalı hayal : — Sen yahudiysen' , al men samariyalı hayalman . Qalay mennen suw sorap tursan' ? — dedi . O'ytkeni yahudiyler samariyalılar menen qarım-qatnas jasamaydı .
+43004011	qayaqtan		— Mırza ! Sende suw alatug'ın hesh na'rse joq-g'o , qudıq bolsa teren' . Sen tiri suwdı qayaqtan alasan' ?
+43004027a	ne		Sol waqıtta İysanın' sha'kirtleri keldi ha'm Onın' bir hayal menen so'ylesip turg'anın ko'rip , hayran qalıstı . Biraq olardın' hesh qaysısı : « Sen onnan ne sorap tursan' ? » 
+43004027b	nege		yamasa « Onın' menen nege so'ylesip tursan' ? » — dep soramadı .
+43005012	kim		— Sag'an : « To'segin'di al da , ju'r » , — degen Adam kim ? — dep soradı olar .
+43005044	qalay		Sizler bir-birin'izden maqtaw esitiwdi jaqsı ko'resizler , biraq jalg'ız Qudaydın' maqtawına erisiwge umtılmaysızlar . Olay bolsa , Mag'an qalay isene alasızlar ?
+43005047	qalay		Biraq Muwsanın' Jazıwlarına isenbesen'ler , Menin' so'zlerime qalay isenesizler ?
+43006005	qayaqtan		İysa basın ko'terip , O'zine qaray ko'p xalıqtın' kiyatırg'anın ko'rip , Filipten : — Bul adamlarg'a jegiziw ushın nandı qayaqtan satıp alamız ? — dep soradı .
+43006009	ne		— Bul jerde bir balada bes arpa nanı menen eki balıq bar . Biraq usınshama adam ushın bular ne boladı ? — dedi .
+43006025	qashan		Olar İysanı ten'izdin' arg'ı jag'asınan tawıp , Onnan : — Ustaz , Sen bul jerge qashan keldin' ? — dep soradı .
+43006028	ne		Olar İysadan : — Qudayg'a unaytug'ın islerdi islewimiz ushın ne qılıwımız kerek ? — dep soradı .
+43006030a	qanday		Olar İysag'a : — Bizler ko'rip , Sag'an iseniwimiz ushın , qanday ka'ramat ko'rsetejaqsan' ? 
+43006030b	ne		Ne isleyjaqsan' ?
+43006042	qalay		— Bul — Yusuptın' ulı İysa emes pe ? Bizler Onın' ata-anasın tanıymız-g'o . Endi qalay Ol : « Aspannan keldim » , — dep aytıp otır ? — desti olar .
+43006052	qalay		Sonda yahudiyler : — Ol qalay bizlerge O'z denesin jewge bere aladı ? — dep o'z ara tartısa basladı .
+43006060	kim		Sha'kirtlerinin' ko'bisi bunı esitip : — Qanday qıyın so'zler ! Bunı kim qabıllay aladı ? — dedi .
+43006062	~		Eger Adam Ulının' burın bolg'an jerine ko'terilgenin ko'rsen'iz she ?
+43006068	kimge		Simon Petr juwap berip : — İyem , bizler kimge baramız ? Sende ma'n'gilik o'mir so'zleri bar .
+43007011	qayaqta		Yahudiy basshıları İysanı bayramda izlep : « Ol qayaqta ? » — dep soradı .
+43007015	qayaqtan		Yahudiy basshıları : — Bul Adam hesh oqımag'an bolsa da , usınshama bilimdi qayaqtan alg'an ? — dep tan' qalıstı .
+43007019	ne ushın		Muwsa sizlerge Muxaddes Nızamdı bermedi me ? Biraq hesh birin'iz de Muxaddes Nızamdı orınlamaysızlar . Meni ne ushın o'ltirmekshisizler ?
+43007020	Kim		Xalıq : — Seni jin urg'an ba ? Kim Seni o'ltirmekshi ? — dedi .
+43007023	nege		Muwsanın' Nızamı buzılmasın dep , bala dem alıs ku'ni bolsa da su'nnet qılınadı eken , nege sizler Mag'an dem alıs ku'ni bir adamg'a tolıq shıpa berdin' , dep ashıwlanasızlar ?
+43007035	qayaqqa		Sonda yahudiy basshıları o'z ara : — Bul Adam bizler taba almaytug'ınday qayaqqa barmaqshı ? Ol grekler arasına tarqalıp ketken yahudiylerge barıp , greklerge ta'lim bermekshi me ?
+43007036	neni		« Meni izleysizler , biraq tappaysızlar . Men bolatug'ın jerge sizler kele almaysızlar » , — degen so'zler neni an'latadı eken ? — desti .
+43007041	~		Basqaları : « Bul — Masix » , — desti . Al geybirewleri : « Yaq , Masix Galiladan keletug'ın ba edi ?
+43007045	Nege		Saqshılar qaytıp kelgende , bas ruwxaniyler menen pariseyler olardan : — Nege Onı alıp kelmedin'ler ? — dep soradı .
+43007048	~		Basshılardan yamasa pariseylerden Og'an isengen adam boldı ma , sira' ?
+43007051	~		— Nızamımız boyınsha , da'slep adamdı tın'lamay turıp , onın' ne islegenin bilmesten , hu'kim etiwge bola ma ? — dedi .
+43008005	ne		Muwsa Nızamda bizlerge bunday hayallardı tas penen urıwdı buyırg'an . Sen ne deysen' ? — dedi .
+43008010	qayaqta		İysa ornınan turıp , hayalg'a : — Hayal ! Olar qayaqta ? Hesh kim seni ayıplamadı ma ? — dedi .
+43008019	qayaqta		Sonda olar İysadan : — Senin' A'ken' qayaqta ? — dep soradı . İysa olarg'a : — Sizler Meni de , Menin' A'kemdi de bilmeysizler . Eger Meni bilgenin'izde , A'kemdi de biler edin'ler , — dedi .
+43008025a	kimsen'		Sonda olar İysadan : — Sen kimsen' ? 
+43008025b	~		— dep soradı . İysa olarg'a : — Bastan-aq sizlerge kim tuwralı aytqan bolsam , anıq Solman .
+43008033	Nege		— Bizler — İbrayımnın' urpag'ımız . Hesh qashan hesh kimge qul bolmag'anbız . Nege : « Azat bolasızlar » , — dep atırsan' ? — dedi olar .
+43008043	Nege		Nege aytqanlarıma tu'sinbeysizler ? Sebebi Menin' so'zimdi tın'lay almaysızlar .
+43008046a	qaysı		Qaysı birin'iz Meni gu'nalı dep , ayıplay alasız ? 
+43008046b	nege		Eger haqıyqattı aytıp turg'an bolsam , nege Mag'an isenbey atırsızlar ?
+43008053	kim		Sen bizlerdin' babamız İbrayımnan ullımısan' ? Ol da , payg'ambarlar da o'lip ketken . Sen O'zin'di kim dep sanaysan' ? — dedi .
+43008057	~		Yahudiyler İysag'a : — Sen ele eliw jasqa da tolg'anın' joq-g'o . Sen İbrayımdı ko'rdin' be ? — dedi .
+43009002	kimnin'		Sha'kirtleri İysadan : — Ustaz ! Bul adamnın' soqır bolıp tuwılıwı kimnin' gu'nası sebepli boldı , o'zinin' be yamasa ata-anasının' ba ? — dep soradı .
+43009010	qalay		— Olay bolsa , ko'zlerin' qalay ashıldı ? — dep soradı olar .
+43009012	qayaqta		Olar : — Ol qayaqta ? — dep soradı . — Bilmeymen , — dedi ol .
+43009016	qalay		Sonda geybir pariseyler : — Bul Adam Qudaydan emes . O'ytkeni dem alıs ku'ni jumıs islep atır , — dedi . Biraq basqaları : — Gu'nakar adam bunday ka'ramatlardı qalay isley aladı ? — dedi . Solay etip , olardın' arasında bo'liniw payda boldı .
+43009017	ne		Olar ja'ne burın soqır bolg'an sol adamnan : — Ko'zlerin'di ashqan sol Adam haqqında sen ne aytasan' ? — dep soradı . — Ol payg'ambar , — dedi ol .
+43009019	qalay		Olar onın' ata-anasınan : — İshten soqır bolıp tuwıldı , dep aytqan ulın'ız usı ma ? Endi ol qalay ko'retug'ın boldı ? — dep soradı .
+43009026a	ne		Olar ja'ne onnan : — Ol sag'an ne isledi ? 
+43009026b	qalay		Ko'zlerin'di qalay ashtı ? — dep soradı .
+43009027	ne		— Men sizlerge jan'a g'ana ayttım-g'o , biraq sizler tın'lamadın'lar . Ja'ne ne esitpekshisizler ? Sizler de Onın' sha'kirtleri bolıwdı qa'leysizler me ? — dep juwap berdi ol .
+43009034	~		Yahudiyler og'an juwap berip : — O'zin' pu'tkilley gu'nag'a batıp tuwılg'ansan' , sen be bizlerdi u'yretetug'ın ? — dep , onı quwıp shıg'ardı . Ruwxıy soqırlıq
+43009036	kim		Ol juwap berip : — Mırza , Ol kim ? Mag'an ayt , men de Og'an iseneyin , — dedi .
+43010020	Nege		Olardın' ko'bisi : — Onı jin urg'an , Onın' esi durıs emes . Nege Onı tın'lap tursızlar ? — dedi .
+43010021	~		Al basqaları : — Bul jinli adamnın' so'zleri emes . Jin soqırdın' ko'zlerin asha ala ma ? — dedi .
+43010024	Qashang'a		Yahudiy basshıları Onın' a'tirapına jıynalıp : — Qashang'a deyin bizlerdi tu'sinbewshilikke salasan' ? Eger Sen Masix bolsan' , bizlerge ashıg'ın ayt , — dedi .
+43010032	qaysı		İysa olardan : — Men sizlerge A'kem tapsırg'an ko'p jaqsı islerdi ko'rsettim . Olardın' qaysı biri ushın , Meni tas penen urajaqsızlar ? — dep soradı .
+43010036	nege		A'kenin' O'zine ajıratıp alıp , du'nyag'a jibergen Meni « Qudaydın' Ulıman » , — degenim ushın , nege « Qudayg'a til tiygizip atırsan' » , — deysizler ?
+43011034	qay jerge		— Onı qay jerge qoydın'lar ? — dep soradı . — İyem , kelip ko'r , — dedi olar .
+43011047	ne		Sonda bas ruwxaniyler menen pariseyler joqarg'ı ken'este jıynalıp : — Bizler ne qılıwımız kerek ? Bul Adam ko'p ka'ramatlar islemekte .
+43011056	Qalay		Olar İysanı izledi ha'm İbadatxanada turıp : — Qalay oylaysızlar . Ol bayramg'a keler me eken ? — dep bir-birinen soradı .
+43012005	Ne ushın		— Ne ushın bul may u'sh ju'z dinarg'a satılıp , aqshası jarlılarg'a berilmedi ? — dedi .
+43012027	ne		Endi ju'regim qayg'ıg'a toldı . Men ne deyin ? « A'ke , Meni bul waqıttan qutqar » , — deyin be ? Biraq Men usı waqıt ushın kelgenmen .
+43012034a	qalay		Xalıq Og'an bılay dep juwap berdi : — Bizler Muxaddes Jazıwdan Masixtın' ma'n'gi jasaytug'ının esitkenbiz . Qalay Sen : « Adam Ulı joqarıg'a ko'teriliwi tiyis » , — dep atırsan' ? 
+43012034b	kim		Bul Adam Ulı degeni kim ?
+43012038a	kim		Solay etip , İyshaya payg'ambardın' aytqan mına so'zleri orınlandı : « İyem , bizler aytqan xabarg'a kim isendi ? 
+43012038b	kimge		İyemnin' qu'direti kimge ko'rindi ? »
+43013025	kim		İysanın' ko'kiregine su'yenip jatırg'an sol sha'kirt Onnan : — İyem , ol kim ? — dep soradı .
+43013036	qayaqqa		Simon Petr İysag'a : — İyem , Sen qayaqqa baratırsan' ? — dedi . İysa : — Men baratug'ın jerge sen ha'zir izimnen erip bara almaysan' . Biraq son'ınan izimnen kelesen' , — dep juwap berdi .
+43013037	ne ushın		Petr Og'an : — İyem , ne ushın Senin' izin'nen ha'zir bara almayman ? Men Sen ushın janımdı beremen ! — dedi .
+43014002	~		A'kemnin' u'yinde orın ko'p . Eger olay bolmag'anda , sizlerge aytpas edim . O'ytkeni Men sizler ushın orın tayarlawg'a ketip baratırman .
+43014005	qalay		Tomas İysag'a : — İyem , Senin' qayaqqa baratug'ının'dı bilmeymiz-g'o . Joldı qalay bile alamız ? — dedi .
+43014009	ne ushın		İysa og'an bılay dedi : — Filip , Men sonsha waqıttan beri sizler menen birge bolsam da , Meni ele bilmeysen' be ? Meni ko'rgen A'keni ko'rgen boladı-g'o . Sen ne ushın : « Bizlerge A'keni ko'rset » , — dep aytıp atırsan' ?
+43014022	qalay		İsqariotlı emes basqa Yahuda İysag'a : — İyem , bul qalay bolg'anı , O'zin'di du'nyag'a emes , bizlerge ko'rsetejaqsan' ba ? — dedi .
+43016005	Qayaqqa		— Endi bolsa , Meni Jibergennin' janına baratırman . Degen menen , aran'ızda hesh kim Mennen : « Qayaqqa baratırsan' ? » — dep sorap atırg'an joq .
+43016017	ne		Sonda sha'kirtlerdin' geybirewleri bir-birine : — « Birazdan son' , sizler Meni ko'rmeysizler , ja'ne birazdan son' , Meni ko'resizler » ha'm « Sebebi A'keme ketip baratırman » , — dep aytıp , Ol bizlerge ne demekshi ?
+43016018	ne		« Birazdan son' » degeni ne ? Ne aytqanına tu'sinbey atırmız-g'o , — dedi .
+43018004	Kimdi		İysa O'zine bolajaq ha'mme na'rseni bilgenlikten , aldına shıg'ıp , olardan : — Kimdi izlep ju'rsizler ? — dep soradı .
+43018007	Kimdi		Sonda İysa olardan ja'ne : — Kimdi izlep ju'rsizler ? — dep soradı . — Nasıralı İysanı , — desti olar .
+43018011	~		İysa Petrge : — Qılıshın'dı qınabına salıp qoy ! A'kemnin' Mag'an bergen azap kesesinen ishpeyin be ? — dedi .
+43018021	Nege		Nege Mennen sorap atırsan' ? So'ylegenlerimdi esitkenlerden sora . Olar ne aytqanımdı biledi .
+43018023	nege		İysa og'an : — Eger Men nadurıs so'ylegen bolsam , nadurıslıg'ımdı da'lille . Biraq durıs so'ylegen bolsam , nege Meni urasan' ? — dedi .
+43018029	ne		Sol sebepten Pilat sırtqa shıg'ıp , olardan : — Bul Adamdı ne na'rsede ayıplap atırsızlar ? — dep soradı .
+43018035	ne		Pilat : — Men ne yahudiymen be ? Seni mag'an O'z xalqın' menen bas ruwxaniylerin' tapsırdı . Sen ne islep qoydın' ? — dedi .
+43018038	ne		Pilat İysag'a : — Haqıyqat degen ne ? — dedi . Bunı aytıp bolg'annan son' , Pilat ja'ne yahudiylerdin' janına shıg'ıp , olarg'a : — Men Onnan hesh ayıp taba almay atırman .
+43019009	qay jerdensen'		Qaytadan ha'kimxanag'a kirip , İysadan : — Sen qay jerdensen' ? — dep soradı . Biraq İysa og'an juwap bermedi .
+43019015	~		Biraq olar baqırısıp : — Joq qıl Onı ! Joq qıl , atanaq ag'ashqa shegele ! — dedi . Pilat olarg'a : — Sizlerdin' Patshan'ızdı atanaq ag'ashqa shegeleyin be ? — dedi . — Bizlerdin' Qaysardan basqa patshamız joq , — dep juwap berdi bas ruwxaniyler .
+43020013	nege		Olar Ma'riyamnan : — Hayal , sen nege jılap tursan' ? — dep soradı . — İyemdi alıp ketipti . Onı qay jerge qoyg'anın bilmeymen , — dedi ol .
+43020015a	nege		İysa og'an : — Hayal , sen nege jılap tursan' ? 
+43020015b	kimdi		Kimdi izlep ju'rsen' ? — dedi . Ma'riyam Onı bag'man dep oylap , Og'an : — Mırza , eger Onı sen alıp ketken bolsan' , qay jerge qoyg'anın'dı mag'an ayt , men Onı alıp qaytayın , — dedi .
+43021012	kimsen'		İysa olarg'a : — Kelin'ler , azang'ı awqattı jen'ler , — dedi . Sha'kirtlerinin' hesh qaysısı Onnan : « Sen kimsen' ? » — dep sorawg'a batına almadı . Sebebi Onın' İyemiz ekenin biletug'ın edi .
+43021020	kim		Petr artına burılıp , İysanın' su'yikli sha'kirtinin' izlerine erip kiyatırg'anın ko'rdi . Bul — keshki awqat waqtında İysanın' ko'kiregine su'yenip jatıp : « İyem , Sag'an kim satqınlıq isleydi ? » — dep sorag'an sha'kirt edi .
+43021021	ne		Petr onı ko'rip , İysadan : — İyem , og'an ne boladı ? — dep soradı .
+43021022	ne		İysa og'an : — Men kelemen degenshe , onın' jasawın qa'lesem , sag'an ne ? Sen Menin' izime er , — dedi .
+43021023	ne		Solay etip , tuwısqanlar arasında : « Bul sha'kirt o'lmeydi » , — degen so'z tarqaldı . Biraq İysa Petrge : « Ol o'lmeydi » , — degen joq . Al : « Men kelemen degenshe , onın' jasawın qa'lesem , sag'an ne ? » — degen edi .
+44001011	nege		— Ha'y , galilalılar , nege aspang'a qarap tursızlar ? Sizlerden aspang'a alıng'an bul İysanın' qalay ko'terilgenin ko'rgenin'izdey , Ol anıq solay qaytıp keledi , — dedi . Matiyastın' Yahudanın' ornına saylanıwı
+44002008	qalay		Onda qalay olardın' bizlerdin' ha'r birimizdin' tuwılg'an jerimizdin' tilinde so'ylep atırg'anın esitip turmız ?
+44002012	qalay		Olardın' ha'mmesi an'-tan' bolısıp , bir-birinen : — Bunı qalay tu'siniwge boladı ? — dep soradı .
+44002037	ne		Bunı esitkenlerdin' ju'reklerine qanjar sug'ılg'anday boldı . Olar Petr ha'm basqa elshilerden : — Tuwısqanlar , bizler ne islewimiz kerek ? — dep soradı .
+44003012a	nege		Bunı ko'rgen Petr xalıqqa qarata bılay dedi : — İzraillılar , bug'an nege an'-tan' bolıp atırsızlar ? 
+44003012b	nege		Bul adamdı bizler o'z ku'shimiz yamasa dinshilligimiz benen ju'rgizgendey , nege bizlerge tigilip tursızlar ?
+44004007a	~		
+44004007b	qanday		Olar Petr menen Yuxandı ortag'a turg'ızıp , olardan : — Sizler bunı qanday ku'sh penen 
+44004007c	kimnin'		ha'm kimnin' atı menen isledin'ler ? — dep soradı .
+44004016	ne		— Bul adamlarg'a ne islesek eken ? Erusalimde jasaytug'ın ha'r bir adam olardın' anıq ka'ramat islegenin biledi-g'o . Bizler bunı biykarlay almaymız .
+44004025a	nege		O'z xızmetshin' babamız Dawıttın' awzı menen Muxaddes Ruwx arqalı bılay degen edin' : « Milletler nege qozg'alan' ko'terdi ? 
+44004025b	nege		Xalıqlar nege pushqa shıg'atug'ın jobalar du'zdi ?
+44005003	nege		Sonda Petr og'an bılay dedi : — Xananiya , nege shaytang'a ju'regin'nen orın berip , Muxaddes Ruwxtı aldadın' ha'm satılg'an jerdin' aqshasının' bir bo'legin o'zin'e alıp qaldın' ?
+44005004	Nege		Jer satılmay-aq sag'an tiyisli emes pe edi ? Satılg'annan son' da , aqshasın qa'legenin'she jumsawg'a erkli emes pe edin' ? Nege bunday is islewge niyet ettin' ? Sen adamlardı emes , Qudaydı aldadın'-g'o .
+44005009	nege		Petr og'an bılay dedi : — Nege İyemizdin' Ruwxın sınap ko'riwge kelistin'ler ? A'nekey , ku'yewin'di jerlegenler esikten kirip kiyatır . Olar seni de alıp ketedi .
+44007026	Nege		Erten'ine Muwsa to'belesip atırg'an eki izraillını ushıratıp qalg'anda , olardı jarastırmaqshı bolıp : — Jigitler , sizler tuwısqansız-g'o . Nege bir-birin'izge ja'bir berip atırsızlar ? — dedi .
+44007027	Kim		Biraq , jaqınına ja'bir bergen adam Muwsanı iyterip jiberip : — Kim seni bizlerdin' u'stimizden basshı ha'm qazı qılıp qoydı ?
+44007035	Kim		Bul : « Kim seni basshı ha'm qazı qılıp qoydı ? » — dep adamlar ta'n almag'an — sol Muwsa edi . Quday onı putada ko'ringen perishte arqalı basshı ha'm qutqarıwshı qılıp jiberdi .
+44007049a	qanday		« Aspan — Menin' taxtım , Jer — ayaq basarım , Sizler Mag'an qanday u'y salıp berejaqsızlar ? 
+44007049b	qay jerde		Menin' dem alatug'ın ornım qay jerde eken ?
+44007052	qaysı		Ata-babaların'ız payg'ambarlardın' qaysı birin quwdalamadı ? Olar haq Adamnın' keliwin aldın ala boljag'anlardı da o'ltirdi-g'o . Sizler de endi Og'an satqınlıq islep , Onı o'ltirdin'ler .
+44008031	qalay		Efiopiyalı : — Birew mag'an jol-jorıq ko'rsetpese , qalay tu'sine alaman , — dedi de , Filipten arbag'a minip otırıwdı o'tinish etti .
+44008033	kim		Ol xorlanıp , a'dil hu'kim alıwdan juda boldı . Onın' urpaqların kim tilge aladı ? O'ytkeni Onın' bul du'nyadag'ı o'miri tawsıldı » .
+44008034	kim		Wa'zir Filipten : — O'tinemen , mag'an aytshı : payg'ambar kim tuwralı aytıp atır ? O'zi tuwralı ma yamasa basqa birew tuwralı ma ? — dep soradı .
+44008036	ne		Olar jol ju'rip kiyatırg'anda , suw bar jerge keldi . — Mine , bul jerde suw bar-g'o , suwg'a shomıldırılıwıma ne tosqınlıq qıladı ? — dedi wa'zir .
+44009004	nege		Saul jerge jıg'ılıp : — Saul , Saul , sen nege Meni quwdalap atırsan' ? — degen dawıstı esitti .
+44009005	kimsen'		Saul : — Sen kimsen' , İyem ? — dep soradı . — Men — sen quwdalap atırg'an İysaman .
+44009006	~		Al endi ornın'nan turıp , qalag'a bar . Neni islew tiyis ekenligin' sag'an aytıladı , — degen dawıs esitildi .
+44010004	~		Korneliydi qorqınısh biylep , ol ko'zlerin perishtege tikti de : — Newe , İyem ? — dedi . Perishte og'an juwap berip : — Etken duwaların' menen bergen qayır-sadaqaların' Qudayg'a jetip bardı . Quday olardı este saqladı .
+44010021	Qanday		Petr to'menge tu'sip , adamlarg'a : — Sizler izlep ju'rgen adam men bolaman . Qanday jumıs penen keldin'ler ? — dedi .
+44010029	ne		Sonlıqtan shaqırılg'anımda bas tartpay usı jerge keldim . Endi meni ne sebepten shaqırg'anın'ızdı sorawıma bola ma ?
+44010047	kim		— Bular da anıq bizler sıyaqlı Muxaddes Ruwxtı aldı . Olardın' suwg'a shomıldırılıwına kim qadag'an ete aladı ? — dedi .
+44011017a	kim		Solay etip , Quday İyemiz İysa Masixqa isenetug'ın bizlerge bergen sıyın olarg'a da berse , Qudayg'a qarsı shıg'atug'ınday men kim bolıppan ?
+44011017b	~		
+44012018	ne		Tan' atqanda , Petrge ne bolg'anın tu'sinbey , a'skerler qattı albırastı .
+44013025	kim		Yaqıya xızmetin tamamlawg'a shamalasqanda bılay degen edi : « Meni kim dep oylaysızlar ? Men Masix emespen . Biraq Ol mennen keyin keledi . Men Onın' ayaq kiyiminin' bawın sheshiwge de ılayıqlı emespen » .
+44014015	Nege		— Adamlar ! Nege bunday islep atırsızlar ? Bizler de sizler sıyaqlı adamlarmız-g'o ! Sizlerdin' bul ma'nissiz na'rselerdi taslap , aspandı , jerdi , ten'izdi ha'm olardın' ishindegilerdin' ha'mmesin jaratqan tiri Qudayg'a qaytıwın'ız ushın Xosh Xabardı ja'riyalap atırmız .
+44015010	ne ushın		Olay bolsa , endi ne ushın ata-babalarımız da , o'zlerimiz de ko'terip ju're almag'an moyıntırıqtı sha'kirtlerdin' moynına salıp , Qudaydı sınap atırsızlar ?
+44016030	ne		Olardı sırtqa shıg'arıp : — Mırzalar , qutqarılıwım ushın ne islewim kerek ? — dep soradı .
+44017018	ne		Epikurshılardın' ha'm stoik oyshıllarının' geybirewleri de onın' menen tartısa basladı . Birewleri : « Mına mıljın' ne demekshi » , — dese , ayırımları : « Ol jat qudaylardın' xabarshısı bolsa kerek » , — dedi . O'ytkeni Pavel İysa ha'm Onın' qayta tiriliwi tuwralı Xosh Xabardı ja'riyalap ju'r edi .
+44017019	ne		Olar Paveldi Areopag ken'esine alıp kelip , og'an : — Sen ja'riyalap ju'rgen bul jan'a ta'liymattın' ne ekenin biliwimizge bola ma ?
+44019003	qanday		— Olay bolsa , qanday shomıldırıw menen shomıldırıldın'lar ? — dep soradı Pavel . — Yaqıyanın' ta'limine tiykarlanıp , suwg'a shomıldırıldıq , — dedi olar .
+44019015	kimsiz		Biraq jawız ruwx olarg'a : — İysanı bilemen , Paveldi tanıyman , al sizler kimsiz ? — dep juwap berdi de ,
+44019035	kim		Qala xatkeri xalıqtı tınıshlandırıp bılay dedi : — Efesliler ! Ullı Artemidanın' aspannan tu'sken mu'sininin' ha'm onın' ibadatxanasının' qorg'awshısı — Efes qalası ekenin kim bilmeydi ?
+44021013a	ne		Sonda Pavel bılay dep juwap berdi : — Ne islep atırsızlar ? 
+44021013b	nege		Nege jılasıp , ju'regimdi ezip atırsızlar ? Men İyemiz İysanın' atı ushın Erusalimde tek ayaq-qolımdı baylatıwg'a emes , al o'liwge de tayarman .
+44021022	ne		Endi ne qılıw kerek ? Olar , a'lbette , senin' usı jerge kelgenin'di esitedi .
+44021033a	kim		Sonda mın'bası jaqınlap kelip , Paveldi tutqıng'a aldı da , qos shınjır menen baylawdı buyırdı . Son'ınan : — Bul kim ? 
+44021033b	ne		Ol ne isledi ? — dep soradı .
+44022007	nege		Men jerge jıg'ıldım ha'm bir dawıstın' mag'an : « Saul , Saul ! Sen nege Meni quwdalap atırsan' ? » — degenin esittim .
+44022008	kimsen		« Sen kimsen' , İyem ? » — dep soradım men . Ol mag'an : « Men — sen quwdalap atırg'an Nasıralı İysaman » — dedi .
+44022010	ne		« İyem , ne islewim kerek ? » — dep soradım men . İyemiz mag'an : « Ornın'nan turıp , Damaskqa bar . Sag'an bekitilgen islerdin' ha'mmesi sol jerde aytıladı » , — dedi .
+44022016	neni		Endi neni ku'tip otırsan' ? Ornın'nan turıp , suwg'a shomıldırıl ha'm Onın' atın aytıp shaqırıp , gu'naların'nan tazalan ! »
+44022026	Ne		Ju'zbası bunı esitkende , mın'basıg'a barıp xabar berdi de : — Ne isleyin dep atırsızlar ? Bul adam — Rim puqarası eken-g'o , — dedi .
+44023003	~		Sonda Pavel og'an : — Ha'y , eki ju'zli ! Seni Quday uradı ! Sen meni Muxaddes Nızam boyınsha hu'kim etiw ushın otırsan' , biraq Muxaddes Nızamdı buzıp , meni urıwdı buyırıp atırsan' , — dedi .
+44023009	~		Solay etip , jıynalısta ku'shli shawqım baslandı . Pariseyler toparınan ayırım diniy mug'allimler orınlarınan turıp : — Bizler bul adamnan hesh qanday ayıp tappay turmız . Eger og'an ruwx yamasa perishte so'ylegen bolsa she ? — dep qızıp so'yledi .
+44023019	ne		Mın'bası jigittin' qolınan usladı da , onı shetke shıg'arıp : — Mag'an ne aytpaqshı edin' ? — dep soradı .
+44026008	nege		Qudaydın' o'lilerdi tiriltiwin sizler nege isenip bolmaytug'ın na'rse , dep esaplaysızlar ?
+44026014	nege		Ha'mmemiz jerge jıg'ılg'anımızda , bir dawıstın' mag'an evrey tilinde so'ylegenin esittim : « Saul , Saul , sen nege Meni quwdalap atırsan' ? Qudayg'a qarsı tursan' , o'zin'e zıyan boladı » .
+44026015	kimsen'		« İyem , Sen kimsen' ? » — dep soradım men . İyemiz juwap berip bılay dedi : « Men — sen quwdalap atırg'an İysaman .
+45002017	~		Minekey , sen o'zin'di yahudiymen dep , Muxaddes Nızamg'a su'yenesen' ha'm Quday menen ayrıqsha qatnastaman dep maqtanasan' .
+45002021	nege		Olay bolsa , basqa birewge ta'lim berip turıp , o'zin'e nege ta'lim bermeysen' ? Urlıq islemewdi ja'riyalap , o'zin' nege urlıq isleysen' ?
+45002028	~		Sebebi tek sırtqı belgileri menen yahudiy bolg'an adam haqıyqıy yahudiy emes ha'm denesinin' eti kesilip su'nnet etiliw de haqıyqıy su'nnet etiliw emes .
+45003001a	qanday		Qudaydın' sadıqlıg'ı . Olay bolsa , yahudiy bolıwdın' qanday da bir artıqmashılıg'ı bar ma ? 
+45003001b	~		YA bolmasa , su'nnetleniwdin' paydası bar ma ?
+45003003	ne		Eger olardın' ayırımları Qudaydın' so'zlerine sadıqsız bolıp shıqqan bolsa ne bolıptı ? Olardın' sadıqsızlıg'ı Qudaydın' sadıqlıg'ın biykarlay ala ma ?
+45003005	ne		Biraq , bizlerdin' nahaqlıg'ımız Qudaydın' haqlıg'ın ashıp ko'rsetse , onda ne deymiz ? Quday bizlerdi g'a'zep penen jazalasa , a'dilsiz bolg'anı ma ? ( Men bulardı adamlardın' oyı boyınsha aytıp atırman . )
+45003006	kim		Hesh qashan ! Eger Quday a'dilsiz bolsa , Ol du'nyanı hu'kim ete alar ma edi ?
+45003007a	~		Degen menen , ayırımlar bılay dep soraw qoyıwı mu'mkin : « Eger menin' nahaqlıg'ım Qudaydın' haqlıg'ının' artıp , Onın' ullılanıwına xızmet etse , 
+45003007b	nege		sonda nege men gu'nakar bolıp hu'kim etilmektemen ? »
+45003008	~		Solay etip : « Jaqsılıq shıqsın dep , jamanlıq isley bereyik » , — deyik pe ? Bazı adamlar bizlerge jala jawıp , usınday so'zlerdi ayttı demekte . Bunday adamlar Qudaydın' jazasına ılayıqlı . Birde bir haq adam joq
+45003009	ne		Endi ne dewge boladı ? Biz yahudiyler basqa milletlerden artıqpız ba ? A'lbette , yaq ! O'ytkeni a'lle qashan da'lillegenimdey , yahudiy de , basqa millet adamı da , yag'nıy ha'r bir adam gu'nanın' biyligi astında .
+45003027a	ne		Endi bizler ne menen maqtana alamız ? Hesh na'rse menen . 
+45003027b	qanday		Qanday jol menen aqlana alamız ? 
+45003027c	~		Muxaddes Nızamdı orınlaw jolı menen be ? Yaq , isenim menen .
+45004001	ne		İbrayımnın' isenimi ha'm Qudaydın' wa'desi . Al endi bizlerdin' , yag'nıy yahudiylerdin' tu'p babası İbrayım haqqında ne deymiz ? Ol nege eristi ?
+45004003	~		O'ytkeni Muxaddes Jazıwda bılay delingen : « İbrayım Qudayg'a isendi ha'm sol sebepten Quday onı aqlang'an dep sanadı » .
+45004010	qashan		Ol qashan aqlang'an dep sanaldı ? Su'nnetlengennen keyin be yamasa su'nnetlenbesten burın ba ? Su'nnetlengennen keyin emes , al su'nnetlenbesten burın .
+45005010	~		Sebebi bizler Qudaydın' dushpanı bolsaq ta , Onın' Ulının' o'limi arqalı Quday menen jarastıq . Endi Quday menen jarasıp , Onın' Ulının' o'miri arqalı qutqarılatug'ınımız da anıq .
+45005021	~		Solay etip , gu'na o'lim arqalı biylik etkendey , Qudaydın' miyrimi de aqlawı arqalı biylik etip , İyemiz İysa Masix sebepli ma'n'gilik o'mirge eristiredi .
+45006001	ne		Gu'na ushın o'lip , Masix penen jasaw . Olay bolsa , ne deymiz ? Qudaydın' miyrimi ko'beysin dep , gu'na islewdi dawam ettire bereyik pe ?
+45006002	qalayınsha		Hesh qashan ! Bizler gu'na ushın o'lgenbiz . Endi qalayınsha , gu'na islewdi dawam ettirip jasay alamız ?
+45006015	ne		Olay bolsa , ne deyik ? Nızamnın' biyligi astında emes , al Qudaydın' miyriminin' biyligi astında jasap atırg'anımız sebepli gu'na isley bereyik pe ? Hesh qashan !
+45006021	ne		Burın islegen islerin'izden ha'zir o'zlerin'iz de uyalasız . Sol waqıtları usı islerden ne arttırg'an edin'iz ? Olardın' aqırı o'lim edi-g'o .
+45007007	ne		Olay bolsa , ne deyik ? Muxaddes Nızam jaman bolg'anı ma ? Hesh qashan ! Biraq , eger Muxaddes Nızam bolmag'anda , men gu'nanın' ne ekenin bilmegen bolar edim . Eger Muxaddes Nızam : « Basqa birewdin' na'rsesin ku'seme » , — demegende , men ku'sewdin' gu'na ekenin bilmegen bolar edim .
+45007024	kim		Wah , sorlı basım ! O'limge jetelewshi bul deneden meni kim qutqaradı ?
+45008024	kim		Sebebi bizler qutqarılg'anımız sebepli u'mitke iyemiz . Eger bizler o'zlerimiz u'mit etetug'ın na'rseni ko'rip turg'an bolsaq , onda ol u'mit emes . Ko'zge ko'rinip turg'an na'rseni kim u'mit etedi ?
+45008031a	ne		Olay bolsa , bug'an ne deymiz ? 
+45008031b	kim		Eger Quday bizlerdi jaqlasa , bizlerge kim qarsı tura aladı ?
+45008032	~		Quday , ha'tte , O'z Ulın da ayamay , Onı bizlerdin' ha'mmemiz ushın qurbanlıq qılıp bag'ıshlag'an bolsa , Onın' menen birlikte bizlerge ha'mme na'rseni bermes pe eken ?
+45008033	kim		Qudaydın' tan'lap alg'an adamları bolg'an bizlerdi kim ayıplay aladı ? Qudaydın' O'zi bizlerdi aqlaydı-g'o .
+45008034	Kim		Kim bizlerdi hu'kim ete aladı ? Hesh kim ! Sebebi o'lip , o'limnen qayta tirilgen Masix İysa Qudaydın' on' jag'ında turıp , bizler ushın o'tinbekte .
+45008035	kim		Masixtın' su'yispenshiliginen bizlerdi kim ayıra aladı ? Hesh kim . Qıyınshılıq ta , qayg'ı da , quwdalaw da , ashlıq ta , jalan'ashlıq ta , qa'wip te , qılısh ta ayıra almaydı .
+45009014	ne		Olay bolsa , ne deymiz ? Quday a'dilsiz bolg'anı ma ? Hesh qashan !
+45009019a	nege		Endi sen mennen : « Eger Quday usılay islese , Ol nege adamdı ayıplaydı ? 
+45009019b	kim		Onın' erkine kim qarsı tura aladı ? » — dep sorawın' mu'mkin .
+45009020a	kimsen'		Biraq , ha'y adam , Qudayg'a qarsılıq ko'rsetetug'ınday , sen kimsen' ? 
+45009020b	~		Do'retilgen na'rse o'zin do'retkenge : 
+45009020c	nege		« Meni nege bunday qılıp do'rettin' ? » — dey me ?
+45009021	~		YA bolmasa , gu'lalshı bir ılaydan eki ıdıs soqqanda , birewin qımbatlı is ushın qollanılatug'ın ıdıs , al ekinshisin a'piwayı is ushın qollanılatug'ın ıdıs qılıp sog'ıwg'a haqılı emes pe ?
+45009022	~		Quday da usılay is tutadı . Ol nabıt qılınıwg'a ha'm O'zinin' g'a'zebine ushırawg'a ılayıqlı adamlarg'a g'a'zebin to'gip , ku'shin ko'rsetiwdi qa'lese de , olarg'a u'lken sabırlılıq ko'rsetti .
+45009023	~		Ja'ne de , Quday ma'rtebege eristiriw ushın O'zi aldın ala tayarlap qoyg'an adamlarına rehmin berip , O'zinin' sheksiz ullılıg'ın ko'rsetti .
+45009024	~		Tek yahudiyler arasınan emes , al basqa milletler arasınan da Quday tan'lag'an usı adamlar — bizlermiz .
+45009030	ne		Olay bolsa , ne deymiz ? Quday aldında aqlanıwg'a tırıspag'an basqa millet adamları o'z isenimi arqalı aqlandı .
+45009032	Ne ushın		Ne ushın ? O'ytkeni olar aqlanıwg'a isenimi arqalı emes , al sawap isleri arqalı erisiwge tırıstı . Sonlıqtan olar su'rniktiretug'ın tasqa su'rnigip quladı .
+45010006	kim		Al isenim arqalı aqlanıw haqqında Muxaddes Jazıwda bılay delingen : « Kewlin'de : „ Masixtı jerge tu'siriw ushın kim aspang'a shıg'adı ? “
+45010007	kim		yamasa : „ Masixtı o'limnen tiriltiw ushın kim tu'psiz tun'g'ıyıqqa tu'sedi ? “ — deme » .
+45010008	ne		Biraq , Muxaddes Jazıw ne demekte ? « Qudaydın' so'zi sag'an jaqın , Ol senin' awzın'da ha'm ju'regin'de » . Bizler ja'riyalap atırg'an isenim haqqında so'zler — usılar boladı .
+45010014a	qalay		Biraq , Qudayg'a isenbey turıp , Onı qalay shaqırıwg'a boladı ? 
+45010014b	qalay		Ol tuwralı esitpey turıp , Og'an qalay iseniwge boladı ? 
+45010014c	qalay		Quday haqqında so'zdi ja'riyalawshı bolmasa , qalay esitiwge boladı ?
+45010015	qalay		So'zdi ja'riyalawg'a jiberilmese , onı qalay ja'riyalaydı ? Muxaddes Jazıwda aytılg'anday : « Xosh Xabardı ja'riyalawshılardın' ayaqları qanday a'jayıp ! »
+45010016	kim		Degen menen , Xosh Xabarg'a izraillılardın' ha'mmesi de isene bermedi . İyshaya payg'ambardın' aytqanınday : « İyem ! Bizler aytqan xabarg'a kim isendi ? »
+45011004	ne		Og'an Quday ne dep juwap bergen edi ? « Baaldın' aldında dize bu'kpegen jeti mın' adamdı Men O'zim ushın ajıratıp aldım » .
+45011007	ne		Solay etip , ne ju'z berdi ? İzrail xalqının' ko'pshilik bo'legi izlegen na'rsesin taba almadı . Tek olardın' arasınan tan'lap alıng'anlar g'ana taptı . Al qalg'anlarının' ju'rekleri tas etildi .
+45011015	~		O'ytkeni olardın' Quday ta'repinen qabıl etilmegeni du'nyadag'ı basqa milletlerdin' Quday menen jarasıwına sebepshi bolg'an bolsa , onda olardın' Quday ta'repinen qabıl etiliwi du'nyadag'ı basqa milletlerdin' qutqarılıp , o'limnen o'mirge o'tiwine sebepshi bolmay ma ?
+45011018	~		kesilgen shaqalar aldında maqtanıp ketpe ! Eger maqtanıp ketsen' , umıtpa , sen tamırg'a emes , al tamır sag'an na'r berip turıptı .
+45011033a	~		O , Qudaydın' baylıg'ı , danalıg'ı ha'm bilimi qanday teren' ! 
+45011033b	~		Onın' sheshimlerine hesh kimnin' aqılı jetpeydi , jolların da hesh kim izertlep shıg'a almaydı !
+45011034a	kim		« İyemizdin' oy-pikirlerin kim bile aladı ? 
+45011034b	kim		Kim Og'an ma'sla'ha'tshi bolg'an ? »
+45011035	kim		« Qudaydan qaytarıp alıw ushın , Kim Og'an aldın ala bir na'rse bergen ? »
+45014004	kimsen'		Basqanın' xızmetshisin hu'kim etetug'ınday , sen kimsen' ? Xızmetshi o'z xojayınının' aldında turadı yamasa jıg'ıladı . Ol ayaqqa turg'ızıladı . Sebebi onı ayaqqa turg'ızıwg'a İyemizdin' qu'direti jetedi .
+45014010a	nege		Olay bolsa , sen nege tuwısqanın'dı hu'kim etesen' ? 
+45014010b	nege		Nege tuwısqanın'dı pa's ko'resen' ? Ha'mmemiz de Qudaydın' hu'kim gu'rsisi aldında juwap beremiz-g'o .
+46001020a	qa'ne		Olay bolsa , dana adam qa'ne ? 
+46001020b	qa'ne		Alım qa'ne ? 
+46001020c	qa'ne		Ha'zirgi zamannın' oyshılı qa'ne ? Quday du'nyanın' danalıg'ın aqılsızlıqqa aylandırmadı ma ?
+46002011	kim		Adamnın' oyların onın' ishindegi ruwxtan basqa kim bile aladı ? Sol sıyaqlı , Qudaydın' oy-pikirlerin de Onın' Muxaddes Ruwxınan basqa hesh kim bile almaydı .
+46002016a	kim		« Jaratqan İyemizdin' oyındag'ısın kim bile aladı ? 
+46002016b	kim		Og'an kim aqıl bere aladı ? » Biraq , bizler Masixtın' aqıl-oyına iyemiz .
+46003005a	kim		Olay bolsa , Apolos kim ? 
+46003005b	kim		Pavel kim ? Apolos ha'm men — sizlerdin' tek isenimge keliwin'iz ushın qoyılg'an Qudaydın' xızmetkerlerimiz g'ana . İyemiz ha'r birimizge xızmet tapsırg'an .
+46004007a	kim		Hesh kim seni basqalardan u'stin qılıp qoyg'an joq-g'o . 
+46004007b	~		Senin' Qudaydan almag'an na'rsen' bar ma ? Qudaydan ha'mmesin alg'an bolsan' , 
+46004007c	qalay		Onnan almag'anday bolıp maqtang'anın' qalay bolg'anı ?
+46004021	neni		Sizler neni qa'leysizler ? Sizlerge tayaq penen barayın ba yamasa su'yispenshilik ha'm mu'la'yimlilik penen be ?
+46005002	~		Usılay bolsa da , sizler menmenlikke berilip ketipsizler . Bunın' ornına qayg'ırıp , usınday is qılg'andı aran'ızdan quwıp shıg'arıwın'ız kerek emes pe edi ?
+46005012	~		İseniwshiler ja'ma'a'tinin' sırtındag'ı adamlardı hu'kim qılıw menin' jumısım emes . Sizler iseniwshiler ja'ma'a'tinin' ishindegi adamlardı hu'kim qılıwın'ız kerek .
+46006001	qalay		İseniwshi adamlar arasındag'ı dawlar haqqında . Sizlerdin' aran'ızdag'ı birin'izdin' birewge dawı bolsa , iseniwshiler aldında emes , al sudtag'ı isenbeytug'ın adamlar aldında dawlasıwg'a qalay batılı baradı ?
+46006003	~		Bizler , ha'tte , perishtelerdi de hu'kim etemiz . Solay eken , turmıs islerin hu'kim ete alıwımız da so'zsiz-g'o .
+46006004	~		Solay bolsa da , turmıs islerine baylanıslı dawlar payda bolg'anda , sizler iseniwshiler ja'ma'a'tinde hesh qanday abırayg'a iye bolmag'an sudtag'ı isenbeytug'ın adamlardı to'reshi qılasızlar ma ?
+46006007a	~		Negizinde , bir-birin'izge qarsı dawın'ızdın' bolıwının' o'zi sizler ushın qattı uyat na'rse . Onnan go're , nahaqlıqqa shıdag'anın'ız jaqsıraq bolmas pa edi ? 
+46006007b	~		Tonalg'anın'ız jaqsıraq bolmas pa edi ?
+46006009	~		Nahaqlardın' Qudaydın' Patshalıg'ın miyras etip almaytug'ının bilmeysizler me ? Aldanban'lar ! Buzıqshılıq islewshiler , butparazlar , neke hadallıg'ın buzıwshılar , erkek penen jınısıy qatnas jasaytug'ın erkekler ,
+46006016	~		Buzıq hayal menen qosılg'an adam onın' menen bir dene bolatug'ının bilmeysizler me ? Sebebi Muxaddes Jazıwda : « Ekewi bir dene boladı » , — delingen-g'o .
+46006019	~		Denen'izdin' o'zlerin'iz Qudaydan alg'an ha'm sizlerde jasap atırg'an Muxaddes Ruwxtın' ibadatxanası ekenligin bilmeysizler me ? Sizler o'zin'izge tiyisli emessiz .
+46007016a	~		Ha'y hayal , sen arqalı ku'yewin' de qutqarılıwı mu'mkin ekenligin bilesen'-g'o . Ha'y erkek , 
+46007016b	~		sen arqalı hayalın' da qutqarılıwı mu'mkin ekenligin bilesen'-g'o .
+46009007a	kim		Kim o'z esabınan a'skerlik qıladı ? 
+46009007b	kim		Kim bag' otırg'ızıp , miywesin jemeydi ? 
+46009007c	kim		Kim su'riwdi bag'ıp , su'riwdegi maldın' su'tinen ishpeydi ?
+46009018	qanday		onda menin' miynet haqım qanday boladı ? Xosh Xabardı ja'riyalag'anımda huqıqlarımnan paydalanbay , onı esheyin ja'riyalawım — menin' miynet haqım boladı .
+46010019a	ne		Endi men ne demekshimen ? 
+46010019b	~		Butqa shalıng'an qurbanlıq ayrıqsha ma ? 
+46010019c	qanday		Buttın' qanday da bir a'hmiyeti bar ma ?
+46010029	nege		Men hu'jdan dep , senin' emes , al basqa adamnın' hu'jdanın na'zerde tutıp atırman . Sebebi nege menin' azatlıg'ımdı basqa birewdin' hu'jdanı hu'kim etiwi kerek ?
+46010030	nege		Eger men awqattı shu'kirlik penen qabıl etsem , men nege shu'kirlik etip jegen awqatım sebepli ayıplanıwım kerek ?
+46011022	ne		Sizlerdin' iship-jewin'iz ushın u'ylerin'iz joq pa ? Qudaydın' ja'ma'a'tin pisent etpey , joqshılıqta jasaytug'ınlardı uyaltqın'ız kele me ? Sizlerge ne deymen ? Sizlerdi maqtayın ba ? Yaq , bul ushın maqtamayman !
+46012017a	qalay		Eger pu'tkil dene ko'z bolsa , onda qalay esitiwge boladı ? 
+46012017b	qalay		Eger pu'tkil dene qulaq bolsa , onda qalay iyis seziwge boladı ?
+46012019	qayaqta		Eger mu'shelerdin' ha'mmesi birdey bolg'anda , onda dene qayaqta bolar edi ?
+46014006	qanday		Solay etip , tuwısqanlarım , men sizlerge barıp basqa tillerde so'ylesem , biraq sizlerge ya Qudaydın' ayanın , ya bilim , ya payg'ambarshılıq so'zin , ya ta'lim bermesem , onda menin' sizlerge qanday paydam tiyedi ?
+46014007	kim		Sırnay yamasa duwtar sıyaqlı , ses shıg'aratug'ın jansız na'rseler de anıq ses shıg'armasa , sırnay yamasa duwtardın' ne shertkenin kim tu'sinedi ?
+46014008	kim		Eger ka'rnay urıstın' baslang'anın ja'riyalap , anıq ses shıg'armasa , kim urısqa tayarlanadı ?
+46014009	kim		Sol sıyaqlı , sizler de basqa tilde so'ylep , tu'siniksiz so'zlerdi aytsan'ız , so'ylegen so'zin'izdi kim tu'sinedi ? Sizler qurı dalag'a so'ylegendey bolasızlar-g'o !
+46014015	ne		Olay bolsa , men ne islewim kerek ? Men ruwxım menen de , sana-sezimim menen de duwa etiwim kerek . Ruwxım menen alg'ıs-maqtaw qosıg'ın aytsam , sana-sezimim menen de alg'ıs-maqtaw qosıg'ın aytıwım kerek .
+46014016	qalay		Eger sen tek ruwxın' menen shu'kirlik bildirsen' , sol jerde turg'an tu'sinbeytug'ın adam senin' bildirgen shu'kirligin'e qalay « awmiyin » deydi ?
+46014026	qanday		Tuwısqanlarım , endi bunnan qanday juwmaq shıg'aramız ? Sizler jıynalg'anın'ızda , birin'iz alg'ıslaw qosıg'ın aytasız , birin'iz ta'lim beresiz , birin'iz Quday bergen ayandı bildiresiz , birin'iz basqa tilde so'yleysiz ha'm ja'ne birin'iz basqa tildi tu'sindiresiz . Bulardın' ha'mmesi iseniwshiler ja'ma'a'tinin' bekkemleniwi ushın islensin .
+46014036	~		Qudaydın' so'zi sizlerden shıg'ıp , tek jalg'ız sizlerge jetip bardı ma ?
+46015012	qalay		Masix o'limnen qayta tirildi , dep ja'riyalap atırg'an bolsaq ta , qalay aran'ızdag'ı bazı adamlar o'limnen tiriliw joq deydi ?
+46015029a	~		
+46015029b	ne		Eger qayta tiriliw joq bolsa , o'liler ushın suwg'a shomıldırılg'anlar ne boladı ? 
+46015029c	ne		O'liler hesh qashan tirilmeytug'ın bolsa , adamlar ne sebepten o'liler ushın suwg'a shomıldırıladı ?
+46015030a	~		
+46015030b	ne ushın		Ja'ne de , bizler ne ushın ha'r saat sayın o'zimizdi qa'wip astına qoyamız ?
+46015032	qanday		Eger adamlardın' oyı boyınsha o'liler tirilmeytug'ın bolsa , Efestegi jabayı haywanlar sıyaqlı bolg'an adamlar menen gu'resip , o'lim qa'wpi astında qalg'anımnın' mag'an qanday paydası bar ? Eger o'liler tirilmeytug'ın bolsa : « Kelin'ler , iship-jep qalayıq , sebebi erten' o'lemiz-g'o ! »
+46015035a	qalay		Biraq , birew : « O'liler qalay tiriledi ? 
+46015035b	qanday		Qanday dene menen keledi ? » — dep sorawı mu'mkin .
+46015055a	qa'ne		« Ha'y o'lim , jen'isin' qa'ne ? 
+46015055b	qa'ne		Ha'y o'lim , uwlı iynen' qa'ne ? »
+47002002	kim		O'ytkeni eger men sizlerdi ja'ne qapa qılsam , onda meni kim quwantadı ? O'zim qapa qılg'an sizlerden basqa , kim kewlimdi ko'teredi ? A'lbette , hesh kim !
+47002016	kim		Bizler Xosh Xabardı ja'riyalag'an waqtımızda , nabıt bolıp atırg'anlar ushın o'limge aparatug'ın o'lim iyisimiz . Al qutqarılıp atırg'anlar ushın o'mir beretug'ın o'mir iyisimiz . Bunday xızmetke ılayıqlı hesh kim joq !
+47003008	~		onda o'mir beretug'ın Muxaddes Ruwxqa xızmet etiw onnan anag'urlım ko'p ullılıqqa iye emes pe ?
+47003009	~		Adamdı hu'kim etken Muxaddes Nızamg'a xızmet etiw ullı bolg'an bolsa , aqlanıw beretug'ın Jan'a Kelisimge xızmet etiw onnan go're qanshelli ullıraq boladı !
+47006014a	qanday		İsenbeytug'ınlar menen birge bir moyıntırıqtın' astına kirmen'ler . O'ytkeni haqlıq penen nızamsızlıqtın' arasında qanday uqsaslıq bar ? 
+47006014b	qanday		Nur menen qaran'g'ılıqtın' arasında qanday baylanıs bar ?
+47006015a	qanday		Masix penen shaytannın' arasında qanday kelisim 
+47006015b	qanday		ha'm isenetug'ın adam menen isenbeytug'ın adamnın' arasında qanday sheriklik bolıwı mu'mkin ?
+47006016	qanday		Qudaydın' ibadatxanası menen butlar arasında qanday birlik bolıwı mu'mkin ? Hesh qanday ! Sebebi bizler tiri Qudaydın' ibadatxanasımız . Quday bılay deydi : « Men olar arasında jasap , Olar arasında ju'retug'ın bolaman » . « Men olardın' Qudayı bolaman , Olar Menin' xalqım boladı » .
+47011011	ne		Men ne sebepten usılay islep atırman ? Sizlerdi su'ymegenim sebepli me ? Menin' sizlerdi su'yetug'ınımdı Quday biledi .
+47011029a	qaysi		Qaysı da'rmensizler menen , men birge da'rmensizlenbedim ? 
+47011029b	qaysi		Qaysı azg'ırılg'an adam ushın , men ku'yip-janbadım ?
+47012013	~		Sizlerden aqshalay ja'rdem sorap , o'z awırmanlıg'ımdı salmag'anım sebepli , basqa iseniwshi ja'ma'a'tlerden sizlerdi kem ko'rgendey boldım ba ? Eger meni qa'te isledi dep oylasan'ız , meni keshirin' !
+47012017	~		Degen menen , o'zim sizlerge jibergen adamlardın' biri arqalı bolsa da , sizlerdin' esabın'ızdan paydalandım ba ?
+48002014	qalayınsha		Olardın' Xosh Xabardın' haqıyqatı boyınsha is tutpay atırg'anın ko'rgenimde , ha'mmenin' aldında Kifag'a bılay dedim : « Sen yahudiy bola tura , yahudiy sıyaqlı emes , al basqa millet adamı sıyaqlı jasap atırsan' . Endi qalayınsha sen basqa millet adamların yahudiylesiwge ma'jbu'rleysen' ?
+48003001	kim		Muxaddes Nızam ha'm isenim . Ha'y , aqılsız galatiyalılar ! Sizlerdi kim sıyqırlap tasladı ? İysa Masixtın' atanaq ag'ashqa shegelenip qoyılg'anı ko'z aldın'ızdan ketpestey etip su'wretlenip berilgen joq pa edi ?
+48003019	ne ushın		Onday bolsa , Muxaddes Nızam ne ushın berilgen ? Ol gu'nalarımızdı ashıp ko'rsetiw ushın , kelisimge qosımsha etip berilgen . O'zi Qudaydın' wa'desi ha'm İbrayımnın' urpag'ı bolg'an Masix kelgenge deyin g'ana Muxaddes Nızam ha'reket etedi . Ol perishteler arqalı ta'welleshinin' qolı menen berilgen edi .
+48004009a	nege		Endi bolsa , Qudaydı bilip aldın'lar , tuwrırag'ı , sizlerdi Quday tanıydı . Solay eken , nege endi ja'ne du'nyanın' ha'lsiz ha'm qa'dirsiz qag'ıydalarına qaytıp baratırsızlar . 
+48004009b	~		Qaytadan ja'ne olardın' qulları bolmaqshımısızlar ?
+48004010	~		Ku'nler , aylar , ma'wsimler ha'm jıllardı belgileysizler .
+48004015	qayaqta		Endi sol quwanıshın'ız qayaqta ? ! Sizlerge o'zim gu'waman : qolların'ızdan kelse , ko'zlerin'izdi oyıp , mag'an berer edin'ler .
+48004021	ne		Muxaddes Nızam astında jasawdı qa'legen sizler mag'an aytın'larshı , Muxaddes Nızamnın' ne deytug'ının bilmeysizler me ?
+48004030	ne		Biraq , Muxaddes Jazıw ne deydi ? « Shorını ha'm onın' balasın quwıp jiber , Sebebi shorının' ulı , Azat hayaldın' ulı menen birlikte , Miyrasqa sherik bola almaydı » .
+48005007a	kim		Sizler jaqsı baratır edin'ler . Haqıyqatqa boysınıwdı dawam etiwden sizlerdi kim aynıttı ?
+48005007b	~		
+48005011	~		Mag'an keletug'ın bolsaq , tuwısqanlarım , eger elege deyin su'nnettin' kerek ekenligin ja'riyalap kelgenimde , quwdalanar ma edim ? Eger olay bolg'anda , atanaq ag'ash haqqında aytqan wazlarım sebepli mashqala tuwılmas edi .
+49004009	neni		Endi bul : « Ol joqarıg'a shıqtı » degen so'zler neni an'latadı ? Masix burın to'menge , jerge tu'sti degendi an'latadı .
+50001018	ne		Biraq , solay bolsa ne bolıptı ? Meyli , jaman niyet penen bolsın , meyli , haq niyet penen bolsın , Masix haqqında qanday jol menen ja'riyalansa da , men bug'an quwanaman . Awa , men quwana beremen de .
+50001021	~		O'ytkeni menin' ushın o'mirimnin' ma'nisi — bul Masix , al o'lim utıs demek .
+51002020	nege		Eger sizler Masix penen birge bul du'nyanın' ma'nissiz qag'ıydaları ushın o'lgen bolsan'lar , onda nege bul du'nyag'a tiyisli adamlar sıyaqlı : « Uslama » , « Jeme » ha'm « Qol tiygizbe » degen qag'ıydalarg'a qulaq asasız ?
+52002019	ne		Bizlerdin' u'mitimiz , quwanıshımız ha'm İyemiz İysa kelgende , Onın' aldında kiyetug'ın maqtaw tajımız ne ? Sizler emessiz be ?
+52003009	qansha		Qudayımızdın' aldında sizler sebepli alg'an barlıq quwanıshımızdın' esesin Og'an qansha shu'kirlik aytıp qaytarsaq ta az .
+54003005	qalay		Sebebi o'z u'yin basqara almaytug'ın adam Qudaydın' ja'ma'a'tine qalay g'amxorlıq qıla aladı ?
+54006007a	~		O'ytkeni bizler bul du'nyag'a hesh na'rse alıp kelmedik 
+54006007b	~		ha'm onnan hesh na'rse de alıp kete almaymız .
+58001005	qaysı		O'ytkeni Quday perishtelerdin' qaysı birine : « Sen Menin' Ulımsan' , Bu'gin Men Sag'an A'ke boldım » . Ja'ne de : « Men Og'an A'ke bolaman , Ol Mag'an Ul boladı » , — degen edi ?
+58001013	~		Quday perishtelerdin' hesh birine de : « Dushpanların'dı ayaqların'nın' astına bastırmag'anımsha , Menin' on' jag'ımda otır » , — demegen .
+58001014	~		Aqırı perishtelerdin' ha'mmesi qutqarılıwg'a iye bolatug'ınlarg'a xızmet qılıw ushın jiberilgen xızmetshi ruwxlar-g'o .
+58002003	qalay		Solay eken , da'slep İyemiz İysa ta'repinen aytılg'an , son'ınan Onnan esitkenler ta'repinen tastıyıqlang'an ullı qutqarılıwg'a itibarsız qarasaq , bizler bul jazadan qalay qashıp qutıla alamız ?
+58002006a	kim		Kerisinshe , Muxaddes Jazıwdın' bir jerinde birew bılay dep gu'walıq bergen edi : « O İyem , Sen eske alg'anday adam kim o'zi ? 
+58002006b	kim		Sen og'an g'amxorlıq ko'rsetetug'ınday , adam ulı kim bolıptı ?
+58003016	kimler		Qudaydın' so'zin esitse de , Og'an qarsı qozg'alan' ko'tergen kimler edi ? Muwsanın' basshılıg'ında Mısırdan shıqqanlardın' ha'mmesi emes pe edi ?
+58003017	kimlerge		Quday kimlerge qırıq jıl ashıwlı edi ? Gu'na islep , su'yekleri sho'lde qalg'anlarg'a emes pe ?
+58003018	kimlerge		Quday kimlerge : « Menin' dem alıw ushın beretug'ın ma'kanıma kirmeysizler » , — dep ant ishken edi ? O'zine boysınbag'anlarg'a emes pe ?
+58006004	~		Bir ma'rtebe haqıyqatlıq nurı tu'sip , Qudaydın' sıyının' da'min tatqan ha'm Muxaddes Ruwxqa sherik bolg'anlardı ,
+58007011	~		İzrail xalqı Muxaddes Nızamdı lebiylilerdin' ruwxaniylik xızmeti tiykarında alg'an edi . Biraq eger Xaron a'wladınan bolg'an lebiylilerdin' ruwxaniylik xızmeti arqalı minsizlikke erisiw mu'mkin bolg'anda , onda Melxisedek sıyaqlı basqa bir ruwxaniydin' keliwine ha'jet bar ma edi ?
+58009014	~		Al endi bolsa , ma'n'gilik Muxaddes Ruwx arqalı O'zin minsiz qurbanlıq qılıp Qudayg'a bag'ıshlag'an Masixtın' qanı bizlerdin' tiri Qudayg'a xızmet ete alıwımız ushın , hu'jdanımızdı o'limge jetelewshi islerden tazalawı so'zsiz .
+58010001	~		Masix — son'g'ı qurbanlıq . Muxaddes Nızam keleshektegi jaqsı na'rselerdin' haqıyqıy kelbeti emes , al ko'len'kesi g'ana . Sonlıqtan usı Muxaddes Nızam boyınsha ha'r jılı u'zliksiz beriletug'ın birdey qurbanlıqlar Qudayg'a sıyınatug'ınlardı hesh qashan tolıq pa'kley almaydı .
+58010029a	~		Endi bir oylanıp ko'rin'ler , Qudaydın' Ulın ayaq astı etip , o'zin muxaddes qılg'an qandı , yag'nıy kelisimdi bekitken qandı qa'dirsiz ko'rgen ha'm Qudaydın' miyirimli Ruwxın masqaralag'an adam bunnan da awırıraq jazag'a ılayıqlı bolmay ma ?
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	ne		Ja'ne ne aytayın ? Gedeon , Barak , Samson , Effa , Dawıt , Samuel ha'm barlıq payg'ambarlar haqqında aytıp otırıw ushın waqtım jetpeydi .
+58012007	~		Ta'rbiyalanıw ushın shegip atırg'an azapların'ızg'a shıdan'lar . Quday sizlerge O'z balalarınday qatnas jasap atır-g'o . A'kesi ta'repinen ta'rbiyalanbaytug'ın ul bola ma ?
+58012009	~		Sonday-aq , bizlerdi ta'rbiyalag'an du'nyadag'ı a'kelerimizdi bizler hu'rmet etetug'ın edik . Onday bolsa , ruwxıy A'kemiz bolg'an Qudayg'a ele de ko'birek boysınıp jasawımız kerek emes pe ?
+58012025	qalay		Abaylı bolın'lar , so'ylep turg'an Qudayg'a qulaq aspay ketpen'ler . Onın' tapsırması menen jer betinde eskertip so'ylegen Muwsag'a qulaq aspag'an İzrail xalqı jazadan qashıp qutıla almag'an edi . Eger bizler de aspannan o'zlerimizge eskertip so'ylep turg'an Qudayg'a qulaq aspasaq , bunnan da awırıraq jazadan qalay qashıp qutıla alamız ?
+58013006	ne		Sonlıqtan bizler batırlıq penen bılay deymiz : « Jaratqan İyem mag'an ja'rdem beredi , men qorqpayman , Adam mag'an ne isley aladı ? »
+59002006	~		Biraq sizler jarlını biyabıray qıldın'ız-g'o . Sizlerge zulımlıq jasap atırg'an baylar emes pe ? Sizlerdi hu'kimxanalarg'a su'yrep aparatug'ın da baylar emes pe ?
+59002014	ne		Tuwısqanlarım , eger kim de kim isenimi barlıg'ın aytıp , jaqsı isler qılmasa , ne paydası bar ? Bunday isenim onı qutqara ala ma ?
+59002016a	~		aran'ızdag'ı birin'iz olarg'a : « Aman-esen barın' , jılının' ha'm toyın' » dese , 
+59002016b	ne		biraq denesine kerekli zatlar bermese , bunnan ne payda ?
+59002018	~		Biraq birew : « Senin' isenimin' bar , menin' islerim bar . Mag'an islersiz isenimin'di ko'rset , al men sag'an isenimimdi islerim arqalı ko'rseteyin » , — deydi .
+59002021	~		Babamız İbrayım ulı Isaqtı qurbanlıq shalınatug'ın orıng'a bag'ıshlap , isleri menen aqlanbadı ma ?
+59003013	kim		Aran'ızda dana ha'm tu'simpaz adam kim ? Bunday adam o'z danalıg'ın jaqsı ju'ris-turısı arqalı ko'rsetip , kishipeyillik penen jaqsı isler islewi tiyis .
+59003017	~		Biraq joqarıdan tu'sken danalıq birinshiden pa'k , son'ınan tatıw , mu'la'yim , boysınıwshı , miyrim-sha'pa'a'tke ha'm jaqsı jemislerge tolı . Ol a'dalatsız ha'm eki ju'zli emes .
+59004001a	qayaqtan		Qudayg'a boysının'lar ! . Aran'ızdag'ı urıs ha'm ja'njeller qayaqtan kelip shıg'adı ? Denelerin'izdin' mu'shelerinde urısıp atırg'an qa'lewlerin'izden emes pe ?
+59004001b	~		
+59004012	kim		Nızam shıg'arıwshı ha'm hu'kim etiwshi — jalg'ız Quday . Tek g'ana Ol qutqarıwg'a ha'm nabıt qılıwg'a qu'diretli . Al tuwısqanın'dı hu'kim etetug'ınday , sen kim bolıpsan' ? Maqtanshaqlıq haqqında
+59004014	ne		Sizler erten' ne bolatug'ının bilmeysizler-g'o . O'mirin'izdin' o'zi ne ? Ol az waqıt ko'rinip , keyin joq bolatug'ın puw .
+60002020	~		Eger gu'na islegenin'iz ushın tayaq jegenin'izde shıdasan'ız , bul sizlerge abıray a'perer me eken ? Biraq , jaqsılıq isley tura azap shekkenin'izde shıdasan'ız , bul Qudayg'a unaydı .
+60003013	kim		Jaqsılıq islewge intalı bolsan'ız , kim sizlerge jamanlıq isleydi ?
+60004017	qanday		O'ytkeni hu'kim shıg'arılatug'ın waqıt jetip keldi . Hu'kim shıg'arıwdı Quday O'z shan'arag'ınan baslaydı . Eger bul Qudaydın' shan'arag'ı bolg'an bizlerden baslansa , Qudaydın' Xosh Xabarına qulaq aspaytug'ınlardın' aqırı qanday boladı ?
+60004018	ne		« Eger haq adam zorg'a qutqarılsa , Qudaysız ha'm gu'nakar adamg'a ne boladı ? »
+61003004	qa'ne		« İyen'izdin' qaytıp kelemen degen wa'desi qa'ne ? Ata-babalarımız du'nyadan o'tkennen beri , ha'mme na'rse qalay jaratılg'an bolsa , ele solay turıptı-g'o » , — deydi .
+61003011	qanday		Ha'mme na'rse usı ta'rizde joq bolıp ketetug'ın bolsa , sizler qanday adamlar bolıwın'ız za'ru'r ? Sizler muxaddes bolıp jasap , Qudaydın' jolı menen ju'riwin'iz kerek .
+62002022	kim		İysanın' Masix ekenin ta'n almag'an adam o'tirikshi bolmasa , onda kim o'tirikshi ? A'keni ha'm Uldı ta'n almag'an adam — Masixqa qarsı turıwshı .
+62003012	ne ushın		Shaytang'a tiyisli bolıp , o'z tuwısqanın o'ltirgen Kaing'a uqsamayıq . Ol ne ushın tuwısqanın o'ltirdi ? O'ytkeni o'zinin' isleri jawız , al tuwısqanının' isleri haq edi .
+62003017	qalayınsha		Kim de kim du'nya-malg'a bay bola tura , tuwısqanının' joqshılıqta jasap atırg'anın ko'rse de tas bawırlıq etse , qalayınsha onday adamda Qudaydın' su'yispenshiligi boladı ?
+62004020	qalay		Eger kim de kim : « Qudaydı su'yemen » dep , tuwısqanın jek ko'rse , ol o'tirikshi . Sebebi ko'zge ko'rinetug'ın tuwısqanın su'ymegen adam ko'zge ko'rinbeytug'ın Qudaydı qalay su'ye aladı ?
+62005005	kim		İysanın' Qudaydın' Ulı ekenine isenetug'ın adamnan basqa , kim du'nyanı jen'e aladı ? Qudaydın' Ulı haqqında gu'walıq
+66005002	Kim		Ja'ne men ba'lent dawıs penen ja'riyalap baqırg'an bir ku'shli perishteni de ko'rdim . Ol jar salıp : « Kim bekitilgen mo'rlerdi buzıp , kitaptı ashıwg'a ılayıqlı ? » — dedi .
+66006010a	qashan		Olar ba'lent dawıs penen baqırıp bılay dedi : « Muxaddes ha'm haqıyqıy İyemiz ! Sen endi qashan jer ju'zinde jasaytug'ınlardı hu'kim etip , olardan to'gilgen qanımız ushın o'sh alasan' ? »
+66006010b	~		
+66006017	kim		Sebebi olardın' qa'ha'rli g'a'zebinin' ku'ni keldi , bug'an kim shıday aladı » , — dedi .
+66007013a	kimler		Sonda aqsaqallardın' biri mennen : — Aq kiyim kiygen mına adamlar kimler , 
+66007013b	qayaqtan		olar qayaqtan keldi ? — dep soradı .
+66013004a	kim		Adamlar jırtqısh haywang'a biylik bergen aydarhag'a sıyındı . Olar jırtqısh haywang'a da sıyınıp : « Bul jırtqısh haywang'a kim ten' kele aladı ? 
+66013004b	kim		Onın' menen kim urısa aladı ? » — dedi .
+66015004a	kim		İyem , Sennen qorqpaytug'ın , atın'dı alg'ıslamaytug'ın kim bar ? Sebebi tek jalg'ız Sen g'ana muxaddessen' . Pu'tkil milletler kelip , Senin' aldın'da tabınadı . O'ytkeni Senin' a'dil islerin' ayan boldı » .
+66015004b	~		
+66017007	Nege		Perishte mag'an bılay dedi : — Nege tan' qalıp tursan' ? Men sag'an hayaldın' ha'm onı ko'terip ju'rgen jeti baslı , on shaqlı jırtqısh haywannın' sırın ashıp beremen .
+66018018	~		ol jang'an ottın' tu'tinin ko'rgende : « Usı ullı qalag'a ten' keletug'ın qala bar ma ? » — dep dad saldı .

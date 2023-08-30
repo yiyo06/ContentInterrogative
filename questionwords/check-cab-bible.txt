@@ -1,0 +1,743 @@
+40002002	Jageísan		Ába jálügüdajan . — ¿ Jageísan jarúeite juríu le agǘriajoúbei ? Aríja wamáaru luwáruguman le ñígiñe lubeí láfuara wéyu , wayábiñati lun wájuduragun lun .
+40002004	jalíabei		Ábati lagúarun joun sun jábutigu fádirigu lídan jafíñen juríu , jáma ja arúfudajabalin lilúrudun Moisés joun gürígia , ába lálügüdaguniña jalíabei lan libíti fulásu lagǘriajoúa Crístu .
+40003007	Ca		Dan le laríjin Juan luágu sarágu jáña lan gürígia lídaangiñetiña jadámurin fariséogu jáma saduséogu ñǘbintiña lun jabásterun , ába laríñagun joun . — ¡ Jarásan jéwe jugúya le ! ¿ Ca awísarubadün lun janúrajan lueí lanárime afáyeiragülei luágu figoú le lúnbei liábin ?
+40005013	cábagi		Ába lasígirun Jesúsu aríñaga . — Ítara jíña quei sálu joun lílana uboú le lun jeréderuniña lueí jagádeirun , ánjein leféridira sálu lubásuan , ¿ cábagi un ju lan ? Úaalime ju lan ni ca un lueídügüya lun lágurúniwa , ábame jadǘgüraguni gürígia .
+40005046	cábagi		Ánjein já rügǘbaña lubeí jínsiñejabúbaña jun ínsiñeda jun , ¿ cábagi fáyeiti jerésibira luágu líra ? Adǘga jamúti gíñe ja agúburajabalin liseínsuna gumádi ítara .
+40005047	ca		Ánjein joún rügǘñein lubeí jumádagu jayoúragua , ¿ ca buíti jadǘgübei láu líra ? Íbini ja ibídiñejabubaña lun Búngiu adǘga jamúti líra .
+40006027	Cáteigi		¿ Cáteigi jídaangiñe gayáraabei líchugun bián ugúdi lánwoun lúgubu , ca lan lanárimebei láfaagun luágu ?
+40006028	ca uágu		‘ ¿ Ca uágu jadíjerida tuágu anáanguni ? Aríja jumá ída líña lan laweínamudun fulúri . láu sun mawádigimari lan , madǘgün ligía gamísa ,
+40006031a	Cába		Madíjerida jumá lubeíti aríñaga . “ ¿ Cába weíga ? ” 
+40006031b	Cába		o “ ¿ Cába wáta ? ” 
+40006031c	Cába		o “ ¿ Cába wadáüra ? ”
+40007003	Ída		¿ Ída lubásan gayára lan jaríjini liraǘraü ífei le lídaanbei lágu jamúlen áni masándi jumúti durúsu le lídaanbei jágu ?
+40007004	ída		¿ O ída lúba gayára lan jaríñagun lun jamúlen . “ Sagánei liraǘraü ífei le lídaanbei bágu , ” áni níjein ában durúsu lídan jágu ?
+40007009	~		‘ ¿ Níjein funági ában jídaangiñe gayáraati líchugun ában dǘbü lun lisáani dan le lamúriajan fein lúma ?
+40007016a	~		Jugúya , gayáraabei jasúbudiruniña luágu le jadǘgübei , malúbajoúntu beíbei lídaangiñe jíyu , 
+40007016b	~		ni ígo lídaangiñe guríbiyuwa .
+40008026	Cásan uágu		Ába loúnabuniña . — ¿ Cásan uágu janúfudeda ? ¡ Loúgua tafíñen jugúya le ! Ába lásaarun , ába ladeínjan lun garábali lúma barána , ába lagálumadun .
+40008027	Cáteisan		Ába laweíridun janígi , ába jaríñagun . — ¿ Cáteisan wügǘri le , agáamba lubálin garábali lúma barána ?
+40008029	Cásan uágu		Ábati jagúarajan ítara . — ¿ Cásan uágu bemétera wámoun , Jesúsu Liraǘ Búngiu ? ¿ Biábiña asúfuriragüdawa lubáragiñe dan le lánina asúfuriruni ?
+40009004	Cásan uágu		Queíti subúdi lubálin Jesúsu le uágubei jasáminara , ába laríñagun joun . — ¿ Cásan uágu luríbanbei jisáminan ítara ?
+40009005	Cátimasan		¿ Cátimasan ménreengúnbei laríñawagúniwa . “ Ferúdunawati bifígoun ” , ódi “ Sarába , beíbuga ” ?
+40009011	Ída		Dánti le jaríjini fariséogu cátei le , ába jaríñagun joun láni Jesúsu disípulugu . — ¿ Ída liñásan leíginbei jumáesturun jáma agúburajatiña liseínsuna gumádi lúma jáma ámu gafígountiña ?
+40009014	Ánsan		Ábati jayábin ja láni Juan le abásteragüdajabei disípulugu , ába jaríñagun lun Jesúsu . — ¿ Ánsan wagía jáma fariséogu ayúnara wabeí sarágu , ánjaña báni disípulugu mayúnaruntiña ?
+40009015	~		Ába líchuguni Jesúsu jémpulu le joun luágu iséri larúfudajan lúma binádu , laríñaga . — ¿ Gayáraati funági jíruñu jamá ja amísurajoúbaña lídoun ában maríei dan le niján lan adári jáma ñi ? Lachǘlürüba wéyu lun lúadun adári jáma , ligíaalime jayúnarun .
+40010025	~		Lúnti gúndan lan disípulu láu lachǘlürün ítarada quei lumáesturun , lúma músu quei liyúbudiri . Ánjein aríñawagúa lubeí nuágu luágu jábutiná máfianu , gúbume janábawagua ja afálarubalina .
+40011007	Cásan		Dan le joúdin , ába lagúmeserun Jesúsu adímureja joun gürígia luágu Juan , ába laríñagun . — ¿ Cásan jídinbei meja aríja lídan fulásu le mageírawati ? ¿ Ában wügǘri le medéraaguagüdünti larítagun queísi ában mabúru le lánjingichun garábali ?
+40011008	cáti		Ánjein máma lubeí líña , ¿ cáti jídinbei aríja ? ¿ Ában wügǘri wéndeti ladáüragun ? Subúsiti jun luágu ja lan wéndebaña adáüragun , tídaañanu lan jában urúeigu .
+40011009	Cáteiti		¿ Cáteiti jídinbei aríja ? ¿ Ában proféta ? Ánja , ligía , áni ában wügǘri weíriguti sügǘ láu ában proféta Juan .
+40011016	Cábasan		‘ ¿ Cábasan úma núaradaguágüdaña gürígia ja lánina dan le ? Magúndaatiña ni ca áu , ítara jáña quei irájüñü ja añúurubaña adíbirija mágidirugu , ába jagúarajan joun jíbirigu ítara .
+40012011	Ca		Ába laríñagun Jesúsu joun . — ¿ Ca jídaangiñe , ánjein galǘgün lubeí ában mudún , ába teíguadun lídoun ában wélu wéyu le eméraaguagülei , lun mídinbei lan aságaroun ?
+40012026	ída		Ítara líña giñéti , ánjein laságara Máfia máfia guánarügü , ligía guánarügü afánreinragubei , áni ¿ ída lubáti ladúrarun lubáfu ítara ?
+40012027	cáti		Jugúya , aríñagatün luágu láu lan lubáfu Beelzebú , o Máfia , naságaja espíritugu wuríbatiña , ánjein ítara líña lubeí , ¿ cáti íchugubei ubáfu joun ja jánigu jugúya lun jaságajaniña , Máfia ódi Búngiu ? Jagía guánarügü arúfuda jamúti luágu bulíeigua jumá .
+40012029	Ída		‘ ¿ Ída lubági gayára lan lebélurun ában gürígia lúbiñoun ában wügǘri jéreti lun lanǘgüni lílagu ánjein magǘragun lan furúmiñe ? Ítara rügǘñein lun gayára lan lanǘgüni lílagu .
+40012034	~		¡ Jarásan jéwe jugúya le ! Siñáti jadímurejan cátei buíti , wuríbatüngan . Cátei le buínbei tídan anígi , ligía laríñagubei iyúmaü .
+40012048a	ca		Ába laríñagun Jesúsu lun le awísarubalin . — ¿ Ca núguchuboun , 
+40012048b	ca		ca namúlenubaña ?
+40013010	Cásan uágu		Ábati jayábin disípulugu , ába jaríñagun lun Jesúsu . — ¿ Cásan uágu badímureja joun gürígia láu jémpulu ?
+40013027	jalíagiñésan		Ába joúdin músu , ába jaríñagun lun jayúbudiri . “ Wayúbudiri , ánjein buídu lubeí ílaü le bábunagubei bumúanrugu , ¿ jalíagiñésan lasálira jíduru wuríbati le ? ”
+40013054a	Jalíasan		ába lachǘlürün lageíroun . Ába lagúmeserun arúfudaja tídan jalígilisin juríu to lídaanboun fulásu ligía , ába laweíridun janígi gürígia , ába jaríñagun . — ¿ Jalíasan lafúnrendeirei wügǘri le sun lichú áu le ? 
+40013054b	Ída		¿ Ída liñásan gayára láani miláguru buri le adǘga ?
+40013056	Jalíagiñeti		ya gíñe jagánawa lamúlenu jáma lítunu wádan . ¿ Jalíagiñeti lasúbudirei sun le ?
+40014031	Ca uágu		Ába lárügüdüni Jesúsu lújabu , ába laríñagun lun . — ¡ Loúguati gíñe bafíñen ! ¿ Ca uágu laloúguada bafíñen ?
+40015002	Ánsan		— ¿ Ánsan jájalachagunbalin báni disípulugu binádu jagáburi weíyaaña mútu ? Magúnfuliruntiña láu lachibúniwa újabu lubá eígini , según wagáburi .
+40015003	Ánti		Ába laríñagun Jesúsu joun . — ¿ Ánti gíñe jájalachagunbalin lerérun Búngiu lun jafálaruni binádu jigáburi ?
+40015033	Ída		Ábati jaríñagun láni disípulugu lun . — ¿ Ída lubáti wadárirun eígini joun sarágu gürígia ya lídan fulásu le ñí lumuti úa jamá aganoútiña ?
+40015034	Átiriñoun		Ába lálügüdüniña Jesúsu . — ¿ Átiriñoun fein júma ? Ába jaríñagun . — Sédü , jáma biánraü úduraü .
+40016008	Ca uágu		Ába lasúbudiruni Jesúsu , ába laríñagun joun . — ¿ Ca uágu jadíjerida luágu úa tan fein júma ? ¡ Loúguati gíñe jafíñen !
+40016009	átiriñein		¿ Úagili gunfaráanda jumá , marítagun jugúya tuágu seíngü fein to nafánreinjaboun jádan seíngü mílu wügǘriña lúma átiriñein lan faníñe táu ígiragutu ?
+40016010a	~		¿ Bulíeiguatün funásan tuágu sédü fein to nafánreinjaboun jádan gádürü mílu wügǘriña lúma 
+40016010b	átiriñein		átiriñein lan faníñe táu ígiragutu ?
+40016011	Ída		¿ Ída liñági meféen jubeí luágu máma lan tuágu fein nadímureja dan le naríñagunbei jun lun joúnigiragun júngua lueí jísite fariséogu jáma saduséogu ?
+40016013	Cátanasan		Dan le lachǘlürün Jesúsu ubúrugu Cesaréa le Filípo ába lálügüdüniña láni disípulugu . — ¿ Cátanasan lídan jarítagun gürígia , áu le Wügǘri Garaǘwarügüti ?
+40016015a	~		Ábati laríñagun joun . — Ánti jugúya , 
+40016015b	cátanati		¿ cátanati lídan jarítagun ?
+40016026a	Cági		¿ Cági ju lan lun gürígia lagáñeiruni sun le lánina uboú le , leféridireime lubára siélu ? 
+40016026b	cáta		Úati ni cáta lánina uboú le áuti gayára lan lagáñijan gürígia ubáraü siélu .
+40017010	cáti uágu		Ábati jaríñagun disípulugu lun Jesúsu . — Guetó subúdi wamáali luágu amǘrü lan Crístubei . Quei ítara líña lubeí , ¿ cáti uágu jaríñaga arúfudajatiña lilúrudun Moisés luágu lúnti lan liábin Elías lubáragiñe liábin Crístu ?
+40017017a	Átiribeísan dan		Ába loúnabun Jesúsu . — ¡ Gürígia mafíñeraditiña , gürígia wuríbatiña ! ¿ Átiribeísan dan lun neréderuni júma lubá gayára lan jafíñerun nuágu ? 
+40017017b	Ídame		¿ Ídame lagúmucha mafíñeni le jídaanbei ? Barǘjumei irájü ligía ñájoun .
+40017019	Cásan uágu		Lárigiñe , ába jadímurejan disípulugu lúma Jesúsu jábugua , ába jálügüdüni . — ¿ Cásan uágu siñá wabalin espíritu wuríbati ligía aságara ?
+40017025a	Ída		Ába loúnabun Pédro , ába laríñagun lun . — Afáyeijati . Dánti lebélurun Pédro múnadoun , ába lálügüdüni Jesúsu Pédro lubáragiñe gayára lan ladímurejan . — ¿ Ída líña baríjin lun líra , Simón ? 
+40017025b	Cátaña		¿ Cátaña jagúburajabaña urúeigu ja lánina uboú le , jásan lílana fulásu ódi ja teréncha ?
+40018001	Cáteisan		Lídan dan ligía , ába jayábin disípulugu lúmoun Jesúsu , ába jálügüdüni . — ¿ Cáteisan weírigutimaabei lídan larúeijan Búngiu ?
+40018012	Ída		‘ ¿ Ída líña jaríjin lun ? Ánjein añájein lubeí san mudún lúma ában wügǘri , teféridira ában jádaangiñe , ¿ ma lígirubaña jíbiri luágu wǘbü , ábame lídin áluajoun to ayúridaguboun ?
+40018021	átiribeísan		Ába layárafadun Pédro lun Jesúsu , ába laríñagun lun . — Nabúreme , ¿ átiribeísan weíyaasu ladǘgün nibíri ában wuríbani nun lun ferúduna méme náani ? Darí sédü weíyaasu ?
+40019007	Cáti uágu		Ábati jálügüdüni . — ¿ Cáti uágu laríñaga lilúrudun Moisés lun lan tíchugúniwa gárada lánina ígiraguni tun wǘri lun tigirún ?
+40019016	cásan		Ába lídin ában wügǘri ñǘraügili aríjei Jesúsu , ába laríñagun lun . — Maésturu buíti , ¿ cásan cátei buíti lúnbei nadǘgüni lun nibíjini ibágari le magúmuchaditi ?
+40019017	Ca uágu		Ába laríñagun Jesúsu lun . — ¿ Ca uágu baríñaga nun “ buíti ” ? Ában rügǘñein buíti , Búngiu . Ánjein busén bubei bibíjini ibágari magúmuchaditi , gúnfulibá lúma gumádi .
+40019018	Cáteigi		Ába laríñagun wügǘri ligía lun . — ¿ Cáteigi buri ? Ába laríñagun Jesúsu lun . — Máfarajabá , magámaridabá wǘri gámaritu , míwerujabá , madímurejabá iyéeni luágu ni ában ,
+40019020	cági		Ába laríñagun lun . — Gúnfuli numúti sun le lúmagiñe ñǘraügidina , ¿ cági ámu nemégeirubei ?
+40019025	Cáteiti		Dan jagáambuni disípulugu cátei le , ába laweíridun jan-balin Jesúsu cába lan ladǘgigi sarágu , ába jálügüdagun jámagua . — ¿ Cáteiti gayáraabei lasálbarun ?
+40019027	Cábasanti		Ábati laríñagun Pédro lun . — Nabúreme , wagía , ígira wamáali sun lé meja wámabei lun wafálarunibu . ¿ Cábasanti wabíja ?
+40020006	Cásan uágu		Queí buri ladaǘnrün seíngü rábounwéyu , ábaya lídin mágidirugu , ábaya ladárirun wügǘriña mafísiutetiña ñi , ába laríñagun joun . “ ¿ Cásan uágu yá jubei sun wéyu mawádigimariga ? ”
+40020012	~		ába jaríñagun . “ Ja ñǘbinbaña agúmujoúni , ában rügǘñein óra jawádigimari , ában lábu bafáyeiruniña quei wagía , wagía le awándubalin wadágimanu lúma lísüga sun wéyu . ”
+40020021	Ca		Ába laríñagun tun . — ¿ Ca babúseerubei ? Ába taríñagun lun . — Aríñagabá lun jañúurun bián nisáanigu ja , ában lueígiñe boúnwenren , ában lueígiñe bubaǘna yágüta lídan barúeijan .
+40020032	Ca		Ába leréderagun Jesúsu , ába lagúarun joun , ába laríñagun joun . — ¿ Ca jabúseerubei nadǘgün jun ?
+40021010	Cáteisan		Dan lebélurun Jesúsu ubúrugun Jerusalén , ába jafúudun sun ja ñíbaña , ába jaríñagun sarágu . — ¿ Cáteisan gürígia le ?
+40021016	~		Ába jaríñagun lun Jesúsu . — ¿ Agáamba bumútisan le jaríñagubei ja ? Ába laríñagun Jesúsu joun . — Ánja , agáamba numúti . ¿ Malíijan jumágili tídan Lerérun Búngiu le ñí lubei laríñawagúa lun Búngiu . Adǘgaadibu lun jerémujan ñǘbürigiña jáma irájüñü ja machǘlaagiña , cátei buíti buágu ?
+40021020	Ída		Dan jaríjini disípulugu cátei le , ába laweíridun janígi , ába jaríñagun lun Jesúsu . — ¿ Ída liñásan tásaürübei tídibu ígo to ítara oúfun ?
+40021023a	ca		Ábati lebélurun Jesúsu témpulurugun , dan niján lan arúfudaja ñi , ába jayábin jábutigu fádirigu jáma wügǘriña ábutigu lídan jafíñen juríu , ába jaríñagun lun . — ¿ Aríñagabeí woun ca lan biríchabei lun badǘgüni cátei le ? 
+40021023b	ca		¿ Ca íchugubalin ubáfu le bun ?
+40021025a	ca		¿ Ca oúnajabalin Juan abásteragüdaja ? ¿ Búngiu , ódi wügǘriña ? Ába jagúmeserun adímureja jámagua , ába jaríñagun . 
+40021025b	~		— Ánjawa aríñaga luágu Búngiu lan oúnajabalin , 
+40021025c	ca lan uágu		laríñaguba woun ca lan uágu mafíñerun wabeí lun .
+40021028	~		Ába laríñagun Jesúsu joun . — Nabájüdaguá ában cátei jun , jaríñageime nun ída líña lan jaríjin lun . Ñíñein ában wügǘri , biámañanu lisáanigu . Ába laríñagun lun ában jádaangiñe . “ Niraǘ , beíba ñadágimein ugúñe lídan talúbajoún ninádirigu . ”
+40021031	cági		Aríñaga jumeí nun , ¿ cági jádaangiñe biángubei adǘgübalin le labúseerubei úguchili ? Ába jaríñagun . — Le furúmiñebei . Ábati laríñagun Jesúsu joun . — Ninárün jáu luágu choúrutima lan jebélurun agúburajatiña liseínsuna gumádi jáma jórugu lídoun larúeijan Búngiu sügǘ jáu ,
+40021040	cábagi		Ába lálügüdajan Jesúsu . — Dánmeti liábin labúreme ichári , ¿ cábagi ladǘga jáu ñadágimeintiña ja ?
+40022012	ída		Ába laríñagun lun . “ Numáda , ¿ ída liñági bebélurunbei ñájoun madáüragunga quei lun ában maríei ? ” Maní ligía .
+40022017	~		Rúbei lubeíti barítagun woun . ¿ Buítisan lun lafáyeirúniwa seínsu lun urúei Rómana ódi mabuídunti ?
+40022018	Ca uágu		Aríagu líña Jesúsu lun luríba jayúmajan , ába laríñagun joun . — ¡ Biángua tigíbu jugúya le ! ¿ Ca uágu jíchaaja sádara nubá ?
+40022020a	ca		Dan laríjini , ába lálügüdüniña . — ¿ Ca iyáwa le luágubei seínsu le , 
+40022020b	~		lúma íri le bürǘwañubei luágu ?
+40022028	cábati		Dánmeti jásaarun lídaangiñe oúweni , ¿ cábati úmari wǘri tugúya jádaangiñe sédü gamúlenuguátiña ja , lárigiñe maríei jamá sun jagía túma ?
+40022036	cásan		— Maésturu , ¿ cásan gumádi weírigutimaabei lídan lilúrudun Búngiu ?
+40022042a	Cásan		ába laríñagun Jesúsu joun . — ¿ Cásan jarítagubei libǘgürü Crístu le lanúadirubei Búngiu lun lasálbaruniña gürígia ? 
+40022042b	Cásan		¿ Cásan adǘgawagun ? Ába jaríñagun lun . — Ladǘgawagun Davíd .
+40022043	Ída		Ábati laríñagun Jesúsu joun . — ¿ Ída liñáti lagúarunbalin Davíd quei Abúremein , láu lubáfu Sífiri Sándu ? Aríñagatiga Davíd .
+40022045	Ída		¿ Ída lubáti ladǘgawagun lan Davíd Crístu ánjein wá lubali Davíd guánarü Crístu Nabúreme ?
+40023017	Cági		¡ Ibídiougua líña jáu , maríjin ! ¿ Cági weírigutimaabei , gólu ódi témpulu to adǘgüboun lun sagráubei lan gólu ?
+40023019	Cági		¡ Ibídiougua líña jáu , maríjin ! ¿ Cági weírigutimaabei , cátei le luágubei latárü ódi latárü le adǘgübalin cátei ligía lun sagráubei lan ?
+40023033	Ída		‘ ¡ Jéwegu ! ¡ Jarásan jéwegu ! ¿ Ída lubásan jeséfurun lueí asúfuriruni le lánina máfiougati ?
+40024003a	ídaba		Ábati joúdin luágu wǘbü Olívos , dánti ñun lan Jesúsu ñi , ába joúdin láni disípulugu agǘlülüja lúma , ába jaríñagun lun . — Buséntiwa lun baríñaguni woun ídaba lan tagǘnrinchawagúa témpulu . 
+40024003b	Cába		¿ Cába liseíni bagíribudun uboúagun , lúma lagúmuchagüle ?
+40024045	~		‘ Ítara jumá queísi músu úaraguati , gunfaráanda ligía , le lígirubei liyúbudiri lun laríjin jáu ja lúbiñebaña lun líchugun eígini joun lídan dan .
+40025037	ída bugagí		Ábameti jaríñagun richáguatiña jagía nun . “ Wabúreme , ¿ ída bugagí waríjabu láu ilámaü , ába wíchugun eígini bun ? ¿ ída bugagí waríjabu láu mágürabu , ába wíchugun dúna bun ?
+40025038	ída bugagí		¿ Ída bugagí waríjabu quei chülǘdügüti , ába wíchugun múna bun ? ¿ o manáangunga , ába wíchugun anáanguni bun ?
+40025039	ída bugagí		¿ Ída bugagí waríjabu láu sándi o furísunrugu , ába woúdin aríjabu ? ”
+40025044	ída bugagí		Ábame jaríñagun wuríbatiña jagía nun . “ Wabúreme , ¿ ída bugagí waríjabu láu ilámaü o mágürabu , o quei chülǘdügüti , o manáangunga , o láu sándi , o furísunrugu , míderagun wamútibu ? ”
+40026008	Cámesan		Dan jaríjinbaalin disípulugu cátei le , ába jamágundarun , ába jaríñagun . — ¿ Cámesan leféridirúa le ítara ?
+40026010	Ca uágu		Ába lagáambuni Jesúsu le jaríñagubei , ába laríñagun joun . — ¿ Ca uágu jañáwurija tun wǘri to ? Cátei buíti le tadǘgübei .
+40026015	Atiribei		Ába laríñagun joun . — ¿ Atiribei jíchugun nun ánjein nedéregera Jesúsu jun ? Ába jíchugun darándi murúsun pláta lun .
+40026017	Jalía		Le furúmiñeti wéyu lídan fédu le ñí lubei teigúa fein magánatu ísi , ába jayábin disípulugu lúmoun Jesúsu , ába jaríñagun lun . — ¿ Jalía babúseera waráanserun lun ñíba lan wadǘgei eígini le lánina páscua ?
+40026040	~		Ábati lagíribudun le ñíjin jabeí láni disípulugu , ába ladáriruniña arúmuga , ába laríñagun lun Pédro . — ¿ Siñátisán buga jeréderun agágudúañu núma ni ában óra ?
+40026050	ca		Ába laríñagun Jesúsu lun . — Numáda , ¿ ca bálugubei ? Ábati jayábin , ába járügüdüni Jesúsu , ába janǘgüni adáüra .
+40026054	ída		Lun jamúga nadǘgüni ítara , ¿ ída lubági lagúnfulirun le tídaanbei Lerérun Búngiu to aríñaguboun luágu lúnti lan lasúseredun le ítara ?
+40026062a	~		Ábati laráramun fádiri le íñutimaabei , ába laríñagun lun Jesúsu . — ¿ Moúnabuntíbusan ni cáta ? 
+40026062b	Cáteigi		¿ Cáteigi le , le aríñawagúbei buágu ?
+40026065	~		Ábati lajeíridagunun fádiri le íñutimaabei lanáangun , le ligáñi , ába laríñagun . — ¡ Anába láali wügǘri le Búngiu láu lerérun ! Mabúseerunjadiwa ámu lun líchugun fe luágu , agáamba jumáali anábuni le laríñagubei ,
+40026066	ída		¿ ída líña jaríjin lun ? Ába jaríñagun . — Gadúnrunti , lúnti loúnwen .
+40026068	ca		ába jaríñagun lun . — Quei amǘrü lan Crístubei , ¡ aríñaga beígia ca lan agáyuajabei buágu ! Jaríñagunbei lun ítara ladǘga gürágu líña lan lágu .
+40027004	Cámegi		ába laríñagun joun . — Afígounjaadina láu nedéregerun ában wügǘri madúnrunti lun loúnwen . Ába jaríñagun lun . — ¿ Cámegi le warúma ? ¡ Bugúya lun baríjini líra !
+40027013	~		Ábati laríñagun Piláto lun . — ¿ Magáambun bumútisan le jaríñagubei buágu ?
+40027017	ca		dánti le adámuriñujaña lan sun gürígia , ába lálügüdüniña Piláto . — ¿ Ca jabúseerubei nígiragüdün jun , Barabási , ódi Jesúsu le únbei laríñawagua Crístu ?
+40027021	Ca		Ábaya ladímurejan gumádimati joun sun gürígia jagía , ába laríñagun joun . — ¿ Ca jádaangiñe biángubei jabúseerubei lun nígiragüdüni jun ? Ába jaríñagun . — Barabási .
+40027022	Cábati		Ába laríñagun Piláto joun . — ¿ Cábati nadǘga láu Jesúsu le únbei laríñawagúa Crístu ? Ába joúnabun súngubei . — ¡ Dáguabeí luágu gurúwa !
+40027023a	~		Ába laríñagun Piláto joun . 
+40027023b	Cáti		— ¿ Cáti wuríbati ladǘgübei ? Ábatima jagúaragun . — ¡ Dáguabeí luágu gurúwa !
+40027046	cásan uágu		Queí buri óra méme ligía , ába lagúaragun Jesúsu jére . — Elí , Elí , ¿ láma sabáctani ? — líla líra . Nubúngiute , Nubúngiute , ¿ cásan uágu bígirana ?
+41001024	Cámesan		— ¿ Cámesan bemétera wámoun , Jesúsu Nazarétna ? ¿ Biábiñasan lun bagǘnrichaguníwa ? Subúdi numúti cátabu lan , láu amǘrü lan Búngiu Irájü le sándubei .
+41001027	cáteisan		Sun ja ñíbaña , ába laweíridun janígi , ába jálügüdagun jámagua . — ¿ Cáteisan le ? ¿ Cáteisan iséri arúfudajani le ? ¡ Gürígia le , gabáfuti lun gíñe lagúmadiruniña espíritu wuríbatiña áni agáamba jamúti !
+41002007a	Cásan uágu		“ ¿ Cásan uágu ladímureja gürígia le ítara ? Lanábaguñeiga le Búngiu , 
+41002007b	~		ladǘga úati ni ában gayáraati ferúduna lan figoú lueídügüya Búngiu . ”
+41002008	Cásan uágu		Subúdi lumúti Jesúsu le jasáminarubei , ába laríñagun joun . — ¿ Cásan uágu jasáminara ítara ?
+41002009	Cáteitimasan		¿ Cáteitimasan ménreengunbei laríñawagún lun sánditi le . “ Ferúdunawaali bifígoun ” , o laríñawagún lun . “ Sarába , budáboun bubárari , beíba ” ?
+41002016	Ída		Ja arúfudajatiña lilúrudun Moisés , jáma fariséogu , dan le jaríjinbalin eíga jáma sun wuríbatiña jagía ( según jagía ) , ába jaríñagun joun láni disípulugu . — ¿ Ída liñásan leíginbei jumáesturun áni gurá ligía jáma agúburajatiña liseínsuna gumádi lúma jáma ámu gafígountiña ?
+41002018	Cásan uágu		Luágu ában wéyu , dan le jayúnarun lánigu Juan jáma jánigu fariséogu lun jagúnfulirun lúma Búngiu , ába jayábin fiú gürígia álügüdei Jesúsu . — ¿ Cásan uágu jayúnara lánigu Juan jáma jánigu fariséogu lun jagúnfulirun lúma Búngiu , ánjaña báni disípulugu mayúnaruntiña ?
+41002019	~		Ába loúnabun Jesúsu láu jémpulu luágu iséri larúfudajan lúma binádu , laríñaga . — ¿ Gayáraati funági jayúnarun amísurajoútiña lídan ában maríei dan le níjein lan adári ñi jáma ? Ánjein níjein lubeí adári ñi , siñáti jayúnarun , lúnti jeígin .
+41002024	Cásan uágu		Ába jaríñagun fariséogu lun Jesúsu . — ¡ Aríjabá joun bánigu ! ¿ Cásan uágu jadǘga wadágimanu le moún lumuti ladügǘniwa lídan wéyu le eméraaguagülei ?
+41003004	Cátei		Ába lálügüdüniña ja jíbiri . — ¿ Cátei lúnbei ladügǘniwa lídan wéyu le eméraaguagülei , lun jíderawagúniwa gürígia ódi lun ladügǘniwa wuríbati joun , lun leséfurúniwa jabágari ódi lun jígirúniwa lun joúnwen ? Sun jagía , ába jámanichun .
+41003023	Ída		Ábati lagúarun Jesúsu joun lun jayárafadun lubádun , ába líchugun ában jémpulu joun , ába laríñagun . — ¿ Ída lúba gayára lan laságaruni Máfia Máfia guánarügü ?
+41003033a	Cági		Ába laríñagun joun . — ¿ Cági núguchuboun jáu namúlenu ?
+41003033b	~		
+41004013	Ída		Ába laríñagun joun . — ¿ Úatisan gunfaráanda jumáni le ? ¿ Ída lubági gunfaráanda jumáni líbiri jémpulu ?
+41004030a	Cásan		Aríñagati gíñe Jesúsu . — ¿ Cásan lenégebei larúeijan Búngiu , 
+41004030b	ca		o ca jamúga jémpulu gayáraabei wíchuguni lúmoun ?
+41004038	~		Larúmuguñati Jesúsu tiyúna ugúnein baláñu tuágu ában ichǘgübarari . Ába jagágudajani , ába jaríñagun lun . — ¡ Maésturu ! ¿ Mebéreseguntibusan láu wadíbiragua lan ?
+41004040a	Cásan uágu		Ábati laríñagun joun láni disípulugu . — ¿ Cásan uágu luweírinbei janúfude ? 
+41004040b	Cásan uágu		¿ Cásan uágu mafíñen jubeí ?
+41004041	Cátei funásan		Ába jeréderun láu luweírin janígi , ába jálügüdagun jámagua . — ¿ Cátei funásan le , garábali lúma barána ñǘdüntiña láu le lubeíbei ?
+41005007	Cásan uágu		ába lagúaragun lun . — ¿ Cásan uágu bemétera númoun , Jesúsu Liraǘ Búngiu le Íñutimaabei ? Ayúmuraguatina bun luágu líri Búngiu lun masúfuriragüdün bánina .
+41005009	ca		Ába lálügüdüni Jesúsu . — ¿ Ca bíri ? Ába loúnabun . — Lejión níña ladǘga gíbetiwa .
+41005030	Ca		Ábati lasándiruni Jesúsu luágu areídaguagüdaali lan gürígia láu lubáfu , ába lagáraragun jawágun gürígia ja lanágangiñébaña , ába lálügüdajan . — ¿ Ca agúurubei tuágu nanáangun ?
+41005031	ca		Ába jaríñagun láni disípulugu lun . — Aríagu biñátia lun jíbe gürígia ya luágu murúgu jáña lan , ¿ álügüdajágidibu ca lan agúurubei buágu ?
+41005035	ca uágu		Ñígili Jesúsu adímureja , ligía jayábin lúbiñegiñe wügǘri lé buga ñǘdünbei oúgei luágu tisándi liraǘ , ába jaríñagun lun túguchi irájü tugúya . — Jilátia biraǘ , ¿ ca uágu bebéreseja lun maésturu guetó ?
+41005039a	Cásan uágu		Ába lebélurun , ába laríñagun joun . — ¿ Cásan uágu jareíncha , 
+41005039b	~		ayájua buri jugúya ítara ? Moúnwentutia irájü to , tarúmuguña .
+41006002a	Jalía funásan		Dan lachǘlürün wéyu le eméraaguagülei , ába larúfudajan tídan jalígilisin juríu , sarágu jáña gürígia agáambei , ába laweíridun janígi láu larúfudajan , ába jaríñagun . — ¿ Jalía funásan lafúnrendeirei gürígia le sun le ? 
+41006002b	Cáteisan		¿ Cáteisan lichú áu le luágubei ? 
+41006002c	Ída		¿ Ída liñásan gayára lubeí ladáagun miláguru ?
+41006022	~		Ába tebélurun tiraǘ Heródias ñí lubei fédu le , ába tabínajan , gúndaatiti Heródes jáma sun ja ñíbaña eíga lúma láu tabínajan irájü to , ába laríñagun tun . — Amúriajabeí le babúseerun núma , níchugubei bun .
+41006024	Cábasan		Ába táfuridun , ába taríñagun tun túguchu . — ¿ Cábasan namúriaja lúma ? Ába taríñagun tun . — Amúriajabeí lábulugu Juan le abásteragüdajabei lúma .
+41006037	~		Ába laríñagun Jesúsu . — Rújuma eígini joun . Ába jaríñagun lun . — ¿ Gayáraati funági woúdin agáñija fein joun ? Busénwati jamúga lebégi bián-san wéyu wadágimanu lun wabíjini seínsu lun wíchugun fein joun súngubei .
+41006038	Átiriñoungi		Laríñaga Jesúsu joun . — ¿ Átiriñoungi fein júma ? Jeíba aríjoun . Dan le jaríjinun , ába jaríñagun lun . — Seíngü fein jáma bián úduraü .
+41007005	Cásan uágu		Ábati jálügüdüni fariséogu jáma arúfudajatiña lilúrudun Moisés jagía , Jesúsu . — ¿ Cásan uágu mafála jabálin báni disípulugu binádu jagáburi binádu wagǘbürigu , jeíginbei láu liwíye jájabu ?
+41008004	Ída		Ába joúnabuni láni disípulugu . — ¿ Ída lubáti jeígagüdüniwa ya lídan fulásu le mageírawaguti ?
+41008005	Átiriñoun		Ába lálügüdüniña Jesúsu . — ¿ Átiriñoun fein júma ? Ába jaríñagun lun . — Sédü .
+41008012	Cásan uágu		Ába lawáragun Jesúsu weíri , ába laríñagun . — ¿ Cásan uágu jamúriaja gürígia ja lánina dan le ában miláguru ? Ninárün jáu luágu marúfudúnbei lan miláguru jun .
+41008017	Ca uágu		Ába lasúbudiruni Jesúsu jarítagun , ába laríñagun joun . — ¿ Ca uágu jaríñaga luágu meígan jumá fein ? ¿ Úagili gunfaráanda jumá , meféen jugúya ? ¿ Ítara lidére jichǘgü ?
+41008018a	~		¿ Maríjintün láu jágu , 
+41008018b	~		magáambun jugúya láu jarígeirugu ? ¿ Marítagun jumáali ?
+41008019	átiriñoun		Dan le nafánreinjanbarun seíngü fein jádan seíngü mílu wügǘriña , ¿ átiriñoun faníñe táu tífe jabúdun ? Ába jaríñagun . — Dúusu .
+41008020	átiriñeingi		— Ángi dan le nafánreinjanun sédü fein jádan gádürü mílu , ¿ átiriñeingi faníñe buin jabúdun ? Ába jaríñagun . — Sédü .
+41008021	~		Ába laríñagun joun . — ¿ Úagili gunfaráanda jumá luágu máma lan tuágu fein nadímureja ?
+41008023	~		Ítara líña lárügüdüni Jesúsu maríjinti ligía , ába lanǘgüni bougudín lueí fulásu ligía . Ába lájurudagun arǘrei luágu lágu , ába líchuguni lújabu luágu , ába lálügüdüni ánjein gayáraaraü lubeí laríjin .
+41008027	Cátanasan		Lárigiñe , ába lídin Jesúsu jáu láni disípulugu lídoun buri lirájüñü fulásu le geyéguabei láu ubúrugu Cesaréa le Filípo . Ǘmada , ába lálügüdüniña láni disípulugu , laríñaga joun . — ¿ Cátanasan jaríñagun gürígia ?
+41008029a	~		Ába laríñagun . — Ánti jugúya , 
+41008029b	cátanati		¿ cátanati lídan jarítagun ? Ába laríñagun Pédro lun . — Amǘrü Crístubei , le loúnajabei Búngiu lun lasálbaruniña gürígia lídaangiñe jafígoun .
+41008036	Cági		¿ Cági ju lan lun gürígia lagáñeiruni sun le lánina uboú , leféridireime lubára siélu ?
+41008037	cáta		Úati ni cáta lánina uboú le áuti gayára lan lagáñijan gürígia lubára siélu .
+41009010	cátei		Ligía jareídunbalin jádaangua , álügüdajárügütiña jámagua cátei lán funa ásaarunibei lídaangiñe oúweni .
+41009011	Cásan uágu		Ábati jálügüdüni Jesúsu . — ¿ Cásan uágu jaríñaga arúfudajatiña lilúrudun Moisés luágu lúnti lan liábin Elías furúmiñe lubáragiñe liábin le Crístubei ?
+41009012	Cági		Ába loúnabuniña . — Inárüni le jaríñagubei luágu Elíasba lan ñǘbin furúmiñe áni laráanserubei lan sun cátei . ¿ Cági taríñagubei Lerérun Búngiu nuágu , áu le Wügǘri Garaǘwarügüti ? Aríñagatu luágu nasúfuriruba lan sarágu áni mabájüdǘnbadina lan .
+41009016	Ca uágu		Ábati lálügüdüniña , laríñaga joun . — ¿ Ca uágu jasígeneja jáma ?
+41009019a	Átiribeísan dan		Ába loúnabun Jesúsu , ába laríñagun . — ¡ Gürígia mafíñeraditiña ! ¿ Átiribeísan dan lun neréderuni júma lubá gayára lan jafíñerun nuágu ? 
+41009019b	Ídame		¿ Ídame lagúmucha mafíñeni le jídaanbei ? Barǘjumei irájü ligía ñájoun .
+41009021	Átiri dan		Ába lálügüdüni Jesúsu lúguchi , ába laríñagun lun . — ¿ Átiri dan lueígiñe ítara lan ? Ába laríñagun lúguchi . — Lúmagiñe ñǘraügili .
+41009028	Cásan uágu		Ábati lebélurun Jesúsu múnadoun , ába jálügüdüni láni disípulugu dan le jábuguarügaña lúma , ába jaríñagun lun . — ¿ Cásan uágu siñá wabalin espíritu wuríbati ligía aságara ?
+41009033	Cásan uágu		Ába jachǘlürün ubúrugu Capernaúm , múnada , ába lálügüdüniña Jesúsu . — ¿ Cásan buga uágu jadímureja le eíbugeina jumá ?
+41009050	cábagi		Buíti sálu , ánjein leféridira lubásuan , ¿ cábagi un ju lan ? Ítara líña lubeíti , awánda jumeí sun ouchúni lubá jarúmadun ligíbugiñe Búngiu , lídan jumá úaraguni júmagua .
+41010003	Cá		Ába laríñagun Jesúsu joun . — ¿ Cá mejagi laríñagubei Moisés jun ?
+41010017	cásan		Dan le lasígirunbalin Jesúsu luweíyasun , ába liábin ában wügǘri eíbaagueina lubároun , ába lájuduragun ligíbugiñe , ába lálügüdüni ítara . — Maésturu buíti , ¿ cásan cátei buíti lúnbei nadǘgüni lun nibíjini ibágari le magúmuchaditi ?
+41010018	Ca uágu		Ába laríñagun Jesúsu lun . — ¿ Ca uágu baríñaga nun “ buíti ” ? Ában rügǘñein buíti , Búngiu .
+41010026	Cáteiti		Dan jagáambunbalin cátei le , ába laweíridun janígi , ába jálügüdagun jámagua . — ¿ Cáteiti gayáraabei lasálbarun ?
+41010036	Cági		Ábati laríñagun joun . — ¿ Cági jabúseerubei lun nadǘgün jun ?
+41010051	Ca		Ába lálügüdüni Jesúsu . — ¿ Ca babúseerubei nadǘgün bun ? Ába loúnabun maríjinti ligía . — Maésturu , buséntina naríjin .
+41011003	ca lan uágu		Ánjaün álügüdǘwa ca lan uágu jadǘgei le , jaríñagame lun luágu busén láni Jesúsu , luágu láguyugüdübei lan furése .
+41011005	Ca		Ába jaríñagun jádaangiñe ja ñíbaña ǘmadarugu joun . — ¿ Ca jadǘgübei ? ¿ Cáme jafáragadei burígü le ?
+41011028a	Cáteisan		ába jálügüdüni . — ¿ Cáteisan biríchabei lun bádaragun búngua lídoun cátei le tánina témpulu ? 
+41011028b	ca		¿ Ca íchugubalin ubáfu le bun ?
+41011030	ca		¿ Ca oúnajabalin Juan abásteragüdaja ? ¿ Búngiu , ódi wügǘriña ?
+41011031a	~		Ába jagúmeserun adímureja jámagua , ába jaríñagun . — Ánjawa aríñaga luágu Búngiu lan oúnajabalin , 
+41011031b	ca lan uágu		laríñaguba woun ca lan uágu mafíñerun wabeí lun Juan .
+41012009	Cábati		Ábati lálügüdajan Jesúsu . — ¿ Cábati ladǘga labúreme ichári ? Liábinme , ábame láfaraguniña ñadágimeintiña jilágubei , ábame líchuguni ichári joun ámu .
+41012015	Cámesan		Subúdi lumúti Jesúsu luágu biánguañein lan jagíbu , ába laríñagun joun . — ¿ Cámesan jíchaajan sádara nubá ? Barǘjuma ában lídaangiñe seínsu ligía nun , aríja námugei .
+41012016a	~		Ába janǘgüni lun . Dan le laríjini , ába lálügüdüniña . — ¿ Cági iyáwa lúma íri le luágubei ? Ába jaríñagun lun . — Láni urúei Rómana .
+41012016b	Cági		
+41012023	cábagi		Niján le uágubei wálügüdaja . Dánme le jásaarun jiláaña lídaangiñe oúweni lúnya gabágari jamá , ¿ cábagi úmari wǘri tugúya jádaangiñe sédü gamúlenuguátiña ja , lárigiñe maríei jamá sun jagía túma ?
+41012028	Cáteisan		Ñíñein ában jádaangiñe arúfudajatiña lilúrudun Moisés le agáambubalin jadímurejan , queíti subúdi láani luágu oúnaba lániña Jesúsu buídu , ába liábin lubároun , ába lálügüdüni . — ¿ Cáteisan lídaangiñe lilúrudun Búngiu weírigutimaabei ?
+41012035	Ída		Larúfudajaña Jesúsu témpulurugu , laríñaga . — ¿ Ída liñásan jaríñagunbei arúfudajatiña lilúrudun Moisés luágu ladǘgawagun lan Davíd Crístu ?
+41012037	Ída		¿ Ída lubáti ladǘgawagun lan Davíd Crístu ánjein wa lubálin Davíd guánarü Crístu , “ Nabúreme ” ? Ába jagáambuni bürǘbünu gürígia jagía láu ugúndani .
+41013004a	ídame		— Buséntiwa lun baríñaguni woun ídame lan lasúsereda sun le tun témpulu to . 
+41013004b	Cábasan		¿ Cábasan seíni luágu chülǘjali lan dan lun lagúnfulirun sún buri cátei le ?
+41014004	Cámesan		Ába jagáñidun jádaangiñe ja ñíbaña , ába jaríñagun jámagua . — ¿ Cámesan leféridirúa ibíñei jémeti le ?
+41014006	ca uágu		ába laríñagun Jesúsu . — Ígira jumoún . ¿ Ca uágu jañáwurija tun ? Ában cátei buíti le tadǘgübei nun .
+41014012	Jalíagi		Le furúmiñeti wéyu lídan fédu le ñí lubei teigúa fein to magánatu ísi , luwéyuri lafarún mudún le lánina fédu le páscua , ába jálügüdüni disípulugu Jesúsu . — ¿ Jalíagi babúseera lun woúdin aráansera wabárua lun weígini eígini le lánina fédu ?
+41014014	jagoún		jídinme lárigi le ñíjin lumúti lebélura , ábame jaríñagun lun tabúreme múna . “ Ítara líña maésturu , ¿ jagoún nege rúmu to lúnboun ñi lan leígei eígini le lánina fédu jáu láni disípulugu ? ”
+41014060a	~		Ábati lásaarun fádiri le íñutimaabei jádaangiñe sun jagía , ába laríñagun lun Jesúsu . — ¿ Moúnabuntíbusan ni cáta ? 
+41014060b	Cáteisan		¿ Cáteisan le , le jaríñagubei buágu ?
+41014063	Ca		Ábati lajeíridagunun fádiri íñutimaati lanáangun , le ligáñi , ába laríñagun . — ¿ Ca ámu wabúseerubei lun líchugun fe luágu guetó ?
+41014064	Ída		Agáamba jumúti lanábaguni Búngiu láu lerérun . ¿ Ída líña jaríjin lun líra ? Ába jabúdujan súngubei lun láfarúniwa jilágubei .
+41015004	~		Ábayati lálügüdüni Piláto , ába laríñagun lun . — ¿ Moúnabuntíbusan ni cáta ? ¿ Aríjabá átiriñein lan bidúnrun íchuguti ?
+41015012	Cáti		Ábati laríñagun Piláto . — ¿ Cáti jabúseerubei nadǘgün láu le uágubei jaríñaga Jarúeite Juríu ?
+41015014a	Cáti		Ába laríñagun Piláto joun . — ¿ Cáti wuríbati ladǘgübei ? 
+41015014b	~		Ábaya jagúaragun . — ¡ Dáguabeí luágu gurúwa !
+41015034	cásan uágu		Ligía lagúaragun Jesúsu . — Eloí , Eloí , ¿ láma sabáctani ? — míni lan líra . Nubúngiute , Nubúngiute , ¿ cásan uágu bígirana ?
+41016003	Cábasan		ábati jaríñagun jámagua . — ¿ Cábasan agídarei dǘbü lueígiñe lubéneri umúajaü ?
+42001018	Ída		Ába laríñagun Zacarías lun ánjeli ligía . — ¿ Ída lubági nachoúruni cátei le ? Áu táu sun númari , derébugugaadiwa .
+42001034	Ída		Ábati taríñagun María lun ánjeli ligía . — ¿ Ída lubági lasúseredun cátei le , mámarigidinagu ?
+42001043	Cátanañadina		¿ Cátanañadina lun tiábin lúguchu Nabúreme bisídana ?
+42001066	Cáteibeí funasan		Sun ja agáambubalin , ába jeréderun asáminara , ába jálügüdagun jámagua , jaríñaga . — ¿ Cáteibeí funasan irájü le ? Ladǘga biní lumútija Búngiu le tímatimaati .
+42002048	Cáme		Dan le jaríjinbalin lagǘbürigu , ába laweíridun janígi , ába taríñagun lúguchu lun . — ¿ Cáme badǘgei cátei le woun , niraǘ ? Nugúya lúma búguchi , wáluajañadibutia láu idíjeri .
+42002049	cági uágu		Ábati laríñagun Jesúsu joun . — ¿ Cági uágu jáluajana ? ¿ Ibídiñeti jun luágu lúnti lan neténirun lun cátei le láni Núguchi ?
+42003007	Ca		Ñǘbintiña sarágu gürígia lun Juan lun labásteragüdǘniña , ába laríñaga joun . — ¡ Jarásan jéwe jugúya le ! ¿ Ca awísarubalün lun jeíbaagun lueí lanárime lafáyeiragüle figoú le yaráfaalibei ?
+42003010	Cáteiti		Ábati jaríñagun gürígia jagía lun . — ¿ Cáteiti lúnbei wadǘgüni ?
+42003012	ca		Ñǘbintiña gíñe agúburajatiña liseínsuna gumádi lun jabásterun , ába jaríñagun lun . — Maésturu , ¿ ca cátei lúnbei wadǘgüni ?
+42003014a	~		Aríñagatiña gíñe fiú súdaara lun . — Ángi wagía , 
+42003014b	cági		¿ cági lúnbei wadǘgüni ? Laríñaga joun . — Magídara jumá ni cáta ni ca ueí , ni láu siádi , ni láu jíchugun lidúnrun mútu le madǘgün lumúti , gufúruma jumá láu jafáyeiruaja .
+42004034	ca uágu		— Ígira báwa , ¿ ca uágu bemétera wámoun , Jesúsu le Nazarétna ? ¿ Biábiña agǘnrinchaguawa ? Subúdi numútibu , áni subúdi numúti luágu amǘrü lan Liraǘ Búngiu le sándubei .
+42004036	Cáteisán		Ába laweíridun janígi súngubei , ába jaríñagun jámagua . — ¿ Cáteisán buri dimúrei le ? ¡ Adímurejati wügǘri le láu gumádi lúma ubáfu joun espíritugu wuríbatiña , ába jáfuridun !
+42005021a	Cáteisan		Ábati jaríñagun arúfudajatiña lilúrudun Moisés jáma fariséogu joúnguarügü . — ¿ Cáteisan gürígia le , le minébenejabubei lun Búngiu láu ligáburi ladímurejan ? 
+42005021b	~		Úati ámu gayáraati ferúduna lan figoú lueídügüya Búngiu .
+42005022	Ca uágu		Subúdi lumúti Jesúsu ca lan jasáminabei , ába laríñagun joun . — ¿ Ca uágu jasáminara ítara ?
+42005023	Cátima		¿ Cátima méreengúnbei laríñawagun . “ Ferúdunawaali bifígoun ” , ódi “ Sarába , beíbuga ” ?
+42005030	Cásan uágu		Ába jagúmeserun fariséogu jáma arúfudajatiña lilúrudun Moisés adímureja luágu Jesúsu jáma láni disípulugu , ába jaríñagun joun . — ¿ Cásan uágu jeíginbei jáma agúburajatiña liseínsuna gumádi lúma jáma ámu gafígountiña ?
+42005033	Ída		Ábati jaríñagun lun Jesúsu . — ¿ Ída liñásan ayúnara jabeí lánigu Juan jáma fariséogu , ayúmuragua jagía sarágu lun Búngiu , ánjaña báni disípulugu , joútiña , gurá jagía súnwandan ?
+42005034	~		Ába laríñagun Jesúsu joun . — ¿ Gayáraati funági jayúnaragüdüniña gürígia ja jamísurajan lídoun ában maríei sun niján lan adári jáma ñi ?
+42006002	Cásan uágu		Ábati jaríñagun jádaangiñe fariséogu joun . — ¿ Cásan uágu jadǘga wadágimanu le moún lumuti ladügǘn lídan wéyu le eméraaguagülei ?
+42006009	ca		Ábati laríñagun Jesúsu joun jíbiri . — Nálügüdaadün ában cátei . ¿ Ca cátei gayáraabei ladügǘn lídan wéyu le eméraaguagülei , buídu ódi wuríbani , lasálbarun ibágari ódi lagídarún ?
+42006032	ca		‘ Ánjein já rügǘñanu lubeí jínsiñejabúbaña jun jínsiñe jun , ¿ ca buíti jadǘgübei láu líra ? Ásta gafígountiña , ítara líña jadǘga .
+42006033	ca		O ánjaün lan adǘga buíti joúnrügü ja adǘgübaña buíti jun , ¿ ca buíti jadǘgübei láu líra ? Ítara líña gíñe jadǘgün gafígountiña .
+42006034	ca		Ánjaün afúredeija joúnrügü ja úmagiñebaña jarítagua jibíjin som cátei , ¿ ca buíti jadǘgübei láu líra ? Afúredeijatiña gíñe ja wuríbabaña joun wuríbatiña jáledi , agúrabañu jagía gíñe jabíjin som cátei jámagiñe .
+42006039	~		Rúlumuti Jesúsu jémpulu le joun . — ¿ Gayáraati funági ladúndejan ában maríjinti ában maríjinti líledi ? ¿ Ma jeíguaduba biángubei lídoun ában meme júyu ?
+42006041	Ída		‘ ¿ Ída líña gayára bubálin liraǘraü ífei le lídaanbei lágu bíbugaña aríja , áni masándi bumúti durúsu le lídaanbei bágu ?
+42006042	Ída		¿ Ída líña gayára lubeí baríñagun lun bíbugaña . “ Sagánei liraǘraü ífei le bágurugubei ” , áni masándi bumúti durúsu le bágurugubei ? ¡ Biánguañein bigíbu ! Sagábei durúsu le bágurugubei furúmiñe , gayára lámuga baríjini liraǘraü ífei le lágurugubei bíbugaña buídu lun baságaruni .
+42006046	Ca uágu		‘ ¿ Ca uágu jaríñaga luágu áu lan Jabúremebei áni madǘgün jumúti le nubeíbei ?
+42007024	Cásan		Lárigiñe joúdin já buga loúnajabaña Juan , ába lagúmeserun Jesúsu adímureja luágu Juan joun gürígia , laríñaga . — ¿ Cásan jídinbei aríja lídan fulásu mageírawati ? ¿ Ában mabúru le lánjinjan garábali ?
+42007025	cáti		Ánjein máma lubeí ítara líña , ¿ cáti jídinbei aríja ? ¿ Ában wügǘri táu anáanguni wéndegutu ? Máma ligía , subúdi jumúti luágu ja lan wéndegubaña adáüragun , agánawa jagía buídu , tídaañanu jában urúeigu .
+42007026	ca		Lídan linárün cátei , ¿ ca jídinbei aríja ? ¿ Ába proféta ? Ánja , inárüni , áni ában weíriguti sügǘ láu proféta .
+42007031a	Ída		Ába laríñagun Jesúsu . — ¿ Ída liñásan jagáburi gürígia lánina dan le ? 
+42007031b	Cásan		¿ Cásan lenégebei ?
+42007042	cábagi		Queíti siñá lubei jafáyeiruni , ába ferúduna láani afúredeijati ligía jadúweijan biángubei . Aríñagabeíti nun . ¿ cábagi jádaangiñe jínsiñejabutima lun afúredeijati ligía ?
+42007049	Cáteisan		Ábati jagúmeserun amísurajoútiña ja ñúnbaña lúma ñi aríñaga jámagua . — ¿ Cáteisan wügǘri le , ferúduna lubeí gíñe figoú ?
+42008025a	ca		Ábati laríñagun joun disípulugu . — ¿ Ca susérebei lun jafíñen ? Ába jálügüdagun jámagua láu anúfudei lúma luweírin anígi , jaríñaga . 
+42008025b	Cátei funásan		— ¿ Cátei funásan wügǘri le , gumádi lubáli garábali lúma lugúdi barána áni agáamba jameí ?
+42008028	Ca uágu		Dan le laríjinbalin wügǘri ligía Jesúsu , ába lájuduragun ligíbugiñe , ába lagúaragun . — ¿ Ca uágu bemétera númoun , Jesúsu Liraǘ Búngiu le Íñugutimaabei ? Ayúmuraguatina bun lun masúfuriragüdün bánina .
+42008030	ca		Ába laríñagun Jesúsu lun . — ¿ Ca bíri ? Ába laríñagun . — Lejión níribei . Laríñagunbei luágu ligía lan líribei ladǘga gíbeeña espíritugu wuríbatiña ja ebélurubaña lídoun .
+42008045	Ca		Ábati laríñagun Jesúsu . — ¿ Ca agúrurubei nuágu ? Quei sun lan jagía aríñaga luágu magúrurúnwa lan luágu , ába laríñagun Pédro jáma líbirigu . — Maésturu , murúgu wañátia ya lurúma jíbe gürígia , ¿ álügüdajagidibu ca lan agúrurubei buágu ?
+42009009a	Cátei		Ába laríñagun Heródes . — Áu guánarügü oúnajabei adǘrürei lichǘgü Juan . ¿ Cátei funáti le , 
+42009009b	~		le uágubei nagáamba labájüdawagún sarágu cátei ? Ábati loúchun Heródes laríjini Jesúsu .
+42009018	Ída		Luágu ában wéyu dan le layúmuraguña lan Jesúsu lábugua , ñíñanu láni disípulugu díseraü lueí , ába laríñagun joun . — ¿ Ída liñásan jarítagun gürígia nuágu ? ¿ Cátanasan , según jagía ?
+42009020a	~		Ábati laríñagun joun . — Ángi jugúya , 
+42009020b	cátanagi		¿ cátanagi lídan jarítagun ? Laríñaga Pédro lun . — Crístu , le loúnajabei Búngiu lun lasálbaruniña gürígia , amǘrü .
+42009025	Cági		¿ Cági ju lan lun gürígia lagáñeiruni sun le lánina uboú , leféridireime lubára siélu o lagǘnrinchaguba lan lúngua ?
+42009041a	Átiribeísan		Ába loúnabun Jesúsu , laríñaga . — ¡ Jugúya gürígia mafíñeraditiña , wuríbatiña ! ¿ Átiribeísan dan lun neréderuni júma lubá gayára lan jafíñerun nuágu ? 
+42009041b	Ídame		¿ Ídame lagúmucha mafíñeni le jídaanbei ? Barǘbei biraǘ ñájoun .
+42010025	cábasan		Lídan ában guríriguaü , ñíñein ában arúfudajati lilúrudun Moisés , abúseeruti loúchaguni Jesúsu , ába lásaarun , ába laríñagun lun . — Maésturu , ¿ cábasan nadǘga lun gayára lan nibíjini ibágari magúmuchaditi ?
+42010026a	Cáteigi		Laríñaga Jesúsu lun . — ¿ Cáteigi bürǘwañubei lídan lilúrudun Moisés ? 
+42010026b	Ída		¿ Ída liñágia balíijan ñi ?
+42010029	Cátañagi		Queíti busén lan arúfudajati ligía larúfuduni luágu buídu lan lálügüdajan , ába laríñagun lun Jesúsu . — ¿ Cátañagi níbirigubaña ?
+42010036a	~		Ábati lálügüdüni Jesúsu arúfudajati ligía . 
+42010036b	Cáteiti		— ¿ Cáteiti jádaangiñe ǘrüwa wügǘriña ja líbiribei le ueíbei líwerujoúa , lídan barítagun ?
+42011008	~		Naríñaguña jun luágu íbini lan jamúga másaarun lan íchigoun lun ladǘga lumáda lan , lásaaruña jamúga íchigoun lun lueí lasígirun ebéreseja lun .
+42011011	~		‘ ¿ Gayáraabei funági líchugun ában úguchili jídaangiñe dǘbü lun liraǘ dan le lamúriajan fein lúma ? ¿ o líchugun lan ában jéwe lun dan le lamúriajan úduraü ?
+42011012	~		¿ o líchugun lan ában águru lun dan le lamúriajan gañeín ?
+42011013	~		Gíchigadijadün ligía cátei buíti joun jirájüñü láu sun juríban , ¡ gúbumeti líchigei Júguchi Búngiu le siélubei Sífiri Sándu joun ja amúriajati !
+42011018	ída		Ánjein gíñe níjein lubeí fánreinguaü jádan Máfia jáma lánigu , ¿ ída lubági ladúrarun lubáfu ? Naríñagunbalin le , ladǘga jaríñagun luágu láu lan lubáfu Máfia naságaja espíritugu wuríbatiña ja ebélagüdübaña Máfia guánarügü jádoun gürígia ,
+42011019	cági		áni ánjein ítara líña lubeí , ¿ cági íchugubei ubáfu joun ja jánigu jugúya lun jaságajan espíritugu wuríbatiña , Máfia ódi Búngiu ? Láu líra , jagía guánarügü arúfuda jamúti luágu bulíeigua jumá .
+42012014	Cági		Laríñaga Jesúsu lun . — ¿ Cági íchubalina quei agúseragüdüti o quei afánreinjati jídan ?
+42012017	Cábasán funa		Ábati laríñagun rísiti le lúnguarügü . “ ¿ Cábasán funa nadǘga ? Ibídiñeti nun jalíaba lan nareídei sun le nalúbajabei . ”
+42012020	cábasan		Laríñaga Búngiu lun . “ Wügǘri deré tagáambun , boúwe áriebu le , sun le búmabei areídañu , ¿ cábasan un lerédera ? ”
+42012024	~		Aríja jumá joun dunúru . mábunaguntiña , malúbajan , mágei ligía jeígin , láu sun líra , joúgüda lumútiña Búngiu . ¡ Gebégitimaatün sügǘ jáu dunúru !
+42012025	~		Úati ni ában jídaangiñe gayáraati líchugun lánwoun libágari láu sun luweírin lidíjeri luágu .
+42012026	ca uágu		Ánjein lubeíti siñá lubei jadǘgüni le míbebei , ¿ ca uágu jadíjerida luágu buri líbiri cátei ?
+42012042	~		Laríñaga Wabúreme Jesúsu lun . — Lun furúmieguarügü oúnigiruti úarati , gunfaráanda ligía , le lígirubei liyúbudiri lun laríjin jáu tílana lúban , lun leígagüdüniña lídan dan .
+42012049	~		‘ Láu niábin uboúagun , ñíbei fánreinguaü uboúagu queísi wátu geméti . ¡ Busénjadina jamúga durúnguaali lan wátu ligía !
+42012056	ca uágu		¡ Biángua tigíbu jugúya le ! Subúdi jumúti luáguti ligáburi lasáansiragun dan siélu lúma múarugu , ¿ ca uágu ibídiñe lubeí luáguti ligáburi dan le gádaanbalün jun ?
+42012057	ca uágu		‘ ¿ Ca uágu siñá lubei jasúbudiruni cátei le úaraguabei júngua ?
+42013004	~		Ángi díisi-wídü jagǘra ja oúwegubaña dan le láburujanbei wáyelesi le Siloébei jawágun — ¿ jarítaguatün luágu weíritima lan jadúnrun sügǘ jáu ja jíbiri ja aganoúbaña Jerusalén ?
+42013007	cába uágu		Ábati laríñagun lun le oúnigirubalin ichári . “ Aríjabásan , ǘrüwaali irúmu gabǘgürügua niábin áluaja ígo tuágu ídibu to , madáritina . Chaǘnboun , ¿ cába uágu terédera ñi luágu ni cáta ? ”
+42013015	~		Ába laríñagun Wabúreme Jesúsu lun . — ¡ Biángua tigíbu jugúya le ! , ¿ ma farára jumúti sun jugúya jilǘgün bágasu o jilǘgün lan burígü lun janǘgün áta dúna lídan wéyu le eméraaguagülei ?
+42013018a	Ída		Ábati laríñagun Jesúsu . — ¿ Ída líña ligáburi larúeijan Búngiu ? 
+42013018b	ca		¿ ca cátei úmounbei gayára lan níchuguni ?
+42013020	Ca		Ábaya laríñagun Jesúsu . — ¿ Ca cátei úmounbei gayára lan níchuguni larúeijan Búngiu ?
+42013025	jalíana		Lárigiñe ladáuruni tabúreme múna lubéneri , jugúya le boúgudibei jadaǘnjaba luágu béna , jaríñagame . “ Wabúreme , darába béna wabá . ” Ábame loúnabunün , laríñagame jun . “ Ibídiñetün nun , ibídiñe gíñe nun jalíana jumá . ”
+42014005	~		Ába laríñagun joun fariséogu . — Furúmieguarügü jídaangiñe , ánjein eíguada lilǘgün bágasu o lilǘgün lan burígü lídoun ában wélu lídan wéyu le eméraaguagülei , laságarubei ñígiñe furése .
+42014028	~		Ánjein arítagua ában jídaangiñe ladǘgün ában wáyelesi , ¿ ma funági lañúuruba furúmiñe asáminara átiribei lan lagástarun lun laríjini ánjein gabáfu lubeí lun lagúmuchuni ?
+42014031	~		Ánjein lawúribuja lubeí ában urúei lúma ámu urúei , ¿ ma funági ñurúti furúmiñe lun lasáminarun ánjein gayáraabei lubeí lageíndagun jáu díisi mílu súdaara lúma le jáubei wein mílu ?
+42014034	cábagi		‘ Buíti sálu , ánjein leféridira lubásuan , ¿ cábagi un ju lan ?
+42015004	Ca		— ¿ Ca jídaangiñe , lun jamúga galǘgüniña lan san mudún , leféridira ában jádaangiñe , mígirun lubáña gádürü-wein-díisi-néfu ñi , lubárua , lun lídin áluajoun mudún to eféridiruboun ?
+42015008	Ca		‘ ¿ Ca wǘri to níjeinti jamúga díisi murúsun seínsu túma , leféridira ában lídaangiñe tueí , lun mébedun tan lámpu , ába tabuídajanun múna áluajei buídu darí lun tadáriruni ?
+42015026	ca		Ábati lagúarun lun ában jádaangiñe músu , ába lálügüduni ca lan susérebei .
+42015029	~		Ába laríñagun lun lúguchi . “ Subúdi bumúti luágu seríwijadina lan bun sarágu dan , madǘraagunganeí le bubeíbei ni ában weíyaasu , míchugidibu ni ában liraǘraü gábara nun lun nefédujan jáma numádagu .
+42016002	Ída		Ábati lagúarun iyúbudiri lun , ába laríñagun lun . “ Ída liñásan cátei le , le aríñawagúbei nun buágu ? Rúba fe nun luágu buwádigimari , ladǘga masígijadibu oúnigirei nílagu . ”
+42016003	Cábati		Ábati leréderun oúnigiruti ligía asáminara , laríñaga lúnguarügü . “ ¿ Cábati nadǘga guetó lárigiñe gidála lan niyúbudiri wadágimanu nueí ? Méretina lun nadǘgün wadágimanu jǘrüti , áni nibúsigaritina lun namúriajan .
+42016005	Átiri		Ába loúnajan jawágu ja adúweirubalin liyúbudiri lun jayábin lun ában ában . Ába lálügüdüni le furúmiñeti , laríñaga lun . “ ¿ Átiri badúweiruni niyúbudiri ? ”
+42016007	átiri		Lárigiñe , ábaya lálügüdün ában , laríñaga lun . “ Ángi amǘrü , ¿ átiri badúweijan ? ” Laríñaga lun . “ San ságü türígu . ” Laríñagati lun . “ Nuján bigáradan , adǘgabá ában luágurügü gádürü-wein . ”
+42016011	cábagi		Ánjaün lubeíti madǘgün buíti láu buri irísini le láni uboú le , le uágubei siñá lan leménigidún , ¿ cábagi afíñera juágu lun ledéregerun irísini inárüniti lábugiñe jaríaajan ?
+42016012	cábagi		Ánjaünti madǘgün buíti láu jemégen ámu , ¿ cábagi íchigei le jáni guánarügü jun ?
+42017007	~		‘ Ánjein níjein lubeí lumúsun ában jídaangiñe , dan le lagíribudun áraabugiñe lárigiñe lawoújan o loúnigirun lan anímaalu , ¿ laríñaguba funági lun músu ligía . “ Belúba , ñurúba eíga ” ?
+42017017	Jagáñagi		Ábati laríñagun Jesúsu . — ¿ Ma díisiñanu areídagutiña ? ¿ Jagáñagi ja jíbiri néfu ?
+42017018	~		¿ Niján gubeírügü teréncha le agíribuda eteíngirei Búngiu ?
+42017020	ídaba		Ába jálügüdüni fariséogu Jesúsu ídaba lan lagúmesera larúeijan Búngiu , ába laríñagun joun . — Dánme le lagúmeserun larúeijan Búngiu , marijínbei ,
+42017037	Jalíabasan		Dan le jagáambunbalin cátei le , ába jálügüdüni , jaríñaga lun . — ¿ Jalíabasan lasúsereda buri cátei le , Wabúreme ? Laríñaga joun . — Le ñí lumuti lúgubu jiláali , ñíba joúndaragua wadúbi .
+42018018	ca		Ába lálügüdüni ában jádaangiñe ábutigu Jesúsu , laríñaga lun . — Maésturu buíti , ¿ ca lúnbei nadǘgüni lun gayára lan nibíjini ibágari le magúmuchaditi ?
+42018019	Ca uágu		Laríñaga Jesúsu lun . — ¿ Ca uágu baríñaga nun “ buíti ” ? Ában rügǘñein buíti , Búngiu .
+42018026	Cáteiti		Ába jaríñagun ja agáambubalin . — ¿ Cáteiti gayáraabei lasálbarun ?
+42018036	ca		Dan le lagáambunbei maríjinti ligía jásüüjan sarágu gürígia , ába lálügüdajan ca lan susérebei .
+42018041	Ca		— ¿ Ca babúseerubei nadǘgün bun ? Ába laríñagun lun . — Nabúreme , buséntina naríjin .
+42019007	~		Dánti le jaríjini jíbiri gürígia cátei le , ába jagúmeserun adímureja luágu lídin Jesúsu erédera lúbiñe ában gafígounti .
+42019023	cáti uágu		¿ cáti uágu míchububalin niseínsun báncürugun lun jamúga lagánwoundun dan le nagíribudun ? ”
+42019031	ca uágu		Ánjaün álügüdǘwa ca lan uágu jafáragadei , jaríñagame luágu busén láani Jabúreme .
+42019033	Ca uágu		Dánti le añája lubeí afáragadei burígü , ába jálügüdüniña labúriña , jaríñaga joun . — ¿ Ca uágu jafáragadei burígü le ?
+42020002a	ca		ába jaríñagun lun . — Aríñagabeí woun ca lan biríchabei lun badǘgüni cátei le . 
+42020002b	ca		¿ Ca íchugubalin ubáfu le bun ?
+42020005a	Cába		Ába jagúmeserun aríñaga jámagua . — ¿ Cába waríñaga ? Ánjawa aríñaga luágu loúnajan lan Búngiu , 
+42020005b	ca lan uágu		laríñagame woun ca lan uágu mafíñerun wabeí lun .
+42020013	Cábasán funa		‘ Ába laríñagun labúreme ichári lúnguarügü . “ ¿ Cábasán funa nadǘga ? Noúnajaali niraǘ le jínsiñebei nun , dánme le jaríjini , fágua inébebei joun . ” Ába loúnajani .
+42020015	Cábati		Ábati jaságaruni lídaangiñe fulásu ligía , ába jáfaruni jilágubei . Ábati lálügüdajan Jesúsu , laríñaga . — ¿ Cábati ladǘga labúreme ichári ?
+42020017	Cáti		Ába laríaguniña Jesúsu , ába laríñagun joun . — ¿ Cáti lílabei le bürǘñubei tídan Lerérun Búngiu le ñí lubei laríñaga . Lé meja dǘbü le mabúseerun jabeí ábunagutiña , ligíaali furúmiñeti ?
+42020023	Ca uágu		Ába lasúbudiruni Jesúsu luríban jarítagun , ába laríñagun joun . — ¿ Ca uágu jabúseera jíchugun sádara nubá ?
+42020024a	Cá		Arúfuda jumá ában lídaangiñe seínsu ligía nun . ¿ Cá iyáwa lúma íri le bürǘñubei luágu ? Jaríñaga lun . — Láni César .
+42020024b	~		
+42020033	cábati		Aríñagabá ában cátei woun . dánmeti le jásaarun lídaangiñe oúweni lúnya jabágaridun , ¿ cábati úmari wǘri to jádaangiñe , quei maríei tubeí jáma sédügubei ?
+42020041	Ída		Ába laríñagun Jesúsu joun . — ¿ Ída liñásan jaríñagunbei luágu ladǘgawagun lan Davíd Crístu ?
+42020044	Ída		¿ Ída lubáti ladǘgawagun lan Davíd Crístu , áni aríñagati Davíd guánarügü lun Crístu “ Nabúreme ” ?
+42021007a	ídamé		Ábati jálügüdüni , jaríñaga lun . — Maésturu , ¿ ídamé san lasúseredá buri cátei le ? 
+42021007b	Cábasan		¿ Cábasan seíni waríja luágu dánjali lan lun lasúseredun ?
+42022009	Jalíagi		Ába jálügüdüni . — ¿ Jalíagi babúseera waráanseruni ?
+42022011	Jigóun		Jaríñagame lun tabúreme múna . “ Laríñajare Maésturu . ¿ Jigóun rúmu to ñí lubei gayára lan neígini eígini le lánina fédu jáu náni disípulugu ? ”
+42022027	Cági		¿ Cági weírigutimaabei , le añúurubei eíga luágu dábula , ódi le esériwijabei ? ¿ Ma le añúurubei luágu dábula ? Áni áu , ítara níña jídan quei le esériwijabei .
+42022046	Ca uágu		Ábati laríñagun joun . — ¿ Ca uágu jarúmuga ? Sarájuma , jayúmuragua , meféridirun jumámugei jafíñen nuágu .
+42022064	ca		Ába jagǘraguni lágu , ába jagáyuajan ligíbuagun , aríñageina jagía . — ¡ Bugúya le profétabei , aríñagabeígia ca lan agáyuajabei buágu !
+42022071	~		Ábati jaríñagun . — Mabúseerunjadiwa geféen jamá ámu woun , agáamba wamáali lídaangiñe guánarügü liyúma .
+42023022a	~		Ába laríñagun Piláto joun luágu lǘrüwan weíyaasu . 
+42023022b	Cáti		— ¿ Cáti wuríbati ladǘgübei ? Madáritina ni cáta le lúnti lafarún jilágubei lueígiñe . Nabeíchagüdali , ábame nígiragüdüni .
+42023031	cábagi		Ladǘga ánjein adǘgajabalin sun le láu tídibu wéwe le dǘdügili , ¿ cábagi madǘgün jamá láu le mábeijali ? ( Ítara líña ladímurejan luoúgua , le madúnrunbei , lúma jawágu ja gadúnrunbaña . )
+42024005	ca uágu		Queíti jélemuchun láu jagíbu ǘnabun , buin láu anúfudei , ába jaríñagun wügǘriña jagía joun . — ¿ Ca uágu jáluajei le wínwanbei jádan jiláaña ?
+42024017	Cásan		Ábati laríñagun joun . — ¿ Cásan le uágubei jadímureja , sun eíbugeina jumá ?
+42024019	Cági		Ábati laríñagun joun . — ¿ Cági asúseredubei ? Jaríñaga lun . — Luáguti Jesúsu le Nazarétna , ában meja proféta láu ubáfu luágu le ladǘgübei lúma luágu lerérun ligíbugiñe Búngiu lúma jagíbugiñe sun gürígia .
+42024025	~		Ábati laríñagun Jesúsu joun . — ¡ Loúguati gíñe gunfaráanda jumá , lǘti gíñe lubá jafíñerun luágu lé meja jaríñagubei profétagu !
+42024038a	Ca uágu		Ába laríñagun Jesúsu joun . — ¿ Ca uágu tájüchüra janígi ? 
+42024038b	Ca uágu		¿ Ca uágu níjein lubeí liloúguan afíñeni le tídan janígi ?
+43001019	cáteiñein		Ába joúnajan juríu ja Jerusalénna fádirigu jáma wügǘriña jádaangiñe ladǘgawagun Leví álügüdei Juan cáteiñein lan .
+43001021	Cátabuti		Ábayati jálügüdüni . — ¿ Cátabuti ? ¿ Proféta Elías amǘrü ? Laríñaga joun . — Uá , máma áu . Ábaya jaríñagun lun . — ¿ Amǘrü proféta ligíra le lúnbei liábin ? Ába laríñagun joun . — Máma gíñe áu .
+43001022a	Cátabuti		Ábati jaríñagun lun . — ¿ Cátabuti ? Mósutia wanǘgüni boúnabagüle joun ja oúnajabaliwa . 
+43001022b	Cági		¿ Cági gayáraabei baríñagun woun buoúgua ?
+43001025	cáti uágu		ábati jaríñagun lun . — Ánjeinti máma bubeí Crístu , ni Elías , ni proféta ligía , ¿ cáti uágu babásteragüdaja ?
+43001038a	ca		Ábati ladígiragun Jesúsu lárigoún , quei laríjin jafálaruni , ába laríñagun joun . — ¿ Ca jabúseerubei núma ? Ába jaríñagun lun . — Maésturu , 
+43001038b	jalía		¿ jalía bagánawa ?
+43001046	~		Ába laríñagun Natanaél . — ¿ Níjein funági Nazarétna buíti ? Ába laríñagun Felípe lun . — Jigábu baríja .
+43001048	Ída		Ába laríñagun Natanaél lun . — ¿ Ída liñági basúbudirunina ? Ába laríñagun Jesúsu lun . — Aríja numútibu lubáragiñe lagúarun Felípe bun , dan le tábugiñeñadibu lan tídibu ígo .
+43002004	Cági uágu		Ába laríñagun Jesúsu tun . — ¿ Cági uágu baríñagei le nun , núguchu ? Machǘlügili dan lun nídejan lídan cátei le .
+43002018a	ca		Ábati jaríñagun juríu lun . — ¿ Ca miláguru barúfudubei woun lun wasúbudiruni ánjein garícha bubeí lun badǘgüni cátei le ?
+43002018b	~		
+43003004	Ída		Ába laríñagun Nicodémo lun . — ¿ Ída lubági lagǘriajoúnwaya ában wügǘri weíriyaali ? ¿ Gayáraati funági lebélurunya turágeirugun lúguchu lúnya tagǘriajani ?
+43003009	Ída		Ábayati laríñagun Nicodémo lun . — ¿ Ída lubásan cátei le ?
+43003012	ída		Ánjein mafíñen jubeí nun dan le nadímurejan jun luágu buri cátei le lánina uboú , ¿ ída lubági jafíñera luágu le lánina siélu ?
+43004009	Ída		Ábati taríñagun wǘri Samariána to lun Jesúsu . — ¿ Ída liñági bamúriajanbei dúna núma , lárigiñe juríu ban , nugúya Samariána ? ( Mínsiñeguatiñati juríu joúngua jáma Samariána . )
+43004011	ída		Ába taríñagun lun . — Úagubeíti cába lan áu badábura dúna áni julíliti wélu le , ¿ ída lubáti bíchuguni luwúyeri dúna ligía nun ?
+43004027a	ca		Ligíati jachǘlürün láni disípulugu , ába laweíridun janígi láu jadáriruni Jesúsu adímureja túma ában wǘri , úati ni ában ganígiti lun lálügüdajan ca lan tabúseerubei 
+43004027b	ca lan uágu		o ca lan uágu layánuja túma .
+43005012	Cáteigi		Ába jaríñagun lun . — ¿ Cáteigi le aríñagubei bun . “ Budáboun bubárari , beíba ” ?
+43005044	Ída		¿ Ída lubásan jafíñerun nuágu , resíbitünga uweíriguni júmagiñegua , máluajan jumúti uweíriguni le lúmagiñeti Búngiu le ábanrügüti ?
+43005047	ída		Ánjein mafíñen jubeí luágu le labǘrüjabei , ¿ ída lubáti jafíñerun luágu le naríñagubei jun ?
+43006005	Jalíabasan		Dan laríjinbei Jesúsu luágu sarágu jáña lan gürígia afálaruti , ába laríñagun lun Felípe . — ¿ Jalíabasan wagáñija eígini joun sun gürígia ja ?
+43006009	~		— Niján ában irájü ya , nújein seíngü fein lúma , jáma bián úduraü , loúguabei líra joun sarágu gürígia .
+43006025	ída		Dan le jachǘlürünbei loubáfurugu dúna , ába jadáriruni Jesúsu , ába jaríñagun lun . — Maésturu , ¿ ída búgasan biábin ?
+43006028	ída		Ábati jaríñagun lun . — ¿ Ída lubásan wadǘga lun woúdin láu le lubeíbei Búngiu ?
+43006030a	Cábagi		Jaríñagati lun . — ¿ Cábagi seíni gayára barúfudun woun lun wafíñerun buágu ? 
+43006030b	Cági		¿ Cági cátei badǘgübei ?
+43006042	Ída		Ába jaríñagun . — ¿ Ma funági Jesúsu le liraǘ José le ? Subúdi wamúti lúguchi túma lúguchu . ¿ Ída liñáti laríñagunbei luágu siélugiñe lan larárira ?
+43006052	Ída		Ábati jeréderun juríu adímureja jámagua , ába jaríñagun . — ¿ Ída lubásan leígagüdüni le lúgubu guánarü woun ?
+43006060	cábasan		Sarágu jáña jádaangiñe ja afálarubalin Jesúsu , dan le jagáambunbalin arúfudajani le , ába jaríñagun . — Cátei le laríñagubei , jénreenguti lerésibirúniwa , ¿ cábasan adǘga gásu láu ?
+43006062	Cába		¿ Cába jamúga funáti asúsereda ánjana jamúga jaríja , áu Wügǘri Garaǘwarügüti , awárira nárigoún siélun lé meja ñí nubei furúmiñe ?
+43006068	Cábagi		Ába loúnabun Simón . — ¿ Cábagi úmoun woúdin ? Dimúrei buri le baríñagubei , lánina ibágari tímatimaati le magúmuchaditi .
+43007011	Jageí funásan		Ítara líña jáluajani juríu lídan fédu ligía , ába jaríñagun . — ¿ Jageí funásan wügǘri le ?
+43007015	Ída		Ába laweíridun janígi juríu , ába jaríñagun . — ¿ Ída liñásan lasúbudirunbei le sarágu cátei , matúriajaanga ligía ?
+43007019	Ca uágu		‘ ¿ Ma inárüni luágu rúlaani Moisés lúrudu jun ? Láu sun líra , úati ni ában jídaangiñe úaraduti lúma lúrudu ligía . ¿ Ca uágu jabúseera jáfarunina jilágubei ?
+43007020	ca		Ába jaríñagun lun . — Níjein espíritu wuríbati bídan , ¿ ca busénbei láfarunibu jilágubei ?
+43007023	cáti uágu		Ánjein adǘga jubálin líra íbini lídan lan wéyu le eméraaguagülei lueírügü jadǘraaguni lilúrudun Moisés , ¿ cáti uágu jagáñida núma lueígiñe nareídaguagüdüni lúgubu ában wügǘri dayárugubei lídan wéyu le eméraaguagülei ?
+43007035	Jalíñounba funásan		Ábati jagúmeserun juríu álügüdagua jámagua . — ¿ Jalíñounba funásan lídin le siñábei lubeí nege wadáriruni ? ¿ Leíbuga funa jámoun juríu ja jagánaguabaña gürígia ja güriégu , lun larúfudajan joun güriégu ?
+43007036	Ca		¿ Ca míni lan láu laríñagun woun . “ Jáluajabadina , madári jubádina ladǘga siñábei lan jídin le ñíbadina lubeí ” ?
+43007041	Ída		Jaríñaga jíbiri . — Niján Crístubei . Jaríñaga jíbiri . — ¿ Ída lubásan Galiléanabei lan Crístu ?
+43007045	Ca uágu		Ába jagíribudun polisía ja tánina témpulu jarigoún jámoun fariséogu jáma jábutigu fádirigu . Ába jaríñagun joun polisía . — ¿ Ca uágu manǘgün jubálin ?
+43007048	~		¿ Níjein funági ában jádaangiñe wábutigu o jádaangiñe lan fariséogu afíñeruti luágu ?
+43007051	~		— Según walúrudun , siñáti wasíadiruni ában wügǘri magáambunga wameí furúmiñe lun wasúbudiruni ca lan lidúnrunbei .
+43008005	Cági		Laríñajare lilúrudun Moisés jawágu jíbe würíña ja , lun jáfarawagún jilágubei láu dǘbü . ¿ Cági baríñagubei ?
+43008010	Jagáñasán		Ábati liñúraguni Jesúsu lichǘgü , ába laríñagun tun . — ¿ Jagáñasán buga ja íchugubaña bidúnrun ? ¿ Úati ni ában asíadirutibu lun boúnwen ?
+43008019	Jageígi		Ábati jaríñagun lun . — ¿ Jageígi Búguchi ? Ába laríñagun joun . — Jugúya , ibídiñetina jun , ni Núguchi , ibídiñeti giñe jun , lun jamúga subúdi jumánina , subúditi jamúga giñe Núguchi jun .
+43008025a	Cátabuti		Ábati jaríñagun lun . — ¿ Cátabuti ? 
+43008025b	~		Ába laríñagun joun . — Aríñaga náali jun lúmagiñe binárü .
+43008033	ca		Ába jaríñagun lun . — Linébaanfaangu Abrahám wagía , áni merédegidiwa idámunime ni ca un . ¿ Ída liñáti baríñagunbei luágu furáangujadiwa lánme ?
+43008043	Ca uágu		¿ Ca uágu lásiñerunbei gunfaráanda jumáni le naríñagubei ? Ladǘga mabúseerun jumá jagáambuni náni ugánu .
+43008046a	ca		¿ Ca jídaangiñe gayáraabei larúfuduni luágu gafígoun nan ? Ánjeinti inárüni lubeí naríñagubei , 
+43008046b	cáti uágu		¿ cáti uágu mafíñen jubeí nun ?
+43008053	Ída		¿ Cátabuñadíbugi lúmoun wáguchi Abrahám ? Jiláti Abrahám , jilágua profétagu . ¿ Ída liñáti banáangun búngua ?
+43008057	~		Ábati jaríñagun juríu lun Jesúsu . — Úagubeigili ni dimí-san irúmu báu , ¿ aríñagatibu luágu aríja báni Abrahám ?
+43009002	cásan uágu		Ába jaríñagun láni disípulugu lun . — Maésturu , ¿ cásan uágu lagǘriajoúnbei wügǘri le maríjinga ? ¿ Ladǘgasan jafígoun lagǘbürigu , o ladǘga lifígoun guánarü ?
+43009010	Ída		Ábati jaríñagun lun . — ¿ Ída liñáti aríjaadibu lubeí ?
+43009012	Jageígi		Ábati jaríñagun lun . — ¿ Jageígi wügǘri ligía ? Laríñaga joun . — Ibídiñeti nun jageí lan .
+43009016	Ída		Ábati jaríñagun jádaangiñe fariséogu . — Le wügǘri le adǘgübalin cátei le , siñáti loúnagüle lan Búngiu ladǘga minébenti wéyu le eméraaguagülei lun . Jaríñagati jíbiri . — ¿ Ída liñáti ladáaguni buri miláguru le , ánjein gafígoun lubeí ? Ába lubeíti ñi lan fánreinguaü jádan .
+43009017	cági		Ábaya jálügüdüni lé meja maríjinbei . — Ángi bugúya , ¿ cági baríñagubei luágu wügǘri le , queísi bugúya lubeí le laríjagüdübei ? Ába laríñagun . — Nugúya , naríñagun luágu ában lan proféta .
+43009019	Ída		ába jaríñagun joun . — ¿ Nijánsan jiraǘ le uágubei jaríñaga luágu maríjin gubeíñein lan lúmagiñe lagǘriajoún ? ¿ Ída liñáti aríjaali lubeí guetó ?
+43009026a	Cásan		Ábaya jaríñagun lun . — ¿ Cásan ladǘgübei báu ? 
+43009026b	Ída		¿ Ída liñásan ladǘga lun laríjagüdünibu ?
+43009027	cáti uágu		Ába laríñagun joun . — Aríñaga náali jun , mebéreseguntün náu , ¿ cáti uágu jabúseera naríñaguniya jun ? ¿ Ódi buséntün gíñe jafálaruni ?
+43009034	~		Ábati jaríñagun lun . — ¿ Bugúyasan le agǘriajoúbei buin láu figoú , buséntibu barúfudajan woun ? Ába jabúguni tídaangiñe jalígilisin .
+43009036	cátei		Ába laríñagun wügǘri ligía lun . — Aríñagabeí nun cátei lan , afíñe námuga luágu .
+43010020	Cásan uágu		Sarágu jáña jádaangiñe aríñagutiña . — ¿ Cásan uágu jadǘga gásu láu , níjeingusan espíritu wuríbati lídan áni lǘlüjali láu ?
+43010021	~		Jaríñaga jíbiri . — Úati ni ában le láuti espíritu wuríbati lun gayára lan ladímurejan ítara . ¿ Gayáraati funági laríjagüdün espíritu wuríbati maríjintiña ?
+43010024	Darísan ídaba		Ába jagúriridagun juríu láu , ába jaríñagun lun . — ¿ Darísan ídaba bígirawa láu machoúruni ? Ánjein amǘrü lubeí Crístubei , aríñagabeí furáangu .
+43010032	cábagi		Ába laríñagun Jesúsu joun . — Gíbeeli cátei buíti nadǘga jigíbugiñe láu lubáfu Búngiu , ¿ cábagi lídaangiñe uágu jíchaagua dǘbü nuágu ?
+43010036	ída		Ánjeinti anúadaja lubálina Búngiu , ába loúnajanina uboúagun , ¿ ída liñáti jaríñagunbei luágu anába náni láu naríñagun luágu Liraǘ nan Búngiu ?
+43011034	Jalíasan		ába laríñagun joun . — ¿ Jalíasan jábunei ? Ába jaríñagun lun . — Jigábu baríjei .
+43011047	Cábasan		Ábati jayábin fariséogu jáma jábutigu fádirigu , ába joúndaragun jáma jíñun-ágei agúmadijatiña , ába jaríñagun . — ¿ Cábasan wadǘga ? Ladáaguñatia wügǘri le sarágu miláguru .
+43011056	Ca		Jáluajañeinti Jesúsu , dánti le témpulurugúñanu lan , ába jálügüdajan jámagua . — ¿ Ca jaríñagubei ? ¿ Liábinba lídan fédu , ódi miábinbei ?
+43012005	Ánsan		— ¿ Ánsan malúgurún lubeí ibíñei le luágu ǘrüwa-san fiádürü lun jíderawagún gudémetiña ?
+43012027	Cábasan		‘ Níjein ában oúnwenbun líbe samínaü nuágu guetó . ¿ Cábasan naríñaga ? ¿ Naríñaga funa . “ Núguchi , sálba bána lídaangiñe le lúnbei lasúseredun nun guetó ” ? Uá , lun líra niábin .
+43012034a	Ída		Ába jaríñagun gürígia lun . — Agáambaadiwa laliijoún tídan walíburun to lánina lilúrudun Moisés luágu labágariduba lan Crístu lun sun dan . ¿ Ída liñáti baríñagunbei luágu liñurúaba lan Wügǘri Garaǘwarügüti ? 
+43012034b	Cáteigi		¿ Cáteigi Wügǘri Garaǘwarügüti ligía ?
+43012038a	Cásan		Láu líra jagúnfulirei le laríñagubei proféta Isaías . ¿ Cásan afíñerubei luágu wáni ugánu ? 
+43012038b	ca		¿ Ca un larúfudei Wabúreme Búngiu lubáfu ?
+43013025	cáteisan		Ábati nayárafaduntima lun Jesúsu , ába naríñagun lun . — Nabúreme , ¿ cáteisan lúnbei ledéregerunibu ?
+43013036	Jalíñounbadibusan		Ába laríñagun Simón Pédro lun Jesúsu . — ¿ Jalíñounbadibusan , Nabúreme ? Ába laríñagun Jesúsu lun . — Siñáti bafálarunina le ñíjinbadina lubeí guetó , lachǘlürüba wéyu lun bafálarubadina lan .
+43013037	ca uágu		Laríñaga Pédro lun . — ¿ Ca uágu siñá lubei nafálarunibu guetó ? Aráanseedina lun níchuguni nibágari buágu .
+43014002	~		Níjein sarágu ubáraü tídan lúban Núguchi lun jaganoún gürígia ñi , lun jamúga máma lan ítara líña , aríñaga náali jamúga jun . Neíbuga lubeíti aráanseja ában ubáraü jubá .
+43014005	ída		Laríñaga Tomás lun . — Nabúreme , ibídiñeti woun jalíñounbadibu lan , ¿ ída lubáti wasúbudiruni ǘma ?
+43014009	cáti uágu		Laríñaga Jesúsu lun . — Felípe , lǘjadina júma , ¿ ibídiñegidina bun ? Le aríjitina , laríjiñein gíñe Búngiu Úguchili , ¿ cáti uágu baríñaga nun lun narúfuduni Búngiu Úguchili jun ?
+43014022	cásan uágu		Ába laríñagun Júdas ( mámatia le Iscarióte ) . — ¿ Cásan uágu barúfudaguba lubeí búngua woun , máma joun gürígia ja lánigu uboú le ?
+43016005	jalíñounbadina		‘ Maríñagun numúti meja le jun lúmagiñe binárü ladǘga meja júmañadina lan , ánjein guetó , neíbuga lúmoun le oúnajabalina . Málügüdün lumútina ni ában jídaangiñe jalíñounbadina lan ,
+43016017	Cásan		Ábati jálügüdagun jádaangiñe láni disípulugu jámagua , ába jaríñagun . — ¿ Cásan míni lan le ? Laríñaga woun luágu málüjali lan ánjein maríjin wamá , múrusunya lánme dan lárigiñe , ábayame lan waríjini , ladǘga leíbuga lan le ñíjin lubeí Lúguchi .
+43016018	ca		¿ Ca míni lan láu “ murúsun dan lárigiñe le ” ? Úati gunfaráanda wamáni ca lan uágu ladímureja .
+43018004	Ca		Quei subúdi láali lan Jesúsu le lúnbei lasúseredun lun , ába láfuridun , ába laríñagun joun . — ¿ Ca jáluajabei ?
+43018007	Ca		Ábaya laríñagun Jesúsu joun . — ¿ Ca jáluajabei ? Ába jaríñagun lun . — Wáluajañein Jesúsu le Nazarétna .
+43018011	~		Ába laríñagun Jesúsu lun Pédro . — Dáboun befeínte tárigoún . ¿ Jarítaguatibu funági luágu moun lan nasúfuriruni oúchawagúni le líchugubei Núguchi lun nasúfuriruni ?
+43018021	Ca uágu		¿ Ca uágu bálügüdana ? Álügüda báña ja agáambubalina , jagíalá aríñagei le uágubei nadímureja joun . Subúdi jamúti le naríñagubei joun .
+43018023	ca uágu		Laríñaga Jesúsu lun . — Ánjein aríñaga nubeí wuríbati , aríñagabeí jalíañein lan luríban , ánjeinti buídu lubeí le naríñagubei , ¿ ca uágu bagáyuaja nuágu ?
+43018029	Cásan		Ligía láfuridunbei Piláto lun ladímurejan jáma , ába laríñagun joun . — ¿ Cásan lidúnrunbei gürígia le jurúma ?
+43018035	Cági		Laríñaga Piláto lun . — ¿ Juríu funági áu ? Binásiñun jáma jábutigu fádirigu , jagía edéregerubalibu nun . ¿ Cági bidúnrunbei ?
+43018038	Cáteiti		Laríñaga Piláto lun . — ¿ Cáteiti inárünibei ?
+43019009	Jalíanasan		Ábaya lebélurun palásiurugun , ába laríñagun lun Jesúsu . — ¿ Jalíanasan amǘrü ? Moúnabunti Jesúsu ni cáta .
+43019015	~		Ába jagúaragun . — ¡ Jilála ! ¡ Jilála ! ¡ Dáguabeí luágu gurúwa ! Laríñaga Piláto joun . — ¿ Buséntün nádaraguni jurúeite luágu gurúwa ? Jaríñaga jábutigu fádirigu lun . — Marúeitetiwa ámu lueí urúei Rómana .
+43020013	Ca uágu		Ába jaríñagun ánjeligu jagía tun . — ¿ Ca uágu bayájua ? Taríñaga joun . — Barǘjama Nabúreme , ibídiñeti nun jalía lan jíchigei .
+43020015a	ca uágu		Ábati laríñagun Jesúsu tun . — ¿ Ca uágu bayájuaja ? 
+43020015b	ca		¿ Ca báluajabei ? Sun taríñaguti le oúnigirubalin fulúri-ágei adímurejabei tun , ába taríñagun lun . — Ánjein banǘgün lubeí , aríñagabeí nun jalía lan bíchigei , barǘ námugei .
+43021012	cátei		Ábati laríñagun Jesúsu joun . — Jigoúgu , játa bacháti . Úati ni ában jádaangiñe disípulugu álügüdüti cátei lan , ladǘga subúdi jamáni luágu Jesúsu lan .
+43021020	cába		Dan ladígiragúnbei Pédro , ába laríjinina , áu Juan , anángüran lan járigi , áu le jínsiñebei sarágu lun Jesúsu , le méme añúurubei loúbagiñe Jesúsu lídan adíneruni , le gíñe álügüdübalin Jesúsu cába lan wádaangiñe edéregerei .
+43021021	cábasan		Dan laríjinbalina Pédro , ába laríñagun lun Jesúsu . — Nabúreme , ánsan le , ¿ cábasan asúsereda lun ?
+43021022	cámegi		Laríñaga Jesúsu lun . — Ánjana busén labágaridun daríme nagíribudun , ¿ cámegi burúma ? Amǘrü , falábana .
+43021023	cámegi		Ábati leíbaagun dimúrei jádan jíbiri lánigu Jesúsu luágu moúnwenbadina lán nege , maríñagunti Jesúsu luágu moúnwenbadina lan , aríñagarügüti . “ Ánjana busén labágaridun darí lúmoun nagíribudun , ¿ cámegi burúma ? ”
+44001011	ca uágu		ába jaríñagun joun . — Wügǘriña Galiléana , ¿ ca uágu jerédera aríagua siélun ? Jesúsu méme le , le amúdeirubei siélun júmagiñe , liábiyaba ítara quei jaríjin lídin .
+44002008	Ída		¿ Ída liñáti wagáambubaliña adímureja lídan lerérun cáda ában wádaangiñe ?
+44002012	Cásan		Weíriti janígi súngubei , ibídiñeja joun cába lan jasáminara , ába buri jálügüdagun jámagua . — ¿ Cásan míni lan sun le ?
+44002037	cábasan		Dan jagáambunbalin cátei le , ába lebélurun igárigu tídoun janígi , ába jaríñagun lun Pédro lúma joun jíbiri apóstolugu . — Wadújeñu , ¿ cábasan wadǘga ?
+44003012a	Ca uágu		Dan le laríjini Pédro cátei le , ába laríñagun joun gürígia . — Jugúya Israelítagu , ¿ ca uágu laweírida janígi ? 
+44003012b	Ca uágu		¿ Ca uágu jaríaguawa camá jamuga wagía areídaguagüdübalin wügǘri le , eíbugagüdei láu wabáfu o láu lan wagúnfulin lúma Búngiu ?
+44004007a	~		Ábati joúnajan anǘgei Pédro lúma Juan , ába jíchuguniña lamídan jadámurin , ába jaríñagun joun . 
+44004007b	ca		— ¿ Ca áu ubáfu , 
+44004007c	ca		o ca ídan íri jareídaguagüdei wügǘri le ?
+44004016	Cábasan		Jaríñagati . — ¿ Cábasan wadǘga jáu wügǘriña ja ? Sun ja aganoúbaña Jerusalén subúdi jamúti luágu adǘga jamáali lan miláguru le , áni siñáti wayéedagun láu .
+44004025a	Ca uágu		Amǘrü , aríñagatibu láu lubáfu Sífiri Sándu liyúmulugugiñe Davíd lé meja esériwidubei bun . ¿ Ca uágu jagáñida ja mámabaña juríu , 
+44004025b	~		samína jagía lun jadǘgüni cátei le siñábei jadǘgüni ?
+44005003	ca uágu		Ábati laríñagun Pédro lun . — Ananías , ¿ ca uágu bígira lun lagáñiruni Máfia barítagun lun layéejagüdǘnibu lun Sífiri Sándu , lun beréderun láu líbiri seínsu le afáyeirúbei bun luágu fulásu ?
+44005004	Ca uágu		¿ Ma funági bufúlasun meja fulásu ? Lárigiñe balúguruni , ¿ ma biseínsun lun badǘgüni le babúseerunbei láu ? ¿ Ca uágu basáminara badǘgüni cátei le ? Búngiu bálugubei bayéedagun , máma wügǘriña .
+44005009	ca san uágu		Ábati laríñagun Pédro . — ¿ Ca san uágu jebélura lídoun úaraduni lun joúchaguni láni Búngiu Espíritu ítara ? Añatén ja anǘgübalin búmari ábuna , janǘgadibu gíñe .
+44007026	ca uágu		Larúgan , ába ladúnragun Moisés jáma biáma Israelítagu ageíndagua jámagua , ába yebe labúseerun laráandaragüdüniña jámagua . Ítara líña laríñagunbei joun . “ Ában mémetia mútu jugúya , ¿ ca uágu jageíndagua júmagua ? ”
+44007027	Ca		Ábati ládaruni wügǘri le áluajabei wuríbu lúma le ában , ába laríñagun lun . “ ¿ Ca íchubalibu ábutime lúma agúseragüdütime wádan ?
+44007035	ca		‘ Láu sun mebéresen jamá láu Moisés , álügüda jameí ca lan íchubalin ábutime lúma agúseragüdütime , oúnaja lumúti Búngiu quei ábuti lúma quei eséfujati , adímurejeina Búngiu lídaangiñe ánjeli le asáliragubei lun lídan búbugati .
+44007049a	Cába		Siélu nálabei le ñí lubei nañúura lun narúeijan , uboú , le ñí lubei neméraaguagüdei nugúdi . ¿ Cába tuwúyeri múna jadǘga nun ? líña laríñagun Búngiu . 
+44007049b	Cátei		¿ Cátei fulásu le ñí lubei gayára lan neméraagun ?
+44007052	ca		¿ Ca jádaangiñe profétagu moúserun jabáña binádu jagǘbürigu wuríba ? Ni ában , áfaragua jamútiña já meja adímurejabaña luágu liábin Crístu le richáguabei , guetóti dan liábin , ába jalúguruni joun láganiñu , ába jáfaruni jilágubei .
+44008031	Ída		Ába laríñagun wügǘri ligía lun . — ¿ Ída lubági gunfaráanda náani , úaga cába lan afúnraanguágüdei nun ? Ába laríñagun lun Felípe lun ládinun lúmoun lun lañúurun loúbagiñe .
+44008033	~		Ǘnabuti lanügǘn , áni michugúnwati lirícha lun , siñábei ladímurejoún jawágu ladǘgawagun , ladǘga gumúja lan labágaridun uboúagu .
+44008034	cáteisan		Ába laríñagun wügǘri ligía lun Felípe . — Adǘgabeí fuleísei nun , aríñagabeí nun , ¿ cáteisan le uágubei laríñagei wügǘri le abǘrüjabei dimúrei le , luoúgua , ódi luágu ámu ?
+44008036	~		Dánti le jásügürünbei lídaangiñe ában fulásu le ñí lubei dúna , ába laríñagun wügǘri ligía . — Nijántia dúna , ¿ siñátisan nabásterun ?
+44009004	ca uágu		Ábati láburujan Sáulo múarugún , ába lagáambun laríñagun ában umálali lun . — Sáulo , Sáulo , ¿ ca uágu beíbaajana ?
+44009005	Cátabusan		Ábati laríñagun Sáulo . — ¿ Cátabusan Nabúreme ? Ába laríñagun umálali ligía . — Jesúsu áu , le méme beíbaajabei .
+44009006	cába		Sarába , belúba ubúrugun , laríñawagúba bun ñi cába lan badǘga .
+44010004	Ca		Ába leréderun Cornélio aríaguei ánjeli ligía láu sarágu anúfudei , ába laríñagun . — ¿ Ca babúseerubei , Nabúreme ? Ába laríñagun ánjeli ligía lun . — Agáamba láali Búngiu bayúmuragun , aríjaleí buri cátei le badǘgübei lun bíderaguniña gudémetiña .
+44010021	Ca		Ábati larárirun Pédro le ñíjin jabeí wügǘriña ja loúnajabaña Cornélio , ába laríñagun joun . — Áu le jáluajabei . ¿ Ca gabǘgürübalün ?
+44010029	ca		Ligía nánjanrunbei niábin dan le boúnajanbei nuágu . Buséntina jamúgati nasúbudiruni ca lan lébubei joúnajan nuágu .
+44010047	~		Ábati laríñagun Pédro . — ¿ Majoúabei funági lun jabásterún gürígia ja , quei resíbi jamáali lubeí Sífiri Sándu queígubeirügü wagía ?
+44011017a	cátanañadináti		Ánjeinti ru lubálin Búngiu líbe le líchubei woun , wagía le afíñeelibei luágu Jesucrístu , joun , ¿ cátanañadináti lun neréderubei lan le labúseerubei Búngiu ladǘga ?
+44011017b	~		
+44012018	ca		Dan larúgadunbei , niján luwúyerigu samínaü jádan súdaara , ladǘga ibídiñeti joun ca lan susérebei lun Pédro .
+44013025	~		Dan le layárafadúnbei dan lun loúnwen Juan , ába laríñagun . “ Mámatia áu le uágubei jarítagua luágu áu lan , liábiba ában nárigi , ni cáta áu loúbagiñe , madǘnatina ni íbini lun nafáragadunun ligeídin . ”
+44014015	cámesan		— ¡ Wügǘriña ! ¿ cámesan jabúseera jadǘgüni cátei le ? Wügǘriña giñétia wagía quei jugúya , wayábiña aríñaga jun lun jígiruni cátei buri le mabuídunbei , lun jafálaruni Búngiu le wínwanbei , le adǘgübalin siélu lúma uboú , barána lúma sun cátei le lídaanbei .
+44015010	cáti uágu		¿ Cáti uágu laloúguada jafíñen guetó luágu le adǘga láalibei Búngiu , ru jugúya ában ijǘrügu jawágun afíñetiña ja , le wásiñerubei wagía guánarügü anǘga—ni wagía ni binádu wagǘbürigu ?
+44016030	ca		Ába laságaruniña furísunrugugiñe , ába laríñagun joun . — Wügǘriña , ¿ ca cátei lúnbei nadǘgüni lun nasálbarun ?
+44017018	Cáfunasan		Ñíñanu jádaangiñe wügǘriña ja atúriajabalin jarúfudajan epicúreogu , jáma ja atúriajabalin jarúfudajan estóicogu , ába jadímurejan lúma . Jaríñaga jíbiri . — ¿ Cáfunasan laríñagubei wügǘri le woun , líbebei ladímurejan ? Jaríñaga jíbiri . — Camátia ladímurejaña jawágu ámu búngiugu . Jaríñagunbeiti ítara ladǘga lapúrichijan Páblo joun luágu Jesúsu lúma luágu ásaaruni lídaangiñe oúweni .
+44017019	cátei		Ábati janǘgüni lídoun ában fulásu gíriti Areópago , le ñi lubeíja joúndaragua lun jagáambagun joúngua , ába jaríñagun lun . — ¿ Gayáraati wasúbudiruni cátei lan iséri cátei le barúfudajabei ?
+44019003	Cáti		Ábati laríñagun joun . — ¿ Cáti luwúyeri badísei jerésibirubei ? Jaríñaga lun . — Le labásterágüdün Juan .
+44019015	cátaün		Níjein ában jadǘgüni , ába loúnabuniña espíritu wuríbati ligía . — Subúdi numúti Jesúsu , subúditi gíñe nun cátei lan Páblobei , ánjein jugúya , ¿ cátaün ?
+44019035	~		Dánti le gálumagüda láaña abǘrüjati le láni ubúrugu ligía gürígia , ába laríñagun . — Gürígia Éfesona , sun gürígia subúdi jamúti luágu Éfesona lan oúnigirubárun tilígilisin búngiu Diána , túma tiyáwa to áburujaboun siélugiñe .
+44021013a	ca uágu		Ába laríñagun Páblo . — ¿ Ca uágu jayájua , 
+44021013b	~		írudagüdána ? Aráansetina mámarügü lun nagǘrawagún Jerusalén , aráansetina darí lun noúnwen lueígiñe Nabúreme Jesúsu .
+44021022	Cábasan		¿ Cábasan wadǘga ? Joúndaragubátia juríu dánme le jasúbudiruni luágu chülǘjadibu lan , lun jadǘgün wuríbani bun .
+44021033a	cátei		Ábati layárafadun gumándan , ába lárügüdüni Páblo , ába lagǘraguágüdüni láu bián güríngüri , lárigiñe , ába lálügüdajan cátei lan , 
+44021033b	ca		lúma ca lan lidúnrunbei .
+44022007	ca uágu		ába náburujan múarugun . Ába nagáambun laríñagun ában umálali nun . “ Sáulo , Sáulo , ¿ ca uágu beíbaajanina ? ”
+44022008	Cátabusan		Ábati naríñagun . “ ¿ Cátabusan Nabúreme ? ” Laríñaga nun . “ Jesúsu le Nazarétna áu , le méme beíbaajabei . ”
+44022010	Cábagi		Ábati naríñagun . “ ¿ Cábagi nadǘga , Nabúreme ? ” Ába laríñagun nun . “ Sarába , beíba luágu buweíyasun Damáscoun , ñíba laríñawagúa sun le lúnbei badǘgüni bun . ”
+44022016	ca uágu		Guetóti , ¿ ca uágu badárasaja ? Sarába , badíseibá jeménigiñu luágu Wabúreme lun lachíbun bifígoun . ”
+44022026	~		Dan le lagáambuni jábuti súdaara cátei le , ába lídin aríñaga lun gumándan . — Toúnigibátia láu le lúnbei badǘgüni , Rómanatia wügǘri le .
+44023003	cáti uágu		Ába laríñagun Páblo lun . — ¡ Lagáyuajaba Búngiu buágu , biángua tigíbu bugúya le ! Ñun bíña ñi lun bagúseragüdünina quei laríñaguni lúrudu , ¿ cáti uágu bagáyuagüda nuágu , adǘraaguei lúrudu ?
+44023009	~		Jareínchati súngubei , ába jásaarun jádaangiñe arúfudajatiña lilúrudun Moisés ja ñíbaña , áni fariséogu gíñe jagía , ába jaríñagun . — Wügǘri le , úati ni cáta wuríbati ladǘga , áni ánjeindügü ában lubeí espíritu adímurejabei lun o ában lan ánjeli , toúnigi wamátia lueí wadárirún oúcha weréderuni luwádigimari Búngiu .
+44023019	Ca		Ába lárügüdüni gumándan lújabu irájü ligía , ába lanǘgüni lun jábugua jamá , ába laríñagun lun . — ¿ Ca babúseerubei baríñagun nun ?
+44026008	~		¿ Mafíñetün funági luágu gayára lan lásaaragüdüniña Búngiu jiláaña ?
+44026014	ca uágu		Súngubei wagía , ába wáburujan múarugun , ába nagáambun ában umálali aríñaguti nun lídan hebréo , le jerérun juríu . “ Sáulo , Sáulo , ¿ ca uágu beíbaajana ? Basúfuriraguagüdüñatia búngua láu bamánjarun nun quei ladǘga bágasu dan le líchaagun quíqui luágun cátei gágiriti . ”
+44026015	Cátabusan		Ábati naríñagun . “ ¿ Cátabusan , Nabúreme ? ” Ába laríñagun nun . “ Jesúsu áu , le guánarügü beíbaajabei .
+45002017	~		Ánjein bugúya le pántabei luágu juríu ban , luágu bárügüdün luágu lilúrudun Moisés lun basálbarun , luágu Búngiu lan le inárüniti Bubúngiutebei .
+45002021	cági uágu		Wel , ánjein lubeíti arúfudaja bubeí joun ámu , ¿ cági uágu marúfudajan bubeí bun guánarügü ? Ánjein apúrichija bubeí luágu lúnti lan míwerujoún lan , ¿ cági uágu bíweruja ?
+45002028	~		Le juríubei le tímatimaati , máma boúgudigiñerügü libíti juríu lan , máma gíñe láurügü wadǘgün cátei le boúguditi wabíti lánigu wamá Búngiu .
+45003001a	jalíañeinti		Queísi ítara líña lubeí , ¿ jalíañeinti jagáñiragüle gürígia lueígiñe juríu jamá ? 
+45003001b	cági		¿ o cági lubuíduña lerésibirúniwa circuncisión ?
+45003003	~		Ánjaña ñi jádaangiñe juríu , múaraantiña lúma Búngiu , ¿ magúnfulirunbei funági Búngiu láu lerérun ladǘga líra ?
+45003005	cábagi		Ábanya álügüdajani . ánjein seríwi lubeí luríban wagáburi lun larúfuduni luágu richágua lan Búngiu , ¿ cábagi waríñaga ? ¿ Maríchati funági Búngiu lugúndun larúfuduni ligáñi luágu luríban wagáburi ? ( Nadímurejañatia queísi gürígia . )
+45003006	ída		¡ Máma líña ! Lugúndun lun jamúga múaran lan Búngiu , ¿ ída líña jamúgagi lagúseragüdüniña gürígia ?
+45003007a	~		Ánjein gíñe seríwi lubeí wayéeni lun weírigutimá lan linárün Búngiu , 
+45003007b	cáti uágu		¿ cáti uágu laríñawagúa wawágu luágu gafígoun wamá ?
+45003008	~		¿ Lúnti lubeí jamúga ladügǘn wuríbani lun larijoúniwa le buídubei ? Niján cátei le jaríñagubei sarágu gürígia luágu ligía lan warúfudajabei . Gürígia ja aríñagubaña ítara , lúnti jamúga jasíadirúniwa .
+45003009	Ída		¿ Ída liñági ? ¿ Buítimaatiwa wagía juríu sügǘ jáu gürígia ja mámabaña juríu ? ¡ Uá ! Lugúndun arúfuda wamáali luágu dándu lan juríu queísi máma juríu lábugiñeñanu lubáfu figoú .
+45003027a	cáti		Queísiti ítara líña lubeí , ¿ cáti asúseredubei lun japántan gürígia luágu lubuídun jagáburi ? Gumúguati . 
+45003027b	Cági uágu		¿ Cági uágu ? 
+45003027c	~		Lugúndun lun jamúga gayára lan wasálbarun láu lubuídun wagúnfulirun lúma binádu lilúrudun Búngiu , gayáraati jamúga wanáangun woúngua , queísi sálbañu wáña lubeí láurügü wafíñerun luágu Crístu , gumúgua lébuna wanáangun woúngua .
+45004001	Cábati		¿ Cábati waríñaga luágu Abrahám , le binádu wáguchi , wagía juríu ?
+45004003	~		Taríñajare Lerérun Búngiu . “ Afíñetí meja Abrahám luágu Búngiu , luágu lafíñen lerésibirei queísi wügǘri richáguati . ”
+45004010	Ída		¿ Ída bugági lerésibirei , lárigiñe lerésibiruni circuncisión ligía ódi lubáragiñe ? Máma lárigiñe , lubáragiñe .
+45005010	~		Lugúndun ánjein ru lubáliwa Búngiu lídan dan lúmagua láu loúnwen Liraǘ dán meja le láganigídiwa , choúrutimaati luágu lasálbarubadiwa lan le gumúti , luágu Liraǘ le wínwañubei lúma , siélu .
+45005021	~		Ítarati queísi gabáfu lán meja figoú lun lanǘgüni oúweni , ítara gíñe gabáfuti lareíni Búngiu lun ladǘgüniña gürígia richágua ligíbugiñe , lúma lun líchugun ibágari magúmuchaditi joun lídaangiñe Wabúreme Jesucrístu .
+45006001	Cábati		¿ Cábati waríñaga ? ¿ Wasígiruba afígounja lun larúfuduntima Búngiu lídaangiñe lareíni woun ?
+45006002	ída		¡ Máma lúba ! Wagía , jiláadiwa lun figoú , ¿ ída lubáti gayára lan wasígirun afígounja ?
+45006015	~		Queísiti máma lubeí lídaangiñe wagúnfulirun lúma lilúrudun Búngiu le líchugubei lun Moisés liábin wasálbarun , lídaangiñe werésibiruni lareíni Búngiu , ¿ gayáraati lubeíti wabágaridun lídan figoú ladǘga líra ? ¡ Siñáti !
+45006021	Ca		¿ Ca mejáti cátei buíti lanǘgübeí buri cátei ligía jun le áubei buri nibúsigari jumá guetó ? Ni cáta buíti , féridi rügǘñein lanǘga jun .
+45007007	~		¿ Waríñaguba lubeíti luágu wuríba lan binádu lilúrudun Búngiu ? ¡ Máma líña ! Láu sun líra , lúrudu asúbudiragüdübalin figoú nun . Ibídiñeti jamúga nun luágu figoú lan lawámadirun jamégen ámu ánjein jamúga maríñagunti lúrudu . “ Mawámadirabeí jamégen ámu . ”
+45007024	Cába		¡ Fugiábu áu ! ¿ Cába eséfurana lídaangiñe igáburi lánina figoú le nídaanbei , le anǘgübalina lídoun oúweni ?
+45008024	~		Ligía lágüdaja wasálbarun . Merésibirun wamágili sun ubuíduni le lúnbei wabíjini queísi lirájüñü Búngiu , agúrabajatiwa werésibiruni yágüta siélu . Ánjein jamúga ibíja wamáaliti sun le lúnbei wabíjini queísi lirájüñü , mébunaali jamúga wagúrabajan . Magúrabajaantiña gürígia jerésibiruni cátei le ibíja jamáalibei .
+45008031a	cábati		¿ Cábati waríñaga luágu buri cátei le ? Queísi lueígiñeñein lubeí wafúleisein Búngiu , 
+45008031b	cábagi		¿ cábagi jabáfu wáganiñu wawágu ?
+45008032	ída		Mamájaanti Búngiu lun líchuguni Liraǘ guánarügü lun loúnwen luágu wafúleisein , lubáragiñe líra , ába ledéregeruni lun loúnwen waweígiñe , sun wagía , ¿ ída lubáti míchugun láani sun líbiri cátei woun queísi líchuguni Liraǘ woun ?
+45008033	Cági		¿ Cági gayáraabei líchugun jadúnrun ja anúadaja láañabaña Búngiu queísi lánigu ? Búngiu arúfudubaliña quei madúnruntiña .
+45008034	Cáteiti		¿ Cáteiti gayáraabei lasíadiruníwa lun féridi ? Crístu guánarügü oúwebei wawágu , ába lásaarun lídaangiñe oúweni , guetó níjein ñun lueígiñe loúnwenren Búngiu Úguchili ayúmuragua wawágu .
+45008035	Cábati		¿ Cábati gayára lagídaruníwa lueí línsiñejabu Crístu ? ¿ Liyáraabadiwa funági asúfuriruni , o lénreengúnga , o eíbaajoúni , o ilámaü , o manáanguni , o pelíguru , o oúweni ? ¡ Uá !
+45009014	Cábati		¿ Cábati waríñaga ? ¿ Waríñaguba luágu múaran lan Búngiu ? ¡ Siñáti !
+45009019a	cáti uágu		Baríñaguba lubeíti nun . “ Ánjein ítara líña lubeí , ¿ cáti uágu líchiga Búngiu dúru jawágu gürígia ? 
+45009019b	Cági		¿ Cági gayáraabei ladǘgün cátei boúguditi lueí lugúndan Búngiu ? ”
+45009020a	cátabuñadíbugi		Wel , ¿ cátabuñadíbugi lun balégejan lúma Búngiu ? 
+45009020b	~		¿ Laríñaguba funági soúdieru lun le adǘgübalin . 
+45009020c	Cáme		“ ¿ Cáme badǘgana ítara ? ”
+45009021	~		Garíchati le adáagubei soúdieru lun ladǘgüni le labúseerun láu lubúñe soúdieru , gayáraati ladǘgün ában soúdieru le díseguati layúsurun , lúma ában le ayúsurúti lun furúmieguarügü cátei lídaangiñe ában méme ubúñei .
+45009022	~		Ítara méme líña , gabáfuti Búngiu jawágu gürígia , aráanseñu líña lun larúfuduni luweírin ligáñi jawágu gürígia ja gadǘnabaña jagǘnrinchawagún . Áfaaga lumúti jaríban láu sarágu gurásu darí guetó
+45009023	~		lúnrügü gayára lan larúfuduni luweírin luweírigun woun , wagía le únbaña gudémejabu lan , ja gíñe laráanserubaña lúmagiñe binárü lun gafánraanbadiwa lan lídan luweírigun .
+45009024	~		Wáti Búngiu woun , jíbiri jádaangiñe juríu , jíbiri jádaangiñe ja mámabaña juríu ,
+45009030	Cábati		¿ Cábati waríñaga ? Luágu ja lan mámabaña juríu , ja mibíjinbalin lilúrudun Búngiu lun jasúbudiruni le buídubei lúma le wuríbabei , jagía anügǘbaña quei richáguatiña ligíbugiñe Búngiu ladǘga jafíñerun luágu .
+45009032	cági uágu		¿ Cági uágu ? Lugúndun máfaagun jamá lun jeréderun buídu ligíbugiñe Búngiu luágurügü jafíñen , jadǘgeirüga láu cátei le guánarügü jadǘgübei . Ligía jachúgeragunbei luágu Jesucrístu queísi “ dǘbü le achúgeraguágülei ” , ladǘga siñá lan jafíñerun luágu queísi Jasálbaragüle .
+45010006	Cába		Luáguti lerésibiruniña Búngiu gürígia queísi richáguatiña ligíbugiñe luágu jafíñen , laríñajare . “ Maríñagabá tídan banígi . ¿ Cába amúdeira siélun ? ” — queísigubeirügü barárigüdüñein lan Crístu le Wasálbaragüle siélugiñe .
+45010007	Cába		Maríñagabá giñe . “ ¿ Cába arárira le ñíjin jabeí jiláaña ? ” — queísigubeirügü bamúdeiragüdüñein lan Crístu jádaangiñe jiláaña ítara . Úati ni cáta lun wadǘgüni lueídügüya lun wafíñerun luágu .
+45010008	Cáteiti		Cáteiti laríñagubei Búngiu ? “ Yaráfati ugánu lánina asálbaruni bun , adímurejatibu luágu ugánu ligía láu biyúma , níjein gíñe ugánu ligía tídan banígi . ” Ugánu le , elun ? ” — queísigubeirügü barárigüdüñein lan Crístu le ligía ugánu le lánina afíñeni luágu Crístu le Wasálbaragüle , le wapúrichijabei .
+45010014a	Ída		¿ Ída lubáti gayára lan jagúaruni lun lasálbaruniña ánjein mafíñerungiña lubeí luágu ? 
+45010014b	Ída		¿ Ída lúba giñéti gayára lan jafíñerun luágu , ánjein magáambungiña lubeí luágu ? 
+45010014c	Ída		¿ Ída lubáti gayára lan jagáambun luágu , ánjein uá jabeí apúrichijati ugánu luáguti asálbaruni joun ?
+45010015	Ída		¿ Ída lubáti gíñe gayára lan japúrichijan gürígia joun ánjein uá cába lan oúnajaña apúrichija ? Queísi laríñawagún tídan Lerérun Búngiu . “ ¡ Ma lubuídun jachǘlürün ja anǘgübalin ugánu luáguti aráandaruni lúma Búngiu , apúrichija jameí ugánu buíti luáguti asálbaruni ! ”
+45010016	~		Másutiña gürígia ja agáamba jamáalibei ugánu luáguti asálbaruni ebéresera láu . Queísi laríñaguni Isaías tídan lilíburun . “ Wabúreme , míbetiña afíñerutiña luágu ugánu luáguti asálbaruni le wapúrichijabei . ”
+45011004	~		Ába laríñagun Búngiu lun . “ Anuádajaadina sédü mílu wügǘriña nubárua ja májuduragúngiñabaña ligíbugiñe liyáwa búngiu le Baal . ”
+45011007	~		Ítara líña lubeíti , madári jamúti sun Israelítagu le jáluajabei , anáti ja lanúadirubaña Búngiu , darí jamuti . Ja jíbiri , siñáti jánjanrun lun asálbaruni le lébunabei afíñeni luágu Búngiu , ába lígiruniña Búngiu táu tidére janígi .
+45011015	ídatimá		Ánjein ladǘga lubeí lamájarun Búngiu joun juríu , jayábin ja mámabaña juríu lun jaráandarun lúma Búngiu , ¿ ídatimá lubáti dánme le jerésibirúniwa ? Ítara lúba joun queísi ásaaruni lídaangiñe oúweni .
+45011018	~		Marítagua jumátia luágu buídutimá jumá lueí límu le ñígubeibei méja . Ánjaün arítagua luágu buídutima jumá , jarítagua jumá luágu máma lan jugúya ágüdajabalin ílagülaü , luágu ílagülaü lan ágüdajabalün .
+45011033a	~		¡ Luweírin lareídun Búngiu , lúma lichú láu ! Siñáti wasúbudiruni larítagun , 
+45011033b	~		siñá gunfaráanda wamáni lémeri .
+45011034a	Cági		¿ Cági gunfaráandabalin larítagun Búngiu ? 
+45011034b	Cági		¿ Cági arúfudajabei lun ?
+45011035	Cági		¿ Cági gürígia rújalibei som cátei lun Búngiu furúmiñe lun lerésibirun som cátei fáyeitime lárigiñe ?
+45014004	Cátabuñadíbugi		¿ Cátabuñadíbugi lun badímurejan luágu gürígia le esériwidubei lun Búngiu ? Ánjein erédera buídu o wuríba , Labúreme lúnbei laríjin láu líra . Áni leréderuba buídu lugúndun gabáfuti Búngiu lun leréderagüdǘni buídu .
+45014010a	Ca uágu		¿ Ánjein bugúya , ca uágu badímureja luágu bidúje lueígiñe Jesucrístu ? 
+45014010b	Ca uágu		¿ Ca uágu banǘgei quei ni cáta ? Búngiu rügǘñein lun lagúseragüdün , áni sun wagía , waráramuba ligíbugiñe lun wagúserun ,
+46001020a	Cáti		¿ Cáti un ju lan le chúbei áu , 
+46001020b	~		o le arúfudajabei , 
+46001020c	~		o le lan gasígenejadibalín buri cátei le lánina uboú le ? Úati ju lan lun ni cáta , adǘga láali Búngiu lichú láu uboú le lun libídiounigame áu .
+46002011	Ca		¿ Ca jádaangiñe gürígia gayáraabei lasúbudiruni ca lan tídaanbei lanígi ában gürígia , lueídügüya espíritu le lídaanbei gürígia ligía ? Ítara líña gíñe , láni rügǘñein Búngiu Espíritu asúbudirei sun cátei le lánina Búngiu .
+46002016a	ca		Queísi laríñawagun tídan Lerérun Búngiu . “ ¿ Ca gunfaráanda jamáalibei lisáminan Búngiu ? 
+46002016b	ca		¿ Ca gayáraabei larúfudajan lun Búngiu ? ” Láu sun líra , wagía afíñetiña , níjein lisáminan Crístu wádan ladǘga ibíja wamáali Sífiri Sándu .
+46003005a	Cátanagi		¿ Cátanagi ? 
+46003005b	Cáteigi		¿ Cáteigi Apólosbei ? Esériwidutiñarügü lun Búngiu wagía , ja ídaangiñébaña jiábin afíñera luágu Crístu . Wadágimanu le líchugubei Wabúreme lun cáda ában wádaangiñe , ligía wadǘgübei .
+46004007a	Cági		¿ Cági adǘgübalibu buídu jaweí jíbiri ? 
+46004007b	Cági		¿ Cági cátei búmabei le mámabei líchugun Búngiu bun ? Ánjeinti Búngiu lubeí íchugubalin sun cátei bun , 
+46004007c	cáti uágu		¿ cáti uágu banáangua búngua camá jamuga ibíjarügü bumúti le búmabei láu báni búngua ?
+46004021	Cáteiti		¿ Cáteiti jímein jubeí . lun nabeíchunün dánme le nachǘlürün , ódi lun nídin aríjaün láu ínsiñeni lúma uálini ?
+46005002	~		¡ Áni laú sun líra , anáanguagidün júngua ! ¡ Lúntirügü jamúga jírudagun luágu líra ! Gürígia le adǘgübalin lanárime iwíyei le , lúnti labugún jídaangiñe .
+46005012	~		Máma áu lúnbei nagúseragüdüniña ja boúgudibaña lueí Crístu , Búngiuba agúseragüdaña . Wagía , lúnti wagúseragüdüniña wadújeñu lueígiñe Jesucrístu ánjein jadǘgüña lubeí wuríbati . Ligía gidájumei lubeí gafígounti le jagánaguagiñe .
+46006001	cági uágu		Dan le níjein lan cátei lúnti laríñaajan ában jídaangiñe líri ámu , ¿ cági uágu jídin jámoun agúseragüdütiña ja ibídiñebei Crístu joun , lubáragiñe jamúga jídin jámoun lánigu Búngiu ?
+46006003	~		¿ Ibídiñeti jun luágu wagúseragüdübaña lan gíñe ánjeligu ? ¡ Gúbuméti gayára lan wagúseragüdün luágu buri cátei lánina ibágari le !
+46006004	cámegi		Ánjein níjein lubeí buri wuríbu jagánagua luágu buri cátei le lánina ibágari le , ¿ cámegi jídin aríñaaja joun ja mafíñebaña luágu Jesucrístu , ja málabei lichú áu le jádaanbei ladǘga máma lan lúmagiñeti Búngiu ?
+46006007a	~		Láurügü jawúribujan júmagua , ábanjali mabuíduni le gumúti líra . Buítimaati lun jawánduni maríchaü le adügǘbei jun sügǘ láu jageíndagun ladǘga . 
+46006007b	~		Buítimaati lun jígirun lun líwerujoún jueí .
+46006009	~		¿ Ibídiñeti jun luágu ja lan adǘgübaña wuríbani , mafánranbaña lan lídan larúeijan Búngiu ? Sun ja agámaridubaña mamárieidunga , ja ájuduragubaña joun sándu , ja agámaridubaña ja maríeitiña , ja wügǘriña ja agámaridutiña wügǘriña jáledi , jíwerutiña , meménijabutiña , bacháruatiña , marásualugutiña , ja anǘgübalin láni ámu láu jabíbun—sun ja adǘgübaña wuríbani líbe buri le , siñábei jebélurun lídoun larúeijan Búngiu siélu .
+46006016	~		¿ Ódi ibídiñeti jun luágu dan lan le leméterun ában gürígia túmoun ában jóru , biángubei jagía ñǘbintiña lun ítara jabá lan quei ában méme úgubu ? Taríñajare Lerérun Búngiu . “ Jayábinba biángubei lun ítara jamá quei ábanrügü . ”
+46006019	~		¿ Ibídiñeti jun luágu lúban lan Sífiri Sándu wágubu , le líchugubei Búngiu woun lun laganoún wádan ? Máma wagía labúriñabei wágubu , Búngiu labúremebei .
+46007016a	cági		Ában gíñe cátei , ¿ cági basúbudirubei , amǘrü wǘri , ánjeindügü gayára lubeí basálbaruni búmari láu beréderun lúma ? 
+46007016b	cági		¿ O cági basúbudirubei , amǘrü wügǘri , ánjeindügü gayára lubeí basálbarunun búmari láu beréderun túma ?
+46009007a	~		Queísigubeirügü , máma súdaara guánarügü afáyeirubalin cátei lé buri layúsurubei , 
+46009007b	~		le ábunagubei beíbei , joúti tídaangiñe , 
+46009007c	~		le oúnigirubei bágasu , guráti lídaangiñe míligi le lamíligijabei .
+46009018	~		afáyeiruajaü ligía , lun gayára lan napúrichijan luágu Wasálbaragüle , magúburajanga ni cáta , márügüdünganeí nirícha lun nawínwandun lídaangiñe nuwádigimari queísi apúrichijati .
+46010019a	~		Máma naríñaguña luágu wínwan jamá sándu , 
+46010019b	~		maríñaguntina gíñe luágu weírigutima lan úwi 
+46010019c	~		le adágarawagüdǘbei joun sügǘ láu ámu úwi .
+46010029	Cásan uágu		Nadímurejañatia luágu larítagun le ában , máma luágu barítagun . Gayáraati jamúga funa laríñagun mútu . “ ¿ Cásan uágu lúnti lubeí lafálaruni ában gürígia le larítagun ámu ?
+46010030	cábagi uágu		Ánjein gayára lubeí níchugun eteíngiruni lun Búngiu luágu le neígibei , ¿ cábagi uágu jadímureja nuágu lueígiñe neígini ? ”
+46011022	Cábagi		¿ Mábantün funági lun jeígin lúma lun játun ñi ? Láu igáburi le , barǘ jumutiña tílana lilígilisin Búngiu quei ni cáta , rújumaña ja úabei ni cáta jáma lídoun busíganu . ¿ Cábagi naríñaga jun luágu líra ? ¿ Lúnti nagúndaarun jáu ? ¡ Luágu líra siñáti !
+46012017a	ída		Lun jamúga águu lan sun úgubu , ¿ ída líña jamúgagi wagáambun ? O lun jamúga arígeirugu lan sun úgubu , 
+46012017b	ída		¿ ída líña jamúgagi wirímichun ?
+46012019	~		Lun jamúga ában rügǘñein lan umégeni luágu úgubu , moústarunti jamúga úgubu ligía .
+46014006	~		Ligía lubeíti nidújeñu , ánjana ñǘdün bisídaün , ábame nadímurejan jun láu dimúrei teréncha , mesériwinbei líra jun lun ni cáta , ánjana gubeírügü gíñe adímureja jun lídan werérun luágu cátei le lasúbudiragüdün Búngiu woun , o níchugun lan ában subúdi luáguti inárüni jun , o ában lan arúfudajani , o ladímurejan lan Búngiu jun niyúmulugugiñe .
+46014007	ca		Rúwamei jálagu áfarutiña quei ában jémpulu . ílagu buri ligía , mabágariti , queí buri fídu , gidára , ánjein wásiñera asúbudira furáangu ca lan nóta afarúbei , ibídiñebei woun ca lan urému le wagáambajabei .
+46014008	~		Ánjein mínwirun fídu ában ínwiruni furáanguti wuríburugu , úabei ni ában aráanseruti lun lídin ageíndagua .
+46014009	ída		Ligía méme gíñe asúseredubei wáma . ánjawa maríñagun dimúrei le gayáraati gunfaráandawa lan , ¿ ída lubági lasúbudirúniwa ca lan waríñagubei ? ¡ Wadímurejaña lun garábali !
+46014015	Cáteiti		¿ Cáteiti lúnbei wadǘgüni ? Lídan adámurini gayáraati wayúmuragun láu dimúrei teréncha , lúnti gíñe wayúmuragun láu dimúrei le gunfaráandawati . Gayáraati werémujan láu dimúrei teréncha , lúnti gíñe werémujan láu dimúrei gunfaráandawati .
+46014016	~		Ánjein badímurejaña lubeí lun Búngiu luágu luweírigun láu dimúrei teréncha , gürígia ǘnabugutiña ja agáambubalibu siñábei júaradun búma , lugúndun úati gunfaráanda jamáni le baríñagubei .
+46014026	~		Nidújeñu , niján lubeíti igáburi le lúnbei joúseruni lídan jidámurin . Dan le joúndaragun lun jájuduragun lun Búngiu , añájeinbaña jídaangiñe láu urému o arúfudajani , o cátei le lasúbudiragüdün Búngiu jun , o adímurejani lídan dimúrei teréncha , o lafúnraanguagüdǘniwa adímurejani ligía , sun líra adǘga jumeí lun méme jawáanserun tílana ligílisi lídan cátei le luáguti Búngiu .
+46014036	~		Ánjaün magúnda láu nerérun , lúnti jasúbudiruni luágu máma lan júma lagúmesera Lerérun Búngiu , áni mámarügügidün gíñe jugúya erésibirei .
+46015012	ída		Queísi wapúrichijan luágu saráali lan Jesucrístu lídaangiñe oúweni , ába jerésibiruni , ¿ ída liñáti añájein lubeí jídaangiñe aríñagatiña luágu másaarun jamá jíbiri jiláaña ?
+46015029a	~		Añájein jídaangiñe , abásterutiña jewéñegua ja oúwetiña mabásterunga . 
+46015029b	cámegi		¿ Cámegi jadǘgei lira ? Ánjein másaarun jabeí jiláaña , 
+46015029c	cámegi		¿ cámegi ju lan jabásterun jewéñegua ?
+46015030a	~		
+46015030b	~		Ánjein siñá jásaarun jiláaña , málati wapúrichijan súnwandan lúnrügü weíbaajoún lueígiñe .
+46015032	cági		Ageíndaguatiña wügǘriña ja ítarabaña quei anímaalugu janárimetiña ya Éfeso núma , ladǘga mínsiñe lan cátei le napúrichijabei joun , ¿ cági nagáñeirubei láu líra ? Ánjein jamúga inárüni lubeí luágu úabei lan ibágari lárigiñe oúweni , richátiña jamúga ja aríñagubaña . “ Joúwama , guráwama , lugúndun jarúga woúwegua . ”
+46015035a	Ída		Fágua níjeinbei álügüdajati . “ ¿ Ída lúbasan ligáburi jásaarun jiláaña ? 
+46015035b	Cábasan		¿ Cábasan luwúyeri úgubu jawágu ? ”
+46015055a	Jigeígi		Oúweni , ¿ jigeígi bubáfu lun bagúmuchaguagüdüníwa ? 
+46015055b	Jigeígi		¿ Jigeígi agáñeiruni lé nege lúnbei badǘgüni ? ”
+47002002	ída		Lugúndun ¿ ída lubásan gayára lan jamúga nagúndaarun lárigiñe níchuguni íruni joun gürígia ja agúndaaraguagüdübalina ? Siñáti jamúga .
+47002016	Cáti		Joun ja merésibirunbalin ugánu ligía , ítara líña quei ában íjemeni le gáfarajati , ánjein joun ja erésibirubalin , ítara líña quei ában árani le areídaguagüdüti . ¿ Cáti gabáfubei lun lasúbudiragüdüni ugánu luáguti Crístu ?
+47003008	~		¡ weíritimaati luweírigun ugánu le lanǘgübei Sífiri Sándu woun luágu Wasálbaragüle !
+47003009	~		Ánjein weíri lubeí luweírigun meja lúrudu le esériwidubei lun larúfuduni wadúnrun ligíbugiñe Búngiu woun , ¡ weíritimaati luweírigun ugánu luágu Wasálbaragüle le adǘgübalíwa richágua ligíbugiñe Búngiu !
+47006014a	~		Magámarida jumá gürígia ja mafíñetiña luágu Crístu , lugúndun janǘgüba ában ibágari le múaraanti . 
+47006014b	~		Mamádaguati ísuruni lúma wuríbani , siñáti gíñe gamádagua lan larúgounga lúma lubúriga .
+47006015a	~		Siñáti níjein lan úarani lídan Crístu lúma Máfia , 
+47006015b	~		siñáti gíñe lúaradun ában afíñeti luágu Crístu lúma ában le mafíñeti .
+47006016	~		Siñáti gadǘnama jamá sándu tídan lúban Búngiu , áni lúban Búngiu le wínwanbei wagía , quei laríñagun Búngiu guánarügü . Naganoúba jagánagua , eíbuga áume jagánagua , áuba Jabúngiute , jagíame nánigu .
+47011011	Cásan uágu		¿ Cásan uágu nadímureja ítara ? ¿ Ladǘga funásan jimísiñe nun ? Subúditi luweírin jínsiñe nun lun Búngiu .
+47011029a	~		Ánjein débili lubeí ában gürígia , sandítina camá jamuga áu débilibei . 
+47011029b	~		Ánjein áburuja ában gürígia lídoun figoú , weíriti nigárigu luágu .
+47012013	~		Moúserun numútün ǘnabu jaweí tílana tíbiri ligílisi , ánjein gubeírügü láu lubeí meréde nan quei ában ijǘrügu jun . ¡ Ferúduna jumána luágu líra !
+47012017	~		¿ Ayéeda numútün funági láu ában jádaangiñe gürígia ja noúnajabaña jun lun lanǘgüni seínsu júmagiñe nubá ?
+48002014	ída		Dan le naríjinbei luágu meíbugun jamá úara lúma inárüni le larúfudajabei ugánu luáguti asálbaruni ( luágu man lan asálbaruni ni cátei lúma lilúrudun Moisés ) , ába naríñagun lun Pédro ligíbugiñe sun adámurini . “ Amǘrü le juríu , berédera abágarida quei ja mámabaña juríu , mabágariduntibu quei juríu . ¿ ída liñáti babúseerúnbei bafósuruniña ja mámabaña juríu lun jabágaridun quei juríu ? ”
+48003001	Ca		¡ Jugúya Galáciana , magáambaditün gíñe ! ¿ Ca abíñaragubadün lun magáambun jubeí lan ugánu le inárünibei libǘgürü wasálbarun ? Lídan meja wapúrichijan jun , arúfuda wamúti laníchigu loúnwen Crístu luágu lugúruwan jun , furáangu .
+48003019	Cáti		¿ Cáti un ju lan lilúrudun Moisés ánjein siñá lubei lasálbaruníwa ? Ñǘbinti lúrudu ligía sarágu irúmu lárigiñe lidáradun Búngiu lúma Abrahám lun larúfuduni jafígoun gürígia joun , lúntirügü ladúrarun darí liábin linébaanfan Abrahám , le Crístu , le gíñe úmabei ladügǘwa darádu ligía . Rúlumuti Búngiu lilúrudun joun ánjeligu lun jíchuguni lun Moisés , liábin Moisés , ába lafúnraanguagüdüni lúrudu ligía joun gürígia .
+48004009a	ída		Ánjein guetó , láu subúdi jumáali lan Búngiu , — lídan lirícha cátei , láu subúdi láadün lan Búngiu — ¿ ída lubáyasan gayára lan jarítagun lúnya jíchaagun júngua queísi idámuni lábugiñoun lúrudu lúma buri igáburi le mabáfubei lun ladǘgün ni cáta jun ?
+48004009b	~		
+48004010	~		Adáaguatün buri fédu ítaga wéyu , ítaga játi , ítaga dan , ítaga irúmu queísi laríñaguni lilúrudun Moisés lun jeréderun richágu ligíbugiñe Búngiu , lídan jarítagun .
+48004015	Ca		¿ Ca susérebei lun ugúndani lé meja jasándirubei náu ? Gayáraati naríñagun luágu jáni fuleísei luágu ánjein lan jamúga meja lúnti , jaságaruñein lan jamúga jágu lun jíchuguni nun .
+48004021	~		Jugúya le busénbei jíchaagun júngua lábugiñoun lilúrudun Moisés , aríñaga jumeí cátei le nun . ¿ magáambun jumágili le laríñagubei lilúrudun Moisés ?
+48004030	Cáteisan		¿ Cáteisan taríñagunbei Lerérun Búngiu ? Taríñajare . “ Bugáboun idámuni láu sun tiraǘ , lugúndun siñáti gafánran lan tiraǘ idámuni lídan alágan lúma tiraǘ to mámaboun idámuni . ”
+48005007a	ca		Buíti meja jeíbugun lúma Crístu , ¿ ca ígiragüdübalin lagaambúniwa inárüni jun ?
+48005007b	~		
+48005011	cámesan		Aríñagatiña arúfudajatiña yéetiña jagía luágu apúrichija nan luágu lúnti lan jerésibirun wügǘriña circuncisión lun jasálbarun . Nidújeñu , ánjein jamúga apúrichija nubálin cátei líra , ¿ cámesan jeíbaajana meme juríu ? Lun jamúga napúrichijani circuncisión , maríbaanti jamúga láburujan dimúrei luáguti loúnwen Crístu luágu gurúwa joun .
+49004009	Cáti		¿ Cáti míni lan “ múdeiti ” ? Míni lan luágu rarí lan furúmiñe lídoun ubáraü buri le ǘnabutimáabei uboúagu .
+50001018	cátei		Wel , úati cátei luágu líra , lídan sun luwúyeri , láu yebe janárün o máma lan láu , luágu Crístu jadímureja , áni gundaatina luágu líra . Áni nagúndaarúba gíñe ,
+50001021	~		Lugúndun ánjana abágarida méme , lúnba Crístu nabágarida , ánjana oúwe , buítimaabei nun lugúndun lúmounbadina Crístu .
+51002020	Cáti uágu		Jugúya , ígira jumáali binádu jigáburi , queísi lídaanjadün lan ában lúma Crístu , gidáadün lídaangiñe ligáburi jarítagun gürígia luágu buri cátei . ¿ Cáti uágu jabágaridunbei camá jamuga lánigugidün uboú ,
+52002019	~		Ladǘga jugúya guánarü íchugubalin ugúndani woun , jugúyaba arúfudei lubuídun wesériwidun lun Wabúreme Jesucrístu le uágubei gayára lan weménigidun lun werésibiruni wafáyeiruaja dánme le lagíribudun , áni jugúyaba wagúndaaragüle dánme le jaráramun ligíbugiñe .
+52003009	ída		¿ Ída lubá funasan wíchugun eteíngiruni buídurügüti lun Búngiu juágu , lúma luágu sarágu ugúndani le rújumaalíbei woun ?
+54003005	ída		Lugúndun ánjein magúmadirun lubáliña wügǘri tílana lúban , ¿ ída lubági gayára lan laríjin jáu tílana lilígilisin Búngiu ?
+54006007a	~		Manǘgüntiwa ni cáta wámagua ñájoun uboúagun , 
+54006007b	~		siñábei gíñe wanǘgün ni cáta yágiñe ,
+58001005	~		Maríñagunti Búngiu ni ában weíyaasu lun ni ában ánjeli . Niraǘ amǘrü , rúnaali ubáraü le bun ugúñe , maríñagun ligía luágu ni ában ánjeli . Áuba Búguchi , amǘrüme nisáani .
+58001013	~		Maríñagunti Búngiu ni ában weíyaasu lun ni ában ánjeli . Ñurúba lueígiñe noúnwenren darí lun nagáñeiragüdünibu jawágu báganiñu , ru náñame bújaburugun .
+58001014	~		Sun ánjeligu , espíritugu esériwidutiña lun Búngiu jagía , oúnajoútiña lun jíderaguniña ja lúnbaña jerésibiruni asálbaruni lídaangiñe jafígoun .
+58002003	~		Gúbuméti wafáyeija luágu wafígoun ánjein moúnigirun wamá oúnwenbun asálbaruni le resíbi wamáalibei lúmagiñe Jesucrístu le Wasálbaragüle . Wabúreme Jesucrístu guánarügü adímurejabei luágu asálbaruni le furúmiñe , lárigiñe , ja agáambubalin , ában jásügüragüdüni woun láu ában achoúruruni luágu inárüni lan .
+58002006a	cáteiñeinsan		lubáragiñe líra , laríñajare tídan Lerérun . Búngiu , ¿ cáteiñeinsan wügǘri lun barítaguba lan luágu ? 
+58002006b	Cáteiñein		¿ Cáteiñein wügǘri goúwedaditi badíjeridunbei láu ?
+58003016	Cátañati		¿ Cátañati agáambubalin lumálali Búngiu , lárigiñe , ába jagáñidagüdüni láu luríban jagáburi ? Sun ja laságarubaña Moisés Ejíptogiñe .
+58003017	Cáti		¿ Cáti úma lagáñida Búngiu bián-wein irúmu ? Jáma ja afígounjabaña , ja oúwegubaña lídan fulásu mageírawati , ába ligirúniwa jábu ñi .
+58003018	Cáti		¿ Cáti un láfiñura Búngiu luágu mebélubaña lan lídoun fulásu lé yebe aráanse láalibei joun lun jeméraagun ñi ? Joun ja adǘraagubalin le lubeíbei .
+58006004	~		Gürígia ja resíbi jamáalibei larúgounga ában weíyaasu , resíbi jameí Crístu queísi jasálbaragüle , resíbi jameí gíñe Sífiri Sándu ,
+58007011	~		Jádaangiñe fádirigu ja linébaanfaangu Leví jerésibirei Israelítagu lilúrudun Moisés , áni Aarón furúmiñetibei jafádirin . Gürígia ja afálarubalin lúrudu ligía , lun jamúga gayára lan jasálbarun le tímatimaati lueígiñe , memégeirunwali jamúga lachǘlaagun ámuya fádiri , máma líbe Aarón , líbe Melquisedéc .
+58009014	~		Áni ánjein ítara líña lubeí , ¡ gúbumégia gabáfutima lan líta Crístu ! Lídaangiñe Sífiri Sándu le magúmuchadibei , rúguati Crístu lúngua lun Búngiu quei ában adágaragüdüni luágu wafígoun le úati dáseiti luágu , áni jarúmagüda lumútu líta wawáni , gidá lumútiwa lídaangiñe lidíjeri arítaguni luágu wagúnfulirun lúma binádu darádu , adǘga lumútiwa lun wabúseerun wesériwidun lun Búngiu le wínwanbei .
+58010001	~		Lilúrudun Moisés liyáwa rügǘñein méja buri cátei buíti lé meja lúnbei lanǘgüni Crístu joun gürígia , le lásiñerubei lúrudu íchiga joun . Ja lubeíti ayárafadubaña lun Búngiu lídaangiñe játa anímaalu le adágaragüdǘwabei lun Búngiu según lilúrudun Moisés , lé buri adágaragüdǘwabei ságü irúmu , siñáti meja jadáriruni jabuídurun le gumúti ítara .
+58010029	~		Weíritimaati súfuri le jadǘnabei ja mebéresenbaña láu Liraǘ Búngiu , 
+58010029b	~		am~ebéresen jagía láu líta , anába jameí Sífiri Sándu le jínsiñejabubei joun . 
+58010029c	~		Líta Jesucrístu , ligía achoúrurubalin lidáradun Búngiu wáma , 
+58010029d	~		le adǘgübaliwa jarúma ligíbugiñe .
+58011032	Cába		¿ Cába ámu cátei naríñaga ? Loúguabei dan nun lun nabǘrüjan luágu Gedeón , Bárac , Sansón , Jefté , Davíd , Samuél luma jawágu profétagu .
+58012007	~		Áfaga jumeí abeichúni lúmagiñe Búngiu , lugúndun loúseruñadün queísi lirájüñü . ¿ Níjein funági isáani mabeíchun lumúti lúguchi ?
+58012009	~		Dán meja le ñǘbürigidiwa , beíjamutíwa meja wagǘbürigu , áni inébetiña meja woun . Lúntimaati wagáambuni Wáguchi le siélubei , lun gabágaribadiwa lan .
+58012025	~		Ligía mamájara jumá lubeí jagáambuni Búngiu . Meséfujaña ligía meja Israelítagu ja mebéresenbaña láu Búngiu , dán buri meja lerérunbei joun lídaangiñe Moisés , le ábanbei lílana uboú , gúbume siñá lan weséfurun ánjein wíchiga wanágan luágun Búngiu lídan le ladímurejan woun lídaangiñe Liraǘ , le lílana siélu .
+58013006	cáta		Gayáraati lubeíti waríñagun láu afíñeni . Nabúreme Búngiu íderagubalina , manúfudebadina . Siñáti jadǘgün gürígia ni cáta náu ánjeingubeírügü busén Búngiu .
+59002006	~		Ánjeinti jugúya , rújumutiña gudémetiña lídoun busíganu . ¿ Máma funági rísitiña ja wuríbabei joúserunün , áni barǘjamaün adúruujeina ligíbugiñoun lúrudu ?
+59002014	cásan		Nidújeñu , ¿ cásan ju lan laríñagun gürígia luágu afíñe lan luágu Crístu ánjein madǘgün ni cáta lun larúfuduni ? ¿ Gayáraati funági lasálbaruni afíñeni ligía ?
+59002016a	~		laríñaga ában jídaangiñe lun . “ Buídulá lídin bun , darúguabá boúgua , jou amǘrüme , ” áni míchu lumúti le lemégeirubei lun , 
+59002016b	cági		¿ cági ju lan líra ?
+59002018	~		Fágua níjeinbei aríñaguti . “ Amǘrü afíñetibu , áu adǘga numúti le buídubei . ” Áu Santiágo aríñagatina lun idújei ligía . “ Arúfudabeíti bafíñen nun boúgudin lueí buíti le badǘgübei , narúfudeime nafíñen bun láu buíti le nadǘgübei . ”
+59002021	~		Resíbi lumúti Búngiu Abrahám , le binádu wáguchi , queísi richáguati ligíbugiñe luágu le ladǘgübei dan le lánjarun lún yebe láfaruni Isáac le liraǘ jilágubei queísi adágaragüdüni lun Búngiu .
+59003013	~		Ánjein níjein lubeí ában chu táu jídan , gunfaráanda ligía , arúfudaleí láu lubuídun loúserun , láu ǘnabugubuni le líchugubei lisúbudin lun .
+59003017	~		Ánjaña ja gámabalin subúdi le lúmagiñebei Búngiu , furúmiñe níjein ában ibágari jarúmati jawágu , gálumatiña , areídatiña , gagáambaditiña , gudémejabutiña , adǘga jamúti le buídubei , ában lábu janǘgüniña sun gürígia , furáangutiña .
+59004001a	Cá		¿ Cá buri ueígiñe jabúseera jawúribujan , 
+59004001b	~		lúma jageíndagun ? Ladǘga buri lagǘbüri ayúmajani le jídaanbei súnwandan .
+59004012	cátabuñadíbugi		Ában rügǘñein agúseragüdüti , le íchugubalin lúrudu ligía , le Crístubei méme , lérügü gabáfubei lun lasálbajan o lun lagǘnrinchagun . Ánjein bugúya , ¿ cátabuñadíbugi lun badárirun lidúnrun ámu ?
+59004014	Cáteiñeigi		¿ Ída liñásan jasúbusiruni cába lan asúsereda jarúga ? ¿ Cáteiñeigi jibágari ? Ítara líña quei jeméreedu le asáliragubei luágu murúsun dan , lárigiñe ába lagúmuchagun .
+60002020	cátei		Ánjaün adǘga cátei wuríbati , jafáyeira luágu , málati gagúraasun jumá luágu líra , ánjaün asúfurira lueígiñe jadǘgün cátei buíti , ába jawánduni láu gurásu , buíti líra ligíbugiñe Búngiu .
+60003013	Cábagi		¿ Cábagi gayára ladǘgün wuríbati jun , ánjaün íchaagua júngua lun jadǘgüni buíti súnwandan ?
+60004017	~		Chülǘjali dan lun lagúmeserun luweírin asúfuriruni , jámagiñe guánarügüba lánigu Búngiu lagúmesera . Ánjeinti lagúmeseruña lubeí asúfuriruni ítara wámagiñe , weíritimaabei jasúfurirun ja mánjabaña jerésibiruni lerérun Búngiu .
+60004018	cábagi		Ánjeinti jénreengu lubeí jasálbarun ja buídubaña , ¿ cábagi asúsereda joun ja wuríbabaña , jáma ja gafígounbaña ?
+61003004	Jalíñañeinsan		ábame jaríñagun . “ ¿ Másan jaríñajare luágu liábinyaba lan Crístu uboúagun ? ¿ Jalíñañeinsan ? Lúmagiñe joúwegun furúmiñetiña afíñetiña luágu Jesucrístu , ítara mémegili sun cátei queí meja lúmagiñe ladügǘnbei uboú . ”
+61003011	cátei		Queísiti lagǘnrinchaguba lan sun cátei ítara , lúnti lubeíti jarúma lan jabágaridun , derégeguañu júngua lun Búngiu le gumúti ,
+62002022	~		Ja arúfudajabalin le múaraanbei , ja aríñagubaña luágu máma lan Jesúsu Crístubei le loúnajabei Búngiu uboúagun lun lasálbaruniña gürígia , jagía láganibaña Crístu , mafíñetiña ni luágu Búngiu Úguchili , ni luágu Búngiu Irájü .
+62003012	Cági		Moún lumuti ítara wamá quei Caín , lé meja lánigubei Máfia , ába láfaruni lamúlen . ¿ Cági ueígiñe láfarei ? Lugúndun wuríba lán meja le ladǘgübei Caín , áni buíti le ladǘgübei lamúlen , ligía lagímugajanbei .
+62003017	ída		Ánjein níjein lubeí lúma ában gürígia lun lawínwandun , áni laríja luágu níjein lan lemégeirun lidúje áni míderagun lumúti , ¿ ída lubági níjein lan ínsiñeni tídan lanígi lun Búngiu ?
+62004020	~		Ánjein aríñaga ában gürígia . “ Jínsiñeti Búngiu nun ” , áni mínsiñeti libíri lun , yéeti gürígia ligía , lugúndun ánjein mínsiñe libíri ában gürígia lun , le aríja lumúti , siñábei gíñe jínsiñe lan Búngiu lun , le maríjin lubeí .
+62005005	~		Le afíñebei luágu Jesúsu lan Liraǘbei Búngiu , ligía rügǘñein gayára lagáñeirun luágu cátei lánina uboú .
+66005002	Ca		Ába naríjin ában ánjeli gabáfuti , ába lálügüdajan láu umálali reínti . — ¿ Ca garíchabei lun ladárarunun líburu lúma lun lajeíridunun tiséyun ?
+66006010a	Darísan ídame		Jaríñaga láu umálali jéreti . — ¿ Darísan ídame , Wabúreme le gúnfuliti láu lerérun , 
+66006010b	darísan ídame		darísan ídame bagúseragüdaña ja mísiñejabúbaña bun uboúagu , luágu woúnwen ? ¿ Ídamésan bafáyeigüdaña luágu jáfaruníwa jilágubei ?
+66006017	Cábasan		Chülǘjali weíriti wéyu le lúnbei larúfuduni Búngiu ligáñi . ¿ Cábasan gayára lawánduni ?
+66007013a	Cátañasan		Ábati lálügüdünina ában jádaangiñe weíyaaña mútu jagía . — ¿ Cátañasan ja , ja jarúbaña adáüragun ? 
+66007013b	Jalíagiñésan		¿ Jalíagiñésan jayábin ?
+66013004a	cába		Ába jájuduragun lun dragón luágu líchugun gumádi lun mónsturu , ába gíñe jájuduragun lun mónsturu , ába jaríñagun . — Úati ni ában quei mónsturu le , ¿ cába gayára láfaruni ?
+66013004b	~		
+66015004a	Cábasan		¿ Cábasan manúfude bueí , Wabúngiute ? 
+66015004b	Cábasan		¿ Cábasan madímurejan buíti buágu ? Amǘrü rügǘñadibu mafígounjan , jayábinba lílana sun fulásu , ábame jájuduragun bun , ladǘga arijúaali luágu buídu lan sun le badǘgübei .
+66017007	Cá uágu		Ábati laríñagun ánjeli ligía nun . — ¿ Cá uágu laweírida banígi ? Nasúbudiragüdaali míni tan wǘri to bun , láu sun mónsturu le anǘgübarun , le sédübei ichǘgü , díisi ligáanchun .
+66018018	Cásan		Dánti le jaríjini lugúmulalin lágudun ubúrugu , ába jagúaragun . — ¿ Cásan meja ámu ubúrugu ñíbei quei oúnwenbun ubúrugu le ?

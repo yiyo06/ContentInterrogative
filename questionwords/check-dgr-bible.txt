@@ -1,0 +1,743 @@
+40002002	welaedì		“ Bebìa laedì ? ” gedı dǫ dageehke , “ Eyı chekoa Israel got'ı̨į̀ gha k'àowocho elı̨ ha wegǫ̀hłı̨ı̨ sìı welaedì ? Įdè gonèk'e wets'ǫ whǫ̀ ts'aɂı̨ . Weghàsǫts'eedı ha jǫ nèts'ı̨ı̨de , ” gedı .
+40002004	edı̨į̀		Eyıt'à yahtıı-gha-k'aodèe gı̨ı̨lı̨ı̨ eyıts'ǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ gokayaı̨htı . Dagoehke , “ Dǫ edaxàgole ha , Chrıst wèts'edıı sìı , edı̨į̀ wegǫ̀hłı̨ ha dek'eèhtł'è ? ” gòhdı dagoehke .
+40003007	~		Pharısee gı̨ı̨lı̨ı̨ łǫ eyıts'ǫ Sadducee gı̨ı̨lı̨ı̨ łǫ , edı̨į̀ sìı John-Baptıst dǫ k'ètaìdzı̨ı̨ sìı ekǫ ts'ǫ̀ geède . John-Baptıst gots'ǫ̀ hadı , “ Naxı̨ , wehłı̨ı̨ weza laaht'e ! Nǫ̀htsı̨ nànaxeehkwa ch'à kwı̨ahdè ha nıìle .
+40005013	dànì		“ Naxı̨ sìı dıı nèk'e dǫ hazǫǫ̀ gıgha dewa nàtsoo laaht'e . Hanìkò dewa łedì-le ajà nı̨dè dànì k'achı̨ łedì anajà lì ? t'asìı gha wet'àaɂà-le at'į̀-ı̨dè nałats'eehtł'ì gà dǫ gık'e k'edè .
+40005046	~		Dǫ naxıghǫnegeètǫǫ zǫ gıghǫnıahtǫ nı̨dè , eyı t'asìı nıìle . Sǫǫ̀mba-nàgehtsį̀ı̨-dǫǫ̀ ededı̨ kò ełeghǫnegeètǫ hǫt'e .
+40005047	~		Naxèot'ı̨ zǫ ts'ǫ̀ nezı̨į̀ naahɂa nı̨dè , dǫ eyıì-le gınahk'e t'asìı nezı̨ı̨ hòahtsı̨ nıìle . Dǫ Nǫ̀htsı̨ k'ègeezǫ-le ededı̨ kò ełets'ǫ̀ nezı̨į̀ nageɂa hǫt'e .
+40006027	Ayìıha		Ayìıha t'asìı ghǫ nànıahdè ? Dǫ wı̨ı̨zìı nànıwo t'à ı̨łè sadzeè deɂǫ̀ǫ̀ edaà adele ha nıìle .
+40006028	Ayìıha		“ Ayìıha goht'ǫ ghǫ nànıahdè ? Dèè k'e ı̨t'ǫ̀chàa dehshee sìı wedaànıahdè . Eghàlaeda-le kò wèdaat'ı̨ hǫt'e .
+40006031a	Ayìı		Eyıt'à dıı haahdı-le xè t'asìı ghǫ nànıahdè-le : ‘ Ayìı ts'ı̨ı̨ɂà lì ? ’ 
+40006031b	Ayìı		‘ Ayìı ts'ats'e lì ? ’ 
+40006031c	Ayìı		‘ Ayìı goht'ǫ t'à-ats'et'ı̨ lì ? ’
+40007003	Ayìıha		“ Ayìıha naxèot'ı̨ wedaà yìı tsolè wheɂǫǫ sìı ghàahda , hanìkò naxıdaà yìı dechı̨ whetǫǫ sìı ts'ǫnıahɂà-le ?
+40007004	Dànıt'à		Dànıt'à naxèot'ı̨ ts'ǫ̀ dıı haahdı naxıgha dìì-le , ‘ Àgı̨ą , nedaà yìı t'asìa wheɂǫ ; negha xàwehchı , ’ dahdı , hanìkò naxı̨ naxıdaà yìı dechı̨ whetǫǫ sìı naxıgha wègaat'ı̨-le .
+40007009	~		“ Naxıza łèt'è naxeekè nı̨dè asį̀į̀ kwe weghàahɂà ha ?
+40007016a	~		Dànì k'ehogeɂa k'ę̀ę̀ gık'èahsǫ ha . Įchį̀ghoò ta jìe nàts'ehtsį̀ nıìle . 
+40007016b	~		Eyıts'ǫ gogho nı jìecho nàts'ehtsį̀ nıìle .
+40008026	Dànìghǫ		Zezì gots'ǫ̀ hadı , “ Naxınì nàtso-le . Dànìghǫ sıì dahjı̨ nǫǫ̀ ? ” gòhdı . Elà yìı nàwo xè nı̨hts'ı eyıts'ǫ taatı̨į̀ whìle aahde gòhdı t'à , ts'èwhı̨į̀ hòɂǫǫ̀ agòjà .
+40008027	amìı		Zezì wecheekeè gıgha enıìyah t'à ełets'ǫ̀ hagedı , “ Dıı amìı ne ? Nı̨hts'ı eyıts'ǫ taatı̨į̀ kò gık'į̀ı̨t'e , ” gedı .
+40008029	ayìıha		Hòtł'ò gezeh xè hagedı , “ Nǫ̀htsı̨ Weza , ayìıha gok'alaąwo ? Gogha nèhòkw'ı kwe gogha hoìla hoı̨htsı̨-le , neghǫnàdats'eetì , ” gedı .
+40009004	Dànìghǫ		Zezì dànì nànıgedèe sìı gok'èezǫ t'à hagòhdı , “ Dànìghǫ naxıdzeè yìı nàowołı̨ı̨ t'à nànıahdè ?
+40009005	~		Dǫ wekw'ǫǫ̀ ełaı̨dèe sìı dàwets'edı nı̨dè denahk'e dezhì-le : ‘ Nehołı̨į̀ neghǫ nahoazha , ’ hanì-le-ı̨dè ‘ Nıį̀tła gà k'eı̨tło . ’
+40009011	Dànìghǫ		Pharısee gı̨ı̨lı̨ı̨ sìı gogıaɂı̨ ekò Zezì wecheekeè ts'ǫ̀ hagedı , “ Dànìghǫ naxıts'ǫ̀ k'àowo sǫǫ̀mba-nàhtsį̀ı̨-dǫǫ̀ eyıts'ǫ hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ xè shètı̨ ? ” gògedı .
+40009014	dànìghǫ		Eyı tł'axǫǫ̀ John-Baptıst wecheekeè Zezì gà nègı̨ı̨de , gıts'ǫ̀ hadı , “ Goxı̨ eyıts'ǫ Pharısee gı̨ı̨lı̨ı̨ sìı edets'egǫ , hanìkò dànìghǫ necheekeè edegegǫ-le ? ” gıìhdı .
+40009015	~		Zezì gots'ǫ̀ hadı , “ K'ǫadzàa ı̨łaà goxè wheda et'ıì , dǫ gıghǫ nìı̨dee sìı edegegǫ ha nì ? Į̀le ne , hanìkò ı̨łè dzęę̀ k'ǫadzàa gıghǫ wììchì ha hǫt'e , eyı dzęę̀ k'e nı̨dè edegegǫ ha .
+40010025	~		Dǫ hoghàweètǫǫ sìı hoghàyeehtǫǫ-dǫǫ̀ xèht'eè ade ha hǫt'e , eyıts'ǫ k'àowo wecheekeè edets'ǫ k'àowo xèht'eè ade ha hǫt'e . Edekǫ̀ gha k'àowo elı̨ı̨ sìı ‘ wehłı̨ı̨ ’ gıìhdı nı̨dè wekǫ̀ dǫ nàdèe sìı denahk'e gık'adaedè ha hǫt'e !
+40011007	ayìı		John-Baptıst wecheekeè nageèhde ekò Zezì John-Baptıst ghǫ dǫ hazǫǫ̀ ts'ǫ̀ hadı , “ Ekìı-ka nèk'e ayìı ghàahda ha ekǫ k'eahdè ? Tł'oh k'eweehts'ı ghàahda ha nì aaht'ı̨ ?
+40011008	ayìı		Hanì-le-ı̨dè ayìı ghàahda ha ekǫ k'eahdè ? Dǫ nezı̨į̀ nàhtł'ı̨ ghàahda ha nì aaht'ı̨ ? Į̀le , dǫ goht'ǫ dètìı t'à-aget'ı̨ı̨ sìı k'àowocho wekǫ̀ nàgedè hǫt'e .
+40011009	ayìı		Ekǫ ayìı ghàahda ha aaht'ı̨ ı̨lè ? Nakwenàoɂǫǫ ? Hęɂę , nakwenàoɂǫǫ nahk'e elı̨ı̨ sìı weahɂı̨ hǫt'e .
+40011016	ayìı		“ Dıı dǫ xàgeèɂaa sìı ayìı xègı̨ı̨ht'e ts'edı lì ? Chekoa tı̨lıbàa geèhkw'ee lagı̨ı̨t'e . Ełets'ǫ̀ hagedıì yagìzeh ,
+40012011	~		Zezì gots'ǫ̀ hadı , “ Edahxǫ naxıts'ǫ sahzǫ̀ą ı̨łè Nǫ̀htsı̨ Dzęę̀ k'e dèè goyìèkw'o nı̨dè xàweahchı ha-le nì ?
+40012026	~		Wehłı̨ı̨ ı̨nìłı̨ı̨ xàgodeezhı nı̨dè edek'èch'a at'ı̨ hǫt'e . Hanì-ı̨dè wehłı̨ı̨ k'àhowo-le ade ha .
+40012027	amìı		Įnìłı̨ı̨ gha k'àowo sets'àdı t'à ı̨nìłı̨ı̨ xàdeehshı nı̨dè naxıcheekeè amìı dahxà ı̨nìłı̨ı̨ xàdegeezhı ? Eyıt'à naxıcheekeè naxısınìyagehtı ha hǫt'e .
+40012029	~		“ K'achı̨ dıı hats'edı ghǫ nànıahdè : dǫ nàtsoo t'akwełǫ̀ǫ̀ dawets'eèzà lenǫsıı wekǫ̀ enìxàts'eezhì gà wets'ǫ t'asìı ts'eeɂį̀ ha dìì . Dawets'eèzà tł'axǫǫ̀ nı̨dè zǫ wekǫ̀ gots'ǫ t'asìı ts'eeɂį̀ ha dìì-le .
+40012034	~		Naxı̨ sìı wehłı̨ı̨ weza laaht'e ! Hołı̨ı̨-hoahtsı̨ı̨-dǫǫ̀ aaht'e t'à t'asìı nezı̨ı̨ ghǫ goahde ha dìì . Dǫ gıdzeè yìı ayìı whelaa weghàà gogede hǫt'e .
+40012048a	Amìı		Zezì yets'ǫ̀ hadı , “ Amìı semǫ ne ? 
+40012048b	Amìı		Amìı sechı agı̨ı̨t'e ? ”
+40013010	Dànìghǫ		Eyı tł'axǫǫ̀ wecheekeè dageehke , “ Dànìghǫ wet'à nànıts'ewoo godıì zǫ t'à dǫ hoghàgı̨ı̨htǫ , ” gıìhdı .
+40013027	Dànìghǫ		“ Dǫ eyı wedèè ne sìı wecheekeè gıts'ǫ̀ hadı , ‘ K'àowo , nedèè k'e t'asìı nezı̨ı̨ nèneela-le nì ? Dànìghǫ tł'oh nezı̨-le sı weta dehshe ? ’ gıìhdı .
+40013054a	Dànıt'à		Kǫ̀ta dèzhǫǫ sìı ekǫ nììtła ekò ełègehdèe-kǫ̀ ts'ǫ̀ èhtła , ekǫ dǫ hoghàehtǫ . Dànì dǫ hazǫǫ̀ ts'ǫ̀ gode t'à sıì gıgha enıìyah lanì , ełets'ǫ̀ hagedı , “ Dànıt'à dıı dǫ sıì gǫǫzǫ 
+40013054b	~		xè enıìyah hoehtsı̨ ?
+40013056	dànìghǫ		Eyıts'ǫ wedè gota nàgedè-le nì ? Hanì-ı̨dè dànìghǫ dıı dǫ eyı hazǫǫ̀ yeghàlaeda ? ” ełets'ǫ̀ hagedı .
+40014031	Dànìghǫ		Ekòet'ıì Zezì dayaachì , hayèhdı “ Nınì nàtso-le . Dànìghǫ negha ehkw'ı-ahodı-le ? ” yèhdı .
+40015002	Dànìghǫ		“ Dànìghǫ necheekeè gocho gınàowoò k'èch'a eghàlageeda ? Shègezhe kwe edılà k'enagehtse-le ! ” gıts'ǫ̀ hadı .
+40015003	dànìghǫ		Zezì gots'ǫ̀ hadı , “ Ekò naxı̨ , dànìghǫ naxıcho gınàowoò k'ę̀ę̀ eghàlaahdaa sìı Nǫ̀htsı̨ nàowoò nahk'e wet'àaɂà dahwhǫ ? Haaht'ı̨ ts'ıhɂǫ̀ Nǫ̀htsı̨ wenàowoò k'eahzhì hǫt'e .
+40015033	dànì		Wecheekeè gıts'ǫ̀ hadı , “ Kǫ̀ta gòlaa ts'ǫ̀ gǫǫwà ts'eèhkw'e , eyıt'à dànì dǫ haàtłǫǫ gıgha łèt'è nàts'eehdì ha ? ” gıìhdı .
+40015034	dàtłǫ		Zezì gots'ǫ̀ hadı , “ Łèt'è dàtłǫ naxıts'ǫ ? ” “ Łèt'è łǫ̀hdı̨ eyıts'ǫ łıwe nechà-lea mǫ̀hdaa , ” gıìhdı .
+40016008	Dànìghǫ		Zezì hanì gogede gok'èezǫ t'à gots'ǫ̀ hadı , “ Naxınì nàtso-le dìì . Dànìghǫ łèt'è whìle ghǫ ełets'ǫ̀ goahde ?
+40016009	dàtłǫ		Įłaà naxıkwì yìekw'ı-le nì ? Dànì łèt'è sı̨làı t'à dǫzhìı sı̨làı-lemì gıwàhǫǫdìı sìı wedaànıahdè . Łèt'è deɂǫ̀ǫ̀ ı̨ı̨làa sìı tł'ohtǫ dàtłǫ dagoòɂǫ nàahtsį̀ı̨ sìı , asį̀į̀ wenaahdì ?
+40016010a	~		Eyıts'ǫ dànì łèt'è łǫ̀hdı̨ t'à dǫzhìı dı̨-lemì gıwàhǫǫdìı sìı wedaànıahdè . 
+40016010b	dàtłǫ		Łèt'è deɂǫ̀ǫ̀ ı̨ı̨làa sìı tł'ohtǫ dàtłǫ dagoòɂǫ nàwhahtsı̨ı̨ sìı , asį̀į̀ wenaahdì ?
+40016011	dànìghǫ		Łèt'è ghǫ gohde aehsı̨ nıìle , dànìghǫ eyı wenıahdì-le ? Hanìkò Pharısee eyıts'ǫ Sadducee gı̨ı̨lı̨ı̨ sìı gıłèt'èa ch'à edexoahdı ha hǫt'e , ” gòhdı .
+40016013	amìı		Zezì kǫ̀ta Caesarea-Phılıppı ts'ǫ̀ nıwà-lea nììtła ekò edecheekeè gots'ǫ̀ hadı , “ Dǫ sìı Dǫ-wet'àaɂàa-deè amìı at'ı̨ gedı ? ” gòhdı .
+40016015a	~		Zezì dagoehke , “ Ekò naxı̨ , 
+40016015b	amìı		amìı aht'e sèahdı ? ” gòhdı .
+40016026a	~		Dıı nèk'e dǫ t'asìı hazǫǫ̀ edegha dèhnǫ kò wedą̀ązhį̀ı̨ weghǫ wedıhòłı̨ nı̨dè , wegha wet'àaɂà nıìle . 
+40016026b	~		Dǫ wedą̀ązhį̀ı̨ k'èxa t'asìı wı̨ı̨zìı nìɂà ha nıìle .
+40017010	Dànìghǫ		Wecheekeè taı dageehke , “ Dànìghǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ nakwenàoɂǫǫ Elıjah t'akwełǫ̀ǫ̀ nììtła ha , gedı , ” gıìhdı .
+40017017a	Dàwhaà		Zezì dǫ nı ts'ǫ̀ hadı , “ Naxı̨ dǫ yàahłı̨ı̨ sìı naxıgha ehkw'ı-ahodı-le xè nàowo ehkw'ıı k'èch'a eghàlaahda . Dàwhaà naxıxè aht'e ha ? 
+40017017b	Dàwhaà		Dàwhaà sınì tsį̀ahwhı ha ? ” Hadı tł'axǫǫ̀ dǫzhìa wetà ts'ǫ̀ hadı , “ Nezaa sets'ǫ̀ wı̨ı̨hchı , ” yèhdı .
+40017019	Dànìghǫ		Eyı tł'axǫǫ̀ Zezì wecheekeè whatsǫǫ̀ gıts'ǫ̀-ède gà dageehke , “ Dànìghǫ goxı̨ ı̨nìłı̨ı̨ xàwedets'eezhı ha dìì ? ” gıìhdı .
+40017025a	dàneewǫ		Peter gots'ǫ̀ hadı , “ Hęɂę , hat'ı̨ ne , ” gòhdı . Peter edı̨į̀ kǫ̀ agı̨ı̨t'ee sìı goyaèhtła ts'ǫ̀et'ıì , Zezì ededı̨ t'akwełǫ̀ǫ̀ yets'ǫ̀ hadı , “ Sımon , dıı weghǫ dàneewǫ ? 
+40017025b	amìı		Dıı nèk'e k'àowocho gı̨ı̨lı̨ı̨ sìı amìı ts'ǫ sǫǫ̀mba nàgehtsį̀ ? Xàè edeza gots'ǫ hanì-le-ı̨dè dǫ eyıì-le gots'ǫ ? ” yèhdı .
+40018001	amìı		Ekìıyeè k'e Zezì wecheekeè gıts'ǫ̀ goòhwho gà hagıìhdı , “ Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ gha amìı denahk'e elı̨ ? ” gıìhdı .
+40018012	~		“ Dǫ ı̨łè sahzǫ̀ą ı̨łèakw'eènǫ wets'ǫ hanìkò ı̨łè weghǫ dıkǫèhgè nı̨dè sahzǫ̀ą łǫǫ̀tǫènǫ-daats'ǫ̀-łǫǫ̀tǫ sìı ekìı-ka gehteè agole gà ı̨łè whìle sìı yegòhɂà gots'ǫ̀ yekanıwǫ ha hǫt'e .
+40018021	dàtłǫǫ̀		Peter Zezì ts'ǫ̀ hadı , “ Sets'ǫ̀ K'àowo , sèot'ı̨ sek'èch'a hòèhtsı̨ nı̨dè dàtłǫǫ̀ eht'aà weghǫ nahoehłe ha ? Łǫ̀hdı̨ ts'ǫ̀ weghǫ nahoehłe ha nì ? ” yèhdıì dayeehke .
+40019007	dànìghǫ		Pharısee Zezì dageehke , “ Hanì-ı̨dè dànìghǫ Moses dıı hanì nàowo whehtsı̨ : ‘ Dǫzhìı edets'èkeè ɂǫ̀yeede ha nıwǫ nı̨dè ɂǫ̀łets'eedee nı̨htł'è yegha sıìyele gà xàyeehɂà ha , ’ dek'eèhtł'è , ” gıìhdı .
+40019016	ayìı		Cheko ı̨łè Zezì gà nììtła , dayeehke , “ K'àowo , ayìı nezı̨ı̨ ghàlaıhdà nı̨dè welǫ whìle ts'ǫ̀ ehdaà asedle ha ? ” yèhdı .
+40019017	Ayìıha		Zezì yets'ǫ̀ hadı , “ Ayìıha t'asìı nezı̨ı̨ sìı ghǫ dası̨ı̨hke , Nǫ̀htsı̨ zǫ nezı̨ hǫt'e . Welǫ whìle ts'ǫ̀ ı̨da ha neewǫ nı̨dè nàowo dek'eèhtł'èe sìı k'èanet'e , ” yèhdı .
+40019018	dàhòt'ı̨ı̨		Cheko dayeehke , “ Nàowo dàhòt'ı̨ı̨ awį̀ı̨dı , ” yèhdı . Zezì yets'ǫ̀ hadı , “ ‘ Dǫ ełaahwhı-le , ełexè hołı̨ı̨ hoahtsı̨-le , aahɂį̀-le , dǫ ghǫ hoahts'ì-le ,
+40019020	ayìı		Eyıt'à cheko hadı , “ Eyı nàowo hazǫǫ̀ wek'èɂaeht'è hǫt'e . Eyı weɂǫ̀ǫ̀ ayìı dàhłe ha ? ” yèhdı .
+40019025	amìı		Wecheekeè Zezì hadı egıìkw'o ekò sıì gıgha enıìyah t'à hagedı , “ Hanì-ı̨dè amìı edaxàweètı̨ lì ? ” gedı .
+40019027	ayìı		Peter , Zezì ts'ǫ̀ hadı , “ Goxı̨ nek'èè k'ets'edè ha ts'ı̨ı̨wǫ t'à , t'asìı hazǫǫ̀ wedę ats'ı̨ı̨là ı̨lè ! Wek'èxa ayìı gǫǫ̀t'à ha ? ” yèhdı .
+40020006	Dànìghǫ		Sı̨làı nìı̨ɂǫ k'àowo k'achı̨ dǫ hanıwǫ ekò , ı̨łaà dǫ eyıì-le ekǫ nàgeèhza goaɂı̨ . Hadıì dagoehke , ‘ Dànìghǫ dzę ghàà jǫ nàahza , t'asìı hòahtsı̨-le , ’ gòhdı .
+40020012	~		hagedı , ‘ Eyı dǫ nǫǫde la k'e nègı̨ı̨dee sìı ı̨łè sadzeè zǫ eghàlagı̨ı̨dà . Goxı̨ k'àhdzǫ la hazǫǫ̀ weghàlats'ı̨ı̨dà ne eyıts'ǫ sadeè nàtsoo nı eghàlats'ı̨ı̨dà hǫt'e . Hanìkò ededı̨ sìı goxètłǫ gıts'àneehdì , ’ gıìhdı .
+40020021	ayìı		Zezì yets'ǫ̀ hadı , “ Negha ayìı dàhłe ha seneehwhǫ ? ” yèhdı . Eyıt'à ts'èko hadı , “ K'àowocho wheęlı̨ nı̨dè seza ı̨łè negà nàgòts'ehnèe whedaà awı̨ı̨le eyıts'ǫ ı̨łè negà gots'ı̨hts'ǫ whedaà awı̨ı̨le , ” yèhdı .
+40020032	Ayìı		Zezì nììtła , gots'ǫ̀ hadı , “ Sets'ǫ̀ łaahtłe . Ayìı naxıgha dàhłe ha seahwhǫ ? ” gòhdı .
+40021010	amìı		Zezì Jerusalem nììtła ekò dǫ hazǫǫ̀ nìdahogı̨į̀hdè , hagedı , “ Dıı dǫ , amìı at'ı̨ ? ” gedı .
+40021016	dàgedıı		Zezì ts'ǫ̀ hagedı , “ Chekoa dàgedıı sìı gı̨į̀kw'o-le nì ? ” gıìhdı . Zezì gots'ǫ̀ hadı , “ Hęɂę , geèhkw'ǫ . ‘ Chekoa gıwà t'à neghàsǫhoedıì anelà , ’ hanì dek'eèhtł'èe sìı wek'eyaahtı-le nì ? ” gòhdı .
+40021020	Dànıt'à		Wecheekeè eyı hagòjà gıaɂı̨ t'à sıì gıgha enıìyah , hagedı , “ Dànıt'à dıı jìechots'ıì sıì ı̨whąą̀ whegǫǫ̀ ajà ? ” hagedıì dałegeehke .
+40021023a	Ayìı		Zezì Nǫ̀htsı̨kǫ̀-gocho gà nììtła . Ekǫ dǫ hoghàehtǫ ekò yahtıı-gha-k'aodèe eyıts'ǫ ǫhdah gı̨ı̨lı̨ı̨ sìı Zezì ts'ǫ̀ geède , hagıìhdı , “ Ayìı dahxà dıı hanì eghàlaı̨da ? 
+40021023b	Amìı		Amìı hanì neghàhòı̨ɂǫ t'à anet'ı̨ ? ” gıìhdı dageehke .
+40021025a	amìı		John-Baptıst dǫ k'ètaìdzı̨ı̨ sìı amìı dahxà at'ı̨ nǫǫ̀ ? Yak'e godahxà at'ı̨ hanì-le-ı̨dè dǫ dahxà at'ı̨ ? ” gòhdı . Eyı ghǫ ełets'ǫ̀ hagedı , 
+40021025b	~		“ ‘ Yak'e godahxà at'ı̨ , ’ ts'edı nı̨dè 
+40021025c	Dànìghǫ		‘ Dànìghǫ ehkw'ı adıı weahwhǫ-le nǫǫ̀ ? ’ gòhdı ha .
+40021028	~		“ Dıı godı t'à naxıxè gohdo ha sìı wedaànıahdè . Dǫ weza nàke gǫ̀hłı̨ ı̨lè . Edeza ı̨łè ts'ǫ̀ hadı , ‘ Seza sets'ǫ jìecho goehshee k'è segha eghàlaı̨da , ’ yèhdı .
+40021031	amìı		“ Eyıt'à eyı weza nàke sìı amìı edetànì k'ę̀ę̀ eghàlaı̨dà ? ” Zezì gòhdı . Zezì ts'ǫ̀ hagedı , “ Edeza t'akwełǫ̀ǫ̀ daı̨hkee sìı , ” gıìhdı . Zezì gots'ǫ̀ hadı , “ Ehkw'ı anaxèehsı̨ , sǫǫ̀mba-nàgehtsį̀ı̨-dǫǫ̀ egedì-le eyıts'ǫ ts'èkojıı naxıkwe-t'ıì Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ goyageedè ha .
+40021040	dàgole		Zezì hadı goxè goado tł'axǫǫ̀ , dagoehke , “ Eyıt'à eyı dèè ts'ǫ̀ k'àowo ekǫ nǫ̀ǫtła nı̨dè dèè-k'ègedìı-dǫǫ̀ negezı̨-le sìı dàgole ha ? ” Zezì gòhdı .
+40022012	dànìghǫ		Yets'ǫ̀ hadı , ‘ Seàgı̨ą , seza honìdza hǫt'e . Eyıt'à dànìghǫ goht'ǫ nezı̨ı̨ t'à-aąt'ı̨-le ? ’ yèhdı . Eyı dǫ aıdì whìle .
+40022017	~		Eyıt'à dıı weghǫ dàneewǫ gots'ǫ̀ haı̨dı . K'àowodeè Caesar , sǫǫ̀mba wets'àts'eehdìı sìı asį̀į̀ eyı negha ehkw'ı ne ? ” gıìhdı .
+40022018	Ayìıha		Hanìkò ekǫ-le xàyahtı ha gı̨ı̨hwhǫ t'à agedıı sìı Zezì gok'èezǫ . Eyıt'à gots'ǫ̀ hadı , “ Degaı daahtsı̨ kò wek'ę̀ę̀ aahda nıìle ! Ayìıha seahdzà xè seyatıì t'à sek'e nìdahoahɂà ha dahwhǫ ?
+40022020a	amìı		Zezì gots'ǫ̀ hadı , “ Amìı wekwì eyıts'ǫ wıızì dek'e wheɂǫ ? ” gòhdı .
+40022020b	~		
+40022028	amìı		Eyıt'à dǫ naìdàa dzęę̀ k'e nı̨dè eyı ts'èko ełechı łǫ̀hdı̨ hazǫǫ̀ goxè hǫat'į̀ ne t'à amìı ts'èkeè elı̨ ha ? ” gedıì Zezì dageehke .
+40022036	ayìı		“ K'àowo , Moses wenı̨htł'è gots'ǫ ayìı nàowo denahk'e wet'àaɂà ? ” yèhdı .
+40022042a	~		“ Chrıst wèts'edıı sìı weghǫ dàahwhǫ ? 
+40022042b	Amìı		Amìı weza ne ? ” gòhdı . “ K'àowocho Davıd Weza ne , ” gıìhdı .
+40022043	dànìghǫ		Zezì gots'ǫ̀ hadı , “ Hanì-ı̨dè dànìghǫ k'àowocho Davıd Yedàyeh Nezı̨ı̨ dahxà ‘ sets'ǫ̀ K'àowo ’ yèhdı , dek'eèhtł'è . K'àowocho Davıd yeghǫ dıı hadı ı̨lè :
+40022045	dànì		K'àowocho Davıd ‘ sets'ǫ̀ K'àowo ’ yèhdı , hanì dek'eèhtł'è nı̨dè dànì yeza elı̨ welì ? ” Zezì gòhdı .
+40023017	Ayìı		Naxı̨ sìı ezhı̨ne laaht'e , ehkw'ı nànıahdè-le . Ayìı denahk'e wet'àaɂà ? Nǫ̀htsı̨kǫ̀-gocho hanì-le-ı̨dè sǫǫ̀mbaekwo Nǫ̀htsı̨kǫ̀-gocho k'e whelaa t'à degaı ìhłè ? Nǫ̀htsı̨kǫ̀-gocho sìı denahk'e wet'àaɂà hǫt'e .
+40023019	Ayìı		Ehkw'ı nànıahdè nıìle . Ayìı denahk'e wet'àaɂà ? Kwe-ladà , hanì-le-ı̨dè t'asìı kwe-ladà k'e wek'eahk'ǫ̀ t'à degaı ìhłè ? Kwe-ladà sìı denahk'e wet'àaɂà hǫt'e .
+40023033	~		“ Naxı̨ sìı wehłı̨ı̨ weza laaht'e ! Wehłı̨kǫ̀ ts'ǫ̀ anaxedle ch'à edaxàahdè ha dahwhǫ nì ?
+40024003a	Dàht'e-ı̨dè		Zezì shìh Olıvet gòyeh ekǫ wheda ekò wecheekeè whatsǫǫ̀ gıts'ǫ̀-ède , hagıìhdı , “ Dàht'e-ı̨dè hagode ha sìı gots'ǫ̀ haı̨dı , 
+40024003b	ayìı		eyıts'ǫ nǫǫde dzęę̀ jǫ anaąde ha nìkw'o nı̨dè ayìı ghàà wek'èts'eezǫ ha ? ” wecheekeè gıìhdı .
+40024045	~		“ Dǫ nezı̨ı̨ aahłı̨ xè goahsǫǫ̀ k'ehoahɂa . Eyı hanıı dǫ sìı wets'ǫ k'àowo edecheekeè hazǫǫ̀ ts'ǫ̀ k'àowoò ayele ha . Weghǫ shèts'ezhee gı̨ı̨wǫ nı̨dè goghàɂeedı ha .
+40025037	dàht'e		“ Dǫ ehkw'ı geedaa sìı gıts'ǫ̀ dıı hadı ha , ‘ Gots'ǫ̀ K'àowo , dàht'e bò ghaı̨wı̨ t'à newàts'ı̨ı̨dì nǫǫ̀ ? Dàht'e tı ghaı̨wı̨ t'à tı neghàts'ı̨ı̨dì nǫǫ̀ ?
+40025038	Dàht'e		Dàht'e gokǫ̀ta xàhtǫ nelı̨ t'à gokǫ̀ ts'ǫ̀ anets'į̀į̀là nǫǫ̀ ? Dàht'e goht'ǫ nets'ǫ-le t'à goht'ǫ neghàts'ı̨ı̨là nǫǫ̀ ?
+40025039	Dàht'e		Dàht'e eyanelı̨ nets'aɂı̨ nǫǫ̀ ? Eyıts'ǫ dàht'e dǫ-danìı̨laa-kǫ̀ wheęda t'à nets'àts'ede nǫǫ̀ ? ’ hagedı ha .
+40025044	dàht'e		“ Ededı̨ sı gıts'ǫ̀ hagedı ha , ‘ Gots'ǫ̀ K'àowo , dàht'e bò eyıts'ǫ tı ghaı̨wı̨ nets'aɂı̨ nǫǫ̀ ? Dàht'e gokǫ̀ta xàhtǫ nelı̨ nǫǫ̀ , dàht'e goht'ǫ nets'ǫ-le nǫǫ̀ , dàht'e eyanelı̨ eyıts'ǫ nedaàtǫ nǫǫ̀ ? Eyıts'ǫ dàht'e seè nets'àts'ı̨ı̨dì-le nǫǫ̀ ? ’ gıìhdı ha .
+40026008	Ayìıha		Wecheekeè eyı ts'èko hajà gıaɂı̨ ekò gıgha nezı̨-le , ełets'ǫ̀ hagedı , “ Ayìıha eyı yìk'eetł'òo t'asìı kaà-le nałayeèhtł'ı ?
+40026010	Ayìıha		Ayìı ghǫ gogedee sìı Zezì yek'èezǫ t'à gots'ǫ̀ hadı , “ Ayìıha dıı ts'èko ts'ǫ̀ sǫahdı ? Segha t'asìı nezı̨ı̨ hayį̀į̀là hǫt'e .
+40026015	dàtłǫ		hagòhdı , “ Zezì naxıtł'àèhte k'èxa dàtłǫ sǫǫ̀mba sets'àɂahdì ha ? ” gòhdı . Eyıt'à taènǫ satsǫ̀ą degoo gıgha gı̨ı̨htà gà gıghàı̨wa .
+40026017	Edı̨į̀		Passover dzęę̀ xèhǫǫ̀wo ekò Zezì wecheekeè dageehke , hagedı , “ Edı̨į̀ nàsı̨ Passover ghǫ shèı̨tı̨ ha ? Negha sıìgots'ele ha neewǫ nì ? ” gıìhdı .
+40026040	~		Yaı̨htı tł'axǫǫ̀ edecheekeè taı goghǫ nǫ̀ǫtła ekò geète nǫǫ̀ . Peter ts'ǫ̀ hadı , “ Įłè sadzea kò sexè ts'ıgoahdì ha dìì nì ?
+40026050	ayìı		Zezì yets'ǫ̀ hadı , “ Àgı̨ą , ayìı dànele gha anet'ı̨ı̨ sìı ı̨whąą̀ hanele , ” yèhdı . Eyıt'à dǫ hazǫǫ̀ Zezì gà nàgòı̨hwho , dagıachì gà negıìchì .
+40026054	ayìı		Eyı weehkè nı̨dè , Nǫ̀htsı̨ Nı̨htł'è k'e ayìı dek'eèhtł'èe sìı wek'ę̀ę̀ agode ha nıìle , ” Zezì yèhdı .
+40026062a	~		Eyıt'à yahtıı-wet'àaɂàa-deè nıìtła gà Zezì ts'ǫ̀ hadı , “ Dǫ neghǫ dàgedıı sìı wek'e xàyaı̨htı ha-le nì ? 
+40026062b	ayìı		Dǫ ayìı nek'e nìdahogeeɂàa sìı weghǫ dàı̨dı ha ? ” yèhdı .
+40026065	~		Hadı t'à yahtıı-wet'àaɂàa-deè sıì wek'èch'a t'à edeɂeè tàı̨hdlà gà dǫ hazǫǫ̀ ts'ǫ̀ hadı , “ Nǫ̀htsı̨ k'èch'a xàyaı̨htı hodeè ! Hòt'a k'achı̨ dǫ gık'e nìdahogeeɂà-le kò . Naxı̨ xàè weyatıì ààhkw'o hǫt'e .
+40026066	Dànì		Dànì wesınìyaahtı ha dahwhǫ ? ” gòhdı . “ Dàdıı sìı k'èxa ełaàwı ha hǫt'e , ” gedı .
+40026068	amìı		hagıìhdı , “ Chrıst , nakwenàoɂǫǫ anet'e nı̨dè amìı nànı̨ı̨ht'ıı sìı gots'ǫ̀ haı̨dı , ” gıìhdı .
+40027004	~		Hagòhdı , “ Dǫ ekǫ-le eghàlaı̨da-le kò sǫǫ̀mba k'èxa naxıtł'àwııhtı̨ t'à hołı̨ı̨ hòwhıhtsı̨ , ” gòhdı . “ Nı̨ nets'ǫ̀ hoèlı̨ ne , ” gıìhdı .
+40027013	~		Eyıt'à k'àowo Pılate dayeehke , “ Nek'e nìdahogeeɂà , asį̀į̀ gı̨į̀kw'o ? ” yèhdı .
+40027017	Amìı		Eyıt'à dǫ hazǫǫ̀ ełexè mǫ̀ht'a nàgeèhza ekò k'àowo Pılate gots'ǫ̀ hadıì dagoehke , “ Amìı naxıts'ǫ̀ xàetłaà awehłe ha dahwhǫ : Barabas hanì-le-ı̨dè Zezì , Chrıst wèts'edıı sìı ? ” Pılate gòhdı .
+40027021	amìı		K'àowo Pılate dagoehke , hagòhdı , “ Dıı dǫ nàke sìı amìı naxıts'ǫ̀ xàetłaà awehłe ha dahwhǫ ? ” Dǫ hazǫǫ̀ hagedı , “ Barabas gots'ǫ̀ xàetłaà awı̨ı̨le , ” gıìhdı .
+40027022	dàwehłe		Eyıt'à k'àowo Pılate dagoehke , “ Ekò dıı dǫ Zezì , Chrıst wèts'edıı sìı , dàwehłe ha ? ” gòhdı . Dǫ hazǫǫ̀ hagedı , “ Dechı̨et'aa k'e wedı̨į̀htsò ! ” gedı .
+40027023a	Ayìı gha		K'àowo Pılate dagoehke , “ Ayìı gha ? 
+40027023b	Ayìı		Ayìı hoìla hòèhtsı̨ k'èxa ? ” gòhdı . Hanìkò k'èdaà hòtł'ò yagìzeh , hagedı , “ Dechı̨et'aa k'e wedı̨į̀htsò ! ” gıìhdı .
+40027046	ayìıha		Taı nìı̨ɂǫ ekìıyeè Zezì hòtł'ò whezeh , hadı , “ Eloı , Eloı , lama sabahtanı ? ” ( “ Eloı , Eloı , lama sabahtanı ? ” gedıı sìı “ Senǫ̀htsı̨ , Senǫ̀htsı̨ , ayìıha sets'ǫǫ̀ anejà ? ” gedıì-agedı . )
+41001024	dàgǫǫle		“ Nazareth got'ı̨į̀ Zezì dàgǫǫle ha ? Godıhoǫhtsı̨ ha nì-anet'ı̨ ? Amìı anet'e nek'èehsǫ ne . Nǫ̀htsı̨ wets'ǫ degaı anet'e ! ” yèhdı .
+41001027	Dàgot'ı̨		Dǫ hazǫǫ̀ gıgha enıìyah t'à ełets'ǫ̀ hagedı , “ Dàgot'ı̨į̀-agot'ı̨ ? Nàowo eładı̨ı̨ k'ę̀ę̀ hoghàgoehtǫ eyıts'ǫ ededı̨ t'asìı hazǫǫ̀ ts'ǫ̀ k'àowo elı̨ ladıì gode . Yatı nàtsoo t'à ı̨nìłı̨ı̨ ts'ǫ̀ gode nı̨dè gık'èı̨t'e , ” gedı .
+41002007a	Ayìı		“ Ayìı aht'e edeewǫ hanì gode ? Nǫ̀htsı̨ k'èch'a gode ! 
+41002007b	~		Nǫ̀htsı̨ zǫ gohołı̨į̀ goghǫ nahoele hǫt'e , ” hagı̨ı̨wǫ .
+41002008	Dànìghǫ		Ekòet'ıì Zezì edets'ǫ ınì t'à dànì ededzeè t'à nànıgedèe sìı gok'èezǫ t'à hagòhdı , “ Dànìghǫ hanì nànıahdè ?
+41002009	~		Dǫ wekw'ǫǫ̀ ełaı̨dèe sìı dàwets'edı nı̨dè denahk'e dezhì-le : ‘ Nehołı̨į̀ neghǫ nahoazha , ’ hanì-le-ı̨dè ‘ Nıį̀tła gà k'eı̨tło . ’
+41002016	Dànìghǫ		Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ , Pharısee gı̨ı̨lı̨ı̨ sìı Zezì sǫǫ̀mba-nàhtsį̀ı̨-dǫǫ̀ eyıts'ǫ hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ xè shètı̨ gıaɂı̨ ekò , Zezì wecheekeè ts'ǫ̀ hagedı , “ Dànìghǫ Zezì sǫǫ̀mba-nàhtsį̀ı̨-dǫǫ̀ eyıts'ǫ hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ xè shètı̨ ? ” gògedı .
+41002018	Dànìghǫ		John-Baptıst wecheekeè eyıts'ǫ Pharısee gı̨ı̨lı̨ı̨ sìı edegegǫ ı̨lè . Eyıt'à dǫ mǫ̀hdaa Zezì ts'ǫ̀ hagedı , “ John-Baptıst wecheekeè edegegǫ , eyıts'ǫ Pharısee gıcheekeè sı haget'ı̨ . Dànìghǫ necheekeè edegegǫ-le ? ” gıìhdı .
+41002019	~		Zezì gots'ǫ̀ hadı , “ K'ǫ̀ądzàa ı̨łaà goxè wheda et'ıì , dǫ gıghǫ nìı̨dee sìı edegegǫ ha nì ? Į̀le ne , k'ǫ̀ądzàa ı̨łaà goxè wheda et'ıì edegegǫ ha nıìle .
+41002024	Dànìghǫ		Pharısee gı̨ı̨lı̨ı̨ sìı Zezì ts'ǫ̀ hagedı , “ Necheekeè gıghàı̨da ! Dànìghǫ Nǫ̀htsı̨ Dzęę̀ k'e ayìı wets'àet'ǫǫ sìı hagehɂı̨ ? ” gıìhdı .
+41003004	ayìı		Eyı tł'axǫǫ̀ Zezì dǫ gıts'ǫ̀ xànegı̨ı̨ɂaa sìı gots'ǫ̀ hadı , “ Nǫ̀htsı̨ Dzęę̀ k'e ayìı wets'àet'ǫ-le ? Dǫ ts'ǫ̀ nezı̨į̀ eghàlats'eedaa , hanì-le-ı̨dè dǫ ts'ǫ̀ hoìla ghàlats'eedaa ? Dǫ edaxàts'elee hanì-le-ı̨dè dǫ ełaàts'ehwhıı ? ” gòhdı . Hanìkò Zezì ts'ǫ̀ t'asagedı-le .
+41003023	ayìıha		Eyıt'à Zezì Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ gokayaı̨htı gà godı t'à goxè godoò hadı , “ Wehłı̨ı̨ sìı ayìıha ı̨nìłı̨ı̨ xàgodeezhı nıwǫ welì ?
+41003033a	Amìı		Zezì gots'ǫ̀ hadı , “ Amìı semǫ ne ? 
+41003033b	Amìı		Amìı sechı agı̨ı̨t'e ? ” gòhdı .
+41004013	dànì		Eyı tł'axǫǫ̀ Zezì gots'ǫ̀ hadı , “ Dànìghǫ godı wenıahdì-le ? Hanì-ı̨dè dànì godı eyıì-le naxıts'ǫ̀ haehsı̨ı̨ sìı wenıahdì ha welì ?
+41004030a	ayìı		Zezì k'achı̨ gots'ǫ̀ hadı , “ Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ sìı ayìı xèht'eè lanì ? 
+41004030b	dàhòt'ı̨ı̨		Godı dàhòt'ı̨ı̨ t'à naxıts'ǫ̀ wek'ayahtı welì ?
+41004038	~		Hanìkò Zezì ı̨dè tè k'e elà yìı whetı̨ nǫǫ̀ . Wecheekeè ts'ıgį̀ı̨hwho , hagıìhdı , “ Gots'ǫ̀ K'àowo , tı t'à ełaàts'ede ha nìkw'o . Negha t'asanìle nì ? ” gıìhdı .
+41004040a	Dànìghǫ		Zezì edecheekeè gots'ǫ̀ hadı , “ Dànìghǫ sıì dahjı̨ ? 
+41004040b	~		Įłaà Nǫ̀htsı̨ ts'ǫ̀ naxınì nàtso-le nì ? ” gòhdı .
+41004041	amìı		Zezì wecheekeè sıì geèhyeh t'à ełets'ǫ̀ hagedı , “ Dıı amìı ne ? Nı̨hts'ı eyıts'ǫ taatı̨į̀ kò gık'į̀ı̨t'e , ” gedı .
+41005007	ayìıha		Zezì yets'ǫ̀ hadı , “ Įnìłı̨ı̨ , dıı dǫ yìı gots'ǫ xàı̨tłe , ” yèhdı . Eyıt'à eyı dǫ hòtł'ò ezeh xè hadı , “ Zezì , Nǫ̀htsı̨ wenahk'e gǫ̀hłı̨-le Weza , ayìıha sek'alaąwo . Nǫ̀htsı̨ wıızì dahxà hoìla ası̨ı̨le ha-le gha neyatıì seghàı̨ɂà , ” yèhdıì ezeh .
+41005009	Dànìyeh		Zezì dayeehke , “ Dànìyeh ? ” yèhdı . “ Įnìłı̨ı̨ łǫ sets'ǫ̀-èlı̨ t'à , ‘ Łǫ ’ sìyeh , ” dǫ hadı .
+41005030	Amìı		Ekòet'ıì Zezì t'asìı nàtsoo weyìı gots'ǫ xàı̨wo yek'èhoèhzà t'à , dǫ nı ets'aèhtła gà hadı , “ Amìı seɂeè daachì ? ” gòhdı .
+41005031	Amìı		Wecheekeè hagıìhdı , “ Dǫ łǫ nets'agehtsı wek'èı̨zǫ , hanìkò , ‘ Amìı daseachì , ’ nı̨ı̨dı , ” gıìhdı .
+41005035	~		Įłaà Zezì gode ekò ełègehdèe-kǫ̀ gha k'àowo Jaırus wekǫ̀ gots'ǫ dǫ mǫ̀hdaa eyı nègı̨ı̨de , Jaırus ts'ǫ̀ hagedı , “ Netì ełaı̨wo . Gots'ǫ̀ K'àowo nekǫ̀ nàwetła-le kò , ” gıìhdı .
+41005039a	Ayìıha		Zezì goyaèhtła gà gots'ǫ̀ hadı , “ Ayìıha 
+41005039b	~		tse t'à nàdahoowo ? T'eekoa ełaı̨wo nıìle , ekìı whetı̨ hǫt'e , ” gòhdı .
+41006002a	Amìı		Nǫ̀htsı̨ Dzęę̀ k'e ełègehdèe-kǫ̀ dǫ hoghàehtǫ . Dànì gots'ǫ̀ goı̨de t'à sıì gıgha enıìyah lanì , ełets'ǫ̀ hagedı , “ Amìı hanì eghàlaeda ha yeghàhòı̨ɂǫ ? 
+41006002b	Dànıt'à		Dànıt'à dıı dǫ sıì gǫǫzǫ xè enıìyah hohtsı̨ ?
+41006002c	~		
+41006022	Ayìı		Ekìıyeè k'e Herodıas wetì goyaèhtła , Herod eyıts'ǫ dǫ hazǫǫ̀ yexè shègezhee sìı gogha datło . Herod eyıts'ǫ dǫ hazǫǫ̀ gha nezı̨ at'ı̨ t'à , Herod t'eekoa ts'ǫ̀ hadı , “ Ayìı neewǫǫ sìı neghàehɂà ha , ” yèhdı .
+41006024	Ayìı		T'eekoa edemǫ ts'ǫ̀ èhtła , hayèhdı , “ Ayìı weehkè lì ? ” yèhdı . Herodıas hayèhdı , “ ‘ John-Baptıst wekwì dehwhǫ , ’ wìı̨dı , ” yèhdı .
+41006037	~		Hanìkò Zezì gots'ǫ̀ hadı , “ Naxı̨ t'asìı gıghàahdı . ” Wecheekeè gıts'ǫ̀ hadı , “ Gıgha łèt'è nàts'eèhdì nı̨dè , ek'èdı̨ sa eghàlats'ı̨ı̨dà xètłǫ sǫǫ̀mba wek'ehowı ha . Shègezhe gha , sǫǫ̀mba haàtłǫǫ wek'ehots'ehwhı ha neewǫ nì ? ” gıìhdı .
+41006038	dàtłǫ		Zezì gots'ǫ̀ hadı , “ Łèt'è dàtłǫ naxıts'ǫ ? ” gòhdı . Gık'aèhtǫ tł'axǫǫ̀ Zezì ts'ǫ̀ hagedı , “ Łèt'è sı̨làı eyıts'ǫ łıwe nàke gots'ǫ , ” gıìhdı .
+41007005	Dànìghǫ		Eyıt'à Pharısee gı̨ı̨lı̨ı̨ eyıts'ǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ Zezì ts'ǫ̀ hagedı , “ Dànìghǫ necheekeè gocho gınàowoò k'ę̀ę̀ geeda-le ? Edılà ‘ degaı ’ agį̀į̀là-le et'ıì shègezhe , ” gıìhdı .
+41008004	edı̨į̀		Wecheekeè gıts'ǫ̀ hadı , “ Kǫ̀ta gòlaa ts'ǫ̀ gǫǫwà agǫ̀ht'e , eyıt'à edı̨į̀ gots'ǫ dǫ gıgha łèt'è deghàà nàts'eehdì ha ? ” gedı .
+41008005	dàtłǫ		Zezì gots'ǫ̀ hadı , “ Łèt'è dàtłǫ naxıts'ǫ ? ” “ Łèt'è łǫ̀hdı̨ , ” gıìhdı .
+41008012	Dànìghǫ		Eyı dǫ gıkwì dezhì t'à Zezì hòtł'ò dèhjı xè hadı , “ Dànìghǫ dıı dǫ enıìyah deè geɂį̀ ha gı̨ı̨wǫ ? Ehkw'ı anaxèehsı̨ , hanıı wı̨ı̨zìı geɂį̀ ha nıìle , ” gòhdı .
+41008017	Dànìghǫ		Zezì hanì gogede gok'èezǫ t'à gots'ǫ̀ hadı , “ Dànìghǫ łèt'è whìle ghǫ ełets'ǫ̀ goahde ? Įłaà naxıkwì yìekw'ı-le nì ? Naxınì t'à nànıahdè ha dezhì nì ?
+41008018a	~		Naxıdaà eyıts'ǫ naxıdzıìhkw'ǫǫ̀ gǫ̀hłı̨-le nì ? 
+41008018b	~		Eyı ts'ıhɂǫ̀ k'eaht'į̀-le xè aàhkw'ǫ-le nì ? Dıì whaà-le dàgòjàa sìı asį̀į̀ wenaahdì ?
+41008019	dàtłǫ		Łèt'è sı̨làı t'à dǫzhìı sı̨làı-lemì gıwàhǫǫdì ekò t'asìı ghàgeèɂàa sìı tł'ohtǫ dàtłǫ dagoòɂǫǫ nàwhahtsı̨ nǫǫ̀ ? ” “ Hoònǫ-daats'ǫ̀-nàke , ” gıìhdı .
+41008020	dàtłǫ		“ Eyıts'ǫ łèt'è łǫ̀hdı̨ t'à dǫzhìı dı̨-lemì gıwàhǫǫdì ekò t'asìı ghàgeèɂàa sìı tł'ohtǫ dàtłǫ dagoòɂǫ aahłà nǫǫ̀ ? ” “ Łǫ̀hdı̨ , ” gıìhdı .
+41008021	~		“ Hanì nı̨dè , ı̨łaà naxıkwì yìekw'ı-le nì ? ” Zezì gòhdı .
+41008023	~		Zezì dǫ wedaà goìlee yılà nıìchì gà kǫ̀ta gots'ǫǫ̀ gòyeèdì . Dǫ wedaà k'e dèze , edılà yek'e ayį̀į̀là gà yets'ǫ̀ hadı , “ T'asìı negha wègaat'ı̨ nì ? ” yèhdı .
+41008027	amìı		Zezì eyıts'ǫ wecheekeè kǫ̀ta Caesarea-Phılıppı gà kǫ̀ gòlaa ts'ǫ̀ geède . Ekǫ gıadè ekò edecheekeè gots'ǫ̀ hadı , “ Dǫ amìı aht'e sègedı ? ” gòhdı .
+41008029a		~	Zezì dagoehke , “ Ekò naxı̨ , 
+41008029b	amìı		amìı aht'e sèahdı ? ” gòhdı . Peter Zezì ts'ǫ̀ hadı , “ Nı̨ sìı Chrıst anet'e , ” yèhdı .
+41008036	~		Dıı nèk'e dǫ t'asìı hazǫǫ̀ edegha dèhnǫ kò wedą̀ązhį̀ı̨ weghǫ wedıhòłı̨ nı̨dè eyı hazǫǫ̀ wegha wet'àaɂà nıìle .
+41008037	~		Dǫ t'asìı wı̨ı̨zìı k'èxa ededą̀ązhį̀ı̨ dehnè ha nıìle .
+41009010	dàdıì-adı		Eyıt'à ayìı gıaɂı̨ı̨ sìı weghǫ dǫ wı̨ı̨zìı ts'ǫ̀ hagedı-le , eyı wecheekeè taı sìı Zezì “ naìdà ” ghǫ godee sìı dàdıì-adı gı̨ı̨wǫ t'à ełets'ǫ̀ zǫ gıghǫ gode .
+41009011	Dànìghǫ		Wecheekeè taı dageehke , “ Dànìghǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ nakwenàoɂǫǫ Elıjah t'akwełǫ̀ǫ̀ nììtła ha , gedı , ” gıìhdı .
+41009012	~		Zezì hagòhdı , “ Ehkw'ı agedı , Elıjah t'akwełǫ̀ǫ̀ nììtła ha hǫt'e , t'asìı hazǫǫ̀ sınìhòɂà ha . Hanìkò nakwenàoɂǫǫ dıı hanì dek'enègı̨ı̨tł'è : Dǫ-wet'àaɂàa-deè daı̨ɂa ha eyıts'ǫ dǫ hazǫǫ̀ gıgha wedę ha .
+41009016	Ayìı ghǫ		Zezì gots'ǫ̀ hadı , “ Ayìı ghǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ gıts'ǫ̀ nàyaahtı ? ” gòhdı .
+41009019a	Dàwhaà		Zezì gots'ǫ̀ hadı , “ Naxı̨ dǫ yàahłı̨ı̨ sìı naxıgha ehkw'ı-ahodı-le . Dàwhaà ts'ǫ̀ naxıxè aht'e ha ? 
+41009019b	Dàwhaà		Dàwhaà ts'ǫ̀ sınì tsį̀ahwhı ha ? ” Hadı tł'axǫǫ̀ dǫzhìa wetà ts'ǫ̀ hadı , “ Neza sets'ǫ̀ wı̨ı̨hchı , ” yèhdı .
+41009021	Dàwhaà		Zezì dǫzhìa wetà daehke , “ Dàwhaà ts'ǫ neza dıı hanì nǫǫ̀ ? ” Dǫ yets'ǫ̀ hadı , “ Dǫzhìa nechà-lea elı̨ ts'ǫ hanì hǫt'e .
+41009028	Dànìghǫ		Zezì kǫ̀ goyaèhtła tł'axǫǫ̀ wecheekeè whatsǫǫ̀ dageehke , “ Dànìghǫ goxı̨ ı̨nìłı̨ı̨ xàwedets'eezhı ha dìì ? ” gıìhdı .
+41009033	Ayìı ghǫ		Kǫ̀ta Capernaum nègı̨ı̨de . Kǫ̀ goyìı geèhkw'e ekò Zezì edecheekeè dagoehke , “ Tı̨lı k'e nats'adè ekò ayìı ghǫ ełets'ǫ̀ nàyaahtı nǫǫ̀ ? ” gòhdı .
+41009050	dànì		“ Dewa nezı̨ hǫt'e , hanìkò dewa łedì-le ajà nı̨dè dànì łedì anajà lì ? Dewa nàtsoo laaht'e eyıts'ǫ ełexè ts'èwhı̨į̀ aahda , ” Zezì edecheekeè gots'ǫ̀ hadı .
+41010003	dàhòt'ı̨ı̨		Zezì gots'ǫ̀ hadı , “ Moses nàowo dàhòt'ı̨ı̨ naxıghàı̨ɂǫ ? ” gòhdı .
+41010017	ayìı		Zezì t'asį̀ı̨ ts'ǫ̀ naèhtła ekò dǫ ı̨łè yets'ǫ̀ tı̨mǫèhza gà yegà nàgòı̨hgè , hayèhdı , “ K'àowo nezı̨ı̨ , ayìı dàhłà nı̨dè welǫ whìle ts'ǫ̀ ehdaà asedle ha ? ” yèhdı .
+41010018	Ayìıha		Zezì yets'ǫ̀ hadı , “ Ayìıha k'àowo nezı̨ı̨ sį̀ı̨dı ? Dǫ nezı̨ gǫ̀hłı̨ nıìle ; Nǫ̀htsı̨ zǫ nezı̨ hǫt'e .
+41010026	amìı		Wecheekeè sıì deɂǫ̀ǫ̀ gıgha enıìyah t'à hagedı , “ Hanì-ı̨dè amìı edaxàweètı̨ lì ? ” gedı .
+41010036	ayìı		“ Naxıgha ayìı dàhłe ha seahwhǫ ? ” Zezì gòhdı .
+41010051	Ayìı		Zezì yets'ǫ̀ hadı , “ Ayìı negha dàhłe ha seneehwhǫ ? ” yèhdı . Eyı dǫ Zezì ts'ǫ̀ hadı , “ K'àowo , segha xègaat'ı̨ ha dehwhǫ , ” yèhdı .
+41011003	Ayìı gha		‘ Ayìı gha aahɂı̨ ? ’ dǫ naxèhdı nı̨dè , ‘ Gots'ǫ̀ K'àowo yet'à-at'ı̨ ha nıwǫ . Ekòet'ıì neghǫ yeechı ha , ’ hawèahdı nǫǫ̀ , ” Zezì gòhdı .
+41011005	Ayìıha		dǫ mǫ̀hdaa eyı nàgeèhzaa sìı gots'ǫ̀ hagedı , “ Dànìghǫ aahɂı̨ ? Ayìıha tłı̨tsoa daahgè ? ” gògedı .
+41011028a	Ayìı		hagedı , “ Ayìı dahxà dıı hanì eghàlaı̨da ? 
+41011028b	Amìı		Amìı hanì neghàhòı̨ɂǫ t'à anet'ı̨ ? ” gıìhdı , dageehke .
+41011030	amìı		John-Baptıst dǫ k'ètaìdzı̨ı̨ sìı amìı dahxà at'ı̨ nǫǫ̀ ? Yak'e godahxà at'ı̨ hanì-le-ı̨dè dǫ dahxà at'ı̨ ? Dàahwhǫǫ sìı sedaahdı , ” gòhdı .
+41011031a	~		Eyı ghǫ ełets'ǫ̀ hagedı , “ ‘ Yak'e godahxà at'ı̨ , ’ ts'edı nı̨dè , 
+41011031b	Dànìghǫ		‘ Dànìghǫ ehkw'ı adı dahwhǫ-le nǫǫ̀ ? ’ gòhdı ha .
+41012009	dàgole		“ Eyıt'à k'àowo dèè-k'ègedìı-dǫǫ̀ gınezı̨-le sìı dàgole ha ? K'àowo ekǫ nììtła nı̨dè eyı dǫ ełaàgòhde ha , eyıts'ǫ dèè dǫ eyıì-le ghàyeɂà ha .
+41012015	Ayìıha		Sǫǫ̀mba wets'àts'eehdì ha hanì-le-ı̨dè hats'ele ha-le ? ” gıìhdı . Hanìkò Zezì eghǫyageeɂàa-dǫǫ̀ agı̨ı̨t'e gok'èezǫ . Eyıt'à gots'ǫ̀ hadı , “ Ayìıha seahdzà xè seyatıì t'à sek'e nìdahoahɂà ha dahwhǫ ? Satsǫ̀ą degoo weghàıhdà , ” gòhdı .
+41012016a	amìı		Satsǫ̀ą degoo gıghàèchì tł'axǫǫ̀ , Zezì gots'ǫ̀ hadı , “ Amìı wekwì eyıts'ǫ 
+41012016b	amìı		amìı wıızì dek'e wheɂǫ ? ” gòhdı . “ K'àowodeè Caesar , ” gıìhdı .
+41012023	amìı		Eyıt'à dǫ naìdàa dzęę̀ k'e nı̨dè eyı ts'èko ełechı łǫ̀hdı̨ hazǫǫ̀ goxè hǫat'į̀ ne t'à amìı ts'èkeè elı̨ ha ? ” gedıì Zezì dageehke .
+41012028	ayìı		Nǫ̀htsı̨-yatıì-k'èdìı-dǫǫ̀ ı̨łè ekǫ nììtła ekò Zezì Sadducee gı̨ı̨lı̨ı̨ goxè nàyaehtı yıìkw'o . Zezì yatı ehkw'ıı goghàı̨ɂǫ yenıedì ts'ıhɂǫ̀ Zezì ts'ǫ̀ hadı , “ Moses wenı̨htł'è gots'ǫ ayìı nàowo denahk'e wet'àaɂà ? ” yèhdı .
+41012035	Dànìghǫ		Zezì Nǫ̀htsı̨kǫ̀-gocho gà dǫ hoghàehtǫ ekò , gots'ǫ̀ hadı , “ Dànìghǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ Chrıst , k'àowocho Davıd Weza ne gıìhdı ?
+41012037	dànì t'à		Hanì dek'eèhtł'è-ı̨dè , Davıd ‘ sets'ǫ̀ K'àowo ’ yèhdı nı̨dè dànì t'à yeza elı̨ welì ? ” Zezì gòhdı . Dǫ łǫ Zezì geèhkw'ǫǫ sìı dànì gots'ǫ̀ xàyaı̨htı t'à gınà .
+41013004a	Dàht'e-ı̨dè		“ Dàht'e-ı̨dè hagode ha sìı gots'ǫ̀ haı̨dı . 
+41013004b	ayìı		Hagode ha nìkw'o nı̨dè ayìı ghàà wek'èts'eezǫ ha ? ” gıìhdı .
+41014004	Ayìıha		Hanìkò dǫ mǫ̀hdaa eyı geèhkw'ee sìı gıgha nezı̨-le t'à , ełets'ǫ̀ hagedı , “ Ayìıha dıı yìk'eetł'òo t'asìı kaà-le nałayeehtł'ì ?
+41014006	Ayìıha		Zezì gots'ǫ̀ hadı , “ Whatsǫǫ̀ awet'į̀ . Ayìıha dıı ts'èko ts'ǫ̀ sǫahdı ? Segha t'asìı nezı̨ı̨ hayį̀į̀là hǫt'e .
+41014012	Edı̨į̀		Passover dzęę̀ xèhǫǫ̀wo ekò ( eyı dzęę̀ k'e taàt'eè yahtıı , Passover gha , sahzǫ̀ą Nǫ̀htsı̨ ts'ǫ̀ gık'eehk'ǫ̀ ) , Zezì wecheekeè dageehke , hagedı , “ Edı̨į̀ nàsı̨ Passover ghǫ shèı̨tı̨ ha ? Negha sıìgots'ele ha neewǫ nì ? ” gıìhdı .
+41014014	Edı̨į̀		Kǫ̀ goyaèhtła nı̨dè dǫ wekǫ̀ agǫ̀ht'ee sìı wets'ǫ̀ dıı haahdı , ‘ Gots'ǫ̀ K'àowo nets'ǫ̀ hadı : Edı̨į̀ shèts'ezhe gha gòɂǫ ? Secheekeè gıxè nàsı̨ Passover ghǫ shètı̨ ha dehwhǫ , ’ wèahdı .
+41014060a	~		Eyıt'à yahtıı-wet'àaɂàa-deè gonadąą̀ nıìtła gà Zezì ts'ǫ̀ hadı , “ Dǫ neghǫ dàgedıı sìı wek'e xàyaı̨htı ha-le nì ? 
+41014060b	ayìı ghǫ		Dǫ ayìı ghǫ nek'e nìdahogeeɂàa sìı weghǫ dàı̨dı ha ? ” yèhdı .
+41014063	~		Hadı t'à yahtıı-wet'àaɂàa-deè sıì wek'èch'a t'à edeɂeè tàı̨hdlà gà dǫ gots'ǫ̀ hadı , “ Hòt'a k'achı̨ dǫ gık'e nìdahogeeɂà-le kò .
+41014064	Dànì		Goxı̨ xàè Nǫ̀htsı̨ k'èch'a xàyaı̨htıı sìı wets'ıìhkw'o ne . Dànì wesınìyaahtı ha ? ” gòhdı . “ Dàdı k'èxa ełaàwı ha , ” gedı , hazǫǫ̀ gısınìyaı̨htı .
+41015004	~		Eyıt'à k'àowo Pılate k'achı̨ dayeehke , “ Edegha xàyaąhtı ha-le nì ? T'asìı łǫ nek'e nìdahogį̀ı̨hɂǫǫ sìı wenı̨ı̨dì sǫnaà , ” yèhdı .
+41015012	dàwehłe		K'àowo Pılate dagoehke , “ Ekò dıı dǫ Israel got'ı̨į̀ gha k'àowocho wèahdıı sìı , dàwehłe ha ? ” gòhdı .
+41015014a	Ayìı gha		K'àowo Pılate gots'ǫ̀ hadı , “ Ayìı gha ? 
+41015014b	Ayìı		Ayìı hoìla hòèhtsı̨ k'èxa ? ” gòhdı . Hanìkò k'èdaà hòtł'ò yagìzeh , hagedı , “ Dechı̨et'aa k'e wedeàhtsò ! ” gıìhdı .
+41015034	ayìıha		Taı nìı̨ɂǫ ekìıyeè Zezì hòtł'ò whezeh , hadı , “ Eloı , Eloı , lama sabahtanı ? ” ( “ Eloı , Eloı , lama sabahtanı ? ” gedı nı̨dè “ Senǫ̀htsı̨ , Senǫ̀htsı̨ , ayìıha sets'ǫǫ̀ anejà ? ” gedıì-agedı . )
+41016003	amìı		Ełets'ǫ̀ hagedı , “ Zezì wekw'ǫǫ̀ kwe yìı whetǫǫ sìı kwe nechàa enìı̨ɂǫ là amìı gogha yı̨ı̨ɂǫ̀ǫ̀ ayį̀į̀là lì ? ” gedı .
+42001018	ayìı		Zecharıah yak'eet'ı̨į̀ ts'ǫ̀ hadı , “ Eyı hagode ha ayìı ghàà wek'èehsǫ lì ? Hòt'a eneèko whıhłı̨ eyıts'ǫ sets'èkeè sı ts'ǫǫ̀ko whelı̨ , ” yèhdı .
+42001034	dànì		Mary yak'eet'ı̨į̀ ts'ǫ̀ hadı , “ Dǫzhìı k'èehsǫ-le t'à , dànì sexè hagòjà lì ? ” yèhdı .
+42001043	~		Sets'ǫ̀ K'àowo wemǫ sets'àèhtła t'à sets'ǫ̀ sìghà nàhòwo .
+42001066	ayìı		Dǫ hazǫǫ̀ gıghǫìkw'oo sìı hagı̨ı̨wǫ , “ Hanì-ı̨dè dıı chekoa sìı ayìı elı̨ ha sǫnı , ” gedı . Gots'ǫ̀ K'àowo wenàowoò wets'ǫ̀-èlı̨ gık'èezǫ .
+42002048	dànìghǫ		Wetà eyıts'ǫ wemǫ gıaɂı̨ ekò gıgha enıìyah dìì . Wemǫ yets'ǫ̀ hadı , “ Seza , dànìghǫ anet'ı̨ ? Netà sı nekadıìwǫ t'à sıì neghǫ nànıts'edè ı̨lè , ” yèhdı .
+42002049	Dànìghǫ		Zezì yets'ǫ̀ hadı , “ Dànìghǫ sekak'eaht'į̀ nǫǫ̀ ? Setà wekǫ̀ goyìı eghàlaehda ha wek'èahsǫ-le nì ? ” gòhdı .
+42003007	Dànıt'à		Dǫ łǫ gık'ètaìdzı̨ ha , John-Baptıst ts'ǫ̀ geède t'à , gots'ǫ̀ hadı , “ Naxı̨ , wehłı̨ı̨ weza laaht'e ! Dànıt'à Nǫ̀htsı̨ naxeehkwa ch'à kwı̨ahdè ha dahwhǫ nǫǫ̀ ?
+42003010	ayìı dàts'ı̨ı̨		Eyıt'à dǫ John-Baptıst dageehke , “ Hanì-ı̨dè ayìı dàts'ı̨ı̨là lì ? ” gıìhdı .
+42003012	ayìı dàts'ele		Sǫǫ̀mba nàgehtsį̀ı̨ gı̨ı̨lı̨ı̨ ededı̨ sı gık'ètaìdzı̨ ha eyı nègı̨ı̨de . John-Baptıst ts'ǫ̀ hagedı , “ K'àowo , goxı̨ ayìı dàts'ele ha ? ” gıìhdı .
+42003014a	~		Eghǫǫ-dǫǫ̀ , ededı̨ sı , John-Baptıst dageehke : “ Ekò goxı̨ 
+42003014b	ayìı dàts'ele		ayìı dàts'ele ha ? ” gıìhdı . Hagòhdı , “ Sǫǫ̀mba gha dǫ k'alaahdè-le , eyıts'ǫ hoahts'ì t'à dǫ k'e nìdahoahɂà-le . Sǫǫ̀mba naxıts'àɂeedìı sìı eyı weghǫ hòt'a masì dahwhǫ , ” gòhdı .
+42004034	dàgǫǫle		“ Nazareth got'ı̨į̀ Zezì , dàgǫǫle ha ? Godıhoǫhtsı̨ ha nì anet'ı̨ ? Amìı anet'ee sìı nek'èehsǫ . Nǫ̀htsı̨ wets'ǫ degaı anet'e ! ” yèhdı .
+42004036	~		Dǫ hazǫǫ̀ gıgha enıìyah t'à ełets'ǫ̀ hagedı , “ Yatı enıìyah t'à gode eyıts'ǫ t'asìı hazǫǫ̀ ts'ǫ̀ k'àowo k'ę̀ę̀ gode . Yatı nàtsoo t'à ı̨nìłı̨ı̨ ts'ǫ̀ gode nı̨dè xàgeedè , ” gedı .
+42005021a	amìı		Pharısee gı̨ı̨lı̨ı̨ eyıts'ǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ hagı̨ı̨wǫ , “ Eyı dǫ amìı aht'e edeewǫ ? 
+42005021b	~		Nǫ̀htsı̨ k'èch'a gode . Nǫ̀htsı̨ zǫ gohołı̨į̀ goghǫ nahoele hǫt'e , ” hagı̨ı̨wǫ .
+42005022	Dànìghǫ		Zezì dànì nànıgedèe sìı gok'èezǫ t'à dagoehke , “ Dànìghǫ naxıdzeè yìı hanì nànıahdè ?
+42005023	~		Dǫ wekw'ǫǫ̀ ełaı̨dèe sìı dàwets'edı nı̨dè denahk'e dezhì-le . ‘ Nehołı̨į̀ neghǫ nahoazha , ’ ts'edı hanì-le-ı̨dè ‘ Nıį̀tła gà k'eı̨tło . ’
+42005030	Dànìghǫ		Hanìkò Pharısee gı̨ı̨lı̨ı̨ eyıts'ǫ gıta gots'ǫ Nǫ̀htsı̨-yatıì-k'ègedìı-dǫǫ̀ Zezì wecheekeè ts'ǫ̀ sǫagedı , “ Dànìghǫ sǫǫ̀mba-nàhtsį̀ı̨-dǫǫ̀ eyıts'ǫ hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ xè shèahzhe xè aahdǫ ? ” gògedı .
+42005033	~		Zezì ts'ǫ̀ hagedı , “ John-Baptıst wecheekeè t'aats'ǫǫ̀ edegegǫ xè yagehtı , eyıts'ǫ Pharısee gıcheekeè sı haget'ı̨ , hanìkò nı̨ necheekeè t'aats'ǫǫ̀ shègezhe xè gedǫ , ” gògedı .
+42005034	~		Zezì gots'ǫ̀ hadı , “ K'ǫadzàa ı̨łaà goxè wheda et'ıì , dǫ gıghǫ nìı̨dee sìı edegegǫ ha nì ?
+42006002	Dànìghǫ		Pharısee gı̨ı̨lı̨ı̨ mǫ̀hdaa dagogeehke , “ Dànìghǫ Nǫ̀htsı̨ Dzęę̀ k'e ayìı wets'àet'ǫǫ sìı haahɂı̨ ? ” gògedı .
+42006009	ayìı		Zezì gots'ǫ̀ hadı , “ Nǫ̀htsı̨ Dzęę̀ k'e ayìı wets'àet'ǫ-le ? Dǫ ts'ǫ̀ nezı̨į̀ eghàlats'eeda , hanì-le-ı̨dè dǫ ts'ǫ̀ hoìla eghàlats'eeda ? Dǫ edaxàts'eehtèe hanì-le-ı̨dè dǫ ełaàts'ehwhıı ? ” gòhdı .
+42006032	~		“ Dǫ naxıghǫnegeètǫ zǫ gıghǫnıahtǫ nı̨dè eyı t'asìı nıìle . Hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ , ededı̨ kò ełeghǫnegeètǫ hǫt'e .
+42006033	~		Dǫ naxıts'ǫ̀ dǫ nezı̨ı̨ gı̨ı̨lı̨ı̨ sìı gıts'ǫ̀ zǫ dǫ nezı̨ı̨ aahłı̨ nı̨dè , eyı t'asìı nıìle . Hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ , ededı̨ kò , ełets'ǫ̀ dǫ nezı̨ı̨ gı̨ı̨lı̨ hǫt'e .
+42006034	~		Eyıts'ǫ , dǫ ek'èt'à t'asìı naxıghǫ̀gele dahwhǫǫ sìı zǫ t'asìı gıghǫnìahłe nı̨dè eyı t'asìı nıìle . Hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ , ededı̨ kò , hazǫǫ̀ deghàà ek'èt'à gıghǫeze ha gı̨ı̨wǫ t'à t'asìı ełeghǫnègele hǫt'e .
+42006039	~		Eyıts'ǫ Zezì dıı hadıì hoghàgoèhtǫ , “ Asį̀į̀ dǫ gıdaà goìlee sìı k'ełegeehɂı̨ ? Į̀łah dèè yìı gǫǫ̀ɂàa goyìı geetł'ì ha-le nì ?
+42006041	Ayìıha		“ Ayìıha naxèot'ı̨ wedaà yìı tsolè wheɂǫǫ sìı ghàahda , hanìkò naxıdaà yìı dechı̨ whetǫǫ sìı ts'ǫnıahɂà-le ?
+42006042	Dànıt'à		Dànıt'à naxèot'ı̨ ts'ǫ̀ dıı haahdı ha dìì-le , ‘ Àgı̨ą , nedaà yìı t'asìa wheɂǫ , negha xàwehchı , ’ dahdı , hanìkò naxı̨ naxıdaà yìı dechı̨ whetǫǫ sìı naxıgha wègaat'ı̨-le . Degaı daahtsı̨ kò wek'ę̀ę̀ aahda nıìle ! T'akwełǫ̀ǫ̀ naxıdaà yìı dechı̨ whetǫǫ sìı xàahchı nı̨dè naxıgha nezı̨į̀ xègaat'ı̨ agode ha , hanì-ı̨dè naxèot'ı̨ wedaà yìı t'asìa wheɂǫǫ sìı xàahchı ha dìì-le .
+42006046	Ayìıha		“ Ayìıha , ‘ K'àowo , K'àowo , ’ sèahdı , hanìkò sek'èaht'e-le ?
+42007024	ayìı		John-Baptıst wecheekeè nageèhde ekò Zezì John-Baptıst ghǫ dǫ hazǫǫ̀ ts'ǫ̀ hadı , “ Ekìı-ka nèk'e ayìı ghàahda ha ekǫ k'eahdè ? Tł'oh k'eweehts'ı ghàahda ha nì aaht'ı̨ ?
+42007025	ayìı		Hanì-le-ı̨dè ayìı ghàahda ha ekǫ k'eahdè ? Dǫ nezı̨į̀ nàhtł'ı̨ ghàahda ha nì aaht'ı̨ ? Į̀le , dǫ goht'ǫ dètìı t'à-aget'ı̨ı̨ sìı k'àowocho wekǫ̀ hoı̨zı̨ı̨ goyìı nàgedè hǫt'e .
+42007026	ayìı		Ekǫ ayìı ghàahda ha aaht'ı̨ ı̨lè ? Nakwenàoɂǫǫ ? Hęɂę , nakwenàoɂǫǫ nahk'e elı̨ı̨ sìı weahɂı̨ hǫt'e .
+42007031a	Ayìı		Zezì hagòhdı , “ Dıı dǫ xàgeèɂaa sìı ayìı xègı̨ı̨ht'e ts'edı lì ? 
+42007031b	Ayìı		Ayìı dǫǫ̀ lagı̨ı̨t'e ?
+42007042	amìı		Edenı̨htł'è nageele ha dìì t'à dǫ goghaetł'èe sìı į̀łak'aà gını̨htł'è wedę ayį̀į̀là . Eyı dǫ nàke sìı amìı denahk'e yeghǫneètǫ ha sǫnı ? ” Zezì yèhdı .
+42007049	amìı		Dǫ goxè shègezhee sìı ełets'ǫ̀ hagedı , “ Dıı amìı ne , dǫ-hołı̨į̀ kò , goghǫ nahoele ? ” ełègeedı .
+42008025a	Dànìghǫ		“ Dànìghǫ Nǫ̀htsı̨ ghǫ naxınì nàtso-le ? ” Zezì edecheekeè gòhdı . Gıgha enıìyah xè geèhyeh t'à ełets'ǫ̀ hagedı , 
+42008025b	amìı		“ Dıı amìı ne ? Nı̨hts'ı eyıts'ǫ taatı̨į̀ kò gık'į̀ı̨t'e , ” gedı .
+42008028	ayìıha		Zezì eɂı̨ ekò hòtł'ò whezeh gà yekè gà nàgòı̨hgè , ezeh xè hadı , “ Zezì , Nǫ̀htsı̨ wenahk'e gǫ̀hłı̨-le Weza , ayìıha sek'alaąwo . Hoìla ası̨ı̨le-le neghǫnàdaehtì , ” yèhdı .
+42008030	Dànìyeh		Zezì dayeehke , “ Dànìyeh ? ” Dǫ yets'ǫ̀ hadı , “ ‘ Łǫ ’ sìyeh ! ” yèhdı . Įnìłı̨ı̨ łǫ wets'ǫ̀-èlı̨ ts'ıhɂǫ̀ adı .
+42008045	Amìı		Zezì hadı , “ Amìı daseachì ? ” Dǫ gımǫǫ̀ nàgeèhzaa sìı “ Danets'aachì-le , ” gıìhdı . Peter hayèhdı , “ Sets'ǫ̀ K'àowo , dǫ łǫ nemǫǫ̀ nàgeèhza xè nek'e ts'ǫ̀ ełegeehtsı , ” yèhdı .
+42009009a	amìı		Hanìkò Herod hadı , “ John-Baptıst wekwì k'ııhkà ı̨lè . Eyı dǫ enıìyah hohtsı̨ı̨ weghǫ eèhkw'oo sìı amìı at'ı̨ ? ” hadı . Eyıt'à yeɂį̀ ha hoèhdzà .
+42009009b	~		
+42009018	amìı		Įłàà Zezì whatsǫǫ̀ gòɂǫǫ ekǫ yahtı . Wecheekeè gıgà-èhkw'e . Zezì dagoehke , “ Dǫ amìı aht'e sègedı ? ” gòhdı .
+42009020a	~		Zezì dagoehke , “ Ekò naxı̨ , 
+42009020b	amìı		amìı aht'e sèahdı ? ” gòhdı . Peter Zezì ts'ǫ̀ hadı , “ Nǫ̀htsı̨ wets'ǫ Chrıst anet'e , ” yèhdı .
+42009025	~		Dıı nèk'e dǫ t'asìı hazǫǫ̀ edegha dèhnǫ kò wedıhòłı̨ nı̨dè eyı hazǫǫ̀ wegha wet'àaɂà ha nıìle .
+42009041a	Dàwhaà		Zezì gots'ǫ̀ hadı , “ Naxı̨ dǫ yàahłı̨ı̨ sìı naxıgha ehkw'ı-ahodı-le xè ehkw'ı k'èch'a aaht'e . Dàwhaà naxıxè aht'e ha ? 
+42009041b	Dàwhaà		Dàwhaà sınì tsį̀ahwhı ha ? ” Hadı tł'axǫǫ̀ dǫzhìa wetà ts'ǫ̀ hadı , “ Nezaa sets'ǫ̀ wı̨ı̨hchı , ” yèhdı .
+42010025	ayìı dàts'ele		Įłàà , Nǫ̀htsı̨-yatıì-k'èezǫǫ-deè Zezì èhdzà ha nıwǫ t'à dayeehke , hadı , “ K'àowo , welǫ whìle ts'ǫ̀ ts'eeda ha ts'ı̨ı̨wǫ nı̨dè ayìı dàts'ele ha ? ” yèhdı .
+42010026a	ayìı		Zezì yets'ǫ̀ hadı , “ Moses wenàowoò k'e ayìı dek'eèhtł'è ? ” yèhdı .
+42010026b	~		
+42010029	Amìı		Eyı dǫ ezhı̨ne k'ę̀ę̀ daɂeehke ha nıwǫ-le t'à Zezì ts'ǫ̀ hadı , “ Amìı sèot'ı̨ agı̨ı̨t'e awį̀ı̨dı ? ” yèhdı dayeehke .
+42010036a	~		Zezì dǫ daehke , “ Eyı dǫ taı gıghǫ nìı̨dee sìı , 
+42010036b	amìı		amìı eyı dǫ ts'ǫ̀ edèot'ı̨ ts'àdıı elı̨ı̨ lanì ? ” yèhdı .
+42011008	~		Ehkw'ı anaxèehsı̨ , yeàgı̨ą elı̨ kò , łèt'è yeghàɂeedı ha yets'ǫ̀ nıìtła ha nıìle , hanìkò weàgı̨ą k'èdaà yeekè ts'ıhɂǫ̀ , t'aa nıwǫ ts'ǫ̀ yeghàɂeedı ha hǫt'e .
+42011011	~		“ Naxı̨ gotà yàahłı̨ı̨ sìı naxızaa łıwe naxıgeekè nı̨dè asį̀į̀ gòo gıghàahɂà ha ?
+42011012	~		Hanì-le-ı̨dè eyè naxıgeekè nı̨dè asį̀į̀ nàèdıłı̨ı̨-k'àle lanıı gıghàahɂà ha ?
+42011013	~		Naxı̨ hołı̨ı̨-hoahtsı̨ı̨-dǫǫ̀ aaht'e kò , naxızaa t'asìı nezı̨ı̨ gıghàahłe k'èhoahsǫ . Naxıtà yak'e whedaa sìı naxınahk'e t'asìı nezı̨ı̨ naxıghàɂà ha hǫt'e . Dǫ Yedàyeh Nezı̨ı̨ geekè nı̨dè gots'ǫ̀ ayele ha hǫt'e ! ” Zezì gòhdı .
+42011018	~		Wehłı̨ı̨ edek'èch'a at'ı̨ nı̨dè k'àhowo-le ade ha . ‘ Įnìłı̨ı̨ gha k'àowo yets'àdı t'à ı̨nìłı̨ı̨ xàdeehshı , ’ sèahdı ts'ıhɂǫ̀ aehsı̨ .
+42011019	amìı		Ekò ı̨nìłı̨ı̨ gha k'àowo sets'àdı t'à ı̨nìłı̨ı̨ xàdeehshı nı̨dè naxıcheekeè amìı dahxà ı̨nìłı̨ı̨ xàdegeezhı ? Eyıt'à naxıcheekeè naxısınìyagehtı ha hǫt'e .
+42012014	Amìı		Eyıt'à Zezì yets'ǫ̀ hadı , “ Amìı naxıgha dǫ-sınìyaehtıı-dǫǫ̀ sèhtsı̨ ? ” yèhdı .
+42012017	Ayìı		Dǫ edets'ǫ̀ hadı , ‘ Ayìı dàhłà lì ? Edı̨į̀ t'asìı whıhła ha gòɂǫ-le , ’ hadı .
+42012020	amìı		“ Hanìkò Nǫ̀htsı̨ yets'ǫ̀ hadı , ‘ Gonezǫ-le dìì ! Dıı toò nedą̀ązhį̀ı̨ neghǫ ìchı ha . T'asìı łǫ edegha ts'atà wheęhłaa sìı hot'eè amìı weghaelı̨į̀ ade ha ? ’ yèhdı .
+42012024	~		Tatsǫ̀gaà hoòlà gıdaànıahdè : dèè k'e t'asìı geehshe-le , eyıts'ǫ xehkǫ̀ t'asìı gehła-le , hanìkò Nǫ̀htsı̨ gowàedı . Tatsǫ̀gaà nahk'e aahłı̨ hǫt'e !
+42012025	Ayìıha		Ayìıha t'asìı ghǫ nànıahdè ? Dǫ wı̨ı̨zìı nànıwo t'à ı̨łè sadzeè deɂǫ̀ǫ̀ edaà adele ha nıìle .
+42012026	ayìıha		Eyı haı̨htsòa haahłe ha dìì nı̨dè ayìıha t'asìı ghǫ nànıahdè ?
+42012042	~		Zezì yets'ǫ̀ hadı , “ Dǫ nezı̨ı̨ aahłı̨ xè goahsǫǫ̀ k'ehoahɂa . Eyı hanıı dǫ sìı wets'ǫ̀ k'àowo edecheekeè hazǫǫ̀ ts'ǫ̀ k'àowoò ayele ha . Weghǫ shèts'ezhee gı̨ı̨wǫ nı̨dè goghàɂeedı ha .
+42012049	~		Zezì edecheekeè ts'ǫ̀ hadı , “ Dıı nèk'e kǫ̀ dèk'ǫ̀ǫ agohłe gha jǫ ts'ǫ̀ ahjà . Hòt'a kǫ̀ dìtła nı̨dè dehwhǫ !
+42012056	dànìghǫ		T'asìı k'èahsǫ daahtsı̨ ! Dèè eyıts'ǫ k'oh dànì wègaat'ı̨ı̨ sìı wek'ayaahtı ha dìì-le . Hanìkò dıì naxıdaà dàgot'ı̨ı̨ sìı dànìghǫ wek'ayaahtı ha dìì ?
+42012057	dànìghǫ		“ Ayìı ehkw'ı ne sìı dànìghǫ edegha wedaànıahdè-le xè weghǫ goahde-le ?
+42013004	~		Eyıts'ǫ ı̨nę̀ę dàgòjàa sìı ghǫ nànıahdè . Sıloam gòyeh ekǫ dǫ hoònǫ-daats'ǫ̀-ek'èdı̨ gık'e kǫ̀ nechàa nàı̨tł'ı ı̨lè . Eyı dǫ ełaàgı̨ı̨dèe sìı Jerusalem got'ı̨į̀ hazǫǫ̀ gonahk'e hołı̨ı̨ hogèhtsı̨ t'à gıxè hagòjà dahwhǫ nì ?
+42013007	Ayìıha		Eyıt'à jìecho-k'èdìı-dǫǫ̀ ts'ǫ̀ hadı , ‘ Dıı ts'ı wek'e jìecho dehshe ha dehwhǫ t'à dıì xè taı xo gots'ǫ jǫ nǫèhdà , hanìkò jìecho wı̨ı̨zìı wek'e dawheɂǫ-le . Ts'ı wek'ı̨ı̨hkà ! Ayìıha dèè nezı̨ı̨ wets'ǫ̀ wek'ehowı lì ? ’ yèhdı .
+42013015	~		Zezì yets'ǫ̀ hadı , “ Degaı daahtsı̨ kò wek'ę̀ę̀ aahda nıìle ! Nǫ̀htsı̨ Dzęę̀ k'e naxıts'ǫ ejıe , hanì-le-ı̨dè naxıtłı̨tsoa tı gıghàahdı ha , dagıahge xè tı ts'ǫ̀ agıahɂı̨-le nì ?
+42013018a	ayìı		Eyı tł'axǫǫ̀ Zezì dagoehke , “ Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ sìı ayìı xèht'e lanì ?
+42013018b	~		
+42013020	ayìı		K'achı̨ Zezì dagoehke , “ Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ sìı ayìı xèht'e lanì ?
+42013025	~		Kǫ̀ ts'ǫ̀ k'àowo naxıts'ǫdanìı̨hgè nı̨dè mǫ̀ht'a nàahza ha . Enìı̨tǫ ts'aaht'ı xè dıı haahdı weghǫnàdaahtì ha , ‘ K'àowo , gots'ǫ̀ enìxàı̨chı , ’ dahdı kò dıı hanaxèhdı ha , ‘ Naxık'èehsǫ-le eyıts'ǫ edı̨į̀ gots'ǫ aaht'ı̨ı̨ sìı wek'èehsǫ-le , ’ naxèhdı ha .
+42014005	~		Eyı tł'axǫǫ̀ gots'ǫ̀ hadı , “ Edahxǫ Nǫ̀htsı̨ Dzęę̀ k'e naxıza hanì-le-ı̨dè naxıtłı̨tsoa tı k'è tekw'o nı̨dè , ekòet'ıì tekàahtè ha-le nì ? ” gòhdı .
+42014028	~		“ Dǫ kǫ̀ danı̨ı̨dèe gohtsı̨ ha nıwǫ nı̨dè t'akwełǫ̀ǫ̀ kǫ̀ dànìı̨htìı sìı yesǫǫ̀mbaà naehtà ha-le nì ? Kǫ̀ ghǫ nǫǫt'e ha asį̀į̀ sǫǫ̀mba deghàà whehła ?
+42014031	~		“ K'àowocho ı̨łè , k'àowocho eyıì-le xè ełegegǫ ha nı̨dè asį̀į̀ t'akwełǫ̀ǫ̀ yedaànıwo ha ? Ededı̨ dǫ hoònǫ-lemì wets'ǫ , ekò k'àowocho eyıì-le sìı dǫ naènǫ-lemì wets'ǫ , asį̀į̀ hoehnè ha dìì-le ?
+42014034	dànìs		“ Dewa sìı nezı̨ hǫt'e , hanìkò dewa łedì-le ajà nı̨dè dànì k'achı̨ łedì anajà lì ?
+42015004	~		“ Naxıta ts'ǫ dǫ ı̨łè sahzǫ̀ą ı̨łèakw'eènǫ wets'ǫ hanìkò ı̨łè dıkǫèhgè nı̨dè sahzǫ̀ą łǫǫ̀tǫènǫ-daats'ǫ̀-łǫǫ̀tǫ sìı ekìı-ka gehteè agole gà sahzǫ̀ą ı̨łè whìle sìı yegòhɂà gots'ǫ̀ yekanıwǫ ha hǫt'e .
+42015008	~		“ Ts'èko ı̨łè satsǫ̀ą dètìı hoònǫ wets'ǫ sìı ı̨łè weghǫ dıkǫdeèwò nı̨dè ek'aèk'ǫ yìhtła gà hazǫǫ̀ gok'eetį̀ xè hotıì nezı̨į̀ yekanıwǫ ha-le nì ?
+42015026	Dàgodıì		Eyıt'à wetà wecheekeè ı̨łè ts'ǫ̀ gode , dayeehke . ‘ Dàgodıì-agodı ? ’ yèhdı .
+42015029	~		Hanìkò edetà ts'ǫ̀ hadı , ‘ Łǫ xo negha hòtł'ò eghàlaıhdà eyıts'ǫ t'aats'ǫǫ̀ nek'èɂaıht'è . Hanìkò seàgı̨ą gıxè shèhtı̨ ha , sahzǫ̀ą nechà-lea wı̨ı̨zìı seghàneehtı̨ whìle .
+42016002	~		Eyıt'à k'àowo edecheekeè kayaı̨htı gà yets'ǫ̀ hadı , ‘ Neghǫ godı nezı̨-le eèhkw'o . Hòt'a segha eghàlaı̨da ha-le t'à , t'asìı hazǫǫ̀ netł'aà whelaa sìı dek'enìı̨tł'è , ’ yèhdı .
+42016003	dàhdza		“ Eyıt'à wecheekeè hanıwǫ , ‘ Sets'ǫ̀ k'àowo seghǫ la naìchı ha t'à edı̨į̀ dàhdza lì ? Dèè xàgohge ha nàhtso-le , eyıts'ǫ dǫ t'asìı geehkè ha sìı ghǫ į̀į̀zhaehłı̨ .
+42016005	dàtłǫ		“ Eyıt'à wets'ǫ̀ k'àowo ts'ǫ̀ gını̨htł'è gǫ̀hłı̨ı̨ sìı gokayaı̨htı . Dǫ t'akwełǫ̀ǫ̀ ts'ǫ̀ hadı , ‘ Sets'ǫ̀ k'àowo ts'ǫ̀ nenı̨htł'è dàtłǫ ? ’ yèhdı .
+42016007	dàtłǫ		“ Eyıts'ǫ dǫ yek'èè nììtłaa sìı ts'ǫ̀ hadı , ‘ Nenı̨htł'è dàtłǫ ? ’ yèhdı . “ ‘ Łè nàkeakw'eènǫ aı̨hda senı̨htł'è , ’ yèhdı . “ K'àowo wecheekeè yets'ǫ̀ hadı , ‘ Nenı̨htł'è nı̨į̀ɂa gà ı̨łèakw'eènǫ-daats'ǫ̀-ek'ètaènǫ aı̨hda dek'enìı̨tł'è , ’ yèhdı .
+42016011	amìı		Dıı nèk'e t'asìı whelaa sìı wet'à ehkw'ı eghàlaahda-le nı̨dè amìı yak'e ts'ǫǫ̀hk'e t'asìı weghàlaahda naxèhdı ha welì ?
+42016012	amìı		Eyıts'ǫ dǫ gıts'ǫ t'asìı t'à ehkw'ı eghàlaahda-le nı̨dè , amìı t'asìı xàè naxıts'ǫ-elı̨ gha t'asìı naxıghàyeɂà ha welì ?
+42017007	~		“ Dǫ ı̨łè wecheekeè gǫ̀hłı̨ nı̨dè yegha dèè k'e eghàlaeda , hanì-le-ı̨dè yegha sahzǫ̀ą k'èdì . Wecheekeè eghàlaeda gots'ǫ nǫ̀ǫtła nı̨dè ‘ Hot'eè jǫ wheęda gà shèı̨tı̨ , ’ edecheekeè ts'ǫ̀ hadı ha nì ? Į̀le , hadı ha nıìle .
+42017017	gılaedì		Zezì hayèhdı , “ Dǫ hoònǫ k'aàt'ıì agejà-le nì ? Ekò dǫ łǫǫ̀tǫ gılaedì ? ” yèhdı .
+42017018	dànìghǫ		Eyıt'à Zezì edecheekeè ts'ǫ̀ hadı , “ Dıı eładı̨ gots'ǫ dǫ dànìghǫ ededı̨ zǫ Nǫ̀htsı̨ ghǫ masì nıwǫ t'à ek'èt'à naèhtła ? ” gòhdı .
+42017020	Dàht'e-ı̨dè		Įłàà Pharısee gı̨ı̨lı̨ı̨ sìı Zezì dageehke , “ Dàht'e-ı̨dè Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫ agode ha ? ” gıìhdı . Zezì gots'ǫ̀ hadı , “ Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ sìı wexàts'eeta t'à wegots'ìhɂà ha nıìle
+42017037	edı̨į̀		Wecheekeè Zezì dageehke , “ K'àowo , edı̨į̀ hagode ha ? ” gıìhdı . Zezì hagòhdı , “ Edı̨į̀ t'asìıweè whedaa sìı ekǫ tatsǫ̀gaà łǫ ełègehdè hǫt'e , ” gòhdı .
+42018018	ayìı		K'àowo ı̨łè Zezì daehke , “ K'àowo nezı̨ı̨ , ayìı dàhłà nı̨dè welǫ whìle ts'ǫ̀ ehdaà asedle ha ? ” yèhdı .
+42018019	Ayìıha		Zezì yets'ǫ̀ hadı , “ Ayìıha k'àowo nezı̨ı̨ sį̀ı̨dı ? Dǫ nezı̨ı̨ gǫ̀hłı̨ nıìle ; Nǫ̀htsı̨ zǫ nezı̨ hǫt'e .
+42018026	amìı		Dǫ Zezì hadıì egıìkw'oo sìı hagedı , “ Hanì-ı̨dè amìı edaxàweètı̨ lì ? ” gedı .
+42018036	Ayìı		Dǫ łǫ k'egohwho goìkw'o t'à dagoehke , “ Ayìı dàgot'ı̨ ? ” gòhdı .
+42018041	Ayìı		“ Ayìı negha dàhłe ha seneehwhǫ ? ” yèhdı . “ Sets'ǫ̀ K'àowo , segha xègaat'ı̨ ha dehwhǫ , ” dǫ yèhdı .
+42019007	~		Zezì , Zacchaeus k'èèhtła t'à dǫ hazǫǫ̀ sǫagedı , “ Hołı̨ı̨-hohtsı̨ı̨-dǫǫ̀ xè wheda , ” gedı .
+42019023	dànìghǫ		Dǫ dìì aht'e sek'èı̨zǫ nı̨dè dànìghǫ sesǫǫ̀mbaà , sǫǫ̀mba-dehshee-kǫ̀ nèneela-le nǫǫ̀ ? Hanì-ı̨dè jǫ anahjà nı̨dè sesǫǫ̀mbaà eyıts'ǫ sǫǫ̀mba wetaekw'ıı sìı wexè naìhchı ha ı̨lè , ’ yèhdı .
+42019031	Ayìıha		‘ Ayìıha daweahge ? ’ dǫ naxèhdı nı̨dè , ‘ Gots'ǫ̀ K'àowo yet'à-at'ı̨ ha nıwǫ , ’ hawèahdı nǫǫ̀ , ” Zezì gòhdı .
+42019033	Ayìıha		Tłı̨tsoa negıìchı ha nìkw'o ekò dǫ gıts'ǫ ne sìı hagedı , “ Ayìıha tłı̨tsoa daahgè ? ” gedı .
+42020002a	Ayìı		hagedı , “ Ayìı dahxà dıı hanì eghàlaı̨da ? 
+42020002b	Amìı		Amìı hanì neghàhòı̨ɂǫ t'à anet'ı̨ ? ” gıìhdı .
+42020005a	~		Eyı ghǫ ełets'ǫ̀ dıı hagedı , “ ‘ Yak'e godahxà at'ı̨ , ’ ts'edı nı̨dè 
+42020005b	Dànìghǫ		‘ Dànìghǫ ehkw'ı adı dahwhǫ-le nǫǫ̀ ? ’ gòhdı ha .
+42020013	Ayìı		“ Eyıt'à eyı dèè ts'ǫ̀ k'àowo dıı hadı , ‘ Ayìı dàhłà lì ? Dıì t'à xàè seza weghǫneehtǫǫ sìı gıts'ǫ̀ weehɂà ha . Edahxǫ gıts'ǫ̀ nezı̨į̀ naɂa ha tahkò , ’ hadı .
+42020015	dàgole		Eyıt'à dèè gots'ǫǫ̀ xàgeèhxà gà ełaàgį̀ı̨hwho . “ Eyıt'à k'àowo , dèè-k'ègedìı-dǫǫ̀ gınezı̨-le sìı dàgole ha ?
+42020017	dàhodıì		Zezì hotıì goghàeda xè hadı , “ Dıı hanì dek'eèhtł'è : ‘ Kwekǫ̀-gogehtsı̨ı̨-dǫǫ̀ kwe ɂǫ̀geèhk'aa sìı eyı kwe denahk'e wet'àaɂà whelı̨ , ’ dek'eèhtł'è . Amìı eyı kwe k'e nàakw'oo sìı wedıhołè ha , eyıts'ǫ amìı eyı kwe wek'e nàakw'oo sìı t'asìı nadlı̨ ha-le . Eyı dek'eèhtł'èe sìı dàhodıì-ahodı dahwhǫ ? ” gòhdı .
+42020023	Ayìı ghǫ		Zezì ayìı ghǫ dageehkee sìı gok'èezǫ t'à gots'ǫ̀ hadı ,
+42020024a	Amìı		“ Satsǫ̀ą degoo weghàıhdà . Amìı wekwì eyıts'ǫ wıızì dek'e wheɂǫ ? ” gòhdı .
+42020024b	~		
+42020033	amìı		Eyıt'à dǫ naìdàa dzęę̀ k'e nı̨dè eyı ts'èko ełechı łǫ̀hdı̨ hazǫǫ̀ goxè xǫ̀ąt'į̀ı̨ t'à amìı ts'èkeè elı̨ ha ? ” gedıì Zezì dageehke .
+42020041	Dànìghǫ		Eyı tł'axǫǫ̀ Zezì gots'ǫ̀ hadı , “ Dànìghǫ Chrıst , k'àowocho Davıd Weza gıìhdı ?
+42020044	dànì		Davıd ‘ sets'ǫ̀ K'àowo , ’ yèhdı , hanì dek'eèhtł'è nı̨dè dànì yeza elı̨ welì ? ” Zezì gòhdı .
+42021007a	dàht'e-ı̨dè		“ K'àowo , dàht'e-ı̨dè eyı hazǫǫ̀ hagode ha ? 
+42021007b	ayìı		Hagode ha nìkw'o nı̨dè ayìı ghàà wek'èts'eezǫ ha ? ” wecheekeè gıìhdı .
+42022009	Edı̨į̀		“ Edı̨į̀ nàsı̨ gha sıìgots'ele ha neewǫ ? ” gıìhdı .
+42022011	Edı̨į̀		Dǫ wekǫ̀ agǫ̀ht'ee sìı wets'ǫ̀ dıı haahdı , ‘ Gots'ǫ̀ K'àowo nets'ǫ̀ dıı hadı : Edı̨į̀ shèts'ezhe gha gòɂǫ ? Secheekeè gıxè nàsı̨ Passover ghǫ shètı̨ ha dehwhǫ , ’ wèahdı .
+42022027	Amìı		Amìı denahk'e elı̨ dahwhǫ , dǫ ladà gà weghàhodìı hanì-le-ı̨dè dǫ yegha eghàlaedaa ? Dǫ ladà gà weghàhodìı sìı eyı denahk'e elı̨ hǫǫwǫ hǫt'e . Hanìkò sı̨ sìı naxını dǫ gha eghàlaedaa-dǫǫ̀ laht'e .
+42022046	Dànìghǫ		“ Dànìghǫ wheahte ? Nıàhdè , hołı̨ı̨ hoahtsı̨ ch'à edegha yaahtı , ” gòhdı .
+42022064	amìı		Wedaà k'e ehtł'ı̨ ełègeèzà gà hagıìhdı , “ Nakwenàoɂǫǫ anet'e nı̨dè amìı nànı̨ı̨ht'ıı sìı gots'ǫ̀ haı̨dı , ” gıìhdı .
+42022071	~		Eyıt'à hagedı , “ Hòt'a k'achı̨ dǫ gık'e nìdahogeeɂà-le kò . Goxı̨ xàè weyatıì ts'ıìkw'o ne , ” gedı .
+42023022a	ayìı gha		K'àowo Pılate k'achı̨ taı t'à gots'ǫ̀ nagoı̨de , hadı , “ Ayìı gha ? 
+42023022b	ayìı		Dıı dǫ ayìı hoìla hòèhtsı̨ k'èxa ? Yek'èxa ełaàwı ha t'asìı gòìhɂǫ-le . Eyıt'à nàweekwa gà naetłaà awehłe ha , ” gòhdı .
+42023031	dàgode		Įłaà ts'ı dèhdlı̨ et'ıì dǫ hanì eghàlageeda nı̨dè , ts'ı whegǫ nı̨dè dàgode ha ? ( Dıì hanì sets'ǫ̀ eghàlageeda nı̨dè nǫǫde nı̨dè dànì naxıts'ǫ̀ eghàlageeda ha ? ) ” gòhdı .
+42024005	Dànìghǫ		Ts'èko sıì geèhyeh t'à dèè ts'ǫ̀ nàgògı̨ı̨hgè , hanìkò dǫ gots'ǫ̀ hagedı , “ Dànìghǫ dǫ ełaı̨dèe ta dǫ edaa kak'eaht'į̀ ?
+42024017	Ayìı ghǫ		Zezì dagoehke , “ Įdaà nałeahtłe ekò ayìı ghǫ ełexè goahdo nǫǫ̀ ? ” gòhdı . Wecheekeè nìłegeètła , ts'ǫǫ̀gı̨ı̨wǫ lanì gìgaat'ı̨ .
+42024019	Dàgòjà		“ Dàgòjà ? ” Zezì yèhdı . Eyıt'à gıts'ǫ̀ hadı , “ Zezì , Nazareth got'ı̨į̀ , wexè dànàhòwoo sìı eyı weghǫ , ” gedı , “ Eyı dǫ sìı nakwenàoɂǫǫ deè ı̨lè . Nǫ̀htsı̨ gha sìghà eghàlaı̨dà eyıts'ǫ dǫ hazǫǫ̀ gınadąą̀ weyatıì nàtsoo xè enıìyah deè eghàlaı̨dà .
+42024025	dànìghǫ		Zezì gots'ǫ̀ hadı , “ Sıì t'asìı nıahdì-le xè naxınì nàtso-le . Nakwenàoɂǫǫ dàgı̨ı̨dìı sìı dànìghǫ naxıgha ehkw'ı-ahodı-le ?
+42024038a	Ayìıha		Zezì gots'ǫ̀ hadı , “ Ayìıha dahjı̨ ? 
+42024038b	dànìghǫ		Eyıts'ǫ dànìghǫ naxınì nàtso-le dìì ?
+43001019	Amìı		Kǫ̀ta Jerusalem gots'ǫ Israel got'ı̨į̀ gha k'aodèe John-Baptıst dageehke gha , yahtıı eyıts'ǫ Levıte gı̨ı̨lı̨ı̨ gıts'ǫ̀ geèhɂà . Dageehke , “ Amìı anet'e ? ” gıìhdı t'à John-Baptıst gots'ǫ̀ goı̨de .
+43001021	amìı		Eyıt'à hagıìhdı , “ Hanì-ı̨dè amìı anet'e ? Asį̀į̀ Elıjah anet'e ? ” gıìhdı . John-Baptıst hagòhdı , “ Eyı aht'e-le . ” “ Nakwenàoɂǫǫ deè anet'e nì ? ” gıìhdı . “ Į̀le , ” gòhdı .
+43001022a	Amìı		Nǫǫdea hagıìhdı , “ Amìı anet'e ? Gots'ǫ̀ haı̨dı , 
+43001022b	amìı		amìı jǫ ts'ǫ̀ gogeèhɂàa sìı gıts'ǫ̀ hats'edı ha t'à . Edeghǫ dàı̨dı ha ? ” gıìhdı .
+43001025	dànìghǫ		John-Baptıst dageehke , hagedı , “ Chrıst anet'e-le , Elıjah anet'e-le eyıts'ǫ nakwenàoɂǫǫ deè anet'e-le nı̨dè dànìghǫ dǫ k'ètaį̀dzı̨ ? ” gıìhdı .
+43001038a	Ayìıha		Zezì gots'ǫ̀ ets'aèhtła , gık'èè geède goaɂı̨ t'à Zezì dagoehke , “ Ayìıha aaht'ı̨ ? ” gòhdı . 
+43001038b	edı̨į̀		“ Rabbı , edı̨į̀ nàądè ? ” gıìhdı . ( “ Rabbı ” gedı nı̨dè “ dǫ hoghàehtǫǫ ” gedıì-agedı . )
+43001046	~		Nathanael yets'ǫ̀ hadı , “ Nazareth nı̨ı̨dı nì ? Ekǫ gots'ǫ t'asìı nezı̨ı̨ xàhohwhı ha nì ? ” yèhdı . “ Sek'èątła , wı̨ı̨ɂį̀ ha ne , ” Phılıp yèhdı .
+43001048	Dànì		“ Dànì sek'èı̨zǫ ghǫ aı̨dı ? ” Nathanael yèhdı . Zezì yets'ǫ̀ hadı , “ Phılıp nets'ǫ̀ gode kwe , ı̨łaà jìechots'ıì wetł'a wheęda ekò neehɂı̨ ı̨lè , ” yèhdı .
+43002004	~		Zezì yets'ǫ̀ hadı , “ Ts'èko , sı̨ sı̨į̀dı-le , segha ı̨łaà whìle hǫt'e , ” yèhdı .
+43002018a	~		Zezì hajà t'à Israel got'ı̨į̀ mǫ̀hdaa hagıìhdı , 
+43002018b	Amìı		“ Amìı wedahxà anet'ı̨ ? Godaà enıìyah nechàa hòwheęhtsı̨ nı̨dè wek'èts'eezǫ ha , ” gıìhdı .
+43003004	dànì		Nıcodemus hadı , “ Dǫ weghoò łǫ sìı dànì k'achı̨ wegǫ̀hłı̨ lì ? K'achı̨ edemǫ bò yìı naetła gà k'achı̨ wegǫ̀hłı̨ ha dìì naà ! ” yèhdı .
+43003009	Dànì		Nıcodemus hadı , “ Dànì hagòjà lì ? ”
+43003012	dànì		Dıı nèè gots'ǫ t'asìı ghǫ naxıxè gohdo , hanìkò naxıgha ehkw'ı-le . Ekò yak'e gots'ǫ t'asìı ghǫ naxıxè gohdo nı̨dè dànì naxıgha ehkw'ı aehsı̨ lì ?
+43004009	dànì t'à		Ts'èko yets'àèhyeh t'à hayèhdı , “ Ekò nı̨ Israel got'ı̨į̀ anet'e ; sı̨ sìı Samarıa gots'ǫ ts'èko aht'e . Dànì t'à tı sı̨ı̨kè ? ” yèhdı . ( Israel got'ı̨į̀ , Samarıa got'ı̨į̀ xè aget'ı̨ ha gı̨ı̨wǫ-le t'à ts'èko hanì yets'ǫ̀ goı̨de . )
+43004011	edı̨į̀		Ts'èko yets'ǫ̀ hadı , “ K'àowo , wet'à tı ts'ìhchıı nets'ǫ-le eyıts'ǫ tı-ts'ìhchıı-k'è ı̨zhıì tı ts'ǫ̀ gǫǫwà . Eyıt'à edı̨į̀ gots'ǫ tı wet'à ts'eedaà anele lì ?
+43004027a	Ayìı		Ekìıyeè k'e Zezì wecheekeè nǫǫ̀gı̨ı̨de . Zezì ts'èko ts'ǫ̀ gode t'à sıì gıgha enıìyah . Hanìkò Zezì dagı̨ı̨hke t'à , “ Ayìı neewǫ ? ” hanì-le-ı̨dè 
+43004027b	Dànìghǫ		“ Dànìghǫ wets'ǫ̀ goı̨de ? ” gıìhdı-le .
+43005012	amìı		Eyıt'à hagıìhdı , “ Eyı dǫ , ‘ Netè nı̨į̀ɂa gà k'eı̨tło , ’ nèhdıı sìı amìı hǫt'e ? ” gıìhdı .
+43005044	dànì		Dǫ naxıghǫ nezı̨į̀ agedı ha dahwhǫ , hanìkò Nǫ̀htsı̨ naxıghǫ nezı̨į̀ adı gha hots'ǫnıahɂà-le . Hanì-ı̨dè dànì naxıgha ehkw'ı-ahodı lì ?
+43005047	dànì		Hanìkò ayìı dek'enèyı̨ı̨tł'èe sìı naxıgha ehkw'ı-le . Eyıt'à dàehsı̨ı̨ sìı dànì naxıgha ehkw'ı lì ? ” Zezì gòhdı .
+43006005	edı̨į̀		Zezì dǫdeè gıts'ǫ̀ède goaɂı̨ ekò Zezì Phılıp ts'ǫ̀ hadı , “ Dıı dǫ gıghǫ shèzhe ha edı̨į̀ gots'ǫ łèt'è nàts'eèhdì lì ? ” yèhdı .
+43006009	~		“ Jǫ chekoa łèt'è nechà-lea sı̨làı eyıts'ǫ łıwe nàke k'ele , hanìkò sıì dǫ łǫ t'à t'asìı elı̨ ha-le , ” yèhdı .
+43006025	dàht'e		Įnǫ̀ǫ̀ dǫ Zezì gıaɂı̨ ekò dageehke , “ K'àowo , dàht'e jǫ nǫǫ̀neetła ? ” gıìhdı .
+43006028	dànì		Zezì edeghǫ hadı tł'axǫǫ̀ dǫ dageehke , “ Nǫ̀htsı̨ dànì wegha eghàlats'eeda ha goı̨hwhǫ ? ” gıìhdı .
+43006030a	~		Eyıt'à hagıìhdı , “ Godaà enıìyah deè hoı̨htsı̨ nı̨dè weghàà ehkw'ı aı̨dı nets'ı̨ı̨hwhǫ ha .
+43006030b	~		
+43006042	dànìghǫ		Hagedı , “ Dıı Joseph weza Zezì nì-ı̨t'e ? Wetà eyıts'ǫ wemǫ gık'èts'eezǫ hǫt'e . Eyıt'à dànìghǫ edeghǫ hadı , ‘ Yak'e gots'ǫ hodàèhtła , ’ ” gedı .
+43006052	Dànì		Zezì hadı t'à Israel got'ı̨į̀ sıì gıgha nezı̨-le t'à ełets'ǫ̀ hagedı , “ Eyı dǫ ayìı ayèhdı ? Dànì wezhį̀į̀ ghǫ shèts'etı̨į̀ agole ha ? ” gedı .
+43006060	~		Dǫ łǫ Zezì k'èè k'egedèe sìı hadıì gıìkw'o ekò hagedı , “ Dàdıı hoghàgoehtǫǫ sìı gogha dezhì dìì . Weyatıì ts'ìhchı ha gogha dìì , ” gedı .
+43006062	~		Dǫ-wet'àaɂàa-deè edı̨į̀ gots'ǫ at'ı̨ı̨ sìı naxıdaà ı̨dòo anajà nı̨dè weghǫ dàahwhǫ ha ?
+43006068	amìı		Sımon-Peter yets'ǫ̀ hadı , “ K'àowo , amìı ts'ǫ̀ ats'ejà lì ? Nı̨ zǫ neyatıì t'à welǫ whìle ts'ǫ̀ ts'eeda hǫt'e .
+43007011	~		Jerusalem ekǫ dzędeè hołè ekò Israel got'ı̨į̀ gha k'aodèe Zezì hak'egeet'į̀ . K'aodèe dǫ hazǫǫ̀ dageehke , “ Eyı dǫ asį̀į̀ weahɂı̨ ? ” gògedı .
+43007015	dànì t'à		Israel got'ı̨į̀ gha k'aodèe weyatıì gıìkw'o ekò gıgha enıìyah t'à hagedı , “ Eyı dǫ hoghàweètǫ-le kò , dànì t'à t'asìı k'èezǫ nǫǫ̀ ? ” gedı .
+43007019	dànìghǫ		Moses Nǫ̀htsı̨ nàowoò naxıghàı̨ɂǫ hǫt'e , hanìkò naxıta ts'ǫ dǫ ı̨łè kò eyı nàowo k'èı̨t'e nıìle . Eyıt'à dànìghǫ ełaàsèahwhı ha dahwhǫ nǫǫ̀ ? ”
+43007020	Amìı		Dǫdeè nı gots'ǫ dǫ mǫ̀hdaa hagıìhdı , “ Įnìłı̨ı̨ nets'ǫ̀-èlı̨ . Amìı ełaànìhwhı ha ghǫ aı̨dı , ” gıìhdı .
+43007023	dànìghǫ		Moses wenàowoò nàahzhì ha-le dahwhǫ t'à Nǫ̀htsı̨ Dzęę̀ k'e dǫzhìa nàweet'àa sìı naxıgha t'asanìle hǫt'e . Ekò sı̨ Nǫ̀htsı̨ Dzęę̀ k'e dǫ deghàà k'aàt'ıì ahɂı̨ nı̨dè dànìghǫ weghǫ sets'ǫ̀ ààhch'e ?
+43007035	edı̨į̀		Israel gha k'aodèe ełets'ǫ̀ hagedı , “ Eyı dǫ wegots'ìhɂà ha-le , dı t'à , edı̨į̀ ts'ǫ̀ ade ha ghǫ adı . Gòet'ı̨ eyıì-le nèk'e Greece got'ı̨į̀ ta nàgedèe sìı gots'ǫ̀ ade ha nì ? Ekǫ hoghàgoehtǫ ha nì ?
+43007036	dàdıì-adı		Dıı hadıı sìı dàdıì-adı , ‘ Sekak'eaht'į̀ ha , hanìkò segòahɂà ha-le , ’ eyıts'ǫ ‘ Edı̨į̀ whıhdaa sìı ekǫ aahde ha dìì , ’ eyı dàdıì-adı ? ” gedı .
+43007041	~		Ekò dǫ mǫ̀hdaa hagedı , “ Chrıst awèts'edı là eyı at'ı̨ , ” gedı . Hanìkò dǫ mǫ̀hdaa hagedı , “ Chrıst Galılee nèk'e gots'ǫ at'ı̨ ha dìì ne .
+43007045	Dànìghǫ		Nǫǫdea , Nǫ̀htsı̨kǫ̀-xogııhdıı-dǫǫ̀ nageèhde , yahtıı-gha-k'aodèe eyıts'ǫ Pharısee gı̨ı̨lı̨ ts'ǫ̀ anagejà . Eyı nègı̨ı̨de ekò k'aodèe dagogeehke , “ Dànìghǫ jǫ nèweahtı̨-le ? ” gògedı .
+43007048	~		“ K'aodèe gots'ǫ hanì-le-ı̨dè Pharısee gı̨ı̨lı̨ı̨ gots'ǫ dǫ wı̨ı̨zìı ehkw'ı adı gı̨ı̨hwhǫ nıìle .
+43007051	~		“ Gonàowoò k'ę̀ę̀ ha nı̨dè , dǫ weghǫ nàyaetı-le et'ıì , hoìla gha wesınìyats'ehtı nì ? ” gòhdı .
+43008005	dàneewǫ		Moses wenàowoò k'ę̀ę̀ ha nı̨dè ts'èko hanıı sìı ełaàwı ts'ǫ̀ kwe t'à wets'ııshì ha dek'eèhtł'è . Ekò nı̨ eyı weghǫ dàneewǫ ? ” Zezì ts'ǫ̀ hagedı .
+43008010	gılaedì		Zezì nıìtła gà yets'ǫ̀ hadı , “ Ts'èko , dǫ gılaedì ? Dǫ wı̨ı̨zìı hoìla anį̀į̀là-le nì ? ” yèhdı .
+43008019	Edı̨į̀		Eyıt'à dageehke , “ Edı̨į̀ netà wheda ? ” gıìhdı . Zezì gots'ǫ̀ hadı , “ Sek'èahsǫ nıìle eyıts'ǫ Setà sı wek'èahsǫ nıìle . Sek'èahsǫ nı̨dè Setà sı wek'èahsǫ ha ı̨lè , ” gòhdı .
+43008025a	Amìı		“ Amìı anet'e ? ” gıìhdı . 
+43008025b	Amìı		“ Amìı aht'ee sìı hòt'a edeghǫ goıhde ı̨lè .
+43008033	dànìghǫ		Dǫ hagıìhdı , “ Abraham wets'ıhɂǫ̀ǫ-dǫǫ̀ ats'ı̨ı̨t'e , dǫ wı̨ı̨zìı gots'ǫ̀ k'àowo gòı̨lè nıìle . Eyıt'à dànìghǫ , t'asìı wı̨ı̨zìı naxıts'ǫ̀ k'àowo ha nıìle , nı̨ı̨dı ? ” gıìhdı .
+43008043	Dànìghǫ		Dànìghǫ seyatıì wenıahdì-le ? Ayìı dàehsı̨ı̨ sìı aàhkw'o ha naxıgha dìì t'à hǫt'e .
+43008046a	~		Asį̀į̀ naxı̨ ı̨łè hołı̨ı̨ hòwhıhtsı̨ sèhdı sek'e nìdahoeɂà ha dìì-le ? 
+43008046b	dànìghǫ		Ehkw'ı gohde nı̨dè dànìghǫ naxıgha ehkw'ı aehsı̨-le ?
+43008053	Amìı		Gocho Abraham wenahk'e nelı̨ nì-ghǫ aı̨dı ? Abraham eyıts'ǫ nakwenàoɂǫǫ hazǫǫ̀ ełaàgı̨ı̨dè ı̨lè . Amìı aht'e edęęwǫ ? ” gıìhdı .
+43008057	~		K'aodèe hagedı , “ Įłaà sı̨laènǫ neghoò-le , hanìkò Abraham neeɂı̨ nı̨ı̨dı nì ? ” gıìhdı .
+43009002	amìı		Wecheekeè dageehke , “ K'àowo , amìı wehołı̨į̀ k'èxa dıı dǫ wedaà goìlee wegǫ̀hłı̨ , ededı̨ hanì-le-ı̨dè wetà eyıts'ǫ wemǫ ? ” gıìhdı .
+43009010	Dànìghǫ		Eyıt'à dageehke , “ Dànìghǫ dıì negha xègaat'ı̨į̀ agòjà ? ” gıìhdı .
+43009012	welaedì		“ Eyı dǫ welaedì ? ” gıìhdı . “ Wek'èehsǫ-le , ” gòhdı .
+43009016	dànì		Pharısee mǫ̀hdaa Zezì ghǫ hagedı , “ Eyı dǫ at'ı̨ı̨ sìı Nǫ̀htsı̨ Dzęę̀ k'èdì nıìle t'à , Nǫ̀htsı̨ gots'ǫ at'ı̨ nıìle , ” gedı . Hanìkò mǫ̀hdaa hagedı , “ Dıı hanì enıìyah hòèhtsı̨ nı̨dè dànì hołı̨ı̨-hohtsı̨ı̨-dǫǫ̀ welè ? ” gedı t'à ełek'ę̀ę̀ agı̨ı̨wǫ-le agejà .
+43009017	dàı̨dı		K'achı̨ ı̨łàà eyı dǫ dageehke , “ Nı̨ nedaà k'aàt'ıì ayį̀į̀là ne t'à eyı dǫ sìı weghǫ dàı̨dı ? ” gıìhdı . Dǫ gots'ǫ̀ hadı , “ Eyı dǫ nakwenàoɂǫǫ hǫt'e , ” gòhdı .
+43009019	Dànìghǫ		“ Dıı naxıza nì-ı̨t'e ? ” gedıì dagogeehke . “ Dıı dǫ wedaà goìlee wegǫ̀hłı̨ nì ? Dànìghǫ dıì wedaà k'aàt'ıì ajà ? ” gedıì dagogeehke .
+43009026a	Ayìı		K'achı̨ dageehke , “ Ayìı dànììlà ? 
+43009026b	Dànì		Dànì nedaà k'aàt'ıì ayį̀į̀là ? ” gıìhdı .
+43009027	~		Dǫ gots'ǫ̀ hadı , “ Hòt'a hanaxèehsı̨ ı̨lè hanìkò seàhkw'ǫ-le . K'achı̨ naxıts'ǫ̀ haehsı̨ ha dahwhǫ nì ? Naxı̨ sı wecheekeè aahłı̨ ha dahwhǫ nì-ghǫ aahdı ? ” gòhdı .
+43009034	~		Hadı t'à gıts'ǫ̀ hadı , “ Negǫ̀hłı̨ gots'ǫ hołı̨ı̨-hohtsı̨ı̨-dǫǫ̀ anet'e , hoghàgoı̨htǫ ha neewǫ nì ? ” gıìhdı tł'axǫǫ̀ xàdegeèzhì .
+43009036	amìı		Dǫ hadı , “ K'àowo , amìı awį̀ı̨dı ? Segha ehkw'ı adı ha t'à , sets'ǫ̀ haı̨dı , ” yèhdı .
+43010020	Ayìıha		Dǫ łǫ hagedı , “ Įnìłı̨ı̨ wets'ǫ̀-èlı̨ eyıts'ǫ ezhı̨ne whelı̨ . Ayìıha wets'eèhkw'ǫ lì ? ” gedı .
+43010021	~		Hanìkò dǫ mǫ̀hdaa hagedı , “ Dǫ ı̨nìłı̨ı̨ wets'ǫ̀-èlı̨ı̨ sìı hanì gode ha nıìle . Asį̀į̀ ı̨nìłı̨ı̨ , dǫdaà k'aàt'ıì ayehɂı̨ ? ” gedı .
+43010024	Dàwhaà		Israel got'ı̨į̀ gha k'aodèe gımǫǫ̀ nìı̨de , hagıìhdı , “ Dàwhaà nek'eènats'eèhɂı̨ ha ? Chrıst wèts'edıı eyı anet'e nı̨dè , gots'ǫ̀ ehkw'ı haı̨dı , ” gıìhdı .
+43010032	dàhòt'ı̨ı̨		Hanìkò Zezì gots'ǫ̀ hadı , “ Setà wedahxà enıìyah deè łǫ naxıdaà eghàlaıhdà hǫt'e , enıìyah dàhòt'ı̨ı̨ k'èxa kwe t'à ełaàsèahwhı ha dahwhǫ ? ” gòhdı .
+43010036	dànì		Setà edegha dǫ į̀hchìı eyıts'ǫ dıı nèk'e ts'ǫ̀ ayį̀į̀làa sìı , dànì yıızı ha dahwhǫ ? Eyıt'à ‘ Nǫ̀htsı̨ Weza aht'e , ’ dehsı̨ nı̨dè dànìghǫ Nǫ̀htsı̨ k'èch'a gohde sèahdı ?
+43011034	Edı̨į̀		Dagoehke , “ Edı̨į̀ nèweahtı̨ ? ” gòhdı . Hagedı , “ Gots'ǫ̀ K'àowo , gok'èątłe gà weghàı̨da , ” gıìhdı .
+43011047	ayìı		Eyıt'à yahtıı-gha-k'aodèe eyıts'ǫ Pharısee gı̨ı̨lı̨ı̨ sìı ełegeèhdì gha Israel got'ı̨į̀ gha k'aodèe hazǫǫ̀ gokayagı̨ı̨htı , hagedı , “ Eyı dǫ enıìyah łǫ hohtsı̨ , eyıt'à ayìı dàwets'ele ha ?
+43011056	~		Jerusalem ekǫ dǫ łǫ Zezì hak'egeet'į̀ . Nǫ̀htsı̨kǫ̀-gocho gà nàgeèhza ekò dałegeehke , hagedı , “ Asį̀į̀ nàsı̨deè nàtła ha sǫnı ? ” ełègeedı .
+43012005	Dànìghǫ		“ Dànìghǫ eyı yìk'eetł'òo weghǫ nàèdì-le ? Wesǫǫ̀mbaà dǫ-teèt'ı̨ı̨ ghàgele ha ı̨lè , ı̨łè xo eghàlats'ı̨ı̨dà xètłǫ hǫt'e , ” hadı .
+43012027	~		“ Dıì sedzeè t'à segha dìì ; dàehsı̨ lì ? ‘ Setà eyı sadzeè k'e dàı̨hɂà ha sìı ch'à edaxàsı̨ı̨htè , ’ dehsı̨ ha nì ? Į̀le , sexè dàgode ha sìı hotıì eyı gha jǫ ahjà hǫt'e .
+43012034a	dànìghǫ		Dǫ łǫ dageehke xè hagedı , “ Nǫ̀htsı̨ Nı̨htł'è k'e dıı hanì dek'eèhtł'è ne , ‘ Chrıst wèts'edıı sìı welǫ whìle ts'ǫ̀ goxè eda ha , ’ dek'eèhtł'è . Eyıt'à dànìghǫ dıı haı̨dı , ‘ Dǫ-wet'àaɂàa-deè ı̨dòo awedle ha ’ ? 
+43012034b	amìı		Dıı ‘ Dǫ-wet'àaɂàa-deè ’ sìı amìı awį̀ı̨dı ? ” gıìhdı .
+43012038a	amìı		Eyı sìı nakwenàoɂǫǫ Isaıah weyatıì k'ę̀ę̀ agode ha t'à agòjà , dıı hadı ı̨lè , “ Sets'ǫ̀ K'àowo , amìı goyatıì wegha ehkw'ı-ahodı , 
+43012038b	amìı		eyıts'ǫ enıìyah whenehtsı̨ı̨ sìı amìı yenıedì awììdlà ? ” Isaıah hadı ı̨lè .
+43013025	amìı		Eyı wecheekeè sìı Zezì gà nìdaı̨hgè , “ Sets'ǫ̀ K'àowo , amìı awį̀ı̨dı ? ” yèhdı .
+43013036	edı̨į̀		Sımon-Peter dayeehke , “ Sets'ǫ̀ K'àowo , edı̨į̀ ts'ǫ̀ aąde ha ? ” Zezì hayèhdı , “ Edı̨į̀ ts'ǫ̀ aht'ı̨ı̨ sìı dıì sek'èahde ha dìì , hanìkò nǫǫde-ı̨dè sek'èahde ha , ” yèhdı .
+43013037	dànìghǫ		Peter k'achı̨ dayeehke , “ Sets'ǫ̀ K'àowo , dànìghǫ dıì nek'èehtła ha dìì ? Negha ełaehwhı ha ts'atà whıhda , ” yèhdı .
+43014002	~		Setà wekǫ̀ goı̨chà hǫt'e ; hagǫ̀ht'e-le nı̨dè naxıts'ǫ̀ haehsı̨ ha ı̨lè . Ekǫ naxıda gòɂǫǫ̀ agohłe ha .
+43014005	dànì		Thomas yets'ǫ̀ hadı , “ Sets'ǫ̀ K'àowo , edı̨į̀ ts'ǫ̀ anet'ı̨ı̨ sìı wek'èts'eezǫ nıìle , eyıt'à edı̨į̀ goòɂàa sìı dànì wek'èts'eezǫ lì ? ” yèhdı .
+43014009	dànìghǫ		Zezì hayèhdı , “ Phılıp , whaà naxıxè aeht'į̀ , hanìkò ı̨łaà sek'èı̨zǫ-le nì ? Amìı saɂı̨ı̨ sìı hòt'a Setà ghàı̨dà hǫt'e . Eyıt'à dànìghǫ ‘ Netà weghàts'eedaà agoı̨le , ’ sìı̨dı ?
+43014022	dànìghǫ		Hadı t'à Zhıdàà ( Zhıdàà-Iscarıyot awèts'edı-le ) hadı , “ Sets'ǫ̀ K'àowo , dànìghǫ goxı̨ nets'eɂį̀ agoı̨le ha , hanìkò dıı nèk'e gots'ǫ dǫ negeɂį̀ agı̨ı̨le ha-le ? ” yèhdı .
+43016005	Edı̨į̀		“ Hòt'a dıì amìı sı̨ı̨hɂàa sìı wets'ǫ̀ anahde ha . Hanìkò naxı̨ sìı , ‘ Edı̨į̀ anet'ı̨ ? ’ sèahdı t'à daseahke-le .
+43016017	Dàdıì-adı		Zezì wecheekeè mǫ̀hdaa ełets'ǫ̀ hagedı , “ Dàdıì-adı , ‘ Whaà-le-t'ıì seahɂį̀ ha-le , eyıts'ǫ k'achı̨ whaà-le-t'ıì seahɂį̀ ha ? ’ eyıts'ǫ dıı hadı , ‘ Setà wets'ǫ̀ anahde ha t'à , ’ hadıı sìı dàdıì-adı , ” gedı .
+43016018	ayìı		K'achı̨ dałegeehke , “ Dıı ayìı ayèhdı , ‘ whaà-le-t'ıì ’ ? Dàdıì-adıı sìı wenıts'eedì-le , ” ełègeedı .
+43018004	Amìı		Zezì wexè dàgode ha sìı hazǫǫ̀ yek'èezǫ t'à gots'ǫ̀ èhtła , hagòhdı , “ Amìı hak'eaht'į̀ ? ” gòhdı dagoehke .
+43018007	Amìı		K'achı̨ dagoehke , “ Amìı hak'eaht'į̀ ? ” K'achı̨ hagedı , “ Zezì , Nazareth got'ı̨į̀ , ” gedı .
+43018011	~		Zezì , Peter ts'ǫ̀ hadı , “ Nets'ǫ behcho deyìı naı̨chı ! Setà lıbò sets'ǫ̀ dayakaa sìı ehts'e ha-le neewǫ nì ? Setà wınì k'ę̀ę̀ eghàlaehda ha hǫt'e , ” yèhdı .
+43018021	ayìıha		Eyıt'à ayìıha dası̨ı̨hke ? Dǫ segıìkw'oo sìı dagıahke , dàehsı̨į̀ goıhdee sìı hotıì gık'èezǫ hǫt'e , ” yèhdı .
+43018023	ayìıha		Zezì yets'ǫ̀ hadı , “ Ekǫ-le xàyaehtı nı̨dè sets'ǫ̀ haı̨dı , hanìkò ehkw'ı xàyaehtı nı̨dè ayìıha nàseneekà ? ” yèhdı .
+43018029	ayìı		Eyıt'à k'àowo Pılate gots'ǫ̀ xàèhtła , hadı , “ Dıı dǫ ayìı wek'e nìdahoahɂà ? ” gòhdı .
+43018035	Ayìı		Eyıt'à Pılate yets'ǫ̀ hadı , “ Israel got'ı̨į̀ aht'e seneehwhǫ nì ? Xàè nèot'ı̨ eyıts'ǫ yahtıı-gha-k'aodèe setł'aànıgį̀ı̨htı̨ hǫt'e . Ayìı dànelà ghǫ agedı ? ” yèhdı .
+43018038	ayìı		K'àowo Pılate hadı , “ Nàowo ehkw'ıı ayìı welè ? ” yèhdı . Hadı tł'axǫǫ̀ k'àowo Pılate k'achı̨ Israel got'ı̨į̀ ts'ǫ̀ xàèhtła , hadı , “ Eyı dǫ ayìı wek'e nìdahoehɂà ha sìı wek'èehsǫ-le , ” gòhdı .
+43019009	Edı̨į̀		Kǫ̀ gocho goyanaèhtła . Zezì ts'ǫ̀ hadı , “ Edı̨į̀ gots'ǫ anet'ı̨ ? ” Hanìkò Zezì xàyaı̨htı-le .
+43019015	~		Hanìkò dǫ yagìzeh , hagedı , “ Ełaàwèahwhı ! Ełaàwèahwhı ! Dechı̨et'aa k'e wedeàhtsò ! ” gedıì nàdahogehdè . K'àowo Pılate gots'ǫ̀ hadı , “ Naxıts'ǫ k'àowocho wedıìtsò ha dahwhǫ nì ? ” gòhdı . Hanìkò yahtıı-gha-k'aodèe hagedı , “ Caesar ededı̨ zǫ gogha k'àowocho elı̨ ne , ” gıìhdı .
+43020013	ayìıha		Yak'eet'ı̨į̀ dageehke , “ Ts'èko , ayìıha netse ? ” gıìhdı . Mary hadı , “ Sets'ǫ̀ K'àowo t'asį̀ı̨ nageèhchì , edı̨į̀ nègı̨ı̨htı̨ı̨ sìı wek'èehsǫ-le , ” gòhdı .
+43020015a	ayìıha		Zezì yets'ǫ̀ hadı , “ Ts'èko , ayìıha netse ? 
+43020015b	Amìı		Amìı hak'eı̨t'į̀ ? ” yèhdı . Dèè-sıìgǫǫhwhǫǫ-dǫǫ̀ at'ı̨ yı̨ı̨hwhǫ t'à , Mary hayèhdı , “ K'àowo , t'asį̀ı̨ nèwı̨ı̨chì nı̨dè edı̨į̀ nèwı̨ı̨htį̀ı̨ sìı sets'ǫ̀ haı̨dı , naweehchı ha t'à , ” yèhdı .
+43021012	Amìı		Zezì gots'ǫ̀ hadı , “ Jǫ aahdè gà shèahzhe , ” gòhdı . Wecheekeè gots'ǫ̀ K'àowo at'ı̨ ne gık'èezǫ t'à “ Amìı anet'e , ” gıìhdı ha gı̨ı̨wǫ-le .
+43021020	amìı		Peter ets'aèhtła ekò k'eet'į̀ , wecheekeè ı̨łè Zezì yeghǫneètǫǫ sìı gok'èè naetłe yaɂı̨ . ( Eyı wecheekeè sìı nǫǫde ełexè shègıazhe ekò Zezì k'e dètsǫhtı̨ı̨ sìı hayèhdı ı̨lè , “ K'àowo , amìı k'aodèe tł'aànehtè ha ? ” yèhdı ı̨lè . )
+43021021	dàde		Peter eyı wecheekeè ghǫ Zezì daehke , “ K'àowo , ekò ededı̨ dàde ha ? ” yèhdı .
+43021022	~		Zezì yets'ǫ̀ hadı , “ Jǫ nǫehtła gots'ǫ̀ eda ha weehwhǫ nı̨dè eyı negha dàwet'è ? Nı̨ sìı sek'èı̨tłe ha hǫt'e , ” yèhdı .
+43021023	~		Zezì Peter ts'ǫ̀ hadı t'à Nǫ̀htsı̨ wecheekeè hazǫǫ̀ hagedı , eyı wecheekeè ı̨łè ełaàwı ha-le , gedı , godı gèhtsı̨ . Hanìkò Zezì “ Ełaàwı ha-le , ” yeghǫ hadıì-adı nıìle . “ Jǫ nǫehtła gots'ǫ̀ eda ha weehwhǫ nı̨dè eyı negha dàwet'è ? ” eyı zǫ hadı .
+44001011	ayìıha		Gots'ǫ̀ hagedı , “ Galılee got'ı̨į̀ , ayìıha ı̨dòo yat'a ts'ǫ̀ k'eaht'į̀ ? Zezì naxıts'ǫǫ̀ yak'e ts'ǫ̀ nıwıìtı̨ı̨ sìı , eyı xèht'eè yak'e gots'ǫ jǫ anade ha hǫt'e , ” gògedı .
+44002008	~		goxı̨ xàè goyatıì k'ę̀ę̀ gıts'ıìkw'o .
+44002012	Dàgot'ı̨į̀		Dǫ hazǫǫ̀ gıgha enıìyah t'à , dałegeehke , “ Dàgot'ı̨į̀-agot'ı̨ ? ” gedı .
+44002037	ayìı dàts'ı̨ı̨		Dǫ hazǫǫ̀ eyı egıìkw'o ekò geèhyeh lagejà . Peter eyıts'ǫ Zezì wecheekeèdeè ts'ǫ̀ hagedı , “ Gòet'ı̨ı̨ , hanì-ı̨dè ayìı dàts'ı̨ı̨là lì ? ” gedı .
+44003012a	Dànìghǫ		Peter gots'ǫ̀ hadı , “ Israel got'ı̨į̀ , dànìghǫ naxıgha enıìyah dìì ? 
+44003012b	Dànìghǫ		Dànìghǫ naxıgha enıìyah nàhòwo lanì goghàahda ? Goxı̨ godahxà dıı dǫ k'edaà ats'ı̨ı̨là dahwhǫ nì ? Deghàà Nǫ̀htsı̨ wınì k'ę̀ę̀ ts'eedaà adets'ììdlà t'à k'edaà awets'į̀į̀là dahwhǫ nì ? Į̀le , haahwhǫ-le .
+44004007a	~		Gıyatıì k'e Peter eyıts'ǫ John tanı nègogį̀ı̨wa gà dagogeehke , 
+44004007b	Ayìı		“ Ayìı dahxà , 
+44004007c	amìı		hanì-le-ı̨dè amìı wıızì t'à hanì eghàlaahda ? ” gògedı .
+44004016	Dàgets'ele		Dałegeehke , “ Dàgets'ele ha ? ” gedı . “ Enıìyah deè hogèhtsı̨ı̨ sìı dǫ hazǫǫ̀ Jerusalem nàgedèe gık'èezǫ . Eyıt'à hagòjà-le gìts'edı ha dìì .
+44004025a	Dànìghǫ		Gocho Davıd Yedàyeh Nezı̨ı̨ dahxà godeè anelà . Necheekeè dıı hadıì anelà , ‘ Dànìghǫ dıı nèk'e dǫ hazǫǫ̀ xàɂaa sıì gìch'e ? 
+44004025b	Dànìghǫ		Dànìghǫ k'ètł'ǫ̀ gots'ǫ̀ K'àowo k'èch'a aget'ı̨ ?
+44005003	dànìghǫ		Eyıt'à Peter eyı dǫ ts'ǫ̀ hadı , “ Ananıas , dànìghǫ wehłı̨ı̨ nedzeè nezı̨-le ayį̀į̀là t'à Yedàyeh Nezı̨ı̨ ghǫyanèɂǫ ? Dànìghǫ dèè neghǫ nàèdìı sìı wesǫǫ̀mbaà mǫ̀hdaa edegha wek'èı̨dì ?
+44005004	Dànìghǫ		Dèè neghǫ nàèdì kwe sìı eyı dèè nets'ǫ ı̨lè ne sǫnaà ? Neghǫ nàèdì tł'axǫǫ̀ wesǫǫ̀mbaà ts'ǫ̀ k'àı̨wo ı̨lè ne sǫnaà ? Dànìghǫ ekǫ-le eghàlaneedà ? Dǫ ts'ǫ̀ hoı̨ts'ì nıìle , Nǫ̀htsı̨ ts'ǫ̀ hoı̨ts'ì hǫt'e , ” yèhdı .
+44005009	Dànìghǫ		Peter yets'ǫ̀ hadı , “ Dànìghǫ Yedàyeh Nezı̨ı̨ weahdzà ha dahwhǫ nǫǫ̀ ? Cheko nedǫǫ̀ xàgeèhchìı sìı jǫ tı̨ı̨dà ts'ǫ̀ gıadè . Nı̨ sı xànegeehtè ha , ” yèhdı .
+44007026	dànìghǫ		Ek'èdaedzęę̀ k'e Moses Israel got'ı̨į̀ nàke ełek'aàgedè , goghǫ nììtła . Ełets'ǫ̀ gınì nezı̨į̀ agole ha nıwǫ t'à , gots'ǫ̀ hadı , ‘ Sèot'ı̨ı̨ , ełechı aaht'e , dànìghǫ ełek'aahdè ? ’ gòhdı .
+44007027	Amìı		“ Hanìkò dǫ edèot'ı̨ k'aàwoo sìı Moses yı̨ı̨ɂǫ̀ǫ̀ èhtso , hadı , ‘ Amìı k'àowo nèhtsı̨ t'à hanì gots'ǫ̀ goı̨de ?
+44007035	Amìı		“ Moses , wèot'ı̨ gı̨ı̨wǫ-le sìı eyı hǫt'e , gıts'ǫ̀ dıı hadı ı̨lè , ‘ Amìı gogha k'àowo nèhtsı̨ t'à hanì gots'ǫ̀ goı̨de ? ’ gıìhdı ı̨lè . Nǫ̀htsı̨ eyı dǫ et'ıì gots'ǫ̀ nayı̨ı̨hɂà , gogha k'àowo elı̨ ha eyıts'ǫ edaxàgolee sı elı̨ ha ayį̀į̀là . Yak'eet'ı̨į̀ t'à hadıì yets'ǫ̀ goı̨de ı̨lè .
+44007049a	dàhòt'ı̨ı̨		‘ Gots'ǫ̀ K'àowo hadı : Yak'e sìı sedaèhchı̨cho hǫt'e , eyıts'ǫ dıı nèk'e sìı wek'e nàeht'è hǫt'e . Eyıt'à kǫ̀ dàhòt'ı̨ı̨ segha nehtsı̨ ha neewǫ nǫǫ̀ ? 
+44007049b	edı̨į̀		Eyıts'ǫ edı̨į̀ segha kǫ̀ goı̨htsı̨ ha neewǫ nǫǫ̀ ?
+44007052	~		Naxıcho nakwenàoɂǫǫ hazǫǫ̀ dagogį̀ı̨hɂa ı̨lè hǫt'e . Nakwenàoɂǫǫ , ‘ Dǫ Ehkw'ı Edaa ’ nıìtła ha , gedıı sìı ełaàgogį̀ı̨hdè ı̨lè . Ekò dıì sìı naxı̨ dèe-ts'ǫ̀-k'àowo tł'aàwèahtı̨ xè ełaàwèahwho hǫt'e .
+44008031	dànì		“ Dǫ sedaedı lenǫsıı dànì weneehdì lì ? ” hadı . Eyıt'à Phılıp ts'ǫ̀ hadı , “ Segà behchı̨į̀ yìı̨tła , ” yèhdı .
+44008033	~		Sıì tsį̀gį̀ı̨hɂa eyıts'ǫ ehkw'ı gısınìyaı̨htı-le . Dıı nèk'e ełaàwìgwo t'à , wets'ıhɂǫ̀ǫ-dǫǫ̀ gǫ̀hłı̨-le , ” hanì dek'eèhtł'è .
+44008034	amìı		Eyı dǫ , Phılıp daehke , “ Sets'ǫ̀ haı̨dı , nakwenàoɂǫǫ amìı ghǫ godeè-adı ? Edeghǫ gode , hanì-le-ı̨dè eyıì-le ghǫ godeè-adı ? ” yèhdıì dayeehke .
+44008036	~		Tı̨lı k'e nagıadè ekò tı whehtǫ gà nègı̨ı̨de . Eyı dǫ hadı , “ Jǫ tı whehtǫ , asį̀į̀ sek'ètaìdzı̨ ha dìì-le ? ” yèhdı .
+44009004	dànìghǫ		Saul dèè k'e nàakw'o eyıts'ǫ wets'ǫ̀ hats'edıì hǫt'e , “ Saul , Saul , dànìghǫ dasenèehɂa ? ”
+44009005	amìı		Saul hadı , “ K'àowo , amìı anet'e ? ” “ Zezì aht'e , sı̨ sìı dasenèehɂa hǫt'e .
+44009006	ayìı		Nıį̀tła gà kǫ̀ta ts'ǫ̀ anede , ayìı dànele ha sìı nets'ǫ̀ hagedı ha , ” Zezì yèhdı .
+44010004	Ayìı ghǫ		Cornelıus yaɂı̨ t'à , sıì dèhyeh . “ Sets'ǫ̀ K'àowo , ayìı ghǫ aı̨dı ? ” yèhdı . Yak'eet'ı̨į̀ yets'ǫ̀ hadı , “ T'aats'ǫǫ̀ Nǫ̀htsı̨ ts'ǫ̀ xàyaı̨htı eyıts'ǫ dǫ-teèt'ı̨ı̨ ts'ànedı t'à Nǫ̀htsı̨ nenadì .
+44010021	Ayìı ghǫ		Eyıt'à Peter ı̨zhıì gots'ǫ̀ hodàèhtła , dǫ nègı̨ı̨de ts'ǫ̀ hadı , “ Amìı wekak'eaht'į̀ı̨ sìı eyı aht'e . Ayìı ghǫ jǫ nàwhahde ? ” gòhdı .
+44010029	Ayìı ghǫ		Eyıt'à jǫ ts'ǫ̀ sekàgòhdì ekò į̀le dehsı̨-le . Ayìı ghǫ jǫ sekàwhahɂà ? ” Peter gòhdı .
+44010047	amìı		“ Goxèht'eè Yedàyeh Nezı̨ı̨ gık'e ajà t'à , amìı dıı dǫ gık'ètaìdzı̨ ha-le gòhdı ha ?
+44011017a	dànì		Zezì gogha ehkw'ı adı t'à Nǫ̀htsı̨ Yedàyeh Nezı̨ı̨ goghàyı̨ı̨ɂǫ hǫt'e . Dǫ eyıì-le xàɂaa goxèht'eè Yedàyeh Nezı̨ı̨ gık'e ajà nı̨dè , dànì Nǫ̀htsı̨ k'èch'a gohde lì ? Wenahk'e aht'e nıìle , ” Peter gòhdı .
+44011017b	~		
+44012018	~		K'omǫǫ̀dǫǫ̀ agòjà ekò Peter wègoèt'į̀-le t'à eghǫǫ-dǫǫ̀ nıdahogı̨į̀hdè .
+44013025	~		John-Baptıst , Nǫ̀htsı̨ la yeghàı̨ɂǫǫ sìı yeghǫ nat'è ha nìkw'o ekò hadı , ‘ Eyı dǫ aht'e dahwhǫ nì ? Į̀le , eyı aht'e nıìle . Eyı dǫ sek'èè nììtła ha sìı wekechı̨į̀tł'ıì ejıehge ha kò dǫ lahoeht'ı̨ nıìle , ’ hadı ı̨lè .
+44014015	Dànìghǫ		“ Dànìghǫ aaht'ı̨ ? Goxı̨ naxıxèht'eè dǫ ats'ı̨ı̨t'e . Naxıts'ǫ̀ godı nezı̨ı̨ nèts'ı̨ı̨ɂǫ . T'asìı wet'àaɂà-le k'alaahdèe sìı wedę aahłe , Nǫ̀htsı̨ edaa sìı wets'ǫ̀ aahde . Ededı̨ sìı yak'e , dèe , tı eyıts'ǫ t'asìı hazǫǫ̀ weyìı nàdèe sìı yèhtsı̨ hǫt'e .
+44015010	ayìıha		Nǫ̀htsı̨ hanì ha nıwǫ nı̨dè ayìıha Nǫ̀htsı̨ weahdzà ? Dǫ eyıì-le xàɂaa Nǫ̀htsı̨ gı̨ı̨wǫǫ sìı eyı nàowo nedà lanıı gık'e nèts'ele ha dìì . Gocho eyıts'ǫ goxı̨ sı gogha nedàa t'à wek'ę̀ę̀ ts'eeda ha dìì ı̨lè .
+44016030	ayìı		Xàgoèwa tł'axǫǫ̀ dagoehke hadı , “ K'àowo , edaxàseetè gha ayìı dàhłe ha ? ” gòhdı .
+44017018	Ayìı ghǫ		Dǫ mǫ̀hdaa Epıcurean nàowoò eyıts'ǫ Stoıc nàowoò k'ę̀ę̀ nànıgedèe sìı Paul k'èch'a gogede , hagedı , “ Dıı dǫ wewà łǫ ayìı ghǫ godeè-adı ? ” Eyıts'ǫ mǫ̀hdaa hagedı , “ Nǫ̀htsı̨ ładı̨ı̨ ghǫ godeè-adı lanì , ” gedı . Paul , Zezì wegodıì nezı̨ı̨ t'à gode eyıts'ǫ ı̨daà nı̨dè dǫ nagìdà ha hadı t'à , agıìhdı .
+44017019	~		Eyıt'à dǫ łǫ dèhkw'ee k'è gòɂǫǫ , Ayopagus gòyeh , ekǫ ts'ǫ̀ geèhchì . Paul ts'ǫ̀ hagedı , “ Dıı godı eładı̨ı̨ t'à dǫ hoghàı̨htǫǫ sìı wek'èts'eezǫ ha ts'ı̨ı̨wǫ .
+44019003	ayìı t'à		Paul gots'ǫ̀ hadı , “ Hanì-ı̨dè ayìı t'à naxık'ètaìdzǫ nǫǫ̀ ? ” gòhdı . “ John-Baptıst wenàowoò k'ę̀ę̀ gok'ètaìdzǫ , ” gedı .
+44019015	amìı		Hanìkò ı̨łàà ı̨nìłı̨ı̨ gots'ǫ̀ hadı , “ Zezì wek'èehsǫ eyıts'ǫ Paul sı wek'èehsǫ , hanìkò naxı̨ amìı aaht'e ? ” gòhdı .
+44019035	~		Nǫǫde kǫ̀ta gha k'àowo dǫ xè ts'èwhı̨į̀ hòɂǫǫ̀ ayį̀į̀là . Dǫ ts'ǫ̀ hadı , “ Ephesus got'ı̨į̀ , jǫ kǫ̀ta dǫ nàgedèe sìı Artemıs , nǫ̀htsı̨ deè , wets'ǫ yahtıı-kǫ̀-gocho k'ègedì agı̨ı̨t'e , dıı nèk'e dǫ hazǫǫ̀ gık'èezǫ hǫt'e . Eyıts'ǫ kwe wek'ę̀ę̀ wègaat'ı̨ı̨ sìı yak'e gots'ǫ hodàèhkw'o , eyı sı gık'èezǫ hǫt'e .
+44021013a	Ayìıha		Hanìkò Paul hadı , “ Ayìıha seghǫ aahtse xè sedzeè etseè aahɂı̨ ? Zezì wıızì ts'ıhɂǫ̀ dasegeezà gha ts'atà whıhda hǫt'e , eyı zǫǫ̀-le wets'ıhɂǫ̀ ekǫ ełaehwhı ha segha asanìle hǫt'e , ” gòhdı .
+44021013b	~		
+44021022	ayìı dàts'ı̨ı̨		Eyı ghǫ ayìı dàts'ı̨ı̨là lì ? Jǫ nàwhı̨ı̨tła ghǫ gıìkw'o ha hǫt'e .
+44021033a	amìı		Eghǫǫ-dǫǫ̀-gha-k'àowo weyatıì k'e Paul nıgıìchì eyıts'ǫ satsǫ̀tł'ıì nàke t'à dageèzhà . Eyı tł'axǫǫ̀ dǫ dagoehke , “ Dıı dǫ amìı hǫt'e eyıts'ǫ 
+44021033b	ayìı t'à		ayìı t'à ekǫ-le hòèhtsı̨ ? ” gòhdı .
+44022007	dànìghǫ		Dèè k'e ts'ǫ̀ nàehkw'o eyıts'ǫ sets'ǫ̀ gots'edeè hǫt'e , ‘ Saul , Saul , dànìghǫ dasenèehɂa ? ’ sèts'edıì hǫt'e .
+44022008	amìı		“ ‘ Sets'ǫ̀ K'àowo amìı anet'e ? ’ dehsı̨ . “ ‘ Nazareth got'ı̨į̀ Zezì aht'e . Sı̨ sìı dasenèehɂa hǫt'e , ’ sèhdı .
+44022010	ayìı		“ ‘ Sets'ǫ̀ K'àowo , ayìı dàhłe ha neewǫ ? ’ dehsı̨ . “ ‘ Nıį̀tła , kǫ̀ta Damaskus nàątła . Ekǫ ayìı dàąle ha sìı nets'ǫ̀ hagedı ha , ’ sèhdı .
+44022016	ayìı		Hot'eè ayìı k'enaąɂı̨ , nıį̀tła ! Gots'ǫ̀ K'àowo wıızì t'à nek'ètaìdzı̨ ha eyıts'ǫ nehołı̨į̀ neghǫ nahoezhe ha , ’ sèhdı .
+44022026	~		K'àowo-k'è-whedaa eyı ghǫ ıìkw'o ekò , eghǫǫ-dǫǫ̀-gha-k'àowo ts'ǫ̀ èhtła , Paul dàdıı sìı yets'ǫ̀ hadı , “ Dıı dǫ Roman got'ı̨į̀ gha wııtà ne t'à , dàwı̨ı̨le ha ? ” yèhdı .
+44023003	~		Eyıt'à Paul yets'ǫ̀ hadı , “ Nǫ̀htsı̨ nàneehkwa ha . Kǫ̀got'aà degoo aatł'èa lanet'e ! Ehkw'ı ı̨da laąt'ı̨ kò wek'ę̀ę̀ ı̨da nıìle ! Gonàowoò k'ę̀ę̀ sesınìyaetı ha ı̨lè hanìkò dǫ nàsegııkà gìı̨dı t'à gonàowoò k'èch'a eghàlaı̨da hǫt'e , ” yèhdı .
+44023009	~		Eyıt'à dǫ hazǫǫ̀ nìdahogı̨į̀hdè . Pharısee mǫ̀hdaa Nǫ̀htsı̨ nàowoò hoghàgogeehtǫǫ gı̨ı̨lı̨ı̨ sìı nıgı̨į̀de gà sıì nàyagı̨ı̨htı , hagedı , “ Dıı dǫ ekǫ-le eghàlaı̨dà ts'edı ha dìì . Edahxǫ ı̨nì hanì-le-ı̨dè yak'eet'ı̨į̀ yets'ǫ̀ goı̨de t'à adı sǫnı , ” gedı .
+44023019	Ayìı		K'àowo cheko whatsǫǫ̀ nèyı̨ı̨htı̨ gà dayeehke , “ Ayìı sets'ǫ̀ haı̨dı ha neewǫ ? ” yèhdı .
+44026008	dànìghǫ		Nǫ̀htsı̨ dǫ naìdà ayele ha sìı dànìghǫ naxıgha ehkw'ı-ahodı-le sǫnı ?
+44026014	dànìghǫ		Hazǫǫ̀ dèè k'e nàts'ı̨ı̨tł'ı eyıts'ǫ Aramaıc yatıì k'ę̀ę̀ sets'ǫ̀ gots'edeè hǫt'e , ‘ Saul , Saul , dànìghǫ dasènèehɂa ? Nekwì nàtso , geh goòts'o nàı̨tà ha dìì , ’ sèts'edıì hǫt'e .
+44026015	amìı		“ Eyıt'à dıı haehsı̨ , ‘ K'àowo , amìı anet'e ? ’ “ ‘ Zezì aht'e , sı̨ sìı dasenèehɂa hǫt'e , ’ sèhdı .
+45002017	~		Ekò naxı̨ Israel got'ı̨į̀ ats'ı̨ı̨t'e dahdı xè Moses wenàowoò k'ę̀ę̀ aahda t'à naxıgha t'asagǫ̀ht'e-le dahwhǫ nì ? Nǫ̀htsı̨ wets'ǫ dǫ aaht'e dahwhǫ t'à xàdahoahdì ha nì ?
+45002021	dànìghǫ		Ekò naxı̨ dǫ eyıì-le hoghàgıahtǫ nı̨dè dànìghǫ hoghàdeahtǫ-le ? Ets'eeɂį̀ k'èch'a goahde nı̨dè dànıt'à naxı̨ èhłı̨ aahɂį̀ ?
+45002028	~		Dǫ Moses wenàowoò k'ę̀ę̀ wekwǫ̀ nàt'à zǫ t'à Israel got'ı̨į̀ wedeèdlı̨ı̨ elı̨ nıìle , eyıts'ǫ hanì gokwǫ̀ nàt'à nı̨dè gozhį̀į̀ zǫ gha nıìle .
+45003001a	ayìıha		Eyıt'à Israel got'ı̨į̀ gı̨ı̨lı̨ı̨ sìı ayìıha eyı gıgha wet'àaɂà hǫt'e ? 
+45003001b	ayìıha		Eyıts'ǫ gıkwǫ̀ nàt'àa sìı ayìıha eyı gıgha wet'àaɂà hǫt'e ?
+45003003	ayìı		Ekò Israel got'ı̨į̀ mǫ̀hdaa gıgha ehkw'ı-ahodı-le ts'ıhɂǫ̀ Nǫ̀htsı̨ ayìı dàyele ha gòhdıı sìı edeyatıì k'èdì ha-le nì ?
+45003005	dàts'edı		Ehkw'ı-le eghàlats'eeda nı̨dè Nǫ̀htsı̨ wexè ehkw'ı hòɂǫǫ sìı dǫ ts'ǫ̀ deɂǫ̀ǫ̀ nezı̨į̀ wègoèht'į̀ hǫt'e . Eyı ghǫ dàts'edı welì ? Nǫ̀htsı̨ nàgoehkwa nı̨dè gots'ǫ̀ ehkw'ı-le eghàlaeda at'ı̨ dahwhǫ nì ? ( Hanì daɂeehke nı̨dè dǫ gǫǫzǫ-le laehsı̨ . )
+45003006	dànì		Hanì honàedı nıìle ! Nǫ̀htsı̨ ehkw'ı-le eghàlaeda at'ı̨ nı̨dè , dànì Nǫ̀htsı̨ dǫ hazǫǫ̀ gosınìyaehtı welì ?
+45003007a	~		Dǫ dıı hadı ha sǫnı , “ Hołı̨ı̨ nàowoò k'ę̀ę̀ ehda ts'ıhɂǫ̀ Nǫ̀htsı̨ ehkw'ı godee sìı deɂǫ̀ǫ̀ dǫ gık'èezǫ nı̨dè , dǫ deɂǫ̀ǫ̀ gıghàsǫedı ha . 
+45003007b	dànìghǫ		Hanì hòɂǫ nı̨dè , dànìghǫ ı̨łaà hołı̨ı̨-hohtsı̨ı̨-dǫǫ̀ k'ę̀ę̀ sesınìyaetı ha ? ” hadı ha sǫnı .
+45003008	~		Dǫ ts'ǫ̀ dıı hagedı ha lanì , “ Nàowołı̨ı̨ k'ę̀ę̀ ts'ııdà , hanì-ı̨dè wet'à t'asìı nezı̨ı̨ hagode ha , ” gedı ha lanì . Dǫ mǫ̀hdaa hogets'ì t'à hats'edı gògedı , hanìkò amìı hanì dǫ hoghàehtǫǫ sìı wek'èxa hoìla agedle ha edegha geèhnǫ hǫt'e .
+45003009	dàts'edı		Eyıt'à edeghǫ dàts'edı welì ? Dǫ eyıì-le xàɂaa sìı gınahk'e ts'ı̨ı̨lı̨ nì ? Hanì honàedı nıìle ! Israel got'ı̨į̀ eyıts'ǫ dǫ eyıì-le xàɂaa hazǫǫ̀ ełèht'eè hołı̨ı̨ gık'e whela , hòt'a hats'edı ı̨lè .
+45003027a	dànì		Eyıt'à dànì edeghǫ xàdahots'edì welì ? Xàdahots'edì ha honàedı nıìle ! 
+45003027b	Ayìı		Ayìı nàowo t'à ehkw'ıì ats'ejà ts'edı welì ? 
+45003027c	~		Moses wenàowoò k'èts'edì t'à ehkw'ı goıtà ts'edı ha nì ? Į̀le ne , hanìkò Zezì gogha ehkw'ı adı t'à ehkw'ı ts'eedaa k'ę̀ę̀ goıtà ha hǫt'e .
+45004001	dàts'edı		Eyıt'à hanì hòɂǫ nı̨dè gocho Abraham weghǫ dàts'edı lì ? Nǫ̀htsı̨ k'ę̀ę̀ dǫ ehkw'ı ts'ı̨ı̨lı̨ı̨ sìı ghǫ ayìı k'èhoèhzà ?
+45004003	~		Nǫ̀htsı̨ Nı̨htł'è k'e dıı hanì dek'eèhtł'è : “ Abraham Nǫ̀htsı̨ yegha ehkw'ı adı ts'ıhɂǫ̀ , ehkw'ı edaa k'ę̀ę̀ wııtà ayį̀į̀là , ” dek'eèhtł'è .
+45004010	~		Nǫ̀htsı̨ Abraham ehkw'ı edaa k'ę̀ę̀ yııhtà ekò asį̀į̀ hòt'a wekwǫ̀ nàat'a ı̨lè ? Į̀le , wekwǫ̀ nàat'a kwe Nǫ̀htsı̨ ehkw'ı edaa k'ę̀ę̀ yııhtà ı̨lè .
+45005010	~		Įłaà Nǫ̀htsı̨ wek'èch'a ts'eeda ekò weza gogha ełaı̨wo t'à Nǫ̀htsı̨ wexè ts'èwhı̨į̀ ts'eedaà agǫ̀ǫ̀là . Nǫ̀htsı̨ wexè ts'èwhı̨į̀ ts'eeda agòìdlà zǫǫ̀-le , dıì Zezì wexè ts'eeda t'à denahk'e edaxàgole ha hǫt'e .
+45005021	~		Hanì hòɂǫ t'à hołı̨ı̨ ts'ıhɂǫ̀ dǫ ełaàgede ı̨lè , hanìkò Nǫ̀htsı̨ gots'ǫ̀ sǫnıwǫ t'à ehkw'ı geedaa k'ę̀ę̀ gııtà agole ha , eyıts'ǫ Zezì-Krı wet'ǫ̀ǫ̀ welǫ whìle ts'ǫ̀ geedaà agole ha .
+45006001	dàts'edı		Hanì hòɂǫ nı̨dè dàts'edı welì ? Nǫ̀htsı̨ deɂǫ̀ǫ̀ gots'ǫ̀ sǫnıwǫ t'à k'èdaà hołı̨ı̨ hots'ehtsı̨ ha nì ?
+45006002	dànì		Hanì ha honàedı nıìle ! Goxı̨ hołı̨ı̨ hots'ehtsı̨ ts'ǫ̀ ełaàts'ı̨ı̨dè gha goıtà hǫt'e . Eyıt'à dànì k'èdaà hołı̨ı̨ hots'ehtsı̨ welì ?
+45006015	dàts'ejà		Goxè hagǫ̀ht'e nı̨dè , dàts'ejà lì ? Nàowo tł'a ts'eèhkw'e-le hanìkò Nǫ̀htsı̨ wesǫnıwǫ tł'a ts'eèhkw'e t'à k'èdaà hołı̨ı̨ hots'ehtsı̨ ha nì ? Hanì ha honàedı nıìle !
+45006021	Ayìı		Ayìı weghàlaahda ı̨lèe sìı dıì weghǫ į̀į̀zhaahłı̨ hǫt'e . Hołı̨ı̨ hòahtsı̨ t'à naxıgha sìghà hòɂǫ nıìle . Eyı hołı̨ı̨ wets'ıhɂǫ̀ ełaàts'ede hǫt'e .
+45007007	dàts'edı		Eyıt'à Moses wenàowoò ghǫ dàts'edı welì ? Eyı nàowo hołı̨ı̨ nì ı̨t'e ? Hanì nıìle ! Ayìı hołı̨ı̨ ne sìı wek'èehsǫ ha-le ı̨lè , hanìkò eyı nàowo zǫ weghàà wek'èehsǫǫ̀ ahjà . “ Dǫ t'asìı wets'ǫ sìı weahwhǫ ha-le , ” dek'eèhtł'è-le nı̨dè , dǫ eyıì-le wets'ǫ t'asìı ts'ı̨ı̨wǫ nı̨dè ehkw'ı nıìle , eyı deghàà wek'èehsǫ ha-le ı̨lè .
+45007024	amìı		Eyıt'à sıì sexè gots'eèdı hǫt'e ! Dıı sezhį̀į̀ wet'à ełaehwhı ha sìı amìı yech'à edaxàsį̀ı̨htı̨ lì ?
+45008024	~		Eyı wekanıts'eèɂà t'à edaxàgoazha hǫt'e . Ayìı wekanıts'eèɂàa sìı gogha wègaat'ı̨ nı̨dè k'achı̨ wek'enats'eèhɂı̨ ha nıìle , ayìı wekanıts'eèɂàa sìı hòt'a goghǫ̀t'ǫ ne t'à .
+45008031a	dàts'edı		Eyıt'à eyı wek'èts'eezǫ nı̨dè weghǫ dàts'edı welì ? 
+45008031b	amìı		Nǫ̀htsı̨ goxè hǫt'e nı̨dè amìı gok'èch'a at'ı̨ welì ?
+45008032	~		Xàè Weza sìı edegha yek'èdì-le , hanìkò hazǫǫ̀ gogha ełaı̨woò ayį̀į̀là . Hotıì gogha hanì eghàlaı̨dà nı̨dè , t'asìı hazǫǫ̀ edeza ghàyı̨ı̨laa sìı goxı̨ sı ededzeè t'à goghàyele ha wek'èts'eezǫ .
+45008033	~		Nǫ̀htsı̨ dǫ gòį̀hchìı sìı ehkw'ıì agǫ̀ǫ̀là ne t'à dǫ wı̨ı̨zìı gok'e nìdahoeɂà ha dìì .
+45008034	amìı		Eyıt'à amìı ełaàts'ehde gha gosınìyaehtı ha ? Dǫ wı̨ı̨zìı-le ! Zezì-Krı gogha ełaı̨wo , gogha naìdà , eyıts'ǫ dıì Nǫ̀htsı̨ gà nàgots'ehnèe wheda xè gok'edaedı hǫt'e .
+45008035	amìı		Zezì-Krı goghǫneètǫǫ sìı amìı eyı ch'à ı̨łak'aà agole ha ? Dǫ wı̨ı̨zìı-le ! Gogha hoìla nı̨dè , gogha hoezhì nı̨dè , dats'ı̨ı̨ɂa nı̨dè , bò whìle nı̨dè , gogha goht'ǫ whìle nı̨dè , gogha hoejı̨ nı̨dè , dǫ ełaàgòhde ha gı̨ı̨wǫ nı̨dè , asį̀į̀ eyı hazǫǫ̀ t'à Zezì goghǫneètǫ ch'à agogele ha ? Į̀le ne !
+45009014	~		Nǫ̀htsı̨ sìı ehkw'ı k'ehoɂa-le ts'edı ha nì ? Į̀le , hats'edı ha honàedı nıìle !
+45009019a	dànìghǫ		Naxı̨ sets'ǫ̀ dıı haahdı ha tahkò : “ Hanì hòɂǫ nı̨dè , dànìghǫ Nǫ̀htsı̨ ı̨łaà gok'e nìdahoeɂà ? 
+45009019b	~		Nǫ̀htsı̨ hanıwǫ nı̨dè dǫ wı̨ı̨zìı yınì k'èch'a ade ha dìì , ” sèahdı ha tahkò .
+45009020a	ayìıcho		Hanìkò ayìıcho aaht'e dahwhǫ t'à hanì Nǫ̀htsı̨ ts'ǫ̀ ek'èt'à goahde welì ? “ 
+45009020b	~		Ededı̨ gòèhtsı̨ı̨ sìı wek'èch'a gots'ede ha nì ? 
+45009020c	Dànìghǫ		‘ Dànìghǫ dıı hanì sèwheęhtsı̨ nǫǫ̀ ? ’ hats'edıì dawets'eehke ha nì ? ”
+45009021	ayìı gha		Dǫ ehtł'è t'à tǫ ehtsı̨ı̨ sìı dànì awehłe nıwǫǫ sìı k'ę̀ę̀ yehtsı̨ hǫt'e . Tǫ mǫ̀hdaa dzę taàt'eè wet'àhot'ı̨ gha yehtsı̨ eyıts'ǫ tǫ mǫ̀hdaa wèdaat'ı̨ xè nàsı̨deè wet'àhot'ı̨ gha yehtsı̨ hǫt'e . Eyıt'à dǫ ehtł'è t'à tǫ ehtsı̨ı̨ sìı ayìı gha awehłe nıwǫǫ sìı wets'ǫ̀ hoèlı̨ ne sǫnaà ?
+45009022	dànì		Eyı lanì Nǫ̀htsı̨ wexè hòɂǫ hǫt'e . Nǫ̀htsı̨ dǫ ts'ǫ̀ wek'èch'a gık'èezǫ ha , eyıts'ǫ dànì t'asìı wegha dìì-le wexè hòɂǫǫ sìı dǫ gık'èezǫ ha nıwǫ nı̨dè wets'ǫ̀ hoèlı̨ hǫt'e . Whaà gots'ǫ dǫ xè wek'èch'a kò goxè ts'èwhı̨į̀ nıwǫ ı̨lè , hanìkò godıhohtsı̨ ha nıwǫ nı̨dè ededı̨ wets'ǫ̀ hoèlı̨ hǫt'e .
+45009023	dànì		Nǫ̀htsı̨ dǫ etegoèhɂı̨ı̨ sìı dànì wexè enıìyah hòɂǫǫ sìı dǫ gıdzeè t'à gık'èezǫ ha nıwǫ t'à , whaà gots'ǫ ts'èwhı̨į̀ godanaèhɂı̨ ı̨lè . Dǫ gıxè enıìyah hòɂǫ ha sìı nadąą̀ gòį̀hchì ı̨lè . Nǫ̀htsı̨ hanì eghàlaeda ha wets'ǫ̀ hoèlı̨ hǫt'e .
+45009024	~		Goxı̨ kò gokayaı̨htı hǫt'e ; Israel got'ı̨į̀ zǫ gıta ts'ǫ dǫ agǫ̀ǫ̀là-le , hanìkò dǫ eyıì-le xàɂaa ededı̨ sı gıta gots'ǫ dǫ gokayaı̨htı hǫt'e .
+45009030	ayìı		Eyıt'à ayìı awèts'edı ? Dıı awèts'edı hǫt'e : Dǫ Israel got'ı̨į̀ agı̨ı̨t'e-le kò , eyıts'ǫ Nǫ̀htsı̨ gha ehkw'ı agı̨ı̨t'e gha hòtł'ò eghàlagı̨ı̨dà-le kò , gıgha ehkw'ı-ahodı t'à Nǫ̀htsı̨ xè ehkw'ı agı̨ı̨t'eè agejà .
+45009032	Dànìghǫ		Dànìghǫ ehkw'ıì agede ha dìì ? Moses wenàowoò k'ègedì wet'ǫ̀ǫ̀ ehkw'ıì agede ha gı̨ı̨wǫ ı̨lè , hanìkò Nǫ̀htsı̨ gıgha ehkw'ı-ahodı-le t'à ehkw'ıì agede ha dìì . “ Kwe wek'edats'ıìtàa ” sìı wetegeètł'ıì lagejà .
+45010006	Amìı		Hanìkò gogha ehkw'ı-ahodı t'à ehkw'ı agòìdlà nı̨dè , dıı hats'edı ha : “ ‘ Amìı ı̨dòo yak'e ts'ǫ̀ ade ha , ( Zezì-Krı hodàts'eechı ha t'à ) ? ’ naxıdzeè yìı haahdı-le , ” edèts'edı ha .
+45010007	Amìı		Eyıts'ǫ dıı hats'edı ha : “ ‘ Amìı ı̨zhıì gǫǫwà dèè yìı gǫǫ̀ɂàa ts'ǫ̀ ade ha , ( Zezì-Krı k'achı̨ naìdà ats'ele gha ) ? ’ haahdı-le , ” edèts'edı ha .
+45010008	~		Hanìkò Nǫ̀htsı̨ Nı̨htł'è k'e dıı hanì dek'eèhtł'è : “ Nǫ̀htsı̨ hòt'a yatı naxıghàehɂǫ ı̨lè . Eyı yatı sìı naxıwà yìı wheɂǫ , eyıts'ǫ naxıdzeè yìı wheɂǫ , ” dek'eèhtł'è . Eyı yatı gogha ehkw'ı-ahodıı sìı weghǫ gots'edeè ats'edı , eyıts'ǫ wet'à hoghànaxets'eehtǫ .
+45010014a	dànì		Hanìkò gıgha ehkw'ı-ahodı-le nı̨dè , dànì weghǫ gınì nàtso ha welì ? 
+45010014b	dànì		Eyıts'ǫ gots'ǫ̀ K'àowo ghǫ egıìkw'o-le nı̨dè dànì gıgha ehkw'ı-ahodı welì ? 
+45010014c	dànì		Eyıts'ǫ wegodıì t'à dǫ gots'ǫ̀ goı̨de-le nı̨dè dànì egeèhkw'ǫ welì ?
+45010015	dànì		Eyıts'ǫ gots'ǫ̀ K'àowo dǫ goı̨hɂà-le nı̨dè , dànì wegodıì nezı̨ı̨ t'à gots'ǫ̀ gogede welì ? Dıı hanì dek'eèhtł'è : “ Dǫ godı nezı̨ı̨ gots'ǫ̀ nìı̨ɂǫǫ sìı weghǫ sıì goınà hǫt'e ! ” dek'eèhtł'è .
+45010016	amìı		Hanìkò Israel got'ı̨į̀ hazǫǫ̀ godı nezı̨ı̨ gıgha ehkw'ı-ahodı nıìle . Nakwenàoɂǫǫ Isaıah dıı hadı ı̨lè , “ Sets'ǫ̀ K'àowo , amìı goyatıì gıgha ehkw'ı-ahodı ? ” hadı , dek'eèhtł'è .
+45011004	~		Nǫ̀htsı̨ Elıjah ts'ǫ̀ dıı hadı , “ Dǫ łǫ̀hdı̨-lemì edegha gık'èhdì hǫt'e . Baal ts'ǫ̀ nàgògı̨ı̨hgè xè wets'ǫ̀ yagı̨ı̨htı whìle , ” yèhdı .
+45011007	dàts'edı		Eyı weghǫ dàts'edı welì ? Israel got'ı̨į̀ t'asìı gha hòtł'ò eghàlagı̨ı̨dàa sìı eyı gıghǫ̀t'ǫ-le , hanìkò dǫ eyıì-le Nǫ̀htsı̨ gòį̀hchìı sìı eyı gıghǫ̀t'ǫ hǫt'e . Dǫ gòį̀hchì-le sìı gıkwì nàtsoò agììdlà .
+45011015	~		Nǫ̀htsı̨ Israel got'ı̨į̀ ɂǫ̀goèhde t'à dıı nèk'e dǫ Nǫ̀htsı̨ xè ts'èwhı̨į̀ geedaà agejà hǫt'e . Ekò Israel got'ı̨į̀ Nǫ̀htsı̨ nagòchì nı̨dè weghǫ enıìyah nechà ha hǫt'e ; ełaàgı̨ı̨dè gots'ǫ nagìdà lagede ha .
+45011018	~		Eyı kw'ıhchı̨į̀ dahchı̨atǫ̀ǫ sìı gınahk'e ats'ı̨ı̨t'e dahwhǫ t'à , edeghǫ xàdahoahdì-le . Haahdı nı̨dè dıı weghǫ nànıahdè : Naxı̨ sìı ts'ı weghochı̨į̀ nàtsoò aahwhǫ nıìle , hanìkò ts'ı weghochı̨į̀ sìı nàtsoò anaxį̀į̀hwhǫ hǫt'e .
+45011033a	~		Nǫ̀htsı̨ sıì gǫǫzǫ xè t'asìı hazǫǫ̀ k'èhoezǫ ts'ıhɂǫ̀ Nǫ̀htsı̨ gogha enıìyah hǫt'e ! Wınì nıts'eedì ha dìì eyıts'ǫ 
+45011033b	~		edı̨į̀ wetı̨lıì nıɂàa sìı wek'èts'eezǫ-le !
+45011034a	Amìı		Dıı hanì dek'eèhtł'è , “ Amìı gots'ǫ̀ K'àowo wınì k'èhoezǫ ? 
+45011034b	Amìı		Amìı dıı hanì eghàlaı̨da yèhdı ? Dǫ wı̨ı̨zìı-le ! ”
+45011035	~		“ Dǫ Nǫ̀htsı̨ ghà-t'asìı-yį̀į̀ɂǫ t'à Nǫ̀htsı̨ ek'èt'à yets'ǫ̀ɂeehdì ha nì ? Dǫ wı̨ı̨zìı-le ! ” dek'eèhtł'è .
+45014004	~		Eyı dǫ wets'ǫ̀ k'àowo anet'e nıìle t'à wesınìyaąhtı ha nıìle . Dǫ nezı̨ı̨ elı̨ , hanì-le-ı̨dè dǫ nezı̨-le elı̨ı̨ sìı wets'ǫ k'àowo wets'ǫ̀ hoèlı̨ hǫt'e . Gots'ǫ̀ K'àowo dǫ nezı̨ı̨ elı̨į̀ ayele ha dìì-le t'à dǫ nezı̨ı̨ elı̨ k'ę̀ę̀ wııtà ha .
+45014010a	dànìghǫ		Eyıt'à dànìghǫ naxèot'ı̨ gısınìyaahtı ? 
+45014010b	dànìghǫ		Eyıts'ǫ dànìghǫ naxèot'ı̨ t'asìı elı̨-le k'ę̀ę̀ wets'ǫ̀ naahɂa ? Goxı̨ hazǫǫ̀ Nǫ̀htsı̨ nadąą̀ nàts'eèhza gà gosınìyaetı ha hǫt'e wedaànıahdè welè .
+46001020a	amìı		Dǫ gogı̨ı̨zǫǫ edegeewǫǫ sìı amìı agı̨ı̨t'e edegeewǫ ? 
+46001020b	amìı		Dǫ enı̨htł'è-deè ghàgeètǫ gı̨ı̨wǫǫ sìı amìı agı̨ı̨t'e edegeewǫ ? 
+46001020c	amìı		Dıı nèè gots'ǫ nàowo t'à gogedee gı̨ı̨lı̨ı̨ sìı amìı agı̨ı̨t'e edegeewǫ ? Nǫ̀htsı̨ sìı dıı nèè gots'ǫ nàowo sìı ezhı̨ne k'ę̀ę̀ ayį̀į̀là .
+46002011	~		Dǫ wı̨ı̨zìı dǫ ı̨łè dànıwǫǫ sìı yek'èezǫ nıìle , eyı dǫ wets'ǫ ı̨nì zǫ yek'èezǫ hǫt'e . Eyı xèht'eè dǫ wı̨ı̨zìı Nǫ̀htsı̨ dànıwǫǫ sìı yek'èezǫ nıìle , Nǫ̀htsı̨ wets'ǫ Įnì Degaı zǫ yek'èezǫ hǫt'e .
+46002016a	Amìı		Dıı hanì dek'eèhtł'è : “ Amìı gots'ǫ̀ K'àowo wınì k'èhoezǫ t'à yegha k'eyaetı ha ? ” dek'eèhtł'è . Hanìkò goxı̨ sìı Zezì-Krı wınì gots'ǫ̀-èlı̨ hǫt'e .
+46002016b	~		 
+46003005a	ayìı		Apollos eyıts'ǫ Paul , ayìı gı̨ı̨lı̨ı̨ ghǫ aahdı ? Ekìı Nǫ̀htsı̨ wecheekeè awììt'e . Nǫ̀htsı̨ naxıts'ǫ̀ goı̨hɂà t'à naxıgha ehkw'ı-ahodıì aahjà hǫt'e . Goxı̨ ı̨łak'aà Nǫ̀htsı̨ la goghàı̨ɂǫ k'ę̀ę̀ weghàlawìda hǫt'e .
+46003005b	~		
+46004007a	Amìı		Amìı dǫ nahk'e aaht'eè anaxį̀į̀là ? 
+46004007b	~		T'asìı naxıts'ǫ sìı naxıghǫ̀t'ǫ hǫt'e . 
+46004007c	dànìghǫ		T'asìı naxıghǫ̀t'ǫ nı̨dè dànìghǫ t'asìı naxıghǫ̀t'ǫ-le lanì xàdahoahdì ?
+46004021	dànì		Naxıts'ǫ̀ dànì eghàlaehda ha seahwhǫ ? Naxıts'àhtła nı̨dè naxeehkwa ha seahwhǫ nì ? Hanì-le-ı̨dè naxıghǫneehtǫ xè naxıts'ǫ̀ sedzeè nezı̨ ha dahwhǫ ?
+46005002	dànì		Eyıt'à dànì xàhoahdì welì ? Eyı ghǫ naxıdzeè nànııtì ha ı̨lè , eyı dǫ hanì eghàlaı̨dàa sìı naxıta gots'ǫ xàweahɂà ha ı̨lè .
+46005012	~		Dǫ , Nǫ̀htsı̨ wecheekeè agı̨ı̨t'e-le sìı sı̨ gısınìyahtı ha sı̨į̀dı nıìle . Dǫ Nǫ̀htsı̨ wecheekeè goxè aget'ı̨ı̨ sìı naxı̨ gısınìyaahtı ha hǫt'e .
+46006001	dànìghǫ		Naxıta gots'ǫ dǫ ełek'e nìdahogeeɂà nı̨dè dànìghǫ dǫ-sınìyaehtıı-dǫǫ̀ Nǫ̀htsı̨ wecheekeè elı̨-le sìı ts'ǫ̀ aget'ı̨ . Hanì ekǫ-le eghàlageedaa ts'àgeejı̨-le nì ? Nǫ̀htsı̨ wets'ǫ dǫ ts'ǫ̀ aget'ı̨ gà gosınìyagıhtı welì .
+46006003	dàgot'ı̨ı̨		Yak'eet'ı̨į̀ gısınìyats'ehtı ha wek'èahsǫ-le nì ? Hanì hòɂǫ ha nı̨dè dıı nèk'e gota dàgot'ı̨ı̨ sìı denahk'e wesınìyats'ehtı ha hǫt'e !
+46006004	~		Eyıt'à t'asìı wet'àaɂà-le ghǫ ełek'e nìdahogeeɂà nı̨dè , dǫ ı̨łè gosınìyaehtıì aweahłe . Naxıta dǫ t'asìı deè elı̨-le sìı eyı weahchı ha dìì-le !
+46006007a	~		Hanì ełeghǫ nàyaetı ałaahɂı̨ı̨ sìı weghàà nàowo ehkw'ıı k'ę̀ę̀ aahda ts'ǫǫ̀hk'e hòt'a naxıghǫènǫǫ wek'èhoedzǫ hǫt'e . 
+46006007b	~		Ekǫ-le naxıts'ǫ̀ eghàlaedà eyıts'ǫ naxıghǫyahoòɂǫ kò eyı denahk'e nezı̨ hǫt'e .
+46006009	~		Dǫ wejıı sìı Nǫ̀htsı̨ Wenàowoò k'ę̀ę̀ hòɂǫǫ sìı gıghàhòt'à ha nıìle wek'èahsǫ-le nì ? Edeghǫyaahɂà sǫ̀ǫ̀ . Dǫ edezhį̀į̀ t'à hołı̨ı̨ k'alagedèe , dǫ nǫ̀htsı̨ą hòèlı̨ı̨ ts'ǫ̀ yagehtıı , dǫ ełexè hołı̨ı̨ hogehtsı̨ı̨ , sǫǫ̀mba k'èxa dǫzhìı et'ıì ełexè aget'ı̨ı̨ , eyıts'ǫ dǫzhìı hołı̨ı̨ k'ę̀ę̀ ełek'alagedèe ,
+46006016	~		Dǫ , ts'èkojıı t'à whetı̨ı̨ sìı yexè ı̨łè zǫ lanì at'į̀ hǫt'e wek'èahsǫ-le nì ? Nǫ̀htsı̨ Nı̨htł'è k'e dıı hanì dek'eèhtł'è , “ Eyı nàke geet'èe sìı gızhį̀į̀ ı̨łè lade ha hǫt'e , ” dek'eèhtł'è .
+46006019	~		Naxızhį̀į̀ sìı Yedàyeh Nezı̨ı̨ wekǫ̀ lanì hǫt'e wek'èahsǫ-le nì ? Ededı̨ sìı naxıdzeè yìı nàdè hǫt'e , ededı̨ sìı Nǫ̀htsı̨ naxıghàyı̨ı̨ɂǫ hǫt'e . Eyıt'à naxızhį̀į̀ sìı xàè naxıts'ǫ nıìle .
+46007016a	~		Nı̨ dǫ ts'èkeè nelı̨ı̨ sìı nedǫǫ̀ edaxàwı̨ı̨htè ha hotıì wek'èı̨zǫ nıìle . 
+46007016b	~		Nı̨ ts'èko wedǫǫ̀ nelı̨ı̨ sìı nets'èkeè edaxàwı̨ı̨htè ha hotıì wek'èı̨zǫ nıìle .
+46009007a	~		Dǫ eghǫǫ-dǫǫ̀ elı̨ı̨ sìı edets'àɂeehdì nıìle . 
+46009007b	~		Dǫ jìechochı̨į̀ k'èdìı elı̨ı̨ sìı yets'ǫ jìecho edè ha dìì-le . 
+46009007c	~		Dǫ sahzǫ̀ą k'èdìı elı̨ı̨ sìı yets'ǫ ejıet'ò edǫ ha dìì-le .
+46009018	ayìı		Eyıt'à wek'èxa ayìı seghǫ̀t'à ha ? Dıı zǫ k'èxa aht'ı̨ : Godı nezı̨ı̨ t'à dǫ ts'ǫ̀ gohde nı̨dè t'asìı k'èxa-le yatı gıghàehɂà hǫt'e . Godı nezı̨ı̨ t'à gohde k'èxa t'asìı seghǫ̀t'à ha hòɂǫ kò , wedę ahɂı̨ .
+46010019a	~		Bò nǫ̀htsı̨ hòèlı̨ı̨ ghàgeedıı sìı t'asìı deè hǫt'e dehsı̨į̀-aehsı̨-le , eyıts'ǫ eyı nǫ̀htsı̨ hòèlı̨ı̨ sìı t'asìı deè elı̨ dehsı̨į̀-aehsı̨-le .
+46010019b	~		
+46010019c	~		
+46010029	ayìıha		Dǫ eyıì-le wınì gha aehsı̨ , naxınì gha aehsı̨-le . T'asìı segha ekǫ-le k'ę̀ę̀ nıìle dehwhǫ t'à dǫ eyıì-le gıgha ehkw'ı nıìle sìı ayìıha sesınìyagehtı welì ?
+46010030	ayìıha		Dǫ gıxè shèhtı̨ gha Nǫ̀htsı̨ masì weehwhǫ nı̨dè , ayìıha eyı ghǫ dǫ sesınìyagehtı welì ?
+46011022	~		Naxıkǫ̀ shèahzhe xè aahdǫ ha dìì-le sǫnaà ? Nǫ̀htsı̨ wecheekeè dǫ k'ę̀ę̀ gıahtà-le nì , eyıts'ǫ dǫ-teèt'ı̨ı̨ sìı į̀į̀zhagı̨ı̨lı̨į̀ agıahłe ha nì ? Eyı ghǫ naxıts'ǫ̀ nezı̨į̀ aehsı̨ ha nì ?
+46012017a	dànì		Gozhį̀į̀ hazǫǫ̀ godaà zǫ elı̨ nı̨dè dànì ets'eèhkw'ǫ welì ? 
+46012017b	dànì		Eyıts'ǫ gozhį̀į̀ hazǫǫ̀ godzıìhkw'ǫ zǫ elı̨ nı̨dè dànì t'asìı ts'ehtsǫ welì ?
+46012019	dànì		Gozhį̀į̀ t'asìı ı̨łè zǫ elı̨ nı̨dè dànì gozhį̀į̀ xè hòɂǫ ha ?
+46014006	dànì		Sèot'ı̨ı̨ , yatı ełek'èch'aòt'ı̨ı̨ t'à naxıts'ǫ̀ gohde nı̨dè dànì naxınì nàtsoò ahłà lì ? Dàehsı̨ı̨ sìı wek'èahsǫǫ̀ anaxèhłà lenǫsıı , Yedàyeh Nezı̨ı̨ dahxà dàgode ha sìı ghǫ , ayìı wek'èahsǫ ha ghǫ , eyıts'ǫ ayìı dàahłe ha ghǫ xàyahtı lenǫsıı , naxıgha wet'àaɂà ha nıìle .
+46014007	dànì		Wet'à shı̨ ts'eehdıı , dechı̨shì lanıı , eyıts'ǫ tł'ık'eetı̨ı̨ hanıı wedaànıahdè . Eładı̨į̀ dedıì ats'ehɂį̀ lenǫsıı shı̨ dàhòt'ı̨ı̨ agodıı sìı dànì dǫ gık'èezǫ lì ? Dànì dèekw'ǫ weghàà shı̨ dàhòt'ı̨ı̨ dedıı sìı wek'èts'eezǫ hǫt'e .
+46014008	dànì		Eghǫǫ-dǫǫ̀ gıkayaetı gha satsǫ̀ dechı̨shì hok'èedzǫ-le dedı nı̨dè , dànì eghǫǫ-dǫǫ̀ ełegegǫ gha sınìgedè welì ?
+46014009	Ayìı ghǫ		Naxıxè hagǫ̀ht'e lanì . Yatı t'à goahdee sìı dǫ gınıehdì lenǫsıı ayìı ghǫ goahdee sìı gık'èezǫ lì ? Ayìı ghǫ goahdee sìı gınıedì-le nı̨dè , ekìı naxıyatıì xàewì hǫt'e .
+46014015	~		Eyıt'à dıı haht'ı̨ ha : sets'ǫ ı̨nì t'à yahtı ha , eyıts'ǫ sınì sı t'à yahtı ha . Sets'ǫ ı̨nì t'à ehjı̨ ha , eyıts'ǫ sınì sı t'à ehjı̨ ha .
+46014016	dànì		Naxıts'ǫ ı̨nì t'à Nǫ̀htsı̨ weghàsǫahdı nı̨dè dǫ naxıgıìkw'o-le sìı dànì naxıxè “ Hęɂę ! ” gedı lì ? Dàahdıı sìı gık'èezǫ nıìle .
+46014026	~		Eyıt'à sèot'ı̨ı̨ , łą̀ą nìahdè nı̨dè dıı haaht'ı̨ welì : dǫ mǫ̀hdaa shı̨ t'à gejı̨ , dǫ mǫ̀hdaa hoghàgogeehtǫ , dǫ mǫ̀hdaa Nǫ̀htsı̨ ayìı gots'ǫ̀ hadıı sìı dǫ ts'ǫ̀ hagedı , dǫ mǫ̀hdaa yatı ełek'èch'aòt'ı̨ı̨ t'à gogede , dǫ mǫ̀hdaa yatı ełek'èch'aòt'ı̨ı̨ gha etagehtı welì . Eyı hazǫǫ̀ gıghàlaıdà , wet'à Nǫ̀htsı̨ wecheekeè gınì nàtsoò ade ha .
+46014036	~		Sèot'ı̨ı̨ , Nǫ̀htsı̨ weyatıì t'akwełǫ̀ǫ̀ naxıghǫ̀t'ǫ ne dahwhǫ nì ? Eyıts'ǫ naxı̨ zǫ Nǫ̀htsı̨ yatıì naxıts'ǫ̀ nììt'ǫ dahwhǫ nì ? Į̀le , hanì nıìle .
+46015012	dànìghǫ		Zezì-Krı ełaı̨wo gots'ǫ naìdà naxèts'edı nı̨dè , dànìghǫ naxıta gots'ǫ dǫ mǫ̀hdaa , dǫ ełaı̨dèe sìı nagìdà ha nıìle , gedı ?
+46015029a	~		
+46015029b	ayìıha		Dǫ nagìdà-le nı̨dè dǫ geedaa sìı ayìıha dǫ ełaı̨dèe gha gık'ètaìdzǫ welì ? 
+46015029c	~		Dǫ nagìdà-le nı̨dè k'ètł'ǫ̀ dǫ ełaı̨dèe gha gık'ètaìdzǫ hǫt'e .
+46015030a	~		
+46015030b	ayìıha		Eyıts'ǫ goxı̨ sìı ayìıha t'aats'ǫǫ̀ hoejı̨į̀ edeghàlats'eeda welì ?
+46015032	~		Kǫ̀ta Ephesus ekǫ tıts'aàdìı wets'àhoejı̨ı̨ lanıı gık'aıhwho hǫt'e . Ekìı dǫ nàowoò zǫ gha aht'ı̨ nı̨dè t'asìı wı̨ı̨zìı dehnǫ nıìle . Dǫ ełaı̨dèe naìdà-le nı̨dè , “ Satsǫ ełaàts'ede ha t'à dıì shèts'ıızhe xè ts'ııdǫ̀ , ” dehsı̨ ha ı̨lè .
+46015035a	~		Hanìkò dıı hasèahdı ha tahkò : 
+46015035b	dàhòt'ı̨ı̨		“ Dǫ ełaı̨dèe sìı nagìdà ha nı̨dè gızhį̀į̀ dàhòt'ı̨ı̨ t'à nagìdà ha ? ” sèahdı ha sǫnı .
+46015055a	~		“ Nàowo wet'à ełaàts'edee sìı k'achı̨ hoehnè hǫı̨lı̨ ha nıìle ! 
+46015055b	~		Nàowo wet'à ełaàts'edee sìı k'achı̨ wet'à dats'ı̨ı̨ɂa hǫı̨lı̨ ha nıìle ! ” dek'eèhtł'è .
+47002002	amìı		Naxıdzeè nànııtì anaxèhłà nı̨dè amìı sınà asele ha ? Naxı̨ zǫ sınà aseahɂı̨ ha ı̨lè , hanìkò naxıdzeè nànııtì anaxèhłà .
+47002016	Amìı		Dǫ edaxàgeedèe sìı gıt'à eda gha t'asìı łekǫǫ łedìı lats'ı̨ı̨t'e , hanìkò dǫ gıdıhołèe sìı gıt'à ełaàde gha t'asìı wejıı łedìı lats'ı̨ı̨t'e . Amìı la hadeèzhì yeghàlaeda ha yexèht'eè ?
+47003008	~		
+47003009	~		Nàowo wet'à dǫ ełaàgede gha gısınìyaetıı sìı enıìyah hǫt'e nı̨dè , nàowo nezı̨ı̨ wet'à ehkw'ı agòìdlàa sìı dàı̨hcho ts'ǫ̀ wenahk'e enıìyah dèè elı̨ !
+47006014a	~		Dǫ gıgha ehkw'ı-ahodı-le sìı gıxè ı̨łè laaht'e-le . Dǫ ehkw'ı geedaa eyıts'ǫ dǫ nàowołı̨ı̨ k'ę̀ę̀ geedaa sìı ełexègı̨ı̨ht'e nıìle . 
+47006014b	~		Dzęh eyıts'ǫ togoòtł'òo sìı ełèht'eè nıìle .
+47006015a	~		Zezì-Krı eyıts'ǫ wehłı̨ı̨ sìı ełek'ę̀ę̀ agı̨ı̨wǫ nıìle . 
+47006015b	~		Dǫ wegha ehkw'ı-ahodıı eyıts'ǫ dǫ wegha ehkw'ı-ahodı-le sìı ełègı̨ı̨ht'e hǫı̨lı̨ nıìle .
+47006016	~		Nǫ̀htsı̨kǫ̀-gocho eyıts'ǫ nǫ̀htsı̨ hòèlı̨ı̨ wets'ǫ yahtıı-kǫ̀ sìı ełek'ę̀ę̀ agı̨ı̨wǫ nıìle . Goxı̨ sìı Nǫ̀htsı̨ edaa wekǫ̀ lats'ı̨ı̨t'e hǫt'e . Nǫ̀htsı̨ dıı hadı ı̨lè , “ Gıdzeè yìı nàhdè ha eyıts'ǫ gıta aht'e ha , Gınǫ̀htsı̨ ehłı̨ ha , eyıts'ǫ sets'ǫ dǫ gı̨ı̨lı̨ ha . ”
+47011011	Dànìghǫ		Dànìghǫ sets'àahdı ha naxeehwhǫ-le dahwhǫ sǫnaà ? Naxıghǫneehtǫ-le t'à aht'e nıìle . Dànì naxıghǫneehtǫǫ sìı Nǫ̀htsı̨ yek'èezǫ hǫt'e !
+47011029a	~		Dǫ nàtso-le nı̨dè sı̨ sı wexè nàhtso-le hǫt'e . 
+47011029b	~		Dǫ hołı̨ı̨ hòèhtsı̨į̀ adlà nı̨dè sıì segha hoìla hǫt'e .
+47012013	~		Nǫ̀htsı̨ wecheekeè kǫ̀ta eyıì-le ta nàgedèe sìı gık'aɂį̀ aaht'e naxeehwhǫ dahwhǫ nì ? Nǫ̀htsı̨ wecheekeè eyıì-le sets'àgedıì agèhłà kò naxı̨ hanaxèhłà whìle ; eyı gha seghǫ nahoahłe !
+47012017	~		Dǫ naxıts'ǫ̀ gııhɂà ekò , sedahxà t'asìı naxıghǫ gį̀į̀hchì nǫǫ̀ ?
+48002014	dànìghǫ		Godı nezı̨ı̨ wek'ę̀ę̀ ehkw'ı eghàlageeda-le wek'èhoèhzà ekò dǫ hazǫǫ̀ gınadąą̀ Peter ts'ǫ̀ dıı haehsı̨ , “ Nı̨ Israel got'ı̨į̀ aąt'e kò dǫ Israel got'ı̨į̀ agı̨ı̨t'e-le lanì ı̨da , Israel got'ı̨į̀ k'ę̀ę̀ ı̨da-le . Eyıt'à dànìghǫ dǫ Israel got'ı̨į̀ agı̨ı̨t'e-le sìı Israel got'ı̨į̀ gınàowoò k'ę̀ę̀ aget'ı̨į̀ agı̨ı̨hɂı̨ ?
+48003001	Amìı		Naxı̨ Galatıa got'ı̨į̀ yàahłı̨ı̨ sìı goahsǫ-le dìì ! Amìı naxınàɂį̀ hòı̨ɂǫ ? Xàè naxıdaà Zezì-Krı dechı̨et'aa k'e ełaı̨woo sìı weghǫ deghàà naxıxè gots'ado ı̨lè .
+48003019	Ayìı gha		Hanì hòɂǫ nı̨dè Moses nàowo weghǫ̀zhaa sìı ayìı gha adlà ? Nǫ̀htsı̨ edeyatıì Abraham ghàı̨ɂǫ tł'axǫǫ̀ eyı nàowo wek'ę̀ę̀ hòɂǫǫ̀ agòjà . Eyıt'à eyı “ Abraham wets'ıhɂǫ̀ǫ-dǫǫ̀ ” nììtła gots'ǫ̀ Moses wenàowoò weghàà dǫ hołı̨ı̨ hogehtsı̨ gık'èezǫ gha adlà hǫt'e . Eyı nàowo sìı yak'eet'ı̨į̀ t'à Moses ts'ǫ̀ nììt'ǫ hǫt'e . Moses dǫ gha eyıts'ǫ Nǫ̀htsı̨ gha tanı whedaa elı̨ı̨ sìı wek'ę̀ę̀ hòɂǫǫ̀ ayį̀į̀là .
+48004009a	dànìghǫ		Hanìkò dıì sìı Nǫ̀htsı̨ k'èahsǫ , hanì-le-ı̨dè Nǫ̀htsı̨ naxık'èezǫ t'à dànìghǫ nàowo wet'à nàgotso-le xè etehoòt'ı̨ı̨ sìı ts'ǫ̀ anaahde ha dahwhǫ ? 
+48004009b	~		K'achı̨ eyı xèht'eè nàowo tł'a dahkw'e ha dahwhǫ nì ?
+48004010	~		Eyı nàowo gha dzędeè k'èahdì , ı̨łè sa gha dzędeè hoahtsı̨ , eyıts'ǫ ı̨łè xo gha dzędeè hoahtsı̨ !
+48004015	dàgòjà		Ekò sıì naxınà ı̨lè , dıì naxıxè dàgòjà ? Ayìı dànaxèehsı̨ı̨ sìı segha haahłe ha ı̨lè , naxıdaà kò , xàahdlà gà seghàahwha naxèehsı̨ nı̨dè segha haahłe ha ı̨lè . Naxıxè hagǫ̀ht'e ı̨lè wek'èehsǫ .
+48004021	~		Naxı̨ Moses wenàowoò k'ę̀ę̀ aahda ha dahwhǫǫ sìı eyı nàowo dàhodıì-ahodıı sìı asį̀į̀ deghàà wenıahdì ?
+48004030	~		Hanìkò Nǫ̀htsı̨ Nı̨htł'è k'e dıı hanì dek'eèhtł'è , “ Ts'èko , edets'ǫ̀ k'àowo-le sìı weza xè nawı̨ı̨hɂà . T'asìı seza gıghàehłe ha sìı eyı ts'èko weza ts'ǫ̀ ade ha-le , ts'èko edets'ǫ̀ k'àowo sìı weza ts'ǫ̀ ade ha , ” dek'eèhtł'è .
+48005007a	Amìı		Zezì-Krı naxıgha ehkw'ı-ahodı t'à nezı̨į̀ aaht'ı̨ ı̨lè . Amìı naxıts'ǫk'eetła xè nàowo ehkw'ıı k'èaht'e ch'à anaxį̀į̀là ?
+48005007b	~		
+48005011	dànìghǫ		Sèot'ı̨ı̨ , Moses wenàowoò k'ę̀ę̀ nàgoet'àa ghǫ dǫ hoghàehtǫ nı̨dè dànìghǫ ı̨łaà dasegį̀ı̨hɂa ? Sı̨ hanì dǫ hoghàehtǫ nı̨dè , Zezì-Krı dechı̨et'aa k'e ełaı̨wo ghǫ gohde t'à gık'èch'a aehsı̨ ha-le ı̨lè .
+49004009	~		( “ Įdòo ajà , ” dek'eèhtł'èe sìı t'akwełǫ̀ǫ̀ ı̨zhıì dèè goyìı togoòtł'òo sìı ts'ǫ̀ ajà t'à ahodı hǫt'e .
+50001018	~		Hanìkò t'asanìle . Edegha aget'ı̨ hanì-le-ı̨dè gınì ehkw'ıı t'à aget'ı̨ , ehk'ę̀ę̀ Zezì-Krı wegodıì t'à dǫ ts'ǫ̀ gogede . Eyı denahk'e wet'àaɂà hǫt'e , eyı weghǫ sınà dìì . Segha yaahtı t'à eyıts'ǫ Zezì-Krı wets'ǫ Inì Degaı sets'àdı t'à , ayìı sexè dàgòjàa sìı edaxàseetè gha adlà hǫt'e wek'èehsǫ , eyıt'à sıì sınà .
+50001021	~		Ehda nı̨dè Zezì-Krı wegha ehda ha dehwhǫ , hanìkò ełaıhwho nı̨dè eyı segha denahk'e nezı̨ ha hǫt'e .
+51002020	dànìghǫ		Zezì-Krı wexè ełaahdè ne t'à dıı nèè gots'ǫ nàowo k'ę̀ę̀ aahda-le aahjà hǫt'e . Eyıt'à dànìghǫ ı̨łaà dıı nèè gots'ǫ nàowo k'èaht'e ha dahwhǫ ? Įłaà wek'ę̀ę̀ aahda ha dahwhǫ nì ?
+52002019	~		Naxı̨ sìı naxıghǫ sìts'eèt'ı̨ , naxıgha t'asìı nezı̨ı̨ kanıts'eèɂà . Zezì-Krı nǫ̀ǫtła nı̨dè wenadąą̀ naxıghǫ sıì xàhots'edì ha hǫt'e .
+52003009	~		Naxıts'ıhɂǫ̀ Nǫ̀htsı̨ wenadąą̀ sıì goınà t'à Nǫ̀htsı̨ sıì masì wets'ı̨ı̨hwhǫ hǫt'e .
+54003005	dànì		( Dǫ edekǫ̀ nezı̨į̀ gok'èdì k'èezǫ-le nı̨dè dànì Nǫ̀htsı̨ wecheekeè gok'èdì welì ? )
+54006007a	~		Gogǫ̀hłı̨ ekò t'asìı wı̨ı̨zìı dıı nèk'e nèts'ı̨ı̨ɂǫ nıìle , 
+54006007b	~		eyıts'ǫ ełaàts'ewı nı̨dè t'asìı wı̨ı̨zìı edexè ats'ele ha nıìle .
+58001005	~		Eyıt'à dàht'e-seè Nǫ̀htsı̨ yak'eet'ı̨į̀ ı̨łè ts'ǫ̀ dıı hadı , “ Nı̨ Seza anet'e , dıı dzęę̀ k'e Netà whıhłı̨ , ” hadı nǫǫ̀ ? Hanì-le-ı̨dè asį̀į̀ yak'eet'ı̨į̀ ı̨łè ghǫ dıı hadı , “ Wetà ehłı̨ ha , eyıts'ǫ ededı̨ Seza elı̨ ha , ” asį̀į̀ yak'eet'ı̨į̀ ghǫ hadı hǫı̨lı̨ nǫǫ̀ ?
+58001013	~		Nǫ̀htsı̨ sìı edeyak'eet'ı̨į̀ ı̨łè ts'ǫ̀ dıı hadı whìle , “ Amìı nets'ǫ̀ xànegı̨ı̨ɂaa sìı hazǫǫ̀ gıghǫı̨hnè agehłe gots'ǫ̀ , nàgòts'ehnèe k'e segà wheęda , ” edeyak'eet'ı̨į̀ ts'ǫ̀ hanı̨ı̨dì whìle .
+58001014	~		Yak'eet'ı̨į̀ hazǫǫ̀ ı̨nì agı̨ı̨t'e , dǫ edaxàgeedè ha sìı gots'àgedı gha Nǫ̀htsı̨ goı̨hɂà agı̨ı̨t'e .
+58002003	~		Eyıt'à Nǫ̀htsı̨ enıìyah k'ę̀ę̀ edaxàgolee sìı wedę ats'ı̨ı̨là nı̨dè nàgoehkwa ch'à kwı̨ts'eehdè ha honàedı nıìle . Edaxàgole ha sìı gots'ǫ̀ K'àowo t'akwełǫ̀ǫ̀ yeghǫ goı̨de ı̨lè , eyıts'ǫ dǫ gı̨į̀hkw'ǫ̀ǫ sìı ededı̨ sı gots'ǫ̀ hagedı .
+58002006a	ayìı		Nǫ̀htsı̨ ts'ǫ̀ dàhodıı sìı wenı̨htł'è k'e dıı hanì dek'eèhtł'è , “ Dǫ ayìı elı̨ t'à wedaànınewo eyıts'ǫ weghǫneę̀tǫ ?
+58002006b	~		
+58003016	~		Nǫ̀htsı̨ gots'ǫ̀ goı̨de gıìkw'o ı̨lè ekò Nǫ̀htsı̨ k'èch'a eghàlagı̨ı̨dà . Moses dǫ hazǫǫ̀ Egypt nèk'e gots'ǫǫ̀ xàgoèwaa sìı eyı et'ıì agı̨ı̨t'e !
+58003017	amìı		Dı̨ènǫ xo gots'ǫ̀ Nǫ̀htsı̨ gots'ǫ̀ wınì-le sìı amìı agı̨ı̨t'e ? Dǫ Nǫ̀htsı̨ k'èch'a hołı̨ı̨ hogèhtsı̨ t'à ekìı-ka nèk'e ełaàgı̨ı̨dèe sìı eyı agı̨ı̨t'e .
+58003018	amìı		Nǫ̀htsı̨ amìı ts'ǫ̀ yatı nàtsoo t'à dıı hadı , “ Edı̨į̀ sexè ts'èwhı̨į̀ hòɂǫǫ sìı hogeɂį̀ hǫı̨lı̨ ha nıìle . ” Dǫ gık'èı̨t'e-le sìı gots'ǫ̀ hadıì xàyaı̨htı ı̨lè .
+58006004	~		Dǫ Nǫ̀htsı̨ wegodıì k'ègeezǫǫ̀ agììdlà tł'axǫǫ̀ Nǫ̀htsı̨ t'asìı nezı̨ı̨ goghàı̨ɂǫǫ sìı gınıedì nı̨dè , eyıts'ǫ Yedàyeh Nezı̨ı̨ gık'e ajà tł'axǫǫ̀ ,
+58007011	ayìıha		Yahtıı gogha eghàlageedaa sìı eyı gha Nǫ̀htsı̨ Moses wenàowoò gòet'ı̨ goghàyı̨ı̨ɂǫ ı̨lè . Levı gots'ǫ yahtıı gı̨ı̨lı̨ı̨ sìı gıt'à deghàà degaı agòdlà nı̨dè , ayìıha yahtıı eyıì-le ts'ı̨ı̨wǫ lì ? Eyı yahtıı sìı Melkızedek wek'ę̀ę̀ yahtıı elı̨ ha hǫt'e , Aaron wek'ę̀ę̀ yahtıı elı̨ ha nıìle .
+58009014	~		Zezì wedoò eyı nahk'e godzeè k'enaı̨htso hodeè hǫt'e . Zezì t'asìı wejıı wek'e wheɂǫ-le sìı Yedàyeh Nezı̨ı̨ wedahxà Nǫ̀htsı̨ ghàdìtı̨ t'à , t'asìı wet'àaɂà-le k'alats'ı̨ı̨dè ch'à godzeè k'enaı̨htso hǫt'e , hanì-ı̨dè Nǫ̀htsı̨ edaa sìı k'ǫǫ̀t'a wegha eghàlats'eeda ha dìì-le .
+58010001	~		Moses wenàowoò sìı ı̨daà t'asìı wedeèdlı̨ı̨ nèhòkw'ı gha ekìı weɂı̨zhı̨į̀ lanì hǫt'e , eyı nàowo sìı xàè wedeèdlı̨ı̨ k'aɂį̀ hǫt'e . Hanì ts'ıhɂǫ̀ xo taàt'eè tıts'aàdìı Nǫ̀htsı̨ gha ełaàgıhdee sìı wet'à dǫ Nǫ̀htsı̨ ts'ǫ̀ agede gha deghàà degaı agedle ha nıìle .
+58010029a	~		Dǫ Nǫ̀htsı̨ Weza wegha t'asìı elı̨-le , 
+58010029b	~		wedoò t'à nakenahòdlı̨ı̨ t'à wehołı̨į̀ whìle adlàa sìı wegha wet'àaɂà-le nı̨dè , 
+58010029c	~		eyıts'ǫ Nǫ̀htsı̨ wesǫnıwǫ t'à Yedàyeh Nezı̨ı̨ goghǫ̀t'ǫǫ sìı yek'èch'a eghàlaı̨dà nı̨dè eyı dǫ sìı denahk'e hòtł'ò nàweekwa ha hǫt'e .
+58010029d	~		
+58011032	~		Eyı dǫ haàtłǫǫ gıɂǫ̀ǫ̀ ts'ǫ̀ dǫ łǫ gıghǫ gohde ha dìì-le , hanìkò Gıdeon , Barak , Samson , Jefta , Davıd , Samuel , eyıts'ǫ nakwenàoɂǫǫ łǫ gıghǫ naxıxè gohdo ha segha hòɂǫ-le .
+58012007	~		Naxıgha hoìla nı̨dè wexè ts'èwhı̨į̀ daahɂa , weghàà hoghànaxeetǫ hǫt'e , Nǫ̀htsı̨ sìı edeza k'ę̀ę̀ naxıts'ǫ̀ eghàlaeda hǫt'e . Dǫ weza gǫ̀hłı̨ nı̨dè ehkw'ı geeda gha hoghàgoehtǫ hǫt'e .
+58012009	~		Goxı̨ hazǫǫ̀ gotà ehkw'ı ts'eeda gha hoghàgogeèhtǫ ı̨lè t'à dǫ gıts'ı̨ı̨hwhǫ ı̨lè . Eyıt'à Nǫ̀htsı̨ gots'ǫ ı̨nì gha Gotà elı̨ı̨ sìı hoghàgoetǫ nı̨dè denahk'e wek'èats'ı̨ı̨t'e ha hǫt'e . Hanì-ı̨dè welǫ whìle ts'ǫ̀ ts'eeda ha .
+58012025	~		Nǫ̀htsı̨ naxıts'ǫ̀ gode nı̨dè wets'ǫ̀ naxıdzıì goìle welè sǫ̀ǫ̀ . Nǫ̀htsı̨ dıı nèk'e Israel got'ı̨į̀ gots'ǫ̀ goı̨de ekò egeèhkw'ǫ-le t'à nàgoı̨hkwa ı̨lè . Ekò goxı̨ sìı yak'e gots'ǫ Nǫ̀htsı̨ gots'ǫ̀ gode kò wets'eèhkw'ǫ-le nı̨dè denahk'e hòtł'ò nàgoehkwa ha hǫt'e .
+58013006	~		Eyıt'à godzeè nàtso xè dıı hats'edı ha dìì-le , “ Gots'ǫ̀ K'àowo sìı sets'àdı elı̨ hǫt'e , eyıt'à dehjı̨ ha-le . Dǫ dàsį̀į̀là lì ? ” hats'edı ha dìì-le .
+59002006	~		Naxı̨ sìı dǫ-teèt'ı̨ı̨ į̀į̀zhagı̨ı̨lı̨į̀ agıahɂı̨ . Dǫ ahxee gı̨ı̨lı̨ı̨ sìı naxıt'ǫ̀ǫ̀ ahxe gìhłè hǫt'e . Ededı̨ sìı nàyaetıı-kǫ̀ ts'ǫ̀ anaxegehɂı̨ hǫt'e .
+59002014	~		Sèot'ı̨ı̨ , dǫ , “ segha ehkw'ı-ahodı , ” hadı hanìkò yek'ę̀ę̀ eghàlaeda-le nı̨dè wegha wet'àaɂà-le hǫt'e . “ Segha ehkw'ı-ahodı , ” hadı zǫ t'à edaxàweetè ha nıìle .
+59002016a	~		naxı̨ ı̨łè yets'ǫ̀ dıı hadı , “ Nexè sìghà welè ; negha gòkǫ̀ xè weghǫ shèı̨tı̨ı̨ negha deghàà welè , ” 
+59002016b	~		yèhdı , hanìkò goht'ǫ eyıts'ǫ yeghǫ shètı̨ı̨ t'à yets'àı̨dı-le nı̨dè eyı t'asìı nıìle .
+59002018	~		Hanìkò dǫ sets'ǫ̀ dıı hadı nı̨dè , “ Nı̨ negha ehkw'ı-ahodı , hanìkò sı̨ nezı̨į̀ eghàlaehda , ” sèhdı nı̨dè , wets'ǫ̀ dıı haehsı̨ ha . “ Negha ehkw'ı kò wek'ę̀ę̀ eghàlaı̨da-le sìı weghàıhdà , ekò sı̨ ayìı dàhɂı̨ weghàà segha ehkw'ı-ahodıı sìı weghàı̨daà anehłe ha , ” haehsı̨ ha .
+59002021	~		Gocho Abraham wedaànıahdè . Tso ełeka nèyı̨ı̨la k'e Nǫ̀htsı̨ ts'ǫ̀ edeza Isaac ełaehwhı xè yek'eehk'ǫ̀ ha sınìhòı̨ɂǫ , hajà t'à dǫ ehkw'ı eda gha wııtà hǫt'e .
+59003013	~		Naxıta dǫ gǫǫzǫ xè t'asìı nıedì edeewǫ nı̨dè ehkw'ı eda t'à wègaat'ı̨į̀ ayııle , eyıts'ǫ gǫǫzǫ t'à k'èeweèt'ı̨ k'ę̀ę̀ dǫ ts'ǫ̀ nezı̨į̀ eghàlaıdà .
+59003017	~		Hanìkò wet'à gots'ı̨ı̨zǫǫ sìı yak'e gots'ǫ hǫt'e nı̨dè , wet'à degaı ats'et'į̀ , wet'à ts'èwhı̨ welè hats'ı̨ı̨wǫ , ełets'ǫ̀ godzeè nezı̨ı̨ ha ts'ı̨ı̨wǫ , ełek'èats'ı̨ı̨t'e ha ts'ı̨ı̨wǫ , ełets'ǫ̀ godzeè eteèɂı̨ , ełets'ǫ̀ nezı̨į̀ eghàlats'eeda , dǫ wet'àaɂàa zǫ ts'ǫ̀ nezı̨į̀ nats'eɂa-le , eyıts'ǫ ehkw'ı ełets'ǫ̀ nats'eɂa .
+59004001a	Ayìı		Ayìı ts'ıhɂǫ̀ ełets'ǫ̀ ààhch'e xè ełek'èch'a aahdı ? Naxıdzeè yìı hołı̨ı̨ nàowoò naxık'alawo t'à ełets'ǫ̀ ààhch'e hǫt'e .
+59004001b	~		
+59004012	~		Nǫ̀htsı̨ zǫ gogha nàowo whehtsı̨ xè gosınìyaehtıı elı̨ hǫt'e , ededı̨ zǫ edaxàgole ha , hanì-le-ı̨dè godıhohtsı̨ ha . Hanìkò naxı̨ sìı naxèot'ı̨ gısınìyaahtı ha naxıghàhòt'ǫ nıìle .
+59004014	dàgode		Ayìıha hanì goahde ? Satsǫ dàgode ha sìı wek'èahsǫ nıìle . Whaà-lea gots'ǫ̀ ɂàh gòhłè eyı tł'axǫǫ̀-ı̨dè dàwhìdì at'į̀ , eyı laaht'e .
+60002020	dànì		Hanìkò ekǫ-le hòahtsı̨ k'èxa naxıkwǫ̀ǫyaà-naxììdlà kò naxıgha t'asanìle nı̨dè dànì naxıgha hoǫzı̨ lì ? Hanìkò nezı̨į̀ aahda k'èxa nànaxeekwa xè ts'èwhı̨į̀ daahɂa nı̨dè eyı sìı Nǫ̀htsı̨ wegha nezı̨ hǫt'e .
+60003013	~		Dǫ ts'ǫ̀ nezı̨į̀ eghàlaahda k'èxa amìı naxıts'ǫ̀ hoìla eghàlaeda ha ?
+60004017	dàgǫ̀ht'e		Hòt'a dǫ hazǫǫ̀ gısınìyaetı ha nìkw'o ; Nǫ̀htsı̨ wets'ǫ dǫ sìı t'akwełǫ̀ǫ̀ gısınìyaetı ha hǫt'e . Goxı̨ t'akwełǫ̀ǫ̀ gosınìyaetı ha nı̨dè dǫ Nǫ̀htsı̨ wegodıì nezı̨ı̨ k'ę̀ę̀ geeda-le sìı gıxè dàgǫ̀ht'e ha sǫnı ?
+60004018	dàgǫ̀ht'e		Dıı hanì dek'eèhtł'è : “ Dǫ ehkw'ı geeda kò edaxàgeedè ha gıgha kèhoedı-le nı̨dè dǫ Nǫ̀htsı̨ k'ègeezǫ-le eyıts'ǫ hołı̨ı̨-hogehtsı̨ı̨-dǫǫ̀ sìı gıgha dàgǫ̀ht'e ha sǫnı ? ” hanì dek'eèhtł'è .
+61003004	welaedì		Dıı hagedı ha , “ Zezì jǫ ts'ǫ̀ anade ha hadı nı̨dè , welaedì ? Gocho ełaàgı̨ı̨dè gots'ǫ eładı̨į̀ agòjà whìle . Dıı dèè hòèlı̨ gots'ǫ dàgǫ̀ht'ee sìı agǫ̀hłı̨ , ” hagedı ha .
+61003011	dànì		T'asìı hazǫǫ̀ hanì wedıhołè ha t'à dànì aahda ha sìı edeghǫ nànıahdè welì . Nǫ̀htsı̨ wınì k'ę̀ę̀ degaı k'ę̀ę̀ aahda .
+62002022	Amìı		Amìı hots'ìı-dǫǫ̀ elı̨ ? “ Zezì , Chrıst hǫt'e-le , ” hadıı sìı hots'ìı-dǫǫ̀ elı̨ hǫt'e . Dǫ hanì hots'ìı sìı Chrıst k'èch'a elı̨ hǫt'e , eyıts'ǫ Nǫ̀htsı̨-Gotà yegha ehkw'ı adı-le eyıts'ǫ Weza sı yegha ehkw'ı adı-le .
+62003012	Dànìghǫ		Caın wexèaht'e-le , ededı̨ sìı wehłı̨ı̨ wets'ǫ dǫ hǫt'e , eyıts'ǫ edechı ełaı̨hwho ı̨lè . Dànìghǫ ayį̀į̀là ? Ededı̨ wenàowoò jıı t'à ełaàyį̀ı̨hwho , hanìkò wechı wenàowoò ehkw'ı hǫt'e .
+62003017	dànì		Dǫ t'asìı łǫ wets'ǫ sìı wèot'ı̨ t'asìı wets'ǫ-le yek'èezǫ kò eteyeèɂı̨-le nı̨dè , dànì Nǫ̀htsı̨ goghǫneètǫǫ sìı k'ę̀ę̀ eda ha ?
+62004020	Amìı		Amìı “ Nǫ̀htsı̨ ghǫneehtǫ , ” hadı hanìkò edèot'ı̨ nèlı̨-le nı̨dè hots'ì adı hǫt'e . Amìı edèot'ı̨ ghàeda kò yeghǫneètǫ-le sìı dànì Nǫ̀htsı̨ wegha wègaat'ı̨-le sìı ghǫneètǫ lì ? Hanıı dǫ sìı Nǫ̀htsı̨ ghǫneètǫ-le hǫt'e .
+62005005	Amìı		Amìı , Zezì , Nǫ̀htsı̨ Weza hǫt'e wegha ehkw'ı-ahodıı sìı dıı nèè ts'ǫ nàowołı̨ı̨ ghǫèhnǫ hǫt'e .
+66005002	Amìı		Yak'eet'ı̨į̀ nàtsoo ı̨łè hòtł'ò dıı hadı , “ Amìı eyı enı̨htł'èyeè łǫ̀hdı̨ ts'ǫ̀ wedaàdzeh sìı yets'ǫdaà xàehdlà ha edegha hoèhnǫ ? ” hadı .
+66006010a	Dàı̨waà-ı̨dè		Hòtł'ò gezeh xè hagedı , “ Gots'ǫ̀ K'àowo , t'asìı negha dìì-le , nı̨ sìı degaı xè ehkw'ı anet'e . Dàı̨waà-ı̨dè dıı nèk'e gots'ǫ dǫ gısınìyanehtı ha ? 
+66006010b	dàht'e		Ełaàgogį̀ı̨hdè k'èxa dàht'e nı̨dè nàgı̨ı̨hkwa ha ? ” gedıì yagìzeh .
+66006017	Dànì		Hòt'a hoìla agogelee dzęę̀ weghǫnìhoı̨wo hǫt'e . Dànì edaxàts'ı̨ı̨de welì ? ” gedıì gezeh .
+66007013a	amìı		Eyı tł'axǫǫ̀ ǫhdah ı̨łè daseehke , “ Eyı dǫ ɂeh degoo nedèe yìı geèhkw'ee sìı amìı agı̨ı̨t'e ? 
+66007013b	edı̨į̀		Eyıts'ǫ edı̨į̀ gots'ǫ aget'ı̨ ? ” sèhdı .
+66013004a	Amìı		Tıts'aàdìı nechàa edetł'axǫǫ̀ eghàlaedaà ayį̀į̀là t'à dǫ hazǫǫ̀ tıts'aàdìıcho dek'oo ts'ǫ̀ yagehtı . Eyıts'ǫ dǫ hazǫǫ̀ tıts'aàdìı nechàa sı ts'ǫ̀ yagehtı , hagedı , “ Amìı dıı tıts'aàdìı nechàa xèht'e ? Dǫ wı̨ı̨zìı yedaèt'è gǫ̀hłı̨-le ! ” gedı .
+66013004b	~		
+66015004a	~		Gots'ǫ̀ K'àowo , dǫ hazǫǫ̀ nek'èagı̨ı̨t'e ha hǫt'e eyıts'ǫ neghàsǫgeedı ha . Nı̨ zǫ degaı anet'e . Ehkw'ı eghàlaı̨dàa sìı wek'èhoedzǫǫ̀ adlà ne t'à , dǫ hazǫǫ̀ xàɂaa nets'ǫ̀ aget'ı̨ xè neghàsǫgeedı ha hǫt'e , ” hagedıì gejı̨ .
+66015004b	~		
+66017007	Dànìghǫ		Eyıt'à yak'eet'ı̨į̀ sets'ǫ̀ hadı , “ Dànìghǫ sıì negha enıìyah dìì ? Eyı ts'èko eyıts'ǫ eyı tıts'aàdìı nechàa k'e whedaa sìı ayìı gha agı̨ı̨t'ee sìı nedaehsı̨ ha . Eyıts'ǫ wekwì łǫ̀hdı̨ eyıts'ǫ wedè hoònǫ wek'e whelaa sìı eyı ghǫ nedaehsı̨ ha .
+66018018	~		Eyı ts'èko wek'eek'ǫ̀ gıghàeda nı̨dè dıı hagedı ha , ‘ Eyı kǫ̀godeè wexèht'eè gòı̨lè whìle , ’ hagedı ha .

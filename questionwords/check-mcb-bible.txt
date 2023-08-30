@@ -1,0 +1,743 @@
+40002002	Tyara		ikantaigapaakeri timaigatsirira kara : — ¿ Tyara inake kara igoveenkariegite jorioegi ikyaenkarira mechotankitsi ? , noneaigakeritari impokiro ikontetapaakera yogaenokanakara nogotantaigakarira mechotake , nopokantaigakarira nonkamosoiguterira nontigeroaventaigakitemparira .
+40002004	tyara		Impogini irirori ikaemakagantaigakeri maganiro itinkamiegi saseroroteegi intiegiri aikiro gotagantaigirorira itsirinkakotanakerira Moiseshi ikogakotagantaigakeri tyara kara imechotakera Ikogakagakerira Tasorintsi impegakempara Igoveenkariegite iseraereegi .
+40003007	tyanimpatyora		Kantankicha iatashiigakeri aikiro tovaini pariseoegi intiegiri saroseoegi ikantaigakerira irogiviaigakerira . Irirori ineaigavakerira ikantaigavakeri : “ ¡ Viroegi kañoigakavi tsiroti ! Ontitari pamatagaigaka tera arisano pinkematsatagantsiige . ¿ Matsi tyanimpatyora kantaigakempira pimpokaigakera aka nogiviaigakempira ganiri ikisashiigimpi Tasorintsi impogini inkisashiigakemparira maganiro kañovageigacharira ?
+40005013	tatatyo		“ Viroegi onti pikañoigakaro tivi . Pineirotari tivi opochatira pairo okogasanotagani , kantankicha antari omasankatera ganigera opochatai , ¿ ario tatatyo onkogavitaenkani ? ¿ Matsi tyampatyo onkantaenkani kameti ompochatanaera ? Ontityo ovuokakenkani parikoti okenapinitaganira agatitinatakenkanira .
+40005046	tatatyo		Nonkantaigakempi antari intaganirika pinkavintsajaigake kavintsajaigimpirira , ¿ matsi tatatyo irishineviigakempi Tasorintsi ? Ariotari ikañoigari maika kogantaigaririra itovaireegi koriki irashi koveenkari .
+40005047	~		Ario okañotaka aikiro intaganirika piniaigavake pitovaireegi , ¿ matsi ario pineaigake pairo pavisaigake pikematsaigakerira Tasorintsi ? Ariotari ikañoigari maika yogaegi terira inkematsaigeri .
+40006027	~		Antari povankinaventaigemparora pinkimoiganakera ¿ matsi ario pagaveaigake pinkimoiganakera ? Garatyo pagaveimaigi .
+40006028	tyara okantaka		“ Iroroventi ¿ tyara okantakara povankinaventaigakarora pogaguigakemparira ? Pineaigironirorotyo oka otegapage tsikyata oshivokashiigaro irorori tera antumaigavetempa , aikiro tera onkirikaigavetempa akyari okametivageigi avisavagetaketyo kara okametitakera , avisagetakerotyo kamisa kametimagorisanorira pairanitirira yogagutarira koveenkari Saromon pairorira avisake okametimagotakera .
+40006031a	Tatarika		Nonkantantaigakempirira gara povankinavageiga pinkantaigakera : ‘ ¿ Tatarika nogaempa ? 
+40006031b	Tatarika		¿ Tatarika noviikaempa ? 
+40006031c	tyarikatyo		¿ Tyarikatyo nagakero nogagutaemparira ? ’
+40007003	Tyara pikantakara		¿ Tyara pikantakara pikanomajaigirira vetsikaigirorira terira onkametite ? ¿ Matsi tera pineero pashi virompatyo viro pairo pogagaka ?
+40007004	~		Kañomatakatyo ontinirika pikantanakeri pitovaire : ‘ Atsi taina nogotagakempira ganigeniri pikañovagetaa ’ , tenirikatyo pineemparo viro tyarikaroro apatoventavagetakempityo kara .
+40007009	~		¿ Matsi pinkañoigera viroegi inevitempira pitomi pan pinoshike mapu pimperi ?
+40007016a	~		Viroegi onti pineantaigavakempari irororika yogotagantaigake Niagantsisanorira ontirika yogagaigakero iramatavinaigakempira . Pineaigironiroro ova tera oneenkani ontimantemparora kivitsa . 
+40007016b	~		Ario okañotaka igo tera oneenkani ontimantemparora tanko .
+40008026	Antari gara		Irirori ikantaigiri : — ¿ Antari gara pitsarogaigi ? ¡ Tekya pogotasanoigero yagaveavagetira Tasorintsi ! Itinaamatanakatyo inianakerora tampia ikantiro : — ¡ Peganaempa , intaga pitampiati ! Iniiro aikiro inkaare ikantiro : — ¡ Maireatanae ! Ogatyo okenake opeganaa tampia , ario okañotaka inkaare irorori omaireatanai .
+40008027	Tyanimpatyora		Iriroegi yogavageiganaketyo kavako ikantaiganakera : — ¿ Tyanimpatyora yoga , nerotyo okematsagematanakerira tampia irorori ontiri inkaare ?
+40008029	tyara pikantaigana		Impo ineaigavakerira Jeso ikaemavaitanake ikantaigiri : — ¡ Eeee ! ¡ Jeso , Itomi Tasorintsi , arionena gara tyara pikantaigana ! ¿ Iroro pipokashitake pantsipereakagaigakenara maika tekyaenkara agumatempa nantsipereantaigakemparira ?
+40009004	Tyara pikantaigakara		Kantankicha Jeso yogoigavakerityo iniasurentaigakara ikantaigutarityo : — ¿ Tyara pikantaigakara piniasurentaigakara pikañoigakerora maika ?
+40009005	Tyatimpatyo		¿ Tyatimpatyo pairo avisake okomutakara ? ¿ Irororika nonkantakerira : ‘ Maikari mataka omagisantaagani magatiro povetsikagetakerira terira onkametite , garatyo ikenkiagaimpiro Tasorintsi ’ , ontirika nonkantakerira : ‘ Tinaanake nuitanake ’ ?
+40009011	Tyara ikantakara		Yogari pariseoegi ineaigakerira Jeso itentaigakarira isekataigakara ikantaigiri irogamereegi : — ¿ Tyara ikantakara yoga gotagaigimpirira isekatakovageigakarira kogantaiginiririra koveenkari koriki intiegiri aikiro pashini kañovageigacharira ?
+40009014	Tyara ikantaigakara		Impo ipokaigapaake irogamereegi Joan Giviatantatsirira ikantaigapaakeri Jeso : — Naroegi intiegiri pariseoegi napakuapiniigi tera nosekataigempa , kantankicha yogari pogamereegi tera ario inkañoigempa maika . ¿ Tyara ikantaigakara ?
+40009015	~		Impo irirori ikantaigiri : — Pine intimera pashini ikyarira gankitsi itsinanetsite inkaemaigakeri iamigoegite isekatagaigakemparira , ¿ matsi gara isekataiga ? Isekataigakempaniroro , itentaigakaritari kaemaigakeririra ishinevageigaka . Kantankicha antari aganakempara inkisakenkanira iramanakenkanira parikoti ario pinkante impitashiigakemparotyo kogapage gara isekataigaa , inkenkisureakoiganakemparitari .
+40010025	~		Aikiro yogari yogotagaganirira ariotyo inkañotakempari gotagiririra . Ario ikañotaka yonampitaganirira ariotyo inkañotakempari nampitaririra . Kañotari naro Pitinkami akyari ikantaitana Veresevo viromparorokari pairo irogagaitakempi .
+40011007	Tatoita		Impo iaiganaira iriroegi iniavagetanake Jeso iniakotakerira Joan ikantaigiri maganiro : “ ¿ Tatoita piatashiigakiti anta osarigagitetapaakera ? ¿ Iriro piatashiigakiti pineaigakitirira matsigenka terira ishintsitashigetero magatiro matavitantagantsi , irorokya ikanti irorokya ikanti ? ¿ Ario ikañotakaro savoroshi amirora tampia akya otuiti akya otuiti ?
+40011008	tatatyo		¿ Ario tatatyo piatashiigakiti ? ¿ Iriro piatashiigakiti pineaigakitirira matsigenka gagutacharira mechomagori kamisa ? Pogoigaketari maganiro gaguigacharira mechomagori kamisa onti ipirinitaigi ivankoku koveenkari .
+40011009	tatatyo		Iroroventi ¿ tatatyo piatashiigakitira ? ¿ Iriro piatashiigakiti pineaigakitirira kamantantatsirira ? Jeeje , irironiroro , kantankicha pairo yavisavagetakeri kamantantatsirira ,
+40011016	Tatarikatyo		“ ¿ Tatarikatyo nonkañotagaigakempi viroegi ? ¿ Tata pikañoigaka ? Inti pikañoigaka ananekiegi impitaigera pampatuiku imagempivageigakera impo ovashi inkisavakagaiganakempa inkantaige :
+40012011	~		Ontityo ikantaigakeri maika ineaigakera tyarika inkante kameti intsavetantaigakerira inkisakagantaigakerira . Kantankicha irirori ikantaigiri : — Aiñorika shintacharira irovishate impogini irashiriantanakemparo paniro ovegantara kutagiteriku apishigopireantaganirira , ¿ matsi gara iatashitiri inoshikaaterira ?
+40012026	tyara inkantakempara		Ario ikañotaka Satanashi irirori , ¿ matsi tyara inkantakempara ikiirora neagaachane ? Inkañotakemparika maika ikiirora parantaachane , ¿ matsi iragaveake atanatsira impeganakempara itinkamiegi maganiro kamagarinipage ?
+40012027	tyaniratyo		Viroegi onti pikantaigake inti tinkamitakena Veresevo nagaveantakarira noneaganontaigakarira itimaguigakerira kamagarinipage . Iriromera gaveakagakenane kamagarini , ¿ ario tyaniratyo gaveakagaigakerira pitovaireegi yoneaganontaigakarira itimaguigakerira kamagarini ? Irorotari ogotantunkani onti pikomuigakaro viroegi .
+40012029	Tyara inkantakenkani		“ Maika nokogake nonkantaigakempira : ¿ Tyara inkantakenkani inkiashitakenkanira pairorira isurariti inkoshigetakenkanira garira oketyo yogusotagani ? Antari oketyorika irogusotakenkani ario pinkante inkoshiarantakenkani .
+40012034	Tyara pinkantaigakempa		¡ Viroegi apaiventavageigakempi kañovagetagantsi ! ¿ Tyara pinkantaigakempa povetsikaigakera kametiripage ? , vintiegitari kañovageigacharira . Magatirotari osuretakotunkanirira irorotari oniakotunkani .
+40012048a	Tyanimpatyora		Kantankicha irirori ikantiri kamantakeririra : — ¿ Tyanimpatyora ina ? 
+40012048b	Tyanimpatyora		¿ Tyanimpatyora igeegi ?
+40013010	tyara okantakara		Impogini yogaegiri irogamereegi yaiñoniiganakari ikantaigiri : — Antari pogotagaigakerira maganiro matsigenkaegi , ¿ tyara okantakara pikañotakerora maika pikantakogetakerora magatiro ?
+40013027	tyaratyo		Yogari iromperaneegi pankitakerorira ineaigutarotyo ikantaigiri : ‘ Kogapage noneaigake onti pipankitake turigokisanorira . ¿ Maikari tyaratyo oponiakara tovaseri ? ’
+40013054a	Tyarikatyo		Yogotagantapaake anta pankotsiku yapatoitantaigarira jorioegi . Yogavageiganaketyo kavako maganiro kemisantaigavakeririra ikantaiganake : — ¿ Tyarikatyo kara yogotakerora magatiro oka ? 
+40013054b	Tyarikatyo ikantakara		¿ Tyarikatyo ikantakara yagaveakera yovetsikagetakerora terira oneimagetenkani ?
+40013056	Tyarikatyo		Ario okañoigaka iritsiroegi iroroegi onti otimaigi aka , aneasanovageigirotari aroegi . ¿ Tyarikatyo yogotakera kara ?
+40014031	Antari gara		Igenanekyatyo yakontsaanake Jeso inoshiatavairi irakoku ikantiri : — ¡ Tesakona pogote arisano nagaveavageti ! ¿ Antari gara pitsarogi ?
+40015002	Tyara ikantaigakara		— ¿ Tyara ikantaigakara pogamereegi tera intsatagaigero magatiro ikantageiganakerira yashikiiganakairira ? Pine omirinka isekataigara tera inkivakoigempa inkañotagaigakerora ikantaiganakerira .
+40015003	tyara pikantaigakara		Yogari Jeso ikantaigiri : — ¿ Tyara pikantaigakara viroegi tera iroro pintsatagaige ikantagetakerira Tasorintsi , onti pikogaigake pintsatagaigakerora ikantaiganakerira yashikiiganakempirira pairani ?
+40015033	tyara		Impo ikantaigiri irogamereegi : — ¡ Ojojoo itovaigavagetiratyo kara ! ¿ Ario tyara nagaigakero pan nompaigakerira isekataigakempara maganiro ? Ontitari anaigake osarigagitetapaakera , tera tyani timatsine aka .
+40015034	Akatovainivati		Ikantaigiri irirori : — ¿ Akatovainivati onai pan pamaigakerira ? Ikantaigi : — Intaganivati onai 7 , impo aiño aikiro piteni shima .
+40016008	tyara okantakara		Yogari Jeso ineaigavakerira iniavakagaiganakara ikantaigutarityo : — ¡ Tesakona pogotasanoige arisano nagaveavageti ! ¿ Tyara okantakara pikantaigakera : ‘ Onti ineakera tera amaige pan ’ ?
+40016009	akatovaiti		¿ Matsi tekya pogoige ? ¿ Matsi tenige pisureigaemparo pan onavetakara 5 nokotagagetakerora nosekatagaigakarira 5,000 surariegi ? Impo papatoigairora aityokyarira onai , ¿ akatovaiti onakotai tsivetaku ? ¿ Matsi pimagisantaigairo ?
+40016010a	~		Aikiro ¿ matsi tenige pisureigaemparo onavetakara pan 7 nokotagagetakerora nosekatagaigakarira 4,000 surariegi ? Impo papatoigairora aityokyarira onai , 
+40016010b	akatovaiti		¿ akatovaiti onakotai tsivetaku ? ¿ Matsi pimagisantaigairo ?
+40016011	tyara okantaka		Antari nokantaigakempira : ‘ Tsikyanira pogakoigarokari opoegantarira pan irashiegi pariseoegi intiegiri saroseoegi ’ , ¿ tyara okantaka tera pogoigavake tera iroro noniakote pan ?
+40016013	Tyani		Impogini iatake Jeso ikenanake kara ochoenitakara Sesarea Piripo . Impo ikantaigiri irogamereegi : — ¿ Tyara ikantaigi maganiro matsigenkaegi ? ¿ Tyani yoga Kañotasanotakaririra Matsigenka ?
+40016015a	~		Impo ikantaigiri : — Viroegiri , 
+40016015b	tyara pikantaigana		¿ tyara pikantaigana ?
+40016026a	~		Intimavetakempatyo gaveankitsinerira irashintakemparora magatiro kipatsipagekutirira kantankicha impoginityo inkamanae iriatake morekariku , ¿ matsi ario agaveake oganiakerira iaraki ? Garatyo agaveimati . 
+40016026b	~		Irashintagevetakemparotyo magatiro kantankicha garatyo yagaveimati impunaventakempara ganiri iati morekariku .
+40017010	tyara ikantakara		Impo iriroegi ikantaigiri : — ¿ Tyara ikantakara gotagantaigirorira itsirinkakotanakerira Moiseshi ikantaigakera iketyo pokankitsine Eriashi ?
+40017017a	Akasamaninivatirorokari		Ikanti Jeso : — ¡ Ario pikantavageigaka viroegi tekyaenkatyo pogoigero iragaveane Tasorintsi , teranika pinkogaige pinkematsaigakerira ! ¿ Akasamaninivatirorokari nompiriniventaigakempi nantsipereakoigakempira ? Iroroventi atsi maigakenarinityo aka .
+40017017b	~		
+40017019	tyarika okantakara		Yogari irogamereegi iniaigakeri Jeso parikoti ikantaigiri : — ¿ Tyarika okantakara naroegi tera nagaveaige noneagaigakemparira ?
+40017025a	tyara pinkante		Ikanti Perero : — Jeeje , ipunatinirorotyo . Iroro ikianakera tsompogi pankotsiku inakera Jeso iketyo niavakeri ikantiri : — Sumo , ¿ tyara pinkante viro ? 
+40017025b	tyani		¿ Tyani ikogantaiga koriki koveenkaripage timageigatsirira aka kipatsiku ? ¿ Iriro ikogantaiga itomiegi intirika ikogantaiga pashini ?
+40018001	Tyani		Impogini yaiñoniiganakari irogamereegi ikantaigiri : — ¿ Tyani visaigakerine itovaireegi impogini pimpegakempara Nogoveenkariegite ?
+40018012	Tyara pinkantaige		“ ¿ Tyara pinkantaige viroegi ? Pine intimera paniro matsigenka impiratakempa 100 irovishate impo impegakempa paniro , ¿ matsi gara iokaiganakeri maganiro irovishate iriatakera inkogaaterira pegankicharira ?
+40018021	akatovaiti		Impogini yaiñonitanakari Perero ikantiri : — Notinkami , ¿ akatovaiti nomagisantaero tyarika inkantakena napigematsatene ? ¿ Ario onkaratanake 7 ?
+40019007	tyara okantakara		Iriroegi ikantaigiri : — Iroroventi , ¿ tyara okantakara ikantakera Moiseshi iokanaerorika surari itsinanetsite impakero sankevanti onkantake : ‘ Maika mataka nokanaimpi ’ , impo inkantakero oataera ?
+40019016	Tatoita		Antari ikenanakera Jeso kara ipokashitapaakeri paniro matsigenka ikantapaakeri : — Gotagantatsirira , atsi kamantena tyara nonkantakempa kameti nonkantakanira nontimake . ¿ Tatoita novetsikakera ? ¿ Tatoita kametitankitsine ?
+40019017	Tatoita		Ikantiri Jeso : — Tyara okantakara pikantakenara : ‘ ¿ Tatoita kametitankitsine ? ’ , mameritari pashini kametitasanotatsinerira , panirotari ikantara Tasorintsi ikametitira . Kantankicha pikogakerika pinkantakanira pintimake , tsatagageterotyo magatiro itsirinkakotanakerira Moiseshi pairani .
+40019018	tyatityo		Ikanti irirori : — ¿ Tyatityo ? Ikanti Jeso : — Irorotari kantatsirira : ‘ Gara poganti , gara piatashitiro tsinane , gara pikoshiti , gara pitsoeventari pitovaire .
+40019020	~		Ikantutarityo irirori : — Arioniroro nokañotari maika notsititanakero notsatagasanotanakerora notyomiakyanira ovashi maika . ¿ Maika aityokya pashini nontsatagakerira ?
+40019025	tyanimpatyora		Ikemaigutatyo irogamereegi ariompatyo yogasanovageiganakeri kavako ikantaigiri : — Iroroventi ¿ tyanimpatyora irogavisaakotakenkani ?
+40019027	tatarika		Impo inianake Perero ikanti : — Notinkami , naroegi nokaiganakero magatiro nashintaigavetarira nogiavageiganakempira . Maikari ¿ tatarika impaigakena Tasorintsi ?
+40020006	Tyara okantaka		Impo panikyara irishonkanakempa poreatsiri ipigutanaa aikiro ineaigapaake pashini tera tatoita irantumaige ikantaigiri : ‘ ¿ Tyara okantaka pirinitaigakevi kogapage tera tatoita pantumaige ? ’
+40020012	~		Impo ikantaigakeri : ‘ Yogaegiri impogigeiganankitsirira maanisano yantavageigavetaka kantankicha viro pipunaigakerityo kañotaka pipunaigakenara naroegi tsipereaigankitsirira nantavageigakera poreatsiriku ovashi maika . ’
+40020021	Tatatyo		Irirori ikantiro : — ¿ Tatatyo pikogake ? Irorori okanti : — Impogini pimpegakempara Igoveenkariegite maganiro nokogavetaka povirinitaigakerira yoka notomiegi pinampinaku , paniro pitankitsine pakosanoriraku , yogari irapitene impitake pampateku .
+40020032	tata		Yogari Jeso asatyo yaratinkapaake ikaemaigakeri ikantaigiri : — ¿ Tata pikogaigake ?
+40021010	Tyaniratyo		Impogini yogonketapaakara Jerosarenku ogatyo ikenaigake timaigatsirira kara ishigaviovageigapaakatyo ikantaigavakerira giaigapaakeririra : — ¿ Tyaniratyo yoga ?
+40021016	tyara		Impo ishonkateigamatanakarityo Jeso ikantaigutarityo : — ¿ Matsi tera pinkemaigeri yogaegi ananekiegi ikaemavaitaigakera ? ¿ Tera tyara pinkantumaigeri ? Yogari Jeso ikantaigiri : — Jeeje , nokemaigakeriniroro , kantankicha ¿ matsi tera piniavantumaigero viroegi Itsirinkakagantakerira Tasorintsi niakotakerorira oka ? Okantaketari : ‘ Yogari Tasorintsi yagaveakagaigakeri ananekiegi intiegiri aikiro aiñokyarira itsomiigi irishineventaigakemparira inkantaigakera : ¡ Pairo ikametiti Tasorintsi ! ’
+40021020	Tyara okantakara		Iroro ineaigakerora irogamereegi yogaiganake kavako ikantaigiri : — ¿ Tyara okantakara iroro piniimatakera oga okenake okamanake ?
+40021023a	Tyani		Impo yogonketapaakara Jeso ikiake ivankoku Tasorintsi yogotagaigapaakerira . Osamanitanakera ipokashiigapaakeri itinkamiegi saseroroteegi intiegiri itinkamiegi jorioegi ikantaigiri : — ¿ Tyani kantakempira pinkañotakerora maika poneagaigaemparira pimantavageigatsirira ? 
+40021023b	Tyanimpatyora		¿ Tyanimpatyora tigankakempira ?
+40021025a	tyani		¿ Tyani kantakeri Joan irogiviatantavagetakera ? Maika viroegi kantaigena tyani kantakeri . ¿ Irirorika kantakeri Tasorintsi intirika kantaigakeri matsigenkaegi ? Iroro ikemaigavakera iniavakagaigamatanakatyo ikantavakagaiganakara : 
+40021025b	tyarikatyo ankantaigeri		“ ¿ Tyarikatyo ankantaigeri ? Ankantaigavetempari inti kantakeri Tasorintsi , irirori inkantaigakaetyo : 
+40021025c	tyara okantakara		‘ Iroroventi ¿ tyara okantakara tera pinkematsaigeri ? ’
+40021028	Tyarika pinkantaige		Impogini Jeso ikantaigiri : — ¿ Tyarika pinkantaige nonkantaigakempira maika ? Itimi pairani matsigenka aiño piteni itomi . Impogini ikantakeri itsitiki : ‘ Notomi , piatakera pagavagetakera ova . ’
+40021031	tyani		Maikari kantaigena , ¿ tyani kematsatasanotakeri iriri ? Iriroegi ikantaigi : — Inti itsitiki . Impo Jeso ikantaigiri : — Arisanotyo nonkantasanoigakempi ogaegiri tsinaneegi pogereantaigatsirira intiegiri kogantaigaririra itovaireegi koriki irashi koveenkari ataketyo yogoiganake tyara inkantaigakempa kameti impegakempara Tasorintsi Igoveenkariegite , kantankicha viroegi tekyatyo pogotumaige .
+40021040	tyarika inkantaigakeri		“ Antari impigaera shintasanotarorira ova ¿ tyarika inkantaigakeri yogaegi tavageigatsirira ? ¿ Tyara pinkantaige viroegi ? ”
+40022012	Tyara pikantaka		Ikantiri : ‘ ¿ Tyara pikantaka viro pikiakera kogapage tera pogagutempa kitsagarintsi pinkañoigakemparira pitovaireegi ? ’ Kantankicha irirori ikemisantaketyo .
+40022017	tyara pinkante		Maika ¿ tyara pinkante viro ? ¿ Kametitake nompaigakerira ontirika tera onkametite ? ¿ Ario nompaigakeri ontirika gara nopaigiri ?
+40022018	tyara okantakara		Kantankicha Jeso yogotavaketyo tera kametikya inkantaigeri onti ishinetamampegaigakari kogapage , nerotyo ikantaigutarityo : — Viroegi ontityo pishinetamampegaigakena kogapage . ¿ Tyara okantakara pikañovintsaigakenara maika ?
+40022020a	tyani		impo yagatakera ineagetakerira ikantaigiri : — ¿ Tyani yoka itsirinkakotunkanirira ? 
+40022020b	tyani		¿ Tyani shintaro ivairo ?
+40022028	tyanirikatyo		Maika atsi kantaigena , antari impogini iraniaiganaerika maganiro igamaga , ¿ tyanirikatyo gasanotaerone ? , maganirotari yagaigavetakaro .
+40022036	tyati		— Gotagantatsirira , pogotitari itsirinkakotanakero Moiseshi pairani magatiro ikantagetirira Tasorintsi . Maika nokogavetaka pinkamantaigakenara tyati pairo avisake okametitakera ontsatagasanotakenkanira .
+40022042a	tyara pikantaigi		yogari Jeso ikantaigiri : — ¿ Tyara pikantaigi viroegi ? 
+40022042b	tyani		¿ Tyani yashikitanakeri Ikogakagakerira Tasorintsi impegakempara Pigoveenkariegite ? Iriroegi ikantaigiri : — Inti yashikitanakeri Iravi .
+40022043	tyara okantakara		Yogari Jeso ikantaigiri : — Iroroventi ¿ tyara okantakara pairani iniakagakerira Isure Tasorintsi Iravi ipegakerira Itinkami ? , ikantaketari maika :
+40022045	tyara inkantakempara		Irorotari ikantakerira : ‘ Notinkami ’ , ¿ tyara inkantakempara iyashikitakerira ?
+40023017	tyatimpatyora		¡ Teratyo pogotumaige viroegi ! ¿ Matsi tyatimpatyora pairo avisake okoveenkatakera , irororikara ivanko Tasorintsi intirika kori nantakarorira ? Gamera iroro ivanko gametyo ikametiti kori .
+40023019	tyatimpatyora		¡ Teratyo pogotumaige ! ¿ Matsi tyatimpatyora visankitsi ikoveenkatakera , irirorikara piratsi ontirika itagantaganirira ? Gamera iroro itagantaganirira gametyo ikametiti irirori .
+40023033	tyanimpatyo		“ ¡ Vintiegi vetsikageigirorira posantepage terira onkametite ! Maikari maika ¿ tyanimpatyo gavisaakoigakempine ganiri pitagaiga morekariku ?
+40024003a	tyatirikara		Impogini itonkoaiganake iaiganakera otishiku Orivoshi , ario ipirinitake Jeso kara . Impo yogari irogamereegi yaiñoniigapaakari ikantaigapaakeri : — Nokogaigake pinkamantaigakenara tyatirikara agantakempa ontsonkatantanaemparira inkaaratirira pikantakerira ogashiriagetakenkanira . 
+40024003b	Tyatirikara		¿ Tyatirikara nogotantaigavakempa pimpigantaemparira impogini ontsonkagetanaempara magatiro kipatsi ?
+40024045	~		“ Onti pinkañoigakempari nampiriantsi govagetatsirira kematsatasanotiririra shintaririra . Pine intimera shintacharira ironampiriaegi impo iriatakera parikoti inkantanaeri paniro ironampiria ineaigaerira maganiro irapinampiriantsiegitene impaigaeri omirinka isekaegi .
+40025037	tyara		Impo yogari kematsaigatsirira inkantaigakeri : ‘ Notinkami , ¿ tyara noneaigakempira kara pitasegakera nopaigakempi piseka ? ¿ Tyara kara noneaigakempira pimiretakera nopaigakempi pimire ?
+40025038	tyara		¿ Tyara kara noneaigakempira panuivagetakera nokaemaigakempi pimagimoigakenara ? ¿ Tyara kara noneaigakempira pitsonkasetakovagetanakara nopatsaraigakempi pogagutaara ?
+40025039	tyara		¿ Tyara kara noneaigakempira pimantsigatakera , aikiro yashitakoitakempira noaigake nokamosoigutimpira ? ’
+40025044	tyara		Iriroegi inkantaigeri : ‘ Notinkami , ¿ tyara kara noneaigakempira pitasegakera , panuivagetakera , pimiretakera , pitsonkasetakovagetakara , pimantsigatakera , aikiro yashitakoitakempira tera nontsarogakagaigempi ? ’
+40026008	Antari gara		Yogari irogamereegi iroro ineaigavakerora ogatyo ikenaigake ikisaiganaka iniavakagaiganakara ikantaigi : — ¿ Antari gara aparaatagantiri ?
+40026010	~		Kantankicha Jeso irorotyo ikemaigavakerira ikantaigutarityo : — Atsi arionenityo , gara pikisaigiro , pairotari okametitake okañotakenara maika osagutakenara .
+40026015	aka tovaini		ikantaigapaakeri : — ¿ Aka tovaini koriki pimpunaigakena nagakagantaigakempirira Jeso ? Iriroegi ipaigakeri koriki 30 imenta .
+40026017	Tyara		Impo aganakara vieseta ogantaganirira pan terira onkonogempa opoegantarira yogari irogamereegi Jeso yaiñoniiganakari ikantaigiri : — ¿ Tyara kara pikogake novetsikaigakerora magatiro kameti asekataigakempara paita ?
+40026040	~		Impo yagatanakera iniakerira iatai inkaaraku inaigakera irogamereegi ineaigapaakeri magasevageigake . Ikantapaakeri Perero : — ¿ Matsi tera pagaveaigumate samanikonara pinkireaigake ?
+40026050	~		Yogari Jeso ikantiri : — Jeeje , aiñona . Maika aityotari pipokashitakerira atsi nani kañotero . Impo yogari tentaigakaririra Jorashi yaiñoniigapaakari Jeso inoshikaigapaakeri yairikaigakerira .
+40026054	tyara onkantakempara		Kantankicha ariomera nonkañotagakerome maika , ¿ ario tyara onkantakempara ontsataganakempara Itsirinkakagantakerira irirori pairani okamantakotakenara nantsipereavagetakera ?
+40026062a	tyara pinkantumate		Impo ikavirimatanakatyo Kaipashi ikantiri Jeso : — ¿ Tera tyara pinkantumate ? , pikemaigakeritari ikantanaigakempira . 
+40026062b	tyara pinkantera		Maika ¿ tyara pinkantera viro ?
+40026065	~		Ogatyo ikenake ikisamatanakatyo Kaipashi itisaraitarotyo imanchaki tseerererere ikanti : — ¡ Yokari yoka onti ikañotagumanatakari Tasorintsi ! Iroroventi maika intagatityo akaemakagantaigi pashini iripokaigakera inkamantaigakaera ikañotakerora maika , matakaniroro pikemaigakeri tsikyata viroegi ikantakera .
+40026066	tyara pinkantaige		Maika ¿ tyara pinkantaige viroegi ? Iriroegi ikantaigi : — Kantetyo inkamakera , tsikyatatari ikañotagantaka irirori .
+40026068	tyani		ikantaigakerira : — Irorotari vintira Ikogakagakerira Tasorintsi impegakempara Igoveenkariegite jorioegi , ¡ atsi gotenityo tyani taakempi !
+40027004	tyara nonkantaige		ikantaigavetapaakari : — Narori onti novetsikake terira onkametite nagakagantakeritari terira tatakona irovetsikumate , maika irogakenkani . Kantankicha iriroegi ikantaigavakeri : — ¿ Ario tyara nonkantaige naroegi ? Virompatyo , virotari kañotankicha okyara .
+40027013	~		Irorotari ikantantakaririra Pirato : — ¿ Matsi tera pinkeme ikantanaiganakempira ?
+40027017	Tyani		Impo Pirato ineaigakerira yapatoventaiganakarira maganiro ikantaigiri : — ¿ Tyani pikogaigake nampakuaerira ? ¿ Irirorika Varavashi intirika Jeso pikantaigirira inti Ikogakagakerira Tasorintsi impegakempara Pigoveenkariegite ?
+40027021	Tyani		Yogari Pirato iniitaigaarityo aikiro ikantaigiri : — ¿ Tyani pikogasanoigake nampakuaerira ? ¿ Iriro Varavashi intirika Jeso ? Ikaemaigamatanaketyo : — ¡ Inti pampakuae Varavashi !
+40027022	tyaratyo nonkantakerira		Ikantaigiri Pirato : — Iroroventi , ¿ tyaratyo nonkantakerira yoga Jeso pikantaigirira inti Ikogakagakerira Tasorintsi impegakempara Pigoveenkariegite ? Ikaemaigutanaatyo aikiro maganiro : — ¡ Kentakoteri !
+40027023a	tyara ikantakara		Ikantaigiri Pirato : — ¿ Matsi tyara ikantakara ? 
+40027023b	Tatampatyora		¿ Tatampatyora yovetsikakera ? Ikaemaigutanaatyo aikiro : — ¡ Nokantaigaketari kentakoteri !
+40027046	tyara okantakara		Ogatyo ikenake ikaemamatanaketyo Jeso ikanti : “ Eri , Eri , ¿ irema savakatani ? ” ( onkantakera : “ Apa Tasorintsi , Apa Tasorintsi , ¿ tyara okantakara povashigantakenara ? ” )
+41001024	Tyara pinkantaigakenara		— ¡ Eeee ! ¡ Jeso Nasarekunirira ! ¿ Tyara pinkantaigakenara ? ¿ Iroro pipokashitake pimpogereaigakenara ? Noneimpitari , nogotakempi vinti Ikogakagakerira Tasorintsi impegakempara Igoveenkariegite maganiro .
+41001027	Tatarikatyo		Maganiro yogavageiganaketyo kavako ikantavakagaiganaka : — ¿ Tatarikatyo oitara oka ? Okantatigakatari yogotagantapaakerira yavisavagetakerityo pairorira yogovageti , nerotyo ikematsatantaiganakaririra kamagarini yoneagaigakarira .
+41002007a	Tyarikatyo ikantakara		“ ¿ Tyarikatyo ikantakara ikantakera maika ? ¡ Onti ikañotagumanatanakari Tasorintsi ! 
+41002007b	~		¿ Matsi aiño pashini gaveankitsinerira imagisantakotantaerora kañovagetagantsi ? , panirotari yagaveira irirori . ”
+41002008	Tyara pikantaigakara		Kantankicha Jeso yogoigavakerityo iniasurentaigakara ikantaigutarityo : — ¿ Tyara pikantaigakara piniasurentaigakara pikañoigakerora maika ?
+41002009	Tyatimpatyo		¿ Tyatimpatyo pairo avisake okomutakara ? ¿ Irororika nonkantakerira : ‘ Maikari mataka omagisantaagani magatiro povetsikagetakerira terira onkametite , garatyo ikenkiagaimpiro Tasorintsi ’ , ontirika nonkantakerira : ‘ Tinaanake , ganaero pinoriantakarira , piatae ’ ?
+41002016	tyara ikantakara		Yogari pariseoegi intiegiri gotagantaigirorira itsirinkakotanakerira Moiseshi ineaigakerira Jeso itentaigakarira isekataigakara ikantaigiri irogamereegi : — ¿ Tyara ikantakara yoga gotagaigimpirira isekatakovageigakarira kogantaiginiririra koveenkari koriki intiegiri aikiro pashini kañovageigacharira ?
+41002018	Tyara ikantaigakara		Impogini yogari irogamereegi Joan intiegiri pariseoegi tera isekataigempa , onti ipitashiigakaro kogapage , impo ikonogagarantaigaka iaigake ikantaigakerira Jeso : — Yogaegiri irogamereegi Joan intiegiri irashiegi pariseoegi yapakuapiniigi tera isekataigempa , kantankicha yogari pashiegi pogamereegi tera ario inkañoigempa maika . ¿ Tyara ikantaigakara ?
+41002019	~		Impo ikantakotaka Jeso ikanti : — Pine intimera pashini ikyarira gankitsi itsinanetsite inkaemaigakeri iamigoegite isekatagaigakemparira , ¿ matsi gara isekataiga ? Isekataigakempaniroro , itentaigakaritari kaemaigakeririra ishinevageigaka .
+41002024	Tyarikatyo ikantaigakara		Ikantaigiri pariseoegi : — ¿ Tyarikatyo ikantaigakara pogamereegi ? , yagaiganaketari turigoki maika kutagiteriku apishigopireantaganirira , okantavitantaganitari antavagetantenkanira .
+41003004	tata		Impogini ikantaigiri maganiro : — Maika atsi pinkantaigakenara tyara ikanti Moiseshi pairani . ¿ Tata ovetsikakenkani kutagiteriku apishigopireantaganirira ? ¿ Ario ikanti ovetsikakenkanira kametiri ontirika ovetsikakenkanira terira onkametite ? ¿ Ario ikanti aganiaigavaerira atovaire ontirika ikanti agamagaigakerira ? Kantankicha iriroegi teratyo tyara inkantumaige , ikemisantaiganaketyo maganiro .
+41003023	tyara inkantakempa		Nerotyo ishonkatetantaiganakaririra Jeso ikantaigiri : “ ¿ Matsi tyara inkantakempa Satanashi ikiirora neagaachane ?
+41003033a	Tyanimpatyora		Irirori ikantaigiri : — ¿ Tyanimpatyora ina intiri aikiro igeegi ?
+41003033b	~		
+41004013	tyampatyo pinkantaigakempa		Impo ikantaigiri : “ ¿ Tera pinkemaigavakero oka nokantakotakerira inkaara ? Iroroventi ¿ tyampatyo pinkantaigakempa pinkemaigavakerora otovaire nonkantakogetakerira ?
+41004030a	tatoita		Ikantaigiri aikiro : “ ¿ Maika tatoita okañotakaro ipegakara Tasorintsi Igoveenkariegite matsigenkaegi ? 
+41004030b	Tatarikatyo		¿ Tatarikatyo nonkañotagakemparo ?
+41004038	~		Yogari Jeso magasevagetake otsitiku inagitotakaro nagitorintsi . Yogireaigutarityo ikantaigakerira : — Gotagantatsirira , ¿ matsi tera pogote panikya aokajaigakempa ?
+41004040a	antari gara		Impo ikantaigiri irogamereegi : — ¿ Antari gara pitsarogaigi ? 
+41004040b	~		¿ Matsi tekya pogotasanoigero yagaveavagetira Tasorintsi ?
+41004041	Tyanimpatyora		Ariompatyo itsarogasanoiganakeri ikantavakagaiganakara : — ¿ Tyanimpatyora yoga , nerotyo okematsagematanakerira tampia irorori ontiri inkaare ?
+41005007	tyara pikantana		Impo irirori inianakeri kamagarini ikantiri : — ¡ Kontetanae , pakuanaeri yoga ! Iniamatanaketyo irirori imaraenkarikatyo kara ikantiri : — ¡ Eeee ! ¡ Jeso , Itomi Tasorintsisanorira timatsirira enoku , arionena gara tyara pikantana ! Atsi garatyo patsipereakagana . ¡ Tsarogakagavagetenakario !
+41005009	Tyara		Impogini ikantiri Jeso : — ¿ Tyara pipaita ? Ikanti irirori : — Onti nopaita Tovainirira , tovainitari nonaigi .
+41005030	Tyani		Yogari Jeso yogotavaketyo yovegantaarora iragaveane ishonkanaka aikyara ipampogiaigakerira patoventaigakaririra ikanti : — ¿ Tyani tsagatakotakena nomanchakiku ?
+41005031	Tyani		Iniaiganake irogamereegi ikantaigiri : — Pineavetakarityo yavinaavioiganakempira atanatsi pikantakera : ‘ ¿ Tyani tsagatakotakena nomanchakiku ? ’
+41005035	~		Impo aiñokyara iniiro ikenaigapaake pashini iponiaigaka ivankoku Jairo ikantaigapaakeri : — Matakaniroro kamake pishinto atanatsi poverairira Gotagantatsirira .
+41005039a	antari gara		Ikianake tsompogi ikantaigapaakeri : — ¿ Antari gara piragaiga ? Tera ario onkame , onti omagake .
+41005039b	~		
+41006002a	Tyarikatyo		Aganakara kutagiteri apishigopireantaganirira iatake pankotsiku yapatoitantaigarira jorioegi itsititanakera yogotagantanakera . Yogari kemaigavakeririra yogavageiganaketyo kavako ikantaiganake : — ¿ Tyarikatyo kara yogotakerora magatiro oka ? 
+41006002b	tyani		¿ Tyani gotagakerira ario okañota maika ? 
+41006002c	Tyarikatyo ikantakara		¿ Tyarikatyo ikantakara yagaveakera yovetsikagetakerora terira oneimagetenkani ?
+41006022	tatarika		Impo isekatavageigakara okiapaake oshinto Eroria otosotapaakera oshonkashonkavagetanakatyo kara . Iroro ineakerora Erorishi intiegiri maganiro itentaigakarira isekataigakara ishineventaiganakarotyo . Impo ikantiro : — Maika nevitena tatarika pikogake , naro nompakempirotyo .
+41006024	tatarikatyo		Irorotyo okemavakerira okontetapanuti oatake okantakerora iniro : — Ina , ¿ tatarikatyo nonevitakeri ? Irorori okantiro : — Atsi irorompatyo pinevitakeri igito Joan Giviatantatsirira .
+41006037	~		Kantankicha Jeso ikantaigiri : — Paigerityo viroegi isekataigakempara . Iriroegi ikantaigiri : — ¿ Matsi ario nagaveaigake noaigakera nompunaventaigakitera 10,000 pan nontsotenkaigakerira nompaigakerira isekataigakempara ?
+41006038	Akatovainivati		Impo ikantaigiri Jeso : — ¿ Akatovainivati onake pan pashiegi ? Atsi piaige kamosoigutero akatovainivatirika onake . Ovashi iaigake ikamosoigutirora impo ipigaigaa ikantaigapaakeri : — Aityo 5 , intiri shima pitenivani .
+41007005	Tyara ikantaigakara		Impogini yogari pariseoegi intiegiri gotagantaigirorira itsirinkakotanakerira Moiseshi ikantaigiri Jeso : — ¿ Tyara ikantaigakara pogamereegi tera intsatagaigero magatiro ikantageiganakerira yashikiiganakairira ? Pine omirinka isekataigara tera inkivakoigempa inkañotagaigakerora ikantaiganakerira , onti isekatakoigakaro irako okitsitinkakerora tatapagerika oita .
+41008004	tyara		Impo ikantaigiri irogamereegi : — Akari aka tera tyani timatsine . ¿ Ario tyara agakenkanira kara pan impaigakenkanira isekataigakempara maganiro inkemaigakempara ?
+41008005	Akatovainivati		Ikantaigiri irirori : — ¿ Akatovainivati onai pan pamaigakerira ? Ikantaigi : — Intaganivati onai 7 .
+41008012	Tyarikatyo ikantaigakara		Kantankicha irirori yovesureanaka ikanti : — Tyarikatyo ikantaigakara yogaegi maikanirira ikogaigakera ineakagakenkanira terira oneimagetenkani . Maika nonkantaigakempi garatyo noneakagumaigimpi .
+41008017	tyara okantakara		Yogari Jeso ineaigavakerira iniavakagaiganakara ikantaigutarityo : — ¿ Tyara okantakara pikantaigakera : ‘ Onti ineakera tera amaige pan ’ ? ¿ Matsi tera pinkemaige ? ¿ Tekya pogoige ? ¿ Matsi tera ontimaige pisureegi ?
+41008018a	~		¿ Kogapage otimake pokiegi tera pineantaigemparo ? 
+41008018b	~		Aikiro pigempitaegi , ¿ kogapage otimake tera pinkemantaigemparo ?
+41008019	akatovaiti		¿ Matsi tenige pisureigaemparo pan onavetakara 5 nokotagagetakerora nopaigakerira 5,000 surariegi isekataigakempara ? Impo papatoigairora aityokyarira onai , ¿ akatovaiti onakotai tsivetaku ? Iriroegi ikantaigiri : — Onakotai 12 .
+41008020	akatovaiti		— Ontiri aikiro onavetakara pan 7 nogitovaigakero isekataigakara maganiro 4,000 . Impo papatoigairora aityokyarira onai , ¿ akatovaiti onakotai tsivetaku ? Ikantaigiri : — Onakotai 7 .
+41008021	~		Impo Jeso ikantaigiri : — ¿ Matsi tekya pinkemaige ?
+41008023	~		Yogari Jeso ikatsatanakeri itentanakari parikoti okaragetanakera pankotsipage . Yorenkantakari iava irokiku impo itsagatakeri ikantiri : — ¿ Oga pineake ?
+41008027	Tyara ikantaigana		Impogini iatanake Jeso itimageigira pashinipage ochoenitakogetakarora apatotara pankotsi paitacharira Sesarea Piripo itentaiganaari irogamereegi . Antari avotsiku ikantaigiri : — ¿ Tyara ikantaigana maganiro matsigenkaegi ?
+41008029a	~		Impo ikantaigiri : — Viroegiri , 
+41008029b	tyara pikantaigana		¿ tyara pikantaigana ? Iniamatanaketyo Perero ikantiri : — Viro vinti Ikogakagakerira Tasorintsi impegakempara Nogoveenkariegite .
+41008036	~		Intimavetakempatyo gaveankitsinerira irashintakemparora magatiro kipatsipagekutirira kantankicha impoginityo inkamanae iriatake morekariku , ¿ matsi ario agaveake oganiakerira iaraki ? Garatyo agaveimati .
+41008037	~		Irashintagevetakemparotyo magatiro kantankicha garatyo yagaveimati impunaventakempara ganiri iati morekariku .
+41009010	tatarikatyo		Iriroegi tera tyani inkamantaige , onti iniavakagaigaka ikantavakagaigakara : “ Antari ikantakera inkitareanaera Kañotasanotakaririra Matsigenka inkitavetakenkanira , ¿ tatarikatyo iniakotake ? Teratyo nonkeme . ”
+41009011	tyara ikantakara		Impo ikantaigiri Jeso : — ¿ Tyara ikantakara gotagantaigirorira itsirinkakotanakerira Moiseshi ikantaigakera iketyo pokankitsine Eriashi ?
+41009012	tyara okantaka		Irirori ikantaigiri : — Arisanoniroro ogari Itsirinkakagantakerira Tasorintsi okantake iketyo pokankitsine Eriashi inkenkitsatimoigakerira jorioegi inkantaigakerira inkantatigaiganakempara inegintetashiigavakemparira impogitapaankitsinerira , kantankicha antari itsirinkakotunkanira Kañotasanotakaririra Matsigenka , ¿ tyara okantaka okantakera iratsipereavagetake , aikiro inkisakenkani ?
+41009016	Tatatyo		Irirori ikantaigiri : — ¿ Tatatyo piniaventaigakera ?
+41009019a	Akasamaninivatirorokari		Inianake Jeso ikanti : — ¡ Ario pikantavageigaka viroegi tekyaenkatyo pogoigero iragaveane Tasorintsi , teranika pinkogaige pinkematsaigakerira ! ¿ Akasamaninivatirorokari nompiriniventaigakempi nantsipereakoigakempira ? Iroroventi atsi maigakenarinityo aka .
+41009019b	~		
+41009021	Akatanake		Yogari Jeso ikantiri iriri : — ¿ Akatanake ishiriagakotaka itimagutakerira kamagarini ? Irirori ikanti : — Atake itovaigakovagetanake , itimagutakeritari pairani ityomiakyanira .
+41009028	tyarika okantakara		Impo iatai Jeso pankotsiku itentaiganaari irogamereegi . Iriroegi ikantaigakeri : — ¿ Tyarika okantakara naroegi tera nagaveaige noneagaigakemparira ?
+41009033	Tatatyo		Antari yogonkeigapaakara Kaperenaoku iaigake pankotsiku impo yogari Jeso ikantaigiri irogamereegi : — ¿ Tatatyo oitara piniaventaigakera inkaara avotsiku ?
+41009050	tyampatyo onkantaenkani		Ogari tivi opochatira pairo okogasanotagani , kantankicha antari omasankatera ganigera opochatai , ¿ matsi tyampatyo onkantaenkani kameti ompochatanaera ? Maika viroegi pinkañoigakemparora tivi okantakanira opochati pinkantakanira pinkematsatasanoigakenara pantsipereaventaigakenara , aikiro kametikyara pagavakagaigakempa . ”
+41010003	Tyara		Irirori ikantaigiri : — ¿ Tyara ikanti Moiseshi itsirinkakotanakerora ?
+41010017	tyara nonkantakempa		Antari iatanaira Jeso ineiri ikenapaake paniro matsigenka ishigatetapaakari itigeroaventapaakari ikantiri : — Gotagantatsirira , pairo pikametiti . Atsi kamantena tyara nonkantakempa kameti nonkantakanira nontimake .
+41010018	tyara okantakara		Ikantiri Jeso : — ¿ Tyara okantakara pikantakenara : ‘ Pairo pikametiti ’ ? , mameritari pashini kametitasanotatsinerira , panirotari ikantara Tasorintsi ikametitira .
+41010026	tyanimpatyora		Ikemaigutatyo irogamereegi ariompatyo yogasanovageiganakeri kavako ikantaigiri : — Iroroventi ¿ tyanimpatyora irogavisaakotakenkani ?
+41010036	Tatatyo		Irirori ikantaigiri : — ¿ Tatatyo oitara pikogaigakera pinkantaigakenara ?
+41010051	Tata		Irirori ikantiri : — ¿ Tata pikogake ? Ikanti : — Notinkami , onti nokogake noneanaera .
+41011003	tyara pinkantaigakeri		Tyanirika kantaigakempine : ‘ ¿ Antari gara pitsaakoigiri ? ¿ Matsi tyara pinkantaigakeri ? ’ viroegi pinkantaigeri : ‘ Inti kogakotakari Atinkami , kantankicha paita irogipigaempiri . ’
+41011005	tyara pinkantaigakeri		Yogari pitaigankitsirira kara ikantaigiri : — ¿ Matsi tyara pinkantaigakeri ? ¿ Antari gara pitsaakoigiri ?
+41011028a	tyani		ikantaigiri : — ¿ Tyani kantakempira pinkañotakerora maika poneagaigaemparira pimantavageigatsirira ? 
+41011028b	Tyanimpatyora		¿ Tyanimpatyora tigankakempira ?
+41011030	Tyani		¿ Tyani kantakeri Joan irogiviatantavagetakera ? Maika viroegi kantaigena tyani kantakeri . ¿ Irirorika kantakeri Tasorintsi intirika kantaigakeri matsigenkaegi ?
+41011031a	Tyarikatyo ankantaigeri		Iroro ikemaigavakera iniavakagaigamatanakatyo ikantavakagaiganakara : “ ¿ Tyarikatyo ankantaigeri ? Ankantaigavetempari inti kantakeri Tasorintsi , irirori inkantaigakaetyo : 
+41011031b	tyara okantakara		‘ Iroroventi ¿ tyara okantakara tera pinkematsaigeri ? ’
+41012009	tyara pinkantaige		“ Maika ¿ tyara pinkantaige viroegi ? ¿ Tyarika inkantaigakeri shintarorira igipatsite ? Ontityo iriatashiigakiteri irogaigakiterira , pashinikyatyo inkaemaigae impugakagaigaerira .
+41012015	tyara okantakara		Kantankicha Jeso yogotavaketyo tera kametikya inkantaigeri onti ishinetamampegaigakari kogapage , nerotyo ikantaigutarityo : — ¿ Tyara okantakara pikañovintsaigakenara maika ? Atsi maigakenanityo pamentaniro koriki noneakerira .
+41012016a	tyani		Iriroegi yamaigakeneri , impo yagatakera ineagetakerira ikantaigiri : — ¿ Tyani yoka itsirinkakotunkanirira ? Akari irapisotateneku , 
+41012016b	tyani		¿ tyani shintaro ivairo ? Ikantaigiri : — Inti koveenkari Sesa .
+41012023	tyanirikatyo		Maika atsi kantaigena , antari impogini iraniaiganaerika maganiro igamaga , ¿ tyanirikatyo gasanotaerone ? , maganirotari yagaigavetakaro .
+41012028	tyatityora		Ario inake aikiro kara paniro gotagantirorira itsirinkakotanakerira Moiseshi . Iroro ikemavakerira Jeso ikantaigakerira saroseoegi ineake onti ikantasanotake ovashi ikantiri irirori : — Ogari itsirinkakotanakerira Moiseshi ¿ tyatityora pairo avisake okametitakera ontsatagasanotakenkanira ?
+41012035	tyara okantakara		Antari yogotagantanaira Jeso ivankoku Tasorintsi ikanti : — Yogari gotagantaigirorira itsirinkakotanakerira Moiseshi ikantaigi : ‘ Yogari Ikogakagakerira Tasorintsi impegakempara Agoveenkariegite inti iyashikitanakerira Iravi . ’ ¿ Tyara okantakara ikantaigakera maika ?
+41012037	tyara inkantakempara		Yogari Iravi irorotari ikantakerira : ‘ Notinkami ’ , ¿ tyara inkantakempara iyashikitakerira ? Yogari patoventaigakaririra itovaigavagetityo kara . Antari ikemaigavakerira ishinevageiganakatyo .
+41013004a	tyatirikara		— Nokogaigake pinkamantaigakenara tyatirikara agantakempa ontsonkatantanaemparira inkaaratirira pikantakerira ogashiriagetakenkanira . 
+41013004b	Tyatirikara		¿ Tyatirikara nogotantaigavakempa ontsonkagetanaempara magatiro kipatsi ?
+41014004	Antari gara		Ikonogagarantaigaka pitaigankitsirira kara ikisaiganaka iniavakagaiganaka ikantaigi : — ¿ Antari gara aparaatagantiri ?
+41014006	~		Kantankicha Jeso irorotyo ikemaigavakerira ikantaigutarityo : — Atsi arionenityo , gara pikisaigiro , pairotari okametitake okañotakenara maika osagutakenara .
+41014012	Tyara		Impo aganaka vieseta ogantaganirira pan terira onkonogempa opoegantarira , aikiro onti yovetisantaganirira ovisha yogaganira osuretakotaaganira Pasekoa . Yogari irogamereegi Jeso ikantaigiri : — ¿ Tyara kara pikogake novetsikaigakerora magatiro kameti asekataigakempara paita ?
+41014014	Tyarika		Tyarika inkianake kara ario pinkiaiganake viroegi , pinkantaigapaakeri shintarorira ivanko : “ Yogari Gotagantatsirira ikantake : ¿ Tyara kara nosekataigakempa paita nontentaigakemparira nogamereegi nosuretakoigakemparora Pasekoa ? ”
+41014060a	tyara pinkantumate		Impo ikavirimatanakatyo Kaipashi ikantiri Jeso : — ¿ Tera tyara pinkantumate ? , pikemaigakeritari ikantanaigakempira . 
+41014060b	tyara pinkantera		Maika ¿ tyara pinkantera viro ?
+41014063	~		Ogatyo ikenake ikisamatanakatyo Kaipashi itisaraitarotyo imanchaki tseerererere ikanti : — Intagatityo akaemakagantaigi pashini iripokaigakera inkamantaigakaera ikemaigakerira ikañotagumanatakarira Tasorintsi ,
+41014064	tyara pinkantaige		matakaniroro pikemaigakeri tsikyata viroegi ikañotakera maika . Maika ¿ tyara pinkantaige viroegi ? Maganirotyo iniaiganake ikantaigi : — Kantetyo inkamakera , tsikyatatari ikañotagantaka irirori .
+41015004	tyara pinkantumate		nerotyo yogari Pirato imatutaarityo aikiro ikantiri : — ¿ Tera tyara pinkantumate ? ¿ Matsi tera pinkeme ikantaigakerira ?
+41015012	tyaratyo nonkantakeri		Yogari Pirato ikantaigiri : — Iroroventi maika ¿ tyaratyo nonkantakeri yoka pikantaigirira inti Pigoveenkariegite ?
+41015014a	tyara ikantakara		Ikantaigiri Pirato : — ¿ Matsi tyara ikantakara ? 
+41015014b	Tatampatyora		¿ Tatampatyora yovetsikakera ? Ikaemutaiganaatyo aikiro : — ¡ Nokantaigaketari kentakoteri !
+41015034	tyara okantakara		Ogatyo ikenake ikaemamatanaketyo Jeso ikanti : “ Eroi , Eroi , ¿ irema savakatani ? ” ( onkantakera : “ Apa Tasorintsi , Apa Tasorintsi , ¿ tyara okantakara povashigantakenara ? ” )
+41016003	Tyanirikaratyo		Antari oaiganakera avotsiku oniavageiganake okanti : — ¿ Tyanirikaratyo tatsinkaigakaerone mapu itikakotantunkanirira ?
+42001018	tyara nonkantakempara		Ikanti Sakariashi : — ¿ Matsi tyara nonkantakempara naro nontomintakempara ? , ataketari nagatavagetanaa , aikiro notsinanetsite atake agatavagetanaa .
+42001034	Tyarika		Impogini irirori okanti : — ¿ Tyarika nagakeri notyomiani ? Tekyatanika intimenika nojime .
+42001043	tyanimpatyora		¡ Matsi tyanimpatyora naro kameti ompokakera iriniro Notinkami oneenara !
+42001066	Tyarikatyo inkantanakempara		ovashi isurevageiganaka ikantaiganake : “ ¿ Tyarikatyo inkantanakempara impogini yoga ananeki ? ” Ineaigaketari ikavintsaavagetakerira Atinkami Tasorintsi .
+42002048	antari gara		Antari ineaigapaakerira iriri ontiri iriniro yogavageiganaketyo kavako . Impo okantiri iriniro : — Notomi , ¿ antari gara pikañoigana maika ? Nokogasanoigakempityo kara notsotenkavageiganakempityo , mamerivi , pomintsarogaigakena , noneaigiri ariori pipegaka .
+42002049	tyara okantakara		Yogari Jeso ikantiro : — ¿ Tyara okantakara pitsotenkavageiganakenara parikoti pikogaigakenara ? ¿ Matsi tera pogoige ontitari nompiriniventavagetanake irashipage Apa ?
+42003007	tyanimpatyora		Antari iaigakera tovaini matsigenkaegi irogiviaigakerira Joan , irirori ikantaigavakeri : “ ¡ Viroegi kañoigakavi tsiroti ! Ontitari pamatagaigaka tera arisano pinkematsatagantsiige . ¿ Matsi tyanimpatyora kantaigakempira pimpokaigakera aka nogiviaigakempira ganiri ikisashiigimpi Tasorintsi impogini inkisashiigakemparira maganiro kañovageigacharira ?
+42003010	Tyaratyo nonkantaigakempara		Iriroegi ikantaigutarityo : — ¿ Tyaratyo nonkantaigakempara ?
+42003012	tyaratyo nonkantaigakempara		Ario inaigake kara kogantaigaririra itovaireegi koriki irashi koveenkari , onti ipokashiigake iriroegi aikiro inkantaigakerira Joan irogiviaigakerira . Ikemaigavakerira iniavagetakera Joan iniaigamatanaketyo iriroegi ikantaigiri : — Gotagantatsirira , naroegiri , ¿ tyaratyo nonkantaigakempara ?
+42003014a	~		Impo iriroegikya kantaigakeri soraroegi : — Naroegiri , 
+42003014b	tyaratyo nonkantaigakempara		¿ tyaratyo nonkantaigakempara ? Ikantaigiri Joan : — Viroegi gara pagapitsanaigairi tatarika oita yashintaka pashini aikiro gara pikantaigiri : ‘ Garika pipanaro nokogakerira nonkisakempi . ’ Gara pinevitantavageigi koriki pinkantaigakera : ‘ Garika pipana nontsoeventakempi inkisakempira koveenkari . ’ Yogari koriki ipunaigakempirira koveenkari intaganityo , gara pikogaigi pashini .
+42004034	Tyara pinkantaigakenara		— ¡ Eeee ! ¡ Jeso Nasarekunirira , arionena gara tyara pikantaigana ! ¿ Tyara pinkantaigakenara ? ¿ Iroro pipokashitake pimpogereaigakenara ? Noneimpitari , nogotakempi vinti Ikogakagakerira Tasorintsi impegakempara Igoveenkariegite maganiro .
+42004036	Tyarikatyo ikantaka		Maganiro yogavageiganaketyo kavako ikantavakagaiganaka : — ¿ Pineakeri ? ¡ Tyarikatyo ikantaka intagatityo iniimatakerira ikematsatakeri ikontetanai ! ¡ Pairotyo yagaveavageti ! ¡ Ikoveenkavagetiratyo kara !
+42005021a	Tyanimpatyora		Yogari gotagantaigirorira itsirinkakotanakerira Moiseshi intiegiri pariseoegi iniasurentavageiganaka ikantaiganake : “ ¿ Tyanimpatyora yoga ikañotagumanatanakari Tasorintsi ? 
+42005021b	~		¿ Matsi aiño pashini gaveankitsinerira imagisantakotantaerora kañovagetagantsi ? , panirotari yagaveira irirori . ”
+42005022	Tyara pikantaigakara		Kantankicha Jeso yogoigavakerityo iniasurentaigakara ikantaigutarityo : — ¿ Tyara pikantaigakara piniasurentaigakara pikañoigakerora maika ?
+42005023	Tyatimpatyo		 ¿ Tyatimpatyo pairo avisake okomutakara ? ¿ Irororika nonkantakerira : ‘ Maikari mataka omagisantaagani magatiro povetsikagetakerira terira onkametite , garatyo ikenkiagaimpiro Tasorintsi ’ , ontirika nonkantakerira : ‘ Tinaanake nuitanake ’ ?
+42005030	Tyara pikantaigakara		Kantankicha yogari pariseoegi intiegiri gotagantaigirorira itsirinkakotanakerira Moiseshi ikantanaigakeri irogamereegi Jeso ikantaigiri : — ¿ Tyara pikantaigakara pisekataigakara pitentaigakarira kogantaiginiririra koveenkari koriki intiegiri aikiro pashini kañovageigacharira ?
+42005033	tyara ikantaigakara		Impogini ikantaigiri Jeso : — Yogari irogamereegi Joan intiegiri irashiegi pariseoegi yapakuapiniigi tera isekataigempa kameti impiriniventaigakeroniri iriniaigakerira Tasorintsi . Kantankicha yogari pashiegi pogamereegi tyara ikantaigakara tera inkañoigempari iriroegi , onti omirinka isekataigaka .
+42005034	~		Impo ikantakotaka Jeso ikanti : — Pine intimera pashini ikyarira gankitsi itsinanetsite inkaemaigakeri iamigoegite isekatagaigakemparira , ¿ matsi gara isekataiga ? Isekataigakempaniroro , itentaigakaritari kaemaigakeririra ishinevageigaka .
+42006002	Tyarikatyo pikantaigakara		Irorotyo ineaigakerira pariseoegi ikantaigutarityo : — ¿ Tyarikatyo pikantaigakara viroegi pagaiganakera turigoki ? Maika ontitari kutagiteri apishigopireantaganirira , okantavitantaganitari antavagetantenkanira .
+42006009	tata		Impo Jeso ikantaigiri gotagantaigirorira itsirinkakotanakerira Moiseshi intiegiri pariseoegi : — Maika atsi nonkogakotagantaigakempira . ¿ Tyara ikanti Moiseshi pairani ? ¿ Tata ovetsikakenkani kutagiteriku apishigopireantaganirira ? ¿ Ario ikanti ovetsikakenkanira kametiri ontirika ovetsikakenkanira terira onkametite ? ¿ Ario ikanti aganiaigavaerira atovaire ontirika ikanti agamagaigakerira ?
+42006032	tatatayo		“ Antari intaganirika pinkavintsajaigake kavintsajaigimpirira , ¿ matsi tatatayo irishineviigakempi Tasorintsi ? Ariotari ikañoigari maika terira inkematsaigeri ikavintsajaigirira kavintsajaigiririra .
+42006033	tatatyo		Ontirika intagani pinegintevageigake negintevageigimpirira viroegi , ¿ matsi tatatyo irishineviigakempi Tasorintsi ? Ariotari ikañoigari maika terira inkematsaigeri iriroegi .
+42006034	tatatyo		Ario okañotaka aikiro intaganirika pampinaigake gipigaigaempinerira , ¿ matsi tatatyo irishineviigakempi Tasorintsi ? Ariotari ikañoigari maika terira inkematsaigeri yampinavakagaigara , ineaigaketari irampinatantaigakerika irogipigaigaenkani .
+42006039	~		Impo inianai Jeso ikantakotakeri gotagantatsirira ikanti : “ ¿ Matsi iragaveake inkatsatantanakera terira inee inkatsatanakerira irapitene terira inee ? ¿ Matsi gara yashiriaiganaka piteniro otseraaku ?
+42006041	Tyara pikantakara		¿ Tyara pikantakara pikanomajaigirira pitovaire vetsikaigirorira terira onkametite ? ¿ Matsi tera pineero pashi virompatyo viro pairo pogagaka ?
+42006042	~		Kañomatakatyo ontinirika pikantanakeri : ‘ Atsi taina nogotagakempira ganigeniri pikañovagetaa ’ , tenirikatyo pineemparo viro tyarikaroro apatoventavagetakempityo kara . ¡ Ontityo pineakagantavintsatakara ! Atsi negintetasanovagetempanityo viro kameti pagaveakeniri pinkanomaantakera .
+42006046	Tyara pikantaigakara		“ ¿ Tyara pikantaigakara viroegi pikantaigakenara kogapage : ‘ Notinkami , Notinkami ’ , kantankicha tera pintsatagaigero nokantaigakempirira ?
+42007024	Tatoita		Impo iaiganaira iriroegi , iniavagetanake Jeso iniakotakerira Joan ikantaigiri maganiro : “ ¿ Tatoita piatashiigakiti anta osarigagitetapaakera ? ¿ Iriro piatashiigakiti pineaigakitirira matsigenka terira ishintsitashigetero magatiro matavitantagantsi , irorokya ikanti irorokya ikanti ? ¿ Ario ikañotakaro savoroshi amirora tampia akya otuiti akya otuiti ?
+42007025	tatatyo		¿ Ario tatatyo piatashiigakiti ? ¿ Iriro piatashiigakiti pineaigakitirira matsigenka gagutacharira mechomagori kamisa ? Pogoigaketari maganiro gaguigacharira mechomagori kamisa onti ipirinitaigi ivankoku koveenkari , omirinka ipiriniventaigi tatarika oita ishineventavageigakarira iriroegi .
+42007026	tatatyo		Iroroventi ¿ tatatyo piatashiigakitira ? ¿ Iriro piatashiigakiti pineaigakitirira kamantantatsirira ? Jeeje , irironiroro , kantankicha pairo yavisavagetakeri kamantantatsirira ,
+42007031a	tatarikatyo		“ ¿ Tatarikatyo nonkañotagaigakempi viroegi ? 
+42007031b	tata		¿ Tata pikañoigaka ?
+42007042	tyanirorokari		Kantankicha iriroegi mameri igorikiegite tyampa iragaigakeri impunaigaerira . Impo ikantaigakeri pinaigakeririra : ‘ Iroroventi ario inkañotake , mameritari . ’ Maikari atsi kantena ¿ tyanirorokari pairo shinetasanotakari ?
+42007049	tyanimpatyora		Impo yogaegi ikaemunkanirira itentaigakarira isekataigakara ikantavakagaigamatanakatyo : — ¿ Matsi tyanimpatyora irirori kameti iragaveakera inkantakerora : ‘ Maikari mataka omagisantaagani magatiro povetsikagisevagetakerira , gara ikenkiagaimpiro Tasorintsi ’ ?
+42008025a	Tyatirityo		Impo ikantaigutarityo irogamereegi : — ¿ Tyatirityo maika pikematsaigakenara pogoigakenara nagaveavagetira ? Kantankicha iriroegi itsarogavageiganaketyo yogaiganakera kavako ikantavakagaiganakara : 
+42008025b	Tyanimpatyora		— ¿ Tyanimpatyora yoga , iniimatakerora tampia ontiri nia okematsatakeri ?
+42008028	Tyara pinkantakenara		Otimake kutagiteri ipigatagagematirityo kara . Yaganavetunkanityo yogusotantanavetunkani karenatsa irakoku ontiri igitiku ipampogiasanotunkani , kantankicha teratyo iragaveenkani , ontityo itimpatuagematirotyo kara , impo yogari kamagarini ishigakagagematanakarityo anta parikoti terira intime matsigenka . Irorotyo ineavakerira Jeso itigeroaventamatanakarityo ikaemanakera : — Virori vinti Jeso Itomi Tasorintsisanorira timatsirira enoku . ¿ Tyara pinkantakenara ? Atsi garatyo patsipereakagana . ¡ Tsarogakagavagetenakario ! Ikantantakaririra maika matakatari ikantakeri Jeso kamagarini inkontetanaera iokanaerira .
+42008030	Tyara		Impo ikantiri Jeso : — ¿ Tyara pipaita ? Ikanti irirori : — Onti nopaita Tovainirira . Ikantantakarira maika , tovainitari inaigake timaguigakeririra .
+42008045	Tyani		Inianake Jeso ikanti : — ¿ Tyani tsagatakotakena nomanchakiku ? Ikantaiganaketyo maganiro : — Tera tyani tsagatakotempine . Kantankicha iniamatanaketyo Perero intiegiri itentaigarira ikantaigi : — Gotagantatsirira , pineavetakarityo yavinaavioiganakempira itatsinkanaiganakempira kara .
+42009009a	Tyanimpatyora		Kantankicha Erorishi onti ikantake : — Narotarityo togitorenkakagantakeri Joan . ¿ Tyanimpatyora yoga maika iniakonatunkanirira nokemakotirinityo chapi ? Impo ikogavetakatyo ineakerimera .
+42009009b	~		
+42009018	Tyara ikantaigana		Impogini inakera Jeso paniro iniakerira Iriri intagani itentaigaka irogamereegi . Impo ikantaigiri : — ¿ Tyara ikantaigana maganiro matsigenkaegi ?
+42009020a	~		Impo ikantaigiri : — Viroegiri , 
+42009020b	tyara pikantaigana		¿ tyara pikantaigana ? Iniamatanaketyo Perero ikantiri : — Viro vinti Ikogakagakerira Tasorintsi impegakempara Nogoveenkariegite .
+42009025	~		Intimavetakempatyo gaveankitsinerira irashintakemparora magatiro kipatsipagekutirira kantankicha impoginityo inkamanae iriatake morekariku , ¿ matsi ario agaveake oganiakerira iaraki ? Garatyo agaveimati .
+42009041a	Akasamaninivatirorokari		Inianake Jeso ikanti : — ¡ Ario pikantavageigaka viroegi tekyaenkatyo pogoigero iragaveane Tasorintsi ! ¿ Akasamaninivatirorokari nompiriniventaigakempi nantsipereakoigakempira ? Ishonkatetanakari iriri ikantiri : — Makenarinityo aka pitomi .
+42009041b	~		
+42010025	tyara nonkantakempa		Impogini ikavirimatanakatyo paniro gotagantirorira itsirinkakotanakerira Moiseshi ikogakotagantakerira Jeso ineakerira tyarikara inkante . Impo ikantiri : — Gotagantatsirira , ¿ tyara nonkantakempa maika nogishineakerira Tasorintsi ganiri noneairo nogamane onti nonkantakani nontimake ?
+42010026a	tyara okantira		Ikantiri Jeso : — ¿ Tyara okantira itsirinkakotanakerira Moiseshi ? Piniavantirora , 
+42010026b	tyara okanti		¿ tyara okanti ?
+42010029	Tyanimpatyora		Kantankicha irirori isurematanakatyo ikanti ariorika inkantake Jeso : “ Iroroventi tyara okantakara atanatsi pikogakotagantakenara , matakatari pogotakero . ” , nerotyo ikantantakaririra : — ¿ Tyanimpatyora notovaire ?
+42010036a	~		Maikari maika atsi kantena 
+42010036b	tyani		¿ tyani pegakeri itovaire ?
+42011008	~		Garatyo ipavetimpi , kantankicha atanatsirika pinevinatanakeri intinaanaketyo imputempira magatiro pikogakotakarira . Kantankicha gara iroro ipashitimpi ipegimpira iamigote , ontityo impashitakempi kameti ganiri atanatsi poveraanatirira .
+42011011	~		“ ¿ Matsi pinkañoigera viroegi inevitempira pitomi shima pinoshike maranke pimperi ?
+42011012	~		Intirika inevitakempi igitsoki , ¿ pinoshike pimperi kitoniro ?
+42011013	~		Kañotari viroegi pikañovageigavetari akyari pipaigiri pitomiegi tatarika oita kametiripage ineviigakempirira , iriromparorokarityo Piri timatsirira enoku pairorokari intigankimoigakeri Isure intimaguigakerira maganiro neviigakerineririra . ”
+42011018	tyara inkantakempara		Ario ikañotaka Satanashi irirori , ¿ matsi tyara inkantakempara ikiirora parantavakagaigaachane inkisavakagaigaempara intentaigaemparira itovaireegi kamagarinipage ? Impogereakeririka itovaire panivani irinae , ¿ ario tyanimpatyora iromperataempa ? Onti nokantaigakempi maika nogotaketari pikantaigakenara inti tinkamitakena Veresevo nagaveantakarira noneaganontaigakarira itimaguigakerira kamagarinipage .
+42011019	tyaniratyo		Iriromera gaveakagakenane kamagarini ¿ ario tyaniratyo gaveakagaigakerira pitovaireegi yoneaganontaigakarira itimaguigakerira kamagarini ? Irorotari ogotantunkani onti pikomuigakaro viroegi .
+42012014	~		Kantankicha Jeso ikantiri : — ¿ Matsi naro joese kameti nonkantakerira impagarantakempira ?
+42012017	Tyarikatyo nonkantakero		Impogini avisavagetanakerotyo kara yogantarorira , tyampatyo irogakero , ikanti : ‘ ¿ Tyarikatyo nonkantakero ? , avisanakerotari nogantarorira . Maika ¿ tyarika nogakero ? ’
+42012020	tyanimpatyo		Kantankicha Tasorintsi ikantiri : ‘ Tera pogotumate viro , paitatyo pinkamake tsitenigetiku pokagetanakerora magatiro pashintagetakarira , tyanimpatyo shintagetaemparone . ’
+42012024	~		Pineaigiritari kogonti teratyo impankivageigavetempa , aikiro teratyo ontimavetempa irogantaigakemparorira iseka iriatapiniigakera iragapiniigakera isekataigakempara , kantankicha Tasorintsi ipaigirityo irogaigakemparira . ¡ Viroegimparorokari pairo impaigakempi pisekaegi pogaigakemparira , pairotari pavisaigakeri aragetatsirira !
+42012025	~		Antari povankinaventaigemparora pinkimoiganakera ¿ matsi ario pagaveaigake pinkimoiganakera ? Garatyo pagaveimaigi .
+42012026	tyara okantaka		Iroroventi tera pagaveaigenika tesanorira onkomutempa , ¿ tyara okantaka povankinaventaigakarora pairorira avisake okomutapitsaigakempira ?
+42012042	~		Ikanti Atinkami : “ Pinkañoigakemparira nampiriantsi govagetatsirira kematsatasanotiririra shintaririra . Pine intimera shintacharira ironampiriaegi impo iriatakera parikoti inkantanaeri paniro ironampiria ineaigaerira maganiro irapinampiriantsiegitene impaigaerira omirinka isekaegi .
+42012049	~		“ Naro nopokake aka kipatsiku kameti inkisaviitakenarora magatiro yovetsikageigakerira maganiro matsigenkaegi . ¡ Intagame kantaka mataka visaakotaana !
+42012056	tyara okantaka		¡ Pishineigakara ontityo pineakagantaigaka kameti inkantaigakempiniri pogovageigi ! Viroegi pogoigavetaro pinegiteaigirora ariorika omparigake ontirika gara . Ontiri aikiro pogoigavetaro tyati onkatsirinkagitetantakempa , kantankicha teratyo pogotumaige tyara okantaka yogikoneatimoigakempirora Tasorintsi magatiro pineageigakerira maika .
+42012057	tyara pikantaigakara		“ ¿ Tyara pikantaigakara viroegi tera pinkogaige pinkantaigakera tatoita kametitankitsi ?
+42013004	~		Impo aikiro pikemakoigakerira Jerosarenkunirira oparigateigakerira pankotsi ochovaankunkanirira pairani anta Suroeku . Otsitokaigakeri ikamaigake 18 . ¿ Ario pineaigiri pairori yavisaigake ikañovageigakara iriroegi yavisaigakeri itovaireegi timaigatsirira Jerosarenku ? Teratyo .
+42013007	~		Iperamatanakarotyo ikantutarityo tsamaitakotirorira : ‘ Atsi geka . Nopokashitironi pairani , maika ogatyo omavatakotanaka shiriagarini teratyo ontime oi . Maika togeronityo , onti tikankicha kara . ’
+42013015	~		Iniamatanaketyo Jeso ikantiri : — ¡ Pishineigakara pineakagantaigakara inkantaigakempira pikematsatasanoigakera ! Kañotari viroegi agara kutagiteri apishigopireantaganirira pitsaakoigirira pivakane intirika piashinote pamaiganakeri pipaigakerira nia yoviikaigakara .
+42013018a	tatoita		Impo ikanti Jeso : “ ¿ Maika tatoita okañotakaro ipegakara Tasorintsi Igoveenkariegite matsigenkaegi ? 
+42013018b	Tatarikatyo		¿ Tatarikatyo nonkañotagakemparo ?
+42013020	Tatarikatyo		Impo ikanti aikiro : “ ¿ Tatarikatyo nonkañotagakemparo ipegakara Tasorintsi Igoveenkariegite matsigenkaegi ?
+42013025	Tyampatyora		Impoginitari inkaviritanake shintarorira ivanko irashitakero sotsimoro . Viroegi terira pinkiaige paratinkaigake sotsi poenenkaigavetakemparotyo shitakomentontsi pinkaemaiganakera : ‘ Notinkamii , shireakoigena . ’ Kantankicha irirori inkantaigempityo : ‘ ¿ Tyampatyora piponiaigakara viroegi ? , teranika naro shintaigempine . ’
+42014005	~		Impo ikantutaigaarityo aikiro pariseoegi : — ¿ Matsi viroegi irashiriera otseraaku piashinote intirika pitorone kutagiteriku apishigopireantaganirira ario gara pinoshikaigaatiri ? ¿ Matsi ario pogiaigake avisanaera apishigopireantaganirira ario pinoshikaigaateri ?
+42014028	Tyanirika		“ Tyanirika kogankitsine irovetsikakera pankotsi inchovaankakagakerora ¿ matsi gara oketyo isuretaro akatirika ikogashitaka koriki kameti iragatakerora magatiro ?
+42014031	~		“ Ontirika intimake koveenkari shintankicharira 10,000 soraroegi iriatake iromanatavakemparira pashini koveenkari shintankicharira 20,000 isoraroegite , ¿ matsi gara oketyo isureta ariorika iragaveakeri ontirika gara yagaveaigiri ? Isuretakempanirorotyo .
+42014034	tatatyo		“ Ogari tivi opochatira pairo okogasanotagani , kantankicha antari omasankatera ganigera opochatai , ¿ ario tatatyo onkogavitaenkani ? ¿ Matsi tyampatyo onkantaenkani kameti ompochatanaera ?
+42015004	~		“ Pine viroegi pashintaigempara 100 ovisha pamaiganakeri anta shimpenashiku isekataigakempara impo impegakempa paniro , ¿ matsi gara pokaiganakeri itovaire piatakera pinkogaaterira kigonkero pagaerira ?
+42015008	~		“ Ontirika ashintakempa paniro tsinane 10 korikimenta impo impegakempa pamentaniro ¿ matsi gara ogimoreki mechero ontarogakotakerira onkogasanotaerira agaerira ?
+42015026	Tatatyo		Impo ikaemake paniro nampiriantsi ikantiri : ‘ ¿ Tatatyo oitara kara ? ’
+42015029	~		Kantankicha irirori ogatyo ikantanakeri : ‘ Atsi geka , pogotake viro naro omirinkatyo nantavagetimovagetimpi teratyo nompugatsatumatempi , tera ario pimpumagetena paniro kavera ityomiani nonkaemaigakerira noamigoegite nosekatagaigakemparira noshinevageigakempara .
+42016002	~		Impo ikaemakeri ikantiri : ‘ ¿ Arisano pikoshitagarantanakena ? Atsi makenaro pisankevantite pitsirinkakotantagetarorira magatiro noneakerora tyara pikantanakero , ganigetari pantimovagetaana . ’
+42016003	Tyarikatyo nonkantakempara		“ Impo irirori isuretanaka ikanti : ‘ ¿ Tyarikatyo nonkantakempara maika ? Ganigetari nantimotairi , ¿ tatarikatyo nantae ? Teranika noshintsite , ¿ tyara nonkantakempara nontsamaivagetakera ? Nopashiventaka nonevitantavagetakera . ’
+42016005	Akatovaiti		“ Impo iatake ikaemaigakeri pegakoigakeririra ivaterote , paniropagekya ikaemavake . Yogari iketyorira ikaemakeri ikantiri : ‘ ¿ Akatovaiti pipegakotiri novaterote ? ’
+42016007	Akatovaiti		Impogini ikaemake pashini imatakeri irirori ikantiri : ‘ ¿ Akatovaiti pipegakotiri novaterote ? ’ Irirori ikanti : ‘ Onti nagakotake turigoki onakotake 100 kantiri . ’ Impo ikantiri : ‘ Nero oka pisankevantite pitsirinkakotakerora karanki pipegakotakeririra . Maika atsi taina tsirinkaero aka pinkantatigaerora intaganivati pogae 80 . ’
+42016011	~		Nerotyo viroegi pamparaigakerorika timagetatsirira aka kipatsiku pegankichanerira impogini , ¿ matsi ario impaitakempiro pairorira avisake okametitakera onkantakanirira ontimake ?
+42016012	tyanityora		Ario okañotaka aikiro garika pineasanotiro tatarika oita inkantakempirira shintarorira pineakenerira , ¿ ario tyanityora paigakempirone pashintasanoigakemparora pairorira avisake okametitakera ?
+42017007	~		“ Pine viroegi intimera paniro ponampiria ikyaenkasano pokapaatsine itsamaivagetira tsamairintsiku ontirika isentakempirira pivakane , ¿ matsi ario pinkantavakeri : ‘ Taina , pimpirinitapaakera aka pisekatapaakempara ? ’ Garatyo .
+42017017	Tyanityora		Ikanti Jeso : — ¿ Matsi tera irovegaigaempa maganiro ? ¿ Tyanityora maika itovaire ?
+42017018	~		¿ Panirosano ipigaara yoka terira iriro jorio inkantakerira Tasorintsi ishineventakari ikavintsaavagetakerira ?
+42017020	Tyatityora		Yogari pariseoegi ikantaigiri Jeso : — ¿ Tyatityora intsititantanakempara Tasorintsi irapatoitaigakaera impegakempara Agoveenkariegite aka kipatsiku ? Ikanti irirori : — Gara tyani neimatiro maika , teranika oneenkani .
+42017037	tyarikara		Ikemaigavakera ikantakerira ikantaigiri : — Notinkami , ¿ tyarikara kara ? Ikantaigiri irirori : — Tyarika kara inoriaka igamaga ineventumatakarira samponero katsiketyo iparigashitapaakeri . Ario onkañotake impogini iripokaera Kañotasanotakaririra Matsigenka tyarika kara irinaigakera vetsikageigirorira terira onkametite katsiketyo inkomutagaigapaakeri .
+42018018	tyara nonkantakempa		Impogini ikenapaake paniro itinkami jorioegi ikantiri Jeso : — Gotagantatsirira , pairo pikametiti . Atsi kamantena tyara nonkantakempa kameti nonkantakanira nontimake .
+42018019	tyara okantakara		Ikantiri Jeso : — ¿ Tyara okantakara pikantakenara : ‘ Pairo pikametiti ’ ? , mameritari kametitasanotatsinerira , panirotari ikantara Tasorintsi ikametitira .
+42018026	tyanimpatyora		Ovashi ikantaigake kemaigakeririra ikantakera maika ikantaigiri : — Iroroventi ¿ tyanimpatyora irogavisaakotakenkani ?
+42018036	Tatatyo		Ikemaigavakerira yavisaiganakera tovaini matsigenkaegi ikanti : — ¿ Tatatyo oitara ?
+42018041	Tata		— ¿ Tata pikogake ? Inianake irirori ikanti : — Notinkami , onti nokogake noneanaera .
+42019007	Tyarikatyo ikantakara		Ineaigavakerira maganiro iatakera iniashinaiganakarityo ikantaigi : — Tyarikatyo ikantakara Jeso atake irimagakera ivankoku kañovagetacharira .
+42019023	Tyara okantakara		Tyara okantakara tera ario pamanakeri nogorikite pimpakerira pinatantavagetatsirira irampinatantakerira iragantaemparira pashini , impo pimpavaenarira nopigaara maika . Irorotari pineanara nantira kisantatsirira , nagashigematarira koriki kogapage tera tatoita nantumate , aikiro nagutantagematira terira naro shintemparone . ’	
+42019031	tyara pinkantaigakeri		Tyanirika kantaigakempine : ‘ ¿ Antari gara pitsaakoigiri ? ¿ Matsi tyara pinkantaigakeri ? ’ viroegi pinkantaigeri : ‘ Inti kogakotakari Atinkami . ’
+42019033	tyara pinkantaigakeri		Iroro itsaakoigavetanakarira ikantaigiri shintaririra : — ¿ Antari gara pitsaakoigiri ? ¿ Matsi tyara pinkantaigakeri ?
+42020002a	tyani		— Atsi kamantaigena . ¿ Tyani kantakempira pinkañotakerora maika poneagaigaemparira pimantavageigatsirira ? 
+42020002b	Tyanimpatyora		¿ Tyanimpatyora tigankakempira ?
+42020005a	Tyarikatyo ankantaigakeri		Iroro ikemaigavakera iniavakagaigamatanakatyo ikantavakagaiganakara : “ ¿ Tyarikatyo ankantaigakeri ? Ankantaigavetempari inti kantakeri Tasorintsi , irirori inkantaigakaetyo : 
+42020005b	tyara okantakara		‘ Iroroventi ¿ tyara okantakara tera pinkematsaigeri ? ’
+42020013	Tyarikatyo nonkantaigakerira		“ Impogini ikantutatyo shintarorira igipatsite ikanti : ‘ ¿ Tyarikatyo nonkantaigakerira maika ? Atsi impatyo iriro nontigankake notomi notasanotarira , irirorakari impinkatsaigake . ’
+42020015	tyara inkantaigakeri		Impo yagaigamatanakerityo yamaiganakerira parikoti yogaigakerira . “ Maika ¿ tyara pinkantaige viroegi ? ¿ Tyarika inkantaigakeri shintarorira igipatsite ?
+42020017	tatatyo		Kantankicha Jeso ipampogiaigakeri ikanti : — Iroroventi , ¿ tatatyo okantakotakera Itsirinkakagantakerira Tasorintsi okantakera ? : ‘ Ogari mapu terira irishineventaigavetemparo vetsikaigakerorira pankotsi yogari Tasorintsi ishineventakaro ipegakagakaro okusotantakarira . ’
+42020023	tyara okantakara		Kantankicha Jeso yogotavaketyo tera kametikya inkantaigeri onti ishinetamampegaigakari kogapage , nerotyo ikantaigutarityo : — ¿ Tyara okantakara pikañovintsaigakenara maika ?
+42020024a	tyani		Atsi maigakenanityo pamentaniro koriki noneakerira . Iriroegi yamaigakeneri , impo ikantaigiri : — ¿ Tyani yoka itsirinkakotunkanirira ? 
+42020024b	tyani		¿ Tyani shintaro ivairo ? Ikantaigiri : — Inti koveenkari Sesa .
+42020033	tyanirikatyo		Maika atsi kantaigena , antari impogini iraniaiganaerika maganiro igamaga , ¿ tyanirikatyo gasanotaerone ? , maganirotari yagaigavetakaro .
+42020041	tyara okantakara		Impogini ikanti Jeso : — Viroegi pikantaigake yogari Ikogakagakerira Tasorintsi impegakempara Pigoveenkariegite inti iyashikitanakerira Iravi . ¿ Tyara okantakara pikantaigakera maika ?
+42020044	tyara inkantakempara		Yogari Iravi irorotari ikantakerira : ‘ Notinkami ’ , ¿ tyara inkantakempara iyashikitakerira ?
+42021007a	tyati		Impogini ikantaigiri : — Gotagantatsirira , ¿ tyati ogashiriantagetakenkani ? 
+42021007b	Tatoita		¿ Tatoita nogotantaigavakemparo ?
+42022009	Tyara		Ikantaigiri iriroegi : — ¿ Tyara kara novetsikaigake ?
+42022011	Tyara		Pinkantaigapaakeri shintarorira ivanko : ‘ Yogari Gotagantatsirira ikantake : ¿ Tyara kara nosekataigakempa paita nontentaigakemparira nogamereegi ? ’
+42022027	tyanimpatyora		Matsi ¿ tyanimpatyora visantatsirira ? ¿ Iriro yonta pirinitatsirira mesaku isekatakempara intirika nampiriantsi pakovagetakeririra iseka ? Intityo pirinitatsirira mesaku . Kantankicha naro maika nopokakera aka nokañovagetakarityo nampiriantsi , irorotari nopokashitake nonkavintsajaigutempira .
+42022046	antari gara		Ikantaigiri : — ¿ Antari gara pimagaigi ? Tinajaiganake piniaventaigakempara ganiri papakuaiganai pikematsaigakenara .
+42022064	tyani		Ipashiokiigakeri itaataaigakerira ivoroku ikantaigavakerira : — Atsi gotenityo tyani taakempi , irorotari vintira kamantantatsirira .
+42022071	~		Ovashi ikantaiganake iriroegi : — Iroroventi maika intagatityo akaemakagantaigi pashini iripokaigakera inkamantaigakaera ikemaigakerira ikañotagumanatakarira Tasorintsi , matakaniroro akemaigakeri tsikyata aroegi ikantakera .
+42023022a	tayra ikantakara		Ikantutaigaarityo aikiro Pirato : — ¿ Matsi tyara ikantakara ? 
+42023022b	Tatampatyora		¿ Tatampatyora yovetsikakera ? Nokogakotagantavetakari noneakeri naro tera tatoita irovetsikumate kameti inkamakera . Nompasatagantavakeri impo nampakuaeri .
+42023031	~		Kañotari naro akyari ikañoitana maika iriromparorokari matsigenkaegi pairo irogagaigakenkani inkisashiigakenkanira .
+42024005	antari gara		Ogatyo okenaigake otsarogasanoiganakera ogivoiganakara . Iriroegi ikantaigiro : — ¿ Antari gara pipokaigi aka yogaganira igamaga pikogaigakerira atakerira yanianai ?
+42024017	Tatatyo		Impo ikantaigiri Jeso : — ¿ Tatatyo piniaventaiganakera maika ? Iriroegi asatyo yaratinkaigake kenkisureaigamataka .
+42024019	Tatatyo		Irirori ikantaigutarityo : — ¿ Tatatyo oitara ? Ikantaigiri : — Pine onti ikamakera Jeso Nasarekunirira . Irirori inti kamantantatsirira gaveavagetatsirira yovetsikagemati posante , aikiro yogovagetityo kara yogotagantavagetira , intitari gaveakagakeri Tasorintsi , nerotyo ishineventantaigakaririra maganiro matsigenkaegi .
+42024025	Tyarikatyo pinkantaiganakempa		Impo ikantaigiri Jeso : — ¡ Tekyaenkatyo pogotumaige ! ¡ Tyarikatyo pinkantaiganakempa pogotasanoiganakera arisano ikantasanoigake kamantantaigatsirira pairani !
+42024038a	tatatyo		Kantankicha Jeso ikantaigiri : — ¿ Tatatyo pipinkaviiganakenara ? 
+42024038b	Tyara pikantaigakara		¿ Tyara pikantaigakara pisureigakara maika ?
+43001019	Tyanimpatyora		Yogari jorioegi Jerosarenkunirira itigankaigake saseroroteegi intiegiri iyashikiiganakerira Irevi inkogakotagantaigakiterira Joan tyanira irirori impo ikantaigiri : — ¿ Tyanimpatyora viro ? ¿ Viro nogiaigakerira impegakempara Nogoveenkariegite ?
+43001021	~		Impo imatutaigaarityo aikiro ikantaigiri : — Iroroventi , ¿ viro kamantantatsirira nogiaigakerira ? Ikanti : — Teratyo naro .
+43001022a	Tyanimpatyora		Impo imatutaigaarityo aikiro ikantaigiri : — ¿ Tyanimpatyora viro ? Atsi kamantaigena kameti nonkamantaigapaakeriniri tigankaigakenarira . 
+43001022b	tyara pinkante		¿ Tyara pinkante ? ¿ Tatoitatyo pipokashitake ?
+43001025	tyara okantakara		Impo ikantaigiri : — Iroroventi teranika viro Ikogakagakerira Tasorintsi impegakempara Nogoveenkariegite , ¿ tyara okantakara pogiviatantavagetakera ? Pikantaketari tera viro Eriashi , aikiro tera viro kamantantatsirira nogiaigakerira .
+43001038a	tata		Irirori ishonkapanuta ineaigiri yogiaigapaakeri ikantaigiri : — ¿ Tata pikogaigake ? Iriroegi ikantaigi : — Gotagantatsirira , 
+43001038b	tyara		¿ tyara pitimi ?
+43001046	~		Ikantiri Natanaeri : — ¿ Matsi ikametitumaigiratyo Nasarekunirira ? Ikantiri Jeripe : — Atsi tsameratyo pineakiterira viro .
+43001048	tyara		Ikanti Natanaeri : — ¿ Matsi tyara pineakenara kara ? Ikantutarityo Jeso : — Noneakempiniroro pinakera otapinaku igera tekyara inkantakitempi Jeripe .
+43002004	tyara okantakara		Kantankicha irirori ikantiro : — Je'ario , ¿ tyara okantakara pikamantakenara ? Totatatyo , tekyatanika agempa nokotagantakerora nagaveane .
+43002018a	~		Impo yogari jorioegi ikantaigutarityo : 
+43002018b	tyani		— ¿ Tyani kantakempi pinkañotakempara maika ? Irirorika kantakempi Tasorintsi atsi gikoneatimoigenanityo terira oneimagetenkani kameti nogoigakera irirorika tigankakempi .
+43003004	Tyaratyo inkantakempara		Ikanti Nikoremo : — ¿ Tyaratyo inkantakempara matsigenka imechotaera aikiro ? ¿ Matsi tyara inkantakempara antarini impiganaera omotiaku iriniro imechotaera ?
+43003009	Tyarikatyo okantakara		Ikantutaatyo aikiro Nikoremo : — ¿ Tyarikatyo okantakara oka ?
+43003012	~		Kañotari maika nokamantavetakempiro oneagetaganirira aka kipatsiku tera ario pinkematsatena ariomparorokari nonkamantagetempirora isariagetakarira Tasorintsi garorokarityo pikematsatumatana .
+43004009	tyara okantakara		Irorori okantiri : — ¿ Tyara okantakara pinevitakenara nia poviikakempara ? Vintitari jorio , narori nanti samaritana . ( Yogari jorioegi ikisumaigiritari samaritanoegi . )
+43004011	tyara		Irorori okantiri : — Mameritari pinkitaatantakemparira , aikiro ogari oga omonkia onaavagetitari savi , ¿ ario tyara pagaatakerora kara nia ganiantatsirira pimpakenara ?
+43004027a	tyara pikantiro		Impo ikenaigapai irogamereegi . Iroro ineaigapaakerira iniakerora tsinane yogavageiganaketyo kavako , kantankicha tera tyani kanterine , “ ¿ Tyara pikantiro ? ” , ontirika inkantaigakeri , 
+43004027b	Tyara okantakara		“ ¿ Tyara okantakara piniakerora ? ”
+43005012	Tyanityora		Ovashi ikantaigakeri : — ¿ Tyanityora kantakempira ?
+43005044	Tyara pinkantaigakempara		¿ Tyara pinkantaigakempara pinkematsaigakenara ? Ontitari pisureigaka pishineventavakagaigakempara , tera iroro pisuretumaigempa irishineventaigakempira Tasorintsisanorira panirorira ikanta irirori .
+43005047	tyara pinkantaigakempara		Teranika pinkematsaigero itsirinkakerira irirori , ario tyara pinkantaigakempara pinkematsaigakenara naro . ”
+43006005	Tyara		Impo yogari Jeso ineaigavakerira yogiaigapaakerira tovaini matsigenkaegi ikantiri Jeripe : — ¿ Tyara ampunaventaigake pan ampaigakerira isekataigakempara maganiro yogaegi ?
+43006009	~		— Inti shintankicha yoga ananeki 5 pan ovetsikantunkanirira sevara intiri aikiro piteni shima , kantankicha itovaigavageti matsigenkaegi kara , garorokarityo omonkaratumatari .
+43006025	tyatake		Impogini yogonkeigapaakara ineaigapaakeri Jeso ikantaigiri : — Gotagantatsirira , ¿ tyatake pogonketaa aka ?
+43006028	Tatoita		Iriroegi ikantaigiri : — ¿ Tatoita nantaigake kameti irishineventaigakenaniri Tasorintsi ?
+43006030a	tatatyo		Ikantaigi : — ¿ Tatatyo pineakagaigakenara kameti noneaigakerora nogotantaigakemparora inti tigankakempi Tasorintsi ? 
+43006030b	~		Atsi vetsikenityo pashini pinkañotagakemparora
+43006042	Tyara ikantakara		Ikantaigi : — ¿ Matsi tera iriro Jeso itomi Jose ? Aneaigiritari iriri ontiri iriniro . ¿ Tyara ikantakara ikantakera onti iponiaka enoku ?
+43006052	Tyara inkantakempa		Ovashi ikantavakagaiganaka jorioegi : — ¿ Tyara inkantakempa yoga impaigakaerora ivatsa agaigakemparora ?
+43006060	Tyarika ikantakara		Iroro ikemaigavakerira Jeso ikantakera maika oga ikenaigake tovaini giaiganakeririra ikantaiganake : — ¿ Tyarika ikantakara irirori ikantakera maika ? , niganki otsimajaiganakai . Garorokarityo akematsatumaigiri .
+43006062	tyarikarorokari pinkantaiganakempa		Iroroventi , ¿ tyarikarorokari pinkantaiganakempa pineaigerira impogini yoga Kañotasanotakaririra Matsigenka iriataera enoku inavetara tekyara iripoke aka kipatsiku ?
+43006068	tyanityora		Kantankicha yogari Sumo Perero ikantiri : — ¿ Ario tyanityora noatimoigaera ? , mameritari pashini . Panirotari pikantakara viro pogotagaiganara tyara nonkantaigakempa nonkantakanira nontimaigake .
+43007011	Tyarikatyo		Yogari itinkamiegi jorioegi patoitaigankicharira kara iviesetaegiteku ikogaigakerityo ikantaigi : — ¿ Tyarikatyo inake kara irirori ?
+43007015	Tyarikatyo ikantakara		Ogatyo ikenaigake itinkamiegi jorioegi yogavageiganake kavako ikantaiganakera : — ¿ Tyarikatyo ikantakara yogotakera posante ? Teranika irogotagasanotenkani Iriniane Tasorintsi .
+43007019	tyara okantakara		“ Pairani Moiseshi itsirinkaigakempiro ikantagetakerira Tasorintsi kameti pintsatagaigakerora , kantankicha maika tera intimumate paniro tsatagagetakeronerira . ¿ Tyara okantakara pikisaviigakenarora pikogaigakera pogaigakenara ? ”
+43007020	tyanityo		Impo iniaiganake maganiro ikantaigiri : — ¡ Virori inti tinkamitakempi kamagarini ! ¿ Matsi tyanityo kogankitsi irogakempira ?
+43007023	tyara okantakara		Kañotari viroegi pineaigira okatinkatirira ananeki irogaratsaitenkanira kutagiteriku apishigopireantaganirira tera ario pogavisaigero , pogaratsaigirityo kameti pintsatagaigakerora ikantirira Moiseshi . Iroroventi , ¿ tyara okantakara pikisaviigakenarora pineaigakera novegairira mantsigatankitsirira kutagiteriku apishigopireantaganirira ?
+43007035	Tyarikatyo		Ogatyo ikenaigake itinkamiegi jorioegi ikantavakagaiganaka : — ¿ Tyarikatyo iriataera kara nerotyo gara aneaigairi ? Impa ariorakari iriatake intimimoigakerira atovaireegi tivarokaiganankicharira konoiigakaririra guriegoegi irogotagaigakerira iriroegi aikiro .
+43007036	Tatarikatyo		¿ Tatarikatyo ikantake inkaara ikantakera : ‘ Impogini pinkogaigavetaena gara pineaigaana , gatanika pagaveaigi piaigera viroegi tyarika noatake naro ’ ?
+43007041	~		Pashinikya kantaigankitsi : — Inti Ikogakagakerira Tasorintsi impegakempara Agoveenkariegite . Kantankicha pashinikyatyo kantaigankitsi : — ¿ Matsi ario imponiakempa pegankichanerira Agoveenkariegite Garireaku ?
+43007045	tyara okantakara		Impo yogaegiri soraroegi aigavetankicharira iragaigakiterimera ipigaigaa kogapage inaigakera pariseoegi intiegiri itinkamiegi saseroroteegi . Iriroegi ikantaigavakeri : — ¿ Yoga ? ¿ Tyara okantakara tera pamaigakeri ?
+43007048	~		Yogari atinkamiegi teranika inkematsatumaigeri . Ario nokañoigaka naroegi pariseoegi teratyo nonkematsatumaigeri .
+43007051	~		— Okantavitantaganitari ankisashitantempara kogapage garira oketyo akemaigiri iriniakera kameti agotasanoigakera tatoita yovetsikake . Ariotari okantakeri otsirinkakotunkanira .
+43008005	tyara pinkante		Ogari itsirinkakotanakerira Moiseshi okantake maganiro tsinaneegi kañoigacharira maika ompitankakenkani ogakenkanira . Maikari maika viro , ¿ tyara pinkante ?
+43008010	Tyara		Impo yogivoreavetanaka mamerigitevagetake , panivani aratinkai irorori ovashi ikantiro : — ¿ Tyara iaigake maigakempirira inkaara ? ¿ Tera tyara inkantumaigempi ?
+43008019	Tyara		Iriroegi ikantaigiri : — ¿ Tyara inakera Piri kara ? Ikantaigiri Jeso : — Tera pogoigenanika naro teniroro pogoigeri Apa . Antari pogoigakename naro ario pinkante pogoigakerimetyo aikiro irirori .
+43008025a	Tyanimpatyora		Iriroegi ikantaigiri : — ¿ Tyanimpatyora viro ? 
+43008025b	~		Ikanti Jeso : — Matakaniroro nokamantaigavetakempi tera pinkematsaigena .
+43008033	tyara okantakara		Ikantaigutarityo iriroegi : — Nantiegitari iyashikiiganakerira Averan . Tera intimumate shintaiganarira . ¿ Tyara okantakara pikantakera : ‘ Pintimashiigaemparo kogapage ’ ?
+43008043	tyara okantakara		¿ Tyara okantakara tera pinkemaigavakero nokantaigakempirira ? Ontitari kantankicha tera pinkogumaige pinkematsaigakenara .
+43008046a	~		¿ Matsi ario pineaigakena novetsikakera terira onkametite ? Teratyo . 
+43008046b	tyra okantakara		Iroroventi ¿ tyara okantakara tera pinkematsaigena ? , omirinkatari nokantake arisanorira .
+43008053	tyanimpatyora		¿ Matsi pairo pavisakeri Averan yashikiiganakenarira ? Irirori ikamanaityo , ario ikañoiganaari kamantantaigatsirira iriroegi . ¿ Matsi tyanimpatyora viro pikantakera maika ?
+43008057	Tyaratyo pikantakara		Impo ikantaigiri : — Tekyaenka pishiriagakotumatempa 50 shiriagarini pikantake pineakeri Averan . ¿ Tyaratyo pikantakara ?
+43009002	tyara ikantakara		Yogari irogamereegi ikantaigiri : — Gotagantatsirira , ¿ tyara ikantakara imechotakera kañotaka maika ? Impa irororakari kantankicha ikañovageigakara tomintaigaririra , terika irirorakari kañovagetankicha .
+43009010	Tyara okantakara		Impo ikantaigiri : — ¿ Tyara okantakara maika pineakera ?
+43009012	tyara		Iriroegi ikantaigiri : — ¿ Tyara inakera irirori maika ? Irirori ikanti : — Niroro .
+43009016	tyara inkantakempara		Impo ikonogagarantaigaka ikantaigake : — Yogari kañotakerorira maika teratyo iriro tigankerine Tasorintsi , yantavagetantakarotari kutagiteri apishigopireantaganirira , teranika intsatagero itsirinkakotanakerira Moiseshi . Kantankicha pashinikyatyo kantaiganankitsi : — Irirora kañovagetacharira , ¿ ario tyara inkantakempara iragaveakera irovetsikakera terira oneimagetenkani kañorira oka ? Ovashi tera inkemavakagaigempa .
+43009017	tyara pinkante		Nerotyo ikogakotagantantaigaaririra aikiro terira ineavetempa ikantaigiri : — ¿ Virori tyara pinkante ? ¿ Iriro tigankakeri Tasorintsi ontirika tera ? Irirori ikanti : — Naro nokanti inti kamantantatsirira .
+43009019	Tyara ikantanakara		— ¿ Iriro yoga pitomi pikantaigakerira imechotake tera inee ? ¿ Tyara ikantanakara maika ineanakera ?
+43009026a	tyara ikantakempi		Ikantutaigaarityo aikiro : — ¿ Tyara ikantakempi ineakagakempira ?
+43009026b	~		
+43009027	tyara okantakara		Ikantutaigaarityo irirori : — Nokamantaigavetakempiniroro inkaara tera pinkematsaigena . ¿ Maika tyara okantakara pikogaigakera nomataerora aikiro nonkamantaigaempira ? ¿ Matsi ario pikogaigake pinkematsaigakerira viroegi aikiro ?
+43009034	tyara okantakara		Iriroegi ikantaigiri : — ¿ Tyara okantakara pikogakera pogotagaigakenara naroegi ? Ariotyo pikañotaka viro pashi pogakero pikañovagetakara . Ovashi ikisasanoigakeri itigankaigairi parikoti .
+43009036	tyanityora		Irirori ikantiri : — Atsi kamantena tyanityora Kañotasanotakaririra Matsigenka kameti nonkematsatakerira .
+43010020	tyara okantakara		Ikantaigaketari tovaini : — ¿ Tyara okantakara pikematsaigakerira ? , ontitari itimagutakeri kamagarini , aikiro onti ipigatake .
+43010021	~		Kantankicha pashinikyatyo kantankitsi : — Tyanirika itimagutake kamagarini ¿ matsi ario inkañotake iriniakera maika ? ¿ Matsi iragaveake kamagarini ineakagakerira terira inee ?
+43010024	tyanimpatyora		Yogari jorioegi yapatoventaiganakari ikantaigiri : — Nogiaiginityo karanki tekyaenka pinkamantumaigena tyanimpatyora viro . Virorika ikogakagake Tasorintsi pimpegakempara Nogoveenkariegite atsi kamantasanoigenanityo maika .
+43010032	tyatityora		Kantankicha Jeso ikantaigiri : — Narori yagaveakagakena Apa novetsikagetakera posantepage kametiripage pineaigakero viroegi . Maika ¿ tyatityora pimpitankaviigakena ?
+43010036	tyara okantakara		Irirotari kogakagakena intigankakenara aka kipatsiku ¿ tyara okantakara pikantaigakera tera nompinkatsateri Tasorintsi nokantakera nanti Itomi ?
+43011034	Tyara		Impo ikanti : — ¿ Tyara pogaigairi kara ? Iriroegi ikantaigiri : — Notinkami , atsi tsame pinkamosotakiterira .
+43011047	Tyarikatyo ankantaigakerira		Impo iriroegi itentaigakari itinkamiegi saseroroteegi ikaemaigakeri maganiro itinkamipage jorioegi yapatoitaigakeri ikantaigiri : — ¿ Tyarikatyo ankantaigakerira ? , yovetsikanaketari posante terira oneimagetenkani .
+43011056	tyara pinkantaige		ovashi ikogaigakeri Jeso kara . Antari inaigakera ivankoku Tasorintsi ikantavakagaigaka : — ¿ Tyara pinkantaige ? ¿ Iripokakerorokari ontirika gara ipoki ?
+43012005	Tyara okantakara		— ¿ Tyara okantakara tera ompimantenkani agantakenkanira koriki 300 tenario impaigakenkanira kogakovageigacharira ?
+43012027	tyara nonkante		“ Maikari maika novankinavagetakatyo kara , kantankicha ¿ ario tyara nonkante ? Garorokari nokantumati : ‘ Apa , pogavisaakotaenara ganiri natsipereavageti nonkamakera ’ , irorotari nopokashitake .
+43012034a	tyara okantakara		Yogaegiri patoventaigakaririra ikantaigiri : — Kogapage okantake itsirinkakagantaigakenarira Tasorintsi yogari intigankakerira impegakempara Agoveenkariegite gara ineimatiro igamane . Maika ¿ tyara okantakara pikantakera irogaenokakotakenkani Kañotasanotakaririra Matsigenka inkentakotakenkanira ? 
+43012034b	tyanimpatyora		¿ Matsi tyanimpatyora yoga Kañotasanotakaririra Matsigenka ?
+43012038a	tyani		Onti okañotaka maika kameti ontsatagakenkanira itsirinkakerira kamantantatsirira Isaiashi okanti : “ Notinkami , nokenkitsaigavetakaro piniane kantankicha teratyo tyani kematsatumaigenane . Pogikoneatimoigavetakari pagaveane kantankicha teratyo inkematsatumaigempi . ”
+43012038b	~		
+43013025	tyani		Impo irirori yaiñonitasanotanakari Jeso ikantiri : — Notinkami , ¿ tyani ?
+43013036	tyara		Impo yogari Sumo Perero ikantiri Jeso : — Notinkami , ¿ tyara piatake ? Irirori ikantiri : — Tyarika noatake naro , gatata pagavei piatera viro , kantankicha impogini ario pinkante piatake .
+43013037	tyara okantakara		Irirori ikantiri : — Notinkami , ¿ tyara okantakara gara nagavei noatakera maika nogiatanakempira ? ¡ Narori nonkamaventakempityo !
+43014002	~		Antari itimira Apa otovaigavageti pankotsi . Antari gamera otimi gametyo nokanti aityo . Maika noatake novetsikaigakempirora kameti pintimantaigapaakemparora impogini .
+43014005	tyara nonkantaigakempara		Ikantiri Tomashi : — Notinkami , tera nogoigenika tyarika piatake , ¿ ario tyara nonkantaigakempara noneaigakerora avotsi ?
+43014009	tyara okantakara		Ikantiri Jeso : — Jeripe , notentaigakempini karanki . ¿ Tekya pineasanotena ? Tyanirika neakena naro ineakerityo aikiro Apa . Maika ¿ tyara okantakara pikantakenara nokotagaigakempirira Apa ?
+43014022	tyara okantakara		Iniamatanaketyo irapitene Jorashi terira iriro Ishikariote ikantiri Jeso : — Notinkami , ¿ tyara okantakara intagani naroegi pintentasanoigakempa nogotasanoigakempiniri , yogaegiri terira inkematsaigempi gara pitentasanoigari ?
+43016005	Tyara		“ Maikari maika noatae inakera tigankakenarira , kantankicha viroegi tera pinkantumaigena : ‘ ¿ Tyara piate ? ’
+43016017	Tyarikatyo okantakara		Impo ikonogagarantaigaka irogamereegi ikantavakagaiganaka : — ¿ Tyarikatyo okantakara ikantakera maika ? , ikantaketari gara samani itentaigajai , kantankicha impogini shintsityo aneaigaeri , ontitari iriataera Iririku .
+43016018	tatarikatyo		Antari ikantakera maika , ¿ tatarikatyo iniakotake ? Nirorotyo tatarikatyo ikantake .
+43018004	Tyani		Kantankicha Jeso yogotaketari tyara inkantakenkani itonkivoaigavakari ikantaigiri : — ¿ Tyani pikogaigake ?
+43018007	Tyani		Impo imaigairi aikiro ikantaigairi : — ¿ Tyani pikogaigake ? Ikantaigi : — Jeso Nasarekunirira .
+43018011	~		Kantankicha Jeso ikantiri : — Atsi arionenityo , piataero pisavurite . ¿ Matsi gara natsipereiro ikantakerira Apa nantsipereakerora ?
+43018021	Tyara okantakara		¿ Tyara okantakara pikogakotagantakenara naro tatoita nogotaganti ? Kogakotagantaigerityo kemisantaiganarira inkantaigakempira iriroegi . Yogoigakerorokari tatoita nogotagaigiri .
+43018023	tatatyo		Irirori ikantiri : — Pineakenarika tera onkatinkate nokantakerira atsi gotagenanityo . Antari terika ario nonkañotero maika , ¿ tatatyo oitara pipatosavitakena ?
+43018029	Tatatyo		Nerotyo Pirato onti ikontetake sotsi iniaigakerira ikantaigakerira : — ¿ Tatatyo pikisaviigakerira ? ¿ Tatatyo yovetsikakera ?
+43018035	Tatatyo		Ikanti Pirato : — ¿ Matsi naro jorio ? Yogaegiri pitovaire intiegiri itinkamiegi saseroroteegi iriroegitari maigakempi aka . ¿ Tatatyo oitara povetsikakera ?
+43018038	Tatatyo		Ikantiri Pirato : — ¿ Tatatyo oitara arisanorira ? Impogini iroro ikantakerira maika ikontetanai aikiro iniaigairira jorioegi ikantaigiri : — Naro noneakeri tera tatoita irovetsikumate kameti inkisakenkanira .
+43019009	Tyara		Ikiitanaatyo aikiro tsompogi itentanakarira Jeso ikantiri : — ¿ Tyara piponiakara viro ? Kantankicha irirori ikemisantaketyo , teratyo iriniimate .
+43019015	~		Kantankicha iriroegi ikaemavaitaiganaketyo : — ¡ Inkante ! ¡ Kante inkamakera ! ¡ Kentakoterityo ! Yogari Pirato ikantaigiri : — ¿ Matsi ario nonkentakotagantakeri pigoveenkariegite ? Kantankicha yogaegiri itinkamiegi saseroroteegi ikantaigiri : — Mameritari pashini nogoveenkariegite . Panirosanotyo ikantakara koveenkari Sesa .
+43020013	Tatoita		Iriroegi ikantaigiro : — ¿ Tatoita piragatsikataka ? Okantaigiri : — Onti yamanunkanira Notinkami . Tera nogote tyarika yogunkani .
+43020015a	tatatyo		Impo ikantiro : — ¿ Tatatyo piragatsikataka ? 
+43020015b	tyani		¿ Tyani pikogake ? Irorori oneiri irirori tsamaitakotirorira pankirintsishi okantutarityo : — Virorika manakeri atsi kamantena tyara pogakeri nagaaterira .
+43021012	Tyani		Impo yogari Jeso ikantaigiri : — Tainaegi pisekataigakempara . Ikogaigavetaka inkantaigakerimera : “ ¿ Tyani viro ? ” , kantankicha teratyo tyani kantumaterine , yogoigaketari inti Atinkami .
+43021020	Tyani		Impo ishonkavetanaka Perero ineavakeri yogiatapaakeri irogamere Jeso itasanotarira . Irirori inti pirinitankitsirira inampinaku Jeso itentaigakarira irogamereegi isekataigakara panikyara inkamake , impo irirotari kantakeririra : “ ¿ Tyani gakagantakempine ? ”
+43021021	tyara inkantakenkani		Impo ineavakerira Perero ikantiri Jeso : — Notinkami , yogari yoga ¿ tyara inkantakenkani ?
+43021022	tyara pinkantera		Ikantutarityo Jeso : — Nonkogera naro inkantakanira intimake kigonkero nompigaatera , ¿ ario tyara pinkantera viro ? Virori pinkantakanityo pinkematsatakena .
+43021023	tyara pinkantera		Impo ovashi ikantaiganake maganiro kematsaigiririra Jeso gara ikami irogamere itasanotarira , kantankicha Jeso teratyo ario inkante gara ikami . Ontityo ikantakeri Perero : “ Nonkogera naro inkantakanira intimake kigonkero nompigaatera , ¿ ario tyara pinkantera viro ? ”
+44001011	tyara pikantaigakara		ikantaigapaakeri : — Viroegi Garireakunirira , ¿ tyara pikantaigakara atanatsira pineventaiganaka enoku ? Maika pineaigavairi Jeso iatanaira enoku , ario inkañotapaempa impogini impigaatera .
+44002008	Tyara okantakara		¿ Tyara okantakara akemaigakerira iniantaiganakarora niagantsipage ? , akemaigakeritari maika iniantaiganakarora anianeegi
+44002012	Tatatyo		Itsarogavageiganake yogavageiganake kavako ikantavakagantaigakarira : — ¡ Ejee ! ¿ Tatatyo oitara oka ?
+44002037	tyampa nonkantaigakempa		Iroro ikemaigavakerira ikenkisureavageiganaka ikantaigiri Perero intiegiri itovaireegi iritigankaneegi Jeso : — Maika , notovaireegi , ¿ tyampa nonkantaigakempa ?
+44003012a	tyara okantakara		Ineaigavakerira Perero ikanti : “ Viroegi iseraereegi , ¿ tyara okantakara pogaiganakera kavako ? 
+44003012b	~		Pipampogiaiganakenara kañomataka nantieginirikatyo kametiri , kañomataka tsikyatanirikatyo noganuitakeri yoka .
+44004007a	~		Impo itigankaigake iragaigakitenkanira Perero intiri Joan inkogakotagantaigakerira . Impo yamaiganunkanira ikantaigiri : 
+44004007b	tyanimpatyo		— ¿ Tyanimpatyo gaveakagaigakempi ? 
+44004007c	Tyanimpatyo		¿ Tyanimpatyo kantaigakempira poganuitakerira yoga terira iranuite ?
+44004016	Tyara ankantaigakeri		Impo ikantaigi : — ¿ Tyara ankantaigakeri maika ? Maganirotari timaigatsirira aka ikemakoigakeri yovetsikaigakera terira oneimagetenkani . ¿ Matsi tyampa ankantaigero amanakoigakerora ?
+44004025a	Tatatyo		Aikiro viro niakagakeri pomperane Iravi yashikiiganakenarira ikantakera : ‘ ¿ Tatatyo oitara tsimajaigakeri maganiro matsigenkaegi terira iriroegi jorioegi ikisantaigakaririra Tasorintsi ? 
+44004025b	Tyara ikantaigakara		¿ Tyara ikantaigakara isuregeigavetakarora posantepage terira onkametite garira yagaveaigi ineaigakerora ?
+44005003	tyara okantakara		Kantankicha Perero ikantavakeri : — Ananiashi , ¿ tyara okantakara pikematsatakerira Satanashi pikogantavetakarira pamatavinatakerimera Isure Tasorintsi pagagarantantavaarira koriki ipunaitakempirira pigipatsite ?
+44005004	Antari gara		¿ Matsi tera viro shintasanotemparone okyara ? Ario okañotaka maika pipimantakerora , ¿ matsi tera viro shintemparine koriki ? ¿ Antari gara pikañotiro maika ? Pikañotakerora maika pamatagakara pineiri ariori naroegiri pikañoigake maika , teratyo intityo pikañoigake Tasorintsi .
+44005009	tyara okantakara		Ikantutarotyo : — ¿ Tyara okantakara pikemavakagaigakara pamatavinaigakerimera Isure Tasorintsi ? ¿ Matsi pineaigiri gari ikisaviigimpiro ? Neriegi yonta kitaigaatiririra pijime , maika virokya inkitaigaate .
+44007026	Antari gara		Impo okutagitetanaira ineaigiri piteni itovaire kisavakagaigaka . Ikogavetaka irogametiaigaerimera ikantaigiri : ‘ ¿ Antari gara pikisavakagaiga ? Ariotari pikañovakagaigakari intitari pitovaire . ’
+44007027	tyanimpatyora		Yogari kisakeririra irapitene itatsinkutarityo ikantiri : ‘ ¿ Matsi tyanimpatyora kantakempi pimpegakempara notinkamiegi ? ¿ Tyanimpatyora pegakagakempi nojoeseegite ?
+44007035	tyanimpatyora		“ Irirotari yoka Moiseshi ikisaigavetakarira itovaireegi ikantaigavetakarira : ‘ ¿ Matsi tyanimpatyora kantakempi pimpegakempara notinkamiegi ? ¿ Tyanimpatyora pegakagakempi nojoeseegite ? ’ Maika nonkantaigakempi irirotari itigankake Tasorintsi impegakempara itinkamiegi irogavisaakoigakerira . Intitari mutakotakeri isaankariite Tasorintsi koneatimotakeririra tankoku .
+44007049a	~		‘ Ikanti Tasorintsi : Nanti Tasorintsisanorira Igoveenkariegite maganiro matsigenkaegi . Magatirosanotyo napagiteakaro . ¿ Matsi pagaveaigake povetsikaigakenara novanko nontimantakemparira ? 
+44007049b	~		¿ Matsi nokogakotaka pankotsi nampishigopireantakemparira ?
+44007052	~		Iriroegitari tsipereakagaigakaririra maganiro kamantantaigatsirira , aikiro ipogereaigakeri maganiro niakoigakeririra Pairorira Ikametiti pokankitsinerira . Impogini ipokavetaka viroegi pitsoeventaigakari pogakagantaigakeri .
+44008031	Tyara nonkantakempa		Irirori ikanti : — Tyara nonkantakempa nonkemakerora , mameritari gotagakenanerira . Atsi tainanityo viro pimpitapaakera naroku pogotagakenara .
+44008033	tyani		Antari yogamagunkanira yovashigantavagetunkani tyanikonatyo kantakotumaterine . Maikari maika garatyo tyani niakotumaigiri iyashikiiganakerira , teranika intimaige , yogamagunkanitari . ”
+44008034	tyani		Yogari eonoko ikantiri Jeripe : — Kantena , ¿ tyani iniakotake kamantantatsirira ? ¿ Ikiiro niakotaacha intirika iniakotake pashini ?
+44008036	~		Impogini ikenaiganake kara ineaigapaakero nia ikanti eonoko : — Nero oga nia , ¿ kametitakerikara nogiviatakempara ?
+44009004	antari gara		Oga ikenake yashirianaka igavayoteku ikemi ikantapaagani : “ Saoro , Saoro , ¿ antari gara pikisana ? ”
+44009005	Tyanimpatyo		Irirori ikantiri : “ ¿ Tyanimpatyo viro , Notinkami ? ” Ikantiri : “ Naro nanti Jeso pikisashitakarira .
+44009006	tyarika pinkantakempa		Maika tinaanake piatakera Iramashikoku . Ario kara inkantaitakempi tyarika pinkantakempa . ”
+44010004	tatoita		Iroro ineavakerira ikiapaakera itsarogavagetanake yoganakeri kavako ikantiri : “ Notinkami , ¿ tatoita ? ” Ikanti : “ Ikemakempi Tasorintsi piniirira , aikiro ineakempi pikavintsaantavagetira .
+44010021	tatoita		Ovashi yaguitanake ikantaigapaakeri : — Nanti pikogaigakerira . ¿ Tatoita pipokashiigake ?
+44010029	tatatyo		Pineantaigakenarira maika , iroro pikantakagantaigakenara notsatimavagetake nopokakera tera tatoita nontatsiventempa . Maika kantaigena , ¿ tatatyo pikaemaviigakena ?
+44010047	~		Impo iniamatanaketyo Perero ikantaigiri itovaire : — Maikari maika ¿ matsi ario ankantaviigakeri irogiviaigakempara ? , ariotari ikañoigakairi aroegi itinkamiigakaira Isure Tasorintsi .
+44011017a	tyaratyo nonkantera		Ikavintsajaigakeritari Tasorintsi ikañotagaigakaira aroegi akematsaigakerira Atinkami Jesokirishito . ¿ Ario tyaratyo nonkantera ? 
+44011017b	tyanimpatyora		¿ Matsi tyanimpatyora naro kameti nonkantakerira Tasorintsi gara ikavintsajaigiri ? ”
+44012018	Tyarika		Impogini okutagitetanaira ikireaigavetanaka soraroegi mameri Perero . Itsarogavageiganaketyo kara ikantavakagaiganakara : “ ¿ Tyarika iatake ? ”
+44013025	~		Impo panikyara iragatanaero ikogakagavitakeririra Tasorintsi ikantanake : ‘ ¿ Matsi naro pogiaigakerira ? Karatapaatsine iripokapaakera impogitapaakenanerira . Irirori pairotyo yavisakena yagaveavagetakera . Narori garorokarityo nokañotumatari irirori , onti nagamaavagetakari , pairotari yavisavagetakena . ’
+44014015	antari gara		— ¿ Antari gara pikañoiga maika ? Naroegiri ariotyo nokañoigakempi viroegi , matsigenkatari nonaigake . Onti nopokashiigake nonkenkitsaigakempira pokaiganakeriniri pipegaigavetarira pitasorintsite kogapage irirokyaniri pinkematsaiganake Tasorintsisanorira vetsikagetakerorira inkite , kipatsi , omaraani nia intiri maganiro timantagetarorira .
+44015010	antari gara		¿ Antari gara pikañoiga maika ? ¿ Matsi pineaigiri Tasorintsi tera irogote ? Onti povashigaiganakaro pikantantaiganakarira intsatagaigakerora itsirinkakotanakerira Moiseshi , kantankicha yogaegiri yashikiiganakairira tera iragaveaigero intsatagaigerora . Ario akañoigaka aroegi tera agaveaige .
+44016030	tyara nonkantakempara		Impo yogikonteigakeri ikantaigiri : — Atsi kamantenanityo , ¿ tyara nonkantakempara kameti irogavisaakotakenaniri Tasorintsi ?
+44017018	Tyarikara ikantira		Ario inaigake giatakoigirorira yogotagantanakerira Epikoro pairani itentaigakarira pashini govageigatsirira ikantaganirira ishitoikoegi . Iriroegi itentaigakari Pavoro ikenkitsavakagaigakara , kantankicha impo ikonogagarantaigaka ikantaiganake : — ¿ Tyarikara ikantira yoga niavagetatsirira kogapage irorokya ikanti , irorokya ikanti ? Pashinikya kantaigankitsi : — Intirorokari kenkitsatakotiririra pashinirira tasorintsi . Ikantantaigakarira maika ikemaigakeritari ikenkitsatakotakerira Jeso yanianaira .
+44017019	Tatatyo		Impo yamaiganakeri Areopagoku , ariotari kara yapatoitapiniigari ikogakotagantaigirira tyanirika kenkitsavagetankitsirira pashini okyarira niagantsi kameti inkantaigakeniri ario inkemisantakenkani ontirika gara ikemisantagani . Impo ikantaigiri Pavoro : — ¿ Tatatyo oita pogotagantanake ?
+44019003	tatampatyo		Ikantaigiri Pavoro : — Iroroventi ¿ tatampatyo oitara pogiviatashiigakara ? Iriroegi ikantaigi : — Onti nogiviatashiigaka kameti nontsatagaigakerora yogotagantanakerira Joan Giviatantatsirira .
+44019015	tyanimpatyo		Impo agaka kutagiteri imaigavetakara iriroegi yaventaigavetakarora ivairo Jeso ironeaganontaigakemparimera paniro itimagutakerira kamagarini , kantankicha yogari kamagarini ipugamatanakari ikantiri : “ Naro nogotake Jeso inti gaveavagetatsirira , aikiro yogari Pavoro nokemakotiri , kantankicha ¿ tyanimpatyo viroegi ? ”
+44019035	~		Impo yogari itinkami Epesokunirira iroro yagaveaigakerira yogemisantaigakerira ikantaigiri : — Viroegi Epesokunirira , kemisantaigena , magatirotari apagiteakovagetaka ogotaganira aroegi antiegi sentaigirorira ovanko tasorintsi Aretemisa ontiri aikiro mapu shigirorira irorori poniankicharira enoku ashiriakara pairani .
+44021013a	antari gara		Kantankicha irirori ikanti : — ¿ Antari gara piragaiga ? , onti pikenkisureakagaiganakena . Tera nompinkumateronika irogusoitakenara . Irirorikara kogankitsine Atinkami Jeso nonkamaventakerira anta Jerosarenku garatyo nagamaimataro nogamane .
+44021013b	~		
+44021022	Tyampa ankantaigakempa		¿ Tyampa ankantaigakempa ? Maika inkemakoigavakempira irapatoventaigapaakempi inkisaigakempira .
+44021033a	tyani		Yogari itinkami soraroegi yaiñonitapaakari Pavoro yagapaakeri yogusotagantakeri piteti karenatsa . Impo ikantaigiri kisaigakeririra : — ¿ Tyani yoga ? 
+44021033b	Tatoita		¿ Tatoita pikisaviigakeri ?
+44022007	antari gara		Nashirianaka nogavayoteku nokemi ikantaitapaakena : ‘ Saoro , Saoro , ¿ antari gara pikisana ? ’
+44022008	Tyanimpatyora		Narori nokantutarityo : ‘ ¿ Tyanimpatyora viro , Notinkami ? ’ Ikantana : ‘ Naro nanti Jeso Nasarekunirira pikisashitakarira . ’
+44022010	tatarikara		Narori nokanti : ‘ Notinkami , ¿ tatoita pikogake ? ’ Ikanti irirori : ‘ Maika tinaanake piatakera Iramashikoku , ario inkantaitakempi kara magatiro tatarikara pimpiriniventavagetake . ’
+44022016	~		Maikari maika atsi kaviritanakenityo pogiviatagantakempara pinkantakerira Atinkami irisaankakerora pikañovagetara . ’
+44022026	~		Iroro ikemavakera iatake ikamantakitirira itinkami ikanti : — Tsikyanira pipasatagantirikari , intiratyo iromano ipugamentavintsatirira Sesa .
+44023003	~		Kantankicha irirori ikantiri : — ¡ Virompatyo impatosake Tasorintsi , virori ontitari pikametitamampegaka kogapage ! Pine maika onti pipirinitashivetaka aka pimpampiatavakerora itsirinkakotanakerira Moiseshi kameti pinkantakera ariorika novetsikake terira onkametite ontirika tera . Kantankicha maika teratyo ario pinkañotero maika , ontityo pikogake povetsikakera okantavitantaganirira pimpatosavagantetagantakenara .
+44023009	~		Ariompatyo ikaemavaitaiganakeri maganiro . Ikaviritagarantaigamatanakatyo pariseoegi gotagantaigirorira itsirinkakotanakerira Moiseshi ikantaigi : — Noneaigakeri tera tatoita irovetsikumate terira onkametite . Irirorakari niakeri pashini tatarika iita intirika isaankariite Tasorintsi .
+44023019	~		Irirori ikatsatanakeri yamanakeri parikoti ikantiri : — Atsi kamantena .
+44026008	~		¿ Matsi tera ario pinkantaige viroegi iroganiaigaerira Tasorintsi kamageigankitsirira ?
+44026014	antari gara		Maganiro nashiriaiganaka nogavayoegiteku . Nokemi ikantaitapaakena nonianeku : ‘ Saoro , Saoro , ¿ antari gara pikisana ? Vikiiro tsipereakagaacha . ’
+44026015	Tyanimpatyora		Narori nokantutarityo : ‘ ¿ Tyanimpatyora viro , Notinkami ? ’ Ikantana : ‘ Naro nanti Jeso pikisashitakarira .
+45002017	~		Kantankicha viroegi pikantaigi : “ Nantiegi jorioegi , garatyo ikisashitumaigana Tasorintsi , nogotasanoigirotari itsirinkakotanakerira Moiseshi notsatagaigakerora . ” Ontiri aikiro paventakovageigaka pineaigiri intaganiri viroegi itasanoiga Tasorintsi .
+45002021	tyara okantakara		Inti pogotagaiganake pashini , ¿ tyara okantakara tera pogotagaigaempa vikiiro ? Ario okañotaka pikantaigira : “ Tera onkametite pinkoshitera ” , iroroventi gametyo pikoshiigi viroegi .
+45002028	~		Yogari intagatirira yogaratsaitunkani imeshinaku teratyo iriro joriosanorira yashintasanotarira Tasorintsi , aikiro teratyo irishineventempari Tasorintsi ineakerira yogaratsaitunkanira , tera intsatageronika ikogagetirira irirori .
+45003001a	~		Ariorika inkantaigake jorioegi : “ Iroroventi kogapage nokantaigake nantiegi jorioegi yashintasanoigarira Tasorintsi , 
+45003001b	~		onti yogaratsaiitakena kogapage . ”
+45003003	tyarika ankantaige		Antari aiñorika terira inkematsaigeri Tasorintsi ¿ tyarika ankantaige ? ¿ Ario ankantaigake inti tsoenti Tasorintsi ? ¿ Matsi ario oga inkenake inkantatiganakempa ganige itsatagairo ikantakerira ?
+45003005	tyarika ankantaige		Antari akanaigira irirori tera intsatagero ikantirira , impogini itsatagakero , aroegi neakagaigakeri maganiro arisano ikantasanoti tera iramatagumatempa . Iroroventi , ¿ tyarika ankantaige maika ? ¿ Ario ankantaigake onti yovetsikake Tasorintsi terira onkametite ikisashiigajaira ineaigakaira tera ankematsaigeri ? ¡ Garatyo ! ( Ariotari ikañoigirori niashiigarorira kogapage . ) Iroromera irovetsikake Tasorintsi terira onkametite , ¿ ario tyaratyo inkantakempara impogini inkisashiigakemparira maganiro kañovageigacharira ?
+45003006	tyaratyo inkantakempara		¿ ario tyaratyo inkantakempara impogini inkisashiigakemparira maganiro kañovageigacharira ?	
+45003007a	~		¿ Matsi ario okametitake nontsoegakempara nonkantakera : “ Tera intsatagero Tasorintsi ikantirira ” , impogini intsatagakerora ineakenkani inti pairorira itsatagagetiro magatiro ikantirira tera intsoegumatempa ? ¡ Teratyo ! Ariomera onkametitakeme maika , 
+45003007b	tatatyo		¿ ario tatatyo oitara inkisavitakena Tasorintsi ?
+45003008	tyara okantakara		Ariomera onkañotakeme , ¿ tyara okantakara tera ankantaige : “ Tsame avetsikaigakera terira onkametite kameti aneakagantaigakeriniri Tasorintsi tera inkañovagetumatempa ? ” Ariotari ikantaigakeri kañoigakerorira maika iniashinaigakenara kogapage ikantaigi onti nogotaganti inkañoigakempara maika . Kametitaketyo inkisashiigakemparira Tasorintsi .
+45003009	tyarika ankantaige		Iroroventi maika ¿ tyarika ankantaige ? ¿ Ario ankantaigake aroegi jorioegi pairo avisaigakeri terira iriroegi jorioegi ? ¡ Garatyo akantumaigi ! Maganirotari aroegi akañovageigaka , ario ikañoigaka jorioegi intiegiri aikiro terira iriroegi jorioegi ikañovageigaka .
+45003027a	tatatyo		Iroroventi ¿ tatatyo oitara aventakoigakempara aroegi ? ¡ Tatampanirorotyo ! 
+45003027b	tyara okanta		¿ Matsi tyara okanta ? 
+45003027c	~		Teranika ario irogavisaakoigae Tasorintsi ineaigakaira atsatagaigakerora magatiro ikantagetirira , ontityo ikavintsaaviigakai ineaigakaitari akematsaigakerira Jesokirishito .
+45004001	Tyara ikantaka		Maika onti nokogake nosuretagaigaempirira Averan yashikitasanoiganakairira aroegi jorioegi . ¿ Tyara ikantaka irirori ?
+45004003	tyara okanti		Pogoigakerorokari tyara okanti Itsirinkakagantakerira Tasorintsi pairani . Onti okanti : “ Yogari Averan ikematsatakeri Tasorintsi , nerotyo ineantakaririra kañomataka tenirikatyo inkañovagetumatempa . ”
+45004010	tyati		Kantankicha ¿ tyati ineantakari Tasorintsi kañomataka tenirikatyo inkañovagetumatempa ? ¿ Ario ineakeri impogini ogaratsaitunkanira ichonkirimeshinate ontirika ineakeri tekyara irogaratsaitenkani ? Teratyo ario ineeri impogini yogaratsaitunkanira , ontityo ineakeri tekyara irogaratsaitenkani .
+45005010	~		Pairani tera ashineigavetempari Tasorintsi . Ario ikañotaka irirori tera irishineigavetajae aroegi , kantankicha impogini itigankakeri Itomi inkamaventaigakaera kameti ashinevakagaiganakempaniri . Kañotari maika ashinevakagaiganakara iroromparorokari irogavisaakoigakaera , pairo irogavisaakotasanoigakae , ikantakanitari itimi .
+45005021	~		Ario okañotaka maika kameti inkavintsaavageigakaeniri aroegi aikiro . Antari ikañovagetakara Aran irorotari aneantaiganakarorira agamane , kantankicha maika itigankakerira Tasorintsi Atinkami Jesokirishito inkamaventaigakaera , ineaigakai kañomataka tenirikatyo ankañovagetumaigempa , irorotari yoganiantaigakairira asureku kameti ankantakaniniri antimaigake .
+45006001	tyarika ankantaige		Iroroventi ¿ tyarika ankantaige maika ? ¿ Ario atanatsi ankañovageigempara kameti inkavintsaasanovageigakaeniri Tasorintsi ?
+45006002	tyara ankantaigakempara		¡ Garatyo ! Pine igamaga ikamumatakera tera ario atanatsi inkañovagetempara , matakatari kamake . Ario akañoigaka aroegi aikiro akematsatumaigakrira Kirishito kañomataka ontinirikatyo akamapitsaigakero kañovagetagantsi , ¿ ario tyara ankantaigakempara atanatsira ankañovageigempara ?
+45006015	tyarika ankantaige		Iroroventi ¿ tyarika ankantaige aroegi maika ? , aneaigaketari ikavintsaavageigakaira Tasorintsi , ¿ matsi ario atanatsi ankañovageigempara tenigetari inkantaigajae antsatagaiganakerora magatiro ikantagetirira pairani ontsatagakenkanira ? ¡ Garatyo akañotumaigiro maika !
+45006021	tyara okantaigakempi		Antari pikañoigavetakara maika , ¿ matsi tyara okantaigakempi ? ¿ Matsi okantakani ogishineaigakempi gipashiventaiganakempirira maika ? ¡ Teratyo ! Teranika oganiantumate kañopagerira maika , ontityo oataganti morekariku .
+45007007	tyarika ankantaige		Iroroventi , ¿ tyarika ankantaige maika ? ¿ Matsi ario ankantaigake tera onkametite itsirinkakotanakerira Moiseshi ? ¡ Garatyo ! Antari gamera nogotiro tyara okanti , ario pinkante gamerorokari nogoti onti nokañovagetaka . Pine gamera okanti : “ Gara pikogutantiro yashintagetarira pashini ” , gametyo nogoti tera onkametite nonkogutakerira .
+45007024	Tyanimpatyo		Irorotari nokogantavetakarira nontsatagagetakerora magatiro ikantagetakerira Tasorintsi , kantankicha teratyo nagavee , kantakanatari nokañovagetakara . ¡ Tyarikatyo nonkantanakempa naro ! ¡ Tyanimpatyo gaveakagakenane nampakuagetanakerora magatiro kañovagetagakenarira ganiri ikisashitana Tasorintsi impogini ! Panirosanotyo gaveakagakenane Atinkami Jesokirishito , irirotari kamaventakenarira . ¡ Irorotari maika noshineventavagetakarityo Tasorintsi kara !
+45008024	~		Antari akyara kematsaigakeri Kirishito agoigake impogini ankantatigasanoiganakempa ganiri aneaigairo agamane , irorotari agiaigake maika . Kantankicha ariome aneaigakerome maika ishinetagaigakairira Tasorintsi gamerorokari agiakoiga , matakatari aneaigakero . ¿ Matsi atanatsi agiakoigempara ? ¡ Garatyo !
+45008031a	tyanimpatyora		Iroroventi maika ishineigakaitari Tasorintsi itentaigakaira , ¿ matsi tyanimpatyora gaveaigakaene ? 
+45008031b	tyani		¡ Garatyo tyani gaveimatatsi !
+45008032	~		Tasorintsi tera intsaneapitsaigajaeri Itomi , ontityo itigankakeri inkamaventaigakaera . Kañotari itigankakerira Itomi inkamaventaigakaera akyari itigankiri , iroromparorokari impaigakaerora posantepage kametiripage pairo impaigakaero .
+45008033	tyanimpatyora		Aroegi igantaga isariaigakaira Tasorintsi irashintaigakaera . Maika mataka yashintaigakai . ¿ Matsi tyanimpatyora kantaigakaene aiñokya akañovageiga ? ¡ Garatyo tyani gaveimatatsi ikantaigaira ! Irirotari Tasorintsi neaigakai kañomataka tenirikatyo ankañovagetumaigempa , ¿ matsi tyanimpatyora gaveankitsine inkañotagantaigakaera inkisashiigakaera Tasorintsi ?
+45008034	tyani		¡ Garatyo tyani gaveimatatsi ! Irirotari Kirishito kamaventaigakai . Tera patiro inkamaventaigae , ontityo ikitareanaa aikiro , maika aiño ipirinitai inampinaku Tasorintsi irakosanoriraku iniaventaigakaira .
+45008035	tyanimpatyora		¿ Matsi tyanimpatyora gaveankitsine irapakuakagakerira Kirishito ganigera itasanoigajai ikavintsajaigakaira ? ¡ Garatyo tyani gaveimatatsi ! Antsipereavageigavetakempatyo ontirika ankenkisureavageigakempa , kantankicha yogari Kirishito inkantakanityo intasanoigakae inkavintsaavageigakaera . Ontirika iratsipereakagaigakae pashini inkisaigakaera kogapage , ontirika antsipereavageigake atasegane . Ariorika gara otimi tatampa agaguigakempa , ontirika ontimagetake posante koveenkagetankitsinerira , aikiro ankamaigavetanaempatyo kantankicha yogari Kirishito inkantakanityo intasanoigakae inkavintsaavageigakaera .
+45009014	tyarika ankantaige		Iroroventi ¿ tyarika ankantaige maika ? ¿ Matsi ario ankantaigake onti yovetsikake Tasorintsi terira onkametite ? ¡ Garatyo !
+45009019a	tyara okantakara		Kantankicha aiñorika paniro kantakenanerira : “ Iroroventi , ariora okañotaka maika ¿ tyara okantakara ikisashiigakarira Tasorintsi terira inkematsaigeri ? 
+45009019b	tyanimpatyora		¿ Matsi tyanimpatyora gaveankitsine inkantatigakerora ikantakerira Tasorintsi ? ”
+45009020a	tyanimpatyora		¿ Matsi tyanimpatyora viro kameti pimpugatsatakemparira Tasorintsi ? Pine koviti kipatsinaki ovetsikaganirira , 
+45009020b	~		¿ matsi ario onkantakeri vetsikakerorira : 
+45009020c	antari gara		“ ¿ Antari gara pikañotagana maika povetsikakenara ? ”
+45009021	~		Yogari vetsikakerorira irirotari shintakemparone , kametitaketyo irovetsikakerora tatarika ikogake irirori . Ariorika ikogake inegintetasanotakerora inegintetasanotakerotyo , ontirika ikogake irovetsikakera pashini gasakonara inegintetasanotiro , gasakonatyo inegintetasanotiro .
+45009022	~		Ario ikañota Tasorintsi irirori ikogavetakatari inkisashiigakemparimera maganiro tsimajaigakeririra pogereaigankichanerira ineakagaigakerira maganiro tyara ikanta irirori ikisara , aikiro pairora yagaveavageti , kantankicha teratyo inkisashiigempari shintsi , ontityo yatsipereakovageigakari .
+45009023	~		Onti ikañotaka maika kameti ineakenkaniniri pairo ikavintsaantavageti , ikavintsaavageigakaitari aroegi igantagatari isariaigakaira pairani inkavintsaavageigakaera kameti ankañoigakempariniri Itomi impogini .
+45009024	~		Maganirotari iniasurentaigakai Tasorintsi kameti ankematsaigakeriniri , teranika paniro iriniasurentaigeri jorioegi , iniasurentaigakerityo aikiro terira iriroegi jorioegi .
+45009030	tyarika ankantaige		Iroroventi ¿ tyarika ankantaige maika ? Agoigaketari yogaegi terira iriroegi jorioegi teratyo isuretumaigavetempa tyara inkantaigakempa kameti irishineigakempariniri Tasorintsi , kantankicha maika ineaigakeri kañomataka tenirikatyo inkañovagetumaigempa , ikematsaigakeritari Jesokirishito .
+45009032	tyara okantaka		¿ Tyara okantaka tera irishineigempari ? Ontitari kantankicha yaventaigakarora itsirinkakotanakerira Moiseshi ikogaigavetakara intsatagaigakeromera kameti irishineigakempariniri , tera iriro inkogaige inkematsaigakerira Kirishito , ikomuigakaritari . Irorotari ikantakotantunkanirira Kirishito ikañotagunkani mapu tivatantatsirira .
+45010006	Tyanimpatyora		Kantankicha tyanirika kematsatakerine Kirishito kameti ineakeriniri Tasorintsi kañomataka tenirikatyo inkañovagetumatempa garatyo iniasurentumata inkantakera : “ ¿ Tyanimpatyora gaveankitsine iriatakera enoku iragakiterira Kirishito kameti irogavisaakoigakaeniri ? ”
+45010007	Tyanirika		Ario okañota aikiro garatyo ikantumati : “ ¿ Tyanirika gaveankitsine iriatakera savipatsaku inaigira igamaga iroganiaerira Kirishito kameti iripokaera irogavisaakoigakaera ? ”
+45010008	tyampatyora okantira		Iroroventi , ¿ tyampatyora okantira Itsirinkakagantakerira Tasorintsi ? Ontityo okanti : “ Matakatari pogoigakero tyara ikanti Tasorintsi , irorotari piniakoigi , aikiro iroro pisuretakoiga . ” Irorotari nokenkitsatakoigirira naroegi aikiro nokantaigakempira pinkematsaigakerira Kirishito kameti irogavisaakoigakempiniri Tasorintsi .
+45010014a	tyaratyo inkantaigakempara		Kantankicha garika yogoigi inti Gavisaakotantatsirira itigankakerira Tasorintsi irogavisaakoigakaera ¿ ario tyaratyo inkantaigakempara iriniaigakerira inkantaigakerira irogavisaakoigakerira ? Aikiro garika ikemakoigiri , 
+45010014b	tyaratyo inkantaigakempara		¿ tyaratyo inkantaigakempara irogoigakera inti Gavisaakotantatsirira ? Aikiro garika tyani kamantaigiri , 
+45010014c	tyaratyo inkantaigakempara		¿ ario tyaratyo inkantaigakempara inkemakoigakerira ?
+45010015	tyaratyo inkantaigakempa		Garika itimi tigankaigakerineririra inkamantaigakerira , ¿ ario tyaratyo inkantaigakempa iriaigakera ? Ariotari okantakeri Itsirinkakagantakerira Tasorintsi okanti : “ ¡ Ishineventavagetunkanityo kenkitsavageigatsirira kantaigakeririra maganiro tyara inkantaigakempa kameti irogavisaakoigakeriniri Tasorintsi ! ”
+45010016	~		Kantankicha antari ikamantaigavetunkanira teratyo inkematsaige maganiro , ariotari ikantakeri Isaiashi pairani ikanti : “ Notinkami , nokamantaigavetakari pikantakerira viro , teratyo inkematsaigena . ”
+45011004	~		Kantankicha Tasorintsi ikantiri : “ Aiñokyatyo 7,000 surariegi kematsatasanoiganarira terira intigeroaventumaigempari Vaare ipegaigakerira pitovaireegi itasorintsiegite . ”
+45011007	tyampatyo okantakara		Iroroventi , ¿ tyampatyo okantakara ? Ontityo okañotaka maika . Yogari iseraereegi ikogaigavetaka intsatagaigakerora ikantirira Tasorintsi kameti irishineigakempariniri , kantankicha teratyo iragaveaige . Nerotyo intagani ishineigaka yogaegi igantagarira isariaigakari pairani irashintaigakemparira . Yogaegiri itovaireegi ariompatyo ipegakagaiganakariri kañomataka tenirikatyo ontimaige isure ,
+45011015	~		Kañotari maika okenantakarora ikisaigakerira Tasorintsi jorioegi irirokya ishonkateiganaka terira iriroegi jorioegi yogavisaakoigakerira ariomparorokari inkematsaigerira jorioegi pairorokari onkenantakemparo irishineigakemparira Tasorintsi iriroegi aikiro irogavisaakoigakerira , okyara kañomatakatari ontinirika ikamaigavetaka , kantankicha irogavisaakoigakeririka ariokya onkañotakempa oganirika yaniaiganai .
+45011018	~		Kantankicha tsikyanira paventakovagetakari pineakera pavisaigakerira iriroegi , vintitari yogavisaakotake Tasorintsi . Paventakovagetakemparika atsi suretaemparotyo iketyora kematsatankitsi pairani Averan , ovashi oponiantakarira pikematsatanakera viro maika , teranika viketyo kematsatatsine . Pine orivo tera iroro ganierone otsego , ontityo ganiiro opari .
+45011033a	~		¡ Tyarikarorokari , pairotyo ikavintsaantavageti Tasorintsi ! ¡ Pairo yogovageti inegintegetakerotyo magatiro kara ! Garatyo agotumaigiro isuregetarira irirori , ario okañotaka aikiro garatyo agotumaigiri tyara ikanta irirori .
+45011033b	~		
+45011034a	tyanimpatyora		“ ¿ Matsi tyanimpatyora gotakero isuregetarira Tasorintsi ? 
+45011034b	tyanimpatyo		¿ Matsi tyanimpatyo gaveankitsine irogotagakerira ?
+45011035	tyanimpatyora		Ario okañotaka ¿ matsi tyanimpatyora gaveankitsine impakerira tatarika oita kameti impugataemparira irirori inkavintsaakerira ? ¡ Garatyo tyani gaveimatatsi ! ”
+45014004	tyanimpatyora		¿ Matsi tyanimpatyora viro kameti pinkantakerira papigematsatene ariorika yovetsikake kameti ontirika tera ? Tsikyatatyo inkantakeri Atinkami , irirotari neasanotakeri tyara ikanta . Kantankicha irovetsikaketyo kameti , iragaveakagakeritari Atinkami .
+45014010a	antari gara		¿ Antari gara pikantiri viro papigematsatene yovetsikake terira onkametite ? 
+45014010b	antari gara		¿ Antari gara pikantiri tera irogote ? Maganirosanotari aroegi aratinkimoigakeri Tasorintsi impogini inkantaigakaera ariorika avetsikaigake ikogakerira irirori ontirika tera .
+46001020a	tatoita		¿ Matsi tatoita okametitanta yogovageigirira govageigatsirira intiegiri gotagantaigatsirira intiegiri aikiro niaventaigirorira posantepage kipatsipagekutirira ? Ineakagantakerotari Tasorintsi magatiropage oka tera tatoita onkametitantumatempa .
+46001020b	~		
+46001020c	~		
+46002011	~		Kañotari matsigenka tera ario intimumate goteronerira tatarika isuretaka , panirotyo yogotakera irirori . Iriromparorokarityo Tasorintsi garorokarityo tyani gotumatatsi tatoita isuretaka , panirotyo yogotakerora Isure .
+46002016a	tyani		Ariotari okantakeri Itsirinkakagantakerira Tasorintsi okanti : “ ¿ Matsi tyani gotakero isuregetarira Atinkami kameti irogotagakeriniri ? ” Kantankicha aroegi inti gotagaigakai Isure Tasorintsi nerotyo agotantaigakarorira isuregetarira Kirishito .
+46002016b	~		
+46003005a	tyanimpatyora		¿ Matsi tyanimpatyora Pavoro ? Ario ikañotaka Aporoshi , 
+46003005b	tyanimpatyora		¿ tyanimpatyora irirori ? Intagatitari nogotagaigakempi kameti pinkematsaigakerira Atinkami . Paniropage notsatagageigakero ikantaigakenarira Atinkami , nantiegitari iromperaneegi Tasorintsi .
+46004007a	tyanityora		¿ Matsi tyanityora neaigakempi pavisaigakerira pashini ? 
+46004007b	tatatyo		¿ Matsi tatatyo pagaveakera viro tsikyata terira iriro gaveakagempirone Tasorintsi ? Irirorika gaveakagakempi iroroventi 
+46004007c	tyara okantakara		¿ tyara okantakara paventakovagetakara kañomataka tsikyatanirikatyo pagaveashitakaro viro ?
+46004021	Tatoita		¿ Tatoita pikogaigake viroegi ? ¿ Ario pikogaigake nonkanomajaigakitempira ontirika noshineventaigapaempira kametikya noniaigapaempi ?
+46005002	~		Tyarikatyo pikantaigaka viroegi ventakovageigamatakavi , pinkenkisureimaigempatyo pinkantaigakerira kañotakerorira maika ganigera itentaigaimpi .
+46005012	tyara nonkantaigakerira		¿ Matsi tyara nonkantaigakerira yogaegi terira inkematsaige ? Impatyo Tasorintsi tsikyatatyo inkisashiigakempari irirori . Kantankicha viroegi pinkantaigaketyo tyara inkantaigakenkani papigematsaegine vetsikaigatsirira terira onkametite . Irorotari nonkantantaigakempirira maika pinkantaigakerira yoga gakerorira yagavetarira iriri ganigera ikonoivageigaimpi papatoitapiniigara .
+46006001	tyarika ikantakempi		Ariorika pinkisakeri papigematsatene pineakera tyarika ikantakempi ¿ matsi ario okametitake piatakera pinkamantakerira joese terira inkematsate kameti inkantakera tyarika inkantakenkani yoga pikisakerira ? Irirompatyo pinkamantaigake papigematsaegine kameti inkantaigakempiniri tyarika inkantakenkani .
+46006003	~		¿ Matsi tera pogoige aroegi kantaigankitsine tyarika inkantaigakenkani isaankariite Tasorintsi ? Agoigaketari ario onkañotakempa maika impogini , iroroventi maika pairorokari agaveaigake ankantaigakera tyarika onkantakenkani tatapagerika aneaigake tera onkametite .
+46006004	tyara okantakara		Ariorika pikisavakagaigaka tyarika pikantavakagaigaka ¿ tyara okantakara intira paventaigaka terira iriroegi kematsaigatsirira inkantaigakera tyani kañotankicha ?
+46006007a	tyarika ikantaigakempi		Antari pikañoigakara maika teratyo onkametitumate . Ariometyo pantsipereakoigakemparome tyarika ikantaigakempi papigematsatene . 
+46006007b	tatarika		Kañotari iraparatutaigempirora tatarika pashintaka pantsipereakoigakempatyo .
+46006009	~		¿ Matsi tera pogoige maganiro vetsikaigatsirira terira onkametite gara iaigi itimira Tasorintsi ? Tsikyanira pikomuigarokari oka . Gatanika iaigi itimira Tasorintsi noshikantavageigatsirira , intiegiri pegaigiririra pashini itasorintsite , intiegiri atashiigirorira tsinane suraritakotankitsirira , intiegiri gaigiririra irapisuraritene , intiegiri koshintiegi , intiegiri kogaigatsirira irashintavageigakempara , intiegiri shinkisenariegi , intiegiri niagisevageigatsirira intiegiri aikiro matavitantaigatsirira .
+46006016	~		¿ Matsi tera pogoige tyanirika atashitakero pogereantatsirira ogatyo ikenake itentagasanotanakaro kañomataka panironirikatyo inake ? Ariotari okantakeri Itsirinkakagantakerira Tasorintsi oniakotakerira gankitsinerira itsinanetsite okanti : “ Antari okyara tekyara iragero piteni inaigavetaka , kantankicha antari yaganakerora oga ikenake itentaganakaro kañomataka panironirikatyo inai . ”
+46006019	~		¿ Matsi tera pogoige viroegi itimasurentaigakempi Isure Tasorintsi itigankimoigakempirira irirori ? Viroegi tenige pintimashiigaemparo kogapage ,
+46007016a	~		Virori tsinane , ¿ matsi pineaka pagaveake pinkematsatagakerira pisuraritsite ? Ario pikañotaka viro surari , 
+46007016b	~		¿ matsi pineaka pagaveake pinkematsatagakerora pitsinanetsite ?
+46009007a	tyara		¿ Matsi tyara ineagani soraro kara impunaventakera tsikyata irirori iseka ? Ario ikañota pankitirorira ova 
+46009007b	~		¿ matsi ario ipankitiro kogapage tera irogemparo ? Ario ikañotaka sentiririra ovisha irirori , 
+46009007c	~		¿ matsi ario inkantavitakenkani iroviikakemparora itsomia ?
+46009018	~		Pine maika nokantaigakempi ikantavetakara Atinkami maganiro kenkitsaigirorira Niagantsi Kametiri kametitake impaigakenkanira tatarika oita ikogakoigaka , kantankicha naro tera ario nonkañotero maika , ontitari gishineakena nonkenkitsavagetakera kogapage garatyo tyani punatana .
+46010019a	tyara nokanti		Iroroventi ¿ tyara nokanti maika ? 
+46010019b	~		Tera ario nonkante arisano itasorintsitake yoga ipegagetaganirira tasorintsi kogapage , 
+46010019c	~		aikiro tera ario nonkante yogari ivatsapage ipagetaganirira ikantatigaka tera ario inkañotempari pashinipage ivatsa .
+46010029	Tyarikatyo okantakara		“ Tyarikatyo okantakara tera onkametite nogakemparira ivatsa ineakerira pashini ariorika tera onkametite irogakenkanira , teranika inkantavitantero Tasorintsi .
+46010030	tyara		Omirinkatari nogarira ivatsa noshineventari Tasorintsi noneaketari iriro pakenari , tyara onkantakempara inkantaitakenara tera onkametite nogakemparira . ”
+46011022	tyara nonkantaigempi		¿ Antari gara pikañoigiro maika ? Pineaigavetakatyo pikañovintsaigakerora maika ariometyo pisekataigakempame pivankoegiku . Antari pikañoigakerora maika kañomataka ontinirikatyo pikisavakagaigaka pashirikovakagaiganakara , aikiro onti pogipashiventaigakeri kogakovageigacharira . Maika ¿ tyara nonkantaigempi ? ¿ Ario noshineventaigakempi ? Garatyo noshineventaigimpi pikañoigakara maika .
+46012017a	tatatyo		Antari intagatira timankitsine iroki , ¿ ario tatatyo inkemantakempa ? , mameritari igempita . Ario okañotaka aikiro intagatira timankitsine igempita , 
+46012017b	tatatyo		¿ ario tatatyo inkemaenkatantakempa ? , mameritari igirimashi .
+46012019	tyara ankantaigakempara		Antari intagatira timankitsine aneantaigarira ¿ ario tyara ankantaigakempara ?
+46014006	~		Pine naro noatera noneaigempira irororika noniantaigakempi niagantsipage terira oniantumatenkani ¿ matsi iroro noshintsitagantaigakempi ? Kantankicha antari ontirika nogotagaigakempi pinianeegiku yogotagakenarira Tasorintsi ontirika nonkamantaigakempi ikantakenarira Tasorintsi nogotagaigakempira ario pinkante noshintsitagaigakempiniroro .
+46014007	tyarika okanti		Kañotari sonkarintsi tera ontimavetempa osure kantankicha opoimatityo . Antari osonkataganira garika onegintetagani garatyo ogotagani tyarika okanti . Ario okañotaka gitara irorori okitarataganira .
+46014008	tyani		Ario okañotaka aikiro iaigira yomanatavakagaigara garika onegintetagani otivotaganira tivorintsi garatyo ogotagani tatoita otivotashitunkani , garatyo tyani vetsikacha iriatakera iromanatakempara .
+46014009	tyanityo		Ario pikañoigaka aikiro viroegi piniantaigemparora niagantsi terira oniantumatenkani ¿ ario tyanityo kemaigakempine ? Kañomataka ontinirika piniagitevageigake kogapage .
+46014015	tyarika nonkantakempa		Iroroventi ¿ tyarika nonkantakempa ? Noniakerityo Tasorintsi nosureku , kantankicha nogotavakerora aikiro nokantakerira . Nomatikaventakerityo nosureku , kantankicha aikiro nonkemavakerora nomatikakerira .
+46014016	tyara inkantakempara		Pine viro ariorika pinkogake piniakerira Tasorintsi pinkantakerira pishineventakari kantankicha irororika piniantakempari niagantsi terira oniantumatenkani ario tyara inkantakempara inkemavakempira papigematsatene terira inkemero oga piniantakarira kameti intentakempira iriniakerira irirori aikiro Tasorintsi .
+46014026	~		Irorotari maika , napigematsaegine , nonkantantaigakempirira antari pampatoitaigempara ontityo pampatoventaigakempa pishintsitagavakagaigakempara . Pinkonogagarantaigakempa pinkantaigakeri maganiro : “ Tsame amatikaventaigakerira Tasorintsi . ” Impo pashini onti irogotagantavagetake . Pashinikya onti inkenkitsatakotakero yogotagakeririra Tasorintsi . Pashini onti iriniantakemparo niagantsi terira oniantumatenkani , impo pashinikya gishonkakerone ikantakerira .
+46014036	~		¿ Antari gara pikañoiga maika tera negintekya pogaigeri papigematsaegine papatoitaigara ? ¿ Matsi viketyo tsitiventaigakero pogoigakerora Iriniane Tasorintsi ? ¿ Matsi intagani viroegi kemaigakero ?
+46015012	tyara okantakara		Ikenkitsatakotunkanitari Kirishito yanianaira ikamavetakara ¿ tyara okantakara pikonogagarantaigaka viroegi pikantaigakera gara anianaagani ?
+46015029a	~		Antari garikara anianaagani 
+46015029b	tyara okantakara		¿ tyara okantakara pikonogagarantaigaka pogiviaventaigakarira kamaigankitsirira ? 
+46015029c	tyara onkantaigakeri		¿ Matsi pogiviaventaigakarira tyara onkantaigakeri ?
+46015030a			Ario nokañoigaka naroegi , antari gamera anianaagani ario 
+46015030b	tyara onkantakempara		tyara onkantakempara nantsipereaventavageigakerora kogapage nantavageigakenerira Atinkami .
+46015032	tyara nonkantakero		Antari pairani nonakera aka Epesoku yatsipereakagavageitakenatyo kara ikisaitakenara kañomataka ontinirikatyo iokaitakena matsontsoriku irogakenara . Antari arisanomera gara anianaagani ¿ matsi ario nonkañotake maika nantsipereavagetakera ? ¿ Matsi tyara nonkantakero ? Ontirorokari nonkañoigakempari kantaigavetacharira : “ Tsame asekatavageigakempara , aikiro ashinkivageigakempara , panikyatari ankamaiganae ” , ineaigaketari iriroegi gara anianaagani .
+46015035a	Tyara inkantaiganaempa		Kantankicha ariorika aiño kantankitsinerira : “ ¿ Tyara inkantaiganaempa inkitareaiganaera kamaigankitsirira ? Antari intinajaiganaera 
+46015035b	tyarika inkantaigakempa		¿ tyarika inkantaigakempa ? ¿ Ario ontimae ivatsa ? ”
+46015055a	~		“ Maika garatyo asuretumaigaaro agamane , aikiro garatyo apinkumaigairo , 
+46015055b	~		gatanika agaveimaigajai . ”
+47002002	tyanityo		Noneaketari nonkenkisureakagaigakempirika ario tyanityo gishineaenanera . Panirotari pikantaigara viroegi pogishineaiganara , kantankicha nonkenkisureakagaigakempirika ario tyara nonkantaempara naro noshinetaempara .
+47002016	tyanimpatyora		Yogari garira yogavisaakotagani teratyo irishineventumaigemparo , ariompatyo yogagavageiganakari ikañovageiganakara , kantankicha yogaegiri irogavisaakoigakenkanirira iriro pinkante ishineventaigakarotyo ineaigaketari iroro ganiaigakerine kameti inkantakaniniri intimaigake . Kantankicha tyanimpatyora gaveankitsine inkematsatagaigakerira pashini garira iriro gaveakagiri Tasorintsi .
+47003008	~		Kañotari intagatira ipakeri kañotagantantatsirira akyari ishimpokirerenkakagiri , iroromparorokari yogikoneatimoigakairira Isure Tasorintsi asureegiku pairo avisake okametivagetakera ,
+47003009	~		ogotagaigakaitari ineaigakaira Tasorintsi kañomataka tenirikatyo ankañovagetumaigempa . Okari oka pairotyo avisake okametitakera avisavagetakero ineakagaigakeririra Tasorintsi iseraereegi pairani yamaigakenerira Moiseshi itsirinkakerira Tasorintsi kañotagantaigakeririra maganiro terira intsatagaigero .
+47006014a	~		Gara pitentagasanoigari terira inkematsaige , teranika ario pinkañovakagaigempa , ikantatigaigakatari iriroegi . Yogari kematsaigatsirira ¿ matsi iragaveaigake intentaigakemparira piriniventaigirorira terira onkametite inkemavakagaigakempara ? ¡ Garatyo yagaveaigi ! Ogari ikogagetirira Tasorintsi teranika ario onkañotumatemparo yovetsikageigirira terira inkematsaigeri .
+47006014b	~		Yogari ¿ matsi intentaigakemparira
+47006015a	~		Kañotari Kirishito ¿ matsi iragaveake intentakemparira Satanashi inkemavakagaigakempara ? ¡ Garatyo yagaveimati ! Ario ikañotaka aikiro kematsatatsirira 
+47006015b	~		¿ matsi iragaveake intentakemparira terira inkematsate inkemavakagaigakempara ? ¡ Garatyo yagavei !
+47006016	~		Aroegi antiegi ivanko Tasorintsi ikantakanirira itimi , itimasurentaigakaitari Isure . ¿ Matsi agaveaigake antentaigakemparira shineventavageigaririra ipegageigirira itasorintsite kogapage ankemavakagaigakempara ? ¡ Garatyo agaveaigi ! Ikantaketari Tasorintsi : “ Nontimimoigakeri nontentavageigakemparira ; panirosanotyo naro nonkantakempara inkematsaigakenara , narori nashintasanoigakempari . ”
+47011011	tyara okantakara		¿ Tyara okantakara nokañotantakarorira maika ? ¿ Ario tera nontasanoigempi ? ¡ Yogari Tasorintsi yogotaketyo arisano notasanoigakempi !
+47011029a	Tyanirika		Tyanirika nokemakotake tera iragavee ishintsitashigetakerora terira onkametite notsarogakaganakarityo . 
+47011029b	Tyanirika		Tyanirika nokemakotake ikañovagetagunkani nopashiventavagetanakatyo kara aikiro nokisashiigakarityo kañovagetagaigakaririra .
+47012013	~		Ariotyo nokañotagasanoigakempiri maganiro kematsaigatsirira timageigatsirira parikotipageku , panivatityo nonkantaigakempira pimpaigakenara nokogakogetakarira . ¡ Maika irororakari pikisaviigakena pineaigakenara nokañotakerora maika tera tatoita nonevitumaigempi !
+47012017	~		¿ Matsi ario nokantaigakeri yogaegi notigankaigakerira inkamosoigutempira inevinaigakempira koriki kameti nagagarantakeriniri naro ?
+48002014	antari gara		Kantankicha naro iroro noneaigavakerira ikañoiganakara maika tenigera impampiatasanoigaero yogotagaigakairira Atinkami , nokantutarityo Perero napatoitaigakara : “ ¿ Antari gara pikañotiro maika ? Pontainaiganakari papigematsaegine terira iriroegi jorioegi kañomataka ontinirikatyo pikantaiganakeri intsatagaigakerora iriroegi itsirinkakotanakerira Moiseshi , kañotari viro jorio pinavetaka papakuanakerotyo tenige pintsatagaero . ”
+48003001	~		Viroegi , Garashiakunirira , ¿ matsi tera pogotumaigae ? ¿ Matsi tera pineakoigavakempa yamatavinaigakempira ? Pogoigaketari nokenkitsatimoigakempira karanki inti nokenkitsatakotake Jesokirishito nokamantaigakempira ikamaventaigakaira ikentakotunkanira koroshiku kameti irogavisaakoigakaeniri . Okoneatimotasanoigakempi , katinkatari nogakero nokamantaigakempirira .
+48003019	tatatyo		Iroroventi ¿ tatatyo itsirinkakagavitakerira Tasorintsi Moiseshi ? Ontitari itsirinkakagavitakeri ogotasanotakenkanira onti yovetsikageigi terira onkametite maganiro matsigenkaegi . Ontitari ikogake Tasorintsi ontsatagakenkanira itsirinkakotanakerira Moiseshi kigonkero agapaakempara intsatagakerora ikantakeririra Averan pairani iripokapaakera iyashikitanakerira . Antari ikogakera Tasorintsi intsirinkakagakerira Moiseshi magatiro ikogagetakerira ontsatagakenkanira , ikantakeri isaankariite inkamantaigakerira magatiro ikantaigakeririra impo irirokya gotagaigakerine itovaireegi .
+48004009a	tyara okantaka		Kantankicha maika pikematsaigakeri , ariome nonkante irirori ipegaigakempi itomiegi , ¿ tyara okantaka pikogaigakera pinkañoiganaempara pairani aiñokyara paventaigavetari pashinipage pipegageigirira pitasorintsite kogapage ?
+48004009b	~		
+48004010	~		Viroegi pipiriniventaiganairo kutagiteri agantarira vieseta , ontiri ikyaenkara koneataatsi kashiripage , ontiri aikiro vieseta ogavisagetaganirira omirinka shiriagarini , magatirosanotyo pipiriniventaiganairo .
+48004015	Tyara okantanakara		Karanki pishineventaigavakenatyo kara , nerotyo nonkantaigakempimera pimpaigakenarome poki pinkitsogiigakerometyo pimpaigakenarora . ¿ Tyara okantanakara maika tenige pishineventaigaena ?
+48004021	~		Maika atsi kantaigena viroegi kogaigatsirira pogiatakoigakerora itsirinkakotanakerira Moiseshi , ¿ matsi tera pinkemasanoigero magatiro okantakerira ?
+48004030	tyara okanti		Kantankicha ¿ tyara okanti Itsirinkakagantakerira Tasorintsi ? Onti okanti : “ Tigankero parikoti oga nampiriantsi ontentanakerira otomi , gatanika itentumatari otomi agasanotunkanirira irashintakemparora yashintagevetarira iriri . ”
+48005007a	tyanimpatyora		Antari okyara pikematsatasanovageigavetaro Niagantsisanorira . Maikari ¿ tyanimpatyora kantaigakempira ganigera pikematsatasanoigairo ?
+48005007b	~		
+48005011	~		Napigematsaegine , naro kamantaigakempine , atsi aiñomera nonkenkitsate nonkantakera irogaratsaitagantaigakempara maganiro , gametyo ikisaigana noshaninkaegi , aikiro gametyo ikisaviiganaro nokenkitsatakotakerira Kirishito ikamaventaigakaira koroshiku .
+49004009	tata		Maika ¿ tata onkantakera “ yogaenokanaara iatanaira enoku ” ? Onti onkantakera ariotari iponiakari okyara anta enoku ipokutira aka kipatsiku .
+50001018	tyarika ikantaiga		Kantankicha tyarika ikantaiga iriroegi ikenkitsavageigakera teratyo tyara onkantumatena , onti noshinevagetaka noneaketari ikenkitsatakotasanovagetunkanira Kirishito . Aikiro ariompatyo noshinetasanovagetanakempari
+50001021	~		Maikari maika aiñokyara notimi intagatityo nokogake nompiriniventavagetakerora nantavagetakenerira Kirishito . Kantankicha pairo avisake okametitakera nonkamakera , nogotaketari onti noatake iriroku nonkantakanira nontimimotakeri .
+51002020	tyara okantaka		Antari pitentagaigakarira Kirishito ikamakera , onti kañomataka ontinirika pikamapitsaigakero yogotagantaigirira matsigenka . Maikari maika , ¿ tyara okantaka pikematsaiganakerira terira inkematsaige ?
+52002019	Tyani		Kantankicha maika nokogake nonkantaigakempira tata nogiasanoigake naroegi . Ontityo nogiasanoigake impigaatera Atinkami Jesokirishito , impogini nontentaigakempira nonkantaigakerira : “ Neri yogaegi nokematsatagaigakerira . ” ¿ Tyani gishineaigakenane ? ¿ Tyani noshineventasanoigakempa impogini ? Vintiegityo noshineventaigakempa .
+52003009	~		Nerotyo naroegi noniaigirira Tasorintsi nokantaigakeri noshineventavageigakarityo kara , pairotari yogishineasanovageiganakena noneaigakempira pikematsatasanoiganakerira , aikiro viroegi pogishineasanoiganakenara .
+54003005	~		Antari garika ikañotiro maika matsi ario iragaveake inegintevageigakerira maganiro kematsaigatsirira irisentaigakerira .
+54006007a	~		Antari akyaenkara mechoigankitsi tera tatampa ashintumaigempa . 
+54006007b	~		Ario onkañotakempa ankamaiganaera gara tatakona amumaiganai .
+58001005	~		Yogari Tasorintsi tera inkantumaigerinika isaankariite : “ Virori vinti Notomi , vikyaenka notomintaka maika . ” Aikiro tera inkantumate : “ Yogari nosaankariite impegakena Iriri , narokya pegakerine Notomi . ”
+58001013	~		Tasorintsi tera inkantumateri isaankariite ikantakeririra Itomi : “ Pirinite nonampinaku nakosanoriraku kigonkero nagaveaigakerira maganiro kisashiigakempirira . ”
+58001014	~		Maganirotari isaankariite onti itimashiigake iromperaigakemparira . Iriroegi onti isaankaigake mameri ivatsa . Omirinka itigankaigiri irimutakoigakerira maganiro irogavisaakoigakenkanirira .
+58002003	tyara ikantakerira		¿ ario tyara inkantakempara Tasorintsi irogavisaakoigakaera ? Garatyo yogavisaakotumaigai kogapage . Iketyotari gotagantankitsi Atinkami tyara ankantaigakempa irogavisaakoigakaera , impo yogari kemisantaigakeririra iriroegikya gotagaigakai aroegi .
+58002006a	Tyara okantaka		Otsirinkakotunkanitari Irinianeku Tasorintsi ikantakera Iravi iniakerira Tasorintsi ikanti : “ Nantiegi matsigenka nonaigake . ¿ Tyara okantaka pisuretakoigakenara ? Aikiro noneaigiro nogamane . 
+58002006b	tyara okantaka		¿ Tyara okantaka pipiriniventaigakenara ?
+58003016	tyani		¿ Tyani kemaigavetakari Tasorintsi iniaigakerira , kantankicha tera inkematsaigeri ? Intiegitari maganiro naigavetankicharira Ejipitoku yagaigaatirira Moiseshi itentaiganaarira parikoti .
+58003017	Tyani		¿ Tyani ikisashiigaka Tasorintsi ovashi avisavagetanake 40 shiriagarini ? Intiegitari pugatsaiganakaririra ovashi ikamageiganake anta osarigagitetapaakera .
+58003018	Tyani		¿ Tyani ikantake Tasorintsi : “ Gara pineaigiro nokashigakagaigavetakempirira pampishigopireaigakempara ? ” Intiegitari terira inkematsaigeri .
+58006004	~		Aiñoegitari kemaigavetakarorira Iriniane Tasorintsi , kantankicha yapakuaiganairo ikematsaigavetarira . Ikavintsajaigavetakarityo Tasorintsi , aikiro iniasurentaigavetakari Isure ontiri aikiro yogoigavetakatyo onti pairo okametiti Iriniane kantankicha iriroegi yapakuaiganairo magatiro . Ineaigavetakarotyo aikiro yogikoneatimoigakerira Kirishito maani iragaveane irogikoneatasanotakerira impogini aneaigakerira inkoveenkatasanotakera kantankicha tyarika ikantaigaka kañomataka tenirikatyo ineaigero . Maikari maika tyampa ankantaigakeri inkantatigaigaempara inkañoigaempara ikematsaigavetakara okyara , kañomataka ontinirikatyo ikentakoigairi Itomi Tasorintsi , aikiro ontinirikatyo isamatsanaigakeri ineakagaigakerira maganiro .
+58007011	~		Yogaegiri iyashikiiganakerira Irevi pegaigankicharira saseroroteegi iriroegitari gotagantaigirorira itsirinkakotanakerira Moiseshi ikantaigakerira maganiro intsatagaigakerora , kantankicha tera iragaveaige irogavisaakotantaigera , irorotari itigankantakaririra Tasorintsi pashini Saserorote kañotakaririra Merekisere , tera ario inkañotempari Aaron iyashikitanakerira Irevi .
+58009014	~		Kañotari iriraa piratsipage akyari agavei osaankagetirora magatiro kitsitinkantagetatsirira , iroromparorokari iriraa Kirishito pairo agaveake osaankaigakaera akañovageigara kameti ampiriniventavageiganakeroniri magatiro ikantaigakairira Tasorintsi terira ineero igamane . Yogari Kirishito tera inkañovagetumatempanika irirori , aikiro inti shintsitagakeri Isure Tasorintsi kantakanirira itimi inkamaventaigakaera irogametiaerira Tasorintsi ganiri ikisaviigairo akañovageigara .
+58010001	tyara inkantaigakempa		Yogari Moiseshi ikantaigakeri saseroroteegi tyara inkantaigakempa irogametiaigakerira Tasorintsi kameti imagisantaeroniri ikañovageigara maganiro . Kantankicha magatiro okantakerira itsirinkakerira Moiseshi onti okantakotake ipokutira Jesokirishito ikavintsajaigakaira ikamaventaigakaira . Yogaegiri saseroroteegi yovetisaigavetinirityo Tasorintsi piratsipage omirinka shiriagarini kantankicha ogari iriraa tera tyani ogavisaakotumate .
+58010029a	~		Irirompasanotyo terira inkogaige inkematsaigakerira Itomi Tasorintsi ontityo ikisaigakeri , 
+58010029b	~		aikiro ipugatsaiganakari Isure Tasorintsi kavintsajaigakeririra pairorokarityo inkisashitasanovageigakenkani , 
+58010029c	~		teranika irishineventaigemparo iriraa Kirishito saankagetirorira magatiro kañovagetagantsi .
+58010029d	~		
+58011032	Tyani		¿ Tyani pashini nonkenkitsatakoigake ? Garorokari nagavei nontsotenkaigakerira maganiro . Gara nokenkitsatakoigiri Jereon , Varaka , Santson , Jepete , Iravi , Samoiri intiegiri aikiro kamantantaigatsirira .
+58012007	~		Irorotari nonkantantaigakempirira gara pipugatsaigari Tasorintsi inkanomajaigakempira onti pantsipereakoigakempa , ontitari ipegaigakempi itomiegi ikisantaigakempirira . Pogoigaketari maganiro tomintaigacharira ikanomajaigiri itomiegi .
+58012009	~		Kañotari ananekiigira ikanomajaigaira tomintaigakairira aroegi akemisantakovageigaka iriromparorokari Tomintaigakairira timatsirira enoku pairori ankemisantakovageigakempa inkanomajaigakaera kameti ankantakaniniri antimaigake iriroku .
+58012025	tyara inkantaigakempa		Iroroventi maika kematsatasanoigeri Tasorintsi niaigakempirira maika , gara pipugatsaigumatari . Kañotari pairani ikisashiigunkanira yashikiiganakairira terira inkematsaigeri Moiseshi ikantaigavetakarira tyara inkantaigakempa ganiri ikisashitagani , aroegimparorokari pairo inkisashivageigakae Tasorintsi timatsirira enoku garika akematsaigiri irirori .
+58013006	tyarika inkantaitakena		Irorotari ankantantaigakemparira : “ Itentasanotakena Notinkami . Gara notsarogumati tyarika inkantaitakena . ”
+59002006	~		Kantankicha viroegi onti pogipashiventaigiri terira irashintavageigempa , inti pishineiga shintavageigacharira . ¿ Matsi tera iriro kisavintsaigempine shintavageigacharira yamaigimpira ipimantaigimpira ikanomaantapiniigira joese ?
+59002014	~		Napigematsaegine , tyanirika kantankitsine : “ Naro nogotake aiño paniro Tasorintsisanorira gavisaakoigajairira ” , kantankicha garika yovetsikagetiro ikantakerira ¿ arisano yogavisaakotakeri intagatira ikantake maika ? Teratyo .
+59002016a	~		Antari intagatirika pinkantavakeri : “ Kametikyara piatae , impakempitari Tasorintsi pogagutakemparira ontiri aikiro pogakemparira ” , 
+59002016b	~		¿ matsi ario opaitaka pikavintsaakerira ?
+59002018	tatoita		Kantankicha ariorika intimake kantankitsinerira : “ Virori pikantake intagati kogakotankicha agotasanoigakera aiño paniro Tasorintsisanorira gavisaakoigajairira . Arisanoniroro okogakotunkani agotasanoigakera tyara ikanta Tasorintsi , kantankicha narori nonkantake onti okogakotunkanityo aikiro avetsikageigakerora ikantakerira irirori . ” Antari garika povetsikagetiro ikantakerira , ¿ matsi tatoita ogotantakenkani arisanorika pogotake tyara ikanta ontirika tera ? , kantankicha naro novetsikagetakerotyo ikantakerira , irorotari pogotantakarira arisano nogotasanoti tyara ikanta .
+59002021	~		Pine Averan yashikiiganakairira pairani itsatagakerora ikantakeririra Tasorintsi , irorotanaketyo irogakerimera Isaako intagakenerimera , nerotyo ineantakaririra Tasorintsi kañomataka tenirikatyo inkañovagetumatempa .
+59003013	~		Aiñorika kara govagetatsirira kantetyo inkantakanira inegintevagetakempa , aikiro inkavintsaantavagetakera , kantankicha gara yaventakovageta kameti iokotagantakempaniri arisano opaitaka yogovagetakera .
+59003017	~		Kantankicha yogari yogotagasanotakerira Tasorintsi kametikya itimi , tenige inkisantavagetae , aikiro isuretakotantavagetaka , aikiro itsarogakagantavagetaka . Itsatagasanogetiro ikantakerira , tera iramatavitantumate .
+59004001a	tyara okantaka		¿ Tyara okantaka pikisavakagantaigarira ? Ontitari kantankicha pisuregisevageigarora posantepage terira onkametite , irorotari tsimajaigakempi nerotyo pikisavakagantaigarira .
+59004001b	~		
+59004012	tyanimpatyora		Kantankicha paniro Tasorintsi inti Joesesanorira kantankitsinerira impogini tyanirika kañovagetankicha , aikiro tyanirika ineake kañomataka tenirikatyo inkañovagetumatempa , panirotari irirori yagaveakera irogavisaakotantakera , aikiro inkisashitantakempara . ¿ Matsi tyanimpatyora viro kameti pinkantakerira pitovaire yovetsikake terira onkametite ?
+59004014	tatarika		Tera pogotumaige tatarika gaigakempine kamani , ontitari pikañoigakaro mararo taina omararosekantakiti tenka samani saagitevagetai .
+60002020	~		Antari ontirika pantsipereakoigakempa inkisaviigakempira ineaigakera tera pinkematsaigeri , ¿ matsi iroro irishineventaviigakempi Tasorintsi ? Garatyo . Kantankicha antari irororika pantsipereakoigakempa inkisaigakempira kogapage , ario pinkante irishineventaigakempiniroro ,
+60003013	~		Pinkogasanovageiganakerika povetsikaiganakera kametiripage , ario tyatityora inkisaviitakempi .
+60004017	~		Gakatari intsititantakemparira Tasorintsi inkisashiigakemparira maganiro terira inkematsaigeri , kantankicha mataka iketyo tsipereaiganankitsi kematsaigiririra kameti oneakenkaniniri arisanorika ikematsatasanoigiri ontirika tera . Ariotari akañoiganakari aroegi maika atsipereaiganakera . Iriromparorokari yogaegi terira inkematsaigeri pairorokarityo iratsipereavageigake inkisashiigakemparira .
+60004018	~		Iratsipereavageigavetakempatyo kematsaigatsirira kantankicha Tasorintsi irogavisaakoigakeri . Impo irirokya terira inkematsaigeri pairotyo iratsipereavageigake impogini inkisashiigakemparira .
+61003004	Tyara		“ ¿ Tyara ipokira Kirishito maika ? Kogapagetyo ikantaigake impigaate . Oga ikamageiganai yashikiiganakairira , kantankicha tekyaenka iripokumate . ¡ Kantanakaniroro pairani okyara ovetsikunkani kipatsi ovashi maika ! ”
+61003011	~		Matakatari agoigake ontsonkagetanakempara magatiro , iroroventi maika viroegi piriniventasanoigerityo Tasorintsi pisuretasanoigakemparira , aikiro ariompa pinegintetasanovageiganakempari pintimaigakera kameti .
+62002022	Tyani		¿ Tyani matagacha ? Inti yoga kantatsirira Jeso tera iriro Ikogakagakerira Tasorintsi intigankakerira irogavisaakoigakerira maganiro kematsaigakerinerira impegakempara Igoveenkariegite . Irironiroro kisashitakaririra Kirishito , teranika inkematsateri irirori , aikiro tera inkematsateri Iriri tigankakeririra .
+62003012	Tatoita		Gara pikañoigari Kain yashintakarira kamagarini , nerotyo iparantantakaririra irirenti yogakerira . ¿ Tatoita yogavitakeri ? Onti ineakera yovetsikakera kametiri , irirori onti yovetsikake terira onkametite , irorotari yogavitakeri .
+62003017	~		Tyanirika shintumagetankicharira kantankicha gara itsarogakagaigari irapigematsaegine kogakovageigankicharira , ¿ matsi ario itakari Tasorintsi ? ¡ Teratyo !
+62004020	~		Yogari kantatsirira : “ Notakari Tasorintsi ” , kantankicha ikisashitakari irapigematsatene inti tsoenti , kañotari irapigematsatene ineavetarira akyari ikishiri , irirompari Tasorintsi tera ineimateri gara opanivatumati itarira .
+62005005	Tyanimpatyo		¿ Tyanimpatyo gaveankitsine ? Intagani kantatsirira Jeso inti Itomi Tasorintsi .
+66005002	Tyani		Impo noneakeri isaankariite Tasorintsi pairorira yagaveavageti . Ikaemake ikanti : “ ¿ Tyani pairorira yavisake ikametitakera irontsireakotakerora sankevanti irampigireakerora ? ”
+66006010a	Akanivatirikara		Iriroegi ikaemaiganake ikantaigi : “ Virori vinti Notinkami , vinti Igoveenkariegite maganiro matsigenkaegi . Omirinka pikisashiigari maganiro vetsikaigirorira terira onkametite , aikiro pitsatagagetiro pikantakerira . ¿ Akanivatirikara pinkenkiventaigakenara pinkisaigakerira timaigatsirira kipatsiku gaigakenarira ? ”
+66006010b	~		
+66006017	Tyanimpatyo		gapaakatari kutagiteri inkisashitantakera . ¿ Tyanimpatyo gaveankitsine ishintsitashitavakerora ? ”
+66007013a	tyani		Impogini ikantakena paniro inampina Tasorintsi : “ ¿ Tyani yogaegi gaguigankicharira kutari kitsagarintsi ? 
+66007013b	tyara		¿ Tyara iponiaigaka ? ”
+66013004a	~		ovashi ikantaiganake : “ ¡ Ojojoo , pairo yagaveavageti yoga kempanaroniro ! ” , ineaigaketari iriro gaveakagagetakeri . Impo ario ikañotagaiganakari terira ineenkani irirori ikantaigi : “ Garatyo itimumaigi kañotakemparinerira yoka . 
+66013004b	~		Garatyo yagaveimatagani iokashitaganira . ”
+66015004a	tyampatyora		Notinkami , ¿ tyampatyora intimera kara garira ipinkatsatimpi ? 
+66015004b	Tyampatyora		¿ Tyampatyora intimera kara garira ishineventimpi ? Panirotari pikantara viro pikametivagetira tera pinkañovagetumatempa . Iripokashiigakempityo maganiro matsigenkaegi intigeroaventaigakempira inkantaigakempira ishineventaigakempi . Ineaigakempitari pikatinkatagagetakerora magatiro . ”
+66017007	Tyara okantakara		kantankicha yogari isaankariite Tasorintsi ikantana : “ ¿ Tyara okantaka pogavagetakera kavako ? Maika nonkamantagetakempiro tatoita okantakogetake oka tsinane intiri aikiro opirinitantakarira timankitsirira 7 igito ontiri 10 itsei .
+66018018	Tyampatyora		Ineaigavakerora ontinkamisevagetanakera inkaemaiganake inkantaige : “ ¡ Tyampatyora ontimaera pashini kañotaemparonerira irorori avisaenkavagetaera ! ”

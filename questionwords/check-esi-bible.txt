@@ -1,0 +1,743 @@
+40002002	Sumi		Sumi imma aniva umialgat Jews ? Tautuŋagikput uvluġiaŋa paaniin‌ŋapta , aasiuvva qairugut sitquġvigiyaqtuqługu nanġaġukługu .
+40002004	sumi		Aasii katitiłługich iluqaisa aŋaayyuliqsiqpaich , iḷisaurriḷḷu pitqura‌nik , apiqsruqtupiaŋagai sumi Christ aniyumaaġmagaan .
+40003007	~		Tavra iḷitchuġikamigich iñugiaktuat Pharisees Sadducees-lu pap‌taiqsauyyaqtuat , ilaan uqallautiŋagai , tuqunaliktun nimiġiatun ittusi , pisaasuqtusi . Isumanasi paptaiqsaugiññaġlusi pillugniaġasugalugu God-im tatavsautaa .
+40005013	qanuġluni		Ilivsi iḷitchitqurat taġiutun ittusi nunam iñuŋiñun . Taġiuq taġiuġniiġumi , qanuġluni taġiuġniḷitqigñiaqpa ? Taġiuġniiqami , anniq‌suutauŋaiqsuq supayaamun aglaan naavillugu aasii iñuich tunmalugi‌lugu .
+40005046	summan		Qanuq piviuttaġiguvsigik tamatkua piviuttaġirisi , summan niġiuk‌pisi God-mun akiḷiġñiaġasugalusi ? Tainnaptauq tax-iñik katitchirit pisuummiut .
+40005047	~		Paġlaguvsigik kisiisa aniqatiisi , allauruamik pivisi allaniñ ? Tainna‌tuttauq Jew-guŋitchuat pisuummiut .
+40006027	Nalliqsi		Nalliqsi iñuuniqtusiḷaaġumiñaitchuq uŋiarigiññaġluni .
+40006028	summan		Aasii summan uŋiarrisiginiqpisiuŋ annuġaaksraq ? Isumalaaġuti‌gisigik nauriat qanuq nautilaaŋat . Siġġaqilaitchut ukił̣harriulaitchullu ,
+40006031a	sumik		Tavraasii uŋiariñasi . Apiqsruqtuġnasi inna , sumik niġiñiaqpisa ? 
+40006031b	sumik		Sumik imiġniaqpisa ? 
+40006031c	sumik		Sumik annuġaaġniaqpisa ?
+40007003	summan		Summan pasivisigik aniqatisi killuliqirualivḷugich ilivsi pigiił̣haaġa‌luaŋŋavsi ?
+40007004	~		Tainna pikavsi , iñuktun ittusi qirugruaġmik irimiutaqallaġmi irriu‌gauramik piiqsiñiataktuatun aniqanmi iraaniñ .
+40007009	Nallivsi		Nallivsi aapauruasii aitchuġumiñaitkiksi iġñiqsi uyaġagmik apiġik‌pasi punniqaġugluni ,
+40007016a	~		Ami iḷitchuġiniaġisi piḷġusiŋisigun , napaaqtututtauq siiġñaŋisigun iḷitchuġimmatun . Grapes siiġñat naulaitchut nauruaniñ kakiḷḷaġnaliŋ‌niñ , 
+40007016b	~		fig-giḷḷu siiġñat .
+40008026	Summan		Tavra ilaan uqallautiŋagai , Summan iqsivisi ? Qanutun ukpiġutikisi‌givisi ? Tavra Jesus makinŋaruq , aasii suakługik anuġiḷu imaġlu , aasii quunniġupaluŋaruq .
+40008027	~		Tavrani iñuich kamasupaluŋarut , uqaqłutiŋ , Qanusiq uvvauna iñuk , anuġivlu immavlu kamagillaniqpatku .
+40008029	Suniaqpisiguk		Tavra nipaalarraqsiŋaruk , Iġñiġuruatiin God-mun Suniaqpisiguk ? Qaivich nagliksaaqtitchaqtuqłunuk nagliksaaqtitauviksraq nalautin‌ŋaiñŋaan ?
+40009004	Summan		Tavra Jesus iḷisimavlugich isumaŋich uqallaŋaruq , Summan pigiit‌chuanik isumavisi ?
+40009005	Nalliak		Nalliak uvva siġḷiġnaił̣haaqpa uqallaktuni inna , Piḷuutitin suliqutigi‌ŋaiqsaurut , naagga uqallaktuni , Makillutin pisuaġiñ ?
+40009011	Summan		Tavra Pharisees iḷitchuġikamirruŋ taamna , uqallautiŋagaich iḷitchit‌quraŋi , Summan iḷisaurriksi niġiqatiqaġuuva tax-nik katitchirinik piḷuusiqiriniglu ?
+40009014	Suvlu‌tauvagut		Tavra iḷitchitquraŋi John qaiŋarut Jesus-mun , uqaqłutiŋ , Suvlu‌tauvagut Pharisees-lu aŋaayyuuqapta niġiḷaitchuuvisa , iḷitchitquratin tainna piḷaisillugich ?
+40009015	~		Tavra Jesus uqallautiŋagai , Iḷisimarusi katirrusiqiruanun tuyuġ‌miaqtauruat ipiqtusugniaŋitchut nayuqtigiŋŋaan uiksraun . Aglaan uik‌srautim aullaurrauviksraŋa tikitchumaaqtuq , aasii taimanigu niġiḷait‌paallugniaqtut .
+40010025	~		Naamaruq iḷitchitquraq itkumi iḷisaurrimisun , suli kivgaq ataniġmi‌sun . Taiguġuugumiñŋa Beelzebul-mik Ataniġikkavsiŋa , qanutułhaaq iliŋisa atiġiił̣haaqtuanik taiguġniaġaasi uvaŋa kivgatka .
+40011007	sumik		John-gum iḷitchitquraŋik utiqsaġmaŋnik , Jesus uqautisarraqsiŋa‌gai iñusalaich John-kun . Tautugiaqavsiuŋ John nunagluktuamun , sumik tautugniaġasugiraġivisi ? Tautugiaqtaqpisiuŋ iñuk maliksuktaq‌siññaqtuaq ivigruatun anuġim aulataġikkaŋatun ? Naumi .
+40011008	Summanmi		Summanmi aullaġuuniqpisi ? Tautugiaqpisiuŋ iñuk annuġaaqaqtuaq akisuruanik annuġaanik ? Iḷisimarusi tamatkua akisuruanik annuġaa‌qaqtuat umialgich igluqpaŋiññiittut .
+40011009	Summanmi		Summanmi ullautiraġivisi ? Tautugiaqpisiuŋ uqaqtaa God-im ? Aaŋ , uqallautigivsi nalupqinaitchuq , kamanałhaaqtuqunnii uqaqtiŋiññiñ God-im .
+40011016	sumun		Aglaan sumun arriḷisiginiaqpik ukua paŋmapak iñuuruat ? Miq‌łiqtutun ittut avutqautiruatun piuraaqłutiŋ kasimaraġaġviŋñi , katirru‌siqiŋŋuaqłutiglu , tuquruaniglu aŋaayyurriŋŋuaqtuatun .
+40012011	Nalliqsi		Jesus kiuŋagai , Nalliqsi ilivsiññi , atautchimik imnaiqaġniġumi katakpan iḷuqsramun Savaisillugich , qiluyumiñaitpauŋ ?
+40012026	~		Tainnatuttauq Satan ilitqusiqł̣uŋi atinġiġumiŋ piyuutilutiŋ avan‌mun , ilaan suaŋŋataa isukłiññayaqtuq .
+40012027	kikulli		Aasii uvaŋa anittaġupkich ilitqusiqł̣uich Beelzebul-kun , kikulli mali‌ġuaqtivsi anittaġuuvatigik ? Tavra iliŋich isivġiqsiginiaġisi iḷisimanaqsi‌ḷugu killukuapiaġataqtilaaqsi .
+40012029	~		Iñuk suaŋarualuk qiḷiqsruiqqaaġlugu iglua pakagnaġniaqtuq suġauttaiġḷugulu . Tainnatuttauq Satan payariraksrauqqaaġniaqtuq ilit‌qusiqł̣uŋi anitauniaqpata .
+40012034	Qanuġlusi		Ilivsi tuqunalgich nimiġiat . Qanuġlusi uqaluqaġniaqpisi nakuurua‌mik piḷullavsi ? Iñuum salapqiagaa irrusipiani uqaluŋmigun .
+40012048a	kisuuva		Tavra Jesus kiuŋagaa iñuk uqallaurriñi , Kisuuva aakaga ? 
+40012048b	kisuuvat		Suli kisuuvat aniqatitka ?
+40013010	Summan		Tavra iḷitchitqurat qaivḷutiŋ Jesus apiġiŋagaat , Summan uqaq‌pich iñuŋnun uuktuutitigun ?
+40013027	Qanuqłutiŋ		Tavraasii kivgaŋisa nunaqaqtuaq ullakługu uqallautiŋagaat , Aŋuun , palauvaksraġiksuanik kanġaqsruiŋarutin nautchiaqaġvigñun . Qanuqłutiŋ palauvaksraġiitchuat salapqiqpat ?
+40013054a	Sumiñ		Aasii tikiññami ilaan nunamiñun , iḷisautiŋagai iñuich aŋaayyu‌vianni . Iñuich aliuġutchaŋarut , aasii uqallakłutiŋ , Sumiñ uvvauna iñuk piññakpa inna isumattunmik makkuniŋalu aliuġnaqtuanik savaanik ?
+40013054b	~		
+40013056	Sumiñ		Suli nayaaluŋi maani iñuuŋitpat ? Sumiñ aasiuvvauna iñuk piñ‌ñakpa isumattunmik piḷḷasivḷuniḷu aliuġnaqtuanik ?
+40014031	Summan		Jesus tavrauvvaa isaaŋagai argagni aasii tiguvlugu , uqallautivlugu , Ilivich ukpiġutikitchuatiin . Summan nalupqisukpich ?
+40015002	Summan		Summan iḷitchitquravich kamagilaitpatigik iḷisaurrutiŋich maŋ‌ŋuupta ? Qanuq niġiŋaiñŋaġmiŋ iqaġilaitkaich argatiŋ tuvraġlugu piraksriutaat maŋŋuupta .
+40015003	Summallivsauq		Jesus kiuŋagai , Summallivsauq ilivsi kamagilaitpisigik pitquraŋi God-im , kamagiłhaaqługich maŋŋuuvsi iḷisaurrutiŋich ?
+40015033	Sumiñ		Tavra iḷitchitqurat apiġiŋagaat , Sumiñ niqiksranigniaqpisa naama‌ruamik nunagluktuami niġipkaġumiñaġlugich innatun iñugiaktigiruat ?
+40015034	Qavsiñik		Tavra Jesus apiġiŋagai , Qavsiñik punniġutiqaqpisi ? Ilaisa kiuŋa‌gaat , Tallimat malġugnik , iñukisuuraniglu iqaluuranik .
+40016008	summan		Tavra Jesus , iḷisimavlugu qanuq uqaqtilaaŋat uqallaŋaruq , Uvvailivsi summan uqaaġutiqaqpisi akunnavsiññi punniġutaiññivḷusi ? Iñuich ilivsi ukpiġutikitchusi .
+40016009	Qavsiñullu		Kaŋiqsiŋaitpisisuli ? Itqaumaŋitpisigik ipkua tallimat punniġich avgu‌qapkich 5,000-nun aŋutinun ? Qavsiñullu aguummagnun immiqsiŋa‌visi ?
+40016010a	~		Naaggaunnii tallimat malġuk punniġich avguqapkich 4,000-nun ? 
+40016010b	Qavsiñullu		Qavsiñullu aguummakpagnun immiqsiŋavisi ?
+40016011	Qanuq		Qanuq imña kaŋiqsiŋiññiqpisi uqautiqaŋisilaamnik punniġnik . Qau‌nagisitchi imaksrautiŋisigun Pharisees Sadducees-lu .
+40016013	kiunisuuvanŋa		Tavra Jesus tikiññamiŋ nunaaqqiŋiññun Caesarea Philippi-m , apiġiŋagai iḷitchitqurani , Iñuich kiunisuuvanŋa , Iġñiŋa Iñuum ?
+40016015a	~		Ilaan apiġiŋagai , 
+40016015b	kiunivisiŋa		Ilivsiḷimi kiunivisiŋa ?
+40016026a	suġallakkaluaġumi		Iñuk suġallakkaluaġumi supayauranik nunamiittuanik aasii tam‌mautigilugich , ilaa suuramikunnii anniqsuġumiñaitchuq inmiñik . 
+40016026b	sumik		Sumik piitchuq iñuum simmiutiksraŋanik iñuggunmiñun .
+40017010	Summan		Tavra iḷitchitqurat apiġiŋagaat , Summan uvva iḷisaurrit pitquranik uqaġuuvat Elijah qaiqqaaqtuksrauniaġnivḷugu qaiŋaiñŋaan Christ-guruaq ?
+40017017a	qanutun		Tavra Jesus kiuŋagai , Qanutun uvva ukpiġutaisigirusi killukuaqti‌givlusiḷu iñuich . Qanutun sivisutigiruamik nayugaksraġivisi ukpiliġa‌taqtillusi ? 
+40017017b	qanutun		Qanutun igḷutugaksraġivisi ? Qaġġitchuuŋ nukatpiaġruk uvamnun .
+40017019	Suvluta		Tavrani iḷitchitqurat qaiŋarut Jesus-mun iñuił̣aakun aasii uqal‌lakłutiŋ , Suvluta uvagut ilitqusiqł̣uk anilaitpisigu ?
+40017025a	qanuq		Ilaan kiuŋagai , Akiḷiisuuruq . Tavraasii Peter isiġman iglumun , Jesus uqallaqqaaŋaruq ilaanun , Simon , qanuq isumavich ?
+40017025b	Kisuniñ		Kisuniñ umialiŋi nunam katitchisuuvat taxes-nik ? Ilaisa nunamigni iñuŋmiŋniñ naagga allat nunat iñuŋiññiñ ?
+40018001	Kiña		Tavra tavrani iḷitchitqurat ullautiŋarut Jesus-mun , apiqsrivḷu‌tiŋ , Kiña kamanaġniqsrauva atanniqsimaviani Taavruma qiḷaŋ‌miittuam ?
+40018012	Qanuq		Qanuq isumavisi ? Iñuk tallimakipiamik imnaiqaġumi , aasii iḷa‌ŋat tammaġluni , qimagniaŋitpagich tallimakipiaġuutaitchuat qimia‌luŋnun aasii ivaaqsiḷugu atausiq tammaqtuaq imnaiq ?
+40018021	qavsiiqsuaġlugu		Tavrani Peter ullautiŋaruq Jesus-mun aasii apiġivlugu , Ataniiq , qavsiiqsuaġlugu suliqutigiŋaiġñiaqpigu itqaumayumiñaiġḷugich piḷuk‌sigaluamiiqpan aniqatiga uvamnun ? Tallimat malġuiqsuaġlugu ?
+40019007	suŋiññiŋagaa		Pharisees uqallautiŋagaat , Moses suŋiññiŋagaa iñuk makpiġaamun aglagluni nalupqiñaiġutinik avirrusiuqpan , aasii aullaqtillugu nuliani .
+40019016	sumik		Tavra iñuk ullautiŋaruq Jesus-mun uqaqłuni , Iḷisaurrii , sumik savaalluatamik piruksrauvik isuitchuamik iñuggutinnagugluŋa ?
+40019017	Summan		Tavra Jesus uqallautiŋagaa , Summan apiġiviŋa sum nakuutilaaŋa‌nik ? Atausiuruq nakuuruaq . Iñuusarraqsisukkuvich kamagikkich God-im pitquraŋi .
+40019018	Nalliŋich		Nukatpiam apiġiŋagaa , Nalliŋich ? Tavra Jesus uqallaŋaruq , iñuaġ‌nak , allatuġnak , tigliŋnak , saglutiginnignak ,
+40019020	Sumik		Nukatpiaq uqallaŋaruq ilaanun , Tamatkua pitqurat iluqaisa kama‌giŋagitka . Sumik minitchivik ?
+40019025	Kiñaasii		Iḷitchitqurat tusaakamirruŋ taamna atqunaqłutiŋ qaallaŋarut uqaq‌łutiŋ , Kiñaasii annaurrauniaġniqpa ?
+40019027	Sumik		Tavra Peter uqallaŋaruq , Uvva uvagut qimaiŋarugut supayaanik aasii maliġuaqłutin . Sumik aasii piññagniaqpisa ?
+40020006	Summan		Tavrasuli five o'clock-palliġman aullatqiḷgitchuq aasii paqiłługich allat makitagiññaqtuat uqallautiŋagai , Summan makitavisi uvani ittuaqsiññaqłusi uvluqtutilaaŋatun ?
+40020012	~		uqaqłutiŋ , Ukua uvva aqulliich savaktut atausił̣hiñami ikarraġmi , aasiuvva ilivich atunim piqasiutigitin uvaptiŋnun igḷutuqługu uunnaq savaktuanun uvluqtutilaaŋatun .
+40020021	Sumik		Tavra Jesus apiġiŋagaa aġnaq , Sumik pisitquvich ? Ilaan kiuŋagaa , Unniqsuqłiigiñ ukuak malġuk iġñaka aquppiyumiñaqsiḷugik avatiŋni umialliutiguvich .
+40020032	qanuquvisik		Tavra Jesus nutqaŋaruq aasii qaitquqqaaqługik uqallautivlugik , qanuquvisik uvamnun ?
+40021010	Kiñauvvauna		Tavra Jesus tikiñman Jerusalem-mun , iluqatiŋ iñuŋi iniqpaum piallaŋarut , apiqsruqtuqłutiŋ , Kiñauvvauna ?
+40021016	qanuq		Tavra ilaisa uqallautiŋagaat Jesus , Tusaavigich makua qanuq uqaq‌tilaaŋat ? Jesus uqallautiŋagai , Aaŋ . Taiguaŋaitpisi qaŋaunnii Bible-ni uqalugnik inna , “ Miqłiqtut nanġaipkaŋagitin nanġautilluatamik . ”
+40021020	Qanuqłuni		Iḷitchitqurat tautukamirruŋ aliuŋarut uqaqłutiŋ , Qanuqłuni manna fig napaaqtua tuquliva tavrauvvaa ?
+40021023a	sum		Tavra Jesus isiġman aŋaayyuvikpaŋmun , aŋaayyuliqsiqpaich umialignaŋisalu Jew-guruat ullaŋagaat iḷisaurripkaqtillugu , aasii uqal‌lautivlugu , Sum ataniġnaqutaagun savaaġivigich tamatkua ? 
+40021023b	kia		Kia ait‌chuŋavatin taavrumiŋa ataniġnaqunmik ?
+40021025a	kia		Kia ataniġnaqutiksriñŋavauŋ John paptaiqsiñiksraŋagun , God-im naagga iñuich ? 
+40021025b	~		Tavra iliŋich uqavaaqatigiirraqsiŋarut avanmun , Uqal‌lakkupta God-miŋŋaqtauniḷugu , ilaan uqallautiniaġaatigut , 
+40021025c	summanmi		Sum‌manmi ukpiġiŋaitpisiuŋ John ?
+40021028	Qanuq		Qanuq isumavisi ? Iñuk malġugnik iġñiqaŋaruq . Ilaan ullaŋagaa aŋayukłiq aasii uqallautivlugu , Iġñiiŋ , savagiaġiñ siiġñaqaġviŋmi uvlu‌pak .
+40021031	Nalliakta		Nalliakta nalautpauŋ aapami pisuutaa ? Ilaisa kiuŋagaat , aŋayuk‌łium . Jesus uqallautiŋagai , Iḷumun uqallautigivsi , tax-iñik katitchirit akiitchullu isiqqaaġniaqtut atanniqsimavianun God-im sivuliglusi .
+40021040	qanuġ‌niaqpagich		Tavra Jesus apiġiŋagai , Iñua siiġñaqaġvium qaigumi , qanuġ‌niaqpagich taapkua napaaqsiqirit ?
+40022012	qanuqłutin		Aasii ilaan uqallautiŋagaa , Avilaitqaan , qanuqłutin isiqpich uvuŋa katirrusiqunmik annuġaaġaluaġnak . Tavra iñuum kiuŋiḷḷakkaa .
+40022017	qanuq		Uqallauttutigut qanuq isumatilaaġnik . Paaqsaaŋava uvagut pitqu‌raptiŋni naagga nalaunŋava akiḷiiruni taxes-nik Caesar-mun Rome-miut umialgannun ?
+40022018	Summan		Tavra Jesus , iḷisimavlugu pigiitchuakun sivunniuġutaat uqallaŋaruq , Summan uuktuqpisiŋa ? Ukpiŋŋuaqtuasii .
+40022020a	Kiñauna		Tavra Jesus apiġiŋagai , Kiñauna maniurami , atqalu ?
+40022020b	~		
+40022028	nallianun		Aŋŋiviŋmi , nallianun tallimat malġuuruat tuvaaqasiutiniaqpa ? Ilu‌qaġmiŋ tuvaaqatigianiŋagaat .
+40022036	nalliat		Iḷisaurrii , nalliat qaukłiuva pitqurat iluqaiññiñ ?
+40022042a	qanuq		Qanuq isummatigivisiuŋ Christ ? 
+40022042b	kia		Kia kiŋuniġivauŋ ? Ilaisa kiuŋa‌gaat , kiŋuniġigaa David-gum .
+40022043	Qanuqłunimi		Ilaan apiġiŋagai , Qanuqłunimi David , puttuqsripkaġmani ilitqusi‌ġiksuam , tuqłuŋavauŋ Ataniġmiñik , uqaqłuni ,
+40022045	Qanuqłuni		Tavra tainna David ilaata taigaa Ataniġmiñik . Qanuqłuni Christ-guruaq David-gum taikkaŋa Ataniġmiñik kiŋuniġiyumiñaqpauŋ ?
+40023017	Nalliak		Ilivsi isumalluaġiitchuasii . Sivuniqsiḷguitkisi iḷisaurrutisi . Nalliak naumałhaaqpa ? Manik kaviqsuaq naagga aŋaayyuvikpak maniŋmik kaviqsuamik ilaaguaqsiḷḷaruaq God-mun ?
+40023019	Nalliak		Qanutun sivuniqsiḷguisigirusi iḷisaurrutivsiññik . Nalliak naumał‌haaqpa ? Aitchuun naagga ikipkaivik ilaaguaqsiḷḷaruaq aitchuunmik God-mun ?
+40023033	Qanuġlugu		Ilivsi nimiġiat . Ilivsi piayaaŋich tuqunaqaqtuat nimiġiat . Qanuġlugu naŋaġumiñaipiaġiksi nagliksaaġviŋmuktitauniksraq .
+40024003a	qakugu		Tavra Jesus aquppipkaqtillugu Iġġiani Olives , iḷitchitqurat ullaŋa‌gaat iñuił̣aami uqaqłutiŋ , Uqallauttutigut , qakugu taamna piñiaqpa aŋaayyuvikpaŋmun ? 
+40024003b	sumik		Suli sumik nalunaiñŋutaqaġniaqpa qaiñiksran , isuksraŋalu nunam ?
+40024045	Kiuniaqpaasii		Kiuniaqpaasii ukpiġnaqtuaguvluni isumaturuaguvluniḷu kivgaq ? Taamnauniaqtuq kivgaq atanġata qaukłiḷiutiniakkaŋa allanun kivga‌nun niqiksritqulutiŋ piñaqsikpan .
+40025037	qaŋa		Tavrani iñuich nalaunŋaruat kiuniaġaat , Ataniiq , qaŋa tautuŋavisi‌giñ kaakavich aasii niġipkaqłutin , naagga imiġuktillutin aasii imiqtiłłu‌tin ?
+40025038	qaŋa		Suli qaŋa tautuŋavisigiñ iglaagukavich aasii paġlavlutin aimaaġviv‌siŋñun , naagga annuġaaksraiññavich aasii annuġaaqłutin ?
+40025039	qaŋa		Suli qaŋa tautuŋavisigiñ naŋinnavich naagga tigutaaġviŋmi inna‌vich , aasii takuvlutin ?
+40025044	qaŋa		Tavraptauq iliŋisa kiuniaġaat , Ataniiq , qaŋa tautuŋavisigiñ kaaktil‌lutin naagga imiġuksiupkaqłutin naagga iglaagupkaqłutin annuġaak‌sraisillutin naagga naŋinnavich , naagga tigutaaġviŋmi innavich aasii ikayuŋił̣ł̣utin ?
+40026008	Summan		Tavra iḷitchitqurat tautukamirruŋ , piavsaŋarut uqaqłutiŋ , Summan asiñun tivraġiksaun atuqpa ?
+40026010	Summan		Tavra Jesus , nalunaigivlugu taamna uqallautiŋagai , Summan isu‌maaluksaaqpisiuŋ aġnaq ? Qanuq savaaqaŋaruq savaalluatapiamik uvamnun .
+40026015	Sumik		aasii uqallakłuni , Sumik aitchuġniaqpisiŋa aitchuutigigupku Jesus ilivsiññun ? Tavra akiḷiñŋagaat iñuiññaq qulitun maniŋñik .
+40026017	Sumi		Sivullianni uvluŋisa Niqinaqivium Puvlaksautaitchuamik pun‌niġmik , iḷitchitqurat ullaŋagaat Jesus apiġivlugu , Sumi itqanaiyaquvi‌sigut qulaurrusiqiviŋmi nullautchiġviksraġnik ?
+40026040	~		Tavra Jesus utiŋaruq piŋasunun iḷitchitquramiñun aasii tautuŋa‌gai siñiktuat . Tavra uqallautiŋagaa Peter , quviqtaiḷiyumiñaiñŋavich atautchimiunnii ikarraġmi ?
+40026050	~		Jesus uqallaŋaruq ilaanun , Avilaitqaan , piñasuaġuŋ piyaqtukkan . Tavra iliŋich qaivḷutiŋ tigguġluŋagaat Jesus .
+40026054	qanuġlutiŋ		Aglaan taamna tainna pigaluaqpan qanuġlutiŋ Bible uqaluŋich taŋ‌ŋiġñiaqpat , uqaluqaqtuat aitchuutauniaġnivḷuŋa .
+40026062a	~		Tavra aŋaayyuliqsiqpaich qaukłiat makiłłuni uqallaŋaruq Jesus-mun , 
+40026062b	sumik		Kiggutiksraitpich sumik ukuak iññuk uqautikkutaagnik ilipkun ?
+40026065	~		Tavrani aŋaayyuliqsiqpaum aligaaŋagaa annuġaani , aasii uqallak‌łuni , Inmiñik iḷiuqtuq God-itun . Iñuvsaanik pasiññiktuksranik ilaanik piqaqtuksrauŋaiqsugut . Ilivsi paŋmapak tusaaganikkiksi uqamaqłuu‌taa .
+40026066	Qanuq		Qanuq sivunniivisi ? Ilaisa kiuŋagaat , Tuquruksraġuqtuq .
+40026068	kia		uqaqłutiŋ , Nalautchaġiñ , Christ-guruatiin , kia qakiqpatin ?
+40027004	Suliqutauva		uqallakłuni , Piḷuksiŋaruŋa aitchuutigivlugu tuqutautquvlugu patchi‌saitchuaq iñuk . Ilaisa kiuŋagaat , Suliqutauva taamna uvaptiŋnun ? Qaunakkuiḷḷi iliŋnik .
+40027013	qanutun		Kiisaimmaa Pilate uqallakpuq ilaanun , Tusaqsraġiŋitpigich qanutun iñugiaktigiruat uqautigikkaŋich ilipkun ?
+40027017	Kimik		Tavra katinmata Pilate apiġiŋagai , Kimik anipkaitquvisiŋa ? Barabbas-mik , naagga Jesus-mik taggisiqaqtuamik Christ-mik ?
+40027021	Nalliak		Tavra Kavanauruam apiġitqiŋagai , Nalliak ukuak iññuk anipkaqu‌visiuŋ ? Iliŋisa kiuŋagaat , Barabbas .
+40027022	qanuġniaqpigu		Pilate uqallautiŋagai , Aasii qanuġniaqpigu Jesus taggisiqaqtuaq Christ-mik ? Iluqaġmiŋ uqallaŋarut , Kikiaktuutili aŋarrauramun .
+40027023a	summan		Tavra ilaan uqallautiŋagai , Summan , 
+40027023b	sumik		sumik pigiitchualiqiŋava ? Tavra nipaallavsaaqsiññaŋarut , Kikiaktuutili aŋarrauramun .
+40027046	summan		Tavra piŋasunukpalliġman Jesus nipatutilaamisun nivliŋaruq , Eli , Eli , lama sabachthani . Taamna sivuniqaqtuaq , God-iiŋ , God-iiŋ , sum‌man suksraaqpiŋa ?
+41001024	summan		uqaqłuni , Jesus Nazareth-miu , summan iḷaksiavisigut ? Uvaniitpich suksraunġiġukłuta ? Iḷisimagiga kiutilaan . Ilivich piḷuutaitchuaq God-im pia .
+41001027	‌Sunauna		Tavra iluqaġmiŋ kamanniuŋarut , kamasukpaił̣ł̣utiŋ apiqsruqtuuti‌ŋarut ilimiŋnun , Sunauna ? Nutauruaq iḷisaurrun ? Ataniġnaqutiqaq‌łuni piraksriḷḷagai ilitqusiqł̣uich , aasii ilaisa kamagillavlugu .
+41002007a	Qanuqłuniuna		Qanuqłuniuna uqaġumiñaqpa tainna God-itun ? 
+41002007b	Kiñaliqaa		Kiñaliqaa suliqutigi‌ŋaiqsiyumiñaitchuq piḷuutinik itqaumayumiñaiġḷugich aglaan God kisimi .
+41002008	Summan		Tavra tavrauvvaa Jesus puttuqsrikami tainna isumaniġmata , uqallau‌tiŋagai , Summan isumavisi tamatkuniŋa ?
+41002009	Nalliak		Nalliak siġḷiġnaitpa uqallaksaqtuni , Piḷuutitin suliqutigiŋaiqsaurut iliŋnun , naaggaunnii uqallaktuni , Makittin , tigulugich ikuvġatin , pisuaġiñ ?
+41002016	Qanuqłuni		Tavra iḷisaurrit pitquranik Pharisee-guruat tautukługu niġiqatiqaq‌tuaq tax-nik katitchirinik , piḷuusiqiriniglu , uqallautiŋagaich iḷitchitqu‌raŋi , Qanuqłuni niġiqatiqaqpa imiqatiqaqpalu tax-nik katitchirinik piḷuusiqiriniglu ?
+41002018	Summan		Iḷaanni qakugumman iḷitchitquraŋi John Paptaiqsim Pharisee-ḷḷu niġiḷaitkayuktut aŋaayyuuqłutiŋ . Iñuich iḷaŋich ullautiŋarut Jesus-mun aasii apiġivlugu , Summan iḷitchitquraŋi John Paptaiqsim Pharisee-ḷḷu iḷitchitquraŋich niġiḷaitchuuvat aŋaayyuuqłutiŋ , aasii ili‌vich iḷitchitquratin tainna piḷaił̣ł̣utiŋ ?
+41002019	~		Jesus kiuŋagai , Isummatigivisigik tuyuġmiat katirrusiqiruani niġi‌ḷaitquvlugich ? Sivisutilaaŋatun uiksrautim nayuutiniŋata iliŋiññun , niġiḷaiññiaŋitchut .
+41002024	~		Pharisees uqallautiŋagaat , Tautukkich . Iḷitchitquratin navgirut Savaiññikun pitquraptignik .
+41003004	~		Tavra Jesus uqallautiŋagai iñuich , Pitquratiguaŋava Savaiññiġmi nakuurualiqiruni naagga pigiitchualiqiruni ? Ikayugaksraġivisigik iñuich naagga iḷatchiġḷugich Savaiññiġmi ? Tavra nivliŋiḷḷaŋarut .
+41003023	Qanuġluni		Tavra iḷisaurrit pitquranik ququaŋagai ilimiñun , aasii uqautiaqsivḷu‌gich uuktuutitigun , Qanuġluni Satan anitchumiñaqpa inmiñik ?
+41003033a	Kiuva		Tavra Jesus kiuŋagai , Kiuva aakaga aniqatiitkalu ?
+41003033b	~		
+41004013	qanuġlusi		Jesus uqallautiŋagai , kaŋiqsiŋitkuvsiuŋ una uuktuun , qanuġlusi kaŋiqsiñiaqpisigik uuktuutipayaat ?
+41004030a	sumun		Tavra Jesus uqallaŋaruq , Sumun arriḷiñiaqpigu God-im Atan‌niqsimmataa iñuŋnun ? 
+41004030b	sumik		Sumik uuktuusiġñiaqpigu nausaiññaġniŋa ?
+41004038	~		Tavra Jesus aquaniinŋaruq umiaqpauram , siñikłuni akisiqaqłuni . Aasii itiqsaŋagaat , uqallautivlugu , Iḷisaurrii , suliqutigiŋitpiuŋ ipi‌gupta ?
+41004040a	summan		Tavra ilaan uqallautiŋagai , Summan iqsisuvaitpisi ? 
+41004040b	Qanuqimña		Qanuqimña ukpiġutaitpisi ?
+41004041	~		Tavra iliŋich aliuŋarut atqunaqłutiŋ , suli uqaqłutiŋ avanmun , Qanu‌siq una Iñuk ? Anuġimunnii immavlu kamagillavatku .
+41005007	suniaqpiŋa		Suli nipaalaqpaŋaruq , Jesus , Iġñiŋa sapiġñaġniqsrauruam God-im , suniaqpiŋa ? Apiġipiaġikpiñ God-ikun , tatavsaġnaŋa .
+41005009	Sumik		Suli Jesus apiġiŋagaa , Sumik atiqaqpich ? Tavra kiuŋagaa , Uvaŋa atiġa Legion , qanuq iñugiaktugut .
+41005030	Kia		Tavra Jesus , tavrauvvaa iḷitchuġivluni ilimiñiñ suaŋŋan aullaqtilaa‌ŋanik , kiŋiaŋaruq tatiruani , aasii uqallakłuni , Kia aksiukpagich annu‌ġaatka ?
+41005031	kimun		Tavra iḷitchitquraŋisa kiuŋagaat , Tautukkitin iñusalaich tatiruat iliŋ‌nun . Summan aasii apiqsrivich kimun aksiuŋmagaaqpich ?
+41005035	~		Jesus uqaġniaqtillugu , qaiŋarut iḷaŋich kivgat Jairus igluaniñ aasii uqallautivlugu , Paniiñ tuquaniktuq . Iḷaksiaŋaiġuŋ Iḷisaurri .
+41005039a	summan		Tavra isiqami ilaan uqallautiŋagai , Summan inna pivisi qiavisiḷu ? Niviaqsiaġruk tuquŋaitchuq . Siñiksiññaqtuq .
+41005039b	~		
+41006002a	Sumiñ		Tavra Jew-guruat Savaiññiŋat tikiñman , iḷisaurrirraqsiŋaruq aŋaay‌yuviŋmi . Tavra iñugiaktuat tusaavlugu kamasuŋarut , uqaqłutiŋ , Sumiñ una iḷisimmatinikpa ? 
+41006002b	Qanuqłuni		Qanuqłuni isumattutinikpa ? 
+41006002c	Qanuqłuni		Qanuqłuni suli aliuġnaqtuanik piva ?
+41006022	Sumik		Tavra Herodias pania isiqłuni kanaakkiumman , Herod iviġaktauŋa‌ruq tuyuġmianiḷu . Aasii umialik uqallaŋaruq niviaqsiamun , Sumik piqaġukkaluaqpich ? Aitchuġumiñaġikpiñ supayaamik pigisukkaġnik .
+41006024	Sumik		Tavra niviaqsiaq aniŋaruq , aasii uqallautivlugu aakani , Sumik piqa‌ġugniaqpik ? Tavra Herodias uqallaŋaruq , Niaquanik John Paptaiq‌sim .
+41006037	~		Jesus kiuŋagai , ilivsi niġipkaqsigik . Ilaisali apiġiŋagaat , Aullaquvi‌sigut tauqsiġiaquluta 200 taalatun niqiksraŋiññik aasii niġipkaġlugich ?
+41006038	Qavsiñik		Jesus apiġiŋagai , Qavsiñik punniġutiqaqpisi ? Tautugiaqsigik . Tavra iḷitchuġianikamiŋ uqallaŋarut , Tallimanik iqallugniglu malġugnik .
+41007005	‌summan		Tavra Pharisees-lu iḷisaurriḷḷu pitquranik Jesus apiġiŋagaat , Sum‌man iḷitchitquravich kamagilaitpatigik iḷisaurrutiŋich maŋŋuupta , niġivḷutiŋ iqaġiqqaaġaluaġnagich argatiŋ ?
+41008004	Sumiñ		Tavra iḷitchitquraŋisa kiuŋagaat , Sumiñ iñuum niġisuiqsinniaqpagich ukua iñuich maani nunagluktuami ?
+41008005	Qavsiñik		Tavra Jesus apiġiŋagai , Qavsiñik punniġutiqaqpisi ? Iliŋich uqallaŋa‌rut , Tallimat malġugnik .
+41008012	Summan		Tavra aniqsaapaŋaruq atqunaq , aasii uqallakłuni , Summan makua iñuich apiqsrivat tautugukłutiŋ aliuġnaqtuamik ? Uqallautigivsi , tain‌nasiq aliuġnaqtuaq tautuktitauniaŋitchuq taapkunuŋa iñuŋnun .
+41008017	Summan		Jesus iḷisimavlugu uqautigikkaŋat uqallautiŋagai , Summan uqaaġu‌tigivisiuŋ punniġutaiññiq ? Iḷitchuġiŋaitpisi kaŋiqsiŋaił̣ł̣usiḷu ? Puqiisigi‌visi tainnatun ?
+41008018a	~		Iriqaġaluaqłusi tautuksiḷaitpisi ? 
+41008018b	~		Siutiqaġaluaqłusi tusaalaitpisi ? Pii‌guturusi .
+41008019	qavsiñik		Avguqapkich tallimat punniġich 5,000-nun iñuŋnun , qavsiñik aguummagnik siḷiviłługich iḷakunik katitchiŋavisi ? Iliŋisa kiuŋagaat , Qulit malġugnik .
+41008020	qavsiñik		Suli avguqapkich tallimat malġuk punniġich 4,000-nun iñuŋnun , qavsiñik aguummakpaŋnik siḷiviłługich iḷakunik katitchiŋavisi ? Tavra kiuŋagaat , Tallimat malġugnik .
+41008021	~		Tavra Jesus uqallautiŋagai , Naaggasuliuvva kaŋiqsiŋaitchusi uqauti‌qaqtilaamnik iḷisaurrutiŋiññik Pharisees-lu Herod-lu .
+41008023	sumik		Tavra ilaan tiguŋagaa ayauŋaruaq argaŋigun , aasii aullativlugu annisiŋagaa nunaaqqimiñ . Tavra tivvuaganikamiuŋ irrakkun , suli aksianikamiuŋ apiġiŋagaa , Sumik tautullasivich ?
+41008027	kiunisuuvanŋa		Tavra Jesus-lu iḷitchitquraniḷu aullaŋarut nunaaqqiŋiñun Caesarea Philippi-m . Iglaullaġmiŋ iḷitchitqurani apiġiŋagai , Uqallautisiŋa iñuich kiunisuuvanŋa ?
+41008029a	~		Jesus apiġiŋagai , 
+41008029b	kiunivisiŋa		ilivsiḷiasii kiunivisiŋa ? Peter-m kiuŋagaa , Ilivich Christ-gurutin God-im Tiliraŋa .
+41008036	suġallakkaluaġumi		Iñuk suġallakkaluaġumi supayauranik nunamiittuanik aasii tam‌mautigilugich , ilaa suuramik-unnii anniqsuġumiñaitchuq inmiñik .
+41008037	Sumik		Sumik piitchuq iñuum simmiutiksraŋanik iñuggunmiñun .
+41009010	sumik		Tavra quliaqtuaġiŋaitkaat taamna . Apiqsruqtuutirraqsiŋarut avan‌mun sumik aŋiñiq tuqqunmiñ sivuniqaġmagaan .
+41009011	Summan		Tavra apiġiŋagaat Jesus , Summan iḷisaurrit pitquranik uqaġuuvat Elijah qaiqqaaqtuksraunivḷugu qaiŋaiñŋaan Christ-guruaq ?
+41009012	qanuq		Jesus kiuŋagai , Iḷumun ittuq Elijah qaiqqaaġniaqtuq Christ-miñ aasii itqanaiġñiaġai supayaat . Aglaalli qanuq Bible uqaluŋich uqalu‌qaqpat Iġñiŋagun Iñuum ? Inna uqaluqaqtut , nagliksaaqpaktuksrau‌nivḷugu suli pisuŋisauluni .
+41009016	sunik		Tavra ilaan apiġiŋagai , Sunik uqavaaġutiqaqpisi ?
+41009019a	qanutun		Jesus uqallautiŋagai , qanutun uvva ukpiġutaisigirusi iñuich . Qanu‌tun sivisutigiruamik nayugaksraġivisi ukpiliġataqtillusi ? 
+41009019b	qanutun		Qanutun igḷu‌tugaksraġivisi ? Qaġġitchuuŋ nukatpiaġruk uvamnun .
+41009021	Qaŋaaglaan		Tavra Jesus apiġiŋagaa aapaŋa , Qaŋaaglaan tainnaiḷiŋava ? Ilaan kiuŋagaa , Miqłiqtuurauniġmiñiñaglaan .
+41009028	Summan		Tavra Jesus isiġman iglumun , iḷitchitquraŋisa apiġiŋagaat sui‌ḷaurivḷutiŋ , Summan uvagut ilitqusiqł̣uk anilaitpisigu ?
+41009033	Sumik		Tavra tikiñŋarut Capernaum-mun . Iglumiillaġmiŋ Jesus apiġi‌ŋagai , Sumik uqavaaġutiqaqtuasii avanmun iglaullapta ?
+41009050	qanuq		Taġiuq niqimun tivraġiksiḷaaġutauruq , aglaan taġiuq taġiuġniiqpan , qanuq taġiuġniḷiġñiaqpisiuŋ ? Taġiuġniiġñasi ilivsiññi , suli uqavaaġu‌taiḷḷusi avanmun .
+41010003	Qanuq		Tavra Jesus kiuŋagai , Qanuq pitqurat qaisauruat Moses-kun pirak‌sriŋavasi ?
+41010017	sumik		Tavra aullaġman apqutitigun , qaiŋaruq iñuk aqpamik , aasii sit‌quqłuni apiġivlugu , Iḷisaurrigiksuaq , sumik piñiaqpik isuitchuamik iñuggutinnagugluŋa ?
+41010018	Summan		Tavra Jesus kiuŋagaa , Summan taiviŋa nakuuruamik ? Nakuurua‌gitchuq iñuŋmik , God kisimi .
+41010026	Kiñaasiiñ		Tavra niġiiḷḷaqtaupiaġataŋarut uqaqłutiŋ ilimiŋnun , Kiñaasiiñ annaurrauniaqpa ?
+41010036	Sumik		Tavra ilaan uqallautiŋagik , Sumik pisitquyumavisik uvamnun ?
+41010051	Sutquvich		Tavra Jesus apiġiŋagaa , Sutquvich uvamnun ? Ayauŋaruam kiuŋa‌gaa , Iḷisaurrii , tautullasisuktuŋa .
+41011003	Summan		Aasii iñuum apiġikpatik , Summan tainna pivisik ? Uqallakkumautik , Atanġum atuġukkaa , tavrauvvaa utiqtinniaġaa atuanikkumiuŋ .
+41011005	Summan		iḷaŋisa qikaqtuat tavrani uqallautiŋagaik , Summan pituiqpitku kakaktim nuġġaŋa ?
+41011028a	sum		aasii apiġivlugu , Sum ataniġnaqutaagun tamatkua pivigich ? 
+41011028b	kia		Kia taavrumiŋa ataniġnaqusiqpatin tamatkua pitquvlugich ?
+41011030	kia		Kia ataniġnaqutiksriñŋavauŋ John paptaiqsiñiksraŋagun , God-im naagga iñuum ?
+41011031a	~		Tavra uqavaaŋarut avanmun uqaqłutiŋ , Uqallakkupta God-miŋŋaq‌tauniḷugu ilaa uqallagniaqtuq , 
+41011031b	summanmi		Summanmi ilivsi John ukpiġiŋaitpi‌siuŋ ?
+41012009	Qanuġniaqpaasiiñ		Qanuġniaqpaasiiñ iñua siiġñaqaġvium ? Qaiñiaqtuq aasii tuqullu‌gich napaaqsiqirit , aasii atukkirrutigilugu siiġñaqaġvik allanun .
+41012015	Summan		Akiḷiiruksrauvisa , naagga akiḷiiñiaŋitpisa ? Tavra Jesus , iḷisimavlugu pisaaŋŋuaġutaat , uqallautiŋagai , Summan uuktuqpisiŋa ? Qaġġirrisiŋa maniuramik tautukkumagiga .
+41012016a	Kiñauna		Tavra maniuraq qaġġisiŋagaat . Aasii ilaan apiġiŋagai , Kiñauna maniurami atqalu ? Tavra iliŋisa kiuŋagaat , Caesar .
+41012016b	~		
+41012023	nalliata		Tavra aŋŋiviŋmi , aŋikpata nalliata nuliaġiniaqpauŋ ? Qanuq talli‌mat malġuk nuliaġiŋagaat .
+41012028	Nalliat		Tavra iḷisaurri pitquranik tavraniinŋaruq naalaġniruaq uqaaġuti‌ŋiññik . Iḷitchuġivluni Jesus-mun kiulluataqtilaaŋiññik Sadducees , ilaan ullaŋagaa Jesus apiqqutiksraqaqłuni , Nalliat qaukłiuva pitqurat iluqaiññiñ ?
+41012035	‌qanuqłutiŋ		Jesus iḷisaurriñiallaġmi Aŋaayyuvikpaŋmi apiqsriŋaruq , Qanuq‌łutiŋ iḷisaurrit pitquranik uqallakkumiñaqpat Christ-guruaq kiŋuniġi‌niaġnivḷugu David-mun ?
+41012037	Qanuqłuni		David ilaata taigaa Ataniġmiñik . Qanuqłuni Christ-guruaq David-gum taikkaŋa Ataniġmiñik kiŋuniġiyumiñaqpauŋ ? Tavra iñugruiñ‌ñaich Jesus tusaaŋagaat quviasukłutiŋ .
+41013004a	qakugu		Uqallauttutigut qakugu tamatkua piñiaqpat ? 
+41013004b	suna		Suna suli iḷitchuqłiu‌tauniaqpa iluqaġmiŋ tamatkua nalautkaqsikpata ?
+41014004	Summan		Tavra tavraniinŋarut iñuich iḷaŋich piavsaktuat uqaqłutiŋ , Summan una asiñuksiññaqpa tivraġiksaun ?
+41014006	Summan		Tavra Jesus uqallaŋaruq , Iḷaksianagu . Summan isumaalluksaaqpi‌siuŋ ? Savaŋaruq savaalluatamik uvamnun .
+41014012	Sumi		Sivullianni uvluŋisa Niqinaqivium Puvlaksautaitchuamik pun‌niġmik imnaiyaaq tuqutaugayuktuq itqanaiyautauvlugu qulaurrusiqi‌viŋmi Niqinaqiniksramun . Taavrumani uvlumi iḷitchitqurat apiġiŋa‌gaat Jesus , Sumi itqanaiyaquvisigut qulaurrusiqiviŋmi nullautchiġvik‌sraġnik ?
+41014014	Sumiitpa		aasii sumupayaaq isiqpan , uqallautiyumagiktik iñua iglum , Iḷisaurri uqallaktuaq , Sumiitpa tuyuġmiaqaġvik , niġiviksraqput iḷitchitqurat‌kalu qulaurrusiqunmik ?
+41014060a	~		Tavra aŋaayyuliqsiqpaich qaukłiat makinŋaruq qitqannun , aasii apiġivlugu Jesus , 
+41014060b	~		Kiggutiksraitpich ukua iñuich uqaluŋiññun ilipkun ?
+41014063	~		Tavra aŋaayyuliqsiqpaich qaukłiata aliktuŋagai annuġaani suli uqaqłuni , Iñuvsaanik pasiññiktuksranik ilaanik piqaqtuksrauŋaiqsu‌gut .
+41014064	Qanuq		Tusaaganikkiksi God-itun iḷiuqtuaq inmiñik . Qanuq sivunniqpi‌siuŋ ? Tavra iluqaġmiŋ sivunniŋagaat tuqutauruksraġuqługu .
+41015004	~		Tavra Pilate-gum apiġitqiŋagaa , Kiggutiksraitpich ? Qanutun uvva iñugiaktigiruanik pasigaatin .
+41015012	Qanuquvisiuŋ		Tavra Pilate-gum apiġitqiŋagai , Qanuquvisiuŋ aasii uvamnun ilivsi taikkaqsi Umialgannik Jews ?
+41015014a	summan		Tavra Pilate-gum uqallautiŋagai , Summan ? 
+41015014b	sumik		Sumik pitquramik nav‌giŋava ? Tavra saqłautivsaaqsiññaŋagaat atqunapiaġataq , Kikiaktuu‌tili .
+41015034	summan		Tavra piŋasunuŋman Jesus nivliŋaruq nipatuvluni , Eloi , Eloi , lama sabachthani , sivuniqaqtuaq , God-iiŋ , God-iiŋ , summan suksraaqpiŋa ?
+41016003	Kia		Taapkua aġnat uqaŋarut ilimiŋnun , Kia aksraktitchisiniaqpatigut uyaġagmik paaŋaniñ iḷuvvivium ?
+42001018	Qanuġlugu		Tavra Zechariah uqallaŋaruq isaġuliŋmun , Qanuġlugu iḷisimaniaqpigu taamna piñiaqtilaaŋanik ? Qanuq aŋayuqaaŋaruŋa , nuliaġa‌suli aaquaŋammiuq .
+42001034	Qanuġluni		Mary-m uqallautiŋagaa isaġulik , Qanuġluni taamna piyumiñaqpa uigiḷḷaġma ?
+42001043	Qanutun		Qanutun iviġaumakkusiaqaqtigivik aakaŋata Ataniġma ullakkumi‌ñaġmaŋa .
+42001066	Qanutun		Tavra iluqaġmiŋ tusaaruat tamatkuniŋa piiguitkaaġiŋagaich , uqaur‌rutiŋarut avanmun , Qanutun aliuġnaqtiginiaqpa una miqłiqtuq . Qanuq nalunaiñŋaruq Ataniġmun itqatigitilaaŋa .
+42002048	summan		Tavra aŋayuqaakisa tautukamitku , niġiiḷḷaqtauŋaruk . Aasii aakaŋata uqallautiŋagaa , Iġñiiŋ , summan inna piŋiksraqtitpisiguk ? Uvva , aapallu uvaŋalu ivaŋagiptigiñ uŋiarrisigivlutin .
+42002049	Qanuq		Tavra Jesus kiuŋagik , Qanuq imña ivaġniqpisiñŋa ? Puttuqsriŋayu‌miñaŋagaluaqtutik ittuksrautilaamnik Aapama igluani .
+42003007	~		Tavra ilaan uqallautiŋagai iñusalaich ullautiruat paptaiquvlutiŋ ilaanun , Tuqunaliktun nimiġiatun ittusi , pisaasuqtusi . Isumanasi paptaiqsaugiññaġlusi pillugniaġasugalugu God-im tatavsautaa .
+42003010	Qanuġniaqpisa		Tavra iñusalaich apiqsruqtuŋagaat , Aasiuvva Qanuġniaqpisa ?
+42003012	qanuġniaqpisa		Tax-iñik katitchirit qaiŋammiut paptaiqsauyyaqłutiŋ , aasii apiġivlugu , Iḷisaurrii , qanuġniaqpisa ?
+42003014a	~		Aŋuyaktittauq apiġiŋagaat , 
+42003014b	qanuġniaġmivisa		Aasiiḷi uvagut qanuġniaġmivisa ? Tavra John kiuŋagai , Tigligiñagu iñupayaaq . Saglutigilugich iñuich uqautigi‌nagich . Apaigisigik akiññaktaasi .
+42004034	summan		uqaqłuni , Jesus Nazareth-miu , summan iḷaksiavisigut ? Uvaniitpich suksraunġiġuqłuta ? Iḷisimagiga kiutilaan . Ilaa Piḷuutaitchuaq God-im pia .
+42004036	Sunauna		Tavra iluqaġmiŋ aliuŋarut aasii avanmun uqaagaqsivḷutiŋ , Sunauna uqallaun ? Qanuq sumiñ ataniġnaqutiqaqłuni suaŋŋatiqaqłuniḷu piraksriḷḷagai ilitqusiqł̣uich , aasii ilaisa kamagillavlugu .
+42005021a	Kiñauna		Tavra iḷisaurriḷḷu pitquranik Pharisees-lu apiqsruqtuutirraqsiŋarut avanmun , Kiñauna iñuk uqaqpa tainna God-itun ? 
+42005021b	Kiñaliqaa		Kiñaliqaa suliqutigiŋaiqsiyumiñaitchuq itqaumayumiñaiġḷugich piḷuutinik aglaan God kisimi .
+42005022	Summan		Tavra Jesus puttuqsrikami tainna isumaniġmata , uqallautiŋagai , Summan isumavisi tamatkuniŋa ?
+42005023	Nalliak		Nalliak siġḷiġnaił̣haaqpa uqallaktuni , Piḷuutitin suliqutigiŋaiqsaurut iliŋnun , naagga uqallaktuni , Makillutin pisuaġiñ ?
+42005030	Summan		Tavra Pharisees iḷisaurriŋiḷḷu pitquranik uqamayuutiŋagaich Jesus iḷitchitquraŋi , Summan niġiqatiqaġuuvisi imiqatiqaqłusiḷu tax-iñik katitchirinik piḷuusiqiriniglu ?
+42005033	~		Tavra iñuich iḷaŋisa uqallautiŋagaat Jesus , John-gum iḷitchitquraŋi akulaitchuami niġiḷaitchuurut aŋaayyuuqłutiŋ , tamatkualu iḷitchitquraŋich Pharisees , aasiiḷi ilivich iḷitchitquratin niġiugaqtut imiqłu‌tiglu .
+42005034	~		Tavrali Jesus kiuŋagai , Isummatigivisigik tuyuġmiat katirrusiqi‌ruani niġiḷaitquvlugich sivisutilaaŋatun uiksrautim nayuutiniŋata iliŋiññun ? Tainna piñiaŋitchut .
+42006002	Summan		Tavrali iḷaŋich Pharisees uqallaŋarut , Summan uvva inna pivisi ? Qanuq pitquŋisauruq taamna pitquraptiŋni savaiññiptigun .
+42006009	~		Tavra Jesus uqallautiŋagai . Apiġigivsi uumiŋa , pitquratiguaŋava Savaiññiġmi nakuurualiqiruni naagga pigiitchualiqiruni ? Ikayugaksra‌ġivisigik iñuich naagga iḷatchiġḷugich Savaiññiġmi ?
+42006032	qanuq		Piviuttaġiguvsigik kisiisa piviuttaġirisi , kamanałhaaqtuamik piŋitchusi piḷuusiqiriniñ , qanuq piḷuusiqiritunnii piviuttaġimmigaich piviuttaġiritiŋ .
+42006033	qanuq		Aasiisuli anniqsuisuuguvsi tamatkunuŋa kisiiññun anniqsuqtikaav‌siññun , kamanałhaaqtuamik piŋitchusi piḷuusiqiriniñ , qanuq piḷuusiqirit-unnii tainna pisuummiut .
+42006034	qanuq		Suli atukkiññikkuvsi tamatkunuŋa kisiiññun niġiugvigikkavsiññun paaqłiusiaksramik , kamanałhaaqtuamik piŋitchusi piḷuusiqiriniñ , qanuq piḷuusiqirit-unnii atukkiññiguummiut piḷuusiqirinun , atukkirru‌timiktun aktigiruamik utiqtitchivigitquvlutiŋ .
+42006039	~		Jesus quliaqtuaġutiŋammigai uuktuunmik . Ayauŋaruam iñuum aullatiyumiñaitkaa ayauŋaruaq iñuk . Iluqatik qargisaġniaqtuk iḷuqsra‌mun .
+42006041	summan		Summan pasiviuŋ aniqatin killuliqirualivḷugu ilivich pigiił̣haaġa‌luaŋŋaqpich ?
+42006042	~		Tainna pikavich , iñuktun ittutin qirugruaġmik irimiutaqallaġmi irriugauramik piiqsiñiataktuatun aniqanmi iraaniñ . Ukpiŋŋuaqtuatiin , iłuaqsruqqaaġiñ iliŋnun , aasii ikayuġumiñaqsivaalluglugu aniqatin kil‌lukuaġutiŋiñik .
+42006046	~		Tuqłuġagaksraġiŋitkivsiŋa Atanivsiññik kamagiyumaŋitkuvsigik iḷisaurrutitka ilivsiññun .
+42007024	Sunaimña		Tavra John iḷitchitquraŋik aullaaniŋmaŋnik , Jesus uqautirraqsi‌ŋagai iñugiaktuat iñuich sivuniġivlugu John . Sunaimña tautugiaqta‌ġuuvisiuŋ nunagluktuamun ? Tautugiaqtaqpisiuŋ iñuk maliksuktaqsiñ‌ñaqtuaq ivigruatun anuġim aulataġikkaŋatun ? Naumi .
+42007025	Suna		Suna tautugiaqtaġuuvisiuŋ ? Tautugiaqtaqpisiuŋ iñuk annuġaaġik‌suaq akisuruanik ? Iḷisimarusi tamatkua annuġaaġipiaqtuanik annuġaaqaqtuat suli iñuuruat sunik ayuqsraŋił̣ł̣utiŋ umialgich igluqpaŋiñ‌ñiittut .
+42007026	Suna		Suna tavra tautugiaqtaġaġniqpisiuŋ ? Tautugiaqtaġuuvisiuŋ God-im uqaqtiŋa ? Aaŋ . Nalupqinaitchuq , kamanałhaaqtuq-unnii uqaqtiŋiñiñ God-im .
+42007031a	sumun		Tavra Jesus uqallavsaaŋaruq . Sumun aasii arriḷiñiaqpik ukua iñuuruat paŋmapak ? 
+42007031b	sutun		Suli sutun itpat ?
+42007042	nalliakta		Akiḷiiyumiñaiñmaŋnik , ilaan suliqutigiŋaiŋagik akiiḷaŋik . Tavra nalliakta piviuttaġiłhaaġniaqpauŋ ?
+42007049	kiña		Tavrani tavra tamatkua niġiñiaqatauruat piqatigivlugu Jesus uqar‌raqsiŋarut inmiŋnun , Uvvauna kiña suliqutigiŋaiqsiḷḷaniqpa piḷuuti‌nik ?
+42008025a	~		Jesus uqallautiŋagai iḷitchitqurani , Ukpiġutaipiaqtusiimña . Tavra taluqsratchaŋarut , suli kamanniuqłutiŋ uqaurrutiŋarut avanmun , 
+42008025b	kiuva		Uvvauna kiuva ? Anuġivlu immavlu kamagillaniġaak .
+42008028	suniaqpiŋa		Tautukkamiuŋ Jesus , ilaa nipaalaŋaruq aasii punŋaruq sivuġaanun , uqallakłuni nipatutilaamisun , Jesus , Iġñiŋa sapiġñaġniqsrauruam God-im , suniaqpiŋa ? Apiġipiaġikpiñ , tatavsaġnaŋa .
+42008030	Kiña		Jesus tavrani apiġiŋagaa , Kiña atqiñ . Aasii ilaan kiuŋagaa , Uvaŋa atiġa Legion . Qanuq iñugiaktuat ilitqusiqł̣uich isiġmiuvigiŋagaat .
+42008045	Kia		Tavra Jesus apiqsriŋaruq , Kia aksiukpaŋa ? Tavra iluqaġmiŋ piiḷaaġ‌mata , Peter uqallaŋaruq , Iḷisaurrii , iñusalaich uvva avanŋagaatin suli tatimmiraġaatin .
+42009009a	kiuva		Herod uqallaŋaruq , John niaquiŋagiga , aasiuvva kiuva taimña iñuk tusaqsraġikkaġa uqautigikkaŋat ? Tavra ilaan kasuġumaŋagaluaġaa Jesus .
+42009009b	~		
+42009018	kiunisuuvanŋa		Tavra uvlut iḷaŋanni Jesus kisimi aŋaayyuŋaruq iḷitchitqurat saniġaanni . Aasii aŋaayyuaniŋman , iḷitchitquraŋisa ullaŋagaat , aasii ilaan apiġiŋagai , Iñuich kiunisuuvanŋa ?
+42009020a	~		Tavrali Jesus apiġiŋagai , 
+42009020b	kiunivisiŋa		Ilivsiḷimi kiunivisiŋa ? Peter-m kiuŋagaa , Ilivich God-im Tiliraŋa , Christ-guruaq .
+42009025	suġallakkaluaġumi		Iñuk suġallakkaluaġumi supayauranik nunamiittuanik aasii tam‌mautigilugich , ilaa suuramik-unnii anniqsuġumiñaitchuq inmiñik . Simmiutigimmatun iñuggutini pigaa .
+42009041a	qanutun		Jesus uqallaŋaruq . Qanutun ukpiġutaisigirusi killukuaqtigirusiḷu . 
+42009041b	qanutun		Qanutun sivisutigiruamik nayuġniaqpisi igḷutuġlusiḷu ? Qaġġitchuuŋ iġñiġiñ uvuŋa .
+42010025	sumik		Tavra pitquranik iḷisaurri makinŋaruq uuktuaqsaqługu , apiġivlugu Jesus , Iḷisaurrii , sumik piruksrauvik iñuuyumiñaqsisaġluŋa isuitchuamun ?
+42010026a	qanuq		Jesus kiuŋagaa , Qanuq God-im pitquraŋi iñuutqurivat ? 
+42010026b	sunik		Sunik taiguaġuuvich taapkunani ?
+42010029	Kiuva		Tavra iḷisaurri pitquranik , kipiġniuqłuni patchisaitchukłuni inmiñi , apiġiŋagaa Jesus , Kiuva siḷalliġa ?
+42010036a	~		
+42010036b	nalliat		Tavra Jesus apiġiŋagaa , Isummatigiviuŋ nalliat taapkua piŋasut iñuich nalupqinaiqpa siḷalliutilaamiñik iñuŋmun kasuiruamun tigliga‌yuktinik ?
+42011008	~		Uqallautigivsi , makitiġniaŋiññiḷuqtum-unnii aitchuġuglugu supayaa‌mik avilaitqatigigiññaġniḷugu , aglaan pisigilugu katchuŋaiññiŋa , ilaa makitiġniaqtuq aasii aitchuġlugu qanutupayauraq piqaġuktilaaŋatun .
+42011011	~		Iḷasi aapaurut . Iġñisi apiqsrikpata iqaluktuġuglutiŋ , aitchuġniaŋitkisi nimiġiamik .
+42011012	~		Naagga apiqsrikpata manniksuġuglutiŋ , aitchuġniaŋitkisi igutchaq‌paŋmik kapputiliŋnik .
+42011013	qanutułhaaq-aasii		Tavraasii ilivsi , nakuuŋitkaluaŋŋavsi , aitchuisuurusi nakuuruamik miqłiqtuvsiññun , qanutułhaaq-aasii Aapari qiḷaŋmiittuaq aitchuiyumiñaqtigiruq Ilitqusiġiksuamik tamatkunuŋa apiqsriruanun inmiñun .
+42011018	~		Tainnatuttauq Satan ilitqusiqł̣uŋi atinġiġumiŋ piyuutilutiŋ avan‌mun , Satan suaŋŋataa isukłiññayaqtuq . Ilivsi uqaqtusi anittaiñivḷuŋa ilitqusiqł̣uŋnik suaŋŋataagun Beelzebul .
+42011019	kikulli		Aasii uvaŋa anittaġupkich ilitqusiqł̣uich Beelzebul-kun , kikulli mali‌ġuaqtivsi anittaġuuvatigik ? Tavra iliŋich isivġiqsiginiaġisi iḷisimanaqsi‌ḷugu killukuapiaġataqtilaaqsi .
+42012014	kia		Tavra Jesus kiuŋagaa , Iñuuk , kia isivġiqsiġuqpaŋa naagga autaaqti‌liutivluŋalu suġautavsiññun .
+42012017	qanuq		Aasii isumaŋaruq , Sulaŋatuġuvaŋa , qanuq uvva tutquqsiviksrait‌kaqsiruŋa sumun nauriamnik .
+42012020	kia		Tavrali God-im uqallautiŋagaa suġalliruaq , Isumalluaġiitchuatiin . Unnuapak iñuggutaiqsauniaqtutin , aasii kia piginiaqpagich suġalġich katitatin ?
+42012024	~		Qiñiqsigik tulukkat . Kanġaqsruiḷaitchut nautchiaksranik kivriḷait‌chullu . Suġalliqpiitchut , tutquqsiviiñmiut , naaggauvva God-im niġip‌kaqsimaaġai . Ilivsi akisułhaaqtusi tiŋmianiñ .
+42012025	nalliqsi		Aasiiḷi nalliqsi iñuuniqtusiḷaaġumiñaitchuq uŋiarigiññaġluni .
+42012026	summan		Tavraasii piḷḷayumiñaiññiġuvsiuŋ tainnatun mikitigiruaqunnii , sum‌man uŋiarrisaġivisigik tamatkua .
+42012042	kiuniaqpaasii		Tavra Atanġum kiuŋagaa , kiuniaqpaasii ukpiġnaqtuaguvluni isu‌maturuaguvluniḷu kivgaq ? Taamnauniaqtuq kivgaq atanġata qaukłiḷiu‌tiniakkaŋa allanun kivganun niqiksritqulutiŋ piñaqsikpan .
+42012049	~		Nunamuŋaruŋa isumaaluutauyyaqłuŋa . Qaiñiġa ittuq igniqsuġ‌matun nunamun , ami igniq ikuallaaniquyumagaluaġiga .
+42012056	~		Ilivsi ukpiŋŋuaqtuasii , iḷisimagaluaqtusi siḷaksramik qiññaŋagun nunam qiḷauvlu , aglaan kaŋiqsiḷaiññiġiksi suliqitilaaġa .
+42012057	Summan-aasii		Summan-aasii kaŋiqsiḷaitpisi ilivsiññik , sum nalaunŋatilaaŋanik piraksravsi ?
+42013004	Qanuqtauq-aasii		Qanuqtauq-aasii taipkua 18-guruat kattaqikkaŋi nasiqsruġviata Siloam tuqułługich , Isummatigivisigik piḷułhaaqłutiŋ tuqutaunasugalu‌gich iluqaiññiñ iñuuruaniñ Jerusalem-mi ?
+42013007	Summan		Tavra ilaan uqallautiŋagaa napaaqtumik qaunaksri , Uvva , piŋasuni ukiuni ullaguugaluaġiga ivaqłiavluŋa siiġñanik mattumaŋŋa fig napaaqtuaniñ , aasii paqilaitchuŋa . Kippuuŋ . Summan nunaiġutchau‌tauniaqpa ?
+42013015	~		Tavra Atanġum kiuŋagaa , Ilivsi ukpiŋŋuaqtuasii , atausiullaavlusi savaitchuani pituiqł̣ugich qimuktisi naagga kakaktisi niġrutiqaġviŋmiñ tasikuaqługich imiqtitchaqtuġuugisi savaitchuani .
+42013018a	sutun		Tavra Jesus uqallautiŋagai , Sutun itpa God-im atanniqsimmataa iñuŋnun ? 
+42013018b	sumik		Sumik uuktuusiġñiaqpigu nausaiññaġniŋa ?
+42013020	Sutun		Suli Jesus uqallatqiŋaruq , Sutun itpa God-im atanniqsimma‌taata nausaiññaġniŋa ?
+42013025	~		Taimanigu piñiaqtuq iñuktun igluqpiraqtuatun makinniaqtua‌tun aasii umiglugu upkuaq . Upkuaqpagu makitasaġataġniaqtusi siḷami aasii tigluktuaqsiḷusi upkuamun uqaġlusi , Ataniiq , upkuiġuttutigut . Ilaan kiuniaġaasi , Nalugivsi sumiŋŋaqtuagutilaavsiññik .
+42014005	Nalliqsi		Tavra Jesus uqallautiŋagai iñuich , Nalliqsi iġñiqaġumi naagga qimuktiqaġumi kataktuamik nivviamun savaiññivsiññi , tavrauvvaa nuqitchaqtuġniaŋitpauŋ ?
+42014028	nalliqsi		Qanuq nalliqsi , nappaiyumaalliġumi nasiqsruġviŋmik , aquptaaġ‌luni kisitchiqqaaġniaŋitpa qanutun akisutilaaksraŋanik naamaniaġa‌luaġmagaaġmi naatchumiñaġlugu ?
+42014031	kisu		Naagga kisu umialik , aŋuyaqatiqaqsaġumaagaqsigumi allamik umialiŋmik , naipiqtuqqaaġniaŋitpa isumalaaġutigiaqsiḷugu igḷutuuti‌yumiñaġniaqtilaamiñik 10,000-mik aŋuyaktiqaġluni 20,000-mik aŋuyaktiqaqtuamun .
+42014034	qanuġlugu		Taġiuq nakuuruq , aglaattauq taġiuq taġiuġniiġumi , qanuġlugu taġiuġniḷitqikkumiñaitchuq .
+42015004	Nalliqsi		Nalliqsi qanuġayaqpa tallimakipiamik imnaiqaqtuaq tammai‌gumi atautchimik ? Qimakkayaġai tallimakipiaġuutaitchuat , aasii ivaaqsiḷugu atausiq tammaqtuaq imnaiq paqilġataġlugu .
+42015008	qanuġayaqpa		Naagga aġnaq qanuġayaqpa qulinik maniuraqaqtuaq tammaigu‌miuŋ atausiq iḷaŋat maniŋmi ? Ikinnayaġaa qulliq aasii tilaiḷugu igluni ivammaġiksaapiaġataġlugu paqilġataġlugu .
+42015026	summagaisa		Tavra ilaan qaitquŋagaa kivgat iḷaŋat aasii apiġivlugu summagaisa .
+42015029	sumikunnii		Tavra ilaan aapani kiuŋagaa , Uvva , aippaapak savautiŋagaluaġik‌piñ kivgatun iḷivḷuŋa , aasii sumikunnii kipuqłaŋaitkaluaġiga piraksriu‌tin , naaggauvva aitchuŋaitkiŋmaunnii imnaiyaamik nagruliŋmik , quviasuqatiqaquluŋa avilaitqatimnik .
+42016002	Sunaimña		Tavra suġalliruam ququaqługu uqallautiŋagaa , Sunaimña tusaavigu ilipkun ? Qaitkich aglaich suġautchiqiraunipkun , qanuq tavraŋŋaag‌laan suġautchiqirigiŋaiġñiaġikpiñ .
+42016003	Suniaqpik		Tavra suġautchiqiri isumalaaŋaruq , Suniaqpik ? Umialiŋma anitkaq‌sigaaŋa savaamniñ . Kurriḷguiñmiuŋa , kanŋugimmigiga piatchiaqtaġ‌niq .
+42016005	Qanutun		Tavra qaitquŋagai umialiŋmi akiiḷaqtuqtiŋi atausiullaavlugich . Sivulliq uqallautiŋagaa , Qanutun akiiḷaqpiuŋ umialiga ?
+42016007	Qanutulli		Tavra uqallautilgitkaa alla , Qanutulli akiiḷaqaqpich ? Ilaa uqallaŋa‌ruq , 1,000-tun bushels palauvaksranik . Suġautchiqirim uqallautiŋagaa , Iḷaŋich piiyaġlugich aglagiñ 800-mik .
+42016011	qanuġlusi		Tavraasii ilivsi ukpiġnaġniaŋaitkuvsi aŋalatchiñivsiññi nunami suġa‌liġnik , qanuġlusi ukpiġnaġniaqpisi aŋalatchisaġuvsi qiḷaum iḷumun ittuanik suġaliŋiñik ?
+42016012	~		Suli ukpiġnaŋaitkuvsi aŋalatchiñivsigun God-im piŋiñik maani , aitchuusiaqaġniaŋitchusi ilivsi pivsiññik taimanigu .
+42017007	Nalliqsi		Nalliqsi kivgaqaqtuaq nunaliqiruamik naagga qaunaksriruamik imnaiñik , aimman uqallautilaitkiksi inna , Aquvillutin niġiñiaġiñ .
+42017017	Nauŋ		Tavra Jesus uqallaŋaruq , quliguŋitpat ipkua mamittuat ? Nauŋ ipkua quliŋŋuġutaiḷat ?
+42017018	~		Utiġumiñaŋagaluaġmiut quyyavigisuglugu God . Aglaan uvvauna Samaria-ġmiu utiŋaruq .
+42017020	qakugu		Iḷaŋisa Pharisees apiġiŋagaat Jesus qakugu atanniqsimmataa God-im isagutiniaġmagaan . Ilaan kiuŋagai , Atanniqsimmataa God-im isagutiyumaaŋitchuq tautuŋnaġluni .
+42017037	sumun		Tavra iḷitchitqurat apiġiŋagaat , Ataniiq , sumun aullaurrauniaqpat ? Jesus kiuŋagai , Sumipayaaq siḷu inman , tavrani tiŋmiaqpaich katit‌chuurut .
+42018018	sumik		Tavra Jew-guruat umialiŋnaŋata apiġiŋagaa Jesus , Iḷisaurrigik‌suatiin , sumik piñiaqpik isuitchuamik iñuggutinnagugluŋa ?
+42018019	Summan		Jesus kiuŋagaa , Summan taiviŋa nakuuruamik . Nakuuruagitchuq iñuŋmik God kisimi .
+42018026	Kiñami		Iñuich tusaaruat taavrumiŋa uqallaŋarut , Kiñami annaurrauniaġ‌niqpa ?
+42018036	summagaisa		Tavra tusaavlugich iñusalaich tamaunnaaqtuat , ilaa apiqsriŋaruq summagaisa .
+42018041	Sumik		Sumik pisitquvich uvamnun . Ilaa uqallaŋaruq , Ataniiq , tautuksiḷḷa‌sisuktuŋa .
+42019007	~		Tavra iñuich tautukamirruŋ taamna iluqaġmiŋ uqamayurraqsiŋarut , Taamna iñuk tuyuġmiaguyyaqtuq piḷuusiqirimun .
+42019023	Summan		Summan aasiuvva ikuŋitpigich manitka maniqaġviŋmun , aasii qai‌guma tasuġayakkatka naggutituummaisa .
+42019031	Summan		Iñuum kialiqaa apiġikpatik , Summan pituigaqsivitkuuna , uqallauti‌yumagiktik inna , Atanġum atuġukkaa .
+42019033	Summan		Tavra pituiqsisaġniaqtillugik kakaktimik , iñuŋisa kakaktim uqal‌lautiŋagaik , Summan pituigaqsivitku kakakti ?
+42020002a	sum		Aasii apiġivlugu , Uqallautitigut sum ataniġnaqutaagun tamatkua pivigich ? 
+42020002b	kia		Kia taavrumiŋa ataniġnaqusiqpatin tamatkua pitquvlugich ?
+42020005a	~		Tavra iliŋisa uqaaġutigiŋagaat taamna avanmun , Uqallakkupta God-miñ piñiḷugu , ilaa uqallagniaqtuq , 
+42020005b	summan		Summan John ukpiġiŋaitpisiuŋ ?
+42020013	Qanuġniaqpik		Tavra iñua siiġñaqaġvium uqallaŋaruq , Qanuġniaqpik uvaŋa ? Tili‌ñiaġiga piviuttaġikkaġa iġñiġa . Nalupqinaitchuamik taluġiniaġaat .
+42020015	Qanuq-aasii		Tavra aninŋagaat siiġñaqaġviŋmiñ aasii tuqułługu . Tavraasii Jesus apiġiŋagai , Qanuq-aasii piñiaqpa iñua siiġñaqaġvium napaaqsi‌qirinun ?
+42020017	Sunamiuvvauna		Tavra Jesus qiviaqługich iñuich uqallaŋaruq , Sunamiuvvauna aglau‌simava Bible-ni inna ? “ Kaŋiġalluŋmi uyaġagruaq , piitchuiññiqsrapiaq igluqpiñiġmi , taamna igluqpirit iginŋagaat . ”
+42020023	~		Tavra Jesus puttuqsriŋagaa iñuich savituġmiaġutaat , aasii uqallau‌tivlugich ,
+42020024a	kia		Mannisiuŋ uvamnun maniuraq . Kia una arriŋa aglaŋiḷu . Ilaisa kiu‌ŋagaat , Caesar-m .
+42020024b	~		
+42020033	nalliata		Tavra aŋŋiviŋmi , aŋikpata nalliata nuliaġiniaqpauŋ ? Qanuq talli‌mat malġuk nuliaġiŋagaat .
+42020041	Qanuġlutiŋ		Tavra Jesus apiġiŋagai , Qanuġlutiŋ uqallausiġiyumiñaqparruŋ Christ iġñiġiniḷugu David-mun .
+42020044	Qanuqłuni		David ilaata taigaa Ataniġmiñik . Qanuqłuni Christ-guruaq David-gum taikkaŋa Ataniġmiñik kiŋuniġiyumiñaqpauŋ ?
+42021007a	qakugu		Tavra ilaisa apiġiŋagaat , Iḷisaurrii , qakugu taamna piñiaqpa ? 
+42021007b	sumik		Suli sumik nalunaiñŋutaqaġniaqpa taamna piyumaagaqsikpan ?
+42022009	Sumun		Iliŋikta apiġiŋagaak , Sumun itqanaiyaġiaquvisiguk taavrumiŋa .
+42022011	Sumiitpa		aasii sumupayaaq isiqpan , uqallautiyumagiktik iñua iglum , Iḷisaurri uqallaktuaq , Sumiitpa tuyuġmiaqaġvik , niġġiviksraqput iḷitchitqurat‌kalu qulaurrusiqunmik ?
+42022027	Nalliak		Nalliak kamanaġniqsrauva , iñuk aquppiruaq niġġiviŋñi , naagga niqłiqsuqtuaq ? Taamna aquppiruaq niġġiviŋñi . Aglaan uvaŋa kivga‌ġimmatun itkivsiŋa .
+42022046	Summan		Tavra ilaan uqallautiŋagai , Summan siñikpisi ? Makillusi aŋaayyusitchi payariŋitchumagaasi ikł̣igutchaktinniaġutim .
+42022064	Kia		Suli irrak mattutchiqł̣ugik apiġiraġaŋagaat , Kia qakiqpatin ? Nalaut‌chaġiñ .
+42022071	~		Tavra iliŋich uqallaŋarut , Iñuvsaanik pasiññiktuksranik ilaanik piqaqtuksrauŋaiqsugut . Uvagut paŋmapak tusaaganikkivut ilaan uqa‌luŋi Iġñiġinivḷuni God-mun .
+42023022a	summan		Piŋayuaŋni Pilate-gum uqallautigalualgitkai , Summan ? 
+42023022b	sumik		Sumik pigiitchuamik piŋava ? Iḷitchuġiŋitchuŋa ilaani qanusipayaamik patchi‌siksramik tuqurrutauyumiñaqtuamik . Tavra ipiġaqtuqtisiññaġlugu tigutaaqtauŋaiqsinniaġiga .
+42023031	qanutun		Qanuq tainna pikparruŋ iñuk patchisaitchuaq paŋmapak , qanutun piñiaġmivat iñuŋnun taimanigu ?
+42024005	Summan		Tavra iqsitchakłutiŋ aġnat punŋarut nunamun . Iññuk uqallaŋaruk ilaiññun , Summan ivaqpisiuŋ iñuuruaq akunġanni tuquŋaruat ? Uva‌niinŋitchuq . Aŋiŋaruq tuqqunmiñ .
+42024017	Sunaimña		Tavra ilaan uqallautiŋagik , Sunaimña uqaaġutigiraqtik avanmun pisuallaptik ? Tavra iliŋich nutqaŋarut , qiññaqaŋaruk taapkuak ipiqtu‌suktuatun .
+42024019	Sut		Tavra ilaan apiġiŋagik . Sut piruat ? Iliŋiktali kiuŋagaak , Ivrumuuna Jesus-kun Nazareth-miukun , uqaqtaagun God-im sapiġñaqtuakun savaŋniġmiñi uqaluŋmiḷu sivuġaani God-im iluqaġmiglu iñuich .
+42024025	~		Tavra Jesus uqallautiŋagik , Isumatuitchutik ukpikallaitchutiglu iluqaiññik uqaqtiŋisa God-im uqalugiŋaraŋiññik .
+42024038a	summan		Tavra Jesus uqallautiŋagai , Summan isumaalukpisi ? 
+42024038b	summallu		Summallu nalupqisukpisi isumavsiññi ?
+43001019	kiummagaan		Uvvali uqaluktuaŋi John . Jew-guruat tilisiŋarut aŋaayyuliqsi‌miŋnik Levi-ñiglu Jerusalem-miñ apiqsruġiaqługu kiummagaan .
+43001021	Kiuviñmi		Tavra apiġiŋagaat , Kiuviñmi ? Elijah-uvich ? Ilaa uqallaŋaruq , Elijah-uŋitchuŋa . Uqaqtauvich God-mun Moses-tun itchumaaqtuaq ? Ilaan kiuŋagai , Naagga .
+43001022a	Kiuviñmi		Ilaisa apiġiŋagaat , Kiuviñmi ? Kiggutiksraqaġumaugut tilisiruanun uvaptiŋnik . 
+43001022b	qanuq		Qanuq uqallausiġiyumiñaqpich ilipkun ?
+43001025	summan		Ilaisa apiġiŋagaat , Christ-guŋitkuvich , naaggaunnii Elijah-uŋitkuvich , naagga taimñauŋitkuvich uqaqtaa God-im , summan paptaiqsivich ?
+43001038a	suvisik		Jesus kiŋiaqłuni tautuŋagik maliktuak , aasii uqallautiŋagik , Suvi‌sik ? Iliŋikta apiġiŋagaak , 
+43001038b	sumi		Rabbi , ( sivuniqaqtuaq Iḷisaurrii ) , sumi iniqaqpich ?
+43001046	Sunapayaaq		Nathanael-gum uqallautiŋagaa , Sunapayaaq nakuuruaq qaiyumi‌ñaqpa Nazareth-miñ ? Philip-gum kiuŋagaa , Qaiḷutin tautugiaġuŋ .
+43001048	Qanuqłutin		Nathanael-gum uqallautiŋagaa Jesus , Qanuqłutin iḷisimaviŋa ? Tavra Jesus kiuŋagaa , Philip-mun qaitquŋaiñŋaqpich tautuŋagikpiñ ataaniitillutin fig napaaqtuata .
+43002004	~		Tavra Jesus uqallautiŋagaa , Aġnaaq uŋiarrisigikkan uvaŋa uŋiarrisa‌ġiŋitkiga . Ikarraġa tikiñŋaitchuqsuli .
+43002018a	~		
+43002018b	sumik		Tavra Jew-guruat apiġiniqłaŋagaat , Sumik aliuġnaqtuamik piyu‌miñaqpich nalupqinaiyautiksraġnik ataniġnaqutiqaqtilaaġnik tainna piyumiñaqłutin .
+43003004	Qanuġluni		Nicodemus uqallaŋaruq ilaanun , Qanuġluni iñuk aniyumiñaqpa utuqqalikami ? Isitqikkumiñaqpa aakami iḷuanun aasii aniḷuni ?
+43003009	Qanuġluni		Nicodemus uqallaŋaruq ilaanun , Qanuġluni taamna piyumiñaqpa ?
+43003012	qanuġlutin		Uqautiŋagupkiñ nunamiŋŋaqtauruanik aasii ilivich arguagivlugich , qanuġlutin ukpiġiyumiñaqpigich quliaqtuaġutigupkiñ qiḷaŋmiŋŋaqtau‌ruanik ?
+43004009	Qanuġimña		Tavra Samaria-ġmium aġnam kiuŋagaa , Qanuġimña ilivich Jew-guruatiin qasiḷivich imiksraġnik uvamniñ , aġnamiñ Samaria-ġmiumiñ ? Qanuq Jew-guruat piñiaqatiqalaitchut Samaria-ġmiunik .
+43004011	Sumiñ		Aġnam uqallautiŋagaa , Aŋuun , imiqtautiksraitchutin , nivviam imġa atchiksuq . Sumiñ piyumiñaqpiuŋ taamna iñuunaqtuaq imiq ?
+43004027a	nalliat-unnii		Tavrani iḷitchitquraŋi qaiŋarut . Niġiiḷḷaqtauŋarut ilaan uqaqati‌gimammagu aġnaq , aglaan nalliat-unnii apiqsriŋaitchuq , Susukpich ? 
+43004027b	summan		naagga , Summan uqaqatigiviuŋ aġnaq ?
+43005012	Kisuimma		Ilaisa apiġiŋagaat , Kisuimma iñuk uqallaktuaq iliŋnun , tigulugich ikuvġatin pisuaquvlutin ?
+43005044	qanuġlusi		Nanġautisuuruasii avanmun aasii suliqutigiŋił̣ł̣ugu nanġausiaksraqsi God-miñ kisianiñ , qanuġlusi ukpiġumiñaqpisi ?
+43005047	qanuġlugich		Aasii ukpiġiŋiññavsigik aglaaŋi , qanuġlugich ukpiġiniaqpisigik uqalutka ?
+43006005	Sumiñ		Qiviaqami tautuŋagai iñusalaich qairuat inmiñun , Jesus uqallautiŋagaa Philip , Sumiñ tauqsiġñiaqpisa punniġnik makua iñuich niġitqulugich ?
+43006009	Suliqutauniaqpat		Imma nukatpiaġruk maaniittuq tallimanik barley-ñik punniġutilik malġugniglu iqalluŋnik . Suliqutauniaqpat innatun iñugiaktigiruanun ?
+43006025	qaŋa		Paqinnamirruŋ taaganitchiani tatchim , ilaisa uqallautiŋagaat , Rabbi , qaŋa mauŋaqpich ?
+43006028	Suruksrauvisa		Tavra ilaisa apiġiŋagaat , Suruksrauvisa siġġaqutiqaġniaġupta savaa‌ġitquraŋiñik God-im ?
+43006030a	sumik		Ilaisa kiuŋagaat , Sumik piñiaqpich aliuġnaqtuamik nalupqinaiġuglugu kiutilaan uvagut tautuaksraptiŋnik aasii ukpiġluta ? 
+43006030b	sumik		Sumik piñiaq‌pich ?
+43006042	Suvluniasii		Iliŋich uqallaŋarut , Jesus-guŋitpauna , iġñiŋa Joseph-gum ? Iḷisima‌givut aapaŋalu aakaŋalu . Suvluniasii paŋmapak uqaqpa , Uvaŋa atqaŋaruŋa qiḷaŋmiñ ?
+43006052	Qanuġluni		Jew-guruat tavrani uqavaaqatigiirraqsiŋarut avanmun uqaqłutiŋ , Qanuġluni uuma iñuum aitchuġumiñaqpatigut timimiñik niġitqu‌luta ?
+43006060	Kiña		Iñugiaktuat iḷitchitquraŋisa tusaakamisigik tamatkua uqaluich uqallaŋarut , Siġḷiġnaqtut taapkua uqaluich . Kiña kaŋiqsiyumiñaqpa sumik sivuniqaqtilaaŋanik ?
+43006062	Qanuq-aasii		Qanuq-aasii piñiaqpisi tautuaqsiguvsiuŋ Iġñiŋa mayuqtuaq irvigiŋa‌ramiñun sivuani ?
+43006068	kimun		Simon Peter-m kiuŋagaa , Ataniiq , kimun aullaġniaqpisa ? Ilivich uqaluqaqtutin iñuunaqtuanik isuitchuamun .
+43007011	Sumiitpaimña		Jew-guruat ivaġaluaŋagaat niqinaqiviŋmi uqaqłutiŋ , Sumiitpaimña ?
+43007015	Qanuqłuni		Jew-guruat aliuŋarut iḷisaurrutaagun uqaqłutiŋ , Qanuqłuni una iñuk iḷisimatigiva iḷisaurriqaŋaitkaluaŋŋaġmi ?
+43007019	Summan		Moses aitchuŋaitpasi pitquranik ? Naaggauvva nallivsiunnii kamagi‌ŋitkai pitqurat . Summan tuqurviksraqsiuqpisiŋa ?
+43007020	Kia		Iñuich kiuŋagaat , Ilitqusiqł̣uqaqtutin . Kia tuqurviksraqsiuqpatin ?
+43007023	summan		Nalunaiñŋutchiḷḷakavsiuŋ nukatpiaġruk Savaiññiġmi , Moses pitquraŋi naviguŋił̣ł̣ugich , summan qinnautivisiŋa pisigivlugu iłuaqsikapku iñuum timaa surruipiaqługu Savaiññiġmi ?
+43007035	Sumuaqsivauna		Tavra Jew-guruat uqaurrutiŋarut avanmun , Sumuaqsivauna uvaptiŋnun paqitchumiñaiġḷuni ? Ilaa sivuniqaqpa aullaġumavluni Jew-guŋitchuat nunaŋiññun , siaminŋaruat Jew-guruat iñuuviŋiññun , aasii iḷisautilugich Jew-guŋitchuat ?
+43007036	Sumik		Sumik sivuniqaqpauŋ uqallakami , Ivaġniaġaluaġivsiŋa paqitchumi‌ñaitkivsiŋa ? Sumik suli sivuniqaqpauŋ , Aullaġviksrautimnun qaiyumi‌ñaitchusi ?
+43007041	~		Allalli uqallaŋarut , Ilaa Christ-gupiaqtuq . Aglaan iḷaŋich uqalla‌ŋammiut , Christ qaiyumaaqpa Galilee-miñ ?
+43007045	Summan		Tavra tiguriŋich utiŋarut aŋaayyuliqsiqpagnun Pharisee-ñullu , uqallautipkaqłutiŋ-aasii , Summan qaġġisiŋitpisiuŋ ?
+43007048	Nalliŋich		Nalliŋich ataniġnaqusiraqtuat naagga Pharisee-ñiñ ilaanun ukpili‌ŋavat ?
+43007051	~		Pitqurapta isivġiqusuuvarruŋ iñuk uqaqtitqaaŋaunnagu suli iḷitchu‌ġigaluaġnagu sumik piŋatilaaŋa ?
+43008005	Qanuġli		Moses pitqurani piraksriŋagaatigut tainnasiq uyaġaktautquvlugu . Qanuġli una aġnak uqallausiġiviuŋ ?
+43008010	nauŋ		Jesus qiviaŋaruq aasii uqallautivlugu , Aġnaaq nauŋ ipkua iñuich ? Nalliata-unnii isivġiŋitpatin suksraunġiqsauyumiñaqsiḷutin ?
+43008019	sumiitpa		Tavra iliŋisa apiġiŋagaat , Aapan sumiitpa ? Jesus kiuŋagai , nalugip‌tiguk Aapagalu . Iḷitchuġiŋaguvsiŋa iḷisimayumiñaġaluaġmigiksivsauq Aapaga .
+43008025a	kiña		Iliŋisa uqallautiŋagaat , Kiña ilivich ? 
+43008025b	~		Jesus uqallautiŋagai , Taavrumiŋauruŋa uqallautiŋasugaavsi isuaniñ-qaŋa .
+43008033	Qanuqłutin		Ilaisa kiuŋagaat , Uvagut maŋŋuqaqtugut Abraham-mik , aasii kiv‌gauŋaitchugut kimulliqaa . Qanuqłutin uqallakpich , Atanġiqsitauniaq‌tusi ?
+43008043	Summan		Summan kaŋiqsiḷaitpisiuŋ uqautigikkaġa ? Qanuq uqalumnik naa‌laġniḷguitchusi .
+43008046a	nallivsi		Nallivsi qanuqpisiiḷḷiyumiñaitkaaŋa piḷuusiqiniḷuŋa . 
+43008046b	summan		Summan aasii ukpiġisuŋitpisiŋa uqautikavsi iḷumun ittuamik ?
+43008053	Kiunasugivich		Kamanałhaaqpich aapaptiŋniñ Abraham-miñ tuquŋaruamiñ ? Suli uqaqtiŋi God-im tuquŋammiut . Kiunasugivich uvva ?
+43008057	~		Tavra Jew-guruat uqallautiŋagaat , 50-nik ukiuniŋaitchutin-suli , aasii tautuŋaviuŋ Abraham ?
+43009002	kiña		Aasii iḷitchitquraisa apiġiŋagaat , Rabbi , kiña piḷuksiŋava , una iñuk naagga aŋayuqaak , aniŋaniqpauna ayauŋavluni ?
+43009010	Qanuqłutin		Iliŋisa uqallautiŋagaat , Qanuqłutin ayauŋaiqpich ?
+43009012	Sumiitpaimma		Ilaisa apiġiŋagaat , Sumiitpaimma ? Ilaan uqallautiŋagai , Naluruŋa .
+43009016	Qanuġluni		Iḷaŋich Pharisees uqallaŋarut , Taimña iñuk God-miŋŋaqtuaguŋit‌chuq , qanuq kamaksriḷaitchuq Savaiññikun pitquranik . Allalli uqallaŋarut , Qanuġluni iñuk piḷuusiqirauruaq piyumiñaqpa tainnatchiñik aliuġnaqtuanik ? Tavrani atinġiŋarut .
+43009017	Qanuġli		Tavra Pharisees apiġitqiŋagaat ayauŋaŋaruaq , Qanuġli uqallau‌siġiviuŋ ilaa ayauŋaiqsinŋammatin ? Ilaan kiuŋagai , uqaqtauruq God-mun .
+43009019	Qanuqłuni		Aasii apiġiŋagaik , Una iġñiġivitku , uqausiġikkaqtik aniŋanivḷugu ayauŋavluni ? Qanuqłuni paŋmapak qiñillasiva ?
+43009026a	Qanusiġaqpatin		Ilaisa apiġiŋagaat , Qanusiġaqpatin ? 
+43009026b	Qanuqłuni		Qanuqłuni ayauŋaiqsitpatin ?
+43009027	Summan		Ilaan kiuŋagai , Quliaqtuaġutianiŋasugaavsi , aasii naalaġnisuŋit‌chusi . Summan tusaatqigukpisiuŋ ? Ilivsivsauq iḷitchitquraliutisukpisi ilaanun ?
+43009034	~		Ilaisa kiuŋagaat , Aniŋapiallaktutin piḷuutikun . Aasiuvva iḷisauti‌niaqsaavisigut ? Tavra ilaisa aninŋagaat aŋaayyuviŋmiñ .
+43009036	kiuva		Ilaan kiuŋagaa , Aŋuun , imma kiuva ukpiġvigiyumagiga ?
+43010020	Summan		Iñugiaktuat uqaŋarut , Ilaa ilitqusiqł̣uqaqtuq aasii kinnaġuqłuni . Summan naalaġniraksrauva ?
+43010021	~		Allat uqallaŋarut , Makua uqalugiŋitkai iñuum ilitqusiqł̣uqaqtuam . Ilitqusiqł̣uk qiñillasipkaiḷḷava ayauŋaruanik ?
+43010024	Qanutun		Tavra Jew-guruat katinŋarut avataanun aasii uqallautivlugu , Qanutun sivisutigiruamik nalautchuġaqtinniaqpisigut ? Christ-guguvich , uqallautitigut nalupqinaiġḷugu .
+43010032	nalliatigun		Jesus kiuŋagai , Qiñiqtinŋagivsi iñugiaktuanik savaalluatanik Aapamiñ , nalliatigun tamatkua uyaġagniaqpisiŋa ?
+43010036	summan		Taamna tainnainman , summan pasivisiŋa uqamaqłuŋnivḷuŋa uqallakama Iġñiġinivḷuŋa God-mun ? Taamnauruŋa Aapam piksraqtaaġi‌ŋakkaŋa aasii tilivḷuŋa nunamun .
+43011034	sumun		Aasii ilaan apiġiŋagai , Sumun iḷiŋavisiuŋ ? Ilaisa kiuŋagaat , Ataniiq , qaiḷutin tautugiaġuŋ .
+43011047	Qanuġniaqpisa		Tavra aŋaayyuliqsiqpaich Pharisees-lu katinŋagaich ataniġnaqusi‌raqtuat aasii uqallakłutiŋ , Qanuġniaqpisa ? Qanuq taimña iñuk savaktuq iñugiaktuanik aliuġnaqtuanik ukpiġnaqtuanik iñuŋnun .
+43011056	Qanuq		Ilaisa ivaŋagaat Jesus suli uqaqłutiŋ avanmun qikallaġmiŋ aŋaayyu‌vikpaŋmi , Qanuq isumavisi ? Niqinaqiyaqtuġniaŋiññasugivisiuŋ ?
+43012005	Summan		Summan una tivraġiksaun tuniŋaitpa 300 taalamun aasii aitchuutigi‌lugich iḷiappauruanun ?
+43012027	qanuq		Paŋmapak iłuiḷḷiuqpaktuŋa . Aasii qanuq uqallagniaqpik ? Uqallagniaqpik , Aapaaŋ annautiŋŋa uumaŋŋa ikarraġmiñ ? Naumi , taamna sivuniġivlugu tikitchuŋa uumuŋa ikarraġmun .
+43012034a	Qanuġlutin		Iñugiaktuat kiuŋagaat , Tusaaŋarugut pitquraniñ Christ innivḷugu isuitchuamun . Qanuġlutin uqallakkumiñaqpich Iġñiŋa Iñuum kivik‌tauruksrauniḷugu ? 
+43012034b	Kiuvauna		Kiuvauna Iġñiŋa Iñuum ?
+43012038a	kia		Tainnainŋaniqsuq uqaluk uqautigiŋakkaŋa uqaqtaata God-im Isaiah-m taŋŋiquvlugu , “ Ataniiq , kia ukpiġiŋavauŋ quliaqtuaqput , 
+43012038b	kimun		suli kimun Atanġum salapqiŋavauŋ suaŋŋatini . ”
+43013025	kiuva		Tavra tainna ikusiksimaallaġmi qaniłłuni Jesus-mun uqallautiŋagaa , Ataniiq , kiuva ?
+43013036	sumuŋniaqpich		Simon Peter-m apiġiŋagaa , Ataniiq sumuŋniaqpich ? Jesus kiuŋagaa , Aullaġviksrautimnun malikkumiñaitkivsiŋa paŋmapak , aglaan maligutiniaqtusi aquvatigun .
+43013037	summan		Peter-m apiġiŋagaa , Ataniiq summan malikkumiñaitpigiñ paŋmapak ? Itqanaitchuŋa tuqqutisukłutin .
+43014002	~		Aapama igluqpaŋani iñugiaktut inillaat . Taamna tainnainŋitpan , uqallautiniaġaluaġivsi . Aullaaqsiruŋa itqanaiyaġiaġlugu iniksraqsi .
+43014005	qanuġlugu		Thomas uqallautiŋagaa , Ataniiq , nalurugut sumugniaqtilaaġnik , qanuġlugu iḷisimaniaqpisigu apqun ?
+43014009	Qanuġlutin		Jesus uqallautiŋagaa , Itqatigiŋagaluaġikpiñ sivisuruamik , naluviŋa suli Philip ? Iñuum tautuŋaruam uvamnik tautuŋammigaa Aapa . Qanuġlutin uqallakkumiñaqpich , tautuktittigut Aapamik ?
+43014022	qanuġlutin		Judas Iscariot-guŋitchuaq uqallaŋaruq ilaanun , Ataniiq , qanuġlutin iḷisimapkaġniaqpich uvaptiŋnun , iḷisimapkaġaluaġnak nunam iñuŋiñun ?
+43016005	sumuaqsimmagaaġma		Aasiuvva paŋmapak aullaaqsiruŋa tilirimnun , nallivsiunnii apiġi‌ŋiñmigaaŋa sumuaqsimmagaaġma .
+43016017	Sumik		Iḷaŋich iḷitchitquraŋisa uqaurrutiŋarut avanmun , Sumik sivuniqaqługu uqallakpa , Tautuaġiŋaiyasiñivḷuni , aasiisuli , sivikitchuami tautug‌niaġivsiŋa ? Suli sumik sivuniqaqługu uqallakpa uqallakami , Qanuq aullaqtuŋa Aapamun ?
+43016018	Sumik		Iliŋich uqallaŋarut , Sumik sivuniqaqpauŋ uqallausiġikamiuŋ sivikit‌chuamiiġniñi ? Nalugikput sumik uqautiqaqtilaaŋanik .
+43018004	Kiña		Tavra Jesus , iḷisimavluni supayaamik piñiaqtuamik inmiñun , saarva‌ŋaruq aasii uqallakłuni ilaiññun , Kiña ivaqpisiuŋ ?
+43018007	Kiña		Jesus apiġitqiŋagai , Kiña ivaqpisiuŋ ? Ilaisa kiuŋagaat , Jesus Nazareth-miu .
+43018011	~		Jesus uqallautiŋagaa Peter , Iḷḷiuŋ savikpaiñ puuŋanun . Isumavich akuqtuġniaŋiññasugalugu uvamnun nagliksaaġutiqpak Aapama sivun‌niŋakkaŋa uvamnun ?
+43018021	Summan		Summan apiqsruqpiŋa ? Apiqsrukkich iñuich naalaġniritka qanuq uqaŋatilaamnik ilaiññun . Iḷisimarut uqautigiŋaramnik .
+43018023	summan		Jesus kiuŋagaa , Uqaŋaguma killukuaġluŋa , iḷitchuġipkaġuŋ iñuŋnun killukuaġutiga . Aasii nalaulluŋa uqaġuma , summan patikpiŋa ?
+43018029	Sumik		Tavra Pilate anniqiŋagai aasii uqallautivlugich , Sumik pasikkuti‌qaqpisi uumuuna iñukun ?
+43018035	Sumik		Pilate kiuŋagaa , Jew-gunasugiviŋa ? Jew-guqativich nanmiñiq aŋaayyuliqsiqpaiḷḷu qaiñŋagaatin uvamnun . Sumik piŋavich ?
+43018038	Suuva		Pilate apiġiŋagaa , Suuva iḷumun ittuaq ?
+43019009	Sumiñ		Isitqiŋaruq isivġiġviŋmun aasii apiġivlugu Jesus , Sumiñ qaivich ? Jesus kiuŋaitkaa .
+43019015	~		Iliŋich nipaallaŋarut , Tuqulli . Tuqulli . Kikiaktuutilugu aŋarrauramun . Pilate uqallautiŋagai , Kikiaktuutiniaqpigu Umialiksi ? Aŋaayyuliqsiqpaich uqallaŋarut , Umialgitchugut allamik , Caesar kisian .
+43020013	summan		Iliŋikta apiġiŋagaak , Aġnaaq , summan qiavich ? Ilaan kiuŋagik , Atakkiataŋimma aullautiŋaniġaat Ataniġa , aasii nalugiga sumun iliŋiññun iḷisilaaŋanik .
+43020015a	summan		Jesus apiġiŋagaa , Aġnaaq , summan qiavich ? 
+43020015b	Kiña		Kiña ivaqpiuŋ ? Isum‌matigivlugu nunaliqiraunasugalugu , Mary uqallaŋaruq ilaanun , Iñuuk , sumun aullautiŋagupku uqallautiŋŋa sumun iḷiŋatilaaŋanik , aullautiyumagiga .
+43021012	Kiñailivich		Jesus uqallautiŋagai , Qaiḷusi itqutchiġiaġitchi . Nalliata-unnii iḷitchitqurat apiġisausiiñŋagaat , Kiñailivich ? Iḷisimaŋagaat Atanġutilaaŋanik .
+43021020	kia		Peter-m kiŋiaqłuni tautuŋagaa iḷitchitquraq Jesus piviuttaġiraŋa maliktuaq inmiŋnun . Taamnauŋaruq iḷitchitquraq ikusiksimaaŋaruaq qaniłłuni Jesus-mi nullautchiqamiŋ aasii apiqsrivḷuni , Ataniiq , kia aitchuutiginiaqpatin ?
+43021021	qanuġniaqpa‌liuna		Peter-m tautukamiuŋ , uqallautiŋagaa Jesus , Ataniiq , qanuġniaqpa‌liuna ?
+43021022	suuva		Jesus kiuŋagaa , Uvaŋa pisuutiginiġupku ilaa iñuutqulugu qaiñim‌nun-aglaan , suuva taamna iliŋnun ? Maliŋŋa .
+43021023	suuva		Taamna uqallaun siaminŋaruq akunġanni aniqatiit taamna Iḷitchitquraq tuquniaŋiññivḷugu . Jesus uqallaŋaitkaluaġmiuq ilaanun tuqu‌niaŋiññiḷugu , aglaan uqallaŋaruaq , Pisuutiginiġupku iñuutqulugu qai‌ñimnun-aglaan , suuva taamna iliŋnun ?
+44001011	summan		aasii uqallakłutik , Galilee-ġmiuguruasii , summan makitavisi takun‌naqłusi qiḷaŋmun ? Taamna Jesus mayuurrauruaq ilivsiññiñ qiḷaŋmun , qaiñiaqtuq tainnatunsuli tautuusivsisun aullaġman qiḷaŋmun .
+44002008	qanuqłutiŋ		Aasii qanuqłutiŋ tusaavisigik uqaqtuat uvagut uqausiḷḷaaptigun ?
+44002012	Sumik		Tavra iñuich kamasuŋarullu kaŋiqsiḷḷaiŋarullu , apiqsruqtuutivlutiŋ avanmun , Sumik taamna sivuniqaqpa ?
+44002037	suniaqpisa		Tavra iñuich tusaakamirruŋ taamna qanuqpisiiḷḷirauŋarut , aasii uqallakłutiŋ Peter-mun iḷitchitquranullu tilirauruanun , Aniqatiit , suniaqpisa ?
+44003012a	summan		Tavra Peter-m tautukkamigich iñuich , uqallautiŋagai , Iñuich Israel‌guruasii , Summan kamasuuttaġivisiuŋ taamna ? 
+44003012b	summan		Summan takunnaqpi‌sigut ? Isumavisi uvaguk suaŋŋatiptiŋnun naagga god-tiliqiniptiŋnun una iñuk pisuallasipkaġasugalugu ?
+44004007a	Qanuqłutik		Tavra inillaanikamisigik Peter-lu John-lu sivuqqamiŋnun apiġiŋa‌gaich , Qanuqłutik taimña iñuk iłuaqsiŋavitku ? 
+44004007b	sumik		Sumik suaŋŋatiqaqpi‌sik ? 
+44004007c	kia		Kia ataniġnaqutaagun taamna piŋavitku ?
+44004016	Qanuġniaqpisigik		uqaqłutiŋ , Qanuġniaqpisigik apkuak iññuk ? Qanuquvva iñupayaat iñuuruat Jerusalem-mi iḷisimagaat suqpauruaq aliuġnaqtuaq savaaŋak taamapkuak , aasii piiḷaaġiyumiñaitkikput .
+44004025a	summan		ilivich David kivgan maŋŋuqput ilitqusiġiksuakkun uqaqtinŋagiñ uqallaŋman inna , “ Summan Jew-guŋitchuat makivsaallakpat akiḷḷiḷiutivlutiŋ Ataniġmun , isumavlutiŋ akiḷḷiḷiqsuutitiŋ taŋŋiġñiaġasugalugich pivigiruaguŋitchullu ?
+44004025b	~		
+44005003	summan		Tavra Peter-m uqallautiŋagaa , Ananias , summan Satan-mun aŋala‌titpich saglutquvlutin Ilitqusiġiksuamun , tutquqtaqaquvlutin iḷaŋanik akiata nunam ?
+44005004	Summanaasii		Tuniŋaiñŋaan nunan ilivich pigiŋagiñ . Suli tunianikkaluaqapku maniich ilivich pigimmigitin . Summanaasii isummiŋavich tainna pisuk‌łutin ? Sagluqiŋaitkitin iñuich , aglaan sagluŋarutin God-mun .
+44005009	Qanuqimña		Tavra Peter uqallaŋaruq ilaanun , Qanuqimña atisivḷutik atunim uuk‌tuqpitku Ilitqusiġiksuaŋa Atanġum . Naalaġniiñ , sukpaluat qaŋma isi‌gaŋisa iḷuvviuqtuat uigñik , paamuktut , aasii annisiniaġmigaatin tain‌natun .
+44007026	Summan		Tavrasuli uvlaakumman Moses tautuŋagik malġuk Israel-guruak piyuutiruak , atisitquyumaŋagik uqaqłuni , Aŋutiik , Aniqatigiiksutik . Summan piyuutivisik avanmun ?
+44007027	Kia		Taavruma pimaqłuktairuam igḷumiñik asivaqtinniaqtuŋagaa Moses uqallautivlugu , Kia atanauraliutivatin isivġiqsiġuqłutillu uvaptiŋnun ?
+44007035	Kia		Taamna Moses pigisuŋisaŋat iñuich Israel-guruat uqaqłutiŋ , Kia atanauraġuqpatin isivġiqsiġuqłutillu uvaptiŋnun ? God-im tiliŋagaa atanauraġuqługu annaurriruaġuqługulu ikayuqługu isaġulgum tautu‌ŋakkaŋata ikualaruani uqpiŋñi .
+44007049a	Qanutchimik		“ Inna uqaqtuq Ataniq , qiḷak iksivautaġigiga umialgunimni , suli nuna isigagma tunŋavigivlugu . Qanutchimik igluqpiñiaqpisiŋa ? 
+44007049b	sumi		Naagga sumi iniqaġniaqpik minŋuiqsiġviksramnik ?
+44007052	~		Atausiq-unnii uqaqtaa God-im maŋŋuuvsi nagliksaaqtinŋaiñŋit‌kaat . Suli tuquġaŋagaich God-im kivgaŋi uqaluqaqtuat sivuani qaiñik‌sraŋanik Nalaunŋaruam Kivgaŋata , ilaa ilivsi paŋmapak aitchuutigia‌niŋagiksi , suli tuqułługu .
+44008031	Qanuġluŋa		Ilaan kiuŋagaa , Qanuġluŋa kaŋiqsiñiaqpik iñuum iḷisautiŋisuaq‌paŋa ? Tavra aiyugaaŋagaa Philip mayuġlugu aquptaaqatigitquvluni .
+44008033	Kia		Ilaa pimaqłuktaqtauŋaruq , aasii saglutigivlugu pasiŋagaat . Kia quliaqtuaġiyumiñaqpagich iñuumman iñuuqatiŋisa pigiisilaaŋat , qanuq ilaa tuqutauŋaruq . ”
+44008034	kimik		Tavra suġautchiqirim uqallautiŋagaa Philip , Uqautiŋŋa kimik uqaqtaa God-im uqautiqaqpa ? Uqautigiva inmiñik , naagga alla iñuk uqautigivauŋ ?
+44008036	Sumik		Tavra iglauniallaġmiŋ apqutitigun tikiñŋaruk imaqsuŋmun , aasii suġautchiqiri uqallaŋaruq , Tautuguŋ , uvva imiq . Sumik piñaiḷutaqaġu‌miñaqpik paptaiqsauniksrapkun ?
+44009004	summan		Aasii Saul ulġuŋaruq nunamun , suli tusaaŋaruq nipimik uqallaktua‌mik inmiñun , Saul , Saul , summan nagliksaaqtitpiŋa ?
+44009005	Kiuvich		Tavra Saul apiqsriŋaruq , Kiuvich ququularuatin uvamnik ? Aasiiḷi ilaan kiuŋagaa , Uvaŋa Jesus-guruŋa , nagliksaaqtitan . [ Nagliksautik‌sriuqsiññaqtutin iliŋnun akiḷḷiḷiqsuqamŋa . ]
+44009006	suruk‌srautilaaġnik		Makittin , aasii aullaġlutin iniqpaŋmun , uqallautiniaġaatin suruk‌srautilaaġnik .
+44010004	Suna		Tavra takunnaakkiutiŋagaa isaġulik iqsiḷḷaġmi , aasii uqallakłuni , Suna Ataniiq . Isaġulgum kiuŋagaa , God-im akuqtuŋagai aŋaayyutitin , savaatillu nagliktuiñikun , suli itqaŋagaatin .
+44010021	Suvlusi		Tavra Peter atqaŋaruq , aasii uqallautivlugich , Uvaŋauruŋa ivak‌kaqsi . Suvlusi qaivisi ?
+44010029	suna		Tavra qanniġñiqamŋa , qaiŋaruŋa qapiŋŋataił̣ł̣uŋa , aasii apiġigikpiñ paŋmapak , suna pisigivlugu qanniqpiŋa ?
+44010047	Kia		Tavra Peter uqallaŋaruq , Ukua iñuich aŋalatkai Ilitqusiġiksuam uvaptiktuttauq . Kia iñuum paptaiqsaiḷiraġniaqpagich imiġmik ?
+44011017a	Suuvik		Tavraasii nalupqinaitchuq God-im aitchuŋammigai Jew-guŋitchuat Ilitqusiġiksuamik aitchuunmisun uvaptiŋnun ukpiqtuaġuqapta Ataniġ‌mun Jesus Christ-mun , Suuvik uvaŋa piñaiḷutaġumiñaġlugu God ?
+44011017b	~		
+44012018	qanuqtilaaŋagun		Tavra uvluġmagu piallapiaġataŋarut aŋuyaktit qanuqtilaaŋagun Peter-m .
+44013025	Kiunasugaluŋa		Aasii John naatchiyasikami savaamiñik , ilaa uqallaŋaruq iñuŋnun , Kiunasugaluŋa isummatigivisiŋa ? Taamnauŋitchuŋa niġiugikkaqsi . Aglaan iñuk imma qairuq aqupkun , aluġutik-unnii isigaŋisa nallium‌matiŋitchuŋa siŋiiġumiñaġlugik .
+44014015	summan		Aŋutiit , summan tainna pivisi ? Uvaguktauq uvva aŋutik iñugruiñ‌ñaak irrusiqaqtuak ilivsisuttauq . Aasii maaniittugut alġaqsruutigisuk‌ługu tusaayugaaġiksuaq , mumiquvlusi tamatkunaŋŋa taŋiġitchuaniñ suniñ , iñuuruamun God-mun savaŋaruamun qiḷaŋmiglu nunamiglu taġiumiglu imaġikkaŋiñiglu .
+44015010	summan		Paŋmapak aasii summan uuktuġniaqpisiuŋ God , Jew-guŋitchuat kamaksripkaġniaġlugich pitquranik nallivsaunnii maŋŋuuptali uva‌gullu kamagilluatapialaisaptiŋnik ?
+44016030	sumik		Tavra annisivlugik apiġiŋagik , Aŋutiik , sumik piruksrauvik annaur‌rausugluŋa ?
+44017018	Sumik		Iñuitchauq iḷaŋich Epicurean-guruat Stoic-guruallu iḷisaurrit qapiq‌taŋagaat Paul . Aasii iḷaŋich uqallaŋarut , Sumik una uqavalari uqaġni‌ḷuksaava ? Allalli uqaŋarut , Ilaa qiññaqaqtuq alġaqsruirisun allayuqqa‌nik god-tinik . Tainna uqaŋarut pisigivlugu Paul alġaqsruimman Jesus-mik aŋŋiñmiglu .
+44017019	~		Tavra ilaisa Paul tiguŋagaat aasii qaġġisivlugu sivuġaannun kasima‌ruat Areopagus-mi uqaqłutiŋ , Iḷisimasukkaluaqtugut taavrumuuna nutauruakun iḷisaurrutigikkapkun .
+44019003	Qanuqłusi		Tavra Paul apiġivsaaŋagai , Qanuqłusi paptaiqsauŋavisi ? Iliŋisa kiu‌ŋagaat , Paptaiqsauŋarugut John piraksriutaagun .
+44019015	kitkuuvisi		Tavra ilitqusiqł̣uum kiuŋagai , Jesus iḷisimagiga , Paul iḷisimammi‌giga , aglaan ilivsi kitkuuvisi ?
+44019035	Kiisaimmaa		Kiisaimmaa iniqpaŋmi aglaktim nipaiqsinnamigich iñusalaich uqallaŋaruq , Iñuŋi Ephesus , iñupayaat iḷisimarut iniqpaŋat Ephesus-miut qaunaksriruagutilaaŋanik aŋaayyuvikpaŋanik kamanaqtuam Artemis , taavrumalu iñuuraqpaum kataŋaruam siḷamiñ .
+44021013a	Suvisiuvva		Paul kiuŋagaatigut , Suvisiuvva qiavisi isumaalluksaaqpisiŋa ? Qanuq uvva itqanaitchuŋa tigutaaqtauyumiñaqłuŋa Jerusalem-mi tuqutaullatuaġumalu pisigilugu Ataniq Jesus .
+44021013b	~		
+44021022	‌qanuġniaq‌pisa		Nalupqinaitchuamik tusaaniaqtut qaisiḷaaġnik . Aasii qanuġniaq‌pisa ?
+44021033a	Kiñauvvauna		Tavra aŋuyaktit atanauraŋata ullakługu Paul , tigutaaŋagaa pirak‌sriivḷuni qiḷiqsruitquvlugu malġuiñik kalimñanik . Tavra ilaan apiġiŋa‌gai iñusalaich , Kiñauvvauna iñuk ? 
+44021033b	suniglu		Suniglu piŋava ?
+44022007	summan		Tavra ulġuŋaruŋa nunamun aasii tusaavluŋa nipimik uqallaktuamik uvamnun , Saul , Saul , summan nagliksaaqtitpiŋa ?
+44022008	Kiuvich		Aasii kiuŋagiga , Kiuvich ququularuatiin uvamnik ? Ilaalli kiuŋa‌gaaŋa , Jesus-guruŋa Nazareth-miu nagliksaaqtitaġma .
+44022010	Suniaqpik		Tavra apiġiŋagiga , Suniaqpik uvaŋa Ataniiq ? Tavra Atanġum uqal‌lautiŋagaaŋa , Makillutin , Damascus-mugiñ . Taamani uqallautiniaġaa‌tin supayaanik God-im piraksriutiŋiñik iliŋnun .
+44022016	summan		Aasiuvva paŋmapak summan utaqqivich ? Makillutin paptaiqsau‌giñ , aasii piḷuutitin piiqsillugich , aŋaayyutikun ikayuqtaiḷiqilutin ilaa‌nun .
+44022026	Susaġumaagaqsivich		Aŋuyaktit atanauraŋata taamna tusaakamiuŋ , ullautiŋaruq qauk‌łiannun aŋuyaktit aasii uqallautivlugu , Susaġumaagaqsivich ? Taamna iñuk Rome-miunun iḷauruq .
+44023003	~		Tavra Paul-gum uqallautiŋagaa , Isivġiqsauŋŋuaqtuatiin , God-im nalupqinaitchuq tatavsaġniaġaatin . Aquppirutin isivġiġukłuŋa pitqura‌tigun , aasiiñ ilivich kipuqłakługich pitqurat piraksriirutin patiquvluŋa .
+44023009	~		Tavra kasimaruat nipatusisaiññaŋarut , aasii iḷaŋich iḷisaurrit pitqura‌nik iḷauruat Pharisee-ñun makinŋarut , aasii qapiqtaiḷiqpakłutiŋ uqaq‌łutiŋ , Iḷitchuġiŋitchugut suuramik-unnii piḷuktuamik uumani iñuŋmi . Iḷaanniḷuunnii ilitqutchim naagga isaġulgum uqautipiaŋagaa .
+44023019	Sumik		Aŋuyaktit qaukłiata tasirriutivlugu asivaqtaaġutiŋagaa , aasii apiġiv‌lugu iñuił̣aami , Sumik uqallautisuktaġma ?
+44026008	Suvlusiasiuvva		Suvlusiasiuvva ilivsi siġḷiġnaġivisiuŋ ukpiġniksraq God-mun aŋipka‌ġumiñaqtilaaŋat tuquŋaruat ?
+44026014	summan		Tavra iluqata ulġuanikapta nunamun , tusaaŋaruŋa nipimik uqaq‌tuamik uvamnun Jew-guruat uqausiatigun , Saul , Saul , summan nag‌liksaaqtitpiŋa ? Nagliksautiksriuqsiññaqtutin iliŋnun akiḷḷiḷiqsuqamŋa qimuktitun tukkaqtuatun qimuguksaaġunmun .
+44026015	Kiuvich		Tavra uqallaŋaruŋa , Kiuvich ququularuatiin uvamnik ? Aasii Ataniq uqallaŋaruq , Jesus-guruŋa nagliksaaqtitan .
+45002017	~		Tavra ilivsi , Jew-guniraġaaqtuasii , naamarualirusi piqaqavsi God-im pitquraŋiñik qaisaŋiñik Moses-mun . Uqavigaaqtusi God God-iginivḷugu .
+45002021	summan		Iḷisaurriyumiñaqsiŋaniġuvsi allanik iñuŋnik , summan iḷisautisuŋitpisi ilivsiññun ? Uqallaurrisuuruasii iñuŋnik , Tiglignak . Ilivsi tigliguuvisi ?
+45002028	~		Pisigigiññaġlugu taiguutiqaġniqsi Jew-mik Jew-gupiaġataŋitchusi . Iḷagiŋitkaasi God-im iñuksraqtaaŋisa pisigigiññaġlugu God-im nalunaiñŋutchiutaa ilivsiññun .
+45003001a	sumik		Tamatkua tainna itpata , sumik anniqsuusiaqaqpa Jew-guniq ? 
+45003001b	sumik		Sumik anniqsuusiaqaqpa piqaġniq God-im nalunaiñŋutchiutaanik ?
+45003003	~		Jew-guruat iḷaŋich ukpiġutaitkaluaqpata kamagilaiḷḷugich God-im pitquraŋi , ukpiġutairrutaata God taŋŋiipkaġumiñaitparruŋ unniqsuqłiisiŋiñik tamatkunuŋa ukpiqtuanun ?
+45003005	~		Iñuich iḷaŋich killukun uqaġuurut inna , Uvagurguuq piḷuksigupta , tautuktinniaġivut iñuich God-im nalaunŋataanik , tavraasii uqallakłutiŋ nakuuniḷugu piḷuksiruni . Tavrasuligguuq God killukuaġniqsuq tatavsaqamisigut .
+45003006	qanuq		Tavra tamatkua uqaqtuat tainna killukuaqtut qanuq nalupqinaitchuq iḷisimarugut God-im isivġiġñiaġai nunam iñuŋi piḷuktuat .
+45003007a	~		Uvaŋaptauq killukuaġmiuŋa uqaqama inna . Sagluniġma iñuich qiñiqtillakpagich God-im iḷumun irrutaanik aasii nanġaġlugu , pasiyumiñaitkaaŋa piḷuusiqirauniḷuŋa .
+45003007b	~		
+45003008	~		Taamna iḷumun inniqpan , piḷuusiqiugaqta iñuŋnun nanġavsaaqulugu God . Iḷisaurriŋitchuŋa tainnatchiñik saglunik . Aglaan iñuich iḷaŋisa uqautigiŋagaanŋa tainnatchiñik iḷisaurriñivḷuŋa . Taapkua iñuich God-im isivġiġñiaġai nalaunŋaruakun .
+45003009	~		Taapkua uqautigianikaptigik uqallakkumiñaqpisa Jew-guruat nalaunŋałhaaġniḷugich allaniñ iñuŋniñ ? Naaggapiaġataq . Iḷitchuġipkaaniŋagivsi iñupayaurat Jew-gugaluaġumiŋ Jew-guŋitkaluaġumiŋ , aŋalatiqaqtut piḷuunmik .
+45003027a	~		Tainnainniġman , 
+45003027b	qanuq		uqavigaaġutiksraipiaqtugut qanuq nalaunŋasiyumiñaitchugut kamagilugich God-im pitquraŋi . 
+45003027c	~		Nalaunŋasipkaqtaurugut ukpiġutiptigun ,
+45004001	~		Abraham , maŋŋuuruaq Jew-payauranun , uuktuutigilakput iñuŋ‌mun ukpiġunmigun nalaunŋasipkaqtauruamun sivuġaani God-im .
+45004003	~		qanuq Bible uqaqtut , “ Abraham ukpiġiŋagaa God , aasii taavruma nalaunŋasiŋagaa sivuġaani God-im . ”
+45004010	~		Abraham nalaunŋasiŋagaa God-im nalunaiñŋutchiqsauŋaiñŋaan timimiñi .
+45005010	qanuq		Christ iḷauraaliuŋagaatigut God-mun tuqqutivluta , uumikłiġaluaq‌tilluta ilaanik . Tavraasii paŋmapak God-im iḷauraaġiliutimmatigut , Christ nalupqinaitchuamik annautiniaġaatigut , qanuq ilaa iñuuruq .
+45005021	~		Tavra piḷuun atanniqsimanniŋman iñuŋnik tuqqutauvluni , God-ivli nagliktuutiqpaŋa atanniqsimanniktuq iñuŋnik iñuupkallavlugich isuitchuamun qanuq Atanipta Jesus Christ nalaunŋasipkaŋagai .
+45006001	qanutun		Taamna tainnainman , piḷuusiqiugaqtuksrauŋitchugut uuktuġniaqsiññaġlugu qanutun God nagliktuutiqpaqaqtilaaŋa .
+45006002	~		Piḷuusiqiruksrauŋipiaġataqtugut . Ukpiliqapta Christ Jesus-mun , iñuutchivut piḷuksisuguuruat tuqummatun piut . Taamna pisigilugu piḷuusiqiugaqtuksrauŋitchugut .
+45006015	~		Taamna tainnainniġman , piḷuksiñata pisigilugu iñuuniqput God-im nagliktuutiqpaŋagun , kamaksriñiatagniġmiñ pitquranik qaisauruanik Moses-kun . Piḷuksiruksrauŋipiaġataqtugut .
+45006021	~		Tainnatchim iñuutchim paŋmapak kanŋugilikkavsi anniqsuŋaitkaasi aglaan tatavsaqtaupkaġumiñaġaasi isuitchuamun .
+45007007	~		Uqallakkumiñaqpisa pitquranun piḷuksipkaġuuniḷuta ? Tainna uqallaktuksrauŋipiaqtugut . Pitqurat anniqsuġaatigut iḷitchuġipkaqłuta piḷuutim suutilaaŋanik . Nalunayaqtuŋa kaviuġniq piḷuutautilaaŋanik pitqurat uqallaŋaitpata , “ Kaviuġnaq . ”
+45007024	Kia		Qanutun uvaŋa quviasuŋisigivik ? Kia atanġiqsinniaqpaŋa piḷuksisuguuruamiñ iñuutchimñiñ ?
+45008024	~		Taamna niġiugisaŋagikput annaurrauganikapta . Niġiuguurugut sunik taŋŋiŋaitchuanik . Iñuk niġiuyuitchuq sumik taŋŋianiŋaruamik .
+45008031a	~		Tamatkua tainnainniġmata , uqallautiksraqaqtugut inna . 
+45008031b	~		God-im iḷaalliqsimammatigut , akiḷḷiitchugut sivuuġagiraksraptiŋnik .
+45008032	~		God-im aitchuutigiyumaŋagaa ilaan nanmiñiq Iġñini tuqqutitquvluta . Tavraasii nalupqinaipiaġataqtuamik aitchuiñiaqtuq uvaptiŋnun , iluqaiññik pigiraksraġikkaptiŋnik , aitchuimmatun-suli Iġñiġmiñik uvaptiŋnun .
+45008033	~		Aasiisuli iñuitchuq uqallakkumiñaqtuamik God-im iñuksraqtaaġikkaŋatigut pasiraksrauniḷuta , qanuq ilaan nalaunŋasiŋagaatigut .
+45008034	Kialiqaa-suli		Kialiqaa-suli suksraunġiqsaupkaġumiñaitkaatigut , qanuq Christ Jesus tuqqutiŋagaatigut , aasiisuli aŋipkaqtauŋaruq tuqqunmiñ , aasii ittuq God-im taliqpiata tuŋaani qiññuaqtuutivluta .
+45008035	sumik		Sumik piitchuq piyumiñaqtuamik uvaptiŋnun piiqsitchumiñaġluta Christ piviuttaqqutaaniñ . Iłuiḷḷiuqtitaugaluaġupta piiġumiñaitkaatigut , kiiqsiuġutituġaluaġupta , piaqłuktaqsiġaluaġupta , kaaksiugaluaġupta , naaggaunnii annuġaaqsausiiġaluaġupta , navianniuġaluaġuptaunnii , naagga tuqutaugaluaġupta .
+45009014	~		Tainna God piŋaniġman , uqallakkumiñaqpisa God nalaunŋiññiḷugu ? Naaggapiaġataq .
+45009019a	summan		Uqallagniaġmiusi uvamnun , God-im pisuutaa akiḷḷiḷiqsulgunaiñman , summan God-im pasivagich iñuich piḷġusiŋisigun ?
+45009019b	~		
+45009020a	kiumayumiñaġlugu		Aŋutaunasugirutin uvvai , kiumayumiñaġlugu God ? 
+45009020b	sum-uuma		Sum-uuma suliaguruam uqallautiyumiñaqpauŋ suġuqtitini inna , 
+45009020c	summan		Summan uvva inna savakpiŋa ?
+45009021	~		Uvva urriqan . Iñuk savaaqaqtuaq qikuyyamik piḷiyumiñaqtuq supayauramik pisukkumi . Akutamiñ atautchimiñ utkutchiyumiñaqtuq qiñiyunaqsiḷugu aasiisuli allamik suaqłukuviksramik .
+45009022	~		Tavra tainnatun God-im piyumiñaġai iñuich qanuq pisukkumi‌gich . Qiñuiqł̣uni igḷutullagai iñuich nalliummatiliġaluaqtuat suksraunġiqsauruksraġuqłutiŋ , iḷaannigutaaġukkumiuŋ aquvatigun ilaan qinnautini suaŋŋatiniḷu iliŋiññun .
+45009023	~		Taamna piyumiñaġaa iḷisimanaqsisukługu uuktuġnaġumiñaitchuaq suaŋŋatini iñuŋnun aitchuusiaqaqtuanun nagliktuunmiñik . Aasii taapkua iñuich piksraqtaaġiŋagai aniŋaiñŋaisaunnii iñuutquvlugich qiḷaŋmi .
+45009024	~		Taapkuagurugut iñuich uvva uvagut , God-im ququaŋakkaŋi , Jew-niñ kisian piŋaitchut aglaan Jew-guŋitchuaniḷḷu .
+45009030	Sumik		Sumik tamatkua iluqaġmiŋ sivuniqaqpat ? Sivuniqaqtut Jew-guŋitchuat nalaunŋasiñiataŋitchuat God-im pitquraŋigun , nalaunŋasipkaqtauŋarut pisigivlugu ukpiġutaat .
+45009032	qanuq		Nalaunŋasipkaqtauŋaitchut qanuq nalaunŋasiñiatakłutiŋ kamagilugich pitqurat , ukpiġigaluaġnagu Christ . Aasii ukpiŋiññamiŋ putukkiñ‌matun piŋarut putukkisaunmun uyaġaŋmun .
+45010006	~		Aglaalli nalaunŋasiñikun uqallaun ukpiġutikuaqtuaq inna ittuq . Isumaruksrauŋitchutin mayuqtuksraunasugalutin qiḷaŋmun atqautiyaq‌tuġlugu Christ qiḷaŋmiñ ,
+45010007	~		atqaqtuksrauniḷutillu tuquŋaruat inaannun aŋipkaġiaġlugu Christ tuqqunmiñ .
+45010008	~		Uqaluk nalaunŋasiñikun ukpiġutikuaqtuaq alġaqsruutigigikput . Taamna uqaluk kaŋiqsiñaqtuq , iḷisimalluataġiksi , uvva inna ittuq ,
+45010014a	~		Iñuich aglaan ququulayumiñaitchut Ataniġmun ukpiliŋaitkumiŋ ilaanun . 
+45010014b	~		Suli ukpiġumiñaiñmiut tusaayugaaŋaitkumiŋ ilaanik . 
+45010014c	~		Tusaayugaaġumiñaiñmiut alġaqsruiraiḷḷutiŋ .
+45010015	~		Alġaqsruirit alġaqsruiyumiñaiñmiut tilirauŋisuaġumiŋ . Alġaqsruiritigun uqaluk aglausimaruq Bible-ni inna , “ Qanutun aliuġnaqtigiruq alġaqsruirit kukiḷuŋniŋat alġaqsruutigivlugu tusaayugaaġiksuaq . ”
+45010016	~		Aglaan tamatkiġḷutiŋ akuqtuŋaitkaat tusaayugaaġiksuaq . Inna Isaiah uqallaŋaruq , “ Ataniiq , ukpiġivigruaŋaitkaat alġaqsruutiga ilimiŋnun . ”
+45011004	~		Tavra God-im kiuŋagaa , ‘ Kisiŋŋuŋaitchutin . Piqaqtuŋa 7,000-nik iñuŋnik putinŋaisamnik aŋaayyulutiŋ Baal-mun . ”
+45011007	~		Paŋmapak uvva inna sut ittut . Iñugiagniqsrat Israel-guruat paqin‌ŋaitkaat annaun ivakkaqtiŋ pitquratigun . Aglaan God-im iñuksraqtaaŋisa paqinŋagaat annaun . Iḷaŋiḷḷu kaŋiqsipkallaiqsitauŋarut .
+45011015	qanutułhaaq		Pisuŋirrusiaŋat God-miñ sivuniqaŋaniġman nunam iñuŋiñun iḷauraaliuġunmik God-mun , qanutułhaaq aŋitiginiaqtuq quviasuun akuqtuqtaukpata . Aliuġnaqtiginiaqtuq iñuktun aŋipkaqtauruatun tuqqunmiñ .
+45011018	~		Uqavigaaġutiginagu inaŋiġñiŋniqsi Jew-guruanik . Itqaumasiuŋ napaaqtum maŋŋuatun inŋitchusi , aglaan qisiqsiutiłhiñat . Nappatau‌ŋitchusi napaaqtumun , aglaan napaaqtum nayummigaasi .
+45011033a	~		Qanutun aliuġnaqtigiruamik God-iqaqtugut . Qanutun aliuġnaqtigirut ilaan isumattutaalu iḷisimmataalu nagliktuutiqpaŋalu . Qanuġ lugu kialiqaa iñuum kaŋiqsiyumiñaitkaa God qanuq pimman summan tainna pisilaaŋanik , naagga qanuġluni iñuk kaŋiqsiyumiñaitchuq summan God-im sunik pisilaaŋiñik .
+45011033b	~		
+45011034a	kiñaliqaa		“ Qanuq kiñaliqaa iḷisimasiyumiñaitchuq God-im iḷisimatilaaŋatun , 
+45011034b	kialiqaa		suli kialiqaa iḷayumiñaitkaa God-im kaŋiqsimmataa , qanuq God iḷisimaruq supayaanik .
+45011035	kiñaliqaa		Aasiisuli kiñaliqaa aitchuiyumiñaitchuq God-mun paaqłiiyumiñaqsisaġlugu God inmiñun aquvatigun . ”
+45014004	Kiñaliqaa		Kiñaliqaa nalaunŋaruamik uqallakkumiñaitchuq iñuum allam kivgaŋa killuliqinigumiuŋ . Ilaan nanmiñiq atanġata nalaunŋarualiñiaġaa naagga killuliqirualiñiaġaa . Isivġiqsiqaġniaqtuq Ataniġmik nalaunŋarualiḷugu , qanuq God-im ikayuġniaġaa nalaunŋarualiqiyumiñaqsiḷugu .
+45014010a	~		Uqalliaruksrauŋitchusi aniqatisi killukuaġniḷugich , 
+45014010b	~		aasiiḷivsauq ilivsi uqalliaruksrauŋiñmiusi nalaułhaaġniḷusi aniqatiivsiññiñ . Iluqata makittuksrauniaqtugut God-im isivġiivianun iñuŋnik .
+46001020a	qanuġniaġniqpat		Taamna tainnainniġman , qanuġniaġniqpat isumaturuat iñuich ? 
+46001020b	Qanuġniaġmiñiqpat		Qanuġniaġmiñiqpat pitquranik iḷisaurrit , tamatkualu qapiqsaiḷiralgu‌ruat ? God-im qiññaniktinŋagai isumalluaġiitchuatun , iḷisimanaqsiv‌ḷugu ilaisa iñugruiññaich isumattutaat asiḷiqqutautilaaŋanik .
+46001020c	~		
+46002011	kisimi		Allaptauq iñuk nalummatun iñuum allam isumaŋanik ilitqusiata ilaan kisimi iḷisimakkaŋanik , tainnatun kialiqaa kaŋiqsiḷaiñmigai isu‌maŋi God-im aglaan Ilitqusiġiksuam kisimi .
+46002016a	~		Qanuq , “ Iñugruiññaq kaŋiqsiḷḷasiyumiñaitchuq God-im isumaŋanik . 
+46002016b	kimigliqaa		Tainnainman kimigliqaa iḷisaurriqaġumiñaitchuq God . ” Aglaan uvagut piqaqtuaguut Ilitqusiġiksuamik isummasiqaqtugut Christ isummasiatun .
+46003005a	Suliqutauva		Suliqutauva Apollos ? 
+46003005b	Suliqutauva		Suliqutauva Paul ? Kivgałhiñak uvaguk ukpiġikkaptiguk , Atanġum ukpiliqsinmasi Apollos-kullu uvapkullu God-im piraksriutillaaŋatun uvaptiŋnun .
+46004007a	~		
+46004007b	~		Anniqsuusiat pigikkasi iluqaġmiŋ God-miŋŋaqtaurut . 
+46004007c	summan		Aasii aitchuu‌siaġiniqavsigik , summan uqavigaaqpisi aitchuusiaġiŋitchuatun iḷivḷu‌gich ?
+46004021	Sutquyumavisi		Sutquyumavisi ? Ullagniaqpisi tatavsaġiaġlusi , naagga piviuttaq‌qunmi
+46005002	~		Naaggauvva arguaŋamarusi . Isumaaqpałhaaqtuksraugaluaqtusi . Iñuk taamna allatuqtuaq anitauli akunnavsiññiñ .
+46005012	Suniaġlugich		Suniaġlugich isivġigaksraġivik ukpiŋaitchuat ? Ukpiqtuaġuŋaruat kisiisa isivġigaksraġigivut .
+46006001	~		Iḷari uqaġlaqutiqaġumi ukpiqtuaguqanmiñun , uqaġlaqutini iłuaq‌sipkaġniagaksraġiŋitkaa isivġiqsimun ukpiqtuaguŋitchuamun , aglaan iłuaqsipkaġumiñaġaa ukpiqtuaġuŋaruamun . Kanŋusuktuksrau‌rusi ukpiŋaitchuamun iłuaqsruqtinnavsiuŋ .
+46006003	~		Nalummivisi-suli isivġiiyumaaqtilaaptiŋnik isaġuliŋnik ? Nalupqinait‌chuamik iłuaqsiriyumiñaqtugut uqaġlaqutinik paŋmapak iñuuniptiŋni .
+46006004	~		Tavraasii tainna uqaġlaqutinigniġuvsi iłuaqsrugaksranik , isivġiqsik‌sraqtuksrauŋitchusi iñuŋmik pisuiññiqsrauyumiñaqtuamik aŋaayyuli‌qiruani .
+46006007a	~		Uqaġlaqutiqaġniq avanmun sivuniqaqtuq akiiḷipkaqtuamik piḷuunmun . 
+46006007b	~		Uqaġlaqutiqaqsaaniġmiñ , killukuaqtausitchiunnii , saglu‌taqtausitchiunniiḷu .
+46006009	~		Nalupqinaitchuamik iḷitchuġiŋarusi tamatkua iñuich nalaunŋasiŋait‌chuat sivuġaani God-im qiḷaŋmukkumiñaisilaaŋannik , God-im atan‌niqsimavianun . Sagluqiraunasi , iñuuruat piḷuunmi tamatkualu ukpiq‌tuat God-auŋitchuamun , allatuqtillu naaggaunnii atunim timiqaġa‌luaŋŋaġmiŋ atuutiruat pigiitchuakun ,
+46006016	~		Nalupqinaitchuamik puttuqsrirusi aŋun iḷaliutiruaq inmiñik aġna‌mun allatuqtauruamun timiqasiutitilaaŋanik , qanuq Bible-ni aglausi‌maruq inna , “ Malġuuruak atausiŋŋuġniaqtuk . ”
+46006019	~		Iḷisimapiaġataqtusi timisi aŋaayyuvigitilaaŋiññik Ilitqusiġiksuamun God-im aitchuutigiŋakkaŋanun ilivsiññun . Ilivsiññik pigiŋitchusi ,
+46007016a	~		Nuliaguruatiin , avinŋitkupku uigikkan iḷaanni annaurraupkaġnia‌ġiñ . 
+46007016b	~		Tainnatuttauq uiguruatiin , avinŋitkupku nuliaġikkan iḷaanni annaurraupkaġniaġmigiñ .
+46009007a	~		Iñupayaaq akiḷiiḷaitchuq aŋuyaktiġuqsaqami . 
+46009007b	~		Suli iñupayaaq naut‌chirriikami grapes napaaqtuayaaŋiññik niġiḷaunnani siiġñiaŋiññik piḷaitchuq . 
+46009007c	~		Suli iñupayaaq pamiqsaaqaqtuaq immuliviginiaġnagich piḷaitchuq . Tainnatulli iñuk tilirauruaq alġaqsruitquvlugu pamataksra‌ġiŋitkaluaġmiuq inmiñik .
+46009018	Sumik-aasii		Sumik-aasii akiḷiusiaqaqpik ? Quviasuunmik piññaktaamnik alġaq‌sruiñiġmiñ tusaayugaaġiksuamik pamarrusiaqaġaluaġnaŋa iñuŋniñ , nalaunŋagaluaŋŋaan apiqsriñiksraġa pamarrusiaksramik tamatku‌naŋŋa ukpiqtuaniñ .
+46010019a	~		Uvva iḷisautiniḷukkivsi tamatkua niqit aitchuutauruat iñuuraqpaŋ‌nun suuŋitchut , 
+46010019b	~		iñuuraqpaitchauq suuŋiñmatun .
+46010019c	~		
+46010029	summanmiuvva		Iḷaanni apiqsriñiaġugnaġmiusi , summan‌miuvva niġiḷḷaniġa aŋalanniaġmivauŋ iñuum allam ?
+46010030	summan		Niġiḷḷaanigniġuma supayaamik quyyatigiŋakkamnik God-mun , summan iñuich pasiñiaqpanŋa niqitigun niġikkapkun ?
+46011022	Qanuq		Suvisi ? Aimaaġviqaqtusi niġġiviksranik imiġviksraniglu . Suuŋiḷaġi‌gisi aŋaayyuliqiruaŋi God-im tutqiisaaqługich tamatkua piksraitchuat . Qanuq uqallagniaqpik ilivsiññun ? Nanġaġniaqpisi taavrumuuna ? Naagga , nanġaġniaŋitkivsi .
+46012017a	~		Timi iluqani iraukpan , iñuk tusaallayumiñaitchuq . 
+46012017b	~		Timi-suli iluqani siutaukpan , iñuk naiḷaiññayaġmiuq .
+46012019	~		Timi iluqani atausił̣hiñauluni sulliñiġugaluaqpan timaunayaitchuq .
+46014006	~		Aniqatiit , ullakkuvsi iḷaanni aasii uqaaqsiḷuŋa allauruanik uqautchi‌ñik nalukkavsiññik , anniqsuġayaitkivsi . Aglaan uvaŋa puttuqsripka‌ġupku ilivsiññun iḷaŋaunnii iḷumun ittuam , naaggaqaa iḷitchuġipkaġ‌lusi iḷumun ittuamik , naaggaunnii alġaqsruiḷuŋa naagga iḷisaurriḷuŋa ilivsiññik , anniqsuusiaqaġniaġaluaqtusi .
+46014007	~		Uvva uuktuun . Iñuich atuqtuuraġniḷuŋmata atuqtuurayuiḷḷaġmiŋ suvluaqtuġnanik naagga nuqaqtiliŋnik atuqtuuranik , iñuich naalaġni‌ruat iḷisaġiyumiñaitkaat iġiñaŋa atuutim .
+46014008	~		Aasiisuli aŋuyaktim atuqtuuraŋa nivliqpan nalupqinaqtuamik nipi‌mik , allat aŋuyaktit upisalakkumiñaitchut aŋuyaksaġlutiŋ .
+46014009	~		Tainnainmiuq ilivsiññun uqaġuvsi kaŋiqsiñaitchuanik uqautchiñik iñuum kialiqaa kaŋiqsiyumiñaiñmigaasi . Siḷałhiñamun uqaġmatun piñiaqtusi .
+46014015	qanuġniaġniqpik		Tavraasii qanuġniaġniqpik ? Aŋaayyuniaqtuŋa uqautchikun naluk‌kapkun , suli aŋaayyuniaġmiuŋa iḷisimakkapkun uqausikun . Atuġniaġ‌miuŋa iluqaakkun nalukkapkullu , iḷisimakkapkullu uqautchikkun .
+46014016	qanuq		Aŋaayyuguvsi nanġaiguvsiḷu sivuġaanni aŋaayyuruat kaŋiqsiñait‌chuakun uqautchikun , tamatkua kaŋiqsiŋitchuat Amen-chumiñaitkaat aŋaayyutiksi quyyan , qanuq nalurut sunik uqaqtilaavsiññik .
+46014026	Qanuq		Qanuq uqallausiġiniaqpisigu naigḷiḷugu taavruma sivuniŋa , Ani‌qatiit ? Aŋaayyuliaqavsi , iñuk atuġumiñaqtuq aŋaayyunmik , allali iḷi‌saurriyumiñaqtuq , allasuli quliaqtuaġumiñaqtuq God-im satqummik‌kaŋanik inmiñun , allali uqaġumiñaqtuq kaŋiqsiñaitchuamik uqautchi‌mik , naagga mumiksiyumiñaqtuq uqautauruamik . Sunapayaaq piḷi iñupayaat suaŋasiḷaaqtauyumiñaqsiḷugich ukpiġunmiŋni .
+46014036	~		Iłuigivisiuŋ taamna ? Iłuigiraksraġiŋitkiksi . God-im uqalua aguiñŋaitchuq ilivsiññiñ , suli kisivsisualuk anniqsuusiaġiŋitkiksi .
+46015012	summan		Paŋmapak Christ alġaqsruutauruq aŋipkaqtauŋanivḷugu tuq‌qunmiñ , summan iḷasi uqalliavat aŋŋisaiññivḷugich tuquŋaruat ?
+46015029a	~		
+46015029b	summan		Tuquŋaruat aŋipkaqtaulaipiaqpata , summan iñuich iḷaŋich pap‌taiqsausuuvat pisivlugich tuquŋaruat ? 
+46015029c	~		Aŋŋisaitpan , anniqsuusiaksrait‌chuq kiñaliqaa iñuk paptaiqsaugaluaqtuaq pisivlugu tuquŋaruaq .
+46015030a	~		
+46015030b	~		Aŋŋisaitpan , ataramik anayanniuqtinnayaitkiga iñuggutiga .
+46015032	~		Tuquruat aŋipkaqtauniaŋitpata , anniqsuusiaqaġnaġayaitchuq nag‌liksaaqtitauniq iñuŋniñ piyuaqsiusivsun Ephesus-mi , niġrułłuŋniñ piyuaqsiqsuatun pikama . Tuquruat aŋipkaqtaulaitpata , piḷuusiqirau‌ruat uqalukaaŋatitun pigiññaqta , Niġigiññaqta taaŋŋaġlutalu aliasu‌ŋitcha qanuquvva uvlaakun tuquniaġmiugut .
+46015035a	Qanuqłutiŋ		Iḷaanni iñuk apiqsriñiaġmiuq inna , Qanuqłutiŋ tuquŋaruat aŋip‌kaqtitauvat ? 
+46015035b	Qanutchimik		Qanutchimik timiqaġlutiŋ qaiñiaqpat ?
+46015055a	~		“ Tuqquun , tavraŋŋaaglaan tuqupkaqtuaġumiñaiġitin iñuich . 
+46015055b	~		Tuqquun , tavraŋŋaaglaan anniaġumiñaiġitin iñuich . ”
+47002002	~		Qanuq uvaŋa quviasuutaiqsitkuvsi , allamik iñuŋmik quviasaaq‌tiksraitchuŋa ilivsi quviasuutaiqsittaġma quviasaaŋisuaġuvsiŋa .
+47002016	Kiña		Tamatkua suksraunġiqsauniaqtuat qanuqpisiiḷḷivḷugich tuquniksra‌ŋannun piḷuusiqiraulutiŋ , tamatkuali annaurrauniaqtuat attaqsraŋaiv‌saaqługich iñuggunmik isuitchuamik . Kiña nalliummativa alġaqsruutigiyumiñaqługu tusaayugaaġiksuaq ?
+47003008	qanuq		Aasiiḷi igḷuani , qaummaġił̣haasugruktuaq piqatauruq nutauruamun sivunniuġunmun , qanuq Ilitqusiġiksuam itqanaiyaġai iñuich iñuunik‌sraŋannun qiḷaŋmi .
+47003009	Qanutułhaaq		Iñuich aliuŋarut tautukamirruŋ qaumaniqpak utuqqauruaq sivun‌niuġun aitchuutaumman , iḷitchuġipkaġmatiŋ suksraunġiqsauniksra‌mik . Qanutułhaaq aliuġnaqtigiruq nutauruaq sivunniuġun iḷitchuġip‌kairuaq iñuŋnik nalaunŋasipkaqtauyumiñaqtilaaŋannik sivuġaani God-im .
+47006014a	qanuq		Piqasiqsuġnagich ukpiŋaitchuat piraġausiŋiññi , qanuq tamatkua nalaunŋaruat iñuich piruksrauŋitchut sunik piḷuusiqirauruat pisuukka‌ŋiññik , 
+47006014b	~		qaummauptauq piqatigiyumiñaiñmagu atautchikun taaqtuaq .
+47006015a	~		Christ-gum atisiqatigiyumiñaqpauŋ Belial tuunġaq ? Naumi . 
+47006015b	sumik		Tainnatuttauq ukpiqtuaguruaq sumik piqasiqsuutiviksramiñik piiñmiuq ukpiŋaitchuamun .
+47006016	~		Taapkunatuttauq God-im aŋaayyuvikpaŋa imaqaġumiñaiñmiuq iñuuraqpaŋmik . Uvagut ukpiqtuaguruaguut God-im aŋaayyuvikpaŋa‌tun ittugut , qanuq ilaa iñuuruq iḷuptiŋni , Bible-ni uqallausiġmisun inna , “ Uvaŋa iñuuniaqtuŋa iḷuŋiññi , suli kukiḷugluŋa akunġanni . Uvaŋa God-iginiaġaanŋa aasiiḷi iliŋich uvaŋa iñugilugich .
+47011011	summan		Isumaalukpisi summan akuqtuiŋaisilaamnik pamarrutinik maniŋñik ilivsiññiñ ? Piviuttaġiŋiḷḷusi piŋitchuŋa . God iḷisimaruq piviuttaġitilaavsiññik uvamnun .
+47011029a	~		Piŋigipiaġitka tamatkua suaŋaitchuat ukpiġunmiŋni . 
+47011029b	~		Qinnausima‌gitkaunnii tamatkua piḷuksipkaisuuruat ukpiqtuanik .
+47012013	~		Isummatiqaqpalliqsusi uvamnun pivigruaġiŋił̣haaġasugalusi allaniñ aŋaayyuliqiruaniñ pisigivlugu naŋniŋiññavsi pamarrusiaksrapkun ilivsiññiñ . Suliqutigiŋaiqsiŋa itqaumaŋaiġḷugu taavrumuuna killukuaġu‌taunasugirauruakun .
+47012017	~		Uvaŋa apiġiŋavisi pamarrusiaksramik ilivsiññiñ taapkunuuna iñuktigun tilirapkun ?
+48002014	summan		Iḷitchuġikapkich iñuuvigiŋiññiġmarruŋ iḷumun ittuaŋa tusaayugaa‌ġiksuam , uqallautiŋagiga Peter iluqaġmiŋ takkuanni inna . Ilivich , Jew-guruatiin , iñuullaniġuvich Jew-guŋitchuatun , summan Jew-guŋitchuat iñuupkaġniaqsaapiaqpigich Jew-guruatun ?
+48003001	kia		Ilivsi isumalaaŋitchuasii Galatians , kia alapititpasi ? Uqaluuruat kikiaktuurrauniŋagun Jesus Christ nalunaipiaqługich alġaqsruu‌tauŋagaluaqtut ilivsiññun .
+48003019	summan		Tamatkua tainnainniġmata , summan pitqurat aitchuutauŋavat ? Pitqurat iḷḷatauŋarut aquagun unniqsuqłiiñ aitchuutauganiŋman iḷit‌chuġipkaqsaqługich iñuich piḷuun kamaksriŋiññiġutilaaŋanik God-im pitquraŋiñik , aasii God sivunniŋaruq iñuich iñuuruksrauvlugich suti‌gun satqummikkaġmigun Moses-kun qaiñiŋanun-aglaan Christ , miqłiqtum unniqsuqłiisiaqaŋaruam . Pitqurat aitchuutauŋarut isaġulikti‌gun , iñukullu pirriruakun Moses-kun .
+48004009a	summan-aasii		Aglaan paŋmapak iḷitchuġiŋagiksi God , naaggałhaaq God-im iḷitchu‌ġiŋagaasi , summan-aasii utiġukpisi aŋalatiqavsaaġniġmun pitquranik , iñugruiññaiḷḷu piḷġusiŋiññun nakuurualiqinikun , annaurriyumiñait‌chuanun ilivsiññik ?
+48004009b	~		
+48004010	summan		Summan iviġagniatakpisiuŋ God piqutiqaqłusi ilaaguaqtanik niqinaqiviŋñik uvlunik , ilaaguaqtaniglu tatqiñik , suli ilaaguaqtanik niqinaqiviŋñik ukiuniglu .
+48004015	qanutun		Taimani qanutun quviasuktigiŋarusi . Iḷisimaruŋa quviasukkayaqtu‌siunnii ilivsiññun iraiġuvsi aasii iriliutilugik uvamnun , tainna piñaġu‌miñaqpan .
+48004021	~		Ilivsi ukpiqtuat isumaruasii annaurrauniaġnivḷusi kamaksriḷusi Jew-guruat pitquraŋiññik , naalaġnisitchi , uqaluusiavsiññik pitquratigun .
+48004030	~		Taavrumuuna inna aglausimaruq Bible-ni . God-im uqallautiŋagaa Abraham , “ Anirruŋ kivgaq iġñiŋalu , qanuq kivgauruam iġñiŋa iḷaŋiu‌tiniaŋitchuq kiŋuvaannaktaaksraunmun piqatigilugu atanġitchuam aġnam iġñiŋa . ”
+48005007a	kia		Piḷḷuataqtuaguŋagaluaqtuasii . Kia kamagitchaiḷiraqpauŋ tusaayugaaġiksuaq ilivsiññun ?
+48005007b	~		
+48005011	summan		Aniqatiit , iñuich imma iḷaŋisa uqautigivalliġñiġaanŋa alġaqsrui‌ñivḷuŋa iñuk annaurraunivḷugu nalunaiñŋutchiqsauŋavluni kamagivlu‌giḷḷu Jew-guruat pitquraŋich . Taamna iḷumun itpan , summan nagliksaaqtitauvik ? Tainnatchimik alġaqsruiguma , iñuich piavsaktautigina‌yaitkaat alġaqsruutauruaq annaun Christ tuqqutaagun aŋarraurami .
+49004009	Sumik		Sumik sivuniqaqpa uqallaun , Ilaa mayuŋaruq ? Sivuniqaqtuq mayuq‌saŋaiñŋaġmi atqaŋaruq atchiŋñiqsrapiaġataŋanun nunam .
+50001018	Suŋitchuq		Suŋitchuq . Quviasuutigigiga Christ alġaqsruutigiyumiñaġmarruŋ qanusipayaakun piñaġumiñaqtuakun , sunŋutikkaluakun naagga iḷumi nalaunŋaruakun irrusikun . Quviasuutigivsaaġniaġmigiga ,
+50001021	~		Qanuq iñuunimni iñuusiġisutualukkiga savautilugu Christ . Aasii tuqugaluaġuma uvamnun anniqsuutaułhaaġniaqtuq .
+51002020	~		Christ tuqumman , tuqummatun piŋarusi ilitqutchiñun iñuiḷḷu isummatiġruiññaŋiññun annaurraunikun . Paŋmapak tamatkua aŋalanŋaiŋagaasi . Taamnaasii tainnainman , iñuuŋaiqsuksraupiaqtusi aŋalataġipkaġlusi tamatkunuŋa . Annagniataktuksrauŋitchusi kamaksriñi‌kun pitquranik
+52002019	sum		Uvvami sum niġiuktitpatigut quviasukkumaaqtiłłutalu kanŋusuksa‌ġumaaŋił̣ł̣utalu sivuġaani Atanipta Jesus ilaa qaikpan ? Ilivsi .
+52003009	Qanutun		Quviatchapiaġataġivsiŋa sivuġaani God-ima . Qanutun quyyavigiyu‌miñaqtigigiga God naamasiḷugu quyyatigilusi .
+54003005	qanuġluni		Qanuq iñuk naluruaq aŋalatchiñiġmik miqłiqtumiñik , qanuġluni qaunagiyumiñaqpagich God-im aŋaayyuliqiruaŋi ?
+54006007a	sumik		Qanuq sumik qaġġirriŋaitchugut nunamun anikapta , 
+54006007b	sumik		suli tuqugupta aullaurriyumiñaiñmiugut sumik nunamiñ .
+58001005	~		Qaŋaunnii God uqallaŋaitchuq inna isaġuliŋmun . ‘ Ilivich Iġñiġigikpiñ . Uvlupak aapagiliutigiŋma . ” Naaggasuli God uqallaŋaitchuq isaġuliŋnun , “ Aapauniaqtuŋa iliŋnun , iliviḷḷiasii iġñiġulutin uvamnun . ”
+58001013	kisumun		Aasii kisumun isaġuliŋmun qaŋaunnii uqallaŋaitchuq inna : “ Aquvittin taliqpiŋma tuŋaanun , uumigiritin uvamnun akiiḷitchiaġilugich . ”
+58001014	suuvat		Isaġulgich suuvat ? Isaġulgich iluqaġmiŋ savaurriruagugiññaqtut ilit‌qusiuvlutiŋ tilirauruat savaurritquvlugich annaurrauniaqtuanik .
+58002003	Qanuġluta		Qanuġluta uvagut annakkumiñaipiaqtugut ukpiġiŋisuaġuptigu kamanaqtigiruaq qanutun annaun . Taamna annaun uqautigiqqaaŋa‌gaa Atanġum , aasii tamatkua tusaaruat qaaŋiqsinŋagaat nalupqinaiqł̣ugu uvaptiŋnun .
+58002006a	suksraq		Uqaluktuaguŋammiuq imma sumi , “ God suksraq una iñuk isumagillamaran ? 
+58002006b	~		Naaggaunnii iġñiŋa iñuum qaunagillamaran ?
+58003016	Kisut		Kisut ipkua tusaagaluaqłutiŋ paaqłaŋaŋaruat ? Taipkuagurut iluqaġmiŋ aullaqtuat Egypt-miñ , aullarriqaqłutiŋ Moses-mik .
+58003017	kisunik		Aasiisuli kisunik God uuligrutchautiqaŋava malġukipiani ukiuni ? Taipkuniŋa piḷuusiqiraġaqtuanik nunagluktuami aasii tuquvlutiŋ .
+58003018	kisunun		Suli kisunun unniqsuqłiiŋava sumikunnii isiġumiñaiññivḷugich unaŋuiqsiġvigitqukkamiñun ? Taipkunuŋa kisiiññun kamasuutaitchuanun .
+58006004	~		Qanuq iñuich kaŋiqsipkaqtauganikamiŋ , uuktuaganikamiŋ annaunmik aitchuusiaqaanikamiglu Ilitqusiġiksuamik ,
+58007011	~		Pitqurat iñuŋnun aitchuutauŋarut aŋaayyuliqsiqpaummata Levi-m kiŋuniŋi . Tavra iñuich annaurraullakpata naamasiḷugu Levi-m kiŋuniŋigun aŋaayyuliqsiqpauruatigun Aaron-kun , piqaġugnaġniaŋit‌kaluaqtuq allamik aŋaayyuliqsiqpaŋmik Melchizedek-tun ittuamik .
+58009014	qanutułhaaq		Taamna tainnainŋakpan , qanutułhaaq auŋata Christ salummaqtigi‌vagich ilitqutchisi tuqunaqtuaniñ piḷġutchiñiñ savautiyumiñaqsivḷugu God iñuuruaq . Christ , Ilitqusia iñuuruaq isuitchuamun , aitchuutigiŋaruq inmiñik tuqukami akuqtuġnaġumiñaqłuni God-mun .
+58010001	~		Tavra pitqurat taġġauruatun isiññaŋarut sunun anniqsuutauyu‌maaqtuanun Christ qaġġisiniakkaŋiñun . Pitqurat aitchuiḷaiñŋa‌rut tamatkuniŋa anniqsuusiaksranik . Taamna tainnainman pitqurat piḷuutaiqsiḷaiñŋarut tamatkuniŋa qalliḷaaqtuanik God-mun tamatkunuuna ikipkautitigun aitchuutausuuruatigun ukiutuaġman .
+58010029a	Qanutun		Qanutun suaŋałhaaqtuamik tatavsagaksrauruq iñuk tununniktuaq God-im Iġñiŋanik , anniqsuutauŋiññivḷugu Christ tuqqutaa ilaan ilaa‌guaqtirrusiani God-mun , aasii pisaaŋavlugu Ilitqusiġiksuaq nagliktuu‌tiqpaqaqtuaq inmiñun .
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	~		Uqautivsaaġumiñaġaluaġivsi iñuktigun ukpiġutiqaqtuatigun . Sivisuvaitchuq quliaqtuaġisaġupkich Gideon-lu Barak-lu Samson-lu Jephthah-lu David-lu Samuel-lu uqaqtiŋiḷu God-im .
+58012007	~		Igḷutugaksraġigiksi Aapamiñ tatavsausiaġiruatun . God-im aŋalat‌kaasi iġñiqtun iḷiuqłusi . Iġñipayaaq aapaŋan tatavsaġuugaa .
+58012009	~		Taamnatualuuŋiñmiuq , nunami aapaqaqtugut tatavsaqtiksraptiŋnik aasii kamagisuugivut . Kamakkutiqałhaaqtuksraurugut Aapaŋannun ilitqutchivsa iñuggutiqaġumaugut .
+58012025	~		Qaunagisitchi kamagisuglugu God uqaqtuaq . Qanuq taipkua kamaksriŋitchuat Moses-mik tatavsaqtauŋarut , uvagut tatavsaqtauł‌haaġniaqtugut kamagisuŋitkuptigu God .
+58013006	qanuqsaagaluaqpaŋa		Taamna pisigilugu nalupqisuŋiḷḷuta uqallakkumiñaqtugut , “ Ataniq ikayuqtigigiga , iqsiñiaŋitchuŋa qanuqsaagaluaqpaŋa iñuum . ”
+59002006	Nalliŋisa		Tavra suksraġiŋiñŋagiksi iḷiappauruaq . Nalliŋisa nagriaġisuuvasi isiv‌ġiqsiñuutivlusiḷu ? Suġalliruat .
+59002014	~		Aniqatiimaaŋ , iñuk uqaqtuaq ukpiġutiqaġnivḷuni aasii anniqsui‌ñiaŋiḷḷuni allanik , ukpiġutaata anniqsuġumiñaqpauŋ ? Ukpiġutaan tainnaittuam annautiyumiñaitkaa .
+59002016a	~		qanuġlugu anniqsuġumiñaitkaa uqallautigiññaġlugu inna , God-im quviasuusiġḷisin , uunnaagiñ niġiḷḷuataġlutillu , aitchuġaluaġnagu pigi‌raksraġiraŋiñik iñuuniaġniġmi . 
+59002016b	~		Tainnasiq ukpiġutaupiaqpa ?
+59002018	~		Aglaan iñuk iḷaanni uqallagniaġmiuq iñuŋmun , Ukpiġutiqaqsiñ‌ñaqtutin aasiiḷi uvaŋa ukpiġutiqaqtuŋa anniqsuiñiaqłuŋa allanik . Tautuktinŋa ukpiġutiŋnik anniqsuiñiaġaluaġnak , uvaŋali anniqsuiñiaġnip‌kuŋ tautuktinniaġikpiñ ukpiġutimnik .
+59002021	Qanuqłuni		Isumalaaġutigisiuŋ maŋŋuqput Abraham . Qanuqłuni nalaunŋasi‌rauŋava God-im sivuġaani ? God-im iḷisimaŋagaa nalaunŋaruagutilaa‌ŋanik ukpiġunmiñi pisigivlugu aitchuutigiyumiñaġmagu iġñini Isaac niġrutitun iḷivḷugu ikipkaiviŋmun .
+59003013	Kiña		Kiña akunnavsiññi isumaturuaguva kaŋiqsisiqaqpalu ? Isumattu‌tiqaqtilaani kaŋiqsisiqaqtilaaniḷu iḷisimanaqtilliuŋ iñuulluataunmigun savaalluatamigullu kamasaaŋaiġḷuni isumattutiqaġluniḷu .
+59003017	~		Aglaan isumattutim paŋmaŋŋaqtauruam iñuk piḷuutaisitkaa aŋu‌yautairrutiqaqtitkaalu pikałaktautairrutiqaqtitkaalu uqayunaqtit‌kaalu , suli nagliktuiḷḷatuqpaktuq anniqsuiḷḷaturuġlu , atunim aŋalatkai iñuich , naagga piŋŋuaġutaitchuq .
+59004001a	sum		Sum aullaqisaaġuuvagich aŋuyautit qanaaġutillu akunnavsiññi ? Iñukpalliġuurut pigiitchuaniñ pisuutivsiññiñ iñiqługu qalanmatun ittuamiñ iḷuvsiññiñ .
+59004001b	~		
+59004012	kiunasugivich		God kisimi pitquralirauruq isivġiqsauvluniḷu . Ilaa kisimi annaurriḷ‌ḷaruq suksraunġiiḷḷavluniḷu . Aglaalli kiunasugivich isivġiqsuatiin siḷal‌liġñik ?
+59004014	Suuva		Tainna uqaqtutin nalullaqpich uvlaakuksramik . Suuva iñuutchiñ ? Taktugayaatun ittuq sivikitchuami illaktuatun , aasii taktuiqł̣uni .
+60002020	~		Pisigilugu killuliqinġiñ qiñuiġḷutin igḷutuġaluaġupku nagliksaaġun , nanġausiaksraitchutin God-miñ . Aglaan qiñuiġḷutin igḷutuġupku nag‌liksaaġun iłuaqtualiqigaluaŋŋaqpich God-im iviġaumagirualiñiaġaatin .
+60003013	sum		Paŋmapak sum imma anniaġumiñaqpasi kipiġniuttaġiguvsiuŋ nalaunŋaruaq ?
+60004017	qanuġlikiaq		Isivġiqsausaġviksraq tikitchuq , aasii God-im nanmiñiq iñuŋi isivġiqsauqqaaqtuksraurut . Uvagut isivġiqsauqqaaġupta , qanuġlikiaq isuqaġniaqpa isivġiusiaksraŋat iñuich ukpiŋaitchuat God-im tusaayu‌gaaġiksuaŋanik ?
+60004018	qanuġli		Bible uqaluqaqtut inna , “ Siġġaġnaqpan iñulluatat annaurrauniksraŋat , qanuġli inniaqpa tamatkunuŋa god-aiḷaqtuanun piḷuktuanullu iñuŋnun ? ”
+61003004	sumiitpa		uqaġlutiŋ , Jesus imña unniqsuqłiiŋaruaq qaitqigñiaġnivḷuni ? Aasiimma sumiitpa ? Christ-miuġuqqaaqtuat-qaŋa tuqummata sunapa‌yaaq allaŋŋuŋaitchuq , tamarra igliqtuq tainna qaŋapak , nunaqaŋa savaagulġataġniġman .
+61003011	qanutchiñik		Tamatkua iluqaġmiŋ suksraunġiġumaaġmata , qanutchiñik iñuusi‌qaqtuksraumavisi ? Iñuusiqaqtuksrauniqsusi piḷuutaitchuanik god-iliqi‌ruaniglu ,
+62002022	Kiña		Kiña sagluturuaguva ? Iñuk ayyairuaq Jesus Christ-guniŋanik , God Tiliraŋanik . Tavra iñuk akiḷḷiḷiqsuqtuaq Christ-mik ayyairuq Aapamik Iġñiġmiglu .
+62003012	summan		Ittuksrauŋitchugut Cain-tun pigiitchuamiñ piruatun iñuktaġivlugu aniqatini . Aasii summan iñuktaġiŋavauŋ ? Iñuktaġiŋagaa ilaan savaani pigiił̣ł̣utiŋ aasii aniqataan nalaunŋaruaguvlutiŋ .
+62003017	~		Kiñaliqaa suġalliruaq aasii iḷitchuġivlugu aniqatini piiḷḷiuqtuaq , aasii nagliksrautaił̣ł̣uni ilaanun , pimaaqtuġumiñaitkaa God-im piviuttaqqu‌taa iḷumiñi inniḷugu .
+62004020	qanuġluni		Kiñaliqaa uqallakkumi , Piviuttaġigiga God , aasii uumigilugu aniqa‌tini , sagluruq , qanuq iñuk piviuttaqsriŋitchuaq aniqanmiñik tautuŋak‌kaġmiñik , qanuġluni piviuttaqsriyumiñaitchuq God-mik tautuŋaisami‌ñik .
+62005005	Kiuva		Kiuva akiiḷiññiktuaq nunam iñuŋisa piḷġusiŋiñik ? Taamnauruq ukpiqtuaq Jesus Iġñiġinivḷugu God-mun .
+66005002	Kiña		Suli tautuŋammiuŋa sapiġñaqtuamik isaġuliŋmik nivliqsuamik nipa‌tuvluni , Kiña nalliummativa qauqtiġumiñaqługich nipitirrutiŋich aŋmaġlugiḷḷu immuat makpiġaat ?
+66006010a	qanutun		Iliŋich nipanŋarut nipatuvlutiŋ , Ataniiq , sapiġñaqtuatiin , piḷuutait‌chuatiin iḷumun ittuaġlu , qanutun sivisutigiruamik isivġiġñiaŋitpigich iñuŋi nunam aasii tatavsaġlugich pisigilugu tuqunŋammatigut ?
+66006010b	~		
+66006017	kiñaliqaa		Qanuq kamanaqtuaq uvlua tatavsautaata tikitchuq , aasii kiñaliqaa igḷutuutiyumiñaipiallaktuq taavrumuŋa .
+66007013a	kisut		Tavrani iḷaŋata umialiŋnat apiġiŋagaaŋa , Kisut makua iñuich annuġaaqaqtuat qatiqtuanik akuqturuanik , 
+66007013b	sumiḷḷu		sumiḷḷu qairuat ?
+66013004a	Kiña		Iluqaġmiŋ iñuich qiksigiŋagaat nanġaqługulu nimiġiakłuk , qanuq ilaa aitchuiŋaruq ataniġnaqunmiñik niġrułłuŋmun , suli ilaisa tainnatun piŋammigaat niġrułłuk , uqaqłutiŋ , Kiña itpa niġrułłuktun , 
+66013004b	kia		suli kia aŋuyakkumiñaqpauŋ ?
+66015004a	kia		Kia qiksiginiaŋitpatin Ataniiq ? 
+66015004b	kia		Kia uqautigisuŋiññiaqpauŋ kamanautin ? Qanuq kisivich piḷuutaitchutin . Nunauruapayaat qaiñiaqtut aasii nanġaġlutin , qanuq nalaunŋaruat piratin tautuŋagaich iluqaġmiŋ .
+66017007	Suvlutin		Tavra isaġulgum apiġiŋagaaŋa , Suvlutin aliuqpich ? Quliaqtuaġuti‌niaġikpiñ kaŋiqsiḷgunaitchuaŋanik aġnam , niġrułłuuvlu kakaksiġvigik‌kaŋata niaquqaqtuam tallimat malġugnik suli qulinik nagruqaqtuam .
+66018018	~		suli nipaalaŋarut qiñillaan isia ikualaniŋan , Iniqpaŋmik allamik piiñŋaruq taavrumatun kamanaqtuatun iniqpaktun .

@@ -1,0 +1,743 @@
+40002002	Kde		„ Kde je ten židovský král , který se právě narodil ? Viděli jsme na východě jeho hvězdu a přišli jsme se mu poklonit . "
+40002004	kde		Král svolal všechny přední kněze a učitele zákona a ptal se jich , kde se má narodit Kristus .
+40003007	~		Když Jan uviděl , že ke křtu přicházejí mnozí horliví a nejvznešenější Židé - farizejové a saducejové , řekl jim : „ Myslíte si , že se z Božího soudu vykroutíte jako hadi ?
+40005013	čím		Vy jste sůl země . Když už sůl by měla ztratit svoji chuť , čím se bude solit ? Sůl bez chuti se nehodí k ničemu a může být jen vyhozena a zašlapána .
+40005046	jakou		Jakou máte zásluhu , když projevujete lásku těm , kteří vám ji oplácejí ? Copak to nedokážou i sobci ?
+40005047	co		A chováte-li se přátelsky jen ke svým blízkým , co děláte zvláštního ? Na to ještě nemusíte věřit v Boha .
+40006027	~		I když se budete starat sebevíc , přece svůj život neprodloužíte ani o jediný okamžik .
+40006028	proč		A proč si děláte starosti se svým oblečením ? Podívejte se na polní květiny : nepracují ani nepředou ,
+40006031a	co		A tak se netrapte otázkami : Co budeme jíst ? 
+40006031b	co		Co budeme pít ? 
+40006031c	co		Co si vezmeme na sebe ?
+40007003	Jak		Jak to , že vidíš pilinu v oku druhého člověka a poleno ve svém oku přehlížíš ?
+40007004	Jak		Jak můžeš říkat druhému : Dovol , abych ti vyndal smítko z oka , ' a poleno ti ve vlastním oku nepřekáží ?
+40007009	~		Kdyby kohokoliv z vás poprosilo vlastní dítě o kus chleba , dali byste mu snad kámen ?
+40007016a	~		Poznáte je podle toho , jak žijí a jednají - právě tak jako posuzujete strom podle ovoce , které se na něm rodí . Cožpak se sklízejí hrozny z trnek 
+40007016b	~		a fíky z bodláčí ?
+40008026	Proč		Ale on jim řekl : „ Proč se bojíte ? Kde je vaše víra ? " Vstal , okřikl vítr i vlny , a nastal klid .
+40008027	Kdo		Kteří to viděli , byli naplněni údivem a říkali si : „ Kdo to vlastně je , že ho poslouchají vítr i moře ?
+40008029	Co		Na Ježíše začali křičet : „ Co je ti do nás , Boží Synu ? Ještě na nás nemáš právo ! "
+40009004	~		Ježíš však prohlédl jejich myšlenky a obrátil se k nim : „ Myslíte si , že zůstalo jen při slovech , když jsem mu odpustil hříchy ? Dokážu vám , že moje slovo má moc . " Nato se obrátil k ochrnutému : „ Vstaň a odnes svá nosítka domů ! "
+40009005	~		
+40009011	jak		Zbožné farizeje to popudilo : „ Jak si váš mistr může sednout k jednomu stolu s takovými lidmi ? "
+40009014	Proč		Potom přišli za Ježíšem žáci Jana Křtitele s otázkou : „ My a farizejové často držíme půst . Proč se tvoji učedníci také nepostí , jak je zvykem zbožných lidí ? "
+40009015	~		Ježíš jim odpověděl : „ Žádá někdo po svatebčanech , aby byli smutní a odmítali jídlo , dokud je ženich mezi nimi ? Kdyby někdo ženicha odvlekl , bude po svatebním veselí . I moji učedníci se jednou postí , až přijde pravý čas . Nový život z Boha se nedá vtěsnat do starých zvyků a forem .
+40010025	co		Ať je spokojen s údělem svého učitele a pána . Když mne obvinili , že jsem ve spojení s ďáblem , co si asi vymyslí na vás !
+40011007	~		Když Janovi žáci odešli , řekl o něm Ježíš zástupu : „ Když jste šli za Janem na poušť , jistě jste v něm nenašli slabocha - kam vítr , tam plášť ' ;
+40011008	~		ani jste nenašli žádnou vysoce postavenou osobu - takoví chodí pěkně oblečeni a bydlí v palácích .
+40011009	~		Šli jste za ním jako za prorokem a měli jste pravdu . Ujišťuji vás , že on je ještě víc než prorok . Proroci a celý Starý zákon až po Jana vyhlíželi Mesiáše . Chcete-li pochopit to , co míním , Jan je novým Elijášem , o kterém proroci říkali , že má přijít před začátkem království .
+40011016	čemu		K čemu mám přirovnat tuto generaci ? Je jako hrající si děti , které sedí na návsi a pokřikují nespokojeně na své kamarády :
+40012011	~		On jim na to řekl : „ Kdyby někdo z vás měl jedinou ovci a ta by spadla v sobotu do rokle , nepodnikli byste vše , abyste ji vytáhli ?
+40012026	Jak		Tak nemůže satan vyhánět satana . Jak by pak obstálo jeho království ?
+40012027	~		Já , podle vás , odstraňuji temnotu ve jménu duchovní tmy . I mezi vámi jsou lidé , kteří bojují proti temným silám . Zeptejte se jich , jakou mocí to činí .
+40012029	~		Když chce někdo ukrást věci z domu silného člověka , musí ho nejdříve svázat , a pak si to může odnést . Tak i ze satanovy moci může vysvobodit jen ten , kdo je silnější než on .
+40012034	Jak		Vy podvodníci ! Jak byste mohli mluvit dobré , když jste zlí ? Čím srdce oplývá , tím ústa přetékají .
+40012048a	kdo		řekl : „ Kdo je má matka 
+40012048b	~		a moji bratři ? "
+40013010	Proč		Učedníci se ho zeptali : „ Proč mluvíš v obrazech ? "
+40013027	kde		: Vždyť jsi zasel dobré semeno , kde se tedy vzal plevel ? '
+40013054a	kde		Všichni se divili : „ Kde se v něm bere taková moudrost 
+40013054b	~		a moc ?
+40013056	Odkud		I jeho sestry žijí mezi námi . Odkud to ten člověk má ? "
+40014031	Proč		Ježíš ho rychle zachytil a řekl : „ Kde je tvoje víra ? Proč jsi pochyboval ? "
+40015002	Proč		„ Proč tvoji žáci nedodržují staré židovské tradice ? Vždyť ignorují i obřadní mytí rukou před jídlem ! "
+40015003	Proč		Ježíš jim na to odpověděl : „ Proč vy pro své tradice porušujete Boží přikázání ?
+40015033	Kde		Učedníci odpověděli : „ Kde v takové pustině vezmeme chléb pro tolik lidí ? "
+40015034	Kolik		„ Kolik jídla máte s sebou ? " zeptal se Ježíš . „ Sedm chlebů a několik ryb , " odpověděli učedníci .
+40016008	Proč		Ježíš to věděl , a proto jim řekl : „ Proč si děláte starosti o jídlo ? To máte tak malou víru ?
+40016009	~		Ještě nechápete ? Cožpak si nevzpomínáte na nasycení pěti tisíc mužů pouhými pěti chleby a na koše posbíraných zbytků ?
+40016010a	~		Ani na ty čtyři tisíce , které jsem nasytil sedmi chleby a ještě se sebralo tolik zbytků ?
+40016010b	~		
+40016011	~		Nechápete , že mi nešlo o skutečný chleba , když jsem vás varoval před kvasem farizejů a saducejů ? "
+40016013	koho		Když se potom Ježíš přiblížil k Césareji Filipově , zeptal se svých učedníků : „ Za koho mne lidé pokládají ? "
+40016015a	~		„ A vy ? " chtěl Ježíš vědět .
+40016015b	~		
+40016026a	co		Co člověku prospěje , když získá celý svět a ten skutečný život ztratí ? 
+40016026b	co		Co může vyvážit hodnotu věčného života ?
+40017010	Proč		Učedníci se ho ptali : „ Proč učitelé zákona zdůrazňují , že před tebou měl přijít Elijáš ? "
+40017017a	~		Ježíš si povzdechl : „ Co to s vámi je ? Nevěříte a překážíte Boží moci ! Nemám to s vámi lehké . Přiveďte mi ho sem ! "
+40017017b	~		
+40017019	Proč		Když potom byli s Ježíšem sami , zeptali se učedníci : „ Proč my jsme nemohli toho chlapce uzdravit ? "
+40017025a	co		„ Platí , " odpověděl Petr . Doma ho Ježíš předešel otázkou : „ Co myslíš , Petře , od koho vybírají králové a panovníci daně a poplatky ? Od synů nebo od cizích ? "
+40017025b	koho		od koho vybírají králové a panovníci daně a poplatky ? Od synů nebo od cizích ? "
+40018001	Kdo		Tehdy Ježíše obstoupili jeho učedníci a ptali se ho : „ Kdo z lidí je v nebeském království nejpřednější ? "
+40018012	co		Když má někdo sto ovcí a jedna z nich se ztratí , co myslíte , že takový člověk udělá ? Nenechá těch devadesát devět na pastvině a nepůjde hledat tu ztracenou ?
+40018021	kolikrát		Potom mu Petr položil otázku : „ Pane , když se proti mně můj bližní opakovaně prohřešuje , kolikrát mu mám odpustit ? Sedmkrát ? "
+40019007	Proč		Oni však namítali : „ Proč tedy Mojžíš řekl , že muž může propustit manželku jednoduše tím , že jí dá rozlukový lístek ? "
+40019016	jakými		Za Ježíšem přišel jeden mladý člověk a ptal se ho : „ Mistře , jakými dobrými skutky mohu získat věčný život ? "
+40019017	~		Ježíš mu na to řekl : „ Snažíš se být dobrý ? To se chceš vyrovnat Bohu , který jediný je skutečně dobrý ! Plň jeho přikázání a budeš věčně živ . "
+40019018	Která		„ Která to jsou ? " zeptal se mladý muž . Ježíš odpověděl : „ Nezabiješ , nezcizoložíš , nebudeš krást , lhát ,
+40019020	Co		Mladík na to řekl : „ To všechno jsem vždycky dodržoval . Co mi ještě chybí ? "
+40019025	Kdo		Učedníky to překvapilo a ptali se : „ Kdo tedy vůbec může být spasen ? "
+40019027	Co		Petr se ozval a řekl : „ My jsme se vzdali všeho a jdeme za tebou . Co nás čeká ? "
+40020006	Proč		K večeru tam uviděl postávat jiné a zeptal se jich : Proč tu tak nečinně stojíte celý den ? '
+40020012	~		, Ti , co přišli poslední , pracovali jenom hodinu a dostali stejně jako my , kteří jsme dřeli celý den v slunečním žáru ! '
+40020021	~		
+40020032	Co		Ježíš se zastavil zavolal je k sobě a zeptal se jich : „ Co chcete , abych pro vás udělal ? "
+40021010	Kdo		Když vjel do Jeruzaléma , celé město vřelo a lidé se vzrušeně ptali : „ Kdo je to ? "
+40021016	co		Vyčítali mu : „ Neslyšíš , co volají ? " On jim odpověděl : „ Ovšem . Což jste nečetli v Písmu : I křik nemluvňat chválí Boha . "
+40021020	Jak		Když to viděli učedníci , udiveně říkali : „ Jak jsi to dokázal , že ten fíkovník tak rychle uschl ? "
+40021023a	Jakým		Když pak zas učil v chrámu , přišli k němu velekněží a židovští předáci a ptali se ho : „ Jakým právem zde takto jednáš ? 
+40021023b	kdo		Kdo ti k tomu dal moc ? "
+40021025a	~		„ Řeknu vám to , ale nejprve odpovězte vy na moji otázku : Křtil Jan z pověření Boha nebo lidí ? " Říkali si mezi sebou : 
+40021025b	~		„ Odpovíme-li , že byl od Boha , namítne nám , 
+40021025c	proč		proč jsme tedy nevěřili jeho slovům .
+40021028	Jak		Jak byste rozsoudili takový případ ? Jeden muž měl dva syny a řekl jednomu z nich : Jdi dnes pracovat na vinici ! '
+40021031	Který		Který z těch dvou synů poslechl svého otce ? " Oni odpověděli : „ Ten první . " „ Právě tak , " řekl Ježíš , „ vás podvodníci a prostitutky předbíhají do Božího království .
+40021040	Co		Co myslíte , že udělá hospodář s těmi vinaři , až se vrátí ? "
+40022012	jak		Řekl mu : Člověče , jak jsi se odvážil vejít bez svatebních šatů ? ' On mlčel .
+40022017	~		Řekni nám : Je správné odvádět římské vládě daň ? "
+40022018	Proč		Ježíš však prohlédl jejich zlý úmysl . „ Vy pokrytci ! " zvolal . „ Proč se mne snažíte nachytat takovými otázkami ?
+40022020a	čí		„ Čí obraz 
+40022020b	~		a jméno je na něm vyraženo ? "
+40022028	Kterému		Kterému z těch bratrů bude patřit po vzkříšení ? Byla přece manželkou všech sedmi ! "
+40022036	které		„ Mistře , které přikázání je v zákoně nejvýznamnější ? "
+40022042a	co		„ Co si myslíte o Kristu ? 
+40022042b	čí		Čí je to syn ? " Odpověděli : „ Davidův . "
+40022043	Jak		On na to řekl : „ Jak by mohl David svého vlastního potomka nazývat Pánem ? Vždyť o něm z podnětu Ducha svatého píše v žalmu :
+40022045	jak		Jestliže ho tedy David nazývá svým Pánem , jak může být jeho synem ? "
+40023017	Co		Není to nesmysl ? Co je víc ? To zlato nebo chrám , který mu dodává posvátnost ?
+40023019	Co		Co je víc ? Oběť nebo oltář ? Teprve položením na oltář se oběť stává obětí .
+40023033	~		Vy si myslíte , že ujdete ohni Božího soudu ? Jako jedovatí hadi číháte na proroky , pravé učitele a vykladače Písma , kteří k vám přicházejí z mého pověření . Budete je bičovat ve svých synagogách a pronásledovat od města k městu , některé z nich zavraždíte , jiné ukřižujete .
+40024003a	kdy		„ Kdy se to stane ? " vrátili se k Ježíšovým slovům učedníci , když se posadili na Olivové hoře . 
+40024003b	Které		„ Které události ohlásí tvůj příchod a konec světa ? "
+40024045	jak		Jak se chová věrný a prozíravý služebník , kterého pán pověřil správou služebnictva ?
+40025037	~		Ti věrní namítnou : Nevzpomínáme si , že bychom měli někdy příležitost se takto o tebe postarat . '
+40025038	~		
+40025039	~		
+40025044	jak		Budou se obhajovat : Pane , jak jsme ti mohli pomoci , když jsme tě nikdy neviděli ? '
+40026008	~		Učedníci tím byli pohoršeni : „ Takové plýtvání !
+40026010	Proč		Ježíš to slyšel a řekl : „ Proč jí to máte za zlé ? Prokázala mi dobrou službu .
+40026015	Kolik		a řekl jim : „ Kolik mi zaplatíte , když zradím Ježíše , abyste ho nenápadně dostali do rukou ? " A oni mu dali třicet stříbrňáků .
+40026017	Kde		První den Velikonoc se učedníci zeptali Ježíše : „ Kde máme připravit velikonoční večeři ? "
+40026040	~		Pak se vrátil k těm třem a oni spali .
+40026050	co		Ježíš mu řekl : „ Příteli , co to děláš ? " Tu se však Ježíše chopili a zajali ho .
+40026054	jak		Ale jak by se pak splnil Boží plán spásy ? "
+40026062a	~		
+40026062b	jak		Nato vstal nejvyšší velekněz a řekl Ježíšovi : „ Jak se obhájíš proti této obžalobě ? "
+40026065	Jaký		Velekněz si na znamení největšího pohoršení roztrhl své roucho a prohlásil : „ To je rouhání ! Cožpak potřebujeme ještě svědky ? Teď jste to slyšeli na vlastní uši ! Jaký vynesete rozsudek ? "
+40026066	~		
+40026068	kdo		„ Když jsi Mesiáš , hádej , kdo ti teď dal ránu ! "
+40027004	~		„ Zhřešil jsem , zradil jsem nevinného člověka ! " Oni však lhostejně odpověděli : „ Do toho nám nic není , to je tvoje věc ! "
+40027013	čeho		„ Neslyšíš , z čeho tě obviňují ? " ptal se Pilát .
+40027017	Koho		Když se lid toho jitra shromáždil před Pilátovým domem , zeptal se jich místodržitel : „ Koho vám mám propustit - Barabáše , nebo Ježíše Krista ? "
+40027021	koho		Když se Pilát znovu zeptal , koho z těch dvou má propustit , ozval se pokřik : „ Barabáše ! "
+40027022	co		„ A co mám udělat s Ježíšem Kristem ? " zeptal se Pilát . Dav křičel : „ Ukřižuj ho ! "
+40027023a	~		Pilát ještě namítl : 
+40027023b	~		„ Vždyť se ničeho zlého nedopustil . " Ale křik davu se stupňoval : „ Na kříž ! Na kříž ! "
+40027046	proč		Pak Ježíš hlasitě zvolal : „ Eli , Eli , lema sabachtani ? , " což znamená : „ Bože můj , Bože můj , proč jsi mne opustil ? "
+41001024	Co		„ Co je ti po nás , Ježíši Nazaretský ? Chceš nás snad zničit ? Vím dobře , že jsi svatý Boží Syn ! "
+41001027	Co		Lidé byli ohromeni a začali se dohadovat : „ Co to je ? Nové učení ? Odkud bere takovou moc ? Vždyť i zlým duchům poroučí a oni ho poslouchají ! "
+41002007a	co		„ Slyšeli jste , co ten člověk řekl ? To je přece rouhání ! 
+41002007b	~		On si snad o sobě myslí , že je Bohem ! Vždyť jedině Bůh může odpouštět hříchy . "
+41002008	Proč		Ježíš však četl jejich myšlenky a obrátil se k nim : „ Proč vás to tak popudilo , co jsem právě řekl ?
+41002009	Co		Co je snadnější ? Oznámit ochrnutému , že se mu odpouštějí hříchy , nebo mu rozkázat , aby se zvedl , sebral svoje lehátko a odešel domů ?
+41002016	Jak		Když však židovští náboženští vůdcové viděli , že Ježíš stoluje s lidmi špatné pověsti , vyptávali se jeho učedníků : „ Jak si jen může sednout k jednomu stolu s takovou lůzou ? "
+41002018	Proč		Janovi učedníci a židovští předáci měli ve zvyku se postit . Jednou přišli lidé za Ježíšem s otázkou : „ Proč se tvoji učedníci také nepostí jako žáci Jana a farizejů ? "
+41002019	~		Nato jim Ježíš řekl : „ Cožpak ženichovi přátelé odmítají na svatbě jídlo , když je ženich mezi nimi ? To se přece radují ,
+41002024	Proč		Farizejové to uviděli a vytýkali Ježíšovi : „ Proč to dělají ? Vždyť náš Zákon přece zakazuje v sobotu pracovat , a oni trhají obilí ! "
+41003004	co		a pak položil ostatním otázku : „ Co se smí v sobotu ? Mohou se konat dobré skutky , nebo se má páchat zlo ? Je možné zachránit život , nebo jej zničit ? " Na tyto otázky se nikdo neodvážil odpovědět .
+41003023	Jak		Ježíš je pozval k sobě a vyvracel tyto pomluvy . Aby mu všichni rozuměli , použil příklad : „ Jak může satan vyhnat satana ?
+41003033a	kdo		Ježíš věděl , s jakým záměrem rodina přichází , a proto řekl : „ Kdo je má matka ? 
+41003033b	kdo		A kdo jsou moji bratři ? "
+41004013	jak		Jestliže ovšem ani vy nechápete tento jednoduchý obraz , jak potom porozumíte všem dalším , které vám chci vyprávět ?
+41004030a	jak		„ Jak ještě znázornit Boží království ? 
+41004030b	čemu		K čemu ho přirovnat ? " uvažoval Ježíš .
+41004038	~		Ježíš však klidně spal na zádi , s poduškou pod hlavou . Učedníci ho probudili : „ Mistře , tobě je jedno , že se potápíme ? "
+41004040a	Proč		Pak se Ježíš obrátil na učedníky : „ Proč jste se tolik báli ? 
+41004040b	~		Copak mi nedůvěřujete ? "
+41004041	Kdo		Byli tím vším ohromeni a ptali se jeden druhého : „ Kdo to jen může být , že ho poslouchá vítr i voda ? "
+41005007	Co		„ Co si mne všímáš , Ježíši , Synu Boha nejvyššího ? Zapřísahám tě při Bohu , nech mne na pokoji ! "
+41005009	Jak		„ Jak se jmenuješ ? " zeptal se Ježíš . „ Zástup , protože je nás v tomto těle mnoho , " zněla odpověď .
+41005030	Kdo		Ježíš ovšem ihned poznal , že z něho vyšla uzdravující síla , otočil se a otázal se : „ Kdo se to dotkl mého pláště ? "
+41005031	kdo		Jeho učedníci se divili : „ Všichni se na tebe tlačí a ty se ptáš , kdo se tě dotkl ? "
+41005035	~		Když s ní ještě mluvil , dorazili poslové z Jairova domu se zprávou , že již je pozdě shánět pomoc . „ Tvá dcera právě umřela , už Mistra neobtěžuj , " oznamovali Jairovi .
+41005039a	čemu		„ K čemu ten pláč 
+41005039b	~		a rozruch ? Vždyť to děvče není mrtvé , jenom spí ! "
+41006002a	Kdepak		Když přišla sobota , kázal v tamější synagoze , kde mu naslouchalo mnoho lidí . Všichni žasli a říkali si : „ Kdepak se to naučil ? 
+41006002b	kde		Kde se u něho vzala ta moudrost ? 
+41006002c	~		A dokonce dělá i zázraky !
+41006022	~		Dcera Herodiady při banketu tančila před hosty a všem se velice líbila .
+41006024	~		Šla se tedy poradit se svou matkou a ta ji navedla , aby si řekla o hlavu Jana Křtitele .
+41006037	~		„ Tak jim dejte najíst vy ! " navrhl Ježíš . „ Kde bychom vzali tolik jídla , " namítali , „ to by stálo pěkné peníze nakrmit takový zástup . "
+41006038	Kolik		„ Kolik tu mají lidé potravin ? Jděte a zjistěte to ! " požádal Ježíš . „ Všeho všudy jen pět chlebů a dvě ryby , " hlásili mu , když se vrátili .
+41007005	Proč		Teď tedy dotírali na Ježíše : „ Proč tvoji učedníci nedodržují zvyky našich předků a jedí neumytýma rukama ? "
+41008004	~		„ Chceš snad , abychom jim tady v té pustině sháněli něco k jídlu ? " ulekli se učedníci .
+41008005	Kolik		„ Kolik chlebů máte ? " zeptal se Ježíš . „ Sedm , " odpověděli .
+41008012	Kolik		„ Kolik zázraků a znamení byste ještě chtěli ? " povzdechl si Ježíš . „ Stejně byste ani potom neuvěřili . "
+41008017	co		Ježíš zaslechl , co je znepokojuje . „ Co se staráte o jídlo ? Ještě pořád vám nic nedošlo ? To jste tak nechápaví ?
+41008018a	~		Oči mají a nevidí , 
+41008018b	~		uši mají a neslyší . ' Cožpak si nic nepamatujete ?
+41008019	kolik		Co těch pět tisíc , které jsem nasytil pěti chleby ? A kolik košů jste nasbírali ? " „ Dvanáct , " odpověděli .
+41008020	kolik		„ A když jsem nasytil čtyři tisíce pouhými sedmi chleby , kolik ještě zbylo ? Vzpomínáte si ? " „ Sedm plných košů , " přiznali . „ Tak vidíte - ještě vám to nestačí ? "
+41008021	~		
+41008023	~		Ježíš ho vzal za ruku a vyvedl za vesnici . Tam se nasliněnými prsty dotkl očí slepce a zeptal se : „ Vidíš něco ? "
+41008027	koho		Potom Ježíš se svými učedníky opustil Galileu a procházel vesničkami v okolí Césareje Filipovy , na úpatí pohoří Hermonu . Cestou se svých učedníků zeptal : „ Za koho mne lidé považují ? "
+41008029a	~		
+41008029b	koho		„ A za koho mne považujete vy ? " otázal se dále . „ Ty jsi ten zaslíbený král - Kristus , " zvolal Petr .
+41008036	co		Vždyť co člověku prospěje , získá-li celý svět , a pravý život promarní ?
+41008037	~		Dostane snad ještě jednou takovou příležitost ?
+41009010	co		Slíbili , že o tom zatím budou mlčet , ale vůbec nechápali , co myslel tím , že „ vstane z mrtvých " .
+41009011	Proč		„ Proč učitelé zákona říkají , že dříve než Kristus musí znovu přijít prorok Elijáš ? " otázali se Ježíše .
+41009012	~		„ Ano , nejprve měl přijít Elijáš , aby dal vše do pořádku . A on také přišel a připravil mi cestu . Ovšem , jak je v Bibli předpověděno , naložili s ním , jak se jim zlíbilo . Ale všimněte si , že Písmo hovoří také o Synu člověka , jak musí velmi trpět a upadnout do opovržení . "
+41009016	čem		„ O čem se dohadujete ? " zeptal se jich .
+41009019a	jak dlouho		„ Ach , vy lidé , " zvolal Ježíš , „ jak dlouho bude trvat , než uvěříte ? 
+41009019b	jak dlouho		Jak dlouho vás budu ještě snášet a mít s vámi trpělivost ? Přiveďte toho hocha ke mně ! "
+41009021	Jak dlouho		„ Jak dlouho tím trpí ? " otázal se Ježíš otce . „ Už od malička .
+41009028	Proč		Když pak Ježíš vešel do domu a jeho učedníci s ním byli sami , zeptali se ho : „ Proč jsme toho démona nemohli vyhnat my ? "
+41009033	čem		Potom se vrátili do Ježíšova příbytku v Kafarnaum . Tam se Ježíš zeptal svých učedníků , o čem se to cestou dohadovali .
+41009050	čím		Sůl je dobrá věc . Ztratí-li však svou chuť a schopnost bránit rozkladu , čím ji nahradíte ? Nebraňte se proto zkouškám a držte spolu . "
+41010003	Co		Místo odpovědi jim dal otázku : „ Co řekl o rozvodu Mojžíš ? "
+41010017	co		Když se zase vydali na cestu , dohonil je nějaký muž a padl před Ježíšem na kolena : „ Dobrý učiteli , co mám dělat , abych získal věčný život ? "
+41010018	Proč		„ Proč mi říkáš dobrý ? Vždyť dobrý je jen Bůh , " odvětil Ježíš .
+41010026	~		To jim dodalo . „ Má vůbec někdo naději , že se tam dostane ? " říkali si mezi sebou .
+41010036	Co		„ Co si ode mne přejete ? " vzhlédl Ježíš .
+41010051	Co		„ Co pro tebe mohu udělat ? " dotkl se ho Ježíš . „ Mistře , chci vidět ! "
+41011003	co		A kdyby se vás někdo ptal , co to děláte , odpovězte krátce : Pán ho potřebuje a brzy ho vrátí . "
+41011005	proč		Když ho odvazovali , někteří z kolemjdoucích se ptali , proč to dělají .
+41011028a	koho		„ Od koho máš pověření k takovým činům ? 
+41011028b	kdo		Kdo tě k tomu zmocnil ? "
+41011030	~		Povězte mi : Byl Jan Křtitel skutečně poslán od Boha , nebo si to vymyslel ? "
+41011031a	~		Dali hlavy dohromady : „ Odpovíme-li , že od Boha , pak nám řekne , 
+41011031b	proč		proč jsme mu tedy neuvěřili .
+41012009	Co		Co si myslíte , že udělá ten majitel , až přijde ? Spravedlivě je odsoudí k smrti a vinici pronajme jiným .
+41012015	Co		Ježíš však nastraženou past prohlédl . „ Co to na mě zkoušíte , podejte mi peníz ! "
+41012016a	čí		Když mu ho podali , zeptal se : „ Čí obraz 
+41012016b	~		a jméno je na té minci ? " „ Římského císaře , " řekli .
+41012023	čí		Naše otázka zní : Čí bude ta žena po vzkříšení ? Vždyť ji mělo za manželku všech sedm . "
+41012028	Které		Tyto rozhovory sledoval jeden z učitelů zákona . Zdálo se mu , že Ježíš odpovídá znamenitě . A tak mu předložil svůj problém : „ Které přikázání je nejdůležitější ? "
+41012035	čeho		Později , když Ježíš učil v chrámu , položil otázku : „ Z čeho náboženští učitelé usuzují , že Kristus musí být potomkem krále Davida ?
+41012037	jak		Když ho David nazývá svým Pánem , jak by tedy mohl být Davidovým synem ? " Ježíš měl vždycky mnoho pozorných posluchačů .
+41013004a	kdy		kdy ta pohroma nastane 
+41013004b	jaké		a jaké varování ji bude předcházet .
+41014004	čemu		Některým se to zdálo přehnané a říkali si mezi sebou : „ K čemu takové plýtvání ?
+41014006	Proč		Ale Ježíš se jí ujal : „ Nechte ji . Proč jí kazíte radost ? Vždyť ona to myslí dobře .
+41014012	Kde		První den svátků , kdy se zabíjel a jedl velikonoční beránek , zeptali se učedníci Ježíše : „ Kde máme připravit velikonoční večeři ? "
+41014014	kde		a sledovat ho až do domu . Majiteli toho domu měli říci : „ Mistr prosí , abys nám ukázal místnost , kde máme jíst velikonoční večeři . "
+41014060a	~		Velekněz se ujal slova a zeptal se Ježíše : 
+41014060b	jak		„ Jak vyvrátíš tato obvinění ? "
+41014063	Nač		Teď velekněz roztrhl svoje vnější roucho na znamení pobouření a vykřikl : „ Nač ještě svědky ?
+41014064	Co		Sami jste slyšeli , jak se rouhá . Co si zaslouží ? " Jednohlasně ho odsoudili k smrti . Někteří se vrhli dopředu ,
+41015004	co		„ Co ty na ? " dal mu slovo místodržitel . „ Co odpovíš na všechny ty žaloby ? "
+41015012	Co		„ Co tedy mám udělat s tím , kterému říkáte židovský král ? "
+41015014a	~		
+41015014b	jaký		„ Ale za jaký zločin ? " namítal Pilát . Lůza však skandovala : „ Na kříž ! Na kříž ! "
+41015034	proč		Ve tři hodiny odpoledne vykřikl Ježíš : „ Eloi , Eloi , lema sabachtani ? " Jsou to úvodní slova dvacátého druhého žalmu : „ Bože můj , Bože můj , proč jsi mne opustil ? "
+41016003	kdo		Cestou hovořily o tom , kdo jim odstraní obrovský kámen , kterým byl vchod zatarasen .
+42001018	jak		Zachariáš namítl : „ Jak tomu mohu věřit ? Vždyť jsem už starý a moje žena také není mladá . "
+42001034	Jak		Marie namítla : „ Jak se mi může narodit dítě ? Vždyť nežiji s mužem ! "
+42001043	Jaká		Jaká je to pro mne čest , že mne navštívila matka mého Pána !
+42001066	co		Kdo ji slyšel , uvažoval , co s tím dítětem Bůh zamýšlí . Všichni viděli , že ho provází Boží moc .
+42002048	proč		Rodiče tím byli překvapeni a matka mu vyčítala : „ Chlapče , proč nám děláš takové starosti ? Otec a já jsme tě hledali celí zoufalí . "
+42002049	Proč		Ježíš jim odpověděl : „ Proč jste mne hledali ? Cožpak nevíte , že musím být tam , kde se jedná o záležitosti mého Otce ? "
+42003007	~		Lidé se k Janovi hrnuli v zástupech , aby se od něho dali pokřtít . Často však od něho slýchali ostrá napomenutí : „ Vy chytráci ! Myslíte , že se vykroutíte z Božího soudu jako hadi ?
+42003010	co		Lidé se ho ptali : „ Tak co máme dělat ? "
+42003012	co		Přicházeli k němu i výběrčí daní a ptali se ho : „ Mistře , co máme dělat my ? "
+42003014a	~		I vojáci se ptali : 
+42003014b	co		„ A co my ? " Těm říkal : „ Nikoho netýrejte a nevydírejte , spokojte se se svým žoldem . "
+42004034	Co		„ Co je ti do nás , Ježíši z Nazaretu ? Přišel jsi nás zničit ? Znám tě , tebe posílá Bůh . "
+42004036	Co		Lidé se polekali a dohadovali se mezi sebou : „ Co je to v jeho slovech ? S jakou autoritou poroučí démonům , že ho na slovo poslouchají ? "
+42005021a	jak		Učitelé zákona a farizejové uvažovali : „ Jak se může opovážit něco takového říci ? To je přece rouhání . 
+42005021b	~		Nikdo jiný než Bůh nemůže odpouštět hříchy ! "
+42005022	~		Ježíš dobře věděl , co si myslí , a proto řekl : „ To vám vadí ?
+42005023	Co		Co je snazší ? Zvěstovat člověku odpuštění jeho hříchů , anebo ho uzdravit ?
+42005030	Proč		To pohoršilo farizeje a učitele zákona , takže vytýkali učedníkům : „ Proč jíte a pijete s lidmi , kterými každý slušný člověk pohrdá ? "
+42005033	jak		Někteří farizejové Ježíšovi předhazovali : „ Janovi učedníci se často s postem modlí a právě tak i naši žáci . Jak to tedy , že tvoji hodují ? "
+42005034	~		Ježíš odpověděl : „ Je přirozené , aby se svatebčané postili , když je ženich s nimi ?
+42006002	Co		Viděli to farizejové a pohoršovali se : „ Co to děláte ? Vždyť přece Boží zákon zakazuje v sobotu i takovou práci ! "
+42006009	~		Ježíš pak oslovil všechny přítomné : „ Ptám se vás , má se podle zákona konat v sobotu dobro , nebo zlo ? Má se člověk zachránit , nebo nechat hynout ? "
+42006032	Jakou		Jakou čekáte od Boha pochvalu , když milujete jen ty , kteří milují vás ? To umějí lidé , kteří se na Boha neptají .
+42006033	jaké		Jestliže jednáte dobře jen s těmi , kteří se k vám chovají slušně , jaké uznání od Boha čekáte ?
+42006034	~		A myslíte , že Bůh ocení , když půjčujete jenom těm , kteří vám to vždycky vrátí ? Tak to přece na světě chodí , že si lidé půjčují , jenom když mají jistotu , že o nic nepřijdou . Ale vy jednejte jinak .
+42006039	~		Ježíš použil také několika přirovnání : „ Slepec přece nepovede slepého , vždyť by oba spadli do jámy .
+42006041	Proč		Proč se staráš o pilinu v oku svého bližního a polena ve svém oku si nevšímáš ?
+42006042	Jak		Jak můžeš říkat svému bratrovi : Dovol , odstraním ti pilinu z oka , ' a přehlížet poleno ve svém vlastním oku ? Pokrytče , nejprve si vyčisti své vlastní oko , a teprve potom jasně uvidíš , co potřebuje tvůj bratr .
+42006046	Proč		Proč mi stále říkáte : Pane , Pane , a neděláte , co vám říkám ?
+42007024	koho		Když poslové odešli , začal Ježíš mluvit ke shromážděným lidem o Janu Křtiteli : „ Když jste chodili za mužem , který strávil život v pustinách , koho jste očekávali ? Rákos , který se otočí podle větru ?
+42007025	~		Nebo jste chtěli vidět člověka v přepychových šatech ? Takoví jsou jen v palácích .
+42007026	~		Chtěli jste slyšet proroka ? Ano , poznali jste někoho ještě většího než proroka .
+42007031a	~		Ježíš pokračoval : 
+42007031b	komu		„ Komu se tak podobají ?
+42007042	který		Když však ani jeden z nich nemohl zaplatit , věřitel odpustil dluh oběma . Co myslíš , který z nich ho bude mít víc rád ? "
+42007049	co		Když si ostatní hosté říkali mezi sebou : „ Co je to za člověka , že si troufá odpouštět hříchy ? "
+42008025a	kde		V nastalém tichu se zeptal učedníků : „ Kde zůstala vaše víra ? " Byli celí vyděšení a udivení a říkali si mezi sebou : 
+42008025b	kdo		„ Kdo to jen může být , že ho i vítr a vlny poslouchají ? "
+42008028	Co		Když uviděl Ježíše , zaječel , vrhl se před ním na zem a křičel : „ Co ode mne chceš , Ježíši , synu Nejvyššího Boha ? Nech mne na pokoji ! "
+42008030	kdo		Ježíš se ho zeptal : „ Kdo vlastně jsi ? " On odpověděl : „ Nás je spousta . " Byl totiž posedlý mnoha démony .
+42008045	Kdo		Ježíš se zeptal : „ Kdo se mne to dotkl ? " Nikdo se nepřiznával a Petr řekl : „ Pane , vždyť je kolem tebe tolik lidí a ti se na tebe tlačí . "
+42009009a	kdo		Herodes říkal : „ Jana Křtitele jsem přece dal popravit , kdo je tedy ten muž , 
+42009009b	~		o kterém slyším tak zvláštní věci ? " Proto si velice přál Ježíše poznat .
+42009018	koho		Jednou se Ježíš odebral se svými učedníky na odlehlé místo k modlitbám . Otázal se jich : „ Za koho mě vlastně lidé považují ? "
+42009020a	~		A tu jim Ježíš položil přímou otázku . 
+42009020b	koho		„ A za koho mě máte vy ? " Petr odpověděl : „ Ty jsi ten Boží Syn , Mesiáš . "
+42009025	Co		Co by z toho člověk měl , kdyby získal třeba celý svět , ale prohrál věčnost ?
+42009041a	jak dlouho		Ježíš na to řekl : „ Vy ale napínáte moji trpělivost . Jak dlouho vám to bude ještě trvat než uvěříte ? Přiveď sem svého syna ! "
+42009041b	~		
+42010025	co		Jeden z učitelů zákona chtěl přivést Ježíše do úzkých a zeptal se ho : „ Mistře , co mám dělat , abych si zajistil věčný život ? "
+42010026a	co		Ježíš mu odpověděl otázkou : „ Co o tom říká Mojžíšův zákon ? 
+42010026b	co		Co tam čteš ? "
+42010029	kdo		Učitel zákona se však nechtěl tak lehce vzdát , a proto se ještě zeptal . „ Ale kdo je můj bližní ? "
+42010036a	co		„ Co myslíš , " zeptal se Ježíš , 
+42010036b	který		„ který z těch tří se zachoval k tomu přepadenému jako bližní ? "
+42011008	~		Napřed odmítá , ale nakonec určitě vyhoví , když se žádající nenechá odradit , ale buší a vytrvale prosí .
+42011011	~		Je snad mezi vámi takový otec , který by dal svému synovi kámen , kdyby prosil o chléb , nebo by mu dal hada , kdyby prosil o rybu ,
+42011012	~		či snad jedovatého štíra místo vajec ?
+42011013	~		Vy , hříšní lidé , nikdy nedáte dětem , co by jim uškodilo . Tím spíše váš nebeský Otec vyslyší vaše vytrvalé modlitby . Usměrní vaše přání a dá to , co vám skutečně prospívá . "
+42011018	~		Podle vás tedy bojuje satan sám proti sobě .
+42011019	jakou		Říkáte , že vyháním démony mocí satana . Ale co vaši léčitelé ? Jakou mocí oni přemáhají nemoci ? Na nich si ověřte , jak mne nesmyslně obviňujete .
+42012014	~		Ježíš mu odpověděl : „ Nejsem tu na to , abych rozsuzoval vaše spory . "
+42012017	~		
+42012020	komu		Ale promluvil k němu Bůh : Blázne , dnes v noci zemřeš , a komu připadne , co sis nahromadil ? ' "
+42012024	~		Podívejte se na havrany ! Nesejí , nežnou , nemají spíže ani stodoly a Bůh je živí . Pro něho máte větší cenu než ptáci !
+42012025	~		Kdyby se někdo z vás sebevíc snažil , může povyrůst třeba jen o jediný centimetr ? Když ani taková maličkost není ve vaší moci , proč se trápíte starostmi o to ostatní ?
+42012026	proč		Když ani taková maličkost není ve vaší moci , proč se trápíte starostmi o to ostatní ?
+42012042	~		Ježíš odpověděl : „ Vy máte být jako dobrý správce , kterému pán dal na starost ostatní pracovníky , aby jim pravidelně rozděloval pokrm .
+42012049	jak		Zvěst o spáse , kterou jsem přinesl na zem , se bude šířit jako oheň ; a jak si přeji , aby už vzplál !
+42012056	Jak		Chytráci ! Úkazy na nebi i na zemi posuzujete a umíte z nich vyvodit závěry . Jak to , že nedovedete posoudit znamení této doby ?
+42012057	proč		Jestliže je tu chvíle rozhodnutí , proč otálíte dát věci do pořádku ?
+42013004	~		Anebo těch osmnáct , na které se zřítila věž v Siloe ; ti také nebyli horší než druzí lidé v Jeruzalémě .
+42013007	~		Řekl vinaři : Podívej , už třetí rok čekám na ovoce z tohoto fíkovníku , ale nic nerodí . Poraž ho , jenom tu překáží . '
+42013015	kdo		Ježíš na to řekl : „ Pokrytci ! Kdo z vás neodvazuje dobytek , aby ho zavedl k napajedlu ?
+42013018a	~		Ježíš řekl : 
+42013018b	čemu		„ K čemu mám přirovnat Boží království ?
+42013020	~		Boží království se dá také přirovnat ke kvasu , který žena zadělá do těsta . I když mouky bude hodně , postačí jen trochu kvasu , aby celé těsto nakynulo . "
+42013025	odkud		Jakmile totiž jednou Pán domu přijde , zamkne a pak už bude pozdě . Mnozí by potom ještě rádi vešli , ale už to nepůjde . Marně byste tloukli na dveře a volali : Pane , Pane , otevři nám ! ' Zůstanete venku a Pán vám odpoví : Nevím , kdo jste a odkud jste . '
+42014005	~		Pak jim ještě řekl : „ Kdyby někomu z vás spadlo dítě nebo dobytče do jámy , nevytáhli byste ho , i kdyby byla sobota ? "
+42014028	Kdo		Kdo chce stavět dům , musí si nejprve udělat rozpočet a odhadnout , bude-li mít dost prostředků na to , aby stavbu dokončil .
+42014031	~		A když panovníkovi hrozí válka , neporadí se nejprve , zda se může se svými deseti tisíci vojáky postavit proti dvaceti tisícům ?
+42014034	čemu		Sůl je dobrá věc , ale k čemu bude , ztratí-li svou chuť a schopnost bránit hnilobě ?
+42015004	~		„ Kdyby někdo z vás měl sto ovcí a jedna z nich by se mu zaběhla , nepokusil by se ji nalézt ? Těch devadesát devět ponechá na pastvě a půjde za tou ztracenou tak dlouho , dokud ji nenalezne .
+42015008	~		Nebo si představte ženu , která má deset stříbrných mincí a jedna se jí doma někam zakutálí . Nerozsvítí světlo , nevymete kouty a nebude hledat tak dlouho , až peníz najde ?
+42015026	co		Zavolal si jednoho sluhu a zeptal se , co se děje .
+42015029	co		Ale syn mu vyčítal : Tolik let jsem pro tebe dřel , ve všem tě poslechl a co z toho mám ? Nikdy jsi mi nedal ani kůzle , abych se poveselil se svými přáteli .
+42016002	Co		Pán si ho dal zavolat a řekl mu : Co to o tobě slyším ? Předlož mi všechny účty , a jestli jsi mě podváděl , dám ti výpověď . '
+42016003	Co		Správce přemýšlel : Co teď ? Krumpáčem se neuživím , žebrat se stydím .
+42016005	Kolik		Dal si zavolat dva dlužníky svého pána , ale s každým mluvil zvlášť . Zeptal se prvního : Kolik jsi dlužen mému pánovi ? ' Muž odpověděl : Sto džbánů olivového oleje . '
+42016007	Co		Zeptal se pak toho druhého : Co dlužíš mému pánovi ? ' On odpověděl : Sto pytlů pšenice . ' I řekl mu správce : Vezmi si dlužní úpis a napiš jiný na osmdesát . '
+42016011	kdo		Jste-li nepoctiví v záležitostech tohoto života , kdo může důvěřovat vaší víře v Boha ? Neumíte-li správně zacházet s mizernými penězi , jak vám může Bůh svěřit věčné bohatství ?
+42016012	jak		Neumíte-li správně zacházet s mizernými penězi , jak vám může Bůh svěřit věčné bohatství ?
+42017007	~		A ještě něco : Když se nějaký otrok vrátí po celodenní práci na poli , není zbaven domácích povinností . Nebo jste snad slyšeli , že by si sedl ke stolu a že by ho pán obsluhoval
+42017017	Kde		Ježíš se ho zeptal : „ Nebylo vás uzdraveno deset ? Kde je devět ostatních ?
+42017018	Proč		Proč se také nevrátili , aby Bohu poděkovali jako tento cizinec ? "
+42017020	kdy		Farizejové se Ježíše ptali , kdy přijde Boží království . Odpověděl jim : „ Boží království nenajdete na určitém místě ,
+42017037	Kde		Učedníci se ho zeptali : „ Kde se to všechno stane ? " Odpověděl jim : „ Tak jako supi bezpečně najdou každé mrtvé tělo , tak také nikdo na žádném místě neunikne Božímu soudu . "
+42018018	co		Jeden vznešený muž se Ježíše zeptal : „ Svatý učiteli , co musím dělat , abych získal věčný život ? "
+42018019	Co		Ježíš mu řekl : „ Co tě vede k tomu , že mě nazýváš svatým ? Vždyť svatý je pouze Bůh !
+42018026	Kdo		Lidé , kteří to slyšeli , se ptali : „ Kdo tedy vůbec může být spasen ? "
+42018036	co		Slyšel , že kolem proudí davy lidí a ptal se , co to má znamenat .
+42018041	Co		Když ho k němu přivedli , zeptal se Ježíš : „ Co pro tebe mám udělat ? " Slepec odpověděl : „ Pane , ať vidím ! "
+42019007	~		Lidé se posmívali : „ Jde na návštěvu k takovému hříšníkovi ! "
+42019023	Proč		Proč jsi moje peníze alespoň neuložil na úrok ? '
+42019031	proč		Kdyby se vás někdo ptal , proč to děláte , řekněte : Pán ho potřebuje . ' "
+42019033	proč		Když oslátko odvazovali , přišli majitelé a ptali se , proč to dělají .
+42020002a	kdo		„ Kdo tě pověřil , 
+42020002b	koho		od koho máš takovou pravomoc ? "
+42020005a	~		Tou otázkou je zaskočil a oni se mezi sebou dohadovali : 
+42020005b	proč		„ Řekneme-li Bůh , pak se nás zeptá , proč jsme mu tedy neuvěřili ,
+42020013	Co		Majitel vinice si řekl : Co mám dělat ? Zkusím to ještě s nimi . Pošlu tam svého syna , před ním budou mít respekt . '
+42020015	~		A tak se stalo . Vyvlekli ho ven z vinice a zabili ho .
+42020017	co		Ježíš se na ně podíval a řekl : „ Přemýšlejte o tom , co znamenají slova napsaná v Bibli : Kámen , který stavitelé odhodili jako nepotřebný , se ukázal jako nejdůležitější - svorník stavby . '
+42020023	~		On však prohlédl jejich lest a vyzval je :
+42020024a	čí		„ Podejte mi peníz ! Čí obraz 
+42020024b	~		a jméno jsou na něm vyraženy ? " Odpověděli : „ Císaře . "
+42020033	Komu		Komu bude při vzkříšení náležet , když měla sedm manželů ? "
+42020041	Jak		Položil jim tedy otázku : „ Jak to , že někteří z vás nazýváte Mesiáše synem Davidovým ?
+42020044	Jak		Jak by tedy mohl být Mesiáš Davidovým potomkem , když ten ho nazývá svým Pánem ? "
+42021007a	kdy		Zeptali se ho : „ Mistře , kdy se to stane ? 
+42021007b	~		Budou tomu předcházet nějaká znamení ? "
+42022009	Kde		Zeptali se : „ Kde chceš , abychom ji udělali ? "
+42022011	~		Mistr tě žádá abys nám ukázal místnost , ve které by se mohl se svými učedníky sejít k velikonoční večeři . '
+42022027	Kdo		Kdo je přednější ? Ten , kdo sedí za stolem a dá se obsluhovat , nebo ten , kdo obsluhuje ? Obecně platí , že ten , kdo se dá obsluhovat . Vidíte , a já jsem mezi vámi jako ten , kdo slouží .
+42022046	jak		Probudil je : „ Jak můžete spát ? Vstaňte a modlete se , abyste obstáli ve zkouškách , které jsou před vámi . "
+42022064	kdo		Zavázali mu oči , bili ho do tváře a říkali : „ Jsi přece prorok , tak hádej , kdo tě uhodil . "
+42022071	~		Tu křičeli jeden přes druhého : „ To nám stačí , už žádné další svědectví nepotřebujeme , usvědčil se sám ! "
+42023022a	~		Zkusil to ještě do třetice : 
+42023022b	čím		„ Ale čím se provinil ? Nedokázal jsem mu přece nic , za co je podle zákona trest smrti . Dám ho zbičovat a propustím ho . "
+42023031	jak		Jestliže se takto nakládá se zeleným stromem , jak to může dopadnout se suchým ? Když jdu na smrt já , co můžete čekat vy ? "
+42024005	Proč		Ženy se jich velice lekly a sklopily oči . Oni jim řekli : „ Proč hledáte živého tam , kde jsou jen mrtví ?
+42024017	čem		ani když se s nimi dal do řeči : „ O čem to mluvíte , že jste tak smutní ? " Zastavili se
+42024019	~		Ježíš chtěl , aby mu to vyprávěli , a tak pokračovali : „ Cožpak jsi nic neslyšel o Ježíši z Nazaretu ? O tom prorokovi , který tak mocně kázal a dělal zázraky ? Bůh stál při něm a lidé ho měli v úctě .
+42024025	Proč		Ježíš jim na to řekl : „ Proč jste tak nechápaví a proč váháte uvěřit tomu , co předpovídali už dávní proroci ?
+42024038a	co		Avšak on je pokáral : „ Co se lekáte 
+42024038b	proč		a proč si vymýšlíte takové věci ?
+43001019	~		Z Jeruzaléma přišla za Janem Křtitelem delegace židovských kněží s otázkou , zda je očekávaný Mesiáš - Boží Syn , izraelský král .
+43001021	Kdo		„ Kdo tedy jsi ? , " zeptali se ho znovu . „ Jsi prorok Elijáš ? " „ Nejsem . "
+43001022a	kdo		„ Tak řekni , kdo jsi . Musíme o tobě podat zprávu těm , kteří nás poslali . 
+43001022b	~		Jsi tedy jiný Mesiášův předchůdce ? "
+43001025	proč		Protože Janovu odpověď nepochopili , ptali se dál : „ Když tedy nejsi Mesiáš , ani jeho předchůdce , proč křtíš ? "
+43001038a	~		Ten se po chvíli ohlédl a viděl , že ho oba následují . Zeptal se jich : „ Přejete si něco ? „ „ Mistře , „ odpověděli , 
+43001038b	kde		„ kde bydlíš ? "
+43001046	~		„ Může být z Nazaretu něco dobrého ? " zapochyboval Natanael . „ Pojď a přesvědč se sám ! " řekl Filip .
+43001048	Odkud		„ Odkud mne znáš ? , „ zeptal se ho překvapeně Natanael . „ Viděl jsem tě pod fíkovým stromem dříve , než tě našel Filip , " odpověděl Ježíš .
+43002004	Proč		„ Proč mi to říkáš ? „ odpověděl Ježíš . „ Moje chvíle ještě nepřišla . "
+43002018a	~		Židé se ho hněvivě ptali : 
+43002018b	jak		„ Jak si můžeš dovolit takto jednat ? Máš-li pověření od Boha , dokaž je nějakým zázrakem ! "
+43003004	~		„ Znovu se narodit v mém věku ? " podivil se Nikodém . „ Cožpak se někdo může vrátit do matčina těla a narodit se podruhé ? "
+43003009	Jak		Nikodém se zeptal : „ Jak toho všeho dosáhnu ? "
+43003012	jak		Když nechápete to , co se týká člověka , jak porozumíte tomu , co se týká Boha ?
+43004009	Jak		„ Jak to , že žádáš službu od Samařanky , když jsi Žid ? " ( Mezi Židy a Samařany vládlo totiž napětí . )
+43004011	jak		„ Vždyť nemáš žádnou nádobu ! Jak chceš nabrat vodu z tak hluboké studny ? " namítla žena .
+43004027a	~		V té chvíli se učedníci vrátili z města a byli překvapeni , když Ježíše zastihli v rozhovoru se ženou . Neodvážili se však zeptat , 
+43004027b	proč		proč s ní mluví .
+43005012	kdo		„ A kdo to byl ? " ptali se rozhořčeně Židé .
+43005044	Jak		Jak byste mi mohli uvěřit , když se chcete líbit lidem a ne Bohu .
+43005047	jak		Když nevěříte jemu , jak byste mohli věřit mně . "
+43006005	Kde		a Ježíš ze svého vyvýšeného místa viděl , že se mnoho poutníků připojuje k zástupu jeho posluchačů . Obrátil se na Filipa s otázkou : „ Kde nakoupíme tolik chleba , aby se všichni ti lidé najedli ? „
+43006009	~		„ Je tu jeden chlapec , který má s sebou pět ječných chlebů a dvě ryby . Ale to je jako kapka do moře ! „
+43006025	jak		Ptali se ho : „ Mistře , jak jsi se sem dostal ? "
+43006028	co		„ A co bychom měli dělat , abychom se Bohu líbili ? " ptali se .
+43006030a	jak		„ Jak nám dokážeš , že jsi Bohem poslaný Mesiáš ? " namítli někteří . „ Ty jsi sice nasytil několika chleby zástup ,
+43006030b	~		
+43006042	~		„ Je to přece Ježíš , Josefův syn ! Dobře známe jeho rodiče . A to se nám odvažuje tvrdit , že pochází z nebe ? „ volali rozhořčeně .
+43006052	Jak		To vyvolalo mezi posluchači nový rozruch : „ Jak si to představuje , cožpak můžeme jíst jeho tělo ? "
+43006060	~		Mnozí z jeho dosavadních přívrženců teď říkali : „ Co je to za nesmysly , to se nedá poslouchat ! "
+43006062	co		A co řeknete , až uvidíte , jak vystupuji tam , odkud jsem přišel ?
+43006068	komu		Šimon Petr odpověděl za všechny : „ Pane , ke komu bychom šli ? Tvoje slova pro nás znamenají věčný život .
+43007011	~		O svátcích ho tam lidé hledali a všude se o něm hovořilo . Někteří ho chválili , jiní zase říkali , že plete lidem hlavu .
+43007015	Jak		Překvapení Židé se divili : „ Jak to , že se tak vyzná v Písmu , když na to nemá školy ? "
+43007019	Proč		Mojžíš vám dal zákon , ale nikdo z vás ho neplní . Jakým právem mne osočujete ? Proč mi ukládáte o život ? "
+43007020	~		„ Ty ses snad pomátl na rozumu ! Copak tě chce někdo zabít ? " ozvalo se z davu .
+43007023	Proč		Proč vás tedy tak rozčiluje , že jsem v sobotu vrátil člověku zdraví ?
+43007035	Kam		Židé se překvapeně ptali : „ Kam chce odejít , že se za ním nedostaneme ? Chce snad jít mezi pohany a učit je ? "
+43007036	~		
+43007041	~		Někteří však namítali : „ Ne , to může být nanejvýš jeho předchůdce . Pochází přece z Galileje !
+43007045	Proč		Proč jste ho nepřivedli ? "
+43007048	~		„ Uvěřil mu snad někdo z velerady nebo z nás ?
+43007051	jak		„ Jak můžete odsoudit člověka , kterého jste nevyslechli ? Odpovídá to našemu zákonu ? "
+43008005	Co		Mojžíšův zákon je přísný . Odsuzuje ji k smrti ukamenováním . Co ty tomu říkáš ? "
+43008010	Kam		Znovu se vzpřímila zeptal se ženy : „ Kam se poděli tvoji žalobci ? Žádný z nich tě neodsoudil ? "
+43008019	kde		„ A kde je ten tvůj Otec ? " ptali se farizejové . Řekl jim : „ Když neznáte mne , nemůžete znát ani mého Otce . Kdybyste znali mne , znali byste i jeho . "
+43008025a	kdo		„ Tak nám tedy řekni , kdo vlastně jsi ! " naléhali na Ježíše .
+43008025b	~		
+43008033	proč		„ Jsme potomci Abrahama , " ozvali se . „ Nikdy jsme nebyli otroky , proč tedy říkáš , že budeme osvobozeni ? "
+43008043	Proč		Proč nechápete , co říkám ?
+43008046a	kdo		Kdo z vás mne může usvědčit z hříchu ? Nikdo ! 
+43008046b	Proč		Proč mi tedy nevěříte , když říkám pravdu ?
+43008053	Co		Myslíš si snad , že jsi významnější než náš otec Abraham a větší než proroci ? Co to ze sebe děláš ? Vždyť ti všichni zemřeli ! "
+43008057	~		„ Teď jsi se projevil . Není ti ani padesát , a pamatuješ Abrahama ? " smáli se Židé .
+43009002	proč		„ Mistře , " ptali se Ježíše učedníci , „ proč se narodil slepý ? Zhřešil on , nebo jeho rodiče ? "
+43009010	jak		„ A jak to , že teď vidíš ? " ptali se ho .
+43009012	kde		„ Nevíš , kde bychom ho našli ? " ptali se zvědavě . „ To nevím , " odpověděl .
+43009016	~		Některým z nich se to nelíbilo : „ Ten člověk neuzdravuje z Božího pověření . Vždyť nezachovává sobotu . " Jiní ho zase bránili : „ Takové zázraky přece nemůže dělat hříšný člověk . " A už byli v sobě .
+43009017	Co		Znovu se tedy obrátili na uzdraveného : „ Co ty si o něm myslíš ? " „ Určitě je to Boží posel , " odpověděl jim .
+43009019	~		a zeptali se jich : „ Je to váš slepý syn , který od narození neviděl ? "
+43009026a	co		„ Jak tě uzdravil , co s tebou dělal ? " ptali se ho znovu .
+43009026b	jak		„ Jak tě uzdravil , 
+43009027	proč		„ Už jsem vám to řekl jednou , " odpověděl , „ proč se mne na to znovu ptáte ? Chcete se snad stát jeho učedníky ? "
+43009034	~		„ Ty mrzáku , ty nás budeš poučovat ? " křičeli na něho farizejové a vyhodili ho .
+43009036	~		Uzdravený odpověděl : „ Rád bych v něho věřil , ale neznám ho . "
+43010020	~		Mnozí říkali : „ Je posedlý démonem a dočista se zbláznil . Vůbec ho neposlouchejte . "
+43010021	~		Jiní však mínili : „ To není řeč posedlého . Což může zlá moc uzdravit slepého ? "
+43010024	Jak dlouho		Židé ho obklopili a ptali se ho : „ Jak dlouho nás necháš ještě v nejistotě ? Proč nám otevřeně neřekneš , jsi-li opravdu Mesiáš ? "
+43010032	který		Ježíš se hájil : „ Ve všech mých činech jste mohli vidět Boží lásku . Pro který z nich mne chcete ukamenovat ? "
+43010036	Proč		„ Písmo berete za neměnnou autoritu . Proč vám najednou vadí , když se Božím Synem nazývám já , zplnomocněný Boží vyslanec ? 
+43011034	Kam		Zeptal se : „ Kam jste Lazara pohřbili ? " „ Pojď , Pane , ukážeme ti , " odpověděli .
+43011047	Co		Ti se sešli k poradě s předními židovskými kněžími : „ Co si s ním počneme ? Ten člověk dělá skutečné divy !
+43011056	Co		Ptali se po Ježíši a říkali si mezi sebou : „ Co si myslíte o tom , že tu není ? "
+43012005	Proč		„ Proč tak vzácný olej raději neprodáš ? Vždyť by na něj musel dělník pracovat celý rok . Utržené peníze se mohly rozdat chudým . "
+43012027	co		Nyní mne svírá úzkost . Mám říci : Otče , uchraň mne toho , co se na mne valí ? Ne , tím bych zradil svoje poslání .
+43012034a	~		„ Mluvíš o smrti ? " ozvalo se ze zástupu . „ Vždyť Písmo říká o Mesiáši , že bude žít navždy . 
+43012034b	kdo		Kdo poznal Boží moc ? "
+43012034b	kom		O kom to tedy vlastně mluvíš ? "
+43012038a	kdo		a tak se potvrdila slova proroka Izajáše : „ Pane , kdo uvěřil našim slovům ? 
+43013025	kdo		Ten se obrátil k Mistrovi : „ Pane , kdo to je ? "
+43013036	kam		„ Mistře , kam chceš odejít ? " zeptal se Petr . „ Teď se mnou nemůžeš jít , " odpověděl mu Ježíš , „ budeš mne následovat později . "
+43013037	Proč		„ Proč s tebou nemohu jít už teď ? " ptal se znovu Petr . „ Jsem ochoten dát za tebe život ! "
+43014002	~		U mého Otce je domov pro všechny . Odcházím , abych vám připravil místo .
+43014005	jak		„ Pane , nevíme , kam jdeš , " namítl Tomáš , „ jak bychom mohli znát cestu ? "
+43014009	Jak		Ježíš ho pokáral : „ Filipe , tak dlouho s vámi žiji a ty jsi mne ještě nepoznal ? Jak se tak můžeš ptát ? Kdo vidí mne , vidí Otce . Proč mne tedy žádáš , abych ti ho ukázal ?
+43014022	proč		„ Pane , proč tě smíme poznat jen my a ostatní ne ? " zeptal se Juda .
+43016005	kam		Můj čas se však naplnil a já brzy odejdu k tomu , který mne poslal . Vidím však , že nechápete , kam jdu . Místo abyste se radovali , jste stísněni smutkem a starostmi .
+43016017	čem		„ O čem to jen mluví ? " ptali se učedníci jeden druhého . „ Kde bude zanedlouho ? Kdy ho zase uvidíme ? Co to znamená , že půjde k Otci ? Tomu nerozumíme . "
+43016018	co		Co to znamená , že půjde k Otci ? Tomu nerozumíme . "
+43018004	Koho		Ježíš věděl , co ho čeká . Vyšel jim naproti a zeptal se : „ Koho hledáte ? "
+43018007	Koho		„ Koho hledáte ? " zeptal se jich Ježíš znovu . „ Ježíše Nazaretského , " opakovali .
+43018011	~		Ale Ježíš řekl Petrovi : „ Schovej svůj meč ! Otec určil , abych trpěl . "
+43018021	Co		Co se vyptáváš mne ? Ptej se mých posluchačů , ti vědí , co jsem říkal . "
+43018023	proč		Ježíš se ohradil : „ Jestli nemám pravdu , tak to dokaž . Jsem-li v právu , proč mne biješ ? "
+43018029	čeho		Pilát tedy vyšel k nim a ptal se : „ Z čeho toho člověka obviňujete ? "
+43018035	čeho		„ Jsem snad Žid , abys mohl být mým králem ? " ohradil se Pilát . „ Tvůj vlastní národ a tvoji představení tě sem předvedli . Čeho ses dopustil ? "
+43018038	Co		„ Co je pravda ? " ukončil Pilát rozhovor a vyšel opět k Židům . „ Ten člověk je nevinný , " prohlásil .
+43019009	co		Vrátil se do soudní síně a zeptal se obžalovaného : „ Co jsi vlastně zač ? " Ale Ježíš mlčel .
+43019015	~		Oni se dali do křiku : „ Pryč s ním ! Pryč s ním ! Ukřižuj ho ! " Pilát ještě namítl : „ Vašeho krále mám poslat na smrt ? " Velekněží prohlásili pokrytecky : „ Nepotřebujeme krále ! Máme přece římského císaře . "
+43020013	proč		„ Ženo , proč pláčeš ? " zeptali se jí . „ Vzali mého Pána a nevím , kam ho uložili . "
+43020015a	proč		Neznámý ji oslovil : „ Ženo , proč pláčeš ? 
+43020015b	koho		Koho hledáš ? " Myslela , že je to zahradník , a odpověděla : „ Pane , jestli jsi ho odnesl , řekni mi , kam jsi ho uložil , a já ho pochovám . "
+43021012	kdo		„ A teď se pojďte nasnídat , " pozval je Ježíš . Nevyptávali se ho , kdo je ; věděli že je to Pán .
+43021020	kdo		Petr si všiml , že za nimi jde učedník , který byl Ježíšovi tak blízký . ( Ten se při poslední večeři ptal , kdo Ježíše zradí . )
+43021021	co		Petr se zeptal : „ Pane , co bude s ním ? "
+43021022	~		Ježíš odpověděl : „ Kdybych ho tu ponechal až do svého příchodu , je to moje věc . Nestarej se o to , ale pojď mojí cestou ! "
+43021023	~		O tom učedníkovi se rozhlásilo , že nezemře , ale Ježíš nic takového neřekl .
+44001011	co		a oslovili je : „ Galilejci , co tu tak stojíte a díváte se do oblak ? Ježíš od vás odešel do nebe , aby se jednou vrátil stejným způsobem . "
+44002008	~		A každý z nás je slyší ve svém rodném jazyce ! Mluví o tom , že Bůh udělal něco velikého . "
+44002012	Co		Ptali se mezi sebou : „ Co se to děje ? "
+44002037	co		Petrova slova zasáhla mnoho posluchačů a ti se začali ptát apoštolů : „ Bratři , co máme dělat ? "
+44003012a	proč		A tak k nim Petr začal mluvit : „ Přátelé , proč se divíte ? 
+44003012b	~		Snad si nemyslíte , že jsme toho člověka uzdravili vlastní mocí nebo mimořádnou zbožností ?
+44004007a	~		Dali si předvést Petra a Jana , Ježíšovy apoštoly , a začali je vyslýchat . 
+44004007b	jaká		Chtěli vědět , jaká to je moc , kterou uzdravili chromého , 
+44004007c	kdo		a kdo jim ji svěřil .
+44004016	~		„ Nemůžeme zakrýt , že udělali nesporný zázrak , " přiznávali . „ Už to ví celý Jeruzalém .
+44004025a	Proč		Ty jsi vnukl Davidovi slova : Proč se lidé bouří 
+44004025b	~		a národy se obírají marnými plány ?
+44005003	~		Ale Petr mu řekl : „ Ananiáši , tento podvod ti poradil sám ďábel . Tím , že se nás snažíš obelstít a vydáváš částku za celek , obelháváš vlastně svatého Ducha .
+44005004	co		Vždyť to pole bylo tvoje a mohl sis je klidně nechat . I stržené peníze patřily tobě a nikdo z nás by ti nevyčítal , kdyby sis je byl všechny ponechal . Co tě to jen napadlo ? Chtěl jsi podvést nejen lidi , ale samotného Boha . "
+44005009	Proč		Na to Petr : „ Proč jste se tak smluvili ? To jste chtěli podvést Božího Ducha ? Právě se vracejí chlapci , kteří pohřbili tvého muže . A tebe stihne stejný trest jako Ananiáše . "
+44007026	~		Příštího dne se snažil usmířit dva Židy , kteří se hádali ,
+44007027	Kdo		ale ten , který nebyl v právu , Mojžíše odbyl : Kdo tě ustanovil za našeho vládce a soudce ?
+44007035	~		A tak prostřednictvím tohoto vidění poslal Bůh Mojžíše Izraelcům za vůdce a vysvoboditele , přestože ho před čtyřiceti lety nechtěli uznat . A on je vysvobodil , činil před jejich očima mnoho zázračných věcí už v Egyptě , pak při přechodu Rudého moře a během čtyřicetiletého putování pouštěmi .
+44007049a	Jaký		Vesmír je můj trůn a země koberec pod mýma nohama . Jaký mi chcete postavit dům 
+44007049b	kam		a kam mě chcete vtěsnat ?
+44007052	~		Byl nějaký prorok , aby ho vaši předkové nepronásledovali ? Zabíjeli ty , kteří předpovídali příchod Spravedlivého , a vy jste se ho teď úplně zřekli a zavraždili jste ho !
+44008031	~		Ministr mu odpověděl : „ Neříká , potřeboval bych to vyložit . Pojď si ke mně sednout a pomoz mi ! "
+44008033	Kdo		Ponížili ho a nespravedlivě odsoudili . Kdo by čekal , že bude mít tolik potomků , když ho přece zabili ! "
+44008034	~		Dvořan se zeptal Filipa : „ Prosím tě , to mluvil prorok o sobě , nebo o někom jiném ? "
+44008036	~		Cestou přijeli k nějaké vodě . Dvořan zvolal : „ Podívej se , voda ! Mohl bych i já být pokřtěn ? "
+44009004	proč		V úleku padl na zem a uslyšel hlas : „ Saule , Saule , proč mne pronásleduješ ? "
+44009005	kdo		Zeptal se : „ Ale kdo jsi , pane ? " Pán mu odpověděl : „ Já jsem Ježíš a ty mne pronásleduješ v mých učednících . Je to stejné , jako bys chtěl hlavou rozbít zeď . " Saul zlomený hrůzou řekl : „ Pane , čekám na tvoje rozkazy . "
+44009006	~		A Pán k němu : „ Vstaň , jdi do města a tam se dozvíš další . "
+44010004	Co		Setník na něj ustrašeně zíral a zeptal se : „ Co tě ke mně přivádí , Pane ? " Anděl mu řekl : „ Bůh slyší tvé modlitby a ví o tvé dobročinnosti .
+44010021	Proč		Petr tedy sestoupil dolů a řekl jim : „ To jsem já , koho hledáte . Proč jste přišli ? "
+44010029	proč		Poslechl jsem proto bez rozpaků vašeho pozvání a tady mě máte . Jen chci vědět , proč jste mě pozvali . "
+44010047	~		„ Copak jim můžeme odepřít křest , když jim Bůh dal svého Ducha jako nám ? "
+44011017a	~		A tak když uvěřili v Pána Ježíše Krista jako my a dostali i stejný dar od Boha , nemohl jsem se přece stavět proti Boží vůli ! "
+44011017b	~		
+44012018	kam		Ráno vypukl mezi strážci poplach : Kam se poděl vězeň ?
+44013025	~		Ke konci své činnosti Jan říkal : Nemyslete si , že já už jsem ten očekávaný ! Ten přichází po mě a pro mne by byla příliš velká čest , kdybych mu směl třeba jen boty rozvázat . '
+44014015	co		a horlivě je přesvědčovali : „ Přátelé , co to děláte ? My jsme přece lidé jako vy ! Vyzýváme vás , abyste zanechali též marné modloslužby a obrátili se k jedinému živému Bohu , stvořiteli nebe , země , moře a všech tvorů .
+44015010	Proč		Proč chcete být moudřejší než sám Bůh a předělávat je na židy ? Vždyť je to zbytečné břemeno , které jsme my ani naši předkové nemohli unést .
+44016030	co		Pak je vyvedl ven a ptal se : „ Vy jste jistě bohové ; co mám dělat , abych byl zachráněn ? "
+44017018	~		Tak se dostal do hovoru i s aténskými filozofy , epikurejci a stoiky , a vyprávěl jim o Ježíšovi , který vstal z mrtvých . Někteří ho okřikovali : „ Neposlouchejte toho žvanila ! , " ale druhé to začalo zajímat . Říkali : „ To bude nějaké nové náboženství . " Atéňané i lidé , kteří tam přicházeli studovat , byli totiž velice zvědaví a posedlí touhou povědět nebo uslyšet něco nového a neobvyklého . Vzali Pavla mezi sebe , dovedli ho na řečniště zvané Areopag a požádali ho , aby jim pověděl něco více o tom novém učení plném překvapujících myšlenek .
+44017019	~		
+44019003	čí		Pavel jim položil další otázku : „ Čí jste tedy následovníci ? Pokřtil vás někdo ? " Prohlásili : „ Byli jsme pokřtěni po způsobu Jana Křtitele . "
+44019015	kdo		Temný duch z něho promluvil : „ Ježíše i Pavla znám , ale kdo jste vy ? "
+44019035	~		Konečně se dostavil tajemník městské rady , podařilo se mu dav utišit a promluvit k nim : „ Občané Efezu ! To přece ví každý , že právě v našem městě je nejvýznamnější chrám bohyně Diany a že její zdejší socha spadla přímo z nebe .
+44021013a	Proč		On nás však napomenul : „ Proč tolik pláčete a děláte mi to těžší ? Pán Ježíš přece stojí za to , abych byl pro něho uvězněn a třeba i zabit . "
+44021013b	~		
+44021022	~		Měl bys něco podniknout dříve , než se všichni dozvědí , že jsi tady .
+44021033a	kdo		Velitel ho považoval za původce výtržnosti , dal ho zatknout a nasadit mu pouta . Pak začal vyšetřovat , kdo to je 
+44021033b	co		a co udělal .
+44022007	proč		Padl jsem na zem , když jsem uslyšel hlas : Saule , Saule , proč mne pronásleduješ ? '
+44022008	Kdo		Ozval jsem se : Kdo jsi , Pane ? ' Slyšel jsem odpověď : Já jsem Ježíš z Nazaretu a ty bojuješ proti mně . '
+44022010	co		Zeptal jsem se : Pane , co mám dělat ? ' Ježíš mi odpověděl : Teď vstaň a jdi do Damašku . Tam ti řeknou , jaký mám pro tebe úkol . '
+44022016	~		Neváhej , vyznej , že je tvým Pánem , dej se pokřtít na znamení , že jsi očištěn od hříchů . '
+44022026	~		Důstojník dal přerušit přípravy , šel k veliteli a hlásil mu : „ Stal se nějaký omyl , ten člověk prohlašuje , že je občanem Říma . "
+44023003	~		Pavel na něj zavolal : „ Ty křiváku , tebe jednou udeří Bůh ! Tváříš se jako ochránce zákona a místo spravedlivého soudu rozdáváš rány . "
+44023009	co		Obě strany se do sebe pustily a byla z toho velká hádka . Bohoslovci farizejského směru nakonec žádali , aby byl Pavel osvobozen . Říkali : „ Vždyť se ničím neprovinil . Co když k němu skutečně promluvil duch nebo anděl ? Abychom se nestavěli proti Bohu ! "
+44023019	~		
+44026008	~		Možná , že vám to připadá absurdní , ale opravdu věřím , že Bůh vzkřísí mrtvé .
+44026014	proč		V úleku jsme se vrhli na zem a ke mně promluvil hlas v hebrejštině : Saule , Saule , proč mne pronásleduješ ? Proč biješ hlavou proti zdi ? '
+44026015	Kdo		Zeptal jsem se : Kdo jsi , pane ? ' a on mi odpověděl : Já jsem Ježíš , proti kterému se stavíš .
+45002017	~		Ty jsi věřící , spoléháš na příslušnost k církvi , oháníš se Bohem ,
+45002021	jak		Jak je tedy možné , když druhé poučuješ , že si sám poučení nebereš ? Kážeš , že krást je hřích , ale to ti nebrání , aby sis přivlastňoval cizí majetek ?
+45002028	~		Pravým židem rozhodně není ten , kdo tak navenek vypadá nebo se může vykázat židovským původem . To snad udělá dojem na lidi .
+45003001a	~		Přece však má židovský národ zvláštní postavení 
+45003001b	~		a určité výsady . Jaké ? Není jich málo !
+45003003	~		A co když jim někteří neuvěřili - můžete namítnout . A já se ptám : Myslíte , že Bůh jen pro jejich nedůvěru nedostojí svému slovu ?
+45003005	~		Někdo však může namítnout : „ Jestliže naše špatnost dává vyniknout Boží spravedlnosti , snad by nás Bůh neměl za ni trestat . "
+45003006	Jaký		Jaký smysl by potom měl Boží soud ?
+45003007a	~		To bychom mohli rovnou nabádat ke zlu , aby se dobro vedle něj tím víc zaskvělo .
+45003007b	~		
+45003008	~		Někteří lidé to opravdu dělají , ale my ne , i když nás z toho obviňují . Takoví hříšníci budou plným právem odsouzeni .
+45003009	~		Napsal jsem vám již , že židovský národ má určité přednosti . To však neznamená , že židé jsou před Bohem lepší než ostatní . O všech lidech je v Žalmech napsáno :
+45003027a	čím		Čím se tedy můžeme před Bohem chlubit ? Ničím ! 
+45003027b	~		Skutky ? 
+45003027c	~		Ty nás nespasí . Jedině víra nás může zachránit .
+45004001	~		O Abrahamovi je napsáno : „ Uvěřil Bohu , a byl proto uznán za dokonalého . "
+45004003	~		On si však nedobyl Božího uznání tím , co dělal , ale jen tím , že Bohu důvěřoval .
+45004010	kdy		Kdy se to stalo ? Po jeho obřezání na znamení židovství - nebo ještě před ním ? Ano , bylo to ještě před tím , než se stal židem .
+45005010	~		Jestliže Kristova smrt smířila nás s Bohem ještě v době , kdy nás dělilo nepřátelství , tím spíše nás Kristův život zachrání před Božím hněvem nyní , kdy jsme již smířeni .
+45005021	~		
+45006001	Co		Co z toho plyne pro nás ? Že máme setrvávat v hříchu , abychom mu dali příležitost udělit nám ještě větší milost ?
+45006002	jak		Ovšemže ne ! Náš dřívější bezbožný život přece již zanikl , jak by mohl ještě pokračovat ?
+45006015	~		To ovšem neznamená , že bychom si nyní mohli dovolit cokoliv .
+45006021	co		Teď se za to stydíte , a co jste z toho měli tenkrát ? Stejně to vše končí smrtí .
+45007007	~		Tím však nechceme říci , že zákon není dobrý . Vždyť právě zákon nám říká , co je hřích . Kdyby zákon nezakazoval touhu po cizím vlastnictví , ani bych nevěděl , že je to něco špatného .
+45007024	~		Jak ubozí jsme my lidé ! Což neexistuje vysvobození z tohoto nešťastného otroctví ?
+45008024	~		že jsme byli přijati mezi Boží děti , které zachrání k věčnému životu ; touto nadějí jsme naplněni . Těšíme se na to , co brzy uvidíme .
+45008031a	co		Co z toho plyne ? 
+45008031b	kdo		Je-li Bůh s námi , kdo nás může ohrozit ?
+45008032	co		Když neváhal vzdát se kvůli nám svého vlastního Syna , co by pro nás ještě neudělal ?
+45008033	Kdo		Kdo se odváží být naším žalobcem před Božím soudem , když soudcem je ten , kdo nás sám ospravedlnil ?
+45008034	Kdo		Kdo nás odsoudí , když naším obhájcem je sám Ježíš Kristus ?
+45008035	Kdo		Kdo nás odloučí od jeho lásky ? Snad těžkosti nebo strach , pronásledování či hlad , nebezpečí života nebo sama smrt ? To vše se nám může přihodit .
+45009014	~		Můžeme z toho usuzovat , že je Bůh nespravedlivý ? Naprosto ne !
+45009019a	Proč		Možná někdo namítne : Proč nám tedy Bůh ještě pořád něco vytýká , 
+45009019b	~		když se nic nemůže dít proti jeho vůli ?
+45009020a	kdo		Ale člověče , kdo ty vlastně jsi , že si troufáš přít se s Bohem ? 
+45009020b	~		Říká snad výrobek svému tvůrci : 
+45009020c	Proč		Proč jsi mne udělal zrovna takhle ?
+45009021	~		Copak se hrnčíř ptá hlíny , zda z ní má udělat vázu nebo mísu ?
+45009022	~		Nemohl i Bůh ukázat nejen svou pravomoc trestat , ale i svou shovívavost s lidmi zralými k potrestání ?
+45009023	~		Nemá právo projevit svou dobrotu k lidem , které zahrnul milosrdenstvím a určil pro věčnou slávu ?
+45009024	~		Podobně povolal i nás , a to nejen židy nebo členy církve , ale i jiné ,
+45009030	Co		Co tu vidíme ? Že ti , kdo k izraelskému náboženství nepatřili a o bezúhonnost před Bohem nijak neusilovali , ti ji dosáhli na základě víry .
+45009032	Proč		Proč to ? Protože se domnívali , že si Boha nakloní okázalou zbožností místo upřímnou vírou . Na tom ztroskotali ,
+45010006	~		Ospravedlnění cestou víry je však něco jiného . Klíč k životu není třeba hledat v nadpozemských výšinách ,
+45010007	~		ani pracně dobývat z hlubin země . Vše potřebné již za nás udělal Kristus .
+45010008	~		Každý člověk má ten klíč na dosah , má ho ve svém srdci : je to víra , kterou hlásáme .
+45010014a	~		Vzývat ho může ovšem jen ten , kdo v něj uvěřil : 
+45010014b	~		uvěřil jen ten , kdo o něm slyšel ; 
+45010014c	~		slyší jen tehdy , když bude někdo mluvit ;
+45010015	~		a mluvit o něm - k tomu právě Bůh posílá nás . Vždyť víte , co je psáno v Písmu : „ Vždy vítán je , kdo dobrou zprávu nese ! "
+45010016	kdo		Skutečnost je ovšem taková , že ne všichni tu zprávu uvítali . Vždyť už Izajáš si stěžuje : „ Pane , kdo uvěřil tomu , co jsme hlásali ? "
+45011004	co		A co mu na to odpovídá Bůh ? „ Sedm tisíc věrných - kromě tebe - se bohům cizím ještě neklaní ! "
+45011007	~		
+45011015	~		To , že se ocitli v nepřátelském táboře , přineslo světu smíření s Bohem . A což teprve , až je Bůh znovu přijme ! To bude přímo vzkříšení z mrtvých !
+45011018	~		nevypínejte se nad větve původní . Nezapomeňte , že kořen nese vás a ne naopak !
+45011033a	~		Jak nesmírné je Boží bohatství , jak hluboká jeho moudrost a poznání . Jak nevyzpytatelná jeho rozhodnutí 
+45011033b	~		a nepředvídatelné jeho jednání !
+45011034a	kdo		Kdo může pochopit Boží myšlení , 
+45011034b	kdo		kdo byl kdy jeho poradcem ?
+45011035	Kdo		Kdo mu kdy dal něco ze svého , aby mu to on musel vrátit ?
+45014004	Jakým		Jakým právem chceš odsuzovat toho , jehož pánem nejsi ty , ale Bůh ? Je jen Boží záležitostí , zda člověk stojí nebo padá - a i v pádu ho Bůh dokáže zadržet .
+45014010a	Proč		Proč tedy odsuzovat bratra 
+45014010b	~		a pohrdat jím ? Všichni se přece budeme muset postavit před Boží soud .
+46001020a	kde		Kde jste , filozofové , 
+46001020b	~		znalci zákona 
+46001020c	~		a všichni učenci ? Nedokázal Bůh , jak pošetilá je všechna moudrost světa ?
+46002011	~		Jako nitro člověka je přístupné jen vlastnímu vědomí každého jedince , tak i Boží myšlení je známé jen Božímu Duchu , takže jenom s jeho pomocí můžeme poznat , co všechno nám Bůh daroval .
+46002016a	~		vždyť nikdo z nich nestojí ve svém poznání nad Bohem . Naše myšlenky pak vycházejí ze stejného zdroje jako myšlenky Kristovy .
+46002016b	~		
+46003005a	kdo		Vždyť kdo je Apollo ? 
+46003005b	kdo		A kdo je Pavel ? Pouze služebníci , kteří vám pomohli dospět k víře - každý zase jen tou měrou , jak mu uložil Bůh .
+46004007a	~		Nikdo přece nejsme ničím víc než ostatní . 
+46004007b	~		Všichni máme jen to , co jsme dostali , 
+46004007c	~		a nemáme se tedy před druhými čím chlubit .
+46004021	Co		Co mám tedy přibalit na cestu : hůl - nebo lásku a přívětivost ?
+46005002	~		A to se ještě nestydíte zdvihat nos až k nebi , místo abyste se zhrozili a vyloučili takového člověka ze svého společenství !
+46005012	~		Soudit nekřesťany - na to právo nemáte , ty ať soudí Bůh . Ale z našich řad musí být takový člověk vyloučen !
+46006001	~		Smutné je i to , že mezi sebou vedete spory před světskými soudy . Není vám hanba ?
+46006003	~		Nevíte , že jednou máte soudit i anděly ?
+46006004	co		Co jsou proti tomu nějaké obchodní záležitosti ? Styďte se , že vám tohle musím vytýkat .
+46006007a	~		
+46006007b	~		
+46006009	~		Myslíte , že do Božího království se dostane někdo hříšný ? Neklamte sami sebe . Žádný chamtivec a požitkář , ani cizoložník nebo homosexuál ,
+46006016	jak		Jak bychom mohli něco takového spojovat s prodejnou ženou ? Mojžíš říká , že „ dva se stanou jedním tělem " . Je myslitelné a lze si vůbec představit jedno tělo ze dvou tak rozdílných „ materiálů " ?
+46006019	~		Mějte na paměti , že vaše tělo je chrámem svatého Ducha , který v něm bydlí a kterého vám dal Bůh .
+46007016a	~		
+46007016b	~		
+46009007a	~		Už jste snad viděli vojáka , který by sloužil v armádě na vlastní náklady ? 
+46009007b	~		Nebo hospodáře , který by nesklízel plody z toho , co zasadil ? 
+46009007c	~		Nebo pastevce , který pase krávy a nepije jejich mléko ?
+46009018	~		
+46010019a	~		Tím ovšem neříkám , že modla je snad bohem a že maso obětované modle je něco víc než obyčejné maso ; samy o sobě ty věci neznamenají nic .
+46010019b	~		
+46010019c	~		
+46010029	Jakže		Jakže - moje svoboda má být omezována cizím svědomím ?
+46010030	~		Což mě může někdo odsuzovat za to , co vděčně přijímám z Boží ruky ?
+46011022	~		Copak se nemůžete najíst už doma ? Nebo se snad chcete vychloubat svou kuchyní před méně zámožnými bratry a zlehčovat tak Boží církev ? Za to tedy ode mne pochvalu nečekejte .
+46012017a	jak		Kdyby celé tělo bylo okem , jak by mohlo slyšet ? 
+46012017b	kde		A kdyby bylo celé uchem , kde by byl čich ?
+46012019	~		Kdyby totiž celek byl jediným orgánem , nebylo by tu žádné tělo .
+46014006	čemu		Řekněte sami : k čemu by vám bylo , kdybych mluvil jazyky pro vás nesrozumitelnými a nevyložil současně , v čem je poučení , co má smysl vzdělávací a co prorocký ?
+46014007	kdo		Podívejte se na hudební nástroj - třeba harfu nebo varhany . Kdyby se rozezvučely všemi tóny najednou , kdo by v tom poznal nějakou melodii ?
+46014008	kdo		Anebo polnice : když zatroubí nezřetelně , kdo rozezná signál k boji ?
+46014009	~		Stejně tak vaše řeč : není-li srozumitelná , nikomu nic nedá . Mluvíte do větru .
+46014015	Co		Co s tím ? I já se chci modlit vroucně , ale tak , abych se zároveň modlil rozumem . A když zpívám k Boží oslavě , chci ho chválit i svým rozumem .
+46014016	Jak		Jak by mohl obyčejný posluchač připojit svůj souhlas k modlitbě , kdyby nerozuměl jejím slovům ? I kdyby byla sebeupřímnější , nic z ní nemá .
+46014026	Jaký		Jaký závěr z toho udělat ? Když se sejdete , jeden poslouží zpěvem , jiný poučením , další poselstvím od Boha a další zase jeho výkladem . Pro všechny tu platí jediné pravidlo : aby to , co dělají , bylo k prospěchu celé obci věřících .
+46014036	~		Jestli se jim něco nezdá , ať si to nechají doma vyložit od manžela a nedohadují se na veřejnosti . Někomu se to jistě nebude líbit , ale nemyslete si , že právě vy v Korintu rozumíte všemu nejlíp . Nejste první ani jediní , kdo přijali Krista za svého pána .
+46015012	jak		Jestliže však věříte , že Kristus vstal z mrtvých , jak potom mohou někteří z vás tvrdit , že mrtví už nikdy neožijí ?
+46015029a	~		Ale ještě zpět ke vzkříšení : 
+46015029b	jak		Jak zdůvodníte , že někteří z vás v Korintu podstupují zkoušky a utrpení pro svoji víru ? 
+46015029c	Jaký		Jaký to má smysl , jestliže nebude vzkříšení z mrtvých ?
+46015030a	~		
+46015030b	proč		A proč my stále riskujeme svůj život a denně se díváme smrti v tvář ?
+46015032	čemu		K čemu by byl i můj boj na život a na smrt tenkrát v Efezu ? Kdyby po smrti nebylo už s čím počítat , mohl bych si to všechno ušetřit a řídit se raději příslovím „ dnes užívej života , zítra můžeš být po smrti " .
+46015035a	jak		Někdo by se ovšem mohl zeptat : „ Jak budou ale vzkříšeni ti mrtví ? 
+46015035b	Jaké		Jaké pak budou mít tělo ? "
+46015055a	kam		Kam ses poděla , ó smrti , 
+46015055b	kam		a kam zmizel tvůj náhončí ?
+47002002	~		Kdyby vás měla moje návštěva opět zarmoutit , nemohl bych z našeho setkání mít ani já žádnou radost .
+47002016	kdo		S ní vdechují jedni život a druzí smrt . Ale kdo je k tomu způsobilý ?
+47003008	~		Oč slavnější je smlouva , v níž Bůh nyní daruje člověku nový život prostřednictvím svého Ducha .
+47003009	kolik		Jestliže vyhlášení zákonů , které odsuzovaly , bylo provázeno takovým leskem , kolik slávy teprve musí být spojeno s tímto darem života ?
+47006014a	co		Nespolčujte se s nevěrci , to pro vás není dobrá společnost . Co může mít společného světlo s tmou , spravedlnost s bezprávím ?
+47006014b	~		
+47006015a	~		Je snad možné nějaké dorozumění mezi Kristem a ďáblem ?
+47006015b	~		
+47006016	~		Dovedete si představit pohanské bůžky v křesťanském chrámu ? A co jiného jsme , ne-li chrám živého Boha ? Bůh řekl : „ Budu žít uprostřed nich a mezi nimi bydlet , já budu jejich Bohem a oni budou mým lidem . "
+47011011	Proč		Proč ? Protože vás snad nemám rád ? Bůh ví , že mám . Chci vám i nadále sloužit bez jakékoliv odměny , aby ti lidé nemohli tvrdit , že v naší a jejich činnosti není žádný rozdíl .
+47011029a	~		Odmítl jsem snad někdy pomoc někomu , koho tížilo svědomí ? 
+47011029b	~		Netrápil jsem se snad , kdykoliv někdo kolísal ve víře ?
+47012013	~		Jen v jedné věci jsem vás proti křesťanům na jiných místech „ zkrátil " : nežádal jsem vás o hmotnou podporu . Tuhle nespravedlnost mi tedy promiňte .
+47012017	jak		Jak tedy , ptám se ? Chtěl snad od vás něco některý z lidí , které jsem k vám poslal ?
+48002014	~		Když jsem to viděl , okamžitě mi bylo jasné , že to není v souladu s evangeliem . Proto jsem Petrovi řekl přede všemi : „ Ty jsi rodem žid , se židovstvím jsi již skončil , ale teď chceš najednou nutit pohany , aby dodržovali židovské zákony ? "
+48003001	Kým		Kam jste dali rozum , Galaťané ! Kým jste se to dali napálit ? Vy , kteří jste měli ukřižovaného Krista takřka přímo před očima !
+48003019	čemu		K čemu bylo tedy zapotřebí ještě zákonů ? Jen k tomu , aby nám Bůh ukázal , jak jsme od něj vzdáleni . A jen do té doby , než přijde ten ohlášený potomek , Kristus , jehož se týkal onen Boží závazek .
+48004009a	~		Ale teď , když jste Boha nalezli , nebo spíše když on nalezl vás , chcete se zase vracet k tomu ubohému , bezcennému náboženství záslužných skutků ?
+48004009b	~		
+48004010	~		Váš život by se měl znovu točit jen kolem seznamu zákazů a příkazů ?
+48004015	kam		Kam se podělo všechno vaše nadšení , které nás tak sbližovalo ? Vždyť jste byli ochotní dát mi vlastní oči , kdyby mi to pomohlo .
+48004021	proč		Poslyšte vy , kteří vyžadujete poslušnost židovským předpisům : Proč si pořádně nepřečtete Bibli ?
+48004030	Co		Co však čteme v Bibli ? „ Vyžeň otrokyni i jejího syna . Syn otrokyně nebude dědit se synem manželky . "
+48005007a	kdo		Vedli jste si docela dobře ! Kdo vás to tak zmátl , 
+48005007b	~		že jste upustili od cesty za pravdou ?
+48005011	proč		Jestli si snad myslíte , že já sám jsem zastáncem obřízky , tak mi řekněte , proč mě židé s takovou nenávistí pronásledují . Kdyby to tak bylo , měli by se mnou být docela spokojeni a Kristův kříž by je nemusel tolik urážet . Obřízku však nezastávám a těm , kdo na ní trvají , říkám : Proč jenom obřízku , proč ne přímo kastraci podle pohanského vzoru ?
+49004009	~		Všimněte si , že je tu řeč o návratu . To znamená , že musela předcházet cesta opačným směrem , z nebeských výšin do nejhlubších končin země .
+50001018	~		Vím , že soudní přelíčení tak či onak povede k dobrému . To mi zaručují vaše modlitby i Duch svatý , který stojí při mně .
+50001021	~		Vždyť mým životem je Kristus , a proto i smrt mi bude ziskem .
+51002020	Proč		S Kristem jste vstoupili do nové roviny života . Starý život vzal za své a s ním i všechny obřadní předpisy , které z něho vzešly . Proč tedy stále ještě to staré :
+52002019	kdo		Vždyť kdo bude naší radostí , naší nadějí a vavřínem , až se jednou postavíme před Kristem v den jeho návratu ?
+52003009	Jak		Jak se Bohu odvděčit za všechnu tu radost , jakou z vás máme ?
+54003005	jak		Jak by mohl prospět církvi ten , kdo by vlastní rodinu dobře vést nedokázal ?
+54006007a	~		Konečně , nic jsme si na svět nepřinesli 
+54006007b	~		a nic si z něho neodneseme .
+58001005	~		Vždyť Bůh nikdy neřekl andělu : „ Ty jsi můj Syn , kterého jsem dnes zplodil . " Ani : „ Budu mu otcem a on mi bude synem . "
+58001013	~		Bůh nikdy nevyzval žádného anděla , aby se posadil na čestné místo nedaleko něho , dokud mu nepodrobí všechny nepřátele .
+58001014	~		Andělé jsou jen duchovní poslové , kteří jsou vysíláni , aby pečovali o ty , kterým se má dostat spásy jako dědictví .
+58002003	Co		Co nás proto opravňuje k tomu , abychom se domnívali , že nám beztrestně projde , když si nebudeme všímat příležitosti k záchraně , kterou nám nabízel sám Pán a nyní ještě nabízí prostřednictvím svých svědků ?
+58002006a	kdo		ale Ježíši a lidem , kteří v něho uvěřili . V Písmu se o Ježíši říká : „ Kdo je člověk , 
+58002006b	~		že na něho pamatuješ a že se o něj tak staráš ?
+58003016	Kdo		Kdo se to vlastně vzbouřil , když zaslechl Boží hlas ? Ti , které Mojžíš vyvedl z Egypta .
+58003017	koho		A koho měl Bůh v ošklivosti po čtyřicet let ? Ty neposlušné , kteří pak zahynuli na poušti .
+58003018	~		Přísahal jim , že nedosáhnou odpočinku , který jim připravil . Nemohli ho dosáhnout pro nevěru .
+58006004	~		Ten , kdo byl jednou osvícen , okusil Božího daru , získal podíl na Duchu svatém , poznal , jak vážná je Boží věc , zakusil moc přicházejícího světa ,
+58007011	~		Lévijská služba nebyla s to přivést Boží lid k dokonalosti . Proto bylo třeba jiné služby a jiného kněze - a to podle řádu Malkísedekova . Je zřejmé , že přenesením kněžství zaniká zákonité oprávnění pro trvání lévijské služby .
+58009014	~		Krev bezúhonného Krista , který se obětoval Bohu , očišťuje naše svědomí od neužitečných skutků ke službě živému Bohu .
+58010001	~		Zákonné ustanovení o lévijské službě je jen stínem budoucího dobra . Oběti , které se každý rok opakují , nemohou nikoho z těch , kdo se jich účastní , přivést natrvalo k dokonalosti .
+58010029a	~		Uvědomte si , oč horšího trestu zasluhuje ten , kdo pohrdá Božím Synem a znevažuje jeho krev smlouvy , kterou byl posvěcen , a uvádí v posměch Ducha milosti .
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	Co		Co k tomu mám ještě dodat ? Nestačí mi čas na vyprávění o Gedeónovi , Barákovi , Samsonovi , Jiftáchovi , Davidovi , Samuelovi a prorocích ,
+58012007	~		Podvolujte se jeho výchově ; Bůh s vámi jedná jako se svými syny . Byl by to vůbec syn , kdyby ho otec nevychovával ?
+58012009	~		Naši tělesní otcové nás trestali , a přece jsme je měli v úctě ; nemáme tedy být mnohem více poddáni tomu Otci , který dává Ducha a život ?
+58012025	~		Hleďte , ať neodmítáte toho , kdo mluví . Jestliže Izraelci neunikli trestu , když vypověděli poslušnost pozemskému poslu Mojžíšovi , jakému nebezpečí bychom se vystavovali my , kdybychom se odvraceli od posla nebeského .
+58013006	co		Proto smíte směle prohlásit : „ Pán je můj pomocník . Nebojím se ničeho , co by mi mohl udělat člověk . "
+59002006	~		A vy byste s takovým člověkem pohrdli ! Copak vás právě vlivní lidé nepronásledují a nevláčejí po soudech ?
+59002014	Co		Co by vám byla platná víra , bratři , kdybyste podle ní nežili ? Myslíte , že vás taková víra spasí ?
+59002016a	~		Řeknete-li mu : „ Tak se měj dobře , ať nenachladneš a nemáš hlad ! " a sami mu nedáte ani jídlo ani oblečení , 
+59002016b	jakou		jakou to má cenu ?
+59002018	~		Máte-li jen takovou víru , pak vám může někdo namítnout : „ Ty mluvíš o své víře . Dokaž ji svými činy . A o mně říkáš , že víru nemám . O mé víře svědčí činy . "
+59002021	čím		Čím projevil Abraham svou víru ? Tím , že byl ochoten i k takovému činu , jako obětovat Bohu svého syna Izáka .
+59003013	~		Pokládá se někdo za moudrého a zkušeného ? Ať tedy prokáže svou moudrost jemným a krásným jednáním .
+59003017	~		Moudrost pocházející od Boha je především čistá , mírumilovná , laskavá a ústupná . Je vždy milosrdná a vede k dobrým skutkům . Je upřímná a bez jakéhokoliv pokrytectví .
+59004001a	co		Co působí vzájemné hádky 
+59004001b	~		a boje mezi vámi ? Není to snad ctižádost , která vás ovládá ? Po mnohém toužíte , a přece nic nemáte .
+59004012	jaké		Je jen jeden zákonodárce a soudce - Bůh . Jenom on může udělit milost , nebo odsoudit . Na jaké místo se to stavíš , když soudíš bližního ?
+59004014	co		Jak můžete vědět , co se stane zítra ? Vždyť náš život se podobá ranní mlze , která se objeví a za chvíli zase zmizí .
+60002020	co		Vždyť co je na tom záslužného , snášíte-li trest , který je vám spravedlivě vyměřen ? Ale když jednáte správně , a přece za to trpíte , Bůh to ocení .
+60003013	Kdo		Kdo by měl zájem vám ublížit , když budete činit dobře ?
+60004017	jaký		Vždyť je určena doba , kdy má začít soud od těch , kteří patří Bohu . A jestliže máme být nejprve souzeni my křesťané , jaký hrozný osud čeká ty , kteří Boží poselství odmítají ?
+60004018	co		Když se stěží zachrání věřící člověk , co teprve čeká hříšné a bezbožné ?
+61003004	Kde		a budou se vysmívat : „ Ježíš přece slíbil , že znovu přijde . Kde tedy je ? Naši otcové již zemřeli a od stvoření světa se nic nezměnilo . "
+61003011	jak		Když všechno má takto podlehnout zkáze , jak se na ten den připravíte ? Nechte se vést Božím slovem a poddejte se Bohu .
+62002022	kdo		Kdo tedy překrucuje pravdu ?	
+62003012	Proč		Podívejte se na Kaina . Přiklonil se k ďáblu a skončilo to bratrovraždou . Proč zabil svého bratra ? Protože Ábelův příkladný život ho usvědčoval z hříchu .
+62003017	~		Kdo má dostatek a nedbá , že jeho bratr je v nouzi , marně tvrdí , že miluje Boha .
+62004020	jak		Kdo staví na odiv svou lásku k Bohu a nenávidí bratra , klame druhé i sebe . Když nemiluje bratra , kterého má před očima , jak může milovat Boha , kterého nevidí ?
+62005005	~		K víře , že jsme zachráněni , nás opravňují tři skutečnosti : to , že se dal Ježíš pokřtít , jako by byl hříšník ; to , že místo nás zemřel na kříži jako zločinec ; a to , že jsme obdrželi Ducha svatého , který nám to potvrzuje .
+66005002	Kdo		Jeden mocný anděl zvolal silným hlasem : „ Kdo může rozlomit tyto pečetě a rozvinout ten svitek ? "
+66006010a	kdy		Společně volali : „ Svatý Pane , ty plníš své sliby . Kdy vykonáš spravedlivý soud 
+66006010b	~		a potrestáš ty , kdo prolili naši krev ? "
+66006017	kdo		Den jeho soudu přichází , kdo z nás může obstát ? "
+66007013a	kdo		Jeden z těch čtyřiadvaceti starců se mne zeptal : „ Víš , kdo jsou ti lidé v bílých oděvech 
+66007013b	odkud		a odkud přicházejí ? "
+66013004a	kdo		Chválili draka , že jí dal takovou moc , uctívali šelmu a říkali : „ Kdo se vyrovná takovému dravci , 
+66013004b	kdo		kdo se s ním může měřit ? "
+66015004a	kdo		Kdo by se tě , Pane , nebál 
+66015004b	kdo		a kdo by neuctíval tvoje jméno ? Vždyť ty jediný jsi Svatý . Všechny národy přijdu a skloní se před tebou , všichni poznají , že tvoje soudy jsou spravedlivé . "
+66017007	Proč		Anděl mi řekl : „ Proč se hrozíš ? Odhalím ti tajemství té ženy i toho zvířete , sedmihlavého a desetirohého , které ji nese .
+66018018	~		Budou jen lamentovat a truchlit : „ Tobě už se žádné město nikdy nevyrovná ! Škoda tě , škoda , jak jen z tvého blahobytu těžila námořní doprava . A v jedné hodině je všechno v troskách ! "

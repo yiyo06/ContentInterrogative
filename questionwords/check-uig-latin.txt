@@ -1,0 +1,743 @@
+40002002	qeyerde		yehudiylarning yengidin tughulghan padixahi qeyerde ? biz uning tughulghanliqidin bexaret beridighan yultuzning xerqtin koturulgenlikini korduq . xunga , uninggha sejde qilghili kelduq , deyixti .
+40002004	qeyerde		hirod padixah putkul aliy rohaniylar we tewrat ustazlirini chaqirip , ulardin : peyghemberler qutquzghuchi mesih qeyerde tughulidu degenidi ? dep soridi .
+40003007	qandaq		perisiy we saduqiy eqimidikilerdinmu kopligen kixilerning chomulduruxni qobul qilghili kelgenlikini korgen yehya peyghember ulargha : ey sahtipez yilanlar ! towa qilmay , hudadin kelidighan ghezeptin qechip qutulux uchun chomulduruxni qobul qilayli degininglar qandaq gep ? !
+40005013	~		siler yer-yuzining tuzidursiler . halbuki , eger tuz oz temini yoqatsa , uninggha qaytidin tuz temini kirguzgili bolmaydu . u chaghda , u hechnemige yarimas taxlanduq nersige aylinip , kixilerning ayighi astida qelixtin baxqa ixqa yarimaydu .
+40005046	qandaqmu		eger siler ozunglarni yahxi korgenlergila mehir-muhebbet korsetsenglar , buning qandaqmu inamgha erixkuchiliki bolsun ? hetta insapsiz bajgirlarmu xundaq qiliwatmamdu ?
+40005047	neme		eger siler dostliringlar bilenla salam-sehet qilixsanglar , buning baxqilardin neme perqi ? hetta butpereslermu xundaq qilidighu !
+40006027	qaysinglar		aranglarda qaysinglar ghem-qayghu bilen omrunglarni kichikkine uzartalaysiler ?
+40006028	neme		kiyim-kechek uchun ghem qilixning neme hajiti ? ! daladiki yawa gullerning qandaq osidighanliqigha qarap beqinglar ! ular ixmu qilmaydu , kiyimmu tikmeydu ;
+40006031a	neme		xundaq iken , neme yeymiz , 
+40006031b	neme		neme ichimiz , 
+40006031c	neme		neme kiyimiz ? dep ghem qilmanglar .
+40007003	neme uchun		neme uchun buradiringning here kepikidek kichik sewenlikinila korup , ozungdiki limdek chong gunahni kormeysen ? !
+40007004	qandaq		ozungde xunche chong gunah turuqluq , buradiringge : kozungdiki here kepikini eliwetey ! degining qandaq gep ?
+40007009	~		eger oghlunglar nan telep qilsa , siler uninggha tax berettinglarmu ?
+40007016a	~		siler ularni mewiliri din tonuwalalaysiler . tikendin uzum , qamghaqtin enjur alghili bolmaydu .
+40007016b	~		
+40008026	~		nemanche qorqisiler , ixenchinglar nemidegen ajiz ! dedi hezriti eysa we ornidin turup , boran-chapqun we dolqunlargha buyruq qildi . xuning bilen , boran we dolqunlar putunley tinchidi .
+40008027	qandaq		xagirtlar intayin heyran bolup , bir-birige : bu zadi qandaq ademdu ? hetta boran we dolqunlarmu uning gepini anglaydiken-he ! dep ketixti .
+40008029	~		ular hezriti eysani korgen haman : i hudaning oghli , iximizgha arilaxma ! sen waqit-saiti kelmestinla bizni qiynighili keldingmu ? dep towlidi .
+40009004	neme uchun		ularning konglide neme oylawatqanliqini bilgen hezriti eysa ulargha : neme uchun yaman oyda bolisiler ?
+40009005	~		gunahliring kechurum qilindi deyix asanmu yaki ornungdin tur , mang ! deyixmu ? elwette , eytmaq asan , qilmaq tes .
+40009011	qandaq		buni korgen perisiyler hezriti eysaning xagirtlirigha : ustazinglarning bajgir we gunahkarlar bilen bir dastihanda olturghini qandaq gep ? ! deyixti .
+40009014	nemixqa		xu waqitlarda , yehya peyghemberning xagirtliri kelip , hezriti eysagha : biz we perisiyler roza tutimiz , sizning xagirtliringiz nemixqa tutmaydu ? dep soraxti .
+40009015	qandaq		hezriti eysa jawaben mundaq dedi : toyi boluwatqan yigit tehi toy ziyapitide turghan chaghda , mehmanlar haza tutup oltursa qandaq bolghini ! ? elwette bolmaydu ! emma yigitning ulardin elip ketilidighan kuni kelidu , ene xu chaghda ular qayghu-hesret chekkinidin roza tutidu .
+40010025	~		xuning uchun , xagirt ustazidek , qul hojayinidek bolghinigha qanaet qilsun . ular oyning bexi bolghan meni jinlarning padixahi xeytan dep atighan yerde , oyning ezaliri bolghan silerni tehimu zor haqaret qilmamdu ?
+40011007	qandaq		yehya peyghemberning xagirtliri ketkendin keyin , hezriti eysa kopchilikke yehya toghruluq mundaq dedi : siler burun yehyani izdep cholge barghininglarda , zadi qandaq bir ademni kormekchidinglar ? meydani xamalda yelpunup turghan qomuxtek tewrinip turidighan bir yahxichaqnimu ?
+40011008	~		yaki chirayliq kiyingen bir esilzadinimu ? hergiz undaq emes ! bundaq kiyimlerni kiyidighanlar choldin emes , han ordisidin tepilidu .
+40011009	~		emeliyette , siler bir peyghemberni korgili chiqtinglar . emdi bilip qoyunglarki , yehya peyghemberdinmu ustundur .
+40011016	kimlerge		bu zamanning silerdek kixilirini zadi kimlerge ohxitay ? ular huddi kochida olturuwelip , bir-birige :
+40012011	~		hezriti eysa ulargha mundaq jawas berdi : bireringlarning qoyi origha chuxup ketse , dem elix kuni demey , uni derhal tartip chiqiriwalmamsiler ?
+40012026	qandaqmu		eger xeytan oz baxquruxida bolghan jinlarni heydise , oz-ozige qarxi chiqqan bolidu . undaqta , uning padixahliqi qandaqmu put tirep turalisun ?
+40012027	kimge		eger men jinlarni ularning padixahi bolghan xeytangha tayinip heydisem , silerning egexkuchiliringlar jinlarni heydexte kimge tayandi ? ! eytqanliringlarning hata ikenlikini oz egexkuchiliringlar delillep beridu .
+40012029	qandaq		bir kixi kuchtunggur birsining oyige kirip , uning melini qandaq bulap ketelisun ? peqet xu kuchtunggur ademni baghliyalighanlarla uning oyini bulang-talang qilalaydu .
+40012034	qandaqmu		ey zeherlik yilanlar ! siler yaman tursanglar , aghzinglardin qandaqmu yahxi gep chiqsun ? chunki , kongulde neme bolsa , eghizdin xu chiqidu .
+40012048a	kim		kim mening anam , 
+40012048b	kim		kim mening inilirim ? dedi hezriti eysa u kixige .
+40013010	neme uchun		xagirtliri kelip , hezriti eysadin : siz neme uchun kopchilikke telim bergende temsil kelturisiz ? dep soridi .
+40013027	nedin		hojayinning chakarliri kelip , uninggha : hojayin , siz etizgha yahxi uruq chachqanidingizghu , bu yawa otlar nedin kelip qaldi ? deptu .
+40013054a	nedin		oz yurtigha ketti we oz yurtidiki ibadethanida helqqe telim berixke baxlidi . uning telimini anglighan helq heyran bolup : bu ademning bunchiwala eqil-parasiti we mojize yaritix qudriti nedin kelgendu ?
+40013054b	~		
+40013056	nedin		singillirining hemmisi oz ichimizdighu ? xundaq turuqluq , uningdiki bu qabiliyetler zadi nedin kelgendu ? deyixetti .
+40014031	nemixqa		hezriti eysa derhal qolini uzitip , uni tutuwaldi we uninggha : ey ixenchi ajiz , nemixqa guman qilding ? dedi .
+40015002	nemixqa		xagirtliring nemixqa ejdadlirimizning enenilirige hilapliq qilidu ? ular tamaqtin ilgiri qollirini yumaydikenghu , dedi .
+40015003	nemixqa		hezriti eysa ulargha mundaq jawas berdi : silerchu ! siler nemixqa enenimizge riaye qilimiz dep , hudaning emrlirige hilapliq qilisiler ?
+40015033	nedin		xagirtlar uninggha : bundaq hilwet bir yerde bunchiwala halayiqni toydurghudek nanni nedin tapimiz ? deyixti .
+40015034	qanche		qanche neninglar bar ? dep soridi hezriti eysa . yette nan bilen birnechche tal kichik beliqimiz bar , deyixti ular .
+40016008	neme uchun		ularning neme deyixiwatqanliqini bilgen hezriti eysa mundaq dedi : ey ixenchi ajizlar ! neme uchun nan ekelmigenlikinglar toghrisida sozlixisiler ?
+40016009	qanche		tehiche chuxenmidinglarmu ? bex nan bilen bex ming kixini toydurghanliqim , yene qanche sewet yemeklik yighiwalghanliqinglar esinglarda yoqmu ?
+40016010a	~		yette nan bilen tot ming kixini toydurghanliqim , 
+40016010b	qance		yene qanche sewet yemeklik yighiwalghanliqinglarmu esinglarda yoqmu ?
+40016011	nemixqa		siler nemixqa mening eytqinimning nan toghruluq emeslikini chuxenmeysiler ? men yene silerge : perisiyler bilen saduqiylarning echitqusidin ehtiyat qilinglar deymen .
+40016013	kim		hezriti eysa filip qeyseriyisi rayonigha kelginide , xagirtliridin : kixiler insanoghlini kim dep bilidiken ? dep soridi .
+40016015a	~		hezriti eysa ulardin : silerchu ? 
+40016015b	kim		siler meni kim dep bilisiler ? dep soridi .
+40016026a	neme		bir adem putun dunyagha ige bolup hayatidin mehrum qalsa , buning neme paydisi bolsun ? ! 
+40016026b	nemini		nemini tolepmu hayatliqqa erixkili bolsun ? !
+40017010	neme uchun		andin xagirtliri uningdin : tewrat ustazliri neme uchun : ilyas peyghember qutquzghuchi mesih kelixtin awwal qaytip kelixi kerek deyixidu ? dep soraxti .
+40017017a	qachanghiche		ey etiqadsiz we chirik ewlad ! men silerning manga ixenmigenlikinglargha yene qachanghiche berdaxliq berey ? dedi hezriti eysa , balini aldimgha elip kelinglar .
+40017017b	~		
+40017019	neme uchun		keyin , hezriti eysa yalghuz qalghanda , xagirtlar uning yenigha kelip : biz neme uchun jinni heydiyelmiduq ? dep soraxti .
+40017025a	~		toleydu , dedi petrus . petrus oyge kelgende , u tehi bir neme demestila hezriti eysa uningdin : 
+40017025b	kimlerdin		simun , seningche dunyadiki padixahlar kimlerdin baj alidu ? oz perzentliridinmu yaki baxqilardinmu ? dep soridi .
+40018001	kim		bu chaghda , hezriti eysaning xagirtliri uning yenigha kelip : erxning padixahliqida kim eng ulu ? dep soridi .
+40018012	~		oylap beqinglarchu ? bir ademning yuz tuyaq qoyi bolup , uningdin biri adixip qalsa , u toqsan toqquz qoyni taghqa taxlap , heliqi adaxqan qoyini izdimemdu ?
+40018021	qanche		bu chaghda , petrus hezriti eysaning aldigha kelip : i rebbim , qerindiximning mening aldimda otkuzgen qanche qetimliq gunahini kechuruxum kerek ? yette qetimmu ? dedi .
+40019007	neme uchun		perisiyler hezriti eysadin : undaqta , musa peyghember neme uchun tewrat qanunida erlerning oz ayallirigha bir parche talaq hetini beripla ularni talaq qilsa bolidighanliqini eytti ? dep soraxti .
+40019016	qandaq		bir kuni , bir yigit hezriti eysaning aldigha kelip : ustaz , men qandaq yahxi ixlarni qilsam , mengguluk hayatqa eriximen ? dep soridi .
+40019017	nemixqa		hezriti eysa uninggha : yahxiliq toghrisida nemixqa mendin soraysiz ? yahxi bolghuchidin peqet birila bar . mengguluk hayatqa erixmekchi bolsingiz , uning emrlirini ada qiling , dedi .
+40019018	qaysi		qaysi emrlerni deysiz ? dep soridi heliqi yigit . hezriti eysa mundaq dedi : qatilliq qilma , zina qilma , oghriliq qilma , yalghan guwahliq berme ,
+40019020	nemilerni		bularning hemmisige emel qilip keliwatimen . bulardin baxqa yene nemilerni qilixim kerek ? dep soridi yigit .
+40019025	kim		buni anglighan xagirtlar bekmu heyran boluxup : undaqta , kim qutquzuxqa erixeleydu ? dep soraxti .
+40019027	nemige		buning bilen , petrus uningdin : mana biz hemmini taxlap sizge egextuq ! biz buningdin nemige eriximiz ? dep soridi .
+40020006	neme uchun		saet bexlerde chiqqinida , u yerde turghan yene baxqilarni korup , ulardin : neme uchun bu yerde kun boyi bikar yurisiler ? dep soraptu .
+40020012	~		keyin kelgenler peqet bir saetla ixlidi , biraq siz ulargha kun boyi qattiq issiqta azas chekken bizge ohxax heq berdingiz ! deyixiptu .
+40020021	neme		neme telipingiz bar ? dep soridi hezriti eysa . ayal uninggha : qobul qilghaysiz , sizning padixahliqingizda bu ikki oghlumdin biri ong yeningizda , biri sol yeningizda oltursun , dedi .
+40020032	neme		hezriti eysa qedimini tohtitip , ularni chaqirip : mendin neme telep qilisiler ? dep soridi .
+40021010	kimdu		hezriti eysa yerusalemgha kirgende , putun xeher lerzige keldi . kixiler : bu kimdu ? deyixetti .
+40021016	neme		ular hezriti eysadin : bu balilarning neme dewatqanliqini anglawatamsen ? dep soridi . anglawatimen , dedi hezriti eysa , siler muqeddes yazmilardiki : kichik balilar we bowaqlarning tilliridin ozungge medhiyiler kelturdung degen sozlerni zadi oqumighanmu ?
+40021020	qandaqche		buni korgen xagirtlar heyran bolup : enjur derihi qandaqche birdinla qurup ketti ! dep soridi .
+40021023a	qaysi		hezriti eysa merkiziy ibadethana hoylilirigha kirip , kixilerge telim beriwatqanda , aliy rohaniylar we helq aqsaqalliri uning aldigha kelip : siz qiliwatqan ixlarni qaysi hoquqqa tayinip qiliwatisiz ? 
+40021023b	kim		sizge bu hoquqni kim bergen ? dep soraxti .
+40021025a	kim		yehya peyghemberge chomuldurux hoquqini kim bergen ? hudamu yaki insanlarmu ? ular ozara munazire qilixqa baxlap : 
+40021025b	~		eger huda bergen desek , u : 
+40021025c	neme uchun		undaqta , siler neme uchun yehyagha ixenmidinglar ? deydu .
+40021028	qandaq		hezriti eysa sozini dawamlaxturup : siler bu ixqa qandaq qaraysiler ? bir ademning ikki oghli bar iken . u chong oghligha : oghlum , bugun uzumzarliqqa berip ixligin deptu .
+40021031	qaysisi		bu ikkiylenning qaysisi atisining buyruqini orundighan bolidu ? chong oghli , dep jawas berdi ular . hezriti eysa ulargha mundaq dedi : bilip qoyunglarki , insapsiz bajgirlar bilen pahixiler hudaning padixahliqigha silerdin burun kiridu .
+40021040	qandaq		bundaq ehwalda uzumzarliqning hojayini kelse , ijarikexlerni qandaq qilidu ?
+40022012	qandaq		padixah uningdin : burader , toy kiyimi kiymey , bu yerge qandaq kirding ? dep soraptu , biraq u kixi hechqandaq jawas berelmeptu .
+40022017	qandaq		qeni , eytip bergeysiz , rim imperatori qeyserge baj tapxuruximiz tewrat qanunimizgha hilapmu qandaq ? deyixti .
+40022018	nemixqa		ularning yaman niyitini bilgen hezriti eysa : ey sahtipezler , nemixqa meni sozum arqiliq ilindurmaqchi boluwatisiler ?
+40022020a	kimning		hezriti eysa ulardin : buning ustidiki suret we isim kimning ? dep soridi .
+40022020b	~		
+40022028	qaysisining		emdi soraydighinimiz xuki : qiyamet kuni bu ayal yette aka-ukidin qaysisining ayali bolup tirilidu ? chunki , uni hemmisi emrige alghan-de !
+40022036	qaysi		ustaz , tewrat qanunidiki eng muhim emr qaysi ? dep soridi .
+40022042a	neme		qutquzghuchi mesih toghrisida neme oylawatisiler ? 
+40022042b	kimning		u kimning ewladi ? dep soridi . dawut padixahning ewladi , deyixti ular .
+40022043	neme uchun		hezriti eysa mundaq dedi : undaqta , neme uchun dawut padixah muqeddes rohning ilhami bilen qutquzghuchi mesihni hojayinim dep ataydu ? dawut zeburda mundaq degenghu :
+40022045	~		qutquzghuchi mesih padixah dawutning ewladi bolsimu , lekin padixah dawut mesihni hojayinim degen yerde mesih uningdin ulu bolmamdu ? !
+40023017	~		ey kozi kor ehmeqler ! altun ulughmu yaki altunni muqeddes qilghan ibadethanimu ?
+40023019	~		ey korlar ! qurbanliq ulughmu yaki qurbanliqni muqeddes qilghan qurbanliq supisimu ?
+40023033	qandaqmu		ey zeherlik yilanlar ! yilanning ewladliri ! dozah azabidin qandaqmu qutulalarsiler ?
+40024003a	qachan		hezriti eysa zeytun teghida olturghanda , xagirtliri astighina uning yenigha kelip : bizge eytingchu , bu degenliringiz qachan yuz beridu ? 
+40024003b	qandaq		sizning we zaman ahirining kelixini bilduridighan qandaq bexaretler bolidu ? dep soraxti .
+40024045	kim		kim ixenchlik we zerek chakar bolsa , hojayin uni baxqa chakarliri ustidin kozitip , hojayinning ozuq-tulukini ulargha waqti-waqtida teqsim qilip berixke qoyidu .
+40025037	qachan		u chaghda , heqqaniy ademler uninggha : i rebbim , biz sizni qachan a korup toydurduq yaki ussuz korup su berduq ?
+40025038	qachan		sizni qachan musapir korup qoynimizgha alduq yaki yalinga korup kiyindurduq ?
+40025039	qachan		sizni qachan kesel yaki zindanda korup yoqlap turduq ? dep soraydu .
+40025044	qachan		u chaghda , ular : i rebbim , sizni qachan a , ussuz , musapir , yalinga , kesel yaki zindanda korup turup hizmitingizde bolmiduq ? deydu .
+40026008	nemixqa		xagirtlar buni korup hapa boluxup : nemixqa bundaq israpchiliq qilisiz ?
+40026010	neme		xagirtlarning narazi bolghanliqini bilgen hezriti eysa ulargha : bu ayalni hijil qilip neme qilisiler ? u men uchun yahxi ix qildi .
+40026015	neme		eysani tutup bersem , manga neme berisiler ? dedi . ular uninggha ottuz kumux tengge berdi .
+40026017	qeyerde		petir nan heytining birinchi kuni , xagirtlar hezriti eysaning yenigha kelixip : otup ketix heytining tamiqini qeyerde teyyarliximizni halaysiz ? dep soridi .
+40026040	~		u xagirtlirining yenigha qaytip kelginide , ularning mugdep qalghanliqini korup , petrusqa : men bilen bille birer saetmu hoxyar turalmidinglarmu ? !
+40026050	~		hezriti eysa uninggha : burader , qilidighiningni qil , dedi . buning bilen , heliqi ademler yopurulup kelip , hezriti eysagha qol selip , uni tutqun qildi .
+40026054	qandaq		biraq , eger men undaq qilsam , muqeddes yazmilardiki choqum muxundaq boluxi kerekliki toghrisidiki sozler qandaq emelge axsun ? dedi .
+40026062a	~		bax rohaniy ornidin turup , hezriti eysagha : qeni , jawas bermemsen ? 
+40026062b	neme		bularning sening ustungdin bergen guwahliqlirigha neme deysen ? dedi .
+40026065	~		bu sozni anglighan bax rohaniy tonlirini yirtip taxlap : u hudagha kupurluq qildi . emdi baxqa hechqandaq guwahchining hajiti qalmidi . siler uning kupurluqlirini anglidinglar .
+40026066	neme		emdi buninggha neme deysiler ? dedi . olum jazasigha tegixlik ! dep jawas qayturuxti ular .
+40026068	kim		ey mesih , peyghember bolsang , eytip baqqina , seni kim urdi ? deyixti .
+40027004	neme		men bigunah bir jangha zamin bolup gunah otkuzdum , dedi . bu sening ixing , bizning neme karimiz ? deyixti ular .
+40027013	~		buning bilen , pilatus uninggha : sening ustungdin qilinghan xunche kop xikayetlerni anglimaywatamsen ? dedi .
+40027017	kimni		helq bir yerge jem bolghanda , pilatus ulardin : siler uchun kimni qoyup beriximni telep qilisiler ? barabbasnimu yaki mesih dep atalghan eysanimu ? dep soridi .
+40027021	qaysisini		waliy ulardin yene : siler uchun bu ikkisining qaysisini qoyup beriximni telep qilisiler ? dep soridi . barabbasni , deyixti ular .
+40027022	qandaq		undaq bolsa , mesih dep atalghan eysani qandaq bir terep qilay ? dedi pilatus . hemmeylen bir eghizdin : uni krestke mihliting ! deyixti .
+40027023a	nemixqa		pilatus : nemixqa ? 
+40027023b	neme		u zadi neme jinayet otkuzuptu ? dep soridi . biraq , ular tehimu qattiq warqirixip : uni krestke mihliting ! dep turuwelixti .
+40027046	nemixqa		saet uchlerde hezriti eysa yuqiri awaz bilen : eli , eli , lema xewaqtani ? yeni hudayim , hudayim , meni nemixqa taxliwetting ? dep warqiridi .
+41001024	~		ey nasirelik eysa , biz bilen karing bolmisun ! bizni yoqatmaqchimusen ? men sening kimlikingni bilimen . huda ewetken muqeddes bolghuchisen ! dep towlap ketti .
+41001027	qandaq		buningdin heyran bolghan kopchilik bir-birige : bu qandaq ix ? yipyengi bir telimghu ! u derweqe jinlargha buyruq qilix hoquqigha ige iken ! ularmu uning sozige boysunidiken , deyixti .
+41002007a	neme uchun		bu adem neme uchun mundaq deydu ? bu kupurluqqu ! 
+41002007b	~		hudadin baxqa hechkimning gunahlarni kechurum qilix hoquqi yoqqu ! deyixti .
+41002008	neme uchun		ularning neme oylawatqanliqini xuan bilgen hezriti eysa ulargha mundaq dedi : siler buni neme uchun kupurluq deysiler ?
+41002009	~		gunahliring kechurum qilindi ! deyix asanmu yaki ornungdin tur , orun-korpengni yighixturup mang ! deyixmu ? elwette , eytmaq asan , qilmaq tes .
+41002016	qandaq		perisiy diniy eqimidiki bezi tewrat ustazliri uning gunahkar dep qaralghanlar we bajgirlar bilen bir dastihanda olturghanliqini korup , xagirtlirigha : uning bajgir we gunahkarlar bilen bir dastihanda olturghini qandaq gep ? ! deyixti .
+41002018	nemixqa		yehya peyghemberning xagirtliri bilen perisiyler roza tutatti . bezi kixiler hezriti eysaning aldigha kelip : yehya peyghemberning xagirtliri we perisiyler roza tutidu , sizning xagirtliringiz nemixqa tutmaydu ? dep soraxti .
+41002019	qandaq		hezriti eysa jawaben mundaq dedi : toyi boluwatqan yigit tehi toy ziyapitide turghan chaghda , mehmanlar hesret chekiwatqan ademlerdek roza tutsa qandaq bolghini ? ! elwette bolmaydu !
+41002024	nemixqa		perisiyler hezriti eysagha : xagirtliringiz nemixqa dem elix kuni cheklengen ixni qilidu , deyixti .
+41003004	qandaq		andin , ibadethanidikilerdin : qandaq qilix tewrat qanunigha uyghun ? dem elix kuni yahxiliq qilixmu yaki yamanliq qilixmu ? janni qutquzuxmu yaki halak qilixmu ? dep soridi . ular zuwan suruxmidi .
+41003023	qandaqmu		xuning uchun , hezriti eysa tewrat ustazlirini yenigha chaqirip , ulargha temsiller bilen mundaq dedi : xeytan xeytanni qandaqmu qoghlisun ?
+41003033a	kimler		hezriti eysa buninggha jawaben : kimler mening anam we inilirim ? dedi .
+41003033b	~		
+41004013	qandaqmu		andin , hezriti eysa ulargha mundaq dedi : siler muxu temsilnimu chuxenmidinglarmu ? undaqta , baxqa temsillerni qandaqmu chuxinisiler ?
+41004030a	nemige		hezriti eysa yene hundaq dedi : hudaning padixahliqini nemige ohxitay ? 
+41004030b	qandaq		qandaq bir tehsil bilen suretlep berey ?
+41004038	~		hezriti eysa kemining aya teripide yastuqqa bax qoyup uyqugha ketkenidi . xagirtlar uni oyghitip : ustaz , biz gherq bolux aldida turuwatsaq , karingiz yoqmu ? deyixti .
+41004040a	nemanche		hezriti eysa xagirtlirigha : nemanche qorqisiler ! tehiche ixenchinglar yoqmu ? dedi .
+41004040b	~		
+41004041	kimdu		ular bolsa qattiq qorqunch ichide bir-birige : bu adem zadi kimdu ? hetta boran we dolqunlarmu uning gepini anglaydiken-he ! dep ketixti .
+41005007	~		we qattiq warqirap : ulu hudaning oghli eysa , iximgha arilaxma ! huda aldida sendin otunup soraymenki , meni qiynima ! dedi .
+41005009	neme		andin , hezriti eysa bu ademdin : isming neme ? dep soridi . ismim minglighan , chunki sanimiz kop , dep jawas berdi bu ademni sozlitiwatqan jin
+41005030	kim		del xu waqitta , hezriti eysa wujudidin qudritining chiqqanliqini sezdi . u halayiqning ichide keynige burulup : kiyimimni tutqan kim ? dep soridi .
+41005031	kim		xagirtliri uninggha : opchoringizdiki halayiqning qistap keliwatqanliqini korup turuqluq , yene : meni tutqan kim ? dep soraysizghu ? deyixti .
+41005035	~		hezriti eysa bu sozni qiliwatqanda , ibadethana mesulining oyidin kixiler kelip , ibadethana mesuli yairgha : qizingiz jan uzdi . emdi ustazni aware qilixning hajiti yoqmikin , deyixti .
+41005039a	nemixqa		hezriti eysa oyge kirip ulargha : nemixqa derd-peryad koturup yighlaysiler ? bala olmidi , uhlap qaptu , dedi .
+41005039b	~		
+41006002a	nedin		dem elix kuni , hezriti eysa ibadethanida telim berixke baxlidi . uning sozlirini anglighan jamaet heyran boluxup : bu adem bularni nedin ogengendu ? 
+41006002b	kim		uninggha bunchiwala eqil-parasetni kim bergendu ? 
+41006002c	qandaq		bu mojizilerni qandaq yaritidighandu ?
+41006022	neme		hirodiyening burunqi eridin bolghan qizi kirip ussul oynap berdi . bu hirod bilen mehmanlargha bekmu yeqip ketti . hirod han qizgha : mendin neme telep qilsingiz , xuni berimen , dedi .
+41006024	neme		qiz taxqirigha chiqip , anisidin : neme telep qilay ? dep soridi . chomuldurguchi yehyaning kallisini telep qil , dedi anisi .
+41006037	~		lekin , hezriti eysa : ulargha ozunglar tamaq beringlar , dedi . xagirtlar hezriti eysadin : yerim yilliq kirimni hejlep , ulargha nan ekelip ulexturup beremduq ? dep soridi .
+41006038	qanche		qanche neninglar bar ? qarap beqinglar , dedi hezriti eysa ulargha . ular tekxurup kelgendin keyin : bizde bex nan bilen ikki beliq bar iken , deyixti .
+41007005	nemixqa		perisiyler we tewrat ustazliri hezriti eysadin : xagirtliring nemixqa ejdadlirimizning enenilirige riaye qilmaydu ? nemixqa napak qolliri bilen tamaq yeydu ? dep soraxti .
+41008004	nedin		xagirtliri buninggha jawaben : bundaq hilwet bir yerde bunchiwala kixini toydurghudek nanni nedin tapqili bolsun ? deyixti .
+41008005	qanche		qanche neninglar bar ? dep soridi hezriti eysa . yette , deyixti ular .
+41008012	neme		hezriti eysa chongqur bir ulu-kichik tinip : bu zamanning ademliri neme uchun karamet korset , depla turidighandu ? bilip qoyunglarki , ulargha korsitilidighan karamet yoq , dedi .
+41008017	neme		ularning neme deyixiwatqanliqini bilgen hezriti eysa ulardin : siler neme uchun nan ekelmigenlikinglar toghrisida sozlixisiler ? tehiche chuxenmeywatamsiler ? siler tehiche bihudmu ?
+41008018a	~		kozunglar turup kormeywatamsiler ? 
+41008018b	~		quliqinglar turup anglimaywatamsiler ? esinglarda yoqmu ?
+41008019	qanche		bex nanni bex ming kixige ulexturginimde , exip qalghan nan parchilirini qanche sewetke yighiwalghanidinglar ? dep soridi . on ikki sewetke , deyixti ular .
+41008020	qanche		yette nanni tot ming kixige ulexturginimde , exip qalghan nanlarni qanche sewetke yighiwalghanidinglar ? dedi hezriti eysa . yette sewetke , deyixti ular .
+41008021	~		hezriti eysa ulargha : undaqta , yene chuxenmidinglarmu ? dedi .
+41008023	~		hezriti eysa kor ademning qolidin yetilep yezining sirtigha elip bardi we uning kozlirige tukurup , qollirini tegkuzup : bir nerse koruwatamsen ? dep soridi .
+41008027	kim		hezriti eysa xagirtliri bilen bille filip qeyseriyisi degen rayongha qaraxliq yezilargha bardi . u yolda xagirtliridin : kixiler meni kim dep bilidiken ? dep soridi .
+41008029a	~		
+41008029b	kim		hezriti eysa yene ulardin : silerchu , siler meni kim dep bilisiler ? dep soridi . siz qutquzghuchi mesih ikensiz , dep jawas berdi petrus .
+41008036	neme		bir adem putun dunyagha ige bolup hayatidin mehrum qalsa , buning neme paydisi bolsun ? !
+41008037	nemini		nemini tolepmu hayatliqqa erixkili bolsun ? !
+41009010	neme		ular hezriti eysaning sozini konglige pukup , olumdin tirilix degenning menisining neme ikenliki toghrisida ozara pikirlexti .
+41009011	neme uchun		xagirtlar hezriti eysadin yene : tewrat ustazliri neme uchun : ilyas peyghember qutquzghuchi mesih kelixtin awwal qaytip kelixi kerek deyixidu ? dep soraxti .
+41009012	qandaq		hezriti eysa ulargha mundaq dedi : elwette , ilyas peyghember choqum qutquzghuchi mesihtin awwal kelip , hemmini qelipigha salidu . undaqta , muqeddes yazmilarda insanoghli kop azas-oqubet chekidu we ret qilinidu , dep putulginige qandaq qaraysiler ? bilip qoyunglarki , ilyas peyghember heqiqeten keldi we huddi muqeddes yazmilarda u heqqide yezilghandek , kixilerning uninggha qilmighan eskiliki qalmidi .
+41009016	neme		hezriti eysa xagirtliridin : ular bilen neme toghruluq munazirilixiwatisiler , dep soridi .
+41009019a	qanchilik		ey etiqadsiz ewlad ! siler manga ixenguche , men siler bilen yene qanchilik bille boluxum kerek ? 
+41009019b	qachanghiche		yene qachanghiche berdaxliq berey ? dedi hezriti eysa , balini aldimgha elip kelinglar .
+41009021	qanchilik waqit		hezriti eysa balining atisidin : uning bexigha bu kun kelginige qanchilik waqit boldi ? dep soridi . kichikidin tartip xundaq .
+41009028	neme uchun		hezriti eysa oyge kirip , xagirtliri bilen yalghuz qalghanda , ular uningdin : biz neme uchun jinni heydiyelmiduq ? dep soraxti .
+41009033	neme		ular kepernahum xehirige keldi . oyge kirgendin keyin , hezriti eysa xagirtliridin : yolda neme toghrisida talax-tartix qilixtinglar ? dep soridi .
+41009050	qandaq		tuz yahxi nersidur . biraq , tuz oz kuchidin qalsa , uni qandaq eslige kelturgili bolidu ? xuninggha ohxax , silermu tuzdek bolup aranglardiki inaqliqini saqlanglar .
+41010003	neme		musa peyghember silerge neme dep buyrughan ? dedi hezriti eysa .
+41010017	qandaq		hezriti eysa seperge chiqix aldida , bir kixi yugurup kelip , uning aldida tiz pukup : i yahxi ustaz , mengguluk hayatqa erixix uchun qandaq qilixim kerek ? dep soridi .
+41010018	nemixqa		hezriti eysa uninggha : meni nemixqa yahxi deysiz ? yegane hudadin baxqa yahxi yoq .
+41010026	kim		xagirtlar tehimu heyran boluxup , bir-biridin : undaqta , kim qutquzuxqa erixeleydu ? dep soraxti .
+41010036	neme		silerge neme qilip beriximni telep qilisiler ? dep soridi hezriti eysa .
+41010051	neme		hezriti eysa uningdin : mendin neme telep qilisen ? dep soridi . qarighu : ustaz , kozumning echilixini telep qilimen ! dedi .
+41011003	nemixqa		eger biri silerdin : nemixqa bundaq qilisiler ? dep sorap qalsa , rebbimizning buninggha hajiti chuxti , birdemdin keyin qayturup beridu denglar .
+41011005	neme		u yerde turghan bezi kixiler : teheyni yexip neme qilisiler ? deyixti .
+41011028a	qaysi		siz qiliwatqan ixlarni qaysi hoquqqa tayinip qiliwatisiz ? 
+41011028b	kim		sizge bundaq qilix hoquqini kim bergen ? dep soridi .
+41011030	~		eytinglarchu , yehya peyghemberge chomuldurux hoquqini huda bergenmu yaki insanlarmu ? dedi .
+41011031a	~		ular ozara munazire qilixqa baxlap : 
+41011031b	neme uchun		eger huda bergen desek , u : undaqta siler neme uchun yehyagha ixenmidinglar ? deydu .
+41012009	qandaq		bundaq ehwalda , uzumzarliqning hojayini bu ijarikexlerni qandaq qilidu ? jezmen ularni olturup , uzumzarliqini baxqilargha ijarige beridu .
+41012015	nemixqa		ularning sahtipezlikini bilgen hezriti eysa : nemixqa meni sozum arqiliq ilindurmaqchi boluwatisiler ? manga bir dane kumux tengge beringlar , korup baqay , dedi .
+41012016a	kimning		pul elip kelindi , hezriti eysa ulardin : buning ustidiki suret we isim kimning ? dep soridi . rim imperatori qeyserning , deyixti ular .
+41012016b	~		
+41012023	kimning		emdi soraydighinimiz xuki : qiyamet kuni bu ayal kimning ayali bolup tirilidu ? chunki , yette qerindaxning hemmisi uni hotunluqqa alghan-de ! deyixti .
+41012028	qaysi		ularning munazirisini anglighan we hezriti eysaning ulargha yahxi jawas bergenlikini korgen bir tewrat ustazi hezriti eysaning aldigha kelip : putun emrlerning ichide eng muhimi qaysi ? dep soridi .
+41012035	qandaq		hezriti eysa merkiziy ibadethana hoylilirida telim beriwetip , mundaq soalni otturigha qoydi : tewrat ustazliri qutquzghuchi mesihni padixah dawutning ewladi , dep turuwalsa qandaq bolidu ?
+41012037	~		qutquzghuchi mesih padixah dawutning ewladi bolsimu , lekin padixah dawut mesihni hojayinim degen yerde mesih uningdin ulu bolmamdu ? ! u yerdiki jamaet hezriti eysaning sozini zoq bilen anglaytti .
+41013004a	qachan		bizge eytingchu , bu degenliringiz qachan yuz beridu ? 
+41013004b	qandaq		bularning yuz beridighanliqini bilduridighan qandaq bexaret bolidu ? dep soraxti .
+41014004	neme		beziler buninggha hapa bolup , bir-birige : hux puraq etirni bundaq israp qilghanning neme paydisi ?
+41014006	neme		ayalning ihtiyarigha qoyuwetinglar , uni hijil qilip neme qilisiler ? u men uchun yahxi ix qildi .
+41014012	qeyerge		petir nan heytining birinchi kuni , yeni otup ketix heytining qurbanliqi qilinidighan kuni , xagirtlar hezriti eysaning yenigha kelixip : otup ketix heytining tamiqini qeyerge berip teyyarliximizni halaysiz ? dep soridi .
+41014014	qeyerde		u adem kirgen oyning igisige : ustazimiz : xagirtlirim bilen otup ketix heytining tamiqini yeydighan mehmanliq oy qeyerde ? dep sorawatidu denglar .
+41014060a	qeni		andin , bax rohaniy ornidin turup , jamaetning aldida hezriti eysagha : qeni , jawas bermemsen ? 
+41014060b	neme		bularning sening ustungdin bergen guwahliqlirigha neme deysen ? dedi .
+41014063	~		bu sozni anglighan bax rohaniy kiyimlirini yirtip taxlap : emdi baxqa hechqandaq guwahchining hajiti qalmidi .
+41014064	neme		siler uning kupurluqlirini anglidinglar . emdi buninggha neme deysiler ? dedi . ular birdek uninggha olum jazasi tegixlik dep hokum qilixti .
+41015004	~		pilatus uningdin yene : qara , ular ustungdin xunchiwala xikayet qiliwatidu . sen hechqaysisigha jawas bermemsen ? dep soridi .
+41015012	qandaq		pilatus ulardin yene : undaq bolsa , siler yehudiylarning padixahi , dep atighan ademni qandaq bir terep qilay ? dep soridi .
+41015014a	nemixqa		nemixqa ? 
+41015014b	neme		u neme jinayet otkuzuptu ? dedi pilatus ulargha . biraq , ular tehimu qattiq warqirixip : uni krestke mihliting ! dep turuwelixti .
+41015034	nemixqa		saet uchte , hezriti eysa yuqiri awaz bilen : eloy , eloy , lema xewaqtani ! yeni hudayim , hudayim , meni nemixqa taxliwetting ! dep warqiridi .
+41016003	kim		ular ozara : qebrining aghzidiki taxni kim domilitixip berer ? deyixti .
+42001018	nemidin		men qerip qaldim , ayalimning yeximu bir yerge berip qalghan tursa , bundaq boluxi mumkinmu ? men uni nemidin bileleymen ? dep soridi zekeriya perixtidin .
+42001034	qandaqmu		men tehi qiz tursam , bu qandaqmu mumkin bolsun ? dep soridi meryem perixtidin .
+42001043	~		rebbimning anisi bolux supiting bilen meni yoqlap kelixingge munasip emesmen .
+42001066	qandaq		bu ixtin hewer tapquchilar : bu bala kelguside qandaq adem bolar ? dep oylaxti , chunki hudaning ku-qudriti uninggha yar idi .
+42002048	nemixqa		ata-anisimu buni korup nahayiti heyran qelixti , biraq anisi uninggha : way balam ! nemixqa bizge uqturmay qelip qalding ? dadang ikkimiz sendin bek ensirep , izdimigen yerimiz qalmidi ! dedi .
+42002049	neme		izdexning neme hajiti ? ejeba , siler mening choqum atamning oyide bolidighanliqimni bilmemtinglar ? dep jawas berdi hezriti eysa .
+42003007	qandaq		halayiq yehya peyghemberning aldigha chomulduruxni qobul qilix uchun . top-top bolup kelixti . biraq , yehya peyghember ulargha : ey sahtipez yilanlar ! towa qilmay , hudadin kelidighan ghezeptin qechip qutulux uchun chomulduruxni qobul qilayli , degininglar qandaq gep ? !
+42003010	qandaq		kopchilik uningdin : undaqta , biz qandaq qiliximiz kerek ? dep soridi .
+42003012	qandaq		helqni gollaydighan bezi bajgirlarmu chomulduruxni qobul qilghili yehya peyghemberning aldigha kelip : ustaz , biz qandaq qilimiz ? dep soridi .
+42003014a	~		bezi lexkerlermu uningdin : bizchu ? 
+42003014b	qandaq		qandaq qiliximiz kerek ? dep soraxti . yehya peyghember ulargha : baxqilarning pulini zorluq yaki tohmetler bilen eliwalmanglar . ix heqqinglargha razi bolunglar , dedi .
+42004034	~		ey nasirelik eysa , biz bilen karing bolmisun ! bizni yoqatmaqchimusen ? men sening kimlikingni bilimen . huda ewetken muqeddes bolghuchisen ! dep towlap ketti .
+42004036	nemidegen		buningdin heyran bolghan kopchilik bir-birige : uning sozliri nemidegen kuchluk ! u derweqe jinlargha buyruq qilix nopuzi we qudritige ige iken ! jinlar rasttinla chiqip ketti , deyixti .
+42005021a	kimdur		heliqi tewrat ustazliri bilen perisiyler bir-birige : qorqmastin bundaq kupur sozligen bu adem kimdur ? ! 
+42005021b	~		hudadin baxqa hechkimning gunahlarni kechurum qilix hoquqi yoqqu ! deyixti .
+42005022	neme uchun		ularning konglide neme oylawatqanliqini bilgen hezriti eysa ulargha mundaq dedi : siler buni neme uchun kupurluq deysiler ?
+42005023	~		gunahliring kechurum qilindi ! deyix asanmu yaki ornungdin tur , mang ! deyixmu ? elwette , eytmaq asan , qilmaq tes . emma , hazir insanoghlining yer yuzide hem gunahlarni kechurum qilix , hem kesellerni saqaytix hoquqigha ige ikenlikini ispatlap berey , dedi . andin , pale keselge : ornungdin tur , orun-korpengni yighixturup oyungge qayt ! dep buyrudi .
+42005030	qandaq		keyin , bezi perisiyler we ularning diniy eqimidiki bezi tewrat ustazliri renjigen halda hezriti eysaning xagirtlirigha : silerning bajgir we gunahkarlar bilen bir dastihanda olturghininglar qandaq gep ? ! deyixti .
+42005033	~		bezi kixiler hezriti eysagha : yehya peyghemberning xagirtliri pat-pat roza tutup dua qilidu . perisiylerning xagirtlirimu xundaq qilidu . sizning xagirtliringiz ejes yep-ichipla yuridighu ! deyixti .
+42005034	qandaq		hezriti eysa ulargha : toyi boluwatqan yigit tehi toy ziyapitide turghan chaghda , mehmanlar hesret chekiwatqan ademlerdek roza tutsa qandaq bolghini ? ! elwette bolmaydu !
+42006002	nemixqa		buni korgen bezi perisiyler : siler nemixqa dem elix kuni cheklengen ixni qilisiler , deyixti .
+42006009	qandaq		andin , hezriti eysa kopchilikke : silerdin sorap baqaychu , qandaq qilix tewrat qanunigha uyghun ? dem elix kuni yahxiliq qilixmu yaki yamanliq qilixmu ? janni qutquzuxmu yaki jangha zamin boluxmu ? dedi we
+42006032	neri		eger siler ozunglarni yahxi korgenlergila mehir-muhebbet korsetsenglar , buning mahtanghudek neri bar ? gunahkarlarmu ozini yahxi korgenlerge mehir-muhebbet korsitidighu .
+42006033	neri		eger siler ozunglargha yahxiliq qilghanlarghila yahxiliq qilsanglar , buning mahtanghudek neri bar ? hetta gunahkarlarmu xundaq qilidighu !
+42006034	neri		eger siler qerzni qayturalaydighanlarghila bersenglar , buning mahtanghudek neri bar ? gunahkarlarmu eynen qayturux xerti bilen baxqa gunahkarlargha qerz beridighu !
+42006039	~		andin , hezriti eysa ulargha temsil arqiliq telim berip mundaq dedi : qarighu qarighuni yeteklep mangalmaydu . undaq qilsa , her ikkilisi origha chuxup ketidu .
+42006041	neme uchun		neme uchun buradiringning here kepikidek kichik sewenlikinila korup , ozungdiki limdek chong gunahni kormeysen ? !
+42006042	qandaq		ozungdiki xunche chong gunahni kormey turup , buradiringge : kozungdiki here kepikini eliwetey ! deyixing qandaq gep ? ey sahtipez ! awwal ozungning kozidiki limni eliwet . buning bilen , eniq korup , buradiringning kozidiki here kepikini eliweteleysen .
+42006046	~		siler ejes meni rebbim ! rebbim ! deysileryu , buyruqlirimgha emel qilmaysiler .
+42007024	qandaq		yehya peyghemberning xagirtliri ketkendin keyin , hezriti eysa kopchilikke yehya toghruluq mundaq dedi : siler burun yehyani izdep cholge barghininglarda , zadi qandaq bir ademni kormekchidinglar ? meydani xamalda yelpunup turghan qomuxtek tewrinip turidighan bir yahxichaqnimu ?
+42007025	~		yaki chirayliq kiyingen bir esilzadinimu ? hergiz undaq emes ! hexemetlik kiyim kiyiwalghan , eyx-ixret ichide yaxaydighan kixiler choldin emes , belki han ordisidin tepilidu .
+42007026	~		emeliyette , siler bir peyghemberni korgili chiqtinglar . emdi bilip qoyunglarki , yehya herqandaq peyghemberdinmu ustun peyghemberdur .
+42007031a	kimlerge		xuning bilen , hezriti eysa ulargha mundaq dedi : bu zamanning silerdek kixilirini zadi kimlerge ohxitay ? !
+42007031b	~		
+42007042	qaysisi		her ikkisining qerzni qayturux imkaniyiti yoq iken . xunga , qerz igisi mehribanliq qilip , her ikkisining qerzini kechurum qiptu . seningche , ularning qaysisi qerz igisini bekrek yahxi koridu ? dep soridi hezriti eysa .
+42007049	kimdu		hezriti eysa bilen bir dastihanda olturghanlar : hetta kixilerning gunahlirinimu kechurum qilidighan bu adem zadi kimdu ? deyixti .
+42008025a	nege		ixenchinglar nege ketti ? dedi . xagirtlar hem heyran bolup , hem qorquxup , bir-birige : 
+42008025b	kimdu		bu adem zadi kimdu ? buyruq qilsa , hetta boran we dolqunlarmu uning gepini anglaydiken-he ! dep ketixti .
+42008028	~		u hezriti eysani koruxi bilenla uning ayighigha yiqilip : ulu hudaning oghli eysa , iximgha arilaxma ! sendin otunimenki , meni qiynima ! dep warqirap ketti .
+42008030	neme		hezriti eysa bu ademdin : isming neme ? dep soridi . ismim minglighan , dep jawas berdi bu ademni sozlitiwatqan jin . chunki , bu ademge minglighan jinlar chaplixiwalghanidi .
+42008045	kim		peximni tutqan kim ? dep soridi hezriti eysa . kopchilik : tutmiduq deyixti . ustaz , tot etrapingizning hemmisi adem , ular sizni qistap turuwatmamdu ? dedi petrus .
+42009009a	kimdu		men yehyaning kallisini aldurghanidim , emdi bu geplerni anglawatimen . bu ixlarni qiliwatqan kixi zadi kimdu ? dedi hirod han . xuning uchun , u hezriti eysa bilen koruxuxning yolini izdidi .
+42009009b	~		
+42009018	kim		bir kuni , hezriti eysa ozi yalghuz dua qiliwatatti . uning yenida xagirtlirila bar idi . hezriti eysa ulardin : halayiq meni kim dep bilidiken ? dep soridi .
+42009020a	~		hezriti eysa ulardin : silerchu ? 
+42009020b	kim		siler meni kim , dep bilisiler ? dep soridi . siz huda teyinligen qutquzghuchi mesih ikensiz , dep jawas berdi petrus .
+42009025	neme		bir adem putun dunyagha ige bolup hayatidin mehrum qalsa , buning neme paydisi bolsun ? !
+42009041a	qachanghiche		ey etiqadsiz we chirik ewlad ! men siler bilen bille bolup , silerning yenila manga ixenmigenlikinglargha yene qachanghiche berdaxliq berey ? dedi hezriti eysa . andin , heliqi kixige : balangni elip kel , dedi .
+42009041b	~		
+42010025	qandaq		tewrat ustazliridin biri hezriti eysani sinimaqchi bolup : ustaz , men qandaq qilsam mengguluk hayatqa erixeleymen ? dep soridi .
+42010026a	neme		tewrat qanunida neme deyilgen ? 
+42010026b	qandaq		buni ozingiz qandaq chuxendurisiz ? dep soridi hezriti eysa .
+42010029	kimler		u kixi ozining soal sorixining yolluq ikenlikini bildurux uchun , hezriti eysadin chuxendurux telep qilip : mening soyuxke tegixlik qoxnilirim kimler ? dep soridi .
+42010036a	~		
+42010036b	qaysisi		hezriti eysa heliqi ustazdin : sizche , bu u adem ichide qaysisi qaraqchilargha yoluqqan heliqi kixige qoxnidarchiliqni yetkuzgen ? dep soridi .
+42011008	~		yaq , u dostluqning yuzini qilmighan teqdirdimu , sening tartinmastin qayta-qayta yalwuruxung wejidin bolsimu , ornidin turup , sorighan nersengni choqum beridu .
+42011011	~		siler beliq telep qilghan oghlunglargha yilan berettinglarmu ?
+42011012	~		tuhum telep qilsa , chayan berettinglarmu ?
+42011013	~		gunahkar bolghan siler perzentliringlargha yahxi nersilerni berixni bilgen yerde , erxtiki atanglar tiligenlerge muqeddes rohini iltipat qilmasmu ?
+42011018	qandaqmu		xuninggha ohxax , xeytan oz baxquruxida bolghan jinlar bilen soquxsa , uning padixahliqi qandaqmu put tirep turalisun ? siler meni , jinlarni xeytangha tayinip heydeydiken deysiler .
+42011019	kimge		eger derweqe xundaq bolsa , silerning egexkuchiliringlar jinlarni heydexte kimge tayandi ? ! eytqanliringlarning hata ikenlikini oz egexkuchiliringlar delillep beridu .
+42012014	kim		burader , kim manga silerning aranglarda qaziliq qilix yaki mirasinglarni ayrip berix hoquqini beriptu ? dedi hezriti eysa uninggha .
+42012017	qandaq		u konglide bunchiwala hosulni qoyidighan yerim yoq . qandaq qilixim kerek ?
+42012020	kimge		lekin , huda uninggha : ey ehmeq , bugun kechila amanetni tapxurisen , undaqta toplighan barliq bayliqing emdi kimge qalar ? deptu .
+42012024	~		qaghilarni oylanglar ! ular terimaydu , yighmaydu , ularning ambar , iskilatlirimu yoq . huda ularnimu a qoymighan yerde , silerning rizqinglarni choqum beridu . chunki , siler xu quxlardin kop eziz emesmu ?
+42012025	qaysinglar		aranglarda qaysinglar ghem-qayghu bilen omrunglarni kichikkine uzartalaysiler ?
+42012026	neme		mana xunchilik kichik ixnimu qilalmisanglar , baxqa ixlar uchun ghem qilixinglarning neme hajiti ? !
+42012042	kim		hezriti eysa mundaq dedi : kim ixenchlik we zerek chakar bolsa , hojayin uni baxqa chakarliri ustidin kozitip , hojayinning ozuq-tulukini ulargha waqti-waqtida teqsim qilip berixke qoyidu .
+42012049	neqeder		men dunyagha ot yeqixqa keldim . bu otning yenip ketixini neqeder arzu qilimen-he !
+42012056	neme		ey sahtipezler ! siler asman-zeminning renggini chuxendureleysileryu , hazirning neme waqit ikenlikini chuxendurelmemsiler ? !
+42012057	nemixqa		nemining toghra ikenlikige siler ozunglar nemixqa hokum qilip baqmaysiler ? !
+42013004	qandaq		siloha mehellisidiki munar orulup chuxkende tegide qelip olgen on sekkiz kixini qandaq deysiler ? ularni yerusalemdiki baxqa kixilerdinmu yaman , dep qaramsiler ?
+42013007	neme		u kixi baghwenge : qara , u yildin beri xunche kutsem , bir talmu mewe bermidi , uni kesiwet ! uning bu yerde yer igilep turuxining neme hajiti deptu .
+42013015	~		rebbimiz eysa uninggha mundaq jawas berdi : ey sahtipezler , dem elix kuni okuz we exikinglarni u ! ? bu herikitinglarni ix ili elip barisiler ar oqurdin yexip , su dep hesablimahsiler ? !
+42013018a	qandaq		hezriti eysa telim berixni dawahlaxturup hundaq dedi : hudaning padixahliqi zadi qandaq ? 
+42013018b	qandaq		hen uni qandaq suretlep berey ?
+42013020	nemige		uningdin baxqa , hudaning padixahliqini nemige ohxitay ? u huddi hemirturuchqa ohxaydu . ayal hemirturuchni bir ursa , bu hemirturu putun hemirni bolduralaydu .
+42013025	~		oyning hojayini ixikni taqighan waqtida , siler taxqirida turup : teqsir , ixikni eching ! dep ixikni qaqsanglar , u : yaq ! achmaymen , chunki silerni tonumaymen deydu .
+42014005	~		andin , kopchilikke : balanglar yaki kalanglar quduqqa chuxup ketse , dem elix kuni demey , uni derhal tartip chiqiriwalmamsiler ? ! dedi .
+42014028	qanche		eger aranglardiki biri munar salmaqchi bolsa , aldi bilen bu quruluxni putkuzux uchun yetkudek pul barmu-yoq dep , qanche pul ketidighanliqini inchike hesablimay qalamdu ? !
+42014031	~		xuninggha ohxax , eger bir padixahning on ming kixilik qoxuni bolup , yigirme ming kixilik qoxunni baxlap keliwatqan ikkinchi bir padixah bilen uruxqili barmaqchi bolsa , u jezmen aldi bilen oz kuchini sinap , reqibige taqabil turalaydighan yaki turalmaydighanliqini molcherlep koridu emesmu ? !
+42014034	qandaq		tuz yahxi nerse . biraq , tuz oz kuchidin qalsa , uni qandaq eslige kelturgili bolidu ?
+42015004	qandaq		eger ichinglarda bireylenning yuz tuyaq qoyi bolup , uningdin biri yoqilip ketken bolsa , u qandaq qilidu ? u jezmen qalghan toqsan toqquz qoyni otlaqqa taxlap , heliqi yoqalghan qoyini tepilghuche izdeydu .
+42015008	qandaq		xuninggha ohxax , eger bir ayalning on dane qimmetlik kumux tenggisi bolup , uningdin birini yoqitip qoysa , qandaq qilidu ? u jezmen chiraghni yandurup , oyni supurup taki tengge tepilghuche hemme yerni zen qoyup ahturup chiqidu .
+42015026	neme		u chakarlardin birini chaqirip , uningdin neme ix bolghanliqini soraptu .
+42015029	neme		lekin , u atisigha : qarang sizni , men sizge xunche yil quldek ixlep keldim , buyruqliringizgha hilapliq qilmidim , siz manga neme berdingiz ? el-aghinilirim bilen birer qetim oynap-kuluxke birer oghlaqmu soyup berginingiz yoqqu !
+42016002	qandaq		bay ghojidarni chaqirip , uninggha : mening anglighanlirim qandaq gep ? emdi hizmettin boxitilisen , hesas-kitabni tapxur deptu .
+42016003	qandaq		heliqi ghojidar ichide hojayinim meni hizmettin boxitiwetse , bundin keyin qandaq qilarmen ? etizda ixlexke kuchum yoq , tilemchilik qilay desem , nomus qilimen .
+42016005	qanchilik		xuning bilen , u hojayinigha qerzdarlarni bir-birlep chaqirip kelip , birinchisidin : hojayinimgha qanchilik qerz boldung ? dep soraptu .
+42016007	qanchilik		u yene biridin : senchu , qanchilik qerz boldung ? dep soraptu . ming taghar bughday dep jawas beriptu u . ghojidar uninggha : mana bu sening hesabat deptiring . sekkiz yuzge ozgertiwet ! deptu .
+42016011	qandaqmu		eger siler bu dunyadiki bayliqlarni bir terep qilixta semimiyetsiz bolsanglar , huda qandaqmu jennettiki heqiqiy bayliqni silerge ata qilsun ?
+42016012	kim		eger siler baxqilarning nersilirige qara sanisanglar , oz nesiwinglarni silerge kim bersun ? !
+42017007	~		eger melum biringlarning teriqchiliq qilidighan yaki qoy baqidighan qulunglar bolup , u qoruqtin qaytip kelgende : tezrek kelip tamiqingni yewal dersilermu ?
+42017017	qeni		hezriti eysa buni korup turghanlargha : saqayghanlar on adem emesmidi ? qalghan toqquzeylen qeni ?
+42017018	~		yehudiy bolmighan bu samariyiliktin baxqa , hudagha xukur eytidighan kixi yoqmu ? ! dedi .
+42017020	qachan		bezi perisiyler hezriti eysadin hudaning padixahliqining qachan namayan bolidighanliqini soridi . hezriti eysa ulargha mundaq jawas berdi : hudaning padixahliqining namayan boluxi koz bilen korgili bolidighan ix emes .
+42017037	qeyerde		i rebbimiz , bu weqeler qeyerde yuz beridu ? dep soridi xagirtlar . jeset qeyerde bolsa , quzghunlar xu yerge toplinidu , dep jawas berdi hezriti eysa .
+42018018	qandaq		yehudiylarning baxliqliridin bolghan bir bay hezriti eysadin : yahxi ustaz , men qandaq qilsam mengguluk hayatqa eriximen ? dep soridi .
+42018019	nemixqa		meni nemixqa yahxi deysiz ? dedi hezriti eysa , yegane hudadin baxqa yahxi yoq .
+42018026	kim		buni anglighanlar : undaqta , kim qutquzuxqa erixeleydu ? deyixti .
+42018036	neme		u bu yerdin otup ketiwatqan kopchilikning awazini anglap , neme weqe bolghanliqini suruxturdi .
+42018041	neme		mendin neme telep qilisen ? dep soridi . i rebbim , kozumning echilixini telep qilimen ! dedi qarighu .
+42019007	~		buni korgen jamaet : bu adem gunahkarning oyide mehman boldi ! dep ghotuldixip ketti .
+42019023	neme uchun		yene neme uchun pulumni hezinichilerge amanet qoymiding ? men qaytip kelgende osumi bilen almasmidim ? deptu hojayin .
+42019031	nemixqa		eger biri silerdin : teheyni nemixqa yexisiler ? dep sorap qalsa , rebbimizning uninggha hajiti chuxti denglar .
+42019033	nemixqa		ular teheyni yexiwatqanda , igiliri : teheyni nemixqa yexisiler ? dep soridi .
+42020002a	qaysi		eytip bering , siz qiliwatqan ixlarni qaysi hoquqqa tayinip qiliwatisiz ? 
+42020002b	kim		sizge bu hoquqni kim bergen ? dep soridi .
+42020005a	~		
+42020005b	neme uchun		ular ozara talixixqa baxlap : eger : huda bergen desek , u : undaqta siler neme uchun yehyagha ixenmidinglar ? deydu .
+42020013	qandaq		ahirda , uzumzarliqning hojayini , qandaq qilsam bolar ? soyumluk oghlumni ewetsem , hechbolmighanda uni hormet qilar dep oghlini ewetiptu .
+42020015	qandaq		xuning bilen , ular uni uzumzarliqning sirtigha sorep achiqip olturuwetiptu . bundaq ehwalda uzumzarliqning hojayini bu ijarikexlerni qandaq qilidu ?
+42020017	~		biraq , hezriti eysa ulargha kozlirini tikip mundaq dedi : zeburda qutquzghuchi heqqide : tamchilar taxliwetken tax quruluxning ul texi bolup qaldi . dep eniq yezilghan tursa !
+42020023	~		ularning hiylisini chuxengen hezriti eysa :
+42020024a	kimning		manga bir dane kumux tengge korsitinglar . buning ustidiki suret we isim kimning ? dedi . rim imperatori qeyserning , dep jawas berdi ular .
+42020024b	~		
+42020033	kimning		emdi soraydighinimiz xuki : qiyamet kuni bu ayal kimning ayali bolup tirilidu ? chunki , yette qerindaxning hemmisi uni hotunluqqa alghan-de !
+42020041	qandaq		keyin , hezriti eysa ulardin soal soridi : kixiler qutquzghuchi mesihni padixah dawutning ewladi , dep turuwalsa qandaq bolidu ?
+42020044	~		qutquzghuchi mesih padixah dawutning ewladi bolsimu , lekin padixah dawut mesihni hojayinim degen yerde mesih uningdin ulu bolmamdu ? !
+42021007a	qachan		ular hezriti eysadin : ustaz , bu degenliringiz qachan yuz beridu ? 
+42021007b	qandaq		bularning yuz beridighanliqini bilduridighan qandaq bexaret bolidu ? dep soridi .
+42022009	qeyerde		qeyerde teyyarliximizni halaysiz ? dep soridi ular .
+42022011	qeyerde		we oy igisige : ustazimiz : xagirtlirim bilen otup ketix heytining tamiqini yeydighan mehmanliq oy qeyerde iken ? dep sorawatidu denglar .
+42022027	kim		adette kim mertiwilik ? dastihanda olturghanmu yaki hizmetkarmu ? elwette , dastihanda olturghan emesmu ? biraq manga kelsek , gerche men silerning ustazinglar bolsammu , aranglarda hizmetkargha ohxaxmen .
+42022046	nemisi		uhlap qalghininglar nemisi ? eziqturuluxtin saqlinix uchun qopup dua qilinglar , dedi hezriti eysa ularni oyghitip .
+42022064	kim		uning kozini tengip qoyghandin keyin , uni urup turup : peyghember bolsang , eytip baqqina , seni kim urdi ? dep soraxti
+42022071	~		xuning bilen , ular : emdi baxqa hechqandaq erz qilghuchining hajiti qalmidi . chunki , ozining aghzidin kupur sozlerni angliduq ! deyixti .
+42023022a	nemixqa		pilatus uchinchi qetim ulargha : nemixqa ? 
+42023022b	neme		u zadi neme jinayet otkuzdi ? men uningdin olumge layiq jinayet tapalmidim . uni qamchilitip , qoyup berimen , dedi .
+42023031	yerde		yapyexil dereh otta koydurulgen yerde , qurup ketken dereh tehimu koydurulmesmu ? ! xuningdek , men azas chekken yerde , siler gunahkar yehudiylar tehimu azas chekmemsiler ? !
+42024005	neme		ayallar intayin alaqzade bolup , baxlirini yerge egixti . u perixtiler ayallargha : siler neme uchun tirik ademni olgenlerning arisidin izdeysiler ?
+42024017	neme		neme toghruluq paranglixip ketiwatisiler ? dep soridi hezriti eysa ulardin . ular qayghuluq halda qedimini tohtatti .
+42024019	neme		neme weqe iken ? dedi hezriti eysa . nasirelik eysaning weqesichu ! dedi ular , u hudaning aldidimu , helqning aldidimu soz-heriketlirining kuchi bar bir peyghember idi .
+42024025	nemanche		hezriti eysa ulargha mundaq dedi : ey nadanlar ! peyghemberlerning eytqan sozlirige nemanche teste ixinisiler ?
+42024038a	nemige		hezriti eysa ulargha : nemige xunche qorquxup kettinglar ? 
+42024038b	nemidin		nemidin gumanlinisiler ?
+43001019	~		yerusalemdiki yehudiy aqsaqalliri hudaning ewetidighan qutquzghuchisining yehya peyghember yaki emeslikini bilix uchun , rohaniylar bilen merkiziy ibadethanida ixleydighan lawiylarni yehyaning aldigha ewetti .
+43001021	kim		ular uningdin : undaqta ozung kim bolisen ? ilyas peyghember bolamsen ? dep soridi . yaq ! men ilyas peyghember emesmen , dedi u . emise , musa peyghember aldin eytqan peyghembermusen ? dep soridi ular . yehya peyghember yene : yaq ! dep ret qildi .
+43001022a	kim		ahirda , ular : undaqta , sen zadi kim bolisen ? bizni ewetkenlerge eytqudek bir jawas bergin . eytqina . 
+43001022b	qandaq		sen qandaq ademsen ? dep soridi .
+43001025	nemixqa		yerusalemdin ewetilgen bezi perisiylermu yehya peyghemberning aldigha kelip , uningdin : sen ya qutquzghuchi mesih , ya ilyas yaki musa peyghember aldin eytqan peyghember bolmisang , nemixqa kixilerni hudaning yoligha chaqirip , sugha chomuldurisen ? dep soridi .
+43001038a	nemige		hezriti eysa keynige burulup , egixip keliwatqanlardin : nemige hajitinglar chuxup qaldi ? dep soridi . ular : 
+43001038b	qeyerde		rabboni bu ibraniyche soz bolup , ustaz degen menide , qeyerde turisiz ? dedi .
+43001046	~		biraq , natanyel : nasirelikmu ? ! axu kichik bir xeherdin mundaq yahxi ix chiqarmu ? dedi . kelip korup baq ! dedi filip .
+43001048	qeyerdin		mening qandaq adem ikenlikimni qeyerdin bildingiz ? dep soridi natanyel heyran bolup . hezriti eysa : filip seni chaqirixtin awwal , sening enjur derihining tuwide olturghanliqingni korgenidim , dep jawas berdi .
+43002004	~		ana , meni arilaxturmisingiz . mening waqtim tehi kelmidi , dedi hezriti eysa .
+43002018a	neme		yehudiy aqsaqalliri hezriti eysagha : bundaq qilixqa neme hoququng bar ? 
+43002018b	qeni		seni huda ewetken bolsa , buni ispatlax uchun bizge bir karamet korsitip baqmamsen , qeni ? ! dep soal qoydi .
+43003004	qandaqmu		nikodim : yaxinip qalghan adem qandaqmu qaytidin torelsun ? anisining qorsiqigha kirip qayta torilixi mumkinmu ? ! dep soridi .
+43003009	qandaqmu		nikodim hezriti eysadin : bu ix qandaqmu mumkin bolar ? dep soridi .
+43003012	qandaqmu		silerge bu dunya toghrisidiki ixlarni eytsam ixenmigen yerde , erx toghrisidiki ixlarni eytsam qandaqmu ixinisiler ?
+43004009	qandaqlarche		yehudiylarning samariyiliklerni kapir dep , hetta ularning chine-qachilirinimu ixletmeydighanliqini bilidighan ayal : ozingiz yehudiy turup , mendek samariyilik ayaldin qandaqlarche su telep qilip qaldingiz ? dep soridi .
+43004011	nedin		ayal : teqsir , quduq chongqur , uning ustige su tartidighan eswablar yoq tursa , hayatliq suyini nedin tapalaysiz ?
+43004027a	neme		del xu chaghda , hezriti eysaning xagirtliri qaytip keldi . ular uning bir samariyilik ayal bilen sozlixiwatqanliqigha hang-tang qelixti , lekin , hechqaysisi hezriti eysadin : siz uningdin neme sorimaqchisiz ? 
+43004027b	nemixqa		yaki siz nemixqa uning bilen sozlixisiz ? depmu sorimidi .
+43005012	kim		sanga : orun-korpengni yighixturup mang degen zadi kim iken u ? dep soraxti ular .
+43005044	qandaqmu		siler bir-biringlarning mahtixini qobul qilisileryu , yegane hudaning mahtixigha ige boluxqa tirixmaysiler . bu halda manga qandaqmu etiqad qilalaysiler ? !
+43005047	qandaqmu		lekin , uning muqeddes yazmilarda yazghan sozlirige ixenmisenglar , mening sozlirimge qandaqmu ixinisiler ? !
+43006005	nedin		hezriti eysa bexini koturup , zor bir top halayiqning ozining aldigha keliwatqanliqini korup , filiptin : xunche kop ademni toydurghudek nanni nedin tapimiz ? dep soridi .
+43006009	nemige		bu yerde bir kichik bala bolup , uningda bex arpa nan bilen ikki beliq bar . lekin , bunchiwala adem uchun bu nemige yetsun ? ! dedi .
+43006025	qachan		halayiq uni kolning u qetida tapqandin keyin : ustaz , bu yerge qachan keldingiz ? dep soraxti .
+43006028	qandaq		ular : qandaq qilghanda hudaning hizmitide bolalaymiz ? dep soraxti .
+43006030a	qandaq		ular yene : siz qandaq mojize yaritix bilen bizni ozingizge ixendurisiz ? 
+43006030b	neme		bizge neme qilip bermekchisiz ?
+43006042	qandaqlarche		bu yusupning oghli eysa emesmu ? atisinimu , anisinimu tonuydighan tursaq , yene qandaqlarche : erxtin chuxtum ! deyelisun ? deyixetti ular .
+43006052	qandaq		bu soz bilen ular hapa boluxup : bu adem bizning yeyiximizge oz tenini qandaq bereleydu ? deyixip , talax-tartix qilixqa baxlidi .
+43006060	kim		nurghun xagirtlar buni anglighanda : bu telimni hezim qilix bek tes iken ! buni kim qobul qilalisun ? deyixti .
+43006062	neme		mubada insanoghlining esli kelgen jayi asmangha koturuluwatqanliqini korsenglar , neme deysiler ? !
+43006068	kimning		simun petrus mundaq jawas qayturdi : i rebbim , menggu hayatliq beridighan sozler peqet sizdila tursa ! biz kimning yenigha ketettuq ?
+43007011	~		heyt-ayem kunliride yehudiy aqsaqalliri uni izdep , halayiqtin : eysani kordunglarmu ? dep soraxti .
+43007015	qandaqmu		yehudiy aqsaqalliri : bu adem hechqandaq telim almighan turuqluq , uning qandaqmu munche kop bilimi bolsun ? dep hang-tang qelixti .
+43007019	nemixqa		musa peyghember silerge tewrat qanunini ozi yetkuzgen , xundaqqu ? ! lekin , hechqaysinglar bu qanungha emel qilmidinglar ! eytinglarchu , nemixqa meni olturmekchi bolisiler ? dedi .
+43007020	kim		kopchilik : sizge jin tegiptu ! sizni olturmekchi bolghan kim iken ? deyixti .
+43007023	neme uchun		tewrat qanuni buzulmisun deyilip turup , dem elix kuni hetne qiliniduyu , bundaq kunde bir ademni sapmusaq qilsam , neme uchun manga achchiqlinisiler ?
+43007035	qeyerlerge		buning bilen , yehudiy aqsaqalliri bir-birige : u biz tapalmighudek qeyerlerge keter ? chet elde turuwatqan yehudiy muhajirlarning yenigha berip , greklargha telim beremdighandu ?
+43007036	nemisidu		meni izdeysiler , lekin tapalmaysiler . men baridighan yerge baralmaysiler degini nemisidu ? deyixti .
+43007041	~		beziler : bu , qutquzghuchi mesih ! deyixetti . yene beziler bolsa : undaq emestu ! mesih jeliliyidin kelmeyttighu ?
+43007045	neme uchun		ibadethana qarawulliri ibadethanidin qaytip kelgende , aliy rohaniylar bilen perisiyler : neme uchun uni tutup kelmidinglar ? dep soraxti .
+43007048	~		aqsaqallardin yaki perisiylerdin uninggha etiqad qilghanlar barmu neme ?
+43007051	~		tewrat qanunimizda bir ademning oz iqrarini anglimay we qilmixlirini bilmey turup , uning ustidin hokum chiqirixqa bolmaydu , dep yezilghan , dedi .
+43008005	qandaq		musa peyghember tewrat qanunida zina qilghan ayallarni chalma-kesek qilip olturuxni buyrughan . sizche qandaq qilix kerek ? dep soraxti .
+43008010	qeni		hezriti eysa ruslinip turup , uninggha : hanim , sizni xikayet qilghanlar qeni ? sizni soraqqa tartidighan adem chiqmidimu ? dep soridi .
+43008019	qeyerde		atang qeyerde ? dep soraxti ular . siler ya meni tonumaysiler , ya atamni . meni tonughan bolsanglar , atamnimu tonuyttunglar , dep jawas berdi hezriti eysa .
+43008025a	kim		sen zadi kim ? dep soraxti ular . 
+43008025b	~		baxtin tartip silerge neme degen bolsam , men xu .
+43008033	neme		biz ibrahimning ewladlirimiz , dep jawas berixti ular , hechkimge hechqachan qul bolmiduq . sizning : heqiqet silerni erkinlikke erixturidu deginingizning menisi zadi neme ?
+43008043	nemixqa		sozlirimni nemixqa chuxenmeysiler ? eniqki , mening telimim quliqinglargha yaqmaywatidu !
+43008046a	qaysinglar		qaysinglar mening gunahim barliqini ispatlap bereleysiler , qeni ? 
+43008046b	neme uchun		heqiqetni sozlisem , neme uchun manga ixenmeysiler ?
+43008053	qandaq		ejeba , sen alemdin otken atimiz ibrahimdin we wapat bolghan baxqa peyghemberlerdinmu ustun turamsen ? sen ozungni zadi qandaq adem dep hesablaysen ?
+43008057	~		sen tehi ellik yaxqa kirmigen turup , ejdadimiz ibrahimnimu kordungmu ? deyixti ular .
+43009002	kimning		xagirtliri hezriti eysadin : ustaz , bu ademning tughma qarighu boluxi kimning gunah sadir qilghanliqidin bolghan ? oziningmu yaki ata-anisiningmu ? dep soraxti .
+43009010	qandaq		undaqta kozliring qandaq echildi ? dep soraxti ular .
+43009012	qeyerde		u hazir qeyerde ? dep soraxti ular . bilmeymen , dedi u .
+43009016	qandaqlarche		xuning bilen , perisiylerdin beziliri : u adem hudaning yenidin kelgen emes , chunki u dem elix kuni ix qilmasliq emrige hilapliq qildi , deyixti . yene beziliri : gunahkar bolsa , qandaqlarche bundaq mojizilerni yaritalaydu ? deyixti . buning bilen , ularning arisida bolunux peyda boldi .
+43009017	qandaq		ular qarighu ademdin yene : kozliringni achqan u adem seningche qandaq ademdu ? dep soraxti . u bir peyghember , dedi heliqi adem .
+43009019	qandaqlarche		ulardin : tughma qarighu degen oghlunglar muxumu ? hazir qandaqlarche koreleydighan bolup qaldi ? dep soraxti .
+43009026a	qandaq		bu chaghda , ular : u seni qandaq qildi ? 
+43009026b	qandaq		kozliringni qandaq achti ? dep soraxti .
+43009027	qandaqlarche		u jawaben : silerge eytsam , qulaq salmidinglar . yene qandaqlarche anglimaqchi bolup qaldinglar ? silermu uning xagirtliri bolmaqchimu neme ? ! dedi .
+43009034	~		ular uni : sen gunah ichide tughulghan turuqluq , emdi bizge telim bermekchimusen ? deyixip , ibadethanidin qoghlap chiqirixti .
+43009036	kim		hezretliri , u kim ? eytip bergeysiz , uninggha etiqad qilay , dedi heliqi adem .
+43010020	neme uchun		birmunche kixiler : uninggha jin tegiptu , sarang bolup qaptu , neme uchun uning sozige qulaq salghudekmiz ? deyixetti .
+43010021	qandaqmu		yene beziler bolsa : jin tegken ademning sozliri bundaq bolmaydu . jin tegken adem qandaqmu qarighularning kozlirini achalisun ? ! deyixti .
+43010024	qachanghiche		heqler uning etrapigha olixiwelip : bizni yene qachanghiche gumanda qaldurisen ? eger qutquzghuchi mesih bolsang , bizge ochuqini eyt , deyixti .
+43010032	qaysisi		atam manga buyrughan nurghun yahxi ixlarni aldinglarda korsettim . bu ixlarning qaysisi uchun meni chalma-kesek qilmaqchisiler ? dedi hezriti eysa ulargha .
+43010036	neme uchun		emdi manga kelsek , atam meni tallap paniy dunyagha ewetti . xundaq turuqluq , neme uchun hudaning oghlimen desem , meni kupurluq qilding ! deysiler ?
+43011034	qeyerge		uni qeyerge qoydunglar ? dep soridi . i rebbimiz , kelip korung , deyixti ular .
+43011047	qandaq		xunga , perisiyler we aliy rohaniylar yehudiylarning aliy kengexmisini yighip : qandaq qilghuluq ? bu ademning yaratqan nurghun mojizilirige qarap beqinglar .
+43011056	qandaq		ular hezriti eysani izdeytti . ular merkiziy ibadethanida yighilghinida bir-birige : seningche qandaq bolar , hezriti eysa heytqa kelmemdikin ? deyixetti .
+43012005	nemixqa		bu etirning qimmiti bir ademning yilliq kirimige teng kelidiken ! nemixqa bu etir setilip , puli kembeghellerge berilmidi ? dedi .
+43012027	neme		hazir konglum qattiq azabliniwatidu . buninggha neme deyixim kerek ? ata , meni kelidighan azas-oqubetlik waqit-saettin qutquz ! deymu ? yaq ! men xu waqit-saetni beximdin otkuzux uchun keldim .
+43012034a	qandaqsige		halayiq bu geplerni chuxenmey , hezriti eysadin : muqeddes yazmilarda : qutquzghuchi mesih olmey menggu hayat turidu deyilgen tursa , siz qandaqsige insanoghli koturuluxi kerek deyeleysiz ? ! 
+43012034b	kim		insanoghli zadi kim bolidu ? dep soridi .
+43012038a	kim		bu ehwal del yexaya peyghemberning yazmisida aldinala korsitilgendek chiqti : i perwerdigar , biz yetkuzgen sozlerge kim ixendi ? 
+43012038b	kimge		sening ku-qudriting kimge korsitildi ?
+43013025	kim		xunga , u hezriti eysagha yeqin kelip , towen awazda : i rebbim , sizge satqunluq qilidighan kim ? dep soridi .
+43013036	qeyerge		simun petrus hezriti eysadin : i rebbim , qeyerge barisiz ? dep soridi . men ketidighan yerge hazirche egixip baralmaysen , lekin keyin barisen , dep jawas berdi hezriti eysa .
+43013037	neme uchun		petrus uninggha : i rebbim , neme uchun hazir sizning keyningizdin baralmaymen ? siz uchun jenim pida ! dedi .
+43014002	~		hudaatamning dergahida nurghun oy-makanlar bar . undaq bolmisa , buni silerge eytip yurmigen bolattim . men herbiringlargha orun teyyarlax uchun , xu yerge ketip barimen .
+43014005	qandaq		i rebbim , sizning qeyerge ketidighanliqingizni bilmeymiz . xundaq turuqluq , u yolni qandaq bilimiz ? dedi tomas .
+43014009	nemixqa		filip , dedi hezriti eysa , siler bilen birge bolghinimgha talay waqit boldi , meni tehiche tonumidingmu ? meni korgen kixi atam hudani korgen bolidu . xundaq turuqluq , sen nemixqa yene : bizge atingizni korsiting deysen ?
+43014022	neme uchun		yehuda isimlik baxqa bir xagirt yehuda ixqariyot emes hezriti eysadin : i rebbim , neme uchun ozingizni bu dunyaning ademlirige ayan qilmay , bizgila ayan qilisiz ? dep soridi .
+43016005	nege		lekin , emdi meni ewetkuchining yenigha qaytip ketimen . xundaq bolsimu , aranglardin hechkim mendin : nege ketisiz ? dep sorimaywatidu .
+43016017	qandaq		xagirtlarning beziliri bir-birige : bu qandaq gep ? u bizge : az waqittin keyin , meni kormeysiler . yene biraz waqit otkendin keyin , meni qayta korisiler deydu . u yene : chunki , men atamning yenigha ketimen deydu .
+43016018	nemidu		az waqittin keyin degen sozining menisi zadi nemidu ! uning nemilerni dewatqanlirini bilelmiduq , deyixti .
+43018004	kimni		hezriti eysa bexigha kelidighanlarning hemmisini bilip , ularning aldigha chiqip : kimni izdeysiler ? dep soridi .
+43018007	kimni		hezriti eysa ulardin yene bir qetim : kimni izdeysiler ? dep soridi . nasirelik eysani , deyixti ular .
+43018011	~		hezriti eysa petrusqa : qilichni ghilipinggha sal ! meni atam emr qilghan bu azas qedihini ichmeydu demsen ? dedi .
+43018021	nemixqa		bularni nemixqa mendin soraysiz ? sozlirimni anglighanlardin sorang , ular neme degenlikimni bilidu .
+43018023	neme uchun		eger hata gep qilghan bolsam , buni kopchilikning aldida korset . emma , eytqanlirim toghra tursa , meni neme uchun urisen ? dedi hezriti eysa uninggha .
+43018029	neme		xunga , waliy pilatus taxqirigha chiqip , ularning aldigha kelip : bu ademning ustidin neme ix toghruluq erz qilisiler ? dep soridi .
+43018035	neme		men ya yehudiy bolmisam mundaq soallarni soraydighan ! seni manga tapxurghanlar oz helqing we aliy rohaniylarghu ! neme jinayet otkuzgeniding ? dedi waliy pilatus .
+43018038	neme		waliy pilatus uningdin : heqiqet degen neme ? dep soridi . waliy pilatus bundaq dep sorighandin keyin , yene taxqirigha chiqip yehudiylargha : men uningdin hechqandaq jinayet tapalmidim .
+43019009	qeyerdin		yene ordisigha kirip , hezriti eysadin : sen zadi qeyerdin kelgen ? dep soridi . hezriti eysa jawas bermidi .
+43019015	~		yoqiting , yoqiting , uni krestke mihliting ! dep warqiraxti yehudiylar . meni padixahinglarni krestke mihlatsun demsiler ? dedi waliy pilatus . aliy rohaniylar : rim imperatoridin baxqa padixahimiz yoq ! dep towlaxti .
+43020013	nemixqa		ular meryemdin : hanim , nemixqa yighlaysiz ? dep soridi . rebbimni elip ketiptu , uni nege qoyghanliqini bilelmeywatimen , dedi meryem .
+43020015a	nemixqa		hanim , nemixqa yighlaysiz , 
+43020015b	kimni		kimni izdeysiz ? dep soridi hezriti eysa . meryem uni baghwen dep oylap : teqsir , eger uni siz yotkiwetken bolsingiz , qeyerge qoyghanliqingizni eytip bergeysiz . men uni elip kelsem , dedi .
+43021012	kim		hezriti eysa : kelinglar , tamaq yenglar , dedi . xagirtlarning ichide birersimu uningdin : siz kim bolisiz ? dep soraxqa petinalmidi . chunki , ular uning ozlirining rebbi ikenlikini bildi .
+43021020	kimdu		petrus keynige burulup , hezriti eysaning yahxi koridighan xagirtining egixip keliwatqanliqini kordi . bu , hezriti eysaning ahirqi kechlik tamiqida uninggha yeqin olturup : i rebbim , sizni tutup bermekchi bolghan kimdu ? dep sorighan xagirt idi .
+43021021	qandaq		petrus uni korup , hezriti eysadin : i rebbim , bu adem kelguside qandaq bolar ? dep soridi .
+43021022	neme		eger men qayta kelguche uning hayat boluxini halisam , buning sen bilen neme munasiwiti bar ? ! manga egixiwer , dedi hezriti eysa uninggha .
+43021023	neme		buning bilen , qerindaxlar arisida heliqi xagirtning olmeydighanliqigha dair gep tarqaldi . lekin , hezriti eysa petrusqa : u olmeydu demigenidi . peqet : eger men qayta kelguche uning hayat boluxini halisam , buning sen bilen neme munasiwiti bar ? degenidi .
+44001011	nemixqa		ey jeliliyilikler , nemixqa bu yerde asmangha qarap turisiler ? ! hezriti eysa erxke chiqip ketti . biraq , u qandaq koturulgen bolsa , kelguside yene xundaq qaytip kelidu , dedi .
+44002008	qandaqlarche		ular qandaqlarche bizning tillirimizda sozlixeleydu ?
+44002012	qandaq		ular tengirqap qalghanliqidin heyranliq bilen bir-birige : bu zadi qandaq ixtu ? deyixti .
+44002037	qandaq		petrusning bu sozliri anglighuchilargha yurekke sanjilghan henjerdek kuchluk tegdi . ular qayil bolghinidin petrus we baxqa elchilerdin : qerindaxlar , undaqta qutquzulux uchun qandaq qiliximiz kerek ? dep soraxti .
+44003012a	nemanche		bu ehwalni korgen petrus halayiqqa mundaq dedi : israil qerindaxlar ! bu ixqa nemanche heyran bolisiler ? 
+44003012b	nemanche		bizge nemanche tikilip qaraysiler ? siler bizni oz ku-qudriti yaki ihlasmenlikige tayinip bu ademni mangdurdi , dep oylamsiler ?
+44004007a	~		
+44004007b	qaysi		ular petrus bilen yuhannani aldigha chaqirtip : siler bu ixni qaysi ku-qudretke tayinip , 
+44004007c	kimning		kimning nami bilen qildinglar ? dep soridi .
+44004016	qandaq		bularni qandaq qilimiz ? ular korsetken ajayip mojizini putun yerusalem helqi bilidiken , biz mundaq ix bolmighan deyixke amalsiz .
+44004025a	neme uchun		sen muqeddes roh bilen hizmetkaring bolghan ejdadimiz padixah dawut arqiliq mundaq degenghu : neme uchun kapirlar hudadin ghezeplinidighandu ? 
+44004025b	neme uchun		neme uchun heqler bikardin-bikar suyiqest qilidighandu ?
+44005003	nemixqa		petrus uninggha : hananiya , nemixqa qorsiqinggha xeytanni kirguzup , yer satqan pulning bir qismini ozungge qaldurux bilen muqeddes rohqa yalghan eytting ?
+44005004	nemixqa		yer setilmighanda , sening idi . setilghandin keyin , pulmu ozungning . xundaq turuqluq , yene nemixqa gherezlik halda : pulning hemmisi muxu dep kelding ? sen insanghila emes , hudaghimu yalghan eytting ! dedi .
+44005009	neme uchun		petrus : siler neme uchun muqeddes rohni sinap til birikturdunglar ? qarang , eringizni depne qilip kelgenler ixik aldida turidu , ular siznimu eketidu ! dedi .
+44007026	nemixqa		etisi , musa peyghember ikki yehudiy qerindaxning uruxuwatqanliqini korup , ularni yaraxturmaqchi bolup : siler qerindax turup , nemixqa bir-biringlargha yolsizliq qilisiler ? dedi .
+44007027	kim		qerindixini bozek qilghan kixi musa peyghemberni ittiriwetip : kim seni bizge baxliq yaki soraqchi bolsun deptu ! ?
+44007035	kim		mana xu musa peyghemberni heliqi yehudiylar : kim seni bizge baxliq yaki soraqchi bolsun deptu ! ? dep ret qilghanidi . lekin , musa peyghemberge hudaning perixtisi koyuwatqan tikenlikte korunup : israil helqini qutquzup , ulargha yetekchilik qilisen dep , uni misirgha ewetti .
+44007049a	~		erx mening tehtim bolidu . zemin mening put qoyidighan yerimdur . siler manga buningdinmu yahxi hana salalamsiler ! ? buningdinmu yahxi aramgah yasiyalamsiler ! ? asman zemindiki mewjudatlarni men yarattimghu !
+44007049b	~		
+44007052	~		silerning ejdadliringlar ziyankexlik qilmighan birer peyghember barmu-he ? ! ular hudaning adaletchisi bolghan hezriti eysaning kelidighanliqini aldin jakarlighanlarnimu olturuxken . emdi u ozi kelgende , siler uninggha satqunluq qilip , unimu olturdunglar .
+44008031	qandaqmu		emeldar uninggha : biri manga chuxendurup bermise , men qandaqmu chuxineleymen ? ! dep , filipni harwisigha chiqip yenida olturuxqa teklip qildi .
+44008033	~		u horlinidu , adilliq bilen sotlanmaydu . u emdi perzent yuzi korelmeydu , chunki uning yer yuzidiki hayati elip ketilidu .
+44008034	kimge		eghiopiyilik emeldar filiptin : peyghemberning bu sozi kimge qaritilghan bolghiydi ? ozigimu yaki baxqilarghimu ? dep soridi .
+44008036	~		ular yolda ketiwetip , su bar bir yerge kelgende , emeldar : bu yerde su bar iken . muxu yerdila chomuldurulsem bolmamdu ? dedi .
+44009004	nemixqa		yerge yiqilghan saulgha : saul , saul ! manga nemixqa ziyankexlik qilisen ? degen bir awaz anglandi .
+44009005	kimsen		i rebbim , sen kimsen ? dep soridi u . men , sen ziyankexlik qiliwatqan eysa .
+44009006	~		ornungdin turup , xeherge kir , neme qilixing kereklikini biri sanga eytip beridu , degen jawas keldi heliqi awazdin .
+44010004	neme		korniliy intayin chochugen halda uninggha kozlirini tikip : teqsir , neme ix ? dep soridi . perixte uninggha : sening dualiring we namratlargha qilghan heyr-sahawiting heqqidiki hewerler hudagha yetti .
+44010021	nemikin		petrus peske chuxup , heliqi ademlerge : siler izdigen kixi men bolimen . bu yaqqa kelixinglarning sewebi nemikin ? dedi .
+44010029	nemixqa		xuning uchun , siler adem ewetip meni chaqirghanda , ikkilenmey aldinglargha keldim . emdi mening sorimaqchi bolghinim , meni nemixqa chaqirdinglar ? dedi .
+44010047	kim		huda huddi bizge ata qilghandek , ularghimu muqeddes rohni ata qilghan tursa , ularni sugha chomulduruxni qobul qilixqa kim qoxulmaytti ? ! dedi .
+44011017a	~		nahayiti roxenki , biz eysa mesihke etiqad qilghanliqtin , huda bizge ozining rohini ata qilghinigha ohxax , uni yehudiy emeslergimu ata qildi ! 
+44011017b	qandaqmu		xundaq tursa , men hudagha qandaqmu tosqunluq qilalayttim ? !
+44012018	qandaq		tang atqanda , qarawullar patiparaq boluxup ketti . ular petrusning qandaq chiqip ketkenlikini bilelmidi .
+44013025	kim		yehya peyghember wezipini tamamlax aldida , halayiqqa mundaq degenidi : siler meni kim deysiler ? meni huda ewetidighan qutquzghuchi demsiler ? yaq ! men siler kutken adem emesmen . u mendin keyin kelidu , men hetta uning ayighining yiplirini yexixkimu layiq emesmen !
+44014015	~		undaq qilmanglar ! bizmu adem , silerge ohxax insan ! biz silerge hux hewer yetkuzuxke kelduq . hux hewer xuki : erzimes nersilerge choqunmay , menggu hayat bolghan birdinbir hudaghila ibadet qilinglar ! u asman-zemin , dengiz-okyan we uningdiki barliq mehluqlarni yaratqan hudadur !
+44015010	neme uchun		ehwal mana xundaq iken , emdi siler neme uchun yehudiy emeslerning boyunlirigha xunche eghir yukni artmaqchi bolisiler ? uni ozimiz we ejdadlirimizmu koturelmigen tursa ! undaq qilsanglar , hudaning yolini sinighan bolmamsiler ? !
+44016030	qandaq		keyin , ularni taxqirigha elip chiqip : qutquzulux uchun qandaq qilixim kerek ? dep soridi .
+44017018	neme		epikurlar we stoiklar dep tonulghan bezi peylasoplarmu uning bilen munazirilixixke baxlidi . beziler : bu jahankezdi pochi neme dep joyluwatidu ? deyixti . yene beziler pawlusning hezriti eysaning olup tirildurulgenliki heqqidiki telimlirini anglap : u chet elliklerning hudalirini texwiq qiliwatsa kerek ! deyixti .
+44017019	qandaq		xunga , ular pawlusni areopagus degen chong kengex meydanigha elip berip : sen tarqitiwatqan yengi telimatliringdin biznimu az-tola hewerdar qilip qoysang qandaq ?
+44019003	neme		pawlus yene : undaqta , siler chomuldurulgende , uning menisini neme dep chuxendinglar ? dep soridi . bizning chuxenchimiz yehya peyghember bergen telimge asas qilinghan , dep jawas berdi ular .
+44019015	kim		bir kuni ular jin chaplixiwalghan bir kixining tenidiki jinni qoghlimaqchi bolghanda , jin chiqixqa unimay , ulardin : men eysani tonuymen , pawlusning kim ikenlikinimu bilimen , biraq ozunglarchu ? ozunglar kim bolisiler ? dep soridi .
+44019035	~		ahirda , xeherning yerlik emeldari halayiqni tinchlandurup mundaq dedi : ey efes helqi ! biz efesliklerning ulu artemis buthanisining we uning asmandin chuxken muqeddes texining qoghdighuchisi ikenlikini bilmeydighan kixi barmu ? !
+44021013a	nemixqa		lekin , pawlus : siler nemixqa bunchiwala qayghurup , yurikimni ezisiler ? men yerusalemda rebbimiz eysa uchun tutqun boluxqila emes , u yerde oluxkimu teyyarmen , dep jawas berdi .	
+44021013b	~		
+44021022	qandaq		xunga , bu yerdiki yehudiylar sizning bu yerge kelgenlikingizni anglisa , sizge choqum ziyankexlik qilmay qalmaydu ! emdi qandaq qilix kerek ?
+44021033a	kim		qomandan aldigha otup , lexkerlerni pawlusni tutup , ikki zenjir bilen baghlaxqa buyrudi . keyin , u : bu adem kim ? 
+44021033b	neme		u neme gunah qildi ? dep soridi .
+44022007	nemixqa		yerge yiqildim . andin , saul , saul manga nemixqa ziyankexlik qilisen ? degen awazni anglidim .
+44022008	kimsen		i rebbim , sen kimsen ? dep sorisam , u , men sen ziyankexlik qiliwatqan nasirelik eysa ! dedi .
+44022010	neme		men yene , i rebbim , men neme qilay ? dep sorisam , u manga , ornungdin tur , demexqqe kir , huda sanga tapxurghan ixlarning hemmisini u yerde uqisen ! dedi .
+44022016	nemini		xundaq iken , sen yene nemini saqlap turisen ? ornungdin turup chomuldurulgin we rebbimizge dua qilip , gunahliringdin paklan ! dedi .
+44022026	neme		bu sozni anglighan yuzbexi qomandanning aldigha berip : u kixi rim puqrasi iken . siz neme ix qiliwatqanliqingizni bilmemsiz ? ! dedi .
+44023003	~		pawlus uninggha : ey texi pal-pal sahtipez ! seni huda uridu ! sen u yerde olturup , meni tewrat qanuni boyiche soraqqa tartmaqchi , lekin meni urghuzup , ozung tewrat qanunigha hilapliq qiliwatisen ! dedi .
+44023009	~		buning bilen , chuqan-suren barghanseri kucheydi . perisiy eqimidiki bezi tewrat ustazliri ornidin turup : biz bu ademdin hechqandaq hataliq tapalmiduq ! ehtimal rasttin bir roh yaki perixte uning bilen sozlexken bolsa ejes emes ! dep , qattiq munazirilexti .
+44023019	neme		qomandan uni qolidin tutup , bir chetke tartip : melum qilidighan neme ixing bar ? dep soridi .
+44026008	nemixqa		siler nemixqa hudaning olgenlerni tirildureleydighanliqigha ixenmeydighansiler ?
+44026014	nemixqa		hemmimiz yerge yiqilduq . men aramiy tilida eytilghan , saul , saul ! manga nemixqa ziyankexlik qilisen ? sen huddi hojayini ursimu mangmighan jahil exekke ohxax , ozung ziyan tartisen ! degen bir awazni anglidim .
+44026015	kimsen		i rebbim , sen kimsen ? dep soridim men . rebbim eysa jawaben , men , sen ziyankexlik qiliwatqan eysa !
+45002017	~		undaqta senchu , sen ozungni yehudiy deysen we tewrat qanunigha ige bolghanliqing uchun , men huda bilen yeqin , dep mahtinisen .
+45002021	~		sen baxqilargha huda toghrisida telim berip turup , ozungge bermemsen ? baxqilargha oghriliq qilma dep turup , ozung oghriliq qilamsen ?
+45002028	~		peqet sirtqi korunuxte yehudiy bolghanning hemmisinila heqiqiy yehudiy degili bolmaydu . peqet jismaniy jehette hetne qilinixigha qarapla , uni heqiqiy hetne degili bolmaydu .
+45003001a	neme		undaqta , yehudiylarning yehudiy emeslerdin neme artuqchiliqi bar , 
+45003001b	neme		yaki hetne qilinixning neme ehmiyiti bar ?
+45003003	~		bezi yehudiylar hudagha sadaqetsizlik qildimu deyli . undaqta , ularning sadaqetsizliki sewebidin huda ozining ulargha bergen wediside turmamdu ?
+45003005	neme		lekin , biz yehudiylarning adaletsizliki hudaning adilliqini tehimu eniq korsitip berse , buninggha neme deymiz ? huda bizni jazalisa , uni adil emes , desek bolamdu ? beziler xundaq dep , oylap yuridiken !
+45003006	qandaqmu		yaq , mundaq deyixke hergiz bolmaydu ! eger huda biz yehudiylarni adilliq bilen jazalimaydighan bolsa , qiyamette qandaqmu dunya ustidin hokum chiqiralaydu ?
+45003007a	~		
+45003007b	neme uchun		lekin , beziler : mening sadaqetsizlikim hudaning rastchilliqini tehimu eniq korsitip , uning ulughluqini yorutup berse , men yene neme uchun gunahkar , dep qarilip soraqqa tartilimen ? deyixi mumkin .
+45003008	~		eger xundaq bolsa , yamanliq qilayli , buningdin yahxiliq chiqidu ! degen mene kelip chiqmamdu ? beziler bizni muxundaq dedi , dep tohmet qilidu . mundaq tohmet qilghanlarning jazagha tartilixi heqliqtur .
+45003009	~		undaqta , hudaning soraq qilidighan kunide biz yehudiylar yehudiy emeslerdin ustun turamduq ? yaq , elwette undaq emes ! chunki , men hemmimizning , meyli yehudiy bolayli yaki bolmayli , gunahning ilkide ikenlikimizni yuqirida korsitip ottum .
+45003027a	~		xundaq iken , biz tewrat qanunigha emel qilix bilen huda teripidin qobul qilinduq , dep mahtinimizmu ? yaq ! 
+45003027b	neme		bizning mahtiniximizning orni yoq . neme sewebtin ? chunki , insanlar tewrat qanunigha emel qilix arqiliq emes , belki eysa mesihke etiqad qilix arqiliqla kechurumge erixidu .
+45003027c	~		
+45004001	nemilerni		undaqta , biz yehudiy ewladliri atimiz ibrahimning heqqaniy adem dep jakarlanghanliqidin nemilerni biliweliximiz kerek ?
+45004003	~		chunki , muqeddes yazmilarda mundaq deyilgen : ibrahim hudaning sozlirige ixendi . huda uning etiqadini korup , uni heqqaniy adem dep hesablidi .
+45004010	qachan		bu ix qachan bolghan ? huda ibrahimni heqqaniy adem dep hesablighan chaghda , ibrahim hetne qilinghanmu yaki qilinmighan ? bu ixlar ibrahim tehi hetne qilinmighan waqitta bolghanidi .
+45005010	~		biz burun hudagha duxmen iduq . biraq , huda oz oghlining qurban qilinixi arqiliq bizni ozi bilen yaraxturdi . biz huda bilen yarixiwalghanikenmiz , undaqta eysa mesihning olumdin tirildurulgen hayati arqiliq hudaning jazasidin choqum qutuldurulimiz .
+45005021	~		demek , gunah insanlargha hokumranliq qilip , ularni olumge aparghan bolsa , hudaning mehir-xepqiti insanlargha hokumranliq qilip , rebbimiz eysa mesih arqiliq ularni heqqaniy adem dep jakarlap , ulargha mengguluk hayat elip keldi .
+45006001	neme		undaqta , biz neme deymiz ? hudaning mehir-xepqiti tehimu axsun dep , dawamliq gunah ichide yaxaymizmu ?
+45006002	~		yaq , elwette undaq emes ! gunahqa nisbeten biz alliqachan olgen . xundaq iken , biz yene dawamliq gunah ichide yaximasliqimiz kerek .
+45006015	qandaq		undaqta , qandaq qilix kerek ? tewrat qanunining ilkide emes , hudaning mehir-xepqiti astida yaxawatimiz dep , gunah sadir qiliwersek bolamdu ? yaq , elwette bolmaydu .
+45006021	neme		siler hazir nomus dep qarighan burunqi ixlardin xu chaghda zadi neme payda tapqanidinglar ? u ixlarning aqiwiti olumdur .
+45007007	neme		undaqta , biz neme deymiz ? tewrat qanunining ozi gunahning menbesi bolamdu ? yaq , elwette undaq emes ! gunah tewrat qanunida korsitilmigen bolsa , men qilmixlirimning gunah ikenlikini bilmeyttim . mesilen , tewrat qanunida : baxqilarning teelluqatlirigha koz qiringni salma deyilmigen bolsa , undaq qilixning gunah ikenlikini bilmigen bolattim .
+45007024	kimmu		men nemidegen bichare ademmen-he ! gunahning esiri bolghan we olumge elip baridighan bu tenimdin kimmu meni qutquzar ? !
+45008024	kimmu		qutquzulghandin beri bizde muxundaq umid bolup kelmekte . umid emeliyetke aylanghanda , u umid boluxtin qalidu . kimmu emeliyetke aylanghanni qayta umid qilsun ?
+45008031a	neme		undaqta , biz buninggha neme deymiz ? 
+45008031b	kimmu		huda biz terepte turghaniken , kimmu bizge qarxi chiqalisun ?
+45008032	~		oz oghlinimu ayimay , uni hemmimiz uchun qurban boluxqa ewetken huda barliqini bizge ata qilmay qalamdu ?
+45008033	kimmu		kimmu hudaning tallighan bendiliri ustidin xikayet qilalisun ? hechkim ! chunki , biz huda teripidin heqqaniy adem dep jakarlanghan .
+45008034	kim		kim bizni gunahqa mehkum qilalaydu ? hechkim ! chunki , eysa mesih biz gunahkarlar uchun oldi . uning ustige , u tirildurulup , hudaning ong yenida hoquq tutup , biz uchun murajiet qilmaqta .
+45008035	~		hechkim bizni eysa mesihning mehir-muhebbitidin ayriwetelmeydu ! herqandaq qiyin ehwal , japa-muxeqqet , ziyan-zehmet , a-yalingachliq we heyimheter , hetta qilichmu bizni uningdin ayriwetelmeydu !
+45009014	neme		undaqta , bulargha neme deymiz ? bu yerde hudani adil emes deymizmu ? yaq , elwette undaq emes !
+45009019a	neme uchun		bundaq bolghanda , belkim aranglardin beziler manga : hemme ixni huda belgileydighan tursa hemde biz uning iradisige qarxi chiqalmaydighan tursaq , huda neme uchun yene bizni eyibleydu ? deyixi mumkin .
+45009019b	~		
+45009020a	kimsen		biraq , ey insan , huda bilen takallixidighan sen kimsen ? 
+45009020b	~		bir sapal qacha ozini yasighan humdanchigha : 
+45009020c	neme uchun		meni neme uchun bundaq yasiding ? deyelemdu ?
+45009021	~		humdanchining bir kallek laydin alahide ixlitilidighan yaki adette ixlitilidighan qacha yasax hoquqi yoqmu ?
+45009022	~		hudada ene xundaq hoquq yoqmu ? ! huda gunah sadir qilghanlargha esli oz ghezipini we ku-qudritini korsetmekchi bolghanidi . lekin , u bu halaket girdabigha berip qalghanlargha ghezipini korsetmey , belki sewrchanliq bilen ulargha kengchilik qildi .
+45009023	~		hudaning meqsiti ozining rehim-xepqitining nixani bolghan bizlerge ozining yuksek ulughluqini korsitix uchundur . chunki , biz bu ulughluqqa erixixke aldin tallanghan .
+45009024	~		biz huda teripidin chaqirilghanlar bolup , yehudiylar arisidinla emes , belki yehudiy emesler arisidinmu chaqirilghanmiz .
+45009030	~		undaqta , buni mundaq yighinchaqlaymiz : heqqaniyliqni izdimigen yehudiy emesler huda teripidin heqqaniy adem dep jakarlandi , ular eysa mesihke etiqad qilix arqiliq buninggha erixti .
+45009032	neme uchun		bu neme uchun ? chunki , ular etiqadqa emes , belki yahxi emellirige tayinip heqqaniy adem dep jakarlinixqa tirixti . buning bilen , ular taxqa , yeni eysa mesihke putlixip yiqilip chuxti .
+45010006	kim		lekin , etiqad arqiliq heqqaniy adem dep jakarlinixqa nisbeten muqeddes yazmilarda mundaq deyilgen : oz-ozunglardin : asmangha kim chiqidu ? 
+45010007	kim		yeni eysa mesihni elip chuxux uchun yaki bolmisa gorge kim chuxidu ? yeni eysa mesihni olukler arisidin elip chiqix uchun dep sorap yurmenglar .
+45010008	~		ularning demekchi bolghini del hudaning sozi sanga yeqindur , u tilingda we dilingdidur . mana bu , hem biz yetkuzuwatqan etiqad toghrisidiki sozlerdur .
+45010014a	qandaqmu		lekin , uninggha ixenmigenler uninggha qandaqmu iltija qilsun ? 
+45010014b	qandaqmu		u toghruluq anglimighanlar uninggha qandaqmu ixensun ? 
+45010014c	qandaqmu		u toghrisida hewer yetkuzguchiler bolmisa , kixiler qandaqmu angliyalisun ?
+45010015	qandaq		hux hewer yetkuzguchiler ewetilmise , hux hewer qandaq yetkuzulsun ? muqeddes yazmilarda yezilghinidek : hux hewerni yetkuzgenlerning qedimi neqeder mubarek-he !
+45010016	kimmu		biraq , huddi yexaya peyghemberning : i perwerdigar , biz yetkuzgen sozlerge kimmu ixendi ? deginidek hemme adem hux hewerni qobul qilghan emes .
+45011004	qandaq		huda uninggha qandaq jawas qayturghan ? huda uninggha : baalgha choqunmighan sendin baxqa yene yette ming ademni ozumge elip qaldim degen .
+45011007	qandaq		netijide qandaq boldi ? israillar izdiginige , yeni qutquzuluxqa erixelmidi . peqet tallanghanlarning az bir qismila uninggha erixti . qalghanlar bolsa qelbliri bihudlaxturulup , hudaning chaqiriqigha qulaq salmidi .
+45011015	neme		chunki , ularning ret qilinixi arqiliq dunyadiki baxqa milletler huda bilen yaraxturulghan bolsa , undaqta ularning eysa mesihke etiqad qilip , huda teripidin qobul qilinixi olumdin tirilgenlik bolmay neme ?
+45011018	~		xundaq iken , siler sunduruwetilgen axu xahlar aldida mahtanmanglar . eger mahtansanglar , xuni untumanglarki , siler yiltizni emes , belki yiltiz silerni beqiwatidu .
+45011033a	kimmu		ah ! hudaning eqil-parasiti we ilim-hekmiti nemidegen mol , nemidegen chongqur-he ! uning hokumlirini kimmu chuxinelisun ? 
+45011033b	kimmu		uning yollirini kimmu oylap yetelisun ? muqeddes yazmilarda yezilghinidek :
+45011034a	kimmu		kimmu perwerdigarning oy-pikrini chuxensun ? 
+45011034b	kimmu		kimmu uning meslihetchisi bolalisun ?
+45011035	kimmu		kimmu uninggha birnerse berip , uni qerzdar qilalisun ?
+45014004	kim		hudaning hizmetkari ustidin hokum qilidighan sen kim iding ? ulargha igisi bolghan huda ozi mesul . hizmetkari ustidin hokum qilix yaki uni aqlax hudaning ixidur . huda uni eyibsiz qilalaydu . chunki , rebbimiz bundaq qilixqa qadirdur .
+45014010a	neme uchun		undaqta , gox yemeydighan sen neme uchun hemme yemekliklerni yeydighan qerindixing ustidin hokum qilisen ? 
+45014010b	neme uchun		hemme yemekliklerni yeydighan senmu neme uchun gox yemeydighan qerindixingni kemsitisen ? hemmimizning hudaning hokum tehtining aldida hesas beridighanliqimizni bilmemsen ?
+46001020a	qeni		undaqta , qeni u , insan teripidin dana sanalghanlar ? 
+46001020b	qeni		qeni u , ozini eqilliq sanaydighan olimalar ? 
+46001020c	qeni		qeni u , bu zamandiki peylasoplar ? huda bu dunyadiki danaliqning emeliyette ehmiqanilik ikenlikini korsitip bergen emesmu ?
+46002011	~		bir ademning qelbidiki oylirini xu ademdin baxqa hechkim bilelmiginidek , hudaning qelbidiki oylirinimu hudaning rohidin baxqa hechkim bilelmeydu .
+46002016a	kim		muqeddes yazmilarda mundaq yezilghan : perwerdigarning oy-pikirlirini kim bilelisun ? 
+46002016b	kim		uninggha kim yol korsitelisun ? lekin , biz bolsaq hudaning oy-pikirlirini chuxineleymiz . chunki , bizning oy-pikrimiz eysa mesihningkige ohxaxtur .
+46003005a	~		apollos yaki menki pawlus silerning bolunuxunglargha sewes bolghudek muhim kixilerdin emesmiz . biz peqet huda yolida silerni rebbimizge etiqad qilixqa baxlaydighan hizmetkarlarmiz . rebbimiz herbirimizge birdin wezipe bergen .
+46003005b	~		
+46004007a	nemixqa		nemixqa siler ozunglarni baxqilardin ustun dep qaraysiler ? 
+46004007b	~		ejeba , silerde bar bolghan barliq iltipatlar huda teripidin berilmigenmu ? 
+46004007c	nemixqa		undaqta , siler nemixqa bu iltipatlargha huddi ozunglargha tayinip erixkendek mahtinisiler ?
+46004021	qaysisini		silerge tayaq elip baraymu yaki mehir-muhebbet we mulayimliqmu ? qaysisini halaysiler ?
+46005002	~		xundaq turuqluq , siler yene etiqadimiz kamaletke yetti , dep mahtinip yurisiler . siler bu ixqa qattiq qayghurup , bundaq qilghuchini aranglardin qoghlap chiqirixinglar kerek emesmu ?
+46005012	neme		chunki , etiqadchilar jamaetchilikining ezasi emeslerni soraq qilixqa bizning neme hoquqimiz bar ? ularni huda ozi soraq qilidu . lekin , etiqadchilar jamaetchilikining ezalirini soraq qilixqa bizning hoquqimiz bar . xunga , muqeddes yazmilarda yezilghinidek : yamanliq qilghuchini aranglardin qoghlap chiqiringlar .
+46006001	qandaq		aranglarda bir etiqadchining yene bir etiqadchi ustidin dewaliri bolsa , uni etiqadchilarning bir terep qilixigha tapxurmay , hudani tonumaydighan soraqchigha erz qilip barghini qandaq bolghini ?
+46006003	~		kelguside perixtilerni soraq qilidighanliqinglarni bilmemsiler ? ! xundaq iken , hazirqi turmuxunglarda etiqadchilar arisidiki kichik dewalarni hel qilixni choqum bilixinglar kerek .
+46006004	nemixqa		xundaq turuqluq , aranglarda dewalar korulginide , nemixqa uni hel qilix uchun eysa mesihni tonumaydighan , etiqadchilar jamaetchiliki bilen ohximaydighan kozqaraxta bolghan soraqchilargha barisiler ?
+46006007a	~		emeliyette , bir-biringlar ustidin dewalixix siler uchun chong meghlubiyettur . 
+46006007b	neme		undaq qilixtin kore , ozara bezibir naheqliqke uchrisanglar yaki az-tola aldansanglar neme boptu ?
+46006009	~		yamanliq qilghuchilarning hudaning padixahliqigha kirelmeydighanliqini bilmemsiler ? siler oz-ozunglarni aldimanglar ! barliq jinsiy ehlaqsizliq qilghuchilar , butperesler , zinahorlar , hezilekler , er bilen er yaki ayal bilen ayal ara jinsiy munasiwet qilghuchilar ,
+46006016	~		pahixe ayal bilen birge bolghan kixining uning bilen bir ten bolidighanliqini bilmemsiler ? chunki , muqeddes yazmilarda er-ayal toghruluq : ikkisi bir ten bolidu deyilgen .
+46006019	~		teninglarning muqeddes rohning ibadethanisi ikenlikini bilmemsiler ? huda silerge ata qilghan muqeddes roh qelbinglarda yaxaydu . siler ozunglargha emes , belki hudagha mensupsiler .
+46007016a	~		ey etiqadchi ayal , belkim ering sen arqiliq eysa mesihke etiqad qilip , qutquzuluxi mumkin . 
+46007016b	~		ey etiqadchi er , belkim ayaling sen arqiliq eysa mesihke etiqad qilip , qutquzuluxi mumkin . etiqad yoligha chaqirilghan waqittiki salahiyet mesilisi
+46009007a	kim		kim oz puli bilen lexkerlik qilidu ? 
+46009007b	kim		kim kochet tikip , uning mewisini yemeydu ? 
+46009007c	kim		kim mal beqip , uning sutini ichmeydu ?
+46009018	neme		undaqta , alidighan heqqim neme ? u bolsimu hux hewer yetkuzuxte elixqa tegixlik heqni telep qilix hoququmdin paydilanmay , kixilerni hux hewerge heqsiz ige qilixtur .
+46010019a	~		men bundaq deyix arqiliq butqa atap qurbanliq qilinghan nersining birer ehmiyiti bar yaki but heqiqiy huda demekchimenmu ?
+46010019b	~		
+46010019c	~		
+46010029	neme uchun		bu yerde silerning wijdaninglarni emes , belki u kixining wijdanini demekchimen . undaqta , neme uchun baxqilarning wijdani mening erkinlikimni cheklisun ?
+46010030	neme uchun		eger men hudagha xukur eytip bundaq ziyapetke qatnaxsam , yene neme uchun xukur eytip yegen bu yemeklikim sewebidin eyiblinixke uchrixim kerek ?
+46011022	neme		yep-ichixke oz oyliringlar bar emesmu ? yaki bu yerge hudagha mensup bolghan etiqadchilar jamaetchilikini kozge ilmay , yeydighan nersisi yoqlarni hijil qilixqa jem boldunglarmu ? silerge neme desem bolar ? silerni mahtaymu ? yaq , bu ixta silerni hergiz mahtiyalmaymen !
+46012017a	qandaqmu		putun ten koz bolsa , u qandaqmu angliyalaydu ? 
+46012017b	qandaqmu		putun ten qulaq bolsa , u puraqni qandaqmu sezeleydu ?
+46012019	qandaqmu		eger hemmisi ohxax birla eza bolghan bolsa , uni qandaqmu ten degili bolatti ?
+46014006	neme		emdi qerindaxlar , eger men yeninglargha berip , oz tilinglarda silerge huda teripidin axkarilanghan heqiqetni , hudadin kelgen alahide bilim , wehiy yaki birer telim yetkuzmey , peqetla muqeddes rohning kuchi bilen bundaq namelum tilda sozlisem , silerge neme paydam bolsun ?
+46014007	~		xuningdek , awaz chiqiralaydighan jansiz nersiler , mesilen ney yaki chiltarmu eniq ahang chiqarmisa , hechkim uning cheliniwatqan muzika ikenlikini bilelmeydighu ?
+46014008	~		jeng kaniyimu belgilik bir ahangda chelinmisa , hechkim jengge hazirlanmaydighu ?
+46014009	kim		xuningdek , silermu chuxinixlik tilda sozlimisenglar , neme demekchi bolghininglarni kim chuxineleydu ? u chaghda , hawagha gep qilghandek bolisiler .
+46014015	qandaq		undaqta , u qandaq qilixi kerek ? u bezide muqeddes roh arqiliq bundaq tilda sozlex bilen , bezide eqil-idraki bilen dua qilsun . xundaqla , u bezide muqeddes roh arqiliq , bezide eqil-idraki bilen hudagha medhiye nahxilirini eytsun .
+46014016	qandaqmu		eger muqeddes roh arqiliq ozungge namelum bolghan bundaq tildila hudagha xukur eytsang , jamaetchilik sening neme dewatqanliqingni chuxenmey , eytqan xukur dualiringgha qandaqmu : amin deyelisun ?
+46014026	~		qerindaxlar , men hulase qilay , siler hudagha ibadet qilix uchun bir yerge jem bolghininglarda , beziliringlar medhiye nahxilirini eytisiler , beziliringlar telim berisiler , beziliringlar hudaning wehiysini yetkuzisiler , beziliringlar ozunglargha namelum bolghan tilda sozleysiler , baxqilar bolsa bu tilni chuxenduridu . hemme ix jamaetchilikning etiqadini yetildurux uchun bolsun .
+46014036	~		huda toghrisidiki telimni siler ozunglardin chiqqan yaki yalghuz silergila yetip kelgen , dep oylaydikensiler . bu durus emes !
+46015012	neme uchun		eysa mesihning olumdin tirilgenliki silerge yetkuzulgen turuqluq , yene neme uchun aranglarda beziler olgenler qayta tirilmeydu deydu ?
+46015029a	~		
+46015029b	~		
+46015029c	qandaq		olumdin tirilix bolmisa , bezilerning olgenler uchun chomulduruluxini qandaq chuxinix kerek ? olgenler zadi tirilmise , kixilerning ular uchun chomuldurulgini bikar bolidu .
+46015030a	~		
+46015030b	neme uchun		biz neme uchun her daim ozimizni heterge ataymiz ?
+46015032	neme		men efes xehiride yirtqu haywanlargha ohxax axu reqibler bilen elixtim . olumdin tirilix bolmisa , mening xundaq qilghinimning neme paydisi bolatti ? eger olgenler tirilmise , undaqta beribir ete olup ketidighan bolghandin keyin , yep-ichip yuruwalayli degen soz yolluq bolatti !
+46015035a	qandaq		lekin beziler : olgenler qandaq tirilidu ? 
+46015035b	qandaq		eger olgen adem tirilse , uning teni qandaq bolidu ? dep sorixi mumkin .
+46015055a	~		ey olum , ghelibeng yoq emdi ! ey olum , nextiring yoq emdi !
+46015055b	~		
+47002002	kim		silerni ghem-qayghugha salsam , meni hux qilalaydighan ademlerni qayghugha salghan bolmamdimen ? undaqta , kim meni hux qilalisun ?
+47002016	kim		bu hux puraq halak bolidighanlar uchun olum puriqi bolsa , qutquzulidighanlar uchun hayatliq puriqidur . bundaq zor wezipining hoddisidin kim chiqalaydu ?
+47003008	~		bu qanunning chuxuruluxi xundaq ulu bolghan yerde , muqeddes rohning elip kelidighini tehimu ulu bolmamdu ! ?
+47003009	~		yeni insangha jaza elip kelidighan tewrat qanuni ulu bolghan yerde , insanni heqqaniy qilidighan yengi ehde tehimu ulu bolmamdu ! ?
+47006014a	qandaqmu		etiqadsizlar bilen bir boyunturuqqa kirmenglar . chunki , heqqaniyliq bilen heqqaniysizliqning otturisida qandaqmu ortaqliq bolsun ! ? 
+47006014b	qandaqmu		yoruqluq bilen qarangghuluq qandaqmu chiqixalisun ! ?
+47006015a	qandaqmu		mesih bilen xeytan qandaqmu kelixelisun ! ? 
+47006015b	neme		etiqadchilar bilen etiqadsizlarning neme ortaqliqi bolsun ! ?
+47006016	qandaqmu		hudaning ibadethanisi bilen butlar arisida qandaqmu birlik bolsun ! ? biz menggu hayat hudaning ibadethanisi . huddi hudaning eytqinidek : helqim ichide turimen , ularning arisida yurimen . ularning hudasi bolimen , ularmu mening helqim bolidu .
+47011011	neme uchun		neme uchun silerdin heq almidim ? silerni soymeydighanliqimdinmu ? hudagha ayanki , silerni soyimen !
+47011029a	qachan		men qachan ajizlargha hesdaxliq qilmidim ? ! 
+47011029b	qachan		xeytanning tuziqigha chuxup , ezip ketkenler uchun ichim qachan ortelmidi ? !
+47012013	~		baxqa etiqadchilar jamaetchiliki arisida qilghan , biraq silerning aranglarda qilmighan birdinbir hataliqim silerning iqtisadiy yardiminglarni almighanliqimdur . bu adaletsizlik imni epu qilghaysiler !
+47012017	~		ejeba , men silerge ewetken ademlerning birersi arqiliq silerdin nep aldimmu ?
+48002014	nemixqa		men ularning hux hewerning heqiqiti boyiche ix qilmighanliqini korup , hemmeylenning aldidila petrusqa : sen yehudiy bolsangmu , biraq hezriti eysagha etiqad qilghandin beri yehudiylarning adetliri boyiche yaximay , belki yehudiy emeslerdek yaxap kelding . xundaq turuqluq , yene nemixqa yehudiy emes etiqadchilardin yehudiylarning adetliri boyiche yaxaxni telep qilisen ? dedim .
+48003001	qandaqlarche		ey nadan galatiyaliqlar ! siler qandaqlarche eziqturulup , baxqilarning damigha chuxup kettinglar ? eysa mesihning krestke mihlanghanliqi huddi koz aldinglarda yuz bergendek eniq yetkuzulgenghu !
+48003019	neme		undaqta , tewrat qanunini chuxuruxtiki meqset neme ? u bolsimu huda ewetixke wede qilghan ibrahimning ewladi , yeni eysa mesih kelguche gunahning neme ikenlikini korsitip berixtur . tewrat qanuni perixtiler arqiliq musa peyghemberge , musa peyghemberning wasitisi bilen kixilerge chuxurulgen .
+48004009a	neme uchun		emdilikte , heqiqiy hudani tonudunglar . tehimu eniqraq qilip eytqanda , huda teripidin tonuldunglar . xundaq iken , yene neme uchun bu dunyadiki ajiz , kereksiz qaide-yosunlarning qulluqigha yengiwaxtin qaytmaqchi bolisiler ?
+48004009b	~		
+48004010	~		siler yenila melum kun , ay , pesil we yillarni hatirilewatisiler .
+48004015	nege		u chaghdiki huxalliqinglar emdi nege ketti ? ! jezm qilip eytalaymenki , u chaghda siler mumkin bolsa , manga kozliringlarni oyup berixkimu razi idinglar .
+48004021	neme		tewrat qanunining ilkide yaxaxni halaydighan silerdin xuni sorap baqay , siler tewratta neme deyilgenlikini bilmemsiler ?
+48004030	neme		lekin , muqeddes yazmilarda neme dep yezilghan ? uningda : sen bu dedek ayalingni oghli bilen qoxup heydiwet ! chunki dedek ayalingning oghli hergiz erkin ayalingdin bolghan oghul bilen mirasqa ortaq bolup qalmisun dep yezilghan .
+48005007a	kim		siler etiqad yolida algha besiwatqanidinglar , biraq kim silerning heqiqetke itaet qilixinglargha tosalghu boldi ?
+48005007b	~		
+48005011	neme uchun		qerindaxlar , eger men ular eytqandek hetne qilinix kerek dep dawamliq telim berip yurgen bolsam , undaqta men bugunki kunde yene neme uchun yehudiylarning ziyankexlikige uchraymen ? eger xundaq qilghan bolsam , u chaghda qutquzulux peqet eysa mesihning kresttiki qurbanliqidinla kelidu demigen bolattim hem ularning ghezipinimu qozghimighan bolattim .
+49004009	~		bu yerdiki chiqqanda degen soz eysa mesihning awwal towenge yer-yuzige chuxkenlikini bilduridu .
+50001018	qandaq		meyli qandaq boluxidin qetiynezer , yeni ularning muddiasi toghra bolsun-bolmisun , peqet eysa mesih tonutulsila hursenmen . buningdin keyinmu dawamliq hursen bolimen .
+50001021	~		chunki , men eysa mesih uchun yaxaymen . olsemmu , erxte eysa mesih bilen bille bolimen . bu , men uchun tehimu yahxidur .
+51002020	neme uchun		siler bu dunyagha nisbeten eysa mesih bilen bille olup , bu dunyadiki yaman rohiy kuchlerning tesirliridin azad bolghanikensiler , yene neme uchun xularning buni tutma , awuni yeme , buninggha tegme degendek qaide-yosunlirigha yepixiwalisiler ?
+52002019	~		silerning etiqadinglarda ahirghiche choqum ching turidighanliqinglargha ixinimiz we siler uchun bek huxal bolimiz . rebbimiz eysa qayta kelgende , uning aldida pehirlinidighan tajimiz del siler emesmu ?
+52003009	qandaqmu		siler uchun huxalliqqa chomduq . bundaq ehwalda biz hudaning aldida siler uchun qandaqmu texekkur eytmay turalaymiz !
+54003005	qandaqmu		chunki , oz ailisini baxquruxni bilmeydighan kixi hudaning jamaetchilikining halidin qandaqmu hewer alalisun ?
+54006007a	~		biz bu dunyagha hechneme elip kelmiduq we bu dunyadin hechneme elip ketelmeymiz .
+54006007b	~		
+58001005	~		chunki , muqeddes yazmilarda mundaq deylgen : sen mening oghlumsen , bugun men sening atang ikenlikimni jakarlidim . bu sozni huda herqandaq bir perixtisige degen emes , xundaqla huda yene hechqandaq bir perixte toghruluq : men uninggha ata bolimen , umu manga oghul bolidu . degenmu emes .
+58001013	~		huda oz oghligha degen munu sozni perixtilerning birersige dep baqqan emes : men sening duxmenliringni ayighing astida dessetkuche , mening ong yenimda olturghin !
+58001014	~		xundaq iken , putkul perixtiler peqet hudaning hizmetkarliridur . ular qutquzulidighanlargha hizmet qilix uchun huda teripidin ewetilgen rohlardur .
+58002003	qandaqmu		xundaq iken , xunche ulu qutquzuluxqa koz yumsaq , qandaqmu xu jazadin qechip qutulalaymiz ? ! qutquzulux hewirini deslepte rebbimiz uqturghan , uni biwasite anglighanlar bu qutquzuluxning heqliqi toghrisida bizge guwahliq bergen .
+58002006a	nemiti		bu heqte muqeddes yazmilarning bir yeride mundaq guwahliq berilgen : i huda , adem nemiti , sen uninggha xunche ghemhorluq qilghudek ? 
+58002006b	nemiti		adem balisi nemiti , sen uninggha xonche kongul bolgudek ?
+58003016	kimler		hudaning awazini anglap turup , uninggha asiyliq qilghanlar kimler idi ? musa peyghember ghelibilik halda misirdin elip chiqqan axu israillarning hemmisi emesmu ?
+58003017	kimlerge		huda qiriq yil kimlerge ghezeplendi ? yenila xu gunah otkuzup , jesetliri cholde qalghanlargha emesmu ?
+58003018	kimlerni		huda kimlerni oz aramliqidin behrimen qilmasliqqa qesem qildi ? hudagha itaet qilmighanlarni emesmu ?
+58006004	~		bezi ademlerni towa qildurup , qaytidin huda yoligha baxlax mumkin emes . chunki , ular bir chaghlarda hudaning nuri bilen yorutulghan , hudaning iltipatidin behrimen bolghan , muqeddes rohqa ortaq bolghan ,
+58007011	neme		israil helqige chuxurulgen tewrat qanunidiki rohaniyliq tuzumi lawiy qebilisining rohaniyliri arqiliq yurguzuletti . biraq , eger hudaning insanlarni gunahtin pak qilix meqsiti bu rohaniylar arqiliq emelge axqan bolsa , undaqta bu hil tuzum asasida teyinlengen harundek tertiptiki emes , belki malkisidiqtek tertiptiki yene bir rohaniyning kelixining neme hajiti bar idi ?
+58009014	qenichu		undaqta , eysa mesihning qenichu ? u wijdanimizni olumge elip baridighan qilmixlardin pak qilip , bizni menggu hayat hudagha ibadet qilixqa tehimu yeteklimemdu ? ! u hudaning mengguluk rohi arqiliq ozini kem-kutisiz qurbanliq supitide bizning gunahlirimiz uchun hudagha atidighu !
+58010001	~		tewrat qanuni eysa mesih kelguside elip kelidighan guzel ixlarning oz eynini emes , belki uning kolenggisinila suretlep beridu . xu sewebtin , tewrat qanuni ozige emel qilip , yilmuyil ohxax qurbanliqlarni atax arqiliq hudagha ibadet qilidighan ademlerni hergizmu gunahliridin pak qilalmaydu .
+58010029a	~		undaqta , bir kixi hudaning oghlini depsende qilsa , hudaning ehdisini kuchke ige qilghan we ozini paklighan qangha sel qarisa , ozige xepqet qilghan muqeddes rohni haqaret qilsa , tehimu eghir jazagha layiq bolmamdu ? !
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	neme		yene neme dey ? gidon , baraq , ximxon , yightah , dawut , samuil we baxqa peyghemberler toghrisida eytip kelsem waqit yetmeydu .
+58012007	qaysi		azas chekkininglarni hudaning terbiyisi dep bilip , uninggha berdaxliq beringlar . chunki , silerning terbiye elixinglarning ozi hudaning silerni perzentim dep muamile qilidighanliqini korsitidu . qaysi perzent atisi teripidin terbiyilenmisun ?
+58012009	~		yer-yuzidiki atimizning terbiyisini qobul qilip , ularni hormetlep kelduq . xundaq iken , erxtiki atimizgha tehimu itaet qilip , yaxiximiz kerek emesmu ?
+58012025	qandaqmu		silerge bularni eytqan hudadin yuz orumeslikke diqqet qilinglar . chunki , bu alemde ozlirini agahlandurghuchi musa peyghemberni ret qilghan israillar bundaq qilixning jazasidin qutulalmighan yerde , erxtiki bizni agahlandurghuchini ret qilsaq , u jazadin biz qandaqmu qutulalaymiz ! ?
+58013006	neme		xunga , zeburda yezilghandek yureklik eytalaymizki : qorqmaymen , rebbim yardemchimdur . kixiler meni neme qilalisun ?
+59002006	~		biraq , siler kembeghellerni harlidinglar ! silerni ezgen we sotqa sorigenler emeliyette baylar emesmu ?
+59002014	neme		qerindaxlirim ! eger bir kixi aghzida , men eysa mesihke etiqad qilimen dep turup , uni oz emeliyitide korsetmise , uning neme paydisi ? u bundaq etiqad bilen qutquzuluxqa erixelemdu ?
+59002016a	~		
+59002016b	neme		qerindaxlirim ! eger bir kixi aghzida , men eysa mesihke etiqad qilimen dep turup , uni oz emeliyitide korsetmise , uning neme paydisi ? u bundaq etiqad bilen qutquzuluxqa erixelemdu ?
+59002018	~		lekin , beziler : mende etiqad bolsila boldi dese , beziler : etiqad bilen emeliyet birge boluxi kerek dep ozara talixixi mumkin . men axu mende etiqad bolsila boldi deguchilerge : eger sening emeliyiting bolmisa , oz etiqadingni namayan qilalmaysen . biraq , men emeliyitim arqiliq oz etiqadimni namayan qilalaymen dep jawas berimen .
+59002021	~		hudaning emrige itaet qilix uchun ejdadimiz ibrahim oz oghli ixaqni qurbanliq qilmaqchi bolghan we bu emeliyiti arqiliq u huda teripidin heqqaniy adem dep jakarlanghan emesmu ?
+59003013	kim		aranglarda kim eqil-parasetlik bolsa , u oz hayatida kemterlik bilen qilghan yahxi ixliri arqiliq ozining eqil-parasitini korsetsun .
+59003017	~		lekin , bir ademde hudadin kelgen eqil-paraset bolsa , u aldi bilen pak , andin tinchliqperwer , hux peil , kemter we rehimdil bolup , uning hayati yahxi mewiler bilen tolghan bolidu . u yene ayrimichiliq we sahtipezlik qilmaydu .
+59004001a	neme		aranglardiki toqunux we majiralarning menbesi neme ? bu del qelbinglarni chirmiwalghan arzu-hewesliringlar emesmu ?
+59004001b	~		
+59004012	neme		peqet hudala qanun tuzguchi we hokum qilghuchidur , qutquzux we halak qilix peqet hudaning ku-qudritidin kelidu . xundaq iken , baxqilar ustidin hokum qilixqa silerning neme hoququnglar bar ? !
+59004014	neme		ete neme bolidighanliqini bilemsiler ? silerning hayatinglar huddi bir demdila peyda bolup yoqap ketidighan tumangha ohxaydu .
+60002020	~		eger hataliq otkuzup , tegixlik jazagha tartilghanda uninggha berdaxliq berse , buning mahtinidighan hech yeri yoq ! lekin , yahxi ixlarni qilip azas-oqubet chekse hemde uninggha berdaxliq berse , u hudani hursen qilidu .
+60003013	~		eger siler daim yahxi ixlarni qilixqa tirixsanglar , baxqilar silerge yamanliq qilmaydu .
+60004017	qandaq		chunki , soraq waqti baxlandi . bu soraq aldi bilen hudaning perzentliri , yeni etiqadchilarning etiqadini sinaxtin baxlinidu . eger bu biz etiqadchilar uchun qiyin bolsa , u halda hudaning sozige qulaq salmighanlarning aqiwiti qandaq bolar ?
+60004018	qandaq		del muqeddes yazmilarda yezilghinidek : eger adil ademlerning qutquzuluxi tes bolsa , huda yolida mangmighanlar we baxqa gunahkarlarning aqiwiti qandaq bolar ?
+61003004	qeni		ular silerni , rebbinglar men qayta kelimen degenghu ! u qeni ? u qaytip kelmidighu ! bowilirimiz alemdin otup taki hazirghiche hemme ixlar ohxax bolup , dunya apiride bolghan waqittikidin hechqandaq perqi yoqtur dep meshire qilixidu .
+61003011	qandaq		hemme nerse mana xundaq yoqilidu . undaqta , siler qandaq ademlerdin boluxunglar kerek ? siler pak yaxap , huda yolida mangidighan ademlerdin boluxunglar kerek .
+62002022	kim		emise , kim uchigha chiqqan yalghanchi ? hezriti eysani ret qilip , uni mesih , yeni qutquzghuchi emes dep qarighan adem uchigha chiqqan yalghanchidur ! erxtiki atimizni we uning oghli eysa mesihni ret qilghan kixi eysa mesihning reqibidur .
+62003012	nemixqa		xeytangha mensup bolup , inisini olturgen qabilgha ohxax bolmanglar ! qabil nemixqa inisigha ochmenlik qilip , uni olturdi ? u ozining qilghanliri naheq , inisining qilghanliri heq bolghanliqi uchun xundaq qilghan .
+62003017	nedimu		eger mal-dunyasi bar bolghan kixi qerindixining ehtiyajini korup turup , uninggha yardem qilmisa , bundaq kixide nedimu hudaning mehir-muhebbiti bolsun ?
+62004020	qandaqmu		eger biri , hudani soyimen dep turup , qerindixigha ochmenlik qilsa , u yalghanchidur . chunki , kozige korunup turghan qerindixigha mehir-muhebbet korsetmigen kixi korup baqmighan hudani qandaqmu soysun ?
+62005005	kimler		bu dunyadiki yamanliq ustidin ghelibe qilghuchilar zadi kimler ? ular peqet eysa mesihni hudaning oghli , dep uninggha etiqad qilghanlardur .
+66005002	kim		yuqiri awaz bilen : oram yazma we pechetlerni echixqa kim layiqtur ? dep towlighan kuchluk bir perixtinimu kordum .
+66006010a	qachan		ular qattiq awaz bilen chuqan selixip : muqeddes we ixenchlik igimiz ! yer yuzide yaxawatqan insanlarni qachan soraq qilip , ulardin qenimizning intiqamini elip berisen ? deyixetti .
+66006010b	~		
+66006017	kimmu		chunki , ularning ghezipi tutqan dehxetlik kun keldi . uninggha kimmu berdaxliq berelisun ?
+66007013a	kim		xu chaghda , yetekchilerdin biri mendin : aq ton kiygen bu kixiler kim bolidu , 
+66007013b	qeyerdin		qeyerdin keldi ? dep soridi .
+66013004a	~		ular diwige bundaq hoquq bergen ejdihagha choqunuxti . ular yene diwigimu choqunup , diwige teng keleleydighanlar barmu ? 
+66013004b	kimmu		uning bilen kimmu elixalisun ? dedi .
+66015004a	kim		i perwerdigar , sendin qorqmaydighan kim bar , 
+66015004b	~		namingni medhiyilimeydighan ? chunki , yegane muqeddes ozungdursen . kelip putkul helqler , sanga sejde qilghusi . chunki , axkara bolgha qilghanliringning heqqaniyliqi .
+66017007	nemige		perixte manga mundaq dedi : nemige heyran boluwatisen ? ayalning we u minip turghan yette baxliq , on mungguzluk diwining sirini sanga eytip berey .
+66018018	~		uni ortigen otning is-tuteklirini korup : bu katta xeherning yene bir tengdixi barmidu ? dep peryad qilixidu .

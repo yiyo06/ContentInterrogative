@@ -1,0 +1,743 @@
+40002002	Nthanhama		Etna Jerusalem-arinya ntjarranha pmarraka , “ Nthanhama katjia ngurruka alkngerrakala era , erala relha Judah-arinya ntjarraka king nitjinala ? Nurnataka ntheilpura ekuranha arakala ekngarrala , nurnantama pitjika ekura urrkurrkintja nitjika . ”
+40002004	Nthanhalama		Herod-anhantama priest-aka itornka ntjarraka , artwa Intarrangaltha ntjarraka turta ntangkalhaka . Era etnanha pmarraka , “ Nthanhalama Krista era alkngerritjina ? ”
+40003007	Ngunhalama		John-alantama araka artwa Pharisee ntjarra , artwa Sadducee ntjarra turta pitjimanga , era etnanha kaltjirrpulhelitjika . John-ala pula etnanha ilaka , “ Apma ngerra ntjarrai . Ngunhalama rrangkarranha ilaka rrangkarra kula Altjirraka aa kngarranga erruntarerritjinala ?
+40005013	~		“ Rrangkarrataka peinta ngerra nama relha ingkarrakaka . Peinta era pula kornerrakalanga , relhala erinha yarna wotha marrilama . Era kala ipmintja nama . Relhalantama erinha tjaiyakarlakanta iwuma , erinha ingkala rrothitjika .
+40005046	Iwunhangantama		Iwunhangantama Altjirrala rrangkarranha kwartiwutjika , rrangkarra tjina rrakangkarranhakanta kangkamanga ? Tax money kotjinha ntjarra pula tjina etnakanhaka kangkamantemala .
+40005047	~		Rrangkarra paka tjina rrakangkarranhalelanta yia angkarramanga , rrangkarra itja Altjirra ngerra kangkintja ntelalhama . Relha Lorinya ntjarra turta tjina etnakanhalela yia angkarramantema .
+40006027	~		“ Rrakangkarranga arrpunha paka kutalkura etatha nitjinama , kngarra etarlaramala ? Itja kunha !
+40006028	Iwunhanga		Iwunhanga turtantama rrangkarra mantarriperra kngarra etarlarama ? Antatha etnanha kathala mangkamanga arai . Etna itja urrkapuma , mantarra paka etnakiltja thanthama .
+40006031a	Iwunhama		“ Rrangkarrantama itja kngarra etarlaritjika , ‘ Iwunhama nurna ilkutjina ? 
+40006031b	Iwunhama		Iwunhama nurna ntjutjina ? 
+40006031c	nthanhiakama		Mantarra nthanhiakama nurna ekarralhitjina ? ’
+40007003	Nthakinhala		Nthakinhala unta lyaka kurrka erinhanta katha arama , erala tjina tnakanhakanha ungkwanganhaka alkngala intamanga ? Kanha irna thaaka erala alknga ungkwanganhala intamanga , unta itjala arama ?
+40007004	~		Arai , unta yarna lyaka kurrka erinha urlpuntjima , irna thaaka era alknga ungkwanganhala intamangantema .
+40007009	~		Kaartala kunha itja ' lira ekuranha parta nthama , era ekura marnaka enkamanga .
+40007016a	~		Urrpia orrtjaltha etna irna korna ngerra nama . Etna annga korna lhalhelama . Arai , relhala itja marna lalitja kotjima ilakwanga , 
+40007016b	~		 katjirra paka lyakanga .
+40008026	Iwunhangala		Jesuala pula etnanha pmarraka , “ Iwunhangala rrangkarra trerrama ? Rrangkarra yinganha itjala tnakama ? ” Erantama kamerramala wurinya erinha , inmarra etnanha turta parraka . Kala wurinya era , inmarra etna turta yirraka .
+40008027	ngunhama		Artwa etna , etnala boat-ala naka , etna tnolkamala angkaka , “ Artwa ngunhama nhanha ? Wurinya , kwatjalka kunha ekura kangkwerrama . ”
+40008029	iwukala		Jesuanha aramala ngerra , artwa eratharra ilkarlalhaka , “ Jesuai , Altjirraka ' Lirai , iwukala unta ilirnakurna pitjika ? Unta ilirnanha kalama rrarrathala tutjina ? Antala nhanga Altjirralala relhanha rrarrathala tutjinala , antala nhanha kunha lyartathakantema . ”
+40009004	Iwunhangala		Jesuala kala lhangkaraka etnala eterramalaka . Erantama etnanha pmarraka , “ Iwunhangala rrangkarra nukiperra korna eterrama ?
+40009005	iwunhama		Yinganha ilai , iwunhama rukaralkura nama ? Artwa thaarra nhanha erinha ilitjika , ‘ Atha korna ungkwanganha iwuma . ’ Erinha paka ilitjika , ‘ Kala kamerrai , nthulapai turta . ’
+40009011	Iwunhangala		Artwa Pharisee ntjarrala nhanha aramala , etna Jesuaka kurtungurla ntjarranha pmarraka , “ Iwunhangala kaltjinthanhinthanha rrakangkarranhala relha kornarintja ntjarralela , tax money kotjinha ntjarralela turta marna ilkuma ? ”
+40009014	Iwunhangala		Kurunga John Kaltjirrpulhelanhelanhaka kurtungurla ntjarra Jesuurna etinyerraka . Etna erinha pmarraka , “ Iwunhangala nurnanta , artwa Pharisee ntjarranta turta arrpunharanga marnakunya nama , kanha kurtungurla ungkwanganha ntjarra itja kutala marnakunya nama ? ”
+40009015	~		Jesuala etnanha ilaka , “ Artwala noa inamanga era tjinkarra urrkapuma . Kurunga era tjina ekuranha ntjarranha ntangkama , marna ilkutjika . Tjina etna yarna marnanga unpulhama , artwa noa inakala era etnakalela namangantema . Anma pula relha arrpunha ntjarrala artwa erinha errkumala kngitjina . Kurunga artwa ekura tjina ntjarra , etna arlta arrpunhala kala marnakunyantama nitjina .
+40010025	~		Relha erala kaltjerrama , ekurathaka nama kaltjinthanhinthanha ekuranha ngerra kaltjerritjika . Urrkapunhapunha ekurathaka turta nama , itornka ekuranha ngerra erritjika . Etna paka yinganha rretnya Beelzebub ilamanga , etna kala rrangkarranha turta rretnya nhanha ilitjinantema .
+40011007	iwunha		John-aka kurtungurla urrputja etna kala alpumangantama , Jesuanha relha ntjarrurnantama angkaka , John-iperra . Era etnanha pmarraka , “ Artwa iwunha ngerranhama rrangkarra nhanga worritjurna aritjika lhaka ? Artwa tjakatjakanha , pmoltatja ngerra ngalhamanga wurinyala warnamanga ? Itja kunha .
+40011008	iwunha		Artwa iwunha ngerranhantama rrangkarra aritjika lhaka ? Artwa mantarra marra inthorraka ekarralhakalaka ? Itja kunha . Relha etnala mantarra marra inthorraka ekarralhakala , etna kunha king-akanha pmarala nama .
+40011009	iwunha		Artwa iwunha ngerra inthorranhantama rrangkarra aritjika , lhaka ? Altjirraka urrpia ? Era nthurrpa Altjirraka urrpia naka . Era pula Altjirraka urrpia ingkarrakanga kngarralkura naka .
+40011016	ngunha		Jesuala etnanha pmarraka , “ Relha ngunha ngerrama rrangkarra ? Atha rrangkarranha iliai ? Rrangkarra kunha katjia ntjarra ngerra nama , etnala kathala arrkanerrama . Katjia arrpunha ntjarrala rrangkarranha ntangkama ,
+40012011	Nthakinhantama		Jesuala pula etnanha pmarraka , “ Thunga artwaka sheep nyinta nama . Sheep era turtantama ipartaka tnyima , Sabbath arltala . Nthakinhantama ? Artwa era kunha sheep erinha Sabbath arltalantema ipartanga urlpuntjitjina .
+40012026	~		Satan-alantama enka korna ntjarranha unpurlenamanga , Satan-aka worla turta kala leltjakaleltjerraka . Etna turtantama ipmintjerritjina .
+40012027	Ngunhalantama		“ Arai , rrangkarra yinganha ilama atha kula enka korna ntjarranha unpurlenama , Beelzebub-ala yinganha ekarltilakalanga . Ngunhalantama kurtungurla rrakangkarranha ekarltilama , enka korna etnanha unpurlenitjika ?
+40012029	~		Arai , thunga relha antja nama , artwa ekarltaka ilthurna irrputjika , yultha ekuranha turta nyilkngala initjika . Era kunha artwa ekarlta erinha errkumala yirnitjikarrka . Kurunga era yultha ekuranha irrpalthala nyilkngala kngama .
+40012034	~		Apma ngerra ntjarrai . Relha korna warta , rrangkarra yarna angkatja marra angkama . Arai , relhala eterramanga ngerra , lakinha era kala angkama .
+40012048a	Ngunhama		Jesuala pula relha erinha pmarraka , “ Ngunhama mia nuka ? 
+40012048b	Ngunha		Ngunha ntjarrama tjia nuka ? ”
+40013010	Iwunhangama		Jesuaka kurtungurla ntjarrantama ekururna pitjimala , erinha pmarraka , “ Iwunhangama unta relha ntjarranha kaltjinthama , etnanha yia alpmelamala ? ”
+40013027	Nthakinhantama		Urrkapunhapunha etnantama itornka etnakanhurna lhamala , erinha pmarraka , ‘ Unta kunha wheat annganta alpantiwuka , nhangai ? Nthakinhantama tharrka korna turta mangkaka ? ’
+40013054a	Nthakinhala		Era pmara ekuranhurna alpuka . Erantama relha ntjarranha synagogue etnakanhala kaltjinthaka . Angkatja ekuranha wumala etna tnolkaka , pmarrarraka turta . “ Nthakinhala artwa nhanha kaltja inthorrerraka ? 
+40013054b	Ngunhala		Ngunhala turtama erinha ekarltilaka tjatjikarta urrkaputjika ?
+40013056	Nthakinhantama		Arrumpa ekuranha ntjarra turta pmara nhanhala namantema , nurnakalela . Nthakinhantama era nurnanha marra inthorra kaltjinthama , tjatjikarta turta urrkapuma ? ”
+40014031	Iwunhangala		Jesuala erinha parrpa iltjanga errkuka . “ Iwunhangala unta yinganha itja tnakaka ? ” era erinha pmarraka . “ Untataka ilpoiwukarrpa . ”
+40015002	Iwunhangala		Etna Jesuanha pmarraka , “ Iwunhangala kurtungurla ungkwanganha ntjarra itja kngarripata ntjarraka mpaarangarangaka kangkwerrama ? Etna kunha itja iltja ilkngilhama , marna ilkutjinala . ”
+40015003	Iwunhangala		Jesuala pula etnanha ilaka , “ Iwunhangala rrangkarra itja Altjirraka turnintjaka kangkwerrama ? Rrangkarra kunha mpaarangaranga rrakangkarranhaka kangkwerramala Altjirraka turnintja ipmintja impuma .
+40015033	Nthanhangantama		Kurtungurla ekuranha ntjarrala pula erinha ilaka , “ Nthanhangantama nurna worla kngarra lakinhaka marna inamara ? Nurna kunha nhanha worritjala nama . ”
+40015034	nthakintjama		Jesualantama etnanha pmarraka , “ Marna nthakintjama rrakangkarra intama ? ” Etna angkaka , “ Kala marna kurrka 7 , irrpannga urrputja turta . ”
+40016008	Iwunhangala		Jesuanha kala kaltja naka angkatja etnala angkarramalaka . Erantama etnanha pmarraka , “ Iwunhangala rrangkarra marniperra angkarrama ? Rrangkarra yinganha itjantema tnakama ?
+40016009	~		Rrangkarra marntilparla kutakwia ? Rrangkarra kala kngwerraka atha artwa 5,000 ntuthilakala marna 5-ala , rrangkarra turtantama ungkwaltja kngarra inthorra kotjikala .
+40016010a	~		Rrangkarra turta kala kngwerraka atha nhanga artwa 4,000 ntuthilakala marna 7-ala , 
+40016010b	~		rrangkarra turtantama ungkwaltja kngarra inthorra kotjikala ?
+40016011	~		Atha rrangkarranha nhanga ilaka , rrangkarra artwa Pharisee ntjarraka , artwa Sadducee ntjarraka marna ltorlpilanhanga aralhitjika . Rrangkarrataka lhangkareikanha yinga itja rrakangkarrurna marniperra angkamanga . ”
+40016013	Nthakinhama		Anpara lhamala , Jesuanha Caesarea Philippi town-urna pitjika . Town ekuralantama Jesuala kurtungurla ekuranha ntjarranha pmarraka , “ Nthakinhama relha ntjarra Relhaka ' Liriperra angkama ? ”
+40016015a	nthakinhala		Jesuala etnanha wotha pmarraka , “ Kanha rrangkarraloa ? Rrangkarra nukiperra nthakinhala angkama ? 
+40016015b	Ngunhama		Ngunhama yinga ? ”
+40016026a	~		Thunga relha Altjirraka itja eterrama . Erantama alha nhanhaka yultha ingkarraka inthorra patilama . Arai , era itja ngampakala etatha nitjina . 
+40016026b	~		Relha era turta yarna Altjirranha money nthama , Altjirrala erinha pmara ekuranhurna irrpulhelitjika , era pmara ekuranhalantama ngampakala nitjinanga .
+40017010	Iwunhangama		Kurtungurla ntjarralantama Jesuanha pmarraka , “ Iwunhangama artwa Intarrangaltha ntjarrala ilama Elijah-anhakimparra pitjitjika , kurunganta Kristanha ? ”
+40017017a	~		Jesuala etnanha ilaka , “ Rrangkarrataka relha arrthata nama . Rrangkarra turta Altjirranha itja tnakama . Kuta inthorrama yinga rrakangkarralela nitjika , 
+40017017b	~		rrangkarranha kaltjinthitjika turta ? Rrangkarrataka yinganha porrkaporrkilama . ”
+40017019	Iwunhangama		Kala etnarrpantama namalanga , kurtungurla ntjarrala Jesuanha pmarraka , “ Iwunhangama nurna enka korna erinha yarna unpurlenaka ? ”
+40017025a	~		“ Awa , era nthamakwia , ” Peter-ala etnanha ilaka .
+40017025b	~		
+40018001	ngunhama		Kurtungurla etnantama Jesuurna pitjimala erinha pmarraka , “ Altjirranha relha ingkarrakaka ntelalhamanga era Ingkarta namanga , nurnakanga ngunhama itornka kngarra nitjina ? ”
+40018012	~		Arai , thunga artwa nyintaka 100 sheep nama . Sheep nyinta turtantama paala lhamala pairlperrama . Artwa era kunha 99 sheep arrpunha etnanha partaka impurlalhamala , sheep nyinta ekura yonthitjika lhama .
+40018021	Nthakintjarangama		Jesuurna etinyerramala , Peter-ala erinha pmarraka , “ Ingkartai , thunga tjina tnakanhakanha nuka wothamawotha korna ntelalhama . Nthakintjarangama atha korna ekuranha iwutjika ? 7-aranga paka ? ”
+40019007	Iwunhangantama		Artwa Pharisee etnantama Jesuanha wotha pmarraka , “ Iwunhangantama Moses-ala relha ntjarranha ilaka , artwala kala noa ekuranha imputjika , era paka ekura itja antjanga . Era erinha pepanta nthitjika , angkatja nhanhakarta , ‘ Yinga kala ungkwanganga unpulhakantama ’ . ”
+40019016	nthakinhama		Artwa nyintantama Jesuurna pitjimala erinha pmarraka , “ Kaltjinthanhinthanhai , nthakinhama yinga marra ntelalhamara , yinga Altjirraka pmarala ngampakala etatha nitjinanga ? ”
+40019017	Iwunhangama		Jesuala erinha ilaka , “ Iwunhangama unta yinganha nhanhiperra pmarrama ? Altjirra nyintanta marra nama . Unta paka antja namanga ngampakala etatha nitjika , Altjirraka turnintjaka kangkwerrai . ”
+40019018	nthanha		Artwa era pula Jesuanha wotha pmarraka , “ Turnintja nthanha ntjarrakantama yinga kangkwerritjika ? ”
+40019020	~		Nthitja era Jesuanha alpmelaka , “ Yinga pula turnintja nhanha ingkarrakaka kala kangkwerraka . Turnintja arrpunha paka namama ? ”
+40019025	Ngunhantama		Nhanha wumala kurtungurla ntjarra tnolkaka inthorra . Etnantama Jesuanha pmarraka , “ Ngunhantama Altjirraka pmarurna irrputjina ? ”
+40019027	Iwunhantama		Peter-alantama Jesuanha pmarraka , “ Ingkartai , nurna kunha yulthalka , ramaramalka ingkarraka impurlalhaka ungkwanganga tnaartangala lhitjinala . Iwunhantama nurnaka ingkarna intitjina ? ”
+40020006	Iwunhangala		Kala ngurrangurra inthorrantama era wothantema town-urna lhaka . Era artwa urrputja arrpunha araka kunpa itnarlanamanga . Erantama etnanha pmarraka , ‘ Iwunhangala rrangkarra arlta ntjapara kunpa itnarlanaka ? ’
+40020012	~		‘ Artwa ingkarna inthorra urrkaputjika tjontakala ntjarra , etna kunha kurrka wara urrkapuka . Nurna pula arlta ntjapara urrkapuka , mpalha kngarrala turta . Kanha unta nurnanha loala kutala kwartiwuka . ’
+40020021	Iwunhakama		Jesualantama erinha pmarraka , “ Iwunhakama unta antja ? ”
+40020032	Iwunhangama		Itnatjalhamala , Jesuala erinhatharra ntangkaka . Erantama erinhatharra pmarraka , “ Iwunhangama mpala nuka ilkaka ? ”
+40021010	Ngunhama		Jesuanha Jerusalem-aka irrpunhakantama . Relha Jerusalem-arinya ntjarra tnolkamala pmarrarraka , “ Ngunhama artwa nhanha ? ”
+40021016	~		Artwa nhanha etnantama Jesuanha pmarraka , “ Unta katjia nhanha ntjarraka angkatja wumama ? ”
+40021020	~		Nhanha aramala kurtungurla etna tnolkamala angkaka , “ Yai , irna nhanha pula warangala inthorra ntjirrkerralalhaka . ”
+40021023a	Ngunhalama		Jesuala relha ntjarranha temple kwanala kaltjinthamalanga , priest itornka ntjarra , kngarripata ntjarra turta ekururna pitjika . Etna erinha pmarraka , “ Ngunhalama nganha turnaka relha ntjarranha kaltjinthitjika ? 
+40021023b	~		Nhanha ungkwangathaka namama ? ”
+40021025a	Ngunhalama		Yinganha ilai , Ngunhalama John-anha turnaka relha ntjarranha kaltjirrpulhelitjika ? Thunga Altjirrala ? Thunga relhala paka ? ” Nhanhiperra eterramala , etna lakinha ilarraka . 
+40021025b	~		“ Nurna paka erinha ilamanga Altjirrala erinha turnakala , era nurnanha ilitjina , 
+40021025c	Iwunhangantama		‘ Iwunhangantama rrangkarra erinha itja tnakaka ? ’
+40021028	Nthakinhama		Jesualantama etnanha pmarraka , “ Nthakinhama rrangkarra nhanhiperra etarlarama ? Wurlathanai . Artwa nyintaka ' lira tharra naka . Arlta arrpunhala era worra arrkurlinya ekuranha ilaka , ‘ ' Lirai , grapes tnukulpala urrkaputjika lhai . ’
+40021031	ngunhama		Rrangkarrantama yinganha ilai . Worra ngunhama kaarta ekuranhaka kangkwerraka ? ”
+40021040	Nthakinhama		Jesualantama etnanha pmarraka , “ Nthakinhama rrangkarra etarlarama ? Kurtwia era pitjalpumalanga , era paka etnaka kangkitjinama ? ”
+40022012	nthakinhala		King-alantama erinha pmarraka , “ Tjinai , nthakinhala unta nhanhurna irrpentjika mantarra kornakarta ? ” Era pula pmarna kuta naka .
+40022017	~		Nurnanha ilai , Altjirrala nurnanha turnamama Caesar-anha tax money nthitjika ? ”
+40022018	iwukama		Jesuanha pula kaltja naka etna korna eterramanga . Erantama etnanha pmarraka , “ Artwa pmatha ntjarrai , iwukama rrangkarra yinganha arrkarnama ?
+40022020a	Ngunhaka		Erantama etnanha pmarraka , “ Ngunhaka ntolyama money ekurala nama ? 
+40022020b	Ngunhaka		Ngunhaka rretnya turtama money ekurala nama ? ”
+40022028	ngunhaka		Altjirrala relha errilknga ingkarrakanha kamalhelamanga , artwa ngunhaka noantama arrkutja nhanha era nitjina ? Era kunha kanhanganhanga 7-akantema noa nakala . ”
+40022036	~		“ Kaltjinthanhinthanhai , yinganha Altjirraka turnintja kngarra erinha ilai ? ”
+40022042a	Nthakinhama		“ Nthakinhama rrangkarra Kristiperra etarlarama ? 
+40022042b	Ngunhaka		Ngunhaka ' lirama era ? ”
+40022043	Nthakinhantama		Erantama etnanha pmarraka , “ Nthakinhantama Enka Alkngaltarala David-anha turnaka erinha Ingkarta kitjika ? David era nhanga ilaka ,
+40022045	nthakinhantama		David-ala paka Kristanha Ingkarta kakalanga , nthakinhantama Kristanha David-aka ' lira nama ? ”
+40023017	Iwunhama		Rirta ntjarrai , panga ntjarrai turta . Iwunhama tjiparralkura nama ? Gold erala temple kwanala intamanga ? Temple era paka , erala Altjirraka iltha namanga ?
+40023019	Iwunhama		Panga ntjarrai . Iwunhama tjiparralkura nama ? Tjauwerrilya erala altar kartninyala intamanga ? Altar era paka , erala Altjirraka namanga ?
+40023033	~		Rrangkarrataka apma ntjarra ngerra nama , apmaka katjia ngerra turta . Altjirrala kala rrangkarranha tatharrurna yairnitjina .
+40024003a	ilangarama		Jesuanha Olive Partala naka . Kurtungurla ekuranha ntjarrantama ekururna pitjika , erinha pmarraka turta , “ Nurnanha ilai , ilangarama lakinherritjina ? 
+40024003b	Nthakinha		Nthakinha turtama nurna kaltja nitjina unta kala pitjalputjikerramangantama , alha nhanha turta kala yirritjikerramangantama ? ”
+40024045	Ngunhama		“ Ngunhama urrkapunhapunha ilporatha pa inangkarla era nama , erinhala itornka ekuranhala ingkairnitjinala , urrkapunhapunha arrpunha ntjarranha marna etnakanha arratja kuta nthetnitjika ?
+40025037	~		“ Kurunga relha arratja etna erinha alpmelitjina , ‘ Ingkartai , nurna nganha itjama ngaiyala araka , ntuthilaka paka . Nurna itjama nganha angkathala araka , kwatja nthaka paka .
+40025038	~		Nurna itjama nganha epinya pitjimanga araka , nganha pmarurna ntangkaka paka . Nurna itjama nganha ilkngara araka , nganha mantarra nthaka paka . Nurna itjama nganha menta araka , ungkwanga montjamontja ntelalhaka paka .
+40025039	~		Nurna itjama nganha jail-ala araka , ungkwangurna yatjarra lhaka paka . ’
+40025044	~		“ Kurunga etna turta angkitjinantema , ‘ Ingkartai , nurna itjama nganha ngaiyala paka araka , angkathala paka , epinya paka , ilkngara paka , menta paka , jail-ala paka . Nurna paka nganha arakalanga , nurna kala ungkwanga montjamontja ntelalhamara . ’
+40026008	Iwunhangala		Nhanha aramala , Jesuaka kurtungurla ntjarra arrkutja ekura unpaarterraka . Etna ilarraka , “ Iwunhangala era ntira unpa marra nhanha palkala thalaka ?
+40026010	Iwunhangala		Jesuanha kaltja naka etna lakinha angkamanga . Erantama etnanha pmarraka , “ Iwunhangala rrangkarra ekura unpaarterrama ? Erataka nuka kangkintja kngarra ntelalhaka .
+40026015	nthakintjama		Era etnanha pmarraka , “ Atha paka Jesuanha rrakangkarra lanthamanga , money nthakintjama rrangkarra yinganha nthitjina ? ” Ekuralela angkarramaliperra , etna erinha 30 ungkwaltja silver nthaka .
+40026017	Nthanhalama		Marna Ekalhaka ilpangkintjaka arlta arrkurlinyala , Jesuaka kurtungurla ntjarra ekururna pitjimala , erinha pmarraka , “ Nthanhalama unta antja nama nurna Passover tjinkarra erinha ungkwanga urrkaputjika , unta erinha ilkutjinanga ? ”
+40026040	~		Kurtungurla etnakurna pitjalpumala , era etnanha ankwentamanga aritjalhaka . Erantama Peter-anha pmarraka , “ Rrangkarra yarnala kurrka wara nukalela ilkwatharra kaarra nama ?
+40026050	iwukama		Jesualantama Judas-anha pmarraka , “ Tjinai , iwukama unta pitjika ? ”
+40026054	~		Yinga pula ekururna itja enkama , Altjirraka Angkatja Imankinya era nthurrperritjinanga . ”
+40026062a	~		High Priest erantama kamerramala Jesuanha pmarraka , “ Unta itjala angkama artwa nhanha ntjarrala nganha ilparnamanga ? ”
+40026062b	~		
+40026065	Iwunhangantama		Nhanha wumala High Priest-ala mantarra ekuranha tjepakamala etnanha ilaka , “ Era Altjirranha arrampowuka . Iwunhangantama nurna artwaka kuta yonthitjika , erinha ilparnitjika ? Rrangkarrarrpa wuka era Altjirranha arrampowumanga .
+40026066	Nthakinhantama		Nthakinhantama rrangkarra etarlarama ? ”
+40026068	ngunhalama		pmarraka , “ Kristai , nurnanha ilakwia , ngunhalama nganha tuka ? ”
+40027004	~		Erantama etnanha ilaka , “ Arai athataka relha palkinyanha rrakangkarra lanthakala . ”
+40027013	~		Pilate-alantama Jesuanha pmarraka , “ Unta tjukunya kuta wurlanama etna nganha ilparnamanga ? ”
+40027017	Ngunhakama		Relha ingkarraka kala worlantama namanga , Pilate-ala etnanha pmarraka , “ Ngunhakama rrangkarra antja ? Rrangkarra antja atha Barabbas-anha jail-anga rratalhelitjika ? Jesuanha paka althakalthilitjika ? ”
+40027021	ngunhakama		Pilate-alantama relha worla etnanha wotha pmarraka , “ Artwa ngunhakama rrangkarra antja ? ”
+40027022	nthakinhilitjikala		Pilate-alantama etnanha pmarraka , “ Kanha Jesuanhaloa , erinhala rrangkarra Krista alpmelama ? Erinha atha nthakinhilitjikala ? ”
+40027023a	~		Pilate-ala pula etnanha kuta pmarraka , 
+40027023b	Iwunhakakwia		“ Iwunhakakwia ? Era itjama paala ntelalhaka paka . ”
+40027046	iwunhangama		Jesuanhantama ilkarlalhaka , “ Eli , Eli , lama sabachthani ? ” nhanhatitja , “ Altjirra nukai , Altjirra nukai , iwunhangama unta yinganha ipmintja impuka ? ”
+41001024	iwukama		Artwa erantama intarra ilkaka , “ Jesua Nazareth-arinyai , iwukama unta pitjika ? Nurnanha yirralhelitjikama unta pitjika ? Yinga ungkwanga kaltja . Unta kunha Altjirraka Urrpia Alkngaltara Era . ”
+41001027	Iwunhama		Nhanha aramala relha ingkarraka tnolkaka . Etnantama pmarrarraka , “ Iwunhama lakinha ? Erataka nurnanha angkatja arrpunha inthorra kaltjinthama , angkatja ekarltala turta . Era enka korna ntjarranha turta turnamalanga , etna ekura kala kangkwanterrama . ”
+41002007a	Iwunhangala		“ Iwunhangala era lakinha angkama ? Erataka Altjirranha arrampowuma . 
+41002007b	~		Altjirralanta kunha relhaka korna irrpalthala iwuma . ”
+41002008	Iwunhangala		Jesuala kala lhangkaraka etnala eterramalaka . Erantama etnanha pmarraka , “ Iwunhangala rrangkarra lakinha eterrama ? Yinganha nhanha ilai .
+41002009	Iwunhama		Iwunhama rukaralkura nama ? Artwa thaarra nhanha erinha ilitjika , ‘ Atha korna ungkwanganha iwuka ? ’ Erinha ilitjika paka , ‘ Kala kamerrai , ntjama ungkwanganha tjurnai , nthulapai turta ’ ?
+41002016	Iwunhangala		Artwa Intarrangaltha urrputja , etnala Pharisee turta namanga , etna tanhala nakantema . Etna Jesuanha aramalanga relha kornarintja ntjarralela marna ilkumanga , relha tax money kotjinha ntjarralela turta , etna Jesuaka kurtungurla ntjarranha pmarraka , “ Iwunhangala era relha tax money kotjinha ntjarralela marna ilkuma , relha kornarintja ntjarralela turta ? ”
+41002018	Iwunhangala		Arrpunharanga John Kaltjirrpulhelanhelanhaka kurtungurla ntjarra , artwa Pharisee ntjarra turta marnakunya naka . Relha arrpunha ntjarrantama Jesuurna pitjimala erinha pmarraka , “ Iwunhangala John Kaltjirrpulhelanhelanhaka kurtungurla ntjarra , artwa Pharisee ntjarra turta marnakunya nama , kanha kurtungurla ungkwanganha ntjarra itjala marnakunya nama ? ”
+41002019	~		Jesuala etnanha ilaka , “ Artwala noa inamanga , era tjinkarra urrkapuma . Kurunga era tjina ekuranha ntjarranha ntangkama marna ilkutjika . Tjina etnantama yarna marnanga unpulhama , artwa noa inakala , era etnakalela namangantema .
+41002024	Iwunhangala		Artwa Pharisee urrputjalantama Jesuanha pmarraka , “ Iwunhangala kurtungurla ungkwanganhala marna wheat mpakama , Sabbath arltala ? Nhanha kunha itja arratja nama . ”
+41003004	~		Kurunga era etnanha pmarraka , “ Nhanha arratjama nama Sabbath arltala relhaka tangitjala nitjika , relhanha marrilitjika turta ? Nhanha arratjama nama Sabbath arltala relhanha nakapakarlilitjika , kornilitjika paka ? ” Etna pula pmarna kuta naka .
+41003023	~		Jesuanhantama artwa Intarrangaltha ntjarraka ntangkalhaka . Era etnanha ilaka , etnaka yia alpmelamala , “ Satan-ala yarna Satan-anha unpurlenama .
+41003033a	Ngunhama		Jesuala pula etnanha pmarraka , “ Ngunhama mia nuka , 
+41003033b	~		tjia nuka turta nama ? ”
+41004013	Nthakinhantama		Jesualantama etnanha pmarraka , “ Thunga rrangkarra yia artwa nhangiperra yarna lhangkarama , artwa erala marna annga ingkairnakala . Nthakinhantama rrangkarra yia arrpunha ntjarra lhangkaritjina ?
+41004030a	Nthakinhama		Jesuala etnanha pmarraka , “ Nthakinhama relhala lhangkaramara ‘ Altjirranha relha ingkarrakaka Ingkarta namanga ? ’ 
+41004030b	Nthakinha		Nthakinha turtama atha nhanha rrakangkarra nentilamara ? Arai , atha rrakangkarra yia alpmelitjina .
+41004038	~		Jesuanha pula boat ingkarna mpinyala ankwentarlanakala , kartamalala intamala . Kurtungurla ntjarralantama erinha kamalhelamala pmarraka , “ Kaltjinthanhinthanhai , unta kunpala ankwentama nurna ilutjikerramangatanya ? ”
+41004040a	Iwunhangala		Jesualantama kurtungurla ekuranha ntjarranha pmarraka , “ Iwunhangala rrangkarra trerraka ? 
+41004040b	~		Rrangkarra yinganha itjala tnakama ? ”
+41004041	Ngunhama		Etna pula kala kngarralkuratitja trerraka arrkurlangatjina . Etna pmarrarraka , “ Ngunhama artwa nhanha ? Wurinya , kwatja inmarralka kunha ekura kangkwerrama . ”
+41005007	iwukama		Erantama intarra ilkaka , “ Jesuai , Altjirra Kngarra ekura ‘ Lirai , iwukama unta nukurna pitjika ? Yinganha Altjirranga urlarra lhelai , unta yinganha itja rrukunthakunthilitjinala . ”
+41005009	ngunhama		Jesualantama erinha pmarraka , “ Rretnya ngunhama unta ? ”
+41005030	Ngunhalama		Era warta Jesuaka mantarra anpuka , kanha Jesuanha wulhalalhaka era kurrka thaltjerramanga . Erantama relha ntjarranha pmarraka , “ Ngunhalama mantarra nukanha anpuka ? ”
+41005031	Ngunhalama		Kurtungurla ekuranha ntjarrala pula erinha ilaka , “ Iwunhangala unta pmarrama , ‘ Ngunhalama mantarra nukanha anpuka ? ’ Unta yarnala arama relha ntjarra ungkwanganga etinya itnamanga , nganha parlpapauwumanga turta ? ”
+41005035	~		Jesuanha arrkutja ekururna angkamalangantema , urrpia Jairus-aka pmaranga pitjika . Etna Jairus-anha ilaka , “ Kwarra ungkwanga kunha kala itja wotha . Itornka erinha kala impai erarrpa lhitjika . ”
+41005039a	Iwunhangala		Irrpunhamala era etnanha pmarraka , “ Iwunhangala rrangkarra itnima , 
+41005039b	~		nthorrkngerrama turta ? Katjia nhanha itjama errilknga . Era wara ankwentama . ”
+41006002a	Nthanhalama		Sabbath arltalantama , era relha ntjarranha synagogue-ala kaltjinthaka . Etna erinha wumalanga etna tnolkaka , pmarrarraka turta . “ Nthanhalama era angkatja nhanha arrkurla wuka ? 
+41006002b	Nthakinhama		Nthakinhama era kaltja inthorrerraka ? 
+41006002c	Ngunhala		Ngunhala turtama erinha ekarltilaka tjatjikarta urrkaputjika ?
+41006022	Iwunhakama		Etna tjinkarra ilkumalanga , Herodias-aka kwarra pitjimala etnaka nthaperraka . Era etnanha kngarra arrkanilaka turta . Lakinhanga Herod-ala erinha pmarraka , “ Iwunhakama unta antja ? Kala nuka enkai . ”
+41006024	Iwunhakama		Kwarra erantama rratamala mia ekuranhurna lhaka , erinha pmarraka turta , “ Iwunhakama yinga Herod-aka enkitjika ? ”
+41006037	~		Jesuala pula kurtungurla etnanha ilaka , “ Rrangkarratitja etnanha marna ilkutjika nthai . ”
+41006038	nthakintjama		Jesuala etnanhantama pmarraka , “ Marna nthakintjama rrakangkarra intama ? Aritjika lhai . ”
+41007005	Iwunhangala		Artwa Pharisee ntjarrala , artwa Intarrangaltha ntjarrala turtantama Jesuanha pmarraka , “ Iwunhangala kurtungurla ungkwanganha ntjarrala marna ilkuma , iltja ilkngilhitjikanha ? Iwunhanga turtama etna kngarripata ntjarraka mpaarangarangaka itja kangkwerrama ? ”
+41008004	Nthanhalama		Kurtungurla ekuranha ntjarrala pula erinha ilaka , “ Pmara nhanhataka worritja . Nthanhalama nurna marna arltaramara relha nhanha ntjarranha ntuthilitjika ? ”
+41008005	nthakintjama		Erantama etnanha pmarraka , “ Marna nthakintjama rrakangkarra intama ? ” Etna angkaka , “ Marna kurrka 7 . ”
+41008012	Iwunhangama		Jesuanha mpangkaka . Erantama etnanha pmarraka , “ Iwunhangama rrangkarra yinganha kutatha ilama rrangkarranha tjatjikarta ntelitjika ? Atha rrangkarranha nhanha nthurrpa ilama , atha rrangkarranha itja kuta tjatjikarta ntelitjina . ”
+41008017	Iwunhangala		Jesuanha kala kaltja naka angkatja etnala angkarramalaka . Erantama etnanha pmarraka , “ Iwunhangala rrangkarra marniperra angkarrama ? Rrangkarra itjantema angkatja nukanha lhangkarama ? Rrangkarra marntilparla kutakwia ?
+41008018a	Iwunhangantama		Rrangkarra kunha alkngakarta . Iwunhangantama rrangkarra yarna arama ? Rrangkarra kunha ilpakarta ? 
+41008018b	Iwunhangantama		Iwunhangantama rrangkarra yarna wuma ? Rrangkarra marna nhangiperra kngwerrakama ?
+41008019	nthakintjama		Basket nthakintjama rrangkarra marna ungkwaltjakarta lyulpalyulpilaka , atha nhanga artwa 5,000 ntuthilamanga marna 5-ala ? ”
+41008020	nthakintjama		Jesuala etnanha wotha pmarraka , “ Basket nthakintjama rrangkarra marna ungkwaltjakarta lyulpalyulpilaka , atha nhanga relha 4,000 ntuthilamanga marna 7-ala ? ”
+41008021	Iwunhiperrama		Erantama etnanha pmarraka , “ Iwunhiperrama yinga angkama ? Rrangkarra itjantema angkatja nukanha marna ltorlpilanhiperra lhangkarama ? ”
+41008023	~		Artwa erinha iltjanga errkumala , Jesuala erinha town-anga kathurna rretjingaka . Erantama alknga ekuranhaka palha iwuka . Iltja ekuranhantama ekurakarlaka arrarnamala , era artwa panga erinha pmarraka , “ Unta paka aramama ? ”
+41008027	Ngunhama		Jesuanha , kurtungurla ekuranha ntjarra turtantama town kurrka ntjarrurna anpara lhaka , town nhanga etnala pmara Caesarea Philippi-anga etinya namanga . Etna nhanga lhapalhamanga Jesuala kurtungurla ekuranha ntjarranha pmarraka , “ Ngunhama relha ntjarrala ilama yinga kula namanga ? ”
+41008029a	nthakinhala		Jesuala etnanha wotha pmarraka , “ Kanha rrangkarraloa ? Rrangkarra nukiperra nthakinhala etarlarama ? 
+41008029b	Ngunha		Ngunha inthorrama yinga nama ? ”
+41008036	Nthakinhantama		Thunga relhala alha nhanhaka yultha ingkarraka inthorra patilama , Altjirranha etarlaritjikanha . Erantama anma iluma . Nthakinhantama era nitjina ? Era itja ngampakala etatha nitjina .
+41008037	~		Relhala turta yarna Altjirranha money nthama , Altjirrala erinha pmara ekuranhaka irrpulhelitjika , era Altjirraka pmaralantama ngampakala nitjinanga .
+41009010	Iwunhama		Etna kala Jesuaka kangkwerraka . Etna pula pmarrarraka , “ Iwunhama nhanha erala ilakala era kula errilknga ntjarranga kamerritjinala ? ”
+41009011	Iwunhangama		Kurtungurla etnantama Jesuanha pmarraka , “ Iwunhangama artwa Intarrangaltha ntjarrala ilama Elijah-anhakimparra pitjitjika , kurunganta Kristanha ? ”
+41009012	Iwunhanga		Jesuala etnanha ilaka , “ Nthurrpa Elijah-anhakimparra pitjitjika , relha ingkarrakanha arratjilitjika . Iwunhanga pula Altjirraka Angkatja Imankinyala ilama Relhaka ‘ Lira era kngarra nyingalauwutjika , relha ntjarra turta ekura antjakunyerritjika ?
+41009016	Iwunhiperrama		Erantama etnanha pmarraka , “ Iwunhiperrama rrangkarra angkatjala iwurrama ? ”
+41009019a	~		Jesuala etnanha ilaka , “ Rrangkarrataka arrthata , rrangkarra turta Altjirranha itja tnakama . Kuta inthorrama yinga rrakangkarralela nitjika , 
+41009019b	~		rrangkarranha kaltjinthitjika turta ? Rrangkarrataka yinganha porrkaporrkilama . Worra erinha nukurna kngitjai . ”
+41009021	Ilangara		Jesualantama worraka kaarta erinha pmarraka , “ Ilangara inthorrama worra era lakinherraka ? ”
+41009028	Iwunhangama		Anma , Jesuanha kala ilthaka irrpukalangantama , etnanta turtantama namalanga , kurtungurla ntjarrala erinha pmarraka , “ Iwunhangama nurna enka korna erinha yarna unpuka ? ”
+41009033	Iwunhiperrama		Jesuanha , kurtungurla ekuranha ntjarra turtantama Capernaum-akerritjalhaka . Iltha ekuranhurna irrpunhamala , Jesuala kurtungurla ekuranha ntjarranha pmarraka , “ Iwunhiperrama rrangkarra tjaiyala iwurraka ? ”
+41009050	~		“ Peinta kunha marra nama . Thunga pula peinta era kornerraka . Relhala erinha yarna wotha marrilama .
+41010003	Iwunhama		Jesuala etnanha pmarraka , “ Iwunhama Moses-ala rrangkarranha turnaka ? ”
+41010017	Nthakinhama		Jesuanha wotha anparerraka . Artwa nyintantama ekururna arrtjanentjika , ekuranga urlarra mparalela arrarnalhaka turta . Erantama Jesuanha pmarraka , “ Kaltjinthanhinthanha unta kunha artwa marra . Untantama yinganha ilai , Nthakinhama yinga ntelalhitjika , yinga Altjirraka pmarala ngampakala etatha nitjinanga ? ”
+41010018	Iwunhangala		Jesuala erinha pmarraka , “ Iwunhangala unta ilama yinga kula artwa marra namanga ? Altjirra nyintanta kunha marra .
+41010026	ngunhanhantama		Angkatja nhanha wumala , kurtungurla ntjarra kngarralkura tnolkaka . Etnantama erinha pmarraka , “ Relha ngunhanhantama Altjirrala irrpalthala tangkalhelamara ? ”
+41010036	Iwunhakantama		Jesuala erinhatharra pmarraka , “ Iwunhakantama mpala antja ? ”
+41010051	Iwunhangala		Jesualantama erinha pmarraka , “ Iwunhangala unta nuka ilkaka ? ”
+41011003	Iwunhangala		Thunga arrpunhala mpalanha pmarritjina , ‘ Iwunhangala mpala donkey erinha kngama ? ’ Mpala erinha ilai , ‘ Ingkartanha kunha ekura antja . Ingkartala turta erinha parrpa yairnitjalputjina . ’ ”
+41011005	Iwunhangala		Relha urrputja ntjarra ngerra lenhala itnarlanaka . Etnakanga urrputja arrpunhala pmarraka , “ Iwunhangala mpala donkey erinha kngama ? ”
+41011028a	Ngunhalama		Etna erinha pmarraka , “ Ngunhalama nganha ingkairnaka artwa ntjarranha temple-anga unputjika ? Nhanha ungkwangathaka namama ? 
+41011028b	Ngunhala		Ngunhala turtama nganha turnaka relha ntjarranha kaltjinthitjika ? ”
+41011030	Ngunhalama		Rrangkarra yinganha ilai , “ Ngunhalama John-anha turnaka relha ntjarranha kaltjirrpulhelitjika ? Thunga Altjirrala ? Thunga relhala paka ? ”
+41011031a	~		Nhanhiperra eterramala , etna lakinha ilarraka . “ Nurna paka erinha ilamanga , Altjirrala erinha turnakala , era nurnanha ilitjina , 
+41011031b	Iwunhangantama		‘ Iwunhangantama rrangkarra erinha itja tnakaka ? ’
+41012009	Nthakinhama		Jesualantama etnanha pmarraka , “ Nthakinhama rrangkarra etarlarama ? Tnukulpakurtwia era kunha yirrknga inthorra nitjina . Erantama pitjimala artwa nhanha etnanha errilknga tutjina . Kurunga era tnukulpa erinha arrpunha ntjarranhantama nthitjina ekura ntarntaritjika .
+41012015	~		Nhanha turtama arratja nama nurna tax money nthitjika ? ”
+41012016a	Ngunhaka		Etnantama erinha money ungkwaltja nyinta nthaka . Erantama etnanha pmarraka , “ Ngunhaka ntolyama money ekurala nama ? 
+41012016b	Ngunhaka		Ngunhaka rretnya turtama money ekurala nama ? ”
+41012023	ngunhaka		Anma Altjirrala relha ingkarrakanha kamalhelamanga , ngunhaka noantama arrkutja era nitjina ? Kanhanganhanga 7-ala kunha erinha noa tnyinakala . ”
+41012028	~		Jesuanha artwa Sadducee ntjarralela iwurramalangantema , artwa Intarrangaltha nyinta Jesuurna pitjika . Era wuka Jesuala artwa Sadducee etnanha arratja kuta ilamanga . Erantama Jesuanha pmarraka , “ Yinganha Altjirraka turnintja kngarra erinha ilai . ”
+41012035	Nthakinha		Jesuala relha ntjarranha temple-ala kaltjinthamalanga , era etnanha ilaka , “ Artwa Intarrangaltha ntjarrala ilama Kristanha David-aka ‘ lira namanga . Nthakinha inthorrantama era David-aka ‘ lira nama ?
+41012037	nthakinhantama		David-ala paka Kristanha Ingkarta kakalanga , nthakinhantama Kristanha David-aka ‘ lira nama ? ”
+41013004a	ilangarama		“ Nurnanha ilai , ilangarama lakinherritjina ? 
+41013004b	Nthakinha		Nthakinha turtama nurna kaltja nitjina leltja etna pitjitjikerramanga , iltha nhanha etnanha ungkwaltjilitjika ? ”
+41014004	Iwunhangala		Nhanha aramala , relha urrputja arrpunha arrkutja ekura unpaarterraka . Etna lakinha ilarraka , “ Iwunhangala era ntira unpa marra inthorra nhanha palkala wara thalaka ?
+41014006	Iwunhangala		Jesuala pula etnanha ilaka , “ Erinha impai . Iwunhangala rrangkarra ekura unpaarterrama ? Erataka nuka kangkintja kngarra ntelalhaka .
+41014012	Nthanhalama		Marna Ekalhaka ilpangkintjaka arlta arrkurlinyala , etna Passover lamb etnanha tuka . Jesuaka kurtungurla ntjarralantama erinha pmarraka , “ Nthanhalama unta antja nama nurna Passover tjinkarra erinha ungkwanga urrkaputjika , unta erinha ilkutjinanga ? ”
+41014014	Nthanhama		Iltha ekururnala era irrpunhama , mpala irrpunhaintema , ilthakurtwia ekururna turta lakinha angkai , ‘ Kaltjinthanhinthanhala nganha pmarrama , Nthanhama room nuka , ekuralala atha Passover erinha ilkumara , kurtungurla nukanha ntjarralela ? ’
+41014060a	~		High Priest erantama kamerramala Jesuanha pmarraka , arrpunha ntjarranga alkngatharra . “ Unta itjala angkama , 
+41014060b	~		artwa nhanha ntjarrala nganha ilparnamanga ? ”
+41014063	Iwunhangantama		Nhanha wumala , High Priest era mantarra ekuranha tjepakamala , etnanha ilaka , “ Iwunhangantama nurna artwaka kuta yonthitjika , erinha ilparnitjika ?
+41014064	Nthakinhantama		Rrangkarrarrpa wuka era Altjirranha arrampowumanga . Nthakinhantama rrangkarra etarlarama ? ” Etna ingkarrakala erinha imilaka .
+41015004	~		Pilate-alantama erinha wotha pmarraka , “ Unta etnanha tjukunyalama wurlanama ? Etna pula nganha kngarra inthorra ilparnama . ”
+41015012	nthakinhilitjikala		Pilate-alantama etnanha wotha pmarraka , “ Jesuanhaloa ? Erinhala rrangkarra ilama era relha Jew ntjarraka king namanga . Atha erinha nthakinhilitjikala ? ”
+41015014a	~		Pilate-ala pula etnanha wotha pmarraka , 
+41015014b	Iwunhakakwia		“ Iwunhakakwia ? Era itjama paala ntelalhaka paka . ”
+41015034	iwunhangala		Jesuanhantama ilkarlalhaka , “ Eloi , Eloi , lama sabachthani , ” nhanhatitja , “ Altjirra nukai , Altjirra nukai , iwunhangala unta yinganha ipmintja impuka ? ”
+41016003	Ngunhalantama		Tjaiyala lhapalhamala etna lakinha pmarrarraka , “ Ngunhalantama nurnaka parta kngarritja nhanga wolkngaka reoanga ankartiwutjina ? ”
+42001018	Nthakinhantama		Zechariah-alantama angel erinha pmarraka , “ Nthakinhantama atha angkatja ungkwanganha tnakamara ? Yinga kala kngarripatakwia nama , noa nuka , era turta ingkwiantema nama . ”
+42001034	Nthakinhantama		Mary-alantama angel erinha pmarraka , “ Nthakinhantama nuka katjia intitjina ? Yingataka artwaka kotna . ”
+42001043	~		Yingantama arrkana inthorra nama Ingkarta nukanhaka mia nukurna yatjarra pitjikalanga .
+42001066	nthakinhama		Relha nhanha etnantama yia nhanhiperra kuta eterralanaka . Etna turta pmarrarraka , “ Katjia nhanha nthakinhama erritjina ? ” Etna lhangkarakakwia Ingkartala erinha kaaramanga .
+42002048	iwunhangama		Erinha temple kwanaka aritjalhamala , kaltjinthanhinthanha ntjarranga mpopala , Joseph tharra tnolkaka . Mia ekuranhalantama erinha pmarraka , “ Worra nukai , iwunhangama unta ilirnanha lakinhilaka ? Ilirnataka enkakunya inthorrerramala ungkwanga yonthalapuka . ”
+42002049	Iwukala		Era pula erinhatharra ilaka , “ Iwukala mpala nuka yonthaka ? Mpala kaltja neikanha yinga Kaarta nukanhaka ilthala namanga . ”
+42003007	Ngunhalama		Relha ntjarrantama John-urna pitjika , era etnanha kaltjirrpulhelitjika . Era pula etnanha ilaka , “ Apma ngerra ntjarrai ! Ngunhalama rrangkarranha ilaka rrangkarra kula Altjirraka aa kngarranga erruntarerritjinala ?
+42003010	Nthakinhantama		Relha etnantama John-anha pmarraka , “ Nthakinhantama nurna urlarrakurlarra ntelalhitjika ? ”
+42003012	nthakinha		Artwa tax money kotjinha turta ekururna pitjika , era etnanha kaltjirrpulhelitjika . Etna erinha pmarraka , “ Kaltjinthanhinthanhai , nurna paka nthakinha ntelalhitjika ? ”
+42003014a	~		Tjapartia ntjarrala erinha pmarrakantema , “ Nurnaloa ? 
+42003014b	nthakinhala		Nurna nthakinhala ntelalhitjika ? ”
+42004034	iwukama		“ Yai , Jesua Nazareth-arinyai , iwukama unta pitjika ? Nurnanha yirralhelitjikama unta pitjika ? Yinga ungkwanga kaltja . Unta kunha Altjirraka urrpia Alkngaltara Era . ”
+42004036	~		Nhanha aramala , relha ingkarraka tnolkaka , ilarraka turta , “ Angkatja ekuranha kunha ekarlta inthorra . Era enka korna ntjarranha relhanga unpurlenamanga , etna kala rratamanta . ”
+42005021a	Ngunhama		Artwa Intarrangaltha etna , artwa Pharisee etna turta pula lakinhala eterraka , “ Ngunhama artwa nhanha ? Era Altjirranha arrampowuma . 
+42005021b	~		Altjirralanta kunha relhaka korna irrpalthala iwuma . ”
+42005022	Iwunhangala		Jesuanha kala kaltja naka etnala eterramalaka . Erantama etnanha pmarraka , “ Iwunhangala rrangkarra lakinha eterrama ?
+42005023	iwunhama		Yinganha ilai paka , iwunhama rukaralkura nama ? Atha paka artwa nhanha erinha ilitjika , ‘ Atha korna ungkwanganha iwuka ? ’ Atha paka erinha ilitjika , ‘ Kamerrai , nthulapai turta ? ’
+42005030	Iwunhangala		Artwa Pharisee urrputja , artwa Intarrangaltha urrputja turtantama Jesuaka kurtungurla ntjarrurna wannga angkaka , “ Iwunhangala rrangkarra tax money kotjinha ntjarralela , kornarintja arrpunha ntjarralela turta tjinkarra ilkuma ? ”
+42005033	Iwunhangala		Relha urrputjala Jesuanha pmarraka . “ John-aka kurtungurla ntjarra kutatha ngerra marnakunya nama , Altjirrurna ingkama turta . Artwa Pharisee-aka kurtungurla ntjarrala lakinhilamantema . Kanha kurtungurla ungkwanganha ntjarra itja kutala marnakunya nama . Iwunhangala ? ”
+42005034	~		Jesuala etnanha ilaka , “ Artwala noa inamanga , era tjinkarra urrkapuma . Kurunga era tjina ekuranha ntjarranha ntangkama marna ilkutjika . Tjina etnantama yarna marnanga unpulhama , artwa noa inakala era etnakalela namangantema .
+42006002	Iwunhangala		Artwa Pharisee urrputjalantama etnanha pmarraka , “ Iwunhangala rrangkarra Sabbath arltala marna wheat mpakama , iltjala thurruma turta ? Nhanha kunha itja arratja nama . ”
+42006009	~		Jesualantama relha etnanha pmarraka , “ Nhanha arratjama nama Sabbath arltala relhaka tangitjala nitjika , relhanha marrilitjika turta ? Nhanha arratjama nama relhanha Sabbath arltala nakapakarlilitjika , kornilitjika turta ? ”
+42006032	Iwunhangama		“ Iwunhangama Altjirrala rrangkarranha kwartiwutjika , rrangkarra paka tjina rrakangkarranhakanta kangkamanga ? Relha kornarintja ntjarra pula tjina etnakanhaka kangkamantemala .
+42006033	Iwunhangama		Iwunhangama Altjirrala rrangkarranha kwartiwutjika , rrangkarra paka relha etnakanta tangitjala namanga , etnala rrakangkarra turta tangitjala namanga ? Relha kornarintja ntjarra pula tjina etnakanhaka tangitjalantema namala .
+42006034	Iwunhangama		Iwunhangama Altjirrala rrangkarranha kwartiwutjika , rrangkarra paka etnanhanta yultha lyartaka wara nthamanga , etnala rrangkarranha yultha nthitjalputjinala ? Relha kornarintja ntjarrala pula tjina etnakanha yultha lyartaka wara nthamantema , etnakanga yultha wotha initjinala warta .
+42006039	~		Jesuala etnanha yia nhanha turta ilaka , “ Relha pangala kunha relha panga arrpunhanha yarna arratja rretjingama . Eratharra kala tharrantema ipartaka tnyitjina .
+42006041	Nthakinhala		“ Nthakinhala unta lyaka kurrka erinhanta katha arama , erala tjina tnakanhakanha ungkwanganhaka alkngala intamanga ? Kanha irna thaaka erala alknga ungkwanganhala intamanga , unta itjala arama ?
+42006042	Nthakinha		Nthakinha turtama unta tjina ungkwanganhurna angkama , ‘ Tjinai , yinganha impurlarrarnai lyaka kurrka erinha alknga ungkwanganhanga urlpuntjitjika ? ’ Arai , unta irna thaaka erinha alknga ungkwanganhala itja arama . Nthakinhantama unta lyaka kurrka erinha tjina ungkwanganhaka alkngala arama ? Relha pmathai , unta irna thaaka erinha alknga ungkwanganhangarrka urlpuntjai . Kurunga unta lyaka kurrka erinha , erala tjina ungkwanganhaka alkngala intamanga , katha aritjina , erinha irrpalthala urlpuntjitjina turta . ”
+42006046	Iwunhangala		“ Iwunhangala rrangkarra yinganha ‘ Ingkartai , Ingkartai ’ anparnama ? Rrangkarra itjama nuka kangkwerrama .
+42007024	ngunha		John-aka kurtungurla tharra kala alpurrakalangantama , Jesuanha relha ntjarrurnantama angkaka , John-iperra . Era etnanha pmarraka , “ Artwa ngunha ngerranhama rrangkarra nhanga worritjurna lhaka , aritjika ? Artwa tjakatjaka , pmoltatja ngerra ngalhamanga wurinyala warnamanga ? Itja kunha .
+42007025	ngunha		Artwa ngunha ngerranhantama rrangkarra lhaka , aritjika ? Artwa mantarra marra inthorraka ekarralhakalaka ? Itja kunha . Relha etnala mantarra marra inthorraka ekarralhakala , etna kunha king-akanha pmarala nama , arltamarlta tulhama turta .
+42007026	ngunha		Artwa ngunha ngerra inthorranhantama rrangkarra lhaka , aritjika ? Altjirraka urrpia ? Era nthurrpa Altjirraka urrpia naka . Era pula Altjirraka urrpia ingkarrakanga kngarralkura naka .
+42007031a	ngunha		Jesualantama etnanha pmarraka , “ Relha ngunha ngerrama rrangkarra ?
+42007031b	~		
+42007042	ngunha		Eratharra , tharralantema erinha yarna money nthitjalpumanga , era kala artwa ekuratharraka lhelintja urrparakanta . Simon untantama yinganha ilai , ekuratharranga ngunha paka ekura kngarralkura kangkitjina ? ”
+42007049	Ngunhama		Relha arrpunha ntjarra pula , etnala marnaka pitjikalantema , etna lakinhala pmarrarraka , “ Ngunhama artwa nhanha , erala relhaka korna kala iwumanta ? ”
+42008025a	Iwunhangala		Jesualantama kurtungurla etnanha pmarraka , “ Iwunhangala rrangkarra yinganha itja tnakama ? ”
+42008025b	~		
+42008028	iwunhangama		Jesuanha aramala , artwa era ilkarlalhaka , Jesuanga urlarra mparalela turta arrarnalhaka . Erantama intarra ilkaka , “ Jesuai , Altjirra Kngarra ekura ' Lirai , iwunhangama unta nukurna pitjika ? Yinga ungkwangurna ingkama , unta yinganha itja rrukunthakunthilitjika . ”
+42008030	ngunhama		Jesualantama artwa erinha pmarraka , “ Rretnya ngunhama unta ? ”
+42008045	Ngulama		Jesualantama relha ntjarranha pmarraka , “ Ngulama yinganha anpuka ? ”
+42009009a	Ngunhantama		Herod-anha pula angkaka , “ Atha nhanga arrpunha ntjarranha turnaka John-aka kapurta inturnitjika . Ngunhantama artwa arrpunha nhanha , 
+42009009b	~		ekuriperrala atha yia kngarra inthorra wuma ? ” Erantama antja inthorra naka Jesuanha aritjika .
+42009018	Ngunhama		Arrpunharanga , Jesuanha Kaarta ekuranhurna ingkaka . Kurtungurla ekuranha ntjarra ekuralela nakantema . Kurunga Jesuala etnanha pmarraka , “ Ngunhama relha ntjarrala ilama yinga namanga ? ”
+42009020a	nthakinhala		Jesualantama etnanha wotha pmarraka , “ Kanha rrangkarraloa ? Rrangkarra nukiperra nthakinhala etarlarama ? 
+42009020b	Ngunha		Ngunha inthorrama yinga ? ”
+42009025	Nthakinhantama		Thunga relhala Altjirranha etarlaritjikanha yultha ingkarraka inthorra patilama . Erantama anma iluma . Nthakinhantama era nitjina ? Era itja ngampakala etatha nitjina .
+42009041a	~		Jesualantama etnanha ilaka , “ Rrangkarrataka arrthata , rrangkarra turta Altjirranha itja tnakama . Kuta inthorrama yinga rrakangkarralela nitjika , 
+42009041b	~		rrangkarranha kaltjinthitjika turta ? Rrangkarrataka yinganha porrkaporrkilama . ”
+42010025	nthakinhama		Arai , artwa Intarrangaltha nyintantama kamerramala Jesuanha arrkarnamala pmarraka , “ Kaltjinthanhinthanhai , nthakinhama yinga ntelalhitjika yinga Altjirraka pmarala ngampakala etatha nitjinanga ? ”
+42010026a	Iwunhama		Jesuala erinha pmarraka , “ Iwunhama Altjirraka Angkatjala ilama ? 
+42010026b	Nthakinha		Nthakinha unta ekurala read-erraka ? ”
+42010029	~		Artwa Intarrangaltha era etarlaraka era kula turnintja nhanha tharraka kala arratja kangkwerramanga . Lakinhanga era Jesuanha wotha pmarraka , “ Relha Lorinyaka turtama yinga kangkintja ntelalhitjika ? ”
+42010036a	Nthakinhantama		Jesualantama artwa Intarrangaltha erinha pmarraka , “ Nthakinhantama unta etarlarama ? 
+42010036b	ngunha		Artwa tharraminyinta nhanha etnakanga , etnala artwa maamakarta erinha tjaiyaka arakala , ngunha paka ekura kangkintja ntelalhaka ? ”
+42011008	~		“ Atha rrangkarranha iliai , ” Jesuanha kuta angkaka , “ tjina ungkwanganhala nganha itja marna nthitjina unta tjina ekuranha namanga . Era pula kamerramala nganha marna nthitjina , unta erinha kuta pmarralanamanga warta .
+42011011	~		“ Unta paka kaarta namanga , ' lira ungkwanga turta kara irrpanngaka enkamanga , unta erinha apma nthitjina ?
+42011012	~		Era paka kara kwartaka enkamanga , unta erinha tnatatha nthitjina ? Itja kunha .
+42011013	~		Relha korna rrangkarra , rrangkarra kaltja ' lira rrakangkarranha yultha marra nthitjika . Wothalkura Kaarta Alkirarinyala Enka Alkngaltara erinha rrakangkarrurna yairnitjina , rrangkarra ekururna ingkamanga . ”
+42011018	Nthakinhantama		Satan-ala paka enka korna ntjarranha unpurlenamanga , Satan-aka worla turta kala leltjakaleltjerrakala nama . Etna turtantama yirritjinantema . Nthakinhantama rrangkarra angkama atha kula errintja ntjarranha unpurlenamanga , Beelzebul-ala yinganha ekarltilakalanga ?
+42011019	Ngunhalantama		Arai , rrangkarra angkama atha kula enka korna ntjarranha unpurlenama , Beelzebul-ala yinganha ekarltilakalanga . Ngunhalantama rrangkarranha ekarltilama enka korna etnanha unpurlenitjika ?
+42012014	~		Jesuala pula erinha ilaka , “ Artwai , etna yinganha itjama ingkairnaka yultha errarnpalhelitjika . ”
+42012017	~		Artwa erantama eterraka , ‘ Nuka kunha marna kngarra inthorra . Kanha marnakanha iltha nukanha urrputja inthorrarrpala . ’
+42012020	Nthakinhantama		“ Altjirrala pula erinha ilaka , ‘ Artwai untataka rirta . Arai , ingwa lyartantema unta ilutjina . Nthakinhantama marnalka , yulthalka ungkwanganhala nganha tangkalhelitjina ? ’
+42012024	~		Ngapa ntjarranha rrangkarra etarlarama ? Etna itjama annga ingkairnama . Etna turta itja marna annga kotjima . Etna itja marna ilthaka patilama . Kanha Altjirrala etnanha kalantemala ntuthilama . Rrangkarra kunha thepa etnakanga tjiparralkura nama .
+42012025	~		Rrakangkarranga nyinta paka kutalkura etatha nitjina , kngarra etarlaramala ? Itja kunha .
+42012026	Iwunhangantama		Rrangkarrataka yarna kurrka wara wotha etatha nama , thakerramala . Iwunhangantama rrangkarra marnakalka , mantarrakalka kngarra thakerrama ?
+42012042	Ngunhama		Ingkartala erinha ilaka , “ Ngunhama urrkapunhapunha ilporatha pa inangkarla era , erinhala itornka ekuranhala ingkairnitjinala urrkapunhapunha arrpunha ntjarranha marna etnakanha arratja kuta nthetnitjika ?
+42012049	~		“ Yinga pitjika alha nhanha urala etitjika ngerra . Ura erantama kala mpeikanhanta .
+42012056	~		Relha marntilparla ntjarrai . Mataralka aramala rrangkarra kala lhangkarama kwatjala paka nhitjinala . Arai , atha kala tjatjikarta rrakangkarra urrkapuka . Rrangkarra pula etnanha itjala lhangkaraka .
+42012057	~		“ Rrangkarra rirta ntjarrama ? Rrangkarra itjala kaltja arratja ntelalhitjika ?
+42013004	~		Rrangkarra ilpangkamama relha 18 nhangaka , etnala Siloam-ala ilukala , irna kwatjakanha etnakarlaka tnyimalanga ? Thunga rrangkarra etarlarama etna kula kornalkura nakala relha Jerusalem-arinya arrpunha ntjarrangatjina .
+42013007	~		Artwa erantama urrkapunhapunha ekuranha ilaka , ‘ Arai , yinga kala 3 years-ntama marnaka pitjikala . Atha turta marnaka yarna kuta yonthaka . Kala irna tjurrka erinha inturnai , era palkala wara mangkamanga . ’
+42013015	~		Ingkartala pula erinha ilaka , “ Pmathai . Ungkwanga bullock paka namanga , donkey paka , unta kunha erinha Sabbath-ala turta ilumala kwatjurna rretjingama .
+42013018a	Nthakinhama		Jesuala etnanha pmarraka , “ Nthakinhama relhala lhangkaramara Altjirranha kala relha ingkarrakaka Ingkarta nama ? 
+42013018b	Nthakinha		Nthakinha turtama atha nhanha rrakangkarra nentilamara ?
+42013020	Nthakinhama		Jesuala etnanha wotha pmarraka , “ Nthakinhama relhala lhangkaramara Altjirranha kala relha ingkarrakaka Ingkartanamanga ? Nthakinha turtama atha nhanha rrakangkarra nentilamara ?
+42013025	~		Anma ilthakurtwia era kamerramala reoa erinha kala twantitjinantama . Rrangkarrantama kathalantema itnamanga , rrangkarra kathala kuta itnatjina . Rrangkarrantama reoa iltaratumala angkitjina , ‘ Ingkartai , nurnaka altjurilai . ’
+42014005	~		Kurunga era etnanha pmarraka , “ Thunga worra ungkwanga paka , bullock ungkwanga paka ipartaka tnyima , Sabbath arltala . Unta kunha erinha Sabbath arltalantema parrpa urlpuntjima . ”
+42014028	~		“ Thunga rrakangkarranga arrpunhala iltha kngarritja ititjika antja nama . Era kunha arrkurla pmarralhama ekura paka money intamanga iltha erinha ititjika , itja tjontitjikanta .
+42014031	~		“ Thunga king nyinta king arrpunhalela turritjika antja . Ekura pula tjapartia 10,000 wara nama . Kanha king arrpunha ekura tjapartia 20,000-ala nama . King tjapartia 10,000-akarta era arrkurla pmarralhitjika era paka king tjapartia 20,000-akartanha irrpalthala pmakwinamara .
+42014034	~		“ Peinta kunha marra . Peinta era pula kornerrakalanga , relhala erinha yarna wotha marrilama .
+42015004	~		“ Arai , thunga ungkwanga 100 sheep intama . Sheep nyinta turtantama pairlperrama . Unta kunha 99 etnanha kathaka impurlalhama . Untantama sheep nyinta ekura yonthama unta erinha arltaritjinalpula .
+42015008	~		“ Yia arrpunha nhanha turta wai . Thunga arrkutjaka money tjiparra 10 intama . Erantama money nyinta pairlpilama . Era kunha irna alknganthakanha ekuranha etama . Erantama iltha ekuranha ilkngima . Era turta money ekura montjala yonthama , era erinha arltaritjinalpula .
+42015026	Nthakinherramai		Erantama urrkapunhapunha nyintaka ntangkalhaka , erinha pmarraka turta , ‘ Nthakinherramai ? ’
+42015029	~		Era pula kaarta ekuranha ilaka , ‘ Arai , yinga ungkwanga kuta urrkapuka , ungkwanga arratja kangkwerraka turta . Unta pula yinganha itja billy goat kurrka nyinta paka nthaka , yinga tjina nukanha ntjarralela arrkanerritjika , tjinkarra ilkumala .
+42016002	nthakinhamilaka		Artwa netaneta erantama urrkapunhapunha nhanha ekura ntangkalhaka . Era erinha ilaka , ‘ Athataka yia korna ungkwangiperra wuma . Yultha nukanha unta nthakinhamilaka ? Kala nhanha ingkarraka pepaka intalhelai . Lyarta atha nganha kala unputjinantama . ’
+42016003	nthakinhamerritjina		“ Urrkapunhapunha nhanha erantama eterraka . ‘ Yinga nthakinhamerritjina ? Itornka nukanhala kunha yinganha unputjina . Atha yarna iparta tnyama , yinga relha thaltjanga warta . Yinga turta errakarrerrama marnaka enkitjika .
+42016005	Nthakintjama		“ Urrkapunhapunha erantama artwa lenha ntjarraka ntangkalhaka , etnala itornka ekuranha yulthalka owe-emilamanga . Erantama artwa nyintanha pmarraka , ‘ Nthakintjama unta itornka nukanha owe-emilama ? ’
+42016007	nthakintjala		“ Kurunga urrkapunhapunha era artwa arrpunhanhantama pmarraka , ‘ Untaloa ? Unta itornka nukanha nthakintjala owe-emilama ? ’
+42016011	~		Rrangkarra paka relhaka yultha yarna arratja ntarntaramanga , rrangkarra Altjirraka yultha turta yarna arratja ntarntaritjina .
+42016012	~		Altjirrala rrangkarranha itja yultha ekuranha nthitjina , rrangkarra ntarntaritjika , rrangkarra relha arrpunhaka yultha itja arratja ntarntarakalanga .
+42017007	~		“ Thunga urrkapunhapunha ungkwanganha arlta ntjapara tnukulpala urrkapuma , arna urlpelamala , sheep paka tnairnamala . Kurunga era ilthurna pitjalpuma . Unta paka erinha ilitjina , ‘ Kala iltjerramala arrarnalhai . ’
+42017017	~		Jesuanhantama angkaka , “ Atha nhanga artwa 10 marrilaka . Artwa 9 arrpunha etnaloa ?
+42017018	~		Kala Relha Lorinya nyinta nhanhantakwia pitjalpuka Altjirranha tnantjitjika ? ”
+42017020	Ilangarama		Artwa Pharisee urrputjalantama Jesuanha pmarraka , “ Ilangarama Altjirranha pitjitjina relha ingkarrakaka ntelalhitjika era Ingkartanamanga ? ” Jesuala etnanha ilaka , “ Rrangkarra nhanha yarna alkngala arama , Altjirranha pitjimanga relha ingkarrakaka ntelalhitjika era Ingkartanamanga .
+42017037	nthanhalama		Jesuaka kurtungurla ntjarralantama erinha pmarraka , “ Ingkartai , nthanhalama lakinherritjina ? ”
+42018018	nthakinhama		Artwa itornkala Jesuanha pmarraka , “ Kaltjinthanhinthanhai , unta kunha artwa marra . Untantama yinganha ilai , nthakinhama yinga ntelalhitjika , yinga Altjirraka pmarala ngampakala etatha nitjinanga ? ”
+42018019	Iwunhangama		Jesuala erinha pmarraka , “ Iwunhangama unta yinganha ilama yinga kula artwa marra namanga ? Altjirra nyintanta kunha marra .
+42018026	ngunhanhantama		Angkatja nhanha wumala , relha ntjarra lakinha pmarrarraka , “ Relha ngunhanhantama Altjirrala irrpalthala tangkalhelamara ? ”
+42018036	Nthakinherramai		Artwa panga era wuka relha ntjarra anpara lhamanga . Erantama relha etnanha pmarraka , “ Nthakinherramai ? ”
+42018041	Iwunhangama		“ Iwunhangama unta nuka ilkaka ? ”
+42019007	~		Relha ntjarrala pula nhanha aramalanga , etna ingkarraka wannga angkaka , “ Erataka lhaka artwa kornarintjalela yatjarra narlalputjika . ”
+42019023	~		Untantama money nukanha bank-aka arrarneikanha . Unta paka lakinhilakalanga , pitjalpumala atha money nukanha initjalpumara , kngarrerrakala . ’
+42019031	Iwunhangama		Arrpunhala paka mpalanha pmarramanga , ‘ Iwunhangama mpala donkey erinha kngama ? ’ Mpala erinha alpmelai , ‘ Ingkartanha kunha ekura antja . ’ ”
+42019033	Iwunhangala		Eratharra rope erinha ilumalanga , donkey-akakurtwiala erinhatharra pmarraka , “ Iwunhangala mpala rope erinha iluma ? ”
+42020002a	Ngunhalama		Etna erinha pmarraka , “ Ngunhalama nganha turnaka relha ntjarranha kaltjinthitjika ? 
+42020002b	Ngunhala		Ngunhala turtama nganha turnaka relha ntjarranha Yia Marra erinha ilitjika ? ”
+42020005a	~		Etnantama angkarraka . “ Nurna paka ilamanga , ‘ Altjirrala erinha turnakala , ’ era nurnanha pmarritjina , 
+42020005b	Iwunhangantama		‘ Iwunhangantama rrangkarra erinha itja tnakaka ? ’
+42020013	~		Kurtwia erantama lakinha eterraka , “ Atha kala worra nukanha etnakurna yairnitjina , worra nhanga ekurala yinga kngarra kangkama . Etna kala ekura kangkwerritjina . ”
+42020015	~		Etnantama erinha errkuka , tnukulpanga kathurna iwuka , errilknga tuka turta .
+42020017	~		Jesuala pula etnanha intarra aramala ilaka , “ Rrangkarra kunha kala kaltja Altjirraka Angkatja Imankinyalala ilama ,
+42020023	~		Jesuala lhangkaraka etna erinha pmathala wara pmarramanga . Erantama etnanha ilaka ,
+42020024a	Ngunhaka		“ Yinganha tax money ungkwaltja ntelai . Ngunhaka ntolyama money ekurala nama ? 
+42020024b	Ngunhaka		Ngunhaka rretnya turtama money ekurala nama ? ”
+42020033	ngunhaka		Anma Altjirrala relha errilknga ingkarrakanha kamalhelamanga , ngunhaka noantama arrkutja era nitjina ? Kanhanganhanga 7-ala kunha erinha noa tnyinakala . ”
+42020041	Nthakinha		Jesuala etnanhantama pmarraka , “ Etna ilama Kristanha David-aka ' lira namanga . Nthakinha inthorrama era David-aka ' lira nama ?
+42020044	nthakinhantama		David-ala paka Kristanha Ingkartakakalanga , nthakinhantama Kristanha David-aka ' lira nama ? ”
+42021007a	ilangarama		Arrpunha ntjarralantama Jesuanha pmarraka , “ Kaltjinthanhinthanhai , ilangarama lakinherritjina ? 
+42021007b	Nthakinha		Nthakinha turtama nurna kaltja nitjina leltja etna pitjitjikerramanga , iltha nhanha etnanha ungkwaltjilitjika ? ”
+42022009	Nthanhakama		Eratharra pula erinha pmarraka , “ Nthanhakama unta antja nama ilirna Passover tjinkarra erinha urrkaputjika ? ”
+42022011	~		Kurunga mpala ilthakakurtwia erinha ilitjika , ‘ Kaltjinthanhinthanhala nganha pmarrama , “ Nhanhama room era , ekurala atha Passover tjinkarra erinha ilkumara , kurtungurla nukanha ntjarralela ? ’ ”
+42022027	Ngunha		Thunga artwa tharra nama . Nyinta kala kunpa arrarnalhama marna ilkutjika . Kanha arrpunha urrkapuma , artwa ekura marna thitjikala . Artwa nhanha tharranga , Ngunha paka artwa arrpunhaka itornka nama ? Artwa era kunha , erala kunpa arrarnalhamala marna ilkumanta . Arai , yinga kunha rrakangkarra ntelalhama artwa urrkapunhapunha era ngerra .
+42022046	Iwunhangala		Erantama etnanha pmarraka , “ Iwunhangala rrangkarra ankwentama ? Kamerramala Altjirrurna ingkarrirrai , era rrangkarranha ntarntaritjika , errintjala rrangkarranha arrkarnakitja . ”
+42022064	ngunhalama		Etnantama alknga ekuranha korltamala erinha pangilaka . Kurunga etna erinha pmarraka , “ Nurnanha ilakwia , ngunhalama nganha tuka ? ”
+42022071	Iwunhangama		Etnantama pmarrarraka , “ Iwunhangama nurna artwaka kuta yonthama erinha ilparnitjika ? Nurna kala angkatja ekuranha wuka . ”
+42023022a	~		Pilate-ala pula etnanha wothantema , kala tharraminyintarangantama pmarraka , 
+42023022b	Nthakinhama		“ Nthakinhama era paala ntelalhaka ? Atha erinha yarna imilama era artwa palkinya namanga . Lakinhanga atha tjapartia ntjarranha turnitjina erinha whip-ala tutjika . Kurunga atha erinha kala althakalthilitjina . ”
+42023031	~		Arai , lyarta etna yinganha , relha palkinyanha rrukunthakunthilamala tuma . Inguntha etna rrangkarranha , relha ilkarrtja ntjarranha , kngarralkura rrukunthakunthilamala tutjina . ”
+42024005	Iwunhangala		Etnantama kngarra trerraka . Twakalhamala , etna anngerra kwaninyerraka . Artwa eratharra pula etnanha pmarraka , “ Iwunhangala rrangkarra relha etathaka yonthama relha errilkngaka pmarala ?
+42024017	Iwunhama		Jesualantama erinhatharra pmarraka , “ Iwunhama mpala ilarraka tjaiyala lhapalhamala ? ”
+42024019	Iwunhiperrama		Era pula erinhatharra kuta pmarraka , “ Iwunhiperrama mpala angkarraka ? ”
+42024025	~		Jesuantama ekuratharrurna angkaka , “ Yakai , mpalataka marntilparla inthorra . Mpala Altjirraka urrpia imankinya ntjarraka angkatja tnakeikanha ?
+42024038a	Iwunhangama		Era pula etnanha pmarraka , “ Iwunhangama rrangkarra trerrama ? 
+42024038b	Iwunhangama		Iwunhangama rrangkarra pmarralhama , ‘ Ngunhama nhanha ? ’
+43001019	Ngunhama		Relha Jew-aka itornka ntjarra , etnala Jerusalem-ala nakala , etna priest ntjarranha , Temple-aka urrkapunhapunha ntjarranha turta John-urna yairnaka erinha pmarritjika , “ Ngunhama unta ? ”
+43001021	Ngunhantama		Etnantama erinha pmarraka , “ Ngunhantama unta ? Elijah-anha ? ”
+43001022a	Ngunhantama		Etna erinha wotha pmarraka , “ Ngunhantama unta ? Nurnanha ilai , nurna artwa nhanga ntjarranha ilitjinanga , etnala nurnanha ungkwangurna yairnakala . 
+43001022b	Ngunhama		Ngunhama unta ? ”
+43001025	Iwunhangantama		Etnantama erinha pmarraka , “ Iwunhangantama unta relha ntjarranha kaltjirrpulhelama ? Unta itja Krista era nama , Elijah-anha paka , Altjirraka urrpia arrpunha nhanga paka . ”
+43001038a	Iwunhakama		Ilkngaralhamala , Jesuala erinhatharra araka ekuranga tnaartangala pitjimanga . Erantama erinhatharra pmarraka , “ Iwunhakama mpala antja ? ”
+43001038b	~		
+43001046	~		Nathanael-ala pula erinha pmarraka , “ Artwa marra Nazareth-anga pitjimarama ? ”
+43001048	Nthakinhala		Nathanael-ala erinha pmarraka , “ Nthakinhala unta nuka kaltja naka ? ”
+43002004	~		Jesuala pula erinha ilaka , “ Arrkutjai , nhanha itjama ungkwangathaka nama . Anma yinga kala ntelalhitjina yinga Altjirraka ' Lira namanga . ”
+43002018a	~		Relha Jew ntjarralantama Jesuanha ilaka , 
+43002018b	~		“ Tjatjikarta nurnaka urrkapai , nurna kaltja nitjina ungkwangathaka namanga yirrinthanhinthanha ntjarranhalka temple-anga unputjika . ”
+43003004	~		Nicodemus-ala pula erinha ilaka , “ Relha yarna tharraranga alkngerrama . Relha kalala mangkakala , era yarna wotha katjia intama . ”
+43003009	Nthakinha		Nicodemus-ala pula erinha pmarraka , “ Nthakinha inthorrantama Enkala relhanha lyartinyilama ? ”
+43003012	~		Atha rrangkarranha wurinyiperralka alpmelaka . Rrangkarra pula yinganha itja tnakaka . Thunga atha rrangkarranha Enkiperrantama kaltjinthama . Rrangkarra paka yinganha tnakitjina ? Itja kunha .
+43004009	Nthakinhantama		Arrkutja era pula erinha ilaka , “ Unta kunha artwa Jew , kanha yinga arrkutja Samaria-arinyala . Nthakinhantama unta nuka kwatjaka enkama ? ” ( Relha Jew ntjarralataka itja inthorra marna ilkutjata relha Samaria-arinya ntjarralela , yia paka etnakalela angkarritjata . )
+43004011	Nthanhangantama		Arrkutja era pula erinha ilaka , “ Itornkai , ungkwanga pula irna kwatja thankutjika itjala , ngarroa nhanha turta iparta inthorra . Nthanhangantama unta kwatja etatha erinha initjina ?
+43004027a	Iwunhama		Jesuanha arrkutja ekururna angkamalangantema , kurtungurla ekuranha ntjarra pitjalpuka . Etna aramalanga era arrkutja Samaria-arinyalela angkarramanga , etna kngarra inthorra tnolkaka . Etna pula Jesuanha itja pmarraka , “ Iwunhama unta erinha pmarrama ? 
+43004027b	Iwunhanga		Iwunhanga turtama unta arrkutja nhanhalela angkarrama ? ”
+43005012	Ngunhantama		Etnantama erinha pmarraka , “ Ngunhantama artwa nhanha era , erala nganha turnakala , ‘ Ntjama ungkwanganha inamala kala ingka nthulapai ? ’ ”
+43005044	~		Rrangkarra kunha Altjirranha yarna tnakama , rrangkarra kuta antja namanga relhala rrangkarranha tnantjitjika . Rrangkarra turta itja antja nama Altjirrala rrangkarranha tnantjitjika .
+43005047	Nthakinhantama		Rrangkarra pula Moses-aka angkatja itja tnakaka . Nthakinhantama rrangkarra angkatja nukanha tnakitjina ? ”
+43006005	Nthanhangama		Jesuala araka relha worla kngarra urlarra pitjimanga . Erantama Philip-anha pmarraka , “ Nthanhangama nurna marna buy-emilamara worla kngarra lakinha ntuthilitjika ? ”
+43006009	~		“ Worra nyinta nhanhala nama , ekura marna barley 5 intama , irrpannga kurrka tharra turta . Marna kurrka lakinhala pula worla kngarra inthorra yarna ntuthilama . ”
+43006025	ilangarama		Jesuanha aramala , etna erinha pmarraka , “ Kaltjinthanhinthanhai , ilangarama unta nhanhurna pitjika ? ”
+43006028	Nthakinhama		Etnantama erinha pmarraka , “ Nthakinhama Altjirrala nurnanha turnama , nurna ntelalhitjika ? ”
+43006030a	iwunhantama		Etna pula erinha pmarraka , “ Tjatjikarta iwunhantama unta urrkaputjina , nurna kaltja nitjinanga unta nthurrpa arratja angkamanga ? Nurna turtantama nganha tnakitjinanga .
+43006030b	~		
+43006042	Nthakinhantama		Etna angkaka , “ Nhanha pula Jesua , Joseph-aka worra . Nurna kaarta pa mia ekuranhaka kaltja . Nthakinhantama era angkama era kula alkiranga pitjikala ? ”
+43006052	Nthakinhama		Angkatja nhanha wumala , relha Jew ntjarra iwurraka , lakinha angkamala , “ Nthakinhama artwa nhanhala nurnanha mpurrka ekuranha ilkutjika nthitjina ? ”
+43006060	~		Kurtungurla ntjarra ekuranga tnaartangala pitjikala . Etnakanga arrpunha ntjarrala angkatja nhanha wumalanga , etna angkaka , “ Angkatja nhanha kunha inpora inthorra . Relha ekura yarna kangkwerrama . ”
+43006062	~		Anma rrangkarra aritjina Relhaka ' Lira era alkirurna alpumanga .
+43006068	ngunhurnama		Simon Peter-ala erinha alpmelaka , “ Ingkartai , relha ngunhurnama nurna lhamara ? Angkatja ungkwanganhalanta kunha relhanha ngampakala etathilama .
+43007011	Nthanhama		Relha ntjarra Kwentjaka ilpangkintja arltaka Jerusalem-ala worlerraka . Relha Jew ntjarraka itornka ntjarralantama Jesuaka yonthaka , relha ntjarranha pmarralapumala , “ Nthanhama artwa nhanga ? ”
+43007015	Nthakinhala		Relha Jew ntjarrala erinha wumalanga , etna tnolkaka . Etna lakinha pmarrarraka , “ Nthakinhala artwa nhanha kaltja inthorra ? Ngunhala pakama erinha kaltjinthaka ? ”
+43007019	Iwunhangantama		Arai , Moses-ala kunha rrangkarranha Altjirraka turnintja etnanha ilaka . Rrangkarra pula turnintja etnaka itja kangkwerrama . Iwunhangantama rrangkarra antja nama yinganha errilknga tutjika ? ”
+43007020	Ngunhama		Relha etna erinha alpmelaka , “ Untataka rirta . Ngunhama antja nama nganha errilknga tutjika ? ”
+43007023	Iwunhangantama		Rrangkarra etnanha artwilama Moses-ala rrangkarranha turnakalanga . Atha artwa nyintanha Sabbath arltala marrilaka . Iwunhangantama rrangkarra yinganha ilama nhanha itja arratja namanga ?
+43007035	Nthanhurnama		Relha Jew etnantama pmarrarraka , “ Nthanhurnama artwa nhanha lhitjika angkama ? Iwunhanga turtama nurna ekura yarna yonthitjina ? Tjina nurnaka ntjarrurnama era lhitjina , etnala pmara Greece-ala namanga ? Etnanhama era kaltjinthitjinantama ?
+43007036	Iwunha		Iwunha turtama era nurnanha ilaka , ‘ Rrangkarra nuka yonthitjina , rrangkarra pula yinganha itja arltaritjina . Pmara ekururnala yinga lhama , ekururna rrangkarra yarna lhama . ’ ”
+43007041	~		Arrpunha ntjarra turta angkaka , “ Nhanha kunha nthurrpa Krista era nama . ” Kanha arrpunha ntjarrala ilaka , “ Kristanha itjama pmara Galilee-arinya nitjina .
+43007045	Iwunhangala		Tjapartia nhanga ntjarra alpukantama . Artwa Pharisee ntjarrala , Priest-aka itornka ntjarrala turtantama etnanha pmarraka , “ Iwunhangala rrangkarra Jesuanha itja errkuka , nurnakurna kngitjika turta ? ”
+43007048	~		Artwa Pharisee nurnakanga itja nyintala erinha tnakama . Itornka arrpunha ntjarrala turta erinha itjantema tnakama .
+43007051	~		Erantama etnanha ilaka , “ Arai , mpaarangaranga nurnakanhala kunha nurnanha parrama itja relha arrpunhanha kala imilitjikanta . Nurna erinha wutjikarrka . ”
+43008005	Nthakinha		Moses-ala nurnanha turnaka nurna arrkutja lakinha ngerra partala wamala errilknga tutjika . Nthakinha paka unta etarlarama , nhanha paka arratjama nama ? ”
+43008010	nthanhama		Arratjerramala , Jesuala arrkutja erinha pmarraka , “ Arrkutjai , nthanhama relha etna , etnala nganha ilparnakala ? Nyintala paka nganha imilakama ? ”
+43008019	Nthanhantama		“ Nthanhantama Kaarta ungkwanga ? ” etna Jesuanha pmarraka .
+43008025a	Ngunhantama		Relha Jew etnantama Jesuanha pmarraka , “ Ngunhantama unta ? ”
+43008025b	~		
+43008033	Iwunhangantama		Relha Jew ntjarrala erinha ilaka , “ Nurna pula Abraham-aka ramarama nama . Relha arrpunha turta nurnaka itja kutama tjitjarterraka paka . Iwunhangantama unta nurnanha ilama ? ‘ Arrpunhantama rrakangkarra itja wotha tjitjarterritjina . ’ ”
+43008043	Iwunhangantama		Iwunhangantama rrangkarra angkatja nukanha itja wuma ? Atha iliai ? Marntilparla warta , rrangkarra yinganha yarna wuma .
+43008046a	~		Rrangkarra yinganha yarna inthorra ilparnama . Yinga angkatja nthurrpa angkama . 
+43008046b	Iwunhangantama		Iwunhangantama rrangkarra yinganha itja tnakama ?
+43008053	Ngunhantama		Unta Kaarta nurnakanha Abraham-anga kngarralkurama nama , Altjirraka urrpia imankinya ntjarranga turta ? Etna kunha ingkarraka iluka . Ngunhantama unta ilalhama unta kula namanga ? ”
+43008057	~		Jew etnantama Jesuanha ilaka , “ Apai ! Unta itjama kngarripata . Unta itjama Abraham-anha araka . ”
+43009002	ngunhama		Kurtungurla ekuranha ntjarralantama Jesuanha pmarraka , “ Kaltjinthanhinthanhai , ngunhama korna ntelalhaka ? Thunga artwa nhanha , thunga kaarta pa mia ekuranha paka , era alknga panga kuta warta katjia intakalanga . ”
+43009010	Nthakinhantama		Etnantama erinha pmarraka , “ Nthakinhantama alknga ungkwanganha marrerraka ? ”
+43009012	Nthanhantama		Etnantama erinha pmarraka , “ Nthanhantama artwa era ? ”
+43009016	~		Artwa Pharisee urrputjantama angkaka , “ Artwa era itja Altjirraka urrpia nama . Erataka Sabbath arltala urrkapuka . Nhanha itja arratja nama . ”
+43009017	Nthakinha		Lakinhanga etna artwa panga nakala erinha wothantema pmarraka , “ Nthakinha paka unta etarlarama ? Nurnanha ilai , artwa erala nganha alknga marrilakala , ngunhama era ? ”
+43009019	Nthakinhantama		Etnantama erinhatharra pmarraka , “ Worra mpalakanhama artwa nhanha ? Mpala angkama era kula alknga panga kuta katjia intakala . Nthakinhantama era aramantama ? ”
+43009026a	~		Etna pula erinha kuta pmarraka , 
+43009026b	Nthakinha		“ Nthakinha inthorrama era nganha alknga marrilaka ? ”
+43009027	Iwunhangama		Era etnanha ilaka , “ Atha rrangkarranha kalama alpmelaka . Rrangkarra pula angkatja nukanhaka itja kangkwerrama . Iwunhangama rrangkarra yinganha kuta inthorra pmarrama ? Rrangkarra turtama kurtungurla ekuranha nitjika antja ? ”
+43009034	~		Etnantama erinha ilaka , “ Unta pula katjiangatjina korna kuta ntelalhaka . Untantama eterrama unta kula nurnanha kaltjinthitjinala ? Lhai ! ” Etnantama erinha synagogue-anga unpurlenaka .
+43009036	Ngunhama		Artwa era erinha alpmelaka , “ Ngunhama era ? Itornkai , yinganha ilai , atha erinha tnakitjinanga . ”
+43010020	~		Arrpunha ntjarra angkaka , “ Erataka errintjakarta . Artwa rirta . Relhataka ekura itja kangkwerritjika . ”
+43010021	~		Arrpunha ntjarra pula lakinhala angkaka , “ Artwa errintjakarta yarna lakinha angkama . Artwa errintjakartala turta yarna relha pangaka alknga marrilama . ”
+43010024	~		Relha Jew ntjarralantama erinha pmarraka . “ Nurnataka ungkwangiperra yarna eterrama . Nurnanha kala arratja alpmelai , unta paka Krista era namama ? ”
+43010032	~		Jesuala pula etnanha ilaka , “ Kaartala yinganha turnakalanga warta , atha rrakangkarra tjatjikarta marra ntjarra ntelaka . Tjatjikarta nhanha ntjarrakakwiama rrangkarra yinganha partala watjika antja nama ? ”
+43010036	Iwunhangantama		Atha rrangkarranha ilaka yinga Altjirraka ' Lira namanga . Kaarta erarrpa angkaka yinga ' Lira ekura nitjika . Erarrpa turta yinganha relha alharinya ingkarrakurna yairnaka . Iwunhangantama rrangkarra yinganha ilparnama atha kula Altjirranha arrampowumanga ?
+43011034	Nthanhakama		Erantama etnanha pmarraka , “ Nthanhakama rrangkarra erinha arrarnaka ? ”
+43011047	~		Kurunga priest-aka itornka ntjarrala , artwa Pharisee ntjarrala turtantama Sanhedrin council etnanha worlilaka . Sanhedrin council etnantama lakinha angkarraka , “ Artwa nhanhala tjatjikarta ntjarra urrkapuma . Nurnataka erinha parritjika .
+43011056	Nthakinha		Etnantama Jesuaka yonthaka . Temple-ala itnarlapumala , etna pmarrarraka , “ Nthakinha etarlaramai ? Era paka tjinkarraka pitjitjinama ? ”
+43012005	Iwunhangama		“ Iwunhangama era ntira unpa marrakarta nhanha itja yirrinthaka ? Ntira erinha kunha money kngarra inthorraka yirrinthamara . Era turtantama money erinha relha ilkngara ntjarranha nthamara . ”
+43012027	~		“ Yingataka lyarta ltarrpa wulhama . Yinga pula yarna Kaarturna angkama , ‘ Kaartai , yinga itja antja nama nyingalauwutjika ’ . Nhanhakakwia kunha yinga alhurna pitjika .
+43012034a	Nthakinhantama		Relha etna pula erinha ilaka , “ Altjirraka Angkatja Imankinyala ilama Kristanha kuta etatha nitjinala . Nthakinhantama unta ilama Relhaka ' Lirakathaka namanga ntolkala ilutjika ? 
+43012034b	Ngunhama		Ngunhama Relhaka ' Lira nhanha era nama ? ”
+43012038a	~		Altjirraka urrpia Isaiah-aka angkatjantama nthurrperraka .
+43012038b	~		
+43013025	ngunhiperrama		Kurtungurla erantama Jesuanha pmarraka , “ Ingkartai , ngunhiperrama unta angkama ? ”
+43013036	nthanhurnama		Simon Peter-alantama Jesuanha pmarraka , “ Ingkartai , nthanhurnama unta lhitjina ? ”
+43013037	iwunhangala		Simon Peter-ala pula erinha wotha pmarraka , “ Ingkartai , iwunhangala yinga lyarta ungkwanganga yarna tnaartangala lhama ? Yinga kala ungkwangakwia ilumara . ”
+43014002	~		Yinga itja orrtjerrama . Arai , Kaarta nukanhaka pmara kngarritja inthorra nama . Yingantama lhitjina rrakangkarra pmara mpaaritjika .
+43014005	Nthakinhantama		Thomas-ala pula erinha ilaka , “ Ingkartai , nurna pula pmara ekura kotnala . Nthakinhantama nurna tjaiya ekura yonthitjina ? ”
+43014009	Nthakinhantama		Jesuala erinha ilaka , “ Philip-ai , yinga kunha rrakangkarralela kuta inthorra nakala . Kanha unta yinganha itjantemala lhangkarama ? Arai , relha erala yinganha arakala , erataka Kaarta erinha arakantema . Nthakinhantama unta yinganha pmarrama , ‘ Kaarta erinha nurnaka imarnai ? ’
+43014022	nthakinhala		Judas arrpunhala , itja Iscariot-ala , Jesuanha pmarraka , “ Ingkartai , nthakinhala unta nurnakanta ntelalhitjina , kanha relha alharinya ntjarraka itjala ? ”
+43016005	Nthanhurnama		“ Yinga pula kala ekururnantama alputjina , erala yinganha alhurna yairnakala . Rrangkarra pula yinganha itjala pmarrama , ‘ Nthanhurnama unta lhitjina ? ’
+43016017	Iwunhama		Nhanha wumala kurtungurla etna lakinha pmarrarraka , “ Iwunhama era nurnanha nhanha ilama ? ‘ Arlta urrputjiperra rrangkarra yinganha itja wotha aritjina . Kurunga arlta urrputjiperra rrangkarra yinganha wotha aritjina . ’ Nhanha turta , ‘ Yinga nhanga Kaarturna alputjinanga warta . ’
+43016018	Iwunhama		Etnantama kuta pmarrarraka , ‘ Iwunhama arlta urrputja nhanha etna ? ’ Nurna nhanha itja lhangkarama . ”
+43018004	Ngunhakama		Jesuanha kala kaltja naka etna erinha errkutjinala , anma errilknga tutjinalalka . Erantama etnakurna etinyerramala , etnanha pmarraka , “ Ngunhakama rrangkarra yonthama ? ”
+43018007	Ngunhakama		Jesualantama etnanha wotha pmarraka , “ Ngunhakama rrangkarra yonthama ? ”
+43018011	~		Jesuala pula Peter-anha turnaka , “ Knife tjenya ungkwanganha wotha kurnai . Nukathaka kala nama nyingalauwutjika , ilutjika turta Kaartala yinganha turnakala ngerra . ”
+43018021	Iwunhama		Iwunhangantama unta yinganha pmarrama , ‘ Iwunhama unta relha ntjarranha kaltjinthaka ? ’ Relha etnanhatitja pmarrai , etnala yinganha wukala , atha etnanha kaltjinthamanga . Etna kala angkatja nukanhaka kaltja . ”
+43018023	iwunhangala		Jesuala pula erinha ilaka , “ Yinga paka paala angkakalanga , yinganha ilai . Yinga paka arratja angkakalanga , iwunhangala unta yinganha tuka ? ”
+43018029	Iwunhangama		Lakinhanga Pilate-anha etnakurna rrataka , etnanha pmarraka turta , “ Iwunhangama rrangkarra artwa nhanhanha ilparnama ? ”
+43018035	Iwunhangama		Pilate-ala erinha alpmelaka , “ Yinga itjama relha Jew . Relha ungkwanganha ntjarrala , priest itornka ntjarrala turta , nganha nuka lanthakala . Iwunhangama etna nganha ilparnama ? ”
+43018038	Iwunhantama		Pilate-alantama Jesuanha pmarraka , “ Iwunhantama Altjirraka angkatja nthurrpa era ? ”
+43019009	nthanharinyama		Wotha iltha kngarra ekuranhurna irrpunhamala , era Jesuanha pmarraka , “ Pmara nthanharinyama unta ? ” Jesuala pula erinha itja alpmelaka .
+43019015	~		Etna pula ilkaka , “ Erinha kngai ! Erinha kngai ! Erinha kala ntolkaka kanthatwai ! ”
+43020013	iwunhanga		Eratharrantama erinha pmarraka , “ Arrkutjai , iwunhanga unta itnima ? ”
+43020015a	iwunhangama		Jesualantama erinha pmarraka , “ Arrkutjai , iwunhangama unta itnima ? 
+43020015b	Ngunhakama		Ngunhakama unta yonthama ? ”
+43021012	Ngunhama		Jesuala etnanha ntangkakantama , “ Pitjarrirrai ilkutjika . ” Kurtungurla etna porerraka erinha pmarritjika , ‘ Ngunhama unta ? ’ Etna kala kaltjakwia naka , nhanha Ingkartanha namanga .
+43021020	ngunhalama		Ilkngaralhamala , Peter-ala araka kurtungurla nhanga , ekurala Jesuanha kangkaka , ekuratharranga tnaartangala pitjimanga . ( Kurtungurla nhanha erataka nhanga Jesuanga kuta nakala , etna nhanga marna ilkumanga , era turtala nhanga Jesuanha pmarrakala , “ Ingkartai , ngunhalama nganha leltjaka lanthitjina ? ” )
+43021021	~		Erinha aramala , Peter-ala Jesuanha pmarraka , “ Ingkartai , eraloa ? ”
+43021022	~		Jesuala Peter-anha alpmelaka , “ Yinga paka antja namanga era etatha nitjika yinga pitjalputjinalpula , nhanha itja ungkwangathakalka nama . Ungkwangathaka nama nukanga tnaartangala pitjitjika . ”
+43021023	~		Angkatja nhanhanga arrkngalantama tnakanhakanha ntjarrala etarlaraka kurtungurla era kula itja ilutjinala . Jesuanha pula itja angkaka era kula itja ilutjinala . Era wara Peter-anha ilaka , “ Yinga paka antja namanga era etatha nitjika yinga pitjalputjinalpula , nhanha itja ungkwangathakalka nama . ”
+44001011	iwukama		Eratharra etnanha pmarraka , “ Artwa pmara Galilee-arinya ntjarrai , iwukama rrangkarra alkirurnathaka inarama ? Jesua nhanha era , erala lyarta rrakangkarranga alkirurna alpukala , era lakinha ngerra wotha alkiranga pitjalputjinantema . ”
+44002008	Nthakinhantama		Nthakinhantama nurna nyintaminyintala etnanha wuma angkatja nurnaka inthorra angkamanga ?
+44002012	Iwunhama		Kapurta etnakanha kuta ngalhelamala , yarna warta eterramala , etna wothamawotha pmarrarraka , “ Iwunhama nhanha ? ”
+44002037	nthakinhantama		Angkatja nhanhala relha etnanha tjalka tuka inthorra . Etnantama Peter-anha , apostle arrpunha ntjarranha turta pmarraka , “ Tjia ntjarrai , nthakinhantama nurna ntelalhitjika ? ”
+44003012a	iwunhangala		Relha etnanha aramala , Peter-ala etnanha pmarraka , “ Artwa Israel-arinya ntjarrai , iwunhangala rrangkarra tnolkama artwa nhanha ingkantama nthulapumanga ? 
+44003012b	Iwunhanga		Iwunhanga turtama rrangkarra ilirnanha intarra inthorra yapmama ? Thunga rrangkarra etarlarama ilirna kula alkngaltara inthorra namanga , ekarlta inthorra turta kula . Arai , ilirna itjama Altjirra nama . Ilirna turta itja artwa nhanhanha marrilaka .
+44004007a	~		Peter John tharraka ntangkalhamalantama , etna erinhatharra etnakanga mpopaka ingkairnaka . Etna erinhatharra pmarrakantama , 
+44004007b	Ngunhalama		“ Ngunhalama mpalanha ekarltilaka artwa inurra nhanhanha marrilitjika ? 
+44004007c	Ngunhaka		Ngunhaka rretnyala turtama mpala erinha marrilaka ? ”
+44004016	nthakinhilamarama		“ Artwa nhanha tharranha nurna nthakinhilamarama ? ” etna pmarrarraka . “ Relha Jerusalem-arinya ingkarraka kala kaltja eratharra tjatjikarta kngarra urrkapukala . Nurna nhanha yarna ilpoiwuma .
+44004025a	~		Unta kunha errilkngipata nurnakanha David-arlarlanga lakinha angkakala ,
+44004025b	~		
+44005003	iwunhangala		Peter-alantama erinha pmarraka , “ Ananias-ai , iwunhangala unta Satan-aka kangkwerraka ? Iwunhanga turtama unta Enka Alkngaltaraka orrtjerraka ? Yinga kaltja unta money arrpunha tnyinakala .
+44005004	Iwunhangantama		Tnukulpa era kunha ungkwanga naka . Tnukulpa erinha yirrinthamaliperra turta , money era ungkwangantema naka . Lakinhanga nhanha ungkwangathaka naka money erinha tnyinitjika , erinha errarnpalhelitjika paka , unta antjerramala ngerra . Iwunhangantama unta orrtjerraka ? Arai , unta itja relhaka orrtjerraka , Altjirraka pula . ”
+44005009	Iwunhangala		Peter-alantama erinha pmarraka , “ Iwunhangala mpala nyinterraka Ingkartaka Enka orrtjapepilitjika ? Arai , artwa nthitja etnala noa ungkwanganha tintjiwukala , etna kunha reoala itnarlanama . Etna nganha turta tintjiwutjika kngitjina . ”
+44007026	Iwunhangantama		“ Arlta arrpunhala era araka artwa Israel-arinya tharra turramanga . Erantama erinhatharra arrkngantiwuka . Era erinhatharra ilaka , ‘ Mpala kunha kanhanga ngerra . Iwunhangantama mpala turrama ?
+44007027	Ngunhalama		“ Artwa erala artwa arrpunhaka alkngarnterrakala , era pula erinha pauwurlenaka . Era erinha pmarraka , ‘ Ngunhalama nganha ingkairnaka nurnaka tjitjarterritjika , nurnanha tjiperrawutjika turta ?
+44007035	Ngunhalama		“ Nhanha kunha Moses nyinta era naka , ekurala relha ekuranha ntjarra itja antja nakala . Etna erinha nhanga ilakala , ‘ Ngunhalama nganha ingkairnaka nurnaka tjitjarterritjika , nurnanha tjiperrawutjika turta ? ’ Moses nhanha erinhantama Altjirra erarrpa yairnaka relha ekuranha ntjarraka tjitjarterritjika , etnanha tangkalhelitjika turta . Altjirranhataka Moses-urna angkaka angel ekuranharlarlanga , angel erala nhanga Moses-urna rumerrakala irna mpumalala .
+44007049a	~		‘ Alkira era chair kngarritja nukanha nama , atha turta
+44007049b	~		
+44007052	~		Kaarta rrakangkarranha kunha Altjirraka urrpia imankinya ingkarrakaka antjakunya ntelalhaka . Etna turta Altjirraka urrpia lenha ntjarranha errilknga tuka , etnala relha ntjarranha ilakala Artwa Arratja Era pitjitjinala . Kurunga ngurrukalkura rrangkarrantama Artwa Arratja erinha leltjaka lanthamala errilknga tuka .
+44008031	Nthakinhantama		Artwa Ethiopia-arinya era pula erinha ilaka , “ Nthakinhantama atha angkatja nhanha lhangkaramara ? Relha arrpunhala itja angkatja nhanha nuka nentilaka . ” Erantama Philip-anha ntangkaka , “ Ntjentjai , nukalela nitjika . ”
+44008033	~		Etna erinha ilparnamalanga , itja nyinta
+44008034	ngunhiperrama		Artwa orrea erantama Philip-anha pmarraka , “ Yinganha ilai , relha ngunhiperrama Altjirraka urrpia era angkama ? Ekurarinya ? Relha arrpunhiperra paka ? ”
+44008036	~		Etna tjaiyala lhapalhamalangantema , etna kwatja araka . Artwa orrea erantama Philip-anha pmarraka , “ Arai , nhanha kwatja intama . Unta paka yinganha kaltjirrpulhelamarama ? ”
+44009004	iwunhangama		Saul-anhantama arnakarlaka tnyika . Erantama wuka erinha ntangkamanga , “ Saul-ai , Saul-ai , iwunhangama unta yinganha tutjika lurnama ? ”
+44009005	ngunhama		Nhanha wumala Saul-anha angkaka , “ Ingkartai , ngunhama unta ? ”
+44009006	~		Kala kamerrai , town-urna turta lhai . Artwa nyintalantama nganha angkatja arrpunha nukanha ilitjina . ”
+44010004	Iwunha		Enkakunyerramala , Cornelius-ala erinha yapmakarrka . Kurunga era angel erinha pmarraka , “ Iwunha itornkai ? ”
+44010021	Iwukama		Artwa etnakurna tnanpumala , Peter-ala etnanha ilaka , “ Arai , yinga kunha artwa era , ekurala rrangkarra yonthama . Iwukama rrangkarra pitjika ? ”
+44010029	Iwukama		Lakinhanga yinga kala pitjikanta Cornelius-ala yinganha ntangkamalanga . Kalantama yinganha ilai , Iwukama rrangkarra yinganha ntangkaka ? ”
+44010047	~		“ Enka Alkngaltara erataka relha nhanha ntjarrurna turta irrpuka , erala nurnakurna irrpukala ngerra . Lakinhanga nhanha arratja nama nurna etnanha kaltjirrpulhelitjika . ”
+44011017a	~		Athantama lhangkaraka etna Altjirranha tnakamanga , nurnala Altjirranha tnakamanga ngerra . Altjirrala turtantama Enka Alkngaltara erinha etnakurna yairnakala , erala erinha nurnakurna yairnakala ngerra . Lakinhanga yinga yarna Altjirranga kekarta lhaka . ”
+44011017b	~		
+44012018	~		Kala ingutnhalantama , jail kwanala , tjapartia ntjarra yarna eterritjikerraka . Etnataka Peter-aka yarna yonthaka .
+44013025	Ngunhama		John-ala urrkapuntja ekuranha mangkilitjikerramalanga , era relha ntjarranha pmarraka , ‘ Ngunhama yinga ? Nthakinhama rrangkarra nukiperra etarlarama ? Atha rrangkarranha iliai ? Yinga itja Tangkalhelanha era nama , ekurala rrangkarra kaaralhama . Arai , Tangkalhelanha era pula inguntha wara kala pitjitjina . Yinga turta itja yalknga nama urrkapunhapunha ekuranha paka nitjika . ’
+44014015	~		“ Relha ntjarrai , itja lakinha . Ilirna relha rrangkarra ngerra nama . Ilirnataka rrangkarranha angkatja marra ilama . Orrtja altjirra rrakangkarranha impai . Altjirra etathurna toperrai . Altjirra ekururna purrama , erala alkira , alha , kwatja laiya turta arrpmarnakala , thepa , tnontha , irrpannga ingkarraka turta .
+44015010	Iwunhangantama		“ Iwunhangantama rrangkarra Altjirranga kekarta lhitjika antja ? Etarlarai , nurna yarna Moses-aka turnintja ntjarraka arratja kangkwerraka . Kaarta nurnakanha ntjarra turta Moses-aka turnintja ntjarraka yarnantema arratja kangkwerraka . Iwunhangantama nurna etnanha turnama , turnintja etnaka kangkwerritjika ?
+44016030	nthakinhama		Wotha kamerramala , era erinhatharra kathurna rretjingaka . Erantama erinhatharra pmarraka , “ Itornka tharrai , nthakinhama yinga ntelalhitjika , Altjirrala yinganha tangkalhelitjinanga ? ”
+44017018	~		Artwa urrputja , etnala artwa Epicurus-aka kurtungurla namanga , artwa urrputja arrpunha turta etnala artwa Zeno-aka kurtungurla namanga , etna Paul-alela iwurraka .
+44017019	~		Artwa nhanha etnantama Paul-anha Areopagus council-urna kngaka . Etnantama erinha pmarraka , “ Unta paka nurnanha ilamarama , angkatja nhanga untala relha ntjarranha kaltjinthamanga ?
+44019003	Ngunhalama		Paul-alantama etnanha wotha pmarraka , “ Ngunhalama rrangkarranha kaltjirrpulhelaka ? ”
+44019015	ngunhala		Enka era pula etnanha ilaka , “ Jesuaka yinga kaltja , Paul-aka turta . Kanha rrangkarra ngunhala ? ”
+44019035	~		Kurunga town-aka itornka arrpunhala worla etnanha tjukunyilaka . Era etnanha ilaka , “ Artwa Ephesus-arinya ntjarrai . Relha ingkarraka inthorra kala kaltja , relha Ephesus-arinya nurna Artemis-aka temple arratja inthorra ntarntaramanga . Nurna turta parta kngaanintja ekuranha , parta nhanga alkiranga tnyikala , arratjantema ntarntaramanga .
+44021013a	Iwunhangala		Paul-ala pula nurnanha ilaka , “ Iwunhangala rrangkarra itnima , 
+44021013b	~		yinganha antjapatalhelitjika turta arrkarnama ? Arai , yingataka rukara wulhama . Etna paka antja namanga yinganha Jerusalem-ala jail-aka kurnitjika , errilknga tutjika paka Ingkarta Jesuakakwia , kalantema . ”
+44021022	~		Arai , relha nhanha ntjarrala kala wutjina unta Jerusalem-urna pitjikala . Etna ungkwanga alkngarnterrakitja ,
+44021033a	Ngunhama		Itornka erantama Paul-anha errkuka , tjapartia urrputjanha turta turnaka erinha chain tharrala yirnitjika . Erantama relha etnanha pmarraka , “ Ngunhama artwa nhanha ? 
+44021033b	Iwunhangama		Iwunhangama rrangkarra erinha tuma ? ”
+44022007	iwunhangama		Yingantama arnakarlaka tnyika . Athantama wuka yinganha ntangkamanga , ‘ Saul-ai , Saul-ai iwunhangama unta yinganha tutjika lurnama ? ’
+44022008	ngunhama		“ Athantama erinha pmarraka , ‘ Ingkartai , ngunhama unta ? ’
+44022010	iwunhakama		“ Athantama Jesuanha pmarraka , ‘ Ingkartai , iwunhakama unta antja nama ? ’
+44022016	~		Kuta intitjalai . Kala kamerrai , atha nganha Jesuaka rretnyala kaltjirrpulhelitjinanga . Altjirrala turtantama korna ungkwanganha iwutjina . ’
+44022026	~		Nhanha wumala itornka era itornka kngarra ekururna lhamala , erinha ilaka , “ Unta yarna artwa nhanhanha whip-ala tuma . Era ilalhama era kula Roman citizen namanga . ”
+44023003	~		Paul-alantama High Priest erinha ilaka , “ Altjirrala nganha tutjina , artwa pmathai . Unta antja nama yinganha Moses-aka mpaarangarangamalkura tjiperrawutjika . Kanha untarrpa mpaarangaranga etnaka itjala kangkwerrama . Unta artwa ntjarranha turnaka yinganha tutjika . ”
+44023009	~		Etnantama intarramintarra iltarraka . Kurunga artwa Intarrangaltha arrpunha ntjarra , etnala Pharisee turta namanga , lakinha ilkaka , “ Artwa nhanha itjama ilkarrtja . Arai , enka paka , angel paka nthurrpa ekururna angkaka . ”
+44023019	Iwunhama		Itornka kngarra era nthitja erinha iltjanga errkumala , ekurakarta tjanalhaka , eratharrarrpa angkarritjinanga . Erantama nthitja erinha pmarraka , “ Iwunhama unta yinganha ilitjika antja nama ? ”
+44026008	~		Rrangkarra itja tnolkitjika , rrangkarra wumalanga Altjirrala relha errilknga ntjarranha kamalhelamanga .
+44026014	iwunhangama		Nurna ingkarraka arnakarlaka tnyika . Athantama wuka yinganha Hebrew angkatjala pmarramanga , ‘ Saul-ai , Saul-ai , iwunhangama unta yinganha tutjika lurnama ? Nuka irrpaltherramala , untataka ungkwangarinya wara kornilalhama . ’
+44026015	ngunhama		“ Athantama erinha pmarraka , ‘ Ingkartai , ngunhama unta ? ’
+45002017	~		Yinga nhanha relha Jew rrakangkarrurnantama angkama . Rrangkarra angkama rrangkarra relha Jew namanga . Rrangkarrantama tnoatnoa nama rrangkarra Altjirraka turnintja tnyinamanga . Rrangkarra turta tnakalhama Altjirranha tjina rrakangkarra namanga .
+45002021	~		Arai , rrangkarra arrpunha ntjarranha kaltjinthama . Kanha rrangkarrarrpa itjala kaltjerrama . Rrangkarra arrpunha ntjarranha kaltjinthama , “ Itja nyilkngala initjika . ” Kanha rrangkarra nyilkngala inamala .
+45002028	Ngunhantama		Ngunhantama relha Jew inthorra nama ? Itja relha era , erinhala Jew ngerra arama , erinha turtala artwilakala .
+45003001a	~		Thunga relha arrpunhala pmarrama . Altjirranga urlarra relha Jew ntjarra tjiparralkurama nama , relha arrpunha ntjarrangatjina ? 
+45003001b	~		Altjirranga urlarra nhanha tjiparrama nama etna worra etnakanha artwilamanga ?
+45003003	Nthakinhantama		Nthurrpa , etnakanga arrpunha ntjarra Altjirraka angkatjaka itja kangkwerraka . Nthakinhantama ? Etna itja kangkwerrakalanga , Altjirraka lhelintja ipmintjerritjina ?
+45003005	~		Thunga relha Jew nyinta lakinha angkama . Arai , relha Jew nurna korna ntelalhamanga , relha arrpunha ntjarrala arama Altjirranha arratja kuta namanga . Lakinhanga Altjirrala nurnanha kala rrarrathala tutjala impeikanhanta .
+45003006	nthakinhantama		Nhanhataka eterrintja paala . Altjirrala paka Jew nurnanha impumanga , nthakinhantama era relha arrpunha ntjarranha arratja tjiperrawutjina ?
+45003007a	~		Thunga relha Jew arrpunha lakinhala angkama . Arai , yinga korna ntelalhamanga , relha arrpunha ntjarrala kathalkura arama Altjirranha makalaria namanga . 
+45003007b	Iwunhangantama		Iwunhangantama Altjirrala yinganha imilama ?
+45003008	~		Eterrintja nhanha paka arratja namanga , kala lakinhanta angkai , “ Mpa , nurna korna ntelalhiai , relha ntjarrala Altjirranha tnantjitjinanga . ” Relha arrpunha ntjarrala yinganha ilparnaka , yinga kula lakinha angkakala . Altjirrala kala relha nhanha etnanha imilitjina .
+45003009	Nthakinhantama		Nthakinhantama ? Relha Jew nurna , nurnala Altjirraka turnintjakarta namanga , nurna paka relha arrpunha ntjarranga marralkurama nama ? Itja kuta . Atha nhanga rrangkarranha ilakala ngerra , nurna ingkarraka , relha Jew ntjarra , Relha Lorinya ntjarra turta kornarintja nama .
+45003027a	Iwunhanga		Lakinhanga relha yarna wotha Altjirranga urlarra tnakalhama . Iwunhanga ? 
+45003027b	~		Era yarna warta Altjirranga urlarra arratjerramanga turnintjaka kangkwerramala , Jesuanha tnakamalanta wara pula .
+45003027c	~		
+45004001	Iwunhangama		Yinga kaarta nurnakanha Abraham-iperrantama angkama . Iwunhangama Altjirrala erinha ilaka era ekuranga urlarra arratja namanga ?
+45004003	nurnanha		Iwunhanga ? Altjirraka Angkatja Imankinyala nurnanha ilama . “ Abraham-ala Altjirranha tnakaka . Nhanhakakwia Altjirrala erinha ilaka : Unta nukanga urlarra arratja nama . ”
+45004010	Ilangarama		Ilangarama Altjirrala Abraham-anha lakinha ilaka ? Abraham-anha kala artwerrakalanga ? Thunga arrkurla kuta ? Arai , Altjirrala erinha arrkurla kuta lakinha ilaka .
+45005010	~		Nurna nhanga Altjirraka leltja naka . Altjirrala pula nurnanha tjinilaka , ' Lira ekuranha nurnakakwia ilumalanga . Lyarta nurna kala Altjirraka tjinantama nama . Kristanha turta errilknga ntjarranga kamerrakalanga , era nurnanha ngampakala tangkalhelitjina .
+45005021	~		Nhanga arrkurla relha etna iluka , etna korna ntelalhakalanga . Lyarta pula Altjirrala etnanha ilama , “ Rrangkarra nukanga urlarra arratja nama , ” Jesua Kristarlarlanga , Ingkarta nurnakarlarlanga . Ekurarlarlanga turta nurna ngampakala etatha nitjina .
+45006001	Nthakinhantama		Nthakinhantama ? Nurna kuta korna ntelalhiai , Altjirranha nurnaka kngarralkura ngwanga ntelalhitjinanga ?
+45006002	Nthakinhantama		Itja inthorra ! Nurna kunha kala iluka . Nthakinhantama nurna lherrintja kornaka wotha kangkwerritjina ?
+45006015	Nthakinhantama		Nthakinhantama ? Altjirraka turnintjala nurnanha itja wotha ilparnamanga , Altjirranha turta nurnaka ngwangantama ntelalhamanga , nurna kala korna kuta ntelalhiai ? Itja inthorra !
+45006021	iwunhantama		Kwartiwuntja iwunhantama rrangkarra inaka korna ntelalhamala ? Ilutjikanta kunha . Nhanhiperra rrangkarra lyarta porerramantama .
+45007007	Nthakinhantama		Nthakinhantama ? Altjirraka turnintja etna kornama ? Itja inthorra ! Iwunhantama korna nama ? Nhanhaka yinga kaltjerraka turnintja etnakanga . Turnintja arrpunhala paka yinganha itja parrakalanga , “ Unta itja lherritjika , ” yinga kotna kuta namara nhanha korna namanga lherritjika .
+45007024	Ngunhalantama		Yingantama nthakinherritjina ? Altjirrala yinganha errilknga tutjina , yinga kornaka kuta lherramanga . Ngunhalantama yinganha mpurrka nhanhanga tangkalhelitjina ?
+45008024	~		Arai , Altjirrala nurnanha kala tangkalhelaka . Nurna pula kaaralhamantema era nhanha katha ntelitjika . Nhanha paka kala katha namanga , nurna itja wotha kaaralhamara . Nurna kunha itja lenhaka alkurnama , nurnala kala alkngala arama .
+45008031a	iwunhantama		Altjirranha nurnaka lakinha ntelalhakalanga , iwunhantama atha rrangkarranha ilamara ? 
+45008031b	~		Atha rrangkarranha nhanha ilama . Altjirra era tjina inthorra nurnaka namanga , relhala nurnanha yarna kornilama .
+45008032	~		Altjirrala ' Lira ekuranha itja yinilaka . Era pula erinha relha ntjarraka lanthaka , etna erinha korna nurnakanhakakwia errilknga tutjika . Altjirra erala lakinha ntelalhakala , era kala nurnaka kuta tangitjala nitjina turta .
+45008033	~		Altjirra erarrpa nurnanha urrarakalanga relha ekuriltja inthorra nitjika , relha arrpunhala nurnanha yarna wotha ilparnama . Altjirra erarrpa kunha ilama , “ Rrangkarra nukanga urlarra arratja nama . ”
+45008034	~		Lakinhanga relhala nurnanha yarna wotha imilama . Krista Jesua era kala korna nurnakanhakakwia iluka . Era errilknga naka , Altjirrala pula erinha wotha etathilaka . Era lyarta Altjirraka akwalantama nama , nurnakakwia turta Altjirrurna kutatha ingkama .
+45008035	~		Krista era nurnaka kangkamanga , relha arrpunhala nurnanha yarna ekuranga ilkngakama . Thunga etna nurnanha kornilama . Thunga etna nurnanha arrampowuma . Thunga etna nurnanha rrukunthakunthilama . Thunga etna marna nurnakanha rakama , yultha nurnakanha paka . Thunga etna nurnanha errilknga tuma . Etna pula nurnanha itja kuta Kristanga ilkngakitjina .
+45009014	Nthakinhantama		Nthakinhantama ? Altjirranha itja arratja ntelalhama ? Itja inthorra !
+45009019a	Iwunhangantama		Lakinhanga thunga arrpunhala yinganha pmarritjina , “ Iwunhangantama Altjirrala relhanha ilparnama ? 
+45009019b	~		Relha kunha yarna Altjirranga ekarlterrama . ”
+45009020a	~		Relhai , ungkwangathakalka itjama nama Altjirranha angkatja nthitjalputjika . Arai , thunga relhala irna arna urrknganga mpaarama . 
+45009020b	~		Irna era yarna relha erinha ilama , 
+45009020c	Iwunhangala		“ Iwunhangala unta yinganha lakinha mpaaraka ? ”
+45009021	~		Relha erala urrkngala mpaarama , ekurathaka kunha kala nama arna urrknga nyintanga irna intorta paka mpaaritjika , irna alkumpa turta .
+45009022	Iwunhanga		Lakinha ngerra Altjirranha turta . Era relha arrpunha ntjarranha mpaaraka , etnaka aalerritjika , etnanha yirralhelitjika turta . Era pula etnanha kuta inthorra makaraka . Iwunhanga ? Era antja nakalanga relha arrpunha ntjarranha ntelitjika era aa kngarra namanga , ekarlta inthorra turta .
+45009023	Ngunhaka		Era turta antja nakalanga montjamontja inthorra ntelalhitjika . Ngunhaka ? Relha etnaka , etnanhala era arrkurlantema mpaarakala , etnaka montjamontja ntelalhitjika .
+45009024	~		Nurna turta relha worla nhanhala namantema . Nurnakanga arrpunha ntjarra relha Jew nama , arrpunha ntjarra Relha Lorinya .
+45009030	~		Lakinhataka atha rrangkarranha ilama . Relha Lorinya arrpunha ntjarra itja arrkarnalhaka Altjirranga urlarra arratja nitjika , nhanga Altjirraka turnintjaka kangkwerramala . Altjirrala pula etnanha ilaka , “ Rrangkarra nukanga urlarra arratja nama , rrangkarra yinganha tnakakalanga . ”
+45009032	Iwunhanga		Iwunhanga ? Etna Altjirranha itja tnakakalanga . Etnataka antja naka Altjirranga urlarra arratja nitjika , Altjirraka turnintjaka kangkwerramala kula . Etnantama relha panga ngerra parta nhanganga tnyinhaka .
+45010006	Ngunhama		Kanha era lakinhala intalhelaka relha ekuriperra , erala Altjirranga urlarra arratja namanga , era Kristanha tnakamanga . “ Unta itja pmarralhitjika , ‘ Ngunhama alkirurna ntjimara ? ’ ” ( nhanhatitja Kristanha alhurna tnanpulhelitjika ) .
+45010007	Ngunhama		“ Unta turta itja pmarralhitjika , ‘ Ngunhama alha kwanurna irrpumara ? ’ ” ( nhanhatitja Kristanha relha errilknga ntjarranga kngitjalputjika ) .
+45010008	~		Era pula lakinhatitja intalhelaka , “ Altjirraka Angkatja ungkwanganga etinya nama , nhanhatitja rrakarta ungkwanganhala , eterrintja ungkwanganhala turta . ” Altjirraka Angkatja nhanha era nama , angkatja nurnala rrangkarranha kaltjinthama , angkatja nurnala tnakama turta .
+45010014a	~		Relha etna pula yarna Ingkarturna ingkama , etna erinha itja arrkurla tnakakalanga . 
+45010014b	~		Etna turta Ingkartanha yarna tnakama , arrpunhala etnanha itja arrkurla Ingkartiperra kaltjinthakalanga . 
+45010014c	~		Etna turta yarna Ingkartiperra yia wuma , arrpunhala etnanha itja kaltjinthamanga .
+45010015	~		Arrpunhala turta etnanha yarna kaltjinthama , Ingkartala paka urrpia itja etnakurna yairnakalanga . Lakinhanga Altjirraka Angkatja Imankinyala nurnanha ilama , “ Urrpia etna kunha tjiparra inthorra nama , etnala yia marrakarta pitjimanga . ”
+45010016	ngunhalama		Relha Israel-arinya ntjarra , etna pula itja ingkarraka Yia Marra ekura kangkwerraka . Isaiah erarrpa nhanga ilama , “ Ingkartai , ngunhalama angkatja nurnakanha tnakaka ? ”
+45011004	nthakinhala		Kanha Altjirrala erinha nthakinhala ilaka ? “ Atha kunha artwa 7,000 nuka tnyinamantema . Etna itja Baal-aka urrkurrkintja naka . ”
+45011007	Nthakinhantama		Nthakinhantama ? Relha Israel-arinya etna kunha antja inthorra naka Altjirranga urlarra arratja nitjika . Nhanha pula itja lakinherraka . Urrputja wara Altjirranga urlarra arratja naka , urrputja nhanga Altjirrala urrarakala etnantakwia . Arrpunha ntjarranha pula Altjirrala arrthatilakala .
+45011015	Nthakinhantama		Arai , relha Israel-arinya ntjarranha ipmintja impumala , Altjirranha Relha Lorinya ntjarralela rilhererraka . Nthakinhantama nitjina Altjirrala relha Israel-arinya ntjarranha wotha inetnamanga ? Nhanha kala nitjina relha errilknganga kamerrakala ngerra .
+45011018	~		Rrangkarrantama itja tjurnalhitjika . Rrangkarra pula tjurnalhitjika eterramanga , rrangkarra ilpangkitjika Altjirrala rrangkarranha , etnanha turta kwatja nthama . Kwatja nhanhalanta kunha rrangkarranha etatha tnyinama .
+45011033a	~		Yakai , Altjirranha kunha inangkarlalkura , kaltjalkura turta nama relha ingkarrakangatjina , alkirarinya ingkarrakangatjina turta . 
+45011033b	~		Era relhaka montjamontja inthorra , kangkintja inthorra turta ntelalhama .
+45011034a	~		Relha itja Altjirraka eterrintjaka kaltja . 
+45011034b	~		Relhala itja Altjirranha kaltjinthaka .
+45011035	~		Relhala turta Altjirranha itja yultha paka nthaka , Altjirrala erinha kapanha nthitjinanga .
+45014004	~		Arai , ungkwangathaka itjama nama relha arrpunhaka urrkapunhapunha ilitjika era paala ntelalhamanga . Nhanha itornka ekuranhakathaka nama . Lakinha ngerra , unta itja Altjirraka tjina arrpunha ilitjika era paala ntelalhamanga . Altjirrala kala erinha ilitjina . Altjirrala turta erinha errkuma , era paalakarlakerrakitja .
+45014010a	Iwunhangama		Iwunhangama unta tjina tnakanhakanha ungkwanganha ilama era paala etarlaramanga ? 
+45014010b	Iwunhanga		Iwunhanga turtama unta erinha lolowuma ? Arai , nurna ingkarraka anma Altjirranga urlarra itnatjina , era turta nurnanha tjiperrawutjina .
+46001020a	~		Artwa inangkarla ntjarra etnaloa ? 
+46001020b	~		Artwa kaltja ntjarra etnaloa ? 
+46001020c	~		Artwa intarrangaltha ntjarra etnaloa ? Altjirrala nurnanha ilama , relhaka angkatja inangkarla ingkarraka , angkatja irtirta wara namanga .
+46002011	~		Arai , relhaka enkanta kunha relhaka eterrintjaka kaltja . Lakinha ngerra Altjirraka Enkanta Altjirraka eterrintjaka kaltja .
+46002016a	~		Nhanga Altjirraka Angkatja Imankinyala ilama ,
+46002016b	~		
+46003005a	Ngunhama		Ngunhama Apollos-anha ? 
+46003005b	Ngunhama		Ngunhama Paul-anha ? Ilirna kunha Altjirraka urrkapunhapunha tharra . Ilirna rrangkarranha kaltjinthamalanga , rrangkarra Altjirranha tnakaka . Ilirna wara urrkapuka , Altjirrala ilirnanha turnakala ngerra .
+46004007a	ngulama		Arai , ngulama nganha ilaka unta kula relha arrpunhanga marralkura namanga ? 
+46004007b	Iwunha		Iwunha turtama unta tnyinama , nhanha Altjirrala nganha itja nthakala ? 
+46004007c	iwunhangantama		Nhanha ingkarraka Altjirraka yearriperra namanga , iwunhangantama unta tnakalhama ?
+46004021	Iwunhakantama		Iwunhakantama rrangkarra antja ? Yinga whip-akarta pitjitjika ? Thunga yinga angkatja kangkintja , pulyapulyakarta pitjitjika ?
+46005002	~		Kanha rrangkarra tnakalhamala . Rrangkarra porerreikanhanta . Rrangkarrataka artwa nhanha erinha worla rrakangkarranhanga unputjikanta .
+46005012	~		Nukathaka itja nama relha alharinya ntjarranha tjiperrawutjika . Altjirrala etnanha kala tjiperrawutjina . Rrakangkarrathaka pula nama tjina tnakanhakanha ntjarranha tjiperrawutjika . Nhanga Altjirraka Angkatja Imankinyala ilama , “ Relha korna erinha worlamparinyanga unpai ! ”
+46006001	Iwunhama		Atha wuka tnakanhakanha nyintala , tnakanhakanha arrpunhanha ilparnakala . Kurunga era erinha court-urna kngaka , relha Altjirranha tnakitjikanha ntjarrala erinha tjiperrawutjika . Iwunhama lakinha ? Erataka erinha relha alkngaltara ntjarrurna kngeikanha , etna erinha tjiperrawutjika .
+46006003	~		Rrangkarra turta itjala kaltja nurna angel ntjarranha anma tjiperrawutjinala ? Nurna paka etnanha tjiperrawutjinanga , rrangkarra kala tjina tnakanhakanha ntjarranha irrpalthala tjiperrawuma , etna iltarrakalanga , turrakalangalka paka .
+46006004	Iwunhangantama		Rrangkarra angkama relha etnala Altjirranha itja tnakama , etna relha kotna namanga . Iwunhangantama rrangkarra etnakurna lhama , etna rrangkarranha tjiperrawutjika ?
+46006007a	~		Tnakanhakanha nyintala tnakanhakanha arrpunhanha court-urna kngamanga , nhanhalataka worlamparinyanha kornilama . Thunga tjina tnakanhakanhala nganha iltama . 
+46006007b	~		Thunga era nganha orrtjapepilama . Erinha kala impai !
+46006009	~		Rrangkarra itjala kaltja ? Relha korna ntjarra kunha itja Altjirraka Pmarurna irrputjina . Rrangkarra itja orrtjapepilalhitjika . Arai , relha etnala ntaiyawuma , relha etnala orrtja altjirraka urrkurrkintja nama , relha etnala relha arrpunhaka noalela intama , artwa etnala artwa arrpunhalela korna mpaarama ,
+46006016	~		Rrangkarra itjala kaltja ? Artwa erala arrkutja tnapurtalela korna mpaarama , era arrkutja tnapurtaka mpurrkalela nyinterrama . Altjirraka Angkatja Imankinyala nhanga ilama , “ Eratharra mpurrka nyinterritjina . ”
+46006019	~		Rrangkarra itjala kaltja ? Mpurrka rrakangkarranha kunha Enka Alkngaltaraka temple nama . Enka nhanha erinha Altjirrala rrakangkarrurna yairnakala . Enka era turta rrakangkarranga kwanala nama . Lakinhanga mpurrka rrakangkarranha kala Altjirrakantama nama .
+46007016a	~		Arrkutjai , untala Altjirranha tnakama , unta pula itja kaltja unta paka artwa noa ungkwanganha tangkalhelitjinala . 
+46007016a	~		Artwai , untala Altjirranha tnakama , unta turta itja kaltja unta paka arrkutja noa ungkwanganha tangkalhelitjinala .
+46009007a	~		Tjapartia ntjarranha pula itornka etnakanhala kwartiwumala . 
+46009007b	~		Artwa etnala grapes-aka tnukulpala urrkapuma , etna pula tnukulpa ekuranga grapes ilkumala . 
+46009007c	~		Artwa etnala nanny goat ntjarra ntarntarama , etna pula nanny goat-aka milk ntjumala .
+46009018	Iwunhantama		Iwunhantama kwartiwuntja nuka nama ? Nhanhanta , atha relha ntjarranha Yia Marra erinha kaltjinthamanga , kwartiwuntjarapa . Nukathaka kala nama kwartiwuntjaka enkitjika . Yinga pula itja kuta enkitjina .
+46010019a	~		Lakinha angkamala , atha itja rrangkarranha ilama orrtja altjirra etna nthurrpa namanga , tjauwerrilya nhanga relhalala etnanha nthama , etna turta kula nthurrpa namanga .
+46010019b	~		
+46010019c	~		
+46010029	~		Itja unta parrparterrakitja , era parrparterrakitja . Arai , nukathaka nama kara ilkutjika , yinga paka antja namanga . Arrpunhala yinganha yarna parrama .
+46010030	~		Atha paka Altjirranha dangkilamanga , kara ilkutjinala , arrpunhala yinganha yarna ilparnama , yinga kula korna ntelalhamanga .
+46011022	Nthakinhantama		Yai , rrakangkarra itjala iltha intama ekurala ilkutjika , ntjutjika turta ? Kunpalama rrangkarra Altjirraka worlamparinya arrampowuma , ilkngara ntjarranha turta lolowuma ? Nthakinhantama yinga rrakangkarrurna angkamara ? Atha rrangkarranha tnantjitjika ? Itja , atha rrangkarranha yarna tnantjama .
+46012017a	~		Mpurrka nurnakanha paka alknganta namanga , nurna yarna wumara . 
+46012017b	~		Mpurrka nurnakanha paka ilpanta namanga , nurna yarna ntjarnamara .
+46012019	~		Kapurtanta paka namanga , nhanha itjama mpurrka nama .
+46014006	nthakinhama		Tjina ntjarrai , yinga paka rrakangkarrurna pitjimanga , rrakangkarrurna angkatja etarlingetarlakunya turta angkamanga , nthakinhama atha rrangkarranha ekarltilamara ? Atha pula rrangkarranha Altjirraka angkatja ilamanga , angkatja katha , angkatja nhanga Altjirralakimparra yinganha ilakala , kurunga atha rrangkarranha ekarltilamara .
+46014007	~		Rrangkarra irna music-akanha etarlaramama ? Relhala paka etnanha itja arratja angkalhelamanga , relha arrpunhala inurra itja lhangkaritjina .
+46014008	~		Nhanha turta etarlarai . Artwala paka trumpet itja arratja angkalhelamanga , tjapartia ntjarra itja turritjika worlerritjina .
+46014009	~		Lakinha ngerra , rrangkarra paka itja angkatja katha angkamanga , arrpunhala rrangkarranha itja wutjina . Rrangkarra kala wurinyurnanta angkarlanitjina .
+46014015	Nthakinhantama		Nthakinhantama ? Arrpunharanga yinga kala enka nukanharlarlanga Altjirrurna ingkitjina . Arrpunharanga pula yinga eterrintjakartala Altjirrurna ingkitjina . Arrpunharanga yinga kala enka nukanharlarlanga ekura lyilhitjina . Arrpunharanga pula yinga ekura eterrintjakartala lyilhitjina .
+46014016	Nthakinhantama		Arai , thunga rrangkarra pepaka worlerrakala nama . Untantama Altjirranha tnantjama , angkatja etarlingetarlakunya angkamala . Arrpunha ntjarrala pula nganha itja wuma . Nthakinhantama etna “ Amen ” angkitjina ?
+46014026	~		Tjina ntjarrai , rrangkarra pepaka worlerramalanga , rrangkarra kala marra tangitjala pepa mpaarama . Rrangkarra pula pepa mpaaritjika worlamparinyanha ekarltilitjika . Nhanga relha etnala psalm-aka read-errama , relha etnala Altjirraka angkatja kaltjinthama , relha etnala etarlingetarlakunya angkama , relha etnala angkatja etarlingetarlakunya angkakala etnanha nentilama , etna ingkarraka worlamparinyanha ekarltilitjika .
+46014036	~		Corinth-arinya ntjarrai ! Rrakangkarrangama Altjirraka angkatja rrataka ? Rrangkarranta turtama Altjirraka angkatja wuka ?
+46015012	Nthakinhantama		Nurna kaltjinthama Altjirrala Kristanha errilknga ntjarranga kamalhelakala . Nthakinhantama rrakangkarranga arrpunha ntjarra angkama , Altjirrala kula relha errilknga ntjarranha itja kamalhelitjina ?
+46015029a	~		Altjirrala paka relha errilknga ntjarranha itja kamalhelitjinanga , 
+46015029b	iwunhangantama		iwunhangantama arrpunha ntjarra lanthalhama arrpunhala etnanha relha errilkngakakwia kaltjirrpulhelitjika ? 
+46015029c	Nthakinha		Nthakinha turtama relha nhanha etna wulhitjina , Altjirrala relha errilknga ntjarranha itja kamalhelitjinanga ?
+46015030a	~		
+46015030b	Iwunhanga		Iwunhanga turtama nurna relha ntjarranha kuta kaltjinthama , etna nurnanha errilknga tutjika antja namangatanya ?
+46015032	Iwunhanga		Iwunhanga turtama yinga Ephesus town-ala tnontha itnura ntjarralela turraka ? Altjirrala paka relha errilknga ntjarranha itja kamalhelitjinanga ,
+46015035a	Nthakinha		Thunga arrpunhala yinganha pmarrama , “ Nthakinha inthorrama Altjirrala relha errilknga etnanha kamalhelitjina ? 
+46015035b	iwunhakarta		Mpurrka iwunhakarta turtama era etnanha kamalhelitjina ? ”
+46015055a	~		“ Arai , Ingkartala nurnanha
+46015055b	~		
+47002002	ngunhalantama		Arai , atha paka rrangkarranha ltarrpilamanga , ngunhalantama yinganha tjipatjipilitjina ?
+47002016	~		Arrpunha ntjarralantama etarlaritjina nurna yia kornakarta pitjikala , yia nurnakanhala etnanha imilamanga . Kanha arrpunha ntjarrala etarlaritjina nurna yia marrakarta pitjikala , yia nurnakanhala etnanha tangkalhelamanga .
+47003008	~		Lakinha Altjirranha nhanga Israel-aka ramaramaka makalaria ntelalhaka , era parta kaputhala Moses-anha turnintja ekuranha nthamalanga .
+47003009	~		Lyarta pula Altjirranha relha ntjarraka makalarialkura ntelalhama , era relha ntjarranha ilamalanga , “ Rrangkarra Yia Marra erinha tnakamanga , rrangkarra nukanga urlarra arratja nama . ”
+47006014a	~		Relha arrpunha ntjarrala Altjirranha itja tnakama . Rrangkarra itja etnaka lhangalhitjika . Arai , relha marra , relha korna turta tweta nama . Parrtja , thapathapa turta tweta nama .
+47006014b	~		
+47006015a	~		Kristanha itja Satan-aka tjina nama . 
+47006015b	~		Kristaka tjina ntjarra turta yarna Satan-aka tjina ntjarraka , tjina nama .
+47006016	~		Altjirraka temple , orrtja altjirraka temple turta tweta nama . Arai , worlamparinya nurna kunha Altjirra etatha ekura temple nama . Altjirraka Angkatja Imankinyala ilama ,
+47011011	Iwunhanga		Iwunhanga pula yinga itja money-aka enkaka ? Yinga rrakangkarra itja kangkamanga ? Altjirra kaltja yinga rrakangkarra kangkamanga .
+47011029a	~		Tnakanhakanha arrpunha paka nakapakarlerramanga , yinga turta nakapakarla wulhama . 
+47011029b	~		Tnakanhakanha arrpunha paka korna ntelalhamanga , yinga ltarrpa wulhama .
+47012013	~		Arai , yinga turta rrakangkarra ntelalhaka , yingala worlamparinya arrpunha ntjarraka ntelalhakala ngerra . Nyinta nhanhanta itja . Yinga itja rrakangkarra money-aka enkaka . Nhanhangama rrangkarra nuka antjakunyerrama ?
+47012017	~		Urrpia nhanga athala rrakangkarrurna yairnakala , etna paka rrakangkarranga money tjauwerrilya nyilknganyilkngala inakama ?
+48002014	Iwunhangantama		Atha araka etna itja arratja ntelalhamanga , Yia Marra erinha turta parrpartilamanga . Athantama Peter-anha ilaka , tnakanhakanha ingkarrakanga alkngatharra , “ Unta relha Jew namangatanya , unta nhanga Relha Lorinya ngerrarrka ntelalhaka , itja relha Jew ngerra . Iwunhangantama unta lyarta antja nama Relha Lorinya ntjarra , relha Jew ngerra ntelalhitjika ? ”
+48003001	Ngunhalantama		Galatia-arinya ntjarrai , rrangkarrataka rirta inthorrerrakarrpa . Atha nhanga rrangkarranha katha inthorra kaltjinthaka Jesua Kristanha ntolkala ilukala . Ngunhalantama rrangkarranha parrpartilaka ?
+48003019	Iwunhangantama		Iwunhangantama Altjirrala relhanha turnintja ekuranha ilaka ? Altjirralataka relhanha turnintja ekuranha ilaka , relhala lhangkaritjinanga etna korna ntelalhamanga . Altjirrala ingkairnaka nhanha kala lakinha nitjika , annga lhelakala era pitjitjinalpula . Turnintja nhanha etnanha kunha angel ntjarrala relhanha ilakala , urrpia nyintarlarlanga .
+48004009a	Iwunhangantama		Lyarta pula rrangkarra Altjirra nthurrpa ekura kaltjantama . Lakinhatitja , Altjirra nthurrpa era rrakangkarratitja kaltja . Iwunhangantama rrangkarra wotha mpaarangaranga ingkwia nhanga ntjarraka kangkwerrama ?
+48004009b	~		
+48004010	~		Rrangkarra kunha thakerrama imanka nhanga ngerra wotha urrkurrkintja nitjika .
+48004015	~		Lyartaloa ? Rrangkarra paka nuka kangkamantema ? Yinga kaltjakwia , arrkurla nhanga rrangkarra kala alknga rrakangkarranha urlpuntjimala yinganha nthitjika naka .
+48004021	~		Relha rrangkarrala wotha antja nama Altjirraka turnintjakarta nitjika , rrangkarra nhanhiperrarrka etarlarai .
+48004030	nthakinhala		Altjirraka Angkatja Imankinyala pula nurnanha nthakinhala ilama ? “ Marla urrkapunhapunha nhanga , worra ekuranha turta , kala unpurlenantai . Worra marla urrkapunhapunhakanhala kunha itja worra noa inthorrakanhaka pmaralka initjina . ”
+48005007a	Ngunhalantama		Arai , rrangkarrataka arratja inthorrarrka ntelalhaka . Ngunhalantama rrangkarranha parrpartilaka ?
+48005007b	~		
+48005011	iwunhangantama		Tjina ntjarrai , relha arrpunha ntjarra angkama atha kula relha ntjarranha kutantema kaltjinthama , tnakanhakanha ntjarra turta artwerritjika , relha Jew ntjarraka mpaarangarangamalkura . Atha paka etnanha nthurrpa lakinha kaltjinthamanga , iwunhangantama relha Jew ntjarrala yinganha kuta tutjika lurnama ? Atha paka etnanha nthurrpa lakinha kuta kaltjinthamanga , relha Jew ntjarra itja kekarta lhamara , atha etnanha ntolkiperra kaltjinthamalanga .
+49004009	Ngunhantama		Ngunhantama “ ntjinhakala era ” ? Kristanha kunha , erala alha kwanurnarrka irrpukala .
+50001018	~		Yinga pula etnaka itja antjakunyerrama . Yinga arrkanatitja nama , etna turta relha ntjarranha Kristiperra kaltjinthamanga .
+50001021	~		Arai , yinga paka kuta etatha namanga , yinga Kristakakwia etatha nama . Yinga paka ilumanga , nhanha nuka tjiparralkurala namara .
+51002020	Iwunhangantama		Rrangkarra nhanga Kristalela nyinterramalanga , rrangkarra kala iluka ngerra . Lakinhanga errintja etna itja wotha rrakangkarra tjitjarterritjika . Iwunhangantama rrangkarra ntelalhama errintja etna rrakangkarra kuta tjitjarterramanga ngerra ? Iwunhangama rrangkarra kangkwerrama arrpunhala rrangkarranha ilamalanga ,
+52002019	Iwunhanga		Arai , Ingkarta nurnaka Jesuanha pitjalpumalanga , nurna antja nama rrakangkarrakarta ekuranga urlarra itnatjika . Iwunhanga ? Rrangkarra warta ntelamanga nurna ilporatha urrkapukala .
+52003009	~		Nurna turta Altjirranha kngarra inthorra dangkilama rrakangkarrakwia , rrangkarra nurnanha kngarra arrkanilakalanga .
+54003005	nthakinhantama		Etarlarai , era paka ramarama ekuranha yarna arratja rretjingamanga , nthakinhantama era Altjirraka worlamparinya arratja rretjingitjina ?
+54006007a	~		Nurna itjama yulthakarta katjia intaka . 
+54006007b	~		Nurna turta yarna yultha nurnakanha kngetnama nurna ilumanga .
+58001005	~		Etarlarai , Altjirrala itja angel nyintanha paka ilaka ,
+58001013	~		Altjirrala turta itja kuta angel nyintanha lakinha paka ilaka ,
+58001014	Iwunhantama		Iwunhantama angel etna nama ? Etna kunha enka marra ntjarra nama . Altjirrala etnanha yairnama relha lenha ntjarraka tangitjala nitjika , etnanhala era tangkalhelitjinala .
+58002003	~		Yia Marra nurnala wukala , era pula angkatja arrpunha nhanganga tjiparralkurala nama . Lakinhanga nurna paka Yia Marra erinha ipmintja impumanga , Altjirrala nurnanha kngarralkura rrarrathala tutjina . Arai , Yia Marra nhanha erinha kunha Ingkarta erarrpa relha ntjarranha ilakala . Kurunga relha etnala Ingkartanha angkamanga wukala , etna nurnanha ilaka angkatja era arratja inthorra namanga .
+58002006a	~		Altjirraka Angkatja Imankinya arrpunhala nhanga ilama ,
+58002006b	~		
+58003016	Ngunha		Ngunha ntjarralama Altjirranha wuka etnakurna angkamanga , ekuranga kekarta lhaka turta ? Relha ingkarraka etna kunha , etnanhala Moses-ala Egypt-anga rratalhelakala .
+58003017	Ngunha		Ngunha ntjarrakama Altjirranha aalerraka worritjala , 40 years-aka ? Relha etnaka kunha , etnala ekura irrpaltherrakala . Etna turtantama worritjala iluka .
+58003018	Ngunha		Ngunha ntjarranhama Altjirrala lhelaka , “ Rrangkarra itja kuta pmara nukanhurna irrputjina , ekurala kala iltjerramalantama nitjika ? ” Relha etnanha kunha , etnala ekura itja kangkwerrakala .
+58006004	~		Altjirrala kunha relha tnakanhakanha ntjarraka eterrintja kala arratjilaka . Tnakanhakanha etna turta kala lhangkaraka Altjirranha ngwanga namanga . Altjirrala turta Enka Alkngaltara erinha etnakurna yairnaka .
+58007011	Nthakinhantama		Altjirrala nhanga Moses-anha turnaka , artwa etnanta priest nitjika , etnala Levi-aka ramarama namanga . Priest nhanha etna pula relha ntjarranha yarna Altjirralela ngampakala rilherilaka . Nthakinhantama relha ntjarra Altjirralela ngampakala rilhererramara ? Etnaka priest arrpunhanta namanga , priest Melchizedek ngerra , itja priest Aaron ngerra .
+58009014	~		Kristanha pula korna rapa naka . Era Altjirraka nthalhaka , tjauwerrilya ngerra , Enka Ngampakalarlarlanga . Lakinha era etakintja nurnakanha turta ilkngika , alhwa ekuranhala . Nurna Altjirra etatha ekurantama kangkwerritjinanga , itja lherrintja korna nurnakanhaka . Lherrintja kornaka kangkwerramala kunha relha ilumanta .
+58010001	~		Altjirrala mpaarangaranga arrkurlinya ekuranha ingkairnaka , relha ntjarra etnaka kangkwerritjika , Kristanha pitjitjinalpula . Mpaarangaranga arrkurlinya nhanha etna turnaka priest ntjarrala year-ama-year , tjarrilpmintja , Altjirranha tjauwerrilya nthitjika . Tjauwerrilya etna pula relhanha yarna Altjirralela ngampakala rilherilaka .
+58010029a	~		Lyarta , relha erala Altjirraka ' Lira arrampowumanga , erinha Altjirrala kngarralkura rrarrathala tutjina . 
+58010029b	~		Ilumala , Kristala relhanha , Altjirranha turta tjinilaka . 
+58010029c	~		Altjirraka Enkala turtantama relhanha kaltjinthaka , Altjirranha ngwanga namanga . 
+58010029d	~		Relhala paka Altjirraka ' Lira pa Altjirraka Enka lolowumangantama , Altjirrala erinha yarna wotha tangkalhelama .
+58011032	~		Tnakanhakanha arrpunha ntjarra nakantema . Nhanga Gideon , Barak , Samson , Jephthah , David , Samuel , Altjirraka urrpia arrpunha ntjarra turta . Atha pula itja yia kngarra etnakiperra intalhelitjina .
+58012007	~		Rrangkarrataka kunpa nyingalauwutjika . Rrangkarra ' lira ekuranha namanga warta , Altjirrala rrangkarranha arratjilitjika tuma . Lakinha kunha kaarta alharinya ingkarrakala ' lira etnakanha arratjilitjika tumantema .
+58012009	~		Arai , kaarta alharinya nurnakanhala nurnanha ingkarrakanha arratjilitjata , tumala . Nurna turta etnaka kangkitjata kuta . Wothalkurantama nurna Kaarta alkirarinya nurnakanhaka kangkwerritjika , era nurnanha arratjilitjika tumalanga , nurna ekuralela kuta etatha nitjinanga .
+58012025	~		Rrangkarrataka Altjirraka arratja inthorra kangkwerritjika , era rrakangkarrurna angkamalanga . Arai , Altjirranha nhanga Israel-aka ramaramurna angkaka , Sinai Partala . Etna pula ekura itjala kangkwerraka . Lakinhanga era etnanha tuka . Era lyarta nurnakurna alkirangantama angkamalanga , nurna ekura kala kangkwerritjikanta . Itjanga paka , era nurnanha kngarralkura tutjina .
+58013006	~		Lakinhanga nurna tnoatnoa irrpalthala angkama ,
+59002006	~		Kanha rrangkarra relha ilkngara ntjarranha lolowumala . Rrangkarra kala kaltja , relha netaneta etna kunha rrangkarranha nakapakarlilama . Etna inthorrantema rrangkarranha court-urna kngama .
+59002014	~		Tjina ntjarrai , thunga arrpunha angkama , “ Atha Altjirranha tnakama . ” Era pula itja Altjirraka kangkwerrama . Relha nhanhalataka Altjirranha itja arratja tnakama . Lakinhanga Altjirrala erinha itja tangkalhelitjina .
+59002016a	~		Kurunga unta erinha ilama , “ Kala marra alpai . Mantarra marraka irrpai . Marna kngarra turta ilkwai . ” Unta pula erinha itja mantarra , marna paka nthama . 
+59002016b	Iwunha		Iwunha pakama lakinha ? Nhanha kunha palkala wara nama .
+59002018	~		Thunga relha arrpunha angkama , “ Unta Altjirranha tnakama . Yinga pula Altjirraka kangkwerramala . ” Atha erinha lakinha ilamara . Altjirranha tnakitjika , Altjirraka kangkwerritjika turta , nhanha itjama twetakatweta nama . Nhanha kala nyinta ngerra kuta nama . Relha erala Altjirranha arratja tnakama , era kala Altjirraka kangkwerrama turta .
+59002021	~		Unta Abraham-anha etarlarama ? Iwunhangama Altjirrala erinha ilaka , “ Unta nukanga urlarra artwa arratja nama ? ” Era nhanga Isaac-anha altar-aka arrarnamala tutjika nakalanga .
+59003013	~		Thunga rrangkarra etarlarama rrangkarra inangkarla namanga , kaltja turta . Kurunga rrangkarra yinganha ntelai rrangkarra nthurrpa inangkarla namanga , arratja ntelalhamala , Altjirraka kangkwerramala , tjurnalhitjala namala turta .
+59003017	~		Altjirrala pula rrangkarranha kaltjinthamanga inangkarla nitjika , rrangkarra alkngaltara nitjina . Rrangkarra rilhera , ngwanga , antja pulya , montjamontja turta ntelalhitjina . Rrangkarra turta relha ingkarrakaka loala kuta kangkintja ntelalhitjina , pmathakunya .
+59004001a	Iwunhanga		Rrangkarra kunha turrama , iltarrama turta . Iwunhanga ? Lherrintja korna rrakangkarranha , eterrintja marra rrakangkarranhalela iwurramanga warta .
+59004001b	~		
+59004012	~		Arai , Altjirrakathakanta nama relhanha turnitjika . Altjirrakathakanta turta nama relhanha tjiperrawutjika , tangkalhelitjika paka . Nhanha itja rrakangkarrathakalka nama .
+59004014	Iwunha		Inguntha nthakinhamerritjina ? Rrangkarra kunha itja kaltja . Iwunha ngerra turtama rrangkarra nama ? Rrangkarra kunha ura kwarta ngerra nama . Rrangkarra kurrka wara nama , kurunga rrangkarra kala yirrama .
+60002020	~		Thunga pula itornka rrakangkarranhala rrangkarranha tuma , rrangkarra korna urrkapukalanga . Rrangkarra turtantama kunpa nyingalauwuma . Rrangkarra yarna tnakalhama . Rrangkarra pula kunpa nyingalauwumanga , rrangkarra marra urrkapukalangatanya , nhanhaka Altjirranha kangkamala .
+60003013	Ngunhalama		Ngunhalama rrangkarranha kornilitjina , rrangkarra paka thakerramanga marra ntelalhitjika ?
+60004017	~		Arai , Altjirrala kala relha ntjarranha tjiperrawutjikerrama . Erantama worla ekuranhakimparra tjiperrawutjina . Kurunga era arrpunha ntjarranha tjiperrawutjina , etnala Yia Marra ekura itja kangkwerrakala . Relha nhanha etna iltjalai erritjina .
+60004018	~		Altjirraka Angkatja Imankinyala ilama ,
+61003004	Nthanhama		Etna rrangkarranha pmarritjina , “ Nthanhama Ingkarta era , erala rrangkarranha lhelakala , pitjalputjika ? Kngarripata nurnakanha ntjarra kala iluka . Kanha alkira etna , alhalka Altjirralala arrpmarnakala , etna kuta namantemala . ”
+61003011	~		Altjirrala alha , alkira etnanhalka yirralhelitjina . Lakinhanga rrangkarra alkngaltara , arratja turta ntelalhitjika .
+62002022	~		Relha erala ilama Jesuanha itja Krista era namanga , era orrtjaltha nama . Era kala Kristaka Leltja Kngarra era nama . Era Kaartanha pa ' Liranha yiparrarnama .
+62003012	Iwunhangama		Nurna itja Cain ngerra nitjika . Era errintjakanha naka . Era turta tjia ekuranha errilknga tuka . Iwunhangama era tjia ekuranha errilknga tuka ? Era tjia ekuranha errilknga tuka era arratja ntelalhamanga , erarrpa pula korna ntelalhamanga .
+62003017	~		Thunga nurnaka marnalka intama . Nurnantama tjina tnakanhakanha arama marnaka paalerramanga . Nurna paka ekura itja konyerramanga , nurna itja kuta kangkintja ntelalhama , Altjirranhala nurnaka kangkintja ntelalhamanga ngerra .
+62004020	~		Thunga relha angkama , “ Yinga Altjirraka kangkama . ” Era pula tjina tnakanhakanhaka itjala kangkama . Relha nhanhataka orrtjerrama wara . Relha erala tjina tnakanhakanhaka itja kangkama , erinhala era arama , era yarna kuta Altjirraka kangkama , erinhala era itja arama .
+62005005	ngunhalama		Relha ngunhalama errintja erinha pmakwinama , lherrintja korna ekuranha turta ? Relha eranta kunha , erala Jesuanha tnakama , era Altjirraka ' Lira namanga .
+66005002	Ngunhama		Athantama wuka angel ekarlta inthorrala alkirarinya ntjarranha pmarramanga , angkatja intarrala , “ Ngunhama yalknga nama pepa nhanha erinha altjurilitjika , irna wax etnanha turta ilutjika ? ”
+66006010a	Ilangarama		Kurruna etnantama ilkaka , “ Ingkarta Ekarlta Inthorrai , unta kunha alkngaltara nama , unta turta itja orrtjerrama . Ilangarama unta relha lenha ntjarranha tjiperrawutjina , 
+66006010b	~		kapanha tutjina turta , etnala nurnanha errilknga tukala ? ”
+66006017	nthakinherritjina		Eratharra kunha nurnanha kala rrarrathala tutjikerrama . Nurnantama nthakinherritjina ? ”
+66007013a	Ngunhama		Kngarripata nyintalantama yinganha pmarraka , “ Ngunhama relha nhanha ntjarra , etnala mantarra tjulkuraka ekarralhakala ? 
+66007013b	nthanhanga		Unta paka kaltja nthanhanga etna pitjikala ? ”
+66013004a	~		Etnantama kurlaiya ngerra kngarritja ekura urrkurrkintja naka , era tnontha korna erinha ingkairnakalanga katha ekuranhala relhaka tjitjarterritjika . Etna tnontha korna ekura turta urrkurrkintja nakantema . Etna lakinha angkaka , “ Tnontha korna nhanha ngerra arrpunha itja nama . 
+66013004b	~		Arrpunhala erinha yarna pmakwinama , ekuralela turrama paka . ”
+66015004a	~		Relha ingkarraka ungkwanganga
+66015004b	~		
+66017007	Iwunhangala		Angel erantama yinganha pmarraka , “ Iwunhangala unta tnolkamala yapmama ? Atha nganha kala arrkutja ekuriperra ilitjina . Atha turta nganha tnontha korna ekuriperra ilitjina , erala kapurta 7-akarta namanga , rrulyarrulya 10-akarta turta . Ekuranga kartninyala arrkutja era nartnama .
+66018018	~		Urakwarta erinha aramala Babylon-anga ntjinhamanga , etna ilkaka , “ Town arrpunha Babylon ngerra itja naka paka . ”

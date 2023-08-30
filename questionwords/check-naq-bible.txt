@@ -1,0 +1,743 @@
+40002002	Mapab		mî raǃâ : Mapab ǀase ǃnae hâ gao-aob Jodeǁîn diba hâ ? ǀGamiros âba ge ge aiǂoas ǃnâ mû tsî go hā , ǀgoreǀî bi nîse .
+40002004	mapab		Tsîb ge ǀgapipristergu tsî xoaǂansabegu ǁaes digu hoaga ǀhaoǀhao tsî ge dîǃnâ gu , mapab nî Xristuba ǃnae ǃkhaisa .
+40003007	tari-e		Tsî Farisegu tsî Sadusegu ǂguigu ǁîb ǁāǁnâs ǃoa ra hā ǃkhaisab ge mûo , ob ge ǁîgu ǃoa ge mî : Sa ǀaon ôado , tari-e sado ge ǁgau , ǃgoaxa ǁaiba du nî ǁhaixū ǃkhaisa ?
+40005013	tare-i		Sadu ge ǃhūbaib di ǂōdo ; tsî i ga ǂō-e ǁkhoaoǃnâ , o tare-i ǀkha i kha nî ǁkhoaǁkhoahe ? ǃAruǀî i kom xū-i xare-e harebe tamao , aoǂuihes tsî khoen xa dā-aihes ǀguisa i kom anu hâo .
+40005046	mâ		Sado ǀnam hân ǀguina du ga ǀnamo , mâ amǃnâ-e du ǁnâi ūhâ ? ǁNāsan kha mariǃkhōǃoa-aona ǁkhāti dī tama hâ ?
+40005047	mâ		Tsî sadu ǃgâsan ǀguina du ga tawedeo , mâ xū-e du kha naun ǂamai ra dī ? ǀŪbena kha ǁnās ǁkhās ase dī taman hâ ?
+40006027	tari-e		Tsî tari-e sadu ǃnâ , ǂhansens ǀkha ǁî-i di gaxusib tawa , ǀgui ela a ǁguiri ǁkhā ?
+40006028	tarexa		Tsî tarexa du anaxūb xa ra ǂhansen ? ǃAub di ǃkhārona ǃgaoǃgâ , matin ra ǀomsa ; sîsen taman hâ , tsî ǀhôa taman hâ .
+40006031a	tare-e		Tā ǁnâi ǂhansen : Tare-e da nî ǂû , 
+40006031b	tare-e		tsî tare-e da nî ā , 
+40006031c	tare-e		tsî tare-e da nî anasen ?
+40007003	matits		Tsî matits ra ǀapoba sa ǃgâsab di mûs ǃnâ mû , tsîts sa mûs ǃnâ hâ ǃnao-e hōǃâ tama hâ ?
+40007004	matits		Tsî matits ra sa ǃgâsab ǃoa mî : ǁNam î ta ǀapoba sa mûsa xu ūǂui , tsî mû , ǃnao-i ge sa mûs ǃnâ ǁgoe .
+40007009	Mâ		Mâ khoeb sadu diba kha , ǁîb ôasab ga pere-e ǂgan bio , ǀui-e nî mā bi ?
+40007016a	~		ǁÎgu ǂûn ai du ge nî mûǂan gu . ǁKhūdi tawa ǂauxûiǂûhais ǂûna ǃora da ra , 
+40007016b	~		tsî ǁkhūxa haidi tawa ǀnomas ǂûna ǃora da ra ?
+40008026	Tarexa		Ob ge ǁîgu ǃoa ge mî : Tarexa go ǃaoǃnâ , sa ǂkhariǂgomxaǃnâgo ? Tsî khâi tsîb ge ǂoagu tsî hurirob tsîna ge ǃgabe , ob ge kai ǃnōsasiba ge hā .
+40008027	Mâ		On ge khoena buru , tsî ge mî : Mâ khoeǃnôaba kha nēb , ǂoagu tsî hurirob on xa ra ǁnâuǀnamheba ?
+40008029	Tare-e		Tsî mû , ǂgaiǂui tsî kha ge ge mî : Tare-e khom sikhoma sats ǀkha ǁae hâ , Jesu , Elob Ôatse ? Ganupeb ǁaeba hā tama hîats ge go hā , tsûtsû khomts nîse .
+40009004	Tarexa		Ob ge Jesuba ǂâidi âga ǂan tsî ge mî : Tarexa go ǂkhababa ra ǂâi sago ǂgaogu ǃnâ ?
+40009005	Mâsa		Mâsa kha supu nēra xa : ǁOren âtsats ǀûbahe hâ , tsî : Khâi î ǃgû ! ti mîs tsîra xa ?
+40009011	Tarexab		Tsî Farisegu ge mû , o gu ge ǁîb ǁkhāǁkhāsabegu ǃoa ge mî : Tarexab kha ǁkhāǁkhā-aob âgo mariǃkhōǃoa-aogu tsî ǁore-aogu tsîgu ǀkha ra ǂû ?
+40009014	Tarexa		ǃNubai gu ge Johaneb ǁkhāǁkhāsabega ǁîb ǃoa hā tsî ge mî : Tarexa ge sige tsî Farisegu tsîge ǂûtama ra hâ , o gu sa ǁkhāǁkhāsabega ǂûtama a hâ ǁoa ?
+40009015	Matin		Ob ge Jesuba ǁîgu ǃoa ge mî : Matin ǃgameǁâus khoena nî ǃoa , ǃgame-aob ganupe ǁîn ǀkha hâ hîa ? Xawe di ge tsēde nî hā , ǃkhoeǂgâsabeb ǁîna xu nî ūbēhesa , on ge ǂûtama nî hâ .
+40010025	matikōsen		Ab ǁkhāǁkhāsabeba ǂkhî ǁkhāǁkhā-aob khamib ga io ; tsî ǃgāba ab ǂkhî , ǀhonkhoeb khamib ga io . Oms ǀhonkhoeban ga Beelsebuli ti ǂgaio , matikōsen nî ǁnās ǃgâ-ai oms dina ǁnāti ǂgai .
+40011007	Tare-e		Tsî nēgu ge ǃgû , ob ge Jesuba ǂnubidi ǃoa Johaneb xa ge mîtsoatsoa : Tare-e nî mûse du kha ǃgaroǃhūb ǃoa go ǂoa ? ǂĀ-i , ǂoab xa ra ǃgomhe-e ?
+40011008	Tare-e		Tare-e du nî mûse du kha go ǂoa ? Khoe-i , tsamra saran ǀkha anasen hâ-e ? Kō , tsamra sarana ana hân ge gao-aogu omgu ǃnâ ra hâ .
+40011009	Tare-e		Tare-e du nî mûse du kha go ǂoa ? Kēbo-aoba ? Aio , tita ra mîba du , kēbo-aoba xawe ǃnāǂam hâba .
+40011016	tare-i		Tsî tare-i ǀkha ta kha nē ǃhaosa nî ǂkhō ? ǀGôaron khamin kom io , ǁamaxūǃkhais tawa ǂnû tsî horesan âna ǂgaiǀî
+40012011	Mâ		Ob ge ǁîgu ǃoa ge mî : Mâ khoeba kha hâ sadu ǃnâ ǀgui gū-e ūhâb , tsî i ga ǁî-e sâtsēs ai tsau-i ǃnâ ǁnāo , ǁî-e ǃkhō tsî ūǂui tideba ?
+40012026	matis		Tsî Satanni ga Satanna aoǂuio , ob kom ǀgoraǃāsen hâo , matis ǁnâi gaosis âba nî hâhâ ?
+40012027	tari-e		Tsî tita ga Beelsebula xu ǁgâuaga aoǂuio , tari-e xu gu ǁnâi sadu di ôaga ra aoǂui gu ? ǁNā-amaga gu ge nî ǁîga sadu ǂhanuǂhanu-ao .
+40012029	mati		Tsî mati i kha khoe-e ǀgaisab oms ǃnâ ǂgâ , tsî ǁîb xapana nî ǃnari , aibe i ga ǀgaisaba ǃgae tama io ? ǁNās khaoǃgâ i kom ǁîb omsa nî khôaǂgâo .
+40012034	mati		Sa ǀaon ôado , mati du kha nî ǃgâina ǃhoa , ǂkhaba du a hîa ? ǀOasib ǂgaob diba xus kom amsa ra gowao .
+40012048a	mâsa		Ob ge ǃeream tsî mîba bi ra-i ǃoa ge mî : Mâsa ti î , 
+40012048b	mâna		tsî mâna ti ǃgâsa ?
+40013010	Tarexats		O gu ge ǁkhāǁkhāsabega hā , tsî ǁîb ǃoa ge mî : Tarexats ra ǁîna ǃoa ǂkhōdi ǃnâ ǃhoa ?
+40013027	Mapa		O gu ge ǃgāgu ǀhonkhoeb diga hā , tsî ǁîb ǃoa ge mî : ǃKhūtse , ǃgâi ǃkhom-ets kha sa ǃhanab ǃnâ tsoro tama hâ ? Mapa xub ǁnâi ǀomatsâna ūhâ ?
+40013054a	mapa		Tsî ǁîb di aboxan ǃhūb ǃnâb ge sī , ob ge ǁîn di sinagogegu ǃnâ ge ǁîna ge ǁkhāǁkhā ǁîn ge ǃhuris kōse , tsîn ge ge mî : Mapa xub kha nēba nēti ī gā-aisib 
+40013054b	~		tsî ǀgaigu tsîna ūhâ ?
+40013056	Mapa		Tsî ǃgâsadi âba , hoade kha sada ǀkha hâ tama di hâ ? Mapa xub ǁnâi nēba nēn hoana ūhâ ?
+40014031	tarexats		Ob ge Jesuba ǁnātimîsi ǃomma ǀhōǂui , ǃkhō bi , tsî ǁîb ǃoa ge mî : Sa ǂkhariǂgomxaǃnâtse , tarexats go îganǀgē ?
+40015002	Tarexa		Tarexa gu kha ǁkhāǁkhāsabegu âtsa ǂnûiǂgādi kaigu dide ra ǃûǂam ? ǁÎgu ǃomga gu kom ǁā tamao , pereba , gu ra ǂû ǃnubai .
+40015003	Tarexa		Ob ge ǃeream tsî ǁîgu ǃoa ge mî : Tarexa go kha sago ona Elob di mîmāsa ra ǃûǂam sago di ǂnûiǂgādi ǀkha ?
+40015033	Mapa		O gu ge ǁkhāǁkhāsabegu âba ge mîǀî bi : Mapa xu ge ǁnâi nē ǃgaroǃhūb ǃnâ ǁnātikō perega nî hō , nētikō kai ǂnubis nî ǁâǁâhes kōse ?
+40015034	Matikō		Ob ge Jesuba ǁîgu ǃoa ge mî : Matikō perena go ǁnâi ūhâ ? O gu ge ge mî : Hû peren tsî ǀoro ǁauron tsîn ǀguina .
+40016008	Tarexa		Tsî Jesub ge ǂan , ob ge ge mîǀî gu : Tarexa go kha sago ǃnâ ra ǂâiǂâisen , sa ǂkhariǂgomxaǃnâgo , perena go ūsao tamasa ?
+40016009	matikō		Ganupe go ǁnâuǃā tama hâ ? ǂÂi go ra xare ǁnā koro peregu , koroǀoadisigu digu xa , tsî matikō ǀharude go ge ūkhâisa ?
+40016010a	~		Tsî hakaǀoadisigu di hû peregu xa , 
+40016010b	matikō		tsî matikō ǀharude go ge ūkhâisa ?
+40016011	Mati		Mati go ǁnâi ǁnâuǃā tama hâ , peren xa ta go ǃhoa-ū go tama isa , Farisegu tsî Sadusegu di ǀkhuruǀkhurupereb xa go nî ǃûisen , ti ta go mî ǃnubai ?
+40016013	Tariba		Tsî Jesub ge Kaesareas Filipub dis di ǃhūǃâdi tawa sī , ob ge ǁîb ǁkhāǁkhāsabega dî tsî ge mî : Tariba Khoen Ôaba , tin khoena ra mî ?
+40016015a	~		Ob ge ge mîǀî gu : Tsî sago ǁnâi , 
+40016015b	tari		tari ta a tita , ti go ra mî ?
+40016026a	tare-e		Tare-e kha khoe-e nî harebeba , ǃhūbaib hoaba i ga hō , tsî ǀoms â-i ga kā ǃnubai ? 
+40016026b	tare		Tsî tare xū-e i kha khoe-e nî mā , ǀoms â-i di oreǂuimarise ?
+40017010	Mati		Tsî gu ge ǁîb ǁkhāǁkhāsabega dî bi tsî ge mî : Mati gu kha xoaǂansabega ra mî , Eliab nî aibe hāsa ?
+40017017a	Matikōse		Ob ge Jesuba ǃeream , tsî ge mî : O , sa ǂgomoǃnâ tsî ǂkhaba ǃhaose ! Matikōse ta kha sadu ǀkha nî hâ ? 
+40017017b	Matikōse		Matikōse ta kha nî tani du ? Nēpa ǁîba tita ǃoa ūhā !
+40017019	Tarexa		ǃNubai gu ge ǁkhāǁkhāsabega ǀguri Jesub ǃoa hā , tsî ge mî : Tarexa ge sige ǁîba go aoǂui ǁoa i ?
+40017025a	matits		Ob ge : Ā , ti ge mî . Tsî oms ǃnâb ge ǂgâo , ob ge Jesuba ǃhaedā bi tsî ge mî : Matits ra ǂâi , Simontse ; 
+40017025b	tarina		ǃhūbaib di gao-aoga tarina xu gu ǁgui-aimaridi tsî ǀkhaegu tsîga ra ǃkhōǃoa ? ǁÎgu ôana xusa ? ǃHaokhoena xusa ?
+40018001	Tari-e		ǁNā iri ǃnâ gu ge ǁkhāǁkhāsabega Jesub ǃoa hā tsî ge mî : Tari-e nî hoan ǂamai kai gaosib ǀhommi dib ǃnâ ?
+40018012	Mati		Mati go ra ǂâi ? Khoe-i ga ǀguikaidisi gūna ūhâo , tsî i ga ǀgui-i ân xa kāheo , khoesedisikhoeseǀana i ǁnāxū tsî ǃgû tsî kā hâ-e ǃhomgu ai ôa tide ?
+40018021	Matikō ǃnāde		ǃNubaib ge Petruba ǁîb ǃoa hā tsî ge mî : Matikō ǃnāde ta kha ti ǃgâsaba nî ǀûba , tita ǃoagu ra ǁoreba ? Hû ǃnāde ?
+40019007	Tarexab		O gu ge ǁîb ǃoa ge mî : Tarexab ǁnâi Moseba ge ǂnûiǂgā , ǀgoraǂkhanisa mā tsî ǁîsa xu ǀgorasa ?
+40019016	tare		Tsî mû , ǀguib ge hā tsî ǁîb ǃoa ge mî : ǃGâi ǁkhāǁkhā-aotse , tare ǃgâi-e ta nî dī , ǀamo ûiba ta nî ūhâse ?
+40019017	Tarexats		Ob ge ǁîb ǃoa ge mî : Tarexats “ ǃgâi ” ti ra ǂgai te ; khoe-i xare-i kom ǃgâi tamao Elob ǀguib . Ûib ǃnâts ga ǂgâ ǂgao-o , mîmāde ǃkhōǀgaipe !
+40019018	Mâde		Ob ge : Mâde ? ti ge mîǀî bi . Ob ge Jesuba ge mî : Nēdi : “ ǃGamts ge tide ! ” “ ǃGamebats ge khôa tide ! ” “ ǃNarits ge tide ! ” “ ǂKhabasets ge ǂgā-am tide ! ”
+40019020	Tare-e		Ob ge ǂkhamkhoeba ǁîb ǃoa ge mî : Nēn hoana ta ge ge ǃkhōǀgaipe ti ǂkhamsisa xu . Tare-e ta ganupe tôasi hâ ?
+40019025	Tari-e		Tsî ǁîb ǁkhāǁkhāsabegu ge ǁnâu , o gu ge kaise ǃhuri , tsî ge mî : Tari-e ǁnâi a ǃgâiǃō ǁkhā ?
+40019027	Tare xū-e		ǃNubaib ge Petruba ǃeream tsî ǁîb ǃoa ge mî : Mû , sige ge hoana xū , tsî satsa ge sao . Tare xū-e ge ǁnâi sige nî hōbasen ?
+40020006	Tarexa		Tsî disiǀguiǀaǁî iri aib ge ǂoa , ob ge ǀkharagu ǁause mâga hō , tsî ge mîǀî gu : Tarexa go hoaraga tsēsa nēpa ǁause ra mâma ?
+40020012			tsî ge mî : Nē ǀunigagu kom ǀgui iri ǀguiba goro sîseno , ots sige ǁîgu ǀkha go ǀguiǀgui , tsēs di ǃgommi tsî ǀgammi tsîkha go tanige .
+40020021	Tare-es		Ob ge ǁîs ǃoa ge mî : Tare-es ra ǂgao ? Os ge ǁîb ǃoa ge mî : Mîmā î kha nē ti ôakha , ǀguiba sa amǀkhāb tawa tsî nauba sa ǁareǀkhāb tawa gaosib âts ǃnâ ǂnû .
+40020032	Tare-e		Ob ge Jesuba mâ tsî ǁîkha ǂgai tsî ge mî : Tare-e ta nî dība khosa kho ra ǂgao ?
+40021010	Tariba		Tsî Jerusalems ǃnâb ge ǂgâ , os ge ǃās hoasa gon , tsî ge mî : Tariba kha nēba ?
+40021016	~		tsî ǁîb ǃoa ge mî : ǁNâuts ra xare , nēn ra mîsa ? Ob ge Jesuba ǁîgu ǃoa ge mî : A , tātsē ǁnâi khomai tama go hâ : “ ǂKham ǀgôaron tsî dai ran tsîn di amsa xuts ge karesa ge ǂhomibasen ” ti .
+40021020	Matis		Tsî ǁkhāǁkhāsabegu ge mû , o gu ge buruxabahe tsî ge mî : Matis kha ǀnomahaisa ǁnātimîsi go ǂnâ ?
+40021023a	Mā		Tsî tempeli ǃnâb ge sī , o gu ge ǁkhāǁkhāb ra hîa , ǀgapipristergu tsî kaikhoegu ǁaes digu tsîga ǁîb ǃoa hā tsî ge mî : Mā ǀgaib ǃnâts ra nēna dī ? 
+40021023b	tari-e		Tsî tari-e satsa nē ǀgaiba ge mā ?
+40021025a	mapa		ǁĀǁnâs Johaneb disa , mapa xus ge hâ i ? ǀHomma xusa ? Khoena xusa ? O gu ge ǁîgu ǃnâ ǂâiǂâisen tsî ge mî : Mî ge kao : 
+40021025b	~		ǀHomma xus , ob ge sage ǃoa nî mî : 
+40021025c	tarexa		Tarexa go ǁnâi ǂgom bi tama hâ ?
+40021028	mati		Xawe mati go ra ǂâi ? Khoeb ge ǀgam ǀgôakha ge ūhâ i , tsî ǂgurob tawa sī tsî ge mî : ǀGôatse , ǃgû , îts nētsē sîsen re ti ǂauxûiǂûǃhanab ǃnâ .
+40021031	Mâba		Mâba kha nē ǀgamkha xa ǁgûb di ǂâisa ge dī ? O gu ge ǁîb ǃoa ge mî : ǂGurob . Ob ge Jesuba ǁîgu ǃoa ge mî : Amase ta ra mîba go , mariǃkhōǃoa-aon tsî ǀai-aon tsîn ge sago nî aiǂgâba gaosib Elob dib ǃnâ .
+40021040	matib		Tsî ǂauxûiǂûǃhanab di ǀhonkhoeb ga ǁnâi hāo , matib nî ǁnā ǃhanaǀkhupi-aoga sîsenū ?
+40022012	matits		Tsî ǁîb ǃoa ge mî : Ti khoetse , matits go nēpa ǂgâxa , ǃgameǁâus saraba ūhâ tama hâǃâ ? Ob ge ge ǃnōǃari .
+40022017	matits		Mîba ge ǁnâi re matits ra ǂâi : Mā-amhes hâ Kaesara ǁguibasa māsa ? Mā-amhe tamas hâ ?
+40022018	Tarexa		Ob ge Jesuba ǁîgu gāxaǃnâsiba ǂan , tsî ge mî : Tarexa go ra ǃâitsâ te , sa hînaxaǃnâgo ?
+40022020a	tarib		Ob ge ǁîgu ǃoa ge mî : Tarib dira īb 
+40022020b	~		tsî xoamâis tsîra ?
+40022028	tarib		Khâis ǃnâ ǁnâi , tarib , hûgu dib di taras ases nî ī , hoagu ge ǁîsa ūhâ i amaga ?
+40022036	mâ		ǁKhāǁkhā-aotse , mâ mîmā-e a hoan xa kai ǂhanub ǃnâ ?
+40022042a	mati		tsî ge mî : Mati go ra ǂâi Xristub xa ? 
+40022042b	tarib		Tarib ôaba ? O gu ge ǁîba ǃeream tsî ge mî : Davib Ôab komo .
+40022043	Matib		Ob ge ǁîgu ǃoa ge mî : Matib ǁnâi Daviba Gagab ǃnâ ǃKhūb ti ǂgai bi , tsî ra mî :
+40022045	matib		Davib ǁîba ǃKhūb ti ra ǂgaio , matib kha ǁîb ôa ?
+40023017	mâba		Gâre tsî ǂgī hâgo , mâba ǁnâi kai : ǃHuniǀuriba ? ǃHuniǀuriba ra khai tempela ?
+40023019	mâ-e		Gâre tsî ǂgī hâgo , mâ-e ǁnâi kai : ǁGuibasa ? ǁGuibasa ra khai altarsa ?
+40023033	mati		Sa ǀaogo , sa ǃgain ôago , mati go kha nî ǀamo kāǁōsiba ǁhâxū ?
+40024003a	Mîba		Tsî ǀKheraǃhommi aib ge ǂnû , o gu ge ǁkhāǁkhāsabega ǁîb ǃoa ǀguri hā tsî ge mî : Mîba sige re , mâǁaen nēna nîra īsa , 
+40024003b	mâs		tsî mâs a saos sa hās tsî nē hâ ǁaeb ǀams disa ǃkhaisa .
+40024045	Mâba		Mâba ǁnâi ǂgomǂgomsa tsî gā-ai ǃgāb , ǁîb ǀhonkhoeb ge oms din ǂama mâiba , ǁaeb aib nî ǁîna ǂûmāse ?
+40025037	mâ ǁae		ǃNubain ge ǁnā ǂhanu-aina ǃeream bi tsî nîra mî : ǃKhūtse mâ ǁae da kha satsa ǃâ hâse mû tsî gere ǂûmā tsi , tsî ǁgâ hâse tsî gere āsi tsi ?
+40025038	mâ ǁae		Tsî mâ ǁae da kha ǃhaokhoese mû tsî gere ǃkhōǂgā tsi , tsî ǀōǀkhā hâse tsî gere ana tsi ?
+40025039	mâ ǁae		Tsî mâ ǁae da kha ǀaesen hâse tsî ǃkhō-oms ǃnâ hâse mû , tsî gere sari tsi ?
+40025044	mâ ǁae		ǃNubain ge ǁîn ona ǃeream tsî nîra mî : ǃKhūtse mâ ǁae da kha satsa ǃâ hâse , tsî ǁgâ hâse tsî ǃhaokhoese , tsî ǀōǀkhā hâse , tsî ǀaesen hâse , tsî ǃkhō-oms ǃnâ hâse mû , tsî ge ǃoaba tsi tama i ?
+40026008	Tarebe		Tsî ǁîb ǁkhāǁkhāsabegu ge mûo , o gu ge ǀara tsî ge mî : Tarebe hîǀhuru-e kha nē-e ?
+40026010	Tarexa		Tsî Jesub ge ǂan , ob ge ǁîgu ǃoa ge mî : Tarexa go ǁnâi nē tarasa ra ǂhani . ǃGâi sîsennas kom tita go dībao .
+40026015	Tare-e		tsî ge mî : Tare-e go nî mā te , ǁîba ta ga māǁnâ go-o ? O gu ge ǁîba ǃnonadisi maride ge ǁgui-aiǃâ .
+40026017	Mapa		Tsî ǂguro tsēs ǀkhuruǀkhuruhe tama peregu dis ai gu ge ǁkhāǁkhāsabega Jesub ǃoa hā , tsî ǁîb ǃoa ge mî : Mapa ge nî ǁāǁāba tsi Pasxaǂûsa , tits ra ǂgao ?
+40026040	~		Ob ge ǁkhāǁkhāsabegu ǃoa hā , tsî ǁom hâse ge hō gu tsî Petrub ǃoa ge mî : ǀGui iri xaweba go ǁnâi tita ǀkha ǂkhaikari a hâ ǁoa ?
+40026050	mâs		Ob ge Jesuba ǁîb ǃoa ge mî : Khoetse , mâs ǃoats ǁnâi satsa go hā ? ǃNubai gu ge sī tsî ǃomga Jesub ai ǁgui tsî ge ǃkhō bi .
+40026054	Mati		Mati di kha xoade nî ǀoaǀoahe , nēti nîra ī , ti ra mîde ?
+40026062a	~		Ob ge ǀgapipristera khâi , tsî ǁîb ǃoa ge mî : Xū-ets ǁnâi ǃeream tama hâ ? 
+40026062b	Mâsa		Mâsa gu nēga sats ǃoagu ra ǀhûǀguitimî ?
+40026065	Mâ		ǃNubaib ge ǀgapipristera ǁîb sarana ǀkhauǃā , tsî ge mî : Elobab kom go ǃkhāǃkhāo . Mâ ǀhûǀguitimî-e ge kha ǃaruǀî ǂhâba hâ ? Mû , nēsi go kom ǁîb ǃkhāǃkhāsa go ǁnâuo .
+40026066	Matt		Mati go ra ǂâi ? O gu ge ǃeream tsî ge mî : ǁŌbab kom anu hâo .
+40026068	tarib		tsî ge mî : Kēboba ge , Xristutse , tarib asa , satsa go ǂnauba ?
+40027004	Tare-e		tsî ge mî : ǁOre ta go , ǀhapio ǀaoba ta go ǀapexū ǃkhais ǀkha . O gu ge ǁîga ge mî : Tare-e ge kha sige ǁae hâ ? Sats kom nî mûbaseno .
+40027013	matikōse		ǃNubaib ge Pilatuba ǁîb ǃoa ge mî : ǁNâu tamats hâ , matikōse gu ra ǀhapimā tsi ǃkhaisa ?
+40027017	Mâba		Tsî ǁîn ge ǀhao , ob ge Pilatuba ǁîn ǃoa ge mî : Mâba ta nî xūba dusa du ra ǂgao ? Barabab Jesuba , tamas ka io Xristub ti ra ǂgaiheba ?
+40027021	Mâb		Ob ge ǃāǃkhōmâi-aoba ǃeream , tsî ǁîna ǃoa ge mî : Mâb nē ǀgamkha diba ta nî xūba du , sa du ra ǂgao ? On ge : Barabab , ti ge mî .
+40027022	Mati		Ob ge Pilatuba ǁîna ge mîǀî : Mati ta ǁnâi Jesub , Xristub ti ra ǂgaiheb ǀkha nî dī ? On ge hoana ǁîb ǃoa : ǃGâu kai bi ! ti ge mî .
+40027023a	~		Ob ge ǃākhōmâi-aoba ge mî : 
+40027023b	Mâ		Mâ ǂkhaba-eb ǁnâi dī hâ ? On ge ǃnāǂamsase ǂgai , tsî : ǃGâu kai bi ! ti ge mî .
+40027046	tarexats		Tsî khoeseǁî nî ī iri aib ge Jesuba kai dommi ǀkha ǂgai tsî ge mî : Eli , Eli , lama sabaxtani ? ǁNās ge : Ti Elotse , ti Elotse , tarexats go ǁnāxū te ?
+41001024	Tare-e		tsî ge mî : Tare-e ge sige sats ǀkha ǁae hâ , Jesu Nasareǁîtse ? Hāts go , sigets nî hîkākāse ? ǂAn ge ge a tarits a ǃkhaisa , Elob di ǃAnuts komo .
+41001027	Tare-e		On ge hoana ǁnātikōse ge ǃhuri kaihe , ǀnîn nauna dîǃgâ tsî ge mîǀîgus kōse : Tare-e kha nē-e ? ǀAsa ǁkhāǁkhā-ai-i ǀgaib ǀkha hâ i ge , ǃanuoǃnâ gagagab ra ǃgabe tsî gu ǁîba ra ǁnâuǀnam .
+41002007a	tarexab		Tarexab nēba nēti ra ǃhoa . Eloǃkhāǃkhās komo ! 
+41002007b	tari-e		Tari-e kha a ǁkhā , ǁorena ǀûbasa ? Elob ǀguib kom a ǁkhāo .
+41002008	Tarexa		Tsî Jesub ge ǁnātimîsi ǁîb gagas ǃnâ ge hōǃâ nēti ī-e gu go ǂâi ǃkhaisa , ob ge ǁîgu ǃoa ge mî : Tarexa go nēti ī-e sago ǂgaogu ǃnâ ra ǂâi ?
+41002009	Mâsa		Mâsa a supu , ǃhom hâb ǃoa : ǁOren âtsats ǀûbahe hâ , ti mîs tsî : Khâi î tani-ūxūb âtsa ū î ǃgû , ti mîs tsîra xa ?
+41002016	Tarexab		Tsî xoaǂansabegu Farisegu digu ge mû , ǁîb ra mariǃkhōǃoa-aon tsî ǁore-aon tsîn ǀkha ǂûsa , o gu ge ǁîb ǁkhāǁkhāsabegu ǃoa ge mî : Tarexab ra mariǃkhōǃoa-aon tsî ǁore-aon tsîn ǀkha ǂû tsî ā ?
+41002018	Tare xū-i ǃaroma		Tsî Johaneb tsî Farisegu di ǁkhāǁkhāsabegu ge ǂûtama ge hâ i . O gu ge hā tsî ǁîb ǃoa ge mî : Tare xū-i ǃaroma gu Johaneb tsî Farisegu di ǁkhāǁkhāsabega ǂûtama ra hâ , o gu sa ǁkhāǁkhāsabega ǂûtama a hâ ǁoa ?
+41002019	Matin		Ob ge Jesuba ǁîgu ǃoa ge mî : Matin ǁnâi ǃgameǁâus khoena ǂûtama a hâ ǁkhā , ǃkhoeǂgâsabeb ǁîn ǀkha hâ hîa ? ǃKhoeǂgâsabeban ǁîn ǀkha ūhâ ǁaeb kōsen kom ǂûtama a hâ ǁoao .
+41002024	mati		O gu ge Farisega ǁîb ǃoa ge mî : Kō mati gu sâtsēs ai mā-amhe tama xū-e ra dī ǃkhaisa .
+41003004	Mâsa		Ob ge ǁîgu ǃoa ge mî : Mâsa sâtsēs ai mā-amhe hâsa : ǃGâidīsa ? Tsūdīsa ? Ûiba sâusa ? ǃGamsa ? O gu ge ge ǃnō .
+41003023	Matib		Ob ge ǁîga ǂgaihā tsî ǂkhōdi ǃnâ ǁîga ge mîǀî : Matib kha Satanna ǁî-aitsama a ǃhaeǂuisen ǁkhā ?
+41003033a	tarina		Ob ge ǁîna ǃeream tsî ge mî : Tarina kha ti îs 
+41003033b	~		tsî ti ǃgâsan tsîna ?
+41004013	mati		Tsîb ge ǁîn ǃoa ge mî : Nē ǂkhōsa du ǁnâuǃā tama hâ tsî mati du kha ǁnâi nau ǂkhōdi hoade nî ǃkhā ?
+41004030a	mâ		Tsîb ge ge mî : Mâ xū-i ǀkha da nî Gaosib Elob diba ǂkhō , 
+41004030b	mâ		tsî mâ ǂkhō-i ǀkha da nî ǁîba ǂkhōǂkhō ?
+41004038	~		Tsîb ge ǁîba ǂgaus di khaosǀkhāb ai ǂkhapis ai ge ǁom hâ i . O gu ge ǂkhaiǂkhai tsî ge mîǀî bi : ǁKhāǁkhā-aotse , ǁō ge ra ǃkhaisats ǁae tama hâ ?
+41004040a	tarexa		Ob ge ge mîǀî gu : Tarexa go nētikōse a ǃaoǃnâ ? 
+41004040b	mati		Mati go ǂgom-e ūhâ tama hâ ?
+41004041	Tariba		O gu ge kaise ǃao tsî ge mîǀîgu : Tariba kha nēba , o kha ǂoab tsî hurib tsîkha ra ǁnâuǀnam bi ?
+41005007	Tare-e		tsî kai dommi ǀkha ǃau tsî ge mî : Tare-e ta sats ǀkha ǁae hâ , Jesu , Hoan xa ǀGapi Elob Ôatse ? Elob ǃnâ ta ra ǀkhoma tsi , tā tsûtsû te !
+41005009	Matits		Ob ge ǁîba ge dî : Matits ǀon hâ ? ti . Ob ge ǃeream tsî ge mî : Legio , ti , ta ǀon hâ , ǂguige a sige xui-ao .
+41005030	Tari-e		Ob ge Jesuba ǁnātimîsi ǁîba xu go ǂoa ǀgaiba ǁîb ǃnâ ge hōǃâ , tsî ǂnubis ǃoa ǂnan tsî ge mî : Tari-e ti sarana go tsâǀkhā ?
+41005031	Tari-e		O gu ge ǁîb ǁkhāǁkhāsabega ǁîb ǃoa ge mî : Mûts kom ra o , ǁaes ra sa ǂnamipe ǀāgu ǃkhai-eo , ots : Tari-e go tsâ khā te , ti ra mî ?
+41005035	Tarexats		Ganupeb ra ǃhoa hîa gu ge ǀnîgu sinagogeb danakhoeb diga hā tsî ge mî : Sa ôas ge go ǁō . Tarexats ra ǁkhāǁkhā-aoba gorose ǀhupuǀhupu ?
+41005039a	tarexa		ob ge ǂgâ tsî ge mîǀî in : Tarexa du ǂkhupi 
+41005039b	~		tsî ra ā ? ǀGôaros kom ǁō tama tsî ǁom hâo . On ge ge âiǂui bi .
+41006002a	mapa		Tsî sâtsēs ge hā , ob ge sinagogeb ǃnâ ge ǁkhāǁkhātsoatsoa . Tsî ǂguin ǁnâu bi gen ge burugâ tsî ge mî : Mapa xub kha nēba nēna ra hō ? 
+41006002b	mâ		Tsî mâ gā-aisi-eb kha māhe hâ , 
+41006002c	~		on nēti ī buruxa dīna ǁîb ǃomkha xu ra ī ?
+41006022	~		Os ge Herodias ôasa ǂgâxa tsî gere ǂnā , tsî Herodeb tsî ǁîb ǀkha ǂnôaga ge ǃgâiǃgâi . Ob ge gao-aoba ǀgôasa ǃoa ge mî : ǂGan te re ǂgaos ra xū-i hoa-e , o ta ge nî mā si .
+41006024	Tare-e		Os ge ǂoa tsî ǁgûs âs ǃoa ge mî : Tare-e ta nî ǂgan ? Os ge ge mî : Johaneb ǁĀǁnâ-aob di danasa .
+41006037	~		Ob ge ǁîba ǃeream tsî ǁîgu ǃoa ge mî : Sago ǁîna ǂûmā re . O gu ge ǁîb ǃoa ge mî : ǁNâi ǃgû tsî ge nî ǀgamkaidisi marin ama pere-e ǁama tsî ǁîna ǂûmā ?
+41006038	Matikō		Ob ge ǁîgu ǃoa ge mî : Matikō pere-e go ǁnâi ūhâ ? ǃGûsī , î go kō re . Tsî ǂan gu ge o gu ge ge mî : Koro peren tsî ǀgam ǁaurokha tsîn .
+41007005	Tare xū-i ǃaroma		O gu ge Farisegu tsî xoaǂansabegu tsîga ge dî bi : Tare xū-i ǃaroma gu ǁnâi ǁkhāǁkhāsabegu âtsa kaigu di ǂnûiǂgās ǃoa tanisen tama hâ , tsî ǁāhe tama ǃomgu ǀkha ra pereǂû ?
+41008004	Mapa		O gu ge ǁîb ǁkhāǁkhāsabega ge ǃeream bi : Mapa xu i kha khoe-e nēna pere-i ǀkha nî ǁâǁâ nē ǃgaroǃhūb ǃnâ ?
+41008005	Matikō		Ob ge ǁîga ge dî : Matikō pere-e go ǁnâi ūhâ ? O gu ge : Hû , ti ge mî .
+41008012	Tarexas		Ob ge gagas âb ǃnâ ra ǀhâimâinǀomse ge mî : Tarexas ra nē ǃhaosa sao-e ǂgan ? Amase ta ra mîba du , sao-es nē ǃhaosa māhe tide ǃkhaisa .
+41008017	Tarexa		Tsî Jesub ge hōǃâo , ob ge ge mîǀî gu : Tarexa go ra ǂâiǂâisen , perena go ūhâ tama ǃkhaisa ? Gorose go ǁnâi xū-i xare-e ǁnâuǃā tsî hōǃâ tama hâ ? Ganupe go ǁnâi karokarosa ǂgaoba ūhâ ?
+41008018a	~		Mûde ūhâ tsî go kha mû tama hâ , 
+41008018b	~		tsî ǂgaede ūhâ tsî go kha ǁnâu tama hâ ? Tsî ǂâi tama go kha hâ ,
+41008019	Matikō		ǁnā koro peregu , hîa ta ge koroǀoadisigu ǃnâ gere khôagu xa ? Matikō ǀharudi ǀoaba go ge ūkhâisa ǃâron xa ? O gu ge ge mîǀî bi : Disiǀgamǀadi komo .
+41008020	matikō		Tsî ǁnā hûgu hîa ta ge hakaǀoadisigu ǃnâ gere khôagu xa , matikō ǀharudi ǀoaba go ge ūkhâisa ǃgau ge ǃâron xa ? O gu ge ge mî : Hûdi komo .
+41008021	Mati		Ob ge ge mîǀî gu : Mati go ǁnâi ǁnâuǃā tama hâ ?
+41008023	~		Ob ge ǂgī hâb di ǃomma ǃkhō tsî ǁîba ǃārosa xu ǃaugaba ǃoa ǂgaeǂguiǂui tsî ǁîb mûra ǃnâ ǂara tsî ǃomkha ǁgui-ai bi tsî ge dî bi , iseb xū-e ra mû ǃkhaisa .
+41008027	Tari		Tsîb ge Jesuba ǁîb ǁkhāǁkhāsabegu ǀkha ge ǃgûǂoa Kaesareas Filipub dis di ǃārodi ǃoa . Ob ge daob ai ǁkhāǁkhāsabega dî tsî ge mîǀî gu : Tari ta a , tin ra khoena mî ?
+41008029a	~		Ob ge ǁîgu ǃoa ge mî : 
+41008029b	tari		Tsî sago ǁnâi tari ta ti go ra mî ? Ob ge Petruba ǃeream tsî ge mîǀî bi : Xristuts kom satsao .
+41008036	Tare-e		Tare-e kha khoe-e nî harebeba ǃhūbaib hoaba i ga hō , tsî i ga ǀoms â-i tawa ǂkhôaba hō-o ?
+41008037	mâ		Tsî mâ xoremari-e i kha khoe-e nî mā ǁî-i ǀoms ama ?
+41009010	tares		O gu ge nē mîsa ǁîgu ǃnâ ūhâbasen , tsî ge dîǃnâgu , tares a ǁō hâna xu khâisa ǃkhaisa .
+41009011	~		O gu ge ǁîba dî tsî ge mî : Xoaǂansabegu kom ra mîo , Eliab nî aibe hāsa ?
+41009012	~		Ob ge ǃeream tsî ge mîǀî gu : Eliab kom aibe hā tsî hoana nîra dī-unuo ; tsî Khoen Ôab xa xoahe hâ khami i kom nîra īo , kaise tsâ tsîb nîra ǃharaxūhe ǃkhaisa .
+41009016	Tarexa		Ob ge xoaǂansabega ge dî : Tarexa go ǁîgu ǀkha goro ǂnoagu ?
+41009019a	Matikōse		Ob ge ǃeream tsî ǁîna ge mîǀî : O ! Sa ǂgomoǃnâ ǃhaose , matikōse ta kha sadu ǀkha nî hâ ? 
+41009019b	Matikōse		Matikōse ta kha nî tani du ? Tita ǃoa ūhā bi !
+41009021	Mâ ǁaeba		Ob ge ǁgûb âba ge dî : Mâ ǁaeba xusa ǁnâi nēs ge hāǂam bisa ? Ob ge : ǂKhamsis âba xus ge , ti ge mî .
+41009028	Tare xū-i ǃaroma		Tsî oms tawab ge sīo , o gu ge ǁkhāǁkhāsabegu âba ǁîba ǀguri ge dî : Tare xū-i ǃaroma ge sige ǃhaeǂui bi ǁkhā tama go i ?
+41009033	Tare xū-i ǃaroma		Tsî gu ge Kapernaums tawa ge sī tsî oms ǃnâb ge ǁîga ge dî : Tare xū-i ǃaroma go daob ai goro ǂnoagu ?
+41009050	mâ		ǂŌ-i ge a ǃgâi ; xawe ǂō-i ga ǁkhoao-o , mâ xū-i ǀkha du kha ǁî-e nî ǁkhoaǁkhoa ? ǂŌ-e sago ǃnâ ūhâ î go ǂkhîbagu re .
+41010003	Tare-eb		Ob ge ǃeream , tsî ge mîǀî gu : Tare-eb ge Moseba sado mîmā ?
+41010017	tare-e		Tsî daob ǃoab ra ǂoa , hîab ge ǀguiba ǃkhoehā tsî ǁîb aiǃâ ǃhon tsî ge dî bi : ǃGâi ǁkhāǁkhā-aotse , tare-e dī tsî ta ǀamo ûiba nî ǀumi ?
+41010018	Tarexats		Ob ge Jesuba ǁîb ǃoa ge mî : Tarexats “ ǃgâi ” ti ra ǂgai te ? Khoe-i xare-i kom ǃgâi tamao , Elob ǀguib .
+41010026	Tari-e		O gu ge ǁnās ǃgâ-ai ǃhuri tsî ge mîǀîgu : Tari-e ǁnâi a ǃgâiǃō ǁkhā ?
+41010036	Tare-e		Ob ge ge mîǀî kha : Tare-e ta nî dība khosa kho ra ǂgao ?
+41010051	Tare-e		Ob ge Jesuba ǃeream tsî ǁîb ǃoa ge mî : Tare-e ta nî dība tsi ǃkhaisats ra ǂgao ? Ob ge ǂgī hâba ge mîǀî bi : Rabitse , mû kai te re .
+41011003	Tarexa		Tsî khoe-i ga sakho ǃoa : Tarexa kho nēsa ra dī ? ti mîo , o kho ge nî mî : ǃKhūb kom ǁîba ǂhâba hâo . Tsîb nî ǃhaese ǁkhawa nēxopa sî bi .
+41011005	Tare-e		Tsî ǀnîn ǁnāpa mân din ge ǁîkha ǃoa ge mî : Tare-e kho ra dī , o kho eselǂkhamroba ra xore ?
+41011028a	Mâ		tsî ge mîǀî bi : Mâ ǀgaiba xuts ra nēna dī , 
+41011028b	tari-e		tsî tari-e ge satsa nē ǀgaiba mā , nēnats nî dīse ?
+41011030	~		ǁĀǁnâs Johaneb disa ǀhomma xus hâ ? Khoena xus hâ ? ǃEream te .
+41011031a	~		O gu ge ǁîgu ǃnâ ǂâiǂâisen tsî ge mî : Mî ge kao : ǀHomma xus , ob ge sage ǃoa nî mî : 
+41011031b	tarexa		Tarexa go ǁnâi ǂgom bi tama hâ ?
+41012009	Tare-eb		Tare-eb ǁnâi ǀhonkhoeb ǁnā ǃhanab diba nî dī ? Hā tsîb ge sîsenaoga ǃgam , tsî ǂauxûiǂûǃhanaba ǀkharaga nî mā .
+41012015	Tarexa		Tsî ǁîgu hînaxaǃnâsiba ǂan tsîb ge ǁîgu ǃoa ge mî : Tarexa go ra ǃâitsâ te ? Denara hā-ūba te , î ta mû .
+41012016a	tari-i		O gu ge ge hā-ū . Ob ge ǁîgu ǃoa ge mî : Nē īb tsî xoamâis tsîra tari-i dira ? O gu ge : Kaesari dira kom ao , ti ge mî .
+41012016b	~		 
+41012023	mâb		Khâis ǃnâ , khâin kao , mâb ǁîgu dib di tarases nî ī ? Hûgu hoagu kom ǁîsa taras ase ge ūhâ io .
+41012028	Mâsa		Tsîb ge xoaǂansabegu di ǀguib , ǁîgu ǂnoagusa go ǁnâub , tsî ǃgâiseb go ǃeream gu ǃkhaisa go mûba hā , tsî ge dî bi : Mâsa ǂguros mîmādi hoadi disa ?
+41012035	Mati		Tsîb ge Jesuba tempeli ǃnâ ra ǁkhāǁkhāǃâ ǃeream tsî ge mî : Mati gu xoaǂansabega ra mî , Xristub a Davib ôa ǃkhaisa ?
+41012037	matib		Davib ǂûb ge ǁîba : “ ǃKhūb ” ti ra ǂgai ; matib kha a ǁîb di ôa ? Tsî ǂgui khoen ge ǁîba ge ǁnâu ǂgao .
+41013004a	mâǁaen		Mîba ge re mâǁaen nēna nîra ī ǃkhaisa tsî 
+41013004b	mâ-i		mâ-i a sao-e , mâǁaen nēna nîra ǀam ǃkhaisa ?
+41014004	Mâs		O gu ge ǀnîga ǁîgu ǃnâ ǀara tsî ge mî : Mâs ǃoas kha nē ǃgâihamxū-i di hîǀhuruhesa go ī ?
+41014006	tarexa		Ob ge Jesuba ge mî : ǁNāxū si re , tarexa go ǁîsa ra ǂhani ? ǃGâi sîsennas kom tita tawa goro dīo .
+41014012	Mâǀî		Tsî ǂguro tsēs ǀkhuruǀkhuruhe tama peregu dis , Pasxaǁkhaob ǁîs ai nî ǂāhes ai gu ge ǁkhāǁkhāsabegu âba ǁîb ǃoa ge mî : Mâǀî ǃgû tsî ge nî Pasxaba ǂhomiba tsi ǂûts nîga , tits ra ǂgao ?
+41014014	Mapa		tsî mapab ga ǂgâs hoasa , ǁnāpa omǁgûb ǃoa mî re : ǁKhāǁkhā-aob ge ra dî : Mapa i hâǃkhai-e hâ , tita nî Pasxaba ti ǁkhāǁkhāsabegu ǀkha ǁî-i ǃnâ ǂû-e ?
+41014060a	~		Ob ge ǀgapipristera ǁaegub ǃnâ khâi tsî Jesuba dî tsî ge mî : Xū-ets ǁnâi ǃeream tama ? 
+41014060b	tare-en		Tare-en ra nēna sats ǃoagu ǀhûǀguitimî ?
+41014063	Mâ		Ob ge ǀgapipristera sarab âba ǀkhau tsî ge mî : Mâ ǀhûǀguitimî-aona ge gorose ǂhâba hâ ?
+41014064	mati		Eloǃkhāǃkhāsa go kom go ǁnâuo , mati go ra ǂâi ? O gu ge hoaga ǁîba ǁōba anu hâse ge ǀgoraǃgâ .
+41015004	~		Ob ge Pilatuba ǁkhawa dî bi tsî ge mî : Xū-ets ǁnâi ǃeream tama hâ ? Mû matikō xūna gu satsa ra ǂgā-am ǃkhaisa .
+41015012	mati		Ob ge Pilatuba ǃeream tsî ǁkhawa ǁîn ǃoa ge mî : Tsî mati du ǁnâi ǂgao hâ ǁîba ta nî sîsenūsa , Jodeǁîn gao-aob , ti du ǁîb xa ra mîba ?
+41015014a	~		Ob ge Pilatuba ǁîna ge mîǀî : 
+41015014b	Mâ		Mâ ǂkhaba-eb ǁnâi dī hâ ? Xawen ge ǃaruǀîǀgui : ǃGâu bi , ti ge ǂgai .
+41015034	tarexats		Tsî khoeseǁî iri aib ge Jesuba kai dommi ǀkha ǂgai tsî ge mî : Eloi , Eloi , lama sabaxtani ? ǁNās ge : Ti Elotse , ti Elotse , tarexats go ǁnāxū te ? ti mîsa .
+41016003	Tari-e		Tsî di ge ge dîgu : Tari-e nî sase ǀuisa ǀhobas amsa xu gababē ?
+42001018	Mati		Ob ge Saxariaba ǀhomǃgāb ǃoa ge mî : Mati ta kha nēsa nîra ǂan ? Tita kom kaira hâo , tsî ti taras kom ǁkhāti kaira hâo .
+42001034	Matis		Os ge Mariasa ǀhomǃgāba ǃoa ge mî : Matis nēsa nîra ī ? Ao-e ta kom ǂan tama o .
+42001043	matis		Tsî matis go nēsa hāǂam te , os ti ǃKhūb di îsa tita ǃoa go hā ?
+42001066	Tare-e		Tsî ǁnâu gen hoan ge ǁîsa ǂgaob ǃnâ ū tsî ge mî : Tare-e kha nî ī nē ǀgôarob ǀkha ? Tsîb ge ǃKhūb di ǃomma ǁîb ǀkha ge hâ i .
+42002048	tarexats		Tsî mû bi ra ge , o ra ge ge ǃhuri , tsîs ge ǁgûsa ǁîb ǃoa ge mî : ǀGôatse , tarexats ǁnāti sim ǀkha go dī ? Mû , sa îb tsî tita tsîm ge ǂâiǂhansen rase goro ôa tsi .
+42002049	Tarexa		Ob ge ǁîra ǃoa ge mî : Tarexa ro tita goro ôa ? ǂAn tama ro ǁnâi hâ , ti Îb din ǃnâ ta nî tita hâsa ?
+42003007	tari-e		Tsîb ge ǁîb ǃoa ge ǂoaxa khoen , ǁîb xa ra ǁāǁnâkaisen ǂgaon ǃoa ge mî : Sa ǀaon ôado , tari-e sado ge ǁgau , ǃgoaxa ǁaiba du nî ǁhâxūsa ?
+42003010	Tare-e		Tsî ǂnubidi ge dî bi tsî ge mî : Tare-e da kha ǁnâi nî dī ?
+42003012	tare-e		Tsî mariǃkhōǃoa-aogu on ge hā , ǁāǁnâkaisen gu nîga , tsî ǁîb ǃoa ge mî : ǁKhāǁkhā-aotse , tare-e ge nî dī ?
+42003014a	~		Tsî toro-aogu on ge ǁîba dî tsî ge mî : Tsî sige , 
+42003014b	tare-e		tare-e ge nî dī ? Ob ge ǁîgu ǃoa ge mî : Tā khoe-e ǁkhâuǁnâ , î tā ǁgâiǀā , î sago amǃnâs ǀkha ǂkhî .
+42004034	tare-e		tsî ge mî : Hoi , tare-e ge sige sats ǀkha ǁae hâ , Jesu , Nasareǁîtse ? Hāts go , sigets nî hîkākāse ? Tarits a ǃkhaisa ta a ǂan : Elob di ǃanuts komo .
+42004036	Tarebe		Os ge burugâsa hoan ǂama ge hā ; on ge ǃhoa-ūgu , tsî ge mî : Tarebe mîsa kha nēsa ? ǁKhāsib tsî ǀgaib ǀkhab ra ǃanuoǃnâ gagaga mîmāo , o gu kom ra ǂoao .
+42005021a	tariba		O gu ge xoaǂansabegu tsî Farisegu tsîga ǂâiǂâisentsoatsoa , tsî ge mî : Tariba kha nēb , eloǃkhāǃkhāsa ra ǃhoaba ? 
+42005021b	tari-e		Tari-e a ǁkhā , ǁorena ǀûbasa ? Elob ǀguib komo .
+42005022	Tare		Tsî Jesub ge ǂâidi âga ǂan , ob ge ǃeream tsî ge mî : Tare xū-e go ǂgaogu âgo ǃnâ ra ǂâi ?
+42005023	Mâsa		Mâsa kha supu mîsa : ǁOren âtsats ǀûbahe hâ , ti mîs tsî : Khâi î ǃgû ! ti mîs tsîra xa ?
+42005030	Tarexa		O gu ge Farisegu tsî xoaǂansabegu âga ǁîb di ǁkhāǁkhāsabega ǀara-ai , tsî ge mî : Tarexa go mariǃkhōǃoa-aon tsî ǁore-aon tsîn ǀkha ra ǂû tsî ā ?
+42005033	~		O gu ge ǁîb ǃoa ge mî : Johaneb di ǁkhāǁkhāsabegu ge ǀnî ǃnāde ǂûtamahâ tsî kaise ra ǀgore , ǁnās ǁkhās xase Farisegu digu ona , xawe sago ge ǂû tsî ra ā .
+42005034	~		Ob ge Jesuba ǁîgu ǃoa ge mî : ǁKhā go a , ǃgameǁâus khoena ǂûtamahâ kaisa , dî-amaob ǁîn ǀkha hâ hîa ?
+42006002	Tarexa		O gu ge ǀnîgu Farisegu diga ǁîgu ǃoa ge mî : Tarexa go sâtsēs ai dīsa mā-amhe tama xū-e ra dī ?
+42006009	Tare-e		Ob ge Jesuba ǁîgu ǃoa ge mî : Xū-e ta ge nî dî du : Tare-e sâtsēs ai dīsa mā-amhe hâ ? ǃGâidīsa ? ǂKhabadīsa ? Ûiba sâusa ? Ûiba hîǀhurusa ?
+42006032	mâ		Tsî sado ǀnam hâna du ga ǀnamo , mâ gangan-e du ǁnâi ūhâ ? ǁOre-aon on kom ǁîna ǀnam hâna ra ǀnamo .
+42006033	mâ		Tsî sado ra ǃgâidīna du ga ǃgâidīo , mâ gangan-e du ǁnâi ūhâ ? ǁOre-aon on kom ǁnās ǁkhāsa ra dīo .
+42006034	mâ		Tsî ǁîna xu du nî ǁkhawa hō-oa , ǂgomǃgâ-e du ūǃnâ hâna du kara ǀkhupio , mâ gangan-e du ǁnâi ūhâ ? ǁOre-aon on kom ǁore-aona ra ǀkhupio , ǁkhawan nî ǁkhā-e hōse .
+42006039	~		Tsîb ge ǂkhō-e ǁîgu ǃoa ge mî : ǂGī-e kha ǁkhā-i a , ǂgī hâ-e daodaobasa ? Hoakha ǁnâi tsaus ǃnâ ǁnā tide ?
+42006041	tarexats		Tsî tarexats sa ǃgâsab di mûs ǃnâ hâ ǀapoǃâro-e ra mû , xawets sa mûs ǂhanis ǃnâ hâ ǃnaoba hōǃâ tama ?
+42006042	matits		Tsî matits sa ǃgâsab ǃoa a mî ǁkhā : Ti ǃgâsatse , ǁnam î ta sa mûs ǃnâ hâ ǀapoba ūǂui , sa mûs ǂûs ǃnâ hâ ǃnaobats mû tama hîa ? Sa hînaxaǃnâtse , aibe sa mûsa xu ǃnaoba ūǂui , ots ge ǃgâise nî mû , sa ǃgâsab di mûs ǃnâ hâ ǀapobats nî ūǂuise .
+42006046	tarexa		Tsî tarexa du : ǃKhūtse , ǃKhūtse ti ra ǂgai te , tita ra mî-e du dī tama xawe ?
+42007024	Tare-e		Tsî Johaneb di sîsabekha ge bē , ob ge Jesuba Johaneb xa ǁaes ǁga ge mîtsoatsoa : Tare-e nî mûse du kha ǃgaroǃhūb ǃoa go ǂoa ? ǂĀ-i , ǂoab xa ra ǂhapumahe-e ?
+42007025	tare-e		Tsî tare-e nî mûse du go ǂoa ? Khoe-i , tsamra saran ǀkha anasen hâ-e ? Mû , tsamra ǃkhain tsî turab ǃnâ ra ûin ge gao-aon omgu ǃnâ hâ .
+42007026	tare-e		Tsî tare-e nî mûse du kha go ǂoa ? Kēbo-ao-e ? Aio , kēbo-ao-e ǃnāǂam hâb , ti ta ra mîba du .
+42007031a	tari-i		Tsîb ge ǃKhūba ge mî : Tari-i ǀkha ta kha khoen nē ǃhaos dina nî ǂkhō ? 
+42007031b	tari-i		Tsî tari-i khamin ī ?
+42007042	tarib		Tsî mataresa kha ge ǁkhā tama i , ǃnubaib ge hoakha ge ǀûba . Mî ǁnâi re , tarib âkha nî ǃnāsase ǀnam bi ?
+42007049	Tariba		On ge tāb tawa ǂnôana ǁîn ǃnâ ge mîtsoatsoa : Tariba kha nēb , ǁoren tsîna ra ǀûbaba ?
+42008025a	mapas		Ob ge ǁîgu ǃoa ge mî : Mapas kha ǂgoms âgo hâ ? O gu ge ǃao , tsî buru , tsî ge mîǀîgu : 
+42008025b	tariba		Tariba kha nēb , ǂoagu tsî ǁgammi tsîga ra mîmāb , tsî ǁîgu xa ra ǁnâuǀnamheba ?
+42008028	Tare-e		Tsî Jesubab ge mû , ob ge ǃau tsî ǁîb aiǃâ ǁnāǁgoe , tsî ǃgari dommi ǀkha ǂgai tsî ge mî : Tare-e ta sats ǀkha ǁae hâ , Jesu , Hoan xa ǀGapi Elob di Ôatse ? ǀGore tsi ta ra , tā tsûtsû te re !
+42008030	Matits		Ob ge Jesuba dî bi , tsî ge mî : Matits ǀon hâ ? Ob ge Legiota , ti ge mî ; ǂgui ǁgâuagu ge ǁîb ǃnâ ǂgâ hâ i amaga .
+42008045	Tari-e		Ob ge Jesuba ge mî : Tari-e go tsâǀkhā te ? Tsî hoan ge ǀoa , ob ge Petrub tsî ǁîb ǀkha hâga ge mî : ǁKhāǁkhā-aotse , ǂnubis kom ǂgâu tsî ra ǀā tsio ; ots : Tari-e go tsâǀkhā te , ti ra mî ?
+42009009a	tariba		Ob ge Herodeba ge mî : Johaneba ta ge ge ǁhāǁnâdana ; tsî tariba kha nēb , 
+42009009b	~		ǁîb xa ta nēti īna ra ǁnâuba ? Tsîb ge mû bib nîsa gere ôa-am .
+42009018	Tari		Tsî i ge ge ī , ǀgurib ra ǀgore , tsî ǁkhāǁkhāsabegu ge ǁîb tawa ge hâ io , ob ge ǁîga dî tsî ge mî : Tari ta , tin khoena ra mî ?
+42009020a	~		Ob ge ǁîgu ǃoa ge mî : Tsî sago ǁnâi , 
+42009020b	tari		tari ta , ti go ra mî ? Ob ge Petruba ǃeream , tsî ge mî : Elob di Xristuts kom satsao .
+42009025	Tare		Tsî tare xū-e i ga khoe-e harebeba , ǃhūbaib hoaba-i ga hō xawe , tsî i ga ǁî-aitsama gabasen tsî tôatôaseno ?
+42009041a	matikōse		Ob ge Jesuba ǃeream , tsî ge mî : Sa ǂgomoǃnâ tsî ǂkhaba ǃhaose . Matikōse ta kha sadu ǀkha hâ 
+42009041b	~		tsî nî tani du ? Sa ôaba nēpa ūhā !
+42010025	tare-e		Tsî mû , ǂhanuǂansabeb ge khâi tsî ǃâitsâ bi , tsî ge mî : ǁKhāǁkhā-aotse , tare-e dī tsî ta nî ǀamo ûiba ǀumi ?
+42010026a	tare-e		Ob ge ǁîb ǃoa ge mî : ǂHanub ǃnâ tare-e xoahe hâ ? 
+42010026b	matits		Matits ra khomai ?
+42010029	Tari-e		Xaweb ge ǁî-aitsama ǂhauǃnâkaisen ǂgao , tsî Jesub ǃoa ge mî : Tari-e kha a ti ǀgūkhoe ?
+42010036a	~		
+42010036b	Mâb		Mâb ǁnâi , nē ǃnonagu diba ǃgamaogu ǃomǁae ge ǁnāb di ǀgūkhoe ge i , tits ra ǂâi ?
+42011008	~		Mîba du ta ra , ǁîb di ǀhōsab a amagab ga khâi , tsî mā bi tama i , xaweb ge ǁîb di ǀû tamase ǂgans ǃaroma khâi , tsî ǂhâbab hân hoana nî mā bi .
+42011011	mâ		Tsî mâ ǁgûb sadu ǃnâ hâba kha , ǀgôab âb ga pere-e ǂgano , ǀui-e nî mā bi , tsî ǁau-eb ga ǂgano , ǁau-i di amǃnâs ai ǀao-e nî mā bi ?
+42011012	~		Tsî ǃupu-eb ga ǂgano , ǀhū-e nî mā bi ?
+42011013	matikōseb		Sadu hîa ǁnâi ǂkhaba du ga ǂano , sadu ôana ǃgâi xūna māsa , matikōseb ǁnās ǂamai ǀhomsi ǁGûba ǃAnu Gagaba ǂgan bi rana nî mā .
+42011018	matis		Tsî Satanni on ga ǀgoraǃāsen hâo , matis gaosis âba nî mâhō ? Beelsebuli ǃnâ-ū ta ǁgâuaga ra aoǂui , ti du kom ra mîo .
+42011019	tari-i		Tsî tita ga Beelsebuli ǃnâ-ū ǁgâuaga aoǂuio , tari-i ǃnâ-ū gu ǁnâi sadu ôaga ra ǃhaeǂui gu ? ǁNā-amaga gu ge ǁîga nî sadu ǂhanuǂhanu-ao .
+42012014	tari-e		Ob ge ǁîb ǃoa ge mî : Khoetse , tari-e kha tita sakho ǂama ǂhanuǂhanu tsî ǀgoraǃgâ-aose mâi hâ ?
+42012017	Tare-e		Ob ge ǁîb ǃnâ ǂâi , tsî ge mî ; Tare-e ta ǁnâi nî dī : Ti ǂûna ta nî ǀhaoǀhaoǃnâ ǃkhai-e ta kom ūhâ tamao .
+42012020	tari-i		Xaweb ge Eloba ǁîb ǃoa ge mî : Gâretse , nē tsuxub ǁkhāb ǃnâts ge ǀoms âtsa nî ǂgaoǀkhāhe , on nēn , ǂhomits gona tari-i din nî ?
+42012024	matikōse		Gorana ǃgaoǃgâ : Tsoro tsîn ǃgao tama ǃkhaisa , tsî ǂûn om-i tsî sâuǃnâ-om-en ūhâ tama , xawen Elob xa ra ǂûmāhe ǃkhaisa ; matikōse du anina ra īǂam ?
+42012025	tari-e		Tsî tari-e sadu ǃnâ , ǂhansens ǀkha ǁî-i di gaxusib tawa , ǀgui eli xaweba ǀaro ǁkhā ?
+42012026	tarexa		Tsî ǂkhariro-i xawe-e du ga ǁkhā tama io , tarexa du ǁnâi naun xa ra ǂhansen ?
+42012042	Tariba		Ob ge ǃKhūba ge mî : Tariba kha ǁnā ǂgomǂgomsa tsî gā-ai mûǂamaob , ǀhonkhoeb âb ǁîb di ǃgān ǂama ra mâiba , mîmâisa ǁaeb aib nî ǁîna ǂûna ǂhûiǂuise ?
+42012049	matikōse		ǀAesa ta nî ǃhūbaib ai aose ta ge ge hā , tsî matikōse ta ǂgao hâ , ǀnai-i ga khau ǃkhaisa .
+42012056	mati		Hînaxaǃnâdo , ǃhūbaib tsî ǀhommi tsîkha di aisa ǀgorasa du ge a ǂan tsî mati du kha ǁnâi nē ǁaeba a ǀgora ǁoa ?
+42012057	tarexa		Tsî tarexa du ǁkhāti ǁî-aitsama sado xu ǂhanu-e ǀgora tama hâ ?
+42013004	~		Tsî ǁnā disiǁkhaisaǀan , ǁîn aib ge Siloams di ǂgō-omma ǁnā tsî ǃgamn , ǁîn Jerusalems ǃnâ ǁan hân hoan ǂamai a ǁore-ao , ti du ǂâi hâ ?
+42013007	tarexas		Ob ge ǂauxûiǂûǃhanab di sîsenaob ǃoa ge mî : Mû , ǃnona kuriga ta ge go hâ , nē ǀnomahais ai ǂûna ra ôaǃâ , tsî ta hō tama . ǁHāǂui si ; tarexas ra ǃhūba ǂûoǃnâ kai ?
+42013015	mâ-i		Ob ge ǃKhūba ǃeream bi tsî ge mî : Hînaxaǃnâtse , mâ-i hoa-i sadu di-e kha sâtsēs ai ǁî-i gomab tsî eseli tsîkha ǁgoroba xu xore , tsî āsiǃgû tama hâ ?
+42013018a	tare-i		Tsîb ge ge mî : Tare-i khamib kha Elob gaosiba ī , 
+42013018b	tare-i		tsî tare-i ǀkha ta kha nî ǂkhō bi ?
+42013020	Tare-i		Tsîb ge ǁkhawa ge mî : Tare-i ǀkha ta kha gaosib Elob diba nî ǂkhō ?
+42013025	mapa		Oms ǀhonkhoeb nî khâi , tsî dao-ams nî ǂganamhe , tsî du ǃauga mâ , tsî nî dao-ams ai ǃgubutsoatsoa ; ǃnubai du ge nîra mî : ǃKhūtse , ǃKhūtse , ǁkhowa-amba da re ! Ob ge ǃeream tsî nîra mîǀî du : ǂAn du tama ta hâ , mapa xu du hâsa .
+42014005	Tari-e		Ob ge ǃeream , tsî ǁîgu ǃoa ge mî : Tari-e kha sadu ǃnâ , ǁî-i di ôab kas , ǁî-i di gomab kas ga tsau-i ǃnâ ǁnāo , ǁnātimîsi sâtsēs ai xawe ǁîba ǂgaeǂui tide ?
+42014028	Tarib		Tarib âdu ǂgō-om-e ra ǂnubi ǂgaoba kha aibe ǂnû , tsî ǁnās ǃoa ǂhâbab hâna ǃgôa tama hâ , iseb xare dītoab nîsa ǂâuba hâna ūhâsa ?
+42014031	mâ		Tsî mâ gao-aob , nau gao-aob ǀkha toroba ra dī ǂgaoba kha aibe ǂnû , tsî ǀapeǀape tama hâ , iseb a ǁkhā ǃkhais , disiǀoadisigu ǀkha naub , ǀgamdisiǀoadisigu ǀkha ǁîb ǃoagu ra hāba ǃoasa .
+42014034	tare-i		ǃGâi xū-i ge ǂō-e ; xawe ǂō-i ga ǁkhoao-o , tare-i ǀkha i kha nî ǁkhoaǁkhoahe ?
+42015004	Mâ		Mâ khoeb sadu dib , ǀguikaidisi gūna ūhâb , tsî i ga ǀgui-e ǁîn xa kāba kha khoesedisikhoeseǀana ǃgaroǃhūb ǃnâ ǁnāxū tsî kā hâ-i ǃoa ǃgû tide , ǁî-eb nî hōs kōse ?
+42015008	mâ		Tsî mâ taras , disi maride ūhâs , tsî ga ǀgui marisa kāsa kha ǃamamǀae-e ǃamam , tsî omsa ǀnapuǃnâ tsî ǂōrisase ôa tide , ǁîsas nî hōs kōse ?
+42015026	tare-i		Tsî ǃgāgu di ǀguiba ǂgaihā , tsî ge dîǃā bi , tare-i asa .
+42015029	~		Xaweb ge ǃeream , tsî ǁgûb ǃoa ge mî : Kō , nētikō ǂgui kuriga ta gere ǃoaba tsi , tsî ta tātsē ǀgui mîmā-i âtsa ǃûǂam tama hâ ; xawets kom tātsē piriro-i xawe-e mā te tamao , ti ǀhōsan ǀkha ta nî ǃgâiaǂgaose .
+42016002	Mati		Ob ge ǂgai bi , tsî ǁîb ǃoa ge mî : Mati ta kha nēsa sats xa ra ǁnâu ? ǃEreamsa mā sa ommûǂamsis xa ; ǃaruǀîts kom a ommûǂamao ǁoao .
+42016003	Tare-e		Ob ge ommûǂamaoba ǁîb ǃnâ ge mî : Tare-e ta nî dī , ti ǀhonkhoeb ra ommûǂamsisa ūǀhana teo ? Khao ǁoa ta a , tsî ǀkhopesa ta kom ra tao-o .
+42016005	Matikōsets		Ob ge surude-aogu ǁîb ǀhonkhoeb diga ǂgai , tsî ǂgurob ǃoa ge mî : Matikōsets satsa ti ǀhonkhoeba surude hâ ?
+42016007	matikōsets		ǁNās khaoǃgâb ge naub ǃoa ge mî : Tsî satsa , matikōsets surude hâ ? Ob ge ge mî : ǀGuikaidisi ǀnōb ǃhorob xa . Ob ge ǁîb ǃoa ge mî : Surudeǂkhanis âtsa ū , î ǁkhaisadisi , ti xoa .
+42016011	tari-e		Tsî ǂhanuoǃnâ ǃkhūsib ǃnâ du ga ǂgomǂgomsa tama io , tari-e ǁnâi ama-ai-e nî ǂgomǃgâ du .
+42016012	tari-e		Tsî naun di xū-i ǀkha du ga ǂgomǂgomsa tama io , tari-e ǁnâi sadu di-e nî mā du :
+42017007	tari-e		Tsî tari-e sadu ǃnâ hâ , ǃhūǃgao tamas ka io ra ǀgoadī ǃgāba ūhâ-e , tsî nî ǁnātimîsi , ǃhanaba xub ra ǁaruhā ǃnubai ǁîb ǃoa mî : Hā , î tāb tawa ǂnû .
+42017017	Mapa		Ob ge Jesuba ǃeream , tsî ge mî : Disise go kha ǃanuǃanuhe tama hâ ? Mapa gu ǁnâi khoesega hâ ?
+42017018	~		Tsî ǀnîga ǁnâi hōhe tama hâ , oa tsî nî Eloba ǃgôaba māga , nē ǃhaokhoeb ǀguiba ?
+42017020	mâ ǁaeb		Tsî Farisegu xab ge dîheo , mâ ǁaeb nî gaosib Elob diba hāsao , ob ge ǁîga ǃeream , tsî ge mî : Elob gaosib ge ǃaugakam ǂkhaisa īsib ǀkha hā tama .
+42017037	Mapa		O gu ge ǃeream , tsî ge mîǀî bi : Mapa , ǃKhūtse ? Ob ge ǁîgu ǃoa ge mî : Soros hâpa , ǁnāpan kom ǃariǃkhāna ra ǀhûo .
+42018018	tare-e		Tsîb ge ǂanǂansa ǂamkhoeba dî bi , tsî ge mî : ǃGâi ǁkhāǁkhā-aotse , tare-e dī tsî ta nî ǀamo ûiba ǀumi ?
+42018019	Tarexats		Ob ge Jesuba ǁîb ǃoa ge mî : Tarexats ǃgâi , ti ra ǂgai te ? Khoe-i xare-i kom ǃgâi tamao , Elob ǀguib .
+42018026	Tari-e		On ge ǁnâu rana ge mî : Tari-e ǁnâi a ǃgâiǃō ǁkhā ?
+42018036	tare-i		Tsî khoen ra ǃgû-ī ǃkhaisab ge ǁnâuo , ob ge ge dî , tare-i a ǃkhaisa .
+42018041	Tare-e		tsî ge mî : Tare-e ta nî dība tsi , ǃkhaisats ra ǂgao ? Ob ge ge mî : ǃKhūtse , mû kaihe ta nîsa .
+42019007	~		On ge mû gen hoana ǀara tsî ge mî : ǁOre-aob tawab kom hâ nîse go ǂgâo .
+42019023	Tare xū-i ǃaromats		Tsî tare xū-i ǃaromats kha ǁnâi ti pondsa mariǂharuguǂgaes ǃnâ mā tama ge i , o ta kom ga ti hās ǃnâ ǁîsa hōs ǀkha ǂgaoǀkhā hâo ?
+42019031	Tare xū-i ǃaroma		Tsî khoe-i ga sakho dî : Tare xū-i ǃaroma kho ǁî-e ra xore ? O kho ge ǁî-i ǃoa : ǃKhūb kom ǁî-e ǂhâba hâo , ti nî mî .
+42019033	Tare xū-i ǃaroma		O gu ge ǁî-i di ǀhonkhoega , eselǂkhamro-e kha ra xore hîa ǁîkha ǃoa ge mî : Tare xū-i ǃaroma kho eselroba ra xore ?
+42020002a	mâ		Tsî ǁîb ǀkha ǃhoa , tsî ge mî : Mîba ge re , mâ ǀgaiba xuts ra nēna dī ǃkhaisa , 
+42020002b	tarib		tsî tarib a ǃkhaisa , nē ǀgaiba ge mā tsiba .
+42020005a	~		O gu ge ǁîgu ǃnâ ǂâiǂâisen tsî ge mî : Mî ge kao : ǀHomma xus , ob ge sage ǃoa nî mî : 
+42020005b	tarexa		Tarexa go ǁnâi ǂgom bi tama hâ ?
+42020013	Tare-e		Ob ge ǂauxûiǂûǃhanab di ǀhonkhoeba ge mî : Tare-e ta nî dī ? Ti Ôab , ǀnam ta aba ta ge nî sî ; ǀnîsi gu nî ǁîba sâu , mû bi gu kao .
+42020015	Tare-eb		O gu ge ǂauxûiǂûǃhanab ǃaugaba ǃoa aoǂui , tsî ge ǃgam bi . Tare-eb ǁnâi ǂauxûiǂûǃhanab di ǀhonkhoeba ǁîga dī ?
+42020017	Tare-e		Ob ge ǃgapaǀî gu , tsî ge mî : Tare-e ǁnâi nē xoahe hâ-e : “ ǀUib , omǂnubi-aogu xa ge aoxūheb , ǁnāb ge ge ommiǁhôas di danaǀui kai ? ”
+42020023	Tare-e		Tsî gāxaǃnâsib âgab ge ǂanǃnâguo , ob ge ǁîgu ǃoa ge mî : Tare-e go ra ǃâitsâ teba ?
+42020024a	tari-i		Denara ǁgau te ! Tari-i di īb 
+42020024b	~		tsî xoamâisab ūhâ ? O gu ge ǃeream , tsî ge mî : Kaesari dis komo .
+42020033	mâb		Khâis ǃnâ ǁnâi , mâb ǁîgu dib di tarases nî ī ? Hûgu hoagu kom ǁîsa taras ase ge ūhâ io .
+42020041	Matin		Tsîb ge ǁîgu ǃoa ge mî : Matin kha , Xristub a Davib ôa , ti ra mî ?
+42020044	matib		Tsî Davib ga : “ ǃKhūb ” ti ǂgai bio , matib a ǁnâi ǁîb di ôa ?
+42021007a	mâ ǁaen		O gu ge dî bi , tsî ge mî : ǁKhāǁkhā-aotse , mâ ǁaen kha nēna nîra ī , 
+42021007b	mâsa		tsî mâsa saos , nēn nîra ī ǁaeb disa ?
+42022009	Mapa		O kha ge ǁîb ǃoa ge mî : Mapa khom nî ǂhomisats ra ǂgao ?
+42022011	Mapas		î oms ǀhonkhoeba mîba : ǁKhāǁkhā-aob ra mîba kai tsi : Mapas ǃnā-omsa hâ , Pasxaǁkhaoba ta nî ti ǁkhāǁkhāsabegu ǀkha ǂûǃnâsa ?
+42022027	Tariba		Tariba ǁnâi ǃnāsase kai , tāb tawa ra ǂnûba ? ǃOaba raba ? Tāb tawa ra ǂnû tamaba ? Xawe tita ge sago ǃnâ ǃoaba rase īta .
+42022046	Tarexa		tsî ge mîǀî gu : Tarexa go ra ǁom ? Khâi , î ǀgore , î go tā ǃâitsâb ǃnâ ǂgâ .
+42022064	tarib		tsî ǃgū-ai bi , tsî ge dî bi : Kēbo , tarib a ǃkhaisa , satsa go ǂnauba .
+42022071	Mâ		O gu ge ge mî : Mâ ǃkhō-am-i ǀnî-e ge ǂhâba hâ ? Aitsama ge kom ams âba xu go ǁnâuo .
+42023022a	~		Ob ge ǃnonaǁî ǃnās ai ǁîn ǃoa ge mî : Okha , 
+42023022b	mâ		mâ tsū xū-eb ǁnâi nēba dī hâ ? ǁŌba anu hâ ǀhapi-e ta ǁîb ǃnâ hō tama , xui-ao ta ǁkhara tsî nî ǁnāxū bi .
+42023031	Tare		Nēnan ra ǃam haib ai dīo , tare xū-e ǁnâi ǂnâsab ǀkha nî ī ?
+42024005	Tare-i ǃaroma		O di ge ǃhuri , tsî aidi âde ǃhūb ai ge ǃgam . O kha ge ǁîdi ǃoa ge mî : Tare-i ǃaroma so ûitsamaba ǁō hân tawa ra ôa ?
+42024017	Mâ		Ob ge ǁîkha ǃoa ge mî : Mâ mîǃnôade kha nēde , ǃgûgaruǃâ kho ra ǃhoa-ūgude , tsî tarexa kho ǃoa hâse ī ?
+42024019	Mâde		Ob ge ge mîǀî kha : Mâde kha ? O kha ge ge mîǀî bi : Jesub Nasareǁîb dide , sîsenni tsî mîdi tsîn ǃnâ ǀgaisa kēbo-ao ge iba , Elob tsî ǁaes hoas aiǃâ ;
+42024025	~		Ob ge ǁîkha ǃoa ge mî : Okha sa gâre tsî ǁgarasa ǂgaoba ūhâkho , kēbo-aogu ge mîn hoana ǂgomsa .
+42024038a	tarexa		Ob ge ǁîna ge mîǀî : Tarexa du go ǃhuri , 
+42024038b	tare xū-i ǃaroma		tsî tare xū-i ǃaroma di nēti ī ǂâide sadu ǂgaogu ǃnâ go khâi ?
+43001019	Taritsa		Tsî nēs ge ǃkhō-ams , Johaneb disa , Jodeǁîn ge Jerusalemsa xu pristergu tsî Leviǁîgu tsîga sî ǃnubai , dî bi gu nîga : Taritsa kha satsa ?
+43001021	Taritsa		O gu ge ge dî bi : Taritsa ǁnâi ? Eliatsa ? Ob ge : ǁÎ tama ta ge , ti ge mî . Kēbo-aotsa ǁnâi satsa ? Ob ge : Hî-î ! ti ge mî .
+43001022a	taritsa		O gu ge ge mîǀî bi : Taritsa kha ǁnâi ? Î ge ǃeream-e mā ǁkhā sige go sîga . 
+43001022b	tare-ets		Tare-ets ra sats ǂûts xa mî ?
+43001025	Tare xū-i ǃaromats		Tsî gu ge dî bi , tsî ge mîǀî bi : Tare xū-i ǃaromats ǁnâi ra ǁāǁnâ , Xristu tamats ga io , tsî Elia tamats ga io tsî kēbo-ao tamats ga io ?
+43001038a	tare-e		Tsî Jesub ge ǂnan , tsî ǁîkha ra sao bi ǃkhaisa mûo , ob ge ǁîkha ǃoa ge mî : Tare-e kho ra ôa ? O kha ge ǁîb ǃoa ge mî : 
+43001038b	mapats		Rabitse ( ǁkhāǁkhā-aotse , ti ra ǂnûiǃkhunihe mîs ge nēsa ) , mapats ǁan hâ ?
+43001046	Mâ		Ob ge Natanaela ǁîb ǃoa ge mî : Mâ ǃgâi xū-e kha Nasaretsa xu a ǀkhī ǁkhā ? Ob ge Filipuba ge mîǀî bi : Hā î mû !
+43001048	Mapa		Ob ge Natanaela ǁîba ge dî : Mapa xuts a ǂan te ? Ob ge Jesuba ǃeream tsî ǁîb ǃoa ge mî : Filipub ǂgai tsi tama hîa , ǀnomahais ǃgaots go hâ i ǃnubai ta ge go mû tsi .
+43002004	Tare-e		Ob ge Jesuba ǁîs ǃoa ge mî : Tare-e ta sas ǀkha ǁae hâ , tarase ? Ti iri kom ganupe hā tamao .
+43002018a	~		On ge Jodeǁîna ǃeream , tsî ǁîb ǃoa ge mî : 
+43002018b	Mâ		Mâ sao-ets ǁnâi sida ra ǁgau , nēnats dī ǁkhā ǃkhaisa ?
+43003004	Mati		Ob ge Nikodemuba ǁîb ǃoa ge mî : Mati i kha khoe-e , kaira hâǃâ a ǃnae ǁkhā ? Xare i kha ǁkhawa ǁgûs di ǃnāb ǃnâ ǂgâ-oa tsî a ǃnae ǁkhā ?
+43003009	Matin		Ob ge Nikodemuba ǃeream , tsî ǁîb ǃoa ge mî : Matin kha ǁnâi nēna a ī ǁkhā ?
+43003012	mati		ǃHūbaib din xa ta ga mîba du , tsî du ga ǂgom tama io , mati du kha nî ǂgom , ǀhommi din xa ta ga mîba duo ?
+43004009	Matits		Os ge Samariaǁî tarasa ǁîb ǃoa ge mî : Matits ǁnâi satsa , Jodeǁîts a hîa , tita Samariaǁî tarata ǁgam-e ra ǂgaoǀkhā ? ( Jodeǁîn kom Samariaǁîn ǀkha ǁae-ūgu tamao . )
+43004011	mapa		Os ge tarasa ǁîb ǃoa ge mî : ǃKhūtse , ǃkhā-ūxū-ets kom ūhâ tamao , tsî tsaus kom a ǃgamo ; mapa xuts ǁnâi ûitsama ǁgam-e ūhâ ?
+43004027a	tare-ets		ǃNubai gu ge ǁkhāǁkhāsabegu âba hā , tsî ge buru , tara-i ǀkhab ra ǃhoa ǃkhais xa ; xaweb ge ǀguib xaweba : Tare-ets ra dî ? 
+43004027b	tare-ets		Tare-ets ra ǁîs ǀkha ǃhoa ? ti mîtsâ tama ge i .
+43005012	Tariba		On ge ge dî bi : Tariba kha ǁnā khoeb , sats ǃoa : Kharob âtsa ū , î ǃgû , ti go mîba ?
+43005044	Mati		Mati du kha a ǂgom ǁkhā , sadu ǃnâ ǃgôa-e ra ūǃoabagu do , tsî Elob ǀguiba xu hâ ǃgôaba ôa tama do ?
+43005047	mati		Xawe ǁîb di xoade du ga ǂgom tama io , mati du kha ti mîde nî ǂgom ?
+43006005	Mapa		ǃNubaib ge Jesuba ǃgapakhâi tsî ge mû , kai ǂnubis ǁîb ǃoa ra hāsa ; ob ge Filipub ǃoa ge mî : Mapa ge nî perena ǁama , nēn nî ǂûga ?
+43006009	tarena		Axarob ge nēpa hâ , koro gerstperes tsî ǀgam ǁaukha tsîna ūhâba , xawe tarena ǁîna nētikō ǂgui ǂnubis ǃnâ ?
+43006025	mâ ǁaets		Tsî hurirob nauǃanin ge hō bio , on ge ǁîb ǃoa ge mî : Rabitse , mâ ǁaets go nēpa hā ?
+43006028	Tare-e		On ge ǁîb ǃoa ge mî : Tare-e da nî dī , o da Elob di sîsenga nî sîsen ?
+43006030a	Mâ		On ge ǁîb ǃoa ge mî : Mâ sao-ets kha ra dī , mû tsî da nî satsa ǂgomse ? 
+43006030b	tare-ets		Tare-ets ra sîsen ?
+43006042	Matib		On ge ge mî : Jesub , Joseb ôa tamaba kha nēb , ǁîb ǁgûb tsî ǁgûs tsîra da a ǂanna ? Matib ǁnâi : ǀHomma xu ta ge ǁgôaxa , ti ra mî ?
+43006052	Matib		On ge Jodeǁîna ǂnoagu tsî ge mî : Matib kha nēba sada ǁîb di ǁgansa a ǂûmā ǁkhā ?
+43006060	tari-e		Tsî ǂguin ǁîb ǁkhāǁkhāsaben din ge ǁnâuo , on ge ge mî : Ama ǁgonǁgonǂgaosa mî-i ge nē-e ; tari-e ǁî-e a ǁnâu ǁkhā ?
+43006062	Mati		Mati i kha nî ī , Khoen Ôaba du ga aibeb ge hâ i ǃkhais ǃoa ra ǃapase mûo ?
+43006068	tari-i		Ob ge Simon Petruba ǁîba ge ǃeream : ǃKhūtse , tari-i ǃoa ge kha nî ǃgû ? Sats kom mîdi ǀamo ûib dide ūhâo .
+43007011	Mapab		On ge Jodeǁîna ǁîba kaitsēs ai ôa , tsî ge mî : Mapab ǁîba hâ ?
+43007015	Matib		On ge Jodeǁîna buru , tsî ge mî : Matib kha nēba xoade a ǂan , ǁkhāǁkhāhe tamab hâ hîa ?
+43007019	Tarexa		Moseba sado ǂhanuba mā tamab hâ ? Xawe i ge khoe-i sadu di-i xare-e ǁîba dī tama hâ . Tarexa du kha ǃgam te du nîsa ra ôa-am ?
+43007020	Tari-e		Os ge ǁaesa ǃeream , tsî ge mî : ǁGâuabats kom ūhâo . Tari-e ǃgam tsi nîsa ra ôa-am ?
+43007023	~		Tsî khoe-i ga sâtsēs ai ǃgaosa hō , Moseb ǂhanub khôahe tidese , o du tita ǃoagu ǁnâi ra ǁaixa , hoaraga khoe-e ta go sâtsēs ai ǂuruǂurus ǂama ?
+43007035	Mapab		On ge Jodeǁîna ǁîn ǁaegu ge mî : Mapab kha nēba nî ǃgû , o da ǁîba hō tide ? ǀGaruǀgaruhe hâ Grikeǁînǀî ǃgû tsîb kha nî Grikeǁîna ǁkhāǁkhā ?
+43007036	Mâ		Mâ mîǃnôa-e kha nēb ra mî-e : O du ge tita nî ôa , tsî hō te tide ; tsî : Tita hâpa , ǁnāpa du ge a sī ǁoa ?
+43007041	~		On ge nauna ge mî : Xristub ge ǁîba . Xawen ge nauna ge mî : Xristuba kha Galileaba xub nî ǀkhī ?
+43007045	Tare xū-i ǃaroma		Tsî sîsabegu ge ǀgapipristergu tsî Farisegu tsîgu tawa ǁarusīo , o gu ge nēga ǁîgu ǃoa ge mî : Tare xū-i ǃaroma go ūhā bi tama hâ ?
+43007048	~		ǂAmkhoegu di ǀgui-e ǁîb ǃnâ ǂgom-i ge , tsî Farisegu di ǀgui-i tsîna ?
+43007051	~		Sada di ǂhanuba xareb khoe-e ra ǀgoraǃgâ , khoe-i aibe ǁnâuǃgâhe tama , tsî dī-i ra-e ǂanǃāhe tama hâ hîa ?
+43008005	tare-ets		Tsî Moseb ge ǂhanub ǃnâ ge mîmā , nēti īn nî ǀuiǁhomhe ǃkhaisa ; satsa ǁnâi , tare-ets ra mî ?
+43008010	Mapa		Tsî Jesub ge khuisen tsî ǀnî khoe-e mû tama io , taras ǀguisa , ob ge ǁîs ǃoa ge mî : Mapa gu hâ , tarase , sa ǀanaǃgâ-aoga ? Khoe-e kha ǀgoraǃgâ si tama hâ ?
+43008019	Mapab		O gu ge ǁîb ǃoa ge mî : Mapab sa Îba hâ ? Ob ge Jesuba ge ǃeream : Sadu ge tita kas , ti Îb kasa ǂan tama hâ ; tita du ga ǂan io , o du ga ti Îb ona ǂan hâ .
+43008025a	taritsa		On ge ǁîb ǃoa ge mî : Taritsa kha satsa ? 
+43008025b	~		Ob ge Jesuba ǁîn ǃoa ge mî : ǀAse ta goro ǃhoa khami ī ta ge tita .
+43008033	matits		On ge ge ǃeream bi : Abrahammi surida komo , tsî da kom tātsē khoe-i di khobo tama ge hâ io ; matits ǁnâi : ǃNoraǃnorahe du ge nî , ti ra mî .
+43008043	Tarexa		Tarexa du kha ti mîsa ǁnâuǃā tama hâ ? Ti mîsa du a ǁnâu ǁoa amaga .
+43008046a	tari-i		Tari-i âdo tita ǁore-i xa a mîdan ǁkhā ? 
+43008046b	tarexa		Tsî amaba ta kara mîo , tarexa du ǂgom te tama hâ ?
+43008053	Tarits		Satsa kha Abob Abrahammi , ǁō geb ǃgâ-ai a kai ? Tsî kēbo-aogu on ge ǁō . Tarits asets kha aitsama ra dīsen ?
+43008057	~		On ge Jodeǁîna ǁîb ǃoa ge mî : Ganupets kom korodisi kurixa tamao , ots kha Abrahamma ge mû ?
+43009002	tari-e		O gu ge ǁkhāǁkhāsabegu âba dî bi , tsî ge mî : Rabitse , tari-e ge ǁore , nēba , ǁîb îra , ǂgī hâseb ge ǃnaesa ?
+43009010	Matits		On ge ǁîb ǃoa ge mî : Matits kha mûra âtsa go khowabahe ?
+43009012	Mapab		On ge ǁîb ǃoa ge mî : Mapab ǁîba hâ ? Ob ge : ǀŪ ta a , ti ge mî .
+43009016	Mati		O gu ge ǀnîgu Farisegu diga ge mî : Nē khoeb ge Eloba xu hâ tama hâ , sâtsēsab khai tama hâ xui-ao . Xawe gu ge nauga ge mî : Mati i khoe-i hîa a ǁore-ao-e nēti ī saode a dī ǁkhā ? Tsî i ge ǁhaiǃāgu-e ǁîn ǃnâ ge hā .
+43009017	tare		O gu ge ǁkhawa ǂgī go ib ǃoa ge mî : Satsa ǁnâi , tare xū-ets ǁîb xa ra mî , sa mûrab go khowaba tsi ǃkhais xa ? Ob ge : Kēbo-aob komo , ti ge mî .
+43009019	Matib		On ge ǁîra dîǃā tsî ge mî : Nēba saro ôab , ǁnā ǂgī hâse ge ǃnae , ti ro ǁîb xa ra mîba ? Matib ǁnâi nēsi ra mû ?
+43009026a	tare-eb		O gu ge ǁîb ǃoa ge mî : Tare-eb go dī tsi ? 
+43009026b	matib		Matib go mûra khowaba tsi ?
+43009027	Tarexa		Ob ge ge ǃeream gu : ǀNai ta kom go mîba go-o , xawe go kom ǁnâu tamao . Tarexa go kha ǀgam ǃnāra ǁnâu ǂgao hâ ? Sago ona ǁnâi ǁîb di ǁkhāǁkhāsabe kai ǂgao hâ ?
+43009034	~		O gu ge ǃeream , tsî ǁîb oa ge mî : Hoaragasets ge satsa ǁoreb ǃnâ ge ǃnae , tsîts kha sige ra ǁkhāǁkhā ? O gu ge ǁîba ge ǂhāǂui .
+43009036	Mâba		Ob ge ge ǃeream : Mâba kha ǃKhūtse , î ta ǁîb ǃnâ ǂgom ?
+43010020	tarexa		On ge ǂguin ǁîn dina ge mî : ǁGâua-eb ūhâ , ob kom go ǃkhauo ; tarexa du ǁîba ra ǁnâu ?
+43010021	~		On ge ǀnîna ge mî : ǁGâuab xa hâǃnâhe-i di mî tamadi kom nēdeo . ǁGâua-e kha ǁkhā i a , ǂgī hân di mûde khowasa ?
+43010024	Matikō		On ge Jodeǁîna ǃnamiǂgā bi , tsî ǁîb ǃoa ge mî : Matikō ǂomxasets sida ra ǀgommaǂâi kai ? Xristuts ka satsao , ǁkhoaǂgaose sida mîba re .
+43010032	mâ		Ob ge Jesuba ǁîna ge ǃeream : ǂGui ǃgâidīgu ti Îba xu hâga ta ge ǁgau du ; mâ dīb ǁnāgu dib ǃaroma du kha ra ǀuiǁhom te ? ti .
+43010036	mati		mati du kha Abob ge khai tsî ǃhūbaib ai sî ta ǃoa ra mî : Elobats ra ǃkhāǃkhā , Elob Ôata ge tita , ti ta goro mî amaga ?
+43011034	Mapa		ob ge ge mî : Mapa du ǁîba ǁgui hâ ? On ge ǁîb ǃoa : ǃKhūtse , hā î mû re ! ti ge mî .
+43011047	Tare-e		O gu ge ǀgapipristergu tsî Farisegu tsîga ǀapeǀhao-e dī , tsî ge mî : Tare-e ge nî dī ? Nē khoeb kom ǂgui saode ra dīo .
+43011056	Mati		On ge Jesuba ôa , tsî tempeli ǃnâ mâse gere mîǀîgu : Mati du ǂâi hâ ? Hāb nî xare kaitsēs ai ?
+43012005	Tare xū-i ǃaromab		Tare xū-i ǃaromab kha nē ǃgâihamxūba ǃnonakaidisi denargu ama ǁamaxūhe tsî ǀgâsana māhe tama hâ ?
+43012027	tare-e		Nēsis ge ti ǀomsa ǁgonǁgonǃnâhe hâ . Tsî tare-e ta nî mî ? Abotse , nē ira xu ore te ! Xawe ǁîs ǃaroma ta ge nē iri ǃnâ go ǂgâ .
+43012034a	matits		Os ge ǂnubisa ǁîba ge ǃeream : Sida ge ǂhanuba xu ge ǁnâu , Xristub nî ǀamose hâsa ; tsî matits ǁnâi satsa : Khoen Ôab ge nîra ǀgapiǀgapihe , ti a mî ǁkhā ? 
+43012034b	tariba		Tariba kha ǁnā Khoen Ôaba ? ti .
+43012038a	tari-e		mîs kēbo-aob Jesajab dis nî ǀoaǀoahese , nēti ra mîsa : “ ǃKhūtse , tari-e sige aoǁnâsa ra ǂgom ? 
+43012038b	tari-eb		Tsî tari-eb ǃKhūb di ǁôaba ǂhaiǂhaibahe hâ ? ”
+43013025	tariba		Ob ge ǁîba Jesub di ǁkhaiǂams ǃoa ǂōsen tsî ǁîb ǃoa : ǃKhūtse , tariba a ǁî ? ti ge mî .
+43013036	mâǀîts		Ob ge Simon Petruba ǁîb ǃoa ge mî : ǃKhūtse , mâǀîts kha ra ǃgû ? Ob ge Jesuba ge ǃeream bi : Tita ra ǃgûpats ge nēsi a sao te ǁoa ; xawets ge ega nîra sao te .
+43013037	tare xū-i ǃaroma		Ob ge Petruba ǁîb ǃoa ge mî : ǃKhūtse , tare xū-i ǃaroma ta kha nēsi a sao tsi ǁoa ? Ti ûiba ta kom satsa nî mâibao .
+43014002	~		Ti Îb di ommi ǃnâ di ge ǂgui ǃnā-omde hâ . ǁNāti tamas ga io , o ta ga mîba go hâ : ǃGûsī ta ra , hâǃkhai-e ta nî ǂhomiba gose .
+43014005	mati		Ob ge Tomaba ǁîb ǃoa ge mî : ǃKhūtse , ǀū ge ge a , mâǀîts ra ǃgû ǃkhaisa , tsî mati ge kha daoba a ǂan ǁkhā ?
+43014009	Matits		Ob ge Jesuba ge mîǀî bi : Filiputse , nētikō ǂomxase ta ge sago ǀkha hâ , xawets ǂan te tama hâ ? Tita ra mû-i kom ǁGûba ra mû-eo . Matits ǁnâi : Sa Îba ǁgau ge re , ti ra mî ?
+43014022	mati		Ob ge Judab , Iskarioǁî tamaba , ǁîb ǃoa ge mî : ǃKhūtse , mati i kha ī , ots sige nîra ǂhaiǂhaisenba , tsî ǃhūbaiba ǂhaiǂhaisenba tide ?
+43016005	Mapats		Xawe ta ge nēsi ra ǃgû tita ge sîb ǃoa ; tsî ǀguib âgo xaweb ge : Mapats ra ǃgû ? ti dî te tama hâ .
+43016017	Tare-e		O gu ge ǀnî ǁkhāǁkhāsabegu âba ge mîǀîgu : Tare-e , nēb ra sige mîba-e : ǂKhari ǁaero-i , o go tita mû tide , tsî ǁkhawa ǂkhari ǁaero-i , o go tita nîra mû tsî : Abob ǃoa ta ra ǃgû ?
+43016018	Tare-e		O gu ge ge mî : Tare-e kha nē-e : ǂKhari ǁaero-i , tib ra mî-e . Sage ge a ǀū tare-eb ra mîsa .
+43018004	Tari-e		Tsî Jesub ge ǁîb ai nîra hān hoana ǂan io , ob ge ǂoa , tsî ǁîn ǃoa : Tari-e go ra ôa ? ti ge mî .
+43018007	Tari-e		Ob ge ǁkhawa ǁîga : Tari-e go ra ôa ? ti ge dî . O gu ge ǁîga Jesub Nasareǁîba , ti ge mî .
+43018011	~		Ob ge Jesuba Petrub ǃoa ge mî : Gôab âtsa ǂgā ǁhōb ǃnâ ! Ā ta tide , Abob ge mā te ǀgabisa ?
+43018021	tarexats		tarexats tita ra dîǃā ? ǁNâu gena dîǃnâ , tarena ta ge ǁîna ǃhoa-ū ǃkhaisa . Mû , ǁîn ge a ǂan , tarena ta gere ǃhoa ǃkhaisa .
+43018023	tarexats		Ob ge Jesuba ge ǃeream : ǂKhabase ta ga ǃhoa hâo , ǁnâi ǂkhabab xa ǃhoadan te , tsî ǃgâise ta ga ǃhoa hâo , tarexats ǁnâi ra ǂnau te ? ti .
+43018029	Mâ		Ob ge Pilatuba ǁîn ǃoa ǂoa , tsî ge mî : Mâ ǀhapiǀhapi-ai-e du kha nē khoeb ǃoagu ra ūhā ?
+43018035	Tare-ets		Ob ge Pilatuba ge ǃeream Jodeǁîta tita ? Sa ǁaes tsî ǀgapipristergu tsîn ge satsa go māǁnâ te . Tare-ets go dī ?
+43018038	Tare-e		Ob ge Pilatuba ǁîb ǃoa ge mî : Tare-e kha ama-e ? Tsî nēsa mî tsîb ge ǁkhawa Jodeǁîn ǃoa ǂoa , tsî ge mî : Tita ge ǁîb ǃnâ ǀhapixū-e hō tama hâ .
+43019009	Mapa		Tsî ǁkhawa ǂhanuǂhanu-ommi ǃnâ ǂgâ tsîb ge Jesub ǃoa : Mapa xuts hâ ? ti ge mî . Xaweb ge Jesuba ǃeream-i xare-e mā bi tama ge i .
+43019015	~		Xawen ge : Ūbē , ūbē , î ǃgâu bi ! ti gere ǂgai . Ob ge Pilatuba ǁîn ǃoa ge mî : Sadu gao-aoba ta ǁnâi nî ǃgâu ? O gu ge ǀgapipristerga ge ǃeream : ǀNî gao-ao-e da ūhâ tama , Kaesari ǀguib , ti .
+43020013	tarexas		Tsî kha ge ǁîs ǃoa ge mî : Tarase , tarexas ra ā ? Os ge ǁîkha ǃoa ge mî : Ti ǃKhūban go ūbē , tsî ta a ǀū mapan go ǁgui bi ǃkhaisa amaga .
+43020015a	tarexas		Ob ge Jesuba ǁîs ǃoa ge mî : Tarase , tarexas ra ā ? 
+43020015b	tari-es		Tari-es ra ôa ? Os ge ǁîsa ǃhanasîsenaob ti ǂâi tsî ǁîb ǃoa ge mî : ǃGôahesatse sats ga ǁîba tanibē hâo , ǁnâi mîba te re , mapats go ǁgui bisa , î ta ǁîba sī ūbē .
+43021012	Taritsa		Ob ge Jesuba ǁîgu ǃoa ge mî : Hā î go ǁgoaǂû re . Tsî ǁkhāǁkhāsabegu di ǀguib xaweb ge dītsâ tama ge i , ǁîba : Taritsa ? ti dîsa , ǃKhūb a ǃkhaisa gu ge ǂan i xui-ao .
+43021020	tariba		Tsî Petrub ge ǂnan , tsî ǁnā ǁkhāǁkhāsabeb , Jesub ǀnam hâb ra sao ǃkhaisa ge mû , ǁnāb , ǃuiǂûs tawa ǁîb di ǁkhaib ai ǃgâsen , tsî : ǃKhūtse , tariba satsa ra ǀapexūba ? ti ge mîba .
+43021021	matib		Tsî Petrub ge ǁîba mûo , ob ge Jesub ǃoa ge mî : ǃKhūtse , tsî nēba , matib nî ībahe ?
+43021022	tare-ets		Ob ge Jesuba ǁîb ǃoa ge mî : Tita ga ǂgao-o , ǁîb nî hā ta nîs kōse hâsa , tare-ets satsa ǁae hâ ? Satsa tita sao !
+43021023	tare-ets		O i ge nē mî-ai-e ǃgâsan ǃnâ ge ǂoa : ǁNā ǁkhāǁkhāsabeb ǁō tide , ti . Tsî Jesub ǁîb ǃoa , ǁōb tide , ti mî tama , xawe : Tita ga ǂgao-o , ǁîb nî hā ta nîs kōse hâsa , tare-ets satsa ǁae hâ ? ti ge mî .
+44001011	tarexa		ǁkhāti nēti ra mîkha : Galileaǁî aogo , tarexa go ǀhommiǀî ra ǃgapase mâ ? Nē Jesub , sago xu ǀhommi ǃoa go ūǃapaheb , ǁîb ge ǁnās ǁkhās xase nîra hā , ǀhommiǀîb ra ǃapase go go mû bi khami .
+44002008	mati		Tsî mati da kha ra ǁnâu , mâ-i hoa-i di gowab , sada ge ǃnaeǃnâba gu ra ǃhoa ǃkhaisa ?
+44002012	Tare-e		Tsîn ge hoana burugâ tsî îganǀgē tsî nē-e nau-i ǃoa ge mî : Tare-e kha nē-e nî ī ?
+44002037	Tare-e nî		Tsî nēsan ge ǁnâuo , on ge ǂgaogu ǃnâ ge ǃkhāǃganuhe , tsî Petrub tsî nau apostelgu tsîgu ǃoa ge mî : Tare-e da ǁnâi nî dī , aogo , ǃgâsago ?
+44003012a	tarexa		Tsî Petrub ge mûo , ob ge ǁaesa ge ǃeream : Israelǁîdo , tarexa du kha ǁîs ǂama ra buru ? 
+44003012b	tarexa		Tsî tarexa du kha sikhoma ra ǃgapalî , ǁîǀgaib tsî ǁî-eloǃaoǃgâsiba xu khom go ǃgû kai bi khami ?
+44004007a	~		Tsî gu ge ǁîkha ǁaegub ǃnâ mâi tsî ge dî kha : 
+44004007b	mâ		Mâ ǀgaiba xu 
+44004007c	mâ		tsî mâ ǀons ǃnâ kho kha nēsa go dī ?
+44004016	Tare-e		Tare-e ge kha nē khoekha nî dī ? ǂAnǂansa sao-i go ǁîkha xu a ī ǃkhais kom Jerusalems ǃnâ ǁan hân hoan tawa a ǂhaisao tsî ge kom ǁîsa a ǀoa ǁoao .
+44004025a	Tare xū-i ǃaroman		Davib , sa ǃgāb di amsa xu ge mîtsa : Tare xū-i ǃaroman ra ǀūbena ǂkhupi , 
+44004025b	~		tsî di ǁaede ǁau xūna ra ǂâi ?
+44005003	tare xū-i ǃaromab		Ob ge Petruba ge mî : Ananiatse , tare xū-i ǃaromab kha Satanna ǂgaob âtsa go ǀoaǀoa , ots ǃAnu Gagaba go ǂhumiba , tsî ǃhanab di hōǂgās xa go ǃgaubasen ?
+44005004	tarexats		Sa ǃhanab ase tarexats ūhâ bi tama ge hâ i ? Tsî ǁamaxū bits go ǃnubai sa ǀgaib ǃnâ hâ tamab go hâ i ? Tare-e kha , ots sa ǂgaob ǃnâ nē dīsa go ǂâibasen ? Khoenats ǂhumiba tama , tsîts kom Eloba go ǂhumibao .
+44005009	Tarexa		Ob ge Petruba ǁîs ǃoa ge mî : Tarexa ro go ǀhûǀgui , ǃKhūb di Gagaba ǃâitsâsa ? Mû , sa aoba go ǁkhōgu di ǂaidi ge dao-ams aiǃâ hâ , tsî nî sas ona taniǂui .
+44007026	tare xū-i ǃaroma		Tsî nau tsēs aib ge , ǀgamkha ra ǃkhamgu hîa , ǁîkha ǁaegu ǂhai tsî ǂkhîbagus ǃoa ǁgari kha tsî ge mî : Aokho , khoeǃgâgu kho kom sakho-o , tare xū-i ǃaroma kho ǁnâi ra tsūdīgu ?
+44007027	Tari-e		Ob ge ǁîb ǀgūkhoeba ra tsūdība Moseba ǂhāxū , tsî ge mî : Tari-e kha satsa sikhom ǂama danakhoese tsî ǂhanuǂhanu-aose ge mâi ?
+44007035	Tari-e		ǁNā Moseb ǁkhāb , ǁîgu ge ǃkhōǃoa tama ib : Tari-e kha satsa sige ǂama danakhoese tsî ǂhanuǂhanu-aose ge mâi ? ti mî tsîb , ǁîbab ge Eloba danakhoese tsî ore-aose ge sî , ǁkhūhais ǃnâ ge ǂhai bi ǀhomǃgāb di ǃomma xu .
+44007049a	mati		ǀHommi ge a ti tron , tsî ǃhūbaib ge a ti ǂaiǃnao , mati ī om-e du kha tita nî ǂnubiba , tib ra ǃKhūba mî ; 
+44007049b	mâ-i		tsî mâ-i a ti sâb di ǃkhai-e ?
+44007052	Mâb		Mâb kēbo-aogu diba gu kha sadu îga ǃgôaǃgon tama ? Tsî gu ge ǃgam gu , ǂhanu-aib di hāsa gere aiǂhôaga , ǁîb sadu ge ǀapexūb tsî a ǃgamao kaibaba ;
+44008031	Mati		Ob ge ge mî : Mati ta kha ga ǁkhā , khoe-i ga ǁguiǃāba te tama io ? Tsîb ge Filipuba ge ǁkhau , ǃapa îb ǁîb tawa ǂnû , ti .
+44008033	Tari-e		ǁîb di ǃgamǃgamhes ǃnâs ge ǁîb di ǀgoraǃgâsa ge ūbēhe . Tari-e nî ǁîb di ǃhaosa ǂgaikhâi ǁkhā ? ǁÎb di ûib ge ǃhūbaiba xu ūbēhe hâ xui-ao .
+44008034	tari-i		Ob ge ǁuiǃkhōmâi-aoba Filipuba ǃeream tsî ge mî : ǀKhoma tsi ta ra , tari-i xab kha kēbo-aoba ǁîsa ra mî ? ǁÎb ǂûb xa ? Nau khoe-i xa ?
+44008036	Tare-e		Tsî daoba-ū kha garu hîa kha ge ǁgam-i tawa ge sī . Ob ge ǁuiǃkhōmâi-aoba ge mî : Kō , nē i ge ǁgam-e hâ . Tare-e nî ǂhani te , ǁāǁnâkaisen ta nîsa ?
+44009004	tare xū-i ǃaromats		Ob ge ǃhūb ai ǁnā tsî dom-e ge ǁnâu , ǁîb ǃoa Saultse , Saultse , tare xū-i ǃaromats ra ǃgôaǃgon te ? ti ra mî-e .
+44009005	Taritsa		Ob ge : Taritsa , ǃKhūtse ? ti ge mî . Ob ge ǃKhūba ge mî : Tita ge Jesuta , sats ra ǃgôaǃgon ta . ǃGomba tsi nîra , ǃnôara ǃkhari-ūdas ǃoagu ǂnāsa .
+44009006	tare-e		Ob ge ǀkhū tsî ǀhū rase ge mî : ǃKhūtse , tare-e ta nî dīsats ǂgao hâ ? Ob ge ǃKhūba ǁîb ǃoa ge mî : Khâi î ǃās ǃnâ ǂgâ , ǁnāpats ge nîra mîbahe , tare-ets nî dī ǃkhaisa .
+44010004	Tare-e		Ob ge ǃgapaǀî bi tsî ǃao rase ge mî : Tare-e , ǃKhūtse ? Ob ge ǁîb ǃoa ge mî : Sa ǀgoredi tsî sa audi ge ǂâiǂâixūse Elob aiǃâ ge sīǃapa .
+44010021	Tare xū-i ǃaroma		Ob ge Petruba ǁnā khoegu ǃoa ǁgôa tsî ge mî : Mû , tita ge ǁî ta , sago ra ôata ; tare xū-i ǃaroma go go hā ?
+44010029	mâ xū-i ǃaroma		ǁNā-amaga ta ge ǁkhāti hā ta nîsa ǂkhā tama go i , ǂgaihe ta go-o . O ta ra dî , mâ xū-i ǃaroma du go ǂgai te ǃkhaisa .
+44010047	~		Khoe-e kha ǁgamma ǃkhâi ǁkhā i a , nēn ǃAnu Gagaba sage khami go hōn ǁāǁnâhe tidese ?
+44011017a	tari		Elob ga ǁnâi ǁîn ǁkhā hōde mā , sada , ǃKhūb Jesub Xristub ǃnâ ra ǂgomdab ge mā khami , tari ta kha ǁnâi tita , 
+44011017b	~		o ta Eloba nî ǃkhâi ǁkhā ?
+44012018	tare-i		Tsî ǁgoa i geo , o i ge kai ǂkhupi-e toro-aogu ǃnâ ge hā , tare-i go Petrub ǀkha ī ǃkhaisa .
+44013025	Tari		Tsî Johaneb ge ǃgûs âba ǀoaǀoao , ob ge ge mî : Tari ta ase du ū te hâ ? Tita ge ǁî tama ta , xawe mû , ti khaoǃgâb ge ǃgoaxa , ǁîb ǀkhapura ǂaira xu ores xawesa ta anu tamaba .
+44014015	tarexa		tsî ge mî : Khoedo , tarexa du nēna ra dī ? Sikhom on ge a khoe , ǁkhā tsâsendi sadu didi khami īde ūhâ khoma . Tsî khom ge ra ǂhôa du , nē ǁau eloga xu du nî ǃhobasen ǃkhaisa , ûitsama Elob , ǀhommi tsî ǃhūbaib tsî hurib tsî ǁîb ǃnâ hân hoana ge kurub ǃoa ,
+44015010	Tare xū-i ǃaroma		Tare xū-i ǃaroma go ǁnâi Eloba ra ǃâitsâ , ǃnaob , sage îgu tsî sage ǁkhāti tani ǁoa ge iba , ǁkhāǁkhāsaben di ǃhōgu ai ǁguis ǀkha ?
+44016030	Tare		tsî ǂgaeǂguiǂui kha tsî ge mî : Ti ǃkhūkhoekho-e , tare xū-e dī tsî ta nî ǃgâiǃōsiba hō ?
+44017018	Tare		Tsî Epikureǁî tsî Stoiǁî ǂansabegu ge ǁîb ǀkha gere ǂnoagu . Tsî gu ge ǀnîga ge mî : Tare xū-eb kha nē ǃhoaxūxaba nî mî ? O gu ge nauga ge mî : ǃHao ǁgôatsuiǁgoagu di aoǁnâ-aob khamib kom īo , ǃgâiǂhôas Jesub dis tsî khâis xab go ǁîna ǂhôa xui-ao .
+44017019	mâ		O gu ge ū tsî Areopagub ǃoa ūǃgû bi tsî ge mî : ǂAn ǁoa ge kha a ǁnâi , mâ ǀasa ǁkhāǁkhā-ai-i a ǃkhaisa , sats ǁî-i xa ra ǃhoa-e .
+44019003	Tare xū-i		Ob ge ǁîgu ǃoa ge mî : Tare xū-i ǃnâ go kha ǁnâi ge ǁāǁnâhe ? O gu ge : Johaneb di ǁāǁnâs ǃnâ , ti ge mî .
+44019015	tarigo		Xaweb ge ǂkhaba gagaba ǃeream tsî ge mî : Jesuba ta ge a ǂan , tsî Pauluba ta ge a ǂan ; xawe sago tarigo ?
+44019035	mâ		Tsî ǃās di xoa-aob ge ǁaesa ǃnōǃnō-o , ob ge ge mî : Efeseǁî aogo , mâ khoe-e ǂan tama hâ , Efeseǁîn di ǃās a kai elos Dianas tsî ǀhomma xu ge ǁnā īb di sâu-ao ǃkhaisa ?
+44021013a	mati		Xaweb ge Pauluba ge ǃeream : Mati du kha ra dī , 
+44021013b	~		o du ā tsî ti ǂgaoba ra khôa ? Tita kom ǂhomisen hâo , ǃgaehes ǀguisa tama i tsî ta nî ǁkhāti ǁōsa Jerusalems tawa ǃKhūb Jesub di ǀons ǃaroma .
+44021022	Mati		Mati ǁnâi ? ǂHâǂhâsa i ge a , ǂnubis nî ǀhao ǃkhaisa , hoan kom hāts go ǃkhaisa nî ǁnâuo .
+44021033a	tarib		ǃNubaib ge danakhoeba ǀgū tsî ǃkhō bi tsî ge mîmā , îb ǀgam ǁkhamkha ǀkha ǃgaehe ti tsî tarib a 
+44021033b	tare		tsî tare xū-eb ra dī ǃkhaisa ge dîǃā .
+44022007	tarexats		O ta ge ǃhūb ai ǁnā , tsî dom-e ge ǁnâu : Saultse , Saultse , tarexats ra ǃgôaǃgon te ? ti ra mîlî te-e .
+44022008	Tarits		O ta ge tita ge ǃeream : Tarits a , ǃKhūtse ? ti . Ob ge tita ǃoa ge mî : Tita ge Jesuta , Nasareǁîta , sats ra ǃgôaǃgon ta .
+44022010	Tare-e		O ta ge tita ge mî : Tare-e ta nî dī , ǃKhūtse ? Ob ge ǃKhūba tita ǃoa ge mî : Khâi , î Damaskus ǃoa ǃgû , ǁnāpats ge nîra mîbahe , dīts nîsets ǂnûibahe hân hoana .
+44022016	tarexats		Tsî nēsi tarexats ra ǀhawe ? Khâi î ǁāǁnâkaisen , în sa ǁorena khōǁnâhe î ǃKhūb di ǀonsa ǂgaiǀî .
+44022026	Tare-ets		Tsî kaidisigu danakhoeb ge ǁnâuo , ob ge ǂamkhoeb tawa sī , tsî ge ǂhôa bi : Tare-ets nî dī ? Nē khoeb kom a Romeǁîo ti .
+44023003	~		Ob ge Pauluba ǁîb ǃoa ge mî : Elob ge nîra ǂnau tsi , sats ǃuriǃurisa ǂnubiǂgoatse , ǂnûts hâ ǂhanub ǃoats nî ǀgoraǃgâ tese , tsîts ǂhanub ǃoagu ra mîmā , ǂnauhe ta nîsa ?
+44023009	~		O i ge kai ǃau-e ge hā . O gu ge xoaǂansabegu Fariseǁî ǃâs diga khâi , tsî ǂnoagu tsî ge mî : Sige ge nē khoeb ǃnâ tsū xū-e hō tama hâ ; tsî gaga-i kas , ǀhomǃgā-i kas ga ǁîb ǀkha ǃhoa hâo , a ge tā Elob ǃoagu ǂnoagu .
+44023019	Tare-e		Ob ge ǂamkhoeba ǃommi ai ū bi , tsî ǀguri hâ ǃkhais ǃoa ǃgû , tsî : Tare-e , ǂhôa tets nî-e ? ti ge dî bi .
+44026008	Tare xū-i ǃaroma		Okha , tare xū-i ǃaroma du sado ra mî , ǂgomǁoasa i a ǃkhaisa , Elob ra ǁō hâna ǂkhaiǂkhai ǃkhaisa ?
+44026014	tarexats		Tsî hoage ge ǃhūb ai ǁnāǁgoe ǃnubai ta ge dom-e ge ǁnâu , Hebreǁî gowab ǃnâ tita ǃoa Saultse , Saultse , tarexats ra ǃgôaǃgon te ? ti ra mî-e . ǃGomba tsî nîra ǃkhari-ūdas ǃoagu ǂnāsa .
+44026015	Taritsa		O ta ge tita ge mî : Taritsa kha , ǃKhūtse ? Ob ge : Tita ge Jesuta , sats ra ǃgôaǃgon ta , ti ge mî .
+45002017	~		Mû Jodeǁî tits ra satsa ǂgaihe , tsîts ra ǂhanub ai ǂgomǃgâsen , tsîts ra Elob xa koasen ,
+45002021	~		Tsî nau-ets ra ǁkhāǁkhā hîats sa-aitsama ǁkhāǁkhāsen tama : ǃNarits ge tide , tits ra aoǁnâ hîats ra ǃnari .
+45002028	~		ǃAugasi īsib ǃnâ Jodeǁî khami ī-i kom Jodeǁî tamao , tsî ǃaugasi ǁgans tawa ra ǂhai ǃgaos kom ǃgao tamao ;
+45003001a	mâ		Mâ aiǂhanu-e i kha ǁnâi Jodeǁî-e ūhâ . 
+45003001b	mâsa		Tsî mâsa kha harebes ǃgaos disa ?
+45003003	Mati		Mati ǁnâi ? ǀNîn ga ǂgom tama io : ǁÎn di ǂgomoǃnâsiba kha Elob di îǂhôasiba ǁauǁaub nî ?
+45003005	tare-e		Tsî sada ǂhanuoǃnâsib ga Elob di ǂhanu-aisiba ǀgaiǀgaio , tare-e da kha nî mî ? ǂHanuoǃnâb kha a Eloba , ǁaibab ga sada ǂama hā kaio ? ( Khoen ra mî khami ta ra ǃhoa . )
+45003006	matib		Tātsē ! ǁNāti i ga īo , matib kha ga Eloba ǃhūbaiba ǀgoraǃgâ ǁkhā ?
+45003007a	~		Tsî Elob di amab ga ti ǂhumiba xu ǃnā hâo ǁîb di ǂkhaisiba ǃoa : 
+45003007b	Tare xū-i ǃaroma		Tare xū-i ǃaroma ta kha ganupe ǁore-aose nîra ǀgoraǃgâhe ?
+45003008	~		Tsî ǁnāti da kha ga dī tide , ǃkhāǃkhāhe da ra khami , tsî ǀnîn ra mî khami , sada ra mî ǃkhaisa : “ A da ǂkhababa dī , îb ǃgâiba ǁîba xu ǀkhī . ” ǁÎn di ǀgoraǃgâs ge a ǂhanu .
+45003009	Mati		Mati ǁnâi ? Aiǂhanu-e ū da hâ ? Hî-î , ǀgui-i xare-e tama . Aiga ge kom go ǁgauo , Jodeǁîn tsî Grikeǁîn tsîn hoan ǁoreb ǃnâ hâ ǃkhaisao .
+45003027a	mapas		Mapas ǁnâi koasensa hâ ? Dīǂuihe hâ . 
+45003027b	Mâ		Mâ ǂhanuba xu ? Sîsengu diba xu ? Hî-i , xawe ǂgoms di ǂhanuba xu .
+45003027c	~		
+45004001	Tare-e		Tare-e da ǁnâi nî mî Abrahammi , ǁgans ǃoa sada îb xa ? Mâ xū-eb ge hō ?
+45004003	Tare-es		Tare-es ra xoasa mî ? Abrahammi ge Eloba ge ǂgom , tsî ǁîs ge ǁîba ǂhanu-aisise ge ǃgôabahe .
+45004010	Matib		Matib ǁnâi ǃgôabahe hâ ? ǃGaos ǃnâb hâ hîasa ? Aikhōb ǃnâb hâ hîasa ? ǃGaos ǃnâb hâ hîa tamas , xawe aikhōb ǃnâb hâ hîas komo .
+45005010	matikō		Khākhoeda a hîa da ga ǁîb Ôab di ǀaoba xu ǂkhîbaguheo , matikō ǃnā hâse da kha ǂkhîbaguhe hâǃâ ǁîb di ûib ǃnâ nîra sâuhe .
+45005021	~		ǁoreb ge ǁōb ǃnâ gaosîsens ǁkhās khamib nî ǁkhāti ǀkhomma gaosîsen ga ǂhanu-aisiba xu ǀamo ûib ǃoa , Jesub Xristub sada ǃKhūba xu .
+45006001	Tare-e		Tare-e da kha ǁnâi nî mî ? Hâhâ da nî ǁoreb ǃnâ , ǀkhommi nî ǃnāse ?
+45006002	Mati		Tātsē ! Mati da kha sada , ǁoreba ge ǁōǁnâ da ǁîb ǃnâ nî ûi ?
+45006015	Mati		Mati ǁnâi ? ǁOre da nî xare , ǂhanub ǃnâ hâ tama i tsî da ǀkhommi ǃnâ hâ amaga ? Tātsē !
+45006021	Tarebe		Tarebe ǂû-e du ǁnâi ǁnā ǁaeb ai ge ūhâ i ? ǁÎ-i xa du nēsi ra tao-e , ǁî-i di ǀams a ǁō xui-ao .
+45007007	Tare-e		Tare-e da kha ǁnâi nî mî ? ǂHanuba kha ǁoreba ? Tātsē ! Xawe ta ga ǁoreba mûǂan tama i hâ , ǂhanuba xu i ga ī tama io . Turab xa ta ga xū-i xare-e ǂan tama i hâ , ǂhanub ga : “ Turats ge tide ! ” ti mî tama hâ io .
+45007024	Tari-e		Ti tsūǀkhāxa khoeta ! Tari-e nî xore te nē ǁōb di sorosa xu ?
+45008024	mati		ǃÂubasens ǃnâ da ǀnai ǃgâiǃō hâ xui-ao . Tsî khoe-i ra mû ǃâubasens ge ǃâubasen tamasa ; khoe-i ra mû xū-e , mati i kha nî ǁî-e ǃâubasen ?
+45008031a	tare-e		Tare-e da ǁnâi nēn xa nî mî ? 
+45008031b	tari-e		Elob ga sada ǀkha hâo , tari-e kha sada ǃoagu nî hâ ?
+45008032	Matib		ǁÎb di Ôab ǂûba ge sâu tama ib , tsî ǁîba sada hoada ǃaroma ge māǁnâba : Matib kha ǁnâi ǁîb ǀkha hoana ǀkhae da tide ?
+45008033	Tari-e		Tari-e kha Elob di ǃkhōǂuibasensana nî ǀanaǃgâ ? Elob ge a ǁnāb ǂhanu-ai kai raba .
+45008034	Tari-e		Tari-e kha ra ǀâxarexū ? Xristub Jesub ge a ǁnāb , ǁō geb , ā , nēs ǃgâ-ai : ǁKhāti ge ǂkhaiǂkhaiheb , ǁkhāti Elob di amǀkhāb ǁôab tawa hâb , sada ǁkhāti ra ǀgorebaba .
+45008035	Tari-e		Tari-e nî sada Xristub di ǀnamma xu ǀgora ? ǁGâiǀāba ? ǂŌǂōsiba ? ǃGôaǃgonsa ? ǃÂtsūǀkhāba ? ǀŌǀkhāsiba ? Tsūǃgâba ? Gôaba ?
+45009014	Tare-e		Tare-e da ǁnâi nî mî : Elob tawa i kha ǂhanuoǃnâsi-e hâ i a ? Tātsē !
+45009019a	tarexab		Ots ra tita ǃoa mî : Tarexab ra ganupe ǀau da ? 
+45009019b	tari-e		Tari-e kha ǁîb di ǂâisa ge mâǃoa ?
+45009020a	taritsa		Okha , ti khoetse , taritsa kha sats Elob ǃoagu ra ǃereamtsa ? 
+45009020b	~		Kurusabe-e kha kuru-aob ǃoa mî i ra : 
+45009020c	tarexats		Tarexats nēti ge dī te ?
+45009021	~		Sūǂnubi-aoba kha ǂgoab ǂama ǀgai-e ūhâ tamab hâ , ǁkhā ǂgoab ǀkhab nî ǀgui soa-e ǃgôasib ǃoa tsî nau-e ǃgôaoǃnâsib ǃoa dīsa ?
+45009022	~		Tsî Elob ge , ǁîb di ǁaibab ra ǁgau ǂgao tsî ǁîb di ǀgaibab ra ǂanǂan ǂgao hîa , ǁaib di soadi , kāǁōsiba ǂhomibahe hâde ǃnūǃnâxasib ǀkha gere tani ,
+45009023	~		ǂanǂanni nîga ǁîb ǂkhaisib di ǁuiba , ǀkhomxaǂgaosib di soadi tawa , ǂkhaisibab ge aiǂhomibade ,
+45009024	~		ǁîb ǃoa da ge ǁkhāti sada ǂgaihe hâ , Jodeǁîda ǀguida tama , tsî ǁkhāti ǀūbeǁîda .
+45009030	Tare-e		Tare-e da kha ǁnâi nî mî ? Nēs : ǀŪben , ǂhanu-aisiba ǃgôaǃgon taman , ǁîn ge ǂhanu-aisiba ge ǃkhōǃoa , ǂgomsa xu ra ǀkhī ǂhanu-aisiba .
+45009032	tare xū-i ǃaromasa		Tare xū-i ǃaromasa ? ǂGomsa xun ǁîba ôa tama , tsî ǂhanub di sîsenga xun ra ôa bi amaga . ǃNôa-aiǀuis tawan ge ǃnôa xui-ao ;
+45010006	Tari-e		Xawe ǂgomsa xu hâ ǂhanu-aisib ge nēti ra mî : Tā sa ǂgaob ǃnâ mî : Tari-e nî ǀhommi ǃoa ǃapa ? ǁNās ge Xristuba ūǁgôaxasa .
+45010007	Tari-e		Tsî : Tari-e nî ǃgammi ǃoa ǁgôa ? ǁNās ge Xristuba ǁō hâna xu ūǃapasa .
+45010008	matib		Xawe matib ra mî ? Mîs ge sats ǀgūse hâ , sa ams ǃnâ tsî sa ǂgaob ǃnâ . ǁNās ge ǂgoms di mîs sige ra aoǁnâsa .
+45010014a	matin		Matin kha ǁnâi nî ǂgaiǀî ǁîb ǃnân ǂgom tamaba ? 
+45010014b	matin		Tsî matin kha nî ǂgom , ǁîb xan ǁnâu tamab ǃnâ ? 
+45010014c	matin		Tsî matin kha nî ǁnâu , aoǁnân rab ose ?
+45010015	mati		Tsî mati gu kha nî aoǁnâ , sîhe tama gu ga io ? Xoamâihe hâ khami : Matikōse di a ǀnamǀnamsa ǂkhîba ra aoǁnâgu tsî ǃgâiba ra ǂhôagu di ǂaide ? ti .
+45010016	tari-e		Xawen ge hoana ǃgâiǂhôasa ǁnâuǀnam tama hâ . Jesajab ra mî xui-ao : ǃKhūtse , tari-e sige aoǁnâsa ǂgom hâ ?
+45011004	matis		Xawe matis ra elosi ǃereamsa mîǀî bi ? “ Tita ge go ǃgau kaibasen hûǀoadisi aogu , ǁîgu ǁgoade Baali aiǃâ ǃhon tamaga . ”
+45011007	Mati		Mati ǁnâi ? Israelǁaes ra ôa-i , ǁnā-en ge hō tama hâ ; xawe ǃkhōǂuibasenhe hân ge ǁî-e ge hō , xawe naun ge karokarosen hâ ;
+45011015	tare-es		Tsî ǁîn di aoxūhes ga ǃhūbaib di ǂkhîbagu kaio , tare-es nî ǃkhōǃoas âna ī ? ǁŌ hâna xu ra ǀkhī ûib khamis kom nî īo .
+45011018	~		Tā ǁnâi ǂgonagu ǃoa-ai koasen . Tsî ǁîgu ǃoa-aits ga koaseno : ǂAn , sats ǃnomaba tani tama , tsî ǃnomab ra satsa tani ǃkhaisa .
+45011033a	matikōse		Okha , mati ī ǃgammi ǁuib dib , Elob gā-aisib tsî ǂans tsîra diba ! Matikōse di a ôaǃnâhe ǁoasa ǁîb di ǀgoraǃgâde , 
+45011033b	matikōse		tsî matikōse gu a hōǂuihe ǁoasa ǁîb di daoga ?
+45011034a	tari-e		Tari-e kha Elob di ǂâisa ge mûǂan ? 
+45011034b	tari-e		Tsî tari-e kha ǁîb di ǀapemā-ao ge i ?
+45011035	tari-e		Tsî tari-e kha ǁîba xū-e ge aimā , ǁkhawab nî mādawa-ambahega ?
+45014004	Taritsa		Taritsa sats , ǃhao ǃgā-e ra ǀgoraǃgâtsa ? ǁÎb ge ǁîb di ǃKhūb ǂûba ra mâba tsî ǁnāba ; xaweb ge nîra mâiǀgaiǀgaihe , Elob a ǁîba mâiǀgaiǀgai ǁkhā xui-ao .
+45014010a	tarexats		Tsî satsa tarexats ra sa ǃgâsa-e ǀgoraǃgâ ? 
+45014010b	tarexats		Tsî nautsa , tarexats ra sa ǃgâsa-e ǃharaxū ? Hoada kom Xristub di ǂhanuǂhanuǃnaos aiǃâ nîra mâiheo .
+46001020a	mapa		Mapa i gā-ai-e hâ ? 
+46001020b	mapa		Mapa i xoaǂansabe-e hâ ? 
+46001020c	mapa		Mapa i hâ ǂnoagu-ao-i nē hâ ǁaeb di-e ? Eloba nē ǃhūbaib di gā-aisiba gâresib ase dī tamab hâ ?
+46002011	Mâ		Mâ khoe-e kha khoe-i ǃnāb dina a ǂan , khoe-i di gagas , ǁî-i ǃnâ hâs ǀguis ga ǂan tama io ? ǁNās ǁkhās xase i ge khoe-i xare-e Elob ǃnâ hâna ǂan tama hâ , Elob Gagab ǀguib ge a ǂan .
+46002016a	tari-e		Tari-e kha ǃKhūb di ǂâisa ge ǂan , 
+46002016b	~		o i ga ǁîba ǁgauǃnâ ? Xawe da ge sada Xristub di ǂâisa ūhâ .
+46003005a	tariba		Tariba kha Pauluba ? 
+46003005b	tariba		Tsî tariba kha Apoloba ? ǃOabasabekha ge ǁîkha , ǁîkha xu du ge ǂgomsa kai kha ; tsî kha ge ǁîsa ge dī , ǃKhūb ge mâb hoaba ǀkhae khami .
+46004007a	tari-e		Tari-e satsa aiǂhanuba ra mā ? 
+46004007b	tare-ets		Tsî tare-ets ūhâ , ǃkhōǃoa tamats hâ-e ? 
+46004007c	matits		Tsîts ga ǁî-e ǃkhōǃoa hâo , matits kha ǁnâi ra koasen , ǃkhōǃoa tamats hâs ǁkhās khami ?
+46004021	Mati		Mati du kha ra ǂgao ? Haib ǀkha ta sadu tawa nî sī ? ǀNammi tsî tsamtsiǃnâ gagas ǀkha ta nî sī ?
+46005002	~		Tsî du kha ganupe ra khūkhūsen ǁîs ǂama du nî ǃhausens ǃās ǃnâ , îb ǁnā sîsenna ge dība sadu ǁaeguba xu ūbēhe ti ?
+46005012	Tare-e		Tare-e ta ǃauga hân ǀkha ǁae hâ , o ta ǁîna nî ǀgoraǃgâ ? Sado kha sadu ǀhaohâb dina ǀgoraǃgâ tama du hâ ?
+46006001	tare xū-i ǃaroma		Mati i kha khoe-i âdu , nau-i ǃoagu ǂharuguǃkhai-e ūhâ-e a hîtsâ ǁkhā , ǂhanuoǃnân xa ǂhanu-aikaisensa , tsî tare xū-i ǃaroma ǃanun xa tama ?
+46006003	Matikōse		ǂAn tama du kha hâ , ǀhomǃgāga da nîra ǀgoraǃgâ ǃkhaisa ? Matikōse da nēs ǃgâ-ai nē ǃhūbaib dina a ǀgoraǃgâ ǁkhā ?
+46006004	~		Nē ǃhūbaib din ǂama du ga ǂnoaguo , o du ge ǀhaohâb ǃnâ ǃharaxūhesase īna ū , tsî ǁîn ǂama nî mâi .
+46006007a	tarexa		Tsî i ge hoaragase tsū ǂū-e sadu ǃnâ hâ , ǂhanub ǂnoagu-aide du ūhâbagu hâ ǃkhaisa . Tarexa du ǁnās ǃgâ-ai ǂkhababa taniǀnam tama hâ ? 
+46006007b	tarexa		Tarexa du ǁnās ǃgâ-ai ǂkhôa-e taniǀnam tama hâ ?
+46006009	~		ǁNâi ǂan tama du kha hâ , ǂhanuoǃnân gaosib Elob diba ǀumi tide ǃkhaisa ? Tā ǁhapu re : ǀAi-aon karao , ǁgôatsuiǁgoana ra ǃoaban karao , ǃgameba ra khôan karao , ǁgaiǁgaisana ra dīn karao , aoregu ǀkha ra ǁgoegu karao ,
+46006016	~		ǂAn tama du kha hâ , ǀai-aosa ra ǂae-aib a ǁîs ǀkha ǀgui soro ǃkhaisa ? ǁÎ ǀgamra nî ǀgui ǁgan , ti ra mîhe xui-ao .
+46006019	~		Tsî ǂan tama du kha hâ , soros âdu a sadu ǃnâ ǁan hâ ǃAnu Gagab di tempel ǃkhaisa , ǁîba du Eloba xu ūhâba , tsî sadu ǂûdu di tamadu hâ ǃkhaisa ?
+46007016a	tarasa		ǂAns a xare , sas tarasa , aobas nî ǃgâiǃō kai ǃkhaisa ? 
+46007016b	tarasats		Tsî ǂants a xare , sats aotsa , tarasats nî ǃgâiǃō kai ǃkhaisa ?
+46009007a	tari-e		Tari-e torob ǃnâ ra ǃoaba ǁî-i amǃnâs ǂûs ai ? 
+46009007b	tari-e		Tari-e ǂauxûiǂûǃhana-e ra ǂgā , tsî ǁî-i ǂû-i xa ǂû tama hâ ? 
+46009007c	tari-e		Tsî tari-e gūna ǃûi tsî gūdi di dai-i xa ā tama ?
+46009018	Tarebe		Tarebe amǃnâ-e ta ǁnâi ūhâ ? Nē-i : ǃGâiǂhôasa ra aoǁnâǃâ ta nî Xristub di ǃgâiǂhôasa mādawa-ams ose mâise , ti ǀgaib , ǃgâiǂhôas ǃnâ ta ūhâba ta sîsenūsā tidega .
+46010019a	tare-e		Tare-e ta ǁnâi nî mî ? 
+46010019b	~		ǁGôatsuiǁgoa-e , xū-e ? 
+46010019c	~		ǁGôatsuiǁgoaǁguiba-e , xū-e ?
+46010029	Tare xū-i ǃaromab		Tsî ta ǁîsa ra ǂâibasen , sas xa tama i tsî nau-i dis xa . Tare xū-i ǃaromab kha ti ǃnorasiba nau-i di ǂâis xa ra ǀgoraǃgâhe ?
+46010030	tarexa xū-i		Tita ga gangans ǀkha ǂûo , tarexa ta kha ǁî-i ǂama ta ra gangan xū-i ǃaroma ra ǃkhāǃkhāhe ?
+46011022	Tare-e		Om-e kha ūhâ tama du hâ , ǁî-i tawa du nî ǂû tsî ā-e ? ǁNâi ǀhaohâb Elob diba ǃharaxū tama du hâ , tsî du ūhâ tama hâna ra tao kai ? Tare-e ta nî mîba du ? Koa du ta nî ? Nēs ǃnâ ta koa du tide .
+46012017a	mapas		Tsî soros hoas ga mûo , mapas kha ga ǁnâusa hâ ? 
+46012017b	mapas		Tsî hoaragases ga ǁnâuo , mapas kha ǃkhapasa nî hâ ?
+46012019	mapas		Tsî hoadi ga ǀgui uniǁaeo , mapas kha ga sorosa hâ ?
+46014006	tare-e		Tsî nēsi , ǃgâsado , sadu tawa ta ga ǃhao gowagu ǃnâ ra ǃhoase sīo , tare-e ta ga harebeba du , sadu ǃoa ta ga ǃhoa tama io ǂhaiǂhais ǃnâs kas , ǂans ǃnâs kas , kēbosis ǃnâs kas , ǁkhāǁkhās ǃnâs kas hoasa . s
+46014007	mati-i		Ûi-o xūn , ǀō-e ra mān ǀkha i kom ǁnās ǁkhās xase īo , ǂnunib karao , siters karao , ǃkharagasen ga ǀō tama io , mati-i kha nî ǁnâuǃāhe , mâ xū-i ra ǂnunihe tsî ǀkhōhe ǃkhaisa ?
+46014008	tari-e		Tsî ǀgapadas ga ǃgāsa ǀō-e mā tama io , tari-e kha torob ǃoa nî ǂhomisen ?
+46014009	mati		ǁNās ǁkhās xase sadu on , nammi ǀkha du ga ǃgāsa khom-e mā tama io , mati i kha ǃhoahe ra-e nî ǁnâuǃāhe ? ǂOab ǃnâ ra ǃhoadu axase du kom nî īo .
+46014015	Matisa		Matisa kha ǁnâi ? Gagas ǀkha ta nî ǀgore , tsî ta ge ǁkhāti ǁnâuǃāb ǀkha nî ǀgore ; gagas ǀkha ta nî ǁnae , tsî ta nî ǁkhāti ǁnâuǃāb ǀkha ǁnae .
+46014016	mati		ǁNātits ga dī tama io , mati i kha nî ǁkhāǁkhāhe tama khoe-i ǃās ǃnâ hâ-e , gagas ǀkhats ga gangan ǃnubai , sa gangans ai Amensa mî , tare-ets ra mîsa-i a ǀū amaga ?
+46014026	Matisa		Matisa kha ǁnâi , ǃgâsado ? ǀHû du karao , mâ-i hoa-i âdo , psalm-e i ga ūhâo , ǁkhāǁkhā-e i ga ūhâo , namga i ga ūhâo , ǂhaiǂhaisi-e i ga ūhâo , ǁguiǃā-e i ga ūhâo , an hoana ǂnubikhâis ǃoa ī .
+46014036	~		Elob mîsa sado xus ge ǂoa ? Sadu ǀgui du ǃoas kha ge sī ?
+46015012	matin		Tsî Xristub ga aoǁnâheo , ǁō hâna xub ge khâi ǃkhaisa , matin ǁnâi ǀnîn âdo a mî ǁkhā , ǁō hân khâis hâ tamasa ?
+46015029a	~		
+46015029b	tare-en		ǁNā tamas ga io , tare-en ǁnâi ǁnāna ra dī , ǁō hân ǂama ra ǁāǁnâkaisenna , ǁō hân ga khâi tama io ? 
+46015029c	tarexan		Tarexan kha ǁō hân ǂama ra ǁāǁnâkaisen ?
+46015030a	~		
+46015030b	tarexa		Tsî tarexa ge ǁkhāti sige mâ iri hoaba tsūǃgâb ǃnâ hâ ?
+46015032	mâ		Khoe-i dommi ai ta ga Efesus tawa ǀgurun ǀkha ǃkham hâo , mâ xū-e i kha nî harebeba te ? ǁŌ hân ga khâi tama io : “ A da ǂû , î da ā ; ǁari da nî ǁō xuige ! ”
+46015035a	matin		Xawe : Matin kha ǁō hâna nî khâi ? 
+46015035b	mâ		ti i ga khoe-e mî ; tsî mâ soro-i ǀkhan kha nî hā ?
+46015055a	mapas		ǁŌb ge ge harahe dansa ǃoa . “ ǁŌtse , mapas sa dansa hâ ? 
+46015055b	mapab		ǁŌtse , mapab sa ǃkhāǁkhūba hâ ? ”
+47002002	tari-e		Tita ga sado ǃoaǃoao , tari-e , tita ra ǃgâiaǂgao kai-e , tita xu ge ǃoaǃoahe hâ-i tama i ga io ?
+47002016	tari-e		nēna ge ge ǁōb di ǁamase ība ǁōb ǃoa , tsî nauna ûib di ǁamase ûib ǃoa . Tsî tari-e ǁîna ǃoa a ǁkhā ?
+47003008	matikō		matikō ǃnā hâses kha Gagab di ǃoabasa ǂkhaisib ǃnâ nî hâ ?
+47003009	~		Tsî ǀâxarexūsib di ǃoabas ga ǂkhaisa io , os ge ǂhanu-aisib di ǃoabasa ǃnāǂamsase ǂkhaisib ǃnâ hâ .
+47006014a	mâ		Î du ǂgomoǃnân ǀkha tā ǁkhā ǃnao-e ǂgaeǀhao . Mâ amǃnâ-eb kha ǂhanu-aisiba ǂhanuoǃnâsib ǀkha ūhâ ? 
+47006014b	mâ		Tsî mâ ǀhûǁare-eb kha ǃnâba ǃkhaenab ǀkha ūhâ ?
+47006015a	mâ		Tsî mâ ǃkhō-amgu-eb kha Xristuba Beliali ǀkha ūhâ ; 
+47006015b	mâ		tsî mâ amǃnâ-e i kha ǂgomsa-e ǂgomoǃnâ-i ǀkha ūhâ ?
+47006016	mâ		Tsî mâ ǁnâugu-eb kha Elob tempela ǁgôatsuiǁgoagu ǀkha ūhâ ? Sadu kom ûitsama Elob di tempeldo , Elob ge mî khami : ǁÎn ǃnâ ǁan tsî ta nî ǁîn ǀkha ǃgû , tsî ta nî tita ǁîn di Elo , tsîn nî ǁîna ti ǁae .
+47011011	Tare xū-i ǃaromasa		Tare xū-i ǃaromasa ? Sado ta ǀnam tama amagasa ? Elob ge a ǂan .
+47011029a	tari-e		Tari-e a ǂkhabusa , tsî ta tita ǂkhabusa tama hâ ? 
+47011029b	tari-e		Tari-e ra ǁgonǁgonǂgaohe , tsî ta tita khau tama hâ ?
+47012013	Mâ		Mâ xū-i ǃnâ du kha ge tôatôahe nau ǀhaohâgu xa , nēs : Tita ǂûta ge sado ǃgomsi-e mā tama is ǀguis ? ǀÛba te re nē ǂkhabasiba .
+47012017	~		Xare ta kha sadu ǃoa ta ge sîgu di ǀguib xaweb ǃnâ-ū sado xu ti harebesa ge ôa ?
+48002014	tarexats		Tsî mû ta geo , ǂhanusen ǃgâiǂhôas di amab ǃoa ǃgû tama ǃkhaisa , o ta ge hoan aiǃâ Petrub ǃoa ge mî : Sats ga , Jodeǁîts a hîa , ǀūbesi dommi ai ûio , tsîts ga Jodeǁî dommi ai ûi tama io , tarexats ǁnâi ǀūbena ra ǁgari Jodeǁîn khami ûisa ?
+48003001	tari-e		Okha ǁnâuǃāoǃnâ Galateǁîdo , tari-e kha sado ǃgaiǃgam hâ , amaba du ǁnâuǀnam tidese ; sadu Jesub Xristuba sadu ǃnâb ge ǃgâuhe hâs ǁkhās xase ǁgaeǁgaemûǃnâhe hâdo ?
+48003019	Mâs		Mâs ǃoab kha ǂhanuba hâ ? ǃÛǂamdi ǃaromab ge māǀarohe hâ , ǁnā surib , ǁîsa mîmâibahe hâb nî hās kōse , tsîb ge ǀhomǃgāgu xa mâba-aob di ǃomǁaeba xu ge ǂnûiǂgāhe .
+48004009a	mati		xawe nēsi , Eloba du a ǂan ǃnubai , ā nēs ǃgâ-ai kais : Elob xa du mûǂanhe hâ ǃnubai , mati du kha ǁkhawa ra ǃhoba ǁnā ǂkhabusa tsî ǁkhoatsama tsoatsoa-ain , 
+48004009b	~		ǀasa-ame du ǁkhawa ra sîsenba ǂgaon ǃoa ?
+48004010	~		Tsēde du ra tsēdī , tsî ǁkhâgu , tsî ǁaegu , tsî kurigu tsîna .
+48004015	Tarebe		Tarebe ǃgâiǃōsi-e du ǁnāǃnubai ge ūhâ i ? ǃKhō-amba du ta ra , īǁkhā i ga io , o du ga sadu mûde ǁhoroǂui tsî du ga ǁîde tita mā hâ .
+48004021	~		Mîba te , sadu ǂhanub ǃnaga hâ ǂgao hâdo , ǂhanuba du kha ǁnâu tama hâ ?
+48004030	matis		Xawe xoasa matis ra mî ? “ ǂHāǂui ǃgāsa ǁîs di ôab ǀkha ; ǃgās di ôab ge ǃnorasas di ôab ǀkha tātsē ǀumi tide xuige , ” ti .
+48005007a	tari-e		ǃGâise du gere ǃgû ; tari-e sado ge ǂhani , 
+48005007b	~		o du amaba ǁnâuǀnam tama hâ ?
+48005011	tarexa		Tsî tita , ǃgâsado , ganupe ta ga ǃgaosa aoǁnâo , tarexa ta kha ganupe ra ǃgôaǃgonhe ? Os kom ǃgâuhaib di ǁgonǁgonǂgaosa ǁauǁauhe hâo .
+49004009	taresa		Tsî nēs : Tsîb ge ǃapa , tisa taresa , aibeb ga ǁkhāti ǁgôa tama io hoan xa ǃgam ǃâdi ǃhūb didi ǃoa ?
+50001018	Mati		Mati ǁnâi ? Mâ dommi hoab ai a-i ī , ǀhôagaosib ǀkha i ga ī xawe , amab ǀkha i ga ī xawe ; Xristub ǀguib ga aoǁnâheo , o ta nēs ǃnâ ra ǃgâiaǂgao ; ā , ǃgâiaǂgao ta nîra ;
+50001021	~		Ti ûib a Xristu , tsî ǁōb a ti harebe xui-ao ;
+51002020	tarexa		ǁNā-amaga , Xristub ǀkha du ga ǃhūbaib di tsoatsoade ǁōǁnâ hâo , tarexa du kha ǂnûiǂgādi ǀkha ra ǃgomǃgomhe , ǃhūbaib ǃnâ du ra gorose ûis ǁkhās xase ?
+52002019	Mâ-e		Mâ-e kha sige ǃâubasen-e , tsî ǃgâiaǂgao-e , tsî sige koasens di kron-e ? Sa tamado kha ǁîdo ǃKhūb Jesub Xristub aiǃâ ǁîb di hās ǃnâ ?
+52003009	Mâ		Mâ gangan-e ge kha Eloba a mādawa-am ǁkhā sadu ǃaroma , ǁnā ǃgâiaǂgaob hoab , ǁîb ǀkha ge Elob aiǃâ sadu ǃaroma ra ǃgâiaǂgaoba ?
+54003005	mati		( khoe-i ga ǁî-i ommi ǂûba ǂgaeǂguisa ǀūo , mati i kha nî Elob ǀhaohâba ǂhansenba ? )
+54006007a	~		Xū-i xare-e da ǃhūbaib ai ūhâ tama amaga i a ǂhaisa , 
+54006007b	~		xū-e da ǁkhāti ūǂoa ǁoasa ;
+58001005	Mâ		Mâ ǀhomǃgāb ǃoab kha Eloba ǀguitsē ge mî : “ Sats ge a ti Ôa , nētsēts ge go ti ôa kai . ” Tsî ǁkhawa : “ Tita ge nî ǁîb di ǁGû , tsîb ge nî ǁîba ti Ôa , ” ti ?
+58001013	mâb		Tsî mâb ǀhomǃgāgu dib ǃoab kha ǀguitsē ge mî : Ti amǀkhāb ǁôab ai ǂnû , sa khākhoena ta nî sa ǂaira di mâi-aidase dīs kōse ?
+58001014	~		ǁÎgu hoaga kha ǃoaba ra gaga tama hâ , ǃgâiǃōsiba nî ǀumin di ǃoabahes ǃaroma sîǂuihe hâga ?
+58002003	mati		mati da kha sada nî ǁhaiǁhâ , nētikō kai ǃgâiǃōsib ai da ga ǃgaoǃgâ tama io ? ǁÎb tsoatsoas ǃnâ ǃKhūb xa ge aoǁnâheb , tsî ǁnâu bi gega xu sada ǀgaiǀgaibahe hâba ;
+58002006a	tareba		Tsî ǀguib ge ǃkhai-i tawa ǃkhō-am tsî ra mî : Tareba khoeba , ots ra ǁîb xa ǂâi , 
+58002006b	~		tsî khoen ôaba , ots ra ǁîba kō ?
+58003016	Mâna		Mâna kha ge i , ǁnâun ra hîa ge au-ausenna ? Hoan , Moseb xa Egipteba xu gere ǂgaeǂguiǂuihe tamana ?
+58003017	mân		Tsî mân ǂamab kha hakadisi kurigu kōse ge ǁaixa hâ i ? ǁNān , ǁore gen tsî sorodi âna ǃgaroǃhūb ǃnâ ge ǁnān ǂama tamasa ?
+58003018	mânab		Tsî mânab kha ge nūba , ǁîb di sâb ǃnân ǂgâ tidesa ? ǁNâuǀnamoǃnân ǀgui tamana ?
+58006004	~		Īǁoasa i kom ao , ǁnān ǀgui ǃnāsa ge ǃnâǃnâhen , tsî ǀhommi hōsa tsâtsâ hân , tsî ǃAnu Gagab ǃnâ ge amǃnâxan ,
+58007011	tarexa		ǀOasasib ga Leviǁî pristersisa xu īo ( ǁîs ǃnâs ge ǁaesa ǂhanuba hō xui-ao ) , tarexa i kha ǂhâbasa , mîhe nîsa , Melxisedeki di dommi ǃoab nî ǀkhara pristeri , Aronni dommi ǃoa hâ tamaba khâi ǃkhaisa ?
+58009014	matikō		matikō ǃnā hâseb Xristub , ǁî-aitsama ūose ǀamo Gagaba xu Eloba ge ǁguibasenni di ǀaoba sadu ǂâide ǁō hâ sîsenga xu nîra ǃanuǃanu , ûitsama Eloba du nî ǃoaba ǁkhāse ?
+58010001	~		ǂHanub ga ǃgoaxa xūn di somma ūhâo tsî xūn di ǀguiti-ība tama , ob kom tātsē kurikorobe ǁkhā ǁguibadi , hugaǀgui ra ǁguibahedi ǀkha ǃgûsī rana a dītoa ǁoao .
+58010029a	matikō		o matikō ǃnā hâ ǃgom ǁkharaba anu hâse i ǁnā-e nîra ǃgôahe , 
+58010029b	~		ti du ǂâi hâ , 
+58010029c	~		Elob Ôaba ǂaira ǃnâ dāǂgā tsî ǃgaeǀhaos di ǀaob , 
+58010029d	~		ǁîb ǀkha i ǃanuǃanuhe hâba ǃanu tamase ǃgôa , tsî ǀkhommi di Gagaba ra ǃkhāǃkhā-e ?
+58011032	tare-e		Tsî tare-e ta kha ǃaruǀî nî mî ? ǁAeb nî tôasiba te , ǃhoa ta kao Gideonni xa , tsî Baraki xa , tsî Simsonni xa , tsî Jeftab xa , tsî Davib xa , tsî Samueli xa , tsî kēbo-aogu xa ,
+58012007	mâ		ǁKharaba du ga tanio , ob ge Eloba ǀgôadu ase ra sîsenū du ; mâ ǀgôaba kha hâ , ǁgûb ǁkhara tamaba ?
+58012009	matikō		Tsî da ga sorosi îga ǁkhara-aose ūhâ tsî ǁîga ǃao-o , matikō ǃnāǂamsase da nî gagagu di Îb , ǁîba da ra ûibaba ǃnaga hâba ?
+58012025	matikō		Mûbasen re , î du tā ǃhoa-ū du raba ǂkhā . Naun ga ǁkharaba ǁhâxū tama io , ǃhūbaib ai gere ǃhoaba ge ǂkhāna , matikō ǃnāǂamsase da sada ǁhâxū tide , ǀhomma xu ra ǃhoaǁgôaba da ga ǂkhāo ;
+58013006	tare-e		O da kom ǁkhoaǂgaose a mî ǁkhāo : “ ǃKhūb ge a ti Hui-ao , o ta ǃao tide ; tare-e i kha khoe-e nî dī te ? ”
+59002006	~		Xawe du ge sado ǀgâsaba ge sora . ǃKhū hâ tamana kha ǁnān , sado ra dān , tsî sado ǂhanuǂhanu-aogu aiǃâ ra ǂgaina ?
+59002014	Tare-e		Tare-e nî harebe , ti ǃgâsado , khoe-i ga : ǂGomsa ta ūhâ ti mî , tsî i ga sîsenga ūhâ tama io ? ǂGomsa kha ǁî-e ǃgâiǃō kai ǁkhā ?
+59002016a	~		tsî khoe-i sadu di-i ga ǁîna ǃoa : ǂKhîb ǃnâ ǃgû , sâ î du ǁâ ti mî tsî i ga ǁîna soros di ǂhana mā tama io , 
+59002016b	tare-e		tare-e kha nî harebe ?
+59002018	~		Xawe khoe-i ga mî : Sats ge ǂgomsa ūhâ , o ta ge tita sîsenga ūhâ ; sa ǂgomsa sîsengu âtsa xu ǁgau te , o ta ge tita tsîna ti sîsenga xu ti ǂgomsa nî ǁgau tsi .
+59002021	~		Abob Abrahammi , sîsenga xu ǂhanu-ai kaihe tamab hâ , ǁîb di ôab Isakab ge altars ai ǁguiba ǃnubai ?
+59003013	Tari-e		Tari-e kha sadu ǃnâ gā-ai tsî ǁnâuǃāxa ? A-i ǁî-i ǃgâi tanisensa xu ǁî-i sîsenga ǁgau tsamtsiǃnâ gā-aisib ǃnâ .
+59003017	~		Xawe ǀgapiseba xu hâ gā-aisib ge ǂgurose a ǃanu , ǁnās khaoǃgâ ǂkhîxaǃnâ , tsauraǃnâ , mîbakaisenxa , ǀkhomxaǂgaosib tsî ǃgâi ǂûn xa ǀoa hâ ; tsîb a ǂhauǃnâ tsî hînaoǃnâ .
+59004001a	mapa		Mapa xu gu kha torogu 
+59004001b	~		tsî ǃkhamgu tsîga sadu ǃnâ ra hā ? Nēsa xu tamasa , sadu turagu , uniǁaedi âdu ǃnâ ra ǃkhamga xu ?
+59004012	Taritsa		ǀGui ǂhanuǂnûiǂgā-aob tsî ǂhanuǂhanu-aob ǀguib hâ , sâu tsî hîkākā ǁkhāba . Taritsa kha sats nau-e ra ǀgoraǃgâtsa ?
+59004014	Matib		sadu , ǁari nî ī-e ǂan tamado . Matib kha ī sadu ûiba ? ǀAn-i khamib kom īo , ǂkhari ǁaero-e a mûhesa-e , tsî ǁnās khaoǃgâ ra kā-e .
+60002020	Mâ		Mâ koasen-e kha nî i , ǁore du ka , tsî du ga ǁîs ǃaroma ǁkharaba tanio ? Xawe ǃgâidī du ka , tsî du ga tani tsî ǁîs ǃaroma tsâo , ǁnās ge Elob tawa a ǀkhom .
+60003013	tari-e		Tsî tari-e kha sado ǂkhôa-e a dī ǁkhā , ǃgâib di ǁgaeǁgae-ao du kao ?
+60004017	mâsa		Nēb kom ǁaeb , ǀgoraǃgâs nî Elob ommi tawa tsoatsoabao ; tsî ǂguros ga sida tawa tsoatsoao , mâsa kha ǀams , Elob di ǃgâiǂhôasa ǁnâuǀnam taman disa nî ī ?
+60004018	mapa		Tsî ǂhanu-ai-i ga ǂōse ǃgâiǃō kaiheo , mapa i kha eloxoresa-i tsî ǁore-ao-e nî ǂhai ?
+61003004	Mapas		tsî nîra mîna : Mapas kha mîmâis ǁîb hās disa hâ ? Abogu ge kā tsēsa xun kom xūn hoana kurus di tsoatsoasa xun ge īs ǁkhās xase īo .
+61003011	mati		Tsî nē xūn hoan ga kāo , mati īse du kha ǃanu tanisens tsî eloǃaoǃgâxasib ǃnâ ga ī ?
+62002022	Mâba		Mâba kha ǂhumi-aoba , ǁnāb ga ī tama io , Jesub a Xristu ǃkhaisa ra ǀūxūba ? Nēb ge Xristub khākhoeb , ǁgûb tsî ǀgôab tsîkha ra ǀūxūba .
+62003012	tare xū-i ǃaromab		Kainni khami tama , ǂkhababa xu ge hâ ib , tsî ǃgâsab âba ge ǂnauǃanni ; tsî tare xū-i ǃaromab ge ǂnauǃan bi ? ǁÎb di dīgu ge ǂkhaba i , tsî ǃgâsab âb digu ge ǂhanu-ai i amaga .
+62003017	matib		Tsî khoe-i ga ǃhūbaib di ûixūna ūhâo , tsî i ga ǁî-i ǃgâsaba ǂhâsib ǃnâ mûo , tsî i ga ǁî-i ǂgaoba ǂganamba bio , matib kha Elob ǀnamma ǁî-i ǃnâ nî hâhâ ?
+62004020	mati		Khoe-i ga Eloba ta a ǀnam , ti mî tsî ǁî-i ǃgâsaba ǁkhano , ǁnā-i ge ǂhumi-ao-e . ǁÎ-i ǃgâsab , mû i raba i ga ǀnam tama io , mati i kha ǁnâi Elob , mû tama i hâba nî ǀnam ?
+62005005	Tari-e		Tari-e kha , ǃhūbaiba ra dan-e ? Jesub a Elob Ôa ǃkhaisa ra ǂgom-i ǀgui-i .
+66005002	Tari-e		Tsî ta ge ǀgaisa ǀhomǃgāba ge mû , kai dommi ǀkha ra ǂgaiǂuiba : Tari-e a anu , ǂkhanisa ǁkhowa-am tsî ǂganamsaodi âsa khôasa ?
+66006010a	Mâ ǁaeb		Tsîn ge kai dommi ǀkha ǂgai , tsî ge mî : Mâ ǁaeb kōsets kha , ǃanu tsî ama-ai ǃKhūtse , sida ǀaoba ǀgoraǃgâ tsî ǀkhao tide ǁnān , ǃhūbaib ai ǁan hân tawa ?
+66006010b	~		
+66006017	tari-e		kaitsēs ǁîb dis go hā xuige ; tsî tari-e nî mâ ǁkhā ?
+66007013a	tarina		Ob ge ǂnomdomgu di ǀguiba tita ǀkha ǃhoa tsî ge mî : Nēn ǃuri sarana ana hâna tarina ? 
+66007013b	mapa		Tsî mapa xun go hā ?
+66013004a	tari-e		Tsîn ge draki , ǀguruba ǀgaiba ge māba ge ǀgoreǀî ; tsîn ge ǀguruba ǀgoreǀî , tsî ge mî : Tari-e nē ǀgurub khami ī ? 
+66013004b	tari-e		Tsî tari-e ǁîb ǀkha a ǃkham ǁkhā ?
+66015004a	tari-e		Tari-e kha satsa ǃao tide , ǃKhūtse , 
+66015004b	~		tsî sa ǀonsa ǂkhaiǂkhai tide ? Sats ǀguits a ǃanu xui-ao ; on ge ǀūben hoana hā tsî nî sa aiǃâ ǀgore , ǀgoraǃgâdi âts go ǂhai xui-ao .
+66017007	Tare xū-i ǃaromats		Ob ge ǀhomǃgāba tita ǃoa ge mî : Tare xū-i ǃaromats ra buru ? Tita ge nî mîba tsi ǂganǃgâsib taras dib , tsî ǁîsa ra tani ǀgurub , hû danadi tsî disi ǁnâga ūhâb diba .
+66018018	Mâ		tsî ge ǂgai , ǁîs khauǃkhūhes di ǀannan ge mûo , tsî ge mî : Mâ ǃāsa nē kai ǃās khami ī ?

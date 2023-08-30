@@ -1,0 +1,743 @@
+40002002	Hol		„ Hol van a zsidók királya , aki megszületett ? Mert láttuk csillagát napkeleten , és azért jöttünk , hogy tisztességet tegyünk neki . “
+40002004	hol		Egybegyűjtött minden főpapot és a nép írástudóit , és tudakozódott tőlük , hogy hol kell Krisztusnak megszületnie .
+40003007	Ki		Amikor pedig látta , hogy a farizeusok és a szadduceusok közül sokan mennek hozzá , hogy megkeresztelkedjenek , ezt mondta nekik : „ Mérges kígyóknak fajzatai ! Ki intett titeket , hogy Istennek eljövendő haragjától meneküljetek ?
+40005013	mivel		„ Ti vagytok a földnek sója . Ha pedig a só megízetlenül , mivel sózzák meg ? Nem jó azután semmire , csak arra , hogy kidobják , és eltapossák az emberek .
+40005046	micsoda		Mert ha azokat szeretitek , akik titeket szeretnek , micsoda jutalmat vártok ? Avagy a vámszedők is nem ugyanezt cselekszik-e ?
+40005047	mit		És ha csak atyátokfiait köszöntitek , mit tesztek másoknál többet ? A vámszedők is nem ugyanígy cselekszenek-e ?
+40006027	Kicsoda		Kicsoda pedig közületek az , aki aggodalmaskodásával megnövelheti termetét egy arasszal ?
+40006028	miért		Az öltözet miatt is miért aggodalmaskodtok ? Figyeljétek meg a mező liliomait , hogyan növekednek : nem munkálkodnak , és nem fonnak ,
+40006031a	mit		„ Ne aggodalmaskodjatok tehát , és ne mondjátok : Mit együnk ? 
+40006031b	mit		Vagy : Mit igyunk ? 
+40006031c	mivel		Vagy : Mivel ruházkodjunk ?
+40007003	Miért		Miért nézed a szálkát , amely atyádfia szemében van , a gerendát pedig , amely a te szemedben van , nem veszed észre ?
+40007004	hogyan		Vagy hogyan mondhatod a te atyádfiának : Hadd vegyem ki a szálkát a szemedből ! -- holott íme , a te szemedben gerenda van ?
+40007009	ki		Vagy ki az az ember közületek , aki ha az ő fia kenyeret kér tőle , követ ad neki ?
+40007016a	~		Gyümölcseikről ismeritek meg őket . Vajon a tövisről szednek-e szőlőt 
+40007016b	~		vagy a bojtorjánról fügét ?
+40008026	Mit		De ő ezt mondta nekik : „ Mit féltek , ó , kicsinyhitűek ? “ Ekkor fölkelt , megdorgálta a szeleket és a tengert , és nagy csendesség lett .
+40008027	Kicsoda		Az emberek pedig elcsodálkoztak , és mondták : „ Kicsoda ez , hogy mind a szelek , mind a tenger engedelmeskedik neki ? “
+40008029	Mi		Kiáltoztak , és ezt mondták : „ Mi közünk hozzád , Jézus , Istennek Fia ? Azért jöttél ide , hogy idő előtt meggyötörj minket ? “
+40009004	Miért		Jézus látta a gondolataikat , és ezt mondta : „ Miért gondoltok gonoszat a ti szívetekben ?
+40009005	mi		Mert mi könnyebb , ezt mondani : Megbocsáttattak néked a te bűneid ! vagy ezt mondani : Kelj föl és járj ! --
+40009011	Miért		Látva ezt a farizeusok , ezt mondták az ő tanítványainak : „ Miért eszik mesteretek a vámszedőkkel és bűnösökkel együtt ? “
+40009014	Miért		Akkor János tanítványai jöttek hozzá , és ezt mondták : „ Miért van az , hogy mi és a farizeusok sokat böjtölünk , a te tanítványaid pedig nem böjtölnek ? “
+40009015	~		Ezt mondta nekik Jézus : „ Vajon szomorkodhat-e a násznép , amíg velük van a vőlegény ? De eljönnek a napok , mikor elvétetik tőlük a vőlegény , és akkor böjtölni fognak .
+40010025	mennyivel		Elég a tanítványnak , ha olyan , mint a mestere , és a szolga , mint az ő Ura . Ha a házigazdát Belzebubnak hívták , mennyivel inkább az ő házanépét ? “
+40011007	Mit		Amikor pedig ezek elmentek , Jézus beszélni kezdett a sokasághoz Jánosról : „ Mit mentetek ki látni a pusztába ? Nádszálat , amit a szél hajtogat ?
+40011008	mit		Vagy mit mentetek ki látni ? Puha ruhába öltözött embert ? Akik puha ruhákat viselnek , királyok palotáiban vannak .
+40011009	mit		Vagy mit mentetek ki látni ? Prófétát ? Bizony mondom néktek , prófétánál is nagyobbat .
+40011016	Kihez		„ Kihez hasonlítsam ezt a nemzetséget ? Hasonlatos a gyermekekhez , akik a piacon ülnek , és kiáltoznak társaiknak :
+40012011	Kicsoda		Ő pedig ezt mondta nekik : „ Kicsoda közületek az az ember , akinek van egy juha , és ha az szombatnapon a verembe esik , nem ragadja meg , és nem húzza ki ?
+40012026	hogyan		Ha pedig a Sátán Sátánt űz ki , önmagával hasonlott meg , és akkor hogyan maradhat fenn országa ?
+40012027	ki		És ha én Belzebub által űzöm ki az ördögöket , a ti fiaitok ki által űzik ki ? Ezért ők maguk lesznek a ti bíráitok .
+40012029	hogyan		Vagy hogyan mehet be valaki a hatalmasnak házába , és rabolhatja el annak kincseit , hacsak meg nem kötözi előbb a hatalmast , és akkor rabolja ki annak házát ?
+40012034	hogyan		Mérges kígyóknak fajzatai , hogyan szólhattok jókat , holott gonoszak vagytok ? Mert a szívnek teljességéből szól a száj .
+40012048a	ki		Ő pedig így felelt annak , aki szólt : „ Ki az én anyám , 
+40012048b	kik		és kik az én testvéreim ? “
+40013010	Miért		A tanítványok odamentek hozzá , és ezt mondták neki : „ Miért beszélsz hozzájuk példázatokban ? “
+40013027	Honnan		A gazda szolgái ekkor odamentek hozzá , és ezt mondták neki : Uram , nem tiszta magot vetettél földedbe ? Honnan van benne a konkoly ?
+40013054a	honnan		És hazájába érve , tanította őket a zsinagógában , úgy , hogy álmélkodtak , és ezt mondták : „ Honnan van ebben ez a bölcsesség 
+40013054b	~		és az erő ?
+40013056	Honnan		És nővérei is nem mind közöttünk élnek ? Honnan vette mindezeket ? “
+40014031	miért		Jézus pedig azonnal kinyújtotta a kezét , megragadta őt , és ezt mondta neki : „ Kicsinyhitű , miért kételkedtél ? “
+40015002	Miért		„ Miért hágják át tanítványaid az ősök rendeléseit ? Mert nem mossák meg kezeiket , amikor enni akarnak . “
+40015003	miért		Ő pedig így felelt nekik : „ Ti meg miért hágjátok át Isten parancsolatait a ti rendeléseitek által ?
+40015033	Honnan		Tanítványai ezt mondták neki : „ Honnan volna e pusztában annyi kenyerünk , hogy jóllakassunk ilyen nagy sokaságot ? “
+40015034	Hány		Jézus ezt mondta nekik : „ Hány kenyeretek van ? “ Ők pedig így feleltek : „ Hét , és néhány halunk . “
+40016008	Miért		Jézus meghallotta ezt , és mondta nekik : „ Miért tanakodtok magatok között , ó kicsinyhitűek , hogy kenyeret nem hoztatok magatokkal ?
+40016009	hány		Mégsem értitek ? Nem is emlékeztek az ötezernek öt kenyerére , és hogy hány kosarat töltöttetek meg ?
+40016010a	~		Sem a négyezernek hét kenyerére , 
+40016010b	hány		és hogy hány kosarat töltöttetek meg ?
+40016011	Hogyan		Hogyan lehet , hogy nem értitek meg , hogy nem a kenyérről beszéltem nektek , mikor mondtam , hogy őrizkedjetek a farizeusok és szadduceusok kovászától ? “
+40016013	kinek		Mikor pedig Jézus Cezárea Filippi környékére ment , megkérdezte tanítványait : „ Engem , az Emberfiát kinek mondanak az emberek ? “
+40016015a	~		Erre ezt mondta nekik : 
+40016015b	kinek		„ Ti kinek mondotok engem ? “
+40016026a	mit		Mert mit használ az embernek , ha az egész világot megnyeri is , de az ő lelkében kárt vall ? 
+40016026b	milyen		Vagy milyen váltságot adhat az ember a lelkéért ?
+40017010	Miért		És megkérdezték őt tanítványai : „ Miért mondják akkor az írástudók , hogy előbb Illésnek kell eljönnie ? “
+40017017a	meddig		Jézus pedig erre ezt mondta : „ Ó , hitetlen és elfajult nemzedék ! Vajon meddig leszek veletek ? 
+40017017b	meddig		Vajon meddig szenvedlek titeket ? Hozzátok őt ide nekem ! “
+40017019	miért		Ekkor a tanítványok mikor magukban voltak , odamentek Jézushoz , és ezt kérdezték tőle : „ Mi miért nem tudtuk ezt kiűzni ? “
+40017025a	mit		Ő így felelt : „ De igen . “ És amikor bementek a házba , megelőzte őt Jézus , és ezt mondta : „ Mit gondolsz , Simon , 
+40017025b	kiktől		a föld királyai kiktől szednek vámot vagy adót : a fiaiktól-e vagy az idegenektől ? “
+40018001	ki		Abban az órában odamentek a tanítványok Jézushoz , és megkérdezték tőle : „ Vajon ki nagyobb a mennyek országában ? “
+40018012	Mit		Mit gondoltok , ha valamelyik embernek száz juha van , és egy azok közül eltéved , vajon nem hagyja-e őket ott , és a hegyekbe elmenve nem keresi-e meg azt , amely eltévelyedett ?
+40018021	hányszor		Ekkor odament hozzá Péter , és ezt mondta : „ Uram , hányszor lehet atyámfiának ellenem vétkeznie , és neki megbocsátanom ? Még hétszer is ? “
+40019007	Miért		Erre azt mondták neki : „ Miért rendelte akkor Mózes , hogy válólevelet kell adni , és úgy bocsátani el az asszonyt ? “
+40019016	mi		És íme , odajött hozzá egy ember , és ezt kérdezte : „ Jó mester , mi jót cselekedjem , hogy örök életet nyerjek ? “
+40019017	Miért		Ő pedig ezt mondta neki : „ Miért mondasz engem jónak ? Senki sem jó , csak egy , az Isten . Ha pedig be akarsz menni az életre , tartsd meg a parancsolatokat . “
+40019018	Melyeket		Az megkérdezte : „ Melyeket ? “ Jézus pedig ezt mondta : „ Ezeket : ne ölj , ne paráználkodj , ne lopj , hamis tanúbizonyságot ne tégy ,
+40019020	mi		Az ifjú erre ezt mondta : „ Mindezeket megtartottam ifjúságomtól fogva ; mi fogyatkozás van még bennem ? “
+40019025	Kicsoda		A tanítványok pedig amikor ezeket hallották , felettébb álmélkodtak , és ezt mondták : „ Kicsoda üdvözülhet tehát ? “
+40019027	mi		Akkor Péter ezt mondta neki : „ Íme , mi elhagytunk mindent , és követtünk téged : mi lesz hát a jutalmunk ? “
+40020006	Miért		Tizenegy óra tájban is kiment , és talált másokat , akik tétlenül álltak ott , és megkérdezte tőlük : Miért álltok itt egész napon át tétlenül ?
+40020012	~		és ezt mondták : Azok az utolsók egyetlen óráig dolgoztak , és egyenlővé tetted őket velünk , akik a napnak terhét és hőségét szenvedtük .
+40020021	Mit		Ő pedig megkérdezte tőle : „ Mit akarsz ? “ Ő ezt mondta neki : „ Mondd , hogy az én két fiam üljön a te országodban : egyik jobb kezed felől , a másik bal kezed felől . “
+40020032	Mit		Jézus pedig megállt , és megszólította őket , és ezt kérdezte : „ Mit akartok , hogy cselekedjem veletek ? “
+40021010	Kicsoda		És amikor bement Jeruzsálembe , felbolydult az egész város , és kérdezték : „ Kicsoda ez ? “
+40021016	mit		és ezt mondták neki : „ Hallod , mit mondanak ezek ? “ Jézus pedig ezt válaszolta nekik : „ Hallom . Sohasem olvastátok : A gyermekek és csecsemők szája által szereztél dicsőséget ? “
+40021020	Hogyan		Látták ezt a tanítványok , és csodálkozva mondták : „ Hogyan száradt el a fügefa oly hirtelen ? “
+40021023a	Micsoda		Amikor bement a templomba , odamentek hozzá a főpapok és a nép vénei , amint tanított , és ezt mondták : „ Micsoda hatalommal cselekszed ezeket ? 
+40021023b	ki		És ki adta neked ezt a hatalmat ? “
+40021025a	honnan		A János keresztsége honnan volt : mennyből vagy emberektől ? “ Azok pedig így tanakodtak magukban : 
+40021025b	~		„ Ha azt mondjuk : mennyből , azt mondja majd nekünk : 
+40021025c	miért		Akkor miért nem hittetek neki ?
+40021028	mit		„ De mit gondoltok ti ? Volt egy embernek két fia , és odamenve az elsőhöz , ezt mondta : Eredj , fiam , munkálkodj ma a szőlőmben .
+40021031	melyik		E kettő közül melyik teljesítette az atyja akaratát ? “ Ezt felelték neki : „ Az első . “ Jézus ekkor ezt mondta nekik : „ Bizony mondom néktek : A vámszedők és a parázna nők megelőznek titeket az Isten országában .
+40021040	mit		Amikor azért megjön a szőlőnek ura , vajon mit tesz ezekkel a munkásokkal ? “
+40022012	hogyan		és ezt mondta neki : Barátom , hogyan jöttél ide , holott nincsen menyegzői ruhád ? Az pedig hallgatott .
+40022017	mit		Mondd meg nekünk tehát , mit gondolsz : szabad-e a császárnak adót fizetnünk vagy nem ? “
+40022018	Mit		Jézus pedig ismerve álnokságukat , ezt mondta : „ Mit kísértetek engem , képmutatók ?
+40022020a	kié		Ekkor ezt kérdezte tőlük : „ Kié ez a kép 
+40022020b	~		és ez a felírás ? “
+40022028	melyiké		A feltámadáskor azért a hét közül melyiké lesz az asszony ? Mert mindegyiké volt . “
+40022036	melyik		„ Mester , melyik a nagy parancsolat a törvényben ? “
+40022042a	hogyan		„ Hogyan vélekedtek ti a Krisztus felől ? 
+40022042b	kinek		Kinek a fia ? “ Ezt mondták neki : „ A Dávidé . “
+40022043	Hogyan		Aztán megkérdezte tőlük : „ Hogyan hívhatja tehát őt Dávid lélekben Urának , amikor ezt mondja :
+40022045	hogyan		Ha tehát Dávid Urának hívja őt , hogyan lehet akkor a Fia ? “
+40023017	melyik		Bolondok és vakok , melyik a nagyobb : az arany vagy a templom , amely szentté teszi az aranyat ?
+40023019	melyik		Bolondok és vakok : melyik a nagyobb , az ajándék vagy az oltár , amely szentté teszi az ajándékot ?
+40023033	hogyan		Kígyók , mérges kígyóknak fajzatai , hogyan kerülitek ki a gyehenna büntetését ?
+40024003a	mikor		Amikor pedig az Olajfák hegyén ült , tanítványai odamentek hozzá , és ezt kérdezték : „ Mondd meg nekünk , mikor fognak ezek történni ? 
+40024003b	mi		És mi lesz a jele te eljövetelednek és a világ végének ? “
+40024045	Ki		„ Ki tehát a hű és bölcs szolga , akit az ő ura gondviselővé tett a háza népén , hogy a maga idejében adjon nekik eledelt ?
+40025037	mikor		Akkor így felelnek majd neki az igazak : Uram , mikor láttuk , hogy éheztél , és tápláltunk volna , vagy szomjaztál , és innod adtunk volna ?
+40025038	Mikor		Mikor láttuk , hogy jövevény voltál , és befogadtunk volna , vagy mezítelen voltál , és felruháztunk volna ?
+40025039	Mikor		Mikor láttuk , hogy beteg vagy fogoly voltál , és hozzád mentünk volna ?
+40025044	mikor		Akkor ezek is így felelnek majd neki : Uram , mikor láttuk , hogy éheztél vagy szomjaztál , vagy hogy jövevény , vagy mezítelen , vagy beteg , vagy fogoly voltál , és nem szolgáltunk volna neked ?
+40026008	Mire		Látva ezt tanítványai , bosszankodtak , és ezt mondták : „ Mire való ez a tékozlás ?
+40026010	Miért		Amikor ezt észrevette Jézus , ezt mondta nekik : „ Miért bántjátok ezt az asszonyt ? Hiszen jó dolgot cselekedett velem .
+40026015	Mit		és ezt mondta : „ Mit akartok nekem adni , ha én kezetekbe adom őt ? “ Azok pedig harminc ezüstpénzt rendeltek neki .
+40026017	Hol		A kovásztalan kenyerek első napján odamentek Jézushoz a tanítványok , és ezt mondták : „ Hol akarod , hogy elkészítsük neked a húsvéti bárányt ? “
+40026040	~		Ekkor odament a tanítványokhoz , és alva találta őket , és ezt mondta Péternek : „ Így nem bírtok velem virrasztani egy óráig sem ?
+40026050	miért		Jézus pedig ezt mondta neki : „ Barátom , miért jöttél ? “ Akkor odamentek hozzá , kezeiket Jézusra vetették , és elfogták őt .
+40026054	miképpen		De miképpen teljesednének be az Írások , hogy így kell lennie ? “
+40026062a	~		És fölkelt a főpap , és ezt mondta neki : „ Semmit sem felelsz ? 
+40026062b	micsoda		Micsoda tanúbizonyságot tesznek ezek ellened ? “
+40026065	mi		Ekkor a főpap megszaggatta ruháit , és ezt mondta : „ Káromlást szólt . Mi szükségünk van még bizonyítékokra ? Íme , most hallottátok az istenkáromlást .
+40026066	Mit		Mit gondoltok ? “ Azok pedig így feleltek : „ Méltó a halálra . “
+40026068	ki		és ezt mondták : „ Prófétáld meg nekünk , Krisztus , ki az , aki megütött téged ! “
+40027004	Mi		és ezt mondta : „ Vétkeztem , hogy elárultam az ártatlan vért . “ Azok pedig ezt mondták : „ Mi közünk hozzá ? A te dolgod ! “
+40027013	milyen		Akkor ezt mondta neki Pilátus : „ Nem hallod , milyen sok mindent vallanak ellened ? “
+40027017	Melyiket		Mikor ezért egybegyűltek , ezt mondta nekik Pilátus : „ Melyiket akarjátok , hogy elbocsássam nektek : Barabbást vagy Jézust , akit Krisztusnak hívnak ? “
+40027021	melyiket		A helytartó megkérdezte tőlük : „ A kettő közül melyiket akarjátok , hogy elbocsássam nektek ? “ Azok pedig ezt mondták : „ Barabbást . “
+40027022	Mit		Pilátus ezt mondta nekik : „ Mit cselekedjem hát Jézussal , akit Krisztusnak hívnak ? “ Mindnyájan ezt mondták : „ Feszíttessék meg ! “
+40027023a	~		A helytartó ezután ezt mondta : 
+40027023b	mi		„ Mert mi rosszat cselekedett ? “ Azok pedig még inkább kiáltoztak : „ Feszíttessék meg ! “
+40027046	Miért		Kilenc óra körül pedig hangosan kiáltott Jézus : „ Éli , Éli ! Lamá sabaktáni ? “ azaz : „ Én Istenem , én Istenem ! Miért hagytál el engemet ? “
+41001024	Mi		„ Ah ! Mi dolgunk van nekünk veled , Názáreti Jézus ? Azért jöttél-e , hogy elveszíts minket ? Tudom , hogy ki vagy te : az Istennek Szentje . “
+41001027	Mi		Mindnyájan annyira elálmélkodtak , hogy egymás között ezt kérdezgették : „ Mi ez ? Micsoda új tudomány ez , hogy hatalommal parancsol a tisztátalan lelkeknek is , és azok engedelmeskednek neki ? “
+41002007a	hogyan		„ Hogyan lehet , hogy ez ilyen káromlásokat szól ? 
+41002007b	ki		Ki bocsáthatja meg a bűnöket , ha nem egyedül az Isten ? “
+41002008	Miért		És Jézus azonnal észrevette lelkével , hogy azok magukban így okoskodnak , és mondta nékik : „ Miért gondoljátok ezeket a ti szívetekben ?
+41002009	Mi		Mi könnyebb , azt mondanom a gutaütöttnek : Megbocsáttattak néked a te bűneid , vagy ezt mondanom : Kelj fel , vedd fel a nyoszolyádat , és járj ?
+41002016	~		És amikor látták az írástudók és a farizeusok , hogy együtt eszik a vámszedőkkel és bűnösökkel , mondták a tanítványainak , hogy a vámszedőkkel és a bűnösökkel eszik és iszik .
+41002018	Mi		János és a farizeusok tanítványai pedig böjtöltek . Odamentek Jézushoz , és ezt mondták neki : „ Mi az oka annak , hogy Jánosnak és a farizeusoknak tanítványai böjtölnek , a te tanítványaid pedig nem böjtölnek ? “
+41002019	~		Jézus pedig ezt mondta nekik : „ Böjtölhet-e a vőlegény násznépe , amíg velük van a vőlegény ? Ameddig a vőlegény velük van , nem böjtölhetnek .
+41002024	miért		Ekkor a farizeusok ezt mondták neki : „ Íme , miért művelik azt szombatnapon , amit nem szabad ? “
+41003004	~		Azoknak pedig ezt mondta : „ Szabad-e szombatnapon jót vagy rosszat tenni , lelket menteni vagy kioltani ? “ De azok hallgattak .
+41003023	hogyan		Ő pedig magához hívta őket , és példázatokban mondta nekik : „ Sátán hogyan tud Sátánt kiűzni ?
+41003033a	ki		Ő pedig ezt felelte nekik : „ Ki az én anyám , 
+41003033b	kik		vagy kik az én testvéreim ? “
+41004013	hogyan		És mondta nekik : „ Nem értitek ezt a példázatot ? Akkor hogyan értitek meg majd a többi példázatot ?
+41004030a	mihez		Majd ezt mondta : „ Mihez hasonlítsuk az Isten országát ? 
+41004030b	milyen		Vagy milyen példázatba foglaljuk azt ?
+41004038	~		Ő pedig a hajó hátulsó részében a vánkoson aludt . Ekkor fölkeltették őt , és ezt mondták néki : „ Mester , nem törődsz vele , hogy elveszünk ? “
+41004040a	Miért		Akkor ezt mondta nekik : „ Miért vagytok ilyen félénkek ? 
+41004040b	Miért		Miért nincsen hitetek ? “
+41004041	Kicsoda		És nagy félelem fogta el őket , és ezt mondták egymásnak : „ Kicsoda hát ez , hogy mind a szél , mind a tenger engedelmeskedik néki ? “
+41005007	Mi		és fennhangon kiáltva mondta : „ Mi közöm nekem hozzád , Jézus , a magasságos Istennek Fia ? Az Istenre kényszerítelek , ne kínozz engem . “
+41005009	Mi		És ezt kérdezte tőle : „ Mi a neved ? “ Az így felelt : „ Légió a nevem , mert sokan vagyunk . “
+41005030	Kicsoda		Jézus pedig azonnal észrevette magán , hogy isteni erő áradott ki belőle , megfordult a sokaságban , és ezt mondta : „ Kicsoda érintette meg az én ruháimat ? “
+41005031	Kicsoda		És mondták neki az ő tanítványai : „ Látod , hogy a sokaság szorít össze téged , és azt kérdezed : Kicsoda érintett meg engem ? “
+41005035	miért		Még beszélt Jézus , amikor odajöttek a zsinagóga elöljárójától , ezt mondván : „ Leányod meghalt ; miért fárasztod tovább a Mestert ? “
+41005039a	Miért		és bemenve , ezt mondta nekik : „ Miért zavarogtok 
+41005039b	~		és sírtok ? A gyermek nem halt meg , hanem alszik . “
+41006002a	honnan		És amint eljött a szombat , tanítani kezdett a zsinagógában . Sokan , akik őt hallották , elálmélkodtak , ezt mondván : „ Honnan veszi ezeket ? 
+41006002b	mi		És milyen bölcsesség az , ami neki adatott , 
+41006002c	~		hogy ilyen csodák is történnek általa ?
+41006022	~		ennek a Heródiásnak a leánya bement és táncolt . Megtetszett Heródesnek és a vendégeknek . A király ezt mondta a leánynak : „ Kérj tőlem , amit akarsz , és megadom neked . “
+41006024	Mit		Ő pedig kiment és megkérdezte anyjától : „ Mit kérjek ? “ Az pedig ezt mondta : „ A Keresztelő János fejét . “
+41006037	~		Ő pedig azt felelte nekik : „ Adjatok nekik ti enni . “ Mire ők ezt mondták neki : „ Elmenjünk és vegyünk kétszáz pénz árú kenyeret , hogy enni adjunk nékik ? “
+41006038	Hány		Ő pedig ezt mondta nekik : „ Hány kenyeretek van ? Menjetek és nézzétek meg . “ Amikor megtudták , ezt mondták : „ Öt , és két halunk . “
+41007005	Mi		Azután megkérdezték őt a farizeusok és az írástudók : „ Mi az oka , hogy a te tanítványaid nem járnak a régiek rendelése szerint , hanem mosdatlan kézzel esznek kenyeret ? “
+41008004	Honnan		A tanítványai pedig ezt felelték neki : „ Honnan laktathatná jól ezeket valaki kenyérrel itt e pusztában ? “
+41008005	Hány		És megkérdezte őket : „ Hány kenyeretek van ? “ Azok pedig mondták : „ Hét . “
+41008012	Miért		Ő pedig lelkében felfohászkodva , ezt mondta : „ Miért kíván jelt ez a nemzetség ? Bizony mondom nektek : Nem adatik jel ennek a nemzetségnek . “
+41008017	Miért		Jézus pedig észrevette ezt , és mondta nekik : „ Miért tanakodtok , hogy nincsen kenyeretek ? Még most sem látjátok be és nem értitek ? Mégis kemény a szívetek ?
+41008018a	~		Van szemetek , és nem láttok , 
+41008018b	~		és van fületek , és nem hallotok ? Nem emlékeztek
+41008019	hány		mikor az öt kenyeret megszegtem az ötezernek , hány kosarat hoztatok el darabokkal tele ? “ Mondták neki : „ Tizenkettőt . “
+41008020	hány		„ Amikor pedig a hetet a négyezernek , hány kosarat hoztatok el darabokkal tele ? “ Azok pedig mondták : „ Hetet . “
+41008021	~		És mondta nekik Jézus : „ Hogy nem értitek hát ? “
+41008023	~		Ő pedig megfogta a vaknak kezét , kivezette őt a falun kívül , és a szemeibe köpve és kezeit reátéve , megkérdezte őt , vajon lát-e valamit .
+41008027	Kinek		És elment Jézus tanítványaival együtt Cézárea Filippi falvaiba . Útközben megkérdezte tanítványaitól : „ Kinek mondanak engem az emberek ? “
+41008029a	~		Ő pedig ezt kérdezte tőlük : 
+41008029b	kinek		„ Hát ti kinek mondtok engem ? “ Péter így felelt neki : „ Te vagy a Krisztus . “
+41008036	mit		Mert mit használ az embernek , ha az egész világot megnyeri , lelkében pedig kárt vall ?
+41008037	mit		Avagy mit adhat az ember váltságul az ő lelkéért ?
+41009010	mit		És ezt a parancsot megtartották magukban , tanakodva egymás között : mit jelent a halálból feltámadni ?
+41009011	Miért		És megkérdezték tőle : „ Miért mondják az írástudók , hogy előbb Illésnek kell eljönnie ? “
+41009012	hogyan		Ő pedig ezt felelte nekik : „ Illés ugyan előbb eljön , és helyreállít mindent ; de hogyan van az Emberfiáról megírva , hogy sokat kell szenvednie és megvettetnie ?
+41009016	Miről		Ő pedig megkérdezte az írástudókat : „ Miről vitatkoztok ezekkel ? “
+41009019a	meddig		Ő pedig így felelt neki : „ Ó , hitetlen nemzetség , meddig leszek még veletek ? 
+41009019b	meddig		Meddig szenvedlek még titeket ? Hozzátok őt hozzám . “
+41009021	mennyi ideje		És megkérdezte az atyját : „ Mennyi ideje , hogy ez van rajta ? “ Az pedig mondta : „ Gyermeksége óta .
+41009028	miért		Mikor pedig bement a házba , tanítványai megkérdezték őt külön : „ Mi miért nem űzhettük ki azt ? “
+41009033	Miről		És elment Kapernaumba . És odahaza megkérdezték őket : „ Miről vitatkoztatok egymással az úton ? “
+41009050	mivel		Jó a só , de ha a só ízét veszti , mivel adtok ízt neki ? Legyen bennetek só , és legyetek békében egymással . “
+41010003	Mit		Ő pedig ezt felelve , mondta nekik : „ Mit parancsolt nektek Mózes ? “
+41010017	mit		Amikor útnak indult , odafutott hozzá egy ember , és letérdelve előtte , kérdezte őt : „ Jó Mester , mit cselekedjem , hogy az örök életet elnyerhessem ? “
+41010018	Miért		Jézus pedig mondta neki : „ Miért mondasz engem jónak ? Senki sem jó , csak egy , az Isten .
+41010026	Kicsoda		Azok pedig még inkább elálmélkodtak , ezt mondva maguk között : „ Kicsoda üdvözülhet tehát ? “
+41010036	Mit		Ő pedig ezt kérdezte tőlük : „ Mit kívántok , hogy tegyek veletek ? “
+41010051	Mit		Jézus pedig megkérdezte tőle : „ Mit akarsz , hogy cselekedjem veled ? “ A vak pedig mondta neki : „ Mester , hogy lássak . “
+41011003	Miért		Ha valaki pedig megkérdezi tőletek : Miért teszitek ezt ? Mondjátok : Az Úrnak van szüksége rá . Erre azonnal elengedi . “
+41011005	Mit		Az ott állók közül pedig némelyek ezt mondták nekik : „ Mit műveltek , hogy eloldjátok a szamárcsikót ? “
+41011028a	milyen		És mondták neki : „ Milyen hatalommal cselekszed ezeket , 
+41011028b	ki		és ki adta neked a hatalmat arra , hogy ezeket cselekedd ? “
+41011030	~		A János keresztsége mennyből való volt-e vagy emberektől ? Erre feleljetek nekem . “
+41011031a	~		Azok pedig tanakodtak maguk között , ezt mondván : „ Ha azt mondjuk : a mennyből , azt fogja mondani : 
+41011031b	miért		Akkor miért nem hittetek neki ?
+41012009	Mit		Mit cselekszik hát a szőlőnek ura ? Eljön , és elveszti a munkásokat , és a szőlőt másoknak adja .
+41012015	Miért		Ő pedig ismerve képmutatásukat , ezt mondta nekik : „ Miért kísértetek engem ? Hozzatok nekem egy pénzt , hadd lássam . “
+41012016a	kié		Azok pedig hoztak , és Jézus megkérdezte tőlük : „ Kié ez a kép 
+41012016b	~		és a felirat ? “ Azok pedig ezt felelték : „ A császáré . “
+41012023	melyiküknek		A feltámadáskor tehát , mikor feltámadnak , melyiküknek lesz a felesége ? Mert mind a hétnek a felesége volt . “
+41012028	Melyik		Akkor odament hozzá egy az írástudók közül , aki az ő vitatkozásukat hallotta , és tudva , hogy jól megfelelt nekik , megkérdezte tőle : „ Melyik az első az összes parancsolat közül ? “
+41012035	Hogyan		Amint Jézus a templomban tanított , ezt kérdezte : „ Hogyan mondhatják az írástudók , hogy a Krisztus Dávidnak Fia ?
+41012037	hogyan		Tehát maga Dávid nevezi őt Urának , hogyan lehet akkor a Fia ? “ És a nagy sokaság örömmel hallgatta .
+41013004a	mikor		„ Mondd meg nékünk , mikor történnek meg ezek , 
+41013004b	mi		és mi lesz a jel , amikor mindezek beteljesednek ? “
+41014004	Mire		Némelyek pedig háborogtak maguk között , és ezt mondták : „ Mire való az olajnak ez a tékozlása ?
+41014006	Miért		Jézus pedig ezt mondta : „ Hagyjátok békén ! Miért bántjátok őt ? Jó dolgot cselekedett énvelem .
+41014012	Hova		A kovásztalan kenyerek ünnepének első napján , amikor a húsvéti bárányt szokták vágni , ezt mondták neki a tanítványai : „ Hova akarod , hogy elmenjünk , és elkészítsük , és megehesd a húsvéti bárányt ? “
+41014014	hol		és ahová bemegy , mondjátok a házigazdának : A Mester kérdi : hol van az a szállás , ahol megeszem az én tanítványaimmal a húsvéti bárányt ?
+41014060a	~		Akkor a főpap odaállt középre , és megkérdezte Jézust : „ Semmit sem felelsz ? 
+41014060b	Miféle		Miféle vallomást tesznek ezek ellened ? “
+41014063	Mi		A főpap pedig megszaggatva ruháit , ezt mondta : „ Mi szükségünk van még tanúkra ?
+41014064	Mi		Hallátok a káromlást . Mi a véleményetek ? “ Azok pedig halálra méltónak ítélték őt mindnyájan .
+41015004	~		Pilátus pedig ismét megkérdezte őt : „ Semmit sem felelsz ? Íme , mennyi tanúbizonyságot szólnak ellened ! “
+41015012	Mit		Pilátus pedig ismét megkérdezte tőlük : „ Mit akartok tehát , hogy cselekedjem azzal , akit a zsidók királyának mondotok ? “
+41015014a	~		Pilátus pedig ezt mondta nekik : 
+41015014b	mi		„ De mi rosszat cselekedett ? “ Azok pedig annál jobban kiáltottak : „ Feszítsd meg ! “
+41015034	Miért		És kilenc órakor Jézus hangosan felkiáltott és ezt mondta : „ Elói , Elói ! Lámá sabaktáni ? “ -- ami megmagyarázva azt jelenti : „ Én Istenem , én Istenem ! Miért hagytál el engemet ? “
+41016003	Kicsoda		és ezt mondták maguk között : „ Kicsoda hengeríti el nekünk a követ a sírbolt szájáról ? “
+42001018	Miből		Zakariás ezt mondta az angyalnak : „ Miből tudhatom ezt meg ? Mert én vén vagyok , és az én feleségem is igen idős . “
+42001034	Hogyan		Mária ezt mondta az angyalnak : „ Hogyan lesz ez , hiszen nincs férjem ? “
+42001043	hogyan		De hogyan történhet velem az , hogy az én Uramnak anyja jön hozzám ?
+42001066	mi		Akik meghallották , szívükbe vésték , és ezt mondták : „ Vajon mi lesz ebből a gyermekből ? “ Az Úr keze vele volt .
+42002048	miért		Amikor szülei meglátták , elcsodálkoztak , és anyja ezt mondta neki : „ Fiam , miért tetted ezt velünk ? Íme , atyád és én nagy bánattal kerestünk téged . “
+42002049	Miért		Ő pedig ezt mondta nekik : „ Miért kerestetek engem ? Vagy nem tudjátok , hogy nekem az én Atyám dolgaival kell foglalkoznom ? “
+42003007	Ki		Ezt mondta tehát a sokaságnak , amely kiment hozzá , hogy megkeresztelje : „ Viperák fajzata ! Ki figyelmeztetett titeket , hogy a közelgő harag elől elmeneküljetek ?
+42003010	Mit		A sokaság megkérdezte tőle : „ Mit cselekedjünk tehát ? “
+42003012	mit		És eljöttek a vámszedők is , hogy megkeresztelkedjenek , és ezt mondták neki : „ Mester , mit cselekedjünk ? “
+42003014a	~		És megkérdezték őt a katonák is . 
+42003014b	mi		„ Hát mi mit cselekedjünk ? “ Nekik ezt felelte : „ Senkit ne bántalmazzatok , ne zsaroljatok , és elégedjetek meg zsoldotokkal . “
+42004034	Mi		„ Mi közünk hozzád názáreti Jézus ? Azért jöttél , hogy elpusztíts minket . Ismerlek téged , hogy ki vagy : az Isten Szentje ! “
+42004036	Milyen		Mindnyájukat félelem szállta meg , és így szóltak egymáshoz : „ Milyen beszéd ez , hogy hatalommal és erővel parancsol a tisztátalan lelkeknek , és azok kimennek ? “
+42005021a	Kicsoda		Az írástudók és farizeusok elkezdtek tanakodni : „ Kicsoda ez , aki ilyen káromlást szól ? 
+42005021b	ki		Ki bocsáthatja meg a bűnöket , ha nem egyedül Isten ? “
+42005022	Miért		Jézus felismerte gondolataikat , ezt mondta nekik : „ Miért tanakodtok szívetekben ?
+42005023	Mi		Mi könnyebb , azt mondani : megbocsátattak neked a te bűneid , vagy azt mondani : kelj fel és járj ?
+42005030	Miért		Az írástudók és farizeusok pedig zúgolódtak , és a tanítványainak ezt mondták : „ Miért esztek és isztok a vámszedőkkel és bűnösökkel együtt ? “
+42005033	Mi		Azok pedig ezt mondták neki : „ Mi az oka , hogy János tanítványai gyakran böjtölnek és imádkoznak , hasonlóképpen a farizeusoké is , a te tanítványaid pedig esznek és isznak ? “
+42005034	~		Ő pedig ezt mondta nekik : „ Rávehetitek-e a lakodalmasokat , hogy böjtöljenek , míg velük van a vőlegény ?
+42006002	Miért		Némelyek pedig a farizeusok közül ezt mondták nekik : „ Miért cselekszitek azt , amit szombatnapon nem szabad cselekedni ? “
+42006009	~		Jézus ezt mondta nekik : „ Valamit kérdezek tőletek : Szabad-e szombaton jót tenni vagy rosszat tenni , életet megmenteni vagy elpusztítani ? “
+42006032	milyen		Ha csak azokat szeretitek , akik titeket szeretnek , milyen jót tettetek ? Hiszen a bűnösök is szeretik azokat , akik őket szeretik .
+42006033	mi		És ha csak azokkal tesztek jót , akik veletek jót tesznek , mi jót tettetek ?
+42006034	mi		És ha csak azoknak adtok kölcsön , akiktől remélitek , hogy visszakapjátok , mi jót tettetek ? Hiszen a bűnösök is adnak kölcsönt a bűnösöknek , hogy ugyanannyit kapjanak vissza .
+42006039	~		Példázatot is mondott nekik : „ Vajon a vak vezethet-e világtalant ? Nem esnek-e mindketten a verembe ?
+42006041	Miért		Miért nézed pedig a szálkát , amely a te atyádfia szemében van , a gerendát pedig , ami a te saját szemedben van , nem veszed észre ?
+42006042	Hogyan		Hogyan mondhatod a te atyádfiának : Atyámfia , hadd vegyem ki a szálkát a te szemedből , holott a te szemedben lévő gerendát nem látod ? Te képmutató , vedd ki először a gerendát a te szemedből , és azután gondolj arra , hogy kivedd a szálkát , amely a te atyádfia szemében van . “
+42006046	Miért		Miért mondjátok nekem : Uram , Uram , ha nem teszitek azt , amit mondok ? “
+42007024	Mit		Amikor elmentek János követei , elkezdett beszélni a sokaságnak Jánosról : „ Mit akartatok látni , amikor kimentetek a pusztába ? Szélingatta nádszálat ?
+42007025	mit		Hát mit akartatok látni , amikor kimentetek ? Finom ruhába öltözött embert ? Íme , akik drága öltözetben és bőségben élnek , a királyi palotákban vannak .
+42007026	mit		Hát mit akartatok látni , amikor kimentetek ? Prófétát ? Bizony mondom nektek , még prófétánál is nagyobbat .
+42007031a	kihez		És ezt mondta az Úr : „ Kihez hasonlítsam ennek a nemzedéknek tagjait ? 
+42007031b	kihez		Kihez hasonlók ?
+42007042	melyik		És amikor nem volt nekik miből megadniuk , mind a kettőnek elengedte . Akkor a kettő közül , mondd meg , melyik szereti őt jobban ? “
+42007049	Kicsoda		És akik együtt ültek vele az asztalnál , elkezdték kérdezgetni egymás között : „ Kicsoda ez , hogy a bűnöket is megbocsátja ? “
+42008025a	hol		És ezt mondta nekik : „ Hol van a ti hitetek ? “ Ők pedig félelemmel és csodálkozással ezt mondták egymásnak : 
+42008025b	kicsoda		„ Ugyan kicsoda ez , hogy a szélnek és víznek is parancsol , és azok engedelmeskednek neki ? “
+42008028	Mi		Amikor meglátta Jézust , felkiáltott , lába elé borult , és hangosan ezt mondta : „ Mi közöm hozzád , Jézus , a felséges Isten Fia ? Kérlek téged , ne gyötörj engem ! “
+42008030	Mi		Jézus megkérdezte : „ Mi a neved ? “ Az így felelt : „ Légió “ , mert sok ördög ment bele .
+42008045	Ki		Jézus ezt mondta : „ Ki az , aki megérintett ? “ Amikor mindnyájan tagadták , Péter , és akik vele voltak így szóltak : „ Mester , a sokaság szorongat és lökdös téged , és te azt mondod : ki az , aki megérintett engem ? “
+42009009a	kicsoda		Heródes ezt mondta : „ Jánost lefejeztettem , kicsoda hát ez , 
+42009009b	~		akiről én ilyen dolgokat hallok ? “ És látni akarta őt .
+42009018	Kinek		Történt , hogy amikor egyszer magában imádkozott , és csak a tanítványok voltak vele , megkérdezte őket : „ Kinek mond engem a sokaság ? “
+42009020a	~		Ő ekkor ezt mondta nekik : 
+42009020b	kinek		„ Hát ti kinek mondtok engem ? “ Péter így válaszolt : „ Az Isten Krisztusának ! “
+42009025	mit		Mert mit használ az embernek , ha az egész világot megnyeri is , önmagát pedig elveszti , vagy kárt vall ?
+42009041a	meddig		Jézus így szólt : „ Ó , hitetlen és elfajult nemzedék , meddig leszek közöttetek , 
+42009041b	meddig		és meddig tűrlek titeket ? Hozd ide a fiadat ! “
+42010025	mit		És íme , egy törvénytudó előállt , és kísértve őt ezt mondta : „ Mester , mit cselekedjem , hogy az örök életet elnyerjem ? “
+42010026a	mi		Ő pedig ezt mondta neki : „ A törvényben mi van megírva ? 
+42010026b	hogyan		Hogyan olvasod ? “
+42010029	ki		Az pedig igazolni akarva magát , így szólt Jézushoz : „ De ki az én felebarátom ? “
+42010036a	~		Mit gondolsz : 
+42010036b	ki		e három közül ki volt a felebarátja annak , aki a rablók kezébe esett ? “
+42011008	~		Mondom nektek , ha nem is fog felkelni , és adni neki azért , mert barátja , de annak tolakodása miatt fel fog kelni , és ad neki annyit , amennyi kell . “
+42011011	Melyik		Melyik apa az közületek , akitől ha a fia kenyeret kér , követ ad neki ? Vagy ha halat kér , hal helyett kígyót ad neki ?
+42011012	~		Vagy ha tojást kér , skorpiót ad neki ?
+42011013	mennyivel		Azért ha ti gonosz létetekre tudtok a ti gyermekeiteknek jó ajándékokat adni , mennyivel inkább ad a ti mennyei Atyátok Szentlelket azoknak , akik tőle kérik . “
+42011018	hogyan		Ha a sátán meghasonlik önmagával , hogyan állhatna fönn országa ? Mert azt mondjátok , hogy én Belzebubbal űzöm ki az ördögöket .
+42011019	ki		És ha én Belzebubbal űzöm ki az ördögöket , a ti fiaitok kivel űzik ki ? Azért ők maguk lesznek a ti bíráitok .
+42012014	ki		Ő pedig így válaszolt : „ Ember , ki tett engem bíróvá vagy végrehajtóvá közöttetek ? “
+42012017	Mit		ezért így okoskodott magában : Mit cselekedjem ? Mert nincs hová betakarítanom termésemet .
+42012020	kié		Isten ezt mondta neki : Bolond ! Még az éjjel elkérik tőled a te lelkedet , akkor kié lesz mindaz , amit felhalmoztál ?
+42012024	Mennyivel		Nézzétek meg a hollókat ! Nem vetnek és nem aratnak , nincs éléskamrájuk , sem csűrük , és Isten eltartja azokat . Mennyivel értékesebbek vagytok ti a madaraknál !
+42012025	Ki		Ki az közületek , aki aggodalmaskodásával akár egy arasznyival is megnövelheti termetét ?
+42012026	mit		Ha pedig ilyen csekélységet sem tudtok megtenni , mit aggodalmaskodtok a többi miatt ?
+42012042	Kicsoda		Az Úr így válaszolt : „ Kicsoda hát a hű és bölcs sáfár , akit az úr gondviselővé tett háza népén , hogy idejében adja ki nekik élelmüket ?
+42012049	Mennyire		„ Azért jöttem , hogy tüzet bocsássak a világra . Mennyire szeretném , ha már lángolna !
+42012056	miért		Képmutatók ! Az égnek és földnek jeleit felismeritek , ezt az időt pedig miért nem tudjátok felismerni ? “
+42012057	Miért		„ Miért nem ítélitek meg magatoktól is azt , hogy mi a helyes ?
+42013004	~		Vagy az a tizennyolc , akikre rászakadt a torony Siloámban , és megölte őket , gondoljátok , hogy bűnösebbek voltak minden más Jeruzsálemben lakó embernél ?
+42013007	miért		Ezt mondta a vincellérnek : Íme , három esztendeje , hogy ide járok gyümölcsöt keresni ezen a fügefán , és nem találok . Vágd ki , miért foglalja a földet is hiába ?
+42013015	~		Az Úr így válaszolt neki : „ Képmutatók , vajon szombatnapon nem oldja-e el mindegyikőtök ökrét vagy szamarát a jászoltól , és nem vezeti-e itatni ?
+42013018a	mihez		Azután így szólt Jézus : „ Mihez hasonló Isten országa ? 
+42013018b	mihez		Mihez hasonlítsam ?
+42013020	Mihez		Majd ismét szólt : „ Mihez hasonlítsam Isten országát ?
+42013025	honnan		Amikor fölkel a gazda , és bezárja az ajtót , ti kívül álltok , és kezditek zörgetni az ajtót , és így szóltok : Uram ! Uram ! Nyisd ki nekünk ! Ő így felel nektek : Nem tudom , honnan valók vagytok !
+42014005	Ki		Nekik pedig ezt mondta : „ Ki az közületek , akinek szamara vagy ökre szombatnapon kútba esik , és nem húzza ki azt azonnal ? “
+42014028	ki		„ Mert ki az közületek , aki tornyot akar építeni , és először nem ül le , hogy kiszámítsa a költségeket , hogy van-e , amiből befejezze ?
+42014031	~		„ Vagy ha egy király , amikor háborúba megy , hogy egy másik királlyal harcba szálljon , nem ül-e le először tanácskozni , hogy tízezerrel szembeszállhat-e azzal , aki húszezerrel jön ellene ?
+42014034	mivel		„ Jó a só , de ha a só ízét veszti , mivel sózzák meg ?
+42015004	Kicsoda		„ Kicsoda az közületek , akinek ha száz juha van , és egyet azok közül elveszít , nem hagyja ott a kilencvenkilencet a pusztában , és nem megy az elveszett után , míg meg nem találja azt ?
+42015008	~		„ Vagy ha egy asszonynak tíz drahmája van , és elveszít egy drahmát , nem gyújt-e lámpást , nem söpri-e ki a házat , és nem keresi-e gondosan , míg meg nem találja ?
+42015026	mi		Előhívott egyet a szolgái közül , és megtudakolta , mi történt .
+42015029	~		Ő pedig így válaszolt atyjának : Íme , én ennyi éve szolgálok neked , és soha át nem hágtam parancsaidat , és nekem egy kecskefiat sem adtál , hogy az én barátaimmal vigadjak .
+42016002	Mit		Hívatta azért , és ezt mondta neki : Mit hallok felőled ? Adj számot sáfárságodról , mert nem lehetsz többé sáfár .
+42016003	Mit		A sáfár ezt mondta magában : Mit tegyek , mert az én uram elveszi tőlem a sáfárságot ? Kapálni nem tudok , koldulni szégyellek .
+42016005	Mennyivel		Magához hívatta urának minden adósát , és ezt mondta az elsőnek : Mennyivel tartozol az én uramnak ?
+42016007	mennyivel		Aztán szólt a másiknak : Te pedig mennyivel tartozol ? Az pedig így felelt : Száz mérő búzával . Így szólt hozzá : Vedd az adósleveledet , és írj nyolcvanat .
+42016011	ki		Ha a hamis mammonon nem voltatok hűek , ki bízná rátok az igazi kincset ?
+42016012	ki		Ha a másén nem voltatok hűek , ki adja oda nektek azt , ami a tiétek ? “
+42017007	Ki		„ Ki az közületek , akinek ha van egy szolgája , és az szánt vagy legeltet , és megjön a mezőről , mindjárt azt mondja neki : Jöjj , és ülj az asztalhoz ?
+42017017	Hol		Jézus ekkor így szólt : „ Nem tízen tisztultak meg ? Hol van a többi kilenc ?
+42017018	~		Nem akadt más , aki visszatért volna dicsőséget adni Istennek , csak ez az egy idegen ? “
+42017020	mikor		Amikor megkérdezték a farizeusok , hogy mikor jön el Isten országa , így felelt nekik : „ Isten országa nem szemmel láthatóan jön el .
+42017037	Hol		Azok ezt mondták neki : „ Hol , Urunk ? “ Ő pedig így válaszolt : „ Ahol a tetem , oda gyűlnek a saskeselyűk . “
+42018018	mit		Egy előkelő ember megkérdezte őt : Jó Mester , mit cselekedjem , hogy az örök életet elnyerjem ?
+42018019	Miért		Jézus ezt mondta neki : „ Miért mondasz engem jónak ? Senki sem jó , csak egy , az Isten .
+42018026	Ki		Akik pedig ezt hallották , ezt mondták : „ Ki üdvözülhet akkor ? “
+42018036	mi		És amikor hallotta a mellette elmenő sokaságot , kérdezősködött , hogy mi az .
+42018041	Mit		„ Mit akarsz , mit tegyek veled ? “ Az így szólt : „ Uram , hogy a szemem világa megjöjjön . “
+42019007	~		Amikor ezt látták , mindnyájan zúgolódtak , és ezt mondták : „ Bűnös emberhez ment be szállásra . “
+42019023	Miért		Miért nem tetted azért az én pénzemet a pénzváltók asztalára , hogy amikor megjövök , kamatostul kapjam vissza ?
+42019031	miért		Ha pedig valaki megkérdezi , hogy miért oldjátok el , ezt mondjátok annak : Az Úrnak van szüksége rá . “
+42019033	Miért		Amikor a szamárcsikót eloldották , annak gazdái ezt mondták : „ Miért oldjátok el a szamárcsikót ? “
+42020002a	micsoda		és megkérdezték tőle : „ Mondd meg nekünk , micsoda hatalommal cselekszed ezeket ? 
+42020002b	ki		Vagy ki az , aki neked ezt a hatalmat adta ? “
+42020005a	~		Azok pedig tanakodtak maguk között : Ha azt mondjuk , hogy a mennyből , azt fogja mondani : 
+42020005b	miért		Akkor miért nem hittetek neki ?
+42020013	Mit		Akkor így szólt a szőlőnek ura : Mit cselekedjem ? Elküldöm szeretett fiamat , talán őt megbecsülik .
+42020015	Mit		És kidobták a szőlőből , és megölték . Mit cselekszik a szőlőnek ura azokkal ?
+42020017	mi		Ő pedig rájuk tekintett és ezt mondta : „ Akkor mi az , ami meg van írva : Amely követ az építők megvetettek , az lett szegletkővé ,
+42020023	~		Ő azonban észrevette álnokságukat , és ezt mondta nekik :
+42020024a	kinek		„ Mutassatok nekem egy dénárt . Kinek a képe 
+42020024b	~		és felirata van rajta ? “ Ezt mondták : „ A császáré . “
+42020033	melyiküknek		A feltámadáskor vajon melyiküknek a felesége lesz ? Mert mind a hétnek felesége volt . “
+42020041	Hogyan		Akkor így szólt hozzájuk : „ Hogyan mondhatják azt , hogy Krisztus Dávid Fia ?
+42020044	hogyan		Dávid tehát Urának nevezi őt , hogyan lehet akkor Fia ? “
+42021007a	mikor		Ekkor ezt kérdezték tőle : „ Mester , mikor lesz ez , 
+42021007b	mi		és mi lesz annak a jele , hogy ez beteljesül ? “
+42022009	Hol		Ezt mondták neki : „ Hol akarod , hogy elkészítsük ? “
+42022011	Hol		és ezt mondjátok a ház gazdájának : Ezt üzeni a Mester : Hol van a szállás , ahol megeszem tanítványaimmal a húsvéti bárányt ?
+42022027	ki		Mert ki a nagyobb ? Az , aki az asztalnál ül , vagy aki szolgál ? Ugye az , aki az asztalnál ül ? De én olyan vagyok közöttetek , mint aki szolgál . “
+42022046	Miért		Ekkor így szólt hozzájuk : „ Miért alusztok ? Keljetek fel és imádkozzatok , hogy kísértésbe ne essetek . “
+42022064	ki		és szemét betakarva arcul csapták őt , és ezt kérdezték : „ Prófétáld meg , ki az , aki megütött téged ! “
+42022071	Mi		Azok ezt mondták : „ Mi szükségünk van még tanúkra ? Hiszen mi magunk hallottuk saját szájából ! “
+42023022a	~		Ő pedig harmadszor is szólt hozzájuk : 
+42023022b	mi		„ De hát mi rosszat tett ez ? Semmi halálra való bűnt nem találtam benne . Megfenyítem és elbocsátom . “
+42023031	mi		Mert ha a zöldellő fával ezt teszik , mi lesz a szárazzal ? “
+42024005	Miért		Ők pedig megrémülve arcukat a földre hajtották , azok ezt mondták nekik : „ Miért keresitek a holtak között az élőt ?
+42024017	Miről		Ő pedig ezt mondta nekik : „ Miről beszélgettek egymással útközben ? “ Erre szomorúan megálltak .
+42024019	Mi		Ő így szólt : „ Mi történt ? “ Azok ezt mondták neki : „ Az , ami a názáreti Jézussal történt , aki próféta volt , cselekedetben és beszédben hatalmas Isten , és az egész nép előtt ,
+42024025	~		Akkor ő így szólt hozzájuk : „ Ó , balgatagok és rest szívűek arra , hogy elhiggyétek , amiket a próféták szóltak !
+42024038a	miért		Ezt mondta nekik : „ Miért rémültetek meg , 
+42024038b	miért		és miért támad kétség szívetekben ?
+43001019	Kicsoda		És ez János bizonyságtétele . Amikor a zsidók papokat és lévitákat küldtek Jeruzsálemből , hogy megkérdezzék őt : „ Kicsoda vagy te ? “
+43001021	Kicsoda		Megkérdezték őt : „ Kicsoda tehát ? Illés vagy te ? “ Ezt mondta : „ Nem vagyok . “ „ A próféta vagy te ? “ És ő felelte : „ Nem . “
+43001022a	Kicsoda		Mondták azért neki : „ Kicsoda vagy ? Hogy megfelelhessünk azoknak , akik minket elküldtek : 
+43001022b	mit		Mit mondasz magad felől ? “
+43001025	Miért		Megkérdezték őt , és ezt mondták neki : „ Miért keresztelsz tehát , ha nem te vagy a Krisztus , sem Illés , sem a próféta ? “
+43001038a	mit		Jézus pedig hátrafordult , és látva , hogy követik azok , ezt mondta nekik : „ Mit kerestek ? “ Azok pedig mondták neki : 
+43001038b	hol		„ Rabbi -- ami azt jelenti : Mester -- , hol laksz ? “
+43001046	~		Mondta neki Nátánáel : „ Názáretből támadhat-e valami jó ? “ Fülöp ezt mondta neki : „ Jöjj , és lásd meg ! “
+43001048	Honnan		Nátánael ezt mondta neki : „ Honnan ismersz engem ? “ Jézus így felelt neki : „ Mielőtt hívott téged Fülöp , láttalak téged , amint a fügefa alatt voltál . “
+43002004	Mi		Jézus ezt mondta neki : „ Mi közöm nekem hozzád , ó , asszony ? Nem jött még el az én órám . “
+43002018a	~		A zsidók ezt felelték és mondták neki : 
+43002018b	micsoda		„ Micsoda jelt mutatsz nékünk , hogy ezeket cselekszed ? “
+43003004	mi		Nikodémus ezt mondta neki : „ Mi módon születhetik az ember , ha vén ? Vajon bemehet-e az anyjának méhébe , és megszülethetik-e ismét ? “
+43003009	Hogyan		Nikodémus így felelt neki : „ Hogyan lehetnek ezek ? “
+43003012	mi		Ha a földiekről szóltam nektek , és nem hisztek , mi módon hisztek , ha a mennyeiekről szólok nektek ?
+43004009	Hogyan		A samáriai asszony pedig ezt mondta neki : „ Hogyan kérhetsz inni zsidó létedre tőlem , aki samáriai asszony vagyok ? ! “ Mert a zsidók nem barátkoznak a samáriaiakkal .
+43004011	honnan		Mondta neki az asszony : „ Uram , nincs mivel merítened , és a kút mély : honnan vennéd tehát az élő vizet ?
+43004027a	mit		Eközben megjöttek a tanítványai , és csodálkoztak , hogy asszonnyal beszélt , de egyik sem mondta : „ Mit keresel , 
+43004027b	mit		vagy mit beszélsz vele ? “
+43005012	Ki		Megkérdezték tőle : „ Ki az az ember , aki ezt mondta neked : Vedd fel az ágyadat , és járj ? “
+43005044	mi		Mi módon hihettek ti , akik egymástól nyertek dicsőséget , és azt a dicsőséget nem keresitek , amely az egy Istentől van ?
+43005047	mi		Ha pedig az ő Írásainak nem hisztek , mi módon hisztek az én beszédeimnek ? “
+43006005	Honnan		Mikor azért felemelte Jézus a szemeit , és látta , hogy nagy sokaság jön hozzá , mondta Fülöpnek : „ Honnan vegyünk kenyeret , hogy ehessenek ezek ? “
+43006009	mi		„ Van itt egy gyermek , akinek van öt árpakenyere és két hala , de mi az ennyinek ? “
+43006025	mikor		És megtalálva őt a tengeren túl , mondták neki : „ Mester , mikor jöttél ide ? “
+43006028	Mit		Ők pedig ezt mondták neki : „ Mit csináljunk , hogy az Isten dolgait cselekedjük ? “
+43006030a	micsoda		Erre megkérdezték : „ Micsoda jelt mutatsz tehát te , hogy miután láttuk , higgyünk neked ? 
+43006030b	mit		Mit cselekszel ?
+43006042	hogyan		És mondták : „ Nem Jézus ez , a József fia , akinek mi ismerjük atyját és anyját ? Akkor hogyan mondhatja : A mennyből szálltam alá ? “
+43006052	Hogyan		Tusakodtak azért a zsidók egymás között , mondván : „ Hogyan adhatja ez nékünk a testét , hogy azt együk ? “
+43006060	ki		Sokan azért , akik hallották ezeket az ő tanítványai közül , ezt mondták : „ Kemény beszéd ez , ki hallgathatja őt ? “
+43006062	~		Hát ha meglátjátok az Emberfiát felszállni oda , ahol előbb volt ? !
+43006068	kihez		Simon Péter így felelt : „ Uram , kihez mehetnénk ? Örök életnek beszéde van tenálad .
+43007011	Hol		A zsidók azért keresték őt az ünnepen , és ezt mondták : „ Hol van ő ? “
+43007015	Honnan		És csodálkoztak a zsidók , ezt mondva : „ Honnan tudja ez az Írásokat , holott nem tanulta ? ! “
+43007019	Miért		Nem Mózes adta-e néktek a törvényt ? Ám senki sem teljesíti közületek a törvényt . Miért akartok engem megölni ? “
+43007020	Ki		A sokaság felelt , és ezt mondta : „ Ördög van benned . Ki akar téged megölni ? “
+43007023	miért		Ha körülmetélhető az ember szombaton , hogy Mózes törvényét meg ne szegjék , akkor rám miért haragusztok , hogy egy embert teljesen meggyógyítottam szombaton ?
+43007035	Hová		A zsidók maguk között ezt mondták : „ Hová akar ez menni , hogy mi majd nem találjuk meg őt ? Vajon a görögök közé szétszórtakhoz akar menni , és a görögöket tanítani ?
+43007036	Micsoda		Micsoda beszéd ez , amelyet mondott : Kerestek majd engem , és nem találtok meg , ahol én vagyok , ti nem jöhettek oda ? “
+43007041	~		Némelyek ezt mondták : „ Ez a Krisztus . “ Mások pedig azt mondták : „ Csak nem Galileából jön el a Krisztus ?
+43007045	Miért		Elmentek azért a szolgák a főpapokhoz és farizeusokhoz , és mondták azok nekik : „ Miért nem hoztátok el őt ? “
+43007048	~		Vajon a főemberek vagy a farizeusok közül hitt-e benne valaki ?
+43007051	~		„ Vajon a mi törvényünk elítéli-e az embert , ha előbb ki nem hallgatja , és nem tudja , hogy mit cselekszik ? “
+43008005	mit		A törvényben pedig megparancsolta nékünk Mózes , hogy az ilyeneket kövezzék meg : te azért mit mondasz ? “
+43008010	hol		Mikor pedig Jézus felegyenesedett , és senkit sem látott az asszonyon kívül , azt mondta neki : „ Asszony , hol vannak a te vádlóid ? Senki sem kárhoztat téged ? “
+43008019	Hol		Ekkor azt mondták neki : „ Hol van a te Atyád ? “ Jézus így felelt : „ Sem engem nem ismertek , sem az én Atyámat , ha engem ismernétek , az én Atyámat is ismernétek . “
+43008025a	ki		Mondták azért neki : „ Ki vagy te ? “ 
+43008025b	~		És mondta nekik Jézus : „ Amit eleitől fogva mondok is nektek .
+43008033	hogyan		Így feleltek neki : „ Ábrahám magva vagyunk , és nem szolgáltunk soha senkinek : hogyan mondhatod hát , hogy szabaddá lesztek ? “
+43008043	Miért		Miért nem értitek az én beszédemet ? Mert nem hallgatjátok az én szavamat .
+43008046a	ki		Ki vádol engem közületek bűnnel ? 
+43008046b	miért		Ha pedig igazságot szólok : miért nem hisztek nekem ?
+43008053	kinek		Vagy pedig nagyobb vagy te atyánknál , Ábrahámnál , aki meghalt ? A próféták is meghaltak : kinek állítod magadat ? “
+43008057	~		A zsidók pedig ezt mondták neki : „ Még ötvenesztendős sem vagy , és Ábrahámot láttad ? “
+43009002	ki		És kérdezték őt a tanítványai , ezt mondva : „ Mester , ki vétkezett , ez vagy ennek szülei , hogy vakon született ? “
+43009010	Hogyan		Ekkor ezt mondták neki : „ Hogyan nyíltak meg a te szemeid ? “
+43009012	Hol		Ekkor ezt mondták neki : „ Hol van ő ? “ Ő pedig mondta : „ Nem tudom . “
+43009016	Hogyan		Mondták azért némelyek a farizeusok közül : „ Ez az ember nincsen Istentől , mert nem tartja meg a szombatot . “ Mások ezt mondták : „ Hogyan tehet bűnös ember ilyen jeleket ? “ És meghasonlás támadt köztük .
+43009017	mit		Újra mondták a vaknak : „ Te mit mondasz róla , hogy megnyitotta a szemeidet ? “ Ő pedig mondta : „ Hogy próféta . “
+43009019	mi		És megkérdezték őket , ezt mondva : „ Ez a ti fiatok , akiről azt mondjátok , hogy vakon született ? Mi módon lát hát most ? “
+43009026a	mit		Ekkor újra megkérdezték tőle : „ Mit csinált veled ? 
+43009026b	hogyan		Hogyan nyitotta meg a szemeidet ? “
+43009027	miért		Ő így felelt : „ Már mondtam nektek , és nem hallottátok meg : miért akarjátok újra hallani ? Vagy ti is az ő tanítványai akartok lenni ? “
+43009034	~		Ekkor ezt mondták neki : „ Te mindenestől bűnben születtél , és te tanítasz minket ? “ És kiközösítették őt .
+43009036	Ki		Az így válaszolt : „ Ki az , Uram , hogy higgyek benne ? “
+43010020	mit		Sokan mondták közülük : „ Ördög van benne , és bolondozik , mit hallgattok reá ? “
+43010021	~		Mások azt mondták : „ Ezek nem megszállott ember beszédei . Vajon az ördög megnyithatja-e a vakok szemeit ? “
+43010024	Meddig		Körülvették azért a zsidók , és mondták neki : „ Meddig tartasz még bizonytalanságban bennünket ? Ha te vagy a Krisztus , mondd meg nékünk nyíltan ! “
+43010032	melyikért		Jézus így felelt nekik : „ Sok jó dolgot mutattam nektek az én Atyámtól , azok közül melyikért köveztek meg engem ? “
+43010036	~		akkor arról ti azt mondjátok , akit az Atya megszentelt és elküldött e világra : Káromlást szólsz , mivelhogy azt mondtam : az Isten Fia vagyok ? !
+43011034	Hová		És mondta : „ Hová helyeztétek őt ? “ Mondták neki : „ Uram , gyere , és lásd meg ! “
+43011047	Mit		Egybegyűjtötték azért a papi fejedelmek és a farizeusok a főtanácsot , és mondták : „ Mit cselekedjünk ? Mert ez az ember sok csodát művel .
+43011056	Mit		A templomban állva keresték Jézust , és így szóltak egymáshoz : „ Mit gondoltok , hogy nem jön-e fel az ünnepre ? “
+43012005	Miért		„ Miért nem adták el ezt a kenetet háromszáz dénárért , és miért nem adták a szegényeknek ? “
+43012027	mit		Most háborog az én lelkem , és mit mondjak : Atyám , ments meg engem ettől az órától ? De hiszen éppen ezért jutottam erre az órára .
+43012034a	hogyan		A sokaság ezt felelte neki : „ Mi azt hallottuk a törvényből , hogy a Krisztus örökké megmarad : hogyan mondhatod hát te , hogy az Emberfiának fel kell emeltetnie ? 
+43012034b	kicsoda		Kicsoda ez az Emberfia ? “
+43012038a	ki		hogy beteljesedjék Ézsaiás próféta beszéde , amelyet mondott : „ Uram , ki hitt a mi tanításunknak , 
+43012038b	kinek		és az Úr karja kinek jelentetett meg ? “
+43013025	ki		Az pedig Jézus kebelére hajolva , mondta neki : „ Uram , ki az ? “
+43013036	hová		Simon Péter megkérdezte tőle : „ Uram , hová mégy ? “ Jézus így felelt : „ Ahová én megyek , most énutánam nem jöhetsz , de később utánam fogsz jönni . “
+43013037	miért		Péter ezt mondta neki : „ Uram , miért nem mehetek most utánad ? Az életemet adom érted ! “
+43014002	~		Az én Atyámnak házában sok lakóhely van , ha pedig nem volna , megmondtam volna néktek . Elmegyek , hogy helyet készítsek néktek .
+43014005	mi		Mondta neki Tamás : „ Uram , nem tudjuk , hová mégy , mi módon tudhatjuk akkor az utat ? “
+43014009	mi		Jézus erre azt mondta : „ Annyi idő óta veletek vagyok , és mégsem ismertél meg engem , Fülöp ? Aki engem látott , látta az Atyát , mi módon mondod azért te : Mutasd meg nekünk az Atyát ?
+43014022	miért		Mondta neki Júdás ( nem az Iskáriótes ) : „ Uram , miért van az , hogy nékünk jelented ki magadat , és nem a világnak ? “
+43016005	Hová		Most pedig elmegyek ahhoz , aki elküldött engem , és senki sem kérdezi tőlem közületek : Hová mégy ?
+43016017	mi		A tanítványai közül ezt mondták egymásnak : „ Mi az , amit nekünk mond : Egy kevés idő , és nem láttok engem , és ismét egy kevés idő , és megláttok majd engem , és ez : Mert én az Atyához megyek ? “
+43016018	mi		Ezért ezt mondták : „ Mi az a kevés idő , amiről szól ? Nem tudjuk , mit mond . “
+43018004	Kit		Jézus pedig tudva mindazt , ami reá következik , előrement , és mondta nekik : „ Kit kerestek ? “
+43018007	Kit		Ismét megkérdezte őket : „ Kit kerestek ? “ És azok ezt mondták : „ A názáreti Jézust . “
+43018011	~		Jézus erre ezt mondta Péternek : „ Tedd hüvelyébe a szablyádat ! Vagy nem kell-e kiinnom a poharat , amelyet az Atya adott nekem ? “
+43018021	Miért		Miért kérdezel engem ? Kérdezd azokat , akik hallották , mit beszéltem nekik : íme , ők tudják , amiket nekik mondtam . “
+43018023	miért		Jézus így felelt neki : „ Ha gonoszul szóltam , tégy bizonyságot a gonoszságról , ha pedig jól , miért versz engem ? “
+43018029	Milyen		Pilátus ekkor kiment hozzájuk , és mondta : „ Milyen vádat hoztok fel ez ellen az ember ellen ? “
+43018035	mit		Pilátus így felelt : „ Talán zsidó vagyok én ? A te néped és a papi fejedelmek adtak téged az én kezembe : mit cselekedtél ? “
+43018038	Mi		Pilátus ezt mondta neki : „ Mi az igazság ? “
+43019009	Honnan		ismét bement a törvényházba , és szólt Jézusnak : „ Honnan való vagy te ? “ De Jézus nem felelt neki .
+43019015	~		Azok pedig kiáltoztak : „ Vidd el , vidd el , feszítsd meg őt ! “ Mondta nekik Pilátus : „ A ti királyotokat feszítsem meg ? “ A papi fejedelmek így feleltek : „ Nem királyunk van , hanem császárunk ! “
+43020013	miért		Azok ezt mondták neki : „ Asszony , miért sírsz ? “ Azt mondta nekik : „ Mert elvitték az én Uramat , és nem tudom , hova tették őt . “
+43020015a	miért		Mondta neki Jézus : „ Asszony , miért sírsz ? 
+43020015b	kit		Kit keresel ? “ Ő pedig azt gondolva , hogy a kertész az , ezért azt mondta neki : „ Uram , ha te vitted el őt , mondd meg nekem , hová tetted , és én elviszem . “
+43021012	Ki		Jézus erre azt mondta nekik : „ Gyertek , ebédeljetek . “ A tanítványok közül pedig senki sem merte tőle megkérdezni : „ Ki vagy te ? “ Mivelhogy tudták , hogy az Úr ő .
+43021020	Ki		Péter pedig megfordulva , látja , hogy követi az a tanítvány , akit szeretett Jézus , aki a vacsora közben is az ő keblén nyugodott , és mondta : „ Uram ! Ki az , aki elárul téged ? “
+43021021	mi		Őt látva Péter , mondta Jézusnak : „ Uram , ezzel pedig mi lesz ? “
+43021022	mi		Jézus ezt mondta neki : „ Ha akarom , hogy ő megmaradjon , amíg eljövök , mi közöd hozzá ? Te kövess engem ! “
+43021023	mi		Elterjedt tehát e beszéd az atyafiak között , hogy az a tanítvány nem hal meg . Pedig Jézus nem azt mondta neki , hogy nem hal meg , hanem ezt : „ Ha akarom , hogy megmaradjon , amíg eljövök , mi közöd hozzá ? “
+44001011	miért		És így szóltak : „ Galileabeli férfiak , miért álltok itt felnézve a mennybe ? Ez a Jézus , aki felvitetett tőletek a mennybe , úgy jön el , amikképpen láttátok őt felmenni a mennybe . “
+44002008	Hogyan		Hogyan halljuk hát őket , ki-ki közülünk a saját nyelvén , amelyben születtünk ?
+44002012	mi		Elálmélkodtak mindnyájan , és zavarban voltak , és egymásnak ezt mondták : „ Vajon mi akar ez lenni ? “
+44002037	Mit		Amikor pedig ezeket hallották , szívükben megkeseredtek , és ezt mondták Péternek és a többi apostoloknak : „ Mit cselekedjünk , atyámfiai , férfiak ? “
+44003012a	miért		Amikor pedig ezt látta Péter , ezt mondta a népnek : „ Izrael férfiai , miért csodálkoztok ezen , 
+44003012b	miért		vagy miért néztek reánk , mintha tulajdon erőnkkel vagy jámborságunkkal műveltük volna azt , hogy járjon ?
+44004007a	~		Amikor pedig őket középre állították , faggatták őket : 
+44004007b	micsoda		„ Micsoda hatalommal , 
+44004007c	kinek		vagy kinek a nevében cselekedtétek ezt ? “
+44004016	Mit		„ Mit cselekedjünk ezekkel az emberekkel ? Mert nyilvánvaló , hogy csoda történt általuk , mindenki , aki Jeruzsálemben lakik tudja , és le nem tagadhatjuk .
+44004025a	~		aki , a te szolgádnak Dávidnak szája által ezt mondtad :
+44004025b	~		
+44005003	miért		Péter pedig ezt mondta : „ Anániás , miért foglalta el a Sátán a te szívedet , hogy megcsald a Szentlelket , és a mezőnek árából félre tégy ?
+44005004	Miért		Ha megmaradt volna , neked maradt volna meg , és miután eladtad , nem te rendelkeztél-e vele ? Miért cselekedted ezt a dolgot szívedben ? Nem embereknek hazudtál , hanem Istennek . “
+44005009	Miért		Péter pedig ezt mondta néki : „ Miért egyeztetek meg , hogy az Úrnak lelkét megkísértsétek ? Íme , a küszöbön vannak azoknak lábai , akik eltemették férjedet , és kivisznek téged . “
+44007026	miért		Másnap meg olyankor jelent meg köztük , mikor összevesztek , és békességre intette őket : Férfiak , ti testvérek vagytok , miért bosszantjátok egymást ?
+44007027	Kicsoda		De az , aki felebarátját bántalmazta , elutasította őt magától , ezt mondva : Kicsoda tett téged fejedelemmé és bíróvá mi rajtunk ?
+44007035	Ki		Ezt a Mózest , akit megtagadtak ezt mondva : Ki tett téged fejedelemmé és bíróvá ? -- ezt az Isten fejedelmül és szabadítóul küldte el angyala által , aki megjelent neki a csipkebokorban .
+44007049a	milyen		A menny nékem a trónom , a föld pedig az én lábaimnak zsámolya . milyen házat építhettek nékem ? -- 
+44007049b	melyik		azt mondja az Úr , vagy melyik az én nyugodalmamnak helye ?
+44007052	kit		A próféták közül kit nem üldöztek atyáitok ? Megölték azokat , akik eleve hirdették annak az Igaznak eljövetelét , akinek most árulóivá és gyilkosaivá lettetek .
+44008031	Hogyan		Ő pedig így felelt : „ Hogyan érthetném , hacsak valaki meg nem magyarázza nekem ? “ És kérte Fülöpöt , hogy szálljon fel , és üljön mellé .
+44008033	kicsoda		A megaláztatásában az ítélet elvétetett róla , az ő nemzetségét pedig kicsoda sorolja fel ? Mert elvétetik a földről az ő élete .
+44008034	kiről		A komornyik pedig ezt mondta Fülöpnek : „ Kérlek téged , kiről mondja ezt a próféta ? Magáról-e , vagy más valakiről ? “
+44008036	Mi		Amikor pedig az úton mentek , egy vízhez jutottak , és ezt mondta a komornyik : „ Íme , itt a víz ! Mi akadálya van , hogy megkeresztelkedjem ? “
+44009004	miért		leesett a földre , szózatot hallott , mely ezt mondta neki : „ Saul , Saul , miért üldözöl engem ? “
+44009005	Kicsoda		Ő pedig megkérdezte : „ Kicsoda vagy , Uram ? “ Az Úr pedig ezt mondta : „ Én vagyok Jézus , akit te üldözöl . Nehéz neked az ösztöke ellen rugódoznod . “
+44009006	mit		Erre remegve és ámulva kérdezte : „ Uram , mit akarsz , hogy cselekedjem ? “ Az Úr pedig ezt mondta neki : „ Kelj fel , és menj be a városba , és majd megmondják neked , mit kell cselekedned . “
+44010004	Mi		Ő pedig szemeit reá függesztette , és megrémülve mondta : „ Mi az , Uram ? “ Ő pedig ezt mondta neki : „ Könyörgéseid és alamizsnáid felmentek Isten elé , és ő emlékszik rájuk .
+44010021	Mi		Lement tehát Péter a férfiakhoz , akiket Kornéliusz küldött hozzá , és ezt mondta : „ Íme , én vagyok , akit kerestek . Mi az , amiért jöttetek ? “
+44010029	mi		Ezért ellenkezés nélkül el is jöttem , miután meghívtak . Azt kérdezem tehát , mi okból hivattatok engem ? “
+44010047	~		„ Vajon megtagadhatja-e valaki a vizet ezektől , hogy megkeresztelkedjenek , akik ugyanúgy vették a Szentlelket , mint mi is ? “
+44011017a	kicsoda		Ha tehát az Isten hasonló ajándékát adta nekik is , mint nekünk is , akik hittünk az Úr Jézus Krisztusban , kicsoda voltam én , 
+44011017b	~		hogy az Istent eltilthattam volna ? “
+44012018	mi		Amikor megvirradt , nem csekély háborúság támadt a vitézek között , hogy mi történt Péterrel .
+44013025	~		Amikor pedig be akarta fejezni János az ő tisztét , ezt mondta : Akinek ti gondoltok engem , nem az vagyok , hanem íme , utánam jön , akinek nem vagyok méltó megoldani lábainak saruját sem .
+44014015	miért		„ Férfiak , miért művelitek ezeket ? Mi is hozzátok hasonló természetű emberek vagyunk , és azt az örvendetes üzenetet hirdetjük nektek , hogy ezektől a hiábavaló dolgoktól az élő Istenhez térjetek , aki teremtette a mennyet , a földet , a tengert , és mindent , ami azokban van .
+44015010	mit		Most azért mit kísértitek az Istent , hogy a tanítványok nyakába olyan igát tegyetek , amelyet sem a mi atyáink , sem mi el nem hordozhattunk ?
+44016030	mit		majd kihozta őket , ezt és mondta : „ Uraim , mit kell cselekednem , hogy üdvözüljek ? ? “
+44017018	Mit		Némelyek pedig az epikureus és sztoikus filozófusok közül összeakadtak vele . Néhányan azt mondták : „ Mit akarhat ez a csacsogó mondani ? “ Mások meg : „ Idegen istenségek hirdetőjének látszik “ , mivel Jézust és a feltámadást hirdette .
+44017019	mi		Megragadták őt , az Areopágoszra vitték , s ezt mondták : „ Vajon megérthetjük-e mi az az új tudomány , melyet te hirdetsz ?
+44019003	mire		Ekkor megkérdezte tőlük : „ Mire keresztelkedtetek meg tehát ? “ Azok pedig azt mondták : „ A János keresztségére . “
+44019015	kicsodák		A gonosz lélek pedig ezt mondta : „ A Jézust ismerem , Pálról is tudok , de ti kicsodák vagytok ? “
+44019035	ki		Miután pedig a városi jegyző lecsendesítette a sokaságot , ezt mondta : „ Efezusbeli férfiak , ugyan ki az az ember , aki ne tudná , hogy Efezus városa a nagy Artemisz istenasszonynak , és a Jupitertől leszállt képének templomőrzője ?
+44021013a	Miért		De Pál így felelt : „ Miért sírtok , 
+44021013b	~		és keserítitek a szívemet ? Mert én nemcsak megkötöztetni , hanem meghalni is kész vagyok Jeruzsálemben az Úr Jézusnak nevéért . “
+44021022	Mit		Mit tegyünk tehát ? Mindenesetre sokan összegyűlnek , ha meghallják , hogy ide jöttél .
+44021033a	kicsoda		Akkor odaért az ezredes , elfogatta őt , és megparancsolta , hogy kötözzék meg két lánccal , majd kérdezősködött , hogy kicsoda ez , 
+44021033b	mit		és mit követett el .
+44022007	miért		Leestem a földre , és hangot hallottam , amely azt mondta nekem : Saul , Saul , miért üldözöl engem ?
+44022008	Kicsoda		Én pedig megkérdeztem : Kicsoda vagy , Uram ? És ő ezt mondta nekem : Én vagyok a Názáreti Jézus , akit te kergetsz .
+44022010	Mit		Én pedig ezt mondtam : Mit tegyek , Uram ? Az Úr pedig ezt mondta nekem : Kelj fel és menj el Damaszkuszba , ott megmondják neked mindazt , amit Isten elrendelt , hogy véghez vigyed .
+44022016	miért		Most azért miért késlekedsz ? Kelj fel , keresztelkedj meg , és mosd le bűneidet , segítségül hívva az Úrnak nevét . “
+44022026	mit		Miután pedig ezt meghallotta a százados , elment és jelentette az ezredesnek ezt mondva : „ Vigyázz , hogy mit akarsz tenni , mert ez az ember római . “
+44023003	~		Akkor Pál azt mondta neki : „ Megver az Isten téged , te kimeszelt fal ! Te leülsz a törvény szerint engem megítélni , és törvényellenesen cselekedve parancsolod , hogy engem verjenek ? “
+44023009	~		Erre nagy kiáltozás támadt , és a farizeusok pártjából néhány írástudó felállt , és tusakodott , és ezt mondták : „ Semmi rosszat nem találunk ebben az emberben . Ha pedig Lélek szólt neki , vagy angyal , ne tusakodjunk Isten ellen . “
+44023019	Mi		Az ezredes pedig kézen fogta , és félrevonulva megkérdezte tőle : „ Mi az , amit jelenteni akarsz nekem ? “
+44026008	Miért		Miért tűnik nektek hihetetlen dolognak , hogy Isten halottakat támaszt fel ?
+44026014	mit		Amikor pedig mindnyájan leestünk a földre , szózatot hallottam , mely hozzám szólt , és ezt mondta zsidó nyelven : Saul , Saul , mit kergetsz engem ? Nehéz neked az ösztöke ellen rugódoznod .
+44026015	Kicsoda		Erre én ezt kérdeztem : Kicsoda vagy , Uram ? Az Úr ezt felelte : Én vagyok Jézus , akit te kergetsz .
+45002017	~		De te zsidónak mondod magad , és Isten törvényére támaszkodsz , és Istennel dicsekszel ,
+45002021	~		Ha mást tanítasz , magadat nem tanítod-e ? Aki azt hirdeted , hogy ne lopj , nem lopsz-e ?
+45002028	~		Mert nem az a zsidó , aki külsőképpen az . Nem az a körülmetélés , ami a testen külsőképpen látszik .
+45003001a	Mennyiben		Mennyiben különb hát a zsidó ? 
+45003001b	micsoda		Vagy micsoda haszna van a körülmetélkedésnek ?
+45003003	~		De hát , ha némelyek nem hittek ? Vajon azoknak hitetlensége nem teszi-e hiábavalóvá Isten hűségét ?
+45003005	mit		Ha pedig a mi igazságtalanságunk Isten igazságát mutatja meg , akkor mit mondjunk ? Vajon igazságtalan-e Isten , hogy minket büntet ? Emberi módon szólok .
+45003006	hogyan		Semmiképpen ! Mert akkor hogyan ítélhetné meg Isten a világot ?
+45003007a	~		Mert ha Isten igazságát az én hazugságom fokozza az ő dicsőségére , 
+45003007b	miért		miért kárhoztattatom én mégis , mint bűnös ?
+45003008	~		Ne cselekedjünk-e akkor inkább a rosszat , hogy abból jó származzék ? -- amint rágalmaznak minket és mondogatják , hogy mi így beszélünk . Ezeknek kárhoztatása igazságos .
+45003009	Hogyan		Hogyan van tehát ? Különbek vagyunk ? Semmiképpen . Hiszen az előbb már nyilvánvalóvá tettük , hogy zsidók és görögök egyaránt mind bűnben vannak ,
+45003027a	hol		Hol van tehát a dicsekedés ? Lehetetlenné lett . 
+45003027b	milyen		Milyen törvény által ? 
+45003027c	~		A cselekedeteké által ? Nem , hanem a hit törvénye által .
+45004001	Mit		Mit mondjunk tehát , hogy Ábrahám , a mi atyánk nyert volna valamit , test szerint ?
+45004003	mit		Mert mit mond az Írás ? Ábrahám hitt Istennek , és ez tulajdoníttaték neki igazságul .
+45004010	miképpen		Tehát miképpen tulajdoníttatott ? Körülmetélt vagy körülmetéletlen állapotában ? Nem körülmetélt , hanem körülmetéletlen állapotában .
+45005010	~		Mert ha amikor ellenségei voltunk , megbékéltünk Istennel az ő Fiának halála által , sokkal inkább megtartanunk az ő élete által , miután megbékéltünk vele .
+45005021	~		hogy amiképpen uralkodott a bűn a halálra , úgy a kegyelem is uralkodjék az igazság által az örök életre , a mi Urunk Jézus Krisztus által .
+45006001	Mit		Mit mondjunk tehát ? Megmaradjunk-e a bűnben , hogy a kegyelem annál nagyobb legyen ?
+45006002	hogyan		Semmiképpen ! Ha meghaltunk a bűnnek , hogyan élhetnénk még benne ?
+45006015	mi		Mi következik ebből ? Vétkezzünk-e , mivel nem a törvény alatt , hanem a kegyelem alatt vagyunk ? Semmiképpen !
+45006021	Micsoda		Micsoda gyümölcsöt termett ez akkor nektek ? Most csak szégyenkeztek miatta ! Mert azoknak a vége halál .
+45007007	Mit		Mit mondunk tehát ? A törvény bűn ? Semmiképpen ! Hiszen a bűnt csak a törvény által ismertem meg , mert a gonosz kívánságról sem tudtam volna , ha a törvény nem mondaná : „ Ne kívánd ! “
+45007024	Kicsoda		Ó , én nyomorult ember ! Kicsoda szabadít meg engem e halálra ítélt testből ?
+45008024	miért		Mert reménységben tartattunk meg , a reménység pedig , ha látható , nem reménység , mert amit lát valaki , miért remélné azt ?
+45008031a	mit		Mit mondjunk azért ezekre ? 
+45008031b	kicsoda		Ha Isten velünk , kicsoda ellenünk ?
+45008032	hogyne		Aki az ő tulajdon Fiának nem kedvezett , hanem őt mindnyájunkért odaadta , hogyne ajándékozna vele együtt mindent nekünk ?
+45008033	Kicsoda		Kicsoda vádolja az Isten választottait ? Isten az , aki megigazít .
+45008034	Kicsoda		Kicsoda az , aki kárhoztat ? Krisztus az , aki meghalt , sőt aki fel is támadott , aki az Isten jobbján van , aki esedezik értünk .
+45008035	Kicsoda		Kicsoda szakít el minket Krisztus szeretetétől ? Nyomorúság vagy szorongattatás , vagy üldözés , vagy éhség , vagy mezítelenség , vagy veszedelem , vagy fegyver ?
+45009014	Mit		Mit mondjunk tehát ? Vajon nem igazságtalanság ez Istentől ? Semmiképpen !
+45009019a	miért		Azt mondod erre nekem : Akkor miért vádol hát engem ? 
+45009019b	kicsoda		Hiszen az ő akaratának kicsoda állhat ellen ?
+45009020a	kicsoda		De hát kicsoda vagy te , ó , ember , hogy perbe szállsz Istennel ? 
+45009020b	~		Mondhatja-e a készítmény a készítőnek : 
+45009020c	miért		miért formáltál engem így ?
+45009021	~		A fazekasnak nincs-e hatalma az agyagon , hogy ugyanabból az anyagból az egyik edényt ékességre , a másikat pedig közönséges használatra készítse ?
+45009022	~		Isten pedig nem a haragját akarta-e megmutatni , és hatalmát megismertetni , és ezért nagy béketűréssel szenvedte el a harag edényeit , amelyek pusztulásra készültek ,
+45009023	~		és nem az ő dicsőségének gazdagságát akarta-e megismertetni az irgalom edényein , amelyeket eleve dicsőségre készített ?
+45009024	~		Ilyenekké hívott el minket is , nemcsak a zsidók , hanem a pogányok közül is ,
+45009030	Mit		Mit mondjunk tehát ? Azt , hogy a pogányok , akik az igazságot nem követték , az igazságot elnyerték , mégpedig a hitből való igazságot .
+45009032	Miért		Miért ? Azért , mert nem hitből keresték , hanem úgy , mintha a törvény cselekedetei révén volna elérhető . Beleütköztek a megütközés kövébe ,
+45010006	ki		A hitből való igazság pedig így szól : „ Ne mondd a szívedben : ki megy fel a mennybe ? “ hogy Krisztust lehozza .
+45010007	Ki		Vagy : „ Ki száll le a mélységbe ? “ Azért tudniillik , hogy Krisztust a halálból felhozza .
+45010008	mit		De mit mond ? „ Közel van hozzád az ige , a szádban és szívedben van , “ tudniillik a hit igéje , amelyet mi hirdetünk .
+45010014a	hogyan		Hogyan hívják segítségül azt , akiben nem hisznek ? 
+45010014b	hogyan		Hogyan hisznek abban , aki felől nem hallottak ? 
+45010014c	hogyan		Hogyan hallhatnának igehirdető nélkül ?
+45010015	Hogyan		Hogyan prédikálnak , ha nem küldettek el ? Ahogy meg van írva : „ Milyen kedvesek léptei a békességhirdetőknek , azoknak , akik az evangéliumot hirdetik “ .
+45010016	ki		De nem mindenki engedelmeskedett az evangéliumnak . Ézsaiás ezt mondja : „ Uram , ki hitt a mi beszédünknek ? “
+45011004	mit		De mit mond neki az isteni felelet ? „ Meghagytam magamnak hétezer embert , akik nem hajtottak térdet a Baálnak . “
+45011007	Mi		Mi tehát a helyzet ? Amire Izrael törekedett , azt nem nyerte el . A választottak ellenben elnyerték , a többiek pedig megkeményíttettek .
+45011015	mi		Mert ha az ő elvettetésük a világ békességét szolgálta , mi mást jelenthetne befogadásuk , ha nem életet a halálból ?
+45011018	~		ne kevélykedj az ágakkal szemben . Ha pedig kevélykedsz , tudd meg : nem te hordozod a gyökeret , hanem a gyökér téged .
+45011033a	Milyen		Ó , Isten gazdagságának , bölcsességének és tudásának mélysége ! Milyen kikutathatatlanok az ő ítéletei 
+45011033b	~		és kinyomozhatatlanok az ő útjai !
+45011034a	ki		Ugyan „ ki ismerte meg az Úr gondolatait ? 
+45011034b	ki		Vagy ki volt neki tanácsadója ?
+45011035	ki		Vagy ki adott előbb neki , hogy vissza kellene fizetnie ? “
+45014004	Ki		Ki vagy te , hogy más szolgáját megítéled ? Tulajdon urának áll , vagy esik . De meg fog állni , mert az Úr megerősítheti , hogy megálljon .
+45014010a	miért		Te pedig miért ítéled el a te atyádfiát ? 
+45014010b	miért		Vagy te is miért veted meg a te atyádfiát ? Hiszen mindnyájan odaállunk majd Krisztus ítélőszéke elé .
+46001020a	hol		Hol a bölcs ? 
+46001020b	hol		Hol az írástudó ? 
+46001020c	hol		Hol e világ vitázója ? Nem tette-e Isten bolondsággá e világnak bölcsességét ?
+46002011	ki		Mert ki ismeri az ember gondolatait ? Csak az embernek lelke , amely benne lakik . Azonképpen az Isten dolgait sem ismeri senki , csak az Isten Lelke .
+46002016a	ki		Mert ugyan , „ Ki ismerte meg az Úr gondolatait , 
+46002016b	~		hogy őt kioktathatná ? “ Mi pedig Krisztus gondolataiban részesülünk .
+46003005a	kicsoda		Hát kicsoda Pál ? 
+46003005b	kicsoda		És kicsoda Apollós ? Csak szolgák , akik által hívőkké lettetek , mégpedig úgy , amint kinek-kinek az Úr megadta .
+46004007a	mi		Mi tesz téged másnál különbbé ? 
+46004007b	mid		Mid van ugyanis , amit nem kaptál volna ? 
+46004007c	mit		Ha pedig úgy kaptad , mit dicsekszel , mintha nem kaptad volna ?
+46004021	Mit		Mit akartok ? Vesszővel menjek-e hozzátok , vagy szeretettel és a szelídség lelkével ?
+46005002	~		És ti felfuvalkodtok , ahelyett , hogy megkeseredve kivetnétek magatok közül azt , aki ezt cselekedte !
+46005012	mit		Mert mit tartozik rám , hogy a kívül valókról ítélkezzem ? Nem a belüllévők fölött ítélkeztek-e ti is ?
+46006001	Hogyan		Hogyan merészel közületek bárki is , ha peres dolga van valakivel , a hitetlenek előtt pereskedni és nem a szentek előtt ?
+46006003	mennyivel		Nem tudjátok-e , hogy angyalokat fogunk ítélni ? Mennyivel inkább ítélhetünk mindennapi ügyekben !
+46006004	~		Azért ha mindennapi ügyekben pereskedtek , azokat ültetitek-e le a bírói székbe , akiket semmibe sem vesznek a gyülekezetben ?
+46006007a	Miért		Egyáltalán már az is gyarlóság bennetek , hogy egymással pereskedtek ! Miért nem szenveditek el inkább a sérelmet ? 
+46006007b	Miért		Miért nem tűritek el inkább a kárt ?
+46006009	~		Vagy nem tudjátok , hogy gonoszok nem örökölhetik Isten országát ? Ne tévelyegjetek : sem paráznák , sem bálványimádók , sem házasságtörők , sem kéjelgők , sem fajtalankodók ,
+46006016	~		Vagy nem tudjátok , hogy aki paráznával egyesül , egy testté lesz vele ? Mert -- ahogy az Írás mondja -- ketten lesznek egy testté .
+46006019	~		Vagy nem tudjátok , hogy a ti testetek a bennetek lakó Szentlélek temploma , amelyet Istentől kaptatok , és így nem a magatoké vagytok ?
+46007016a	honnan		Honnan tudod te , asszony , hogy nem mentheted-e meg férjedet , 
+46007016b	honnan		és honnan tudod te , férj , hogy nem mentheted-e meg feleségedet ?
+46009007a	ki		Ki katonáskodik a maga zsoldján ? 
+46009007b	ki		Ki plántál szőlőt , és nem eszik annak terméséből ? 
+46009007c	ki		Vagy ki legeltet nyájat és nem iszik annak tejéből ?
+46009018	Mi		Mi tehát a jutalmam ? Az , hogy prédikálásommal ingyenessé teszem Krisztus evangéliumát és nem élek vissza az evangélium hirdetésével együtt járó jogommal .
+46010019a	mit		Mit mondok tehát ? 
+46010019b	~		Talán azt , 
+46010019c	~		hogy a bálvány vagy a bálványáldozat ér valamit ?
+46010029	miért		De nem a te lelkiismeretedre célzok , hanem az övére . Az én szabadságomat miért ítélje meg más lelkiismerete ?
+46010030	miért		Ha pedig én hálaadással élek vele , miért ítélnek meg azért , amiért én hálát adok ?
+46011022	Mit		Hát nincs házatok evésre-ivásra ? Vagy megvetitek az Isten gyülekezetét és megszégyenítitek azokat , akiknek nincsen ? Mit mondjak nektek ? Dicsérjelek titeket ? Nem dicsérlek .
+46012017a	hol		Ha az egész test szem , hol a hallás ? 
+46012017b	hol		Ha az egész hallás , hol a szaglás ?
+46012019	hol		Ha pedig valamennyi egy tag volna , hol volna a test ?
+46014006	mit		Ha most hozzátok megyek , atyámfiai , és nyelveken szólok , mit használok nektek , ha kijelentésben , vagy ismeretben , vagy prófétálásban , vagy tanításban nem szólok hozzátok ?
+46014007	honnan		Hiszen , ha élettelen hangszerek , akár fuvola , akár citera nem adnak megkülönböztethető hangokat , honnan ismerjük fel , hogy mit fuvoláznak vagy citeráznak ?
+46014008	kicsoda		Mert ha a trombita bizonytalan hangot ad , kicsoda készül harcra ?
+46014009	hogyan		Azonképpen ti is , ha nem érthető nyelven beszéltek , hogyan értik meg , amit mondotok ? Csak a levegőbe fogtok beszélni .
+46014015	Hogyan		Hogyan is van tehát ? Imádkozom a Lélek által , de imádkozom az értelemmel is ; énekelek a Lélek által , de énekelek az értelemmel is .
+46014016	hogyan		Mert ha Lélek által mondasz áldást , az ott lévő avatatlan , hogyan fog áment mondani hálaadásodra , amikor nem is tudja , mit beszélsz ?
+46014026	mi		Atyámfiai , mi következik ebből ? Amikor egybegyűltök mindegyikteknek van zsoltára , tanítása , nyelveken való szólása , kijelentése , nyelvek magyarázása . Mindez épülésetekre legyen .
+46014036	~		Vajon tőletek eredt Isten beszéde , vajon csak hozzátok jutott el ?
+46015012	hogyan		Ha tehát Krisztusról azt prédikáljuk , hogy feltámadt a halottak közül , hogyan mondják némelyek közöttetek , hogy nincs feltámadása a halottaknak ?
+46015029a	~		
+46015029b	mi		Különben mi értelme van annak , hogy némelyek a halottakért keresztelkednek meg , ha a halottak egyáltalán nem támadnak fel ? 
+46015029c	miért		Akkor miért keresztelkednek meg a halottakért ?
+46015030a	~		
+46015030b	miért		Mi is miért veszélyeztetjük akkor magunkat minden pillanatban ?
+46015032	mit		Ha csak emberi módon viaskodtam Efezusban a fenevadakkal , mit használ nekem ? Ha a halottak nem támadnak fel , akkor „ együnk , igyunk , holnap úgyis meghalunk ! “
+46015035a	hogyan		De azt mondhatná valaki : Hogyan támadnak fel a halottak ? 
+46015035b	milyen		Milyen testtel jönnek elő ?
+46015055a	hol		Halál , hol a te győzelmed ? 
+46015055b	hol		Halál , hol a te fullánkod ? “
+47002002	ki		Mert ha én megszomorítlak titeket , ugyan ki az , aki megvidámít engem , hacsak nem az , a kit én megszomorítok ?
+47002016	ki		Ezeknek a halál illata halálra , azoknak pedig az élet illata életre . És ki alkalmas erre ?
+47003008	hogyne		hogyne volna még inkább dicsőséges a Lélek szolgálata ?
+47003009	mennyivel		Mert ha a kárhoztatás szolgálata dicsőséges , mennyivel inkább dicsőséges az igazság szolgálata ?
+47006014a	mi		Ne húzzatok közös igát a hitetlenekkel , mert mi köze van az igazságnak a gonoszsághoz , 
+47006014b	mi		vagy mi köze van a sötétségnek a világossághoz ?
+47006015a	hogyan		Hogyan egyezhetne meg Krisztus a Béliállal ? 
+47006015b	mi		Vagy mi köze van a hívőnek a hitetlenhez ?
+47006016	Hogyan		Hogyan fér össze Isten temploma a bálványokkal ? Mert ti az élő Isten temploma vagytok , amint Isten mondta : „ Bennük lakom és közöttük járok , és Istenük leszek , és ők népem lesznek ! “
+47011011	Miért		Miért ? Mert nem szeretlek titeket ? Isten jól tudja !
+47011029a	ki		Ki erőtlen , hogy én is erőtlen ne volnék ? 
+47011029b	ki		Ki botránkozik meg , hogy én is ne égnék ?
+47012013	mi		Mert mi az , amiben hátrányt szenvedtetek a többi gyülekezethez viszonyítva , legfeljebb az , hogy én magam nem voltam terhetekre ! Bocsássátok meg nekem ezt az igazságtalanságot !
+47012017	~		Vagy akiket hozzátok küldtem , azok közül valaki révén becsaptalak titeket ?
+48002014	miként		De mikor láttam , hogy nem egyenesen járnak az evangélium igazságához képest , mondtam Péternek mindnyájuk előtt : Ha te zsidó létedre pogány módra élsz és nem zsidó módra , miként kényszeríted a pogányokat , hogy zsidó módra éljenek ?
+48003001	kicsoda		Ó , balgatag galaták , kicsoda igézett meg titeket , hogy ne engedelmeskedjetek az igazságnak , kiknek szemei előtt a Jézus Krisztus úgy íratott le , mintha tiköztetek feszítették volna meg ?
+48003019	Micsoda		Micsoda tehát a törvény ? A bűnök miatt adatott , amíg eljön a Mag , akinek tétetett az ígéret , rendeltetve angyalok által , közbenjáró kezében .
+48004009a	miként		Most azonban , hogy megismertétek az Istent , sőt hogy megismert titeket az Isten , miként tértek vissza ismét az erőtlen és gyarló elemekhez , 
+48004009b	~		amelyeknek megint újból szolgálni akartok ?
+48004010	~		Megtartjátok a napokat és hónapokat és időket meg az esztendőket .
+48004015	Hová		Hová lett tehát a ti boldogságotok ? Mert bizonyságot teszek néktek , hogy ti , ha lehetséges lett volna , szemeiteket kivájva , nekem adtátok volna .
+48004021	~		Mondjátok meg nékem , akik a törvény alatt akartok lenni : nem halljátok-e a törvényt ?
+48004030	mit		De mit mond az Írás ? Űzd ki a szolgálót és az ő fiát , mert a szolgáló fia nem örököl a szabad nő fiával .
+48005007a	kicsoda		Jól futottatok ; kicsoda gátolt meg titeket , 
+48005007b	~		hogy ne engedelmeskedjetek az igazságnak ?
+48005011	miért		Én pedig , atyámfiai , ha még a körülmetélést hirdetem , miért üldöztetem mégis ? Akkor eltöröltetett a kereszt botránya .
+49004009	mit		( Az pedig , hogy fölment , mit jelentene mást , mint hogy előbb le is szállott a föld alsóbb részeire ?
+50001018	mit		Mert mit mondjak ? Csakhogy minden módon , akár színből , akár szívből , a Krisztus prédikáltatik : és én ennek örülök , sőt örülni is fogok .
+50001021	~		Mert nékem az élet Krisztus , és a meghalás nyereség .
+51002020	miért		Ha meghalva a Krisztussal , megszabadultatok e világ elemi tanításaitól , miért terhelitek magatokat efféle rendelésekkel , mintha e világban élők volnátok ,
+52002019	kicsoda		Mert kicsoda a mi reménységünk , örömünk és dicsekvésünk koronája , ha nem ti is , a mi Urunk Jézus Krisztus előtt az ő eljövetelekor ?
+52003009	Hogyan		Hogyan is adhatnánk hálát Istennek értetek és mindazért az örömért , amellyel megörvendeztettetek minket Istenünk előtt ,
+54003005	hogyan		Mert ha valaki a maga háza népét nem tudja vezetni , hogyan visel gondot Isten egyházára ?
+54006007a	~		mert semmit sem hoztunk a világra , világos , 
+54006007b	~		hogy ki sem vihetünk semmit ,
+58001005	kinek		Mert kinek mondta valaha is az angyalok közül : „ Én fiam vagy te , én ma szültelek téged ? “ Vagy ezt : „ Én leszek neki atyja , és ő lesz nekem fiam ? “
+58001013	Melyik		Melyik angyalnak mondta : „ Ülj az én jobb kezem felől , míg ellenségeidet lábaid zsámolyává teszem . “
+58001014	~		Vajon ezek nem szolgáló lelkek-e mind , akik azokért küldettek szolgálatra , akik örökölni fogják az üdvösséget ?
+58002003	hogyan		akkor hogyan menekülünk meg mi , ha nem törődünk ilyen nagy üdvösséggel ? Ezt kezdetben az Úr hirdette , és mindazok , akik hallották , megerősítették számunkra .
+58002006a	~		Sőt valahol valaki így tett bizonyságot :
+58002006b	~		
+58003016	Kik		Kik keseredtek el , amikor ezt hallották ? Nem azok , akik Mózes vezetésével kijöttek Egyiptomból ?
+58003017	Kikre		Kikre haragudott negyven esztendeig ? Nem azokra , akik vétkeztek , akiknek teste elhullott a pusztában ?
+58003018	Kiknek		Kiknek esküdött meg , hogy nem mennek be nyugodalmába ? Nem azoknak , akik engedetlenek voltak ?
+58006004	~		Mert az lehetetlen , hogy akik egyszer megvilágosíttattak , megízlelve a mennyei ajándékot , és részeseivé lettek a Szentléleknek ,
+58007011	mi		Ha tehát a lévita papság által elérhető volna a tökéletesség , ( mert a nép ez alatt kapta a törvényt ) , mi szükség még azt mondani , hogy más pap támadjon Melkisédek rendje szerint és ne az Áron rendje szerint ?
+58009014	mennyivel		mennyivel inkább Krisztusnak vére , aki az örökkévaló Lélek által önmagát ártatlanul áldozta fel Istennek , megtisztítja a ti lelkiismereteteket a holt cselekedetektől , hogy az élő Istennek szolgáljatok .
+58010001	~		Mivelhogy a törvény az eljövendő javaknak csak árnyéka és nem pedig a dolgok valóságos képe , ezért azokkal az áldozatokkal , amelyeket esztendőnként szüntelenül bemutatnak sohasem képesek tökéletességre juttatni az odajárulókat .
+58010029a	mennyivel		Gondoljátok meg , mennyivel súlyosabb büntetésre méltó az , 
+58010029b	~		aki az Isten Fiát lábbal tapodja , 
+58010029c	~		és a szövetség vérét , amellyel megszenteltetett , tisztátalannak tartja , 
+58010029d	~		és a kegyelem Lelkét megveti .
+58011032	mit		És mit mondjak még ? Hiszen kifogynék az időből , ha szólnék Gedeonról , Bárákról , Sámsonról , Jeftéről , Dávidról , Sámuelről és a prófétákról .
+58012007	melyik		Ha a fenyítést elszenveditek , akkor úgy bánik veletek az Isten , mint fiaival mert melyik fiú az , akit nem fenyít az apa ?
+58012009	~		Aztán : testi atyáink fenyítettek minket és becsültük őket , nem kell-e sokkal inkább engedelmeskedni a lelkek Atyjának , hogy éljünk ?
+58012025	~		Vigyázzatok el ne utasítsátok azt , aki szól ! Mert ha azok nem menekültek meg , akik a földön szólót visszautasították , sokkal kevésbé mi , ha elfordulunk attól , aki a mennyből szól ,
+58013006	mit		Úgyhogy bizakodva mondjuk : „ Az Úr az én segítségem , nem félek . Ember mit árthat nekem ? “
+59002006	~		De ti megszégyenítettétek a szegényt . Vajon nem a gazdagok hatalmaskodnak-e rajtatok , és nem ők hurcolnak-e titeket a törvény elé ?
+59002014	Mit		Mit használ , atyámfiai , ha valaki azt mondja , hogy van hite , cselekedetei pedig nincsenek ? Vajon megtartja-e őt a hit ?
+59002016a	~		és azt mondja nekik valaki közületek : „ Menjetek el békességgel , melegedjetek meg és lakjatok jól ! “ De nem adjátok meg nekik , amikre szükségük van , 
+59002016b	mit		mit használ az ?
+59002018	~		Viszont mondhatja valaki : neked hited van , nekem pedig cselekedeteim vannak . Mutasd meg nekem a te hitedet a te cselekedeteidből , és én is meg fogom mutatni neked az én cselekedeteimből az én hitemet
+59002021	~		Ábrahám , a mi atyánk nem cselekedetekből igazult-e meg , amikor fiát , Izsákot felajánlotta az oltárra ?
+59003013	Kicsoda		Kicsoda bölcs és okos közöttetek ? Mutassa meg jó magatartásával , hogy mindent bölcs szelídséggel tesz .
+59003017	~		A felülről való bölcsesség pedig először is tiszta , azután békeszerető , méltányos , engedelmes , irgalmassággal és jó gyümölcsökkel teljes , nem kételkedő és nem képmutató .
+59004001a	honnan		Honnan vannak viszályok 
+59004001b	~		és harcok közöttetek ? Nem a bennetek dúló bűnös kívánságokból erednek-e ?
+59004012	Kicsoda		Egy a törvényhozó , akinek hatalma van , hogy felmentsen vagy elmarasztaljon . Kicsoda vagy te , hogy megítéled felebarátodat ?
+59004014	mi		akik azt sem tudjátok , mit hoz a holnap , mert mi a ti életetek ? Bizony olyan , mint a pára , amely rövid ideig látszik , azután pedig eltűnik .
+60002020	micsoda		Mert micsoda dicsőség az , ha a vétkeitek miatt kapott arcul verést tűritek el ? De ha jót cselekedtek és tűritek érte a szenvedést , az kedves Isten előtt .
+60003013	Ki		Ki az , aki bántalmaz titeket , ha a jónak követői lesztek ?
+60004017	mi		Mert itt az ideje , hogy elkezdődjék az ítélet Isten háznépén , ha pedig először rajtunk kezdődik , mi lesz a vége azoknak , akik nem hisznek Isten evangéliumának ?
+60004018	hová		És ha az igaz is alig menekül meg , akkor hová lesz az istentelen és bűnös ?
+61003004	Hol		és ezt mondják : „ Hol van az ő eljövetelének ígérete ? Mert amióta az atyák elhunytak , minden ugyanúgy maradt , ahogyan a teremtés kezdetétől fogva van “ .
+61003011	milyen		Mivel mindezek így felbomlanak , milyen szentül és kegyesen kell élnetek ,
+62002022	Ki		Ki a hazug , ha nem az , aki tagadja , hogy Jézus a Krisztus ? Ez az antikrisztus , aki tagadja az Atyát és a Fiút .
+62003012	miért		Nem úgy , mint Kain , aki a gonosztól való volt , és meggyilkolta testvérét . És miért gyilkolta meg ? Mert cselekedetei gonoszok voltak , testvéréi pedig igazak .
+62003017	hogyan		Akinek pedig van miből élnie e világon , és elnézi , hogy atyjafia szükségben van , és bezárja előtte szívét , hogyan marad meg abban Isten szeretete ?
+62004020	hogyan		Ha valaki azt mondja : „ Szeretem Istent “ , de gyűlöli atyjafiát , az hazug . Mert aki nem szereti atyjafiát , akit lát , hogyan szeretheti Istent , akit nem lát ?
+62005005	Ki		Ki az , aki legyőzi a világot , ha nem az , aki hiszi , hogy Jézus az Isten Fia .
+66005002	Ki		És láttam egy erős angyalt , aki hangos szóval így kiáltott : „ Ki volna méltó arra , hogy felnyissa a könyvet és felbontsa annak pecsétjeit ? “
+66006010a	meddig		És hangos szóval kiáltottak : „ Uram , te szent és igaz vagy , meddig nem ítélsz még , 
+66006010b	~		és nem torlod meg a mi vérünket azokon , akik a földön laknak ? “
+66006017	ki		mert eljött haragjuk napja és ki állhat meg ? “
+66007013a	kik		Ekkor megszólalt az egyik vén és ezt mondta nekem : „ Kik ezek , akik fehér ruhában vannak öltözve , 
+66007013b	honnét		és honnét jöttek ? “
+66013004a	Kicsoda		És imádták a sárkányt , aki hatalmat adott a fenevadnak , és imádták a fenevadat , és ezt mondták : „ Kicsoda hasonló a fenevadhoz ? 
+66013004b	Kicsoda		Kicsoda viaskodhatna vele ? “
+66015004a	ki		Ki ne félne téged , Uram ! 
+66015004b	ki		És ki ne dicsőítené a te nevedet ? Mert csak egyedül te vagy szent . Mert eljönnek mind a pogányok és leborulnak előtted , mert ítéleteid nyilvánvalókká lettek . “
+66017007	Miért		És ezt mondta nekem az angyal : „ Miért csodálkozol ? Én megmondom neked ennek az asszonynak és a fenevadnak a titkát , amely őt hordozza , amelynek hét feje és tíz szarva van .
+66018018	~		és amikor meglátták égésének füstjét így kiáltottak : „ Van-e hasonló e nagy városhoz ? “

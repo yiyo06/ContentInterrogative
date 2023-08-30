@@ -1,0 +1,743 @@
+40002002	~		Bé ŋe bú túmé o húle báta baacɔ anyía bé beébe tóŋínyi haála ehé bé meé bíéne otéŋí u Besuif . Yááŋa anyía bá ŋa bɔ́ lɛ́cáka hííyé hinjoti á nɔ́maka náábɔ́ a aháŋá yɛ́ nyɛháma nyɛ́ ɔɔ́cɔ́ , buátɛ́ bɔkɔ bá ŋga bɔ́ hátɔ́kɔ́na o okoó wuúci lɛca , anyía bébú wuúci nyemíki .
+40002004	Háányɛ́		Aáná u ŋɔɔ́ lɔ́ŋɔ́kɔ́ ne betéŋínyi beluli nyiínjie bekime ne beékúnyi bikotí bá búáyɛ́ bunɔŋɔ . Bá ŋa bɔ́ fáákɔ́na , mbá ɔsɛ náábɔ́ : « Háányɛ́ bá á nyɛ́mana bé obíéne Mesíi e ? »
+40003007	aányɛ́		Ayɛ́ Sáaŋ ŋaá bá wá lɛ́caka anyía na Bafalisiɛ́ŋ na Basatusiɛ́ŋ beéŋí ŋa bɔ́ fáaya nááyá anyía wé beébe ootókíne , u ŋé túme o beébe laana ɔsɛ : « Banɔ́ , baáná bá ɛhɛ́nyɛ eebe , aányɛ́ ú ŋa banɔ́ eékúnyi ɔcabɛna nyɛkála nyɛ́ Bandɔ́mɛsɛ́ a nyɛ́ ŋa fáakɔna e ? Tɛ́ cáŋa yaŋɔ́ʼo !
+40005013	anyána		« Banɔ́ , nua nɔ́ŋa makɛ́lɛ́ ma ɔmɛsɛ́ ooci ; mbá mbɔ́kɔ makɛ́lɛ́ ŋá sɔ́lá , mé ti soómo , anyána bááŋa bá ɔ háná meéme soomisiki e ? Me ti ŋé túné ɔ yɔɔ́lɔ ɔkɛlɛna a bɔkɔ ; bé ŋeé meéme oombóko , baacɔ bé o meéme nɔsɔkɛna .
+40005046	bɛ́yaátɛ́		Yááŋa anyía mbɔ́kɔ nu ŋe nú léne hú baacɔ a bá ŋa bɔ́ banɔ́ léne , bɛnamá bɛ́yaátɛ́ nu ŋa nɔ́ tata e ? Te betúé etéési ŋa bɔ́ kɛ́la híáná .
+40005047	aátɛ́		Mbɔ́kɔ nu ŋe nú téŋí hú báánɔ́ benyíinyí , aátɛ́ e yekenyí nu ŋa nɔ́ kɛla e ? Te be-ti-menyí Bandɔ́mɛsɛ́ áyá ŋa bɔ́ kɛla híáná .
+40006027	aányɛ́		Aá banɔ́ eebe , aányɛ́ wáŋa wu osolinyi ta buɔ́sɛ́ bɔ́mɔtɛ́ e úúyé olíhe ɔ ɔbɛ́ákɛ́na awɔ́ ú ŋa bɛ́ákɛ́na e ?
+40006028	anyíatɛ́		Mbá anyíatɛ́ nú ŋa nɔ́ bɛ́ákɛ́na aná a asana na bɛlaŋa bɛ́ ɔlaŋabaka e ? Ánɔ lɛcáka bɔmbányɛ bɛsama bí bihuti bɛ́ bɛtúalɔ́ : Bɛ́ tɛ ŋɔ́ nyiɔ buólí , bɛ́ tɛ tábɔ́na bɛlaŋa .
+40006031a	aátɛ́		Nɔtɛ bɛ́ákákɛ́na aná , nɔ kɔɔnaka nɔsɛ : “ Aátɛ́ tú ŋa sɔ́ nyíáka e ; 
+40006031b	aátɛ́		na aátɛ́ tú ŋa sɔ́ muaka e ? 
+40006031c	aátɛ́		Ta anyía aátɛ́ tú ŋa sɔ́ láŋabaka e ? ”
+40007003	Anyána		Huúúʼ ! Anyána ɔ ŋɔɔ́ lɛca efumbú a yááŋa eé nyiíse nyɛ́ sɔ́ɔ́kɔ́ , a tɛ lɛca bɔɔtɛ́ a búáŋa a nyiɔ́wɔ e ?
+40007004	anyána		Ta anyía anyána ɔ ŋɔɔ́ laana sɔ́ɔ́kɔ́ asɛ : “ Ɔ́ɔ́kɔ , yámɛ ɔ waáŋía efumbú eé nyiíse ” , yiíye anyía bɔɔtɛ́ áŋa a nyiɔ́wɔ e ?
+40007009	Aányɛ́		Aányɛ́ síkíne cɛ baáná aanɔ́ ɛ ɛkatɛ́katɛ́ áŋa wu owiínjie uúyé ɔɔ́nɔ́ nyɛndányɛ́ , mbɔ́kɔ ɔɔ́nɔ́ ŋeé wuúci kɔ́ŋɛ́na bɔkɔ bɔ́ ɔnyíá e ?
+40007016a	~		Banɔ́ bɛ́muátá nu ké nú beébe menyukune a maabɔ́ mekilíkínyí . Yááŋa anyíaʼo , bá naŋa bá tɛ á káta tɔlɔndɔ a yaanda yɛ́ ɛsándá , 
+40007016b	~		te bitoli a nyɛliaŋɛ .
+40008026	Anyíatɛ́		Mbá ɔsɛ : « Anyíatɛ́ nu ŋe nú líkíme e ? Ééʼ , úúnú olumitinine áŋa ɔcɔ́ɔ́cɔ́ ! » Aáná u ŋá hátɔ́na ɛndánáka , u ŋé síséke ne ehúne na nuɔmɔ́ ; mbuumu a ciáŋá nyɛfaaya eényí .
+40008027	yaátɛ́		Baacɔ bekime ŋe bú kékéke , bé ŋe túme ɔkɔɔna báyɛ : « Nyɛnamá nyɛ́ ɔɔcɔ nyɛ́ yaátɛ́ eényí enyí te ehúne , ta nuɔmɔ́ ŋa lɔ́kɔ́mɛ́na e ? »
+40008029	asana a yaátɛ́		Aáná bé ŋe bú túme ɔbɔmɔ okelú ɔ ɔmuaná , bá kɔ́ɔnaka báyɛ : « Ɔɔ́nɔ́ u Bandɔ́mɛsɛ́ é , asana a yaátɛ́ yááŋa na basɔ́ na kuɔŋɔ́ e ? Ɔ ŋɔɔ́ faáya aaha anyía ɔ́ kɔɔ́ basɔ́ iínjíékíne muuyé ekúlú tɛ́ka na ɔnyɛmana e ? »
+40009004	Anyíatɛ́		U ŋé ményí cííbú ibíkéti , mbá ɔsɛ náábɔ́ : « Anyíatɛ́ nua nɔ́ŋa na bɛɛbɛ́ bí ibíkéti eébí aáná e ?
+40009005	Aátɛ́		Aátɛ́ yɛ́ ŋa hɔ́la ɔnata e ? Ɔkɔɔna anyía : “ Ɛ́ mɔ mɛ́ ɔ nyɛanɛna mɔɔwɔ maabɛ́ ” , ayɛ́ʼ ɔkɔɔna anyía : “ Hatɔ́na ɛndánáka , kandáka ” e ?
+40009011	Anyíatɛ́		Ɛ́makɛ́la Bafalisiɛ́ŋ ábɔ́ lɛ́cá aáná , bá ŋá batá bááyɛ́ baákɔ́nɛ́na báyɛ : « Anyíatɛ́ muanɔ́ muékúnyi ŋeé nyíényi ne betúé etéési na bakɛla maabɛ́ bé etémbí e ? »
+40009014	Anyíatɛ́		Baákɔ́nɛ́na bá Sáaŋ Batis ŋe bú bíkósíti né Yésus , mbá báyɛ nááyá : « Anyíatɛ́ na basɔ́ na Bafalisiɛ́ŋ tú naŋa tuésú bíkíilieke ɔnyíá bɛnyɛ́ma , mbá bɔ́ɔ́wɔ baákɔ́nɛ́na tɛ ŋa bɔ́ kɛla aáná e ? »
+40009015	~		Mbá Yésus ɔsɛ náábɔ́ : « Nu ŋe nú bíkéti anyía baacɔ abá bɔ́ lɔ́ŋɔ́kɔ e nusíke á bɔ́ŋa bó súlubueke ekúlú ekime ayɛ́ ɔnɔ́mɛ áŋa ne beébe e ? Mbá ekúlú káá fáaya ayɛ́ baacɔ ká bɔ́ sɔ́mɔ ɔnɔ́mɛ ɛ ɛkatɛ́katɛ́ ci nusíke ; aáná bé ké bú bíkíilie ɔnyíá . »
+40010025	anyána		Bú ŋá nyɛmána yáaŋa anyía muákɔ́nɛ́na á háma bɔkɔ búmɔtɛ́ háyɛ muayɛ́ muékúnyi ; munyiɔnɔ tɔ́na mɔ́ háma bɔkɔ búmɔtɛ́ háyɛ ciayɛ́ síkíne ci buólí . Mbɔ́kɔ bé ŋe yíínjie mutéŋínyi ciíbe cɛ baacɔ nyiínyi anyía Bɛlɛsɛbúl , mbá anyána aná na baacɔ bá ciayɛ́ ciíbe cɛ baacɔ e ? »
+40011007	Aátɛ́		Ɛ́makɛ́la baákɔ́nɛ́na bá Sáaŋ Batis ébú súété , mbá Yésus a asana yɛ́ Sáaŋ ɔsɛ ná baacɔ bá nyɛkɔca : « Aátɛ́ nɔ́ ŋa nɔ́ bá nuanɔ́ áambaka ɔkɔlɛ́ca , ekúlú ayɛ́ nɔ́ ŋa nɔ́ cɔ́ba i iisí cɛ ɔsɛ́bɛ́á e ? Nɔtɔŋɔtɔ́ŋɔ́ enú ehúne ŋeé fúke ayɛ́ʼ ?
+40011008	Aátɛ́		Aátɛ́ nɔ́ ŋa nɔ́ bá nuanɔ́ áambaka ɔkɔlɛ́ca aná e ? Ɔɔcɔ awɔ́ ú maa láŋabaka bɔmbányɛ e ? Eéʼeé , anyía baacɔ a bá ŋa bɔ́ láŋaba bɔmbányɛ ŋe bú líhe bɔmbányɛ eé meébe me betéŋí .
+40011009	aátɛ́		Mbá aátɛ́ aná nɔ́ ŋa nɔ́ bá nuanɔ́ áambaka ɔkɔlɛ́ca e ? Muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ e ? Ɛ́ɛ , ɛ ŋa mɛ́ banɔ́ láana anyía u ŋa hɔ́la muhémúnyi bɛsana .
+40011016	aányɛ́		Ná aányɛ́ ya mɛ́ŋa wu oketi baacɔ bá hɛɛya eehi e ? Bá ŋa bɔ́ hɔ́á banásɛ́ a bɔ́mɔtɛ́ a bá bɔ́ŋa limekine a nɔháatɛ́ ; beébe eébé bá ŋa bɔ́ láákɛ́na bɔsɔ́ɔ́kɔ́ báyɛ :
+40012011	~		Mbá ɔsɛ : « Mbɔ́kɔ ɔɔcɔ náánɔ́ áŋa hú na ɛtɔ́mbá ɛ́mɔtɛ́ , mbá ɛtɔ́mbá eécí kua a nɔɔfia noómi buɔ́sɛ́ bú ehélúme , tɛ́ka ɔɔcɔ ooci káá yáambaka ohónyí okime wú ohémúnyi ciayɛ́ ɛtɔ́mbá a nɔɔfia e ?
+40012026	anyána		Ɛ́ɛhɛ́ , mbɔ́kɔ Sátan ŋeé bíhémúnyi , anyána búáyɛ́ butéŋí áŋa bú ɔcɔcɔbaka ne buúse e , anyía u ŋeé bínúusi wuúci bɛ́muátá .
+40012027	aányɛ́		A nyíánɔ́ nyɛkɔɔna , yaŋɔ́ i ŋeé mi hémúnyi bɛɛbɛ́ bí bililé a baacɔ anyía Bɛlɛsɛbúl u náŋa weé mi íínjíékíne makɛ́nda . Ɛ́ɛ , mbá banɔ́ʼo , aányɛ́ u naŋa we yíínjíékíne báánɔ́ baacɔ makɛ́nda me o biíbi hémúkúnyi e ? Tɛ́ka báánɔ́ baacɔ bá bɛ́muátá ŋe bú tóŋínyi anyía nua nɔ́ŋa a nyɛkua e ?
+40012029	~		Ɔɔcɔ tɛ á bá wu owoofine eé ciíbe cɛ ɔkɛndákɛ́nda , yɔ́ hɔ́ɔkɔ bíáyɛ́ bɛnyɛ́ma , tɛ́ka na ɔcaŋácáŋa o wuúci hatɛna , yó wuúci ɔ́ɔ́tɔ́kɔ́kɔ , mbá u síke hɔ́lakana bɛnyɛ́ma bikime bí ciíbe .
+40012034	anyána		Banɔ́ bɔnyɛ ɛhɛ́nyɛ eebu , anyána , banɔ́ abá nua nɔ́ŋa bɛɛbɛ́ bɛ́ baacɔ , nua nɔ́ŋa nu ɔkɔɔnaka bɛmbányɛ bɛ́ bɛsana e ? Yááŋa anyía nyuúté ŋe hémúnyi bɛsana e bí mó nyióyóko ɔ ɔtɛ́má hú mbiɔ́kɛ .
+40012048a	Aányɛ́		Mbá ɔsɛ : « Aányɛ́ wáŋa ciamɛ iinyí , 
+40012048b	báányɛ́		báányɛ́ á bɔ́ŋa báámɛ benyíinyí e ? »
+40013010	Anyíatɛ́		Bááyɛ́ baákɔ́nɛ́na ŋe bú bíkósíti nááyá , bé ŋe wuúci batá báyɛ : « Anyíatɛ́ ɔ nɔŋɔ o otúmékíne baacɔ ɛnjaba e ? »
+40013027	háányɛ́		Aáná bɔnyiɔnɔ bá ɔɔcɔ oócí ŋa bɔ́ fááya , bó wuúci bata báyɛ : “ Taatá , tu ŋe sú bíkéti tɔsɛ ɔ ŋɔɔ́ wɔ́ɔ́nɔ́kɔ bɛmbányɛ bɛ́ bɛnyɛ́ma oówo e esíéné ; mbá háányɛ́ aabɛ́ yí ehuti ŋeé hule e ? ”
+40013054a	Háányɛ́		u ŋá cɔ́ba a bálɛ́ka cɛ Násalɛt acɛ́ u ŋa kɔ́mákɛ́na . U ŋé túme oweékúnyi baacɔ Bɛsana bɛ́ Bandɔ́mɛsɛ́ a yáábɔ́ andaŋía yɛ́ ɔbɛ́cɔ́kɔ́lɛ́na . Nyiékúnyi eényí ŋeé kékísíki baacɔ , bá kɔɔnaka báyɛ : « Háányɛ́ omenyi ooci ŋé wuúci húlíne e ? 
+40013054b	Aányɛ́		Aányɛ́ u ŋe wuúci iínjie makɛ́nda ma ɔkɛlaka bikéki bɛ́ bɛsana eebi aáná e ?
+40013056	aányɛ́		Ɔ́kɔ , tɛ́ka benyíinyí e beénjú á bɔ́ŋa aaha bekime na basɔ́ e ? Mbá aányɛ́ aná u ŋe wuúci iínjie ne injiŋé eeci na makɛ́nda eeme e ? »
+40014031	anyíatɛ́		Hú a yaátɛ́ ekúlú , Yésus ŋé sundúne ɔɔbɔ́ , u ŋé tímbie Bíel , mbá ɔsɛ nááyá : « Kuɔŋɔ́ , ɔɔcɔ u olumitinine a wɔ́cɔ́ɔ́cɔ́ ; anyíatɛ́ ó moó suŋunyiki e ? »
+40015002	Anyíatɛ́		« Anyíatɛ́ bɔ́ɔ́wɔ baákɔ́nɛ́na tɛ ŋá bɔ́ látɛ́na bɛsana bí bokóo e ? Bá ŋa bɔ́ nyíá bɛnyɛ́ma bɛ́ ɔnyíá tɛ́ka na ɔbɛ́sua aabá . »
+40015003	Anyíatɛ́		U ŋe beébe bɛ́kámá ɔsɛ : « Banɔ́ʼo ? Anyíatɛ́ nu tɛ ŋá nɔ́ látɛ́na bikotí bɛ́ Bandɔ́mɛsɛ́ , nɔ látákɛ́na yáaŋa bíánɔ́ bɛsana bí bokóo e ?
+40015033	Háányɛ́		Baákɔ́nɛ́na ŋe bú wuúci bata báyɛ : « Háányɛ́ tua sɔ́ŋa tuɔ́ bɔ́ŋgɔ́na biléti bí otúkékíne baacɔ eebe bekime , bó weécéke aaha a atúalɔ́ etémbí e ? »
+40015034	bínyie		Yésus ɔsɛ : « Biléti bínyie nua nɔ́ŋa ne biíbi e ? » Báyɛ : « Bítíndétú nɔ́mɔ ; tua sɔ́ŋa tɔ́na hú na tuɔfɔ́ɔ́fɔ́ . »
+40016008	anyíatɛ́		Mbá Yésus ŋee ményi aátɛ́ bé ŋe bú bílúmínyi , mbá ɔsɛ náábɔ́ : « Banɔ́ baacɔ bé olumitinine ɔ wɔ́cɔ́ɔ́cɔ́ , anyíatɛ́ nu ŋe nú bílúmínyi anyía “ Yáakɛlá u ŋa táŋa aáná anyía tu ti ómo sú híite biléti ” e ?
+40016009	túnyie		Ɛ́cɛ anyía nu tɛ ŋá nɔ́ lɔ́kɔ́ma bɔmbányɛ e ? Nú ma nɔ́ bɛ́hɔ́ya asana yí ne biléti bɛ́táánɔ abɛ́ baacɔ tɔ́sɛ́na ɛ́táánɔ ŋa bɔ́ nyíáká na tɔnjatɛ́ túnyie atɔ́ nu ŋa nɔ́ bándáká tunyíóyókónú ne bikélékéti a bɛ́ ŋɔ lɔ́bɔ́kɔ e ?
+40016010a	~		Nú ma nɔ́ bɛ́hɔ́ya tɔ́na asana yí biléti bítíndétú nɔ́mɔ abɛ́ baacɔ tɔ́sɛ́na ínyíse ŋa bɔ́ nyíáká 
+40016010b	~		na tɔnjatɛ́ túnyie atɔ́ nɔ́ ŋa nɔ́ bándáká tunyíóyókónú ne bikélékéti a bɛ́ ŋɔ lɔ́bɔ́kɔ e ?
+40016011	anyíatɛ́		Mbá anyíatɛ́ nú tɛ ɔ́mɔ nɔ́ lɔ́kɔ́ma anyía tɛ́ cáŋa asana yí biléti yámɛ bá yámɛ táŋáka , ekúlú ayɛ́ yámɛ banɔ́ láakɛna anyía énu bíkékényíki bɔmbányɛ ne enutisi oŋuŋe yɛ́ na Bafalisiɛ́ŋ na Basatusiɛ́ŋ e ? »
+40016013	aányɛ́		Ɛ́makɛ́la Yésus á kaáhámá i iisí a cɛ́áŋa hoóhi na Sɛsalɛ́ɛ ci Fílib , yɔ́ batá bááyɛ́ baákɔ́nɛ́na ɔsɛ : « Baacɔ ŋe bú bíkéti báyɛ yaŋɔ́ , Ɔɔ́nɔ́ u ɔɔcɔ , ya mɛ́ŋa aányɛ́ e ? »
+40016015a	~		Mbá ɔsɛ : « Mbá banɔ́ʼo , 
+40016015b	aányɛ́		nɔsɛ ya mɛ́ŋa aányɛ́ e ? »
+40016026a	yaátɛ́		Bɔmbányɛ bɔ́ yaátɛ́ ɔɔcɔ ŋa lɛ́ca ekúlú ayɛ́ wá yáambaka yɔ́ bɔ́ŋɔ buŋaŋa bɔ́ ɔmɛsɛ́ bukime , mbɔ́kɔ u ŋeé nyímísi úúyé olíhe e ? 
+40016026b	aátɛ́		Na aátɛ́ aná wáŋa wu ɔháŋɔ́náka úúyé olíhe e ?
+40017010	anyíatɛ́		Baákɔ́nɛ́na ŋe bú wuúci bata báyɛ : « Mbá anyíatɛ́ beékúnyi bikotí naŋa bábɔ́ kɔ́ɔ́naka anyía Éli káá cáŋa ɔfaaya ne Mesíi e ? »
+40017017a	nyíényí		Mbá Yésus ɔsɛ : « Ééʼ , banɔ́ bɛɛbɛ́ bɛ́ baacɔ eebe , nu tɛ ŋá nɔ́ háya mɔŋɔlɛ́ ná Bandɔ́mɛsɛ́ ! Ɔ ɔkɔɔ́háma nyíényí ɛ ká mɛ́ bá ɔlɔŋɔ na banɔ́ e ? 
+40017017b	nyíényí		Ɔ ɔkɔɔ́háma nyíényí ɛ ká mɛ́ banɔ́ ééhíkínyínyi e ? Énu mi héléníne ɔɔ́nɔmbɔ́ oócí aaha . »
+40017019	Anyíatɛ́		Baákɔ́nɛ́na ŋe bú bíkósíti né Yésus , beébe hú wáábɔ́ , bé ŋé wuúci batá báyɛ : « Anyíatɛ́ yiíliíli eéyé á basɔ́ yáka ohémúnyi e ? »
+40017025a	anyána		Bíel ŋaá bɛ́káma ɔsɛ : « Eéʼeé , u naŋa wɔ yɔɔ́ndɔ́kɔ . » Ekúlú ayɛ́ u ŋgá háma o ooki , Yésus ŋa cáŋa táŋɛ́ta ɔsɛ : « Símon , anyána ɔ ŋɔɔ́ lɛca e ? 
+40017025b	Báányɛ́		Báányɛ́ bábɔ́ nyɛmána bá ɔwɔɔ́ndɔ́kɔ etéési né betéŋí bá ɔmɛsɛ́ e ? Bɔnyɛ otéŋí ayɛ́ʼ baacɔ bé etémbí e ? »
+40018001	Aányɛ́		E ekúlú eéyé , baákɔ́nɛ́na ŋe bú bíkósíti né Yésus , bé ŋe wuúci batá báyɛ : « Aányɛ́ wáŋa waáŋá ɔ ɔhɔla baacɔ bekime e Butéŋí bɔ́ Ɔmuaná e ? »
+40018012	Aátɛ́		Aátɛ́ nu ŋa nɔ́ bɛ́táá e ? Túá kɔɔna anyía ɔɔcɔ a wɔmɔtɛ́ áŋa na ɛtɔ́mbá etíne atáánɔ . Ɛ́mɔtɛ́ é nyime , ɔ́kɔ , tɛ́ka ɔɔcɔ oócí káá nyɛ́ana etíne ényíse ne imbuke buunyi ne ínyíse bímuócí a nɔkɔndɔ ɔ ɔmuaná anyía wá caŋá ka yáambaka e cinyíménú e ?
+40018021	bínyie		Bíel ŋeé bíkósíti né Yésus , mbá ɔsɛ : « Taatá , bikúlú bínyie yámɛ nyɛmána wu ɔnyɛanakɛna uumi onyíinyí awɔ́ u ŋá mɛ kɛla bɛsana a bɛɛbɛ́ e ? Ɔ́kɔ , tɛ́ka ɔ ɔkɔɔ́háma bikúlú bítíndétú nɔ́mɔ e ? »
+40019007	Anyíatɛ́		Bafalisiɛ́ŋ ŋá háná bata báyɛ : « Anyíatɛ́ aná Moyís ŋe yíínjie ɔnɔ́mɛ makɛ́nda me owiínjie nufule nɔ́ ɔwaálɔ́na nyɛtɔ́nɔ́ né oónyí anyía wé wuúci kine e ? »
+40019016	aátɛ́		Ɔɔcɔ a wɔmɔtɛ́ ŋeé bíkósíti né Yésus , yó wuúci bata ɔsɛ : « Muékúnyi , aátɛ́ a yambányɛ yámɛ nyɛmána wu ɔkɛlaka anyía yámɛ bɔ́ŋɔ yɔɔ́sɔɔ́sɔ yí olíhe yí ekúlú ekime e ? »
+40019017	Anyíatɛ́		Yésus ŋé wuúci bɛ́káma ɔsɛ : « Anyíatɛ́ ɔ ŋɔ mɛ bata asana a yambányɛ yɛ́ ɔkɛlaka e ? Ambányɛ yɛ́ ɔɔcɔ áŋa hú ɔmɔtɛ́ . Mbɔ́kɔ ɔ ŋɔɔ́ waamba ɔbɔ́ŋɔ olíhe , látákɛ́na bikotí . »
+40019018	háányɛ́		Ɔɔcɔ oócí ɔsɛ : « Bikotí bɛ́ háányɛ́ e ? » Yésus ɔsɛ : « Atɛ ɔ́ɔ́nɔ ɔɔcɔ ; atɛ kandáka tusɔmɔ ; eti éébe ; atɛ sɔ́mbɛ́na ɔɔcɔ asana ;
+40019020	aátɛ́		Mbá ɔnɔ́kɔ́ yɛ́ ɔɔcɔ yɛ́sɛ né Yésus : « Ya mɛ́ŋa ɔlátákɛ́nánɔ́ bikotí eébí bikime ; aátɛ́ yí etémbí yɛ́ ŋaá mɛ bɛ́ámbɛ́na ɔkɛla e ? »
+40019025	aányɛ́		Ɛ́makɛ́la baákɔ́nɛ́na ábɔ́ lɔ́kɔ́máká aáná , bé ŋe kéké buéŋí , mbá báyɛ : « Mbá aáháʼo , aányɛ́ wáŋa wu ɔnɔhɔ aná e ? »
+40019027	aátɛ́		Aáná Bíel ŋa bátá Yésus ɔsɛ : « Ɛ́náʼo , basɔ́ abá tu ŋa sɔ́ bɛ́yuátáka bíásɔ́ bɛnyɛ́ma bikime , túɔ́ kuɔŋɔ́ látákaʼoo ; aátɛ́ tu ká sɔ́ bɔ́ŋgɔ́na e ? »
+40020006	Anyíatɛ́		E elime , hoóhi ne injéŋí ɛ́táánɔ cɛ nanyiɔ́fɔ́ , u ŋá háná cɔ́ba ɔ ɔkɔwáamba bɔnyiɔnɔ bé etémbí ; yɔ́ lɛca baacɔ a bɔ́mɔtɛ́ tɔ́na tálɛ́mákɛ́na a kɛbalɛ . U ŋé beébe bata ɔsɛ : “ Anyíatɛ́ nú ŋe nú húlísi buɔ́sɛ́ bukimekime talɛ́mákɛ́na aáhá , nu tɛ nyiɔ buólí e ? ”
+40020012	~		báyɛ : “ Bɔnyiɔnɔ bé elime eebe ŋa bɔ́ nyíɔ́kɔ hú onjéŋí ɔ́mɔtɛ́ , ó moó beébe namaka bɔkɔ búmɔtɛ́ na basɔ́ ebé tú me sú eéhínyínyi na ɔtɔmbɔ na ɔɔ́cɔ́ ú buɔ́sɛ́ bukimekime . ”
+40020021	Aátɛ́		Yésus ŋeé wuúci batá ɔsɛ : « Aátɛ́ ɔ ŋɔɔ́ waamba e ? » Mbá oónjú ɔsɛ : « Mɛ bɛ́tánɛ́na anyía báámɛ baáná béfendí eebe ké ké bú límine ɔɔ́wɔ a maabána ; ooci e nyilimíné a aháŋá yí uúwu ɔɔbɔ́ ú manɔ́mɛ , ooci a wɔmɔtɛ́ e nyilimíné a aháŋá yí uúwu ɔɔbɔ́ ú meényi ekúlú ayɛ́ ɔ kɔ́ɔ́ bá o otéŋínyi baacɔ . »
+40020032	Aátɛ́		Aáná Yésus ŋáa tálɛ́mɛ́ná , u ŋe beébe lɔ́ŋɛ́tá , mbá ɔsɛ : « Aátɛ́ nu ŋa nɔ́ áamba anyía yámɛ banɔ́ kɛ́la e ? »
+40021010	aányɛ́		Ɛŋakɛlá Yésus e yóófíne eé Yelúsalɛm , ci ŋé bínyíétínyi , baacɔ beéŋí bataka báyɛ : « Mbá aányɛ́ ooci wáŋa e ? »
+40021016	~		Bá ŋa bɔ́ bátá Yésus báyɛ : « Mbá ɔ ŋɔɔ́ lɔ́kɔ́ma háyɛ banásɛ́ eebe ŋa bɔ́ kɔɔna e ? » Mbá ɔsɛ : « Ɛ́ɛ , ɛ ŋaá mɛ lɔ́kɔ́ma , mbá banɔ́ , nɔ́ tɛ ŋá nɔ́ fána ta buɔ́sɛ́ mehúnyi amá Ciɔɔ́ŋɛ́ ŋa kɔ́ɔna másɛ : “ Ɔ ŋɔɔ́ kɛláka anyía na banásɛ́ ne iŋéné áyá ébú o nyemíki ” e ? »
+40021020	Anyána		Ahɛ́ baákɔ́nɛ́na ŋa bɔ́ lɛ́cá aáná , bé ŋé kéke buéŋí , mbá báyɛ né Yésus : « Anyána bufikié eebu ma kɔ́táka ɔkɔ́táka aana e ? »
+40021023a	háányɛ́		Yésus ŋaá cɔ́ba eé Ciíbe cɛ Bandɔ́mɛsɛ́ , u ŋé túme oweékúnyi baacɔ . Aáná ne betéŋínyi beluli nyiínjie na baáŋá bé Besuif ŋa bɔ́ fáaya nááyá , mbá báyɛ : « Na makɛ́nda ma háányɛ́ ɔ ŋɔɔ́ kɛla bɛsana e ? 
+40021023b	Aányɛ́		Aányɛ́ ú ŋo yóo cuméke makɛ́nda me o biíbi kɛlaka e ? »
+40021025a	~		Ánɔ mɛ laána : Bandɔ́mɛsɛ́ u ŋaá tɔ́ma Sáaŋ o okowóotine baacɔ ayɛ́ʼ baacɔ e ? » Bé ŋé túme osuŋunyinyi beébe ne beébe báyɛ : 
+40021025b	~		« Mbɔ́kɔ túásɔ́ bɛ́káma anyía Bandɔ́mɛsɛ́ u ŋaá tɔ́má Sáaŋ o okowóotine baacɔ , keyé u ŋaá basɔ́ bata ɔsɛ : 
+40021025c	Anyíatɛ́		“ Anyíatɛ́ nú ti ómo nú wuúci lumitinine aná e ? ”
+40021028	Anyána		Yésus ŋoo sólínyi ɔsɛ : « Anyána nú ŋa nɔ́ lɛ́ca asana eeye e ? Ɔɔcɔ a wɔmɔtɛ́ ŋaá bá na bááyɛ́ baáná a banɔ́mɔcɔ́ béfendí . U ŋɔ́ lɔ́ŋɛ́ta u buúse , u ŋé wuúci laána ɔsɛ : “ Ɔɔ́nɔ́ , cɔbá hɛ́nánɔ e esíéné ɔ ɔkɔɔ́nyiɔ buólí . ”
+40021031	háányɛ́		A baáná eébé béfendí , sɔ́ɔ́kɔ́ u háányɛ́ u ŋaá kɛ́láka nyiléne nyí síkíne e ? » Mbá báyɛ : « Sɔ́ɔ́kɔ́ u buúse u ŋaá kɛ́láka nyiléne nyí síkíne . » Mbá Yésus ɔsɛ : « Ɛ ŋa mɛ́ banɔ́ láana aá taaká anyía ne betúé etéési ne bekendí bé beénjú ká bɔ́ cáŋa owoofokine e Butéŋí bɔ́ Bandɔ́mɛsɛ́ na banɔ́ .
+40021040	aátɛ́		Mbá Yésus ɔsɛ : « Ekúlú eyí muútí esíéné káá fáaya a yááyɛ́ esíéné , aátɛ́ mu káá kɛ́laka betétényi esíéné eébé e ? »
+40022012	anyána		Mbá ɔsɛ nááyá : “ Aláamɛ , anyána ɔ́ɔ kɛlaka o owoofine aaha , kuɔŋɔ́ tɛ́ka na bɔlaka bɔ́ nyɛtɔ́nɔ́ e ? ” Mbá ɔɔcɔ te o wuúci ɔbɛ́káma .
+40022017	~		Ɔ́ɔ basɔ́ laána aná : Ɔ nyiɔ́wɔ , yááŋa ambányɛ yɛ́ asana a bíásɔ́ bikotí anyía tu ŋa sɔ́ nyɛ́mána tú ɔwɔɔ́ndɔ́kɔ etéési ná Sɛsáal , ayɛ́ʼ yɛ́ tɛ á bá ambányɛ e ? »
+40022018	anyíatɛ́		Mbá , u ŋaá bá weé ményukune máábɔ́ menjiŋé , mbá ɔsɛ náábɔ́ : « Banɔ́ , baacɔ bá tɔbɛ́mbɛ túfendí eebe , anyíatɛ́ nɔ́ ŋa nɔ́ mɛ bɛ́tɔ́ɔ́lɛ́na e ?
+40022020a	aányɛ́		Mbá ɔsɛ náábɔ́ : « Hibílícínyínyí hɛ́ aányɛ́ eehi hɛ́áŋa , 
+40022020b	~		ne nyiínyi eenyi e ? »
+40022028	háányɛ́		Yaátɛ́ asana tu ŋa sɔ́ ɔ bata anyía : E ekúlú eyí biwéewé káá háanyuaka , sɔ́ɔ́kɔ́ awɔ́ háányɛ́ u káá bá ɔnɔ́mɛ u oónjú oócí aná e ? Yááŋa anyía bekime bétíndétú nɔ́mɔ ŋe bú wuúci bátɛ́ákɛ́ná . »
+40022036	háányɛ́		« Muékúnyi , okotí ayɛ́ háányɛ́ yá hɔ́la bikotí bikime e ? »
+40022042a	Aátɛ́		ɔsɛ : « Aátɛ́ nu ŋe nú bíkéti a asana ne Mesíi e ? A nyíánɔ́ , 
+40022042b	aányɛ́		Mesíi áŋa u bɔnyɛ aányɛ́ e ? » Mbá báyɛ nááyá : « Wáŋa u bɔnyɛ Táfit . »
+40022043	Anyíatɛ́		Mbá ɔsɛ : « Anyíatɛ́ aná Táfit , ekúlú eyí Efúúménénú yí Elilé ŋeé wuúci oofíne aá cɛɛ́tɔ , ŋɔɔ́ lɔ́ŋɛ́tá Mesíi ɔsɛ : “ Uumi Otéŋí a Waáŋá ” e ? Yááŋa anyía Táfit ŋaá kɔ́ɔ́na ɔsɛ :
+40022045	anyána		Mbɔ́kɔ Táfit ŋeé wuúci lɔ́ŋɔ anyía uuyé Otéŋí a Waáŋá , anyána aná wáŋa wu ɔbá tɔ́na u bɔnyɛ Táfit e ? »
+40023017	aátɛ́		Nua nɔ́ŋa bɛála , banɔ́ bendíméndíme ! A nyíánɔ́ʼo , ne kóolo ne Ciíbe cɛ Bandɔ́mɛsɛ́ , aátɛ́ yááŋa yaáŋá ɔ ɔhɔla e , kóolo ayɛ́ʼ Ciíbe cɛ Bandɔ́mɛsɛ́ e cí ŋe fúúmínyi kóolo e ?
+40023019	aátɛ́		Nua nɔ́ŋa bendíméndíme ɔ ɔhɔla ! A nyíánɔ́ʼo , ne nyindúmé nyí nyiluli ne nyiínjie , aátɛ́ yááŋa yaáŋá ɔ ɔhɔla e , nyiínjie ayɛ́ʼ nyindúmé e nyí ŋe fúúmínyi nyiínjie e ?
+40023033	~		Banɔ́ mɔɔ́hɔ eeme , bɔnyɛ ɛhɛ́nyɛ , énu menyúkúne bɔmbányɛ anyía nu tɛ anɔ́ bá nú ɔsámbáka bɔ́nɔ́sɛa cɛ Bandɔ́mɛsɛ́ .
+40024003a	Nyíényí		Yésus ŋé ke límíne ɔ ɔmɛsɛ́ a nɔkɔndɔ nú Molifié . Bááyɛ́ baákɔ́nɛ́na ŋe bú wuúci súéténé a mafákálɛ́ana , bé ŋé wuúci báta , báyɛ : « Ɔ́ɔ basɔ́ láána : Nyíényí bɛsana eébí káá bɛ́kɛ́láka , 
+40024003b	yaátɛ́		hibílícínyínyí hɛ́ yaátɛ́ hí kóó tóŋínyi na nyiɔ́wɔ nyɛkahálɔ́mɔ́na na nyɛmana nyɛ́ ɔmɛsɛ́ e ? »
+40024045	~		« Munyiɔnɔ a muáŋa ne injiŋé , u nyíóyísíkínyi bɛsana , áŋa munyiɔnɔ eemu emú uuyé waáŋá ŋe wuúci télímínyi ne o otétényi ciíbe ne o owiínjie bɔnyiɔnɔ bé etémbí bɛnyɛ́ma bɛ́ ɔnyíá hí e bikúlú a bɛ́ á nyɛ́mana .
+40025037	nyíényí		Aáná bɛtálɛ́mánánɔ́ bɛ́ baacɔ eébé ké bú wuúci báta báyɛ : “ Háá ! Otéŋí a Waáŋá , nyíényí tu ŋa sɔ́ ɔ lɛcáka ɛcaná ɔ́ yɔ́ɔ nuakɛna , tuɔ́ kuɔŋɔ́ aafakɛna e , kuɔŋɔ́ ne nyimóti , tuɔ́ kuɔŋɔ́ íínjíékíne menyífé ma ɔmúá e ?
+40025038	~		Kuɔŋɔ́ okenyí , tuɔ́ kuɔŋɔ́ káháka e , kuɔŋɔ́ cɛɛ́tɔ etémbí tuɔ́ kuɔŋɔ́ laŋáka e ?
+40025039	Nyíényí		Nyíényí ɔ ŋɔɔ́ kɔnɔ́kɔ ta anyía ɔ ŋɔ́ɔ bá eé ciíbe cɛ ɛcaná , tuɔ́ kɔ́ kuɔŋɔ́ téŋíki e ? ”
+40025044	nyíényí		Aáná baacɔ eébé ké bú wuúci bata tɔ́na báyɛ : “ Háá ! Otéŋí a Waáŋá , nyíényí tu ŋa sɔ́ ɔ lɛcáka na ɛcaná ne nyimóti bɛ́ ɔ́ yɔ́ɔ nuakɛna e , kuɔŋɔ́ okenyí , ta anyía ɔɔ́ kɔnɔkɔ , ta anyía kuɔŋɔ́ eé ciíbe cɛ ɛcaná , basɔ́ ta ɔ kuɔŋɔ́ ɔɔ́lɛ́ta e ? ”
+40026008	Anyíatɛ́		Ɛ́makɛ́la baákɔ́nɛ́na ábɔ́ lɛ́cá aáná , bé ŋe cunjéke , mbá báyɛ : « Anyíatɛ́ ú maá cáŋgɛna ɔsɔŋɔ eéyé aáná e ?
+40026010	Anyíatɛ́		Ɛ́makɛ́la Yésus á lɔ́kɔ́máká ɔtáŋa oócí , mbá ɔsɛ náábɔ́ : « Énu wuúci nyɛána mbuumu . Anyíatɛ́ nu ŋe nú wuúci yébi e ? Ú maa mɛ kɛlaka ambányɛ yɛ́ asana .
+40026015	Aátɛ́		mbá ɔsɛ náábɔ́ : « Aátɛ́ nú ŋe nú mi íínjíékíne , mbɔ́kɔ ɛ ŋa mɛ́ banɔ́ fiimbine Yésus e ? » Aáná baacɔ eébé ŋa bɔ́ fánáka biléŋú bɛ́ mɔɔnyɛ́ nyitíne na bíɔ́hátá , bé ŋé wuúci íínjíé .
+40026017	Háányɛ́		Buɔ́sɛ́ bú buúse abɔ́ bá ŋaá bá bá nyíáka biléti a bɛ́ tɛ á bá ne enutisi , baákɔ́nɛ́na bé Yésus ŋe bú bíkósíti nááyá , báyɛ : « Háányɛ́ o ŋoó léne anyía tú ka sɔ́ ɔ tábɔ́nákɛ́na Basíka e ? »
+40026040	~		U ŋá hatɔ́na ɛndánáka , u ŋgá hálɔ́mɔ́na haála ahá baákɔ́nɛ́na eébé bátátɔ́ ŋaá bá , u ŋé beébe kuána e hiiné . Mbá ɔsɛ né Bíel : « Ɛ́cɛ anyía nu tɛ ɔ́mɔ́ nɔ́ bá nú olimine bɔɔ́sɔ na yaŋɔ́ onjéŋí ɔ́mɔtɛ́ e ?
+40026050	~		Mbá Yésus ɔsɛ nááyá : « Aláamɛ , bɔkɔ abɔ́ ɔ́ mɔɔ́ faaya ɔ ɔkɔkɛla aaha , buúbu kɛláka fiaŋɔ ! » Eéyé ekúlú , baacɔ a bá ŋa bɔ́ bá na Yútas ŋa bɔ́ bɛ́lɔ́cɛ́na Yésus , bé ŋé wuúci mɛɔ́mɛ́na .
+40026054	anyána		Mbá , mbɔ́kɔ yámɛ kɛla aáná , keyé anyána bɛsana bɛ́ Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ kéé bínyióyísíkínyi e ? Yááŋa anyía cɛ́ ŋa kɔ́ɔna cɛ́sɛ bɛsana ŋaá nyɛmána bɛ́ ɔbɛ́kɛ́láka híáná . »
+40026062a	~		Mutéŋínyi beluli nyiínjie a muáŋá ŋá hatɔ́na ɛndánáka , mbá ɔsɛ né Yésus : « Ɔ tɛ ŋɔ́ɔ bɛ́sɔ́mɔ ta hɛkɔma a tɔkɔma eetu atɔ́ baacɔ eebe ŋé bú o túme e ? »
+40026062b	~		
+40026065	Aátɛ́		Ɛ́makɛ́la mutéŋínyi beluli nyiínjie a muáŋá á lɔ́kɔ́má aáná , hilóbi ŋe wuúci timbie ; u ŋá laháka bíáyɛ́ bɛlaŋa , mbá ɔsɛ : « Aátɛ́ tɔ́na ! Tu tɛ ŋá háná asɔ́ aamba tɔkɔma tú etémbí . Nú ma nɔ́ lɔ́kɔ́ma na cáánɔ́ eetú háyɛ ú ŋe féníne Bandɔ́mɛsɛ́ !
+40026066	~		A nyíánɔ́ʼo ? » Mbá báyɛ , ú maá kua asana , bá ŋá nyɛmána bé o wuúci ɔ́ɔ́nɔ .
+40026068	aányɛ́		« Ɔɔcɔ u bɔsɔ́ɔ́kɔ́ Mesíi ! Ɔ́ɔ basɔ́ laana , aányɛ́ ú mó yóo súbe e ? »
+40027004	~		ɔsɛ náábɔ́ : « Ya mɛ́ŋa ɔkɛlákánɔ́ bɔɔbɛ́ a asana eyí í me mí fiimbie ɔɔcɔ awɔ́ u tɛ ɔ́mɔɔ́ kɛ́la bɔkɔ a bɔɔbɛ́ . » Mbá bé ŋe bú wuúci bɛ́kámá báyɛ : « Yɔ́ɔ́wɔ eéyé , yɛ́ tɛ ŋá basɔ́ lɛ́ca ! »
+40027013	~		Mbá Bílat ɔsɛ nááyá : « Mbá ɔ tɛ ŋɔ́ɔ bɛ́sɔ́mɔ ta hɛkɔma e ? Tɛ́ka ɔ ŋɔɔ́ lɔ́kɔ́ma anamánamá cá tɔkɔma ecé bé ŋe bú o túme e ? »
+40027017	~		Ɛ́makɛ́la Bílat á lɛ́ca aáná anyía baacɔ beéŋí má bɔ́ bɛ́bándákána , mbá ɔsɛ : « Nu ŋa nɔ́ áamba anyía yámɛ banɔ́ nyɛanɛ́na [ Yésus ] Balábas ayɛ́ʼ Yésus awɔ́ bɔ́ ŋɔɔ́ lɔ́ŋɔ báyɛ Mesíi e ? »
+40027021	Aányɛ́		Kɔ́mɛ́na ŋa háná beébe bata ɔsɛ : « Aányɛ́ a baacɔ eebe béfendí nɔ́ ŋa nɔ́ áamba anyía yámɛ banɔ́ nyɛ́ánɛ́na e ? » Mbá báyɛ : « Balábasʼo ! »
+40027022	Anyána		Mbá ɔsɛ : « Anyána yámɛ nyɛmána wu ɔkɛla aná ne Yésus awɔ́ bɔ́ ŋɔɔ́ lɔ́ŋɔ báyɛ Mesíi e ? » Beébe bekime báyɛ : « Ɔ ɔmbásá ɔ ɔmuanáʼo ! »
+40027023a	~		Mbá ɔsɛ : 
+40027023b	yaátɛ́		« Bɔkɔ a bɔɔbɛ́ bɔ́ yaátɛ́ wáŋa ɔkɛlákánɔ́ e ? » Bé ŋé túné bɔmɛ́ta buáŋá báyɛ : « Ɔ ɔmbásá ɔ ɔmuanáʼo ! »
+40027046	anyíatɛ́		I injéŋí ɛ́tátɔ́ eécí aná , Yésus ŋó bókíte buáŋá ɔsɛ : « Eli , Eli , lama sabaktani ? » , ɛ́cɛ anyía « Ciamɛ Bandɔ́mɛsɛ́ , ciamɛ Bandɔ́mɛsɛ́ , anyíatɛ́ ɔ́ mɔɔ́ mɛ bɛ́yúata e ? »
+41001024	Aátɛ́		« Yésus , ɔɔcɔ u Násalɛt ! Aátɛ́ yááŋa na basɔ́ na kuɔŋɔ́ e ? Ɔ ŋɔɔ́ faáya aaha ɔ ɔ basɔ́ súlisi e ? I ŋe mí menyi bɔmbányɛ anyía ɔ ɔ́ŋa Ofúúménénú u Bandɔ́mɛsɛ́ ! »
+41001027	Aátɛ́		Baacɔ bekime ŋá bɔ aálɛ́áka eété , bá bɛ́bátáka beébe ne beébe báyɛ : « Aátɛ́ eeye e ? Yɔɔ́sɔɔ́sɔ yí nyiékúnyi na bɔɔcɔ ayɛ́ʼ ? Ɔɔcɔ ooci ŋe téŋínyi ta hú bɛɛbɛ́ bí bililé , bí wuúci lɔ́kɔ́mákɛ́na ! »
+41002007a	Aányɛ́		« Aányɛ́ ooci ú ŋé féníne Bandɔ́mɛsɛ́ aáná e ? 
+41002007b	Aányɛ́		Aányɛ́ ú ŋá nyɛ́ánɛnɛna baacɔ maabɛ́ , ɛ tɛ ŋáa bá hú Bandɔ́mɛsɛ́ bímuócí e ? »
+41002008	Anyíatɛ́		Yésus ŋe ményi o omenyi e uúyé ɔtɛ́má aátɛ́ bé ŋe bú bílúmínyi , mbá ɔsɛ náábɔ́ : « Anyíatɛ́ nua nɔ́ŋa na anamá cé ibíkéti eécé e ?
+41002009	Aátɛ́		Aátɛ́ yɛ́ ŋa hɔ́la ɔnata e ? Ɔlaana asákála anyía : “ Ɛ́ mɔ mɛ́ ɔ nyɛanɛna mɔ́ɔ́wɔ maabɛ́ ” , ayɛ́ʼ ɔkɔɔna anyía : “ Hatɔ́na ɛndánáka , hiíte nyiɔ́wɔ nyibúyé , kándáka ” e ?
+41002016	Anyíatɛ́		Ɛŋakɛlá beékúnyi bikotí bá ɔlɔŋɔ ú Bafalisiɛ́ŋ abɔ́ lɛ́ca Yésus e nyíékínyi ne betúé etéési na bakɛla maabɛ́ , bá ŋá báta bááyɛ́ baákɔ́nɛ́na báyɛ : « Anyíatɛ́ u ŋeé nyíényi ne betúé etéési na bakɛla maabɛ́ e ? »
+41002018	Anyíatɛ́		Búmɔtɛ́ buɔ́sɛ́ na baákɔ́nɛ́na bá Sáaŋ Batis na bá Bafalisiɛ́ŋ ŋe bú bíkíilieke ɔnyíá . Aáná baacɔ a bɔ́mɔtɛ́ ŋa bɔ́ faáya ɔ ɔkɔbáta Yésus báyɛ : « Anyíatɛ́ baákɔ́nɛ́na bá Sáaŋ Batis na bá Bafalisiɛ́ŋ naŋa bébú bíkíilieke ɔnyíá , mbá bɔ́ɔ́wɔ baákɔ́nɛ́na tɛ ŋa bɔ́ kɛla aáná e ? »
+41002019	~		Mbá Yésus ɔsɛ náábɔ́ : « Mbá nua nɔ́ŋa nú okóti baacɔ abá bɔ́ lɔ́ŋɔ́kɔ e nusíke ɔnyíá e , ekúlú ekime ayɛ́ ɔnɔ́mɛ áŋa ne beébe e ? Yááŋa anyía , ekúlú ekime ayɛ́ ɔnɔ́mɛ áŋa ne beébe , bá tɛ abɔ́ bá bé obíkíilie ɔnyíá .
+41002024	Anyíatɛ́		Bafalisiɛ́ŋ a bá ŋaá bá hɔ́á ɔlɔŋɔ ŋa bɔ́ bata Yésus báyɛ : « Ɔ́ɔ lɛcá bɔ́ɔ́wɔ baákɔ́nɛ́na ! Anyíatɛ́ bá ŋa bɔ́ kɛ́la bɔkɔ abɔ́ yáásɔ́ okotí ti ŋé yiínjie ɔɔcɔ makɛ́nda ma ɔkɛlaka buɔ́sɛ́ bú ehélúme e ? »
+41003004	Aátɛ́		Mbá ɔsɛ náábɔ́ : « Aátɛ́ yáásɔ́ okotí ŋa kɔ́ɔna e ? Ɔkɛla bɔmbányɛ buɔ́sɛ́ bú ehélúme ayɛ́ʼ ɔkɛla bɔɔbɛ́ e ? Onohi ɔɔcɔ ayɛ́ʼ o wuúci ɔ́ɔ́nɔ e ? » Mbá beébe , bé ŋe bú limíne mbuumu , ta ɔbɛ́káma .
+41003023	Anyána		Yésus ŋé beébe lɔ́ŋɔ́kɔ , u ŋé beébe túmíne ɛnjaba ɔsɛ : « Anyána Sátan áŋa wu ɔbɛ́ɔ́ŋɔ́kɛ́na wuúci bɛ́muátá e ?
+41003033a	Aányɛ́		Mbá ɔsɛ : « Aányɛ́ wáŋa ciamɛ iinyí , 
+41003033b	báányɛ́		báányɛ́ bá bɔ́ŋa báámɛ benyíinyí e ? »
+41004013	anyána		Yésus ŋé beébe batá ɔsɛ : « Mbɔ́kɔ nu ti ŋé nú menyi nyihembule nyɛ́ ɛnjaba ci mumiene moohó , anyána nua nɔ́ŋa nú omenyi nyihembule nyɛ́ ɛnjaba cí etémbí ikime e ?
+41004030a	aátɛ́		Yésus ŋa háná á kɔ́ɔna ɔsɛ : « Na aátɛ́ tua sɔ́ŋa tú oketi Butéŋí bɔ́ Bandɔ́mɛsɛ́ aná e ? 
+41004030b	yaátɛ́		Ta anyía ɛnjaba cɛ yaátɛ́ tua sɔ́ŋa tu ɔ banɔ́ túmíne ɔ ɔ banɔ́ tóŋínyi bɔkɔ ebú Butéŋí bɔ́ Bandɔ́mɛsɛ́ ŋaá hɔ́á e ?
+41004038	~		Ekúlú eéyé , Yésus ŋaá bá waá hɛ́táka hiiné o onuti ú ɔkɔkɔ́ , u maá tála aatɔ́ aá nyɛáta . Bááyɛ́ baákɔ́nɛ́na ŋé bu wuúci heényi , mbá báyɛ : « Taatá , bú ti ŋó yo yébi aana háyɛ túɔ́ cɔba o onyíme e ? »
+41004040a	Anyíatɛ́		Mbá Yésus ɔsɛ : « Anyíatɛ́ nu ŋe nú líkíme e ? 
+41004040b	~		Ɛ́cɛ anyía nú ti ŋé nú lúmitinine e ? »
+41004041	háányɛ́		Mbá ta híáná , baákɔ́nɛ́na ŋa bɔ́ bá bébú líkíméke buéŋí ; bá kɔ́ɔnaka beébe ne beébe báyɛ : « Ɔɔcɔ u háányɛ́ ooci ewú te ne ehúne na nuɔmɔ́ ŋa lɔ́kɔ́mɛ́na e ? »
+41005007	yaátɛ́		U ŋá bɔmɛ́ta ɔsɛ : « Yésus , Ɔɔ́nɔ́ u Bandɔ́mɛsɛ́ a wáŋa waáŋá , asana ayɛ́ yaátɛ́ yááŋa na yaŋɔ́ na kuɔŋɔ́ e ? Cɔ́kɔ́lɛ eé nyiínyi nyɛ́ Bandɔ́mɛsɛ́ , eti mi iínjíé muuyé . »
+41005009	aányɛ́		Mbá Yésus maá báta ɔɔcɔ oócí ɔsɛ : « Nyiɔ́wɔ nyiínyi ɛ́cɛ aányɛ́ e ? » Ɔsɛ : « Bɔnɔnja , anyía tua sɔ́ŋa beéŋí . »
+41005030	Aányɛ́		Hí á yaátɛ́ ekúlú , Yésus ŋaá bɛ́lɔ́kɔ́má anyía makɛ́nda a mɔmɔtɛ́ me wuúci háma ; aáná u ŋá bɛ́kúalɛta ɛ ɛkatɛ́katɛ́ cɛ baacɔ , mbá ɔsɛ : « Aányɛ́ ú meé bítíse búámɛ bɔlaka e ? »
+41005031	aányɛ́		Aáná baákɔ́nɛ́na ŋa bɔ́ bɛ́kámá báyɛ : « Ɔ ŋɔɔ́ lɛca anyía baacɔ beéŋí ŋo yóo sékítínyi bɛháŋá bikime , mbá anyána o ŋo túné ɔ bata anyía aányɛ́ ú mo yóo bítíse e ? »
+41005035	~		Yésus ŋaá bá wa yánaŋa ɔ ɔtáŋa aáná , baacɔ ŋe bú húlé o ooki ú mutéŋínyi andaŋía na ɛsɔ́ma , mbá báyɛ né mutéŋínyi : « Atɛ háná yébíki Muékúnyi , ananyía uuwu ɔbɔ́la meé wé . »
+41005039a	Anyíatɛ́		U ŋo óófíne eé ciíbe , mbá ɔsɛ : « Anyíatɛ́ nú ŋe nú bíyébi aáná e ? 
+41005039b	Aátɛ́		Aátɛ́ nɔ́ ŋa nɔ́ lɛ́la e ? U tɛ á bá owéénú , wáŋa e hiiné . »
+41006002a	Háányɛ́		A búmɔtɛ́ buɔ́sɛ́ bú ehélúme bú Besuif , u ŋé túme oweékúnyi baacɔ Bɛsana bɛ́ Bandɔ́mɛsɛ́ a andaŋía yɛ́ ɔbɛ́cɔ́kɔ́lɛ́na . Baacɔ beéŋí a bá ŋa bɔ́ bá bábɔ́ lɔ́kɔ́máka bíáyɛ́ bɛsana ŋe bú kékéké , bá kɔ́ɔnaka báyɛ : « Háányɛ́ bɛsana eébí ŋe wuúci húlíne e ? 
+41006002b	háányɛ́		Nyɛnamá nyí omenyi nyɛ́ háányɛ́ eényí e ? 
+41006002c	háányɛ́		Nyɛnamá nyí bikéki bɛ́ bɛsana nyɛ́ háányɛ́ eényí u ŋa kɛla e ?
+41006022	~		Ɔbɔ́la u Elóotiat ŋo yóofine a andaŋía yɛ́ bunɔ́kɔ́ , yó bínéke bɔmbányɛ a nyɛnamá anyɛ́ búáyɛ́ bunɔ́kɔ́ ŋeé bílénékíne ne Elóot na baacɔ abá u ŋɔɔ́ lɔ́ŋɔ́kɔ a bɔŋanda . Aáná otéŋí ŋá laana ɔbɔ́la ɔsɛ : « Bɔkɔ bukime ebú o ŋoó léne , mɛ báta , i ŋe mí o wiínjíékíne . »
+41006024	Aátɛ́		Aáná ɔbɔ́la u oónjú ŋaá hatɔ́na , yɔ́ háma a nɔháatɛ́ , u ŋga bátá iinyí ɔsɛ : « Aátɛ́ yamɛ batá otéŋí e ? » Iinyí ɔsɛ : « Batá otéŋí aatɔ́ yɛ́ Sáaŋ Batis . »
+41006037	~		Yésus ɔsɛ : « Banɔ́ bɛ́muátá , énu beébe aafɛ́na ! » Aáná bé ŋe bú wuúci batá báyɛ : « Ɔ ŋɔɔ́ lɛca anyía tua sɔ́ŋa na makɛ́nda ma ɔkɔɔ́wɔɔ́ndɔ́kɔ biléti bɛ́ hɔ́ndɛ́tɛ ífendí cɛ́ mɔɔnyɛ́ anyía tuésú beébe íínjíékíne , bábɔ́ nyíáka e ? »
+41006038	bínyie		Mbá ɔsɛ : « Nua nɔ́ŋa ne biléti bínyie aaha e ? Ánɔ ka lɛca ! » Ekúlú eyí bé ŋe bú bícónyi , bó menyi , báyɛ nááyá : « Tua sɔ́ŋa ne biléti bɛ́táánɔ na tuɔfɔ́ túfendí tɔ́na . »
+41007005	Anyíatɛ́		Na Bafalisiɛ́ŋ ne beékúnyi bikotí ŋa bɔ́ bata Yésus báyɛ : « Anyíatɛ́ bɔ́ɔ́wɔ baákɔ́nɛ́na tɛ ŋa bɔ́ látɛ́na bɛsana bí bokóo e ? Bá ŋa bɔ́ nyíá ne bihíŋe a aabá . »
+41008004	Háányɛ́		Bááyɛ́ baákɔ́nɛ́na báyɛ : « Háányɛ́ tua sɔ́ŋa tu ɔbɔ́ŋgɔ́na biléti bí otúkékíne baacɔ eebe bekime , bɔ́ nyíáka , bó weécéke aaha a atúalɔ́ etémbí e ? »
+41008005	bínyie		Yésus ŋé beébe batá ɔsɛ : « Biléti bínyie nua nɔ́ŋa ne biíbi e ? » Mbá báyɛ : « Bítíndétú nɔ́mɔ . »
+41008012	Anyíatɛ́		U ŋeé hílíméténe na makɛ́nda , mbá ɔsɛ : « Anyíatɛ́ baacɔ bá hɛɛya eehi ŋa bɔ́ báta ekéki yí hibílícínyínyí e ? Aá taaká , ɛ ŋa mɛ́ banɔ́ láana anyía baacɔ bá hɛɛya eehi tɛ ká bɔ́ lɛca ekéki yí hibílícínyínyí , ta ɔ́mɔtɛ́ . »
+41008017	Anyíatɛ́		Ɛ́makɛ́la Yésus é menyi aáná , mbá ɔsɛ : « Anyíatɛ́ nu ŋa nɔ́ kɔɔna anyía u ŋa táŋa aáná anyía tu tɛ asɔ́ bá ne biléti e ? Ɛ́cɛ anyía nu tɛ ŋá nɔ́ lɔ́kɔ́ma bɔmbányɛ , nu ti menyi ; cíínú ɛtɛ́má áŋa iwéékúnénú .
+41008018a	~		Nua nɔ́ŋa ne eése mbá nu tɛ lɛ́cana , banɔ́ ne eetú mbá nu tɛ lɔ́kɔ́ma . Nú ma nɔ́ bɛ́hɔ́yáka ayɛ́ʼ ?
+41008018b	~		
+41008019	túnyie		Biléti bɛ́táánɔ abɛ́ ɛ ŋaá mɛ bákáka eé buúse bɔ́ baacɔ tɔ́sɛ́na ɛ́táánɔ , tɔnjatɛ́ túnyie nu ŋa nɔ́ bándáka tunyíóyókónú ne bikélékéti a bɛ́ ŋɔ lɔ́bɔ́kɔ e ? » Mbá báyɛ : « Túɔ́hátá ne túfendí . »
+41008020	túnyie		Mbá ɔsɛ : « Ekúlú ayɛ́ ɛ ŋaá mɛ bákáka biléti bítíndétú nɔ́mɔ eé buúse bɔ́ baacɔ tɔ́sɛ́na ínyíse , tɔnjatɛ́ túnyie nu ŋa nɔ́ bándáka tunyíóyókónú ne bikélékéti a bɛ́ ŋɔ lɔ́bɔ́kɔ e ? » Mbá báyɛ : « Tútíndétu nɔ́mɔ . »
+41008021	~		Mbá ɔsɛ : « Nu tɛ ŋá nɔ lɔ́kɔ́ma aná e ? »
+41008023	~		Aáná u ŋeé tímbíé ondíméndíme oócí ɔ ɔɔbɔ́ , u ŋé wuúci súéténe haaca na bunɔŋɔ , u ŋé wuúci túéne maatá e eése , u ŋé wuúci sɔ́lɔ́na eése na aabá , mbá ɔsɛ nááyá : « Ɔ wáŋa wu ɔlɛcakana nyɛnamá e ? »
+41008027	aányɛ́		Yésus ŋeé súété ɔlɔŋɔ na bááyɛ́ baákɔ́nɛ́na ɔ mɔnɔŋɔ a má ŋaá bá hoóhi na Sɛsalɛ́ɛ ci Fílib . O ohónyí , yó beébe báta ɔsɛ : « Baacɔ ŋe bú bíkéti báyɛ ya mɛ́ŋa aányɛ́ e ? »
+41008029a	~		Mbá Yésus meé beébe batá ɔsɛ : « Mbá banɔ́ʼo , 
+41008029b	aányɛ́		nɔsɛ ya mɛ́ŋa aányɛ́ e ? » Bíel ɔsɛ : « Ɔ ɔ́ŋa Mesíi . »
+41008036	yaátɛ́		Bɔmbányɛ bɔ́ yaátɛ́ ɔɔcɔ ŋa lɛ́ca ekúlú ayɛ́ wá yáámbáka yɔ́ bɔ́ŋɔ buŋaŋa bɔ́ ɔmɛsɛ́ bukime , mbɔ́kɔ u ŋé nyímísi úúyé olíhe e ?
+41008037	aátɛ́		Na aátɛ́ aná wáŋa wu ɔháŋɔ́náka úúyé olíhe e ?
+41009010	Aátɛ́		Bé ŋe bú tétényíki asana eéyé , bá bɛ́bátáka beébe ne beébe báyɛ : « Aátɛ́ yááŋa anyía “ nyɛhaanyua nyí biwéewé ” e ? »
+41009011	Anyíatɛ́		Baákɔ́nɛ́na ŋe bú wuúci batá báyɛ : « Anyíatɛ́ beékúnyi bikotí naŋa bábɔ́ kɔ́ɔ́naka anyía Éli u káá cáŋa ɔfaaya ne Mesíi e ? »
+41009012	anyíatɛ́		Mbá ɔsɛ : « Yááŋa anyía Éli káá cáŋa ɔfaaya o okocíkiliekene bɛsana bikime . Mbá , anyíatɛ́ Ciɔɔ́ŋɛ́ ŋa kɔɔna tɔ́na anyía Ɔɔ́nɔ́ u ɔɔcɔ káá muáka indekese buéŋí , baacɔ bó wuúci bábákɛ́na e ?
+41009016	Asana a yaátɛ́		U ŋá batá bááyɛ́ baákɔ́nɛ́na ɔsɛ : « Asana a yaátɛ́ nú ŋe nú súŋunyinyi na baacɔ eebe e ? »
+41009019a	nyíényí		Mbá Yésus ɔsɛ náábɔ́ : « Ééʼ , banɔ́ be-ti-lumítíníne eebe ! Ɔ ɔkɔɔ́háma nyíényí ɛ ká mɛ bá ɔlɔŋɔ na banɔ́ e ? 
+41009019b	nyíényí		Ɔ ɔkɔɔ́háma nyíényí ɛ ká mɛ banɔ́ eéhíkínyínyi e ? Énu mi héléníne ɔɔ́nɔmbɔ́ oócí aaha ! »
+41009021	nyíényí		Yésus ŋa batá síkíne cɛ ɔɔ́nɔmbɔ́ ɔsɛ : « O otúme nyíényí wá báka aáná e ? » Mbá síkíne ɔsɛ : « O otúme a búáyɛ́ bunɔ́sɛ́ .
+41009028	Anyíatɛ́		Ahá Yésus ŋo yóófíne eé ciíbe na bááyɛ́ baákɔ́nɛ́na , beébe hú wáábɔ́ , bé ŋé wuúci báta , báyɛ : « Anyíatɛ́ aabɛ́ yí elilé eéyé á basɔ́ yáka ohémúnyi e ? »
+41009033	Asana a yaátɛ́		Bá ŋga bɔ́ háma a Kabɛlnawum . Ahá Yésus ŋaá bá wa yáaŋa eé ciíbe noómi , u ŋá batá bááyɛ́ baákɔ́nɛ́na , ɔsɛ : « Asana a yaátɛ́ nuánɔ́ bá nu húle enú súŋgunyinyi o ohónyí e ? »
+41009050	anyána		Makɛ́lɛ́ áŋa ambányɛ yɛ́ bɔkɔ , mbá mbɔ́kɔ makɛ́lɛ́ ŋá sɔ́la , me ti soómo , anyána bááŋa bá ɔkɛla o o túné meéme soomisiki e ? Ánɔ bámɔ́kɔ́na na makɛ́lɛ́ aá banɔ́ bɛ́muátá , nu líhéke e mbuumu aá banɔ́ na banɔ́ , nɔ lɔ́kɔ́mákána . »
+41010003	Anyána		Yésus ŋé beébe bɛ́káma ɔsɛ : « Anyána Moyís ŋaá táŋáka a asana eéyé e ? »
+41010017	anyána		Ekúlú eyí Yésus ŋaá bá wa yáaŋa o ohónyí , wéé súétéke , ɔɔcɔ a wɔmɔtɛ́ ŋaá cɔba na ɔtɛ́tá haála ahá u ŋaá bá , u ŋé wuúci túmíne eŋéndu , mbá ɔsɛ : « Ambányɛ yí muékúnyi , anyána yámɛ́ nyɛmána wu ɔkɛla anyía yámɛ bɔ́ŋɔ yɔɔ́sɔɔ́sɔ yí olíhe yí ekúlú ekime e ? »
+41010018	Anyíatɛ́		Mbá Yésus ɔsɛ : « Anyíatɛ́ ɔ ŋɔɔ́ mɛ lɔ́ŋɔ anyía ambányɛ yɛ́ ɔɔcɔ e ? Ta ɔɔcɔ tɛ á bá ambányɛ yɛ́ ɔɔcɔ , ɛ tɛ ŋáa bá hú Bandɔ́mɛsɛ́ bímuócí .
+41010026	aányɛ́		Baákɔ́nɛ́na ŋa háná ebú kékéke buéŋí , bá bɛ́bátaka beébe ne beébe báyɛ : « Mbá aáháʼo , aányɛ́ wáŋa wu ɔnɔhɔ aná e ? »
+41010036	Asana a yaátɛ́		Yésus ɔsɛ náábɔ́ : « Asana a yaátɛ́ nú ŋe nú léne anyía yámɛ banɔ́ kɛ́lɛ́na e ? »
+41010051	Aátɛ́		Mbá Yésus ɔsɛ nááyá : « Aátɛ́ ɔ ŋɔɔ́ waámba anyía yámɛ ɔ kɛla e ? » Ondíméndíme ɔsɛ : « Labuni , kɛlá anyía yá háná ámɛ lɛcakana ! »
+41011003	Anyíatɛ́		Mbɔ́kɔ ɔɔcɔ ŋá banɔ́ báta ɔsɛ : “ Anyíatɛ́ nú ŋe nú wuúci súŋúne e ? ” , ánɔ bɛ́káma nɔsɛ : “ Otéŋí a Waáŋá ŋeé wuúci yáamba . ” Hú a yaátɛ́ ekúlú , u ŋa cɔba ɔ ɔnyɛana anyía nué wuúci héléne aaha . »
+41011005	Anyíatɛ́		Baacɔ a bɔ́mɔtɛ́ a bá ŋa bɔ́ bá hɔ́á báyɛ náábɔ́ : « Háá ! Aátɛ́ eéyé nɔ ŋa nɔ́ kɛ́la e ? Anyíatɛ́ nú ŋe nú súŋúne ɔɔ́nɔ́ u abaŋabɛbɛa oócí e ? »
+41011028a	háányɛ́		mbá báyɛ : « Na makɛ́nda ma háányɛ́ ɔ ŋɔɔ́ kɛ́la bɛsana e ? 
+41011028b	Aányɛ́		Aányɛ́ u ŋo yóo cúméke makɛ́nda me o biíbi kɛlaka e ? »
+41011030	~		Ánɔ mɛ laána : Bandɔ́mɛsɛ́ u ŋaá tɔ́ma Sáaŋ o okowóotine baacɔ ayɛ́ʼ baacɔ e ? »
+41011031a	~		Bé ŋé túme osuŋunyinyi beébe ne beébe báyɛ : « Mbɔ́kɔ túásɔ́ bɛ́káma anyía Bandɔ́mɛsɛ́ ŋaá tɔ́má Sáaŋ o owootine baacɔ , keyé u ŋaá basɔ́ bata ɔsɛ : 
+41011031b	Anyíatɛ́		“ Anyíatɛ́ nú ti ómo nú wuúci lumitinine aná e ? ”
+41012009	aátɛ́		Mbá Yésus ɔsɛ : « A nyíánɔ́ nyɛlɛca , aátɛ́ muútí esíéné káá kɛ́laka e ? Tɛ́ka u kɔ́ kɔ yɔɔ́nɔ́kɔ betétényi esíéné eébé , yó wiínjie né betétényi bé etémbí e ?
+41012015	Anyíatɛ́		Yésus ŋaá bá weé ményukune túábɔ́ tɔbɛ́mbɛ túfendí , mbá ɔsɛ náábɔ́ : « Anyíatɛ́ nu ŋa nɔ́ mɛ bɛ́tɔ́ɔ́lɛ́na e ? Énu mi héléníne eléŋú yɛ́ mɔɔnyɛ́ , yémí yiíyi lɛcá . »
+41012016a	aányɛ́		Bé ŋé wuúci héléníne eléŋú yɛ́ mɔɔnyɛ́ , mbá ɔsɛ : « Hibílícínyínyí hɛ́ aányɛ́ eehi hɛ́áŋa , 
+41012016b	aányɛ́		nyiínyi nyɛ́ aányɛ́ eenyi nyɛ́áŋa e ? » Mbá báyɛ : « Hibílícínyínyí hɛ́ Sɛsáal hɛ́áŋa , ne nyiínyi áyá . »
+41012023	háányɛ́		Yaátɛ́ asana tu ŋa sɔ́ ɔ bata anyía : E ekúlú eyí biwéewé káá háanyuaka , sɔ́ɔ́kɔ́ awɔ́ háányɛ́ u káá bá ɔnɔ́mɛ u oónjú oócí aná e ? Yááŋa anyía bekime bétíndétú nɔ́mɔ ŋe bú wuúci bátɛ́ákɛ́ná . »
+41012028	háányɛ́		Muékúnyi bikotí ɔ mumɔtɛ́ ŋaá lɔ́kɔ́máká bébú súŋgunyinyi , yɔ́ lɔ́kɔ́ma háyɛ nyɛbɛ́káma nyí Yésus ŋaá bá nyɛmbányɛ . Aáná u ŋee bíkósíti né Yésus , mbá ɔsɛ : « Okotí ayɛ́ háányɛ́ yá hɔ́la bikotí bikime e ? »
+41012035	Anyána		Ahɛ́ Yésus ŋaá bá we yéékúnyíki baacɔ eé Ciíbe cɛ Bandɔ́mɛsɛ́ , u ŋé beébe batá ɔsɛ : « Anyána beékúnyi bikotí á bɔ́ŋa bá ɔkɔɔna anyía Mesíi áŋa u bɔnyɛ Táfit e ?
+41012037	anyána		Mbɔ́kɔ Táfit bɛ́muátá ŋeé wuúci lɔ́ŋɔ anyía uuyé Otéŋí a Waáŋá , anyána wáŋa wu ɔbá tɔ́na u bɔnyɛ Táfit e ? » Yaandándá yɛ́ nyɛkɔca ŋaá bá yé bílénékíne ɔtáŋa ú Yésus .
+41013004a	nyíényí		« Ɔ́ɔ basɔ́ láána , nyíényí bɛsana eébí káá bɛ́kɛ́láka e ? 
+41013004b	yaátɛ́		Hibílícínyínyí hɛ́ yaátɛ́ hí kóó tóŋínyi ekúlú ayɛ́ bɛsana eébí bikime káá bɛ́kɛ́láka e ? »
+41014004	Aátɛ́		Bɔ́mɔtɛ́ baacɔ a bá ŋa bɔ́ bá aáhá ŋa bɔ́ lɔ́kɔ́má bɔɔbɛ́ , bé ŋé túme ɔkɔɔna beébe ne beébe báyɛ : « Aátɛ́ yɛ́ ŋɔ yɔ́ɔlɔ ɔ ɔcaŋgɛna ɔsɔŋɔ eeye aáná e ?
+41014006	Anyíatɛ́		Mbá Yésus ɔsɛ : « Énu wuúci nyɛána mbuumu . Anyíatɛ́ nu ŋe nú wuúci yébi e ? Ú maa mɛ́ kɛlaka ambányɛ yɛ́ asana .
+41014012	Háányɛ́		Buɔ́sɛ́ bú buúse abɔ́ bá ŋaá bá bá nyíáka biléti a bɛ́ tɛ á bá ne enutisi , buɔ́sɛ́ abɔ́ bá ŋaá bá bɔ́ yɔ́ɔ́nɔ́kɔ baáná bá ɛtɔ́mbá , bá ɔnyíáka a Basíka , baákɔ́nɛ́na bé Yésus báyɛ nááyá : « Háányɛ́ o ŋoó léne anyía tú ka sɔ́ ɔ tábɔ́nákɛ́na Basíka e ? »
+41014014	háányɛ́		nú oofíne eé ciíbe ecí u ŋo yóofine , mbá núá laána muútí ooki anyía Muékúnyi ŋa báta anyía háányɛ́ u ŋa cɔ́ba ɔ ɔnyíáka Basíka na bááyɛ́ baákɔ́nɛ́na e ?
+41014060a	~		Mutéŋínyi beluli nyiínjie a muáŋá ŋá hatɔ́na ɛndánáka ɛ ɛkatɛ́katɛ́ ci Hitúlé , u ŋé bícónyi Yésus ɔsɛ : « Ɔ tɛ ŋɔ́ɔ bɛ́sɔ́mɔ ta hɛkɔma a tɔkɔma eetu atɔ́ baacɔ eebe ŋé bú o túme e ? »
+41014060b	~		
+41014063	Aátɛ́		Ɛ́makɛ́la mutéŋínyi beluli nyiínjie a muáŋá á lɔ́kɔ́má aáná , hilóbi ŋé wuúci tímbíé ; u ŋá laháka bíáyɛ́ bɛlaŋa , mbá ɔsɛ : « Aátɛ́ tɔ́na ! Tu tɛ ŋá háná asɔ́ aamba tɔkɔma tú etémbí .
+41014064	~		Nú ma nɔ́ lɔ́kɔ́ma na cáánɔ́ eetú háyɛ ú ŋe féníne Bandɔ́mɛsɛ́ ! A nyíánɔ́ʼo ? » Baacɔ bekime nyɛbɔsɔna eényí anyía ú maá kua asana ; bá ŋá nyɛmána bé o wuúci ɔ́ɔ́nɔ .
+41015004	~		Aáná Bílat ŋa háná é wuúci bícónyi ɔsɛ : « Mbá ɔ tɛ ŋɔ́ɔ bɛ́káma ta bɔkɔ e ? Tɛ́ka ɔ ŋɔɔ́ lɔ́kɔ́ma anamánamá cá tɔkɔma etú bé ŋe bú o túme e ? »
+41015012	Aátɛ́		Mbá Bílat ŋa háná á báta ɔsɛ : « Aátɛ́ nu ŋa nɔ́ áamba aná anyía yámɛ kɛ́la ne ooci awɔ́ nu ŋa nɔ́ lɔ́ŋɔ anyía otéŋí u Besuif e ? »
+41015014a	~		Bílat ŋé beébe batá ɔsɛ : 
+41015014b	yaátɛ́		« Bɔkɔ a bɔɔbɛ́ bɔ́ yaátɛ́ wáŋa ɔkɛlákánɔ́ e ? » Bé ŋé túné bɔmɛ́ta buáŋá báyɛ : « Ɔ ɔmbásá ɔ ɔmuanáʼo ! »
+41015034	anyíatɛ́		I injéŋí ɛ́tátɔ́ eécí , Yésus ŋó bókíte buáŋá ɔsɛ : « Eli , Eli , lama sabaktani ? » , ɛ́cɛ anyía « Ciamɛ Bandɔ́mɛsɛ́ , ciamɛ Bandɔ́mɛsɛ́ , anyíatɛ́ ɔ́ mɔɔ́ mɛ bɛ́yúata e ? »
+41016003	Aányɛ́		Bá ŋa bɔ́ bá bábɔ́ bɛ́bátáka beébe ne beébe báyɛ : « Aányɛ́ u ŋa cɔ́ba ɔ ɔ basɔ́ fúŋulisinyinyi nyɛndányɛ́ e nyí ŋe kúeye nyiofíníne nyí eenyie e ? »
+42001018	Aátɛ́		Mbá Sakali ɔsɛ : « Aátɛ́ yí kéé mi tóŋínyi anyía asana eéyé áŋa taaká e ? Yaŋɔ́ ooci elunyí yɛ́ ɔɔcɔ , uumi oónyí na tuɔŋɔ tuéŋí . »
+42001034	Anyána		Mbá Malíi ɔsɛ né elilé yɛ́ bɔsɔ́ma : « Anyána ya mɛ́ŋa wu obíéne , yaŋɔ́ tɛ́ka ne omenyi banɔ́mɔcɔ́ e ? »
+42001043	yaátɛ́		Ya mɛ́ŋa nyɛnamá nyi oónjú nyɛ́ yaátɛ́ enyí iinyí ci uumi Otéŋí áŋa wu ɔfaaya náámɛ e ?
+42001066	Aátɛ́		Baacɔ bekime a bá ŋa bɔ́ bá bábɔ́ lɔ́kɔ́máká bɛsana eébí ŋaá bá bébú biíbi hákɛ́na a bɛɛtɔ́ , bá bɛ́bátáka báyɛ : « Aátɛ́ ɔɔ́nɔ́ ooci káá bɛ́cáŋa e ? » Bá ŋa bɔ́ kɔ́ɔna aáná anyía makɛ́nda me Otéŋí a Waáŋá ŋaá bá taaká nááyá .
+42002048	anyíatɛ́		Ekúlú ayɛ́ bíáyɛ́ bibíényi ŋe bú wuúci lɛcá , bé ŋe bú kéké buéŋí , mbá iinyí ɔsɛ : « Ɔɔ́nɔ́ , anyíatɛ́ ɔ́ mɔɔ́ basɔ́ kɛ́láka aana e ? Na ɔɔtɛ́ na yaŋɔ́ tu ŋá sɔ́ ɔ waambáka na yaáká yeéŋí . »
+42002049	Anyíatɛ́		U ŋe beébe laana ɔsɛ : « Háá ! Anyíatɛ́ nú ŋa nɔ́ mɛ aámbáka e ? Nu ti ŋé nu menyi anyía ɛ ŋa mɛ́ nyɛmána wu ɔbámɔ́kɔ́na eé Ciíbe cɛ ciamɛ́ Síkíne e ? »
+42003007	aányɛ́		Híáná baacɔ beéŋí ŋa bɔ́ bá bábɔ́ fáakɔna ná Sáaŋ anyía weé beébe ootókíne . Mbá ɔsɛ náábɔ́ : « Banɔ́ baáná bá ɛhɛ́nyɛ eebe , aányɛ́ ú ŋaá banɔ́ éékúnyi ɔcabɛna nyɛkála nyɛ́ Bandɔ́mɛsɛ́ a nyɛ́ ŋa fáakɔna e ? Tɛ́ cáŋa yaŋɔ́ʼo !
+42003010	anyána		E elime eécí , nyɛkɔca nyɛ́ baacɔ ŋeé wuúci báta nyɛ́sɛ : « Tuasɔ́ kɛ́la anyána e ? »
+42003012	anyána		Betúé etéési yɛ́ kɔ́mɛ́na ŋa bɔ́ fáakɔna tɔ́na , bá aambaka anyía bébú bíótókíne , bé wuúci batá báyɛ : « Muékúnyi , tuasɔ́ kɛ́la anyána e ? »
+42003014a	~		Bicénji tɔ́na ŋaá faáya , mbá bɛ́sɛ : « Basɔ́ʼo ? 
+42003014b	anyána		Tuasɔ́ kɛ́la anyána e ? » U ŋé biíbi bɛ́káma ɔsɛ : « Nɔtɛ hɔɔ́ bɔkɔ bɔ́ ɔɔcɔ a makɛ́nda , nɔtɛ sɔ́mbɛ́na ɔɔcɔ asana , énu hiítéke na ɔtɛ́má ɔmbányɛ bɛnamá abɛ́ bá ŋaá banɔ́ íínjie . »
+42004034	aátɛ́		« Wɛɛ́ɛ ! Yésus , ɔɔcɔ u Násalɛt , aátɛ́ yááŋa na basɔ́ na kuɔŋɔ́ e ? Ɔ ŋɔɔ́ faáya aaha ɔ ɔ basɔ́ súlisi e ? I ŋe mí menyi bɔmbányɛ anyía ɔ ɔ́ŋa Ofúúménénú u Bandɔ́mɛsɛ́ . »
+42004036	~		Baacɔ bekime ŋá bɔ aálɛ́áka eété ; bé súŋgunyinyi beébe ne beébe báyɛ : « Háá ! Ooci ɔtáŋaʼo ! Ɔɔcɔ ooci ŋe téŋínyi bɛɛbɛ́ bí bililé na bɔɔcɔ na makɛ́nda , mbá bɛ́ hámɔ́kɔ́na . »
+42005021a	Aányɛ́		Ne beékúnyi bikotí na Bafalisiɛ́ŋ ŋe bú túme obílúmínyi , bá kɔ́ɔ́naka báyɛ : « Aányɛ́ ooci ú ŋé féníne Bandɔ́mɛsɛ́ aáná e ? 
+42005021b	Aányɛ́		Aányɛ́ ú ŋá nyɛ́ánɛnɛna baacɔ maabɛ́ , ɛ tɛ ŋáa bá hú Bandɔ́mɛsɛ́ bímuócí e ? »
+42005022	Anyíatɛ́		Yésus ŋe ményi cííbú ibíkéti , mbá ɔsɛ náábɔ́ : « Anyíatɛ́ nua nɔ́ŋa na anamá cé ibíkéti eécé e ?
+42005023	Aátɛ́		Aátɛ́ yɛ́ ŋa hɔ́la ɔnata e ? Ɔkɔɔna anyía : “ Ɛ́ mɔ mɛ́ ɔ nyɛanɛna mɔɔwɔ maabɛ́ ” , ayɛ́ʼ ɔkɔɔna anyía : “ Hatɔ́na ɛndánáka , kandáka ” e ?
+42005030	Anyíatɛ́		Aáná na Bafalisiɛ́ŋ na bíábɔ́ bikendinyi beékúnyi bikotí ŋe bú túme obícúcúle , bá bátaka baákɔ́nɛ́na bé Yésus báyɛ : « Anyíatɛ́ nu ŋe nú nyíényi , nu muékínyi ne betúé etéési na bakɛla maabɛ́ e ? »
+42005033	~		Baacɔ a bɔ́mɔtɛ́ ŋa bɔ́ laána Yésus báyɛ : « Baákɔ́nɛ́na bá Sáaŋ Batis naŋa bébú bíkíilieke ɔnyíá bɛ́mɔtɛ́ bikúlú , bá bɛ́cɔ́kɔ́lɔ́kɛ́na , ta baákɔ́nɛ́na bá Bafalisiɛ́ŋ áyá , ekúlú ayɛ́ bɔ́ɔ́wɔ ŋá bɔ́ nyíá , bá múákɛ́na . »
+42005034	~		Mbá Yésus ɔsɛ náábɔ́ : « Mbá nua nɔ́ŋa nú okóti baacɔ abá bɔ́ lɔ́ŋɔ́kɔ e nusíke ɔnyíá e , ekúlú ekime ayɛ́ ɔnɔ́mɛ áŋa ɔlɔŋɔ ne beébe e ?
+42006002	Anyíatɛ́		Bafalisiɛ́ŋ a bɔ́mɔtɛ́ a bá ŋaá bá hɔ́á ɔlɔŋɔ ŋe bú beébe bata báyɛ : « Anyíatɛ́ nu ŋa nɔ́ kɛ́la bɔkɔ abɔ́ yáásɔ́ okotí ti ŋé yiínjie ɔɔcɔ makɛ́nda ma ɔkɛlaka buɔ́sɛ́ bú ehélúme e ? »
+42006009	aátɛ́		Ekúlú eéyé , Yésus ɔsɛ náábɔ́ : « Ɛ ŋa mɛ́ banɔ́ bata aátɛ́ yáásɔ́ okotí ŋe yiínjie makɛ́nda ma ɔkɛlaka e ? Ɔkɛla bɔmbányɛ buɔ́sɛ́ bú ehélúme ayɛ́ʼ ɔkɛla bɔɔbɛ́ e ? Onohi ɔɔcɔ ayɛ́ʼ o wuúci nyímísi e ? »
+42006032	bɛ́yaátɛ́		« Mbɔ́kɔ nu ŋe nú léne hú baacɔ a bá ŋa bɔ́ banɔ́ léne , bɛnamá bɛ́yaátɛ́ nu ŋa nɔ́ táta e ? Ta bakɛla maabɛ́ ŋa bɔ́ kɛla híáná .
+42006033	bɛ́yaátɛ́		Mbɔ́kɔ nu ŋa nɔ́ kɛ́la bɔmbányɛ hú ná baacɔ a bá ŋa bɔ́ banɔ́ kɛ́la bɔmbányɛ , bɛnamá bɛ́yaátɛ́ nu ŋa nɔ́ táta e ? Ta bakɛla maabɛ́ ŋa bɔ́ kɛ́la híáná .
+42006034	bɛ́yaátɛ́		Mbɔ́kɔ nu ŋe nú fóli hú baacɔ a bá bɔ́ŋa bá ɔ banɔ́ hélúmúnyínyi , bɛnamá bɛ́yaátɛ́ nu ŋa nɔ́ táta e ? Bakɛla maabɛ́ ŋe bú fólinyi tɔ́na , anyía bé beébe hélúmúnyínyi bɔkɔ búmɔtɛ́ !
+42006039	~		Yésus ŋaá háná beébe túmíne ɛnjaba eeci : « Ɔ́kɔ , ondíméndíme áŋa wu okendisiki sɔ́ɔ́kɔ́ ondíméndíme e ? Eéʼeé , keyé bá ká ka bɔ́ kúákɔna a nɔɔfia beébe bekime béfendí .
+42006041	Anyána		Huúúʼ ! Anyána ɔ ŋɔɔ́ lɛca efumbú a yááŋa eé nyiíse nyɛ́ sɔ́ɔ́kɔ́ , a tɛ lɛca bɔɔtɛ́ a búáŋa a nyiɔ́wɔ e ?
+42006042	anyána		Ta anyía anyána ɔ ŋɔɔ́ laana sɔ́ɔ́kɔ́ asɛ : “ Ɔ́ɔ́kɔ , yámɛ ɔ waáŋía efumbú eé nyiíse ” , kuɔŋɔ́ a tɛ lɛca bɔɔtɛ́ a búáŋa a nyiɔ́wɔ e ? Kuɔŋɔ́ , ɔɔcɔ ɔ tɔbɛ́mbɛ túfendí , caŋá bɛ́áŋía bɔɔtɛ́ a búáŋa oówo eé nyiíse , mbá e menyi ɔlɛca efumbú a yááŋa eé nyiíse nyɛ́ sɔ́ɔ́kɔ́ . »
+42006046	Anyána		« Anyána nɔ́ ŋa nɔ́ mɛ lɔ́ŋɔ anyía “ Otéŋí a Waáŋá , Otéŋí a Waáŋá ” mbá nu tɛ kɛlá bɛsana abɛ́ ɛ ŋa mɛ́ banɔ́ laána e ?
+42007024	Aátɛ́		Ɛ́makɛ́la baákɔ́nɛ́na bá Sáaŋ ébú súéte , mbá Yésus a asana yɛ́ Sáaŋ ɔsɛ ná baacɔ bá nyɛkɔca : « Aátɛ́ nú ŋa nɔ́ bá nuanɔ́ áambaka ɔkɔlɛ́ca , ekúlú ayɛ́ nɔ́ ŋa nɔ́ cɔ́ba i iisí cɛ ɔsɛ́bɛ́á e ? Nɔtɔŋɔtɔ́ŋɔ́ enú ehúne ŋé fúke ayɛ́ʼ ?
+42007025	Aátɛ́		Aátɛ́ nɔ́ ŋa nɔ́ bá nuanɔ́ áambaka ɔkɔlɛ́ca aná e ? Ɔɔcɔ awɔ́ ú maá láŋabaka bɔmbányɛ e ? Eéʼeé , anyía baacɔ a bá ŋa bɔ́ láŋaba bɔmbányɛ ŋe bú líhe bɔmbányɛ eé meébe me betéŋí .
+42007026	aátɛ́		Mbá aátɛ́ aná nɔ́ ŋa nɔ́ bá nuanɔ́ áambaka ɔkɔlɛ́ca e ? Muhémúnyi bɛsana e ? Ɛ́ɛ , ɛ ŋa mɛ́ banɔ́ láana anyía u ŋa hɔ́la muhémúnyi bɛsana .
+42007031a	aányɛ́		Yésus ŋá kɔɔ́na tɔ́na ɔsɛ : « Na aányɛ́ ya mɛ́ŋa wu oketi baacɔ bá hɛɛya eehi e ? 
+42007031b	Aányɛ́		Aányɛ́ bá ŋa bɔ́ hɔ́á e ?
+42007042	háányɛ́		Ta ɔmɔtɛ́ e bífendí eébí tɛ ɔ́mɔ bá ne ohónyí wú ɔtua búáyɛ́ buhíné . Nyíáyɛ́ nyi beébe nyɛanɛnɛna eényí beébe bekime ; a baacɔ eébé béfendí sɔ́ɔ́kɔ́ awɔ háányɛ́ u kéé wuúci lénéke buéŋí e ? »
+42007049	háányɛ́		Baacɔ a bá ŋa bɔ́ bá bébú nyiékínyi ŋe bú túme obílúmínyi báyɛ : « Háá ! Ɔɔcɔ u háányɛ́ ooci , u ŋa nyɛ́anɛnɛna baacɔ maabɛ́ e ? »
+42008025a	weényí		Mbá Yésus ná baákɔ́nɛ́na ɔsɛ : « Uúnú olumitinine weényí e ? » Aáná baákɔ́nɛ́na ŋa bɔ́ bá bébú líkíméke , bé ŋe bú kéké , bá kɔ́ɔnaka beébe ne beébe báyɛ : 
+42008025b	háányɛ́		« Ɔɔcɔ u háányɛ́ ooci e ? Ú ŋe téŋínyi te ehúne te menyífé , bí wuúci lɔ́kɔ́mákɛ́na ! »
+42008028	yaátɛ́		Ɛŋakɛlá ɔɔcɔ oócí áa lɛca Yésus , u ŋá aánjálɛ́ta , u ŋé wuúci túmíne eŋéndu , u ŋɔ́ bɔmɛ́ta ɔsɛ : « Yésus , Ɔɔ́nɔ́ u Bandɔ́mɛsɛ́ a wáŋa Waáŋá , asana ayɛ́ yaátɛ́ yááŋa na yaŋɔ́ na kuɔŋɔ́ e ? Cɔ́kɔ́lɛ , eti mi íínjíé muuyé . »
+42008030	aányɛ́		Mbá Yésus maá bata ɔɔcɔ oócí ɔsɛ : « Nyiɔ́wɔ nyiínyi ɛ́cɛ aányɛ́ e ? » Ɔsɛ : « Bɔnɔnja » , anyía bɔnɔnja bɔ́ bɛɛbɛ́ bí bililé ŋo yóófókíne aá ciayɛ́ cɛɛ́tɔ noómi .
+42008045	Aányɛ́		Yésus ɔsɛ : « Aányɛ́ ú meé mi bítíse e ? » Hú náányɛ́ ɔsɛ : « Tɛ́ cáŋa yaŋɔ́ ! » Mbá Bíel ɔsɛ : « Taatá , baacɔ ŋó yóo sékítínyi , bá ɔnyɛkɛtakɛna ; beébe bé mé bú o bítíse . »
+42009009a	~		Mbá Elóot ɔsɛ : « Yaŋɔ́ ɛsɛ ɛ́ ŋá mɛ́ kɛlá anyía bá cála aatɔ́ yɛ́ Sáaŋ e ? 
+42009009b	háányɛ́		Mbá ɔɔcɔ u háányɛ́ ooci u ŋa kɛ́la nyɛnamá nyɛ́ bɛsana eényí anyɛ́ ɛ́ ŋá mɛ lɔ́kɔ́ma e ? » U ŋaá bá waá yaámbaka ɔlɛca Yésus .
+42009018	aányɛ́		Búmɔtɛ́ buɔ́sɛ́ abɔ́ Yésus ŋaá bá waá bɛ́cɔ́kɔ́lɔ́kɛ́na Bandɔ́mɛsɛ́ , bááyɛ́ baákɔ́nɛ́na ŋaá bá hoóhi ne wuúci . Yó beébe bata ɔsɛ : « Baacɔ ŋe bú bíkéti báyɛ ya mɛ́ŋa aányɛ́ e ? »
+42009020a	~		Mbá ɔsɛ : « Mbá banɔ́ʼo , 
+42009020b	aányɛ́		nɔsɛ ya mɛ́ŋa aányɛ́ e ? » Bíel ɔsɛ : « Ɔ ɔ́ŋa Mesíi awɔ́ Bandɔ́mɛsɛ́ ŋeé télímínyi . »
+42009025	yaátɛ́		Bɔmbányɛ bɔ́ yaátɛ́ ɔɔcɔ ŋa lɛ́ca ekúlú ayɛ́ wá yáambaka yɔ́ bɔ́ŋɔ bɔŋaŋa bɔ́ ɔmɛsɛ́ bukime , mbɔ́kɔ u ŋé nyímísi úúyé olíhe ta anyía yó wuúci cáŋgɛna e ?
+42009041a	nyíényí		Mbá Yésus ɔsɛ : « Ééʼ , banɔ́ bɛɛbɛ́ bɛ́ baacɔ eebi , nu ti ŋé nú lúmitinine ! Ɔ ɔkɔɔ́háma nyíényí ɛ ká mɛ bá ɔlɔŋɔ na banɔ́ , 
+42009041b	~		míɔ banɔ́ eéhínyínyi e ? » Mbá ɔsɛ ná ɔɔcɔ : « Héléne uuwe ɔɔ́nɔ́ aaha . »
+42010025	aátɛ́		Ekúlú eéyé , muékúnyi bikotí a mumɔtɛ́ ŋa hátɔ́na ɛndánáka ; u ŋá batá Yésus o o wuúci kúfítínyi , ɔsɛ : « Muékúnyi , aátɛ́ yámɛ nyɛmána wu ɔkɛla ɔ ɔbɔ́ŋɔ yɔɔ́sɔɔ́sɔ yí olíhe yí ekúlú ekime e ? »
+42010026a	aátɛ́		Yésus ŋé wuúci bɛ́káma ɔsɛ : « A bíásɔ́ bikotí , aátɛ́ yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ e ? 
+42010026b	Anyána		Anyána ɔ́ ŋɔɔ́ lɔ́kɔ́ma , ekúlú eyí ó ŋoó biíbi fana e ? »
+42010029	Aányɛ́		Mbá muékúnyi bikotí eémú ŋaá bá máa yáambaka otóŋínyi anyía muáŋa atálɛ́mánánɔ́ yɛ́ ɔɔcɔ ; aáná mu ŋá batá Yésus mɔsɛ : « Aányɛ́ wáŋa sɔ́ɔ́kɔ́ e ? »
+42010036a	~		Mbá Yésus ɔsɛ né muékúnyi bikotí : « A bɛ́tátɔ́ bɛ́ baacɔ eébí , 
+42010036b	háányɛ́		awɔ́ háányɛ́ o ŋoó bíketi anyía wáŋa sɔ́ɔ́kɔ́ cɛ ɔɔcɔ ewú bicónjólóŋó ŋá hátɛ́na e ? »
+42011008	~		Ta u tɛ á bá wu ɔhatɔna anyía weé wuúci iínjíé bɛnyɛ́ma anyía aláayɛ́ wáŋa ; mbá u káá hatɔna yó wuúci iínjíé bɔkɔ bukime abɔ́ u ŋa yáamba anyía aláayɛ́ ti ŋé bíyébi , u ŋa cɔ́ba eé buúse o o wuúci kɔŋɛna .
+42011011	Aányɛ́		Aányɛ́ síkíne cɛ baáná aanɔ́ ɛ ɛkatɛ́katɛ́ áŋa wu owiínjie uuyé ɔɔ́nɔ́ yeéménéméné mbɔ́kɔ ɔɔ́nɔ́ ŋé wuúci kɔ́ŋɛ́na hiɔfɔ́ e ?
+42011012	~		Ta anyía wáŋa wu o wuúci iínjíé ɛŋɛŋɛ́ mbɔ́kɔ ɔɔ́nɔ́ ŋé wuúci kɔ́ŋɛ́na yɔɔ́nɔ e ?
+42011013	anyána		Hú banɔ́ abá nua nɔ́ŋa bɛɛbɛ́ bɛ́ baacɔ , nu ŋe nú ményi owiínjie báánɔ́ baáná bɛmbányɛ bɛ́ bɛnyɛ́ma , mbá anyána aná na ciasɔ́ Síkíne cɛ Ɔmuaná e ? U kéé yiínjie Efúúménénú yí Elilé a baacɔ e bé ŋe bú wuúci kɔŋɛna . »
+42011018	anyána		Mbɔ́kɔ Sátan ŋeé bínúusi , anyána búáyɛ́ butéŋí áŋa bɔ́ ɔcɔcɔbaka ne buúse e , anyía nu ŋa nɔ́ kɔ́ɔna nɔsɛ i ŋeé mi hémúnyi bɛɛbɛ́ bí bililé a baacɔ na makɛ́nda amá Bɛlɛsɛbúl , úúbú otéŋí , ŋeé mi iínjíe .
+42011019	aányɛ́		Mbɔ́kɔ na makɛ́nda ma Bɛlɛsɛbúl i ŋeé mi hémúnyi bɛɛbɛ́ bí bililé a baacɔ , báánɔ́ baacɔ ŋe bú biíbi hémúnyi na makɛ́nda ma aányɛ́ e ? Beébe bá ká bɔ́ banɔ́ sɔ́mbɔ́tɔ́nɛ́na asana eeye .
+42012014	aányɛ́		Yésus ɔsɛ nááyá : « Ɔɔcɔ ooci , aányɛ́ ú ŋeé mi télímínyi mukélísi bíánɔ́ bɛsana , ta anyía mɔsalɔtɔna búánɔ́ bɔnɔ́mɛ e ? »
+42012017	anyána		Cí ŋé túme ɔbɛ́táá anyána ú ŋa cɔba ɔ ɔkɛlaka anyía waá bátɛ́ákɛ́na bíáyɛ́ bɛyɔyɛ́ .
+42012020	aányɛ́		Mbá Bandɔ́mɛsɛ́ ɔsɛ : “ Yaála yɛ́ ɔɔcɔ , buutú bɔ́ hɛ́nánɔ eebu ɔ ŋɔɔ́ faŋiaka ofule . Mbá aányɛ́ u káá bá na bɛnyɛ́ma abɛ́ ɔ́ mɔɔ́ bátɛ́ákɛ́na e ? ” »
+42012024	~		Ánɔ lɛcaka bɛkɔcɔ́kɔ́cɔ́ , bɛ́ tɛ ŋɔ́ɔ́ yɔɔ́nɔ́ , bɛ́ tɛ́ banda bɛyɔyɛ́ , bɛ́ tɛ á bá ta na afɛná ta na tɔɔ́la , mbá Bandɔ́mɛsɛ́ ŋeé biíbi túke ; nú ŋa nɔ́ hɔ́la buéŋí tunonyí !
+42012025	aányɛ́		Aá banɔ́ eebe , aányɛ́ wáŋa wu osolinyi ta buɔ́sɛ́ búmɔtɛ́ e úúyé olíhe ɔ ɔbɛ́ákɛ́na awɔ́ ú ŋa bɛ́ákɛ́na e ?
+42012026	anyíatɛ́		Mbɔ́kɔ nu tɛ anɔ́ bá nú ɔkɛla ta bɔkɔ a hɛsanasáná eéhí , anyíatɛ́ nú ŋa nɔ́ bɛ́ákɛ́na a bɛsana a bɛ́mɔtɛ́ e ?
+42012042	~		Mbá Otéŋí ɔsɛ : « Muafa bɛnyɛ́ma o ooki a muáŋa ne injiŋé , mu nyióyísíkínyi bɛsana áŋa muafa eemu emú uuyé waáŋá káá háya ne o otétényi ciíbe ne owiínjie bɔnyiɔnɔ bé etémbí bɛnyɛ́ma bɛ́ ɔnyíá bɛ́ buɔ́sɛ́ bukime .
+42012049	~		« Ɛ ŋa mɛ́ faáya ɔ ɔcia oocó ɔ ɔmɛsɛ́ , a nyíámɛ́ , keyé wa yáaŋa ɔ ɔlɔla !
+42012056	anyána		Banɔ́ baacɔ bá tɔbɛ́mbɛ túfendí , nu ŋe nú menyi obísíémúnyi na ɔmɛsɛ́ na ɔmuaná ; mbá anyána nu ti ŋé nú menyi obísíémúnyi bɛsana a bɛ́ ŋa bɛ́kɛ́la ɔ mɔɔ́sɛ́ eeme e ?
+42012057	Anyíatɛ́		Anyíatɛ́ banɔ́ bɛ́muátá nu ti ŋé nú ményi ɔwaálɔ́na bɛsana bɛ́ ɔkɛlaka a bɛ́áŋa bɛtálɛ́mánánɔ́ e ?
+42013004	~		Ta anyía , nu ŋa nɔ́ bɛ́táá asana yɛ́ baacɔ eebe buunyi na bátátɔ́ ebé ciíbe cɛ ɔmuaná cɛ andányɛ́ a asásɛ́ yí Siloé ŋeé beébe kuákɔ́nákɛ́na , cío beébe ɔɔ́kɔ́sɔ́kɔ . Yáakɛlá a nyíánɔ́ nyɛlɛca , bá ŋa bɔ́ kɛ́láka bɔɔbɛ́ ɔ ɔhɔla baacɔ bekime bé Yelúsalɛm a bɔ́mɔtɛ́ e ?
+42013007	~		Mbá ɔsɛ ná munyiɔ esíéné : “ Ɔ́ɔ lɛca , tuɔŋɔ a yáaŋa tɔ́tátɔ́ atɔ́ ɛ ŋa mɛ́ faaya ɔkɔwáamba bɛtámá e bufikié eebu , mbá ɛ tɛ bɔ́ŋɔ . Buúbu kuúsi ; bú ŋaá nyíá ɔmɛsɛ́ etémbí ne etémbí . ”
+42013015	~		Otéŋí a Waáŋá ŋé wuúci bɛ́káma ɔsɛ : « Na kuɔŋɔ́ na bɔlɔ́ɔwɔ nua nɔ́ŋa na tɔbɛ́mbɛ túfendí ; ɔ́kɔ , tɛ́ka ɔɔcɔ okime náánɔ́ naŋa wé súŋúne cíáyɛ́ káwɔ ta yááyɛ́ abaŋabɛbɛa eé ciíbe , yɔ́ cɔ́bana o okoómúúsi eé nuúci buɔ́sɛ́ bú ehélúme e ?
+42013018a	Aátɛ́		Mbá ɔsɛ : « Aátɛ́ Butéŋí bɔ́ Bandɔ́mɛsɛ́ ŋaá hɔ́á e ? 
+42013018b	aátɛ́		Na aátɛ́ ya mɛ́ŋa wu o buúbu keti e ?
+42013020	aátɛ́		Yésus ŋá háná kɔɔna ɔsɛ : « Na aátɛ́ ya mɛ́ŋa wu oketi Butéŋí bɔ́ Bandɔ́mɛsɛ́ e ?
+42013025	~		Ekúlú ayɛ́ muútí ooki káá hatɔna ɛndánáka , muɔ́ fáca ehenyi , banɔ́ a nɔháatɛ́ , nuó túme okite ehenyi , nu kɔɔnaka nɔsɛ : “ Taatá , basɔ́ kuúne ! ” Mu káá banɔ́ bɛ́káma mɔsɛ : “ Ɛ tɛ ŋá mɛ́ banɔ́ ményi buúse bukime , i ti menyi tɔ́na haála ehé nú ŋe nú húle . ”
+42014005	~		Mbá ɔsɛ náábɔ́ : « Isíʼo , tɛ́ka ɔɔcɔ okime náánɔ́ , mbɔ́kɔ uuyé ɔɔ́nɔ́ ta anyía ciayɛ́ káwɔ ŋá kuána e ekenú buɔ́sɛ́ bú ehélúme , u ŋeé wuúci sɔmɔ ta anyía u ŋeé ciíci sɔmɔ fiaŋɔ e ? »
+42014028	háányɛ́		Ɔɔcɔ u háányɛ́ mbɔ́kɔ u ŋa yáamba otúméke ciíbe cɛ andányɛ́ , áŋa wu otúme ɔfalɛfa tɛ́ka na ɔfanakɛna bɔmbányɛ , yó ményi anyía wáŋa na mɔɔnyɛ́ amá nyɛmána me o ciíci kuenyinyi ɔfalɛfa e ?
+42014031	háányɛ́		Ta anyía otéŋí awɔ háányɛ́ mbɔ́kɔ u ŋa yáamba ɔnua biité na sɔ́ɔ́kɔ́ otéŋí , áŋa wu ɔcɔba e biité wuúci tɛ́ka na ɔfanakɛna bɔmbányɛ , yó ményi mbɔ́kɔ na tɔ́sɛ́na cí bicénji cíɔ́hátá wáŋa wu onuusiki sɔ́ɔ́kɔ́ a wáŋa na tɔ́sɛ́na cí bicénji nyitíne e ?
+42014034	anyána		Makɛ́lɛ́ áŋa mambányɛ ; mbá mbɔ́kɔ makɛ́lɛ́ ŋá sɔ́lá , me ti soómo , anyána bááŋa bá ɔ háná meéme soomisiki e ?
+42015004	~		« Mbɔ́kɔ ɔɔcɔ a wɔmɔtɛ́ náánɔ́ áŋa na ɛtɔ́mbá etíne atáánɔ ; wée nyimisi ciíci ɛ́mɔtɛ́ , tɛ́ka u káá nyɛ́ána etíne ényíse ne imbuke buunyi ne ínyíse a atúalɔ́ anyía wá caŋá ká yáambaka e cinyíménú ɔ ɔkɔɔ́háma ayɛ́ u ké ciíci bɔ́ŋɔ e ?
+42015008	~		« Ta anyía túá kɔɔ́na anyía oónjú a wɔmɔtɛ́ áŋa ne biléŋú bɛ́ mɔɔnyɛ́ bíɔ́hátá ; weé nyímísi yiíyi ɔ́mɔtɛ́ , tɛ́ka u káá cia lámba , u húle sɔ́ɔnɔkɔ ciíbe ikime ɔ ɔwaamba ɔ ɔkɔɔ́háma ayɛ́ u kéé yiíyi bɔ́ŋɔ e ?
+42015026	Aátɛ́		U ŋɔ́ lɔ́ŋɛ́ta munyiɔnɔ a mumɔtɛ́ , ɔsɛ nááyá : “ Aátɛ́ yááŋa aáhá e ? ”
+42015029	~		Mbá ɔɔ́nɔ́ ɔsɛ nááyá : “ Ɔ́ɔ lɛcá ! Tuɔŋɔ a yáaŋa tuéŋí atɔ́ ɛ́ ŋɔ mɛ́ ɔ nyiɔnɔ buólí , ɛ kɛlaka bɔkɔ bukime abɔ́ ɔ ŋɔ mɛ́ laana anyía yámɛ́ kɛláka . Ta híáná , ó ti ŋóo mi iínjie te hibébíbébí anyía túésú bílénéke na baláamɛ .
+42016002	~		Ci ŋé muúmu lɔ́ŋɔ́kɔ , mbá cɛsɛ : “ Ɛ ŋá mɛ lɔ́kɔ́máka bɛɛbɛ́ bɛ́ bɛsana oówo e nyiínyi , mi tóŋgínyi háyɛ ɔ́ ŋɔɔ́ bɛ́kɛ́lɛ́na na búámɛ bɔnɔ́mɛ , anyía ɔ tɛ kɔ́ háná ɔbá múámɛ muafa bɔnɔ́mɛ . ”
+42016003	Anyána		Mbá muafa bɔnɔ́mɛ eémú ŋé túme obíkéti e uúye ɔtɛ́má mɔsɛ : “ Anyána míɔ cɔba ɔ ɔkɛlaka , háyɛ ciamɛ́ síkíne yɔ́ cɔ́ba ɔ ɔ mɛ aáŋíá e buólí e ? Ɛ tɛ ámɛ bá na makɛ́nda ma ɔnyiɔkɔ bisíéné ; yaŋɔ́ na aatɔ́ ɔlama o húlé lɛba .
+42016005	Aátɛ́		Nyíáyɛ́ nyɛlɔ́ŋɔ́kɔ eényí ɔmɔtɛ́ ɔmɔtɛ́ baacɔ bekime abá cíáyɛ́ síkíne ci buólí ŋaá bá cɛá bátaka mehíne ; mu ŋá laána u buúse mɔsɛ : “ Aátɛ́ ciamɛ́ síkíne ŋɔ yɔ́ɔ batá e ? ”
+42016007	aátɛ́		Mbá mɔsɛ ná u ɔláta : “ Kuɔŋɔ́ʼo , aátɛ́ ú ŋɔ yɔ́ɔ batá e ? ” Mbá ɔsɛ : “ Ikute cí iŋeŋé hɔ́ndɛ́tɛ ɛ́táánɔ . ” Muafa bɔnɔ́mɛ mɔsɛ né oócí : “ Núɔ́wɔ nufule nú buhíné eénú , ɔɔ́ŋɔ́kɔ hɔ́ndɛ́tɛ ínyíse . ”
+42016011	~		Mbɔ́kɔ nu tɛ ɔ́mɔ́ nɔ́ bɛ́kɛ́lɛ́na bɔmbányɛ aná na buŋaŋa bɔ́ ɔmɛsɛ́ a búáŋa bɔɔbɛ́ , ta ɔɔcɔ tɛ káá banɔ́ iínjíe taaká cɛ buŋaŋa .
+42016012	báányɛ́		Mbɔ́kɔ nu tɛ ɔ́mɔ́ nɔ́ bɛ́kɛ́lɛ́na bɔmbányɛ bɛnyɛ́ma bɛ́ bɔsɔ́ɔ́kɔ́ , báányɛ́ bá káá banɔ́ iínjíékíne bíánɔ́ bɛnyɛ́ma e ?
+42017007	~		Túá kɔɔna anyía ɔɔcɔ ɔmɔtɛ́ náánɔ́ áŋa na munyiɔnɔ , mu ŋɔɔ́ nyiɔ e esíéné ta anyía mu ŋeé tétényi bitúké . Weé muúmu lɛcá mu ke yeélúéke e buólí , wáŋa wu o muúmu laana anyía : “ Ké ké limíne ɔ ɔmɛsɛ́ , hélúméke , nyíáka ” e ?
+42017017	~		Mbá Yésus ɔsɛ : « Yaŋɔ́ ɛsɛ́ bíɔ́hátá bikime ŋá bɔ́ aáŋɔ́núaka e ? Mbá bá bánámányɛ́ nɔ́mɔ beényíe aná e ?
+42017018	~		Ta ɔɔcɔ tɛ ɔ́mɔɔ́ kɔ hálɔ́mɔ́na ne elime o owiínjie Bandɔ́mɛsɛ́ nuúmi , ɛ tɛ ŋáa bá hú ɔɔcɔ ooci a wáŋa okenyí e ? »
+42017020	Nyíényí		Ekúlú ayɛ́ Bafalisiɛ́ŋ ŋa bátá Yésus anyía : « Nyíényí Bandɔ́mɛsɛ́ kéé téŋgínyi baacɔ e » , u ŋé beébe bɛ́káma ɔsɛ : « Butéŋí bɔ́ Bandɔ́mɛsɛ́ tɛ káá fáaya baacɔ buúbu lɛcaka .
+42017037	háányɛ́		Baákɔ́nɛ́na ŋe bú wuúci batá báyɛ : « Otéŋí a Waáŋá , háányɛ́ bɛsana eébí káá bɛ́kɛ́láka e ? » Mbá ɔsɛ : « Haála ahá hɛsamba é wé , hɔ́á tɔfɔmbɔ naŋa túá bɛ́bándákána . »
+42018018	anyána		Otéŋí a wɔmɔtɛ́ u Besuif ŋa bátá Yésus ɔsɛ : « Ambányɛ yí muékúnyi , anyána yámɛ nyɛmána wu ɔkɛla anyía yámɛ bɔ́ŋɔ yɔɔ́sɔɔ́sɔ yí olíhe yí ekúlú ekime e ? »
+42018019	Anyíatɛ́		Mbá Yésus ɔsɛ : « Anyíatɛ́ ɔ ŋɔɔ́ mɛ lɔ́ŋɔ anyía ambányɛ yɛ́ ɔɔcɔ e ? Ta ɔɔcɔ tɛ á bá ambányɛ yɛ́ ɔɔcɔ , ɛ tɛ ŋáa bá hú Bandɔ́mɛsɛ́ bímuócí .
+42018026	aányɛ́		Baacɔ a bá ŋa bɔ́ bá bébú wuúci lɔ́kɔ́máka , ŋa bɔ́ kɔɔ́na báyɛ : « Mbá aáháʼo , aányɛ́ wáŋa wu ɔnɔhɔ aná e ? »
+42018036	Aátɛ́		U ŋá lɔ́kɔ́ma etúte yɛ́ baacɔ á hɔ́láka , u ŋá batá ɔsɛ : « Aátɛ́ yááŋa e ? »
+42018041	Aátɛ́		« Aátɛ́ ɔ ŋɔɔ́ waámba anyía yámɛ ɔ kɛla e ? » Mbá ɔsɛ : « Otéŋí a Waáŋá , kɛlá anyía yá háná ámɛ lɛcakana . »
+42019007	~		Ekúlú ayɛ́ baacɔ ŋa bɔ́ lɛ́cá asana eéyé , bekime ŋé túme ɔtáŋa ɛmbásɛmbásɛ , báyɛ : « Ú maá cɔ́ba ɔ ɔkɔfíanɛna o ooki ú aabɛ́ yɛ́ ɔɔcɔ . »
+42019023	Anyíatɛ́		Anyíatɛ́ aná ɔ tɛ ɔ́mɔ háya máámɛ́ mɔɔnyɛ́ haála ahɛ́ baacɔ ŋɔ fɔ́lɔ mɔɔnyɛ́ anyía a nyiámɛ nyɛkahálɔ́mɔ́na mío koó meéme hiíte na bɛtálá e ? ”
+42019031	Anyíatɛ́		Mbɔ́kɔ ɔɔcɔ ŋá banɔ́ báta ɔsɛ : “ Anyíatɛ́ nu ŋe nú wuúci súŋúne e ? ” , ánɔ bɛ́káma nɔsɛ : “ Otéŋí a Waáŋá ŋeé wuúci yáamba . ” »
+42019033	Anyíatɛ́		Ekúlú ayɛ́ bá ŋa bɔ́ bá bébú súŋúnéke ɔɔ́nɔ́ u abaŋabɛbɛa , bemuútí abaŋabɛbɛa ŋe bú beébe báta báyɛ : « Anyíatɛ́ nu ŋe nú súŋúne ɔɔ́nɔ́ u abaŋabɛbɛa ooci e ? »
+42020002a	háányɛ́		mbá báyɛ : « Na makɛ́nda ma háányɛ́ ɔ ŋɔɔ́ kɛ́la bɛsana eebi e ? 
+42020002b	Aányɛ́		Aányɛ́ ú ŋo yóo cuméke makɛ́nda me o biíbi kɛlaka e ? »
+42020005a	~		Bé ŋé túme osuŋunyinyi beébe ne beébe , báyɛ : « Mbɔ́kɔ túásɔ́ bɛ́káma anyía Bandɔ́mɛsɛ́ ŋaá tɔ́ma Sáaŋ o owootine baacɔ , keyé u ŋaá basɔ́ bata ɔsɛ : 
+42020005b	Anyíatɛ́		“ Anyíatɛ́ nú ti ómo nú wuúci lumitinine aná e ? ”
+42020013	anyána		Mbá muútí esíéné ŋa bɛ́báta mɔsɛ anyána mɔ́ɔ cɔba ɔ ɔkɛla e ? Mbá mɔsɛ mɔ́ɔ cɔba ɔ ɔtɔ́ma uuyé ɔɔ́nɔ́ u ɔtɛ́má , anyía yáakɛlá bá ŋa bɔ́ cɔ́ba o o wuúci lɔ́kɔ́mɛ́na .
+42020015	aátɛ́		Bé ŋé bu wuúci hámánána e esíéné , nyi wuúci ɔɔ́nɔ́kɔ eényí . » Mbá Yésus ɔsɛ : « A nyíánɔ́ nyɛlɛca , aátɛ́ muútí esíéné káá kɛlaka e ?
+42020017	Aátɛ́		Yésus ŋé beébe lɛcáka , mbá ɔsɛ : « Aátɛ́ buhúnyi bɔ́ Ciɔɔ́ŋɛ́ eebu ŋé hémbule e : “ Nyɛndányɛ́ anyɛ́ bafalɛfa ciíbe ŋe bú óómbóko , nyiínyi nyɛ́ ma bɛ́cáŋa nyɛndányɛ́ a nyɛ́ má bɛ́túáhɛ́na ciíbe ? ”
+42020023	~		Ɛ́makɛ́la Yésus eé ményí búábɔ́ buála , mbá ɔsɛ náábɔ́ :
+42020024a	aányɛ́		« Énu mi tóŋínyi eléŋú yɛ́ mɔɔnyɛ́ . Hibílícínyínyí hɛ́ aányɛ́ eéhí hɛ́áŋa ne nyiínyi eényí e ? » Mbá báyɛ : « Ne hibílícínyínyí ne nyiínyi nyɛ́ Sɛsáal bɛ́áŋa . »
+42020024b	~		
+42020033	háányɛ́		Yaátɛ́ asana tu ŋa sɔ́ ɔ bata anyía e ekúlú eyí biwéewé káá háanyuaka , sɔ́ɔ́kɔ́ awɔ́ háányɛ́ u káá bá ɔnɔ́mɛ u oónjú oócí aná e ? Yááŋa anyía bekime bétíndétú nɔ́mɔ ŋe bú wuúci bátɛ́ákɛ́na . »
+42020041	Anyána		Yésus ɔsɛ náábɔ́ : « Anyána baacɔ a bɔ́ŋa bɔ́ kɔ́ɔnaka anyía Mesíi áŋa u bɔnyɛ Táfit e ?
+42020044	anyána		Mbɔ́kɔ Táfit ŋeé wuúci lɔ́ŋɔ anyía uuyé Otéŋí a Waáŋá , anyána wáŋa wu ɔbá tɔ́na u bɔnyɛ Táfit e ? »
+42021007a	nyíényí		Bé ŋe bú wuúci bata báyɛ : « Muékúnyi , nyíényí bɛsana eébí káá bɛ́kɛ́láka e ? 
+42021007b	yaátɛ́		Hibílícínyínyí hɛ́ yaátɛ́ hí kóó tóŋínyi ekúlú ayɛ́ bɛsana eébí káá bɛ́kɛ́láka e ? »
+42022009	Háányɛ́		Báyɛ nááyá : « Háányɛ́ o ŋoó léne anyía tú ke sú ciíci tábɔ́náka e ? »
+42022011	háányɛ́		Mbá nú laána muútí ooki anyía Muékúnyi ŋa báta anyía háányɛ́ u ŋa cɔ́ba ɔ ɔnyíáka Basíka na bááyɛ́ baákɔ́nɛ́na e ?
+42022027	Aányɛ́		Aányɛ́ ú ŋa hɔ́la sɔ́ɔ́kɔ́ : Mulimine e tébíli ayɛ́ʼ muafa bɛnyɛ́ma e tébíli e ? Yaŋɔ́ ɛsɛ , mulimine e tébíli wá hɔ́la e ? Ɛ́hɛ́ɛ , yaŋɔ́ ya mɛ́ŋa aanɔ́ ɛ ɛkatɛ́katɛ́ háyɛ munyiɔnɔ bɔsɔ́ɔ́kɔ́ .
+42022046	Anyíatɛ́		Mbá ɔsɛ náábɔ́ : « Anyíatɛ́ nu ŋa nɔ́ hɛ́ta e ? Ánɔ háányúá , ánɔ bɛ́cɔ́kɔ́lɔ́kɛ́na Bandɔ́mɛsɛ́ anyía mɔɔ́kɛ́tánána tɛ banɔ́ fáayɛna . »
+42022064	aányɛ́		« Mbɔ́kɔ ɔ ɔ́ŋa muhémúnyi bɛsana , basɔ́ laána aányɛ́ ú mo yóo súbe aná e ? »
+42022071	Aátɛ́		Mbá báyɛ : « Aátɛ́ ! Tu tɛ ŋá háná asɔ́ aamba tɔkɔma tú etémbí ; yááŋa anyía basɔ́ bɛ́muátá tú ma sɔ́ lɔ́kɔ́máka úúyé ɔtáŋa ! »
+42023022a	~		Bílat ŋa háná é beébe laana e bikúlú bɛ́tátɔ́ ɔsɛ : 
+42023022b	yaátɛ́		« Bɔkɔ a bɔɔbɛ́ bɔ́ yaátɛ́ wáŋa ɔkɛlákánɔ́ e ? Ɛ́ tɛ ɔ́mɔɔ́ lɛ́ca bɔkɔ a bɔɔbɛ́ abɔ́ wá kɛláka , abɔ́ wá nyɛmána wu owééne . Míɔ cɔba ɔ ɔlaana baacɔ ébú wuúci súbéke ne mesue , mbá bé wuúci nyɛána , wé súéte . »
+42023031	anyána		Mbɔ́kɔ bá ŋa kɛ́la bɔɔtɛ́ a buɔ́sɔ nyɛnamá nyɛ́ bɛsana eényí , anyána bá ká kɛ́laka na bɔɔtɛ́ e buwéénú e ? »
+42024005	Anyíatɛ́		Aáná bulíkílíki ŋeé beébe tímbíé , bá ŋá cɔ́ŋɛ́máka . Baacɔ eébé ŋé beébe batá báyɛ : « Anyíatɛ́ nu ŋa nɔ́ áamba ooci a wáŋa wɔɔ́sɔ aá haála ahá bɛlɔ́ŋɔ́ áŋa e ?
+42024017	aátɛ́		Yésus ŋé beébe batá ɔsɛ : « Mbá aátɛ́ yááŋa , nu kandaka , nu suŋukunyinyi e ? » Bá ŋa bɔ́ tálɛ́mɛ́na , bá ŋá lɔ́kɔ́ma ɔtɛ́má ɔnua .
+42024019	yaátɛ́		U ŋé beébe báta ɔsɛ : « Bɛsana bɛ́ yaátɛ́ e ? » Mbá báyɛ : « Asana a yɛ́ ŋaá hámɛ́na Yésus , ɔɔcɔ u Násalɛt ; wuúci u ŋaá bá muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ a mɔ́ ŋaá bá na makɛ́nda a bɛsana abɛ́ mu ŋaá bá muá táŋáka , mu kɛ́laka ne eé buúse bɔ́ Bandɔ́mɛsɛ́ ne eé buúse bɔ́ baacɔ bekime bé Islayɛ́l .
+42024025	~		Ɛ́ɛhɛ́ Yésus ŋeé beébe laána ɔsɛ : « Banɔ́ baacɔ eébé , nu tɛ anɔ́ bá ne injiŋé , cíínú ɛtɛ́má ti ŋé tényí e lumitinine bɛsana bikime ebí behémúnyi bɛsana bá Bandɔ́mɛsɛ́ ŋa bɔ́ kɔ́ɔ́náka .
+42024038a	Anyíatɛ́		Mbá Yésus ɔsɛ náábɔ́ : « Anyíatɛ́ nu ŋe nú líkíme nyɛnamá eényí e ? 
+42024038b	aátɛ́		Nyɛnamá nyí isuŋí nyɛ́ aátɛ́ nua nɔ́ŋa ne nyiínyi ɛ ɛtɛ́má e ?
+43001019	aányɛ́		Ánɔ lɔ́kɔ́ma ɛmbasɔ́ acɛ́ Sáaŋ ŋaá haya ekúlú eyí betéŋínyi Besuif bé Yelúsalɛm ŋa bɔ́ tɔ́ma ne beluli nyiínjie na bɔnyɛ Léfi o o wuúci batá báyɛ : « Ɔ ɔ́ŋa aányɛ́ e ? »
+43001021	Aányɛ́		Mbá báyɛ : « Aányɛ́ ɔ ɔ́ŋa aná e ? Ɔ ɔ́ŋa Éli e ? » Ɔsɛ : « Eéʼeé . Ɛ tɛ á mɛ bá Éli . » Báyɛ : « Ɔ ɔ́ŋa muátɛ́ muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ e ? » Mbá ɔsɛ : « Buaka . »
+43001022a	aányɛ́		Ɛ́ɛhɛ́ bá ŋa háná ebú wuúci batá báyɛ : « Ɔ́ɔ basɔ́ laána , aányɛ́ ɔ ɔ́ŋa , anyía mbá túésú menyí obíkétíkínyi baacɔ a bábɔ́ basɔ́ tɔ́ma . 
+43001022b	aányɛ́		Ɔɔ́ ciɔ́wɔ injiŋé , o ŋoó bíkéti anyía ɔ ɔ́ŋa aányɛ́ e ? »
+43001025	asana a yaátɛ́		Beébe , bá ŋa háná ebú wuúci báta báyɛ : « Asɛ ɔ tɛ ɔ́ bá te Mesíi , ta anyía Éli , mbá ta muátɛ́ muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ , mbá a asana a yaátɛ́ o ŋoó wootine baacɔ aná e ? »
+43001038a	Aátɛ́		Yésus ŋaá bɛ́kúálɛ́ta , yɔ́ lɛ́ca anyía baacɔ ŋe bú wuúci látɛ́na , u ŋé beébe batá ɔsɛ : « Aátɛ́ nɔ́ ŋa nɔ́ aamba e ? » Báyɛ : 
+43001038b	háányɛ́		« Láábi , háányɛ́ o ŋoó limine e ? » ( « Láábi » ɛ́cɛ « Muékúnyi . » )
+43001046	Aátɛ́		Nataniɛl ŋé wuúci batá ɔsɛ : « Aátɛ́ a yambányɛ yááŋa yí ohúle a Násalɛt e ? » Mbá Fílib ɔsɛ nááyá : « Faáya ká lɛcá . »
+43001048	Háányɛ́		Nataniɛl ŋe wuúci batá ɔsɛ : « Háányɛ́ o ŋo mí menyi e ? » Yésus ɔsɛ : « Ɛ ŋá mɛ caŋácáŋa ɔ kuɔŋɔ́ lɛ́ca ɛ́cɛ Fílib tɛ ŋɔ́ yɔ́ɔ lɔ́ŋɛ́ta , kuɔŋɔ́ i indíné ci bufikié . »
+43002004	~		Mbá Yésus ɔsɛ : « Meemé , tɛ́ cáŋa kuɔŋɔ́ ɔ́ɔ nyɛmána wu o mi tóŋínyi bɔkɔ abɔ́ yámɛ nyɛmana wu ɔkɛla . Yáámɛ ekúlú tɛ́ ŋa nyɛ́mána . »
+43002018a	~		Ɛ́makɛ́la Yésus ɔ́ yɔ́ɔ́ŋɔ́kɛ́na betúé bitúké aáná , betéŋínyi Besuif ŋé bú wuúci batá báyɛ : 
+43002018b	~		« Kɛlá aná ekéki yí hibílícínyínyí ɔ ɔ basɔ́ tóŋínyi anyía ɔ ɔ́ŋa na bɔɔcɔ ɔ ɔbɛ́kɛ́lákɛ́na a nyɛnamá eényí . »
+43003004	Anyána		Nikotɛ́mɛ ŋa báta Yésus ɔsɛ : « Anyána ɔɔcɔ áŋa wu obíbíénútúne e ? Mbá wáŋa wu ɔhálɔ́mɔ́na a tɔɔna tú iinyí , yó bíbíénútúne e ? »
+43003009	Anyána		Ɛ́makɛ́la Nikotɛ́mɛ á lɔ́kɔ́máka ɔtáŋa ú Yésus , u ŋé wuúci batá ɔsɛ : « Anyána búáŋa bú ɔbɛ́kɛ́láka aná e ? »
+43003012	anyána		Mbɔ́kɔ nu ti ŋé nú mi lumitinine ekúlú ayɛ́ ɛ ŋá mɛ́ banɔ́ láana bɛsana bɛ́ ɔmɛsɛ́ , mbá anyána aná na bɛ́ Ɔmuaná e ?
+43004009	~		Oónjú oócí ɔsɛ nááyá : « Háá ! Kuɔŋɔ́ , ɔɔcɔ u Besuif , ɔ ŋɔ mɛ́ kɔŋɛna menyífé ma ɔmúá , yaŋɔ́ itónyi cɛ Samalí e ? » Bé ŋeé ményi anyía ne Besuif na baacɔ bá Samalí naŋa bé ti ŋé bú límínyínyi .
+43004011	Anyána		Mbá oónjú ɔsɛ : « Taatá , kuɔŋɔ́ ooci , ɔ tɛ ɔ́ bá na bɔtɔ́kɛ́ná ; ekenú áŋa tííme noómi tɔ́na . Anyána ɔ ŋɔɔ́ kɛlaka anyía ɔ́ɔ bɔ́ŋɔ menyífé me hicéme e ?
+43004027a	Aátɛ́		Aá yaátɛ́ ekúlú , baákɔ́nɛ́na bé Yésus ŋa ka bɔ́ hálɔ́mɔ́ná ; bɔ́ lɛ́ca waá táŋáka ne oónjú , bé ŋé kéké buéŋí . Mbá ta ɔɔcɔ ti ómó wuúci báta ɔsɛ : « Aátɛ́ ɔ ŋɔɔ́ waamba e ? » ta anyía : 
+43004027b	Anyíatɛ́		« Anyíatɛ́ ɔ ŋɔɔ́ táŋa ne oónjú oócí e ? »
+43005012	háányɛ́		Bé ŋé wuúci batá báyɛ : « Ɔɔcɔ awɔ́ háányɛ́ wɔ́ yɔ́ɔ laana aáná e ? »
+43005044	anyána		Nu ŋe nú léne nuúmi nú ohúlúkúne ná bɔsɔ́ɔ́kɔ́ baacɔ , nu ti léne nú ohúlúkúne ná Bandɔ́mɛsɛ́ bímuócí ; mbá anyána nua nɔ́ŋa nú olumitinine aná e ?
+43005047	anyána		Mbá háyɛ nu ti ŋé nú lumitinine cííyé Ciɔɔ́ŋɛ́ , anyána nua nɔ́ŋa nú olumitinine úúmi ɔtáŋa e ? »
+43006005	Háányɛ́		Yésus ŋaá tɔ́ma eése , yɔ́ lɛ́ca anyía yaandándá yí etúte yɛ́ baacɔ ŋeé wuúci látɛ́na , mbá ɔsɛ né Fílib : « Háányɛ́ tua sɔ́ŋa tú ɔbɔ́ŋgɔ́na bɛnyɛ́ma bɛ́ ɔnyíá anyía túásɔ́ ɔɔ́ndɔ́kɔ o otúkékíne eeye etúte yɛ́ baacɔ e ? »
+43006009	aátɛ́		« Ɔɔ́nɔmbɔ́ áŋa aaha a wáŋa ne biléti bɛ́táánɔ na tuɔfɔ́ɔ́fɔ́ túfendí . Mbá bɛ́áŋa bɛ́ ɔkɛla aátɛ́ na ɔmbana ɔ́ baacɔ ooci e ? »
+43006025	nyíényí		Bá ŋga bɔ́ kuána Yésus e eyinyíé asálá yɛ́ nuɔmɔ́ , mbá báyɛ nááyá : « Láábi , nyíényí ɔ́ mɔ́ kɔɔ́ háma aaha e ? »
+43006028	Aátɛ́		Ɛ́ɛhɛ́ bé ŋe bú wuúci batá báyɛ : « Aátɛ́ túásɔ́ nyɛ́mana tú ɔkɛlaka o onyíóyísínyi buólí abɔ́ Bandɔ́mɛsɛ́ ŋa yáamba anyía túásɔ́ nyiɔ́kɔ e ? »
+43006030a	yaátɛ́		Báyɛ : « Ekéki yí hibílícínyínyí a yaátɛ́ wɔ́ɔ cɔba ɔ ɔkɛla aná , mbá tuásɔ́ hákɛ́na mɔŋɔlɛ́ nɔ́ɔ́wɔ e ? 
+43006030b	Aátɛ́		Aátɛ́ wɔ́ɔ cɔba ɔ ɔkɛla aaha aámbáya e ?
+43006042	Anyána		Báyɛ : « Tɛ́ cáŋa Yésus , ɔɔ́nɔ́ u Yɔ́sɛb wáŋa e ? Tu ŋe sú ményi ne iinyí ne síkíne . Anyána u ŋaa kɔ́ɔna aámbáya anyía u ŋeé húle ɔ Ɔmuaná e ? »
+43006052	Anyána		Ɔ ɔtáŋa oócí , ɛsáká ŋaá kúá ɛ ɛkatɛ́katɛ́ cí Besuif , bá bɛ́bátáka báyɛ : « Anyána ɔɔcɔ ooci áŋa wu ɔ basɔ́ áafɛna ciayɛ́ cɛɛ́tɔ e ? »
+43006060	~		Ɛ́makɛ́la baákɔ́nɛ́na bé Yésus beéŋí ábɔ́ lɔ́kɔ́máka ɔtáŋa ú Yésus oócí , báyɛ : « Ɔtáŋa oócí ŋa náta . Ɔɔcɔ tɛ á bá wu o wuúci lɔ́kɔ́máka . »
+43006062	~		Mbɔ́kɔ nuánɔ́ lɛca Ɔɔ́nɔ́ u ɔɔcɔ á báátáka haála ahá u ŋa cáŋa á bámɛ́naʼoo ?
+43006068	aányɛ́		Símon Bíel ŋé wuúci bɛ́káma ɔsɛ : « Otéŋí a Waáŋá , ná aányɛ́ u etémbí tua sɔ́ŋa tú osúétéke e ? Ɔ ɔ́ŋa na ɔtáŋa ewú ú ŋe yiínjíéne yɔɔ́sɔɔ́sɔ yí olíhe yí ekúlú ekime .
+43007011	weényí		Betéŋínyi Besuif ŋaá bá bé húle é bú wuúci aambaka a bɔŋanda , bá bátaka báyɛ : « Wuúci weényí e ? »
+43007015	Anyána		Besuif ŋe bú túme okéke , bá kɔ́ɔnaka báyɛ : « Anyána ɔɔcɔ ooci áŋa ne omenyi ooci aana , wuúci tɛ́ka waákɔ́nákɛ́nánɔ́ e ? »
+43007019	Anyíatɛ́		Ɔ́kɔ , tɛ́ka Moyís ŋaá banɔ́ íínjíékíne bikotí e ? Mbá ta ɔɔcɔ aá banɔ́ tí ŋé biíbi látɛ́na . Anyíatɛ́ nú ŋa nɔ́ áamba ɔ mɛ ɔ́ɔ́nɔ e ? »
+43007020	Aányɛ́		Mbá báyɛ nááyá : « Ɔ ɔ́ŋa na aabɛ́ yí elilé ! Aányɛ́ ɔ́ mɔ́ lɛca wa yáámbaka ɔ kuɔŋɔ́ ɔ́ɔ́nɔ e ? »
+43007023	anyána		Ɔ́kɔ , bá ŋa yááca ɔɔ́nɔ́ a wɔnɔ́mɔcɔ́ ta hú buɔ́sɛ́ bú ehélúme , bá tɛ nɔ́kɔ okotí yí Moyís , anyána nú ŋe nú mí liŋine ekúlú ayɛ́ yaŋɔ́ , í meé mi eéŋúnyísi cɛɛ́tɔ ikimekime cɛ ɔɔcɔ buɔ́sɛ́ bú ehélúme e ?
+43007035	Háányɛ́		Besuif ŋe bú túme ɔbatana beébe ne beébe , báyɛ : « Háányɛ́ u kéé súéte mbá tu ti ké sú wuúci bɔ́ŋɔ e ? U kéé súéte né Besuif a bá na ma bɔ́ bɛ́látáka na Bakɛlɛ́k , yó búle éékúnyi Bakɛlɛ́k ayɛ́ʼ ?
+43007036	aátɛ́		U ŋa kɔ́ɔna anyía tu ké sú wuúci aambaka , tu ti wuúci bɔ́ŋɔ , anyía tu tɛ asɔ́ bá tú ɔkɔɔ́háma haála ahá u káá bá . Aáná ɛ́cɛ aátɛ́ e ? »
+43007041	háányɛ́		A bɔ́mɔtɛ́ tɔ́na báyɛ : « Mesíi ooci wáŋa ! » Mbá bé etémbí báyɛ : « Mesíi awɔ́ háányɛ́ wáŋa wu obíbíéne a Kalilé e ?
+43007045	Anyána		Bibulúsu ŋa bɔ́ hálɔ́mɔ́ná , bɔ́ kɔ kúána ne betéŋínyi beluli nyiínjie na Bafalisiɛ́ŋ . Betéŋínyi beluli nyiínjie ŋé beébe batá báyɛ : « Háá ! Anyána nú má ka nɔ́ hálɔ́mɔ́na hú wáánɔ́ , nu tɛ basɔ́ héléníne Yésus e ? »
+43007048	Aányɛ́		Aányɛ́ te e betéŋínyi Besuif ta a Bafalisiɛ́ŋ na ma cáŋa á háya mɔŋɔlɛ́ nááyá e ?
+43007051	~		« Ɔ́kɔ , tɛ́ka bíásɔ́ bikotí tɛ ŋá hátɛna ɔɔcɔ tɛ́ka ne o wuúci kélísi , tɛ́ka ne omenyi tɔ́na asana ayɛ́ wáŋa ɔkuánɔ́ e ? »
+43008005	anyána		Bikotí bí Moyís ŋaá basɔ́ iínjie makɛ́nda anyía i indélímínyínyi eeci , bá ŋá nyɛmána bé otúméke oónjú andányɛ́ ɔ ɔkɔɔ́háma anyía wé we . Mbá kuɔŋɔ́ʼo , nyiɔ́wɔ nyɛkɔɔna áŋa anyána e ? »
+43008010	beényí		Yésus ŋe túné á bɔ́nɔ́nua , mbá ɔsɛ né oónjú : « Meemé , mbá ba-kuɔŋɔ́-sɔ́mɛ́na beényí e ? Ta ɔɔcɔ tɛ ɔ́mɔ́ kuɔŋɔ́ iínjie nyɛkua e ? »
+43008019	weényí		Bé ŋeé wuúci batá báyɛ : « Ɔɔtɛ́ weényí e ? » Yésus ɔsɛ : « Nu ti ŋé nú menyi ta yaŋɔ́ ta ciamɛ Síkíne . Mbɔ́kɔ nuenú mí menyukune , keyé nu ŋe nú menyi tɔ́na ciamɛ Síkíne . »
+43008025a	aányɛ́		Bó wuúci batá báyɛ : « Ɛ́cɛ anyía ɔ ɔ́ŋa aányɛ́ e ? » 
+43008025b	~		Mbá Yésus ɔsɛ : « Ya mɛ́ŋa Ooci ewú i ŋeé mi túme ɔ banɔ́ láana buáyá .
+43008033	anyána		Mbá báyɛ nááyá : « Tua sɔ́ŋa baáná bá Abɛ́laham ; ta buɔ́sɛ́ ɔɔcɔ tɛ́ ŋá basɔ́ tíŋe ɔ buɔ́lɛ́ . Mbá tu ŋa sɔ́ bɛ́báta anyána ɔ́ ŋɔɔ́ kɔɔna anyía tu ká sɔ́ bá biéti . »
+43008043	Anyíatɛ́		Anyíatɛ́ nu tɛ ŋá nɔ́ lɔ́kɔ́ma bɔmbányɛ úúmi ɔtáŋa e ? Nu tɛ ŋá nɔ́ lɔ́kɔ́ma bɔmbányɛ úúmi ɔtáŋa anyía ú ŋaá banɔ́ hɔ́la ; nu tɛ ŋa nɔ́ bá na makɛ́nda ma ɔlɔ́kɔ́ma .
+43008046a	Aányɛ́		Aányɛ́ wáŋa wu otóŋínyi bɔɔbɛ́ abɔ́ ɛ́ ŋa mɛ́ kɛlaka e ? 
+43008046b	anyíatɛ́		Mbɔ́kɔ ɛ ŋaá mɛ́ táŋa hú taaká , anyíatɛ́ nu ti ŋé nú lumitinine úúmi ɔtáŋa aná e ?
+43008053	aányɛ́		Hú Abɛ́laham , ciasɔ́ síkíne é wé , ɛ́cɛ anyía kuɔŋɔ́ , ɔ ŋɔɔ́ waamba obíhíite waáŋá o o wuúci hɔla e ? Behémúnyi bɛsana bá Bandɔ́mɛsɛ́ ŋe bú wéékúne . O ŋoó bíkéti ɔmuátá anyía ɔ ɔ́ŋa aányɛ́ e ? »
+43008057	~		Mbá Besuif báyɛ nááyá : « Ɔ tɛ ŋɔɔ́ háma tuɔŋɔ etíne éfendí ne imbuke cíɔ́hátá , asɛ ɔ ŋɔɔ́ lɛcáka Abɛ́laham e ? »
+43009002	aátɛ́		Baákɔ́nɛ́na ŋá bɔ batá Yésus báyɛ : « Láábi , aátɛ́ yɛ́ ŋaá kɛ́láka anyía ɔɔcɔ ooci é bíbíéne ne indímé e ? Yááŋa hííyé hɛkɔma hɛ́ bɛ́muátá ayɛ́ʼ , hɛ́ bíáyɛ́ bibíényi e ? »
+43009010	Aátɛ́		Mbá bé ŋeé wuúci batá báyɛ : « Aátɛ́ yɛ́ má kɛ́la anyía ɔ́ɔ lɛcákána e ? »
+43009012	weényí		Mbá báyɛ : « Waáta ɔɔcɔ weényí e ? » Mbá ɔsɛ : « I ti ŋé mí menyi . »
+43009016	Anyána		A bɔ́mɔtɛ́ baacɔ ɔ ɔlɔŋɔ ú Bafalisiɛ́ŋ ŋa bɔ́ bá bábɔ́ kɔ́ɔnaka báyɛ : « Ɔɔcɔ oócí tɛ a bá ohúlénú ná Bandɔ́mɛsɛ́ , anyía u ŋɔ́ nɔ́kɔ okotí yɛ́ buɔ́sɛ́ bú ehélúme . » Bɔ́mɔtɛ́ bɔsɔ́ɔ́kɔ́ ábɔ́ kɔ́ɔnaka báyɛ : « Anyána mɔkɛla maabɛ́ áŋa wu ɔbá na makɛ́nda ma ɔkɛlaka nyɛnamá nyí bikéki bí tubílícínyínyí eényí e ? » Aáná bá ŋa bɔ́ bá eété náányíá náányia beébe ne beébe .
+43009017	anyána		Báyɛ ná ɔɔcɔ oócí : « Kuɔŋɔ́ʼo , anyána o ŋóo bíkéti a yááyɛ́ aháŋá háyɛ ú mó yóo wééŋúnyísi e ? » Ɔsɛ náábɔ́ : « Wáŋa muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ a mumɔtɛ́ . »
+43009019	Aátɛ́		Ɛ́makɛ́la bibíényi á ka bɔ́ háma , bé ŋé beébe bícónyíki báyɛ : « Uunú ɔɔ́nɔ́ ooci wáŋa e ? Yááŋa taaká anyía u ŋeé bíbíéné ne indímé e ? Aátɛ́ yɛ́ má kɛ́laka aná wá yáaŋa ɔ ɔlɛcana aámbáya e ? »
+43009026a	Aátɛ́		Báyɛ : « Aátɛ́ wɔ́ yɔ́ɔ kɛla e ? 
+43009026b	Anyána		Anyána wé yóo weéŋúnyísi eése e ? »
+43009027	anyíatɛ́		Ɔɔcɔ ɔsɛ : « Ɛ́ ma mɛ́ banɔ́ bɛ́líaŋɔnakɛna , nu ti léne ɔlɔ́kɔ́ma ; anyíatɛ́ nu ŋa nɔ́ áamba anyía yámɛ hálɔ́mɔ́kɔ́nɛ́na e ? Banɔ́ tɔ́na nu ŋa nɔ́ áamba anyía nuánɔ́ bámɔ́kɔ́na bááyɛ́ baákɔ́nɛ́na ayɛ́ʼ ? »
+43009034	yaátɛ́		Mbá báyɛ nááyá : « O ŋoó bíbíéne kuɔŋɔ́ okime aá bɔɔbɛ́ noómi ; nyiékúnyi nyɛ yaátɛ́ ɔ ɔ́ŋa wu ɔ basɔ́ éékúnyíki e ? » Nyíábɔ́ nyi wuúci ɔ́ɔ́ŋɔ́kɛ́na eényí .
+43009036	aányɛ́		Ɔɔcɔ ɔsɛ : « Taatá , ɔ́ɔ mɛ laána aányɛ́ wáŋa waátákána , mbá yámɛ háya mɔŋɔlɛ́ nááyá . »
+43010020	~		Baacɔ beéŋí eé beébe ŋa bɔ́ bá bábɔ́ kɔ́ɔnaka báyɛ : « Aabɛ́ yí elilé ŋe kéndisi ɔɔcɔ ooci . Wáŋa yaála . Nɔtɛ lɔ́kɔ́máka úúyé ɔtáŋa . »
+43010021	~		Bɔ́mɔtɛ́ tɔ́na báyɛ : « Ɔtáŋa oócí tɛ á bá ɔtáŋa ú ɔɔcɔ awɔ́ aabɛ́ yí elilé ŋé kéndisi . Mbá aabɛ́ yí elilé áŋa yí oweéŋúnyísíki bendíméndíme e ? »
+43010024	nyíényí		Besuif ŋe bú wuúci bɔŋɔ́lɛ́na , bó wuúci bata báyɛ : « Ɔ kɔ́ɔ́ basɔ́ tétísíki ɔ ɔkɔɔ́háma nyíényí e ? Mbɔ́kɔ ɔ ɔ́ŋa Mesíi , basɔ́ cálɔ́nɛ́na . »
+43010032	háányɛ́		Mbá u ŋeé beébe batá ɔsɛ : « Ya mɛ́ŋa ɔkɛlákánɔ́ bɛmbányɛ́kɛ́ bɛ́ bɛsana biéŋí a makɛ́nda ma ciamɛ Síkíne , mío biíbi banɔ́ tóŋgínyi . A asana ayɛ́ háányɛ́ nu ŋa nɔ́ áamba ɔ mɛ ɔ́ɔ́nɔ na andányɛ́ e ? »
+43010036	anyána		Ɛ́ɛhɛ́ yaŋɔ́ , Bandɔ́mɛsɛ́ ŋaá mɛ lɔ́tɔ , yɔ́ mɛ tɔ́ma ɔ ɔmɛsɛ́ . I ti ŋé mi menyi anyána nua nɔ́ŋa nú ɔkɔɔna anyía i ŋe mí féníne Bandɔ́mɛsɛ́ ekúlú ayɛ́ ɛ́ maá mɛ kɔɔna anyía ya mɛ́ŋa Ɔɔ́nɔ́ u Bandɔ́mɛsɛ́ .
+43011034	Háányɛ́		Mbá ɔsɛ : « Háányɛ́ nu ŋe nú wuúci nyié e ? » Báyɛ : « Otéŋí a Waáŋá , faáya , ká lɛcá . »
+43011047	anyána		Ɛ́ɛhɛ́ na Bafalisiɛ́ŋ ne betéŋínyi beluli nyiínjie ŋa bɔ́ bándá Hitúlé a hiáŋá hɛ́ bunɔŋɔ , mbá báyɛ : « Ɔɔcɔ oócí a yánáŋa hú ɔkɛla bikéki bí tubílícínyínyí ! Túá kɛla anyána e ?
+43011056	~		Bá ŋa bɔ́ bá bábɔ́ áambaka Yésus ; ahɛ́ bá ŋa bɔ́ bɛ́bánda eé Ciíbe cɛ Bandɔ́mɛsɛ́ noómi , bé ŋé túme ɔbɛ́báta beébe ne beébe báyɛ : « A nyíánɔ́ʼo , nu ŋe nú bíkéti anyía u ŋa fáákɔna a bɔŋanda eebu e ? »
+43012005	Anyána		« Háá ! Anyána bá tɛ́ ɔ́mɔɔ́ bá bé otúé ɔsɔŋɔ yí enumbé eeye e ? Yɛ́ ŋaá bá yɔ́ tɔ́nɔ ɔ ɔhɔla mɔɔnyɛ́ hɔ́ndɛ́tɛ ɛ́tátɔ́ amá bááŋa bé owiínjíékíne basɔ́kásɔ́ka . »
+43012027	anyána		Aámbáya eeci úúmi ɔtɛ́má ŋaa bɛ́nyíá . Yámɛ kɔɔ́na anyána e ? Yámɛ kɔɔ́na ɛsɛ́ : “ Síkíne , mɛ hɔkɔ́nɔ́nɔ a asana ayɛ́ yɔ́ cɔ́ba ɔ ɔbɛ́kɛ́láka aámbáya ” , ayɛ́ʼ ? Eéʼeé ! Ɛ tɛ amɛ́ bá wu o wuúci laana aáná , anyía ɛ ŋa mɛ́ faáya ɔ ɔkɔlɔ́kɔ́ma muuyé o onjéŋí ooci .
+43012034a	~		Baacɔ ŋe bú wuúci bɛ́kámá báyɛ : « E nufule nú bikotí bɔ́ ŋɔ yɔ́ɔ́ŋɔ́kɔ́ anyía Mesíi kéé líhéke tɛ́ka ne nyióndi . Kuɔŋɔ́ , ɔ ŋɔɔ́ kɔɔna náányia , asɛ : “ Bé kéé bééti Ɔɔ́nɔ́ u ɔɔcɔ ” . 
+43012034b	aányɛ́		Ɔɔ́nɔ́ u ɔɔcɔ waátákána ɛ́cɛ aányɛ́ e ? »
+43012038a	aányɛ́		Aáná bɛsana ebí muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ Ɛsayí ŋaá táŋáka buáyá ŋeé bínyíóyísínyi ; u ŋaá kɔ́ɔ́náka ɔsɛ : « Otéŋí a Waáŋá , aányɛ́ ú ŋeé lúmitinine úúsú ɔtáŋa e ? 
+43012038b	aányɛ́		Ná aányɛ́ Bandɔ́mɛsɛ́ ŋoó tóŋínyi maayɛ́ makɛ́nda e ? »
+43013025	aányɛ́		Muákɔ́nɛ́na ŋá bɛ́kɔ́ŋɔ́na né Yésus , mu ŋé wuúci batá ɛmbásɛmbásɛ , mɔsɛ : « Otéŋí a Waáŋá , ɔ ŋɔɔ́ táŋa asana yɛ́ aányɛ́ e ? »
+43013036	háányɛ́		Símon Bíel ŋaá batá Yésus ɔsɛ : « Otéŋí a Waáŋá , háányɛ́ wɔ́ɔ cɔba e ? » Yésus ɔsɛ : « Haála ahá míɔ cɔba , ɔ tɛ ɔ́ bá wu ɔ mɛ láta hɔ́á aámbáya , mbá o kó síke ɔ mɛ láta e elime . »
+43013037	anyíatɛ́		Bíel ɔsɛ nááyá : « Otéŋí a Waáŋá , anyíatɛ́ ɛ tɛ ámɛ bá wu ɔ kuɔŋɔ́ láta aámbáya e ? I ŋe mí lumítíne owé ɔ yɔ́ɔ́wɔ asana ! »
+43014002	~		Bɛhaála bí olímekine áŋa biéŋí o ooki ú ciamɛ Síkíne . Mbɔ́kɔ yiíyi tɛ́ka aáná , keyé ɛ́ ma mɛ́ banɔ́ láana . Míɔ cɔba , yá ka mɛ́ banɔ́ tábɔ́nákɛ́na haála .
+43014005	anyána		Mbá Tɔ́mas ɔsɛ : « Otéŋí a Waáŋá , tu ti ŋé sú ményi ta haála ahá wɔ́ cɔba , anyána tua sɔ́ŋa tu omenyi ohónyí e ? »
+43014009	Anyána		Yésus ŋá bɛ́káma ɔsɛ : « Fílib , feeké yámɛ báka na banɔ́ , e ti mi menyi e ? Ɔɔcɔ awɔ́ á mɛ́ lɛca ma lɛ́ca ciamɛ Síkíne . Anyána asɛ : “ Basɔ́ tóŋínyi Síkíne ” e ?
+43014022	anyána		Mbá Yútas , tɛ́ cáŋa ooci u Iskaliót , ɔsɛ né Yésus : « Otéŋí a Waáŋá , anyána ɔ ɔ́ŋa we obítóŋínyi náásɔ́ ɔ ɔhɔla anyía óo bítóŋínyi ná baacɔ bá ɔmɛsɛ́ e ? »
+43016005	Háányɛ́		Mbá aámbáya ɛ ŋa mɛ́ banɔ́ biíbi laana anyía mío súéte a maabána ma Mu-mɛ-tɔ́ma , mbá ta ɔɔcɔ aanɔ́ ɛ ɛkatɛ́katɛ́ tɛ ŋá mɛ bata ɔsɛ : “ Háányɛ́ wó súéte e ? ”
+43016017	Aátɛ́		Bááyɛ́ baákɔ́nɛ́na a bɔ́mɔtɛ́ ŋe bú túme ɔbɛ́báta báyɛ : « Aátɛ́ u ŋá kɔ́ɔna e ? Wáŋa ɔ ɔ basɔ́ láana ɔsɛ : “ Hikúlúkúlú nu tɛ ká háná ánɔ́ mɛ lɛca , mbá e elime ci hikúlúkúlú a hɛ́mɔtɛ́ nɔ ká háná ánɔ́ mɛ lɛca . ” U túné táŋáka ɔsɛ : “ Yááŋa anyía mío súéte a maabána me Síkíne . ”
+43016018	aátɛ́		Hikúlúkúlú ahɛ́ u ŋá táŋa ɛ́cɛ aátɛ́ e ? Tu ti ŋé sú menyi asana ayɛ́ u ŋaá táŋa . »
+43018004	Aányɛ́		Yésus ŋaá bá weé ményukune bɛsana bikime a bɛ́ ŋaá bá bíé wuúci tátáka , ɛ́ɛhɛ́ u ŋaá hámá , yɔ́ tálɛ́mɛ́na eé buúse bɔ́ baacɔ eébé , mbá ɔsɛ náábɔ́ : « Aányɛ́ nú ŋa nɔ́ áamba e ? »
+43018007	aányɛ́		Yésus ŋé túné beébe batá ɔsɛ : « Nɔsɛ aányɛ́ nu ŋa nɔ́ áamba e ? » Báyɛ : « Yésus , ɔɔcɔ u Násalɛt . »
+43018011	~		Yésus yɔ́ láana Bíel ɔsɛ : « Hélúmúnyi núɔ́wɔ nɔsala nɔ́ ɔhána a abákála . O ŋoó keti anyía i ŋe mí kine ɔmúá indekese acɛ́ ciamɛ Síkíne ŋeé mi iínjíé e ? »
+43018021	Anyíatɛ́		Anyíatɛ́ ɔ ŋɔ́ mɛ bata e ? Ɔ ŋɔ́ɔ bá wu obícónyíki baacɔ eebe a bá ŋa bɔ́ lɔ́kɔ́máká úúmi ɔtáŋa . Beébe , bé ŋe bú ményi bɔmbányɛ bɛsana ebí i ŋe mí beébe laakɛ́ná . »
+43018023	anyíatɛ́		Mbá Yésus ɔsɛ : « Mbɔ́kɔ ɛ ŋá mɛ táŋɛ́ta bɔɔbɛ́ , mi túme hɛkɔma . Mbá , mbɔ́kɔ ɛ ŋá mɛ táŋɛ́ta bɔmbányɛ , anyíatɛ́ ó moó mi súbe aná e ? »
+43018029	yaátɛ́		A yaátɛ́ asana Kɔ́mɛ́na Bílat ŋé keé beébe kuána a nɔháatɛ́ , u ŋé beébe batá ɔsɛ : « A hɛkɔma hɛ́ yaátɛ́ nú ma nɔ́ hátɛna ɔɔcɔ ooci e ? »
+43018035	yaátɛ́		Mbá Bílat ɔsɛ : « Háá ! Mbá ya mɛ́ŋa u Besuif e ? Na buɔwɔ ne betéŋínyi beluli nyiínjie mé ke bú o télímínyi aaha eémi eé buúse . Asana a yaátɛ́ ɔ ɔ́ŋa ɔkɛlánɔ́ e ? »
+43018038	Aátɛ́		Mbá Bílat ɔsɛ : « Aátɛ́ yááŋa taaká e ? » E elime cɛ ɔtáŋa oócí , Bílat ŋe túné háma , u ŋá cɔba eé buúse bú Besuif , mbá ɔsɛ : « Ɛ tɛ ɔ́mɔ lɛ́ca hɛkɔma , ta hɛ́mɔtɛ́ , hí otúme ɔɔcɔ ooci .
+43019009	háányɛ́		U ŋá hálɔ́mɔ́na eé ciíbe , u ŋá batá Yésus ɔsɛ : « Ɔ ɔ́ŋa u háányɛ́ e ? » Mbá , u ti ómoó wuúci bɛ́káma .
+43019015	~		Mbá bá ŋa bɔ́ bɔ́mɔ́kɔ báyɛ : « Weé wé ! Weé wéʼo ! Ɔ ɔmbásá ɔ ɔmuanáʼo , ɔ ɔmbásá ɔ ɔmuanáʼo ! » Bílat ɔsɛ : « Mbá yámɛ ɔ́ɔ́nɔ uunú otéŋí ɔ ɔmbásá e ? » Betéŋínyi beluli nyiínjie ŋé bu wuúci bɛ́káma báyɛ : « Sɛsáal bímuócí wáŋa uusú otéŋí . Tu tɛ́ asɔ́ bá ne u etémbí ! »
+43020013	anyíatɛ́		Bililé bɛ́ bɔsɔ́ma bɛ́ Bandɔ́mɛsɛ́ eébí ŋé wuúci batá bɛ́sɛ : « Meemé , anyíatɛ́ ɔ́ ŋɔɔ́ lɛla e ? » Mbá ɔsɛ : « Bɔ́ mɔ sɔ́mɔ uumi Otéŋí e eenyie , mbá i ti ŋé menyi haála ahá bááŋa bé keé wuúci háyánɔ́ . »
+43020015a	anyíatɛ́		Mbá Yésus ɔsɛ : « Meemé , anyíatɛ́ ɔ ŋɔɔ́ lɛla e ? 
+43020015b	Aányɛ́		Aányɛ́ ɔ ŋɔɔ́ waamba e ? » Malíi ŋe kéti anyía munyiɔ esíéné muáŋa , ɛ́ɛhɛ́ ú ŋé wuúci bɛ́káma ɔsɛ : « Taatá , cɔ́kɔ́lɛ , mbɔ́kɔ kuɔŋɔ́ ɔ ɔ́ŋa o wuúci sɔmɔ́nɔ́ , ɔ́ɔ mɛ laána haála ahá ɔ ɔ́ŋa okoó wuúci bátɛ́nánɔ́ ; ɛ ŋa mɛ́ cɔba , yé ké mí wuúci hiíte . »
+43021012	aányɛ́		Mbá Yésus ɔsɛ náábɔ́ : « Ánɔ faáya ɔ ɔnyíá . » Mbá ta muákɔ́nɛ́na mumɔtɛ́ ti ómó weéhínyínyi o wuúci batá anyía : « Kuɔŋɔ́ ɛ́cɛ aányɛ́ e » , anyía bé ŋe bú wuúci ményútúne .
+43021020	aányɛ́		Bíel ŋaá bɛ́kúálɛ́ta , yɔ́ lɛ́ca muákɔ́nɛ́na emú Yésus ŋaá bá weé lénéke . Muákɔ́nɛ́na eemu e mú ŋe yeékímínyi yááyɛ́ aatɔ́ a asasa yí Yésus , beébe ɔ ɔnyíá , múó wuúci bata anyía : « Otéŋí a Waáŋá , aányɛ́ ú ŋá cɔba ɔ ɔ kuɔŋɔ́ fiimbie e ? » Muátá muákɔ́nɛ́na ŋaá bá mu é beébe látáka .
+43021021	anyána		Ɛŋakɛlá Bíel meé muúmu lɛca , u ŋá bata Yésus ɔsɛ : « Otéŋí a Waáŋá , ooci óoʼ , anyána yɛ́ káá bá nááyá e ? »
+43021022	~		Yésus ɔsɛ : « Yémi lénéke anyía u ka hámɛ́na hú ahɛ́ ɛ ká ka mɛ hálɔ́mɔ́na , yɛ́ ŋɔ yɔ́ɔ lɛca e ? Kuɔŋɔ́ , ɔ́ɔ mɛ látáka bɔ látáka . »
+43021023	~		Aáná bɛbáyɛ ŋaa sáásía ɛ ɛkatɛ́katɛ́ cɛ ɔlɔŋɔ ú benyíinyí bé olumitinine anyía muákɔ́nɛ́na eémú tí ké wé . Yiíyi anyía Yésus tɛ ɔ́mɔ́ láana Bíel anyía muákɔ́nɛ́na eémú tí ké wé mbá , u ŋaá kɔɔna ɔsɛ : « Yémi lénéke anyía u ka hámɛ́na hú ahɛ́ ɛ ká ka mɛ hálɔ́mɔ́na , yɛ́ ŋɔ yɔ́ɔ lɛca e ? »
+44001011	anyíatɛ́		mbá báyɛ : « Banɔ́ baacɔ bá Kalilé eebe , anyíatɛ́ nú ma nɔ́ yáánákɛ́na ɔ ɔlɛca ɔmuaná e ? Yésus ooci awɔ́ Bandɔ́mɛsɛ́ me wuúci béétísi ɔ Ɔmuaná , nu wuúci lɛcaka wá báátáka , wuúci u ká háná ka hálɔmɔna híáná háyɛ núánɔ́ lɛ́caka wá báátáka . »
+44002008	anyána		Mbá anyána ɔɔcɔ okime aá basɔ́ ŋa lɔ́kɔ́ma bábɔ́ táŋáka e úúyé ɔtáŋa ewú ú ŋeé bíbíéníne e ?
+44002012	háányɛ́		Yaátɛ́ asana bé ŋe bú kéké beébe bekime , injiŋé ŋé beébe nyímíne ; bá bɛ́bátáka beébe ne beébe báyɛ : « Nyɛnamá nyɛ́ asana nyɛ́ háányɛ́ eenyi nyɛ́áŋa e ? »
+44002037	anyána		Ɔtáŋa ú Bíel ooci ŋɔ yɔɔ́kɔ́sɔ́kɔ́ cííbú ɛtɛ́má ekúlú eyí bé ŋe bú wuúci lɔ́kɔ́máká ; buátɛ́ bɔkɔ bá ŋa bɔ́ bátá Bíel ɔlata na baacɔ bá ɛndɔ́ma bé etémbí báyɛ : « Báásɔ́ benyíinyí , anyána túásɔ́ nyɛ́maná tu ɔkɛla e ? »
+44003012a	anyíatɛ́		Ɛ́makɛ́la Bíel áa lɛ́ca aáná , mbá ɔsɛ ná nyɛkɔca nyɛ́ baacɔ : « Banɔ́ , buamɛ bú Islayɛ́l , anyíatɛ́ nu ŋe nú kéké buéŋí asana eeye e ? 
+44003012b	~		Nu ŋa nɔ́ basɔ́ bítíbítínyi buéŋí a asana eyí tú me sú kéndisi asákála eeye háyɛ anyía a máásɔ́ makɛ́nda ma bɛ́muátá tú ma sɔ́ kɛ́laka , ta háyɛ anyía basɔ́ tua sɔ́ŋa bɛmbányɛ bɛ́ baacɔ ɔ ɔhɔla eé buúse bɔ́ Bandɔ́mɛsɛ́ .
+44004007a	~		Bé ŋeé héléné ne Bíel na Sáaŋ , bé ŋé beébe télímínyi aabɔ́ ɛ ɛkatɛ́katɛ́ ; ɔɔcɔ ɔmɔtɛ́ u Hitúlé ŋé beébe bata ɔsɛ : 
+44004007b	háányɛ́		« A makɛ́nda ma háányɛ́ ta anyía eé 
+44004007c	aányɛ́		nyiínyi nyɛ́ aányɛ́ nua nɔ́ŋa nu eéŋúnyísínyi ɔɔcɔ ooci e ? »
+44004016	Anyána		Bé ŋé túme ɔbɛ́báta báyɛ : « Anyána túɔ́ cɔba ɔ ɔkɛla na baacɔ eebe e , anyía bá bɔ́ŋa bakɛlákánɔ́ yaandándá yí ekéki yí hibílícínyínyí eéyé ayɛ́ baacɔ bekime bé Yelúsalɛm ŋe bú menyi ; tú tɛ asɔ́ bá tú ɔsáŋɔ́na anyía beébe bébú yiíyi kɛlaka .
+44004025a	Anyíatɛ́		kuɔŋɔ́ ɔ ŋɔɔ́ kɛ́lá anyía ciasɔ́ sɔ́kɔ́nɔ́ Táfit , muɔwɔ munyiɔnɔ , á táŋɛ́ta a makɛ́nda me Efúúménénú yí Elilé , ekúlú ayɛ́ mu ŋaá bɛ́báta mɔsɛ : “ Anyíatɛ́ mɔnɔŋɔ ma baacɔ ŋe bíyúkúle na bumálá e ? 
+44004025b	Anyíatɛ́		Anyíatɛ́ mɔnɔŋɔ ma baacɔ ŋaá bánda tutɔkɛ tú etémbí ne etémbí e ?
+44005003	anyána		Aáná Bíel ŋeé wuúci batá ɔsɛ : « Ananías , anyána Sátan áŋa wu onyíóyo ɔɔ́wɔ ɔ ɔtɛ́má a nyɛnamá enyí o ŋoó néŋe Efúúménénú yí Elilé , mbá a namba mɔɔnyɛ́ a mɔ́mɔtɛ́ me ekéti yí iisí eyí ó ŋoó túé e ?
+44005004	anyána		Yaŋɔ́ ɛsɛ , ekéti yí iisí eéyé ŋaá bá yɔ́ɔ́wɔ ɛ́cɛ o ti ŋóo yiíyi túé e ? Te ekúlú eyí ó ŋoó yiíyi túé tɛ́ka mɔ́ɔ́wɔ mɔɔnyɛ́ mááŋa e ? Mbá anyána ɔ́ mɔɔ́ kɛ́laka nyɛnamá nyɛ́ asana eeye ɔɔ́wɔ ɔ ɔtɛ́má e ? Menyi anyía tɛ́ cáŋa baacɔ ó moó néŋe , mbá Bandɔ́mɛsɛ́ . »
+44005009	Aátɛ́		Bíel ɔsɛ : « Aátɛ́ yá kɛ́la anyía núánɔ́ lɔ́kɔ́mána ɔ ɔkɔkɔna Efúúménénú yí Elilé yí Otéŋí a Waáŋá e ? Ɔ́ɔ lɛcá , baacɔ e bé me ke bú nyie uuwu ɔnɔ́mɛ , ibeébe eé buúse bú ehenyi , bɔ́ cɔba ɔ ɔ kuɔŋɔ́ súéténe tɔ́na . »
+44007026	Aátɛ́		Ɔ ɔyá ɔyá , Moyís ŋa kuána tɔ́na baacɔ béfendí bá bunɔŋɔ bú Islayɛ́l ábɔ́ núaka ɛcálɛ . U ŋaá bá wá yáambaka o beébe eélúnyi , mbá ɔsɛ náábɔ́ : “ Baláamɛ , yaŋɔ́ ɛsɛ nua nɔ́ŋa benyíinyí e ? Aátɛ́ yááŋa nu ŋe nú yébinyinyi banɔ́ na banɔ́ e ? ”
+44007027	Aányɛ́		Mbá sɔ́ɔ́kɔ́ awɔ́ u ŋaá bá weé tékeseke onyíinyí ŋaá bɛ́kátɛ́tɛ́na Moyís , ɔsɛ nááyá : “ Aányɛ́ ú mó yóo télímínyi ne uusú otéŋí na muasɔ́ mukélísi bɛsana e ?
+44007035	Aányɛ́		Itiene ŋa cɔ́bána ɔtáŋa ne buúse ɔsɛ : « Waáta Moyís ooci baáná bá bunɔŋɔ bú Islayɛ́l ŋe bú kíné ɔlɔ́kɔ́mɛ́na , bá kɔ́ɔnaka báyɛ : “ Aányɛ́ ú me yóo télímínyi ne úúsú otéŋí na muasɔ́ mukélísi bɛsana e ? ” Wuúci oócí Bandɔ́mɛsɛ́ ŋeé beébe tɔ́mɛ́na anyía wé beébe téŋgínyi , mbá u beébe háŋɔ́náka a buɔ́lɛ́ ɛ́cɛ elilé yɛ́ bɔsɔ́ma yɛ́ Bandɔ́mɛsɛ́ yí meé wuúci lɔ́ŋɛ́ta . Elilé yɛ́ bɔsɔ́ma eéyí ŋa lɛ́cána né Moyís e hibutebúté .
+44007049a	yaátɛ́		“ Ɔmuaná áŋa haála ehé i ŋeé mi téŋínyi , ɔmɛsɛ́ búámɛ bɔtálɛ́ná bɔ́ akɔlɔ́ . Nyɛnamá nyí ciíbe nyɛ́ yaátɛ́ nua nɔ́ŋa nu ɔ mɛ falɛfakɛna e ? 
+44007049b	háányɛ́		Ta anyía nyɛnamá nyɛ́ haála nyɛ́ háányɛ́ ya mɛ́ŋa wu ohélúméke hɔ́á e ?
+44007052	háányɛ́		Muhémúnyi bɛsana mɔ Bandɔ́mɛsɛ́ amɔ́ háányɛ́ cíínú sɔ́kɔ́nɔ́ ti ómo bú tekese e ? Bá ŋa bɔ́ ɔ́ɔ́nɔ́kɔ́ behúli ɛsɔ́ma cɛ́ nyɛfaaya nyí ooci a wáŋa bímuócí atálɛ́mánánɔ́ yɛ́ ɔɔcɔ ; wuúci aámbáya nu ŋe nú túé , nuɔ́ wɔ́ɔ́nɔ́kɔ .
+44008031	Anyána		Mbá ɔɔcɔ ɔsɛ : « Anyána ya mɛ́ŋa wu ɔlɔ́kɔ́máka bɔmbányɛ bɛsana eebi mbɔ́kɔ ɔɔcɔ ti ŋe mí biíbi hembúlékíne e ? » U ŋɔ́ lɔ́ŋɛ́ta Fílib o okolímine aayá a maabána a akálɛ́kɛ ɔ ɔmuaná .
+44008033	Báányɛ́		Bé ŋeé wuúci fénékíné , wuúci ta ɔbɔ́ŋɔ ɔɔcɔ wu o wuúci kamɛna . Báányɛ́ bé ké bú bíkétíki anyía wáŋa osíkénú ahátátá e ? Yááŋa anyía úúyé olíhe áŋa ɔmanánɔ́ ɔ ɔmɛsɛ́ . »
+44008034	aányɛ́		Weekí oócí ɔsɛ : « Cɔ́kɔ́lɛ , ɔ́ɔ mɛ laána : Bɛsana eebi ebí muhémúnyi bɛsana ŋe bíkéti ŋa lɛ́ca aányɛ́ e ? Wuúci bɛ́muátá ayɛ́ʼ ɔɔcɔ u etémbí e ? »
+44008036	aátɛ́		Ekúlú ayɛ́ bá ŋa bɔ́ bá bábɔ́ kándaka o ohónyí , bá ŋa bɔ́ lɛ́cá nuúci ; mbá weekí ɔsɛ : « Menyífé eeme , aátɛ́ yááŋa yé okóti anyía o ti o mi ootíne e ? »
+44009004	Anyíatɛ́		Sóol ŋá kuá ɔ ɔmɛsɛ́ , u ŋá lɔ́kɔ́ma okelú , ú wuúci bataka ɔ́sɛ : « Sóol , Sóol ! Anyíatɛ́ ó ŋoó mi tekese aná e ? »
+44009005	aányɛ́		Sóol ŋá batá ɔsɛ : « Otéŋí , kuɔŋɔ́ ɛ́cɛ aányɛ́ ewú i ŋeé mi tekese e ? » Mbá okelú ɔ́sɛ : « Yaŋɔ́ , ya mɛ́ŋa Yésus ewú o ŋoó tekese .
+44009006	~		Aámbáya , hatɔ́na , oofíne a bálɛ́ka ; hɔ́á bá ŋa cɔ́ba ɔ ɔ kuɔŋɔ́ laana bɔkɔ abɔ́ ɔ́ɔ nyɛmana wu ɔkɛlaka . »
+44010004	Aátɛ́		Kɔɔnɛ́yɛ ŋé yiíyi tála eése , u líkíméke , u ŋé yiíyi batá ɔsɛ : « Aátɛ́ yááŋa e , Otéŋí ? » Elilé yɛ́ bɔsɔ́ma yɛ́ Bandɔ́mɛsɛ́ ŋé wuúci bɛ́káma yɛ́sɛ : « Bandɔ́mɛsɛ́ ŋeé bíléníne ne úúwe ɔbɛ́cɔ́kɔ́lɛ́na na nyiɔ́lɔ anyɛ́ ɔ ŋɔɔ́ wɔɔ́lɔ basɔ́kásɔ́ka ; yaátɛ́ asana u tɛ ŋɔ́ yɔ́ɔ bɛ́hɔ́ya .
+44010021	Aátɛ́		Aáná Bíel ŋaá hátɔ́na , yɔ́ kɔ kúana baacɔ eébé , mbá ɔsɛ : « Yaŋɔ́ , ya mɛ́ŋa ɔɔcɔ awɔ́ nu ŋa nɔ́ aamba . Aátɛ́ nuanɔ́ fáaya ɔ ɔkɛla e ? »
+44010029	~		Buátɛ́ bɔkɔ ɛ́ ma mɛ́ faaya , i ti bísúkúle . Ɛ ŋa mɛ́ aamba omenyi aatɔ́ yɛ́ asana ayɛ́ ɔ́ɔ mɛ lɔ́ŋɔ́kɔ . »
+44010047	aányɛ́		Mbá Bíel ɔsɛ : « Aámbáya baacɔ eebe a búáŋa bonyíóyónú ne Efúúménénú yí Elilé háyɛ basɔ́ , aányɛ́ wáŋa wu o beébe kóti tɔ́na obíótíne ne menyífé e ? »
+44011017a	aányɛ́		Aáná Bandɔ́mɛsɛ́ ŋeé beébe iínjíé nyiínjie nyɛ́mɔtɛ́ háyɛ anyɛ́ ú ŋaá basɔ́ iínjíé ekúlú ayɛ́ tu ŋa sɔ́ háya mɔŋɔlɛ́ né Otéŋí a Waáŋá Yésus Kilís ; yaŋɔ́ ɛ́cɛ aányɛ́ awɔ́ ya mɛ́ŋa wu ɔbɛ́kɛ́ŋɛ́lɛ́ána a nyɛkɛla nyɛ́ Bandɔ́mɛsɛ́ e ? »
+44011017b	~		
+44012018	háányɛ́		Ahɛ́ ɔyá ŋaá yá , bicénji ŋé túme obíyébi anyía bébú ményi háányɛ́ Bíel áŋa .
+44013025	aányɛ́		Ekúlú ayɛ́ Sáaŋ ŋaá bá wa yáaŋa hoóhi ne owé , u ŋaá bá wá kɔ́ɔnaka ɔsɛ : “ Nu ŋe nú bíkéti anyía ya mɛ́ŋa aányɛ́ e ? Ɛ tɛ ámɛ bá ooci awɔ́ nu ŋa nɔ́ táta , mbá ɛ ŋa mɛ́ banɔ́ láana anyía ɔɔcɔ a yánaŋa eémi e elime . Ɛ tɛ ŋá mɛ nyɛmána ooci a wáŋa wu ohembuleke tukolí tú bíáyɛ́ bɛkandɛ́na . ”
+44014015	anyíatɛ́		« Baláayɛ́ , anyíatɛ́ nú ŋa nɔ́ kɛ́la aáná e ? Basɔ́ tɔ́na , tua sɔ́ŋa baacɔ háyɛ banɔ́ . Ambányɛ yɛ́ Ɛsɔ́ma yí Yésus ayɛ́ tu ŋá sɔ́ banɔ́ húlinyi áŋa anyía ánɔ nyɛanáka onyemi bɛbɔ́kɔ́bɔ́kɔ a bɛ́ tɛ ŋɔ́ yɔɔ́lɔ , núá bɛ́kɔ́ŋɔ́na ná Bandɔ́mɛsɛ́ a wáŋa wɔɔ́sɔ ; wuúci u ŋe kétíki na ɔmɛsɛ́ na ɔmuaná na nuɔmɔ́ nɔ́ makɛ́lɛ́ na bɛnyɛ́ma bikime a bɛ́áŋa hɔ́á .
+44015010	anyíatɛ́		Mbá aámbáya aná , anyíatɛ́ nɔ́ ŋa nɔ́ aamba ɔkɔkɔna Bandɔ́mɛsɛ́ ekúlú eyí nu ŋe nú eékínyi belumitinine anyía bá bɛ́túáhákɛ́na malamɔ́ amá te cíísú sɔ́kɔ́nɔ́ ta basɔ́ bɛ́muátá tu ti ómó sú cényi ɔbɛ́túáhɛ́na e ?
+44016030	anyána		U ŋé beébe hémúnyi a nɔháatɛ́ , ɔsɛ náábɔ́ : « Cíími síkíne , anyána ya mɛ́ŋa wu ɔkɛla anyía yámɛ nɔhɔ e ? »
+44017018	Aátɛ́		Ne beékúnyi bɛsana bí injiŋé a bɔ́mɔtɛ́ abá bá ŋaá bá bɔ́ lɔ́ŋɔ́kɔ báyɛ « Beebikuliɛ́ŋ » ne « Besitoyisiɛ́ŋ » ŋe bú túmé ɔtáŋa tɔ́na ne wuúci . Bɔ́mɔtɛ́ eé beébe ŋa bɔ́ bátá báyɛ : « Aátɛ́ akuakúálɛ́kɛ eeye ŋá kɔ́ɔna e ? » Mbá bɔsɔ́ɔ́kɔ́ bé etémbí a bá ŋa bɔ́ lɔ́kɔ́ma háyɛ Bóol ŋaá bá weé húlikinyi baacɔ na asana yí Yésus na nyɛhaanyua nyí biwéewé ŋa bɔ́ kɔɔ́na báyɛ : « Yááŋa háyɛ anyía u ŋe húlinyi baacɔ bɛsana bɛ́ bɛbandɔ́mɛsɛ́ e bikenyí » .
+44017019	~		Bá ŋaá báátána Bóol a nɔkɔndɔ ɛ ɛkatɛ́katɛ́ cɛ Alolobásɛ , Hitúlé a hiáŋá hɛ́ bálɛ́ka , mbá báyɛ nááyá : « Okóo , tua sɔ́ŋa tu omenyi yɔɔ́sɔɔ́sɔ yí nyiékúnyi eéyé eyí o ŋoó weékúnyi baacɔ e ?
+44019003	yaátɛ́		Bóol ŋé beébe bata ɔsɛ : « Mbá nyɛnamá nyí obíótíne nyɛ yaátɛ́ nu ŋe nú bíotine aná e ? » Báyɛ : « Nyɛnamá anyɛ́ Sáaŋ ŋaá bá we yóótokine baacɔ . »
+44019015	báányɛ́		Mbá aabɛ́ yí elilé yó beébe bɛ́káma yɛ́sɛ : « I ŋe mí menyi Yésus , i menyukune tɔ́na aányɛ́ wáŋa Bóol , mbá banɔ́ʼo , nua nɔ́ŋa báányɛ́ e ? »
+44019035	aányɛ́		E elime eécí muɔ́ŋɔ bɛsana mu kɔ́mɛ́na ŋá kɛla anyía baacɔ é lésíkínyi mbuumu . Mbá ɔsɛ náábɔ́ : « Banɔ́ , baacɔ bá Ɛfɛ́ɛsɛ , aányɛ́ ú ŋa nána aaha anyía bálɛ́ka cɛ Ɛfɛ́ɛsɛ ciáŋa mutétényi ne ciíbe cɛ yaandándá yɛ́ bandɔ́mɛsɛ́ e ciénjú a yɛ́áŋa nyiínyi anyía Aatemis ne hííyé hibílícínyínyí e hí ŋeé húle ɔ ɔmuaná e ?
+44021013a	Anyíatɛ́		Mbá Bóol ɔsɛ : « Anyíatɛ́ nɔ ŋa nɔ́ lɛ́la , 
+44021013b	~		nu aambaka o mi kesi e ? A náámɛʼo , i ŋe mí lumitine tɛ́ cáŋa hú anyía bá mɛ ɔɔ́tɔ́kɔ́kɔ ne tukolí , mbá anyía yémi wé hɔ́á eé Yelúsalɛm a asana yí Yésus Otéŋí a Waáŋá . »
+44021022	anyána		Aáháʼo , túá kɛlá anyána e ? Bá ŋa bɔ́ cɔba o omenyi tɛ́ka ne efule anyía ɔ́ mɔ kɔ́ɔ́ faaya aaha .
+44021033a	Aányɛ́		Aáná mutéŋínyi bicénji a muáŋá ŋeé bíkósíti né Bóol , mu ŋé iínjíé makɛ́nda ma ɔmɛ́ɔ́mɛ́na Bóol , bé wuúci ɔɔ́tɔ́kɔ́kɔ bɔmbányɛ na macanja méfendí ; e elime eécí , mu ŋá batá baacɔ mɔsɛ : « Aányɛ́ ooci wáŋa e ? 
+44021033b	Aátɛ́		Aátɛ́ ú ma kɛ́laka e ? »
+44022007	anyíatɛ́		Ɛ ŋa mɛ́ kuá ɔ ɔmɛsɛ́ , ɛ ŋá lɔ́kɔ́ma okelú áa mɛ bataka ɔ́sɛ : “ Sóol , Sóol , anyíatɛ́ o ŋo mí tekese aná e ? ”
+44022008	aányɛ́		Mbá ɛsɛ́ : “ Otéŋí , kuɔŋɔ́ ɛ́cɛ aányɛ́ ewú i ŋé mi tekese e ? ” Mbá okelú ɔ́sɛ : “ Yaŋɔ́ , ya mɛ́ŋa Yésus , ɔɔcɔ u Násalɛt , ewú o ŋóo tekese . ”
+44022010	Anyána		Ɛ ŋá batá tɔ́na ɛsɛ́ : “ Anyána yámɛ́ kɛlá aná , Otéŋí a Waáŋá e ? ” Mbá ɔsɛ náámɛ : “ Hatɔ́na ɛndánáka , oofíne aá Tamás . Hɔ́á bá ŋa cɔba ɔ ɔ kuɔŋɔ́ laana bɔkɔ abɔ́ ɔ́ɔ nyɛmana wu ɔkɛlaka . ”
+44022016	aátɛ́		Aámbáya aátɛ́ ó ŋo túné ɔ táta e ? Hatɔ́na ɛndánáka , batá bé o wootíne a nyíáyɛ́ nyiínyi , mbá Bandɔ́mɛsɛ́ á súáka mɔ́ɔ́wɔ maabɛ́ . ” »
+44022026	~		Ɛ́makɛ́la ecénji eéyé á lɔ́kɔ́ma ɔtáŋa oócí , u ŋá cɔbá ɔ ɔkɔláana mutéŋínyi bicénji ɔsɛ : « O ŋoó menyi bɔkɔ abɔ́ ɔ́ mɔɔ́ bá asɛ ɔ́ɔ kɛláka e ? Ɔɔcɔ ocinyíé áŋa yeéti yí Lóom . »
+44023003	~		Bóol ŋé wuúci laána ɔsɛ : « Bandɔ́mɛsɛ́ bɛ́muátá kó yóo súbéke , kuɔŋɔ́ , efúúmínyínyi yɛ́ nyɛmámá eeyi ! Ɔ ɔ́ŋa oliménénú aaha anyía óo mi kélísíki háyɛ bikotí ŋá yaamba , mbá kuɔŋɔ́ ɔ ŋɔɔ́ kɛla náányia , anyía o ŋoó wiínjie baacɔ makɛ́nda me o mi súbéke . »
+44023009	~		Háyɛ hikókó ŋaá bá hɛ́ á cɔ́baka bɔ cɔbaka ne buúse na makɛ́nda , beékúnyi bikotí ɔ bɔ́mɔtɛ́ ɔ ɔlɔŋɔ ú Bafalisiɛ́ŋ nyɛhatɔna eényí o osuŋunyinyi na makɛ́nda báyɛ : « Tu tɛ ŋá sɔ́ lɛ́ca hɛkɔma ná ɔɔcɔ ooci . Yáakɛlá elilé a yɛ́mɔtɛ́ ta anyía elilé yɛ́ bɔsɔ́ma yɛ́ Bandɔ́mɛsɛ́ a yɛ́mɔtɛ́ yɛ́áŋa ɔtáŋákánɔ́ ne wuúci . »
+44023019	Asana a yaátɛ́		Mutéŋínyi bicénji a muáŋá ŋé timbíé ɔɔ́nɔmbɔ́ ɔ ɔɔbɔ́ , mu ŋé wuúci cɔbána a maabána , mbá mɔsɛ : « Asana a yaátɛ́ ɔ ŋɔɔ́ waamba ɔ mɛ laana e ? »
+44026008	asana a yaátɛ́		A asana a yaátɛ́ nu ŋe nú súŋunyi , banɔ́ a bɔ́mɔtɛ́ a basɔ́ Besuif , anyía Bandɔ́mɛsɛ́ áŋa wu oheenyiki baacɔ o owé e ?
+44026014	Anyíatɛ́		Aáná tu ŋa sɔ́ kuákɔ́na basɔ́ bekime ɔ ɔmɛsɛ́ , míɔ lɔ́kɔ́ma okelú a wúmɔtɛ́ á mɛ bataka ne nuebélé ɔ́sɛ : “ Sóol , Sóol ! Anyíatɛ́ o ŋo mí tekese e ? O ŋoó bíyébi etémbí ne etémbí ekúlú ayɛ́ ɔ ŋɔɔ́ waamba ɔyákána háyɛ káwɔ a cɛ́ tɛ ŋa lɔ́kɔ́ma ɔkála ú busue bɔ́ múáyɛ́ mutétényi . ”
+44026015	aányɛ́		Mbá ɛsɛ́ : “ Kuɔŋɔ́ ɛ́cɛ aányɛ́ e , Otéŋí ? ” U ŋá bɛ́káma ɔsɛ : “ Yaŋɔ́ , Yésus , ewú o ŋoó tékése ,
+45002017	~		Mbá kuɔŋɔ́ awɔ́ ɔ ɔ́ŋa ɔɔcɔ u Besuif , ɔ́ mɔɔ́ waákɛ́mɛ́nɛ́na bikotí , a sánáka ɛŋɔ́nɔ anyía ɔ ɔ́ŋa ɔɔcɔ u Bandɔ́mɛsɛ́ ,
+45002021	~		Asɛ o ŋoó weékúnyi bɔsɔ́ɔ́kɔ́ bɛsana , yiíye anyía o ti ŋóo menyi ta bɔkɔ ; bíékúnyíki aná ! Asɛ o ŋoó leke baacɔ buébi , yiíye anyía o ŋoó weébi !
+45002028	~		Tɛ́ cáŋa ɔbɛ́áŋía yɔɔlɛ́ɔlɛ́ a yɛ́ ŋá lɛcana aá cɛɛ́tɔ ú ŋó tóŋínyi anyía ɔ ɔ́ŋa taaká ɔɔcɔ u Besuif ta anyía ɔ ɔ́ŋa taaká ɔbɛ́ácánɔ́ ;
+45003001a	Aátɛ́		Yaátɛ́ asana aná , ɔɔcɔ u Besuif áŋa wu ɔbata anyía : Aátɛ́ ɔbámɔ́kɔ́nɛ́na ɔɔcɔ u Besuif ŋa hɔ́lana e ? 
+45003001b	Aátɛ́		Aátɛ́ ɔbɛ́áca ŋaá basɔ́ ɔ́ɔ́lɔ e ?
+45003003	anyána		Mbá anyána aná , mbɔ́kɔ báábɔ́ baacɔ a bɔ́mɔtɛ́ ti ómo bú lúmitinine bɛsana eébí , yiíyi yí ŋo tóŋínyi tɔ́na anyía Bandɔ́mɛsɛ́ áŋa wu olimine , u ti nyíóyísínyi cááyɛ́ esúŋe e ?
+45003005	Aátɛ́		Yáakɛlá bɔ́mɔtɛ́ baacɔ ŋa bɔ́ kɔɔna anyía nyíásɔ́ nyɛkɛla nyɛ́ bɛsana a bɛɛbɛ́ ŋɔ yɔ́ɔlɔ baacɔ o omenyi anyía Bandɔ́mɛsɛ́ áŋa ɔtálɛ́mánánɔ́ . Aátɛ́ yí etémbí tua sɔ́ŋa tú o beébe bɛ́káma e ? Tua sɔ́ŋa tú o beébe bɛ́káma anyía Bandɔ́mɛsɛ́ tɛ á bá ɔtálɛ́mánánɔ́ ekúlú ayɛ́ u ŋaá basɔ́ bɔ́nɔ́sɛa e ?
+45003006	~		Eéʼeé , yɛ́ tɛ á bá aáná buúse bukime . Mbɔ́kɔ yiíyi aáná , keyé Bandɔ́mɛsɛ́ tɛ á bá wu okélísíki baacɔ bá ɔmɛsɛ́ bekime .
+45003007a	~		Yáakɛlá bɔ́mɔtɛ́ baacɔ tɔ́na ŋa bɔ́ kɔ́ɔna anyía bíásɔ́ bɛfala ŋɔ yɔ́ɔlɔ baacɔ o omenyi anyía Bandɔ́mɛsɛ́ áŋa ɔtálɛ́mánánɔ́ , mbá bé búle wuúci iínjie nuúmi . 
+45003007b	anyíatɛ́		Mbɔ́kɔ yááŋa aáná , mbá anyíatɛ́ bá yánáŋa ɔ ɔcɔba ne buúse ɔ ɔ basɔ́ bɔ́nɔ́sɛa anyía tua sɔ́ŋa bakɛla maabɛ́ e ?
+45003008	~		Bɔ́mɔtɛ́ ŋa bɔ́ kɔ́ɔna tɔ́na anyía bé búle kɛla bɔɔbɛ́ anyía bɔmbányɛ á lɛcakana . Aáná bá ŋa bɔ́ basɔ́ óoto anyía basɔ́ tu naŋa tuasɔ́ kɔ́ɔnaka aáná . Ɛ ŋa mɛ́ banɔ́ láana anyía bɔ́nɔ́sɛ cɛ baacɔ eébé á yáaŋa ɛnyɛmánánɔ́ .
+45003009	~		Ánɔ lɛcá aná ! Ya mɛáŋa otóŋgínyínyi anyía na basɔ́ Besuif na baacɔ bé etémbí tua sɔ́ŋa basɔ́ bekime na ɔtɛ́má awɔ́ ú ŋa basɔ́ hámɛ́na ɔkɛla bɔkɔ búmɔtɛ́ . Ɛ́ɛhɛ́ basɔ́ Besuif tu tɛ ŋá sɔ́ hɔ́la baacɔ bé etémbí te butíkítíki .
+45003027a	Yaátɛ́		Yaátɛ́ asana ɔɔcɔ tɛ ɔ́mɔ nyɛ́mána wu obílémbíki wuúci bɛ́muátá . 
+45003027b	~		Yááŋa anyía tɛ́ cáŋa a nyɛlátɛ́na anyɛ́ tú ŋa sɔ́ látɛ́na bikotí , 
+45003027c	~		yiíyi Bandɔ́mɛsɛ́ ŋaa kɛ́lá anyía basɔ́ túásɔ́ bámɔ́kɔ́na bɛtálɛ́mánánɔ́ bɛ́ baacɔ eeyé eé buúse ; mbá u ŋaá kɛ́lá aáná a asana na mɔŋɔlɛ́ amá tu ŋa sɔ́ háyá né Yésus Kilís .
+45004001	Aátɛ́		Buamɛ , ánɔ bɛ́táá asana a yɛ́ ŋaá hámɛ́ná ciasɔ́ sɔ́kɔ́nɔ́ Abɛ́laham . Aátɛ́ u ŋaá hɔ́má na Bandɔ́mɛsɛ́ e ?
+45004003	ŋa		Yááŋa anyía Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ ŋa kɔ́ɔna cɛ́sɛ : « Abɛ́laham ŋaá háyá mɔŋɔlɛ́ ná Bandɔ́mɛsɛ́ , ɛ́ɛhɛ́ Bandɔ́mɛsɛ́ ŋeé wuúci hiíte háyɛ atálɛ́mánánɔ́ yɛ́ ɔɔcɔ eeyé eé buúse . »
+45004010	Nyíényí		Nyíényí asana eéyé ŋaá bɛ́kɛ́láka e ? Yɛ́ ŋaá bɛ́kɛ́láka ɛ́cɛ Abɛ́laham maá bɛ́áca ayɛ́ʼ , ɛ́cɛ wá yánáŋa iindú e ? U tɛ ɔ́mɔɔ́ bá ɔbɛ́ácánɔ́ , mbá u ŋaá bá wá yánáŋa iindú .
+45005010	~		Buáyá , tu ŋa sɔ́ bá e nyiitíé na Bandɔ́mɛsɛ́ ; ta híáná , u ŋaá tábɔ́náka nyiitíé eényí ne owé ú uuyé Ɔɔ́nɔ́ . Híáná bú ŋá lɔ́kɔ́mána tɔ́na ɔ ɔhɔla aámbáya ayɛ́ tua sɔáŋa balatánɔ́ e bumbénú ne wuúci , anyía Kilís káá basɔ́ háŋɔ́náka ne uuyé olíhe .
+45005021	~		Ɛ́ɛhɛ́ , bɔkɔ búmɔtɛ́ háyɛ bɔɔbɛ́ ŋaá bá na makɛ́nda ma ɔwɔɔ́nɔ́kɔ baacɔ , híáná tɔ́na yaála yí nuubo yɛ́ Bandɔ́mɛsɛ́ áŋa na makɛ́nda ma ɔkɛla anyía baacɔ á bámɔ́kɔ́na bɛtálɛ́mánánɔ́ eeyé eé buúse , yɔ́ basɔ́ iínjíékíne yɔɔ́sɔɔ́sɔ yí olíhe yí ekúlú ekime e elime ci uusú Otéŋí a Waáŋá , Yésus Kilís .
+45006001	aátɛ́		Mbá aátɛ́ tua sɔ́ŋa tu obíóndísínyi ɔkɔɔna aná e ? Ɔ́kɔ , tu ŋa sɔ́ nyɛmána tu ɔcɔbaka ne buúse ɔ ɔkɛlaka bɛsana a bɛɛbɛ́ ɔ ɔkɛla anyía yaála yí nuubo yɛ́ Bandɔ́mɛsɛ́ é teké ɔ ɔhɔla e ?
+45006002	anyána		Eéʼeé , buúse bukime ! Tua sɔáŋa bewéénú a nyɛkɛla nyɛ́ bɔɔbɛ́ , mbá anyána tuasɔ́ nyɛmána tú o túné cɔba ne buúse ɔ ɔkɛla bɛsana a bɛɛbɛ́ o olíhe e ?
+45006015	aátɛ́		Mbá aátɛ́ bú ŋo tóŋínyi aná e ? Mbá yááŋa anyía ayɛ́ yaála yí nuubo yɛ́ Bandɔ́mɛsɛ́ ŋaá basɔ́ mánɛna aáná , ɛ́ɛhɛ́ túásɔ́ nyɛmana tu ɔcɔbaka ne buúse ɔ ɔkɛla bɛɛbɛ́ bɛ́ bɛsana anyía bikotí tɛ ŋa háná basɔ́ manɛna e ? Eéʼeé , tɛ́ cáŋa aáná .
+45006021	aátɛ́		Ekúlú eéyé nu ŋa nɔ́ bá nuánɔ́ kɛlaka bɛɛbɛ́ bɛ́ bɛsana ; biíbi bɛ́ ŋaá banɔ́ lémisi bɛɛtɔ́ aámbáya , mbá aátɛ́ nu ŋa nɔ́ hɔ́máká a bɛsana eébí e ? Ta bɔkɔ . Yááŋa anyía bɛ́ ŋaá banɔ́ bísúéne hú owé .
+45007007	Aátɛ́		Aátɛ́ ɛ ŋa mɛ́ aamba ɔ banɔ́ laana aaha e ? Ɔlátɛ́na bikotí áŋa aabɛ́ yɛ́ asana e ? Eéʼeé , tɛ́ cáŋa aáná ! Yááŋa hú anyía mbɔ́kɔ tɛ́ cáŋa bikotí , keyé i ti ómo menyi aátɛ́ yááŋa aabɛ́ yɛ́ asana . Híáná ɛ tɛ ɔ́mɔ́ bá wu omenyi yaáká mbɔ́kɔ tɛ́ cáŋa okotí a yɛ́ ŋaá kɔ́ɔna yɛ́sɛ : « Atɛ áákɛ́na bɔkɔ bɔ́ sɔ́ɔ́kɔ́ . »
+45007024	Aányɛ́		Ééʼ , nyɛnamá nyɛ́ mahana anyɛ́ ya mɛ́ŋa ne nyiínyi ! Aányɛ́ u káá mɛ katɔ́náka aá cɛɛ́tɔ ci owé eeci acɛ́ ya mɛ́ŋa ne ciíci e ?
+45008024	~		Yááŋa anyía tua sɔ́ŋa na mɔŋɔlɛ́ o otúme ekúlú ayɛ́ Bandɔ́mɛsɛ́ ŋaá basɔ́ nóhíki , ta yɛ́ cáŋa á bá anyía tu tɛ ŋá sɔ́ lɛ́ca nuúmi . Ekúlú ayɛ́ ɔɔcɔ ŋa lɛ́ca bɔkɔ abɔ́ u ŋa mɛ́nɛna ɔ mɔŋɔlɛ́ , u ti ŋé túné a háya mááyɛ́ mɔŋɔlɛ́ e buúbu , anyía ta ɔɔcɔ tɛ ŋá háya mɔŋɔlɛ́ a bɔkɔ abɔ́ u ŋa lɛ́ca .
+45008031a	Aátɛ́		Aátɛ́ yí etémbí aná e ? 
+45008031b	~		Ta ɔɔcɔ tɛ á bá wu ɔ basɔ́ yáka anyía Bandɔ́mɛsɛ́ áŋa na basɔ́ .
+45008032	~		U ti ómo kékenyi te uuyé Ɔɔ́nɔ́ u bɛ́muátá , mbá u ŋeé wuúci sɔ́mbɛ́ná háyɛ etúké a yáásɔ́ asana basɔ́ bekime . Híáná u káá basɔ́ bóosiki tɔ́na na bɛnyɛ́ma bí etémbí bikime e elime ci uuyé Ɔɔ́nɔ́ .
+45008033	Aányɛ́		Aányɛ́ wáŋa wu ɔsɔ́mɛ́na aná baacɔ abá Bandɔ́mɛsɛ́ ŋaá táfáká e ? Yááŋa anyía wuúci bɛ́muátá u ŋaá kɛ́láka anyía bá bámɔ́kɔ́na bɛtálɛ́mánánɔ́ bɛ́ baacɔ eeyé eé buúse .
+45008034	Aányɛ́		Aányɛ́ wáŋa wu o beébe bɔsɔnɛna nyɛkua e ? Ta ɔɔcɔ . Yááŋa anyía Yésus Kilís wuúci bɛ́muátá u ŋeé wé ; mbá ɔ ɔhɔla owé , u ŋa háanyua e biwéewé . Wáŋa limine a aháŋá yɛ́ ɔɔbɔ́ ú manɔ́mɛ ú Bandɔ́mɛsɛ́ , u bɛ́cɔ́kɔ́lɔ́kɛ́na a yáásɔ́ asana .
+45008035	Aányɛ́		Aányɛ́ wáŋa wu ɔ basɔ́ eélúnyi ne nulénéne enú Kilís ŋa basɔ́ léne e ? Muuyé ayɛ́ʼ ? Ɔbɛ́ákɛ́na ayɛ́ʼ ? Mutekesene ayɛ́ʼ ? Ɛcaná ayɛ́ʼ ? Mecíli ayɛ́ʼ ? Ekume ayɛ́ʼ ? Ta anyía owé e ?
+45009014	aátɛ́		Mbá aátɛ́ yí etémbí aná e ? Ɛ́cɛ anyía Bandɔ́mɛsɛ́ tɛ á bá ɔtálɛ́mánánɔ́ e ? Eéʼeé , te butíkítíki !
+45009019a	anyíatɛ́		Mbɔ́kɔ yááŋa aáná , ɔɔcɔ a wɔmɔtɛ́ áŋa wu ɔbɛ́báta ɔsɛ : « Mbá anyíatɛ́ Bandɔ́mɛsɛ́ ŋe túné a kákálɛ́na baacɔ aná e ? 
+45009019b	~		Baacɔ ŋa bɔ́ kɛla hú bɛsana abɛ́ Bandɔ́mɛsɛ́ áŋa ɔtákákɛ́nánɔ́ . »
+45009020a	aátɛ́		Kuɔŋɔ́ ɔɔcɔ u bɔtɔhɔ , ɔ ɔ́ŋa aátɛ́ o ŋóo kélísíki Bandɔ́mɛsɛ́ e ? 
+45009020b	~		O ŋoó keti anyía bɔkɔ abɔ́ bá tabɔ́naka na aabá áŋa na makɛ́nda ma ɔbata mu-buúbu-tábɔ́na bɔ́sɛ : 
+45009020c	Anyíatɛ́		« Anyíatɛ́ ɔ́ɔ mɛ tábɔ́náka aáná e ? »
+45009021	~		Mumaa áŋa na makɛ́nda ma ɔmaaka na núáyɛ́ nɔmaa númɔtɛ́ anɔ́ wɔ́ tɔ́bɔ́kɔ na bɛmbányɛ́kɛ́ bí tusényí tú bekenyí ne tundúléndúle .
+45009022	aátɛ́		Mbá kuɔŋɔ́ aná , aátɛ́ yí etémbí ɔ ɔ́ŋa wu ɔkɔɔnɔtɔna mbɔ́kɔ Bandɔ́mɛsɛ́ ŋo lóbísínyi baacɔ , u beébe tóŋgínyi maayɛ́ makɛ́nda e ? U ŋe yeéhíkínyínyi baacɔ buéŋí , eebe abá u ŋa nyɛ́mána wu olóbísíkínyi anyía bá ŋa bɔ́ nyɛ́mana bé owéékúne .
+45009023	~		U ŋoó tóŋínyi tɔ́na baacɔ nyɛnamá anyɛ́ yááyɛ́ yaála yí nuubo áŋa yeéŋí a yáásɔ́ aháŋá , basɔ́ abá u ŋaá basɔ́ bɛ́cáma mahana . U ŋaá cáŋa ɔ basɔ́ tabɔ́nɛ́na yaáláka yɛ́ núáyɛ́ nuúmi .
+45009024	~		Tua sɔ́ŋa tɔ́na eebe abá Bandɔ́mɛsɛ́ ŋɔɔ́ lɔ́tɔ́kɔ́ , tɛ́ cáŋa hí e Besuif noómi , mbá na a baacɔ tɔ́na a bá tɛ ábɔ́ bá Besuif .
+45009030	aátɛ́		Mbá aátɛ́ yí etémbí túásɔ́ kɔ́ɔ́na aná e ? Tusíʼo : Baacɔ a bá tɛ ábɔ́ bá Besuif , beébe bá tɛ ɔ́mɔ́ bɔ́ bá bábɔ́ aambaka ɔbámɔ́kɔ́na bɛtálɛ́mánánɔ́ bɛ́ baacɔ eeyé eé buúse , Bandɔ́mɛsɛ́ mé beébe hiíteke aámbáya háyɛ bɛtálɛ́mánánɔ́ bɛ́ baacɔ eeyé eé buúse , anyía bá ŋa bɔ́ háya mɔŋɔlɛ́ nááyá ;
+45009032	anyíatɛ́		Mbá anyíatɛ́ aná e ? Yááŋa anyía bá ŋa bɔ́ bá bábɔ́ bɛ́tááka anyía Bandɔ́mɛsɛ́ áŋa wu o beébe hiiteke háyɛ bɛtálɛ́mánánɔ́ bɛ́ baacɔ eeyé eé buúse a nyɛlátɛ́na nyí bikotí nyiínyi ne nyiínyi , ɔ ɔhɔla anyía bábɔ́ hákɛ́na mɔŋɔlɛ́ nááyá . Ɛ́ɛhɛ́ bé ŋe bú kúféténe e nukúse e nú ŋé kúfítínyi baacɔ .
+45010006	aányɛ́		Mbá a asana na baacɔ abá Bandɔ́mɛsɛ́ ŋá kɛla anyía bá bámɔ́kɔ́na bɛtálɛ́mánánɔ́ bɛ́ baacɔ anyía bá ŋa bɔ́ háya mɔŋɔlɛ́ nááyá , yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ anyía : « Atɛ bɛ́báta asɛ́ : Mbá aányɛ́ u káá báátáka ɔ Ɔmuaná e ? » Búáŋa osúúnyítune Kilís .
+45010007	Aányɛ́		Atɛ bɛ́báta tɔ́na asɛ : « Aányɛ́ u káá sɔ́ɔ́náka a haála hé biwéewé e ? » Búáŋa okohéenyutune Kilís e biwéewé .
+45010008	~		Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ ŋa kɔ́ɔna cɛ́sɛ : « Bɛsana bɛ́ Bandɔ́mɛsɛ́ áŋa hoóhi na kuɔŋɔ́ ; bɛ́áŋa ne oówo e nyuúté na ɔɔ́wɔ ɔ ɔtɛ́má noómi . » Bí ŋeé húle o olumitinine , biíbi tu ŋe sú húlinyi baacɔ .
+45010014a	Anyána		Mbá anyána bá bɔ́ŋa bé o wuúci lɔ́ŋɔ́kɔ , mbɔ́kɔ bɔ́ tɛ́ ɔmɔ́ bɔ́ háya mɔŋɔlɛ́ nááyá e ? 
+45010014b	Anyána		Anyána bá bɔ́ŋa bá ɔháya mɔŋɔlɛ́ nááyá , mbɔ́kɔ bá tɛ ɔ́mɔ́ bɔ́ lɔ́kɔ́ma ɔɔcɔ á táŋáka yááyɛ́ asana e ? 
+45010014c	Anyána		Anyána bá bɔ́ŋa bá ɔlɔ́kɔ́máka yááyɛ́ asana , mbɔ́kɔ ta ɔɔcɔ ti ŋgeé beébe yiíyi hulínyi e ?
+45010015	anyána		Mbá anyána aná bá bɔ́ŋa bé okohúlikinyi baacɔ yááyɛ́ asana mbɔ́kɔ bé tí omó beébe tɔ́mɔ́kɔ́na e ? Aáná yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ anyía : « Bú ŋa hɔ́la ɔhɛka anyía ɔ́ɔ lɛcáka baacɔ a bá bɔ́ŋa na bɛmbányɛ́kɛ́ bɛ́ ɛsɔ́ma ábɔ́ fáakɔna . »
+45010016	aányɛ́		Mbá ta híáná , hú bɛtaŋalaka bí Besuif ŋe lumitinine Ambányɛ yɛ́ Ɛsɔ́ma . Ɛsayí ŋaá bɛ́cɔ́bɔ́kɛ́na Bandɔ́mɛsɛ́ , ɔsɛ : « Ééʼ , Otéŋí a Waáŋá , aányɛ́ u ŋe lúmitinine úúsú ɔtáŋa e ? »
+45011004	aátɛ́		Mbá aátɛ́ Bandɔ́mɛsɛ́ ŋeé wuúci laána e ? U ŋeé wuúci laána ɔsɛ : « Ya mɛ́ŋa ɔlɔtɔ́nɔ́ baacɔ tɔ́sɛ́na ítíndétú nɔ́mɔ . Bé tí ŋe bú túmíne Baal eŋéndu . »
+45011007	aátɛ́		Mbá aátɛ́ aná e ? Yááŋa anyía bɔkɔ abɔ́ baacɔ bé Islayɛ́l ŋa bɔ́ bá bábɔ́ aambaka , bé ti ómó bú buúbu bɔ́ŋɔ ; mbá hú eebe abá Bandɔ́mɛsɛ́ ŋɔ lɔ́tɔ́kɔ bá ŋa bɔ́ bɔ́ŋɔ buátɛ́ bɔkɔ . U ŋaá kɛ́la anyía bɔsɔ́ɔ́kɔ́ bé etémbí tɛ lɔ́kɔ́ma bɔmbányɛ bíáyɛ́ bɛsana .
+45011015	anyána		Yááŋa anyía , Bandɔ́mɛsɛ́ ŋaá bɛ́yuátaka Besuif ananyía wáá latákána ne wuúci na baacɔ bé etémbí bá ɔmɛsɛ́ ooci . Mbá , ekúlú ayɛ́ Bandɔ́mɛsɛ́ ké túné é beébe káháka , anyána bú káá bá aná e ? Bú káá bá ambányɛ́kɛ́ yɛ́ asana ɔ ɔhɔla anyía bú ké yiínjíékíne olíhe e biwéewé .
+45011018	~		Asana ɔ́mɔtɛ́ , nɔtɛ bábákɛ́na ɛndáfɛ acɛ́ bá ŋa sáŋɔ́náka anyía , mbɔ́kɔ ɔtɛ́má ŋɔ yɔ́ɔ hámɛ́na wú obíbéétíki aáná , menyí anyía tɛ́ cáŋa banɔ́ nua nɔ́ŋa betímbíékénú bɛkaŋá , mbá bɛkaŋá biíbi bɛ́áŋa bɛ́ banɔ́ timbiekenu .
+45011033a	~		Ɔ́ɔ lɛca nyɛnamá nyɛ́ ambányɛ yɛ́ ɔtɛ́má yɛ́ mahana ayɛ́ Bandɔ́mɛsɛ́ áŋa ne yiíyi . Ciayɛ́ injiŋé áŋa ciáŋá ɔ ɔhɔla , u menyukune bɛsana bikime . Ta ɔɔcɔ ti ŋéé ményi nyíáyɛ́ nyɛtákɛ́na nyɛ́ bɛsana , 
+45011033b	~		u tɛ lɔ́kɔ́ma bɔmbányɛ injibí ci cííyé ihényí .
+45011034a	aátɛ́		Aáná yááŋa yɔ́ɔ́ŋɔ́kɔ́nɔ́ anyía : « Ta ɔɔcɔ ti ŋéé ményi aátɛ́ Bandɔ́mɛsɛ́ ŋá bɛ́táá . 
+45011034b	~		Ta ɔɔcɔ tɛ á bá wu o wuúci lébéke tɔ́na .
+45011035	~		Ta ɔɔcɔ ti ŋéé wuúci íínjie bɛnyɛ́ma o o wuúci foli , mbá wáŋa wu o wuúci biíbi bataka . »
+45014004	aányɛ́		Ɔ ɔ́ŋa aányɛ́ , kuɔŋɔ́ ewú o ŋoó kélísi munyiɔnɔ mɔ bɔsɔ́ɔ́kɔ́ e ? Ta wɔ́ nyíɔ́kɔ bɔɔbɛ́ , ta wɔ́ nyíɔ́kɔ bɔmbányɛ , bú ŋa lɛ́ca hú ciayɛ́ síkíne ci buólí . Yááŋa anyía , munyiɔnɔ eémú ké yeéhínyínyi ɔnyiɔ búáyɛ́ buólí , u tɛ kua , ananyía Otéŋí a Waáŋá ŋeé wuúci kíndísi aáná .
+45014010a	anyíatɛ́		Mbá kuɔŋɔ́ aná , anyíatɛ́ o ŋoó kélísi sɔ́ɔ́kɔ́ , e wuúci bábákɛ́na e ? 
+45014010b	~		Yaŋɔ́ ɛsɛ , basɔ́ bekime tu ká sɔ́ tálɛ́mákɛ́na eé buúse bɔ́ Bandɔ́mɛsɛ́ a nyɛkála e ? Tɛ́ka , yááŋa aatɔ́ ɔlama e ?
+46001020a	weényi		Onjiŋénjíŋe weényi aná e ? 
+46001020b	Háányɛ́		Háányɛ́ muékúnyi bikotí áŋa e ? 
+46001020c	~		Ta anyía musuŋunyi bɛsana mɔ hɛɛya eehi e ? Aá taaká , Bandɔ́mɛsɛ́ áŋa otóŋgínyínyi baacɔ anyía injiŋé cɛ baacɔ bá ɔmɛsɛ́ áŋa injiŋé cɛ buála .
+46002011	aátɛ́		Ta ɔɔcɔ a bɔnyɛ baacɔ ti ŋéé ményi aátɛ́ yááŋa ɔ ɔtɛ́má ú ɔɔcɔ noómi , ɛ tɛ ŋáa bá hú elilé yɛ́ ɔɔcɔ a yááŋa nááyá ; híáná tɔ́na ta ɔɔcɔ ti ŋéé ményi aátɛ́ Bandɔ́mɛsɛ́ ŋá bɛ́táá , ɛ tɛ ŋáa bá Elilé yɛ́ Bandɔ́mɛsɛ́ bɛ́muátá .
+46002016a	Aányɛ́		Aáná yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ a Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ anyía : « Aányɛ́ wáŋa wu omenyi nyɛbɛ́táá nyí Otéŋí a Waáŋá ɔ ɔkɛla anyía wé wuúci hɔŋɔ́náka e ? » Aá basɔ́ , tua sɔ́ŋa na nyɛbɛ́táá nyí Kilís .
+46002016b	~		
+46003005a	aányɛ́		Aányɛ́ wáŋa Abólos e ? 
+46003005b	aányɛ́		Yaŋɔ́ Bóol , ya mɛ́ŋa aányɛ́ e ? Yaŋɔ́ ɛsɛ basɔ́ bekime béfendí tua sɔ́ŋa hú bɔnyiɔnɔ bá Bandɔ́mɛsɛ́ e ? Basɔ́ tu ŋa sɔ́ banɔ́ bísúékíné o olumitinine . Aáná , hú naányɛ́ ŋɔɔ nyíɔ́kɛ́na Otéŋí a Waáŋá hú buólí ebú u ŋeé wuúci iínjíé .
+46004007a	aányɛ́		Mbá aányɛ́ wɔ yɔ́ɔ laana anyía ɔ ŋɔ́ɔ hɔlaka bɔsɔ́ɔ́kɔ́ e ? 
+46004007b	aátɛ́		Aátɛ́ ɔ ɔ́ŋa ne yiíyi ayɛ́ bɔ́ tɛ ɔmɔ́ kuɔŋɔ́ iínjie bú kuɔŋɔ́ iínjie e ? 
+46004007c	aátɛ́		Mbɔ́kɔ bó ŋo yóo wiínjíé bú kuɔŋɔ́ iínjie , mbá a aátɛ́ aná o ŋoó bíbéétínyi bɔsɔ́ɔ́kɔ́ háyɛ anyía bɔ́ tɛ́ ɔ́mɔ́ kuɔŋɔ́ iínjie bú kuɔŋɔ́ iínjie e ?
+46004021	anyána		Aáná a nyíánɔ́ nyɛkɛlaka eényí , anyána nu ŋe nú léne anyía yá ka mɛ faáya náánɔ́ e ? Ne biité ayɛ́ʼ ne bumbénú e ?
+46005002	~		Ta híáná , nu ŋe nú bíléne na bumálá bukime , yiíye anyía nu ŋá nɔ́ nyɛ́mana nu ɔlɛlaka mbá núɔ ɔɔ́ŋɔ́kɛ́na aanɔ́ ɛ ɛkatɛ́katɛ́ nyɛnamá nyɛ́ ɔɔcɔ e nyí ŋe líhe aáná .
+46005012	~		Yááŋa anyía ɛ tɛ ámɛ bá na makɛ́nda me okélísíki baacɔ bá nɔháatɛ́ a bá tɛ abɔ́ bá na basɔ́ . Ɔ́kɔ , tɛ́ka baacɔ bé noómi bé uúnú ɔlɔŋɔ nua nɔ́ŋa na makɛ́nda me okélísíki e ?
+46006001	Anyíatɛ́		Anyíatɛ́ nu ŋa nɔ́ kɛ́la anyía ekúlú ayɛ́ mulumitinine a mumɔtɛ́ áŋa e nyiitíé na sɔ́ɔ́kɔ́ , mu ŋe keé muúmu sɔ́mɛ́na né be-ti-menyí Bandɔ́mɛsɛ́ e ? Yaŋɔ́ ɛsɛ́ hiɔ́bɔ hí belumitinine hɛ́ a nyɛ́mana hí okélísíki nyiitíé eényí e ?
+46006003	anyána		Nu ti ŋé nú ményi anyía basɔ́ tu ké sú kélísíki te bililé bɛ́ masɔ́ma e ? Mbá anyána aná na tɔsanasáná tú olíhe ú ɔmɛsɛ́ ooci e ?
+46006004	anyána		Ɛ́ɛhɛ́ aná , mbɔ́kɔ nu ŋé nú tíéne na sɔ́ɔ́kɔ́ a bɛsana bí olíhe ú ɔmɛsɛ́ , anyána nua nɔ́ŋa nú ɔcɔbana asana eéyé eé buúse bɔ́ baacɔ abá hiɔ́bɔ hí belumitinine tɛ ŋá fánɛna te butíkítíki e ?
+46006007a	háányɛ́		Bú tɛ ŋáá lɔ́kɔ́mána te butíkítíki a yáánɔ́ aháŋá anyía núánɔ́ sɔ́mɔ́kɔ́nɔ́nɔ , banɔ́ belumitinine . Ta sɔ́ɔ́kɔ́ ŋá yɔ́ɔ kɛlá aabɛ́ yɛ́ asana ayɛ́ háányɛ́ , ɔ tɛ ɔ́ bá wu oweéhínyínyi e ? 
+46006007b	~		Te u ŋé yóo kutéke aatɔ́ , ɔ tɛ ɔ́ bá wu ɔnyɛana e ?
+46006009	~		Nu ŋe nú ményi bɔmbányɛ bɔmbányɛ anyía bakɛla maabɛ́ tɛ abɔ́ bá ne ehélé buúse bukime e Butéŋí bɔ́ Bandɔ́mɛsɛ́ . Nuti bínéŋéke ; énu menyí bɔmbányɛ anyía ta bakɛla ɛnjɔkɔ́nɔ́nɔ , te benyemi bɛbɔ́kɔ́bɔ́kɔ , ta bakanda tusɔmɔ , ta banɔ́mɔcɔ́ a bá ŋa bɔ́ fiánanana beébe ne beébe ,
+46006016	~		Nu ti ŋé nú menyi tɔ́na anyía ɔɔcɔ okime awɔ́ á látana ne okendí u oónjú á yáaŋa cɛɛ́tɔ ɛmɔtɛ́ ne wuúci e ? Yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ anyía : « Bífendí eébí bɛ́ɔ kɔ hálɔ́mɔ́na ɔɔcɔ ɔmɔtɛ́ . »
+46006019	~		Nu ti ŋé nú menyi anyía cíínú cɛɛ́tɔ áŋa ciíbe ci Efúúménénú yí Elilé a yááŋa náánɔ́ , yiíyi Bandɔ́mɛsɛ́ ŋaá banɔ́ íínjie e ? Tɛ́ cáŋa banɔ́ bɛ́muátá nu ŋa nɔ́ mánɛna aná cíínú cɛɛ́tɔ , mbá Bandɔ́mɛsɛ́ .
+46007016a	~		Kuɔŋɔ́ oónjú , mulumitinine Kilís , o ti ŋó menyi mbɔ́kɔ kuɔŋɔ́ ɔ ɔ́ŋa wu onohi uuwu ɔnɔ́mɛ . 
+46007016b	~		Híáná , kuɔŋɔ́ ɔnɔ́mɔcɔ́ , mulumitinine Kilís , o ti ŋó menyi mbɔ́kɔ kuɔŋɔ́ ɔ ɔ́ŋa wu onohi uuwu oónyí .
+46009007a	háányɛ́		Ánɔ mɛ laana , yámɛ lɔ́kɔ́ma ! Ɔɔcɔ awɔ háányɛ́ u na mɔɔ́ nyíɔ́kɛna bucénji , u bɛ́námáka wuúci bɛ́muátá e ? 
+46009007b	aányɛ́		Ta anyía aányɛ́ u na mɔɔ́ nyíɔkɔ esíéné , yɔ́ lɔ́bɔ u tɛ nyíá bɛnyɛ́ma bí esíéné eéyé e ? 
+46009007c	aányɛ́		Ta anyía tɔ́na aányɛ́ u ne meé sókóbíki bitúké , yɔ́ lɔ́bɔ u tɛ muá mabána amá wá kámáka e bitúké eébí e ?
+46009018	~		Ɛ́ɛhɛ́ bíámɛ bɛnamá á nyɛ́mana bɛ́ ɔbá hú ohulinyi baacɔ Ambányɛ yɛ́ Ɛsɔ́ma etémbí ne etémbí , ɛ tɛ batá bɔkɔ ebú yiíyi bɛ́muátá ŋeé mi iínjíé makɛ́nda me o buúbu báta .
+46010019a	~		Ɛ ŋa mɛ́ aamba ɔ banɔ́ láana anyía ne bitúké a bá ŋa sɔ́mbɛ́na e esíéké ne esíéké bɛ́muátá tɛ ŋɔ́ yɔ́ɔ́lɔ ta bɔkɔ .
+46010019b	~		
+46010019c	~		
+46010029	anyíatɛ́		A asana na hɛcɔɔ́cɔ́ hɛ́ ɔtɛ́má eéhí ahɛ́ ɛ ŋaá mɛ táŋa tɛ ŋɔ́ yɔ́ɔ lɛca , mbá hɛ́ ŋa lɛca hú ɔɔcɔ oócí . Mbá anyíatɛ́ nyiámɛ nyɛbá nyɛ́ ɔkɛlaka bɔkɔ bukime e bú ŋeé mi bíléníne áŋa a asana na hɛcɔɔ́cɔ́ hɛ́ ɔtɛ́má hí etémbí e ?
+46010030	anyíatɛ́		Mbɔ́kɔ i ŋeé mi iínjie Bandɔ́mɛsɛ́ bitéŋíti a bɛnyɛ́ma abɛ́ ɛ ŋaá mɛ nyíá , mbá anyíatɛ́ aná bá ŋaá mɛ táŋɛ́na ?
+46011022	aátɛ́		Yaŋɔ́ ɛsɛ , nua nɔ́ŋa ne meébe na ma ɔnyíáka na ma ɔmúákɛ́na hɔ́á e ? Mbá anyána aná e ? Nu ŋa nɔ́ bábɛ́na bɔ bábɛ́na hiɔ́bɔ hí belumitinine Bandɔ́mɛsɛ́ ayɛ́ʼ , bu lemisi nú ŋe nú lémisi basɔ́kásɔ́ka aatɔ́ e ? Yámɛ kɔɔna aátɛ́ yí etémbí aná ? Yámɛ banɔ́ lémbíkí ayɛ́ʼ ? Eéʼeé , ta buɔ́sɛ́ !
+46012017a	anyána		Mbɔ́kɔ cɛɛ́tɔ ikimekime a bámɔ́kɔ́na hú nyiíse , keyé anyána ɔɔcɔ áŋa wu ɔlɔ́kɔ́máka bɛsana e ? 
+46012017b	anyána		Ta anyía mbɔ́kɔ cɛɛ́tɔ ikimekime a bámɔ́kɔ́na hú ootú , keyé anyána ɔɔcɔ áŋa wu ɔlɔ́kɔ́máka enumbé yɛ́ bɛnyɛ́ma e ?
+46012019	~		Mbɔ́kɔ bɔláŋá á bá hú buúbu búmɔtɛ́ , keyé bá tɛ a bá bá ɔtáŋáka asana yɛ́ cɛɛ́tɔ .
+46014006	yaátɛ́		Aámbáya , báámɛ benyíinyí , nyiɔ́lɔ nyɛ́ yaátɛ́ ya mɛ́ŋa wu ɔ banɔ́ héléníne mbɔ́kɔ ɛ ŋa mɛ́ banɔ́ táŋɛ́na indimenyí cɛ́ ɛtáŋa e ? Ya mɛ́ŋa wu ɔ banɔ́ ɔ́ɔ́lɔ́kɔ mbɔ́kɔ ɛ ŋa mɛ́ banɔ́ cíbúníne bɛsana abɛ́ Bandɔ́mɛsɛ́ á mɛ́ nambɔnakɛna , ta anyía ɛ ŋa mɛ́ kɛla anyía núénú ményi bɛsana a bɛ́mɔtɛ́ . Ya mɛ́ŋa wu ɔ banɔ́ ɔ́ɔ́lɔ́kɔ tɔ́na mbɔ́kɔ ɛ ŋa mɛ́ banɔ́ hémúnyínyi bɛsana , ta anyía ɛ ŋa mɛ́ banɔ́ eékúnyi nyiékúnyi a nyɛ́mɔtɛ́ na ɔtáŋa ewú nu ŋe nú ményi bɔmbányɛ bɔmbányɛ .
+46014007	anyána		Yááŋa híáná bɔkɔ búmɔtɛ́ na bɛnyɛ́ma bɛ́ bunɔ́kɔ́ eebi , ne ololí na nɔlɔ́ŋɔ́ . Mbɔ́kɔ bé ŋeé fúme bu fúme ololí , bá kɔ́ndɔ́lɔ́kɔ bu kɔ́ndɔ́lɔ́kɔ nɔlɔ́ŋɔ́ , anyána ɔɔcɔ áŋa wu omenyi aátɛ́ ololí eéyé ta anyía nɔlɔ́ŋɔ́ eénú ŋa kɔɔna e ?
+46014008	~		Híáná bɔkɔ búmɔtɛ́ , mbɔ́kɔ musúbe hikóló ti ŋé sóbi bɔmbányɛ biité , ta ɔɔcɔ tɛ káá bɛ́tábɔ́nákɛ́na biité .
+46014009	anyána		Híáná yááŋa tɔ́na náánɔ́ ! Mbɔ́kɔ nu ŋa nɔ́ táŋa indimenyí cɛ́ ɛtáŋa , anyána baacɔ a bɔ́ŋa bé omenyi aátɛ́ nu ŋa nɔ́ táŋa e ? Cíínú ɛtáŋa eécí áŋa etémbí ne etémbí .
+46014015	aátɛ́		Mbá yámɛ kɛla aátɛ́ aná e ? Ɛ ká mɛ́ bɛ́cɔ́kɔ́lɔ́kɛ́na Bandɔ́mɛsɛ́ a nyɛnamá enyí Efúúménénú yí Elilé ŋeé mi tóŋínyi , mbá i wuúci bɛ́cɔ́kɔ́lɔ́kɛ́na tɔ́na na maamɛ mɔsɔŋɛ́ . I ké mí wuúci hákɛ́nɛ́na maŋana emé Efúúménénú yí Elilé ŋeé mi tóŋínyi , mbá i wuúci hákɛ́nɛ́na tɔ́na maŋana ɔ ɔtáŋa awɔ́ ɛ ŋaá mɛ lɔ́kɔ́ma bɔmbányɛ bɔmbányɛ .
+46014016	~		Yááŋa anyía , mbɔ́kɔ i ŋeé mi íínjie Bandɔ́mɛsɛ́ bitéŋíti hí e úúmi ɔtɛ́má noómi i indimenyí cɛ́ ɔtáŋa , mɔhɔlahɔla a muáŋa aáhá tɛ á bá mu ɔkɔɔna anyía « Híáná yááŋa » a nyiámɛ nyiínjie nyɛ́ Bandɔ́mɛsɛ́ bitéŋíti anyɛ́ u tɛ ŋá lɔ́kɔ́ma ta bɔ lɔ́kɔ́ma .
+46014026	aátɛ́		Baláamɛ , mbá aátɛ́ yámɛ banɔ́ laána aná e ? Ekúlú ayɛ́ banɔ́ belumitinine , nu ŋa nɔ́ bɛ́bándána o onyemi Bandɔ́mɛsɛ́ , ɔɔcɔ a wɔmɔtɛ́ aanɔ́ ɛ ɛkatɛ́katɛ́ áŋa wu ɔbá na buŋana bɔ́ ɔhákɛ́na ; a wɔmɔtɛ́ na asana yí oweékúnyíki bɔsɔ́ɔ́kɔ́ , a wɔmɔtɛ́ na asana yɛ́ ɔnambɔnɛna bɔsɔ́ɔ́kɔ́ , a wɔmɔtɛ́ ne indimenyí cɛ ɔtáŋa , a wɔmɔtɛ́ tɔ́na na makɛ́nda me ocíbúnékíne bɔsɔ́ɔ́kɔ́ ɔtáŋa oócí . Bɛsana eébí bikime ŋá nyɛmána bɛ́ ɔwɔɔ́lɔ́kɔ baacɔ ɔ ɔwɔɔ́nɛ́na o olumitinine noómi .
+46014036	~		Nu ŋe nú ményi anyía Bɛsana bɛ́ Bandɔ́mɛsɛ́ ti ómó túme náánɔ́ , ta anyía hú banɔ́ bímuócí nu ŋe nú biíbi menyi .
+46015012	anyána		Ɛ́hɛ́ɛ ! Basɔ́ , tu ŋe sú húlinyi baacɔ anyía Bandɔ́mɛsɛ́ ŋeé héényi Yésus Kilís e biwéewé , mbá anyána aná baacɔ ɔ bɔ́mɔtɛ́ aanɔ́ ɛ ɛkatɛ́katɛ́ ŋa bɔ́ kɔɔna báyɛ biwéewé tɛ́ ká háányuaka e ?
+46015029a	~		Ánɔ lɛcá , baacɔ a bɔ́mɔtɛ́ ŋe bú bíótókíne a asana na bɛlɔ́ŋɔ́ ; 
+46015029b	anyíatɛ́		mbá anyíatɛ́ bá ŋa bɔ́ kɛ́láka aáná mbɔ́kɔ aá taaká biwéewé tɛ ká bɔ́ háanyuaka e ? 
+46015029c	anyíatɛ́		Mbá anyíatɛ́ tɔ́na aná ɔbɛ́kándɔ́na obíótíne a asana na bɛlɔ́ŋɔ́ awɔ́ ú tɛ ŋɔ yɔ́ɔ́lɔ ta bɔkɔ e ?
+46015030a	~		
+46015030b	anyíatɛ́		Aáná anyíatɛ́ basɔ́ bɛ́muátá , tú ma sɔ́ támbáka bɛamba bí owé mɔɔ́sɛ́ mekime e ?
+46015032	aátɛ́		Ɛ ŋa mɛ́ nuáka aaha ɛ Ɛfɛ́ɛsɛ na baacɔ i iŋetí cɛ ɛnyama cí biciké . Mbɔ́kɔ hú a nyɛbɛ́táá nyɛ́ baacɔ ɛ ŋa mɛ́ kɛláka aáná , aátɛ́ ɛ ŋaá mɛ hɔ́má aná , mbɔ́kɔ biwéewé tɛ ŋá bɔ́ háányua e ? Ɛ ŋaá mɛ banɔ́ túmíne yáaŋa ɛnjaba eeci a cɛ ŋa kɔɔna cɛsɛ : « Túá nyíáka , túá múákɛ́na anyía nɔɔyá tu ké sú wéekúne ! »
+46015035a	Anyána		Aáná bɔ́mɔtɛ́ baacɔ ŋa bɔ́ báta báyɛ : « Mbá anyána Bandɔ́mɛsɛ́ kéé héenyiki biwéewé e ? 
+46015035b	Anyána		Anyána cɛɛ́tɔ cɛ ɔɔcɔ awɔ́ á háanyua e biwéewé káá lɛ́cakana e ? »
+46015055a	nyiényí		Owé eé , nyíɔ́wɔ nyɛyáka nyiényí aná e ? 
+46015055b	nyiényí		Owé eé , nyíɔ́wɔ nyɛkɔŋɔ́ nyiényí aná e ?
+47002002	aányɛ́		Mbɔ́kɔ ɛ ŋa mɛ́ banɔ́ núésíki ɛtɛ́má , aányɛ́ u etémbí wáŋa wu o mi iínjítúne obíléne ɔ ɔtɛ́má noómi , ɛ tɛ ŋáa bá hú banɔ́ ebé i ŋe mí nuesi ɛtɛ́má e ?
+47002016	Aányɛ́		A asana na baacɔ abá Bandɔ́mɛsɛ́ ŋoo nóhi , enumbé eéyé áŋa e yí ŋe yiínjíéne olíhe . A asana na baacɔ a bɔ́mɔtɛ́ e bé ŋe bú nyíme , enumbé eéyé áŋa e yí ŋe yiínjíéne owé . Aányɛ́ aná wáŋa wu ɔkɛlaka nyɛnamá nyí buólí háyɛ eényí e ? Ta ɔɔcɔ .
+47003008	anyána		mbá anyána aná ne buólí bú Efúúménénú yí Elilé e ? Bú káá kɛ́la anyía baacɔ á lɛcáka buáŋá bɔ́ Bandɔ́mɛsɛ́ ɔ ɔhɔla .
+47003009	~		Mbɔ́kɔ buólí bú ohulikinyi baacɔ bikotí ŋaá bá búó yóómísíki Bandɔ́mɛsɛ́ , ta yɛ́ caŋa á bá anyía bikotí eébí ŋaá bá bí é nénisiki baacɔ , tɛ́ka asana e yí ŋe télímínyi baacɔ a batálɛ́mánánɔ́ eé buúse bɔ́ Bandɔ́mɛsɛ́ kéé wuúci óómísíki ɔ ɔhɔla e ?
+47006014a	~		Nɔtɛ tákáka mekendinyi e nyikílínyi nyɛ́ bɛsana na baacɔ e bé ti ŋé bú lumitinine Bandɔ́mɛsɛ́ . 
+47006014b	~		Énu menyí anyía na bɔmbányɛ na bɔɔbɛ́ ti ŋé bú kéndinyi ta buɔ́sɛ́ , te ne eese , ne ibíne .
+47006015a	~		Híáná tɔ́na , ne Kilís na Bɛlɛ́al tɛ abɔ́ bá bá ɔlɔ́kɔ́mákána ; 
+47006015b	~		aáná ne mulumitinine Kilís ne mu-ti-lumitinine tɛ abɔ́ bá bá ɔbámɔ́kɔ́na na ɔbɛ́táá ɔ́mɔtɛ́ .
+47006016	~		Bɛbɔ́kɔ́bɔ́kɔ tɛ á bá ne nyilimíné eé Ciíbe cɛ Bandɔ́mɛsɛ́ ; basɔ́ tua sɔ́ŋa Ciíbe cɛ Bandɔ́mɛsɛ́ a wáŋa wɔɔ́sɔ . Yááŋa háyɛ u ŋaá kɔɔna ɔsɛ : « I ké ké mí limekíne náábɔ́ , ɛ kandaka a ciabɔ́ ɛkatɛ́katɛ́ , míɔ bá ciabɔ́ Bandɔ́mɛsɛ́ , beébe báámɛ baacɔ . »
+47011011	anyíatɛ́		Mbá anyíatɛ́ ɛ ŋa mɛ́ táŋa aáná e ? Yááŋa anyía ɛ tɛ ŋá mɛ́ banɔ́ léne e ? Eéʼeé , ta Bandɔ́mɛsɛ́ bɛ́muátá ŋe ményi anyía ɛ ŋa mɛ́ banɔ́ léne .
+47011029a	~		Yááŋa anyíaʼo , ekúlú ekime ayɛ́ ɔɔcɔ a wɔmɔtɛ́ á kása , bú ŋeé mi kesi buéŋí e úúmi ɔtɛ́má noómi ; 
+47011029b	~		híáná tɔ́na , ekúlú ekime ayɛ́ ɔɔcɔ a wɔmɔtɛ́ a kɛ́la asana a yaabɛ́ , asana eéyé ŋaá mɛ kálɛ́na buéŋí ɔɔ́mɛ ɔ ɔtɛ́má noómi .
+47012013	yaátɛ́		Ánɔ mɛ laána : Asana ayɛ́ yaátɛ́ yɛ́ ŋɔ́ɔ lɔ́bɔ́ náánɔ́ tɛ́ka na ɔkɛla , mío koó yiíyi kɛlaka aá tuɔ́bɔ tú belumitinine tú etémbí e ? Ɛ́ tɛ ŋáa bá anyía ɛ tɛ ɔ́mɔɔ́ banɔ́ túéhínyi bɔlamɔ́ bú úúmi olíhe a bíánɔ́ bɛɛtɔ́ ; ánɔ mɛ nyɛ́ánɛ́nɛ́na anyía nyɛkɛla eényí tɛ ɔ́mɔ́ bá nyɛtálɛ́mánánɔ́ .
+47012017	~		Aáná ɛ ŋaá mɛ bɛ́báta anyía mbá ɛ ŋaá mɛ bá wu ɔ banɔ́ néŋéke , míɔ banɔ́ nyíákɛ́na e elime cɛ ɔmɔtɛ́ u báámɛ baacɔ abá ɛ ŋaá mɛ banɔ́ tɔ́mɔ́kɔ́nɛ́na ayɛ́ʼ ?
+48002014	anyíatɛ́		Ɛ́makɛ́la yámɛ lɛca anyía bá tɛ ŋá bɔ́ bɛ́kɛ́lɛ́na háyɛ indélímínyínyi cɛ taaká cɛ Ambányɛ yɛ́ Ɛsɔ́ma ŋo tóŋínyi , nyiámɛ nyɛhatɔna eényí ɛ ɛkatɛ́katɛ́ ci belumitinine bekime , i ŋe túme ɔkákálɛ́na Bíel , mbá ɛsɛ́ : « Huúúʼ baabá ! Mbɔ́kɔ kuɔŋɔ́ awɔ́ ɔ ɔ́ŋa u Besuif , óo líhéke aaha háyɛ ɔɔcɔ awɔ́ u tɛ á bá u Besuif , anyíatɛ́ ɔ ŋɔɔ́ waamba oweékínyi baacɔ a bá tɛ ábɔ́ bá Besuif anyía bé líhéke , bá bɛ́kɛ́lákɛ́na háyɛ Besuif e ?
+48003001	Aányɛ́		Banɔ́ baacɔ bá Kalasi , anyána ! Nu tɛ anɔ́ bá na bɛɛtɔ́ e ? Aányɛ́ u ŋaá banɔ́ cáŋgɛ́na ɛtɛ́má e ? Yaŋɔ́ ɛsɛ bá ŋaá banɔ́ búlúnékíné bɔmbányɛ anyána Yésus Kilís ŋeé wé waátákɛ́nánɔ́ ɔ ɔmbásá e ? Mbá anyána !
+48003019	aátɛ́		Mbɔ́kɔ aáná yááŋa , aátɛ́ bikotí abɛ́ Bandɔ́mɛsɛ́ ŋe yiínjíékíne baacɔ ŋɔ yɔɔ́lɔ e ? U ŋeé biíbi télímíkínyi anyía tuesú ményúkúne anyía tu ŋa sɔ́ nánaka ɔ ɔkɔɔ́háma anyía ɔɔcɔ u hɛnyɛ́nɔ́ hɛ́ Abɛ́laham a wáŋa ɛ́cɛ Kilís áa fáaya ; ná ɔɔcɔ oócí Bandɔ́mɛsɛ́ ŋe yiínjíé ɛndána eécí . Bililé bɛ́ masɔ́ma bɛ́ Bandɔ́mɛsɛ́ bí ŋe húlíkínyi baacɔ bikotí eébí , bɛ́ ɔhɔlakɛna ne ohényíhényi . Mbá ohényíhényi naŋa wɔɔ́ nyíɔ́kɔ buólí ɛ ɛkatɛ́katɛ́ cɛ baacɔ béfendí .
+48004009a	anyána		Mbá aámbáya ayɛ́ nua nuáŋa o omenyinyi na Bandɔ́mɛsɛ́ , anyána yááŋa tɔ́na anyía nuánɔ́ hálɔ́mɔ́kɔ́na ɔlátɛ́na abɛ́kɛ́lɛ́na cé ilumitinine cá baacɔ a cɛ́ tɛ á bá na makɛ́nda , cɛ́ tɛ ɔɔ́lɔ ta bɔkɔ e ? 
+48004009b	Anyíatɛ́		Anyíatɛ́ nɔ ŋa nɔ́ áamba ɔ háná bá bíábɔ́ bɛɔ́lɛ́ e ?
+48004010	~		Nu ŋe nú bíínjie ɔ ɔlátɛ́na manáka ma mɔɔ́sɛ́ a mɔ́mɔtɛ́ , ne me iílí a cɛ́mɔtɛ́ , ne me bikúlú a bɛ́mɔtɛ́ bɛ́ hiɔŋɔ , na ma tuɔŋɔ a túmɔtɛ́ tɔ́na .
+48004015	anyíatɛ́		Etéeyé ekúlú nɔ ŋa nɔ́ bá ne obíléne weéŋí . Mbá anyíatɛ́ nu tɛ ŋá háná enú bíléne aámbáya e ? Yaŋɔ́ bɛ́muátá i ŋe mí menyi bɔmbányɛ anyía e ekúlú eéyé , mbɔ́kɔ banɔ́ ne ohónyí wú ɔbɛ́sɔ́mɔ́kɔ eése anyía nuénú mi iínjíékíne , keyé nɔ ŋa nɔ́ bɛ́sɔ́mɔ́kɔ .
+48004021	aátɛ́		Isíʼo , banɔ́ abá nua nuánáŋa o oléne olíhe a buɔ́lɛ́ bú bikotí , ánɔ mɛ laána , yámɛ lɔ́kɔ́ma : Nu tɛ ŋá nɔ́ lɔ́kɔ́ma bɔmbányɛ aátɛ́ bikotí ŋaa kɔɔna ayɛ́ʼ anyána e ?
+48004030	~		Yááŋa anyía Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ ŋa kɔ́ɔna cɛ́sɛ : « Ɔɔ́ŋɔ́kɛ́na ne yoombi ne uuyé ɔɔ́nɔ́ áyá , anyía ɔɔ́nɔ́ u yoombi tɛ ɔ́mɔ nyɛmána wu ɔbá na nuafa a bɛnyɛ́ma bɛ́ cíáyɛ́ síkíne ; hú ɔɔ́nɔ́ u oónyí wá nyɛmána wu ɔbá na bɛnyɛ́ma eébí . »
+48005007a	aányɛ́		Buáyá , e nyitúme nyí úúnú olumitinine , nɔ ŋa nɔ́ bá nuanɔ́ látákɛ́na bɛsana bɔmbányɛ ; mbá aányɛ́ u ŋaá banɔ́ léké ɔcɔba ne buúse ɔ ɔlátɛ́na taaká cɛ́ bɛsana eébí e ?
+48005007b	~		
+48005011	anyíatɛ́		Banɔ́ báámɛ benyíinyí , a náámɛʼo : Mbɔ́kɔ ya mɛánáŋa o oweékúnyi baacɔ anyía bá bɛ́ácáka o ofúúméne , mbá anyíatɛ́ aná bá yánáŋa ɔ ɔcɔba ne buúse o o mi tekese e ? Mbɔ́kɔ yiíyi aná , keyé owé ú Yésus ɔ ɔmbásá ɔ ɔmuaná tɛ ŋa háná e yébi ta ɔɔcɔ .
+49004009	aátɛ́		Mbá aátɛ́ yááŋa anyía « u ŋaá báátáka » e ? Bú ŋe bíhémbúle anyía u ŋa cáŋacáŋa ɔlɔ́ɔ i injibí cɛ ɔmɛsɛ́ .
+50001018	~		Ɛ́cɛ anyía , ta yɛ́ cáŋa á bá na aabɛ́ yɛ́ ɔtɛ́má , ta anyía na ambányɛ yɛ́ ɔtɛ́má , bú tɛ ŋá mɛ ɔɔmbɔ ta ɔbaca . Bekime eébé ŋe bú húlinyi baacɔ Kilís ; yaátɛ́ asana i ŋeé mi bíléne buéŋí . I ké túné émi bílénéke buéŋí ɔ ɔhɔla ;
+50001021	~		Aá yaŋɔ́ , i ŋeé mi líhe anyía yémi nyemíki hú Kilís ; owé áŋa bíámɛ bɛnamá .
+51002020	anyíatɛ́		Yaŋɔ́ ɛsɛ́ nu ŋe nú wé ɔ ɔlɔŋɔ ne Kilís , buátɛ́ bɔkɔ bɛnyɛ́ma bikime a bɛ́áŋa na makɛ́nda na ɔ ɔmɛsɛ́ na ɔ ɔmuaná tɛ á bá ne butéŋí náánɔ́ e ? Mbá anyíatɛ́ nu ŋe nú líhe háyɛ baacɔ bá ɔmɛsɛ́ ekúlú ayɛ́ nu ŋa nɔ́ látɛ́na esúŋe a cá ŋa kɔɔ́na anyía :
+52002019	~		Aá taaká , tu ŋe sú lénéke ɔkɔɔ́ banɔ́ lɛca aáná , anyía banɔ́ tɔ́na nu ŋa nɔ́ kɛ́la anyía tua sɔ́ŋa tú ɔmɔ́ŋɔluaka na mɔŋɔlɛ́ , ne obíléne , ne nuúmi eé buúse bú Otéŋí a Waáŋá a nyíáyɛ́ nyɛkahálɔ́mɔ́na .
+52003009	yaátɛ́		Nyɛnamá nyí bitéŋíti bɛ́ yaátɛ́ aná tua sɔ́ŋa tú owiínjíékíne Bandɔ́mɛsɛ́ a yáánɔ́ asana o obíléne okime awɔ́ nu ŋa nɔ́ basɔ́ iínjie eéyé e buúse e ?
+54003005	anyána		Ɛ ŋa mɛ́ táŋa aáná anyía mbɔ́kɔ u ti ŋée menyi okendisi cíáyɛ́ ciíbe cɛ baacɔ cɛ bɛ́muátá , anyána wáŋa wu okendiki hiɔ́bɔ hí belumitinine hɛ́ Bandɔ́mɛsɛ́ e ?
+54006007a	~		Yááŋa anyía tu ŋa sɔ́ faáya ɔ ɔmɛsɛ́ aabá éfendí , 
+54006007b	~		híáná tu ká sɔ́ halɔ́mɔ́kɔ́na tɔ́na aabá éfendí .
+58001005	~		Bandɔ́mɛsɛ́ ŋaá laána Yésus ɔsɛ : « Ɔ ɔ́ŋa uumi Ɔɔ́nɔ́ , hɛ́nánɔ í me mí o tóŋínyi ná baacɔ bekime . » U ŋa háná é wuúci laana ɔsɛ : « Ya mɛ́ŋa ɔɔtɛ́ , ɔ ɔ́ŋa uumi Ɔɔ́nɔ́ . » Mbá a bɛsana eébí bikime , Bandɔ́mɛsɛ́ tɛ ŋá láana yááyɛ́ elilé yɛ́ bɔsɔ́ma a yɛ́mɔtɛ́ aáná ta buɔ́sɛ́ .
+58001013	~		Mbá Bandɔ́mɛsɛ́ tɛ ŋáa láana yááyɛ́ elilé yɛ́ bɔsɔ́ma a yɛ́mɔtɛ́ ta buɔ́sɛ́ ɔsɛ : « Ké limíne aaha aámɛ aháŋá yɛ́ ɔɔbɔ́ ú manɔ́mɛ ekúlú ekime ayɛ́ ɛ ká mɛ́ kɛ́la anyía óo límékíníne bɔ́ɔ́wɔ beliŋine a bɛɛtɔ́ . »
+58001014	aátɛ́		Bililé bɛ́ masɔ́ma bɛ́ Bandɔ́mɛsɛ́ áŋa aátɛ́ e ? Bɛ́áŋa hú bililé a bɛ́ ŋɔ nyiɔnɔ Bandɔ́mɛsɛ́ buólí , biíbi eébí Bandɔ́mɛsɛ́ ŋa tɔ́má ɔ ɔkɔwɔ́ɔ́lɔ baacɔ ebé u kéé nóhiki .
+58002003	anyána		Mbá basɔ́ tua sɔ́ŋa balɔ́kɔ́mákánɔ́ bɛandándá bɛ́ bɛsana a bɛ́ a hɔ́la : Biíbi bɛ́ ŋá basɔ́ nóhi , mbá anyána tua sɔ́ŋa tú ɔsámbáka muuyé a mɔ́ á basɔ́ nyɛmána , mbɔ́kɔ tu ŋa sɔ́ nɔ́kɔ bikotí , tu ti biíbi lɔ́kɔ́mɛ́na e ? Otéŋí a Waáŋá bɛ́muátá ú ŋa cáŋacáŋa ohuliki bɛsana a bɛ́ ŋa basɔ́ nóhi . Baacɔ a bá ŋa bɔ́ lɔ́kɔ́máka bɛsana eébí ŋa bɔ́ hákɛ́na ɛmbasɔ́ anyía bíáŋa taaká cɛ́ bɛsana .
+58002006a	aátɛ́		yiíye anyía yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ haála ɔ hɔ́mɔtɛ́ a Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ anyía : « Háá ! Bandɔ́mɛsɛ́ , ɔɔcɔ áŋa aátɛ́ e , anyía óo wuúci bɛ́tááka e ; 
+58002006b	aátɛ́		ta anyía ɔɔcɔ a wáŋa na cɛɛ́tɔ áŋa aátɛ́ anyía óo wuúci sókóbíki e ?
+58003016	Báányɛ́		Báányɛ́ bá ŋa bɔ́ lɔ́kɔ́máká okelú ú Bandɔ́mɛsɛ́ , bó wuúci kɛ́lákɛ́na aatɔ́ ɔnata e ? Baacɔ bekime ebé Moyís ŋa kándakána a nyɛháma nyɛ́ buɔ́lɛ́ e Esíbit .
+58003017	háányɛ́		Ná baacɔ bá háányɛ́ Bandɔ́mɛsɛ́ ŋoó lóbísíkínyí a tuɔŋɔ etíne éfendí e ? Ná baacɔ a bá ŋa bɔ́ kɛ́láka bɔɔbɛ́ , beébe bé ŋe bú weékúné i iisí cɛ ɔsɛ́bɛ́á noómi .
+58003018	báányɛ́		Ekúlú ayɛ́ Bandɔ́mɛsɛ́ ŋaá sɔ́mbɔ́tɔ́ná anyía « Bé ti ké ke bú límine ta buɔ́sɛ́ aámɛ a maabána aá haála hé ehélúme » , ná báányɛ́ ú ŋaá bá wá kɔ́ɔnaka asana eéyé e ? Yaŋɔ́ ɛsɛ ná baátɛ́ baacɔ e bé ŋe bú wuúci kɛ́lákɛ́ná aatɔ́ ɔnata e ?
+58006004	~		Bú tɛ á bá bú ɔbɛ́kɛ́láka ta buɔ́sɛ́ anyía bó koóndísíki baacɔ a bá ŋa bɔ́ bɛ́yúátáka olumitinine anyía bá háná abɔ́ bɛ́kákálákɛ́na maabɔ́ maabɛ́ , bá sɔ́mba ɔkɔlɔ́ eé meéme . Eese yɛ́ Bandɔ́mɛsɛ́ ŋá cáŋa owoofine ɛ ɛtɛ́má cɛ́ baacɔ eébé , bɔ́ ŋɔ bɔ́ŋgɔ́na bɛmbányɛ bɛ́ bɛnyɛ́ma abɛ́ Bandɔ́mɛsɛ́ ŋe yiínjíé bááyɛ́ baacɔ , bá ŋa bɔ́ lɛ́cáka tɔ́na buólí bú Efúúménénú yí Elilé .
+58007011	~		Indíné cí buólí bú beluli nyiínjie bá bɔnyɛ Léfi áŋa bikotí abɛ́ Bandɔ́mɛsɛ́ ŋe yiínjíékíne . Mbɔ́kɔ buólí bú beluli nyiínjie eébé á bá na makɛ́nda ma ɔkɛla anyía baacɔ ábɔ́ bámɔ́kɔ́na bɛtálɛ́mánánɔ́ eé buúse bɔ́ Bandɔ́mɛsɛ́ , keyé Bandɔ́mɛsɛ́ tɛ ɔ́mɔ háná táfa mululi nyiínjie mu etémbí a muáŋa háyɛ Melikisɛtɛk ; wuúci u tɛ ɔ́mɔ bá mululi nyiínjie mu bɔnyɛ Léfi háyɛ Aálɔn ŋaá bá .
+58009014	eényí		Mbá mbɔ́kɔ aáná manɔ́ŋɔ́ me bitúké eémé ŋaá bá na nyɛnamá nyɛ́ makɛ́nda eényí , manɔ́ŋɔ́ me Kilís áŋa na makɛ́nda meéŋí ɔ ɔhɔla manɔ́ŋɔ́ me bitúké . Kilís tɛ ɔ́mɔ nana , u ŋaá bɛ́sɔ́mbɛ́ná wuúci bɛ́muátá ná Bandɔ́mɛsɛ́ háyɛ abɛ́sámbá a yɛ́ á nyɛmána na makɛ́nda me Efúúménénú yí Elilé ; maayɛ́ manɔ́ŋɔ́ ŋe fúúmínyi túásɔ́ tɔcɔɔ́cɔ́ tɔ́ ɛtɛ́má , anyía tu tɛ háná kɛ́la bɛɛbɛ́ bɛ́ bɛsana e bí ŋe héléne owé , mbá tu nyemiki Bandɔ́mɛsɛ́ a wáŋa wɔɔ́sɔ .
+58010001	ananyía		Bikotí bí Moyís áŋa hú tubílícínyínyí tɔ́ taaká cɛ́ bɛsana a cɛ́ ŋa fáakɔna ; bɛ́ tɛ á bá taaká taaká cɛ́ bɛsana bɛ́muátá , ananyía beluli nyiínjie náŋa bábɔ́ hálɔ́mɔ́kɔ́nɛ́na oluli bɛbɛ́sámbá nyɛnamá nyɛ́mɔtɛ́ tuɔŋɔ tukime . Buátɛ́ bɔkɔ , bikotí eébí tɛ á bá bí ofúúmínyi baacɔ e bé ŋe bú bíkósi ná Bandɔ́mɛsɛ́ o ohónyí oócí .
+58010029a	anyána		Mbɔ́kɔ yááŋa aáná ná ɔɔcɔ awɔ́ u tɛ ŋáá látɛ́na bikotí bí Moyís , anyána yɛ́ káá bá aná ná ɔɔcɔ awɔ́ u ŋá bábɛ́na Ɔɔ́nɔ́ u Bandɔ́mɛsɛ́ e , u tɛ lɛcá háyɛ bɔkɔ manɔ́ŋɔ́ ma nyɛlata nyí bumbénú e mé ŋeé wuúci fúúmínyi , mbá u ɔɔ́mbɔ́náka tɔ́na Efúúménénú yí Elilé a yɛ́ ŋaá basɔ́ boosi e ? Nyɛnamá nyɛ́ ɔɔcɔ eényí káá lɔ́kɔ́máka muuyé muéŋí ɔ ɔhɔla bɔkɔ bukime .
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	Aátɛ́		Aátɛ́ yí etémbí ya mɛ́ŋa wu ɔ banɔ́ laána tɔ́na e ? Ekúlú tɛ á bá yɔ́ banɔ́ bíkétíkínyi asana yɛ́ Sɛ́tɛ́yɔŋ , ta yɛ́ Balak , ta yɛ́ Sámɛsɔn , te yé Seftɛ́ , ta yɛ́ Táfit , ta yɛ́ Samuɛl , ta anyía yí behémúnyi bɛsana bá Bandɔ́mɛsɛ́ .
+58012007	~		Yaátɛ́ asana , nuánɔ́ nyɛmána nú oweéhíkínyínyi muuyé muéŋí , anyía nuánɔ́ bɔ́ŋɔ injiŋé e muuyé eémú . Bandɔ́mɛsɛ́ ŋaá banɔ́ kɛla bɛsana eébí ɔ ɔ banɔ́ tóŋínyi anyía nua nɔ́ŋa bááyɛ́ baáná . Ta ɔɔ́nɔ́ ta ɔmɔtɛ́ tɛ á bá ewú síkíne ti ŋé súbe .
+58012009	~		Túá bɛ́tááka bɛsana ebí cíísú síkíne cɛ́ bɛ́muátá ŋa bɔ́ basɔ́ kɛ́laka ; bá ŋa bɔ́ bá bábɔ́ basɔ́ súbéke , tú beébe lɔ́kɔ́mákɛ́na . Híáná tuásɔ́ nyɛmána tú ɔlɔ́kɔ́mákɛ́na ciasɔ́ Síkíne cɛ Ɔmuaná ɔ ɔhɔla , mbá tu bɔ́ŋɔ olíhe .
+58012025	~		Énu bíkékényíki aná , nuti kine ɔlɔ́kɔ́ma ɔtáŋa ú Ooci awɔ́ u ŋaá táŋa . Baacɔ bá buáyá ŋe bú kínéké ɔlɔ́kɔ́mɛ́na ɔɔcɔ awɔ́ u ŋaá bá weé beébe hulikinyi bɛsana bɛ́ Bandɔ́mɛsɛ́ aáhá ɔ ɔmɛsɛ́ ; aáná bá ŋa bɔ́ lɔ́kɔ́máka muuyé . Híáná túásɔ́ nyɛmána tú ɔlɔ́kɔ́mákɛ́na Ooci ewú u ŋeé húle ɔ Ɔmuaná . Mbɔ́kɔ tu ŋe sú kíne o wuúci lɔ́kɔ́mɛ́na , tu ká sɔ́ lɔ́kɔ́máka muuyé muéŋí ɔ ɔhɔla .
+58013006	~		Yaátɛ́ asana túásɔ́ nyɛmána tú ɔbámɔ́kɔ́na na mɔŋɔlɛ́ , tu laakɛna baacɔ anyía : « Otéŋí a Waáŋá áŋa Mu-mɛ-ɔ́ɔ́lɔ ; i ti ké mí líkíme ta bɔkɔ . Ta ɔɔcɔ tɛ á bá wu ɔ mɛ kɛla bɔkɔ a bɔɔbɛ́ . »
+59002006	~		Mbá ta híáná banɔ́ , nu ŋa nɔ́ bábɛ́na basɔ́kásɔ́ka . Yaŋɔ́ ɛsɛ ɛnɔ́mɛ cɛ́ baacɔ náŋa cɛ́ á banɔ́ tékeseke , cɛ́ banɔ́ télímíkínyi a akála bɛsana e ?
+59002014	aátɛ́		Baláamɛ , mbɔ́kɔ ɔɔcɔ ɔmɔtɛ́ ŋá kɔ́ɔ́na bɔ kɔɔna ne nyuúté anyía wáŋa mulumitinine Bandɔ́mɛsɛ́ , wuúci tɛ́ka ne mekilíkínyí , bú ŋɔ yɔ́ɔlɔ aátɛ́ e ? Anyána nyɛnamá nyí olumitinine eényí áŋa nyí o wuúci ɔɔ́lɛ́ta e ?
+59002016a	~		mbɔ́kɔ ɔɔcɔ ɔmɔtɛ́ aá banɔ́ é muúmu laána anyía : « Oóʼo , a cɔba bɔmbányɛ ; bɛ́kɛ́ndɛ́na ɔbɔ́ŋɔ na bɛlaŋa na bɛnyɛ́ma bɛ́ ɔnyíá » , 
+59002016b	aátɛ́		mbá u ti muúmu iínjíé bɛnyɛ́ma e bí ŋe muúmu bɛ́ámbɛ́na , bú ŋɔ yɔɔ́lɔ aátɛ́ e ?
+59002018	~		Asana ɔmɔtɛ́ , ɔɔcɔ a wɔmɔtɛ́ áŋa wu ɔlaana sɔ́ɔ́kɔ́ anyía « O ŋoó lumitinine , mbá yaŋɔ́ ya mɛ́ŋa ne mekilíkínyí » . I ké mi wuúci bɛ́káma ɛsɛ́ : « Mi tóŋínyi uuwe olumitinine awɔ́ ú tɛ á bá ne mekilíkínyí , mbá yémi o tóŋínyi maamɛ mekilíkínyí e mé ŋe húle e uumi olumitinine » .
+59002021	anyána		Bɛ́táá asana yɛ́ Abɛ́laham cíásɔ́ sɔ́kɔ́nɔ́ , anyána Bandɔ́mɛsɛ́ ŋaa kɛ́la anyía wá bá atálɛ́mánánɔ́ yɛ́ ɔɔcɔ eeyé eé buúse anyía u ŋa sɛ́ wé wuúci bɛ́sámbɛ́na uuyé ɔɔ́nɔ́ Isak .
+59003013	~		Mbɔ́kɔ ɔɔcɔ a wɔmɔtɛ́ aanɔ́ ɛ ɛkatɛ́katɛ́ áŋa ne injiŋé ne omenyi , wé tóŋínyi baacɔ aná na ciayɛ́ injiŋé a yááyɛ́ ambányɛ yɛ́ nyɛbɛ́kɛ́lɛ́na , ne úúyé obílóosi ɔ ɔmɛsɛ́ tɔ́na .
+59003017	~		Mbá ɔɔcɔ a wáŋa ne injiŋé e cí ŋe húle ɔ Ɔmuaná tɛ á bá aáná ; wáŋa ofúúménénú , na ɔtɛ́má mbuumu ; wáŋa ehúúménénú yɛ́ ɔɔcɔ , u fanakɛna bɛsana , u bɛ́cámáka bɔsɔ́ɔ́kɔ́ mahana , u naŋa wáá kɛ́laka bɛsana a bɛmbányɛ ; wuúci tɛ́ka te ne mebeé ta na tɔbɛ́mbɛ túfendí .
+59004001a	Aátɛ́		Aátɛ́ yí ŋe héléne na 
+59004001b	~		ɛcálɛ na ɛsáká aanɔ́ ɛ ɛkatɛ́katɛ́ e ? Ɔ́kɔ , tɛ́ka ɛbɛ́táá a cɛɛbɛ́ a cɛ́ ŋá nua ciíci ne ciíci aanɔ́ ɛ ɛtɛ́má e ?
+59004012	aányɛ́		Hú Bandɔ́mɛsɛ́ bímuócí u ŋe télímínyi bikotí , wuúci bímuócí tɔ́na wáŋa wu okélísíki baacɔ , wuúci bímuócí wáŋa na makɛ́nda me o beébe nohiki , te me o beébe ɔ́ɔ́nɔ́kɔ . Mbá kuɔŋɔ́ anáʼo , ɔ ŋɔɔ́ bɛ́táá anyía ɔ ɔ́ŋa aányɛ́ awɔ́ ɔ ŋɔɔ́ bábɛ́na sɔ́ɔ́kɔ́ e ?
+59004014	aátɛ́		mbá aá banɔ́ , aányɛ́ u ŋe ményi nɔɔyá e ? Uúnú olíhe áŋa aátɛ́ e ? Uúnú olíhe áŋa háyɛ olúkúlúku a wáŋa wáá hámɔ́kɔ́na hikúlúkúlú , yɔ́ mána .
+60002020	~		Nuúmi a númɔtɛ́ tɛ á bá ná ɔɔcɔ awɔ́ u ŋaá lɔ́kɔ́ma muuyé a bɔɔbɛ́ abɔ́ wáŋa ɔkɛlákánɔ́ . Mbá mbɔ́kɔ ɔɔcɔ ŋe yeéhínyínyi ɔlɔ́kɔ́ma muuyé anyía u ŋa kɛla bɔmbányɛ , búáŋa ambányɛ yɛ́ asana eé buúse bɔ́ Bandɔ́mɛsɛ́ .
+60003013	Aányɛ́		Aányɛ́ wáŋa na makɛ́nda ma ɔ banɔ́ tékeseke mbɔ́kɔ nua núáŋa bebíínjíénú ɔ ɔkɛla bɛmbányɛ bɛ́ bɛsana e ?
+60004017	anyána		Yááŋa anyía ekúlú má kaá háma ayɛ́ Bandɔ́mɛsɛ́ yɔ́ cɔba o okélísíki baacɔ , mbá yɔ́ cɔ́ba o otúme a makɔlɔ́kɔ́lɔ́ baacɔ bá ciayɛ́ ciíbe . Kokóokó ! Mbɔ́kɔ náásɔ́ , bááyɛ́ baacɔ , nyɛkála á nyɛmána nyí otúmíne , anyána yɛ́ káá bá aná na bɔsɔ́ɔ́kɔ́ a bá tɛ ŋá bɔ́ lɔ́kɔ́mɛ́na Ambányɛ yɛ́ Ɛsɔ́ma yɛ́ Bandɔ́mɛsɛ́ e ?
+60004018	anyána		Yááŋa yɔɔ́ŋɔ́kɔ́nɔ́ a Ciɔɔ́ŋɛ́ cɛ́ Bandɔ́mɛsɛ́ anyía : « Mbɔ́kɔ bú ŋaa náta buéŋí anyía Bandɔ́mɛsɛ́ é nohíki bɛtálɛ́mánánɔ́ bɛ́ baacɔ , mbá anyána aná na baŋána na bakɛla maabɛ́ e ? »
+61003004	ciényí		bá kɔ́ɔnaka báyɛ : « Mbá ɛndána acɛ́ u ŋaá táná anyía u ká ka hálɔ́mɔ́na ciíci ciényí aná e ? Yááŋa anyía ɔ ɔtɔkɔ otúme eyí cíísú síkíne ŋe bú líheke , bíó wéékúne , ta bɔkɔ tɛ ŋaá hɛ́ŋɛ́na e nyilimíné . Bɛsana bikime a yánáŋa bɔkɔ búmɔtɛ́ o otúme ayɛ́ ɔhuálɔ́ ŋaá bɛ́bɔ́ta . »
+61003011	~		A asana na nyɛnamá anyɛ́ bɛnyɛ́ma bikime eébí á nyɛ́mana bí oséŋúlúeke aáná , nu ŋá nɔ́ nyɛmána nú ɔbámɔ́kɔ́na baacɔ abá na yáánɔ́ ambányɛ yɛ́ nyɛbɛ́kɛ́lɛ́na na nyíánɔ́ nyibíínjie o olumitinine áŋa bifúúménénú .
+62002022	aányɛ́		Ɛ́ɛ , aányɛ́ wáŋa ɔfalafala aná e ? Ɔfalafala áŋa ɔɔcɔ okime awɔ́ u ŋa kɔɔna anyía Yésus tɛ a bá Kilís . Wuúci wáŋa ɔfalafala , wuúci munuusi Kilís , u bínéŋítíkínyi ekúlú ɔ́mɔtɛ́ na ciasɔ́ Síkíne Bandɔ́mɛsɛ́ ne uuyé Ɔɔ́nɔ́ áyá .
+62003012	aátɛ́		Tu tɛ ɔ́mɔ sɔ́ nyɛmána tú ɔhɔ́áka Káyɛn ; wuúci u ŋaá bá ɔlɔŋɔ na Sátan , ɔɔcɔ u menjiŋé , yɔ́ wɔ́ɔ́nɔ onyíinyí . Mbá nu ŋe nú menyi a asana ayɛ́ aátɛ́ u ŋeé wuúci ɔ́ɔ́nɔ e ? U ŋeé wuúci ɔ́ɔ́nɔ anyía u ŋaá bá waá kɛlaka bɛɛbɛ́ bɛ́ bɛsana , onyíinyí áa kɛlaka a bɛtálɛ́mánánɔ́ .
+62003017	anyána		Mbɔ́kɔ ɛnɔ́mɛ cɛ ɔɔcɔ a cɛ́mɔtɛ́ ŋa lɛ́ca uuyé onyíinyí áa yábáka bɔkɔ a bɔ́mɔtɛ́ mbá u ti wuúci bɛ́cáma mahana , anyána wáŋa wu ɔkɔɔna anyía u ŋeé léne Bandɔ́mɛsɛ́ e uúye ɔtɛ́má noómi e ?
+62004020	~		Mbɔ́kɔ ɔɔcɔ ŋa kɔ́ɔna anyía : « I ŋeé mi léne Bandɔ́mɛsɛ́ » , mbá u líŋékíne bɔsɔ́ɔ́kɔ́ , wáŋa na afala . Yááŋa anyía , ɔɔcɔ ewú u ti ŋé léne baacɔ abá u ŋa lɛca ne eése , ɔɔcɔ oócí tɛ á bá wu olénéke Bandɔ́mɛsɛ́ awɔ́ u tɛ ŋá lɛca .
+62005005	Aányɛ́		Aányɛ́ wáŋa wu ɔyáka bɛsana bɛ́ ɔmɛsɛ́ , ɛ tɛ ŋáa bá hú ooci ewú u ŋe lumitinine anyía Yésus áŋa Ɔɔ́nɔ́ u Bandɔ́mɛsɛ́ e ?
+66005002	Aányɛ́		Ɛ ŋá lɛcá akɛndákɛ́nda yí elilé yɛ́ bɔsɔ́ma yɛ́ Bandɔ́mɛsɛ́ ; yí sóbíki okelú ɔ ɔmuaná yɛ́sɛ : « Aányɛ́ wáŋa na makɛ́nda ma ɔbácáka bibílícínyínyí eébí na makɛ́nda ma ɔbɔŋɔnaka nufule e ? »
+66006010a	nyíényí		Bé ŋe bú bókíté okelú ɔ ɔmuaná , báyɛ : « Kuɔŋɔ́ , Otéŋí a Waáŋá , ɔ ɔ́ŋa ofúúménénú , kuɔŋɔ́ ɔtálɛ́mánánɔ́ ! Ɔ ɔkɔɔ́háma nyíényí ɔ kɔ́ tátáka nyɛkála anyía óo bífúnéke baacɔ bá ɔmɛsɛ́ a bá ŋa bɔ́ cáŋgɛ́na cíísú ilíhe e ? »
+66006010b	~		
+66006017	~		Yááŋa anyía , aabɛ́ yɛ́ buɔ́sɛ́ yí hííbú hilóbi ma nyɛmana ; ta ɔɔcɔ ti kéé yiíyi céényi . »
+66007013a	Báányɛ́		Ɔmɔtɛ́ u baáŋá ŋaá mɛ batá ɔsɛ : « Báányɛ́ eebe a bá ma bɔ́ láŋábaka kaba e cifúlúndúndúé e ? 
+66007013b	Háányɛ́		Háányɛ́ bé ŋe bú húle e ? »
+66013004a	Aányɛ́		Baacɔ bekime nyitúme onyemi ɛŋgandɔ́ eényí , ananyía cí ŋeé cúméke mááyɛ́ makɛ́nda ná múálá eémú ; bé nyémiki tɔ́na múálá , bá kɔɔnaka báyɛ : « Aányɛ́ wáŋa háyɛ kuɔŋɔ́ e ? 
+66013004b	Aányɛ́		Aányɛ́ wáŋa wu ɔ kuɔŋɔ́ núúsiki e ? »
+66015004a	aányɛ́		Otéŋí a Waáŋá , aányɛ́ wáŋa wu ɔlɔbɔ , 
+66015004b	~		u ti kéké nyíɔ́wɔ nyiínyi e ? Yɔ́ lɔ́bɔ u ti nyiínyi iínjie nuúmi e ? Yááŋa anyía hú kuɔŋɔ́ bímuócí ɔ ɔ́ŋa ofúúménénú . Aáná mɔnɔŋɔ mekime ká ka fáakɔna oówo eé buúse mɔ kuɔŋɔ́ tumekine eŋéndu , mɔ kuɔŋɔ́ nyemiki . Yááŋa anyía ɔ́ mɔɔ́ nambɔnɛna baacɔ mɔ́ɔ́wɔ monyiókínyí ; maáŋa matalɛ́mánánɔ́ . »
+66017007	Anyíatɛ́		Aáná elilé yɛ́ bɔsɔ́ma eéyé ŋaá mɛ batá yɛ́sɛ : « Anyíatɛ́ o ŋoó kéke e ? Míɔ cɔba ɔ ɔ kuɔŋɔ́ hémbulekine injibí cɛ asana ne yí oónjú oócí , na yɛ́ múálá a muáŋa mu wuúci bɛ́túáhɛ́nánɔ́ ; muúmu muáŋa na bɛɛtɔ́ bítíndétú nɔ́mɔ na ɛndɔ́ŋɔ cíɔ́hátá .
+66018018	~		Ekúlú ayɛ́ bá ŋa bɔ́ lɛ́cáka cióyo ci oocó cɛ bálɛ́ka a cɛ́ ŋa lɔ́la , bé ŋe túme ɔkɔɔna okelú ɔ ɔmuaná báyɛ : « Bálɛ́ka a cɛ́mɔtɛ́ tɛ ŋáá bá ciáŋá ɔ ɔmɛsɛ́ ooci háyɛ eeci ta buɔ́sɛ́ . »

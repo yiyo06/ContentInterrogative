@@ -1,0 +1,743 @@
+40002002	Pơpă		“ Pơpă anih arăng phrâo tơkeng pơtao Yuđa ? Yua kơ gơmơi ƀuh laih pơtŭ Ñu pơ gah ngŏ hlak tơbiă đĭ , laih anŭn gơmơi rai kiăng kơkuh pơpŭ kơ Ñu . ”
+40002004	Pơpă		Ñu iâu pơƀŭt abih bang ƀing khua ngă yang prŏng hăng ƀing nai pơtô tơlơi juăt laih anŭn tơña kơ gơñu : “ Pơpă anih arăng tơkeng kơ Krist ? ”
+40003007	hlơi		Samơ̆ tơ ñu ƀuh lu ƀing Pharisi laih anŭn ƀing Sadusi rai tŭ ƀatem , ñu laĭ kơ gơñu , “ Ơ ƀing djuai ala tơpơ̆ng , hlơi pơthâo brơi kơ ƀing gih dưi đuaĭ kơdơ̆p mơ̆ng tơlơi Ơi Adai hil či truh ?
+40005013	hyư̆m		“ Ƀing gih jing hra kơ lŏn tơnah ; samơ̆ tơdah hra rơngiă hĭ mơnâo mơsĭn ñu , hyư̆m dưi ngă brơi ñu mơsĭn glaĭ dơ̆ng lĕ ? Hra anŭn ƀu thâo yua dơ̆ng tah , kơnơ̆ng tuh glŏm lui pơ rơngiao laih anŭn arăng juă hĭ gah yŭ tơkai .
+40005046	hơgĕt		Yua kơ tơdah ƀing gih kơnơ̆ng khăp kơ ƀing khăp kơ ƀing gih đôč , hơgĕt tơlơi bơni ƀing gih či hmâo lĕ ? Ƀu djơ̆ ôh hă ƀing ring jia ăt ngă tui anŭn ?
+40005047	hơgĕt		Laih anŭn tơdah ƀing gih kơnơ̆ng kơkuh tơña adơi ayŏng ƀing gih đôč , hơgĕt tơlơi ƀing gih ngă hloh kơ pô pơkŏn ? Ƀu djơ̆ ôh hă ƀing djuai tuai ăt ngă tui anŭn ?
+40006027	hlơi		Laih anŭn hlơi amăng ƀing gih yua mơ̆ng tơlơi ñu ƀlơ̆ng bơngơ̆t ñu dưi thim đĭ tơlơi hơdip ñu sui ƀiă dơ̆ng ?
+40006028	hyư̆m		Laih anŭn hyư̆m ƀing gih ƀlơ̆ng bơngơ̆t đơi kơ sum ao ? Lăng bĕ bơnga pông yang amăng glai , hyư̆m gơñu rai kơ prŏng ; gơñu ƀu mă bruă , kŏn mơñam lơi ;
+40006031a	Hơgĕt		Tui anŭn anăm ƀing gih ƀlơ̆ng bơngơ̆t đơi ôh laih anŭn laĭ , ‘ Hơgĕt ƀing ta či ƀŏng huă ? ’ 
+40006031b	Hơgĕt		ƀôdah ‘ Hơgĕt ƀing ta či mơñum ? ’ 
+40006031c	Hơgĕt		ƀôdah ‘ Hơgĕt ƀing ta či buh ? ’
+40007003	Hyư̆m		Hyư̆m ih dưi ƀuh ƀruih amăng mơta adơi ayŏng ih , samơ̆ ih ƀu ƀuh ôh sa ƀĕ tơda amăng mơta ih pô ?
+40007004	hyư̆m		Ƀôdah hyư̆m ih dưi laĭ kơ adơi ayŏng ih , ‘ Brơi kâo mă hĭ ƀruih mơ̆ng mơta ih , ’ tơdang anŭn amăng mơta ih pô hmâo sa ƀĕ tơda ?
+40007009	hlơi		Ƀôdah hlơi amăng ƀing gih , tơdah ană đah rơkơi ñu rơkâo ƀañ tơpŭng , či brơi boh pơtâo kơ gơ̆ mơ̆ ?
+40007016a	~		Ƀing gih či thâo krăn gơñu tui hăng boh gơñu . Arăng pĕ mơ̆ boh kơƀâo mơ̆ng phŭn drơi , 
+40007016b	~		ƀôdah boh hra mơ̆ng hrĕ drơi ?
+40008026	yua hơgĕt		Yêsu laĭ kơ gơñu , “ Ơ ƀing mơnuih tơlơi đaŏ anĕt , yua hơgĕt ƀing gih hwĭ ? ” Ñu tơgŭ mơtam , khă rơbŭ hăng ia rơsĭ , laih anŭn dŏ rơiăt lơleh mơtam .
+40008027	Hlơi		Ƀing anŭn hling hlang biă mă , laĭ , “ Hlơi mơnuih anai jing tơl angĭn hăng ia rơsĭ ăt gưt kơ Ñu mơ̆n ? ”
+40008029	Hơgĕt		Gơñu ur kraih , “ Hơgĕt tơlơi Ih hmâo hăng gơmơi , Ơ Ană Ơi Adai ? Djơ̆ mơ̆ Ih rai pơ anai kiăng pơtơnap ƀing gơmơi hlâo kơ hrơi hmâo pơkă laih ? ”
+40009004	yua hơgĕt		Samơ̆ Yêsu thâo laih tơlơi pơmĭn gơñu laih anŭn laĭ , “ Yua hơgĕt amăng pran jua ƀing gih hmâo pơmĭn sat kar hăng anŭn ?
+40009005	Hơgĕt		Hơgĕt tơlơi laĭ amuñ hloh , ‘ Tơlơi soh ih pap brơi laih , ’ ƀôdah laĭ , ‘ Tơgŭ bĕ laih anŭn rơbat ? ’
+40009011	Hyư̆m		Tơ ƀing Pharisi ƀuh tơlơi anŭn , gơñu laĭ kơ ƀing ding kơna Yêsu , “ Hyư̆m Khua ƀing gih ƀŏng huă hrŏm hơbĭt hăng ƀing ring jia laih anŭn hăng ƀing mơnuih soh lĕ ? ”
+40009014	Yua hơgĕt		Hlak anŭn ƀing ding kơna Yôhan nao pơ Yêsu laih anŭn laĭ , “ Yua hơgĕt gơmơi hăng ƀing Pharisi ư̆ ƀŏng huă , samơ̆ ƀing ding kơna Ih ƀu ư̆ ƀŏng huă ôh ? ”
+40009015	~		Yêsu laĭ kơ gơñu , “ Dưi mơ̆ ƀing arăng jak kơ tơlơi ƀŏng huă dŏ rơkơi bơnai ŭ uăn tơdang pô han tao ăt dŏ hrŏm hơbĭt hăng gơñu ? Hrơi či truh tơ arăng ba pơđuaĭ hĭ han tao mơ̆ng ƀing gơñu , hlak anŭn yơh gơñu či ư̆ ƀŏng huă .
+40010025	~		Ding kơna jing kar hăng nai pơtô ñu , laih anŭn hlŭn jing kar hăng khua ñu , tui anŭn djŏp yơh . Tơdah arăng iâu Bêlsebul kơ khua sang , hloh kơ anŭn gơñu či iâu kơ ƀing mơnuih amăng sang anŭn hăng anăn sat hloh dơ̆ng . ”
+40011007	Hơgĕt		Tơdang ƀing anŭn glaĭ , Yêsu čơdơ̆ng pơhiăp kơ ƀing mơnuih lu tơlơi djơ̆ kơ Yôhan : “ Hơgĕt tơlơi ƀing gih hmâo nao lăng laih amăng tơdrŏn har ? Djơ̆ mơ̆ sa ƀĕ trang bô angĭn thut rơyuh ?
+40011008	hơgĕt		Tui anŭn hơgĕt tơlơi ƀing gih kiăng nao lăng lĕ ? Djơ̆ mơ̆ kiăng lăng sa čô mơnuih buh ao hiam rŏ ? Anai nê , ƀing buh ao hiam rŏ dŏ amăng sang pơtao .
+40011009	hơgĕt		Tui anŭn hơgĕt tơlơi ƀing gih kiăng nao lăng dơ̆ng lĕ ? Djơ̆ mơ̆ kiăng nao lăng sa čô pô laĭ lui hlâo ? Djơ̆ yơh , Kâo laĭ kơ ƀing gih , hmâo pô yom hloh kơ sa čô pô laĭ lui hlâo dơ̆ng .
+40011016	hơgĕt		Samơ̆ hăng hơgĕt Kâo či bơhơmu ƀing mơnuih rơnŭk anai ? Gơñu jing kar hăng ƀing čơđai dŏ ber amăng anih sang sĭ mơdrô iâu ƀing tơdruă gơñu ,
+40012011	Hlơi		Yêsu laĭ kơ gơñu , “ Hlơi pô amăng ƀing gih hmâo sa drơi triu laih anŭn triu anŭn lĕ amăng luh dlam amăng hrơi saƀat , ñu ƀu či mă dui đĭ pơ gah rơngiao ôh hă ?
+40012026	hyư̆m		Tui anŭn tơdah Satan pơpuh pơđuaĭ hĭ Satan , ñu pơkah pơpha hĭ ñu pô yơh ; hyư̆m dêh čar pơtao ñu dưi dŏ lĕ ?
+40012027	hlơi		Tơdah Kâo pơpuh pơđuaĭ yang sat hăng anăn Bêlsebul , bơ ƀing ană ƀing gih , hăng anăn hlơi gơñu pơpuh pơđuaĭ yang sat ? Yua kơ anŭn yơh ƀing gơñu či phat kơđi ƀing gih .
+40012029	hyư̆m		Ƀôdah hyư̆m arăng dưi mŭt amăng sang sa čô mơnuih kơtang laih anŭn sua mă hĭ dram gơnam ñu , tơdah blung hlâo ñu ƀu čaŏ hĭ ôh mơnuih kơtang anŭn ? Laih čaŏ hĭ kah , ñu dưi sua mă dram gơnam amăng sang ñu .
+40012034	Hyư̆m		Ơ djuai ala tơpơ̆ng ! Hyư̆m ƀing gih dưi pơhiăp tơlơi hiam tơdang ƀing gih jing sat ? Yua kơ mơ̆ng tơlơi rơbeh blai amăng pran jua yơh amăng bah tơbiă pơhiăp .
+40012048a	hlơi		Samơ̆ Yêsu laĭ glaĭ kơ pô laĭ hăng Ñu , “ Hlơi jing amĭ Kâo ? 
+40012048b	hlơi		Laih anŭn hlơi jing ƀing adơi ayŏng Kâo ? ”
+40013010	Hyư̆m		Giơ̆ng anŭn ƀing ding kơna nao tơña kơ Yêsu , “ Hyư̆m Ih pơhiăp hăng ƀing gơñu hăng tơlơi bơhmutu ? ”
+40013027	Hyư̆m		Ƀing ding kơna pô hmua anŭn rai laĭ kơ ñu , ‘ Ơ Khua , ƀu djơ̆ ôh hă ih sai pơjeh hiam amăng hmua ih ? Hyư̆m hmâo hĭ rơ̆k sat lĕ ? ’
+40013054a	Mơ̆ng pă		Ñu glaĭ pơ plei Ñu pô laih anŭn pơtô amăng sang bơjơnum . Ƀing hơmư̆ Ñu hling hlang laih anŭn laĭ , “ Mơ̆ng pă pô anai hmâo tơlơi kơhnâo 
+40013054b	~		laih anŭn dưi ngă bruă mơyang anai ?
+40013056	mơ̆ng pă		Laih anŭn ƀu djơ̆ ôh hă abih bang ƀing adơi đah kơmơi Ñu dŏ hrŏm hơbĭt hăng ƀing ta ? Tui anŭn mơ̆ng pă pô anai hmâo abih tơlơi anai ? ”
+40014031	yua hơgĕt		Tañ mơtam Yêsu yơr tơngan mă ñu , laih anŭn laĭ kơ ñu , “ Ơ mơnuih hmâo tơlơi đaŏ anĕt , yua hơgĕt ih đing ? ”
+40015002	yua hơgĕt		“ Yua hơgĕt ƀing ding kơna Ih gao tơlơi phiăn ơi adon đưm ? Ƀing gơñu ƀu rao ôh tơngan gơñu hlâo kơ gơñu ƀŏng huă ! ”
+40015003	yua hơgĕt		Yêsu laĭ glaĭ , “ Bơ ƀing gih , yua hơgĕt ƀing gih ngă gao tơlơi Ơi Adai pơtă laih anŭn ngă tui tơlơi phiăn ƀing gih pô lĕ ?
+40015033	Pơpă		Ƀing ding kơna laĭ hăng Ñu , “ Pơpă ƀing ta dưi hmâo djŏp ƀañ tơpŭng amăng tơdrŏn tač anai , kiăng kơ dưi čem ƀing mơnuih lu kar hăng anai lĕ ? ”
+40015034	Hơdôm		Yêsu laĭ kơ ƀing gơñu , “ Hơdôm klŏ ƀañ tơpŭng ƀing gih hmâo ? ” Gơñu laĭ , “ Tơjuh klŏ hăng ƀiă drơi akan anĕt đôč . ”
+40016008	yua hơgĕt		Yêsu thâo tơlơi anŭn hăng laĭ , “ Ơ ƀing mơnuih hmâo tơlơi đaŏ anĕt , yua hơgĕt ƀing gih črŏng sai yua kơ tơlơi ƀing gih ƀu djă ba ƀañ tơpŭng ?
+40016009	hơdôm		Ƀing gih aka thâo hluh ôh hă ? Ƀing gih ƀu hơdơr ôh hă kơ rơma klŏ ƀañ tơpŭng čem laih rơma rơbâo čô mơnuih , laih anŭn hơdôm bai ƀañ rơbeh ƀing gih hmâo pơƀŭt glaĭ ?
+40016010a	~		Kŏn hơdơr lơi kơ tơjuh klŏ ƀañ tơpŭng čem laih pă rơbâo čô , 
+40016010b	hơdôm		laih anŭn hơdôm bai ƀing gih pơƀŭt laih čơđeh meh ñu ?
+40016011	yua hơgĕt		Yua hơgĕt ƀing gih ƀu thâo hluh , Kâo ƀu laĭ kơ ƀañ tơpŭng ôh ? Răng bĕ kơ tơpơi ƀing Pharisi laih anŭn ƀing Sadusi . ”
+40016013	Hlơi		Tơ Yêsu truh pơ tring Sêsarê Philip , Ñu tơña kơ ding kơna Ñu , “ Hlơi Ană Mơnuih jing tui hăng arăng laĭ ? ”
+40016015a	~		Yêsu laĭ kơ gơñu , “ Bơ ƀing gih , 
+40016015b	hlơi		hlơi ƀing gih laĭ Kâo jing ? ”
+40016026a	hơgĕt		Yua kơ , hơgĕt tơlơi tŭ yua kơ sa čô mơnuih tơdah ñu hmâo abih lŏn tơnah , samơ̆ rơngiă hĭ tơlơi hơdip ñu ? 
+40016026b	hơgĕt		Ƀôdah hơgĕt mơnơ̆ng ñu či brơi kiăng song mă tơlơi hơdip ñu ?
+40017010	yua hơgĕt		Ƀing ding kơna tơña kơ Ñu , “ Tui anŭn , yua hơgĕt ƀing nai pơtô tơlơi juăt laĭ Êli khŏm rai hlâo ? ”
+40017017a	Hơdôm sui		Yêsu laĭ glaĭ , “ Ơ rơnŭk djuai mơnuih ƀu hmâo tơlơi đaŏ laih anŭn kơpĭl , hơdôm sui Kâo či dŏ hrŏm hơbĭt hăng ƀing gih ? 
+40017017b	Hơdôm sui		Hơdôm sui Kâo či gir hăng ƀing gih ? Ba rai bĕ gơ̆ pơ Kâo . ”
+40017019	Yua hơgĕt		Tơdơi kơ anŭn ƀing ding kơna nao tơña hơjăn hăng Yêsu laih anŭn laĭ , “ Yua hơgĕt ƀing gơmơi ƀu dưi pơpuh pơđuaĭ ôh yang sat anŭn ? ”
+40017025a	hyư̆m		Pêtrôs laĭ , “ Ơ , Ñu blơi mơ̆n . ” Tơ Pêtrôs glaĭ pơ sang laih , Yêsu pơhiăp hăng ñu hlâo , tơña , “ Ơ Simôn , hyư̆m ih pơmĭn ? 
+40017025b	hlơi		Mơ̆ng hlơi ƀing pơtao lŏn tơnah anai ring jia ? Mơ̆ng ƀing ană gơñu pô ƀôdah mơ̆ng pô pơkŏn ? ”
+40018001	Hlơi		Ƀơi mông anŭn ƀing ding kơna nao pơ Yêsu laih anŭn tơña , “ Hlơi pô jing prŏng hloh amăng dêh čar pơtao plei hiam ? ”
+40018012	Hyư̆m		Hyư̆m ƀing gih pơmĭn ? Tơdah sa čô hmâo sa rơtuh drơi triu , samơ̆ sa drơi amăng ƀing gơñu čơlah hĭ , ƀu djơ̆ hă ñu lui ƀing dua rơpăn pluh dua rơpăn drơi ƀơi ngŏ čư̆ laih anŭn nao sem sa drơi čơlah laih ?
+40018021	hơdôm		Hlak anŭn Pêtrôs nao pơ Ñu hăng tơña , “ Ơ Khua Yang , hơdôm wơ̆t kâo či pap brơi kơ adơi ayŏng kâo tơdah ñu ngă soh hăng kâo ? Djơ̆ mơ̆ tơl tơjuh wơ̆t ? ”
+40019007	yua hơgĕt		Ƀing Pharisi tơña kơ Ñu , “ Tui anŭn yua hơgĕt Môis pơtă brơi ngă hră klaih bơnai , laih anŭn lui hĭ gơ̆ ? ”
+40019016	hơgĕt		Hlak anŭn , hmâo sa čô mơnuih nao pơ Ñu , hăng tơña , “ Ơ Nai , hơgĕt tơlơi hiam kâo khŏm ngă kiăng kơ dưi hmâo tơlơi hơdip hlŏng lar ? ”
+40019017	yua hơgĕt		Yêsu laĭ kơ gơ̆ , “ Yua hơgĕt ih tơña kơ Kâo hơgĕt jing hiam ? Kơnơ̆ng hmâo Sa čô đôč jing hiam . Tơdah ih kiăng mŭt amăng tơlơi hơdip , brơi ih gưt tui tơlơi juăt . ”
+40019018	Hơgĕt		Gơ̆ tơña kơ Yêsu , “ Hơgĕt tơlơi juăt anŭn ? ” Yêsu laĭ , “ Anăm pơdjai mơnuih ôh ; anăm klĕ pyu ôh ; anăm klĕ dram gơnam arăng ôh ; anăm pơčeh ƀlor ôh .
+40019020	hơgĕt		Pô tơdăm anŭn laĭ glaĭ , “ Kâo tui gưt laih abih bang tơlơi juăt anŭn ; hơgĕt tơlơi kâo dŏ kơƀah ? ”
+40019025	hlơi		Tơ ƀing ding kơna hơmư̆ tơlơi anŭn , gơñu hling hlang biă mă hăng laĭ , “ Tui anŭn hlơi dưi klaih lĕ ? ”
+40019027	hơgĕt		Pêtrôs laĭ glaĭ kơ Ñu dơ̆ng , “ Anai nê , gơmơi lui hĭ laih abih bang mơnơ̆ng hăng đuaĭ tui Ih . Tui anŭn hơgĕt gơmơi či hmâo lĕ ? ”
+40020006	yua hơgĕt		Ƀơi rơma mông klam ñu tơbiă nao dơ̆ng ƀuh ƀing pơkŏn dŏ đôč đač , laih anŭn ñu laĭ kơ ƀing gơ̆ , ‘ Yua hơgĕt ƀing gih dŏ pơ anai đôč đač abih sa hrơi ? ’
+40020012	~		hăng laĭ , ‘ Ƀing rai tơdơi mă bruă kơnơ̆ng sa mông đôč , laih anŭn ih yap gơñu mơdơ̆ hăng gơmơi jing ƀing mă bruă gleh kơtraŏ hăng dang gah yŭ pơiă kơtang abih sa hrơi . ’
+40020021	Hơgĕt		Yêsu tơña kơ ñu , “ Hơgĕt ih kiăng ? ” Đah kơmơi laĭ hăng Ñu , “ Brơi dua čô ană đah rơkơi kâo dưi dŏ ber sa čô gah hơnuă , sa čô gah ieo Ih amăng dêh čar pơtao Ih . ”
+40020032	Hơgĕt		Yêsu dŏ hĭ , iâu gơñu laih anŭn laĭ , “ Hơgĕt tơlơi ƀing gih kiăng Kâo ngă brơi kơ ƀing gih ? ”
+40021010	Hlơi		Tơ Yêsu mŭt amăng plei Yêrusalem , abih bang mơnuih amăng plei rŭng răng laih anŭn tơña , “ Hlơi pô anai ? ”
+40021016	~		Gơñu laĭ hăng Yêsu , “ Ih hơmư̆ mơ̆ tơlơi ƀing čơđai anai laĭ ? ” Yêsu laĭ glaĭ , “ Ơ , ƀing gih aka lăng ôh hă hră Ơi Adai pơhiăp hmâo čih laih tui anai : ‘ Ih hmâo tơlơi bơni hơơč mơ̆ng amăng bah ƀing đai muai laih anŭn ƀing čơđai dŏ mĕm ? ’ ”
+40021020	Hyư̆m		Tơ ƀing ding kơna ƀuh tơlơi anŭn gơñu hling hlang biă mă hăng laĭ , “ Hyư̆m ngă phŭn hra anai tŏ tơnŏ kro mơtam ? ”
+40021023a	pă		Yêsu mŭt amăng sang kơkuh pơpŭ , ƀing khua ngă yang prŏng laih anŭn ƀing kŏng tha ană plei pla rai laĭ kơ Ñu tơdang Ñu dŏ pơtô , “ Mơ̆ng tơlơi dưi pă Ih ngă tơlơi anai ? 
+40021023b	hlơi		Laih anŭn hlơi pô brơi kơ Ih tơlơi dưi anŭn ? ”
+40021025a	mơ̆ng pă		Tơlơi ƀatem Yôhan tơbiă rai mơ̆ng pă , mơ̆ng adai ƀôdah mơ̆ng mơnuih ? ” Gơñu pơ črŏng sai tơdruă gơñu , 
+40021025b	~		“ Tơdah ƀing ta laĭ , ‘ Mơ̆ng adai , ’ 
+40021025c	Yua hơgĕt		Ñu či laĭ kơ ƀing ta , tui anŭn yua hơgĕt ƀing gih ƀu đaŏ ôh kơ Yôhan lĕ ?
+40021028	Hơgĕt		“ Hơgĕt ƀing gih pơmĭn lĕ ? Sa čô mơnuih hmâo dua čô ană đah rơkơi . Ñu nao laĭ kơ ană tal sa , ‘ Ơ dăm , hrơi anai ih nao mă bruă amăng đang boh kơƀâo hŏ . ’
+40021031	Hlơi		Hlơi amăng dua čô anŭn ngă tui hăng tơlơi ama ñu kiăng ? ” Gơñu laĭ glaĭ , “ Pô ană tal sa anŭn . ” Yêsu laĭ kơ gơñu , “ Sĭt biă mă Kâo laĭ kơ ƀing gih , ƀing ring jia hăng ƀing đah kơmơi rih răm mŭt amăng dêh čar pơtao Ơi Adai hlâo kơ ƀing gih .
+40021040	hơgĕt		Tui anŭn , tơ pô đang boh kơƀâo anŭn truh , hơgĕt ñu či ngă kơ ƀing čan anŭn ? ”
+40022012	hyư̆m		Ñu laĭ kơ pô anŭn , ‘ Ơ gơyut , hyư̆m ih dưi mŭt pơ anai ƀu buh ôh ao phiăn ƀŏng huă tơlơi dŏ rơkơi bơnai ? ’ Mơnuih anŭn ƀu thâo laĭ glaĭ ôh .
+40022017	hơgĕt		Tui anŭn laĭ brơi bĕ kơ gơmơi hơgĕt Ih pơmĭn . Phiăn mơ̆ duh jia kơ Sêsar ƀôdah ƀu phiăn ôh ? ”
+40022018	yua hơgĕt		Samơ̆ Yêsu thâo tơlơi pơmĭn sat gơñu , laih anŭn laĭ glaĭ , “ Yua hơgĕt ƀing gih lông lăng Kâo , Ơ ƀing plơ̆m ƀlor ?
+40022020a	hlơi		Yêsu tơña gơñu “ Rup hăng anăn hlơi anai ? ”
+40022020b	~		
+40022028	hlơi		Tui anŭn ƀơi hrơi hơdip glaĭ dơ̆ng , đah kơmơi anŭn či jing bơnai kơ hlơi amăng ƀing tơjuh čô anŭn , yua kơ rĭm čô gơñu leng hmâo dŏ laih đah kơmơi anŭn ? ”
+40022036	hơgĕt		“ Ơ Nai , amăng tơlơi juăt tơlơi pơtă hơgĕt jing prŏng hloh ? ”
+40022042a	Hơgĕt		“ Hơgĕt ƀing gih pơmĭn kơ Krist ? 
+40022042b	hlơi		Ñu jing ană hlơi ? ” Ƀing Pharisi laĭ glaĭ , “ Ană Đawit . ”
+40022043	hyư̆m		Yêsu laĭ kơ ƀing gơñu , “ Tui anŭn , hyư̆m ngă tơdang Đawit hmâo tơlơi kơčŭt mơ̆ng Yang Bơngăt Hiam , ñu iâu hĭ Gơ̆ jing Khua Yang ? laih anŭn laĭ :
+40022045	hyư̆m		Tơdah Đawit iâu Krist jing Khua Yang , hyư̆m Ñu dưi jing hĭ ană Đawit dơ̆ng lĕ ? ”
+40023017	Hơgĕt		Ơ ƀing mluk bum mơta ! Hơgĕt jing yom hloh , mah ƀôdah sang kơkuh pơpŭ ngă kơ mah jing rơgoh hiam ?
+40023019	Hơgĕt		Ơ ƀing bum mơta ! Hơgĕt jing prŏng hloh , mơnơ̆ng pơyơr ƀôdah kơƀang ngă yang ngă kơ mơnơ̆ng pơyơr anŭn jing rơgoh hiam ?
+40023033	hyư̆m		Ơ ƀing djuai ala , kơnŭng djuai ala apui , hyư̆m ƀing gih dưi klaih hĭ mơ̆ng tơlơi pơkơhmal amăng war apui ?
+40024003a	hơbin		Tơdang Yêsu dŏ ber ƀơi ngŏ čư̆ Ôliwơ , ƀing ding kơna rai pơ hơjăn Yêsu hăng laĭ , “ Rơkâo kơ Ih laĭ brơi gơmơi hơbin tơlơi anŭn či truh , 
+40024003b	hơgĕt		laih anŭn hơgĕt tơlơi gru kơnăl kơ tơlơi Ih rai dơ̆ng , laih anŭn kơ hrơi hnal tuč rơnŭk ? ”
+40024045	Hlơi		“ Hlơi pô jing ding kơna tŏng ten laih anŭn kơhnâo , pô khua hmâo jao brơi wai lăng abih bang mơnuih amăng sang ñu , kiăng brơi mơnơ̆ng ƀŏng huă kơ ƀing gơ̆ djơ̆ mông ?
+40025037	hơbin		Hlak anŭn ƀing mơnuih tơpă či laĭ glaĭ kơ Ñu , ‘ Ơ Khua Yang , hơbin pă gơmơi hmâo ƀuh Ih rơpa laih anŭn brơi kơ Ih mơnơ̆ng ƀŏng huă , ƀôdah Ih mơhao laih anŭn brơi kơ Ih ia mơñum ?
+40025038	hơbin		Laih anŭn hơbin pă gơmơi hmâo ƀuh Ih jing tuai laih anŭn tŭ jum Ih , ƀôdah Ih dŏ mơhlŭn laih anŭn brơi sum ao kơ Ih buh ?
+40025039	hơbin		Laih anŭn hơbin pă gơmơi hmâo ƀuh Ih duăm ruă ƀôdah arăng krư̆ laih anŭn nao čuă ngui Ih ? ’
+40025044	hơbin		Hlak anŭn ƀing anai či laĭ glaĭ kơ Ñu , ‘ Ơ Khua Yang , hơbin pă gơmơi ƀuh Ih rơpa , mơhao , jing tuai , dŏ mơhlŭn , duăm ruă , ƀôdah arăng krư̆ laih anŭn gơmơi ƀu djru Ih ôh ? ’
+40026008	yua hơgĕt		Samơ̆ tơ ƀing ding kơna ƀuh tơlơi anŭn , gơñu hil biă mă hăng laĭ , “ Yua hơgĕt pơrơngiă hĭ đôč đač kar hăng anŭn ?
+40026010	yua hơgĕt		Samơ̆ Yêsu thâo tơlơi anŭn , tui anŭn Ñu laĭ kơ gơñu , “ Yua hơgĕt ƀing gih ngă pơgleh kơ đah kơmơi anai ? Gơ̆ hmâo ngă laih sa bruă hiam kơ Kâo .
+40026015	Hơgĕt		laih anŭn laĭ , “ Hơgĕt mơnơ̆ng ƀing gih či brơi kơ kâo tơdah kâo jao Yêsu kơ ƀing gih ? ” Ƀing anŭn brơi kơ ñu klâo pluh kak prăk .
+40026017	Pơpă		Hrơi tal sa amăng hrơi phĕt ƀañ tơpŭng ƀu hmâo tơpơi ƀing ding kơna nao pơ Yêsu hăng laĭ , “ Pơpă anih Ih kiăng gơmơi prăp rơmet kơ Ih ƀŏng phĕt Tơlơi Găn ? ”
+40026040	~		Tơdơi kơ anŭn Ñu wơ̆t glaĭ pơ ƀing ding kơna laih anŭn ƀuh gơñu dŏ pĭt . Ñu laĭ kơ Pêtrôs , “ Ƀing gih ƀu dưi ôh hă dŏ krŏng hrŏm hơbĭt hăng Kâo sa mông ?
+40026050	hơgĕt		Yêsu laĭ kơ ñu , “ Ơ gơyut , ngă bĕ hơgĕt tơlơi kơñăm ih rai pơ anai kiăng ngă ! ” Tui anŭn , gơñu rai jĕ , mă Yêsu laih anŭn čaŏ hĭ Ñu .
+40026054	hyư̆m		Samơ̆ tơdah tui anŭn , hyư̆m dưi pơsĭt Hră Ơi Adai pơhiăp hmâo čih laih kơ tơlơi anai ? ”
+40026062a	~		Khua ngă yang prŏng hloh tơgŭ hăng laĭ , “ Ih ƀu hmâo laĭ glaĭ ôh hă kơ tơlơi ƀing anŭn gơ̆ng jơlan pơkơdơ̆ng glaĭ hăng Ih ? ”
+40026062b	~		
+40026065	Hơgĕt		Hlak anŭn khua ngă yang prŏng hloh hek ao ñu hăng laĭ , “ Ñu hmâo pơhiăp pơgao hăng Ơi Adai . Hơgĕt ƀing ta kiăng hmâo ƀing mơnuih ngă gơ̆ng jơlan dơ̆ng ? Ƀing gih hmư̆ laih tơlơi Ñu pơhiăp pơgao .
+40026066	Hyư̆m		Hyư̆m ƀing gih pơmĭn ? ” Ƀing anŭn laĭ glaĭ , “ Ñu lăp kơ djai yơh . ”
+40026068	hlơi		hăng laĭ , “ Ơ Yang Krist , laĭ lui hlâo brơi kơ gơmơi bĕ , hlơi pô hmâo taih Ih laih ? ”
+40027004	Hơgĕt		“ Kâo hmâo ngă soh yua kơ jao brơi kơ ƀing gih drah Pô hơčih . ” Ƀing anŭn laĭ , “ Hơgĕt tơlơi anŭn djơ̆ kơ gơmơi ? Anŭn jing bruă ih . ”
+40027013	~		Tui anŭn , Pilat laĭ kơ Ñu , “ Ih ƀu hơmư̆ ôh hă gơñu phong pơčŭt lu tơlơi pơkơdơ̆ng hăng Ih ? ”
+40027017	Hlơi		Tui anŭn tơdang ƀing mơnuih lu pơtŭm glaĭ , Pilat tơña ƀing gơñu , “ Hlơi pô ƀing gih kiăng kâo phư brơi , Yêsu Barabas ƀôdah Yêsu arăng iâu Krist ? ”
+40027021	Hlơi		Khua čar tơña kơ ƀing gơñu dơ̆ng , “ Hlơi amăng ƀing dua čô anai ƀing gih kiăng kơ kâo pŏk brơi ƀing gih ? ” Gơñu laĭ glaĭ , “ Barabas . ”
+40027022	hơgĕt		Pilat laĭ kơ gơñu , “ Tui anŭn hơgĕt kâo či ngă hăng Yêsu arăng iâu Krist ? ” Abih bang gơñu laĭ , “ Pơ̆ng hĭ Ñu ƀơi kơyâo bơrơkal ! ”
+40027023a	Yua hơgĕt		Tui anŭn Pilat tơña , “ Yua hơgĕt , 
+40027023b	hơgĕt		hơgĕt tơlơi sat Ñu hmâo ngă ? ” Samơ̆ abih bang ƀing gơñu ur kơtang hloh dơ̆ng , “ Pơ̆ng hĭ Ñu ƀơi kơyâo bơrơkal . ”
+40027046	yua hơgĕt		Kơplah wah mông tal dua rơpăn Yêsu iâu kraih kơtang , “ Êli ! Êli ! Lama sabaktani ? ” Kiăng laĭ , “ Ơ Ơi Adai kâo , Ơ Ơi Adai kâo , yua hơgĕt Ih lui hĭ Kâo ? ”
+41001024	hơgĕt		gơ̆ ur , “ Ơ Yêsu plei Nasaret , hơgĕt tơlơi Ih hmâo hăng gơmơi ? Ih rai kiăng pơrai gơmơi hă ? Kâo thâo hlơi Ih jing , Ih jing Pô Rơgoh Hiam mơ̆ng Ơi Adai . ”
+41001027	Hơgĕt		Abih bang gơñu leng kơ hling hlang , hăng tơña tơdruă gơñu , “ Hơgĕt tơlơi anai ? Sa tơlơi pơhrăm phrâo hă ? Hăng tơlơi dưi Ñu pơđar wơ̆t kơ ƀing yang bơngăt grĭ , laih anŭn gơñu ăt gưt kơ Ñu mơ̆n ! ”
+41002007a	Hyư̆m		“ Hyư̆m mơnuih anai pơhiăp pơgao tui anŭn ? Ñu pơhiăp pơgao hăng Ơi Adai ! 
+41002007b	Hlơi		Hlơi dưi pap brơi tơlơi soh , kơnơ̆ng hơjăn Ơi Adai đôč ? ”
+41002008	Hyư̆m		Amăng tơlơi pơmĭn Yêsu thâo mơtam kơ tơlơi ƀing anŭn tơña amăng tơlơi pơmĭn , laih anŭn Ñu laĭ kơ ƀing gơñu , “ Hyư̆m ƀing gih hmâo tơlơi tơña amăng pran jua ƀing gih kar hăng anŭn ?
+41002009	Hơgĕt		Hơgĕt tơlơi amuñ hloh laĭ kơ pô rơwen , ‘ Tơlơi soh ih hmâo pap brơi laih , ’ ƀôdah laĭ , ‘ Tơgŭ bĕ , mă kiao ih hăng rơbat nao ? ’
+41002016	yua hơgĕt		Tơ ƀing nai pơtô tơlơi juăt amăng ƀing Pharisi ƀuh Yêsu dŏ ƀŏng huă hrŏm hơbĭt hăng ƀing soh wơ̆t hăng ƀing ring jia , gơñu laĭ kơ ƀing ding kơna Yêsu , “ Yua hơgĕt Ñu dŏ ƀŏng huă hrŏm hơbĭt hăng ƀing ring jia laih anŭn hăng ƀing mơnuih soh ? ”
+41002018	Yua hơgĕt		Hlak anŭn ƀing ding kơna Yôhan hăng ƀing Pharisi hmâo tơlơi ư̆ ƀŏng huă . Hmâo mơnuih rai tơña kơ Yêsu , “ Yua hơgĕt ƀing ding kơna Yôhan hăng ƀing Pharisi ư̆ ƀŏng huă , samơ̆ ƀing ding kơna Ih ƀu ư̆ ƀŏng huă ôh ? ”
+41002019	~		Yêsu laĭ kơ gơñu , “ Dưi mơ̆ ƀing arăng iâu kơ tơlơi ƀŏng huă dŏ rơkơi bơnai ư̆ ƀŏng huă tơdang han tao ăt dŏ hrŏm hơbĭt hăng gơñu ? Tơdang pô dŏ bơnai ăt dŏ hrŏm hơbĭt hăng gơñu , gơñu ƀu dưi ư̆ ƀŏng huă ôh .
+41002024	yua hơgĕt		Ƀing Pharisi laĭ kơ Ñu , “ Lăng adih , yua hơgĕt gơñu ngă tơlơi ƀu phiăn dưi ngă ôh amăng hrơi saƀat ? ”
+41003004	~		Laih anŭn Yêsu tơña kơ gơñu , “ Amăng hrơi saƀat ƀing ta dưi ngă tơlơi hiam ƀôdah ngă tơlơi sat , pơklaih mơnuih ƀôdah pơdjai mơnuih ? ” Samơ̆ gơñu leng kơ dŏ rơiăt .
+41003023	Hyư̆m		Yêsu iâu ƀing anŭn rai pơ Ñu hăng laĭ kơ gơñu hăng tơlơi bơhmutu , “ Hyư̆m Satan dưi pơpuh pơđuaĭ Satan lĕ ?
+41003033a	Hlơi		Ñu laĭ glaĭ , “ Hlơi jing amĭ Kâo ? 
+41003033b	Hlơi		Hlơi jing adơi ayŏng Kâo ? ”
+41004013	hyư̆m		Giơ̆ng anŭn Yêsu laĭ kơ gơñu , “ Ƀing gih ƀu thâo hluh ôh hă tơlơi bơhmutu anai ? Tui anŭn hyư̆m ƀing gih thâo hluh abih bang tơlơi bơhmutu pơkŏn lĕ ?
+41004030a	Hăng hơgĕt		Yêsu laĭ dơ̆ng , “ Hăng hơgĕt ta dưi bơkơnar kơ dêh čar pơtao Ơi Adai ? 
+41004030b	hơgĕt		Ƀôdah hăng tơlơi bơhmutu hơgĕt ƀing ta yua kiăng bơrơđah ñu ?
+41004038	~		Samơ̆ Yêsu dŏ ƀơi klon sŏng , đal akŏ Ñu ƀơi hơnal akŏ laih anŭn pĭt . Ƀing ding kơna râo Yêsu hăng laĭ , “ Ơ Nai , Ih ƀu bơngơ̆t ôh hă kơ ƀing ta či djai ? ”
+41004040a	Yua hơgĕt		Yêsu laĭ kơ gơñu , “ Yua hơgĕt ƀing gih hwĭ ? 
+41004040b	~		Ƀing gih aka hmâo tơlơi đaŏ ôh hă ? ”
+41004041	Hlơi		Laih anŭn gơñu bă hăng tơlơi hwĭ biă mă laih anŭn bơlaĭ tơdruă gơñu , “ Hlơi mơnuih anai jing , tơl wơ̆t angĭn hăng ia rơsĭ ăt gưt kơ Ñu mơ̆n ? ”
+41005007	Hơgĕt		Laih anŭn ñu ur kraih hăng laĭ , “ Hơgĕt tơlơi Ih hmâo hăng kâo , Ơ Yêsu Ană Ơi Adai Pô Glông Hloh ? Kâo kơwưh kơ Ih hăng anăn Ơi Adai , anăm pơtơnap kâo ôh . ”
+41005009	Hlơi		Yêsu tơña kơ ñu , “ Hlơi anăn ŏng ? ” Ñu laĭ glaĭ , “ Anăn kâo jing ‘ Ƀing lu , ’ yua kơ gơmơi lu biă mă . ”
+41005030	Hlơi		Yêsu thâo mơtam kơ tơlơi dưi mơyang tơbiă laih mơ̆ng Ñu , tui anŭn yơh Ñu wir glaĭ pơ ƀing mơnuih lu hăng laĭ , “ Hlơi hmâo ruaih ao Kâo ? ”
+41005031	Hlơi		Ƀing ding kơna Ñu laĭ hăng Ñu , “ Ih ƀuh laih ƀing mơnuih lu pơrơsua kơpĭ Ih , hyư̆m Ih dŏ tơña , ‘ Hlơi ruaih Kâo ? ’ ”
+41005035	hơgĕt		Tơdang Yêsu ăt dŏ pơhiăp , hmâo hơdôm čô mơnuih mơ̆ng sang Jairus rai laĭ hăng gơ̆ , “ Ană đah kơmơi ih djai laih , hơgĕt yom ngă pơgleh Nai dơ̆ng ? ”
+41005039a	Yua hơgĕt		Yêsu mŭt amăng sang anŭn Ñu laĭ kơ ƀing gơñu , “ Yua hơgĕt ƀing gih ngă pơrơông pơrơang hăng 
+41005039b	~		čok hia lĕ ? Čơđai anĕt anai ƀu djai ôh , samơ̆ gơ̆ dŏ pĭt . ”
+41006002a	Mơ̆ng pă		Ƀơi hrơi saƀat Ñu čơdơ̆ng pơtô amăng sang bơjơnum , lu ƀing dŏ hơmư̆ Ñu kơtuă hling hăng laĭ , “ Mơ̆ng pă Pô anai hmâo hơdôm tơlơi anai ? 
+41006002b	Hơgĕt		Hơgĕt tơlơi kơhnâo arăng hmâo brơi laih kơ Ñu ? 
+41006002c	Yua hơgĕt		Yua hơgĕt tơngan Ñu dưi ngă lu bruă mơyang kar hăng anŭn ?
+41006022	hơgĕt		Yua kơ , tơ ană dra H'Hêrôđias mŭt suang ñu ngă bơmơak kơ Hêrôt hăng kơ ƀing ñu jak . Pơtao laĭ kơ đah kơmơi dra anŭn , “ Rơkâo bĕ kơ kâo hơgĕt mơnơ̆ng ih kiăng , kâo či brơi kơ ih yơh . ”
+41006024	Hơgĕt		Đah kơmơi dra anŭn tơbiă nao hăng tơña kơ amĭ ñu , “ Hơgĕt mơnơ̆ng kâo či rơkâo ? ” Amĭ ñu laĭ glaĭ , “ Akŏ Yôhan Ƀatem . ”
+41006037	Hyư̆m		Samơ̆ Yêsu laĭ glaĭ kơ gơñu , “ Ƀing gih yơh brơi mơnơ̆ng ƀŏng huă kơ gơñu . ” Gơñu laĭ hăng Yêsu , “ Hyư̆m , ƀing gơmơi khŏm nao blơi ƀañ tơpŭng truh kơ dua rơtuh đơniê hăng brơi gơñu ƀŏng hă ? ”
+41006038	hơdôm		Yêsu laĭ kơ gơñu , “ Nao lăng bĕ , hơdôm boh ƀañ tơpŭng ƀing gih hmâo ? ” Tơ gơñu nao lăng laih , gơñu laĭ , “ Rơma boh ƀañ tơpŭng hăng dua drơi akan . ”
+41007005	yua hơgĕt		Yua kơ anŭn , ƀing Pharisi hăng ƀing nai pơtô tơlơi juăt tơña kơ Yêsu , “ Yua hơgĕt ƀing ding kơna Ih ƀu hơdip tui tơlơi phiăn ƀing ơi adon , laih anŭn gơñu ƀŏng huă hăng tơngan grĭ lĕ ? ”
+41008004	hyư̆m		Ƀing ding kơna Ñu laĭ glaĭ , “ Amăng tơdrŏn tač anai hyư̆m dưi hmâo ƀañ tơpŭng čem ƀing anai lĕ ? ”
+41008005	Hơdôm		Yêsu tơña kơ gơñu , “ Hơdôm klŏ ƀañ tơpŭng ƀing gih hmâo ? ” Gơñu laĭ , “ Tơjuh klŏ . ”
+41008012	Yua hơgĕt		Yêsu khôih amăng bơngăt jua hăng laĭ , “ Yua hơgĕt ƀing mơnuih rơnŭk anai hơduah sa gru kơnăl mơyang ? Sĭt biă mă Kâo laĭ kơ ƀing gih , ƀu či hmâo sa gru kơnăl mơyang brơi kơ ƀing rơnŭk anai ôh . ”
+41008017	Hyư̆m		Yêsu thâo tơlơi anŭn hăng laĭ kơ gơñu , “ Hyư̆m ƀing gih črŏng sai kơ tơlơi ƀing gih ƀu hmâo ƀañ tơpŭng lĕ ? Ƀing gih aka thâo hăng aka hluh ôh hă ? Pran jua ƀing gih ăt dŏ khăng hă ?
+41008018a	hyư̆m		Ƀing gih hmâo mơta hyư̆m ƀing gih ƀu ƀuh ôh hă ? 
+41008018b	hyư̆m		Ƀing gih hmâo tơngia hyư̆m ƀing gih ƀu hơmư̆ hă ? Ƀing gih ƀu hơdơr ôh hă ?
+41008019	hơdôm		Tơ Kâo wơ̆k rơma klŏ ƀañ tơpŭng brơi kơ rơma rơbâo čô mơnuih , ƀing gih duñ glaĭ hơdôm bai čơđeh meh ƀañ rơbeh ? ” Gơñu laĭ glaĭ , “ Pluh dua bai . ”
+41008020	hơdôm		“ Laih anŭn tơjuh klŏ ƀañ tơpŭng brơi kơ pă rơbâo čô mơnuih , ƀing gih duñ glaĭ hơdôm bai čơđeh meh ƀañ rơbeh ? ” Gơñu laĭ glaĭ , “ Tơjuh bai . ”
+41008021	~		Yêsu laĭ kơ gơñu , “ Ƀing gih ăt aka thâo hluh ôh hă ? ”
+41008023	hơgĕt		Yêsu djă tơngan pô bum anŭn , ba gơ̆ pơ gah rơngiao plei . Laih anŭn tơ Ñu kơčuh ia bah ƀơi mơta gơ̆ hăng ah tơngan ƀơi ñu , Ñu tơña gơ̆ , “ Ih ƀuh mơnơ̆ng hơgĕt mơ̆ ? ”
+41008027	Hlơi		Yêsu hrŏm hơbĭt hăng ƀing ding kơna Ñu đuaĭ mơ̆ng anŭn , laih anŭn nao pơ lu boh plei amăng tring Sêsarê Philip . Tơdang rơbat rŏk jơlan Yêsu tơña kơ ƀing ding kơna Ñu , “ Hlơi Kâo jing tui hăng arăng laĭ ? ”
+41008029a	~		Yêsu tơña kơ ƀing gơ̆ , 
+41008029b	hlơi		“ Samơ̆ ƀing gih laĭ hlơi Kâo jing ? ” Pêtrôs laĭ glaĭ kơ Ñu , “ Ih jing Yang Krist . ”
+41008036	hơgĕt		Yua kơ , hơgĕt tơlơi tŭ yua kơ sa čô mơnuih tơdah ñu hmâo abih lŏn tơnah , samơ̆ rơngiă hĭ bơngăt ñu ?
+41008037	hơgĕt		Hăng mơnơ̆ng hơgĕt ñu dưi brơi kiăng song glaĭ bơngăt ñu ?
+41009010	hơgĕt		Tui anŭn gơñu djă pioh tơlơi anŭn laih anŭn tơña tơdruă gơñu , “ hơgĕt kiăng laĭ , ‘ tơlơi hơdip glaĭ mơ̆ng ƀing djai ? ’ ”
+41009011	Hyư̆m		Gơñu tơña kơ Yêsu , “ Hyư̆m ƀing nai pơtô tơlơi juăt laĭ , Êli khŏm rai hlâo ? ”
+41009012	Hyư̆m		Yêsu laĭ kơ gơñu , “ Sĭt biă mă Êli khŏm rai hlâo kiăng pơkra glaĭ abih bang bruă . Hyư̆m ngă ăt hmâo mơ̆n Hră Ơi Adai Pơhiăp čih kơ Ană Mơnuih khŏm tŭ lu tơlơi ruă nuă laih anŭn tơlơi arăng či hơngah lui hĭ Ñu ?
+41009016	hơgĕt		Yêsu tơña kơ gơñu , “ Tơlơi hơgĕt ƀing gih pơrơjah hăng gơñu ? ”
+41009019a	hơdôm sui		Yêsu laĭ glaĭ , “ Ơ kơnŭng djuai ƀu hmâo tơlơi đaŏ , hơdôm sui dơ̆ng Kâo khŏm dŏ hrŏm hơbĭt hăng ƀing gih ? 
+41009019b	~		Dơ̆ pă dơ̆ng Kâo khŏm gir hăng ƀing gih ? Ba rai ñu pơ Kâo bĕ . ”
+41009021	Hơbin		Yêsu tơña kơ ama ñu , “ Hơbin ñu hmâo laih tơlơi anŭn ? ” Ñu laĭ , “ Čơdơ̆ng mơ̆ng gơ̆ hlak dŏ anĕt .
+41009028	Yua hơgĕt		Tơ Yêsu mŭt sang , ƀing ding kơna tơña kơ Ñu tơdang Ñu dŏ hơjăn , “ Yua hơgĕt ƀing gơmơi ƀu dưi pơpuh pơđuaĭ ôh yang sat anŭn ? ”
+41009033	hơgĕt		Tui anŭn gơñu truh pơ plei Kapernum . Tơ Ñu mŭt amăng sang laih , Ñu tơña kơ ƀing gơ̆ , “ Hlak rơbat ƀơi rŏk jơlan , ƀing gih pơrơjah tơlơi hơgĕt ? ”
+41009050	hyư̆m		Hra jing hiam , samơ̆ tơdah hra rơngiă hĭ mơsĭn , hyư̆m ƀing gih dưi ngă kiăng kơ ñu mơsĭn glaĭ dơ̆ng ? Brơi ƀing gih khŏm hmâo hra amăng ƀing gih pô , laih anŭn brơi ƀing gih hơdip rơnŭk rơnua hăng tơdruă ƀing gih . ”
+41010003	Hơgĕt		Yêsu laĭ glaĭ gơñu , “ Hơgĕt Môis hmâo pơtă laih kơ ƀing gih ? ”
+41010017	hơgĕt		Tơdang Yêsu čơdơ̆ng rơbat nao , hmâo sa čô mơnuih nao čon tơŭt ƀơi anăp Ñu hăng tơña kơ Ñu , “ Ơ Nai hiam klă , hơgĕt tơlơi kâo khŏm ngă kiăng mă tŭ tơlơi hơdip hlŏng lar ? ”
+41010018	yua hơgĕt		Yêsu laĭ kơ ñu , “ Yua hơgĕt ih iâu Kâo Pô hiam klă ? Ƀu hmâo hlơi hiam klă ôh , kơnơ̆ng hơjăn Ơi Adai đôč .
+41010026	hlơi		Ƀing ding kơna Ñu kơtuă biă mă hăng laĭ tơdruă gơñu , “ Tui anŭn hlơi dưi klaih lĕ ? ”
+41010036	Hơgĕt		Yêsu tơña , “ Hơgĕt tơlơi ƀing gih kiăng kơ Kâo ngă brơi ? ”
+41010051	Hơgĕt		Yêsu laĭ kơ gơ̆ , “ Hơgĕt tơlơi ih kiăng Kâo ngă brơi kơ ih ? ” Mơnuih bum mơta laĭ glaĭ , “ Ơ Nai , brơi kâo dưi ƀuh rơđah . ”
+41011003	yua hơgĕt		Tơdah arăng tơña kơ gih , ‘ Yua hơgĕt gih ngă tui anŭn ? ’ brơi gih laĭ glaĭ , ‘ Khua Yang kiăng ñu , laih anŭn Ñu či ba glaĭ tañ mơtam . ’ ”
+41011005	yua hơgĕt		Ƀing dŏ ƀơi anŭn tơña gơñu , “ Yua hơgĕt ƀing gih kleh hĭ ană aseh kle anŭn ? ”
+41011028a	hơgĕt		Gơñu tơña kơ Yêsu , “ Hăng tơlơi dưi hơgĕt Ih ngă hơdôm tơlơi anai ? 
+41011028b	Hlơi		Hlơi pô brơi kơ Ih tơlơi dưi kiăng ngă hơdôm tơlơi anai ? ”
+41011030	~		Laĭ brơi Kâo bĕ , tơlơi Yôhan ngă ƀatem tơbiă rai mơ̆ng Ơi Adai ƀôdah mơ̆ng mơnuih ? ”
+41011031a	~		Gơñu čơdơ̆ng pơrơjah tơdruă gơñu tui anai , “ Tơdah ƀing ta laĭ , ‘ Mơ̆ng Ơi Adai , ’ ñu či laĭ , 
+41011031b	yua hơgĕt		‘ Tui anŭn yua hơgĕt ƀing gih ƀu đaŏ kơ ñu lĕ ? ’
+41012009	Hơgĕt		Hơgĕt pô đang boh kơƀâo anŭn či ngă ? Ñu či rai pơdjai hĭ ƀing ngă čan anŭn , hăng jao đang boh kơƀâo anŭn kơ ƀing pơkŏn .
+41012015	Yua hơgĕt		Samơ̆ Yêsu thâo laih tơlơi plơ̆m ƀlor gơñu , tui anŭn Yêsu laĭ kơ gơñu , “ Yua hơgĕt gih kiăng lông lăng Kâo ? Ba rai sa sar prăk đơniê brơi Kâo lăng . ”
+41012016a	hlơi		Gơñu ba rai kơ Yêsu sa sar prăk đơniê . Laih anŭn Yêsu laĭ kơ gơñu , “ Rup hăng anăn hlơi anai ? ” Gơñu laĭ glaĭ , “ Sêsar . ”
+41012016b	~		
+41012023	hlơi		Tơ gơñu hơdip amăng hrơi hơdip glaĭ , ñu či jing bơnai kơ pô hlơi , yua kơ abih tơjuh čô anŭn leng kơ hmâo dŏ gơ̆ soh sel ? ”
+41012028	pă		Hmâo sa čô amăng ƀing nai pơtô tơlơi juăt rai hăng hơmư̆ tơlơi gơñu pơrơjah hăng Yêsu , hăng hơmư̆ tơlơi Yêsu laĭ glaĭ kơ ƀing Sadusi thâo djơ̆ biă mă , ñu tơña kơ Yêsu , “ Tơlơi pơtă pă yom hloh kơ abih bang ? ”
+41012035	Hyư̆m		Tơdang Yêsu dŏ pơtô amăng sang Kơkuh Pơpŭ , Ñu laĭ , “ Hyư̆m ƀing nai pơtô tơlơi juăt dưi laĭ Krist jing ană pơtao Đawit lĕ ?
+41012037	hyư̆m		Đawit pô iâu Ñu Khua Yang . Tui anŭn hyư̆m Ñu dưi jing ană đah rơkơi Đawit lĕ ? ” Ƀing mơnuih lu dŏ hơmư̆ Yêsu hăng tơlơi hơ̆k mơak .
+41013004a	hơbin		“ Rơkâo Ih laĭ brơi kơ gơmơi thâo hơbin tơlơi anŭn či truh ? 
+41013004b	hơgĕt		Laih anŭn hơgĕt či jing gru kơnăl laĭ pơthâo mông kơ abih bang tơlơi anŭn či đŭt . ”
+41014004	yua hơgĕt		Samơ̆ hmâo đơđa hil laĭ tơdruă gơñu , “ Yua hơgĕt plai hĭ đôč đač ia klôñ ƀâo mơngưi kar hăng anŭn ?
+41014006	yua hơgĕt		Samơ̆ Yêsu laĭ , “ Lui măk ai ñu . Yua hơgĕt ƀing gih pơrŭng gơ̆ ? Ñu ngă tơlơi hiam kơ Kâo .
+41014012	Pơpă		Hrơi tal sa amăng phĕt Ƀañ Tơpŭng Ƀu Hmâo Tơpơi , hrơi arăng pơdjai ană triu phĕt Tơlơi Găn , ƀing ding kơna tơña kơ Yêsu , “ Pơpă anih Ih kiăng gơmơi nao pơkra brơi kơ Ih ƀŏng phĕt Tơlơi Găn ? ”
+41014014	pơpă		Sang pă ñu mŭt , brơi ƀing gih laĭ kơ pô sang anŭn , ‘ Nai laĭ , pơpă anih kâo či ƀŏng phĕt Tơlơi Găn hrŏm hăng ƀing ding kơna Kâo ? ’
+41014060a	~		Khua ngă yang prŏng hloh tơgŭ dŏ dơ̆ng ƀơi anăp gơñu hăng tơña Yêsu , “ Ih ƀu hmâo tơlơi laĭ glaĭ ôh kơ abih tơlơi ƀing anai pơčŭt kơ Ih hă ? ”
+41014060b	~		
+41014063	Hơgĕt		Khua ngă yang prŏng hloh hek hĭ ao ñu pô hăng laĭ , “ Hơgĕt ƀing ta dŏ kiăng kơ tơlơi ƀing arăng ngă gơ̆ng jơlan dơ̆ng ?
+41014064	Hyư̆m		Ƀing gih hơmư̆ laih tơlơi Ñu pơhiăp pơgao hmiah hăng Ơi Adai . Hyư̆m tơlơi ƀing gih khư̆p ư lĕ ? ” Abih bang gơñu leng klă kơđi Yêsu jing lăp kơ tơlơi djai .
+41015004	~		Pilat tơña kơ Yêsu , “ Ih ƀu laĭ glaĭ ôh hă ? Hơmư̆ bĕ tơlơi gơñu pơčŭt kơ Ih lu biă mă . ”
+41015012	hơgĕt		Pilat tơña dơ̆ng kơ ƀing ană plei pla , “ Tui anŭn hơgĕt kâo či ngă hăng mơnuih pô ƀing gih iâu Pơtao ană Yuđa ? ”
+41015014a	Hyư̆m		Pilat tơña , “ Hyư̆m , 
+41015014b	hơgĕt		hơgĕt tơlơi soh Ñu hmâo ngă ? ” Ƀing gơñu ur jai kơtang hloh dơ̆ng , “ Pơ̆ng hĭ Ñu pơ kơyâo bơrơkal ! ”
+41015034	yua hơgĕt		Ƀơi klâo mông klam Yêsu ur kraih kơtang , “ Êloi , Êloi , Lama sabaktani ? ” kiăng laĭ , “ Ơ Ơi Adai kâo , Ơ Ơi Adai Kâo , yua hơgĕt Ih lui hĭ kâo ? ”
+41016003	Hlơi		Rŏk jơlan gơñu bơlaĭ tơdruă , “ Hlơi či tơglung hĭ boh pơtâo kơđơ̆l bah amăng pơsat brơi kơ ƀing ta ? ”
+42001018	Hyư̆m		Sakari laĭ kơ ling jang , “ Hyư̆m kâo thâo tơlơi anŭn či truh ? Yua kơ kâo tha laih , laih anŭn bơnai kâo ăt tha laih mơ̆n . ”
+42001034	Hyư̆m		H'Mari laĭ kơ ling jang , “ Hyư̆m tơlơi anŭn dưi truh lĕ yua kơ kâo jing đah kơmơi dra aka dŏ hrŏm hăng đah rơkơi ôh ? ”
+42001043	Hyư̆m		Hyư̆m tơlơi yom anai truh kơ kâo , tơl amĭ Khua Yang kâo rai ngui pơ kâo ?
+42001066	Hyư̆m		Abih bang ƀing hơmư̆ tơlơi anŭn djă pioh amăng pran jua gơñu hăng laĭ , “ Hyư̆m ană anŭn či jing ? ” Yua kơ sĭt tơngan Khua Yang dŏ hrŏm hơbĭt hăng ñu .
+42002048	hyư̆m		Tơ ƀuh Yêsu , amĭ ama Ñu hling hlang laih anŭn amĭ Ñu laĭ , “ Ơ dăm , hyư̆m ih ngă kơ gơmơi tui anai lĕ ? Anai nê , ama ih hăng kâo hyu sem hơduah ih hăng tơlơi hyơ̆k bơngơ̆t biă mă . ”
+42002049	yua hơgĕt		Yêsu laĭ glaĭ , “ Yua hơgĕt ƀing ih sem hơduah kâo ? Ƀing ih ƀu thâo ôh hă kâo khŏm mă bruă kơ Ama kâo ? ”
+42003007	hlơi		Tui anŭn Yôhan laĭ kơ ƀing mơnuih lu rai kiăng tŭ tơlơi ñu ngă ƀatem , “ Ơ ƀing djuai ala tơpơ̆ng , hlơi laĭ brơi kơ ƀing gih thâo đuaĭ mơ̆ng tơlơi Ơi Adai hil či truh ?
+42003010	hơgĕt		Ƀing ană plei tơña kơ ñu , “ Tui anŭn hơgĕt gơmơi khŏm ngă lĕ ? ”
+42003012	hơgĕt		Ăt hmâo mơ̆n ƀing ring jia rai kiăng tŭ ƀatem , laih anŭn gơñu tơña kơ Yôhan , “ Ơ nai , hơgĕt gơmơi khŏm ngă lĕ ? ”
+42003014a	~		Ƀing tơhan ăt tơña kar kaĭ mơ̆n , “ Bơ gơmơi , 
+42003014b	hơgĕt		hơgĕt gơmơi khŏm ngă lĕ ? ” Ñu laĭ glaĭ , “ Anăm pơhwĭ arăng , ƀôdah pơčeh ƀlor kiăng plah mă prăk arăng ôh , samơ̆ brơi ƀing gih mơak bĕ hăng prăk blan ƀing gih hmâo . ”
+42004034	Hơgĕt		“ Hơi ! Hơgĕt tơlơi hmâo gơmơi hăng Ih , Ơ Yêsu plei Nasaret ? Ih rai kiăng pơrai gơmơi hă ? Kâo thâo hlơi Ih jing , Ih Pô rơgoh hiam mơ̆ng Ơi Adai ! ”
+42004036	Hơgĕt		Abih bang gơñu hling hlang laih anŭn hăng bơlaĭ tơdruă gơñu , “ Hơgĕt Boh Pơhiăp anai ? Yua kơ hăng tơlơi dưi khưm laih anŭn tơlơi mơyang pơtă kơ ƀing yang bơngăt grĭ , laih anŭn gơñu khŏm tơbiă mơ̆n . ”
+42005021a	Hlơi		Ƀing nai pơtô tơlơi juăt hăng ƀing Pharisi čơdơ̆ng pơhiăp tơdruă gơñu , “ Hlơi pô anai , khĭn pơhiăp pơgao hmiah hăng Ơi Adai ? 
+42005021b	Hlơi		Hlơi pô dưi pap brơi tơlơi soh , kơnơ̆ng hơjăn Ơi Adai đôč ? ”
+42005022	yua hơgĕt		Samơ̆ Yêsu thâo laih tơlơi gơñu pơmĭn , Yêsu laĭ kơ gơñu , “ Yua hơgĕt ƀing gih tơña amăng pran jua ƀing gih ?
+42005023	Hơgĕt		Hơgĕt tơlơi laĭ amuñ hloh , ‘ Tơlơi soh ih hmâo pap brơi laih , ’ ƀôdah laĭ , ‘ Tơgŭ laih anŭn rơbat bĕ ? ’
+42005030	Hyư̆m		Ƀing Pharisi laih anŭn ƀing nai pơtô tơlơi juăt pơhiăp brŏk hăng ƀing ding kơna Yêsu hăng laĭ , “ Hyư̆m ƀing gih dŏ ƀŏng huă laih anŭn mơñum hrŏm hơbĭt hăng ƀing ring jia laih anŭn ƀing mơnuih soh ? ”
+42005033	~		Ƀing anŭn laĭ kơ Ñu , “ Ƀing ding kơna Yôhan nanao ư̆ ƀŏng huă laih anŭn iâu laĭ , wơ̆t ƀing ding kơna ƀing Pharisi ngă tui anŭn mơ̆n , samơ̆ ƀing ding kơna ih ƀŏng huă laih anŭn mơñum . ”
+42005034	~		Yêsu laĭ kơ gơñu , “ Dưi mơ̆ ƀing gih ngă brơi ƀing arăng jak kơ tơlơi ƀŏng huă dŏ rơkơi bơnai ư̆ ƀŏng huă tơdang han tao ăt dŏ hrŏm hơbĭt hăng gơñu ?
+42006002	Hyư̆m		Hmâo đơđa ƀing Pharisi laĭ , “ Hyư̆m ƀing gih ngă tơlơi arăng ƀu dưi ngă ôh amăng hrơi Saƀat ? ”
+42006009	Hơgĕt		Yêsu laĭ kơ gơñu , “ Kâo tơña ƀing gih : Hơgĕt tơlơi juăt tŭ ư brơi ƀing ta dưi ngă amăng hrơi Saƀat , ngă bruă hiam ƀôdah ngă bruă sat , pơklaih mơnuih ƀôdah pơdjai mơnuih ? ”
+42006032	hơgĕt		Tơdah ƀing gih khăp kơ ƀing mơnuih khăp kơ ƀing gih , hơgĕt tơlơi mơyun hiam ƀing gih hmâo ? Yua kơ ƀing soh ăt khăp kơ ƀing mơnuih khăp kơ gơñu mơ̆n .
+42006033	hơgĕt		Tơdah ƀing gih ngă hiam kơ ƀing ngă hiam kơ ƀing gih , hơgĕt tơlơi mơyun hiam ƀing gih hmâo ? Yua kơ ƀing soh ăt ngă kar hăng anŭn mơ̆n .
+42006034	hơgĕt		Tơdah ƀing gih kơnơ̆ng brơi čan kơ ƀing mơnuih ƀing gih čang rơmang gơñu brơi glaĭ , hơgĕt tơlơi mơyun hiam ƀing gih hmâo ? Wơ̆t kơ ƀing soh ăt brơi mơ̆n kơ ƀing soh čan , kiăng kơ dưi tŭ glaĭ djŏp mrô hơđăp .
+42006039	~		Laih anŭn Yêsu pơhiăp sa tơlơi bơhmutu kơ gơñu : “ Dưi mơ̆ mơnuih bum mơta atăt ba mơnuih bum mơta ? Ƀu djơ̆ ôh hă abih dua gơñu či lĕ amăng luh ?
+42006041	Hyư̆m		Hyư̆m ih ƀuh ƀruih amăng mơta adơi ayŏng ih , samơ̆ ƀu ƀuh ôh tơda amăng mơta ih pô ?
+42006042	hyư̆m		Ƀôdah hyư̆m ih dưi laĭ kơ adơi ayŏng ih , ‘ Ơ ayŏng brơi kâo mă hĭ ƀruih mơ̆ng mơta ih , ’ tơdang anŭn ih ƀu ƀuh ôh tơda amăng mơta ih pô ? Ơ mơnuih pơrup mă , blung hlâo mă hĭ tơda mơ̆ng mơta ih pô , laih anŭn kah ih či ƀuh rơđah dưi mă hĭ ƀruih mơ̆ng mơta adơi ayŏng ih . ”
+42006046	Hyư̆m		“ Hyư̆m ƀing gih iâu Kâo , ‘ Ơ Khua Yang , Khua Yang , ’ samơ̆ ƀu ngă ôh tui hăng tơlơi Kâo laĭ kơ ƀing gih ?
+42007024	hơgĕt		Tơ ƀing Yôhan pơkiaŏ nao glaĭ laih , Yêsu čơdơ̆ng pơhiăp kơ ƀing lu tơlơi djơ̆ kơ Yôhan : “ Ƀing gih nao lăng tơlơi hơgĕt amăng tơdrŏn tač ? Sa ƀĕ gai trang bô angĭn pưh rơyuh hă ?
+42007025	hơgĕt		Tui anŭn hơgĕt tơlơi ƀing gih nao lăng lĕ ? Sa čô đah rơkơi buh ao yom kơdrưh hă ? Anai nê , ƀing buh ao yom kơdrưh laih anŭn hơdip pơdrŏng sah dŏ amăng sang pơtao .
+42007026	hơgĕt		Tui anŭn hơgĕt tơlơi ƀing gih nao lăng lĕ ? Sa čô pô laĭ lui hlâo hă ? Djơ̆ laih , kâo laĭ kơ ƀing gih , hmâo pô yom hloh kơ pô laĭ lui hlâo dơ̆ng .
+42007031a	hơgĕt		“ Hăng tơlơi hơgĕt Kâo či bơhơmu ƀing mơnuih rơnŭk anai lĕ , 
+42007031b	hlơi		laih anŭn gơñu hrup hăng hlơi ?
+42007042	hlơi		Yua kơ dua gơñu ƀu dưi kla ôh , pô hơnưh pơrơngai hĭ hơnưh gơñu . Tui anŭn hlơi amăng dua gơñu či khăp kơ pô hơnưh lu hloh ? ”
+42007049	Hlơi		Tui anŭn ƀing dŏ ƀŏng huă hrŏm hăng Ñu čơdơ̆ng bơlaĭ tơdruă gơñu pô , “ Hlơi pô anai , tơl Ñu dưi pap brơi tơlơi soh arăng ? ”
+42008025a	Pơpă		Yêsu laĭ kơ ƀing gơñu “ Pơpă tơlơi đaŏ ƀing gih lĕ ? ” Gơñu hwĭ , hling hlang laih anŭn bơlaĭ tơdruă gơñu , 
+42008025b	Hlơi		“ Hlơi pô anai , tơl wơ̆t angĭn laih anŭn ia pah pŭng ăt gưt kơ Ñu mơ̆n ? ”
+42008028	Hơgĕt		Tơ ñu ƀuh Yêsu , ñu ur kraih , bon kŭp ƀơi anăp Yêsu laih anŭn laĭ : “ Hơgĕt tơlơi Ih hmâo hăng kâo , Ơ Yêsu , Ană Ơi Adai Pô Pơ Glông Hloh ? Kâo kơwưh kơ Ih , anăm pơtơnap kâo ôh . ”
+42008030	Hlơi		Yêsu tơña kơ gơ̆ , “ Hlơi anăn ih ? ” Gơ̆ laĭ , “ Phung lu , ” yua kơ hmâo lu yang sat mŭt laih amăng ñu .
+42008045	Hlơi		Laih anŭn Yêsu tơña , “ Hlơi ruaih Kâo ? ” Tơdang abih bang mơnuih hơngah , Pêtrôs laih anŭn ƀing hrŏm hăng ñu laĭ , “ Ơ Nai , ƀing mơnuih lu jum dar Ih , gơñu kơpĭ Ih . ”
+42009009a	hlơi		Hêrôt laĭ , “ Kâo čơ̆ng laih tơkuai Yôhan , samơ̆ hlơi pô anai kâo hơmư̆ lu tơlơi ră ruai kơ ñu ? ” Laih anŭn Hêrôt hơduah jơlan kiăng ƀuh Yêsu .
+42009009b	~		
+42009018	Hlơi		Sa hrơi tơdang Yêsu dŏ iâu laĭ hơjăn Ñu , ƀing ding kơna nao dŏ jum dar Ñu , Yêsu tơña kơ ƀing gơñu , “ Hlơi Kâo jing tui hăng ƀing ană plei pla laĭ ? ”
+42009020a	~		Yêsu tơña kơ gơñu dơ̆ng , 
+42009020b	hlơi		“ Samơ̆ ƀing gih laĭ hlơi Kâo jing ? ” Pêtrôs laĭ glaĭ , “ Ih jing Yang Krist mơ̆ng Ơi Adai . ”
+42009025	Hơgĕt		Hơgĕt tơlơi tŭ yua kơ sa čô mơnuih tơdah ñu hmâo abih lŏn tơnah samơ̆ ñu pô răm rai laih anŭn rơngiă hĭ ?
+42009041a	hơdôm sui		Yêsu laĭ glaĭ , “ Ơ kơnŭng djuai ƀu hmâo tơlơi đaŏ laih anŭn kơpĭl , hơdôm sui dơ̆ng Kâo či dŏ hrŏm hơbĭt 
+42009041b	~		laih anŭn gir hăng ƀing gih ? Ba ană đah rơkơi ih pơ anai bĕ . ”
+42010025	hơgĕt		Hlak anŭn , hmâo sa čô nai tơlơi juăt tơgŭ tơña kiăng lông lăng Yêsu hăng laĭ , “ Ơ Nai , hơgĕt kâo khŏm ngă kiăng kơ dưi hmâo tơlơi hơdip hlŏng lar ? ”
+42010026a	Hơgĕt		Yêsu laĭ kơ ñu , “ Hơgĕt arăng čih laih amăng tơlơi juăt ? 
+42010026b	Hơgĕt		Hơgĕt tơlơi ih ƀuh amăng anŭn ? ”
+42010029	Hlơi		Samơ̆ ñu kiăng pơrơđah pô ñu jing pô tơpă hơnơ̆ng , tui anŭn ñu laĭ kơ Yêsu , “ Hlơi jing pô jum dar kâo ? ”
+42010036a	~		
+42010036b	Hlơi		Hlơi amăng klâo čô anŭn tui hăng ih pơmĭn jing pô jum dar kơ pô bưp hăng ƀing mơnuih klĕ dŏp anŭn ? ”
+42011008	~		Kâo laĭ kơ ƀing gih , wơ̆t tơdah ñu ƀu či tơgŭ brơi mơnơ̆ng kơ gơ̆ ôh yua kơ gơ̆ jing gơyut ñu , samơ̆ yua kơ gơ̆ ƀu mlâo ôh ăt dŏ ƀel rơkâo nanao , ñu či tơgŭ laih anŭn brơi kơ gơ̆ abih mơnơ̆ng gơ̆ kiăng .
+42011011	Hlơi		Hlơi amăng ƀing gih jing ama , tơdah ană ñu rơkâo ƀañ tơpŭng ñu brơi boh pơtâo kơ gơ̆ mơ̆ ? Ƀôdah gơ̆ rơkâo akan , ñu či brơi kơ gơ̆ ala pơala kơ akan mơ̆ ?
+42011012	~		Ƀôdah gơ̆ rơkâo boh mơnŭ , ñu brơi aguăt mơ̆ ?
+42011013	~		Tui anŭn , tơdah ƀing gih jing ƀing sat thâo brơi mơnơ̆ng hiam kơ ană ƀing gih , hloh kơ anŭn dơ̆ng Ama amăng adai ƀu či brơi Yang Bơngăt Hiam kơ hlơi pô rơkâo kơ Ñu ôh hă ! ”
+42011018	hyư̆m		Kar kaĭ mơ̆n tơdah satan pơkah pơpha ñu pô , hyư̆m dêh čar pơtao ñu dưi dŏ kơjăp ? Yua kơ ƀing gih laĭ Kâo pơpuh đuaĭ ƀing yang sat hăng Bêlsebul .
+42011019	hlơi		Tơdah Kâo pơpuh pơđuaĭ ƀing yang sat hăng Bêlsebul , bơ ană bă ƀing gih kơnang kơ hlơi gơñu pơpuh pơđuaĭ yang sat lĕ ? Yua kơ anŭn yơh , ƀing ană bă ƀing gih pô či jing pô phat kơđi kơ ƀing gih .
+42012014	hlơi		Samơ̆ Yêsu laĭ kơ ñu , “ Ơ gơyut , hlơi brơi kâo jing khua phat kơđi ƀôdah pô pơpha kong ngăn kơ ƀing gih ? ”
+42012017	Hơgĕt		laih anŭn ñu pơmĭn amăng pran jua ñu , ‘ Hơgĕt kâo či ngă , yua kơ kâo ƀu hmâo dơ̆ng tah anih pioh pơdai kâo ? ’
+42012020	hlơi		Samơ̆ Ơi Adai laĭ kơ ñu , ‘ Ơ mơnuih mluk ! Mlam anai Ơi Adai či mă glaĭ bơngăt ih . Laih anŭn dram gơnam ih prăp rơmet laih , hlơi pô či mă tŭ ? ’
+42012024	~		Lăng bĕ čĭm ă ; gơñu ƀu sai , kŏn hơpuă lơi . Gơñu ƀu hmâo pưk kŏn hmâo atông lơi ; samơ̆ Ơi Adai ăt čem rong gơñu . Sĭt yơh ƀing gih jing yom hloh kơ khul čĭm anŭn !
+42012025	Hlơi		Hlơi amăng ƀing gih yua kơ tơlơi ñu ƀlơ̆ng bơngơ̆t đơi dưi thim dơ̆ng ƀiă hrơi kơ tơlơi hơdip ñu ?
+42012026	hyư̆m		Tui anŭn tơdah ƀing gih ƀu dưi ngă ôh bruă anĕt kar hăng anŭn , hyư̆m ƀing gih ƀlơ̆ng bơngơ̆t kơ tơlơi pơkŏn lĕ ?
+42012042	hlơi		Khua Yang laĭ glaĭ , “ Tui anŭn hlơi pô jing ding kơna wai lăng dram gơnam tŏng ten laih anŭn kơhnâo ? Kơ pô anŭn khua ñu či brơi ñu wai lăng abih ƀing amăng sang gơ̆ , kiăng kơ ñu pơpha brơi mơnơ̆ng ƀŏng huă kơ ƀing anŭn djơ̆ mông .
+42012049	hơgĕt		“ Kâo rai kiăng kơ glŏm trŭn apui ƀơi lŏn tơnah . Tơdah apui anŭn jă laih , hơgĕt Kâo dŏ kiăng dơ̆ng .
+42012056	hyư̆m		Ơ ƀing mơnuih plơ̆m ƀlor ! Ƀing gih thâo pơblang tơlơi bơkơnăl tơlơi truh kơ lŏn adai , samơ̆ hyư̆m ƀing gih ƀu thâo pơblang ôh tơlơi bơkơnăl kơ rơnŭk anai ? ”
+42012057	hyư̆m		“ Laih anŭn hyư̆m ƀing gih ƀu thâo kơsem kơ ƀing gih pô tơlơi hơgĕt jing djơ̆ ?
+42013004	~		Ƀôdah bơ ƀing pluh sapăn čô sang rơñan Silôê glưh kơtĭt djai hĭ ƀing gơ̆ , ƀing gih pơmĭn mơ̆ ƀing gơ̆ jing ƀing soh sat hloh kơ abih bang ƀing pơkŏn dŏ amăng plei Yêrusalem ?
+42013007	yua hơgĕt		Ñu laĭ kơ pô pla phŭn boh kơƀâo , ‘ Lăng bĕ , klâo thŭn laih Kâo rai hơduah boh mơ̆ng phŭn hra anai , samơ̆ Kâo ƀu ƀuh boh ôh . Drom hĭ ñu bĕ , yua hơgĕt pioh lui ñu pơgơniă lŏn đôč đač ? ’
+42013015	~		Khua Yang laĭ glaĭ kơ ñu , “ Ơ ƀing plơ̆m ƀlor , amăng hrơi saƀat , ƀu djơ̆ ôh hă rĭm čô amăng ƀing gih leng kơ kleh rơmo ƀôdah aseh kle ƀing gih mơ̆ng war laih anŭn ba ñu nao mơñum ia ?
+42013018a	hơgĕt		Yua kơ anŭn Yêsu laĭ , “ Dêh čar pơtao Ơi Adai jing kar hăng hơgĕt ? 
+42013018b	hơgĕt		Laih anŭn hăng hơgĕt Kâo či bơkơnar ñu ?
+42013020	hơgĕt		Laih anŭn Yêsu laĭ dơ̆ng , “ Hăng hơgĕt kâo či bơkơnar kơ dêh čar pơtao Ơi Adai ?
+42013025	mơ̆ng pă		Tơ pô sang tơgŭ laih anŭn krư̆ hĭ bah amăng , ƀing gih či dŏ pơ gah rơngiao laih anŭn khŏk bah amăng hăng laĭ , ‘ Ơ Khua , pŏk brơi bah amăng kơ gơmơi đa . ’ Ñu či laĭ glaĭ kơ ƀing gih , ‘ Kâo ƀu thâo ôh mơ̆ng pă ƀing gih rai . ’
+42014005	Hlơi		Giơ̆ng anŭn Yêsu laĭ kơ gơñu , “ Hlơi amăng ƀing gih hmâo sa čô ană đah rơkơi ƀôdah sa drơi rơmo lĕ amăng ia dơmun amăng hrơi saƀat ñu ƀu tañ dui đĭ mơtam ôh hă ? ”
+42014028	hlơi		Tơdah hlơi pô amăng ƀing gih kiăng ngă sang rơñan , blung hlâo ƀu dŏ ber kiăng tĭng lăng nua ñu kiăng kơ thâo ñu dưi ngă pơgiơ̆ng mơ̆ sang rơñan anŭn ?
+42014031	~		Ƀôdah hmâo mơ̆ pơtao tơdang ñu nao pơblah hăng sa čô pơtao pơkŏn , samơ̆ ƀu dŏ ber črŏng sai hlâo ôh kiăng thâo ñu djă ba pluh rơbâo tơhan dưi mơ̆ pơblah hăng pơtao hmâo dua pluh rơbâo tơhan ?
+42014034	hăng hơgĕt		“ Hra jing mơnơ̆ng hiam , samơ̆ tơdah ñu rơngiă hĭ mơnâo mơsĭn ñu , hăng hơgĕt arăng či ngă ñu mơsĭn glaĭ dơ̆ng ?
+42015004	hlơi		“ Hmâo hlơi mơ̆ amăng ƀing gih hmâo sa rơtuh drơi triu , tơdah rơngiă hĭ sa drơi , ñu ƀu lui hĭ ôh dua rơpăn pluh dua rơpăn drơi pơkŏn amăng tơdrŏn tač kiăng kơ nao sem sa drơi rơngiă laih tơl ƀuh ñu ?
+42015008	~		“ Ƀôdah hmâo mơ̆ sa čô đah kơmơi hmâo pluh sar prăk kak , tơdah rơngiă hĭ sa asar , ñu ƀu čuh apui kơđen , kih sang laih anŭn sem hăng abih pran jua tơl ñu ƀuh ?
+42015026	hơgĕt		Ñu iâu sa čô amăng ding kơna laih anŭn tơña hơgĕt tơlơi anŭn .
+42015029	~		Samơ̆ ñu laĭ hăng ama ñu , ‘ Ơ ama lăng bĕ , sui thŭn laih kâo mă bruă kơ ih , kâo aka rơgao djơ̆ ôh asăp ih pơđar , samơ̆ ih ƀu brơi amơĭ kơ kâo sa drơi ană be kiăng kơ kâo ngă tơlơi hơ̆k mơak hăng ƀing giăng mah kâo .
+42016002	Hơgĕt		Tui anŭn , khua anŭn iâu ñu laih anŭn laĭ kơ ñu , ‘ Hơgĕt tơlơi ih hmâo ngă laih , kâo hơmư̆ arăng phong kơ ih ? Ruai pơdah bĕ abih bruă ih wai lăng sang kâo , yua kơ mơ̆ng ră anai ih ƀu dưi wai lăng sang kâo dơ̆ng tah . ’
+42016003	hơgĕt		Pô wai lăng sang anŭn laĭ amăng pran jua , ‘ Khua kâo khăt bruă kâo wai lăng sang ñu , hơgĕt kâo či ngă ? Nao ngă hmua kâo ƀu ai ôh , nao rơkâo dan kâo mlâo hañ .
+42016005	Hơdôm		Tui anŭn , ñu iâu mă hơjăn rĭm čô ƀing đom hơnưh kơ khua ñu , laih anŭn tơña kơ pô blung hlâo , ‘ Hơdôm ih đom hơnưh kơ khua kâo ? ’
+42016007	hơdôm		Giơ̆ng anŭn ñu tơña kơ sa čô pơkŏn , ‘ Bơ ih , hơdôm ih đom hơnưh ? ’ Gơ̆ laĭ glaĭ , ‘ Sa rơtuh reo pơdai . ’ Ñu laĭ kơ gơ̆ , ‘ Mă hră hơnưh ih laih anŭn čih glaĭ sapăn pluh . ’
+42016011	hlơi		Tui anŭn tơdah ƀing gih ƀu tŏng ten ôh amăng dram gơnam ƀu hiam klă , hlơi či jao kơ ƀing gih dram gơnam sĭt lĕ ?
+42016012	hlơi		Laih anŭn tơdah ƀing gih ƀu tŏng ten ôh hăng dram gơnam pô pơkŏn , hlơi či jao brơi kơ ƀing gih dram gơnam kơ gih pô lĕ ?
+42017007	hlơi		“ Hmâo mơ̆ hlơi amăng ƀing gih hmâo sa čô ding kơna nao čuar hmua ƀôdah wai triu , tơdah ñu phrâo glaĭ mơ̆ng hmua gih či laĭ kơ ñu , ‘ Rai tañ bĕ dŏ ber ƀŏng huă mơtam ’ ?
+42017017	Pơpă		Tui anŭn Yêsu laĭ , “ Ƀu djơ̆ ôh hă pluh čô hmâo tơlơi rơgoh ? Pơpă dua rơpăn čô anŭn lĕ ?
+42017018	~		Kơnơ̆ng sa čô tuai anai đôč hă wơ̆t glaĭ pơpŭ bơni kơ Ơi Adai ? ”
+42017020	hơbin		Ƀing Pharisi tơña kơ Yêsu hơbin dêh čar pơtao Ơi Adai či truh , laih anŭn Ñu laĭ glaĭ , “ Dêh čar pơtao Ơi Adai ƀu rai hăng tơlơi klă rơđah tơl arăng dưi ƀuh ôh .
+42017037	pơpă		Ƀing ding kơna tơña kơ Yêsu , “ Ơ Khua , pơpă tơlơi anŭn či truh ? ” Yêsu laĭ glaĭ , “ Pơpă hmâo kơmăp drơi jan djai , pơ anŭn klang grư̆ či pơƀŭt glaĭ . ”
+42018018	hơgĕt		Sa čô khua wai lăng tơña kơ Yêsu , “ Ơ nai , pô hiam klă , hơgĕt kâo khŏm ngă kiăng kơ dưi tŭ mă tơlơi hơdip hlŏng lar ? ”
+42018019	yua hơgĕt		Yêsu laĭ kơ ñu , “ Yua hơgĕt ih iâu Kâo jing hiam klă ? Ƀu hmâo hlơi jing pô hiam klă ôh , kơnơ̆ng hơjăn Ơi Adai đôč .
+42018026	hlơi		Ƀing hơmư̆ tơlơi anŭn laĭ , “ Tui anŭn hlơi dưi klaih lĕ ? ”
+42018036	hơgĕt		Gơ̆ hơmư̆ phung lu găn ƀơi anŭn , gơ̆ tơña hơgĕt tơlơi anŭn .
+42018041	Hơgĕt		“ Hơgĕt ih kiăng Kâo ngă brơi kơ ih ? ” Gơ̆ laĭ , “ Ơ khua Yang , brơi kâo thâo ƀuh glaĭ dơ̆ng . ”
+42019007	~		Ƀing mơnuih lu ƀuh tui anŭn , leng kơ pơhiăp brŏk hăng laĭ , “ Mơnuih anai mŭt dŏ amăng sang mơnuih soh . ”
+42019023	yua hơgĕt		Tui anŭn yua hơgĕt ih ƀu pioh ôh prăk kâo amăng sang wai prăk , kiăng kơ tơ kâo wơ̆t glaĭ dơ̆ng , kâo či mă glaĭ prăk anŭn wơ̆t kơmlai ñu mơ̆n ? ’
+42019031	yua hơgĕt		Tơdah arăng tơña kơ ƀing gih , ‘ Yua hơgĕt ƀing gih kleh ñu lĕ ? ’ brơi ƀing gih laĭ tui anai , ‘ Khua Yang kiăng ñu . ’ ”
+42019033	yua hơgĕt		Tơdang gơñu kleh ană aseh kle anŭn , pô aseh anŭn tơña gơñu , “ Yua hơgĕt ƀing gih kleh ană aseh kle anai lĕ ? ”
+42020002a	pă		laih anŭn tơña kơ Ñu , “ Laĭ brơi gơmơi thâo mơ̆ng tơlơi dưi pă Ih ngă tơlơi anai , 
+42020002b	hlơi		ƀôdah hlơi pô brơi tơlơi dưi anai kơ Ih ? ”
+42020005a	~		Ƀing anŭn črŏng sai tơdruă gơñu hăng laĭ , “ Tơdah ƀing ta laĭ , ‘ Mơ̆ng Ơi Adai , ’ Ñu či laĭ , 
+42020005b	yua hơgĕt		‘ Yua hơgĕt ƀing gih ƀu đaŏ ôh kơ ñu ? ’
+42020013	Hơgĕt		Hlak anŭn pô đang boh kơƀâo laĭ , ‘ Hơgĕt kâo či ngă ? Kâo či pơkiaŏ nao ană đah rơkơi pô kâo khăp hơeng ; Năng ai gơñu či pơpŭ kơ gơ̆ . ’
+42020015	hơgĕt		Gơñu glŏm hĭ gơ̆ pơ gah rơngiao đang boh kơƀâo hăng pơdjai hĭ gơ̆ . Tui anŭn hơgĕt pô đang boh kơƀâo či ngă kơ ƀing gơñu ?
+42020017	hơgĕt		Samơ̆ Yêsu lăng kơ gơñu laih anŭn laĭ : “ Tui anŭn , hơgĕt tơlơi Ơi Adai Pơhiăp čih anai kiăng laĭ : ‘ Boh pơtâo ƀing ngă sang hơngah lui laih , Hmâo jing hĭ laih boh pơtâo phŭn akiăng sang ’
+42020023	~		Samơ̆ Yêsu thâo tơlơi mơneč gơñu laih anŭn laĭ kơ gơñu ,
+42020024a	hlơi		“ Brơi Kâo lăng sa kak đơniê . Kak đơniê anai hmâo rup hăng anăn hlơi ? ” Gơñu laĭ glaĭ , “ Sêsar . ”
+42020024b	~		
+42020033	hlơi		Tui anŭn , ƀơi hrơi hơdip glaĭ , đah kơmơi anŭn či jing bơnai kơ hlơi lĕ ? yua kơ abih tơjuh čô anŭn leng kơ hmâo dŏ laih ñu . ”
+42020041	Hyư̆m		Yêsu tơña kơ gơñu , “ Hyư̆m arăng dưi laĭ Yang Krist jing ană pơtao Đawit lĕ ?
+42020044	hyư̆m		Đawit iâu Krist jing ‘ Khua Yang ’ ; Tui anŭn hyư̆m Krist dưi jing ană đah rơkơi Đawit lĕ ? ”
+42021007a	hơbin		Gơñu tơña kơ Yêsu , “ Ơ Nai , hơbin tơlơi anŭn či truh , 
+42021007b	hơgĕt		laih anŭn hơgĕt gru kơnăl kơ tơlơi anŭn giăm truh ? ”
+42022009	Pơpă		Gơñu tơña kơ Yêsu , “ Pơpă anih ih kiăng gơmơi prăp rơmet phĕt Tơlơi Găn ? ”
+42022011	Pơpă		laih anŭn laĭ kơ pô sang , ‘ Nai tơña kơ ih , “ Pơpă anih Kâo či ƀŏng phĕt Tơlơi Găn hrŏm hơbĭt hăng ƀing ding kơna Kâo ? ” ’
+42022027	hlơi		Yua kơ hlơi jing prŏng hloh , pô dŏ ber ƀŏng huă ƀôdah pô buih bruă ? Djơ̆ mơ̆ jing pô dŏ ber ƀŏng huă ? Samơ̆ Kâo dŏ tơ̆ng krah ƀing gih kar hăng sa čô mơnuih buih bruă . ”
+42022046	Hyư̆m		Laih anŭn Ñu laĭ kơ ƀing gơñu , “ Hyư̆m ƀing gih dŏ pĭt lĕ ? Tơgŭ iâu laĭ bĕ , kiăng kơ ƀing gih ƀu lĕ ôh amăng tơlơi plư . ”
+42022064	hlơi		Gơñu gom mơta Yêsu laih anŭn tơña Gơ̆ , “ Đao lăng bĕ , hlơi taih Ih ? ”
+42022071	hơgĕt		Tui anŭn gơñu laĭ , “ Ƀing ta ƀu kiăng tơlơi gơ̆ng jơlan hơgĕt dơ̆ng tah ? Ƀing ta hmâo hơmư̆ laih tơlơi anŭn mơ̆ng amăng bah Ñu pô . ”
+42023022a	~		Pilat laĭ hăng ƀing gơñu tal klâo , 
+42023022b	Hơgĕt		“ Hơgĕt tơlơi sat mơnuih anai hmâo ngă laih ? Kâo ƀu ƀuh ôh amăng Ñu tơlơi soh prŏng lăp kơ djai . Tui anŭn kâo či brơi arăng taih Ñu hăng gai laih anŭn phư hĭ . ”
+42023031	hyư̆m		Yua kơ tơdah kơyâo dŏ mơtah arăng hmâo ngă kar hăng anŭn , bơ kơ kơyâo kro hyư̆m ñu či jing lĕ ? ”
+42024005	Hyư̆m		Tơdang gơñu hwĭ biă mă hăng kŭp ƀô̆ ƀơi lŏn , ƀing đah rơkơi anŭn laĭ kơ gơñu , “ Hyư̆m ƀing gih sem pô hơdip ƀơi tơ̆ng krah ƀing djai ? Ñu ƀu dŏ ƀơi anai ôh , Ñu hơdip glaĭ laih .
+42024017	Hơgĕt		Yêsu laĭ kơ gơñu , “ Hơgĕt tơlơi ƀing gih pơrơjah tơdruă tơdang ƀing gih rơbat rŏk jơlan ? ” Gơñu dŏ hĭ hăng tơlơi rơngot .
+42024019	Hơgĕt		Yêsu tơña gơñu , “ Hơgĕt tơlơi anŭn ? ” Gơñu laĭ kơ Yêsu , “ Tơlơi hmâo truh laih kơ Yêsu Nasaret ; Ñu jing sa čô pô laĭ lui hlâo mơyang biă mă amăng bruă ngă laih anŭn amăng tơlơi pơhiăp ƀơi anăp Ơi Adai hăng ƀơi anăp abih bang ană plei pla ,
+42024025	~		Hlak anŭn Yêsu laĭ kơ gơñu , “ Ơ ƀing mơnuih mluk laih anŭn pran jua kaih đaŏ abih tơlơi ƀing pô laĭ lui hlâo hmâo pơhiăp laih !
+42024038a	yua hơgĕt		Yêsu laĭ kơ gơñu , “ Yua hơgĕt ƀing gih rŭng răng , 
+42024038b	yua hơgĕt		laih anŭn yua hơgĕt ƀing gih ăt dŏ đing amăng pran jua kar hăng anŭn ?
+43001019	Hlơi		Anai jing tơlơi Yôhan ngă gơ̆ng jơlan , tơ ƀing Yuđa pơkiaŏ ƀing khua ngă yang hăng ƀing mơnuih Lêwi mơ̆ng plei Yêrusalem nao tơña kơ ñu , “ Hlơi ih jing ? ”
+43001021	hlơi		Gơñu tơña dơ̆ng , “ Tui anŭn hlơi ih jing ? Djơ̆ mơ̆ ih jing Êli ? ” Ñu laĭ glaĭ , “ Kâo ƀu djơ̆ Êli ôh . ” Gơñu tơña dơ̆ng , “ Ih jing pô laĭ lui hlâo hă ? ” Yôhan laĭ glaĭ , “ Ư ưh . ”
+43001022a	Hlơi		Gơñu laĭ kơ ñu , “ Tui anŭn hlơi ih jing lĕ ? Kiăng kơ gơmơi dưi laĭ glaĭ kơ ƀing hmâo pơkiaŏ rai gơmơi . 
+43001022b	Hlơi		Hlơi ih laĭ ih jing ? ”
+43001025	hyư̆m		gơñu tơña kơ Yôhan , “ Tơdah ih ƀu jing Yang Krist ôh , kŏn djơ̆ Êli , ăt kŏn djơ̆ pô laĭ lui hlâo lơi , tui anŭn hyư̆m ih dưi ngă ƀatem lĕ ? ”
+43001038a	Hơgĕt		Yêsu wir glaĭ , ƀuh gơñu đuaĭ tui , Yêsu tơña , “ Hơgĕt ƀing gih sem ? ” Gơñu laĭ glaĭ , 
+43001038b	pơpă		“ Rabi ‘ kiăng laĭ Nai ’ , pơpă anih Ih dŏ ? ”
+43001046	hơgĕt		Natanel laĭ , “ Hmâo tơlơi hơgĕt hiam tơbiă rai mơ̆ng plei Nasaret ? ” Philip laĭ , “ Rai lăng bĕ ! ”
+43001048	Hyư̆m		Natanel tơña kơ Yêsu , “ Hyư̆m ih thâo krăn kâo ? ” Yêsu laĭ glaĭ , “ Hlâo kơ Philip iâu ih , hlak ih dŏ gah yŭ phŭn hra Kâo ƀuh ih laih . ”
+43002004	hơgĕt		Yêsu laĭ glaĭ , “ Ơ amĭ , hơgĕt tơlơi anai djơ̆ kơ ih hăng kâo ? Mông kâo aka truh ôh . ”
+43002018a	~		
+43002018b	Hơgĕt		Ƀing Yuđa tơña kơ Ñu , “ Hơgĕt gru kơnăl mơyang Ih pơrơđah kơ gơmơi ƀuh kiăng pơklă kơ tơlơi dưi Ih dưi ngă bruă anai ? ”
+43003004	Hyư̆m		Nikôđem laĭ glaĭ , “ Hyư̆m sa čô mơnuih tha laih dưi tơkeng glaĭ dơ̆ng ? Dưi mơ̆ ñu mŭt glaĭ amăng kian amĭ ñu hăng tơkeng tal dua dơ̆ng ? ”
+43003009	Hyư̆m		Nikôđem tơña “ Hyư̆m tơlơi anai dưi jing lĕ ? ”
+43003012	hyư̆m		Tơdah kâo pơhaih kơ ƀing gih khul tơlơi amăng lŏn tơnah , ƀing gih ăt kŏn đaŏ mơ̆n . Hloh kơ anŭn dơ̆ng hyư̆m ƀing gih dưi đaŏ tơdah Kâo pơhaih kơ ƀing gih khul tơlơi amăng adai ?
+43004009	Hyư̆m		Đah kơmơi Samari laĭ kơ Ñu , “ Hyư̆m , Ih jing mơnuih Yuđa pŭng kơ rơkâo mơñum ia mơ̆ng kâo jing đah kơmơi Samari lĕ ? ” ( Yua kơ mơnuih Yuđa ƀu pơgop pơlir hăng mơnuih Samari ôh . )
+43004011	pơpă		Đah kơmơi laĭ kơ Ñu , “ Ơ Khua , ih ƀu hmâo kơthŭng sŏ ia ôh , hloh kơ anŭn ia dơmun anai dlam dơ̆ng ; tui anŭn mơ̆ng pơpă ih hmâo ia hơdip anŭn lĕ ?
+43004027a	Hơgĕt		Hlak anŭn ƀing ding kơna Ñu truh . Gơñu kơtuă hling ƀuh Ñu dŏ pơhiăp hăng sa čô đah kơmơi , samơ̆ ƀu hmâo ôh sa čô tơña kơ Ñu , “ Hơgĕt Ih kiăng ? ” 
+43004027b	Hyư̆m		Ƀôdah “ Hyư̆m Ih dŏ pơhiăp hăng ñu ? ”
+43005012	Hlơi		Gơñu tơña kơ gơ̆ , “ Hlơi laĭ kơ ih ‘ glăm ba kiao ih hăng rơbat nao ? ’ ”
+43005044	hyư̆m		Ƀing gih khăp mă tŭ tơlơi guh kơang mơ̆ng tơdruă samơ̆ gih ƀu hơduah ôh tơlơi ư ang rai mơ̆ng hơjăn Ơi Adai . Tui anŭn hyư̆m ƀing gih dưi đaŏ lĕ ?
+43005047	hyư̆m		Samơ̆ tơdah ƀing gih ƀu đaŏ ôh kơ tơlơi ñu čih , hyư̆m ƀing gih dưi đaŏ kơ tơlơi Kâo pơhiăp ? ”
+43006005	Pơpă		Tơdang Yêsu angak mơta Ñu ƀuh phung mơnuih lu rai pơ Ñu , Ñu laĭ kơ Philip , “ Pơpă ƀing ta či blơi ƀañ tơpŭng , kiăng brơi ƀing mơnuih anai ƀŏng ? ”
+43006009	hyư̆m		“ Hmâo sa čô čơđai đah rơkơi hmâo rơma klŏ ƀañ tơpŭng pơdai ôrgơ hăng dua drơi akan ; samơ̆ hyư̆m dưi djŏp kơ mơnuih lu lĭn anai ? ”
+43006025	hơbin		Tơ gơñu ƀuh Yêsu ƀơi hang gah adih ia rơsĭ , gơñu laĭ kơ Ñu , “ Ơ Nai , hơbin Ih truh pơ anai ? ”
+43006028	Hơgĕt		Gơñu laĭ kơ Yêsu , “ Hơgĕt gơmơi khŏm ngă , kiăng mă bruă kơ Ơi Adai ? ”
+43006030a	Hơgĕt		Gơñu laĭ kơ Yêsu , “ Tui anŭn hơgĕt gru kơnăl mơyang Ih ngă kiăng kơ gơmơi ƀuh laih anŭn đaŏ kơ Ih ? 
+43006030b	Hơgĕt		Hơgĕt bruă Ih ngă lĕ ?
+43006042	hyư̆m		Gơñu laĭ , “ Ƀu djơ̆ ôh hă anai jing Yêsu ană Yôsep , amĭ ama Ñu ƀing ta thâo soh sel ? Tui anŭn hyư̆m ră anai Ñu laĭ , ‘ Kâo trŭn rai mơ̆ng adai ? ’ ”
+43006052	Hyư̆m		Yua kơ tơlơi anŭn ƀing ană Yuđa pơrơjah tơdruă gơñu hăng laĭ , “ Hyư̆m mơnuih anai dưi brơi ƀing ta ƀŏng asar ñu lĕ ? ”
+43006060	Hlơi		Lu ƀing ding kơna Ñu hmư̆ tơlơi anai , gơñu laĭ “ Boh pơhiăp anai tơnap đơi thâo hluh . Hlơi pô dưi hmư̆ tơlơi anŭn ? ”
+43006062	hơgĕt		Tui anŭn , hơgĕt tơlơi ƀing gih pơmĭn tơdah ƀing gih ƀuh Ană Mơnuih đĭ nao pơ anih Ñu dŏ laih mơ̆ng hlâo ?
+43006068	hlơi		Simôn Pêtrôs laĭ glaĭ , “ Ơ Khua , kơ hlơi ƀing gơmơi či đuaĭ tui ? Ih yơh hmâo boh pơhiăp kơ tơlơi hơdip hlŏng lar .
+43007011	Pơpă		Ƀing Yuđa hyu sem Yêsu amăng anih tơlơi phĕt anŭn hăng laĭ , “ Pơpă Ñu ? ”
+43007015	Hyư̆m		Ƀing Yuđa kơtuă hling kơ tơlơi anŭn hăng laĭ , “ Hyư̆m mơnuih anai dưi thâo Hră Ơi Adai Pơhiăp lu tui anŭn , Ñu aka hrăm djơ̆ ôh ? ”
+43007019	Hyư̆m		Ƀu djơ̆ ôh hă Môis hmâo brơi laih tơlơi juăt kơ ƀing gih ? Samơ̆ ƀu hmâo ôh sa čô amăng ƀing gih gưt ngă tui tơlơi juăt . Hyư̆m ƀing gih sem hơduah kiăng pơdjai Kâo lĕ ? ”
+43007020	Hlơi		Ƀing ană plei laĭ glaĭ , “ Amăng ih hmâo yang sat ! Hlơi hơduah sem kiăng pơdjai ih ? ”
+43007023	hyư̆m		Tơdah sa čô đah rơkơi khŏm tŭ tơlơi khăt klĭ amăng hrơi saƀat kiăng kơ ƀu hmâo gao ôh tơlơi juăt Môis , hyư̆m ƀing gih hil kơ Kâo yua kơ Kâo hmâo pơsuaih abih drơi jan sa čô mơnuih amăng hrơi saƀat lĕ ?
+43007035	Pơpă		Ƀing Yuđa bơlaĭ tơdruă gơñu , “ Pơpă pô anai pơmĭn kiăng nao tơl ƀing ta ƀu či ƀuh Ñu ôh ? Djơ̆ mơ̆ Ñu či nao pơ ƀing bra hyu tơ̆ng krah ƀing Grek hăng pơtô kơ ƀing Grek mơ̆ ?
+43007036	Hơgĕt		Hơgĕt Ñu kiăng laĭ , ‘ Ƀing gih či sem hơduah Kâo , samơ̆ ƀing gih ƀu či ƀuh ôh ’ , laih anŭn ‘ ƀơi anih Kâo dŏ ƀing gih ƀu dưi nao ôh ? ’ ”
+43007041	~		Ƀing pơkŏn laĭ , “ Anai yơh Yang Krist . ” Samơ̆ đơđa laĭ , “ Yang Krist ƀu tơbiă rai mơ̆ng tring Galilê ôh .
+43007045	Hyư̆m		Tui anŭn , ƀing khua tơhan gak wai sang kơkuh pơpŭ wơ̆t glaĭ pơ ƀing khua ngă yang prŏng hăng ƀing Pharisi , laih anŭn gơñu tơña , “ Hyư̆m ƀing gih ƀu mă Yêsu ba rai pơ anai ? ”
+43007048	hlơi		Hmâo mơ̆ hlơi amăng ƀing khua ană Yuđa ƀôdah ƀing mơnuih Pharisi đaŏ kơ Ñu ?
+43007051	hơgĕt		“ Tui tơlơi juăt ƀing ta ƀu dưi mă phat kơđi ôh kơ sa čô mơnuih tơdah aka ƀu hmâo tơña sem laih hơgĕt tơlơi ñu hmâo ngă . ”
+43008005	hyư̆m		Amăng tơlơi juăt Môis pơtă brơi ƀing ta khŏm glŏm boh pơtâo pơdjai hĭ pô ngă kar hăng tui anŭn . Bơ Ih hyư̆m Ih laĭ kơ tơlơi anŭn ? ”
+43008010	Pơpă		Yêsu angak mơta hăng laĭ kơ đah kơmơi anŭn , “ Pơpă ƀing pơčŭt kơ ih lĕ ? Ƀu hmâo hlơi klă kơđi kơ ih ôh hă ? ”
+43008019	Pơpă		Tui anŭn gơñu tơña kơ Yêsu , “ Pơpă Ama Ih ? ” Yêsu laĭ glaĭ , “ Ƀing gih ƀu thâo krăn Kâo ôh , ăt ƀing gih ƀu thâo krăn Ama Kâo lơi . Tơdah ƀing gih thâo krăn Kâo , ƀing gih ăt thâo krăn Ama Kâo mơ̆n . ”
+43008025a	Hlơi		Gơñu tơña kơ Yêsu , “ Hlơi Ih jing ? ” 
+43008025b	~		Yêsu laĭ glaĭ , “ Hrup hăng Kâo hmâo laĭ laih hăng ƀing gih mơ̆ng phŭn blung .
+43008033	Hyư̆m		Ƀing ană Yuđa laĭ glaĭ , “ Gơmơi jing ană tơčo Abraham , laih anŭn gơmơi aka ngă djơ̆ hlŭn kơ arăng ôh . Hyư̆m tơlơi Ih laĭ , ‘ Ƀing gih či dưi jing rơngai ’ ? ”
+43008043	Yua hơgĕt		Yua hơgĕt ƀing gih ƀu thâo hluh ôh tơlơi Kâo pơhiăp ? Yua kơ ƀing gih ƀu anăm hơmư̆ ôh boh pơhiăp Kâo .
+43008046a	Hlơi		Hlơi pô amăng ƀing gih dưi črâo tơlơi soh Kâo ngă ? 
+43008046b	yua hơgĕt		Tơdah Kâo pơhiăp tơlơi sĭt , yua hơgĕt ƀing gih ƀu đaŏ kơ Kâo ?
+43008053	Hlơi		Ih jing Pô prŏng hloh kơ Abraham , ama gơmơi pô hmâo djai laih mơ̆ ? Laih anŭn ƀing pô laĭ lui hlâo ăt djai laih mơ̆n . Hlơi Ih pơmĭn Ih jing ? ”
+43008057	hyư̆m		Ƀing Yuđa laĭ kơ Ñu , “ Ih aka hmâo rơma pluh thŭn ôh , hyư̆m Ih ƀuh Abraham laih hă ? ”
+43009002	hlơi		Ƀing ding kơna tơña kơ Yêsu , “ Ơ Nai , tơlơi soh hlơi ngă kơ ñu bum mơta anai ; tơlơi soh ñu , ƀôdah tơlơi soh amĭ ama ñu ? ”
+43009010	hyư̆m		Gơñu tơña kơ gơ̆ , “ Tui anŭn hyư̆m mơta ih dưi ƀuh ? ”
+43009012	Pơpă		Gơñu tơña , “ Pơpă ñu lĕ ? ” Ñu laĭ glaĭ , “ Kâo ƀu thâo ôh . ”
+43009016	Hyư̆m		Hmâo mơnuih amăng ƀing Pharisi laĭ , “ Mơnuih anai ƀu djơ̆ rai mơ̆ng Ơi Adai ôh , yua kơ ñu ƀu gưt tui tơlơi juăt hrơi saƀat ôh . ” Samơ̆ ƀing pơkŏn laĭ , “ Hyư̆m sa čô mơnuih soh dưi ngă tơlơi mơsêh mơyang kar hăng anŭn lĕ ? ” Laih anŭn hmâo tơlơi kah pơpha tơdruă gơñu .
+43009017	hyư̆m		Tui anŭn gơñu tơña kơ pô bum anŭn dơ̆ng , “ Bơ ih , hyư̆m ih laĭ kơ ñu jing , yua kơ ñu hmâo pơsuaih mơta ih . ” Ñu laĭ glaĭ , “ Ñu jing sa čô pô laĭ lui hlâo . ”
+43009019	hyư̆m		gơñu tơña kơ amĭ ama gơ̆ , “ Djơ̆ mơ̆ anai jing ană đah rơkơi ƀing gih , jing pô bum mơta mơ̆ng hrơi amĭ tơkeng ? Tui anŭn hyư̆m ră anai ñu thâo ƀuh lĕ ? ”
+43009026a	Hơgĕt		Gơñu tơña dơ̆ng , “ Hơgĕt ñu hmâo ngă laih kơ ih ? 
+43009026b	Hyư̆m		Hyư̆m ñu hmâo pơsuaih laih mơta ih ? ”
+43009027	hyư̆m		Gơ̆ laĭ glaĭ , “ Kâo hmâo laĭ laih kơ ƀing gih , samơ̆ ƀing gih ƀu kiăng hơmư̆ ôh , hyư̆m ƀing gih kiăng hơmư̆ dơ̆ng hă ? Djơ̆ mơ̆ ƀing gih ăt kiăng jing ding kơna Ñu ? ”
+43009034	~		Gơñu laĭ kơ gơ̆ , “ Arăng hmâo tơkeng laih ŏng amăng tơlơi soh , samơ̆ ŏng kiăng pơtô gơmơi hă ? ” Laih anŭn gơñu pơpuh pơđuaĭ hĭ gơ̆ mơ̆ng sang bơjơnum .
+43009036	hlơi		Gơ̆ laĭ glaĭ , “ Ơ khua , hlơi Ñu anŭn , kiăng kơ kâo dưi đaŏ kơ Ñu ? ”
+43010020	hyư̆m		Lu amăng ƀing ană Yuđa laĭ , “ Ñu hmâo yang sat ngă , ñu jing hưt , hyư̆m ƀing gih kiăng dŏ hơmư̆ ñu lĕ ? ”
+43010021	~		Samơ̆ đơđa ƀing pơkŏn laĭ , “ Tơlơi pơhiăp anŭn ƀu djơ̆ mơ̆ng sa čô yang sat ngă ôh . Yang sat dưi pơsuaih sa čô mơnuih bum mơta mơ̆n hă ? ”
+43010024	Hơdôm sui		Ƀing Yuđa pơƀŭt jum dar Ñu hăng tơña kơ Ñu , “ Hơdôm sui dơ̆ng Ih či lui gơmơi dŏ čang tơguan ? Tơdah Ih jing Krist , brơi Ih pơhiăp klă rơđah kơ gơmơi bĕ . ”
+43010032	~		Yêsu laĭ glaĭ , “ Kâo hmâo pơrơđah laih kơ ƀing gih lu bruă hiam mơ̆ng Ama . Djơ̆ mơ̆ yua kơ bruă anŭn ƀing gih kiăng glŏm boh pơtâo kơ Kâo ? ”
+43010036	Hyư̆m		Bơ Kâo , jing pô Ama hmâo pơkah pioh kơ rơgoh hăng pơkiaŏ rai amăng lŏn tơnah . Hyư̆m ƀing gih laĭ Kâo pơhiăp pơgao hmiah hăng Ơi Adai , tơdah Kâo laĭ , ‘ Kâo jing Ană Ơi Adai lĕ ? ’
+43011034	Pơpă		Ñu tơña , “ Pơpă anih ƀing gih dơr gơ̆ ? ” Ƀing anŭn laĭ glaĭ kơ Ñu , “ Ơ Khua , rai lăng bĕ . ”
+43011047	Hơgĕt		Tui anŭn , ƀing khua ngă yang prŏng hăng ƀing Pharisi iâu pơƀŭt ƀing khua phat kơđi hăng laĭ , “ Hơgĕt ƀing ta či ngă ? Yua kơ pô anai ngă lu tơlơi mơsêh mơyang biă mă .
+43011056	Hyư̆m		Gơñu hơduah sem Yêsu , laih anŭn tơdang gơñu dŏ dơ̆ng amăng sang kơkuh pơpŭ , gơñu bơlaĭ tơdruă , “ Hyư̆m ƀing gih pơmĭn ? Yêsu ƀu či rai ôh hă kơ tơlơi phĕt anai ? ”
+43012005	Hyư̆m		“ Hyư̆m ƀu sĭ hĭ ia klôñ ƀâo hiam anŭn hăng nua klâo rơtuh đơniê laih anŭn pha brơi kơ ƀing mơnuih ƀun rin ? ”
+43012027	Hơgĕt		“ Ră anai bơngăt jua Kâo rŭng răng biă mă . Hơgĕt Kâo či laĭ , ‘ Ơ Ama , pơklaih Kâo mơ̆ng mông anai ? ’ Ơ ơh , samơ̆ yua kơ mông anai yơh Kâo hmâo rai laih .
+43012034a	Hyư̆m		Phung mơnuih lu laĭ glaĭ , “ Ƀing gơmơi hmâo hmư̆ laih amăng hră tơlơi juăt laĭ kơ Yang Krist dŏ hlŏng lar . Hyư̆m Ih dưi laĭ arăng khŏm yol đĭ Ană Mơnuih pơ glông lĕ ? 
+43012034b	Hlơi		Hlơi Ană Mơnuih anŭn ? ”
+43012038a	hlơi		Tơlơi anŭn kiăng pơsĭt tơlơi pô laĭ lui hlâo Êsai hmâo pơhiăp laih : “ Ơ Khua Yang , hlơi hmâo đaŏ laih kơ tơlơi gơmơi pơtô , 
+43012038b	hlơi		laih anŭn kơ hlơi pô tơngan Khua Yang hmâo pơrơđah brơi laih lĕ ? ”
+43013025	hlơi		Tui anŭn , tơdang ah ƀơi tơda Yêsu gơ̆ tơña kơ Yêsu , “ Ơ Khua , hlơi pô anŭn ? ”
+43013036	pơpă		Simôn Pêtrôs tơña kơ Yêsu , “ Ơ Khua Yang , pơpă Ih nao ? ” Yêsu laĭ glaĭ , “ Anih Kâo nao , ră anai ih ƀu dưi đuaĭ tui ôh , samơ̆ tơdơi ih či đuaĭ tui . ”
+43013037	yua hơgĕt		Pêtrôs tơña , “ Ơ Khua , yua hơgĕt ră anai kâo ƀu dưi đuaĭ tui Ih ôh ? Kâo či pơsăn tơlơi hơdip kâo yua kơ Ih . ”
+43014002	~		Amăng sang Ama Kâo hmâo lu anih dŏ , tơdah ƀu djơ̆ tui anŭn ôh , Kâo ƀu či laĭ kơ ƀing gih . Kâo nao kiăng kơ prăp pre sa boh anih kơ ƀing gih .
+43014005	hyư̆m		Thômas laĭ kơ Ñu , “ Ơ Khua , gơmơi ƀu thâo ôh pơpă anih Ih nao , hyư̆m gơmơi dưi thâo jơlan anŭn lĕ ? ”
+43014009	Hyư̆m		Yêsu laĭ glaĭ , “ Ơ Philip , Kâo hmâo dŏ hăng ƀing ih sui laih samơ̆ ih ƀu thâo krăn Kâo ôh ! Hlơi pô ƀuh laih Kâo , jing ñu ƀuh Ama yơh . Hyư̆m ih laĭ , ‘ Kơčrâo brơi Ama kơ gơmơi bĕ ? ’
+43014022	yua hơgĕt		Yudas , ƀu djơ̆ Iskariôt ôh , tơña kơ Yêsu , “ Ơ Khua , yua hơgĕt Ih či pơrơđah Ih pô kơ gơmơi , samơ̆ ƀu pơrơđah kơ lŏn tơnah ôh ? ”
+43016005	Pơpă		Samơ̆ ră anai Kâo či wơ̆t glaĭ pơ Pô hmâo pơkiaŏ rai Kâo , ƀu hmâo hlơi amăng ƀing gih tơña kơ Kâo , ‘ Pơpă Ih nao ? ’
+43016017	Hơgĕt		Hmâo đơđa amăng ƀing ding kơna Yêsu bơlaĭ tơdruă gơñu , “ Nai laĭ hăng ƀing ta : ‘ Dŏ ƀiă mông ƀing gih ƀu či ƀuh Kâo ôh ; laih anŭn dŏ ƀiă mông dơ̆ng ƀing gih či ƀuh Kâo dơ̆ng , yua kơ Kâo glaĭ pơ Ama . ’ Hơgĕt tơlơi anai kiăng laĭ ? ”
+43016018	hơgĕt		Gơñu laĭ , “ ‘ Dŏ ƀiă mông ’ hơgĕt tơlơi Ñu kiăng laĭ ? Ƀing ta ƀu thâo hluh ôh tơlơi anŭn . ”
+43018004	hlơi		Yêsu thâo abih bang tơlơi či truh kơ Ñu , tui anŭn Ñu nao hăng tơña ƀing anŭn , “ Ƀing gih sem hlơi ? ”
+43018007	Hlơi		Yêsu tơña dơ̆ng , “ Hlơi gih sem ? ” Gơñu laĭ glaĭ , “ Yêsu , Plei Nasaret . ”
+43018011	hyư̆m		Yêsu laĭ kơ Pêtrôs , “ Jek glaĭ bĕ đao ih amăng hrŭm ñu . Kơčok Ama hmâo brơi laih kơ Kâo , hyư̆m Kâo ƀu mơñum ôh hă ? ”
+43018021	Hyư̆m		Hyư̆m ih tơña kơ Kâo ? Tơña bĕ ƀing hmâo hmư̆ laih hơgĕt tơlơi Kâo hmâo pơhiăp laih hăng gơñu . Ƀing anŭn thâo laih hơdôm tơlơi Kâo hmâo pơhiăp . ”
+43018023	yua hơgĕt		Yêsu laĭ glaĭ , “ Tơdah Kâo pơhiăp soh , laĭ brơi kơ Kâo thâo tơlơi ƀu djơ̆ anŭn bĕ , samơ̆ tơdah Kâo pơhiăp djơ̆ yua hơgĕt ih pah meng Kâo lĕ ? ”
+43018029	hơgĕt		Tui anŭn yơh Pilat tơbiă nao pơ ƀing gơñu hăng laĭ , “ Yua kơ tơlơi hơgĕt ƀing gih phong kơ pô anai ? ”
+43018035	Hơgĕt		Pilat laĭ glaĭ , “ Kâo ƀu djơ̆ ană Yuđa ôh . Ƀing kơnŭng djuai ih pô hăng ƀing khua ngă yang prŏng hmâo jao ih kơ kâo . Hơgĕt tơlơi ih hmâo ngă ? ”
+43018038	Hơgĕt		Pilat tơña , “ Hơgĕt jing tơlơi sĭt ? ” Giơ̆ng kơ Pilat laĭ tơlơi anŭn , ñu tơbiă nao pơ ƀing ană Yuđa dơ̆ng hăng laĭ kơ gơñu , “ Kâo ƀu ƀuh ôh tơlơi soh amăng Ñu .
+43019009	mơ̆ng pă		Ñu mŭt glaĭ amăng sang pơtao hăng tơña kơ Yêsu , “ Mơ̆ng pă ih rai ? ” Samơ̆ Yêsu ƀu laĭ glaĭ ôh .
+43019015	Hyư̆m		Gơñu ur kraih , “ Pơdjai hĭ Ñu , pơdjai hĭ Ñu , pơ̆ng Ñu pơ kơyâo bơrơkal ! ” Pilat laĭ , “ Hyư̆m ƀing gih kiăng kâo pơ̆ng hĭ pơtao ƀing gih pơ kơyâo bơrơkal ? ” Ƀing khua ngă yang prŏng laĭ glaĭ , “ Gơmơi ƀu hmâo pơtao pơkŏn dơ̆ng ôh , kơnơ̆ng hơjăn Sêsar đôč . ”
+43020013	yua hơgĕt		Gơñu tơña , “ Ơ đah kơmơi , yua hơgĕt ih hia lĕ ? ” H'Mari laĭ glaĭ , “ Yua kơ arăng hmâo mă pơđuaĭ hĭ Khua Yang kâo , laih anŭn kâo ƀu thâo ôh pơpă anih arăng pioh Ñu . ”
+43020015a	yua hơgĕt		Yêsu tơña ñu , “ Ơ đah kơmơi , yua hơgĕt ih hia lĕ ? 
+43020015b	Hlơi		Hlơi ih sem ? ” H'Mari pơmĭn dah ñu jing pô wai đang kơyâo , hnŭn yơh ñu laĭ , “ Ơ Khua tơdah ih hmâo mă pơđuaĭ hĭ Ñu , laĭ brơi kơ kâo pơpă anih ih pioh Ñu , laih anŭn kâo či nao mă tŭ Ñu . ”
+43021012	Hlơi		Yêsu laĭ kơ gơñu , “ Rai ƀŏng bĕ . ” Ƀu hmâo ôh sa čô amăng ƀing khua ding kơna khĭn tơña kơ Ñu , “ Hlơi ih jing ? ” Yua kơ gơñu thâo sĭt anŭn jing Khua Yang .
+43021020	hlơi		Pêtrôs wir glaĭ ƀuh ding kơna Yêsu khăp hlak đuaĭ tui tơdơi , jing pô hmâo ah boh akŏ ƀơi tơda Yêsu amăng sa tơlơi ƀŏng huă anŭn laih anŭn tơña kơ Yêsu , “ Ơ Khua Yang , hlơi pô či pơblư̆ lui Ih ? ”
+43021021	hơgĕt		Tơ ƀuh pô anŭn , Pêtrôs tơña kơ Yêsu , “ Ơ Khua Yang , bơ kơ pô anai hơgĕt tơlơi či truh kơ ñu lĕ ? ”
+43021022	hơgĕt		Yêsu laĭ glaĭ , “ Tơdah Kâo kiăng kơ ñu dŏ hơdip tơl Kâo rai dơ̆ng , hơgĕt tơlơi anŭn djơ̆ kơ ih ? Gah kơ ih , đuaĭ tui Kâo bĕ ! ”
+43021023	hơgĕt		Yua kơ anŭn , hmâo tơlơi hơmư̆ hing tơ̆ng krah ƀing adơi ayŏng đaŏ kơ khua ding kơna anŭn ƀu či djai ôh ; Yêsu ƀu laĭ ôh kơ khua ding kơna anŭn ƀu či djai , samơ̆ Ñu laĭ “ Tơdah Kâo kiăng ñu dŏ hơdip tơl Kâo rai dơ̆ng , hơgĕt tơlơi anŭn djơ̆ kơ ih ? ”
+44001011	hyư̆m		hăng laĭ , “ Ơ ƀing mơnuih Galilê , hyư̆m ƀing gih dŏ dơ̆ng lăng đĭ nanao pơ adai lĕ ? Yêsu anai , Pô Ơi Adai hmâo pŭ đĭ laih pơ adai mơ̆ng ƀing gih , ăt či trŭn rai dơ̆ng mơ̆n kar hăng ƀing gih hmâo ƀuh Ñu đĭ pơ adai . ”
+44002008	hyư̆m		Tui anŭn hyư̆m rĭm čô ƀing ta hơmư̆ gơñu pơhiăp tơlơi pơhiăp čar ta pô lĕ ?
+44002012	Hơgĕt		Abih bang gơñu hwĭ kơtuă hăng rŭng răng , bơlaĭ tơdruă gơñu , “ Hơgĕt tơlơi anai jing ? ”
+44002037	hơgĕt		Tơ hơmư̆ tơlơi anŭn , amăng pran jua gơñu hmâo tơlơi kơčŭt kơtang biă mă . Tui anŭn gơñu tơña kơ Pêtrôs laih anŭn kơ ƀing khua ding kơna pơkŏn , “ Ơ ƀing adơi ayŏng , hơgĕt gơmơi khŏm ngă ? ”
+44003012a	yua hơgĕt		Tơ Pêtrôs ƀuh tơlơi anŭn , ñu laĭ hăng ƀing ană plei , “ Ơ ƀing ană plei pla Israel , yua hơgĕt ƀing gih kơtuă hling kơ tơlơi anai ? 
+44003012b	yua hơgĕt		Yua hơgĕt ƀing gih lăng pơñen kơ ƀing gơmơi ? Ƀing gih pơmĭn gơmơi dưi ngă brơi kơ mơnuih anai dưi rơbat yua mơ̆ng tơlơi dưi mơyang ƀôdah tơlơi tơpă gơmơi pô hă ?
+44004007a	~		
+44004007b	pă		Gơñu ba rai Pêtrôs hăng Yôhan dŏ tơ̆ng krah gơñu , hăng tơña , “ Mơ̆ng tơlơi dưi mơyang pă 
+44004007c	hlơi		ƀôdah amăng anăn hlơi ƀing gih dưi ngă tơlơi anai ? ”
+44004016	Hyư̆m		“ Hyư̆m ƀing ta či ngă kơ dua čô anai ? Yua kơ abih bang ƀing ană plei Yêrusalem leng kơ thâo sĭt gơñu hmâo ngă tơlơi mơsêh mơyang rơđah rơđong , laih anŭn ƀing ta ƀu dưi hơngah kơ tơlơi anŭn ôh .
+44004025a	yua hơgĕt		Ih hmâo yua laih Yang Bơngăt Hiam pơhiăp găn amăng bah ơi adon gơmơi , Đawit ding kơna Ih : ‘ Yua hơgĕt ƀing djuai tuai kreñ nač , 
+44004025b	~		laih anŭn ƀing ană plei pla dưm tơlơi mơneč đôč đač ?
+44005003	hyư̆m		Pêtrôs laĭ hăng ñu , “ Ơ Ananias , hyư̆m satan hmâo bă blai pran jua ih , tơl ih ƀlor kơ Yang Bơngăt Hiam , hăng djă pioh sa črăn nua lŏn ?
+44005004	Hyư̆m		Hlak ih aka sĭ lŏn anŭn ôh , hyư̆m ƀu djơ̆ ôh hă ñu ăt jing gơnam ih pô ? Laih anŭn tơ ih sĭ laih lŏn anŭn , ƀu djơ̆ ôh hă ih dưi yua prăk anŭn tui hăng ih kiăng ? Hyư̆m ih pơmĭn amăng pran jua tơl ih ngă tơlơi anai ? Ih hmâo ƀlor ƀu djơ̆ kơ mơnuih ôh , samơ̆ ih ƀlor kơ Ơi Adai . ”
+44005009	Hyư̆m		Tui anŭn Pêtrôs laĭ , “ Hyư̆m ƀing gih sa pran jua khĭn kiăng lông lăng Yang Bơngăt Hiam Khua Yang ? Lăng adih , tơkai ƀing glaĭ mơ̆ng dơr rơkơi ih truh ƀơi bah amăng laih , laih anŭn gơñu či čơkung nao dơr ih kar kaĭ mơ̆n . ”
+44007026	hyư̆m		Hrơi tơdơi ñu ƀuh dua čô Israel pơrơdjơ̆ pơtaih tơdruă gơñu , Môis nao jĕ kiăng ngă pơrơnom glaĭ hăng laĭ , ‘ Hơi , hơmư̆ kâo bĕ ƀing gih jing adơi ayŏng hyư̆m kiăng ngă pơrăm tơdruă lĕ ? ’
+44007027	Hlơi		Samơ̆ pô kơtư̆ juă ƀing gơ̆p ñu anŭn gah lui Môis hăng laĭ , ‘ Hlơi hmâo pơjing ih khua wai lăng hăng khua phat kơđi kơ gơmơi ?
+44007035	Hlơi		Môis anai yơh , pô gơñu hmâo hơngah laih hăng laĭ , ‘ Hlơi hmâo pơjing ih khua wai lăng hăng khua phat kơđi kơ gơmơi ? ’ ñu yơh Ơi Adai pơkiaŏ nao jing khua wai lăng laih anŭn jing pô pơrơngai hăng tơngan ling jang , pô hmâo pơƀuh laih kơ ñu amăng pum drơi .
+44007049a	pă		‘ Khua Yang laĭ , Adai jing gre pơtao Kâo , Laih anŭn lŏn tơnah jing hnăl tơkai Kâo juă . Sang pă ƀing gih či pơdơ̆ng brơi kơ Kâo , 
+44007049b	pă		Ƀôdah anih pă jing anih brơi Kâo dŏ pơdơi ?
+44007052	hlơi		Hmâo mơ̆ hlơi amăng ƀing pô laĭ lui hlâo ƀing ơi adon ƀing gih ƀu hmâo ngă sat ôh ? Gơñu ăt pơdjai mơ̆n ƀing laĭ lui hlâo kơ Pô Tơpă či rai , Pô Tơpă anŭn ră anai ƀing gih hmâo pơblư̆ lui hăng pơdjai hĭ laih .
+44008031	hyư̆m		Khua anŭn laĭ glaĭ , “ Tơdah ƀu hmâo hlơi pơblang brơi kâo ôh , hyư̆m kâo dưi thâo hluh lĕ ? ” Giơ̆ng anŭn ñu jak Philip đĭ amăng rơdeh hrŏm hăng ñu .
+44008033	hlơi		Tơdang Ñu tŭ tơlơi arăng pơmlâo Ñu , arăng ƀu phat kơđi tơpă kơ Ñu ôh . Ƀu hmâo hlơi dưi ră ruai djơ̆ kơ kơnŭng djuai Ñu ? Yua kơ arăng mă pơđuaĭ hĭ laih tơlơi hơdip Ñu mơ̆ng lŏn tơnah . ”
+44008034	hlơi		Khua anŭn laĭ hăng Philip , “ Kâo tơña kơ ih , pô laĭ lui hlâo laĭ tơlơi anŭn kơ hlơi ? Laĭ kơ ñu pô hă , ƀôdah kơ sa čô pô pơkŏn ? ”
+44008036	hơgĕt		Tơdang dua gơñu rơbat ƀơi rŏk jơlan , gơñu ƀuh ia , ding kơna kriao laĭ , “ Anai hmâo ia , hmâo tơlơi hơgĕt khă kâo kiăng tŭ ƀatem mơ̆ ? ”
+44009004	yua hơgĕt		Ñu rơbuh lĕ pơ lŏn hăng hơmư̆ asăp pơhiăp laĭ kơ ñu , “ Ơ Sôl , Ơ Sôl , yua hơgĕt ih ngă sat kơ Kâo ? ”
+44009005	hlơi		Ñu laĭ glaĭ , “ Ơ Khua , hlơi Ih ? ” Khua Yang laĭ , “ Kâo jing Yêsu pô ih hlak dŏ ngă sat .
+44009006	~		Samơ̆ tơgŭ bĕ mŭt amăng plei , laih anŭn arăng či laĭ brơi abih bang bruă kơ ih khŏm ngă . ”
+44010004	hơgĕt		Hăng tơlơi hwĭ tơtư̆ ñu lăng pơñen ling jang hăng laĭ , “ Ơ Khua , hmâo tơlơi hơgĕt ? ” Ling jang laĭ kơ ñu , “ Tơlơi ih iâu laĭ laih anŭn mơnơ̆ng ih brơi pap hmâo đĭ truh pơ Ơi Adai laih yơh , laih anŭn Ơi Adai hơdơr pioh tơlơi anŭn .
+44010021	Hơgĕt		Tui anŭn Pêtrôs trŭn nao pơ ƀing mơnuih anŭn hăng laĭ , “ Kâo gơ̆ yơh pô ƀing gih sem . Hơgĕt bruă ƀing gih rai ? ”
+44010029	yua hơgĕt		Yua kơ anŭn , tơ ƀing gih pơkiaŏ mơnuih nao iâu kâo , kâo ƀu hơngah rai ôh . Hnŭn yơh kâo tơña yua hơgĕt ƀing gih kiăng kâo rai ? ”
+44010047	Hlơi		“ Hlơi dưi hơngah hĭ tơlơi ƀatem hăng ia kơ ƀing ană plei hmâo mă tŭ laih Yang Bơngăt Hiam kar hăng ƀing ta mơ̆ ? ”
+44011017a	hlơi		Tui anŭn , tơdah Ơi Adai ăt brơi laih kơ gơñu gơnam brơi kar hăng Ñu hmâo brơi laih kơ ƀing ta hlak ƀing ta đaŏ kơ Khua Yang Yêsu Krist , hlơi kâo jing tơl kâo khĭn čơgăn hĭ Ơi Adai ? ”
+44011017b	~		
+44012018	hơgĕt		Tơ truh mơguah , hmâo tơlơi rŭng răng prŏng tơ̆ng krah ƀing tơhan , yua kơ gơñu ƀu thâo ôh hơgĕt tơlơi hmâo truh laih kơ Pêtrôs .
+44013025	Hlơi		Tơ Yôhan giăm ngă pơgiơ̆ng bruă ñu , ñu laĭ , ‘ Hlơi ƀing gih pơmĭn kâo jing ? Kâo ƀu djơ̆ jing Pô ƀing gih dŏ čang tơguan anŭn ôh . Samơ̆ hơmư̆ bĕ , hmâo sa čô rai tơdơi kơ kâo , kâo ƀu lăp ôh kleh brơi klĭ juă Ñu . ’
+44014015	Hyư̆m		“ Ơ ƀing gơyut ! Hyư̆m ƀing gih ngă tui anŭn lĕ ? Gơmơi kơnơ̆ng jing ƀing mơnuih kar hăng ƀing gih đôč , gơmơi pơtô Tơlơi Phrâo Hiam kơ ƀing gih kiăng kơ ƀing gih lui hĭ yang ƀu tŭ yua adih hăng wơ̆t glaĭ kơ Ơi Adai Pô hơdip , Pô hmâo pơjing lŏn adai , ia rơsĭ hăng abih bang mơnơ̆ng amăng anŭn .
+44015010	hyư̆m		Tui anŭn ră anai , hyư̆m ngă ƀing gih khĭn lông lăng Ơi Adai hăng tơlơi ƀing gih pơđua brơi ač ƀơi tơkuai ƀing ding kơna ? Ač anŭn ƀing ơi adon ƀing ta wơ̆t ƀing ta pô kŏn dưi glăm lơi .
+44016030	hơgĕt		Giơ̆ng anŭn ñu ba dua gơñu tơbiă pơ gah rơngiao , hăng tơña , “ Ơ ƀing khua , hơgĕt kâo khŏm ngă kiăng kơ dưi klaih ? ”
+44017018	Hơgĕt		Kar kaĭ mơ̆n hmâo đơđa ƀing hrăm lu amăng tơpul Êpikur laih anŭn ƀing Stôik bưp ñu . Đơđa gơñu laĭ , “ Hơgĕt pô thâo pơkrưh anai kiăng laĭ ? ” Ƀing pơkŏn laĭ , “ Rŏ dah pô anai pơtô tơlơi ƀing yang čar tuai , ” yua kơ Pôl pơtô Tơlơi Phrâo Hiam Yêsu laih anŭn tơlơi hơdip glaĭ .
+44017019	hơgĕt		Gơñu mă Pôl hăng ba nao pơ anih bơjơnum Arêôpa , hăng laĭ , “ Dưi mơ̆ ih brơi gơmơi thâo hơgĕt tơlơi pơtô phrâo ih hmâo anŭn ?
+44019003	hơgĕt		Ñu laĭ , “ Tui anŭn hơgĕt tơlơi ƀatem ƀing gih hmâo tŭ laih ? ” Gơñu laĭ glaĭ , “ Ƀatem Yôhan . ”
+44019015	hlơi		Samơ̆ yang sat laĭ glaĭ hăng gơñu , “ Kâo thâo krăn Yêsu laih anŭn ăt thâo krăn mơ̆n Pôl , samơ̆ bơ ƀing gih , hlơi ƀing gih jing ? ”
+44019035	hlơi		Tơhnal tuč , khua čih hră plei anŭn brơi ƀing lu dŏ rơiăt , ñu laĭ , “ Ơ ƀing Êphêsô , hlơi pô ƀu thâo Êphêsô jing pô gak wai sang kơkuh pơpŭ kơ yang đah kơmơi prŏng H'Artêmis laih anŭn boh pơtâo rup ñu lĕ mơ̆ng adai ?
+44021013a	hơgĕt		Samơ̆ Pôl laĭ glaĭ , “ Ƀing gih ngă hơgĕt , 
+44021013b	~		ƀing gih hia tui anŭn ngă pơruă pran jua kâo ? Yua kơ kâo prăp pre ƀu djơ̆ kơnơ̆ng tŭ tơlơi arăng čăp đôč ôh , samơ̆ wơ̆t kơ tŭ tơlơi djai pơ Yêrusalem yua kơ anăn Khua Yang Yêsu mơ̆n . ”
+44021022	hyư̆m		Tui anŭn , hyư̆m či ngă ? Sĭt yơh ƀing gơñu hơmư̆ kơ ih hmâo truh laih pơ anai .
+44021033a	hlơi		Khua tơhan nao giăm , mă Pôl hăng pơtă arăng čăp hĭ gơ̆ hăng dua ară hrĕ čuăk . Giơ̆ng anŭn ñu tơña hlơi ih jing , 
+44021033b	hơgĕt		laih anŭn hơgĕt ih hmâo ngă laih ?
+44022007	hyư̆m		Kâo rơbuh lĕ pơ lŏn hăng hơmư̆ asăp pơhiăp hăng kâo , ‘ Ơ Sôl , Ơ Sôl , hyư̆m ih ngă sat kơ Kâo ? ’
+44022008	hlơi		Kâo laĭ glaĭ , ‘ Ơ Khua , hlơi Ih ? ’ Ñu laĭ kơ kâo , ‘ Kâo jing Yêsu plei Nasaret , Pô ih hlak dŏ ngă sat . ’
+44022010	Hơgĕt		Kâo tơña , ‘ Ơ Khua Yang , Hơgĕt kâo či ngă ? ’ Laih anŭn Khua Yang laĭ kơ kâo , ‘ Tơgŭ bĕ nao pơ plei Damas , laih anŭn pơ anŭn či hmâo tơlơi laĭ brơi abih tơlơi Kâo hmâo ruah brơi laih kơ ih khŏm ngă . ’
+44022016	hơgĕt		Ră anai , hơgĕt ih dŏ tơguan dơ̆ng ? Tơgŭ bĕ laih anŭn tŭ ƀatem , pơrơgoh tơlơi soh ih , laih anŭn iâu laĭ kơ anăn Khua Yang . ’ ”
+44022026	Hyư̆m		Tơ khua tơhan hơmư̆ tơlơi Pôl pơhiăp tui anŭn , ñu nao tơña khua prŏng wai tơhan hăng laĭ , “ Hyư̆m ih či ngă tơlơi anai ? Yua kơ pô anai jing mơnuih Rôm . ”
+44023003	~		Pôl laĭ kơ ñu , “ Ơ pơnăng pik čur kô̆ anŭn hơi , Ơi Adai či taih hĭ ih . Ih dŏ ber kiăng phat kơđi kâo tui hăng tơlơi juăt samơ̆ ih ngă gao tơlơi juăt , pơđar arăng taih kâo ! ”
+44023009	Hyư̆m		Tui anŭn hmâo asăp ur prŏng . Hmâo đơđa ƀing nai pơtô tơlơi juăt amăng ƀing Pharisi tơgŭ hăng pơgăl kơtang biă mă , “ Gơmơi ƀu ƀuh sa mơta tơlơi soh hơgĕt ôh amăng mơnuih anai . Hyư̆m dưi thâo , năng ai bơngăt mơyang ƀôdah ling jang Ơi Adai hmâo pơhiăp laih hăng ñu tơlơi hơgĕt thâo ? ”
+44023019	Hơgĕt		Khua gĭt gai tơhan djă tơngan ñu , ba gơ̆ pơ anih hơjăn hăng tơña kơ ñu , “ Hơgĕt tơlơi ih kiăng laĭ pơthâo hăng kâo ? ”
+44026008	Hyư̆m		Hyư̆m ƀing gih pơ anai ƀu dưi đaŏ ôh kơ Ơi Adai dưi pơhơdip glaĭ ƀing mơnuih djai ?
+44026014	hyư̆m		Tơ abih bang ƀing gơmơi leng kơ rơbuh pơ lŏn , kâo hơmư̆ asăp pơhiăp hăng kâo amăng tơlơi Hêbrơ , ‘ Ơ Sôl , Ơ Sôl , hyư̆m ih ngă sat kơ Kâo ? Ruă kơ ih pô yơh , ih čưng mơnơ̆ng hñueng . ’
+44026015	hlơi		Kâo tơña , ‘ Ơ Khua Yang , hlơi Ih ? ’ Khua Yang laĭ , ‘ Kâo jing Yêsu , pô ih hlak ngă sat .
+45002017	~		Samơ̆ tơdah ih yap ih pô jing mơnuih Yuđa , ih hơĭn kơnang kơ tơlơi juăt , pơ-ư kơ ih pô yua kơ Ơi Adai ih ,
+45002021	yua hơgĕt		Tui anŭn , Ơ pô pơtô kơ arăng , yua hơgĕt ih ƀu pơtô kơ ih pô lĕ ? Ih pơtô kơ arăng anăm klĕ dŏp ôh , samơ̆ hyư̆m ih pô klĕ dŏp ?
+45002028	~		Yua kơ sa čô mơnuih kơnơ̆ng gah rơngiao đôč jing mơnuih Yuđa , ñu anŭn ƀu djơ̆ mơnuih Yuđa sĭt ôh , bơ kơ tơlơi khăt klĭ gah kơ asar đeh gah rơngiao , ñu ƀu djơ̆ tơlơi khăt klĭ sĭt ôh .
+45003001a	hơgĕt		Tui anŭn hơgĕt tơlơi hiam hloh ƀing Ană Yuđa hmâo ? 
+45003001b	hơgĕt		Ƀôdah hơgĕt yom kơ tơlơi khăt klĭ ?
+45003003	hơgĕt		Samơ̆ hơgĕt tơlơi či truh tơdah hmâo đơđa mơnuih amăng ƀing gơñu ƀu tŏng ten ôh ? Tơlơi gơñu ƀu tŏng ten dưi pơrai hĭ tơlơi hnơ̆ng ten Ơi Adai mơ̆ ?
+45003005	hơgĕt		Samơ̆ tơdah tơlơi ƀu tơpă ƀing ta bơrơđah tơlơi tơpă Ơi Adai , hơgĕt ƀing ta či laĭ ? Djơ̆ mơ̆ Ơi Adai ƀu tơpă ôh tơ Ñu pơkơhmal ƀing ta ? ( Kâo pơhiăp tui hăng ană mơnuih juăt pơhiăp . )
+45003006	hyư̆m		Ƀu djơ̆ tui anŭn ôh ! Yua kơ tơdah tui anŭn , hyư̆m Ơi Adai dưi phat kơđi kơ lŏn tơnah lĕ ?
+45003007a	~		Samơ̆ tơdah yua kơ tơlơi ƀlor kâo bơrơđah klă hloh tơlơi Ơi Adai pơhiăp sĭt , laih anŭn tơlơi anŭn ngă ư ang Ơi Adai lu jai , 
+45003007b	hyư̆m		hyư̆m arăng ăt klă kơđi kâo kar hăng sa čô mơnuih soh lĕ ?
+45003008	yua hơgĕt		Tui anŭn yua hơgĕt ƀing ta ƀu “ ngă tơlơi sat kiăng hmâo tơlơi hiam ” ? — kar hăng đơđa mơnuih hmâo pơčeh ƀing gơmơi pơtô tơlơi anŭn . — Gơñu tŭ tơlơi pơkơhmal jing năng lăp biă mă .
+45003009	hyư̆m		Tui anŭn hyư̆m ngă ? Ƀing ană Yuđa ta jing hiam hloh kơ ƀing tuai mơ̆ ? Ư ưh , ƀu hmâo ôh ! Yua kơ kâo bơrơđah sĭt laih kơ abih bang mơnuih , ƀing Yuđa wơ̆t ƀing Grek , leng kơ dŏ gah yŭ kơ tơlơi dưi kơtang tơlơi soh ,
+45003027a	hơgĕt		Tui anŭn hmâo hơgĕt dưi pơang pô mơ̆ ? Ƀu dưi ôh ! 
+45003027b	hơgĕt		Hăng tơlơi juăt hơgĕt ? Hăng tơlơi juăt bruă ngă mơ̆ ? Ƀu djơ̆ ôh , samơ̆ yua kơ tơlơi ƀing ta đaŏ .
+45003027c	~		
+45004001	hơgĕt		Tui anŭn , hơgĕt ƀing ta či laĭ djơ̆ kơ Abraham ơi adon ƀing ta gah kơ asar đeh , hơgĕt ñu hmâo mă tŭ ?
+45004003	hơgĕt		Yua kơ hơgĕt Hră Ơi Adai laĭ ? “ Abraham đaŏ kơ Ơi Adai , laih anŭn yua mơ̆ng tơlơi đaŏ anŭn yơh Ơi Adai hmâo yap ñu tơpă . ”
+45004010	hơbin		Tui anŭn hơbin Ơi Adai hmâo yap tơlơi anŭn kơ ñu ? Hlâo kơ ñu khăt klĭ ƀôdah tơdơi kơ ñu khăt klĭ ? Ƀu djơ̆ tơdơi ôh samơ̆ hlâo kơ ñu khăt klĭ yơh .
+45005010	~		Yua kơ tơdah hlak ƀing ta ăt jing ayăt hăng Ơi Adai , tơlơi djai Ană Ơi Adai hmâo ngă rơnom glaĭ laih ƀing ta hăng Ñu , hloh kơ anŭn dơ̆ng , giơ̆ng kơ rơnom glaĭ laih , ƀing ta či hmâo tơlơi pơklaih yua mơ̆ng tơlơi hơdip Ñu .
+45005021	~		Tui anŭn kar hăng tơlơi soh gĭt gai hăng tơlơi djai , ăt kar hăng anŭn mơ̆n tơlơi pap dưi wai lăng hăng tơlơi tơpă laih anŭn ba ƀing ta truh kơ tơlơi hơdip hlŏng lar amăng Yêsu Krist Khua Yang ƀing ta .
+45006001	hơgĕt		Tui anŭn hơgĕt ƀing ta či laĭ lĕ ? Djơ̆ mơ̆ ƀing ta ăt dŏ ngă soh dơ̆ng kiăng dưi hmâo tơlơi pap lu jai ?
+45006002	hyư̆m		Ư ưh , ƀu djơ̆ ôh ! Ƀing ta hmâo djai laih kơ tơlơi soh hyư̆m ƀing ta dưi dŏ hơdip amăng tơlơi soh dơ̆ng lĕ ?
+45006015	hyư̆m		Tui anŭn hyư̆m jing ? Ƀing ta ăt či dŏ ngă soh dơ̆ng mơ̆ ? Yua kơ ƀing ta ƀu dŏ gah yŭ kơ tơlơi juăt ôh , samơ̆ dŏ gah yŭ kơ tơlơi pap . Sĭt ƀu djơ̆ tui anŭn ôh !
+45006021	hơgĕt		Hlak anŭn , hơgĕt boh tŭ yua ƀing gih hmâo mơ̆ng tơlơi ƀing gih ngă anŭn tơl ră anai ƀing gih dŏ tŭ tơlơi mlâo heñ ? Hnal tuč kơ tơlơi anŭn jing tơlơi djai .
+45007007	hơgĕt		Tui anŭn hơgĕt ƀing ta či laĭ lĕ ? Djơ̆ mơ̆ tơlơi juăt jing tơlơi soh ? Ƀu djơ̆ tui anŭn ôh ! Samơ̆ tơdah ƀu hmâo ôh tơlơi juăt , kâo ƀu dưi thâo krăn tơlơi soh ôh . Kâo ƀu či thâo krăn ôh hơgĕt tơlơi hưp ham jing tơdah tơlơi juăt ƀu laĭ , “ Anăm hưp ham ôh . ”
+45007024	Hlơi		Răm ƀăm yơh kơ kâo ! Hlơi či pơklaih kâo mơ̆ng drơi jan thâo djai anai ?
+45008024	hlơi		Yua kơ amăng tơlơi čang rơmang yơh ƀing ta hmâo tơlơi pơklaih . Samơ̆ tơdah tơlơi čang rơmang hmâo ƀuh laih , ñu ƀu jing tơlơi čang rơmang dơ̆ng tah . Yua kơ hlơi pô dŏ čang rơmang kơ mơnơ̆ng ñu ƀuh laih ?
+45008031a	hơgĕt		Tui anŭn , hơgĕt tơlơi ƀing ta či laĭ kơ khul tơlơi anai lĕ ? 
+45008031b	hlơi		Tơdah Ơi Adai dŏ gah kơ ƀing ta , hlơi pô dưi pơkơdơ̆ng glaĭ hăng ƀing ta dơ̆ng ?
+45008032	hyư̆m		Yua kơ Ơi Adai ƀu hơưi ôh Ană Ñu pô , samơ̆ hmâo jao lui hĭ Gơ̆ yua kơ abih bang ƀing ta , hyư̆m Ñu ƀu či pha brơi ôh hă abih bang tơlơi kơ ƀing ta hrŏm hơbĭt hăng Gơ̆ ?
+45008033	Hlơi		Hlơi pô či phong kơ ƀing Ơi Adai hmâo ruah mă lĕ ? Ơi Adai pô yơh hmâo yap gơñu jing tơpă hơnơ̆ng .
+45008034	Hlơi		Hlơi pô či klă kơđi gơñu ? Yêsu Krist jing Pô hmâo djai laih anŭn hmâo hơdip glaĭ laih , Pô dŏ gah hơnuă kơ Ơi Adai laih anŭn iâu laĭ pơala brơi kơ ƀing ta .
+45008035	Hlơi		Hlơi pô či pơčơlah hĭ ƀing ta mơ̆ng tơlơi Yêsu Krist khăp ? Djơ̆ mơ̆ tơlơi tơnap tap , tơlơi rŭng răng , tơlơi arăng ngă sat , tơlơi ư̆ rơpa , tơlơi jing mơhlŭn , tơlơi hwĭ hyưt , ƀôdah đao gưm ?
+45009014	hơgĕt		Tui anŭn hơgĕt tơlơi ƀing ta či laĭ lĕ ? Hmâo mơ̆ tơlơi ƀu tơpă amăng Ơi Adai ? Ư ưh , ƀu hmâo ôh !
+45009019a	Hyư̆m		Tui anŭn ih či laĭ kơ kâo , “ Hyư̆m Ơi Adai ăt klă kơđi kơ tơlơi soh mơ̆n lĕ ? 
+45009019b	hlơi		Yua kơ hlơi pô dưi pơkơdơ̆ng glaĭ hăng tơlơi Ñu kiăng ? ”
+45009020a	hlơi		Samơ̆ hlơi ih jing , ơ mơnuih , kiăng pơgăl glaĭ hăng Ơi Adai ? 
+45009020b	~		Dưi mơ̆ lŏn kraĭ laĭ kơ pô man ñu , 
+45009020c	Hyư̆m		“ Hyư̆m ih man kâo tui anai ? ”
+45009021	~		Pô bruă man lŏn ƀu hmâo tơlơi dưi hăng lŏn kraĭ ôh hă , hăng sa bôr lŏn kraĭ kiăng ngă sa boh čeh yua amăng bruă yom laih anŭn sa boh čeh pơkŏn yua amăng bruă ƀu yom ôh ?
+45009022	Hyư̆m		Hyư̆m ih pơmĭn tơdah Ơi Adai kiăng bơrơđah tơlơi Ñu hil laih anŭn bơrơđah tơlơi dưi mơyang Ñu , Ñu hmâo gir añ hăng khul čeh năng lăp tŭ kơ tơlơi hil kiăng pioh tơlơi pơrai hĭ ?
+45009023	~		Tơdah Ñu kiăng pơrơđah tơlơi pơdrŏng kơ tơlơi ang yang Ñu pioh brơi kơ lu boh čeh Ñu pap drap , khul čeh Ñu hmâo man laih mơ̆ng hlâo pioh brơi kơ tơlơi ang yang ,
+45009024	~		ƀing ta yơh jing ƀing Ñu hmâo iâu laih , ƀu djơ̆ kơnơ̆ng mơ̆ng ƀing ană Yuđa đôč ôh , samơ̆ Ñu ăt iâu mơ̆ng ƀing djuai tuai mơ̆n .
+45009030	hơgĕt		Tui anŭn hơgĕt ƀing ta či laĭ lĕ ? Ƀing djuai tuai ƀu tui hơduah ôh tơlơi tơpă , pŭng gơñu hmâo hĭ tơlơi tơpă . Anŭn jing tơlơi tơpă mơ̆ng tơlơi đaŏ .
+45009032	yua hơgĕt		Yua hơgĕt lĕ ? Yua kơ gơñu ƀu tui hơduah ôh tơlơi tơpă hơnơ̆ng anŭn hăng tơlơi đaŏ , samơ̆ hăng bruă gơñu ngă . Gơñu tơhneč djơ̆ boh pơtâo čơgăn jơlan ,
+45010006	Hlơi		Samơ̆ tơlơi tơpă tơbiă rai mơ̆ng tơlơi đaŏ laĭ tui anai , “ Anăm laĭ ôh amăng pran jua ih , Hlơi či đĭ nao pơ adai ? ” ( Jing , kiăng ba Krist trŭn )
+45010007	Hlơi		ƀôdah “ Hlơi či trŭn nao pơ hlŭng dlam ? ” ( Jing , kiăng ba Krist hơdip glaĭ mơ̆ng mơnuih djai ) .
+45010008	hơgĕt		Samơ̆ hơgĕt tơlơi ñu laĭ ? “ Boh Pơhiăp dŏ jĕ ih , Dŏ ƀơi amăng bah ih laih anŭn amăng pran jua ih ” Anŭn jing Boh Pơhiăp kơ tơlơi đaŏ , tơlơi gơmơi pơtô .
+45010014a	hyư̆m		Samơ̆ hyư̆m gơñu dưi iâu laĭ kơ Ơi Adai tơdah gơñu aka đaŏ ôh ? 
+45010014b	hyư̆m		Hyư̆m gơñu dưi đaŏ kơ Ơi Adai tơdah gơñu aka hmư̆ ôh ? 
+45010014c	hyư̆m		Laih anŭn hyư̆m gơñu dưi hmư̆ tơdah ƀu hmâo mơnuih hyu pơtô ?
+45010015	hyư̆m		Laih anŭn hyư̆m mơnuih dưi pơtô tơdah arăng ƀu pơkiaŏ nao gơñu ôh ? Tui hăng Boh Pơhiăp Ơi Adai hmâo čih “ Hiam rŏ yơh kơ plă tơkai ƀing mơnuih nao pơhaih Tơlơi Phrâo Hiam ! ”
+45010016	hlơi		Samơ̆ ƀu djơ̆ ôh abih bang ƀing gơñu tŭ mă Tơlơi Phrâo Hiam ; yua kơ Êsai laĭ , “ Ơ Khua Yang hlơi đaŏ kơ tơlơi gơmơi pơtô ? ”
+45011004	hyư̆m		Samơ̆ hyư̆m Ơi Adai laĭ glaĭ kơ ñu ? “ Kâo hmâo răk pioh laih kơ Kâo pô tơjuh rơbâo đah rơkơi aka ƀu tŏ tơŭt ƀơi anăp yang Baal ôh . ”
+45011007	Hyư̆m		Hyư̆m tui anŭn ? Tơlơi ƀing ană Israel tui hơduah , gơñu ƀu dưi hmâo ôh . Samơ̆ ƀing Ơi Adai ruah hmâo laih tơlơi anŭn , samơ̆ ƀing dŏ glaĭ Ơi Adai pơkhăng hĭ pran jua gơñu ,
+45011015	hơgĕt		Yua kơ tơdah tơlơi Ơi Adai hrah lui gơñu jing hĭ tơlơi pơgop rơnom kơ abih lŏn tơnah , hơgĕt tơlơi či truh yua mơ̆ng tơlơi jum glaĭ gơñu ? Ƀu djơ̆ ôh hă jing kar hăng brơi tơlơi hơdip kơ ƀing djai laih ?
+45011018	~		anăm pơgao hăng than pơkŏn ôh . Tơdah ih ngă pơgao , hơdơr bĕ ƀu djơ̆ ih ôh krơ̆ng akha , samơ̆ akha krơ̆ng ih .
+45011033a	~		Aƀơih dlam đơi ! Tơlơi pơdrŏng Ơi Adai , wơ̆t tơlơi kơhnâo laih anŭn tơlơi rơgơi Ñu ! Hyư̆m dưi pơblang tơlơi Ñu phat kơđi 
+45011033b	~		laih anŭn hyư̆m dưi thâo hluh kơ khul jơlan Ñu !
+45011034a	hlơi		“ Yua kơ hlơi dưi thâo tơlơi pơmĭn Khua Yang , 
+45011034b	hlơi		Hlơi jing pô kơčĕ brơi kơ Ñu ? ”
+45011035	hlơi		Ƀôdah “ hlơi hmâo brơi laih sa mơta mơnơ̆ng kơ Ñu hlâo , Kiăng kơ Ñu kla glaĭ ? ”
+45014004	Hlơi		Hlơi ih jing tơl ih phat kơđi ƀing ding kơna arăng ? Ñu dŏ dơ̆ng ƀôdah ñu rơbuh , anŭn jing bruă khua ñu . Samơ̆ ñu či dŏ dơ̆ng , yua kơ Khua Yang dưi brơi ñu dŏ dơ̆ng .
+45014010a	hyư̆m		Hyư̆m ih phat kơđi kơ adơi ayŏng ih lĕ ? 
+45014010b	hyư̆m		Ƀôdah hyư̆m ih bơrơmŭt kơ adơi ayŏng ih ? Yua kơ abih bang ƀing ta či dŏ dơ̆ng ƀơi anăp gre phat kơđi Ơi Adai .
+46001020a	Pơpă		Pơpă ƀing kơhnâo lĕ ? 
+46001020b	Pơpă		Pơpă nai pơtô tơlơi juăt lĕ ? 
+46001020c	Pơpă		Pơpă ƀing pơrơjah pơgăl rơnŭk anai lĕ ? Ƀu djơ̆ ôh hă Ơi Adai hmâo ngă brơi tơlơi kơhnâo lŏn tơnah anai jing hĭ mluk mơgu ?
+46002011	hlơi		Yua kơ hlơi dưi thâo tơlơi pơmĭn sa čô mơnuih , kơnơ̆ng bơngăt jua ñu pô yơh . Kar kaĭ mơ̆n ƀu hmâo hlơi dưi thâo tơlơi pơmĭn Ơi Adai ôh , kơnơ̆ng Yang Bơngăt Hiam Ơi Adai đôč .
+46002016a	hlơi		“ Yua kơ hlơi dưi thâo tơlơi pơmĭn Khua Yang , 
+46002016b	~		Kiăng kơ dưi pơhrăm brơi Ñu ? ” Samơ̆ ƀing ta hmâo tơlơi pơmĭn Yang Krist .
+46003005a	Hlơi		Tui anŭn hlơi Apôlôs jing ? 
+46003005b	Hlơi		Hlơi Pôl jing ? Gơmơi kơnơ̆ng jing ƀing ding kơna đôč ; yua kơ mơ̆ng gơñu yơh ƀing gih hmâo đaŏ laih , tui hăng Khua Yang hmâo jao laih bruă kơ rĭm čô .
+46004007a	Hlơi		Hlơi ngă brơi kơ ih yom hloh kơ pô pơkŏn ? 
+46004007b	~		Ƀu djơ̆ ôh hă Ơi Adai hmâo brơi laih ih abih mơnơ̆ng ih hmâo ? 
+46004007c	hyư̆m		Tơdah ih mă tŭ laih tơlơi anŭn , hyư̆m ih pơ-ư pơang kơ ih pô kar hăng ih aka mă tŭ ôh lĕ ?
+46004021	Hơgĕt		Hơgĕt tơlơi ƀing gih kiăng ? Ƀing gih kiăng kâo nao pơ ƀing gih hăng sa ƀĕ gai hơnuăt , ƀôdah hăng tơlơi khăp laih anŭn hăng pran jua tơdu rơun ?
+46005002	~		Laih anŭn ƀing gih ăt dŏ pơgao dơ̆ng ! Djơ̆ biă mă ƀing gih khŏm rơngot ! Brơi ƀing gih sut lui hĭ pô ngă tơlơi anŭn mơ̆ng tơ̆ng krah ƀing gih .
+46005012	hơgĕt		Kâo phat kơđi ƀing mơnuih gah rơngiao kiăng ngă hơgĕt ? Ƀu djơ̆ ôh hă ƀing gih yơh khŏm phat kơđi ƀing mơnuih amăng lăm ƀing gih ?
+46006001	hyư̆m		Tơ sa čô amăng ƀing gih hmâo tơlơi hăng tơdruă adơi ayŏng , hyư̆m ñu khĭn brơi ƀing ƀu tơpă phat kơđi tơlơi anŭn , samơ̆ ƀu brơi ôh ƀing rơgoh hiam phat kơđi ?
+46006003	~		Ƀing gih ƀu thâo ôh hă ƀing ta yơh či phat kơđi kơ ƀing ling jang ? Ƀai jai dơ̆ng ƀing ta dưi phat kơđi khul tơlơi ƀơi lŏn tơnah anai !
+46006004	hyư̆m		Tơdah ƀing gih hmâo tơlơi kar hăng anŭn , hyư̆m ƀing gih ba tơlơi anŭn ƀơi anăp ƀing mơnuih Phung Sang Ơi Adai ƀu pơpŭ pơyom ôh phat kơđi ?
+46006007a	Yua hơgĕt		Tơdah ƀing gih hmâo tơlơi pơphong tơdruă ƀing gih , tơlơi anŭn jing tơlơi ƀing gih soh yơh . Yua hơgĕt ƀing gih ƀu tŭ ôh tơlơi arăng pơsoh kơ ƀing gih ? 
+46006007b	Yua hơgĕt		Yua hơgĕt ƀing gih ƀu tŭ ôh tơlơi arăng plah sua gơnam ƀing gih ?
+46006009	~		Ƀing gih ƀu thâo ôh hă ƀing ƀu tơpă ƀu dưi tŭ mă Dêh Čar Pơtao Ơi Adai ôh ? Anăm ƀlor mă ƀing gih pô ôh ; ƀing rih răm , ƀing kơkuh kơ rup trah , ƀing klĕ pyu , ƀing đah rơkơi ngă soh hăng đah rơkơi , laih anŭn ƀing đah kơmơi ngă soh hăng ƀing đah kơmơi ,
+46006016	hlơi		Ƀing gih ƀu thâo ôh hă , hlơi pô pơgop ñu pô hăng sa čô đah kơmơi rih răm ñu jing hĭ hasa drơi jan hăng đah kơmơi anŭn ? Yua kơ tui hăng Hră Ơi Adai hmâo čih laih : “ Dua gơñu či jing hasa drơi jan . ”
+46006019	~		Ƀing gih ƀu thâo ôh hă drơi jan ƀing gih jing sang kơkuh pơpŭ kơ Yang Bơngăt Hiam hlak dŏ amăng ƀing gih , Pô ƀing gih hmâo tŭ mă laih mơ̆ng Ơi Adai ? Ƀing gih ƀu lơ̆m kơ ƀing gih pô dơ̆ng ôh .
+46007016a	~		Ơ pô jing bơnai , thâo dah ih či pơklaih rơkơi ih mơ̆n thâo ? 
+46007016b	~		Ơ pô jing rơkơi , thâo dah ih či pơklaih bơnai ih mơ̆n thâo ?
+46009007a	hlơi		Hmâo mơ̆ hlơi nao ngă tơhan samơ̆ ƀŏng prăk sang ñu pô ? 
+46009007b	hlơi		Hmâo hlơi pla đang boh kơƀâo samơ̆ ƀu ƀŏng boh ñu ôh ? 
+46009007c	hlơi		Ƀôdah hlơi pô rong khul hlô mơnơ̆ng samơ̆ ƀu mơñum ia tơsâo gơñu ?
+46009018	hơgĕt		Tui anŭn hơgĕt pri kơ kâo lĕ ? Tơlơi anŭn jing tơdang kâo pơtô Tơlơi Phrâo Hiam , kâo pơtô hăng tơlơi đôč đač , ƀu tơña rơkâo ôh tơlơi dưi tŭ yua kơ mơnuih pơtô Tơlơi Phrâo Hiam hmâo .
+46010019a	Hơgĕt		Hơgĕt tơlơi kâo kiăng laĭ kơ tơlơi anŭn lĕ ? 
+46010019b	~		Mơnơ̆ng arăng pơyơr kơ rup trah , 
+46010019c	~		ƀôdah rup trah jing yom hă ?
+46010029	yua hơgĕt		kâo ƀu pơhiăp djơ̆ kơ pran jua tơpă ƀing gih ôh , samơ̆ kâo pơhiăp djơ̆ kơ pran jua tơpă pô anŭn . Kơlih yua hơgĕt pran jua tơpă pô pơkŏn phat kơđi kơ tơlơi rơngai kâo ?
+46010030	yua hơgĕt		Tơdah kâo ƀŏng hăng tơlơi bơni hơơč kơ Ơi Adai , yua hơgĕt arăng ƀuah kâo yua kơ mơnơ̆ng ƀŏng kâo hmâo bơni laih kơ Ơi Adai ?
+46011022	Hơgĕt		Hyư̆m ? Ƀing gih ƀu hmâo ôh hă sang pioh kơ ƀŏng huă laih anŭn mơñum ? Ƀôdah ƀing gih mưč mač kơ Phung Sang Ơi Adai kơ Ơi Adai , laih anŭn ngă pơmlâo kơ ƀing ƀu hmâo mơnơ̆ng ƀŏng ? Hơgĕt kâo či laĭ kơ ƀing gih ? Kâo či bơni kơ ƀing gih mơ̆ amăng tơlơi anai ? Ư ưh kâo ƀu bơni kơ ƀing gih ôh !
+46012017a	hyư̆m		Tơdah abih drơi jan jing mơta soh sel , hyư̆m dưi thâo hmư̆ lĕ ? 
+46012017b	hyư̆m		Tơdah abih drơi jan leng kơ jing tơngia soh sel , hyư̆m dưi thâo ƀâo lĕ ?
+46012019	hyư̆m		Tơdah abih bang kơnơ̆ng jing sa črăn đôč , hyư̆m dưi jing drơi jan lĕ ?
+46014006	hyư̆m		Tui anŭn , Ơ ƀing adơi ayŏng , tơdah kâo nao pơ ƀing gih , kâo pơhiăp tơlơi tuai , hyư̆m kâo dưi djru ƀing gih tơdah kâo ƀu pơhiăp hăng ƀing gih hăng tơlơi bơrơđah , hăng tơlơi thâo thaĭ , hăng tơlơi laĭ lui hlâo , ƀôdah hăng tơlơi pơtô ?
+46014007	hyư̆m		Wơ̆t kơ khul kơdrăp ayŭ hri ƀu hmâo tơlơi hơdip , kar hăng đing klơt ƀôdah brŏ , tơdah asăp gơñu mơñi ƀu hmâo tơlơi phara klă rơđah ôh , hyư̆m arăng dưi thâo krăn ayŭ đing klơt ƀôdah ayŭ brŏ ?
+46014008	hlơi		Laih anŭn tơdah asăp tơki ƀu klă rơđah ôh , hlơi pô či prăp rơmet kơ tơlơi pơblah ?
+46014009	hyư̆m		Ƀing gih ăt kar hăng anŭn mơ̆n , tơdah ƀing gih pơhiăp tơlơi tuai arăng ƀu thâo hluh ôh , hyư̆m arăng dưi thâo hluh hơgĕt tơlơi ƀing gih laĭ ? Yua kơ ƀing gih pơhiăp amăng angĭn yơh .
+46014015	hơgĕt		Tui anŭn hơgĕt kâo khŏm ngă ? Kâo či iâu laĭ hăng bơngăt jua , samơ̆ kâo ăt či iâu laĭ hăng tơlơi pơmĭn mơ̆n . Kâo či adoh hăng bơngăt , samơ̆ kâo ăt či adoh hăng tơlơi pơmĭn kar kaĭ mơ̆n .
+46014016	hyư̆m		Samơ̆ tơdah ih bơni hơơč kơ Ơi Adai kơnơ̆ng hăng bơngăt đôč , hyư̆m ƀing mơnuih ƀu hmâo tơlơi pha brơi amăng ƀing bơjơnum anŭn dưi laĭ “ Amen ” kơ tơlơi ih iâu laĭ bơni hơơč ; yua kơ ñu ƀu thâo hluh ôh tơlơi ih pơhiăp ?
+46014026	hyư̆m		Ơ ƀing adơi ayŏng , hyư̆m ƀing gih khŏm ngă lĕ ? Tơ ƀing gih bơjơnum glaĭ hmâo mơnuih hmâo tơlơi adoh , tơlơi pơtô , tơlơi bơrơđah , tơlơi pơhiăp tơlơi tuai , ƀôdah tơlơi pơblang tơlơi tuai . Brơi ƀing gih ngă abih bang tơlơi kiăng kơ pơdơ̆ng pơđĭ tơdruă ƀing gih .
+46014036	~		Djơ̆ mơ̆ boh pơhiăp Ơi Adai tơbiă rai mơ̆ng ƀing gih , ƀôdah boh pơhiăp Ơi Adai kơnơ̆ng truh kơ ƀing gih đôč ?
+46015012	hyư̆m		Tui anŭn , tơdah arăng pơtô tơlơi Krist hmâo hơdip glaĭ mơ̆ng ƀing djai , hyư̆m hmâo đơđa amăng ƀing gih laĭ ƀu hmâo tơlơi hơdip glaĭ ôh kơ ƀing djai ?
+46015029a	~		
+46015029b	hơgĕt		Tơdah ƀu djơ̆ tui anŭn ôh , hơgĕt yom arăng tŭ ƀatem pơala brơi ƀing djai ? 
+46015029c	hyư̆m		Tơdah sĭt ƀing djai ƀu hơdip glaĭ ôh , hyư̆m arăng tŭ ƀatem pơala brơi ƀing gơñu lĕ ?
+46015030a	~		
+46015030b	Hyư̆m		Hyư̆m ƀing gơmơi dŏ amăng tơlơi hyưt pưt rĭm mông ?
+46015032	hơgĕt		Tơdah pơhiăp tui hăng mơnuih hơgĕt tơlơi tŭ yua kâo hmâo tơdah kâo pơblah hăng hlô glai pơ plei Êphêsô ? Tơdah ƀing djai ƀu hơdip glaĭ ôh , “ Brơi ƀing ta ƀŏng huă laih anŭn mơñum bĕ , Yua kơ hrơi pơgi ƀing ta či djai ! ”
+46015035a	Hyư̆m		Samơ̆ hmâo mơnuih či tơña , “ Hyư̆m ƀing djai či hơdip glaĭ ? 
+46015035b	hơgĕt		Hăng mơta drơi jan hơgĕt gơñu či hmâo glaĭ lĕ ? ”
+46015055a	pơpă		“ Ơ tơlơi djai , pơpă tơlơi dưi ŏng lĕ ? 
+46015055b	pơpă		Ơ tơlơi djai , pơpă ia bih ŏng lĕ ? ”
+47002002	hlơi		Yua kơ tơdah kâo pơrơngot ƀing gih , hlơi dưi bơmơak kơ kâo , kơnơ̆ng ƀing kâo hmâo pơrơngot laih yơh ?
+47002016	Hlơi		Kơ ƀing mơnuih răm rơngiă , gơmơi jing mơnâo tơlơi djai , ba kơ tơlơi djai ; kơ ƀing mơnuih hmâo tơlơi pơklaih laih , gơmơi jing mơnâo tơlơi hơdip , ba kơ tơlơi hơdip . Hlơi năng lăp dưi ngă khul bruă anai ?
+47003008	~		tui anŭn ƀu djơ̆ ôh hă bruă mă Yang Bơngăt či hmâo tơlơi guh kơang hloh dơ̆ng ?
+47003009	~		Yua kơ tơdah bruă mă ba truh kơ tơlơi klă kơđi ăt hmâo mơ̆n tơlơi guh kơang , tui anŭn bruă mă ba truh tơlơi yap tơpă či hmâo tơlơi guh kơang rơgao hloh dơ̆ng .
+47006014a	~		Anăm glăm ač hrŏm hơbĭt hăng ƀing ƀu đaŏ ôh . Yua kơ tơlơi tơpă hăng tơlơi wĕ wŏ dưi pơgop mơ̆ ? 
+47006014b	~		Ƀôdah tơlơi bơngač hăng tơlơi kơnăm mơmot dưi pơgop mơ̆ ?
+47006015a	~		Yang Krist hăng yang Bêlial dưi pơgop hrŏm hơbĭt mơ̆ ? 
+47006015b	hơgĕt		Ƀôdah mơnuih đaŏ dưi hmâo črăn hơgĕt hrŏm hăng mơnuih ƀu đaŏ mơ̆ ?
+47006016	Hyư̆m		Hyư̆m dưi hmâo tơlơi pơgop tơ̆ng krah sang kơkuh pơpŭ Ơi Adai hăng khul rup trah lĕ ? Yua kơ ƀing ta jing sang kơkuh pơpŭ Ơi Adai pô hơdip , tui hăng Ơi Adai hmâo laĭ laih : “ Kâo či dŏ amăng ƀing gơñu laih anŭn rơbat nao tơ̆ng krah ƀing gơñu , Kâo či jing Ơi Adai gơñu , Laih anŭn gơñu či jing ƀing ană plei Kâo .
+47011011	Hyư̆m		Hyư̆m ? Yua kơ kâo ƀu khăp kơ ƀing gih hă ? Ơi Adai thâo kâo khăp kơ ƀing gih !
+47011029a	hlơi		Hmâo hlơi tơdu , kâo ƀu tơdu ôh hă ? 
+47011029b	hlơi		Hmâo mơ̆ hlơi rơbuh amăng tơlơi soh , laih anŭn kâo ƀu ruă pran jua rơngot kơ tơlơi anŭn ôh ?
+47012013	hơgĕt		Yua kơ , gah rơngiao kơ tơlơi kâo ƀu pơkơtraŏ ƀing gih , hmâo tơlơi hơgĕt ƀing gih ƀu dơm kơnar hăng ƀing Phung Sang Ơi Adai pơkŏn mơ̆ ? Pap brơi kơ kâo yua tơlơi ƀu dơm kơnar anŭn hŏ .
+47012017	~		Kâo ƀŏng dram gơnam ƀing gih mơ̆ , mơ̆ng ƀing mơnuih kâo hmâo pơkiaŏ nao laih pơ ƀing gih ?
+48002014	hyư̆m		Samơ̆ tơ kâo ƀuh ƀing gơñu ƀu ngă tơlơi tơpă sĭt tui hăng tơlơi sĭt mơ̆ng Tơlơi Phrâo Hiam ôh , kâo laĭ kơ Sêphas ƀơi anăp abih bang ƀing gơñu , “ Tơdah ih jing mơnuih Yuđa , samơ̆ dŏ dơ̆ng ƀŏng huă kar hăng mơnuih tuai , ƀu djơ̆ kar hăng mơnuih Yuđa ôh , hyư̆m ih dưi pơgŏ ƀing djuai tuai dŏ dơ̆ng ƀŏng huă kar hăng ƀing mơnuih Yuđa ? ”
+48003001	Hlơi		Ơ ƀing mơnuih Galati mluk mơgu ! Hlơi hmâo ngă pơhưč ƀing gih ? Ƀơi anăp mơta ƀing gih hmâo pơrơđah laih Yêsu Krist arăng pơ̆ng laih ƀơi kơyâo bơrơkal .
+48003019	hơgĕt		Tui anŭn tơlơi juăt pioh ngă hơgĕt ? Tơlơi kơñăm kơ tơlơi juăt anŭn jing kiăng bơrơđah brơi tơlơi soh arăng ngă , tơl hrơi ană tơčo anŭn truh , kơ Pô anŭn yơh hmâo tơlơi ƀuăn brơi laih . Ơi Adai hmâo yua ƀing ling jang ba tơlơi juăt găn sa čô pô dŏ kơplah .
+48004009a	hyư̆m		Samơ̆ ră anai ƀing gih thâo krăn Ơi Adai laih , biă mă Ơi Adai thâo krăn laih ƀing gih , tui anŭn hyư̆m ƀing gih kiăng wơ̆t glaĭ yang rơbang tơdu ƀu ai , ƀun rin anŭn ? 
+48004009b	~		Ƀing gih kiăng jing hlŭn kơ ƀing gơñu dơ̆ng hă ?
+48004010	~		Ƀing gih ăt dŏ kơ̆m kơ hrơi , blan , bơyan , laih anŭn thŭn .
+48004015	pơpă		Tui anŭn , tơlơi mơyun hiam ƀing gih anŭn ră anai pơpă lĕ ? Yua kơ kâo dưi ngă gơ̆ng jơlan kơ ƀing gih tui anai : Hlak anŭn tơdah dưi , ƀing gih kiăng blač mơta ƀing gih pô brơi kâo .
+48004021	~		Laĭ brơi kâo bĕ , Ơ ƀing kiăng dŏ gah yŭ tơlơi juăt , ƀing gih ƀu hmư̆ ôh hă tơlơi juăt laĭ ?
+48004030	hơgĕt		Samơ̆ hơgĕt Hră Ơi Adai Pơhiăp laĭ ? “ Pơpuh pơđuaĭ bĕ đah kơmơi hlŭn hăng ană đah rơkơi ñu ; yua kơ ană đah rơkơi đah kơmơi hlŭn ƀu dưi mă tŭ kong ngăn hrŏm hăng ană đah rơkơi đah kơmơi rơngai ôh . ”
+48005007a	hlơi		Ƀing gih hlak đuaĭ hiam kar hăng anŭn , hlơi pô hmâo khă ƀing gih tui gưt tơlơi sĭt ?
+48005007b	~		
+48005011	yua hơgĕt		Ơ ƀing adơi ayŏng , tơdah kâo ăt pơtô tơlơi khăt klĭ , yua hơgĕt arăng ăt dŏ ngă sat kơ kâo ? Tơdah djơ̆ tui anŭn , tơlơi kâo pơtô kơ kơyâo bơrơkal ƀu hmâo tơlơi pơgŭn dơ̆ng ôh .
+49004009	hơgĕt		Tơdang Hră Ơi Adai Pơhiăp laĭ , “ Ñu đĭ hăng ngŏ , ” hơgĕt tơlơi anŭn kiăng laĭ ? Ƀu djơ̆ ôh hă jing tơlơi Ñu hmâo trŭn laih mơ̆n amăng khul lŏn gah yŭ ?
+50001018	hyư̆m		Măk ai ñu ! Wơ̆t dah hyư̆m pă tŭ mơ̆n , thâo dah hăng tơlơi ngă mă ƀôdah hăng tơlơi tơpă sĭt , Yang Krist ăt arăng pơtô mơ̆n . Anŭn jing tơlơi kâo hơ̆k mơak laih anŭn ăt či hơ̆k mơak dơ̆ng .
+50001021	~		Gah kơ kâo , hơdip jing Yang Krist , djai jing tơlơi tŭ yua .
+51002020	yua hơgĕt		Tơdah ƀing gih hmâo djai laih hrŏm hăng Yang Krist , klaih laih mơ̆ng khul bơngăt yang lŏn tơnah , yua hơgĕt ƀing gih ăt dŏ hơdip kar hăng ƀing gih ăt dŏ lơ̆m kơ lŏn tơnah ? Yua hơgĕt ăt dŏ gưt khul tơlơi phiăn lŏn tơnah :
+52002019	hơgĕt		Yua kơ , hơgĕt jing tơlơi čang rơmang kơ ƀing gơmơi , tơlơi hơ̆k mơak , laih anŭn mŭk pơtao lăp pơ-ư kơ ƀing gơmơi ƀơi anăp Khua Yang ƀing ta jing Khua Yang Yêsu ƀơi hrơi Ñu trŭn rai lĕ ? Ƀu djơ̆ ôh hă jing ƀing gih ?
+52003009	Hyư̆m		Hyư̆m ƀing gơmơi dưi hmâo djŏp boh pơhiăp kiăng bơni hơơč kơ Ơi Adai yua kơ ƀing gih , yua kơ abih bang tơlơi hơ̆k mơak ƀing gơmơi hmâo yua mơ̆ng ƀing gih ƀơi anăp Ơi Adai ƀing ta ?
+54003005	hyư̆m		Yua kơ hlơi pô ƀu thâo wai lăng sang anŏ ñu pô , hyư̆m ñu dưi thâo wai lăng Phung Sang Ơi Adai lĕ ?
+54006007a	hơgĕt		Yua kơ hlak ƀing ta tơkeng rai amăng lŏn tơnah , ƀing ta ƀu hmâo djă ba sa mơta mơnơ̆ng hơgĕt ôh , 
+54006007b	hơgĕt		kar kaĭ mơ̆n hlak ƀing ta djai ƀing ta kŏn dưi djă ba mơnơ̆ng hơgĕt lơi ;
+58001005	hơbin		Yua kơ hmâo hơbin pă Ơi Adai laĭ hăng sa čô ling jang tui anai : “ Ih jing Ană Kâo , Hrơi anai Kâo tơkeng laih Ih ” ? Ƀôdah hmâo hơbin pă Ñu laĭ : “ Kâo či jing Ama Ih , Ih či jing Ană Kâo ” ?
+58001013	hơbin		Hmâo hơbin pă Ơi Adai laĭ kơ ling jang Ñu tui anai : “ Dŏ ber bĕ gah hơnuă Kâo , Tơl Kâo pioh ƀing ayăt Ih jing hnăl tơkai Ih juă . ” ?
+58001014	~		Ƀu djơ̆ ôh hă abih bang ƀing ling jang jing ƀing yang buih bruă , Ơi Adai hmâo pơkiaŏ trŭn kiăng djru bruă kơ ƀing mă tŭ tơlơi pơklaih ?
+58002003	hyư̆m		hyư̆m ƀing ta dưi klaih , tơdah ƀing ta ƀu pơyom ôh kơ tơlơi pơklaih prŏng kar hăng anŭn ? Anŭn jing tơlơi pơklaih Khua Yang hmâo pơhaih laih mơ̆ng blung hlâo , laih anŭn ƀing hmâo hmư̆ ngă gơ̆ng jơlan pơsĭt brơi kơ ƀing ta ,
+58002006a	Hơgĕt		Samơ̆ hmâo sa anih amăng hră Ơi Adai Pơhiăp hmâo ngă gơ̆ng jơlan laih tui anai : “ Hơgĕt ană mơnuih jing tơl Ih hơdơr pơmĭn nao kơ gơñu ? 
+58002006b	Hlơi		Hlơi ană mơnuih jing tơl Ih wai lăng gơñu ?
+58003016	Hlơi		Hlơi jing ƀing hơmư̆ asăp Ñu samơ̆ ăt dŏ pơkơdơ̆ng ? Ƀu djơ̆ ôh hă abih bang ƀing mơnuih Môis hmâo atăt tơbiă laih mơ̆ng čar Êjip ?
+58003017	hlơi		Laih anŭn kơ hlơi ƀing Ơi Adai hil amăng pă pluh thŭn ? Ƀu djơ̆ ôh hă ƀing hmâo ngă soh laih , drơi jan gơñu djai amăng tơdrŏn tač ?
+58003018	hlơi		Laih anŭn kơ hlơi ƀing Ñu hơtơ̆m kat ƀu brơi mŭt pơdơi hrŏm hơbĭt hăng Ñu ôh ? Ƀu djơ̆ ôh hă kơ ƀing ƀu gưt hiăp Ñu ?
+58006004	~		Yua kơ ƀing mơnuih hmâo laih tơlơi bơngač pơčrang sa wơ̆t , hmâo liah laih tơlơi pha brơi mơ̆ng adai , hmâo tŭ hrŏm hơbĭt laih Yang Bơngăt Hiam ,
+58007011	hơgĕt		Tơdah bruă khua ngă yang Lêwi dưi tơl tơlơi klă tum ( yua kơ ƀing ană plei pla mă tŭ laih tơlơi juăt gah yŭ kơ bruă ngă yang anai ) hơgĕt yom kiăng hmâo sa čô khua ngă yang pơkŏn dơ̆ng tơbiă rai tui hăng tơpul Mêlkisadek , ƀu djơ̆ tui hăng tơpul Arôn ôh ?
+58009014	~		hloh kơ anŭn dơ̆ng drah Yang Krist , Pô kơnang kơ Yang Bơngăt Hiam hlŏng lar , pơyơr Ñu pô kơ Ơi Adai kar hăng mơnơ̆ng pơyơr ƀu hmâo rơka , dưi pơrơgoh pran jua tơpă ƀing gih mơ̆ng bruă mơnuă djai , kiăng kơ ƀing gih buih bruă kơ Ơi Adai hơdip .
+58010001	~		Yua kơ tơlơi juăt kơnơ̆ng jing pô̆ kơ khul tơlơi hiam či truh tơdơi , ƀu djơ̆ jing rup sĭt kơ tơlơi mơnơ̆ng ôh , hnŭn yơh ƀing mơnuih nao jĕ Ơi Adai ƀu dưi jing klă tum ôh yua mơ̆ng khul mơnơ̆ng ngă yang hmâo pơyơr nanao rĭm thŭn .
+58010029a	Hơgĕt		Hơgĕt tơlơi phat kơđi kơtang hloh ƀing gih pơmĭn či lăp truh kơ pô juă lin laih Ană Ơi Adai , 
+58010029b	~		mưč mač drah kơnol pơgop , 
+58010029c	~		jing drah hmâo pơrơgoh hiam ñu laih , 
+58010029d	~		laih anŭn ƀrưh hmiah Yang Bơngăt Hiam kơ tơlơi pap ?
+58011032	hơgĕt		Laih anŭn hơgĕt tơlơi kâo či laĭ dơ̆ng ? Yua kơ tơdah kâo ră ruai kơ Gidêôn , Barak , Samson , Jêptê , Đawit , Samuel , laih anŭn kơ ƀing pô laĭ lui hlâo , kâo ƀu hmâo djŏp mông ôh .
+58012007	hlơi		Ƀing gih gir tŭ tơlơi pơkra pơjuăt , anŭn jing tơlơi Ơi Adai ngă kơ ƀing gih kar hăng ană bă ; yua kơ hmâo mơ̆ hlơi jing ană ama ñu ƀu pơkra pơjuăt ôh ?
+58012009	~		Hloh kơ anŭn dơ̆ng , ƀing ama gah kơ asar đeh pơkra pơjuăt ƀing ta , ƀing ta ăt hwĭ pơpŭ kơ gơñu mơ̆n . Ƀai jai Ama gah kơ bơngăt , ƀing ta ƀu či tui gưt lu hloh dơ̆ng ôh hă kiăng kơ hmâo tơlơi hơdip ?
+58012025	~		Răng bĕ , anăm hơngah kơ Pô dŏ pơhiăp ôh . Yua kơ gơñu ƀu či klaih ôh tơdah gơñu hơngah mơnuih pơtă pơhiăp pơthâo pơgăn kơ ƀing gơñu ƀơi lŏn tơnah , ƀai jai dơ̆ng ƀing ta ƀu dưi klaih ôh tơdah ƀing ta hơngah kơ Pô pơtă pơhiăp pơthâo pơgăn ƀing ta mơ̆ng adai .
+58013006	Hơgĕt		Tui anŭn ƀing ta dưi laĭ hăng tơlơi khĭn tui anai : “ Khua Yang jing Pô djru kâo , kâo ƀu či hwĭ ôh ; Hơgĕt mơnuih dưi ngă kơ kâo ? ”
+59002006	~		Samơ̆ ƀing gih mưč kơ ƀing ƀun rin ! Ƀu djơ̆ ôh hă ƀing pơdrŏng yơh kơtư̆ juă laih anŭn dui ba ƀing gih pơ sang phat kơđi ?
+59002014	hơgĕt		Ơ adơi ayŏng kâo , hơgĕt hmâo tŭ yua tơdah sa čô laĭ ñu hmâo tơlơi đaŏ , samơ̆ ƀu hmâo pơrơđah amăng bruă ngă ôh ? Tơlơi đaŏ anŭn dưi pơklaih ñu mơ̆ ?
+59002016a	~		laih anŭn sa čô amăng ƀing gih laĭ hăng gơñu , “ Nao bĕ rơnŭk rơnua , mơdang pơđao laih anŭn ƀŏng trơi bĕ , ” 
+59002016b	hơgĕt		samơ̆ ƀu pha brơi ôh hơdôm tơlơi kiăng kơ drơi jan gơñu , hơgĕt yom tơlơi anŭn ?
+59002018	~		Samơ̆ hmâo mơnuih či laĭ , “ Ih hmâo tơlơi đaŏ , laih anŭn kâo hmâo bruă ngă . ” Anai tơlơi kâo laĭ , “ Kơčrâo brơi kơ kâo bĕ kơ tơlơi ih đaŏ ƀu hmâo bruă ngă , laih anŭn kâo či pơrơđah kơ ih tơlơi kâo đaŏ amăng bruă kâo ngă . ”
+59002021	~		Ƀu djơ̆ ôh hă Abraham ơi ƀing ta hmâo tơlơi yap tơpă laih yua mơ̆ng bruă ngă , tơdang ñu pơyơr ană đah rơkơi ñu Isak ƀơi kơƀang ngă yang ?
+59003013	Hlơi		Hlơi amăng ƀing gih jing mơnuih kơhnâo laih anŭn thâo hluh ? Brơi ñu dŏ dơ̆ng ƀŏng huă hiam klă kiăng pơrơđah khul bruă ñu ngă tơbiă mơ̆ng tơlơi luă gŭ laih anŭn pran jua kơhnâo .
+59003017	~		Samơ̆ tơlơi kơhnâo tơbiă rai mơ̆ng ngŏ hlâo hloh jing rơgoh hiam , rơnŭk rơnua , tơdu rơun , gir tŭ tơdruă , bă hăng tơlơi pap drap laih anŭn boh than hiam , ƀu hmâo lăng phara ƀôdah pơrup mă ôh .
+59004001a	Mơ̆ng pă		Mơ̆ng pă tơbiă rai tơlơi pơblah 
+59004001b	~		laih anŭn khul tơlơi pơrơdjơ̆ pơrơsao tơ̆ng krah ƀing gih ? Ƀu djơ̆ ôh hă tơlơi anŭn tơbiă rai mơ̆ng tơlơi asar đeh amoaih hưp dŏ pơblah amăng pran jua ƀing gih ?
+59004012	hlơi		Kơnơ̆ng hơjăn Ơi Adai đôč pô brơi tơlơi juăt laih anŭn jing khua phat kơđi . Hơjăn Ñu jing Pô dưi song mă laih anŭn dưi pơrai . Samơ̆ hlơi ih jing tơl ih khĭn phat kơđi kơ pô jum dar ih ?
+59004014	hơgĕt		Samơ̆ ƀing gih ƀu thâo ôh hơgĕt tơlơi či truh kơ hrơi pơgi , hơgĕt tơlơi hơdip ƀing gih jing ? Yua kơ ƀing gih kơnơ̆ng jing kar hăng hyuh ia tơbiă rai đơsĕt đôč laih anŭn rơngiă thĕng mơtam .
+60002020	hơgĕt		Tơdah ƀing gih tŭ tơlơi arăng taih čŏm yua kơ ƀing gih ngă tơlơi soh , hơgĕt yom kơ ƀing gih ? Samơ̆ tơdah ƀing gih tŭ tơlơi ruă nuă yua kơ ƀing gih ngă tơlơi hiam , anai jing sa tơlơi mơyun hiam ƀơi anăp Ơi Adai .
+60003013	hlơi		Tơdah ƀing gih hur har ngă tơlơi hiam , hmâo hlơi či ngă sat kơ ƀing gih ?
+60004017	hơgĕt		Yua kơ rơnŭk phat kơđi truh laih , ñu čơdơ̆ng mơ̆ng ană plei Ơi Adai . Tơdah tơlơi phat kơđi anŭn čơdơ̆ng mơ̆ng ƀing ta , hơgĕt tơlơi hnal tuč či truh kơ ƀing ƀu tui gưt kơ Tơlơi Phrâo Hiam Ơi Adai ?
+60004018	Hơgĕt		Laih anŭn “ Tơdah mơnuih tơpă ăt dŏ tơnap mơ̆n dưi hmâo tơlơi pơklaih , Hơgĕt tơlơi či truh kơ ƀing ƀu pơpŭ kơ Ơi Adai laih anŭn kơ ƀing mơnuih soh ? ”
+61003004	Pơpă		Gơñu či laĭ : “ Pơpă lĕ tơlơi ƀuăn kơ tơlơi Ñu rai dơ̆ng ? Yua kơ mơ̆ng ƀing ơi adon ƀing ta djai , abih mơnơ̆ng ăt dŏ hơnơ̆ng kar hăng rơnŭk čơdơ̆ng phŭn hrih đôč . ”
+61003011	~		Yua kơ abih bang mơnơ̆ng anŭn či răm rai hĭ , hnŭn yơh brơi kơ ƀing gih khŏm hơdip hăng tơlơi hơdip rơgoh hiam laih anŭn thâo hwĭ pơpŭ kơ Ơi Adai ,
+62002022	Hlơi		Hlơi jing pô ƀlor lĕ ? Jing pô hơngah hĭ kơ Khua Yang Yêsu jing Yang Krist yơh ! Anŭn jing pô ayăt hăng Yang Krist , pô hơngah hĭ Ama laih anŭn Ană .
+62003012	yua hơgĕt		anăm ƀing ta jing hrup hăng Kain ôh , pô lơ̆m kơ yang sat laih anŭn hmâo pơdjai hĭ laih adơi ñu . Yua hơgĕt Kain pơdjai adơi ñu ? Yua kơ khul bruă ñu ngă jing sat laih anŭn khul bruă adơi ñu ngă jing tơpă .
+62003017	hyư̆m		Tơdah arăng hmâo dram gơnam ƀơi lŏn tơnah anai laih anŭn ñu ƀuh adơi ayŏng ñu hmâo tơlơi kơƀah , samơ̆ ñu kơđơ̆l hĭ pran jua hăng ƀing gơ̆ , hyư̆m tơlơi Ơi Adai khăp dưi dŏ amăng ñu lĕ ?
+62004020	hlơi		Tơdah hlơi pô laĭ : “ Kâo khăp kơ Ơi Adai , ” samơ̆ bơrơmŭt kơ adơi ayŏng ñu , ñu anŭn jing sa čô ƀlor đôč . Yua kơ hlơi pô ƀu khăp ôh kơ adơi ayŏng ñu , pô ñu thâo ƀuh , hyư̆m ñu dưi khăp kơ Ơi Adai , Pô ñu ƀu thâo ƀuh ôh .
+62005005	Hlơi		Hlơi jing pô dưi hĭ hăng lŏn tơnah ? Kơnơ̆ng hlơi pô đaŏ kơ Khua Yang Yêsu jing Ană Ơi Adai yơh .
+66005002	Hlơi		Laih anŭn kâo ƀuh sa čô ling jang bă hăng tơlơi kơtang pơhaih hăng asăp kraih , “ Hlơi pô năng lăp pŏk čơkul hră klĭ laih anŭn yaih khul mơnơ̆ng kơđơ̆m anai ? ”
+66006010a	hơdôm sui		Gơñu ur kraih tui anai : “ Ơ Khua Yang jing Pô rơgoh hiam laih anŭn sĭt , hơdôm sui dơ̆ng Ih či phat kơđi , 
+66006010b	~		laih anŭn rŭ nua kơ ƀing dŏ ƀơi lŏn tơnah yua kơ drah ƀing gơmơi ? ”
+66006017	hlơi		Yua kơ hrơi ƀing Gơñu hil kơtang truh laih , laih anŭn hlơi dưi dŏ dơ̆ng ? ”
+66007013a	hlơi		Sa čô amăng ƀing kŏng tha tơña kơ kâo tui anai : “ Ƀing hlơi buh ao phyung kô̆ anŭn , 
+66007013b	mơ̆ng pă		laih anŭn mơ̆ng pă ƀing gơñu rai ? ”
+66013004a	hlơi		Arăng kơkuh pơpŭ kơ ana grai , yua kơ ñu hmâo brơi laih tơlơi dưi kơ hlô glai anŭn , hăng laĭ tui anai : “ Hlơi pô jing hrup hăng hlô anŭn , 
+66013004b	hlơi		laih anŭn hlơi pô dưi pơblah hăng ñu ? ”
+66015004a	hlơi		Ơ Khua Yang , hlơi pô ƀu či hwĭ pơpŭ kơ Ih , 
+66015004b	~		Laih anŭn ƀu ngă guh kơang kơ anăn Ih ? Yua kơ kơnơ̆ng hơjăn Ih đôč jing hiam hơčih . Abih bang kơnŭng djuai mơnuih či rai Kơkuh pơpŭ ƀơi anăp Ih , Yua kơ khul bruă tơpă hơnơ̆ng Ih hmâo pơrơđah laih . ”
+66017007	Hyư̆m		Samơ̆ ling jang laĭ kơ kâo , “ Hyư̆m ih kơtuă hling ? Kâo či pơblang brơi kơ ih tơlơi hơgơ̆m kơ đah kơmơi anŭn , laih anŭn kơ hlô ñu đĭ hmâo tơjuh boh akŏ laih anŭn pluh ƀĕ tơki .
+66018018	pă		laih anŭn gơñu ur kraih tơdang ƀuh asăp apui ƀŏng ñu , “ Aka hmâo djơ̆ ôh plei prŏng pă prŏng prĭn kar hăng plei prŏng anŭn ! ”

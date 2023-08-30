@@ -1,0 +1,743 @@
+40002002	Nauwa-mi		“ Nauwa-mi tauna yuurrnerraq Jews-aat atanerkaat ? Wani-wa agyaa tangrramteggu Calaram nuniini , taigukut ciktaarviknaluku . ”
+40002004	nani		Tua-i-llu agayulirten͞gunret igatulit-llu quyurcetai , apluki-llu nani Christ-am yuurtarkaucianek .
+40003007	kia		Tau͡gaam Pharisee-aat amllellriit Sadducee-aat-llu tangrramiki anglluryulriit qalarutai , “ Elpeci ciissirpiit piyagaitni , kia apertuutaci Agayutem eq'ukutii qimaasqelluku ?
+40005013	ca		“ Nunamun taryuuguci . Tau͡gaam taryuq taryurninairuskan , ca taryirciqau ? Catngunriciiquq tau͡gaam egcimaciquq yugnun tutmartelluku .
+40005046	camek		Wani-wa kenkesteci kiingan kenkekuvciki , camek akqutengqerceci ? Tuaten-llu-qaa piksaitut akiliqurautnek quyurcistet ?
+40005047	cali-llu		Cali-llu ilaci nallaitgun elluarrluki qalaruskuvciki , assinruuci-qaa allani ? Tuaten-llu-qaa piksaitut agayumanrilnguut ?
+40006027	Kia-llu		Kia-llu nalirpeci umyuarrlugcarauteklermikun yuucini usgutarciqau cuqnermek atauciungraan ?
+40006028	Ciin-llu		Ciin-llu umyuarrlugcaralarceci aturarkarpecen̄ek ? Ayuqestassiigutkiciki naunraat tangssunarqelriit yuilqumi , qaillun naulauciat , cumercuitut mingeqsuunateng-llu ,
+40006031a	camek		Taumek umyuarrlugcaryaqunaci , waten qanerluci : ‘ Camek ner'arkauceta ? 
+40006031b	camek		Wall'u camek mer'arkauceta ? 
+40006031c	camek-llu		Camek-llu aturangqerciqseta ? ’
+40007003	Ciin-llu		Ciin-llu verun mikengraan tangvagciu ilavet iingani , tau͡gken veruten angelria iivni elpekevkenaku ?
+40007004	qaillun		Wall'u qaillun ilavnun qaneryugngasit , ‘ Veruten au͡g'arnaurqa iivnek . ’ Amta-llu verun angqapigtellria iivni uitaluni ?
+40007009	kia		Kia nalirpeci qetunrani kaigalria keliparyugluni cikirciqau teggalqumek ?
+40007016a	~		Elpeci atsaitgun nallunriciiqaci . Cukilanat-qaa tegusvik'larait wine-anek , 
+40007016b	~		naunerrluut-llu-qaa tegusvik'larait atsanek ?
+40008026	Ciin		Tau͡gaam elliin qanrutai , “ Ciin nangyaryugceci , elpeci ukverkilngurni ? ” Makluni-llu anuqa meq-llu inerqurak ; tamaa-llu quunenguq .
+40008027	Qaillun		Tau͡gaam taukut angutet irr'ikluku qanertut , “ Qaillun una yuk ayuqa , anuqem mer'em-llu niisngaluku ? ”
+40008029	~		Taukuk qayagpagtuk qanerlutek , “ Caciqsit wangkugnun , Jesus-aaq Agayutem Qetunraa ? Tekituten-qaa nangetnalunuk pinarivailgan ? ”
+40009004	Ciin		Tau͡gaam Jesus-aam umyugait nallunrilamiki qanertuq , “ Ciin umyuarteqseci assiilngurmek ircaqurpeciuggun ?
+40009005	Naliak		Naliak qacignarqenrua , qanerluni , ‘ Assiilnguten au͡gaumaut , ’ wall'u qanerluni , ‘ Makten piyualuten-llu ’ ?
+40009011	Ciin		Tau͡gaam Pharisee-aat tamana tangrramegteggu qanrutait elitnaurai , “ Ciin uum elitnauristevci akiliqurautnek quyurcistet assiilngiumalriit-llu nerellgutek'lartaki ? ”
+40009014	Ciin		John-aam elitnaurain ullagaat Jesus-aaq apluku-llu , “ Ciin wangkuta Pharisee-aat-llu yaalarceta , elpet tau͡gken elitnauraten yaayuunateng ? ”
+40009015	~		Jesus-aam-llu qanrutai , “ Kassuucaram-qaa yui angniitelartut nayurtekluku uikaun ? Tau͡gaam erenret tekiciiqut uikautem ayaucimallerkaa ellaitnek ; nutaan tuani yagciqut .
+40010025	~		Atawauyartuq elitnauraq elitnaurtem̄itun pitakuni , pista-llu atanermitun . Enem yua Beelzebul-amek aterpageskatgu , taum yui arcaqanranek aterpagciiqait .
+40011007	Camek		Ayiignek-llu Jesus-aam yugugaat qanrutai John-aaq pitekluku , “ Camek tangerrnaluci yuilqumun ayallruceci ? Naunrarmek-qaa anuqem arulaskiinek ?
+40011008	camek		Wall'u camek tangerrnaluci ayallruceci ? Angutmek-qaa aturaqegcilriamek ? Tangerrluku aturaqegcilriit atanret enaitni uitalartut .
+40011009	camek		Wall'u-qaa camek tangerrnaluci ayallruceci ? Prophet-aamek-qaa ? Ilumun , qanrutamci prophet-aam piunranek .
+40011016	camun		“ Tau͡gaam camun ayuquciiqsia ukut yuut ? Ayuqut mikelngurcetun aqumgalriacetun tuneniarvigni , qayagaulriacetun ilameggnun
+40012011	Nalirci		Elliin-llu kiugai , “ Nalirci qusngiutengqerquni ataucimek , tauna-llu igeskan elanermun Sabbath-aami , teguluku-qaa nuggngaitaa ?
+40012026	Qaillun		Tuaten-llu tuunrangayak anevkarikuni tuunrangayagmek , ellminek inglukiuq . Qaillun waniwa angayuqauvingqerciqa ?
+40012027	nau͡gg'un		Tua-i-llu wiinga tuunrangayagkun anevkarikuma anernerrlugnek , nau͡gg'un elitnauraci anevkarilartat ? Taumek wani-wa ellaita qanercetaararkaugaiceci .
+40012029	Qaillun-mi		Qaillun-mi pinilriim enii yuum ityunarqau piutainek uayaariyarturluku ? Qillerqaaquniu tau͡gaam yuk ciumek enii uayaayunarqeciqaa .
+40012034	qaillun-mi		Elpeci ciissirpiit piyagaitni , qaillun-mi assiilnguuluci assilriamek qanerciqseci ? Umyuam qanellra qanerkun anlartuq .
+40012048a	kinkut		Elliin tau͡gaam qanrutaa , “ Kinkut aanaksia , 
+40012048b	kinkunek-llu		kinkunek-llu anelgutengqercia ? ”
+40013010	Ciin		Elitnaurain-llu ullagaat qanrulluku , “ Ciin qalaruciki ayuqestassiigutetgun ? ”
+40013027	naken-mi		Naucetaarviliurta tua-i pistain ullagaat apluku-llu , ‘ Assilrianek-ggem nauceciillrungatuten , naken-mi naunerrlugtanga ? ’
+40013054a	Naken-mi		Nunaminun-llu tekicami agayuviatni elicungcarai . Niitestain-llu irr'ikaat qanerluteng , “ Naken-mi una yuk elitmek mat'umek pinga ? Pinimek-llu waten pitalriamek ?
+40013054b	~		
+40013056	Naken-mi		nayagai-llu-qaa cali ilakenritaput ? Naken-mi tua-i una makunek pinga ? ”
+40014031	ciin		Tamaa-llu Jesus-aam tallini yagtaa tungiinun teguluku-llu qanerluni , “ Elpet ukverkilngurmi , ciin nalirrugcit ? ”
+40015002	Ciin		“ Ciin elitnauraten niicunrit'lartat agayulirten͞gunret inerquutaitnek , unateteng erurpek'naki nerqata'arqameng ? ”
+40015003	Ciin		Elliin tau͡gaam kiugai , “ Ciin elpeci piciryararpeciuggun Agayutem alerquutai caunrilkelarceciki ?
+40015033	Naken-mi		Elitnaurain-llu qanrutaat , “ Naken-mi maani yuilqumi kelipangciqseta ukut yugugaat camirutkaatnek ? ”
+40015034	Qavcinek		Jesus-aam-llu aptai , “ Qavcinek elpeci kelipautengqerceci ? ” Kiugaat , “ Malrunelguut , neqkuinraat-wa . ”
+40016008	ciin		Jesus-aam-llu elpekngamiki qanrutai , “ Elpeci ukverkilngurni , ciin qaneksuguceci kelipalginrilucirpecen̄ek ?
+40016009	qavcin		Cali-qaa taringeksaituci ? Neq'akevkenaki-llu kelipat talliman yugugaat tiissitsaat talliman camirutkellrit , kalngat-llu qavcin imirceciki ilakuaritnek ?
+40016010a	~		Aipaani-llu kelipat taukut malrunlegen yugugaat tiissitsaat cetaman camirutkellrit , 
+40016010b	qavcinek-llu		qavcinek-llu kalngagnek imirillruceci ?
+40016011	Qaillun		Qaillun piluci taringeksaiceci ? Kelipat pitekluki qanrutenritamci , tau͡gaam mulngakesqelluci Pharisee-aat Sadducee-aat-llu quulciiriyaraatnek . ”
+40016013	kituuniatnga		Tua-i-llu Caesarea-mun Philippi-m yaaqsinrilkiinun tekicameng , Jesus-aam aptai elitnaurani , “ Wiinga , Yuum Qetunraani , yuut kituuniatnga ? ”
+40016015a	~		Elliin tau͡gaam aptai , 
+40016015b	cauyuksecia		“ Elpeci-mi cauyuksecia ? ”
+40016026a	camek		Wani-wa camek ilatengqerciqa yugmun , tamaaggun tamarluku ella tamalkuan piksaguskuniu , yuucini-llu tamarluku ? 
+40016026b	camek		Wall'u camek cikiqengciqa unguvami navrutkaanek ?
+40017010	Ciin-mi		Aptaat-llu elitnaurain , “ Ciin-mi igatulit qanlartat Elijah ciumek taigarkauniluku ? ”
+40017017a	qaillun		Jesus-aam-llu qanrutai , “ Ukuni ukverkilngurni , iqlutun-llu umyuarteq'lalriani , qaillun pitalriamek elpecen̄eciiqsia ilalcirlua ? Taiciu wangnun . ”
+40017017b	~		
+40017019	Ciin		Kiimetellrani-llu elitnaurain ullagaat , apluku-llu , “ Ciin wangkuta anevkarisciigaceta taumek ? ”
+40017025a	Qaillun		Kiugaa-llu , “ Aa-ang , ” enemun-llu iterluni . Tau͡gaam qanerpailgan ciullegluku Jesus-aam aptaa , “ Qaillun umyuarteqsit , Simon , 
+40017025b	kinkunun		nunam atanertai kinkunun akiliqurautnek cikircet'lartat , yum'eggnun-qaa wall'u allanernun ? ”
+40018001	Kina		Taum nalliini Jesus-aaq elitnaurain ullagaat apluku-llu , “ Kina angenrua qiliim angayuqauviani ? ”
+40018012	Qaillun		Qaillun umyuarteqseci ? Yuk qusngiutengqerquni yuinarnek tallimanek , atauciq-llu tamarluni , taukut-qaa yuinaat tallimaunritaraan unisngaitai , ingrini-llu tamalleq yuaryarturluku ?
+40018021	qavcirqunek		Tua-i-llu Peter-aam ullagluku Jesus-aaq aptaa , “ Ataneq , ilama assiilngirvik'laqanga qavcirqunek au͡g'ariciiqsia ? Malrunlerqunek-qaa ? ”
+40019007	Ciin-mi		Taukut tau͡gaam kiugaat , “ Ciin-mi Moses-aaq alerquiga , angutem nuliani avcukuniu kalikamek avvuyutkamek cikiisqelluku ayagtelluku-llu ? ”
+40019016	camek		Tangerrluku-llu yuum ullagaa apluku-llu , “ Elitnauristaa , camek assilriamek caliciqsia , unguvamun nangyuilngurmun itrutkamnek ? ”
+40019017	Ciin		Jesus-aam kiugaa , “ Ciin assilriamek apcia ? Allamek assilriartaituq , Agayun kiimi assilriaruuq . Tau͡gaam unguvamun iteryukuvet alerquutet aturki . ”
+40019018	naliit		Tua-i tauna aptuq , “ Alerquutet naliit ? ” Jesus-aam kiugaa , “ Makut maa-i : tuquciyaqunak , akusrarutekiyaqunak , teglegyaqunak , ilavnek piciliqengyaqunak ,
+40019020	camek		Angun tua-i tauna qanertuq , “ Tamakut tamalkuita niisngayaaqanka , camek cali piarkausia ? ”
+40019025	Kina-mi		Elitnaurain qaneryaraa man'a niicamegteggu irr'ikaat qanerluteng , “ Kina-mi tua-i anirtuumaciqa ? ”
+40019027	camek		Peter-aam cauluku Jesus-aaq qanrutaa , “ Wangkuta piput tamalkuita unitellruaput maliggluten-llu , camek tua-i pingciqseta ? ”
+40020006	Ciin		Sass'at tallimiitni ayiimi cali allat tangrrai qaciggluteng nangengqalriit . Qanrutai-llu , ‘ Ciin qaciggluci ernerpak maani nangengqaceci ? ’
+40020012	~		Qanrutaat-llu , ‘ Ukut kingumek yagtellret sass'ami ataucimi calillruut , tau͡gaam akiliraten pitatekluta wangkuta ernerpak cakviullerni kiirniurluta-llu . ’
+40020021	Camek		Elliin-llu aptaa , “ Camek tua-i pisqumasit ? ” Taum tua-i qanrutaa , “ Angayuqauvigpeni ukuk qetunraagka canivnun aqumevkaasqumaagka , aipaa tallirpilirnerpeni , aipaa-llu iqsulirnerpeni . ”
+40020032	Qaillun		Jesus-aaq tua-i arulairtuq ellminun-llu taisqellukek , tua-i-llu aptak , “ Qaillun pisqumacetek wangnun ? ”
+40021010	Kina		Jerusalem-aamun-llu itran nunamelnguut tamarmeng pek'ngut , qanerluteng , “ Kina una ? ”
+40021016	~		Qanrutaat-llu , “ Niitaten-qaa ukut qanellrit ? ” Jesus-aam-llu kiugai , “ Aa-ang , naaqiksaituci-qaa waten : ‘ Mikelnguut emuumalriit-llu qanritnek nanrautekarpenek qaqiciuten . ’ ”
+40021020	Qaillun		Elitnaurain-llu tamana tangrramegteggu irr'ikaat qanerluteng , “ Qaillun piluni napa atsangqetuli alqunaq nalaa ? ”
+40021023a	Qaillun		Agayuvigpagmun-llu itran agayulirten͞gunret yuut-llu ciulirnerita ullagaat elitnauriinanrani apluku-llu , “ Qaillun ayuqelriamek piyunarqucingqerrluten tuaten pilarcit ? 
+40021023b	Kia-llu		Kia-llu cikirtaten piyunarqucirkarpenek ? ”
+40021025a	naken		John-aam angllurceciyaraa naken piurtellrua , qilagmek-qaa wall'u yugnek ? ” Tua-i kiutaagutut qanerluteng , 
+40021025b	~		“ Qilagmek pillrunikumteggu , tua-i qanruciiqaakut , 
+40021025c	Ciin-mi		‘ Ciin-mi waniwa ukveqenriceciu ? ’
+40021028	Qaillun		“ Qaillun umyuarteqseci ? Yuk malrugnek qetunrangqellruuq , aipaa ullagaa qanrulluku-llu , ‘ Qetunraaq , ernerpak naucetaarvigmi caliyartua . ’
+40021031	Kia naliagnek		Kia naliagnek atami pisqutii aturtau ? ” Kiugaat-llu , “ Ciuqliim-wa ” . Jesus-aam-llu qanrutai , “ Ilumun , qanrutamci , akiliqurautnek quyurcistet akusrarutekilriit-llu Agayutem angayuqauvianun ciullegluci iterciqut .
+40021040	qaillun		Tua-llu-qaa naucetaarviim yua tekiskuni , qaillun piciqaki taukut nauceciiyurtet ? ”
+40022012	qaillun		Qanrutaa-llu , ‘ Usuuq , qaillun piluten maavet itercit aturamek kassuutessuutmek aturpek'nak ? ’ Tau͡gaam tauna nepaituq .
+40022017	qaillun		Taumek waniwa qanruskut , qaillun umyuarteqsit , Caesar-aaq akiliqurautnek cikirluku , elluartuq-qaa wall'u elluanrituq ? ”
+40022018	Ciin		Tau͡gaam Jesus-aam elpekngamiu assiilngurmek umyuangqerruciat qanrutai , “ Ciin naspaacecia , elpeci malrugnek umyualegni ?
+40022020a	kia		Aptai-llu , “ Kia una tarenraa , 
+40022020b	kia-llu		kia-llu atranek igangqerta ? ”
+40022028	kia naliata		Taumek wani-wa maktellerkaq tekiskan makeskuneng , kia taukut naliata nulirqeciqau ? Wani-wa taukut tamarmeng nulirqellrukiit . ”
+40022036	naliat		“ Ayuqucirturtaa , naliat alerquutet angenrua ? ”
+40022042a	qaillun		“ Qaillun umyuarteqseci Christ-aq pitekluku ? 
+40022042b	kia		Kia qetunraqau ? ” Kiugaat-llu , “ David-aam qetunraqaa . ”
+40022043	Ciin-mi		Tua-i qanrutai , “ Ciin-mi David-aam anernerkun Atanerminek tuqlurtau qanerluni waten ,
+40022045	qaillun		David-aam tua-i Atanerminek tuqluamiu , qaillun wani-wa qetunraqau ? ”
+40023017	Naliak		Elpeci usviitellriani cikmiumalriani-llu ! Naliak angenrua , suulutaaq wall'u agayuvik suulutaam kenciknarivkartii ?
+40023019	Naliak		Elpeci cikmiumalriani ! Naliak angenrua , cikiun wall'u elliivik cikiutem kenciknarivkartii ?
+40023033	qaillun		Elpeci ciissirpagni , elpeci ciissirpiit piyagaitni , qaillun piluci nangtaullerkarci qimagciqseciu ?
+40024003a	qaku		Olive-aam-llu ingriani aqumgallrani , elitnaurain ullagaat allamek nayurtaunaku , apluku-llu , “ Qanruskut , qaku tamakut tuaten ellirarkaugat ? 
+40024003b	ca		Cali-llu ca nallunailkutnguarkauga tekitenqigtellerkarpenek , ellam-llu mat'um iquklitlerkaanek ? ”
+40024045	Kituuga-mi		“ Kituuga-mi tua-i tauna piciuluni ellatuluni-llu pista , atanran pistem̄inun qaunqesten͞gurtellra , pikaitnek cikilaasqelluki nerrlerkaat pinariaqan ?
+40025037	qangvaq		Tua-i ellualriit kiuciqut ‘ Ataneq , qangvaq tangellruceta kaigtelluten nerevkarluten-llu , wall'u meqsugtelluten mercelluten-llu ?
+40025038	Qangvaq-llu		Qangvaq-llu tangellruceta allanrunerpeni ciuniurluten-llu , wall'u matangqanerpeni aturarkilluten-llu ?
+40025039	Qangvaq		Qangvaq tangellruceta naulluunerpeni , itercivigmetnerpeni-llu ullagluten-llu ? ’
+40025044	qangvaq		Tua-i taukut kiuciqut , ‘ Ataneq , qangvaq tangellruceta kaigtelluten , wall'u meqsugtelluten , wall'u allanrunerpeni , wall'u matangqanerpeni , wall'u naulluunerpeni , wall'u itercivigmetnerpeni , kevgiuqsaunata-llu elpenun ? ’
+40026008	Ciin		Tau͡gaam elitnaurain tamana tangrramegteggu cangayugtut , qanerluteng , “ Ciin man'a tuaten caanguarutngua ?
+40026010	Ciin		Jesus-aam tamana niicamiu qanrutai , “ Ciin una arnaq cangayugcetaarceciu ? Caliara tungemnun assilriaruuq .
+40026015	Camek		apluki-llu , “ Camek cikirciqsecia tunkumku elpecen̄un ? ” Taukut-llu usperluki akit , yuinaq qulnek cipluku , tunait elliinun .
+40026017	Nani		Erenret quulciriyaarailngurnek kelipartularviit ciuqliatni elitnaurat Jesus-aaq ullagaat , qanerluteng , “ Nani upciiqseta Paaskaarcuutekamek ner'arkarpenek ? ”
+40026040	~		Maaten elitnaurani ullagai qavallinilriit . Peter-llu qanrutaa , “ Waqaa pegg'allgutkesciigatarpecia-qaa sass'ami ataucimi ?
+40026050	caluten		Jesus-aam-llu qanrutaa , “ Usuuq , caluten tekicit ? ” Tua-i taukut tailuteng yaggvikaat Jesus-aaq , teguluku-llu .
+40026054	qaillun		Tau͡gaam qaillun waniwa piluteng kalikat piciurciiqat tuaten piarkauluni ? ”
+40026062a	~		Agayulirten͞guneq tua-i nangertuq , Jesus-aaq-llu aptaa , “ Kiutekaituten-qaa ? 
+40026062b	caugat		Caugat makut nallunairutet elpenun ? ”
+40026065	nallunairistem̄ek		Tua-i agayulirten͞gunrem aturani allgurai , qanerluni , “ Agayutmek qacungakiuq , allamek-qaa nallunairistem̄ek pinarqukut ? Wani-wa qacungakicia niitarci tungaunaci .
+40026066	Qaillun		Qaillun umyuarteqseci ? ” Kiugaat , “ Tuqutnarquq . ”
+40026068	Kia		qanerluteng , “ Wangkutnun ap'ringnaqi , Christ-aaq ! Kia qacartaten ? ”
+40027004	Catnguciqat		qanerluni , “ Wiinga picurlagtua ellualriim auga tunngamku . ” Tau͡gaam qanertut , “ Catnguciqat wangkutnun ? Elpet pikaten . ”
+40027013	~		Pilate-aam-llu qanrutaa , “ Niitenrituten-qaa ukut nallunairutaitnek ayuqenrilngurnek elpenun ? ”
+40027017	Naliagnek		Tua-i yuut quyungqallratni , Pilate-aam aptai , “ Naliagnek angicisqumacecia , Barabbas-aamek-qaa wall'u Jesus-aamek , Christ-amek aterpagcimalriamek ? ”
+40027021	Naliak		Tua-i nunam atanran ataam aptai , “ Naliak ukuk angiciiqsia elpecen̄un ? ” Kiugaat-llu , “ Barabbas-aaq . ”
+40027022	Qaillun-mi		Pilate-aam tua-i qanrutai , “ Qaillun-mi tua-i Jesus-aaq piciqsia Christ-amek aterpagcimalria ? ” Tamarmeng-llu kiugaat , “ Ussukcausgu . ”
+40027023a	ciin-wa		Elliin cali aptai , “ Ciin-wa , 
+40027023b	camek		camek assiilngirta ? ” Tau͡gaam qayagpagtut , “ Ussukcausgu . ”
+40027046	ciin		Sass'at-llu pingayuatni Jesus-aaq qayagpagtuq waten , “ Eli , Eli , lama sabachthani ? ” Tamana mumiggluku waten ayuquq , “ Agayutmaa , Agayutmaa , ciin unicia ? ”
+41001024	camek		“ Uitaskikut , camek pitkangqercit wangkutnun , Jesus-aaq Nazareth-aarmiu ? Tekituten-qaa piunrirnaluta ? Nallunritaqa kituucin , taunguuten Agayutem Ellualriara . ”
+41001027	Cauga		Tamarmeng tua-i irr'iqapigtut , apqaurulluteng-llu ellmeggnun , qanerluteng , “ Cauga man'a ? Ayuqucirtuutnguuq-qaa nutaraq ? Wani-wa pinimikun anernerrluut ellimertuateng maligtaquat ! ”
+41002007a	ciin		“ Ciin una yuk waten qallata ? Agayutmek qacungakiuq ! 
+41002007b	kina		Kina Agayutngunrilnguq assiilngurnek au͡g'ariyunarqa ? ”
+41002008	Ciin		Jesus-aam-llu anernermikun tamaa elpekngamiki umyuamegteggun tuaten umyuartequciat , qanrutai , “ Ciin ircaqurpeciuggun tuaten umyuarteqseci ?
+41002009	Naliak		Naliak qacignarqenrua , waten pektesciigalngurmun qanerluni , ‘ Assiilnguten au͡gaumaut , ’ wall'u waten qanerluni , ‘ Makluten , inartessuuten teguu piyualuten-llu ’ ?
+41002016	Ciin		Kalikanek-llu elisngalriit Pharisee-aat-llu tangrramegteggu , akiliqurautnek quyurcistet assiilngiumalriit-llu nerellgutekluki , elitnaurainun qanertut , “ Ciin akiliqurautnek quyurcistet assiilngiumalriit-llu nerellgutek'lartaki mellgutekluki-llu ? ”
+41002018	Ciin		John-aam-llu Pharisee-aat-llu elitnaurait yaalaameng nerenritengnaqluteng , tekilluteng qanrutaat , “ Ciin John-aam Pharisee-aat-llu elitnaurait yaalartat nerenritengnaqluteng , tau͡gaam elpet elitnauraten yagyugpek'nateng ? ”
+41002019	~		Jesus-aaq-llu ellaitnun qanertuq , “ Uikautem-qaa ilai yaayunarqut uikaun ilakluku ? Uikaun ilakluku yaayunaitut .
+41002024	ciin		Pharisee-aat elliinun qanertut , “ Tangerrluku , ciin atam Sabbath-aami inerquutmek piat pisqutngunrilngurmek ? ”
+41003004	ca		Qanrutai-llu , “ Ca elluarta , Sabbath-aami assilriamek piluni , wall'u assiitellriamek piluni ; unguvavkariluni wall'u tuquciluni ? ” Tau͡gaam nepaitut taukut .
+41003023	Qaillun		Tua-i taisqelluki ayuqestassiigutetgun qalarutai , “ Qaillun piluni tuunrangayiim tuunrangayak anevkayunarqau ?
+41003033a	kina		Kiugai-llu , “ Kina aanaksia , 
+41003033b	kinkut-llu		kinkut-llu anelguteksia ? ”
+41004013	Qaillun-mi		Qanrutai-llu , “ Man'a-qaa ayuqestassiigun taringenritarci ? Qaillun-mi piluci tamalkuita ayuqestassiigutet taringeciqseciki ?
+41004030a	qaillun		Tua-llu qanertuq , “ Qaillun piluta Agayutem angayuqauvia ayuqestassiigutarkauceta ? 
+41004030b	qaillun		Wall'u qaillun ayuqelriamek ayuqestassiigutmek ayuqestassiigutarkauceta ?
+41004038	~		Ellii-llu angyam kinguani qavartuq akitem qaingani . Tua-i tupagtaat qanrulluku-llu , “ Ayuqucirturtaa , catkenritan-qaa akacakataucirput ? ”
+41004040a	ciin		Qanrutai-llu , “ Ciin tuaten nangyaryugceci ? 
+41004040b	cali		Ukvengeksaituci-qaa cali ? ”
+41004041	Kina		Alingeqapiggluteng-llu qanruyutut , “ Kina una , anuqem mer'em-llu niisngaan'gu ? ”
+41005007	Caciqekemken		qastuluni-llu qayagpagtuq qanerluni , “ Caciqekemken , elpet Jesus-aaq Agayutem Quyinrulriim Qetunraani ? Ilunglua qanrutamken Agayutem takuani nangtesqevkenii . ”
+41005009	Qaillun		Aptaa-llu , “ Qaillun atengqercit ? ” Kiugaa-llu , “ Legion-aamek atengqertua , amllerramta . ”
+41005030	Kia		Jesus-aam-llu elpekaa piniq ellminek anucianek , yuut-llu akuliitni tunutmun cauluni qanertuq , “ Kia aturanka agturtaki ? ”
+41005031	Kia		Elitnaurai-llu elliinun qanertut , “ Elpet tangrraten yuut elpenun qerrlerucilriit , tau͡gken qanerluten , ‘ Kia agturtanga ? ’ ”
+41005035	ciin		Cali qallasnginanrani , agayuviim atanran enelgutain ilait tekitut qanerluteng , “ Elpet paniin tuquuq , ciin Ayuqucirturta cali uamceciu ? ”
+41005039a	ciin		Tua-i itertuq qanrulluki-llu , “ Ciin neplirceci qialuci-llu ? Mikelnguq tuqunrituq , qavartuq tau͡gaam . ”
+41005039b	~		
+41006002a	naken		Sabbath-aaq-llu tekican agayuvigmi elicungcariuq . Amllelriit-llu niicamegteggu alangaartut qanerluteng , “ Naken una angun mat'umek pia ? 
+41006002b	cauga-llu		Cauga-llu una elisnga elliinun cikiutekumalria ? 
+41006002c	caliat-llu		Caliat-llu caperrnarqelriit makut unataikun pimalriit ?
+41006022	~		Herodias-aam-llu pania itrami yurartuq ; Herod-aaq nerellgutai-llu nunaniryugtelluki , tua-i angayuqam neviarcar qanrutaa , “ Piyukekevnek kaigavikia , cikirciqamken piyuutevnek . ”
+41006024	Camek		Tauna-llu an'uq aanani apcarturluku , “ Camek kaigaciqsia ? ” Kiugaa , “ John-aam angllurcecistem qamiqurranek . ”
+41006037	~		Tau͡gaam kiugai , “ Elpeci nerevkarciki . ” Tua-i qanrutaat , “ Akikuinraat-qaa yuinaat qulen aturluki kipucarturciqukut nerevkarluki-llu ? ”
+41006038	Qavcinek		Qanrutai-llu , “ Qavcinek elpeci kelipautengqerceci ? Tangerrsarturciki . ” Nallunriamegteki qanertut , “ Tallimaugut , neqek-wa malruk . ”
+41007005	Ciin		Tua-i Pharisee-aat kalikanek-llu elisngalriit aptaat , “ Ciin elitnauraten maligtaquteksaitelartat ciulirneret picirkangutaitnek ? ” Tau͡gaam kelipamek ner'aqluteng unateteng eruumavkenaki ?
+41008004	Naken-mi		Elitnaurain-llu kiugaat , “ Naken-mi yuk kelipangciqa ukut camirutkaatnek maani yuilqumi ? ”
+41008005	Qavcinek		Aptai-llu , “ Qavcinek kelipautengqerceci ? ” Kiugaat , “ Malrunlegnek . ”
+41008012	Ciin		Ellii-llu iluteqluni aneryaarluni , qanertuq , “ Ciin ukut tungelquqelriit nallunailkutmek pingengnaqvakartat ? Ilumun , qanrutamci , ukut tungelquqelriit nallunailkutmek cikiumangaitut . ”
+41008017	Ciin		Jesus-aam-llu elpekngamiki qanrutai , “ Ciin qanruyuceci kelipautailucirpecen̄ek ? Cali-qaa elpengeksaituci , ayuquciinaci-llu ? Ircaqurci-qaa tegg'ivkararci ?
+41008018a	~		Iingqerrluci , tangenrrituci-qaa ? 
+41008018b	~		Ciutengqerrluci , niitenrituci-qaa ? Neq'akinrituci-llu-qaa
+41008019	qavcin		imkut kelipat talliman itumcamki tiissitsaanun tallimanun , kaimllerit-llu quyurtellerpecen̄i kalngat qavcin imirceciki ? ” Kiugaat , “ Qulen malrugnek cipluki . ”
+41008020	qavcin		“ Imkut-llu malrunelgen itumcamki tiissitsaanun cetamanun , kaimllerit-llu quyurtellerpecen̄i kalngat qavcin imirceciki ? ” Kiugaat-llu , “ Malrunelgen . ”
+41008021	Cali-qaa		Tua-i qanrutai , “ Cali-qaa taringeksaituci ? ”
+41008023	Camek-qaa		Tua-i cikmiumalria tauna tegua tass'uqluku enet yaatiitnun ayautaa , iik-llu qecirak unatminek-llu pategluku aptaa , “ Camek-qaa tangertuten ? ”
+41008027	kituuniatnga		Tua-i Jesus-aaq ayagtuq elitnaurani ilakluki nunainun Caesarea Philippi-m . Ayainanermeggni-llu elitnaurani aptai qanerluni ellaitnun , “ Yuut kituuniatnga ? ”
+41008029a	~		Aptai-llu , 
+41008029b	kituuyuksecia		“ Tau͡gaam elpeci kituuyuksecia ? ” Tua-i Peter-aam kiugaa , “ Elpet Christ-auguten . ”
+41008036	camun		Wani-wa camun ikayuutnguciqa yugmun , nunam pii tamalkuita piksaguskuniki , unguvani-llu cagmarluku ?
+41008037	ca		Wall'u-qaa ca yuum tunciqau unguvami navrutkaanun ?
+41009010	caucianek		Tamana-llu qanellra ellmentaurcetaat , apqaurulluteng-llu mat'um tuqumalrianek maktellerkam caucianek .
+41009011	Ciin		Tua-i aptaat , “ Ciin kalikanek elisngalriit qanlartat Elijah ciumek tekitarkauniluku ? ”
+41009012	Qaillun-llu		Qanrutai-llu , “ Elijah ciumek tekitarkaullruuq tamalkuita-llu elluaqcararkauluki . Qaillun-llu igausngaa Yuum Qetunraa pitekluku nangteqeqapigtarkaulria caunrilkumaarkauluni-llu ?
+41009016	Camek		Tua-i aptai , “ Camek apqaurceciki ? ”
+41009019a	qaillun		Tua-i kiugai , “ Arenqiapaa tungelquqelriani ukvenrilngurni , qaillun pitalriamek elpecen̄i uitaciqsia ? 
+41009019b	qaillun		Qaillun pitalriamek ilalcirciqsia elpecen̄un ? ”
+41009021	Qangvarnek		Atii tua-i aptaa , “ Qangvarnek waten pilarta ? ” Kiugaa-llu , “ Mikelnguullerminek .
+41009028	Ca		Enemun-llu itran , elitnaurain allamek ilaunateng aptaat , “ Ca pitekluku wangkuta anevkarisciigaceta ? ”
+41009033	Ca		Tua-i-llu Capernaum-aamun tekitut , enemetlermini-llu aptai , “ Ca qanrutekseciu ayallerpecen̄i ? ”
+41009050	camek		Taryu assirtuq , tau͡gaam taryu taryurninairuskan , camek kemnarcarciqseciu ? Elpecen̄i taryungqerci , uitanqegcillgutekluci-llu . ”
+41010003	qaillun		Kiugai-llu , “ Moses-aam qaillun picirkillruaci ? ”
+41010017	qaillun		Tumyaramun-llu anngan , yuum aqvaqurluni ullagaa ciuqerranun-llu ciisqumigtuq , apluku-llu , “ Elitnauristaa assilria , qaillun pilua piksaguciiqsia unguva nangyuilnguq ? ”
+41010018	Ciin		Jesus-aam-llu qanrutaa , “ Ciin assilriamek tuqlurcia ? Allamek assilriartaituq , Agayun kiimi assilriaruuq .
+41010026	Kina-kiq		Tua-i nutaan alangaaqapigtut qanrulluku-llu , “ Kina-kiq tua-i anirtuumaniarta ? ”
+41010036	Qaillun		Aptak-llu , “ Qaillun pisqumacetek wangnun ? ”
+41010051	Qaillun		Jesus-aam-llu pia qanrulluku , “ Qaillun pisqessit wangnun ? ” Cikmiumalriim-llu kiugaa , “ Ayuqucirturtaa , tangerrsaurcesqua . ”
+41011003	Ciin		Waten-llu yuum apeskatek , ‘ Ciin tuaten picetek ? ’ tua-i qanerciqutek , ‘ Atanrem aturyugaa . ’ Tua-i tamaa maavet taivkarciqaa . ”
+41011005	Cacetek		Tuanelnguut-llu ilaita qanrutagket , “ Cacetek , nuraq petuirluku ? ”
+41011028a	qaillun		qanrulluku-llu , “ Qaillun ayuqelriamek piyunarqucingqerrluten tuaten pilarcit ? 
+41011028b	kia		Wall'u kia mat'umek piyunarqucingqerceskiiten waten pilarcit ? ”
+41011030	~		John-aam angllurceciyaraa qilagmek-qaa wall'u yugnek piurtellruuq ? Kiucia . ”
+41011031a	~		Tua-i qaillukuartut qanruyulluteng , “ Qilagmek pillrunikumteggu , tua-i qanerciquq , 
+41011031b	ciin-mi		‘ Ciin-mi ukveqenriceciu ? ’
+41012009	qaillun		Tua-i naucetaarviim yua qaillun piciqa ? Tekiciiquq nauceciiyurtet-llu taukut piunrirciqai , naucetaarvik-llu allanun tunluku .
+41012015	Ciin		Cikiqengciqukut-qaa wall'u cikiqengengaitukut ? ” Tau͡gaam malrugnek umyuangqerruciatnek nallunrilami , qanrutai , “ Ciin naspaacecia ? Akicuar wangnun taiciu , tangerrnaurqa . ”
+41012016a	kia		Tua-i taitaat . Qanrutai-llu , “ Kia una ayuqii , 
+41012016b	kia-llu		kia-llu atranek igangqerta ? ” Kiugaat-llu , “ Caesar-aam-wa . ”
+41012023	kia naliata		Tua-i makeskuneng kia taukut naliata nulirqeciqau ? Wani-wa taukut malrunelgen nulirqellrukiit . ”
+41012028	naliat		Kalikanek-llu elisngalriit iliita atunem apqauruyuciat niicamiu , nalluvkenaku-llu ellaitnek kiuluaqaricia , ullagaa apluku-llu , “ Alerquutet tamarmeng naliat ciuqliuga ? ”
+41012035	Qaillun		Jesus-aaq-llu Agayuvigmi elitnauriami , qanertuq , “ Qaillun kalikanek elisngalriit qanlartat Christ-aq David-aamun qetunraqniluku ?
+41012037	qaillun		Tuaten David-aam tungaunani Atanerminek tuqluamiu , qaillun wani-wa qetunraqau ? ” Yugugaat-llu niicuumikaat .
+41013004a	qaku		“ Qanruskut , qaku makut tuaten ellirarkaugat ? 
+41013004b	ca		Cali-llu ca nallunailkutnguarkauga makut tamarmeng piqataqata ? ”
+41014004	Ciin		Tau͡gaam tuanelnguut ilaita cangayutekaat qanerluteng , “ Ciin minguk man'a caanguarutngua ?
+41014006	Ciin		Tau͡gaam Jesus-aaq qanertuq , “ Uitaciu ! Ciin cangayugcetaarceciu ? Assilriamek pianga .
+41014012	Nani		Erenret-llu quulciiriyarailngurnek kelipartularviata ciuqliatni , qusngiyagaq Paaskaarcuutekaq tuqucimarian , elitnaurain aptaat , “ Nani upcartuusqumasikut Paaskaami ner'arkarpenek ? ”
+41014014	Nani		natmun-llu itqan , tuani enem atanra qanruskit'gu , ‘ Elitnaurista qanertuq , Nani enevni Paaskaarcuutmek nerciqsia elitnauranka ilakluki ? ’
+41014060a	~		Agayulirten͞guneq tua-i nangertuq qukaatnun-llu piluni , Jesus-aaq aptaa , “ Kiukaituten-qaa watqapik ? 
+41014060b	camek		Camek ukut piniatgen ? ”
+41014063	Cali-qaa		Tua-i agayulirten͞gunrem aturani allgurai qanerluni , “ Cali-qaa nallunairistem̄ek allamek pinarqukut ?
+41014064	Qaillun		Niitarci Agayutmek qacungakicia . Qaillun umyuarteqseci ? ” Tamarmeng-llu tuqutnaqniat .
+41015004	~		Pilate-aam tua-i aptenqigtaa , “ Kiukaituten-qaa watqapik ? Atam amllernek picetaaruskiitgen . ”
+41015012	Qaillun-mi		Pilate-aam-llu ataam qanrutai , “ Qaillun-mi waniwa wangnun pisqececiu una Jews-aat Angayuqratnek aterpagtellerci ? ”
+41015014a	ciin		Pilate-aam tua-i qanrutai , “ Ciin , 
+41015014b	camek		camek assiilngurmek taquta ? ” Tau͡gaam arcarikanirluteng qayagaut , “ Kelistamun ussukcausgu ! ”
+41015034	ciin		Sass'at-llu pingayuatnun ellinrani Jesus-aaq qastuluni qayagpagtuq qanerluni , “ Eloi , Eloi , lama sabachthani ? ” tamana mumiggluku waten ayuquq , “ Agayutmaa , Agayutmaa , ciin unicia ? ”
+41016003	Kia		Qanruyutut-llu , “ Kia teggalqumek qungum painganelngurmek akaguciiqakut ? ”
+42001018	Qaillun		Zacharias-aam-llu an'gilaq qanrutaa , “ Qaillun man'a nallunriciiqsia ? Tang , wiinga angukara'urluurtellrianga , nulirqa-llu ayagyuanrirluni . ”
+42001034	Qaillun-mi		Mary-m-llu an'gilaq kiugaa , “ Qaillun-mi tuaten piciqsia wii uingunii ? ”
+42001043	Qaillun		Qaillun piama Atanema aaniin ullagtanga ?
+42001066	cauqatarta		Tamatumek-llu niitellriit umyuangcautekaat , qanraqluteng , “ Mikelnguq una cauqatarta ? ” Tua-i Atanrem ikayuumaa .
+42002048	ciin		Tangrramegnegu irriuk ; aaniin-llu qanrutaa , “ Qetunraaq , ciin waten pisikuk ? Tangerrluku , atavet wiinga-llu yuaramegten peng'garrluten . ”
+42002049	Ciin		Elliin-llu qanrutak , “ Ciin yuarcetegnga ? Nalluutek-qaa Atama eniini uitaarkaucimnek ? ”
+42003007	Kia		Yugugaat-llu ellminun anglluryartulriit qanrutai , “ Elpeci , ciissirpiit piyagaitni ! Kia elpengcartaci avitesqelluku eq'uqertii tekitarkaq ?
+42003010	qaillun		Yugugaat-llu aptaat , “ Wangkuta-mi qaillun piciqseta ? ”
+42003012	qaillun-mi		Akiliqurautnek-llu quyurcistet anglluryarturtut , apluku-llu , “ Elitnauristaa , qaillun-mi wangkuta piciqseta ? ”
+42003014a	~		Anguyagtet-llu aptaat , “ Tua-i-llu wangkuta , 
+42003014b	qaillun		qaillun piciqseta ? ” Kiugai-llu , “ Uayanrilkiciu yuk picilirpek'naku-llu , akiliutevcen̄ek-llu elaraksaunaci . ”
+42004034	Caciqsikut		“ Aa-wa ! Caciqsikut , Jesus-aaq Nazareth-aarmiu ? Tekituten-qaa piunrirnaluta ? Nallunritaqa taungucin Agayutem Tanqilriartaa . ”
+42004036	Cauga		Tamarmeng-llu irriut qanruyulluteng-llu , “ Cauga man'a qaneryaraq ? Tua-i tuknilriakun piningqerrluni anernerrluut ellimerturaqateng anenaurtut . ”
+42005021a	kina		Igatulit Pharisee-aat-llu ayagnerkarcurtut qanerluteng , “ Kina una piciliutekiluni qallata ? 
+42005021b	kina		Kina Agayutngunrilnguq assiilnguiriyugngaa ? ”
+42005022	Ciin		Tau͡gaam Jesus-aaq elpengami ayagnerkarcuuciatnek kiugai , “ Ciin umyuangcarceci ayagnerkarpecen̄ek ?
+42005023	naliak		Ukuk naliak qacignarqenrua , qallatellerkaq , ‘ Assiilnguirumauten , ’ wall'u waten qanerluni , ‘ Nangerrluten piyuagi ? ’
+42005030	Ciin		Tua-i-llu Pharisee-aat igartaita-llu elitnaurai qanemyuugautekait qanerluteng , “ Ciin akiliqurautnek quyurcistet assiilngiumalriit-llu nerellgutek'larciki , mellgutekluki-llu ? ”
+42005033	~		Tua-i-llu qanrutaat , “ John-aam elitnaurai yaalartut kaigcirluteng , piicagaqluteng-llu , tuaten-llu cali Pharisee-aat elitnaurait pilarmiut , tau͡gken elpet piten nerlartut merluteng-llu . ”
+42005034	~		Jesus-aam-llu qanrutai , “ Uikautem-qaa uitallgutai yagceciiqaci uikaun ellaitnelluku ?
+42006002	Ciin		Tau͡gaam Pharisee-aat ilait qanertut , “ Ciin tuaten piceci pisqutngunrilngurmek Sabbath-aami ? ”
+42006009	naliak		Nutaan Jesus-aam qanrutai , “ Apetnaamci , naliak elluanrua Sabbath-aami atawamek piluni , wall'u atawaunrilngurmek , unguvavkariluni wall'u tuquvkariluni ? ”
+42006032	nau͡gg'un		“ Kenkesceci kenkekuvciki nallaitgun , nau͡gg'un ilukegcinarqeciqseci ? Tua-i assiilngilriarung'e'rmeng kenkesteteng kenkelaamegteki .
+42006033	nau͡gg'un		Pinqegciucesceci nallaitgun pinqegciutelaquvciki nau͡gg'un ilukegcinarqeciqseci ? Tua-i assiilngilriarung'e'rmeng tuaten pilartut .
+42006034	nau͡gg'un		Navriskengkuvci-llu cimirarkanek , nau͡gg'un ilukegcinarqeciqseci ? Tua-i assiilngilriarung'e'rmeng navriskenglaameng ilameggnun cimirarkaitnek .
+42006039	~		Cuqyutmek-llu qalarutai , “ Cikmiumalriim-qaa cikmiumallgutni pekyuciiqaa ? Tamarmek-qaa iggngaituk ilutulriamun ?
+42006041	Ciin-llu		Ciin-llu verun mikengraan tangvagciu ilavet iingani , tau͡gken veruten angelria iigpeni elpekumavkenaku ?
+42006042	qaillun		Wall'u qaillun qaneryugngasit ilavnun , ‘ Veruten au͡g'arnaurqa iivnek , ’ amta-llu elpet veruten elpekumavkenaku ? Usuuq malrugnek umyualegmi , ciumek veruten anterraarru iivnek , nutaan mecingqerrluten ilavet verutii iinganek anetnauran .
+42006046	Ciin-llu		“ Ciin-llu tuqluraralarcecia , ‘ Ataneq , Ataneq , ’ amta-llu pisqutenka aturyugpek'naki ?
+42007024	Camek		John-aam-llu nallunairturistek ayiignek , yugugaat qanrutai John-aaq pitekluku , “ Camek tangerrnayukluci yuilqumun ayallruceci , naunrarmek-qaa anuqem arulaskiinek ?
+42007025	camek		Tau͡gaam camek tangerrnaluci ayallruceci ? Yugmek-qaa aturaqegcilriamek ? Tangerciki tamakut aturaqegcilriit cayuuminrilnguut-llu atanret enaitni uitalartut .
+42007026	Camek-mi		Camek-mi tangerrnaluci ayallruceci ? Prophet-aamek-qaa ? Ilumun , qanrutamci , prophet-aam piunranek .
+42007031a	catun		Ataneq-llu qanertuq . “ Catun makut yuulgutkelriit ayuqekuciiqsia , 
+42007031b	catun-llu		catun-llu ayuqniciqsia ?
+42007042	naliagnek		Tua-i-llu cimiritkailagnek , tamarkenka akiilnguirucetak . Tua-llu naliagnek taukuk tauna kenkenruciqau ? ”
+42007049	Kina		Nerellgutain-llu umyugait paqnayungartut , “ Kina una , assiilnguiriluni tuaten ? ”
+42008025a	nauwa		Qanrutai-llu , “ Nauwa ukverci ? ” Alingluteng irriut qanruyulluteng waten , 
+42008025b	kina		“ Kina una , anuqem mer'em-llu niisngaan'gu inerquatek ? ”
+42008028	Cakciqsia		Jesus-aaq-llu tangrramiu qayagpagtuq , ciuqerranun-llu palurrluni qastuluni qanertuq , “ Cakciqsia elpet Jesus-aaq , Agayutem Quyinrulriim Qetunraani ? Kaigavikamken nangcesqevkenii . ”
+42008030	Kituusit		Jesus-aam-llu aptaa , “ Kituusit ? ” Qanertuq-llu , “ Legion-aaq , ” tua-i anernerrluut amlleret itervikliniatgu .
+42008045	Kia		Jesus-aaq-llu qanertuq , “ Kia agturtanga ? ” Tamarmeng meciriita , Peter ilani-llu qanertut , “ Tang , yugugaat quugaruskiitgen , qerrlerulluten-llu . ”
+42009009a	kina		Tua-i-llu Herod-aaq qanertuq , “ John-aaq qamiqurrillruaqa , tau͡gaam kina una waten niitnaulria ? Tangerrsugyaaqaa-llu . ”
+42009009b	~		
+42009018	Qaillun		Tua-i-llu piicagyartullermini allakarmi elitnaurani ilakluki aptai , “ Qaillun yuut kilgaat qanlartat caucimnek ? ”
+42009020a	~		Qanrutai-llu , 
+42009020b	cauyuksecia		“ Tau͡gaam elpeci cauyuksecia ? ” Peter-aam kiugaa , “ Taunguuten Agayutem Christ-aa . ”
+42009025	cakciqaki		Wani-wa yuum nuna tamalkuan piksaguteng'e'rmiu tarneni tau͡gaam tamarluku , tua-llu tamakut cakciqaki ?
+42009041a	~		Jesus-aaq-llu kiuguq , “ Arenqiapaa , ukuni ukverkilngurni kinguveqellriani , iqlutmuryulriani-llu , qaillun pitalriamek elpenciiqsia ilalcirlua ? Qetunraan taisgu . ”
+42009041b	~		
+42010025	cakun		Tangerrluku-llu , alerquutet elisngastaita iliit naspaaluku qanertuq , “ Elitnauristaa , cakun piksaguciiqsia unguva nangyuilnguq ? ”
+42010026a	qaillun		Tua-i qanrutaa , “ Qaillun igausngaa alerquutni ? 
+42010026b	qaillun		Qaillun naaqilarcit ? ”
+42010029	Kinkusmi		Tau͡gaam qanerniarutkarcurluni , Jesus-aamun qanertuq , “ Kinkusmi ilaksia ? ”
+42010036a	~		
+42010036b	naliat		Tua-llu ukut pingayun naliat , taum tuqutarayulit nangtellrata ilakau ? ”
+42011008	~		Qanrutamci , makcunrilnger'mi yugnikucia pitekluku , tau͡gaam taqsuariucia pitekluku makciiquq , cikirluku-llu piyugtaciatun .
+42011011	Nalirpeci		Nalirpeci ataulriim qetunrani keliparyukan , teggalqumek cikirciqau , wall'u neqyukan , ciissirpagmek cikirluku ?
+42011012	~		Wall'u peksuryukan , puukatulimek ciissimek cikirciqlia ?
+42011013	qaillun-mi		Atam , elpeci elluatuunrilngerpeci , irniaci assilrianek cikiryuumilaraci , qaillun-mi amllenrulriamek atavci qilagmelnguum cikirciqaki kaigavikesten̄i Anernermek Tanqilriamek . ”
+42011018	qaillun-mi		Tua-i-llu tuunrangayak ellminek inglukekuni , qaillun-mi angayuqauvingqerciqa ? Tua-i qanravci anernerrluut atanratgun anernerrlugnek anevkarinilua .
+42011019	nau͡gg'un		Tua-i-llu wiinga anernerrluut atanratgun anernerrlugnek anevkarikuma , nau͡gg'un qetunrarpeci anevkalartatki ? Taumek ellait cuqcistekciqaci .
+42012014	kia		Tau͡gaam qanrutaa , “ Usuuq , kia picirkirtanga cuqcisten͞gusqellua wall'u avgisten͞gusqellua elpecen̄i ? ”
+42012017	Qaillun		Ellminek-llu qaillukuartuq qanerluni , ‘ Qaillun piciqsia , naucetaanka qemaggviilata ? ’
+42012020	kia		Tau͡gaam Agayutem qanrutaa , ‘ Usviilnguuq ! Mat'umi unugmi anernerpenek teguimaarkauguten , aninqelten-llu kia pikciqaki ? ’
+42012024	~		Atam , tulukaruut umyuaqiciki , nauceciiyuitut , quyurciiyuunateng-llu , qemaggviinateng elliviinateng-llu , tau͡gaam Agayutem nerevkalarai . Tualli-wa elpeci qununarqenrulriaci yaqulegni !
+42012025	Kia		Kia nalirpeci umyuarrlugcarallermikun angtacini usguciqau ?
+42012026	ciin		Tua-i-llu arcaqanrilnguut caperqekuvciki , ciin umyuarrlugcarpakalarceci allanek ?
+42012042	Kina-mi		Ataneq-llu qanertuq , “ Kina-mi tauna piciuluni ellatuluni-llu pisten͞gua , atanrem pistem̄inun qaunqesten͞gurtarkaa , pikaitnek cikilararkauluki nerrlerkaat pinariaqan ?
+42012049	qaillun-llu		“ Tekitua keneq nunamun tuc'etnaluku , qaillun-llu piciqsia ak'a kumangumarikan ?
+42012056	qaillun		Elpeci malrugnek umyualegni ! Nunam qiliim-llu ayuqucia nallunritarci , tau͡gaam qaillun piluci kangingenriceciu mat'um nallii ?
+42012057	Ciin-llu		Ciin-llu elpecen̄ek cuqteksaiceciu elluaq piarkarci ?
+42013004	~		Wall'u umyuartequci-qaa imkut akimiar pingayunek cipluku Siloam-ami enem kangran ayaluqerrvikellri , picurlaumanruyukluki Jerusalem-aarmiuni tamaitni ?
+42013007	~		Tua-i-llu napaliurta qanrutaa , ‘ Tang , allrakuni pingayuni tailaryaaqua atsanek tegutnalua uumek napamek , unangeksaunii-llu . Kitaki kepluku iqusgu , piviilqutauvkarpek'naku . ’
+42013015	~		Tau͡gaam Atanrem kiugai , “ Elpeci malrugnek umyualegni ! Tamarpeci kuluvangqellriani wall'u ciulvagmek , petuirraarluku-qaa meqsarturceteksaitelararci Sabbath-aami ?
+42013018a	catun		Tau͡gaam qanertuq , “ Catun Agayutem angayuqauvia ayuqciqa ? 
+42013018b	camun-llu		Camun-llu ayuqestassiiguciiqsia ?
+42013020	Camun		Qanenqigtuq-llu , “ Camun Agayutem angayuqauvia ayuqestassiiguciiqsia ?
+42013025	naken		Wani-wa enem yua makluni amik kelucaqaku , elpeci-llu elatiinlluci tukriarluci-llu qanerluci , ‘ Ataneq , ikiruskut ; ’ kiuciqaaci , ‘ Nalluamci naken kingunengqerruciitamci . ’
+42014005	~		Taukut-llu qanrutai , “ Ilavci-qaa , ciulvani wall'u kuluvani elakamun igeskan , egmian nugcarturngaitaa agayunrungraan ? ”
+42014028	~		Tua-i ilasi , eneliyukuni qertulriamek , ciumek-qaa akingqerrarkaucia cuqteksaitelaraa , akikairutnayukluni taqvailgan ?
+42014031	qaillukuarngaituq-qaa		Angayuqaq-llu anguyagterluni tiissitsaanek qulnek , ayakuni angayuqaullgutni anguyautnaluku , tau͡gken tauna anguyagterluni tiissitsaanek yuinarnek , qaillukuarngaituq-qaa cirliqenritlerkaminek ?
+42014034	naken		“ Taryuq assirtuq , tau͡gaam taryurninairuskan , naken taryurninariciqa ?
+42015004	~		“ Ilasi-qaa , qusngingqerquni yuinarnek tallimanek , atauciq-llu tamarikuniu , taukut-qaa yuinaat tallimaunritaraan unisngaitai tamaavet yuilqumun , tamalleq-llu yuarluku nataqvianun ?
+42015008	~		“ Wall'u arnam qulnek akiutengqellriim iliit tamaquniu , kenurqutarluni eneni kaginqegcaarngaitaa-qaa cumiggluni yuarluku nataqvianun ?
+42015026	ca		Tua-i pistet iliit taisqaa apluku-llu ca pitekluku tuaten piciatnek .
+42015029	~		Tau͡gaam aatani kiugaa , ‘ Tangerrluku , allrakuni amllerni kevgiuramken alerquuteten-llu uniurteksaunaki , tau͡gaam qusngimek angucalumek cali cikiqsaitarpenga yugnikekenka ilakluki nunaniryuutekamten̄ek .
+42016002	Qaillun		Tua-i-llu taisqaa qanrulluku , ‘ Qaillun waniwa niitelarciken ? Caliaqelten tamalkuita kalikamun ellikiki , aulukiyunairucavet . ’
+42016003	Qaillun		Aulukilria umyuamikun qallatuq , ‘ Qaillun piciqsia ? Atanema caliarkairucetqataraanga . Nunamek itumcisciigatua , cikircetaallerkaqa-llu kasngukaqa .
+42016005	Qaillun		Tua-i , atanermini akiilngulget taisqai tungliqu'urluki , ciuqliq-llu qanrutaa , ‘ Qaillun akiilngungqercit atanemni ? ’
+42016007	qaillun		Alla cali qanrutaa , ‘ Tua-i-llu elpet qaillun akiilngungqercit ’ ? Qanertuq-llu , ‘ Mukaarkanek missuugnek yuinarnek tallimanek . ’ Qanrutaa , ‘ Kalikan teguluku igaqina , yuinaat cetaman . ’
+42016011	kia		Taumek tukuutni elluatuunrilngurni piciuksailkuvci , kia aulukivkarciqaci tukuutnek elluatuulrianek .
+42016012	kia		Piciuksailkuvci-llu allatarni , kia nakmiillarkarpecen̄ek cikirciqaci ?
+42017007	~		“ Ilasi-llu pistengqerquni nunamek itumcilriamek , wall'u qusngit tarikluki , tuaken-llu nunamek uterrluni , qanrusngaitaa , ‘ Kitaki tailuten neryartua . ’
+42017017	nauwa-mi		Jesus-aaq tua-i qanertuq , “ Qulngullruut-ggem carriutellriit , nauwa-mi taukut qulngunritaraan ?
+42017018	~		Allamek-qaa Agayun nanrarluku utertellriartaituq , uumek tau͡gaam allanermek ? ”
+42017020	qaku		Pharisee-aat-llu apcatni Agayutem angayuqauvian qaku tekitarkaucianek , kiugai , “ Agayutem angayuqauvia tangrruuluni tekisngaituq ,
+42017037	Nani		Tua-i-llu qanrutaat , “ Nani , Ataneq ? ” Qanrutai-llu , “ Mallulegmun narusviit quyurtelartut . ”
+42018018	qaillun		Atanret-llu iliita aptaa , “ Elitnauristaa Assilria , qaillun pilua piksaguciiqsia unguva nangyuilnguq ? ”
+42018019	Ciin		Jesus-aam-llu qanrutaa , “ Ciin assilriamek tuqlurcia , allamek assilriartaituq , Agayun kiimi assilriaruuq .
+42018026	Kina-mi		Mat'umek-llu niitellriit qanertut , “ Kina-mi tua-i anirtuumaciqa ? ”
+42018036	caucianek		Taum yugugaat kitulriit niicamiki , apciuq caucianek .
+42018041	Qaillun		“ Qaillun pisqessit wangnun ? ” Kiugaa , “ Ataneq , tangerrsaurcesqua . ”
+42019007	~		Ellaita-llu tamana tangrramegteggu qaneksuartut qanerluteng , “ Wani-wa yugmun assiilngurtulimun ciunirtuq . ”
+42019023	Ciin		Ciin akiuteka akiliurten̄un tunenriciu , tekiskuma-llu teguyarqa ilangutetuumaan ? ’
+42019031	Ciin		Yuum-llu apeskatek , ‘ Ciin petuircet'gu ? ’ waten kiuciqutek , ‘ Atanrem aturyugaa . ’ ”
+42019033	Ciin		Nuraq-llu petuirinanran'gu , pikestain qanrutagket , “ Ciin nuraq petuircet'gu ? ”
+42020002a	qaillun		apluku-llu , “ Qanruskut qaillun ayuqelriamek piyunarqucingqerrluten waten pilarcit , 
+42020002b	kia-llu		kia-llu piyunarqucingqerceskiiten waten pilarcit ? ”
+42020005a	~		Tua-i qaillukuartut qanruyulluteng , “ Qilagmek pillrunikumteggu , tua-i qanerciquq , 
+42020005b	ciin-mi		ciin-mi ukveqenriceciu ?
+42020013	Qaillun		Tua-i-llu naucetaarviim yua qanertuq , ‘ Qaillun piciqsia ? Qetunraqa kenkek'ngaqa ayagceciiqaqa , tauna takaqciqliat . ’
+42020015	qaillun		Naucetaarvigmek-llu cingqaquat tuqulluku-llu . Tua-i-llu naucetaarviim yuan qaillun piciqaki taukut ?
+42020017	Cauga-mi		Tau͡gaam elliin tangvagluki qanrutai , “ Cauga-mi imna igaumalria waten , ‘ Teggalquq enelilriit qessakellrat kangiritkaurtellruuq ? ’
+42020023	~		Tau͡gaam Jesus-aam usvitungnaquciat elpekngamiu , qanrutai ,
+42020024a	kia		“ Akimek akiliqurautngutulimek nasvicia , kia una ayuqau , 
+42020024b	kia-llu		kia-llu igautellri ukut ? ” Kiugaat , “ Caesar-aam-wa . ”
+42020033	kia naliata		Tua-i-llu makcarami , kia taukut naliata nulirqeciqau ? Wani-wa taukut malrunelgen nulirqellrukiit tamarmeng . ”
+42020041	Qaillun		Elliin-llu qanrutai , “ Qaillun yuut qanlartat Christ-aq David-aamun qetunraqniluku ?
+42020044	qaillun-mi		Wani-wa David-aam Atanerminek tuqluraa ; qaillun-mi qetunraqau ? ”
+42021007a	qaku		Tua-i-llu aptaat , “ Elitnauristaa , qaku tamakut tuaten piarkaugat ? 
+42021007b	ca		Cali-llu ca nallunailkutnguarkauga tuaten piqataqata ? ”
+42022009	Nani-mi		Qanrutaak-llu , “ Nani-mi uptesqessikuk ? ”
+42022011	Nanta		Enem-llu atanra qanruskit'gu , ‘ Elitnauristem qanrutesqaaten , “ Nanta allanivik , Paaskaarcuutmek nervigkaqa elitnauranka ilakluki ? ” ’
+42022027	Naliak		Naliak angenrua , nervigmi aqumgalria , wall'u kevgiulria ? Taungunrituq-qaa nervigmi aqumgalria ? Tau͡gaam wiinga elpecen̄i kevgiulriatun ayuqua .
+42022046	Ciin		Qanrulluki-llu , “ Ciin qavarceci ? Makluci piicagci naspaatmun pinritnaurtuci . ”
+42022064	Kia		Iik-llu caplukek aptaat , “ Ap'ringnaqi ! Kia kaugturtaten ? ”
+42022071	~		Taukut-llu qanertut , “ Allamek-qaa nallunairutmek pinarqukut ? Tungaunaku niicamteggu qanranek . ”
+42023022a	ciin-wa		Pilate-aam pingayiriluni qanrutai , “ Ciin-wa , 
+42023022b	ca		ca assiilnguq aturtau ? Wiinga tuqucesqutkamek nataqvikenritaqa , taumek piqertuarcetraarluku pegciiqaqa . ”
+42023031	qaillun-mi		Napa unguvalria waten piatgu , qaillun-mi tayima qakimalria pimaarkauga ? ”
+42024005	Ciin		Tatamngata-llu nunamun-llu puc'ata taukuk qanrutakek , “ Ciin unguvalria yuarceciu tuqumalriit nuniitni ?
+42024017	Camek		Qanrutak-llu , “ Camek qaneryarangqerpakarcetek piyuallerpetegni ? ” Arulairtuk-llu angniinatek .
+42024019	canek		Aptak-llu , “ Canek ? ” Qanrutaak-llu , “ Jesus-aaq Nazareth-aarmiu pitekluku pillrit , tauna prophet-aaruluni caliamikun , qaneryaramikun-llu pinilriaruluni , Agayutem yuut-llu takuatni .
+42024025	~		Tua-i qanertuq elkegnun , “ Ukugni ayuquciilnguugni , ukverciiganatek-llu prophet-aat qanellritnek !
+42024038a	~		Qanrutai-llu , 
+42024038b	ciin		“ Ciin tatamececi , umyuarpeciuggun-llu nalirruggluci ?
+43001019	Kituusit		Maa-i-llu John-aam nallunaillra , imumi Jerusalem-aamek Jews-aat agayulirten̄ek Levi-anek-llu elliinun ayagcecillratni aptesqelluku , “ Kituusit ? ”
+43001021	Causit-mi		Tua-i-llu aptaat , “ Causit-mi ? Elijah-uguten-qaa ? ” Qanertuq-llu , “ Taungunritua . ” “ Prophet-aaruuten-qaa imna tauna ? ” Kiuguq-llu , “ Qang'a . ”
+43001022a	Kituusit-mi		Tua-i-llu qanrutaat , “ Kituusit-mi ? Imkut ayagtesteput kiunaluki . 
+43001022b	qaillun		Qaillun qaneryarangqercit elpenek ? ”
+43001025	Ciin-mi		Tua-i-llu aptaat , “ Ciin-mi angllurcecilarcit Christ-aunrilkuvet , Elijah-uvkenak-llu , prophet-aaruvkenak-llu imna tauna ? ”
+43001038a	camek		Jesus-aam-llu kingyarluni tangrrak maligutellriik , aptak-llu , “ Camek yuarcetek ? ” Tua-i-llu kiugaak , 
+43001038b	nani		“ Nani uitalarcit Rabbai ? ” ( Una aperyaraq kangingqertuq “ Ayuqucirturta . ” )
+43001046	~		Tua-i-llu Nathaneal-aam qanrutaa , “ Ellualria-qaa Nazareth-aamek kingunengqerrsugngauq ? ” Philip-aam kiugaa , “ Tailuten paqesgu . ”
+43001048	Qaillun		Nathaneal-aam qanrutaa , “ Qaillun nallunricia ? ” Jesus-aam kiugaa , “ Philip-aam kelegpailgaten tangrramken napam atsangqetulim aciani uitallerpeni . ”
+43002004	casqessia		Jesus-aam-llu kiugaa , “ Arnaaq , casqessia watua ? Pillerkaqa tekiteksaituq . ”
+43002018a	~		
+43002018b	camek		Jews-aat-llu qanrutaat , “ Camek nallunailkutkarpenek nasviciiqsikut tuaten piavet ? ”
+43003004	Qaillun-mi		Nicodemus-aam qanrutaa , “ Qaillun-mi yuk yuurtenqigciiqa ak'allaurrluni ? Aipiriluni-qaa aanami eneliagkenun piyunarquq yuurrluni-llu ? ”
+43003009	Qaillun		Nicodemus-aam kiugaa , “ Qaillun piluteng tamakut piciqat ? ”
+43003012	qaillun-mi		Nunamiutarnek qanrutellrukumci , ukverpek'naci-llu , qaillun-mi ukverciqseci qilagmiutarnek qanruskumci ?
+43004009	Qaillun		Tua-i-llu arnam Samaria-rmium qanrutaa , “ Qaillun pisit , Jews-aarung'e'rpet ciin merr'itesqessit wangnun , wii arnaulua , Samaria-rmiungulua-llu ? ” ( Tua-i Jews-aat Samaria-rmiut-llu ilakutenrilata . )
+43004011	naken-mi		Arnam qanrutaa , “ Usuuq , qaluuritaituten , 'laakaq-llu et'uluni , naken-mi tauna meq unguvanarqelria piciqsiu ?
+43004027a	camek		Maa-i-llu elitnaurai tekitut , alangaarutkaat-llu arnamun qallacan . Tau͡gaam iliit atauciunger'mi qanenrituq , “ Camek pisit ? ” wall'u , 
+43004027b	ciin		“ Ciin qalaruciu ? ”
+43005012	Kia		Aptaat-llu , “ Kia qanrutaten , inartessuuteten tegusqelluki piyuasqelluten-llu ? ”
+43005044	Qaillun-mi		Qaillun-mi ukverciqseci , atunem ucuqutaagulluci , Agayutem kiimi ucurnarkiutii cucukevkenaku ?
+43005047	qaillun-mi		Tau͡gken igai ukveqenrilkuvciki qaillun-mi qaneryaranka ukverciqseciki ? ”
+43006005	Naken-mi		Jesus-aaq-llu ciugcami , yugugaat tangrrai ellminun ullautellriit . Philip-aamun-llu qanertuq , “ Naken-mi kelipautengciqseta , makunun nerevkautekamten̄ek ? ”
+43006009	cauciqat		“ Tan'gaurlurtangqerrsaaquq maani kelipautellegmek tallimanek , neqek-wa malruk , tau͡gaam cauciqat taukut makuni yugugarni ? ”
+43006025	qangvaq		Nataqngamegteggu-llu nanvam akilirnerani qanrutaat , “ Ayuqucirturtaa , qangvaq tekicit maavet ? ”
+43006028	Qaillun-mi		Tua-i-llu qanrutaat , “ Qaillun-mi piluta Agayutem caliarinek caliciqseta ? ”
+43006030a	qaillun		Taukut-llu cali qanrutaat , “ Qaillun ayuqelriamek nallunailkutmek piciqsit tangrrarkamten̄ek , ukveqnaamteggen ? 
+43006030b	camek		Camek taqutelarcit ?
+43006042	Ciin-mi		Qanertut-llu , “ Una-qaa Jesus-aarunrituq , Joseph-aam qetunraa ? Angayuqaak-llu nallunritagput ? Ciin-mi maa-i qanerta qilagmek tekitniluni ? ”
+43006052	Qaillun-mi		Tua-i-llu Jews-aat ayuqenriqertut qanerluteng , “ Qaillun-mi uum yuum kemni neqkiutekciqau wangkutnun ? ”
+43006060	kia-kiq		Taumek elitnaurain amlleret , makunek niicameng qanertut , “ Caperrnaqvaa-lli makuni qanellrini ; kia-kiq niicugniniartaki ? ”
+43006062	Qaillun-mi		Qaillun-mi piyarceci Yuum Qetunraa tangerquvciu mayurtelluku uitallranun ?
+43006068	kitumun		Simon-aam Peter-aam kiugaa , “ Ataneq , kitumun ayagciqseta ? Elpet tau͡gaam qaneryarangqertuten unguvamek nangyuilngurmek iqulegnek .
+43007011	Nanta		Taumek Jews-aat agayunerpagmi yuaraat , qanerluteng , “ Nanta ? ”
+43007015	Qaillun		Tua-i-llu Jews-aat alangaarutkaat qanerluteng , “ Qaillun uum igat nallunrirtaki , elitnaullruvkenani ? ”
+43007019	Ciin		Moses-aam-qaa alerquutnek cikinritaaci ? Ilavci-llu aturciiganaki . Ciin tuquiturcecia ? ”
+43007020	Kia		Yugugaat kiugaat , “ Anernerrlungqertuten ! Kia tuquiturtaten ? ”
+43007023	ciin		Yuk Sabbath-aami nuugiumakan , Moses-aam picirkiutii uniurtenritengnaqluku , ciin cangaksecia yuum qainga tamalkuan canrircetellrukumku Sabbath-aami ?
+43007035	Natmun		Taumek Jews-aat qanruyutut , “ Natmun una ayagciqa nataqngailkemten̄un ? Wall'u-qaa ayagciqliuq skavingalrianun Greek-aat nuniitni , Greek-aat-llu elicungcarluki .
+43007036	Cauga		Cauga man'a qanellra qanerluni , ‘ Yuarciqerpecia nataqevkenii-llu , ’ cali-llu , ‘ Ayagvigkamnun-llu pisciiganaci ’ ? ”
+43007041	~		Allat qanertut , “ Una Christ-auguq . ” Tau͡gaam ilait qanertut , “ Christ-aq-qaa Galilee-amek kingunengqerciquq ?
+43007045	Ciin		Atanerruarit taumek utertut agayulirten͞gunernun , Pharisee-aanun-llu ; taukut-llu aptait , “ Ciin taitenriceciu ? ”
+43007048	~		Atam , atanret-qaa wall'u Pharisee-aat ukvervikaat ?
+43007051	~		“ Picirkiutemta-qaa , yuk tungaunaku niiterraarpek'naku caliari-llu taringevkenaki , cuqtarkaugaa ? ”
+43008005	qaillun		Moses-aam picirkillruakut waten pilriit teggalqutgun tuqucesqelluki ; tua-llu elpeni qaillun ayuqa ? ”
+43008010	nauwa		Jesus-aaq-llu nangertuq qanrulluku , “ Arnaaq , nauwa imkut ? Iliita-qaa picirkinritaaten ? ”
+43008019	Nauwa		Taumek qanrutaat , “ Nauwa Aatan ? ” Jesus-aam kiugai , “ Elpeci wii Ataka-llu nalluarpecikuk ; nallunrilkuvcia Ataka-llu nallunricararci . ”
+43008025a	causit		Taumek aptaat , “ Causit ? ” 
+43008025b	~		Jesus-aam qanrutai , “ Tua-i allaunritua tau͡gaam apertullrucimtun piqarraallemnek .
+43008033	qaillun		Tua-i-llu kiugaat , “ Abraham-aam kinguveqaakut , teguaruksaunata-llu , qaillun qanercit , ‘ Angicimaciquci ? ’ ”
+43008043	Ciin		Ciin taringesciigaceciu qanelqa ? Tua-i qaneryaraqa ciuniurciigalavciu .
+43008046a	Nalirci		Nalirci assiilngillemnek aperturiyugngaa ? 
+43008046b	ciin		Piciulriamek qallaskuma , ciin ukveqenricecia ?
+43008053	cauyuksit		Elpet-qaa piunruuten Abraham-aami tuqullermi ? Prophet-aani-llu tuqullerni ! Elpet cauyuksit ? ”
+43008057	~		Tua-i-llu Jews-aat piat , “ Elpet allrakungeksaituten yuinak malruk qulnek ciplukek , tau͡gken-qaa Abraham-aaq tangellruan ? ”
+43009002	naliak		Tua-i-llu elitnaurain aptaat , “ Ataneq , naliak assiilngirta , una wall'u-qaa angayuqak , waten cikmiumarmi yuurcan ? ”
+43009010	Qaillun-mi		Taumek aptaat , “ Qaillun-mi tangerrsaurcit ? ”
+43009012	Nanta		Tua-i-llu aptaat , “ Nanta ? ” Kiugai , “ Nalluaqa . ”
+43009016	qaillun		Taumek Pharisee-aat ilait qanertut , “ Tauna yuk Agayutmek kingunengqenrituq , erneq Sabbath-aaq qigcikenrilaku . ” Allat-llu qanertut , “ Assiilngurtuliukuni qaillun nallunailkutnek makunek piarta ? ” Ayuqenriqertut-llu .
+43009017	qaillun		Taumek aptenqigtaat cikmiumalleq , “ Tua-llu elpet qaillun umyuangqercit taumek tangerrsaurcetevnek ? ” Ellii qanertuq , “ Prophet-aaruuq . ”
+43009019	qaillun-mi		aptagket , “ Wani-wa-qaa imna qetunrartek cikmiumaniluku qanrutek'lallertek , qaillun-mi wani-wa tangerrsaurta ? ”
+43009026a	qaillun-mi		Nutaan aptaat , “ Qaillun-mi pillruaten ? 
+43009026b	qaillun		Qaillun iigken uicetakek ? ”
+43009027	Ciin		Kiugai , “ Watua-ggem qanrutellruamci niitevkenaci-llu . Ciin pulenglluku niicugceciu ? Elpeci-llu-qaa elitnauraurcugtuci ? ”
+43009034	~		Kiugaat , “ Elpeni-lli yuurtellrullinivaa assiilngurtuumarpet , amta-llu ayuqucirturyugluta . ” Nutaan-llu anevkaraat .
+43009036	Kina		Kiuguq , “ Kina tauna , Ataneq , ukvervikniarqa ? ”
+43010020	ciin		Amlleret qanertut , “ Anernerrlulguuq , usviirutuq , ciin niicugniceciu ? ”
+43010021	~		Allat qanertut , “ Makut qanellri anernerrlulgem pikenritai . Anernerrluum-qaa cikmiumalriit uiceciiqai ? ”
+43010024	Qaillun		Tuani Jews-aat quyurrvikaat apluku-llu , “ Qaillun pitalriamek paqnayugcetqatarcikut ? Jesus-aarukuvet , elluarrluta nalqiguskut . ”
+43010032	naliit		Jesus-aam qanrutai , “ Calianek assilrianek amllernek Aatam piinek nasvitellruamci , tamakut naliit pitekluki miluquyugcecia ? ”
+43010036	qaillun		qaillun elpeci qanerciqseci Aatam tanqigivkallranek , nunamun-llu ayagcetellranek , piciliutekiniluku , waniwa qanellruama Agayutmun Qetunraqnilua ?
+43011034	Natmun		qanerluni-llu , “ Natmun elliceciu ? ” Qanrutaat , “ Ataneq , tailuten tangerrnauran . ”
+43011047	Qaillun		Taumek agayulirten͞gunret Pharisee-aat-llu qaillukuartet quyurtait , qanerluteng , “ Qaillun piciqseta ? Tua-i tangerrluku una yuk irr'inarqelrialilalria amllernek .
+43011056	Qaillun		Tua-i-llu Jesus-aaq yuaraat , Agayuvigpagmi nangengqaluteng qanruyutut , “ Qaillun umyuarteqseci , agayunerpaliyarngaituq-qaa ? ”
+43012005	Ciin		“ Ciin minguk man'a tunumanrita akinun yuinarnun cetamanun , kusgurnarqelriit cikiutekaitnun ? ”
+43012027	qaillun-llu		“ Watua tarneqa civuurauq , qaillun-llu waniwa qanerciqsia , ‘ Aata , anirturnga sass'amek mat'umek . ’ Tau͡gaam tamana pitekluku sass'aq man'a tekitaqa .
+43012034a	qaillun-mi		Tua-i yugugaat kiugaat , “ Alerquutni igausngalria niitellruarput Christ-am nangyuilngurmek piurrlainararkaucia , qaillun-mi qanercit Yuum Qetunraa agarcimaarkauniluku ? 
+43012034b	Kituuga-mi		Kituuga-mi tauna Yuum Qetunraa ? ”
+43012038a	kia		piciurrluku Prophet-aam Isaiah-m qaneryaraa , “ Ataneq , kia ukveqau qalarutkellerput ? 
+43012038b	Kitumun-llu		Kitumun-llu Atanrem tallia alairumaa ? ”
+43013025	kina		Tua-i tauna Jesus-aamun iggangqalria , qanertuq elliinun , “ Ataneq , kina pisiu ? ”
+43013036	natmun		Simon-aam Peter-aam qanrutaa , “ Ataneq , natmun piciqsit ? ” Jesus-aaq kiuguq , “ Ayagvigkamnun watua maligcunaitarpenga , tau͡gaam kinguqvaarni maligciiqerpenga . ”
+43013037	ciin		Peter-aam qanrutaa , “ Ataneq , ciin maa-i watua maligcunaiciken ? Wiinga-wa unguvaka pegtarkaugaqa elpet pitekluten . ”
+43014002	~		Atama eniin ilua uitavigkalirtuq . Tuaten ayuqenrilkan qanrutellruyaramci . Uitallerkiuryartuqataramci .
+43014005	qaillun		Tua-i-llu Thomas-aam pia , “ Ataneq , ayagvigkan nalluarput , qaillun wani-wa tumyaraq nallunriciiqseta ? ”
+43014009	Qaillun		Jesus-aam kiugaa , “ Akaarnun nayullrungramci , nallunriqsaitarpenga-qaa , Philip ? Wangnek tangellriim Aata tangrraa . Qaillun tua-i qanercit , ‘ Nasviskut Atamek ? ’
+43014022	qaillun		Judas-aam , Iscariot-aunrilnguum qanrutaa , “ Ataneq , qaillun nallunairvikciqsikut ukvenrilnguut pivkenaki ? ”
+43016005	Natmun		Tau͡gaam watua ayakatartua ayagcestemnun , ilavci-llu aptenritaanga , ‘ Natmun ayakatarcit ? ’
+43016017	Cauga		Tua-i elitnaurain ilait qanruyutut , “ Cauga man'a wangkutnun qanellra , ‘ Atataarqu , tangenrrirarkaugarpecia , atataarqu-llu tangenqigciiqerpecia ’ ; cali-llu , ‘ Aatamun ayagarkaungama ’ ? ”
+43016018	Cauga		Taumek qanertut , “ Cauga man'a qanellra , ‘ Atataarqu ? ’ Cauciitarput qanellra . ”
+43018004	Kina		Tau͡gaam Jesus-aam , ellminun tut'arkat tamalkuita nallunrilamiki , ullakanirai apluki-llu , “ Kina yuarceciu ? ”
+43018007	Kina		Tua-i aptenqigtai , “ Kina yuarceciu ? ” Kiugaat , “ Jesus-aaq Nazareth-aarmiu . ”
+43018011	~		Jesus-aam-llu Peter qanrutaa , “ Nuussirpiin caquanun qungasgu . Saskam , Atama wangnun cikiutiin , imaa merngaitaqa-qaa ? ”
+43018021	camek		Ciin wiinga apqaurcecia ? Apqaurki taukut niitellret , camek ellaitnun qallatellemnek . Atam taukut nallunritait qanellrenka . ”
+43018023	ciin		Jesus-aam kiugaa , “ Qancurlallrukuma , picurlaucia nallunairru ; tau͡gaam piciulriamek qanellrukuma , ciin qacarcia ? ”
+43018029	Camek		Tua-i Pilate-aam anvikai qanrulluki-llu , “ Camek picetaaruceciu una yuk ? ”
+43018035	Qaillun		Pilate-aam kiugaa , “ Jews-aaruunga-qaa ? Elpet yuullgutvet agayulirten͞gunret-llu wangnun tunaatgen . Qaillun pillrusit ? ”
+43018038	Ca		Pilate-aam qanrutaa , “ Ca una piciuneq ? ” Waten-llu qanrraarluni , Jews-aanun anenqigtuq , qanrulluki-llu , “ Wiinga picurlagmek nataqvikenritaqa .
+43019009	Naken		Ataam-llu nunam atanran 'laavkaaranun itertuq , Jesus-aamun-llu qanerluni , “ Naken kingunengqercit ? ” Tau͡gaam Jesus-aam kiunritaa .
+43019015	~		Tau͡gaam qayagpagtut , “ Au͡g'arli , au͡g'arli , tauna , kelistamun ussukcausgu ! ” Pilate-aam qanrutai , “ Angayuqerci-qaa kelistamun ussukcaullaku ? ” Agayulirten͞gunret kiugaat , “ Allamek angayuqritukut Caesar-aamek tau͡gaam . ”
+43020013	ciin		Taukuk qanertuk elliinun , “ Arnaaq , ciin qiasit ? ” Kiugak , “ Ataneqa ayautelliniatgu natmun-llu ellicia nalluamku . ”
+43020015a	ciin		Jesus-aam-llu qanrutaa , “ Arnaaq , ciin qiasit , 
+43020015b	kina		kina yuarciu ? ” Naucetaarviliurten͞guyukluku kiugaa , “ Usuuq , elpet ayautellrukuvgu apertuusnga natmun ellicirpenek , tua-i teguyarturnaurqa . ”
+43021012	Kituusit		Jesus-aam qanrutai , “ Tailuci makyutarci . ” Elitnaurat-llu iliita atauciunge'rmi caperqaa aptellerkaa waten , “ Kituusit ? ” Atanrucia nallunrilamegteggu .
+43021020	kia		Peter-aam kingyaami elitnauraq tauna Jesus-aam kenkekii , tangrraa maligutellria , imna unugmi imumi nerrlermeggni qat'gainun iggangqalleq , waten-llu qanlleq , “ Ataneq , kia tunciqaten ? ”
+43021021	qaillun		Tauna Peter-aam tangrramiu , qanertuq Jesus-aamun , “ Ataneq , una-mi qaillun piciqa ? ”
+43021022	caciqsiu		Jesus-aam kiugaa , “ Uitauraasqekumku tekitellerkamnun caciqsiu ? Elpet tau͡gaam maligesnga ! ”
+43021023	caciqsiu		Tua-i qaneryaraq una taukunun ilakelrianun sekavtuq qanraqluteng elitnauraq-gguq una tuqungaituq . Tau͡gken Jesus-aam qanrutenritaa tuqungaitniluku , tau͡gaam waten , “ Uitauraasqekumku tekitellerkamnun caciqsiu ? ”
+44001011	ciin		Taukuk qanertuk ellaitnun , “ Galilee-armiuni , ciin nangengqaceci qilagmun ciugngaluci ? Una Jesus-aaq , elpecen̄ek pakmavircecimalria , tuaten ayuqluni cali tekitarkauguq tangrrucirpecetun ayallrani qilagmun . ”
+44002008	Qaillun		Qaillun wani-wa niiceta nakmiin qaneryaramteggun qalartellriit ?
+44002012	Camek		Tamalkurmeng-llu irriut , nalirruggluteng apqaurulluteng-llu , “ Camek man'a kangingqerta ? ”
+44002037	qaillun		Man'a niicamegteggu ircaqruatnun agtuutuq , qanerluteng-llu Peter-aamun ilainun-llu apostle-aanun , “ Ilamtaa ukuut , qaillun piciqseta ? ”
+44003012a	ciin		Peter-aam-llu tangrramiki qalarutai , “ Israel-aarmiuni ukuni , ciin irr'ikseciu una ? 
+44003012b	ciin-llu		Ciin-llu tangvagcecikuk , piyuangevkalliamegnegu pinimegnegun wangkuk , elluarucimegnegun-llu ?
+44004007a	~		
+44004007b	camek		Qukaqmiumariamegtekek-llu aptagket , “ Camek piunarqucingqerrlutek , 
+44004007c	cam-llu		cam-llu atrakun mat'umek picetek ? ”
+44004016	Qaillun		qanerluteng , “ Qaillun ukuk piarkauceta ? Wani-wa angelriamek irr'inarqelrialiullrak nallunaituq Jerusalem-aarmiuni tamaitni ; asgurakviitarput-llu .
+44004025a	ciin		Anernerpegun Tanqilriakun , qanellruuten , David-aam ciuliamta qanrakun waten , ‘ Ciin Agayumanrilnguut kitngiartat qiivluteng-llu ? 
+44004025b	ciin-llu		Ciin-llu yuut umyuangcartat atuugarkaunrilngurnek ?
+44005003	ciin		Peter-aam qanrutaa , “ Ananias-aaq , ciin Satan-aam itertau ircaqun , iqlusqelluku Anerneq Tanqilria nunam-llu akiin ilait qemagtesqelluki ?
+44005004	Ciin		Tunvailgan , tamalkuan piksaaqan , tunngerpegu-llu umyuan aturarkauyaaqan . Ciin , tau͡gaam , ircaqurpegun mat'umek taqucit ? Yugnun iqlunrituten tau͡gaam Agayutmun . ”
+44005009	Ciin-mi		Tau͡gaam Peter-aam qanrutaa , “ Ciin-mi umyuallguteklutek picirkiurcetek naspaanaluku Atanrem Anernera ? Tangerrluku , uivet tungmagcetellri uka-i itqatartut , taukut-llu anuciiqaatgen . ”
+44007026	ciin		Unuaquan-llu ilagketnek callulriignek tekicami kenegyagutevkangnaqsaaqak qanerluni , ‘ Ukuuk , ciin ilakullutek callugcetek ? ’
+44007027	Kia		Tau͡gaam ciumuanran cingqeraa , qanrulluku , ‘ Kia atanrurtaten cuqcisten͞gusqelluten-llu wangkugni ?
+44007035	Kia		Wani-wa Moses-aaq imna , yuin ciuniunritellrat qanerluteng , ‘ Kia atanrurtaten cuqcisten͞gusqelluten-llu ? ’ Tauna Moses-aaq Agayutem ayagcetlinia atanrusqelluku anirturisten͞gusqelluku-llu , ikayuqluku tauna an'gilaq tangellra napayaarmi .
+44007049a	qaillun		‘ Qilak atanruvikaqa , nuna-llu it'gama tusngavikaat ; qaillun ayuqelriamek eneliciqsia , 
+44007049b	qaillun-llu		qaillun-llu ayuqelriamek mernuinercirvingqerciqsia ? Ataneq qanertuq ,
+44007052	Naliit		Naliit prophet-aat nangtellrunritatki ciuliarpeci ? Tuqutelarait-llu Ellualriim tekitarkam qanrutkestai , elpeci-llu tauna tunellruarci tuqulluku-llu .
+44008031	Qaillun-mi		Tauna kiuguq , “ Qaillun-mi taringeciqsia ayuqucirturtaunii ? ” Ilungluni-llu Philip-aaq unayaqaa caniminun aqumesqelluku .
+44008033	kiami-llu		Qumlikumallermini-llu qanercetaarumallerkaa elliinek au͡gaumauq , kiami-llu tua-i ayuqucingevkarciqaki kinguvri , tua-i unguvii nunamek au͡gaumauq . ”
+44008034	kitumek		Pistem-llu kiugaa Philip-aaq qanerluni , “ Qanrusnga , kitumek una prophet-aaq qalarutkia , ellminek-qaa wall'u allamek yugmek ? ”
+44008036	~		Ayallermegni-llu tumemegni mermun tekituk , pista-llu qanertuq , “ Tangerrluku , meq wani-wa , tua-i-qaa wani-wa anglluyunaitua ? ”
+44009004	ciin		Ellii-llu iquuq nunamun , ellminun-llu qanelriamek niituq , “ Saul , Saul , ciin nangpakarcia wii . ”
+44009005	Kituusit		Tua-i-llu aptaa , “ Kituusit , Ataneq ? ” Kiugaa-llu , “ Jesus-aaruunga , nangeskengan , cingilegmun tukayunaituten . ”
+44009006	qaillun		Ellii-llu uuleggluni alangaarami qanertuq , “ Ataneq qaillun pisqumasia ? ” Atanrem qanrutaa , “ Nangerten , nunanun-llu itra , tuani qanrucimaciquten qaillun pillerkarpenek . ”
+44010004	Camek		Elliin-llu tangvagaa , alingluni-llu qanrutaa , “ Camek pisit , Ataneq ? ” Kiugaa-llu , “ Piicauteten caliaten-llu assilriit mayurtut Agayutmun nallunaunateng .
+44010021	cassurluci		Peter-llu atrartuq angutnun taukunun , qanrulluki-llu , “ Tangerrluku , wiinga wani-wa yuallerci , cassurluci tekiceci ? ”
+44010029	casqellua		Taumek nalirrugtevkenii ullagamci , pisqumiivcia , casqellua tua-i taisqececia ? ”
+44010047	Kia-qaa		Peter-aam-llu qanrutai , “ Kia-qaa yuum mer'mek qunukuciiqaakut angllurtessuutekaatnek ukut Anernermek Tanqilriamek pingellret wangkucicetun ? ”
+44011017a	calua		Taumek Agayutem cikiaki wangkucicetun pitarrluki ukveqarraanemten̄i Atanermun Jesus Christ-amun , calua wii Agayun asgurakciqsia ? ”
+44011017b	~		
+44012018	catairucianek		Ercan-llu anguyagtet pek'ngut mianikevkenateng Peter-aam catairucianek .
+44013025	Kituuyuksecia		John-aam-llu caliani qaqicamiu yuut aptai , ‘ Kituuyuksecia waniwa ? Taungunritua tekitarkaq , tau͡gaam kingumkun agiirtellriartangqertuq , taum aluilitagken cingigkenek angicillerkamnek tunriukutua . ’
+44014015	ciin		“ Ukuut , ciin waten piceci ? Wangkuk yuugukuk elpecicetun ayuqlunuk , tau͡gaam qaneryaramek taitamegceci makunek caunrilngurnek causqelluci unguvapialriamun Agayutmun , qiliim nunam-llu , imarpiim-llu imartuumarmi piliaqestiinun .
+44015010	Caluku-llu		Caluku-llu Agayun naspaaceciu ukvengelriit atmingnaqluki uqamailngurnek ciuliamta wangkuta-llu aturciigalkemten̄ek ?
+44016030	qaillun		Itercivigmek-llu anevkarraarlukek aptak , “ Ukuuk , qaillun pilua anirtuumaciqsia ? ”
+44017018	Canek		Tua-i-llu picirkangtulit Epicurean-aat Stoic-aat-llu quyurrvikaat ilait qanerluteng , “ Canek una caunrilngurnek qallata ? ” Ilait-llu qanerluteng , “ Qanerkangqerrsugnarquq allayugnek agayutnek . ” Tua-i qalarutekngaku Jesus-aaq unguillrucia-llu .
+44017019	caucianek		Tua-i-llu ayautaat quyurrvigmun Areopagus , qanerluteng , “ Ayuqucingevkarkut mat'um ayuqucirtuutvet nutaram caucianek .
+44019003	Camun-mi		Qanertuq-llu ellaitnun , “ Camun-mi angllullruceci ? ” Qanertut-llu , “ John-aam angllurceciyaraanun . ”
+44019015	cauceci		Tau͡gaam anernerrluum kiugai , “ Jesus-aaq nallunritaqa , Paul-aaq-llu nallunritaqa ; tau͡gaam elpeci cauceci ? ”
+44019035	Kia		Nunarpiit-llu igartiita cayaqlirluki nepairamiki , qanertuq , “ Ukuut Ephesian-aani ! Kia nallunritenritau Ephesian-aat ciktaarvikekiit Diana , agayutiit ucurnarqelria , ayuqeliumallra-llu yuguaq pakmaken qilagmek igtelleq ?
+44021013a	caluci		Paul-aam kiugaakut , “ Caluci qiaceci iluteqevkarlua ? Upingariama qillerqumaqainararkauvkenii , tau͡gaam tuquarkaulua-llu Jerusalem-aami Atanrem Jesus-aam atra pitekluku . ”
+44021013b	~		
+44021022	qaillun		Taumek qaillun piciqseta ? Ullautenrilngailata yugugaat maanlucin niiskunegteggu .
+44021033a	~		Anguyagtet-llu atanrata tekicamiu tegua ellimertuulluku-llu qillertesqelluku kalivnernek malruinek ; apyutkaa-llu kituucianek picurlautiinek-llu .
+44021033b	~		
+44022007	ciin		Iqullruunga-llu nunamun , erinamek-llu niillua wangnun qanelriamek , ‘ Saul , Saul , ciin nangpakarcia ? ’
+44022008	Kituusit		Tua-i-llu aptaqa , ‘ Kituusit , Ataneq ? ’ Kiugaanga-llu , ‘ Jesus-aaruunga Nazareth-aarmiu elpet nangtellren . ’
+44022010	qaillun		Aptaqa-llu , ‘ Ataneq , qaillun pisqumasia ? ’ Atanrem-llu kiugaanga , ‘ Nangerrluten , Damascus-aamun itra , tuani qanrucimaciquten qaillun pillerkarpenek . ’
+44022016	Camek		Camek tua-llu atanqaarcit ? Nangerrluten angllurcetevkaa , assiilnguten-llu erurtelluki , Atanrem atra kaigavikluku . ’
+44022026	camek		Man'a niicamiu atanerruam , anguyagtet atanrat qanrucarturaa , “ Mulngaki camek pillerkarpenek , yuk tauna Roman-aartaungan . ”
+44023003	~		Paul-aam-llu qanrutaa , “ Elpet , qacarnermi urasqercimalriami , Agayutem piqerturciqaaten ! Qanercetaaqataryaaqerpenga Alerquutet aturluki , amta-llu patpaasqellua inerquutmek ? ”
+44023009	~		Nep'ngartut-llu . Igatulit-llu Pharisee-aat ilait nangerrluteng inglulitut , qanerluteng , “ Wangkutni una yuk canganarqutaituq ; tau͡gaam-llu Anernerem wall'u an'gilam qanrutellrukaku Agayun inglukenrillaut . ”
+44023019	Camek		Tua-i-llu anguyagtet atanrata tass'uqluku allakaqautaa , kiimenaku apqaurluku , “ Camek qanerkangqercit wangnun ? ”
+44026008	Ciin		Ciin elpeni asguranarqa , Agayutem unguircecillerkaa tuqumalrianek ?
+44026014	Ciin		Nunamun-llu iqumallemten̄i , erinamek niitua qanerluni wangnun Hebrews-aatun waten , ‘ Saul , Saul ! Ciin nangpakarcia ? Elpenek nangtuten kitngiallerpegun cingilget . ’
+44026015	Kituusit		Qanertua-llu , ‘ Kituusit , Ataneq ? ’ Qanertuq-llu , ‘ Jesus-aaruunga nangeskengan .
+45002017	~		Tau͡gaam Jews-aarunikuvet alerquutet-llu cacetuqutekluki , pivakluku-llu Agayutmun caumacin ,
+45002021	~		Taumek elpet allat ayuqucirtuquvki , elpenek-qaa ayuqucirturngaituten ? Teglegyaraq inerquutekekuvgu , teglelartuten-qaa ?
+45002028	~		Jews-aarupianrituq kemegkun pilria , nuugiryarapiuvkenani-llu qaikun kemegkun-llu pilria .
+45003001a	cakun		Cakun tua-llu Jews-aat elluinruat ? 
+45003001b	catngua		Nuugiryaraq-llu catngua ?
+45003003	Qaillun-mi		Qaillun-mi ilait ukvenrilkuneng , ukvenriluciata-qaa Agayutem piciucia asguranariciqaa ?
+45003005	qaillun		Tau͡gaam elluanrilucimta nasvakaku elluarucia Agayutem , qaillun qanerciqseta ? Elluanrillekluku-qaa Agayun eq'ukutmek taicillranek wangkutnun ? ( Yuut qanlauciicetun qanertua ) .
+45003006	Qaillun-mi		Watqapik ! Qaillun-mi Agayutem nunam yui cuqcugngaciqaki ?
+45003007a	~		Tau͡gaam piciunritlemkun Agayutem piciucia pikaniqan , 
+45003007b	ciin		ciin cali cuqcimasia assiilngurtulriatun ?
+45003008	Ciin-llu		Ciin-llu assiilnguq atunriceta assilriamek iqungqerrnayukluku , ilaita yuut picilirualauciicetun qanerniluta ? Elluatun qanercetaarumaarkaugut .
+45003009	~		Tua-llu-qaa , Jews-aarulriani-qaa elluanruukut ? Qang'a , watqapik ; ak'a qanellruunga yuut tamalkuita , Jews-aarungraata Jews-aarunrilengraata-llu , assiilnguum teguaqai ;
+45003027a	nauwa-tuall'		Nauwa-tuall' yugngalucirput ? Pikaunrituq . 
+45003027b	ca		Ca pitekluku ? 
+45003027b	kia		Agayun ilikestekekumteggu , kia inglukciqakut ?
+45003027c	caliat-qaa		Caliat-qaa pitekluki ? Qang'a , ukveq pitekluku .
+45004001	Qaillun		Qaillun tuall' qanerciqseta Abraham-aamek ciuliamten̄ek kemegtaq aturluku ?
+45004003	Qaillun-mi		Qaillun-mi qaneryaraq qanerta ? “ Abraham-aam ukveqaa Agayun , tamana-llu pitekluku elliinun ellualriaruuq . ”
+45004010	Qaillun-mi		Qaillun-mi ellualriarurcimaa ? Nuugiumavailegmi-qaa wall'u nuugiumariluni ? Nuugiumarillermini pivkenani , tau͡gaam nuugiumavailegmi .
+45005010	~		Wani-wa inglukestek'ngermikut , Qetunrami tuqullrakun kenegyagucakut , nutaan kenegyagucecimariluta unguviikun anirtuumaarkaugukut .
+45005021	~		Tuaten assiilnguq atanrullruciatun tuqukun , tuaten-llu naklekun atanrusqelluku elluarucikun unguvamun nangyuilngurmun , Jesus Christ-akun Atanemteggun .
+45006001	Qaillun		Qaillun tuall' qanerciqseta ? Assiilngurkun-qaa ciumurciiqukut naklekun piusqelluku ?
+45006002	Qaillun-mi		Watqapik ! Qaillun-mi wangkuta assiilngurmun tuqullrulriani , assiilnguq cali uitavikeciqseta ?
+45006015	~		Tua-llu-qaa , assiilngirciqukut-qaa alerquutet qulliliumanrilatkut tau͡gaam naklekutem ? Watqapik !
+45006021	camek		Tua-i-llu tamakut , maa-i kasnguksaguskengaci imumi ayuquciqellerpecen̄i camek unangvikellruceciki ? Tuqumek tau͡gaam iqungqertut .
+45007007	Camek		Camek tua-llu qanerciqseta ? Alerquutet-qaa assiilnguugut ? Agayutem pivkanrilliu . Watqapik ! Tau͡gaam , alerquucetailkan cam assiilnguucia nalluyarqa . Ayariyaraq nalluyarqa qanrutenrilkatnga alerquutet , “ Ayariyaqunak . ”
+45007024	Kia		Nakleng wiinga ! Kia aviuciiqanga waken tuqum temiinek ?
+45008024	Kia		Mat'umi neryuniurutmi anirtuumaukut . Wani-wa alailnguum neryuniurutkellra neryuniurutngunrituq . Kia neryuniurutekciqau tangellni ?
+45008031a	qaillun		Qaillun tua-llu qanerciqseta mat'umun ? 
+45008032	canek		Elliin nakmiin Qetunrani qunukevkenaku cikiutekngaku wangkuta tamamta pitekluta , elliikun-qaa cali canek tamaitnek cikirngaitaakut ?
+45008033	Kina		Kina picetaaruciyunarqa Agayutem cucukek'ngainek ? Agayun kiimi ellualriarurcilria .
+45008034	Kina		Kina pinarqelrianun picirkiristen͞gua ? Christ-aunrituq-qaa tuqulleq , wani-wa imna unguilleq , maa-i-llu Agayutem tallirpiani uitalria kaigalluta .
+45008035	Kia		Kia avvuciiqakut Christ-am kenkiinek ? Arenqiallugutem-qaa , wall'u nanikuayaram , wall'u nangtaunam , wall'u piitnam , wall'u nuuqitem , wall'u aarnarqelriim , wall'u saskulluarqucaram ?
+45009014	Camek		Camek tua-llu qanerciqseta ? Agayun-qaa elluanrilngurmek piuq ? Watqapik ! Agayutem tuaten pivkanrilliu !
+45009019a	ciin		Qanerciqsaaquten wangnun , “ Ciin pinarqutkamek cali nataqut'larta ? 
+45009019b	kia-llu		Kia-llu narurciiqau pisqutii ? ”
+45009020a	cauyuksit		Usuuq , yuunge'rpet cauyuksit ? Agayun-qaa kiumrayugngaan ? 
+45009020b	~		Piliaqumalria-qaa piliaqestem̄inun qanerciquq waten , 
+45009020c	ciin		“ Ciin tuaten ayuqlua taqsia ? ”
+45009021	~		Qikuliurtem-qaa umyugiutesciigataa qiku , ilii caliaqellerkaanek caqumun tangnirqellriamun , ilii-llu caarrliviuluku ?
+45009022	~		Tau͡gaam Agayutem , eq'uqerten̄i nasvagyugngang'e'rmiu , nallunrircecugngang'e'rmiu-llu piyunarqucini , ilalcilriatun nerinisngialliqutekenritai eq'uqertem caqumakai piunrirarkamun taqumalriit .
+45009023	~		Nallunaitesqelluku assiucini angtatailnguq , takumcukutem caquini imiusngalriit , ciunguluku uptellni ucurnarillerkaatnun .
+45009024	~		Wangkuungramta-llu , kelellrini , Jews-aarrlainaat pivkenaki , Jews-aarunrilnguut-llu cali .
+45009030	Qaillun		Qaillun tua-llu qanerciqseta ? Jews-aarunrilnguut-qaa , elluaryaraq pingnaqenrilngermegteggu , unakaat , wani-wa elluaryaraq ukverkun ;
+45009032	Ciin		Ciin ? Tua-i ukverkun pingnaqenrilamegteggu , caliaratgun tau͡gaam alerquutet . Teggalquq paallautngutuli paallagvikngamegteggu ,
+45010006	Kina-kiq		Tau͡gaam elluaryaraq ukverem pia qanertuq , Qaneryaqunak ircaqurpegun , “ Kina-kiq qilagmun mayurniarta ? ” ( wani-wa Christ-aq atrautnaluku ) .
+45010007	Kina-kiq-llu		Wall'u “ Kina-kiq-llu camavet atrarniarta ? ” ( wani-wa Christ-aq nuggnaluku tuqumek ) .
+45010008	qaillun		Tau͡gaam qaillun qanerta ? “ Qaneryaram nayuraaten , qerrlugpeni , ircaqurpeni-llu ” wani-wa ukverem qaneryarartaa qalaruteklerput .
+45010014a	qaillun-mi		Qaillun-mi yuut kaigavikeciqatgu ukvervikenrilkesseng ? 
+45010014b	qaillun-mi-llu		Qaillun-mi-llu ukvervikciqatgu niiteksailkesseng ? 
+45010014c	qaillun-llu		Qaillun-llu niiciiqat qaneryariurtaunateng ?
+45010015	Qaillun-llu		Qaillun-llu yuut qaneryariurciqat ayagcecimavkenateng ? Igausngaciatun , “ Quyanaqvagtat it'gait qaneryariulriit qaneryaraqegtaarmek ! ”
+45010016	kina		Tau͡gaam tamarmeng Gospel-aaq niisngaksaitaat ; Isaiah-m qanellruciatun , “ Ataneq , kina ukverta niitellerminek wangkutnek ? ”
+45011004	cauga		Tau͡gaam cauga Agayutem kiutii elliinun ? “ Yungqertua malrunlegnek tiissitsaanek Baal-amun ciktaaqsailngurnek . ”
+45011007	Qaillun		Qaillun tuall' ? Israel-aat yuallerteng unakellrunritaat , cucukumalriit unakaat , tau͡gaam ilait elpegiutut .
+45011015	cauciqa		Wani-wa ayakumallrat kenegyagutngukan ellamiunun , cauciqa ciuniurumallrat ? Unguirutnguciquq tau͡gaam tuqumek .
+45011018	~		pivaksaqunak avayanun . Pivakekuvet , neq'akiu acilqumek aulukinrilucin , tau͡gaam elpet aulukumacin acilqumek .
+45011033a	~		Atam et'uqapigtacia Agayutem elisngacian nallunrilucian-llu ! Qanercetaaryarai yuarciiganateng , 
+45011033b	~		tumyarai-llu ayuqucingesciiganateng !
+45011034a	kia		“ Kia Atanrem umyugaa nallunritellruagu ? 
+45011034b	kina		Wall'u kina ayuqucirturtekellruagu ?
+45011035	Kia-llu		Kia-llu ciumek cikirtau , akiliumaarkauluni ? ”
+45014004	Cauyukluten		Cauyukluten allam pistiinek cuqciyunarqessit ? Nakmiin Atanermi ciuqerrani nangerngaciquq wall'u iquciquq . Nayumiqamaciquq-llu , tua-i Atanrem tegumiaqsugngiiku .
+45014010a	ciin-mi		Ciin-mi cuqciu ilan ? 
+45014010b	ciin		Wall'u , ciin caunrilkessiu ilan ? Wani-wa tamamta Agayutem aqumlleran ciuqerrani qanercetaarvigmi nangerngaarkaungamta .
+46001020a	nanta		Nanta umyuartulria ? 
+46001020b	nanta		Nanta igatuli ? 
+46001020c	nantat-llu		Nantat-llu naigtaarilriit mat'um nalliini ? Agayutem-qaa caunrilkenritaa mat'um nunam umyuartunra ?
+46002011	kia		Kia yuum umyugaa nallunritau ? Kiimi elliin anerneran elliinelnguum . Tuaten-llu Agayutem umyugaa kia taringesciigataa Anerneran tau͡gaam Agayutem .
+46002016a	kia		“ Kia Atanrem umyugaa nallunritau , ayuqucirturarkauluku ? ” Tau͡gaam wangkuta Christ-am umyugaanek avalingqertukut .
+46002016b	~		
+46003005a	kituuga		Kituuga Apollos ? 
+46003005b	kituuga		Paul-aaq-llu kituuga ? Kevgauguk Atanrem apertuuciatun , elkegnegun ukvengesqelluci .
+46004007a	kia		Tua-i kia allaurcetaten ilavnek ? 
+46004007b	camek		Camek avalingqercit ciuniunrilkevnek ? 
+46004007c	ciin		Ciuniullrukuvgu , ciin ucuryaguteksiu cikiutngunrilngurtun ?
+46004021	Qaillun		Qaillun pisqumaceci ? ullaglamci-qaa kaugtuutalgirlua , wall'u kenkakun pillaganrilngurkun ?
+46005002	~		Elpeci-llu pivakelartuci , angniilutkevkenaku-llu , kina tauna tuaten pilria ancimanayukluku akunlevcen̄ek .
+46005012	Calua		Calua ilakumanrilnguut picirkirciqsia ? Taukuunritut-qaa agayuvigmiut picirkirarkaci ?
+46006001	~		Ilasi pitengqerquni ilaminun , ullautekarkaugaa-qaa cuqcisten̄un agayumanrilngurnun , agayumalrianun pivkenaku ?
+46006003	~		Nalluarci-qaa an'gilanek cuqciarkaucirput ? Taumek arcaqerluki , unguvam mat'um pii piyugngaaput .
+46006004	ciin		Tua-i-llu qanercetaarutkangqerquvet unguvam mat'um piinek , ciin ullautelarceciki agayuviim pikegtaunrillrinun ?
+46006007a	ciin		Apqaurvigmi picetaarucilallerci ilavcen̄ek cirliqutekarci . Ilalcirluci ciin pinriceci ? 
+46006007b	~		Teguivkarluci-llu ?
+46006009	~		Nalluarci-qaa elluanrilnguum paitarkangqenrilucia Agayutem Angayuqauvianek ? Alarcaqunaci ; akusrartellriit , agayutngualilriit-llu , acuniatulit-llu , angutngullgutmeggnek-llu akusrarutekilriit ,
+46006016	~		Nalluarci-qaa kina imna akissumun ellminek ilautellria kemellguteksaguyucia ? Igausngaciatun , “ Taukuk atauciurtarkauguk kemegkun . ”
+46006019	~		Nalluarci-qaa temsi Anernermun Tanqilriamun , Agayutem cikiutiinun , enekucia ? Elpecen̄ek pikenrituci .
+46007016a	qaillun		Nulirrulriami , qaillun nallunriciu anirtullerkaa uivet ? 
+46007016b	qaillun		Uingulriami , qaillun nallunriciu anirtullerkaa nulirpet ?
+46009007a	kina		Kina anguyagta ellminek akiliuciiqa ? 
+46009007b	kina		Kina naucetaarvililria nerngaita atsainek ? 
+46009007c	kina-llu		Kina-llu katngagnek aulukilria tamaaken milegmek aturngaita ?
+46009018	Cauga		Cauga tuall' nunuliuteka ? Uunguuq : Gospel-aaq qalarutkekumku , akiinaku qalaruteklaku , atucurlanritlerkaakun piyugngalqa gospel-aakun .
+46010019a	camek		Camek tuall' qanercia ? 
+46010019b	cauyukluki		Neqkat-qaa agayutnguanun cikiutekumalriit cauyukluki , 
+46010019c	cauyukluki		agayutnguat-llu cauyukluki ?
+46010029	~		elpenek pivkenak , tau͡gaam elliin umyuaqegtaarii pitekluku . Wiinga-qaa atu'urkaqa yuum allam umyuaqegtaariikun cuqingaciquq ?
+46010030	ciin		Quyatekraarluku nerkuma , ciin cangakumasia quyatekelqa Agayutmun pitekluku ?
+46011022	Qaillun		Qaillun ! Enaituci-qaa nervigkarpecen̄ek merluci-llu ? Wall'u-qaa Agayutem agayuvia caunrilkarci kiaresngiatelluki-llu piilnguut ? Qaillun qanerciqsia elpecen̄un ? Nanrarciqamci-qaa mat'umek ? Nanrarciigatamci !
+46012017a	nau͡gg'un		Tema tamarmi iirrlainaukuni , nau͡gg'un niiciiqa ? 
+46012017b	nau͡gg'un		Tema tamarmi ciuterrlainaukuni , nau͡gg'un narlaryarta ?
+46012019	nau͡gg'un		Avaterrlainaukuni , nau͡gg'un temengqerrsarta ?
+46014006	camek		Tua-i-llu ilamaa , wiinga ullakumci alungutetgun qallallua , qaillun ikayuutnguciqsia elpecen̄un , camek pinrilkumci nallunairutmek , wall'u elisngamek , wall'u qalaruciyaramek , wall'u elitnaurutmek ?
+46014007	qaillun		Tuaten-llu aturcetaat unguvangqenrilnge'rmeng cuplucuaraat wall'u qelutellget erinait taringnailkata , qaillun yuum nallunriciiqau camek atuuciat ?
+46014008	kina		Cupu'uryaram-llu erinii taringnailkan , kina upciiqa anguyautellerkamun ?
+46014009	qaillun		Tuaten-llu elpecen̄i , alungutkun qallaskuvci taringnailngurmek , qaillun yuum nallunriciiqau qanrutkumalria ? Cailkamun qanerciqngavci .
+46014015	Qaillun		Qaillun tua-llu piciqsia ? Piicagciqua Anernerkun umyuamkun-llu ; aturciqua-llu anernerkun umyuamkun-llu .
+46014016	qaillun		Agayun nanraquvgu Anernerkun , qaillun yuum nallumalriim quyallren iqulirciqau Amen-aarluni , qanellren ayuquciilkuniu ?
+46014026	Qaillun		Qaillun tua-llu piciqseci , ilamaa ? Quyureskuvci tamarpeci , pingqerrutacirpecetun pikici yuarutmek , wall'u ayuqestassiigutmek wall'u nallunairutmek , wall'u alungutmek , wall'u egmirciyaramek , cat tamarmeng pimalit asvairitkarpecen̄un .
+46014036	Qaillun		Qaillun ? Agayutem-qaa qaneryaraa elpecen̄ek ayagniumauq , wall'u-qaa nallevciuggun agtuumaaci ?
+46015012	qaillun		Wani-wa Christ-aq qanrutkumiin tuqumalrianek maktellruniluku , qaillun ilaci qanlartat maktellerkartaitniluku ?
+46015029a	~		
+46015029b	qaillun		Wall'u qaillun piciqat tuqumalriit pitekluki anglluumalriit , tuqumalriit maktenrilkata ? 
+46015029c	ciin-mi		Ciin-mi angllurcecimaat taukut tuqumalriit pitekluki ?
+46015030a	~		
+46015030b	ciin-llu		Ciin-llu wangkuta aarnarqelria atularceta sass'at tamaitni ?
+46015032	cateksia		Yuut piciryaraicetun Ephesus-aami , yugtutulinek callullrung'e'rma , cateksia tamana ? Tuqumalriit maktarkaunrilkata , “ Nerkilta , merluta-llu , unuaqu tuquniartukut . ”
+46015035a	qaillun		Tua-i-llu ilasi qanerciqngatuq waten , “ Qaillun tuqumalriit makcimaciqat ? 
+46015035b	qaillun-llu		Qaillun-llu ayuqelriamek temengqerrluteng tekiciiqat ? ”
+46015055a	nanta		“ Tuqu , cirlakicin nanta ? 
+46015055b	nanta		Tuqu , cukin nanta ? ”
+47002002	kituuga-mi		Umyuarci uqamaicetellrukumku , kituuga-mi tauna wii ilukegcivkarteka , taunguuq umyuama uqamaitevkallra ?
+47002016	Kina		Aipaanun tuqumek imarluni aruvak , tuqumun , aipaanun-llu unguvamek imarluni , unguvamun . Kina makunek caliangqerrsugngaa ?
+47003008	~		Anernerem-qaa taicimallra nutaan angenrulriamek ucurnarqutengqerrngaituq ?
+47003009	~		Ucurnarqekan aniqlaatem taicimallra , ucurnarqenruciquq ellualriarurcaram taicimallra .
+47006014a	qaillun-mi		Ukverumanrilngurnek aipangyaqunaci . Qaillun-mi elluaryaraq assiilnguq-llu aipaquciiqak ? 
+47006014b	nau͡gg'un		Wall'u nau͡gg'un tanqik ilakuyutengqerciqa tan'germek ?
+47006015a	qaillun		Christ-aq-llu-qaa Belial-aaq-llu qaillun umyuallgutekciqak ? 
+47006015b	nau͡gg'un		Wall'u nau͡gg'un ukverumalriim pillgucirciqau ukverumanrilnguq ?
+47006016	camek		Agayutem enii agayutnguat-llu camek atunem umyuallgutengqertat ? Wani-wa wangkuta Agayutem unguvalriim agayuvikaakut ; qanellruciatun Agayutem : “ Uitavikciqanka peklua-llu akuliitni , ellaita-llu Agayutekciqaatnga , wii-llu yukciqanka .
+47011011	Ca		Ca pitekluku ? Kenkenrilamci-qaa ? Agayutem nallunritaanga , kenkamci .
+47011029a	kina		Kina cirlaukan , wiinga-llu-qaa pinialngaitua ? 
+47011029b	kina-llu		Kina-llu picurlagcecimakan , wiinga-llu-qaa yurnayugngaitua ?
+47012013	caliaqumallruceci		Allani agayuvigni nau͡gg'un nurenruluci caliaqumallruceci ? tau͡gaam-qaa nenguluugutngunritlemkun elpecen̄un ? Au͡g'aricia mat'umek alarutemnek .
+47012017	~		Wall'u-qaa teguillrulliamci ayagcetellma iliitgun elpecen̄un .
+48002014	ciin		Tau͡gaam elpekngamki qaneryaraqegtaaraam maligtaqunrilucia Peter-aaq qanrutaqa taukut ciuqerratni , “ Elpet , Jews-aaruluten , Jews-aarunrilnguut piciryaraatnek atuquvet Jews-aacetun pivkenak , ciin Jews-aarunrilnguut Jews-aacetun ayuqesqumasiki ? ”
+48003001	Kia		Galatian-aani , umyugailngurni ! Kia alarcetaci , Jesus Christ-aq ussukcausngalleq manimallrungraan ciuqerpecen̄i ?
+48003019	Ciin		Ciin tua-llu Alerquutet piugat ? Tua-i ellimaut assiilnguut pitekluki , alairarkaq tekitnatkaanun akqumalriamun , taicimaluni-llu akunleqliulriakun an'gilanek ikayungqerrluni .
+48004009a	ciin		Tau͡gaam maa-i Agayun nallunriumariavciu , wall'u Agayutem nallunriumariaci , ciin ataam tuigceci nutemllarnun , pinialngurnun , caunrilngurnun-llu ? 
+48004009b	ciin		Ciin teguarunqigcuumirceci ?
+48004010	~		Murilkelaraci erenret , iralut-llu , agayunerpiit-llu , allrakut-llu .
+48004015	Nauwa		Nauwa tayima angniuteklerci ? Nallunritamci piyunarqekan iici ikugluki wangnun cikiuteksallruaci .
+48004021	~		Qanrucia , Alerquutet ciumurucugtaitni : Alerquutet-qaa niiteksaitaci ?
+48004030	qaillun		Tau͡gaam qaneryaraq qaillun qanerta ? “ Teguaq qetunraa-llu ayagceskek , tua-i teguam yuan paitangqellgutekngailaku teguarunrilnguum yua . ”
+48005007a	kia		Elluarrluci pillruyaaquci ; kia maligtaqucetenritaci piciuyaramun ?
+48005007b	~		
+48005011	ciin		Tau͡gaam wiinga , anelgutmaa , nuugiryaraq ciumuruskumku , ciin cali nangcimasia ? Kelistam-qaa canganarqutii tuknialiuq ?
+49004009	Caluni		Caluni mayullrua ? Tua-i ciumek atrallruami camavet nunam aciqsinranun .
+50001018	~		Tua-llu ? Ilangcivkenaki , piciunrilnge'rmeng wall'u piciunge'rmeng , ayuqluteng Christ-aq qalarutkelaraat : tamatumek quyaunga quyanrirngaunii-llu .
+50001021	~		Wani-wa yuullemni Christ-aq yuuciqaqa , tuqukaqa-llu atawautekaqaqa .
+51002020	ciin		Taumek Christ-aq tuqullgutkellrukuvciu , nunam piciryarainek , ciin nunamiungulriatun cali inerquutaat qulliliumaiceci , makut :
+52002019	Camek		Camek neryuniurutengqerceta ? Camek-llu angniutekangqerceta ? Camek-llu ucurnarqutengqerceta ? Elpeciingunrituci-qaa ciuqerranetarkani Atanemta Jesus Christ-am , tekiskan ?
+52003009	Qaillun		Qaillun elluarrluta quyatekciqseta elpeci Agayutmun , angniriavcikut Agayutem ciuqerrani .
+54003005	qaillun-mi		Wani-wa yuk atanrusciigalkuni enemini , qaillun-mi atanruciqa agayuvigmi ?
+54006007a	camek		Camek nunamun mat'umun tekiutellrunrilamta , 
+54006007b	camek-llu		camek-llu ayausngaunata .
+58001005	naliatnun		An'gilat naliatnun Agayun qanellrua , “ Qetunraqamken , ernerpak yuurcetamken ? ” Wall'u cali , “ Atakeciqaanga , wii-llu Qetunraqciqaqa ? ”
+58001013	naliitnun		Tua-i-llu an'gilat naliitnun qanellrua waten , “ Tallirpima tungiinun aqumi inglukestevvet it'gavnun tutmaumavkallerkamnun . ”
+58001014	~		Kevgiulriarunritut-qaa anernerit ayagcecimaluteng caliaqesqelluki anirtuumaarkat ?
+58002003	qaillun		qaillun wangkuta qimagvingqerciqseta anirtuumallerkaq tuaten angtalria cakaaqumteggu ? Ciumek Atanerkun qanrutkumallruuq , nallunairumallruuq-llu wangkutnun niitestem̄ikun .
+58002006a	cauga		Qanrutkumallruuq nani waten , “ Yuk cauga elpet murilken͞gavgu , 
+58002006b	~		yuum-llu qetunraa , aulukngavgu ?
+58003016	kinkut		Kinkut taukut niitellriit amta-llu narurciluteng ? Taukuunritut-qaa Egypt-aamek anelriit Moses-aamek ciuliqagterluteng ?
+58003017	Kinkut-llu		Kinkut-llu ilutequtekaki allrakuni yuinaagni malrugni ? Taukuunritut-qaa assiilngilriit , temait-llu yuilqumi katagluteng ?
+58003018	Kinkunun-llu		Kinkunun-llu asguranaillrua mernuinerciutminun iterngaitniluki , imkunun tau͡gaam niicunrilngurnun ?
+58006004	~		Wani-wa yuut taringumarillrulriit uigumariluku-llu Agayutem cikiutii , Anerneq-llu Tanqilria piksagucimariluku ,
+58007011	ciin		Qaqimayaraq piurcugngallrukan Levi-artarkun agayulirten͞guyarakun , ( taum nalliini yuut alerquutnek cikiumallruata ) , ciin allamek agayulirtem̄ek pinarqellruat Melchizedek-aartarmek Aaron-aartaunrilngurmek ?
+58009014	Qaillun		Qaillun pitalriamek augan Christ-am , ellminek Agayutmun tunellrem Anernerkun nangyuilngurkun pinerrlugutaunani , menuirciqau umyuaqegtaarci assiilngurnek caliarpecen̄ek Agayutem unguvalriim kevgiullerkaanun ?
+58010001	~		Wani-wa Alerquun , tekitarkat assilriit tarenraatnek tau͡gaam imangqerrami , piciulriamek pipiulriamek pivkenani , ullautellriit natlugneriucesciigatai allamiaqan cikiutngulallerteggun .
+58010029a	qaillun-mi		Qaillun-mi pitalriamek arcaqanranek anucimirqecetaarutmek pinarqeciqa yuk Agayutem Qetunraan caunrilkestii , qigcikenricestii-llu akqutem augan menuirutestekellmi , Anernerem-llu takumcutalriim cangacagcestii ?
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	Camek		Camek cali qanerciqsia ? Piviiruciiqngama qanrutkenritanka Gideon , Barak , Samson , Jephthah , David-wa , Samuel-aaq-llu prophet-aat-llu .
+58012007	kina		Ellangcallerkarci pitekluku ilalkumalartuci . Agayutem qetunramitun pitarrluci piaci ; kina qetunraulria atiin ellangcaqsaitau ?
+58012009	~		Cali-llu , atangqellruukut ellangcartekamten̄ek , takaqellruaput-llu . Taumek-qaa niisnganrungaitukut anernemta atiitnun , unguvaluta-llu ?
+58012025	qaillun-mi		Murilkici qalarutesceci qacutenritnaurarci . Wani-wa taukut qimagciigalkatgu niitenritlerteng aarcirturtesseng nunami , qaillun-mi wangkuta qimagniarceta caunrilkekumteggu aarcirturilria pakmaken .
+58013006	qaillun		Taumek nalirrugtevkenata qanyunarqaakut , “ Ataneq ikayurtekaqa , alingengaitua ; yuum qaillun pingraanga . ”
+59002006	~		Tau͡gaam elpeci caunrilkaci arrsaulriit . Caknaavkaqsaitaiceci-qaa tukuulriit , qaillukuarten̄un-llu tun'aqluci .
+59002014	camek		Ilamaa , camek iqukegcia yuk ukverniluni qanngermi , caliarunani tau͡gken , ukveran-qaa anirturciqaa ?
+59002016a	~		ilavci-llu qanruskaki , “ Uitanqegciluci ayagci , maqarqici ner'aqluci-llu , ” 
+59002016b	cakaniutnguciqa		amta-llu cikirpek'naki piilutaitnek , cakaniutnguciqa tamana ?
+59002018	~		Tau͡gaam , yuk qanerciquq , ukvengqertuten wii-llu caliarlua ; nasvisnga ukverpenek caliarunak , wii-llu nasviciiqamken ukvemnek caliamkun .
+59002021	~		Ciuliarput-qaa Abraham-aaq elluakumallrunrituq caliamikun , Isaac-aamek tun'illermini ekuavigmi .
+59003013	~		Yuk umyuartukuni , elisngaluni-llu , ayuqucini nasvagliu qanlallermikun assilriakun , ellmikutuuluni .
+59003017	~		Tau͡gaam elisnga pakemkumiutaq caarrluituq uitanqegcinaqluni , pillagavkenani , maligauraulluni , takumcutarluni , assilrialiluni , caqtaarpek'nani , malrugnek-llu umyuangqerpek'nani .
+59004001a	cam		Cam calluavkalartaci , 
+59004001b	~		inglukulluci-llu ? Aglumacit-qaa pivkaqsaitaiceci avatevciuggun ?
+59004012	cauyuksit		Ataucimek alerquucilriartangqertuq anirturiyugngalriamek piunririyugngalriamek-llu ; cauyuksit ilavnek cuqcilriami ?
+59004014	Cauga		Unuaqullerkaa tau͡gaam nalluarci . Cauga unguvasi , taitugtun ayuquq carrarmi alaiqacuaqalriatun , tayimngurrluni-llu .
+60002020	camek		Picurlauteci pitekluki nangtaukuvci ilalciuluci , camek ucurnarqutengqerciqseci ? Tau͡gken elluarrluci pillerci pitekluku nangtaukuvci ilalciuluci , tamana Agayutmi akurtuyunarquq .
+60003013	kia-mi		Kia-mi aknirciiqaci cumiggluci assilriamek calikuvci ?
+60004017	qaillun-mi		Wani-wa qanercetaarun tut'eqatartuq Agayutem yuinun ciumek . Tua-i-llu wangkuta ciumek qanercetaarumakumta , qaillun-mi imkut qaneryaram narurtestai picirkiumaciqat ?
+60004018	qaillun-mi		Cali-llu “ Ellualriit pegnem anirtuumaarkaukuneng , qaillun-mi Agayutailnguut assiilnguut-llu pimaciqat ? ”
+61003004	Nauwa-mi		qanerluteng-llu , “ Nauwa-mi akqutngulria tekitenqigtellerkaa ? Ciuliaput tuqurraanratnek cat tamarmeng elucimegcetun ayuqut ellam piurteqarraallranek ayagluteng . ”
+61003011	qaillun		Tua-i-llu makut tamarmeng urugcimaarkaukata , qaillun ayuqelriamek agayumaciqseci ellualriarungnaqluci ,
+62002022	Kina		Kina tauna iqlungalriarua Jesus Christ-am mecirautekestii ? Taunguuq Antichrist-aq , Aatam mecirautekestii Qetunram-llu .
+62003012	Ciin-llu		Cain-atun-llu ayuqesqevkenata elluanrilngurtun anelgutminek-llu tuqucilriatun . Ciin-llu tuqutellruagu ? Tua-i-wa caliani assiilata , anelgutiin-llu caliari elluarluteng .
+62003017	qaillun-mi		Tau͡gaam yuk nunamiutarnek nuryugcinrilkuni ilani-llu piilnguq tangeng'e'rmiu , kusguanrilkuniu qaillun-mi Agayutem kenkii elliineciiqa ?
+62004020	qaillun		Kina imna qanquni , “ Agayun kenkaqa , ” tau͡gken anelgutni uumikluku , iqlungalriaruuq ; wani-wa anelgutni kenkenrilkuniu tangellni , qaillun piluni Agayun kenekciqau tangenrilken̄i ?
+62005005	Kituuga		Kituuga tauna nunam cirlakestii ? Taunguuq Jesus-aam ukveqestii , Agayutmun Qetunraqucianek .
+66005002	Kina		Tangertua-llu an'gilamek pinilriamek qastuluni qanerluni , “ Kina callarciyunarqeciqa kalikanek imegyaranek , takarnarqutait-llu navgurluki ? ”
+66006010a	qaku-mi		Qayagpagtut-llu qastuluteng qanerluteng , “ Quyinrulriami Ataneq , Tanqilria piciulria-llu , qaku-mi akinauruciiqsiu augput nunam yuinun ? ”
+66006010b	~		
+66006017	kina-llu		Eq'uqertiik angelria tekican , kina-llu nangerngayunarqeciqa ciuqerrani ? ”
+66007013a	kinkut		Ciulirneret-llu iliita qanrutaanga qanerluni , “ Kinkut ukut , qatellrianek aturiumalriit , 
+66007013b	naken-llu		naken-llu tekitat ? ”
+66013004a	kina		Yuut-llu ciissirpak ciktaarvikaat , tua-i piunarquciminek cikillruaku ungungssilkuk . Ungungssilkuk-llu ciktaarvikaat , qanerluteng , “ Kina ungungssilkugtun pitaa , 
+66013004b	kia-llu		kia-llu ingluliryugngaagu ? ”
+66015004a	kia		Kia atren qigcikenriciiqau ucurnarivkarluku-llu , Ataneq ? Elpet kiivet ellualriaruavet . Nunam yui ullauciiqut ciktaarvikluten-llu , qanercetaaruteten nallunairumiita . ”
+66015004b	~		
+66017007	Ciin		Tau͡gaam an'gilam qanrutaanga , “ Ciin alangaarcit ? Arnam nallunarqelriaranek qanrutnaamken , ungungssilkuum-llu malrunlegnek qamiqulgem , qulnek-llu cirunelgem ugingavikestiin , arnam nallunarqelriaranek .
+66018018	~		neplirluteng tangrramegteggu ekuallran aruvii , qanerluteng , “ Nunarpak una pitataitellruyugnarquq . ”

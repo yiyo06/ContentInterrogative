@@ -1,0 +1,743 @@
+40002002	Kemae		Battui akkuta'nang mange-mange ke'nanga angkana , " Kemae pammantanganna anjo Ana' beru nilassukanga , la'jari karaenga ri tu Yahudia ? Le'baki nia' ammumba bintoeng pammateiNa iraya . Nia' maki' anne battu ero' anynyomba ri Ia . "
+40002004	Kemae		Nasuro kio' ngasemmi Herodes sikontu imang-imang kapalaya siagang guru-guru agamana tu Yahudia . Napa'rappungammi ke'nanga nampa nakuta'nang angkana , " Kemae lanilassukang anjo Karaeng le'baka Napa'janjiang Allata'ala ? "
+40003007	Inai		Jai tommi tu Farisi siagang tu Saduki battu mae ri Yohanes , ero' assuro je'neki kalenna . Mingka nacini'na Yohanes battu todong ke'nanga , nakanamo ri ke'nanga , " Ikau ngaseng tu ja'dalaka ! Inai ampauangko angkanaya akkullei nuliliang hukkunganNa Allata'ala , labattua sallang mae ri kau ?
+40005013	~		" Ikau ngasemmi rapang ce'lana anne linoa . Punna la'bamo ce'laya , maka lakkulleiji nipa'jari ce'la poleang ? Ma'nassa tenamo matu-matunna , passangalinna nipela' mami na nionjo'-onjokang ri taua .
+40005046	apa		Nasaba' punna iaji bawang tau angkamaseangako nukamaseang , apa paralluna Nabalasa' Allata'ala anjo panggaukannu ? Sai manna parentea angngasseng tonji anggaukangi kammaya anjo ?
+40005047	apa		Na punna agannuji bawang nujamakki , apa la'bina kabajikannu ? Kamanna tau kapereka nagaukang tonji kammaya .
+40006027	inaika		Maka inaika akkulle antambai umuru'na manna sike'de' lanri ranggaselana ?
+40006028	angngapa		Kammayatompa , angngapa nuranggasela lanri care-carenu ? Cini' sai antekamma tallasa'na anjo bunga-bunga rosia attimboa ri paranga . Anjo bunga-bungaya tena nakkulle anjama siagang tena nattannung ;
+40006031a	apamo		Jari tea' mako bata-batai angkanaya , ' Apamo lanikanre ' , 
+40006031b	apamo		yareka ' apamo laniinung ' , 
+40006031c	apamo		yareka ' apamo lanipake ' ?
+40007003	Angngapa		Angngapa nakkulle nucini' limbu'bu' niaka lalang ri matanna parannu tau , mingka batu niaka lalang ri matannu tanucinikai ?
+40007004	Antekamma		Antekamma lanukana ri parannu tau , ' Mae kupasulukangko anjo limbu'bu' niaka lalang ri matannu , ' nania' batu lompo lalang ri matannu ?
+40007009	~		Maka nia' se're tau toa assare batu punna appala' roti ana'na ?
+40007016a	~		Battu ri panggaukanna ke'nanga akkulle nuasseng nubatei . Takkulleai romang-romang akkatintinga a'rappo anggoro' ; 
+40007016b	~		siagang takkulleai rompo'-rompo' akkatintinga a'rappo ara .
+40008026	Angngapa		Nakanamo Isa , " Angngapa numalla' kamma ngaseng ? Kurang tappakko ri Nakke ? " Nampa ammenteng Isa , naNaga'gara' anjo anginga siagang tamparanga . Sa'genna sannang sikalimo anjo tamparanga .
+40008027	apamo		Lannasa' ngasemmi ana' gurunNa Isa . Nakanamo ke'nanga , " Tau apamo anne kutaeng ? Kamanna anginga siagang bombanga amminawang turu' todong ri parentaNa ! "
+40008029	Apa		Battu lalangi ke'nanga assulu' ri pa'jerakkanga akkiok-kio' angkana , " E Ana' Na Allata'ala ! Apa ero' battu nugaukang ri kambe ? Ero' mako battu ansessai kambe , manna tanarapikapa wattunna ? "
+40009004	Angngapa		Na anjo nawa-nawanna ke'nanga Naassengi Isa . Jari Nakanamo Isa ri ke'nanga , " Angngapa naja'dala' kamma batenu ngaseng appikkiri' ?
+40009005	Kereanga		Kereanga la'bi gampang : angkanaya ' Nipammopporammi dosanu' , yareka angkanaya ' Ambangungko nai' nu'jappa' ?
+40009011	apa saba'na		Nia'mo siapa are tu Farisi anciniki ke'nanga sipangnganreang . Akkuta'nammi anjo tu Farisia ri ana'-ana' gurunNa Isa angkana , " Apa saba'na naNaagang sipangnganreang gurunnu pasingara' simaya siagang tau kodia sipa'na ? "
+40009014	Angngapa		Le'baki anjo battumi ana'-ana' gurunna Yohanes Paje'ne' mae ri Isa . Akkuta'nammi ke'nanga ri Isa angkana , " Angngapa natappuasaya Katte ana'-ana' gurunTa , na ikambe anne siagang tu Farisia appuasaki' ? "
+40009015	Antekamma		Appialimi Isa angkana , " Maka biasai toanaya si'na atinna punna nia' ija bunting bura'nea ri tangnga-tangngana ke'nanga ? Antekamma panggappanu ? Tantu tena ! Mingka lanarapiki sallang wattunna lanialle anjo bunting bura'nea battu ri tangnga-tangngana ke'nanga . Iaminjo wattua nalasi'namo atinna ke'nanga .
+40010025	~		Sukku'mi sa'genna punna a'jari sangkamma ana' gurua siagang gurunna ; yareka a'jari sangkamma palayanga siagang karaenna . Punna nigallara'mo Pinggawa setang kapala ruma tanggaya , la'biangampa pole kodina lanigallarrangi bone balla'na ! "
+40011007	Apa		A'lampanamo ana'-ana' gurunna Yohanes , Nabicarami Isa mae ri anjo tau jaia passala'na Yohanes . Nakana , " Apa mange nucini' ri parang lompoa ? Ruku' silawaraka nairi' anging ?
+40011008	Apa		Apa ero' mange nucini' anjoreng ? Tau ammake pakeang ga'ga ? Niaki ri balla' lompona karaenga tau ammakeang ga'gaya !
+40011009	angngapa		Jari angngapa nu'lampa mange ri parang lompoa ? Erokko mange accini' na'bi ? Annabai , ba'lalo la'biangampa na na'bia .
+40011016	Apa		Apa laKupasanrapangangi anne taua ri jammanga ? Sanrapangi ana'-ana' pakarenaya ri passua'-suarranga .
+40012011	~		Appialimi Isa nakana , " Ebara' angkana nia' ri kau ammallaki sikayu gimbala' , nampa tu'guru' anjo gimbala'na naung ri kali'bong lantanga ri allo Pammari-marianga , maka taerokako ampanaiki anjo gimbalaka battu ri kali'bonga lanri kaallo Pammari-mariangi ?
+40012026	~		Kamma tomminjo lalang ri pamarentahanna Billisika , punna nia' silokoang ambongkai lokoang maraenga , ma'nassa ta'bage-bagemi siagang lanra'bami pamarentahanna anjo Billisika .
+40012027	inai		Angkana ngasengko nakkulle Kubongka setanga lanri nasareKu koasa pinggawana setanga . Jari punna kamma , lanri inai pata koasa nanabongka setanga ana'-ana' gurunnu ? Kalenna ana'-ana' gurunnu ampa'butti angkanaya sala ngasengko !
+40012029	Antekamma		Antekamma lakkulle antama' taua ri se'reang balla' , angngalle passai barang-baranna punna tau gassing patanna balla' ? Mattantu nasikkoki rolong anjo tau gassinga , patannaya balla' . Punna le'ba'mo nasikkokang anjo patannaya balla' , nampami akkulle naalle passa barang-baranna .
+40012034	Antekammako		Ikau tau ja'dala' ngasengko ! Antekammako lakkulle ampaui kabajikanga punna tau ja'dalakko ? Apa nupau iamintu bonena lalang atinnu , assulu' battu ri bawanu !
+40012048a	inaika		Appialimi Isa Nakana , " Inaika ammakKu ? 
+40012048b	inaika		Siagang inaika sari'battangKu ? "
+40013010	Angngapa		Le'baki anjo battumi ana'-ana' gurunNa Isa akkuta'nang ri Ia angkana , " Angngapa Kimmake pangngebarang punna angngajarakKi' mange ri anne tau jaia ? "
+40013027	Antekamma		Jari mangemi tungnganre gajina anjo pamarria ampauangi anjo pamarria angkana , ' O Karaeng , sai lamungang baji'ji bawang le'ba' kilamung ri tanata ? Antekamma nakkulle nia' todong ruku' rea attimbo anjoreng ? '
+40013054a	kemaei		nampa ammotere' mange ri pa'rasanganNa . Battuna mange anjoreng , mangemi ri sikamma balla' sambayanga angngajara' ; na lannasa' ngasemmo taua allangngereki anjo apa Napangngajarranga . Nakanamo ke'nanga , " Battu kemaei anggappa pangngassengang kammaya anjo anne Taua ? 
+40013054b	kemaei		Battu kemaei anggappa koasa kammaya lompona Nakkulle anggaukangi gau'-gau' appakalannasaka ?
+40013056	kemae		Siagang sari'battanNa bainea anrinni ngaseng tonji ammantang . Battu kemae ngasengi Nagappa anjo sikammaya ? "
+40014031	Apa saba'na		Linta'mi Isa anta'galaki limanna . Nampa Nakana , " O Petrus , anne ikau kurang tappakko . Apa saba'na nanubata-bata ? "
+40015002	Apa saba'na		" Apa saba'na nanadakkai ana'-ana' gurunNu ada'-ada'na tu riolota ? Kapunna langnganre ke'nanga tena na'bissa lima situru' atoranga ! "
+40015003	angngapa		Appialimi Isa Nakana , " Mingka angngapa nanudakkai todong passuroNa Allata'ala , lanri ero'nu bawang anggaukangi ada'-ada'na tu riolonu ?
+40015033	Kemaeki'		Akkuta'nammi ana'-ana' gurunNa ri Ia angkana , " Kemaeki' akkulle ampanggappangi kanre tau sikammaya anne jaina ri daera bella kammaya anne ? "
+40015034	Siapa		Akkuta'nammi Isa ri ke'nanga angkana , " Siapa mami jaina roti niaka ri kau ngaseng ? " Appialimi ke'nanga angkana , " Tuju mami , siagang pirang kayu are juku' ca'di-ca'di . "
+40016008	Angngapa		Mingka Naassengi Isa anjo apa nabicaraya ke'nanga . Jari angkanami , " Angngapa napassala' tenana roti massing nubicara ? Tena ngaseng najarre' tappa'nu !
+40016009	Pirang		Tena ngasempa nupahangi ? Tena nuu'rangi anjo roti limambatua le'baka nipa'bage-bageang , ri limassa'bua tau jaina ? Pirang baku' tassesa le'ba' nupasse're ?
+40016010a	antekamma		Siagang antekamma anjo roti tujumbatua nipa'bage-bageanga mae ri patassa'bua tau jaina ? 
+40016010b	pirang		Pirang baku' le'ba' tassesa nupasse're ?
+40016011	Angngapa		Angngapa natanupahanga angkanaya teai passala' roti anjo Kubicaraya ri kau ngaseng sumpaeng ? Tutuko ri pa'gambanna tu Farisia siagang tu Sadukia ! "
+40016013	inai		Anjo wattua a'lampai Isa mange ri daera a'reppeseka ri Kota Kaisarea Filipi . Anjoreng , akkuta'nammi Isa ri ana'-ana' gurunNa Nakana , " Turu' pakkanana taua , inai anjo Ana' Ma'rupataua ? "
+40016015a	~		Akkuta'nammi Isa ri ke'nanga Nakana , 
+40016015b	inaiA'		" Mingka turu' ri panggappanu ngaseng inaiA' anne ? "
+40016026a	apa		Nasaba' apa matu-matunna nagappa ngaseng taua anne linoa punna latappela' katallassanna ? 
+40016026b	~		Maka akkullei anjo katallassanga nipassambe apa-apa maraeng ?
+40017010	Angngapa		Akkuta'nammi ana'-ana' gurunNa Isa ri Ia angkana , " Angngapa nanakana guru-guru agamana tu Yahudia , angkanaya Elia labattu rioloangang ? "
+40017017a	Siapapi salloKu		Appialimi Isa angkana , " Teaiko anne sipato' ngaseng ! Ma'nassa tau sala oloang ngasengko siagang tena ngaseng tappa'nu . Siapapi salloKu lammantang siagang lasa'bara' ri tangnga-tangnganu ngaseng ? Erangi mae anjo anaka ! "
+40017017b	~		
+40017019	apa saba'na		Ri wattunna kale-kalenna mami Isa , battumi ana'-ana' gurunNa akkuta'nang ri Ia angkana , " O Bapa' , apa saba'na nakitakkullea anne ikambe ambongkai roh ja'dalaka ? "
+40017025a	antekamma		Appialimi Petrus nakana , " A'bayaraki . " Ri wattunna ammotere' Petrus , nikuta'nammi ri Isa angkana , " O Simon , antekamma panggappanu ? 
+40017025b	inai		Inai musti a'bayara' sussung yareka sima , mae ri pammarentana anne linoa ? Ra'yaka yareka tu battu pantarang pa'rasangang ? "
+40018001	Inai		Anjo wattua akkuta'nammi ana'-ana' gurunNa Isa ri Ia angkana , " Inai akkulle nikana kaminang malompo ri sikontu umma' Na Allata'ala ? "
+40018012	Antekamma		Alarapanna , nia' sitau ammallaki sapi sibilangngang kayunna . Na punna tappela' sikayu , maka apa lanagaukang anjo taua ? Antekamma panggappanu ? Mattantu lanaboliki anjo sapinna salapampuloa assalapang ri bontoa , nampa a'lampa amboyai anjo sapinna sikayua tappelaka .
+40018021	pissiapai		Le'baki anjo mangemi Petrus akkuta'nang ri Isa angkana , " O Batara , punna sala sari'battangku ri nakke , pissiapai akkulle kupammopporang ? Sa'genna pintuju ? "
+40019007	apa saba'na		Akkuta'nammi pole tu Farisia ri Ia angkana , " Punna paleng kamma , apa saba'na nanasuro taua Musa assarei sura' talla' bainenna punna natalla' ? "
+40019016	apa		Ri se'reang allo , nia' se're tau bura'ne battu mae ri Isa angkana , " O Guru , panggaukang apa baji' kugaukang sollanna akkulle kugappa katallassang sitojennaya siagang mannannunganga ? "
+40019017	Angngapa		Appialimi Isa Nakana , " Angngapa nukkuta'nang ri Nakke ri passala' apa bajika ? Se'reji bawang baji' . Punna erokko salama' , turukimi sikamma apa Napassuroanga Allata'ala . "
+40019018	Apa		Akkuta'nammi anjo tau rungkaya angkana , " Apa passuroNa Allata'ala ? " Appialimi Isa Nakana , " Teako ammunoi ; teako a'gau' salimararri ; teako a'lukkaki ; teako a'balle-ballei ;
+40019020	apapi		Appialimi pole anjo tau rungkaya angkana , " Yangaseng anjo parenta kammaya le'ba'mi kugaukang . Jari apapi pole parallu kugaukang ? "
+40019025	inai		Lannasa' ngasemmi ana'-ana' gurunNa Isa nalangngere'na akkana kamma Isa . Nakanamo ke'nanga , " Punna paleng kamma , jari inai mami akkulle salama' ? "
+40019027	apa		Nakanamo Petrus , " Kicini' minne , ikambe nibokoi ngasemmi sikamma apa niaka ri kambe lanri erotta amminawang ri Katte . Na apa sallang lanagappa ikambe ? "
+40020006	Angngapa		Nakira-kira ri tette' limana ri karuenga a'lampami pole . Nanacini'mo pole nia' ija tau tenaya jama-jamanna . Akkuta'nammi anjo patanna koko ri ke'nanga angkana , ' Angngapa nummantang ngaseng anrinni ammenteng sila'busu' allo tena apa-apa nugaukang ? '
+40020012	~		Nakana ke'nanga , ' Pajama ri boko dudua sitette'ji anjama . Na ikatte sila'busu' alloki' nabambangi allo anjama , mingka kipasangkammaji kipa'gajianga ri ke'nanga siagang ri kambe anne ! '
+40020021	Apa		Akkuta'nammi Isa Nakana , " Apa nukaeroki ? " Appialimi anjo bainea nakana , " Punna a'jari KaraengKi' sallang kupalaki naKipaempo anne anakku ruaya , se're ri kairinTa na se're ri kananTa . "
+40020032	Apa		Jari ammantammi Isa nampa Nasuro kio' ke'nanga . Akkuta'nammi ri ke'nanga angkana , " Apa ero' nupala' Kugaukang ri kau sipa'rua ? "
+40021010	Inai		Ri wattunna antama'mo Isa ri kota Yerusalem , gegere'mi sikontu tau niaka ammantang anjoreng ri kotaya . Akkuta'nammi tau anjorenga ri kotaya angkana , " Inai anne taua ? "
+40021016	~		Nakanamo ke'nanga mae ri Isa , " Nulangngere'ji anjo napaua ke'nanga ? " Appialimi Isa Nakana , " Iyo , Kulangngere'ji . Tena le'bakapi nubaca apa niaka tattulisi' lalang ri Kittaka angkanaya , ' Le'ba'mi nuajara' ana'-anaka siagang ana' loloa ampaui kana-kana pammujia' ? "
+40021020	Antekamma		Lannasa' ngasemmi ana'-ana' gurunNa Isa ri wattunna nacini' anjo kajarianga . Akkuta'nammi ke'nanga angkana , " Antekamma nakkulle mate silalonna anjo poko' araya ? "
+40021023a	apa		Le'baki anjo ammotere'mi Isa mange ri Balla' Na Batara . Antama'mi angngajara' lalang . Sitabanna angngajara' , battumi mae ri Ia imang-imang kapalaya siagang pamimping-pamimpinna tu Yahudia . Akkuta'nammi ke'nanga angkana , " Apa passabakkanna nakkulle Nugaukang ngaseng anne ? 
+40021023b	inai		Inai assareKo koasa ? "
+40021025a	inai		Iaminne pakkuta'nangKu , " Inai assarei koasa Yohanes anje'neki taua ? Allata'ala yareka rupataua ? " Massing sikuta'nammi para ia anjo imang-imang kapalaya siagang pamimping-pamimpinna tu Yahudia angkana , 
+40021025b	~		" Punna nikana ' Allata'ala assarei koasa , ' lakkuta'nangi pole ri katte angkana , 
+40021025c	apa saba'na		' Punna kamma padeng , apa saba'na natena nutappa' ri ia ? '
+40021028	~		Nakanamo pole Isa , " Nia' sitau bura'ne , nia' ana'na bura'ne rua . Nakanamo ri ana'na toaya , ' Na' , a'lampako anne alloa anjama ri koko anggoroka . '
+40021031	Kereanga		Jari kamma-kamma anne antekamma panggappanu ? Kereanga anjo ana' ruaya anggaukangi napassuroanga manggena ? " Appialimi imang-imang kapalaya siagang pamimping-pamimpinna tu Yahudia angkana , " Anjo ana'na toaya . " Jari Nakanamo pole Isa ri ke'nanga , " Patappa'mi angkanaya : Rioloangangi sallang parentea siagang bai'-baine ja'dalaka a'jari umma' Na Allata'ala kala ikau ngaseng .
+40021040	apa		Le'baki Nacarita Isa anjo pangngebaranga akkuta'nammi ri ke'nanga angkana , " Jari punna ammotere' anjo patanna koko , apa lanagaukang ri anjo tau anjamayai kokonna ? "
+40022012	antekamma		Akkuta'nammi ri anjo taua nakana , ' E , gang , antekamma nukkulle antama' anrinni natena nummake pakeang passua'-suarrang ? ' Tanaassengami appiali anjo taua .
+40022017	~		Lanri kammana , Kipausai bedeng : Manuru' atoranna agamata , maka siratangki' a'bayara' sima ri Karaenga yareka tena ? "
+40022018	Angngapa		Mingka Naassemmi Isa pikkirang ja'dala'na ke'nanga . Jari Nakanamo ri ke'nanga , " E , tu munape' ! Angngapa nuero' ampa'boyangA' sala ?
+40022020a	inai		Akkuta'nammi Isa ri ke'nanga Nakana , " Inai pata gambara' siagang areng anne lalang ri doeka ? "
+40022020b	~		
+40022028	kereangami		Jari punna attallasa' poleang tau matea kereangami pata baine anjo bainea ? Nasaba' le'ba' ngasemmi nibuntingi ri anjo tujua bura'ne . "
+40022036	kereanga		" O Pa' Guru , kereanga parenta lomoro' se'rea lalang ri atorang agamaya ? "
+40022042a	antekamma		" Antekamma panggappanu ngaseng ri passala'na Karaeng Mappasalamaka ? 
+40022042b	nai		Sossorang battu ri nai ? " Appialimi ke'nanga angkana , " Sossorang battu ri Daud . "
+40022043	apa saba'na		Akkuta'nammi Isa Nakana , " Punna kamma , apa saba'na naniajara' Daud ri RohNa Allata'ala sollanna akkio' ' Batara' ri Karaeng Mappasalamaka ? Nasaba' nakana Daud ,
+40022045	antekamma		Jari punna Daud akkio' ' Batara' ri anjo Karaeng Mappasalamaka antekamma lakkulle nikana sossorang battui ri Daud ? "
+40023017	Kereanga		Ikau ngaseng tu toloa siagang tu butaya ! Kereanga paralluangang : bulaenga yareka Balla' Na Batara ampa'jariai matangkasa' anjo bulaenga ?
+40023019	Kereanga		Teai sipato' butanu ngaseng ! Kereanga paralluangang ? Koro'banga , yareka tampa' koro'banga ampa'jariai matangkasa' anjo koro'banga ?
+40023033	Antekamma		E , ikau ngaseng tau ja'dalaka siagang sossorang tau ja'dalaka ! Antekamma lakkulle nuliliang hukkunganga ri naraka ?
+40024003a	~		Le'baki anjo , a'lampami Isa mange ri Bonto Zaitun . Na ammemponamo , battumi ana'-ana' gurunNa angngagangi a'bicara kale-kalenna . Nakanamo ke'nanga ri Ia , " Kipaumi ri kambe anne , singngapanna nalakajariang ngaseng anjo kammaya ? 
+40024003b	apa		Apa la'jari pammateina punna battu poleangKi' sallang ri allo kala'busang jammanga ? "
+40024045	kereanga		Nakanamo pole Isa , " Punna kamma , maka kereanga palayang tuli bajika siagang cara'deka ? Iami niangka' ri karaenna a'jari kapala mae ri palayang-palayang maraenga , sollanna nasare ke'nanga kanre punna narapi' wattunna .
+40025037	ringngapanna		Nakana ngasemmo anjo taua , ' O , Batara , ringngapanna nakucinikKi' cipuru' nakusareKi' kanre , yareka turereKi' nakusareKi' je'ne' inung ?
+40025038	Ringngapanna		Ringngapanna nakucinikKi' a'jari tau battu-battu nakupariballakKi' ? Ringngapanna natena Kiccare-care nakusareKi' care-care ?
+40025039	Ringngapanna		Ringngapanna kucinikKi' garring yareka nitarungku nakutulungKi' ? '
+40025044	ringngapanna		Appialimi ke'nanga ri Ia angkana , ' O , Batara , ringngapanna nakucinikKi' cipuru' , yareka turere , yareka nitarungku , yareka a'jari tu battu-battu , yareka taccare-carea , yareka garring , natakutulungaKi' ? '
+40026008	apa		Larromi ana'-ana' gurunNa Isa nacini'na appakamma anjo bainea . Nakanamo ke'nanga , " Apa matu-matunna napa'laboang kamma anjo minynya'-minynyaka ?
+40026010	Angngapa		Nalangngere'na Isa anjo bicaranna ke'nanga , Nakanamo , " Angngapa nanususai kamma anne bainea ? Anu baji' siagang anu annaba anne nagaukanga ri Nakke .
+40026015	Apa		Nakanamo ri ke'nanga , " Apa lanusareanga' punna kupassareang Isa ri kau ? " Nisaremi ri ke'nanga tallumpulo doe' pera' .
+40026017	Kemae		Ri allo pakkaramulanna allo Passua'-suarrang Roti Tenaya Nammake Pa'gambang , battumi ana'-ana' gurunNa Isa mae ri Ia . Nakanamo ke'nanga , " Kemae erotTa lanipasadia pangnganreang Paskaya ? "
+40026040	~		Le'baki anjo , ammotere'mi mae ri ana'-ana' gurunNa tallua . Mingka narapikangi attinro ke'nanga . Nakanamo ri Petrus , " Maka takkulleako angngagangA' a'jaga manna sinampe'ja ?
+40026050	apa		Appialimi Isa Nakana , " Apa parallunu battu sari'battang ? " Maju ngasemmi anjo tau jaia anjakkalaki Isa , nampa nasikko' .
+40026054	antekammami		Mingka punna kamma anjo , antekammami la'rupa apa le'baka napau Kittaka , angkanaya tena takajarianna anjo ri kamma-kammaya anne ? "
+40026062a	~		Ammentemmi imang lompoa na nakana ri Isa , 
+40026062b	apaka		" Apaka tena Nuero' ampiali bicaranna anne sa'bi-sa'bia ? "
+40026065	~		Nalangngere'na imang lompoa akkana kamma Isa , naallemi nasinre' jubana na nakana , " Nahinai Allata'ala ! Tenamo naparallu pole sa'bia . Massing nilangngere'mi bicaranNa anghinai Allata'ala .
+40026066	antekamma		Jari antekamma panggappanu ngaseng ? " Appialimi ke'nanga angkana , " A'nassami kasalanna . Jari siratangi nihukkung mate . "
+40026068	inai		na nakana , " O , Karaeng Mappasalamaka , tappu sai bedeng siagang pau sai bedeng , inai antempaka'rangKo ? "
+40027004	~		Nakanamo ri ke'nanga , " Dorakama' kubalukangi tau tenaya salanna , sa'genna nihukkung mate ! " Appialimi ke'nanga angkana , " Ikatte tena naparallu kijampangi ; anjo urusannu kau ! "
+40027013	apa		Jari nakanamo Pilatus ri Ia , " Tanulangngerai anjo apa natuduangKo ke'nanga ? "
+40027017	Kereanga		Jari wattunna a'rappungammo tau jaia , akkuta'nammi Pilatus ri ke'nanga nakana , " Kereanga nupala' lakulappassang ? Isa Barabas yareka Isa nigallaraka Almasi ? "
+40027021	Kereanga		Akkuta'nammi pole Pilatus ri ke'nanga nakana , " Kereanga anne tau ruaya nupala' kulappassang ? " Appialimi ke'nanga angkana , " Barabas ! "
+40027022	apa		Akkuta'nammi Pilatus ri ke'nanga nakana , " Jari apa lakugaukangi ri anne Isa , nigallaraka Almasi ? " Appialimi ke'nanga angkana , " Allei Salli' ! "
+40027023a	~		Akkuta'nammi Pilatus nakana , 
+40027023b	apa		" Mingka apa kaja'dallanNa ? " Pila' akkio' lompomi pole ke'nanga angkana , " Allei Salli' ! "
+40027046	angngapa		Tette' tallu ri karuenga , ammarrang lompomi Isa Nakana , " Eli , Eli , lama sabakhtani ? " battuanna , " O , Allata'alaKu , O , Allata'alaKu , angngapa naKibokoiA' ? "
+41001024	apa		" E , Isa tu Nazaret , apa ero' Nugaukang mae ri kambe ? BattuKo ero' anghukkungi ikambe ? Kuassengi angkanaya inaiKo antu : iKaumi Tunisuro matangkasaka , battua ri Allata'ala ! "
+41001027	apami		Sikontu taua lannasa' sikalimi anciniki anjo passalaka . Sa'genna massing nakanamo para ia ke'nanga , " Idende' apami kutadeng anne ? Iaminne pangngajarang beru ! Lanri kakoasanNa siagang kala'biranNa na Nasuro roh-roh ja'dalaka assulu' , siagang amminawang turu' anjo roh-roh ja'dalaka mae ri Ia ! "
+41002007a	~		" Baranina anne taua akkana kamma ! Nahinai Allata'ala . 
+41002007b	inai		Inai akkulle ampammopporangi dosaya , pantaranganna Allata'ala bawang ? "
+41002008	Angngapa		Anjo wattua Naasseng memammi Isa pikkiranna ke'nanga . Jari Nakanamo , " Angngapa nukkuta'nang kamma ngaseng lalang ri pa'mai'nu ?
+41002009	kereanga		Maka kereanga gampangangang : angkanaya , ' Nipammopporammi dosanu' yareka angkanaya , ' Ambangungko nai' , angkaki tappere'nu , nu'jappa' ?
+41002016	Angngapa		Nia'mo siapa are guru-guru agamana tu Farisia anciniki Isa angnganre siagang anjo pasingara' simaya siagang anjo tu nicini' kodia ri tau jaia . Jari akkuta'nammi ke'nanga ri ana'-ana' gurunNa Isa angkana , " Angngapa nasiagang gurunnu anjo pasingara' simaya siagang anjo tu kodi kammaya ngaseng , angnganre ? "
+41002018	Angngapa		Nia' se're wattu nappuasa ana'-ana' gurunna Yohanes Paje'ne' siagang tu Farisia . Nia'mo tau battu akkuta'nang ri Isa angkana , " Angngapa nappuasa ana'-ana' gurunna Yohanes Paje'ne' siagang ana'-ana' gurunna tu Farisia , mingka ana'-anatTa Katte tena ? "
+41002019	~		Appialimi Isa Nakana , " Maka tena nangnganre toanaya ri passua'-suarranna pa'buntinganga ? Punna nia' ija bunting bura'nea angngagangi ke'nanga , mattantu angnganrena ke'nanga .
+41002024	Angngapai		Nakanamo tu Farisia ri Isa , " Angngapai anjo ana'-ana' gurunNu na nadakkai atoranga ri agamata , kanagaukangi apa nipappisangkanga nigaukang ri allo Pammari-marianga ? "
+41003004	kereanga		Nampa akkuta'nang ri anjo tau niaka ngaseng anjoreng nakana , " Manuru' agamaya , kereanga akkulle nigaukang ri allo Pammari-marianga ? A'gau' baji' yareka a'gau' ja'dalaka ? Appasalamaka tau yareka ammunoa tau ? " Tenamo na nia' ri ke'nanga akkana .
+41003023	Antekamma		Jari Nakio'mi Isa anjo tau jaia , nampa Napaccaritang ke'nanga siapa are pangngebarang . Nakana Isa , " Antekamma lakkulle setanga ambongkai setanga ?
+41003033a	inai		Appialimi Isa Nakana , " Inai ammakKu ? 
+41003033b	inai		Inai sari'battangKu ? "
+41004013	antekamma		Nampa Nakana Isa ri ke'nanga , " Punna tena nuassengi battuanna anjo pangngebaranga , antekamma lakkulle nuasseng pangngebarang maraenga ?
+41004030a	apa		Akkuta'nammi pole Isa Nakana , " Punna ammarenta Allata'ala , apa akkulle nipasanrapangangi ? 
+41004030b	apa		Pangngebarang apa akkulle nipake ampakasingaraki ?
+41004038	angngapa		Na anjo wattua sitabangi attinro Isa , appa'lungang ri ulunNa biseanga . Battumi ana'-ana' gurunNa anronrongi . Nakana ke'nanga , " O Pa' Guru , natujuki anne bala , angngapa natena Kijampangi ? "
+41004040a	Angngapa		Nampa Nakana Isa ri ana'-ana' gurunNa , " Angngapa numalla' ? 
+41004040b	Angngapa		Angngapa natena nutappa' ri Nakke ? "
+41004041	Inai		Sanna'mi malla'na ke'nanga . Na sipa'bicaramo massing para ia ke'nanga angkana , " Inai sitojenna anne taua ? Kamanna anginga siagang bombanga amminawang turu' ngaseng ri kananNa . "
+41005007	Apa		Ammarrang lompomi nakana , " O Isa , Ana' Na Allata'ala Kaminang Tinggia ! Apa ero' Nugaukang ri nakke ? Nasaba' Allata'ala , kupalaki ri Katte , tea' laloKi' sessaia' ! "
+41005009	inai		Nampa akkuta'nang Isa ri ia Nakana , " Inai arennu ? " Appialimi anjo taua nakana , " ' Legiun' arengku -- nasaba' jai sikalia' sipa'rurungang ! "
+41005030	Inai		Anjo wattua nakasia' tommi Isa angkanaya nia' kagassingang assulu' battu ri KalenNa . Jari assailemi Isa , nampa Nakuta'nang tau jaia , Nakana , " Inai anseroi jubaKu ? "
+41005031	inai		Nakanamo ana'-ana' gurunNa , " KalenTamo anciniki , antekamma jaina tau assiassa'-assa' . Angngapa naKiakkuta'nang ija angkana inai anseroi jubaTa ? "
+41005035	~		Lalang a'bicaraNa Isa , nia'mo siapa are tunisuro battu ri balla'na Yairus . Nakanamo ke'nanga , " Tea' maki' susa-susai Pa' Guru . Nasaba' matemi anjo ana' bainea . "
+41005039a	Angngapa		Antama'mi Isa ri ballaka nampa Nakana ri ke'nanga , " Angngapa nugegere' siagang angngarru' kamma ngaseng ? Anjo anaka tena namate , mingka attinronaja ! "
+41005039b	~		
+41006002a	kemae		Ri allo Pammari-marianga , appakkaramulami angngajara' lalang ri balla' sambayanga . Jai tau anjoreng . Ri wattu nalangngere'na pangngajaranNa Isa , lannasa' sikalimi ke'nanga . Nakanamo ke'nanga , " Battu kemae ngasengi nagappa pangngajarang kammaya anne taua ? 
+41006002b	apa		Pangngissengang apa kutadeng , anne niaka ri taua ? 
+41006002c	antekamma		Antekamma nakkulle appa'nia' gau' appakalannasa' ?
+41006022	Apa		Wattunna assua'-suara' nisuromi a'dansa ana' tulolona Herodias . Nasanna' sannanna nyawana Herodes siagang toananna ngaseng anciniki anjo dansa nakarenanga . Lanri rannuna nyawana , nakanamo Herodes ri anjo tuloloa , " Apa nukaeroki , pala'mami nakusareko . "
+41006024	apa		Jari assulu'mi anjo tuloloa mae akkuta'nang ri amma'na nakana , " Amma' , apa baji' kupala' ? " Appialimi amma'na nakana , " Pala'mi ulunna Yohanes Paje'ne' . "
+41006037	~		Mingka appialimi Isa Nakana , " Ikau ngasemmo assarei kanre ke'nanga . " Nakanamo ana'-ana' gurunNa , " Jari la'lampaki' mange ampammalliangi roti kira-kira ruambilangngang doe' pera' , lanipakanreangi anne tau sikammaya jaina ? "
+41006038	Piram		Akkuta'nammi Isa Nakana , " Piram batu roti nia' ri kau ngaseng ? A'lampasako mange anciniki ! " Battunamo ke'nanga anciniki , angkanami ke'nanga , " Nia' limambatu roti siagang ruang kayu juku' . "
+41007005	Angngapa		Lanri kammana minjo nakkuta'nammo tu Farisia siagang guru-guru agamaya mae ri Isa , angkana , " Angngapa natena nabissai limanna ana'-ana' gurunNu punna ero' angnganre ? Apa saba'na natena naturuki ana'-ana' gurunNu ada'-ada'na tu riolota ? "
+41008004	Kemae		Appialimi ana'-ana' gurunNa Isa nakana , " Kemae taua lakkulle anggappa kanre ri tampa' tassa'la' kammaya anne untu' tau sikammaya jaina ? "
+41008005	Siapa		Akkuta'nammi Isa Nakana , " Siapa jaina roti nia' ri kau ngaseng ? " Appialimi ke'nanga angkana , " Tuju . "
+41008012	apa saba'na		Akkunraremmi Isa nampa appiali Nakana , " Apa saba'na anne taua ri jammanga nasuroA' appa'nia' gau' appakalannasa' ? Tena ! Tena nalaKupa'niakkang pammatei kammaya ke'nanga ! "
+41008017	Angngapa		Naassengi Isa anjo apa nabicaraya ke'nanga . Jari akkuta'nammi ri ke'nanga Nakana , " Angngapa naia nubicara anjo passala' tenana roti ? Apa tena ijapa nuassengi siagang nupahangi ? Angngapa nukurang pahang kamma ?
+41008018a	angngapa		Nia' ngaseng matannu , angngapa natena nuccini' ? 
+41008018b	angngapa		Nia' tolinnu , angngapa natena nullangngere' ? Tenamo nuu'rangi
+41008019	Pirangbaku		anjo passala' limambatua roti , le'baka Kubage-bage untu' tau limassa'bua ? Pirangbaku' rassi ammantang le'baka nupasse're ? " Appialimi ke'nanga angkana , " Sampulo anrua . "
+41008020	pirambaku		Akkuta'nammi pole Isa Nakana , " Wattunna Kubage-bage anjo roti tujumbatua untu' patassa'bu tau , pirambaku' ammantang le'baka nupasse're ? " Appialimi ke'nanga angkana , " Tuju . "
+41008021	ijapa		Nakanamo pole Isa , " Jari tena ijapa nupahangi ? "
+41008023	~		Jari Nata'gala'mi Isa limanna anjo tau butaya naNarenreng assulu' battu ri anjo kotaya . Nampa Napi'rui Isa matanna anjo taua . Napadongkoki limanNa ri matanna anjo taua , nampa akkuta'nang ri ia Nakana , " Akkulle mako accini' apa-apa kamma-kamma anne ? "
+41008027	inaiA'		A'lampai Isa siagang ana'-ana' gurunNa mange ri desa-desaya , ri ampi'na Kaisarea Filipi . Ri tangngana aganga akkuta'nammi Isa ri ke'nanga Nakana , " Manuru' kananna taua , inaiA' anne ? "
+41008029a	~		Akkuta'nammi Isa Nakana , " Mingka manuru' panggappanu ngaseng todong , 
+41008029b	inaiA'		inaiA' anne ? " Appialimi Petrus nakana , " IKattemi Karaeng Mappasalamaka ! "
+41008036	Apa		Apa baji'na mae ri se'rea tau , punna akkulle nakammai anne linoa , mingka tappelaki tallasa'na ?
+41008037	~		Maka akkullei anjo tallasaka nipassambe pa'barang-barangang ?
+41009010	apa		Napilangngerimi ke'nanga anjo pappasanga . Mingka appakkaramulami nabicara para ia ke'nanga apa battuanna anjo kananNa Isa angkanaya , " attallasa' poleangi battu ri kamateanga . "
+41009011	Angngapa		Jari akkuta'nammi ke'nanga ri Isa angkana , " Angngapa na napau guru-guru agamaya angkana , musti Elia battu la'bi riolo ? "
+41009012	antekamma		Appialimi Isa Nakana , " Memang Elia battu la'bi riolo untu' ampasadiai yangaseng-ngasenna parallua . Mingka antekamma ia passala'na Ana' Ma'rupataua ? Apa saba'na na tattulisi' lalang ri Kittaka angkanaya lajai sessa laNapisa'ringi siagang lanihinai ri taua ?
+41009016	Apa		Nakanamo Isa ri ana'-ana' gurunNa , " Apa nupa'geakkang siagang anjo guru-guru agamaya ? "
+41009019a	Siapapi salloKu		Nakanamo Isa ri ke'nanga , " Teai ngasengko sipato' anne ! Tau tena ngaseng tojeng tappa'nu . Siapapi salloKu lammantang anrurungangko siagang lasa'bara' ri kau ngaseng ? Erangi mae antu anaka ! "
+41009019b	~		
+41009021	Siapami sallona		Akkuta'nammi Isa ri manggena anjo anaka nakana , " Siapami sallona appakamma anne ? " Appialimi manggena nakana , " Pakkaramula ri ca'dina !
+41009028	apa saba'na		Ri wattunna nia'mo Isa ri balla' , na Ia mami siagang ana'-ana' gurunNa , akkuta'nammi ana'-ana' gurunNa angkana , " Apa saba'na nakitakkullea ikambe ambongkai anjo roh ja'dalaka ? "
+41009033	Apa		Battumi ke'nanga mange ri Kapernaum . Ri wattunna nia'mo ri balla' , akkuta'nammi Isa ri ana'-ana' gurunNa Nakana , " Apa nupa'geakkang sumpaeng ri aganga ? "
+41009050	~		Anjo ce'laya bajiki ; mingka punna a'jari la'bamo , maka akkulle iji nipa'jari ce'la poleang ? Jari paralluko sanrapang ce'laya . Sikatutuiko lalang ri tallasa'nu . "
+41010003	Apa		Appialimi Isa Nakana , " Apa naparentakangko Musa ? "
+41010017	apa		Wattunna Napatulusu' pole lampaNa Isa , nia'mo sitau lari-lari battu mae ri Ia . Su'ju'mi anjo taua ri dallekanNa Isa nampa akkuta'nang nakana , " O Guru baji' , apa musti kugaukang sollanna akkulle kugappa katallassang sitojennaya siagang satunggu-tungguna ? "
+41010018	Angngapa		Akkuta'nammi Isa Nakana , " Angngapa nukana bajikKa' ? Tena tau baji' , pantaranganna Allata'ala .
+41010026	inaimi		A'jari lannasa' ngasemmi ana'-ana' gurunNa allangngereki kana-kana kammana Isa . Sa'genna sikuta'-kuta'nammi para ia ke'nanga angkana , " Punna kamma , inaimi lakkulle salama' ? "
+41010036	Apa		Akkuta'nammi Isa Nakana , " Apa nukaeroki laKugaukang ri kau sipa'rua ? "
+41010051	Apa		Akkuta'nammi Isa ri ia Nakana , " Apa nukaeroki Kugaukang ri kau ? " Appialimi anjo tau butaya nakana , " O Pa' Guru , erokka' accini' . "
+41011003	apa saba'na		Na punna nia' tau akkuta'nang ri kau angkana apa saba'na nanulappassang anjo keledaia , angkana mako , ' Naparalluangi Batara , siagang lalinta'ji Napoterang . ' "
+41011005	Angngapa		Akkuta'nammi ri ke'nanga tau niaka anjoreng ammenteng angkana , " He , apa nupare' antu ? Angngapa nulappassangi antu ana' keledaia ? "
+41011028a	apa saba'na		Akkuta'nammi ke'nanga angkana , " Apa saba'na nakkulle Nugaukang ngaseng anjo sikammaya ? 
+41011028b	inai		Inai assareKo koasa ? "
+41011030	~		Lanri koasa apa nanaje'ne' taua Yohanes ; lanri koasaNa Allata'ala yareka koasa rupatau ? "
+41011031a	~		Sipa'bicarami anjo imang-imang kapalaya siagang pamimping-pamimpinna tu Yahudia . Nakanamo para ia todong ke'nanga , 
+41011031b	angngapa		" Punna nikana , ' lanri koasaNa Allata'ala , ' Nakana sallang , ' Angngapa natena nutappa' ri Yohanes ? '
+41012009	apa		Le'baki anjo akkuta'nammi Isa Nakana , " Maka apa lanagaukang anjo patanna koko ? Mattantu labattui na nabuno ngaseng anjo pajamaya . Nampa napappitesangang anjo kokoa mae ri pajama koko maraenga .
+41012015	Angngapa		Mingka Naassengi Isa angkanaya munapeki ke'nanga . Jari appialimi Isa Nakana , " Angngapa nuero' ampa'boyangA' kasalang ? PicinikiangsA' se're doe' pera' . "
+41012016a	inai		Nasaremi ke'nanga Isa se're doe' pera' . Nampa akkuta'nammi Isa Nakana , " Inai pata gambara' siagang areng anne ? " Appialimi ke'nanga angkana , " Karaenga . "
+41012016b	~		
+41012023	inaimi		Jari punna attallasa' poleang sallang tau matea , inaimi pata baine anjo bainea . Nasaba' anjo bura'ne tujua le'ba' ngasemmi a'bunting siagang anjo bainea ! "
+41012028	Kereanga		Nampa nia'mo sitau guru agama battu ampilangngeri pa'bicaranNa Isa siagang anjo tu Sadukia . Nalangngere'mi anjo guru agamaya angkanaya baji' sikali batena Isa appiali ri anjo tu Sadukia . Jari akkuta'nammi ri Isa nakana , " Kereanga parenta kaminang parallu ri sikontua parentaNa Allata'ala ? "
+41012035	Antekamma		Ilalang angngajara' Na Isa ri Balla' Na Batara , akkuta'nammi ri tau niaka hadere' angkana , " Antekamma nakkulle napau guru-guru agamaya angkanaya anjo Karaeng Mappasalamaka sossoranna Daud ?
+41012037	antekamma		Jari punna nakio' ' Batara' , Daud anjo Karaeng Mappasalamaka , antekamma nakkulle nikana sossoranna Daud ? " Anjo tau jaia lalang ri Balla' Na Batara sannang ngasemmi nyawana allangngereki bateNa Isa angngajara' .
+41013004a	ringngapanna		Nakana ke'nanga ri Ia , " Kipaumi ri kambe , ringngapanna nalakajariang anjo Kipakkanaya ? 
+41013004b	apa		Siagang apa la'jari pammatei punna narapi'mo wattunna ? "
+41014004	apa		Siapa are tau niaka anjo wattua a'jari larroi nacini'na anjo bainea appakamma anjo . Na nakana ke'nanga para ia , " Apa matu-matunna nipa'labo-laboang kamma anjo minynya'-minynya' bauka ?
+41014006	Angngapa		Mingka Nakanamo Isa , " Lappassammi nagaukang kammaya ! Angngapa nuero' ansusa-susai ? Apa baji' siagang apa akkulle nipuji nagaukang mae ri Nakke .
+41014012	Kemae		Ri allo makase'rea , ri wattunna Passua'-suarrang Roti Tenaya Nammake Pa'gambang , ammolongi taua gimbala' untu' Paska . Akkuta'nammi ana'-ana' gurunNa Isa angkana , " Kemae Kikellai nipasadia kanre Paskaya untu' iKatte Bapa' ? "
+41014014	keremae		Amminawang mako mange ri balla' napammantangia , na nupauang patanna balla' angkana , ' Akkuta'nangi Pa' Guru angkana keremae tampa' eroka Napake angnganre Paska siagang ana'-ana' gurunNa . '
+41014060a	~		Jari ammentemmi imang lompoa ri dallekanna ngaseng ke'nanga , nampa akkuta'nang ri Isa nakana , " Tena Nuero' ampiali anjo napakkanaiangKo ke'nanga ? "
+41014060b	~		
+41014063	~		Napasinta'-sinta'mi nakekke' pakeanna anjo imang lompoa siagang nakanamo , " Tenamo naparallu sa'bia !
+41014064	antekamma		Nulangngere' ngasemmi kana-kananNa , anghinai Allata'ala . Kamma-kamma anne antekamma batenu antappuki ? " Natappukimi ke'nanga angkanaya salai Isa , siagang siratangi nihukkung mate .
+41015004	~		Jari akkuta'nammi pole Pilatus ri Isa nakana , " TaerokaKo appiali ? Cini' sai antekamma jaina tuduhang napakkanaiangKo ke'nanga ! "
+41015012	lakuapami		Jari nakanamo pole Pilatus ri anjo tau jaia , " Jari punna kamma lakuapami anne tau nugallaraka karaenna tu Yahudia ? "
+41015014a	~		Akkuta'nammi Pilatus nakana , 
+41015014b	apa		" Mingka apa kaja'dallanNa ? " Pila' a'gora-gorami pole ke'nanga angkana , " Allei Salli' ! "
+41015034	angngapa		Na ri wattunna narapi'mo tette' tallu ri karuenga , ammarrang lompomi Isa angkana , " Eloi , Eloi , lama sabakhtani ? " battuanna , " O Allata'alaKu , o Allata'alaKu , angngapa na NubokoiA' ? "
+41016003	Inaimo		Ri tangngana aganga nakanamo ke'nanga massing para ia , " Inaimo lanipappala' tulungi ampalesangi anjo batu pannongko'na jeraka ? " Nasaba' anjo batua lompo sikali . Mingka battuna ke'nanga mange anjoreng ri jeraka , nacini'mi ke'nanga le'ba'mi ta'gulung anjo batua .
+42001018	Antekamma		Akkuta'nammi Zakharia ri anjo malaekaka nakana , " Antekamma batena nakkulle kupahang angkanaya lakajariang tojengi anjo kipakkanaya ? Nasaba' inakke toama' , na tu ri ballakku toa tommi . "
+42001034	antekamma		Nakanamo Maria ri malaekaka , " Mingka tulolo ija' , antekamma lakkulle lakajariang anjo kipakkanaya ? "
+42001043	Inai		Inai tonga' anne , nabattukamma amma' Na Batara mae ri nakke ?
+42001066	apai		Akkuta'nang ngasemmi lalang ri atinna sikontu tau allangngerekai anjo kabaraka angkana , " La'jari apai anjo anaka sallang ? " Nasaba' nirurungangi ri Batara anjo anaka .
+42002048	angngapa		Manna tau toaNa lannasa' tommi allangngereki . Nakanamo amma' Na ri Ia , " Na' , angngapa Nuppanggaukang kammanne ri kambe ? Sanna' lussa'na nyawaku siagang manggeNu amboyaKo mange-mange ! "
+42002049	Angngapa		Appialimi Isa Nakana , " Angngapa nakiboyA' ? Takiassengai angkanaya musti niakKa' lalang ri Balla' Na ManggeKu ? "
+42003007	Inai		Jaimi tau mae ri Yohanes untu' nije'ne' . Nakanamo Yohanes ri ke'nanga , " Ikau ngaseng tau ja'dalaka ! Inai ampauangko angkanaya lakkullei nuliliang hukkungang labattua ri Allata'ala ?
+42003010	apa		Akkuta'nammi taua ri Yohanes angkana , " Jari apa musti nagaukang ikambe ? "
+42003012	apa		Battu tommi pasingara' rentea mae ri Yohanes ero' nije'ne' . Akkuta'nammi ke'nanga angkana , " O , Pa' Guru , apa musti nagaukang ikambe ? " Appialimi Yohanes nakana ,
+42003014a	Antekamma		Nia' tommo surudadu akkuta'nang angkana , " Antekamma anne ikambe ? 
+42003014b	apa		Apa musti nigaukang ? " Appialimi Yohanes nakana , " Teako paccoki taua , siagang teako garattaki taua lanri ero'na nualle passa doe'na . Kasukkurammi gaji nugappaya ! "
+42004034	Apa		" He Isa , tu Nazaret ! Apa ero' Nugaukang mae ri kambe ? BattuKo ero' angngancuruki ikambe ? KuassenjaKo angkana inaiKo antu : iKaumi tu matangkasaka , nisuroa battu ri Allata'ala ! "
+42004036	~		Lannasa' ngasemmi taua , siagang massing nakanamo ke'nanga para ia , " Teai sipato' kana-kananNa anne taua . Lanri koasa siagang pangaru kana-kananNa na Nasuro assulu' setanga , nassulu' tojeng setanga ! "
+42005021a	inai		Sipa'bicarami guru-guru agamaya siagang tu Farisia nakana , " Inai anne taua nabarani kamma anghinai Allata'ala ? 
+42005021b	inai		Inai akkulle ampammopporangi dosaya , pantaranganna Allata'ala ? "
+42005022	Angngapa		Naassengi Isa anjo apa napakkuta'nanganga ke'nanga . Jari Nakanamo , " Angngapa nukkuta'nang kamma ngaseng lalang ri nyawanu ?
+42005023	Kereanga		Kereanga la'bi gampang , angkanaya , ' Nipammopporammi dosanu , ' yareka angkanaya , ' Ambangungko nai' nu'jappa ? '
+42005030	Angngapa		Nia'mo siapa are tu Farisi siagang guru-guru agama tena nasannang nyawana anciniki ke'nanga . Nakanamo ke'nanga ri ana'-ana' gurunNa Isa , " Angngapa nusipangnganreang siagang sipangnginungang ngaseng siagang pasingara' simaya kammayatompa tau kodi sipaka ? "
+42005033	~		Nakanamo taua ri Isa , " Ana'-ana' gurunna Yohanes siagang ana'-ana' gurunna tu Farisia sarroi appuasa siagang appala' doang . Mingka ana'-ana' gurunNu nagaukangi angnganre-angnginunga . "
+42005034	~		Appialimi Isa Nakana , " Maka nusuroi toanannu appuasa ri pa'buntinganga punna nia'ija bunting bura'nea angngagangi ke'nanga ? Tantu tena !
+42006002	Angngapa		Nia'mo siapa are tu Farisi angkana , " Angngapa naNudakkai atoranna agamata , iamintu Nugaukangi apa nipappisangkanga nigaukang ri allo Pammari-marianga ? "
+42006009	apa		Nampa akkuta'nang Isa ri tau niaka anjoreng Nakana , " Manuru' agamaya apa akkulle nigaukang ri allo Pammari-marianga ? A'gau' baji' yareka a'gau' ja'dala' ? Appasalama' tau yareka ancilakai taua ? "
+42006032	apa		Nasaba' apa pahalanu punna tau mangngamaseanga bawang ri kalennu nukamaseang ? Manna tau dorakaya nakamaseang tonji tau mangngamaseanga ri kalenna !
+42006033	Apa		Apa pahalanu punna tau a'gau' bajikaji bawang ri kalennu nupa'gau' bajiki ? Manna tau dorakaya a'gau' kamma tonji .
+42006034	apa		Kammayatompa , apa pahalanu punna tau akkulleaji ambayarakko nusare angnginrang ? Manna tau dorakaya nasare tonji angnginrang paranna tau doraka , nampa napala' ammotere' !
+42006039	~		Le'baki anjo Nacaritami Isa anne pangngebaranga , Nakana , " Punna tau buta anrenrengi paranna tau buta , tena tatu'guru'na sipa'rua naung ri solonganga .
+42006041	Angngapa		Angngapa nakkulle nucini' baru'bu' kayua lalang ri matanna sari'battannu , natena nujampangi kayu baloka lalang ri matannu ?
+42006042	Antekamma		Antekamma lakkulle nukana ri sari'battannu , ' Maeko sari'battang , nakupasulu' anjo baru'bu' kayua lalang ri matannu , ' na nia' kayu balo' lalang ri matannu tanucinika ? He , munape' ! Pasuluki rolong anjo balo' niaka lalang ri matannu . Punna assulu'mo , nampami labaji' paccini'nu , siagang nampami akkulle nupasulu' anjo baru'bu' kayu lalanga ri matanna sari'battannu . "
+42006046	Angngapa		" Angngapa nukkio' , ' Batara , Batara' ri Nakke , mingka taerokako anggaukangi apa Kupaua ri kau ?
+42007024	Apa		A'lampanamo anjo tu nasuroa Yohanes , Nabicarami Isa ri tau jaia anjo passala'na Yohanes . Nakana , " Apa ero' mange nucini' ri parang lompoa ? Silawara' ruku' natuika anging ?
+42007025	Apa		Apa ero' mange nucini' ? Se're tau ammakeang ga'ga ? Niaki ri balla' lompona karaenga tau ammakeang ga'gaya siagang tau kala'bianga ri katallassanna !
+42007026	apa		Jari , apa ero' assulu' mange nucini' ? Erokko mange accini' sitau na'bi ? Kammatojengi , angkanaya na'bi anjo Yohanes ; ba'lalo lompoangangi pole na na'bia .
+42007031a	apami		A'bicarami pole Isa Nakana , " Apami ero' Kupasanrapangangi taua ri anne jammanga ? 
+42007031b	apami		Apami sanrapanna ke'nanga ?
+42007042	kereanga		Mingka takkulleai ke'nanga ambayaraki anjo inranna . Jari tenamo nanipabayaraki ke'nanga . Jari kereanga anjo tau ruaya lala'bi angkamaseangi anjo patannaya doe' ? "
+42007049	Inai		Nakanamo para ia tau niaka ammempo angnganre siagang Isa , " Inai anne taua , nakkulle kamma ampammopporangi dosaya ? "
+42008025a	Angngapa		Nampa Nakanamo Isa mae ri ana'-ana' gurunNa , " Angngapa natena ngaseng nutappa' ri Nakke ? " Lannasa'mi siagang malla'mi ana'-ana' gurunNa Isa . Na massing angkanamo para ia ke'nanga , 
+42008025b	inai		" Inai sitojenna anne taua sa'genna manna anginga siagang bombanga Naparenta ngaseng , nanituruki parentaNa ? "
+42008028	Apa		Nacini'na anjo taua angkana niaki battu Isa , ammarrang lompomi nampa su'ju' ri dallekanNa Isa . Ammarrammi nakana , " O Isa , Ana' Na Allata'ala Kaminang Tinggia ! Apa ero' Kigaukang mae ri nakke ? Kupalaki natena Kisessa' ! "
+42008030	inai		Akkuta'nammi Isa ri anjo taua Nakana , " Inai arennu ? " Appialimi anjo taua angkana , " Legiun , " nasaba' jaimi setang antama' ri kalenna anjo taua .
+42008045	Inai		Akkuta'nammi Isa Nakana , " Inai anseroi jubaKu ? " Assassala' ngasemmi taua . Nakanamo Petrus , " Jai sikali tau angkulilingiKi' , siagang ansorong-sorongKi' Bapa' ! "
+42009009a	inai		Nakanamo Herodes , " Le'ba'mi kusuro taua ansamballei kallonna Yohanes . Mingka inai anjo Taua sikontutojenna ? Jai sikalimi kabara'na kulangngere' anjo Taua . " Jari ero'mi Herodes anciniki Isa .
+42009009b	~		
+42009018	inaiA'		Ri se'reang allo , ri wattunna appala' doang Isa Kale-kalenNa , battumi ana'-ana' gurunNa mae ri Ia . Akkuta'nammi Isa mae ri ke'nanga Nakana , " Turu' kananna taua , inaiA' anne ? "
+42009020a	~		Akkuta'nammi pole Isa Nakana , " Mingka turu' panggappanu ikau ngaseng , 
+42009020b	inaiA'		inaiA' anne ? " Appialimi Petrus nakana , " Ikattemi Karaeng Mappasalamaka , le'baka Napa'janjiang Allata'ala . "
+42009025	apa		Nasaba' apa matu-matunna nakammai taua bonena anne linoa punna lapanraki siagang latappela'ji nyawana ?
+42009041a	Siapapi salloKu		Appialimi Isa Nakana , " Teai ngasengko sipato' anne ! Ma'nassa tau sala oloang ngasengko siagang tau tena ngaseng nutappa' ! Siapapi salloKu lammantang angngagangko siagang lasa'bara' ri kau ngaseng ? Erangi mae antu anaka ! "
+42009041b	~		
+42010025	apa		Nampa nia'mo sitau guru agama battu ero' ampa'boyangi sala Isa . Akkuta'nammi ri Isa nakana , " Bapa' Guru , apa musti kugaukang sollanna akkulle kugappa katallassang satunggu-tunggua ? "
+42010026a	apa		Appialimi Isa Nakana , " Apa tattulisi' lalang ri Kittaka ? 
+42010026b	Antekamma		Antekamma panggappanu ri anjo passalaka ? "
+42010029	Inai		Mingka ero'mi napattojeng kalenna anjo guru agamaya . Jari akkuta'nammi pole nakana , " Inai anjo parangku tau ? "
+42010036a	~		Nampa Natongko' Isa anjo caritaya siagang Nakuta'nammi anjo taua Nakana , " Battu ri anjo tallua tau , turu' panggappanu , 
+42010036b	kereanga		kereanga kalase'renna a'jari paranna tau mae ri anjo tau niellaka ? "
+42011008	antekamma		Nakanamo pole Isa , " Jari antekamma ? Kupauangko angkanaya manna pole agannako , mingka tena nalaero' ambangung assareko apa-apa . Mingka lanri tenana nusiri'-siri' tulusu' appala' ri ia , kale'bakkanna ambangunji nampa nasareangko anjo apa nuparalluanga .
+42011011	Inai		Inai mangge ri kau assarei ulara' ana'na punna appala' juku' ?
+42011012	~		Yareka assarei olo'-olo' niaka racunna , punna appala' bayao ana'na ?
+42011013	~		Manna pole ja'dala' ngasengko , mingka angngasseng tonjako assare apa-apa baji' mae ri ana'nu . La'biangampa Manggea ri suruga ! LaNapassareangi RohNa mae ri tau appalaka ri Ia ! "
+42011018	~		Kamma tomminjo lalang ri pamarentahanna Setanga ; punna assiba'ji-ba'ji para ia silokoang , mattantu laruntungi anjo pamarentahanna . Nukana ngaseng angkanaya lanri koasana Pinggawana Setang nakkulle Kubongka anjo setanga .
+42011019	inai		Jari punna kamma , lanri inai pata koasa nakkulle ana'-ana' gurunnu ambongkai anjo setanga ? Kalennami anjo ana'-ana' gurunnu ampa'butti ma'nassanu sala ngaseng !
+42012014	inai		Appialimi Isa Nakana , " E , sari'battang , inai angngangkaKa' a'jari haking , lambage-bageangko warisi'nu sipa'rua ? "
+42012017	Apa		Appakkaramulami appikkiri' anjo tu kalumanynyanga nakana , ' Tenamo tampa' lakupammoliki wassele'na tanaku . Apa akkalakku kamma-kamma anne ? '
+42012020	inai		Mingka Nakanamo Allata'ala ri ia , ' E tolo ! Anne bangngia lamate mako ; jari inai langngalle ngasengi anjo barang-barang le'baka nupasse're untu' kalennu ? '
+42012024	~		Cinissai jangang-jangang kalaaka ! Tena na'lamung , tena nakkatto , tena todong gudanna yareka pammolikang asenna . Mingka niparakai tonji ri Allata'ala ! La'bi lompoangangi anggarannu na anjo jangang-janganga !
+42012025	Inai		Inai ri kau akkulle antambai la'buna umuru'na manna sike'de' , lanri ranggaselana ?
+42012026	angngapa		Punna apa ca'di kammaya anjo takkullea nugaukang , angngapa nuranggasela ri passala' maraenganga ?
+42012042	Inai		Appialimi Isa Nakana , " Inai palayang tuli baji' siagang cara'de' sa'genna niangka' ri karaenna a'jari kapala mae ri palayang-palayang maraenga , sollanna nasare kanre ke'nanga punna narapi' wattunna ?
+42012049	~		" NiakKa' battu sollanna passabakkang iNakke nakkanre anne linoa . Teai sipato' baji'na punna a'rinramo pepe'na !
+42012056	apa saba'na		Ikau nungai ngasengi assara-saraia . Akkulle ngasengko ambatei kabattuanna bosia siagang bambang alloa punna nucini' langika siagang linoa . Apa saba'na natakkullea nubatei pammateina jammanga ri kamma-kammaya anne ? "
+42012057	Angngapa		" Angngapa nateai kalennu ampattantui apa-apa tojenga ?
+42013004	~		Jari antekamma anjo tau sampuloa assagantuju , matea todong ri balang Siloam ri wattunna niutungi ke'nanga ri rumbanna cappa'na manaraya ? Nukana iaminjo a'jari pammatei angkanaya lompoangangi dosana ke'nanga na sikontu tau maraenga , niaka ammantang ri Yerusalem ?
+42013007	~		Jari , nakanamo ri pajamana anjo kokoa , ' Cinissai , tallung taumma' battu amboyai rapponna anne poko' araya , mingka manna sibatu tania' rapponna kubuntulu' . Ta'bammi anne poko' araya ! Poro nala'bussina kanre battu lalanga ri buttaya ! '
+42013015	~		Appialimi Isa Nakana , " Munape' ngasengko antu ! Ri allo Pammari-marianga nalappassang ngasengi taua sapina yareka jaranna battu ri barana , nampa naerang assulu' untu' nasare je'ne' inung .
+42013018a	Antekamma		Akkuta'nammi Isa Nakana , " Antekamma kajarianna punna ammarenta Allata'ala ? 
+42013018b	apa		Apa akkulle Kupare' pangngebarang ampakasingariangko ?
+42013020	apa		Sikalipi pole akkuta'nang Isa Nakana , " Punna ammarenta Allata'ala apa akkulle Kupare' pangngebarang ampakasingariangko ?
+42013025	kemaeko		Ri wattunna ambangung patanna balla' siagang natongko' pakke'bu'na , ammentengko pantaranganna ballaka nanukatto'-katto' pakke'buka nukana , ' Karaeng , kisungke sai pakke'buka ! ' Lappialimi anjo karaenga nakana , ' Takuassengako angkana tau battu kemaeko ! '
+42014005	~		Nampa Nakana Isa ri taua ngaseng , " Ebara'na nia' sitau ana'nu yareka sikayu sapinu tu'guru' antama' ri bungunga ri allo Pammari-marianga , maka tena nukkaro-karo ambesoki nai' anjo ana'nu yareka anjo sapinu , anjo memang alloa ? "
+42014028	~		Punna nia' kalase'rennu ero' ambangung balla' tinggi , tantu ammempoi rolong anrekengi siapa ongkoso' naparalluanga . Jari akkullei naasseng angkanaya maka ganna'ji doe'na yareka tena , sa'genna akkulle napa'le'ba' anjo balla' lanabangunga .
+42014031	~		Punna nia' se're karaeng ero' a'lampa a'bundu' siagang karaeng maraenganga , na nia' sampulo sa'bu surudaduna , tantu ammempoi rolong anjo karaenga ampikkiriki , angkanaya maka lakassa'ji anjo surudaduna langngewai anjo musu lanadallekanga niaka ruampulo sa'bu surudaduna .
+42014034	~		" Anjo ce'laya bajiki ; mingka punna a'jari la'bamo , maka lakkulleiji nipa'jari ce'la poleang ?
+42015004	apa		" Ebara' angkana nia' kalase'rennu ammallaki sibilangngang kayunna gimbala' , nampa tappela' sikayu -- maka apa lanagaukang ? Mattantu lanabokoi anjo gimbala'na salapampuloa assalapang kayunna ri paranga , nampa a'lampa amboyai anjo gimbala' tappelaka , sa'genna nagappa .
+42015008	apa		" Yareka , ebara' angkana nia' sitau baine ammallaki sampulo doe' pera' , natappela' se're -- maka apa lanagaukang ? Mattantu lapparinrai lampu nampa nabarrasa' balla'na siagang naboya sa'genna nagappa anjo doeka .
+42015026	Apa		Nakio'mi kalase'renna palayanna nampa nakuta'nang nakana , ' Apa anne nagaukang taua ri balla' ? '
+42015029	apa		Mingka nakanamo anjo anaka , ' Attaung-taummi salloku akkareso ampanjamangki' . Tena le'bakai takugaukang apa kipassuroanga ri nakke . Na apa le'ba' kipassareang mae ri nakke ? Manna sikayu bembe tale'baka' kisare lakupake assua'-suara' siagang agang-agangku !
+42016002	Apa		Jari nasuro kio'mi anjo pagawena ammolika doe' na nakana , ' Apa kutadeng nugaukangangi barang-barangku ? Kamma-kamma anne kukellaiko ampakasingarianga' baji'-baji' antekamma lampa-lampana batenu angngurusuki pa'barang-barangangku . Tenamo kukellaiko amboliki doekku . '
+42016003	apami		Jari appikkiri'mi anjo pagawena ammolika doe' nakana , ' Lanapasulukka' anjama karaengku . Jari apami parallu kugaukang kamma-kamma anne ? Erokka' ammingkung anjama tana , natakukullea ; lamangea' appala'-pala' , nakusiri'-siri' .
+42016005	Siapa		Jari nakio' ngasemmi sikamma tau kainranganga ri karaenna . Ri wattunna nia'mo battu sikamma tau kainranganga nakanamo ri makase'rea , ' Siapa jaina inrannu ri karaengku ? '
+42016007	siapa		Nampa nakana mae ri tau makaruaya , ' Na ikau siapa jaina inrannu ? ' Appialimi anjo taua nakana , ' Sisa'bu karung gandung . ' Nakanamo anjo pagawena ammolika doe' , ' Allei anne sura' pangnginrangannu . Sambei a'jari sagantuju bilangngang . '
+42016011	inai		Jari punna takkulleako nipatappa' ri passala' pa'barang-barangang lalanga ri linoa , inai laero' ampatappakko ri passala' pa'barang-barangang surugaya ?
+42016012	inaimi		Siagang punna ma'nassamo angkanaya takkulleako nipatappa' ri passala' pa'barang-baranganna parannu tau , inaimi laero' assareangko pa'barang-barangang kalennu todong ?
+42017007	~		" Ebara'na nia' palayannu nusuro appa'jeko , yareka nusuro akkalawaki gimbala' . Punna ammotere' anjo palayanga battu ri tanaya , maka lanukana ri ia , ' Maeko linta' angnganre' ?
+42017017	Kemaei		Nakanamo Isa , " Sai nia' sampulo tau a'jari baji' ? Kemaei anjo tau salapanga ?
+42017018	Angngapa		Angngapa naiaji bawang anne tau battu pantarang pa'rasanganga ammotere' appala' sukkuru' ri Allata'ala ? "
+42017020	ringngapanna		Nia' siapa are tu Farisi akkuta'nang ri Isa angkana , ringngapanna Nalabattu Allata'ala ammarenta . Appialimi Isa Nakana , " Punna Napakkaramulai PamarentahanNa Allata'ala , tena Napakaramulai siagang pammatei akkullea nacini' mata ,
+42017037	Kemae		Akkuta'nammi ana'-ana' gurunNa Isa angkana , " Kemae lakajariang anjo kammaya , Batara ? " Appialimi Isa Nakana , " Kemae-kemae nia' maya' , anjoremmi lania' jangang-jangang pakanre maya' . "
+42018018	apa		Nia' sitau pamimping tu Yahudi akkuta'nang ri Isa nakana , " O , Pa' Guru , baji' pa'maika , apa musti kugaukang sollanna kugappa katallassang sitojennaya siagang mannannunganga ? "
+42018019	Angngapa		Akkuta'nammi Isa ri anjo taua Nakana , " Angngapa nanukana bajikKa' ? Tena tau baji' pantaranganna Allata'ala .
+42018026	inai		Akkuta'nammi tau allangngerekai Isa akkana kamma nakana , " Punna kamma , inai mami akkulle salama' ? "
+42018036	Apa		Nalangngere'na anjo tau butaya angkanaya jai tau numalo anjoreng ri aganga , akkuta'nammi nakana , " Apa anjo ? "
+42018041	Apa		" Apa nukaeroki Kugaukang ri kau ? " Appialimi anjo tau butaya nakana , " O Batara , erokka' accini' . "
+42019007	~		Nalarro ngasemmo taua anciniki anjo passalaka . Nakanamo ke'nanga , " Pui' ! A'lampai a'manaikang ri balla'na tau kodi sipaka ! "
+42019023	apa saba'na		Punna kamma , apa saba'na natena nupantamaki doekku ri kantoro' banga sollanna akkulle kualle ammotere' anjo doekku siagang bungana punna ammoterekka' ? '
+42019031	Angngapa		Punna nia' tau akkuta'nang ri kau angkanaya , ' Angngapa nanula'gasi antu keledaia ? ' pauangi angkana , ' Naparalluangi Batara . ' "
+42019033	Angngapa		Lalang nala'gasinna ke'nanga passikko'na anjo keledaia , nakanamo patanna anjo keledaia ri ke'nanga , " Angngapa nanula'gasi passikko'na antu keledaia ? "
+42020002a	inai		Nakanamo ke'nanga ri Isa , " Pau sai bedeng mae ri kambe , inai assareKo pangngellai anggaukang ngasengi anne ? 
+42020002b	inai		Inai assareKo anjo koasa kammaya ? "
+42020005a	~		Jari sipa'bicarami ke'nanga massing para ia angkana , " Punna nikana , ' Pangngellai battu ri Allata'ala , ' nakana sallang , 
+42020005b	angngapa		' Punna kamma angngapa natena nutappa' ri ia ? '
+42020013	Apa		Kala'busanna nakanamo anjo patanna koko , ' Apa mami musti kugaukang ? Bajikangang ana' kalengku kukamaseanga kusuro . Tantu lanapakala'biriki ke'nanga punna ana' kalengku kusuro ! '
+42020015	apa		Jari nare'resammi ke'nanga assulu' anjo ana'na patanna koko , nampa nabuno . " Le'baki Nacarita Isa anjo pangngebaranga , Nakanamo , " Jari punna ammotere' anjo patanna koko , apa lanagaukang ri anjo siapa area pajama koko ?
+42020017	apa		Naciniki ngasemmi Isa ke'nanga . Nampa Nakana , " Punna kamma , apa battuanna anne nipaua lalang ri Kittaka , angkanaya , ' Batu tenaya napakei tukang bangunanga , a'jarimi batu lomoro' se're . '
+42020023	~		Mingka Naassengi Isa akkala' salana ke'nanga . Lanri kammana , Nakanamo ri ke'nanga ,
+42020024a	inai		" PicinikiangA' bedeng se're doe' pera' . Inai pata areng siagang inai pata gambara' anne niaka lalang ri doeka ? " Appialimi ke'nanga angkana : " Karaenga . "
+42020024b	~		
+42020033	inai		Ri allo attallasa'na ammotere' tau matea , inai pata baine anjo bainea ? Nasaba' le'ba' ngasemmi anjo bura'ne tujua massari'battang a'bunting siagang anjo bainea . "
+42020041	Antekamma		Akkuta'nangi Isa ri ke'nanga Nakana , " Antekamma nakkulle nikana angkanaya anjo Karaeng Mappasalamaka sossoranna Daud ?
+42020044	antekamma		Jari punna Daud angkana ' Batara' , ri anjo Karaeng Mappasalamaka , antekamma nakkulle nikana sossoranna Daud ? "
+42021007a	ringngapanna		Jari akkuta'nammi ke'nanga ri Isa angkana , " O , Bapa' Guru , ringngapanna nalakajariang anjo Kipaua ? 
+42021007b	apa		Siagang apa pammateina angkanaya narapi'mi wattunna lakajariang anjo passalaka ? "
+42022009	Kemae		Akkuta'nammi ke'nanga angkana , " Kemae Kikellai lanipasadia ? "
+42022011	Kemae		Nampa nupauang patanna anjo ballaka angkana : Nakana Gurua , ' Kemae tampa' eroka Kupake angnganre Paska siagang ana'-ana' gurungKu ? '
+42022027	Kereanga		Kereanga la'bi la'biri' ? : tau ammempoa angnganre ri mejanga , yareka tau a'jari palayanga mae ri anjo tau angnganrea ? Tantu anjo tau ammempoa angnganre . Mingka nia' Ma' ri tangnga-tangnganu a'jari palayang .
+42022046	Angngapa		Nakanamo ri ke'nanga , " Angngapa nuttinro ngaseng ? Ambangung ngaseng mako nai' appala' doang , sollanna tena natabako paccoba . "
+42022064	inai		Nitongkokangi matanNa , nampa nikuta'nang , angkana , " Coba sai tappu , inai amba'jiKo ? "
+42022071	～		Jari nakanamo ke'nanga , " Tenamo naparallu sa'bi ! Nilangngere'mi KalenNa ampaui ! "
+42023022a	~		Akkio'mi pole Pilatus makapintallunna mae ri ke'nanga angkana , 
+42023022b	apa		" Mingka apa kasalanna ? Tena sikali manna sirupa kasalanna kugappa ampassiratangi nihukkung mate ! Lakucambo'mi bawang nampa kulappassang . "
+42023031	~		Nasaba' punna kamma anne panggaukanna taua ri kayu attallasaka , la'biangampa pole lanagaukanga ke'nanga mae ri kayu kalotorokamo ! "
+42024005	Angngapa		Sanna'mi malla'na ke'nanga , siagang su'ju'mi ke'nanga naung ri buttaya . Mingka nakanamo anjo tau ruaya , " Angngapa nu'boya tau attallasa' ri alla'na tau matea ?
+42024017	Apa		Nakanamo Isa ri ke'nanga , " Apa kutadeng nubicara sipa'rua ri tangngana anne aganga sumpadeng ? " Ammantammi ke'nanga , na si'na tanja'na nicini' .
+42024019	apa		Akkuta'nammi Isa Nakana , " Kajariang apa ? " Appialimi ke'nanga angkana , " Anjo apa kajarianga ri KalenNa Isa , battua ri Nazaret . Ia na'bi . Teai sipato' lompona koasaNa , baji' ri kana-kananNa , kammayatompa ri panggaukanNa -- baji' ri dallekanNa Allata'ala , kammayatompa ri dallekanna sikamma rupataua .
+42024025	~		Nakanamo Isa ri ke'nanga , " Dongo' ngaseng memang tongko ! Sallo sikali nampa akkulle nupatappa' sikamma apa le'baka napau na'bi-na'bia !
+42024038a	Angngapa		Mingka Nakanamo Isa , " Angngapa numalla' ngaseng ? 
+42024038b	Angngapa		Angngapa nabata-bata lalang nyawanu ?
+43001019	Inaiko		Nisuromi imang-imanga siagang tu Lewia ri tu Yahudi anna'galaka koasa ri Yerusalem , mange akkuta'nang ri Yohanes , angkana , " Inaiko antu ? "
+43001021	inaiko		Akkuta'nammi pole ke'nanga angkana , " Jari punna kamma , inaiko antu padeng ? Ikau kutadeng Elia ? " Appialimi Yohanes nakana , " Teai . " Akkuta'nammi pole ke'nanga angkana , " Maka Na'biko kapang ? " Appialimi pole Yohanes nakana , " Teai . "
+43001022a	inaiko		Nakanamo ke'nanga , " Jari punna kamma , pau sai bedeng ri kambe inaiko antu padeng ? Paumi sollanna akkulle nipauang tau assuroaki' anne . 
+43001022b	apa		Apa lanukana ri passala'na kalennu ? "
+43001025	apa saba'na		angkana , " Punna teaiko Karaeng Mappasalamaka , teaiko Elia , teai tongko Na'bi , apa saba'na nuje'ne' tau ? "
+43001038a	apa		Assailemi Isa mae ri boko , na Nacini'mo ke'nanga amminawang ri Ia . Akkuta'nammi ri ke'nanga angkana , " Apa nuboya ? " Appialimi ke'nanga angkana , 
+43001038b	kemaeki		" Ra'bi kemaeki ammantang ? " ( ' Ra'bi' battuanna guru . )
+43001046	~		Mingka appialimi Natanael nakana , " Maka akkulle tongi apa-apa bajika labattu ri Nazaret ? " Appialimi Filipus nakana , " Mae mako nakalennu anciniki . "
+43001048	Antekamma		Akkuta'nammi Natanael ri Isa , nakana , " Antekamma nakkullea' Kiasseng Bapa' ? " Appialimi Isa Nakana , " Tenapa nanakiokko Filipus , naKucini'mako irawanganna poko' araya . "
+43002004	~		Appialimi Isa Nakana , " Teaki' suroiA' amma' . Tenapa narapiki wattunna laKupakabateang KalengKu . "
+43002018a	~		Battumi tau anna'galaka koasa ri tu Yahudia andallekangi Isa . Nakanamo ke'nanga , " Coba sai gaukang gau' appakalannasaka , akkullea a'jari pammatei ri ma'nassaNu siratang anggaukang ngasengi anne sikammaya . "
+43002018b	~		
+43003004	Antekamma		Nakanamo Nikodemus , " Antekamma batena lakkulle tau toaya lalassu' poleang ? Maka lakkulle iji ammotere' antama' ri battanna amma'na nampa nilassukang poleang ? "
+43003009	Antekamma		Akkuta'nammi Nikodemus nakana , " Antekamma lakkulle kajariang anjo kammaya ? "
+43003012	antekammako		Tena nutappa' punna Kucarita ri kau ngaseng passala' apa-apa lalanga ri anne linoa ; jari antekammako latappa' punna Kucarita ri kau passala'na surugaya ?
+43004009	angngapa		Appialimi anjo baine battua ri Samaria angkana , " IKatte tu YahudiKi' tuang , na inakke tu Samaria ; angngapa naKippala' je'ne' ri nakke ? " ( Nakkana kamma nasaba' tena passisambunganna tu Yahudia siagang tu battua ri Samaria . )
+43004011	kemaeKi'		Nakanamo anjo bainea , " Tena se'rotTa tuang , siagang anne bungunga teai sipato' lantanna . Battu kemaeKi' akkulle langgappa je'ne' katallassang ?
+43004027a	apa		Anjo wattua ammotere'mi ana'-ana' gurunNa Isa . Lannasa'mi ke'nanga nacini'na Isa a'bicara siagang anjo bainea . Mingka tenanniakka manna sitau ri ke'nanga akkuta'nang ri anjo bainea angkana , " Apa paralluta ibu' ? " yareka akkuta'nang ri Isa angkana , 
+43004027b	Angngapa		" Angngapa naKi'bicara siagang anjo bainea Bapa' ? "
+43005012	Inai		Akkuta'nammi ke'nanga angkana , " Inai anjo tau assuroako angngangkaki tappere'nu siagang assuroko a'jappa ? "
+43005044	Antekammako		Antekammako lakkulle tappa' punna erokko nipalece ri parannu tau , mingka taerokako a'boya pammuji battu ri Allata'ala Tenaya Ruanna ?
+43005047	antekammako		Mingka punna tena nutappa' ri apa le'baka natulisi' Musa , antekammako latappa' ri apa-apa Kupaua ? "
+43006005	Kemaeki'		Accini'na Isa mange ri tammuliliNa , Nacini'mi taua sanna' jaina battu a'duluru' . Jari Nakanamo ri Filipus , " Kemaeki' akkulle ammalli kanre , sollanna akkulle angnganre ngaseng anne taua ? "
+43006009	apa		" Anrinni nia' ana'-ana' bura'ne angngerang limambatu roti siagang ruang kayu juku' . Mingka apa matu-matunna anne mae ri tau sikammaya jaina ? "
+43006025	Ringngapanna		Ri wattunna assibuntulu' anjo tau jaia siagang Isa ri ba'leanna tamparanga , akkuta'nammi ke'nanga ri Isa angkana , " Ringngapanna Kibattu anrinni Pa' Guru ? "
+43006028	Apa		Akkuta'nammi ke'nanga ri Ia angkana , " Apa musti nagaukang ikambe , untu' anggaukangi ero' Na Allata'ala ? "
+43006030a	apa		Nakanamo ke'nanga , " Punna kamma , apa butti akkulle Kipappicinikang sollanna akkulle tappa' ikambe mae ri Katte Bapa' ? 
+43006030b	apa		Apa laKigaukang ?
+43006042	Antekamma		Nakanamo ke'nanga , " Sai iaminne Isa , ana'naya Yusuf ? Naassengi ikambe amma' Na siagang manggeNa ! Antekamma lakkulle Nakana KalenNa tu manurungi battu ri suruga ? "
+43006052	Antekamma		Nalangngere'na akkana kamma Isa , a'gea'mi tu Yahudia massing para ia . Nakana ke'nanga , " Antekamma lakkulle anne taua ampassareangi KalenNa mae ri kambe lanipa'jari kanre ? "
+43006060	Inaimi		Nalangngere'namo anjo kana-kana Napabattua Isa , jaimi ana' gurunNa angkana , " Battala' sikali anne pangngajaranga . Inaimi lakkulle antarimai ? "
+43006062	Antekamma		Antekamma sallang kajarianna punna nucini' Ana' Ma'rupataua nai' ammotere' ri tampa' Nakabattuia ?
+43006068	inaimi		Nakanamo Simon Petrus ri Ia , " O Batara , inaimi lanamangei ikambe ? Kana-kananTa assarei katallassang mannannungang .
+43007011	Kemaei		Lalang nigaukanna anjo passua'-suarranga , niboyami Isa ri tukoasana ngaseng tu Yahudia . Akkuta'nammi ke'nanga angkana , " Kemaei Isa ? "
+43007015	Antekamma		Lannasa' ngasemmi tukoasana tu Yahudia , siagang nakanamo ke'nanga , " Antekamma nakkulle jai kamma Naasseng anne taua , natale'baka assikola ? "
+43007019	Angngapa		Sai le'ba'mi napassareang Musa ri kau ngaseng sikamma Naparentakanga Allata'ala ? Mingka tenanniakka ri kau ngaseng anggaukangi anjo Naparentakanga . Angngapa nanuero' ngaseng ambunoA' ? "
+43007020	Inai		Appialimi anjo tau jaia angkana , " PongorokKo antu ! Inai ero' ambunoKo ? "
+43007023	angngapa		Punna nugaukangi anjo kammaya sollanna tena nudakkai atorang napabattua Musa ri passala'na anjo sunnaka , angngapa nularro ri Nakke lanri Kuballeina taua sibatu kale ri allo Pammari-marianga ?
+43007035	kemaei		Nakana ngasemmo tukoasana tu Yahudia , massing para ia , " La'lampa kemaei anne taua nitakkullea ambuntuluKi ? Apa eroKi a'lampa mange ri tu Yahudi pantarang pa'rasanganga , ri pa'rasanganna tu Yunania , naero' Naajara' tu Yunania ?
+43007036	Apa		Apa ero' Na naNakana laniboyai mingka takkulleaki' ambuntuluKi , siagang takkulleaki' battu mange ri tampa' Napammantangia ? "
+43007041	~		Na maraenganga angkanai , " Iaminne Karaeng Mappasalamaka ! " Mingka nia' tommo angkana , " Ha , maka labattu anjorengi ri Galilea Karaeng Mappasalamaka ?
+43007045	Angngapa		Ri wattunna ammotere'mo sikamma pangawala'na Balla' Na Batara , iamintu le'baka nisuro mange anjakkalaki Isa , akkuta'nammi imang-imang kapalaya , siagang tu Farisia ri ke'nanga , angkana , " Angngapa natena nuerangi mae ? "
+43007048	~		Niakka pamarentata yareka tu Farisi tappa' ri Ia ?
+43007051	~		" Manuru' undang-undanga , takkulleai nihukkung se'rea tau punna tenapa nilangngereki kara-karana siagang punna tenapa nale'ba' niparessa panggaukanna . "
+43008005	antekamma		Nia' atorang lalang ri hukkung napassareanga Musa angkanaya , anne baine kammaya musti nisambilai batu sa'genna mate . Kamma-kamma anne , antekamma panggappaTa ? "
+43008010	Kemae		Naangka'mi ulunNa Isa nampa Nakana ri anjo bainea , " Kemae ngasengi ke'nanga ? Tena manna sitau ansalakangko ? "
+43008019	Kemae		Nakanamo ke'nanga , " Kemae ManggeNu ? " Appialimi Isa Nakana , " Tena nanuassengA' siagang tena nanuassengi ManggeKu . Ka'de' nanuassengA' , mattantu nuasseng tommi ManggeKu . "
+43008025a	inaiKo		Akkuta'nammi ke'nanga angkana , " InaiKo antu sitojenna ? " Appialimi Isa Nakana , 
+43008025b	apa		" Apa pole matu-matunna a'bicaraya siagang ikau ngaseng ?
+43008033	Apa		Nakanamo ke'nanga , " Ikambe anne sossorannaki' Abraham . Tenale'bakapaki' ikatte nipare' ata ri tu maraenga ! Apa nataba kananNu naNuangkana , ' Nula'jari maradeka ? ' "
+43008043	apa saba'na		Apa saba'na natanupahanga apa Kupaua ? Lanri tenana nuttahang allangngereki apa Kupangngajaranga .
+43008046a	inai		Inai ri kau akkulle ampa'butti angkanaya nia' dosa ri KalengKu ? 
+43008046b	apa saba'na		Punna katojengang Kupau , apa saba'na nutatappaka ri Nakke ?
+43008053	inaiKo		Punna kalenna Abraham matemi , kammayatompa na'bi-na'bia mate ngaseng tommi , inaiKo antu ? Maka lompongangKo na Abraham boena ikambe ? "
+43008057	~		Nakanamo tu Yahudia ri Isa , " Tenapa limampulo taung umuru' Nu , na Nukana Nucini'mi Abraham ? "
+43009002	Angngapa		Akkuta'nammi ana'-ana' gurunNa Isa angkana , " Angngapa nabuta nilassukang anne taua Pa' Guru ? Apa lanri dosa kalenna yareka lanri dosana anrong-manggena ? "
+43009010	Antekamma		Nakanamo ke'nanga ri ia , " Antekamma kajarianna nukkulle accini' ? "
+43009012	Kemae		Akkuta'nammi ke'nanga angkana , " Kemae anjo taua ? " Appialimi angkana , " Tena kuassengi . "
+43009016	~		Nia'mo siapa are tu Farisi angkana , " Tena olona laTau battu ri Allata'ala anne Tau anggaukangai anne panggaukanga lanri tena Najampangi allo Pammari-marianga . " Mingka nia'mo maraengang angkana , " Tena olona Tau dorakaya lakkulle anggaukangi gau'-gau' appakalannasa' kammaya anne ! " Jari tenamo na'julu panggappa ke'nanga .
+43009017	Antekamma		Jari akkuta'nammi pole anjo tu Farisia ri anjo tau le'baka buta angkana , " Antekamma panggappanu ri anjo Tau le'baka amballeiko nukkulle accini' ? " Appialimi nakana , " Na'bi anjo Taua . "
+43009019	Antekamma		nampa akkuta'nang angkana , " Ana'nu tojeng anne , nukanaya buta memammi ri wattunna lassu' ? Antekamma batena nakkullemo accini' kamma-kamma anne ? "
+43009026a	~		Jari nakanamo pole ke'nanga ri ia , 
+43009026b	Antekamma		" Antekamma bateNa amballeiko nukkulle accini' ? "
+43009027	Angngapa		Appialimi anjo taua nakana , " Le'ba' mako kucaritang ngaseng , mingka taeroka ngasengko appilangngeri . Angngapa nanuero' pole allangngereki ? Barang ero' tommako amminawang ri Ia ? "
+43009034	apa		Appialimi ke'nanga angkana , " Apa ? Ikau tau dorakaya memang battu ri pakkaramula lassu'nu ero' angngajaraki ikambe ? " Pakkaramula anjo wattua tenamo nanikellai anjo taua antama' ri balla' sambayanga .
+43009036	Inaika		Appialimi anjo taua nakana , " Inaika anjo Ana' Ma'rupataua , Tuang ? Kitulungsa' naKipauanga' sollangku tappa' ri Ia . "
+43010020	Apa		Jai ke'nanga angkana , " Nasosoki setang anne taua . Pongoroki ! Apa matu-matunna nupilangngeri ngaseng ? "
+43010021	~		Mingka nia' todong angkana , " Tena nakamma anjo batena a'bicara tau nasosoka setang ! Maka akkullei setanga amballei tau butaya sa'genna accini' ? "
+43010024	siapa sallona		na anjo wattua battui tu Yahudia a'rappungang ri tammuliliNa Isa . Nakana ke'nanga ri Isa , " Sa'gennapi siapa sallona laNubalang parekangki' anne ranggasela ? Paumi silambusu'na , punna ma'nassa iKau mintu Karaeng Mappasalamaka . "
+43010032	kereanga		Mingka Nakanamo Isa ri ke'nanga , " Nucini' ngasemmi panggaukang baji' le'baka Kugaukang , situru' tugasa' Napassareanga Manggea ri Nakke . Battu ri yangasenna anjo panggaukanga , kereanga a'jari saba' nanusiratang ansambilA' batu ? "
+43010036	apa saba'na		apa saba'na nanukana Kuhinai Allata'ala lanri Kukananaja KalengKu iNakke Ana' Na Allata'ala ? Padahala' iNakkemi Napile Manggea na NasuroA' battu antama' ri linoa .
+43011034	Kemaei		Jari akkuta'nammi ri ke'nanga Nakana , " Kemaei nutarawang Lazarus ? " Appialimi ke'nanga angkana , " MaemaKi' Batara naKicini' . "
+43011047	Apa		Jari a'rappungammi tu Farisia , imang-imang kapalaya , kammayatompa haking-hakinga ri Pangadelang Agamaya . Nakanamo ke'nanga , " Apa musti nigaukang ? Anjo taua jai sikali gau'-gau' appakalannasa' Nagaukang !
+43011056	Antekamma		Naboyami ke'nanga Isa . Na wattunna a'rappungammo ke'nanga lalang ri Balla' Na Batara , nakanamo ke'nanga massing para ia , " Antekamma panggappanu ? Tena kapang Nalabattu ri anne passua'-suarranga . "
+43012005	Angngapa		" Angngapa natanibalukanga tallum bilangngang doe' pera' anjo minynya'-minynya' bauka , nampa nipassareang ballinna mae ri tu kasi-asia ? "
+43012027	apa		" Lussa'minne atingKu : apa musti laKupau kamma-kamma anne ? Mustika laKukana , ' Bapa' , paliliA' ri kamma-kammaya anne' ? Mingka untu' iaminne passessaya naKunia' battu .
+43012034a	Antekamma		Nakanamo anjo tau jaia ri Ia , " Manuru' Kitta' Hukkung niaka ri kambe , anjo Karaeng Mappasalamaka lattallasaki sa'genna satunggu-tungguna . Antekamma Nukkulle angkana musti nipakatinggi anjo Ana' Ma'rupataua ri lino ? 
+43012034b	inaika		Inaika anjo Ana' Ma'rupataua ? "
+43012038a	inaika		Jari a'rupami apa le'baka napau Na'bi Yesaya angkanaya , " O Batara , inaika tappa' ri kabara' napabattua ikambe ? 
+43012038b	inaimi		Inaimi lanipicinikiang kakoasanTa Batara ? "
+43013025	Inai		Jari a'reppese'mi anjo ana' gurua ri Isa , nampa akkuta'nang nakana , " Inai anjo Kipakkanaya , Batara ? "
+43013036	kemaeKi'		Akkuta'nammi Simon Petrus ri Isa , nakana , " O Batara , la'lampa kemaeKi' ? " Appialimi Isa Nakana , " Takkulleako amminawang kamma-kamma anne , mange ri tampa' laKumangeia . Ri bokopako lamminawang sallang . "
+43013037	Angngapa		Akkuta'nammi pole Petrus nakana , " Angngapa nakutakkullea amminawang kamma-kamma anne Batara ? Kurellakangi kalengku mate untu' iKatte Batara ! "
+43014002	~		Ri balla' Na ManggeKu jai tampa' pammantangang . ErokkA' a'lampa mange anjoreng ampasadiang ngasengko tampa' . Ka'de' tena nakamma tena oloKu lakkana kamma ri kau ngaseng .
+43014005	antekamma		Nakanamo Tomas ri Isa , " O Batara , tanaassengai ikambe angkana la'lampa kemaeKi' , jari antekamma lakkulle niasseng oloanga ? "
+43014009	Apa saba'na		Mingka appialimi Isa Nakana , " Teaimi sipato' salloKu nia' ri tangnga-tangnganu , mingka tenapa nanuassengA' Filipus ? Inai-nai le'ba'mo ancinikKa' , nacini' tommi antu Manggea . Apa saba'na nukkulle angkana , ' Kipicinikiang sai bedeng ikambe anjo Manggea ? '
+43014022	angngapa		Akkuta'nammi Yudas ( teai Yudas Iskariot ) ri Isa nakana , " O Batara , angngapa naKiero' ampa'nyatai KalenTa ri kambe anne , mingka tena Kipa'nyatai KalenTa mae ri linoa ? "
+43016005	kemae		Mingka kamma-kamma anne la'lampaMa' mange ri Ia assuroa ri Nakke ; na tena manna sitau battu ri kau ngaseng akkuta'nang angkanaya kemae laKulampai .
+43016017	Apa		Appakkaramulami massing sikuta'nang siapa area ana'-ana' gurunNa Isa , nakana , " Apa battuanna naNakana mae ri katte angkanaya : ' Sinampe' dudu mami natakkulleaMa' nucini' ; sinampe' dudu maMa' lakkulle nucini' ' ? Apa todong battuanna nangkana , ' La'lampA' mae ri Manggea' ? "
+43016018	Apa		Akkuta'nang mole-molemi ke'nanga angkana , " Apa battuanna anjo , ' sinampe' dudu mami ' ? Tanipahangai angkanaya passala' apa anjo Nabicaraya ! "
+43018004	Inai		Naassemmi Isa sikontu apa lakajarianga ri KalenNa . Jari Nareppesimi anjo taua ngaseng , nampa akkuta'nang Nakana , " Inai ngaseng nuboya ? "
+43018007	Inai		Sikalipi pole akkuta'nang Isa ri ke'nanga Nakana , " Inai ngaseng nuboya ? " Appialimi ke'nanga angkana , " Isa , battua ri Nazaret . "
+43018011	apa		Nakanamo Isa ri Petrus , " Poterangi antama' ri banoanna antu pa'dannu ! Apa nakana pikkirannu talaKutarimayai passessa Napassareanga Manggea mae ri Nakke ? "
+43018021	angngapa		Jari angngapa nanikuta'nangA' ? Iamonjo ke'nanga kuta'nang , nasaba' nalangngere'mi ke'nanga apa Kupangngajarranga . Tantu naassemmi ke'nanga apa le'baka Kupau . "
+43018023	apa saba'na		Appialimi Isa Nakana , " Punna nia' apa-apa sala Kupau , paumi anrinni angkana apa salana ! Mingka punna annaba memang todong anjo Kupaua , apa saba'na nanutempaka'rangA' ? "
+43018029	Apa		Jari a'lampami assulu' Pilatus mange ri ke'nanga nampa akkuta'nang nakana , " Apa nutuntukangi anne Taua ? "
+43018035	Apa		Appialimi Pilatus nakana , " Bara' nukana tu Yahudia' ? BansaNu tonji ampassareangKo mae ri nakke siagang imang-imang kapalaya . Apa kutadeng le'ba' Nugaukang ? "
+43018038	Apa		Akkuta'nammi Pilatus nakana , " Apa battuanna anjo katojenganga ? " Assulukammi pole Pilatus nampa nakana ri tu Yahudia , " Tena kugappa kasalanna anne Taua , manna sirupa .
+43019009	kemae		Jari ammotere'mi pole antama' ri balla' lompoa . Na ri wattunna nierammo Isa antama' , akkuta'nammi Pilatus ri Ia , nakana , " Battu kemae assala' Nu ? " Mingka tappialiai Isa .
+43019015	~		Ammarrang-marrammi ke'nanga , angkana , " Bunoi ! Bunoi ! Allei Salli' ! " Akkuta'nammi Pilatus nakana , " Maka musti inakke ansalliki karaennu ? " Appialimi imang-imang kapalaya angkana , " Tena ruanna karaeng pantaranganna Karaenna ikambe ! "
+43020013	Angngapa		Akkuta'nammi anjo malaekaka nakana , " Angngapa nakiangngarru' ibu' ? " Appialimi Maria nakana , " Nia' le'ba' angngallei maya' Na Batara , natakuassengai angkana kemae naboli' . "
+43020015a	angngapa		Akkuta'nammi Isa ri ia Nakana , " Ibu' , angngapa nakiangngarru' ? 
+43020015b	inai		Inai kiboya ? " Nakapangi Maria angkana pajama koko anjo taua . Jari nakanamo , " Bapa' , punna ikatte ampaletteki anjo mayaka , kitulunga' nakipauanga' angkana kemae kiboli' , sollanna akkulle mae kualle . "
+43021012	InaiKi'		Nakanamo Isa ri ke'nanga , " Maeko nakiangnganre . " Tenanniakka manna sitau ri anjo ana'-ana' gurua barani akkuta'nang angkana , " InaiKi' antu Bapa' ? " Nasaba' naassemmi ke'nanga angkanaya Batara anjo .
+43021020	inai		Ri wattunna assaile Petrus , nacini'mi anjo ana' guru Nakamaseanga Isa nia' ri bokona . ( Iaminne anjo ana' guru a'reppeseka ri Isa ri wattunna angnganre bangngi ke'nanga siagang akkuta'nanga ri Isa angkana , " O Batara inai ero' lampasikongkolangKi' Batara ? " )
+43021021	Antekamma		Nacini'na anjo ana' guru Nakamaseanga Isa , akkuta'nammi Petrus ri Isa , nakana , " Antekamma anne taua ? "
+43021022	~		Appialimi Isa Nakana , " Ebara' angkana erokKa' natuli attallasa'na sa'gengKu battu poleang sallang , anjo teai urusannu . Mingka ikau , amminawang mako ri Nakke ! "
+43021023	~		Jari tassiara'mi anjo kabaraka ri ana'-ana' gurunNa ngaseng Isa , angkanaya talamateai anjo ana' gurua . Na sikontutojenna tena na Nakana Isa angkanaya talamateai anjo ana' gurua passangalinna Nakananaja : " Ebara' angkana erokKa' natuli attallasa' sa'gengKu battu , anjo teai urusannu . "
+44001011	angngapa		Nakanamo anjo tau ruaya , " E , ikau ngaseng tu battua ri Galilea , angngapa nummantang bawang antureng acconga nai' ri langika ? Anjo Isa , nucinika ta'angka' nai' ri suruga , labattu poleangi sallang lalang kala'biranNa , sangkamma la'biri' Na ri wattunna nucini' nai' ri suruga sumpadeng . "
+44002008	Antekamma		Antekamma kajarianna , sa'genna akkulle nilangngere' ke'nanga a'bicara lalang bicara battua massing ri pa'rasanganta ?
+44002012	Apa		Lalang lannasa'na siagang takkajanna'na ke'nanga , akkuta'nang ngasemmi para ia ke'nanga angkana , " Apa ngaseng battuanna anne apa kajarianga ? "
+44002037	apamo		Nalangngere'na ngaseng ke'nanga anjo napaua Petrus , sanna' ngasemmi dinging-dinginna atinna ke'nanga . Jari akkuta'nammi ke'nanga ri Petrus siagang anjo tunisuro maraenganga , angkana , " Jari apamo musti nigaukang anne , sari'battang ? "
+44003012a	Angngapa		Ri wattunna nacini' Petrus anjo tau jaia , nakanamo ri ke'nanga , " E , tu Israel , angngapa nulannasa' ngaseng anciniki ? 
+44003012b	Angngapa		Angngapa naikambe tulusu' nujanjang ? Barang nukana lanri kakoasanna ikambe yareka lanri mannurukinna ikambe ri Allata'ala nakkulle a'jappa' anne taua ?
+44004007a	~		Nierammi Petrus siagang Yohanes mae ri dallekanna ke'nanga . Nikuta'nammi ri ke'nanga angkana , 
+44004007b	antekamma		" Antekamma batenu amballei anjo tau pesoka ? 
+44004007c	apa		Kagassingang apa yareka koasa battu kemae nupake anggaukangi anjo kammaya ? "
+44004016	Apa		Nakanamo ke'nanga , " Apa musti nigaukang ri anjo tau ruaya ? Sikontu tau niaka ammantang ri Yerusalem naasseng ngasemmi angkanaya anjo tau ruaya anggaukangi anjo gau' appakalannasaka . Takkulleami nicokkoi anjo apa nagaukanga ke'nanga .
+44004025a	angngapa		Lalang RohTa le'bakKi' a'bicara lalang atanTa Daud iamintu boena ikambe ; anjo wattua angkanaKi' , ' Angngapa nalarro tu tenaya naassengi Batara ; 
+44004025b	angngapa		angngapa nappanggaukang tenaya matu-matunna bansa-bansaya ?
+44005003	angngapa		Nakanamo Petrus , " Ananias , angngapa nanupassareang atinnu nakoasai Billisika , sa'gennu a'balle-balle ri RohNa Allata'ala ? Iamintu nuboli' cokko-cokkoi untu' kalennu tawaruanna doe' ballinna anjo tanaya ?
+44005004	angngapa		Anjo tanaya ikau pata ri wattunna tenapa nubalukangi . Na ri wattunna le'ba' nubalukang anjo tanaya , anjo doe' ballinnaya , ikau tonji pole pata . Jari angngapa nania' lalang ri atinnu ero' appanggaukang kammaya anjo ? Teai rupataua nuballe-ballei , mingka Allata'ala ! "
+44005009	Angngapa		Nakanamo Petrus ri ia , " Angngapa nusikongkolo' siagang bura'nennu ero' ancobai RohNa Batara ? Pilangngerimi ! Ammotere'mi tau mangea antarawangi bura'nennu . Lanaerang tongko ke'nanga assulu' . "
+44007026	apa saba'na		Ammukona nia'mo pole narapikang rua tu Israel assiba'ji . Naallemi nasa'lakki nampa napa'dame ke'nanga . Nakana ri ke'nanga , ' Ikau antu tau assari'battangko . Apa saba'na nuero' assiba'ji ? '
+44007027	Inai		Mingka nisorongammi Musa mae ri biring , ri anjo tau amba'jiai aganna , nampa nakana , ' Inai angngangkakko a'jari pamimping siagang a'jari haking mae ri kambe ?
+44007035	Inai		Iaminne Musa , tenaya niakui ri bansa Israel , siagang nisorongbokoa angkana , ' Inai le'ba' angngangkakko a'jari pamimping siagang a'jari haking mae ri kambe ? ' Mingka sitojenna , iami nisuro ri Allata'ala a'jari pamimping siagang appasalamaka , lanri bantuanna anjo malaeka' battua mae ri ia lalang ri anjo rompo' a'rinraya .
+44007049a	apa		' Langika a'jari empoang kala'birangKu , na linoa a'jari pa'dongkokang bangkengKu . Balla' apa eroka nupaentengangA' ? 
+44007049b	kemae		Kemae tampa' laKupammari-maria ?
+44007052	~		Maka nia' na'bi tanisessaya ri boe-boenu ? Nabunoi ke'nanga tunisuroNa Allata'ala , le'baka ampabattui riolo dudu angkanaya labattui anjo Ata matojenNa Allata'ala . Na kamma-kamma anne le'ba'mi nupasikongkolang siagang nubuno anjo Ana' Na Allata'ala .
+44008031	Antekamma		Appialimi anjo taua nakana , " Antekamma lakkulle kupahang punna tena ampakasingarianga' ? " Nampa nakio'mi Filipus nai' ri karetaya nammempo siagang .
+44008033	~		Nihinai siagang nigau' tenai naadele' . Niallei nyawaNa battu ri linoa sa'genna tenanniakka manna sitau akkulle ancaritai antekamma passossoranNa . "
+44008034	inai		Nakanamo anjo pagawe tinggi battua ri Etiopia mae ri Filipus , " Pauang sabeka' , inai napakkanai anne na'bia ? Kalennaka , yareka tau maraeng ? "
+44008036	Apapi		Ri tangngana aganga ; anrapi'mi ke'nanga mange ri se'reang tampa' niaka je'ne'na . Nakanamo anjo pagawea , " Ciniki , anjo mae nia' je'ne' ! Apapi pole kakuranganna punna erokka' nije'ne' ? "
+44009004	apa saba'na		Tu'guru'mi Saulus naung ri buttaya , nampa nia' sa'ra nalangngere' angkana ri ia , " O Saulus , Saulus ! Apa saba'na nanusessa kamma duduA' ? "
+44009005	InaiKi'		Akkuta'nammi Saulus nakana , " InaiKi' antu , Karaeng ? " Appialimi anjo sa'raya nakana , " INakke Isa , nusessa dudua .
+44009006	apa		Mingka kamma-kamma anne ambangung mako nai' , na nuantama' ri kotaya . Anjorempi nampa nipauangko apa musti lanugaukang . "
+44010004	Apa		Najanjammi Kornelius anjo malaekaka , nateai sipato' malla'na . Nakanamo , " Apa kutadeng Karaeng ? " Appialimi anjo malaekaka nakana , " Nitarimami ri Allata'ala sikamma pappala' doannu siagang pa'mai' baji'nu , kammayatompa Nau'rangiko Allata'ala .
+44010021	Apa		Naummi Petrus battu ri anjo ballaka , na nakana ri anjo taua , " Inakkemi antu nuboyaya . Apa kutadeng parallu nukabattuang ? "
+44010029	apa		Iaminjo , na ri wattungku kikio' battu , kukate'neammi eroka battu . Jari kamma-kamma anne eroki kuasseng , apa kutadeng saba'na nakikioka' battu ? "
+44010047	~		" Cini'mi anne taua ngaseng , anggappa tommi RohNa Allata'ala , sangkamma ikatte . Jari maka akkulleiji taua napisangkai punna nije'ne'mo siagang je'ne' ke'nanga ? "
+44011017a	antekamma		Jari singara'mi ma'nassana angkanaya Napassareang tongi Allata'ala passare kammaya mae ri tu tenaya nantama' agama Yahudi , sikamma apa Napassareanga mae ri katte ngaseng ri wattunta tappa'mo mae ri Isa Almasi . Jari antekamma bateku lampisangkai Allata'ala ? "
+44011017b	~		
+44012018	apa		Ammukona bari'basa' , gegere' ngasemmi tantara pangawalaka ri tarungkua . Sanna' lannasa'na ke'nanga ri passala'na anjo apa kajarianga ri kalenna Petrus .
+44013025	inaia'		Na ri wattu lakala'busannamo jama-jamanna Yohanes , nakanamo mae ri taua , ' Turu' panggappanu , anne inakke inaia' ? Teai inakke anjo Tau salloamo nutayang . U'rangi , anjo Taua labattui ri bokoangangku ; manna assungkeangi passikko' sapatuNa tena todong kusiratang . '
+44014015	angngapa		" He , angngapa nanugaukang ngasengi anne kammaya ? Ikambe anne tau biasa tonjaki' sangkamma ikau ngaseng ! Niaki ikambe mae anrinni untu' ampabattui Kabara' Bajika mae ri kau ngaseng , sollanna nubokoi anjo apa-apa tenaya matu-matunna ; na nubattu mae ri dallekanNa Allata'ala attallasaka , ampa'jariai langika siagang linoa , kammayatompa tamparanga siagang sikontu apa niaka lalang .
+44015010	apa saba'na		Jari apa saba'na nanuero' ambali Allata'ala kamma-kamma anne lanri ero'nu ambattali atorang-atorang anjo tau tappaka ? Na sikontutojenna manna boe-boeta , yareka manna kalenta ngaseng tena todong nanikkulle anggaukangi anjo atoranga .
+44016030	apa		Nampa naerang kapala tarungkua assulu' ke'nanga , na nakana , " O Tuang , apa musti kugaukang sollangku nipasalama' ? "
+44017018	Apa		Assigea'mi Paulus siagang guru-guru battua ri golongang Epikuros siagang golongang battua ri Stoa . Nia' siapa are maraeng ri ke'nanga angkana , " Apa todong naasseng anne taua ? Sike'de' duduji pangngissenganna mingka teai sipato' jaina bicaranna ! " Nia' todong siapa are tau angkana , " Kamma nicini' rewata-rewata bansa maraeng nakabarrang . " Akkana kammai anjo ke'nanga , lanri passala' Na Isa siagang passala' attallasa' Na ammotere' Isa battu ri kamateanga nabicara Paulus mae ri ke'nanga .
+44017019	~		Nampa naerang ke'nanga Paulus mange ri passirapakkanga irate ri Bonto Areopagus . Battui mange anjoreng , nakanamo ke'nanga ri Paulus , " Eroki ikambe angngassengi anjo pangngajarang berua nupabattua .
+44019003	inai		Akkuta'nammi Paulus angkana , " Jari lanri inai nanije'nekko ? " Appialimi ke'nanga angkana , " Lanri pa'je'ne'na Yohanes . "
+44019015	inai		Mingka nakanamo roh setanga ri ke'nanga , " Kuassengi anjo Isa , kammayatompa kuasseng tongi anjo Paulus ; mingka ikau anne , inai ngasengko ? "
+44019035	~		Kale'bakkanna akkullemi nipakasannang anjo tau jaia ri jurutulisi'na anjo kotaya . Nakana anjo jurutulisika , " Ikau ngaseng tau ammantanga ri Efesus ! Baji' ngaseng naassenna taua angkanaya anne tau niaka ri Efesus amparakai balla'na Rewata Artemis siagang batu matangkasa' tu'guruka battu ri langika .
+44021013a	apa		Mingka appialimi Paulus angkana , " Apa matu-matunnu angngarru' kamma ngaseng , 
+44021013b	~		sa'genna a'jari ancuru' kusa'ring atingku ? Kamma-kamma anne sadiama' ; teako angkana nijakkala' bawang , mingka sadiama' ba'lalo mate lanri Batara Isa . "
+44021022	apamo		Kamma-kamma anne tantu naassemmi anjo sikamma tu Yahudi tappakamo angkanaya niakko anrinni . Jari , apamo lanigaukang kamma-kamma anne ?
+44021033a	inai		Mangemi anjo komandanga ri Paulus nampa najakkala' , nampa nasuro taua ansikkoki limanna . Le'baki anjo akkuta'nammi anjo komandanga angkana inai tau anjo Paulus , 
+44021033b	apa		siagang apa le'ba' nagaukang .
+44022007	Angngapa		Anra'bama' naung ri buttaya napakamma . Nampa nia' kulangngere' sa'ra angkana mae ri nakke , nakana , ' Saulus , Saulus ! Angngapa nanusessa kamma duduA' ? '
+44022008	InaiKi'		Jari akkuta'namma' angkana , ' InaiKi' antu , Batara ? ' Appialimi anjo sa'raya angkana , ' INakkemi Isa , tu Nazaretka , sannaka nusessana . '
+44022010	Apa		Akkuta'namma' pole angkana , ' Apa musti kugaukang Batara ? ' Appialimi Batara angkana , ' Ambangungko nai' nampa antamakko ri kota Damsyik . Anjoreng pako sallang lanipauang sikontu apa eroka Nasuro gaukang Allata'ala ri kau . '
+44022016	~		Kamma-kamma anne tea' mako sallo-salloi pole attayang . Ambangung mako nai' , nanupassareang kalennu nije'ne' . Appala' popporo' mako mae ri Batara , sollannu nipammopporang ri dosa-dosanu . ' "
+44022026	Apa		Nalangngere'na anjo perwiraya akkana kamma Paulus , a'lampami anjo perwiraya mae ri komandang pasukanga na nakana , " Apa anne kigaukanga bapa' ? Anne taua tau bansa Roma ! "
+44023003	~		Jari nakanamo Paulus ri anjo Imang Lompoa , " Mattantu laNatempaka'rang todongko Allata'ala , ikau tu munape' kammaya , assara-saraia sangkamma tu matangkasa' ! Ammempoko antureng angngadelia' situru' parentaNa Allata'ala napabattua Musa , padahala' ikaumi kalennu andakkai anjo parentaya lanri nusurona taua antempaka'ranga' ! "
+44023009	~		Kale'bakkanna sanna'mi siricuina ke'nanga . Nia'mo siapa are tu Farisi a'jari guru agamaya ammenteng siagang appa'ngaraya tojeng . Nakanamo ke'nanga , " Situru' panggappana ikambe , anne taua tena salana manna sike'de' ! Nasaba' nakulle nia' memang todong roh yareka malaeka' a'bicara mae ri kalenna ! "
+44023019	Apa		Nata'gala'mi anjo komandanga limanna anjo turungkaya nampa naerang mange ri sa'riang akkale-kale . Nampa nakuta'nang nakana , " Apa ero' nupabattu mae ri nakke ? "
+44026008	Angngapa		Angngapa natakkullea tappa' sikamma sari'battangku tu Yahudia angkanaya laNapattallasa' poleangi ammotere' Allata'ala tau matea ?
+44026014	Angngapa		Tu'guru' ngaseng maki' naung ri buttaya . Nampa nia'mo kulangngere' sa'ra a'bicara mae ri nakke lalang bicara Ibrani nakana , ' Saulus , Saulus ! Angngapa natuli nusessa kamma duduA' ? Ikau tonji langkasiaki pa'risika punna tuli nuewana pimpinanNa a'jaria karaennu . '
+44026015	INaiki'		Jari kukanamo , ' INaiki' antu Karaeng ? ' Appialimi Batara Nakana , ' INakkemi Isa , tuli nusessaya .
+45002017	antekamma		Mingka kamma-kamma anne , antekamma ri kalennu ngaseng sari'battang ? Mangakuko angkana tu Yahudiko . Anna'galakko mae ri hukkung agama Yahudia siagang tinggi pa'maikko lanri passisambungannu siagang Allata'ala .
+45002021	angngapa		Nuajara'mi tau maraenga ; jari angngapa natanuajarra todong kalennu ? Nuajaraki taua sollanna tena na'lukka' ; mingka kalennu a'lukka' !
+45002028	~		Nasaba' nikanaya tu Yahudi tojeng-tojeng , teai poro arennaji bawang nikana tu Yahudi ; naia nikanaya tu nisunna' tojeng-tojeng , teai lahere'naji bawang nisunna' .
+45003001a	apami		Jari punna kamma , apami upa'nu a'jari tu Yahudi ? 
+45003001b	apami		Siagang apami matu-matunnu anturuki anjo atoranna sunnaka ?
+45003003	antekamma		Mingka antekamma punna nia' sitangnga tu Yahudi tena namajarre' ? Maka iaminjo passabakkang nala'jari talajarrekamo Allata'ala ?
+45003005	apami		Mingka punna pila' a'nyatamo kaadelanNa Allata'ala , lanri nigaukanna apa-apa tenaya nannaba , apami lanikana ? Angkanaya tena Naadele' Allata'ala punna Nahukkungki' ? ( Memang siratangi anne pakkuta'nang kammaya situru' pikkirang linota . )
+45003006	antekamma		Tena sikalia ! Nasaba' punna tena Naadele' Allata'ala , maka antekamma bateNa lakkulle angngadeli anne linoa ?
+45003007a	~		Mingka punna pila' a'nyata apa tojenga battu ri Allata'ala lanri panggaukang tenaya nannaba , sa'genna nipakala'biri' Allata'ala , 
+45003007b	angngapa		angngapa nanisalakangija tau a'gau' ja'dalaka , salaku tau doraka ?
+45003008	angngapa		Siagang angngapa nanitakkullea angkana , " Umba nakia'gau' ja'dala' sollanna ammumba kabajikanga ? " Memang nia'mo siapa are tau anghina-hina' , angkanaya inakkemi le'ba' akkana kamma anjo . Tau kammaya ngasemmi anjo siratang Nahukkung Allata'ala .
+45003009	~		Jari , maka la'bi bajikangangi empoanta ikatte tu Yahudia na empoanna bansa-bansa maraenga ? Tena sikalia ! Le'ba'mi kupau angkanaya , baji' tu Yahudi yareka tu battua ri bansa-bansa maraenga , nikoasai ngasemmi ri dosaya .
+45003027a	angngapa		Lanri kammana , tenamo oloanta latinggi-tinggi pa'mai' . Angngapa nakamma ? 
+45003027b	~		Nasaba' tenanamo nanigaukangi apa-apa tattulisika lalang ri hukkung-hukkung agama Yahudia ? Teai ! Passangalinna lanri tappattamo .
+45003027c	~		
+45004001	apa		Jari punna kamma , apa lanikana ri passala'na Abraham , boena bansata ? Antekamma pangalamanna ?
+45004003	~		Nia' tattulisi' lalang ri Kittaka angkanaya , " Tappaki Abraham ri Allata'ala ; na lanri tappa'na ri Allata'ala , nitarimami a'jari tau nikarannuanga ri atinNa Allata'ala . "
+45004010	ringngapanna		Jari , maka ringngapanna nanitarimai Abraham ri Allata'ala ? Ri wattu tenanapa yareka ri wattu le'ba'napa nisunna' ? Memang , ri wattu tenanapa nanisunnaki , teai ri wattu le'ba'napa .
+45005010	~		Punna ri wattu assimusuta siagang Allata'ala nanipassiama' maki' siagang Ia tete kamateanNa Ana' Na , la'biangampa ri kamma-kammaya anne , ri wattu a'jari baji'namo ammotere' passisambunganta siagang Allata'ala , mattantu tommi lanipasalamatta tete ri tallasa' Na Isa Almasi .
+45005021	~		Jari sangkamma angkanaya musti mateki' passabakkang nigaukanna dosaya , sangkamma tomminjo Nasare maki' oloang Allata'ala sollanta assibajiki ammotere' siagang Ia , lanri mangngamaseanNa mae ri katte . Na lanri baji'mi ammotere' passisambunganta siagang Allata'ala , laNasare tommaki' katallassang mannannungang tete ri Isa Almasi , Batarata .
+45006001	apamo		Jari punna kamma , apamo lakkulle nikana ? Jari musti tuli nigaukammi dosaya sollanta pila' nikamaseang ri Allata'ala ?
+45006002	apa saba'na		Tantu tena ! Nasaba' tenamo nanakoasaiki' dosaya . Jari apa saba'na natuli lanigaukang dosaya lalang ri tallasatta ?
+45006015	apa		Jari , kamma-kamma anne apa bodona bicaraya ? Maka akkullei nigaukang dosaya nasaba' tenamo nakirawangang kakoasanna hukkung-hukkung agama Yahudia passangalinna irawangang kakoasanNa pangngamaseanNa Allata'ala ? Tena sikalia !
+45006021	apa		Anjo wattua apa passawallang nugappa ri anjo panggaukang appakasirika ? Poro kamateang bawang naerang anjo panggaukang-panggaukang kammaya !
+45007007	apamo		Jari punna kamma , apamo lanikana ? Lanikana ja'dalaki anjo hukkung-hukkung agama Yahudia ? Tantu tena ! Mingka iaminjo hukkung-hukkunga angngajarakki' angngassengi nikanaya dosa . Takuassengai angkana apa anjo nikanaya angngoa , ka'de' tena nanakana anjo hukkung agamaya , " Teako angngoai . "
+45007024	Inaimi		Jari kammaminjo katallassangku : kuturuki hukkung-hukkung battua ri Allata'ala , siagang pikkirangku , mingka sipa'-sipa' ma'rupatauku mannuruki mae ri dosaya . Teai sipato' cilakaku anne ! Inaimi ero' ampasalamaki anne batangkalengku , eroka mange ri kamateanga ? Sukkuruka' mae ri Allata'ala ! Nasaba' Iami ampasalamakka' tete ri KalenNa Isa Almasi .
+45008024	inaika		Nasaba' lanri pa'minasata , nakinipasalama' . Mingka punna nigappa memammi anjo apa niminasaia , anjo teaimi pa'minasa arenna . Nasaba' inaika amminasai apa nagappayamo ?
+45008031a	apamo		Apamo lanikana kamma-kamma anne ri passala' kammaya ngaseng anjo ? 
+45008031b	inai		Punna Narurungangki' Allata'ala , maka inai akkulle angngewaki' ?
+45008032	~		Manna ana' KalenNa tena todong Nakadarangi , passangalinna Napassareammi untu' kaparalluanta ngaseng ; maka talaNasareaki' sikamma kaparalluanta maraenganga ?
+45008033	inai		Maka inai lakkulle antuntukki' ikatte umma' le'baka Napile Allata'ala , punna KalenNamo Allata'ala angkana tenamo nisala ?
+45008034	~		Maka lania' tau ampasalaki' ? KalenNa Isa Almasi sallang angngalle-ngalleangki' . KalenNami le'ba' mate , kammayatompa KalenNami le'ba' nipattallasa' poleang ammotere' battu ri kamateanga siagang nia'mi ri sa'rinNa Allata'ala iamintu ri tampa' makoasaya .
+45008035	inai		Maka inai lakkulle ampisangkai Almasi angkamaseangki' ? Maka akkullei kasusaanga yareka kasukkaranga , yareka passessaya , yareka kacipuranga , yareka kakasi-asianga , yareka bahayaya , yareka kamateanga , ampisangkai Almasi angkamaseangki' ?
+45009014	apa		Jari apa bodona kana kamma-kamma anne ? Lanikana tena naadele' Allata'ala ? Mattantuna adeleki Allata'ala !
+45009019a	apa saba'na		Jari , lanukana kapang ri nakke , " Punna kamma , apa saba'na Naero' ija Allata'ala ampasalai rupataua ? 
+45009019b	inai		Sai manna inai takkulleaji natahang ero' Na Allata'ala ? "
+45009020a	~		Mingka ikau sari'battang , tau biasajako bawang ! Takkulleako barani appiali mae ri Allata'ala ! 
+45009020b	~		Maka akkullei se'rea pammantangang bunga mae ri tau amparekai , angkana , 
+45009020c	apa saba'na		" Apa saba'na nanupare' kamma' anne ? "
+45009021	~		Sai ero'-ero'na todong anjo taua antekamma tanja'na anjo pammantangang bungaya napareka ? Battu ri sikangkang butta pi' anjo taua akkullei napare' ruang rupa anjo pammantangang bungaya : se're baji' , namaraenganga tena nabaji' dudu .
+45009022	~		Kamma tomminjo ri apa Napareka Allata'ala . Eroki ampappicinikangi pangngalarroinNa siagang kakoasanNa . Mingka sa'baraki Allata'ala mae ri anjo tau siratanga nihukkung lanri napakalarro-larrona Allata'ala .
+45009023	~		Mingka ero' tongi ampappicinikangi mae ri katte kate'neang masukkuka , ia Napassareanga mae ri katte tau Nakamaseanga . Kamma-kamma anne Napasadia maki' untu' antarimai anjo kate'neanga .
+45009024	~		Ikattemi le'baka Nakio' , tena nabattu ri bansa Yahudia bawang , mingka battu ri bansa-bansa maraenga pole .
+45009030	~		Jari bodona kana kammaminne : Anjo bansa-bansa maraenga tena nausaha sollanna a'jari baji' ammotere' passisambunganna siagang Allata'ala . Mingka lanri tappa'na ke'nanga , Napa'jari baji'mi ammotere' Allata'ala passisambunganNa siagang ke'nanga .
+45009032	Angngapa		Angngapa natena wassele'na ke'nanga ? Nasaba' tena nanagaukangi ke'nanga lanri tappa'na ri Allata'ala , passangalinna lanri usaha kalennaji ke'nanga . Jari iaminjo saba'na natu'guru' tatto'ro ke'nanga ri " Batu Pattatto'roanga " .
+45010006	Inaika		Mingka ri passala' antekamma carana taua assibajiki siagang Allata'ala situru' katappakkang mae ri Allata'ala , kammaminne nakana lalang ri Kittaka , " Tea' mako angkanai lalang ri atinnu , ' Inaika lanai' ri suruga ? ' ( battuanna angngerangi naung Almasi ) ,
+45010007	Inaika		yareka ' Inaika lanaung ri pammantanganna tau matea ? ' ( battuanna angngangkaki nai' Almasi battu ri kamateanga . ) "
+45010008	~		Battuanna kammaminne , " Anjo biritta battua ri Allata'ala sanna' a'reppese'na ri kau ; iamintu niaki ri bawanu siagang lalang ri atinnu . " Iaminjo biritta napa'la'banga ikambe ; iamintu biritta ri passala'na tappaka .
+45010014a	antekamma		Mingka antekamma lakkulle taua akkio' mae ri Batara punna tenapa natappa' ke'nanga ? 
+45010014b	antekamma		Siagang antekamma lakkulle tappa' ke'nanga mae ri Batara punna tenapa nalangngereki biritta battua ri Batara ? 
+45010014c	antekamma		Kammayatompa , antekamma lakkulle nalangngere' ke'nanga biritta battua ri Batara punna tena tau ampabattui anjo birittaya ?
+45010015	antekamma		Kammayatompa pole , antekamma lakkulle taua ampabattui anjo birittaya punna tena nanisuroi ke'nanga ? Nia' tattulisi' lalang ri Kittaka angkanaya , " Teai sipato' baji'na kabattuanna tau angngeranga Kabara' Baji' battu ri Allata'ala . "
+45010016	inaika		Mingka tayangasenna taua antarimai anjo Kabara' Bajika . Nasaba' nakana Na'bi Yesaya , " O , Batara , inaika tau ampatappaki biritta napabattua ikambe ? "
+45011004	Apa		Apa pappialinNa Allata'ala mae ri Na'bi Elia anjo wattua ? Nakana Allata'ala , " Nia'mo Kuboli' tuju sa'bu tau untu' ri KalengKu . Tena le'bakapi ke'nanga anynyomba mae ri Rewata Baal . "
+45011007	antekamma		Jari antekamma ? Tanagappayai bansa Israelka anjo apa naboyaya ke'nanga . Anggappayai , iamintu sipa'rappungang ca'diji tau , ia le'baka Napile Allata'ala . Ia maraenganga , a'jari kapala batu ngasengi mae ri pakkio' Na Allata'ala .
+45011015	~		Lanri nisorongbokona ke'nanga ri Allata'ala , na'jari baji'mo ammotere' passisambunganNa Allata'ala siagang linoa ; jari la'biangampa pole punna nitarima ke'nanga ri Allata'ala ! Tantu sangkamma le'ba'mi ke'nanga tau mate attallasa' poleanga ammotere' !
+45011018	~		Lanri kammana , teako cini' tunai anjo tau sanrapang le'baka nitoto sangkamma anjo tangke-tangkea . Musti nuu'rangi angkanaya ikau sanrapang poro tangke jako bawang . Nateai tangkea assarei kanre anjo akaka , passangalinna anjo akaka assarei kanre anjo tangkea .
+45011033a	inai		Teai sipato' heba'na kakalumanynyanganNa Allata'ala ! Teai sipato' tinggina kacara'dekanNa siagang pangngamaseanNa ! Maka inai akkulle ampappilajari sikamma apa le'baka Napattantu ? 
+45011033b	inai		Maka inai akkulle ampahangi cara-caraNa anjama ?
+45011034a	inai		Nia' tattulisi' lalang ri Kittaka angkanaya , " Maka inai akkulle angngassengi pikkiranNa Batara ? 
+45011034b	inai		Maka inai akkulle assarei pappakainga' ?
+45011035	inai		Maka inai le'ba' assare apa-apa mae ri Batara sa'genna akkulle annuntu' pa'balasa' battu ri Ia ? "
+45014004	Inaikoka		Inaikoka antu sa'gennu akkulle angngadeli atanna tau maraenga ? Natu'gurukka yareka nambangungka anjo ataya , anjo urusanna karaenna . Na memang lammentengi nai' anjo ataya , lanri Makoasai Batara ampamentengi nai' .
+45014010a	apa saba'na		Jari , sikamma sari'battangku ! Apa saba'na nanupasala sari'battang julu tappa'nu ? 
+45014010b	apa saba'na		Siagang apa saba'na nanucini' tunai ? Ikatte anne lamange ngasenjaki' andallekang nakiniadeli ri dallekanNa Allata'ala .
+46001020a	apa		Jari , apa matu-matunna anjo tau niaka pangngassenganna ? 
+46001020b	apa		Apa matu-matunna sikamma anjo tau cara'deka ? 
+46001020c	apa		Apa matu-matunna tu panritaya ri anne linoa ? Le'ba'mi Napakasingara' Allata'ala angkanaya kaporeanna anne linoa poro balle-balle lompo bawang !
+46002011	~		
+46002016a	~		
+46002016b	~		
+46003005a	inai		Sikontutojenna inai anjo Apolos ? 
+46003005b	inai		Siagang inai anjo Paulus ? Ikambe anne poro palayanNa jaki' bawang Allata'ala , ia le'baka ampimpingko sollannu tappa' mae ri Almasi . Ikambe poro nigaukannaji bawang jama-jamang Napassuroanga Batara mae ri kambe .
+46004007a	~		Sai yangaseng-ngasenna sangnging apa-apa nutarimaji battu ri Allata'ala . 
+46004007b	~		
+46004007c	angngapa		Jari angngapa nanuero' ampattampo-tampoangi kalennu , sangkamma le'ba' angkana anjo apa-apa niaka ri kau teai apa-apa nutarima ?
+46004021	apa		Jari pilei mami apa la'bi nungaia ! Apa erokko nakuterassi bateku angngajarakko punna battua' mae ri kau , yareka kulammai siagang kupakkamaseangi ?
+46005002	~		Mingka manna nakamma , ero' ijako tuli attampo-tampo . Sikontutojenna , musti si'nai nyawanu siagang musti nupassuluki anjo tau a'gau' kammaya battu ri alla'nu .
+46005012	~		Memang , teai urusangku angngadeli tau tenaya na Karisteng . KalenNa Allata'ala langngadeli ke'nanga . Mingka ri sesena anggota-anggota jama'aka , sai musti kalenna tonji jama'aka angngadeli ke'nanga ? Nia' tattulisi' lalang ri Kittaka angkanaya , " Bongkai tau ja'dalaka battu ri alla'nu . "
+46006001	Angngapa		Angngapa nunia' barani a'lampa mae ri haking tenaya natappa' ri Allata'ala antuntuki parannu tau tappa' ri Allata'ala , punna assisala pahangko siagang ia ? Angngapa natena numae ri umma' Na Allata'ala ampassilolongangi ?
+46006003	~		Tenaka nanuassengi angkanaya ikatte langngadeli malaekaka ? Jari la'biangampa pole punna parkara katallassang allo-alloaja .
+46006004	~		Jari punna ammumba parkara kammaya anjo maka lanuerangi mae ri tu tena sikalia empoanna lalang ri jama'aka ?
+46006007a	~		Teako angkana mangea bawang akkara-kara ri dallekanna tu tenaya na Karisteng nanusala ; ba'lalo nampa mako assisala-sala para ikau nanunibeta lompomo . La'bi bajikangangi punna tanugappaya kaadelanga yareka nipakarugiko naia appakammaya anjo !
+46006007b	~		
+46006009	~		Maka nuassenji angkanaya takkulleai a'jari umma' Na Allata'ala tu tenaya namannuruki ? Teako eroki nitipu . Inai-nai a'gau' bawang , inai-nai anynyomba ri barhalaya , inai-nai a'gau' bawang , inai-nai a'gau' sala siagang paranna bura'ne yareka paranna baine ,
+46006016	~		Yareka tanuassengapi angkanaya inai-nai ampasiallei batangkalenna siagang baine ja'dalaka , a'jari se'remi batangkalenna siagang anjo baine ja'dalaka ? Nasaba' nia' tattulisi' lalang ri Kittaka angkanaya , " Anjo ruaya a'jari se'remi . "
+46006019	~		Musti nuassengi angkanaya anjo batangkalennu pammantanganNa RohNa Allata'ala . Anjo RohNa Allata'ala ammantangi lalang ri kalennu . Kammayatompa KalenNa Allata'ala ampassareangi anjo RohNa mae ri kau . Anjo kalennu teaimi ikau pata , mingka Allata'ala pata .
+46007016a	antekamma		Nasaba' ikau salaku baine , iamintu baine tappakamo mae ri Batara , antekamma lakkulle nuasseng angkanaya ma'nassa takkulleai nupasalama' bura'nennu ? 
+46007016b	antekamma		Kammayatompa ikau salaku bura'ne Karistengamo , antekamma lakkulle nuasseng angkanaya ma'nassa takkulleai nupasalama' bainennu ?
+46009007a	~		Tenanniakka tantara angngongkosi kale-kalei kalenna lalang ri tugasa'na ! 
+46009007b	~		Tenanniakka tau a'lamung apa-apa natanakanrea anjo wassele' lamung-lamunna ! 
+46009007c	~		Tenanniakka tau akkatuo sapi natakkullea nainung dadi' battua ri anjo sapi nakatuoa !
+46009018	apa		Jari punna kamma apa passawallangku ? Iaminne passawallangku : angkanaya akkullei kubirittakang anjo Kabara' Bajika , natena manna sitau kubattali untu' angngongkosia' , lanri tenana nakutuntuki anjo ha' siratanga ri nakke salaku tau ambirittakangai anjo Kabara' Bajika .
+46010019a	apa		Apa nataba anne kanangku ? Anjo barhalaya siagang kanre nipassareanga ri barhalaya tena sikali matu-matunna .
+46010019b	~		
+46010019c	~		
+46010029	~		Ia natabaya kanangku iamintu , teai nyawanu bata mingka nyawana anjo taua . Nia' kapang akkuta'nang angkana , " Jari , musti nibatasi kabebasangku lanri batana nyawana tau maraenga ?
+46010030	angngapa		Punna appala' sukkurukka' ri Allata'ala angkanrei kanrea , angngapa nakunacalla taua , nakule'ba'mo appala' sukkuru' mae ri Allata'ala ? "
+46011022	apa		Angngapa nakkulle kamma ? Sai massing nia' balla'nu ? Akkulleko angnganre angnginung massing ri balla'nu . Yareka erokko anghinai jama'aNa Allata'ala siagang ampakasiriki tu kasi-asia ? Jari apa musti kukana ri kau ngaseng ? Musti kupujiko ? Tena ! Tena sikali nalakupujiko !
+46012017a	antekammami		Ebara' angkana a'jari mata ngaseng mami anjo tubua , maka antekammami lakkulle allangngere' anjo tubua ? 
+46012017b	antekammami		Yareka punna a'jari toli ngaseng mami anjo tubua , maka antekammami lakkulle angngara' anjo tubua ?
+46012019	kereangami		Punna yangasenna anjo a'jari sirupaji anggota , kereangami lanikana tubu ?
+46014006	apa		Ebara'na inakke battu mae ri kau ngaseng nakua'bicara appakalannasa' mae ri kau , maka apa matu-matunna mae ri kau ? Mattantu tena matu-matunna manna sike'de' ! Simmaraengi punna kupa'nyata apa eroka Napa'nyata Allata'ala , yareka kupakasingara' apa-apa battua ri Allata'ala , yareka kupabattu biritta battua ri Allata'ala yareka kuajarakko .
+46014007	antekamma		Anjo pakkakasa' pakkelong-kelonganga tena sikali nyawana manna sike'de' sangkammaya sulinga siagang kacapia , punna tena nipasa'ra bajiki siagang punna tena naniko'bi' bajiki , antekamma batena lakkulle naasseng taua angkanaya kelong apa anjo nakelonganga ?
+46014008	inai		Nia' pole conto maraeng : Punna nipasa'ra sambarangang anjo tarompe' pa'bundukanga , maka inai lasadia ero' a'bundu' ?
+46014009	apa		Sangkamma tommi anjo ri pakkullenu a'bicara siagang a'rupa-rupa bicara appakalannasa' . Punna nupake anjo pakkullenu ampaui bicara tenaya nasingara' battuanna , ma'nassa tena manna sitau akkulle ampahangi anjo apa nupaua . Lalanynya' kale-kaleji a'jari tena matu-matunna anjo bicara nupaua .
+46014015	apa		Jari , apa musti kugaukang ? Iaminne lakugaukanga : Lappala' doanga' siagang rohku , mingka lappala' doang tonga' siagang pikkirangku . Lamakkelonga' siagang rohku , mingka lamakkelong tonga' siagang pikkirangku .
+46014016	~		Nasaba' punna rohnuji bawang appala' sukkuru' mae ri Allata'ala , nania' tau maraeng tena napahangi anjo bicara appakalannasa' battua ri RohNa Allata'ala , takkulleai anjo taua angkana , " Cocoka' " siagang anjo pappala' sukkuru'nu lalang pappala' doangannu ; nasaba' tanaassengai angkana apa anjo nupaua .
+46014026	apa		Jari , apa ngaseng battuanna anne , sari'battang ? Punna a'rappungangko ero' anynyomba ri Batara , bajiki punna nia' akkelong , nia' angngajara' , nia' ampabattui apa-apa battua ri Allata'ala , nia' a'bicara siagang bicara appakalannasaka siagang nia' ampakasingaraki battuanna anjo bicara appakalannasaka . Mingka yangasenna anjo musti nugaukangi untu' angngajara' siagang untu' kabajikannu ngaseng .
+46014036	~		Maka ikau nakabattui anjo birittaNa Allata'ala ? Yareka untu' ikauji bawang lanipabattuang anjo birittaya ?
+46015012	angngapa		Punna le'ba'mi nabirittakang ikambe angkanaya le'ba'mi attallasa' poleang ammotere' battu ri kamateanga Almasi , angngapa nania' tu battu ri kau angkana tena nalanipattallasa' poleang ammotere' tau matea ?
+46015029a	angngapa		Punna tanipattallasa' poleangang ammotere' tau matea angngapa nania' tau nije'ne' untu' tau matea ? 
+46015029b	apa		Apa matu-matunna nagaukang ke'nanga anjo kammaya ? 
+46015029c	apa		Punna tena sikali memang nalanipattallasa' poleang ammotere' tau matea , apa matu-matunna nagaukang ke'nanga anjo kammaya ?
+46015030a	~		
+46015030b	apa		Siagang apa tommi matu-matunna ikambe tuli ero' andallekangi bahayaya ?
+46015032	apa		Punna untu' pakkalinoang bawang nakunisessa angngewai sanrapang olo'-olo' nye'nyereka anrinni ri Efesus , apa passawallang lakugappa ? Punna tena memang todong nalanipattallasa' poleang ammotere' tau matea , bajikangangi : " Maeko nakiangnganre-angnginung siagang assannang-sannang , nasaba' ammuko lamate mangkajaki' " ; kammami anjo paruntu' kanaya .
+46015035a	Antekamma		Gassingka nia' akkuta'nang angkana , " Antekamma punna nipattallasa' poleang ammotere' taua matea ? 
+46015035b	Antekamma		Antekamma sallang tanja'na tubuna , punna attallasa' poleammo ammotere' ke'nanga ? "
+46015055a	kemaemi		" E , kamateanga , kemaemi pammetannu ? 
+46015055b	kemaemi		E , kamateanga , kemaemi racunnu ? "
+47002002	inaimi		Nasaba' punna kupakasi'na pa'mai'nu , inaimi lakkulle ansaleoria' , punna teai anjo tau le'baka kupakasi'na pa'mai'na ?
+47002016	inai		Jari , maka inai akkulle anggaukangi anne jamanga ?
+47003008	~		mattantu la'bi lompoangangi singara'na anjo parjanjiang Napassareanga RohNa Allata'ala ri wattunna nipare' .
+47003009	~		Punna kamma anjo lompona cayana parjanjiang anghukkungai rupataua , tantu la'bi lompoangangi pole cayana anjo parjanjiang akkullea ampakabajiki ammotere' passisambunganna rupataua mae ri Allata'ala .
+47006014a	Antekamma		Teako eroki sipa'rappungang siagang tau tenaya naero' tappa' mae ri Isa ; tena nacoco' anjo kammaya . Antekamma olona lakkulle a'jari se're kabajikanga siagang kaja'dallanga ? 
+47006014b	~		Tena olona lakkulle a'jari se're singaraka siagang sassanga .
+47006015a	~		Tena olona lakkulle assamaturu' Almasi siagang Billisika . 
+47006015b	apa		Apa sangkammanna tu Karistenga siagang tu tenaya na Karisteng ?
+47006016	Apa		Apa passisambunganna Balla' Na Batara siagang balla'na barhalaya ? Ikattemi anne sanrapang Balla' Na Batara , iamintu Allata'ala attallasaka . KalenNa Allata'ala angkana , " LammantangA' ri tangnga-tangngana ke'nanga , na Kusikatallassang siagang ke'nanga . La'jariMa' Allata'ala mae ri ke'nanga , na la'jarimo ke'nanga ummakKu .
+47011011	Angngapa		Angngapa nakuakkana kamma ? Maka lanri tenana nakukamaseangko ? Naassengi Allata'ala angkanaya kukamaseangko !
+47011029a	~		Punna nia' tau lamma , amminawang tonga' lamma kusa'ring . 
+47011029b	~		Punna nia' tau tu'guru' naung ri dosaya , posso' tongi nyawaku kusa'ring .
+47012013	apaya		Ri passala apaya nukurang nijampangi sangkamma jama'ah-jama'ah maraenga ? Kaminang jaina ri passala' iaji anne : Angkanaya tena nakususaiko untu' angngongkosia' . Pammopporanga' ri anjo kasalangku !
+47012017	Antekamma		Antekamma lakkulle ! Maka battu ri anjo sikamma tu kusuroa mae ri kau nakupanggappaiko passawallang ?
+48002014	angngapa		Kucini'na ke'nanga appakamma gio'na lalang ri anjo katojenganna Kabara' Bajika , kukanamo mae ri Petrus ri dallekanna ngaseng tau niaka hadere' anjoreng , " Punna ikau tu Yahudiko mingka sangkammami gio'nu siagang bansa maraenga , angngapa nanupassa kamma-kamma anne tau maraenga a'jari sangkamma tu Yahudia ri katallassanna ? "
+48003001	inai		Sikamma sari'battangku niaka ri Galatia ! Teai sipato' dongo'nu . Maka inai le'ba' angngajara' salako ? Le'ba'mi kupakasingara' baji'-baji' mae ri kau battuanna anjo kamateanNa Almasi ri kayu sallika !
+48003019	apa		Jari punna kamma , untu' apa padeng nanipassareang anjo hukkung agamaya ? Pialinna iamintu angkanaya , anjo hukkunga nipappitambangi sollanna nipa'nassa gau' dosana rupataua . Wattu tappakena anjo hukkung agamaya sa'gennaji kabattuanna sitau sossoranna Abraham le'baka nipau lalang ri janjinNa Allata'ala mae ri Abraham . Anjo hukkung agamaya , malaeka'-malaeka' ampabattui tete ri rupataua .
+48004009a	Angngapa		Mingka kamma-kamma anne nuassemmi Allata'ala ; yareka bajikangangi punna nikana , Naasseng mako Allata'ala . Angngapa nanuero' ammotere' poleang mae ri roh-roh niaka lalang lino , lammaya siagang kasi-asia ? 
+48004009b	Angngapa		Angngapa nuero' poleang nipare' ata ri roh-roh kammaya anjo ?
+48004010	~		Nupakalompoi allo-allo attantua , bulang-bulang attantua , siagang taung-taung attantua .
+48004015	kemaemi		Sanna' te'nena pa'mai'nu anjo wattua . Mingka kamma-kamma anne , kemaemi anjo te'nenu ? Kuassengi angkanaya anjo wattua ka'de' akkulle kapang , manna matannu ero' tonjako angkocciki assulu' nampa nupassareang mae ri nakke .
+48004021	~		Inai-nai ero' attallasa' irawangang kakoasanna hukkung-hukkung agamaya , pilangngerimi anne kanangku ! Erokko kupauang apa sitojenna tattulisika lalang ri Kitta' Hukkung napassareanga Musa .
+48004030	apa		Mingka apa nakana pole lalang ri Kittaka ? Nia' tattulisi' angkanaya : " Suroi a'lampa anjo baine ataya siagang ana'na , nasaba' anjo ana' battua ri baine ataya tena nakkulle lannarima warisi' sangkamma anjo ana'na baine bebasaka . "
+48005007a	angngapa		Riolo attojeng-tojeng mako anggaukang bajiki jama-jamannu ! Mingka kamma-kamma anne , angngapa natenamo numannuruki mae ri ero' Na Allata'ala ? 
+48005007b	inai		Inai le'ba' anynyonyo' salako ?
+48005011	apa saba'na		Na inakke , sari'battangku ngaseng , apa saba'na nakutuli nimusu punna kubirittakang angkanaya parallui anjo paratoranna sunnaka ? Punna kamma memang anjo kubirittakanga , tenamo na'jari passala' punna kubirittakang anjo Salli' Na Almasi .
+49004009	~		Jari , punna nikana " naiki " battuanna Iami uru-uru le'baka naung sa'genna ri tampa' kaminang rawaya ri anne buttaya .
+50001018	antekamma		Mingka tena nangngapa ! Nasaba' manna pole antekamma , iaka nanigaukang anjo jamanga lanri pattujuang baji' yareka napattujuang sala , mingka kanibirittakang mangkaji Almasi ; jari , sannangi kusa'ring pa'maikku . Na tuli lakammana sannanna pa'maikku ;
+50001021	~		Nasaba' untu' inakke , mangeanna tallassakku iamintu Almasi bawang ! Na matea iamintu upakku .
+51002020	angngapa		Le'ba' mako mate siagang Almasi , siagang nilappassang battu ri roh-roh makoasaya ri anne linoa . Jari , angngapa nuttallasa' sangkamma ija tau nikoasaia ri anne linoa ? Angngapa nutundu' mae ri paratorang-paratorang angkanaya ,
+52002019	~		Tojeng-tojengi angkanaya ikau ngasemmi panrannuanna siagang karannuanna ikambe . Nasaba' punna battu sallang Batara Isa , nakiandallekang ri Ia , ikau ngasemmi nakalompoang nyawana ikambe !
+52003009	~		Teai sipato' lompona kasukkuranna ikambe mae ri Allata'ala lanri sikontu karannuang nagappaya ikambe ri dallekanNa Allata'ala passabakkang ikau ngaseng .
+54003005	antekamma		Nasaba' punna tanaassenga taua angngatoroki tubone balla'na , antekamma batena lakkulle angngatoroki jama'aNa Allata'ala ?
+54006007a	~		Nasaba' tena sikali apa-apa nierang antama' ri anne linoa . 
+54006007b	~		Kammayatompa tena sikali todong apa-apa akkulle nierang punna nibokoi anne linoa !
+58001005	~		Tena le'bakai Allata'ala akkana kamma anne mae ri se'reang malaeka' , " Ikaumi AnakKu ; anne alloa iNakke a'jari ManggeNu . " Tena le'baka tongi Allata'ala akkana kamma anne ri sesena se'reang malaeka' , " INakke la'jari ManggeNa , na Ia la'jari AnakKu . "
+58001013	~		Tena le'bakai Allata'ala akkana kamma anne mae ri se'reang malaeka' , " Maeko ammempo ri sa'ri kanangKu , sa'genna Kusuro ngaseng akkulantu' sikontu musunnu ri dallekannu . "
+58001014	apai		Jari punna kamma , apai sikontutojenna anjo malaeka'-malaekaka ? Anjo ke'nanga , iamintu roh-roh allayaniai Allata'ala , siagang nisuroa ri Allata'ala antulungi sikontu tau lannarimaya kasalamakkang .
+58002003	~		La'biangampa pole anjo kasalamakkang hebakkanganga na anjo sikamma pappasanga . Punna tena nanijampangi anjo kasalamakkanga , mattantu takkulleaki' lata'lappasa' battu ri hukkunganga . Nasaba' KalenNa Batara uru-uru ampa'la'bangi anjo kasalamakkanga ; na sikamma tau uru-uru allangngerekai le'ba'mi napa'butti katojenganna mae ri katte .
+58002006a	apai		Kabalekanna , nia' tattulisi' lalang ri Kittaka angkana , " Apai kutadeng anjo rupataua , o Allata'ala , sa'genTa ero' angngu'rangi ? 
+58002006b	~		Anjo rupataua poro tauji bawang , mingka erokKi' anjampangi !
+58003016	inaika		Jari , inaika anjo tau allangngerekai sa'ranNa Allata'ala nampa nabali Allata'ala ? Sai yangasemmi anjo tau le'baka napimping Musa assulu' battu ri butta Mesir ?
+58003017	inaika		Siagang inaika Nakalarroi Allata'ala patampulo taung sallona ? Sai iami anjo ke'nanga dorakaya siagang matea ri parang lompoa ?
+58003018	inai		Ri wattunna assumpa Allata'ala Nakana , " Talantamayai ke'nanga ri tampa' pammari-mariangKu , sipammari-mariang siagang iNakke , " maka inai nataba anjo kananNa Allata'ala ? Sai iami anjo tau ambaliai Allata'ala nataba ?
+58006004	~		Nasaba' tenamo olona lanirurungang ammotere' tau ammono'bokoa . Riolo nia'mi ke'nanga lalang ri kasingaranNa Allata'ala , siagang nakasia'mi passareNa . Kammayatompa amminawang tommi ke'nanga nikoasai ri RohNa Allata'ala .
+58007011	~		Irawangang pimpinannai imang-imang Lewi nanipassareang hukkung agama Yahudia mae ri umma' Israelka . Lanri riolo , takkulleai nagaukang imang-imang Lewi sa'genna sukku' baji'na anjo jama-jamang musti nagaukanga ke'nanga , jari musti nia' imang maraeng , iamintu sangkammaya Imang Melkisedek ; jari teaimi imang battu ri golonganna Harun .
+58009014	~		la'biangampa pole cera' Na Almasi . Tete ri Roh mannannunganga , Napassareammi KalenNa Almasi mae ri Allata'ala a'jari koro'bang sukkuka baji'na . Cera' Na antangkasi ati mailalanta battu ri upacara agama tenaya matu-matunna sollanta akkulle a'jari palayang mae ri Allata'ala mattallasaka .
+58010001	antekamma		Anjo hukkung agama Yahudia , poro pangngebarang bawang mae ri katte ri apa-apa baji' labattua ; teaipi sitojennaya ri anjo passalaka . Taung-taungi tuli sakamma-kammana anjo koro'bang nipassareanga . Jari , antekamma batena lakkulle anjo hukkung kammaya siagang koro'bang kammaya ampasukkuki tangkasa'na tau battua anynyomba mae ri Allata'ala ?
+58010029a	~		Teaimi sipato' la'bi battala'na musti hukkunganna tau angngonjo'-ngonjokangai Ana' Na Allata'ala . 
+58010029b	~		Napakatunai cera' passijanjianNa Allata'ala , 
+58010029c	~		iamintu kamateanNa Almasi antangkasiai dosana . 
+58010029d	~		Nahinai Roh assarea passare malammoro' .
+58011032	~		Jari , akkullei jai pole lakubicara , mingka tagannakkai wattungku . Nasaba' tenapa nakurapiki kupau Gideon , Barak , Simson , Yefta , Daud , Samuel , siagang na'bi-na'bia .
+58012007	~		Parallui nutarima paccambo' battua ri Allata'ala salaku pangngajara' battua ri manggenu . Nasaba' niakka ana' tale'baka nihukkung ri manggena ?
+58012009	~		Nia' manggeta ri lino . Naajarakki' siagang nipakala'biriki . Jari , la'biangampa mae ri Mangge rohanita , niaka ri suruga , tantu musti la'bi tundukki' mae ri Ia sollanta attallasa' .
+58012025	~		Lanri kammana , tutu laloko , gassingka taerokako ampilangngeri kananNa Tau ampabattuai biritta battua ri Allata'ala . Ia tau tenaya naero' ampilangngeri biritta nipabattua battu ri Allata'ala lalang ri anne linoa , takkulleai allariangi kalenna . La'biangampa ikatte anne , allangngerekai anjo a'bicaraya battu ri suruga ! Punna taerokaki' ampilangngeri , antekamma bateta lakkulle ta'lappasa' .
+58013006	Apa		Lanri kammana kibaranimo angkana , " Batara Pannulungku , tenamo nakumalla' . Apa lakkulle nagaukang taua mae ri nakke ? "
+59002006	~		Mingka ikau nuhinai tu kasi-asia ; na sikontutojenna iaji anjo tu kalumanynyanga anjallakkangko siagang anre'resangko mange ri pangadelanga !
+59002014	Apa		Sikamma sari'battangku ! Apa matu-matunna angkana taua , " Inakke tappakka' , " punna tena napa'nyatai anjo katappakkanna lalang ri panggaukanna ? Maka akkullei anjo katappakkang kammaya ampasalamaki anjo taua ?
+59002016a	apa		Apa matu-matunna punna nukana ri anjo taua , " Salamakko ammake pakeang kammu' siagang salamakko ri mangnganrenu ! " -- 
+59002016b	apa		punna tena nusarei anjo apa naparalluia ri tallasa'na ?
+59002018	~		Gassingka nia' tau angkana , " Nia' tau tanjeng ri tappa'na siagang nia' todong tau tanjeng mae ri panggaukanna . " Lakukanamo ri ia , " Picinikiangsa' antekamma batena akkulle taua nikana tappa' mingka tena na'nyata lalang ri panggaukanna , nampa kupicinikiang todong lalang ri panggaukangku untu' ampa'nyatai angkanaya ma'nassa nia' tappakku . "
+59002021	~		Ciniki anjo boe-boeta Abraham . Nitarima bajiki ri Allata'ala lanri panggaukanna , iamintu ri wattunna napassareang ana'na , iamintu Ishak , mae ri Allata'ala irate ri tampa' pakkoro'bangnganga .
+59003013	~		Punna nia' tau cara'de' siagang baji' ateka' ri tangnga-tangnganu , parallui napappicinikang katallassang bajika , nagaukangi apa-apa bajika , kammayatompa cara'deki na tuna pa'mai' ri katallassanna .
+59003017	inai		Mingka inai ampatangi kacara'dekang battu ratea ri suruga , iami maci'nong , nangai assiamaka , sombereki , siagang mappilangngeri . Iami sanna' jaina pangngamaseanna siagang a'nyatami panggaukang-panggaukang baji'na . Tena nabattala' siali , siagang tena nangai assara-sarai .
+59004001a	kemae		Battu kemae assala'na 
+59004001b	~		passiba'jianga siagang pa'beseranga ri tangnga-tangnganu ? Sai battu ri sikamma cinna tuli a'besereka lalang ri kalennu untu' anggappai kasannangang linoa .
+59004012	inaiko		Na sikontutojenna se'reji nia' ha'na assarei hukkung siagang angngadeli rupataua . Iamintu Allata'ala , niaka kakoasanNa ampasalamaki siagang anghukkungi rupataua . Jari , inaiko antu , sa'gennu akkulle ansalakangi parannu tau ?
+59004014	Apa		Apa lakajariang lalang ri katallassannu ammuko , tena sikali nanuassengi ! Sanrapang le'ba' jako umbu sinampe' duduaji kacinikang , nampa a'lanynya' .
+60002020	apa		Nasaba' apa kala'bianna punna sa'barakko angkasiaki hukkungang siratang memang todonga nutarima lanri kasalannu ? Mingka punna sa'barakko antarimai kasessang antujuako lanri nugaukanna katojenganga , laNabarakkaki mako Allata'ala .
+60003013	Inaika		Inaika ero' a'gau' ja'dala' mae ri kau , punna nungai a'gau' bajika ?
+60004017	antekammami		Narapi'mi wattunna laNaadeli Allata'ala linoa . Na Umma' KalenNa Allata'ala laniadeli la'bi riolo . Jari punna lappakkaramula angngadeli Allata'ala ri katte , antekammami kajarianna sikamma tau tenaya natappa' ri anjo Kabara' Baji' battua ri Allata'ala ?
+60004018	apami		Nia' tattulisi' lalang ri Kittaka angkanaya , " Punna sikamma tau bajika sukkara'mi lanipasalama' , apami lakajariang mae ri sikamma tau doraka tenaya natappa' mae ri Batara ! "
+61003004	Kemaemi		nakana , " Sai nukana a'janji Batara labattu ! Kemaemi kamma-kamma anne ? Matemi boe-boeta , mingka yangasenna apa-apaya tuli kammana ri uru nipa'jarina linoa ! "
+61003011	antekammami		Nasaba' yangasenna anjo sikammaya laniancuru' kammai anjo batena , antekammami batenu musti attallasa' ? Jari musti nutangkasimi katallassannu ri dallekanNa Allata'ala , siagang mappilangngeri mako mae ri Ia ,
+62002022	~		Ia a'balle-ballea iamintu tau angkanaya teai Karaeng Mappasalama' Napa'janjianga Allata'ala anjo Isa . Iaminjo taua MusunNa Almasi ; tena namangakui anjo Manggea siagang Anaka .
+62003012	Apa saba'na		Teako sangkammai Kain , ia battua ri I Ja'dala' assala'na , siagang ambunoai sari'battang kalenna . Apa saba'na nanabuno Kain sari'battanna ? Nasaba' salai anjo apa-apa nagaukanga mingka annabai anjo apa-apa nagaukanga sari'battanna .
+62003017	antekamma		Punna nia' tau angkammai pa'barang-baranganna linoa , nampa nacini' paranna tau kakurangang , mingka taerokai antulungi anjo paranna tau , antekamma lakkulle nikana nakamaseangi Allata'ala ?
+62004020	~		Punna nia' tau angkana , " Kukamaseangi Allata'ala , " mingka nakabirisi paranna tau , paballe-ballei anjo taua . Nasaba' inai-nai tena nakamaseangi paranna tau , iamintu nacinika matanna , tena olona lakkulle nakamaseang Allata'ala , ia tenaya naciniki .
+62005005	Inaika		Inaika akkulle ambetai lino ja'dalaka ? Iaji bawang tau tappaka angkanaya anjo Isa , Iami Ana' Na Allata'ala .
+66005002	Inai		Nampa nia' kucini' se're malaeka' sannaka kassa'na akkiok-kio' lompo nakana , " Inai siratang anreppeki anne segeleka siagang ansungkei anne kittaka ? "
+66006010a	Siapapi sallona		Akkio' lompomi ke'nanga angkana , " O Batara Kaminang Koasaya , Ia matangkasaka na tojeng ! Siapapi sallona nampa Kiadeli tuma'buttaya ri lino siagang Kihukkung ke'nanga lanri nabunona ikambe ? "
+66006010b	~		
+66006017	~		Battumi anjo allo sannaka heba'na ; kamma-kamma anne napassulu' ngasemmi larrona ke'nanga , siagang tenamo manna sitau akkulle attahang ri dallekanna ke'nanga ! "
+66007013a	inai		Akkuta'nammi kalase'renna anjo pamimpinga mae ri nakke angkana , " Inai ngaseng anne tau ammakea juba kebo' siagang 
+66007013b	kemae		battu kemae ngasengi ke'nanga ? "
+66013004a	~		Nasombami ke'nanga anjo naga le'baka assarei kakoasang anjo olo'-oloka . Kammayatompa anjo olo'-oloka nasomba tommi ke'nanga . Nakanamo ke'nanga , " Tenamo sangkammanna anne olo'-oloka ! 
+66013004b	~		Tenamo akkulle angngewai a'bundu' . "
+66015004a	inai		Inai tamallakka ri Katte , Batara ? 
+66015004b	inai		Inai taeroka ampa'la'bangi kalompoanTa ? IKatteji bawang matangkasaka . Sikontu bansaya labattui anynyomba ri Katte , nasaba' nacini' ngasemmi sikontu taua kaadelang le'baka Kigaukang . "
+66017007	Apa saba'na		Nampa nakana anjo malaekaka ri nakke , " Apa saba'na nanulannasa' kamma ? Baji'mi nakupauangko rahasiana anjo bainea siagang rahasiana anjo olo'-olo' nadongkokia , iamintu olo'-olo' tujua ulunna siagang sampuloa tanru'na .
+66018018	~		Siagang ammarrammi ke'nanga ri wattunna nacini' ke'nanga nai' umbu pepe' angkanreai anjo kotaya . Nakana ke'nanga , " Tenanniakkapa kota maraeng assangkamma anne kota lompoa ! "

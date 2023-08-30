@@ -1,0 +1,743 @@
+40002002	Mangue		Ũquɨ̃ ngue ñee ngaẽ judíos je ra . — ¿ Mangue judíos rerecua mangue re ? Ae nyaacuquia ramo nae ¿ mangue mangue re ? Uremae ngue nyasitata embae rese ra . Ureɨco mose ure récuaa . Nyebe urechu nguiã erea co . Urecoi rã urenia ndese ñee ee . ¿ Ma eriqui ma nde ? ɨ que mbia aquiatu ñee judíos je ra .
+40002004	Mangue		Herodes que “ jenyu ” ɨ sacerdote rerecua ja je ra . Embesasa ja je abe que “ jenyu ” ɨ ra . — ¿ Mangue ra Cristo nyaacuquia mangue re ? “ Hue ra nyaacuquia ” ¿ ɨ embesa ji re ? ɨ que Herodes ñee ee ra .
+40003007	~		Fariseos tubɨrɨã abe que ngaẽ ngaẽ tuchɨ quia Juan ndea ra . Saduceos tubɨrɨã abe no . Juan ngue ñee asite ũquɨ̃ je ra . — Mbeɨ rã ño jẽɨngo nguiã ã . Mbae ɨcuã nda tu mbia je nae , ¿ ũquɨ̃ nɨɨ ño jenyu quia uchã serea co re ?
+40005013	~		Embiquesa rã ño jẽɨngo nguiã mbia je ã . Sã embiquesa turãte no . Eɨse quiachamba mose , eɨcuã tuchɨ ra cote . Mbia ra emombo chõ cote . Mbia ra irõ ño erese .
+40005046	mbae		Ae eturãte riqui mbia jẽje nae , ũquɨ̃ achõ je jẽturã mose , eɨcuãte ũquɨ̃ . Mbia ɨcuã abe mbae turã saãte uquiato achõ je . Eɨ̃ jenyechɨ̃ nda jẽ .
+40005047	~		Jẽquiato achõ je jeñee turã mose , aba biãte ũquɨ̃ . Eɨ̃ ño Dios quiatoã abe nguiã ñee turã uquiato je .
+40006027	~		Mbi a ae ra tiarõ eã . “ Se ra atiarombe ” , ɨ raque ndua ndua uchɨangui re . Dios ae mbia mbutiarõ nguiã .
+40006028	ma		“ ¿ Ma tiru ra nandemingue re ? ” jenyechɨ̃ nda pare pare ɨ jẽ . Sã mbae uti no . Sã mbae uti turãte riqui no . Mbae ao ao eã ndaque . Ninyu mburirã ndirã eã ndaque .
+40006031a	mbae		“ ¿ Mbae ra nandeu re ? ” jenyechɨ̃ nda pare pare ɨ jẽ . 
+40006031b	mbae		“ ¿ Mbae ra nandembei re ? ” jenyechɨ̃ nda pare pare ɨ jẽ . 
+40006031c	ma		“ ¿ Ma tiru ra nandemingue re ? ” jenyechɨ̃ nda eno jẽ .
+40007003	Mbaerã		¿ Mbaerã jẽɨngo “ eɨcuã ” ɨ emo je re ? Jẽ jẽɨcuã tuchɨ mose esɨ . “ Mbae ñetẽ ndiqui nderésaa aque ” , jenyechɨ̃ nda emo je , jẽ mbae cuasu rerequia mose jendésaa jẽ nguiatu .
+40007004	~		“ Mbae turã ndese chõ jẽɨngo ” , jenyechɨ̃ nda jẽ jẽɨcuã mose jẽ . “ Mbae ñetẽ tasirõ nderesa sɨ ” , jenyechɨ̃ nda mbae cuasu siqui mose jendésaa jẽ . Jẽ nguia jẽturã jẽsaã saã ñote nguiã aque . Jẽ nane nguia jẽturã ndiqui . Aquere quia jeñee emo mingo turã cote .
+40007009	~		Jendiirĩ “ mbichae embu seje ” ɨ mose , ¿ sɨta ra eru mee ee re ?
+40007016a	~		Sã ira ae e a ae ae no . Uva a rã eã nda nyu a ɨa no . Ea ae eno nde . Higo a rã eã nda isio rashɨ̃ a no . 
+40007016b	~		Ea ae eno nde .
+40008026	Mbaerã		Jesús que ñee uchɨmbaaquiat u je ra . — ¿ Mbaerã jẽsiquichete riqui re ? ¿ Seɨcuayãte equia ã nde ? ɨ que Jesús ñee ee ra . Nyuruã ngue ñee asite quɨrɨrɨã je cote ra . Ama je abe no . Quɨrɨrɨã ngue ti ɨ echeẽ mose cote ra . Ama abe .
+40008027	~		Echɨmbaaquiatu que nyuruɨra tuchɨ mae Jesús quirãcuã ndese ra . — Quɨrɨrɨã echeẽ mumbayã ñochɨ̃ . Ama abe echeẽ mumbayã ñochɨ̃ , ɨ que ñee ñee nyue cote ra .
+40008029	Mañɨ		Ũquɨ̃ ngue ñee asite cuaẽ Jesús je ra . — ¿ Mañɨ ere ra equia ure je re , Jesús ? Dios rucucha chõ nde re . ¿ Urembasi jeɨ sacuã ño erechu aa re ? ɨ que ñee tuchɨ Jesús je ra .
+40009004	Mbaerã		Jesús que ũquɨ̃ ndua ndua ɨcuate quia ra . Nyebe ñee nguiã ee cote . — ¿ Mbaerã jẽɨngo ndua ndua ɨcuã nde ?
+40009005	ma		¿ Ma mbaranguiatuã eã jiri jẽje re ? ¿ Mbia ɨcuã mbutiã esɨ ere ? ¿ Mbia rasi mbucherõ ere no ? ¿ Ma mbaranguiatuã eã jiri jẽje re ?
+40009011	Mbaerã		Fariseos que ñee ɨcuãte Jesús chɨmbaaquiatu je ra . — ¿ Mbaerã Jesús riqui quiaru mbia ɨcuãte rese re ? ɨ que ñee nda .
+40009014	Mbaerã		Juan ñɨmbaaquiatu que ngasẽ ñee Jesús je ra . — Ure quia ureɨco nguiã huɨ huɨ urechɨu sɨ ã . Fariseos chɨmbaaquiatu abe huɨ huɨ quia uchɨu sɨ no . ¿ Mbaerã ndechɨmbaaquiatu riqui huɨ ãte uchɨu sɨ ã nde ? ɨ que ñee Jesús je ra .
+40009015	~		Jesús que ñee ee ra . — Sã emo ndiqui ngũinisirã isi ramo no . Sã eresenda iate riqui quiaru erese no . Sã eriqui huɨ aroneate uchɨu sɨ aque mose no . Sã eru riqui mano emo mose no . Aque mose quiatu ra equiato huɨ uchɨu sɨ cote .
+40010025	~		Coche jẽɨngo nguiã se rã sɨ . Sã mbia ɨcuã ɨcuãte riqui seje no . Eɨ̃ sɨ ra eɨcuã ɨcuã jẽje no . Sã mbia “ Satanás ” ɨ ñee ɨcuã seje no . Eɨ̃ sɨ ra ñee ɨcuã ɨcuã jẽje no . Serimba je no .
+40011007	Mbae		Juan ñɨmondo que nyebi nyoɨ Juan ndea cote ra . Jesús que ñee mbia ja je Juan nɨɨ cote ra . — ¿ Mbae rese mae jẽso turúquiaa re ? ¿ Quɨrɨrɨã idioi ɨchu ɨchu rese chõ jẽso mae nde ? Quɨrɨrɨã ndese mae eã ngue jẽso resẽ .
+40011008	~		¿ Emo ɨrao turã ndese jẽso mae nde ? Ũquɨ̃ ndese eã ngue jẽso mae ndesẽ . Eɨrao turã siquíã nguiã turuquia ñɨ . Ae siqui quia mbia rerecua chuchua nae , ũquɨ̃ nguia eɨrao turã ndiqui nguiã .
+40011009	~		Juan ndese mae ño ngue jẽso turúquiaa resẽ . Dios cheẽ nenei neneisa tuchɨ chõ ae mbia mo sɨ re . Ae chõ mbia mingoquiatu quiatu nguiã se ñee sacuã mbia je .
+40011016	~		Mbia namonda siqui turã eãte quia aba cheẽ nduɨ ã . Mbia riirĩ na ño eriqui nguiã ã . Sã mbia riirĩ ndiqui ñumbusareɨ sareɨ no .
+40012011	Sábado		Jesús que ñee ee ra . — Sã jenimba oveja mo ndiqui jaã no . Ngoɨ oso ibicua mo ye no . ¿ Sábado mose ra jenosẽ ibicua sɨ re ? Ae . Jenosẽ jeɨ rae . Sábado mose raque .
+40012026	Mañɨ		¿ Mañɨ nda Satanás aba checuayã jea mbia sɨ re ? Erimba chõ nyeresẽ . Satanás ɨcuã ɨcuã mose nyue , equirãcuã nda ua no .
+40012027	aba		“ Satanás quirãcuã je chõ Jesús riqui nguiã aba checuayã jea jea mbia sɨ ” , jenye chõchɨ̃ nguia seje ã . ¿ Aba uquirãcuã mee jenimba je jẽ nde ? Aba checuayã ɨcuã jea nonde re . ¿ Satanás uquirãcuã mee jenimba je serese re ?
+40012029	~		Satanás quirãcuã tuchɨte raque . Umbae rese ngueteãte raque . “ Sembae chɨ turãte a ” , ɨ raque . Dios quiarei equirãcuã tuchɨ Satanás sɨ . Dios Satanás mbae sirõ ja arõte quia esɨ co . Dios Satanás mbae mbutiã ja arõte quia co .
+40012034	~		Mbeɨ rã ño jẽɨngo nguiã . Jẽɨcuã ño jẽɨngo nguiã . Nyebe jeñee turã aquiatu ãte riqui ã . Ae rese mbia riqui ndua ndua uchɨangui re nae , ũquɨ̃ nɨɨ sɨ́ ra ñee .
+40012048a	aba		Jesús que ñee umbiirandusa je ra . — ¿ Aba je chõ aɨco “ taĩ ” ɨ chã ? 
+40012048b	aba		¿ Aba je chõ aɨco “ senongue ” ɨ no ña ? ɨ que Jesús ñee nda .
+40013010	Mbaerã		Jesús chɨmbaaquiatu que ñee nyecuayã Jesús ísaa ra . — ¿ Mbaerã ejemplos achõ eresenei senei mbia je re ? ɨ que echɨmbaaquiatu ñee ee ra .
+40013027	Mbaerã		Nyebe erimba ñee nguiã echa je . “ Trigo eɨ̃ achõ eremombiquia mbiquia reɨ̃ nguiã seje . ¿ Mbaerã nyu abe riqui suri suri erese re ? ” ɨ que ererecua je ra .
+40013054a	Mangue		Oso que ngasẽ nguecua Nazaret cote ra . Oso que mbia mbaaquiatu judíos chumunuásaa ra . Nyebe mbia nyuruɨra tuchɨ nguiã ñee nyue . — ¿ Mangue eriqui ñɨmbaaquiatu tuchɨte re ? Nandemae sayã esaã saã tuchɨchɨ̃ nguia re .
+40013054b	~		
+40013056	Mañɨ		Ã echari abe riqui ja raque nanderese ã . ¿ Mañɨ equia mbae ɨ cua ja tuchɨte re ? ɨ que mbia Jesús recu a jenda ñee nyue ra .
+40014031	Mbaerã		Ae Jesús o mondo nguiã eo isi . — Seɨcuayã ñochɨ̃ . ¿ Mbaerã ereɨco seɨcuayãte re ? ɨ que Jesús ñee ee ra .
+40015002	Mbaerã		Ũquɨ̃ ngue ñee Jesús je ra . — ¿ Mbaerã ndechɨmbaaquiatu riqui nanderameɨ ñee mumba mumba beɨte re ? Echoɨ quiiriã mbeɨ chõ quiaru nguiã , ɨ que ñee asite Jesús je ra .
+40015003	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã jẽɨngo Dios cheẽ mumba mumba jẽ nde ? Jenameɨ ñee ndese chõte jẽɨngochɨ̃ nguiã ã . Siqui rocoɨ̃ Dios cheẽ ndese .
+40015033	Mañɨ		Echɨmbaaquiatu que ñee ee ra . — Turúquiaa chõ nandeɨco a resẽ . ¿ Mañɨ nda aba ã mbuquiaru ja re ? Mbae eã tuchɨte a resẽ , ɨ que echɨmbaaquiatu ñee Jesús je ra .
+40015034	Manya		— ¿ Manya mbichae jembae re ? ɨ que Jesús ee ra . — Siete mbichae . Sɨra ñetẽ mo ndese , ɨ que ee ra .
+40016008	Mbaerã		Jesús que echeẽ ñee ɨcuate ra . Nyebe ñee nguiã ee . — ¿ Mbaerã jẽɨngo “ mbichae nanderuãchɨ̃ ” ɨ re ? ¿ Mbaerã jẽɨngo seɨcuayãte re ?
+40016009	manya		Ae rɨɨ̃ aɨco ñee jẽje nae , ¿ ũquɨ̃ jẽɨcuayã mbeɨte quia re ? Se mbichae mbeta mose ¿ ũquɨ̃ sɨ jẽtesareɨ chõ nde ? Cinco mbichae mbeta mose mbia cinco mil je , ¿ manya iru jemombisẽ mbichae sique sique je re ?
+40016010a	~		Siete mbichae mbeta mose mbia cuatro mil je 
+40016010b	manya		¿ manya iru jemombisẽ mbichae sique sique je no ?
+40016011	~		Secheẽ mose jẽje nyii , “ mbichae mbuchɨmatãsa rã ndei fariseos cheẽ ” , ɨ mose jẽje , secheẽ jẽɨcua rã . Mbichae rɨɨ̃ aɨco ñee ãte jẽje co . Fariseos cheẽ ndese jẽɨngo eã sacuã ño aɨco nguiã ñee jẽje . Saduceos cheẽ ndese abe jẽɨngo eã sacuã , ɨ que Jesús ra .
+40016013	aba		Jesús que nyoɨ Cesarea de Filípoo cote ra . Huee que ñee uchɨmbaaquiatu je cote ra . — Mbiarã ngue achu íbii ra . ¿ Aba aɨco reɨ̃ se mbia je re ? ɨ que Jesús ñee ee ra .
+40016015a	~		
+40016015b	aba		— ¿ Aba aɨco reɨ̃ jẽje co re ? ɨ que Jesús ee ra .
+40016026a	~		Emo ngueco mumba chooño mose , eya eã mbeɨ rae . Mbaecha rete raque . 
+40016026b	~		Emo ngueco mumba chooño mose , mbae mo eãte ereco rɨbɨshorõ sacuã .
+40017010	Mbaerã		Echɨmbaaquiatu que ñee ee cote ra . — ¿ Mbaerã “ Elías rane nda tu Cristo sɨ ” ɨ embesasa re ? ɨ que ñee Jesús je ra .
+40017017a	Mañɨ		Jesús que ñee cote ra . — ¿ Mañɨ jenye quia seɨcuayãte re ? ¿ Secheẽ jemumba tuchɨ chõ nguia re ? ¿ Ñimbirãcuã mbeɨte ra aba quia jẽje re ? ɨ que Jesús ra . — Eriirĩ jendu rã seje , ɨ que cote ra .
+40017017b	~		
+40017019	Mbaerã		Aquere que echɨmbaaquiatu ñee Jesús ísaa ra . — ¿ Mbaerã ureɨco aba checuayã jea aroneate mbia sɨ re ? ɨ que ñee Jesús je ra .
+40017025a	~		— Impuestos emee mee mbeɨte quia co , ɨ que Pedro ee ra . Pedro que oso ɨque tuchúaa cote ra . Jesús rane ngue ñee ee ra . — Ɨ ere , Pedro . 
+40017025b	aba		¿ Aba je mbia rerecua riqui “ impuestos jemee na seje ” ɨ re ? Ɨ eã nda nguiirĩ je . Mbiamo je chõ nda ñee nguiã , ɨ que Jesús ee ra .
+40018001	Aba		Aque mose que echɨmbaaquiatu ñee jate Jesús je ra . — ¿ Aba ra ererecua tuchɨ ure nderese re ? ɨ que ñee Jesús je ra .
+40018012	~		Sã emo nimba quiachã oveja no . Cien ndei ngue erimba re . Co mɨɨ ngue quiachã ee ra . Aque esɨ quia quiachã je requia aque . Eataque recha . Noventa y nueve recha .
+40018021	manya		Pedro que ñee Jesús je ra . — Seresenda ɨcuã mbeɨ mose seje ¿ manya veces ra atesareɨ eɨcuã sɨ re ? ¿ Siete veces ra re ? ɨ que Pedro ra .
+40019007	Mbaerã		Fariseos que ñee ee cote ra . — ¿ Mbaerã Moisés ñee ũquɨ̃ nde ? “ Jeninisi jea nonde , papel mbesa je jemondo ee ” , ɨ ee re , ɨ que ra .
+40019016	Mbae		Acuanɨndu mo ngue tu ñee Jesús je ra . — Mbia mbaaquiatusa turãte nde . ¿ Mbae turã mo nda asaã Dios je semingo beɨ sacuã nde ? ɨ que ñee Jesús je ra .
+40019017	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã ereɨco eturã ɨ seje re ? Dios mɨɨ ño eturã ndesẽ . Nde ndeɨco beɨse mose , Dios cheẽ emumbayã ja , ɨ que Jesús ñee e e ra .
+40019018	Mbae		— ¿ Mbae ra amumbayã Dios cheẽ nde ? ɨ que acuanɨndu ee ra . Jesús que ñee ee ra . — “ Mbia mo nda ereɨquiachɨ̃ . Emo ninisi rese ra ereɨcochɨ̃ . Mbae mo nda erembuquiachãchɨ̃ . Erecheẽ ñooñochɨ̃ nda emo nɨɨ .
+40019020	Mbae		Acuanɨndu que ñee ndei ee ra . — Ũquɨ̃ ngue amumbayã ja beɨ quia ra . Señetẽ mosenda beɨ . ¿ Mbae mo abe ra asaã nde ? ɨ que acuanɨndu ñee Jesús je ra .
+40019025	Aba		Echɨmbaaquiatu que nyuruɨra tuchɨ echeẽ andu ra . — ¿ Aba quia ra oso Dios rea ibate re no ? ɨ que echɨmbaaquiatu Jesús je cote ra .
+40019027	Mbae		Pedro que ñee Jesús je ra . — Ure que urembae uresech a ja ra . Siqui sacuã nderuɨ . ¿ Mbae ra eremee ure je re ? ɨ que Pedro ñee nda .
+40020006	Mbaerã		Tenda ɨreɨ̃ mose abe que mae emo ndecoteã eã ndese no nda . “ ¿ Mbaerã jẽɨngo tenda mondochooño siqui rocoɨ̃ mbae mo ndese a re ? ” ɨ que echa ñee ee ra .
+40020012	Mbaerã		“ Ae ɨque ramo eresaitõ nae , ũquɨ̃ ngue mbae ɨshao shao eã jiri resẽ . Eresaitõte que ɨque . Ure quiatu que tenda uremumba rei uva a ɨshao shao ndeje . ¿ Mbaerã mbae isiquia eremee ee ure rã sɨ chõ nde ? ” ɨ que ñee echa je ra .
+40020021	Mbae		— ¿ Mbae ra aba saã ndeje re ? ɨ que Jesús ñee ari je ra . Ari que ñee ee ra . — Ndeɨco mose ererecua tuchɨ , sã seriirĩ abe riqui ererecuarã nderese . Sã seriirĩ ngoi ja u ndejii . Enongue chɨ̃ ngoi ndequito cuti . Enongue ndequiato cutiã no , ɨ rei que ari ñee Jesús je ra .
+40020032	Mañɨ		Jesús que tiba ñee ee cote ra . — Jenyu rã . ¿ Mañɨ ae ra jẽje re ? ɨ que Jesús ñee eresayã je ra .
+40021010	Aba		Jesús que ngasẽ Jerusalén cote ra . Mbia hue jenda ia tuchɨ que o o ja erese ra . — ¿ Aba co re ? ɨ tuchɨ que equia Jesús rɨɨ̃ nda .
+40021016	~		— ¿ Mbia riirĩ ñee erechandu quia re ? ɨ que ũquɨ̃ ñee Jesús je ra . Jesús que ñee ee cote ra . — Ae . ¿ Embesa ji rese jemae eãte re ? “ Dios ra mbia riirĩ mbucheẽ turã uturã nɨɨ ” , ɨ que embesa ji ra , ɨ que Jesús ñee ererecua je ra .
+40021020	Mañɨ		Echɨmbaaquiatu que nyuruɨra tuchɨ mae erese ra . — ¿ Mañɨ higo i quia ñɨmama asite mano nde ? ɨ que ñee Jesús je ra .
+40021023a	Mbaerã		Jesús que oso Dios chuchúaa ra . Huee que eriqui mbia mbaaquiatu quiatu ra . Sacerdote rerecua que nyoɨ ñee ee ameɨ ndese ra . — ¿ Mbaerã ereɨco mbia mbaaquiatu quiatu Dios chuchúaa re ? 
+40021023b	aba		¿ Aba “ ũquɨ̃ esaã saã ” ɨ ndeje re ? ɨ que ererecua ñee ja Jesús je ra .
+40021025a	aba		¿ Aba ñee Juan je re ? “ Eso bautizar ɨ mbia je ” ɨ ee re . ¿ Dios eã ño ere ? Jeñee seje , ɨ que Jesús ee ra . Ererecua que ndua ndua ja u cote ra . Ñee ñee ngue u nyue ra . 
+40021025b	Mañɨ		— ¿ Mañɨ nande ra echeẽ ndobeɨshɨ̃ nde ? “ Dios que Juan mbu ra ” , nande aroneate ñee ee . Nyebe ra ñee nande je . 
+40021025c	Mbaerã		“ ¿ Mbaerã jẽɨngo eãte eruɨ re no ? ” ɨ quiarei ra nande je .
+40021028	~		Jesús que ñeembe ee ra . — Ɨ ra ã jẽje reae . Sã ameɨ mo ndiirĩ nyeremo no . “ Quiatu rã uvas ɨshao shao seje ” , ɨ que ameɨ nguiirĩ ndiquii je ra .
+40021031	Ma		¿ Ma ngu cheẽ mumbayã ũquɨ̃ mo nde ? ɨ que Jesús ñee judíos rerecua je ra . — Eriquii chõ ngue ngu cheẽ mumbayã ndesẽ , ɨ que ñee ee ra . Jesús que ñee ee ra . — Tacheẽ nyecua jẽje . Cuñandu ata ata riqui Dios cheẽ andu turã jẽsɨ ã . Impuestos isi isiquia abe riqui Dios cheẽ andu turã jẽsɨ ã . Ũquɨ̃ nda siqui tuchɨ Dios rese jẽsɨ .
+40021040	Mañɨ		¿ Mañɨ nda echa quia eraarõsa je cote re ? ɨ que Jesús ñee mbia je ra .
+40022012	Mbaerã		Ererecua que ñee ee ra . “ Seriirĩ ndiqui ngũinisirã isi a resẽ . ¿ Mbaerã ndeɨrao turã eremingue eã nde ? ” ɨ que ererecua ñee ee ra . Ñee eãte que ererecua cheẽ mose ra .
+40022017	mbae		Nyebe urechu nguiã ñee ndeje a . ¿ Coche mbia mbae isiqui a mee mee Romano nderecua je re ? ¿ Uremee nda ee re ? ¿ Uremee eã nda ee re no ? ɨ que ñee Jesús je ra .
+40022018	Mbaerã		Jesús que ũquɨ̃ ɨcuã ɨcuate ra . Nyebe ñee nguiã ee . — ¿ Mbaerã jẽɨngo “ ɨ̃ nda Jesús ucheẽ nyabi ” , ɨ serɨɨ̃ nde ?
+40022020a	aba		— ¿ Aba mbae nombre ñɨ mbae isiqui a rese a re ? 
+40022020b	aba		¿ Aba ãquĩ aingue abe ñɨ a re ? ɨ que Jesús ee ra .
+40022028	abate		Siete rei que eru nyii ra . Mbia raaque quera sɨ ja mose , ¿ abate ra equereco cote re ? ɨ que saduceos ñee Jesús je ra . — Ma Jesús ñee ɨcuã , ɨ chõ ngue re .
+40022036	ma		— Jesús , Dios cheẽ tubɨrɨãte riqui ã ndesẽ . Mbia echeẽ mumbayã sacuã . ¿ Ma Dios cheẽ ndiita tuchɨ ma nde ? ɨ que fariseo ñee Jesús je ra .
+40022042a	aba		— ¿ Aba rucucha Cristo re ? 
+40022042b	aba		¿ Aba jenye equia ee re ? ɨ que Jesús ñee ee ra . — David nducucha chõ ñene , ɨ que fariseos ñee nda .
+40022043	Mbaerã		Jesús que ñee ee cote ra . — ¿ Mbaerã David “ sererecua ” ɨ ee re no ? Espíritu turã embucheẽ mose .
+40022045	mbaerã		David sɨ́ chõ “ sererecua ” ɨ nguiã Cristo je . Cristo David rucucha mose , ¿ mbaerã David “ sererecua ” ɨ ee re ? ɨ que Jesús fariseos je ra .
+40023017	Mbaerã		¿ Oro quiatu ɨ tuchɨ jiri Dios chuchua sɨ re ? ¿ Mbaerã jẽaquiatuãte riqui re ?
+40023019	Mbaerã		Eresayã na tuchɨ chõ jẽɨngochɨ̃ nguiã . ¿ Mbaerã jẽaquiatuãte riqui re ? ¿ Ofrenda quiatu ɨ tuchɨ jiri altar sɨ re ?
+40023033	~		Mbeɨ tásie rã tuchɨ chõ jẽ nde . Eɨ̃ jenye beɨ oso quia aque ngasẽ nyee tata cuasu .
+40024003a	Manosete		Jesús que chɨ̃ ngoi huee ibi ibátee mo nda . Monte de los Olivos ɨ que hue je ra . Echɨmbaaquiatu que ngasẽ ñee eísaa ra . — ¿ Manosete ra ũquɨ̃ nde ? 
+40024003b	mbae		¿ Mbae ra urembiirandu nderese ndechu serɨ̃ mose re ? ¿ Mbae ra urembiirandu mbae ua ja serɨ̃ mose re no ? ɨ que echɨmbaaquiatu ñee Jesús je ra .
+40024045	aba		Dios rimba aba cheẽ mumbayã je aɨco ñee a . Dios rimba aquiatu je aɨco ñee a . Sã ererecua mo ñee ngũimba turã je no . “ Sembae esaarõ turã ja quia secutiã . Serimba ataque embuquiaru quiaru turã secutiã ” , ɨ que ererecua ee ra .
+40025037	Manose		Sequiato cutinda ra ñee seje cote . “ ¿ Manose mbae uremee ndeje nderiãcuã mose re ? ¿ Manose ureso nembiu ndeɨseɨ mose re ?
+40025038	Manose		¿ Manose ure ndeisi turã ndechuchua eã mose re ? ¿ Manose tiru uremee ndeje ndeɨrao eã mose re ?
+40025039	Manose		¿ Manose ureso mae nderese nderasi mose re ? ¿ Manose ureso mae nderese ndeɨco mose cárcel re ? ” ɨ tuchɨ ra ñee seje .
+40025044	Manose		Sequiato cutiã quitinda ra ñee seje cote . “ ¿ Manose mbae mo uremee eã ndeje nderiãcuã mose re ? Ndeɨseɨ mose abe no . Ndechuchua eã mose abe no . Ndeɨrao eã mose abe no . ¿ Manose uresoã nderea nderasi mose re ? ¿ Manose uresoã nderea ndereco mose cárcel nde no ? ” ɨ ra sequiato cutiã quitinda ñee seje .
+40026008	~		Echɨmbaaquiatu que chɨ ja mae erese ra . Paama ɨ que cuña je ra .
+40026010	Mbaerã		Jesús que echeẽ ñandu ra . Ñee ngue ee ra . — ¿ Mbaerã jẽɨngo ñee ũquɨ̃ nde ? Sã cuña ae riqui ae . Ae esaã seje nae , eturãte seje ũquɨ̃ .
+40026015	Mbae		— Jesús tamee jẽje . ¿ Mbae ra jemee seje erɨbɨshorõ nde ? ɨ que Judas ñee sacerdote rerecua je ra . Sacerdote rerecua que mbae isiquia ata mee ee ra . Treinta que ra .
+40026017	Mangue		Fiesta que tu cote ra . Aque fiesta mose beɨ que mbia riqui oveja ɨquia ɨquia querabe ra . Mbichae mbuchɨmatã iriã ngue eu eu quia aque mose querabe no nda . Fiesta nonde que echɨmbaaquiatu ñee Jesús je ra . — ¿ Mangue ra oveja urembuchi mangue ndechɨurã nde ? ɨ que ñee Jesús je ra .
+40026040	~		Nyebi que u uchɨmbaaquiatu je cote ra . Ɨ que eu uque ja ee cote ra . Ñee ngue Pedro je ra . — Jẽɨngo areã ñochɨ̃ tesa serese se ñee mose Dios je .
+40026050	Mbaerã		— ¿ Mbaerã erechu serea re ? ɨ que Jesús ee ra . Mbia que ngaẽ Jesús isi ecua cote ra .
+40026054	~		“ Angeles embu rã sereaquiatu ” , ae eã nda Paba je . Ũquɨ̃ mose ra embesa ji ɨque eã cote . Sã embesa ji riqui ñee no : “ Mbae rasi ra esaã tuchɨ ” ɨ no , ɨ que Jesús ñee Pedro je ra .
+40026062a	~		Sacerdote rerecua que juã ñee Jesús je ra . — ¿ Echeẽ nda eresɨbɨshorõ eã mbeɨ re ? 
+40026062b	mbae		¿ Mbae ɨ equia nderɨɨ̃ nde ? ɨ que Jesús je ra .
+40026065	~		Sacerdote rerecua que paama ɨ tuchɨ Jesús cheẽ mose ra . Huɨɨrao que endoro ndoro chee ra . Ñee ngue ererecua ataque je ra . — Jesús riqui Dios rucucha raã naa co . Jeñandu jate equia ã . Sã mbia mo nandembiirandube eã cote . Nandemae ndei ngue erese re .
+40026066	Mañɨ		¿ Ɨ jẽje re ? ¿ Mañɨ nande ra equia re ? ɨ que sacerdote rerecua ñee ererecua ataque je ra . — Eɨcuã tuchɨ que ra jẽ . Sã mbia eɨquia , ɨ jate que ererecua ñee Jesús rɨɨ̃ nda .
+40026068	Aba		Ñee ngue ee ra . — “ Cristo chõ se re ” , ere ñɨ equia . Aba chõ ucua nderese chã . Ma eɨcua no , ɨ que mbia ñee ɨcuã ɨcuã ee ra .
+40027004	~		— Mbae ɨcuã tuchɨ asaãchɨ̃ . Jesús seteã tuchɨ ameechɨ̃ jẽje . Eɨquia sacuã , ɨ que Judas ñee nda . — Nde quia rei . Ure eã ñene , ɨ ja que ererecua ñee ee ra .
+40027013	~		— ¿ Erechanuãte equia ñee mose nderɨɨ̃ nde ? ɨ que Pilato ñee Jesús je ra .
+40027017	Aba		Mbia ñumunua ja mose que Pilato ñee ee ra . — ¿ Aba ra ambusẽ mondo jẽje re ? ¿ Barrabás ra re ? ¿ Jesús ra re ? ɨ que Pilato ñee ee ra .
+40027021	Aba		Pilato que ñee sɨ mbia je ra . — ¿ Aba ra ambusẽ mondo jẽje re ? ¿ Jesús ra re ? ¿ Barrabás ra re ? ɨ que Pilato ra . — Barrabás embusẽ mondo ɨ que mbia ee ra .
+40027022	Mañɨ		— ¿ Mañɨ ae quia ra Jesucristo je re no ? ɨ que Pilato ra . — Embucha ira rese , ɨ ja que mbia ñee ee ra .
+40027023a	~		
+40027023b	mbae		— ¿ Mbae ɨcuã esaã nde ? ɨ que Pilato ee ra . — Embucha ira rese jẽ , ɨbe que mbia tasẽ tasẽ ee ra .
+40027046	mbaerã		Tenda cheseco mose que Jesús ñeemombo cote ra . — Elí , Elí , ¿ lam a sabactani ? ɨ que ñeemombo ra . — Dios sererecua , ¿ mbaerã ereɨco huɨ sesɨ re ? ɨ chõ ngue ñee nguiã .
+41001024	Mbaerã		— ¿ Mbaerã erechu urerea co re , Jesús ? Quiatúae urerecha ae . ¿ Urerɨɨcharã ño erechu quia co re ? Dios rucucha chõ nde re . Areɨcuate se , ɨ rei que aba checuayã ñee asite ee ra .
+41001027	~		Mbia que nyuruɨra tuchɨ mae Jesús rese ra . Ñee ñee ja que nyue cote ra . — Jesús riquichɨ̃ mbia mbaaquiatu quiatu ucheẽ namonda je co . Equirãcuã ae ñee nguiã . Mbia rerecua rã ño eriqui nguiã ñee aba checuayã ɨcuã je co . Sã aba checuayã echeẽ mumbayãte jẽ , ɨ que mbia ra .
+41002007a	Mbaerã		— ¿ Mbaerã Jesús riqui ñee ũquɨ̃ nde ? Ñee ɨcuã ɨcuã ñochɨ̃ equia Dios rɨɨ̃ co . 
+41002007b	~		Dios ibatenda ae mbi a chɨao ɨcuã mbutiã tiã nguia esɨ resẽ , ɨ rei que ñee ɨcuã ɨcuã Jesús rɨɨ̃ nda .
+41002008	Mbaerã		Jesús que ũquɨ̃ ndua ndua ɨcuate quia ra . Nyebe ñee nguiã ee cote . — ¿ Mbaerã jẽɨngo ndua ndua ɨcuã nde ?
+41002009	Ma		¿ Ma mbaranguiatuã eã jiri jẽje re ? ¿ Mbia ɨcuã mbutiã esɨ ere ? Mbia rasi mbucherõ ere no ae . ¿ Ma mbaranquiatuã eã jiri jẽje re ?
+41002016	Mbaerã		Fariseos que ñee ɨcuãte Jesús chɨmbaaquiatu je ra . Embesasa abe que ñee ɨcuãte ee ra . — ¿ Mbaerã Jesús riqui quiaru mbia ɨcuãte rese re ? ɨ que ñee nda .
+41002018	Mbaerã		Juan ñɨmbaaquiatu que huɨ uchɨu sɨ aque mose ra . Fariseos chɨmbaaquiatu abe no . Nyebe mbia ngaẽ nguiã ñee Jesús je . — ¿ Mbaerã ndechɨmbaaquiatu abe riqui huɨ ãte uchɨu sɨ re ? ɨ que ñee Jesús je ra .
+41002019	~		Jesús que ñee ee ra . — Sã emo ndiqui ngũinisirã isi ramo no . Sã eresenda iate riqui quiaru erese no . Sã eriqui huɨ aroneate uchɨu sɨ aque mose no .
+41002024	Mbaerã		Fariseos mo ngue ñee ee ra . — ¿ Mbaerã ndechɨmbaaquiatu riqui mbae ɨshao shao sábado mose re ? Co mose chõ mbia riqui uquenea ucua resẽ , ɨ que fariseos ñee Jesús je ra .
+41003004	mbae		Jesús que ñee mbia je ra . — ¿ Mbae eturãte jẽje co tenda sábado mose re ? ¿ Coche nandeɨco mbae turã naa naa sábado mose re ? ¿ Coche nandeɨco mbae ɨcuã naa naa co mose re no ? ¿ Coche mbia mbucherõ co mose re no ? ¿ Coche mbia ɨquia co mose re no ? ɨ que Jesús ñee mbia ja je ra . Mbia que ñee ãte echeẽ mose ra .
+41003023	Mañɨ		— Jenyu rã tacheẽ jẽje , ɨ que Jesús ee ra . — ¿ Mañɨ nda Satanás aba checuayã ɨcuã jea mbia sɨ re ? Erimba chõ nyeresẽ .
+41003033a	aba		— ¿ Aba je chõ aɨco “ taĩ ” ɨ chã ? 
+41003033b	aba		¿ Aba je chõ aɨco “ senongue ” ɨ no ña ? ɨ que Jesús mbia je ra .
+41004013	Mañɨ		Jesús que ñee ee ra . — ¿ Secheẽ jẽɨcuayãte mbae eɨ̃ nɨɨ ñee mose jẽje re ? ¿ Mañɨ jenye quiatu ra ejemplos ataque ɨcua re no ?
+41004030a	~		Mbae rã ño Dios rimba chã . 
+41004030b	~		Ejemplo mo tasenei jẽje .
+41004038	~		Jesús que uque rei oso quia canoa ndiita quiti ra . Uãquĩ ndua arõ ngue esɨ rei quia ra . Echɨmbaaquiatu que emumba ra . — Urembaaquiatusa , echumumba . Nandemanochɨ̃ nda re , ɨ que Jesús je ra .
+41004040a	Mbaerã		Ñee ngue uchɨmbaaquiatu je cote ra . — ¿ Mbaerã jẽsiquichete riqui re ? 
+41004040b	~		¿ Seɨcuayãte equia ã nde ? ɨ que Jesús ñee ee ra .
+41004041	~		Siquiche beɨ que equia ra . Nyuruɨra tuchɨ que mae Jesús quirãcuã ndese ra . — Quɨrɨrɨã Jesús cheẽ mumbayã ñochɨ̃ . Ama abe echeẽ mumbayã ñochɨ̃ no , ɨ que ñee nyue ra .
+41005007	Mañɨ		Jesús que ñee ee ra . — Esẽ u aque chɨã sɨ , aba checuayã , ɨ que Jesús ñee ee ra . Aba checuayã ngue tasẽ tuchɨ ñee Jesús je ra . — ¿ Mañɨ ere ra equia seje re , Jesús ? Dios riirĩ ño nde re . ¡ Sembasichɨ̃ nda se jẽ ! ɨ tuchɨ que ee ra .
+41005009	Mañɨ		— ¿ Mañɨ ndeje re ? ɨ que Jesús ee ra . — Etubɨrɨã , ɨ chõ nguiã seje . Ure cuabẽte quia ñene , ɨ que ñee Jesús je ra .
+41005030	Aba		— Sequirãcuã ngue mbia mo mbucherõ nda , ɨ que Jesús uchɨangui re ra . — ¿ Aba oco seɨrao rese re ? ɨ que mae uquite quiti ra .
+41005031	aba		Echɨmbaaquiatu que ñee ee ra . — Mbia tubɨrɨãte nyeresẽ . Ñɨmajaãte nyeresẽ . ¿ Mbaerã ereɨco “ ¿ aba oco serese re ? ” ɨ re ? ɨ que ee ra .
+41005035	Mbaerã		Echeẽ mose chɨte que emo ngaẽ Jairo chuchua sɨ ra . — Nderiirĩ ngue mano cote ra . ¿ Mbaerã nda Jesús ererao ndechuchua cote re ? ɨ que ñee ee ra .
+41005039a	Mbaerã		Ɨque que oso ñee mbia je ra . — ¿ Mbaerã jẽɨngo nyiibute re ? 
+41005039b	Mbaerã		¿ Mbaerã jẽɨngo nyeseo re ? Ãquẽ manoãte resẽ . Uque chõ u co resẽ , ɨ que Jesús ñee mbia je ra .
+41006002a	mangue		Sábado mose que mbia mbaaquiatu quiatu judíos chumunuásaa ra . Mbia que nyuruɨra ja tuchɨ u echeẽ andu ra . Ñee ñee ngue u nyue ra . — ¿ Mangue eriqui ñɨmbaaquiatu tuchɨte re ? 
+41006002b	Mañɨ		¿ Mañɨ equia mbae ɨcua ja tuchɨte re ? 
+41006002c	~		Nandemae sayã naa naa tuchɨchɨ̃ .
+41006022	Mbae		Aque mose que Herodías riirĩ nyuruqui ruqui mbia je ra . Nyucuaaque que ae ra . Herodes ia tuchɨ que mae nyucuaaque nyuruqui rese ra . Ñee ngue nyucuaaque je ra . — ¿ Mbae ra amee ndeje re ? Echeẽ ño seje .
+41006024	mbae		Nyucuaaque que oso ñee usi je ra . — ¿ Mbae “ embu seje ” ae ra ee re ? ɨ que ñee usi je ra . — “ Juan el Bautista ãquĩ ño embu seje ” , ere chõ ee , ɨ que esi ra .
+41006037	~		— Jeño mbae jemondo ee echɨurã , ɨ chõ ngue Jesús ñee ee ra . — Tei . Mbae quia ra aba mondo ee . Mbia tubɨrɨã tuchɨte quia ñene . Mbae isiquia tubɨrɨã tuchɨ je quia nda aba mbae isi rei nguiã ña . Mbia chayãte chõ eno nde , ɨ que ñee Jesús je ra .
+41006038	Manya		— ¿ Manya mbichae jendeco ũquɨ̃ nde ? Jẽso mae erese no , ɨ que Jesús ee ra . Emo ngue oso mae erese eɨcua ra . — Cinco mbichae riqu i co . Sɨra nyeremo abe , ɨ que echɨmbaaquiatu mo ñee ee ra .
+41007005	Mbaerã		Nyebe fariseos ñee nguiã Jesús je . — ¿ Mbaerã ndechɨmbaaquiatu riqui eɨ̃ eã nanderameɨ ñee nguire re ? ¿ Mbaerã eriqui quiaru uchoɨ quiiriã nde ? ɨ que fariseos ñee Jesús je ra . Embesasa abe no .
+41008004	Mañɨ		Echɨmbaaquiatu que ñee ee ra . — Turuquia re chõ nandeɨco a resẽ . ¿ Mañɨ nda aba ã mbuquiaru ja re ? ɨ que ñee Jesús je ra .
+41008005	Manya		— ¿ Manya mbichae jendeco re ? ɨ que Jesús ee ra . — Siete , ɨ que ee ra .
+41008012	Mbaerã		Jesús que iabu tuchɨ ñee nda . — ¿ Mbaerã mbia riqui “ mbia mae sayã esaã ure je ” ɨ tuchɨ re ? Tacheẽ nyecua jẽje . Mbia mae sayã mo nda ateacuquia eã tuchɨ jẽje , ɨ que Jesús ñee ee ra .
+41008017	Mbaerã		Jesús que echeẽ ñee ɨcuate ra . Nyebe ñee nguiã ee . — ¿ Mbaerã jẽɨngo “ mbichae nanderuãchɨ̃ ” ɨ re ? ¿ Ae rɨɨ̃ aɨco ñee jẽje nae , ũquɨ̃ jẽɨcuayã mbeɨte quia re ? ¿ Jeñɨa ãtã mbeɨte eriqui re ?
+41008018a	~		Jẽisate raque . ¿ Secheẽ jeñanua mbeɨte quia re ? Jendesate raque . 
+41008018b	~		¿ Sechɨsaã jẽɨcuayã mbeɨte quia re ?
+41008019	manya		Se mbichae cinco mbeta mose mbia cinco mil je , ¿ manya iru jemombisẽ mbichae sique sique je re ? ɨ que Jesús ee ra . Doce , ɨ que ee ra .
+41008020	manya		— Mbichae siete mbeta mose mbia cuatro mil je , ¿ manya iru jemombisẽ esique sique je re no ? ɨ que Jesús ee ra . Siete , ɨ que ee ra .
+41008021	~		— ¿ Jẽɨngo secheẽ ɨcuayã ɨ ɨte ã nde ? ɨ que Jesús ee ra .
+41008023	mbae		Jesús que eo isi serao pe jiri sucha sɨ cote ra . Ngũendi que equiti eresa rese ra . O que echono earõ nda . — ¿ Eremaete mbae rese cote re ? ɨ que ee ra .
+41008027	aba		Jesús que nyoɨ Cesarea de Filípoo cote ra . Huee que ñee uchɨmbaaquiatu je cote ra . — ¿ Aba aɨco reɨ̃ mbia je re ? ɨ que ee ra .
+41008029a	~		
+41008029b	aba		— ¿ Aba aɨco reɨ̃ jẽje co re ? ɨ que Jesús ee ra . — Cristo chõ nde resẽ , ɨ que Pedro ñee ee ra .
+41008036	~		Emo ngueco mumba chooño mose , eya eã mbeɨ rae . Mbaecha rete raque .
+41008037	~		Emo ngueco mumba chooño mose , mbae mo eãte ereco rɨbɨshorõ sacuã .
+41009010	Mbaerã		Nyebe ñee eã nguiã emo je . — ¿ Mbaerã eriqui “ se quera sɨ mose ” ɨ re ? ɨ que ndua ndua ñee nyue ra .
+41009011	Mbaerã		Ñee ngue Jesús je cote ra . — ¿ Mbaerã embesasa ñee nde ? “ Elías rane nda tu Cristo sɨ ” ɨ re , ɨ que ñee Jesús je ra .
+41009012	Mbae		Jesús que ñee ee ra . — Ae beɨ . Coche Elías rane tu nguiã mbae mbitirõ ja . ¿ Mbae ɨ chõ embesa ji quia Cristo rɨɨ̃ ña ? “ Mbae rasi ra esaã tuchɨ ” , ɨ chõ nguiã . “ Mbia ra eucuayã tuchɨ ” , ɨ chõ nguiã no .
+41009016	Mbae		— ¿ Mbae rɨɨ̃ jẽɨngo ñee ɨcuã ɨcuãte jenyue re ? ɨ que Jesús ñee mbia je ra .
+41009019a	Mañɨ		Jesús que ñee cote ra . — ¿ Mañɨ jenye quia seɨcuayãte re ? ¿ Ñimbirãcuã mbeɨte ra aba quia jẽje re ? ɨ que Jesús ra . — Eriirĩ jendu rã seje , ɨ que cote ra .
+41009019b	~		
+41009021	Manosete		— ¿ Manosete aba checuayã ndiqui ererequia re ? ɨ que Jesús eru je ra . — Eñetẽ mosebe beɨ , ɨ que eru ra .
+41009028	Mbaerã		Jesús que oso ɨque tuchúaa cote ra . Echɨmbaaquiatu que ñee ee mbia tiámbaa cote ra . — ¿ Mbaerã aba checuayã useã oso urecheẽ mose ure re ? ɨ que ñee ee ra .
+41009033	Mbae		Ngasẽ ngue Capernaum nda . Tuchúaa ɨque mose que ñee uchɨmbaaquiatu je ra . — ¿ Mbae rɨɨ̃ jenyu quia ñee ɨcuã ɨcuãte jenyue ñeenda ruɨ re ? ɨ que ee ra .
+41009050	~		Embiquesa rã ño jẽɨngo nguiã mbia je ã . Sã embiquesa turãte no . Eɨse quiachamba mose , eɨcuã tuchɨ ra cote . Embiquesa rã tuchɨ chõ jẽɨngo mbia je . Jẽɨngo turã ño nguia jenyɨese , ɨ que Jesús ee ra .
+41010003	Mbae		— ¿ Mbae ɨ Moisés embesa re ? ɨ que Jesús ee ra .
+41010017	Mbae		Acuanɨndu mo ngue tu Jesús je ra . — Mbia mbaaquiatusa turãte nde . ¿ Mbae turã mo nda asaã Dios je semingo beɨ sacuã nde ? ɨ que ñee Jesús je ra .
+41010018	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã ereɨco “ eturã ” ɨ seje re ? Dios mɨɨ ño eturã ndesẽ .
+41010026	Aba		Echɨmbaaquiatu que nyuruɨra tuchɨbe u eandu no nda . — ¿ Aba quiatu ra oso Dios rea ibate re no ? ɨ que ñee nyue ra .
+41010036	Mbae		— ¿ Mbae ra aba saã jẽje re ? ɨ que Jesús ee ra .
+41010051	Mañɨ		— ¿ Mañɨ ae ra ndeje re ? ɨ que Jesús ñee ee ra . — Seresa embuturã na , Sererecua , ɨ que ra .
+41011003	mbaerã		Emo ñee mose jẽje , “ ¿ mbaerã nda jenyura re ? ” ɨ mose jẽje , jeñee ee . “ Nandererecua que ‘ jendu ’ ɨ ra . Mondo jeɨbe ra jẽje ” , jenye ee , ɨ que Jesús ñee ũquɨ̃ nyeremo mondo ra .
+41011005	Mbaerã		Ae mbia chɨ huee nae , ũquɨ̃ mo ngue ñee ee ra . — ¿ Mbae rese jẽɨngo hue re ? ¿ Mbaerã jẽɨngo era era re ? ɨ que ee ra .
+41011028a	Mbaerã		— ¿ Mbaerã ereɨco mbia mbaaquiatu quiatu Dios chuchúaa re ? 
+41011028b	aba		¿ Aba “ ũquɨ̃ esaã saã ” ɨ quia ndeje re ? ɨ que ũquɨ̃ ererecua ñee ja Jesús je ra .
+41011030	aba		¿ Aba ñee Juan je re ? “ Eso bautizar ɨ mbia je ” ɨ ee re . ¿ Dios eã ño ere ? Jeñee seje , ɨ que Jesús ee ra .
+41011031a	Mañɨ		Ererecua que ndua ndua ja u cote ra . Ñee ñee ngue u nyue ra . — ¿ Mañɨ nande ra echeẽ ndɨbɨshorõ nde ? “ Dios que Juan mbu ra ” , nande aroneate ee . Nyebe ra ñee nande je . 
+41011031b	Mbaerã		“ ¿ Mbaerã jẽɨngo eãte eruɨ re no ? ” ɨ quiarei ra nande je .
+41012009	Mañɨ		¿ Mañɨ nda echa quia eraarõsa je cote re ? Echa ra eraarõsa ɨcuã ɨquia ja cote . Uva i ra emondo ja emo je eraarõ sacuã cote .
+41012015	Mbaerã		¿ Uremee mee nda ee re ? ¿ Uremee eã nda ee re no ? ɨ que ñee Jesús je ra . Jesús que ũquɨ̃ ɨcuã ɨcuate ra . Nyebe ñee nguiã ee . — ¿ Mbaerã jẽɨngo “ ɨ̃ nda Jesús ucheẽ nyabi ” , ɨ serɨɨ̃ nde ? Mbae isiquia jẽteacuquia ɨmbu seje . Tamae erese , ɨ que ee ra .
+41012016a	aba		Mbia que eteacuquia ee ra . — ¿ Aba mbae nombre ñɨ mbae isiquia rese a re ? 
+41012016b	aba		¿ Aba ãquĩ aingue abe ñɨ a re ? ɨ que Jesús ee ra . Romanos nderecua , ɨ que mbia ee ra .
+41012023	abate		Siete rei que eru nyii ra . Mbia raaque quera sɨ ja mose , ¿ abate ra equereco cote re ? ɨ que saduceos ñee Jesús je ra . — Ma Jesús ñee ɨcuã , ɨ chõ ngue re .
+41012028	ma		Embesasa mo ngue chɨ̃ echeẽ andu ra . — Jesús ñee turã tuchɨchɨ̃ saduceos je , ɨ que uchɨangui re ra . Nyebe esɨ nguiã ñee ee . — Jesús , Dios cheẽ tubɨrɨãte riqui ã ndesẽ . Mbia echeẽ mumbayã sacuã . ¿ Ma Dios cheẽ ndiita tuchɨ ma nde ? ɨ que embesasa ñee Jesús je ra .
+41012035	Mbaerã		Jesús que mbia mbaaquiatu quiatu quia Dios chuchúaa ra . — ¿ Mbaerã embesasa riqui ñee nde ? “ David rucucha chõ Cristo re ” ɨ re .
+41012037	mbaerã		David sɨ́ chõ “ sererecua ” ɨ nguiã Cristo je . Cristo David rucucha mose , ¿ mbaerã David “ sererecua ” ɨ ee re ? ɨ que Jesús embesasa je ra . Mbia tubɨrɨã ngue Jesús cheẽ chandu turã jate ra .
+41013004a	Manosete		— ¿ Manosete ra ũquɨ̃ nde ? 
+41013004b	Mañɨ		¿ Mañɨ ure ra equia jirandu mbae ua nonde re ? ɨ que ñee Jesús je ra .
+41014004	Mbaerã		Mbia que chɨ ja mae erese ra . Paama ɨ que cuña je ra . — ¿ Mbaerã eichusẽ ñooño nde ?
+41014006	Mbaerã		Jesús que ñee cote ra . — ¿ Mbaerã jẽɨngo ñee ũquɨ̃ nde ? Sã cuña ae riqui ae . Ae esaã seje nae , eturãte seje ũquɨ̃ .
+41014012	Mangue		Fiesta que tu cote ra . Aque fiesta mose beɨ que mbia riqui oveja ɨquia ɨquia querabe ra . Mbichae mbuchɨmatã iríã ngue eu eu quia aque mose querabe no nda . — ¿ Mangue ra oveja urembuchi mangue ndechɨurã nde ? ɨ que echɨmbaaquiatu ñee Jesús je ra .
+41014014	Ma		Eɨque mose , aque tuchuacha je jeñee . “ Jesús que urembu ñee sacuã ndeje ra . ‘ ¿ Ma cuarto ra urecu quiaru oveja u que re ? Sechɨmbaaquiatu rese ’ , ɨ que Jesús ñee ndeje ra ” , jenye tuchuacha je .
+41014060a	~		Sacerdote rerecua que juã ñee Jesús je ra . — ¿ Echeẽ nda eresɨbɨshorõ eã mbeɨ re ? 
+41014060b	Mbae		¿ Mbae ɨ equia nderɨɨ̃ nde ? ɨ que ñee Jesús je ra .
+41014063	Mañɨ		Sacerdote rerecua que paama ɨ tuchɨ Jesús cheẽ mose ra . Huɨɨrao que endoro ndoro chee ra . Ñee ngue ererecua ataque je ra . — Jesús riqui Dios rucucha raã naa co . Jeñandu jate equia ã . Sã mbia mo nandembiirandube eã cote . Nandemae ndei ngue erese re . ¿ Ɨ jẽje re ? ¿ Mañɨ nande ra equia re ? ɨ que sacerdote rerecua ñee mbia rerecua ataque je ra . — Eɨcuã tuchɨ que ra jẽ . Sã mbia eɨquia , ɨ jate que ererecua ñee Jesús rɨɨ̃ nda .
+41014064	~		
+41015004	~		— Sã ñee ɨcuã ɨcuãte nderɨɨ̃ jẽ . ¿ Echeẽ nda eresɨbɨshorõ eã nde ? ɨ que Pilato ñee Jesús je ra .
+41015012	Mañɨ		— ¿ Mañɨ ae quia ra Jesucristo je re no ? ɨ que Pilato ñee ee ra .
+41015014a	~		
+41015014b	mbae		— ¿ Mbae ɨcuã esaã nde ? ɨ que Pilato ñee ee ra . — ¡ Embucha ira rese jẽ ! ɨ beɨ beɨ que mbia ra .
+41015034	mbaerã		Tenda cheseco mose que Jesús ñeemombo cote ra . — Eloi , Eloi , ¿ lama sabactani ? ɨ que ñee mombo ra . — Dios sererecua , ¿ mbaerã ereɨco huɨ sesɨ re ? ɨ chõ ngue ñee nguiã .
+41016003	Aba		— ¿ Aba ra sɨta curuba nande je eatiquia re ? ɨ rei que echoɨ quia ñee ñee nyue ra .
+42001018	Mañɨ		Zacarías que ñee ángel je ra . — ¿ Mañɨ nda ũquɨ nde ? ¿ Ndecheẽ nda ɨque seje re ? ¿ Manyae ra eɨcua re ? Ameɨte se . Seninisi abe arite , ɨ que Zacarías ee ra .
+42001034	Mañɨ		María que ñee ángel je ra . — ¿ Mañɨ nda serío re ? Seru eãte nyeresẽ , ɨ que María ee ra .
+42001043	Mbaerã		¿ Mbaerã Cristo si ru serea se re ? Mbia rerecua eã ño se resẽ .
+42001066	Mañɨ		Ae jirandu quia erese , ũquɨ̃ ngue ndua tuchɨ quia erese ra . — Mañɨ nda Zacarías riirĩ nguia reae . Nandemae nguia erese no , ɨ que mbia quia ndua ndua ra . Dios que siqui tuchɨ Zacarías ndiirĩ ndese ra .
+42002048	Mbaerã		Eru erea mose huee , ae abe que nyuruɨra ra . Esi abe nyuruɨra no . Esi que ñee ee ra . — ¿ Mbaerã eresoã urerese re , Echo ? Ureya eã tuchɨ que eriqui nderequia asi asi ra , ɨ que María nguiirĩ je ra .
+42002049	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã serequia mámbii re ? Paba chuchua chõ ngue aɨco resẽ , ɨ que Jesús usi je ra .
+42003007	~		Mbia que nyoɨ nyoɨ ja quia Juan ndea ra . Juan bautizar ɨ sacuã ee . Juan ngue ñee ee ra . — Mbeɨ rã ño jẽɨngo nguiã . Mbae ɨcuã nda jeɨ̃ jeɨ̃ mbia je , ¿ ũquɨ̃ sɨ jenyu quia seje co re ?
+42003010	mbae		— ¿ Mbae rese ra ureɨco Dios je re ? ɨ que mbia Juan je ra .
+42003012	mbae		Impuestos isi isiquia mo abe que nyoɨ Juan je ra . Juan bautizar ɨ sacuã ee . — ¿ Mbae rese ra ureɨco ure re ? ɨ que ñee Juan je ra .
+42003014a	~		Soldados mo abe que ñee Juan je ra . 
+42003014b	mbae		— ¿ Mbae rese ra ureɨco ure re no ? ɨ que soldados ñee Juan je ra . Juan ngue ñee ee ra . — ¡ Mbia mbae ra jẽisi chooñochɨ̃ jẽ ! “ Co que mbae ɨcuã saã nda ” ¡ jenye chooñochɨ̃ nda emo je jẽ ! Jembae ae chõ jendeco , ɨ que Juan ñee soldados je ra .
+42004034	Mbaerã		— ¿ Mbaerã erechu quia urerea co re , Jesús ? Quiatúae urerecha ae . ¿ Urerɨɨcharã ño erechu quia co re ? Dios rucucha chõ nde re . Areɨcuate se , ɨ rei que aba checuayã ɨcuã Jesús je ra .
+42004036	~		Mbia turɨrɨã ngue nyuruɨra ja u erea ra . — Jesús quirãcuã ae ñee nguiã . Mbia rerecua rã ño eriqui nguiã ñee aba checuayã ɨcuã je . ¡ Sã aba checuayã echeẽ mumbayã jẽ ! ɨ tuchɨ que mbia nyuruɨra erea ra .
+42005021a	~		Fariseos que ñee ñee nyue ra . Embesasa rese . — Jesús ñee ɨcuã ñochɨ̃ nguiã Dios rɨɨ̃ co . Dios ibatenda ae mbia chɨao ɨcuã mbutiã nguiã esɨ . 
+42005021b	~		Jesús aquiatuã ño ñene , ɨ rei que eu ñee ñee nda .
+42005022	Mbaerã		Jesús que ũquɨ̃ ndua ɨcuã ɨcuate ra . Nyebe ñee nguiã ee cote . — ¿ Mbaerã jẽɨngo ndua ɨcuã nde ?
+42005023	ma		¿ Ma mbaranguiatuã eã jiri jẽje re ? ¿ Mbia ɨcuã mbutiã ere ? ¿ Mbia rasi mbucherõ ere no ? ¿ Ma mbaranguiatuã eã jiri ũquɨ̃ jẽje re ?
+42005030	Mbaerã		Fariseos que ñee ɨcuãte Jesús chɨmbaaquiatu je ra . Embesasa rese ñee ɨcuã ee . — ¿ Mbaerã jẽɨngo quiaru impuestos isi isiquia rese re ? Mbia ɨcuã ndese abe jẽɨngochɨ̃ nguiã quiaru , ɨ que ñee nda .
+42005033	Mbaerã		Mbia que ñee Jesús je ra . — Juanñɨmbaaquiatu huɨ huɨ uchɨu sɨ . Ñee nonde Dios je . Fariseos chɨmbaaquiatu abe huɨ huɨ uchɨu sɨ no . ¿ Mbaerã ndechɨmbaaquiatu riqui huɨ ãte uchɨu sɨ re ? ɨ que mbia Jesús je ra .
+42005034	~		Jesús que ñee ee ra . — Sã emo ngũinisirã isi ramo mose no . Sã eresenda iate riqui quiaru erese no . Sã huɨ aroneate uchɨu sɨ aque mose no .
+42006002	Mbaerã		Fariseos mo ngue ñee ee ra . — ¿ Mbaerã jẽɨngo mbae ɨshao shao sábado mose re ? Co mose chõ mbia uquenea ucua resẽ , ɨ que fariseos ee ra .
+42006009	mbae		Jesús que ñee mbia je ra . — ¿ Mbae eturãte jẽje co tenda mose re ? Sábado mose beɨ . ¿ Coche mbae turã naa naa sábado mose re ? ¿ Coche mbae ɨcuã naa naa co mose re no ? ¿ Coche mbia mbucherõ co mose re no ? ¿ Coche mbia ɨquia co mose re no ? ɨ que Jesús ñee mbia ja je ra .
+42006032	~		Ae eɨcuãte riqui jẽje nae , ũquɨ̃ ndese jenyesecua chõ . Ae nyesecua quia jendese nae , ũquɨ̃ mɨɨ ndese jenyesecua mose , eɨcuãte ũquɨ̃ . Mbia ja rese quiatu jenyesecua .
+42006033	~		Jẽɨngo turã nguiatu quia mbia ja rese . Ae eturã ndiqui jẽje , ũquɨ̃ mɨɨ ndese jẽɨngo turã mose , eɨcuãte ũquɨ̃ . Jesús quiatoã abe chee siqui turã uquiato je .
+42006034	mbae		Emo prestar ɨ mose jembae je , jemondo chõ ee . Ae mbae mondo aroneate erɨbɨshorõ nae , jemondo beɨ chõ ee . “ Cobrar tae ee ” , jenyechɨ̃ ndae . Jesús quiatoã abe chee mbae mondo erɨbɨshorõsa je . “ Mbae mo nda emondobe seje ” , ɨ .
+42006039	~		Jesús que ejemplo saã mbia je ra . — Sã eresayã ja nyɨruchoɨ aronea no . Ngoɨ ja chõ nda echoɨ ibicua rie .
+42006041	Mbaerã		¿ Mbaerã nda “ eɨcuã ” jenye emo je re ? Jẽ jẽɨcuã tuchɨ mose esɨ . “ Mbae ñetẽ ndiqui nderésaa aque ” , jenyechɨ̃ nda emo je . Mbae cuasu siqui mose jendésaa jẽ quiatu .
+42006042	~		“ Mbae turã ndese chõ jẽɨngo ” , jenyechɨ̃ nda jẽɨngo ɨcuã mose jẽ . Jẽturã nda jẽsaã ñooñochɨ̃ jẽ . “ Mbae ñetẽ tasirõ nderesa sɨ ” , jenyechɨ̃ nda mbae cuasu siqui mose jendésaa jẽ . Jẽ nane nguia jẽturã ndiqui . Aquere quiatu jeñee emo mingo turã cote .
+42006046	~		“ Sererecua ” jenye chõchɨ̃ seje secheẽ mumba mumbare .
+42007024	Mbae		Juan ñimondo que nyoɨ nyebi ee cote ra . Jesús que ñee mbia ja je Juan nɨɨ cote ra . — ¿ Mbae rese mae jẽso turúquiaa re ? ¿ Quɨrɨrɨã idioi ɨchu ɨchu rese jẽso mae nde ?
+42007025	mbae		¿ Mbae rese mae jẽso re ? ¿ Emo ɨrao turã ndese jẽso mae nde ? Tei . Eɨrao turã siquíã nguiã turuquia ñɨ . Ae siqui quia mbia rerecua chuchua nae , ũquɨ̃ ño eɨrao turã ndiqui nguiã .
+42007026	~		Juan ndese mae ño ngue jẽso turúquiaa resẽ . Dios cheẽ nenei neneisa tuchɨ chõ ae emo sɨ re . Ae chõ mbia mingoquiatu quiatu nguiã se ñee sacuã ee aque .
+42007031a	~		Jesús que ñeembe ee ra . — Mbia namonda siqui turã eãte quia aba cheẽ nduɨ ã . 
+42007031b	~		Mbia riirĩ na ño eriqui nguiã .
+42007042	Aba		Ũquɨ̃ ja que pagar ɨ aronea ja . Nyebe ererecua ñee nguiã ee . “ Mbae jemondo eã ño seje ” , sã ɨ chõ ererecua ee no . ¿ Aba eya tuchɨ nguerecua rese re ? ɨ que Jesús ñee Simón je ra .
+42007049	Mañɨ		Ae que chɨ quiaru erese nae , ũquɨ̃ ngue ñee nyecuayã cuayã u nyue ra . — ¿ Mañɨ nda Jesús mbia ɨcuã mbutiã esɨ re ? ɨ que eu ñee ñee nyue ra .
+42008025a	Mbaerã		— ¿ Mbaerã jẽɨngo siquichete re ? 
+42008025b	~		¿ Seɨcuayãte equia re ? ɨ que Jesús uchɨmbaaquiatu je ra . Siquiche beɨ que equia ra . Nyuruɨra tuchɨ Jesús quirãcuã ndese mae . — Quɨrɨrɨã Jesús cheẽ mumbayã ñochɨ̃ . Ama abe echeẽ mumbayã ñochɨ̃ , ɨ que ñee ñee nyue cote ra .
+42008028	Mañɨ		Tu que ngoi ngũíã ndese Jesús resa quiti ra . Ñee asite que eu ee ra . — ¿ Mañɨ ere ra seje re , Jesús ? Dios ibatenda riirĩ ño nde re . ¡ Sembasichɨ̃ nda se jẽ ! ɨ que ñee tuchɨ Jesús je ra .
+42008030	Mañɨ		— ¿ Mañɨ ndeje re ? ɨ que Jesús ñee ee ra . — Etubɨrɨã , ɨ que seje ra . Ure cuabẽte quia ure re , ɨ que aba checuayã ñee Jesús je ra .
+42008045	Aba		— ¿ Aba oco serese re ? ɨ que Jesús mbi je cote ra . — Tei . Aba ãte , ɨ ja rei que mbia ee ra . Pedro que ñee ee ra . — Mbia tubɨrɨãte nyeresẽ . Mbia cuaẽ nguia ñimaña maña jate co resẽ . ¿ Mbaerã ereɨco “ ¿ aba oco serese re ? ” ɨ re ? ɨ que echɨmbaaquiatu ñee ja ee ra .
+42009009a	aba		Herodes que ñee nda . — Juan ãquĩ ngue achisiamo tuchɨ . ¿ Mañɨ nda quera sɨ re ? ¿ Aba Jesús re ? Ae rese aɨco jirandu tuchɨte . Tamae erese no , ɨ que ndua ndua uchɨangui re ra .
+42009009b	~		
+42009018	aba		Emo mose que Jesús ae riqui ñee ñee Dios je ra . Echɨmbaaquiatu abe que chɨ huee ra . — ¿ Aba aɨco reɨ̃ mbia je re ? ɨ que Jesús ee ra .
+42009020a	~		
+42009020b	aba		— ¿ Aba aɨco reɨ̃ jẽje co re ? ɨ que Jesús ee ra . — Cristo chõ nde resẽ . Dios riirĩ ño nde resẽ , ɨ que Pedro Jesús je ra .
+42009025	~		Emo ngueco mumba chooño mose , eya eã mbeɨ rae . Mbaecha rete raque .
+42009041a	Mañɨ		— ¿ Mañɨ jenye quia seɨcuayãte re ? ¿ Secheẽ jemumba tuchɨ chõ nguia re ? 
+42009041b	~		¿ Ñimbirãcuã mbeɨte ra aba quia jẽje re ? ɨ que Jesús ñee ee ra . — Nderiirĩ eru rã seje , ɨ que eru je cote ra .
+42010025	mbae		— Ma Jesús ucheẽ nyabi , ɨ que embesasa mo ñee oso Jesús rea ra . — ¿ Mbae rese ra aɨco siqui beɨ nonde re ? ɨ que ñee Jesús je ra .
+42010026a	Mañɨ		— ¿ Mañɨ ño Voisés chɨmbesa re ? ɨ que Jesús ee ra .
+42010026b	~		
+42010029	Aba		Embesasa que uturã saã saã Jesús je ra . — ¿ Aba se ji jenda re ? ¿ Aba rese ra achesecua re ? ɨ que ñee Jesús je ra .
+42010036a	~		
+42010036b	aba		¿ Aba nyesecua ecura curái rese re ? ¿ Sacerdote ere ? ¿ Levita ere ? ¿ Samaria jenda ere ? ɨ que Jesús embesasa je ra .
+42011008	~		Mondo eã aroneate jẽje jeñee mbeɨ beɨ mose ee . Nyuruã sereãte raque uquiato je . Ñee mbeɨ mose ee , nyuruã nda mbae mondo turã ee .
+42011011	~		Jendiirĩ “ mbichae embu seje ” ɨ mose , ¿ sɨta ra eru mee ee re ? Jendiirĩ “ sɨra embu seje ” ɨ mose ¿ mbeɨ ra eru mondo ee re ?
+42011012	~		Jendiirĩ “ nguira chɨa embu seje ” ɨ mose , ¿ quiraẽ nda eru mondo ee re ?
+42011013	~		Mbia ɨcuã nyee mbae turã mondo mondo quia nguiirĩ je ã . Jendu Ibatenda quia ra mbae turã tuchɨ mee jẽje . Jendu ra Espíritu Turã mee jẽje , jeñee mose ee , ɨ que Jesús ee ra .
+42011018	~		Satanás ɨcuã ɨcuã mose nyue , Satanás quirãcuã nda ua no . Jeñee ñooño ño nguiã seje ã . “ Satanás quirãcuã je chõ Jesús riqui nguiã aba checuayã mbusẽ mbusẽ mbia sɨ ” , jenye chõchɨ̃ nguiã seje ã .
+42011019	Aba		¿ Aba jeñɨmbaaquiatu mbirãcuã jẽ nde ? Aba checuayã ɨcuã mbusẽ nonde re . ¿ Satanás jeñɨmbaaquiatu mbirãcuã serese re ?
+42012014	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã nda re ? “ Mbia mbae embuchecha turã turã ee ” , ɨã ngue Dios seje ra , ɨ que Jesús ee ra .
+42012017	Mañɨ		“ ¿ Mañɨ ae ra se re ? ¿ Mangue ra aba ererecoquiatu re ? ” ɨ tuchɨ que mbaecha uchɨangui re ra .
+42012020	aba		Dios que ñee ee ra . “ Ndearacuayãte ereɨco co . Co isa chõ nda eremano . Ae ererecoquiatute quia nae , aba je chio nda ũquɨ̃ cote ” , ɨ que Dios ñee mbaecha je ra .
+42012024	~		Sã nguireɨ̃ no . Mbae tiquiayã ndaque . Mbae ɨshao eã ndaque no . Mbae ruacuã eãte raque embae . Dios quiarei embuquiaru quiaru . Jẽ nguiarei Dios queteamba tuchɨ nguireɨ̃ sɨ . Nguireɨ̃ ja sɨ . Jẽ abe Dios ae jembuquiaru nguiã jẽ no .
+42012025	~		Mbia ae ra tiarõ eã . “ Se ra atiarombe ” , ɨ raque ndua ndua uchɨangui re . Dios ae mbia mbutiarõ arõ nguiã .
+42012026	mbaerã		Jẽ mbae ñetẽ naa aquiatuã mose , ¿ mbaerã jẽɨngo “ mbae cuasu tasaã ” ɨ re ? Dios quia ra mbae saã ja jẽje .
+42012042	aba		Jesús que ñee ee ra . — Dios rimba aba cheẽ mumbayã nɨɨ aɨco ñee co . Dios rimba aracua rɨɨãɨco ñee co . Sã ererecua ñee ngũimba turã je no . “ ¡ Sembae esaarõ ja jẽ ! ” ɨ ee . “ Serimba ataque embuquiaru quiaru ja quia no ” , ɨ ee .
+42012049	~		Ibate sɨ que achu íbii ra . Mbia mae sacuã sequirãcuã ndese . Mbia sequirãcuã ɨcua eã ñochɨ̃ namo nyee .
+42012056	Mbaerã		Ibei jẽɨcuate raque quia ã . Tenda abe jẽɨcuate raque quia ã no . Ama abe no . Dios rucucha ra tu mbia je , ¿ mbaerã jẽɨngo ũquɨ̃ ɨcuayãte quiatu re ? ¿ Mbaerã jẽɨngo jẽaracua raã naa nde ?
+42012057	Mbaerã		¿ Mbaerã jẽɨngo mae sereãte mbae turã ndese re ?
+42013004	~		Sã torre de Siloé ngoɨ mbia ati no . Dieciocho ɨquia . ¿ Ũquɨ̃ eɨcuãte riqui reɨ̃ mbia ataque sɨ re ? Tei .
+42013007	~		Nyebe ameɨ ñee nguiã ngũimba je cote . “ Ira a rea ngue aso rei nguiã . Ɨa eã mbeɨ chõchɨ̃ seje tres años . ¡ Echisia chõ oso jẽ ! Ibi riquisã ñooño uã aque ” , ɨ que ameɨ ngũimba je ra .
+42013015	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã ereɨco ndeturã naa ñooño nde ? ¿ Sábado mose jẽɨngo ticuasu mbuɨ eã mbeɨ embiu sacuã nde ?
+42013018a	mbae		Jesús que ñeembe mbia je cote ra . — ¿ Mbae rã ño Dios rimba chã ? 
+42013018b	~		Mbae eɨ̃ na ño Dios rimba re . Sã mbia mostaza eɨ̃ tiquia no . Ieɨ̃ ñetẽte raque etiquia ramo mose . Suri oso quia cote . Ecuasu tuchɨ chee cote . Nguireɨ̃ uquisa saã nyee erãquiã ndese . Eɨ̃ sɨ chõ Dios rimba re . Ũquɨ̃ mɨɨ ndaque nyii . Ñimbeta tuchɨ cote . Mbae eɨ̃ na .
+42013020	mbae		¿ Mbae rã ño Dios rimba chã ? Levadura rã ño Dios rimba re . Sã mbia levadura ñetẽ mondo mbichae ao ramo mose no . Levadura oso quia mbichae mbuchɨmatã ja no . Eɨ̃ sɨ chõ Dios rimba re , ɨ que Jesús ra .
+42013025	Mangue		Emo mose ra eɨquesa amatã mbeɨ cote . Emo nda ɨqueã mbeɨ cote . Eɨquesa ra jembuu mbuu raque cote . “ Sererecua , eɨquesa embuquiata rã ure je ” , jenye raque ra seje cote . Acheẽ nda jẽje . “ ¿ Mangue jenda jẽ nde ? Jaẽɨcuayãte se ” , ae ra jẽje cote . Eɨquesa ra ambuquiatayã mbeɨ jẽje cote .
+42014005	Sábado		Jesús que ñee fariseos je ra . — Sã jenimba ticuasu riqui jaã no , ngoɨ oso ibicua rie . ¿ Sábado mose ra jẽsiquíã nde ? ɨ que Jesús ee ra .
+42014028	Manya		Sã emo ñee no . “ Sechuchua tasaã na ” , ɨ . “ ¿ Manya mbae isiquia ra amumba sechuchua raã sacuã nde ? ” ɨ nyii eao nonde .
+42014031	~		Sã soldados rerecua ɨcuã ɨcuã emo je no . Guerra raã serɨ̃ ee . Guerra raã nonde ra ndua ndua . “ Ae quiatu que soldados tubɨrɨãte embae sesɨ ra ” , ɨ uchɨangui re cote .
+42014034	~		Embiquesa turãte raque . Embiquesa ɨse quiachamba mose , eɨcuã tuchɨ cote .
+42015004	~		— Sã emo nimba quiachã oveja no . Cien ndei erimba . Co mɨɨ ngue quiachã ee ra . Aque esɨ quia quiachã je requia aque . Eataque recha . Noventa y nueve recha .
+42015008	~		Sã cuña mo mbae isiquia diez quereco no . Sã aque mɨɨ quiachã ndaque ee no . Lamparina ngue emendi eresae sacuã nda . Sã uchuchua tii no . Mbae isiquia rea chee .
+42015026	Mbaerã		Ñee ngue erimba mo je ra . “ ¿ Mbaerã eriqui toõtõ ɨ re ? ¿ Mbaerã mbia riqui nyuruqui re ? ” ɨ que ameɨ ndiirĩ ndiquii ra .
+42015029	~		Eriirĩ ngue ñee ngu je ra . “ Cosete que aɨco rei quieɨ quieɨ ndeje . Ndecheẽ ngue amumba mumba eãte quia emo mose . Mbae mo ngue ereɨquia eã mbeɨte seje . Sembae fiesta raã sacuã sequiato rese .
+42016002	Mbaerã		Ererecua que ñee ee ra . “ ¿ Mbaerã mbia riqui ñee nderɨɨ̃ seje re ? ¡ Cuentas esaã saã mbia mbae ja jẽ ! Sembae raarõsa eã nda nde cote ” , ɨ que ererecua ngũimba je ra .
+42016003	Mañɨ		Erimba que ndua ndua uchɨangui re cote ra . “ ¿ Mañɨ ae ra sequia sererecua se mombo mose re ? Sequirãcuã neate quieɨ quieɨ sacuã ndesẽ . Seɨreɨ̃te ache ache ɨ mbia je .
+42016005	Manya		Ae deber ɨ quia ererecua je , ũquɨ̃ je que erimba ñee nda . Co mɨɨ mɨɨ je . “ ¿ Manya deber ere sererecua je re ? ” ɨ que erimba emo je ra .
+42016007	Manya		Ae deber ɨ quia ererecua je , ũquɨ̃ mo je que erimba ñee no nda . “ ¿ Manya deber ere sererecua je re ? ” ɨ ee . “ Cien bolsas de trigo que deber ae ee ra ” , ɨ que erimba je ra . Erimba que ñee ee ra . “ Nembae cuenta nandemombo chõ . Emo nandesaã asi . Cien eã nda cote . Ochenta achõ ño nda cote ” , ɨ que erimba ñee ee ra .
+42016011	~		Jẽ jembae mondo turã eã mose Dios je , Dios ra mbae turã mondo eã jẽje ibate .
+42016012	aba		Jẽ Dios mbae raarõ turã eã mose , ¿ aba quia ra mbae mondo jẽje jembaerã tuchɨ cote re ?
+42017007	mañɨ		Sã emo nimba mo ndiqui beɨ turuquia rɨ̃ ticuasu raarõ arõ no . Ecuasẽ mose tuchúaa , ¿ mañɨ nda ererecua ñee jeɨ ee re ? “ Equiaru rã ” , ɨ jeɨ ee re .
+42017017	Ma		Jesús que ñee nda . — Eatate que ambucherõ . ¿ Ma eataque ma nde ? ¿ Ma nueve ma nde ? Nyebiã ñochɨ̃ ecuaẽ gracias ɨ seje .
+42017018	~		Co mɨɨ tuchɨ chõ tuchɨ̃ nyebi gracias ɨ Dios je co . Judío eã ndaque , ɨ que Jesús ra .
+42017020	Manosete		— ¿ Manosete ra Dios ru íbii mbia rerecuarã tuchɨ re ? ɨ que fariseos ñee Jesús je ra . Jesús que ñee ee ra . — Mbia ra mae eã erese .
+42017037	Mangue		— ¿ Mangue ra ũquɨ̃ mangue re , Jesús ? ɨ que echɨmbaaquiatu ra . Jesús que ñeembe ee ra . — Ae rɨ̃ mbae raaque riqui chɨ nae , huee ra urubu choɨ ja tuchɨ , ɨ que Jesús ra .
+42018018	Mañɨ		Ererecua mo ngue ñee Jesús je ra . — Mbia mbaaquiatusa turãte nde . ¿ Mañɨ ae ra se siqui beɨ nonde ibate re ? ɨ que ererecua ñee Jesús je ra .
+42018019	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã ereɨco eturã ɨ seje re ? Dios mɨɨ ño eturã ndesẽ .
+42018026	Aba		— ¿ Aba quia ra oso Dios rea re no ? ɨ que mbia Jesús je cote ra .
+42018036	mbae		Eresayã ngue mbia tubɨrɨã quɨcoɨ chandu ra . — ¿ Mbae ere ? ɨ que eresayã emo je ra .
+42018041	Mañɨ		— ¿ Mañɨ ae ra ndeje re ? ɨ que Jesús ñee ee ra . — Seresa embuturã na , Sererecua , ɨ que eresayã nda .
+42019007	Mbaerã		Mbia que ñee ñee tuchɨ Jesús rɨɨ̃ cote ra . — ¿ Mbaerã Jesús sɨ quia mbia ɨcuã nyuchúaa aque re ? ɨ tuchɨ que mbia ñee nda .
+42019023	Mbaerã		¿ Mbaerã sembae mbae isiquia eremondo eã banco re ? Ɨ̃ nda ñɨmbaata jiri rei seje ” , ɨ que ererecua ñee asi aque ngũimba je ra .
+42019031	Mbaerã		“ ¿ Mbaerã nda jenyura re ? ” ɨ mose emo jẽje , jeñee ee . “ Nandererecua que jendu ɨ ra ” , jenye ee , ɨ que Jesús ũquɨ̃ nyeremo mondo ra .
+42019033	Mbaerã		Burro riirĩ ngue etea ra . Era mose que echa ñee ee ra . — ¿ Mbaerã jẽɨngo era era re ? ɨ que ee ra .
+42020002a	Mbaerã		Ũquɨ̃ ngue ñee ja Jesús je ra . — ¿ Mbaerã ereɨco mbia mbaaquiatu quiatu re ? 
+42020002b	aba		¿ Aba “ mbia embaaquiatu quiatu ” ɨ ndeje re ? ɨ que ererecua ja Jesús je ra .
+42020005a	Mañɨ		Ererecua que ndua ndua ja u ra . Ñee ñee ngue u nyue ra . — ¿ Mañɨ nande ra echeẽ ndobeɨshɨ̃ nde ? “ Dios que Juan mbu ra ” , nande aroneate . Eɨ̃ nda ñee nande je . 
+42020005b	Mbaerã		“ ¿ Mbaerã jẽɨngoãte eruɨ re no ? ” ɨ quiarei ra nande je .
+42020013	Mañɨ		Echa ia eãte que ra . “ ¿ Mañɨ ae ra se re ? Seriirĩ quiatu tamondo erea cote . Ũquɨ̃ nda ɨreɨ̃ ɨreɨ̃ jiri esɨ cote reae ” , ɨ rei que echa ra .
+42020015	Mañɨ		Eraarõsa que eriirĩ querao pe jiri eɨquia ra . Eriirĩ ngue mano cote ra . ¿ Mañɨ nda echa quia eraarõsa je cote re ?
+42020017	~		Jesús que mae erese ñee ee cote ra . — ¿ Ã embesa ji rese jemae ãte re ? Sã emo ndiqui tuchua ao sɨta je no . Sã sɨta mo ndirirõ mombo no . Eɨcuãte eriqui reĩ nguiã ee . Aquere Dios emundua sɨ erese . “ Earonda sacuã turambi chõ eriqui re ” , ɨ ndua sɨ uchɨmombo rese . Sã uchɨmombo rirõ sɨ cote no , ɨ que embesa ji ra .
+42020023	Mbaerã		Jesús que ũquɨ̃ ɨcuã ɨcuate ra . Nyebe ñee nguiã ee . — ¿ Mbaerã jẽɨngo “ ɨ̃ nda Jesús ucheẽ nyabi ” , ɨ seje re ?
+42020024a	aba		Mbae isiquia mo jẽteacuquia ɨmbu seje . ¿ Aba mbae nombre ñɨ mbae isiquia rese a re ? 
+42020024b	aba		a¿ Aba ãquĩ aingue abe ñɨ a re ? ɨ que Jesús ee ra . — Romano nderecua , ɨ que ñee Jesús je ra .
+42020033	abate		Siete que eru nyii resẽ . Mbia raaque quera sɨ mose , ¿ abate ra equereco cote re ? ɨ que saduceos ñee Jesús je ra . — Ma Jesús ñee ɨcuã no , ɨ chõ ngue re .
+42020041	Mbaerã		Jesús que ñee mbia je ra . — Se abe tacheẽ jẽje cote . ¿ Mbaerã mbia riqui ñee nde ? “ David rucucha chõ Cristo re ” ɨ re .
+42020044	Mañɨ		David sɨ chõ “ sererecua ” ɨ nguiã Cristo je . ¿ Mañɨ nda David rucucha Cristo re ? Jeñee ño seje , ɨ que Jesús ũquɨ̃ je ra .
+42021007a	Manose		— ¿ Manose ra ũquɨ̃ nde ? 
+42021007b	Mañɨ		¿ Mañɨ ure ra equia irandu mbae ua nonde re ? ɨ que Jesús chɨmbaaquiatu ee ra .
+42022009	Mangue		Ũquɨ̃ ngue ñee echeẽ mose ra . — ¿ Mangue ra aba embuchi mangue re ? ɨ que Jesús cheẽ mose ra .
+42022011	Ma		Tuchuacha je jeñee . “ Jesús que urembu ñee ndeje ra . ‘ ¿ Ma cuarto ra urecu quiaru oveja u que re ? Sechɨmbaaquiatu rese ’ , ɨ que Jesús ñee ndeje ra ” , jenye tuchuacha je .
+42022027	~		Ererecua ngoi chõ nguiã . Erimba mbae mee mee ño nguiã ee . Eɨ̃ eã ño se re . Se quia mbae amee mee nguiã jẽje co .
+42022046	Mbaerã		Ñee ngue ee ra . — ¿ Mbaerã jẽɨngo uque a re ? Jenyuruã eae . Jeñee na Dios je . Satanás tã ɨ eã sacuã jẽje , ɨ que Jesús ee ra .
+42022064	Aba		Jesús resa abe que echati ra . Eruba rese que ucua ucua tuchɨ ra . — ¿ Aba ucua ucua quia nderuba rese a re ? ɨ abe que equia Jesús resa ati ji je ra .
+42022071	Mbaerã		Ererecua que ñee ja nyue ra . — ¿ Mbaerã nda mbia Jesús ɨcuã nenei ɨ ɨte nande je re ? Jesús cheẽ ɨcuã ngue nandechandu rei nande abe resẽ . Sã mbia eɨquia , ɨ que ererecua ñee ja nyue ra .
+42023022a	mbae		Pilato que ñee sɨ ee ra . Tres veces cote . — ¿ Mbaerã nda Jesús aɨquia re ? 
+42023022b	mbae		¿ Mbae ɨcuã esaã nde ? Mbae ɨcuã esaã eãte umano sacuã . Tairuã nua ño . Aquere tambuɨ mondo , ɨ rei que Pilato ra .
+42023031	~		Se chee mbia riquichɨ̃ sembasi mbasi a . Seɨcuã eã ndaque se . Mbia quiatu ra mbae rasi saã tuchɨ huɨɨcuã nɨɨ cote , ɨ que Jesús ñee nda .
+42024005	Mbaerã		Cuña ngue titi titi ɨ tuchɨ u ra . Nyebe echɨ nguiã nyibi beɨte . Angeles que ñee ee ra . — ¿ Mbaerã jẽɨngo Jesús raaque requia requia a re ? Quera sɨ que resẽ .
+42024017	Mbae		Jesús que ñee nyee ee ra . — ¿ Mbae rɨɨ̃ jẽɨngo ñee nyue ã nde ? ¿ Mbaerã jẽya eãte riqui re ? ɨ que Jesús ñee ee ra .
+42024019	Mbae		— ¿ Mbae rese ? ɨ que Jesús ee ra . Ũquɨ̃ ngue ñeembe ee ra . — Jesús rese . Nazaret jenda rese . Dios cheẽ nenei neneisa tuchɨ rei que ae ra . Equirãcuã tuchɨ rei que ae ra . Mbia que mae ja tuchɨ rei equirãcuã ndese ra .
+42024025	Mbaerã		Jesús que ñee ee cote ra . — ¿ Mbaerã jẽaquiatuãte riqui re ? ¿ Mbaerã jẽɨngo Dios cheẽ ɨcuayãte re ? ¿ Mbaerã jẽɨngo Dios cheẽ nenei neneisa chɨmbesa ɨcuayãte re ?
+42024038a	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã jẽsiquichete riqui re ? 
+42024038b	Mbaerã		¿ Mbaerã “ Jesús chõ eriqui re ” jenye eã seje re ?
+43001019	Aba		Judíos Jerusalén jenda que mbia mondochoɨ ñee Juan je ra . Sacerdotes mondo erea . Levitas mo ndese . — ¿ Aba nde re ? ɨ sacuã Juan je .
+43001021	abate		— ¿ Abate nde re ? ¿ Elías chõ nde re ? ɨ que judíos chɨmondo ñeembe Juan je ra . — Tei . Elías eã ño se re , ɨ que Juan ee ra . — Dios cheẽ mbuchecuasa ra tu , ɨ equia nae , ¿ ae chõ nde re ? ɨ que mbia ñee Juan je ra . — Tei , ɨ que Juan ee ra .
+43001022a	Abate		Judíos chɨmondo que ñeembe Juan je ra . — Ndecheẽ embuchecua ure je . ¿ Abate nde re ? Ɨ̃ nda ndecheẽ uresenei ũquɨ̃ je , ae urembu . 
+43001022b	Mañɨ		¿ Mañɨ ure ra nderɨɨ̃ nde ? ɨ que Juan je ra .
+43001025	Mbaerã		Fariseos chɨmondo que ñee ee ra . — ¿ Mbaerã ereɨco bautizar ɨ re ? Cristo eã ño nde resẽ . Elías eã ño nde resẽ . Dios cheẽ mbuchecuasa eã ño nde resẽ , ɨ que Juan je ra .
+43001038a	mbae		Jesús que mae nguique quiti ra . — ¿ Mbae jẽsequia quia re ? ɨ que mae erese ra . Ũquɨ̃ ngue ñee Jesús je ra . 
+43001038b	ma		— Mbia mbaaquiatusa , ¿ ma ndechuchua ma nde ? ɨ que ee ra .
+43001046	mbae		Natanael que ñee Felipe je ra . — ¿ Mbae turã mo nda tu Nazaret jenda re ? ɨ que ra . — Echu erea ae , ɨ que Felipe ee ra .
+43001048	Mañɨ		— ¿ Mañɨ ere quia seɨcuate re ? ɨ que Natanael Jesús je ra . — Amae ngue nderese ra . Felipe ‘ quiatuchu ’ ɨ nonde ndeje . Iraqui re que amae nderese ra . Higo iqui re , ɨ que Jesús ee ra .
+43002004	Mbaerã		Jesús que ñee ee ra . — ¿ Mbaerã ereɨco ñee seje ũquɨ̃ nde , Taĩ ? Achecua jeɨ eã nda mbia je , ɨ que Jesús usi je ra .
+43002018a	~		Judíos que ñee Jesús je ra . 
+43002018b	ma		— ¿ Ma mbia mae sayã nda eresaã ure je re ? Ure ndeɨcua sacuã . “ Ererecua chõ eriqui re ” , ure nda ndeje chã , ɨ que judíos ñee Jesús je ra .
+43003004	Mañɨ		Nicodemo que ñee Jesús je ra . — ¿ Mañɨ nda mbia cuasu nyaacuquia sɨ re ? ¿ Usi riequi rɨ̃ nda esɨ sɨ re ? ¿ Nyaacuquia sɨ nonde re ? ɨ que Nicodemo Jesús je ra .
+43003009	Mañɨ		— ¿ Mañɨ ũquɨ̃ nde ? ɨ que Nicodemo Jesús je ra .
+43003012	~		“ Ɨchõɨño nguiã ” , jenye chõchɨ̃ nguiã secheẽ mose . Ibi jenda renei nenei mose jẽje . Secheẽ nda jemumba tuchɨ cote , ibatenda nenei nenei mose jẽje .
+43004009	Mbaerã		Judíos que ñee eã mbeɨ quia mbia Samaria jenda je querabe ra . Ɨsho beɨ que eriqui nyesɨ ra . Nyebe acuanɨ ñee nguiã Jesús je . — Judiote nde resẽ . ¿ Mbaerã ereɨco ñee seje re ? ¿ Mbaerã ereɨco “ i embu ” ɨ seje re ? Samaria jenda chõ se resẽ , ɨ que acuanɨ Jesús cheẽ ndɨbɨshorõ nda .
+43004011	Ma		Acuanɨ ngue ñee sɨ Jesús je ra . — Noria cuate nyeresẽ . I arasa ereru eãte quia a resẽ . Ma je quia ra i raanguia erechara seje .
+43004027a	mbae		Aque mose que Jesús chɨmbaaquiatu ngaẽ ngasẽ cote ra . — Jesús riquichɨ̃ ñee acuanɨ je a re , ɨ que eu nyuruɨrate mae erese ra . — ¿ Mbae jenye quia ñee nde ? ɨ eã ngue emo nda . Ɨreɨ̃ ɨreɨ̃te quiatu ngue ñee Jesús je re .
+43004027b	~		
+43005012	Aba		Judíos que ñee ee ra . — ¿ Aba aque re ? ¿ Aba “ ndequisa erao ” , ɨ ndeje re ? ɨ que ra .
+43005044	Mañɨ		Mbia resa rae jẽɨngochɨ̃ nguiã jẽturã naa naa . Dios je quiarei jẽturã eãte . ¿ Mañɨ jenye quiatu ra equia seɨcua re ?
+43005047	~		“ Nyia ” jenye eã mose Moisés chɨmbesa je , “ nyia ” jenye eã nda secheẽ mose abe no , ɨ que Jesús judíos je ra .
+43006005	Mangue		Mbia tubɨrɨã ngue ngaẽ nguia Jesús ruɨ ra . Jesús que mae erese ra . Ñee ngue Felipe je ra . — Mbia tubɨrɨã tuchɨ . ¿ Mangue ra echɨurã nandeisi mangue re ? ɨ que Jesús ee ra .
+43006009	~		— A ãquẽ mo ndiqui a . Cinco mbichae rerequia a . Sɨra nyeremo abe rerequia a . Echayãte quiatu nda re . Mbia tubɨrɨãte quia ñene , ɨ que Andrés Jesús je ra .
+43006025	manose		Mbia cuabẽ ngue ngaẽ ama ndasa coquimo ngote ra . Ngasẽ ngue Jesús je cote ra . — Mbia mbaaquiatusa , ¿ manose erechu ngasẽ aa re ? ɨ que mbia cuabẽ Jesús je ra .
+43006028	Mañɨ		Mbia que ñeembe Jesús je ra . — ¿ Mañɨ ure ra equia re ? ¿ Mbae rese ra aba riqui Dios mbia re ? ɨ que mbia Jesús je ra .
+43006030a	mbae		— ¿ Mbae mo nda eresaã na ure je re , uremae sayã nde ? Ɨ̃ nda uremae nderese . Eɨ̃ ure ra ndeɨcua cote .
+43006030b	~		
+43006042	Mbaerã		— Jesús chõ co re . José riirĩ ño co re . Eru rese que nandemae ndesẽ . Esi abe rese que nandemae ndesẽ . ¿ Mbaerã eriquiñee nande je re ? “ Ibei sɨ que achu ra ” , ɨ nande je re , ɨ que mbia ñee ñee nyue ra .
+43006052	Mañɨ		Judíos que ñee ɨcuã ɨcuã nyue cote ra . — ¿ Mañɨ nda nguete mee nandechɨurã nde ? ɨ que nyue ra .
+43006060	~		Jesús cheẽ andusa que ñee tuchɨ nyue ra . — Mbaranguiatuã tuchɨ chõ Jesús cheẽ ndiqui re . Echeẽ nandemumba eã aroneate quiatu quia re , ɨ que nyue ra .
+43006062	Mañɨ		¿ Mañɨ jenye ra mae mose serese re ? Seso sɨ mose ibate re .
+43006068	Aba		Simón Pedro que ñee ee ra . — Tei , Urererecua . Aba ruɨ quia ra ureɨco cote . Ndecheẽ ño mbia mɨngo beɨsa resẽ .
+43007011	Ma		Judíos rerecua que Jesús sequia sequia ja u ra . — ¿ Ma Jesús riqui ma nde ? ɨ ja que fiesta mose ra .
+43007015	Mangue		Judíos que nyuruɨra tuchɨ Jesús cheẽ andu ra . — Eaquiatute quia eriqui re . ¿ Mangue eriqui ñimbaaquiatu mangue nyii re ? ɨ que mbia ra .
+43007019	Mbaerã		Moisés que Dios cheẽ mbesa rei nande je ra . Nande emumbayã sacuã . Jẽ nguia rei Dios cheẽ mumba . ¿ Mbaerã jẽɨngo seɨquia serɨ̃te re ? ɨ que Jesús ee ra .
+43007020	Aba		Mbia que ñee ee cote ra . — Emo ndiqui ndeɨquia serɨ̃ eãte co . Aba checuayã ɨcuã ae nembɨɨcuã ndeae , ɨ que mbia Jesús je ra .
+43007023	Mbaerã		Moisés cheẽ nguire chõ jẽɨngo nguiã circuncisión naa naa jendiirĩ je ã . Sábado mose abe . ¿ Mbaerã jẽɨngo paama ɨ seje mbia mbucherõ mose sábado mose re ?
+43007035	Manguiti		Judíos que ñee nyue ra . — Manguiti ra esɨ reae . Manguiti ra nandecuasẽ aroneate ee reae . Judíos siqui quia griegos rese nae , ũquɨ̃ ndea ra esɨ reae . Griegos mbaaquiatu sacuã ndeae .
+43007036	Mbaerã		“ Serequia ra se cote . Serea eãte ra se . Ae ra aso nae , huee jengasẽ aroneate ” , ɨ chõchɨ̃ nguiã nande je . ¿ Mbaerã eriqui ñee nande je ũquɨ̃ nde ? ɨ que judíos u ñee nyue ra .
+43007041	Mañɨ		Emo emo ngue ñee nda . — Co rei Cristo tuchɨ co , ɨ que ra . Emo emo ngue echeẽ sɨbɨ shorõ no nda . — Tei . ¿ Mañɨ nda Galilea jenda Cristo re ? Hue jenda eã ño nda Cristo ndesẽ .
+43007045	Mbaerã		Policía jenda ochɨ que nyoɨ nyebi fariseos je cote ra . Sacerdotes rerecua je abe nyebi . — ¿ Mbaerã Jesús jendu eã ure je re ? ɨ que ererecua policía jenda je ra .
+43007048	~		Nandererecua mo ngue “ coche rei ” ɨã tuchɨ Jesús je resẽ . Fariseos mo abe que “ coche rei ” ɨã tuchɨ Jesús je resẽ .
+43007051	~		— Emo nandembasi mbasi chooño aroneate . Echeẽ nandechandu rane nguiatu . Nandeirandu ja rã nguiatu erese . Embasi nonde . Eɨ̃ ngue Moisés embesa mɨɨ nande je ra , ɨ que Nicodemo uataque je ra .
+43008005	Mañɨ		Moisés que ñee nande je ra . “ Ã jẽɨquia sɨta je ” , ɨ que Moisés quia ã mbia rɨɨ̃ nda . ¿ Mañɨ ere ra ã nɨɨ ñee nde re ? ɨ que cuña ndurucuaẽsa ñee Jesús je ra .
+43008010	Ma		Jesús que juã mbia rerecua ruɨbe cote ra . Cuña je que ñee cote ra . — ¿ Ma nderurucuaẽsa ma nde ? “ Nandecheɨ rã sɨta je ” , ¿ ɨãte emo nguia nderɨɨ̃ co re ? ɨ que Jesús ñee cuña je ra .
+43008019	Ma		— ¿ Ma nderu riqui ma nde ? ɨ que fariseos Jesús je ra . Jesús que ñee ee ra . — Paba jẽɨcuayãte quia ã . Se abe seɨcuayãte quia ã . Jẽ seɨcua mose , Paba abe ra jẽɨcua , ɨ que Jesús ra .
+43008025a	aba		— ¿ Aba tuchɨ nde re ? ɨ que mbia Jesús je ra . 
+43008025b	~		Jesús que ñee ee ra . — Cose ndare beɨ chõ aɨco nguiã serenei nenei jẽje co .
+43008033	Mbaerã		Mbia que ñee Jesús je ra . — Abraham nducucha rei ure . Mbia mo nimba eã mbeɨ que ureɨco resẽ . ¿ Mbaerã ereɨco ñee ure je re ? “ Mbia sɨ taembuɨ mɨngo cote ” , ɨ ure je re , ɨ que mbia Jesús je ra .
+43008043	~		Ã jẽɨngo secheẽ andu sereãte ã . Nyebe jẽɨngo nguiã secheẽ ɨcua aroneate ã .
+43008046a	~		Mbae ɨcuã ngue asaã eãte ra . Ũquɨ̃ jẽɨcuate raque . Acheẽ ñooño ãte sequia co resẽ . 
+43008046b	Mbaerã		¿ Mbaerã jẽɨngo secheẽ andu sereã neate ã nde ?
+43008053	Abate		¿ Nde ndeaquiatu tuchɨ Abraham sɨ re ? Ae chee que mano . Dios cheẽ nenei neneisa chee que mano . ¿ Abate nde re ? “ Mbia ra manoã ” , ere chõte equia co , ɨ que judíos Jesús je ra .
+43008057	Mañɨ		Mbia que ñee Jesús je ra . — Cosete que Abraham mano ndesẽ . ¿ Mañɨ ere mae erese re ? Cincuenta años eãte nde resẽ , ɨ que ra .
+43009002	abate		Jesús chɨmbaaquiatu que ñee ee ra . — Urembaaquiatusa , ¿ abate mbae ɨcuã saã nyii re ? Co resayã nonde re . Eru ereae . Esi ere no ae . Ae sɨ ere no ae . ¿ Abate ere ? ɨ que Jesús je ra .
+43009010	Mañɨ		— ¿ Mañɨ nderesayã mae nde ? ɨ que mbia ee ra .
+43009012	Ma		— ¿ Ma nderesa mbucherõsa riqui ma nde ? ɨ que mbia eresayã je ra . — Quɨ chõ esɨ , ɨ que ee ra .
+43009016	~		Fariseos mo ngue ñee nyue ra . — Ae eresa mbucherõ sábado mose nae , Dios cheẽ nenei neneisa eã ño aque re , ɨ rei que nyue ra . Emo emo ngue ñee no nda . — Eɨ̃ nguia nda eɨcuã mose mbia mae sayã naa naa eã nguiã nande je chã , ɨ que fariseos mo ñee nyue ra . Hue rɨ̃ ja eã ngue fariseos ñee Jesús rɨɨ̃ nda .
+43009017	mañɨ		Fariseos que ñee sɨ eresayã je ra . — Ae nembucherõ nae , ¿ mañɨ ee re ? ¿ Mañɨ ere quia nde erɨɨ̃ co re ? ɨ que ra . Eresayã ngue ñee nda . — Dios chɨmondo que ae ra , ɨ que eresayã nda .
+43009019	Mbae		— ¿ Co nderiirĩ co re ? ¿ Eresayã nyobeɨ nyii re ? ¿ Eresayã nyaacuquia nyii re ? ¿ Mbae emumae nguia co cote re ? ɨ que ñee eru je ra . Esi je abe .
+43009026a	Mañɨ		— ¿ Mañɨ equia ndeje re ? 
+43009026b	Mañɨ		¿ Mañɨ nderesayã ɨra re ? ɨ sɨ que eresayã je no nda .
+43009027	Mbaerã		Eresayã ngue ñeembe ererecua je ra . — Acheẽ ndei que jẽje resẽ . Secheẽ ngue jemumb resẽ . ¿ Mbaerã jẽɨngo “ echeembe ” ɨ seje ã nde ? ¿ Jẽ abe jẽɨngose rete sembucherõsa ruɨ re ? ɨ que eresayã judíos rerecua je ra .
+43009034	Mbaerã		Judíos rerecua que ñee eresayã je ra . — Ndechaacuquia mosenda beɨ chõ ndeɨcuã ndiqui nguiã co . ¿ Mbaerã ereɨco urembaaquiatu sete re ? ɨ que judíos rerecua eresayã je ra . Nyebe que judíos rerecua eresayã mombo beɨ judíos chumunuasa sɨ cote ra .
+43009036	Aba		— ¿ Aba chõ Dios rucucha re ? Aɨcua sete quia co , ɨ que eresayã nda .
+43010020	Mbaerã		— Aba checuayã siquite Jesús rese co resẽ . ¿ Mbaerã jẽɨngo echeẽ andu re ? ɨ que emo emo uataque je ra .
+43010021	~		Emo emo ngue ñee no nda . — Ae rese aba checuayã ndiqui nae , ũquɨ̃ nda ñee turã eã ndesẽ . Aba checuayã nda mbia resayã mbucherõ eã ndesẽ , ɨ que emo emo no nda .
+43010024	Manosete		Judíos que ngaẽ Jesús mama nda . Ñee ngue ee ra . — Ureɨco ndeɨcuayãte ã . ¿ Manosete ra erecheẽ tuchɨ ure je re ? Nde rɨɨ̃ . Echɨmbu checua jiri ure je . Nde Cristo mose , ndecheẽ embuchecua ure je , ɨ que judíos ñee Jesús je ra .
+43010032	~		Jesús que ñee ee ra . — Paba que sembuquirãcuã tuchɨ ra . Nyebe jemae sayã asaã saã tuchɨ nguiã jẽje . ¿ Ũquɨ̃ mo nɨɨ jẽɨngo “ nandecheɨ ” ɨ seje re ? ɨ que Jesús judíos je ra .
+43010036	Mbaerã		Dios que seirabo ra . Sembu que íbii cote ra . ¿ Mbaerã jẽɨngo paama ɨ secheẽ mose re ? “ Dios riirĩ ño se re ” , ɨ mose re . “ Ndeɨcuãte chõchɨ̃ Dios je ” , jenye chõchɨ̃ nguiã seje .
+43011034	mangue		— ¿ Mangue jenyati mangue re ? ɨ que Jesús mbia je ra . — Nyao erea ae , ɨ que mbia ee ra .
+43011047	Mañɨ		Fariseos que ñumunua ja cote ra . Sacerdotes rerecua ja rese . Mbia rerecua ja . Ñee tuchɨ Jesús rɨɨ̃ . — ¿ Mañɨ nande ra equia ee re ? Mbia mae sayã naa naa tuchɨchɨ̃ equia aque .
+43011056	~		Mbia que Jesús sequia quia ra . — ¿ Tu ra fiesta re ? ¿ Tu eã nda re ? ¿ Tu aroneate jẽje re ? ɨ que mbia ñee ñee nyue Jesús rɨɨ̃ nda . Ɨ que mbia u ñee Dios chuchúaa ra .
+43012005	Mbaerã		— ¿ Mbaerã eichusẽ ñooño nde ? ¿ Mbae isiquia rɨbɨshorõ ño nda aba emondo re ? Tres cientos rɨbɨshorõ . Mbaecha reã je emee sacuã , ũquɨ̃ mbae isiquia , ɨ que Judas ra .
+43012027	Mañɨ		Seya eãte aɨco co . ¿ Mañɨ ae ra ñee Paba je re ? “ Semɨngobe rei se ae . Sembasiã ndei se ae ” , ae aroneate Paba je . Ã sacuã ño ngue achu resẽ . Sembasi sacuã ño ngue achu resẽ .
+43012034a	Mbaerã		Mbia que ñee Jesús je cote ra . — “ Cristo ra siqui beɨ ” , ɨ que Dios cheẽ embesa ji urembiirandu . ¿ Mbaerã erecheẽ nde ? “ Mbia ra sembucha ira rese ” , ɨ re . 
+43012034b	aba		¿ Aba quia Cristo re ? ¿ Aba quia tu mbiarã nde ? ɨ que mbia ñee Jesús je ra .
+43012038a	~		Ae Isaías mbesa mɨɨ nyii nae , ũquɨ̃ na sɨ chõ ngue mbia Jesús ɨcuayã cote ra . Eɨ̃ ngue Isaías embesa mɨɨ nda : Sererecua , ae uresenei senei nguia mbia je nae , 
+43012038b	~		ũquɨ̃ mbia ɨcua sereãte quia ã . Ndequirãcuã mbia tea sereãte quia ã , ɨ que Isaías embesa ra .
+43013025	Aba		Jesús chesecua que ñɨmbucha ɨ ɨ ñee Jesús je ra . — ¿ Aba ra re ? ɨ ee .
+43013036	Manguiti		— ¿ Manguiti ra ereso re ? ɨ que Simón Pedro ñee Jesús je ra . — Ae ra aso nae , huee ereso aroneate namo . Emo mose jiri ra ereso seruɨ cote , ɨ que Jesús Pedro je ra .
+43013037	Mbaerã		Pedro que ñeembe ee ra . — ¿ Mbaerã nda asoã nderese namo nde ? Seso sete nderese . Semano sete nderese , ɨ que Pedro Jesús je ra .
+43014002	~		Ae Paba riqui , huee tuchua tubɨrɨãte . Ũquɨ̃ eande rae , eɨ̃ nda acheẽ eãte rei jẽje . Aso ra tuchuarã naã jẽje .
+43014005	Mangue		Tomás que ñee ee ra . — Ureɨcuayãte nyeresẽ . ¿ Mangue ra ereso mangue re ? Ñeenda ra ureɨcua eãte chɨ nde , ɨ que Tomás Jesús je ra .
+43014009	Mbaerã		Jesús que ñee Felipe je ra . — Aɨco tuchɨte que jendese , Felipe . ¿ Mbaerã ereɨco seɨcuayãte re ? Ae mae nguia serese , Paba abe rese maete . ¿ Mbaerã ereɨco ñee seje re ? “ Nderu eteacuquia ure je ” , ɨ seje .
+43014022	Mbaerã		Judas , ɨ que echɨmbaaquiatu mo je ra . Judas Iscariote eã ño aque re . Judas mo ño aque re . Judas que ñee Jesús je ra . — ¿ Mbaerã nda erechecua ure je re ? Mbia ja je nyecua rocoĩ , ɨ que Judas ra .
+43016005	mangue		Acheẽ jeɨ eã ngue jẽje ũquɨ̃ cose resẽ . Aɨcote quiatu ngue jendese re . Co quia asote nguiã Paba rea co cote . Ae sembu . “ ¿ Manguete ra ereso mangue re ? ” ɨ eã ñochɨ̃ jemo seje .
+43016017	mbae		Echɨmbaaquiatu que ñee ñee nyue ra . — ¿ Mbae ɨ Jesús quia re ? “ Namo jiri ra jemae eã serese cote . Aquere ra jemaembe serese cote . Aso ra Paba rea ” , ɨ chõchɨ̃ . ¿ Mbae ũquɨ̃ nde ?
+43016018	Mbaerã		¿ Mbaerã eriqui “ namo jiri ” ɨ re ? ¿ Mbae rɨɨ̃ eriqui ñee nde ? Nandeiranuã tuchɨchɨ̃ , ɨ que echɨmbaaquiatu ñee nyue ra .
+43018004	Aba		Jesús que mbae ɨcuate ra . — Mbia ra jeɨ̃ jeɨ̃ seje , ɨ que eɨcuate ra . — ¿ Aba rea jenyu quia co re ? ɨ que oso ñee ee ra .
+43018007	Aba		— ¿ Aba rea jenyu quia co re ? ɨbe que Jesús ñee ee ra . — Jesús rea urechu quia co , ɨ que ra .
+43018011	~		Jesús que ñee Pedro je ra . — Ndechuuru emingue chõ eriru ye . Paba cheẽ tamumbayã na . Tachecuachõ na mbia je . Sã mbia ɨcuã sembasi tuchɨ cote , ɨ que Jesús Pedro je ra .
+43018021	Mbaerã		¿ Mbaerã ereɨco ñee seje re ? Secheẽ andusa je quia echeẽ . Sã ũquɨ̃ ñee . Mbae rɨɨ̃ acheẽ ee re . Ũquɨ̃ ngue secheẽ ñandu ja quia ra , ɨ que Jesús ererecua je ra .
+43018023	~		Jesús que ñee ee ra . — Secheẽ ɨcuã mose quia echeẽ seje . Mbae ɨcuã nɨɨ aɨco ñee nde . Secheẽ turã mose chõ erecuachɨ̃ nguiã serese , ɨ que Jesús ee ra .
+43018029	Mbaerã		Nyebe Pilato sɨ nguiã usẽ ñee ee . — ¿ Mbaerã jẽɨngo ñee Jesús je re ? ¿ Mbae ɨcuã esaã nde ? ɨ que Pilato ra .
+43018035	mbae		Pilato que ñee ee ra . — Judío eã ño se resẽ . Judíos sɨ́ chõ ngue nemondo seje resẽ . Sacerdote rerecua abe no . ¿ Mbae ɨcuã eresaã nde ? ɨ que Pilato ra .
+43018038	mbae		— ¿ Mbae ɨchõɨñosa reã nde ? ɨ que Pilato ee ra .
+43019009	Ma		Pilato que ɨque sɨ oso ñee Jesús je ra . — ¿ Ma jenda rei nde re ? ɨ que Pilato Jesús je ra . Jesús que ñee eã tuchɨ echeẽ mose ra .
+43019015	~		Mbia que tasẽ tasẽ ee ra . — ¡ Eɨquia rei ! ¡ Embucha ira rese ! ɨ que mbia Pilato je ra . — ¿ Se ra jenderecua aɨquia re ? ɨ que Pilato mbia je ra . — Urererecua mo eãte nyeresẽ . César mɨɨ ño nyeresẽ , ɨ que sacerdote rerecua Pilato je ra .
+43020013	Mbaerã		Angeles que ñee María je ra . — ¿ Mbaerã ereɨco nyeseo re ? ɨ que María je ra . — Aba chõ sererecua raaque querao . Nyebe aɨco nguiã nyeseo . Mangue chõ eriqui ererequia mangue , ɨ que María ra .
+43020015a	Mbaerã		— ¿ Mbaerã ereɨco nyeseo re ? 
+43020015b	aba		¿ Aba eresequia quia re ? ɨ que Jesús María je ra . Ira a raarõsa Jesús riqui reɨ̃ nguiã María je . Nyebe María ñee nguiã ee . — ¿ Nde Jesús raaque ererao re ? ¿ Mangue erechono mangue re ? Taso erea ae . Tarao ae , ɨ que María ra .
+43021012	Aba		— Jenyu quiaru cote , ɨ que Jesús ee ra . — ¿ Aba nde re ? ɨ ãte que emo ñee ɨreɨ̃ nguíã ee ra . Mbia que Jesús ɨcua jate ra .
+43021020	Aba		Pedro que uba mae serese cote ra . Se rei Juan . Jesús nyesecua tuchɨ rei se . Se chõ ngue acoi huɨ̃ quiaru Jesús jii aque isa resẽ . Se chõ ngue “ ¿ Aba ra nemee mbia ɨcuã je re ? ” ae Jesús je resẽ .
+43021021	Mañɨ		Pedro que mae serese cote ra . Ñee ngue Jesús je cote ra . — ¿ Mañɨ ɨte ra mbia quia Juan je re ? ɨ que Pedro Jesús je ra .
+43021022	mbaete		Jesús que ñee ee ra . — ¿ Mbaete ere ? Seruɨ chõ eɨcochõ nde . “ Sechube mose chee ra Juan manoã ” , se ɨ mose , manoã ndae . Eɨco chõ seruɨ nde , ɨ que Jesús Pedro je ra .
+43021023	~		— Juan nda manoã mbeɨchɨ̃ nde , ɨ que Jesús ɨcuasa Juan nɨɨ cote ra . Jesús cheẽ abi chõchɨ̃ . — Juan nda manoã , ɨre rocoĩ Jesús nyii . — Se cheẽ mose ra manoã , ɨ chõ ndei ngue Jesús re . — Juan nda manoã , ɨ ãte que Jesús ra .
+44001011	mbaerã		Ibatenda que ñee ee ra . — Galilea jenda , ¿ mbaerã jengu beɨte mae ibei rese a re ? Jesús oso quia ibate nae , ae sɨ ra tube no . Jemae ngue u eso rese nae , eɨ̃ sɨ ra u íbii no , ɨ que ibatenda ee ra .
+44002008	Mañɨ		— ¿ Mañɨ equia nande ja cheẽ naa naa ã nde ? Nandecheẽ Jesús ɨcuasa saã jaaja chõchɨ̃ nguiã ã . Partia jenda cheẽ esaã saã ñochɨ̃ nguiã ã . Media jenda cheẽ abe no . Elam jenda cheẽ abe no . Mesopotami a jenda cheẽ abe no . Judea jenda cheẽ abe no . Capadocia jenda cheẽ abe no . Ponto jenda cheẽ abe no . Asia jenda cheẽ abe no . Frigia jenda cheẽ abe no . Panfilia jenda cheẽ abe no . Egipto jenda cheẽ abe no . Libia jenda cheẽ abe no . ( Cirene ndobeɨ . ) Roma jenda cheẽ abe no . ( Roma jenda mo ndei judíos . Roma jenda ataque rei judíos eã . ) Creta jenda cheẽ abe no . Arabia jenda cheẽ abe no . Jesús ɨcuasa ũquɨ̃ ñee saã saã ja chõchɨ̃ nguiã ã . Nandecheẽ esaã saã ja chõchɨ̃ nguiã ã . Jesús ɨcuasa riquichɨ̃ nandecheẽ naa naa tuchɨ Dios chɨao turã nenei nenei ã , ɨ ja que mbia ucheẽ andu jaaja mose .
+44002012	Mañɨ		Ɨ jate que mbia u nyuruɨra eandu ra . Ndua ndua tuchɨ que u eandu ra . — Mañɨ equia ñee ã nde , ɨ nyue . Jesús ɨcuasa mbia cheẽ mbuae naa naa mose .
+44002037	Mañɨ		Mbia ia eã tuchɨte que Pedro cheẽ andu ra . Ñee ngue Pedro je ra . Pedro resenda je abe . — ¿ Mañɨ ure ra equia re ? ɨ que Pedro je ra . Jesús chɨmbaaquiatu ja je .
+44003012a	Mbaerã		Pedro que mae mbia chumunua ndese ra . Ñee ngue ee ra . — ¿ Mbaerã jẽɨngo nyuruɨrate mae erese re , Israel jenda ? 
+44003012b	Mbaerã		¿ Mbaerã jẽɨngo nyuruɨ rate mae urerese re ? Ure ae eã ño Ecuatayã urembucherõ nguiã . Urequirãcuã eã Ecuatayã mbucuata nguiã . Dios quiarei uquiracuã mee ee embucherõ . Urecuata turã embucherõ eã nguiã .
+44004007a	~		Pedro que emɨɨ mbia ite re ra . Juan ndese . Mbia ñee ee cote . 
+44004007b	aba		— ¿ Aba jembirãcuã nde ? 
+44004007c	aba		¿ Aba jembirãcuã nguia ecuatayã mbucuata nonde re ? ɨ que ee ra .
+44004016	Mañɨ		— ¿ Mañɨ nande ra Pedro je re ? ¿ Mañɨ nande ra Juan abe je re no ? Pedro chɨmbucherõ ndese mbia riqui jirandu randu jate ã . Jerusalén jenda riqui jirandu randu jate ã no . “ Mbucheroã ngue ra ” , nande aroneate .
+44004025a	Mbaerã		Sã David erembucheẽ nderimba cose no . Sã eɨ̃ erembucheẽ no : ¿ Mbaerã ño mbia pare pare ɨ ja re ? 
+44004025b	Mbaerã		¿ Mbaerã mbia riqui ndua ndua chõoñote mbae mo ndese re ?
+44005003	Mbaerã		Pedro que ñee Ananías je ra . — ¿ Mbaerã Satanás ndiqui ɨque ndechɨangui re re ? ¿ Mbaerã erecheẽ ñooño Espíritu Turã je re ? ¿ Mbaerã ño mbae isiquia ataque erembuchɨmɨ nde ? ¿ Mbaerã ño ibi rɨbɨshoronda erembuchɨmɨ nde ?
+44005004	Mbaerã		¿ Mbaerã ño ere ? Ibi rei nembae vender ɨ nonde . Mbae isiquia abe rei nembae . Mbia je rocoɨ̃ erecheẽ ñooñochɨ̃ nde . Dios je chõ erecheẽ ñooño nguiã , ɨ que Pedro ra .
+44005009	Mbaerã		Pedro ñee ee cote . — ¿ Mbaerã ere ? ¿ Mbaerã jendua nduachɨ̃ ũquɨ̃ ndese re ? Jeñee ñooñochɨ̃ nguiã Espíritu Turã je . Ae nderu curuchoɨ nyati nae , ũquɨ̃ nyɨ nderaarõ arõ a . Eɨquesa ji a . A ecuaẽ ndererao sacuã a , ɨ que Pedro ee ra .
+44007026	Mbaerã		Isamamɨ nongue que israelitas mo ɨcuã ɨcuã nyue ra . “ Tacheẽ turã ee . Ɨ̃ nda eturã sɨ nyue ” , ɨ rei que Moisés ra . “ ¿ Mbaerã jẽɨcuã ɨcuã ndiqui jenyue re ? Nande ja chõ nyeresẽ ” , ɨ que Moisés ee cote ra .
+44007027	Aba		Ae rane eɨcuã ɨcuã ndiqui nyue nae , aque que ñee ɨcuã Moisés je ra . Moisés maña mondo . “ ¿ Aba nemɨngo ererecuarã nde ? Urereachõ ño ae ” , ɨ que ñee ɨcuã Moisés je ra .
+44007035	Aba		Dios que Moisés mɨngo mbia rerecuarã cote ra . Mbia rirõ sacuã Egipto sɨ . Mbae ɨcuã sɨ . Mbia que Moisés isi sereã nea nyii ra . “ ¿ Aba nemɨngo urererecuarã nde ? ” ɨ que mbia Moisé je nyii ra . Ũquɨ̃ sɨ́ je que Dios Moisés mondo sɨ ra . Ererecuarã . Dios que tata rendi ite renda mbucheẽ Moisés je ra .
+44007049a	Mañɨ		Se quia ererecua tuchɨ re . Ibatenda rerecua abe rei se . Ibi jenda rerecua abe rei se no . ¿ Mañɨ nda mbia sechuchuarã ao re ? Equi re ra aɨcoã ndesẽ .
+44007049b	~		 
+44007052	~		Jendu ɨcuã beɨ que eriqui Dios cheẽ mbuchecuasa ja je ra . Jendu que Dios cheẽ mbuchecuasa ɨquia ɨquia beɨ quia ra . Ibatenda Turã nda tu , ae ɨ quia cose nae , ũquɨ̃ abe que jendu ɨquia ɨquia quia cose resẽ . Ibatenda Turã tu mose que jemee ñochɨ̃ nguiã mbia ɨcuã je ra . Eɨquia nonde que jemee ñochɨ̃ nguiã mbia ɨcuã je .
+44008031	Mañɨ		— Tei . ¿ Mañɨ ae ra eɨcua re ? Aba mo eɨcuayãte seje resẽ . Echuɨ rã . Ecoi sejii . Sembaaquiatu rã se , ɨ que carro yenda ee ra .
+44008033	~		Nanderiquicharõsa turãte raque . Mbia ɨcuã tuchɨ ee . Mbia eɨquiachõ . Emosenda ɨcuã tuchɨte ee . Emosenda eɨquia chee . Nanderiquicharõsa siquíã ibi rɨ̃ cote , ɨ qu e Isaías embesa ra . Embesa ji rese que Etiopía jenda riqui mae mae nda .
+44008034	aba		Etiopía jenda que ñee Felipe je ra . — Embesa ji embuchecua seje . ¿ Aba rɨɨ̃ Isaías riqui embesa mbesa re ? ¿ Mbiamo nɨɨ eriqui embesa re ? ¿ Ngũɨɨ̃ eriqui embesa re no ? ɨ que Felipe je ra .
+44008036	~		Carro que ngasẽ ama moo cote ra . — ¡ Co ama ñɨ co ! ¿ Aa ra bautizar ere seje re ? ɨ que Etiopía jenda Felipe je ra .
+44009004	Mbaerã		Saulo que ngoɨ oso íbii ra . Echeẽ mo ngue echandu ra . — ¿ Mbaerã ndeɨcuãte riqui seje re ? ɨ que ibatenda ñee ee ra .
+44009005	Aba		Saulo que ñee ee ra . — ¿ Aba nde re ? ɨ ee . Ibatenda que ñee ee ra . — Jesús rei se . Seje quia ndeɨcuãte riquichɨ̃ nguiã . Ndeɨcuã mose seje , nde sɨ́ chõ ereɨco ñimbasi co . Sã ticuasu riqui nambacua mbuti no . Sã eriqui hui mbaba ira racua echɨ no . Ũquɨ̃ na tuchɨ quiarei nde , ɨ que Jesús ee ra .
+44009006	Mañɨ		Saulo que titi titi ɨ eandu ra . — ¿ Mañɨ ae ra sequia se re , Sererecua ? ɨ que Saulo Jesús je ra . — Ehuã . Eso sucha tubɨrɨã . Huee ra sequiato mo secheẽ nenei ndeje , ɨ que Jesús Saulo je ra .
+44010004	Mbae		Cornelio que mae quiatu tuchɨ erese ra . — ¿ Mbae ere , Sererecua ? ɨ que siquiche ñee ee ra . Ibatenda que ñee ee cote ra . — Co ereɨco ñee ñee mbeɨte Dios je co . Co ereɨco mbae mo mee mee mbeɨte mbaecha reã je co . Nyebe Dios ia tuchɨ riqui nguiã nderese co .
+44010021	Mbaerã		Pedro que nguichi u ee cote ra . Cornelio rimba je . — Serequia chõ jenyu nguiã co . ¿ Mbaerã jẽɨngo serequia re ? ɨ que Pedro ra .
+44010029	Mbaerã		Nyebe achu jeɨ nguiã ndecheẽ mose co . ¿ Mbaerã “ echu ” ere seje re ? ɨ que Pedro Cornelio je ra .
+44010047	~		— Espíritu Turã ngue ɨque echɨangui re cote ra . Nyebe bautizar tae ee i je cote . Emo nda seriquisãyã , ɨ que Pedro ra .
+44011017a	Mañɨ		Nande judíos achõ je eã ño Dios riqui nguiã Espíritu Turã mondo . Judí eã je abe chõ eriqui nguiã Espíritu Turã mondo . Jesús ɨcua mose . ¿ Mañɨ ae ra Dios riquisã se re ? ɨ que Pedro ñee oco judíos je ra .
+44011017b	~		
+44012018	Mañɨ		Isamamɨmbe que soldados pare pare ɨ tuchɨ ra . Pedro oreã ndese mae . — ¿ Mañɨ Pedro usẽ nde ? ɨ que u ñee ñee nyue ra .
+44013025	~		Umano nonde que Juan ñee mbia je ra . “ Ae jẽsaarõ nguia nae , ae eã ño se re . Ae ra tu seruɨ . Ae rei ererecua tuchɨ sesɨ . Se oco aronea eiyao rese ” , i que Juan ñee Jesús rɨɨ̃ nda .
+44014015	Mbaerã		— ¿ Mbaerã nda re , mbia ? ¿ Mbaerã nda ticuasu jẽɨquia ure je re ? Mbia chõ ure re . Jẽ na sɨ chõ ure resẽ . Dios eã ño ure resẽ . Nyebe urechu nguiã Dios cheẽ turã nenei nenei jẽje ã . Ã mbae ɨcuã jẽsecha ja chõ . Dios quiarei ereco . ¡ Ae ruɨ jẽɨngo ! Ae que ibei chao ra . Ae que ibi chao no nda . Ae que ama nyao no nda . Ae que mbae chao ja ra . Mbae aosa ruɨ jẽɨngo .
+44015010	Mbaerã		¿ Mbaerã jẽɨngo Dios cheẽ abi abi chõ nde ? Dios cheẽ jembeta mbeta chõchɨ̃ nguia re . Judíos eã je chõ jẽɨngochɨ̃ embeta re . Embeta ji chɨ̃ nda eãtã tuchɨ aba je cot e re . Ũquɨ̃ nanderu cose ndare saã aroneate .
+44016030	Mañɨ		Eraarõsa que ecuruchoɨ taicuee cote ra . Ñee ee . — Sã Dios serirõ seɨcuã sɨ . ¿ Mañɨ ae ra se re ? Siqui beɨ sacuã Dios rese re , ɨ que eraarõsa ra .
+44017018	Mbae		Epicúreos resenda mo ngue ngaẽ ñee tuchɨ Pablo je ra . Estoicos resenda mo abe que ngaẽ ñee Pablo je ra . — ¿ Mbae ɨchõte Pablo quia nande je re ? Echeẽse rete eriqui reae , ɨ que emo emo nda . — Dios mo nɨɨ eriqui ñee ñee nande je reae , ɨ que emo emo nda . Pablo ñee ñee mose Jesús rɨɨ̃ . Pablo Jesús quera renei nenei mose .
+44017019	Mbae		Mbia que Pablo curuchoɨ ibi ato mo cote ra . Huee que ererecua riqui ñumunua nua mbeɨ ra . Ñee ngue Pablo je cote ra . — ¿ Mbae rɨɨ̃ ereɨco ñee ure je re ? Embuchecua ure je .
+44019003	Mbae		Pablo que ñee ee ra . — ¿ Mbae rɨɨ̃ bautizar ɨ jẽje re ? ɨ que ra . — Juan ñee nɨɨ ngue bautizar ɨ ure je ra , ɨ que Pablo je cote ra .
+44019015	Aba		Ũquɨ̃ ngue ñee ndei aba checuayã ɨcuã je ra . Aba checuayã ɨcuã ngue echeẽ mumba ra . — Jesús aɨcua . Pablo abe aɨcua . ¿ Aba chõ jẽ nde ? Jaẽɨcuayãte se , ɨ que aba checuayã ɨcuã nda .
+44019035	~		Secretario rei ererecua mo . Aque que mbia cheẽ siquisã cote ra . Ñee ngue ee cote ra . — Tacheẽ jẽje , Efeso jenda . Efeso jenda chõ nande re . Diana ndei nandererecua . Nande rei Diana ndaarõsa . Diana naanguia ngue tu ibei sɨ , aque raarõsa chõ nande re . Diana chuchua raarõsa abe chõ nande re . Mbia jirandu jate ũquɨ̃ ndese .
+44021013a	Mbaerã		Pablo que ñee ure je ra . — ¿ Mbaerã jẽɨngo nyeseo seo serese re ? 
+44021013b	Mbaerã		¿ Mbaerã jẽɨngo sembia eãte re ? ¿ Mbaete ere ? Sã secua Jerusalén ae . Sã seɨquia Jesús rɨɨ̃ ae , ɨ que Pablo ra .
+44021022	Mañɨ		¿ Mañɨ nande ra re ? Jesús quiato ra ñumunua ja judíos . Jirandu mose ndereco mose a .
+44021033a	aba		Ererecua que oso Pablo rea ra . Pablo isi que ra . — Echucua cadenas je , ɨ que soldados je Pablo rɨɨ̃ nda . Ererecua que ñee mbia je cote ra . — ¿ Aba co re ? 
+44021033b	mbae		¿ Mbae ɨcuã esaã jẽje re ? ɨ que mbia je ra .
+44022007	Mbaerã		Tata rendi rese mae mose que acoɨ oso íbii ra . Echeẽ mo ngue achandu ra . “ Saulo , Saulo . ¿ Mbaerã ndeɨcuãte riqui seje re ? ” ɨ que seje ra .
+44022008	Aba		“ ¿ Aba nde re ? ” ae que ee ra . “ Jesús rei se . Nazaret jenda . Ae je ndeɨcuãte riqui ” , ɨ que seje ra .
+44022010	Mañɨ		“ ¿ Mañɨ ae ra se re , Sererecua ? ” ae que se ra . “ Dios que ndeirabo ra . Ehuã cote . Ecuasẽ oso cote . Damáscoo . Mbae rɨɨ̃ nda acheẽ ja ndeje huee cote ” , ɨ que Jesús seje ra .
+44022016	Mbaerã		¿ Mbaerã ereɨco chõte a re ? Ehuã na . Sã Jesús quiato bautizar ɨ ndeje . Echeẽ na Jesucristo je . Sã Dios ndeɨcuã mbutiã ” , ɨ que Ananías seje ra .
+44022026	~		Capitán ngue oso ererecua mbiirandu cote ra . Pablo cheẽ nguire . — ¡ Ereiruã nuachɨ̃ nda jẽ ! Romano ño ae re , ɨ que capitán nda .
+44023003	~		Pablo que ñee ee cote ra . — Dios ra ucua nderese jẽ . Ndeturã eresaã ñooñochɨ̃ nguiã . “ ¡ Moisés cheẽ nda jemumbachɨ̃ jẽ ! ” ere rei que ure je . ¿ Mbaerã ereɨco echeẽ mumba mumba nde re ? “ Jengua Pablo churu rese ” , ere chõchɨ̃ nguiã serɨɨ̃ . Moisés cheẽ mumba , ɨ que Pablo ee ra .
+44023009	~		Tasẽ tasẽ tuchɨ que nyue ra . Fariseos mo ngue juã ñee nda . Ũquɨ̃ ndei embesasa . Ñee ngue Pablo rɨɨ̃ nda . — Pablo que mbae ɨcuã saã eãte quia . Emo aĩ ñee ee reae . Angel mo ñee ee re no ae . Nyebe nandeɨco turã ee no . Ũquɨ̃ mose ra nandeɨco turã Dios je abe , ɨ que fariseos ra .
+44023019	Mbae		Ererecua que acuanɨndu querao eo rese ra . Pe jiri que eñɨ ñee ee ra . — ¿ Mbae ere u ñee seje re ? ɨ que ererecua ra .
+44026008	~		¿ Jẽ abe je Dios mbia raaque mbuquera aroneate re ?
+44026014	mbaerã		Tata rendi rese ma e mose que urecoɨ íbii ra . Echeẽ mo ngue achandu ra . Hebreo cheẽ . “ Saulo , Saulo , ¿ mbaerã ndeɨcuãte riqui seje re ? Nde sɨ́ chõ erechɨmbasi mbasi nguiã aque . Ticuasu rã tuchɨ quiarei nde aba cheẽ mumba mose . Sã ticuasu riqui nambacua mbuti no . Sã eriqui hui mbaba ira racua echɨ no . Ũquɨ̃ na tuchɨ quiarei nde ” , ɨ que seje ra .
+44026015	Aba		“ ¿ Aba nde re ? ” ae que ee ra . “ Jesús rei se . Ae je ndeɨcuãte riqui ” , ɨ que seje ra .
+45002017	~		— Judíos chõ ure re , jenye equia ũquɨ̃ . — Moisés chɨmbesa ra nandemingo beɨ , jenye chõchɨ̃ equia ũquɨ̃ . — Dios quiarei ebia tuchɨ ure mɨɨ ndese , jenye chõchɨ̃ equia ũquɨ̃ .
+45002021	Mbaerã		Jẽaracuayã mbia jembaaquiatu quiatuchɨ̃ nguiã . ¿ Mbaerã jeñimbaaquiatu ɨã jẽ nyii re ? — Mbae ra jembuquiachãchɨ̃ , jenye chõchɨ̃ equia ũquɨ̃ . Jẽ sɨ́ chõ mbae jembuquiachã nguiã ũquɨ̃ .
+45002028	~		Ae judíos Dios cheẽ mumba mumba quia nae , judíos tuchɨ eã ño ũquɨ̃ nde . Circuncisión naa naa ndaque . Ae circuncisión saã nguia nae , ũquɨ̃ siquíã mose Espíritu Turã ndese , circuncisión turã eã ño ũquɨ̃ nde .
+45003001a	Mbaerã		¿ Mbaerã judiorã sete riqui mbia re ? 
+45003001b	Mbaerã		¿ Mbaerã circuncisión sete riqui mbia re ?
+45003003	~		Judíos mo huɨ huɨ raque Dios cheẽ sɨ . Dios quia ra ñee ñooñoã mbeɨ . Echeẽ nguia ra ɨo beɨ . Mbia huɨ huɨ raque esɨ . Mbia ñee ñooño ndaque . Ɨ ñɨ embesa ji re : Ndecheẽ nda ɨo tuchɨ mbia resa rae . Mbia ɨcuã mose ndeje , nde quia ra ere tuchɨ mbia sɨ , ɨ que embesa ji ra .
+45003005	Mañɨ		Jemo ngue ñee no nda : — Dios turãte riqui nandeɨcuã je co . Mbae ɨcuã nandesaã saã mbeɨ chõ nguia . Mbia mae sacuã Dios turã ndese . Dios nandeɨcuã mbasi mose , Dios ɨcuãte , ɨ chõchɨ̃ jemo . ¿ Mañɨ nande ra ũquɨ̃ ñee mose re ?
+45003006	~		Ɨchõɨño tuchɨ chõ ũquɨ̃ nde . Dios ɨcuã aroneãte . Dios ɨcuã mose , eɨ̃ nda Dios mbia ɨcuã mbasi aroneãte rei .
+45003007a	~		Jemo ngue ñee ño nda . — ¡ Nandecheẽ ñooño ño nguia jẽ ! Nandecheẽ ñooño mose , mbia ra ñee turã Dios rɨɨ̃ . “ Ñee ñooñosa reã tuchɨ quia Dios riqui re , ” ɨ ra mbia Dios rɨɨ̃ cote . 
+45003007b	~		Nyebe Dios riqui nguiã nandembasi ãte nandecheẽ ñooño mose , ɨ chõchɨ̃ jemo .
+45003008	~		— Mbae ɨcuã nandesaã saã ño . Ɨ̃ nda Dios turã nyecua mbia je , ɨ chõchɨ̃ jemo . Urecheẽ ãte ure ũquɨ̃ ndesẽ . Ae ñee nguia ũquɨ̃ , ũquɨ̃ nda Dios mbasi .
+45003009	~		Judíos chõ nande re . ¿ Nandeturã nda eriqui reɨ̃ mbia mo sɨ re ? Tei . Nandeturã eã ño esɨ re . Nandeɨcuã ja chõ ñene . Judíos eã ɨcuã ja chõ ñene . Judíos ɨcuã ja chõ eno nde .
+45003027a	~		Nande ae ra nandeɨcuã nandembutiã eã . Dios ae quia nandeɨcuã mbutiã nguiã , Jesús ɨcua mose . 
+45003027b	~		Nyebe nandeɨco nguiã nandecuasu raã naa aroneãte . 
+45003027c	~		Moisés chɨmbesa que nandemumba mumbate quia resẽ .
+45004001	~		Nandendua mbɨrɨ̃ na Abraham ndese . Nandei ñiinda tuchɨ quia Abraham nde .
+45004003	~		Ɨ ñɨ embesa ji re : Abraham ngue Dios ɨcua ra . Nyebe Dios eisi turã nguiã , ɨ ñɨ embesa ji re .
+45004010	~		Abraham circuncisión naa eã mose chõ Dios eɨcuã mbutiã nguiã . Circuncisión naa nonde .
+45005010	~		Dios riirĩ ngue mano nande je ra . Nande Dios ucuayã mose . Ae quia ngue eturã mbeɨte riqui nguiã nande je . Dios que “ sequiatorã jẽ ” , ɨ nande je cote ra . Nyebe ra nandeɨco tuchɨ erese cote . Jesús quiatu ngue quera sɨchɨ̃ nguiã nande je cote .
+45005021	~		Adán mbae ɨcuã naa mose , mbia mbɨɨcuã ja chõ ũquɨ̃ nde . — Mbia ra mano mano cote , ɨ que Dios cote ra . Jesucristo que mano nandeɨcuã ndiquicharõ cote ra . Aque mose que Dios uturã ndeacuquia tuchɨ nande je cote ra . Nandembuturã sacuã cote . Nandemingo beɨ sacuã cote .
+45006001	Mañɨ		¿ Mañɨ nande ra cote re ? ¿ Mbae ɨcuã nda nandesaã ɨ ɨ re ? ¿ Dios turã ɨ ɨ sacuã nande je re ?
+45006002	Mañɨ		Tei . Dios biãte ũquɨ̃ . Jesús rese que nandemano ndesẽ . Nandemano ngue mbae ɨcuã naa eã sacuã ndesẽ . ¿ Mañɨ nande ra mbae ɨcuã naa naa sɨ re ?
+45006015	~		Dios turã ae nandemingo nguiã . ¿ Ũquɨ̃ mose ra mbae ɨcuã nandesaã saã nde ? Tei . Dios biãte ũquɨ̃ .
+45006021	~		Jẽɨreɨ̃te mbae ɨcuã naa naande cote . Jenyɨsaã saã mbae ɨcuã ñiinda , ũquɨ̃ ngue mbae turã mo mondo ãte jẽje resẽ . Ae mbae ɨcuã saã ɨ ɨte quia , ũquɨ̃ nda mano .
+45007007	~		— Moisés chɨmbesa ɨcuãte , ae ãte raque quia co . Moisés chɨmbesa quiatu que sembiirandu seɨcuã ndese resẽ . — Eɨcuãte quia emo mbae oseɨ oseɨ riqui re , ɨ que Moisés chɨmbesa ra . Eɨ̃ nda seiranuãte rei ũquɨ̃ ndese . Moisés chɨmbesa eande ndae . Moisés chɨmbesa ae ngue sembiirandu nguiã ũquɨ̃ ndese . — Eɨcuãte ũquɨ̃ , ɨ seje .
+45007024	Aba		Dios cheẽ ndese aɨco sete raque . Sechɨangui renda ɨcuã nguia semingo beɨte nguiã mbae ɨcuã ndese . Seraaquete aɨco co . Nyebe seya eãte aɨco co . ¿ Aba quia ra seɨcuã mbitirõ nde ? Jesucristo quia ra seɨcuã mbitirõ cote . Nyebe aɨco gracias ɨ tuchɨ Dios je co .
+45008024	~		— Jendete tambiasu , ɨ que Dios nanderirõ mose mbae ɨcuã sɨ ra . Ũquɨ̃ ño nandesaarõ arõ nguiã ã . Nanderete yasu eãte namo . Nyebe nandeɨco nguiã eraarõ arõ ã .
+45008031a	~		Dios riqui tuchɨ nanderese co resẽ . 
+45008031b	~		Nyebe ra emo ñɨmbirãcuã eã nande je cote .
+45008032	~		Dios que nguiirĩ mɨɨ mondo nande je ra . Mano sacuã nandeɨcuã je . Eɨ̃ nda mbae mondo ja nande je no . Sã nguiirĩ mondo nande ja je no .
+45008033	~		Dios chesecua tuchɨ chõ nande re . Emo ñee ɨcuã aroneãte nande je . Dios quiatu ngue nandeisi turã nguiã .
+45008034	~		Cristo que mano nandeɨcuã je ra . Quera sɨ que ra . Dios quiatocuti eñɨ ngoi hue cote . Ñee turã turã nanderɨɨ̃ Dios je hue cote . Nyebe emo ndiqui nguiã ñee ɨcuã aroneãte nande je cote .
+45008035	~		Mbae mo Dios mbesareɨ aroneãte nandesɨ . Nyesecua beɨte quiatu nguiã nanderese co . Nanderasi arondete raque . Mbae nandembia eã arondete raque . Mbi a ɨcuã arondete raque nande je . Nanderiãcuã arondete raque . Nandeɨrao eã arondete raque . Mbia nandeɨquia arondete raque . Ũquɨ̃ ja ra Dios mbesareɨ eã tuchɨ nandesɨ .
+45009014	Mbaerã		¿ Mbaerã Dios riqui aque mɨɨ irabo re ? ¿ Mbaerã eriqui enongue abe isiã nde ? ¿ Dios ɨcuãte ere ? Tei . Eɨcuã eãte raque .
+45009019a	mbaerã		Jemo nda ñee seje reae . — Dios ae emo ñɨã mãtã mose , ¿ mbaerã nda jeñee asi echɨã ãtã je re ? 
+45009019b	~		ɨ ra jemo ñee seje reae .
+45009020a	~		Dios cheẽ nandesobeɨshɨ̃ aroneãte . 
+45009020b	~		Sã nandembaecua ñio ñee aroneãte uaosa je no . 
+45009020c	Mbaerã		— ¿ Mbaerã seraã eɨ̃ nde ? ɨ aroneãte ñio ñee uaosa je no .
+45009021	~		Ñio aosa ra ñio saã ñooño ño ubi mose no . Ñio turã tuchɨ raã arondete no . Ñio ɨcuã abe raã arondete tuchu sique je no . Embae quia tuchu re . Tuchu rã ño nande re . Ñio aosa rã ño Dios re .
+45009022	~		Ae eɨcuã ɨcuã mbeɨte riqui Dios je nae , ũquɨ̃ je Dios siqui mingue ɨ ɨte co . Ũquɨ̃ nda nyoɨ je tata cuasu . Ũquɨ̃ Dios mbasi serɨ̃te cote .
+45009023	~		Dios mbae turã saã sete ubi je . Nyebe uquirãcuã ndeacuquia nguiã ubi je . Diobi chõ nande re . Dios que nandeao uchesecuarã nda . Nandeɨco sacuã erese .
+45009024	~		Diobi chõ nande re . Dios que nandeirabo ra . Nandemo ndei judíos . Judíos eã abe abe . Dios chiirabo ja chõ nande re .
+45009030	~		Tacheẽ nyecua jẽje . Ae judíos eã nae , ũquɨ̃ ngue “ taɨco Dios rese ” , ɨã ndei ra . Aque mose que Jesús ɨcua cote ra . Jesús ɨcua mose que Dios echɨã mbitirõ cote ra .
+45009032	~		— Jesucristo nandeɨcua , ɨ eã ñochɨ̃ judíos . — Nande ae nandeɨco Dios cheẽ nduɨ , ɨ chõchɨ̃ . — Nandeɨco mose eruɨ , Dios ra nandemingo beɨ , ɨ chõchɨ̃ . Judíos biãte que Jesús riqui ra . Nyebe judíos riqui turã eãte nguiã .
+45010006	Aba		Ã nandeɨco Jesús ɨcuate ã . Nyebe ae riqui nguiã nandemingo beɨ ɨ ɨte ã . Nyebe nandeɨco nguiã ñee ãte . — Aba quia ra oso Jesús reru ibate sɨ nande je , ɨ ãte . — Aba quia ra oso mbia raaque rea , Jesús mbuquera sacuã , ɨ ãte nande mo .
+45010007	aba		— Aba quia ra oso mbia raaque rea , Jesús mbuquera sacuã , ɨ ãte nande mo .
+45010008	~		Ã ureɨco Jesucristo renei nenei mbia je ã . — Jẽ Jesucristo ɨcua mose , jẽɨngo beɨ rae , ure equia mbia je ã . Jesucristo ɨcuasa ra ñee : — A Jesucristo cheẽ ndiqui aba jiite a . Echeẽ aba chɨɨcua bite aba chɨangui re , ɨ ra Jesucristo ɨcuasa ñee .
+45010014a	~		Mbia mo Jesús ɨcuayã mose , ñee aroneãte ee . 
+45010014b	~		Mbia jiranuã mose Jesús rese , Jesús ɨcua aroneãte . 
+45010014c	~		Emo Jesús cheẽ nenei nenei eã mose mbia je , mbia jirandu aroneãte Jesús rese .
+45010015	~		Dios mbia mo mondo eã mose echeẽ nenei nenei sacuã , echeẽ nenei nenei aroneãte . Sã embesa ji riqui ñee no . Eɨ̃ sɨ chõ ñene : Aba bite emo tu mose Dios cheẽ nenei nenei ure je . Ureya tuchɨte erese , ɨ que embesa ji cose ra .
+45010016	~		Mbia mɨɨ mɨɨ ño siquichɨ̃ Dios cheẽ turã ndese ũquɨ̃ . Sã Isaías ñee no : Dios , mbia que urecheẽ ñandu sereãte ra , ɨ que Isaías embesa ra .
+45011004	~		Dios que ñee Elías je cote ra . — Nde mɨɨ eã ño serimba re . Serimba tubɨrɨãte nyeresẽ . Siete mi l serimba que ngoi eãte ngũíã ndese ñee ñee Baal naanguia je ra , ɨ que Dios ñee Elías je cose ra .
+45011007	~		Dios quiatorã nande , ɨ rei que judíos ra . Dios quiatoã tuchɨ que eriqui ra . Jesucristo ɨcua sereãte que equia ra . Co mɨɨ mɨɨ ño ngue Dios irabo uquiatorã nda . Eataque que Jesucristo ɨcua sereãte quia ra .
+45011015	~		Judíos Dios isiteã mose que Dios huɨ chõ judíos sɨ ra . Judíos eã nguiatu que Dios isi uquiatorã cote ra . — Mbia mo ja sequiatorã cote , ɨ que Dios judíos eisiteã mose ra . Judíos ra uba sɨ chee Dios rese emo mose cote . Mbia raaque quera sɨ rã tuchɨ ra aque mose cote .
+45011018	~		¡ Jenguasu ra jẽsaã saãchɨ̃ judíos je jẽ ! ¡ Dios jẽisi turã mose jẽ ! Erãquiã injertar ɨ ji rã achõ ño jẽ nde . Erãquiã nda hui mingo eã . Ei quia nda erãquiã mingo nguiã . Erãquiã na ño jẽɨngo nguiã jẽ .
+45011033a	Mbaerã		Dios turã tuchɨte . Dios aracua tuchɨte . — ¿ Mbaerã Dios ũquɨ̃ naa nde ? nande aroneate . Dios chɨsaã nandeɨcua aroneãte quia ã .
+45011033b	~		
+45011034a	~		¿ Emo ndua ndua quia Dios rã nde ? 
+45011034b	~		¿ Emo mose mbia riqui Dios mbaaquiatu re ?
+45011035	~		¿ Emo nane mbae mo mondo quia Dios je re ? ¿ Dios mbae mondo nonde re ?
+45014004	~		Erecheẽ ɨcuã aroneãte ererecua rimba mo je . Ae ae mbae saã nguiã nguerecua je . Dios ae nda ñee nguiã nguĩmba je . Mbae raã turã mose . Mbae raã ɨcuã mose abe no . Dios quirãcuã ae nda ngũimba mingo nguiã mbae turã ndese .
+45014010a	~		Nandecheẽ ɨcuã ɨcuã aroneãte nanderesenda mo je . 
+45014010b	~		Emo mose quia ra Dios mae tuchɨ nanderese cote . Nandechɨangui renda ra etea tuchɨ cote . Ae quia nda nandeɨcuã tea nguiã . Nandeturã abe rea .
+46001020a	~		Ae uaquiatu saã saã nguia , ibi jenda ja chõ ũquɨ̃ nde . 
+46001020b	~		Ae ucheẽ aquiatu saã saã nguia , ibi jenda ja chõ ũquɨ̃ no nde . 
+46001020c	~		Eaquiatuãte ũquɨ̃ , ɨ chõ Dios nguiã ũquɨ̃ je .
+46002011	~		Ae rese emo ndiqui ndua , mbia mo ũquɨ̃ ndua ndua ɨcuayãte . Ae rese nandeɨco ndua , nande ae nandeɨcua nguiã . Ae rese Dios riqui ndua , Espíritu Turã mɨɨ ño eɨcua nguiã . Dios sɨ́ chõ Espíritu Turã nde .
+46002016a	~		Tarembaaquiatu , ɨ aroneate mbia mo Dios je . Dios quiato eã mo ndua eãte quia Dios rã sɨ ã . Nande quia nandendua ndua nguiã Cristo ndua rã sɨ ã . Dios resendate quia nandeɨco nguiã ã .
+46002016b	~		
+46003005a	aba		¿ Aba chõ se chã ? 
+46003005b	aba		¿ Aba chõ Apolos no ña ? Mbia rerecua eã ño ureɨco nguiã ã . Dios cheẽ nenei neneisa chõ ureɨco nguiã ã . Ure Dios cheẽ nenei nenei mose jẽje que Jesús jẽɨcua resẽ .
+46004007a	Mbaerã		¿ Mbaerã nda jẽcuasu jẽsaã saã nde ? 
+46004007b	~		Ae jendeco jembaerã nae , Dios chɨmondo ja chõ ũquɨ̃ nde . 
+46004007c	~		Jẽaquiatu mose , Dios ae jembaaquiatu nguiã . — Se ae que sembae asaã saã nda , ¡ jenyechɨ̃ nda jẽcuasu raã naa jẽ !
+46004021	~		Manyae ra jẽje seso mose jendea reae . Acheẽ asi asi ra jẽje reae . Aɨco mingue chõ nda jẽje renoae . Jẽhuɨ mose jẽɨcuã sɨ , acheẽ asi asi eã nda seso mose jendea .
+46005002	~		Jẽturã jẽsaã saã mbeɨ chõchɨ̃ nguiã jẽ ũquɨ̃ . Jẽya eã eã ño jẽɨngochɨ̃ ũquɨ̃ ndese ũquɨ̃ . Jẽɨreɨ̃ ngũíã tuchɨ chõchɨ̃ . Ae siqui ngu ninisi rese , ae jemombo eã ñochɨ̃ jeñumunua nuasa sɨ .
+46005012	~		Jesús quiatoã nandeteaquiatu aroneate . Ae Jesús quiato , ũquɨ̃ nguiatu nandeteaquiatu .
+46006001	~		Jemo ɨcuã ɨcuã mose nyue , jẽsochɨ̃ nguiã ñee Jesús quiatoã nderecua je . Jẽ ae chõ jemae erese ae . Jẽɨcua ae . Sã Dios quiato achõ ño ñee ũquɨ̃ je . — ¡ Eɨ̃ jenye jẽ ! ɨ ũquɨ̃ je .
+46006003	~		Angeles je abe chee ra “ ¡ eɨ̃ jenye jẽ ! ” nande . ¿ Ũquɨ̃ ndese jẽiranuãte re ? Ã ibi jenda je “ ¡ eɨ̃ jenye jẽ ! ” nande turã ja rã ae .
+46006004	~		Jesús quiato chõ jẽ nde . Ibi jenda mo nɨɨ jemo ɨcuã ɨcuã mose nyue , jẽ ae chõ jemae ũquɨ̃ ndese . Jẽsochɨ̃ nguiã ñee Jesús quiatoã nderecua je . Dios quiato eãte quia ũquɨ̃ nde .
+46006007a	~		Jemo Jesús quiato mo ɨcuã ɨcuã mose nyue , echɨã turã tuchɨ ãte quia ñene . Jeñimbirãcuã ño mbae ɨcuã naa mose jẽje . 
+46006007b	~		Jeñimbirãcuã ño jembae mbuquiachã mose no .
+46006009	~		Mbia rerecuarã tuchɨ ra Dios cote . Aque mose ra mbia ɨcuã siquíã tuchɨ Dios rese . Ae siqui emo ninisi rese nae . Ae siqui ngũinisíã ndese nae . Ae ndua chooño nguia Dios abareã ndese nae . Ae siqui quia nyɨese ngũinisi raã naa nguesenda je nae . Ae mbae mbuquiachã quiachã nguia nae . Ae abeɨ chɨãte riqui nae . Ae quiacua quiacua quia nae . Ae ucheẽ mondo chooño mbeɨte quia mbia je nae . Ũquɨ̃ nda siquíã tuchɨ Dios rese . — Eɨcuã abe ra siqui beɨ Dios rese , ¡ jenyechɨ̃ nda ñɨmbɨɨrɨ̃ ɨrɨ̃ jẽ !
+46006016	~		Emo siqui mose cuña ɨcuã mo ndese , erete ucha chõ nguiã nyɨese aque . Erete nyeremo eã ño cote re . Ũquɨ̃ ndete ja ra co mɨɨ cote , ɨ que Dios cose ra .
+46006019	~		Espíritu Turã siqui chee jeñɨangui re ũquɨ̃ . Espíritu Turã nyuchua chõ jendete re . Dios mbae chõ jẽ nde . Jembae ae eã ño jendete re .
+46007016a	~		Ae Jesús quiato nae , ũquɨ̃ ngũinisi mingo arõte Jesús rese . 
+46007016b	~		Ae Jesús quiato cuña nae , ũquɨ̃ ngu mingo arõte Jesús rese no .
+46009007a	~		Sã soldado siqui chooño eã comandante mbae mee eã mose ee . 
+46009007b	~		Sã emo ndiqui mbae tiquia chooñoa no . — Sechitiquia nda au chã , ɨ chõ nguiã . 
+46009007c	~		Sã emo ndiqui ticuasu raarõ ñooñoa no . — Equiandi nda ambei chã , ɨ chõ nguiã .
+46009018	mbae		¿ Mbae chõ sebite riqui chã ? Mbae mo isiã Dios cheẽ nenei nenei ndɨbɨshorõ , ũquɨ̃ ño sebi re . — Mbae mo embu seje Dios cheẽ nenei nenei ndɨbɨshorõ , ae ãte quia co . Ũquɨ̃ nguia sebi re .
+46010019a	~		— Dios abareã mbae mo saã arondete , 
+46010019b	~		ae ãte raque quia co . 
+46010019c	~		Ae soo mbia mondo mondo quia dios abareã je , soo chõ ndaque ũquɨ̃ .
+46010029	Mbaerã		Jendua ɨcuã eã ndaque jẽ . Emo nguia ndua ɨcuã arõte nguiã cote , jirandu mose jẽ eu rese . — ¿ Mbaerã nda aque soo au eã sebi mose re ? ɨ arõte jemo seje . — ¿ Mbaerã nda emo ñee amumbayã nde ? ɨ arõte jemo seje .
+46010030	Mbaerã		— Se “ gracias ” ɨ mose Dios je aque soo u nonde , eɨcuã eã ño cote reae . ¿ Mbaerã nda emo ñee ɨcuã seje re ? ɨ arõte jemo seje . — ¿ Mbaerã nda au eã eɨcuã eã mose re ? ɨ arõte jemo seje .
+46011022	Mañɨ		Jẽquiaru tuchɨ mose Santa Cena , jẽɨngo ɨcuã ño nguiã Jesús quiato ataque je ũquɨ̃ . Mbaecha reã ɨreɨ̃ ɨreɨ̃ ño nguiã jẽsɨ ũquɨ̃ . ¿ Mañɨ ae ra ñee jẽje re ? Eɨcuãte ũquɨ̃ ndesẽ . Jenyuchua ae ae rei jẽquiaru sacuã ndesẽ .
+46012017a	~		Nanderesa achõ mose nanderete resenda , ɨ̃ nda nandeɨco rei mbae anuate co . 
+46012017b	~		Nandeisa achõ mose nanderete resenda , ɨ̃ nda nandeɨco rei mbae retõ ãte co .
+46012019	~		Nanderete resenda mɨɨ mose , eɨ̃ ndei ra nanderete eãte .
+46014006	~		Se mbiamo cheẽ naa naa mose jẽje , ũquɨ̃ nda jemingo uquia reãte Dios rese . Se ñee nyecua mose jẽje , ũquɨ̃ nguia eturãte re . Ae rese Dios sembiirandu nae , ũquɨ̃ nenei nenei mose jẽje , ũquɨ̃ nguia eturãte re . Se Dios cheẽ mbuchecua tuchɨ mose jẽje , ũquɨ̃ nguia eturãte no nde . Se Dios cheẽ ɨcua ɨcua tuchɨ mose jẽje , ũquɨ̃ nguia eturãte no nde . Mbiamo cheẽ naa naa sɨ .
+46014007	~		Sã música no . Emo flauta mbucheẽ ɨcuã ɨcuã mose , mbia ra tonada ɨcuayãte . Emo guitarra mbucheẽ ɨcuã ɨcuã mose , mbia ra tonada ɨcuayã no .
+46014008	~		Sã soldados no . Emo corneta mbucheẽ ɨcuã ɨcuã mose , soldados ra ɨcoquiatuã .
+46014009	~		Eɨ̃ sɨ chõ jẽ no nde . Jẽ mbiamo cheẽ naa naa mose , mbia ra jeñee ɨcuayãte . Jẽ mbiamo cheẽ naa naa mose , mbia eãsa ñee ñee na ño ũquɨ̃ nde .
+46014015	~		Mbiamo cheẽ abe ra asaã saã ndaque Dios je . Secheẽ abe ra asaã saã ee no . Mbia secheẽ ɨcua ja sacuã . Mbiamo cheẽ abe ra asaã saã se ɨraseɨ raseɨ mose . Secheẽ abe ra asaã saã se ɨraseɨ raseɨ mose no .
+46014016	~		Nde mbiamo cheẽ naa naa mose Dios je , mbia ra ndecheẽ ɨcuayãte . Ae eaquiatuãte , ũquɨ̃ nda ndecheẽ ɨcuayãte . Nyebe eriqui nguiã ñee aroneate Dios je nderese . Nyebe nandecheẽ sɨ́ chõ nandesaã Dios je .
+46014026	~		— Eɨ̃ jenye quiatu quia ñumunua Jesús rɨɨ̃ , ae ra jẽje cote . Emo ɨraseɨ raseɨ . Emo mbia mbaaquiatu quiatu Jesús rɨɨ̃ . Emo Dios cheẽ ɨcua ɨcua mbia je no . Emo mbiamo cheẽ naa naa no . Emo mbiamo cheẽ mbiasa asa ee no . Jenyuuru uru chõ nguia . Mbia mingo ja sacuã Dios rese chõ ũquɨ̃ nde .
+46014036	~		— Ɨchõɨño nguiã ¿ jenye quia secheẽ mose re ? Jẽ nane je eã ngue Dios ñee ndesẽ . Jẽ mɨɨ je eã ngue Dios ñee ndesẽ .
+46015012	Mbaerã		— Cristo que quera sɨ manonde ra , ure que equia erenei nenei jẽje . Urecheẽ ngue jẽisi turã ndei nyii . ¿ Mbaerã jemo ndiqui ñee cote re ? — Mbia raaque ra querayã mbeɨ , ɨ cote re .
+46015029a	~		
+46015029b	~		Emo emo ño bautizar ɨ nguiã eraaque rɨɨ̃ ũquɨ̃ . 
+46015029c	mbaerã		Eraaque quera sɨ eã mose ¿ mbaerã ũquɨ̃ ndiqui bautizar ɨ eraaque rɨɨ̃ nde ?
+46015030a	~		
+46015030b	~		Mbia raaque quera eã mose , eɨ̃ nda ureɨco rei Dios cheẽ nenei nenei ãte mbia je co . Eɨ̃ nda mbia riqui rei ureɨquia serɨ̃ serɨ̃ ãte .
+46015032	~		Nyacua rã tuchɨ que Efeso jenda riqui seje ra . Ũquɨ̃ ngue asiquisã tuchɨ rei quia ñee nda . Eɨ̃ nda asiquisã quisã ɨru rei no , mbia raaque quera eã mose . Mbia raaque quera eã mose , eɨ̃ nda nandeɨco rei ñee . — Mbae nandembei chooño . Mbae nandeu chooño . Mano mbeɨ cote , ɨ .
+46015035a	Mañɨ		Jemo nda ñee ndei . — ¿ Mañɨ nda eraaque quera sɨ re ? 
+46015035b	Mañɨ		¿ Mañɨ nda erete cote re ? ɨ ra jemo ñee ndeae .
+46015055a	~		Nanderasi ra nandeɨquiayã cote . 
+46015055b	~		Ibicua ra nanderaaroã cote .
+47002002	aba		Seso mose jembia eã , aba quia ra sembia se cote . Jẽ ño sembia quia resẽ .
+47002016	Aba		Ae ra nyoɨ tata cuasu nae , mbae shɨmbu ɨcuã naanguia chõ Dios cheẽ ndiqui nguiã ee . Ae ra siqui beɨ quia nae , aba mbushɨmbusa turã naanguia chõ Dios cheẽ ndiqui nguiã ee . ¿ Aba chõ eaquiatu Dios cheẽ nenei nenei ña ?
+47003008	~		Mbae nininyate raque aque mose . Ae Jesús cheẽ yasu nandereco namo ã nae , ũquɨ̃ nguiarei enininya tuchɨ Moisés chɨmbesa sɨ .
+47003009	~		Moisés chɨmbesa quiatu que mbia mbiirandu tuchɨ huɨɨcuã ndese ra . Jesús cheẽ yasu quiarei nandembiirandu nandeɨcuã mbitirõ ndese . Jesús cheẽ yasu quiarei enininya tuchɨ Moisés chɨmbesa sɨ .
+47006014a	~		Dios quiatoã ndese ra jeñɨmbuchachɨ̃ jẽ . Dios quiatoã na eã ño jẽ nde . Sã mbae turã ndiqui mbae ɨcuã mbɨroã no . 
+47006014b	~		Sã nyaashɨ̃ ndiqui itondaru mbɨroã no .
+47006015a	~		Sã Cristo riquíã Satanás ndese no . 
+47006015b	~		Eɨ̃ sɨ chõ Cristo quiato siqui aroneate nguiã Cristo quiatoã ndese no .
+47006016	~		Sã Dios abareã siqui aroneate Dios chuchua no . Jendete rei Dios chuchua tuchɨ . Dios riqui tuchɨ jendete ye ũquɨ̃ . Sã Dios ñee ã no : Erete ye ra aɨco . Ererecuarã nda se . Mbia ra siqui seruɨ , sã ɨ Dios no .
+47011011	Mbaerã		¿ Mbaerã ño mbae aisiã jẽsɨ chã ? Achesecua eãte quia jendese reae . Tei . Ũquɨ̃ eã ñene . Achesecuate rei jendese resẽ .
+47011029a	~		Jesús quiato mo mbae rasi raã mose , se abe seya eã ndasite riqui erese co . 
+47011029b	~		Emo ɨcuã ɨcuã mose Jesús quiato mo je , se abe paama ɨ rasite aɨco co .
+47012013	~		Aɨco turãte que sequia jẽje ra . Sã aɨco turãte iglesias ataque jenda je no . Eɨ̃ sɨ . Jẽ mɨɨ je chõ ngue “ mbae jembu seje ” ae eã nguiã . ¿ Ũquɨ̃ eɨcuãte jẽje re ? “ Mbae jembu seje ” , ɨã mose jẽje .
+47012017	Mbaerã		¿ Mbaerã jeñee ũquɨ̃ nde ? Ae amondo jẽje jembaaquiatu sacuã nae , ũquɨ̃ abe que jembɨɨrɨ̃ ɨrɨ̃ eãte resẽ . Ũquɨ̃ ngue jembae isiãte sembaerã ndesẽ .
+48002014	Mbaerã		Dios cheẽ nduɨ sɨ eã ño ngue Pedro riqui nguiã . Judíos nguesenda rese . Nyɨɨcuasẽ mose judíos eã sɨ . Nyebe acheẽ asi nguiã Pedro je mbiásaa . — Nde Jesucristo ɨcua mose , erehuɨ que judíos rameɨ ñee sɨ cote ra . Judío raque nde . ¿ Mbaerã ereɨco ñee judíos eã je re ? “ Judíos rameɨ ñee nduɨ jẽɨngo ” , ɨ ee re .
+48003001	Aba		¿ Mbaerã jẽaquiatuã tuchɨ riqui re , Galacia jenda ? ¿ Aba jembaaquiatu ɨcuã tuchɨ quia Cristo rɨɨ̃ nde ? Cristo mano ngue asenei tuchɨ rei jẽje resẽ . Jẽisi turãte rei que equia nyii . ¿ Mbaerã jẽɨngo huɨ serɨ̃ serɨ̃te esɨ cote re ?
+48003019	Mbaerã		¿ Mbaerã ño nda Moisés chɨmbesa cheẽ nandechandu chã ? Mbia huɨɨcuã ɨcua sacuã ño Moisés chɨmbesa re . Cristo tu mose chõ ngue Moisés chɨmbesa cheẽ ua nguiã . Sã Dios contrato naa Abraham ndiirĩ je nyii no . Cristo je chõ eriqui nguiã “ Abraham ndiirĩ ” ɨ . Dios rane ngue ucheẽ mondo ángeles je ra . Angeles que emondo Moisés je cote ra . Aquere que Moisés embesa mbia je cote ra . Mbia echeẽ mumbayã nonde .
+48004009a	Mbaerã		Ũquɨ̃ jẽɨngo Dios ɨcuate ũquɨ̃ cote . Dios abe riqui jẽɨcuate co cote . ¿ Mbaerã nguia jẽɨngo huɨ serɨ̃te esɨ cote re ? 
+48004009b	Mbaerã		¿ Mbaerã nda jẽɨngo sɨ́ dios abareã nimbarã nde ? Dios abareã quirãcuã eãte nyeresẽ . Mbae mo naa aroneãte nande je resẽ .
+48004010	~		“ Co tenda mbae mo nandesaã Dios je Dios nandeisi turã sacuã ” , jenye chõchɨ̃ nguiã ũquɨ̃ . “ Co nyasi mbae mo nandesaã Dios je Dios nandeisi turã sacuã ” , jenye chõchɨ̃ nguiã ũquɨ̃ no . Eɨcuã tuchɨ chõ ũquɨ̃ nde .
+48004015	Mbaerã		Seisi turã tuchɨ que se aque mose ra . Jendesa que jemondo bite quia seje aque mose ra . ¿ Mbaerã jẽɨngo secheẽ isi sereãte cote re ?
+48004021	Mbaerã		¿ Mbaerã jẽɨngo ñee nde ? “ Moisés cheẽ nandemumbayã , Dios nandemingo beɨ sacuã ” , ¿ mbaerã jẽɨngo ɨ re ? Moisés cheẽ jẽɨcuayãte quia reae .
+48004030	Mañɨ		¿ Mañɨ ño embesa ji cheẽ ña ? “ Erimba emombo chõ . Eriirĩ ndese . Eninisite riirĩ na eã ño erimba riirĩ nde . Erimba riirĩ siqui aroneate eninisite riirĩ ndese ” , ɨ que embesa ji ra . Eɨ̃ sɨ chõ ae siqui tuchɨ quia judíos cheẽ nduɨ nae . Siqui aroneate Jesús quiatorã .
+48005007a	aba		Jẽɨngo turãte rei que equia nyii . ¿ Aba jembuɨ Cristo cheẽ sɨ cote re ?
+48005007b	~		
+48005011	~		“ Circuncisión jẽsaã na ” , ae ãte quia mbia mo je co . “ Circuncisión jẽsaã na ” , se ɨ mose , eɨ̃ nda judíos ɨcuã ɨcuã eãte rei seje . Eɨ̃ nda judíos paama ɨ ãte rei seje Cristo mano nenei nenei mose mbia je .
+49004009	~		Jesús que siqui ibátee nyii ra . Aquere que eru nguichi íbii cote ra .
+50001018	~		Seyate emo Cristo renei turã mose . Seyate emo Cristo renei ñooño mose no . Cristo rɨɨ̃ nguiatu eriqui nguia ñee . Tachɨmbia tuchɨ chõ nguia ũquɨ̃ Cristo renei nenei mose .
+50001021	~		Cristo mɨɨ nɨɨ ño aɨco nguiã se co . Semano mose , eturã tuchɨ quiarei ũquɨ̃ seje cote .
+51002020	Mbaerã		Cristo mano mose que jẽ abe jemano erese resẽ . Mbia chɨsaã saã ɨma sɨ que jẽhuɨ turã ndesẽ . ¿ Mbaerã nda ũquɨ̃ ñee nduɨ sɨ jẽɨngo sɨ cote re ?
+52002019	~		Jesucristo ra tu sɨ nyebi nanderea . Seya tuchɨ aɨco eraarõ arõ a . Jẽ nguia uremombia mbia beɨte nguiã ũquɨ̃ . Jẽchɨ̃ Jesús quiato . Nyebe ra ureya jendese Jesús tube mose . Ure Jesús cheẽ nenei nenei mose que jẽisi turã nda . Nyebe ra Jesús ia tuchɨ urerese eru mose .
+52003009	~		Dios urembia tuchɨte quia jendese co . Nyebe ureɨco nguiã gracias ɨ ee co .
+54003005	~		Nguiirĩ ndea chooño mose , Dios quiato reaquiatu turã aroneate .
+54006007a	~		Mbae mo ngue nanderuãte nandechaacuquia mose ra . 
+54006007b	~		Eɨ̃ nande sɨ ra nandemano mose mbae mo nderao eã no .
+58001005	~		Ã ngue Dios ñee ãte ángeles mo je ra : Seriirĩ ño nde re . Ndereco que amee ndeje ra , ɨ ãte que Dios ángeles mo je ra . Nderu chõ se re . Seriirĩ ño nde re , ɨ ãte que Dios ángeles mo je ra .
+58001013	~		Ã ngue Dios ñee ãte ángeles mo je ra : Ecoi sejii . Nde abe ra ererecua serese . Ae ndeucuãyãte quia nae , ũquɨ̃ je ra ndequirãcuã ateacuquia tuchɨ . Ndequirãcuã tuchɨ chee ra ũquɨ̃ sɨ , ɨ ãte que Dios ángeles mo je ra . Jesús mɨɨ je que ñee ũquɨ̃ nda .
+58001014	~		Dios riirĩ eã ño ángeles re . Dios rimba chõ ñene . Ae ra Dios mingo beɨ , ũquɨ̃ ndaarõ sacuã ño ngue Dios ángeles mɨɨ nguiã .
+58002003	~		Jesucristo sɨ́ que ñee nda . — Mbia tamingo beɨ , ɨ que ra . Mbia que echeẽ senei senei mbiasa nande je cote ra . Nande echeẽ mumba mose ra mbae rasi nandesaã tuchɨ nande quiatu cote .
+58002006a	Mbaerã		Sã embesa ji ñɨ ñee ã no : ¿ Mbaerã ereɨco nduate mbia rese re , Dios ? 
+58002006b	Mbaerã		¿ Mbaerã ereɨco eraarõ tuchɨ re ?
+58003016	aba		¿ Aba chõ Dios cheẽ ñandu sereã eandure cose chã ? Ae Moisés querao Egipto sɨ nae , ũquɨ̃ ño ngue resẽ .
+58003017	aba		¿ Aba je chõ Dios paama ɨ cuarenta años cose chã ? Ae mbae ɨcuã saã saã nae , ũquɨ̃ ño ngue resẽ . Nyebe mano mano nguiã turúquiaa .
+58003018	Aba		¿ Aba je chõ Dios ñee tuchɨ chã ? — Jenguenea nda jẽucuayã mbeɨ oso serécuaa , ɨ chã . Ae echeẽ mumba quia nae , ũquɨ̃ je chõ ngue re .
+58006004	~		Emo emo ngue siqui rei Dios quiatorã nyii ra . Dios chɨmee ɨcua raque nyii . Espíritu Turã abe ɨcua raque nyii no .
+58007011	~		Sacerdotes riqui mose que Dios ucheẽ mondo rei judíos je ra . Sacerdotes mbia mingo turã aroneate Dios rese . Ɨ̃ nda Jesús tu ãte rei . Ae quia ñɨ tu nguiã sacerdote beɨ nonde cote . Melquisedec na sɨ́ . Aarón na eã .
+58009014	~		Cristo ruqui quia rei equirãcuã tuchɨ ũquɨ̃ mbae ruqui sɨ . Cristo ruqui mɨɨ nguia rei nandendua nduasa mbitirõ tuchɨ . Ae ruqui mɨɨ nguia rei nandemingo turã Dios reco rese . — Se ae tamano mbia ɨcuã mbitirõ sacuã . Mbia mbae turã naa naa sacuã Dios je cote , ɨ que Cristo mano nda . Mbae ɨcuã mo ngue esaã jiri jiriã tuchɨ ra . Espíritu Turã ngue siqui tuchɨ erese emano mose ra .
+58010001	~		Moisés chɨmbesa que mbia mingo turã eã ndaque ra . Mbia mundua ndua sacuã Dios riirĩ mano ndese chõ ngue re . Ticuasu mbia quishɨ̃ nyɨɨbeɨ ɨbeɨ rei quia nae , ũquɨ̃ nduqui que mbia mingo turã eã no nda .
+58010029a	~		Dios riirĩ ucuãyãsa quia ra mbae rasi saã tuchɨ ũquɨ̃ sɨ . 
+58010029b	~		Cristo ruqui ucuãyãsa abe no . 
+58010029c	~		Ae Espíritu Turã isiteã teãte quia nae , ũquɨ̃ abe no . 
+58010029d	~		Cristo ruqui je quiatu ngue Dios ũquɨ̃ mɨɨ ndei nguiã ɨcúe .
+58011032	aba		¿ Aba rɨɨ̃ abe ra aba ñee jẽje re ? Dios quiato tubɨrɨãte quiatu ñene . Ũquɨ̃ asenei ja aroneate jẽje . Gedeón . Barac . Sansón . Jefté . David . Samuel . Dios cheẽ mbuchecuasa ja rɨɨ̃ .
+58012007	~		Dios “ seriirĩ ” ɨ tuchɨ quia jẽje co . Nyebe eriqui nguiã mbae rasi raanguquia jẽje jẽɨcuã mose co . Sã mbia ja riqui nguiirĩ iruã eɨcuã mose no .
+58012009	~		Sã nanderu ibi jenda riqui nandeiruã nua nandeñetẽ mose no . Nandembaaquiatu sacuã . Sã nandeɨco echeẽ mumbayã cote no . Eɨ̃ nande sɨ́ chõ Paba ibatenda je . Ae cheẽ nguiatu nandemumbayã tuchɨ . Ũquɨ̃ mose ra nandereco siqui turã tuchɨ .
+58012025	~		Dios riqui ñee jẽje co . Echeẽ nda jẽisiteã teãchɨ̃ jẽ . Dios que mbae rasi saanguquia mbia je cose ra . Echeẽ nenei neneisa andu sereã mose a íbii . Ibatenda riqui ñee nande je co . Ae cheẽ nandechandu sereã mose , mbae rasi ra esaanguquia tuchɨ nande je cote .
+58013006	~		Ae beɨ jẽ . Dios ra nanderechayã mbeɨ . Nyebe nandeɨco nguiã ñee : Dios riqui beɨte serese co . Mbia mo sɨ ra asiquicheã , nyebe nandeɨco nguiã ɨ ã .
+59002006	~		Jẽ ngue mbia mbaecha reã jenguirirõ tuchɨ ra . Eɨcuã eãte ũquɨ̃ ndiqui raque jẽje . Mbaecha quiatu eɨcuãte riqui nguiã jẽje . Jembɨɨrɨ̃ irɨ̃ ño nguiã . Jenderao rao chõ nguiã ererecua je , jẽ mbae mo mee mee sacuã ee .
+59002014	~		Sã emo ndiqui ñee no . — Dios aɨcuate quia co , ɨ . Ũquɨ̃ mbae turã naa eã mose , ũquɨ̃ nda Dios sirõ eã mbae ɨcuã sɨ . Dios ɨcua chooño ño ñene .
+59002016a	~		Sã jemo ndiqui ñeeño ee no . — Nde ae chõ ndechɨurã etea . Nde ae chõ ndeɨraorã etea . Eso turã ño , ɨ jemo ee . 
+59002016b	~		Mbae mo mee ndocoɨ̃ ee . Jeñee ɨru chooño ño nguiã ee ũquɨ̃ .
+59002018	~		Sã emo ndiqui ñee no . — Dios aɨcuate quia co , ɨ . Sã emo ndiqui ñee no . — Mbae turã asaã saã nguia co . Dios aɨcua chooño eã nguia co , sã emo ndiqui ɨ no . Jẽ Dios ɨcua mose ¿ mañɨ ae ra jẽɨcua mbae turã naa naa eã mose re ? Se quiatu mbae turã asaã saã nguiã co . Nyebe ra mbia “ eriqui Jesús ɨcuate co ” , ɨ serɨɨ̃ .
+59002021	~		Sã nandei Abraham no . — Nderiirĩ emee seje , ɨ mose Dios , Abraham ngue echeẽ mumba eã nda . Nyebe Dios Abraham isi turã mbeɨ nguiã .
+59003013	~		Jemo aquiatu mose , sã eriqui mbae turã naa naa mbeɨ . Sã eriqui tochɨ beɨ no .
+59003017	~		Dios uaquiatu mee mose nande je , nandechɨã turãte ra cote . Nandechɨã nda ngoite cote . Cocheete ra nandeɨco cote . Emo ñee nda nandemumba eãte cote . Nandeya eã nda mbia rese cote . Mbae ra nandesaã turã mbeɨ quia cote . Nandendua ata ata eã nda cote . Nandecheẽ nyecuate ra eriqui mbia je cote .
+59004001a	Mbaerã		¿ Mbaerã ño jẽɨngo nyao nyao nyɨese chã ? 
+59004001b	Mbaerã		¿ Mbaerã ño jẽɨngo ɨco ɨcuã ɨcuãte nyue chã ? Jeñɨangui renda ɨcuã nɨɨ ño ñene . “ Se chõ jẽ ” , jenye jaaja quiatu nguiã mbae ɨcuã oseɨ oseɨ .
+59004012	aba		Dios ae chõ mbia cuata mee nguiã co . Dios mɨɨ ño ucheẽ mondo nguiã nande je . Nande echeẽ mumbayã sacuã . Dios ae chõ aba rirõ nguiã aba ɨcuã sɨ . Dios ae chõ nda aba mondo tata cuásuu no . Nande quiarei emo cuata nandemee aroneate .
+59004014	~		Ũquɨ̃ Dios biãte . Nandeiranuate mbae mo ndese . Mbae mo tu arondete tã ɨ nande je . Isamamɨ nandemano arondete . Shɨmbo rã ño nande re . Sã shɨmbo riqui quiachã jeɨte no .
+60002020	~		Mbae turã jẽsaã saã mbeɨ chõ nguia . Mbia jẽiruã nua mose jẽturã nɨɨ , jendoseɨ̃ nguiátu chõ jẽɨngo . Ũquɨ̃ mose ra Dios ia tuchɨ jendese . Mbae ɨcuã mo nda jẽsaãchɨ̃ . Jẽ mbae ɨcuã naa mose , Dios biãte ũquɨ̃ . Mbia jẽɨrua nua mose jẽɨcuã nɨɨ , jendoseɨ̃ nguiátu raque rae , Dios biãte ũquɨ̃ . Jẽɨcuã nɨɨ ño ñene .
+60003013	mañɨ		Jẽɨngo turã mose ¿ mañɨ nda emo mbae ɨcuã naa jẽje re ?
+60004017	Mañɨ		Dios ra mae ja chee mbia chɨsaã ja rese . Achɨte Dios ñɨ mae uquiato chɨsaã ndese a . Nandechɨsaã ndese chee ra Dios mae . Uquiato chɨsaã ndese chee . Mañɨ nda uquiatoã nyɨsaã je remɨ . Ũquɨ̃ nguiatu ra embasi tuchɨ nandesɨ quiatu . Dios cheẽ turã nguiatu ngue eisiãchɨ̃ nguiã .
+60004018	~		Dios quiato riqui ñimbirãcuãyã arõ arõte mbae ɨcuã tuutu beɨ mose ee ã . Dios quiatote raque . Dios quiatoã nguiatu ra ñimbirãcuãyã tuchɨ mbae ɨcuã sɨ . Dios ra emondo chee tata cuasu .
+61003004	~		Ũquɨ̃ nda ñee jẽje : — Sã Jesús tu ãte no jẽ . Sã ucheẽ mbuchebi chõ jẽ . Sã eɨ̃ mbeɨ chõ Dios chɨsaã ɨma jẽ , ɨ ra ũquɨ̃ ñee ɨcuã ɨcuã jẽje .
+61003011	~		Nyebe Dios nandesiichã tuchɨ quiatu quia . Dios rã sɨ quiatu nandeɨco mbae turã ndese .
+62002022	Aba		¿ Aba chõ ɨchõɨñosa chã ? “ Dios chɨmondo eã ndei Jesús ” ae ɨ quia nae , ũquɨ̃ ño ñene . Ae siqui sereãte quia Paba ruɨ nae , Jesús abe ruɨ nae , Cristo ucuãyãsa chõ ũquɨ̃ nde .
+62003012	Mbaerã		Caín na nda jẽɨngochɨ̃ jẽ . Diablo resenda chõ ae re . Nyebe ngõngue ɨquia nguiã . ¿ Mbaerã ño ngõngue ɨquia chã ? Echɨsaã saã ɨcuãte quiatu ngue eriqui nguuiã . Enongue chɨsaã nguiatu ngue eturãte riqui nguiã .
+62003017	mañɨ		Nandequeteã tuchɨ aroneate nandembae rese mbaecha reã mo je . Emo ia eã eã mose mbaecha reã mo ndese , ¿ mañɨ ño nda equia nyesecua Dios rese uchɨangui re ?
+62004020	~		“ Achesecua quia Dios rese co ” ɨ mose emo , ngõngue ucuãyã mose , ñee ñooño je chõ ũquɨ̃ nde . Nandechesecua eã mose nandenongue rese , Dios abe rese chõ nandeɨco nguiã nyesecua eã no . Dios rese quia nandeɨco nguiã mae aroneate .
+62005005	~		Jesús ɨcuasa achõ nda “ quɨ jẽ ” ɨ mbae ɨcuã ibi jenda je . — Dios chɨmondo rei Jesús , ɨ je ra “ quɨ jẽ ” ɨ ibi jenda ɨcuã je no .
+66005002	Aba		Angel quirãcuã mo ngue ñee nda . — ¿ Aba ra sellos ndoso libro equia re ? ɨ que ángel ñeemombo ra .
+66006010a	Manosete		Ũquɨ̃ ngue tasẽ tasẽ ñee Dios je ra : — Mbae eresaã turã jate quia nde co , Dios . Mbae ja rerecua chõ nde re . ¿ Manosete ra urerɨɨchare erembasi re no , Dios ? ɨ que ñee ja Dios je ra .
+66006010b	~		
+66006017	Aba		Dios riqui mbae rasi raanguquia uquiato eã je co . Aba quia ra ñɨmbirãcuã ã je , ɨ que mbia quia siquichete cuu ra .
+66007013a	aba		Ũquɨ̃ ameɨ mo ngue ñee seje cote ra : — ¿ Aba ã nde ? Ae eɨraoshĩ chɨ a . 
+66007013b	ma		¿ Ma sɨ ecuaẽ a re no ? ɨ que ñee seje cuu ra .
+66013004a	~		Mbia que ñee turã turãte quia dragón je ra . Uquirãcuã mee mose icuã je . Icuã je abe que eriqui ñee turã turãte ra : — Co icuã turã na eãte mbia mo . Ae mɨɨ ño equirãcuã ndiqui nguiã mbia sɨ co , 
+66013004b	~		ɨ jate que mbia quia ee ra .
+66015004a	~		Mbia ra ɨreɨ̃ ɨreɨ̃ ja ndesɨ mae mose ndechɨao rese . Ñee turã ja ra nderɨɨ̃ . Nde mɨɨ ño ererecua tuchɨ re . Mbia ra ngaẽ ja tuchɨ nderea . Ñee turã sacuã ndeje . Ndechɨao turã ndese quiatu ngue mbia mae nguiã , ɨ que mbia ɨraseɨ raseɨ ama ndɨsha arõ cuu ra .
+66015004b	~		
+66017007	Mbaerã		Angel que ñee seje cote ra . — ¿ Mbaerã ereɨco nyuruɨrate mae erese re ? Tarembiirandu cuña ɨcuã ndese . Ae átoo eñɨ nae , aque rese abe tarembiirandu . Ae siete eãquĩ ndiqui nae . Ae erambashɨ̃ diez riqui nae .
+66018018	~		Babilonia sucha tubɨrɨã oquieɨ mose ra ũquɨ̃ nyɨ ɨsho mae erese . — Sucha tubɨrɨã tuchɨchɨ̃ Babilonia . Babilonia na eãte emo , ɨ ra nyeseo sucha tubɨrɨã oquieɨ mose Babilonia jenda .

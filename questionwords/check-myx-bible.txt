@@ -1,0 +1,743 @@
+40002002	waheena		Beetsa nga bareeba bari , “ Umwana usaalikhile khuuba umuyinga we Bayudaaya , ali waheena ? Khwaboone inieniesi yeewe i Bwamanyaanga kila khwitsile khumwisaaya . ”
+40002004	waheena		Aryo wabusanisa basaayi bakhulu be babandu boosi atweela , ni baleekeli be kamakambila ka Musa , wabareeba ari , “ Kristo alisaalibwa waheena ? ”
+40003007	naanu		Ne Yohana n'abona bakali khu Bafarisaayo ni Basadukaayo nga beetsa is'ali khubatisibwa , wabaloma ari , “ Inywe tsindemu , naanu uwabarewuule khukhwilukha lirima liliili khukhwiitsa ?
+40005013	iryeena		“ Inywe muli nga kumuunyu kwe shibala . Ne kumuunyu ni kuwamo itsamu , itsamu iyo yisibwamo iryeena lundi ? Kuba sikushaakha lundi ta , khurusakho kutuumibwa ibulafu , ni babandu bakusaambakilila .
+40005046	shiina		Ne noola mukana ibo bababakana bonyene , mulifuna shiwanwa shiina ? Ni babusanisi be kumusolo nabo sibakhola baryo ?
+40005047	shiina		Ne ni kane musheesatsake bayaaya beenywe bonyene , babandu babandi inywe mubafuurisakho shiina ? Ikhaba ni bakhafukiilila nabo sibakhola baryo ?
+40006027	Naanu		Naanu khwiinywe unyala khukhwilooselakho imbuka ifwiiti iri khu bulamu bweewe lwe khukhwiyembelela ?
+40006028	lwashiina		“ Ne lwashiina mwiyembelela lwe bikwaaro ? Ni mubone nga bimuli bye mwirome nga ni bitsowa , sibiraamba , namwe siibinabila bikwaaro ta .
+40006031a	shiina		Ni nashiryo , mukheyembelela nga muloma muri , ne khunalya shiina ? 
+40006031b	shiina		namwe muri khunanywa shiina ? 
+40006031c	shiina		namwe muri khunakwaara shiina ta ?
+40007003	lwashiina		Iwe lwashiina ubona khasosono khakhaali khu moni ya wandaayo , ne walekha khwambaasa khu kukyeenga kukuuli khu moni yoowo wamweene ?
+40007004	uryeena		Namwe unyala uryeena waloma wandaayo uri , ‘ Khayo ikhurusemo khasosono khakhaali khu moni yoowo ’ , ate nga iwe wamweene uli ni kukyeenga khu moni yoowo ?
+40007009	shiina		Namwe mundu shiina mwiinywe , umwana weewe n'amuloomba biilyo unyala wamuwa libaale ?
+40007016a	~		Ne mulibamanyila khu byaamo byaawe . Lwekhuba babandu sibanyala babuta tsisabibu khu binyenya ta , 
+40007016b	~		namwe sibanyala babuta kamakhuyu khu marakalu ta .
+40008026	Lwashiina		Yesu wabaloma ari , “ Lwashiina muba ni khuurya khukali , inywe babaali ni khufukiilila khufwiiti ? ” Aryo wenyukha wakhookhela imbewo ni khutumbuukha khwe inyaantsa , aryo abawo khukwalaala khukali .
+40008027	shiina		Basaani tsana beyaanga busa nga baloma bari , “ Musaani shiina yuno ? Bona imbewo ni khutumbuukha khwe inyaantsa nabyo bimuwulila ! ”
+40008029	shiina		Boombi balomela angaaki ni likono likali bari , “ Iwe Umwana wa Wele , ukhufunisa ifwe shiina ? Wetsile khukhuwa shitaambiso nga isaawa inyene ishiili khukhwoola ta ? ”
+40009004	Lwashiina		Ne Yesu n'amanya bibyambaaso byaawe , wabalomela ari , “ Lwashiina mwambaasa bibindu biibi nga bino ?
+40009005	~		Shishindu shishaangu nisho shili ; khuloma umusaani umuleme yuno ndi , ‘ Bibyonako byoowo byakhwiyakhiilwe ’ , namwe khuloma ndi , ‘ Yinyukha ukyende ? ’
+40009011	Lwashiina		Ne Bafarisaayo balala ni baabona shino , bareeba baleekelwa ba Yesu bari , “ Lwashiina umuleekeli weenywe ekhala waliila atweela ni babusanisi be kumusolo ni babonaki babandi ? ”
+40009014	Lwashiina		Lwanyuma baleekelwa ba Yohana Umubatisa beetsa isi Yesu bamureeba bari , “ Lwashiina ifwe ni Bafarisaayo khubuya intsala busheele , ne baleekelwa boowo sibabuya baryo ta ? ”
+40009015	~		Naye Yesu wabelamo ari , “ Shinyalikha bakyeni booyo ukhweele umukhasi khuuba mu mutaambo , nga ukhweele mweene uyo ashiiliwo ni nabo ? Taawe ! Ne bifukhu bilyoola byeesi uyo ukhweele aliibarusibwakho , ni nabo balibuya intsala .
+40010025	~		Ne shakhiile khumumala umusomi n'aba wekyelile nga umuleekeli weewe , n'umwakaanisi khukhwikyela nga umukoosi weewe . Baryo babandu ni baba nga balaangile umweene mungo khuuba Belizebuli , sibalifuurisakho naabi khulaanga be mungo mweewe baryo !
+40010025	~		Ne shakhiile khumumala umusomi n'aba wekyelile nga umuleekeli weewe , n'umwakaanisi khukhwikyela nga umukoosi weewe . Baryo babandu ni baba nga balaangile umweene mungo khuuba Belizebuli , sibalifuurisakho naabi khulaanga be mungo mweewe baryo !
+40011007	shiina		Ne baleekelwa ba Yohana Umubatisa ni baaba nga batsya , Yesu wakanikha isi kamatuuli ke babandu bibiwaamba khu Yohana mweene , nga aloma ari , “ Inywe ni mwatsya isi Yohana mu mubiimbi , shiina sheesi mwatsiililila khubona ? Khubona lukholo luluteengasibwa ni mbewo ?
+40011008	aryeena		Ne mwatsiililila khubona umundu ufwana aryeena ? Umundu ukwarire tsingubo tsitsinyenanyena ? Bona ibo babakwaara tsingubo tsitsinyenanyena bali mu lwanyi lw'omuyinga .
+40011009	shiina		Ne ilala mwatsiililila khubona shiina ? Khubona umuŋoosi ? E e , ilala imbaboolela ndi niye afuurira ilala umuŋoosi .
+40011016	shiina		“ Ari babandu be kumuboolo kuno imbakyelaase na shiina ? Bafwanana nga babaana babekhaale mu khatale , nga balaangana ni bashaawe bari ,
+40012011	Naanu		Yesu naye wabareeba ari , “ Naanu khwiinywe n'aba ni lisheese lyeewe litweela ne lyaakwa mwilowo khu shifukhu sha Sabato , ukhatsya walirusamo ?
+40012026	buryeena		Nashiryo Sitaani n'aba nga esoolanisa umweene , aba wawukhanilemo umweene , buyinga bweewe bunyala buryeena khukhwiimawo ?
+40012027	naanu		Ne noola ise imboona kimisaambwa kimibi khulwe bunyala bwa Belizebuli , ne baloondeleli beenywe babiwoona khulwe bunyala bwa naanu ? Baryo nibo balibakhalila inywe kumusaango .
+40012029	~		“ Namwe mbaawo umundu unyala khufuna lundi wenjila muntsu y'omundu uwe kamaani , wanuula bibindu byeewe , khurusakho nga wanyooyile khumubowa , aryo nio wanyalisa khunuula bibindu .
+40012034	muryeena		Inywe tsindemu tse buutwa ! munyala muryeena khukanikha bibindu bilayi nga inywe mwabeene muli babandu baabi ? Lwekhuba kumunwa kw'omundu kukanikha ibyo bibitsuule mu mwoyo kweewe .
+40012048a	naanu		Kila Yesu elamo ari , “ Maayi wase niye naanu ? 
+40012048b	banaanu		Nalundi babandaayase nibo banaanu ? ”
+40013010	shiina		Lwanyuma baleekelwa beetsa isi Yesu , bamureeba bari , “ Iwe shiina shikila ukanikha isi babandu bano musimo ? ”
+40013027	waheena		Babakaanisi b'omweene mukuunda bamwiitsayo , bamuloma bari , ‘ Musakhulu , iwe siwamiitsa bumiitso bulayi mu mukuunda kwoowo ? Ne ari kumusiru kuno kwamile waheena ? ’
+40013054a	waheena		Ne nga wolele mu shiriimba she wawe , watsya warakikha khuleekelela muntsu iye khukhwisaayilamo , ni nabo boosi bababaamo beyaanga naabi . Lwekhuba baloma bari , “ Oyu kamakyesi kano koosi akamisa waheena , 
+40013054b	~		ni kamaani kano ke khukhola bye kamakaanga bino ?
+40013056	eena		Ni bakooko beewe nabo sibamenya mu shiriimba shino ? Kale oyuno amisa eena bibindu bino byoosi ? ”
+40014031	Lwashiina		Khaangukho Yesu wakolola kumukhono kweewe , wamukumila , nga aloma ari , “ Iwe nga uli ni khufukiilila khufwiiti . Lwashiina wikanakaane ? ”
+40015002	Lwashiina		“ Lwashiina baleekelwa boowo bafuniaka bye tsisaambo tse basakhulu tsikhale ? Lwekhuba sibasaaba kamakhono nga batsya khulya ta . ”
+40015003	lwashiina		Yesu wabelamo ari , “ Ni nanywe lwashiina mufuniaka likambila lya Wele lwe khukana khuwamba tsisaambo tseenywe tsikhale ?
+40015033	eena		Baleekelwa beewe bamureeba bari , “ Ifwe kane khwamise eena biilyo mu mubiimbi muno byeesi khunyala khwaliisila babandu bano boosi ? ”
+40015034	kyeenga		Yesu wabareeba ari , “ Ne muli ni kimikaati kyeenga ? ” Nabo bamwiilamo bari , “ Kili musaafu , ni bunyeeni bukyeekhe buri . ”
+40016008	lwashiina		Ne Yesu nga wamanyile byoosi byeesi baaba baloma , kila abareeba ari , “ Inywe babaali ni khufukiilila khukyeekhe , lwashiina mwireebana mwenyene muri , simuli ni kimikaati ?
+40016009	byeenga		Mushiili khumanya ta ? Simushebulila kimikaati kiraano kyeesi nawa babandu bikana biraano , bibiipo byeenga byeesi mwabuusanisa ?
+40016010a	~		Ni kimikaati musaafu kyeesi nawa babandu bikana bine , 
+40016010b	byeenga		bibiipo byeenga byeesi mwabuusanisa ?
+40016011	Shiina		Shiina shishibalobeele khumanya muri , ise simbeele inganikha khu mikaati ta ? Ne nimwiliinde kamamela ke Bafarisaayo ni Basadukaayo . ”
+40016013	naanu		Lwanyuma nga Yesu wolile mu shaalo she Kayisaliya Filipi , wareeba baleekelwa beewe ari , “ Umwana w'Omundu babandu bamulomakho khuuba naanu ? ”
+40016015a	~		Naye Yesu wabaloma ari , “ Ne inywe , 
+40016015b	naanu		ise munaanga khuuba naanu ? ”
+40016026a	shiina		Lwekhuba umundu shilimuyeeta shiina khuulya shibala shoosi , ne wafwiila bulamu bweewe ? 
+40016026b	shiina		Namwe umundu aliwaanayo shiina nio bulamu bweewe bumukobosewele ?
+40017010	Lwashiina		Baleekelwa bamureeba bari , “ Lwashiina baleekeli be kamakambila ka Musa baloma bari , Eliya niye uwakhila khunyoowa khukhwiitsa ? ”
+40017017a	ena		Yesu welamo ari , “ Inywe kumuboolo kukukhafukiilila ta , kumuwandalafu , ise indyoolesa ena khuuba ni nanywe ? 
+40017017b	ena		Ise indyoolesa ena khubekhalilikha ? Ni mumunderere ano . ”
+40017019	lwashiina		Lwanyuma baleekelwa beetsa isi Yesu mu shimoonyo , bamureeba bari , “ Umukasya , ne lwashiina ifwe sikhunyalile khuwoona shisaambwa isho ta ? ”
+40017025a	urye		Petero wabelamo ari , “ E e , naawa . ” Ne Petero n'ola mu ntsu nga ashiili khuloma ilomo yoosi ta , Yesu wamureeba ari , “ Simoni , iwe wambaasa urye ? 
+40017025b	banaanu		Bayinga be shibala , kumusolo namwe busuulu babibusanisa khukhwama khu banaanu ? Khukhwama khu baana baawe basiinde namwe khukhwama khu bareende ? ”
+40018001	Naanu		Mu saawa nyene iyo , baleekelwa beetsa isi Yesu , bamureeba bari , “ Naanu ufuura bukhulu mu Buyinga bwe mwikulu ? ”
+40018012	muryeena		Inywe mwambaasa muryeena ? Umundu n'aba ni kamasheese keewe shitoondo shitweela , ne litweela khu niko lyakoraanakho , s'alekha kamakhumi syeenda na syeenda khu lukiingi , watsya nga aweentsa litweela ilyo lilyakoraanile ?
+40018021	kyeenga		Lwanyuma Petero weetsa isi Yesu , wamureeba ari , “ Umukasya , wandaayase nga wonakile isi indi , kane imwiyakhile kimilundi kyeenga ? Niyakhile khukhwolesa kimilundi musaafu ? ”
+40019007	lwashiina		Bafarisaayo bamureeba bari , “ Ne lwashiina Musa alakila ari , umusaani awe umukhasi weewe ibaluwa iye khumuwoona nio amuwoone ? ”
+40019016	shiina		Lwanyuma abonekhawo umusaani umuyindifu uweetsa isi Yesu , wamureeba ari , “ Umuleekeli , ikhole shilayi shiina , nio ifune bulamu bukhawawo ta ? ”
+40019017	Lwashiina		Yesu wamwiilamo ari , “ Lwashiina undeeba khwiibyo bibiwaamba khu shilayi ? Aliwo mutweela yenyene niye uli Umulayi . Ne noola ukana khukhwinjila mu bulamu , wulilatsaka kamakambila . ”
+40019018	~		Umusaani tsana wamureeba ari , “ Niko kali ? ” Yesu wamwiilamo ari , “ Ukheera ta , ukhayeyana ta , ukheeba ta , ukhaapa umundu washoowo liyino ta .
+40019020	shiina		Umusaani tsana yuno wamwiilamo ari , “ Ibyo byoosi naabiwambatsaka , ne shiina shishiindi shishindaambakho ? ”
+40019025	naanu		Ne baleekelwa ni baawulila shino , beyaanga busa nga bareeba bari , “ Ari naanu unyala khuwonesebwa ? ”
+40019027	shiina		Lwanyuma Petero wamwiilamo ari , “ Bona ifwe khwalekha byoosi , khwakhulondelela iwe , ne khulifuna shiina ? ”
+40020006	Lwashiina		Ne lundi ndi khu saawa iye likhumi na ndweela , wanyoola babandi nga bemile awo busa , nabo wabaloma ari , ‘ Lwashiina mwemile ano busa nga simuli ni sheesi mukhola shifukhu shoosi ta ? ’
+40020012	~		nga baloma bari , ‘ Bano babeetsile lwanyuma baraambila isaawa ndweela yonyene , wabalekhaasa ni nafwe , khukhurekanile ni busiro bwe shifukhu shoosi kumuumu nga kukhwoosha ? ’
+40020021	shiina		Yesu wamureeba ari “ Ukana shiina ? ” Naye welamo Yesu ari , “ Fukiilisa uri babaana baase bano boombi kane bekhale , mutweela khu mukhono kwoowo kumulayi n'ukuundi khu mukhono kwoowo kumunyeletsi mu Buyinga bwoowo . ”
+40020032	shiina		Kila Yesu weema , wabalaanga . Wabareeba ari , “ Mukana ise imbakholele shiina ? ”
+40021010	Naanu		Aryo Yesu ni enjila mu Yerusalemu , shiriimba shoosi shayeŋanisibwa , nga baloma bari , “ Naanu uyu ? ”
+40021016	~		Kila bareeba Yesu bari , “ Uwulila byeesi babaana bano baloma ? ” Yesu wabelamo ari , “ E e , nawuliile . Ne simwasomatsakakho muri , ‘ khukhwama mu khanwa khe babaana ni baŋaalye , wayiŋoonaŋoonela lubuyi ? ’ ”
+40021020	kuryeena		Ne baleekelwa ni baabona shino beyaanga naabi nga baloma bari , “ Kusaala ku figi kuno kunialile kuryeena khangukho ? ”
+40021023a	shiina		Yesu wenjila mu Lisaayilo Likhulu , ne n'aba nga aleekela , basaayi bakhulu ni basakhulu be babandu beetsa is'ali , bamureeba bari , “ Uli na bunyala shiina bubukhukholisa bibindu bino ? 
+40021023b	naanu		Naanu uwakhuwa bunyala buno ? ”
+40021025a	ena		Khubatisibwa khwa Yohana Umubatisa khwama ena ? Khwama mwikulu namwe khwama mu bandu ? ” Bareebana bonyene na bonyene nga baloma bari , 
+40021025b	~		“ Ni kane khulome khuri , khwama mwikulu , kane akhureebe ari , 
+40021025c	shiina		‘ Ne shiina kila mukhamufukiilila ? ’
+40021028	murye		“ Inywe mwambaasa murye ? Abawo umusaani mutweela , uwaba ni babaana beewe basooleli babili . Watsya isi unyoowa wamuloma ari , ‘ Mwana wase , tsya uraambe mu mukuunda kwe kimizabibu shaleelo . ’
+40021031	naanu		Kila Yesu abareeba ari , “ Khu babili bano , naanu uwakhola sheesi papa wabwe akana ? ” Nabo belamo bari , “ Uwanyoowa . ” Yesu wabaloma ari , “ Ilala imbaboolela ndi , babusanisi be kumusolo , ni bamalaaya balikho babanyoowa inywe khukhwinjila mu Buyinga bwa Wele .
+40021040	aryeena		Ulwo Yesu wabareeba ari , “ Nga umweene mukuunda wetsile , balimi ibo alibakhola aryeena ? ”
+40022012	uryeena		Kila amureeba ari , ‘ Mulebe , winjiile uryeena ano nga s'uli ni shikwaro shishakhila kamayiiya ta ? ’ Ne umusaani wasila busa .
+40022017	urye		Aso khuboolele , iwe wambaasa urye ? Shilayi khuuwa kumusolo isi Kayisaali namwe ta ? ”
+40022018	lwashiina		Ne Yesu waba nga wamanyile buubi bwaabwe , wabaloma ari , “ Inywe babeeyi , lwashiina muweentsa khukhukhakilisa ise ?
+40022020a	naanu		Kila ndi wabareeba ari , “ Shifwani shino , ni buronekho buno , bya naanu ? ”
+40022020b	~		
+40022028	naanu		Aso , nga yoolele ikhulamukha khwe baafu , umukhasi yuno aliiba mweene wa naanu , khu bebulebe bano musaafu ? Lwekhuba boosi baaba ni naye nga umukhasi wabwe . ”
+40022036	shiina		“ Umuleekeli , likambila shiina lilifuura bukhulu mu makambila koosi ? ”
+40022042a	murye		“ Kristo , inywe mumwambaasakho murye ? 
+40022042b	naanu		Niye Umwana wa naanu ? ” Nabo bamwiilamo bari , “ Niye Umwitsukhulu wa Daudi . ”
+40022043	lwashiina		Naye Yesu wabaloma lundi ari , “ Ne lwashiina Daudi , nga Umwoyo Umukhosefu amurangilila , amulaanga ari , ‘ Umukasya ? ’ Lwekhuba niye amulomakho ari ,
+40022045	aryeena		“ Aso , noola Daudi amulaanga khuuba ‘ Umukasya ’ , anyala aryeena ndi khuuba umwitsukhulu weewe ? ”
+40023017	Shiina		Inywe babofu basilu ! Shiina shishifuura ; izaabu namwe Lisaayilo Likhulu lilikyelisa izaabu khuuba ikhosefu ?
+40023019	Shiina		Inywe basaani babofu ! Shiina shishifuura bukhulu ? Shiwanwa namwe shisheeso shishikyelisa shiwanwa khuuba shikhosefu ?
+40023033	muryeena		Inywe tsindemu ! Lundi inywe babaana be tsindemu tse buutwa ! Muliwona muryeena khukhaliwila kumusaango kwe geyeena ?
+40024003a	liina		Yesu n'aba nga wekhaale khu lukiingi lwa Zeyituuni , baleekelwa beewe beetsa is'ali mu shimoonyo bamuloma bari , “ Umukasya , khuboolele , bibindu bino byoosi bilibawo liina , 
+40024003b	shiina		nalundi khabonelo khe kamakaanga shiina khakhalibawo khukhwokesa khukhwiitsa khwoowo , ni intsakamo iye shibala ? ”
+40024045	Naanu		“ Naanu umwakaanisi umwiyikinwa lundi umukyesi yeesi umukoosi weewe alekhela baraambi be muntsu yeewe khubalolelela , khubawa biilyo mu saawa inyene ?
+40025037	liina		“ Ne bakwalaafu nabo balimwiilamo bari , ‘ Umukasya , khwakhubona liina nga uli ntsala khwakhuwa she khuulya ; namwe nga uli bulesa khwakhuwa she khuunywa ?
+40025038	liina		Khwakhubona liina nga uli umukyeni khwakhwakaanila iweefwe ; namwe nga uli bukhuna khwakhukwarisa ?
+40025039	liina		Khwakhubona liina nga uli umulwaale , namwe mu mapuusu , khweetsa khukhubona ? ’
+40025044	liina		Nabo balimwiilamo bari , ‘ Umukasya , khwakhubona liina nga uli intsala , namwe bulesa , namwe umukyeni , namwe bukhuna , namwe mulwale , namwe mu mapuusu , ifwe khwalekha khukhuyeeta ? ’
+40026008	shiina		Ne baleekelwa ni babona shino , bakhalala baloma bari , “ Kamafura aka konekheele shiina ?
+40026010	Lwashiina		Yesu n'abona aryo , wabareeba ari , “ Lwashiina mwikiitsa umukhasi uyu ? Wakholele ise shishindu shilayi naabi .
+40026015	Shiina		wabareeba ari , “ Shiina sheesi kane muumbe ise ningene imbaaneyo Yesu isi muli ? ” Baryo bamubalila tsinusu tse ifeeza kamakhumi kataru bamuwa .
+40026017	ena		Khu shifukhu shishinyoowa she Kamayiiya ke Kimikaati Kikikhasiila ta , baleekelwa beetsa isi Yesu bamureeba bari , “ Kane khukhurekekhele ena esi ukana khuliila Kamayiiya ke Khubirakho ? ”
+40026040	~		Lwanyuma wakobolayo isi baleekelwa beewe , wabanyoola nga bakonele liilo . Waloma Petero ari , “ Inywe simunyalile khuuba meeso ni nase khumalakho isaawa ndweela yonyene ta ?
+40026050	~		Yesu wamuloma ari , “ Musaale , khola sheesi witsiliile khukhola . ” Baryo basaani beetsa baakwa khu Yesu bamuwamba .
+40026054	biryeena		Ni bibyaronebwa bikhosefu binyala byoolelela biryeena , bibiloma biri shino shaakha shibe shiryo ? ”
+40026062a	~		Umusaayi ufuura bukhulu wenyukha weema khu ngaaki , waloma Yesu ari , “ Iwe s'uli ni she khukhwiilamo ta ? 
+40026062b	shiina		Lomo shiina yeesi basaani bano bareera khukhutsuntsumilisa iwe ? ”
+40026065	shiina		Lwanyuma umusaayi ufuura bukhulu winuulaka bikwaaro byeewe nga aloma ari , “ Oyu wakhomele Wele , ari khukanila shiina bujulisi bubuundi ? Bona ari mwawuliile bukholomi bweewe .
+40026066	muryeena		Ari inywe mwambaasa muryeena ? ” Nabo belamo bari , “ Akhila khuufwa . ”
+40026068	Naanu		nga bamuloma bari , “ N'ukhulakule , iwe Kristo . Naanu niye ukhupile ? ”
+40027004	~		Waloma ari , “ Ise nonakile , lwekhuba naliilemo luwomelo umundu ukhalikho ni kumusaango ta . ” Nabo bamwiilamo bari , “ Ikwo musaango kweefwe ? Ikwo musaango kwoowo . ”
+40027013	~		Lwanyuma Pilato wamureeba ari , “ Iwe s'uwulila bilomo bino byoosi byeesi bano bakhutsuntsumilisa ta ? ”
+40027017	Naanu		Awo boosi ni babusana , Pilato wabareeba ari , “ Naanu yeesi mukana imbalekhuulile ; Baraba namwe Yesu ulaangibwa Kristo ? ”
+40027021	Naanu		Gafana wabareeba lundi ari , “ Khu babandu bano babili , mukana imbalekhuulile naanu ? ” Nabo belamo bari , “ Baraba ! ”
+40027022	ndyeena		Kila ndi Pilato wabareeba ari , “ Ne Yesu ulaangiwa Kristo , imukhole ndyeena ? ” Boosi belamo bari , “ Mutsangilile khu musalaba ! ”
+40027023a	lwashiina		Pilato wabareeba lundi ari , “ Ne lwashiina ? 
+40027023b	shiina		Shiibi shiina sheesi akholile ? ” Ne nabo belamo ni kamaani koosi bari , “ Mutsangilile khu musalaba ! ”
+40027046	lwashiina		Ne khu saawa awo nga sheenda , Yesu walila ni likono lye angaaki nga aloma ari , “ Eli , Eli , lama sabachthani ? ” ( Kamakhulu kaasho kari , “ Wele wase , Wele wase , lwashiina undekhele ? ” )
+41001024	shiina		Kila umundu tsana walilila angaaki nga aloma ari , “ Iwe Yesu uwe Nazareesi , ifwe ukhufunaana shiina ? Iwe wetsile khukhuhesa ifwe khuwewo ? Ise nakhumanyile iwe ! Iwe uli Umukhosefu uwama isi Wele . ”
+41001027	Shiina		Babandu boosi beyaanga , belomela bonyene na bonyene bari , “ Shiina shino ? Khuno khuleekela khushaakha abe khweesi khushiili khubonatsakakho ta ! Umundu yuno ali ni bunyala bwe khulakila akhaba ni kimisaambwa kimibi kyamuwulila ? ”
+41002007a	shiina		“ Shiina kila umusaani uyu aloma shishindu nga shino shiri ? Ambaasa ari niye ali Wele ? 
+41002007b	naanu		Naanu ukuundi unyala weyakhila bibyonako akhali Wele yenyene ? ”
+41002008	Lwashiina		Khaangukho , Yesu wamanya abe byeesi balikho bambaasa mu myoyo kyabwe . Kila abareeba ari , “ Lwashiina kila mwambaasa bibindu bino mu myoyo kyenywe ?
+41002009	waheena		Khu bindu bibili bino shili waheena shishiili shishaangu ? Khulomela umusaani uwakataala ndi , ‘ Weyakhiilwe bibyonako byoowo , ’ namwe khuloma ndi , ‘ Yinyukha usute bulili bwoowo utsye ingo ’ ?
+41002016	Shiina		Ne batweela khu baleekeli be Kamakambila ka Musa , baaba Bafarisaayo . Ni baabona Yesu nga wekhaale nalundi aliila atweela ni babonaki ni bababusanisa kumusolo , bareeba baleekelwa ba Yesu bari , “ Shiina kila niye alya ni bababusanisa kumusolo ni babonaki ? ”
+41002018	Lwashiina		Baleekelwa ba Yohana Umubatisa ni Bafarisaayo abe lukana babuya intsala ( nga basiiba ) . Kila abawo babeetsa khureeba Yesu bari , “ Lwashiina baleekelwa ba Yohana Umubatisa ni be Bafarisaayo babuya intsala , ne baboowo sibabuya intsala ta ? ”
+41002019	~		Yesu wabelamo ari , “ Basaale b'omundu ukhweele umweha , banyala babuya intsala nga umweene ashiiliwo ni nabo ?
+41002024	Shiina		Kila batweela khu Bafarisaayo bareeba Yesu bari , “ Shiina kila baleekelwa boowo balikho bakhola baryo ? Likambila silibafukiilisa khukhola shishindu nga shino khu Sabato ta . ”
+41003004	~		Kila areeba babaaba mu ntsu ye khukhwisaayilamo ari , “ Khulondekhana ni kamakambila keefwe , khu Sabato khwakhiile khukhola bulayi , namwe khukhola buubi ? Khwakhiile khuwonesa bulamu bwe babandu namwe khwakhiile khukhwiira ? ” Ne boosi baasila busa .
+41003023	~		Yesu walaanga babandu bamwibotokhelela , kila arakikha khubakanikhayo nga araambisa tsisimo . Wareeba ari , “ Sitaani anyala khutimisa Sitaani uwasheewe ?
+41003033a	naanu		Kila Yesu areeba ari , “ Maayi wase ni babandaayase nibo naanu ? ”
+41003033b	~		
+41004013	muryeena		Yesu wabareeba ari , “ Inywe simwamanyile lusimo luno ta ? Ne tsisimo tsitsiramile kane mutsimanye muryeena ?
+41004030a	khushiina		Ikhumalilisa Yesu wareeba ari , “ Buyinga bwa Wele kane khubulekhanisile khushiina ? 
+41004030b	shiina		Lusimo shiina lwesi khunyala khuraambisa khusontsoola Buyinga bwa Wele ?
+41004038	~		Ne Yesu aba wekhaale mu likhoŋolo inyuma , wetikiyile kusisinwe nga alikho akona . Kila bamusisimusa nga baloma bari , “ Umuleekeli , iwe s'ubona uri khukana khukhwisiikha mu meetsi ta ? ”
+41004040a	shiina		Kila abareeba ari , “ Shiina kila mubeele ni khuurya ? 
+41004040b	~		Inywe simuli ni khufukiilila ta ? ”
+41004041	naanu		Ari nibo baaba ni khukhwiyaanga ni khufuurisakho nga bereeba bonyene bari , “ Ne naanu yuno ? Akhaba ikhuungu ni khutumbuukha khwe inyaantsa bimuwulila ! ”
+41005007	shiina		Kila akukuula ni likono likali nga aloma ari , “ Yesu , Umwana wa Wele uwe Angaaki Naabi , ise umeentsakho shiina ? Mu lisiina lya Wele , nakhwikontselele ukhambonabonisa ta . ”
+41005009	naanu		Yesu wamureeba ari , “ Iwe bakhulaanga bari naanu ? ” Umusaani welamo ari , “ Ise banaanga bari liiye likali ; khulwekhuba khuli bakali . ”
+41005030	Naanu		Ni abweene awo Yesu wewulila nga kamaani mwibili mweewe kamuwamo . Kila ashuukha areeba lituuli lye babandu ari , “ Naanu uwambile khu ngubo tsase ? ”
+41005031	Naanu		Kila baloondeleli beewe bamuloma bari , “ Waboone lituuli lye babandu nga ni lilikho liyindakana , unyala uryeena wareeba uri ‘ Naanu uwumambilekho ? ’ ”
+41005035	Shiina		Yesu n'aba nga ashiloma aryo , abawo babandu babaama mungo mwa Yayiro bamuboolela bari , “ Umwana woowo wafwile . Shiina kila utaambisa Umuleekeli lundi ? ”
+41005039a	lwashiina		Kila Yesu enjila muntsu abareeba ari , “ Lwashiina mwisasala 
+41005039b	~		nga mukhupa kimibala ? Umwana siwafwile ta , akhali ndi alikho akona busa liilo . ”
+41006002a	waheena		Shifukhu sha Sabato ni shoola , Yesu watsya warakikha khuleekela muntsu iye khukhwisaayilamo . Babandu bakali bamurekeeresa nga beyaanga naabi nga bereeba bari , “ Bibindu bino byoosi umusaani uyu abyaamisa waheena ? 
+41006002b	waheena		Amisa waheena kamakhula ni kamaani ke khukhola bye kamakanga bino ?
+41006002c	~		
+41006022	~		Ne umwana umukhaana uwa Herodiya n'etsa isi baaba washina , wekhoyesa Herode naabi ni bakyeni beewe . Kila umuyinga Herode alomela umukhaana ari , “ Loomba shishindu shoosi sheesi ukana , kane ishikhuwe . ”
+41006024	shiina		Umukhaana warura ibulafu watsya wareeba maayi weewe ari , “ Inoombe indi ambe shiina ? ” Maayi weewe wamwilamo ari , “ Loomba akhuwe kumurwe kwa Yohana Umubatisa . ”
+41006037	~		Ne Yesu wabelamo ari , “ Inywe mwabeene ni mubawe she khulya . ” Baleekelwa bamureeba bari , “ Iwe s'ubona uri shikoombesa tsi dinari bitoondo bibili khukula kimikaati kikimala babandu bano ta ? ”
+41006038	kyeenga		Yesu wabaloma ari , “ Ni mutsye mubone ; muli ni kimikaati kyeenga ? ” Ni baamala khubona nga bakoboole bamuloma bari , “ Khuli ni kimikaati kiraano , ni tsinyeeni tsibili . ”
+41007005	Shiina		Kila Bafarisaayo ni baleekeli be kamakambila ka Musa bareeba Yesu bari , “ Shiina kila baloondeleli boowo bakhalondelela kimisilo kye bakuuka beefwe , kila balya busa nga mbakhusaaba mukhono ta ? ”
+41008004	waheena		Kila baleekelwa beewe bamureeba bari , “ Mu mubiimbi muno unyala wamisa waheena biilyo bye khuliisa babandu boosi bari ? ”
+41008005	kyeenga		Yesu wabareeba ari , “ Muli ni kimikaati kyeenga ? ” Nabo belamo bari , “ Kili musaafu . ”
+41008012	Shiina		Yesu wekhiliisa kumwoyo kila aloma ari , “ Shiina kila kumuboolo kwe babandu bano , kuweentsa she khabonelo khe kamakaanga ? Ilala imbaboolela ndi , imbaawo khabonelo khe kamakaanga khakane khokesanisibwe isi muli ta . ”
+41008017	Shiina		Ne Yesu n'amanya shino wabaloma ari , “ Shiina kila mulikho mukanikha khu bye khulekha khusuta kimikaati ta ? Simunyala mwamanya sheesi indikho imanyisa ta ? Shiina kila kimyoyo kyenywe kikhawamba bibindu mangu ta ?
+41008018a	~		Mukhaba nga babafwa tsimoni babakhabona , 
+41008018b	~		namwe nga bamiinyi mu maru babakhawulila ta . Shiina kila mwibilila mangu muryo ?
+41008019	byeenga		Nga ni namenyulaka kimikaati kiraano mwakabila babandu bikana biraano , mwabuusa bubuya bubwolisa bibiipo byeenga ? ” Bamwiilamo bari , “ Khwabuusa bibiipo likhumi na bibili . ”
+41008020	byeenga		Wabareeba lundi ari , “ Ne ni namenyulakamo kimikaati musaafu mwakabila babandu bikana bine , mwabuusa bubuya bubwolisa bibiipo byeenga ? ” Bamwiilamo bari , “ Bibipo musaafu . ”
+41008021	~		Kila abareeba ari , “ Ari isho sishikila mwamanya sheesi indi khulomakho ta ? ”
+41008023	~		Yesu wahamba umusaani uyo kumukhono , wamuyila besyeenda barura mu shifwo isho baatsya mu shifo shishindi . Yesu n'amala khumuwakha kamare khu moni , ni khumurakho kamakhono , wareeba umusaani tsana ari , “ Ari ulikho ubonakho shishindu shoosi ? ”
+41008027	naanu		Lwanyuma Yesu ni baleekelwa beewe beloosela baatsya boola ambi ni shiriimba shishilaangibwa Kayisaliya Filipi . Ni baaba nga bali khu ntsila batsya , Yesu wabareeba shireebo ari , “ Ise babandu banomakho bari indi naanu ? ”
+41008029a	~		Kila Yesu abareeba ari , 
+41008029b	naanu		“ Ne inywe muloma ise indi naanu ? ” Petero wamwilamo ari , “ Iwe niye Kristo . ”
+41008036	shiina		Mafuurisa shiina keesi umundu afunamo , khulwe khuwula shibala shoosi , ne wafwiilwa bulamu bweewe ?
+41008037	Shiina		Shiina sheesi umundu anyala wahanayo khusikula bulamu bweewe ?
+41009010	~		Nabo baliinda shimoonyo isho , balekha khushisalanisa ta , ne nga bereeba she khulamukha khukhwama mu bafu sheesi shimanyisa .
+41009011	Shiina		Baleekelwa bataru tsana ba Yesu bamureeba bari , “ Shiina kila baleekeli be Kamakambila ka Musa baloma bari Eliya ashiile khunyoowa khukhwiitsa ? ”
+41009012	~		Yesu wabelamo ari , “ Ilala Eliya ali ni khunyoowa khukhwiitsa khuŋoonaŋoona bibindu byoosi . Ni bibyaronebwa bikhosefu sibiloma kh'Umwana w'Omundu biri , ali ni khutaambisibwa lukali naabi nalundi bamwikaane ?
+41009016	shiina		Yesu wabareeba ari , “ Abe mulikho mukhandisana khu shiina ni nabo ? ”
+41009019a	shiina		Kila Yesu abelamo ari , “ Inywe simuli ni khufukiilila ta ! Kane imbe ni nanywe khukhwolisa imbuka shiina ? 
+41009019b	liina		Kane imbekhalilikhe khukhwolisa liina ? Ni mureere ano umwana uyo . ”
+41009021	shiina		Yesu wareeba papa w'omwana ari , “ Shino shamukholikhakho khumala imbuka shiina ? ” Papawe welamo ari , “ Khukhwama mu bwaana .
+41009028	Lwashiina		Nga Yesu ni baleekelwa beewe bamalile khukhwinjila muntsu , kila bamureeba bari , “ Lwashiina ifwe khukhasikhanile khutimisa kusaambwa ukwo ? ”
+41009033	shiina		Ni boola i Kaperunaumu , benjila muntsu , kila Yesu abareeba ari , “ Mubeele mulikho mukhandisana shiina khu ntsila ? ”
+41009050	~		“ Kumuunyu kumukhelekho kumulayi ; ne itsamu n'iwamo , unyala khukisamo lundi ? Ni mubaatsake nga kumukhelekho , nio munyalise khumenya mu lukoosi na buli mutweela . ”
+41010003	muryeena		Yesu wabareeba ari , “ Ne mu makambila Musa abalakila khukhola muryeena ? ”
+41010017	shiina		Yesu n'aba nga ali khu ntsila atsya , abawo umusaani mutweela uwetsa butima , wafukhamila mu moni tsa Yesu , wareeba ari , “ Iwe Umuleekeli umulayi , ikhole shilayi shiina nio ningile mu bulamu bubukhawawo ta ? ”
+41010018	Lwashiina		Yesu wamureeba ari , “ Lwashiina unaanga uri indi umulayi ? Mbaawo umundu umulayi ta , akhali Wele yenyene .
+41010026	Naanu		Shino shabeyangisa ni khufuurisakho , kila bereeba bonyene bari , “ Naanu unyala khuwonesebwa ? ”
+41010036	shiina		Kila abareeba ari , “ Mukana imbakholele shiina ? ”
+41010051	shiina		Yesu wamureeba ari , “ Ukana ikhukholele shiina ? ” Naye welamo ari , “ Umuleekeli , ingana tsimoni tsase tsibimbukhe , imbone . ”
+41011003	Shiina		Ne umundu yeesi n'abareeba ari , ‘ Shiina kila mukangulula ipunda iyo ? ’ Mumulomela muri , ‘ Umukasya alikho akikana . Kane akikobose lwanyuma lwayo . ’ ”
+41011005	Shiina		Kila babandu abe babemikhile ambi babareeba bari , “ Shiina kila mulikho mukangulula ipunda iyo ? ”
+41011028a	shiina		Bamureeba bari , “ Uli na bunyala shiina khukhola bibindu bino ? 
+41011028b	naanu		Namwe naanu niye uwakhuwa iwe bunyala bwe khubikhola ? ”
+41011030	~		Ni mumboolele : bunyala bwa Yohana Umubatisa bwe khubatisa babandu , bwama mwikulu , namwe bwama mu bandu ? ”
+41011031a	~		Kila bareebana bonyene nga baloma bari , “ Ni kane khulome khuri , ‘ Bunyala bwama mwikulu , ’ kane Yesu akhureebe ari , 
+41011031b	shiina		‘ Ne shiina kila mukhafukiilila byeesi Yohana aloma ? ’
+41012009	aryeena		Kila Yesu areeba ari , “ Mwambaasa muri umwene uwe kumukuunda n'aliitsa , alikhola aryeena ? Aliwamba babandu bano abeere , lwanyuma apaangisise babandu babandi kumukuunda ukwo .
+41012015	Khulwashiina		Ne Yesu waba nga wamanyile luwomelo lwabwe . Wabareeba ari , “ Khulwashiina kila mukhakilisa ise ? Ni mundereere inusu ingibone . ”
+41012016a	naanu		Ni bareera inusu bamuwa , Yesu wabareeba ari , “ Shifwani ni lisiina bibilikho bili bya naanu ? ” Bamukobolamo bari , “ Bili bya Kayisaali . ”
+41012016b	~		
+41012023	naanu		Ari mu khulamukha khwe baafu , umukhasi uyo aliba mwene wa naanu ? Khulwekhuba abakho umukhasi uwa boosi musaafu . ”
+41012028	shiina		Abawo mutweela khu baleekeli be Kamakambila ka Musa , uwetsa warekeeresa nga Basadukaayo balikho bakhabisana ni Yesu . Umuleekeli uwe Kamakambila yuno n'awulila nga Yesu elamo bireebo bulayi , kila amureeba ari , “ Likambila shiina nilyo liliminyisa koosi bukhulu ? ”
+41012035	baryeena		Yesu n'aba nga aleekela mu Lisaayilo Likhulu , kila areeba ari , “ Baleekeli be Kamakambila ka Musa banyala baryeena khuloma bari Kristo ali umwitsukhulu wa Daudi ?
+41012037	aryeena		“ Daudi umwene amulaanga ari ‘ Umukasya ’ ; ni nashiryo ama aryeena ndi waba umwitsukhulu weewe ? ” Babandu babaabawo ni bawulila bino baaba ni kumwikhoyo kumukali .
+41013004a	liina		Bamureeba bari , “ N'ukhuboolele , bibindu bino byeesi ukanikhilekho , bikhakholikhe liina ? 
+41013004b	shiina		Khabonelo shiina khakhalikholikha khukhwokesanisa khali bili ambi khukholikha ? ”
+41014004	shiina		Shino shakila batweela khu bakyeni babaabawo bakhalala , kila baloma bari , “ Khulwa shiina kila kamafura kano konakisibwile karyo ?
+41014006	shiina		Ne Yesu wabaloma ari , “ Ni mumulekhe abe ; shiina kila mumutaambisa ? Wakholele ise shishindu shilayi naabi .
+41014012	waheena		Shaba shifukhu shishinyoowa she Kamayiiya ke Kimikaati kikikhalimo kamamela ta , lwesi beerira kamasheese , khushebulilakho Kamayiiya ke Khubirakho kakanyoowa . Kila baleekelwa ba Yesu bamureeba bari , “ Ukana khutsye khurengekharengekhele waheena isi ukana khuliila Kamayiiya ke Khubirakho ? ”
+41014014	~		Muntsu yoosi yeesi kane engilemo , mulome umwene uwe muntsu iyo muri , ‘ Umuleekeli wefwe wakhurumanile ari ukhwokese shiseenge sheesi bakyeni baliilamo kamayiiya , khushiŋoone , etse aliilemo Kamayiiya ke Khubirakho ni baleekelwa beewe . ’
+41014060a	shiina		Umusaayi ufuura bukhulu wenyukha wema akari abwe , kila areeba Yesu ari , “ Ne iwe wamwene uloma uri shiina ? S'unyala welamo khwibyo byeesi balikho bakhuwabila ta ? ”
+41014060b	~		
+41014063	shiina		Abweene awo , umusaayi ufuura bukhulu wonuula tsingubo tseewe , nga aloma ari , “ Bujulisi shiina bubundi bweesi khushiweentsa ?
+41014064	shiina		Mwawuliile khulekelesa khweewe , khwesi elanjilamo umwene khuuba Wele . Inywe mukhalawo muri shiina ? ” Boosi bamukhalila kumusaango bari akhiile khufwa .
+41015004	~		Pilato wamureeba lundi ari , “ S'ulikho ni sheesi unyala khukhwikanikhakho ta ? Wawulile kimisaango kyeesi bakhuwabile . ”
+41015012	waheena		Pilato wareeba lituuli ari , “ Ne umundu isi mulaanga muri Umuyinga uwe Bayudaaya , imuyile waheena ? ”
+41015014a	khulwashiina		Pilato wabareeba ari , “ Khulwashiina ? 
+41015014b	shiina		Musaango shiina kwesi akholile ? ” Ne beloosela busa khulookhela angaaki bari , “ Mutsangilile khu musalaba . ”
+41015034	shiina		Khu saawa nyene iyo , Yesu walila ni likono likali nga aloma ari , “ Eloi , Eloi , lama sabachthani ? ” Shishimanyisa shiri , “ Wele wase , Wele wase , shiina kila undekhile senyene ? ”
+41016003	naanu		Ni baaba nga batsya bareebana bonyene bari , “ Ne naanu ukane akhupilingisile libaale khukhwama khu ŋani ? ”
+42001018	indyeena		Zekariya wareeba Malayika ari , “ Ne shino kane ishimanye indyeena ndi kane shikholikhe ? Lwekhuba ise ndi musakhulu , lundi n'umukyelema wase naye ali umuloosi naabi . ”
+42001034	shiryeena		Mariya wareeba Malayika ari , “ Ne shino shilinyalikha shiryeena ? Lwekhuba ise sinabatsakakho n'umuseetsa yeesi ta ! ”
+42001043	indyeena		Ni nase ifunile indyeena ikhabi yino , indi maayi w'Omukasya wase khukhwiitsa wangeniyila ?
+42001066	shiina		Nabuli mundu yeesi uwabiwulila weyaanga nga ereeba mu mwoyo kweewe ari , “ Ne umwana yuno atsya khuba umundu uwasaambo shiina ? ” Lwekhuba shabonekhelawo shiri tsikhabi ts'Omukasya tsaba tsili khu niye .
+42002048	lwashiina		Basaali beewe ni baamubona basamilila busa . Kila maayi weewe amureeba ari , “ Mwana wase , lwashiina kila ukhukholile ifwe uri ? Lola papawo ni nase khubeele khweyembeleele naabi nga khukhuweentsa . ”
+42002049	Lwashiina		Naye wabakobolamo ari , “ Lwashiina kila mubeele mumeentsa ? Simwamanyile muri shintsakhila ise khuuba muntsu ya Papa ? ”
+42003007	naanu		Yohana waloma kamatuuli ke babandu babeetsa is'ali khubatisibwa ari , “ Inywe tsindemu , naanu ubarewuule khukhwilukha burafu bwa Wele bubuuli khukhwiitsa ?
+42003010	khuryeena		Kila babandu bamureeba bari , “ Ne ari ifwe kane khukhole khuryeena ? ”
+42003012	khuryeena		Ni babusanisi be kumusolo nabo biitsa khubatisibwa . Bamureeba bari , “ Umuleekeli nafwe khukhole khuryeena ? ”
+42003014a	~		Ari basilikhale nabo bamureeba bari , 
+42003014b	khuryeena		“ Ne ifwe , kane khukhole khuryeena ? ” Naye wabelamo ari , “ Mukhariisariisa babandu ni khubarusakho tsinusu tsaawe ni kamaani ta , namwe khuwayilisa babandu khubikhalimo ta , ne kumukheemba kweenywe kubamalatsake . ”
+42004034	shiina		“ Wo yaaya , iwe Yesu we Nazareesi , ukhufunisa ifwe shiina ? Wetsile khukhuwesa ifwe ? Ise nakhumanya iwe nga n'uli , Uli Umukhosefu wa Wele . ”
+42004036	shiina		Babandu boosi beyaanga busa , baloma bonyene na bonyene bari , “ Khuleekela shiina khuno ? Lwekhuba ni bunyala ni kamaani , umusaani uyu alakila kimisaambwa kimibi khurura mu bandu ! ”
+42005021a	naanu		Bafarisaayo ni baleekeli be Kamakambila ka Musa barakikha khuloma bonyene bari , “ Uyu naanu , ufwotsola Wele ? 
+42005021b	naanu		Naanu unyala khukhwiyakhila bibyonako akhali Wele yenyene ? ”
+42005022	Lwashiina		Ne Yesu n'amanya bibyambaaso byaawe , wabelamo ari , “ Lwashiina mwambaasa bibindu nga bino mu myoyo kyeenywe ?
+42005023	ena		Shishaangu nisho shili ena ? Khuloma ndi , ‘ Bibyonako byoowo byakhwiyakhiilwe ’ , namwe khuloma ndi , ‘ Yinyukha ukyende ? ’
+42005030	Shiina		Ne Bafarisaayo ni baleekeli baawe be Kamakambila ka Musa , beŋuluŋuunyila baleekelwa ba Yesu bari , “ Shiina kila muliila , lundi mwanyweela atweela ni babusanisi be kumusolo ni babonaki ? ”
+42005033	Lwashiina		Batweela khu nibo bareeba Yesu bari , “ Lwashiina baleekelwa ba Yohana Umubatisa babuya intsala tsifuunda ngali , lundi baloomba , ni baleekelwa be Bafarisaayo nabo bakhola baryo , ne baboowo lwawa balya lundi banywa ? ”
+42005034	~		Ne Yesu wabelamo ari , “ Munyala khubuyisa intsala bakyeni booyo ukhweele , nga umweene ashiiliwo ni nabo ?
+42006002	Lwashiina		Batweela khu Bafarisaayo babareeba bari , “ Lwashiina mukhola sheesi likambila lyeefwe likhafukiilila khukhola khu Sabato ? ”
+42006009	~		Lwanyuma Yesu wabaloma ari , “ Imbareeba shireebo ; shifukiilisibwa ni likambila lyeenywe khukhola bulayi khu Sabato namwe khukhola buubi ? Khuwonesa bulamu namwe khubuhesa ? ”
+42006032	shiina		“ Inywe ni mukana ibo babakana bonyene , ikhabi shiina yeesi muli nayo ? Mbo ni babonaki nabo bakhola baryo nga bakana ibo bababakana .
+42006033	shiina		Ne ni mukholela bulayi isi ibo babakholela inywe bulayi bonyene , ikhabi shiina yeesi muli nayo ? Mbo ni babonaki nabo bakhola baryo .
+42006034	shiina		Ne inywe ni mwikhopesa bibindu byeenywe isi ibo beesi musuubila khubakobosela bonyene , ikhabi shiina yeesi muli nayo ? Mbo ni babonaki nabo bakhola baryo , bekhopesa babonaki bashaawe beesi bambaasa bari kane babakobosele mu bwitsufu .
+42006039	~		Kila Yesu ababoolela lusimo luno ari , “ Umundu umubofu anyala khurangilila umubofu washeewe ? N'akhola aryo , boombi sibanyala baakwa mwilowo ?
+42006041	shiina		“ Iwe shiina shikila walolelela khasosono khakhaali mu moni ya wandaayo , ne walekha khumanya kukyeenga kukuuli mu moni yoowo wamweene ?
+42006042	uryeena		Unyala uryeena waloma wandaayo uri , ‘ Wandaayase khayo ikhurusemo khasosono khakhaali mu moni yoowo , ’ n'enga wamweene s'unyala khubona kukyeenga kukuuli mu moni yoowo wamweene ta ? Uba wiwombesa busa . Iwe umubeeyi nyoowa urusemo kukyeenga kukuuli mu moni yoowo wamweene , nio unyalise khubona bulayi khukhwinyusamo khasosono khakhaali mu moni ya wandaayo .
+42006046	Lwashiina		“ Lwashiina munangilisa muri , Umukasya , Umukasya , ne nga simukhola byeesi mbalomela khukhola ta ?
+42007024	shiina		Lwanyuma nga barume ba Yohana Umubatisa batsiile , Yesu wananikha khukanikha khu biwamba khu Yohana isi lituuli lye babandu ari , “ Inywe ni mwatsya isi Yohana mu mubiimbi , shiina sheesi mwatsiililila khubona ? Lukholo luluteengasibwa ni mbewo ?
+42007025	shiina		Ne shiina shemwatsiililila khubona ? Umundu ukwarire tsingubo tsinyenanyena ? Taawe ; ibo babakwaara tsingubo tsinyenanyena naabi ni khuuba ni buyindifu bukali , banyoolekhana mu lwanyi lw'omuyinga .
+42007026	shiina		Ne shiina sheesi mwatsiililila khubona ? Umuŋoosi ? E e , ilala mbaboolela ndi niye afuurira ilala n'umuŋoosi .
+42007031a	shiina		Yesu weloosela khuboolela ibo babaaba bamurekeeresa ari , “ Shiina sheesi unyala khufwananisa ni kumuboolo kuno ? 
+42007031b	shiina		Nalundi baliinga shiina ?
+42007042	naanu		Ne khu boombi mbaawo uwanyala khumuwanda likobi ta . Nashiryo umusaani uyo wabiyakhila boombi . Aso , khu boombi , naanu ukana amukane khufuurisakho ? ”
+42007049	Naanu		Ni babandu babekhala ni naye nga balya barakikha khuloma bonyene na bonyene bari , “ Naanu uyu , uwiyakhila bibyonako ? ”
+42008025a	ena		Yesu kila abareeba ari , “ Khufukiilila khweenywe khuli ena ? ” Ne boosi baarya naabi , belaliila nga betsuule lisuno nga baloma bari , 
+42008025b	naanu		“ Umusaani yuno niye naanu , bona akhookhela ikhuungu ni kameetsi byamuwulila ? ”
+42008028	shiina		Umusaani n'abona Yesu , walilila angaaki , wakwa asi mu moni tsa Yesu , waloma ni likono likali ari , “ Yesu , Umwana wa Wele Uli Angaaki lukali , ufunisa ise shiina ? Ikhwikontselela ukhaamba shitaambiso ta . ”
+42008030	naanu		Yesu wamureeba ari , “ Lisiina lyoowo naanu ? ” Naye welamo ari , “ Ise liiye likali . ” Lwekhuba kimisaambwa kimibi mikali kyaba kyamwingilamo .
+42008045	Naanu		Yesu wareeba ari , “ Naanu uwundiililekho ? ” Babandu bababawo boosi ni bekaanaka , Petero waloma Yesu ari , “ Musakhulu , babandu boosi bakhubotokhelele nga bayindana busa , basiindikhana . ”
+42009009a	naanu		Kila Herode aloma ari , “ Ise nalakila baremakho Yohana kumurwe , ne lundi naanu uyu , 
+42009009b	~		isi mbulilakho bibindu bino ? ” Aryo wakhakakho nga akana abonekho khu Yesu .
+42009018	naanu		Lulwoola Yesu aba ali khuloomba mu shimoonyo , baleekelwa beewe beetsa is'ali , naye wabareeba ari , “ Babandu banomakho bari ise ndi naanu . ”
+42009020a	~		Kila Yesu abareeba ari , “ Ne inywe ? 
+42009020b	naanu		Munaanga ise khuuba naanu ? ” Petero welamo ari , “ Iwe Uli Kristo wa Wele . ”
+42009025	shiina		Umundu shimuyeeta shiina khukhwifunila shibala shino shoosi , n'endi wakosa namwe wafwiilwa bulamu bweewe ?
+42009041a	shiina		Yesu welamo ari , “ O inywe bakhafukiilila ta , lundi kumuboolo kukwaborokha , kane imenyatsake ni nanywe khumala mbuka shiina nga imbekhalilikha ? Reera ano umusoleeli woowo . ”
+42009041b	~		
+42010026a	shiryeena		Umukasya wamwiilamo ari , “ Sharonebwa shiryeena mu makambila ? 
+42010026b	uryeena		Usoma uryeena ? ”
+42010029	naanu		Ne lwekhuba umuleekeli we kamakambila akana khukhwiyokesana bulayi bweewe , wareeba Yesu ari , “ Umwesanwa wase niye naanu ? ”
+42010036a	~		Kila Yesu areeba umuleekeli we kamakambila ka Musa ari , 
+42010036b	naanu		“ Aso naanu khu basaani bataru bano , isi wambaasa khuuba umwesanwa w'omusaani uwakwa mu banuuli ? ”
+42011008	~		Imbaboolela ndi , ikhaba nga umusaani uyu s'enyukha wamuwa , lwekhuba ali musaale weewe ta , ne khulwe khumuŋuunya tsifuunda ngali , enyukha wamuwa byoosi byeesi akana .
+42011011	Naanu		Naanu mwiinywe uli papa , nga umwana weewe wamuloombile inyeeni , ulimuwa indemu ?
+42011012	~		Namwe nga wamuloombile liiki , ulimuwa makhata ?
+42011013	~		Aso , inywe mumuuli baabi , noola mwamanya khuuwa babaana beenywe biwanwa bilayi , Papa weenywe uli mwikulu s'alifuurawo naabi khuuwa Umwoyo Umukhosefu isi ibo babamuloomba ? ”
+42011018	buryeena		Nashiryo , Sitaani n'aba nga wawukhanilemo yenyene , buyinga bweewe bulimikhawo buryeena ? Lwekhuba inywe muloma muri , ise mboona kimisaambwa kimibi khulwe kamaani ka Belizebuli .
+42011019	naanu		Ise n'imba nga mbiwoona khulwe kamaani ka Belizebuli , baloondeleli beenywe babiwoona khulwe kamaani ka naanu ? Nashiryo , nibo kila balibakhalila kumusaango .
+42012014	naanu		Yesu wamwiilamo ari , “ Musaaniwe , naanu uwamba ise bunyaala bwe khubakaya namwe bwe khubakabananisa inywe bibindu byeenywe ? ”
+42012017	ndyeena		Weyambaasa mu mwoyo kweewe ari , ‘ Kane ikhole ndyeena ? Lwekhuba siindi ni ekhubiikha biilyo byase ta . ’
+42012020	naanu		Ne Wele waloma ari , ‘ Iwe umusilu , shiilo shino , bulamu bwoowo butsya khukhurusibwakho , ari naanu wuutsya khukhwiila khu bindu bino byoosi byeesi wetikiya wamweene ? ’ ”
+42012024	~		Ni mwambaase khu binywiinywi bibilaangibwa khoolo . Nibyo sibimiitsa bimiitswa , namwe sibikyesa ta , sibili ni birara namwe esi bibuunga ta , ne Wele abiliisa . Inywe simufuurira aleeyi binywiinywi ta ?
+42012025	Naanu		Naanu khusiinywe unyala khukhwilooselakho kimiiko kikiindi lwe khukhwiyembelela ?
+42012026	lwashiina		Noola simunyala akhaba shishindu shikyeekhe busa nga shino ta , lwashiina mwiyembelela lwe bibindu bibiramile ?
+42012042	Naanu		Umukasya welamo ari , “ Naanu niye umwakaanisi umwiyikinwa lundi umukyesi , isi umukoosi weewe akalusa khuuba umuloleleli we babakaanisi beewe babaandi , nga abawa kumukabo kwe biilyo byaawe mu mbuka inyene ?
+42012049	~		“ Ise neetsa khureera kumulilo khu shibala , shandibeele shilayi abe kuba kukurakikhile khukhwaburukha !
+42012056	Lwashiina		Inywe babeeyi , mwamanya khukhwimenielesa shibala ni likulu nga ni bifwaana , mwaboola nga bubwiile ni kane bube . Lwashiina mukhamanya khuboola kamakhulu ke bisiintsa bino ? ”
+42012057	lwashiina		“ Ne lwashiina mwabeene mukhekhalilawo shishindu shituufu she khukhola ?
+42013004	~		Namwe ibo likhumi na shinaane beesi intsu yakwakho i Siloamu yabiira . Mwambaasa muri nibo baaba babonaki naabi khufuurisa babandu babaramile boosi , babaaba mu Yerusalemu ?
+42013007	Lwashiina		Kila aloma umuraambi we mu mukuunda kweewe ari , ‘ Bona , mu miiko kitaru mbeele niitsa ano , khuweentsa bibyaano khu kusaala kuno ku figi , ne nalekha khunyoolakho ta . Kureme ukukwiise asi . Lwashiina kwonakisa busa liloba ? ’
+42013015	~		Umukasya wamwiilamo ari , “ Inywe babemiliisa khu ngaaki ! Buli mutweela khwiinywe s'anyala khukangulula iyeeyi yeewe , namwe ipunda yeewe khu Sabato , khukhwama isi iliila , wakiyila khukinyweesa kameetsi ?
+42013018a	shiina		Lwanyuma Yesu wabareeba ari , “ Buyinga bwa Wele bufwanana na shiina ? 
+42013018b	shiina		Kane imbufwananise na shiina ?
+42013020	shiina		Lundi Yesu wareeba ari , “ Buyinga bwa Wele mbufwananisa na shiina ?
+42013025	~		Khukhwama umweene intsu n'alimala khukhwinyukha khukhwikalawo lulwiitsi , mulimikha ibulafu mukhonyake , nga mwikontselela muri , ‘ Musakhulu n'ukhwikulilewo . ’ Ne naye alibelamo ari , ‘ Ise simanya esi mwama ta . ’
+42014005	Naanu		Lwanyuma Yesu wabareeba ari , “ Naanu khwiinywe unyala khuuba n'umusoleeli weewe , namwe iyeeyi yeewe , nga shitweela khu nibyo shakwiile mwilowo , ukhanyala wabirusamo khangukho khu shifukhu sha Sabato ? ”
+42014028	naanu		Lwekhuba naanu mus'inywe ukana khukhwombekha intsu ye goroofwa , ukhanyoowa khukhwikhala asi , wabalilila bibikanibwa , ni khubona nga ali ni tsinusu tsitsimala khumalilisa intsu ?
+42014031	shiina		“ Namwe muyinga shiina uba nga akana khuutsya mu busoolo n'umuyinga ukuundi , ukhanyoowa khukhwikhala asi , khubona nga oba kane anyale busoolo nga ali ni basilikhale bikana likhumi , khusoolanisa ibo babaali bikana kamakhumi kabili ?
+42014034	kuryeena		Yesu weloosela nga aloma ari , “ Kumuunyu kuli kumulayi , ne kumuunyu kweene ni kuwamo itsamu , kunyala kuryeena khukobosebwamo itsamu lundi ?
+42015004	shiina		“ Mundu shiina mus'inywe , n'aba ni kamasheese keewe shitoondo shitweela , ne khwakoraanakho litweela , ukhanyala walekha iko kamakhumi syeenda na syeenda mu kyeewa , watsya nga aweentsa lisheese litweela ilyo lilikoraanile , khukhwoolesa n'alinyoola ?
+42015008	shiina		Aryo Yesu wababoolela lusimo lulundi ari , “ Namwe mukhasi shiina n'aba ni tsinusu tseewe likhumi , ne wakosakho ndweela , ukhaburusa itaala , weeya intsu , waheentsela ilala bulayi , khukhwoolesa n'akinyoola ?
+42015026	shiina		Kila alaanga mutweela khu bakaanisi , wamureeba ari , ‘ Makhuuwa shiina ano ? ’
+42015029	~		Ne niye waloma papawe ari , ‘ Bona kimiiko kino kyoosi tsana , ise imbeele nga ikhuraambila iwe nga sikhuminyaalilakho byeesi undakila na khafwiiti khoosi ta . Ne mbaawo sheesi wambakho akhaba ni khameeme khari , nase nikhoyakho ni basaale baase ta .
+42016002	Shiina		Kila umusaani umuyindifu alaanga umubiikhi uyu , wamureeba ari , ‘ Shiina shino sheesi imbulila khwiiwe ? Balilila khaangu bibindu byase byeesi ubeele ulolelela , lwekhuba s'unyala weloosela khuuba umubiikhi lundi ta . ’
+42016003	ndyeena		Umubiikhi tsana yuno welomela mu mwoyo kweewe ari , ‘ Ari inakhola ndyeena ? Lwekhuba umukoosi wase atsya khumboona khu buraambi bwase . Ise s'indi ni kamaani kakalima ta , lundi iswala khusabilisa .
+42016005	biryeena		“ Kila umubiikhi yuno alaanga buli mutweelatweela khu bandu abe beesi umukoosi weewe abaantsa . Wareeba unyoowa ari , ‘ Umukoosi wase akhubaantsa bibyoola biryeena ? ’
+42016007	biryeena		Wareeba ukuundi ari , ‘ Ne iwe , ubaantsibwa bibyoola biryeena ? ’ Uyo naye welamo ari , ‘ Tsipipa shitoondo shitweela tse ŋaano . ’ Lundi walomela yuno ari , ‘ Aso , aamba lupapula lulikho likobi lyoowo , uronekho kamakhumi shinaane . ’
+42016011	naanu		Aso , ni mulekha khuuba babeyikinwa mu bye buyindifu bwe shibala , naanu unyala khubeyikina , mu bye buyindifu bwaŋali ?
+42016012	naanu		Nalundi , ni mulekha khuuba babeyikinwa mu bindu bibiili byabeene , ne bibyandibeele bibyeenywe naanu ulibibawa ?
+42017007	Naanu		Yesu weloosela ari , “ Naanu mwiinywe unyala khuuba n'umwakaanisi ulimisa , namwe uwayisa kamasheese ; ne n'ama mu nimilo , unyala wamuloma ari , ‘ Yikhala asi ulye ta ? ’
+42017017	lwaheena		Yesu wareeba ari , “ Sibabeele likhumi babawonesebwele ? Ne syeenda bali lwaheena ?
+42017018	~		Sibabonekhakho na mutweela khukobola , baruuye Wele , akhali umuutswa yuno ? ”
+42017020	liina		Shifukhu shitweela , nga Bafarisaayo bareebile Yesu bari Buyinga bwa Wele bwiitsa liina , Yesu wabelamo ari , “ Buyinga bwa Wele sibwiitsa nga bweyokeselele ta .
+42017037	waheena		Baleekelwa bamureeba bari , “ Umukasya , ne bilikholekha waheena ? ” Yesu wabelamo ari , “ Ahaba kumulaambo , abweenewo , nio esi tsingosya tsibusanila . ”
+42018018	shiina		Umurangilisi mutweela Umuyudaaya wareeba Yesu ari , “ Umuleekeli umulayi , ikhole shilayi shiina , nio ninjile mu bulamu bukhawawo ? ”
+42018019	Lwashiina		Yesu wamwiilamo ari , “ Lwashiina unaanga ise uri umulayi ? Mbaawo na mutweela yeesi umulayi ta , khurusakho Wele yenyene poli .
+42018026	naanu		Ne babandu bababawo ni bawulila shino , bareeba bari , “ Ari naanu , unyala khuwonesebwa ? ”
+42018036	~		Umubofu yuno n'awulila lituuli lye babandu libirawo , wareeba nga akana amanye shishiitsya mu moni .
+42018041	shiina		“ Ukana ise ikhukholele shiina ? ” Umusaani umubofu wamwiilamo ari , “ Umukasya ingana khubona . ”
+42019007	~		Ne babandu ni baabona shino beŋuluŋuunya , baloma bari , “ Umusaani uyu watsiile nga umukyeni muntsu y'omundu umwonaki . ”
+42019023	Shiina		Shiina shishakhulobela iwe khuuwa babasubula inusu yase ? Khali nga ni niitsile , nandifunilekho kamafuurisa . ’
+42019031	Lwashiina		Ne umundu yeesi n'abareeba ari , ‘ Lwashiina mukyabula ? ’ Inywe mumuloma muri , Umukasya akikana . ”
+42019033	Lwashiina		Ne ni baaba nga bakyabula , babeene be sikilya , babareeba bari , “ Lwashiina mwabula ipunda iyo ? ”
+42020002a	shiina		“ Khuboolele , uli na bunyala shiina bubukila iwe wakhola bibindu bino byoosi ? 
+42020002b	naanu		Naanu uwakhuwa iwe bunyala buno ? ”
+42020005a	~		Kila bakanikhanamo bonyene na bonyene nga baloma bari , “ Ni kane khulome khuri , khwama mwikulu , kane akhulome ari , 
+42020005b	lwashiina		ne lwashiina mukhamufukiilila ?
+42020013	ndyeena		Lwanyuma umweene mukuunda waloma ari , ‘ Ne ari kane ikhole ndyeena ? Kane indumeyo umwana wase isi ingana naabi , winyoola niye kane bamuwe shiriifwa nga bamuboone . ’
+42020015	aryeena		Baryo bamuwamba bamutuuma ibulafu we kumukuunda , bamwiira . ” Lwanyuma Yesu wabareeba ari , “ Mwambaasa muri balimi ibo , umweene mukuunda alibakhola aryeena ?
+42020017	shiina		Yesu wabalola kila abaloma ari , “ Ne shiina sheesi shisharonebwa shino shimanyisa shishiloma shiri , ‘ Libaale lyeesi babombekhi bekaana nilyo lilyekyela lye musoonda ? ’
+42020023	~		Ne Yesu waba nga wamanyile luwomelo lwe mu myoyo kyaawe , wabaloma ari ,
+42020024a	naanu		“ Ni muntsokese inusu . Shifwani shino shishiilikho , ni burone buno bya naanu ? ” Nabo bamwiilamo bari , “ Bya Kayisaali . ”
+42020024b	~		
+42020033	naanu		Ari iwe wambaasa urye , imalamukha ke bafu , umukhasi yuno aliiba mwene wa naanu khu nibo ? Lwekhuba boosi musaafu baaba ni naye nga umukhasi wawe . ”
+42020041	baryeena		Lwanyumakho ndi , Yesu wabaloma ari , “ Babandu banyala baryeena khuloma bari , Kristo Umwitsukhulu wa Daudi ?
+42020044	aryeena		Ari bona , noola Daudi umweene amulaanga ari Umukasya , ari anyala aryeena khuuba umwana weewe ? ”
+42021007a	liina		Baryo bareeba Yesu bari , “ Umuleekeli , bino byoosi bilibawo liina ? 
+42021007b	shiina		Nalundi khabonelo shiina khakhalyokesana khari ibyo byoosi bili ambi khukhwoolelesebwa ? ”
+42022009	waheena		Nabo bamureeba bari , “ Ukana khutsye khukaŋoonaŋonele waheena ? ”
+42022011	ena		Muryo mulome umweene intsu muri , ‘ Umuleekeli akhureeba ari , shiseenge shiili ena mweesi niye ni baleekelwa beewe banaliila Kamayiiya ke Khubirakho ? ’
+42022027	naanu		Ne naanu umukhulu khufuurisa ? Uyo uwikhala asi khuulya , namwe uyo uwakaanisa she khulya ? S'ali uyo uwikhala asi khuulya ? Ne bona ise indi umwakaanisi akari mwiinywe .
+42022046	Lwashiina		Wabareeba ari , “ Lwashiina mukona ? Ni mwinyukhe muloombe , nio mulekhe khwinjila mu khukhonjelesebwa ta . ”
+42022064	Naanu		Bamubiimbakho mu moni , bamureebelesa bari , “ Khuboolele khubone ? Naanu ukhupile ? ”
+42022071	shiina		Kila nabo baloma bari , “ Ari khukanila shiina ndi bujulisi bubundi ? Lwekhuba ifwe fwabeene khwawuliile byeesi umweene ama khuloma . ”
+42023022a	lwashiina		Aryo Pilato wabakanikhayo lundi ifuunda iye khataru ari , “ Ne lwashiina ? 
+42023022b	shiina		Shiina shisheene sheesi akholile ? Ise simbona ilomo yoosi khu niye ikila yamwiirisa ta . Aso ni kane imale khumulatsakakho , kane imulekhuule . ”
+42023031	shiryeena		Lwekhuba babandu ni bakhola shino khu kusaala kubisi , ne khu kusaala kukwoomu , shiliiba shiryeena ? ”
+42024005	Lwashiina		Mu khurya khukali , bakhasi ibo benama , balolelela asi . Ne basaani babaloma bari , “ Lwashiina muweentsela umulamu mu bafu ?
+42024017	shiina		Aryo kila Yesu abareeba ari , “ Bilomo shiina bino byeesi mureebana nga mukyenda ? ” Nibo bemikha nga kumutaambo kwabawambile .
+42024019	shiina		Naye Yesu wabareeba ari , “ Bindu shiina ? ” Nabo bamwiilamo bari , “ Bibindu bibiwaamba khu Yesu uwe Nazareesi , uwaba Umuŋoosi uwe kamaani mu byeesi akholatsaka ni byeesi akanikhatsaka mu moni tsa Wele , ni mu moni tse babandu boosi .
+42024025	~		Ulwo Yesu wabaloma ari , “ Inywe nga muli basilu , lundi banakawoya mukhwambaasa ni mu khufukiilila ibyo byeesi baŋoosi baalaangilila .
+42024038a	shiina		Aryo wabaloma ari , “ Shiina shibariisa ? 
+42024038b	shiina		Shiina kila mwikanakana mu myoyo kyeenywe ?
+43001019	naanu		Khuno nikhwo khurumbula khwa Yohana , nga Bayudaaya be mu Yerusalemu ni barumana basaayi ni Balevi khureeba Yohana bari , “ Iwe naanu ? ”
+43001021	naanu		Bamureeba lundi bari , “ Ne iwe uli naanu ? Iwe niye Eliya ? ” Yohana welamo ari , “ Taawe . ” Bamureeba lundi bari , “ Iwe niye Umuŋoosi ? ” Welamo lundi ari , “ Taawe . ”
+43001022a	naanu		Kila bamureeba bari , “ Ne iwe naanu ? Lwekhuba khuli ni khubakho ni sheesi khuutsya khuboolela abo babakhurumanile . 
+43001022b	~		Wamweene ni wikanikhekho . ”
+43001025	shiina		Bareeba Yohana lundi bari , “ Ne noola iwe s'uli Kristo ta , namwe Eliya ta , namwe Umuŋoosi tsana ta , khulwashiina kila ubatisa ? ”
+43001038a	shiina		Ne Yesu n'eshebukha wabona nga babili bano bamuloondakho , wabareeba ari , “ Muweentsa shiina ? ” Bamukobolamo bari , 
+43001038b	waheena		“ Rabbi , umenya waheena ” ? “ Rabbi ” shishimanyisa shiri Umuleekeli .
+43001046	shiina		Nasanaeli wareeba Filipo ari , “ Shilayi shiina shishinyala shaama i Nazareesi iyo nayo ? ” Filipo wamwiilamo ari , “ Yiitsa wibonelekho . ”
+43001048	waheena		Nasanaeli wareeba Yesu ari , “ Wamanyila waheena ? ” Yesu welamo ari , “ Ise ikhuboone nga wekhaale asi e kusaala ku figi , nga Filipo ashiili khukhulaanga ta . ”
+43002004	uryeena		Yesu wamulomela ari , “ Mukyelemawe , ubeele uryeena ni nase ? ”
+43002018a	~		Baryo barangilisi be Bayudaaya bakobolamo Yesu nga bamureeba shireebo bari , 
+43002018b	shiina		“ Khabonelo shiina khe kamakaanga kheesi uli ni nakho khukhwokesana khari uli ni bunyala khukhola bibindu bino ? ”
+43003004	aryeena		Nikodemusi wamureeba ari , “ Umundu umukhulu anyala aryeena khusaalikha lundi ? Anyala khukhwiilayo munda ya maayi weewe nio wasaalikha kumulundi kwe khabili ? ”
+43003009	shiryeena		Nikodemusi wareeeba ari , “ Isho shinyalikha shiryeena ? ”
+43003012	muryeena		Ne isi mushilobela khufukiilila nga nakanikhile isi muli khu bye mu shibala , munyala muryeena mwafukiilila ni kane imbaboolele khu bindu bye mwikulu ?
+43004009	shiryeena		Umukhasi Umusamariya uyo welamo Yesu ari , “ Shinyalikha shiryeena iwe ubeele Umuyudaaya , khukhunoomba ise , umukhasi Umusamariya , kameetsi ? ” Lwekhuba Bayudaaya ni Basamariya sibakholakana ta .
+43004011	wahe		Umukhasi wamwiilamo ari , “ Papa , iwe s'uli ni she khutayila kameetsi ta , nalundi isebele iyi , ili indeeyi naabi , ne kameetsi kano kakareera bulamu , kane ukaamiise wahe ?
+43004027a	shiina		Ni abweene awo , baleekelwa beewe bakobola . Ne beyaanga khubona nga abe Kristo alikho akanikha n'umukhasi . Ne mbaawo na mutweela uwareeba umukhasi ari shiina sheesi akana , 
+43004027b	lwashiina		namwe khureeba Yesu bari lwashiina aba ali khukanikha ni naye ta .
+43005012	Naanu		Nabo bamureeba bari , “ Naanu umweene uyo , ukhulomele ari suta lusaamba lwoowo ukyeende ? ”
+43005044	muryeena		Munyala muryeena khufukiilila ni muba nga mukana khuwebwa shiriifwa mwenyene na mwenyene , ne nga simuweentsa shiriifwa shishaama isi Wele , uyo yenyene uli Wele ta ?
+43005047	muryeena		Ne noola simufukiilila byeesi niye arona ta , munyala muryeena khufukiilila bilomo byeesi ise inoma ? ”
+43006005	waheena		Yesu n'enyusa tsimoni wabona babandu bakali nga beetsa is'ali . Kila areeba Filipo ari , “ Kane khukule waheena biilyo bibinyala byaliisa babandu bano boosi ? ”
+43006009	shiina		“ Iliwo ano umusoleeli mutweela uli ni kimikaati kye ŋaano kiraano , ni tsinyeeni tsibili . Ne khu bandu bano boosi , bino kane bikhole shiina ? ”
+43006025	liina		Ne babandu ni banyoola Yesu shanjelekha we inyaantsa , bamureeba bari , “ Umuleekeli , woolile ino liina ? ”
+43006028	khuryeena		Nio baamureeba bari , “ Kane khukhole khuryeena , nio khube nga khwoolelesile isho sheesi Wele akana khukhole ? ”
+43006030a	shiina		Kila bamureeba bari , “ Khabonelo shiina kheesi kane ukhole khubone , nio khukhufukiililemo ? 
+43006030b	shiina		Unakhola khabonelo khe kamakaanga shiina ?
+43006042	aryeena		Kila baloma bari , “ Uyuno s'ali Yesu , umwana uwa Yosefu ? Sikhwamanya papa weewe ni maayi weewe ? Ari anyala aryeena waloma ari ekha asi khukhwama mwikulu ? ”
+43006052	aryeena		Ni abweene awo abalukhawo khukhandisana akari e Bayudaaya boonyene na boonyene nga baloma bari , “ Umusaani uyu anyala aryeena khukhuwa ifwe kumubili kweewe ari khulye ? ”
+43006060	Naanu		Bakali khu baleekelwa beewe ni bawulila bino , kila baloma bari , “ Khuleekela khuno khuli khwe saambo imangafu naabi . Naanu unyala khurekeeresa bino ? ”
+43006062	~		Ne singa mubona Umwana w'Omundu nga aniina atsya isi aba makiboole ?
+43006068	naanu		Simoni Petero wamukobolamo ari , “ Umukasya , ne ndi khuba khuutsya isi naanu ? Bona iwe uli ni bilomo bibireera bulamu bubukhawawo ta .
+43007011	waheena		Bayudaaya bamuweentsa khu mayiiya nga bareebana bari , “ Umusaani uwatsana ali waheena ? ”
+43007015	aryeena		Bayudaaya beyaanga nga baloma bari , “ Umusaani yuno buleekele buno abufuna aryeena , ate nga ashiili khufunakho khusoma ta ? ”
+43007019	Khulwashiina		Musa s'abawa inywe kamakambila ? Ne mbaawo namutweela khus'inywe ukawamba ta . Khulwashiina mukhakakho khukhuntsira ? ”
+43007020	Naanu		Wanamundu wamwiilamo ari , “ Ulikho shisimu ! Naanu ukana khukhwiira ? ”
+43007023	khulwashiina		Noola musheba umwana imbalu khu Sabato , nio kamakambila ka Musa kalekhe khukhwonakisibwa ta , khulwashiina muukhalalila ise bari khulwekhuba nawonesele umundu khu Sabato ?
+43007035	khuutsya ena		Lwanyuma Bayudaaya baloma bonyene na bonyene bari , “ Umusaani uyu akana khuutsya ena isi khukhanyala khwamunyoolela ta ? Manya akana khuutsya mu Bayudaaya babasalanila mu Buyonaani , atsye aleekele Bayonaani ?
+43007036	shiina		Amanyisile shiina ni lomo isi alomele ari , ‘ Mulimbeetsa ni simulinyoola ta ’ , lundi ari , ‘ Isi ise intsya simunyala mwetsayo ta . ’ ”
+43007041	aryeena		Babandi baloma bari , “ Uyuno Kristo ” , ne babandi bari , “ Kristo anyala aryeena khukhwama mu Galilaaya ?
+43007045	Khulwashiina		Lwanyuma basilikhale be Lisaayilo belayo isi basaayi bakhulu , ni Bafarisaayo bababarumana . Basaayi bakhulu ni Bafarisaayo bareeba basilikhale bari , “ Khulwashiina mukhamureerire ano ? ”
+43007048	~		Mwabonakho na mutweela khu barangilisi , namwe khu Bafarisaayo umufukiilila ?
+43007051	shiina		“ Kamakambila keefwe kafukiilisa khukhalila umundu kumusaango , nga ashiili khunyoowa khukhwiwotsakho , ni khuumanya shiina sheesi akholile ta ? ”
+43008005	shiina		Khulondekhana ni kamakambila keefwe , Musa akhulakila ari bakhasi nga bano bari khwakha khubakhupa kamabaale baafwa . Ne iwe shino ushilomakho uri shiina ? ”
+43008010	ena		Kila Yesu akangamukha , wareeba umukhasi ari , “ Batsana bali ena ? Mbaawo ukhukhaliile kumusaango ta ? ”
+43008019	waheena		Kila bamureeba bari , “ Papa woowo ali waheena ? ” Yesu wabelamo ari , “ Inywe simwayiimanya ise ta . Ni Papa wase naye simwamumanya ta . Muba nga mumwamanya ise , khali ni Papa naye mwamumanya . ”
+43008025a	naanu		Bamureeba bari , “ Ne iwe naanu ? ” 
+43008025b	~		Naye Yesu wabelamo ari , “ Ise ndi nga ni mbalomeele khukhwama makiboole .
+43008033	uryeena		Bamukobolamo bari , “ Ifwe khuli babetsukhulu ba Ibulayimu . Sikhwabatsakakho bakulwa b'omundu yeesi ta . Ari ukhulomela uryeena uri khuliba baakangulule khukhwama mu bubowe ? ”
+43008043	shiina		Khulwa shiina kila mukharekeeresa mwamanya byeesi ise inoma ? Shishireera shino shiri ndi simunyala mwekhalilikha mwarekeeresa burume bwase ta .
+43008046a	naanu		Naanu khus'inywe unyala wantsuntsumilisa ise ari indi ni shishonako ? 
+43008046b	khulwashiina		Ne noola inoma byaŋali , khulwashiina mukhabifukiilila ?
+43008053	naanu		Kuuka weefwe Ibulayimu wafwa . Wambaasa uri iwe umufuura niye ? Ni baŋoosi nabo baafwa . Iwe wilaanga khuuba naanu ? ”
+43008057	uryeena		Bayudaaya bamuloma bari , “ Iwe ushiili khwoolesa ni kimiiko kye bukhulu kamakhumi karaano ta , unyala uryeena waloma uri wabona khu Ibulayimu ? ”
+43009002	naanu		Baleekelwa beewe bamureeba bari , “ Umuleekeli , naanu niye uwoonaka kila umusaani uyu asaalikha nga ali umubofu ? Niye umweene namwe basaali beewe ? ”
+43009010	tsiryeena		Bamureeba bari , “ Ne tsimoni tsoowo tsibimbushile tsiryeena ? ”
+43009012	waheena		Bamureeba bari , “ Umusaani mweene uyo ali waheena ? ” Wabelamo ari , “ Ise simanya ta . ”
+43009016	aryeena		Batweela khu Bafarisaayo baaloma bari , “ Seshinyalikha khuuba nga umundu ukholile shino ama isi Wele ta , khulwekhuba s'alondelela kamakambila ke shifukhu sha Sabato ta . ” Ne babandi baloma bari , “ Ne abe umundu aba umwonaki khali anyalile aryeena khukhola bye kamakaanga nga bino ? ” Lwanyuma abawo khukhwawukhana akari abwe .
+43009017	uryeena		Bafarisaayo lundi bareeba umusaani uwabakho umubofu bari , “ Umusaani uyu iwe umulomakho uryeena , khukhwama nga n'uloma uri akhubimbuule tsimoni ? ” Welamo ari , “ Umusaani uyo ali umuŋoosi . ”
+43009019	shiryeena		Bareeba basaala beewe bari , “ Uyuno ali umwana wenywe , isi muloma muri asaalikha nga ali umubofu ? Shiitsa shiryeena waba nga aluno ari abona ? ”
+43009026a	aryeena		Bamureeba bari , “ Ne akhukholile aryeena ? 
+43009026b	aryeena		Akhubimbuule aryeena tsimoni ? ”
+43009027	Khulwashiina		Welamo ari , “ Ise namalile khaale khubaboolela , ne simuwulila ta . Khulwashiina kila mukana niilemo lundi ? Namwe nanywe muli khukana khukhwikyela baleekelwa beewe ? ”
+43009034	uryeena		Bamuloma bari , “ Ne iwe nawe uwasaalikha nga uli umwonaki , iwe nawe unyala uryeena khukhuleekela ifwe ? ” Bamuwoona khukhwama mu ntsu ye khukhwisaayilamo .
+43009036	naanu		Umusaani welamo Yesu ari , “ Musakhulu , n'umboolele niye naanu , ni nase kane imufukiililemo . ”
+43010020	Lwashiina		Bakali khu nibo baloma bari , “ Alikho shisaambwa , nalundi wakwiile tsintsoli . Lwashiina mumurekeeresa ? ”
+43010021	~		Ne babandi baloma bari , “ Mbaawo umundu uli ni shisaambwa unyala khukanikha ari taawe . Shisaambwa shinyala khubimbula tsimoni tsye babofu ? ”
+43010024	ena		Bayudaaya babusana , bamwibotokhelela bamureeba bari , “ Ulyoolisa ena khukhulekha ifwe nga khwikanakana ? Noola iwe niye Kristo , khuboolele lubuula . ”
+43010032	shiina		Ne Yesu wabelamo ari , “ Nabookesana kimilimo kimilayi khukhwama isi Papa , khu milimo kino kyoosi , milimo shiina khu nikyo kikila mwakhupa kamabaale ? ”
+43010036	muryeena		Kale inywe munyala muryeena khukhunomakho ise isi Papa abiitakho tsikhabi warumana mu shibala , muri ifwotsola Wele , bari khulwekhuba ise nalomile ndi , ‘ Indi Umwana wa Wele ? ’
+43011034	waheena		Wabareeba ari , “ Mwamusiikhile waheena ? ” Bamwiilamo bari , “ Mukasya yiitsa ubone . ”
+43011047	khuryeena		Nashiryo basaayi bakhulu ni Bafarisaayo balaanga Lukhobo Lukhulu , baloma bari , “ Khunakhola khuryeena ? Khulwekhuba umundu yuno alikho akhola bye kamakaanga bikali .
+43011056	~		Abe balikho baweentsa Yesu , nga babusaniile mu Lisaayilo Likhulu bareebana bonyene bari , “ Mwambaasa muri kane etse khu mayiiya kano namwe ta ? ”
+43012005	Khulwashiina		“ Khulwashiina kila kamafura kano kakhakulisibwilemo tsinusu nga bitoondo bitaru , batsikabila bataambi ? ”
+43012027	shiina		Yesu weloosela ari , “ Ari kumwoyo kwase kweyembelele . Ne ari inome shiina ? Inome ndi Papa n'umbonese mu saawa yino ? Ne taawe , shino nisho shishandeera khukhwoola khu saawa yino .
+43012034a	shiina		Lituuli lyelamo liri , “ Ifwe khwawulila mu makambila keefwe khuri Kristo alibawo bifukhu byoosi . Ne iwe shiina shikhulomesa shiri Umwana w'Omundu ashiile khuniinisibwa angaaki ? 
+43012034b	naanu		Umwana w'Omundu yuno , niye naanu ? ”
+43012038a	naanu		Shino shaba nga sholelesa bibyaronebwa mu muŋoosi Yisaaya shiri , “ Umukasya , naanu uwafukiilila burume bweefwe ? 
+43012038b	naanu		Nalundi , kumukhono kwa Wele kwe kamaani kwabimbulilwa khu naanu ? ”
+43013025	naanu		Naye wesyeenda ambi ni Yesu , wamureeba ari , “ Umukasya , naanu umweene ? ”
+43013036	wutsya ena		Simoni Petero wareeba Yesu ari , “ Umukasya , wutsya ena ? ” Yesu wamwiilamo ari , “ Isi intsya , s'unyala wanondakho ari ta . Ne ulinoondakho lwanyuma . ”
+43013037	lwashiina		Petero wamureeba lundi ari , “ Umukasya , lwashiina s'inyala nakhuloondakho ari ? Kane ise imbaaneyo bulamu bwase khulwoowo . ”
+43014002	~		Muntsu ya Papa wase mulimo biifwo bikali . Ni nase ndi khuutsya khubaŋoonaŋoonela shifwo . Shino shiba shishikhali shiryo ta , khali s'imbaboolele ta .
+43014005	khuryeena		Tomasi wamureeba ari , “ Umukasya , sikhwamanyile ni mu shifwo mweesi ulikho wutsya ta , khunyala khuryeena khwamanya intsila ? ”
+43014009	khulwashiina		Yesu wamukobolamo ari , “ Filipo , nabeele ni nanywe khumala imbuka yino yoosi , ne ni khukhwoola ari iwe ushiili khukhumanya ise ta ? Uwumbona ise , aba waboone Papa , khulwashiina kila uloma uri khwokesane Papa ?
+43014022	shiina		Ne Yuda ukuundi , ukhali Isikalyoti ta , wareeba Yesu ari , “ Umukasya , shiina kila wutsya khukhwiyokesanisa isi ifwe , ne akhuba isi shibala ta ? ”
+43016005	waheena		Ne ari ndi khuutsya isi uyo uwandumana . Ne khus'inywe mbaawo namutweela uwundeebile ari , ‘ Ulikho wutsya waheena ’ ta .
+43016017	Shiina		Batweela khu baleekelwa beewe kila baloma bari , “ Shiina kila alikho aloma aryo ? Ari mu mbuka ifwiiti singene mumbone ta ; nalundi ari mu mbuka ifwiiti kane mumbone ? Ari khulwekhuba ndi khuutsya isi Papa ? ”
+43016018	shiina		Kila bereeba bari , “ Amanyisa shiina ni imbuka ifwiiti ? Ifwe sikhumanya sheesi alikho ta . ”
+43018004	Naanu		Yesu n'amanya byoosi bibiitsya khumukholekhakho , umweene weerusa ibulafu , wabareeba ari , “ Naanu esi mulikho muweentsa ? ”
+43018007	Naanu		Lundi ndi Yesu wabareeba ari , “ Naanu esi mulikho muweentsa ? ” Bamuloma bari , “ Yesu uwe Nazareesi . ”
+43018011	~		Yesu waloma Petero ari , “ Ni wiise lurima lwoowo mu shilaalo shalwo . Shino nisho shikopo she butsiina sheesi Papa ambeele . Shingane ishinywe ta ? ”
+43018021	Lwashiina		Lwashiina undeeba ? N'ureebe babandu babambulilisatsaka ise byeesi nabalomatsaka . Nibo baamanya byeesi naloma . ”
+43018023	lwashiina		Yesu wamwiilamo ari , “ Noola ise inomele buubi , n'untsokese buubi bwase . Ne noola inomele bulayi , lwashiina kila ukhupa ? ”
+43018029	shiina		Aryo Pilato warura ibulafu isi baaba , wabareeba ari , “ Musaango shiina kwesi mufunaana umundu yuno ? ”
+43018035	Shiina		Pilato wamwiilamo ari , “ Ise ndi Umuyudaaya ? Babandu be linaambo lyoowo ni Basaayi bakhulu nibo babakhuntsakaanisile isi ise . Shiina sheesi ukholile ? ”
+43018038	shiina		Pilato wamureeba ari , “ Ŋali nisho shiina ? ” Ne Pilato n'amala khumureeba aryo , warura lundi watsya isi Bayudaaya , wabaloma ari , “ Ise s'imbona ilomo yoosi ikila mwafunana umusaani uyu kumusaango ta .
+43019009	waheena		Shikila wenjila lundi mu lwanyi lwe kimisaango , wareeba Yesu ari , “ Iwe wama waheena ? ” Ne Yesu walekha khumwiilamo ilomo yoosi ta .
+43019015	~		Ne nibo bayokesela angaaki bari , “ N'umurusewo ! N'umurusewo ! Mutsangilile khu musalaba ! Mutsangilile khu musalaba ! ” Pilato wabareeba ari , “ Intsangilile khu musalaba umuyinga wenywe ? ” Nabo basaayi bakhulu belamo bari , “ Ifwe sikhuli n'umuyinga ukuundi ta , akhali Kayisaali yenyene . ”
+43020013	shiina		Baamureeba bari , “ Mukhasiwe , shiina kila ulikho ulila ? ” Wabeelamo ari , “ Baarusile Umukasya wase mu ŋani , ne simanya isi bamureere ta . ”
+43020015a	shiina		Yesu wamureeba ari , “ Mukhasiwe , shiina kila ulikho ulila ? 
+43020015b	naanu		Ulikho uweentsa naanu ? ” Mariya wamwambasilisa khuuba nga niye ulima mu mukuunda ukwo . Wamuloma ari , “ Papa , noola iwe niye umwinyusilemo , n'umboolele isi umureere , kane intsye imuruseyo . ”
+43021012	naanu		Yesu wabaloma ari , “ Ni mwiitse mulyekho she kumutikhinyi . ” Imbaawo na mutweela khu baleekelwa uwamureeba ari , “ Iwe naanu ” ta . Boosi baaba bamanyile bari uyo Umukasya .
+43021020	naanu		Ne Petero n'eshebukha , wabona umuleekelwa uyo esi Yesu asiima , nga wabalondelekho . Umweene uyo niye uweyikamilila mu shifuba sha Yesu , nga balikho balya she ashilo . Lundi niye uwaloma ari , “ Umukasya , naanu niye unakhulyamo luwomelo ? ”
+43021021	~		Petero n'amubona , wareeba Yesu ari , “ Umukasya , ne yuno ? ”
+43021022	shiina		Yesu wamuloma ari , “ Ise n'ingana ndi aramewo umulamu khukhwolisa n'ingobola , iwe winaanayo shiina ? Iwe n'unondekho . ”
+43021023	shiina		Lwanyuma bilomo byafuma mu bebulebe biri umuleekelwa uyo s'alifwa ta . Yesu s'aloma aryo ta , ne akhali aloma ari , “ Ise n'ingana ndi aramewo mulamu khukhwolisa nindikobola , iwe winaanayo shiina ? ”
+44001011	shiina		“ Basaani be Galilaaya , shiina shibemisile ano nga mulolele mu ngaaki ? Yesu mweene uyu ubarusiwilekho wayilibwa mwikulu , alikobola aryo musaambo nyeneyo , nga ni mumuboone nga atsya mwikulu . ”
+44002008	shiryeena		Ne ari shiitsa shiryeena ifwe buli mutweela khuwulila nga bakanikha mu lulimi lweewe lusaalikhana ?
+44002012	shiina		Baryo boosi beyaanga lundi bakarangarana busa , nga baloma bonyene bari , “ Ne makhuwa shiina kano ? ”
+44002037	khuryeena		Ne babandu ni bawulila bilomo bino , byabatsiina naabi mu myoyo kyaabwe , kila bareeba Petero ni barume babaramile boosi bari , “ Bebulebe ifwe kane khukhole khuryeena ? ”
+44003012a	lwashiina		Petero n'abona babandu wabaloma ari , “ Babandu ba Isiraeli , lwashiina shino shibeyaangisa ? 
+44003012b	lwashiina		Namwe lwashiina mukhwoomisilakho ifwe tsimoni ? Mwambaasa muri umundu uyu akyeendile lwe kamaani keefwe , namwe lwe bukhosefu bweefwe ?
+44004007a	~		Baryo ni baamala khukhwiiimisa barume Petero ni Yohana akari abwe , babareeba bari , 
+44004007b	shiina		“ Mwiimile khu bunyala shiina , 
+44004007c	naanu		namwe mwiimile khu lisiina lya naanu khukhola shino ? ”
+44004016	khuryeena		“ Babandu bano kane khubakhole khuryeena ? Lwekhuba shamanyikhiile ilala lubuula isi babekhali be mu Yerusalemu boosi shiri , she kamakaanga shikhulu shakholikhile khubirira mu nibo , nalundi mbaawo isaambo yeesi khunyala khwashikanamo ta .
+44004025a	Lwashiina		waba nga ubirira mu Mwoyo Umukhosefu wakanikha khubirira mu kuuka weefwe Daudi , umwakaanisi woowo uri , ‘ Lwashiina kila kamanaambo katimaana ? 
+44004025b	Lwashiina		Lwashiina kila kamanaambo kambaasa bibikhalimo ta ?
+44005003	shiina		Petero wamuloma ari , “ Ananiya , shiina kila Sitaani akhwitsuulemo mu mwoyo kwoowo woola ni khuwoombesa Umwoyo Umukhosefu nga uramisakho shisiintsa she tsinusu tsitsamile mu liiswa ?
+44005004	lwashiina		Abe nga liiswa ni lishiili khukulisibwa ta , shilyaba nga lilyoowo ? Abe akhaba nga ni lyakulisibwile , sishabeele khuusi iwe khukhola sheesi abe ukana ? Ne lwashiina kila wambaasile shishindu nga shino mu mwoyo kwoowo ? Iwe siwawoombesele babandu ta , ne wawoombesele Wele . ”
+44005009	Shiina		Ne Petero wamuloma ari , “ Shiina kila iwe n'umuseetsa woowo mufukiilisaane khukhakilisa Umwoyo w'Omukasya ? Khekhuboolele , bikyele byaabo babaama khusiikha umuseetsa woowo byoolile amulyango , ni nawe banakhusuta bakhuruse . ”
+44007026	shiina		Khu shifukhu shishelakho , Musa wanyoola ba Isiraeli babeene nga balikho basoolana , wakhakakho khuuba nga aloma ari , ‘ Balebe , muli beenda ndweela , shiina kila musoolana ? ’
+44007027	Naanu		Ne uyo uwaba nga alikho arangana uwashe , wasiindikha Musa andulo nga aloma ari , ‘ Naanu ukhureerewo iwe khuuba nga umuwuli lundi umukayi akari efwe ?
+44007035	Naanu		“ Musa uwatsana yuno isi ba Isiraeli baloba , nga baloma bari , ‘ Naanu ukhureerewo nga umuwuli nalundi umukayi ? ’ Wele amurumana nga umukayi lundi umuwonesi , nga abirira mu malayika isi abona mu shitsakha nga shaburukha kumulilo .
+44007049a	shiina		‘ Likulu nilyo shitsoloŋo she buyinga bwase , ni shibala nisho sheesi ise inaambisakho bikyele byase . ’ Kila Umukasya areeba ari , ‘ Intsu shiina isi kane inywe muntsombakhile ise , 
+44007049b	shiina		namwe shifwo shiina sheesi ise inawolelamo ?
+44007052	shiina		Muŋoosi shiina isi bakuuka beenywe bakhakubyeenga ta ? Nalundi beeratsaka ibo babakukuula khukhwiitsa khw'Omukhosefu nga bushiili , uyo yeesi inywe mwalyamo luwomelo mwamwiira .
+44008031	ndyeena		Umwomole watsana wamwiilamo ari , “ Inyala indyeena khubimanya khurusakho nga iliwo umundu uli khukhusontsoola ? ” Aryo walaanga Filipo ari aniine ekhale ni naye mu likaali .
+44008033	Naanu		Bamubirisa buubi , balekha khumwokyesanisa bwaŋali ta . Naanu unyala wasontsoola bibiwaamba khu shikuuka sheewe ? Lwekhuba bulamu bweewe bwarusibwa khu shibala . ”
+44008034	naanu		Kila umwomole areeba Filipo ari , “ Nakhwikontseleele imboolele , naanu isi umuŋoosi alomakho bilomo bino ? Elomakho umweene namwe aloma khu mundu ukuundi busa ? ”
+44008036	shiina		Ne ni baaba nga bali khu ntsila batsya , boola mu shiifwo shishiilimo kameetsi , umwomole waloma ari , “ Bona kameetsi , shiina ndi shishindobesa khubatisibwa ? ”
+44009004	lwashiina		Waakwa asi wawulila likono nga limuloma liri , “ Saulo ! Saulo , lwashiina iwe ungubyeenga ise ? ”
+44009005	naanu		Kila Saulo wamureeba ari , “ Iwe naanu , Umukasya ? ” Likono lyamwiilamo liri , “ Ise Yesu isi iwe ukubyeenga .
+44009006	~		Ne ari ni winyukhe utsye mu shiriimba , isi kane bakhuboolele bibikhwakhila iwe khukhola nga ni bili . ”
+44010004	shiina		Koruneliyo walolelela malayika ni khuurya khukali , kila amureeba ari “ Umukasya , shiina ? ” Malayika naye wamwiilamo ari , “ Khuloomba khwoowo ni buyeeti bwoowo bweesi uwaanayo isi babandu byaniinile nalundi byafukiilisibwile ni Wele .
+44010021	shiina		Petero weekha asi isi babandu bano babaama isi Koruneliyo wabaloma ari , “ Iseese niyooyu isi mulikho mukana . Lomo shiina ibareerire ? ”
+44010029	shiina		Nashiryo nga ni munangile , ise sindobile khukhwiitsa ta . Ari imbareeba ndi shiina shishikilile mwanaanga ? ”
+44010047	~		“ Iliyo umundu yeesi unyala khukhwimana khubatisibwa khwe kameetsi isi babandu bano babamalile khufuna Umwoyo Umukhosefu nga ifwe ni khwafuna ? ”
+44011017a	naanu		Aso , Wele noola abawa nibo shiwanwa nga sheesi akhuwa ifwe ni khwafukiilila Umukasya Yesu Kristo , abe ise niye naanu uwandyakhiile khukhabisanisa Wele ? ”
+44011017b	~		
+44012018	~		Ni bwasha kumutikhinyi , abawo khutumbuukha khukali akari mu basilikhale khulwe khutakhawo khwa Petero mwipuusu .
+44013025	naanu		Ne Yohana nga atsya khumalilisa buraambi bweewe aloma ari , ‘ Iseese muntsambaasilisa khuuba naanu ? Iseese siindi niye isi mwambasilisa khuuba uyo isi mwaliindilila ta . Ne akhali ndi lwanyuma lwase , iliyo uli khukhwiitsa isi ise ikhaakhila ni khukangulula bilaalo bye mu bikyele byeewe ta . ’
+44014015	lwashiina		“ Basaaninywe , lwashiina mukhola bino ? Nafwe khuli babandu busa nga inywe , ne khubaboolela Kamakhuwa Kamalayi khuri , mulekhe ibyo bikhalimo ta , mwiile isi Wele uwabuumba likulu ni shibala , ni tsinyaantsa , ni bibindu byoosi bibilimo .
+44015010	shiina		Ari shiina shisheene shishikila mwakhakilisa Wele nga mwityukhisa balebe bafukiilisi bano babashuukha shisutwa sheesi bakuuka beefwe namwe ifwe fwabeene khukhanyala khusuta ta .
+44016030	shiina		Aryo wabarusa ibulafu , wabaloma ari , “ Basakhulu , ise nakhila khukhola shiina nio imbonesebwe . ”
+44017018	shiina		Babandu babandi be kamakyesi babalaangiwa bari ba Epikuriyo ni babandi ba Sitoyiki , bamwakaanana barakikha khukhandisanatsaka ni naye . Babandi khu nibo baloma bari , “ Uwilomalomayu aloma shiina ? ” Kila babandi baloma bari , “ Afwana nga ukanikha khu bawele bakyeni beesi khukhamanya ta . ” Baloma shino lwekhuba Paulo aba akanikha khu Yesu , ni khu khulamukha khwe baafu .
+44017019	~		Baryo bamuwamba bamuyila mu lubusano lukhulu lwa Areopago , bamuloma bari , “ Khunyala khwamanya khuleekela khuno khushaakha khweesi uli khulomakho nga ni khuli ?
+44019003	shiina		Paulo wabareeba ari , “ Aso , ne khubatisibwa shiina khweesi inywe mwabatisibwa ? ” Nabo belamo bari , “ Khubatisibwa khwa Yohana . ”
+44019015	naanu		Lutweela shisaambwa shiibi shabaloma shiri , “ Yesu namumanya , ni Paulo naye namumanya , ne inywe nibo ba naanu ? ”
+44019035	shiina		Ne lwanyuma umuroni umukhulu uwe shiriimba n'asilisa lituuli lye babandu wabaloma ari , “ Basaani ba Efeso , mundu shiina ukhamanyile ari , shiriimba sha Efeso nisho shishiliinda lisaayilo lya Aritemi , wele umukhulu , atweela ni shifwani sheewe shishakwa nga shaama mu ngaaki ?
+44021013a	shiina		Kila Paulo elamo ari , “ Shiina kila mulikho mukhola muryo ? 
+44021013b	shiina		Shiina kila mulikho mulila nalundi mumalamo ise kamaani ? Lwekhuba ise siindi mwirekefu lwe khubowebwa khwonyene ta , ne indi mwirekefu akhaba ni khufwila i Yerusalemu khulwe lisiina ly'Omukasya Yesu . ”
+44021022	khuryeena		Ari , ifwe kane khukhole khuryeena ? Lwekhuba ilala banawulila bari weetsile ino .
+44021033a	naanu		Abweene awo umukhulu we liye wesyeenda ambi wawamba Paulo , walakila ari bamubowe kiminyololo kibili . Kila areeba ari “ Naanu uyu , 
+44021033b	shiina		nalundi wakholile shiina ? ”
+44022007	lwashiina		Nakwa asi , nawulila likono nga linoma liri , ‘ Saulo , Saulo , lwashiina ungubyeenga ise ? ’
+44022008	naanu		Nase nilamo ndi , ‘ Iwe naanu , Umukasya ? ’ Naye wanoma ari , ‘ Ise Yesu we Nazareesi , isi iwe ukubyeenga . ’
+44022010	ndyeena		Namureeba ndi , ‘ Kane ikhole ndyeena , Umukasya ? ’ Umukasya wantsilamo ari , ‘ Yinyukha utsye i Damasiko . Ibweeneyo , kane bakhuboolele she khukhola . ’
+44022016	shiina		Aso , ari waliindile shiina ? Yinyukha ubatisibwe , usingibwekho bibyonako byoowo , nga uloomba mu lisiina lya Wele . ’
+44022026	uryeena		Ne umukhulu uyo n'awulila aryo , watsya isi umukhulu umweene uwe liye , wamuloma ari , “ Ari , unakhola uryeena ? Lwekhuba umusaani yuno ali umu Roma . ”
+44023003	uryeena		Kila Paulo aloma ari , “ Nawe Wele alikhukhupa ! Iwe litikiiyi liliwakhibwile ni luloongo luwanga . Unyala uryeena khukhukhalila ise kumusaango khulondekhana ni kamakambila , ne ate iwe walekha khukalondelela , walakila uri bakhupe ise ? ”
+44023009	~		Ulwo abawo khutumbuukha khukali . Ni baleekeli be kamakambila babaaba khu luwande lwe Bafarisaayo benyukha beema , bakhandisana nga baloma bari , “ Ifwe sikhubona ilomo yoosi khu mundu yuno ta . Shinyalikhana khuuba nga mwoyo namwe malayika wamukanikhileyo . ”
+44023019	Shiina		Umukhulu we basilikhale kila awamba umusoleeli yuno kumukhono , wamwiisa andulo , wamureeba ari , “ Shiina sheesi ukana khukhumboolela ? ”
+44026008	lwashiina		Ne lwashiina inywe mushambaasa khuuba shikosi naabi khubona nga Wele alamusa baafu ?
+44026014	shiina		Feesi khwakwa asi . Ise nawulila likono lilomela mu lulimi Luheburaniya liri , ‘ Saulo , Saulo , shiina kila ungubyeenga ise ? Shili shiwangafu naabi iwe khukhandisana ni shishikhanyalikhana ta ! ’
+44026015	naanu		Nase nareeba ndi , ‘ Iwe naanu Umukasya ? ’ Umukasya welamo ari , ‘ Ise Yesu isi uli ukubyeenga .
+45002017	shiina		Ne iwe wilaanga khuuba shiina ? Wilaanga uri uli Umuyudaaya nga wiyikina likambila nalundi wiruuya uri iwe uli umulayi isi Wele ?
+45002021	khulwashiina		Noola iwe niye uleekela babandi , khulwashiina kila iwe ukheleekela wamweene ? Shiina kila iwe wiiba , ate iwe uleekela uri mukheeba ta ?
+45002028	~		Khulwekhuba khuuba Umuyudaaya sishiba ndi shili shishindu she khungaaki busa ta . Namwe khukhwinjila imbalu inyene seshili shishindu shishibonekhela busa khungaaki ta .
+45003001a	shiina		Bayudaaya bafuurira shiina abo babakhali Bayudaaya ? 
+45003001b	shiina		Namwe lisuno shiina liliili mu khwinjila imbalu ?
+45003003	~		Ne singa shinyoolikhana shili batweela khu Bayudaaya sibali babeyikinwa ta ? Shino shinyala shareerera Wele khulekha khuba umwiyikinwa ta ?
+45003005	~		Ne singa khukhola buubi khwefwe khuraambisibwa khukhwokesanila ilala bulayi bubweene khuri Wele umukwalaafu , isho shinyala shakila ifwe khwaloma khuri Wele akhola buubi nga wakhukhaliile ifwe kumusaango ? Ari ano indikho inoma nga babandu babusheele ni baloma .
+45003006	aryeena		Seshinyalikha taawe . Noola Wele s'ali umukwalaafu ta , anyala aryeena khukhalila shibala kumusaango ?
+45003007a	~		Ne noola ise khuuba umubeeyi khukila shiriifwa sha Wele shokesanisibwa bulayi bubweene , 
+45003007b	khulwashiina		khulwashiina ndi lundi ise nikiitsibwa khuuba umwonaki ?
+45003008	~		Khulwashiina kila khukhaloma khuri , “ Khakhukhole buubi nio akile bulayi bwa Wele bubonekhe ? ” Babandu balala baakhubiyisa ifwe bari khuloma khuryo . Babeene abo balikiitsibwa , nga ni shakhiile khuuba .
+45003009	~		Ari ifwe Bayudaaya khulome khuri khuli bulayi khufuura babandu babakhali Bayudaaya ta ? Nakhafwiiti khari ta ! Khulwekhuba namalile khaale khukhwokesanisa ndi babandu boosi , nga mulimo Bayudaaya ni Banaambo boosi , bali asi e kamaani ke bibyonako .
+45003027a	waheena		Ari khukhwibuyila khweefwe khuli waheena ? Imbaawo ta ! 
+45003027b	shiina		Khukhwibuyila khweefwe khwiima khu lomo shiina ? 
+45003027c	~		Khwibuyila khulwe kamakambila ? Taawe . Khwibuyila khulwe khufukiilila .
+45004001	shiina		Ne ari kane khulome khuri shiina khu Ibulayimu , kuuka weefwe ?
+45004003	biryeena		Bibyaronebwa bikhosefu biloma biryeena ? Sibiloma biri , “ Ibulayimu afukiilila mu Wele , nio khulwe khufukiilila khweewe mu Wele , wabalibwa khuuba umukwalaafu . ”
+45004010	shiryeena		Shino sheetsa shiryeena nio Ibulayimu abaliwe aryo ? Nga ashiili khukhwinjila imbalu ta , namwe nga wamala khukhwinjila imbalu ? Shino sishaba nga wamala khukhwinjila imbalu ta , akhali nga ashiili khukhwinjila imbalu ta .
+45005010	~		Khulwekhuba ni khwaba nga khuli basiku isi Wele , umweene wakhukalusa ifwe khuuba basaale beewe , khubirira mu khufwa khw'Omwana weewe . Ne noola ari khuli basaale ba Wele , khuliwonesebwa khubirira mu bulamu bwa Kristo .
+45005021	~		Nashiryo nga khukhwoneka ni khwaba ni buwuli khubirira mu khufwa , bubweela bwa Wele nabwo bwaba ni buwuli khubirira mu bukwalaafu , nga bukhuyila ifwe mu bulamu bubukhawawo ta , khulwa Yesu Kristo , Umukasya weefwe .
+45006001	khuryeena		Ne ari kane khulome khuryeena ? Khulome khuri khwiloosele khukhola bye bubwonaki nio bubweela bwa Wele bwiloosele ?
+45006002	shiryeena		Taawe . Shinyalikha shiryeena ifwe babekaana bibyonako khukhwiloosela khumenya mu byonako ?
+45006015	khuryeena		Ari khulome khuryeena ? Khulome khuri lwekhuba khuli asi e bubweela bwa Wele , ne akhuba asi e kamakambila ta , nashiryo khwiloosele khukhola bibyonako ? Seshinyalikha ta .
+45006021	shiina		Ne mafuurisa shiina keesi mwafuna khukhwama mu bindu ibyo ari biibi bibiwaambisa kamaŋaanyu ? Intsakamilo iye bibiindu ibyo nikhwo khuufwa .
+45007007	shiina		Ari kane khulome khuri shiina ? Khulome khuri kamakambila kameene niko kali bibyonako ? Seshinyalikha taawe . Khulwekhuba ilekha khubawo kamakambila ta , khali ise simanya nga bibyonako nibyo shiina ta . Kamakambila kalekha khubawo ta , khali ise imanya indyeena nga likambila ni liloma liri , “ Ukhekoomba shishindu sh'owashoowo taawe ? ”
+45007024	Naanu		Nga kumutaambo kwanyoolile ! Naanu ukane asikule ise khukhwama mu mubili kuno kukuuli khukhumbila ise mu khufwa ?
+45008024	Naanu		Khulwekhuba Wele wakhuwonesa ifwe khubirira mu khwiyikina khuno . Ne nikhwiyikina sheesi khubonakho , ukhwo sikhuba khukhwiyikina ta . Naanu khusifwe unyala weyikina shishindu sheesi abonakho buboni ?
+45008031a	shiina		Mu khulolelela bino byoosi , kane khulome khuri shiina ? 
+45008031b	naanu		Noola Wele ali khu lubeka lweefwe , ne ndi naanu unakhusoolanisa ifwe ?
+45008032	aryeena		Wele s'aloba khuwanayo Umwana weewe umweene ta , ne amuwanayo khulweefwe fweesi . N'endi Wele anyala aryeena waloba khukhuwa ifwe bibiindu byoosi atweela n'Umwana weewe ?
+45008033	naanu		Ari ndi naanu uliwabila babandu ba Wele barobole ? Wele umweene niye ushuusa babandu balekha khuubakho ni kumusaango ta .
+45008034	Naanu		Naanu ulibakhalila kumusaango ? Kristo Yesu uwafwa nalundi walamusibwa khukhwama mu bafu , s'anyala waba niye ubakhalila kumusaango ta . Umweene uyo ari ali khu mukhono kumulayi kwa Wele , akhuloombela ifwe isi Wele .
+45008035	naanu		Ari naanu ndi unyala wakhwawukhanisa ifwe khu khukana khweesi Kristo akhukanamo ifwe ? Bukosi , namwe bihangafu , namwe khukubyeengewa , namwe intsala , namwe butaambi , namwe bukosi bwe khuufwa , namwe khuufwa ?
+45009014	shiina		Ari khulome khuri shiina ? Khulome khuri Wele aromboosa mu bandu ? Taawe .
+45009019a	khulwashiina		Mutweela khusi inywe kane andeebe ari , “ Ne noola shili shiryo , khulwashiina kila Wele ekiitsa babandu balala ? 
+45009019b	naanu		Naanu unyala khukhandisa khukana khwa Wele ? ”
+45009020a	naanu		Ne iwe niye naanu ? 
+45009020b	shiina		Iwe umundu shiina unyala khukhandisa Wele ? Shibuumbe shinyala khureeba uwashibuumba shiri , 
+45009020c	shiina		“ Shiina kila wamuumba uri ? ”
+45009021	~		Umubuumbi s'ali ni bunyala khukhola sheesi akana ni liloba lyeewe ta ? Umubuumbi s'anyala khuumekakho liloba ilyo wakhola shibuumbe shitweela nga shimiliwu nalundi she angaaki , ni shishindi nga shiryo shiryo busa ta ?
+45009022	~		Shinyala shaba khana Wele , khulwe khukana khukhwokesana lirima lyeewe , ni khukana khukhwokesana kamaani keewe , wayikhalilikha naabi khulwe bibuumbe ibyo abe bibyashila khukhwonakisibwa .
+45009023	~		Nalundi Wele akana okesanise buyindifu bwe shiriifwa sheewe shikali isho , sheesi atsukha khusi ifwe khukhwakaanila shiisa sheewe , abo khusi ifwe beesi amala khuŋoonaŋoona nga bushiili .
+45009024	~		Ifwe khuli babandu beesi alaanga . Ne shiili ifwe Bayudaaya fwenyene ta , ne ni naabo beesi alaanga khukhwama mu Banaambo .
+45009030	shiina		Ne ari kane khulome khuri shiina ? Kane khulome khuri Banaambo abe babakhaweentsa bukwalaafu ta , ari bafunile bukwalaafu khulwe khufukiilila .
+45009032	khulwashiina		Ne khulwashiina kila shaba shiryo ? Shaba shiryo khulwekhuba ba Isiraeli sibaweentsa bukwalaafu nga bemikhile khu bye khufukiilila ta . Baaweentsa bukwalaafu nga bemikha khu bikholwa byaabwe . Bali busa nga babetuya khu shisiindi shishireera biwangafu .
+45010006	naanu		Ne bukwalaafu bubwimile khu khufukiilila khw'omundu buloma buri , “ Ukhereeba mu mwoyo kwoowo uri , ‘ Ne naanu ukane aniine mwikulu akhureerere Kristo asi khu shibala ? ’
+45010007	Naanu		Namwe ukhereeba uri , ‘ Naanu ukane ekhe asi mwiloba khukhureera Kristo khungaaki , khukhwama mu bafu ? ’ ”
+45010008	shiryeena		Shisharonebwa shiloma shiryeena ? Sishiloma shiri , burume bwa Wele , nga nibwo buli shilomo she khufukiilila sheesi ifwe khukukuula , shili ambi ni nawe . Shili khu minwa kyoowo , nalundi shili mu mwoyo kwoowo ?
+45010014a	baryeena		Ne babandu banyala baryeena besaaya Umukasya nga bashiili khumufukiililamo ta ? 
+45010014b	baryeena		Nalundi banyala baryeena bamufukiililamo , nga bashiili khuwulila burume bubwama isi Umukasya ta ? 
+45010014c	baryeena		Nalundi banyala baryeena bawulila bibiwaamba khu Mukasya , nga imbaawo ubakhupiile kumulaanga ta ?
+45010015	baryeena		Nalundi babandu banyala baryeena bakhupa kumulaanga kwe burume , nga imbaawo ubarumanile ta ? Ne nga bibyaronebwa bikhosefu ni biloma biri , “ Babareera kamakhuwa kamalayi nga bali ni bikele bilayi ! ”
+45010016	~		Ne seshili bari boosi bakaanila kamakhuwa kamalayi kano ta . Nga Yisaaya n'aloma ari , “ Umukasya , babandu beenga babafukiilila kamakhuwa keesi ifwe khwakukuula ? ”
+45011004	aryeena		Ne Wele amwiilamo aryeena ? Amuloma ari , “ Nayibikhila samweene babandu bikana musaafu , babakhafukhama asi khu masikamo kabwe , besaaya Baali , wele uwe bubeeyi ta . ”
+45011007	Shinaanu		Shinaanu shishalooselakho ? Babandu ba Isiraeli bakhasikha khunyoola abe sheesi baweentsa . Bafwiti bari khu nibo babanyoola abe sheesi baweentsa , ne babaramile barama nga baminyaliile burume bwa Wele .
+45011015	shiina		Khulwekhuba Wele n'abaloba , shishamamo shaba busaale ni shibala . Ne naanu umanya , oba Wele n'abafukiilisa kane shimanyise shiina ? Seshinyala shaaba shishindu shishindi ta , akhali khulamukha khwe babandu khukhwama mu bafu .
+45011018	~		Munyala mwebuyila muri inywe mufuura tsisakya tsye kusaala tsye khubweene ? Ne abe noola mwibuyila , shebulila muri s'ali inywe nibo mumutikiya shisina ta , ne akhali shisina nisho shishibatikiya inywe .
+45011033a	naanu		Nga buyindifu bwa Wele bwe kamaani ! Nga Wele ali ni kamakyesi nalundi wamanya bibindu bikali ! Naanu unyala wamanya sheesi Wele atsya khukhalawo ? 
+45011033b	naanu		Naanu unyala wamanya isaambo yeesi Wele araambamo kimilimo kyeewe ?
+45011034a	naanu		Bibyaronebwa bikhosefu biloma biri , “ Naanu unyala wamanya khukhwambaasa khw'Omukasya ? 
+45011034b	~		Namwe iliwo umundu yeesi uwawakho Wele kamakyesi ?
+45011035	naanu		Namwe naanu uwawakho Wele shishiindu shoosi , ari manya nyaanga Wele ashimukobosele ? ”
+45014004	naanu		Ne iwe niye naanu ukhalila umwakaanisi wabeene kumusaango ? Umukoosi weewe niye ukane akhalewo , oba umwakaanisi ali umutuufu mu byeesi akhola namwe ta . Ne umwakaanisi uyo singane akhasikhane ta , khulwekhuba Umukoosi ali ni bunyala bwe khumuyeeta khurura mu byonako byeewe .
+45014010a	khulwashiina		Khulwashiina ukhalila uwashoowo kumusaango ? 
+45014010b	khulwashiina		Namwe khulwashiina kila ulekelesa uwashoowo ? Khulwekhuba fweesi khukheeme mu moni tse shitsoloŋo sha Wele she khukhalilakho kimisaango .
+46001020a	waheena		Umundu umukyesi ali waheena ? 
+46001020b	ena		Namwe uwamanya khurona naye ali ena ? 
+46001020c	waheena		Umukhandisi we kumuboolo kuno niye ali waheena ? Simubona muri Wele wakalusa bukyesi bwe shibala shino khuuba nibwo busilu ta ?
+46002011	shiina		Lwekhuba mundu shiina umanya bibyambaaso by'omundu ukuundi , khurusakho umwoyo w'omundu umweene uwikhala mu niye ? Ni musaambo niyo ndweela , mbaawo umundu umanya bibyambaaso bya Wele ta , khurusakho Umwoyo wa Wele yenyene .
+46002016a	naanu		Nga bibyaronebwa ni biloma biri , “ Naanu uwamanya bibyambaaso by'Omukasya , 
+46002016b	~		nio anyale khumuwa kamakyesi ? ” Ne ifwe khwamanya bibyambaaso bya Kristo .
+46003005a	naanu		Aso , aluno Apolo niye naanu ? 
+46003005b	naanu		Namwe Paulo niye naanu ? Akhuba nibo babakaanisi busa ba Wele babaakila inywe mwafukiilila ta ? Buli mutweela khusiifwe khwakhola kumulimo nga Wele n'akabananisa .
+46004007a	naanu		Naanu uwakhwikyelisa iwe umukhulu khu bandi ? 
+46004007b	shiina		Shiina sheesi uli nasho sheesi ukhaweebwa ? 
+46004007c	lwashiina		Ne noola waweebwa , lwashiina wibuyila nga ukhaweebwa busa shiwanwa ?
+46004021	Shiina		Shiina sheesi inywe mukhalawo ? Mukana ise niitse ni miimbo isi muli , namwe mu khukana ni kumwoyo kumuwolu ?
+46005002	~		Muryo khana mwibuyila busa ? Khali mubeele mu mutaambo ? Ni nooyo ukholele isho arusibwa mu lubusano lweenywe .
+46005012	~		Kuli mulimo kwase ise khukhalila ibo babaali ibulafu we bafukiilisi kumusaango ? Ne inywe simuli ni khukhalila kumusaango ibo babaali muntsu ye khufukiilila ?
+46006001	aryeena		Ne umundu yeesi mwiinywe naaba ni lomo yoosi isi uwashe , anyala aryeena khuutsya welootsela babakhali bafukiilisi , mu shifwo she khuutsya isi bakhosefu ?
+46006003	shiryeena		Inywe simumanya muri , ifwe khulikhalila ni bamalayika kumusaango ? Ne shiba shiryeena ifwe khukhaasikha mu bindu bye bulamu buno ?
+46006004	~		Ne ni muba ni kimisaango kyesaambo nga yino , munyala muryeena khukiyila isi babandu be bulafu , babakhalikho ni sheesi bamanyile mu bandu ba Wele ta ?
+46006007a	~		Ni shibonekha shiryo shiri muli ni kimisaango akari mwiinywe , shimanyisa shiri mwamalile khaale khukhasikhana . Inywe simumaaya mwaba nibo babakholebwakho buubi ? 
+46006007b	~		Namwe inywe mwamaaya mwaba babanuulibwa ?
+46006009	~		Inywe mushiili khumanya muri babandu babakhakhola bye bukwalaafu , sibalisikhila Buyinga bwa Wele ta ? Mukhawombesebwa ta , babandu be kumulyuulyu , namwe babesaaya bifwaani , namwe bayeyani , namwe basaani babakona ni basaani bashaabwe ,
+46006016	~		Inywe simumanya muri umundu yeesi uwitubaasa ni malaaya ekyela kumubili mutweela ni naye ? Lwekhuba nga ni sharonebwa shiri , “ Babili balikyela kumubili mutweela . ”
+46006019	~		Inywe simumanya muri , kumubili kweenywe nikwo lisaayilo likhulu ly'Omwoyo Umukhosefu esi mwaweebwa ni Wele ? Simuli khu lwenywe mwenyene ta ,
+46007016a	uryeena		Lwekhuba iwe umukhasi umufukiilisi umanya uryeena uri s'uliwonesa umuseetsa wo ta ? 
+46007016b	uryeena		Ni nawe umuseetsa , umanya uryeena uri s'uliwonesa umukhasi wo ta ?
+46009007a	naanu		Naanu uwawulilakho umusilikhale uwe kamahe wutsya mu busoolo khulweewe nga esasulila ? 
+46009007b	shiina		Namwe mulimi shiina uba ni kumukuunda kweewe , ne walekha khulyamo bibyaamo byamwo ta ? 
+46009007c	shiina		Namwe mwaayi shiina uwaaya bibyaayo byeewe , ne walekha khunywamo kamabeele kamwo ta ?
+46009018	ena		Ne kumukheemba kwase nikwo kuli ena ? Nikwo kuno : mu khuboolela khwase , inyale khuboolela Kamakhuwa Kamalayi busa , indekhe khubaantsa bibintsakhila mu mulimo kwase kweene kwe khuboolela Kamakhuwa Kamalayi ta .
+46010019a	shiina		Ne shiina sheesi inoma ? 
+46010019b	~		Biilyo bibiwanibwayo isi bifwaani sibili shindu ta , 
+46010019c	~		namwe inoma ndi shifwani sishili shindu ta ?
+46010029	lwashiina		Sheesi inoma nisho shino ndi , akhuba lwe bulayi bwe kumwoyo kwoowo ta , ne lwe kumwoyo kw'omundu ukuundi . Ne lwashiina lukoosi lwase lwikiitsibwa khulw'omundu ukuundi ?
+46010030	lwashiina		Ise n'indya ni khusiima , lwashiina n'ikiitsibwa lweesho sheesi isiimila Wele ?
+46011022	shiina		Ne lwashiina ? Inywe simuli ni tsiingo tseenywe , mweesi munyala khuliila ni khunyweela ? Namwe mulekelesa lisaayilo lya Wele , ni khuwambisa tsisoni ibo babakhali ni khakhandu ta ? Inywe mukana ise imbaboolele shiina ? Inywe mukana ise imbabuyile lw'esho ? Taawe ! Shinyala ta .
+46012017a	waheena		Iba nga kumubili kwoosi kukwaba imoni , khali khuwulila khuli waheena ? 
+46012017b	waheena		Namwe iba nga kumubili kwoosi kukwaba khukhuru , khali she khuwunyilisa shili waheena ?
+46012019	waheena		Iba nga byoosi bibyaba shisiintsa shitweela , khali kumubili kuli waheena ?
+46014006	shiina		Ari bebulebe , ise noola niitsa isi muli nga nganikha mu nimi , ndibayeetakho shiina ? Khurusakho nga nabareerere bukwalaafu bweesi Wele amimbuliile , namwe bye khumanya , namwe buŋoosi , namwe shilomo she khubaboolela khukhwama mu ngaaki .
+46014007	aryeena		Namwe ikhaba bibindu bibikhalimo bulamu , n'enga bireera kamakono , nga kumulele , namwe lituungu , ni bilekha khukhwawukhanamwo mu makono nga bikhupa , namwe nga bifuura , umundu amanya aryeena kumweenya ?
+46014008	naanu		N'umundu ufuura ikhoombi ye busoolo , n'alekha khufuura likono lilyeene lilimanyikhana , naanu unyala khukhwirekekhela busoolo ?
+46014009	aryeena		Ni nanywe musaambo iyo , umundu anyala aryeena khumanya byeesi mukanikha , nga abeele bilomo ibyo bye mu lulimi lukyeni sibimanyikhana ta ? Lwekhuba uba nga ukanikha imbewo busa .
+46014015	shiina		Nashiryo , shiina sheesi naakha khukhola ? Kane inoombe ni kumwoyo kwase , ne kane inoombe ni kamakyesi kaase nako . Kane niimbe ni kumwoyo kwase , ne kane niimbe ni kamakyesi kaase nako .
+46014016	aryeena		Lwekhuba iwe n'uba nga uloomba Wele mu mwoyo , umundu uwikhaale esi iwe uli khuloombela , anyala aryeena khukhwiilamo ari , “ Amiina , ” mu khuloombakhwo , ate nga niye s'amanya byeesi ukanikha ta ?
+46014026	shiina		Bebulebe , ari shiina shishiramile khukanikhakho ? Ni muba nga mwabuusaane atweela , buli mundu ali ni kumweenya , n'ukuundi khuleekela , ukuundi khubimbulilwa , n'ukuundi bubakha bwe mu nimi , n'ukuundi khushuusa ibyo bibikanikhibwa . Bino byoosi byaakha khukholewa lwe khuyeeta babandu ba Wele babafukiilila mu Kristo .
+46014036	~		Namwe mwambaasa muri shilomo sha Wele sharakikhila mus'inywe , namwe shoola isiinywe mwenyene ?
+46015012	shiryeena		Ne ari noola shiboolelwa shiri Kristo walamukha khukhwama mu bafu , shinyalikha shiryeena balala khusiinywe khuloma bari mbaawo khulamukha khwe baafu ta ?
+46015029a	~		Ne ni shiba ndi mbaawo khulamukha ta , babandu babatisibwa khulwe baafu , 
+46015029b	baryeena		balikhola baryeena ? 
+46015029c	lwashiina		Ne baafu ni baba nga sibalamusibwa , lwashiina kila babandu babatisibwa khu lwawe ?
+46015030a	~		Ni nafwe fwabeene , 
+46015030b	lwashiina		lwashiina khwiira mu bukosi buli saawa ?
+46015032	shiina		Ise ni nasoolana ni tsisolo mu Efeso nga umundu bundu busa , shiina sheesi nafunamo ? Ne noola baafu sibalamusibwa mu bafu ta , khayo khulye lundi khunywe , lwekhuba kumukaamba ni khufwa .
+46015035a	barye		Ne babaandi banyala bereeba bari , “ Ne baafu balamusibwa barye ? 
+46015035b	kirye		Ni kimibili kyeesi baliba nakyo kilifwana kirye ? ”
+46015055a	ena		“ Iwe khuufwa , khuwula khwoowo khuli ena ? 
+46015055b	ena		Iwe khuufwa , khutsiinisa khwoowo khuli ena ? ”
+47002002	naanu		Lwekhuba n'imba nga imbatsiinisa , naanu uramileyo khukhuntsikhoyesa ise , khurusakho inywe beesi natsiinisa ?
+47002016	Naanu		Isi uyo uhela , khuli khuwunya khwe khuufwa khukhureera khuufwa , ne isi uyo uwonesebwa , khuli khuwunya khwe bulamu , khukhureera bulamu . Naanu unyala walekhaana ni khulaangibwa khuno ?
+47003008	~		Bubwakaanisi bw'Omwoyo sibulifuurisa naabi khuuba ni shiriifwa ?
+47003009	~		Noola bubwakaanisi bubukhureerera kumusaango kwe khuufwa buba ni shiriifwa , ne bubwakaanisi bwe angaaki bubureerera babandu bukwalaafu sibulifuurisa shiriifwa !
+47006014a	buryeena		Inywe mukhetubaasatsaka ni babakhali bafukiilisi ta . Lwekhuba bukwalaafu bunyala buryeena bwetubaasa ni bubwonaki ? 
+47006014b	buryeena		Namwe buwaanga bunyala buryeena khuuba butweela ni shishilima ?
+47006015a	aryeena		Namwe Kristo anyala aryeena khufukiilisana ni Beliyali ? 
+47006015b	aryeena		Ni nooyo ufukiilila anyala aryeena khufukiilisana ni nooyo ukhali umufukiilisi ?
+47006016	liryeena		Namwe lisaayilo likhulu lya Wele linyala liryeena khuwulilisana ni bifwaani bibisaayibwa ? Lwekhuba ifwe khuli lisaayilo likhulu lya Wele Umulamu . Nga Wele n'aloma ari , “ Kane imenye lundi injendatsakile akari mu nibo , imbe Wele wabwe , ni nabo babe babandu baase . ”
+47011011	lwashiina		Ne lwashiina ? Lwekhuba simbakana ta ? Ne Wele wamanya ari ni mbakana .
+47011029a	naanu		Ne naanu umutoro , nase nindekha khuuba umutoro ? 
+47011029b	naanu		Ne naanu ukhaasikha lwe shiibi , nase nalekha khuwamo kumwoyo ?
+47012013	muryeena		Inywe mwafuuribwa muryeena ni bafukiilisi babaandi mu Yesu , khurusakho ndi ise sinabasitowela lwe buyeeti ta ? Ni muntsiyakhile lwe khubonekhela mu shino .
+47012017	naanu		Ne khu babandu beesi nabarumanila , naanu khu nibo isi nabiriramo nio inyoole kamafuurisa mus'inywe ?
+48002014	Lwashiina		Ne ise ni nabona nga sibali khukyeendela mu ntsila iye bukwalaafu nga Kamakhuwa Kamalayi ni kaloma ta , nalomela Petero mu moni tsaawe boosi indi , “ Iwe uli Umuyudaaya , ne ubeele umenya nga Umunaambo , akhuba nga Umuyudaaya ta . Lwashiina uwanyiinya Banaambo khulondelela tsisaambo tse Bayudaaya ? ”
+48003001	Naanu		Inywe Bagalatiya nga muli basilu ! Naanu uwabaloka inywe ? Ise nabokesanisila ilala mu moni tsenywe isaambo isi Yesu Kristo atsangililwa khu musalaba .
+48003019	ena		Aso , ne shitsilililwa she kamakambila nisho shili ena ? Kamakambila kaareebwawo khukhwokesana nga khukhwoneka ni khuli . Nalundi kaabawo khukhwolesa lisaaye lya Ibulayimu lilyalomebwakho ni lyeetsa . Kamakambila kano kaareebwawo ni bamalayika mu mikhono ky'omundu umutubaasi .
+48004009a	muryeena		Ne ari khukhwama nga ni mumanyile Wele , namwe ndi nga Wele n'abamanyile inywe , munyala muryeena khushuukha mwelayo isi kimyoyo kye shitaambi lundi kikikhalimo ta , mwekyela babakaanisi baakyo ? 
+48004009b	~		Mukana ndi mwileyo mubowebwe ni nakyo lundi ?
+48004010	~		Aluno mulikho mulondelela bifukhu bya buraawa , ni kimyeesi , ni bubwiile , ni kimiiko .
+48004015	ena		Ne ari kumwikhoyo kweesi mwabatsaka nakwo , kuli ena ? Iba nga shishanyalikha khali mwarusamo tsimoni tsenywe mutsiimba ise . Ise ndi umujulisi wenywe khu shino .
+48004021	~		Ni mumboolele inywe babakana khuwulibwa ni kamakambila ! Simuwulila sheesi kamakambila kaloma ta ?
+48004030	biryeena		Ne bibyaronebwa biloma biryeena ? Biloma biri : “ Timisa umukhasi umukulwa n'umwana weewe . Khulwekhuba umwana w'omukhasi umukulwa s'aliba umusikha , atweela n'umwana w'omukhasi uwe lukoosi ta . ”
+48005007a	naanu		Inywe mwaba mulikho mutima bulayi busa , ne naanu uwabengiilemo wabakhasisa khuwulila byaŋali ?
+48005007b	~		
+48005011	khulwashiina		Bebulebe , noola ise ishilangilila bye khukhwinjila imbalu , khulwashiina bangubyeenga ise ? Isho shiba shishiili shiryo , khali nga ise ni nangilila khu bye kumusalaba kwa Kristo , khali seshiireera bihangafu byoosi ta .
+49004009	shiina		Ne shimanyisa shiina khuloma ndi , “ Aniina mu ngaaki ? ” Shino sishimanyisa shiri anyoowa weekha asi abweene mwiloba ?
+50001018	shiina		Ne ari shino shimanyisa shiina ? Ari musaambo tsoosi , oba mu khuboolela khulwe bitsiilililwa bibiindi , namwe khulwe muŋali , shitweela busa boosi baboolela bilomo bya Kristo . Ni khulwe lomo nyene iyo , ise ndi umusangaafu . Nalundi , ilala kane niloosele khusangaala .
+50001021	~		Lwekhuba is'ise , khuuba umulamu , niye Kristo , ne khuufwa nikhwo kamafuurisa .
+51002020	lwashiina		Ne noola inywe mwafwa ni Kristo , mwekaana kimyoyo kikiwula shibala , lwashiina ndi mumenya nga babandu be mu shibala ? Lwashiina muwulibwa ni kamakambila nga kakaloma kari :
+52002019	~		Ne kumwiyikino kweefwe nikwo kuli , namwe kumwikhoyo , namwe lihabi lye shiriifwa mu moni ts'Omukasya weefwe Yesu Kristo nga naliitsa ? Simuli nibo inywe , akhuba babandu babandi ta ?
+52003009	shiina		Ari khusiima shiina khweesi khunyala khuuwa lundi Wele khulwenywe , lwe kumwikhoyo kwoosi kweesi khusangaala khulwenywe mu moni tsa Wele weefwe ?
+54003005	aryeena		Lwekhuba , umundu yeesi n'aba nga s'anyala khuulolelela be mungo mweewe bulayi ta , anyala aryeena walolelela lituuli lye babandu babafukiilila mu Wele ?
+54006007a	~		Khulwekhuba mbaawo sheesi ifwe khwareera khu shibala ta , 
+54006007b	~		nalundi imbaawo sheesi ifwe khunyala khurusawo khu shibala ta .
+58001005	~		Lwekhuba mbaawo na mutweela khu bamalayika esi Wele alomakho ari , “ Iwe uli umwana wase , shaleelo nekyelile Papawo ta . ” Namwe lundi mbaawo malayika isi Wele alomakho ari , “ Ise kane imbe papawe , ni naye kane abe Umwana wase ta . ”
+58001013	shiina		Ne malayika shiina yeesi Wele alomakho ari , “ Yikhala khu mukhono kwase kumulayi , khukhwoolesa ni ndikalusa basiku boowo khuuba kharebe kheesi ulaambisakho bikyele byoowo ? ”
+58001014	~		Bamalayika boosi sibali nikyo kimyoyo kikyakaanisa , kikyarumaniwa khukhwakaanisa , lwabo babaatsya khusikhila buwonesi ?
+58002003	khuryeena		Nafwe khulinyala khuryeena khutitukha , noola sikhwinaanayo isi buwonesi bukhulu bufwana buryo ta ? Buwonesi makiboole bwanyoowa khulomewakho n'Umukasya , nio bwaŋaŋasibwa is'ifwe ni naabo babamuwulila .
+58002006a	shiina		Ne aliwo isi umundu mutweela alomela ari , “ Umundu niye shiina , 
+58002006b	~		nio iwe khumushebulila . Namwe Umwana w'Omundu iwe khumwinaanayo ?
+58003016	banaanu		Ne banaanu nibo babaminyaala ni baawulila likono lya Wele ? Akhuba ibo beesi Musa arangilila nga baama i Misiri ta ?
+58003017	Banaanu		Banaanu ndi beesi Wele arunyila khumala kimiiko kamakhumi kane ? Sibali ibo baboneka , ni kimilaambo kyaawe kyasalanisiwila mu mubiimbi ?
+58003018	Banaanu		Nalundi banaanu ndi beesi Wele etsubila ari sibalinjila nakhafwiiti khoosi ta mu shifwo sheesi nandibaweele khuwolelamo , nga akhuba ibo babaminyaala ?
+58006004	~		Lwekhuba shili shihangafu isi ibo babaamala khubonekhelwa , bakhoombakho shiwanwa she mwikulu , bakabananila atweela mu Mwoyo Umukhosefu ,
+58007011	shiina		Ne iba nga bubwitsufu bubweetsila khubirira mu busaayi bwa Levi , ( lwekhuba khukhwimikha khu nibwo babandu baweebwa kamakambila ) , shiina shishekoombisa umusaayi ukuundi wabalikhila mu munyele kwe busaayi kwa Melekizedeki , ne walekha khubalikhila mu munyele kwa Aroni ta ?
+58009014	~		kamafuki ka Kristo umweene uwehaanayo isi Wele mu Mwoyo ukhawawo , nga s'alikho ni lisaanda lyoosi , shikalifuurira ilala khusiinga kimyoyo kyeefwe ni khurusamo bibikholewa bibikhuyila mu khufwa , nio manya nafwe khwisaayatsake Wele weefwe Umulamu ?
+58010001	~		Khukhwama nga kamakambila ka Musa ni kali shishiniini busa she bibindu bibiitsya khwiitsa , akhuba shifwani shisheene shaŋali ta , sikanyala kapyeluusa ibo babeetsa khukhwisaaya ni tsisaayilo tsikhashuukhakho tseesi bawanayo buli busheele , buli mwiiko ta .
+58010029a	shiryeena		Ne shiliiba shiryeena isi mundu ulekelesa Umwana wa Wele , wamura asi ebikyele byeewe ? 
+58010029b	~		Uyo ukhenaanayo khu mafuki ke ndakaano kakamukwalaasa , 
+58010029c	~		nalundi wakhoma Umwoyo we bubweela . 
+58010029d	~		Yambaasa khu shitaambiso shishakhila umundu uyo .
+58011032	shiina		Ne shiina shishiindi sheesi inyala khuloma ? Lwekhuba s'indi ni mbuka ye khukanikha khu Gidioni , namwe khu Baraka , namwe khu Samusoni , namwe khu Yefusa , namwe khu Daudi , namwe khu Samweli , ni khu baŋoosi ta .
+58012007	shiina		Ni mwikhalilikhe byeesi mutaambisibwa nga khulatsakakho , Wele aba ali khubayila inywe nga babaana . Lwekhuba mwana shiina isi papawe akhalatsakakho ?
+58012009	~		Nalundi ifwe khuli ni ba papa beefwe be kumubili babakhulatsakakho , ne khwabesamo shiriifwa . Ne sishifuurisa naabi ifwe khukhwiwaanayo isi Papa we kimyoyo kyeefwe nio khube balamu !
+58012025	~		Ni nashiryo mwitsililise mubone muri , simwikaana byeesi aloma ta . Lwekhuba nga ibo ni bakhanyala khukhwilukha shitaambiso shooyo uwabareewula khu shibala , ne ifwe khulinyala khuryeena khukhwilukha ni khuba nga sikhuwulila khureewula khwooyo khukhwama mwikulu .
+58013006	shiina		Nashiryo , khuloma akhali khukhwikanakana khuri , “ Umukasya niye umuyeeti wase , s'indiiryakho shishindu shoosi ta . N'umundu anyala khukhukholakho ise shiina ? ”
+59002006	~		Ne inywe mwaleekelesa umutaambi . Sibali bayindifu nibo bababamiinilisa inywe ? Sibali nibo bababakhurura babayila mu moni tsaabo babakhala kimisaango ta ?
+59002014	shiina		Bebulebe , shiyeeta shiina , umundu khuloma ari , ali ni khufukiilila , n'enga buraambi bweewe sibwokesanisa shino ta ? Khufukiilila ukhwo khunyala khumuwonisa ?
+59002016a	~		
+59002016b	shiina		shiyeeta shiina umundu uyo , nibawo mutweela khusiinywe umulomela ari , “ N'utsye mu lukoosi , ukware bulayi , lundi ulye bulayi wikure , ” ate nga siwamuweele bibikanibwa mu bulamu ta ?
+59002018	~		Ne umundu ukuundi anyala khuloma ari , “ Iwe uli ni khufukiilila , ne ise ndi ni buraambi bwase . ” N'untsokese khufukiilila khwoowo khukhalikho buraambi , ni nase kane ikhwokese khufukiilila khwase khubirira mu buraambi bwase .
+59002021	~		Umukuuka weefwe Ibulayimu s'abaliwa khuuba umukwalaafu khu lweesho sheesi akhola , nga n'awanayo umwana weewe Isaaka khu sheeso khumwoosha ?
+59003013	Naanu		Naanu mus'inywe uli ni kamakhula ni khumanya ? Noola alimo , n'okesanise bino nga abirira mu bulamu bweewe bukhosefu ni mu buraambi bweewe bulayi bweesi akholela mu buwolu ni kamakhula .
+59003017	~		Ne kamakhula kakaama mwikulu , khunyoowela ilala , kali kamakwalaafu , lundi ke lukoosi , kamawolu , kalimo khukhwimenielesa , kaayiitsula shiisa , nalundi kaayiitsulamo bibindu bibindi bilayi , nga sikalimo khuromboola namwe bubeeyi ta .
+59004001a	waheena		Busoolo bwoosi ni khulomana bibiili mus'inywe , byaama waheena ? Sibyamila mu muluungo kwe khukhwikoomba kukuuli khusoolanila mus'inywe ?
+59004001b	~		
+59004012	naanu		Uwarawo kamakambila , lundi umukayi wako ali mutweela yenyene , nalundi niye unyala khuwonesa namwe khukhwonakisa umundu . Ne iwe niye naanu ukhalila umundu washo kumusaango ?
+59004014	shiina		N'enga simumanya bulamu bweenywe ni bukhaabe kumukaamba ta . Bulamu bweenywe nibwo shiina ? Muli busa nga namufweeli , ubonekha busa imbuka ifwiiti iri , lwanyuma watamuukha wawawo .
+60002020	shiina		Lwekhuba bulayi shiina bweesi unyoola , n'uba nga bakhupile lwe shiibi sheesi ukholele , ne wekhalilikha ? Ne n'utsiinisibwa lwe khukhola bulayi , nalundi wekhalilikha , shino shisiimibwa mu moni tsa Wele .
+60003013	Naanu		Naanu unabakhola buubi ni muba nga mwiwuuma khukhola bulayi ?
+60004017	iryeena		Ari imbuka ye khukhala kimisaango yoolile , ili khuutsya khurakikha ni be muntsu ya Wele . Ne kumusaango ukwo ni kurakikha ni nafwe , intsakamo yaabo babakhawulila kamakhuwa kamalayi , iliiba iryeena ?
+60004018	shiryeena		Nga ni sharonebwa shiri , “ Ni shiba nga shili shihangafu babandu bakwalaafu khuwonesebwa , ne shiliiba shiryeena isi babakharya Wele , babonaki ? ”
+61003004	liina		nga babareeba bari , “ Nga n'aloma ari aliitsa , aliitsa liina ? Khulwekhuba khukhwama nga bakuuka ni baafwa , bibindu byoosi bili nga ni byaba khukhwama shibala ni shibuumbibwa . ”
+61003011	shiina		Ne khukhwama bibindu byoosi ni bilyonakisibwa mu saambo iyo , inywe mwandyakhiile khuuba babandu babaali mu bulamu bwa saambo shiina ? Bulamu bwenywe bwashiile bube bukhosefu nga bulondelela byeesi Wele akana . Nalundi nga mulindilila ni kameelu khukhwoola khwe khukhwiitsa khwe shiriifwa sha Wele .
+62002022	naanu		Ne naanu niye umubeeyi ? Umubeeyi niye umundu uwikaana ari , Yesu s'ali niye Kristo ta . Umundu nga uyo niye umusiku wa Kristo , lundi niye uwikaana Papa n'Umwana .
+62003012	lwashiina		Khulekhe khuuba nga Kayini , uwaba uwa Sitaani , weera wandaaye ta . Ne lwashiina amwiira ? Lwekhuba buraambi bweewe bwaba buubi , ne bwa wandaaye bwaba bulayi .
+62003017	khuryeena		Noola umundu yeesi umuyindifu mu bindu bye shibala abona umundu washe ali mu butaambi walekha khumwinaanayo , walekha khumuyeeta ta , khukana khwa Wele khuba khuryeena mu mundu nga uyo ?
+62004020	~		Umundu yeesi n'aloma ari , “ Ise ngana Wele , ” ne wabiiyila umundu washe , aba umubeeyi . Lwekhuba umundu ukhakana umundu washe isi abonakho ni tsimoni , s'anyala khukana Wele esi akhabonakho ni tsimoni ta .
+62005005	naanu		Ne naanu unyala khuwula shibala , khurusakho uyo ufukiilila ari , Yesu niye Umwana wa Wele ?
+66005002	Naanu		Naabona malayika uwekamaani nga akukuula ni likono lye angaaki , nga aloma ari , “ Naanu uli ni lisuno , unyala khutingula kamafundikho , ekule lupapula lwesi bawulukusile luno ? ”
+66006010a	liina		Abano bayokesa ni likono lye angaaki nga baloma bari , “ Wele Umunyali wa byoosi , iwe uli umukhosefu nalundi uli uwaŋali ! Abo babaali khu shibala babakhwiira ifwe , ulibakhalila liina kumusaango nga wilihasa khufwa khwefwe ? ”
+66006010b	~		
+66006017	naanu		Lwekhuba shifukhu sheesi Wele ni Khasheese batsya khukhwokesanilamo lirima shoolile . Ne naanu unyala wawona shifukhu isho ? ”
+66007013a	banaanu		Kila mutweela khu basakhulu wandeeba shireebo ari , “ Banaanu babakwaarire bikwaaro biwanga bano ? 
+66007013b	~		Wamanyile esi baama ? ”
+66013004a	ena		Babandu besaaya kuuremu khulwekhuba kwaba kwaweele kusolo ukwo bunyala bwakwo . Nalundi besaaya kusolo nga bareeba bari , “ Ufwana nga kusolo kuno ali ena ? 
+66013004b	naanu		Naanu unyala khusoolanisa kusolo kuno ? ”
+66015004a	naanu		Umukasya , naanu ukane alekhe khukhurya iwe , 
+66015004b	~		ni khukhwisamo lisiina lyoowo lukoosi ? Khulwekhuba iwe wenyene niye Umukhosefu . Kamanaambo koosi kaliitsa khukhwisaaya iwe mu moni tsoowo , khulwekhuba iwe wokesanisile bikholwa byoowo bikwalaafu . ’
+66017007	Khulwashiina		Lwanyuma Malayika wanoma ari , “ Khulwashiina wiyaanga ? Kane ikhuboolele shimoonyo sh'omukhasi , ni she solo imusutile ili ni kimirwe musaafu ni tsintsika likhumi .
+66018018	shiina		Ni babona lisuusi lilituukha khukhwama khu mulilo kukwoosha shiriimba , bakukuulila angaaki nga baloma bari , “ Shiriimba shiina shishinyala shalekhaasibwa khu shiriimba shikhulu shino ? ”

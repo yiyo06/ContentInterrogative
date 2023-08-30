@@ -1,0 +1,743 @@
+40002002	Hoto		Nde ɓe ngari ndee , ɓe mbii : — Hoto kaananke Yahuudiyankooɓe dimaaɗo jooni oo woni ? Min njii hoodere makko ɓanngii funnaange , min ngarii sujidande mo .
+40002004	hoto		O noddi hooreeɓe yottinooɓe sadaka ɓee e dunkee'en Sariya ɓee fuu , o lamndii ɗum'en hoto Almasiihu oo foti rimeede .
+40003007	Homo		Nde o yii Farisa'en e Saduki'en heewɓe ana ngara faa lootee lootogal batisima ndee , o wii ɗum'en : — Ɓiɓɓe bolle ! Homo jeertini on ndogon jukkungo waroowo ?
+40005013	koɗum		— Onon ngoni lamɗam aduna oo . Kaa so lamɗam ŋoottii lammude , koɗum lamminta ɗum ? Ɗam nafataa fay huunde ! Ko ɗam waawi waɗeede tan , tippeede sella , yimɓe njaɓɓa ɗam .
+40005046	hendi		So yiɗuɓe on tan njiɗaton , mbarjaari hendi keɓaton hen ? Fay duwaaɲe'en ɓee ana ngaɗira non !
+40005047	koɗum		So sakiraaɓe mooɗon tan njowtaton , koɗum seenndi on e woɓɓe ɓee ? Fay heeferɓe ɓee ana ngaɗira non !
+40006027	Homo		Homo e mon waawi ɓeydude e balɗe mum fay ɲalooma gooto kammari sugulla mum ?
+40006028	Ko waɗi		Ko waɗi so oɗon cuŋlana kaddule ? Ƴeewee piindiiji ley ngesa no peertirta : ɗi tampataa , ɗi mottataa .
+40006031a	Koɗum		Ndennoo , pati cuŋlee faa mbiyon : « Koɗum ɲaamaten ? 
+40006031b	Koɗum		Koɗum njaraten ? 
+40006031c	Koɗum		Koɗum ɓoornoto-ɗen ? »
+40007003	Ko saabii		Ko saabii so aɗa yiya kuɗol ley yitere sakiike maa , tawee aan nee , a yiyataa leggal gonngal e ley nde maa ndee ?
+40007004	Hono		Hono mbaawru-ɗaa wiide sakiike maa : « Sakiike , ɗal mi ittane kuɗol gonngol e yitere maa ngol » , tawee aan nee , leggal woni e ley nde maa ndee ?
+40007009	homo		Homo woni e mon mo ɓiyum ɲaagotoo buuru so hokka ɗum haayre ?
+40007016a	~		Golleeji maɓɓe annditirton ɓe hono no lekki annditirtee ɓiɗɗe mum nii . Peguuje teɓataake e kebbe , 
+40007016b	~		ibbe teɓataake e ɲakkaɓere .
+40008026	Ko		O jaabii ɓe , o wii : — Ko hulɓinta on ? Onon famɗuɓe hoolaare ! E oon wakkati , o immii , o jahii e henndu nduu e ndiyam weendu ɗam . Non fuu wii teen !
+40008027	homo		Haaynii ɓe , eɓe mbiya : — Gorko homo sifa mum wa'i nii , fay kenuuli e ndiyam ana ɗowtanoo ɗum ?
+40008029	ko		Ɓe ndarii eɓe nduka eɓe mbiya : — Ɓii Laamɗo , ko njiɗ-ɗaa waɗude min ? Torrude min waddu maa ɗoo , gila wakkati cartaaɗo oo yottaaki naa ?
+40009004	Koɗum waɗi		O faami miilooji maɓɓe , o wii : — Koɗum waɗi so oɗon miiloo ɗii miilooji bonɗi e ɓerɗe mooɗon ?
+40009005	Koɗum		Wiide « Luutti maa njaafaama » e wiide « Imma yaa » , koɗum hen ɓuri newaade ?
+40009011	Ko saabii		Farisa'en ɓee njii ɗum , ndarii ana mbiya taalibaaɓe makko ɓee : — Ko saabii so moobbo mooɗon ana ɲaamda e duwaaɲe'en , kaɲum e luuttooɓe hono mum'en ?
+40009014	Ko saabii		E oon wakkati , taalibaaɓe Yaayaa ɓattii Iisaa , lamndii mo ɗum ɗoo : — Ko saabii so minen e Farisa'en ɓee miɗen koora kaa taalibaaɓe maa ɓee koorataa ?
+40009015	~		O jaabii ɓe , o wii : — Tama nootiiɓe kuurtungu ana mbaawi ŋoornaade so jommbaajo gorko ana wondi e mum'en ? Kaa ɲalaaɗe ngaran ɗe jommbaajo gorko oo ittetee e hakkunde maɓɓe . E ɗeen ɲalaaɗe , ɓe kooran .
+40010025	~		Ana yiɗaa taalibbo wuurda no moobbo mum wuurdi fuu , maccuɗo duu no kalfaaɗo mum wuurdi . Miin duu , mi noddiraama « Beelsebul » ( hooreejo seyɗaani'en ) , wanaa haala mon onon .
+40011007	Koɗum		Nde nelaaɓe Yaayaa ɓee njahata ndee , Iisaa fuɗɗi haalande jamaa oo haala Yaayaa , o wii : — Koɗum ƴeewoyno-ɗon to ladde jeereende too ? Kuɗol dimmbotoongol e henndu naa ?
+40011008	koɗum		Ndennoo , koɗum ƴeewoyno-ɗon ? Gorko pariiɗo naa ? Pariiɓe e galleeji kaanankooɓe tawetee .
+40011009	koɗum		Ndennoo , koɗum ƴeewoyno-ɗon ? Annabaajo naa ? Goonga ! Miɗo haalana on , omo ɓuri annabaajo .
+40011016	Koɗum		Koɗum mbaaw-mi nanndinde e yimɓe oo jamaanu ? Eɓe nanndi e sukaaɓe jooɗiiɓe e luumooji , ɓee ɗoo ana mbiya ɓee too :
+40012011	mo		O jaabii ɓe , o wii : — So won e mon jogiiɗo mbaalu , so oon mbaalu saamii e luggere ɲalaande fowteteende , wanaa joomum yaltinoyan mo naa ?
+40012026	hono		So Ibiliisa ribbii seyɗaani'en mum , feccii hoore mum . Ndennoo , hono laamu mum heddortoo ?
+40012027	homo		So tawii « Beelsebul » ndibbiran-mi seyɗaani'en , yimɓe mon ɓee nee , homo ndibbirta ɓe ? Yimɓe mon ɓee jaati kollata on ngalaa e goonga !
+40012029	~		Iisaa ɓeydi hen , wii : — Fay gooto waawaa naatude e galle gorko jom semmbe teeta jawdi mum tawee haɓɓaali joomum tafon . Kaa so haɓɓii joomum faa teeŋii , ana waawi naɓude ko woni e galle mum fuu .
+40012034	Hono		Ɓiɓɓe bolle bonɗe ! Hono hen mbaawirton haalde ko moƴƴi tawee on bonɓe ? Sabi ko woni e ɓernde , ɗum yaltata e hunduko .
+40012048a	homo		O jaabii oon neɗɗo , o wii ɗum : — Homo woni innam ? 
+40012048b	Hoɓe		Hoɓe ngoni miɲiraaɓe am ?
+40013010	Koɗum waɗi		Oon wakkati , taalibaaɓe ɓee ɓattii Iisaa lamndii mo , mbii : — Koɗum waɗi so aɗa haaldira e maɓɓe banndi ?
+40013027	Hoto		Maccuɓe ɓee njehi mbiyoyi jom ngesa oo : « Kalfaaɗo , wanaa aawdi lobbiri aawu-ɗaa e ngesa maa ngaa naa ? Hoto koo huɗo bonko iwi ? »
+40013054a	hoto		o hooti ngeenndi ɗo o mawni ɗoo , omo waajoo e suudu maɓɓe waajordu . Haaynii yimɓe hettintooɓe ɓee sanne , ndarii ana mbiya : — Hoto fuu o heɓi ngal anndal ? 
+40013054b	hono		Hono hen o heɓiri baawɗe waɗude ɗii kaayeefiiji ?
+40013056	hoto		Tama wanaa enen e banndiraaɓe makko rewɓe koddi ? Ndennoo , hoto o heɓi ɗum fuu ?
+40014031	Ko saabii		Ɗon e ɗon , Iisaa foocci junngo mum , nanngi mo , wii : — Nii pamɗir-ɗaa hoolaare ? Ko saabii so cikkiti-ɗaa ?
+40015002	Koɗum waɗi		— Koɗum waɗi so taalibaaɓe maa ɓee ana koyna neesuuji njaatiraaɓe meeɗen ɗii ? Sabi ɓe lootataa juuɗe fade maɓɓe ɲaamde .
+40015003	koɗum waɗi		O jaabii ɓe , o wii : — Onon nee , koɗum waɗi so oɗon luutta yamiroore Laamɗo ndee faa njokkon neesu mooɗon ?
+40015033	Hoto		Taalibaaɓe makko ɓee mbii mo : — Hoto fuu keɓaten ko ɲamminen oo jamaa e ley ndee ladde jeereende ?
+40015034	Hono foti		O lamndii ɓe , o wii : — Hono foti buuruuje njogi-ɗon ? Ɓe njaabii mo , ɓe mbii : — Jeɗɗi , kaɲum e liikoy seeɗa min njogii .
+40016008	Ko waɗi		Iisaa anndi ko ɓe kaalata koo , wii ɓe : — Ko waɗi so oɗon kaalda hakkunde mooɗon on njooɓaaki buuru mbiiru-mi non ? Onon famɗuɓe hoolaare !
+40016009	~		Tama faa jooni on paamaali ? Tama on miccitaaki buuruuje joy ɗe njeɗu-mi e ujunaaji njoyon gorko ɗee , e cagiije ɗe kebbin-ɗon kedde ɗee ?
+40016010a	~		Tama on miccitaaki kasen buuruuje jeɗɗi ɗe njeɗu-mi e ujunaaji nay neɗɗo ɗee , 
+40016010b	~		e cagiije ɗe kebbin-ɗon kedde ɗee ?
+40016011	Hono waɗi		Hono waɗi on paamaali wanaa haala buuru kaalanan-mi on ? Ndeentee e ƴuufinirdi Farisa'en e Saduki'en ndii .
+40016013	Homo		Iisaa yehi leydi Kaysariya Filipa . O lamndii taalibaaɓe makko ɓee , o wii : — Homo yimɓe mbiyata Ɓii Neɗɗo oo woni ?
+40016015a	~		O wii ɓe : — Onon nee , 
+40016015b	homo		homo mbiyaton ngon-mi ?
+40016026a	Koɗum		Koɗum heɓude aduna oo fuu nafata neɗɗo , so waasii yonki mum ? 
+40016026b	ko		Won ko neɗɗo waawi hokkitirde faa soottitoo yonki mum naa ?
+40017010	Koɗum waɗi		Caggal ɗum , taalibaaɓe ɓee lamndii mo , mbii : — Koɗum waɗi so dunkee'en Sariya ɓee ana mbiya annabi Iliyaasa haani adaade Almasiihu warde ?
+40017017a	faa mande		O ɓattitii , o wii : — Hey yimɓe jamaanu bonɗo ɓe nganaa goonɗinɓe ! Faa mande tilotoo-mi e mon ? 
+40017017b	faa mande		Faa mande keddotoo-mi muɲande on ? Ngaddanee kam cukalel ngel ɗoo !
+40017019	Koɗum waɗi		Caggal ɗum , taalibaaɓe ɓee teeldi e makko , lamndii mo , mbii : — Koɗum waɗi so min ndonki ittude ndee ladde ?
+40017025a	Koɗum		Piyeer jaabii , wii : — Omo yoɓa . Ko Piyeer naati galle oo koo , fade mum heɓude haala , Iisaa wii : — Simon , koɗum woni miilo maa e ɗum ? 
+40017025b	homo		Kaanankooɓe aduna ɓee , homo ɓe nduuɲata ? Homo ɓe njoɓinta lampo ? Dugule'en naa honaaɓe ?
+40018001	Homo		Oon wakkati , taalibaaɓe ɓee ɓattitii Iisaa , lamndii ɗum , mbii : — Homo ɓuri teddude ley Laamu Laamɗo oo ?
+40018012	Ko		Ko miilaton ? So neɗɗo ana jogii baali teemedere majjiraama mbaalu gooto , yoppataa capanɗe jeenay e jeenay ɗii fuu ana ndura ley ferro , tewtoya majjuɗo oo ?
+40018021	hono foti		Oon wakkati , Piyeer ɓattitii mo , lamndii mo , wii : — Moobbo , cili hono foti kaan-mi yaafaade sakiike am mo ŋoottaali tooɲude kam ? Cili jeɗɗi naa ?
+40019007	Ko saabii		Ɓe lamndii mo , ɓe mbii : — Ko saabii so Muusaa yamiri gorko hokka jom suudu mum talkuru ceergal nde ana seera ɗum ?
+40019016	honde		Gorko gooto ɓattitii Iisaa , lamndii mo , wii : — Moobbo , honde huunde moƴƴunde kaan-mi waɗude faa mi heɓa nguurndam nduumiiɗam ?
+40019017	Ko saabii		Iisaa wii mo : — Ko saabii so laamdi-ɗaa kam ko moƴƴi ? Laamɗo tan woni moƴƴo ! So aɗa yiɗi naatude e nguurndam , jokku sariyaaji ɗii .
+40019018	Hoɗi		Gorko oo lamndii Iisaa , wii : — Hoɗi ngoni sariyaaji ɗii ? Iisaa jaabii , wii : — Pati ɲaaɗu hoore , pati jeenu , pati wujju , pati seeda fenaande ,
+40019020	Koɗum		Suka jokolle oo wii mo : — Miɗo haybi ɗum fuu . Koɗum heddii ?
+40019025	homo		Haaynii taalibaaɓe ɓee sanne nde nani ɗiin haalaaji ndee , ɓe mbii : — Ndennoo , homo woni kisoowo ?
+40019027	Koɗum		Piyeer ɓami haala , wii mo : — Minen , min njoppii fuu , min njokkii e maa . Koɗum min keɓoyta ?
+40020006	Koɗum waɗi		Caggal ɗum , o yalti kasen wakkati laasaraa , o tawi woɓɓe ana ndarii to sakoro too , o wii ɗum'en : « Koɗum waɗi so ɲallu-ɗon ɗoo on ngollaali fay huunde ? »
+40020012	~		eɓe mbiya : « Ɓee ɗoo gollooɓe ngollaali kinaa wakkati gooto tan , ɓe ponndaama e amen njoɓdi , minen nee min ngollii ɲalooma kuurɗo ley ngee naange wulnge ! »
+40020021	Koɗum		Iisaa wii mo : — Koɗum njiɗ-ɗaa ? Debbo oo jaabii mo , wii : — Miɗo yiɗi podaa ɓiɓɓe am worɓe ɗiɗon ɓee njooɗoo bannge maa so a laamiima , gooto wona bannge maa ɲaamo , goɗɗo oo wona bannge maa nano .
+40020032	Koɗum		Iisaa darii , noddi ɓe , wii : — Koɗum njiɗ-ɗon mi waɗana on ?
+40021010	Homo		Nde o naati Urusaliima ndee , yimɓe ɓee fuu keddii ana caaƴa ana mbiya : — Homo woni oo gorko ?
+40021016	ko		Nden ɓe mbii Iisaa : — A nanii ko cukaloy koy kaalata koo ? O wii ɓe : — Mi nanii . Tama on janngaali ɗum ɗoo abada : « A waɗii fay sukaaɓe wadduɓe e muynooɓe ana njette » ?
+40021020	Hono		Haaynii taalibaaɓe ɓee nde njii ɗum ndee , ɓe lamndii mo , ɓe mbii : — Hono hen kii ibbi yoordi wakkati gooto tan ?
+40021023a	ko		Iisaa naati Suudu Dewal Mawndu nduu . Nde mo waajotoo ndee , hooreeɓe yottinooɓe sadaka ɓee e mawɓe Yahuudiyankooɓe ɓee ɓattii mo , lamndii , mbii : — Yamiroore hende ngollirtaa ko ngollataa koo ? 
+40021023b	homo		Kasen , dow yamiroore homo ?
+40021025a	homo		Homo neli Yaayaa loota yimɓe lootogal batisima ? Laamɗo naa yimɓe ? Ɓe ndawridi hakkunde maɓɓe , ɓe mbii : 
+40021025b	~		— So en mbii « Laamɗo » , o wiyan : 
+40021025c	ko saabii		« Ndennoo , ko saabii so on ngoonɗinaali Yaayaa ? »
+40021028	Koɗum		Iisaa ɓeydi hen wii : — Koɗum miilaton e ngol banndol : gorko gooto ana joginoo ɓiɓɓe worɓe ɗiɗon , ɓadii arano oo , wii ɗum : « Ɓinngel am , yaa golloy hannde to ngesa peguuje too . »
+40021031	Homo		Homo e maɓɓe woni jaɓanɗo baam mum ko wii koo ? Ɓe njaabii , ɓe mbii : — Arano oo . Nden , Iisaa wii ɓe : — Miɗo haalana on goonga : duwaaɲe'en ɓee kaɲum e bamfaaji ɗii adoyto on naatude e Laamu Laamɗo oo .
+40021040	hono		Jooni nee , so jom ngesa peguuje oo warii , hono o waɗata remooɓe ɓee ?
+40022012	hono		O wii ɗum : « Giɗam , hono naatir-ɗaa ɗoo tawi a paraaki ? » Kaa oon deƴƴinii .
+40022017	koɗum		Ɗum nee , haalan min koɗum anndu-ɗaa e ɗum ɗoo : ana dagoo min ndokka kaananke Roma mawɗo oo lampo naa dagaaki ?
+40022018	Koɗum waɗi		Kaa Iisaa ana anndi anniyaaji maɓɓe bonɗi ɗii . O wii ɓe : — Onon naafigi'en ! Koɗum waɗi so oɗon tuufana kam ?
+40022020a	homo		O lamndii ɓe , o wii : — Natal homo 
+40022020b	homo		e innde homo woni ɗoo ?
+40022028	homo		Ɲannde immital nee , homo e njeɗɗon ɓee debbo oo laatotoo jom suudu mum ? Sabi ɓe fuu ɓe ɓamiino mo .
+40022036	honde		— Moobbo , honde woni yamiroore ɓurnde fuu teentilaade e ley Tawreeta ?
+40022042a	Koɗum		— Koɗum miilu-ɗon e Almasiihu oo ? 
+40022042b	homo		O taanii homo ? Ɓe njaabii , ɓe mbii : — O taanii Daawuuda .
+40022043	hono		O wii ɓe : — Ndennoo , hono Daawuuda noddirta mo Joomiraaɗo ? Ruuhu Laamɗo anndini mo ɗum , saabe majjum o wii :
+40022045	hono		So Daawuuda ana noddira mo « Joomam » , ndennoo , hono mo laatortoo taanum tan ?
+40023017	Koɗum		Majjuɓe , wumɓe ! Koɗum ɓuri teentilaade : kaŋŋe oo naa Suudu laɓɓinooru kaŋŋe oo nduu ?
+40023019	Koɗum		Wumɓe ! Koɗum hen ɓuri teentilaade : sadaka oo naa ittirde sadaka laɓɓinoore sadaka oo ndee ?
+40023033	Hono		Bolle , ɓiɓɓe posoke ! Hono fuu miilorto-ɗon waasude wedeede e jahannama ?
+40024003a	nde		Nde Iisaa jooɗinoo dow waamnde haayre wiyeteende Jaytun ndee , taalibaaɓe makko ngari e makko kaɲum'en tan , mbii mo : — Humpitin min nde ɗum waɗata . 
+40024003b	homo		Taagumansa homo hollata gartol maa , kaɲum e timmooɗe aduna ?
+40024045	homo		— Ndennoo , homo woni golloowo koolniiɗo , hakkilante ? Oon woni mo kalfaaɗo mum halfini ɗum koreeji mum faa hokka ɗum'en nguure mum'en e wakkati jiɗaaɗo .
+40025037	mande		E oon wakkati , fooccitiiɓe ɓee njaabotoo mo , mbiya : « Joomiraaɗo , mande min njii maa aɗa yolbi , min ɲammin maa naa aɗa ɗomɗi , min njarnu maa ?
+40025038	Mande		Mande min njii maa a koɗo , min njippin maa naa a kolɗo , min koltin maa ?
+40025039	Mande		Mande min njii maa a ɲawɗo naa a uddaaɗo kasu , min ngari ƴeewde ma ? »
+40025044	mande		Nden , ɓe njaaboto mo kamɓe duu ɓe mbiya : « Joomiraaɗo , mande min njii maa aɗa yolbi naa aɗa ɗomɗi naa a koɗo naa a kolɗo naa a ɲawɗo naa aɗa uddaa kasu , min paabaaki ma ? »
+40026008	Ko		Nde taalibaaɓe ɓee njii ɗum ndee , mettaa , ana mbiya : — Ko woni oo bonannda meere meere ?
+40026010	Ko saabii		Iisaa faami ko ɓe kaalannoo koo , wii ɓe : — Ko saabii so oɗon torra oo debbo ? O gollanii kam golle ŋarɗuɗo .
+40026015	Ko		wii ɗum'en : — Ko ndokkaton kam so mi waddanii on Iisaa ? Ɓe njakkii buuɗi capantati cardi , ɓe ndokki mo .
+40026017	Hoto		E ɲalooma arano iidi mo buuru ƴuufinaaka , taalibaaɓe ɓee ngari , lamndii Iisaa , mbii ɗum : — Hoto njiɗ-ɗaa min lanndinoyoo hiraande iidi Paska ndee ?
+40026040	~		O warti , o tawi eɓe ɗaanii . O wii Piyeer : — On mbaawaa jeertodaade e am tawee on ɗaanaaki fay wakkati gooto naa ?
+40026050	ko		Iisaa jaabii mo , wii : — Giɗam , waɗu ko waddu maa koo . E oon wakkati , ɓe ɓattitii , ɓe njani e Iisaa , ɓe nanngi ɗum .
+40026054	hono		Kaa so non laatorii , hono ko winndaa ley Binndi ɗii koo tabitirta ? Sabi ɗi mbii hono non ɗum laatotoo .
+40026062a	~		Jottinoowo Sadaka Mawɗo oo immii , wii Iisaa : — A jaabataako fay huunde naa ? 
+40026062b	ko		Tama a nanaali ko ɓe mbiyete koo ?
+40026065	~		E ley ɗum , Jottinoowo Sadaka Mawɗo oo mettaa faa seeki kaddule mum , wii : — O bonkike Laamɗo ! En kaajaaka seedee'en hankasen ! On narrii noppi mooɗon ko o bonkii Laamɗo koo .
+40026066	Koɗum		Koɗum njii-ɗon hen ? Ɓe njaabii , ɓe mbii : — Omo haani wareede .
+40026068	~		ana mbiya : — Almasiihu ! Haalan min piiɗo ma , so a annabaajo .
+40027004	Ko		wii ɗum'en : — Mi luuttii ko njammbii-mi mo wiyaali waɗaali oo koo ! Nii ɓe njaabii mo , ɓe mbii : — Ko hilli min ? Aan anndi !
+40027013	ko		Ɗum waɗi so Pilaatu wii mo : — A nanaali ko ɓe ceettante koo fuu naa ?
+40027017	homo		E ley no jamaa oo mooɓtorii nii , Pilaatu lamndii ɓe , wii : — Homo njiɗ-ɗon mi yoppitana on : Iisaa Barabas naa , naa Iisaa biyeteeɗo Almasiihu oo ?
+40027021	Homo		Goforneer oo lamnditii ɓe : — Homo e ɗiɗon ɓee njiɗ-ɗon mi yoppitana on ? Ɓe njaabii , ɓe mbii : — Barabas !
+40027022	hono		Pilaatu lamndii ɓe , wii : — Ndennoo , hono ngaɗan-mi Iisaa biyeteeɗo Almasiihu oo ? Ɓe fuu ɓe njaabii , ɓe mbii : — Tontu mo e leggal bardugal !
+40027023a	~		O lamndii ɓe , o wii : 
+40027023b	Koɗum		— Koɗum o waɗi ko boni ? Ɓe ɓeydii dukude semmbe , eɓe mbiya : — Tontu mo e leggal bardugal !
+40027046	Koɗum waɗi		Banngal yamnde tati kiikiiɗe , Iisaa wulli wullaango toowngo , wii : — Eli , Eli , lama sabaktanii ? ( Ɗum woni : « Laamɗo am , Laamɗo am ! Koɗum waɗi so njoppu-ɗaa kam ? » )
+41001024	koɗum		wii : — Iisaa Nasaraatunke oo , koɗum hillu maa e amen ? A garɗo halkude min naa ? Miɗo anndi ko ngon-ɗaa , a ceniiɗo iwruɗo to Laamɗo !
+41001027	Ko ɗum		Jamaa oo fuu haaynaa , hedde ana lamndondira : — Ko ɗum woni ? Ɗum anndal kesal koy ! Omo yamira fay seyɗaani'en ɓee , ɓe ɗowtanto mo .
+41002007a	hono		« Hono oo gorko haaldi ɗum ? O bonkike Laamɗo ! 
+41002007b	homo		Homo waawi yaafaade luutti so wanaa Laamɗo gooto oo ? »
+41002008	Koɗum waɗi		Iisaa faami ɗon e ɗon miilooji maɓɓe , wii ɓe : — Koɗum waɗi so oɗon miiloo miilooji baaɗi nii e ɓerɗe mooɗon ?
+41002009	koɗum		Wiide bonnguujo « Luutti maa njaafaama » e wiide ɗum « Imma , ɓam dengeleewo maa njahaa » , koɗum hen ɓuri newaade ?
+41002016	Ko saabii		Dunkee'en Sariya jeyaaɓe e waalde Farisa'en njii Iisaa ana ɲaamda e ɓeen yimɓe , mbii taalibaaɓe makko ɓee : — Ko saabii so omo ɲaamda e duwaaɲe'en , kaɲum e luuttooɓe hono mum'en ?
+41002018	Ko saabii		Taalibaaɓe Yaayaa e Farisa'en ana koora . E ley ɗum , yimɓe ngari , lamndii Iisaa : — Ko saabii so taalibaaɓe Yaayaa e taalibaaɓe Farisa'en ana koora , kaa ɓe maa ɓee koorataa ?
+41002019	~		O jaabii ɓe , o wii : — Nootiiɓe kuurtungu ana mbaawi salaade ɲaamde tawa jommbaajo gorko oo ana wondi e mum'en naa ? Mbaawaa . So nii jommbaajo gorko oo ana wondi e maɓɓe , ɓe mbaawaa salaade ɲaamde .
+41002024	koɗum waɗi		E ley ɗum , Farisa'en ɓee mbii mo : — Ƴeew , koɗum waɗi so taalibaaɓe maa ɓee ana ngolla ko dagaaki gollude ɲalaande fowteteende ?
+41003004	~		Caggal ɗum , o lamndii ɓe : — E ley ɲalaande fowteteende ana dagoo gollude ko moƴƴi naa gollude ko boni ? Danndude neɗɗo naa warde ɗum ? Kaa ɓe njaabaaki .
+41003023	Hono		E ley ɗum , Iisaa noddi ɓe ɓe ngara e mum , haalaniri ɓe banndol , wii : — Hono Ibiliisa waawirta ribbude Ibiliisa ?
+41003033a	homo		O jaabii , o wii : — Homo woni innam 
+41003033b	~		e miɲiraaɓe am ?
+41004013	Hono		O wii ɓe : — On paamaali ngol banndol naa ? Hono paamirton banndi goɗɗi ɗii fuu ndennoo ?
+41004030a	Koɗum		O jokkini hen : — Koɗum nanndinten e Laamu Laamɗo oo ? 
+41004030b	hongol		Banndol hongol mbanndirten mo ?
+41004038	~		Kanko , omo ɗaanii to laaci laana too , omo wawlii mbawlu . Ɓe pinndini mo , ɓe mbii mo : — Moobbo , tama ko min kalkotoo koo wemmbaali ma ?
+41004040a	ko saabii		Caggal ɗum , o wii ɓe : — Ko saabii so kul-ɗon ? 
+41004040b	~		Faa hannde on ngalaa hoolaare naa ?
+41004041	Homo		Ɓe kuli kulol cattungol hedde eɓe mbiyondira : — Homo oo gorko woni faa henndu e ndiyam ana ɗowtanoo ɗum ?
+41005007	koɗum		o wulli faa toowi , o wii : — Iisaa Ɓii Laamɗo Toowɗo , koɗum njiɗ-ɗaa waɗude kam ? Mi surdii ma saabe Laamɗo , pati torram !
+41005009	Hono		Iisaa lamndii mo , wii : — Hono mbiyete-ɗaa ? O jaabii , o wii : — Miɗo wiyee jamaa , sabi miɗen keewi .
+41005030	Homo		Oon wakkati fuu , Iisaa maati won semmbe iwi e mum , yeeccitii hakkunde jamaa oo , wii : — Homo memi saaya am ?
+41005031	Homo		Taalibaaɓe makko ɓee mbii mo : — A yii jamaa annii ɓillu maa , aɗa lamndoo : « Homo memi kam ? »
+41005035	ko		O tilaaki haalde , faa won iwruɓe to suudu Jayrus hooreejo waajordu oo , mbii ɗum : — Ɓiya oo heddaaki . Fotaa ko tampinaa Moobbo oo hankasen !
+41005039a	ko		Nde o naatunoo ndee , o wii ɓe : — Ko woni ɗii bojji 
+41005039b	~		e ɗii ɲonaali ? Suka oo maayaali , o ɗaaniiɗo tan .
+41006002a	hoto		Nde ɲalaande fowteteende yottinoo ndee , o fuɗɗi waajaade ley suudu waajordu nduu . Nanɓe waaju makko ɓee kaaynaa , hedde ana mbiya : — Hoto o heɓi ɗum ? 
+41006002b	hono		Hono o heɓiri oo hakkille ? Ƴee ! 
+41006002c	hono		Hono neɗɗo waawiri waɗirde ɗii kaayeefiiji ?
+41006022	ko		Ɓii Hirudiya debbo naati ana woma . Ɗum weli Hirudus e nootiiɓe ɗum ɓee fuu . O wii suka debbo oo : — Haalanam ko njiɗ-ɗaa faa mi waɗane .
+41006024	Koɗum		E ley ɗum , suka debbo oo yalti , wii inna mum : — Koɗum kaan-mi ɲaagaade ? Inniraaɗo oo jaabii mo , wii : — Ɲaaga mo hoore Yaayaa mo lootogal batisima oo !
+41006037	~		O jaabii ɓe , o wii : — Onon e ko'e mooɗon , ndokkee ɓe ko ɓe ɲaama ! Non ɓe lamndii mo , ɓe mbii : — Ndennoo aɗa yiɗi min ɓama buuɗi cardi teemeɗe ɗiɗi min coodanoya ɓe buuru ko ɓe ɲaama ?
+41006038	Hono foti		E oon wakkati , o wii ɓe : — Hono foti buuruuje njogi-ɗon ? Njehee ƴeewoyee ! Nde ɓe njehi ɓe kumpitoyii ndee , ɓe mbii mo : — Buuruuje joy e liɗɗi ɗiɗi min njogii .
+41007005	Koɗum waɗi		E oon wakkati , Farisa'en e dunkee'en Sariya lamndii Iisaa , mbii : — Koɗum waɗi so taalibaaɓe maa ɓee ana mbaasa rewde neesuuji njaatiraaɓe meeɗen ɗii , ana ɲaamira juuɗe coɓuɗe ?
+41008004	Hoto		Taalibaaɓe makko ɓee njaabii mo , mbii : — Hoto fuu keɓaten ko ɲamminen ɓe e ley ndee ladde jeereende ?
+41008005	Hono foti		O lamndii taalibaaɓe makko ɓee , o wii : — Hono foti buuruuje njogi-ɗon ? Ɓe mbii mo : — Buuruuje jeɗɗi min njogii .
+41008012	Koɗum waɗi		Iisaa uumi , wii : — Koɗum waɗi so oo ɗoo jamaanu ana ndaara holleede taagumansa ? Miɗo haalana on goonga : fay taagumansa gooto mo heɓataa !
+41008017	Ko waɗi		Iisaa anndi ko ɓe kaalata koo , wii ɓe : — Ko waɗi so oɗon kaalda hakkunde mooɗon on njooɓaaki buuru ? Tama faa jooni on paamataa ? Naa on wumɓe ɓerɗe ?
+41008018a	~		Oɗon njogii gite , on njiyataa naa ? 
+41008018b	~		Oɗon njogii noppi , on nanataa naa ? Tama on miccitaaki
+41008019	hono foti		nde njeɗu-mi ujunaaji njoyon gorko buuruuje joy ndee , cagiije hono foti kebbin-ɗon kedde ? Ɓe njaabii mo , ɓe mbii : — Cagiije sappo e ɗiɗi .
+41008020	hono foti		O lamndii ɓe kasen , o wii : — Nde njeɗu-mi ujunaaji nay neɗɗo buuruuje jeɗɗi ndee , cagiije hono foti kebbin-ɗon kedde ? Ɓe njaabii mo , ɓe mbii : — Cagiije jeɗɗi .
+41008021	~		Nden , o wii ɓe : — Faa jooni on paamataa naa ?
+41008023	ko		O nanngi bumɗo oo , o renni ɗum ngeenndi ndii . Caggal ɗum , o sirƴi e gite mum , o fawi juuɗe makko e mum , o lamndii ɗum , o wii : — Won ko njiyataa naa ?
+41008027	Homo		Caggal ɗum , Iisaa e taalibaaɓe mum pahi geelle ɓadaangal Kaysariya Filipa . O lamndii ɓe ɗum ɗoo e laawol : — Homo yimɓe mbiyata ngon-mi ?
+41008029a	~		O lamndii ɓe , o wii : — Onon nee , 
+41008029b	homo		homo mbiyaton ngon-mi ? Piyeer jaabii mo , wii : — Aan woni Almasiihu .
+41008036	Koɗum		Koɗum heɓude aduna oo fuu nafata neɗɗo so tawii waasii yonki mum ?
+41008037	ko		Won ko neɗɗo waawi hokkitirde faa soottitoo yonki mum naa ?
+41009010	koɗum		Ɓe njaɓii konngol ngol , kaa ɓe ndarii eɓe lamndondira e ko'e maɓɓe koɗum woni maanaa wuurtude e hakkunde maayɓe .
+41009011	Koɗum waɗi		Caggal ɗum , ɓe lamndii mo , ɓe mbii : — Koɗum waɗi so dunkee'en Sariya ɓee ana mbiya annabi Iliyaasa haani adaade Almasiihu warde ?
+41009012	Ko saabii		O jaabii ɓe : — Goonga , Iliyaasa adotoo warde tafon moƴƴintinde kulle ɗee fuu . Ndennoo ko saabii so Binndi ɗii mbii ana tilsi Ɓii Neɗɗo torree torraaji keewɗi , hoynee ?
+41009016	Koɗum		O lamndii ɓe , o wii : — Koɗum njeddondirton e maɓɓe ?
+41009019a	faa mande		Iisaa wii yimɓe ɓee : — Hey yimɓe jamaanu jooni ɓe nganaa goonɗinɓe ! Faa mande tilotoo-mi e mon ? 
+41009019b	faa mande		Faa mande keddotoo-mi muɲande on ? Ngaddanee kam suka oo !
+41009021	gila mande		Iisaa lamndii baaba suka oo , wii : — Gila mande ɗum heɓi mo ? Baaba oo jaabii , wii : — Gila omo famɗi .
+41009028	Koɗum waɗi		Nden Iisaa naati suudu , taalibaaɓe mum ɓee teeldi e mum , lamndii ɗum , mbii : — Koɗum waɗi so min ndonki ribbude ladde ndee ?
+41009033	Koɗum		Ɓe njottii Kafarnahum . Nde ɓe njippinoo e galle ndee , o lamndii taalibaaɓe makko , o wii : — Koɗum njeddondir-ɗon e laawol ngol ?
+41009050	koɗum		Lamɗam yo huunde lobbere , so lamɗam ŋoottii lammude , koɗum lamminta ɗum ? Ngaɗee lamɗam e mooɗon , moƴƴondiron .
+41010003	Koɗum		O jaabii ɓe : — Koɗum Muusaa yamiri on ?
+41010017	koɗum		Nde Iisaa nanngunoo laawol ndee , gorko gooto dogani mo , diccii yeeso makko , lamndii mo , wii : — Moobbo moƴƴo , koɗum kaan-mi waɗude faa mi heɓa nguurndam nduumiiɗam ?
+41010018	Ko saabii		Iisaa wii mo : — Ko saabii so aɗa noddira kam moƴƴo ? Moƴƴo walaa so wanaa gooto , oo woni Laamɗo .
+41010026	homo		Taalibaaɓe ɓee ɓeydii mugeede , hedde ana lamndondira e ko'e mum'en ana mbiya : — Ndennoo , homo woni kisoowo ?
+41010036	Koɗum		O wii ɓe : — Koɗum njiɗ-ɗon mi waɗana on ?
+41010051	Koɗum		Iisaa lamndii mo , wii : — Koɗum njiɗ-ɗaa mi waɗane ? Bumɗo oo jaabii mo , wii : — Moobbo , mi hewta gite am .
+41011003	ko		So won biiɗo on ko ngatton nga , njaabo-ɗon Moobbo ana haajaa nga . Ɗon e ɗon on njoppete ngaddon nga .
+41011005	Koɗum		Yoga e darinooɓe ɗon ɓee lamndii ɓe : — Koɗum ngollaton ɗoo ? Ko kumtirton mola ngaa ?
+41011028a	hende		lamndii mo : — Yamiroore hende ngollirtaa ko ngollataa koo ? 
+41011028b	homo		Homo yamir maa ngollaa ɗum ?
+41011030	~		Lootogal batisimaYaayaa ngal to Laamɗo iwri naa to yimɓe ? Njaabee kam !
+41011031a	~		Ɓe ndawridi hakkunde maɓɓe , ɓe mbii : — So en mbii to Laamɗo , o wiyan : 
+41011031b	ko saabii		« Ndennoo ko saabii so on ngoonɗinaali Yaayaa ? »
+41012009	hono		Jooni nee , hono jom ngesa oo waɗata ? O waran , o halka remooɓe ɓee , o hasira ngesa ngaa woɓɓe .
+41012015	Koɗum waɗi		Nde wonnoo omo anndi naafigaaku maɓɓe , o wii ɓe : — Koɗum waɗi so oɗon tuufana kam ? Ngaddanee kam mbuuɗu cardi faa mi yiya ɗum .
+41012016a	homo		Ɓe ngaddani mo . O lamndii ɓe : — Natal homo 
+41012016b	homo		e innde homo woni ɗoo ? Ɓe mbii mo : — Kaananke Roma .
+41012023	homo		Ndennoo , ɲannde immital , homo e maɓɓe debbo oo laatotoo jom suudu mum ? Sabi ɓe njeɗɗon fuu ɓe ɓamiino mo !
+41012028	honde		Dunkee Sariya gooto ɓattitii Iisaa , nani jeddondiral maɓɓe , nani o jaabike Saduki'en ɓee faa gasi , lamndii mo : — Jamirooje ɗee fuu , honde ɓuri teentilaade ?
+41012035	Hono		Nde Iisaa waajotoo ley Suudu Dewal Mawndu ndee , wii : — Hono dunkee'en Sariya ɓee mbaawiri wiirude Almasiihu oo yo taanii Daawuuda tan ?
+41012037	hono		Daawuuda e hoore mum « Joomam » noddirta mo . Ndennoo , hono o laatortoo taanum tan ? No Iisaa daalorii jamaa oo banngal dunkee'en Sariya Jamaa keewɗo ana hettiranoo Iisaa seyo .
+41013004a	nde		— Humpitin min nde ɗum waɗata . 
+41013004b	homo		Taagumansa homo hollata waɗugol kuɗɗe ɗee fuu ?
+41014004	koɗum		Yoga e wonnooɓe ton ɓee mettaa , mbiyondiri e ko'e mum'en : — Bonnude ɗam nebam , koɗum nafata ?
+41014006	Ko saabii		Kaa Iisaa wii : — Celee e makko ! Ko saabii so oɗon torra mo ? Golle makko ŋarɗii sanne .
+41014012	Hoto		Ɲalooma arano iidi mo buuru ƴuufinaaka , nde ɓe mboownoo hirsude jawɗi Paska ndee , taalibaaɓe Iisaa lamndii ɗum , mbii : — Hoto njiɗ-ɗaa min njaha min lanndinanoye hiraande iidi Paska ndee ?
+41014014	hondu		Galle mo o naati fuu , mbiyon jom galle oo : « Moobbo wii suudu hondu ɲaamdata e taalibaaɓe mum ɓee hiraande iidi Paska ? »
+41014060a	ko		Jottinoowo Sadaka Mawɗo oo darii hakkunde jamaa oo , lamndii Iisaa : — Walaa ko njaaboto-ɗaa naa ? 
+41014060b	ko		Tama a nanaali ko ɓe mbiyete koo ?
+41014063	~		E ley ɗum , Jottinoowo Sadaka Mawɗo oo mettaa faa seeki kaddule mum , wii : — En kaajaaka seedee'en hankasen .
+41014064	Koɗum		On narrii noppi mooɗon ko o bonkii Laamɗo koo . Koɗum njii-ɗon hen ? Ɓe fuu ɓe mbii omo haani wareede .
+41015004	ko		Pilaatu lamndii mo kasen : — Walaa ko njaaboto-ɗaa naa ? A nanaali ko ɓe ngullani maa koo fuu naa ?
+41015012	koɗum		Pilaatu jaabii kasen , wii ɓe : — Ndennoo , koɗum njiɗ-ɗon mi waɗa mo mbiyaton kaananke Yahuudiyankooɓe oo ?
+41015014a	~		Pilaatu lamndii ɓe : — 
+41015014b	Koɗum		Koɗum o waɗi ko boni ? Ɓe ɓeydi dukude semmbe : — Tontu mo e leggal bardugal !
+41015034	Koɗum waɗi		E ley yamnde tati kiikiiɗe ndee , Iisaa wulli wullaango toowngo , wii : — Eloyi , eloyi , lama sabaktanii ? ( Ɗum woni : « Laamɗo am , Laamɗo am ! Koɗum waɗi so njoppu-ɗaa kam ? » )
+41016003	Homo		Ɓe ndarii eɓe mbiyondira : — Homo tallitanta en haayre ndee iwa e damal yanaande ndee ?
+42001018	hono		Jakariyaa lamndii malaa'ika oo , wii : — Hono hen anndiran-mi ɗum goonga ? Sabi miin mi naywii , jom suudu am oo duu waɗii duuɓi .
+42001034	Hono		Mariyama wii malaa'ika oo : — Hono ɗum laatortoo , mi anndaa gorko ?
+42001043	ko		Miin , ko ngon-mi faa inna Joomam naata galle am ?
+42001066	Koɗum		Nanɓe ɗum ɓee fuu ndesi ɗum e hakkillaaji mum'en , ana mbiya : « Koɗum ngel cukalel foti laataade ? » Sabi ɓe njii baawɗe Joomiraaɗo ana e maggel .
+42002048	Ko saabii		Nde saaraaɓe makko njiiti mo ndee , kaayɗe nanngi ɗum'en . Inna makko wii mo : — Ɓinngel am , ko saabii so ngaɗu-ɗaa min nii ? Miin e baaba maa fuu , min cuŋlii e tewtude ma .
+42002049	Koɗum waɗi		O jaabii , o wii : — Koɗum waɗi so oɗon tewta kam ? Tama on anndaa ana tilsi mi wona e suudu Baabiraaɗo am ?
+42003007	Homo		Yimɓe heewɓe ana ngarannoo to Yaayaa faa lootee lootogal batisima . Kaa omo wiya ɓe : — Ɓiɓɓe bolle ! Homo jeertini on ndogon jukkungo waroowo ?
+42003010	Koɗum		Yimɓe ɓee lamndii mo , mbii : — Koɗum min kaani waɗude ?
+42003012	koɗum		Duwaaɲe'en ngari kaɲum'en duu faa lootee lootogal batisima , mbii mo : — Moobbo , koɗum min kaani waɗude ?
+42003014a	~		Sordaasi'en lamndii mo kaɲum'en duu , mbii : 
+42003014b	Koɗum		— Minen nee , koɗum min kaani waɗude ? O wii ɓe : — Pati ngarɲee fay gooto , pati kappee fay gooto fenaande , keɲɲitoree njoɓdi mon .
+42004034	koɗum		— Iisaa Nasaraatunke oo , koɗum hillu maa e amen ? A garɗo halkude min naa ? Miɗo anndi ko ngon-ɗaa , a ceniiɗo iwruɗo to Laamɗo !
+42004036	Ko		Ɓe fuu ɓe kaaynaa , hedde eɓe lamndondira hakkunde maɓɓe : — Ko kaa haala woni ? Seyɗaani'en ɓee , omo yamira ɓe semmbe e doole ɓe njaltan !
+42005021a	homo		Dunkee'en Sariya ɓee e Farisa'en keddii miilde ana mbiya e ko'e mum'en : « Oo homo bonkotoo Laamɗo ? 
+42005021b	homo		Homo waawi yaafaade luutti so wanaa Laamɗo gooto oo ? »
+42005022	Koɗum waɗi		Iisaa faami miilooji maɓɓe , jaabii ɓe , wii : — Koɗum waɗi so oɗon miiloo miilooji baaɗi nii e ɓerɗe mon ?
+42005023	koɗum		Wiide : « Luutti maa njaafaama » e wiide : « Imma yaa » , koɗum hen ɓuri newaade ?
+42005030	Ko saabii		Farisa'en e dunkee'en Sariya mum'en keddii ana ŋurŋurta , ana mbiya taalibaaɓe makko ɓee : — Ko saabii so oɗon ɲaamda oɗon njarda e duwaaɲe'en , kaɲum e luuttooɓe hono mum'en ?
+42005033	hono		Ɓe mbii mo : — Taalibaaɓe Yaayaa ana koora ana ngaɗa duwaawu wakkati fuu , hono non taalibaaɓe Farisa'en ɓee duu ngaɗata . Kaa ɓe maa ɓee , ana ɲaama ana njara .
+42005034	~		O wii ɓe : — Oɗon mbaawi hoorinde nootiiɓe kuurtungu , tawa jommbaajo gorko ana wondi e mum'en naa ?
+42006002	Ko saabii		Kaa yoga e Farisa'en mbii ɓe : — Ko saabii so oɗon ngolla ko dagaaki gollude ɲalaande fowteteende ?
+42006009	~		Caggal ɗum , Iisaa wii ɓe : — Miɗo lamndoo on : e ley ɲalaande fowteteende ana dagoo gollude ko moƴƴi naa gollude ko boni ? Danndude neɗɗo naa halkude ɗum ?
+42006032	hongal		So yiɗuɓe on tan njiɗaton , ɓural hongal keɓaton ? Fay luuttooɓe ana njiɗi yiɗuɓe ɗum'en .
+42006033	hongal		So waɗanooɓe on moƴƴere tan ngaɗanton moƴƴere , ɓural hongal keɓaton ? Fay luuttooɓe ɓee hono non ngaɗata .
+42006034	hongal		So ɓe miil-ɗon heɓude e mum tan ɲamloto-ɗon , ɓural hongal keɓaton ? Fay luuttooɓe ɓee ana ɲamloo luuttooɓe hono mum'en , yalla ana njoɓee ɲamaande mum'en .
+42006039	hono		O ɓeydani ɓe hen banndol gonngol , o wii : — Bumɗo ana waawi ɗowde bumɗo hono mum naa ? So ɗum waɗii , wanaa ɓe ɗiɗon fuu , ɓe caaman ley ngaykaare naa ?
+42006041	Ko saabii		Ko saabii so aɗa yiya kuɗol ley yitere sakiike maa , tawee aan nee , a yiyataa leggal gonngal e ley nde maa ndee ?
+42006042	Hono		Hono mbaawru-ɗaa wiide sakiike maa : « Sakiike , ɗal mi ittane kuɗol gonngol e yitere maa ngol » , tawee aan nee , a maatataa leggal gonngal e ley nde maa ndee ? Naafigi , ittu leggal gonngal e yitere maa ngal tafon , nden jiile maa laaɓata , faa keɓaa no ittiraa kuɗol gonngol e yitere sakiike maa ngol .
+42006046	Ko saabii		— Ko saabii so oɗon noddira kam « Moobbo » , kaa on ngaɗataa ko mbii-mi ?
+42007024	Koɗum		Nde nelaaɓe ɓee kooti ndee , Iisaa fuɗɗi haalande jamaa oo haala Yaayaa , o wii : — Koɗum ƴeewoyno-ɗon to ladde jeereende too ? Kuɗol dimmbotoongol e henndu naa ?
+42007025	Koɗum		Koɗum ƴeewoyno-ɗon ? Neɗɗo pariiɗo naa ? Ɓoornotooɓe kaddule lobbe so nguura nguurndam lobbam ɓee , e cuuɗi kaanankooɓe tawetee .
+42007026	Koɗum		Koɗum ƴeewoyno-ɗon ndennoo ? Annabaajo naa ? Goonga ! Miɗo haalana on , omo ɓuri annabaajo .
+42007031a	koɗum		Ndennoo , koɗum nanndinan-mi e yimɓe oo jamaanu ? 
+42007031b	Hoɓe		Hoɓe ɓe nanndi ?
+42007042	homo		Kaa nde mo anndunoo ɓe ngalaa ko ɓe njoɓira mo ndee , o yaafii ɓe ɗiɗon fuu . Jooni , homo e maɓɓe ɓuri yiɗude mo ?
+42007049	Homo		Ɲaamdannooɓe e makko ɓee ana mbiya e ko'e mum'en : « Homo woni oo gorko jaafotooɗo fay luutti ? »
+42008025a	hoto		Caggal ɗum , o wii ɓe : — Hoto hoolaare mon woni ? Ɓe kuli , ɓe cuŋli , eɓe mbiyondira e ko'e maɓɓe : — 
+42008025b	ko		Ko oo gorko woni ? Omo yamira fay henndu e ndiyam , ɗi ɗowtanto mo .
+42008028	ko		Nde o yii Iisaa ndee , o wulli , o diccii yeeso mum , o haali faa toowi , o wii : — Iisaa , Ɓii Laamɗo Toowɗo , ko njiɗ-ɗaa waɗude kam ? Miɗo ɲaage , pati torram .
+42008030	Hono		Iisaa lamndii mo , wii : — Hono mbiyete-ɗaa ? O jaabii : — Miɗo wiyee « Jamaa » . O wii ɗum non , sabi seyɗaani'en heewɓe ana ngondi e makko .
+42008045	Homo		Iisaa wii : — Homo memi kam ? Kaa nde wonnoo fay gooto jaabaaki , Piyeer wii : — Moobbo , hakkunde yimɓe ngon-ɗaa , eɓe ɓillu maa .
+42009009a	homo		Kaa Hirudus wii : — Mi taƴii hoore Yaayaa . Homo woni oo mo nanan-mi baaɗo 
+42009009b	hono		hono nii ? Omo tewta yiide ɗum .
+42009018	Homo		Ɲannde wootere omo teeldi e taalibaaɓe makko , omo waɗa duwaawu , kanko tan . O lamndii ɓe , o wii : — Homo yimɓe mbiyata ngon-mi ?
+42009020a	~		O lamndii ɓe : — Onon nee , 
+42009020b	homo		homo mbiyaton ngon-mi ? Piyeer jaabii mo , wii : — A Almasiihu Laamɗo !
+42009025	Koɗum		Koɗum heɓude aduna oo fuu nafata neɗɗo so halkii yonki mum naa mursii hoore mum ?
+42009041a	faa mande		Iisaa jaabii , wii : — Hey yimɓe jamaanu bonɗo ɓe nganaa goonɗinɓe . Faa mande tilotoo-mi e mon ? 
+42009041b	faa mande		Faa mande keddotoo-mi muɲande on ? Ɓattin ɓiya oo ɗoo !
+42010025	hono		Non , jannginoowo Sariya gooto immii faa hora mo , wii : — Moobbo , hono kaan-mi waɗude faa mi heɓa nguurndam nduumiiɗam ?
+42010026a	Koɗum		Iisaa jaabii mo , wii : — Koɗum winndii e Sariya ? 
+42010026b	Koɗum		Koɗum njanngu-ɗaa ton ?
+42010029	Homo		Kaa jannginoowo Sariya oo ana yiɗi heedude e goonga , wii mo : — Homo woni tanaa am ?
+42010036a	~		Nde Iisaa tilii banndol ngol ndee , wii : — E miilo maa , 
+42010036b	homo		homo e taton ɓee laatii tanaa janaaɗo oo ?
+42011008	~		Miɗo wiya on : fay so o immaaki o hokkire saabe a giɗo makko , waajibi mo immoo , mo hokke hakke ko kasindin-ɗaa e mum fuu , kammari ko tekkin-ɗaa ɲaagunde maa ndee koo .
+42011011	Homo		Homo woni e mon baabiraaɗo mo ɓiyum ɲaagotoo liingu so hokka ɗum mboddi ?
+42011012	~		Naa ɲaagoo ɗum ɓoccoonde , hokka ɗum yaare ?
+42011013	~		No mbonir-ɗon fuu , oɗon ndokka ɓiɓɓe mon kulle lobbe , sako Baabiraaɗo mon gonɗo dow kammu oo . Ɲaagiiɗo mo Ruuhu Ceniiɗo fuu , o hokkan ɗum mo .
+42011018	hono		So Ibiliisa e hoore mum fecciima , hono laamu mum heddortoo ? Nde wonnoo on mbii « Beelsebul » ndibbiran-mi seyɗaani'en ɓee .
+42011019	homo		So tawii « Beelsebul » ndibbiran-mi seyɗaani'en , yimɓe mon ɓee nee , homo ndibbirta ɓe ? Yimɓe mon ɓee jaati kollata on ngalaa e goonga !
+42012014	Homo		Iisaa jaabii mo , wii : — Hey aan ! Homo waɗi kam caroowo mon naa peccoowo jawdi mon ?
+42012017	Hono		O miilii e hoore makko : « Hono ngaɗan-mi ? Sabi mi walaa fuu ɗo mi mooɓta ɲamri am ndii .
+42012020	Homo		Kaa Laamɗo wii mo : « Pamaro hakkille ! Yonki maa ittete e oo ɗoo jemma . Homo heettata e ko paggiti-ɗaa koo ? »
+42012024	~		Ƴeewee daawle ɗee : ɗe aawataa , ɗe kettataa , ɗe ngalaa caakuuji , ɗe ngalaa beembe , kaa Laamɗo ana ɲammina ɗe . Onon , oɗon ɓuri pooli ɗii teentilaade ɗo woɗɗi !
+42012025	Homo		Homo e mon waawi ɓeydude e balɗe mum fay ɲalooma gooto kammari sugulla mum ? Walaa .
+42012026	ko saabii		Ndennoo , so tawii on mbaawaa waɗude fey hono ɗum e famɗude , ko saabii so oɗon cuŋlana ko heddii koo ?
+42012042	Homo		Iisaa jaabii , wii : — Homo woni golloowo koolniiɗo , hakkilante , mo kalfaaɗo mum halfinta maccuɓe mum hokka ɗum'en nguure mum'en ?
+42012049	~		— Mi wardii wedaade yiite e leydi ndii . Miɗo heppi nge huɓɓaali !
+42012056	ko waɗi		Onon naafigi'en ! Oɗon mbaawi seenndude mbaadi leydi e kammu , ko waɗi so on mbaawaa seenndude mbaadi oo ɗoo jamaanu ?
+42012057	Ko saabii		Ko saabii so on mbaawaa anndande ko'e mon ko woni fooccitaare ?
+42013004	~		Naa oɗon miccitoo sappo e njetton ɓe suudu Silowam toowndu nduu saami e mum'en faa maayi ɓee ? Oɗon miila kamɓe ɓuri Urusaliima fuu junuubu naa ?
+42013007	ko saabii		Non o wii golloowo ngesa oo : « Hikka woni duuɓi tati , hitaande fuu mi waran faa mi teɓa ki , mi tawa ki rimaali . Feƴƴu ki ! So walaa ko ki nafata , ko saabii so eki itta semmbe leydi ndii ? »
+42013015	homo		Iisaa jaabii mo , wii : — Naafigi'en ! Wanaa homo e mon fuu ana humta nagge mum naa ndakiiwa mum ɲalaande fowteteende yarnoya ɗum naa ?
+42013018a	hono		Iisaa wii : — Hono Laamu Laamɗo wa'i ? 
+42013018b	Koɗum		Koɗum nanndinan-moo-mi ?
+42013020	Koɗum		O wii kasen : — Koɗum nanndinan-mi e Laamu Laamɗo oo ?
+42013025	~		So jom galle oo immiima sokii damal ngal , onon on keedii sella oɗon calmina , oɗon mbiya : « Kalfaaɗo , udditan min ! » o jaaboto on : « Mi anndaa to njeye-ɗon ! »
+42014005	Homo		Caggal ɗum , o wii ɓe : — Homo e mon ɓiyum naa ngaari mum saamata e ɓunndu waasa yaltinde ɗum ɗon e ɗon , fay so ɗum ɲalaande fowteteende ?
+42014028	~		So won muuyɗo e mon mahude suudu toowndu , wanaa joomum jooɗoto tafon , hiisoo ko hasindini e mum , ƴeewa so ana jogii ko biltata ɗum naa ?
+42014031	~		Kasen , so kaananke yehii faa haɓoya e kaananke goɗɗo , o miilataako tafon yalla worɓe ujunaaji sappo ana mbaawi jaɓɓaade worɓe ujunaaji noogay faa kaɓa e mum ?
+42014034	koɗum		Lamɗam ana moƴƴi , kaa so ɗam ŋoottii lammude , koɗum lamminta ɗam kasen ?
+42015004	~		— So gooto mon ana jogii baali teemedere , majjiraama mbaalu gooto , wanaa yoppan capanɗe jeenay e jeenay ɗii fuu ley ladde tewtoya majjuɗo oo faa yiita ɗum naa ?
+42015008	~		— Naa , so debbo ana jogii buuɗi cardi sappo , majjiraama hen gooto , huɓɓataa lampa , wuuwa galle oo , tewtira mbuuɗu oo hakkille faa yiita ɗum naa ?
+42015026	ko		O noddi gooto e gollooɓe ɓee , o lamndii ɗum ko ndee dillere woni ?
+42015029	~		O jaabii baabiiko , o wii : « Annii , duuɓi kuurɗi miɗo gollane , fay nde wootere mi salaaki yamiroore maa . Kaa ɗum e taweede , abada a hokkaali kam fay damngel faa miin e giɗiraaɓe am , min mbeltoroo .
+42016002	Ko		O noddi ɗum , o wii : « Ko nanu-mi e maa koo , ko woni ? War , hiisa ko kalfine-ɗaa koo , sabi hankasen a waawaa halfineede . »
+42016003	Hono		Howruujo oo wii e hoore mum : « Hono ngaɗan-mi ? Sabi kalfaaɗo am yoppan kam golle . Mi walaa doole remde , miɗo yaagoo ɲaagaade .
+42016005	hono foti		Oon wakkati , o noddiri ɓe kalfaaɗo makko rewata ɓee , gooto gooto . O wii arano oo : « Hono foti kalfaaɗo am oo rewete ? »
+42016007	hono foti		O wii goɗɗo kasen : « Aan nee , hono foti ndewete-ɗaa ? » Oon wii mo : « Caakuuji teemedere gawri ndewetee-mi . » O wii oon : « Ɓam dewtere maa ɲamaale , mbinndaa caakuuji capanɗe jetti . »
+42016011	homo		Ndennoo , so on kollaali hoolaare e jawdi adunankoori ndii , homo fuu halfinta on jawdi ngoongaraari ndii ?
+42016012	hono		Kasen duu so on kollaali hoolaare e jawdi jananndi , hono ndokkirte-ɗon ko njey-ɗon koo ?
+42017007	Homo		Homo e mon maccuɗo mum demoowo naa duroowo mum wartata ladde so wiya ɗum ɲaamdu mum annii oon wakkati fuu ?
+42017017	Hoto		Iisaa jaɓɓitii , wii : — Tama wanaa sappo ɓee fuu cellinaama ? Hoto njeenayon ɓee nee ngoni ?
+42017018	~		Walaa miilɗo wirfitaade yetta Laamɗo so wanaa janano oo naa ?
+42017020	mande		Nden Farisa'en ɓee lamndii Iisaa mande Laamu Laamɗo oo warata ? O jaabii ɓe , o wii : — No Laamu Laamɗo wardata nii , yiyataake .
+42017037	hoto		Taalibaaɓe ɓee njaɓɓitii , mbii mo : — Kalfaaɗo , hoto ɗum waɗata ? O wii ɓe : — Ɗo jiibe ngoni fuu , ɗon dute kawritata .
+42018018	koɗum		Gooto e hooreeɓe Yahuudiyankooɓe lamndii mo , wii : — Moobbo moƴƴo , koɗum kaan-mi waɗude faa mi heɓa nguurndam nduumiiɗam ?
+42018019	Ko saabii		Iisaa wii mo : — Ko saabii so aɗa noddira kam moƴƴo ? Moƴƴo walaa so wanaa gooto , oo woni Laamɗo .
+42018026	homo		Hettindantooɓe mo ɓee mbii : — Ndennoo , homo woni kisoowo ?
+42018036	ko ɗum		Oon maati jamaa ana ƴaɓɓoo , lamndii ko ɗum woni ?
+42018041	Koɗum		— Koɗum njiɗ-ɗaa mi waɗane ? O wii : — Moobbo , mi hewta gite am !
+42019007	~		Yiiɓe ɗum ɓee fuu keddii ana ŋurŋurta , ana mbiya : — O jippanoyike luuttoowo .
+42019023	Ko saabii		Ko saabii so a waɗaali jawdi am ndii e ley banki , yalla ana daɲa ko keɓu-mi hen so mi wartoyii ? »
+42019031	Ko saabii		So won biiɗo on , « Ko saabii so oɗon kumta nga ? » mbiyon ɗum hono nii : « Moobbo ana haajaa nga . »
+42019033	Ko		E ley humtugol maɓɓe mola ngaa , jeyɓe mola ngaa ɓee mbii : — Ko kumtirton mola ngaa ?
+42020002a	hende		mbii mo : — Yamiroore hende ngollirtaa ko ngollataa koo ? 
+42020002b	homo		Homo yamir maa ngollaa ɗum ?
+42020005a	~		Ɓe ndawridi hakkunde maɓɓe , ɓe mbii : — So en mbii to Laamɗo , o wiyan : 
+42020005b	ko saabii		« Ndennoo ko saabii so on ngoonɗinaali Yaayaa ? »
+42020013	Hono		E oon wakkati , jom ngesa oo wii : « Hono ngaɗan-mi ? Ooho , mi nelan ɓiyam gorko korsuɗo oo , yaama ɓe njaagoo mo ! »
+42020015	hono		Ɓe mbedii mo to caggal ngesa too , ɓe mbari mo . Jooni nee , hono jom ngesa oo waddata e maɓɓe ?
+42020017	koɗum		Iisaa ƴeewi ɓe , wii : — Ndennoo , koɗum woni maanaa ko winndii koo : « Haayre nde mahooɓe ɓee tippitii ndee , kaɲum laatii haayre ɓurnde fuu teentilaade e maadi ndii » ?
+42020023	~		Nde wonnoo o faamii hiila maɓɓe kaa , o wii ɓe :
+42020024a	homo		— Kollee kam mbuuɗu cardi ! Natal homo 
+42020024b	homo		e innde homo woni ɗoo ? Ɓe mbii : — Kaananke Roma .
+42020033	homo		Ndennoo , ɲannde immital , homo e maɓɓe debbo oo laatotoo jom suudu mum ? Sabi ɓe njeɗɗon fuu ɓe ɓamiino mo .
+42020041	Hono		Iisaa wii ɓe : — Hono ɓe mbaawiri wiide Almasiihu yo taanii Daawuuda ?
+42020044	hono		Daawuuda « Joomam » noddirta mo , ndennoo , hono mo laatortoo taanum tan ?
+42021007a	nde		Ɓe lamndii mo , ɓe mbii : — Moobbo , humpitin min nde ɗum waɗata . 
+42021007b	homo		Taagumansa homo hollata waɗugol kuɗɗe ɗee fuu ?
+42022009	Hoto		Ɓe lamndii mo : — Hoto njiɗ-ɗaa min lanndinoyoo nde ?
+42022011	hondu		mbiyon jom galle oo : « Moobbo wii suudu hondu ɲaamdata e taalibaaɓe mum ɓee hiraande iidi Paska ? »
+42022027	Homo		Homo ɓuri teddude , jooɗiiɗo faa ɲaama naa ɓattinoowo ɲaamdu ? Wanaa ɲaamoowo oo naa ? Kaa miin , miɗo wa'i hakkunde mon no ɓattinoowo ɲaamdu nii .
+42022046	Koɗum		O wii ɓe : — Koɗum ɗaanoto-ɗon ? Immee nduwo-ɗon , pati on ceyte !
+42022064	homo		Ɓe cuddi yeeso makko , eɓe lamndoo mo , eɓe mbiya : — Annditin homo fii maa !
+42022071	~		Ɓe mbii : — En kaajaaka seedee hankasen , nde wonnoo o haaldii hunduko makko , en fuu en nanii !
+42023022a	~		Pilaatu wii ɓe tataɓol : 
+42023022b	Koɗum		— Koɗum o waɗi ko boni ? Mi yiyaali e makko daliili fuu ko haani warde mo ! Ndennoo , mi fiyan mo , mi yoppita mo .
+42023031	hono		Sabi so ɓe ngaɗii nii gila caɓal ngal keccal , hono laatotoo so ngal yoorii ?
+42024005	Ko saabii		Nii kulol nanngi ɓe , ɓe tuggi tiiɗe maɓɓe e leydi . Oon wakkati worɓe ɓee mbii ɓe : — Ko saabii so oɗon tewta guurɗo hakkunde maayɓe ?
+42024017	Koɗum		O wii ɓe : — Koɗum ngaajoto-ɗon e laawol mon ngol ? Non ɓe ndarii , terɗe maɓɓe mbaati .
+42024019	Koɗum		O wii ɓe : — Koɗum ? Ɓe mbii mo : — Ko waɗi e Iisaa Nasaraatunke oo koo . O annabaajo , jom baawɗe ley haala makko e golle makko yeeso Laamɗo e yimɓe fuu .
+42024025	~		Oon wakkati Iisaa wii ɓe : — Hey onon famarɓe hakkille ! Ɓooyii on ngoonɗinaali haala annabaaɓe !
+42024038a	ko		Non o wii ɓe : — Ko hulɓini on ? 
+42024038b	ko saabii		Ko saabii so oɗon miila ɗii miilooji e ɓerɗe mon ?
+43001019	homo		Yahuudiyankooɓe Urusaliima neli Lewinkooɓe e yottinooɓe sadaka to Yaayaa lamndoo kaɲum woni homo .
+43001021	homo		Ɓe lamndii mo , ɓe mbii : — Aan , a homo ? A annabi Iliyaasa naa ? O wii : — Mi wanaa . Ɓe mbii : — A Annabaajo oo naa ? O jaabii : — Mi wanaa !
+43001022a	homo		Ɓe mbii mo : — A homo ndennoo ? Haalan min ko min kaaltanoya neluɓe min ɓee . 
+43001022b	ko		Ko njogori-ɗaa hoore maa ?
+43001025	Ko saabii		Ɓe lamndii mo : — Ko saabii so aɗa loota yimɓe lootogal batisima , tawi a wanaa Almasiihu a wanaa Iliyaasa a wanaa Annabaajo oo ?
+43001038a	Koɗum		Iisaa yeeccitii , yii eɓe njokki e mum , wii ɓe : — Koɗum tewtaton ? Ɓe njaabii , ɓe mbii : 
+43001038b	hoto		— Rabbii ( ɗum woni « Moobbo » ) , hoto njooɗoto-ɗaa ?
+43001046	ko		Natanayel wii mo : — Ko moƴƴi ana waawi iwrude Nasaraatu naa ? Filipa jaabii mo : — War ƴeew !
+43001048	Hoto		Natanayel wii mo : — Hoto anndu-ɗaa kam ? Iisaa jaabii mo , wii : — Mi yii ma ley ibbi gila Filipa noddaali ma .
+43002004	ko		Iisaa jaabii mo , wii : — Tama aan haalanta kam ko kaan-mi waɗude ? Wakkati am yonaali tafon .
+43002018a	~		
+43002018b	honde		Nden hooreeɓe Yahuudiyankooɓe mbii mo : — Haaynde honde kollataa min aɗa foti waɗude ko ngaɗ-ɗaa koo ?
+43003004	Hono		Nikodemus wii mo : — Hono mawɗo waawiri rimtireede ? Omo waawi naattude e reedu inniiko , o rimtee kasen naa ?
+43003009	Hono		Nikodemus wii mo : — Hono hen ɗum laatortoo ?
+43003012	Hono		On ngoonɗinaali nde kaalan-mi on haala kulle leydi ndee . Hono ngoonɗinirton so mi haalanii on haala kulle dow kammu ?
+43004009	Hono		Debbo oo wii Iisaa : — Haa ! Hono aan , Yahuudiyanke , ɲaagorto-ɗaa kam miin , Samariyanke , ndiyam njaraa ? ( Sabi Yahuudiyankooɓe e Samariyankooɓe yo harmondirɓe . )
+43004011	Hoto		Debbo oo wii mo : — Giɗo , a walaa cafirgal . Ɓunndu nduu ana luggiɗi . Hoto keɓataa ɗam ndiyam nguurndam ?
+43004027a	ko		E dow ɗum taalibaaɓe makko ɓee njottii . Ko Iisaa haaldata e debbo oo koo haaynii ɓe , kaa fay gooto e maɓɓe wiyaali ɗum : « Ko ndaartataa ? 
+43004027b	ko		Ko kaaldataa e makko ? »
+43005012	Homo		Ɓe lamndii mo : — Homo woni oo neɗɗo biiɗo ma ɓamtu daɗɗo maa , yaa ?
+43005044	hono		Oɗon tottondira teddeengal , on tewtataa teddeengal iwrungal to Laamɗo gooto , hono mbaawru-ɗon goonɗinirde ?
+43005047	hono		Kaa so on ngoonɗinaali ko o winndi koo , hono ngoonɗinirton haala am ?
+43006005	Hoto		Iisaa hunci hoore , soynii jamaa keewɗo ana fa'i ɗum . O wii Filipa : — Hoto coodaten ɲaamdu ko ɲamminta ɓee fuu ?
+43006009	koɗum		— Annii , suka gorko gooto ana jogii buuruuje joy e liɗɗi ɗiɗi , koɗum ɗum nafirta yimɓe heewɓe hono ɓee ?
+43006025	mande		Nde ɓe tawnoo Iisaa oo too bannge weendu nduu ndee , ɓe mbii ɗum : — Moobbo , mande ngar-ɗaa ɗoo ?
+43006028	Koɗum		Nden ɓe lamndii mo : — Koɗum min ngaɗata faa min ngolla golleeji ɗi Laamɗo yiɗi ?
+43006030a	honde		Ɓe njaabii mo : — Haaynde honde ngaɗataa faa min njiya , min ngoonɗine ? 
+43006030b	Koɗum		Koɗum ngollataa ?
+43006042	Hono		Ɓe mbii : — Oo , wanaa Iisaa ɓii Yuusufu mo anndu-ɗen inna mum e baam mum oo naa ? Hono o wiirata dow kammu o iwri ?
+43006052	Hono		Dow ɗum Yahuudiyankooɓe ana ndukida ko mbaawi fuu , ana mbiya : — Hono o waawiri hokkude en terɗe makko faa ɲaamen ?
+43006060	Homo		Nde ɓe nannoo ɗi ndee , heewɓe e taalibaaɓe makko mbii : — Ɗii waajuuji njoorii sanne . Homo waawi hettinaade ɗi ?
+43006062	hono		Ndennoo so on njii Ɓii Neɗɗo ŋabbitii to wonnoo too , hono ngaɗaton ?
+43006068	homo		Simon Piyeer jaabii mo : — Moobbo , to homo min njahata ? Ɗo maa ɗoo haalaaji guurnooji neɗɗo nguurndam nduumiiɗam ngoni .
+43007011	Hoto		Hooreeɓe Yahuudiyankooɓe ana tewta mo ley jamaa iidi oo , ana mbiya : — Hoto o woni ?
+43007015	Hono		Yahuudiyankooɓe kaaynaa sanne , ɓe mbii : — Hono o waawiri dewte , kanko mo janngaali ?
+43007019	Ko saabii		Wanaa Muusaa hokki on Sariya naa ? Kaa fay gooto e mon jokkaali Sariya . Ko saabii so oɗon tewta warde kam ?
+43007020	Homo		Yimɓe ɓee njaabii mo : — Aan , a laddaaɗo . Homo ndaarata warde ma ?
+43007023	koɗum		So nii neɗɗo ana taadee ɲalaande fowteteende pati on luuttu Sariya Muusaa , koɗum tikkiranton kam saabe mi sellinii neɗɗo kuurɗo ɲalaande fowteteende ?
+43007035	Hoto		Yahuudiyankooɓe lamndondiri : — Hoto o yahata faa tawee en mbaawaa yiitude mo ? O tawtoyan yimɓe men ferɓe to Yunaninkooɓe , o waajoo ɗum'en naa ?
+43007036	Koɗum		O wii en tewtan mo , en njiitataa mo , sabi en mbaawaa yaade to mo tawetee too . Koɗum woni maanaa kaa haala ?
+43007041	~		Yogaaɓe mbii : — Kanko woni Almasiihu oo . Woɓɓe kasen mbii : — Almasiihu , Galili iwrata naa ?
+43007045	Ko saabii		Non haybooɓe Suudu Dewal Mawndu ɓee ngarti to hooreeɓe yottinooɓe sadaka e Farisa'en . Ɓeen mbii ɓe : — Ko saabii so on ngaddaali mo ?
+43007048	~		Won fuu e hooreeɓe ɓee naa e Farisa'en goonɗinɗo mo naa ?
+43007051	~		— Sariya meeɗen ana sara neɗɗo tawee nanaaka ko haali , anndaaka ko golli naa ?
+43008005	ko		Muusaa yamirii min ley Sariya min mbarda hono ɓee rewɓe kaaƴe . Aan nee , ko mbiyataa ?
+43008010	hoto		Iisaa hunci hoore , wii mo : — Banndam debbo , hoto wullaniiɓe ma ɓee ngoni ? Fay gooto jukkaali ma naa ?
+43008019	Hoto		Ɓe mbii mo : — Hoto Baabiraaɗo maa oo woni ? Iisaa jaabii : — On anndaa kam miin , sako Baabiraaɗo am . Sinndo oɗon anndunoo kam , maa on annduno Baabiraaɗo am oo duu .
+43008025a	homo		Ɓe mbii mo : — Aan homo ? 
+43008025b	ko		Iisaa jaabii : — Ko mbiinoo-mi on gila arannde koo ngon-mi .
+43008033	Hono		Ɓe njaabii mo : — Minen , min iwdi Ibarahiima , abada fay gooto maraali min . Hono mbiirataa min ndimɗan ?
+43008043	Ko saabii		Ko saabii so on paamataa haala am ? Saabe on nanataa ko kaalan-mi koo .
+43008046a	homo		Homo e mooɗon waawi felirde kam luutti ? 
+43008046b	ko saabii		So mi haalii goonga , ko saabii so on ngoonɗintaa kam ?
+43008053	Koɗum		Tama aɗa ɓuri baaba amen Ibarahiima teentilaade ? Oon maayii , annabaaɓe duu maayii . Koɗum cikku-ɗaa ngon-ɗaa ?
+43008057	~		Yahuudiyankooɓe mbii mo : — Fay duuɓi capanɗe joy a heɓaali tafon , kaa a yii Ibarahiima ?
+43009002	homo		Taalibaaɓe makko lamndii mo : — Moobbo , homo luutti so mo findi e mbumndam , kanko naa saaraaɓe makko ?
+43009010	Hono		Ɓe mbii mo : — Hono mbumtir-ɗaa ?
+43009012	Hoto		Ɓe mbii mo : — Hoto gorko oo woni ? O wii : — Mi anndaa !
+43009016	Hono		Yoga e Farisa'en mbii : — Gorko oo iwraali to Laamɗo sabi o jokkaali sariya ɲalaande fowteteende . Woɓɓe mbii : — Hono neɗɗo luuttuɗo waawiri waɗirde hono ɗee kaayɗe ? Dow ɗum ɓe luurri , ɓe ceeri .
+43009017	ko		Farisa'en ɓee lamndii bumnooɗo oo kasen : — Aan nee , ko mbiyataa e bumtinɗo ma oo ? O jaabii : — O annabaajo .
+43009019	hono		Ɓe lamndii ɓeen : — Oo ɗoo yo ɓii mooɗon naa ? Mbii-ɗon e mbumndam mo findi naa ? Ndennoo hono mo wumtiri jooni ?
+43009026a	Koɗum		Ɓe mbii mo : — Koɗum o waɗi e maa ? 
+43009026b	hono		Hono o wumtinir ma ?
+43009027	Ko saabii		O jaabii ɓe : — Mi haalaniino on ɗum , kaa on njaɓaali . Ko saabii so oɗon njiɗi nantude ɗum kasen ? Tama onon duu , oɗon njiɗi laataade taalibaaɓe makko ?
+43009034	~		Ɓe njaabii mo : — Aan , a fuu ley luutti pinu-ɗaa ! Aan waajotoo min minen naa ? Ɓe njaltini mo sella .
+43009036	homo		O jaabii : — Moobbo , homo woni kanko faa mi goonɗina mo ?
+43010020	Ko saabii		Heewɓe maɓɓe ana mbiya : — O laddaaɗo o kaahaango . Ko saabii so oɗon kettindoo mo ?
+43010021	~		Kaa yogaaɓe mbii : — Ɗii waajuuji nganaa waajuuji laddaaɗo . Laddaaɗo ana waawi wumtinde bumɗo naa ?
+43010024	faa mande		Nden Yahuudiyankooɓe pilii mo , mbii mo : — Faa mande keddoto-ɗaa aɗa yoppi min e wemmbere ? Haalan min faa laaɓa , aan woni Almasiihu oo naa ?
+43010032	homo		Iisaa wii ɓe : — Mi gollirii baawɗe Baabiraaɗo golleeji lobbi keewɗi yeeso mon . E ley ɗii golleeji , saabe homo e majji mbedorto-ɗon kam kaaƴe ?
+43010036	hono		Mo Baabiraaɗo suɓii so neli e aduna oo , hono mbiiraton mo bonkike Laamɗo saabe mi wii mi Ɓii Laamɗo ?
+43011034	Hoto		O wii : — Hoto ndesu-ɗon mo ? Ɓe njaabii : — Moobbo , war ƴeew !
+43011047	Hono		Nden Farisa'en e hooreeɓe yottinooɓe sadaka mooɓti waalde Saahiiɓe ndee , mbii : — Oo gorko ana waɗa kaayɗe keewɗe . Hono ngaɗaten ?
+43011056	~		Eɓe tewta Iisaa . Eɓe ndarii ley Suudu Dewal Mawndu nduu , eɓe kaalda : — Oɗon miila o wara e iidi oo naa on miilaali ?
+43012005	Ko saabii		— Ko saabii so ɗam nebam soottaaka buuɗi teemeɗe tati cardi , hokkee misikiina'en ?
+43012027	Koɗum		— Jooni mi wemmbaama . Koɗum mbiyan-mi ? Mi wiya Abba hisinam e oo wakkati naa ? Mi waawaa wiide ɗum sabi kammari wakkati oo ngardu-mi .
+43012034a	hono		Yimɓe ɓee njaabii mo : — Sariya oo anndinii min Almasiihu yo duumotooɗo . Hono aan mbiirataa kinaa Ɓii Neɗɗo oo toownee ? 
+43012034b	homo		Homo woni oo Ɓii Neɗɗo ?
+43012038a	homo		yalla haala annabi Esaaya kaa ana tabita : « Joomiraaɗo , homo goonɗini waaju amen oo ? 
+43012038b	homo		Homo ɓannginanaa baawɗe Joomiraaɗo ? »
+43013025	homo		Non taalibbo oo naayorii hedde Iisaa , wii : — Moobbo , ɗum homo ?
+43013036	hoto		Simon Piyeer wii mo : — Moobbo , hoto njahataa ? Iisaa jaabii mo : — To njahan-mi jooni too , a waawaa jokkude e am . Kaa caggal jooni a jokkan e am !
+43013037	ko saabii		Piyeer wii mo : — Moobbo , ko saabii so mi waawaa jokkude e maa jooni ? Miɗo hokkitira yonki am saabe maa .
+43014002	~		Cuuɗi keewɗi ana ley galle Baabiraaɗo am . So walaano , mi wiyanno on . Mi yahan , mi moƴƴinanoya on ton nokku .
+43014005	hono		Tomaa wii mo : — Moobbo , min anndaa to njahataa , hono min anndirta laawol mum ?
+43014009	Hono		Iisaa wii mo : — No ngondir-mi e mooɗon faa ɓooyi nii fuu , Filipa , a anndaali kam naa ? Jiiɗo kam , yii Baabiraaɗo . Hono mbiirataa : « Hollu min Baabiraaɗo » ?
+43014022	hono		Yahuuda , mo wanaa Yahuuda Isikariyota , jaabii mo : — Moobbo , hono ɓannginirantaa min hoore maa , tawee a ɓannganaali aduna oo ?
+43016005	hoto		Jooni miɗo nii hootana nelɗo kam oo , kaa fay gooto e mon lamndaaki kam hoto njahan-mi .
+43016017	Koɗum		Yoga e taalibaaɓe makko ɓee lamndondiri , mbii : — Koɗum woni maanaa haala makko so o wii « so ɓooyii seeɗa , on njiyataa kam e so ɓooyii seeɗa kasen , njiyon kam » , o wii kasen « sabi mi jahoowo to Baabiraaɗo » ?
+43016018	koɗum		Ɓe mbii : — « So ɓooyii seeɗa » , koɗum ɗum firritata ? Min paamaali ko o wii koo .
+43018004	Homo		Nde wonnoo Iisaa ana anndi ko fa'i warde e mum fuu , sakkitii ɓe , wii : — Homo tewtaton ?
+43018007	Homo		Iisaa lamndii ɓe kasen : — Homo tewtaton ? Ɓe njaabii : — Iisaa Nasaraatunke oo .
+43018011	~		Nden Iisaa wii Piyeer : — Soornu kaafaawi maa kii e ŋaro mum . Aɗa miili mi yarataa horde bone nde Baabiraaɗo hokki kam ndee naa ?
+43018021	Ko		Ko lamndorto-ɗaa kam ? Lamnda ɓeen hettindiiɓe kam . Kamɓe kaa , eɓe anndi ko mbaajii-mi koo .
+43018023	ko saabii		Iisaa jaabii mo , wii : — So ko boni mbii-mi , haalanam ko boni e majjum . So tawii ko moƴƴi mbii-mi , ko saabii so pii-ɗaa kam ?
+43018029	Koɗum		Pilaatu , goforneer oo , tawoyi ɓe sella too , wii : — Koɗum ngullaniri-ɗon oo gorko ?
+43018035	Ko		Pilaatu jaabii mo : — Miin , mi Yahuudiyanke naa ? Ko ngaɗu-ɗaa so leɲol maa e hooreeɓe yottinooɓe sadaka ngaddu maa ga am ?
+43018038	Koɗum		Pilaatu wii mo : — Goonga ? Koɗum woni goonga ? Nde o haalnoo ɗum ndee , o yalti kasen , o tawtoyi Yahuudiyankooɓe ɓee to sella too , o wii ɓe : — Mi heɓaali feloore fay wootere e makko .
+43019009	hoto		O naatti huɓeere ndee kasen o wii Iisaa : — Aan , hoto iwataa ? Iisaa jaabaaki mo fay huunde .
+43019015	~		Ɓe nduki semmbe : — War mo ! War mo ! Tontu mo e leggal bardugal ! Pilaatu jaabii : — Mi tonta kaananke mooɗon oo naa ? Hooreeɓe yottinooɓe sadaka ɓee mbii : — Min ngalaa kaananke ko wanaa kaananke Roma mawɗo oo .
+43020013	koɗum		Malaa'ika'en ɓee mbii mo : — Banndam debbo , koɗum mboyataa ? O jaabii ɓe : — Ɓe ittii Moobbo am ɗoo , mi anndaa fuu to ɓe ndesi ɗum .
+43020015a	koɗum		Iisaa wii mo : — Banndam debbo , koɗum mboyataa ? 
+43020015b	homo		Homo tewtataa ? Mariyama miili golloowo nokku oo haaldata e mum , wii oon : — Giɗo , so aan itti mo ɗoo , haalanam ɗo ndesu-ɗaa mo , faa mi ɓamta mo .
+43021012	homo		Iisaa wii ɓe : — Ngaree , ɲaamee ! Nde wonnoo ɓe fuu ɓe anndii ɗum Joomiraaɗo , fay gooto e taalibaaɓe ɓee lamndaaki mo « Aan homo ? »
+43021020	homo		Piyeer yeeccitii , yii taalibbo mo Iisaa horsini oo ana jokki e mum'en . Kaɲum woni naayinooɗo e Iisaa nde ɓe kirtotonoo ndee , so wii : « Moobbo , homo woni jammbotooɗo ma oo ? »
+43021021	hono		Nde Piyeer yiinoo korsuɗo oo ndee , wii Iisaa : — Moobbo , hono oo nee wattinirta ?
+43021022	koɗum		Iisaa jaabii mo : — So miɗo muuyani mo nguurndam faa nde ngartu-mi , koɗum hillu maa hen ? Aan kaa , jokkam tan .
+43021023	koɗum		Ngol konngol saakii hakkunde goonɗinɓe Iisaa fuu : « Taalibbo oo maayataa . » Kaa Iisaa wiyaali mo maayataa , ko o wii dee : « So miɗo muuyani mo nguurndam faa nde ngartu-mi , koɗum hillu maa hen ? »
+44001011	ko saabii		mbii : — Galilinkooɓe , ko saabii so ndari-ɗon , oɗon ƴeewa kammu ? Iisaa ittaaɗo e mon so ŋabbintinaa dow kammu oo wartiran hono no njiiru-ɗon omo ŋabbitira dow kammu nii .
+44002008	hono		Ɗum nee , hono hen gooto e meeɗen fuu nanirta ko ɓe kaalata e ɗemngal ngal muyni ?
+44002012	Koɗum		Ɓe fuu ɓe mbemmbaa , ɓe cikkitii , ɓe mbiyondiri : — Koɗum ɗum foti laataade ?
+44002037	koɗum		Nde ɓe nannoo kaa haala ndee , ɓe taƴi sanne , ɓe mbii Piyeer e nelaaɓe heddiiɓe ɓee : — Sakiraaɓe , koɗum min ngaɗata ?
+44003012a	Ko waɗi		Nde Piyeer yiinoo ɗum ndee , wii yimɓe ɓee : — Israa'iilankooɓe , ko waɗi so oɗon kaaynee ɗum ɗoo ? 
+44003012b	Ko waɗi		Ko waɗi so oɗon puttina min gite , hono baawɗe amen naa kulol amen Laamɗo waɗi so oo gorko ana yaha e koyɗe muuɗum ?
+44004007a	~		
+44004007b	honde		Ɓe ndarni Piyeer e Yuhanna yeeso maɓɓe , ɓe lamndii ɗum'en e dow dabare honde 
+44004007c	homo		naa alhorma homo ɓe celliniri bonnguujo oo .
+44004016	Koɗum		eɓe mbiya : — Koɗum ngaɗaten ɓee ɗoo worɓe ɗiɗon ? Tabitanii hoɗuɓe Urusaliima fuu , ɓe ngaɗii ɗoo haaynde maanunde , kasen duu en mbaawaa yeddude ɗum .
+44004025a	ko		aan kaalirɗo dow baawɗe Ruuhu Ceniiɗo e hunduko njaati amen Daawuuda kaadime maa nde oon wii : « Ko saabanii leɲi jirkitaade ? 
+44004025b	ko		Ko saabanii yimɓe miilde miilooji ɓoli ?
+44005003	ko saabii		Piyeer wii : — Ananiyas , ko saabii so accu-ɗaa Ibiliisa naata e ɓernde maa faa penanaa Ruuhu Ceniiɗo , cuuɗaa yoga e coggu ngesa ngaa ?
+44005004	ko		Tama wanaa aan e hoore maa jeynoo nga ? Tama nde coottu-ɗaa nga ndee , a waawaano nawtoraade kaalisi oo ? Ko hewti maa so ngaɗ-ɗaa nii ? Wanaa yimɓe penan-ɗaa , Laamɗo penan-ɗaa .
+44005009	Hono		Nden Piyeer wii mo : — Hono aan e jom suudu maa kawrir-ɗon faa itton koro Ruuhu Joomiraaɗo ? Muɲu , iroynooɓe jom suudu maa ana ngara , naa ɓe naɓe , aan duu !
+44007026	Ko		Janngo muuɗum o forri e ɗiɗon maɓɓe ana kaɓa . O yiɗi rewrintinde ɓe , o wii : « Giɗiraaɓe am , onon , on sakiraaɓe ! Ko waddondiri on ? »
+44007027	Homo		Non tooɲuɗo tanaa muuɗum oo dunƴi mo , wii : « Homo waɗu maa hooreejo naa caroowo amen ?
+44007035	Homo		Muusaa mo ɓe calanii so ɓe mbii : « Homo waɗu maa hooreejo naa caroowo ? » oo Laamɗo neli , so waɗi ɗum ardiiɗo e kisinoowo , saabe malaa'ika ɓanngannooɗo ɗum e ley wuutuure oo .
+44007049a	hondu		« Joomiraaɗo wii : Kammu yo jooɗorgal am , leydi yo njaaɓirdi koyɗe am . Suudu hondu mahanton kam ? 
+44007049b	homo		E nokku homo powtintoo-mi ?
+44007052	Homo		Homo woni annabaajo mo njaatiraaɓe mooɗon torraali ɗum ? Ɓe mbarii ardinooɓe haalde haala garol Pooccitiiɗo , mo onon e ko'e mon njammbi-ɗon , so mbar-ɗon ɗum jooni oo ,
+44008031	Hono		Gorko oo jaabii , wii : — Hono paamiran-mi so fay gooto firritanaali kam ? O ndaardi Filipa ŋabba jooddoo e makko .
+44008033	Homo		Leyɗinkinaare makko bonni sareede makko . Homo waawi jantaade janta iwdi makko ? Sabi o mursinanaama yonki makko ga aduna gaa . »
+44008034	homo		Howruujo oo wii Filipa : — Miɗo ndaarde , haalanam homo annabaajo oo haalata haala muuɗum , hoore muuɗum naa goɗɗo ?
+44008036	Ko		Eɓe njokki laawol maɓɓe ngol faa ɓe njii ndiyam . Howruujo oo wii : — Ndiyam annii ! Ko haɗata kam looteede lootogal batisima ?
+44009004	ko saabii		O saami e leydi , o nani daande ana wiya mo : — Sool , Sool , ko saabii so aɗa torra kam ?
+44009005	homo		O lamndii : — Aan homo , giɗo Laamɗo ? Jaabu wari e makko : — Miin Iisaa mo torru-ɗaa oo .
+44009006	~		Imma naatu e ley ngalluure ndee . Ɓe kaalante ko kaan-ɗaa waɗude .
+44010004	~		O huli faa gite makko paapii , o wii ɗum : — Giɗo Laamɗo , kori jam ? Malaa'ika oo wii mo : — Laamɗo jaabanike ma duwaawuuji maa e sadakaaji maa .
+44010021	~		Piyeer jippii , wii worɓe ɓee : — Miɗo nii , miin woni mo tewtaton oo . Kori jam waddi on ?
+44010029	koɗum		Ɗum waɗi nde nelan-ɗon kam ndee , mi warii , mi ujaaki . Ɗum nee , kaalanee kam , saabe koɗum noddir-ɗon kam ?
+44010047	homo		— Yimɓe ɓee keɓii Ruuhu Ceniiɗo hono no meeɗen nii . Homo waawi haɗude ɓe looteede lootogal batisima ?
+44011017a	ko		So Laamɗo fonndii en e maɓɓe , hokkii ɓe ko hokkunoo en koo nde ngoonɗinno-ɗen Joommen Iisaa Almasiihu ndee , ndennoo miin , ko ngon-mi so mi haɗa Laamɗo ?
+44011017b	~		
+44012018	~		Nde finnoo beetee ndee , sordaasi'en ɓee ana lamndondira hoto Piyeer woni , ɓe mbemmbaa faa hakkillaaji maɓɓe keli .
+44013025	~		Kasen , nde Yaayaa timminta golle muuɗum ndee , wiino : « Mi wanaa mo miilaton ngon-mi oo . Kaa mo mi fotaa fay e humtude ɓoggi paɗe muuɗum ana wara caggal am . »
+44014015	koɗum		ana mbiya : — Worɓe , koɗum ngaɗaton ɗoo ? Minen duu min yimɓe hono mooɗon . Miɗen mbaajoo Kabaaru Lobbo oo faa tuubon , iwon e ɗii golleeji laaliiɗi , ngarton e Laamɗo guurɗo , taguɗo kammu e leydi e geeci e ko woni e muuɗum'en fuu .
+44015010	ko saabii		Jooni , ko saabii so oɗon itta koro Laamɗo ? Oɗon pawa e taalibaaɓe ɓee donngal , ngal enen e maamiraaɓe meeɗen en mbaawaa roondaade .
+44016030	hono		Caggal ɗum , o yaltini ɓe , o wii ɓe : — Baabiraaɓe , hono fuu kaan-mi waɗude yalla miɗo hisa ?
+44017018	Koɗum		Yoga e miijotooɓe wiyeteeɓe Epikuri'en e Sitoyko'en njaabondiri e makko . Yogaaɓe ana mbiya : — Koɗum oo ndorƴoowo haalata ? Woɓɓe duu ana mbiya : — Omo nanndi e baajotooɗo haala tooruuji janani . Walaa ko ɓe mbiiri non so wanaa haala Iisaa kaɲum e immital maayɓe o waajinoo ɓe .
+44017019	~		Nden ɓe ɓami Pool ɓe naɓi ɗum waamnde haayre wiyeteende Areyopagus , ɓe mbii ɗum : — Miɗen njiɗi anndude diina keso mo mbaajoto-ɗaa oo .
+44019003	hongal		O lamndii ɓe , o wii : — Ndennoo , lootogal batisima hongal keɓu-ɗon ? Ɓe njaabii , ɓe mbii : — Lootogal batisima Yaayaa ngal .
+44019015	hoɓe		faa seyɗaani jaabii ɗum'en , wii : — Miɗo anndi Iisaa , miɗo anndi Pool , kaa onon , on hoɓe ?
+44019035	homo		Nden binndoowo ngalluure ndee deƴƴini jamaa oo , wii : — Onon Efeesunkooɓe , homo woni mo anndaa ngalluure Efeesu ndee woni hayboore rewrudu Artemis deweteeɗo mawɗo oo , kaɲum e natal muuɗum iwrungal dow kammu ngal ?
+44021013a	Koɗum		Pool jaabii , wii : — Koɗum waɗi so oɗon mboya , 
+44021013b	~		oɗon taƴa ɓernde am ? Miin , miɗo lanndinanii ko wanaa haɓɓeede tan , miɗo lanndinanii fay maayde Urusaliima saabe innde Iisaa Joomiraaɗo oo .
+44021022	hono		Ndennoo , hono ngaɗaten ? Sabi min taƴorii ɓe nanan a warii .
+44021033a	homo		O ɓattii Pool , o yamiri Pool nanngee , o wii haɓɓiree calali ɗiɗi , o lamndii kaɲum yo homo 
+44021033b	koɗum		e koɗum waɗi ?
+44022007	ko saabii		Caamu-mi e leydi , nan-mi daande ana wiya kam : « Sool , Sool , ko saabii so aɗa torra kam ? »
+44022008	homo		Njaabii-mi , mbii-mi : « Aan homo , giɗo Laamɗo ? » O wii kam : « Miin , Iisaa Nasaraatunke mo torru-ɗaa oo . »
+44022010	koɗum		Nden , mbii-mi : « Joomiraaɗo , koɗum ngaɗan-mi ? » Joomiraaɗo wii kam : « Imma , yaa Damas , a haalante ton ko njamire-ɗaa ngaɗaa koo fuu . »
+44022016	koɗum		Jooni , koɗum ndoomataa ? Imma , loote-ɗaa lootogal batisima , njaafire-ɗaa luutti maa e noddude innde Joomiraaɗo . »
+44022026	ko		Nde mawɗo oo nani ɗum ndee , haalanoyi hooreejo oo , wii : — Aɗa anndi ko kosu-ɗaa faa ngaɗaa naa ? Gorko oo yo Romanke non !
+44023003	~		Nden , Pool wii mo : — Laamɗo fiyete , aan kokowol dawninaangol ! A jooɗoto faa cariraa kam Sariya Muusaa , ko njamir-ɗaa mi fiyee koo a luuttii Sariya Muusaa .
+44023009	~		Duko ngoo ɓeydii mawnude . Yoga e dunkee'en Sariya heedanɓe Farisa'en ɓee ndarii , immini duko manngo , ana mbiya : — Walaa fuu ko boni ko min njii e oo gorko . Ana waawi taweede ruuhu naa malaa'ika haaldi e makko !
+44023019	Koɗum		Hooreejo oo nanngi junngo makko , sawdintini mo , wii : — Koɗum kaalantaa kam ?
+44026008	Ko saabii		Ko saabii so onon Yahuudiyankooɓe miil-ɗon Laamɗo waawaa immitinde maayɓe ?
+44026014	Ko saabii		Min fuu , min caami e leydi , nan-mi daande ana wiya kam e ley ibaraninkoore : « Sool , Sool , ko saabii so aɗa torra kam ? So ndemoori wii saloto ko nannguɗo ginol mum waɗata fuu , ɓeydan naawnaade . »
+44026015	homo		Njaabii-mi , mbii-mi : « Aan homo , giɗo Laamɗo ? » Joomiraaɗo wii : « Miin , Iisaa mo torru-ɗaa oo .
+45002017	~		Aan , so a wii a Yahuudiyanke , a tuugike Sariya Muusaa oo , a mantorike Laamɗo ,
+45002021	~		aɗa tinndina woɓɓe , ndennoo a tinndintaa hoore maa naa ? Aɗa waajoo pati wujjee , a wujjataa naa ?
+45002028	~		Sabi wanaa ko yiyetee koo waɗata neɗɗo Yahuudiyanke jaati , wanaa ko golletee e terɗe koo woni taadagol .
+45003001a	Koɗum		Ndennoo , koɗum Yahuudiyanke ɓurdi leɲi goɗɗi ɗii ? 
+45003001b	Koɗum		Koɗum woni nafaa taadagol ?
+45003003	~		Kaa so yoga maɓɓe nganaa hoolniiɓe , ɗum ana waawi bonnude ko Laamɗo yo koolniiɗo koo naa ?
+45003005	~		Ɗoo miɗo haalda no yimɓe nii : so ooɲaare men ana ɓeyda ɓannginde fooccitaare Laamɗo ndee , ɗum ana waɗa so mbiyen Laamɗo yo ooɲiiɗo so jippinii e men tikkere mum naa ?
+45003006	hono		Fes ! Sabi so Laamɗo yo ooɲiiɗo , hono o sarirta aduna oo ?
+45003007a	~		So tawii fenaande am ana ɓeyda ɓannginde goonga Laamɗo oo eɗum teddina mo , 
+45003007b	koɗum		saabe koɗum carirtee-mi mi luuttoowo ?
+45003008	~		Won ɲo'ooɓe en wiyooɓe eɗen mbiya : « Ngaɗen ko boni yalla ko moƴƴi ana funta hen . » Ɓeen yimɓe , jukkungo mum'en ana foti e golleeji mum'en .
+45003009	~		Ndennoo , enen Yahuudiyankooɓe ɓee , eɗen ɓuri heddiiɓe ɓee naa ? En ɓuraa . Sabi mi hollii Yahuudiyanke e mo wanaa Yahuudiyanke fuu e ley luutti ngoni ,
+45003027a	koɗum		Ndennoo , koɗum fuu woni daliili wasu mo neɗɗo heddorii ? Fay gooto ! 
+45003027b	~		Haybude Sariya Muusaa oo saabii ɗum naa ? Wanaa ! Goonɗinal tan saabii ɗum !
+45003027c	~		
+45004001	Koɗum		Koɗum mbiyaten e Ibarahiima njaati men oo ?
+45004003	~		Sabi Binndi ɗii mbii : « Ibarahiima goonɗinii Laamɗo , Laamɗo jatorike mo saabe majjum mo pooccitiiɗo . »
+45004010	hono		Ndennoo , hono Ibarahiima worrunoo nde nanngiraa pooccitiiɗo ndee ? O taadiiɗo naa o wanaa ? O nanngiraama o pooccitiiɗo gila o taadaaki .
+45005010	~		Sabi nde ngonno-ɗen en konnee'en Laamɗo ndee , Laamɗo rewrintinii en e mum saabe maayde Ɓiyum oo ndee . Ko ndewrintina-ɗen e makko jooni koo , taƴoral en kisinirte saabe nguurndam Ɓiyiiko oo ɗam .
+45005021	hono		Hono no luuttal laamorii saabe maayde ndee nii , hono non hinnee Laamɗo oo duu laamoroytoo saabe fooccitaare ndee faa naɓa en to nguurndam nduumiiɗam ɗam Joomiraaɗo men Iisaa Almasiihu hokkata en ɗam .
+45006001	koɗum		Ndennoo , koɗum mbiyaten ? En keddoto e luuttal yalla hinnee Laamɗo oo ana ɓeydoo naa ?
+45006002	hono		Ɗum waawaa laataade ! En maayɓe banngal luutti , ɗum woni en ceertii e majji . Ndennoo hono mbaawraten kasen wuurde e ley luutti ?
+45006015	Koɗum		Koɗum hen , ndennoo ? En luuttan saabe e ley hinnee ngon-ɗen wanaa e ley Sariya naa ? Ɗum waawaa laataade !
+45006021	Koɗum		Koɗum keɓuno-ɗon e majjum ? Fay huunde , so wanaa ko kersirton hannde koo , sabi battane majjum yo maayde .
+45007007	koɗum		Ndennoo , koɗum mbiyaten ? Sariya Muusaa oo yo luuttal naa ? Wanaa ! Kaa noo , Sariya oo anndini kam ko woni luuttal . Sabi mi anndataano ko woni tuuyo so Sariya oo wiyaalino : « Pati tuuye-ɗaa ! »
+45007024	Homo		Hee miɗo yurminii ! Homo waawi ittude kam e ɗee terɗe naɓooje kam to maayde ?
+45008024	~		Sabi e ley jikke kisina-ɗen . Kaa jikke keɓaaɗo ŋoottii laataade jikke , sabi neɗɗo fawataa jikke e ko heɓi .
+45008031a	koɗum		Caggal ɗum fuu , koɗum mbiyaten ? 
+45008031b	homo		So Laamɗo ana wondi e men , homo waawi honude en ?
+45008032	~		Kanko , fay Ɓiyiiko oo e hoore mum mo haɗaali en , o hokkitirii ɗum kammari men en fuu . Fay huunde haɗataa mo hokkude en ko moƴƴi fuu , o hokkida en ɗum e mum .
+45008033	Homo		Homo naɓata ɓe Laamɗo suɓii ɓee sariya ? Fay gooto , sabi Laamɗo nanngirii ɓe fooccitiiɓe !
+45008034	Homo		Homo waawi liɓude ɓe e sariya ? Walaa , sabi Iisaa Almasiihu maayanii en , ko ɓuri ɗum fuu , o wuurtanii en . Omo jooɗii ɲaamo Laamɗo omo ɲaaganoo en .
+45008035	Koɗum		Koɗum waawi seenndude en e jilli ɗi Almasiihu yiɗi en ɗii ? Ɓillaare naa , wemmbere naa , torra naa , yolbere naa , kolndam naa , farati naa , naa kaafaawi ?
+45009014	koɗum		Ndennoo , koɗum mbiyaten ? Laamɗo yo ooɲiiɗo naa ? Fes !
+45009019a	koɗum		Ana moƴƴa daɲa biiɗo kam : « So non ɗum worri , koɗum Laamɗo felirta yimɓe so fay gooto waawaa salaade muuyɗe makko ɗee ? »
+45009019b	~		
+45009020a	koɗum		Aan neɗɗo oo , koɗum ngon-ɗaa faa njeddaa Laamɗo ? 
+45009020b	~		Loonde mahaande ana wiya mahuɗo ɗum oo : 
+45009020c	ko saabii		« Ko saabii so mahir-ɗaa kam nii ? »
+45009021	~		Mahoowo looɗe ana waawi waɗude e loope ɗee ko yiɗi fuu : e loopal gootal o maha loonde nde gollirtaake so wanaa e dow ko hensaa , o maha wonnde gollirteende ko wanaa ko hensaa .
+45009022	~		Haya , fay so taweede Laamɗo muuyii ɓannginde tikkere mum kaɲum e baawɗe mum , o muɲanii ɓe o tikkani ɓee muɲal cattungal , ɗum woni haanduɓe e halkaade ɓee .
+45009023	~		O waɗirii nii faa o ɓanngina annoora makko mawɗo dow ɓe o yurmotoo ɓee , ɓe o lanndinanii gila ko ɓooyi yalla ana keɓa ngeɗu e annoora makko .
+45009024	~		Ɓeen yimɓe ngoni enen ɓe o noddi ɓee , wanaa ley Yahuudiyankooɓe ɓee tan , ley leɲi goɗɗi ɗii duu .
+45009030	koɗum		Ndennoo , koɗum mbiyaten ? Ko mbiyaten annii : yimɓe ɓe nganaa Yahuudiyankooɓe ɓe tewtaalino nanngireede fooccitiiɓe yeeso Laamɗo ɓee , ɓeen keɓi fooccitaare , ɗum woni fooccitaare saabe goonɗinal .
+45009032	Ko saabii		Ko saabii ? Saabe ɓe tewtiraali ɗum goonɗinal , golle maɓɓe ɓe tewtiri ɗum faa ɓe pergitii e « haayre fergitoore ndee »
+45010006	Homo		Kaa ko fooccitaare iwnde e goonɗinal ndee wii koo : pati wii e ɓernde maa « Homo ŋabbata dow kammu ? » Ɗum woni faa jippina Almasiihu ,
+45010007	Homo		naa « Homo yahata laakaraa ? » Ɗum woni faa immintina Almasiihu e hakkunde maayɓe .
+45010008	koɗum		Ndennoo , koɗum fooccitaare iwnde e goonɗinal wiyata ? Ɗum ɗoo nde wiyata : « Konngol Laamɗo ana ɓadi maa , engol e hunduko maa , engol e ɓernde maa . » Ngol konngol woni kabaaru goonɗinal ngal min mbaajotoo ngal .
+45010014a	hono		Kaa hono ɓe mbaawiri noddude mo so ɓe ngoonɗinaali mo ? 
+45010014b	hono		Hono ɓe mbaawiri goonɗinde mo so ɓe nanaali kabaaru makko ? 
+45010014c	hono		Hono ɓe mbaawiri nande kabaaru makko so baajotooɗo walaa ?
+45010015	Hono		Hono yimɓe mbaawiri waajaade so nelaaka ? Binndi ɗii mbii : « Huunde fuu ɓuraa yiigol warooɓe yottinde Kabaaru Lobbo ɓee ngol wooɗude . »
+45010016	homo		Kaa wanaa yimɓe fuu njaɓani Kabaaru Lobbo oo . Annabi Esaaya wii : « Joomiraaɗo , homo goonɗini waaju amen oo ? »
+45011004	Koɗum		Koɗum Laamɗo jaabii mo ? Ɗum ɗoo : « Mi mooɓtanii hoore am ujunaaji njeɗɗon gorko ɓe cujidanaali tooru wiyeteendu Ba'ala . »
+45011007	hono		Ndennoo , hono laatii ? Ko laatii dee , Israa'iilankooɓe ɓee keɓaali ko ndaartunoo koo , ɓe Laamɗo suɓii ɓee nii keɓi ɗum . Woɓɓe ɓee , ɓerɗe mum'en mbumnaa
+45011015	hono		So woɗɗineede Yahuudiyankooɓe rewrintinii aduna oo e Laamɗo , hono laatoytoo so ɓe njaɓɓoyaama ? Walaa fuu no laatoytoo so wanaa iwde e maayde so naata e nguurndam .
+45011018	~		Kammari majjum , pati manta yeeso caɓe caltaaɗe ɗee . Kaa so aɗa mantoo , anndaa wanaa aan wuurni ɗaɗi ɗii , ɗaɗi ɗii nguurnu maa .
+45011033a	~		Hee ngalu Laamɗo ana mawni ! Hakkilantaaku makko e anndal makko ana luggiɗi ! Fay gooto waawaa anndude anniyaaji makko . 
+45011033b	~		Fay gooto waawaa faamde laawi makko .
+45011034a	homo		Sabi nii winndorii : « Homo anndi miilooji Joomiraaɗo ? 
+45011034b	homo		Naa homo waawi laataade howruujo makko ? »
+45011035	Homo		« Homo adii hokkude mo sako o yoɓa ɗum ? »
+45014004	koɗum		Aan , koɗum ngon-ɗaa faa ɲiŋaa gollanoowo goɗɗo ? Mo heddoo tarsinaade naa mo saama , yo donngal kalfaaɗo makko oo . Kaa mo tarsinto faa gasa , sabi Joomiraaɗo ana waawi ɲiiɓinde mo .
+45014010a	ko waɗi		Aan , ko waɗi so aɗa ɲiŋa sakiike maa goonɗinɗo oo ? 
+45014010b	ko waɗi		Naa aan , ko waɗi so aɗa yawa sakiike maa goonɗinɗo oo ? En fuu , en ndaroyto yeeso sarirde Laamɗo ,
+46001020a	ko		Ndennoo , hakkilante won ko woni naa ? 
+46001020b	ko		Dunkee Sariya won ko woni naa ? 
+46001020c	ko		Baawɗo haala e oo jamaanu won ko woni naa ? Wanaa Laamɗo waylitii hakkilantaaku oo aduna waɗii ɗum majjere naa ?
+46002011	Homo		Homo waawi anndude neɗɗo faa laaɓa so wanaa yonki wonki e mum kii ? Laamɗo duu hono non , fay gooto anndaa mo faa laaɓa so wanaa Ruuhu gonɗo e makko oo .
+46002016a	homo		Sabi nii Binndi ɗii mbiiri : « Homo anndi anniya Joomiraaɗo oo ? 
+46002016b	homo		Homo waawi waajaade ɗum ? » Kaa enen , anniya Almasiihu oo njogi-ɗen .
+46003005a	ko		Ko Apollos woni ? 
+46003005b	ko		Ko Pool woni ? Min gollanooɓe Laamɗo tan , gooto fuu ko Joomiraaɗo hokki ɗum . E juuɗe amen ngoonɗin-ɗon .
+46004007a	homo		Ndennoo homo ɓurnu maa woɓɓe ɓee ? 
+46004007b	Koɗum		Koɗum njogi-ɗaa ko a hokkaaka ? 
+46004007c	ko waɗi		Ko njogi-ɗaa fuu a dokkaaɗo , ko waɗi so aɗa mantoroo ɗum hono ɗum wanaa dokke Laamɗo ?
+46004021	Hono		Hono njiɗ-ɗon mi warda e mon ? Sawru naa jilli e newaare ?
+46005002	~		Kasen duu oɗon mantoroo ɗum ! Ko kaanno-ɗon waɗude dee , metteede ɗum , yalla oɗon itta gaɗuɗo oo golle bonɗo e hakkunde mon .
+46005012	~		Sabi ɓe ngalaa e ley deental goonɗinɓe Laamɗo ngal ɓee , wanaa miin sarata ɓe , Laamɗo sarata ɓe . Kaa wonɓe ley deental goonɗinɓe Laamɗo ngal ɓee , onon carata ɗum'en . Sabi nii winndorii : « Ittee neɗɗo bonɗo oo e ley mon . »
+46006001	hono		So luurral waɗii hakkunde mon , hono joomum'en cuusirta wullitaade ooɲiiɓe ɓee njoppa fooccitiiɓe ɓee ?
+46006003	~		Tama on anndaa enen caroyta malaa'ika'en ɓee ? Sako kulle ɗam ɗoo nguurndam !
+46006004	Ko saabii		Ndennoo , so luurral waɗii hakkunde mon banngal kulle aduna , ko saabii so oɗon ngullitoyoo ɓe deental goonɗinɓe ngal jataaki ɓee ?
+46006007a	ko saabii		Haya , ko cardaton e mum hakkunde mon koo duu yo ayiibe bonɗo jaati . Ko saabii so on cuɓaaki muɲude tooɲannge ? 
+46006007b	ko saabii		Ko saabii so on cuɓaaki muɲude ɓoleede ?
+46006009	~		Tama on anndaa ooɲiiɓe naatataa e Laamu Laamɗo oo ? Pati njaayree ko'e mon : soɓuɓe e rewooɓe tooruuji e jeenooɓe e luuɗunkooɓe
+46006016	~		Tama on anndaa piilondirɗo e debbo coottoowo hoore mum fuu , laatodike e mum terɗe goote ? Sabi ana winndii : « Ɓe ɗiɗon fuu ɓe laatoto neɗɗo gooto . »
+46006019	~		Tama on anndaa terɗe mon ɗee ngoni suudu Ruuhu Ceniiɗo gonɗo e mon mo Laamɗo hokki on oo ? Wanaa onon njey ko'e mon ,
+46007016a	hono		Debbo goonɗinɗo , hono anndirtaa aɗa waawi hisinde gora ? 
+46007016b	hono		Gorko goonɗinɗo , hono anndirtaa aɗa waawi hisinde gennda ?
+46009007a	homo		Homo e mon yii sordaasi joɓoowo hoore mum ? 
+46009007b	homo		Homo woni demoowo mo ɲaamataa ko hetti e ngesa mum ? 
+46009007c	homo		Homo woni duroowo mo yarataa kosam sewre mum ?
+46009018	koɗum		Ndennoo koɗum woni njoɓdi am ? Njoɓdi am , ɗum woni seyo am ko mbaajotoo-mi Kabaaru Lobbo meere meere koo , tawti e ko mi lamndataako ko waajotooɓe Kabaaru Lobbo oo ɓee poti heɓude .
+46010019a	ko		Miɗo yiɗi wiide tew cakkanaaɗo tooruuji won ko woni naa ? 
+46010019b	ko		Naa tooru e hoore mum won ko woni ?
+46010019c	~		
+46010029	ko		Wanaa ko wartata e hakkillaaji mon onon kaalan-mi ɗoo , ko wartata e hakkille biiɗo non oo kaalan-mi . Kaa fotaa ko hakkille neɗɗo goɗɗo sara ndimaaku am .
+46010030	ko waɗi		So miɗo yetta Laamɗo e dow ko ɲaaman-mi , ko waɗi so miɗo bonkee e nduun ɲaamdu ndu njettu-mi Laamɗo kammari mum ?
+46011022	Ko		Tama on ngalaa cuuɗi ɗo kaan-ɗon ɲaamde e yarde ? Naa on yawɓe deental goonɗinɓe Laamɗo ngal ? Naa oɗon njiɗi hoynude ɓe ngalaa ko njogii ɓee ? Ko mbiyan-mi on ? Mi yetta on naa ? Mi waawataa yettude on e ɗum .
+46012017a	hono		So calɗi ɗii fuu yo gite , hono neɗɗo oo nanirta ? 
+46012017b	hono		Naa so ɗi fuu ɗi noppi , hono neɗɗo oo maatirta ko uurata e ko luuɓata ?
+46012019	~		Salndu wooturu laatataako neɗɗo .
+46014006	koɗum		Ndennoo sakiraaɓe , so mi wariino to mon mi haalirananno on ɗemɗe Ruuhu , so haala am waddanaalino on ko Laamɗo ɓannginani kam koo , naa anndal , naa konngol ngol Laamɗo loowi kam ngol , naa waaju , koɗum ɗum fuu ɗum nafata on ?
+46014007	hono		Tayko-ɗen kaaki wanngiyaare hono sereendu naa hoddu . So ɗi piyaaka faa laaɓa , hono annditirten ko sereendu nduu fiyata naa ko hoddu nduu hoɗata ?
+46014008	homo		Naa so puufoowo buututal wolde fuufaali faa laaɓa , homo lanndinantoo wolde ndee ?
+46014009	hono		Hono non , onon duu , so on njottinirii kabaaru oo ɗemɗe Ruuhu tawa ko famminii fuu walaa hen , hono paamirte-ɗon ? On tippike haala mon !
+46014015	hono		Ndennoo , hono ngaɗan-mi ? Mi ɲaagorto yonki am , mi ɲaagorto hakkille am . Mi yimiran yonki am , mi yimiran hakkille am .
+46014016	hono		So wanaa ɗum , so a yettirii Laamɗo ɗemɗe Ruuhu tan , hono tawaaɗo ton mo woowaa ɗum waawirta wiide « Aamiina » e yettugol maa ngol ? Sabi joomum nanataa ko kaalataa koo .
+46014026	hono		Ndennoo sakiraaɓe , hono waɗetee ? So on kawritii , dokkaaɗo yimre e dokkaaɗo janngingol e dokkaaɗo ko Laamɗo ɓannginani ɗum e dokkaaɗo haalirde ɗemɗe Ruuhu e dokkaaɗo maandinde ɗe , fuu yo waɗire faa naɓa deental goonɗinɓe ngal yeeso .
+46014036	~		Naa oɗon miila konngol Laamɗo ngol to mon iwi ? Naa onon tan keɓi ngol ?
+46015012	hono		Jooni , miɗen mbaajoo Almasiihu immitike e maayde . Ndennoo , hono yoga mon wiirata maayɓe immitataako ?
+46015029a	~		Haya , won yogaaɓe jaɓuɓe lootireede lootogal batisima saabe maayɓe . 
+46015029b	koɗum waɗi		So tawii maayɓe immitataakono , koɗum waɗi so yimɓe ana mbatisiree saabe maɓɓe ?
+46015029c	~		
+46015030a	~		Enen e ko'e men , 
+46015030b	ko waɗi		ko waɗi so eɗen njarroo wakkati fuu naatude e farati ?
+46015032	koɗum		So no neɗɗo wa'i nii tan miilortonoo-mi ko kaɓannoo-mi e waasooji ley Efeesu koo , koɗum ɗum nafata kam ? So maayɓe immitataakono , ngaɗen no wiiraa nii : « Ɲaamen njaren , sabi en maayooɓe janngo . »
+46015035a	hono		Kaa daɲan lamndiiɗo : « Hono maayɓe immitortoo ? 
+46015035b	hoɗe		Terɗe hoɗe ɓe tawretee ? »
+46015055a	hoto		« Maayde , hoto jaalogal maa woni ? 
+46015055b	hoto		Maayde , hoto semmbe maa woni ? »
+47002002	homo		Sabi so mi suŋlinii on , homo seynata kam so wanaa onon ɓe cuŋlin-mi ɓee ?
+47002016	Homo		Ɗo halkotooɓe ɓee , min kaccol maayde naɓoowol ɓe e maayde , ɗo hisinteeɓe ɓee , min uurdi nguurndam naɓoori ɓe e nguurndam . Homo foti gollude oo golle ?
+47003008	~		Kaa golle Ruuhu oo ɓuri darja !
+47003009	~		Golle liɓoowo oo ana jogii darja , sako golle fooccitaare oo .
+47006014a	ko		Pati kaɓɓondiree e ɓe ngoonɗinaali ɓee , sabi eɗum wa'i hono no reentinde daabaaji ɗiɗi ɗi ngaldaa faa ndemda . Won ko reentini fooccitaare e ooɲaare naa ? 
+47006014b	ko		Won ko reentini fooyre e nimre naa ?
+47006015a	ko		Won ko reentini Almasiihu e Ibiliisa naa ? 
+47006015b	ko		Won ko reentini goonɗinɗo e mo goonɗinaali naa ?
+47006016	~		Aadi won hakkunde suudu Laamɗo nduu e tooruuji ɗii naa ? Anndee , enen ngoni suudu Laamɗo guurɗo oo . Sabi Laamɗo wii : « Mi hoɗidan e maɓɓe , mi yiilodoto e maɓɓe , mi laatoo Laamɗo maɓɓe , ɓe laatoo yimɓe am . »
+47011011	Ko saabii		Ko saabii so ngaɗir-mi non ? Saabe mi yiɗaa on ngaɗir-mi non naa ? Laamɗo ana anndi miɗo yiɗi on !
+47011029a	~		So won lo'uɗo , loore mum ana hewta kam . 
+47011029b	~		So won pergitiiɗo , ana ɲawna yonki am .
+47012013	Koɗum		Koɗum deente goonɗinɓe Iisaa goɗɗe ɗee ɓurdi on , so wanaa ko mi fawaaki e mon koo ? Njaafee kam e oon tooɲannge !
+47012017	~		Won nelaaɓe am ɓe nelir-mi faa mi ɲaama jawdi mon naa ?
+48002014	Hono		Nde njiinoo-mi no ɓe ngorri nii dartaaki , eɓe ngoorti goonga gonɗo e Kabaaru Lobbo oo , mbii-mi Piyeer yeeso yimɓe fuu : « Aan Yahuudiyanke , a worraano ɗoo hono no Yahuudiyankooɓe ngorri nii , no leɲi goɗɗi ɗii ngorri nii ngorruno-ɗaa . Hono mbaawru-ɗaa tilsinirde yimɓe ɓe nganaa Yahuudiyankooɓe ɓee kinaa laatoo hono no Yahuudiyankooɓe nii ? »
+48003001	Homo		Eehey Galaatiyankooɓe , woy oɗon pamɗi hakkille ! Homo dawri on ? On cifanaama faa laaɓi paca no Iisaa Almasiihu tontiraa e leggal bardugal .
+48003019	ko		Ndennoo , ko Sariya Muusaa nafata ? O waddiraama faa o ɓanngina luutti faa nde iwɗo e Ibarahiima podanaaɗo fodoore ndee oo wari fuu . Laamɗo hokki yimɓe Sariya oo , o hokkiri ɓe malaa'ika'en , kaɲum e curoowo .
+48004009a	hono		Kaa jooni ko anndu-ɗon Laamɗo koo , naa miɗo haannoo wiide jooni ko Laamɗo anndi on koo : hono mbaawirton wirfitaade e semmbeeji aduna lo'uɗi ɗi ngalaa nafaa ɗii ? 
+48004009b	ko saabii		Ko saabii so oɗon njiɗi laattaade maccuɓe majji kasen ?
+48004010	~		Oɗon teddini ɲalaaɗe yogaaje e lebbi yogaaji e wakkatiiji yogaaji e kitaale yogaaje .
+48004015	hono		Oon wakkati , oɗon keewnoo seyo sanne ! Miɗo waawi seettanaade on : so oɗon mbaawnoo , on ɗoofanno gite mon ndokkon kam . Ndennoo hono seyo mon ngoo laatii ?
+48004021	ko		Onon yiɗuɓe jokkude Sariya Muusaa , miɗo lamndoo on : on nanaali ko Sariya wii naa ?
+48004030	koɗum		Kaa koɗum Binndi ɗii mbii ? Ɗi mbii : « Ribbu korɗo oo e ɓiyum , sabi ɓii korɗo oo rondataa e ɓii dimo oo abada . »
+48005007a	homo		On puɗɗirii no wooɗi . Homo haɗi on jokkude goonga ?
+48005007b	~		
+48005011	Ko saabii		Kaa miin sakiraaɓe , so tawii faa hannde miɗo waajoo kinaa neɗɗo taadee , ko saabii so miɗo torree faa jooni ? Sinndo ɗum mbaajotonoo-mi , waaju am haala maayde Iisaa dow leggal bardugal mettataano fay gooto .
+49004009	Koɗum		Koɗum woni maanaa « o ŋabbii » ? Walaa ko woni maanaa majjum , so wanaa o jippinoke e nokkuuje ɓurɗe fuu leyɗude e leydi ndii .
+50001018	Ko		Ɗum kaa bonnataa fay huunde ! Ko waawi laataade fuu , so Iisaa Almasiihu inndaama hen tan ana heƴa , so laatii anniyaaji bonɗi naa anniyaaji lobbi fuu miɗo seyii . Goonga , mi seyoto caggal mum duu
+50001021	~		Sabi banngal am , Almasiihu yo yonki am , maayde duu yo tino am .
+51002020	koɗum waɗi		On maaydii e Almasiihu , on iwii e semmbeeji aduna oo ɗii . Ndennoo , koɗum waɗi so oɗon nguurda no jeyaaɓe e oo ɗoo aduna nii ? Koɗum waɗi so oɗon njaɓa daaleede :
+52002019	Homo		Homo woni jikke amen e seyo amen e deesewal amen yeeso Joomiraaɗo men Iisaa nde wartoyii ? Wanaa onon naa ? Jaati !
+52003009	~		Jettooje fuu ɗe min mbaawi yettirde Laamɗo kammari mooɗon , min njettiran ɗum saabe seyo amen fuu ngo ceynir-ɗon min yeeso makko .
+54003005	hono		Sabi so neɗɗo waawaali hawjaade koreeji mum , hono hinnortoo deental goonɗinɓe Laamɗo ngal ?
+54006007a	~		Sabi juuɗe ɓole ngardu-ɗen e aduna oo , 
+54006007b	~		kasen duu juuɗe ɓole kootirten .
+58001005	~		Fay gooto e malaa'ika'en ɓee Laamɗo wiyaali : « Aan a Ɓiyam , hannde laatii-mi baam maa . » Naa kasen : « Mi laatoo Baaba mum , laatoo Ɓiyam . »
+58001013	~		Fay nde wootere , Laamɗo wiyaali gooto e malaa'ika'en : « Jooɗa ɲaamo am , faa mi waɗa njaɓɓaa wayɓe maa . »
+58001014	~		Malaa'ika'en ɓee fuu yo ruuhuuji gollanooji Laamɗo , ɗi mo nelata faa ngollana heɓooɓe kisindam ɓee .
+58002003	Hono		Hono ndaɗirten enen so en njeebiima hono ɗam kisindam mawɗam ? Ɗam kisindam , Joomiraaɗo men jaati ardinoo haalde haala majjam , kasen duu hettininooɓe mo ɓee cellini haala makko .
+58002006a	Koɗum		Mo o hokki laamaade oo — won ɗo Binndi ɗii ceettii , mbii : « Koɗum fuu yimɓe ngoni sako aɗa waɗana ɗum'en hakkille ? 
+58002006b	Koɗum		Koɗum ɓiɓɓe aadama ngoni sako aɗa hayba ɗum'en ?
+58003016	Hoɓe		Hoɓe ngoni murtuɓe fay so taweede nanii daande Laamɗo ɓee ? Tama wanaa yimɓe ɓe Muusaa ɗowi iwde leydi Misira ɓee ?
+58003017	Hoɓe		Hoɓe ngoni ɓe Laamɗo tikkani ko foti duuɓi capanɗe nay ? Tama wanaa luuttuɓe so kalkii e ley ladde jeereende ɓee ?
+58003018	Hoɓe		Hoɓe ngoni ɓe o hunanii naatataa e fowtere makko ɓee ? Tama wanaa murtirɓe mo ɓee ?
+58006004	~		Won fuu no murtuɓe so iwi e laawol Laamɗo ɓee tuubirta kasen naa ? Ɓe njii fooyre Laamɗo , ɓe keɓii moƴƴere Laamɗo , ɓe keɓii ngeɗu e Ruuhu Ceniiɗo ,
+58007011	~		Sariya dokkaaɗo Israa'iilankooɓe oo tuugike yottingol sadakaaji Lewinkooɓe ngol . Jonnoo , so tawiino nii ngol yottingol sadakaaji ana hiɓɓunoo , garol jottinoowo sadaka goɗɗo no Malkisedeke nii , mo wanaa iwɗo e Haaruuna , hasindintaakeno .
+58009014	~		Ƴiiƴam Almasiihu ɗam ɓuri ɗum waawde laɓɓinde hakkillaaji men iwde e golleeji naɓooji en to maayde ɗii , yalla eɗen ndewa Laamɗo guurɗo oo . Sabi e baawɗe Ruuhu duumiiɗo oo , Iisaa hokkii hoore mum Laamɗo no layyaari ndi walaa ella nii .
+58010001	~		Sariya Muusaa oo yo mbeelu moƴƴereeji garooji ɗii , wanaa mbaadi majji jaati . Ɗum saabii fay e ley sadakaaji jottinteeɗi hitaande faa hitaande ɗii , o waawaa waɗude rewooɓe ɓee hiɓɓuɓe .
+58010029a	~		Kaa walaa fuu ɓurɗo haandude e jukkungo ko foti so neɗɗo yaaɓii Ɓii Laamɗo , 
+58010029b	~		soɓinii ƴiiƴam aadi cennuɗam ɗum ɗam , 
+58010029c	~		hoynii Ruuhu gaddoowo moƴƴere oo .
+58010029d	~		
+58011032	Koɗum		Koɗum mbiyan-mi kasen ? Wakkati oo heƴataa kam faa mi haala kabaaru Gedeyon e Barak e Samson e Yefte e Daawuuda e annabi Samuyila , kaɲum e annabaaɓe woɓɓe ɓee .
+58012007	homo		Muɲee ne'ugol ngol , anndon Laamɗo nanngiri on ɓiɓɓe mum . Homo woni ɓiɗɗo mo baam mum ne'ataa ɗum ?
+58012009	ko		Baabiraaɓe men aduna ɓee ana ne'annoo en , en teddinii ɓe . Ko haɗata en ɗowtanaade Baabiraaɗo men dow kammu oo faa ɓura no maɓɓe nii yalla eɗen nguura ?
+58012025	~		Ndennoo tiinnee pati calo-ɗon Laamɗo kaaldoowo e mooɗon oo , sabi salinooɓe jeertingol makko dow leydi gaa ɓee ndaɗaali , wanaa haala enen so en calanike jeertingol iwrungol dow kammu .
+58013006	Koɗum		Saabe majjum , eɗen mbaawi haalde ɗum ɗoo dow hoolaare : « Joomiraaɗo woni paabotooɗo kam , mi hulataa . Koɗum fuu neɗɗo waawi waɗude kam ? »
+59002006	~		Kaa onon , on koynii misikiina'en ɓee . Tama wanaa arsukunte'en ɓee torrata on , so naɓa on laamu ?
+59002014	Koɗum		Sakiraaɓe am , tama won biyoowo e mooɗon « Miɗo goonɗini Laamɗo . » Koɗum fuu ɗum nafata so golle makko hollataa omo goonɗini ? Ngal goonɗinal ana waawi hisinde mo naa ?
+59002016a	~		so gooto mon wii ɓe : « Yo on tawoy jam , kolton kolte tekkuɗe , ɲaamon faa kaaron » tawee on ndokkaali ɓe ko ɓe kasindini e mum koo , koltal e nguure , 
+59002016b	koɗum		koɗum ɗum nafata ?
+59002018	~		Kaa so won biiɗo ma : « Aan , a jom goonɗinal , miin , mi jom golle » , nden , mi jaaboto joomum : « Hollam goonɗinal maa tawee waldaa e golle lobbo so aɗa waawi . Miin duu mi hollirte golleeji am mi goonɗinɗo . »
+59002021	hono		Hono njaati men Ibarahiima waɗi so nanngiraa pooccitiiɗo , wanaa golle muuɗum naa ? O fawi ɓiyiiko Isiyaaka e ittirde sadaka ndee faa o hirsa ɗum .
+59003013	~		Hakkilante naa paamɗo ana e mooɗon naa ? Joomum hollira ɗum caahu e golleeji gaɗiraaɗi sawraare e hakkilantaaku .
+59003017	~		Kaa hakkilantaaku iwɗo to Laamɗo , laɓɓinan ɓernde tafon . Caggal ɗum , o wadda jam . Omo heewi sawraare , omo heewi newaare , omo heewi yurmeende , omo waɗa golleeji lobbi . O seenndataa ɓiɓɓe aadama . Naafigaaku walaa e makko .
+59004001a	hoto		Hoto golowole 
+59004001b	~		e haɓooji gonɗi e ley mooɗon ɗii iwi ? Tama wanaa e jooteeji mooɗon kaɓooji e ley ɓerɗe mooɗon ɗii ɗi iwi ?
+59004012	ko		Gooto woni darnuɗo sariya , oo woni Laamɗo Caroowo oo : kanko tan woni baawɗo hisinde naa halkude . Aan , ko ngon-ɗaa faa kiitoo-ɗaa tanaa maa ?
+59004014	Koɗum		On anndaa ko waɗata janngo . Koɗum woni nguurndam mon ? Ɗum cuurki ɓannguki wakkatiiwel gootel tan so majji .
+60002020	hongal		So tawii a tooɲuɗo a jukkaama batte majjum , fay so a muɲii , teddeengal hongal keɓataa ? Kaa so on muɲii torraaji kewtiiɗi on ley golle mon lobbo oo , Laamɗo ana yiɗi ɗum .
+60003013	Homo		Homo torrata on so on tiinnike e ko moƴƴi ?
+60004017	hono		Jooni wakkati oo yottike nde Laamɗo fuɗɗata sarde yimɓe . To yimɓe rewooɓe mo ɓee o fuɗɗirta . So sariya oo fuɗɗirii en enen , hono timmirta e dow ɓe njokkaali Kabaaru Laamɗo Lobbo ɓee ?
+60004018	koɗum		Binndi ɗii mbii : « So hisinde fooccitiiɓe tiiɗii , koɗum hewtotoo yedduɓe Laamɗo e luuttooɓe ? »
+61003004	hono		ɓe mbiya : « Hono fodoore gartol makko ndee laatii ? Sabi gila e njaatiraaɓe faa jooni , huunde fuu ana worri e alhaali mum hono no worrunoo gila e fuɗɗoode aduna nii . »
+61003011	hono		Haya so tawii ɗum fuu hono non ɗum halkortoo , oɗon kaani jokkude laawol ceniingol ! Oɗon kaani wuurdude kulol Laamɗo
+62002022	homo		Ndennoo , homo woni penoowo ? Jedduɗo Iisaa yo Almasiihu , kaɲum woni penoowo . Jedduɗo Baabiraaɗo e Bajjo oo fuu yo konnee-Almasiihu .
+62003012	Koɗum waɗi		En kaanaa wa'ude no Kaabiila jokkuɗo Ibiliisa Bonɗo oo so wari miɲum nii . Koɗum waɗi so o wari ɗum ? O wardii ɗum kammari golle makko yo bonɗo , mo miɲiiko oo kaa yo lobbo .
+62003017	hono		So jogiiɗo nguure hitaande yii sakiike mum yo kasindinɗo , yurmaaki ɗum , hono jilli Laamɗo mbaawiri ɲiiɓirde e mum ?
+62004020	~		Biiɗo « miɗo yiɗi Laamɗo » , so tawi ana waɲi sakiike mum , yo penoowo . Sabi mo yiɗaali sakiike mum mo yiyata , waawaa yiɗude Laamɗo mo yiyaali .
+62005005	Homo		Homo jaalotoo giɗaaɗe yonki ? Walaa fuu jaalotooɗo giɗaaɗe yonki so wanaa goonɗinɗo Iisaa woni Ɓii Laamɗo .
+66005002	Homo		Non njii-mi malaa'ika jom semmbe ana ooynoo e daande toownde , ana wiya : — Homo haandi e fettude peɗooɗe ɗee uddita dewtere ndee ?
+66006010a	faa mande		Ɓe eewnii faa toowi , ɓe mbii : — Joomiraaɗo ceniiɗo goongirante , faa mande ndoomu-ɗaa sarde yimɓe wonɓe 
+66006010b	~		e aduna oo ɓee faa njoɓto-ɗaa ƴiiƴam amen ɗam ?
+66006017	homo		Sabi ɲalooma mawɗo tikkere maɓɓe ndee yottiima , homo waawi daɗude ?
+66007013a	Hoɓe		Non gooto e mawɓe ɓee lamndii kam : — Hoɓe ngoni ɓee yimɓe ɓoorniiɓe saayaaji daneeji ? 
+66007013b	hoto		Hoto ɓe iwi ?
+66013004a	homo		Ɓe cujidani kuungal ngal sabi ngal hokkii taktakol ngol baawɗe maggal laamaade . Kasen duu , ɓe cujidani taktakol ngol , eɓe mbiya : — Homo nanndi e taktakol ngol ? 
+66013004b	homo		Homo waawi haɓude e maggol ?
+66015004a	homo		Homo woni mo hulataa ma , Joomiraaɗo , 
+66015004b	~		mo teddintaa innde maa ? Sabi aan woni gooto Ceniiɗo . Leɲi fuu ngaran cujida yeeso maa , sabi ɓe njii no golleeji maa pooccitorii . »
+66017007	Ko saabii		Kaa malaa'ika oo wii kam : — Ko saabii so ɗum ana haayni maa ? Mi firritante maanaa cuuɗiiɗo oo , maanaa debbo oo e taktakol ngol o waɗɗii jogiingol ko'e jeɗɗi e luwe sappo ngol .
+66018018	honde		So ɓe njii cuurki cumu mayre , ɓe ngullan , ɓe mbiya : — Ngalluure honde nanndunoo e nden ngalluure mawnde ?

@@ -1,0 +1,743 @@
+40002002	Hvar		og sögðu : " Hvar er hinn nýfæddi konungur Gyðinga ? Vér sáum stjörnu hans renna upp og erum komnir að veita honum lotningu . "
+40002004	Hvar		Og hann stefndi saman öllum æðstu prestum og fræðimönnum lýðsins og spurði þá : " Hvar á Kristur að fæðast ? "
+40003007	hver		Þegar hann sá , að margir farísear og saddúkear komu til skírnar , sagði hann við þá : " Þér nöðru kyn , hver kenndi yður að flýja komandi reiði ?
+40005013	hverju		Þér eruð salt jarðar . Ef saltið dofnar , með hverju á að selta það ? Það er þá til einskis nýtt , menn fleygja því og troða undir fótum .
+40005046	hver		Þótt þér elskið þá , sem yður elska , hver laun eigið þér fyrir það ? Gjöra ekki tollheimtumenn hið sama ?
+40005047	hvað		Og hvað er það , þótt þér heilsið bræðrum yðar einum . Gjöra heiðnir menn ekki hið sama ?
+40006027	hver		Og hver yðar getur með áhyggjum aukið einni spönn við aldur sinn ?
+40006028	hví		Og hví eruð þér áhyggjufullir um klæði ? Hyggið að liljum vallarins , hversu þær vaxa . Hvorki vinna þær né spinna .
+40006031a	Hvað		Segið því ekki áhyggjufullir : , Hvað eigum vér að eta ? 
+40006031b	Hvað		Hvað eigum vér að drekka ? 
+40006031c	hverju		Hverju eigum vér að klæðast ? `
+40007003	Hví		Hví sér þú flísina í auga bróður þíns , en tekur ekki eftir bjálkanum í auga þínu ?
+40007004	hvernig		Eða hvernig fær þú sagt við bróður þinn : , Lát mig draga flísina úr auga þér ? ` Og þó er bjálki í auga sjálfs þín .
+40007009	hver		Eða hver er sá maður meðal yðar , sem gefur syni sínum stein , er hann biður um brauð ?
+40007016a	~		Af ávöxtum þeirra skuluð þér þekkja þá . Hvort lesa menn vínber af þyrnum 
+40007016b	~		eða fíkjur af þistlum ?
+40008026	Hví		Hann sagði við þá : " Hví eruð þér hræddir , þér trúlitlir ? " Síðan reis hann upp og hastaði á vindinn og vatnið , og varð stillilogn .
+40008027	Hvílíkur		Mennirnir undruðust og sögðu : " Hvílíkur maður er þetta ? Jafnvel vindar og vatn hlýða honum . "
+40008029	Hvað		Þeir æpa : " Hvað vilt þú okkur , sonur Guðs ? Komstu hingað að kvelja okkur fyrir tímann ? "
+40009004	Hví		En Jesús þekkti hugsanir þeirra og sagði : " Hví hugsið þér illt í hjörtum yðar ?
+40009005	Hvort		Hvort er auðveldara að segja : , Syndir þínar eru fyrirgefnar ` eða : , Statt upp og gakk ` ?
+40009011	hvers vegna		Þegar farísear sáu það , sögðu þeir við lærisveina hans : " Hvers vegna etur meistari yðar með tollheimtumönnum og bersyndugum ? "
+40009014	Hví		Þá koma til hans lærisveinar Jóhannesar og segja : " Hví föstum vér og farísear , en þínir lærisveinar fasta ekki ? "
+40009015	Hvort		Jesús svaraði þeim : " Hvort geta brúðkaupsgestir verið hryggir , meðan brúðguminn er hjá þeim ? En koma munu þeir dagar , er brúðguminn verður frá þeim tekinn . Þá munu þeir fasta .
+40010025	hvað		Nægja má lærisveini að vera sem meistari hans og þjóni sem herra hans . Fyrst þeir kölluðu húsföðurinn Beelsebúl , hvað kalla þeir þá heimamenn hans ?
+40011007	Hvað		Þegar þeir voru farnir , tók Jesús að tala til mannfjöldans um Jóhannes : " Hvað fóruð þér að sjá í óbyggðum ? Reyr af vindi skekinn ?
+40011008	Hvað		Hvað fóruð þér að sjá ? Prúðbúinn mann ? Nei , prúðbúna menn er að finna í sölum konunga .
+40011009	til hvers		Til hvers fóruð þér ? Að sjá spámann ? Já , segi ég yður , og það meira en spámann .
+40011016	hvað		Við hvað á ég að líkja þessari kynslóð ? Lík er hún börnum , sem á torgum sitja og kallast á :
+40012011	~		Hann svarar þeim : " Nú á einhver yðar eina sauðkind , og hún fellur í gryfju á hvíldardegi . Mundi hann ekki taka hana og draga upp úr ?
+40012026	Hvernig		Ef Satan rekur Satan út , er hann sjálfum sér sundurþykkur . Hvernig fær ríki hans þá staðist ?
+40012027	hverju		Og ef ég rek illu andana út með fulltingi Beelsebúls , með hverju reka þá yðar menn þá út ? Því skulu þeir vera dómarar yðar .
+40012029	hvernig		Eða hvernig fær nokkur brotist inn í hús hins sterka og rænt föngum hans , nema hann bindi áður hinn sterka , þá getur hann rænt hús hans .
+40012034	hvernig		Þér nöðru kyn , hvernig getið þér , sem eruð vondir , talað gott ? Af gnægð hjartans mælir munnurinn .
+40012048a	hver		Jesús svaraði þeim , er við hann mælti : " Hver er móðir mín , 
+40012048b	hverjir		og hverjir eru bræður mínir ? "
+40013010	hvers vegna		Þá komu lærisveinarnir til hans og spurðu : " Hvers vegna talar þú til þeirra í dæmisögum ? "
+40013027	Hvaðan		Þá komu þjónar húsbóndans til hans og sögðu við hann : , Herra , sáðir þú ekki góðu sæði í akur þinn ? Hvaðan kemur illgresið ? `
+40013054a	Hvaðan		Hann kom í ættborg sína og tók að kenna þeim í samkundu þeirra . Þeir undruðust stórum og sögðu : " Hvaðan kemur honum þessi speki 
+40013054b	~		og kraftaverkin ?
+40013056	Hvaðan		Og eru ekki systur hans allar hjá oss ? Hvaðan kemur honum þá allt þetta ? "
+40014031	hví		Jesús rétti þegar út höndina , tók í hann og sagði : " Þú trúlitli , hví efaðist þú ? "
+40015002	hvers vegna		" Hvers vegna brjóta lærisveinar þínir erfikenning forfeðranna ? Þeir taka ekki handlaugar , áður en þeir neyta matar . "
+40015003	hvers vegna		Hann svaraði þeim : " Hvers vegna brjótið þér sjálfir boðorð Guðs sakir erfikenningar yðar ?
+40015033	Hvar		Lærisveinarnir sögðu : " Hvar fáum vér nóg brauð til að metta allt þetta fólk hér í óbyggðum ? "
+40015034	Hve mörg		Jesús spyr : " Hve mörg brauð hafið þér ? " Þeir svara : " Sjö , og fáeina smáfiska . "
+40016008	Hvað		Jesús varð þess vís og sagði : " Hvað eruð þér að tala um það , trúlitlir menn , að þér hafið ekki brauð ?
+40016009	hve margar		Skynjið þér ekki enn ? Minnist þér ekki brauðanna fimm handa fimm þúsundum og hve margar körfur þér tókuð saman ?
+40016010a	~		Eða brauðanna sjö handa fjórum þúsundum 
+40016010b	hve margar		og hve margar körfur þér tókuð saman ?
+40016011	Hvernig		Hvernig má það vera , að þér skynjið ekki , að ég var ekki að tala um brauð við yður . Varist súrdeig farísea og saddúkea . "
+40016013	Hvern		Þegar Jesús kom í byggðir Sesareu Filippí , spurði hann lærisveina sína : " Hvern segja menn Mannssoninn vera ? "
+40016015a	~		Hann spyr : " En þér , 
+40016015b	hvern		hvern segið þér mig vera ? "
+40016026a	hvað		Hvað stoðar það manninn að eignast allan heiminn og fyrirgjöra sálu sinni ? 
+40016026b	hvað		Eða hvað gæti maður látið til endurgjalds fyrir sálu sína ?
+40017010	Hví		Lærisveinarnir spurðu hann : " Hví segja fræðimennirnir , að Elía eigi fyrst að koma ? "
+40017017a	hversu lengi		Jesús svaraði : " Ó , þú vantrúa og rangsnúna kynslóð , hversu lengi á ég að vera hjá yður ? 
+40017017b	hversu lengi		Hversu lengi á ég að umbera yður ? Færið hann hingað til mín . "
+40017019	Hvers vegna		Þá komu lærisveinarnir til Jesú og spurðu hann einslega : " Hvers vegna gátum vér ekki rekið hann út ? "
+40017025a	Hvað		Hann kvað svo vera . En er hann kom inn , tók Jesús fyrr til máls og mælti : " Hvað líst þér , Símon ? 
+40017025b	af hverjum		Af hverjum heimta konungar jarðarinnar toll eða skatt ? Af börnum sínum eða vandalausum ? "
+40018001	Hver		Á þeirri stundu komu lærisveinarnir til Jesú og spurðu : " Hver er mestur í himnaríki ? "
+40018012	Hvað		Hvað virðist yður ? Ef einhver á hundrað sauði og einn þeirra villist frá , skilur hann ekki þá níutíu og níu eftir í fjallinu og fer að leita þess , sem villtur er ?
+40018021	hve oft		Þá gekk Pétur til hans og spurði : " Herra , hve oft á ég að fyrirgefa bróður mínum , ef hann misgjörir við mig ? Svo sem sjö sinnum ? "
+40019007	hvers vegna		Þeir segja við hann : " Hvers vegna bauð þá Móse að gefa konu skilnaðarbréf og skilja svo við hana ? "
+40019016	hvað		Þá kom til hans maður og spurði : " Meistari , hvað gott á ég að gjöra til þess að öðlast eilíft líf ? "
+40019017	Hví		Jesús sagði við hann : " Hví spyr þú mig um hið góða ? Einn er sá hinn góði . Ef þú vilt inn ganga til lífsins , þá haltu boðorðin . "
+40019018	Hver		Hann spurði : " Hver ? " Jesús sagði : " Þú skalt ekki morð fremja , þú skalt ekki drýgja hór , þú skalt ekki stela , þú skalt ekki bera ljúgvitni ,
+40019020	Hvers		Þá sagði ungi maðurinn : " Alls þessa hef ég gætt . Hvers er mér enn vant ? "
+40019025	Hver		Þegar lærisveinarnir heyrðu þetta , urðu þeir steini lostnir og sögðu : " Hver getur þá orðið hólpinn ? "
+40019027	Hvað		Þá sagði Pétur við hann : " Vér yfirgáfum allt og fylgdum þér . Hvað munum vér hljóta ? "
+40020006	Hví		Og síðdegis fór hann enn út og sá menn standa þar . Hann spyr þá : , Hví hímið þér hér iðjulausir allan daginn ? `
+40020012	~		Þeir sögðu : , Þessir síðustu hafa unnið aðeins eina stund , og þú gjörir þá jafna oss , er höfum borið hita og þunga dagsins . `
+40020021	Hvað		Hann spyr hana : " Hvað viltu ? " Hún segir : " Lát þú þessa tvo syni mína sitja þér við hlið í ríki þínu , annan til hægri handar þér og hinn til vinstri . "
+40020032	Hvað		Jesús nam staðar , kallaði á þá og sagði : " Hvað viljið þið að ég gjöri fyrir ykkur ? "
+40021010	Hver		Þegar hann kom inn í Jerúsalem , varð öll borgin í uppnámi , og menn spurðu : " Hver er hann ? "
+40021016	hvað		og sögðu við hann : " Heyrir þú , hvað þau segja ? " Jesús svaraði þeim : " Já , hafið þér aldrei lesið þetta : , Af barna munni og brjóstmylkinga býrðu þér lof . " `
+40021020	Hvernig		Lærisveinarnir sáu þetta , undruðust og sögðu : " Hvernig gat fíkjutréð visnað svo fljótt ? "
+40021023a	hvaða		Hann gekk í helgidóminn . Þá komu æðstu prestarnir og öldungar lýðsins til hans , þar sem hann var að kenna , og spurðu : " Með hvaða valdi gjörir þú þetta ? 
+40021023b	hver		Hver gaf þér þetta vald ? "
+40021025a	Hvaðan		Hvaðan var skírn Jóhannesar ? Frá himni eða frá mönnum ? " Þeir ráðguðust hver við annan og sögðu : " Ef vér svörum : 
+40021025b	~		, Frá himni , ` spyr hann : 
+40021025c	Hví		, Hví trúðuð þér honum þá ekki ? `
+40021028	Hvað		Hvað virðist yður ? Maður nokkur átti tvo sonu . Hann gekk til hins fyrra og sagði : , Sonur minn , far þú og vinn í dag í víngarði mínum . `
+40021031	Hvor		Hvor þeirra tveggja gjörði vilja föðurins ? " Þeir svara : " Sá fyrri . " Þá mælti Jesús : " Sannlega segi ég yður : Tollheimtumenn og skækjur verða á undan yður inn í Guðs ríki .
+40021040	Hvað		Hvað mun nú eigandi víngarðsins gjöra við vínyrkja þessa , þegar hann kemur ? "
+40022012	hvernig		Hann segir við hann : , Vinur , hvernig ert þú hér kominn og ert ekki í brúðkaupsklæðum ? ` Maðurinn gat engu svarað .
+40022017	hvað		Seg oss því , hvað þér líst ? Leyfist að gjalda keisaranum skatt eða ekki ? "
+40022018	Hví		Jesús þekkti illsku þeirra og sagði : " Hví freistið þér mín , hræsnarar ?
+40022020a	hvers		Hann spyr : " Hvers mynd 
+40022020b	~		og yfirskrift er þetta ? "
+40022028	hvers		Kona hvers þeirra sjö verður hún í upprisunni ? Allir höfðu þeir átt hana . "
+40022036	hvert		" Meistari , hvert er hið æðsta boðorð í lögmálinu ? "
+40022042a	Hvað		" Hvað virðist yður um Krist ? 
+40022042b	hvers		Hvers son er hann ? " Þeir svara : " Davíðs . "
+40022043	Hvernig		Hann segir : " Hvernig getur þá Davíð , innblásinn andanum , kallað hann drottin ? Hann segir :
+40022045	hvernig		Fyrst Davíð kallar hann drottin , hvernig getur hann þá verið sonur hans ? "
+40023017	hvort		Blindu heimskingjar , hvort er meira gullið eða musterið , sem helgar gullið ?
+40023019	hvort		Blindu menn , hvort er meira fórnin eða altarið , sem helgar fórnina ?
+40023033	hvernig		Höggormar og nöðru kyn , hvernig fáið þér umflúið helvítisdóm ?
+40024003a	hvenær		Þá er hann sat á Olíufjallinu , gengu lærisveinarnir til hans og spurðu hann einslega : " Seg þú oss , hvenær verður þetta ? 
+40024003b	hvert		Og hvert mun tákn komu þinnar og endaloka veraldar ? "
+40024045	Hver		Hver er sá trúi og hyggni þjónn , sem húsbóndinn hefur sett yfir hjú sín að gefa þeim mat á réttum tíma ?
+40025037	hvenær		Þá munu þeir réttlátu segja : , Herra , hvenær sáum vér þig hungraðan og gáfum þér að eta eða þyrstan og gáfum þér að drekka ?
+40025038	Hvenær		Hvenær sáum vér þig gestkominn og hýstum þig , nakinn og klæddum þig ?
+40025039	hvenær		Og hvenær sáum vér þig sjúkan eða í fangelsi og komum til þín ? `
+40025044	hvenær		Þá munu þeir svara : , Herra , hvenær sáum vér þig hungraðan eða þyrstan , gestkominn eða nakinn , sjúkan eða í fangelsi , og hjálpuðum þér ekki ? `
+40026008	til hvers		Við þessa sjón urðu lærisveinarnir gramir og sögðu : " Til hvers er þessi sóun ?
+40026010	Hvað		Jesús varð þess vís og sagði við þá : " Hvað eruð þér að angra konuna ? Gott verk gjörði hún mér .
+40026015	Hvað		og sagði : " Hvað viljið þér gefa mér fyrir að framselja yður Jesú ? " En þeir greiddu honum þrjátíu silfurpeninga .
+40026017	Hvar		Á fyrsta degi ósýrðu brauðanna komu lærisveinarnir til Jesú og sögðu : " Hvar vilt þú , að vér búum þér páskamáltíðina ? "
+40026040	~		Hann kemur aftur til lærisveinanna og finnur þá sofandi . Þá sagði hann við Pétur : " Þér gátuð þá ekki vakað með mér eina stund ?
+40026050	hví		Jesús sagði við hann : " Vinur , hví ertu hér ? " Þá komu hinir , lögðu hendur á Jesú og tóku hann .
+40026054	Hvernig		Hvernig ættu þá ritningarnar að rætast , sem segja , að þetta eigi svo að verða ? "
+40026062a	~		Þá stóð æðsti presturinn upp og sagði : " Svarar þú því engu , 
+40026062b	~		sem þessir vitna gegn þér ? "
+40026065	hvað		Þá reif æðsti presturinn klæði sín og sagði : " Hann guðlastar , hvað þurfum vér nú framar votta við ? Þér heyrðuð guðlastið .
+40026066	Hvað		Hvað líst yður ? " Þeir svöruðu : " Hann er dauðasekur . "
+40026068	hver		og sögðu : " Spáðu nú , Kristur , hver var að slá þig ? "
+40027004	Hvað		og mælti : " Ég drýgði synd , ég sveik saklaust blóð . " Þeir sögðu : " Hvað varðar oss um það ? Það er þitt að sjá fyrir því . "
+40027013	hve mjög		Þá spurði Pílatus hann : " Heyrir þú ekki , hve mjög þeir vitna gegn þér ? "
+40027017	Hvorn		Sem þeir nú voru saman komnir , sagði Pílatus við þá : " Hvorn viljið þér , að ég gefi yður lausan , Barabbas eða Jesú , sem kallast Kristur ? "
+40027021	Hvorn		Landshöfðinginn spurði : " Hvorn þeirra tveggja viljið þér , að ég gefi yður lausan ? " Þeir sögðu : " Barabbas . "
+40027022	Hvað		Pílatus spyr : " Hvað á ég þá að gjöra við Jesú , sem kallast Kristur ? " Þeir segja allir : " Krossfestu hann . "
+40027023a	~		Hann spurði : 
+40027023b	Hvað		" Hvað illt hefur hann þá gjört ? " En þeir æptu því meir : " Krossfestu hann ! "
+40027046	hví		Og um nón kallaði Jesús hárri röddu : " Elí , Elí , lama sabaktaní ! " Það þýðir : " Guð minn , Guð minn , hví hefur þú yfirgefið mig ? "
+41001024	Hvað		" Hvað vilt þú oss , Jesús frá Nasaret ? Ert þú kominn að tortíma oss ? Ég veit , hver þú ert , hinn heilagi Guðs . "
+41001027	Hvað		Sló felmtri á alla , og hver spurði annan : " Hvað er þetta ? Ný kenning með valdi ! Hann skipar jafnvel óhreinum öndum og þeir hlýða honum . "
+41002007a	Hví		" Hví mælir þessi maður svo ? Hann guðlastar . 
+41002007b	hver		Hver getur fyrirgefið syndir nema Guð einn ? "
+41002008	Hví		Samstundis skynjaði Jesús í anda sínum , að þeir hugsuðu þannig með sér , og hann sagði við þá : " Hví hugsið þér slíkt í hjörtum yðar ?
+41002009	Hvort		Hvort er auðveldara að segja við lama manninn : , Syndir þínar eru fyrirgefnar , ` eða segja : , Statt upp , tak rekkju þína og gakk ? `
+41002016	~		Fræðimenn af flokki farísea , sem sáu , að hann samneytti bersyndugum og tollheimtumönnum , sögðu þá við lærisveina hans : " Hann etur með tollheimtumönnum og bersyndugum . "
+41002018	Hví		Lærisveinar Jóhannesar og farísear héldu nú föstu . Þá koma menn til Jesú og spyrja hann : " Hví fasta lærisveinar Jóhannesar og lærisveinar farísea , en þínir lærisveinar fasta ekki ? "
+41002019	Hvort		Jesús svaraði þeim : " Hvort geta brúðkaupsgestir fastað , meðan brúðguminn er hjá þeim ? Alla þá stund , sem brúðguminn er hjá þeim , geta þeir ekki fastað .
+41002024	hví		Farísearnir sögðu þá við hann : " Lít á , hví gjöra þeir það , sem er ekki leyfilegt á hvíldardegi ? "
+41003004	Hvort		Síðan spyr hann þá : " Hvort er heldur leyfilegt að gjöra gott eða gjöra illt á hvíldardegi , bjarga lífi eða deyða ? " En þeir þögðu .
+41003023	Hvernig		En Jesús kallaði þá til sín og mælti við þá í líkingum : " Hvernig getur Satan rekið Satan út ?
+41003033a	hver		Hann svarar þeim : " Hver er móðir mín 
+41003033b	~		og bræður ? "
+41004013	Hvernig		Og hann segir við þá : " Þér skiljið eigi þessa dæmisögu . Hvernig fáið þér þá skilið nokkra dæmisögu ?
+41004030a	hvað		Og hann sagði : " Við hvað eigum vér að líkja Guðs ríki ? 
+41004030b	hvaða		Með hvaða dæmi eigum vér að lýsa því ?
+41004038	~		Jesús var í skutnum og svaf á kodda . Þeir vöktu hann og sögðu við hann : " Meistari , hirðir þú ekki um , að vér förumst ? "
+41004040a	Hví		Og hann sagði við þá : " Hví eruð þér hræddir , 
+41004040b	~		hafið þér enn enga trú ? "
+41004041	hver		En þeir urðu miklum ótta lostnir og sögðu hver við annan : " Hver er þessi ? Jafnvel vindur og vatn hlýða honum . "
+41005007	Hvað		og æpti hárri röddu : " Hvað vilt þú mér , Jesús , sonur Guðs hins hæsta ? Ég særi þig við Guð , kvel þú mig eigi ! "
+41005009	Hvað		Jesús spurði hann þá : " Hvað heitir þú ? " Hinn svaraði : " Hersing heiti ég , vér erum margir . "
+41005030	Hver		Jesús fann þegar á sjálfum sér , að kraftur hafði farið út frá honum , og hann sneri sér við í mannþrönginni og sagði : " Hver snart klæði mín ? "
+41005031	Hver		Lærisveinar hans sögðu við hann : " Þú sérð , að mannfjöldinn þrengir að þér , og spyrð þó : Hver snart mig ? "
+41005035	hví		Meðan hann var að segja þetta , koma menn heiman frá samkundustjóranum og segja : " Dóttir þín er látin , hví ómakar þú meistarann lengur ? "
+41005039a	Hví		Hann gengur inn og segir við þá : " Hví hafið þér svo hátt 
+41005039b	~		og grátið ? Barnið er ekki dáið , það sefur . "
+41006002a	Hvaðan		Þegar hvíldardagur var kominn , tók hann að kenna í samkundunni , og þeir mörgu , sem á hlýddu , undruðust stórum . Þeir sögðu : " Hvaðan kemur honum þetta ? 
+41006002b	hver		Hver er sú speki , sem honum er gefin , 
+41006002c	~		og þau kraftaverk , sem gjörast fyrir hendur hans ?
+41006022	hvers		Dóttir Heródíasar gekk þar inn og sté dans . Hún hreif Heródes og gesti hans , og konungur sagði við stúlkuna : " Bið mig hvers þú vilt , og mun ég veita þér . "
+41006024	hvað		Hún gekk þá út og spurði móður sína : " Um hvað á ég að biðja ? " Hún svaraði : " Höfuð Jóhannesar skírara . "
+41006037	~		En hann svaraði þeim : " Gefið þeim sjálfir að eta . " Þeir svara honum : " Eigum vér að fara og kaupa brauð fyrir tvö hundruð denara og gefa þeim að eta ? "
+41006038	Hve mörg		Jesús spyr þá : " Hve mörg brauð hafið þér ? Farið og gætið að . " Þeir hugðu að og svöruðu : " Fimm brauð og tvo fiska . "
+41007005	hvers vegna		Farísearnir og fræðimennirnir spyrja hann : " Hvers vegna fylgja lærisveinar þínir ekki erfðavenju forfeðranna , heldur neyta matar með vanhelgum höndum ? "
+41008004	Hvar		Þá svöruðu lærisveinarnir : " Hvar er hægt að fá brauð til að metta þetta fólk hér í óbyggðum ? "
+41008005	Hve mörg		Hann spurði þá : " Hve mörg brauð hafið þér ? " Þeir sögðu : " Sjö . "
+41008012	Hví		Hann andvarpaði þungan innra með sér og mælti : " Hví heimtar þessi kynslóð tákn ? Sannlega segi ég yður : Tákn verður alls ekki gefið þessari kynslóð . "
+41008017	Hvað		Hann varð þess vís og segir við þá : " Hvað eruð þér að tala um , að þér hafið ekki brauð ? Skynjið þér ekki enn né skiljið ? Eru hjörtu yðar forhert ?
+41008018a	~		Þér hafið augu , sjáið þér ekki ? 
+41008018b	~		Þér hafið eyru , heyrið þér ekki ? Eða munið þér ekki ?
+41008019	hve margar		Þegar ég braut brauðin fimm handa fimm þúsundum , hve margar körfur fullar af brauðbitum tókuð þér saman ? " Þeir svara honum : " Tólf . "
+41008020	hve margar		" Eða brauðin sjö handa fjórum þúsundunum , hve margar körfur fullar af brauðbitum tókuð þér þá saman ? " Þeir svara : " Sjö . "
+41008021	~		Og hann sagði við þá : " Skiljið þér ekki enn ? "
+41008023	~		Hann tók í hönd hins blinda , leiddi hann út úr þorpinu , skyrpti í augu hans , lagði hendur yfir hann og spurði : " Sér þú nokkuð ? "
+41008027	Hvern		Jesús fór nú ásamt lærisveinum sínum til þorpanna hjá Sesareu Filippí . Á leiðinni spurði hann lærisveina sína : " Hvern segja menn mig vera ? "
+41008029a	~		Og hann spurði þá : " En þér , 
+41008029b	hvern		hvern segið þér mig vera ? " Pétur svaraði honum : " Þú ert Kristur . "
+41008036	Hvað		Hvað stoðar það manninn að eignast allan heiminn , en fyrirgjöra sálu sinni ?
+41008037	hvað		Eða hvað gæti maður látið til endurgjalds fyrir sálu sína ?
+41009010	hvað		Þeir festu orðin í minni og ræddu um , hvað væri að rísa upp frá dauðum .
+41009011	Hví		Og þeir spurðu hann : " Hví segja fræðimennirnir , að Elía eigi fyrst að koma ? "
+41009012	hvernig		Hann svaraði þeim : " Víst kemur Elía fyrst og færir allt í lag . En hvernig er ritað um Mannssoninn ? Á hann ekki margt að líða og smáður verða ?
+41009016	hvað		Hann spurði þá : " Um hvað eruð þér að þrátta við þá ? "
+41009019a	hversu lengi		Jesús svarar þeim : " Ó , þú vantrúa kynslóð , hversu lengi á ég að vera hjá yður ? 
+41009019b	hversu lengi		Hversu lengi á ég að umbera yður ? Færið hann til mín . "
+41009021	Hve lengi		Jesús spurði þá föður hans : " Hve lengi hefur honum liðið svo ? " Hann sagði : " Frá bernsku .
+41009028	Hví		Þegar Jesús var kominn inn og orðinn einn með lærisveinum sínum , spurðu þeir hann : " Hví gátum vér ekki rekið hann út ? "
+41009033	Hvað		Þeir komu til Kapernaum . Þegar hann var kominn inn , spurði hann þá : " Hvað voruð þér að ræða á leiðinni ? "
+41009050	hverju		Saltið er gott , en ef saltið missir seltuna , með hverju viljið þér þá krydda það ? Hafið salt í sjálfum yður , og haldið frið yðar á milli . "
+41010003	Hvað		Hann svaraði þeim : " Hvað hefur Móse boðið yður ? "
+41010017	hvað		Þegar hann var að leggja af stað , kom maður hlaupandi , féll á kné fyrir honum og spurði hann : " Góði meistari , hvað á ég að gjöra til þess að öðlast eilíft líf ? "
+41010018	Hví		Jesús sagði við hann : " Hví kallar þú mig góðan ? Enginn er góður nema Guð einn .
+41010026	Hver		En þeir urðu steini lostnir og sögðu sín á milli : " Hver getur þá orðið hólpinn ? "
+41010036	Hvað		Hann spurði þá : " Hvað viljið þið , að ég gjöri fyrir ykkur ? "
+41010051	Hvað		Jesús spurði hann : " Hvað vilt þú , að ég gjöri fyrir þig ? " Blindi maðurinn svaraði honum : " Rabbúní , að ég fái aftur sjón . "
+41011003	hvers vegna		Ef einhver spyr ykkur : , Hvers vegna gjörið þið þetta ? ` Þá svarið : , Herrann þarf hans við , hann sendir hann jafnskjótt aftur hingað . " `
+41011005	hvers vegna		Nokkrir sem stóðu þar , sögðu við þá : " Hvers vegna eruð þið að leysa folann ? "
+41011028a	hvaða		og segja við hann : " Með hvaða valdi gjörir þú þetta ? 
+41011028b	hver		Hver gaf þér það vald , að þú gjörir þetta ? "
+41011030	~		Var skírn Jóhannesar frá himni eða frá mönnum ? Svarið mér ! "
+41011031a	~		Þeir ráðguðust hver við annan um þetta og sögðu : " Ef vér svörum : Frá himni , spyr hann : 
+41011031b	Hví		Hví trúðuð þér honum þá ekki ?
+41012009	Hvað		Hvað mun nú eigandi víngarðsins gjöra ? Hann mun koma , tortíma vínyrkjunum og fá öðrum víngarðinn .
+41012015	Hví		En hann sá hræsni þeirra og sagði við þá : " Hví freistið þér mín ? Fáið mér denar , látið mig sjá . "
+41012016a	hvers		Þeir fengu honum pening . Hann spyr : " Hvers mynd 
+41012016b	~		og yfirskrift er þetta ? " Þeir svöruðu : " Keisarans . "
+41012023	hvers		Í upprisunni , þegar menn rísa upp , kona hvers þeirra verður hún þá ? Allir sjö höfðu átt hana . "
+41012028	Hvert		Þá kom til hans fræðimaður einn . Hann hafði hlýtt á orðaskipti þeirra og fann , að Jesús hafði svarað þeim vel . Hann spurði : " Hvert er æðst allra boðorða ? "
+41012035	Hvernig		Þegar Jesús var að kenna í helgidóminum , sagði hann : " Hvernig geta fræðimennirnir sagt , að Kristur sé sonur Davíðs ?
+41012037	Hvernig		Davíð kallar hann sjálfur drottin . Hvernig getur hann þá verið sonur hans ? " Og hinn mikli mannfjöldi hlýddi fúslega á hann .
+41013004a	hvenær		" Seg þú oss , hvenær verður þetta ? 
+41013004b	hvert		Og hvert mun tákn þess , að allt þetta sé að koma fram ? "
+41014004	til hvers		En þar voru nokkrir , er gramdist þetta , og þeir sögðu sín á milli : " Til hvers er þessi sóun á smyrslum ?
+41014006	Hvað		En Jesús sagði : " Látið hana í friði ! Hvað eruð þér að angra hana ? Gott verk gjörði hún mér .
+41014012	Hvert		Á fyrsta degi ósýrðu brauðanna , þegar menn slátruðu páskalambinu , sögðu lærisveinar hans við hann : " Hvert vilt þú , að vér förum og búum þér páskamáltíðina ? "
+41014014	Hvar		og þar sem hann fer inn , skuluð þið segja við húsráðandann : , Meistarinn spyr : Hvar er herbergið , þar sem ég get neytt páskamáltíðarinnar með lærisveinum mínum ? `
+41014060a	~		Þá stóð æðsti presturinn upp og spurði Jesú : " Svarar þú því engu , 
+41014060b	~		sem þessir vitna gegn þér ? "
+41014063	Hvað		Þá reif æðsti presturinn klæði sín og sagði : " Hvað þurfum vér nú framar votta við ?
+41014064	Hvað		Þér heyrðuð guðlastið . Hvað líst yður ? " Og þeir dæmdu hann allir sekan og dauða verðan .
+41015004	~		Pílatus spurði hann aftur : " Svarar þú engu ? Þú heyrir , hve þungar sakir þeir bera á þig . "
+41015012	Hvað		Pílatus tók enn til máls og sagði við þá : " Hvað á ég þá að gjöra við þann , sem þér kallið konung Gyðinga ? "
+41015014a	~		Pílatus spurði : 
+41015014b	Hvað		" Hvað illt hefur hann þá gjört ? " En þeir æptu því meir : " Krossfestu hann ! "
+41015034	hví		Og á nóni kallaði Jesús hárri röddu : " Elóí , Elóí , lama sabaktaní ! " Það þýðir : Guð minn , Guð minn , hví hefur þú yfirgefið mig ?
+41016003	Hver		Þær sögðu sín á milli : " Hver mun velta fyrir oss steininum frá grafarmunnanum ? "
+42001018	af hverju		Sakaría sagði við engilinn : " Af hverju get ég vitað þetta ? Ég er gamall og kona mín hnigin að aldri . "
+42001034	Hvernig		Þá sagði María við engilinn : " Hvernig má þetta verða , þar eð ég hef ekki karlmanns kennt ? "
+42001043	Hvaðan		Hvaðan kemur mér þetta , að móðir Drottins míns kemur til mín ?
+42001066	Hvað		Og allir , sem þetta heyrðu , festu það í huga sér og sögðu : " Hvað mun barn þetta verða ? " Því að hönd Drottins var með honum .
+42002048	hví		Og er þau sáu hann þar , brá þeim mjög , og móðir hans sagði við hann : " Barn , hví gjörðir þú okkur þetta ? Við faðir þinn höfum leitað þín harmþrungin . "
+42002049	hvers vegna		Og hann sagði við þau : " Hvers vegna voruð þið að leita að mér ? Vissuð þið ekki , að mér ber að vera í húsi föður míns ? "
+42003007	hver		Við mannfjöldann , sem fór út til að skírast af honum , sagði hann : " Þér nöðru kyn , hver kenndi yður að flýja komandi reiði ?
+42003010	Hvað		Mannfjöldinn spurði hann : " Hvað eigum vér þá að gjöra ? "
+42003012	hvað		Þá komu og tollheimtumenn til að skírast . Þeir sögðu við hann : " Meistari , hvað eigum vér að gjöra ? "
+42003014a	~		Hermenn spurðu hann einnig : 
+42003014b	hvað		" En hvað eigum vér að gjöra ? " Hann sagði við þá : " Hafið ekki fé af neinum , hvorki með ofríki né svikum . Látið yður nægja mála yðar . "
+42004034	hvað		" Æ , hvað vilt þú oss , Jesús frá Nasaret ? Ert þú kominn að tortíma oss ? Ég veit , hver þú ert , hinn heilagi Guðs . "
+42004036	Hvaða		Felmtri sló á alla , og sögðu þeir hver við annan : " Hvaða orð er þetta ? Með valdi og krafti skipar hann óhreinum öndum , og þeir fara . "
+42005021a	hver		Þá tóku fræðimennirnir og farísearnir að hugsa með sér : " Hver er sá , er fer með slíka guðlöstun ? 
+42005021b	hver		Hver getur fyrirgefið syndir nema Guð einn ? "
+42005022	Hvað		En Jesús skynjaði gjörla hugsanir þeirra og sagði við þá : " Hvað hugsið þér í hjörtum yðar ?
+42005023	hvort		Hvort er auðveldara að segja : , Syndir þínar eru þér fyrirgefnar , ` eða segja : , Statt upp og gakk ` ?
+42005030	hvers vegna		En farísearnir og fræðimenn þeirra vönduðu um við lærisveina hans og sögðu : " Hvers vegna etið þér og drekkið með tollheimtumönnum og bersyndugum ? "
+42005033	~		En þeir sögðu við hann : " Lærisveinar Jóhannesar fasta oft og fara með bænir og eins lærisveinar farísea , en þínir eta og drekka . "
+42005034	hvort		Jesús sagði við þá : " Hvort getið þér ætlað brúðkaupsgestum að fasta , meðan brúðguminn er hjá þeim ?
+42006002	Hví		Þá sögðu farísear nokkrir : " Hví gjörið þér það , sem er ekki leyfilegt á hvíldardegi ? "
+42006009	hvort		Jesús sagði við þá : " Ég spyr yður , hvort er heldur leyfilegt að gjöra gott eða gjöra illt á hvíldardegi , bjarga lífi eða granda því ? "
+42006032	hvaða		Og þótt þér elskið þá , sem yður elska , hvaða þökk eigið þér fyrir það ? Syndarar elska þá líka , sem þá elska .
+42006033	hvaða		Og þótt þér gjörið þeim gott , sem yður gjöra gott , hvaða þökk eigið þér fyrir það ? Syndarar gjöra og hið sama .
+42006034	hvaða		Og þótt þér lánið þeim , sem þér vonið að muni borga , hvaða þökk eigið þér fyrir það ? Syndarar lána einnig syndurum til þess að fá allt aftur .
+42006039	hvort		Þá sagði hann þeim og líkingu : " Hvort fær blindur leitt blindan ? Munu ekki báðir falla í gryfju ?
+42006041	Hví		Hví sérð þú flísina í auga bróður þíns , en tekur ekki eftir bjálkanum í auga sjálfs þín ?
+42006042	Hvernig		Hvernig fær þú sagt við bróður þinn : , Bróðir , lát mig draga flísina úr auga þér , ` en sérð þó eigi sjálfur bjálkann í þínu auga ? Hræsnari , drag fyrst bjálkann úr auga þér , og þá sérðu glöggt til að draga flísina úr auga bróður þíns .
+42006046	hví		En hví kallið þér mig herra , herra , og gjörið ekki það , sem ég segi ?
+42007024	Hvað		Þá er sendimenn Jóhannesar voru burt farnir , tók hann að tala til mannfjöldans um Jóhannes : " Hvað fóruð þér að sjá í óbyggðum ? Reyr af vindi skekinn ?
+42007025	Hvað		Hvað fóruð þér að sjá ? Prúðbúinn mann ? Nei , í konungssölum er þá að finna , sem skartklæðin bera og lifa í sællífi .
+42007026	Hvað		Hvað fóruð þér þá að sjá ? Spámann ? Já , segi ég yður , og það meira en spámann .
+42007031a	hvað		" Við hvað á ég þá að líkja mönnum þessarar kynslóðar ? 
+42007031b	hverju		Hverju eru þeir líkir ?
+42007042	Hvor		Nú gátu þeir ekkert borgað , og þá gaf hann báðum upp . Hvor þeirra skyldi nú elska hann meira ? "
+42007049	Hver		Þá tóku þeir , sem til borðs sátu með honum , að segja með sjálfum sér : " Hver er sá , er fyrirgefur syndir ? "
+42008025a	hvar		Og hann sagði við þá : " Hvar er trú yðar ? " En þeir urðu hræddir og undruðust og sögðu hver við annan : 
+42008025b	hver		" Hver er þessi ? Hann skipar bæði vindum og vatni og hvort tveggja hlýðir honum . "
+42008028	Hvað		Þegar hann sá Jesú , æpti hann , féll fram fyrir honum og hrópaði hárri röddu : " Hvað vilt þú mér , Jesús , sonur Guðs hins hæsta ? Ég bið þig , kvel þú mig eigi ! "
+42008030	Hvað		Jesús spurði hann : " Hvað heitir þú ? " En hann sagði : " Hersing " , því að margir illir andar höfðu farið í hann .
+42008045	Hver		Jesús sagði : " Hver var það , sem snart mig ? " En er allir synjuðu fyrir það , sagði Pétur : " Meistari , mannfjöldinn treðst að þér og þrýstir á . "
+42009009a	hver		Heródes sagði : " Jóhannes lét ég hálshöggva , en hver er þessi , 
+42009009b	~		er ég heyri þvílíkt um ? " Og hann leitaði færis að sjá hann .
+42009018	Hvern		Svo bar við , að hann var einn á bæn og lærisveinarnir hjá honum . Þá spurði hann þá : " Hvern segir fólkið mig vera ? "
+42009020a	~		Og hann sagði við þá : " En þér , 
+42009020b	hvern		hvern segið þér mig vera ? " Pétur svaraði : " Krist Guðs . "
+42009025	Hvað		Hvað stoðar það manninn að eignast allan heiminn , en týna eða fyrirgjöra sjálfum sér ?
+42009041a	hversu lengi		Jesús svaraði : " Ó , þú vantrúa og rangsnúna kynslóð , hversu lengi á ég að vera hjá yður 
+42009041b	~		og umbera yður ? Fær þú hingað son þinn . "
+42010025	hvað		Lögvitringur nokkur sté fram , vildi freista hans og mælti : " Meistari , hvað á ég að gjöra til þess að öðlast eilíft líf ? "
+42010026a	Hvað		Jesús sagði við hann : " Hvað er ritað í lögmálinu ? 
+42010026b	hvernig		Hvernig lest þú ? "
+42010029	Hver		En hann vildi réttlæta sjálfan sig og sagði við Jesú : " Hver er þá náungi minn ? "
+42010036a	~		
+42010036b	hver		Hver þessara þriggja sýnist þér hafa reynst náungi þeim manni , sem féll í hendur ræningjum ? "
+42011008	~		Ég segi yður , þótt hann fari ekki á fætur og fái honum brauð vegna vinfengis þeirra , þá fer hann samt fram úr sakir áleitni hans og fær honum eins mörg og hann þarf .
+42011011	~		Er nokkur sá faðir yðar á meðal , að hann gefi syni sínum , er biður um fisk , höggorm í staðinn ,
+42011012	~		eða sporðdreka , ef hann biður um egg ?
+42011013	hve miklu		Fyrst þér , sem eruð vondir , hafið vit á að gefa börnum yðar góðar gjafir , hve miklu fremur mun þá faðirinn himneski gefa þeim heilagan anda , sem biðja hann . "
+42011018	hvernig		Sé nú Satan sjálfum sér sundurþykkur , hvernig fær ríki hans þá staðist – fyrst þér segið , að ég reki illu andana út með fulltingi Beelsebúls ?
+42011019	hverju		En reki ég illu andana út með fulltingi Beelsebúls , með hverju reka þá yðar menn þá út ? Því skulu þeir vera dómarar yðar .
+42012014	hver		Hann svaraði honum : " Maður , hver hefur sett mig dómara eða skiptaráðanda yfir ykkur ? "
+42012017	Hvað		Hann hugsaði með sér : , Hvað á ég að gjöra ? Nú get ég hvergi komið fyrir afurðum mínum . `
+42012020	hver		En Guð sagði við hann : , Heimskingi , á þessari nóttu verður sál þín af þér heimtuð , og hver fær þá það , sem þú hefur aflað ? `
+42012024	Hve miklum		Hyggið að hröfnunum . Hvorki sá þeir né uppskera , eigi hafa þeir forðabúr eða hlöðu , og Guð fæðir þá . Hve miklum mun eruð þér fremri fuglunum !
+42012025	hver		Og hver yðar getur með áhyggjum aukið spönn við aldur sinn ?
+42012026	hví		Fyrst þér nú orkið ekki svo litlu , hví látið þér allt hitt valda yður áhyggjum ?
+42012042	Hver		Drottinn mælti : " Hver er sá trúi og hyggni ráðsmaður , sem húsbóndinn setur yfir hjú sín að gefa þeim skammtinn á réttum tíma ?
+42012049	Hversu		Ég er kominn að varpa eldi á jörðu . Hversu vildi ég , að hann væri þegar kveiktur !
+42012056	hvernig		Hræsnarar , útlit lofts og jarðar kunnið þér að ráða , en hvernig er því farið , að þér kunnið ekki að meta þennan tíma ?
+42012057	Hví		Hví dæmið þér ekki af sjálfum yður , hvað rétt sé ?
+42013004	~		Eða þeir átján , sem turninn féll yfir í Sílóam og varð að bana , haldið þér , að þeir hafi verið sekari en allir þeir menn , sem í Jerúsalem búa ?
+42013007	Hví		Hann sagði þá við víngarðsmanninn : , Í þrjú ár hef ég nú komið og leitað ávaxtar á fíkjutré þessu og ekki fundið . Högg það upp . Hví á það að spilla jörðinni ? `
+42013015	~		Drottinn svaraði honum : " Hræsnarar , leysir ekki hver yðar á hvíldardegi naut sitt eða asna af stalli og leiðir til vatns ?
+42013018a	hverju		Hann sagði nú : " Hverju er Guðs ríki líkt ? 
+42013018b	hvað		Við hvað á ég að líkja því ?
+42013020	hvað		Og aftur sagði hann : " Við hvað á ég að líkja Guðs ríki ?
+42013025	hvaðan		Þegar húsbóndinn stendur upp og lokar dyrum og þér takið þá að standa fyrir utan og knýja á dyr og segja : , Herra , ljúk þú upp fyrir oss ! ` mun hann svara yður : , Ég veit ekki , hvaðan þér eruð . `
+42014005	~		Og Jesús mælti við þá : " Nú á einhver yðar asna eða naut , sem fellur í brunn , mun hann ekki óðara draga það upp , þótt hvíldardagur sé ? "
+42014028	Hver		Hver yðar sest ekki fyrst við , ef hann ætlar að reisa turn , og reiknar kostnaðinn , hvort hann eigi nóg til að ljúka verkinu ?
+42014031	hvaða		Eða hvaða konungur fer með hernaði gegn öðrum konungi og sest ekki fyrst við og ráðgast um , hvort honum sé fært að mæta með tíu þúsundum þeim er fer á móti honum með tuttugu þúsundir ?
+42014034	hverju		Saltið er gott , en ef saltið sjálft dofnar , með hverju á þá að krydda það ?
+42015004	~		" Nú á einhver yðar hundrað sauði og týnir einum þeirra . Skilur hann ekki þá níutíu og níu eftir í óbyggðinni og fer eftir þeim , sem týndur er , þar til hann finnur hann ?
+42015008	~		Eða kona , sem á tíu drökmur og týnir einni drökmu , kveikir hún þá ekki á lampa , sópar húsið og leitar vandlega , uns hún finnur hana ?
+42015026	hvað		Hann kallaði á einn piltanna og spurði , hvað um væri að vera .
+42015029	~		En hann svaraði föður sínum : , Nú er ég búinn að þjóna þér öll þessi ár og hef aldrei breytt út af boðum þínum , og mér hefur þú aldrei gefið kiðling , að ég gæti glatt mig með vinum mínum .
+42016002	Hvað		Hann kallaði hann fyrir sig og sagði við hann : , Hvað er þetta , er ég heyri um þig ? Gjör reikningsskil ráðsmennsku þinnar , því þú getur ekki verið ráðsmaður lengur . `
+42016003	Hvað		Ráðsmaðurinn sagði þá við sjálfan sig : , Hvað á ég að gjöra , fyrst húsbóndi minn sviptir mig ráðsmennskunni ? Ekki orka ég að grafa og skömm þykir mér að betla .
+42016005	Hve mikið		Hann kallaði nú á skuldunauta húsbónda síns , hvern og einn . Við þann fyrsta sagði hann : , Hve mikið skuldar þú húsbónda mínum ? `
+42016007	hvað		Síðan sagði hann við annan : , En hvað skuldar þú ? ` Hann svaraði : , Hundrað tunnur hveitis . ` Og hann sagði honum : , Tak þú skuldabréf þitt og skrifa áttatíu . `
+42016011	hver		Ef þér reynist ekki trúir í hinum rangláta mammón , hver trúir yður þá fyrir sönnum auði ?
+42016012	hver		Og ef þér reynist ekki trúir í því sem annars er , hver gefur yður þá það , sem yðar er ?
+42017007	~		Hafi einhver yðar þjón , er plægir eða hirðir fénað , segir hann þá við hann , þegar hann kemur inn af akri : , Kom þegar og set þig til borðs ` ?
+42017017	Hvar		Jesús sagði : " Urðu ekki allir tíu hreinir ? Hvar eru hinir níu ?
+42017018	~		Urðu engir til þess að snúa aftur að gefa Guði dýrðina nema þessi útlendingur ? "
+42017020	hvenær		Farísear spurðu hann , hvenær Guðs ríki kæmi . Hann svaraði þeim : " Guðs ríki kemur ekki þannig , að á því beri .
+42017037	Hvar		Þeir spurðu hann þá : " Hvar , herra ? " En hann sagði við þá : " Þar munu ernirnir safnast , sem hræið er . "
+42018018	hvað		Höfðingi nokkur spurði hann : " Góði meistari , hvað á ég að gjöra til þess að öðlast eilíft líf ? "
+42018019	Hví		Jesús sagði við hann : " Hví kallar þú mig góðan ? Enginn er góður nema Guð einn .
+42018026	Hver		En þeir , sem á hlýddu , spurðu : " Hver getur þá orðið hólpinn ? "
+42018036	hvað		Hann heyrði , að mannfjöldi gekk hjá , og spurði , hvað um væri að vera .
+42018041	Hvað		" Hvað vilt þú , að ég gjöri fyrir þig ? " Hinn svaraði : " Herra , að ég fái aftur sjón . "
+42019007	~		Þeir er sáu þetta , létu allir illa við og sögðu : " Hann fer til að gista hjá bersyndugum manni . "
+42019023	hvers vegna		Hvers vegna léstu þá ekki fé mitt í banka ? Þá hefði ég fengið það með vöxtum , er ég kom heim . `
+42019031	hvers vegna		Ef einhver spyr ykkur : , Hvers vegna leysið þið hann ? ` þá svarið svo : , Herrann þarf hans við ` . "
+42019033	hvers vegna		Og er þeir leystu folann , sögðu eigendur hans við þá : " Hvers vegna leysið þið folann ? "
+42020002a	hvaða		og sögðu : " Seg þú oss , með hvaða valdi gjörir þú þetta ? 
+42020002b	hver		Hver hefur gefið þér þetta vald ? "
+42020005a	~		Þeir ráðguðust hver við annan um þetta og sögðu : " Ef vér svörum : Frá himni , spyr hann : 
+42020005b	Hví		Hví trúðuð þér honum þá ekki ?
+42020013	Hvað		Þá sagði eigandi víngarðsins : , Hvað á ég að gjöra ? Ég sendi son minn elskaðan . Má vera , þeir virði hann . `
+42020015	Hvað		Og þeir köstuðu honum út fyrir víngarðinn og drápu hann . Hvað mun nú eigandi víngarðsins gjöra við þá ?
+42020017	Hvað		Jesús horfði á þá og mælti : " Hvað merkir þá ritning þessi : Sá steinn , sem smiðirnir höfnuðu , er orðinn hyrningarsteinn ?
+42020023	~		En hann merkti flærð þeirra og sagði við þá :
+42020024a	hvers		" Sýnið mér denar . Hvers mynd 
+42020024b	~		og yfirskrift er á honum ? " Þeir sögðu : " Keisarans . "
+42020033	hvers		Kona hvers þeirra verður hún í upprisunni ? Allir sjö höfðu þeir átt hana . "
+42020041	Hvernig		Hann sagði við þá : " Hvernig geta menn sagt , að Kristur sé sonur Davíðs ?
+42020044	hvernig		Davíð kallar hann drottin , hvernig getur hann þá verið sonur hans ? "
+42021007a	hvenær		En þeir spurðu hann : " Meistari , hvenær verður þetta ? 
+42021007b	hvert		Og hvert mun tákn þess , að það sé að koma fram ? "
+42022009	Hvar		Þeir sögðu við hann : " Hvar vilt þú , að við búum hana ? "
+42022011	Hvar		og segið við húsráðandann : , Meistarinn spyr þig : Hvar er herbergið , þar sem ég get neytt páskamáltíðarinnar með lærisveinum mínum ? `
+42022027	hvort		Því hvort er sá meiri , sem situr til borðs , eða hinn , sem þjónar ? Er það ekki sá sem situr til borðs ? Samt er ég meðal yðar eins og þjónninn .
+42022046	Hví		Og hann sagði við þá : " Hví sofið þér ? Rísið upp og biðjið , að þér fallið ekki í freistni . "
+42022064	hver		huldu andlit hans og sögðu : " Spáðu nú , hver það var , sem sló þig ? "
+42022071	Hvað		En þeir sögðu : " Hvað þurfum vér nú framar vitnis við ? Vér höfum sjálfir heyrt það af munni hans . "
+42023022a	~		Í þriðja sinn sagði Pílatus við þá : 
+42023022b	Hvað		" Hvað illt hefur þá þessi maður gjört ? Enga dauðasök hef ég fundið hjá honum . Ætla ég því að hirta hann og láta hann lausan . "
+42023031	hvað		Því að sé þetta gjört við hið græna tréð , hvað mun þá verða um hið visna ? "
+42024005	Hví		Þær urðu mjög hræddar og hneigðu andlit til jarðar . En þeir sögðu við þær : " Hví leitið þér hins lifanda meðal dauðra ?
+42024017	Hvað		Og hann sagði við þá : " Hvað er það , sem þið ræðið svo mjög á göngu ykkar ? " Þeir námu staðar , daprir í bragði ,
+42024019	Hvað		Hann spurði : " Hvað þá ? " Þeir svöruðu : " Þetta um Jesú frá Nasaret , sem var spámaður , máttugur í verki og orði fyrir Guði og öllum lýð ,
+42024025	~		Þá sagði hann við þá : " Ó , þér heimskir og tregir í hjarta til þess að trúa öllu því , sem spámennirnir hafa talað !
+42024038a	Hví		Hann sagði við þá : " Hví eruð þér óttaslegnir 
+42024038b	hvers vegna		og hvers vegna vakna efasemdir í hjarta yðar ?
+43001019	Hver		Þessi er vitnisburður Jóhannesar , þegar Gyðingar sendu til hans presta og levíta frá Jerúsalem að spyrja hann : " Hver ert þú ? "
+43001021	Hvað		Þeir spurðu hann : " Hvað þá ? Ertu Elía ? " Hann svarar : " Ekki er ég hann . " " Ertu spámaðurinn ? " Hann kvað nei við .
+43001022a	hver		Þá sögðu þeir við hann : " Hver ertu ? Vér verðum að svara þeim , er sendu oss . 
+43001022b	Hvað		Hvað segir þú um sjálfan þig ? "
+43001025	hvers vegna		Þeir spurðu hann : " Hvers vegna skírir þú , fyrst þú ert hvorki Kristur , Elía né spámaðurinn ? "
+43001038a	hvers		Jesús sneri sér við , sá þá koma á eftir sér og sagði við þá : " Hvers leitið þið ? " Þeir svara : 
+43001038b	hvar		" Rabbí ( það þýðir meistari ) , hvar dvelst þú ? "
+43001046	~		Natanael sagði : " Getur nokkuð gott komið frá Nasaret ? " Filippus svaraði : " Kom þú og sjá . "
+43001048	Hvaðan		Natanael spyr : " Hvaðan þekkir þú mig ? " Jesús svarar : " Ég sá þig undir fíkjutrénu , áður en Filippus kallaði á þig . "
+43002004	Hvað		Jesús svarar : " Hvað varðar það mig og þig , kona ? Minn tími er ekki enn kominn . "
+43002018a	~		Gyðingar sögðu þá við hann : 
+43002018b	Hvaða		" Hvaða tákn getur þú sýnt oss um það , að þú megir gjöra þetta ? "
+43003004	Hvernig		Nikódemus segir við hann : " Hvernig getur maður fæðst , þegar hann er orðinn gamall ? Skyldi hann geta komist aftur í líf móður sinnar og fæðst ? "
+43003009	Hvernig		Þá spurði Nikódemus : " Hvernig má þetta verða ? "
+43003012	hvernig		Ef þér trúið eigi , þegar ég ræði við yður jarðnesk efni , hvernig skylduð þér þá trúa , er ég ræði við yður um hin himnesku ?
+43004009	Hverju		Þá segir samverska konan við hann : " Hverju sætir , að þú , sem ert Gyðingur , biður mig um að drekka , samverska konu ? " [ En Gyðingar hafa ekki samneyti við Samverja . ]
+43004011	Hvaðan		Hún segir við hann : " Herra , þú hefur enga skjólu að ausa með , og brunnurinn er djúpur . Hvaðan hefur þú þetta lifandi vatn ?
+43004027a	Hvað		Í sama bili komu lærisveinar hans og furðuðu sig á því , að hann var að tala við konu . Þó sagði enginn : " Hvað viltu ? " eða : 
+43004027b	Hvað		" Hvað ertu að tala við hana ? "
+43005012	Hver		Þeir spurðu hann : " Hver er sá maður , sem sagði þér : , Tak hana og gakk ` ? "
+43005044	Hvernig		Hvernig getið þér trúað , þegar þér þiggið heiður hver af öðrum , en leitið ekki þess heiðurs , sem er frá einum Guði ?
+43005047	hvernig		Fyrst þér trúið ekki því , sem hann skrifaði , hvernig getið þér þá trúað orðum mínum ? "
+43006005	Hvar		Jesús leit upp og sá , að mikill mannfjöldi kom til hans . Hann segir þá við Filippus : " Hvar eigum vér að kaupa brauð , að þessir menn fái að eta ? "
+43006009	hvað		" Hér er piltur , sem er með fimm byggbrauð og tvo fiska , en hvað er það handa svo mörgum ? "
+43006025	nær		Þeir fundu hann hinum megin við vatnið og spurðu hann : " Rabbí , nær komstu hingað ? "
+43006028	Hvað		Þá sögðu þeir við hann : " Hvað eigum vér að gjöra , svo að vér vinnum verk Guðs ? "
+43006030a	Hvaða		Þeir spurðu hann þá : " Hvaða tákn gjörir þú , svo að vér sjáum og trúum þér ? 
+43006030b	Hvað		Hvað afrekar þú ?
+43006042	Hvernig		og þeir sögðu : " Er þetta ekki hann Jesús , sonur Jósefs ? Vér þekkjum bæði föður hans og móður . Hvernig getur hann sagt , að hann sé stiginn niður af himni ? "
+43006052	Hvernig		Nú deildu Gyðingar sín á milli og sögðu : " Hvernig getur þessi maður gefið oss hold sitt að eta ? "
+43006060	Hver		Margir af lærisveinum hans , er á hlýddu , sögðu : " Þung er þessi ræða . Hver getur hlustað á hana ? "
+43006062	~		En ef þér sæjuð Mannssoninn stíga upp þangað , sem hann áður var ?
+43006068	til hvers		Símon Pétur svaraði honum : " Herra , til hvers ættum vér að fara ? Þú hefur orð eilífs lífs ,
+43007011	hvar		Gyðingar voru að leita að honum á hátíðinni og spurðu , hvar hann væri .
+43007015	Hvernig		Gyðingar urðu forviða og sögðu : " Hvernig hefur þessi maður orðið lærður og hefur þó ekki fræðslu notið ? "
+43007019	Hví		Gaf Móse yður ekki lögmálið ? Samt heldur enginn yðar lögmálið . Hví sitjið þér um líf mitt ? "
+43007020	Hver		Fólkið ansaði : " Þú ert haldinn illum anda . Hver situr um líf þitt ? "
+43007023	hví		Fyrst maður er umskorinn á hvíldardegi , til þess að lögmál Móse verði ekki brotið , hví reiðist þér mér , að ég gjörði manninn allan heilan á hvíldardegi ?
+43007035	Hvert		Þá sögðu Gyðingar sín á milli : " Hvert skyldi hann ætla að fara , svo að vér finnum hann ekki ? Hann ætlar þó ekki að fara til Gyðinga , sem dreifðir eru meðal Grikkja og kenna Grikkjum ?
+43007036	Hvað		Hvað var hann að segja : , Þér munuð leita mín og eigi finna , og þér getið ekki komist þangað sem ég er ` ? "
+43007041	~		Aðrir mæltu : " Hann er Kristur . " En sumir sögðu : " Mundi Kristur þá koma frá Galíleu ?
+43007045	hvers vegna		Nú komu þjónarnir til æðstu prestanna og faríseanna , sem sögðu við þá : " Hvers vegna komuð þér ekki með hann ? "
+43007048	~		Ætli nokkur af höfðingjunum hafi farið að trúa á hann , eða þá af faríseum ?
+43007051	~		" Mundi lögmál vort dæma mann , nema hann sé yfirheyrður áður og að því komist , hvað hann hefur aðhafst ? "
+43008005	Hvað		Móse bauð oss í lögmálinu að grýta slíkar konur . Hvað segir þú nú ? "
+43008010	hvað		Hann rétti sig upp og sagði við hana : " Kona , hvað varð af þeim ? Sakfelldi enginn þig ? "
+43008019	Hvar		Þeir sögðu við hann : " Hvar er faðir þinn ? " Jesús svaraði : " Hvorki þekkið þér mig né föður minn . Ef þér þekktuð mig , þá þekktuð þér líka föður minn . "
+43008025a	hver		Þeir spurðu hann þá : " Hver ert þú ? " 
+43008025b	~		Jesús svaraði þeim : " Sá sem ég hef sagt yður frá upphafi .
+43008033	Hvernig		Þeir svöruðu honum : " Vér erum niðjar Abrahams og höfum aldrei verið nokkurs manns þrælar . Hvernig getur þú þá sagt : , Þér munuð verða frjálsir ` ? "
+43008043	Hví		Hví skiljið þér ekki mál mitt ? Af því að þér getið ekki hlustað á orð mitt .
+43008046a	hver		Hver yðar getur sannað á mig synd ? 
+43008046b	hví		Ef ég segi sannleikann , hví trúið þér mér ekki ?
+43008053	Hver		Ert þú meiri en faðir vor , Abraham ? Hann dó , og spámennirnir dóu . Hver þykist þú vera ? "
+43008057	~		Nú sögðu Gyðingar við hann : " Þú ert ekki enn orðinn fimmtugur , og hefur séð Abraham ! "
+43009002	hvort		Lærisveinar hans spurðu hann : " Rabbí , hvort hefur þessi maður syndgað eða foreldrar hans , fyrst hann fæddist blindur ? "
+43009010	Hvernig		Þá sögðu þeir við hann : " Hvernig opnuðust augu þín ? "
+43009012	Hvar		Þeir sögðu við hann : " Hvar er hann ? " Hann svaraði : " Það veit ég ekki . "
+43009016	Hvernig		Þá sögðu nokkrir farísear : " Þessi maður er ekki frá Guði , fyrst hann heldur ekki hvíldardaginn . " Aðrir sögðu : " Hvernig getur syndugur maður gjört þvílík tákn ? " Og ágreiningur varð með þeim .
+43009017	Hvað		Þá segja þeir aftur við hinn blinda : " Hvað segir þú um hann , fyrst hann opnaði augu þín ? " Hann sagði : " Hann er spámaður . "
+43009019	Hvernig		og spurðu þá : " Er þetta sonur ykkar , sem þið segið að hafi fæðst blindur ? Hvernig er hann þá orðinn sjáandi ? "
+43009026a	Hvað		Þá sögðu þeir við hann : " Hvað gjörði hann við þig ? 
+43009026b	Hvernig		Hvernig opnaði hann augu þín ? "
+43009027	Hví		Hann svaraði þeim : " Ég er búinn að segja yður það , og þér hlustuðuð ekki á það . Hví viljið þér heyra það aftur ? Viljið þér líka verða lærisveinar hans ? "
+43009034	~		Þeir svöruðu honum : " Þú ert syndum vafinn frá fæðingu og ætlar að kenna oss ! " Og þeir ráku hann út .
+43009036	hver		Hinn svaraði : " Herra , hver er sá , að ég megi trúa á hann ? "
+43010020	Hvað		Margir þeirra sögðu : " Hann hefur illan anda og er genginn af vitinu . Hvað eruð þér að hlusta á hann ? "
+43010021	~		Aðrir sögðu : " Þessi orð mælir enginn sá , sem hefur illan anda . Mundi illur andi geta opnað augu blindra ? "
+43010024	Hve lengi		Þá söfnuðust Gyðingar um hann og sögðu við hann : " Hve lengi lætur þú oss í óvissu ? Ef þú ert Kristur , þá seg oss það berum orðum . "
+43010032	hvert		Jesús mælti við þá : " Ég hef sýnt yður mörg góð verk frá föður mínum . Fyrir hvert þeirra verka viljið þér grýta mig ? "
+43010036	~		segið þér þá við mig , sem faðirinn helgaði og sendi í heiminn , að ég guðlasti , af því ég sagði : , Ég er sonur Guðs ` ?
+43011034	Hvar		og sagði : " Hvar hafið þér lagt hann ? " Þeir sögðu : " Herra , kom þú og sjá . "
+43011047	Hvað		Æðstu prestarnir og farísearnir kölluðu þá saman ráðið og sögðu : " Hvað eigum vér að gjöra ? Þessi maður gjörir mörg tákn .
+43011056	Hvað		Menn leituðu að Jesú og sögðu sín á milli í helgidóminum : " Hvað haldið þér ? Skyldi hann ekki koma til hátíðarinnar ? "
+43012005	Hví		" Hví voru þessi smyrsl ekki seld fyrir þrjú hundruð denara og gefin fátækum ? "
+43012027	hvað		Nú er sál mín skelfd , og hvað á ég að segja ? Faðir , frelsa mig frá þessari stundu ? Nei , til þessa er ég kominn að þessari stundu :
+43012034a	Hvernig		Mannfjöldinn svaraði honum : " Lögmálið segir oss , að Kristur muni verða til eilífðar . Hvernig getur þú sagt , að Mannssonurinn eigi að verða upp hafinn ? 
+43012034b	hver		Hver er þessi Mannssonur ? "
+43012038a	hver		svo að rættist orð Jesaja spámanns , er hann mælti : Drottinn , hver trúði boðun vorri , 
+43012038b	hverjum		og hverjum varð armur Drottins opinber ?
+43013025	hver		Hann laut þá að Jesú og spurði : " Herra , hver er það ? "
+43013036	hvert		Símon Pétur segir við hann : " Herra , hvert ferðu ? " Jesús svaraði : " Þú getur ekki fylgt mér nú þangað sem ég fer , en síðar muntu fylgja mér . "
+43013037	hví		Pétur segir við hann : " Herra , hví get ég ekki fylgt þér nú ? Ég vil leggja líf mitt í sölurnar fyrir þig . "
+43014002	~		Í húsi föður míns eru margar vistarverur . Væri ekki svo , hefði ég þá sagt yður , að ég færi burt að búa yður stað ?
+43014005	hvernig		Tómas segir við hann : " Herra , vér vitum ekki , hvert þú ferð , hvernig getum vér þá þekkt veginn ? "
+43014009	Hvernig		Jesús svaraði : " Ég hef verið með yður allan þennan tíma , og þú þekkir mig ekki , Filippus ? Sá sem hefur séð mig , hefur séð föðurinn . Hvernig segir þú þá : , Sýn þú oss föðurinn ` ?
+43014022	hverju		Júdas – ekki Ískaríot – sagði við hann : " Herra , hverju sætir það , að þú vilt birtast oss , en eigi heiminum ? "
+43016005	Hvert		En nú fer ég til hans , sem sendi mig , og enginn yðar spyr mig : , Hvert fer þú ? `
+43016017	Hvað		Þá sögðu nokkrir lærisveina hans sín á milli : " Hvað er hann að segja við oss : , Innan skamms sjáið þér mig ekki , og aftur innan skamms munuð þér sjá mig , ` og : , Ég fer til föðurins ` ? "
+43016018	Hvað		Þeir spurðu : " Hvað merkir þetta : , Innan skamms ` ? Vér vitum ekki , hvað hann er að fara . "
+43018004	hverjum		Jesús vissi allt , sem yfir hann mundi koma , gekk fram og sagði við þá : " Að hverjum leitið þér ? "
+43018007	hverjum		Þá spurði hann þá aftur : " Að hverjum leitið þér ? " Þeir svöruðu : " Að Jesú frá Nasaret . "
+43018011	~		Þá sagði Jesús við Pétur : " Sting sverðinu í slíðrin . Á ég ekki að drekka kaleikinn , sem faðirinn hefur fengið mér ? "
+43018021	Hví		Hví spyr þú mig ? Spyrðu þá , sem heyrt hafa , hvað ég hef við þá talað . Þeir vita hvað ég hef sagt . "
+43018023	hví		Jesús svaraði honum : " Hafi ég illa mælt , þá sanna þú , að svo hafi verið , en hafi ég rétt að mæla , hví slær þú mig ? "
+43018029	Hvaða		Pílatus kom út til þeirra og sagði : " Hvaða ákæru berið þér fram gegn þessum manni ? "
+43018035	Hvað		Pílatus svaraði : " Er ég þá Gyðingur ? Þjóð þín og æðstu prestarnir hafa selt þig mér í hendur . Hvað hefur þú gjört ? "
+43018038	Hvað		Pílatus segir við hann : " Hvað er sannleikur ? " Að svo mæltu gekk hann aftur út til Gyðinga og sagði við þá : " Ég finn enga sök hjá honum .
+43019009	Hvaðan		Hann fór aftur inn í höllina og segir við Jesú : " Hvaðan ertu ? " En Jesús veitti honum ekkert svar .
+43019015	~		Þá æptu þeir : " Burt með hann ! Burt með hann ! Krossfestu hann ! " Pílatus segir við þá : " Á ég að krossfesta konung yðar ? " Æðstu prestarnir svöruðu : " Vér höfum engan konung nema keisarann . "
+43020013	hví		Þeir segja við hana : " Kona , hví grætur þú ? " Hún svaraði : " Þeir hafa tekið brott Drottin minn , og ég veit ekki , hvar þeir hafa lagt hann . "
+43020015a	hví		Jesús segir við hana : " Kona , hví grætur þú ? 
+43020015b	hverjum		Að hverjum leitar þú ? " Hún hélt , að hann væri grasgarðsvörðurinn , og sagði við hann : " Herra , ef þú hefur borið hann burt , þá segðu mér , hvar þú hefur lagt hann , svo að ég geti sótt hann . "
+43021012	Hver		Jesús segir við þá : " Komið og matist . " En enginn lærisveinanna dirfðist að spyrja hann : " Hver ert þú ? " Enda vissu þeir , að það var Drottinn .
+43021020	hver		Pétur sneri sér við og sá lærisveininn , sem Jesús elskaði , fylgja á eftir , þann hinn sama , sem hallaðist að brjósti hans við kvöldmáltíðina , og spurði : " Herra , hver er sá , sem svíkur þig ? "
+43021021	hvað		Þegar Pétur sér hann , segir hann við Jesú : " Drottinn , hvað um þennan ? "
+43021022	hverju		Jesús svarar : " Ef ég vil , að hann lifi , þangað til ég kem , hverju skiptir það þig ? Fylg þú mér . "
+43021023	hverju		Því barst sá orðrómur út meðal bræðranna , að þessi lærisveinn mundi ekki deyja . En Jesús hafði ekki sagt Pétri , að hann mundi ekki deyja . Hann sagði : " Ef ég vil , að hann lifi , þangað til ég kem , hverju skiptir það þig ? "
+44001011	hví		og sögðu : " Galíleumenn , hví standið þér og horfið til himins ? Þessi Jesús , sem varð upp numinn frá yður til himins , mun koma á sama hátt og þér sáuð hann fara til himins . "
+44002008	Hvernig		Hvernig má það vera , að vér , hver og einn , heyrum þá tala vort eigið móðurmál ?
+44002012	Hvað		Þeir voru allir furðu lostnir og ráðalausir og sögðu hver við annan : " Hvað getur þetta verið ? "
+44002037	Hvað		Er þeir heyrðu þetta , var sem stungið væri í hjörtu þeirra , og þeir sögðu við Pétur og hina postulana : " Hvað eigum vér að gjöra , bræður ? "
+44003012a	hví		Þegar Pétur sá það , ávarpaði hann fólkið : " Ísraelsmenn , hví furðar yður á þessu eða 
+44003012b	hví		hví starið þér á okkur , eins og við hefðum af eigin mætti eða guðrækni komið því til leiðar , að þessi maður gengur ?
+44004007a	~		Þeir létu leiða postulana fram og spurðu þá : 
+44004007b	hvaða		" Með hvaða krafti eða í 
+44004007c	hvers		hvers nafni gjörðuð þið þetta ? "
+44004016	Hvað		" Hvað eigum vér að gjöra við þessa menn ? Því að augljóst er öllum Jerúsalembúum , að ótvírætt tákn er orðið af þeirra völdum . Vér getum ekki neitað því .
+44004025a	hví		þú , sem lést heilagan anda mæla af munni Davíðs , föður vors , þjóns þíns : Hví geisuðu heiðingjarnir , 
+44004025b	hví		og hví hugðu lýðirnir á hégómleg ráð ?
+44005003	hví		En Pétur mælti : " Ananías , hví fyllti Satan hjarta þitt , svo að þú laugst að heilögum anda og dróst undan af verði lands þíns ?
+44005004	Hvernig		Var landið ekki þitt , meðan þú áttir það , og var ekki andvirði þess á þínu valdi ? Hvernig gastu þá látið þér hugkvæmast slíkt tiltæki ? Ekki hefur þú logið að mönnum , heldur Guði . "
+44005009	Hvernig		Pétur mælti þá við hana : " Hvernig gátuð þið orðið samþykk um að freista anda Drottins ? Þú heyrir við dyrnar fótatak þeirra , sem greftruðu mann þinn . Þeir munu bera þig út . "
+44007026	hví		Næsta dag kom hann að tveim þeirra , sem slógust . Hann reyndi að stilla til friðar með þeim og sagði : , Góðir menn , þið eruð bræður , hví eigist þið illt við ? `
+44007027	Hver		En sá sem beitti náunga sinn órétti , hratt honum frá sér og sagði : , Hver skipaði þig höfðingja og dómara yfir okkur ?
+44007035	Hver		Þennan Móse , er þeir afneituðu með því að segja : , Hver skipaði þig höfðingja og dómara ? ` hann sendi Guð sem höfðingja og lausnara með fulltingi engilsins , er honum birtist í þyrnirunnanum .
+44007049a	Hvaða		Himinninn er hásæti mitt og jörðin skör fóta minna . Hvaða hús munuð þér reisa mér , segir Drottinn , 
+44007049b	hver		eða hver er hvíldarstaður minn ?
+44007052	hver		Hver var sá spámaður , sem feður yðar ofsóttu eigi ? Þeir drápu þá , er boðuðu fyrirfram komu hins réttláta , og nú hafið þér svikið hann og myrt .
+44008031	Hvernig		Hinn svaraði : " Hvernig ætti ég að geta það , ef enginn leiðbeinir mér ? " Og hann bað Filippus stíga upp í og setjast hjá sér .
+44008033	Hver		Í niðurlægingunni var hann sviptur rétti . Hver getur sagt frá ætt hans ? Því að líf hans var hrifið burt af jörðinni .
+44008034	hvern		Hirðmaðurinn mælti þá við Filippus : " Seg þú mér : Um hvern segir spámaðurinn þetta , sjálfan sig eða einhvern annan ? "
+44008036	hvað		Þegar þeir fóru áfram veginn , komu þeir að vatni nokkru . Þá mælti hirðmaðurinn : " Hér er vatn , hvað hamlar mér að skírast ? "
+44009004	hví		Hann féll til jarðar og heyrði rödd segja við sig : " Sál , Sál , hví ofsækir þú mig ? "
+44009005	Hver		En hann sagði : " Hver ert þú , herra ? " Þá var svarað : " Ég er Jesús , sem þú ofsækir .
+44009006	hvað		En statt upp og gakk inn í borgina , og þér mun verða sagt , hvað þú átt að gjöra . "
+44010004	Hvað		Hann starði á hann , varð óttasleginn og sagði : " Hvað er það , herra ? " Engillinn svaraði : " Bænir þínar og ölmusur eru stignar upp til Guðs , og hann minnist þeirra .
+44010021	hvers vegna		Pétur gekk þá niður til mannanna og sagði : " Ég er sá sem þér leitið að . Hvers vegna eruð þér komnir hér ? "
+44010029	hvers vegna		Fyrir því kom ég mótmælalaust , er eftir mér var sent . Nú spyr ég , hvers vegna þér senduð eftir mér . "
+44010047	hver		Þá mælti Pétur : " Hver getur varnað þess , að þeir verði skírðir í vatni ? Þeir hafa fengið heilagan anda sem vér . "
+44011017a	hvernig		Fyrst Guð gaf þeim nú sömu gjöf og oss , er vér tókum trú á Drottin Jesú Krist , hvernig var ég þá þess umkominn að standa gegn Guði ? "
+44011017b	~		
+44012018	hvað		Þegar dagur rann , kom ekki lítið fát á hermennina út af því , hvað af Pétri væri orðið .
+44013025	hvern		Þegar Jóhannes var að enda skeið sitt , sagði hann : , Hvern hyggið þér mig vera ? Ekki er ég hann . Annar kemur eftir mig , og er ég eigi verður þess að leysa skó af fótum honum . `
+44014015	hví		" Menn , hví gjörið þér þetta ? Menn erum vér sem þér , yðar líkar , og flytjum yður þau fagnaðarboð , að þér skuluð hverfa frá þessum fánýtu goðum til lifanda Guðs , sem skapaði himin , jörð og haf og allt , sem í þeim er .
+44015010	Hví		Hví freistið þér nú Guðs með því að leggja ok á háls lærisveinanna , er hvorki feður vorir né vér megnuðum að bera ?
+44016030	hvað		Síðan leiddi hann þá út og sagði : " Herrar mínir , hvað á ég að gjöra til að verða hólpinn ? "
+44017018	Hvað		En nokkrir heimspekingar , Epíkúringar og Stóumenn , áttu og í orðakasti við hann . Sögðu sumir : " Hvað mun skraffinnur sá hafa að flytja ? " Aðrir sögðu : " Hann virðist boða ókennda guði , " – því að hann flutti fagnaðarerindið um Jesú og upprisuna .
+44017019	hver		Og þeir tóku hann og fóru með hann á Aresarhæð og sögðu : " Getum vér fengið að vita , hver þessi nýja kenning er , sem þú ferð með ?
+44019003	hvað		Hann sagði : " Upp á hvað eruð þér þá skírðir ? " Þeir sögðu : " Skírn Jóhannesar . "
+44019015	hverjir		En illi andinn sagði við þá : " Jesú þekki ég , og Pál kannast ég við , en hverjir eruð þér ? "
+44019035	hver		En borgarritarinn gat sefað fólkið og mælti : " Efesusmenn , hver er sá maður , að hann viti ekki , að borg Efesusmanna geymir musteri hinnar miklu Artemisar og steininn helga af himni ?
+44021013a	Hví		En hann sagði : " Hví grátið þér 
+44021013b	~		og hrellið hjarta mitt ? Ég er eigi aðeins reiðubúinn að láta binda mig , heldur og að deyja í Jerúsalem fyrir nafn Drottins Jesú . "
+44021022	Hvað		Hvað á nú að gjöra ? Víst mun það spyrjast , að þú ert kominn .
+44021033a	hver		Hersveitarforinginn kom þá að , tók hann og skipaði að binda hann tvennum fjötrum og spurði , hver hann væri 
+44021033b	hvað		og hvað hann hefði gjört .
+44022007	hví		Ég féll til jarðar og heyrði raust , er sagði við mig : , Sál , Sál , hví ofsækir þú mig ? `
+44022008	Hver		Ég svaraði : , Hver ert þú , herra ? ` Og hann sagði við mig : , Ég er Jesús frá Nasaret , sem þú ofsækir . `
+44022010	Hvað		Þá sagði ég : , Hvað á ég að gjöra , herra ? ` En Drottinn sagði við mig : , Rís upp og far til Damaskus . Þar mun þér verða sagt allt , sem þér er ætlað að gjöra . `
+44022016	Hvað		Hvað dvelur þig nú ? Rís upp , ákalla nafn hans og lát skírast og laugast af syndum þínum . `
+44022026	Hvað		Þegar hundraðshöfðinginn heyrði þetta , fór hann til hersveitarforingjans , skýrði honum frá og sagði : " Hvað ert þú að gjöra ? Maður þessi er rómverskur . "
+44023003	~		Þá sagði Páll við hann : " Guð mun ljósta þig , kalkaði veggur . Hér situr þú til að dæma mig samkvæmt lögmálinu og skipar þó þvert ofan í lögmálið að slá mig . "
+44023009	~		Nú varð hróp mikið , og nokkrir fræðimenn af flokki farísea risu upp og fullyrtu : " Vér sjáum ekki , að þessi maður hafi brotið af sér . Gæti ekki hugsast , að andi hafi talað við hann eða engill ? "
+44023019	Hvað		Hersveitarforinginn tók í hönd honum , leiddi hann afsíðis og spurði : " Hvað er það , sem þú hefur að segja mér ? "
+44026008	Hvers vegna		Hvers vegna teljið þér það ótrúlegt , að Guð veki upp dauða ?
+44026014	hví		Vér féllum allir til jarðar , og ég heyrði rödd , er sagði við mig á hebresku : , Sál , Sál , hví ofsækir þú mig ? Erfitt verður þér að spyrna móti broddunum . `
+44026015	Hver		En ég sagði : , Hver ert þú , herra ? ` Og Drottinn sagði : , Ég er Jesús , sem þú ofsækir .
+45002017	~		En nú ert þú Gyðingur að nafni og styðst við lögmál og ert hreykinn af Guði .
+45002021	hví		Þú sem þannig fræðir aðra , hví fræðir þú ekki sjálfan þig ? Prédikar þú , að ekki skuli stela , og stelur þó ?
+45002028	~		Ekki er sá Gyðingur , sem er það hið ytra , og ekki það umskurn , sem er það hið ytra á holdinu .
+45003001a	Hvað		Hvað hefur þá Gyðingurinn fram yfir ? 
+45003001b	hvert		Eða hvert er gagn umskurnarinnar ?
+45003003	Hvað		Hvað um það , þótt nokkrir hafi reynst ótrúir ? Mundi ótrúmennska þeirra að engu gjöra trúfesti Guðs ?
+45003005	hvað		En ef ranglæti vort sannar réttlæti Guðs , hvað eigum vér þá að segja ? Hvort mundi Guð vera ranglátur , er hann lætur reiðina yfir dynja ? – Ég tala á mannlegan hátt . –
+45003006	Hvernig		Fjarri fer því . Hvernig ætti Guð þá að dæma heiminn ?
+45003007a	~		En verði sannleiki Guðs fyrir lygi mína skýrari honum til dýrðar , 
+45003007b	hvers vegna		hvers vegna dæmist ég þá enn sem syndari ?
+45003008	~		Eigum vér þá ekki að gjöra hið illa , til þess að hið góða komi fram ? Sumir bera oss þeim óhróðri að vér kennum þetta . Þeir munu fá verðskuldaðan dóm .
+45003009	Hvað		Hvað þá ? Höfum vér þá nokkuð fram yfir ? Nei , alls ekki . Vér höfum áður gefið bæði Gyðingum og Grikkjum að sök , að þeir væru allir undir synd .
+45003027a	hvar		Hvar er þá hrósunin ? Hún er úti lokuð . 
+45003027b	hvaða		Með hvaða lögmáli ? 
+45003027c	~		Verkanna ? Nei , heldur með lögmáli trúar .
+45004001	Hvað		Hvað eigum vér þá að segja um Abraham , forföður vorn , hvað ávann hann ?
+45004003	hvað		Því hvað segir ritningin : " Abraham trúði Guði , og það var reiknað honum til réttlætis . "
+45004010	Hvernig		Hvernig var hún þá tilreiknuð honum ? Umskornum eða óumskornum ? Hann var ekki umskorinn , heldur óumskorinn .
+45005010	~		Því að ef vér vorum óvinir Guðs og urðum sættir við hann með dauða sonar hans , því fremur munum vér frelsaðir verða með lífi sonar hans , nú er vér erum í sátt teknir .
+45005021	~		Og eins og syndin ríkti í dauðanum , svo skyldi og náðin ríkja fyrir réttlæti til eilífs lífs í Jesú Kristi , Drottni vorum .
+45006001	Hvað		Hvað eigum vér þá að segja ? Eigum vér að halda áfram í syndinni til þess að náðin aukist ?
+45006002	hvernig		Fjarri fer því . Vér sem dóum syndinni , hvernig ættum vér framar að lifa í henni ?
+45006015	Hvað		Hvað þá ? Eigum vér að syndga , af því að vér erum ekki undir lögmáli , heldur undir náð ? Fjarri fer því .
+45006021	Hvaða		Hvaða ávöxtu höfðuð þér þá ? Þá sem þér nú blygðist yðar fyrir , því að þeir leiða að lokum til dauða .
+45007007	Hvað		Hvað eigum vér þá að segja ? Er lögmálið synd ? Fjarri fer því . En satt er það : Ég þekkti ekki syndina nema fyrir lögmálið . Ég hefði ekki vitað um girndina , hefði ekki lögmálið sagt : " Þú skalt ekki girnast . "
+45007024	Hver		Ég aumur maður ! Hver mun frelsa mig frá þessum dauðans líkama ?
+45008024	hver		Því að í voninni erum vér hólpnir orðnir . Von , er sést , er ekki von , því að hver vonar það , sem hann sér ?
+45008031a	Hvað		Hvað eigum vér þá að segja við þessu ? 
+45008031b	hver		Ef Guð er með oss , hver er þá á móti oss ?
+45008032	hví		Hann sem þyrmdi ekki sínum eigin syni , heldur framseldi hann fyrir oss alla , hví skyldi hann ekki líka gefa oss allt með honum ?
+45008033	Hver		Hver skyldi ásaka Guðs útvöldu ? Guð sýknar .
+45008034	Hver		Hver sakfellir ? Kristur Jesús er sá , sem dáinn er . Og meira en það : Hann er upprisinn , hann er við hægri hönd Guðs og hann biður fyrir oss .
+45008035	Hver		Hver mun gjöra oss viðskila við kærleika Krists ? Mun þjáning geta það eða þrenging , ofsókn , hungur eða nekt , háski eða sverð ?
+45009014	Hvað		Hvað eigum vér þá að segja ? Er Guð óréttvís ? Fjarri fer því .
+45009019a	Hvað		Þú munt nú vilja segja við mig : " Hvað er hann þá að ásaka oss framar ? 
+45009019b	hver		Hver fær staðið gegn vilja hans ? "
+45009020a	hver		Hver ert þú , maður , að þú skulir deila á Guð ? 
+45009020b	~		Hvort mundi smíðisgripurinn segja við smiðinn : 
+45009020c	Hví		" Hví gjörðir þú mig svona ? "
+45009021	~		Eða hefur ekki leirkerasmiðurinn leirinn á valdi sínu , svo að hann megi gjöra úr sama deiginu ker til sæmdar og annað til vansæmdar ?
+45009022	~		En ef nú Guð , sem vildi sýna reiði sína og auglýsa mátt sinn , hefur með miklu langlyndi umborið ker reiðinnar , sem búin eru til glötunar ,
+45009023	~		og ef hann hefur gjört það til þess að auglýsa ríkdóm dýrðar sinnar á kerum miskunnarinnar , sem hann hafði fyrirfram búið til dýrðar ?
+45009024	~		Slík ker erum vér , sem hann hefur kallað , ekki aðeins úr flokki Gyðinga , heldur og úr flokki heiðingja .
+45009030	Hvað		Hvað eigum vér þá að segja ? Heiðingjarnir , sem ekki sóttust eftir réttlæti , hafa öðlast réttlæti , – réttlæti , sem er af trú .
+45009032	hvers vegna		Hvers vegna ? Af því að þeir ætluðu sér að réttlætast með verkum , ekki af trú . Þeir hnutu um ásteytingarsteininn ,
+45010006	Hver		En réttlætið af trúnni mælir þannig : " Seg þú ekki í hjarta þínu : Hver mun fara upp í himininn ? " – það er : til að sækja Krist ofan , –
+45010007	Hver		eða : " Hver mun stíga niður í undirdjúpið ? " – það er : til að sækja Krist upp frá dauðum .
+45010008	Hvað		Hvað segir það svo ? " Nálægt þér er orðið , í munni þínum og í hjarta þínu . " Það er : Orð trúarinnar , sem vér prédikum .
+45010014a	hvernig		En hvernig eiga þeir að ákalla þann , sem þeir trúa ekki á ? 
+45010014b	hvernig		Og hvernig eiga þeir að trúa á þann , sem þeir hafa ekki heyrt um ? 
+45010014c	hvernig		Og hvernig eiga þeir að heyra , án þess að einhver prédiki ?
+45010015	hver		Og hver getur prédikað , nema hann sé sendur ? Svo er og ritað : " Hversu fagurt er fótatak þeirra , sem færa fagnaðarboðin góðu . "
+45010016	hver		En þeir hlýddu ekki allir fagnaðarerindinu . Jesaja segir : " Drottinn , hver trúði því , sem vér boðuðum ? "
+45011004	hvaða		En hvaða svar fær hann hjá Guði ? " Sjálfum mér hef ég eftir skilið sjö þúsundir manna , sem hafa ekki beygt kné fyrir Baal . "
+45011007	Hvað		Hvað þá ? Það sem Ísrael sækist eftir , það hlotnaðist honum ekki , en hinum útvöldu hlotnaðist það . Hinir urðu forhertir ,
+45011015	hvað		Því ef það varð sáttargjörð fyrir heiminn , að þeim var hafnað , hvað verður þá upptaka þeirra annað en líf af dauðum ?
+45011018	~		þá stær þig ekki gegn greinunum . Ef þú stærir þig , þá vit , að þú berð ekki rótina , heldur rótin þig .
+45011033a	hversu		Hvílíkt djúp ríkdóms , speki og þekkingar Guðs ! Hversu órannsakandi dómar hans 
+45011033b	~		og órekjandi vegir hans !
+45011034a	hver		Hver hefur þekkt huga Drottins ? 
+45011034b	hver		Eða hver hefur verið ráðgjafi hans ?
+45011035	Hver		Hver hefur að fyrra bragði gefið honum , svo að það eigi að verða honum endurgoldið ?
+45014004	Hver		Hver ert þú , sem dæmir annars þjón ? Hann stendur og fellur herra sínum . Og hann mun standa , því að megnugur er Drottinn þess að láta hann standa .
+45014010a	hví		En þú , hví dæmir þú bróður þinn ? 
+45014010b	hví		Eða þá þú , hví fyrirlítur þú bróður þinn ? Allir munum vér verða að koma fram fyrir dómstól Guðs .
+46001020a	hvar		Hvar er vitringur ? 
+46001020b	hvar		Hvar fræðimaður ? 
+46001020c	hvar		Hvar orðkappi þessarar aldar ? Hefur Guð ekki gjört speki heimsins að heimsku ?
+46002011	Hver		Hver meðal manna veit hvað mannsins er , nema andi mannsins , sem í honum er ? Þannig hefur heldur enginn komist að raun um , hvað Guðs er , nema Guðs andi .
+46002016a	hver		Því að hver hefur þekkt huga Drottins , 
+46002016b	~		að hann geti frætt hann ? En vér höfum huga Krists .
+46003005a	hvað		Hvað er þá Apollós ? 
+46003005b	hvað		Já , hvað er þá Páll ? Þjónar , sem hafa leitt yður til trúar , og það eins og Drottinn hefur gefið hvorum um sig .
+46004007a	hver		Því að hver gefur þér yfirburði ? 
+46004007b	hvað		Og hvað hefur þú , sem þú hefur ekki þegið ? 
+46004007c	hví		En hafir þú nú þegið það , hví stærir þú þig þá eins og þú hefðir ekki fengið það að gjöf ?
+46004021	Hvað		Hvað viljið þér ? Á ég að koma til yðar með hirtingarvönd eða í kærleika og hógværðar anda ?
+46005002	~		Og svo eruð þér stærilátir , í stað þess að hryggjast og gjöra gangskör að því , að manninum , sem þetta hefur drýgt , yrði útrýmt úr félagi yðar !
+46005012	Hvað		Hvað skyldi ég vera að dæma þá , sem fyrir utan eru ? Dæmið þér ekki þá , sem fyrir innan eru ?
+46006001	~		Getur nokkur yðar , sem hefur sök móti öðrum , fengið af sér að leggja málið undir dóm heiðinna manna , en ekki hinna heilögu ?
+46006003	Hvað		Vitið þér eigi , að vér eigum að dæma engla ? Hvað þá heldur tímanleg efni !
+46006004	~		Þegar þér eigið að dæma um tímanleg efni , þá kveðjið þér að dómurum menn , sem að engu eru hafðir í söfnuðinum .
+46006007a	Hví		Annars er það nú yfirleitt galli á yður , að þér eigið í málaferlum hver við annan . Hví líðið þér ekki heldur órétt ? 
+46006007b	Hví		Hví látið þér ekki heldur hafa af yður ?
+46006009	~		Vitið þér ekki , að ranglátir munu ekki Guðs ríki erfa ? Villist ekki ! Hvorki munu saurlífismenn né skurðgoðadýrkendur , hórkarlar né kynvillingar ,
+46006016	~		Vitið þér ekki , að sá er samlagar sig skækjunni verður ásamt henni einn líkami ? Því að sagt er : " Þau tvö munu verða eitt hold . "
+46006019	~		Vitið þér ekki , að líkami yðar er musteri heilags anda , sem í yður er og þér hafið frá Guði ? Og ekki eruð þér yðar eigin .
+46007016a	hvað		Því að hvað veist þú , kona , hvort þú munir geta frelsað manninn þinn ? 
+46007016b	hvað		Eða hvað veist þú , maður , hvort þú munir geta frelsað konuna þína ?
+46009007a	hver		Hver tekst nokkurn tíma herþjónustu á hendur á sjálfs sín mála ? 
+46009007b	hver		Hver plantar víngarð og neytir ekki ávaxtar hans ? 
+46009007c	hver		Hver gætir hjarðar og neytir ekki af mjólk hjarðarinnar ?
+46009018	Hver		Hver eru þá laun mín ? Að ég boða fagnaðarerindið án endurgjalds og hagnýti mér ekki það , sem ég á rétt á .
+46010019a	Hvað		Hvað segi ég þá ? 
+46010019b	~		Að kjöt fórnað skurðgoðum sé nokkuð ? 
+46010019c	~		Eða skurðgoð sé nokkuð ?
+46010029	hvers vegna		Samviskunnar , segi ég , ekki eigin samvisku , heldur samvisku hins . En hvers vegna skyldi frelsi mitt eiga að dæmast af samvisku annars ?
+46010030	hvers vegna		Ef ég neyti fæðunnar með þakklæti , hvers vegna skyldi ég sæta lasti fyrir það , sem ég þakka fyrir ?
+46011022	Hvað		Hafið þér þá ekki hús til að eta og drekka í ? Eða fyrirlítið þér söfnuð Guðs og gjörið þeim kinnroða , sem ekkert eiga ? Hvað á ég að segja við yður ? Á ég að hæla yður fyrir þetta ? Nei , ég hæli yður ekki .
+46012017a	hvar		Ef allur líkaminn væri auga , hvar væri þá heyrnin ? 
+46012017b	hvar		Ef hann væri allur heyrn , hvar væri þá ilmanin ?
+46012019	hvar		Ef allir limirnir væru einn limur , hvar væri þá líkaminn ?
+46014006	Hvað		Hvað mundi ég gagna yður , bræður , ef ég nú kæmi til yðar og talaði tungum , en flytti yður ekki opinberun eða þekkingu eða spádóm eða kenningu ?
+46014007	hvernig		Jafnvel hinir dauðu hlutir , sem gefa hljóð frá sér , hvort heldur er pípa eða harpa , – ef þær gefa ekki mismunandi hljóð frá sér , hvernig ætti þá að skiljast það , sem leikið er á pípuna eða hörpuna ?
+46014008	hver		Gefi lúðurinn óskilmerkilegt hljóð , hver býr sig þá til bardaga ?
+46014009	hvernig		Svo er og um yður : Ef þér mælið ekki með tungu yðar fram skilmerkileg orð , hvernig verður það þá skilið , sem talað er ? Því að þér talið þá út í bláinn .
+46014015	Hvernig		Hvernig er því þá farið ? Ég vil biðja með anda , en ég vil einnig biðja með skilningi . Ég vil lofsyngja með anda , en ég vil einnig lofsyngja með skilningi .
+46014016	hvernig		Því ef þú vegsamar með anda , hvernig á þá sá , er skipar sess hins fáfróða , að segja amen við þakkargjörð þinni , þar sem hann veit ekki , hvað þú ert að segja ?
+46014026	Hvernig		Hvernig er það þá , bræður ? Þegar þér komið saman , þá hefur hver sitt fram að færa : Sálm , kenningu , opinberun , tungutal , útlistun . Allt skal miða til uppbyggingar .
+46014036	~		Eða er Guðs orð frá yður komið ? Eða er það komið til yðar einna ?
+46015012	hvernig		En ef nú er prédikað , að Kristur sé upprisinn frá dauðum , hvernig geta þá nokkrir yðar sagt , að dauðir rísi ekki upp ?
+46015029a	~		
+46015029b	Til hvers		Til hvers eru menn annars að láta skírast fyrir hina dánu ? 
+46015029c	hvers vegna		Ef dauðir menn rísa alls ekki upp , hvers vegna láta menn þá skíra sig fyrir þá ?
+46015030a	~		
+46015030b	hvers vegna		Hvers vegna erum vér líka að stofna oss í hættu hverja stund ?
+46015032	hvaða		Hafi ég eingöngu að hætti manna barist við villidýr í Efesus , hvaða gagn hefði ég þá af því ? Ef dauðir rísa ekki upp , etum þá og drekkum , því að á morgun deyjum vér !
+46015035a	hvernig		En nú kynni einhver að segja : " Hvernig rísa dauðir upp ? 
+46015035b	Hvaða		Hvaða líkama hafa þeir , þegar þeir koma ? "
+46015055a	hvar		Dauði , hvar er sigur þinn ? 
+46015055b	hvar		Dauði , hvar er broddur þinn ?
+47002002	hver		Ef ég hryggi yður , hver er þá sá sem gleður mig ? Sá sem ég er að hryggja ?
+47002016	hver		þeim síðarnefndu ilmur af dauða til dauða , en hinum ilmur af lífi til lífs . Og hver er til þessa hæfur ?
+47003008	hversu		hversu miklu fremur mun þá þjónusta andans koma fram í dýrð ?
+47003009	~		Ef þjónustan , sem sakfellir , var dýrleg , þá er þjónustan , sem réttlætir , enn þá miklu auðugri að dýrð .
+47006014a	Hvað		Gangið ekki undir ósamkynja ok með vantrúuðum . Hvað er sameiginlegt með réttlæti og ranglæti ? 
+47006014b	Hvaða		Hvaða samfélag hefur ljós við myrkur ?
+47006015a	hver		Hver er samhljóðan Krists við Belíar ? 
+47006015b	hver		Hver hlutdeild er trúuðum með vantrúuðum ?
+47006016	Hvernig		Hvernig má sætta musteri Guðs við skurðgoð ? Vér erum musteri lifanda Guðs , eins og Guð hefur sagt : Ég mun búa hjá þeim og ganga um meðal þeirra , og ég mun vera Guð þeirra , og þeir munu vera lýður minn .
+47011011	hvers vegna		Hvers vegna ? Er það af því að ég elska yður ekki ? Nei , Guð veit að ég gjöri það .
+47011029a	hver		Hver er sjúkur , án þess að ég sé sjúkur ? 
+47011029b	hver		Hver hrasar , án þess að ég líði ?
+47012013	hverju		Í hverju voruð þér settir lægra en hinir söfnuðirnir , nema ef vera skyldi í því , að ég sjálfur hef ekki verið yður til byrði ? Fyrirgefið mér þennan órétt .
+47012017	~		Hef ég notað nokkurn þeirra , sem ég hef sent til yðar , til þess að hafa eitthvað af yður ?
+48002014	hvernig		En þegar ég sá , að þeir gengu ekki beint eftir sannleika fagnaðarerindisins , sagði ég við Kefas í allra áheyrn : " Úr því að þú , sem ert Gyðingur , lifir að heiðingja siðum , en eigi Gyðinga , hvernig ferst þér þá að neyða heiðingja til að lifa að Gyðinga siðum ? "
+48003001	Hver		Þér óskynsömu Galatar ! Hver hefur töfrað yður ? Þér hafið þó fengið skýra mynd af Jesú Kristi á krossinum , málaða fyrir augum yðar .
+48003019	Hvað		Hvað er þá lögmálið ? Vegna afbrotanna var því bætt við , þangað til afkvæmið kæmi , sem fyrirheitið hljóðaði um . Fyrir umsýslan engla er það til orðið , fyrir tilstilli meðalgangara .
+48004009a	hvernig		En nú , eftir að þér þekkið Guð , eða réttara sagt , eftir að Guð þekkir yður , hvernig getið þér snúið aftur til hinna veiku og fátæklegu vætta ? 
+48004009b	~		Viljið þér þræla undir þeim að nýju ?
+48004010	~		Þér hafið gætur á dögum og mánuðum , vissum tíðum og árum .
+48004015	Hvað		Hvað er nú orðið úr blessunarbænum yðar ? Það vitni ber ég yður , að augun hefðuð þér stungið úr yður og gefið mér , ef auðið hefði verið .
+48004021	hvað		Segið mér , þér sem viljið vera undir lögmáli , heyrið þér ekki hvað lögmálið segir ?
+48004030	hvað		En hvað segir ritningin ? " Rek burt ambáttina og son hennar , því að ekki skal ambáttarsonurinn taka arf með syni frjálsu konunnar . "
+48005007a	hver		Þér hlupuð vel . Hver hefur hindrað yður í að hlýða sannleikanum ?
+48005007b	~		
+48005011	hvað		En hvað mig snertir , bræður , ef ég er enn þá að prédika umskurn , hví er þá enn verið að ofsækja mig ? Þá væri hneyksli krossins tekið burt .
+49004009	hvað		En " steig upp " , hvað merkir það annað en að hann hefur einnig stigið niður í djúp jarðarinnar ?
+50001018	hvað		En hvað um það ! Kristur er allt að einu boðaður , hvort sem það heldur er af uppgerð eða heilum hug . Og þetta gleður mig . Já , það mun áfram gleðja mig .
+50001021	~		Því að lífið er mér Kristur og dauðinn ávinningur .
+51002020	~		
+52002019	Hver		Hver er von vor eða gleði vor eða sigursveigurinn , sem vér hrósum oss af ? Eruð það ekki einmitt þér , frammi fyrir Drottni vorum Jesú við komu hans ?
+52003009	Hvernig		Hvernig getum vér nógsamlega þakkað Guði fyrir alla þá gleði , er vér höfum af yður frammi fyrir Guði vorum ?
+54003005	Hvernig		Hvernig má sá , sem ekki hefur vit á að veita heimili sínu forstöðu , veita söfnuði Guðs umsjón ?
+54006007a	~		Því að ekkert höfum vér inn í heiminn flutt 
+54006007b	~		og ekki getum vér heldur flutt neitt út þaðan .
+58001005	hvern		Því við hvern af englunum hefur hann nokkru sinni sagt : Þú ert sonur minn , í dag hef ég fætt þig . Eða : Ég vil vera honum faðir , og hann skal vera mér sonur !
+58001013	hvern		En við hvern af englunum hefur hann nokkru sinni sagt : Set þig mér til hægri handar , uns ég gjöri óvini þína að fótskör þinni ?
+58001014	~		Eru þeir ekki allir þjónustubundnir andar , útsendir í þeirra þarfir , sem hjálpræðið eiga að erfa ?
+58002003	hvernig		hvernig fáum vér þá undan komist , ef vér vanrækjum slíkt hjálpræði sem Drottinn flutti fyrst og var staðfest fyrir oss af þeim , er heyrðu ?
+58002006a	Hvað		Einhvers staðar er vitnað : Hvað er maður , að þú minnist hans ? 
+58002006b	~		Eða mannssonur , að þú vitjir hans ?
+58003016	Hverjir		Hverjir voru þá þeir , sem heyrt höfðu og gjörðu þó uppreisn ? Voru það ekki einmitt allir þeir , sem út höfðu farið af Egyptalandi fyrir tilstilli Móse ?
+58003017	hverjum		Og hverjum " var hann gramur í fjörutíu ár " ? Var það ekki þeim , sem syndgað höfðu og báru beinin á eyðimörkinni ?
+58003018	hverjum		Og hverjum " sór hann , að eigi skyldu þeir ganga inn til hvíldar hans , " nema hinum óhlýðnu ?
+58006004	~		Ef menn eru eitt sinn orðnir upplýstir og hafa smakkað hina himnesku gjöf , fengið hlutdeild í heilögum anda
+58007011	hver		Hefði nú fullkomnun fengist með levíska prestdóminum , – en hann var grundvöllur lögmálsins , sem lýðurinn fékk – , hver var þá framar þörf þess að segja að koma skyldi annars konar prestur að hætti Melkísedeks , en ekki að hætti Arons ?
+58009014	hve miklu		hve miklu fremur mun þá blóð Krists hreinsa samvisku vora frá dauðum verkum , til að þjóna Guði lifanda , þar sem Kristur fyrir eilífan anda bar fram sjálfan sig sem lýtalausa fórn fyrir Guði .
+58010001	~		Lögmálið geymir aðeins skugga hins góða , sem er í vændum , ekki skýra mynd þess . Ár eftir ár eru bornar fram sömu fórnir , sem geta aldrei gjört þá fullkomna til frambúðar , sem ganga fram fyrir Guð .
+58010029a	hve miklu		Hve miklu þyngri hegning ætlið þér þá ekki að sá muni vera talinn verðskulda , 
+58010029b	~		er fótum treður son Guðs og vanhelgar blóð sáttmálans , 
+58010029c	~		er hann var helgaður í , 
+58010029d	~		og smánar anda náðarinnar ?
+58011032	Hvað		Hvað á ég að orðlengja framar um þetta ? Mig mundi skorta tíma , ef ég færi að segja frá Gídeon , Barak , Samson og Jefta , og af Davíð , Samúel og spámönnunum .
+58012007	Hver		Þolið aga . Guð fer með yður eins og syni . Hver er sá sonur , sem faðirinn ekki agar ?
+58012009	~		Enn er það , að vér bjuggum við aga jarðneskra feðra og bárum virðingu fyrir þeim . Skyldum vér þá ekki miklu fremur vera undirgefnir föður andanna og lifa ?
+58012025	~		Gætið þess , að þér hafnið ekki þeim sem talar . Þeir , sem höfnuðu þeim er gaf guðlega bendingu á jörðu , komust ekki undan . Miklu síður munum vér undan komast , ef vér gjörumst fráhverfir honum , er guðlega bendingu gefur frá himnum .
+58013006	Hvað		Því getum vér öruggir sagt : Drottinn er minn hjálpari , eigi mun ég óttast . Hvað geta mennirnir gjört mér ?
+59002006	~		En þér hafið óvirt hinn fátæka . Eru það þó ekki hinir ríku , sem undiroka yður og draga yður fyrir dómstóla ?
+59002014	Hvað		Hvað stoðar það , bræður mínir , þótt einhver segist hafa trú , en hefur eigi verk ? Mun trúin geta frelsað hann ?
+59002016a	~		og einhver yðar segði við þau : " Farið í friði , vermið yður og mettið ! " en þér gefið þeim ekki það , sem líkaminn þarfnast , 
+59002016b	hvað		hvað stoðar það ?
+59002018	~		En nú segir einhver : " Einn hefur trú , annar verk . " Sýn mér þá trú þína án verkanna , og ég skal sýna þér trúna af verkum mínum .
+59002021	~		Réttlættist ekki Abraham faðir vor af verkum , er hann lagði son sinn Ísak á altarið ?
+59003013	Hver		Hver er vitur og skynsamur yðar á meðal ? Hann láti með góðri hegðun verk sín lýsa hóglátri speki .
+59003017	~		En sú speki , sem að ofan er , hún er í fyrsta lagi hrein , því næst friðsöm , ljúfleg , sáttgjörn , full miskunnar og góðra ávaxta , óhlutdræg , hræsnislaus .
+59004001a	af hverju		Af hverju koma stríð 
+59004001b	af hverju		og af hverju sennur meðal yðar ? Af hverju öðru en girndum yðar , sem heyja stríð í limum yðar ?
+59004012	hver		Einn er löggjafinn og dómarinn , sá sem getur frelsað og tortímt . En hver ert þú , sem dæmir náungann ?
+59004014	hvernig		Þér vitið ekki hvernig líf yðar mun verða á morgun . Því að þér eruð gufa , sem sést um stutta stund en hverfur síðan .
+60002020	hvaða		Því að hvaða verðleiki er það , að þér sýnið þolgæði , er þér verðið fyrir höggum vegna misgjörða ? En ef þér sýnið þolgæði , er þér líðið illt , þótt þér hafið breytt vel , það aflar velþóknunar hjá Guði .
+60003013	Hver		Hver er sá , er mun gjöra yður illt , ef þér kappkostið það sem gott er ?
+60004017	hver		Því að nú er tíminn kominn , að dómurinn byrji á húsi Guðs . En ef hann byrjar á oss , hver munu þá verða afdrif þeirra , sem ekki hlýðnast fagnaðarerindi Guðs ?
+60004018	hvar		Ef hinn réttláti naumlega frelsast , hvar mun þá hinn óguðlegi og syndarinn lenda ?
+61003004	Hvað		og segja með spotti : " Hvað verður úr fyrirheitinu um komu hans ? Því að frá því feðurnir sofnuðu stendur allt við sama eins og frá upphafi veraldar . "
+61003011	hversu		Þar eð allt þetta ferst þannig , hversu ber yður þá ekki að ganga fram í heilagri breytni og guðrækni ,
+62002022	Hver		Hver er lygari , ef ekki sá sem neitar , að Jesús sé Kristur ? Sá er andkristurinn , sem afneitar föðurnum og syninum .
+62003012	af hverju		Ekki vera eins og Kain , sem heyrði hinum vonda til og myrti bróður sinn . Og af hverju myrti hann hann ? Af því að verk hans voru vond , en verk bróður hans réttlát .
+62003017	hvernig		Ef sá , sem hefur heimsins gæði , horfir á bróður sinn vera þurfandi og lýkur aftur hjarta sínu fyrir honum , hvernig getur kærleikur til Guðs verið stöðugur í honum ?
+62004020	~		Ef einhver segir : " Ég elska Guð , " og hatar bróður sinn , sá er lygari . Því að sá sem elskar ekki bróður sinn , sem hann hefur séð , getur ekki elskað Guð , sem hann hefur ekki séð .
+62005005	Hver		Hver er sá , sem sigrar heiminn , nema sá sem trúir , að Jesús sé sonur Guðs ?
+66005002	Hver		Og ég sá sterkan engil , sem kallaði hárri röddu : " Hver er maklegur að ljúka upp bókinni og leysa innsigli hennar ? "
+66006010a	hversu lengi		Og þeir hrópuðu hárri röddu og sögðu : " Hversu lengi ætlar þú , Herra , þú heilagi og sanni , að draga það að dæma 
+66006010b	~		og hefna blóðs vors á byggjendum jarðarinnar ? "
+66006017	hver		því að kominn er dagurinn , hinn mikli dagur reiði þeirra , og hver mun geta staðist ? "
+66007013a	hverjir		Einn af öldungunum tók þá til máls og sagði við mig : " Þessir , sem skrýddir eru hvítu skikkjunum , hverjir eru þeir 
+66007013b	hvaðan		og hvaðan eru þeir komnir ? "
+66013004a	hver		og þeir tilbáðu drekann , af því að hann hafði gefið dýrinu vald sitt . Og þeir tilbáðu dýrið og sögðu : " Hver jafnast við dýrið 
+66013004b	hver		og hver getur barist við það ? "
+66015004a	hver		Hver skyldi ekki óttast , Drottinn , 
+66015004b	~		og vegsama nafn þitt ? Því að þú einn ert heilagur , allar þjóðir munu koma og tilbiðja frammi fyrir þér , því að réttlátir dómar þínir eru opinberir orðnir .
+66017007	Hví		Og engillinn sagði við mig : " Hví ertu forviða ? Ég mun segja þér leyndardóm konunnar og dýrsins , sem hana ber , þess er hefur höfuðin sjö og hornin tíu :
+66018018	Hvaða		og hrópuðu , er þeir sáu reykinn af brennu hennar , og sögðu : " Hvaða borg jafnast við borgina miklu ? "

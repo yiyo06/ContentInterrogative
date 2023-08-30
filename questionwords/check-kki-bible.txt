@@ -1,0 +1,743 @@
+40002002	hoki		“ Kowa hoki iMundewa wa Wayahudi yelekigwe ? Kosoko hachiyona inyelesi yakwe kundawilo yedijuwa , nase chija , uleke chimufugamile . ”
+40002004	hoki		Hoyokwinanga ifilongosi wose wa makuhani , na watulumi yawosa fina , “ Kilisito yakwelekigwa hoki ? ”
+40003007	nani		Yakone matewa ga Mafalisayo na Masadukayo , wakwijila ubatiso wakwe , yawagamba , “ Anyeye muwana wa majoka nani yamujanjaluseni kutija inyono ikwija ? ”
+40005013	choni		“ Anyeye no umunyu we chilunga ; ninga umunyu unghabanika wogumigwa choni ukolele ? Usikunoga ka , isigalila kutagigwa kunje na kujatigwa na wanhu .
+40005046	dyaki		Kosoko munghawenda awakumwendani nyeye mopata igeleko dyaki ? Aho awaya awakuhokela ikodi togoleni nawo wasikugolosa nheifo ?
+40005047	yaki		Kahi munghawalamusa awandugusenu du , mugolosa nhenda yaki yongeseke ? Aho awanhu wa mataifa wasikuwagolosela fina nheifo !
+40006027	Yehoki		Yehoki ukwenu imwene kwakiidasa yekudaha kiyongesela utali wakwe hata mukono umwedu ?
+40006028	Nhani		“ Nhani mukiidasile sisuke ? Gelegeleni amaluwa ga kumigunda , ifene fo ga kukula ; gasikugolosa milimo yoyose , kahigasikubota ;
+40006031a	choni		“ Munghakiidase mukugamba , Chodiya choni ? 
+40006031b	choni		Ama chokunywa choni ? 
+40006031c	choni		Ama chofala choni ?
+40007003	Nhani		Nhani ukulanga ichibasi chuwile mwigiso dye munduguso , na dibiki duwile mudigiso dyako gomwecho nghukudyona ?
+40007004	nhani		Kahi komulonga nhani imunduguso , Nileke nileguse ichibasi ichuwile mwigiso dyako ; ugele ! Mwina dibiki mwigiso dyako go mwecho ?
+40007009	nani		Kahi kwina munhu nani ukwenu imwene imwanagwe yanghatasa mukate komwingha diwe ?
+40007016a	~		Mowatanga kosoko ye sinhenda sawo . Togoleni ! Awanhu wekubawa sabibu mumabiki ge miwa ; 
+40007016b	~		ama tini mu mibaluti ?
+40008026	Nhani		Yawagamba , “ Nhani mukogoha anyeye we dihuwi dikefu ? ” Chimwande , yekwinuka na kuyigombela hoyoigombela imheho ne bahali ; hoisalama lugano .
+40008027	waki		Awanhu waya wejawajuma wakugamba , “ I munhu yuno munhu waki ! Imwene imheho ne ibahali fikumuhulika ? ”
+40008029	choni		Langa wejawatula chowe , wakugamba , “ China choni na gweye go Mwana we Mulungu ? Togola ! Kwija kuchisambasa ugele wetu unghali ? ”
+40009004	Nhani		Ninga Yesu hakamanya fowakudoga , hoyogamba , “ Nhani mukudoga gehile mufidoga fyenu ?
+40009005	dihoki		Dihufu no dihoki , kugamba , ‘ Kulekeleligwa uwihi wako , ’ ama kugamba , ‘ Inuka ulute ? ’
+40009011	Nhani		Mafalisayo , wakone nheifo , hawawagamba awefusa wakwe , “ Nhani imwalimu wenu yakudiya hamwedu na wakonghosa kodi na wena uwihi ? ”
+40009014	Nhani		Ugele uwo wefusa wa Yohana howomulutila , howogamba , “ Nhani aseye na Mafalisayo chikufunga , ninga awefusa wako wasikufunga ? ”
+40009015	nhani		Yesu yawagamba , “ Awenangigwe kuhalusi wodaha nhani kulila , ugele imwenye halusi kahamwedu nawo ? Ugele uukwija wo kuleusiligwa imwenye halusi ; aho noho wakwenda weje wafunge .
+40010025	~		Yagila imwifusa yowe fina imwalimu wakwe , mutumwa yowe fina imukulu wakwe . Nghonaga wamwinange imwenye nyumba Belisebuli , isikuwa lugano kuwaya awoile munyumba yakwe . ”
+40011007	choni		Kamei awaya wakaleuke , Yesu yakonga kulonga na matewa simbuli sa Yohana , “ Hamulawa kuluta kunyika kulanga choni ? Chibago chikusingiswa ne imheho ?
+40011008	choni		Ninga hamulawa kwijalanga choni ? Munhu yafalile suke swamu lugano ? Langa awanhu awakufala sisuke siswamu lugano , wowa musinyumba sa wandewa .
+40011009	nhani		Ninga nhani mwalawile ? Nikona mugonesi ? Heye , nikumutamilani imukulu kusuma imugonesi ,
+40011016	choni		“ Ninga icheleko chino nochiliganisa na choni ? Chikifana wana wekwikala kwisoko , wakuwenanga wayao wakugamba ,
+40012011	yehoki		Hakawagamba , “ No yehoki mugati yenu imwene ingholo yakwe imwedu inghahubugila mwikolongo dijuwa dye sabato , nghakuikola na kuilafa ?
+40012026	nhani		Na Luhoma yanghamulafa Luhoma , yakibanila imwecho kwa imwecho , undewa wakwe wokwima nhani ?
+40012027	yehoki		Nghona aniye nikulafa simhepo kwa Belisebuli , togoleni ! Awana wenu wakumulafa kwa yehoki ? Kosoko iyo awene nowakwenda wamuliganiseni !
+40012029	nhani		“ Ama kodaha nhani imunhu kwingila kunyumba ye munhu yena ludole na kufilonda ifinhu fyakwe , nghonaga nghakongile kumoha ayuya iyena uludole ? Noholo yakonge kuhoka inyumba yakwe .
+40012034	nhani		Anyeye mu wana wa majoka , modaha nhani kulonga maswanu nghonaga mwihile ? Kosoko umulomo we munhu ukulonga agamemile mu moyo wakwe .
+40012048a	nonani		Kabidula yekumugamba , “ Ayuya yamwigalile imbuli , Ing'inangu nonani , na awandugusangu ? ”
+40012048b	~		
+40013010	Nhani		Howokwija awefusa wakwe howomugamba , “ Nhani ukulonga nawo kwa mbasi ? ”
+40013027	hoki		Awatumwa wakwe imwenye kaya howoluta kumutamila , ‘ Mundewa , nghwahandile mbeyu swanu mu mugunda wako ; galawa hoki amabago ? ’
+40013054a	hoki		Yakafike kuiisi yakwe , hakawafusa mwisinagogi dyawo , howojuma , wakugamba , “ Ayuno kapata hoki imisungu ino na amajumo gano ?
+40013054b	~		
+40013056	hoki		Na walumbuse wose wasibaha ahetu ? Hambiya yuno kapata hoki gose gano ? ”
+40014031	Nhani		Chimwandemwande Yesu hakagolola umukono wakwe , hakamukola , na kumugamba , “ Agwe go we dihuwi dikefu ! Nhani wowile na manhonge ? ”
+40015002	Nhani		“ Nhani awefusa wako wakubana ijadi ? Kosoko wasikunawa imikono nghona wakudiya chakudiya . ”
+40015003	Nhani		Hoyowabidula yakuwagamba , “ Nhani anye nanye mukubana imisigililo ye Mulungu kosoko ya ijadi yenu ?
+40015033	hoki		Awefusa wakwe howogamba , “ Chopata hoki mikate ahano hanyika , yo kudigutisa ditewa dikulu fina dino ? ”
+40015034	mingahe		Yesu hoyowosa , Mwina mikate mingahe ? Howogamba , “ Mufungate , Na fisomba fikefu . ”
+40016008	Nhani		Ninga Yesu yakamanye , hoyowagamba , “ Nhani mukuwanga nyenye kwa nyenye , anyeye we dihuwi dikefu , kosoko mwichaka mikate ?
+40016009	fingahi		Mukali kumanya ? Kahi musikugelegela aiya imikate imishano ku wanhu figulu fishano , homudondola fisege fingahi ?
+40016010a	~		Na aiya mikate mufungate , na waya wanhu figulu fine , 
+40016010b	fingahe		homudondola fisege fingahe ?
+40016011	Yanhani		Yanhani musikumanya fina si kosoko ye mikate nimutamilani ? Ninga mukilangisise na inungo ya Mafalisayo na Masadukayo . ”
+40016013	nani		Yesu yaluta ulwandi lwa Kaisalia-Filipi , hoyowosa awefusa wakwe yakugamba , “ Awanhu wakugamba fina Imwana we Munhu no nani ? ”
+40016015a	``		Hoyowagamba , 
+40016015b	nani		“ Anyeye mukugamba niye no nani ? ”
+40016026a	chaki		Imunhu kopata chinhu chaki yanghapata ichilunga chose , ninga yagilise ichidoga chakwe ? 
+40016026b	choni		Kahi munhu yakudaha kulafa choni ahanhu he chidoga chakwe ?
+40017010	nhani		Awefusa wakwe howomusa , wakugamba , “ Ninga nhani awatulumi wakugamba fina yakulongola Eliya ? ”
+40017017a	mpaka milaki		Yesu hoyobidula hoyomugamba , “ Anyeye cheleko chichaka dihuwi ! Ichagilile , nokwikala hamwedu nanye mpaka milaki ? 
+40017017b	mpaka milaki		Nimufinyiliseni mpaka milaki ? Mwigaleni akuno ukwangu . ”
+40017019	Nhani		Noho awaya awefusa wakwe howomulutila Yesu wemwene kwa chinyele howogamba , “ Nhani seye chalemeligwe kuilafa ? ”
+40017025a	nhani		Naye yakengile munyumba , “ Yesu hakakonga kumusa . ” Yakugamba , “ Ukona nhani Simoni ? 
+40017025b	wenhani		Awandewa we chilunga chino wakulonda ikodi au maliho kuwanhu wenhani ? Kuwana wawo ama wanhu wengi ? ”
+40018001	nani		Ichigele chichiya awefusa wakwe howomulutila Yesu howogamba , “ No nani imukulu mu undewa wa kulanga ? ”
+40018012	nhani		Mukona nhani ? Imunhu yanghowa na ngholo igana , imwedu inghagilila , togola ! Nghakusileka siya makumi ikenda na ikenda , hoyoluta kwitunda , na kuihananga aiya yagilile ?
+40018021	kengahe		Kahi Petulo hoyomulutila hoyomugamba , “ Mundewa , mundugusangu yanigolosele uwihi kengahe nimulekele ? Mpaka mikangha mufungate ? ”
+40019007	nhani		Howomugamba , “ Hayuwa nhani Musa hakalagisa kumwingha ibaluwa ya malekeni , na kumuleka ? ”
+40019016	chaki		Langa , imunhu yumonga hakamulutila hoyomugamba , “ Mwalimu , nigolose chinhu chaki chiswanu uleke niupate uumi wa majuwa gose ? ”
+40019017	Nhani		Hoyomugamba , “ Nhani ukunyusa imbuli ya uswanu ? Imuswanu yumwedu du . Ninga unghahananga kwingila kuumi , ugakole amalagiso . ”
+40019018	Agehoki		Kamugamba , “ Agehoki ? ” Yesu hoyogamba , “ Agano , Unghakome , Unghengilile , Unghahije , Unghamuhomelele miyago udasi .
+40019020	choni		Imujelelo yuya hoyomugamba , “ Ago gose nigakola nihungukiligwa na choni kahi ? ”
+40019025	nani		Awefusa wakwe wakahulike , siso howojuma lugano , howogamba , “ Ninga nani iyakudaha kuhona ? ”
+40019027	choni		Noho Petulo yabidula yakugamba , “ Langa aseye chileka fyose chikwandamila , chopata choni ? ”
+40020006	Nhani		Ikafike saa ikumi na imwe , hoyoleuka , hoyofika wamonga wemile , hoyowagamba , ‘ Nhani nyeye mwimile hano imisi yose bila milimo ? ’
+40020012	~		wakugamba , “ Awano wa kunyuma wagolosa milimo saa imwedu du , nagwe kuwaliganisa na seye chifinyilise misi yose ? ”
+40020021	choni		Hoyomugamba , “ Ukuhananga choni ? ” Hoyogamba , “ Ulagise fina awanangu wano aweli wekale iyumonga umukono wako wo kulume , na iyumonga umukono wako wo kumoso , mu undewa wako . ”
+40020032	choni		Yesu yeja yema , na kuwenanga , yakugamba , “ Mukuhananga nimugoloseleni choni ? ”
+40021010	Nani		Yakengile Yelusalemu , ikaya yose hoisingisika , wanhu wekugamba ; Nani yuno ?
+40021016	~		“ Ukuhulika wanhu fowakulonga ? ” Yesu hakawagamba , “ Heye , musinati musome kwa milomo ya wana wadodogi na wakongha kumemelesa ditunyo ? ”
+40021020	Yanhani		Awefusa wakwe wakone , howokisina , howogamba , “ Yanhani umusada unyalile baho ni baho ? ”
+40021023a	waki		Kamei yakengile mwihekalu awakulu wa Makuhani , na wasehe wa wanhu , howomulutila ugele foyendeyofusa , howogamba , “ Kwa udaha waki ukugolosa gano go ukugolosa ? 
+40021023b	nani		Naye nani yakwinghile udaha uwo ? ”
+40021025a	hoki		Ubatiso wa Yohana haulawa hoki ? Haulawa kulanga ama ku wanhu ? ” Howokonga kuwa na lukani awecho kwa wecho , wakugamba , 
+40021025b	~		“ Chinghagamba ulawa kulanga , yakwenda yachigambe , 
+40021025c	nhani		‘ Nhani musamuhuwile ? ’
+40021028	mukonanhani		“ Ninga , mukonanhani ? Munhu yumonga hakowa na wana weli ; kamulutila yuya we nghonga , hoyomugamba , ‘ Mwanangu diyelo ulute ukagolose milimo kumugunda we misabibu . ’
+40021031	yehoki		Togoleni ! Mu wano aweli no yehoki yagolose foyakwenda iBabakwe ? ” Howogamba , “ Ayuya we nghonga . ” Kamei Yesu , hoyowagamba , “ Chawelu , Nikumutamilani , awakonghosa kodi na wedihabwa wakwenda walongole kumwande yenu kukwingila ku undewa we Mulungu .
+40021040	nhani		Nghona yakwija ayuya imwenyemugunda we misabibu kowatenda nhani awemilisi ? ”
+40022012	nhani		Hakamugamba , ‘ Mbwiyangu , kwingila nhani muno nagwe kwechaka suke ya halusi ? ’ Hoyonyamala twi .
+40022017	nhani		Haya chitamile , Ukona nhani . Ni fiswanu kumwingha Kaisali kodi , ama si fiswanu ? ”
+40022018	Nhani		Ninga iYesu hakamanya uwihi wawo , hakagamba , “ Nhani mukunigesa anyeye mwine ichimwefe ?
+40022020a	yani		Hakawagamba , “ Isanamu ino yani , 
+40022020b	anuwani		ne anuwani ino ? ”
+40022028	yehoki		Dijuwa dye ndumo ye chilunga yakwenda yowe muke wa yehoki ? Kosoko wose mufungate hawowa naye . ”
+40022036	dihoki		“ Mwalimu , Mu tolati ligasilo dikulu no dihoki ? ”
+40022042a	nhani		“ Anyeye mukona nhani muchanhya ya Kilisito ? 
+40022042b	wani		Togoleni ni mwana wani ? Howomubidula , wa Daudi . ”
+40022043	nhani		Yesu hoyowagamba , “ Ikudahika nhani fina kwa udaha wa Muhe Daudi yakumwinanga imwene Mundewa ? Yekugamba ,
+40022045	nhani		Daudi hona yakumwinanga Kilisito iMundewa , yakuwa nhani mwanagwe ? ”
+40023017	ihoki		Mubwalata nyeye ! Kahi mwa mudula inghulu no ihoki , aiya hefugilo , ama adiya dihekalu idikuisunha hefugilo ?
+40023019	ihoki		Mwafidula nyeye ! Kosoko inghulu no ihoki , adiya digelo , ama amafugilo agakusunha digelo ?
+40023033	nhani		Anyeye mumajoka , cheleko cha majoka ! Moitija nhani iliganiswa kwa jehanumu ?
+40024003a	milaki		Hata foyeja yekala muditunda dya Miseituni , awefusa wakwe howomwijila kwa chinyele , wakugamba , “ Chitamile simbuli sino sikuwa milaki . 
+40024003b	choni		Ne chitangilo cho kwija kwako chikuwa choni , na indumo ye chilunga ? ”
+40024045	nani		“ No nani imutumwa , yekuhuwiligwa , na yene misungu . Imwene yalekeligwe ne Mundewa wakwe inyumba yakwe , yawenghe wanhu ichakudiya ku ugele wakwe ?
+40025037	milaki		“ Noho awanhu waswamu , womubidula , ‘ Mundewa , milaki fochakonile kwina njala , hochikwingha chakudiya , ama kwina nghilu hochikwingha meji ?
+40025038	milaki		Kahi milaki fochakonile kwa mugeni , hochikukalibisha , ama kwa mwasi hochikufasa ?
+40025039	milaki		na kahi milaki chakonile umutamu , kahi kwa muchifungo , hochikwijila ? ’
+40025044	milaki		“ Kamei nawo wakubidula , wakugamba , ‘ Mundewa milaki , fochakonile agweye kwina njala kahe kwina nghilu , kahe kwa mugeni , kahe kwa mwasi , kahe kwa mutamu , kahe kwa muchifungo , hochileka kukutogomela ? ’
+40026008	yaki		Awefusa wakwe wakone nhaifo , howosuha , howogamba , “ Hasala yaki ino ?
+40026010	Nhani		Yesu yakamanye , hoyowagamba , “ Nhani mukumwidasa imwanamuke ? Kosoko kanigolosela chinhu chiswanu .
+40026015	choni		hakagamba Moningha choni , ninghamulafa ukwenu ? Howomuliha fipande makumi madatu fya fesa .
+40026017	hoki		Dijuwa dya kukonga dye mikate isigumigwe nungo , awefusa wakwe hawamulutila Mundewa Yesu , na kumugamba , “ Ukuhananga chigolose hoki uleke ukadiile iPasaka ? ”
+40026040	~		Hakawejila awaya awefusa , na kuwefika wagonile ; hakamugamba , “ Petulo Mulemeligwa kwikala meso na niye hata isaa imwedu ?
+40026050	~		Yesu hoyomugamba , “ Mbwiyangu , golosa idikwigale ” Howoluta howogolola imikono yawo , howomukola Yesu .
+40026054	nhani		Amatulumo gomemelesigwa nhani fina agakugamba ikuwa nheifo ?
+40026062a	~		Kamei Ikuhani Mukulu hoyokwinuka hakamugamba , “ Nghukubidula mbuli ? 
+40026062b	choni		Awano wakukuhomelesa choni ? ”
+40026065	Nhani		Ikuhani Mukulu , hoyodega si suke sakwe , yakugamba , “ Lubeso . Nhani chikuhananga wahomelesi kahi ? Langeni hambiya muhulika ulubeso lwakwe .
+40026066	nhani		Mukulamula nhani nyeye ? ” Howobidula , howogamba , “ Imwagila yakomigwe . ”
+40026068	nani		wakugamba , “ Agwe Kilisito ! Tanga , nani yakutowile ? ”
+40027004	choni		hoyogamba , “ Hanibana , fonaisongese isakame ichaka wihi . ” Howagamba , “ Ago gena choni ukwetu . Ugalange agweye gomwecho . ”
+40027013	~		Noho Pilato hoyomugamba , “ Nghukuhulika amabuli gose gowakukuhomelela ? ”
+40027017	yehoki		Wakakitang'anyile , Pilato hakawagamba , “ Mukuhananga nimulekele yehoki ? Ayuya iBalaba ama iYesu yekwinangigwa Kilisito ? ”
+40027021	yehoki		Iliwali hoyobidula kahi hoyowagamba , “ Mukuhananga niwadoholele yehoki mu awano aweli ? ” Howogamba , “ Balaba ! ”
+40027022	nhani		Pilato hoyowagamba , “ Nimugolose nhani Yesu iyekwinangwa Kilisito ? ” Howobidula wose , “ Yasambasigwe ! ”
+40027023a	nhani		Hoyogamba , “ Nhani , 
+40027023b	waki		wihi waki woyagolose ? ” Howokongesa kujoja wakugamba , “ Yatungikigwe ! ”
+40027046	nhani		Ikafike isaa ya ikenda nhafi , iYesu yekwinula dijwi dyakwe kwa ludole , yekugamba , “ Eloi , Eloi , lama sabakitani ? ” Nong'agamba , “ Mulungu wangu , Mulungu wangu , nhani unilekile ? ”
+41001024	choni		kamei hakajoja China choni nagweye , “ Yesu wa Nasaleti ? Togola kwija uchimalagise ? Nikumanya gwegwe no Imusunhile we Mulungu . ”
+41001027	Choni		Wose wejawajuma , wakiyusa , wakugamba , “ Choni chino ? Ifuso isha ! Kwa udaha yakulagisa hata magini gehile nago gakumuhulika . ”
+41002007a	nhani		“ Nhani yuno yakulonga nhafi ? Yakutofula . 
+41002007b	nani		No nani yakudaha kuleusa uwihi langa yu mwedu du naye no Mulungu ! ”
+41002008	Nhani		Chimwande Yesu , yakamanye muchidoga chakwe fina wakudoga nheifo mufidoga fyawo , yawagamba , “ Nhani mukudoga nhafi mufidoga fyenu ?
+41002009	chihoki		Chihufu no chihoki , kumugamba yaholole , ‘ Kuleusiligwa uwihi wako , ’ ama kugamba , ‘ Inuka , kitwike disasi dyako , ulute ? ’
+41002016	Nhani		Watulumi na Mafalisayo fowamonile yakudiya hamwedu na wakonghosa kodi na wena uwihi , hawawagamba awefusa wakwe , “ Nhani yakudiya hamwedu na wakonghosa kodi na wena uwihi ? ”
+41002018	Nhani		Awefusa wa Yohana na Wamafalisayo weja wafungaga ; kamei , haweja , wakumugamba , “ Nhani awefusa wa Yohana na wefusa wa Mafalisayo wakufunga , ninga awefusa awako wasikufunga ? ”
+41002019	nhani		Yesu hakawagamba , “ Awowile mu halusi wakudaha kufunga nhani ugele ibwana halusi kahamwedu nawo ? ” Ichigele chose nghona ibwana halusi ye hamwedu nawo , wasikudaha kufunga .
+41002024	nhani		Mafalisayo hawamugamba , “ Langa , nhani wakugolosa dilemesigwe kugolosa mwijuwa dye Sabato ? ”
+41003004	~		Hakawagamba , “ Ni fiswanu dijuwa dye sabato kugolosa maswanu ama gehile , Kuhonya chidoga ama kukoma ? ” Ninga hawanyamala .
+41003023	~		Hakawenanga , na kuwatamila kwa mbasi : “ Iluhoma kodaha kumulafa Luhoma ?
+41003033a	chenani		Yawabidula , yekugamba , “ Imayi na wandugu sangu no chenani ? ”
+41003033b	~		
+41004013	nhani		Kahi yawagamba , “ Musikuimanya imbasi ino ? Simbasi simonga mosimanya nhani ?
+41004030a	choni		Yagamba , “ Chiliganise na choni undewa we Mulungu ? 
+41004030b	yaki		Kahi chiugume mu mbasi yaki ?
+41004038	~		Imwene hakowa kunyuma ye ichiya kagona mu muto . Hawamwinusa , wakumugamba , “ Mwalimu , nghukona ubasi aseye fochikufa ? ”
+41004040a	nhani		Hakawagamba , “ Nhani mukogoha ? 
+41004040b	~		Mwichaka ihuwi ? ”
+41004041	nani		Hawengiligwa na chogoho chikulu , na kukonga kulonga awecho kwa wecho , “ Ayuno nani , imwene imheho ne bahali fikumuhulika ? ”
+41005007	choni		Yakujoja kwa dijwi dya muchanya , yekugamba , “ Nina choni nagweye , Yesu , Mwana we Mulungu ! Yowile kuchanhya ? Nikutasa kwedisina dye Mulungu unghanidumangise ! ”
+41005009	nani		Hakadyusa , “ Disina dyako nani ? Hodibidula Disina dyangu nene Legioni kosoko cha itewa ! ”
+41005030	Nani		Kamei Yesu yakamanye fina udaha umulawa umwakwe , chimwande yabiduke mu ditewa , hoyogamba , “ Nani yanikwafile ? ”
+41005031	Nani		Awefusa wakwe hawamugamba , “ Togola nghukona amatewa fowakukukanhamisa ulwandi lwose ; nagwe ukugamba Nani yanikwafile ? ”
+41005035	Nhani		Ugele foyalongage , haweja wanhu kulawa kwa yuya imukulu wa disinagogi , wakugamba , “ Imwanago we chike kafulusa kubanika . Nhani ugendelele kumwidasa imwalimu ? ”
+41005039a	nhani		yakafuluse kwingila yagamba , “ Nhani mukujoja 
+41005039b	~		na kulila ? Imundele yuno nghafile , ninga kagona du ! ”
+41006002a	hoki		Ikowe sabato , yakonga kufusa mwisinagogi . Matewa wakahulike wejawakisina , hawagamba , “ Ayuno kapata hoki agano ? 
+41006002b	yaki		Na misungu yaki ino yoyenghigwe yuno ? 
+41006002c	~		Kahi yakugolosa amajumo gano goyakugolosa kwe mikono yakwe ?
+41006022	~		Noho imwanagwe we chike wa Helodia , yengila na kufina , yamwendesa Helode na wose wowile naye hachakudiya chiya . iMundewa yamugamba imundele yuya , “ Nitase chochose cho ukuhananga ani nikukwingha . ”
+41006024	choni		Kamei hakaluta na kumusa ing'ina , “ Nitase choni ? ” Naye yamugamba , “ Ditwi dya Yohana Mubatisaji . ”
+41006037	~		Ninga hakawagamba , “ Wengheni nyeye chakudiya . ” Wamugamba , “ Togola chilute chikagule mikate ya dinali magana meli uleke chiwenghe chakudiya ? ”
+41006038	mingahi		Yawagamba , “ Mwinayo mikate mingahi ? ” Luteni mukalange . Wakafuluse kumanya weja wagamba , “ Mishano na somba mbili . ”
+41007005	Nhani		Awaya Mafalisayo na Watulumi howomusa Yesu , “ Nhani awefusa wako wasikwandamila amahokelo gawasehe ninga wakudiya ne mikono ichuchile ? ”
+41008004	~		Awefusa wakwe wamusa , wakugamba , “ Togola kwina munhu yakudaha kuwegusa mikate awanhu ahano hanyika ? ”
+41008005	Mmingahiwina		Kawosa , “ Mwina mikate mingahi ? ” Hawagamba , “ Mufungate . ”
+41008012	Nhani		Hakona usungu muchidoga chakwe , “ Nhani icheleko chino chikuhananga ijumo ? Chawelu nikumutamilani ! Chisikwinghigwa chitangilo icheleko chino ! ”
+41008017	Nhani		Yesu hakamanya , hoyowagamba , “ Nhani mwina lukani kosoko mwechaka mukate ? Musinati mumanye , kahi musikutanga ? Togoleni ! Fidoga fyenu fisito ?
+41008018a	``		Mwina meso musikona . 
+41008018b	~		Mwina nghutwi musikuhulika ; kahi musikugelegela .
+41008019	fingahi		Fonabendule haya imikate mishano na kuwengha awaya wanhu figulu fishano hamulonda fisege fingahi fimemile ifibendu ? ” Wamugamba , “ Ikumi na fili . ”
+41008020	fingahi		Na iya mufungate na kuwengha wanhu figulu fine , Hamulonda fisege fingahi fimemile fibesu ? Howomugamba , “ Mufungate . ”
+41008021	~		Yawagamba , “ Musinati mumanye , mukali ? ”
+41008023	~		Hakamukola mukono , hakamusegesa kunje ye chikaya na kumutwila mate kumeso , yamwikila mikono yakwe , yamusa , “ Ukona chinhu ? ”
+41008027	nani		Yesu hakaleuke na wefusa wakwe , na kuluta ku fikaya fya Kaisalia , Filipi , munjila yawosa awefusa wakwe , yakugamba , “ Awanhu wakunigamba niye nene nani ? ”
+41008029a	~		Yawosa : 
+41008029b	nani		“ Anyeye mukugamba niye nene nani ? ” Petulo hakamubidula , yekumugamba , “ Agweye no Kilisito . ”
+41008036	nhani		Kosoko ikwenda imutase nhani imunhu yanghapata ichilunga chose na kwagilisa ichidoga chakwe ?
+41008037	choni		Kahe imunhu yalafe choni ahanhu hokulafa ichidoga chakwe .
+41009010	choni		Hawaikola imbuli iya , wakiyusa awecho kwa wecho , “ Akuno kukwinuka kulawa kuwafile no choni ? ”
+41009011	~		Hawamusa wakugamba , “ Awatulumi wakugamba fina iwagila Eliya yakonge kwija ? ”
+41009012	nhani		Hakawabidula , yawagamba , “ Chawelu , Eliya yakulongola kwija , na kugolosa usha finhu fyose , ninga , hamwedu na gago , foyatulumigwe nhani Mwana we Munhu fina yakwende yadumangisigwe madumangiso mengi na kubesigwa ?
+41009016	choni		Hakawosa , “ Mwina lukani lwa choni nawano ? ”
+41009019a	mpaka milaki		Hakabidula yakuwagamba , “ Anyeye cheleko chichaka dihuwi ! Nikale nanyeye mpaka milaki ? 
+41009019b	mpaka milaki		Nimulondeni fomuwile mpaka milaki ? Mwigaleni ukwangu ! ”
+41009021	milaki		Yesu hakamusa iBabakwe , “ Kakongigwa milaki ? ” Hakagamba , “ Kulawa udodo . ”
+41009028	Nhani		Yakengile munyumba , awefusa wakwe hawamusa wemwene , “ Nhani seye chisadahile kuilafa ? ”
+41009033	lwaki		Hawaje Kapelinaumu , yakowe munyumba hakawosa , “ Mwende mutowa lukani lwaki munjila ? ”
+41009050	choni		“ Umunyu muswanu ; ninga umunyu unghasusuka , si munyu kahi wogumigwa choni ukolele ? Muwe munyu mugati yenu , mukekale kwa digoya muwecho kwa wecho . ”
+41010003	choni		Naye yawabidula yekugamba , “ I Musa hakawalagisa choni ? ”
+41010017	nhani		Ugele foyalawage kuluta kunjila , munhu yumonga hakamwijila lumangho , na kumufugamila , yakumusa , “ Mwalimu muswamu nigolose nhani uleke niuhokele uwumi wa majuwa gose ? ”
+41010018	Nhani		Yesu hakamugamba , “ Nhani ukuninanga muswamu ? ” Kwachaka imunhu muswanu ninga yumwedu du ni Mulungu .
+41010026	nani		Nawo hawakisina lugano , wakumugamba , “ No nani yekudaha kuhona ? ”
+41010036	choni		Yawagamba , “ Mukuhananga niwagoloseleni choni ? ”
+41010051	choni		Yesu yamubidula , yamugamba , “ Ukuhananga nikugolosele choni ? ” Ayuya imudula yamugamba , “ Mwalimu wangu ! Nikuhananga nidahe kona . ”
+41011003	Nhani		Ne munhu yanghamusani Nhani mukutenda nheifo , gambeni , iMundewa yakudihananga yakwenda yadyuwise lulubaha . ”
+41011005	choni		awanhu awemile uko weja wawagamba , “ Mukugolosa choni kudidohola dipunda didodogi ? ”
+41011028a	waki		wakumugamba , “ Kwa udaha waki ukugolosa gano ? 
+41011028b	nani		No nani yakwinghile udaha uwo ugolose gano ? ”
+41011030	~		Ubatiso wa Yohana haulawa kulanga ama kuwanhu ? Nhamileni . ”
+41011031a	~		Howokonga kuwanga awecho kwa wecho wakugamba fina chinghagamba , “ Haulawa kulanga , ” yakwenda yachigambe , 
+41011031b	nhani		“ Nhani musamuhuwile ? ”
+41012009	nhani		“ Kamei yatende nhani ayuya iMundewa , imwenyemugunda we misabibu ? Yakwija na kuwakoma awemilisi waya , na umugunda uya we misabibu yakwende yeke wemilisi wengi .
+41012015	Nhani		Chimwinghe , chinghamwinghe ? ” Naye yakamanye ichimwefe chawo , hakawagamba , “ Nhani mukunigesa ? Nigalileni ifesa niilange . ”
+41012016a	lunolwani		Hawegala . Kamei hakawagamba , “ Isanamu ino lubonoto lunolwani ? ” Hawamugamba , “ Lwa Kaisali , ”
+41012016b	~		
+41012023	yehoki		Mukwinuka wafile kokuwa muke wa yehoki ? Kosoko wose mufungate hawamutola . ”
+41012028	dihoki		Yumonga wa watulumi hakeja na kuwahulika wakulonga naye . Hakona fina kawabidula fiswamu , hakamusa : “ Mumalagiso gose dilagiso dihoki no dikumwande ya gose ? ”
+41012035	~		Ugele Yesu foyafusage mwihekalu , hakawagamba , “ Awatulumi wakugamba Kilisito ni Mwana wa Daudi ?
+41012037	nhani		Daudi imwecho yakugamba , “ Mundewa aho kagaluka mwanagwe nhani ? ” Na ditewa dyose wende womutegelesa kwa chinyemi .
+41013004a	milaki		Chitamile simbuli sino sikuwa milaki , 
+41013004b	choni		nacho ichitangilo ni choni cha ugele wa ago gose kumemelesigwa ?
+41014004	Nhani		Hahowa na wanhu awene wasuhile mufidoga fyawo wakugamba , “ Nhani kwagilisa mafuta ge diliho nhaifino ?
+41014006	Nhani		Yesu hakagamba , “ Mulekeni ! Nhani mukumwidasa ? Kanigolosela chinhu chiswanu .
+41014012	hoki		Dijuwa dye nghonga dye mikate isilungigwe , wakachinje ingholo ye iPasaka , awefusa wakwe wamugamba , “ No hoki koukuhananga chikugolosele udiile iPasaka ? ”
+41014014	hoki		na hohose hoyakwingila , mumugambe imukaya : Mwalimu yakugamba , ‘ Chuwa hoki ichibuha changu ichawageni , nidiye iPasaka umo hamwedu na wefusa wangu ? ’
+41014060a	~		Kamei imutambiki Mukulu hakema muchiligati , yokumusa Yesu yakugamba , “ Nghukubidula mbuli ? 
+41014060b	choni		Awano wakukuhomelesa choni ? ”
+41014063	yaki		iMutambiki mukulu yadega si suke sakwe , yakugamba , “ China soko yaki yakuhananga wahomelesi ?
+41014064	nhani		Muhulika ulubeso lwakwe . Mukona nhani nyeye ? ” Wose hawalamula fina iwagila yakomigwe :
+41015004	~		Pilato kamusa kahi yakugamba , “ Nghukubidula ? Langa ni mbuli nyingahi sowakukuhomelesa . ”
+41015012	nhani		Pilato yawabidula kahi yakuwagamba , “ Nimutende nhani ayuno yo mukumugamba Mundewa wa Wayahudi ? ”
+41015014a	~		Pilato yawagamba , 
+41015014b	waki		“ Kwina wihi waki woyagolose ? ” Weja wagendelele kutula chowe , “ Musambase ! ”
+41015034	nhani		Ikafike saa ya dikenda , Yesu yekwinula dijwi dyakwe kwa ludole , “ Eloi , Eloi , lama sabakitani ? ” No kugamba , “ Mulungu wangu Mulungu wangu nhani unilekile ? ”
+41016003	Nani		Hawakonga kulonga awecho kwa wecho , “ Nani yakuchifingilisila diwe diya hamulango we chilalo ? ”
+42001018	nhani		Sakalia kamusa Malaika yakugamba , “ Nomanya nhani ? Aniye namusehe ne mukangu mudaha lugano . ”
+42001034	nhani		Maliamu kamubidula Malaika yakugamba , “ Yokuwa nhani mbona simanyile mugosi ? ”
+42001043	nani		Aniye na nani mpaka ingina we Mundewa yeje kunilamusa ?
+42001066	nhani		Na wose awahulike howegeka mufidoga fyawo wekugamba , “ Imwana yuno kokuwa mwana wa nhani ? kosoko umukono we Mundewa hawuwa naye . ”
+42002048	nhani		iBabakwe ne ing'ina fowamonile hawesina , ing'inakwe kamusa yakugamba , “ Gomwana kuchitenda nhani ? iBabako na niye chenda chikukongha kwa usungu . ”
+42002049	Nhani		Imwene hakabidula yekugamba , “ Nhani mukunihananga ? Musamanyile fina inyagila kwikala munyumba ye Babangu ? ”
+42003007	nani		Wanhu matewa haweja kubatisigwa na Yohana , kawosa yakugamba , “ Anyeye cheleko cha majoka nani yawafundile muitije inyono ye Mulungu ?
+42003010	nhani		Awanhu wamusa wakugamba , “ Chigolose nhani seye ? ”
+42003012	nhani		Awakonghosa we ikodi nawo howokwija kubatisigwa , howomusa , “ Mwalimu chigolose nhani seye ? ”
+42003014a	~		Awasilikali nawo howomusa wekugamba , 
+42003014b	nhani		“ Ase nase chigolose nhani ? Kawagamba Munghapujile munhu , kahi munghamubalalile munhu , na mwigutiswe na maliho genu . ”
+42004034	choni		“ Koo ! China choni na gweye Yesu Munasaleti ? Kwija kuchimalagisa ? Nikumanya kwa nani gweye , Musunhile we Mulungu . ”
+42004036	yaki		Na wose hawesina wakilongelesa wakugamba , “ Aino mbuli yaki ? Kosoko kwa udaha na ludole yakugombela simhepo sihile naso sikulawa . ”
+42005021a	nani		Na Watulumi na Mafalisayo howakonga kiyusa , wakugamba , “ Ayuno nani yakulonga lubeso ? 
+42005021b	nani		Nani yakudaha kulekelela uwihi ninga Mulungu yemwene ! ”
+42005022	Nhani		Ninga Yesu hakatanga amahweso gawo hakawagamba , “ Nhani mukihwesa mumimoyo yenu ? ”
+42005023	ihoki		Imhufu no ihoki ? Kugamba , “ Kulekeleligwa uwihi wako ama kugamba leuka ulute ? ”
+42005030	Nhani		Amafalisayo na Watulumi wawo hawawakalalilaga awefusa wakwe wakugamba , “ Nhani mukudiya na kunywa hamwedu na wakonghosa kodi na wena uwihi ? ”
+42005033	~		Na hawamugamba , “ Awefusa wa Yohana wakufunga mikangha mingi na wakutasa , nheifo awefusa wa Mafalisayo , ninga awako wakudiya na kunywa . ”
+42005034	~		Na iYesu hakawagamba , “ Mukudaha kuwagolosa awageni we halusi wohe ugele imwenye halusi kahamwedu nawo ?
+42006002	Nhani		Ninga awamonga wa Mafalisayo wagamba , “ Nhani mukugolosa chinhu chene chilemesigwe mwijuwa dye Sabato ? ”
+42006009	~		Na Yesu hakawagamba , “ Nikuwosani togoleni ! Ikuhanangigwa dijuwa dye Sabato kugolosa maswamu ama gehile ? Kuhonya ugima ama kuubana ? ”
+42006032	waki		“ Nghona mukuwenda awaya awakuwenda nyeye , mukonesa uswamu waki ? Kosoko hata awena uwihi wakugolosa nhaifo .
+42006033	dyaki		Na nghona mukuwagolosela uswamu awaya wakuwagolosela maswamu , mukupata igelo dyaki ? Kosoko hata awena uwihi wakugolosa nhaifo .
+42006034	waki		Na nghona mukuwakopesha awaya wene womumanyile fina mohokela , mukugolosa uswamu waki ? Hata awena uwihi wakuwakopesha awena uwihi kuhokela kahi .
+42006039	~		Kahi hoyowatamila mbasi , “ Togoleni ! Imudula kodaha kumulongosa Mudula ? Wasihubugila wose mwikolongo ?
+42006041	Nhani		Nhani ukuchona ichibasi chuwile mwigiso dye munduguso , ninga nghukutanga dibiki dyuwile mwigiso dyako gomwecho ?
+42006042	~		Ama kodahaje kumugamba imunduguso , sekulu , leka nileuse ichibasi chuwile mwigiso dyako , nagwe gomwenecho nghukudyona dibiki duwile mwigiso dyako ? Agwe wechimwefe ! Konga kuleusa dibiki mwigiso dyako , baho kokona fiswamu kuleusa ichibasi chuwile mwigiso dye imunduguso . ”
+42006046	Nhani		“ Nhani mukuninanga , ‘ Mundewa , ’ Mundewa , na musikugolosa agaya gonikumutamilani ?
+42007024	choni		Awatumigwe na Yohana wakaleuke , hakakonga kulonga na amatewa muchanhya ya Yohana . “ Hamulawa kuluta kunyika kulanga choni ? ” Chibwade chikusingiswa ne imheho ?
+42007025	choni		Ninga hamuluta kulanga choni ? Munhu yafasigwe suke swamu ? Langa , awaya wakufala sisuke se ditunyo na kwikala kwa kubwedelela wowa musinyumba sa undewa .
+42007026	choni		Ninga hamuluta kwija langa choni ? Mugonesi ? Heye ! Nikumutamilani mukulu kusuma mugonesi .
+42007031a	choni		“ Nowaliganisa na choni awanhu wa cheleko chino ? 
+42007031b	choni		Nawo wakifana choni ?
+42007042	yehoki		Fowadugile kuliha hoyowalekelela wose . Hambiya yehoki yemwendesa yuya imukopeshaji ? ”
+42007049	nani		Kahi awaya wowile naye hamesa hawakonga kihwesa , “ Ayuno no nani yakulekelela hata uwihi ? ”
+42008025a	dyuwahi		Hoyowagamba , “ Dihuwi dyenu dyuwahi ? ” 
+42008025b	waki		Hawogoha , na kisina wekulonga chila munhu na miyagwe , ninga yuno munhu waki ? Iyakugombela hata imheho na meji , nafyo fikumuhulika !
+42008028	Choni		Foyamonile Yesu , hakatula chowe na kugwa kumwande yakwe , na kutowa lwangi , “ Choni choukuhananga unigolose , Yesu Mwana we Mulungu iyekuchanhyasi ? Nikukutasa unghanisambase . ”
+42008030	nani		“ Ninga Yesu hayamusa Disina dyako nani ? ” Hoyogamba , “ Itewa , ” kosoko mhepo itewa hasimwingila .
+42008045	Nani		Yesu hoyogamba , “ Nani yanikwafile ? ” Wose fowakanile Petulo hakagamba , “ Mundewa , amatewa wakusunguluta na kukuumbilila . ”
+42009009a	nani		Helode hoyagamba , “ I Yohana hanimudumula ditwi , ninga ayuno nani yene ifinhu fya itisi ? ” Hoyohananga kumona .
+42009009b	~		
+42009018	nani		Ugele foyejayowa yakutasa ye imwene , awefusa wakwe hawowa hamwedu naye , hakawosa , “ Awanhu wakunigamba niye nene nani ? ”
+42009020a	~		Hakamosa yakugamba , 
+42009020b	nani		“ Anyeye nanye mukugamba niye nene nani ? ” Petulo hakamubidula yakugamba , “ Agweye no Kilisito we Mulungu . ”
+42009025	chaki		Kosoko imunhu kopata chambusi chaki yanghapata ichilunga chose na kiyagilisa imwenecho ?
+42009041a	mpaka milaki		Yesu hoyobidula , “ Anye icheleko kichaka dihuwi , chagilile nokikala na nyeye , na kuwafinyilisa mpaka milaki ? Mwigale imwanago ahano . ”
+42009041b	~		
+42010025	nhani		Langa ! Mulamusi yumwedu hoyokwima kumugesa , yakugamba , “ Mwalimu , nigolose nhani niuhale uumi wa majuwa gose ? ”
+42010026a	choni		Hakamugamba , “ Iwandikigwa choni mwilagiso ? 
+42010026b	nhani		Ukusoma nhani ? ”
+42010029	noyehoki		Ninga imwene hakahananga kiyonesa muswamu , hakamusa Yesu , “ Na iyehabehi na niye noyehoki ? ”
+42010036a	~		“ Togola ! 
+42010036b	yehoki		Yehoki mudatu wawo , yeyonese fina kahabehi na yuya yatowigwe na wahiji ? ”
+42011008	~		Nikumutamilani , hata nghona nghekwinuka na kumwingha chochose kosoko ni mbwiyakwe , ninga kosoko yakugendelela kumutasa kokwinuka na kumwingha chochose choyakuhananga .
+42011011	yehoki		Hena Baba yehoki ukwenu imwanagwe yanghamutasa somba komwingha ijoka ?
+42011012	~		Ama yanghatasa ditagi komwingha chisuswe ?
+42011013	mingahi		Nghona nyeye gomwina uwihi mumanya kuwengha awana wenu finhu fiswamu , iBaba yenu wa kulanga kamanya mikangha mingahi kuwengha Muye Musunhile awaya awekumutasa ! ”
+42011018	nhani		Nghona Shetani yakigawa imwenecho , undewa wakwe wokwima nhani ? Kosoko mukugamba nikulafa simhepo kwa ludole lwa Belisebuli .
+42011019	lwani		Kahi nghona nikulafa simhepo kwa ludole lwa Belisebuli , togoleni awana wenu wakulafa kwa ludole lwani ? Kosoko yo , awene nowowoliganisa .
+42012014	Nani		Ninga hakamugamba , “ Gomunhu gwe ! Nani yanigolose niye kuwa mulamusi hegu mugawaji wenu ? ”
+42012017	nhani		Hakadoga mumoyo wakwe , ‘ Nogolosa nhani kosoko hechaka hanhu hokwika uludyo wangu . ’
+42012020	fyani		Ninga Imulungu hakamugamba , ‘ Agwe kubwalata ! Ichilo achi cha diyelo wekuhananga ichidoga chako ; na ifinhu foukiikile fokuwa fyani ? ’
+42012024	mingahi		Langeni amahowe gasikuhanda kahi kugola , gechaka chilindo kahi kano , na hata nheifo Mulungu yekugegutisa . Anyeye ibeka mikangha mingahi kusuma amadege !
+42012025	nani		No nani ukwenu kosoko ye chogoho kodaha kongesa majuwa ku wumi wakwe ?
+42012026	nhani		Ninga nghona musikudaha kugolosa chinhu chidodogi finacho , nhani mukiidasa kosoko ya gamonga ?
+42012042	nani		Na iMundewa hakagamba , “ No nani imutogomi musindamafu na iyena misungu , imwene Mundewa wakwe komwika muchanhya ya watogomi wakwe wose , yawenghe ifuka yawo kwa ugele wakwe ?
+42012049	nani		“ Nija kwasa moto muchilunga , nani hanyendaga uwe ufulusa kwaka .
+42012056	nhani		Anye we chimwefe ! Mumanya kutanga ichihanga che isi na ulanga ; ninga nhani musikudaha kutanga ugele wa hambiya ? ”
+42012057	nhani		“ Kahi nhani musikulamula muwecho amaswanu ?
+42013004	~		Mukugelegela awaya ikumi na munana awakomigwe kosoko hawogwiligwa na umunala akuya Siloamu , mukudoga fina waya hawowa wehile kusuma wose wekalage Yelusalemu ?
+42013007	nhani		Hakalonga ne imwimilisi wo umugunda , ‘ Langa , miyaka ino midatu nija kuhananga mamudyo mumusada awu , na sipatile chinhu , ung'enye ; nhani ukongha chaka isanga ? ’
+42013015	~		Kahi iMundewa yamubidula , “ Agwe wechimwefe ! Chila munhu mwijuwa dye Sabato nghekudohola inghambaku yakwe hegu dipunda dyakwe kulawa mwidewa na kuigala kulwanda ?
+42013018a	choni		Kahi hakagamba , “ Undewa wa kulanga ukifana choni ? 
+42013018b	choni		Nouliganisa na choni ?
+42013020	choni		Kahi keli hakagamba , “ Nouliganisa na choni undewa wa Mulungu ?
+42013025	~		Ugele wokwija imwenye nyumba kokwinuka na kuhinda umulango ; mokonga kwima kunje na kugong'onda hamulango , mukugamba , ‘ Mundewa , chikumhulile ! ’ Kowabidula , ‘ Simumanyile komukulawa . ’
+42014005	nani		Hakawagamba , “ No nani ukwenu yena dipunda hegu dikambaku idilagale mwikolongo , inghekudilafa chimwande mwijuwa dye Sabato ? ”
+42014028	nani		Kosoko no nani ukwenu , yanghahananga kujenga munala , nghakwikala kunghonga na kutala digelo , nghona yenafyo fya kudaha kumala umunala .
+42014031	waki		“ Kahi kwina Mundewa waki , yanghahananga kitowa nghondo , inghakwikala hasi kunghonga na kudoga fina kodaha na wanhu ifigulu ikumi kwitang'anyila na yuya yakwija kitowa na wanhu figulu makumi meli ?
+42014034	choni		“ Munyu ni muswanu , amba unghasusuka wogumigwa choni unogelekele ?
+42015004	waki		“ Munhu waki ukwenu yena singholo igana , yanghagililigwa na imwedu , nghakuleka asiya makumi ikenda na ikenda munyika na kuluta kuihananga iyagilile , mpaka yayone ?
+42015008	waki		“ Mwanamuke waki yena shilingi ikumi , yanghagilisa imwedu , nghakwasa taa na kushagila inyumba na kuhananga digoya mpaka yayone ?
+42015026	choni		Hakamwinanga yumwedu wa watumwa na kumusa , ‘ Ichikugendelela choni ? ’
+42015029	~		ninga imwana mukulu hakamubidula iBabakwe , ‘ Langa minyaka ayi mingi nikala kukutogomela milimo , na sinhati nileke kugolosa agaya gounilagise ; kahi nghwinati uninghe hata chipene , soko nyonele ne wambwiya sangu .
+42016002	Choni		Hakamwinanga na kumutamila , ‘ Choni chino chonikuhulika muchanhya yako ? ’ Lafa inhala yako yo kuhokela na kulafa , kosoko nghukudaha kahi kuwa kalani .
+42016003	nhani		Ayuya ikalani hakadoga , ‘ Notea nhani , kosoko iMundewa wangu yakunihoka ukalani ? Uludole lo kulima nichaka , na nikona chinyala kutasa .
+42016005	choni		“ Baho , hakawenanga awasinghokwa we Mundewa wakwe chila yumwedu , hoyamutamila ayuya we nghonga , ‘ Ukupigiligwa choni ne Mundewa wangu ? ’
+42016007	choni		Kahi hakalonga ne yumonga , ‘ Nagwe ukupigiligwa choni ? ’ Hakagamba , ‘ Makanda igana ge ngano . ’ Hakamugamba , ‘ Londa ikalatasi ye dideni tuluma makumi munana . ’
+42016011	nani		Ninga nghona musuwile wachawelu mu ugoli uwihile , no nani yewengha ugoli we chawelu ?
+42016012	nani		Na nghona musuwile wachawelu mufinhu fya wanhu wengi , no nani yewengha afiya ifyenu ?
+42017007	nani		“ No nani ukwenu yena imutogomi yekulima ama kudima ngholo , yakumugamba foyekuya kumugunda , ‘ Wija chimwande , ikala udiye chakudiya ? ’
+42017017	wowahe		Ninga Yesu hakagamba , “ Siwahonyile ikumi ? Awaya ikenda wowahe ?
+42017018	~		Nghoneke yungi yowile na kumutunya Mulungu ninga imugeni ayu ? ”
+42017020	milaki		Foyosigwe na Mafalisayo , “ Undewa we Mulungu ukwija milaki ? ” hakawabidula , “ Undewa we Mulungu usikwija ne fitangilo fikiyonesa .
+42017037	Hoki		Baho howomwusa , Hoki Mundewa ? Hakagamba , “ Howuwile umufimba noho sikitang'anyila sinumba . ”
+42018018	choni		Na mukulu yumonga wa Chiyahudi hakamusa Yesu , Mwalimu muswamu , nigolose choni uleke niuhokele uwumi wa majuwa gose ?
+42018019	Nhani		Yesu hakamugamba , “ Nhani ukuninanga muswamu ? Hechaka munhu muswamu ninga Mulungu yemwene . ”
+42018026	nani		Awaya wahulike hawagamba , “ Ninga no nani yedaha kuhona ? ”
+42018036	choni		Foyahulika ditewa dyalogage , hakawosa wowile habehi naye , “ Kwina choni ? ”
+42018041	choni		na foyejile habehi , hoyomusa , “ Ukuhananga nikugolosele choni ? ” Hakagamba , “ Mundewa , nikuhananga unigubule ameso gangu . ”
+42019007	~		Awanhu fowonile nheifo , hawang'ung'ulika , Kaluta kuwa mugeni wa munhu yena uwihi .
+42019023	nhani		Ninga nhani nghwaikile kubengi , na kunyija yangu hanuwa nikuihokela ne chambusi yakwe ? ’
+42019031	Nhani		Nghona munhu wowose yangawosa , ‘ Nhani mukudidohola ? Mugambeni Mundewa yekudihananga . ’ ”
+42019033	Nhani		Fowadidoholage dipunda imwenyecho hakawagamba , “ Nhani mukudohola dipunda ? ”
+42020002a	uhoki		na hawamugamba , “ Chitamile kwa udaha uhoki ukugolosa gano , 
+42020002b	nani		ama no nani yakwinghile udaha uno ? ”
+42020005a	~		Ninga awene hawalonga iwecho kwa wecho wakugamba , 
+42020005b	nhani		“ Ghona chinghagamba , haulawa kulanga , kochigamba , nhani musamuhuwile ?
+42020013	nhani		Kahi ayuya imwenye mugunda hakagamba , ‘ Notea nhani ? ’ Nomwigala imwanangu mwendigwa wangu ; nhagela womwogoha .
+42020015	Choni		Hawamulafa kunje yo mugunda we misabibu na kumukoma . “ Choni choyawagolosela imwenye mugunda awaya awemilisi ?
+42020017	nhani		Ninga Yesu hakawakumhulila meso na kugamba , “ Mukudigamba nhani ditulumo dino : ‘ Isumbi yowalemile wajengaji igaluka no sumbi ya hagati . ’
+42020023	~		Ninga hakatanga ichimwefe chawo , na hakawagamba ,
+42020024a	nani		“ Nyoneseni isendi , yacholigwe muno nani ? 
+42020024b	nani		Amatulumo gamutaja nani ? ” Hawagamba , “ Kaisali . ”
+42020033	wani		Togola ! Mwijuwa dya kwinuka wafile yakuwa muke wani ? Kosoko hakatoligwa na wose mufungate .
+42020041	nhani		Ninga hakawagamba , “ Ikudahika nhani wagambe fina Kilisito ni mwana wa Daudi ?
+42020044	nhani		iDaudi kamwinanga Masiya ; ninga kokuwa nhani mwanagwe ? ”
+42021007a	milaki		Hawamusa , “ Mwalimu , agano gokuwa milaki , 
+42021007b	choni		na chitangilo chokuwa choni ugele wa gano gehabehi kwija ? ”
+42022009	Hoki		Hawamugamba , “ Hoki houkuhananga chikugolosele ? ”
+42022011	hoki		mutamileni imwenye nyumba , ‘ Mwalimu yakusa chuwa hoki ichibuha che wageni , honidiya iPasaka hamwedu na wefusa wangu ? ’
+42022027	yehoki		Kosoko imukulu no yehoki , ayuya yakwikala mumesa , ama ayuya yakutenga chakudiya ? So yuya yakwikala mumesa ? Ninga aniye na mugati yenu fina yumwedu yakutogoma .
+42022046	Nhani		na hakawagamba , “ Nhani mukugona ? Inukeni mutase mungheje mukwingila mumagesa . ”
+42022064	nani		na hawamugubika chitambala muchihanga na kumusa , “ Tanga no nani yakutowile ? ”
+42022071	kahi		Nawo hawagamba , “ China nghwina kahi ya uhomelesi ungi ? Chihulika chiwecho kulawa mumulomo wakwe . ”
+42023022a	nhani		Kahi lwakadatu hoyolonga nawo , “ Nhani , 
+42023022b	choni		kagolosa choni chihile ? Sonile umwakwe mbuli yoyose ihile imwagile kufa ; kosoko yiyo nomujola na kumudohola . ”
+42023031	nhani		Nghona wagolose dino mwibiki dideke yokuwa nhani mwibiki dinyalile ? ”
+42024005	Nhani		na fowowile na chogoho na kukinya ameso gawo hasi , awanhu waya hawawagamba , “ Nhani mukumulangisa imumi kuwanhu wafile ?
+42024017	saki		Hakawagamba , “ Mbuli saki sino somukugenda mulonga ? ” Hawema , wakunyahala ifihanga fyawo .
+42024019	yaki		Kawagamba , “ Mbuli yaki ? ” Hawamugamba , “ Imbuli ikumuhusu Yesu wa Nasaleti , yowile mugonesi yena udaha mu go yakulonga na kugolosa kumwande ye Mulungu na wanhu ,
+42024025	~		Hakawagamba , “ Anye mu wanhu muwabwalasi ! Na wakugutu wa kuhuwila gose galongigwe na wagonesi ?
+42024038a	nhani		Na hakawagamba , “ Nhani mukiidasika , 
+42024038b	nani		na nhani mukiyusa mumimoyo yenu ?
+43001019	nani		Na uno no uhomelesi wa Yohana , ugele Wayahudi fowatumile awatambiki na Walawi kulawa Yelusalemu wamuse , “ Agweye no nani ? ”
+43001021	nani		Howomusa , “ Aho gwegwe nani gweye ? Aho gwe no Eliya ? Hoyobidula Siniye ka . Agweye no yuya imugonesi ? Hoyobidula , ka . ”
+43001022a	nani		Hawamusa , “ Aho gwegwe nani ? 
+43001022b	ukugambaki		Chitamile uleke chiwabidule awaya awachitumile ukugambaki muchanhya yako ? ”
+43001025	nhani		Hawamusa , “ Aho nhani ukubatisa , nghonaga nghu Kilisito , kahi nghu Eliya , nghwi mugonesi ? ”
+43001038a	choni		Yesu kabiduka , kawona wakumwandamila , kawagamba , “ Mukuhananga choni ? ” Homugamba , 
+43001038b	hoki		“ Labi ” ( nong'amba Mwalimu ) “ Ukwikala hoki ? ”
+43001046	~		Natanaeli hoyomugamba , “ Chodaha kulawa chinhu chochose chiswanu Nasaleti ? ” Filipo hoyamugamba , “ Wije ulange . ”
+43001048	nhani		Nataneli kagamba , “ Kunimanya nhani ? ” Yesu kamubidula , “ Ugele Filipo nghenati yakwinange fowekale hasi yo musada , hanikona . ”
+43002004	choni		Yesu hoyogamba , “ Go mwanamuke china choni aniye na gweye ? Ichigele changu chisinati chije . ”
+43002018a	~		Awayahudi howomugamba ; 
+43002018b	chaki		Chitangilo chaki cho ukuchonesa kwa kugolosa nhafi ?
+43003004	nhani		Nikodemo yamugamba , “ I munhu yakudaha kwelekigwa nhani yanghowa musehe ? Yakudaha kwingila kahi munda mwe ing'ina na kwelekigwa ? ”
+43003009	nhani		Nikodemo hakamugamba , “ Yodahika nhani kuwa nheifo ? ”
+43003012	nhani		Nghonaga nimutamileni simbuli sa muisi nanye musikuhuwila , mohuwila nhani ninghamutamilani simbuli si kulanga .
+43004009	Yanhani		Imwanamuke Musamalia yamugamba , “ Yanhani agweye go Muyahudi , utase ameji ukwangu , ni mwanamuke we Chisamalia ? Kosoko Wayahudi wasikuhanga na Wasamalia . ”
+43004011	ukupatahi		Imwanamuke hoyomugamba , “ Mukulu , kwechaka chinhu cha kunegela , ne chisima ni chitali , ukupatahi ago ameji ga uwumi ?
+43004027a	choni		Chimwande awefusa wakwe howokwija . Hawakisina kosoko yendeyosimulila ne mwanamuke , ninga hechaka yamusile Ukuhananga choni ? 
+43004027b	nhani		Nhani ukulonga naye ?
+43005012	nani		Howomusa , Imunhu yakugambile ukitwike disasi dyako ulute nani ?
+43005044	nhani		Mohuwila nhani anyeye mukihokelesa ditunyo muwecho kwa wecho , ninga musikuhananga ditunyo dikulawa kwe Mulungu ?
+43005047	nhani		Ninga ghonanga musikuhuwila goyatulume , mohuwila nhani sonikulonga ?
+43006005	hoki		Yesu hakenula meso hakalanga ako nako , hakona itewa dya wanhu wakumwijila , hakamusa Filipo , Chikudaha kugula hoki chadiya chakuwegusa awanhu wose wano ?
+43006009	~		“ Hena mwana bahano yene mikate mishano ye shaili na fisomba fili . Ninga chawelu fisikudaha kwigusa awanhu wose wano . ”
+43006025	milaki		Awanhu wakamone Yesu ulwandi lwa keli lwa bahali , hawamugamba , “ Mwalimu kwija milaki kuno ? ”
+43006028	choni		Kosoko iyo wejawamusa , “ Chitende choni noho chigolose imilimo ye Mulungu yoyakuhananga chigolose ? ”
+43006030a	~		Yesu kawagamba , “ Nikuwafamilani chawelu . iMusa choyamwinghileni usowile mukate kulawa kulanga ; 
+43006030b	~		iBabangu noyakumwinghani umukate we chawelu kulawa kulanga .
+43006042	nhani		Howogamba , “ Ayuno si Yesu , mwana wa Yusufu , iBabakwe ne ing'ina si chiwamanya . Yakudaha nhani kugamba , ‘ Hambiya nihulumuka kulawa kulanga ? ’ ”
+43006052	nhani		Awayahudi , baho , wejawakonga kuwanga awenyecho , wakugamba , “ I munhu yuno kodaha nhani kuchingha aseye umutufi wakwe chidiye ? ”
+43006060	nani		Wengi wa wefusa wakwe , wakahulike nheifo , howogamba , “ Aino mbuli nghugutu nani yakwenda yaihulike ? ”
+43006062	nhani		Togoleni yokuwa nhani munghamona Mwana we munhu yakukwila koyowile ugele nghenati yeje ?
+43006068	kwani		Simoni Petulo hakamubidula , “ Mukulu , chilute kwani ? Agweye kwina simbuli sa uwumi wa majuwa gose ;
+43007011	Kowahi		Awayahudi wende womuhananga hasikukuu , wakugamba , “ Kowahi ? ”
+43007015	Yanhani		Awayahudi howokisina , wakugamba , “ Yanhani , imunhu yuno kena umanyi , naye nghapatile mafuso ? ”
+43007019	Nhani		iMusa nghamwinghileni Malagiso ? Hata nheifo hechaka yakugakola . Nhani mukuhananga kunikoma ?
+43007020	Nani		Awanhu hawamubidula , Kwina ipepo ! Nani yakuhananga kuukoma ?
+43007023	~		Hona dijuwa dye sabato imunhu yakwigaligwa kikumbi , uleke dilagiso dya Musa dinghabenigwe , musuha na niye kosoko yo mumuhonya munhu umutufi wakwe wose kuwa mumi mudijuwa dye sabato ?
+43007035	hoki		Imunhu yuno yakula hoki uko kochisikudaha kumona ? Yakuhananga yalute kumugawanyiko wa Wayunani mugatigati ya Wayunani na kuwafusa Wayunani ?
+43007036	yaki		Kena mana yaki ma yakugamba , “ Monihananga ninga musinyona , na , Honyuwile niye musikudaha kwija ? ”
+43007041	~		Wamonga wagamba , “ Ayuno no Kilisito ! ” Ninga wamonga wakugamba , “ iKilisito yakulawa Galilaya ? ”
+43007045	Nhani		Awasilikali howokuya kuwakulu wa makuhani na Mafalisayo awawagambile , Nhani musijile naye ?
+43007048	~		Kwina wowose mu filongosi na Mafalisayo yakumuhuwila ?
+43007051	~		“ Togoleni , dilagiso dyetu , dikuchituma chimulamule munhu ugele chisinati chimuhulike na kifusa goni goyakugosa ? ”
+43008005	ukugambaki		Mumalagiso Musa kachigamba munhu wa fina yuno yatowigwe mawe , ukugambaki agweye muchanhya yakwe ?
+43008010	wahoki		Yesu yenula meso yamugamba , “ Mwanamuke , wahoki , hachaka yakulamule ? ”
+43008019	~		Kameyi hawamugamba , “ Aniye musinimanyile na Baba musimumanyile , nanga mwanimanyile niye , hamuwa mukumumanya ne Baba naye . ”
+43008025a	nani		Howomugamba , “ Agwe no nani ? ” 
+43008025b	~		Yesu hoyowagamba , “ Nheifia fonimutamileni kulawa kunghonga . ”
+43008033	Nhani		Hawamubidula , Aseye cha cheleko cha Ibulahimu , chisinati chuwe watumwa kwa munhu wowose . Ukagamba , “ Nhani gweye fina mukwende mukuwa walekeleligwe ? ”
+43008043	Nhani		Nhani musikumanya sonikulonga ? Kosoko musikudaha kutegelesa na kuhokela imbuli yangu .
+43008046a	nani		No nani muchiligati yenu yekudaha konesa fina ni wihi ? 
+43008046b	nhani		Hona nikulonga ichawelu nhani musikunihuwila ?
+43008053	nani		Agweye kwa mukulu kusuma iBaba yetu Ibulahimu , iyafa ? Na wagonesi wafile ! Ukugamba gweye fina no nani ? ”
+43008057	~		Awayahudi hawamugamba , “ Nghwinati ufike minyaka makumi mashano , kumona Ibulahimu ? ”
+43009002	nani		Awefusa wakwe howomusa , Mwalimu , yatendile uwihi nani , imunhu yuno hegu awamweleke , ilekile yakwelekigwa mudula ?
+43009010	nhani		Hawamusa , “ Ameso gako gakumukakumuka nhani ? ”
+43009012	Kahoki		Howomugamba , “ Kahoki Hoyogamba Ani simanyile . ”
+43009016	nhani		Wamonga wa Mafalisayo hawagamba , “ I munhu yuno nghalawile kwa Mulungu , kosoko nghakolile Isabato . ” Ninga wamonga hawagamba , “ Ikudahika nhani imunhu yakugolosa wihi yagolose ijumo fina dino ? ” Hokuwa mutemanuko mugati yawo .
+43009017	Ukugambaki		Baho Amafalisayo hawamusa kahi imunhu yuya , “ Ukugambaki kosoko kakuhonya udula ? ” Ni mugonesi .
+43009019	Yanhani		na kuwosa , Ayuno ni mwana wenu , womukugamba hakelekigwa mudula ? Yanhani kuwa yakona hambiya ?
+43009026a	nhani		Hawamugamba , “ Hakakutendela nhani Hakagubula 
+43009026b	nhani		nhani ameso gako ? ”
+43009027	Nhani		Hoyowabidula , “ Nifulusa kuwatamilani , musendile kutegelesa , Nhani mukuhananga kuhulika kahi ? Anye nanyi mukuhananga kuwa wefusa wakwe ? ”
+43009034	~		Howomubidula , “ Agwe kwelekigwa muwihi muhala , ukudaha kuchifusa seye ? ” Howomulafa kunje .
+43009036	nani		Yabidula , “ Naye no nani , Mukulu , uleke nimuhuwile ? ”
+43010020	waki		Matewa hawagamba , “ Kena igini , na kena chilalu ; waki womukumutegelesa . ”
+43010021	~		Wamonga hawagamba , “ Asino siyo nonga sa munhu yena digini , digini dikudaha kugubula meso gemudula ? ”
+43010024	mpaka milaki		Awayahudi hawamusunguluta na kumugamba , “ Kogendelela kuchidasa mpaka milaki ? Nghonaga agweye no ni Kilisito chitamile unghachifisefise . ”
+43010032	ihoki		Yesu hoyowabidula , “ Nimonesani milimo mingi miswanu kulawa kwa Baba ; kosoko ya ihoki mu yiyo yomukunitowela mawe ? ”
+43010036	~		Mukumugamba , ‘ Ayuya imwene iBaba kamusagula na kumulafa na kumutuma kuchilunga . Agweye ukutofula kosoko nigambile Aniye no ni Mwana we Mulungu ? ’
+43011034	hoki		Hakawagamba , “ Mumwika hoki ? ” Hawamugamba , “ Mundewa wije ulange . ”
+43011047	choni		Baho makuhani wakulu na Mafalisayo hawakikonghola na kitang'anyila , hawagamba , “ Chochikugolosa choni ? Yakugolosa majumo mengi !
+43011056	nhani		Wenda womuhananga Yesu na wakiyusa awecho kwa wecho ugele wemile mudihekalu , “ Mukona nhani ? Nghokwija ku sikukuu ? ”
+43012005	Nhani		“ Nhani amafuta gano gasambasigwe kwa dinali magana madatu na kuwegha awakiwa ? ”
+43012027	nigambeki		“ Hambiya ichidoga changu chikwidasika nani nigambeki ? ‘ Baba , unihonye ne chipisi chino ? ’ Hata , ni kosoko iino nija kuchipisi chino .
+43012034a	nhani		Amatewa weja wamubidula kugamba , “ Chihulika mumalagiso fina Kilisito yakwikala majuwa gose . Kodaha nhani kugamba Mwana we munhu yakwenda yenuligwe kuchanhya ? 
+43012034b	nani		Ayo Mwana we munhu no nani ? ”
+43012038a	nani		hayuwa uleke imbuli yalongigwe ne mugonesi Isaya imemelesigwe : “ Mundewa , nani yahuwile imbuli yetu na kwa 
+43012038b	chinani		chinani ugubuligwa umukono we Mundewa ? ”
+43013025	yehoki		Iyegamile muchifa cha Yesu hoyomugamba , “ Mundewa , no yehoki ? ”
+43013036	ukwijahe		Simoni Petulo hoyomugamba , “ Mundewa , ukwijahe ? ” Yesu hoyomubidula , “ Konikuluta nghukudaha kunyandamila hambiya ; ninga ukudaha kunyandamila hanyuma . ”
+43013037	Nhani		Petulo hoyomugamba , “ Nhani nileke kukwandamila hambiya ? Nikuulafa uumi wangu kosoko yako . ”
+43014002	~		Munyumba ya Baba mwina fibuha fingi ; nanga si nheifo hanuwa nikumutamilani fina nikamwikilani ukalo ?
+43014005	nhani		Tomasi hoyomugamba , “ Mundewa chisimanyile koukuluta choimanya nhani injila ? ”
+43014009	nhani		Yesu hoyomugamba , “ Nikala nagwe majuwa gose gano , ninga agwe hunimanyile Filipo ? Iyanyonile niye kamona ne Baba ; ukudaha nhani kugamba , chonese Baba
+43014022	yanhani		Yuda , ( si Isikalioti ) hoyomugamba , “ Mundewa yanhani fina ukuhananga kigubula ukwetu ninga si kuchilunga ? ”
+43016005	ukwijahe		Ninga hambiya nikuluta ukwakwe iyanitumile ; hechaka munhu yekunyusa , ukwijahe ?
+43016017	Choni		Wefusa wakwe wamonga hawakiyusa , “ Choni chichi cho yakulonga ukwetu , ‘ Chipisi chiguhi , monyona ; na kosoko nikuluta kwa Baba ? ’
+43016018	choni		Hawagamba , ‘ Yakulonga choni foyakugamba , chipisi chiguhi ? ’ Chisikumanya choyakulonga . ”
+43018004	nani		Yesu , yakamanye gose agowile kumwande yakwe , yekilafanisa kumwande ya wose , na kuwagamba , “ Mukumulangisa nani ?
+43018007	nani		Kahi hakawosa , “ Mukumuhananga nani ? ” Hakagamba , “ Yesu wa Nasaleti . ”
+43018011	~		Yesu hakamugamba Petulo , “ Yuwisa dipanga dyako muyala yakwe ; nileke kunywe ichikombe iBaba choyanyinghile ? ”
+43018021	Nhani		Nhani ukunyusa niye ? Wose awano , awanihulike , hanilonga nawo choni ; wamanya hanilonga choni . ”
+43018023	choni		Yesu , hoyomugamba , “ Hona nilongile fibi , homelela imbuli ihile ; ninga hona nilongile fiswanu , choni cho ukunitowela ? ”
+43018029	yoni		Pilato hakalawa kunje kowowile , na kuwagamba , “ Mwina mbuli yoni yomukumusongesa imunhu yuno ? ”
+43018035	choni		Pilato yabidula , “ Ani na Muyahudi ? Ditaifa dyako gomwecho na makuhani wakulu nowakwigale ukwangu ; kugolosa choni ? ”
+43018038	choni		Pilato yamugamba , “ I chawelu no choni ? ” Yakalonge nheifo , hoyoluta kunje ku Wayahudi kahi , na kuwagamba , “ Sikona wihi mwi munhu yuno .
+43019009	hoki		hakengila kahi ku Plaitolia na kumugamba Yesu , “ Kulawa hoki gweye ? ” Ninga Yesu nghamubidule .
+43019015	~		Hawajoja , Muleuse , muleuse , musambase ! Pilato hakawagamba , “ Nimutungike mumusalaba iMundewa wenu ? ” Watambiki wakulu howobidula , “ Chechaka Mundewa ninga Kaisali . ”
+43020013	nhani		Hawamugamba , “ Gomwanamuke nhani ukulila ? ” Naye hakawagamba ; Kosoko wamuleusa Mundewa wangu , simanyile wamwika hoki .
+43020015a	choni		Yesu yamugamba , “ Gomwanamuke ukulilila choni ? 
+43020015b	nani		Ukumuhananga nani ? ” Hakamanya nhagela nomwimilisi wa busitani , yamugamba , “ Mukulu , honaga umuleuse nitamile koumwikile , nikudaha kumulonda na kumuleusa . ”
+43021012	nani		Yesu yawagamba , “ Mwije mudiye chisinhuka nguluule . ” Hechaka kahi mwifusa wowose yagesile kumusa No nani gweye ? Hawamanya no Mundewa .
+43021020	nani		Petulo hoyobidula hoyomona imwifusa yumonga yakuwandamila , ayuya iyendigwe na Yesu , iyegamile muchifa chakwe ugele we chakudiya na yagambile , Mundewa no nani yakukusongesa ?
+43021021	yanhani		Petulo yakamone hoyomulonga Yesu Mundewa yanhani imunhu yuno naye ?
+43021022	inachoni		Yesu yamugamba , “ Nghona nikwenda yekale mpaka ugele wonikuya inachoni ukwako ? Nyandamile ! ”
+43021023	choni		Inonga hayenela kuwandugu fina imwifusa yuno nghakufa , ninga Yesu nghalongile nheifo ukwakwe fina nghakufa , ninga , Honaga nikwenda ayuno yakale mpaka nuye ina choni ukwako ?
+44001011	nhani		howogamba , “ Anye Muwagalilaya , nhani mwimile ho mukulanga kuchanhya ? Yesu yuno , iyalondigwe kulawa ukwenu kuluta kulanga , yakayokwija nheifo fomumonile yakuluta kulanga . ”
+44002008	nhani		Ya nhani , hambiya , chila yumwedu wetu yakuwahulika wakulonga kunonga yakwe imwecho ?
+44002012	yoni		Wose howokisina na kogoha , ukuno wakiyusa , “ Ayi nayo yoni ? ”
+44002037	nhani		Wakahulike simbuli siso howotamigwa mumoyo yawo , howomusa Petulo na waya awatumigwa wamonga , “ Aho chitende nhani wandugu setu ? ”
+44003012a	nhani		Kamei Petulo yakone nheifo hoyowabidula awanhu waya , Anyeye Waislael , nhani mukuching'olela meso aseye , 
+44003012b	~		kifana aseye chimugolosa ayuno yagende kwa udaha wetu seye ?
+44004007a	~		
+44004007b	~		Kamei hawaweka hagati yawo , 
+44004007c	lwaki		na kuwosahowowosa Kwa ludole lwaki ama kwa isina dyake mugolosa dino ?
+44004016	nhani		Howokiyusa Chitende nhani na awanhu wano ? Kosoko ijumo ikulu digolosigwa kwa njila yawo na dimanyikana na wanhu wose wa Yelusalemu , chisikudaha kuikana imbuli ino .
+44004025a	nhani		nagwe hakulonga kwa mulomo we mutogomi wako Baba yetu Daudi , kwa udaha wa Muhe Musunhile : ‘ Nhani awamembe wakugolosa ukali 
+44004025b	~		Na makabila gakudoga hechaka chinhu ?
+44005003	nhani		Petulo hogamba , “ Anania nhani Ishetani yamemese umoyo wako , kumutamila udasi Muhe Musunhile ? Na kufisa isehemu ya imali ilawile mumugunda ?
+44005004	nhani		Fowowile ukwako usowile wako ? Na chikamale kuguligwa imali yakwe isowile mu udaha wako ? Hayuwa yuwa nhani noho wike imbuli iino muchidoga chako ? Nghumudanhilise munhu , ninga Mulungu . ”
+44005009	nhani		Hayuwa nhani mulagane kumugesa Muhe Musunhile we Mundewa ? Langa , imugulu yawo wamusikile imugosi wako yuwa hamulango , nawo wakwenda wakulonde agwe nagwe .
+44007026	nhani		“ Nhosiku yakwe howona Waislaeli weli wakitowa , hoyogesa kuwapatanisha yakugamba , ‘ Yoloko anye mwa ndugu , nhani mukulemana muwecho kwa wecho ? ’
+44007027	Nani		Ayuya yamufowage miyagwe hoyomukundugisa Musa kughanda , yakugamba : Nani yakwikile gweye kuwa chilongosi na mulamusi wetu ?
+44007035	Nani		Ayuno iMusa no yuya awanhu wa Isilaelii wowamulemile fowagambile : ‘ Nani yakwikile gweye uwe chilongosi wetu na mulamusi wetu ? ’ Kwa soko ya yuya imalaika yamulawanisile muchihulo chendechikwaka moto , iMulungu hakumutuma iMusa yuyo yowe chilongosi mwihula kwa njila ya yuya malaika yamulawanisile muchisinghu chendechikwaka moto . .
+44007049a	inhani		iMundewa yakugamba : ‘ Ulanga no digoda dyangu dya ditunyo , na chilunga no digoda dyangu dya kwichila migulu . Ni nyumba inhani yomukudaha kunijengela ? 
+44007049b	hoki		Na hoki honikudaha kubwihila ?
+44007052	~		Togoleni , kwina mugonesi wowose imwene awaBabasenu wasamudumangise ? Hawawakoma awaya awatumigwe ne Mulungu weje watamile kwija kwakwe ayuya imunhu we chawelu . Hambiya anyeye homumusongesa , homumukoma .
+44008031	nhani		Imunhu yuyo hoyobidula , Nodaha kutanga nhani bila munhu kunilongosa ? Baho hoyomwinanga Filipo yakwile mwigali dyakwe , yekale naye .
+44008033	~		Hakagumigwa chinyala na koneligwa . Hachaka yakudaha kulonga muchanhya ye cheleko chakwe , kosoko uumi wakwe ulewusigwa muchilunga . Imwene naye nghalafile dijwi dyakwe hata chidodogi .
+44008034	yani		Ayo Mwisiyopiya hoyomugamba Filipo , Nitamile , iMugonesi yuno yalonga kosoko yani ? Yakulonga kosoko yakwe imwecho ama kosoko ya munhu yungi ?
+44008036	~		Fowowile wakugendelela ne inhambo , howofika ahanhu hena meji , kamei imukulu yuya hoyogamba , “ Ahanhu hano hena meji mengi : Togola , kwina chochose ichikudaha kunemesa nighabatisigwe ? ”
+44009004	Nhani		Hoyokugwa hasi na kuhulika dijwi dikumugamba Sauli ; Sauli ! Nhani ukunyidasa ?
+44009005	nani		Imwene naye Sauli hoyokusa Agwe no nani , Mundewa ? Dijwi diya hodibidula , Aniye no Yesu imwene agweye ukunyidasa !
+44009006	~		Ninga hambiya Inuka , wingile mukaya , na uko ukwende utamiligwe dyokugolosa .
+44010004	choni		Kolinelio hoyomukumhulila meso yuyo malaika kwa chogoho , hoyomugamba , “ Kwina choni Mundewa ? ” Ayo imalaika hoyomugamba , “ Amawombi hamwedu na kulafa kwako kuwatasa wakiwa kufika kuchanhya kuwa ngelegesi kwe Mulungu .
+44010021	Nhani		Kamei , Petulo hoyodulika hasi , hoyowagamba awanhu wawo , Aniye nowomukuhanga . Nhani mwijile ?
+44010029	nhani		Kosoko iyo , fomuninange nija , bila kulema . Hambiya , nimusani , Nhani muninange ? ”
+44010047	~		“ Awanhu wano wahokela Muhe Musunhile fina seye chiwecho fochihokele . Togoleni kwina wowose yakudaha kulemesa awanhu wano wanghabatisigwe kwa meji ? ”
+44011017a	nani		Hambiya , honaga Mulungu yawenghile wanhu wa wamembe gamonga ichipawa chichiya choyachinghile seye fochamuhuwile Mundewa Yesu Kilisito , togola aniye no nani mpaka nidahe kumupinga Mulungu ?
+44011017b	~		
+44012018	~		Ikafike nhousikusiku hahowa na lutemanuko mugati ya awasilikali kosoko ye imbuli yagoloseke ya Petulo .
+44013025	nani		Yohana foyamalagisage imbuli yakwe hakawagamba wanhu , Mukudoga aniye no nani ? Aniye ni yuya yomukulangilila . Imwene yakwija hanyuma yangu na aniye sinogelwe hata kudohola sisigi se filwatu fyakwe .
+44014015	nhani		“ Wandugusetu nhani mukutenda nheifo ? Ase nase cha wanhu fina nyeye . Na chabahano kuwahubili imbuli iswanu , musileke asino si sanamu muhala , mukamubidukile Mulungu imumi , Mulungu yowumbile ulanga ne iisi , ibahali na fyose fuwile umo .
+44015010	nhani		Hambiya , nhani , kumugesa Mulungu kwa kuwatwika awo wahuwile musigo wene hata wababu setu , kahi aseye chilemeligwa kuwinula ?
+44016030	nhani		Kamei hoyowalongosa kunje , hoyowosa , Wakulu nitende nhani noho nihone ?
+44017018	choni		Wamonga awandamilage falisafa ya Epikuwo na Sitoiki howowanga naye . Wamonga howogamba , “ Yakuhananga kulonga choni ayuno chilongelonge ? Kosoko Paulo yendeyohubili muchanya ya Yesu na kwinuligwa kulawa mudifa , wamonga howogamba Ikonela fina yakuhubili muchanya ya milungu ya chigeni . ”
+44017019	~		Kwa nheifo howomulonda Paulo , howomwigala Aleopago , howogamba Chikuhananga uchitamile imbuli ino nyisha yowende ulonga .
+44019003	yaki		Naye hoyogamba , “ Hambiya hamupata ubatiso wa namuna yaki ? Howobidula Ubatiso wa Yohana . ”
+44019015	nani		Ninga dipepo dihile hodiwabidula , Nimumanya Yesu , nimumanya naye Paulo , ninga anye mwa cha nani ?
+44019035	~		Hanyuma yakwe kalani we ikaya hoyowanyamasa , hoyowagamba , “ Wakaya wa Efeso , ” chila munhu kamanya fina ikaya ino ya Efeso ni mwimilise we nyumba ya mulungu Alitemi na mwimilisi wa iya isanamu yalagale kulawa kulanga .
+44021013a	nhani		Ninga imwene hoyobidula , Mukuhanga kutenda nhani ? Natayali si kugumigwa kugati du akuya Yelusalemu , ninga hata kufa kosoko ye Mundewa Yesu .
+44021013b	~		
+44021022	nhani		Hambiya , yokuwa nhani ? Hachaka chifiso wakuhulika fina kufulusa kufika hano .
+44021033a	waki		Imukulu wa dijeshi hoyomulutila Paulo na kumukola na kulagisa yohigwe minyolo mili . Kamei hoyokusa , Ni munhu waki yuno , 
+44021033b	choni		na katenda choni ?
+44022007	nhani		Honikugwa hasi , honihulika ijwi dikugamba , ‘ Sauli , Sauli , nhani ukunyidasa ? ’
+44022008	nani		Honibidula , ‘ Gwegwe nani Mundewa ? ’ Hoyonigamba , ‘ Aniye no ni Yesu wa Nasaleti , woukwidasa . ’
+44022010	nhani		Hoyogamba , ‘ Nitende nhani Mundewa ? ’ iMundewa hoyonigamba , ‘ Inuka ulute Damesiki na uko ukweda utamiligwe gose agekigwe kosoko yako ugagolose . ’
+44022016	choni		Hambiya ukugoja choni ? Inuka ubatisigwe , usunhwe uwihi wako kwa kwinanga disina dyakwe . ’ ”
+44022026	choni		Ugele ayuya imukulu we ichitewa cha wasilikali wose , hoyomugamba , “ Mukuhananga mugolose choni ? Kosoko imunhu yuno ni Mulumi . ”
+44023003	~		Kamei Paulo hoyomugamba , “ Mulungu imwecho yakwenda yakutowe kofi agweye goufanile lukasi lubakigwe swakaya ! Ukudahani kwikala baho uniliganise chishelia na gweye gomwecho ubana ishelia kwa kugamba nifowigwe ? ”
+44023009	~		Ichowe hochikongeseka wamonga wa walimu we shelia we chitewa cha Mafalisayo howokwima na kulafa malalamiko gawo kwa ludole . “ Chisikona chochose chihile mwi munhu yuno ; ikudahika nhagela Muhe au malaika kalonga naye ? ”
+44023019	choni		Imukulu wa dijeshi homukola mukono imwanike yuya hoyoluta naye hanghanda , hoyomusa , Kwina choni chokunitamila ?
+44026008	Nhani		Mundewa , Nhani nyeye mukona isikudahika kwi Mulungu kwinula wanhu wafile ?
+44026014	Nhani		Chose hochikugwa hasi , nani honihulika ijwi dikulonga nani kwa Chiebulaniya , ‘ Sauli , Sauli ! Nhani kunibulaga ? Ukibulaga chaka kifana kutowa mundome ichuma chisongoke . ’ ”
+44026015	nani		Honigamba , “ Gwegwe nani Mundewa ? ” Naye Mundewa hoyobidula , “ Aniye no Yesu imwene agweye ukubulaga .
+45002017	~		Ninga nghonaga ukiinanga Muyahudi na ukuhuwila dilagiso ukiyona kosoko ya Mulungu
+45002021	~		agweye , goukufusa awamonga nghudaha kifusa gomwecho ? Ukuhubili uhiji sambi gomwecho kahi ukuhija ?
+45002028	~		Kosoko iMuyahudi we chawelu nghakiyonesa kwa kunje , ama dikumbi dya chawelu siyo chinhu cha kunje ama cha chimutufi .
+45003001a	choni		Kahi , iMuyahudi kena choni chongeseke 
+45003001b	chihoki		ama ichambusi che dikumbi no chihoki ?
+45003003	Nhani		Nhani ghona wamonga wasowile wanhu wakuhuwilika togoleni nonghamba kuleke kuhuwilika kwawo no kuleka kuhuwilika kwe Mulungu ?
+45003005	chigambeki		Ninga inghowa wihi wetu unghagoloseka konesa ichawelu ye Mulungu , chigambeki kogamba Mulungu ni mwihi yakwigala nyono muchanhya yetu ? ( Nikulonga chimutufi . )
+45003006	nhani		Gwe putu ! Aho mbiya kodaha nhani Mulungu kuchiliganisa ichilunga ?
+45003007a	~		Ninga inghowa kulokela udasi wangu ichawelu ye Mulungu yohigwa mwitunyo dyakwe , 
+45003007b	nhani		nhani nigendelele kuliganiswa kuwa mwihi ?
+45003008	nhani		Na nhani chinghalonge ( kifana wamonga fowakuchisigila kwa kulonga gaya gochikulonga ) . “ Chigolose gehile uleke maswanu geje ? ” Sigafu ye uliganiso wao ikuwagojela !
+45003009	Chigambeki		Chigambeki ? Aseye Chiwayahudi chawaswanusi ? Gwe putu ! Kosoko nifulusa kuwalamula wose Awayahudi na Wayunani fina wowa hasi ya ludole lwe wihi ;
+45003027a	ikulawahi		Kahi inyiyona yetu ikulawahi ? Yahechaka . 
+45003027b	dihoki		Kwa dilagiso dihoki ? 
+45003027c	ihoki		Kwa milimo ihoki ? Ninga putu ! Ninga kwa dilagiso dyuwile mwihuwi .
+45004001	choni		Chilonge choni , kosoko ya Ibulahim iBaba yetu kwa chimutufi ?
+45004003	gakugambaki		Kosoko matulumo gakugambaki ? “ Ibulahimu hakamuhuwila Mulungu , na haitaligwa kwe mwene fina Muchawelu . ”
+45004010	finhani		Hakataliligwa finhani ? Hayuwa foyowa yenghati yafinigwe ? Hayowile ugele yafinigwe , ninga foyowile yekali .
+45005010	~		Kosoko inghowa fochowile wanghondo hachilamuliligwa ne Mulungu kulokela difa dye Mwanagwe , nheifo chawelu lugano , kulamuliligwa , na kuhonyigwa kwa wumi wakwe .
+45005021	~		uleke kifana , wihi foukulongosa mudifa , nheifo dihewa nadyo dilongose mukutaliligwa chawelu , kwingila kuwumi wa majuwa gose kulokela Yesu Kilisito Mundewa wetu .
+45006001	chigambeki		Togoleni chigambeki ? Chigendelele muwihi uleke dihewa dyongeseke ?
+45006002	nhani		Gwe putu ! Yokuwa nhani aseye chufile muwihi kahi chuwe womi muwihi ?
+45006015	~		Togoleni ! Nong'amba chigolose wihi kosoko hachuwile hasi ye dilagiso , ninga hasi ye dihewa ? Gwe putu !
+45006021	chaki		Hamupata chotoko chaki majuwa gaya kwa kugolosa mbuli sa chinyala ? Indumo ya mbuli aso ni difa .
+45007007	chigambeki		Hambiya chigambeki kahi ? Togoleni idilagiso digaluka wihi ? Du hata ! Ninga woile si dilagiso sowile nikuumanya wihi , hata sowile nikumanya dilagiso dikugamba , “ unghasulumile chinhu che miyago . ”
+45007024	Nani		Usungu wangu mukiwa nikufilaki niye ! Nani yakwenda yanihonye kulawa mumutufi awu we difa ?
+45008024	nani		Kosoko kwa ihuwilo hachihonyigwa . Hambiya ihuwiso idikoneka si ihuwiso kahi , kosoko nani yakugendelele kuhuwila ichinhu chifuluse kwija ?
+45008031a	chigambeki		Togoleni chigambeki musimbuli sino ? 
+45008031b	nani		iMulungu yanghowa ulwandi lwetu , nani yokuwa muchanhya yetu ?
+45008032	~		Imwene inghamulekelele Mwanagwe , ninga hakamulafa kosoko yetu , togoleni nghochinga chila chochikuhanaga ?
+45008033	Nani		Nani yakwenda yawalahe awasaguligwe ne Mulungu ? iMulungu no ya watalilile chawelu .
+45008034	Nani		Nani yakwenda yawaliganise ? Si Yesu Kilisito yafile , heye , imwene yenuligwe muchilalo , yowile mukono we kulume we Mulungu , iyakuchitasila
+45008035	Nani		Nani yakwenda yachibagule seye no wendo wa Kilisito ? Wokuwa ukuguguti , ama tabu , hegu magayo , ama njala , au sakasa , ukomikomi , hegu ipanga ?
+45009014	chogambaki		Togoleni hambiya chogambaki ? Mulungu kena kwendelela ? Du hata !
+45009019a	nhani		Wamonga wonigamba , “ halika no nheifo nhani ho yekali yakulonga muchanhya ya wihi wa wanhu ? 
+45009019b	nonani		Nonani yodaha kulemesa nyenda yakwe ? ”
+45009020a	kwanani		Ninga agweye kwanani ukudaha kuwanga ne Mulungu ? 
+45009020b	~		Togoleni Mumbi kodaha kuwanga ne ichumbo ? Chumbo chigambe , 
+45009020c	nhani		“ Nhani gweye unyumbile kifana nhafi ? ”
+45009021	~		Ama imumbi nong'amba kechaka udaha muulongo , siyakuliganisa du awuno niugolosele chinhu achi na wuno nogolosele chiya cha itunyo ?
+45009022	~		Chogolosa choni inghowa Mulungu yanghamua konesa inyono yakwe ne udaha wakwe , kwa ufinyilisi mukulu hakakilondela na fiya fiya foyagolose fifuluse kubanigwa ;
+45009023	~		na yokuwa nhani ighowa kagolosa nheifo uleke yonese ugoli we ditunyo dyakwe kufiya fyoyonele ubasi , foyagolose kulawa katali fyuwe na itunyo ;
+45009024	~		hata seye si hakachinanga , siyo kwa Wayahudi du , ninga hata na Wamembe ?
+45009030	chigambeki		Togoleni hambiya chigambeki ? Awamembe wanhu wasimanyile chawelu , waipata ichawelu kwa kulokela dihuwi ;
+45009032	Nhani		Nhani ? Ni kosoko hawandamile dilagiso diya kwa njila ya ihuwi , ninga kwa nhenda sawo . Watowa nghwalo mwiwe dya munghanda ,
+45010006	nani		Ninga ichawelu iya ikulawa mwihuwi ikugamba , “ Unghagambe kumoyo wako nani yokwila kulanga ? ” ( uleke , yamwigale Kilisito hasi )
+45010007	Nani		ama , “ Nani yodulika mpaka hasihasisi ? ” ( uleke yamukwise Kilisito kuchanhya kulawa kwa wafile ) .
+45010008	igambigwaki		Ninga igambigwaki ? “ Imbuli yahabehi nagwe , mumilomo yako na mumoyo wako . ” ( nong'amba , imbuli aiya ye dihuwi yochikutagusa ) ;
+45010014a	nhani		Ninga womwinanga nhani munhu awasimuhuwile ? 
+45010014b	finhani		Kahi womuhuwila finhani munhu wasimuhulike ? 
+45010014c	nhani		Hata nheifo womuhulika nhani bila munhu kuwahubiliya ?
+45010015	nhani		Kahi wohubili nhani bila kwigaligwa ? Fina foitulumigwe , “ Ni miswanu lugano migulu yawo waya awakwigala imbuli swanu ! ”
+45010016	nani		Ninga si wose waihulikise imbuli swanu ; kosoko mugonesi Isaya yakugamba , “ Mundewa nani yahuwile simbuli setu ? ”
+45011004	nhani		Ninga Mulungu hakamubidula nhani ? “ Niikikila fugasi ya wanhu figulu mutandatu awasikumufugamila Baali . ”
+45011007	Yanhani		Yanhani hambiya ? Awaisilaeli wasumwa kupata chiya chowendewakonha . Ninga awaya wasaguligwe hawachipata , ninga wasigale hawowa wakugutu ,
+45011015	yoni		Kosoko inghowa kulema kwawo kwigala kulewanisa kwe chilunga , ninga kuhokeligwa kwawo yokuwa yoni halika siyo umi wawo chigele cho kufa !
+45011018	~		unghakitunyile mumanhambi . Kosoko unghakitunya , gelegela fina siyo no gweye ukudahisa idisina dye dibiki , ninga idisina idyecho no dikukudahisa gweye .
+45011033a	nani		Kusi ye ugoli no ubala ne misungu yakwe Mulungu ! Isiikudaha kusakuligwa , nani yodaha kuumanya uliganiso lwakwe ne sinjila sakwe !
+45011033b	~		
+45011034a	nonani		“ Kosoko nonani yachimanyile ichidoga che Mundewa , 
+45011034b	nani		ama nani yakudaha kuwa mulolesi wakwe ? ”
+45011035	nani		“ Hegu nani yekudaha kumwingha ichinghwa yamuwisile ? ”
+45014004	nonani		Agweye nonani ukwenda kumuliganisa mutogomi wa miyago ? KweMundewa wakwe imwecho yakwima au yakugwa . Ninga kokwinuligwa kosoko Mundewa yakudaha kumwinula .
+45014010a	nhani		Nhani umuliganise imunduguso ? 
+45014010b	nhani		Ama nhani gweye umubese munduguso ? Kosoko chose chikwija chikwima hamwende ye uliganiso we Mulungu .
+46001020a	kowahe		Iyena ubala kowahe ? 
+46001020b	kowahe		Kowahe iMutulumi ? 
+46001020c	kowahe		Kowahe imulukani we chigele chino ? Langa ! iMulungu nghaugolose ubala we chilunga chino kuwa ubwalasi ?
+46002011	nani		No nani muwanhu iyakumanya amadoga ga wanhu nghona si uunhu uwile umwakwe ? No nheifo hechaka iyakugamanya togi amadoga ge Mulungu ila Muhe we Mulungu .
+46002016a	yehoki		Kosoko no yehoki yagamanyile amadoga ge Mundewa mpaka yamulolese ? Amba seye chinago madoga ga Kilisito .
+46002016b	~		
+46003005a	nani		Apolo no nani ? 
+46003005b	nani		Na Paulo no nani ? Aseye cha watumigwa du we Mulungu , Chiwegalileni dihuwi fina iMulungu foyachigawile chila yumwedu wetu .
+46004007a	nani		Kosoko no nani yakuwabagula niye ; 
+46004007b	choni		kwina choni chomwinacho chonghuhokele ? 
+46004007c	nhani		Ninga nghona uhokele nhani ukiyona kifana nghuhokele ?
+46004021	nhani		Mukuhananga nhani ? Nije ukwenu na mukotya ama nije na wendo na loho ya uholo ?
+46005002	~		Mukudahaje kwiyona ? Hayuwa muhongese ! Muleke ayo yagolose didyo yalegusigwe ukwenu .
+46005012	~		Kahi si kasi yangu niye kulamula awanhu wowile kunje ye dikanisa . Awo Mulungu kowalamula . Ninga nyeye musikwendeka muwalamula awowile na nyeye ?
+46006001	nhani		Nghona yumwedu wenu yena nonga ne muKilisito miyagwe , nhani yalute kuwanhu we chilunga na kuleka kuluta kuwanhu we Mulungu soko walamule ?
+46006003	~		Musikumanya fina chowalamula Malaika ? Bila kutala finhu fidodogi fya chila ijuwa .
+46006004	nhani		Ninga munghowa na fibuli fidodogi , nhani mukuwenanga kulaha awanhu wasimanyike ne dikanisa ?
+46006007a	~		Chawelu kosoko mwina nonga mugati yenu ikonesa fina musumwa kwikala fina foikwendeka ku Wakilisito . Hayuwa fiswanu ukwenu kuleka wanhu wa wapujile . 
+46006007b	~		Na hayuwa fiswanu ukwenu kuleka wanhu walonde ifinhu fyenu .
+46006009	~		Musamanyile fina awabanaji wasiuhala undewa wa Mulungu ? Munghadanhilisigwe ; awanhu we dihabwa , awakufuga si sanamu , awekusulumila walume weyawo na kugenda nawo
+46006016	~		Mumanye fina iyakugenda ne wadihabwa yakuwa mutufi umwedu naye , kosoko fina foitulumwe Aweli wakuwa mutufi umwedu .
+46006019	~		Musimanyile fina imitufi yenu ni dihekalu dya Muhe Musunhile mugati yenu , womwinghigwe ne Mulungu ? Kahi anyeye si sawo yenu muweecho ,
+46007016a	nhani		Agwe go muke muKilisito kumanya nhani fina nghukudaha kumuhonya imugosi wako ? 
+46007016b	nhani		Nagwe go mugosi muKilisito kumanya nhani fina nghukudaha kumuhonya imwanamuke wako ?
+46009007a	~		Hena musilikali yakulihila utumishi wakwe kwijeshi ? 
+46009007b	nani		Nani yakuhanda mugunda wa misabibu bila kudiya mamudyo gakwe ? 
+46009007c	nani		Nani yakudima bila kunywa mele musaeo yakwe ?
+46009018	choni		Nikulihigwa choni ? Maliho gangu ni chipisi cha kuihubili mbuli swamu bwete , bila kutasa haki sikwendekana kwa kuihubili .
+46010019a	~		Nikugamba nhafi , 
+46010019b	~		ifyakudiya fitambikiligwe sisanamu si chinhu , 
+46010019c	~		kahi isanamu si chinhu .
+46010029	nhani		Nikulonga kosoko ye chidoga che imunhu yawatamile na siyo ifidoga fyenu . Kosoko nhani uhulu wangu ulamuligwe na chidoga che imunhu yungi ?
+46010030	nhani		Nghona nikushiliki kwa malumbo ; nhani munhu yanilaumu kosoko ye chakudiya chonikulafa malumbo ?
+46011022	nhani		Togoleni ! Mwichaka nyumba so kudiila na kunywila ? Ama mukudibwalasa dikanisa dye Mulungu na kuwaguma chinyala awechaka chinhu ? Nilonge nhani ? Niwatogole ? Kosoko isikuwatogola putu !
+46012017a	hoki		Woile umutufi wose uwe igiso , kukuhulika hakuwa kukuwa hoki ? 
+46012017b	hoki		Na woile umutufi wose uwe nghutwi hakuwa kukuwa hoki kukunusa ?
+46012019	hoki		Mhali umutufi wose wowile chilungo chimwedu , umutufi hawuwa ukuwa hoki ?
+46014006	choni		Hambiya , Wakilisito wayangu ningheja ukwenu akuno nikulonga kwe nonga ye chigeni , nowongesela choni ? Labuda niwegalile nyeye magubulo ama umanyi , ama Imbuli kulawa kwe Mulungu ama mafuso .
+46014007	~		Nofo yuwile kufyombo fichaka ugima kifana filimbi ama chinanda , fighaleka kutowigwa hayohayo imutegelesaji komanyaje ichikutowigwa ?
+46014008	nani		Umwano unghatowigwa fibi , nani yakiandaa kosoko ye nghondo ?
+46014009	nani		Anyeye nheifiya nghona dilimi dyenu disikulonga mbuli sikumanyika , nani yemanya gomukulonga ? Kosoko mokuwa mukulonga chaka .
+46014015	choni		Nghona no nheifo nigolose choni ? Nosali ( notasa ) kwa Muhe , kahi kwa mahala gangu , nokwimba kwa muhe , kahi nokwimba kwa mahala gangu nheifiya .
+46014016	~		Nghona ukulafa malumbo kwe Mulungu ne Muhe wimwene , imunhu yechaka udaha wo kutapita kokwidikilaje Hano mumalumbo gako ukati nghamanyile choukulonga ?
+46014026	Choni		Choni kahi Wakilisito wayangu ? Munghakitanghanyila hamwedu , yumwedu yakwimba , yumwedu yakufusa , yumwedu kena chinhu cha kugubula kulawa kwe Mulungu , yumwedu yakulonga mbuli ye Mulungu kwe inonga iye chigeni , na yumonga yakudaha kulagusa agekulongigwa . Mugolose gose kosoko ya kudijenga dikanisa .
+46014036	~		Imbuli ye Mulungu ilawa ukwenu ? Ama iwejila anyeye mwiwene ?
+46015012	nhani		Hambiya inghowa ikuhubiliigwa fina Kilisito kenuligwa kulwa awafile , nhani wamonga mugati yenu wakugamba kwichaka kwinuligwa awafile ?
+46015029a	~		Hambiya , 
+46015029b	choni		awanhu wakumaanisha choni nomoo wakubatisigwa ahanhu ha awafile ? Nghona awafile wasikwinuligwa ng'o ! 
+46015029c	nhani		Nhani awanhu wakubatisigwa ahanhu hawo ?
+46015030a	~		
+46015030b	Nhani		Nhani nyuwile muhatali chila ugele ?
+46015032	choni		Nikupata choni ? Nghona kwa nonga ye chimunhumunhu nikitowa na makewe akuya Efeso ? Nghona awafile wasikwinuligwa , Leka chunywe na kudiya kosoko housiku chikufa ; fina foikulongigwa .
+46015035a	nhani		Ninga , mutufi wo kwinuka munhu yumwedu yakudaha kufa , Awofile wakwinuligwa nhani ? 
+46015035b	yaki		Wakuwa na mitufi ya namuna yaki ?
+46015055a	hoki		Go difa usumi wako uwa koki ? 
+46015055b	hoki		Go difa isumu yako yuwa hoki ?
+47002002	nani		kosoko nghona ninghawaguma usungu , nani yowile uko wo kunigolosa nyonele , ninga awawaya woniwabulage .
+47002016	nani		kwa waya awakwagilila imhungile yo ni difa na kwa waya wakuhonyigwa imhungile yo ni ugima . Ninga ni nani yakwidaha kwiguma mu mulimo wa namuna yo
+47003008	kahi		kahi imilimo ye Muhe we Mulungu yokuwa na itunyo ikulu kusuma dye malagiso ? Aino si chawelu ?
+47003009	~		Kosoko ghona kowile na itunyo mu kulekeleligwa kwe indamulwa ; kukulekeleligwa kwa uchawelu kukuhanangigwa kuwa na itunyo kusuma didyo .
+47006014a	waki		Munghakihanangise na wasikuhuwila . Kosoko hena uhangi waki mugati ya uchawelu na uwihi ? 
+47006014b	~		Ama chilo na misi fodaha kuwa hamwedu ?
+47006015a	nhani		iKilisitone Luhoma fokifumilisa nhani ? 
+47006015b	choni		Ama imunhu inghakuhuwila kokuwa na choni cha hamwedu na iyakuhuwila ?
+47006016	waki		Dihekalu dye Mulungu dina uhamwedu waki ne Milungu yo udasi ? Kosoko aseye cha dihekalu dye Mulungu imumi , “ Fina iMulungu foyagambile nokwikala na kuwa hamwedu nawo , na nokuwa Mulungu wawo na wene wokuwa wanhu wangu .
+47011011	nhani		Na nhani ? Kosoko sikumwendani ? Imuhungu kamanya fina nikumwendani !
+47011029a	nani		Ugele yumwedu yechaka ludole nani nikihulika fina nechaka ( yakulogosigwa ) mu uwihi , nikumemigwa na usugu .
+47011029b	~		
+47012013	~		Kosoko musahungukiligwe chinhu kusuma amakanisa gamonga , ila aniye nimwenyecho siwatwikile misigo , munilekelele kosoko haniwagoloselani fibi .
+47012017	~		Togoleni haniwongha kupulutila mutumigwa wowose wonimwigale ukwenu ?
+48002014	Nhani		Aniye nikawone fina wasikugenda munjila inogile ye chawelu ye mbuli swanu , honimugombela iPetulo hamwande ya wanhu wose fina , Inghowa gweye go Muyahudi ukwandamila sijadi sa wamataifa ; wanhu wasimanyile Mulungu kahi si Wayahudi . Nhani ukudindilisa wamataifa wandamile sa Wayahudi ?
+48003001	Nani		Nhafo nyeye Muwagalatiya muwabwalasi ! Nani yamulogileni inghowaga imanyika kumwande ya meso genu fina Yesu Kilisito katungikwa ?
+48003019	Nhani		Nhani mbiya yuwe ilagiso ? Ni kosoko dilagiso hadija uleke konesa nhenda sihile mpaka lukolo lwa Ibulahimu , lukolo lwe dilagano wije . Dilagiso hadija kwa mikono ya malaika , ne munhu yengilile kifana mulamusi .
+48004009a	nhani		Ninga hambiya mumumanya Mulungu we chawelu , ama chigambe fina Mulungu mbiya kamumanyani nyeye , nhani mukuwila keli mafuso gasokile , 
+48004009b	~		mukuhananga muwe watumwa wani ?
+48004010	~		Mukukolelesa mbuli sa majuwa , minyesi , figele na minyaka .
+48004015	~		Fina hamuwa na chinyemi chikulu , mpaka hanidoga fina woile ikudahika kukumhula meso genu muninghe niye .
+48004021	~		Nikuhananga munitamile nyeye mukwenda kwikala mudilagiso : Musihulike fina dilagiso fodikulonga ?
+48004030	nhani		Ninga itulumwa nhani mwilago ? Si ikugamba , “ Muwingeni mwanamuke we chitumwa ne mwanagwe , kosoko imwana we chitumwa gwe hata nghodaha kuhala hamwedu ne mwana wa hakaya . ”
+48005007a	nani		Mwendemubilima fiswanu ! Hambiya kahi nani yawagoloseni munghaifumile ichawelu ? 
+48005007b	nani		Iyamubilimiseni fibi nhafo nani ?
+48005011	nhani		Ninga kwa ulwandi ulwangu halika nogendelela kuhubili fina kufinigwa ikuhanangigwa , nhani mbiya ho kudumangiswa ? Woile fina no nheifo yuwile , basi kuhubili kwangu imbuli yo musalaba wa Kilisito kusowile kukuwa na lwidaso .
+49004009	yaki		( kugamba hakakwila togoleni ina maana yaki halika sikugamba imwene naye hakadulika hasi hasisi ye chilunga ?
+50001018	choni		Kahi choni ? Amba kwa sinjila sose , yuwe kwa kiigilisa ama ye chawelu , Kilisito yakuhubiligwa ; naniye nina chinyemi .
+50001021	~		Kosoko ukwangu aniye kuwa mumi ni Kilisito , na kufa ni nyongesa .
+51002020	nhani		Nghona mwafile hamwedu na Kilisito kulawa kumafuso agakatali agechilunga , nhani mukwikala kifana mwawanya muchilunga ? Nhani mukugendelela kulongosigwa na malagiso ,
+52002019	~		Kosoko ihuwi dyetu , chiyemi chetu na nghofiya yetu ya undewa yoni halika sinyeye kumwande ye Mundewa wetu Yesu chigele cho kwija kwakwe
+52003009	~		Chomulumba Mulungu ilumbo dyaki ikulu halika nyeye mukwima gwi kosoko ye chinyemi chochinacho kwe Mulungu wetu .
+54003005	nhani		kosoko imunhu inghamanyile kwimila inyumba yakwe digoya , kodaha nhani kulongosa dikanisa dye Mulungu ?
+54006007a	~		kosoko sicheja na chinhu muchilunga kahi sichidaha kuleuka 
+54006007b	~		na chinhu kulawa muchilunga ;
+58001005	yuhoki		Kosoko kwina malaika yuhoki ugele wowose iyadaha kwinangigwa ne Mulungu , “ Agweye kwa mwanangu , 2 diyelo nghweleka ” ? Ama kahi , “ Aniye nokuwa Babakwe , 2 naye kokuwa ukwangu mwanangu . ”
+58001013	yuhoki		Ninga kwina malaika yuhoki yoyadaya kumugamba chigele chochose , “ Ikala ulwandi lwo mukono wangu wo kulume , mpaka niweke awanghondo wako chigoda cha kwegamikila migulu ” ?
+58001014	~		Nhafo awo si mimuhe watumigwe kutogoma , kosoko ya wanhu awakwija wahokela uhonya ?
+58002003	nhani		aseye nase chodaha kinega nhani chinghaulema uhonya uno umukulu ? Haulongigwa kunghonga na Mundewa , na kuhomelelwa na wose ukwetu na wose awamuhulike imwende ,
+58002006a	nani		Fina foihomeleligwe ahamonga , “ Imunhu no nani hata umugelegele , 
+58002006b	~		hegu imwana we munhu , hata umulangilile imwene ?
+58003016	chenani		No chenani wahulike na kugendelela kuwa wafuti ? Nhafo siwowile awaya wose awaleuke Misili ugele wo ulongosi wa Musa ?
+58003017	chenani		Kahi no chenani awamudesile kwa minyaka makumi mane ? Siwaya wose awagolose wihi , awene mitufi yawo hayugwa mwibalangu ?
+58003018	chenani		Kahi no chenani welahile fina wanghengile mubwihilo wakwe ninga si waya awowile wafuti ?
+58006004	~		Kosoko isikudahika kulamba kahi kwa wanhu awalekile dihuwi wowile muujelu na kunomola ichinghwa che Mulugu na kuwa na lugota na Muhe Musunhile ,
+58007011	yaki		Hambiya inghowa ukangasi haupatagwa kwa njila ya utambiki we Chilawi , ( kosoko hasi yakwe awanhu hawahokela malagiso ) , hahowa na soko yaki kahi ya mutambiki yungi yeme ahanhu ha Melikisedeki , kusuma hata yumwedu iyatambuligwe ahanhu ha Haluni ?
+58009014	~		silugano isakame ya Kilisito , imwene kugendela iMuhe wa majuwa gose hakelafa imwenyecho kuwa chilafwa chichaka wihi , kuwasunha amadoga genu na sinhenda senu sufile mudahe kumufuga Mulungu wenu imumi .
+58010001	~		Kosoko dilagiso dina ninga inyefu dye finhu fiswanu ifikwija kahi si futa ye finhju ifyenyecho , isidaha kuwa , kwa sinhambiko senheifo isikugendelela kulafigwa munyaka kwa munyaka , kuwagolosa wamemelekele wose awekusegelela habehi .
+58010029a	~		Si uliganiso wilihile lugano wo mukudoga uwumwagile imunhu iyamubesile imwana we Mulungu , 
+58010029b	~		na kuitofula isakame ye dilagano iyamusunhile , 
+58010029c	~		na kumutofula Muhe we dihewa ?
+58010029d	~		
+58011032	Nani		Nani nongechoni kahi ? Kosoko ye ichigele idikudahika kwigala simbuli sa Gidioni na Balaka na Samusoni na Yefuta na Daudi na Samwili na sa wagonesi
+58012007	yuhoki		Finyiliseni amakugutu kosoko ya kulolesigwa . Mulungu yakumugoloselani anyeye kifana wana ; kosoko kwina mwana yuhoki inghekulolesigwa ne Babakwe ?
+58012009	~		Kongesela , china wababa we chilunga wo kuchijama seye , kahi chikuwengha chogoho . Nhafo sichidaha kuwa na chogoho kwe Baba we mimuhe no wumi .
+58012025	~		Langisiseni munghamuleme iyekulonga . Kosoko inghowa wasakinegile ugele wowamulemile imwene iyawajamage muchilunga , lugano sichikudaha kwihuligwa aseye chinghakinega na imwene iyekuchijama kulawa kulanga .
+58013006	konitendaki		Hata chikudaha kulonga kwa ng'inyo “ Mundewa no mutasi wangu , sikudaha kogoha ; imunhu konitendaki ? ”
+59002006	~		Ninga anyeye mukuwabesa wakiwa . Ninga sowawo wagoli wakuwonelani nyeye ? Sowene awakuwagumani mumajela ?
+59002014	waki		Ina uswanu waki , wandugu sangu inghowa kwinadyo ihuwi ninga kwichaka sinhenda ? Dihuwi muhala dyodaha kukuhonya ?
+59002016a	~		kamei yumwedu wenu yamugambe luta , “ Genda mheho , kotele moto ukaya na kadiye wigute , ” bila kumwingha chakudiya na goyakuhananga , 
+59002016b	choni		togola baho kugolosa choni ?
+59002018	~		Ninga yanghagamba , “ Agweye kwina dihuwi aniye miyago nina nhenda . ” Nyonese dihuwi dyako idichaka sinhenda , kamei aniye nani kwa nhenda sangu nokonesa dihuwi dyangu .
+59002021	~		Somwene Ibulahimu kukuyetu yataliligwe ichawelu foyamulafa mwanagwe Isaka yowe sadaka hokufugila ?
+59003013	nani		No nani iyena mahala na misungu mugati yenu ? Na yonese imilimo yakwe kwa sinhenda sakwe siswanu , mu uholo wa mahala .
+59003017	~		Ninga ubala uwukulawa kuchanhya , bosi ni swanu , kahi ni wa digoya , wa uholo , tayali kutegelesa simhuli sa wanhu , wina ubasi na mamudyo maswanu , wichaka , finju , wichaka unafiki .
+59004001a	choni		Inghondo ikwigaligwa na choni , 
+59004001b	choni		choni chikwigala kitowa mugati yenu ? Singhamba usulumisi wenu muwecho wuwile mufilungo fye mitufi yenu ?
+59004012	kwanani		Kwina mulafaji we dilagiso yumwedu du kahi nomuliganisi imwene iyakudaha kuhonya na kubana . Ninga kwanani ukumulamula imiyago ?
+59004014	choni		ugele uwo musimanyile iyo inghousiku . Mikalile yenu ni choni , kosoko nyeye mwa maluwa gakubota kwa chipisi na kunyala .
+60002020	dyaki		Kosoko kwina iliho dyaki nomo ukufinyilisa magayo kosoko ya nhenda sako sihile ? Ninga halika ukufinyilisa magayo kosoko ye Mulungu basi Mulungu imwecho kokumotesa .
+60003013	Nonani		Nonani yakwanga yawabulage halika mukugolosa maswanu ?
+60004017	nhani		Kosoko chigele chifika cho uliganiso we Mulungu kukongela munyumba yakwe , hambiya halika ukukongela ukwetu togoleni yokuwa nhani kuwanhu awasikwenda kuhulika imbuli swanu ye Mulungu ?
+60004018	yokuwanhani		Na , “ Imuchawelu yanghahonyigwa kwa tabu togola yokuwanhani kwa yuya inghamumanyile Mulungu ne yene sisambi ? ”
+61003004	dyuwahe		na kugamba “ dyuwahe dihuwiso dyo kwija kwakwe ? Kosoko kukongela awaBaba setu wakagone , ifinhufyose figendelela nheifo fofyowile kulawa kunghonga yo kumba . ”
+61003011	~		Hambiya kosoko finhu fino fyose fikwija fibanigwa kwa nheifo , anyeye mukuhanangigwa muwe wanhu wa migendele ya usunhile na ya chimulungu ,
+62002022	nani		No nani imudasi ninga ayuya iyakukana fina Yesu si Kilisito ? Ayuya no Munghondo wa Kilisito , imunhu iyekumukana iBaba na iMwana .
+62003012	yaki		chinghowe fina Kaini iyowile wa yuya yehile iyakomile imunduguse . Hakamukoma kosoki yaki ? Kosoko sinhenda sakwe imwenyecho hasuwa sihile , ninga se munduguse hasuwa swanu .
+62003017	nhani		Ninga imunhu wowose yangowa na finhu fyose fye chilunga chino na yakumona imunduguse kechaka chinhu , yanghagolosa ichidoga chakwe chuwe chikugutu yaleke kumwingha , uwendo we Mulungu ukwikala nhani umwakwe ?
+62004020	~		Imunhu yanghagamba , “ Nikumwenda Mulungu , ” akuno yakumusula imunduguse imwene woyakumona , nghodaha kumwenda Mulungu wonghenati yamone .
+62005005	nani		No nani iyakusuma ichilunga ninga ayuya iyakuhuwila fina iYesu no Mwana wa Mulungu ?
+66005002	~		Na honimona malaika mukulu yakulonga kwa ijwi ikulu kugamba , “ Nona yagile kuchigubula ichitabu na kubena fikanhamiso fyakwe ? ”
+66006010a	mpaka milaki		howojoja kwa ijwi ikulu , “ Agwe go Mundewa Mukulu musunhile na we chawelu , mpaka milaki ukuchiliganisa 
+66006010b	~		na kuwaliha chisasi che sakame yetu muchanhya ya wekale muchilunga ? ”
+66006017	nani		kosoko dijuwa dikulu dye inyono yawo difika nani yakwenda yadahe kwima hamwande yakwe ? ”
+66007013a	chenani		Kamei yumwedu wa wasehe hoyolonga na niye yakugamba , “ Awano chenani woukona wafalile makasu majelu 
+66007013b	hoki		kahi walawa hoki ? ”
+66013004a	nonani		Hawadifugamila dijoka diya , kosoko hadingigwa udaha wakwe kulawa kwe dikala , howodifuga dikala wakugamba , “ Nonani yafanile gweye go dikala 
+66013004b	nani		kahi nani yakudaha kitowa na gweye ? ”
+66015004a	nonani		Mundewa , nonani inghakwenda yogohe 
+66015004b	~		na kuditunya disina dyako ? Kosoko agweye muhala no musunhile . Mataifa gose gokwija na kufuga hamwande yako , kosoko uliganiso wako ugubuligwa . ”
+66017007	Nhani		Ninga malaika yuya hoyonigamba , “ Nhani ukujumha ? Nokutamila ichifiso che mwanamuke yuno , ne dikala diya idine matwi mufungate ne simhembe ikumi .
+66018018	yaki		ma kulila kwa usungu fowakona umosi ukumusoma , “ Hena kaya yaki ifanile ikaya ino inghulu ? ”

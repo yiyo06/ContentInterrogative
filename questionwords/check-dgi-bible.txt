@@ -1,0 +1,743 @@
+40002002	Nyɩnɛ		Bɛ tɩ sowr a : « Nyɩnɛ n'a a Zifʋ mɩnɛ nãà na dɔw a daar yɩ̃ɛ ŋa a be ? Tɩ nyɛ̃ nɩ a ʋ ŋmar-bir a Saa-pɛrɩ́ ɛ wa kɛ́ tɩ wa pùor ʋ nɩ tɩ tʋɔra siwru . »
+40002004	~		Ʋ tɩ bʋɔl ɩ a bawr-maal-nɩ-bɛrɛ za nɩ a Naaŋmɩn-Wulu-sɛ-sɛbrbɛ za ɓã taa , ɛ sowri bɛ a be a Naaŋmɩn Nɩ-kabra na na dɔw a .
+40003007	ãa		A Zã na tɩ nyɛ̃ a Farizɩ̃ɛ mɩnɛ nɩ a Sadiseyɛ̃ mɩnɛ yaga bɛ waar a suob deb a ʋ zie a , ʋ yel bɛ na : « Dɔpan bʋʋrɛ bɛ ŋa ! Ãa n'ʋ wul nyɩ a lɛ nyɩ na na ɩ nɩɩrɩ a Naaŋmɩn ƴɛrʋ-maalʋ suur na waar a bɛr ?
+40005013	ŋmɩŋmɩn		« A nyɩɩm a , nyɩmɛ n'ɩ a tẽ-daa nyaarʋ . Ɛ cɛ a nyaarʋ nʋ̃ɔ̀ wa yi a , ŋmɩŋmɩn n'a ʋ na ɩ lɛb tɩ ɩ a nyaarʋ ? Ʋ bɛ cãa tɛr yel-ɩra kãw za ɩ , bɛ mɩ́ lɔb ʋ na bɛr yẽw a nɩbɛ nɛbr ɩ gbɛɛ .
+40005046	bʋ̃ʋ		Nyɩmɛ wa nɔnɛ a bɛlɩ dem na nɔnɛ nyɩ a tɛwr a , bʋ̃ʋ maalʋ n'a nyɩ na páw a Naaŋmɩn zie ? A zuru-yar-dierbɛ tɛɛ za mɩ̀ ɩrɛ nɩ a lɛ !
+40005047	buor		Ɛ nyɩmɛ wa puore a nyɩ yɛbr tɛwr a , yel-sɩza buor sob ʋ nyɩ mɩ́ maalɩ ? A tɩbɛ dem tɛɛ za mɩ̀ ɩrɛ nɩ a lɛ .
+40006027	buor		Nyɩ buor sob ʋ na tɩɛrɛ za , wa ɩ a ʋ nyɔ-vʋʋrʋ ʋ wõwme dɔwlɩ blã ?
+40006028	Bʋ̃ʋ n'ʋ so		A bʋ̃-suuri ƴãw a , bʋ̃ʋ n'ʋ so nyɩ mɩ́ dɩ tuo tɩɛrɛ ? Nyɩ jɩr nyɛ̃ a lɛ a poru mɔ̃-puuru na mɩ́ bule ìre a : a bɛ tone wone tuo ɛ , bɛ wobr pɛnɛ ɩ ,
+40006031a	Bʋ̃ʋ n'ʋ		A na ɩ lɛ a , nyɩ ta mɩ́ dɩ tuo tɩɛrɛ yere nɩ : bʋ̃ʋ n'ʋ tɩ na dɩ ? 
+40006031b	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'a tɩ na nyũ ? 
+40006031c	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ tɩ na su ɛ ?
+40007003	Bʋ̃ʋ n'ʋ so		Bʋ̃ʋ n'ʋ so fʋ jɩrɛ a sawle na be a fʋ yɛb mímírí a , ɛ nɩ̃ɛ bɛ nyɛ̃ a wɛw na be a fʋ dem pʋɔ a ?
+40007004	ŋmɩŋmɩn		Ŋmɩŋmɩn n'a fʋ na tʋ̃ɔ yel a fʋ yɛb : ‹ Ɩ ɩ̃ ír sawle bɛr a fʋ mímírí › , ɛ wɛw nɩ̃ɛ be a fʋ dem pʋɔ ?
+40007009	buor		A nyɩ buor sob ʋ , a bie na zɛlɛ dipɛ̃ ʋ de kʋsɩɛr kʋ̀ ʋ ?
+40007016a	ãa		A bɛ ɩ-ɩrɩ zie n'a nyɩ na bãw bɛ . Ãa dãw pɔr divɛ̃ tɩɩr wɔ̃mɛ gɔ-tɩɛ zu , 
+40007016b	~		bɩɩ pɔr kãkamɛ sãsã-tɩɛ zu ?
+40008026	Bʋ̃ʋ n'ʋ so		Ʋ tɩ yel bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ zɔrɛ dɛ̃bɩ̃ɛ , nyɩɩm a Naaŋmɩn-sawfʋ na bɛ saalɩ a ? » Lɛ n'a ʋ tɩ ìr ar ɛ tanɩ a sɛsɛb nɩ a kʋ̃ɔ-kpɛ̃ɛ , a zie ŋmãa vʋʋrʋ cɩ̃ɩɩ !
+40008027	ãa		A nɩbɛ tɩ nyɔw nɩ nʋɔr yere nɩ : « Ãa n'ɩ a sob ŋa , a sɛsɛb nɩ a kʋ̃ɔ-kpɛ̃ɛ za wa sawr a ʋ nʋɔr ? »
+40008029	Bʋ̃ʋ		Bɛ tɩ ŋmɩɛr ɩ cɛlsɩ yere nɩ : « Bʋ̃ʋ n'a jɩrɛ fʋ , Naaŋmɩn Bie e ? Fʋ wa na kɛ fʋ wa sɔbr tɩ niwn ɛ a daar bɛ ta sɛr ɛ ? »
+40009004	Bʋ̃ʋ n'ʋ so		A Yeezu na tɩ bãw a bɛ tɩɛrʋ a , ʋ sowri bɛ na : « Bʋ̃ʋ n'ʋ so a tɩɛr-faar a ŋa be a nyɩ zie ?
+40009005	Abobe		Abobe sob a ɩ mɔlɛ zuo , ɩ̃ na na yel : ‹ A fʋ yel-bebe suur dɩ na › , bɩɩ ɩ̃ na na yel : ‹ Ìr cere a ? ›
+40009011	Bʋ̃ʋ n'ʋ so		A Farizɩ̃ɛ mɩnɛ na tɩ nyɛ̃ a lɛ a , bɛ tɩ yel ɩ a ʋ po-tuurbɛ : « Bʋ̃ʋ n'ʋ so a nyɩ Wul-wul-kara lãw nɩ a zuru-yar-dierbɛ nɩ a yel-bebe dem dɩrɛ ? »
+40009014	Bʋ̃ʋ n'ʋ so		A Zã-Bati po-tuurbɛ tɩ taw na ta a Yeezu zie sowr ʋ : « Bʋ̃ʋ n'ʋ so tɩɩm nɩ a Farizɩ̃ɛ mɩnɛ mɩ́ tɛr a mʋta-tuo , ɛ a fʋ po-tuurbɛ bɛl , bɛ mɩ́ tɛr ? »
+40009015	~		A Yeezu tɩ sɔw bɛ na : « Kul-taa cuw dem na tʋ̃ɔ na tɛr pʋ-sãwna lɛn daar za a dɛb-sãan na be a bɛ sɔgɔ a bɩɩ ? Ɛ cɛ bibie waar a na vɩɛ , bɛ na ír a dɛb-sãan a bɛ sɔgɔ , lɛn daar a bɛ na mɩ́ tɛr a mʋta-tuo .
+40010025	~		A po-tuure wa ŋmɛ̃ mɛ̃ a ʋ zu-sob a , a sɛw ʋ na ; a tõ-tõ-bie wa ŋmɛ̃ mɛ̃ a ʋ tõ-tõ-nɩ-kpɛ̃ɛ a , a sɛw ʋ na . Bɛ nɩ̃ɛ na bʋɔlɩ a yir sob Bɛlɩzebul , ɛ́ bɛ nãá yere a yir biir i ! »
+40011007	Bʋ̃ʋ n'ʋ		Bɛ na tɩ lɛb cere a , a Yeezu tɩ tĩ na ƴɛrɛ a Zã ƴɛrʋ a zu-sɛbla zie . Ʋ tɩ sowre bɛ na : « Bʋ̃ʋ n'ʋ nyɩ cen tɩ nyɛ̃ a wɛja-kpalɛ pʋɔ ? Bàa-kɛkɛr sɛsɛb na fure damnɛ a n'ʋ bɩɩ ?
+40011008	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ nyɩ cen tɩ nyɛ̃ mɔ̃ ? Nɩr na su dɛpaal-kparɩ a n'ʋ bɩɩ ? Ɛ cɛ a dɛpaal-kpar-suurbɛ a , na-mɩnɛ yie pʋɔ n'a bɛ mɩ́ kpɩɛr .
+40011009	bʋ̃ʋ n'ʋ		A na ɩ lɛ a , bʋ̃ʋ n'ʋ nyɩ cen tɩ nyɛ̃ ? Naaŋmɩn-ƴɛr-manɛ n'ʋ bɩɩ ? Ʋ̃ʋ , mãa n'ʋ yere kʋ̀rɛ nyɩ , ʋ zuo nɩ Naaŋmɩn-ƴɛr-manɛ .
+40011016	ãa		Ãa n'ʋ ɩ̃ na de a dɩ̃a nɩbɛ bɛ ŋa man nɩ ? Bɛ ŋmɛ̃ na mɛ̃ bibiir na zɩ̃ nɩ-yaga tuor-taa zie ɛ bʋɔlɛ taa yere nɩ :
+40012011	buor		Ɛ cɛ ʋ tɩ sowri bɛ na : « A nyɩ buor sob ʋ na tɛr pɛr-been ʋ wa lo bɔw pʋɔ a pɩɛnʋ-bibir , ʋ bɛ cen tɩ nyɔw ʋ ír ?
+40012026	ŋmɩŋmɩn		A na ɩ lɛ a , Sɩtaana wa diwr Sɩtaana a , ʋ bʋ́r a lɛ ŋmɛlɩ zɛbr ɩ ʋ tʋɔra ; ŋmɩŋmɩn n'a a ʋ naalʋ tẽw na tʋ̃ɔ ar ?
+40012027	ãa		Alɛ wa ɩ Bɛlɩzebul fãw n'a ɩ̃ diwr ɩ a kɔ̃tɔmɛ a , a nyɩ po-tuurbɛ a , ãa fãw n'a bɛ diwr ɩ a kɔ̃tɔmɛ ? A na ɩ lɛ a , bɛl tɛɛ za nɛ bɛ nãá maal ɩ nyɩ a ƴɛrʋ .
+40012029	ŋmɩŋmɩn		Bɩɩ , ŋmɩŋmɩn n'a nɩr na tʋ̃ɔ kpɛ nɩr na kpɛ̃mɛ yir , de a ʋ bome , ʋlɛ bɛ wa dãw de niwn'lẽ a nɩ-kpɛ̃w nɛ bin baarɩ a ? Ʋlɛ wa 'lẽ ʋ bin baar a n'a ʋ na tʋ̃ɔ wob a ʋ yir bome za .
+40012034	ŋmɩŋmɩn		Dɔpan bʋʋrɛ bɛ ŋa ! Ŋmɩŋmɩn n'a nyɩ na tʋ̃ɔ yere yel-vɩɛlɩ nyɩɩm na kpɛ faar a ? A alɩ bome nɛ na mɩ́ paalɩ a nɩsaal pʋɔ a , alɛ n'a mɩ́ yire a ʋ nʋɔrɩ́ .
+40012048a	ãa		A Yeezu tɩ sɔw nɩ a nɩr nɛ yel : « Ãa n'ɩ a ɩ̃ mã , 
+40012048b	~		ɛ tẽbowle n'ɩ a ɩ̃ yɛbr ? »
+40013010	Bʋ̃ʋ n'ʋ so		A po-tuurbɛ tɩ taw na ta a Yeezu zie sowr ʋ : « Bʋ̃ʋ n'ʋ so a fʋ ƴɛrʋ a bɛ zie ɩ zʋkpaɩ fʋ lɔbr ? »
+40013027	nyɩnɛ		A púo sob tõ-tõ-biir tɩ wa na wa sowr ʋ : « Zu-sob i , ka-bʋʋr-vla bɛ n'a fʋ bʋ̀r a fʋ pu-pʋɔ ɩ , ɛ nyɩnɛ n'a narsɩ mɩ̀ lɛ wa yi ? »
+40013054a	Nyɩnɛ		ɛ cen a tẽw ʋl pʋɔ ʋ na tɩ bàa a , tɩ kanɛ nɩ a nɩbɛ a bɛ puoru-dĩo pʋɔ , kanɩ kanʋ a ɓãa bɛ nʋɔr , bɛ yere : « Nyɩnɛ n'a ʋ páw a yã-bãwfʋ ŋa ? 
+40013054b	ŋmɩŋmɩn		Ŋmɩŋmɩn n'a ʋ mɩ́ tʋ̃ɔ maalɩ a nɔ-ɓãa-yele a ŋa ?
+40013056	nyɩnɛ		A ʋ yeepuuli za bɛ tʋ̃ɔ be a tɩ zie ka ɩ ? Ɛ nyɩnɛ n'a ʋ páw a fãw ŋa za ? »
+40014031	Bʋ̃ʋ n'ʋ so		A Yeezu tɩ tur ɩ nũu daadaa lɛ nyɔw ʋ , ɛ yel : « Naaŋmɩn-sawfʋ pʋrɩ sob ŋa , bʋ̃ʋ n'ʋ so fʋ bʋnɩ ? »
+40015002	Bʋ̃ʋ n'ʋ so		« Bʋ̃ʋ n'ʋ so a fʋ po-tuurbɛ sãwnɛ a tɩ sãakʋ̃-kore ciiru ? Bɛ na bɛ mɩ́ pɛw a bɛ nuru mɛ̃ a lɛ a tɩ puoru sɔr na yel a , ɛ bãw dɩ a . »
+40015003	Bʋ̃ʋ n'ʋ so		A Yeezu tɩ sɔw bɛ na : « Ɛ a nyɩɩm , bʋ̃ʋ n'ʋ so nyɩ bɛ tuur a Naaŋmɩn nɔ-ƴãwna a nyɩ sãakʋ̃-kore ciiru zũú ?
+40015033	Nyɩnɛ		A ʋ po-tuurbɛ tɩ sowr ʋ na : « Nyɩnɛ n'a tɩ na páw dipɛ̃ a sɛw tʋ̃ɔ tɩw a nɩbɛ bɛ ŋa za , a wɛja pʋɔ ka ? »
+40015034	a ŋmɩn		A Yeezu tɩ sowri bɛ na : « Dipɛ̃ a ŋmɩn n'a nyɩ tɛr ? » Bɛ tɩ sɔw na : « Ayopõi nɩ zʋm-bili blã . »
+40016008	Bʋ̃ʋ n'ʋ so		Ɛ cɛ a Yeezu tɩ bãwnɩ a na yel bɛ : « Naaŋmɩn-sawfʋ pʋrɩ dem bɛ ŋa ! Bʋ̃ʋ n'ʋ so nyɩ tɩɛrɛ nyɩ pʋɔ yere nɩ nyɩ na bɛ tɛr dipɛ̃ a ?
+40016009	~		Nyɩ cãa bɛ bãw a pɛr ɛ ? Nyɩ yiir ɩ a dipɛ̃ anũu bɛ na põ nɩbɛ tur anũu a , nɩ a peli nʋɔr nyɩ na tuo kul ɩ a ?
+40016010a	~		Bɩɩ nyɩ yiir ɩ a dipɛ̃ ayopõi yele bɛ na põ a nɩbɛ tur anaar a , 
+40016010b	~		nɩ a peli nʋɔr nyɩ na tuo kul ɩ a ?
+40016011	ŋmɩŋmɩn		Ŋmɩŋmɩn za n'a nyɩ bɛ bãw a pɛr , k'ɩ̃ɩ bɛ tɩ ƴɛrɛ dipɛ̃ ƴɛrʋ a nyɩ zie a lɛn daar ɩ̃ na tɩ yere kʋ̀rɛ nyɩ : nyɩ gùre nyɩ tʋɔra a Farizɩ̃ɛ mɩnɛ nɩ a Sadiseyɛ̃ mɩnɛ dãbɩl ƴãw a ? »
+40016013	ãa		A Yeezu na wa ta a Filib tẽw Sezaare a , ʋ sowr ɩ a ʋ po-tuurbɛ : « A nɩbɛ zie a , ãa n'ɩ a Nɩsaal Bie ? »
+40016015a	~		Ʋ lɛb sowri bɛ : « Ɛ a nyɩɩm , 
+40016015b	ãa		nyɩ yel kɛ ãa nɛ m ? »
+40016026a	Bʋnʋ		Bʋnʋ tɔnɛ n'a a nɩsaal na nyɛ̃ , ʋlɛ wa páw a tẽ-daa za ɛ a ʋ nyɔ-vʋʋrʋ bɔr a ? 
+40016026b	bʋ̃ʋ n'ʋ		Bɩɩ bʋ̃ʋ n'ʋ a nɩsaal na tʋ̃ɔ tɩr ya de nɩ a ʋ nyɔ-vʋʋrʋ ?
+40017010	bʋ̃ʋ ƴãw		Al pùorí , a ʋ po-tuurbɛ tɩ sowr ʋ na : « Bʋ̃ʋ ƴãw n'a a Naaŋmɩn-Wulu-sɛ-sɛbrbɛ yere k'aa fɛr a kɛ a Eli wa baarɩ ? »
+40017017a	Debor		A Yeezu tɩ de nɩ a ƴɛrʋ yel : « Nɩsaal-faar bɛ ŋa , nɩ nɩbɛ na bɛ saw de Naaŋmɩn a ! Debor a ɩ̃ na be a nyɩ zie tɩ ta ? 
+40017017b	Debor		Debor a ɩ̃ na wõ n nyɩ a tuo tɩ ta ? Nyɩ tɛr a bie wa kʋ̀ m . »
+40017019	Bʋ̃ʋ n'ʋ so		A po-tuurbɛ tɩ taw na ta a Yeezu sowr ʋ a bɛ tɛwr zie : « Bʋ̃ʋ n'ʋ so a tɩɩm tɩ bɛ tʋ̃ɔ ʋ diw ? »
+40017025a	ŋmɩn		A Pɩɛr tɩ sɔw na : « Bʋnʋ ɩ ? Ʋ mɩ́ ya na . » A Pɩɛr na tɩ ta a yir a , a Yeezu tɩ dãw ʋ na de a ƴɛrʋ sowr ʋ : « Fʋ tɩɛr ɩ ŋmɩn , Sɩmʋ̃ ʋ ? 
+40017025b	na-mɩnɛ		A tẽw zu ka na-mɩnɛ a , tẽbowle zie n'a bɛ mɩ́ de a cɩɛrʋ nɩ a zuru-yar ? A bɛ tẽ-biir zie n'a bɩɩ a sãanbɛ zie n'a ? »
+40018001	ãa		A ʋlɩ tɛm nɛ , a Yeezu po-tuurbɛ tɩ taw na pɩɛl ʋ , ɛ sowr ʋ : « Ãa n'ʋ ɩ kpɛ̃ɛ zuo a nɩbɛ za a tẽ-vla-naalʋ pʋɔ ? »
+40018012	ŋmɩn		Nyɩ tɩɛr ɩ ŋmɩn ? Nɩr wa tɛr píir kʋba , ɛ a pɛ́rʋ been wa bɔr a , ʋ kʋ̃ bɛr a kʋba for bir al a tãw zu ɛ cen tɩ bɔ a ʋl na bɔr a ɩ ?
+40018021	a ŋmɩn		Lɛ n'a a Pɩɛr tɩ taw ta a Yeezu zie sowr ʋ : « Sore e , a ɩ̃ yɛb wa sãw mɛ̃ a , gb'a a ŋmɩn n'a ɩ̃ na dɩ suur kʋ̀ ʋ tɩ ta ? A tɩ ta gb'a ayopõi bɩɩ ? »
+40019007	Bʋ̃ʋ n'ʋ so		A Farizɩ̃ɛ mɩnɛ tɩ lɛb a sowr ʋ : « Bʋ̃ʋ n'ʋ so a Mõyiir yel kɛ nɩr wa zawrɛ a ʋ pɔw bɛrɛ a , ʋ maalɩ zawr-bɛrʋ sɛbɛ kʋ̀ ʋ ? »
+40019016	bʋ̃ʋ		Nɩr kãw tɩ taw na ta a Yeezu zie sowr ʋ : « Wul-wul-kara a , bʋ̃ʋ yel-vla n'ʋ a fɛr k'ɩ̃ɩ maalɩ tʋ̃ɔ páw a nyɔ-vʋʋrʋ na be kʋra lɛ a ? »
+40019017	Bʋ̃ʋ n'ʋ so		A Yeezu tɩ sɔw ʋ na : « Bʋ̃ʋ n'ʋ so fʋ sowre mɛ̃ a yel-vla yele ? A sob nɛ na vɩɛl a , ɩ n been yõ tẽtẽ . Fʋ̃ʋ wa bɔbr kɛ fʋ páw a nyɔ-vʋʋrʋ a , sawr a Naaŋmɩn nɛ-ƴãwnɩ . »
+40019018	abobe		Ʋ lɛb sowr ʋ : « Nɛ-ƴãwnɩ abobe ? » A Yeezu sɔw : « Ta kʋ́ nɩr ɛ ; ta maalɩ pɔw-gaa yel-bier ɛ ; ta zu ɛ ; ta dɩ dãsɩɛ-ziri ɩ ;
+40019020	Bʋ̃ʋ n'ʋ		A pɔl-bile yel ʋ : « Ɩ̃ saw nɩ a nɛ-ƴãwnɩ a ŋa za . Bʋ̃ʋ n'ʋ cãa cɛ m ? »
+40019025	ãa		A ʋ po-tuurbɛ na tɩ wõ a ƴɛr-bie a ŋa a , bɛ nyɔw nɩ nʋɔr yere nɩ : « Alɛ wa ŋmɛ̃ a ŋa a , ãa n'ʋ pãa na tʋ̃ɔ nyɛ̃ a faafʋ a ? »
+40019027	ŋmɩŋmɩn		Lɛ n'a a Pɩɛr tɩ de a ƴɛrʋ yel ʋ : « Nyɛ̃ , tɩ bɛr ɩ bom za ɛ wa tuur fʋ , ŋmɩŋmɩn n'a a na ŋmɛ̃ a tɩ zie ? »
+40020006	Bʋnʋ ƴãw		A na wa man a zaanʋɔra a , ʋ tɩ lɛb a yi tɩ nyɛ̃ bɛ mɩnɛ bɛ be a be , ʋ yel bɛ : ‹ Bʋnʋ ƴãw n'a nyɩ zɩ̃ a ka a bibi-ɓil za bɛ ɩrɛ bom za ? ›
+40020012	~		Bɛ tɩ yere na : ‹ A bɩɛr-waarbɛ bɛ ŋa tõ n tɛm gbel-been yõ , ɛ fʋ ya bɛ mɛ̃ a tɩɩm na nyɛ̃ a bibi-ɓil balʋ ɛ dɩ a mʋ̃tɔ̃w a ! ›
+40020021	Bʋ̃ʋ n'ʋ		A Yeezu tɩ sowr ʋ na : « Bʋ̃ʋ n'ʋ fʋ bɔbr ? » Ʋ sɔw : « Nyɛ̃ a ɩ̃ bi-dɛbr ayi bɛ ŋa , ƴãw kãw zɩ̃ a fʋ dʋrʋ lowr ɛ kãw zɩ̃ a fʋ gʋba lowr a fʋ naalʋ pʋɔ . »
+40020032	Bʋ̃ʋ n'ʋ		A Yeezu tɩ tɛw na ar ɛ bʋɔlɩ bɛ wa sowri : « Bʋ̃ʋ n'ʋ nyɩ bɔbr k'ɩ̃ɩ ɩ kʋ̀ nyɩ ? »
+40021010	ãa		A Yeezu na wa kpɛ a Zeruzalɛm a , a zie za dam a . A nɩbɛ tɩ sowre na : « Ãa n'ɩ a sob ŋa ? »
+40021016	~		Bɛ tɩ sowr ʋ na : « Fʋ wone nɩ a lɛ bɛ na yere a ? » A Yeezu tɩ sɔw bɛ na : « Ʋ̃ʋ ɩ̃ wone a na . Nyɩ bɛ dãw kanɩ a Sɛb-sõw ƴɛr-bie a ŋa ɩ ? ‹ Fʋ ɩ n a ɩb , bibiir nɩ bɩ-pɩɩlɛ tɛɛ za tɩ danɛ fʋ . › »
+40021020	ŋmɩŋmɩn		A po-tuurbɛ na tɩ nyɛ̃ a lɛ a , nʋɔr ɓãa bɛ na bɛ yere : « Ŋmɩŋmɩn za n'a a kãkã-tɩɛ ko a pɛr nɛ pʋɔ ? »
+40021023a	Nyɩnɛ		A Yeezu na tɩ kpɛ a Ŋmɩn-yi-kpɛ̃ɛ pʋɔ kanɛ nɩ a nɩbɛ a , a bawr-maal-nɩ-bɛrɛ nɩ a Zifʋ mɩnɛ nɩ-kore tɩ taw na ta a ʋ zie sowr ʋ : « Nyɩnɛ n'a fʋ páw a sɔr ɩrɛ a a ŋa ? 
+40021023b	ãa		Ɛ ãa n'ʋ kʋ̀ fʋ a sɔr kɛ fʋ ɩrɛ a a ŋa ? »
+40021025a	nyɩnɛ		A suob a Zã na tɩ tɩrɛ a , nyɩnɛ n'a ʋ tɩ yi ? Naaŋmɩn zie n'a bɩɩ nɩsaalbɛ zie n'a ? » Bɛ tɩ tɩɛr ɩ bɛ pʋɔ a ŋa : 
+40021025b	~		« Tɩmɛ wa yel kɛ Naaŋmɩn zie n'a a , ʋ na yel tɩ na : 
+40021025c	bʋ̃ʋ n'ʋ so		‹ Ɛ bʋ̃ʋ n'ʋ so nyɩ bɛ saw de ʋ ? ›
+40021028	ŋmɩn		A Yeezu tɩ cãa na lɛ yel : « Nyɩ tɩɛr ɩ ŋmɩn yel ŋa ƴãw ? Nɩr kãw tɩ tɛr ɩ bibiir ayi . Ʋ tɩ yel ɩ a dãw-niwn sob : ‹ Ɩ̃ bie e , cen tɩ tõ a divɛ̃-tɩɩr púo pʋɔ a dɩ̃a . ›
+40021031	buor		A bɛ ayi pʋɔ a , buor sob ʋ maalɩ a ʋ sãà pʋ-tɩɛrʋ ? » Bɛ tɩ sɔw na : « A dãw-niwn sob ʋ . » Lɛ n'a a Yeezu tɩ yel bɛ : « Yel-mɩŋa sɩza , ɩ̃ yere na kʋ̀rɛ nyɩ : zuru-yar-dierbɛ nɩ pɔw-yɛmɛ na dãw nyɩ nɩ a Naaŋmɩn-Naalʋ pʋɔ .
+40021040	ŋmɩn		A na ɩ a ŋa a , a divɛ̃-tɩɩr púo sob wa wa a , ʋ na ɩ n a divɛ̃-tɩɩr po-kʋɔrbɛ bɛ ŋa ŋmɩn ? »
+40022012	ŋmɩŋmɩn		Ʋ tɩ sowr ʋ na : ‹ Ɩ̃ bá a , ŋmɩŋmɩn n'a fʋ ɩ kpɛ a ka ɛ bɛ su a cuw bʋ̃-suuri ? › A sob nɛ tɩ ɩ n gbili .
+40022017	~		Yel a lɛ fʋ na tɩɛrɛ a , tɩ nyɛ̃ : sɔr be n be kɛ́ bɛ mɩ́ ya a zuru-yar kʋ̀ a Sezaar bɩɩ sɔr bɛ ka be ? »
+40022018	Bʋ̃ʋ n'ʋ so		Ɛ cɛ a Yeezu na tɩ bãw a bɛ yã-faa a , ʋ yel bɛ na : « Nɩsaal-libelibe bɛ ŋa ! Bʋ̃ʋ n'ʋ so nyɩ bɔr kɛ nyɩ ŋmãa a ɩ̃ pùor ?
+40022020a	ãa		A Yeezu tɩ sowri bɛ na : « Ãa niwn nɩ 
+40022020b	ãa		ãa yúor ɩ a a ŋa na wi a libir zu a ? »
+40022028	buor		A na ɩ a ŋa a , a kũu-pʋɔ-lɛ-yib daar , a bɛ ayopõi pʋɔ a , ʋ na ɩ n buor sob pɔw ? Bɛ za na kul ʋ lɩɛrɩ taa a ? »
+40022036	buor		« Wul-wul-kara a , a Naaŋmɩn-Wulu pʋɔ a , a nɔ-ƴãwna kpɛ̃ɛ za n'ɩ buor ? »
+40022042a	ŋmɩŋmɩn		« Ŋmɩŋmɩn n'a nyɩ tɩɛrɛ a Naaŋmɩn Nɩ-kabra ƴãw ? 
+40022042b	ãa		Ãa bʋʋrɛ n'ʋ ? » Bɛ tɩ sɔw na : « Daviir bʋʋrɛ n'ʋ . »
+40022043	ŋmɩŋmɩn		A Yeezu tɩ yel bɛ na : « Ɛ ŋmɩŋmɩn za n'a a Vʋʋrʋ Sõw na tɩ ƴãw a Daviir ʋ ƴɛr a , tɩ bʋɔlɛ a Naaŋmɩn Nɩ-kabra : Sore ? Ɛ tɩ yel a ƴɛr-bie a ŋa :
+40022045	ŋmɩŋmɩn		A na ɩ a ŋa a , a Daviir wa bʋɔlɛ ʋ : Sore a , ŋmɩŋmɩn n'a , ʋ ɩ a ʋ bie ? »
+40023017	Buor		Dãbole nɩ zɔn bɛ ŋa ! Buor ʋ ɩ kpɛ̃ɛ zuo : a salmɛ̃ n'a bɩɩ a Ŋmɩn-yi-kpɛ̃ɛ na ɩ a salmɛ̃ a lɩɛbɩ bʋ̃-son a ?
+40023019	Buor		Zɔn bɛ ŋa ! Buor ʋ ɩ kpɛ̃ɛ zuo : a bawr-maal-bom n'ʋ bɩɩ a bawr-maal-kuur na mɩ́ ɩ a bawr-maal-bom ʋ ɩ sõw a n'ʋ ?
+40023033	ŋmɩŋmɩn		Wɩɩr nɩ dɔpan bʋʋrɛ bɛ ŋa ! Ŋmɩŋmɩn n'a nyɩ na tʋ̃ɔ nɩɩrɩ a tẽ-faa dɔwrʋ bɛr ?
+40024003a	~		A Yeezu na tɩ zɩ̃ a Olivʋ-tɩɩr tãw zu a , a ʋ po-tuurbɛ tɩ taw na pɩɛl ʋ bɛ tɛwr zie ɛ sowr ʋ : « Yel kʋ̀ tɩ a lɛn daar a yele a ŋa na na ta a , 
+40024003b	~		nɩ a ʋlɩ bom nɛ na na ɩ a fʋ lɛb-waa nɩ a tẽw baarʋ bãwfʋ a . »
+40024045	buor		« A tõ-tõ-bi-vla nɩ yã-bãwnɛ pãa n'ɩ buor a ? A kãw n'ɩ ŋan a ʋ zu-sob na de a ʋ yir nɩbɛ kʋ̀ , k'ʋʋ mɩ́ kʋ̀ bɛ a bʋ̃-dɩrɩ a daar wa ta a .
+40025037	debor		Lɛ n'a a nɩ-mɩn na sɔw ʋ yel : ‹ Sore e , debor daar a , tɩ tɩ nyɛ̃ b , kɔ̃ kpɩɛr fʋ , tɩ kʋ̀ b bʋ̃-dɩrɩ , kʋ̃ɔ-nyuur kpɩɛr fʋ , tɩ kʋ̀ b kʋ̃ɔ ?
+40025038	Debor		Debor daar a , tɩ tɩ nyɛ̃ b , fʋ ɩ sãan , tɩ de b a sãanʋ , fʋ ɩ ƴãgã-zawla , tɩ kʋ̀ b bʋ̃-suuri ?
+40025039	Debor		Debor daar a , tɩ tɩ nyɛ̃ b , fʋ ɩ baal bɩɩ be gaso pʋɔ , ɛ tɩ bɩɛrɩ wa nyɛ̃ b ? ›
+40025044	debor		Lɛ n'a bɛ mɩ̀ na sɔw ʋ yel : ‹ Sore e , debor a tɩ tɩ nyɛ̃ b , kɔ̃ nɩ kʋ̃ɔ-nyuur kpɩɛr fʋ , bɩɩ fʋ ɩ sãan , fʋ ɩ ƴãgã-zawla , fʋ ɩ baal bɩɩ fʋ be gaso pʋɔ , ɛ tɩ bɛ sõw fʋ ? ›
+40026008	Bʋ̃ʋ		A Yeezu po-tuurbɛ na tɩ nyɛ̃ a lɛ a , a tɩ ɩ na mɛ̃ bɛ ɩ ŋmɩn a . Bɛ tɩ yere na : « Bʋ̃ʋ pãa so a tʋrali a ŋa sãw-bɛrʋ a ?
+40026010	Bʋ̃ʋ n'ʋ so		A Yeezu na tɩ bãwnɩ a , ʋ yel bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ sɔbr a pɔw ŋa niwn ? Yel-vla n'ʋ ʋ maalɩ a ɩ̃ zie .
+40026015	Bʋ̃ʋ n'ʋ		yel bɛ : « Mãa wa nyɔw a Yeezu kʋ̀ nyɩ a , bʋ̃ʋ n'ʋ nyɩ na kʋ̀ m ? » Bɛ tɩ sɔr ɩ salmɛ̃ libie lɩzɛr ɩ pie kʋ̀ ʋ .
+40026017	Nyɩnɛ		A dipɛ̃ na bɛ ƴãw dãbɩl a cuw bibi-dãw-niwn sob , a Yeezu po-tuurbɛ tɩ wa na wa sowr ʋ : « Nyɩnɛ n'a fʋ bɔbr kɛ tɩ cɔbrɩ a Tɔlʋ cuw dɩb ? »
+40026040	~		Ʋ tɩ ìr a wa a ʋ po-tuurbɛ ata bɛl zie wa nyɛ̃ bɛ gùre . Ʋ tɩ yel ɩ a Pɩɛr : « A ɩ lɛ nyɩ bɛ tʋ̃ɔ bɛr gʋ̃ɔ ɛ lãw nɩ mɛ̃ tɛm been yõ ƴãw ʋ ?
+40026050	~		A Yeezu tɩ yel ʋ na : « Ɩ̃ bá a , a ʋlɩ bom nɛ ƴãw fʋ na wa a , ɩ ʋ fɔ̃w . » Lɛ n'a a nɩbɛ tɩ taw ta nyɔw a Yeezu .
+40026054	ŋmɩŋmɩn		Ɛ cɛ ŋmɩŋmɩn n'a a Sɛb-sõw ƴɛr-bie nãá tɩ tu ? A yel a k'aa ŋa n'a a fɛr k'aa yele tu . »
+40026062a	~		A bawr-maal-kara tɩ ìr a ar ɛ sowri a Yeezu : « Fʋ bɛ tɛr sɔwfʋ za a yele a ŋa bɛ na manɛ dɔwlɛ a fʋ zu a ƴãw bɩɩ ? »
+40026062b	~		
+40026065	Bʋnʋ ƴãw		Lɛ n'a a bawr-maal-kara tɩ taw a ʋ bʋ̃-suuri cɩɛrɩ , ɛ yel : « Ʋ tʋ n Naaŋmɩn ! Bʋnʋ ƴãw n'a tɩ cãa bɔbr dãsɩɛ dem ? Nyɩ za nyɩ wõ n a zʋ́m ʋ na tʋ a Naaŋmɩn a ƴɛrɛ ŋa a .
+40026066	ŋmɩn		Nyɩ tɩɛr ɩ ŋmɩn ? » Bɛ sɔw : « Ʋ sɛwnɩ nɩ kũu . »
+40026068	ãa		ɛ yel : « Bãw Naaŋmɩn-ƴɛr-manɛ bãwfʋ kʋ̀ tɩ , Naaŋmɩn Nɩ-kabra a , ãa n'ʋ ŋmɛ b ? »
+40027004	~		ɛ yel : « Ɩ̃ maal ɩ yel-bier , ɩ̃ na nyɔw nɩr na bɛ sãw bom za a , kʋ̀ nyɩ a . » Ɛ cɛ bɛ tɩ yel ʋ na : « A bɛ jɩrɛ tɩ ɛ ! Fʋ yele n'a ! »
+40027013	~		Lɛ n'a a Pɩlatɩ tɩ sowr ʋ : « Fʋ bɛ wone a sãwna a ŋa bɛ na manɛ dɔwlɛ a fʋ zu sɛw a ɩ ? »
+40027017	ãa		A Pɩlatɩ tɩ sowr ɩ a zu-sɛbla na tɩ ɓã taa a : « Ãa n'ʋ nyɩ bɔbr k'ɩ̃ɩ yuo bɛr : a Yeezu Barabasɩ n'ʋ bɩɩ a Yeezu bɛ na bʋɔlɛ a Naaŋmɩn Nɩ-kabra a ? »
+40027021	buor		A na-kpɛ̃ɛ lɩɛrɛ tɩ lɛb a de a ƴɛrʋ sowri bɛ : « A bɛ ayi pʋɔ a , buor sob ʋ nyɩ bɔbr k'ɩ̃ɩ lɛb bɛr ? » Bɛ tɩ sɔw na : « Barabasɩ ! »
+40027022	ŋmɩn		A Pɩlatɩ tɩ lɛb a sowri bɛ : « Ɛ a Yeezu bɛ na bʋɔlɛ Naaŋmɩn Nɩ-kabra a , ɩ̃ na ɩ ʋ nɩ ŋmɩn ? » Bɛ za tɩ sɔw na yel : « Kpa ʋ da-gara zu ! »
+40027023a	~		Ʋ lɛb sowri bɛ : 
+40027023b	Bʋ̃ʋ n'ʋ		« Bʋ̃ʋ n'ʋ ʋ sãw ? » Bɛ lɛb bãw cɩɩrɛ kpɛ̃w za yere nɩ : « Kpa ʋ da-gara zu ! »
+40027046	Bʋ̃ʋ n'ʋ so		A mʋ̃tɔ̃w gɔ̃wfʋ daar , a Yeezu tɩ kõ na cɩɩrɩ yel : « Eli , Eli , lema sabaktani » , a pɛr lɛ kɛ : « Ɩ̃ Naaŋmɩn ɩ , ɩ̃ Naaŋmɩn ɩ , bʋ̃ʋ n'ʋ so fʋ zawrɩ mɛ̃ bɛr ? »
+41001024	bʋnʋ		« Tɩɩm nɩ fʋ̃ʋ mɩ̀ bʋnʋ Nazarɛtɩ tẽw Yeezu u ? A tɩ yele sãwfʋ ƴãw n'a fʋ wa kɛ̃ ! Ɩ̃ bãw fʋ na : a Naaŋmɩn Nɩ-sõw nɛ b ! »
+41001027	Bʋ̃ʋ		Pʋl-vʋ̃ɔ tɩ nyɔw nɩ a nɩbɛ za bɛ sowre taa yere nɩ : « Bʋ̃ʋ n'ɩ a a ŋa ? Wul-paala n'ɩ a ŋa ʋ na wule nɩ fãw a ! Ʋ dɩrɛ nɩ naalʋ a kɔ̃tɔ̃-faar tɛɛ za zu , ɛ a sawr a ʋ nʋɔr . »
+41002007a	Bʋnʋ ƴãw		« Bʋnʋ ƴãw n'a a nɩr ŋa ƴɛrɛ a ŋa ? Ʋ tʋʋr ɩ Naaŋmɩn zʋmɛ . 
+41002007b	ãa		Ãa n'ʋ na tʋ̃ɔ dɩ a yel-bebe suur , a bɛ ɩ Naaŋmɩn yõ ? »
+41002008	Bʋ̃ʋ n'ʋ so		Daadaa lɛ , a Yeezu na tɩ tɩɛrɩ bãw a bɛ pʋ-tɩɛrʋ a , ʋ sowri bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ tɛr a tɩɛrʋ a ŋa taabɛ ?
+41002009	Abobe		Abobe sob a ɩ mɔlɛ zuo : ɩ̃ na na yel a gbɛr : ‹ A fʋ yel-bebe suur dɩ na a › , bɩɩ ɩ̃ na na yel ʋ : ‹ Ìr ɓaw a fʋ bʋ̃-gana cere nɩ a › ?
+41002016	Bʋ̃ʋ n'ʋ so		A Naaŋmɩn-Wulu-sɛ-sɛbrbɛ bɛl na ɩ Farizɩ̃ɛ mɩnɛ a , na tɩ nyɛ̃ a Yeezu ʋ lãw nɩ a yel-bebe dem nɩ a zuru-yar-dierbɛ dɩrɛ a , tɩ yel ɩ a ʋ po-tuurbɛ : « Bʋ̃ʋ n'ʋ so ʋ lãw nɩ a zuru-yar-dierbɛ nɩ a yel-bebe dem dɩrɛ ? »
+41002018	Bʋ̃ʋ n'ʋ so		Bibir kãw , a Zã po-tuurbɛ nɩ a Farizɩ̃ɛ mɩnɛ tɩ ìr a tɛr a mʋta-tuo . Lɛ n'a nɩbɛ bɛ mɩnɛ kãw tɩ wa sowri a Yeezu : « Bʋ̃ʋ n'ʋ so a Zã po-tuurbɛ nɩ a Farizɩ̃ɛ mɩnɛ po-tuurbɛ tɛr a mʋta-tuo , ɛ a fʋ̃ʋ po-tuurbɛ bɛl bɛ tɛr a mʋta-tuo ? »
+41002019	~		A Yeezu tɩ sɔw na yel bɛ : « Nyɩ tɩɛrɛ kɛ a dɛb-sãan na tʋ̃ɔ na cãa be a kul-taa cuw dem sɔgɔ , ɛ́ bɛ tɛr a mʋta-tuo bɩɩ ? Lɛn daar za a dɛb-sãan na be a bɛ sɔgɔ a , bɛ kʋ̃ tʋ̃ɔ tɛr a mʋta-tuo ɩ .
+41002024	Bʋ̃ʋ n'ʋ so		Lɛ n'a a Farizɩ̃ɛ mɩnɛ tɩ yel a Yeezu : « Nyɛ̃ , bʋ̃ʋ n'ʋ so a fʋ po-tuurbɛ ɩrɛ bom nɛ na bɛ sɛw kɛ bɛ ɩrɛ a pɩɛnʋ-bibir a ? »
+41003004	~		Al pùorí ʋ yel bɛ : « Sɔr be n be kɛ bɛ maalɩ yel-vla bɩɩ bɛ maalɩ yel-faa a pɩɛnʋ-bibir bɩɩ ? Bɛ́ faa nɩr bɩɩ bɛ kʋ́ ʋ ? » Ɛ cɛ bɛ tɩ zɩ̃ n gbili .
+41003023	ŋmɩŋmɩn		A Yeezu tɩ bʋɔlɩ bɛ na wa lɔbr zʋkpaɩ kʋ̀rɛ bɛ yere nɩ : « Ŋmɩŋmɩn n'a Sɩtaana na tʋ̃ɔ lɛ ŋmɛlɩ diwr Sɩtaana ?
+41003033a	ãa		Ʋ tɩ sɔw bɛ na : « Ãa n'ɩ a ɩ̃ mã , 
+41003033b	~		ɛ tẽbowle n'ɩ a ɩ̃ yɛbr ? »
+41004013	ŋmɩŋmɩn		Al pùorí , a Yeezu tɩ sowri bɛ na : « Nyɩ bɛ bãw a zʋkpar ŋa pɛr ɛ ? Ɛ ŋmɩŋmɩn n'a nyɩ na bãw a zʋkpaɩ al za na cɛ a pɛr ?
+41004030a	Bʋ̃ʋ n'ʋ		A Yeezu tɩ cãa na yere : « Bʋ̃ʋ n'ʋ tɩ na tʋ̃ɔ de a Naaŋmɩn-Naalʋ man nɩ wul ? 
+41004030b	buor		Bɩɩ zʋkpar buor ʋ na tʋ̃ɔ ɩ ʋ sãá daadaa lɛ ?
+41004038	~		Ɛ cɛ a Yeezu tɩ be n a gbor pɛrɩ́ kɔw zu nɩ zu-kɔwra gúre nɩ . A ʋ po-tuurbɛ tɩ sɩ̃w ʋ na yere kʋ̀rɛ ʋ : « Wul-wul-kara a , a bɛ ɩrɛ fʋ bom za tɩ na kpiir a ɩ ? »
+41004040a	Bʋ̃ʋ n'ʋ		A Yeezu tɩ sowri bɛ na : « Bʋ̃ʋ n'ʋ so dɛ̃bɩ̃ɛ ɩrɛ nyɩ sɛw a a ŋa ? 
+41004040b	~		Nyɩ cãa bɛ saw de a ɩ̃ yele ɩ ? »
+41004041	bʋ̃ʋ		Dɛ̃bɩ̃ɛ tɩ nyɔw bɛ nɩ yaga bɛ sowre taa : « Nɩ-bʋ̃ʋ pãa n'ɩ a nɩr ŋa , a sɛsɛb nɩ a kʋ̃ɔ-kpɛ̃ɛ za wa sawr a ʋ nʋɔr ? »
+41005007	bʋnʋ		Ʋ tɩ cɩɩr ɩ kpɛ̃w za yel : « Naaŋmɩn na-do-saa-bɛ-pɩɛl-a Bie Yeezu u , mãa nɩ fʋ̃ʋ mɩ̀ bʋnʋ ? Ɩ̃ zɛlɛ fʋ nɩ yãayãa , a Naaŋmɩn yúor ƴãw , taa dɔwrɛ mɛ̃ ɩ . »
+41005009	bo		A Yeezu tɩ sowr ʋ na : « A fʋ yúor dɩ na kɛ bo ? » Ʋ sɔw : « Ɩ̃ yúor dɩ na kɛ : ‹ Bɛ-tɛr-nʋɔr › , tɩ na yãwmɛ̃ a ƴãw . »
+41005030	ãa		Daadaa lɛ , a Yeezu tɩ bãwnɩ a na fãw na yi a ʋ pʋɔ a . Ʋ tɩ lɩɛb ɩ a nɩ-yaga pʋɔ sowre : « Ãa n'ʋ tɔ a ɩ̃ bʋ̃-suuri ? »
+41005031	ãa		A ʋ po-tuurbɛ tɩ sɔw ʋ na : « Fʋ nyɛ̃ nɩ a zu-sɛbla na nɛbr fʋ a ziir za a , ɛ fʋ sowre : ‹ Ãa n'ʋ tɔ m ɩ ? › »
+41005035	Bʋnʋ ƴãw		A Yeezu na tɩ cãa ƴɛrɛ a , nɩbɛ tɩ yi n a puoru-dĩo nɩ-kpɛ̃ɛ yir wa yere kʋ̀rɛ a puoru-dĩo nɩ-kpɛ̃ɛ : « A fʋ pɔwyaa kpi na , bʋnʋ ƴãw n'a fʋ cãa balɛ a Wul-wul-kara ? »
+41005039a	Bʋ̃ʋ n'ʋ so		Ʋ tɩ kpɛ na yel bɛ : « Bʋ̃ʋ n'ʋ so nyɩ zɔrɛ tʋɔr taa kone ŋmɩɛr ɩ cɛlsɩ a ŋa ? A pɔwle bɛ kpi ɛ , ʋ gúre na ! »
+41005039b	~		
+41006002a	Nyɩnɛ		A pɩɛnʋ-bibir na wa vɩɛ a , ʋ tɩ kanɛ nɩ nɩ a nɩbɛ a puoru-dĩ̀ó . A nɩ-yaga na tɩ bɛrɛ wone a ʋ ƴɛrʋ a , tɩ nyɔw nɩ nʋɔr yere nɩ : « Nyɩnɛ n'a ʋ páw a a ŋa ? 
+41006002b	bʋ̃ʋ		Ɛ bʋ̃ʋ yã-bãwfʋ n'ɩ a a ŋa bɛ na kʋ̀ ʋ a , 
+41006002c	~		nɩ a nɔ-ɓãa-yele a ŋa ʋ na maalɛ a ?
+41006022	~		A Erodɩadɩ nɛ pɔwyaa tɩ kpɛ n a cuw dɩb dĩ̀ó tɩ ƴaw bɩnɛ vla , kɛ̀ nʋ̃ɔ̀ kpɛ a Erɔdɩ nɩ a ʋ cuw dem . A nãà tɩ yel ɩ a pɔwle : « Zɛlɩ bom nɛ za fʋ na bɔbr a , ɛ ɩ̃ na kʋ̀ fʋ na ! »
+41006024	Bʋ̃ʋ		A pɔwle tɩ yi na tɩ sowri a ʋ mã : « Bʋ̃ʋ n'ʋ ɩ̃ na zɛlɩ ? » A mã sɔw : « Zɛlɩ a Zã-Bati zu ! »
+41006037	~		Ɛ cɛ a Yeezu tɩ sɔw bɛ na : « A nyɩɩm tɛɛ za , nyɩ kʋ̀ bɛ a bʋ̃-dɩrɩ bɛ dɩ . » Bɛ tɩ sowr ʋ na : « Tɩ na cen na tɩ da dipɛ̃ nɩ bibie kɔbr ayi sã-ya libie wa kʋ̀ bɛ bɛ 'wɔb bɩɩ ? »
+41006038	a ŋmɩn		A Yeezu tɩ sowri bɛ na : « Dipɛ̃ a ŋmɩn n'a nyɩ tɛr ? Nyɩ cen tɩ bɛl nyɛ̃ . » Bɛ tɩ cen na tɩ sowri bãw , ɛ́ wa yel ʋ : « Dipɛ̃ anũu nɩ zʋ́mɛ ayi n'a . »
+41007005	Bʋ̃ʋ n'ʋ so		Lɛ n'a a Farizɩ̃ɛ mɩnɛ nɩ a Naaŋmɩn-Wulu-sɛ-sɛbrbɛ bɛ ŋa tɩ sowri a Yeezu : « Bʋ̃ʋ n'ʋ so a fʋ po-tuurbɛ bɛ tuur a sãakʋ̃-kore ɩ-ɩrɩ ɛ mɩ́ dɩrɛ nɩ nũ-dɛgɛ ? »
+41008004	Nyɩnɛ		A po-tuurbɛ tɩ sɔw ʋ na : « Nyɩnɛ n'a nɩr na páw dipɛ̃ a wɛja pʋɔ ka kʋ̀ bɛ bɛ dɩ tɩw ? »
+41008005	a ŋmɩn		A Yeezu tɩ sowri bɛ na : « Dipɛ̃ a ŋmɩn n'a nyɩ tɛr ? » Ɛ̀ bɛ sɔw : « Ayopõi ! »
+41008012	Bʋ̃ʋ n'ʋ so		A Yeezu vʋʋrɩ fãaa ! Ɛ yel : « Bʋ̃ʋ n'ʋ so a dɩ̃a nɩbɛ bɛ ŋa bɔbr kɛ́ bɛ nyɛ̃ bãwfʋ ? Yel-mɩŋa n'a ɩ̃ yere kʋ̀rɛ nyɩ , a dɩ̃a nɩbɛ bɛ ŋa bɛ nyɛrɛ bãwfʋ been kãw za ɩ . »
+41008017	Bʋ̃ʋ n'ʋ so		A Yeezu na tɩ bãwnɩ a , ʋ sowri bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ ŋmɩɛr a nɔkpɛn nyɩ na bɛ tɛr a dipɛ̃ a ƴãw ? Nyɩ cãa bɛ bãw a pɛr sɛr ɛ ? Nyɩ cãa bɛ nyɛrɛ ɩ ? A nyɩ yã cãa bɛ yuo ɩ ?
+41008018a	~		Nyɩ tɛr ɩ mimie , nyɩ bɛ nyɛrɛ ɩ ? 
+41008018b	~		Nyɩ tɛr ɩ tobe , nyɩ bɛ wone ɩ ? Nyɩ tɩɛrɩ nyɛ̃ ,
+41008019	a ŋmɩn		ɩ̃ na tɩ ŋma a dipɛ̃ anũu a nɩbɛ tur anũu ƴãw a , peli a ŋmɩn n'a nyɩ tɩ wob a ŋmaarɛ paalɩ ? » Ɛ̀ bɛ sɔw : « Pie nɩ ayi ! »
+41008020	a ŋmɩn		« Ɛ ɩ̃ na tɩ ŋma a dipɛ̃ ayopõi a nɩbɛ tur anaar ƴãw a , peli a ŋmɩn n'a nyɩ tɩ wob a ŋmaarɛ paalɩ ? » Ɛ̀ bɛ sɔw : « Ayopõi ! »
+41008021	~		Lɛ n'a a Yeezu lɛb yel bɛ : « Nyɩ cãa bɛ bãw a pɛr ɛ ? »
+41008023	~		A Yeezu tɩ nyɔw nɩ a zɔ̃w nũú , taw ʋ yi n a tẽw pʋɔ , tɩ ɩ mʋtaar sɔ ʋ a mimie , ɛ́ ír nuru dɔwlɩ a ʋ zu ɛ sowr ʋ : « Fʋ nyɛ̃ nɩ bom ɩ ? »
+41008027	ãa		A Yeezu nɩ a ʋ po-tuurbɛ tɩ cere nɩ a tẽli al na pɩɛlɩ a Filib tẽw Sezaare a . Ʋ tɩ sowri bɛ nɩ a sɔr zu : « A nɩsaalbɛ yere na kɛ ãa nɛ m ? »
+41008029a	~		Ʋ tɩ lɛb a sowri bɛ : « Ɛ a nyɩɩm , 
+41008029b	ãa		nyɩ yel kɛ ãa nɛ m ? » Pɩɛr tɩ de nɩ a ƴɛrʋ sɔw : « Fʋ̃ʋ n'ɩ a Naaŋmɩn Nɩ-kabra ! »
+41008036	Bʋ̃ʋ		Bʋ̃ʋ tɔnɛ n'a a nɩsaal na nyɛ̃ , ʋlɛ wa páw a tẽ-daa , ɛ a ɩ a ʋ nyɔ-vʋʋrʋ n'ʋ ʋ de da n a ?
+41008037	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ a nɩsaal na tʋ̃ɔ ya de nɩ a ʋ nyɔ-vʋʋrʋ ?
+41009010	bʋ̃ʋ		Bɛ tɩ saw nɩ a ʋ nʋɔr , ɛ sowre taa kɛ́ bʋ̃ʋ n'ɩ a kũu-pʋɔ-lɛ-yib ʋ na yere a .
+41009011	Bʋ̃ʋ n'ʋ so		Al pùorí , a ʋ po-tuurbɛ tɩ sowre ʋ na : « Bʋ̃ʋ n'ʋ so a Naaŋmɩn-Wulu-sɛ-sɛbrbɛ yere kɛ a ɩ n fɛrʋ kɛ a Eli wa baarɩ ? »
+41009012	bʋ̃ʋ ƴãw		Ʋ tɩ sɔw bɛ na : « Yel-mɩŋa n'a , a fɛr a kɛ a Eli de niwn wa , wa maalɩ bom za ƴãw ; ɛ cɛ , bʋ̃ʋ ƴãw n'a bɛ sɛb kɛ a ɩ n fɛrʋ kɛ a Nɩsaal Bie wõ tuo yaga , ɛ́ bɛ ɩ ʋ la ?
+41009016	Bʋ̃ʋ		Ʋ tɩ sowr ɩ a ʋ po-tuurbɛ : « Bʋ̃ʋ nɔkpɛn n'a nyɩɩm nɩ a bɛl ŋmɩɛr ? »
+41009019a	debor		A Yeezu tɩ de nɩ a ƴɛrʋ yel : « Alɛ ! Nyɩɩm dɩ̃a nɩbɛ na bɛ saw de Naaŋmɩn a ! Debor daar a ɩ̃ na be a nyɩ sɔgɔ tɩ ta ? 
+41009019b	debor		Nyɩ bɔbr a k'ɩ̃ɩ cãa wõne nɩ nyɩ a tuo ɛ gu debor ? Nyɩ tɛr a bie wa kʋ̀ m ! »
+41009021	Debor		A Yeezu tɩ sowr ɩ a sãà : « Debor daar a a tĩ ʋ ? » Ʋ sɔw : « A ʋ bibile daarɩ za n'a .
+41009028	Bʋ̃ʋ n'ʋ so		A Yeezu na tɩ lɛb kul a yir a , a ʋ po-tuurbɛ tɩ sowri ʋ nɩ bɛ tɛwr zie : « Bʋ̃ʋ n'ʋ so a tɩɩm , tɩ bɛ tʋ̃ɔ diw a kɔ̃tɔ̃n ŋa ? »
+41009033	Bʋ̃ʋ		Bɛ tɩ ta n a Kafarnawɔm . Bɛ na wa ta a yir a , a Yeezu sowr ɩ a ʋ po-tuurbɛ : « Bʋ̃ʋ nɔkpɛn n'a nyɩ tɩ ŋmɩɛr a sɔr zu ? »
+41009050	bʋ̃ʋ		A nyaarʋ ɩ n bʋ̃-nʋ̃ɔ̀ ; ɛ cɛ a nyaarʋ nʋ̃ɔ̀ wa yi a , bʋ̃ʋ n'a nyɩ na ƴãw a lɛb nʋmɛ̃ ? Nyɩ tɛr nyaarʋ a nyɩ pʋ̃ɔmɩ́ , ɛ ɩrɛ ƴã-ɓaarʋ ɩb kʋ̀rɛ taa . »
+41010003	buor		Ʋ tɩ sɔw na : « Nɔ-buor ʋ a Mõyiir ƴãw kʋ̀ nyɩ ? »
+41010017	Bʋ̃ʋ n'ʋ		A Yeezu na tɩ lore a sɔr a , nɩr kãw tɩ zɔ na wa lo gbĩ dume a ʋ niŋé ɛ sowri ʋ : « Wul-wul-kara a , fʋ̃ʋ na ɩ nɩ-vla a , bʋ̃ʋ n'ʋ ɩ̃ na ɩ tʋ̃ɔ páw a nyɔ-vʋʋrʋ na be kʋra lɛ a ? »
+41010018	Bʋ̃ʋ n'ʋ so		A Yeezu tɩ sowri ʋ na : « Bʋ̃ʋ n'ʋ so fʋ bʋɔlɛ mɛ̃ nɩ-vla ? Nɩr za bɛ vɩɛl ʋ bɛ ɩ Naaŋmɩn yõ ɩ .
+41010026	ãa		A ʋ po-tuurbɛ lɛ bãw nyɔw nʋɔr ɛ sowre taa : « Alɛ wa ɩ a ŋa a , ãa n'ʋ pãa na tʋ̃ɔ nyɛ̃ a faafʋ a ? »
+41010036	Bʋ̃ʋ n'ʋ		A Yeezu tɩ sowri bɛ na : « Bʋ̃ʋ n'ʋ nyɩ bɔbr k'ɩ̃ɩ ɩ kʋ̀ nyɩ ? »
+41010051	Bʋ̃ʋ n'ʋ		A Yeezu tɩ sowri ʋ na : « Bʋ̃ʋ n'ʋ fʋ bɔbr k'ɩ̃ɩ ɩ kʋ̀ b ? » A zɔ̃w tɩ sɔw na : « Arabuni i , ɩ̃ lɛ nyɛrɛ ! »
+41011003	Bʋnʋ ƴãw		Ɛ nɩr wa sowre nyɩ : ‹ Bʋnʋ ƴãw n'a nyɩ ɩrɛ a a ŋa ? › Nyɩɩm yel ʋ : ‹ A Sore tɛr ɩ a bõw bile yel-ɩra , ɛ ʋ na lɛb a bɛr ʋ ʋ wa a ka daadaa lɛ . › »
+41011005	Bʋnʋ ƴãw		Nɩbɛ bɛ mɩnɛ na tɩ be a be a , tɩ sowri bɛ na : « Bʋnʋ ƴãw n'a nyɩ cɛrɛ a bõw bile ŋa ? »
+41011028a	Nyɩnɛ		Bɛ tɩ sowr ʋ na : « Nyɩnɛ n'a fʋ páw sɔr tone nɩ a a ŋa ? 
+41011028b	ãa		Bɩɩ ãa n'ʋ kʋ̀ fʋ sɔr , kɛ́ fʋ ɩrɛ a a ŋa fʋ na ɩrɛ a ? »
+41011030	nyɩnɛ		A suob a Zã na tɩ tɩrɛ a , nyɩnɛ n'a ʋ yi ? Naaŋmɩn zie n'a bɩɩ nɩsaalbɛ zie n'a ? Nyɩ sɔw kʋ̀ m ! »
+41011031a	~		Bɛ tɩ tɩɛrɛ na ƴɛrɛ nɩ a ŋa a bɛ cara pʋɔ : « Tɩmɛ wa yel : 
+41011031b	Bʋ̃ʋ n'ʋ so		‹ Naaŋmɩn zie n'a ʋ yi › , ʋ na sowri tɩ na : ‹ Bʋ̃ʋ n'ʋ so nyɩ bɛ saw de ʋ ? ›
+41012009	Bʋ̃ʋ n'ʋ		A Yeezu tɩ sowri bɛ na : « Bʋ̃ʋ n'ʋ a púo sob na ɩ ? Ʋ na wa na wa kʋ́ a po-kaarbɛ ɛ de a púo kʋ̀ nɩ-yoru .
+41012015	Bʋ̃ʋ n'ʋ so		Ɛ cɛ a Yeezu na tɩ bãwnɩ a kɛ bɛ sɔwlɛ nɩ a bɛ pʋ-tɩɛrʋ a , ʋ yel bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ yel kɛ nyɩ ŋmãa mɛ̃ pùor ? Nyɩ wa n libir ɩ̃ jɩr nyɛ̃ ! »
+41012016a	ãa		Bɛ tɩ de nɩ kãw wa n , a Yeezu wa sowri bɛ : « Ãa niwn nɩ 
+41012016b	ãa		ãa yúor ɩ a a ŋa na wi a libir zu a ? » Bɛ sɔw : « Sezaar dem a ! »
+41012023	ãa		A kũu-pʋɔ-lɛ-yib daar bɛlɛ wa lɛb yi a , ãa na so a pɔw ŋa , bɛ za na faa kul ʋ a ? »
+41012028	buor		Naaŋmɩn-wulu sɛ-sɛbrɛ kãw na tɩ wõ a bɛ nɔkpɛn a , ɛ nyɛ̃ kɛ a Yeezu sɔw nɩ vla kʋ̀ a Sadiseyɛ̃ mɩnɛ a , tɩ taw na pɩɛlɩ ɛ sowri : « A Naaŋmɩn nɛ-ƴãwnɩ za pʋɔ a , nɔ-buor ɩ a dãw-niwn sob ? »
+41012035	ŋmɩŋmɩn		A Yeezu na tɩ kanɛ nɩ a nɩbɛ a Ŋmɩn-yi-kpɛ̃ɛ pʋɔ a , ʋ wa tɩ sowr ɩ a sowru ŋa : « Ŋmɩŋmɩn za n'a a Naaŋmɩn-Wulu-sɛ-sɛbrbɛ yel kɛ a Naaŋmɩn Nɩ-kabra ɩ n Daviir bi-dɛb ?
+41012037	ŋmɩŋmɩn		A Daviir tɔr za bʋɔlɛ ʋ nɩ Sore , ɛ ŋmɩŋmɩn za n'a ʋ na tʋ̃ɔ ɩ a ʋ bi-dɛb ? » Naaŋmɩn-Wulu-sɛ-sɛbrbɛ ƴãw Zu-sɛbla na bɛ tɛr vuo a , tɩ bɛrɛ na wone a Yeezu ƴɛrʋ nɩ nʋ̃ɔ̀ .
+41013004a	debor		« Yel kʋ̀ tɩ , debor a a yele a ŋa na ta ? 
+41013004b	buor		Ɛ bãwfʋ buor ʋ na wul kɛ a yele a ŋa ta na ? »
+41014004	Bʋ̃ʋ		Bɛ mɩnɛ kãw na tɩ be a be a , tɩ nyɛ̃ nɩ suur yere nɩ kʋ̀rɛ taa : « Bʋ̃ʋ pãa so bɛ sãw a kãa a ŋa bɛr a ŋa a ?
+41014006	Bʋnʋ ƴãw		Ɛ cɛ a Yeezu tɩ yel bɛ na : « Nyɩ bɛr ʋ , bʋnʋ ƴãw n'a nyɩ balɛ ʋ ? Yel-vla n'ʋ ʋ maalɩ a ɩ̃ zie .
+41014012	Nyɩnɛ		A dipɛ̃ na bɛ ƴãw dãbɩl a cuw bibi-dãw-niwn sob , a ʋlɩ bibir bɛ na mɩ́ kʋ́ a péli a Tɔlʋ cuw dɩb ƴãw a , a Yeezu po-tuurbɛ tɩ yel ʋ na : « Nyɩnɛ n'a fʋ bɔbr kɛ́ tɩ cen tɩ cɔbrɩ a Tɔlʋ cuw bʋ̃-dɩrɩ fʋ dɩ ? »
+41014014	nyɩnɛ		ɛ be za ʋ nãa wa kpɩɛr a , nyɩ yel a yir sob : ‹ A Wul-wul-kara sowre na : nyɩnɛ n'a a ɩ̃ dĩo be , mãa nɩ a ɩ̃ po-tuurbɛ na na zɩ̃ dɩ a Tɔlʋ cuw a ? ›
+41014060a	~		A bawr-maal-kara tɩ ìr ɩ a nɩbɛ sɔgɔ sowri a Yeezu : « A a ŋa za bɛ na yere caarɛ nɩ fʋ a , 
+41014060b	~		fʋ bɛ sɔwr bom za ɩ ? »
+41014063	Bʋnʋ ƴãw		A lɛ n'a a bawr-maal-kara taw a ʋ kparɩ cɩɛrɩ ɛ yel : « Bʋnʋ ƴãw n'a tɩ cãa bɔbr dãsɩɛ dem ?
+41014064	ŋmɩn		Nyɩ wõ n a zʋm ʋ na tʋ a Naaŋmɩn a . Nyɩ tɩɛr ɩ ŋmɩn ? » Bɛ za sɔw k'ʋʋ sãw na ɛ sɛwnɩ a kũu .
+41015004	~		A Pɩlatɩ tɩ lɛb a sowri ʋ : « Fʋ bɛ sɔwr bom za ɩ ? Jɩr nyɛ̃ a sãwna bɛ na manɛ dɔwlɛ a fʋ zu sɛw a ? »
+41015012	ŋmɩn		A Pɩlatɩ tɩ lɛb a de a ƴɛrʋ sowri bɛ : « A sob ŋa nyɩ na bʋɔlɛ a Zifʋ mɩnɛ nãà a , ɩ̃ ɩ ʋ ŋmɩn ? »
+41015014a	~		A Pɩlatɩ sowri bɛ : 
+41015014b	Bʋ̃ʋ n'ʋ		« Bʋ̃ʋ n'ʋ ʋ nɩ̃ɛ sãw ? » Bɛ lɛb bãw cɩɩrɛ kpɛ̃w za yere nɩ : « Kpa ʋ da-gara zu ! »
+41015034	Bʋ̃ʋ n'ʋ so		A gbele ata na wa ta a , a Yeezu ŋmɛ n cɛl kpɛ̃w za yel : « Elɔɩ , Elɔɩ , lema sabaktanɩ ! » A pɛr lɛ kɛ : « Ɩ̃ Naaŋmɩn ɩ , ɩ̃ Naaŋmɩn ɩ , bʋ̃ʋ n'ʋ so fʋ zawrɩ mɛ̃ bɛr ? »
+41016003	ãa		Bɛ tɩ yere na kʋ̀rɛ taa : « Ãa n'ʋ na tɩ bìlì a bɔw nʋɔr kʋsɩɛr bɛr tɩ ? »
+42001018	ŋmɩŋmɩn		A Zakari tɩ sowr ɩ a malkɩ : « Ŋmɩŋmɩn n'a ɩ̃ na ɩ tɩ bãw kɛ a na tu n a a ŋa ? Mãa n'ɩ ŋa ɩ dɛ-nyãw ɛ a ɩ̃ pɔw mɩ̀ kor . »
+42001034	Ŋmɩŋmɩn na		A Marya tɩ yel ɩ a malkɩ : « Ŋmɩŋmɩn n'a a na ɩ tɩ ɩ a lɛ , Ɩ̃ na bɛ bãw dɛb a ? »
+42001043	wa		Mãa mɩ̀ n'ɩ ãnʋ , a ɩ̃ Sore mã tɔr za sʋ̃ɔmɩ ìr wa a ɩ̃ zie ?
+42001066	ŋmɩŋmɩn		A bɛlɩ dem za na tɩ wone a yele a ŋa a , tɩ de na ƴãw a bɛ socie pʋɔ , ɛ yere : « Ŋmɩŋmɩn n'a a bie ŋa pãa na wa ŋmɛ̃ a ? » A Sore fãw tɩ sɩrɩ na be a ʋ zie .
+42002048	Bʋ̃ʋ n'ʋ so		A Yeezu sãà nɩ a ʋ mã na tɩ nyɛ̃ ʋ a , nʋɔr ɓãa bɛ na , ɛ a mã yel ʋ : « Ɩ̃ bie e , bʋ̃ʋ n'ʋ so fʋ ɩ tɩ a ŋa ? Nyɛ̃ , mãa nɩ a fʋ sãà pĩ n pee bɔbr ɩ fʋ gʋɔrɩ . »
+42002049	Bʋnʋ ƴãw		Ʋ tɩ sɔw bɛ na : « Bʋnʋ ƴãw n'a nyɩ nɩ̃ɛ bɔbr mɛ̃ ? Nyɩ bɛ tɩ bãw kɛ a fɛr a k'ɩ̃ɩ be a ɩ̃ sãà yir pʋɔ ɩ ? »
+42003007	ãa		A Zã tɩ yere na kʋ̀rɛ a zu-sɛbla na tɩ waar a ʋ zie a suob deb a : « Dɔpan bʋʋrɛ bɛ ŋa ! Ãa n'ʋ wul nyɩ a lɛ nyɩ na na ɩ nɩɩrɩ a Naaŋmɩn ƴɛrʋ maalʋ suur na waar a bɛr ?
+42003010	Bʋ̃ʋ n'ʋ		A zu-sɛbla tɩ sowre ʋ na : « Bʋ̃ʋ n'ʋ a fɛr kɛ tɩ pãa ɩrɛ a ? »
+42003012	Bʋ̃ʋ n'ʋ		A zuru-yar-dierbɛ mɩ̀ tɩ wa na wa de a suob ɛ sowri ʋ : « Wul-wul-kara a , bʋ̃ʋ n'ʋ a fɛr kɛ tɩ ɩrɛ ? »
+42003014a	~		Sojarɩ mɩ̀ tɩ sowri ʋ na : « Ɛ tɩɩm , 
+42003014b	bʋ̃ʋ n'ʋ		bʋ̃ʋ n'ʋ a fɛr kɛ tɩ ɩrɛ ? » Ʋ tɩ sɔw bɛ na : « Nyɩ ta farɛ bɩɩ ŋmarɛ ziri dier nɩr libir ɛ , nyɩ mɩ́ de a nyɩ yar tɛwr . »
+42004034	bʋnʋ̀		« Alɛ wɛ ! Tɩɩm nɩ fʋ̃ʋ mɩ̀ bʋnʋ̀ , Nazarɛtɩ tẽw Yeezu u ? Fʋ wa na kɛ fʋ wa ɩ tɩ lo . Ɩ̃ bãw fʋ na : a Naaŋmɩn Nɩ-sõw nɛ b ! »
+42004036	bʋ̃ʋ		Dɛ̃bɩ̃ɛ tɩ nyɔw nɩ a bɛlɩ dem za na tɩ be a be a , bɛ yere kʋ̀rɛ taa : « Ƴɛr-bʋ̃ʋ n'ɩ a ŋa ? Ʋ mɩ́ tanɩ nɩ a kɔ̃tɔ̃-faar nɩ fãw k'aa yi , ɛ a yi . »
+42005021a	ãa		A Naaŋmɩn-Wulu-sɛ-sɛbrbɛ nɩ a Farizɩ̃ɛ mɩnɛ tɩ tɩɛrɛ na : « Ãa n'ɩ a sob ŋa na tʋʋr a Naaŋmɩn zʋmɛ a ? 
+42005021b	buor		Nɩ-buor sob ʋ na tʋ̃ɔ dɩ a yel-bebe suur a bɛ ɩ Naaŋmɩn yõ ? »
+42005022	Bʋ̃ʋ n'ʋ so		Ɛ cɛ a Yeezu na tɩ bãw a bɛ tɩɛrʋ a , ʋ sɔw na yel bɛ : « Bʋ̃ʋ n'ʋ so a tɩɛrʋ a ŋa taabɛ be a nyɩ zie ?
+42005023	Abobe		Abobe sob a ɩ kayãan zuo : ɩ̃ na na yel a gbɛr : fʋ páw nɩ a fʋ yel-bebe suur , bɩɩ ɩ̃ na na yel ʋ : ìr cere a ?
+42005030	Bʋ̃ʋ n'ʋ so		A Farizɩ̃ɛ mɩnɛ nɩ a bɛ Naaŋmɩn-Wulu-sɛ-sɛbrbɛ tɩ 'hũ'hune na yere kʋ̀rɛ a Yeezu po-tuurbɛ : « Bʋ̃ʋ n'ʋ so nyɩ lãw nɩ zuru-yar-dierbɛ nɩ yel-bebe dem dɩrɛ ɛ nyúur ? »
+42005033	~		A Farizɩ̃ɛ mɩnɛ tɩ yel ɩ a Yeezu : « A Zã po-tuurbɛ nɩ a tɩ po-tuurbɛ mɩ́ tɛr ɩ a mʋta-tuo kʋra lɛ puore nɩ , ɛ cɛ a fʋ po-tuurbɛ cãa dɩrɛ ɛ nyúur . »
+42005034	~		A Yeezu tɩ sɔw na yel bɛ : « Nyɩ tɩɛrɛ kɛ nyɩ na tʋ̃ɔ na fɛr kul-taa cuw dem ƴãw bɛ tɛr mʋta-tuo ɛ a dɛb-sãan be a bɛ zie e ?
+42006002	Bʋ̃ʋ n'ʋ so		Farizɩ̃ɛ bɛ mɩnɛ kãw tɩ yel bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ tone ton na bɛ sɛw a pɩɛnʋ-bibir a ? »
+42006009	~		A Yeezu yel bɛ : « Nyɩɩm n'a ɩ̃ sowre : a pɩɛnʋ-bibir a , vla n'a a nɩr tɛr sɔr na tʋ̃ɔ maalɩ bɩɩ faa n'a ? Nɩr ʋ a sob tɛr sɔr na faa bɩɩ na bɛr ʋ kpi ? »
+42006032	bʋ̃ʋ		Nyɩmɛ wa nɔnɛ a bɛlɩ dem na nɔnɛ nyɩ a tɛwr a , bʋ̃ʋ maalʋ n'a nyɩ na gùre a pʋɔ ? A yel-bebe dem mɩ̀ mɩ́ nɔnɛ nɩ a bɛlɩ dem na nɔnɛ bɛ a .
+42006033	bʋ̃ʋ		Nyɩmɛ wa maalɛ a bɛlɩ dem na maalɛ nyɩ a tɛwr a , bʋ̃ʋ maalʋ n'a nyɩ na gùre a pʋɔ ? A yel-bebe dem tɛɛ za mɩ̀ ɩrɛ nɩ a lɛ .
+42006034	bʋ̃ʋ		Nyɩmɛ mɩ́ wa pɛ̃w a nyɩ bom kʋ̀ a bɛlɩ dem nyɩ na bãw kɛ bɛ nãa tʋ̃ɔ na lɛb kʋ̀ nyɩ a , bʋ̃ʋ maalʋ n'a nyɩ na páw a pʋɔ ? A yel-bebe dem mɩ̀ mɩ́ pɛ̃wn nɩ taa bome , kɛ́ bɛ mɩ̀ mɩ́ wa pẽw bɛ yaa a sãn .
+42006039	~		A Yeezu mɩ̀ tɩ lɔb ɩ zʋkpar kʋ̀ bɛ yel : « Zɔ̃w na tʋ̃ɔ na tawr zɔ̃w ɩ ? Bɛ za ayi kʋ̃ lo bɔw pʋɔ ɩ ?
+42006041	bʋ̃ʋ ƴãw		Bʋ̃ʋ ƴãw n'a fʋ jɩrɛ a sawr na be a fʋ yɛb mímírí a , ɛ bɛ nyɛ̃ a wɛw na be a fʋ dem pʋɔ a ?
+42006042	ŋmɩŋmɩn		Ŋmɩŋmɩn n'a fʋ na tʋ̃ɔ yel a fʋ yɛb : ‹ Ɩ̃ yɛb ɩ , alɛ ɩ̃ ír sawr bɛr a fʋ mímírí ! › Ɛ a fʋ̃ʋ mɩŋa nɩ̃ɛ bɛ nyɛ̃ a wɛw na be a fʋ mímírí a ? Nɩsaal-libelibe ŋa ! De niwn ír a wɛw bɛr a fʋ mímírí , lɛ n'a fʋ na nyɛrɛ pãa ír a sawr bɛr a fʋ yɛb mímírí . »
+42006046	bʋ̃ʋ ƴãw		« Bʋ̃ʋ ƴãw n'a nyɩ mɩ́ yere a ɩ̃ zie : ‹ Sore e , Sore e › , ɛ bɛ mɩ́ tuur a lɛ ɩ̃ na yere a ?
+42007024	Bʋ̃ʋ n'ʋ		A nɩbɛ bɛl a Zã na tɩ tõ a , na wa lɛb kul a , a Yeezu nyɔw nɩ a Zã ƴɛrʋ ƴɛrɛ a zu-sɛbla zie yere nɩ : « Bʋ̃ʋ n'ʋ nyɩ cen a wɛja-kpalɛ pʋɔ kɛ́ nyɩ tɩ nyɛ̃ ? Bàa-kɛkɛr sɛsɛb na fure damnɛ a n'ʋ ʋ ?
+42007025	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ nyɩ cen tɩ nyɛ̃ mɔ̃ ? Nɩr na su dɛpaal-bome a n'ʋ ʋ ? Ɛ cɛ a dɛpaal-kpar-suurbɛ nɩ a nʋ̃ɔ̀-wonbɛ a , na-mɩnɛ yie pʋɔ n'a bɛ mɩ́ kpɩɛr .
+42007026	Bʋ̃ʋ n'ʋ		Ɛ bʋ̃ʋ n'ʋ nyɩ nɩ̃ɛ cen tɩ nyɛ̃ ? Naaŋmɩn-ƴɛr-manɛ n'ʋ ʋ ? Ʋ̃ʋ , mãa n'ʋ yere kʋ̀rɛ nyɩ , ʋ zuo nɩ Naaŋmɩn-ƴɛr-manɛ .
+42007031a	ãa		A Yeezu tɩ yel a ƴãw pʋɔ : « Ãa n'ʋ ɩ̃ pãa na de a dɩ̃a nɩbɛ bɛ ŋa man nɩ a ? 
+42007031b	ãa		Ãa n'ʋ bɛ pãa ŋmɛ̃ taa nɩ a ?
+42007042	buor		A bɛ kãw za na bɛ tɩ tɛr a na ya a , ʋ bɛr ɩ bɛ za ayi a bɛ sãmɛ . A bɛ buor sob n'ʋ na nɔ̃w ʋ zuo a ʋ tɔ ? »
+42007049	bʋ̃ʋ		Ɛ cɛ a bɛlɩ dem na tɩ lãw dɩrɛ nɩ a Yeezu a , tɩ tĩ na tɩɛrɛ bɛ pʋɔ : « Nɩ-bʋ̃ʋ n'ɩ a nɩr ŋa na sʋ̃ɔmɩ mɩ́ dɩ a yel-bebe suur a ? »
+42008025a	wa		A Yeezu tɩ yel ɩ a ʋ po-tuurbɛ : « A nyɩ Naaŋmɩn-sawfʋ wa ? » Ɛ cɛ dɛ̃bɩ̃ɛ tɩ nyɔw bɛ na ɛ nʋɔr ɓãa bɛ , bɛ yere kʋ̀rɛ taa : 
+42008025b	ŋmɩŋmɩn		« Nɩ-ŋmɩŋmɩn n'ɩ a nɩr ŋa ? Ʋlɛ n'ɩ ŋan mɩ́ ƴɛr a sɛsɛb nɩ a kʋ̃ɔ zie , ɛ a saw a ʋ nʋɔr . »
+42008028	bʋnʋ		Ʋ na wa nyɛ̃ a Yeezu a , ʋ kõ na cɩɩrɩ ɛ lo gbĩ dume a ʋ pile , ɛ vaa kɔkɔr yel : « Naaŋmɩn-na-do-saa-bɛ-pɩɛl-a Bie Yeezu u , mãa nɩ fʋ̃ʋ mɩ̀ bʋnʋ ? Ɩ̃ zɛlɛ fʋ nɩ yãayãa , taa dɔwrɛ mɛ̃ ɩ ! »
+42008030	bo		A Yeezu tɩ sowr ʋ na : « A fʋ yuór dɩ na kɛ bo ? » Ʋ tɩ sɔw na yel : « Ɩ̃ yuór dɩ na kɛ ‹ Bɛ-tɛr-nʋɔr . › » Kɔ̃tɔ̃-yaga tɩ sɩrɩ na kpɛ a ʋ pʋɔ .
+42008045	ãa		A Yeezu tɩ sowr a : « Ãa n'ʋ tɔ m ? » Ŋa za na mɩ́ tɩ yel kɛ ʋlɛ bɛ n'ʋ a , a Pɩɛr tɩ yel a : « Wul-wul-kara a , a zu-sɛbla jil a pàw fʋ ɛ fɩɩrɩ fʋ a ziir za ! »
+42009009a	ãa		Ɛ cɛ a Erɔdɩ tɩ yel a : « Ɩ̃ ƴãw na bɛ ŋmãa a Zã zu . Ɛ ãa n'ɩ a sob ŋa ɩ̃ na wone bɛ manɛ a yele a ŋa taabɛ caarɛ nɩ a ? » Ɛ́ tɩ bɔbr k'ʋʋ nyɛ̃ a Yeezu .
+42009009b	~		
+42009018	ãa		Bibir kãw , a Yeezu na tɩ puore ʋ yõ zie , ɛ a ʋ po-tuurbɛ be a be a , ʋ tɩ sowri bɛ nɩ a sowru ŋa : « A nɩbɛ zie a , ãa nɛ m ? »
+42009020a	~		A Yeezu lɛb sowri bɛ : « A nyɩɩm zie a , 
+42009020b	ãa		ãa nɛ m ? » A Pɩɛr tɩ sɔw na yel : « A Naaŋmɩn Nɩ-kabra nɛ b . »
+42009025	Bʋ̃ʋ		Bʋ̃ʋ tɔnɛ n'a a nɩsaal na nyɛ̃ , ʋ na na páw a tẽ-daa za , ɛ bɔr ʋ mɩŋa bɩɩ wɛ a ?
+42009041a	Debor		A Yeezu tɩ sɔw na : « Nɩsaal-faar bɛ ŋa , nɩ nɩbɛ na bɛ saw de Naaŋmɩn a ! Debor a ɩ̃ na cãa be a nyɩ zie tɩ ta ? 
+42009041b	Debor		Debor a , ɩ̃ na cãa wõ n nyɩ a tuo tɩ ta ? Tɛr a fʋ bie wa n a ka . »
+42010025	Bʋ̃ʋ n'ʋ		Lɛ n'a Naaŋmɩn-Wulu bãw-bãw-kara kãw tɩ ìr ŋmãa a Yeezu pùor sowr ʋ : « Wul-wul-kara a , bʋ̃ʋ n'ʋ ɩ̃ na ɩrɛ páw a nyɔ-vʋʋrʋ na be kʋra lɛ a ? »
+42010026a	Bʋ̃ʋ n'ʋ		A Yeezu yel ʋ : « Bʋ̃ʋ n'ʋ bɛ sɛb a Naaŋmɩn-Wulu sɛbɛ pʋɔ ? 
+42010026b	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ fʋ mɩ́ kanɩ a ʋ pʋɔ ? »
+42010029	ãa		Ɛ cɛ a Naaŋmɩn-Wulu bãw-bãw-kara nɛ na tɩ bɔbr k'ʋʋ wul a ʋ yel-mɩŋa a , ʋ tɩ lɛb a sowri a Yeezu : « Ãa n'ɩ a ɩ̃ tɔ sob ? »
+42010036a	~		« Fʋ̃ʋ na nyɛ̃ a , a nɩbɛ ata bɛ ŋa pʋɔ a , 
+42010036b	buor		buor sob ʋ ɩ a tɔ ɩb a nɩr ŋa na lo a nyãnyuwr nuru pʋɔ a zie ? »
+42011008	~		Mãa n'ʋ yere kʋ̀rɛ nyɩ : ʋlɛ saa bɛ wa ìr kʋ̀ ʋ a báalʋ zũú a , ʋ na ìr a , a niwn a ʋ bá na sɔbr ʋ a ƴãw , ɛ ʋ na kʋ̀ ʋ nɩ a alɩ bome nɛ za ʋ na bɔbr a .
+42011011	buor		A nyɩ pʋɔ a , sãà buor ʋ a bie na zɛlɛ zʋ́m , ʋ nyɔw waab kʋ̀ ʋ ?
+42011012	~		Bɩɩ ʋ na zɛlɛ nɔ-jɛl , ʋ kʋ̀ ʋ nãw ?
+42011013	ŋmɩŋmɩn		A lɛ pʋɔ , nyɩɩm na ɩ nɩ-faar a , nyɩmɛ wa bãw bʋ̃-vɩɛlɩ mɩ́ kʋ̀ a nyɩ bibiir a , ŋmɩŋmɩn za n'a a nyɩ Sãà na be a tẽ-vla pʋɔ a , kʋ̃ kʋ̀ a Vʋʋrʋ Sõw a bɛlɩ dem na zɛlɛ ʋ a ? »
+42011018	ŋmɩŋmɩn		A Sɩtaana mɩ̀ wa bʋ́r lɛ ŋmɛlɩ zɛbr ɩ ʋ tʋɔra a , ŋmɩŋmɩn n'a a ʋ naalʋ tẽw na ar ? Nyɩ na yel kɛ Bɛlɩzebul fãw n'a ɩ̃ diwr ɩ a kɔ̃tɔmɛ a .
+42011019	ãa		Ɛ alɛ wa ɩ Bɛlɩzebul n'ʋ kʋ̀ m a fãw ɩ̃ diwr ɩ a kɔ̃tɔmɛ a , a nyɩ po-tuurbɛ , ãa n'ʋ kʋ̀ bɛ a fãw bɛ mɩ̀ diwr ɩ a kɔ̃tɔmɛ ? Lɛ so , bɛl tɛɛ za nɛ bɛ na dɩ n nyɩ a ƴɛrʋ yel a nyɩ sãwna .
+42012014	ãa		A Yeezu tɩ sɔw ʋ na : « Ɩ̃ bá a , ãa n'ʋ ƴãw mɛ̃ k'ɩ̃ɩ ɩ a nyɩ ƴɛr-maalɛ bɩɩ a nyɩ bʋ̃-pone ? »
+42012017	ŋmɩn		Ʋ tɩ sowr ɩ ʋ tʋɔra : ‹ Ɩ̃ na ɩ n ŋmɩn ? Ɩ̃ bɛ bãw be ɩ̃ na na ƴãw a ɩ̃ bʋ̃-dieri a ɩ ! ›
+42012020	ãa		Ɛ cɛ a Naaŋmɩn tɩ yel ʋ na : ‹ Dãbol ŋa ! A dɩ̃a tɩ̃ɩsɔw tɔr za , a fʋ nyɔ-vʋʋrʋ na baar a . A a ŋa fʋ na bɔ gbõ taa a , ãa na so a ? › »
+42012024	~		Nyɩ nyɛ̃ a gbagbarɩ a , a bɛ mɩ́ bʋ̀r ɛ , bɛ mɩ́ cɛ ɩ , a bɛ tɛr dĩo ɛ , bɛ tɛr bowr mɩ́ maal bin a bʋ̃-dɩrɩ ɛ , ɛ cɛ Naaŋmɩn guole a na . Nyɩ zuo nɩ a mʋ̃ɔ pʋɔ lili yaga za .
+42012025	buor		A nyɩ buor sob ʋ na tʋ̃ɔ tɩɛrɛ za wa páw nyɔ-vʋʋr-ŋmale dɔwlɩ a ʋ nyɔ-vʋʋrʋ zu ?
+42012026	Bʋ̃ʋ n'ʋ so		Nyɩ na bɛ tɛr fãw a yel-cãpile ŋa tɔ ƴãw a , bʋ̃ʋ n'ʋ so nyɩ zɔrɛ dɛ̃bɩ̃ɛ a ŋmaarɛ al na cɛ a ƴãw ?
+42012042	buor		A Sore tɩ sɔw na : « Bʋ̃-kaarɛ vla buor sob ʋ , bãw yã , a zu-sob na ƴãw k'ʋ dɩ nɩ-kpɛ̃ɛnʋ a ʋ yir nɩbɛ zu , kɛ́ a daar mɩ́ wa ta a , ʋ̃ʋ manɩ a ci kʋ̀ bɛ ?
+42012049	Bʋ̃ʋ n'ʋ		« Vũu n'a ɩ̃ wa n wa ƴãw a tẽ-daa zu , ɛ bʋ̃ʋ n'ʋ ɩ̃ bɔbr , a bɛ ɩ kɛ a dɩrɛ ?
+42012056	Bʋ̃ʋ n'ʋ so		Nɩsaal-libelibe bɛ ŋa ! Nyɩ mɩ́ tʋ̃ɔ na bãw a salom nɩ a tẽsɔw ŋmɛ̃a , ɛ bʋ̃ʋ n'ʋ so nyɩ bɛ bãwnɛ a ƴɛrɛ ŋa zie ŋmɛ̃a ? »
+42012057	Bʋ̃ʋ n'ʋ so		« Bʋ̃ʋ n'ʋ so a nyɩɩm mɩŋa kʋ̃ tʋ̃ɔ bãw a lɛ a na tɛr sɔr kɛ nyɩ ɩ a ?
+42013004	~		Ɛ a nɩbɛ pie nɩ anĩ bɛl a Silowe yi-cõcowla na lo dĩ kʋ́ a , nyɩ tɩɛrɛ kɛ a bɛ sãwna zuo nɩ a Zeruzalɛm tẽw dem za sãwna bɩɩ ?
+42013007	bʋ̃ʋ ƴãw		Lɛ n'a ʋ tɩ yel a divɛ̃-tɩɩr po-kʋɔrɛ : ‹ Nyɛ̃ ! yome ata n'ɩ yuona , ɩ̃ na mɩ́ wa k'ɩ̃ɩ wa pɔr kãkãmɛ̃ a tɩɛ ŋa zu , ɛ bɛ mɩ́ wa nyɛ̃ a a . Cɛ ʋ bɛr , bʋ̃ʋ ƴãw n'a ʋ sãwnɛ a tẽsɔw bɛrɛ ? ›
+42013015	buor		A Sore tɩ sɔw ʋ na : « Nɩsaal-libelibe bɛ ŋa ! A nyɩ buor sob ʋ bɛ mɩ́ cɛr a ʋ naab bɩɩ a ʋ bõw cen nɩ tɩ ƴãw a kʋ̃ɔ a pɩɛnʋ-bibir ?
+42013018a	Bʋ̃ʋ n'ʋ		A lɛ n'a a Yeezu tɩ yel : « Bʋ̃ʋ n'ʋ a Naaŋmɩn-Naalʋ ŋmɛ̃ taa nɩ ? 
+42013018b	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ ɩ̃ na de ʋ man cɔwr ɩ ?
+42013020	Bʋ̃ʋ n'ʋ		A Yeezu tɩ yel a ƴãw pʋɔ : « Bʋ̃ʋ n'ʋ ɩ̃ na de a Naaŋmɩn-Naalʋ man cɔwr ɩ ?
+42013025	~		« A yir sob wa ìr pàw a pan baar a , nyɩmɛ wa be a yẽw ɛ kpawrɛ a pan yere nɩ : ‹ Sore e , yuo tɩ › , ʋ na sɔw nyɩ na : ‹ Ɩ̃ bɛ bãw nyɩ yib zie ɩ . ›
+42014005	buor		Al pùorí ʋ yel bɛ : « A nyɩ buor sob bie bɩɩ naab ʋ na lo bule pʋɔ ʋ bɛ cen tɩ ír ʋ daadaa lɛ , a pɩɛnʋ-bibir saa n'a a ? »
+42014028	buor		A nyɩ buor sob ʋ na bɔbr k'ʋʋ ŋmãa yi-cõcowla , ɛ́ bɛ dãw de niwn zɩ̃ tẽw sɔr a libie nyɛ̃ , a na ta na bɩɩ a kʋ̃ ta .
+42014031	buor		Bɩɩ , na-buor sob ʋ na ìr tuore a ʋ tɔ sob kɛ́ bɛ zɛb , ɛ́ bɛ dãw de niwn zɩ̃ kɛ bɛl nyɛ̃ , ʋ na tʋ̃ɔ na nɩ nɩbɛ tur pie zɛb ɩ a ʋ tɔ sob na waar a ʋ ƴãw nɩ nɩbɛ tur lɩzɛr a bɩɩ ?
+42014034	bʋ̃ʋ n'ʋ		« Sɩza n'a , a nyaarʋ ɩ n bʋ̃-nʋ̃ɔ̀ . Ɛ cɛ a nyaarʋ nʋ̃ɔ̀ wa yi a , bʋ̃ʋ n'ʋ bɛ na ƴãw a lɛb nʋmɛ̃ ?
+42015004	buor		« A nyɩ buor sob ʋ na tɛr píir kʋba , a pɛr-been wa bɔr , ʋ bɛ tɩɛ a kʋba for bir al bɛr a wɛja pʋɔ , ɛ bɔ a ʋl na bɔr a , wa tɩ nyɛ̃ ʋ ?
+42015008	buor		« Bɩɩ pɔw buor sob ʋ na tɛr salmɛ̃ wɛr-bie pie , ɛ wɛr-bi-been wa bɔr , ʋ bɛ ƴãw fɩ̃tɩlɛ , pɩɩr ɩ a yir , ɛ ƴãw fãw bɔ tɩ nyɛ̃ ʋ ?
+42015026	~		Ʋ tɩ bʋɔl ɩ a tõ-tõ-bie kãw wa sowri kaa bom nɛ na n'ʋ ɩrɛ a .
+42015029	~		Ɛ cɛ ʋ tɩ sɔw na yel a sãà : ‹ Nyɛ̃ , yome a ŋa za n'a ɩ̃ so a fʋ tome tone ɛ bɛ dãw zawrɩ a fʋ nʋɔr ɛ ; ɛ cɛ fʋ bɛ dãw kʋ̀ m bùle k'ɩ̃ɩ lãw nɩ a ɩ̃ barɩ maal ɩ cuw ɛ .
+42016002	ŋmɩn		A nɩ-kpɛ̃ɛ tɩ bʋɔl ʋ na wa yel ʋ : ‹ Ɩ̃ wõ na kɛ fʋ ɩrɛ nɩ ŋmɩn a ? Manɩ a lɛ fʋ na kaarɛ a ɩ̃ bome zie a kʋ̀ m , bʋ̃ʋ n'ʋ vɛ̃ , dɩ̃a na ta a , fʋ kʋ̃ cãa ɩ a ɩ̃ bʋ̃-kaarɛ ɩ . ›
+42016003	ŋmɩn		A bʋ̃-kaarɛ tɩ tɩɛr ɩ ʋ pʋɔ : ‹ A ɩ̃ nɩ-kpɛ̃ɛ na faa nɩ a ɩ̃ tome . Ɩ̃ na ɩ n ŋmɩn ? Ɩ̃ bɛ tɛr fãw a tẽsɔw kɔb ƴãw ɛ , ɛ vĩ ɩrɛ mɛ̃ a zɛlʋ ƴãw .
+42016005	a ŋmɩn		Lɛ n'a ʋ tɩ bʋɔlɩ a ʋ nɩ-kpɛ̃ɛ samɛ dem za , be-ƴẽni ƴẽni , wa n wa sowri a dãw-niwn sob : ‹ A ŋmɩn san n'a fʋ tɛr a ɩ̃ nɩ-kpɛ̃ɛ zie ? ›
+42016007	a ŋmɩn		Ʋ tɩ lɛb a sowri a kãw : ‹ Ɛ fʋ̃ʋ , a ŋmɩn san n'a fʋ tɛr ? › Ʋ sɔw : ‹ Ci vʋɔrɩ kʋba . › A bʋ̃-kaarɛ yel ʋ : ‹ Nyɛ̃ a fʋ san sɛbɛ , sɛb lɩz'a anaar . ›
+42016011	ãa		Nyɩ bɛ wul a kɛ nyɩ ɩ n nɩ-mɩn a nyãnyu-libie yele pʋɔ ɩ , ɛ ãa n'ʋ na saw de bʋ̃-sɩza kʋ̀ nyɩ nyɩ kaarɛ ?
+42016012	ãa		Nyɩ bɛ tɛr ɩ yel-mɩŋa a zawlɛ bom kaafʋ pʋɔ ɩ , ɛ ãa n'ʋ na de a nyɩ dem kʋ̀ nyɩ ? »
+42017007	buor		« Nyɩ buor sob ʋ na tɛr tõ-tõ-bie ʋ kʋɔr bɩɩ arɛ nɩ bome , ɛ wa yi a wɩɛ pʋɔ wa ta ʋ yel ʋ : ‹ Wa fɔ̃w wa zɩ̃ dɩ ? ›
+42017017	nyɩnɛ		Lɛ n'a a Yeezu pãa tɩ sowri : « A bɛ za pie bɛ nɛ bɛ sanɩ ɛ ? A pi-waɩ bɛl na cɛ a , nyɩnɛ n'a bɛ be ?
+42017018	~		A bɛ kãw za bɛ yel k'ʋʋ lɛb wa danɩ a Naaŋmɩn , a bɛ ɩ a sãan ŋa yõ ɩ ? »
+42017020	Debor		A Farizɩ̃ɛ mɩnɛ tɩ sowr ɩ a Yeezu : « Debor daar a a Naaŋmɩn-Naalʋ na ta ? » Ʋ tɩ sɔw bɛ na : « A Naaŋmɩn-Naalʋ waa kʋ̃ sãá ɩ .
+42017037	Nyɩnɛ		A po-tuurbɛ tɩ de nɩ a ƴɛrʋ sowr ʋ : « Nyɩnɛ n'a a a ŋa za na ɩ , Sore e ? » Ʋ tɩ sɔw bɛ na : « A be a bʋ̃-kũu na na be a , be n'a a sidume mɩ̀ na gbone taa . »
+42018018	Bʋ̃ʋ n'ʋ		Zifʋ mɩnɛ nɩ-kpɛ̃ɛ kãw tɩ sowr ɩ a Yeezu : « Wul-wul-kara a , fʋ̃ʋ na ɩ nɩ-vla a , bʋ̃ʋ n'ʋ a fɛr k'ɩ̃ɩ ɩrɛ tʋ̃ɔ páw a nyɔ-vʋʋrʋ na be kʋra lɛ a ? »
+42018019	Bʋ̃ʋ n'ʋ so		A Yeezu tɩ yel ʋ na : « Bʋ̃ʋ n'ʋ so fʋ bʋɔlɛ mɛ̃ nɩ-vla ? Nɩr za bɛ vɩɛl ʋ bɛ ɩ Naaŋmɩn yõ ɩ .
+42018026	ãa		A nɩbɛ na tɩ bɛrɛ wone a , tɩ yel a : « Alɛ wa ŋmɛ̃ a ŋa a , ãa n'ʋ pãa na tʋ̃ɔ nyɛ̃ a faafʋ a ? »
+42018036	~		Ʋ na tɩ wõ nɩ-yaga na cere tɔlɛ a , ʋ sowr a ʋlɩ bom nɛ na n'ʋ a .
+42018041	Bʋ̃ʋ n'ʋ		« Bʋ̃ʋ n'ʋ fʋ bɔbr k'ɩ̃ɩ ɩ kʋ̀ b ? » Ʋ tɩ sɔw na : « Sore e , ɩ ɩ̃ lɛb nyɛrɛ ! »
+42019007	~		A nɩbɛ na tɩ nyɛ̃ a lɛ a , bɛ tɩ zɛbr ɩ bɛ za yere nɩ : « Yel-bier-maalɛ yir a ʋ cen . »
+42019023	Bʋ̃ʋ n'ʋ so		ɛ bʋ̃ʋ n'ʋ so fʋ bɛ ƴãw a ɩ̃ libir ban pʋɔ ? Ɩ̃ na tɩ lɛb wa a , ɩ̃ nãa de ʋ na lãw nɩ dɔwlɛ . ›
+42019031	Bʋnʋ ƴãw		Ɛ́ nɩr wa sowre nyɩ : ‹ Bʋnʋ ƴãw n'a nyɩ cɛrɛ a bõw bile a ? › Nyɩɩm sɔw : ‹ A Sore tɛr ɩ ʋ yel-ɩra . › »
+42019033	Bʋnʋ ƴãw		Bɛ na tɩ cɛrɛ a bõw bile a , a bõw bile dem tɩ sowri bɛ na : « Bʋnʋ ƴãw n'a nyɩ cɛrɛ a bõw bile ŋa ? »
+42020002a	Nyɩnɛ		sowr ʋ : « Nyɩnɛ n'a fʋ páw a sɔr ɩrɛ a a ŋa ? 
+42020002b	ãa		Ɛ ãa n'ʋ kʋ̀ fʋ a sɔr ŋa ? Yel tɩ nyɛ̃ . »
+42020005a	~		Bɛ tɩ ƴɛr a sɔw taa yel a ŋa : « Tɩmɛ wa yel kɛ : ‹ Naaŋmɩn zie n'a › , ʋ na sowri tɩ na : 
+42020005b	Bʋ̃ʋ so		‹ Bʋ̃ʋ so nyɩ bɛ saw de a Zã yele ? ›
+42020013	ŋmɩn		A lɛ n'a a púo sob tɩ yel ʋ tʋɔra : ‹ Ɩ̃ pãa lɛ ɩ ŋmɩn ? Ɩ̃ na tõ n a ɩ̃ bi-nɔna za , a mɩnɛ kãw , bɛ na tɩ tɛr ɩ ƴãwfʋ a ʋ zie ! ›
+42020015	ŋmɩn		Bɛ tɩ nyɔw nɩ a bie , a divɛ̃-tɩɩr puo pʋɔ be , lɔb bɛr yẽw ɛ kʋ́ . » « A na ɩ a ŋa a , a púo sob na ɩ bɛ nɩ ŋmɩn ?
+42020017	bo		Ɛ cɛ a Yeezu tɩ jɩr bɛ nɩ gbẽgbẽ ɛ sowri bɛ : « Alɛ wa ɩ a ŋa a , a Sɛb-sõw ƴɛr-bir ŋa pɛr ɩ bo : ‹ A kʋsɩɛr ʋl a yir-mɩɛrbɛ na ír lɔb bɛr a , lɩɛb ɩ a yir pɛr kʋsɩɛr ? ›
+42020023	~		A Yeezu na tɩ bãwnɩ a bɛ yã-faa a , ʋ yel bɛ na :
+42020024a	ãa		« Nyɩ wul mɛ̃ libir ɩ̃ nyɛ̃ . Ãa niwn nɩ 
+42020024b	ãa		ãa sɛbrʋ n'ɩ a a ŋa na wi a libir zu a ? » Bɛ tɩ sɔw na : « Sezaar dem a . »
+42020033	ãa		A na ɩ a ŋa a , a kũu-pʋɔ-lɛ-yib daar a , a pɔw ŋa na ɩ n ãa pɔw , bɛ za ayopõi na kul ʋ lɩɛrɩ taa a ? »
+42020041	ŋmɩŋmɩn		A lɛ n'a a Yeezu tɩ yel bɛ : « Ŋmɩŋmɩn n'a bɛ na tʋ̃ɔ yel kɛ a Naaŋmɩn Nɩ-kabra ɩ n a Daviir bʋ̃-dɔwra ?
+42020044	ŋmɩŋmɩn		A Daviir bʋɔlɛ ʋ nɩ ʋ Sore , ŋmɩŋmɩn n'a ʋ na ɩ a Daviir bʋ̃-dɔwra ? »
+42021007a	debor		Bɛ tɩ sowr ʋ na : « Wul-wul-kara a , debor daar a , a yele a ŋa na ta ? 
+42021007b	buor		Ɛ a bãwfʋ n'ɩ buor na na wul kɛ a ta na a ? »
+42022009	Nyɩnɛ		Bɛ tɩ sowr ʋ na : « Nyɩnɛ n'a fʋ bɔbr kɛ tɩ cɔbrɩ ʋ ? »
+42022011	Nyɩnɛ		ɛ́ nyɩ yel a yir sob : ‹ A Wul-wul-kara sowre fʋ na : Nyɩnɛ n'a a dĩo be , mãa nɩ a ɩ̃ po-tuurbɛ na dɩ a Tɔlʋ cuw dɩb ? ›
+42022027	Buor		Buor ʋ sɩrɩ ɩ kpɛ̃ɛ zuo buor : a sob nɛ na zɩ̃ dɩrɛ a n'ʋ bɩɩ a sob nɛ na dier a bʋ̃-dɩrɩ waar ɩ a n'ʋ ? A sob nɛ na zɩ̃ dɩrɛ bɛ n'ʋ ɛ ? Ɛ cɛ mãa a , ɩ̃ be n a nyɩ sɔgɔ mɛ̃ tõ-tõ-bie a .
+42022046	Bʋ̃ʋ n'ʋ		Ʋ tɩ yel bɛ na : « Bʋ̃ʋ n'ʋ ɩ nyɩ gúre ? Nyɩ ìr puore k'aa bɛlʋ taa tarɛ nyɩ ɛ . »
+42022064	ãa		Bɛ mɩ́ tɩ pàw ʋ nɩ a niwn ɛ sowre ʋ : « Bãw Naaŋmɩn-ƴɛr-manɛ bãwfʋ ! Ãa n'ʋ ŋmɛ b ? »
+42022071	bʋ̃ʋ ƴãw		Lɛ n'a bɛ tɩ yel : « Bʋ̃ʋ ƴãw n'a tɩ cãa bɔbr dãsɩɛ dem ? Tɩɩm mɩŋa wõ a nɩ a ʋ nʋ́ɔrɩ́ ! »
+42023022a	~		A Pɩlatɩ tɩ lɛb a yel bɛ a gb'a ata sob ƴãw : 
+42023022b	Bʋ̃nʋ		« Bʋ̃nʋ yel-faa n'ʋ ʋ maalɩ ? Ɩ̃ bɛ nyɛ̃ bom za na sɛwnɩ kũu a ɩ . Ɩ̃ na ƴãw na bɛ fɔb ʋ , ɛ ɩ̃ lɛb bɛr ʋ . »
+42023031	ŋmɩŋmɩn		Bɛlɛ wa ɩrɛ a da-ɓaar a ŋa a , ŋmɩŋmɩn n'a bɛ nãa ɩ a da-kõw ? »
+42024005	Bʋ̃ʋ n'ʋ so		Dɛ̃bɩ̃ɛ tɩ nyɔw nɩ a pɔwbɛ bɛ su zuru . A dɛbr tɩ yel bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ bɔbr nɩ-vʋʋra a kũuni pʋɔ ?
+42024017	Bʋ̃ʋ		A Yeezu tɩ sowri bɛ na : « Bʋ̃ʋ ƴɛrʋ n'a nyɩ ƴɛrɛ cere nɩ ? » Bɛ tɩ tɛw na ar , ɛ sãw niŋe .
+42024019	Bʋ̃ʋ		Ʋ lɛb sowri bɛ : « Bʋ̃ʋ yele ? » Ɛ bɛ yel ʋ : « A Nazarɛtɩ tẽw Yeezu yele : a dɛb ŋa na tɩ ɩ Naaŋmɩn-ƴɛr-manɛ , tɛr fãw a ʋ ɩ-ɩrɩ nɩ a ʋ ƴɛrʋ pʋɔ , a Naaŋmɩn nɩ a nɩbɛ niŋé a .
+42024025	Bʋ̃ʋ		Lɛ n'a a Yeezu yel bɛ : « Bʋ̃ʋ pãa ɩ nyɩ bɛ tɛr tɩɛrʋ , ɛ a nyɩ socie kpɛ vanana a Naaŋmɩn-ƴɛr-manbɛ ƴɛrʋ sawfʋ ƴãw a ?
+42024038a	Bʋ̃ʋ n'ʋ so		Ɛ cɛ a Yeezu tɩ yel bɛ na : « Bʋ̃ʋ n'ʋ so a dɛ̃bɩ̃ɛ , 
+42024038b	bʋ̃ʋ so		ɛ bʋ̃ʋ so a bʋnʋ nyɩ na bʋnɛ a ?
+43001019	ãa		A Zã dãsɩɛ tɩ n'ɩ ŋa ʋ na dɩ a , a lɛn daar a Zifʋ mɩnɛ na tɩ tõ bawr-maalbɛ nɩ Levitɩ mɩnɛ bɛ yi a Zeruzalɛm ɛ wa kɛ́ bɛ wa sowr ʋ a : « Ãa nɛ b ? »
+43001021	ãa		Bɛ tɩ sowr ʋ na : « Ãa nɛ b ? Eli nɛ b bɩɩ ? » Ʋ tɩ sɔw na « Ɩ̃ bɛ ɩ Eli ɛ . » Ɛ bɛ lɛ sowri : « Fʋ̃ʋ n'ɩ a Naaŋmɩn-ƴɛr-manɛ bɩɩ ? » Ʋ sɔw : « Ʋ̃ʋ'hʋ̃ . »
+43001022a	ãa		Lɛ n'a bɛ tɩ yel ʋ : « Ãa nɛ b ? 
+43001022b	bo		Tɩ tʋ̃ɔ tɩ yel bom kʋ̀ a bɛlɩ dem na tõ tɩ a , fʋ yel kɛ bo a fʋ mɩŋa ƴãw ? »
+43001025	bʋ̃ʋ ƴãw		Bɛ tɩ cãa na sowre a Zã : « Fʋ bɛ ɩ a Naaŋmɩn Nɩ-kabra ɩ , bɛ lɛ ɩ Eli ɛ , bɛ ɩ a Naaŋmɩn-ƴɛr-manɛ ɩ , ɛ bʋ̃ʋ ƴãw n'a fʋ tɩrɛ a suob ? »
+43001038a	Bʋ̃ʋ n'ʋ		A Yeezu tɩ lɩɛb a nyɛ̃ bɛ na tuur ʋ a , ɛ sowri bɛ : « Bʋ̃ʋ n'ʋ nyɩ bɔbr ? » Ɛ̀ bɛ yel ʋ : 
+43001038b	nyɩnɛ		« Arabi i , -a ƴɛr-bir ŋa pɛr ɩ Wul-wul-kara-nyɩnɛ n'a fʋ kpɩɛr ? »
+43001046	Bʋ̃ʋ		A Natanayɛl tɩ sɔw ʋ na : « Bʋ̃ʋ bʋ̃-vla n'ʋ mɩ́ pãa na tʋ̃ɔ yi Nazarɛtɩ tẽw ? » A Filib tɩ yel ʋ na : « Wa , wa nyɛ̃ . »
+43001048	Nyɩnɛ		A Natanayɛl tɩ sowr ʋ na : « Nyɩnɛ fʋ páw mɛ̃ bãw ? » A Yeezu tɩ sɔw na : « A Filib bɛ tɩ bʋɔlɩ fʋ sɛr mɩ̀ ɛ , ɛ ɩ̃ tɩ nyɛ̃ b fʋ be a kãkãw pile ! »
+43002004	bʋnʋ		Ɛ cɛ a Yeezu tɩ sɔw ʋ na : « Mãa nɩ fʋ̃ʋ mɩ̀ bʋnʋ , pɔw ɩ ? A ɩ̃ daar bɛ ta sɛr ɛ . »
+43002018a	~		Ɛ cɛ a Zifʋ mɩnɛ tɩ sowr ʋ na : 
+43002018b	buor		« Yel-na-ɩ-bãwfʋ-sãá-a buor sob ʋ , fʋ na tʋ̃ɔ maalɩ wul tɩ kɛ fʋ tɛr ɩ sɔr na ɩrɛ a a ŋa ? »
+43003004	ŋmɩŋmɩn		A Nikodem tɩ sowr ʋ na : « Nɩr na kor a , ŋmɩŋmɩn n'a bɛ na ɩ lɛb dɔw ʋ ? Ʋ na tʋ̃ɔ na lɛb kpɛ a ʋ mã púorí wa yi bɩɩ ? »
+43003009	ŋmɩŋmɩn		A Nikodem tɩ lɛb a sowr ʋ : « Ŋmɩŋmɩn n'a a na tʋ̃ɔ ɩ a a ŋa ? »
+43003012	ŋmɩŋmɩn		Mãa mɩ́ wa manɛ a tẽw zu yele kʋ̀rɛ nyɩ ɛ́ nyɩ bɛ saw dier a , ŋmɩŋmɩn n'a nyɩ na saw de a tẽ-vla pʋɔ yele ɩ̃ nãà wa yere kʋ̀rɛ nyɩ a ?
+43004009	ŋmɩŋmɩn		Ɛ cɛ a pɔw ʋl , a Samaari tẽw pɔw nɛ , tɩ lɛb a yel ʋ : « Ŋmɩŋmɩn za n'a fʋ ɩ Zifʋ , ɛ zɛlɛ kʋ̃ɔ a ɩ̃ zie , mãa na ɩ Samaari tẽw pɔw a ? » A Zifʋ mɩnɛ nɩ a Samaari tẽw nɩbɛ bɛ tɩ tuore ɩ .
+43004011	nyɩnɛ		A pɔw lɛb yel a Yeezu : « Sore e , fʋ bɛ tɛr bʋ̃-'wɔ̃wna ɩ , ɛ a bule zulme , nyɩnɛ n'a fʋ na páw a kʋ̃ɔ na bùle yire a ?
+43004027a	Bʋ̃ʋ n'ʋ		A lɛ pʋɔ n'a a ʋ po-tuurbɛ tɩ yi a tẽw pʋɔ ta . A Yeezu na tɩ ƴɛrɛ nɩ a pɔw a , a tɩ wur bɛ na , ɛ cɛ bɛ kãw za bɛ tɩ saw sowr ʋ : « Bʋ̃ʋ n'ʋ fʋ bɔbr a ʋ zie ? » bɩɩ : 
+43004027b	Bʋ̃ʋ so		« Bʋ̃ʋ so fʋ ƴɛrɛ nɩ ʋ ɛ ? »
+43005012	ãa		Bɛ tɩ sowr ʋ na : « Ãa n'ɩ a nɩr ʋl na yel fʋ : ‹ Ɓaw a fʋ : bʋ̃-gana cere nɩ a ? › »
+43005044	ŋmɩŋmɩn		Nyɩ zɛwr ɩ taa yee , ɛ́ bɛ bɔbr a yúor ʋl na yi Naaŋmɩn yõ zie a ɩ , ŋmɩŋmɩn n'a nyɩ na tʋ̃ɔ saw de ʋ ?
+43005047	ŋmɩŋmɩn		Ɛ cɛ nyɩ na bɛ saw de a lɛ a Mõyiir na sɛb a , ŋmɩŋmɩn n'a nyɩ pãa na saw de a ɩ̃ ƴɛrʋ ? »
+43006005	Nyɩnɛ		A Yeezu tɩ dʋɔ nɩ zu , ɛ nyɛ̃ kɛ́ nɩ-yaga yaga tɩ waar ɩ a ʋ zie . Ʋ tɩ yel ɩ a Filib : « Nyɩnɛ n'a tɩ na da dipɛ̃ a sɛw a nɩbɛ bɛ ŋa za dɩb ? »
+43006009	bʋ̃ʋ		« Dɛble kãw be n ka , tɛr ɔɔzʋ dipɛ̃ anũu nɩ zʋ́mɛ ayi , ɛ cɛ bʋ̃ʋ n'ɩ a a ŋa , a nɩbɛ na sɛw a ŋa za a ƴãw ? » Dipɛ̃ anũu nɩ zʋ́mɛ ayi .
+43006025	debor		Bɛ na tɩ nyɛ̃ a Yeezu a kʋ̃ɔ-kpɛ̃ɛ gãwn a , bɛ sowr ʋ na : « Wul-wul-kara a , debor a fʋ ta a ka ? »
+43006028	Bʋ̃ʋ n'ʋ		A lɛ n'a bɛ tɩ lɛb sowr ʋ : « Bʋ̃ʋ n'ʋ tɩ na ɩrɛ a ɩ a Naaŋmɩn tome tɩ tone ? »
+43006030a	buor		Ɛ̀ bɛ lɛb sowr ʋ : « Yel-na-ɩ-bãwfʋ-sãá-a , buor sob ʋ fʋ na maalɩ kɛ̀ tɩ tʋ̃ɔ nyɛ̃ , ɛ saw de a fʋ yele ? 
+43006030b	buor		Tõ-buor ʋ fʋ na tõ ?
+43006042	ŋmɩŋmɩn		Bɛ tɩ yere na : « A Yeezu bɛ tʋ̃ɔ n'ɩ a ŋa ɩ , a Zuzɛb bi-dɛb ɛ ? Tɩ bãw nɩ a ʋ sãà nɩ a ʋ mã vla . Ɛ ŋmɩŋmɩn n'a ʋ na tʋ̃ɔ ƴɛrɛ a ŋa : ‹ Ɩ̃ yi n salom zu siw wa ? › »
+43006052	ŋmɩŋmɩn		A lɛ n'a a Zifʋ mɩnɛ tɩ ŋmɩɛr nɔkpɛn yaga yaga a bɛ cara pʋɔ yere nɩ : « Ŋmɩŋmɩn n'a a nɩr ŋa na tʋ̃ɔ kʋ̀ tɩ a ʋ ƴãgã-nɛn tɩ 'wɔb ? »
+43006060	ãa		Nɩbɛ yaga , a ʋ po-tuurbɛ pʋɔ , na tɩ wõ a ʋ ƴɛrʋ a , tɩ yere na : « A ƴɛrʋ ŋa kpɛ̃w tɔ , ãa n'ʋ na tʋ̃ɔ bɛrɛ wone ʋ ? »
+43006062	~		Ɛ nyɩmɛ pãa wa nyɛ̃ a Nɩsaal Bie ʋ duor a be ʋ na tɩ dãw be a ?
+43006068	ãa		Sɩmʋ̃ Pɩɛr tɩ sɔw ʋ na yel : « Sore e , ãa zie n'a tɩ na cen ? Fʋ tɛr ɩ a nyɔ-vʋʋrʋ na be kʋra lɛ a ƴɛr-bie .
+43007011	Nyɩnɛ		A cuw zie , a Zifʋ mɩnɛ tɩ bɔbr ʋ na sowre nɩ : « Nyɩnɛ n'a ʋ pãa be a ? »
+43007015	ŋmɩŋmɩn		A Zifʋ mɩnɛ tɩ nyɔw nɩ nʋɔr yere nɩ : « Ŋmɩŋmɩn n'a ʋ bɛ zànɩ sɛbɛ ɩ , ɛ bãw a sɛw a ŋa ? »
+43007019	Bʋ̃ʋ n'ʋ so		Mõyiir bɛ tʋ̃ɔ n'ʋ kʋ̀ nyɩ a Naaŋmɩn-Wulu ɛ ? Ɛ cɛ nyɩ been kãw za bɛ tuur a Naaŋmɩn-Wulu ɛ , bʋ̃ʋ n'ʋ so nyɩ bɔbr a ɩ̃ kʋ́b ? »
+43007020	ãa		A zu-sɛbla tɩ sɔw na : « Kɔ̃tɔ̃-ire nɛ b ! Ãa n'ʋ bɔbr fʋ kʋ́b ? »
+43007023	Bʋ̃ʋ n'ʋ so		Bɛlɛ mɩ́ wa tʋ̃ɔ ŋmãa a yʋɔr a pɩɛnʋ-bibir , ɛ́ bɛ sãw a Mõyiir-Wulu a , bʋ̃ʋ n'ʋ so nyɩ nyɛ̃ nɩ mɛ̃ suur ɩ̃ na sanɩ nɩ-ɓil a pɩɛnʋ-bibir a ?
+43007035	Nyɩnɛ		A Zifʋ mɩnɛ tɩ sowre nɩ taa : « Nyɩnɛ n'a ʋ pãa na cen ɛ̀ tɩ bɔ ʋ gu a ? Ʋ na cen na tɩ páw a Zifʋ mɩnɛ bɛl na zɔ yaarɩ be a Gɩrɛkɩ bʋʋrɛ pʋɔ a bɩɩ ? Ʋ na cen na tɩ wule a Gɩrɛkɩ mɩnɛ bɩɩ ?
+43007036	bo		A ƴɛrʋ ŋa ʋ na ƴɛr a pɛr ɩ bo : ‹ Nyɩ na bɔ m a , ɛ kʋ̃ nyɛ̃ m ɛ › ? Nɩ : ‹ Nyɩ kʋ̃ tʋ̃ɔ wa a be ɩ̃ na be a ɩ ? › »
+43007041	~		Ɛ bɛ mɩnɛ yere : « Ʋlɛ n'ɩ a Naaŋmɩn Nɩ-kabra ! » Ɛ cɛ bɛ mɩnɛ kãw tɩ yere na : « A Naaŋmɩn Nɩ-kabra na tʋ̃ɔ na yi Galile bɩɩ ?
+43007045	Bʋ̃ʋ n'ʋ so		A Ŋmɩn-yi-kpɛ̃ɛ gurbɛ na tɩ lɛb cen a , a Farizɩ̃ɛ mɩnɛ nɩ a bawr-maal-nɩ-bɛrɛ tɩ sowri bɛ na : « Bʋ̃ʋ n'ʋ so nyɩ bɛ nyɔw a Yeezu wa n ? »
+43007048	~		Nyɩ jieli nyɛ̃ , a nɩ-bɛrɛ pʋɔ nɩ a Farizɩ̃ɛ mɩnɛ pʋɔ a , nɩ-been yõ saw na de a ʋ yele e ?
+43007051	~		« A tɩ Naaŋmɩn-Wulu tɩ na tuur a , tɩ na tʋ̃ɔ na ƴãw bɛ kʋ́ nɩr , ɛ́ bɛ dãw de niwn wõ a ʋ sob ƴɛrʋ , bãw ʋlɩ bom nɛ ʋ na ɩ a bɩɩ ? »
+43008005	bʋnʋ		Ɛ cɛ a Naaŋmɩn-Wulu sɛbɛ pʋɔ a , a Mõyiir ƴãw nɩ nʋɔr kʋ̀ tɩ kɛ tɩ mɩ́ lɔb a pɔwbɛ bɛ ŋa taabɛ nɩ kʋsɛbɛ kʋ́ . Fʋ̃ʋ a , fʋ yel kɛ bʋnʋ ? »
+43008010	wa		Ʋ tɩ dʋɔ nɩ a zu ɛ sowri a pɔw : « Pɔw ɩ , bɛ wa ? Nɩr za bɛ ƴãw fʋ kũu dɔwrʋ ɛ ? »
+43008019	wa		A lɛ n'a bɛ lɛb sowr ʋ : « A fʋ Sãà wa ? » A Yeezu tɩ sɔw bɛ na : « Nyɩ bɛ bãw mɛ̃ ɩ , ɛ mɩ̀ bɛ bãw a ɩ̃ Sãà ɩ . Nyɩmɛ tɩ bãw mɛ̃ a , nyɩ mɩ̀ nãá bãw nɩ a ɩ̃ Sãà . »
+43008025a	ãa		A lɛ n'a bɛ tɩ sowr ʋ : « Ãa nɛ b ? » 
+43008025b	~		A Yeezu tɩ sɔw bɛ na : « Mãa n'ɩ a sob nɛ ɩ̃ na yere kʋ̀rɛ nyɩ a pɛr tib daar za a .
+43008033	ŋmɩŋmɩn		Bɛ tɩ sɔw ʋ na yel : « Abraham bʋʋrɛ n'ɩ tɩ , ɛ́ bɛ dãw ɩ nɩr za gbãgbaar ɛ : ŋmɩŋmɩn n'a fʋ yere kɛ tɩ na ɩ n nɩbɛ na so bɛ tʋɔra a ? »
+43008043	Bʋ̃ʋ n'ʋ so		Bʋ̃ʋ n'ʋ so nyɩ bɛ bãwnɛ a ɩ̃ ƴɛrʋ pɛr ? Nyɩ na kʋ̃ tʋ̃ɔ bɛr wõ a ɩ̃ ƴɛrʋ a n'a so .
+43008046a	buor		A nyɩ buor sob ʋ na tʋ̃ɔ wul k'ɩ̃ɩ maal ɩ yel-bier ? 
+43008046b	bʋ̃ʋ n'ʋ so		Ɛ́ mãa wa yere yel-mɩŋa a , bʋ̃ʋ n'ʋ so nyɩ bɛ sawr dier mɛ̃ ?
+43008053	ãnʋ		Fʋ zuo nɩ a tɩ sãà Abraham mɔ̃ bɩɩ ? Ʋ kpi na . A Naaŋmɩn-ƴɛr-manbɛ mɩ̀ kpi ! Fʋ de nɩ fʋ tʋɔra bʋɔlɛ ãnʋ ? »
+43008057	~		A Zifʋ mɩnɛ tɩ sɔw ʋ na : « Fʋ bɛ tɛr yome lɩz'a ayi nɩ pie sɛr ɛ , ɛ nyɛ̃ a Abraham ɩ ? »
+43009002	ãa		A Yeezu po-tuurbɛ tɩ sowr ʋ na : « Wul-wul-kara a , a sob ŋa na lãw dɔw nɩ a zɔnʋ a , ãa n'ʋ sãw : ʋl mɩŋa n'ʋ bɩɩ a ʋ dɔwrbɛ nɛ bɛ ? »
+43009010	ŋmɩŋmɩn		A lɛ n'a bɛ tɩ sowr ʋ : « Ŋmɩŋmɩn n'a a fʋ mimie ɩ yuori ? »
+43009012	wa		Bɛ lɛb sowr ʋ : « Ɛ a sob nɛ wa ? » Ʋ sɔw : « Ɩ̃ bɛ bãw ɛ . »
+43009016	ŋmɩŋmɩn		A Farizɩ̃ɛ mɩnɛ pʋɔ a , bɛ mɩnɛ tɩ yere na : « A nɩr ŋa bɛ yi Naaŋmɩn zie wa ɩ , ʋ na mɩ́ tone a pɩɛnʋ-bibir a . » Ɛ cɛ bɛ mɩnɛ tɩ yere na : « Ŋmɩŋmɩn n'a yel-bier-maalɛ na tʋ̃ɔ mɩ́ maalɩ a yele a ŋa taabɛ na ɩ bãwfʋ sãá a ? » A tɩ ɩ n bʋ́r-taa a bɛ cara pʋɔ .
+43009017	ãa		Lɛ so bɛ tɩ lɛb sowri a zɔ̃w : « Ɛ fʋ̃ʋ , fʋ yel kɛ ãa n'ɩ a sob ŋa na yuo fʋ a mimie a ? » Ʋ sɔw : « Naaŋmɩn-ƴɛr-manɛ n'ʋ . »
+43009019	ŋmɩŋmɩn		sowri bɛ : « A nyɩ bi-dɛb n'ɩ a ŋa nyɩ na yel k'ʋʋ lãw na dɔw nɩ zɔnʋ a ? Ŋmɩŋmɩn n'a ʋ ɩ nyɛrɛ ƴɛrɛ ŋa ? »
+43009026a	Bʋ̃ʋ n'ʋ		Bɛ lɛb sowr ʋ : « Bʋ̃ʋ n'ʋ ʋ ɩ fʋ ? 
+43009026b	ŋmɩŋmɩn		Ŋmɩŋmɩn n'a ʋ yuo fʋ a mimie ? »
+43009027	Bʋ̃ʋ so		Ʋ sɔw bɛ : « Ɩ̃ man na kʋ̀ nyɩ , ɛ́ nyɩ bɛ bɛr wõ ɩ . Bʋ̃ʋ so nyɩ bɔbr k'ɩ̃ɩ lɛ maal man kʋ̀ nyɩ ? Nyɩ mɩ́ nɔ̃w bɔbr ɩ a ʋ po-tuurbɛ lɩɛbʋ mɔ̃ bɩɩ ? »
+43009034	~		Ɛ cɛ bɛ tɩ sɔw ʋ na yel : « Fʋ̃ʋ n'ɩ ŋan dɔw yel-bier pʋɔ fʋ za , ɛ na wule tɩ ɩ ? » Ɛ́ tɩ diw ʋ bɛr a puoru-dĩ̀ó .
+43009036	ãa		Ʋ sɔw : « Ãa nɩ̃ɛ n'ʋ , Sore e , ɩ̃ na saw de a ʋ yele ? »
+43010020	Bʋ̃ʋ n'ʋ so		A bɛ pʋɔ a , yaga tɩ yere na : « Ʋ ìre nɩ kɔ̃tɔmɛ ! Ʋ yarɛ na ! Bʋ̃ʋ n'ʋ so nyɩ bɛrɛ wone a ʋ ƴɛrʋ ? »
+43010021	~		Ɛ cɛ bɛ mɩnɛ tɩ yere na : « Kɔ̃tɔ̃-ìre ƴɛrʋ bɛ n'ɩ a a ŋa ɩ ; kɔ̃tɔ̃-faa na tʋ̃ɔ na yuo zɔn mimie e ? »
+43010024	debor		A Zifʋ mɩnɛ tɩ ŋmãa na viiri koli ʋ ɛ sowr ʋ : « Fʋ bɔbr a kɛ tɩ bʋnɛ a ŋa a fʋ ƴãw ɛ gu debor ? Fʋ̃ʋ wa n'ɩ a Kɩrɩta a , fʋ̃ʋ yel kʋ̀ tɩ daadaa ! »
+43010032	buor		Ɛ cɛ a Yeezu tɩ lɛb a yel bɛ : « Ɩ̃ wul nyɩ nɩ tõ-vɩɛlɩ yaga na yi a Sãà zie a . A tõ-vɩɛlɩ a ŋa buor sob ƴãw n'a nyɩ bɔbr kɛ nyɩ lɔb ɩ mɛ̃ a kʋsɛbɛ ? »
+43010036	~		Ɛ a sob nɛ a Sãà na maalɩ ʋ ɩ sõw , ɛ ʋ tõ ʋ a tẽ-daa zu a , nyɩ yel ʋ na : ‹ Fʋ tʋʋr ɩ Naaŋmɩn › , ɩ̃ na haa nʋɔr yel k'ɩ̃ɩ ɩ n Naaŋmɩn Bie a ƴãw .
+43011034	Nyɩnɛ		Ʋ tɩ sowri bɛ na : « Nyɩnɛ n'a nyɩ ũù ʋ ? » Bɛ tɩ yel ʋ na : « Wa nyɛ̃ , Sore e . »
+43011047	ŋmɩn		A bawr-maal-nɩ-bɛrɛ nɩ a Farizɩ̃ɛ mɩnɛ tɩ bʋɔl ɩ a Zifʋ mɩnɛ ƴɛrʋ-dɩb-lãw nɩ-bɛrɛ ɓã taa ɛ yel : « Tɩ na ɩ n ŋmɩn ? A nɩr ŋa maalɛ nɩ yele-na-ɩ-bãwfʋ-sãá a , bɛ dɩ vuo ɩ ,
+43011056	ŋmɩn		Bɛ tɩ bɔbr ɩ a Yeezu a cuw zie . A Ŋmɩn-yi-kpɛ̃ɛ pʋɔ bɛ na tɩ be a , bɛ tɩ sowre nɩ taa : « Nyɩ tɩɛr ɩ ŋmɩn ? Ʋ kʋ̃ saw wa a cuw ɛ ! »
+43012005	Bʋ̃ʋ		« Bʋ̃ʋ pãa ɩ bɛ bɛ kʋɔrɩ a kãa-nyũu a ŋa , bibie kɔbr ata sã-ya libie kʋ̀ a nan dem a ! »
+43012027	bo		« Ɛ cɛ a ƴɛrɛ ŋa a , a ɩ̃ tɩɛrʋ dam a . Ɩ̃ yel kɛ bo ? Kɛ́ a ɩ̃ Sãà faa mɛ̃ a daar ŋa yel-kpɩɛrɩ pʋɔ bɩɩ ? Ɛ cɛ a yel-kpɩɛrɩ daar ŋa tɔr za ƴãw n'a ɩ̃ wa .
+43012034a	ŋmɩŋmɩn		A zu-sɛbla tɩ sɔw ʋ na : « A tɩ Naaŋmɩn-Wulu sɛbɛ pʋɔ , tɩ wõ na kɛ a Kɩrɩta na be n kʋra lɛ . Ŋmɩŋmɩn n'a fʋ na tʋ̃ɔ yel kɛ a fɛr a bɛ ba a Nɩsaal Bie ʋ zɛw do ? 
+43012034b	ãa		Ãa n'ɩ a Nɩsaal Bie ŋa ? »
+43012038a	ãa		Lɛ n'a a Naaŋmɩn-ƴɛr-manɛ Ɩzayi ƴɛr-bie a ŋa tɩ tu : « Sore e , ãa n'ʋ saw de a tɩ ƴɛrʋ ? 
+43012038b	ãa		Ãa n'ʋ a Sore wul a ʋ kpɛnʋ ? »
+43013025	ãa		Lɛ n'a a po-tuure ʋl tɩ cɩɩlɩ cen a Yeezu nyãa ƴãw ɛ sowr ʋ : « Sore e , ãa n'ʋ ? »
+43013036	nyɩnɛ		Sɩmʋ̃ Pɩɛr tɩ sowr ʋ na : « Sore e , nyɩnɛ n'a fʋ cere ? » A Yeezu tɩ sɔw na : « Fʋ kʋ̃ tʋ̃ɔ tu m a ƴɛrɛ ŋa cen a be ɩ̃ na cere a ɩ . Ɛ cɛ a pùorí a , fʋ na tu mɛ̃ na . »
+43013037	Bʋ̃ʋ n'ʋ so		A Pɩɛr tɩ sowr ʋ na : « Sore e , bʋ̃ʋ n'ʋ so ɩ̃ kʋ̃ tʋ̃ɔ tu fʋ a ƴɛrɛ ŋa ? Ɩ̃ na de nɩ a ɩ̃ nyɔ-vʋʋrʋ tɩr a fʋ ƴãw ! »
+43014002	~		Ziir yaga be n a ɩ̃ sãà yir pʋɔ , alɛ bɛ tɩ ɩ lɛ a , ɩ̃ nãá tʋ̃ɔ na yel k'ɩ̃ɩ cere na k'ɩ̃ɩ tɩ cɔbrɩ zie bɛr nyɩ ɩ ?
+43014005	ŋmɩŋmɩn		Toma tɩ yel ʋ na : « Sore e , tɩ bɛ bãw a be fʋ na cere a ɩ , ɛ ŋmɩŋmɩn n'a tɩ na tʋ̃ɔ bãw a sɔr ? »
+43014009	ŋmɩŋmɩn		A Yeezu yel ʋ : « Ɩ̃ be n a nyɩ zie tɩ cɛlɩ sɛw a ŋa za , ɛ fʋ cãa bɛ bãw mɛ̃ ɩ , Filib i ? Ʋlɩ sob na nyɛ̃ m a , ʋ nyɛ̃ nɩ a Sãà . Ŋmɩŋmɩn za n'a fʋ yel : ‹ Wul tɩ a Sãà ? ›
+43014022	Bʋ̃ʋ n'ʋ so		A Zuda , na bɛ ɩ Zuda Ɩsɩkarɩɔtɩ a , tɩ sowr ʋ na : « Sore e , bʋ̃ʋ n'ʋ so a fɛr kɛ fʋ wul fʋ tʋɔra a tɩɩm , ɛ ta wul fʋ tʋɔra a tẽ-daa ? »
+43016005	Nyɩnɛ		Ɛ cɛ ƴɛrɛ ŋa a , ɩ̃ cere nɩ a sob nɛ na tõ m a zie , ɛ́ nyɩ kãw za bɛ sowre mɛ̃ : ‹ Nyɩnɛ fʋ cere ɩ ? ›
+43016017	Bʋ̃ʋ n'ʋ		A lɛ n'a a ʋ po-tuurbɛ bɛ mɩnɛ tɩ sowre taa : « Bʋ̃ʋ n'ʋ ʋ bɔbr k'ʋʋ yel kʋ̀ tɩ nɩ a ƴɛr-bir ŋa : ‹ Ka nɩ blã nyɩ kʋ̃ lɛb nyɛ̃ m ɛ , ɛ a pùorí , a kʋ̃ cɛlɩ ɛ , ɛ nyɩ lɛb nyɛ̃ m › ? Nɩ kɛ : ‹ Ɩ̃ cere nɩ a Sãà zie . › »
+43016018	bo		Bɛ tɩ yere na : « ‹ A ka nɩ blã ŋa › pɛr ɩ bo ? Tɩ bɛ bãw ʋlɩ bom nɛ ʋ na bɔbr k'ʋʋ yel a ɩ ! »
+43018004	ãa		A Yeezu na tɩ bãw bom nɛ za na na ɩ ʋ a , ʋ tuor a sowri bɛ : « Ãa n'ʋ nyɩ bɔbr ? »
+43018007	ãa		A Yeezu tɩ lɛb a sowri bɛ : « Ãa n'ʋ nyɩ bɔbr ? » Ɛ bɛ lɛb yel : « Yeezu na yi Nazarɛtɩ a n'ʋ tɩ bɔbr . »
+43018011	~		Ɛ cɛ a Yeezu tɩ yel ɩ a Pɩɛr : « Lɛb su a fʋ sɔ-kpɛ̃ɛ a ʋ kpar pʋɔ . Ɩ̃ ta nyũ a tuo koli-nyuura a ɩ̃ Sãà na kʋ̀ m a bɩɩ ? »
+43018021	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ ɩ fʋ sowre mɛ̃ ? Sowri a bɛl na bɛr wõ a ɩ̃ kanʋ a , bɛ bãw nɩ a ʋlɩ bom nɛ ɩ̃ na yel a . »
+43018023	Bʋ̃ʋ n'ʋ so		A Yeezu tɩ sɔw ʋ na : « Mãa wa ƴɛr faa a , wul mɛ̃ a faa lowr ; ɛ mãa wa ƴɛr vla a , bʋ̃ʋ n'ʋ so fʋ ŋmɛ m ? »
+43018029	Bʋ̃ʋ		Alɛ so a Pɩlatɩ yi wa a yẽw wa sowri bɛ : « Bʋ̃ʋ sãwna n'a nyɩ yere a nɩr ŋa ƴãw ? »
+43018035	Bʋ̃ʋ n'ʋ		A Pɩlatɩ sowr ʋ : « Ɩ̃ mɩ̀ ɩ n a Zifʋ mɩnɛ nɩ-bʋʋrɛ nɩr kãw bɩɩ ? A fʋ nɩ-bʋʋrɛ nɩ a bawr-maal-nɩ-bɛrɛ nyɔw fʋ na wa n a ɩ̃ zie , bʋ̃ʋ n'ʋ fʋ ɩ ? »
+43018038	Bʋ̃ʋ		A Pɩlatɩ yel ʋ : « Bʋ̃ʋ n'ɩ a yel-mɩŋa ? » A ƴɛr-bie a ŋa zu n'a , ʋ lɛb yi a Zifʋ mɩnɛ zie tɩ yel bɛ : « Ɩ̃ bɛ nyɛ̃ sãwna za a ʋ zie ɛ .
+43019009	Nyɩnɛ		Ʋ tɩ lɛb a kpɛ a dĩ̀ó tɩ sowri a Yeezu : « Nyɩnɛ fʋ yi ? » Ɛ cɛ a Yeezu bɛ tɩ haa nʋɔr sɔw ʋ ɛ .
+43019015	~		Ɛ cɛ bɛ tɩ ŋmɩɛr ɩ cɛlsɩ : « Ʋ kpi ! Ʋ kpi ! Kpa ʋ da-gara zu ! » A Pɩlatɩ lɛb yel bɛ : « Ɩ̃ kpa a nyɩ nãà a da-gara zu bɩɩ ? » A bawr-maal-nɩ-bɛrɛ sɔw : « Sezaar yõ n'ɩ tɩ nãà . »
+43020013	bʋ̃ʋ		Bɛ tɩ sowr ʋ na : « Pɔw ɩ , bʋ̃ʋ tɛr fʋ fʋ kone ? » Ʋ tɩ sɔw bɛ na : « Bɛ ír ɩ a ɩ̃ Sore , ɛ ɩ̃ bɛ bãw be bɛ na ƴãw ʋ a ɩ . »
+43020015a	bʋ̃ʋ		A Yeezu tɩ sowr ʋ na : « Pɔw ɩ , bʋ̃ʋ tɛr fʋ fʋ kone ? 
+43020015b	ãa		Ãa n'ʋ fʋ bɔbr ? » Ɛ cɛ a Marya ʋl tɩ manɛ kɛ a zaardɛ̃-gùre n'ʋ ɛ yel ʋ : « Sore e , fʋ̃ʋ wa n'ʋ de ʋ a , fʋ̃ʋ wul mɛ̃ a be fʋ na ƴãw ʋ a , ɛ ɩ̃ na cen na tɩ ɓaw ʋ ! »
+43021012	ãa		A Yeezu tɩ yel bɛ na : « Nyɩ wa dɩ . » A po-tuurbɛ been kãw za bɛ tɩ saw sowre ʋ ɛ : « Ãa nɛ b ? » Bɛ tɩ bãwnɩ a na a Sore na n'ʋ a .
+43021020	ãa		A Pɩɛr na tɩ ŋmɛlɩ kaa a pùorí a , ʋ nyɛ̃ nɩ a po-tuure ʋl a Yeezu na nɔnɛ a , a ʋl na tɩ cɩɩlɩ cen a Yeezu nyãa ƴãw a dɩb daar sowr ʋ : « Sore e , ãa n'ɩ a sob nɛ na na mɩl fʋ nyɔw tɩr a ? »
+43021021	Bʋ̃ʋ n'ʋ		A Pɩɛr na tɩ nyɛ̃ ʋ a , ʋ sowr ɩ a Yeezu : « Ɛ a ŋa sob , Sore e , bʋ̃ʋ n'ʋ na ɩ ʋ ? »
+43021022	~		A Yeezu tɩ sɔw ʋ na : « Mãa wa bɔbr k'ʋʋ be be ɛ gùre ɩ̃ tɩ lɛb wa a , a jɩrɛ fʋ na bɩɩ ? A fʋ̃ʋ a , tuur mɛ̃ ! »
+43021023	~		A lɛ n'a bɛ tɩ ŋmɛ yaarɩ a yɛbr sɔgɔ kɛ a po-tuure ŋa kʋ̃ kpi ɛ . Ɛ cɛ a Yeezu bɛ tɩ yel ʋ k'ʋʋ kʋ̃ kpi ɛ . Ʋ tɩ yel a : « Mãa wa bɔbr k'ʋʋ be be ɛ gùre ɩ̃ tɩ lɛb wa a , a jɩrɛ fʋ na bɩɩ ? »
+44001011	bʋ̃nʋ ƴãw		ɛ sowri bɛ : « Galile tẽw dem i , bʋ̃nʋ ƴãw n'a nyɩ ar uore a salom a a ŋa ? A Yeezu ŋa bɛ na ír a nyɩ sɔgɔ do n a salom zu a , ʋ nãa lɛb a wa , mɛ̃ a a ŋa nyɩ na nyɛ̃ ʋ k'ʋ duor a salom zu a . »
+44002008	ŋmɩŋmɩn		Ɛ ŋmɩŋmɩn n'a tɩ za been been wa wone a bɛ ƴɛrʋ , ŋa za a ʋ sãà bʋʋrɛ kɔkɔr pʋɔ ?
+44002012	bo		A bɛ tɩɛrʋ za tɩ nyaw nɩ taa , ɛ́ bɛ na bɛ tɩ bãw lɛ bɛ na na tɩɛrɛ a , bɛ sowre nɩ taa : « A yel ŋa pɛr ɩ bo ? »
+44002037	Bʋ̃ʋ n'ʋ		Bɛ na tɩ wõ a lɛ a , a tɩ dam bɛ nɩ yaga , bɛ yel a Pɩɛr nɩ a nɩ-toni ŋmãa bɛl na cɛ a : « Yɛbr ɩ , bʋ̃ʋ n'ʋ tɩ na ɩ ? »
+44003012a	bʋ̃ʋ n'ʋ so		A Pɩɛr na tɩ nyɛ̃ a lɛ a , ʋ yel ɩ a zu-sɛbla : « Ɩsɩrayɛl nɩbɛ ɛ , bʋ̃ʋ n'ʋ so nyɩ nyɔw nʋɔr a yel ŋa ƴãw ? 
+44003012b	bʋ̃ʋ ƴãw		Bɩɩ , bʋ̃ʋ ƴãw n'a nyɩ jɩrɛ tɩ , mɛ̃ tɩ fãw bɩɩ tɩ puoru n'a ɩ a nɩr ŋa ʋ cere ?
+44004007a	~		Bɛ tɩ ƴãw na bɛ tɛr a Pɩɛr nɩ a Zã wa n a bɛ niŋé , bɛ wa tɛr ɩ bɛ sowru : 
+44004007b	ãa		« Ãa n'ʋ kʋ̀ nyɩ a fãw , 
+44004007c	ãa		bɩɩ ãa yúor ƴãw n'a nyɩ tõ a a ŋa ? »
+44004016	Bʋ̃ʋ n'ʋ		Bɛ tɩ sowre nɩ taa : « Tɩ na ɩ n a nɩbɛ bɛ ŋa ŋmɩn ? Bʋ̃ʋ n'ʋ vɛ̃ , bɛ maal ɩ nɔ-ɓãa-yel na bɛ sɔwlɩ a , a sãá nɩ a Zeruzalɛm nɩbɛ za zie , tɩ kʋ̃ tʋ̃ɔ ciiri ɛ .
+44004025a	bʋ̃ʋ n'ʋ so		Fʋ̃ʋ n'ʋ ɩ a Vʋʋrʋ Sõw ƴãw a ƴɛr-bie a ŋa a fʋ tõ-tõ-bie tɩ sãakʋm Daviir nʋɔrɩ́ : ‹ Bʋ̃ʋ n'ʋ so a ten nɩbɛ ɩrɛ gɔmɛ a ŋa ? 
+44004025b	bʋ̃ʋ n'ʋ so		Ɛ bʋ̃ʋ n'ʋ so a nɩ-bʋʋrɛ balɛ bal-zawlɛ a ŋa ?
+44005003	Bʋ̃ʋ n'ʋ so		Lɛ n'a a Pɩɛr tɩ yel ʋ : « Ananɩasɩ ɩ , bʋ̃ʋ n'ʋ so a Sɩtaana só fʋ tɩ zɛ̃ a ŋa , kɛ̀ fʋ ŋmãa ziri kʋ̀ a Vʋʋrʋ Sõw ? Fʋ gbab ɩ a puó libie ŋmãa tɛr .
+44005004	ŋmɩŋmɩn		Fʋ nãà tʋ̃ɔ na bɛ kʋɔr ʋ ɛ , ɛ fʋ na wa kʋɔr ʋ baar a , fʋ nãà tʋ̃ɔ na tɛr a libie ɩrɛ nɩ lɛ fʋ na bɔbr a . Ŋmɩŋmɩn za n'a a tɩɛrʋ ŋa tɔ ɩ tɩ wa a fʋ zie ? Nɩsaalbɛ zie bɛ n'a fʋ ŋmãa a ziri ɛ , Naaŋmɩn zie n'a . »
+44005009	ŋmɩŋmɩn		Lɛ n'a a Pɩɛr tɩ yel ʋ : « Ŋmɩŋmɩn za n'a nyɩ wõ taa yel kɛ nyɩ ɩ a Sore Vʋʋrʋ kɛ nyɛ̃ ? Nyɛ̃ , a bɛlɩ dem na cen tɩ ũù a fʋ sɩr a ƴɛrɛ ŋa a , bɛlɛ n'ɩ bɛ ŋa ta a dɩ̃dɔr nʋɔr , bɛ mɩ̀ na ɓaw fʋ na tɩ ũù . »
+44007026	Bʋ̃ʋ n'ʋ so		A bio daarɩ , ʋ tɩ nyɛ̃ nɩ Ɩsɩrayɛl bʋʋrɛ nɩbɛ ayi bɛ pɔbr taa , ʋ yel k'ʋʋ faarɩ bɛr . Ʋ tɩ yel bɛ na : ‹ Ɩ̃ ba mɩnɛ ɛ , nyɩ ɩ n yɛbr , bʋ̃ʋ n'ʋ so nyɩ dɔwrɛ taa ? ›
+44007027	ãa		Ɛ cɛ a sob nɛ na tɩ dɔwrɛ a ʋ tɔ a tɩ daa nɩ a Mõyiir bɛr ɛ yel a ŋa : ‹ Ãa n'ʋ ƴãw fʋ kɛ́ fʋ ɩ a tɩ nɩ-kpɛ̃ɛ nɩ a tɩ ƴɛr-maalɛ ?
+44007035	ãa		« A Mõyiir ŋa a Ɩsɩrayɛl nɩbɛ na tɩ jɛ bɛr a , a ʋl bɛ na tɩ sowri : ‹ Ãa n'ʋ ƴãw fʋ fʋ ɩ nɩ-kpɛ̃ɛ nɩ ƴɛr-maalɛ a ? › Ʋlɛ n'ʋ a Naaŋmɩn tõ a bɛ zie , k'ʋʋ ɩ a bɛ nɩ-kpɛ̃ɛ nɩ a bɛ faarɛ . A tõ-nʋɔr ŋa n'ʋ a Naaŋmɩn tɩ tõ a malkɩ k'ʋʋ tɩ kʋ̀ a Mõyiir , a lɛn daar ʋ na tɩ wul ʋ tʋɔra a tuw pʋɔ a .
+44007049a	buor		‹ A Sore yel a : a salom ɩ n a ɩ̃ naalʋ da-kɔw , ɛ a tẽsɔw ɩ a ɩ̃ gbɛɛ dɔwlʋ zie . Yir buor ʋ nyɩ na ŋmãa kʋ̀ m ? 
+44007049b	Nyɩnɛ		Nyɩnɛ n'a na ɩ a ɩ̃ pɩɛnʋ zie ?
+44007052	buor		Naaŋmɩn-ƴɛr-man-buor sob ʋ a nyɩ sãà mɩnɛ bɛ dɔwrɩ ? Bɛ kʋ́ n a bɛl na tɩ dãw hiere a nɩ-mɩŋa waa a . A Nɩ-mɩŋa ŋa tɔr za nyɩ na pãa mɩl kʋ́ a ,
+44008031	ŋmɩŋmɩn		Ʋ tɩ sɔw na : « Nɩr bɛ wa ír a pɛr kʋ̀ m a , ŋmɩŋmɩn za n'a ɩ̃ na ɩ tɩ bãw ? » Ʋ tɩ yel ɩ a ŋa , ɛ ƴãw a Filib do kpɛ zɩ̃ pɩɛl ʋ .
+44008033	ãa		Bɛ siwr ʋ na , ɛ́ bɛ dɩ a ƴɛrʋ nɩ mɩnʋ kʋ̀ ʋ ɛ . Ãa n'ʋ ƴɛr a ʋ bʋʋrɛ ƴɛrʋ ? Bʋ̃ʋ n'ʋ vɛ̃ , bɛ ír ɩ a ʋ nyɔ-vʋʋrʋ a tẽw zu . ›
+44008034	ãa		A dɛ-vár sowr ɩ a Filib : « Ɩ̃ zɛlɛ fʋ na , yel ɩ̃ nyɛ̃ , ãa ƴɛrʋ n'a a Naaŋmɩn-ƴɛr-manɛ ƴɛrɛ ? Ʋl mɩŋa ƴɛrʋ n'a ʋ ƴɛrɛ bɩɩ nɩ-yũo ƴɛrʋ n'a ? »
+44008036	Bʋ̃ʋ n'ʋ		Bɛ na tɩ cãa lo a sɔr cere a , bɛ tɩ ta n kʋ̃ɔ zie . A dɛ-vár tɩ yel ɩ a Filib : « Nyɛ̃ kʋ̃ɔ , bʋ̃ʋ n'ʋ be be ɩ̃ kʋ̃ tʋ̃ɔ de a suob ? » [
+44009004	Bʋ̃ʋ n'ʋ so		Ʋ tɩ lo na gã tẽw ɛ wõ kɔkɔr ʋ yere a ʋ zie : « Sol i , Sol i , bʋ̃ʋ n'ʋ so fʋ dɔwrɛ mɛ̃ ? »
+44009005	ãa		A Sol tɩ sowr ʋ na : « Ãa nɛ b , Sore e ? » Ʋ tɩ sɔw na : « Mãa n'ɩ a Yeezu , mãa n'ʋ fʋ dɔwrɛ .
+44009006	~		Ɛ cɛ ìr kpɛ a tẽw pʋɔ , bɛ na tɩ yel a kʋ̀ b a ʋlɩ bom nɛ a na fɛr kɛ fʋ ɩ a . »
+44010004	bʋnʋ		A Kɔrnɛɩ tɩ jɩr ʋ nɩ gbẽgbẽ , ɛ́ dɛ̃bɩ̃ɛ nyɔw ʋ , ʋ sɔw : « Ɛ́ bʋnʋ , Sore e ? » A malkɩ tɩ lɛb yel ʋ : « Naaŋmɩn nyɛ̃ nɩ a lɛ fʋ na sõwne a nɩbɛ a , ʋ saw na de a fʋ puoru , ʋ bɛ yiiri fʋ bɛr ɛ .
+44010021	bʋ̃ʋ ƴãw		A Pɩɛr tɩ siw nɩ a nɩbɛ bɛl zie tɩ yel bɛ : « Nyɩ nyɛ̃ m . Mãa n'ɩ a sob nɛ nyɩ na bɔbr a . Bʋ̃ʋ ƴãw n'a nyɩ wa ? »
+44010029	~		Alɛ n'a so , fʋ na tõ kɛ́ bɛ bʋɔlɩ mɛ̃ a , ɩ̃ ìr wa daadaa lɛ . Ɛ cɛ ɩ̃ pãa bɔbr a k'ɩ̃ɩ bãw a fʋ bʋɔlʋ pɛr . »
+44010047	ãa		« Ãa n'ʋ na tʋ̃ɔ sɩb a suob kʋ̃ɔ , ɛ yel kɛ a nɩbɛ bɛ ŋa ta de a suob , bɛl na páw a Vʋʋrʋ Sõw mɛ̃ a tɩɩm a ? »
+44011017a	ãnʋ		A Naaŋmɩn wa kʋ̀ bɛ a maalʋ been nɛ tɩ na tɩ páw , a lɛn daar tɩ na saw de a Sore Yeezu Kɩrɩta yele a , mãa mɩ̀ n'ɩ ãnʋ na yel kɛ a Naaŋmɩn ta ɩ a lɛ ? »
+44011017b	~		
+44012018	~		A zie na wa vɩɛ a , a tɩ ɩ n damnʋ yaga a sojarɩ sɔgɔ : bɛ tɩ sowre nɩ taa a lɛ a Pɩɛr na ɩ a .
+44013025	ãa		A Zã tome na tɩ ta baarʋ a , ʋ tɩ yere na : ‹ Nyɩ tɩɛr kɛ ãa nɛ m ? Ɩ̃ bɛ ɩ a sob nɛ nyɩ na gùre a ɩ , ɛ cɛ ʋlɛ n'ɩ ŋan be a ɩ̃ pùor waar , ɛ ɩ̃ bɛ sɛwnɩ na cɛr a ʋ nafawr bʋ̃-'lẽni ɛ . › »
+44014015	Bʋ̃ʋ n'ʋ so		tɩ yel : « Alɛ ! Ba-mɩnɛ ɛ , bʋ̃ʋ n'ʋ so nyɩ ɩrɛ a a ŋa ? Tɩ mɩ̀ ɩ n nɩsaalbɛ mɛ̃ a nyɩɩm a ! A Yel-nʋ̃ɔ̀ tɩ na hiere kʋ̀rɛ nyɩ a , ʋlɛ n'ɩ kɛ́ nyɩ bɛr a bʋ̃-zawlɛ a ŋa ɛ saw de a Naaŋmɩn na vʋʋrɛ a , ʋlɛ n'ʋ ír a salom , a tẽw , a kʋ̃ɔ-kpɛ̃ɛ nɩ a bome za na be a pʋɔ a .
+44015010	Bʋnʋ ƴãw		A na ɩ a ŋa a , bʋnʋ ƴãw n'a nyɩ yel kɛ nyɩ ɩ a Naaŋmɩn kaa ? Nyɩ na de tuor , tɩɩm nɩ a tɩ sãà mɩnɛ na bɛ tʋ̃ɔ tuo a , bɔbr kɛ nyɩ tuo a po-tuurbɛ a ?
+44016030	Bʋ̃ʋ n'ʋ		Al pùorí , ʋ tɩ tɛr bɛ na yi n ɛ sowri bɛ : « Ɩ̃ ba mɩnɛ ɛ , bʋ̃ʋ n'ʋ a fɛr k'ɩ̃ɩ ɩ páw a faafʋ ? »
+44017018	Bʋ̃ʋ n'ʋ		Yã-bãwnbɛ bɛ mɩnɛ kãw , bɛ na bʋɔlɛ Epikiir nɩbɛ nɩ Sitoyisɩ̃ɛ mɩnɛ a , mɩ̀ tɩ be n be ƴɛrɛ nɩ a Pol . Bɛ mɩnɛ tɩ yere na : « Bʋ̃ʋ n'ʋ a gɔmɛ sob ŋa yere ? » Ɛ bɛ mɩnɛ yere : « Ŋmɩn-sãanbɛ bɛ mɩnɛ kãw yele tɔ̃w n'a ʋ manɛ . » A Yeezu yele nɩ a kũu-pʋɔ-lɛ-yib yele n'a a Pol tɩ hiere kʋ̀rɛ bɛ .
+44017019	~		Bɛ tɩ nyɔw ʋ na cen nɩ a Atɛn tẽw ƴɛrʋ-dɩb-lãw nɩbɛ niŋé , bɛ na bʋɔlɛ kɛ Aropazɩ a , tɩ sowr ʋ : « Tɩ na tʋ̃ɔ na bãw a wul-paala ŋa fʋ na wule a ?
+44019003	buor		A Pol tɩ lɛb a sowri bɛ : « Ɛ́ suob buor ʋ bɛ kʋ̀ nyɩ ? » Bɛ tɩ sɔw na yel : « Zã suob ʋ . »
+44019015	ã-mɩnɛ		Bibir kãw , a kɔ̃tɔ̃-faa wa tɩ yel bɛ na : « A Yeezu a , ɩ̃ bãw ʋ na , ɛ mɩ̀ cãa lɛ bãw a Pol . Ɛ a nyɩɩm , ã-mɩnɛ n'ɩ nyɩ ? »
+44019035	ãa		A tẽw sɛ-sɛbrɛ tɩ wa nanɩ na ɓaalɩ a nɩbɛ bɛ bɛr a gɔmɛ , ɛ ʋ yel bɛ : « Efɛɛzɩ tẽw nɩbɛ ɛ , ãa n'ʋ bɛ bãwnɩ a , a Atemisɩ tẽ-sõw na n'ɩ a Efɛɛzɩ a ? A Atemisɩ dasule na yi a salom zu wa lo a , ãa n'ʋ mɩ̀ cãa bɛ lɛ bãwnɩ a ?
+44021013a	Bʋ̃ʋ ƴãw		Lɛ n'a ʋ tɩ sɔw yel tɩ : « Bʋ̃ʋ ƴãw n'a nyɩ kone ɛ sãwnɛ mɛ̃ pʋɔ a ŋa ? Mãa a , 'leb yõ bɛ n'a ɩ̃ gu ɛ , ɩ̃ mɩ̀ gu n a kũu a Zeruzalɛm a Sore Yeezu yúor ƴãw . »
+44021013b	~		
+44021022	ŋmɩŋmɩn		Ŋmɩŋmɩn za n'a tɩ na ɩ ? Bʋnʋ bɛ ka be ɩ , bɛ na wõ na kɛ fʋ be n ka .
+44021033a	ãa		A sojarɩ tur nɩ-kpɛ̃ɛ tɩ taw na ta ƴãw bɛ nyɔw a Pol 'lẽ nɩ bamɛ ayi . Al pùorí ʋ tɩ sowr a kɛ ãa n'ʋ ? 
+44021033b	bʋ̃ʋ n'ʋ		Nɩ kɛ bʋ̃ʋ n'ʋ ʋ ɩ ?
+44022007	bʋ̃ʋ ƴãw		Ɩ̃ tɩ lo na gã tẽw ɛ wõ kɔkɔr ʋ sowre mɛ̃ : ‹ Sol i , Sol i , bʋ̃ʋ ƴãw n'a fʋ dɔwrɛ mɛ̃ ? ›
+44022008	ãa		Ɩ̃ tɩ sɔw na yel : ‹ Ãa nɛ b , Sore e ? › A kɔkɔr tɩ lɛb a yel mɛ̃ : ‹ Nazarɛtɩ Yeezu nɛ m , mãa n'ʋ fʋ dɔwrɛ . ›
+44022010	Bʋ̃ʋ n'ʋ		Lɛ n'a ɩ̃ tɩ lɛb sowri : ‹ Bʋ̃ʋ n'ʋ a fɛr k'ɩ̃ɩ ɩ , Sore e ? › A Sore tɩ sɔw na yel mɛ̃ : ‹ Ìr cen a Damasɩ , bɛ na tɩ yel a kʋ̀ b a be a alɩ bome nɛ za a Naaŋmɩn na yel kɛ fʋ ɩ a . ›
+44022016	bʋ̃ʋ ƴãw		A na ɩ a ŋa a , bʋ̃ʋ ƴãw n'a fʋ pãa na lɛ bʋnɛ a ? Ìr de a suob bʋɔlɩ a ʋ yúor a fʋ yel-bebe pɛwfʋ ƴãw . › »
+44022026	Bʋ̃ʋ n'ʋ		A sojarɩ kʋba nɩ-kpɛ̃ɛ na wa wõ a a ŋa a , ʋ cen na tɩ yel a sojarɩ tur nɩ-kpɛ̃ɛ : « Alɛ ! bʋ̃ʋ n'ʋ fʋ tɩ bɔbr kɛ fʋ ɩ a ? A nɩr ŋa ɩ n Ʋrɔm tẽ-bie dɛ ! »
+44023003	~		Lɛ n'a a Pol tɩ yel ʋ : « Dacĩ-pla ŋa ! Naaŋmɩn n'ʋ na ŋmɛ b . Fʋ do na zɩ̃ a ƴɛrʋ-maalʋ da-kɔw zu kɛ́ fʋ maal ɩ mɛ̃ a ƴɛrʋ tu n a Naaŋmɩn-Wulu , ɛ nɩ̃ɛ gãw a Wulu ŋa bɛr ɛ ƴãw kɛ́ bɛ ŋmɛ m ɩ ? »
+44023009	~		A be za tɩ ɩ n gɔmɛ tɛwr . Naaŋmɩn-Wulu-sɛ-sɛbrbɛ bɛ mɩnɛ kãw , na tɩ ɩ Farizɩ̃ɛ mɩnɛ a , tɩ ìr a de a ƴɛrʋ tanɩ kpɛ̃w za yel : « Tɩ bɛ nyɛ̃ sãwna kãw za a nɩr ŋa zie ɩ . Ɛ vʋʋrʋ kãw bɩɩ malkɩ wa n'ʋ ƴɛr a ʋ zie ? »
+44023019	Bʋ̃ʋ n'ʋ		A sojarɩ tur nɩ-kpɛ̃ɛ tɩ nyɔw ʋ nɩ nũú , taw yi n bɛ tɛwr zie tɩ sowr ʋ : « Bʋ̃ʋ n'ʋ fʋ bɔbr kɛ fʋ yel kʋ̀ m ? »
+44026008	bʋ̃ʋ ƴãw		Bʋ̃ʋ ƴãw n'a a nyɩɩm Zifʋ mɩnɛ , nyɩ tɩɛrɛ kɛ a bɛ tɛr sɔr kɛ nɩr saw de kɛ Naaŋmɩn mɩ́ ɩ na a kũuni bɛ lɛb ìr ?
+44026014	Bʋ̃ʋ n'ʋ so		Tɩ za tɩ lo na gã tẽw , ɛ ɩ̃ wõ kɔkɔr ʋ ƴɛrɛ nɩ mɛ̃ arameyɛ̃ yere : ‹ Sol i , Sol i , bʋ̃ʋ n'ʋ so fʋ dɔwrɛ mɛ̃ ? Fʋ̃ʋ n'ʋ lɛ ŋmɛlɩ ɩrɛ a kpɩɛr fʋ tʋɔra , mɛ̃ dʋ̃w na lɩɛb ba gbɛr a dabɔl bɛ na kparɛ nɩ ʋ a ƴãw a . ›
+44026015	ãa		Ɩ̃ tɩ sowr ʋ na : ‹ Ãa nɛ b Sore e ? › A Sore tɩ lɛb a yel : ‹ Mãa n'ɩ a Yeezu , mãa n'ʋ fʋ dɔwrɛ .
+45002017	~		Ɛ cɛ fʋ̃ʋ a , fʋ̃ʋ na dɩ kɛ Zifʋ a , fʋ ɩrɛ na ƴãwn a Naaŋmɩn-Wulu ƴãw ɛ nyʋʋr a fʋ Naaŋmɩn ƴãw ;
+45002021	Bʋ̃ʋ n'ʋ so		A na ɩ a ŋa a , fʋ̃ʋ na wule a fʋ tɔ a , bʋ̃ʋ n'ʋ so fʋ bɛ wule fʋ tʋɔra ? Fʋ̃ʋ na kanɛ kɛ́ bɛ ta zure a , bʋ̃ʋ n'ʋ so fʋ zure ?
+45002028	~		Sɩza n'a , a Zifʋ tɔr za bɛ n'ɩ a sob nɛ na sãá Zifʋ a ɩ , ɛ́ bom na sãá a ƴãganɩ́ a , bɛ n'ɩ a yʋɔr-ŋmãafʋ ɛ .
+45003001a	~		A na ɩ a ŋa a , a Zifʋ ɩb tɛr ɩ tɔnɛ kãw bɩɩ ? 
+45003001b	~		A yʋɔr-ŋmãafʋ tɛr ɩ yel-ɩra bɩɩ ?
+45003003	bʋnʋ		Ɛ bʋnʋ ? Bɛ mɩnɛ kãw wa lɛb pùor a bɛ Naaŋmɩn-saw-deb pʋɔ a , a bɛ pùor-lɛbrʋ na ɩ na a Naaŋmɩn mɩ̀ lɛb pùor bɩɩ ?
+45003005	bo		Ɛ cɛ a tɩ yel-mɩŋa bɛ-tɛrʋ mɩ́ wa ɩ a Naaŋmɩn yel-mɩŋa sãá a , tɩ lɛ yel kɛ bo ? A wul a kɛ a Naaŋmɩn bɛ tɛr yel-mɩŋa ʋ na mɩ́ nyɛ̃ nɩ tɩ suur a bɩɩ ? ( Ɩ̃ ƴɛrɛ na mɛ̃ nɩsaalbɛ a . )
+45003006	ŋmɩŋmɩn		Lɛ bɛ n'a towtow ɛ ! Alɛ bɛ ɩ lɛ , ŋmɩŋmɩn n'a a Naaŋmɩn na tʋ̃ɔ maal ɩ a tẽ-daa a ƴɛrʋ ?
+45003007a	~		Ɛ cɛ , a ɩ̃ ziri mɩ́ wa ɩ a Naaŋmɩn yel-mɩŋa ʋ sãá cãàmɩ́ , a ʋ yúor-vɩɛlʋ-danʋ ƴãw a , 
+45003007b	bʋnʋ ƴãw		bʋnʋ ƴãw n'a bɛ cãa dɔwrɛ mɛ̃ , mɛ̃ yel-bier sob a ?
+45003008	Bʋnʋ ƴãw		Alɛ wa ɩ a ŋa a , bʋnʋ ƴãw n'a tɩ kʋ̃ maalɛ a faa k'aa vla wa tʋ̃ɔ yi a be , mɛ̃ a lɛ bɛ mɩnɛ kãw na ŋmarɛ ziri ƴãwn tɩ kɛ́ lɛ n'a tɩ yere a ? A nɩbɛ bɛ ŋa sɛwnɩ nɩ a dɔwrʋ bɛ na na páw a .
+45003009	bʋnʋ		Ɛ́ bʋnʋ ? A tɩɩm Zifʋ mɩnɛ , tɩ zuo nɩ a nɩbɛ bɩɩ ? Lɛ bɛ n'a ɩ ! Ɩ̃ dãw na manɩ wul k'aa nɩbɛ za , a Zifʋ mɩnɛ nɩ a bɛl na bɛ ɩ Zifʋ a , k'aa yel-bier dɩ n naalʋ a bɛ za zu ,
+45003027a	Nyɩn		Nyɩn lowr a tɩ na lɛ cãa ɩrɛ pɔ̀lʋ ? A yi na zaa ! 
+45003027b	Bʋnʋ		Bʋnʋ zũú ? 
+45003027c	~		A Wulu ɩ-ɩrɩ zũú bɩɩ ? Towtow ! Ɛ cɛ a Kɩrɩta saw-deb zũú n'a .
+45004001	Bʋ̃ʋ n'ʋ		A na ɩ a ŋa a , bʋ̃ʋ n'ʋ tɩ na yel a tɩ sãakʋm Abraham ƴãw ? Bʋ̃ʋ n'ʋ ʋ páw , ʋ na ɩ nɩsaal a ?
+45004003	bo		A Sɛb-sõw yere na kɛ bo ? « K'aa Abraham tɩ saw na de a Naaŋmɩn , a Naaŋmɩn saw kʋ̀ ʋ a al ƴãw k'ʋʋ ɩ n nɩ-mɩŋa . »
+45004010	debor		Ɛ cɛ debor daar a Naaŋmɩn tɩ saw kʋ̀ ʋ a lɛ ? A Abraham na tɩ ŋmãa a yʋɔr baar a n'a bɩɩ , ʋ na bɛ tɩ ŋmãa sɛr a n'a ? Ʋ na tɩ ŋmãa baar a bɛ n'a ɩ , ʋ na bɛ tɩ ŋmãa sɛr a n'a .
+45005010	bʋnʋ		Tɩ tɩ ɩ n a Naaŋmɩn dɔ̃ dem , ʋʋ ɩ tɩɩm nɩ ʋl lɛb kpɛ taa a ʋ Bie kũu zũú . Ƴɛrɛ ŋa tɩɩm nɩ ʋl na lɛb kpɛ taa baarɩ a , bʋnʋ bɛ ka be ɩ , ʋ na faa tɩ nɩ zaa lɛ a ʋ Bie nyɔ-vʋʋrʋ ƴãw .
+45005021	~		A na ɩ a ŋa a , mɛ̃ a lɛ a yel-bier na tɩ wul a kũu fãw ʋ na tɛr a , lɛ mɩ̀ n'a a Naaŋmɩn maalʋ wule faafʋ fãw , k'ʋʋ tʋ̃ɔ tɛr tɩ cen nɩ a nyɔ-vʋʋrʋ na be kʋra lɛ a pʋɔ , a Yeezu Kɩrɩta tɩ Sore ƴãw .
+45006001	bo		A na ɩ a ŋa a , tɩ na yel a kɛ bo ? Kɛ́ tɩ cãa be a yel-bier pʋɔ a Naaŋmɩn maalʋ tʋ̃ɔ ʋr bɩɩ ?
+45006002	ŋmɩŋmɩn		Lɛ bɛ n'a towtow ɛ ! Tɩ kpi na , bɛ cãa pʋɔ yel-bier pʋɔ ɩ : ŋmɩŋmɩn n'a tɩ na tʋ̃ɔ cãa be a yel-bier pʋɔ ?
+45006015	bʋnʋ		Ɛ bʋnʋ ? Tɩ na maalɛ nɩ a yel-bier , a Naaŋmɩn-Wulu na bɛ cãa so tɩ ɛ Naaŋmɩn maalʋ so tɩ a bɩɩ ? Lɛ bɛ n'a towtow ɛ !
+45006021	bʋnʋ		A ɩ-ɩrɩ a ŋa na ɩrɛ vĩ a dɩ̃a a , bʋnʋ tɔnɛ n'a nyɩ tɩ nyɛ̃ a pʋɔ , a lɛn daar nyɩ na tɩ tɛr a ɩ-ɩrɩ a ŋa a ? Kũu n'a a waar ɩ .
+45007007	Bʋ̃ʋ n'ʋ so		Tɩ na yel a kɛ bo ? K'aa Naaŋmɩn-Wulu ɩ n yel-bier bɩɩ ? Lɛ bɛ n'a towtow ɛ ! Ɛ cɛ a Wulu n'ʋ ɩ ɩ̃ bãw bʋ̃ʋ n'ɩ a yel-bier . Bʋ̃ʋ n'ʋ so , a Wulu bɛ tɩ yel a ƴɛr-bie a ŋa : « Ta nyɛ̃ a fʋ tɔ bom bɔbr ɛ » , ɩ̃ kʋ̃ʋ bãw bʋ̃ʋ n'ɩ nyɛ̃ a fʋ tɔ bom bɔbr ɛ .
+45007024	ãa		'Woi , zu-bio sob i ! Ãa n'ʋ na faa mɛ̃ bɛr a ƴãgan ŋa ƴãw , na wɩɛr ɩ mɛ̃ a kũu pʋɔ a ?
+45008024	ŋmɩn		Tɩ nyɛ̃ nɩ a faafʋ , ɛ cɛ ʋ cãa na ɩ bom tɩ na tɩɛrɛ a . Fʋ̃ʋ wa nyɛ̃ a ʋlɩ bom fʋ na tɩɛrɛ a , ʋ bɛ cãa ɩ tɩɛrʋ fʋ tɩɛrɛ ɩ : a bom fʋ na nyɛ̃ a , fʋ na ɩ n ŋmɩn cãa tɩɛrɛ ʋ ?
+45008031a	bʋnʋ		A na ɩ a ŋa a , tɩ na lɛ yel a kɛ bʋnʋ a yel ŋa ƴãw ? 
+45008031b	ãa		A Naaŋmɩn wa kpɛ tɩ a , ãa n'ʋ na dɩ n tɩ ƴɛrʋ ?
+45008032	ŋmɩŋmɩn		Ʋ bɛ jɩɩrɩ a ʋl mɩŋa Bie bɛr ɛ , ʋ nɩ̃ɛ na de ʋ tɩr bɛ kʋ́ a tɩ za ƴãw : ŋmɩŋmɩn za n'a ʋ kʋ̃ kʋ̀ tɩ bom za zawla lãw nɩ a ʋ Bie ?
+45008033	ãa		A bɛlɩ dem a Naaŋmɩn na kaa ir a , ãa n'ʋ na yel kɛ bɛ tɛr ɩ sãwna ? Nɩr bɛ ka be ɩ . A Naaŋmɩn na n'ʋ wule kɛ́ bɛ bɛ tɛr sãwna a ƴãw .
+45008034	ãa		Ãa n'ʋ na maal ɩ bɛ ƴɛrʋ ? Nɩr bɛ ka be ɩ . Bʋ̃ʋ n'ʋ vɛ̃ , a Yeezu Kɩrɩta kpi na , mɔ̃ mɩ̀ ʋ lɛb a yi a kũu pʋɔ , ʋ be n a Naaŋmɩn dʋrʋ lowr zɛlɛ ʋ a tɩ ƴãw .
+45008035	ãa		Ãa n'ʋ na tʋ̃ɔ bʋ́r tɩɩm nɩ a Kɩrɩta a ʋ nɔ̃wfʋ pʋɔ ? Kpɩɛrʋ bɩɩ ? Pʋl-vʋ̃ɔ bɩɩ ? Nɩsaalbɛ dɔwrʋ bɩɩ ? Kɔ̃ bɩɩ ? Bom-bɛ-tɛrʋ bɩɩ ? Bʋ̃-faa bɩɩ ? A kũu bɩɩ ?
+45009014	bo		Tɩ na yel a kɛ bo ? A Naaŋmɩn taa ɩrɛ bɛ wa tuur yel-mɩnʋ ʋ ? Lɛ bɛ n'a towtow ɛ !
+45009019a	Bʋnʋ ƴãw		Kãpaw fʋ na yel mɛ̃ na : « Bʋnʋ ƴãw n'a a Naaŋmɩn na cãa yere tɩ ? 
+45009019b	ãa		Ãa n'ʋ na tʋ̃ɔ yel k'aa ʋ pʋ-tɩɛrʋ ta maalɩ ? »
+45009020a	ãa		Ɛ cɛ ãa nɩ̃ɛ nɛ b , nɩsaal ɩ , na ƴɛrɛ lɩɛrɛ nɩ a Naaŋmɩn ? 
+45009020b	~		Yawra bʋ̃-mɩɛra na tʋ̃ɔ na yel a ʋ mɩɛrɛ kɛ 
+45009020c	bʋnʋ ƴãw		bʋnʋ ƴãw n'a ʋ mɛ ʋ a a ŋa bɩɩ ?
+45009021	~		A yaw-mɩɛrɛ bɛ tɛr sɔr na ɩrɛ lɛ za ʋ na bɔbr a nɩ a yawra bɩɩ ? Ʋ kʋ̃ tʋ̃ɔ mɛ bom na tɛr yúor a , bɩɩ bom na ɩ sãsara lɛ , a nɩ a yaw-been ʋ na naw a bɩɩ ? Yaw-mɩɛrɛ nɩ duwle .
+45009022	~		Naaŋmɩn tɩ bɔbr a k'ʋʋ wul a ʋ suur , ɛ ɩ kɛ̀ bɛ bãw a ʋ kpɛnʋ . A bɛlɩ dem a na tɩ sɛw k'ʋʋ nyɛ̃ nɩ suur a , ɛ́ bɛ tɩ ta a dɔwrʋ kɛrkɛr lɛ a , ʋ nyɔw nɩ ʋ tʋɔra yaga a bɛ ƴãw .
+45009023	~		Ɛ ʋ mɩ̀ tɩ bɔbr a wul a lɛ a ʋ yúor-vɩɛlʋ-danʋ na ɩ kpɛ̃ɛ sɛw a bɛl na cɛ a zie a , a bɛl a na tɩ sɛw k'ʋʋ zɔ bɛ nɩbaalʋ a , a bɛl ʋ na dãw de niwn cɔbrɩ kɛ́ bɛ wa pʋɔ a ʋ yúor-vɩɛlʋ-danʋ pʋɔ a .
+45009024	~		Tɩ mɩ̀ pʋɔ na , tɩɩm ʋ na bʋɔlɩ , a bɛ ɩ a Zifʋ mɩnɛ tɛwr pʋɔ ɛ mɩ̀ ɩ a nɩ-bʋʋr-yoru pʋɔ a .
+45009030	bo		Tɩ na yel a kɛ bo ? A ŋa n'a tɩ na yel : nɩ-bʋʋr-yoru nɩbɛ , na bɛ tɩ bɔbr a mɩnʋ a , páw nɩ a mɩnʋ a Naaŋmɩn zie , a mɩnʋ ʋl na yi a saw-deb zie a n'ʋ ɩ̃ yere ;
+45009032	Bʋ̃ʋ n'ʋ so		Bʋ̃ʋ n'ʋ so ? Bɛ bɛ tɩ bɔbr kɛ bɛ pɛlɩ a Naaŋmɩn pʋɔ a saw-deb zũú ɛ , ɛ tɩɛrɛ kɛ bɛ pɛlɩ a ʋ pʋɔ a bɛ ɩ-ɩrɩ zũú . Bɛ ŋmɛ n gbɛr a gbɛ-ŋmɛ-kʋsɩɛr ƴãw ,
+45010006	ãa		Ɛ cɛ a ŋa n'a a ƴɛrʋ na ƴɛr caar ɩ a mɩnʋ na na tʋ̃ɔ yi a saw-deb pʋɔ a ƴɛr : « Taa tɩɛrɛ fʋ pʋɔ yere : Ãa n'ʋ na do a salom zu ? » ( A pɛr lɛ k'ʋʋ tɩ ɩ a Kɩrɩta ʋ siw ) .
+45010007	ãa		Bɩɩ : « Ãa n'ʋ na siw a kpɩmɛ tẽw ? » ( A pɛr lɛ k'ʋʋ tɩ ɩ a Kɩrɩta ʋ yi a kũuni pʋɔ do wa ) .
+45010008	bo		A na ɩ a ŋa a , a ƴɛrʋ ƴɛr a kɛ bo ? Kɛ : « A ƴɛrʋ pɩɛl ɩ fʋ na , ʋ be n a fʋ nʋɔrɩ́ nɩ a fʋ socir pʋɔ . » A ƴɛrʋ ŋa ɩ n a ƴɛrʋ na caarɩ a saw-deb a , a ƴɛrʋ ŋa n'ʋ tɩ hiere .
+45010014a	ŋmɩŋmɩn		Ɛ cɛ ŋmɩŋmɩn n'a bɛ na bʋɔlɩ ʋ , ɛ́ bɛ saw de ʋ ? 
+45010014b	ŋmɩŋmɩn		Ɛ ŋmɩŋmɩn n'a bɛ na saw de ʋ , ɛ́ bɛ wõ a ʋ yele ? 
+45010014c	ŋmɩŋmɩn		Ɛ ŋmɩŋmɩn n'a bɛ na ɩ wõ a ʋ yele , nɩr bɛ wa be be hiere a ʋ yele a ?
+45010015	ŋmɩŋmɩn		Ɛ ŋmɩŋmɩn n'a bɛ na ɩ hiere a ʋ yele , bɛlɛ bɛ wa tõ nɩbɛ a al ƴãw a ? Mɛ̃ a lɛ a Sɛb-sõw na yel a : « Nyɛ̃ a yel-vɩɛlɩ yerbɛ waa na vɩɛl a ! »
+45010016	ãa		Ɛ cɛ a nɩbɛ za bɛ nɛ bɛ saw de a Yel-nʋ̃ɔ̀ ɩ . Bʋ̃ʋ n'ʋ vɛ̃ , Ɩzayi yere nɩ a ŋa : « Sore e , ãa n'ʋ saw de a yel tɩ na hieri a ? »
+45011004	Bʋ̃ʋ n'ʋ		Ɛ cɛ bʋ̃ʋ n'ʋ a Naaŋmɩn sɔw ʋ ? « Ɩ̃ cãa na bɛr nɩbɛ tur ayopõi a ɩ̃ ƴãw , a bɛl na bɛ gbĩ dume a tɩɩb na dɩ Báàl a niŋé a . » Tɩɩb na dɩ Báàl a .
+45011007	ŋmɩŋmɩn		Ŋmɩŋmɩn za n'a ? A Ɩsɩrayɛl nɩbɛ bɛ páw a ʋlɩ bom nɛ bɛ na tɩ bɔbr a ɩ ; ɛ cɛ a bɛlɩ dem a Naaŋmɩn na kaa ir a , bɛl páw ʋ na ; a ŋmaarɛ bɛl a , bɛ kpawl ɩ bɛ za ,
+45011015	ŋmɩn		A bɛ vɩrɩ-bɛrʋ wa ɩ a Naaŋmɩn nɩ a tẽ-daa lɛ kpɛ taa a , a pãa na ŋmɛ̃ n ŋmɩn a lɛn daar ʋ nãa wa lɛb de bɛ a ? A na sɩrɩ na ɩ kũu pʋɔ bɛ na yi kpɛ nyɔ-vʋʋrʋ pʋɔ a !
+45011018	~		ta zɛwr fʋ tʋɔra mɛ̃ fʋ zuo nɩ a wuli bɛ na cɛ bɛr a ɩ ; fʋ̃ʋ wa zɛwr fʋ tʋɔra mɛ̃ fʋ zuo a na a , fʋ̃ʋ bãwnɩ a fʋ̃ʋ na bɛ n'ʋ so a tɩ-nyɩgɛ be a , a tɩ-nyɩgɛ n'a so fʋ be .
+45011033a	~		Nyɛ̃ a Naaŋmɩn naalʋ na bɛ vʋʋr a ! Nyɛ̃ a ʋ yã-bãwfʋ nɩ a ʋ yele bãwfʋ na zulme a ! Nyɛ̃ a ʋ ƴɛrʋ dɩb na bɛ tɛr bãwfʋ , 
+45011033b	~		ɛ a ʋ sɛɛ bɛ tɛr bɩɛrʋ a !
+45011034a	ãa		Mɛ̃ a ŋa a Sɛb-sõw na yere a : « Ãa n'ʋ bãw a Sore tɩɛrʋ ? 
+45011034b	ãa		Bɩɩ ãa n'ʋ dãw wul ʋ yã ?
+45011035	ãa		Bɩɩ ãa n'ʋ dãw de niwn kʋ̀ ʋ bom , a fɛr k'ʋʋ mɩ̀ kʋ̀ ʋ yaa a san ? »
+45014004	ãa		A fʋ̃ʋ a , ãa nɛ b , na bãwnɛ nɩ-yũo tõ-tõ-bie yele ? Ʋ ar ɩ saa-ƴewn bɩɩ ʋ lo na a , a ʋ tõ-tõ-nɩ-kpɛ̃ɛ n'ʋ a jɩrɛ . Ʋ na kpɛmɛ na ar mɩ̀ , bʋ̃ʋ n'ʋ so , a Sore tɛr ɩ fãw na tɩɛ ʋ tɛr .
+45014010a	bʋnʋ ƴãw		Ɛ cɛ fʋ̃ʋ a , bʋnʋ ƴãw n'a fʋ bãwnɛ a fʋ yɛb yele ? 
+45014010b	bʋnʋ ƴãw		Ɛ fʋ̃ʋ , bʋnʋ ƴãw n'a fʋ jewre a fʋ yɛb ? Tɩ za na cen nɩ a Naaŋmɩn ƴɛrʋ dɩb zie .
+46001020a	Nyɩnɛ		A na ɩ a ŋa a , nyɩnɛ n'a a yã-bãwnɛ be ? 
+46001020b	Nyɩnɛ		Nyɩnɛ n'a a Naaŋmɩn-Wulu bãw-bãw-kara be ? 
+46001020c	wa		A dɩ̃a zie ŋa pʋɔ ƴɛr-bãw-ƴɛrɛ wa ? A Naaŋmɩn bɛ ɩ a tẽ-daa yã-bãwfʋ lɩɛbɩ gẽgẽmi ɩ ?
+46002011	ãa		A nɩsaalbɛ pʋɔ a , ãa n'ʋ pãa bãw bom nɛ na be a nɩsaal pʋ̃ɔmɩ́ a , a bɛ ɩ a nɩsaal tɩɛrʋ na be a nɩsaal pʋɔ a ? Lɛ mɩ̀ n'a , bom nɛ na be a Naaŋmɩn pʋɔ a , nɩr za bɛ bãw ʋ a bɛ ɩ a Naaŋmɩn Vʋʋrʋ ɛ .
+46002016a	ãa		Bʋ̃ʋ n'ʋ vɛ̃ , bɛ sɛb a kɛ : « Ãa n'ʋ bãw a Sore pʋ-tɩɛrʋ ? 
+46002016b	ãa		Ãa n'ʋ na tʋ̃ɔ wul ʋ yã ? » Ɛ tɩɩm a , tɩ tɛr ɩ a Kɩrɩta pʋ-tɩɛrʋ .
+46003005a	ãa		A ɩ lɛ ãa n'ɩ a Apɔlɔsɩ ? 
+46003005b	ãa		Ãa n'ɩ a Pol ? Tɩ ɩ n tõ-tõ-biir na ɩ nyɩ páw a Naaŋmɩn-saw-deb a ; tɩ kãw za tõ n a ʋ tome tu n a maalʋ a Sore na kʋ̀ ʋ a .
+46004007a	ãa		Ãa n'ʋ ɩ fʋ zuo a fʋ taabɛ ? 
+46004007b	Bʋ̃ʋ		Bʋ̃ʋ n'a fʋ tɛr ɛ a bɛ ɩ kʋ̀b a bɛ kʋ̀ b ? 
+46004007c	bʋnʋ ƴãw		Ɛ alɛ wa ɩ kʋ̀b a bɛ kʋ̀ b a , bʋnʋ ƴãw n'a fʋ na zɛwr ɩ fʋ tʋɔra mɛ̃ kʋ̀b bɛ n'a bɛ kʋ̀ b a ?
+46004021	Abobe		Abobe sob a nyɩ bɔbr : k'ɩ̃ɩ wa a nyɩ zie nɩ dabɔl bɩɩ k'ɩ̃ɩ wa nɩ nɔ̃wfʋ nɩ su-baalʋ ?
+46005002	~		A tɩ sɛw na k'aa ɩ kpɩɛrʋ a nyɩ zie , ɛ́ bɛ diw a nɩr ŋa tɔ bɛr a nyɩ sɔgɔ , nyɩɩm nɩ̃ɛ bɛr ɛ zɛwr nyɩ tʋɔra .
+46005012	~		A bɛlɩ dem na bɛ ɩ Kɩrɩta-nɩbɛ a , a bɛ yele bãwfʋ ya jɩrɛ mɛ̃ na bɩɩ ? Bɛlɩ dem na ɩ Kɩrɩta-nɩbɛ a yele bɛ n'a nyɩ bãwnɛ ɩ ?
+46006001	ŋmɩŋmɩn		A nyɩ ƴẽn sob na mɩ́ wa tɛr ɩ a yɛb kãw ƴɛrʋ a , ŋmɩŋmɩn za n'a ʋ mɩ́ sʋ̃ɔmɩ bɛr a lãw nɩbɛ , ɛ cen tɩ ƴãw nɩbɛ na bɛ ɩ Kɩrɩta-nɩbɛ a , bɛ maalɛ nɩ bɛ a ƴɛrʋ ?
+46006003	~		Nyɩ bɛ bãw kɛ tɩ na maalɩ nɩ a malkɩ mɩnɛ a ƴɛrʋ bɩɩ ? Ɛ́ bɛ nãa yere a tẽw ŋa zu nyɔ-vʋʋrʋ yele e !
+46006004	bʋ̃ʋ ƴãw		Ɛ cɛ nyɩ na mɩ́ wa tɛr a ƴɛrʋ-maalʋ a ŋa taabɛ a , bʋ̃ʋ ƴãw n'a nyɩ mɩ́ de nɩbɛ , a Lãw-yir na bɛ de a bɛ yele a , ƴãw bɛ ɩ a ƴɛr-maalbɛ ?
+46006007a	Bʋ̃ʋ n'ʋ so		Alɛ saa ŋmɛ̃ ŋmɩŋmɩn a , nyɩ sãw na baarɩ , nyɩ na tɛr ɩ taa ƴɛrʋ a ƴãw . Bʋ̃ʋ n'ʋ so nyɩ nɩ̃ɛ bɛ sawr bɛ nɛbr nyɩ ? 
+46006007b	Bʋ̃ʋ n'ʋ so		Bʋ̃ʋ n'ʋ so nyɩ nɩ̃ɛ bɛ bɛrɛ bɛ farɛ a nyɩ bome za ?
+46006009	~		Nyɩ nɔ̃w bɛ bãw k'aa bɛlɩ dem na nɛbr a bɛ taabɛ a , kʋ̃ kpɛ a Naaŋmɩn-Naalʋ pʋɔ ʋ ? Nyɩ ta bɛlɛ nyɩ tʋɔra a ɩ ! A pɩ̃ɔ-yel-maalbɛ , nɩ a bɛl na maalɛ a tɩbɛ a , a pɔw-gaa yel-bier-maalbɛ , nɩ a dɛ-bɛrɛ na gánɛ nɩ a dɛbli a ,
+46006016	~		Nyɩ bɛ bãw kɛ nɩr na gã nɩ a pɔw-yɛm a , ʋ lãw nɩ ʋ na bɛ ɩ ƴãw-been ɛ ? Bʋ̃ʋ n'ʋ vɛ̃ , bɛ yel ɩ a ŋa : « A bɛ za ayi na ɩ n nɩ-been . »
+46006019	~		Bɩɩ nyɩ taa bɛ bãw kɛ a nyɩ ƴãgan ɩ n a Vʋʋrʋ Sõw yir u ? A Vʋʋrʋ Sõw na be a nyɩ pʋɔ ɛ yi Naaŋmɩn zie wa a ? Nyɩ bɛ bãwnɩ a nyɩ na bɛ so nyɩ tʋɔra bɩɩ ?
+46007016a	ŋmɩŋmɩn		Yel-mɩŋa n'a , ŋmɩŋmɩn za n'a a fʋ̃ʋ pɔw na bãw kɛ fʋ na faa nɩ a fʋ sɩr ? 
+46007016b	~		Bɩɩ a fʋ̃ʋ sɩr kɛ fʋ na faa nɩ a fʋ pɔw ?
+46009007a	ãa		Ãa n'ʋ dãw de ʋ mɩŋa libie tone nɩ sojarɩ tome ? 
+46009007b	ãa		Ãa n'ʋ dãw sɛl divɛ̃-tɩɛ ɛ ciir a wɔ̃mɛ ? 
+46009007c	ãa		Bɩɩ ãa n'ʋ dãw arɛ nɩ dʋn ɛ a dʋn bʋrʋ bɛ guole ʋ ?
+46009018	buor		A na ɩ lɛ a , a ɩ̃ sã-ya pãa n'ɩ buor a ? Ʋlɛ n'ɩ k'ɩ̃ɩ hiere a Yel-nʋ̃ɔ̀ kʋ̀rɛ a nɩbɛ zawla lɛ , ɛ bɛr a tɔnɛ al za ɩ̃ na tɛr sɔr nãa páwr a Yel-nʋ̃ɔ̀ hieru pʋɔ a .
+46010019a	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ ɩ̃ bɔbr k'ɩ̃ɩ yel ? 
+46010019b	~		K'aa nɛn bɛ na kʋ́ ƴãw a tɩɩb ƴãw a , 
+46010019c	~		bɩɩ k'aa tɩɩb ɩ n bʋ̃-sɩza bɩɩ ?
+46010029	bʋ̃ʋ ƴãw		A ka a , a nyɩ tɩɛrʋ ƴɛrʋ bɛ n'a ɩ̃ ƴɛrɛ ɩ , a sob nɛ na yel kʋ̀ nyɩ a , tɩɛrʋ n'ʋ ɩ̃ yere . Bʋ̃ʋ n'ʋ vɛ̃ , bʋ̃ʋ ƴãw n'a nɩ-yũo tɩɛrʋ na bãwnɛ a ɩ̃ tʋɔra sob yele ?
+46010030	bʋ̃ʋ ƴãw		Mãa mɩ́ wa pùori a Naaŋmɩn yaanɩ ɛ dɩ a ɩ̃ bʋ̃-dɩra a , bʋ̃ʋ ƴãw n'a bɛ na yere mɛ̃ bʋ̃-dɩra ƴãw ɩ̃ na pùori a Naaŋmɩn yaanɩ a ?
+46011022	bʋnʋ		A ɩ lɛ , nyɩ dɛ bɛ tɛr yie na mɩ́ zɩ̃ a be dɩrɛ ɛ nyuur bɩɩ ? Bɩɩ a Naaŋmɩn Lãw-yir ʋ nyɩ bɛ bʋɔlɛ bom , ɛ bɔbr kɛ nyɩ tʋʋr a bɛlɩ dem na bɛ tɛr bom a ? Ɩ̃ pãa yel kɛ bʋnʋ kʋ̀ nyɩ a ? Ɩ̃ mʋʋrɩ nyɩ bɩɩ ? Towtow ! A a ŋa ƴãw a , ɩ̃ bɛ mʋʋrɛ nyɩ ɛ .
+46012017a	nyɩnɛ		A ƴãgan za tɩ ɩ mimir yõ a , nyɩnɛ n'a a tobe nãá tɩ be ? 
+46012017b	nyɩnɛ		Ɛ ʋ za tɩ ɩ tobe a , nyɩnɛ n'a a nyʋɔr nãá be ?
+46012019	nyɩnɛ		A za tɩ ɓã taa ɩ ɓɛrmɛ been yõ tẽtẽ a , nyɩnɛ n'a a ƴãgan nãá be ?
+46014006	bʋ̃ʋ		Yɛbr ɩ , alɛ ɩ mɛ̃ ɩ̃ wa n a nyɩ nyɛb a ƴɛrɛ ŋa , wa ta ƴɛrɛ ƴɛrʋ nɩr na bɛ wone a , bʋ̃ʋ yel-ɩra n'ʋ ɩ̃ na tɛr a nyɩ zie ? A ɩ̃ ƴɛrʋ bɛ wa manɩ yel-sɔwla kãw kʋ̀ nyɩ a , ʋlɛ bɛ wa wa n bãwfʋ kãw a , bɛ ƴɛr Naaŋmɩn-ƴɛr-manɛ ƴɛrʋ kʋ̀ nyɩ bɩɩ kʋ̀ nyɩ wulu kãw a , bʋ̃ʋ yel-ɩra n'ʋ ɩ̃ na tɛr a nyɩ zie ?
+46014007	ŋmɩŋmɩn		Lɛ n'a a mɩ̀ ŋmɛ̃ a yielu bome zie . Mɛ̃ a ŋa a , a wele nɩ a korijom kɔkɛɛ bɛ wa yire dẽdẽni a , ŋmɩŋmɩn n'a bɛ na bãw ʋlɩ bom a weli-pɛblɛ na pɛblɛ a , bɩɩ a korijom ŋmɩɛrɛ na ŋmɩɛr a ?
+46014008	ãa		A wɩ-pɛblɛ bɛ wa pɛblɩ a wɩɛ ʋ yi vla a , ãa n'ʋ na cɔbrɩ gu a zɛbr ?
+46014009	ŋmɩŋmɩn		Lɛ mɩ̀ n'a a nyɩ zie . A nyɩ nʋɔr wa ƴɛrɛ ƴɛr-bie nɩr na kʋ̃ tʋ̃ɔ bãw a , ŋmɩŋmɩn n'a bɛ na bãw a nyɩ ƴɛrʋ pɛr ? Nyɩ na dɛ na ƴɛrɛ bɛrɛ vuo pʋɔ .
+46014015	ŋmɩn		A na ɩ a ŋa a , ɩ̃ ɩ ŋmɩn ? Ɩ̃ na puore nɩ nɩ a Vʋʋrʋ Sõw , ɛ mɩ̀ puore nɩ a ɩ̃ yã ; ɩ̃ na yiele na nɩ a Vʋʋrʋ Sõw , ɛ mɩ̀ yiele nɩ a ɩ̃ yã .
+46014016	ŋmɩŋmɩn		Bʋ̃ʋ n'ʋ vɛ̃ , a Vʋʋrʋ Sõw yõ wa n'ʋ ƴãw fʋ puore yaanɩ puoru a , ŋmɩŋmɩn n'a a lãw pʋɔ nɩ-zawlɛ na ƴãw « Amɛn » sɔw a fʋ yaanɩ puoru , bɛ na bɛ bãw a lɛ fʋ na yere a ƴãw ?
+46014026	ŋmɩn		Yɛbr ɩ , a na ɩ a ŋa a , ɩ̃ ɩ ŋmɩn ? Nyɩ na mɩ́ wa ɓã taa a , a nyɩ kãw na mɩ́ tʋ̃ɔ na yiele yielu , kãw tɩrɛ wulu , bɩɩ yel-sɔwla kãw , kãw ƴɛrɛ ƴɛrʋ nɩr na bɛ wone a ɛ íre a pɛɛ ; ɛ cɛ a a ŋa za a , a ɩrɛ a lãw ʋ kɛrɛ .
+46014036	~		Nyɩɩm zie n'a a Naaŋmɩn ƴɛrʋ tĩ bɩɩ ? Nyɩɩm tɛwr nɛ bɛ páw ʋ bɩɩ ?
+46015012	ŋmɩŋmɩn		Tɩ hiere na kɛ a Kɩrɩta lɛb a yi a kũu pʋɔ , ŋmɩŋmɩn za n'a nyɩ mɩnɛ yere kɛ kũuni lɛ-yib bɛ ka ?
+46015029a	~		Alɛ bɛ wa ɩ a ŋa a , a bɛlɩ dem na mɩ́ ƴãw bɛ kʋ̀ bɛ a suob a kũuni ƴãw a , 
+46015029b	bʋ̃ʋ n'ʋ		bʋ̃ʋ n'ʋ bɛ pãa mɩ̀ tɩɛrɛ kɛ́ bɛ na páw na ? 
+46015029c	bʋ̃ʋ so		Alɛ wa ɩ sɩza n'a k'aa kũuni bɛ lɛbr yire a , bʋ̃ʋ so bɛ mɩ́ ƴãw bɛ kʋ̀ bɛ a suob a kũuni ƴãw ?
+46015030a	~		Ɛ a tɩɩm tɛɛ za , 
+46015030b	bʋ̃ʋ so		bʋ̃ʋ so a kũu mɩ́ jɩɛrɛ tɩ kʋra lɛ .
+46015032	bʋ̃ʋ ƴãw		Alɛ tɩ ɩ nɩsaalʋ tɛwr ƴãw n'a a , bʋ̃ʋ ƴãw n'a ɩ̃ tɩ zɛb ɩ a wɛ-dʋn a Efɛɛzɩ ? A kũuni bɛ wa lɛbr yire a , mɛ̃ a lɛ a zʋkpar na yel a : « Tɩ dɩrɛ ɛ nyúur , tɩ na na kpi bio a ƴãw . »
+46015035a	ŋmɩŋmɩn		Ɛ cɛ nɩbɛ na sowre na : « Ŋmɩŋmɩn n'a a kũuni lɛbr yire ? 
+46015035b	buor		Ƴãgã-buor ʋ bɛ mɩ́ lɛb yi n ? »
+46015055a	nyɩn		Alɛ kũu u , nyɩn lowr a fʋ zɛb tʋ̃ɔ ? 
+46015055b	wa		Alɛ kũu u , a fʋ pĩi-zɛl wa mɔ̃ ? »
+47002002	ãa		Bʋ̃ʋ n'ʋ vɛ̃ , mãa wa ɩ nyɩ tɛr pʋ-sãwna a , ãa n'ʋ na lɛb ɩ nʋ̃ɔ̀ kpɛ m , a bɛ ɩ a sob nɛ ɩ̃ na ɩ ʋ tɛr pʋ-sãwna a ?
+47002016	ãa		Bɛ ŋa zie a , kũu nyũu na waar ɩ kũu a n'a , ɛ bɛ ŋa zie a ɩ nyɔ-vʋʋrʋ nyũu na waar ɩ nyɔ-vʋʋrʋ a . Ɛ ãa n'ʋ sɛw taa nɩ a ton ŋa tɔ ?
+47003008	ŋmɩŋmɩn		ŋmɩŋmɩn za n'a a tõ-nʋɔr , a Vʋʋrʋ Sõw na tone a , kʋ̃ tɛr yúor-vɩɛlʋ-danʋ zuo lɛ ?
+47003009	ŋmɩŋmɩn		A tõ-nʋɔr na waar ɩ kũu a nɩsaalbɛ zie a tɩ tɛr ɩ yúor-vɩɛlʋ-danʋ ; ŋmɩŋmɩn za n'a a tõ-nʋɔr , na so a nɩsaalbɛ mɩ́ ɩ nɩ-mɩn a Naaŋmɩn niŋé a , kʋ̃ tɛr yúor-vɩɛlʋ-danʋ zuo lɛ ?
+47006014a	ŋmɩŋmɩn		Nyɩ ta ɩ nyɩɩm nɩ a Naaŋmɩn bɛ-saw-dierbɛ lãw taa mɛ̃ nĩ-kʋɔrɩ bɛ na caw taa nɩ da-been a nyuru zu a ɩ . Ŋmɩŋmɩn za n'a a mɩnʋ nɩ a faalʋ na tʋ̃ɔ lãw taa ? 
+47006014b	ŋmɩŋmɩn		Ŋmɩŋmɩn za n'a cãa nɩ lige na tʋ̃ɔ lãw taa ?
+47006015a	Bʋ̃ʋ		Bʋ̃ʋ wõ-taa n'a na tʋ̃ɔ be a Kɩrɩta nɩ a Belɩyaar cara pʋɔ ? 
+47006015b	Bʋ̃ʋ		Bʋ̃ʋ n'a Naaŋmɩn saw-diere nɩ Naaŋmɩn bɛ-saw-diere na tʋ̃ɔ lãw ?
+47006016	Bʋ̃ʋ		Bʋ̃ʋ wõ-taa n'a na tʋ̃ɔ be a Naaŋmɩn yir nɩ a tɩbɛ cara pʋɔ ? Bʋ̃ʋ n'ʋ vɛ̃ , tɩmɛ nɛ bɛ ɩ a Naaŋmɩn na vʋʋrɛ a yir , mɛ̃ a lɛ a Naaŋmɩn tɔr za na yel a : « Ɩ̃ na kpɩɛr ɩ a bɛ pʋɔ , ɛ́ cere a bɛ sɔgɔ , ɩ̃ na ɩ n a bɛ Naaŋmɩn , ɛ́ bɛ ɩ a ɩ̃ nɩ-bʋʋrɛ . »
+47011011	bʋ̃ʋ so		Ɛ bʋ̃ʋ so ɩ̃ ƴɛr a a ŋa ? Ɩ̃ na bɛ nɔnɛ nyɩ a n'a bɩɩ ? Naaŋmɩn yõ n'ʋ bãw !
+47011029a	ãa		Ãa n'ʋ ɩ bãbaal , ɩ̃ɩ bɛ lãw nɩ ʋ ɩ a bãbaal ? 
+47011029b	ãa		Ãa n'ʋ lɛb pùor a saw-deb pʋɔ , ɛ a bɛ dɩrɛ mɛ̃ mɛ̃ vũu a ?
+47012013	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ a Lãw-yie al na cɛ a tɛr zuo nyɩ ? Alɛ bɛ ɩ ɩ̃ na bɛ ƴãw nyɩ hanɩ a ɩ̃ ƴãw a ? Nyɩ dɩ suur kʋ̀ m a yel ŋa na bɛ tu sɔr a ƴãw .
+47012017	~		A nɩbɛ bɛl ɩ̃ na tõ a nyɩ zie a , ɩ̃ ƴãw nɩ bɛ kãw nɛb nyɩ a ɩ̃ ƴãw bɩɩ ?
+48002014	ŋmɩŋmɩn		Ɛ cɛ ɩ̃ na wa nyɛ̃ k'aa bɛ ɩb bɛ tori tu a Yel-nʋ̃ɔ̀ yel-mɩŋa a , ɩ̃ yel ɩ a Pɩɛr a nɩbɛ za niŋé : « Fʋ̃ʋ na ɩ Zifʋ a , fʋ bɛ ɩrɛ mɛ̃ Zifʋ a ɩ , ɛ ɩrɛ mɛ̃ nɩ-bʋʋr-yoru nɩr a , ŋmɩŋmɩn za n'a , fʋ na tʋ̃ɔ fɛr nɩ-bʋʋr-yoru nɩbɛ ƴãw bɛ ɩrɛ mɛ̃ Zifʋ mɩnɛ a ? »
+48003001	ãa		'Woi Galasi tẽw dãbole bɛ ŋan ɩ ! Ãa n'ʋ ɩ a ʋ sɔ-ɩb nyɔw nɩ nyɩ ? Nyɩɩm na wõ a Yeezu Kɩrɩta yele vla , a ɩ mɛ̃ a nyɩ mímié n'a bɛ kpa ʋ a da-gara zu a ?
+48003019	bo		A na ɩ a ŋa a , a Naaŋmɩn-Wulu yel-ɩra tɩ n'ɩ bo ? Bɛ ƴãw ʋ na dɔwlɩ k'ʋʋ tʋ̃ɔ mɩ́ wul a nʋɔr-zawrʋ ɩ-ɩrɩ a sãá , gùre nɩ a Abraham bʋ̃-dɔwra ʋl bɛ na ƴãw a maalʋ nʋɔr kʋ̀ a . Malkɩ mɩnɛ nɛ bɛ tu lɔ̃lʋɔrɛ ƴãw a Wulu ŋa .
+48004009a	ŋmɩŋmɩn		Ɛ cɛ ƴɛrɛ ŋa nyɩ na bãw a Naaŋmɩn a , bɩɩ a Naaŋmɩn na nɩ̃ɛ n'ʋ bãw nyɩ a , ŋmɩŋmɩn za n'a nyɩ lɛb cere a bome a ŋa na bɛ tɛr fãw , 
+48004009b	~		bɛ tɛr bom za a zie , bɔbr kɛ́ nyɩ ɩ a gbãgbaar ?
+48004010	~		Nyɩ bɛ ƴãwnɛ dere a bibie a mɩnɛ , a cuwr a mɩnɛ , a voru a mɩnɛ , nɩ a yome a mɩnɛ ƴãw ɛ .
+48004015	nyɩnɛ		A nʋ̃ɔ̀ na tɩ dãw ɩrɛ nyɩ a , nyɩnɛ n'a ʋ cen mɔ̃ ? Bʋ̃ʋ n'ʋ vɛ̃ , ɩ̃ dɩrɛ nɩ a dãsɩɛ ŋa a nyɩ ƴãw : nyɩmɛ tɩ tʋ̃ɔ a , nyɩ nãa lowr ɩ a nyɩ mimie ƴãw mɛ̃ .
+48004021	~		Nyɩɩm na bɔbr k'aa Wulu so nyɩ a , nyɩ bɛ wone a lɛ a Wulu ŋa na yere a ɩ ?
+48004030	bo		Ɛ cɛ a Sɛb-sõw yel a kɛ bo ? Ɛ « Fʋ diw a pɔw-gbãgbaa nɩ a ʋ bie bɛr ; bʋ̃ʋ n'ʋ vɛ̃ , a bɛ tɛr sɔr k'aa pɔw-gbãgbaa bie nɩ a pɔw na bɛ ɩ gbãgbaa a bie lãw a gbã-dɩ-bom ɛ . »
+48005007a	ãa		Nyɩ tɩ tĩ na zɔrɛ vla za ! Ãa n'ʋ wa piw nyɩ a sɔr , 
+48005007b	~		bɛ bɔbr kɛ nyɩ tuur a yel-mɩŋa ?
+48005011	bʋ̃ʋ ƴãw		Mãa ƴãw a , yɛbr ɩ , mãa tɩ ɩ mɛ̃ ɩ̃ cãa na kanɛ k'aa fɛr a kɛ bɛ mɩ́ ŋmãa a yʋɔr a , bʋ̃ʋ ƴãw n'a bɛ nãá cãa dɔwrɛ mɛ̃ ? A lɛ pʋɔ a , a Kɩrɩta da-gara zu kũu ƴɛrʋ kʋ̃ʋ damnɛ nɩr za ɩ .
+49004009	bo		A « ʋ do na » ŋa pɛr ɩ bo ? Alɛ bɛ ɩ k'ʋʋ mɩ̀ siw nɩ a tẽw pʋɔ̃mɩ́ za ?
+50001018	ŋmɩn		Ɛ cɛ , a na ɩ m ɩ ŋmɩn ? Alɛ saa ŋmɛ̃ ŋmɩŋmɩn za a , tɩɛr-faar a bɛ tɛr , bɩɩ yel-mɩŋa pʋɔ n'a bɛ be a , bɛ hier ɩ a Kɩrɩta , ɛ nʋ̃ɔ̀ kpɩɛr mɛ̃ a al ƴãw ; mɔ̃ mɩ̀ , ɩ̃ na cãa na cɩlɛ a al ƴãw .
+50001021	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ vɛ̃ , mãa ƴãw a , a nyɔ-vʋʋrʋ n'ɩ a Kɩrɩta , ɛ a kũu bɛ ɩ loba a ɩ̃ zie ɩ .
+51002020	bʋ̃ʋ ƴãw		A na ɩ lɛ nyɩ lãw nɩ a kɩrɩta kpi yi zaa a tẽ-daa bʋ̃-balɛ pʋɔ a , bʋ̃ʋ ƴãw n'a nyɩ fɛrɛ nyɩ tʋɔra tuur a nɛɛ a ŋa taabɛ , mɛ̃ a tẽ-daa n'ʋ cãa so a nyɩ nyɔ-vʋʋrʋ a :
+52002019	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ vɛ̃ , a nyɩɩm a , nyɩmɛ nɛ bɛ ɩ a tɩ tɩɛrʋ , a tɩ nʋ̃ɔ̀ , nɩ a tɩ zɛb-tʋ̃ɔfʋ bãwfʋ , na na ɩ a tɩ pɔ̀lʋ bom a tɩ Sore Yeezu Kɩrɩta niŋé a ʋ lɛ-waa daar a . Nyɩmɛ nɛ bɛ , nɩ-yũo kãw za bɛ n'ʋ ɛ .
+52003009	ŋmɩŋmɩn		Ŋmɩŋmɩn n'a tɩ na tʋ̃ɔ pùori a Naaŋmɩn yaanɩ a nyɩ ƴãw k'a sɛw , a nʋ̃ɔ̀ al za nyɩ na ɩrɛ tɩ nyɛrɛ a ʋ niŋé a ƴãw ?
+54003005	ŋmɩŋmɩn		Bʋ̃ʋ n'ʋ vɛ̃ , nɩr na bɛ bãw a ʋ mɩŋa yir kaafʋ a , ŋmɩŋmɩn za n'a ʋ na tʋ̃ɔ kaa Naaŋmɩn Lãw-yir zie ?
+54006007a	~		Tɩ bɛ wa n bom za a tẽ-daa zu ɛ ; 
+54006007b	~		lɛ mɩ̀ n'a , tɩ kʋ̃ tʋ̃ɔ de bom a tẽ-daa zu lɛb ɩ ɛ .
+58001005	buor		Bʋ̃ʋ n'ʋ vɛ̃ , a malkɩ buor ʋ a Naaŋmɩn dãw yel : « Ɩ̃ bie nɛ b , ɩ̃ dɔw fʋ nɩ a dɩ̃a ? » Lɛ nɩ kɛ : « Ɩ̃ na ɩ n sãà a ʋ zie , ɛ ʋ ɩ bie a ɩ̃ zie ? »
+58001013	buor		Ɛ a malkɩ buor sob ʋ a Naaŋmɩn dãw yel : « Zɩ̃ a ɩ̃ dʋrʋ lowr , ɛ gu ɩ̃ wa tɩ fɛr a fʋ dɔ̃ dem ƴãw bɛ lɩɛbɩ a fʋ gbɛɛ dɔwlʋ zie ? »
+58001014	~		A malkɩ mɩnɛ za bɛ ɩ bʋ̃-vʋbɛ na tɛr tõ-nɛɛ , Naaŋmɩn mɩ́ tõ kɛ́ bɛ tɩ sõw a bɛlɩ dem na na nyɛ̃ a faafʋ a ɩ ?
+58002003	ŋmɩŋmɩn		Ɛ ŋmɩŋmɩn n'a a tɩɩm na ɩ cɩ̃ɛ , tɩmɛ bɛ wa cɛlɛ a faafʋ kpɛ̃ɛ ŋa tɔ zie a ? A Sore mɩŋa n'ʋ de niwn ƴɛr a faafʋ ŋa ƴɛrʋ ; al pùorí , a bɛlɩ dem na wõ a Sore ƴɛrʋ a , mɩ̀ yel kʋ̀ tɩ kɛ sɩza n'a .
+58002006a	bʋ̃ʋ		Kãw sob nɩ̃ɛ na yel a ŋa a Sɛb-sõw pʋɔ zie kãw : « Naaŋmɩn ɩ , bʋ̃ʋ n'ɩ a nɩsaal , fʋ tɩɛrɛ a ʋ yele ? 
+58002006b	bʋ̃ʋ		Bɩɩ , bʋ̃ʋ n'ɩ a nɩsaal-bie , fʋ kaarɛ a ʋ zie ?
+58003016	ã-mɩnɛ		Ɛ cɛ ã-mɩnɛ nɛ bɛ tɩ wõ a Naaŋmɩn kɔkɔr ɛ zɛb ɩ ʋ ? A bɛlɩ dem za a Mõyiir na tɩ tɛr yi n a Eziptɩ tẽw a bɛ nɛ bɛ ɩ ?
+58003017	ã-mɩnɛ		Ɛ ã-mɩnɛ nɛ bɛ a Naaŋmɩn tɩ nyɛ̃ nɩ suur yome lɩz'a ayi ? A bɛlɩ dem na tɩ maalɩ a yel-bier ɛ lo kpi a wɛja-kpalɛ pʋɔ a bɛ nɛ bɛ ɩ ?
+58003018	ã-mɩnɛ		Ɛ ã-mɩnɛ zie n'a a Naaŋmɩn tɩ pɔ kɛ́ bɛ kʋ̃ ta a ʋ pɩɛnʋ zie , a bɛ ɩ a bɛ-wonbɛ bɛ ŋa zie n'a ?
+58006004	~		Nɩbɛ na dãw páw a cãa a , na lɛm a saa zu maalʋ kaa a , na páw a Vʋʋrʋ Sõw a ,
+58007011	~		A bawr-maalɛ ɩb a Levi pal pʋɔ n'ʋ tɩ so a nʋɔr bɛ na kʋ̀ a Ɩsɩrayɛl nɩbɛ a . Ɛ cɛ a Levi pal pʋɔ bawr-maalbɛ tɩ tõ ton na vɩɛl ʋ za a , a kʋ̃ʋ lɛ fɛrɛ kɛ́ baw-maal-yũo yi ɩ mɛ̃ a Mɛlkɩsedɛkɩ na tɩ ɩ a bawr-maalɛ a ɩ , ɛ bɛ ɩ mɛ̃ a lɛ a Aarɔ̃ na tɩ ɩ a bawr-maalɛ a ɩ .
+58009014	ŋmɩn		a Kɩrɩta zɩ̃ɩ na ɩ n ŋmɩn bɛ ɩ gãw lɛ ? Ʋl a Vʋʋrʋ na be kʋra lɛ a na ƴãw ʋ de ʋ tʋɔra kʋ̀ a Naaŋmɩn mɛ̃ bawr-maal-bom na bɛ tɛr dɛwr a , a ʋ zɩ̃ɩ na pɛw nɩ a tɩ pʋɔ dɛwr bɛr , a ɩ-ɩrɩ na waar ɩ kũu a na ƴãw tɩ a , kɛ́ tɩ tʋ̃ɔ tone a Naaŋmɩn na vʋʋrɛ a tome .
+58010001	~		A Naaŋmɩn-Wulu bɛ wule a lɛn tɔr za a yele na ŋmɛ̃ a ɩ ; a yel-vɩɛlɩ na waar a dasule tɛwr ʋ ʋ wule . Ʋ bɛ be za na tʋ̃ɔ ɩ , a bɛlɩ dem na tawr pɩɛlɛ a Naaŋmɩn a , bɛ vɩɛl bɛ cɛ ɩ , a bawr-been nɛ na saa maalɛ kʋra lɛ , yuon za , bɛ tɛr bɛrʋ daar a .
+58010029a	~		Nyɩ tɩɛr bãw kɛ sob nɛ na ɩ a Naaŋmɩn Bie la a , 
+58010029b	~		na nyɛ̃ a Wõ-taa zɩ̃ɩ na kʋ̀ ʋ a sonu a bɛ ɩ bom a , 
+58010029c	~		ɛ tʋ a Vʋʋrʋ na tɩrɛ a maalʋ a , 
+58010029d	~		nyɩ tɩɛr bãw k'aa sob nɛ kʋ̃ sɛwnɩ dɔwrʋ na kpɛ faa zuo lɛ a bɩɩ ?
+58011032	Bʋ̃ʋ n'ʋ		Bʋ̃ʋ n'ʋ ɩ̃ na lɛb yel ? Vuo bɛ ka be ɩ̃ na ƴɛr a Zedɩ̃ɔ , Barakɩ , Sãsɔ̃ , Zɛfɩte , Daviir , Samɩɛl nɩ a Naaŋmɩn ƴɛr-manbɛ ƴɛrʋ ɛ .
+58012007	buor		A tuo nyɩ na wone a , a nyɩ kpãafʋ ƴãw n'a . A Naaŋmɩn ɩrɛ nɩ a nyɩ zie mɛ̃ a ʋ bibiir a . Ɛ cɛ bi-buor sob ʋ a sãà bɛ mɩ́ kpãa ?
+58012009	~		Tɩ tɩ tɛr ɩ a tɩ sãà mɩnɛ a tẽw zu ka , bɛ kpãanɛ tɩ , ɛ́ tɩ ƴãwnɛ bɛ ; ɛ́ bɛ nãa yere a tɩ Sãà na be a tẽ-vla pʋɔ a ? A fɛr a kɛ tɩ sawr a ʋ nʋɔr , ʋʋ kʋ̀ tɩ a nyɔ-vʋʋrʋ .
+58012025	~		Nyɩ gu vla taa wa zawrɛ a sob nɛ na ƴɛrɛ a nyɩ zie a ƴɛrʋ bɛr-wob ɛ . Bʋ̃ʋ n'ʋ vɛ̃ , a bɛlɩ dem , na tɩ zawrɩ a sob nɛ na kpãanɛ bɛ a tẽw zu ka a bɛr a , bɛ bɛ cɩ̃ɛ ɩ , ɛ̀ bɛ nãa yere a tɩɩm ɩ , tɩ mɩ̀ kʋ̃ cɩ̃ɛ ɩ , tɩmɛ wa gur pùor cɔw a sob nɛ na ƴɛrɛ a tɩ zie a tẽ-vla pʋɔ a .
+58013006	Bʋ̃ʋ n'ʋ		Lɛ so tɩ na tʋ̃ɔ bɛr tɩɛrʋ ɛ yel : « A Sore n'ɩ a ɩ̃ sõwne , ɩ̃ kʋ̃ zɔrɛ bom za dɛ̃bɩ̃ɛ ɩ . Bʋ̃ʋ n'ʋ nɩsaal na tʋ̃ɔ ɩ m ? »
+59002006	~		Ɛ cɛ a nyɩɩm a , nyɩ bɛ tɛr a nãw sob ƴãwfʋ ɛ . A tɛ̀rá dem bɛ nɛ bɛ mɩ́ dɔwrɛ nyɩ ɛ nyɔwr nyɩ cere nɩ a ƴɛrʋ-dɩb ziir ɛ ?
+59002014	bʋ̃ʋ		Ɩ̃ yɛbr ɩ , nɩr wa yel k'ʋʋ tɛr ɩ a Naaŋmɩn-saw-deb , ɛ́ bɛ mɩ́ wul a sãá a ʋ ɩ-ɩrɩ pʋɔ a , bʋ̃ʋ yel-ɩra n'a a tɛr ? A saw-deb ŋa na tʋ̃ɔ na faa ʋ bɩɩ ?
+59002016a	~		ɛ a nyɩ kãw yel bɛ : « Nyɩ na kul ɩ vla ; nyɩ tɩ su kparɩ a ƴãgamɛ tʋl ɛ nyɩ dɩ tɩw » , 
+59002016b	~		ɛ́ nyɩ bɛ kʋ̀ bɛ a bɛ ƴãgamɛ yel-bɔbrɩ ɛ , a tɛr ɩ pɛr bɩɩ ?
+59002018	~		Ɛ cɛ kapaw nɩr na yel a : « Fʋ̃ʋ a , fʋ tɛr ɩ a Naaŋmɩn-saw-deb , ɛ mãa tɛr a ɩ-ɩrɩ . » Lɛn daar a ɩ̃ na sɔw ʋ : « Wul mɛ̃ a lɛ a fʋ Naaŋmɩn-saw-deb na na tʋ̃ɔ be be , ɛ bɛ tɛr ɩ-ɩrɩ a . Mãa a , a ɩ-ɩrɩ pʋɔ n'a ɩ̃ na wul fʋ a ɩ̃ Naaŋmɩn-saw-deb . »
+59002021	~		A tɩ sãakʋm Abraham a , a ʋ ɩ-ɩrɩ ƴãw bɛ n'a Naaŋmɩn tɩ nyɛ̃ ʋ k'ʋ ɩ nɩ-mɩŋa ɩ ? A ʋ bi-dɛb Ɩzaakɩ ʋ na tɩ de tɩr a baw-maal-kuur zu a ƴãw bɛ n'a ɩ ?
+59003013	ãa		Ãa n'ʋ bãw yã ɛ tɛr yã a nyɩ pʋɔ ? Ʋ wul a sãá cenu na vɩɛl a pʋɔ , nɩ ɩ-ɩrɩ na ɩ yã-bãwnɛ nɩ su-siwra sob ɩ-ɩrɩ a pʋɔ .
+59003017	~		Ɛ cɛ a yã-bãwfʋ na yi a Naaŋmɩn zie a , ʋ mɩ̀ de nɩ niwn ɩ vɩɛlʋ tɛwr ; al pùorí ʋ ɩ ƴã-ɓaarʋ , su-nʋ̃ɔ̀ , nʋɔr sawfʋ ; ʋ mɩ́ ɩ n nɩbaal-zɔba nɩ ɩ-vɩɛlɩ tɛwr ; ʋ bɛ mɩ́ owre ɩ , ɛ bɛ sɔwlɛ a ʋ pʋ-tɩɛrʋ ɛ .
+59004001a	nyɩnɛ		A taw-taa nɩ a zɛbr na mɩ́ be a nyɩ cara pʋɔ a , nyɩnɛ n'a a mɩ́ yi ? A nʋ̃ɔ̀ faar vʋla na mɩ́ mʋɔr a nyɩ ƴãgamɛ pʋɔ a , be bɛ n'a a mɩ́ yi ɛ ?
+59004001b	~		
+59004012	ãa		Naaŋmɩn yõ n'ʋ ɩ a nɔ-ƴãwnɛ nɩ a ƴɛr-dɩrɛ ; ʋl yõ n'ʋ na tʋ̃ɔ faa , ʋl yõ n'ʋ na tʋ̃ɔ kʋ́ . Fʋ̃ʋ a , ãa nɛ b , na bãwnɛ a fʋ tɔ sãwna ?
+59004014	Bʋ̃ʋ n'ʋ		Ɛ́ nyɩ na bɛ bãw a lɛ a nyɩ nyɔ-vʋʋrʋ na na ŋmɛ̃ a bio a ! Bʋ̃ʋ n'ʋ vɛ̃ , nyɩ ɩ na mɛ̃ bʋ̃-tʋlʋ uuru na mɩ́ sãanɛ wa baarɛ ɛ lɛ bɔr a .
+60002020	bʋ̃ʋ		Nyɩmɛ mɩ́ wa saw de a dɔwrʋ nyɩ na sãw a ƴãw a , bʋ̃ʋ yúor ʋ nyɩ na páw a pʋɔ ? Ɛ cɛ nyɩmɛ mɩ́ wa ɩ vla baar ɛ cãa saw de a dɔwrʋ a , a ɩ n maalʋ nyɩ páw a Naaŋmɩn zie .
+60003013	ãa		Nyɩmɛ wa tʋlɛ a vla ƴãw a , ãa n'ʋ na ɩ nyɩ faa ?
+60004017	ŋmɩŋmɩn		Sɩza n'a , a ƴɛrʋ-maalʋ na tine a daar ta na . Ɛ a Naaŋmɩn nɩ-bʋʋrɛ nɛ bɛ bɛ de niwn maal ɩ a ƴɛrʋ . Ɛ cɛ alɛ wa tine a tɩ zie a , ŋmɩŋmɩn n'a a baarʋ daar , a na ŋmɛ̃ a bɛlɩ dem zie na zawrɩ na saw de a Naaŋmɩn Yel-nʋ̃ɔ̀ a ?
+60004018	ŋmɩŋmɩn		Mɛ̃ a lɛ a Sɛb-sõw na yel a : « A nɩ-mɩŋa wa nyɛ̃ a faafʋ hanɩ nɩ a , ŋmɩŋmɩn n'a a na ŋmɛ̃ a nɩr na bɛ bãw kɛ Naaŋmɩn be na a zie , nɩ a yel-bier-maalɛ zie ? »
+61003004	wa		ɛ yere : « Ʋ bɛ yel k'ʋʋ na wa na ɩ ? Ʋ wa ? A tɩ sãà mɩnɛ na kpi wa tɔ dɩ̃a a , bom za cãa na ŋmɛ̃ a lɛ ʋ na tɩ ŋmɛ̃ a tẽw iru tib daar a . »
+61003011	~		A bome a ŋa na na sãw a ŋa a , nyɩ bãw lɛ a na fɛr kɛ nyɩ ɩrɛ a . A fɛr a kɛ a nyɩ cenu vɩɛl , ɛ nyɩ tu a Naaŋmɩn pùor ,
+62002022	ãa		Ãa n'ɩ a zir-ŋmarɛ , ʋ bɛ ɩ a sob nɛ na yere k'aa Yeezu bɛ ɩ a Kɩrɩta a ? A Kɩrɩta dɔ̃ sob ɩ a ŋa : ʋ na zawrɛ a Sãà nɩ a Bie za a .
+62003012	bʋ̃ʋ ƴãw		A bɛ sɛw kɛ tɩ ŋmɛ̃ mɛ̃ a Kayɛ̃ a ɩ : ʋ na tɩ ɩ a Faalʋ-sob nɩr a n'a so ʋ kʋ́ a ʋ yɛb . Ɛ bʋ̃ʋ ƴãw n'a ʋ tɩ kʋ́ ʋ ? A ʋ ɩ-ɩrɩ bɛ tɩ vɩɛl ɛ , ɛ a ʋ yɛb dem tu a yel-mɩnʋ .
+62003017	ŋmɩŋmɩn		Nɩr wa tɛr a a tẽw zu , ɛ nyɛ̃ a fɛrɛ a ʋ yɛb , ʋʋ bɛ zɔ ʋ nɩ-baalʋ a , ŋmɩŋmɩn n'a ʋ na tʋ̃ɔ yel k'ʋʋ nɔnɛ nɩ a Naaŋmɩn ?
+62004020	Bʋ̃ʋ n'ʋ		Nɩr wa yel : « Ɩ̃ nɔnɛ nɩ Naaŋmɩn » , ɛ hɩ̃ɛn a ʋ yɛb a , zir-ŋmarɛ n'ʋ . Bʋ̃ʋ n'ʋ vɛ̃ , sob nɛ na bɛ nɔnɛ a ʋ yɛb ʋ na mɩ́ nyɛ̃ a , kʋ̃ tʋ̃ɔ nɔnɛ a Naaŋmɩn ʋ na bɛ mɩ́ nyɛ̃ a ɩ .
+62005005	ãa		Ãa n'ʋ tʋ̃ɔ a tẽ-daa , a bɛ ɩ a sob nɛ na saw de k'aa Yeezu ɩ n a Naaŋmɩn Bie a ?
+66005002	ãa		Ɛ ɩ̃ tɩ nyɛ̃ nɩ malkɩ na kpɛmɛ a , ʋ hiere yere nɩ kɔkɔr-kpɛ̃w : « Ãa n'ʋ sɛwnɩ na 'lawrɩ a sɩ-suur bɛr ɛ yuo a sɛbɛ ? »
+66006010a	debor		Bɛ tɩ cɩɩrɛ na nɩ kɔkɔr-kpɛ̃w yere : « Zu-sob na ɩ sõw , ɛ ɩ Zu-sob sɩza a , debor a fʋ na gu n a ƴɛrʋ-maalʋ nɩ a tɩ kũu san sowru a tẽw zu nɩbɛ zie tɩ ta ? »
+66006010b	~		
+66006017	ãa		Bʋ̃ʋ n'ʋ vɛ̃ , a bɛ suur bibi-kpɛ̃ɛ vɩɛ na , ɛ ãa n'ʋ na tʋ̃ɔ cãa be ? »
+66007013a	ãa		A nɩ-kore ƴẽn sob tɩ de nɩ a ƴɛrʋ sowri mɛ̃ : « Ãa mɩnɛ n'ɩ a nɩbɛ bɛ ŋa na su a kpar-wowr pɛlɛ a , 
+66007013b	nyɩnɛ		ɛ́ nyɩnɛ n'a bɛ yi wa ? »
+66013004a	ãa		A nɩbɛ za tɩ lo na gbĩ dume pùori a wa-bɩɛ , ʋ na tɩ kʋ̀ kpɛnʋ a dʋ̃w a ƴãw . Bɛ za mɩ̀ tɩ lo na gbĩ dume pùori a dʋ̃w ɛ yel : « Ãa n'ʋ ŋmɛ̃ taa nɩ a dʋ̃w ? 
+66013004b	ãa		Ãa n'ʋ na tʋ̃ɔ zɛb ɩ ʋ ? »
+66015004a	ãa		Ãa n'ʋ kʋ̃ zɔrɛ fʋ , Sore e , 
+66015004b	ãa		ãa n'ʋ kʋ̃ zɛwr a fʋ yúor ? Bʋ̃ʋ n'ʋ vɛ̃ , fʋ̃ʋ yõ n'ʋ ɩ sõw , a ten za nɩbɛ na wa na wa lo gbĩ dume a fʋ niŋé , a fʋ ɩ-ɩrɩ na tu yel-mɩŋa sãá a ƴãw . »
+66017007	Bʋ̃ʋ n'ʋ		Lɛ n'a a malkɩ tɩ yel mɛ̃ : « Bʋ̃ʋ n'ʋ ɩ nʋɔr ɓãa fʋ ? Ɩ̃ na man nɩ a pɔw ŋa yele kʋ̀ b fʋ bãw a pɛr , nɩ a wɛ-dʋ̃w ʋ na zɔm , ʋ tɛr zuru ayopõi nɩ ɩlɛ pie a .
+66018018	buor		ɛ́ bɛ na tɩ nyɛ̃ a ʋ vũu zʋ̀ʋ́r a , bɛ tɩ ŋmɩɛr ɩ cɛlsɩ yere nɩ : « Tẽ-kpɛ̃ɛ buor ʋ tɩ ta a tẽ-kpɛ̃ɛ kpɛ̃ɛ ŋa ? »

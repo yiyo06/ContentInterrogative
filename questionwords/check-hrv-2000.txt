@@ -1,0 +1,743 @@
+40002002	Gdje		" Gdje je taj novorođeni kralj Židova ? Vidjeli smo njegovu zvijezdu na istoku pa smo mu se došli pokloniti . "
+40002004	gdje		Kralj sazove svećeničke poglavare i pismoznance da se raspita gdje se Krist treba roditi .
+40003007	Tko		Ali kad ugleda mnoge farizeje i saduceje da se dolaze krstiti , reče im : " Zmijska legla ! Tko li vas je samo upozorio da pobjegnete Božjemu gnjevu koji stiže ?
+40005013	kakva		" Vi ste sol čovječanstvu . Ali kakva je korist od soli ako obljutavi ? Za što se može uporabiti ? Ni za što , osim da se izbaci van , da ju ljudi pogaze .
+40005046	kakvu		Jer ako volite samo one koji vas vole , kakvu nagradu možete očekivati ? Ne čine li tako i pokvarenjaci ?
+40005047	čemu		Ako ste ljubazni samo prema svojoj braći , po čemu se razlikujete od drugih ? Tako postupaju i neznabošci .
+40006027	tko		Može li tko od vas sebi brigama produžiti život barem i za jedan dan ?
+40006028	Zašto		Zašto se onda brinuti za odjeću ? Pogledajte samo poljske ljiljane ! Niti se muče niti predu .
+40006031a	što		Ne brinite se tjeskobno i ne govorite : ' Što ćemo jesti ? ' , 
+40006031b	što		' Što ćemo piti ? ' 
+40006031c	što		ili ' U što ćemo se obući ? '
+40007003	što		Što imaš gledati trn u oku svojega brata kad u vlastitom oku ni brvna ne opažaš ?
+40007004	Kako		Kako možeš reći bratu : ' Daj da ti izvadim trn iz oka ' kad sam imaš brvno u oku ?
+40007009	~		Bi li itko od vas svojemu djetetu , kad bi ga zamolilo kruha , dao kamen ?
+40007016a	~		Prepoznat ćete ih po njihovim plodovima . Bere li se s trnja grožđe 
+40007016b	~		ili s bodljike smokve ?
+40008026	što		Isus im reče : " Malovjerni ! Što se toliko strašite ? " Ustane zatim i zaprijeti vjetru i valovima , a oluja se stiša i nastane mukla tišina .
+40008027	tko		Ljudi su se u čudu pitali : " Pa tko je on da mu se i vjetrovi i more pokoravaju ? "
+40008029	što		Odjednom poviču : " Što hoćeš od nas , Sine Božji ? Došao si nas ovdje mučiti prije vremena ? "
+40009004	Zašto		Isus je prozreo što misle , pa ih upita : " Zašto mislite zlo u srcu ?
+40009005	što		Što je lakše reći uzetom čovjeku : ' Grijesi su ti oprošteni ' ili ' Ustani i idi ' " ?
+40009011	Zašto		Pošto su to vidjeli , farizeji upitaju njegove učenike : " Zašto vaš učitelj jede s ubiračima poreza i grešnicima ? "
+40009014	Zašto		Jednom dođu k Isusu učenici Ivana Krstitelja te ga upitaju : " Zašto tvoji učenici ne poste kao što postimo mi i farizeji ? "
+40009015	~		" Mogu li uzvanici na svadbenoj večeri tugovati dok je mladoženja s njima ? Ali doći će dani kada će im ugrabiti mladoženju . Tada će postiti .
+40010025	koliko		Dosta je da učenik dijeli učiteljevu , a sluga gospodarovu sudbinu . Ako su dakle mene , domaćina , nazvali ' Beelzebulom ' , koliko li će onda više vas , moje ukućane ?
+40011007	što		Kad su otišli , Isus počne mnoštvu govoriti o Ivanu . " Kad ste otišli u pustinju , što ste išli gledati ? Samo trsku kako se povija na vjetru ?
+40011008	~		Ili ste išli vidjeti raskošno odjevena čovjeka ? Ali takvi žive u kraljevskim palačama .
+40011009	~		Ili ste išli vidjeti Božjeg proroka ? Da , on je i više od proroka .
+40011016	kime		A s kime da usporedim ovaj naraštaj ? On je poput djece koja sjede i igraju se na gradskome trgu , pa jedni drugima dovikuju :
+40012011	Tko		On odgovori : " Tko to od vas ne bi svoju jedinu ovcu ako bi u subotu upala u jamu iz nje izvadio ?
+40012026	Kako		Ako dakle Sotona izgoni Sotonu , njegovo je kraljevstvo razjedinjeno . Kako će se onda održati ?
+40012027	čijom		Ako ja zaista izgonim zle duhove uz pomoć Beelzebula , čijom ih pomoći istjeruju vaši sljedbenici ? Zato će vas oni osuditi .
+40012029	~		Ne možete ući u kuću snažnog čovjeka i opljačkati ga a da ga najprije ne svežete . Tek tada ga možete orobiti .
+40012034	Kako		Zmijski rode ! Kako biste i mogli govoriti dobro kad ste zli ? Jer usta govore ono čega je srce prepuno .
+40012048a	tko		On odgovori : " Tko mi je majka ? 
+40012048b	tko		Tko su mi braća ? "
+40013010	Zašto		Priđu mu učenici i upitaju : " Zašto ljudima uvijek govoriš u prispodobama ? "
+40013027	Odakle		Rataru dođu njegovi sluge i upitaju : " Gospodaru , nisi li ti na svojoj njivi posijao dobro sjeme ? Odakle kukolj ? "
+40013054a	Odakle		Otišao je u svoj zavičaj te je u tamošnjoj sinagogi tako poučavao da su ljudi zadivljeni pitali : " Odakle ovomu ta mudrost 
+40013054b	~		i sila da čini takva čudesa ?
+40013056	Odakle		Nisu li mu i sve sestre ovdje među nama ? Odakle mu onda sve to ?
+40014031	Zašto		Isus mu odmah pruži ruku i uhvati ga . " Slaba je tvoja vjera " , reče mu . " Zašto si posumnjao ? "
+40015002	Zašto		" Zašto tvoji učenici krše stare židovske predaje ? Ne drže se tradicije obrednoga pranja ruku prije jela . "
+40015003	zašto		On im odgovori : " A zašto vi zbog svoje predaje kršite Božje zapovijedi ?
+40015033	Odakle		Učenici odgovore : " Odakle da u pustinji nabavimo dovoljno hrane za toliko mnoštvo ? "
+40015034	Koliko		" Koliko hrane imate ? " upita Isus . " Sedam kruhova i nekoliko ribica " , rekoše .
+40016008	što		Isus je to opazio , pa im reče : " Slaba je vaša vjera ! Što ste se zabrinuli jer nemate kruha ?
+40016009	koliko		Zar još ne razumijete ? Zar ste zaboravili onih pet kruhova na pet tisuća ljudi i koliko ste još košara skupili ?
+40016010a	~		I onih sedam kruhova na četiri tisuće ljudi 
+40016010b	~		i košare koje ste nakupili ?
+40016011	kako		Kako još ne shvaćate da vam ne govorim o kruhu kad kažem : Čuvajte se kvasca farizejskoga i saducejskoga ? "
+40016013	tko		Kad je Isus došao u krajeve Filipove Cezareje , upita učenike : " Što kažu ljudi , tko je Sin Čovječji ? "
+40016015a	što		Tada ih upita : " A što vi mislite , 
+40016015b	tko		tko sam ja ? "
+40016026a	Kakva		Kakva ti je korist ako stekneš sav svijet , a izgubiš vječni život ? 
+40016026b	što		Što se može mjeriti s vrijednošću života ?
+40017010	Zašto		Učenici ga upitaju : " Zašto pismoznanci tvrde da prije Mesije mora doći Ilija ? "
+40017017a	Koliko dugo		Isus reče : " Nevjerni i opaki rode ! Koliko dugo još moram biti s vama ? 
+40017017b	Koliko		Koliko ću vas još podnositi ? Dovedite mi ga ! "
+40017019	Zašto		Zatim učenici nasamo upitaju Isusa : " Zašto mi nismo mogli istjerati tog zloduha ? "
+40017025a	što		" Plaća ! " odgovori Petar . Zatim uđe u kuću , a Isus ga presretne pitanjem : " Što misliš , Šimune , 
+40017025b	~		ubiru li zemaljski kraljevi porez ili carinu od svojih ili od tuđih sinova ? "
+40018001	Tko		U taj čas dođu k Isusu učenici te ga zapitaju : " Tko je najveći u nebeskom kraljevstvu ? "
+40018012	što		" Što mislite , da netko ima sto ovaca i da jedna od njih zaluta , neće li ostaviti onih devedeset devet u gorama i poći potražiti zalutalu ?
+40018021	koliko puta		Tada mu priđe Petar i upita : " Gospodine , koliko puta da oprostim bratu koji je zgriješio protiv mene ? Sedam puta ? "
+40019007	Zašto		" Zašto je onda Mojsije rekao da muž treba ženi samo napisati otpusnicu pa se može razvesti ? " upitaju .
+40019016	koje		Priđe mu neki čovjek i upita : " Učitelju , koje dobro moram činiti da bih zadobio vječni život ? "
+40019017	Zašto		Isus mu reče : " Zašto me pitaš o dobrome ? Samo je Bog dobar ! Ali ako želiš ući u život , ispunjaj zapovijedi ! "
+40019018	Koje		" Koje ? " upita on . Isus odgovori : " Ne ubij , ne čini preljub , ne kradi , ne laži .
+40019020	što		" Sve sam to činio " , reče mu mladić . " Što mi još nedostaje ? "
+40019025	tko		Učenici se zaprepaste . " Pa tko se onda uopće može spasiti ? " upitaju .
+40019027	što		Tada mu Petar reče : " Evo , mi smo sve ostavili da te slijedimo . Što ćemo za to dobiti ? "
+40020006	Zašto		A kad je opet izišao na trg u pet sati popodne , ondje nađe još radnika . ' Zašto stojite i besposličarite ? ' upita ih .
+40020012	~		' Ovi zadnji radili su samo uru vremena , a ti si im platio jednako kao nama koji smo cijeli dan teško radili i trpjeli žegu ! '
+40020021	što		" Što želiš ? " upita ju Isus . Ona reče : " Zapovjedi da moji sinovi u tvojemu kraljevstvu sjednu pokraj tebe , jedan zdesna , a drugi slijeva . "
+40020032	što		Isus zastane , pozove ih i upita : " Što hoćete da vam učinim ? "
+40021010	Tko		Kad je ušao u Jeruzalem , cijeli se grad uskomešao . " Tko je taj ? " pitali su .
+40021016	što		i upitaju ga : " Čuješ li ti što govore ? " " Čujem " , odgovori im Isus . " A niste li nikad u Pismu pročitali : ' Pripravio si sebi hvalu iz usta djece i dojenčadi ? ' "
+40021020	Kako		Učenici se zaprepaste . " Kako se smokva tako brzo sasušila ? " pitali su .
+40021023a	tko		Isus ode u Hram . Dok je ondje poučavao , priđu mu svećenički poglavari i narodni starješine pa ga upitaju : " Tko ti je dao pravo da to radiš ? 
+40021023b	tko		Tko te je ovlastio za to ? "
+40021025a	~		Je li Ivanovo krštenje bilo s neba ili od ljudi ? " Oni počnu umovati i međusobno raspravljati : " Ako kažemo da je s neba , 
+40021025b	~		pitat će nas 
+40021025c	zašto		zašto mu onda nismo vjerovali .
+40021028	što		" Što mislite o ovomu : Neki je čovjek imao dva sina . Reče prvomu : ' Sine , idi danas raditi u vinogradu ! '
+40021031	Koji		Koji je od njih dvojice ispunio očevu volju ? " " Onaj prvi " , odgovore . Isus im nato reče : " Zaista vam kažem , bludnice i pokvarenjaci ući će prije vas u Božje kraljevstvo !
+40021040	što		Što mislite , upita Isus , kako će vlasnik imanja postupiti s tim vinogradarima kada se vrati ?
+40022012	kako		' Prijatelju , ' upita ga , ' kako si ušao ovamo bez svadbenog ruha ? ' Čovjek je samo šutio .
+40022017	~		Reci nam je li dopušteno plaćati porez caru ili nije . "
+40022018	Zašto		Isus prozre njihovo lukavstvo pa reče : " Zašto me kušate ?
+40022020a	čiji		a on upita : " Čiji su ovo lik 
+40022020b	~		i natpis na kovanici ? "
+40022028	čija		Čija će onda ona biti žena o uskrsnuću kad je bila udana za svu sedmoricu ? "
+40022036	koja		" Učitelju , koja je najveća zapovijed u Mojsijevu zakonu ? "
+40022042a	što		" Što mislite o Kristu ? 
+40022042b	čiji		Čiji je on sin ? " " Davidov " , odgovore .
+40022043	zašto		" A zašto ga onda David , nadahnut Svetim Duhom , naziva Gospodinom kad kaže :
+40022045	kako		" Ako ga dakle David naziva svojim Gospodinom , kako mu on onda može biti sin ? "
+40023017	što		Slijepe budale ! Pa što je veće - zlato ili Hram koji posvećuje zlato ?
+40023019	što		Slijepci ! Što je veće ? Žrtveni dar ili žrtvenik koji ga posvećuje ?
+40023033	Kako		Zmije ! Leglo zmijsko ! Kako ćete izbjeći osudi pakla ?
+40024003a	kada		Kad je poslije sjedio na Maslinskoj gori , učenici mu priđu i nasamo kažu : " Reci nam kada će se to dogoditi . 
+40024003b	koji		Koji će znak najaviti tvoj dolazak i svršetak svijeta ? "
+40024045	Tko		Tko je dakle onaj vjerni i razumni sluga kojega je gospodar postavio da upravlja ukućanima i da im daje hranu u pravo vrijeme ?
+40025037	kada		Pravednici će ga tada upitati : ' Gospodine , kada smo te vidjeli gladna i nahranili , kada smo te vidjeli žedna i napojili te ?
+40025038	Kada		Kada smo ti pružili dobrodošlicu kao tuđincu i obukli te gola ?
+40025039	Kada		Kada smo te posjetili bolesna ili u tamnici ? '
+40025044	kad		Oni će pitati : ' Gospodine , kad smo te to vidjeli gladna ili žedna , ili kao tuđinca , ili gola , ili bolesna , ili u zatvoru i nismo ti pomogli ? '
+40026008	čemu		Videći to , učenici počnu negodovati : " Čemu takva rastrošnost !
+40026010	Zašto		Isus to opazi pa im reče : " Zašto joj dodijavate ? Učinila mi je dobro djelo !
+40026015	Koliko		te ih upita : " Koliko ćete mi platiti da vam izdam Isusa ? " Oni mu obećaju trideset srebrnjaka .
+40026017	Gdje		Prvoga dana Blagdana beskvasnog kruha učenici upitaju Isusa : " Gdje hoćeš da ti pripravimo pashalnu večeru ? "
+40026040	~		Zatim se vrati trojici učenika i nađe ih spavati te reče Petru : " Niste li mogli ni ure probdjeti sa mnom !
+40026050	Zašto		" Zašto si došao ovamo , prijatelju ? " ukori ga Isus .
+40026054	kako		Ali da to učinim , kako bi se ispunilo Sveto pismo ?
+40026062a	~		Veliki svećenik nato ustane i reče Isusu : " Zar ništa ne odgovaraš na ove optužbe protiv tebe ? "
+40026062b	~		
+40026065	što		Nato veliki svećenik razdere svoju odjeću i reče : " Hulio je na Boga ! Što će nam još svjedoci ?
+40026066	što		Što kažete ? " A oni odgovore : " Zaslužio je smrt ! "
+40026068	tko		govoreći : " Proreci nam tko te je udario , Kriste ! "
+40027004	što		te im reče : " Zgriješio sam ! Izdao sam nedužna čovjeka ! " " Što se to nas tiče ? " odgovore mu oni . " To je tvoja stvar ! "
+40027013	kako		Pilat ga stoga upita : " Zar ne čuješ kako te teško optužuju ? "
+40027017	Koga		Kad se mnoštvo okupilo da zatraži da se pusti jedan zatvorenik , Pilat ih upita : " Koga hoćete da vam pustim ? Barabu ili Isusa kojega nazivaju Mesijom ? "
+40027021	Koga		Kad ih je zatim upravitelj upitao : " Koga od njih dvojice želite da vam pustim ? " oni odgovore : " Barabu ! "
+40027022	što		" A što ću onda s Isusom kojega zovete Mesijom ? " upita . " Raspni ga ! " poviču oni .
+40027023a	čega		" Zbog čega ? 
+40027023b	kakvo		Kakvo je zlo učinio ? " upita Pilat . Ali oni su samo još glasnije vikali : " Raspni ga ! "
+40027046	zašto		U tri sata Isus glasno poviče : " Eli , Eli , lema sabahtani ! " što znači " Bože moj , Bože moj , zašto si me ostavio ? "
+41001024	Zašto		" Zašto nas uznemiruješ , Isuse Nazarećanine ? Zar si nas došao uništiti ? Znam tko si : ti si Svetac Božji ! "
+41001027	Kakvo		Svi nazočni silno se zaprepaste i počnu raspravljati o tome što se dogodilo . " Kakvo je to novo učenje ? " uzbuđeno su pitali . " Ima takvu silnu vlast ! Čak se i nečisti duhovi pokoravaju njegovim zapovijedima ! "
+41002007a	kako		" Kako ovaj može tako govoriti ! On huli ! 
+41002007b	tko		Tko može opraštati grijehe osim jedinoga Boga ! "
+41002008	Zašto		Isus duhom prozre njihove misli pa im reče : " Zašto to smatrate hulom ?
+41002009	što		Što je lakše reći uzetu čovjeku : ' Grijesi su ti oprošteni ' ili ' Ustani , uzmi svoja nosila i idi ' ? "
+41002016	Kako		No kad neki pismoznanci , farizeji , ugledaju Isusa kako jede s tim ozloglašenim ljudima , kazaše njegovim učenicima : " Kako može jesti s tim ološem ? "
+41002018	Zašto		Ivanovi učenici i farizeji povremeno su postili . Jednoga dana neki ljudi dođu Isusu i upitaju ga : " Zašto Ivanovi učenici i farizeji poste , a tvoji učenici ne poste ? "
+41002019	～		Isus im odgovori : " Mogu li uzvanici na svadbenoj večeri postiti dok su s mladoženjom ? Ne mogu postiti dok je mladoženja s njima .
+41002024	~		Farizeji rekoše Isusu : " Ne bi to smjeli činiti ! Zakonom je zabranjeno skupljati usjev subotom . "
+41003004	što		Zatim im reče : " Znamo što nam naš zakon dopušta činiti subotom : dobro , a ne zlo . Dopušta nam spasiti život , a ne uništiti ga . " Šutjeli su .
+41003023	Kako		Isus dozove ljude i počne im govoriti u prispodobama : " Kako može Sotona izgoniti Sotonu ?
+41003033a	tko		On im odgovori : " Tko mi je majka ? 
+41003033b	tko		Tko su mi braća ? "
+41004013	kako		Ali ako ne možete razumjeti tu jednostavnu priču , kako ćete uopće razumjeti prispodobe ?
+41004030a	kako		Isus upita : " Kako da vam još opišem Božje kraljevstvo ? 
+41004030b	čime		S čime da ga usporedim ?
+41004038	~		Isus je spavao na krmi s glavom na jastuku . U panici su ga probudili vičući : " Učitelju ! Zar ti uopće ne mariš što ćemo izginuti ? "
+41004040a	što		On upita učenike : " Što ste se toliko prestrašili ? 
+41004040b	~		Zar još nemate vjere ? "
+41004041	tko		Oni su bili silno prestrašeni . Pitali su jedan drugoga : " Pa tko je on da mu se i vjetar i more pokoravaju ? "
+41005007	što		Zavrišti i prodorno vikne : " Što hoćeš od mene , Isuse , Sine najuzvišenijeg Boga ? Zaklinjem te Bogom , ne muči me ! "
+41005009	Kako		Zatim ga upita : " Kako se zoveš ? " " Zovem se Legija " , odgovori on , " jer nas je mnogo u ovom čovjeku . "
+41005030	Tko		Isus je odmah osjetio da je iz njega izišla iscjeljujuća sila pa se okrenu prema mnoštvu i upita : " Tko mi je dotaknuo odjeću ? "
+41005031	tko		Učenici mu rekoše : " Toliko se mnoštvo tiska oko tebe , a ti pitaš tko te je dotaknuo ! "
+41005035	~		Dok je Isus još to govorio , stigli su iz Jairova doma s viješću . " Kći ti je umrla " , kazaše mu , " nema smisla da više mučiš Učitelja . "
+41005039a	što		On uđe i reče im : " Što toliko naričete 
+41005039b	~		i plačete ? Dijete nije umrlo , nego spava ! "
+41006002a	Odakle		Sljedeće subote ode u sinagogu i počne poučavati . Mnogi ljudi su se divili i govorili : " Odakle mu ta mudrost i sila kojom čini takva čudesa ?
+41006002b	~		
+41006002c	~		
+41006022	~		Herodijadina kći plesala za Heroda i njegove uzvanike i svima se svidjela .
+41006024	što		Djevojka iziđe i upita majku : " Što da tražim ? " a ona odgovori : " Traži glavu Ivana Krstitelja ! "
+41006037	čime		" Vi ih nahranite ! " odgovori im Isus . " Čime ? " upitaju . " Trebalo bi cijelo bogatstvo da se kupi hrana za toliko mnoštvo ! "
+41006038	koliko		" Pogledajte koliko hrane imate " , reče im . Vrate se i kažu da imaju pet kruhova i dvije ribe .
+41007005	Zašto		Zato ga vjerski vođe upitaju : " Zašto tvoji učenici ne slijede naše starodrevne običaje ? Jedu nečistim rukama . "
+41008004	kako		" Pa kako da im u ovoj pustoši nabavimo dovoljno hrane ? " upitaju učenici .
+41008005	Koliko		" Koliko kruhova imate ? " upita ih . " Sedam " , odgovore .
+41008012	Zašto		Kad je to čuo , on uzdahne i reče : " Zašto ovaj naraštaj neprestano traži znakove ? Zaista vam kažem , ovaj ih naraštaj neće dobiti . "
+41008017	Zašto		Isus je čuo o čemu govore pa reče : " Zašto govorite o tomu da nemate kruha ? Zar još niste razumjeli , zar ne shvaćate ? Zar su vam srca tako otvrdnula ?
+41008018a	~		Imate oči , a ne vidite ! 
+41008018b	~		Imate uši , a ne čujete ! Zar ništa ne možete upamtiti ?
+41008019	Koliko		A onih pet tisuća ljudi koje sam nahranio razlomivši pet kruhova ? Koliko ste punih košara ostataka skupili nakon toga ? " " Dvanaest " , odgovore .
+41008020	koliko		" A koliko je košara hrane preostalo kad sam razlomio sedam kruhova i njima nahranio četiri tisuće ljudi ? " " Sedam punih košara " , rekoše .
+41008021	~		" Pa zar još ne razumijete ? " upita ih .
+41008023	što		Isus uzme slijepca za ruku i povede ga izvan sela , pljune mu u oči te na njih položi ruke . " Vidiš li što ? " upita ga .
+41008027	tko		Isus i njegovi učenici odu iz Galileje u sela Filipove Cezareje . On ih putem upita : " Što ljudi misle , tko sam ja ? Što o meni govore ? "
+41008029a	~		On ih upita : 
+41008029b	koga		" A za koga me vi držite ? " Petar odgovori : " Ti si Krist ! "
+41008036	Kakva		Kakva korist od toga da stekneš i sav svijet ako pritom izgubiš vječni život !
+41008037	što		Što se može mjeriti s vrijednošću života ?
+41009010	što		Zadržali su to za sebe , ali su često o tome razgovarali i pitali se na što je mislio kad je rekao da će " ustati od mrtvih " .
+41009011	Zašto		Upitaju ga : " Zašto pismoznanci tvrde da prije Mesije mora doći Ilija ? "
+41009012	Kako		" Nesumnjivo najprije ima doći Ilija " , reče on , " da sve opet stavi na svoje mjesto . Kako onda u Svetomu pismu piše da će Sin Čovječji mnogo trpjeti te da će biti prezren ?
+41009016	čega		" Oko čega se prepirete ? " upita ih .
+41009019a	dokle		" O nevjerni rode ! " reče Isus učenicima . " Dokle ću još morati biti s vama ? 
+41009019b	dokle		Dokle vas moram podnositi ? Dovedite mi dječaka ! "
+41009021	Otkad		" Otkad mu je tako ? " upita Isus oca . " Još odmalena " , odgovori .
+41009028	Zašto		Kad uđe u kuću i ostane nasamo s učenicima , oni ga upitaju : " Zašto ga mi nismo mogli istjerati ? "
+41009033	čemu		Stignu tako u Kafarnaum . Kad su se smjestili u kući u kojoj su kanili boraviti , Isus ih upita : " O čemu ste to putem raspravljali ? "
+41009050	čime		Sol je dobra . Ali ako ona obljutavi , čime ćete ju opet osoliti ? Zato ne gubite svoju slanost ! Živite u miru jedni s drugima ! "
+41010003	što		" Što je vam je o tome zapovjedio Mojsije ? " upita ih Isus .
+41010017	što		Dok se spremao na put , pritrči mu neki čovjek , klekne pred njega i upita ga : " Dobri učitelju , što moram učiniti da dobijem vječni život ? "
+41010018	Zašto		" Zašto me zoveš dobrim ? " upita ga Isus . " Samo je Bog uistinu dobar .
+41010026	tko		Učenici se zaprepaste . " Pa tko se onda uopće može spasiti ? " pitali su .
+41010036	što		" A što ? " upita ih Isus .
+41010051	što		" Što želiš da učinim ? " upita ga Isus . " Učitelju , " reče slijepac , " učini da progledam ! "
+41011003	što		Upita li vas tko : ' Što to radite ? ' recite samo : ' Treba Gospodinu . Brzo će ga vratiti . ' "
+41011005	Zašto		Neki ih ljudi upitaju : " Zašto ste odvezali magare ? "
+41011028a	tko		te ga upitaju : " Tko ti je dao pravo da to činiš ? 
+41011028b	tko		Tko te je ovlastio za to ? "
+41011030	~		Je li Ivanovo krštenje bilo s neba ili od ljudi ? Odgovorite mi ! "
+41011031a	~		Oni počnu umovati i međusobno raspravljati : " Ako kažemo da je s neba , 
+41011031b	zašto		pitat će nas zašto mu onda nismo vjerovali .
+41012009	što		Što mislite da će učiniti vlasnik kad čuje što se dogodilo ? Doći će i pobiti te vinogradare , a vinograd dati u najam drugima .
+41012015	Zašto		Isus prozre njihovo lukavstvo pa reče : " Zašto me kušate ? Pokažite mi kovani novac pa ću vam reći . "
+41012016a	čiji		Donesu mu novčić , a on upita : " Čiji su ovo lik 
+41012016b	~		i natpis na kovanici ? " " Carevi " , odgovore .
+41012023	čija		Čija će onda ona biti žena o uskrsnuću kad je bila udana za svu sedmoricu ? "
+41012028	Koja		Neki pismoznanac koji je ondje stajao shvatio je , slušajući raspravu , da je Isus dobro odgovorio pa ga upita : " Koja je najvažnija od svih zapovijedi ? "
+41012035	Kako		Poučavajući u Hramu , Isus upita : " Kako pismoznanci mogu tvrditi da je Mesija Davidov sin ?
+41012037	Kako		Sâm ga je David nazvao svojim Gospodinom . Kako bi mu onda mogao biti sin ? " Mnoštvo ga je oduševljeno slušalo .
+41013004a	kada		" Kada će se sve to dogoditi ? 
+41013004b	kojim		Kojim će se znakom najaviti ispunjenje svega toga ? "
+41014004	čemu		Neki se zbog toga naljute : " Čemu tako rasipati skupocjenu pomast ! "
+41014006	Zašto		Ali Isus im reče : " Pustite ju na miru ! Zašto joj dodijavate ? Učinila mi je dobro djelo .
+41014012	Gdje		Na prvi dan Blagdana beskvasnih kruhova , kad je bio običaj žrtvovati pashalno janje , učenici upitaju Isusa : " Gdje želiš da ti pripravimo pashalnu večeru ? "
+41014014	kojoj		U kući u koju uđe potražite domaćina pa mu recite : ' Učitelj pita u kojoj sobi može blagovati pashalnu večeru sa svojim učenicima . '
+41014060a	~		Veliki svećenik zatim stane pred sud i upita Isusa : " Zar nećeš odgovoriti na te optužbe protiv sebe ? "
+41014060b	~		
+41014063	što		Veliki svećenik nato razdere svoju odjeću i reče : " Što će nam još svjedoci ?
+41014064	što		Čuli ste ga kako huli ! Što kažete ? " I svi ga osude na smrt .
+41015004	~		Pilat ga ponovno upita : " Zar nemaš ništa na to reći ? Gledaj kako te optužuju ! "
+41015012	što		A što da onda učinim s ovim kojega nazivate kraljem Židova ? "
+41015014a	čega		" Zbog čega ? " upita Pilat . 
+41015014b	kakvo		" Kakvo je zlo učinio ? " Ali oni su samo još glasnije vikali : " Raspni ga ! "
+41015034	zašto		U tri ure Isus glasno poviče : " Eloi , Eloi , lema sabahtani ! " , što znači " Bože moj , Bože moj , zašto si me ostavio ? "
+41016003	Tko		Putem su se pitale : " Tko će nam odmaknuti kamen s ulaza u grob ? "
+42001018	čemu		Zaharija reče anđelu : " Po čemu ću znati da će se to dogoditi ? Već sam star , a i žena mi je u poodmakloj dobi . "
+42001034	kako		Marija upita anđela : " Ali kako ? Ja još nisam upoznala muškarca . "
+42001043	Kakve		Kakve li časti da me posjeti majka mojega Gospodina !
+42001066	što		I tko god bi o njima čuo , razmišljao je o njima i pitao se : " Što će biti od toga djeteta ? Zaista je nad njim ruka Gospodnja . "
+42002048	Zašto		Roditelji nisu znali što da misle . " Sine ! " reče mu majka . " Zašto si nam to učinio ? Tvoj otac i ja silno smo se zabrinuli i posvuda smo te tražili . "
+42002049	Zašto		" Zašto ste me tražili ? " odgovori on . " Zar niste znali da ja moram biti u onomu što je mojega Oca ? "
+42003007	Tko		Ivan je govorio mnoštvu koje se dolazilo krstiti : " Zmijska legla ! Tko li vas je samo upozorio da pobjegnete Božjemu gnjevu koji stiže ?
+42003010	što		Mnoštvo ga nato počne pitati : " Što trebamo činiti ? "
+42003012	što		Došli su se krstiti čak i ubirači poreza i upitali : " Učitelju , što mi moramo činiti ? "
+42003014a	~		
+42003014b	što		" A što mi trebamo činiti ? " pitali su ga vojnici . " Ne postupajte ni s kim nasilno , " odgovori on , " ne optužujte lažno nedužne i budite zadovoljni svojom plaćom . "
+42004034	Zašto		" Zašto nas uznemiruješ , Isuse Nazarećanine ? Zar si nas došao uništiti ? Znam tko si : ti si Svetac Božji ! "
+42004036	Kakve		Svi se zaprepaste . " Kakve li riječi ! Takvom vlašću i silom zapovijeda nečistim duhovima da mu se pokoravaju ! "
+42005021a	tko		Pismoznanci i farizeji nato počnu umovati : " Tko je ovaj da tako huli ? 
+42005021b	tko		Tko može opraštati grijehe osim jedinoga Boga ! "
+42005022	Zašto		Isus prozre njihovo umovanje , pa ih upita : " Zašto to smatrate hulom ?
+42005023	što		Što je lakše reći : ' Grijesi su ti oprošteni ' ili ' Ustani i idi ' ? "
+42005030	Zašto		A farizeji i pismoznanci negodovali su i govorili učenicima : " Zašto jedete i pijete s ubiračima poreza i grešnicima ? "
+42005033	~		Oni mu nato prigovore : " Ivanovi i farizejski učenici često poste i mole se , a tvoji jedu i piju ! "
+42005034	~		" Ne mogu svatovi postiti dok je mladoženja s njima .
+42006002	Zašto		A neki farizeji rekoše : " Zašto činite ono što je subotom zabranjeno ? "
+42006009	~		Tada Isus reče farizejima i pismoznancima : " Znamo što nam naš Zakon dopušta činiti subotom : dobro , a ne zlo . Dopušta nam spasiti život , a ne uništiti ga . »
+42006032	~		Mislite li da zaslužujete nagradu ako volite one koji vas vole ? Ta i grešnici tako čine .
+42006033	~		I ako dobro činite onima koji vama čine dobro , zar ste zaslužili nagradu ? To čine i grešnici .
+42006034	kakvu		Ako posuđujete samo onima od kojih se nadate povratu , kakvu ste nagradu zaslužili ? I grešnici posuđuju grešnicima da jednako prime natrag .
+42006039	~		Zatim im Isus ispriča prispodobe : " Može li slijepac slijepca voditi ? Obojica će upasti u jamu .
+42006041	što		Što imaš gledati trun u oku svojega brata kad u vlastitome oku ni brvna ne opažaš ?
+42006042	Kako		Kako ti , koji u vlastitome oku ne vidiš ni brvna , možeš reći bratu : ' Daj da ti izvadim trun iz oka ' ? Licemjeru ! Izvadi najprije brvno iz vlastitog oka , pa ćeš onda dobro vidjeti kako da izvadiš trun iz bratova ! "
+42006046	Zašto		" Zašto me dakle nazivate Gospodinom , a ne činite što vam zapovijedam ? "
+42007024	što		Kad su otišli , Isus počne govoriti mnoštvu o Ivanu . " Kad ste izišli u pustinju , što ste išli gledati ? Samo trsku kako se povija na vjetru ?
+42007025	~		Ili ste išli vidjeti raskošno odjevena čovjeka ? Ali takvi žive u kraljevskim palačama .
+42007026	~		Ili ste došli vidjeti Božjeg proroka ? Da , on je i više od proroka .
+42007031a	kime		" S kime da usporedim ovaj naraštaj ?
+42007031b	~		
+42007042	tko		Nisu mu imali odakle vratiti dug , pa ga on obojici oprosti . Što misliš , tko će ga od njih dvojice zato više voljeti ? "
+42007049	Tko		Ljudi za stolom počnu međusobno govoriti : " Tko je ovaj da i grijehe oprašta ? "
+42008025a	gdje		" Gdje vam je vjera ? " upita ih . A učenici su prestrašeni i začuđeni pitali : 
+42008025b	tko		" Tko je on da zapovijeda vjetrovima i vodi i da mu se oni pokoravaju ? "
+42008028	što		Čim je ugledao Isusa , on zaviče , baci se ničice pred njega i na sav glas poviče : " Što hoćeš od mene , Isuse , Sine najuzvišenijega Boga ? Molim te , ne muči me ! "
+42008030	Kako		" Kako se zoveš ? " upita ga Isus . " Legija " , odgovori on jer su u njega ušli mnogi zlodusi .
+42008045	Tko		" Tko me je dotaknuo ? " upita Isus . Svi su to nijekali , a Petar reče : " Učitelju , pa toliko se mnoštvo gura oko tebe . "
+42009009a	tko		" Ivanu sam ja odrubio glavu " , reče Herod . " Tko je onda ovaj o 
+42009009b	~		kojemu toliko govore ? " I tražio je prigodu da ga vidi .
+42009018	tko		Dok se Isus jednom u osami molio , s njim su bili samo učenici . On ih upita : " Što ljudi kažu , tko sam ja ? "
+42009020a	što		" A što vi kažete , 
+42009020b	tko		tko sam ? " upita ih . " Ti si Krist , Pomazanik Božji " , reče Petar .
+42009025	kakva		A kakva je korist čovjeku ako zadobije cijeli svijet , a izgubi samoga sebe ili sebi naudi ?
+42009041a	koliko		" Nevjerni i opaki rode ! " reče Isus . " Koliko dugo još moram biti s vama ? 
+42009041b	dokle		Dokle vas moram podnositi ? Dovedi sina ! "
+42010025	što		Jednom neki zakonoznanac ustane i upita Isusa da ga iskuša : " Učitelju , što trebam činiti da zadobijem vječni život ? "
+42010026a	što		" Što piše u Mojsijevu zakonu ? 
+42010026b	što		Što ondje čitaš ? "
+42010029	tko		Ali hoteći se opravdati , on upita Isusa : " A tko mi je bližnji ? "
+42010036a	što		Što kažeš , 
+42010036b	koji		koji je od te trojice bio bližnji čovjeku kojega su napali razbojnici ? "
+42011008	~		Ali kažem vam , ne učini li to zbog prijateljstva , učinit će to da se ne osramoti .
+42011011	~		Bi li ijedan otac svojemu djetetu , kad bi ga zaiskalo ribu , dao zmiju ?
+42011012	~		Ili bi mu tko dao štipavca kad ga zaište jaje ?
+42011013	koliko		Pa ako vi , grešni ljudi , znate davati dobre darove svojoj djeci , koliko će više vaš nebeski Otac darovati Svetoga Duha onima koji ga ištu ? "
+42011018	Kako		Kažete da ja s pomoću Beelzebula izgonim zloduhe . Sotonino je kraljevstvo , dakle , razjedinjeno . Kako će onda opstati ?
+42011019	čijom		Ako ja zaista izgonim zloduhe s pomoću Beelzebula , čijom ih pomoći izgone vaši sljedbenici ? Zato će vas oni osuditi .
+42012014	tko		Isus mu odgovori : " Čovječe , tko je mene postavio da sudim i dijelim između vas ?
+42012017	što		da je razmišljao : ' Što da radim ? Nemam u što skupiti toliku ljetinu .
+42012020	Komu		Ali Bog mu reče : ' Neumniče ! Još ćeš noćas umrijeti . Komu će onda pripasti sve što si skupio ? '
+42012024	~		Pogledajte gavrane ! Niti siju , niti žanju , niti imaju spremišta i žitnice , a Bog ih ipak hrani . A vi ste toliko vredniji od ptica !
+42012025	~		Može li tko od vas sebi brigama produžiti život barem i za jedan dan ?
+42012026	zašto		Pa ako ni to malo ne možete , zašto ste stalno zabrinuti ?
+42012042	Tko		Isus mu reče : " Tko je dakle onaj vjerni i razumni upravitelj kojega će gospodar postaviti da upravlja ukućanima i da im daje hranu u pravo vrijeme ?
+42012049	Kako		" Došao sam baciti oganj suda na zemlju . Kako bih želio da je već planuo !
+42012056	Kako		Licemjeri ! Izgled zemlje i neba znate protumačiti . Kako onda ne znate protumačiti znake vremena ?
+42012057	Zašto		Zašto sami ne želite uvidjeti što je pravo ?
+42013004	~		A ona osamnaestorica na koje se srušila kula u Siloamu i ubila ih ? Jesu li oni bili grešniji od svih stanovnika Jeruzalema ?
+42013007	Zašto		Reče zato vinogradaru : " Već tri godine dolazim tražiti roda na ovoj smokvi , ali ga ne nalazim . Posijeci ju . Zašto da iscrpljuje zemlju ! "
+42013015	~		Isus mu odgovori : " Licemjeri ! I vi radite subotom . Ne odveže li subotom svatko od vas svojega vola ili magarca od jasala i ne odvede li ga na vodu piti ?
+42013018a	kako		" Kako da vam još opišem Božje kraljevstvo ? 
+42013018b	čime		S čime da ga usporedim ? " reče Isus .
+42013020	Kako		Upita opet : " Kako da vam još opišem Božje kraljevstvo ?
+42013025	~		Kad gospodar kuće zaključa vrata , bit će prekasno . Tada ćete stajati vani i kucati ištući : ' Gospodine , otvori nam ! ' ali on će odgovoriti : ' Ne poznajem vas . '
+42014005	Tko		A njima reče : " Tko od vas subotom ne radi ? Ako vam sin ili vol padne u zdenac , nećete li ga smjesta izvaditi ? "
+42014028	~		Ali ne krećite dok niste utvrdili cijenu . Jer nitko od vas ne bi počeo graditi kulu a da prije toga ne sjedne i ne izračuna troškove da vidi hoće li ju imati čime dovršiti .
+42014031	koji		Ili koji bi kralj krenuo ratovati s drugim kraljem a da najprije ne sjedne i ne promisli može li sa svojih deset tisuća vojnika presresti i svladati onoga koji na njega dolazi s dvadeset tisuća ?
+42014034	čime		Sol je dobar začin . Ali ako sol obljutavi , čime će se ona zasoliti ?
+42015004	Tko		" Tko od vas ne bi , da ima sto ovaca i da se jedna od njih izgubi u pustinji , otišao tražiti tu jednu dok ju ne nađe ?
+42015008	Koja		" Koja to žena , da ima deset srebrnih novčića i jedan izgubi , ne bi upalila svjetlo , pomela kuću i pomnjivo ju pretražila da ga pronađe ?
+42015026	što		Dozove nekog slugu da ga upita što se događa .
+42015029	~		' Ja ti tolike godine služim i nikada nisam odbio učiniti što mi kažeš , ali meni nikad nisi ni jare dao da se proveselim s prijateljima .
+42016002	što		Bogataš ga pozove i reče mu : ' Što to čujem o tebi ? Položi račun o svojem upravljanju jer više ne možeš biti upraviteljem . '
+42016003	što		Upravitelj nato pomisli : ' Što da radim kad me gospodar otpusti ? Da kopam ? Nisam dovoljno snažan za to . Da prosjačim ? Sramio bih se toga .
+42016005	Koliko		Pozove zatim jednoga po jednoga gospodarova dužnika . Prvoga upita : ' Koliko duguješ mojemu gospodaru ? ' ' Sto bata ulja ' , odgovori on .
+42016007	Koliko		I drugoga upita : ' Koliko duguješ ? ' ' Sto kora pšenice ' , odgovori . ' Uzmi svoju zadužnicu pa ispravi na osamdeset ' , reče mu upravitelj .
+42016011	tko		Ako dakle niste vjerni u ovozemaljskom bogatstvu , tko će vam povjeriti istinsko nebesko bogatstvo ?
+42016012	tko		Ako niste bili vjerni u postupanju s tuđim , tko će vam dati vaše vlastito ?
+42017007	~		Kad sluga uđe u kuću pošto je orao ili čuvao ovce , neće odmah sjesti i jesti .
+42017017	Gdje		Isus upita : " Zar nisu desetorica ozdravila ? Gdje su ona devetorica ?
+42017018	~		Zar se nijedan od njih nije vratio da dade slavu Bogu osim ovoga tuđinca ? "
+42017020	Kada		Farizeji upitaju Isusa : " Kada će doći Božje kraljevstvo ? " " Ono ne dolazi tako da se može vidjeti .
+42017037	Gdje		" A gdje to , Gospodine ? " upitaju učenici . Isus odgovori poslovicom : " Gdje bude strvine , skupljat će se strvinari . "
+42018018	što		Neki uglednik upita Isusa : " Dobri učitelju , što moram učiniti da dobijem vječni život ? "
+42018019	Zašto		" Zašto me zoveš dobrim ? " upita ga Isus . " Dobar je samo Bog i nitko drugi .
+42018026	tko		Koji su to čuli , pitali su : " Pa tko se onda uopće može spasiti ? "
+42018036	što		Čuo je žamor mnoštva koje je prolazilo pa se raspitao što je to .
+42018041	što		" Što želiš da ti učinim ? " " Da progledam , Gospodine ! " zamoli on .
+42019007	~		Ali mnoštvo koje je to promatralo počne prigovarati : " Otišao je takvom grešniku u goste ! "
+42019023	Zašto		Zašto onda nisi moj novac uložio u banku ? Tako bih barem dobio kamate . '
+42019031	što		Upita li vas tko : ' Što to radite ? ' recite samo : ' Treba Gospodinu . ' "
+42019033	Zašto		Dok su ga odvezivali , neki ih ljudi upitaju : " Zašto odvezujete magare ? "
+42020002a	tko		pa ga upitaju : " Tko ti je dao pravo da to činiš ? 
+42020002b	tko		Tko te je ovlastio za to ? "
+42020005a	~		Oni počnu umovati i međusobno raspravljati : " Ako kažemo da je s neba , 
+42020005b	zašto		pitat će nas zašto mu onda nismo vjerovali .
+42020013	što		' Što da učinim ? ' pitao se vlasnik vinograda . ' Poslat ću im svojega ljubljenog sina . Prema njemu će se valjda odnositi s poštovanjem . '
+42020015	što		Izbace ga iz vinograda i ubiju . Što mislite , kako će vlasnik vinograda postupiti s njima ?
+42020017	što		Ali Isus ih dobro promotri i reče : " A što onda znači onaj ulomak iz Svetoga pisma : ' Kamen koji su graditelji odbacili postane ugaonim kamenom ' ?
+42020023	~		Isus prozre njihovo lukavstvo pa reče :
+42020024a	čiji		" Pokažite mi kovani novac . Čiji su ovo lik 
+42020024b	~		i natpis na njemu ? " " Carevi " , odgovore .
+42020033	čija		Čija će onda ona biti žena o uskrsnuću kad je bila udana za svu sedmoricu ? "
+42020041	Kako		Tada Isus upita njih : " Kako mogu tvrditi da je Mesija Davidov sin ?
+42020044	Kako		Sâm ga je David nazvao svojim Gospodinom . Kako bi mu onda mogao biti sin ? "
+42021007a	kada		Upitaju ga : " Učitelju , kada će se sve to dogoditi ? 
+42021007b	kojim		Kojim će se znakom najaviti ispunjenje svega toga ? "
+42022009	Gdje		" Gdje želiš da ju pripravimo ? " upitaju .
+42022011	kojoj		recite domaćinu : ' Učitelj pita u kojoj sobi može blagovati pashalnu večeru sa svojim učenicima . '
+42022027	tko		Jer tko je veći , onaj koji sjedi za stolom ili onaj koji ga poslužuje ? Onaj za stolom , zar ne ? A ja , evo , poslužujem vas .
+42022046	Zašto		" Zašto spavate ? " upita . " Ustanite i molite se da vas ne svlada kušnja ! "
+42022064	tko		Pokrili su mu oči i zapitkivali : " Reci tko te je udario ! "
+42022071	što		" Što će nam više svjedoci ? " kazali su . " Sami smo čuli , iz njegovih usta ! "
+42023022a	~		
+42023022b	kakav		" Ali kakav je zločin počinio ? " upita Pilat i treći put . " Nisam utvrdio da je učinio išta što bi zasluživalo smrtnu kaznu . Išibat ću ga dakle i pustiti . "
+42023031	što		Jer ako se ovako postupa sa zelenim stablom , što će tek biti sa suhim ? "
+42024005	Zašto		Žene se prestraše i poniknu licem prema zemlji . " Zašto tražite živoga među mrtvima ? " upitaju ih dvojica .
+42024017	čemu		" O čemu to raspravljate putujući ? " upita ih . Oni zastanu , shrvani tugom .
+42024019	što		" Što se dogodilo ? " upita Isus . " Pa to s Isusom Nazarećaninom " , rekli su . " On je bio prorok silan i na riječi i na djelima pred Bogom i pred svim narodom .
+42024025	~		" Neumnici ! " reče im nato Isus . " Nikako da povjerujete sve što su proroci navijestili .
+42024038a	Zašto		Ali Isus im reče : " Zašto se bojite ? 
+42024038b	Zašto		Zašto vam se sumnja rađa u srcu ?
+43001019	tko		Ovo je Ivanovo svjedočanstvo : Židovi poslaše svećenike i njihove pomoćnike iz Jeruzalema da upitaju Ivana tko je on .
+43001021	tko		" A tko si onda ? " pitali su ga . " Jesi li Ilija ? " " Nisam " , odgovori on . " Jesi li Prorok ? " " Nisam . "
+43001022a	tko		" Pa tko si onda ? Reci nam da možemo odgovoriti onima koji su nas poslali . 
+43001022b	što		Što imaš reći o sebi ? "
+43001025	Odakle		Upitaju ga : " Ako nisi Krist , ni Ilija , ni Prorok , odakle ti pravo da krstiš ? "
+43001038a	što		Isus se okrene i spazi ih kako ga slijede . " Što hoćete ? " upita ih . 
+43001038b	gdje		" Rabbi ( to znači : Učitelju ) , gdje stanuješ ? " odgovore oni pitanjem .
+43001046	~		" Iz Nazareta ! " poviče Natanael . " Može li odande doći što dobro ? " " Samo dođi i uvjeri se " , reče mu Filip .
+43001048	Otkud		" Otkud znaš kakav sam ? " upita Natanael . Isus mu odgovori : " Vidio sam te pod smokvom prije nego te je Filip našao . "
+43002004	što		" A što bi ti od mene htjela ? " odgovori joj Isus . " Moje vrijeme još nije došlo . "
+43002018a	~		
+43002018b	kojim		" Kojim ih pravom tjeraš van ? " pitali su ga Židovi . " Ako imaš ovlast za to , pokaži nam neko čudo kao dokaz . "
+43003004	kako		" Pa kako se čovjek može nanovo roditi kad je već star ? Ne može se odrastao čovjek vratiti u majčinu utrobu i nanovo se roditi ! " reče mu Nikodem .
+43003009	Kako		" Kako je to moguće ? " upita Nikodem .
+43003012	kako		Ako mi ne vjerujete kad vam govorim o onome što se događa ovdje na zemlji , kako ćete mi vjerovati budem li vam govorio što se zbiva na nebu ?
+43004009	Kako		" Ti si Židov , a ja Samarijanka . Kako to da od mene tražiš vode ? " upita žena . Židovi se , naime , nisu družili sa Samarijancima .
+43004011	Odakle		" Gospodine , pa ti nemaš ni kabla ni užeta " , reče mu ona , " a zdenac je vrlo dubok . Odakle živa voda ?
+43004027a	čemu		Nato stignu njegovi učenici . Začude se što razgovara sa ženom , ali ga nitko ne upita zašto s njom razgovara i o čemu govore .
+43004027b	zašto		ali ga nitko ne upita zašto s njom razgovara i
+43005012	Tko		" Tko je taj koji ti je takvo što rekao ? " pitali su .
+43005044	Kako		Kako biste i mogli vjerovati kad rado primate časti jedni od drugih , a ne marite za to da steknete čast od jedinoga Boga ?
+43005047	kako		A kako ne vjerujete onomu što je on napisao , nije čudno da ne vjerujete ni mojim riječima . "
+43006005	čime		Podignuvši pogled , Isus ugleda silno mnoštvo ljudi kako se penje prema njemu . On upita Filipa : " Čime ćemo , Filipe , kupiti kruha da nahranimo sav taj narod ? "
+43006009	što		" Ovdje je neki dječak s pet ječmenih kruhova i dvije ribice . Ali što je to za toliki narod ? "
+43006025	kad		Kad su stigli onamo , pronašli su ga i upitali : " Učitelju , kad si došao ovamo ? "
+43006028	što		" Što nam je činiti da bismo radili ono što Bog hoće ? " pitali su .
+43006030a	Kakav		" Kakav ćeš nam znak dati " , pitali su , " da bismo ga vidjeli i povjerovali ti ? 
+43006030b	kakvo		Kakvo ćeš djelo učiniti ?
+43006042	Kako		" Pa to je Isus , Josipov sin " , govorili su . " Znamo mu i oca i majku . Kako sad može reći : ' Sišao sam s neba ? ' "
+43006052	Kako		Nato se Židovi počnu međusobno prepirati govoreći : " Kako nam ovaj može dati svoje tijelo za jelo ? "
+43006060	Tko		Mnogi njegovi učenici kazaše : " To su vrlo teške riječi . Tko bi razumio što je htio reći ? "
+43006062	što		A što ćete pomisliti ako vidite Sina Čovječjega kako se vraća u nebo ?
+43006068	kome		Šimun Petar mu odgovori : " Gospodine , kome da odemo ? Samo ti imaš riječi koje daju vječni život ,
+43007011	~		Židovski vjerski vođe pokušali su ga pronaći na svetkovini i neprestano su zapitkivali je li ga tko vidio .
+43007015	Kako		Kad su ga čuli , židovski se vođe iznenade . " Kako on tako dobro poznaje Sveto pismo , a nikada nije pohađao naše škole ? " pitali su se .
+43007019	~		Nitko od vas ne poštuje Mojsijev zakon ! Štoviše , pokušavate me ubiti ! "
+43007020	Tko		" Opsjeo te zloduh ! " odgovori mu svjetina . " Tko bi te htio ubiti ? "
+43007023	Zašto		Ako dakle pravi trenutak za obrezanje vaših sinova padne u subotu , obavit ćete ga da ne biste prekršili Mojsijev zakon . Zašto onda mene osuđujete što sam u subotu posve iscijelio onoga čovjeka ?
+43007035	Kamo		Ta je izjava zbunila židovske vođe . " Kamo ovaj kani otići a da mi onamo ne možemo ? " pitali su se . " Možda misli otići iz zemlje među rasijane Židove ili čak poučavati Grke ?
+43007036	što		Na što misli kad kaže da ćemo ga tražiti , a da ga nećemo naći i : ' Nećete moći onamo gdje ću ja biti ' ? "
+43007041	~		Drugi su rekli : " On je zaista Krist . " A bilo ih je koji su mislili : " Ne , on ne može biti Krist ! Zar će Krist doći iz Galileje ?
+43007045	Zašto		Stražari iz Hrama , poslani da ga uhvate , vrate se svećeničkim poglavarima i farizejima , a oni ih upitaju : " Zašto ga niste doveli ? "
+43007048	~		" Vjeruje li ijedan od nas židovskih poglavara ili farizeja da je on Krist ?
+43007051	~		" Je li zakonski osuditi čovjeka prije nego što se sasluša i ne ustanovi što je učinio ? " upita on .
+43008005	što		Mojsijev nam zakon kaže da bismo ju trebali kamenovati . Što ti na to kažeš ? "
+43008010	Gdje		Opet se uspravi i reče joj : " Gdje su tvoji tužitelji , ženo ? Zar te nijedan nije osudio ? "
+43008019	Gdje		" Gdje ti je Otac ? " upitaju ga . Isus im odgovori : " Ne znate tko sam ja , pa ne znate ni tko mi je Otac . Kad biste mene poznavali , znali biste i njega . "
+43008025a	tko		" Reci nam tko si " , tražili su . 
+43008025b	~		On odgovori : " Ja sam onaj koji vam od početka i tvrdim da jesam .
+43008033	Kako		" Ali mi smo Abrahamovi potomci " , kazaše oni . " Nikad nismo nikome robovali . Kako to misliš - ' oslobodit će vas ' ? "
+43008043	Zašto		Zašto ne možete shvatiti što vam govorim ? Zato što niste kadri slušati moju riječ .
+43008046a	koji		Koji mi od vas može dokazati i jedan jedini grijeh ? 
+43008046b	zašto		Ako vam govorim istinu , zašto mi ne vjerujete ?
+43008053	kime		Zar si ti veći od našeg oca Abrahama , koji je umro ? I od proroka , koji su pomrli ? Pa kime se ti praviš ? "
+43008057	~		Židovski poglavari rekoše : " Nemaš još ni pedeset godina , a kažeš da si vidio Abrahama ! "
+43009002	zašto		Učenici ga zapitaju : " Učitelju , zašto se ovaj čovjek rodio slijep ? Zbog svojih grijeha ili zbog grijeha svojih roditelja ? "
+43009010	kako		Nato ga zapitaše kako to da vidi . " Što ti se dogodilo ? "
+43009012	Gdje		" Gdje je sada taj čovjek ? " zapitaju ga . " Ne znam " , odgovori .
+43009016	kako		Neki farizeji kazaše : " Onda taj Isus nije od Boga jer krši subotu . " Drugi su pak rekli : " Ali kako bi običan grešnik mogao činiti takva čuda ? " I tako među njima nastane velik razdor .
+43009017	što		Nakon toga farizeji opet upitaju nekadašnjeg slijepca : " Što ti kažeš o tom čovjeku koji ti je vratio vid ? " " On je prorok " , odgovori čovjek .
+43009019	Kako		i zapitali ih : " Je li ovo vaš sin za kojega tvrdite da se slijep rodio ? Kako to da sada vidi ? "
+43009026a	što		" Ali što ti je učinio ? " upitaju ga . 
+43009026b	kako		" Kako ti je vratio vid ? "
+43009027	Zašto		" Već sam vam jedanput rekao , ali me niste slušali . Zašto želite opet čuti ? Zar i vi kanite postati njegovim učenicima ? "
+43009034	~		" Zar ćeš nas ti učiti , koji si rođen u grijehu ? " poviču oni i izbace ga iz sinagoge .
+43009036	tko		Čovjek odgovori : " A tko je on , gospodine , da u njega vjerujem ? "
+43010020	čemu		Neki su govorili : " Opsjednut je zloduhom i luduje . Čemu slušati takvog čovjeka ? "
+43010021	~		" Ne govori kao da je opsjednut " , govorili su drugi . " Zar bi zloduh mogao slijepcu vratiti vid ? "
+43010024	Dokle		Opkole ga židovski vođe i upitaju ga : " Dokle ćeš nas držati u nedoumici ? Ako si ti Krist , otvoreno nam to reci . "
+43010032	koje		Isus im reče : " Po Božjemu sam nalogu učinio mnoga dobra djela da pomognem narodu . Za koje me od tih djela želite kamenovati ? "
+43010036	zašto		zašto meni , koga je Otac poslao u svijet i posvetio , kažete da hulim zato što kažem : ' Sin sam Božji ' ?
+43011034	Kamo		" Kamo ste ga položili ? " upita ih . " Dođi i pogledaj " , odgovore .
+43011047	što		Stoga svećenički glavari i farizeji sazovu Veliko vijeće da se dogovore što učiniti . " Što da radimo ? " pitali su jedan drugoga . " Jer ovaj čovjek zaista čini čudesa .
+43011056	što		Željeli su vidjeti Isusa . Razgovarajući u Hramu , pitali su jedni druge : " Što mislite , hoće li doći na Pashu ? "
+43012005	~		" To je mirisno ulje stajalo cijelo bogatstvo . Trebalo ga je prodati , a novac dati siromasima . "
+43012027	~		Sad mi je duša duboko potresena . Zar da Oca molim : ' Oče , spasi me od ovoga što me čeka ' ? A zbog toga sam i došao !
+43012034a	Zašto		" Uzdignut ? " zaprepastilo se mnoštvo . " Iz Svetoga pisma smo učili da će Krist zauvijek živjeti , da neće nikad umrijeti . Zašto govoriš da Sin Čovječji mora biti uzdignut ? 
+43012034b	tko		Tko je taj Sin Čovječji o kojemu govoriš ? "
+43012038a	tko		A upravo je to pretkazao prorok Izaija : " Gospodine , tko je povjerovao našim riječima ? 
+43012038b	kome		Kome se objavila snaga Gospodnja ? "
+43013025	Tko		On se nagne prema Isusu i upita ga : " Tko je taj , Gospodine ? "
+43013036	Kamo		" Kamo ideš , učitelju ? " upita ga Šimun Petar . Isus mu odgovori : " Sada ne možeš poći sa mnom , ali poslije ćeš me slijediti . "
+43013037	Zašto		Petar upita : " Zašto sada ne mogu s tobom ? Ja sam za tebe spreman i umrijeti ! "
+43014002	~		U kući mojega Oca mnogo je stanova . Da nije tako , zar bih vam rekao : ' Idem vam pripraviti mjesto ' ?
+43014005	Kako		" Ne znamo , Gospodine , ni kamo ideš " , reče Toma . " Kako bismo onda znali put onamo ? "
+43014009	Zašto		Isus odgovori : " Zar ti , Filipe , još ne znaš tko sam ja , čak ni pošto sam toliko vremena proveo s vama ? Tko je vidio mene , vidio je i Oca . Zašto onda tražiš da ga vidiš ?
+43014022	zašto		" Gospodine , zašto ćeš se objaviti samo nama , a ne i cijelom svijetu ? " upita ga Juda ( ne Iškariotski , već drugi učenik istog imena ) .
+43016005	kamo		" Ali sad odlazim onomu koji me je poslao , a nitko od vas nije me ni upitao kamo idem .
+43016017	Kako		Učenici su pitali jedni druge : " Kako on to misli : ' Nećete me vidjeti , a onda ćete me opet vidjeti ' ? I što želi reći kad kaže : ' Odlazim Ocu ' ?
+43016018	što		Što znači : ' Još samo malo ' ? Ne razumijemo to . "
+43018004	Koga		Isus je znao što će se sve dogoditi . On istupi pred njih i upita : " Koga tražite ? "
+43018007	Koga		Ponovno ih upita : " Koga tražite ? " Opet odgovore : " Isusa iz Nazareta ! "
+43018011	~		Ali Isus reče Petru : " Spremi mač u korice ! Zar da ne ispijem čašu koju mi je Otac dao ? "
+43018021	Zašto		Zašto to mene pitaš ? Pitaj one koji su me slušali . Oni znaju što sam govorio . "
+43018023	što		" Ako sam pogrešno rekao , dokaži da je pogrešno " , odgovori Isus . " Zar ćeš udarati čovjeka samo zato što govori istinu ? "
+43018029	što		Zato Pilat , upravitelj , iziđe k njima te ih upita : " Za što optužujete ovog čovjeka ? "
+43018035	što		" Zar sam ja Židov ? " odgovori Pilat . " Tvoj vlastiti narod i svećenički poglavari predali su te meni . Zašto ? Što si učinio ? "
+43018038	što		" A što je istina ? " poviče Pilat . Tada ponovno iziđe pred židovski narod i reče im : " Ja na njemu nisam našao nikakve krivnje .
+43019009	Odakle		Povede Isusa natrag u palaču i upita ga : " Odakle si ? " Ali Isus mu na to ne odgovori .
+43019015	što		" Smakni ga ! " vikali su . " Smakni ga ! Raspni ga ! " " Što ? ! Da raspnem vašega kralja ? " upita Pilat . " Mi nemamo kralja osim cara ! " odvrate svećenički poglavari .
+43020013	Zašto		" Zašto plačeš ? " upitaju anđeli . " Zato što su mi uzeli Gospodina , " odgovori ona , " a ne znam kamo su ga stavili . "
+43020015a	Zašto		" Zašto plačeš ? " upita on . 
+43020015b	koga		" Koga tražiš ? " Ona pomisli da je to vrtlar . " Gospodine , " reče , " ako ste ga vi odnijeli , recite mi kamo ste ga stavili pa ću otići i uzeti ga . "
+43021012	~		" Dođite doručkovati ! " reče im Isus . Nitko se od njih nije usuđivao pitati ga je li on uistinu Gospodin jer su znali da jest .
+43021020	koji		Petar se okrene i opazi da učenik kojega je Isus osobito volio , onaj koji se pri večeri nagnuo i upitao Isusa : ' Učitelju , koji će te od nas izdati ? ' ide za njim .
+43021021	što		Petar upita Isusa : " A što će biti s njime , Gospodine ? "
+43021022	što		Isus mu odgovori : " Ako hoću da on ostane dok ja ne dođem , što se to tebe tiče ? Ti me slijedi ! "
+43021023	~		Tako se među braćom raširio glas da onaj učenik neće umrijeti . Ali Isus nije rekao da on neće umrijeti , već samo : ' Ako hoću da on ostane dok ja ne dođem , što se to tebe tiče ! '
+44001011	što		" Galilejci , što tu stojite i gledate u nebo ? " rekli su . " Isus je od vas uznesen na nebo , ali jednoga dana će se vratiti jednako tako kao što ste ga vidjeli da odlazi ! "
+44002008	Kako		Kako ih onda svatko od nas čuje na svojemu materinskom jeziku ?
+44002012	što		Stajali su zaprepašteni i pitali jedni druge : " Što bi to moglo značiti ? "
+44002037	što		Te su ih riječi duboko potresle . Upitaju zato Petra i ostale apostole : " Braćo , što da učinimo ? "
+44003012a	što		Kad je to vidio Petar , reče ljudima : " Što se čudite ovomu , Izraelci ? 
+44003012b	što		I što gledate u nas , kao da smo mi svojom snagom ili pobožnošću učinili da ovaj čovjek prohoda !
+44004007a	~		Dozovu pred sebe apostole i upitaju ih : 
+44004007b	Kakvom		" Kakvom silom 
+44004007c	čije		i u čije ime ste to učinili ? "
+44004016	što		" Što da radimo s tim ljudima ? Ne možemo zanijekati da su učinili čudesni znak - za to znaju svi u Jeruzalemu .
+44004025a	Zašto		Po Svetome Duhu kroz svojega slugu Davida odavno si rekao : ' Zašto se narodi bune ? 
+44004025b	Zašto		Zašto puci snuju ispraznosti ?
+44005003	Zašto		Petar mu reče : " Ananija ! Zašto ti je Sotona ispunio srce ? Lagao si Svetome Duhu i zadržao dio novca za sebe .
+44005004	Zašto		Nisi morao prodati imanje i ostalo bi tvoje . A i kad si ga prodao , novac je bio tvoj . Mogao si odlučiti da ga dadeš ili da ga zadržiš . Zašto si takvo što učinio ? Nisi slagao ljudima , nego Bogu ! "
+44005009	što		" Pa što vam je bilo da ste se tako urotili kušati Duha Gospodnjega ? Ondje su na vratima mladići koji su ti pokopali muža . I tebe će iznijeti ! " reče Petar .
+44007026	Zašto		Sutradan opet ode k njima i ugleda kako se tuku dva Izraelca . Počne ih nagovarati da se pomire : ' Ljudi ! ' reče im . ' Braća ste ! Zašto zlostavljate jedni druge ? ! '
+44007027	tko		Ali onaj koji je zlostavljao bližnjega odgurne Mojsija i reče : ' A tko je tebe postavio poglavarom i sucem nad nama ?
+44007035	Tko		Toga istog Mojsija kojega su se odrekli pitajući ga : ' Tko je tebe postavio poglavarom i sucem nad nama ? ' Bog im je poslao kao poglavara i otkupitelja da ih izbavi , preko anđela koji mu se ukazao u gorućem grmu .
+44007049a	kakav		' Nebo mi je prijestolje , a zemlja podnožje mojim nogama . Kakav mi vi dom možete izgraditi ? 
+44007049b	gdje		Gdje da počivam ?
+44007052	~		Ima li ijedan prorok kojega vaši oci nisu progonili ? Pobili su one koji su pretkazali dolazak Pravednika - kojega ste vi izdali i smaknuli .
+44008031	kako		" A kako da razumijem ako me tko ne pouči ? " odgovori čovjek . Zamoli Filipa da se popne u kočiju i sjedne do njega .
+44008033	Tko		Ponižen je i lišen pravde . Tko da opiše njegov naraštaj ? Jer život je njegov uzet sa Zemlje .
+44008034	~		Dostojanstvenik zatim upita Filipa : " Reci mi , molim te , govori li to prorok o sebi ili o kome drugome ? "
+44008036	što		Vozeći se tako naiđu na neku vodu , a dostojanstvenik upita : " Evo vode ! Što me priječi da se krstim ? "
+44009004	Zašto		Padne na zemlju . Začuje nato glas kako mu govori : " Savle , Savle ! Zašto me progoniš ? "
+44009005	Tko		" Tko si ti , Gospodine ? " upita Savao . " Ja sam Isus kojega progoniš ! " odgovori glas .
+44009006	što		" Ustani i pođi u grad ! Ondje će ti se reći što da činiš . "
+44010004	Tko		Kornelije se prestrašeno zagleda u njega . " Tko si ti , gospodine ? " upita anđela . Anđeo odgovori : " Tvoje su molitve i milodari siromašnima uzišli pred Boga kao podsjetnik .
+44010021	Zašto		Petar siđe k njima i reče : " Evo me . Ja sam taj kojega tražite . Zašto ste došli ? "
+44010029	zašto		Zato sam bez pogovora došao kad ste me pozvali . Sada mi dakle recite zašto ste me zvali . "
+44010047	~		" Može li tko uskratiti krštenje ovima koji su primili Svetoga Duha baš kao i mi ? "
+44011017a	tko		Kad je već Bog dao tim poganima isti dar kao i nama koji smo povjerovali u Gospodina Isusa Krista , tko sam ja da mu se protivim ? "
+44011017b	~		
+44012018	~		Kad se razdanilo , među vojnicima nastane uzbuna zbog Petrova nestanka .
+44013025	~		Kad je Ivan završavao sa svojoj službom , govorio je : ' Nisam onaj za kojega me smatrate . Nisam Mesija . Ali on dolazi za mnom . Ja mu nisam dostojan ni biti robom . '
+44014015	što		" Ljudi , što to radite ? Mi smo samo smrtnici , jednako kao i vi ! Došli smo vam navijestiti Radosnu vijest , da se od tih ispraznosti obratite živomu Bogu koji je stvorio nebo , Zemlju , more i sve što je u njima !
+44015010	Zašto		Zašto onda sad iskušavate Boga tovareći na vjernike poganskoga podrijetla jaram koji ni mi ni naši preci nismo mogli nositi ?
+44016030	što		Izvede ih van i upita : " Gospodo , što mi je činiti da se spasim ? "
+44017018	što		Raspravljao je i s nekim epikurejskim i stoičkim filozofima . Kad im je kazao za Isusa i za njegovo uskrsnuće , oni rekoše : " Što ovaj brblja ? " " Čini se da navješćuje neke tuđe bogove " , odgovore drugi .
+44017019	Kakvo		Odvedu ga zatim na Areopag i upitaju : " Kakvo to novo učenje poučavaš ?
+44019003	Kako		" Kako ste se onda krstili ? " upita on . " Ivanovim krštenjem " , odgovore .
+44019015	tko		Ali zloduh im odgovori : " Isusa i Pavla poznajem , ali tko ste vi ? "
+44019035	~		Na koncu gradski poglavar umiri svjetinu i reče : " Efežani ! Svatko zna da je grad Efez čuvar hrama velike Artemide , koje nam je kip pao s neba .
+44021013a	što		Ali on reče : " Što plačete ? Slamate mi srce ! Spreman sam ne samo da me svežu nego i umrijeti za Gospodina Isusa . "
+44021013b	~		
+44021022	što		Što da učinimo ? Sigurno će čuti da si došao .
+44021033a	tko		Zapovjednik priđe , uhiti ga i zapovjedi da ga okuju dvostrukim lancima . Onda počne ispitivati tko je on 
+44021033b	što		i što je učinio .
+44022007	Zašto		Srušio sam se na tlo . Čuo sam glas koji mi je rekao : ' Savle , Savle ! Zašto me progoniš ? '
+44022008	Tko		' Tko si ti , Gospodine ? ' upitao sam . ' Ja sam Isus Nazarećanin kojega ti progoniš ' , reče mi .
+44022010	što		Rekao sam : ' Što mi je činiti , Gospodine ? ' A Gospodin mi odgovori : ' Pođi u Damask . Ondje će ti se reći što da činiš . '
+44022016	što		Što čekaš ? Ustani , krsti se i operi se od grijeha prizivajući njegovo ime . '
+44022026	što		Stotnik nato ode zapovjedniku i reče : " Što radiš ? Taj je čovjek rimski građanin ! "
+44023003	~		" Udarit će tebe Bog , zidu obijeljeni ! Sjediš tu da me sudiš po Zakonu , a sam ga kršiš i zapovijedaš da me tuku ! "
+44023009	što		Nastane silna graja . Neki pismoznanci iz farizejske sljedbe ustanu u Pavlovu obranu žestoko prosvjedujući : " Ne nalazimo da je taj čovjek počinio ikakvo zlo ! A što ako mu je govorio duh ili anđeo ? "
+44023019	što		Zapovjednik ga uhvati za ruku i povede u stranu te ga upita : " Što mi želiš reći ? "
+44026008	Zašto		Zašto smatrate nevjerojatnim da Bog uskrisuje mrtve ?
+44026014	Zašto		Popadali smo na zemlju . Zatim sam začuo glas kako mi na hebrejskome govori : ' Savle , Savle ! Zašto me progoniš ? Teško je boriti se protiv moje volje . '
+44026015	Tko		' Tko si ti , Gospodine ? ' upitam . A Gospodin odgovori : ' Ja sam Isus kojega ti progoniš .
+45002017	~		Ali ti koji se nazivaš Židovom pouzdaješ se u Zakon i ponosiš svojim dobrim odnosom s Bogom ,
+45002021	~		Ali ti koji poučavaš druge , ne poučavaš samoga sebe ! Propovijedaš da se ne krade , a kradeš !
+45002028	~		Pravi Židov nije onaj tko je Židov izvana , niti je pravo obrezanje vidljivo obrezanje tijela ,
+45003001a	kakva		Kakva je onda prednost biti Židovom ? 
+45003001b	kakva		I kakva je korist od obrezanja ?
+45003003	~		Neki su od njih , doduše , bili nevjerni , ali zar će njihova nevjera obeskrijepiti Božju vjernost ?
+45003005	što		Što pak ako naša nepravednost samo ističe Božju pravednost ? Ako je tako , što na to reći ? Je li nepravedan Bog koji zbog nje daje maha svojemu gnjevu ? To bi , naime , ljudi rekli .
+45003006	kako		Nipošto ! Jer da Bog nije pravedan , kako bi sudio svijet ?
+45003007a	~		Ali neki će pitati : " Ako moje nepoštenje samo ističe Božju istinu i donosi Bogu još više slave , 
+45003007b	kako		kako me Bog može osuditi i kazniti zato što sam grešnik ? "
+45003008	~		Razmišljate li tako , međutim , mogli biste isto tako reći : " Što više griješimo , to bolje ! " Koji tako govore , zaslužuju kaznu , a neki me čak kleveću da ja to propovijedam !
+45003009	~		Jesmo li mi Židovi , dakle , bolji od drugih ? Nismo . Jer upravo smo optužili sve ljude , i Židove i pogane , da su pod vlašću grijeha .
+45003027a	~		Možemo li se dakle hvaliti da smo ičim zaradili Božje opravdanje ? Ne možemo , jer se ono ne temelji na dobrim djelima , već na našoj vjeri .
+45003027b	~		
+45003027c	~		
+45004001	Kakvo		Abraham je , rekli bi ljudi , bio utemeljitelj židovskoga naroda . Kakvo je njegovo iskustvo glede spasenja po vjeri ?
+45004003	~		Jer Sveto pismo kaže : " Abraham je povjerovao Bogu , i Bog ga je proglasio pravednim zbog njegove vjere . "
+45004010	kako		Ali kako mu je ta vjera pomogla ? Je li proglašen pravednim prije ili poslije obrezanja ? Bog ga je najprije prihvatio , a zatim je bio obrezan !
+45005010	~		Jer kako nas je , dok smo još bili Božji neprijatelji , s njime pomirila smrt njegova Sina , tako će nas život njegova Sina sigurno osloboditi vječne kazne .
+45005021	~		Baš kao što je grijeh nekada vladao nad svim ljudima i vodio ih u smrt , tako sada nad njima kraljuje Božja milost i opravdava ih pred Bogom da bi mogli imati vječni život po našemu Gospodinu Isusu Kristu .
+45006001	što		Što reći ? Zar da i dalje griješimo kako bi nam Bog mogao iskazivati sve više milosti praštanja ?
+45006002	kako		Nipošto ! Umrli smo grijehu , pa kako da onda i dalje živimo u njemu ?
+45006015	~		Ako nas je Božja milost oslobodila Zakona , znači li to da i dalje možemo griješiti ? Nipošto !
+45006021	čime		A čime je to urodilo ? Ne dobrim , jer se sada sramite onoga što ste činili , što vodi u vječnu smrt .
+45007007	~		Znači li to da je Božji zakon grešan ? Nipošto ! Nije grešan , nego me je upozorio na moj grijeh . Nikada ne bih spoznao da je požuda zlo da Zakon nije rekao : " Ne poželi ! "
+45007024	Tko		Bijedna li mene ! Tko će me osloboditi od ovoga smrtonosnog tijela , od života u vlasti grijeha ?
+45008024	~		Tom smo nadom spašeni . Ako nešto već imate , onda se tomu više ne trebate nadati .
+45008031a	što		Što na sve to reći ? 
+45008031b	tko		Ako je Bog za nas , tko će biti protiv nas ?
+45008032	~		Kad već nije poštedio ni vlastitoga Sina , nego ga je predao za nas , neće li nam Bog , koji nam je dao Krista , s njime dati i sve drugo ?
+45008033	Tko		Tko će optužiti Božje izabranike ? Nas Bog opravdava .
+45008034	Tko		Tko će nas onda optužiti ? Isus Krist je umro , štoviše , i uskrsnuo ; on je zdesna Bogu i posreduje za nas .
+45008035	Tko		Tko će nas odvojiti od Kristove ljubavi ? Može li u tome uspjeti nevolja ? Tjeskoba ? Progonstvo ? Glad ? Golotinja ? Pogibao ? Mač ?
+45009014	~		Zar je Bog bio nepravedan ? Nipošto .
+45009019a	Zašto		Mogli biste pitati : " Zašto onda Bog okrivljuje ljude da nisu poslušni ? 
+45009019b	~		Ne postupaju li oni samo kako im je on odredio ? "
+45009020a	tko		No nemojte tako govoriti . Tko ste vi , obični ljudi , da prigovarate Bogu ? 
+45009020b	~		Zar da stvorenje pita stvoritelja : 
+45009020c	Zašto		" Zašto si me učinio ovakvim ? "
+45009021	~		Kada lončar od istoga grumena gline načini vrčeve , nema li pravo jedan od njih namijeniti plemenitoj , a drugi neplemenitoj uporabi ?
+45009022	što		Pa što ako je Bog , odabravši pokazati svoj gnjev i moć , s velikim strpljenjem podnosio one koji su izazvali njegov gnjev i bili spremni za uništenje ?
+45009023	što		Što ako je to učinio kako bi onima kojima iskazuje milost i koje je unaprijed pripremio za slavu , pokazao bogatstvo svoje slave -
+45009024	~		pa tako i nama , koje je pozvao ne samo od Židova već i od pogana .
+45009030	što		Što reći o svemu tome ? Pogani su pred Bogom opravdani po vjeri iako nisu iskali pravednost .
+45009032	Zašto		Zašto ? Zato što su pokušavali pred Bogom postignuti pravednost ispunjavajući zakonske odredbe i čineći dobra djela , a ne vjerom . Spotaknuli su se o " kamen spoticanja " .
+45010006	Tko		A o pravednosti koja dolazi po vjeri kaže : " Nemoj se u srcu upitati : ' Tko će uzići na nebo ' ( da dovede Krista ) ,
+45010007	Tko		niti : ' Tko će sići u bezdan ' ( da dovede Krista od mrtvih ) ? "
+45010008	što		Što to zapravo znači ? " Riječ je sasvim blizu tebe , u tvojim ustima i u tvojem srcu " ; to je riječ vjere koju propovijedamo .
+45010014a	kako		Ali kako će ga zazvati da ih spasi ako u njega ne vjeruju ? 
+45010014b	kako		A kako će u njega vjerovati ako nikada nisu za njega čuli ? 
+45010014c	kako		A kako će čuti za njega ako im nitko o njemu ne propovijeda ?
+45010015	kako		A kako će im tko propovijedati ako nije poslan da propovijeda ? O tomu Sveto pismo kaže : " Kako su divne noge onih koji donose Radosnu vijest ! "
+45010016	tko		Ali svatko tko čuje Radosnu vijest neće ju i prihvatiti . Izaija je o tome rekao : " Gospodine , tko je povjerovao našoj poruci ? "
+45011004	što		Sjećate li se što mu je Bog odgovorio ? " Nisi ti jedini ostao " , rekao mu je . " Imam ih još sedam tisuća koji se nikada nisu poklonili Baalu . "
+45011007	~		Većina Židova dakle nije postignula Božju naklonost koju je tražila . Nekolicina koju je izabrao dobila ju je , a ostali su pak otvrdnuli .
+45011015	~		Jer ako je Bog , kad su Židovi odbili spasenje , ponudio to spasenje cijelome svijetu , kako li će tek divno biti kad ga oni prihvate ! Mrtvi će oživjeti !
+45011018	~		Ali pazite da se ne hvalite kako ste pricijepljeni umjesto odlomljenih grana . Upamtite da ste samo grane , a ne korijenje .
+45011033a	~		Kakvoga divnog Boga imamo ! Kako su veliki njegovo bogatstvo , mudrost i znanje ! Nedokučivi su nam njegovi sudovi i neistraživi njegovi putovi !
+45011033b	~		
+45011034a	tko		Zaista , " tko je spoznao Gospodnju misao , 
+45011034b	tko		tko mu je bio savjetnikom ?
+45011035	tko		Ili , " tko je njemu prvi nešto dao da bi mu morao uzvratiti ? "
+45014004	Tko		Tko si ti da osuđuješ Božjeg slugu ? On je odgovoran svojemu gospodaru , koji mu jedini može reći što smije , a što ne . I Gospodin će mu pomoći da čini kako valja .
+45014010a	zašto		Zašto osuđuješ svojeg brata ? 
+45014010b	zašto		Ili zašto prezireš svojeg brata ? Ta svi ćemo stati pred Božji sud
+46001020a	što		Ali što je s učenim glavama , 
+46001020b	~		s ljudima vičnim raspravama , 
+46001020c	~		znanstvenicima ? Bog je učinio da se njihova mudrost čini beskorisnom ludošću .
+46002011	Tko		Tko može znati misli nekog čovjeka osim njegova vlastitoga čovječjeg duha u njemu ? Tako ni Božje misli ne može znati nitko osim Božjega Duha .
+46002016a	tko		" Jer tko poznaje Gospodnje misli ? 
+46002016b	tko		Tko će njemu dati savjet ? " Ali mi imamo Kristov um .
+46003005a	tko		A tko je Apolon 
+46003005b	tko		i tko je Pavao da biste se zbog nas prepirali ? Ta mi samo služimo Gospodinu kako nam je dao - da kroz nas povjerujete u njega .
+46004007a	čemu		Po čemu si ti bolji od koga drugoga ? 
+46004007b	što		Što imaš a da ti Bog to nije dao ? 
+46004007c	zašto		A ako ti je sve dao Bog , zašto se hvališ kao da si to sam postignuo ?
+46004021	što		Što vam je draže , da k vama dođem s kaznama i prijekorima ili s ljubavlju i blagošću ?
+46005002	Zašto		A vi ste se još umislili . Zašto niste u žalosti ? Uklonite iz svojega zajedništva počinitelja tog nedjela .
+46005012	~		Nije na meni da sudim one koji su vani . Ali onima u Crkvi koji tako griješe trebate suditi .
+46006001	Kako		Kako se neki od vas usuđuju s drugim kršćanima parničiti na svjetovnome sudu tražeći pravdu od nepravednih umjesto od svetih ?
+46006003	~		Ne znate li da ćemo suditi anđelima ? Morali biste stoga biti u stanju riješiti svagdašnje razmirice ovdje na zemlji .
+46006004	Zašto		A vi za svoje svagdašnje sporove uzimate suce izvana ! Zašto ne uzmete za suca nekoga od najmanje cijenjenih u Crkvi ? .
+46006007a	Zašto		Nedostatak vam je već to što se uopće parničite . Zašto radije ne pretrpite nepravdu ? 
+46006007b	Zašto		Zašto radije ne pregorite štetu ?
+46006009	~		Ne znate li da oni koji čine zlo neće baštiniti Božje kraljevstvo ? Nemojte se zavaravati ! Ni bludnici , ni idolopoklonici , ni preljubnici , ni homoseksualci ,
+46006016	~		Zar ne znate da muškarac koji se druži s bludnicom postaje s njom jedno tijelo ? Jer u Svetome pismu piše : " Njih će dvoje biti jedno tijelo . "
+46006019	~		Ne shvaćate li da je vaše tijelo hram Svetoga Duha kojega vam je Bog dao i da on prebiva u vama ? Vi ne pripadate sebi
+46007016a	tko		Jer tko zna hoće li žena kršćanka spasiti muža nevjernika , 
+46007016b	~		ili muž kršćanin ženu koja nije vjernica .
+46009007a	koji		Koji to vojnik vojuje o svojemu trošku ? 
+46009007b	tko		Tko sadi vinograd a da ne smije jesti njegova roda ? 
+46009007c	koji		Koji to pastir napasa stado a da ne smije piti mlijeka ?
+46009018	što		Što mi je dakle plaća ? Zadovoljstvo da propovijedam Radosnu vijest besplatno ne iskorišćujući svoje propovjedničko pravo .
+46010019a	što		Što želim reći ? 
+46010019b	~		Da su žrtve idolima vrijedne 
+46010019c	~		ili da su idoli pravi bogovi ?
+46010029	Zašto		Ne zaradi svoje , nego zaradi njegove savjesti . " Zašto bi moju slobodu ograničavala tuđa savjest ? " pitat ćete .
+46010030	zašto		" Ako zahvaljujem Bogu za hranu koju jedem , zašto da me osuđuju zbog onoga što jedem ? "
+46011022	što		Ne možete li doma jesti i piti ? Ili zaista prezirete Božju crkvu i sramotite siromahe ? Što da vam na to kažem ? Da vas pohvalim ? Ne mogu vas u tome pohvaliti .
+46012017a	kako		Kad bi nam se tijelo sastojalo samo od oka , kako bismo čuli ? 
+46012017b	kako		Da nam je cijelo tijelo samo veliko uho , kako bismo imali njuh ?
+46012019	kakvo		Kad bi svi oni bili jedan ud , kakvo bi to bilo tijelo ?
+46014006	kakvo		Draga braćo , kad bih došao i govorio vam drugim jezicima , od kakve bi vam to bilo koristi ako vam ne bih priopćio ni kakvo otkrivenje , ni znanje , ni proroštvo , ni pouku ?
+46014007	kako		Čak i ako beživotna glazbala - flauta ili lira - ne daju od sebe razgovijetna glasa , kako ćete razabrati što izvode ?
+46014008	kako		Ili ako trublja ne dade jasna glasa , kako će vojnici znati da se treba spremiti za boj ?
+46014009	tko		Također , govorite li tuđim jezikom , nerazumljivo , tko će razabrati što govorite ? Bit će kao da govorite u vjetar .
+46014015	što		Što mi je dakle činiti ? Molit ću se duhom , ali također i umom , riječima koje razumijem . Pjevat ću hvalospjeve duhom , ali i umom .
+46014016	kako		Jer ako se moliš Bogu samo duhom , kako će oni koji ne razumiju što govoriš s tobom slaviti Boga te reći " Amen " na tvoju molitvu ?
+46014026	~		Braćo i sestre , kad se dakle sastanete , netko će imati hvalospjev , netko pouku , netko otkrivenje koje mu je Bog dao , netko će govoriti nepoznatim jezikom , a netko će to tumačiti . Ali sve što činite mora svima biti na izgradnju u Gospodinu .
+46014036	~		Mislite li da spoznaja Božje riječi počinje i završava s vama Korinćanima ? Jako se varate .
+46015012	zašto		Ali ako propovijedamo da je Krist uskrsnuo od mrtvih , zašto neki od vas govore da uskrsnuća nema ?
+46015029a	~		Ako mrtvi neće uskrsnuti , 
+46015029b	što		što misle postignuti oni koji se krste umjesto mrtvih ? 
+46015029c	čemu		Čemu to čine ako mrtvi jednog dana neće uskrsnuti ?
+46015030a	~		
+46015030b	zašto		I zašto bismo se mi neprestano izlagali pogiblima ?
+46015032	Kakva		Kakva je onda smisla imalo boriti se s divljim zvijerima - s onim ljudima u Efezu ? Ako nema uskrsnuća , " jedimo i pijmo jer sutra ćemo umrijeti ! "
+46015035a	kako		Ali netko će upitati : " Kako će mrtvi uskrsnuti ? 
+46015035b	kakva		Kakva će tijela imati ? "
+46015055a	gdje		Smrti , gdje ti je pobjeda ? 
+46015055b	gdje		Smrti , gdje ti je žalac ? "
+47002002	tko		Jer ako ja vas ražalostim , tko će mene razveseliti ako ne vi ?
+47002016	tko		prvima miris koji ih iz smrti vodi u život , a drugima koji ih iz života vodi u smrt . A tko je podoban za takav posao ?
+47003008	~		Neće li onda služba Svetoga Duha sjati još većom slavom ?
+47003009	~		Ako je Stari savez , koji je ljude vodio k osudi , bio slavan , još je mnogo slavniji Novi savez , koji ljude dovodi pravednosti .
+47006014a	što		Ne udružujte se s nevjernicima , ne uprežite se u isti jaram ! Što pravednost može imati zajedničkoga s bezakonjem ? 
+47006014b	kakvo		aKakvo zajedništvo može imati svjetlo s tamom ?
+47006015a	~		Može li biti sloge između Krista i Belijara ? 
+47006015b	kakvo		Kakvo zajedništvo može onaj tko vjeruje u Krista imati s nevjernikom ?
+47006016	Kakvog		Kakvog zajedništva može imati Božji hram s idolima ? A mi smo hram u kojemu stanuje živi Bog . Kao što je Bog rekao : " Stanovat ću u njima i hoditi među njima . Bit ću im Bog , A oni će biti moj narod . "
+47011011	Zašto		Zašto ? Zar zato što vas ne volim ? Bog zna da vas volim !
+47011029a	tko		Tko je slab a da ja ne osjećam tu slabost ? 
+47011029b	tko		Tko je naveden na grijeh a da ja ne izgaram od gnjeva ?
+47012013	čemu		Pa u čemu sam to onda lošije postupio prema vama nego prema ostalim crkvama , osim što vam nisam bio na teret ? Oprostite mi za tu ˝ nepravdu ˝ ' !
+47012017	kako		Ali kako ? Zar sam vas iskoristio po nekom svojem suradniku kojega sam vam poslao ?
+48002014	kako		Kad sam vidio da ne slijede istinu evanđelja , rekao sam Petru pred svima : " Kad si ti , Židov po rođenju , prestao izvršavati židovske zakone i živiš poput poganina , kako možeš pogane tjerati da se drže tih zakona ?
+48003001	Tko		O nerazumni Galaćani ! Tko li vas je to začarao - vas kojima je raspeti Isus Krist bio tako jasno predočen ?
+48003019	čemu		Čemu onda uopće Zakon ? Kako bi ljudima pokazao da su grešnici . Ali on je trebao trajati dok ne dođe potomak kojemu je dano Božje obećanje . Osim toga , Zakon je ljudima dan preko posrednika - preko anđela i Mojsija .
+48004009a	Zašto		Ali sada poznajete Boga ( ili bih zapravo trebao reći , Bog poznaje vas ) . Zašto se onda želite vratiti na staro i postati robovi nemoćnim i bijednim prirodnim silama ?
+48004009b	~		
+48004010	~		Brižno se trudite steći Božju naklonost pazeći na određene dane , mjesece , vremena i godine .
+48004015	Kamo		Kamo je nestalo ondašnje blaženo zajedništvo s vama ? Tada ste mi bili spremni dati sve - čak i vlastite oči da ste mogli .
+48004021	~		Recite mi vi , koji želite živjeti pod Zakonom : Zar ne razumijete što on zapravo kaže ?
+48004030	što		Ali što o tome kaže Sveto pismo ? " Otjeraj tu ropkinju i njezina sina jer ropkinjin sin ne smije biti baštinikom skupa sa sinom slobodne žene . "
+48005007a	tko		Dobro ste započeli trku . Tko vas je omeo i spriječio da i dalje slijedite istinu ?
+48005007b	~		
+48005011	~		Neki govore da čak i ja propovijedam kako su obrezanje i Zakon nužni za spasenje . Da to doista propovijedam , Židovi me više ne bi progonili jer ih takva poruka , koja nije o križu , ne bi sablažnjavala .
+49004009	~		Piše da je " uzišao " . To znači da je najprije sišao dolje , na zemlju .
+50001018	što		Ali što onda ? Bile njihove pobude iskrene ili ne , Krist se navješćuje . Tomu se radujem . A i dalje ću se radovati
+50001021	~		Jer za mene je život Krist , a smrt dobitak .
+51002020	Zašto		Ako ste zaista umrli s Kristom , onda vas je on oslobodio temeljnih počela ovoga svijeta . Zašto se onda , kao da još pripadate ovomu svijetu , podvrgavate propisima kao što su :
+52002019	Tko		Tko će , na koncu , biti naša nada i radost , naš ponos i naša nagrada pred našim Gospodinom Isusom kada opet dođe ?
+52003009	Kako		Kako da dovoljno zahvalimo Bogu za vas , za svu radost koju zbog vas osjećamo pred njim ?
+54003005	kako		Jer ako čovjek ne može upravljati vlastitom obitelji , kako će se brinuti za Crkvu ?
+54006007a	~		Na ovaj svijet nismo ništa donijeli , 
+54006007b	~		pa ništa ne možemo ni ponijeti s njega .
+58001005	~		Jer kome je od anđela ikada rekao : " Ti si moj Sin , danas sam ti postao Ocem . " I još : " Ja ću mu biti Otac , a on će meni biti Sin . "
+58001013	~		Bog nikada nije nekom anđelu rekao : " Sjedni mi s desne strane dok ti ne bacim pod noge tvoje neprijatelje . "
+58001014	~		Jer anđeli su samo poslužnički duhovi koje Bog šalje služiti onima koji će baštiniti spasenje .
+58002003	Zašto		Zašto onda mislimo da možemo proći bez kazne ako zanemarimo veliko spasenje što nam ga je navijestio sam Gospodin , što su nam ga potvrdili ljudi koji su ga čuli govoriti
+58002006a	što		Jer u Svetome pismu piše : " Što je običan čovjek da misliš na njega ? 
+58002006b	što		Što je sin čovječji da ga pohodiš ?
+58003016	Koji		Koji su to bili ljudi što su se pobunili protiv Boga iako su mu čuli glas ? Nisu li to oni što ih je Mojsije izveo iz Egipta ?
+58003017	tko		I tko je srdio Boga četrdeset godina ? Zar nisu oni koji su zgriješili i kojih su tjelesa popadala mrtva u pustinji ?
+58003018	komu		I o komu je Bog govorio kad se zakleo da nikada neće ući u mjesto njegova odmora ? Govorio je o onima koji su mu bili neposlušni .
+58006004	~		Nije moguće da se ponovno obrate oni koji su već bili prosvijetljeni i okusili nebeski dar te postali dionicima Svetoga Duha ,
+58007011	zašto		Da je levitsko svećenstvo moglo ispuniti Božju nakanu - a na njemu se temeljio Zakon - zašto bi još bilo potrebno da Bog pošalje drukčijeg svećenika , sličnoga Melkisedeku , a ne iz Aronova reda ?
+58009014	koliko		koliko će bolje Kristova krv očistiti našu savjest od mrtvih djela da možemo proslavljati živoga Boga ! Jer silom vječnoga Duha Krist je sebe prinio Bogu kao savršenu žrtvu za naše grijehe .
+58010001	~		Stari sustav Mojsijeva zakona bio je tek sjena budućega , a ne pravo obličje stvarnosti koju je Krist postignuo za nas . Žrtve su se u starome sustavu neprestano prinosile , godinu za godinom , ali nisu mogle savršeno očistiti ljude koji su ih prinosili .
+58010029a	koliko		Pomislite samo koliko će strašniju kaznu zavrijediti oni koji su pogazili Božjega Sina i koji se prema njegovoj krvi Saveza odnose kao da je nečista . Takvi su ljudi uvrijedili Svetoga Duha koji donosi Božju milost njegovu narodu !
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	što		Što još reći ? Predugo bi trajalo da vam potanko pričam o Gideonu , Baraku , Samsonu , Jefti , Davidu , Samuelu i prorocima .
+58012007	~		Trpite Božju stegu jer vas Bog njome odgaja - postupa s vama kao sa svojom djecom . A ima li djeteta kojega otac ne kori ?
+58012009	~		Kad su nas već naši tjelesni očevi korili i mi smo ih poštivali , nećemo li se još radije pokoriti stezi našega duhovnog Oca da postignemo vječni život ?
+58012025	kako		Pazite da budete poslušni Bogu , onomu koji vam govori . Jer ako Izraelci nisu umaknuli kad su odbili slušati Mojsija , zemaljskoga glasnika , kako da umaknemo mi ako odbijemo slušati onoga koji nam govori s nebesa ?
+58013006	što		Zato s pouzdanjem možemo reći : " Gospodin je moj pomagač i zato se ne bojim . Što mi mogu učiniti obični smrtnici ? "
+59002006	~		A vi ste prezreli siromaha ! Zar nisu upravo bogataši ti koji vas tlače i koji vas povlače po sudovima ?
+59002014	što		Draga braćo i sestre , što koristi ako tko veli da ima vjeru , a ne čini dobra djela ? Zar ga takva vjera može spasiti ?
+59002016a	~		a vi im kažete : " Idite u miru , utoplite se i najedite se " - ali im ne date hranu ni odjeću , 
+59002016b	kakve		od kakve je to koristi ?
+59002018	~		Netko bi , naprotiv , mogao reći : " Ti imaš vjeru , a ja imam djela . " Ali ja kažem : " Dokaži mi svoju vjeru odvojeno od djela , a ja ću tebi dokazati svoju vjeru djelima ! "
+59002021	~		Zar se naš predak Abraham nije pred Bogom opravdao djelom kad je na žrtvenik prinio svojega sina Izaka ?
+59003013	Tko		Tko je od vas mudar i razborit , neka dobrim življenjem pokazuje djela učinjena u blagosti . Jer mudro je biti blag .
+59003017	~		A mudrost koja dolazi s neba ponajprije je čista . Mirotvorna je , blaga , dobrohotna , puna milosrđa i dobrih djela . Postojana je i iskrena .
+59004001a	što		Što je uzrok sukoba 
+59004001b	~		i svađa među vama ? Zar nisu pohote koje se bore u vašim udovima ?
+59004012	tko		Samo Bog , koji je dao Zakon , može među nama pravedno presuditi . Samo on ima moć spasiti ili pogubiti . A tko si ti da sudiš bližnjega ?
+59004014	što		a ne znate što će biti sutra . Pa što je vaš život ? Poput daška je koji se načas pojavi i odmah nestane .
+60002020	Kakva		Kakva će vam , naime , biti zasluga podnosite li strpljivo udarce za ono što ste skrivili ? Ali ako trpite i strpljivo podnosite udarce zato što činite dobro , ugodit ćete Bogu .
+60003013	Tko		Tko će vam nauditi ako se trudite činiti dobro ?
+60004017	kakva		Jer došlo je vrijeme suda , a on mora započeti s Božjom djecom ! A ako se čak i nama kršćanima mora suditi , kakva li tek strašna sudbina očekuje one koji nisu poslušali Božje evanđelje !
+60004018	kako		Ako se Bog toliko trudio da spasi pravednike , kako će tek završiti bezbožnici i grešnici ?
+61003004	gdje		i govoriti : " Nije li Isus obećao ponovno doći ? Pa gdje je onda ? Jer otkako su pomrli naši preci , baš se ništa nije promijenilo - još od početka svijeta . "
+61003011	Kako		Sve će se to tako raspasti . Kako vam onda sveto valja živjeti !
+62002022	tko		A tko je lažac ako ne onaj koji tvrdi da Isus nije Krist ? Tko niječe Oca i Sina , antikrist je .
+62003012	Zašto		Ne smijemo biti poput Kajina , koji je pripadao Zlome i ubio svojega brata . Zašto ga je ubio ? Jer su mu djela bila zla , a djela njegova brata pravedna .
+62003017	kako		Ali ima li tko zemaljskih dobara te dobro živi , a vidi svojeg brata u potrebi i ostane pred njim tvrda srca - kako da ljubav Božja ostane u njemu ?
+62004020	kako		Kaže li tko : " Ja volim Boga " , a mrzi svojega brata , lažac je ; jer ako ne voli brata kojega vidi , kako može voljeti Boga kojega nikad nije vidio ?
+62005005	tko		Jer tko će pobijediti svijet ako ne oni koji vjeruju da je Isus Krist Božji Sin ?
+66005002	Tko		Ugledam zatim snažnog anđela kako glasno viče : " Tko je dostojan razlomiti pečate i otvoriti svitak ? "
+66006010a	kad		Glasno viču Gospodinu : " Gospodaru sveti i istiniti , kad ćeš već jednom osuditi ljude ovoga svijeta za to što su nam učinili ? "
+66006010b	~		
+66006017	Tko		Došao je velik dan njihova gnjeva ! Tko će preživjeti ? "
+66007013a	tko		Jedan od starješina me upita : " Znaš li tko su ti odjeveni u bijele haljine 
+66007013b	odakle		i odakle dolaze ? "
+66013004a	tko		i svi se poklone Zmaju koji joj je dao takvu vlast . Poklone se i Zvijeri . " Tko je kao Zvijer ? " govorili su . 
+66013004b	tko		" Tko može ratovati s njom ? "
+66015004a	tko		Tko da se tebe ne boji , Gospodine , 
+66015004b	tko		tko da ne proslavlja tvoje ime ? Jer ti si jedini svet . Svi će narodi doći i tebi se pokloniti jer su se očitovala tvoja pravedna djela . "
+66017007	što		" Što se čudiš ? " upita me anđeo . " Reći ću ti tajnu o toj ženi i o Zvijeri koja je nosi , sa sedam glava i s deset rogova . "
+66018018	~		Plakat će gledajući kako se diže dim njezina požara i zapomagati : ' Ima li igdje ovakva grada ? '

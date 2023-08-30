@@ -1,0 +1,743 @@
+40002002	Arî kû		Baûrithîria , " Arî kû ûra aciarîîtwe atuîka Mûnene wa Ayaundi ? Twaya kûmûgonga n'ûntû itwonire nthata yumîîte bwa mbarî ya uumîîro bwa riûa îkîonanagia gûciarwa gwake . "
+40002004	kû		Eeta athînjîri bara banene ba Ngai na aarimû ba watho bonthe amwe , abaûria i na kû kweerirwe Kîrîstû agaaciarwa .
+40003007	N'ûû		Njoana akwona Abarisai na Asandukai baingî baayîîte ababaatithia , abeera , " Rûciaro rûrû rwa njoka ! N'ûû aabweniirie abwîra bwakuthûka mûthûûro wa Ngai ûra ûûyîîte ?
+40005013	~		Yiesû auga , " Kîrî antû biû bûrî mwonyo . Îndî mwonyo ûkathira mûcamo ûtiîkîrîka uu kaîrî . Ûkarire ûgu ûtirî gîtûmi kaîrî nwa gûteewa nja ûgakinyangwa n'antû .
+40005046	bûrîkû		Bwenda wabara babwendeete bonka akî rî , i bûrîkû bûûnene bûra bûgaatûma bwewa kîewa ? Anga wana arûngithia ûgooti batirûthaga ûgu ?
+40005047	bûrîkû		Î kana weegua bûkeethagia waanyanya beenu bonka akî rî , i bûrîkû bwa mwanya bwarûtha ? Anga wana bara bataiyî Ngai batirûthaga ûgu ?
+40006027	N'ûû		N'ûû wacienu aûmba kwîbongeera ntugû nwa îmwe ya mwoyo wake n'ûntû bwa kwîmakîra ?
+40006028	kî		" Na i kî îîndî n'ûntû bûkwîmakîra bûkîûragia i kû bûkaaruta nguo ? Taraithaani maûa mara maumaga kîthakaani bwone bûra makûrangaga . Mo matirutaga ngûgî kana matuma nguo .
+40006031a	mbi		Kwoogu bûtikeemakîre bûkîûragia , ' I mbi tûkaarîa ? ' 
+40006031b	mbi		kana , ' I mbi tûkaanyua ? ' 
+40006031c	kû		kana , ' I kû tûkaaruta nguo ? '
+40007003	N'ata		N'ata ûkwona gakaracû karî riitho rîa mûcoore waku , îndî ûtikwona mûgogo ûra ûrî riitho rîaku ?
+40007004	N'ata		N'ata ûûmba kwîra mûcoore waku , ' Ga nkûrute gakaracû riitho ' na mûgogo ûrî rîîtho rîaku ?
+40007009	N'ûû		N'ûû wacienu eetua mûgaate i mwana wake akamwaa iiga ?
+40007016a	~		Bûkabimenya na ngûgî ira birutaga . Kûrî muntû aûmba gûtua ncabiibû mûtîîni wa mîîgua , 
+40007016b	~		kana agatua nkûyû mûgaani ?
+40008026	mbi		Yiesû abaûria , " I mbi îkûbûmakia , biû antû ba wîtîgio bûûkai ? " Aûkîîra aagondokera kîbuubani na makûmbî ma rûûyî , gwakirîîria kûrû .
+40008027	ata		Antû babu baarigara . Baûrania , " Ika muntû ûyû akari ata ? N'ûntû wana ruuo , wana makumbî ma rûûyî i makûmwathîkîra ! "
+40008029	N'ata		Bakwona Yiesû baanjîîria gûkaya mûno bakiugaga , " N'ata ûkwenda naati , woû Mwana wa Ngai ? Ika waya gûtûnyamaaria kagiita kongwa gatarî gakinyu ? "
+40009004	mbi n'ûntû		Yiesû akûmenya bûra baathûgaanagia , abaûria , " I mbi n'ûntû bûkûthûgaania mathûgaania maathûûku ûgu nkorooni cienu ?
+40009005	bûrîkû		I bûrîkû bûrî na inya ? I kuuga , ' Ûkûrekerwa meeyia maaku , ' kana i kuuga , ' Ûkîîra ûthi ? ' "
+40009011	kî		Abarisai bakwona ûgu baûria arutwa ba Yiesû , " I kî gîgûtûma mwarimû wenu arîyanîra na arûngithia ûgooti na eeyia ? "
+40009014	kî n'ûntû		Kagiita kamwe athingati ba Njoana Mûbaatithania baathiire kîrî Yiesû bamûûria , " I kî n'ûntû tiû na Abarisai tûtîîragîra kûrîa irio n'ûntû bwa maromba , îndî arutwa baaku bo batitîîragîra ? "
+40009015	~		Yiesû abaûria , " Bwaûmba kwîrîgîîra antû bara beete wikiini barega kûrîa rîra mûgûrani arî oogo ? Îndî kûrî kagiita gagaakinya mûgûrani arutarutwe kîrî bo . Rîru nwa barege kûrîa irio .
+40010025	~		Mûrutwa agatuatia mwarimû wake , ûgu ibûmûganîîte . Na mûruti ngûgî agatuatia ûra arutagîra ngûgî , ûgu ibûmûganîîte . Ûkoona i mwene mûciî beetire Bericebuuri , mûnene wa irundu biithûûku , t'wa antû ba mûciî wake . "
+40011007	n'ata		Arutwa ba Njoana bakûthi , Yiesû aanjîîria kwîra antû mantû ma Njoana . Abaûria , " Rîra bwathiîte rwanda kwona Njoana rî , n'ata bwerîgagîîra ? Bwathiîte kwona rûrara rûkiinainua i ruuo ?
+40011008	mbi		Kana i mbi bwathiîte kwona ? I muntû eekîrîte nguo imbega ? Bara beekagîra nguo ta inu boonekanaga mîciî ya anene .
+40011009	mbi		Kwoogu i mbi bwathiîte kwona ? Ti kîroria ? Na mma ga nkûbwîra , aarî nkûrûki ya kîroria .
+40011016	mbi		" I mbi mma mbûmba kûbuanaania n'yo antû ba ntugû ino ? Bakari ta twana tûrîîkanîîte thokooni , tûmwe tûkeeraga tûra tûngî ,
+40012011	N'ûû		Yiesû abaûria , " N'ûû wacienu ataruta ng'ondu yake mûthûrûriini ntugû ya Sabatû ?
+40012026	n'ata		Ûkeegua Saitaani arîîngatia Saitaani neegua aathûkeene . Kwoogu n'ata ûnene bwake bûûmba gûtûûra ?
+40012027	ûû		Ûkaaya kwîgua mbîngatagia irundu biithûûku ngîtûmagîra inya ya Bericebuuri rî , antû beenu batûmagîra inya ya ûû kûbiîngatia ? Bûra barûthaga i bu bûgaatûma bûmenya bûra bûkuuga .
+40012029	n'ata		" Arîo rî , n'ata muntû abunjia nyomba ya muntû arî na inya akathûkia into biake na taka ? Nwanga akaamba akamûthaîka na îkanda , rîru i rîo athûngîra nyomba akamûtunya into .
+40012034	N'ata		Biû rûciaro rwa njoka ! N'ata bûûmba kwaria mantû meega na bûrî antû baathûûku ? Kanyua kaaragia mantû mara mooyûri nkoro .
+40012048a	ûû		Yiesû abaûria , " Taata na aruayia i ba ûû ? "
+40012048b	~		
+40013010	kî n'ûntû		Arutwa baake baathi kîrî we bamûûria , " I kî n'ûntû waragîria antû ûgîtûmagîra ngerekano ? "
+40013027	kû		" Aruti ngûgî baathi kîrî mwene mûnda bamûûria , ' Mûnene , anga ûtaandire mbeû îmbega mûndaani ? Aabu i kû nthangarî yumîîte ? ' " Mwene mûnda abeera ,
+40013054a	kû		bwa ntûûra yao îra baatûîre . Ntugû ya Sabatû îgûkinya aathi sinagoogiini aarutana antû . Bara baamûthikîîrie baarigara mûno . Baanjîîria kûûrania , " I kû muntû ûyû arutîîte ûûme bûbû 
+40013054b	~		na inya îno ?
+40013056	kû		Aaragina na bo bonthe anga ti bara tûtûîre na bo gûkû ? Aabu i kû arutîîte mama monthe ? " Baarega kûmwîtîgia .
+40014031	kî		Warîru Yiesû aatambûrûkia njara amûgwata . Amûûria , " Ka ûrî na wîtîgio bûniini ata ? I kî ûtagwîtîgia ? "
+40015002	kî n'ûntû		" I kî n'ûntû arutwa baaku baunaga wîthîre bwetû bwa kûthamba njara mbere ya kûrîa irio ? "
+40015003	kî n'ûntû		Yiesû abaûria , " I kî n'ûntû bûtaathîkagîra watho bwa Ngai bûgatindaga bwîngeene na kîîwîthîre kîenu ?
+40015033	kû		Arutwa baake bamûûria , " I kû tûruta mîgaate ya kûgana rwanda ta rûrû tûrî ya kûrûmia kîrîndî gîkî kîonthe ? "
+40015034	îgana		Yiesû abaûria , " I mîgaate îgana îrî oogo ? " Bamûcookeria bamwîra , " I mûgwanja na tûkûyû tûûkai . "
+40016008	kî n'ûntû		kî n'ûntûYiesû akwîgua bakîîrana ûgu abaûria , " N'ata bûrî na wîtîgio bûûniini ! I kî n'ûntû bûkûthûgaania i bûra bûtarî na mîgaate ?
+40016009	bigana		Ka bûtagûciûkîrwa kinya îîndî ? Ka bûtakûririkana rîra ndagaîrîîre antû ngiri itaano mîgaate îtaano ? Bwaûyûriirie ikaabû bigana bia matigari ?
+40016010a	~		Bûtikûririkana kinya rîra ndagaîrîîre antû bara ngiri inya mîgaate îra mûgwanja ? 
+40016010b	bigana		N'ikaabû bigana bia matigari bweethîraniirie ?
+40016011	kî		Aabu i kî îîndî n'ûntû bûtagûciûkîrwa bûmenya ti mantû ma mîgaate nkwaragîîria ? Bwîmenyeere kîrî ndawa ya kwimbithia mîgaate ya Abarisai na Asandukai . "
+40016013	n'ûû		Yiesû agûkinya rûteere rûra taûni ya Kaisaria Piripi yarî aûria arutwa baake , " Înkûbûûria , antû baugaga Mwana wa Muntû n'ûû ? "
+40016015a	~		Yiesû aacooka abaûria , 
+40016015b	ûû		" Î biû buugaga ndî ûû ? "
+40016026a	mbi		Î rîo rî , i baita mbi muntû oona wana ûkeegua nthîgûrû yonthe n'yake , îndî akaaga mwoyo ? 
+40016026b	~		Anga kûrî kîo muntû ateeyana akîenda kwonokia mwoyo wake ?
+40017010	kî n'ûntû		Arutwa baake bamûûria , " I kî n'ûntû aarimû ba watho barutanaga bakauga nwa mwanka Eriya aaye mbere ya Kîrîstû aaya ? "
+40017017a	rî		Yiesû auga , " Biû bûrî nthuke înthûûku , îtarî wîtîgio . I mwanka rî ngaakarania naabi ? 
+40017017b	rî		Na nkaabwinyîkîria mwanka rî ? Ndeeteraani kaana gaku . "
+40017019	kî n'ûntû		Nyumaani barî bonka arutwa baûria Yiesû , " I kî n'ûntû tiû tûremirwe kwîngatia kîrundu kîra gîkûrî na kaana kara ? "
+40017025a	ûû		Petûrû abeera , " Yîî , narîaga . " Petûrû akûthi nyomba îra Yiesû aakaraga , mbere kinya amûgwetera , Yiesû amwîra , " Ingûkûûria , Simioni . Anene beethîranagia ûgooti kuuma kîrî ba ûû ? 
+40017025b	baao		I kuuma kîrî aana baao , kana i kuuma kîrî antû bara bangî ? "
+40018001	N'ûû		Warîo arutwa ba Yiesû baaya kîrî we bamûûria , " N'ûû mûnene ûneneeni bwa îgûrû ? "
+40018012	~		Yiesû abeera , " Tathûgaaniani . Ûkeegua muntû arî na ng'ondu ciake îgana rî , îmwe ya cio îkaûra ntikuuga natiga inu ingî mîrongo kenda na kenda akathi gûcûa înu mbûru ?
+40018021	magana		Petûrû aathi kîrî Yiesû amûûria , " Mwathani , i maita magana mbagîrîtwe kûrekera mûruayia ambîyia ? Ti maita mûgwanja ? "
+40019007	kî n'ûntû		Abarisai bamûûria , " Na aabu i kî n'ûntû watho bwa Musa bwîtîgîîrîîtie muntû acookia mûka bunka aandîkîîte baarûa ya kwonania bakuumanwa ? "
+40019016	bûrîkû		Îgiita rîmwe muntû ûmwe aathi kîrî Yiesû amûûria , " Mwarimû , n'ûntû bûrîkû bwega bûra ndûtha nkathi mwoyooni wa tene na tene ? "
+40019017	kî n'ûntû		Yiesû amûûria , " I kî n'ûntû ûkûmbûûria bûra bwega ? Ûra mwega n'ûmwe . Weegua nûkwenda mwoyo wa tene na tene athîkagîra maathana ma Ngai . "
+40019018	marîkû		Muntû ûyu amûûria , " Maathana marîkû ? " Yiesû amwîra , " Mara maugîîte , ' Ûtikaûragane , ' ' Ûtikaathûngîîre , ' ' Ûtikaiye , ' ' Ûtigaatuyanîîre , '
+40019020	~		Mûthaka ûyu eera Yiesû , " Mamu monthe immaathîkagîra . Gûtirî bûngî ? "
+40019025	~		Arutwa bakwîgua ûgu baarigara mûno . Baanjîîria kûûrania , " Anga kûrî we akoonokua ? "
+40019027	ata		Petûrû aûria Yiesû , " Î tiû naati tûtigîîte bionthe twakûthingata rî , gûgaakara ata ? "
+40020006	N'ata n'ûntû		Ta thaa kûmi na îmwe aumagarûka kaîrî eethîra bangî barûngi . Abaûria , ' N'ata n'ûntû bwatinda bûrûngi aaga mûthenya unthe gûtarî bu bûkûrûtha ? '
+40020012	N'ata		bakîmwîraga , ' N'ata ûûmba gûtûrîa bûmwe na antû barutîîte ngûgî îthaa rîmwe na tûtindîîte kûthithina mûthenya unthe tûkîrûngûraga i riûa ! '
+40020021	N'ata		Yiesû amûûria , " N'ata ûkwenda ? " Mwekûrû ûyu amwîra , " Ndîenda uuga aana baba baakwa bagaakara amwe naawe ûneneeni bwaku , ûmwe rûteere rwaku rwa ûrîo na ûyû ûngî rwa ûmotho . "
+40020032	N'ata		Yiesû aarûngama abeeta . Abaûria , " N'ata bûkwenda mbûrûthîra ? "
+40021010	ûû		Bagûkinya Njerusaremu taûni yonthe yagwatwa i kîrigaro . Antû baatua kûûrania , " Ka muntû ûyû arî ûû ? "
+40021016	~		Beera Yiesû , " Anga nûkwîgua bûra twana tûtû tûkuuga ? " Yiesû abeera , " Inkwîgua mma . Îndî anga bûtaathooma bûra kwandîkîîtwe Maandîkooni Maatheru , ' Ngaatûma twana na tûgenke tûngonga bûra kwagîrîte ' ? "
+40021020	N'ata		Arutwa baake bakwona mûkûyû waûma warîo , baarigara mûno i kîama gîku . Baûria , " N'ata mûkûyû ûyû waûma weendî ? "
+40021023a	kû		Bagûcooka Njerusaremu kaîrî , Yiesû aathi aathûngîra nyomba ya Ngai aanjîîria kûrutana . Athînjîri bara banene ba Ngai na akûrû baaya ku bamûûria , " I kû ûrutîîte watho bwa kûrûtha mantû mama ûkûrûtha ? 
+40021023b	n'ûû		Na n'ûû akwete bu ? "
+40021025a	kû		Abaûria , " I kû Njoana aarutîîte watho bwa kûbaatithania ? I kuuma kîrî Ngai kana i kuuma kîrî muntû ? " Baanjîîria kwîrana , 
+40021025b	~		" Twamwîra i kuuma kîrî Ngai , agaatûûria , 
+40021025c	kî n'ûntû		' Aabu i kî n'ûntû bûtaamwîtîgia ? '
+40021028	~		Yiesû aathi na mbere kûbaarîria abeera , " Tathûgaaniani . Ikwarî na muntû aarî na aana baîrî . Îgiita rîmwe aathi kîrî ûra mûkûrû amwîra , ' Bai , îmunthî îthi mûndaani . '
+40021031	N'ûrîkû		Yiesû aûria athînjîri bara banene ba Ngai na akûrû bara baarî agu , " N'ûrîkû kîrî aana babu barî baîrî aarûthire bûra îthe eendaga kûrûthwa ? " Bamûcookeria bamwîra , " N'ûra mûkûrû . " Yiesû abeera , " Na mma ga nkûbwîra , arûngithia ûgooti na marwaya i bo bakaathi ûneneeni bwa Ngai mbere yenu .
+40021040	n'ata		Yiesû abaûria , " Bûrîthûgaania rîra mwene mûnda akaathi eethîre antû babu rî , n'ata akaabarûtha ? "
+40022012	n'ata		Amûûria , ' Bai ûyû , n'ata woû ûûyire aaga ûtarî na nguo cia kûûya wikiini ? ' Muntû ûyu aaga bwa kuuga .
+40022017	~		Tatwîre bûra ûkwona -- itwagîrîtwe tûrûngaga ûgooti kîrî Kaisaarî kana tûtiagîrîtwe ? "
+40022018	kî n'ûntû		Yiesû aamenya baamûûragia ûgu barî na mûbango ûmûthûûku . Abaûria , " Eebwithia baba , i kî n'ûntû bûkûngeria ?
+40022020a	ûû		Yiesû abaûria , " Ûthiû bûbû i bwa ûû ? 
+40022020b	ûû		Na riîtwa rîrî i rîa ûû ? "
+40022028	ûû		Asandukai babu baûria Yiesû , " Îîndî rî , rîra antû bakaariûkua mûka ûyu agaatuîka wa ûû kîrî nthaka inu irî mûgwanja n'ûntû ingî cionthe iciamûgûrîîte ? "
+40022036	rîrîkû		Amûûria , " Mwarimû , i yathana rîrîkû rîrî gîtûmi nkûrûki ya maathana mara mangî ? "
+40022042a	n'ûû		" Bûthûgaanagia Kîrîstû n'ûû ? 
+40022042b	ûû		Na i mwana wa ûû ? " Bamûcookeria bamwîra , " We i Mwana wa Ndaundi . "
+40022043	n'ata		Yiesû aacooka abaûria , " Na n'ata îîndî Ndaundi akîaragia kwa inya ya Kîrundu aamwîtaga ' Mwathani ' ? N'ûntû ariuga ,
+40022045	n'ata		Ûkaaya kwîgua Ndaundi arîmwîta ' Mwathani ' rî , n'ata îîndî Kîrîstû aûmba gûtuîka mwana wake ? "
+40023017	mbi		Biû bûrî ntûngi intaku ! I mbi îrî gîtûmi nkûrûki ya îra îngî , i thaabu kana i nyomba ya Ngai kûra thaabu yaigagwa kaingo îtuîka n'întheru ?
+40023019	mbi		Ntûngi ino ! I mbi îrî gîtûmi nkûrûki ya îra îngî . I kîra kîrî kîthînjîrooni , kana i kîthînjîro ara kîewa kînenkanagîîrua kaingo kîtherua ?
+40023033	~		" Biû , njoka ino ! Rûciaro rwa njoka imbîî ! Ntikwona bûra bûtagîtuîrwa kûthi îcamaarîro .
+40024003a	irî		Yiesû akari nthî Karîmaani ka Mîceituuni , arutwa baake baathi kîrî we barî bonka . Bamwîra , " Tatwîre irî mantû mama magaatuîkîka . 
+40024003b	mbi		Na i mbi îkoonania rîra ûkeegua ûûyîîte , rîra mûthiro wa nthîgûrû ûgaakinya ? "
+40024045	N'ûû		Yiesû aathi na mbere na kwaria . Auga , " N'ûû îîndî mûruti ngûgî mwîtîgua na ûmûûme , ûra mwene mûciî aûmba gûtigîra mûciî rîra atarî ku akarûmia bara bangî irio thaa cia kûrîa ciakinya ?
+40025037	rî		" Babu baagîru bamûûrie , ' Mwathani , i rî warî na yûûra twakûgaagûra na i rî warî na bûûta twagûkundia rûûyî ?
+40025038	rî		I rî warî mûgeni twakûgwata ûgeni na i rî wathirîîtie nguo twakwaa imbega ?
+40025039	rî		I rî wayîîtue twaya gûkûraitha na i rî wathaîkîîtwe nceera twaya gûkwona ? '
+40025044	rî		" Bamûûrie , ' Mwathani , i rî warî na yûûra , kana bûûta ? I rî warî mûgeni , na i rî wathirîîtie nguo îndî twarega gûgûteethia ? I rî wayîîtue , na i rî wathaîkîîtwe nceera îndî tûtaaya gûkwona ? '
+40026008	kî n'ûntû		Arutwa ba Yiesû bakwona ûgu baathûûra . Baanjîîria kûûrania , " I kî n'ûntû îîndî mwekûrû ûyu akwînyangia maguta mama ûûgû ?
+40026010	mbi		Yiesû akwîgua ûgu abeera , " I mbi bûkûmûûria ? Akûndûtha ûntû bwega .
+40026015	mbi		Abaûria , " I mbi bûgampa ndamûkunyanîra ? " Baatara fetha mîrongo îthatû bamwaa .
+40026017	kû		Ntugû ya mbere ya kîatho kîa mîgaate îtaimbithîîtue , arutwa baathi kîrî Yiesû bamûûria , " I na kû ûkwenda tûthi gûkûthuuranîra biakûrîa bia Pasaka ? "
+40026040	~		Yiesû aûkîîra aacooka kîrî arutwa baake eethîra ibamaamire . Eeta Petûrû , " Petûrû ! " Amwîra , " Bûtiraûmba gûkara bûtamaami nwa îthaa rîmwe nkîromba ? "
+40026050	~		Yiesû amwîra , " Mûcoore , rûtha bûra bûgûkûreeteete . " Warîru antû babu baathi baagwata Yiesû .
+40026054	n'ata		Îndî na rîo n'ata Maandîko Maatheru makaûyûranga mara maugîîte nwa mwanka mantû mamu makarîke woogu ? "
+40026062a	N'ata		Bakuuga ûgu mûthînjîri ûra mûnene aarûngama . Aûria Yiesû , " N'ata ûkuuga ûrî woû ? 
+40026062b	~		Gûtirî bu ûkuuga îgûrû rîa mantû mama antû baba bakuuga nûrûthîîte ? "
+40026065	~		Yiesû akuuga ûgu , mûthînjîri ûra mûnene aatembûra nguo yake wengwa ira eekîrîte , auga , " Akûruma Ngai ! N'ûgu îîndî , tûtikwenda ûkûûyî bûngî . Wana biû bûkwîgua .
+40026066	~		Mbîîraani îîndî bûra bûgûtua . " Bonthe baatua bauga , " Naûragwe . "
+40026068	~		bakîmwîraga , " Kîrîstû , taroria ûtwîre ûra akûringa ! "
+40027004	~		Abeera , " Imbîyîîtie ntûmîîte nthakame îtarî na ûthûûku îîtûûrwa . " Bamwîra , " Aabu ? Ga tûkûmaka n'ûgu tiû ? Înu i thîîna yaku . "
+40027013	~		Piraatû amûûria , " Anga nûkwîgua mantû mama monthe bakuuga nûrûthîîte ? "
+40027017	N'ûû		Kwoogu antû baathi kîrî Piraatû . Piraatû abaûria , " N'ûû bûkwenda mbuga arekeerua ? I Baraba kana i Yiesû ûyû agwîtwa Kîrîstû ? "
+40027021	N'ûû		Ngabana aûria antû kaîrî , " N'ûû kîrî bo barî baîrî bûkwenda arekeerua ? " Bamwîra , " I Baraba ! "
+40027022	n'ata		Piraatû abaûria , " Aabu n'ata bûkwenda ndûtha na Yiesû ûyû agwîtwa Kîrîstû ? " Bonthe bauganîîria rîmwe bamwîra , " Nambwe ! "
+40027023a	kî		Piraatû abaûria , " I kî ? 
+40027023b	marîkû		I mabîtia marîkû arûthîîte ? " Îndî amwe noogu kîrîndî kîathi na mbere kûyoga nkûrûki gîkîmwîraga , " Nambwe ! "
+40027046	kî n'ûntû		Na ta thaa inu kenda , Yiesû aagondoka na inya mûno . Auga , " Eli , Eli , lama cabakithani ? " Tûgîtaûra , ûgu i ta kuuga , " Ngai wakwa , Ngai wakwa , i kî n'ûntû wantiganîria ? "
+41001024	N'ata		auga , " N'ata ûkwenda naati Yiesû Mûnasareethi ? Ka ûûyîîte gûtûthiria kana ? Imbiyî woû ûrî ûû . Ûrî Mûtheru kuuma kîrî Ngai . "
+41001027	bûrîkû		Antû bonthe bara baarî gûku baarigara mûno . Baanjîîria kûûrania , " I bûrîkû bûbû ? Î muntû ûyû arîrutana mantû maageni na arîaria na watho kuuma kîrî Ngai ! Î arîîra irundu biithûûku birûthe ûntû na bikamwathikîra ! "
+41002007a	N'ata		" N'ata muntû ûyû akwenda kwonania ? Nakwîthûkia taka arî Ngai ? 
+41002007b	~		Anga ti Ngai wenka aûmba kûrekera muntû meeyia ? "
+41002008	mbi n'ûntû		Yiesû aamenya bûra baathûgaanagia . Abaûria , " I mbi n'ûntû bûkûthûgaania ûgu ?
+41002009	bûrîkû		I bûrîkû bûûthû ? I kwîra kîonje gîkî , ' Ûkûrekerwa meeyia maaku , ' kana i gûkîîra ' Ûkîîra ûkamate mamaamîro maaku ûthi ' ?
+41002016	kî		Abarisai bamwe baarî aarimû ba watho bakwona Yiesû akîrûtha ûgu , baûria arutwa baake , " I kî gîgûtûma arîyanîra na arûngithia ûgooti na eeyia ? "
+41002018	kî n'ûntû		Kagiita kamwe athingati ba Njoana Mûbaatithania na ba Abarisai ibaatîîrîrîte kûrîa irio . Antû bamwe baathi kîrî Yiesû bamûûria , " I kî n'ûntû arutwa ba Njoana Mûbaatithania na ba Abarisai bo batîîragîra kûrîa irio n'ûntû bwa maromba , îndî baaku batitîîragîra ? "
+41002019	~		Yiesû abaûria , " Bwaûmba kwîrîgîîra antû bara beete wikiini barega kûrîa ntugû îra mûgûrani arî na wiki ? Batitîîrîra kûrîa ntugû înu mûgûrani arî na wiki .
+41002024	mbi n'ûntû		Abarisai bakwona bakîrûtha ûgu , beera Yiesû , " I mbi n'ûntû bakûrûtha bûra bûtabuîrîîte kûrûthwa ntugû ya Sabatû ? "
+41003004	~		Yiesû aûria antû , " Watho bwîtîgîîrîîtie muntû arûtha bwega kana i bûûthûûku ntugû ya Sabatû ? I kwonokia mwoyo kana i gûcuûraga ? " Gûtirî muntû aaria .
+41003023	N'ata		Yiesû abeeta . Aatûmîra ngerekano abaûria , " N'ata Saitaani îîbingatangia îrî yo ? "
+41003033a	ûû		Yiesû abaûria , " Taata na aruayia i ba ûû ? "
+41003033b	~		
+41004013	n'ata		Yiesû abaûria , " Ûkeegua bûtigûciûra ngerekano îno rî , n'ata bûkaamenya îngî bwerwa ?
+41004030a	mbi		Yiesû abaûria , " I mbi yo mma tûûmba kûbuanaania n'yo ûnene bwa Ngai ? 
+41004030b	ata		Kana i ngerekano îkari ata tûûmba gûtûmîra ?
+41004038	~		Yiesû aarî nyuma ya îtarû amaami aigîîrîîte kîongo gîake bantû aûkîîru . Arutwa baake bamûûkia bakîmûûragia , " Mwarimû , nûtakwona ta ûntû na itûkûthira ? "
+41004040a	mbi		Yiesû aûria arutwa baake , " I mbi îkûbûmakagia ? 
+41004040b	kû		Bûrî kû wîtîgio bwenu ? "
+41004041	ûû		Baamaka mûno . Baûrania , " Ika muntû ûyû arî ûû n'ûntû wana ruuo , wana rûûyî , ibikûmwathîkîra ! "
+41005007	N'ata		Auga na inya , " N'ata ûkwenda naani , Yiesû , Mwana wa Ngai ûra atûûraga îgûrû mûno . Itû ngûkwereka kwa riîtwa rîa Ngai , menya ûnnyamaaria . "
+41005009	ata		Yiesû amûûria , " Wîtagwa ata ? " Muntû ûyu amwîra , " Mbîtagwa ' Mbûûtû , ' n'ûntû ntirî ninka tûrî mûkondo . "
+41005030	N'ûû		Yiesû eegua kûrî inya yamuuma . Aûndûka aûria antû , " N'ûû aantonga nguo ? "
+41005031	n'ûû		Arutwa baake bamwîra , " Nûkwona bûra kîrîndî gîkwinyîkîîte bûgana na nûkûûria n'ûû agûtonga ? "
+41005035	~		Yiesû wakîaragia woogû , atûmwa baaya kîrî Njairû baumîîte mûciî wake . Bamwîra , " Nootanyamaaria mûrutani , kaarî gaaku gagûkua . "
+41005039a	kû		Yiesû aathûngîra nyomba . Abaûria , " I kû thîîna îrî îra îgûtûma bûrîra ûûgû ? Kaana gaka ti gakuû ikamaami . "
+41005039b	~		
+41006002a	kû		Sabatû îgûkinya , Yiesû aathi sinagoogiini , aanjîîria kûrutana . Antû baingî bakwîgua bûra aarutanangaga baarigara mûno . Baatua kûûrania , " I kû muntû ûyû arutîîte mantû mama akûrutana ? 
+41006002b	N'ûû		N'ûû amwete ûûme bûgana ûûgû ? 
+41006002c	kû		Na i kû arutîîte inya ya kûringa biama ta bira akûringa ?
+41006022	~		Mwarî wa Erondia aayire gûku kîatho kîarî aina ndanci bwega , aakenia Eronde na ageni baake . Eronde amwîra , " Uga kîra wenda nkwa , nkwe kîo . "
+41006024	~		Mwarî ûyu auma . Aathi eera gina , " Mbîîra kîra ngeetia . " Gina amwîra , " Uga wewe kîongo kîa Njoana Mûbaatithania . "
+41006037	~		Yiesû eera arutwa baake , " Baeni gîntû bûrî biû barîe . " Arutwa bamwîra , " Tûkauga tûgûrîre antû baba bonthe mîgaate barîe babae , nwanga tûrî na mbia igana ta îrîi rîa mûruti ngûgî wa gîîntugû rîa nkûrûki ya mîeri îthanthatû ! "
+41006038	îgana		Yiesû abaûria , " I mîgaate îgana îrî oogo ? Tathiini bwone . " Arutwa bakûthi boona i mîgaate îgana yarî , baacooka beera Yiesû , " I mîgaate îtaano na makûyû maîrî . "
+41007005	mbi n'ûntû		Abarisai babu na aarimû babu ba watho baûria Yiesû , " I mbi n'ûntû arutwa baaku batakûthingata kîîwîthîre gîa akûrû beetû ? I kî n'ûntû bakûrîa bataambîîte kûthamba njara mbere ? "
+41008004	kû		Arutwa baake bamûûria , " I kû tûruta mîgaate ya kûrûmia antû baba bonthe rwanda ta rûrû ? "
+41008005	îgana		Yiesû abaûria , " I mîgaate îgana îrî oogo ? " Bamwîra , " I mûgwanja . "
+41008012	kî		Yiesû eegua ûgu aara nkoro . Aûria , " I kî rûciaro rûrû rûkwendera kwona kîama ? Na mma ga nkûbwîra , gûtirî kîama rûkoona ! "
+41008017	mbi n'ûntû		Yiesû aamenya bûra baugaga . Abaûria , " I mbi n'ûntû bûkûthûgaania i bûra bûtarî na mîgaate ? Ka wana îîndî bûtiramenya kana bûciûra ûgu ndauga ? Mathûgaania meenu matirarugûka na îîndî ?
+41008018a	~		Anga bûrî na meetho na bûtikwona ? 
+41008018b	~		Anga bûrî na matû na bûtikwîgua ? Ka bûtakûririkana
+41008019	bigana		rîra ndagaagûrire antû bara ngiri itaano na mîgaate îtaano ? N'ikaabû bigana bwethîraniirie bia mang'enyûrû mara maatigarire ? " Arutwa bamwîra , " Biarî ikaabû îkûmi na biîrî . "
+41008020	bigana		Yiesû aacooka abaûria kaîrî , " Î rîra ndagaagûrire antû bara ngiri inya na mîgaate mûgwanja ? N'ikaabû bigana bwethîraniirie bia mang'enyûrû mara maatigarire ? " Arutwa bamwîra , " Biarî ikaabû mûgwanja . "
+41008021	~		Yiesû abaûria , " Na wana îîndî mma bûtigûciûra bûmenya bûra nkuuga ? "
+41008023	~		Yiesû aagwata muntû ûyu atoonaga njara , bauma taûni . Bakuuma taûni , Yiesû aatuîra muntû ûyu mata meetho . Amwaigîîra njara , amûûria , " Kûrî kîo ûkwona ? "
+41008027	ûû		Yiesû na arutwa baake baathi ntûûra ira ciarî akubî na taûni yeetagwa Kaisaria Piripi . Barî njîraani Yiesû aûria arutwa baake , " Antû baugaga ndî ûû ? "
+41008029a	~		Yiesû abaûria , 
+41008029b	ûû		" Î biû buugaga ndî ûû ? " Petûrû amwîra , " Woû ûrî Kîrîstû . "
+41008036	mbi		Î rîo rî , bungwa i baita mbi muntû oona wana ûkeegua nthîgûrû yonthe n'yake îndî akaaga mwoyo ?
+41008037	~		Anga kûrî kîo muntû ateeyana akîenda kwonokia mwoyo wake ?
+41009010	~		Arutwa babu beendama bakîûranagia i kûriûkua kûrîkû gûku Yiesû aaragîîria . Bataumbûra mantû mamu boonire .
+41009011	kî n'ûntû		Baûria Yiesû , " I kî n'ûntû aarimû ba watho barutanaga bakauga nwa mwanka Eriya aaye mbere ya Mesia aaya ? "
+41009012	kî n'ûntû		Yiesû abeera , " N'ûmma Eriya nwa mwanka aaye mbere oone mantû magûkara bûra maagîrîtwe wîgua makari . Îndî i kî n'ûntû Maandîko Maatheru maugaga Mwana wa Muntû akanyamaarua mûno na amenwe ?
+41009016	mbi		Yiesû abaûria , " I mbi yo bûgûkararanîria ? "
+41009019a	rî		Yiesû abeera , " Ga tûgaakara naabi mwanka rî , nthuke îno îtarî wîtîgio ? 
+41009019b	rî		Ga nkainyîkîria tûkare naabi mwanka rî ? Reeteeni kaana gaku . "
+41009021	rî		Yiesû aûria îthe wa kaana gaku , " I kuuma rî kaana gaka kaanjîîrie gûkara ûûgû ? " Îthe wa kaana amwîra , " I kuuma wana bwa ko .
+41009028	kî n'ûntû		Yiesû bagûcooka nyomba , arutwa baake bamûûria barî bonka , " I kî n'ûntû tiû tûremirwe kwîngatia kîrundu kîra gîkûrî na kaana kara ? "
+41009033	mbi		Bagûkinya taûni ya Kaperinaumu , barî nyomba , Yiesû aûria arutwa baake , " I mbi bûgûkararanagîria njîraani ? "
+41009050	~		Mwonyo n'ûmwega , îndî ûkathira mûcamo ûtiîkîrîka uu kaîrî . Karagaani bûrî na mûcamo , na tûûranagiani na ûkiri . "
+41010003	ata		Yiesû abaûria , " Musa augîîte ata kûringana na watho ? "
+41010017	n'ata		Kagiita kamwe Yiesû athiîte , muntû ûmwe aaya kîrî we na rwîro amûturîria maru amwîra , " Mwarimû ûmwega , n'ata ndûtha nkathi mwoyooni wa tene na tene ? "
+41010018	kî n'ûntû		Yiesû aûria muntû ûyu , " I kî n'ûntû ûkûmbîta ûmwega ? Gûtirî we mwega tatiga Ngai wenka .
+41010026	~		Arutwa bakwîgua ûgu na bu baarigara nkûrûki . Baanjîîria kûûrania , " Anga kûrî we akoonokua ? "
+41010036	N'ata		Yiesû abaûria , " N'ata bûkwenda mbûrûthîra ? "
+41010051	N'ata		Yiesû amîûria , " N'ata ûkwenda nkûrûthîra ? " Ntûngi înu yamwîra , " Mwarimû , ga nkwenda ntua kwona . "
+41011003	kî n'ûntû		Ûra akaabûûria i kî n'ûntû bûgûkathaûra , bûmwîre , ' I Mwathani arî bata na ko na agagacookia waaga , atiikarakara na ko . ' "
+41011005	kî n'ûntû		Antû bamwe baarûngi waagu babaûria , " I kî n'ûntû bûkûthaûra kayaû gaku ? "
+41011028a	kû		Bamûûria , " I kû ûrutîîte watho bwa kûrûtha mantû mama ûkûrûtha ? 
+41011028b	n'ûû		Na n'ûû akwete bu ? "
+41011030	kû		Abaûria , " I kû Njoana aarutîîte watho bwa kûbaatithania ? I kuuma kîrî Ngai , kana i kuuma kîrî muntû ? Ncookeriani . "
+41011031a	~		Baanjîîria kwîrana , " Twamwîra , ' I kuuma kîrî Ngai , ' agaatûûria , 
+41011031b	kî n'ûntû		' Aabu i kî n'ûntû bûtaamwîtîgia ? '
+41012009	ata		Yiesû abaûria , " Bûrîthûgaania mwene mûnda akaarûtha ata ? " Yiesû abeera , " Akaathi athirie antû babu , akomborithie antû bangî mûnda wake .
+41012015	kî n'ûntû		Yiesû naiyî ibeebuithagia . Abaûria , " I kî n'ûntû bûgûntega ? Ûra arî na ciringi tanareete yo . "
+41012016a	ûû		Bamûnenkera . Yiesû abaûria , " Ûthiû bûbû i bwa ûû ? 
+41012016b	ûû		Na riîtwa rîrî i rîa ûû ? " Bamûcookeria bamwîra , " Bionthe i bia Kaisaarî . "
+41012023	ûû		Asandukai babu baûria Yiesû , " Îîndî rîra bara bonthe baakuire bakaariûkua rî , mûka ûyu agaatuîka wa ûû , n'ûntû ingî nthaka inu cionthe irî mûgwanja iciamûgûrîîte ? "
+41012028	rîrîkû		Mwarimû ûmwe wa watho akwîgua Yiesû eeyana îcookio rîega , amûûria , " I yathana rîrîkû rîrî gîtûmi nkûrûki ya maathana mara mangî ? "
+41012035	N'ata		Yiesû akîrutanaga nyomba ya Ngai , aûria , " N'ata aarimû ba watho baûmba kuuga Kîrîstû i Mwana wa Ndaundi ?
+41012037	n'ata		Ûkaaya kwîgua Ndaundi we wengwa arîmwîta ' Mwathani ' rî , n'ata îîndî Kîrîstû aûmba gûtuîka mwana wake ? " Kîrîndî ikîarî agu kiingî mûno kîthikîîrîîtie Yiesû gîkeneete .
+41013004a	irî		" Tatwîre irî mantû mamu magaakarîka . 
+41013004b	mbi		Na i mbi îkoonania monthe marî akubî gûkarîka ? "
+41014004	kî		Bamwe ba bara baarî agu bakwona ûgu mûka ûyu aarûthire baathûûra n'we . Beerana , " N'ya kî mîtaa îno mûka ûyû eenyangia ?
+41014006	mbi		Yiesû abeera , " Rekanaani n'we ! I mbi bûkûmûûria ? Akûrûtha ûntû bwega .
+41014012	kû		Ntugû ya mbere yakinya ya kîatho kîa mîgaate îtaimbithîîtue , i rîo kagondu ga Pasaka kaûragagwa . Arutwa ba Yiesû bamûûria , " I na kû ûkwenda tûthi gûkûthuuranîra Pasaka ? "
+41014014	~		mwanka nyomba îra akaathûngîra . Aathûngîra , bûthûnganîrie n'we ku bwîre mwene nyomba , ' Mwarimû auga ûtwonie kanyomba kara akaarîîra kîatho gîa Pasaka na arutwa baake . '
+41014060a	N'ata		Mûthînjîri ûra mûnene wa Ngai aarûngama mbere yao . Aûria Yiesû , " N'ata ûkuuga woû ? 
+41014060b	~		Gûtirî bu ûkuuga îgûrû rîa mantû mama antû baba bakuuga nûrûthîîte ? "
+41014063	~		Mûthînjîri ûra mûnene wa Ngai aatembûra nguo yake wengwa îra eekîrîte . Auga , " N'ûgu îîndî . Gûtirî ûkûûyî bûngî tûkwenda !
+41014064	~		Bwinthe bûkwîgua bûra auga akîîganaania na Ngai . Mbîîraani îîndî bûra bûgûtua . " Antû bonthe bauga Yiesû naabîtîîtie , na kwoogu aagîrîtwe aûragwa .
+41015004	~		Piraatû eera Yiesû , " Ûteetheteere na nûkwîgua bûra mantû maingîîte bûgana mara bakuuga nûrûthîîte ? "
+41015012	n'ata		Piraatû aûria antû kaîrî , " Aabu n'ata bûkwenda ndûtha na muntû ûyû bûgwîta Mûnene wa Ayaundi ? "
+41015014a	kî		Piraatû abaûria , " I kî ? 
+41015014b	marîkû		I mabîtia marîkû arûthîîte ? " Amwe na ûgu , kîrîndî gîaûkîîria kayû na inya nkûrûki , kîera Piraatû , " Mwambe ! "
+41015034	kî n'ûntû		Igûkinya thaa kenda , Yiesû aagondoka na inya . Auga , " Eloi , Eloi , lama cabakithani ? " Kuuga ûgu i ta kuuga , " Ngai wakwa , Ngai wakwa , i kî n'ûntû wantiganîria ? "
+41016003	N'ûû		Bathiîte baûranagia , " N'ûû agaatwingiritîria iiga rîra rîgana ûra riume mûromooni wa nthiko ? "
+42001018	N'ata		Cakaria aûria mûraîka , " N'ata nkaamenyanga ûntû bûbu bûgaakarîka ? Niû ndî mûkûrû , na wana mwekûrû wakwa n'ûmûkûûrû kûrû . "
+42001034	ata		Maria aûria mûraîka , " Mantû mama magaakarîkanga ata na niû ntaamaama na muntû mûrûme ? "
+42001043	ûû		Niû ndî ûû wa kûriûngîrwa i gina wa Mwathani wakwa ?
+42001066	ûû		Muntû wonthe ûra eegagua ntheto inu aathûgaanagia akeebûûria , " Ka mwana ûyû agaatuîka ûû ? " Antû baûragia ûgu n'ûntû iboonaga inya ya Mwathani nîarî amwe na Njoana .
+42002048	mbi n'ûntû		Aciari baake bakûmwona baarigara mûno . Gina amûûria , " Mwana wakwa , i mbi n'ûntû watûrutithia ngûgî ta îno ? Ga tûtakûmakîîte mûno tûrî na abaagu tûgîgûceria ! "
+42002049	mbi		Yiesû abaûria , " I mbi bûgûnceragîria ? Ka bûtakwiyî mbatîîrue kwîgua ndî nyomba ya Baaba ? "
+42003007	N'ûû		Kîrîndî gîa antû ikîayîîte kûbaatithua i Njoana . Njoana abeera , " Rûciaro rûrû rwa njoka ! N'ûû aabwîrire bwakuthûka mûthûûro wa Ngai ûra ûûyîîte ?
+42003010	N'ata		Kîrîndî kîamûûria , " N'ata tûbatîîrue tûrûtha ? "
+42003012	n'ata		Arûngithia ûgooti bamwe bakûûya kîrî Njoana ababaatithia , bamûûria , " Mwarimû , n'ata tûbatîîrue tûrûtha ? "
+42003014a	~		Acikaarî na bo baûria Njoana , 
+42003014b	N'ata		" N'ata naati tûbatîîrue tûrûtha ? " Njoana abeera , " Bûtigaatunye muntû into biake na inya kana bûmûthitangîra mana . Ganagîrwaani i mûcaara ûra bûgwataga . "
+42004034	N'ata		" N'ata ûkwenda naati Yiesû Mûnasareethi ? Ka ûûyîîte gûtûthiria kana ? Imbiyî woû ûrî ûû . Ûrî Mûtheru kuuma kîrî Ngai . "
+42004036	bûrîkû		Antû bonthe bara baarî agu baarigara mûno . Baanjîîria kûûrania , " I bûrîkû bûbû ! Î muntû ûyû arî na watho na inya ya kwîra irundu biithûûku biume kîrî antû na bikauma . "
+42005021a	~		Aarîmû ba watho na Abarisai baatua kûthûgaania na nkoro bakeebûûria , " Muntû ûyû nakwîthûkia taka arî Ngai ! 
+42005021b	~		Anga ti Ngai wenka aûmba kûrekera muntû meeyia ? "
+42005022	mbi n'ûntû		Yiesû aamenya bûra baathûgaanagia . Abaûria , " I mbi n'ûntû bûkûthûgaania ûgu ?
+42005023	bûrîkû		I bûrîkû bûûthû ? I kuuga , ' Ûkûrekerwa meeyia maaku , ' kana i kuuga ' Ûkîîra ûthi ' ?
+42005030	kî		Abarisai bamwe na aarimû bamwe ba watho bakwona ûgu , baanung'una kîrî arutwa baake , bakîûragia , " I kî gîgûtûma bûrîyanîra na bûnyunyanîra na arûngithia ûgooti na eeyia ? "
+42005033	kî n'ûntû		Baûria Yiesû , " I kî n'ûntû arutwa ba Njoana na ba Abarisai bo batîîragîra kûrîa irio n'ûntû bwa maromba , îndî baaku barîyaga na bakanyua ? "
+42005034	~		Yiesû abaûria , " Bwaûmba kwîrîgîîra antû bara beete wikiini barega kûrîa ntugû îra mûgûrani arî na wiki ?
+42006002	kî n'ûntû		Abarisai bamwe babaûria , " I kî n'ûntû bûkûrûtha bûra bûtabuîrîîte kûrûthwa ntugû ya Sabatû ? "
+42006009	~		Yiesû abaûria , " Inkûbûûria , watho bwîtîgîîrîîtie muntû arûtha bwega kana i bûûthûûku ntugû ya Sabatû ? I kwonokia mwoyo kana i gûcuûraga ? "
+42006032	bûrîkû		Bwenda wabara babwendeete bonka akî rî , i bûrîkû bûnene bûra bûgaatûma bûthaarimwa ? Anga wana eeyia batiendaga bara babeendeete !
+42006033	bûrîkû		Bwarûtha bwega kîrî bara babûrûthagîra bwega akî rî , i bûrîkû bûnene bûra bûgaatûma bûthaarimwa ? Wana eeyia ibarûthaga ûgu .
+42006034	bûrîkû		Na bûgatua gûkoobithagia wabara baûmba kûbûrîa bonka rî , i bûrîkû bûnene bûra bûgaatûma bûthaarimwa ? Wana eeyia ibakoobanaga na bakarîana .
+42006039	~		Yiesû abaa ngerekano abeera , " Ntûngi îtiûmba kûgwata îra îngî mûtî . Îkamîgwata ibagwa îrinyaani bonthe .
+42006041	N'ata		" N'ata ûkwonanga gakaracû karî riitho rîa mûcoore waku , îndî ûtikwona mûgogo ûra ûrî riitho rîaku ?
+42006042	N'ata		N'ata ûûmba kwîra mûcoore waku , ' Ga nkûrute gakaracû riitho , ' na ûtikwona mûgogo ûra ûrî riitho rîaku ? Woû mwîbwithia ! Amba wîrute mûgogo riitho rîaku kaingo ûûmba kwona bwega gakaracû kara karî riitho rîa mûcoore waku , ûmûrute ko . "
+42006046	mbi		Yiesû abeera , " I mbi bûmbîtagîra , ' Mwathani , Mwathani , ' na bûtirûthaga bûra mbendaga kûrûthwa ?
+42007024	n'ata		Atûmwa ba Njoana bakûthi , Yiesû aanjîîria kwaria na antû mantû ma Njoana . Abaûria , " Rîra bwathiîte rwanda kwona Njoana rî , n'ata bwerîgîîrîîte ? Bwathiîte kwona rûrara rûkiinainua i ruuo ?
+42007025	mbi		Kana i mbi îîndî bwathiîte kwona ? I muntû eekîrîte nguo imbega ? Bara beekagîra nguo ta inu boonekaga mîciî ya anene !
+42007026	mbi		Kwoogu i mbi bwathiîte kwona ? Ti kîroria ? Na mma ga nkûbwîra , aarî nkûrûki ya kîroria .
+42007031a	mbi		Yiesû aûria , " I mbi mma mbûmba kûbuanaania n'yo antû ba ntugû ino ? 
+42007031b	mbi		Bakari ta mbi mma ?
+42007042	n'ûrîkû		Bakûremwa kûrîa , ûra aabakoobithîîtie abarekera . Kîrî antû babu barî baîrî rî , n'ûrîkû agaakena mûno eende muntû ûyu mûno ? "
+42007049	ûû		Antû bara baakaranîîrîîte na Yiesû bakîrîa baanjîîria kûûrania , " Ka muntû ûyû arî ûû n'ûntû kinya akûrekera antû meeyia ? "
+42008025a	kû		Yiesû aûria arutwa baake , " Bûrî kû wîtîgio bwenu ? " Arutwa baarigara na baaguaya . Baûrania , 
+42008025b	ûû		" Ka muntû ûyû arî ûû n'ûntû wana ruuo na rûûyî ibikûmwathîkîra ? "
+42008028	N'ata		Akwona Yiesû aanjîîria gûkaya mûno , eegwîthia nthî magûrûûni maake . Augîîria na inya auga , " N'ata ûkwenda naani , Yiesû , Mwana wa Ngai ûra atûûraga îgûrû mûno ? Itû ngûkwereka menya ûnnyamaaria ! "
+42008030	ata		Yiesû amûûria , " Wîtagwa ata ? " Muntû ûyu amwîra , " Mbîtagwa Mbûûtû . " Aarî na irundu mûkondo .
+42008045	N'ûû		Yiesû aûria , " N'ûû aantongithia ? " Bonthe baakaana . Petûrû amwîra , " Mwathani , nwa antû wababa bagûcereereete bakwinyîkîîte . "
+42009009a	n'ûû		Eronde auga , " Indagiitithiirie Njoana nkingo . Aabu ûyû ûngî n'we nkwîgua mantû maake n'ûû ? " Neendaga kûmwona mûno .
+42009009b	~		
+42009018	ûû		Ntugû îmwe Yiesû akîrombaga arî wenka , arutwa baake baaya kîrî we . Yiesû abaûria , " Bungwa antû baugaga ndî ûû ? "
+42009020a	~		Yiesû abaûria , 
+42009020b	ûû		" Î biû buugaga ndî ûû ? " Petûrû amûcookeria amwîra , " Woû ûrî Kîrîstû ûra atûmîîtwe i Ngai . "
+42009025	mbi		Î rîo rî , i baita mbi muntû oona wana ûkeegua nthîgûrû yonthe n'yake , îndî akaaga mwoyo ?
+42009041a	rî		Yiesû abeera , " Biû bûrî nthuke înthûûku , îtarî wîtîgio . Ga tûgaakarania naabi na mbwinyîkîrie mwanka rî ? " Yiesû eera muntû ûyu , " Reete kaana gaaku aaga . "
+42009041b	~		
+42010025	n'ata		Ntugû îmwe mwarimû ûmwe wa watho aûria Yiesû kîûria akîmûtega . Amûûria , " Mwarimû , n'ata mbatîîrue kûrûtha nkeewa mwoyo wa tene na tene ? "
+42010026a	ata		Yiesû akîmûcookeria amûûria , " Maandîko Maatheru maugîîte ata ? 
+42010026b	ata		Na ûmataûraga ata ? "
+42010029	n'ûrîkû		Mwarimû ûyu akîenda gwîtua muntû ûmwagîru , aacooka aûria Yiesû , " Mûtûûri wakwa n'ûrîkû ? "
+42010036a	~		Yiesû akîthiria aûria mwarimû ûyu , " Ûkîthûgaania ûrî woû rî , kîrî antû babu barî bathatû , 
+42010036b	n'ûrîkû		n'ûrîkû aarûthîîre muntû ûyu aaturîîtwe n'atunyani bûra mûtûûri abatîîrue arûtha ? "
+42011008	~		Ga nkûbwîra , atiûkîîra n'ûntû bwa ûcoore bûra bûrî n'we . Agaûkîîra akûnenkere bira ûkwenda n'ûntû ûtireegua nthoni ûthi . Ûkarire ûkîmûtangaga na kûmwîta ûkîringaringaga mûrango .
+42011011	N'ûû		N'ûû wacienu eetua îkûyû i mwana wake akamwaa njoka ?
+42011012	~		Kana mwana wake amwîtia îkome akamwaa kîng'aarurî ?
+42011013	n'ata		Ûkeegua biû ibwiyî kwaa aana beenu biewa bithongi na bûrî antû baathûûku rî , n'ata îîndî Abaagu ûra arî îgûrû akaarega kûbwaa Kîrundu Ûmûtheru bara bûmûrombaga ? "
+42011018	~		Ûkeegua ûnene bwa Saitaani bwathûkeene bwaûmba gûtûûra ? Bûriuga ndîîngatia irundu biithûûku na inya ya Bericebuuri .
+42011019	ûû		Ûkaaya kwîgua mbîngatagia irundu biithûûku na inya ya Bericebuuri rî , antû beenu babiîngatagia na inya ya ûû ? Bûra barûthaga i bu bûgaatûma bûmenya bûra bûkuuga .
+42012014	n'ûû		Yiesû amûûria , " Aba , n'ûû ampete watho bwa kûgambîra mantû ta mamu ? "
+42012017	N'ata		Gîtonga gîku kîebûûria na nkoro , ' N'ata nkûrûtha mbone bantû a gûkethera irio biakwa bionthe ? '
+42012020	ûû		" Îndî Ngai eera gîtonga gîku , ' Woû ûrî kîaa mûno ! Ûgaakua îmunthî ûtugû . Îîndî into bibi wîthîranîîtie bigana ûûgû bionthe bigaatuîka bia ûû ? ' "
+42012024	~		Taraithaani nkûngûrû . Cio itiandaga , itikethaga , itirî makûmbî na itirî mîrûrû . I Ngai acieyaga irio . Anga ti biû bûrî gîtûmi nkûrûki ya cio !
+42012025	N'ûû		N'ûû wacienu aûmba kwîbongeera nwa ntugû îmwe ya mwoyo wake n'ûntû bwa kwîmakîra ?
+42012026	mbi n'ûntû		Ûkeegua bûtiûmba kûrûtha tûmantû tûniini ta tûtu rî , i mbi n'ûntû bûkwîmakîra mantûûni mamu mangî ?
+42012042	~		Mwathani amwîra , " Ndîîra mûruti ngûgî ûra aûmba gwîtîgîka . Mûruti ngûgî ûra mûûme , ûra aûmba kwewa watho bwa kûrûngamîîra mûciî . Ûra aûmba kûrûmia bara bangî irio îgiita rîa biakûrîa rîakinya .
+42012049	N'ata		Yiesû auga , " Ndaayire kûreetera antû îkaanûkia rîa Ngai rîkari ta mwanki ûra ûkaababîîthia . N'ata nkena bûgana mma mwanki ûyu ûkeegua nwanjîîrîîtie kûrîrîmbana ûkîbîîthanagia ! "
+42012056	~		Eebwithia baba ! Ibwiyî kûraitha mwonekere wa nthîgûrû na matu bûkamenya bûra gûgaakara , îndî bûtikûûmba kûmenya bûra mantû mara magûtuîkîka ntugûûni makwonania . "
+42012057	mbi n'ûntû		Yiesû abaûria , " I mbi n'ûntû bûtakwîgiitîra magamba bûra kwagîrîte ?
+42013004	~		Kana ibûkûthûgaania antû bara îkûmi na banaana , bara boomokeerwe i nyomba îra yarî îndaaya mûno Siroamu yabaûraga ka baarî na meeyia nkûrûki ya antû bonthe ba Njerusaremu ?
+42013007	~		Eera mwandîkwa wake wa mûnda , ' Taraitha wone mîanka îthatû îkûthira wankîîyaga kwona kana mûkûyû ûyû nûciere , îndî gûtirî rîo ndoona ûciere . Curîîke ûtige kûmbonderia mûnda mana . '
+42013015	N'ûû		Mwathani amûcookeria amwîra , " Eebwithia baba ! N'ûû wacienu atarugûragîra ng'ombe yake kana îng'ooi rîake athi kûnyuithia ntugû ya Sabatû ?
+42013018a	mbi		Yiesû aûria , " I mbi mma mbûmba kûbuanaania n'yo ûnene bwa Ngai ? "
+42013018b	~		
+42013020	mbi		Yiesû kaîrî aûria , " I mbi mma mbûmba kûbuanaania n'yo ûnene bwa Ngai ? "
+42013025	~		Îgiita rîgaakinya mwene mûciî ainge mûrango . Na rîra bûkaaya bûkaarûngama nja bwanjîîrie kûringaringa mûrango bûkîmwîraga , ' Mwathani , tûrugûrire . ' " Îndî akaabwîra , ' Ntiyî bûra buumîîte ! '
+42014005	N'ûû		Yiesû aûria , " N'ûû wacienu eegua arî na îng'ooi rîake kana ng'ombe yake îgûîte mûthûrûriini ntugû ya Sabatû , îndî atamîrute na mpwî ? "
+42014028	~		" Muntû akeenda gwaka nyomba îndaaya , mbere nwa mwanka atare mbia ira ikwendekana kûmîûyûria oone kana arî na cio
+42014031	~		" Î kana rî , anga kûrî mûnene eetîgîra kûrûa na mûnene ûngî mbere ya aamba gûkara nthî athûgaania bwega oona kana kwaûmbîka akarûa na mûnene ûyu akwenda barûa we arî na acikaarî ngiri mîrongo îîrî , n'we arî na acikaarî ngiri îkûmi ?
+42014034	~		" Mwonyo n'ûmwega , îndî ûkathira mûcamo ûtiîkîrîka uu kaîrî .
+42015004	ata		" Bûrîthûgaania ata ? Ûkeegua muntû arî na ng'ondu ciake îgana , îmwe ya cio îkaûra , ntikuuga natiga inu ingî mîrongo kenda na kenda bantû eega akathi gûcûa îra mbûru mwanka rîra akaamîona ?
+42015008	~		Yiesû abaa ngerekano îîngî . Abeera , " Î kana rî , kûrî mwekûrû aûmba kwîgua arî na fetha îkûmi , îmwe ya cio yaûra akarega kûmuntia taa athûkia gîciati aciata nyomba amîceria bwega mwanka rîra akaamîona ?
+42015026	N'ata		Eeta mûruti ngûgî ûmwe amûûria , ' N'ata antû bakûrûtha aaga ? '
+42015029	~		Mûthaka ûyu eera îthe , ' Ntûîre gûkûrutîra ngûgî mîanka îmingî ngîkwathîkagîra na gûtirî ntugû wampa nwa kabûri nthînja tûrîyanîra na tûkenanîra na acoore baakwa .
+42016002	N'ata		Mwene into amwîta amûûria , ' N'ata nkwîgua antû bakiuga nûkûrûtha ? Ndîenda ûndeetera mûtaratara wa bûra ûtûmangîrîte mbia n'ûntû kuuma îmunthî ngûgî yaku îkûthira . '
+42016003	N'ata		" Mûrûngamîîri ûyu eebûûria , ' N'ata nkûrûtha îîndî n'ûntû mûnene wakwa nakûmbuuta ngûgî ? Ntiûmba kûrîma , na i nthoni mûno kûthi nkîrombaga ta nkîa . '
+42016005	rîgana		" Eeta eerandû ba mûnene wake bonthe wakîra ûmwe kagiita gaake . Aûria wa mbere , ' N'îrandû rîgana ata ûrî na rîo ? '
+42016007	rîgana		" Aacooka aûria mwîrandû ûngî , ' Î woû n'îrandû rîgana ata ûrî na rîo ? ' " Mwîrandû ûyu amûcookeria amwîra , ' Ndî na nkunea îgana cia ngano . ' " Mûrûngamîîri ûyu amwîra , ' Thûkia karataati kara gakwonania îrandû rîaku wandîke mîrongo înana . '
+42016011	n'ûû		Arîo rî , ûkeegua bûtaûmba kûmenyeera into bia nthîgûrû , n'ûû akaabwîtîgia abûnenkere ûtonga bwa mma bwa îgûrû ?
+42016012	n'ûû		Na ûkeegua bûtiûmba kûmenyeera into bia itha , n'ûû akaabûnenkera into bienu bio biongwa ?
+42017007	N'ûû		Yiesû abaûria , " N'ûû wacienu eegua arî na mûruti ngûgî wa mûnda kana wa kûmûrîîthîria , na aaya ûgoro kuuma ngûgîîni ûkamwîra , ' Ncû îîndî ûkare nthî ûrîe irio ' ?
+42017017	Barîkû		Yiesû aûria , " Anga t'antû îkûmi bara mboriirie ? Barîkû bara bangî kenda ?
+42017018	~		Gûtirî muntû ûngî aracooka gûcookia nkaatho nwa mûgeni ûyû wenka ? "
+42017020	~		Abarisai bamwe bakûûria Yiesû rîra ûnene bwa Ngai bûkaaya , Yiesû aabacookeerie abeera , " Ûnene bwa Ngai bûtiiya bûkîonagwa na meetho ,
+42017037	kû		Arutwa baake bamûûria , " I na kû mantû mamu magaakarîkîra , Mwathani ? " Yiesû abacookeria abeera , " Ara kiimba kîrî noogo nderi igwîyaga . "
+42018018	n'ata		Mûtongoria ûmwe Mûyaundi aûria Yiesû , " Mwarimû ûmwega , n'ata ndûtha nkathi mwoyooni wa tene na tene ? "
+42018019	kî n'ûntû		Yiesû amûûria , " I kî n'ûntû ûkûmbîta ûmwega ? Gûtirî we mwega tatiga Ngai wenka .
+42018026	~		Antû bakwîgua ûgu baûria , " Anga kûrî we akoonokua ? "
+42018036	~		Akwîgua kîrîndî gîkûrûkîîte , eenda kûmenya bûra gwakarîkaga .
+42018041	N'ata		" N'ata ûkwenda nkûrûthîra ? " Ntûngi înu yamwîra , " Mwathani , ga nkwenda ntua kwona . "
+42019007	~		Antû baingî bakwona ûgu , baanjîîria kûnung'una bakiugaga , " Ka atuîkire mûgeni mûciî wa mwîyia ? "
+42019023	mbi		i mbi îîndî n'ûntû ûtaambaigîra cio mbanki , kaingo ndaaya nthûkia irî na baita ? '
+42019031	kî n'ûntû		Na ûra akaabûûria i kî n'ûntû bûgûkathaûra , bûmwîre , ' I Mwathani arî bata na ko . ' "
+42019033	kî n'ûntû		Bakîthaûra kang'ooi gaku , eene ko babaûria , " I kî n'ûntû bûkûthaûra kayaû gaku ? "
+42020002a	~		" Tatwîre ara ûrutîîte watho bwa kûrûtha mantû mama ûkûrûtha . 
+42020002b	N'ûû		N'ûû akwete bu ? "
+42020005a	~		Baanjîîria kwîrana , " Twamwîra , ' I kuuma kîrî Ngai , ' agaatûûria , 
+42020005b	kî		' I kî aabu n'ûntû bûtaamwîtîgia ? '
+42020013	N'ata		" Mwene mûnda eebûûria , ' N'ata nkûrûtha ? ' Auga , ' Ga ntûme mwana wakwa wengwa ûra mbendeete mûno , baûmba kûmûtîîya ! '
+42020015	ata		Bamûgwata baathi bamûûragîra ome ya mûnda . " Yiesû abaûria , " Bûrîthûgaania mwene mûnda akaarûtha ata ? "
+42020017	~		Yiesû abaraitha , abaûria , " Anga bûtaathooma bûra kwandîkîîtwe Maandîkooni Maatheru ? ' Iiga rîra rîongwa aaki baaregire , îîndî i rîo rîtuîkîîte rîa koona . '
+42020023	~		Yiesû aamenya ûûme bwao . Abeera ,
+42020024a	ûû		" Tamboniani ciringi înu . " Abaûria , " Ûthiû bûbû i bwa ûû ? 
+42020024b	ûû		Na riîtwa rîrî i rîa ûû ? " Bamûcookeria bamwîra , " Bionthe i bia Kaisaarî . "
+42020033	ûû		Asandukai babu baûria Yiesû , " Îîndî rî , rîra antû bakaariûkua mûka ûyu agaatuîka wa ûû n'ûntû ingî nthaka inu cionthe irî mûgwanja iciamûgûrîîte ? "
+42020041	N'ata		Yiesû abaûria , " N'ata antû baûmba kuuga Kîrîstû i mwana wa Ndaundi ?
+42020044	n'ata		Ûkaaya kwîgua Ndaundi we wengwa arîmwîta ' Mwathani ' , n'ata îîndî Kîrîstû aûmba gûtuîka mwana wake ? "
+42021007a	rî		Arutwa babu bamûûria , " Mwarimû , tatwîre i rî mantû mamu magaakarîka , 
+42021007b	mbi		na i mbi îkoonania marî akubî gûkarîka ? "
+42022009	kû		Bamûûria , " I kû ûkwenda tûthi kûbithuuranîra ? "
+42022011	~		bûthûnganîîrie n'we ku , bwîre mwene nyomba înu ûûgû , ' Mwarimû atwîra tûkûûrie ûtwonie kanyomba kara akaarîîra kîatho gîa Pasaka amwe na arutwa baake . '
+42022027	n'ûû		Arîo rî , n'ûû mûnene ? N'ûra akaraga meethaani areeterwa irio kana n'ûra abireetaga ? Kîrî antû ba nthîgûrû ûra areetagîrwa n'we mûnene . Îndî niû , îîndî tûrî naabi nkari ta mûruti ngûgî wenu . "
+42022046	kî n'ûntû		Abaûria , " I kî n'ûntû bûmaami ? Ûkîîraani bûrombe bwewa inya ya gûcinda magerio . "
+42022064	~		bakîmûkunîkaga meetho bakamwîra , " Taroria ûtwîre ûra akûringa ! "
+42022071	mbi		Bauga , " Ga kûrî ûkûûyî bûngî tûkwenda bwa mbi ! Tiû twingwa tûkwîgua akiuga na kanyua gaake . "
+42023022a	~		Rîa mathatû , Piraatû abaûria , 
+42023022b	marîkû		" Ka muntû ûyû arûthîîte mabîtia marîkû ? Ntikwona bûra arûthîîte bûra bûûmba gûtûma aûragwa ! Kwoogu nkauga aringwe ibooko mmûrekeerie athi . "
+42023031	ata		Ûkoona i muntû ûmwagîru akûnyamaara ûûgû rî , î bara batarî baagîru bakaanyamaara bûgana ata ? "
+42024005	kî n'ûntû		Eekûrû babu baagwatwa n'ûguaya beenîka biongo biao . Antû babu babaûria , " I kî n'ûntû bûgûcûa muntû arî mwoyo antûûni baakuû .
+42024017	N'ata		Yiesû abaûria , " N'ata bûthiîte bûkiugaga na njîra ? " Arutwa babu baarûngama moothiû maao makîonanagia kîeba .
+42024019	~		Abaûria , " Mantû mabi ? " Bamwîra , " Mantû mara maratuîkîkire kîrî Yiesû Mûnasareethi . Araarî kîroria kîrî inya înene . Mantû mara ararûthaga na mara araaragia imaroonanagia araumîîte kîrî Ngai na antû ibarakenaga n'we .
+42024025	~		Yiesû abeera , " Biû bûtakîîte mûno n'ûntû bwa kûûmia biongo bienu bûkarega gwîtîgia mantû mara iroria biaroriirie .
+42024038a	mbi		Yiesû abaûria , " I mbi yabûmakia ? 
+42024038b	mbi n'ûntû		Na i mbi n'ûntû bûtagwîtîgia ?
+43001019	ûû		Rîra atongoria ba Ayaundi ba Njerusaremu baatûmire athînjîri ba Ngai na Araawî bathi kûûria Njoana Mûbaatithania n'we ûû ,
+43001021	ûû		Na bo bamûûria , " Aabu woû naawe rî , i woû ûû ? Kana i woû Eriya ? " Njoana abeera , " Arî , ti niû Eriya . " Bamûûria , " Ti woû kîroria kîra ? " Njoana abeera , " Arî . "
+43001022a	ûû		Bamûûria , " Aabu îîndî rî , woû ûrî ûû ? 
+43001022b	ûû		Twîre ûrî ûû , n'ûntû kûrî bara batûtûmîîte na ibakwîrîgîîra tûbaa îcookio . "
+43001025	~		bamûûria , " Aabu naka ûkûbaatithania na ûtirî Kîrîstû , kana Eriya , kana kîroria ? "
+43001038a	N'ata		Yiesû akûûndûka oona arutwa babu bamûthingatîîte . Abaûria , " N'ata bûkwenda ? " Bamûcookeria bamûûria , 
+43001038b	kû		" I kû ûkaraga , Rabai ? " ( Na Kîîbirania ' Rabai ' i ta kuuga ' Mwarimû ' . )
+43001046	~		Nathanieri aûria Piripû , " Î Nasareethi ! Kûrî gîntû kîega kiuma Nasareethi ? " Piripû amwîra , " Tancû wone . "
+43001048	N'ata		Nathanieri amûûria , " N'ata wamenyanga ? " Yiesû amwîra , " Wana kinya mbere ya Piripû agwîta , ingûkwene ûkari nthî ara ûgûkari rungu rwa mûkûyû . "
+43002004	N'ata		Yiesû amwîra , " N'ata ûkûmbûûrangia , mwekûrû ? Kagiita gaakwa ti gakinyu . "
+43002018a	~		Ayaundi beera Yiesû , " Tatwonie kîama kîra gîgaatûma twîtîgia ûrî na inya kuuma kîrî Ngai ya kûrûtha ûntû ta bûbû . "
+43002018b	~		
+43003004	ata		Nikondemu amûûria , " Kûûmbîka ata muntû ûmûgima aciarwa kaîrî ? Kwaûmbîka agacooka nda ya gina agaciarwa kaîrî ? "
+43003009	N'ata		Nikondemu amûûria , " N'ata ûntû bûbû bûûmbîkananga ? "
+43003012	n'ata		Weegua mbwîraga mara matuîkîkaga gûkû nthîgûrû na bûtiîtîgagia rî , n'ata bûgeetîgia ndabwîra mantû ma îgûrû ?
+43004009	N'ata		Mûka ûyu Mûsamaria amwîra , " Ûrî Mûyaundi , naani ndî Mûsamaria . N'ata ûkûmbîîranga ngûkundie rûûyî ? " ( Ayaundi batigîtûmîra into bimwe na Asamaria . )
+43004011	kû		Mûka ûyu amwîra , " Itû , aba , i kû ûkaaruta rûûyî rûru rwa mwoyo ûkûmbîîra ? Ntikwona ûrî na gîntû gîa gûtaa na kîo na i bu kîthima gîkî kîrî kîraaya .
+43004027a	~		Yiesû na mûka ûyu bakîaragîîria agu , arutwa ba Yiesû baakinya . Baarigara mûno bakwîthîra Yiesû akîaria na mûka , 
+43004027b	~		îndî gûtirî muntû aûria kîra baaragîîria kana baûria Yiesû kîra gîatûmaga aaria na mûka ûyu .
+43005012	N'ûû		Ayaundi bamûûria , " N'ûû we ûyu we akwîrire ûgu ? "
+43005044	N'ata		N'ata biû bûmbîtîgangia weegua bûkenaga rîra bûgûkumanîîria bûrî bwingwa bûtagûtindanîra na gûcûa gûkumua i Ngai ûra gûtarî ûngî ta we ?
+43005047	~		Kwoogu bûtiîtîgia bûra mbugaga n'ûntû bûtiîtîgîîtie bûra Musa aandîkire . "
+43006005	kû		Yiesû akûgera meetho oona mûkondo wa antû ûûyîîte kîrî we . Yiesû aûria Piripû , " I kû tûkaagûra mîgaate tûrûmie antû baba ? "
+43006009	~		" Aaga kîrî kîrîndî gîkî , kûrî kaîyî karî na mîgaate îtaano ya mûtu wa cayiri na tûkûyû twîrî , îndî gûtirî bu tûteethia . "
+43006025	rî		Bakwîthîra Yiesû naagu Kaperinaumu bamûûria , " Rabai , i rî ûûyire naaga ? "
+43006028	N'ata		Antû bamûûria , " N'ata tûbatîîrue tûrûtha kaingo tûruta ngûgî cia Ngai ? "
+43006030a	~		Bamûûria , " I kîama kîbi ûkaaringa twone kaingo tûgwîtîgia ? Twîre bûra ûkaarûtha .
+43006030b	~		
+43006042	n'ata		Baûranagia , " Anga ûyû ti Yiesû , mwana wa Njosebu ? Anga îthe na gina t'antû tûkûmenya ? Aabu îîndî n'ata agûtwîra akiuga aaga yî , we aumire îgûrû ? "
+43006052	N'ata		Yiesû akuuga ûgu Ayaundi baatua gûturania mbaara . Bamwe baûragia , " N'ata muntû ûyû aûmba gûtweyanga nyama cia mwîrî wake tûrîa ? "
+43006060	~		Baingî ba athingati baake bakwîgua mantû mamu bauga , " Ûrutani bûbû n'ûrutani bûûmo . Bûtiûmbîkana na bu . "
+43006062	~		Î bûkoona Mwana wa Muntû agîîtia acookeete naara aarî mbere ?
+43006068	ûû		Simioni Petûrû amwîra , " Mwathani , îîndî tûgûtiga tûkathi kîrî ûû ûngî , na i woû ûrî na mîgambo ya mwoyo wa tene na tene ?
+43007011	Arî kû		Atongoria ba Ayaundi ibaamûcûaga naagu kîathooni bakîmûûrithagîria nwa , " Arî kû ? "
+43007015	kû		Atongoria ba Ayaundi bakûmûthikîîria baarigara mûno . Baûria , " I kû muntû ûyû amenyerete mantû mama na ataathooma ? "
+43007019	mbi		Musa ataabwere watho na amwe na ûgu gûtirî we wacienu abwathîkagîra ? I mbi bûkwenda kûmbûragîra ? "
+43007020	N'ûû		Kîrîndî kîamûûria , " Nûrî na nkoma ? N'ûû akwenda gûkûûraga ? "
+43007023	kî		Îîndî rî , ûkaaya kwîgua mwana we nwa bûtaane kinya ntugû ya Sabatû kaingo bûtauna watho rî , bûrîthûûra i niû i kî ndooria muntû mwîrî unthe ntugû ya Sabatû ?
+43007035	kû		Atongoria ba Ayaundi baûrania , " I kû muntû ûyû akuuga we nathiîte , na aathi tiû tûkaamûcûa tûmwage ? Nakwenda kuuma gûkû athi kûngî kûra Ayaundi barî ? Kana i kîrî bara batarî Ayaundi akwenda kûthi ?
+43007036	N'ata		N'ata akwenda kuuga akiuga tiû tûkaamûcûa tûmwage , na ara we akeegua arî , tiû tûtiûmba kûthi oogo ? "
+43007041	~		Bangî na bo bauga , " N'we Kîrîstû ! " Na kûrî bangî na bo baugaga , " Gûtirî bu Kîrîstû aûmba kwîgua aumîîte Gariiri !
+43007045	kî n'ûntû		Akaria ba nyomba ya Ngai bara baatûmîîtwe kûmûgwata baacooka . Athînjîri bara banene ba Ngai na Abarisai bara baabatûmîîte , babaûria , " I kî n'ûntû bûtiraaya n'we ? "
+43007048	~		Gûtirî mûtongoria kana Mûbarisai amwîtîgîîtie ,
+43007051	~		" Anga watho bwetû i buugîîte muntû nwa agiitîrwe îgamba ataambîîte kûthikîîrua kûmenyekana bûra arûthîîte ? "
+43008005	ata		Na wathooni bûra Musa aatwere , twîrîîtwe mûka ta ûyu abuîrîîte kûûragwa na maiga . Kana ka woû ûkuuga ata ? "
+43008010	N'ata		Yiesû aarûngama bwega , aûria mûka ûyu , " N'ata ingî bara bagûkûgiitîrîte îgamba baathi ? "
+43008019	Arî kû		Bamûûria , " Abaagu arî kû ? " Yiesû abacookeria abeera , " Bûtimbiyî , na Baaba bûtimwiyî . Ûkeegua bûmbiyî wana Baaba weegua bûmwiyî . "
+43008025a	ûû		Bamûûria , " Ka ûrî ûû ? " 
+43008025b	~		Yiesû abeera , " Woora ndabwîrire , i niû we kuuma wo tene .
+43008033	N'ata		Bamwîra , " Tûrî ba rûrîîyo rwa Îburaîmu , na gûtirî rîo twatuîka nkombo cia muntû . N'ata aabu ûgûtwîra ûmma bûgatûruta ûkombooni ? "
+43008043	mbi		I mbi îgûtûma bûrigwa i bûra nkuuga ? I kwîgua bûtiûmba kûmenya bûra nkuuga .
+43008046a	N'ûû		N'ûû wacienu aûmba kwonania wîyia bwakwa ? 
+43008046b	mbi		Aabu weegua mbaragia ûmma rî , i mbi îîndî îkûgiria bûmbîtîgia ?
+43008053	ûû		Ka ûrî mûnene nkûrûki ya Îburaîmu kîûyûûyû gîetû na we naakuire ? Kana nkûrûki ya iroria na ibiakuire ? Ka ûkuuga woû ûrî ûû ? "
+43008057	~		Bamûûria , " Ûriuga ûroona Îburaîmu na ûtikinyîîtie ûkûrû nwa bwa mîanka mîrongo îtaano ? "
+43009002	n'ûû		Arutwa baake bamûûria , " Mwarimû , n'ûû eeyiirie kaingo muntû ûyû aciarwa arî ntûngi ? N'we kana n'aciari baake ? "
+43009010	N'ata		Bamûûria , " N'ata gûtuîkîkire kaingo ûtua kwona ? "
+43009012	kû		Antû bamûûria , " I kû arî îîndî ? " Abeera , " Ntiiyî . "
+43009016	N'ata		Bamwe ba Abarisai bauga , " Muntû ûyu atiûmba kwîgua aumîîte kwa Ngai n'ûntû atikûthingata watho bwa Sabatû . " Îndî bangî na bo bakaûria , " N'ata mwîyia aûmba kûringa biama bikari ta bira aringîîte ? " Baanjîîria kûgîa mwathûkano .
+43009017	ata		Baûria muntû ûyu kaîrî , " N'ûntû i woû ooriirie rî , ûriuga ata ? " Muntû ûyu abeera , " We i kîroria . "
+43009019	n'ata		Babaûria , " Mwana ûyû n'wenu ? Buugaga aaciarirwe atakwona ? Aabu n'ata îîndî gûkarîkîîte kaingo atua kwona ? "
+43009026a	N'ata		Atongoria ba Ayaundi bamûûria , " N'ata arakûrûthire ? 
+43009026b	N'ata		N'ata aratûmangire ûtua kwona ? "
+43009027	kî		Muntû ûyu abeera , " Anga ntirabwîra , tika bûtireenda kûthikîîria ? I cia kî bûkwenda mbwîra kaîrî ? Ka bûkwenda gûtuîka arutwa baake na biû ? "
+43009034	N'ata		Atongoria babu bamwîra , " N'ata ûgûtûrutananga îîndî naawe , muntû aciarîrîtwe meeyiani na aakûrîra ku ? " Bamwîngatia gûku baarî .
+43009036	ûû		Muntû ûyu amûûria , " N'we ûû itû , mmwîtîgie ? "
+43010020	kî		Baingî baao baugaga , " I nkoma arî na cio . I nkoma ino . Nwa kî bûkûthikîîria ? "
+43010021	N'ata		Îndî kûrî bo baugaga , " Muntû wa nkoma atiaria mantû ta mama ! N'ata nkoma yûmba gûtûma ntûngi itua kwona ? "
+43010024	rî		Ayaundi bamwîthîranîra bamûûria , " I mwanka rî ûgaatwaiga ûtagûtwîra kana i woû Kîrîstû ? Twîre ûmma bungwa . "
+43010032	bûrîkû		Yiesû abeera , " Imbwoneetie mantû maingî meega kuuma kîrî Baaba . I bûrîkû kîrî mo bûgûtûma bwenda kûndinganga na maiga bûmbûraga ? "
+43010036	n'ata		Aabu n'ata îîndî bûûmba kuuga ûra Baaba athuurîîte aatûma nthîgûrû nakûruma Ngai , n'ûntû bwa kuuga we i Mwana wa Ngai ?
+43011034	kû		Aûria , " I kû bûmwaigîîte ? " Bamwîra , " Ncû wone , Mwathani . "
+43011047	N'ata		Athînjîri bara banene ba Ngai na Abarisai baarûtha mûceemanio wa kîama . Baûrania , " N'ata tûkûrûtha ? Muntû ûyû nakûringa biama biingî mûno .
+43011056	ata		Antû ibaacûaga Yiesû . Bakûrîîkana nyomba ya Ngai baûranagia , " Bûrîona ata ? Ibûkwona taka akaaya kîathooni ? "
+43012005	~		" Mîtaa înu îîndî îkîendiirue îtikiuma mbia inyingî mûno ikagaîrwa nkîa ? "
+43012027	ata		Yiesû auga , " Inkwîgua ngîtangîka mûno nkorooni yakwa , îndî mbuge ata ? Mbuge , ' Baaba nduta kînyamaaraani gîkî kîîyîîte kagiitaani gaka ' ? Îndî na rîo gîkî i kîo gîtûmi kîra gîatûmire mbûya nthîgûrû . Ndaayire n'ûntû bwa kagiita gaka .
+43012034a	n'ata		Kîrîndî kîamwîra , " Twiyî kuuma mabukuuni meetû ma watho atî Kîrîstû akaaya akare tene na tene . Aabu n'ata ûkuuganga Mwana wa Muntû nwa mwanka eetithue îgûrû aume nthîgûrû ? 
+43012034b	ûû		Ka Mwana ûyû wa Muntû arî ûû ? "
+43012038a	n'ûû		Na gwakarire ûgu kaingo ûroria bwa kîroria Isaaya bûûyûra , rîra augire , " Mwathani , n'ûû eetîgîîtie ntûmwa îra twabeerire ? 
+43012038b	ûû		I kîrî ûû Mwathani oonanîîtie inya yake ? "
+43013025	N'ûû		Mûrutwa ûyu aathiyathiyanga akubî na Yiesû . Amûûria , " N'ûû we , Mwathani ? "
+43013036	kû		Simioni Petûrû aûria Yiesû , " I kû ûthiîte , Mwathani ? " Yiesû amûcookeria amwîra , " Kûra nthiîte woû ûtiûmba kûnthingata îîndî , îndî nyumaani ûkaanthingata . "
+43013037	mbi n'ûntû		Petûrû amûûria , " I mbi n'ûntû ntaûmba gûkûthingata îîndî , Mwathani ? Na ûkeegua inkûûragwa nwa mbûragwe n'ûntû bwaku . "
+43014002	~		Kwa Baaba kûrî na ikaro biingî . I bio nthiîte kûbûthuuranîra . Ûkeegua t'ûmma ntibwîra ûgu .
+43014005	N'ata		Tooma , ûmwe wa arutwa baake , amwîra , " N'ata tûûmba kûmenya njîra na tûtiiyî naara ûthiîte , Mwathani ? "
+43014009	N'ata		Yiesû amwîra , " Piripû , kuuma îgiita rîru rîonthe ndakarania naabi , ûtiyî ndî ûû ? Muntû arambona aroona Baaba . N'ata îîndî ûkuuganga mbwonie Baaba ?
+43014022	kî n'ûntû		Njundas ( îndî ti Njundas Mûcikariota ) , aûria Yiesû , " Mwathani , i kî n'ûntû ûkeebonania kîrî tiû na ti kîrî antû bonthe ? "
+43016005	~		Îndî îîndî inthiîte kîrî ûra aantûmire na gûtirî wacienu akûmbûûria bûra ndathi .
+43016017	N'ata		Arutwa baake bakwîgua ûgu baanjîîria kûûrania , " N'ata akwenda gûtwîra rîra akuuga nyuma ya kagiita gaakai kuuma îîndî tûgaatiga kûmwona , îndî nyuma ya kagiita kaganoona tûkamwona kaîrî ? Na agîtwîra ariuga i kwa Îthe athiîte !
+43016018	n'ata		Na n'ata akwenda kwonania rîra akuuga ' Kagiita gaakai ? ' Tûtikûmenya bûra akwenda kuuga . "
+43018004	N'ûû		Yiesû naiyî bunthe bûra bwathiîte gûkarîka kîrî we . Kwoogu abathagaana abaûria , " N'ûû bûgûcûa ? "
+43018007	n'ûû		Yiesû abaûri kaîrî , " Î n'ûû bûgûcûa ? " Bamwîra , " I Yiesû wa kuuma Nasareethi ! "
+43018011	~		Yiesû eera Petûrû , " Cookia rûyiû njûraani . Ka ntabatîîrue nnyua gîkombe gîa kûnyamaarua kîra Baaba ampete nnyua ? "
+43018021	~		Ntikûmenya gîtûmi gîa kûmbûûria biûria . Ûria bara baanthikîîrie nkîaria bakwîre bûra ndabeerire . Ibaiyî mara ndaaria . "
+43018023	mbi		Yiesû eera Anas , " Ûkaaya kwîgua kûrî meeyia ndaaria , tagweta mo . Îndî weegua n'ûmma ndaaria , i mbi îîndî nkûringîrwa ? "
+43018029	~		Kwoogu Piraatû , ûra aarî ngabana îgiitaani rîru , aumagarûka aathi kîrî bo . Abeera , " Mbîraani bûra ûyû arûthîîte . "
+43018035	N'ata		Piraatû amûûria , " Ka ndî Mûyaundi ? Anga t'antû beenu na athînjîri bara banene ba Ngai bakûreetire kîrî niû ! N'ata ûrûthîîte ? "
+43018038	bûrîkû		Piraatû amûûria , " Na ûmma i bûrîkû ? " Piraatû aumagarûka kaîrî . Eera antû , " Niû ntikwona mabîtia mara arûthîîte .
+43019009	kû		Aacooka kambîîni kaîrî . Aûria Yiesû , " Kwenu i kû ? " Yiesû ataamûcookeria .
+43019015	~		Antû bamuugîîria na inya bamwîra , " Naûragwe ! Naûragwe ! Mwambe ! " Piraatû abaûria , " Ka bûkwenda mbamba mûnene wenu ? " Athînjîri ba Ngai bara banene , bamwîra , " Gûtirî mûnene ûngî twiyî tatiga Kaisaarî wenka ! "
+43020013	mbi		Araîka babu baûria Maria , " Mwekûrû , i mbi ûkûrîrîra ? " Maria abeera , " Ibarathûkiirie Mwathani wakwa na ntikûmenya ara baramwirire . "
+43020015a	mbi		Yiesû amûûria , " Mwekûrû , i mbi ûkûrîrîra ? 
+43020015b	N'ûû		N'ûû ûgûcûa ? " Maria akîthûgaanagia aarî mûmenyeeri wa kamûnda gaku , amwîra , " Weegua i woû ûramûrutire nthikooni , mbîîra itû , aba , ara ûramwirire kaingo mmûthûkia . "
+43021012	ûû		Yiesû abeera , " Ncûûni bûrîe . " Gûtirî mûrutwa aûmîîria kûmûûria aarî ûû . Îndî ibaiyî i Mwathani aarî .
+43021020	n'ûû		Petûrû aûndûka oona mûrutwa ûra Yiesû eendeete mûno abathingatîîte . Mûrutwa ûyu n'ûra aakari akubî na Yiesû rîra baarîyanagîra rîa mûthia irio bia ûgoro , rîra aamûûririe n'ûû akaamûkunyanîra .
+43021021	n'ata		Petûrû akûmwona , aûria Yiesû , " Mantû ma ûyû n'we n'ata , Mwathani ? "
+43021022	~		Yiesû amûcookeria amwîra , " Wana nkeenda atûûra mwoyo mwanka rîra nkaaya yîya rîa maîrî , înu ti ngûgî yaku . Woû nthingata . "
+43021023	~		Kuumania na ûgu Yiesû eerire Petûrû , ntheto ciambîîria kwarua gûkîîragwa mûrutwa ûyu atiikua . Îndî Yiesû atauga atiikua . Ka augire , " Wana nkeenda atûûra mwoyo mwanka rîra nkaaya yîya rîa maîrî , înu ti ngûgî yaku . "
+44001011	n'ata		Araîka babu baaria na bo . Babeera , " Antû ba Gariiri , n'ata bûkûrûtha aaga bûkari bûkûnîîrîîte îgûrû meetho ? Yiesû wooyu bwona aathûkua kuuma kîrî biû eetitithua îgûrû akaaya kaîrî na njîra ta înu bwona eetia n'yo . "
+44002008	n'ata		Aabu n'ata bakûûmba kwaria nthiomi cionthe cia gûntû kûra twinthe bara tûrî aaga tuumîîte ?
+44002012	bûrîkû		Kîrîndî kîonthe kîarigara kîarigicana . Gîakara gîkîûranagia , " I bûrîkû bûbû ? "
+44002037	n'ata		Antû bakwîgua ûgu , beegua baaringithua mûno nkorooni ciao . Baûria Petûrû na atûmwa bara bangî , " Aruayia , n'ata tûkaarûtha ? "
+44003012a	mbi		Petûrû akwona antû beethîrana agu abaûria , " Antû ba Isiraeri , i mbi yabûrigaria ? 
+44003012b	~		Ka bûkwona ta inya yetû kana wega bwetû bwatûma muntû ûyû abua n'ûntû bwatûkûnîîra meetho ûûgû ?
+44004007a	~		Petûrû na Njoana baareetwa . Baarûngamua mbere yao . Kîama kîa Ayaundi kîabaûria , 
+44004007b	mbi		" N'inya mbi bûratûmîîre kûrûtha bûra bûrarûthire 
+44004007c	n'ûû		na n'ûû arabwete watho ? "
+44004016	N'ata		" N'ata tûkûrûtha antû baba n'ûntû kwaria mma kîama kîra bararingire îkîmenyekanîîte n'antû ba Njerusaremu bonthe na tûtikaana ?
+44004025a	kî n'ûntû		Waariirie na njîra ya Kîrundu Ûmûtheru gûkûrûkîîra kanyuani ka mûruti ngûgî waku , ta we kîûyûûyû gîetû , Ndaundi , wauga , ' I kî n'ûntû mîgongo îngî îgwetwe i mûthûûro ? 
+44004025b	kî n'ûntû		I kî n'ûntû antû barûthîîte mîbango ya ûtheri ?
+44005003	mbi		Petûrû amûûria , " Anania , i mbi îtûmîîte Saitaani aûyûra nkoro yakû ? Ûkûrongoia Kîrundu Ûmûtheru . Kûrî mbia imwe cia kîthaka waigîîte ûgaitûmîra ûrî wenka .
+44005004	kî		Mbere ya wendia kîthaka gîku kîraarî gîaku . Na ûgûkîendia mbia nwa ciaku iraarî . I kî îîndî n'ûntû ûrûthîîte ûûgû ? T'antû warongoia , i Ngai . "
+44005009	kî n'ûntû		Petûrû amûûria , " I kî n'ûntû bûrabangire kûgeria Kîrundu wa Mwathani ? Makinya mamu ûkwîgua maayîîte i ma bara bauma kûthika mûkûrû waku . Kinya woû ibagûgûkamata bagakûthike . "
+44007026	mbi		Rûûni rwa ntugû înu , Musa eethîra Aisiraeri baîrî bakîrûaga . Musa aacûûgia kûbeeguithania . Abaûria , ' Anga bûtirî ta muntû na mûruagina , itû aba . I mbi bûkûrûîra ? '
+44007027	N'ûû		Ûra aacûîrîrîte ûra ûngî ûgîti aatindîka Musa . Amûûria , ' N'ûû agûtuîkithîîtie mûnene wetû ûtûgambithia ?
+44007035	N'ûû		" Musa wooyu nwa we ûra antû baao baarî bakûmûrega bakîmûûragia , ' N'ûû agûtuîkithîîtie mûnene wetû ûtûgambithia ? ' Musa n'we Ngai aatûmire kîrî antû baake atuîka mûtongoria na mûkûûri wao kuumania na ûteethio bwa mûraîka ûra aariirie n'we gakandooni .
+44007049a	mbi		' Mwathani ariuga , " Îgûrû i gîtî gîakwa kîa ûnene na nthîgûrû n'ûkinyo bwa magûrû maakwa . I nyomba mbi bûûmbakîra , 
+44007049b	kû		i kû bûkuuga nkarage ?
+44007052	~		Anga kûrî kîroria biûyûûyû bienu bitaanyamaaria ? Biaûragire bara baaroririe tene babeera mantû ma kûûya kwa ûra mwagîru , naabi nyumaani bwamûnenkanîra aûragwa ,
+44008031	N'ata		Mûnene ûyu amûûria , " N'ata mbûmba gûciûkîrwa ntarî na muntû wa gûntaûrîra ? " Eera Piripû atwe nkaarîîni bakare n'we .
+44008033	~		Aarûthîîrwe mantû ma îgi na ûmma bûtaathingatwa . Gûtirî we auga naiyî nciarwa ciake n'ûntû ntugû ciake cia aaga nthîgûrû iciathirire . "
+44008034	n'ûû		Mwethiopia ûyu aûria Piripû , " Ingûkûûria , n'ûû kîroria gîkwarîîria aaga ? I kîo kîongwa kana i muntû ûngî ? "
+44008036	~		Bathiîte baakinya bantû kwarî na rûûyî . Mwethiopia eera Piripû , " Ene , I rûûrû rûûyî . Ga kûrî kîo kîûmba kûndigîîria ntikaabaatithue ? " [
+44009004	kî n'ûntû		Saûrû aagwa nthîgûrû . Eegua kayû kaaria n'we kauga , " Saûrû , Saûrû , i kî n'ûntû ûkûnnyamaaria ? "
+44009005	ûû		Saûrû aûria , " I woû ûû , mûnene ? " Kayû gaku kamwîra , " Ndî Yiesû ûra ûkûnyamaaria .
+44009006	~		Îndî amwe na ûgu , ûka ûthi taûni . Wakinya ûkeerwa bûra ûbatîîrue ûrûtha . "
+44010004	N'ata		Koronerias akwona mûraîka aamaka . Amûûria , " N'ata , Mwathani ? " Mûraîka ûyu amwîra , " Ngai atiriganîrîtue i maromba maaku na ûteethio bûra ûteetheetie na bu nkîa .
+44010021	N'ata		Petûrû eendama ngorobaani eera antû babu , " I niû ûra bûgûcûa . N'ata kûrî ? "
+44010029	~		Kwoogu gîku i kîo kîratûmire ûkûûmbîta mbîtîgîîria kûûya ntakûûria kîûria . Tambîîra gîtûmi gîa gûntûmana . "
+44010047	~		" Wata bûra tiû tweerwe Kîrundu Ûmûtheru , nwa ta bu kinya antû baba beewa . Kwoogu ka kûrî we abarigîîria batikaabaatithue ? "
+44011017a	ûû		Weegua Ngai naabeere kîewa ta kîra tiû aatwere tûgwîtîgia Mwathani Yiesû Kîrîstû rî , ndî ûû ndigîîria Ngai ? "
+44011017b	~		
+44012018	~		Rûûni gûgûkea acikaarî baarigicana mûno . Bataiyî bûra ûkîûmba kwîgua gwakarîkîîte kîrî Petûrû .
+44013025	ûû		Njoana arî akubî kûthiria ngûgî yake , aûria antû , ' Bûrîthûgaania ndî ûû ? Ti niû ûra bûkûthûgaanîria . Ûyu aayîîte nyuma yakwa ntiagîrîte ûntû kinya mmûtharia ndigi cia iraatû biake . '
+44014015	kî n'ûntû		" I kî n'ûntû bûkûrûtha ûûgû ? Anga tûtirî antû ta biû . Tûrî aaga tûbwîra bûtigane na mantû ma ûtheri bûrombage Ngai ûra atûûraga mwoyo . N'we Mûûmbi wa îgûrû , nthîgûrû , maria , na bionthe bira birî ku .
+44015010	kî n'ûntû		Aabu i kî n'ûntû bûkûgeria Ngai bûkîendaga gwaîkia eetîgîri mûrigo ûtakamatîka ? Mûrigo biûyûûyû bietû biaremirwe n'uu na tiû beene !
+44016030	n'ata		Aûkîîra auma na bo nja . Abaûria , " Ntikûbûûria aba , n'ata mbûmba kûrûtha nkoonoka ? "
+44017018	N'ata		Gîkundi gîa antû baûme mûno beetagwa Epekurio na kîîngî gîetagwa Stoiki baanjîîria gûturia Paûrû mbaara . Bamwe baao baûragia , " N'ata kîthege gîkî îîndî gîgûtûringîra gîtuma aaga gîkiuga ? " Bangî bauga , " Arîkara ta mantû ma ngai ingî ingeni agûtûmîîria . " Babu baugire ûgu n'ûntû Paûrû aatûmagîîria mantû ma Yiesû na kûriûka gwake .
+44017019	~		Baira Paûrû kîamaani gîetagwa Ariopagas . Bauga , " Tûrîenda kûmenya n'ûrutani bûbi bûbû bûûgeni ûkwaragîîria .
+44019003	~		Paûrû abaûria , " Aabu n'ûbaatithio bûbi bwabaatithiirue ? " Bamwîra , " Twabaatithiirue ûbaatithio bûra Njoana aabaatithanagia . "
+44019015	ûû		Îgiita rîmwe bakîrûtha ûgu , kîrundu kîîthûûku kîabeera , " Yiesû imwiyî , na Paûrû imwiyî . Îndî biû i biû ba ûû ? "
+44019035	n'ûû		Mûthiani mwandîki wa taûni aûmba gûkiria kîrîndî . Abeera , " Antû beetû ba Ebeeso , n'ûû ataiyî taûni ya Ebeeso n'yo îmenyagîîra kîrombero kîa Aritemas , ûra mûnene , ûra mûbuanaano wake waarûkire kuuma îgûrû ?
+44021013a	~		Paûrû atwîra , " Ibûkûndîthia kîeba bûkîndîrîra ! 
+44021013b	~		Indîthuuranîrîte gûkuîra Njerusaremu n'ûntû bwa Mwathani Yiesû , tatiga kûthaîkwa akî . "
+44021022	N'ata		N'ata tûkûrûtha n'ûntû nwa mwanka bamenye ûrî gûkû ?
+44021033a	n'ûû		Mûnene aathi ara Paûrû aarî . Aaruta watho auga agwatwe athaîkwe na nyororo ciîrî . Rîru aûria , " Muntû ûyû n'ûû 
+44021033b	n'ata		na n'ata arûthîîte ? "
+44022007	kî n'ûntû		Ndagwa nthîgûrû ! Ndeegua kayû kambîîra , ' Saûrû , Saûrû , i kî n'ûntû ûkûnnyamaaria ? '
+44022008	ûû		" Ndaûria , ' I woû ûû , mûnene ? ' " Ancookeria aambîîra , ' I niû Yiesû wa Nasareethi ûra ûkûnyamaaria . '
+44022010	N'ata		" Ndaûria , ' N'ata ûkwenda ndûtha , Mwathani ? ' " Mwathani aambîîra , ' Ûkîîra ûthi Ndamasiki . Wakinya ûkeerwa monthe mara ûthuurîîtwe ûrûtha . '
+44022016	mbi		Kwoogu i mbi îngî weteereete ? Ûkîîra ûbaatithue na ûthambue meeyia maaku riîtwaani rîake . '
+44022026	N'ata		Mûrûngamîîri ûyu akwîgua ûgu , aathi kîrî mûnene amûûria , " N'ata ûkûrûtha ? Muntû ûyû i Mûrooma ! "
+44023003	~		Paûrû amwîra , " Wana woû Ngai nagaakûringa . Woû ûrî rûthingo rwake cokaa ! Ûkari agu ûngiitîra îgamba kûringana na watho , îndî woû nûkûbuuna ûkauga ndingwe ! "
+44023009	~		Gîtuma gîkwongeereka , aarimû ba watho bara baarî Abarisai baarûngama bang'enteete mûno . Bauga , " Muntû ûyû gûtirî mabîtia arî na mo . Î ûkeegua i kîrundu kana mûraîka amwîrîîte mantû mamu ? "
+44023019	N'ata		Mûnene aagwata mwana ûyu njara baathi gataaria . Amûûria , " N'ata ûkwenda kûmbîîra ? "
+44026008	mbi		I mbi îgûtûma bwona bûrî ûntû bûrî inya Ngai kûriûkia antû ?
+44026014	kî n'ûntû		Twinthe twagwa nthîgûrû . Ndeegua kayû kambûria na rûthiomi rwa Kîîbirania , ' Saûrû , Saûrû , i kî n'ûntû ûkûnnyamaaria ? Nûkwîthîînia mana ûkîrûa na wendi bwakwa ta îng'ooi rîkîringa thiarî rwambo rwa ûra arîthingatîrîtie . '
+44026015	ûû		" Ndaûria , ' Î woû ûû , mûnene ? ' " Mwathani aambîîra , ' I niû Yiesû ûra ûkûnyamaaria .
+45002017	~		Na woû naawe uugaga ûrî Mûyaundi na wîgwatagia watho , wîkumagia nwiyî Ngai
+45002021	mbi		Woû ûrutanaga bara bangî rî , i mbi îgiragia wîrutana ûrî woû ? Î woû uugaga wamba i meeyia rî , nwiyaga ?
+45002028	~		Ûtiûmba kuuga ûrî Mûyaundi wa mma n'ûntû bwa akî kwîgua aciari baaku n' Ayaundi , na atî , ûrî ûmûtaane .
+45003001a	mbi		Kwoogu îîndî rî , kwîgua ûrî Mûyaundi kûrîkûguna na mbi ? 
+45003001b	kîrîkû		Kana gûtaanwa kûrî na gîtûmi kîrîkû ?
+45003003	~		Îndî rî , ûkaaya kwîgua bamwe baao bataatûîka eetîgua , ka gûtuîka Ngai agaatiga kwîgua arî mwîtîgua ?
+45003005	~		Ûkaaya kwîgua mantû maathûûku mara tûrûthaga moonanagia bûra Ngai aagîrîte bûgana , Ngai tika agûtûbîtîria rîra akûthûûra i tiû agatwa îkaanûkia ? ( Aaga ndîaria ta muntû wa kîînthîgûrû . )
+45003006	n'ata		Bûbu n'ûrongo . Ûkeegua ûgu n'ûmma rî , n'ata îndî Ngai akaagambithangia antû ?
+45003007a	~		Waûmba kwîgua muntû akiuga , " Ûkaaya kwîgua ndarongoa ingûtûma Ngai atîîywa n'ûntû bwa kwonania aaragia ûmma rî , 
+45003007b	kî		i kî îndî n'ûntû nkaagiitîrwa îgamba bûûthûûku , mbîtwe mwîyia ? "
+45003008	~		Kûthûgaania ûntû ta bûbu i ta bûmwe na kuuga , " Ga tûrûthe mantû maathûûku kaingo mantû meega maaya . " Na wabu kûrî antû bagûtûtuîrîîra bakauga ûgu i bu tûrutanaga antû . Antû ta babu baagîrîtwe bagiitîrwa îgamba bûûthûûku .
+45003009	~		Kwoogu Ayaundi twaûmba kuuga tûrî gîtûmi nkûrûki ya antû bara bangî ? Arî , gûtirî gîntû ta gîku ! Itûbwoniirie atî , Ayaundi na bara batarî Ayaundi bonthe baathagwa n'inya ya wîyia .
+45003027a	~		Kwoogu rî , kûrî gîtûmi gîetû gwîkumia ? Gûtirî kîo . 
+45003027b	kî		Na i kî ? 
+45003027c	~		Gîtûmi i kwîgua tûtituîkaga baagîru n'ûntû bwa kûthingata watho , îndî i kuumania na wîtîgio bwetû .
+45004001	N'ata		N'ata tûûmba kuuga îgûrû rîa Îburaîmu , îthe wa Ayaundi ? N'ata tûûmba kûthooma kuumania n'we ?
+45004003	~		Maandîko Maatheru maugîîte , " Îburaîmu neetîgîîtie Ngai . Na n'ûntû bwa wîtîgio bwake Ngai aamûthûkiirie arî muntû ûmwagîru . "
+45004010	rî		Arîo rî , i rî rîru kwarî ? Kwarî nyuma ya agûtaanwa kana i mbere ? Kwarî mbere ya ataanwa .
+45005010	n'ata		Rîra twarî anthû ba Ngai , Ngai aatumire ûcoore naati na gîkuû kîa Mwana wake . Îîndî tûrî acoore baake rî , n'ata tûtakîonokua i Kîrîstû îîndî arî mwoyo ?
+45005021	~		Kwoogu wata bûra wîyia bwathire antû bwabareetera gîkuû , nwa ta bu ûtugi bwa Ngai bwathaga antû na njîra ya kûbaagîrithia bakoona mwoyo wa tene na tene , gûkûrûkîîra kîrî Yiesû Kîrîstû Mwathani wetû .
+45006001	~		Kwoogu nwa tuuge tûthi na mbere na kwîyia kaingo Ngai oongeera ûtugi ?
+45006002	n'ata		Arî buru ! Gûtirî ûntû ta bûbu ! Anga ti taka tûrî baakuû kîrî meeyia . Kwoogu n'ata tûûmba gûcooka gûtûûra kîrî mo kaîrî ?
+45006015	~		Kwoogu nwa twîyie n'ûntû itûtiganîîte na watho twagarûkîra ûtugi ? Arî buru !
+45006021	mbi		I baita mbi bwoonire kuumania na mantû mara ? Mantû mara matûmaga bwîgua nthoni bwaririkana ibwamarûthaga . Baita ya mo i gîkuû !
+45007007	~		Twaûmba kuuga watho i wîyia ? Arî buru ! I watho bwatûmire mmenya wîyia i mbi . Ntikîmenya kana i wîyia kwîrirîîria gîntû kîa muntû ûra ûngî ûkeegua watho bûtiugîîte , " Ûtikeerirîîrie gîntû kîa muntû ûra ûngî . "
+45007024	N'ûû		Gîku na ti kînyamaara ndî na kîo ! N'ûû agaantunyûkia mwîrî ûyû ûgiitîrîtwe îgamba werwa n'ûgaakua kûringana na bûra ûkari ?
+45008024	~		Itwonokiirue , na n'ûntû tûrî boonokie , tûrî na mma wîrîgîîrooni bûbû bwetû . Tûkoona gîntû kîra twîrîgîîrîîte , wîrîgîîro ûtiîgua bûrî na gîtûmi . Ga kûrî muntû eerîgagîîra gîntû arî na kîo ?
+45008031a	N'ata		N'ata tûûmba kuuga îgûrû rîa mantû mama ? 
+45008031b	N'ûû		N'ûû aûmba gûtûmakia Ngai arî amwe naati ?
+45008032	~		Ûkoona Ngai ataarega na Mwana wake aamûrutire arî kîgongwana gîetû twinthe , twa bira bingî bionthe atagîtwa ûtheri amwe na Kîrîstû .
+45008033	N'ûû		N'ûû akaathitanga antû bara Ngai athuurîîte na i Ngai atwagîrithîîtie ?
+45008034	n'ûû		Kwoogu n'ûû îîndî aûmba gûtûgiitîra îgamba bûûthûûku ? Gûtirî we , n'ûntû Kîrîstû naakuire na aariûka na îîndî akari nthî rûteere rwa ûrîo rwa Ngai agîtwerekanagîra .
+45008035	mbi		I mbi yûmba gûtwathûrana na wendo bwa Kîrîstû ? I thîîna ? I kînyamaara ? I kûnyamaarua ? I yûûra ? I kwaga nguo ? N'ûgwati ? Kana i gîkuû ? Gûtirî kîo !
+45009014	~		Kwoogu twaûmba kuuga Ngai nabîtagia kûmwe ? Arî buru !
+45009019a	kî		Waûmba kwîgua muntû akîûria , " I kî îîndî n'ûntû Ngai ataragîra antû mabîtia ? " Kana 
+45009019b	N'ûû		" N'ûû amûkîria inya akaregana na wendi bwake ? "
+45009020a	ûû		Ûrî ûû woû ûkûûria Ngai kîûria ? 
+45009020b	~		Kîra kîrûthe kîaûmba kûûria ûra akîrûthîîte , 
+45009020c	kî n'ûntû		" I kî n'ûntû ûndûthîîte ûûgû ? "
+45009021	~		Ntikuuga mûûmbi wa nyûngû nwa aûmbe na yûmba rîake nyûngû ya mûthemba woora akeenda ? Twa aûmbe na yûmba warîmwe nyûngû ya gûtûmîka rîra kûrî na ûntû bwa mwanya , na akaûmba îngî ya gûtûmîkaga ntugû ira ingî ?
+45009022	~		I ta bu gûkari ûgu kîrî Ngai . Ngai eendaga kwonia antû bamwe mûthûûro wake , na eendaga antû boona bûra arî inya îgana . Îndî i kaanya Ngai eete antû babu n'ûntû bwa kwinyîkîria gwake . Akaabagambithia na mûthûûro wake abathirie , n'ûntû ibabuîrîîte kûthirua .
+45009023	~		Ngai eendaga bangî na bo bamenya bûra arî ûkumio bûgana . Na babu i bo Ngai eegagua kîao . Kuuma tene , babu bo Ngai aababangîîre bakeewa mwago .
+45009024	~		Tiû bara Ngai atwîtîîte , Ayaundi na bara batarî Ayaundi , ûgu i bu Ngai atûbangîrîte .
+45009030	n'ata		Kwoogu n'ata tûûmba kuuga ? Ga tuuge , amwe na kwîgua bara batarî Ayaundi bataacûaga kwîgua barî baagîru , Ngai naabaagîrithiirie kuumania na wîtîgio .
+45009032	kî		Na i kî ? Gîtûmi i kwîgua bateerîgagîîra wîtîgio bûbateethia , kûthingata watho i ku beerîgagîîra kûbateethia . Baatiirire " Iiga " baataratara ,
+45010006	N'ûû		Îndî Maandîko Maatheru maugaga îgûrû rîa kwagîrithua kûra kuumanagia na wîtîgio , " Ûtikeebûûrie ' N'ûû akaathi îgûrû ? ' " ( Athi akeere Kîrîstû aaye . )
+45010007	N'ûû		" Kana ' N'ûû akaathi kûra bara bakuû barî ? ' " ( Akeere Kîrîstû aume kûra bara bakuû barî . )
+45010008	~		Maandîko Maatheru maugîîte , " Kiugo kîa Ngai kîrî agu ûrî . Kîrî kanyuani gaaku , na kîrî nkorooni yaku . " Kiugo gîku i kîo tûtûmagîîria . I kîo gîtûmaga muntû oonokua agîîtîgia .
+45010014a	n'ata		Îndî n'ata antû baûmba kûmwîta aboonokia batamwîtîgîîtie ? 
+45010014b	n'ata		Na n'ata baûmba kûmwîtîgia bateegîîtue ntûmwa yake ? 
+45010014c	n'ata		Na n'ata baûmba kwîgua muntû akûmûgweta gûtarî na muntû wa kûbatûmîîria ?
+45010015	N'ata		Na n'ata muntû aûmba kûbatûmîîria Ngai atamûtûmîîte ? Antû babu i bo Maandîko Maatheru maaragîîria îgûrû rîao ara maugîîte , " N'ata bara bareetaga ntheto îmbega bareetaga mantû maathongi ? "
+45010016	N'ûû		T'antû bonthe beetîgîîtie ntheto îmbega . Kîroria Isaaya augîîte , " N'ûû eetîgîîtie ntûmwa yetû ? "
+45011004	N'ata		N'ata Ngai aamûcookeerie amwîra ? Aamwîrire , " Ndî na antû ngiri mûgwanja Isiraeri bara bataaromba ngai ya ûrongo , Mbaari . "
+45011007	ata		Na kuuga ûgu i ta kwonania ata ? I ta kwonania Aisiraeri batoona kîra baacûaga . Bara baakîonire i baakai , bara Ngai aathuurire . Îndî bara bangî ibaûmiirue biongo ,
+45011015	~		Ngai agûtiganîria Ayaundi aatumire ûcoore na bara batarî Ayaundi . Bara bakuû bakeewa mwoyo rîra Ayaundi bagaacooka kîrî Ngai .
+45011018	~		Îmenyeera ûtigeekumîrie kwîgua woû ûrî ûmûgwatithanie na uu îîndî îra mpong'i imwe itemetwe kuuma kîrî uu . Ririkana woû ka ûrî rwong'i . Ti woû ûreraga mîri , i mîri îkûreraga .
+45011033a	n'ûû		N'ata Ngai arî ithaarimo biingîîte bûgana ! N'ata arî ûûme na ûmenyo bwingîîte bûgana ! N'ûû wacietû aûmba kûmenya mîbango yake ? 
+45011033b	n'ûû		Kana n'ûû wacietû aûmba kûmenya bûra arutangaga ngûgî ?
+45011034a	N'ûû		N'ûû aiyî bûra mathûgaania ma Mwathani makari ? 
+45011034b	N'ûû		N'ûû aûmba kûmwatha ?
+45011035	N'ûû		N'ûû aûmba kuuga Mwathani arî na îrandû rîake rîra abatîîrue amûrîa ?
+45014004	ûû		Ûrîthûgaania ûrî ûû wa kûgiitîra îgamba mûruti ngûgî wa itha ? N'îgûrû rîa mûnene wake kûmenya weegua i mabîtia kana ti mabîtia . Na n'îgûrû rîa mûruti ngûgî kûrûtha bûra kwagîrîte n'ûntû Mwathani akamwaa inya ya kûmwotithia .
+45014010a	mbi n'ûntû		Îîndî woû rî , i mbi n'ûntû ûkûgiitîra mwîtîgîri ûra ûngî îgamba 
+45014010b	~		kana ûkamûmeneeria ? Ntugû nîengeerie gûkinya îra twinthe tûkaarûngama mbere ya Ngai tûgiitîrwe îgamba .
+46001020a	n'ûû		Ûra îîndî mûûme n'ûû ? 
+46001020b	n'ûû		Ûra îîndî mûthoomu n'ûû ? 
+46001020c	n'ûû		Ûra îîndî aiyî ûgambi nthîgûrû îno n'ûû ? Anga Ngai ationanîîtie ûûme bwa kîînthîgûrû i waa ?
+46002011	~		Wata bûra kîrundu kîa woora muntû kîmwiyî bûra bunthe akari , i ta bu Kîrundu wa Ngai aiyî mantû monthe ma Ngai .
+46002016a	N'ûû		Maandîko Maatheru maugîîte , " N'ûû aaromenya mathûgaania ma Mwathani ? 
+46002016b	N'ûû		N'ûû aûmba kûmûrutana ûntû ? " Îndî tiû itwiyî bûra mathûgaania ma Kîrîstû makari .
+46003005a	n'ûû		Paûrû îîndî n'ûû ? 
+46003005b	~		Kana Apooras ? Tiû n'aruti ngûgî ba Ngai tu , bara twabûteetheerie bweetîgia . Wakîra ûmwe wacietû aarutire ngûgî îra Ngai amwete aruta .
+46004007a	mbi		Mûkûûraani waku na bara bangî i mbi ? 
+46004007b	mbi		I mbi ûrî îtarî ya kwewa ? 
+46004007c	~		Na weegua nwetwe rî , aabu gîtûmi gîaku gîa gwîkumia taka ûtarî mwe i kîbi ?
+46004021	bûrîkû		I bûrîkû bwenda kûthuura ? Bwenda ndaaya naagu mbûye na kîbooko gîa kûbwaa îkaanûkia na kîo , kana bwenda ndaaya mbwonie wendo na ûbooreru ?
+46005002	~		na amwe na ûgu ibûgwîkumîria ûgu mûno ! Bwabatîîrue bûgwatwa i kîeba na muntû ûyu bûmûruta ngwatanîrooni yenu .
+46005012	~		Ntibatîîrue ngiitîra îgamba antû batarî ba kanica , i Ngai akaagiita rîao . Giitagaani îgamba rîa eeyia ba kanica . Wata bûra Maandîko Maatheru maugaga , " Îngatiani muntû ûra mûthûûku aume kîrî biû . "
+46006001	~		Rîra ûmwe wacienu arî na ntheto na mwîtîgîri ûra ûngî bwiranaga kîrî agambithania batarî eetîgîri i kî , bantû a bwirîra ntheto inu antû ba Ngai baithikîîria bagiita îgamba ?
+46006003	~		Ibwiyî îgiita rîgaakinya tûgiitîre araîka îgamba . Kwoogu na mma nwa tûgiite magamba ma mantû ma ûtûûro bûbû .
+46006004	kî n'ûntû		I kî n'ûntû rîra bûrî na magamba makoneetie ûtûûro bûbû bwiragîra mo bara batarî watho bwa gîîkanica ?
+46006007a	~		Rîra bamwe beenu bûkûthitanga bara bangî kootiini i bûgwîteera nkuma . Ti kaaba bûgakara bûbîtîrîtue woogu rîmwe ? 
+46006007b	~		Kana bûgakara bweneetue woogu weegua i bweneetue rîmwe ?
+46006009	~		Ka bûtaiyî bara barûthaga mantû mataagîrîte batiewa rûgai rwa ûnene bwa Ngai ? Bûtikeebenie . Gûtirî we kîrî bara barûthaga mantû mama akeewa rûgai rwa ûnene bwa Ngai -- mûmaramari , mûrombi ngai cia ûrongo , mûthûngîîri , ûra amaamaga na antû arûme ta we , mwamba , mwîrirîîria , mûtogooni , ûra aatuuyagîîra ûra ûngî , na mûtunyani .
+46006016	~		Ka bûtaiyî ûra eegwatithanagia na îrwaya batuîkaga mwîrî ûmwe na rîo . Maandîko Maatheru maugaga , " Barî baîrî bagaatuîka mwîrî ûmwe . "
+46006019	~		Ga ûtaiyî mwîrî waku i nyomba ya Ngai ya Kîrundu Ûmûtheru ûra atûûraga ndeni yaku , ûra weerwe i Ngai ? Ûtirî waku na bwaku ,
+46007016a	~		Mwekûrû , ûtiûmba kûmenya kana ûgaatûma mûkûrû waku oonoka ! 
+46007016b	~		Na naawe , mûkûrû , ûtiûmba kûmenya kana ûgaatûma mwekûrû waku oonoka !
+46009007a	~		Gûtirî mûcikaarî arutaga ngûgî ya ûcikaarî akîîrîaga mûcaara wengwa . 
+46009007b	~		Na gûtirî we aandaga mûnda wake ta wa ncabiibû ûgu , na atarîe maketha mamwe ma mûnda ûyu . 
+46009007c	~		Na kaîrî gûtirî we arîîthagia ng'ondu na atanyue îria rîmwe rîa rîra ciumaga .
+46009018	~		Kwoogu kîewa gîakwa i kîbi ? Kîewa gîakwa i kaanya kara ndî na ko ga gûtûmîîria ntheto îmbega ntakûrîwa , na ti ntûmîra aki îra îrî yakwa ngûgîîni îra nkûruta ya gûtûmîîria ntheto îmbega .
+46010019a	~		Tika nkuuga ngai ya ûrongo i gîntû kûrî , 
+46010019b	~		kana irio bira irutîrîtwe i gîntû .
+46010019c	~		
+46010029	kî n'ûntû		Ntikuuga i thîîna kîrî woû kûmîrîa , îndî i kîrî muntû ûra ûngî . Na i kî n'ûntû mantû mara mbûmba kûrûtha matabatîîrue makûrûkana na bûra mwîtîgîri ûra ûngî athûgaanagia ?
+46010030	kî n'ûntû		Ûkaaya kwîgua incookagîria Ngai nkaatho ampa irio bina rî , i kî n'ûntû muntû akauga inkûbîtia ndabirîa na n'irio ncookeretie Ngai nkaatho n'ûntû bwa gûmpa bio ?
+46011022	n'ata		Twabûrîe na bûkanyua mîciî yenu ? Gûku ti kwagîra kanica ya Ngai gîtûmi na gwîkîra nthoni bara batarî na biakûrîa ? Kwoogu n'ata bûkwenda mbwîra ? Mbwîre inkeneete ? Arî ! Ntibwîra ûgu n'ûntû bwa kûrûtha ûntû ta bûbu .
+46012017a	~		Ûkeegua mwîrî unthe i riitho akî rî , waûmba kwîgua ? 
+46012017b	~		Kana ûkeegua mwîrî unthe i gûtû akî rî , waûmba kûgwata mûruke mûna ?
+46012019	~		Wakîra gîcuncî gîkeenda gûtuîka gîcuncî kîna kîa mwîrî , ûtiîtwa mwîrî kaîrî .
+46014006	mbi		Aruayia na aarayia , nkaaya kîrî biû nkabwarîria na ndwaria ingeni bûbu bûbûguna na mbi ? Îndî nkaaya nkabwîra ûntû bûna bûra Ngai angwûrîrîte , ûmenyo , ûroria bûna , kana nkabûrutana ûntû bûna , rîru ndeegua nkîbûguna .
+46014007	n'ûû		Nwa ngerekanie bûra nkuuga na into bia wini ta mûtûûrirû kana wandîndî . Ûkeegua mûkûûraani wa tûyû ûtakwîguîka rîra mûtûûrirû waugua , kana wandîndî yaringwa rî , n'ûû amenya i rwîmbo rûbi rûkwinwa ?
+46014008	~		Î kana rûgoci rûkîregire kûruta kayû kara kaamenyithagia antû kûrî na ndûa rî , kûrî we akîthi kûrûa ?
+46014009	~		Kwaria na rwaria rûûgeni i ta ûgu îîndî n'ûntû gûtirî we akaamenya bûra ûkuuga . Nwa ta muntû akwaria na maiga !
+46014015	n'ata		Kwoogu n'ata mbatîîrue ndûtha ? Mbatîîrue ndaromba gîîkîrundu , ndombe kinya na mathûgaanio maakwa . Ndaina gîîkîrundu , mbine kinya na mathûgaanio maakwa .
+46014016	n'ata		Waromba Ngai na gîîkîrundu wenka rî , n'ata muntû ûra atakîmenya bûra ûkuuga akauga " Aameni " rîra ûgûcookeria Ngai nkaatho ? Atiimenya bûra ûkuuga .
+46014026	n'ata		Kwoogu , aruayia na aarayia , n'ata bûbatîîrue bûrûtha ? Rîra bwîthîranaga amwe kanicaani , muntû ûmwe aûmba kwîgua arî na rwîmbo akwenda kwina , ûngî arî na ûntû bwa kûrutana , ûngî arî na ûntû agwûrîrîtwe i Ngai akwenda kwîra kanica , ûngî arî na ntûmwa akwenda kuuga na rwaria rûûgeni , na ûngî n'we arî na ûtaûri bwa ntûmwa înu . Gîtûmi gîa kwîgua mantû mamu monthe marî oogo , i kaingo matûma kanica îkûra .
+46014036	~		Ka bûkûthûgaania kiugo kîa Ngai kîanjîîrîîtie naabi ? Kana ka bûkwona taka bûrî biû bwinka gîkinyîîrîîte ?
+46015012	kî n'ûntû		N'ûntû tûtûmagîîria atî Kîrîstû naariûkire auma kîrî bara bakuû , i kî n'ûntû bamwe beenu baugaga antû bara bakuû batiiriûkua ?
+46015029a	kî n'ûntû		Ûkaaya kwîgua bara bakuû batiiriûkua rî , i kî n'ûntû antû babaatithagua n'ûntû bwa bara bakuû ? 
+46015029b	ata		Ûkaaya kwîgua wabu bara bakuû batiiriûkua wana gûkari ata rî , 
+46015029c	mbi		i mbi îtûmaga antû babaatithua n'ûntû bwa baakuû ?
+46015030a	~		
+46015030b	kî		Na i kî naati n'ûntû twîbîkagîra ûgwatiini thaa cionthe ?
+46015032	mbi		Rîra ndarûaga na nyamû ira cia kîthaka cia Ebeeso rî , ûkeegua nwa ûtûûro bûbû bwa kîînthîgûrû ndîgwetie , i baita mbi ndoonaga weegua bara bakuû batiiriûkua ? Ûkeegua gûtirî kûriûkua , ga tûrîeni ni na kûnyua tûnyue twîkenie n'ûntû tika tûgaatûûra oogo .
+46015035a	N'ata		Waûmba kwîgua muntû akîûria , " N'ata muntû ûmûkuû aûmba kûriûkangua ? 
+46015035b	ata		Arîo rî , aariûkua akeegua arî wa mwîrî ûkari ata ? "
+46015055a	kû		Rûgakaî rwa îrûma rîra ûrî îîndî rûrî kû ? 
+46015055b	kû		Yaûkû nthiko , inya yaku îîndî îrî kû ? "
+47002002	ûû		Ngatûma bûgwatwa i kîeba i ba ûû bangî batûma nkena ? Gûtirî ûngî nwa muntû woora nkîgwatithia kîeba aûmba gûnkenia .
+47002016	N'ûû		Kîrî antû bamwe i kîrumba gîa gîkuû . Îndî kîrî bangî i mûnunko ûrî mûreo ûra weyanaga mwoyo . N'ûû arî mûganu wa kûruta ngûgî îno ya ûtûmîîria ?
+47003008	n'ata		Ûkaaya kwîgua watho ibwarî na mwago ûgana ûgu rî , n'ata gûtûmîka gûkû gwa gîîkîrundu kûrî mwago nkûrûki ?
+47003009	n'ata		Ûkaaya kwîgua kîrîîkanîro kîra gîatuuyagîra antû ibeeyîîtie i kîarî na mwago , n'ata kîrîîkanîro kîra gîtuîkithagia antû baagîru kîrî mwago mûno nkûrûki ?
+47006014a	N'ata		Bûtikaagwatane na bara bateetîgîîtie . N'ata wagîru bûûmba gûtuîka mûnyanya wa ûthûûku ? 
+47006014b	~		Werû bwengîrana na mwindu ?
+47006015a	N'ata		N'ata Kîrîstû na Berio , ta we Nkoma , baûmba kwîgua barî na ngwatanîro ? 
+47006015b	N'irîkû		N'irîkû mwîtîgîri aûmba kwaria na muntû ateetîgîîtie ?
+47006016	~		Nyomba ya Ngai yaûmba gûtuma nthungurumi na mîbuanaano ? Tiû , i tiû nyomba ya Ngai ûra atûûraga mwoyo . I Ngai augire , " Ngaatûûra kîrî antû baakwa na nkarage na bo . Nkeegua ndî Ngai wao , na bo barî antû baakwa . "
+47011011	kî		I kî ? Ka ntabwendeete kana ? Ngai naiyî imbwendeete .
+47011029a	~		Nkoona muntû atakwîbûmba ûntûûni bûna mbîgagua taka ntakwîbûmba na niû . 
+47011029b	~		Muntû akeeyithua mbîgagua ûrûrû mûno nkorooni .
+47012013	~		Ûntû bûra ntaarûtha akî ga ntaatuîka mûrigo kîrî biû ta bûra ndûthaga makanica mara mangî . Itû ndekeraani mabîtia mamu !
+47012017	ata		Îîndî ata ? Ndarabûcegeera na mûtûmwa kîrî bara ndatûmire kîrî biû ?
+48002014	~		Nkwona bataarûthaga bûra kwagîrîte kûringana na ûmma bûra bûrî nthetooni îmbega , i rîo ndeerîîre Petûrû mbere yao bonthe , " Ûkaaya kwîgua woû ûrî Mûyaundi ûtikûthingata maathana ma Kîîyaundi na ûrîkara ta bara batarî Ayaundi , kûrî na gîtûmi kîrîkû gûkinyîîria bara batarî Ayaundi bo bakara ta Ayaundi ? "
+48003001	~		N'ata bûtakîîte bûgana , Agaratia baba ! Ka bûrî baaroge ? Ka bwariganîîrue ibwooniirue bwega gîtûmi kîa Yiesû Kîrîstû kwambwa mûtharabaani ?
+48003019	kîrîkû		Gîtûmi kîa watho i kîrîkû ? Watho bweekîîrwe oogo kaingo bwonania bûra antû barî wîyia bûgana , mwanka rîra ûra wa rûciaro rwa Îburaîmu aayire , n'ûntû wîrane bwarî kîrî we . Watho bwareetirwe n'araîka gûkûrûkîîra kîrî muntû , muntû ûyu arî mwîguithania wa antû na Ngai .
+48004009a	N'ata		Îîndî ibwiyî Ngai . Kana nwa tuuge Ngai nabwiyî . N'ata kaîrî bûûmba gûcooka kîrî irundu bia ûtheri , bitarî ûteethio ? 
+48004009b	kî n'ûntû		I kî n'ûntû bûkwenda gûtuîka nkombo cia bio kaîrî ?
+48004010	~		Bwonaga ntugû nna , kana mîerî mîna , kana îgiita rîna , kana mîanka mîna îrî gîtûmi , bûkîthûgaanagia kwathîkîra cio i gûkenagia Ngai !
+48004015	N'ata		Mbereeni bwarî antû ba nkena . N'ata îîndî bûrakarire ? Nwa mbuge gûkîûmbîkire bûgînkûûrîra meetho meenu bûgampa .
+48004021	~		Tatiga mbûûrieni biû bara bûkwenda gûkara wathooni . Anga bûtiiyî bûra watho buugîîte ?
+48004030	ata		Maandîko Maatheru maugîîte ata ? Maugîîte , " Mûka nkombo na mwana wake ibeengatue n'ûntû mwana wa mûka nkombo atiewa rûgai mwana wa mûka ûra atarî nkombo akîgaîrwa . "
+48005007a	N'ûû		Ibûrarûngîîte njîra bwega intakûmenya n'ata bûrakarire ! N'ûû arabweneerie bwatiga kûthingata ûmma ?
+48005007b	~		
+48005011	kî		Î niû naani , aruayia na aarayia , ûkaaya kwîgua ntûmagîîria mantû ma ntaano nkauga antû bataanagwe rî , i kî îîndî n'ûntû nnyamaaragua ? Ûkaaya kwîgua n'ûmma , ûgu i bu ndûthaga , ntûmîîri îno ntûmagîîria ya mûtharaba wa Kîrîstû îtireeta thîîna nwa aniini .
+49004009	~		Kuuga Kîrîstû " eetiirie " i kwonania naambîîte aaya gûkû nthîgûrû .
+50001018	~		Îndî nwîgue barîtûmîîria n'ûntû bwa itûmi biega kana biithûûku , bûbu t'ûntû . Bûra bûrî na gîtûmi n'atî , ntheto cia Kîrîstû nigûtûmîîrua na njîra cionthe . Kwoogu ingûkena na nkaathi na mbere gûkena .
+50001021	~		Weegua ngaatûûra mwoyo ngatûûrîra Kîrîstû . Naka na ngakua nwa baita .
+51002020	N'ata		Ibwakuyanîîrie na Kîrîstû abûtigithania na moorutani ma antû . N'ata îîndî kaîrî bûgûcooka kîrî maathana ma kîînthîgûrû mara maugaga ,
+52002019	~		Ibûtûmaga twîgua tûrî na wîrîgîîro na gîkeno . Na n'ûntû bwenu tûgaakena tûrî mbere ya Mwathani wetû Yiesû Kîrîstû rîra agaacooka . Gûtirî bangî , nwa biû .
+52003009	~		Itûgûcookeria Ngai nkaatho mûno n'ûntû bwenu . Îndî tûtiona mîgambo ya kûgana ya kûmûcookeria nkaatho n'ûntû bwa gîkeno kîra kîonthe tûkwîgua tûrî na kîo n'ûntû bwenu .
+54003005	~		Muntû akaremwa gûtongoreeria mûciî wake bwega rî , nwa kanica ya Ngai aûmba gûtongoreeria bwega ?
+54006007a	~		Gûtirî kîo twaya na kîo nthîgûrû 
+54006007b	~		na gûtirî kîo tûûmba kuuma na kîo gûkû .
+58001005	~		Gûtirî rîo Ngai eera mûraîka , " Woû ûrî mwana wakwa . Îmunthî ngûtuîka abaagu . " Na kaîrî Ngai augire , " Ûkeegua ndî îthe , n'we eegue arî mwana wakwa . "
+58001013	~		Îndî gûtirî rîo Ngai eera mûraîka , " Kara nthî rûteere rwakwa rwa ûrîo , mwanka ntuîkithie anthû baaku ûkinyo bwa magûrû maaku . "
+58001014	ûû		Kwoogu araîka i ba ûû ? Bo n'irundu bira Ngai atûmaga birî aruti ngûgî , biteethia bara akaa rûgai rwa wonokio .
+58002003	n'ata		Kwoogu n'ata tûtakîewa îkaanûkia twarega gwîtîgîra wonokio bûbû bûûnene , bûra bûgweteetwe nthetooni îmbega ? Wonokio bûbû bwagwetirwe mbere i Mwathani we wengwa , bwacooka bwonanua i bwa mma kîrî tiû i bara baamwîgiirue akîaria .
+58002006a	n'ûû		Kûrî bantû Maandîko Maatheru maugîîte , " Muntû îîndî n'ûû wakûmûthûgaanîria , muntû îîndî n'ûû wakûmûmenyeera ?
+58002006b	~		
+58003016	ûû		I ba ûû bo beegiirue mîgambo ya Ngai , îndî baarega kûmwîgua ? T'wabara bonthe Musa aatongoreerie bauma Miisiri ?
+58003017	ûû		Na i ba ûû baathûûrîîtie Ngai mîanka mîrongo îna ? T'wabara beeyiirie na bara baakuirîîre rwanda ?
+58003018	ûû		Na i ba ûû Ngai aaragîîria îgûrû rîao rîra aathiîtiirie auga , " Batikooro bakinya kûra mbathuuranîrîte kûrî kînogoko kîao " ? T'wabara baaregire kûmwathîkîra ?
+58006004	~		Gûtiûmbîka bara mbereeni baiyî ûmma bacooka kwîrira kaîrî . Bo baroona werû , baracama mantû meega ma îgûrû , na bareewa kîewa gîa Kîrundu Ûmûtheru . Baracama beegua bûra kiugo kîa Ngai kîbuîte bûgana , na baramenya bûra nthîgûrû îra îngî njerû , îra îkeegua îrî oogo , bûra îkeegua îrî na inya îgana . Îndî bakaaya kûrekana na mantû mamu , gûtiûmbîka bacooka kwîrira kaîrî . I ta kwamba Mwana wa Ngai kaîrî na kûmwira îgi antûûni .
+58007011	~		Aisiraeri ibeerwe watho na baarutanagwa bûra buugîîte n'athînjîri ba Ngai ba rûrîîyo rwa Raawî . Îndî ûkaaya kwîgua ngûgî îra athînjîri baba ba Ngai baarutîîre antû yaûmbire gûtûma beegua barî baatheru kûrû kîrî Ngai , gûtiîgua kûrî na gîtûmi gîa kwîgua kûrî na mûthînjîri wa Ngai ûngî mûtariini wa Merikisendeki , na ti mûtariini wa Arûni .
+58009014	~		Îndî nthakame ya Kîrîstû yo nîrûthaga manene nkûrûki ya ûgu ! Kwa inya ya Kîrundu ûra atûûraga tene na tene , Kîrîstû neerutire arî kîgongwana kîra kîagîrîte kîrî Ngai . Nthakame yake îgatûtheria nkoro kuumania na mantû mara tûrûthaga mara maûmba gûtûma tûkua , i kaingo bûtûmîkîra Ngai ûra atûûraga mwoyo .
+58010001	~		Watho bwa Musa i mbica ya mantû meega mara makaaya . Ti bu mantû mongwa . Igongwana bira birutagwa kûringana na watho birutagwa îgiita na îgiita wakîra mwanka . Na watho bûbû bûtiûmba kûtheria bara bathiyaga akubî na Ngai .
+58010029a	~		Î bara bamenagîîria Mwana wa Ngai ? 
+58010029b	~		Bara bathûkagia nthakame ya kîrîîkanîro kîîyerû taka îtarî ntheru , 
+58010029c	~		cara barumangaga Kîrundu wa ûtugi ? 
+58010029d	~		Antû baba bakeewa îkaanûkia rîînene nkûrûki .
+58011032	~		Nthi na mbere ? Gûtirî na kagiita ga kûgana ga kûgweta mantû ma Ngindioni , Mbaraki , Samusoni , Njebutha , Ndaundi , Samweri na iroria .
+58012007	~		Ûmîîriani rîra Ngai abwonia kûra bûbîtagîria , n'ûntû eegagua akîbûthûkia ta aana baake . Ka kûrî mwana atoonagua n'îthe kûra abîtagîria ?
+58012009	~		Twinthe tûreegua tûrî na babaaba gûkû nthîgûrû na itwabatîîyaga . Kwoogu anga tûtibatîîrue twînenkanîra kîrî wathani bwa Baaba wa mîoyo yetû , kaingo tûtûûra mwoyo ?
+58012025	ata		Îmenyeereeni bûtikaarege kwathîkîra kayû ka Ngai rîra akwaria . Aisiraeri bara baaregire kwathîka bakwîgua kayû gaake akîaria arî gûkû nthîgûrû batoona wega . I thîîna îgana ata tûkoona twarega kûmwathîkîra akîaria arî îgûrû ?
+58013006	N'ûû		Kwoogu ga tuugeeni ûûgû , " Mwathani n'we mûnteethia , ntiîgua ûguaya . N'ûû ûûmbûûria ? "
+59002006	~		Îndî biû bûtionaga nkîa ta antû ! Î rîo rî , anga twa itonga wabibu bibûcegagîîra na bikabûthûngîria magambaani ?
+59002014	kîrîkû		Inkûbûûria , aruayia na aarayia , kûrî na gîtûmi kîrîkû muntû kuugaga arî na wîtîgio atakwonania na mantû mara arûthaga ? Wîtîgio ta bûbu bwamwonokia ?
+59002016a	~		
+59002016b	kîrîkû		Kûrî na gîtûmi kîrîkû ûmwîra , " Îthi bwega , wîrigîîrie mpîo , na ûrîe ûbae , " ûtakûmwaa bibu atarî na bio ?
+59002018	~		Muntû nwa auge , " Niû i wîtîgio ndî . " Ûngî n'we akauga , " Niû i mantû meega ndûthaga . " Woû uugaga ûgu rî , tambonia bûra muntû aûmba kwîgua arî na wîtîgio na atakûrûtha mantû meega . Niû ngakwonia wîtîgio bwakwa kuumania na mantû mara ndûthaga .
+59002021	mbi		I mbi yatûmire Ngai oona Îburaîmu , kîûyûyû gîetû arî muntû ûmwagîru ? Ti bûra aarûthire weegua neetîgagîîria kûruta Isaka mwana wake arî kîgongwana ?
+59003013	N'ûû		N'ûû wacienu arî na ûûme na ûmenyo ? Weegua kûrî we noonanie na mûtûûrîre wake ûmwega na mantû meega mara arûthaga arî na kwinyithia kuumania na ûûme bûra arî .
+59003017	~		Îndî ûûme bwa kuuma kîrî Ngai i bûûtheru , ibwendeete ûkiri , ûbooreru , kûthikanagîîria na kûûyûrwa i kîao . Bûciaraga mantû meega , bûtirî kîmenyano na bûtiîtuîkithagia kîra muntû atarî .
+59004001a	kû		I kû ndûa na matheta gatîgatîîni keenu biumaga ? Biumanagia na mawîrirîîria meenu maathûûku mara makaraga makîrûaga ndeni ya mîîrî yenu .
+59004001b	~		
+59004012	ûû		I Ngai wenka eeyanire watho , na n'we wenka mûgambithania . Nwa we wenka aûmba kwonokia kana kwînyangia . Ûrîthûgaania ûrî ûû rîra ûkûgiitîra muntû ûra ûngî îgamba ?
+59004014	mbi		Bûkiuga ûgu , bûtiiyî bûra gûgaakara rûû ! Mwoyo wenu îîndî i mbi ? Mwoyo i ta ngooki bûra yonekanaga kagiita gaakai , îgacooka îkaûra .
+60002020	~		Gûtirî gîtûmi gîa gûkumia kûûmîîria kwa muntû ûkaaya kwîgua arîûmîîria îkaanûkia akaanûkîîtue n'ûntû bwa kûrûtha mabîtia . Îndî ûkaaya kwîgua muntû arîûmîîria îkaanûkia eetwe rîo gûtarî mabîtia arûthîîte , bûbu n'ûntû bwa gûkaathîrwa i Ngai .
+60003013	N'ûû		N'ûû abûrûthîra ûntû bûthûûku mûtugo wenu ûrî wa kûrûtha mantû meega ?
+60004017	ata		Kagiita i gaakinyu ga kûgiitîrwa îgamba . Na bara barî ba Ngai i bo bakaanjîîria . Na waya kwîgua tiû eetîgîri i tiû tûkaanjîîria kûgiitîrwa îgamba rî , î bara bataathîkagîra ntheto îmbega ya Ngai bûrîthûgaania rîao rîkaagiitwa ata ?
+60004018	ata		Kwandîkîîtwe Maandîko Maatheru , " Ûkaaya kwîgua bûrî inya muntû ûmwagîru kwonokua rî , î bara batarî ba Ngai na eeyia tuuge ata bwao ? "
+61003004	Arî kû		Na bakaamînyûrûntaga bakauga , " Yiesû akuuga akaaya kaîrî îîndî arî kû ? Kuuma wo tene rîra nthîgûrû yaûmbirwe nthuke cia biûyûûyû ciakua mwanka îmunthî tûrî mantû makari wabûra maakari . "
+61003011	ata		N'ûntû ûgu i bu bionthe bikaathirua , thûgaaniani bûmenye bûbatîîrue bwîgua bûrî antû bakari ata . Mîkarîre yenu îbatîîrue îîgua îrî îmîtheru na îrî ya kîîngai ,
+62002022	n'ûû		Îîndî rî , mûûrongo n'ûû ? N'ûra augaga Yiesû t'we Kîrîstû . Ûyû n'we mûregi Kîrîstû ûra aregaga Ngai Baaba na Mwana wake .
+62003012	mbi		Tûtigaakare ta Kaini ûra wa Nkoma , ûra aûragire mûruagina . I mbi yatûmire amûûraga ? N'ûntû Kaini aarûthaga ûthûûku , îndî mûruagina aarûthaga bûra kwaagîrîte .
+62003017	n'ata		Muntû akaaya kwîgua arî na into biingî bia kûmûgana na akoona mwîtîgîri ûra ûngî atarî gîntû na akarega kûmûteethia , n'ata muntû ta ûyu aûmba kuuga arî na wendo bwa Ngai ndeni yake ?
+62004020	~		Ûra augaga neendeete Ngai na athûîre eetîgîri bara bangî n'ûrongo aaragia , n'ûntû atiûmba kwenda Ngai ûra atoona , îndî amena mwîtîgîri ûra oonaga .
+62005005	n'ûû		Na n'ûû we aûmba gûcinda nthîgûrû , twanga ûra eetîgîîtie Yiesû i Mwana wa Ngai ?
+66005002	N'ûû		Ndoona mûraîka oonanagia naarî na inya înene aûria na kayû kaaraaya , " N'ûû aagîrîte ûntû arûmûra mûûra ûyû ûgwatithanîîtie îbuku rîrî akarîkûnjûra ? "
+66006010a	rî		Mîoyo înu yaaria na inya , yauga , " Mûtheru , Mwathani wa mma , i mwanka rî tûgeeteera ûgambithia antû ba nthîgûrû , ûrîie nthakame yetû ? "
+66006010b	~		
+66006017	n'ûû		Ntugû îra nene ya kwonania mûthûûro wao îgûkinya na îtiûmîîrîka kinya n'ûû ! "
+66007013a	ûû		Ûmwe wa akûrû bara ambûûria , " I ba ûû baba beekîrîte ndwambambio injerû , 
+66007013b	kû		na i kû baumîîte ? "
+66013004a	N'ûû		Kîagonga njoka înu yarî nene ûgu n'ûntû bwa inya înu ya yo yeere nyamû înu . Baagonga nyamû înu , bauga , " N'ûû aganaane na îno ? 
+66013004b	N'ûû		N'ûû amîota ? "
+66015004a	n'ûû		N'ûntû Mwathani , i woû wenka mûtheru , n'ûû atagîgûkuthûka , 
+66015004b	~		atûme riîtwa rîaku rîtîîywa ? Mîgongo yonthe ya nthîgûrû îkaaya îkûgonge n'ûntû mantû maagîru mara ûrûthaga i maiyîkeene . "
+66017007	mbi		Mûraîka aambûûria , " I mbi îgûkûrigaria ûûgû ? Ngakuumbûrîra kîriga kîra kîrî oogo îgûrû rîa mûka ûyû na nyamû îno atwete îrî na biongo mûgwanja na ngoci îkûmi .
+66018018	~		Boona ntoogo Mbabironi îkîbîa bakauga na inya , " Gûtooneka taûni îngî înene ta îno ! "

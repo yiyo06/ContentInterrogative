@@ -1,0 +1,743 @@
+40002002	Ble		i ofyn , “ Ble mae'r un sydd newydd gael ei eni yn frenin yr Iddewon ? Gwelon ni ei seren yn codi yn y dwyrain , a dŷn ni yma i dalu teyrnged iddo . ”
+40002004	Ble		Felly galwodd Herod y prif offeiriaid a'r arbenigwyr yn y Gyfraith Iddewig i'w gyfarfod . Gofynnodd iddyn nhw , “ Ble mae'r Meseia i fod i gael ei eni ? ”
+40003007	Pwy		Dyma rai o'r Phariseaid a'r Sadwceaid yn dod i gael eu bedyddio ganddo . Pan welodd Ioan nhw , dwedodd yn blaen wrthyn nhw : “ Dych chi fel nythaid o nadroedd ! Pwy sydd wedi'ch rhybuddio chi i ddianc rhag y gosb sy'n mynd i ddod ?
+40005013	pa		“ Chi ydy halen y ddaear . Ond pan mae'r halen wedi colli ei flas pa obaith sydd i'w wneud yn hallt eto ? Dydy e'n dda i ddim ond i'w daflu i ffwrdd a'i sathru dan draed .
+40005046	pam		Pam dylech chi gael gwobr am garu'r bobl hynny sy'n eich caru chi ? Onid ydy hyd yn oed y rhai sy'n casglu trethi i Rufain yn gwneud cymaint â hynny ?
+40005047	beth		Ac os mai dim ond eich teip chi o bobl dych chi'n eu cyfarch , beth dych chi'n ei wneud sy'n wahanol ? Mae hyd yn oed y paganiaid yn gwneud hynny !
+40006027	~		Allwch chi ddim hyd yn oed gwneud eich bywyd eiliad yn hirach trwy boeni !
+40006028	pham		“ A pham poeni am ddillad ? Meddyliwch sut mae blodau gwyllt yn tyfu . Dydy blodau ddim yn gweithio nac yn nyddu .
+40006031a	beth		Peidiwch poeni felly , a dweud , ‘ Beth wnawn ni fwyta ? ’ 
+40006031b	beth		neu ‘ Beth wnawn ni yfed ? ’ 
+40006031c	beth		neu ‘ Beth wisgwn ni ? ’
+40007003	Pam		“ Pam wyt ti'n poeni am y sbecyn o flawd llif sydd yn llygad rhywun arall , pan mae trawst o bren yn sticio allan o dy lygad dy hun ! ?
+40007004	Sut		Sut alli di ddweud , ‘ Gad i mi dynnu'r sbecyn yna allan o dy lygad di , ’ pan mae trawst yn sticio allan o dy lygad dy hun ?
+40007009	pwy		“ Pwy ohonoch chi fyddai'n rhoi carreg i'ch plentyn pan mae'n gofyn am fara ?
+40007016a	~		Y ffordd i'w nabod nhw ydy drwy edrych ar y ffrwyth yn eu bywydau nhw . Dydy grawnwin ddim yn tyfu ar ddrain , 
+40007016b	~		na ffigys ar ysgall .
+40008026	Pam		“ Pam dych chi mor ofnus ? ” meddai Iesu , “ Ble mae'ch ffydd chi ? ” Yna cododd ar ei draed a cheryddu'r gwynt a'r tonnau , ac yn sydyn roedd pobman yn hollol dawel .
+40008027	Beth		Roedd y disgyblion yn gwbl syfrdan . “ Beth ydyn ni i'w wneud o'r dyn yma ? ” medden nhw , “ Mae hyd yn oed y gwyntoedd a'r tonnau yn ufuddhau iddo ! ”
+40008029	~		Dyma nhw'n gweiddi'n uchel , “ Gad di lonydd i ni Fab Duw ! Wyt ti wedi dod yma i'n poenydio ni cyn i'r amser pan fydd hynny'n digwydd ddod ? ”
+40009004	Pam		Ond roedd Iesu'n gwybod yn iawn beth oedd yn mynd trwy eu meddyliau , ac meddai , “ Pam dych chi'n meddwl yn ddrwg amdana i ?
+40009005	Beth		Beth ydy'r peth hawsaf i'w ddweud — ‘ Mae dy bechodau wedi eu maddau , ’ neu , ‘ Cod ar dy draed a cherdda ’ ?
+40009011	Pam		Wrth weld hyn , dyma'r Phariseaid yn gofyn i'w ddisgyblion , “ Pam mae eich athro yn bwyta gyda'r bradwyr sy'n casglu trethi i Rufain a phobl eraill sy'n ddim byd ond ‛ pechaduriaid ‛ ? ”
+40009014	Pam		Dyma ddisgyblion Ioan yn dod ato a gofyn iddo , “ Dŷn ni a'r Phariseaid yn ymprydio , ond dydy dy ddisgyblion di ddim . Pam ? ”
+40009015	~		Atebodd Iesu nhw , “ Dydy pobl ddim yn mynd i wledd briodas i fod yn drist ac i alaru ! Maen nhw yno i ddathlu gyda'r priodfab ! Ond bydd y priodfab yn cael ei gymryd i ffwrdd oddi wrthyn nhw , a byddan nhw'n ymprydio bryd hynny .
+40010025	~		Mae'n ddigon i ddisgybl fod yn debyg i'w athro , ac i gaethwas fod yn gyfartal â'i feistr . Os ydy pennaeth y tŷ yn cael ei alw'n Beelsebwl ( hynny ydy y diafol ) , ydy pawb arall yn y teulu yn disgwyl cael pethau'n haws ?
+40011007	sut		Wrth i ddisgyblion Ioan adael , dechreuodd Iesu siarad â'r dyrfa am Ioan : “ Sut ddyn aethoch chi allan i'r anialwch i'w weld ? Brwynen wan yn cael ei chwythu i bob cyfeiriad gan y gwynt ?
+40011008	Pam		Na ? Pam aethoch chi allan felly ? I weld dyn mewn dillad crand ? Wrth gwrs ddim ! Mewn palasau mae pobl grand yn byw !
+40011009	pam		Felly , pam aethoch chi allan ? I weld proffwyd ? Ie , a dw i'n dweud wrthoch chi ei fod e'n fwy na phroffwyd .
+40011016	sut		“ Sut mae disgrifio'r genhedlaeth yma ? Mae hi fel plant yn eistedd yn sgwâr y farchnad yn cwyno am ei gilydd fel hyn :
+40012011	~		Atebodd nhw , “ Petai dafad un ohonoch chi'n syrthio i ffos ar y Saboth , fyddech chi ddim yn mynd i'w chodi hi allan ?
+40012026	sut		Os ydy Satan yn ymladd yn erbyn ei hun , a'i deyrnas wedi ei rhannu , sut mae'n bosib i'w deyrnas sefyll ?
+40012027	pwy		Os mai Beelsebwl sy'n rhoi'r gallu i mi , pwy sy'n rhoi'r gallu i'ch dilynwyr chi ? Byddan nhw'n eich barnu chi .
+40012029	sut		“ Neu sut all rhywun fynd i mewn i gartre'r dyn cryf a dwyn ei eiddo heb rwymo'r dyn cryf yn gyntaf ? Bydd yn gallu dwyn popeth o'i dŷ wedyn .
+40012034	Sut		Dych chi fel nythaid o nadroedd ! Sut allwch chi sy'n ddrwg ddweud unrhyw beth da ? Mae'r hyn mae pobl yn ei ddweud yn dangos beth sy'n eu calonnau nhw .
+40012048a	pwy		Dyma fe'n ateb , “ Pwy ydy fy mam ? 
+40012048b	pwy		Pwy ydy fy mrodyr i ? ”
+40013010	Pam		Daeth y disgyblion ato a gofyn , “ Pam wyt ti'n dweud y straeon yma wrthyn nhw ? ”
+40013027	o ble		“ Daeth gweision y ffermwr ato a dweud , ‘ Feistr , onid yr had gorau gafodd ei hau yn dy gae di ? O ble mae'r holl chwyn yma wedi dod ? ’
+40013054a	ble		i Nasareth lle cafodd ei fagu . Dechreuodd ddysgu'r bobl yn eu synagog , ac roedden nhw'n rhyfeddu ato . “ Ble gafodd hwn y fath ddoethineb , 
+40013054b	~		a'r gallu yma i wneud gwyrthiau ? ” medden nhw .
+40013056	ble		Mae ei chwiorydd i gyd yn byw yma ! Felly , ble cafodd e hyn i gyd ? ”
+40014031	Pam		Dyma Iesu'n estyn ei law allan a gafael ynddo . “ Ble mae dy ffydd di ? ” meddai wrtho , “ Pam wnest ti amau ? ”
+40015002	Pam		“ Pam mae dy ddisgyblion di yn gwneud beth sy'n groes i'r traddodiad ? Maen nhw'n bwyta heb fynd drwy'r ddefod o olchi eu dwylo ! ”
+40015003	pham		Atebodd Iesu , “ A pham dych chi'n mynd yn groes i orchymyn Duw er mwyn cadw'ch traddodiadau ?
+40015033	Ble		Meddai'r disgyblion , “ Ble gawn ni ddigon o fara i fwydo'r fath dyrfa mewn lle mor anial ! ”
+40015034	Sawl		“ Sawl torth o fara sydd gynnoch chi ? ” meddai Iesu . “ Saith , ” medden nhw , “ a rhyw ychydig o bysgod bach . ”
+40016008	Pam		Roedd Iesu'n gwybod beth oedden nhw'n ei drafod , ac meddai , “ Ble mae'ch ffydd chi ? Pam dych chi'n poeni eich bod heb fara ?
+40016009	sawl		Ydych chi'n dal ddim yn deall ? Ydych chi ddim yn cofio'r pum torth i fwydo'r pum mil , a sawl basgedaid wnaethoch chi eu casglu ?
+40016010a	~		Neu'r saith torth i fwydo'r pedair mil , 
+40016010b	sawl		a sawl llond cawell wnaethoch chi eu casglu ?
+40016011	~		Ydych chi ddim yn gweld mod i ddim yn siarad am fara go iawn ? Dw i am i chi gadw draw oddi wrth furum y Phariseaid a'r Sadwceaid . ”
+40016013	Pwy		Pan gyrhaeddodd Iesu ardal Cesarea Philipi , gofynnodd i'w ddisgyblion , “ Pwy mae pobl yn ei ddweud ydw i , Mab y Dyn ? ”
+40016015a	beth		“ Ond beth amdanoch chi ? ” meddai . 
+40016015b	pwy		“ Pwy dych chi'n ddweud ydw i ? ”
+40016026a	beth		Beth ydy'r pwynt o gael popeth sydd gan y byd i'w gynnig , a cholli'r enaid ? 
+40016026b	beth		Oes unrhyw beth sy'n fwy gwerthfawr na'r enaid ?
+40017010	pam		Dyma'r disgyblion yn gofyn iddo , “ Felly pam mae'r arbenigwyr yn y Gyfraith yn dweud fod rhaid i Elias ddod yn ôl cyn i'r Meseia gyrraedd ? ”
+40017017a	am faint		“ Pam dych chi mor ystyfnig ac amharod i gredu ? ” meddai Iesu , “ Am faint dw i'n mynd i aros gyda chi ? 
+40017017b	am faint		Am faint alla i'ch dioddef chi ? Tyrd â'r bachgen yma ata i . ”
+40017019	Pam		Dyma'r disgyblion yn gofyn yn breifat i Iesu , “ Pam oedden ni'n methu ei fwrw allan ? ”
+40017025a	beth		“ Ydy , mae e ” atebodd Pedr . Pan aeth Pedr adre , cyn iddo gael cyfle i ddweud gair , dyma Iesu'n gofyn iddo , “ Simon , beth wyt ti'n feddwl ? 
+40017025b	bwy		Gan bwy mae brenhinoedd yn casglu tollau a threthi — gan eu plant eu hunain neu gan bobl eraill ? ”
+40018001	Pwy		Bryd hynny daeth y disgyblion at Iesu a gofyn iddo , “ Pwy ydy'r pwysica yn nheyrnas yr Un nefol ? ”
+40018012	Beth		“ Beth ydych chi'n feddwl ? Meddyliwch am ddyn a chant o ddefaid ganddo , a bod un ohonyn nhw'n crwydro i ffwrdd . Oni fyddai'n gadael y naw deg naw ar y bryniau ac yn mynd i chwilio am yr un sydd ar goll ?
+40018021	sawl gwaith		Gofynnodd Pedr i Iesu , “ Arglwydd , sawl gwaith ddylwn i faddau i frawd neu chwaer sy'n dal i bechu yn fy erbyn ? Gymaint â saith gwaith ? ”
+40019007	pam		Ond dyma nhw'n gofyn iddo , “ Ond pam felly wnaeth Moses ddweud fod rhaid i ddyn roi tystysgrif ysgariad i'w wraig cyn ei hanfon i ffwrdd ? ”
+40019016	pa		Daeth dyn at Iesu a gofyn iddo , “ Athro , pa weithred dda sy'n rhaid i mi ei gwneud i gael bywyd tragwyddol ? ”
+40019017	Pam		“ Pam wyt ti'n gofyn i mi am beth sy'n dda ? ” atebodd Iesu . “ Does dim ond Un sy'n dda , a Duw ydy hwnnw . Os wyt ti eisiau mynd i'r bywyd , ufuddha i'r gorchmynion . ”
+40019018	pa rai		“ Pa rai ? ” meddai . Atebodd Iesu , “ ‘ Peidio llofruddio , peidio godinebu , peidio dwyn , peidio rhoi tystiolaeth ffals ,
+40019020	~		“ Dw i wedi cadw'r rheolau yma i gyd , ” meddai'r dyn ifanc . “ Ond mae rhywbeth ar goll . ”
+40019025	~		Roedd y disgyblion yn rhyfeddu wrth ei glywed yn dweud hyn . “ Oes gobaith i unrhyw un gael ei achub felly ? ” medden nhw .
+40019027	beth		Yna dyma Pedr yn ymateb , “ Ond dŷn ni wedi gadael y cwbl i dy ddilyn di ! Felly beth fyddwn ni'n ei gael ? ”
+40020006	Pam		Hyd yn oed am bump o'r gloch y p'nawn gofynnodd i ryw bobl , ‘ Pam dych chi'n sefyllian yma yn gwneud dim byd trwy'r dydd ? ’
+40020012	~		‘ Dim ond am awr weithiodd y rhai olaf yna , ’ medden nhw , ‘ A dych chi wedi rhoi'r un faint iddyn nhw ag i ni sydd wedi gweithio'n galed drwy'r dydd . ’
+40020021	Beth		“ Beth ga i wneud i chi ? ” gofynnodd Iesu . Dyma'r fam yn ateb , “ Baswn i'n hoffi i'm meibion i gael eistedd bob ochr i ti pan fyddi'n teyrnasu . ”
+40020032	Beth		Dyma Iesu'n stopio , a'u galw nhw draw a gofyn , “ Beth ga i wneud i chi ? ”
+40021010	Pwy		Roedd y ddinas gyfan mewn cynnwrf pan aeth Iesu i mewn i Jerwsalem . “ Pwy ydy hwn ? ” meddai rhai .
+40021016	beth		“ Wyt ti ddim yn clywed beth mae'r plant yma'n ei ddweud ? ” medden nhw wrtho . “ Ydw , ” atebodd Iesu . “ Ydych chi erioed wedi darllen yn yr ysgrifau sanctaidd , “ ‘ Rwyt wedi dysgu plant a babanod i dy foli di ’ ? ”
+40021020	Sut		Pan welodd y disgyblion hyn roedden nhw wedi eu syfrdanu . “ Sut wnaeth y goeden wywo mor sydyn ? ” medden nhw .
+40021023a	pa		Dyma Iesu'n mynd i gwrt y deml a dechrau dysgu'r bobl yno . A dyma'r prif offeiriaid a'r arweinwyr Iddewig eraill yn dod ato , a gofyn iddo “ Pa hawl sydd gen ti i wneud beth wnest ti ? 
+40021023b	pwy		Pwy roddodd yr awdurdod i ti ? ”
+40021025a	~		Roedd Ioan yn bedyddio . Ai Duw anfonodd e neu ddim ? ” Wrth drafod y peth gyda'i gilydd , dyma nhw'n dweud , “ Os atebwn ni ‘ Ie ’ , 
+40021025b	~		bydd yn gofyn i ni , 
+40021025c	pam		‘ Pam doeddech chi ddim yn ei gredu felly ? ’
+40021028	Beth		“ Beth ydych chi'n feddwl ? Roedd rhyw ddyn a dau o blant ganddo . Meddai wrth yr hynaf , ‘ Dos i weithio yn y winllan heddiw . ’
+40021031	Pa un		“ Pa un o'r ddau fab wnaeth beth oedd y tad eisiau ? ” “ Y cyntaf , ” medden nhw . Meddai Iesu wrthyn nhw , “ Credwch chi fi , bydd y rhai sy'n casglu trethi i Rufain a'r puteiniaid yn dod i berthyn i deyrnasiad Duw o'ch blaen chi !
+40021040	beth		“ Felly , beth fydd y dyn biau'r winllan yn ei wneud i'r tenantiaid pan ddaw yn ôl ? ”
+40022012	sut		‘ Gyfaill , ’ meddai wrtho , ‘ sut wnest ti lwyddo i ddod i mewn yma heb fod yn gwisgo dillad ar gyfer priodas ? ’ Allai'r dyn ddim ateb .
+40022017	beth		Felly , beth ydy dy farn di ? Ydy'n iawn i ni dalu trethi i lywodraeth Rhufain ? ”
+40022018	Pam		Ond roedd Iesu'n gwybod mai drwg oedden nhw'n ei fwriadu , ac meddai wrthyn nhw , “ Dych chi mor ddauwynebog ! Pam dych chi'n ceisio nal i ?
+40022020a	pwy		a dyma fe'n gofyn iddyn nhw , “ Llun pwy ydy hwn ? 
+40022020b	bwy		Am bwy mae'r arysgrif yma'n sôn ? ”
+40022028	pa un		Dyma'n cwestiwn ni : Pan fydd yr atgyfodiad yn digwydd , gwraig pa un o'r saith fydd hi ? Roedd hi wedi bod yn wraig iddyn nhw i gyd ! ”
+40022036	Pa un		“ Athro , Pa un o'r gorchmynion yn y Gyfraith ydy'r pwysica ? ”
+40022042a	beth		“ Beth ydy'ch barn chi am y Meseia ? 
+40022042b	pwy		Mab pwy ydy e ? ” “ Mab Dafydd , ” medden nhw .
+40022043	sut		A dyma Iesu'n dweud , “ Os felly , sut mae Dafydd , dan ddylanwad yr Ysbryd , yn ei alw'n ‛ Arglwydd ‛ ? Achos mae'n dweud ,
+40022045	~		
+40023017	Pa un		Y ffyliaid dall ! Pa un ydy'r pwysica — y trysor , neu'r deml sy'n gwneud y trysor yn gysegredig ?
+40023019	Pa un		Dych chi mor ddall ! Pa un ydy'r pwysica — yr offrwm , neu'r allor sy'n gwneud yr offrwm yn gysegredig ?
+40023033	Sut		“ Dych chi fel nythaid o nadroedd gwenwynig ! Sut allwch chi osgoi cael eich dedfrydu i uffern ! ?
+40024003a	pryd		Yn nes ymlaen , pan oedd Iesu'n eistedd ar ochr Mynydd yr Olewydd , daeth ei ddisgyblion ato yn breifat a gofyn , “ Pryd mae beth roeddet ti'n sôn amdano yn mynd i ddigwydd ? 
+40024003b	~		Fydd unrhyw rybudd i ddangos i ni dy fod di'n dod , a bod diwedd y byd wedi cyrraedd ? ”
+40024045	pwy		“ Felly pwy ydy'r swyddog doeth mae'r meistr yn gallu dibynnu arno ? Mae wedi ei benodi i fod yn gyfrifol am y gweision i gyd , ac i'w bwydo'n rheolaidd .
+40025037	pryd		“ Ond bydd y rhai cyfiawn yma yn gofyn iddo , ‘ Arglwydd , pryd welon ni ti'n llwgu a rhoi rhywbeth i ti i'w fwyta , neu'n sychedig a rhoi diod i ti ?
+40025038	Pryd		Pryd wnaethon ni dy groesawu di pan oeddet ti'n nabod neb , neu roi dillad i ti pan oeddet ti'n noeth ?
+40025039	Pryd		Pryd welon ni ti'n sâl neu yn y carchar a mynd i ymweld â ti ? ’
+40025044	pryd		“ A byddan nhw'n gofyn iddo , ‘ Arglwydd , pryd welon ni ti'n llwgu neu'n sychedig , neu'n nabod neb neu'n noeth neu'n sâl neu yn y carchar , a gwrthod dy helpu di ? ’
+40026008	~		Roedd y disgyblion yn wyllt pan welon nhw hi'n gwneud hyn . “ Am wastraff ! ” medden nhw ,
+40026010	~		Roedd Iesu'n gwybod beth oedden nhw'n ei ddweud , ac meddai wrthyn nhw , “ Gadewch lonydd i'r wraig ! Mae hi wedi gwneud peth hyfryd .
+40026015	Faint		a gofyn iddyn nhw , “ Faint wnewch chi dalu i mi os wna i ei fradychu e ? ” A dyma nhw'n cytuno i roi tri deg darn arian iddo .
+40026017	Ble		Ar ddiwrnod cyntaf Gŵyl y Bara Croyw , gofynnodd y disgyblion i Iesu , “ Ble rwyt ti am fwyta swper y Pasg ? — i ni fynd i'w baratoi . ”
+40026040	~		Pan aeth yn ôl at ei ddisgyblion roedden nhw'n cysgu . A meddai wrth Pedr , “ Felly , allech chi ddim cadw golwg gyda mi am un awr fechan ?
+40026050	beth		“ Gwna beth rwyt wedi dod yma i'w wneud gyfaill , ” meddai Iesu wrtho . Yna gafaelodd y lleill yn Iesu a'i arestio .
+40026054	sut		Ond sut wedyn fyddai'r ysgrifau sanctaidd sy'n dweud fod rhaid i hyn i gyd ddigwydd yn dod yn wir ? ”
+40026062a	~		Felly dyma'r archoffeiriad yn codi ar ei draed a dweud wrth Iesu , “ Wel , oes gen ti ateb ? 
+40026062b	beth		Beth am y dystiolaeth yma yn dy erbyn di ? ”
+40026065	Pam		Wrth glywed beth ddwedodd Iesu , dyma'r archoffeiriad yn rhwygo ei ddillad . “ Cabledd ! ” meddai , “ Pam mae angen tystion arnon ni ? ! Dych chi i gyd newydd ei glywed yn cablu .
+40026066	Beth		Beth ydy'ch dyfarniad chi ? ” Dyma nhw'n ateb , “ Rhaid iddo farw ! ”
+40026068	Pwy		ac yna'n dweud , “ Tyrd ! Proffwyda i ni , Feseia ! Pwy wnaeth dy daro di y tro yna ? ”
+40027004	~		“ Dw i wedi pechu ; ” meddai , “ dw i wedi bradychu dyn cwbl ddieuog . ” “ Does dim ots gynnon ni . ” medden nhw , “ Dy gyfrifoldeb di ydy hynny . ”
+40027013	~		A dyma Peilat yn gofyn iddo , “ Wyt ti ddim yn clywed y cyhuddiadau yma sydd ganddyn nhw yn dy erbyn di ? ”
+40027017	Pa un		Felly pan oedd y dyrfa wedi ymgasglu , dyma Peilat yn gofyn iddyn nhw , “ Pa un o'r ddau dych chi am i mi ei ollwng yn rhydd ? Barabbas , neu Iesu , yr un sy'n cael ei alw ‛ Y Meseia ‛ ? ”
+40027021	Pa un		Gofynnodd y llywodraethwr eto , “ Pa un o'r ddau yma dych chi eisiau i mi ei ryddhau ? ” Dyma nhw'n ateb , “ Barabbas ! ”
+40027022	beth		“ Felly , beth dw i i'w wneud gyda'r Iesu yma , sy'n cael ei alw ‛ Y Meseia ‛ ? ” Dyma nhw i gyd yn gweiddi , “ Ei groeshoelio ! ”
+40027023a	pam		“ Pam ? ” meddai Peilat , 
+40027023b	beth		“ Beth mae e wedi ei wneud o'i le ? ” Ond dyma nhw'n dechrau gweiddi'n uwch , “ Croeshoelia fe ! ”
+40027046	pam		Yna am dri o'r gloch gwaeddodd Iesu'n uchel , “ Eli , Eli , lama sabachthani ? ” — sy'n golygu , “ Fy Nuw , fy Nuw , pam wyt ti wedi troi dy gefn arna i ? ”
+41001024	~		“ Gad di lonydd i ni , Iesu o Nasareth . Rwyt ti yma i'n dinistrio ni . Dw i'n gwybod pwy wyt ti — Un Sanctaidd Duw ! ”
+41001027	Beth		Roedd pawb wedi cael sioc , ac yn gofyn i'w gilydd , “ Beth sy'n mynd ymlaen ? Mae'r hyn mae'n ei ddysgu yn newydd — mae ganddo'r fath awdurdod ! Mae hyd yn oed ysbrydion drwg yn gorfod ufuddhau iddo . ”
+41002007a	sut		“ Sut mae'n gallu dweud y fath beth ? Cabledd ydy dweud peth felly ! 
+41002007b	~		Duw ydy'r unig un sy'n gallu maddau pechodau ! ”
+41002008	Pam		Roedd Iesu'n gwybod yn iawn mai dyna oedden nhw'n ei feddwl , ac meddai wrthyn nhw , “ Pam dych chi'n meddwl mod i'n cablu ?
+41002009	Beth		Beth ydy'r peth hawsaf i'w ddweud wrth y dyn — ‘ Mae dy bechodau wedi eu maddau , ’ neu , ‘ Cod ar dy draed , cymer dy fatras a cherdda ’ ?
+41002016	Pam		Wrth iddyn nhw ei weld e'n bwyta gyda ‛ pechaduriaid ‛ a casglwyr trethi , dyma rai o'r Phariseaid oedd yn arbenigwyr yn y Gyfraith yn gofyn i'w ddisgyblion : “ Pam mae e'n bwyta gyda'r bradwyr sy'n casglu trethi i Rufain , a phobl eraill sy'n ddim byd ond ‛ pechaduriaid ‛ ? ”
+41002018	Pam		Roedd disgyblion Ioan a'r Phariseaid yn ymprydio ( hynny ydy , peidio bwyta am gyfnod er mwyn ceisio canolbwyntio'n llwyr ar Dduw ) . Felly dyma rhyw bobl yn gofyn i Iesu , “ Mae disgyblion Ioan a disgyblion y Phariseaid yn ymprydio , ond dydy dy ddisgyblion di ddim . Pam ? ”
+41002019	~		Atebodd Iesu nhw , “ Dydy pobl ddim yn mynd i wledd briodas i ymprydio ! Maen nhw yno i ddathlu gyda'r priodfab . Maen nhw yno i fwynhau eu hunain !
+41002024	Pam		“ Edrych ! ” meddai'r Phariseaid , “ Pam mae dy ddisgyblion di yn torri rheolau'r Gyfraith ar y Saboth ? ”
+41003004	beth		Wedyn dyma Iesu'n gofyn i'r rhai oedd eisiau ei gyhuddo , “ Beth mae'r Gyfraith yn ei ddweud sy'n iawn i'w wneud ar y dydd Saboth : pethau da neu bethau drwg ? Achub bywyd neu ladd ? ” Ond wnaeth neb ateb .
+41003023	Sut		Felly dyma Iesu'n eu galw draw ac yn eu hateb drwy ddefnyddio darlun : “ Sut mae Satan yn gallu bwrw ei hun allan ?
+41003033a	pwy		Atebodd , “ Pwy ydy fy mam 
+41003033b	~		a'm brodyr i ? ”
+41004013	sut		“ Os dych chi ddim yn deall y stori yma , sut dych chi'n mynd i ddechrau deall unrhyw stori gen i !
+41004030a	sut		Gofynnodd wedyn : “ Sut mae disgrifio teyrnasiad Duw ? 
+41004030b	pa		Pa ddarlun arall allwn ni ddefnyddio ?
+41004038	~		Ond roedd Iesu'n cysgu'n drwm drwy'r cwbl ar glustog yn starn y cwch . Dyma'r disgyblion mewn panig yn ei ddeffro , “ Athro , wyt ti ddim yn poeni ein bod ni'n mynd i foddi ? ”
+41004040a	pam		Yna meddai wrth ei ddisgyblion , “ Pam dych chi mor ofnus ? 
+41004040b	~		Ydych chi'n dal ddim yn credu ? ”
+41004041	Pwy		Roedden nhw wedi eu syfrdanu'n llwyr . “ Pwy ydy hwn ? ” medden nhw , “ Mae hyd yn oed y gwynt a'r tonnau yn ufuddhau iddo ! ”
+41005007	~		Rhoddodd sgrech a gwaeddodd nerth ei ben , “ Gad di lonydd i mi , Iesu , mab y Duw Goruchaf ! Paid poenydio fi er mwyn Duw ! ”
+41005009	Beth		Gofynnodd Iesu iddo wedyn , “ Beth ydy dy enw di ? ” “ Lleng ydw i , ” atebodd , “ achos mae llawer iawn ohonon ni yma . ”
+41005030	Pwy		Sylweddolodd Iesu fod nerth wedi llifo allan ohono , a throdd yng nghanol y dyrfa a gofyn , “ Pwy gyffyrddodd fy nillad i ? ”
+41005031	sut		Atebodd ei ddisgyblion , “ Sut alli di ofyn y fath gwestiwn a'r dyrfa yma'n gwthio o dy gwmpas di ? ”
+41005035	~		Tra roedd Iesu'n siarad , roedd rhyw bobl o dŷ Jairus wedi cyrraedd , a dweud wrtho , “ Mae dy ferch wedi marw , felly does dim pwynt poeni'r athro ddim mwy . ”
+41005039a	beth		Pan aeth Iesu i mewn dwedodd wrthyn nhw , “ Beth ydy'r holl sŵn yma ? 
+41005039b	pam		Pam dych chi'n crïo ? Dydy'r ferch fach ddim wedi marw — cysgu mae hi ! ”
+41006002a	ble		Ar y dydd Saboth dechreuodd ddysgu yn y synagog . Roedd y bobl oedd yn gwrando arno yn rhyfeddu . “ Ble wnaeth hwn ddysgu'r pethau yma i gyd ? ” medden nhw . 
+41006002b	ble		“ Ble gafodd e'r holl ddoethineb , 
+41006002c	~		a'r gallu i wneud gwyrthiau ?
+41006022	beth		Yn ystod y dathlu dyma ferch Herodias yn perfformio dawns . Roedd hi wedi plesio Herod a'i westeion yn fawr . Dwedodd Herod wrthi , “ Gofyn am unrhyw beth gen i , a bydda i'n ei roi i ti . ”
+41006024	beth		Aeth y ferch allan at ei mam , “ Am beth wna i ofyn ? ” , meddai wrthi . “ Gofyn iddo dorri pen Ioan Fedyddiwr , ” meddai ei mam wrthi .
+41006037	~		Ond atebodd Iesu , “ Rhowch chi rywbeth i'w fwyta iddyn nhw . ” “ Beth ? Ni ? ” medden nhw , “ Byddai'n costio ffortiwn i gael bwyd iddyn nhw i gyd ! ”
+41006038	faint		“ Ewch i weld faint o fwyd sydd ar gael , ” meddai . Dyma nhw'n gwneud hynny , a dod yn ôl a dweud , “ Pum torth fach a dau bysgodyn ! ”
+41007005	Pam		Gofynnodd y Phariseaid a'r arbenigwyr yn y Gyfraith i Iesu , “ Pam dydy dy ddisgyblion di ddim yn cadw'r traddodiad . Maen nhw'n bwyta heb olchi eu dwylo ! ”
+41008004	pa		Atebodd y disgyblion , “ Pa obaith sydd i unrhyw un ddod o hyd i ddigon o fwyd iddyn nhw yn y lle anial yma ? ! ”
+41008005	Sawl		Gofynnodd Iesu , “ Sawl torth o fara sydd gynnoch chi ? ” “ Saith , ” medden nhw .
+41008012	Pam		Ochneidiodd Iesu'n ddwfn , a dweud : “ Pam mae'r bobl yma o hyd yn gofyn am wyrth fyddai'n arwydd iddyn nhw o pwy ydw i ? Wir i chi , chân nhw ddim un gen i ! ”
+41008017	Pam		Roedd Iesu'n gwybod beth roedden nhw'n ddweud , a gofynnodd iddyn nhw : “ Pam dych chi'n poeni eich bod heb fara ? Ydych chi'n dal ddim yn deall ? Pryd dych chi'n mynd i ddysgu ? Ydych chi wedi troi'n ystyfnig ?
+41008018a	~		Ydych chithau hefyd yn ddall er bod llygaid gynnoch chi , 
+41008018b	~		ac yn fyddar er bod clustiau gynnoch chi ? Ydych chi'n cofio dim byd ?
+41008019	sawl		Pan o'n i'n rhannu'r pum torth rhwng y pum mil , sawl basgedaid o dameidiau oedd dros ben wnaethoch chi eu casglu ? ” “ Deuddeg , ” medden nhw .
+41008020	sawl		“ A phan o'n i'n rhannu'r saith torth i'r pedair mil , sawl llond cawell o dameidiau wnaethoch chi eu casglu ? ” “ Saith , ” medden nhw .
+41008021	~		“ Ydych chi'n dal ddim yn deall ? ” meddai Iesu wrthyn nhw .
+41008023	~		Gafaelodd Iesu yn llaw y dyn dall a'i arwain allan o'r pentref . Ar ôl poeri ar lygaid y dyn a gosod dwylo arno , gofynnodd Iesu iddo , “ Wyt ti'n gweld o gwbl ? ”
+41008027	Pwy		Aeth Iesu a'i ddisgyblion yn eu blaenau i'r pentrefi o gwmpas Cesarea Philipi . Ar y ffordd yno gofynnodd iddyn nhw , “ Pwy mae pobl yn ddweud ydw i ? ”
+41008029a	beth		“ Ond beth amdanoch chi ? ” gofynnodd , 
+41008029b	pwy		“ Pwy dych chi'n ddweud ydw i ? ” Atebodd Pedr , “ Ti ydy'r Meseia . ”
+41008036	Beth		Beth ydy'r pwynt o gael popeth sydd gan y byd i'w gynnig , a cholli'r enaid ?
+41008037	~		Oes gynnoch chi unrhyw beth sy'n fwy gwerthfawr na'r enaid ?
+41009010	beth		( Felly cafodd y digwyddiad ei gadw'n gyfrinach , ond roedden nhw'n aml yn trafod gyda'i gilydd beth oedd ystyr “ codi yn ôl yn fyw . ” )
+41009011	Pam		Dyma nhw'n gofyn iddo , “ Pam mae'r arbenigwyr yn y Gyfraith yn dweud fod rhaid i Elias ddod yn ôl cyn i'r Meseia gyrraedd ? ”
+41009012	pam		Atebodd Iesu , “ Mae Elias yn dod gyntaf reit siŵr , i roi trefn ar bopeth . Ond pam mae'r ysgrifau sanctaidd yn dweud fod Mab y Dyn yn mynd i ddioddef llawer a chael ei wrthod ?
+41009016	beth		“ Am beth dych chi'n ffraeo gyda nhw ? ” gofynnodd .
+41009019a	am faint		“ Pam dych chi mor amharod i gredu ? ” meddai Iesu , “ Am faint dw i'n mynd i aros gyda chi ? 
+41009019b	am faint		Am faint alla i'ch dioddef chi ? Dewch â'r bachgen yma . ”
+41009021	Ers faint		Dyma Iesu'n gofyn i'r tad , “ Ers faint mae e fel hyn ? ” “ Ers pan yn blentyn bach , ” atebodd y dyn .
+41009028	Pam		Ar ôl i Iesu fynd i mewn i dŷ , gofynnodd ei ddisgyblion iddo'n breifat , “ Pam oedden ni'n methu ei fwrw allan ? ”
+41009033	beth		Dyma nhw'n cyrraedd Capernaum . Pan oedd yn y tŷ lle roedden nhw'n aros gofynnodd Iesu i'r disgyblion , “ Am beth oeddech chi'n dadlau ar y ffordd ? ”
+41009050	pa		“ Mae halen yn beth defnyddiol , ond pan mae'n colli ei flas , pa obaith sydd i'w wneud yn hallt eto ? Byddwch â halen ynoch , a byw'n heddychlon gyda'ch gilydd . ”
+41010003	Beth		Atebodd Iesu , “ Beth oedd y gorchymyn roddodd Moses i chi ? ”
+41010017	Beth		Pan oedd Iesu ar fin gadael , dyma ddyn yn rhedeg ato a syrthio ar ei liniau o'i flaen . “ Athro da , ” meddai , “ Beth sydd rhaid i mi ei wneud i gael bywyd tragwyddol ? ”
+41010018	Pam		“ Pam wyt ti'n fy ngalw i'n dda ? ” meddai Iesu , “ Onid Duw ydy'r unig un sy'n dda ?
+41010026	~		Roedd y disgyblion yn rhyfeddu fwy fyth , ac yn gofyn i'w gilydd , “ Oes gobaith i unrhyw un gael ei achub felly ? ”
+41010036	beth		“ Beth ga i wneud i chi ? ” gofynnodd .
+41010051	Beth		Dyma Iesu'n gofyn iddo , “ Beth ga i wneud i ti ? ” “ Rabbwni , ” atebodd y dyn dall , “ Dw i eisiau gallu gweld . ”
+41011003	Beth		os bydd rhywun yn gofyn , ‘ Beth dych chi'n ei wneud ? ’ dwedwch , ‘ Mae'r meistr ei angen ; bydd yn ei anfon yn ôl wedyn . ’ ”
+41011005	Beth		dyma rhyw bobl oedd yn sefyll yno yn dweud , “ Hei ! Beth dych chi'n ei wneud ? ”
+41011028a	pa		a gofyn iddo “ Pa hawl sydd gen ti i wneud beth wnest ti ? 
+41011028b	pwy		Pwy roddodd yr awdurdod i ti ? ”
+41011030	~		Dwedwch wrtho i — Ai Duw anfonodd Ioan i fedyddio neu ddim ? ”
+41011031a	~		Wrth drafod y peth gyda'i gilydd , dyma nhw'n dweud , “ Os atebwn ni ‘ Ie ’ , bydd yn gofyn , 
+41011031b	pam		‘ Pam doeddech chi ddim yn ei gredu felly ? ’
+41012009	Beth		“ Beth fydd y dyn biau'r winllan yn ei wneud ? Dweda i wrthoch chi beth ! — bydd yn dod ac yn lladd y tenantiaid a rhoi'r winllan i rai eraill .
+41012015	Pam		Ddylen ni eu talu nhw neu ddim ? ” Ond roedd Iesu'n gweld eu twyll yn iawn . “ Pam dych chi'n ceisio nal i ? ” meddai wrthyn nhw . “ Dewch â darn arian i mi . ”
+41012016a	pwy		Dyma nhw'n rhoi un iddo , a dyma Iesu'n gofyn iddyn nhw , “ Llun pwy ydy hwn ? 
+41012016b	bwy		Am bwy mae'r arysgrif yma'n sôn ? ” “ Cesar , ” medden nhw .
+41012023	pwy		Dyma'n cwestiwn ni : Pan fydd yr atgyfodiad yn digwydd , gwraig pwy fydd hi ? Roedd hi wedi bod yn wraig i'r saith ohonyn nhw ! ”
+41012028	pa un		Roedd un o'r arbenigwyr yn y Gyfraith yno'n gwrando arnyn nhw'n dadlau . Pan welodd fod Iesu wedi rhoi ateb da iddyn nhw , gofynnodd yntau gwestiwn iddo . “ O'r holl orchmynion i gyd , pa un ydy'r pwysica ? ” gofynnodd .
+41012035	Pam		Pan oedd Iesu wrthi'n dysgu yng nghwrt y deml , gofynnodd , “ Pam mae'r arbenigwyr yn y Gyfraith yn dweud fod y Meseia yn fab i Dafydd ?
+41012037	~		
+41013004a	pryd		“ Pryd mae beth roeddet ti'n sôn amdano yn mynd i ddigwydd ? 
+41013004b	~		Fydd unrhyw rybudd cyn i'r pethau yma i gyd ddigwydd ? ”
+41014004	~		Roedd rhai o'r bobl oedd yno wedi digio go iawn — “ Am wastraff ! ” medden nhw ,
+41014006	Pam		“ Gadewch lonydd iddi , ” meddai Iesu . “ Pam dych chi'n ei phoeni hi ? Mae hi wedi gwneud peth hyfryd .
+41014012	Ble		Ar ddiwrnod cyntaf Gŵyl y Bara Croyw ( hynny ydy , y diwrnod pan oedd hi'n draddodiad i ladd oen y Pasg ) , gofynnodd disgyblion Iesu iddo , “ Ble rwyt ti am fwyta swper y Pasg ? — i ni fynd yno i'w baratoi . ”
+41014014	ble		a gofyn i berchennog y tŷ y bydd yn mynd iddo , ‘ Mae'r athro eisiau gwybod ble mae'r ystafell westai iddo ddathlu'r Pasg gyda'i ddisgyblion ? ’
+41014060a	~		Felly dyma'r archoffeiriad yn codi ar ei draed ac yn gofyn i Iesu , “ Wel , oes gen ti ateb ? 
+41014060b	beth		Beth am y dystiolaeth yma yn dy erbyn di ? ”
+41014063	Pam		Wrth glywed yr hyn ddwedodd Iesu dyma'r archoffeiriad yn rhwygo ei ddillad . “ Pam mae angen tystion arnon ni ? ! ” meddai .
+41014064	Beth		“ Dych chi i gyd wedi ei glywed yn cablu . Beth ydy'ch dyfarniad chi ? ” A dyma nhw i gyd yn dweud ei fod yn haeddu ei gondemnio i farwolaeth .
+41015004	~		felly gofynnodd Peilat iddo eto , “ Oes gen ti ddim i'w ddweud ? Edrych cymaint o bethau maen nhw'n dy gyhuddo di o'u gwneud . ”
+41015012	beth		“ Felly beth dw i i'w wneud gyda'r un dych chi'n ei alw'n ‛ Frenin yr Iddewon ‛ ? ” gofynnodd Peilat .
+41015014a	pam		“ Pam ? ” meddai Peilat , 
+41015014b	beth		“ Beth mae wedi ei wneud o'i le ? ” Ond dyma nhw'n dechrau gweiddi'n uwch , “ Croeshoelia fe ! ”
+41015034	pam		Yna am dri o'r gloch gwaeddodd Iesu'n uchel , “ Eloi , Eloi , lama sabachthani ? ” sy'n golygu , “ Fy Nuw , fy Nuw , pam wyt ti wedi troi dy gefn arna i ? ”
+41016003	pwy		Roedden nhw wedi bod yn trafod ar eu ffordd yno pwy oedd yn mynd i rolio'r garreg oddi ar geg y bedd iddyn nhw .
+42001018	sut		“ Sut alla i gredu'r fath beth ? ” meddai Sachareias wrth yr angel , “ Wedi'r cwbl , dw i'n hen ddyn ac mae ngwraig i mewn oed hefyd . ”
+42001034	Sut		Ond meddai Mair , “ Sut mae'r fath beth yn bosib ? Dw i erioed wedi cael rhyw gyda neb . ”
+42001043	Pam		Pam mae Duw wedi rhoi'r fath fraint i mi ? — cael mam fy Arglwydd yn dod i ngweld i !
+42001066	Beth		Roedd pawb yn gofyn , “ Beth fydd hanes y plentyn yma ? ” Roedd hi'n amlwg i bawb fod llaw Duw arno .
+42002048	pam		Cafodd ei rieni y fath sioc pan ddaethon nhw o hyd iddo , a dyma'i fam yn gofyn iddo , “ Machgen i , pam rwyt ti wedi gwneud hyn i ni ? Mae dy dad a fi wedi bod yn poeni'n ofnadwy ac yn chwilio ym mhobman amdanat ti . ”
+42002049	Pam		Gofynnodd Iesu iddyn nhw , “ Pam roedd rhaid i chi chwilio ? Wnaethoch chi ddim meddwl y byddwn i'n siŵr o fod yn nhŷ fy Nhad ? ”
+42003007	Pwy		Roedd Ioan yn dweud yn blaen wrth y tyrfaoedd oedd yn mynd allan ato i gael eu bedyddio ganddo : “ Dych chi fel nythaid o nadroedd ! Pwy sydd wedi'ch rhybuddio chi i ddianc rhag y gosb sy'n mynd i ddod ?
+42003010	beth		“ Felly , beth ddylen ni ei wneud ? ” gofynnodd y dyrfa .
+42003012	Beth		Roedd rhai oedd yn casglu trethi i'r Rhufeiniaid yn dod i gael eu bedyddio hefyd , a dyma nhw'n gofyn iddo , “ Beth ddylen ni ei wneud , athro ? ”
+42003014a	~		
+42003014b	beth		“ A beth ddylen ni ei wneud ? ” meddai rhyw filwyr ddaeth ato . “ Peidiwch dwyn arian oddi ar bobl ” , oedd ateb Ioan iddyn nhw , “ a pheidiwch cyhuddo pobl ar gam er mwyn gwneud arian . Byddwch yn fodlon ar eich cyflog . ”
+42004034	~		“ Aaaaar ! Gad di lonydd i ni , Iesu o Nasareth . Rwyt ti yma i'n dinistrio ni . Dw i'n gwybod pwy wyt ti — Un Sanctaidd Duw ! ”
+42004036	Beth		Roedd pawb wedi cael sioc , ac yn gofyn , “ Beth sy'n mynd ymlaen ? Mae ganddo'r fath awdurdod ! Mae hyd yn oed yn gallu gorfodi ysbrydion drwg i ufuddhau iddo a dod allan o bobl ! ”
+42005021a	pwy		Dyma'r Phariseaid a'r arbenigwyr yn y Gyfraith yn dechrau meddwl , “ Pwy ydy hwn , ei fod yn cablu fel hyn ? 
+42005021a	~		Duw ydy'r unig un sy'n gallu maddau pechodau ! ”
+42005022	Pam		Roedd Iesu'n gwybod beth oedd yn mynd trwy'u meddyliau , a gofynnodd iddyn nhw , “ Pam dych chi'n meddwl mod i'n cablu ?
+42005023	Beth		Beth ydy'r peth hawsaf i'w ddweud — ‘ Mae dy bechodau wedi eu maddau , ’ neu ‘ Cod ar dy draed a cherdda ’ ?
+42005030	Pam		Ond dyma'r Phariseaid a'u harbenigwyr nhw yn y Gyfraith yn cwyno i'w ddisgyblion , “ Pam dych chi'n bwyta ac yfed gyda'r bradwyr sy'n casglu trethi i Rufain , a phobl eraill sy'n ddim byd ond ‛ pechaduriaid ‛ ? ”
+42005033	Pam		Dyma nhw'n dweud wrth Iesu , “ Mae disgyblion Ioan yn ymprydio ac yn gweddïo'n aml , a disgyblion y Phariseaid yr un fath . Pam mae dy rai di yn dal ati i fwyta ac yfed drwy'r adeg ? ”
+42005034	~		Atebodd Iesu nhw , “ Ydych chi'n gorfodi pobl sy'n mynd i wledd briodas i ymprydio ? Maen nhw yno i ddathlu gyda'r priodfab !
+42006002	Pam		Gofynnodd rhai o'r Phariseaid , “ Pam dych chi'n torri rheolau'r Gyfraith ar y Saboth ? ”
+42006009	beth		“ Gadewch i mi ofyn i chi , ” meddai Iesu wrth y rhai oedd eisiau ei gyhuddo , “ beth mae'r Gyfraith yn ei ddweud sy'n iawn i'w wneud ar y dydd Saboth : pethau da neu bethau drwg ? Achub bywyd neu ddinistrio bywyd ? ”
+42006032	Pam		“ Pam dylech chi gael eich canmol am garu'r bobl hynny sy'n eich caru chi ? Mae hyd yn oed ‛ pechaduriaid ‛ yn gwneud hynny !
+42006033	~		Neu am wneud ffafr i'r rhai sy'n gwneud ffafr i chi ? Mae ‛ pechaduriaid ‛ yn gwneud hynny hefyd !
+42006034	beth		Neu os dych chi'n benthyg i'r bobl hynny sy'n gallu'ch talu chi'n ôl , beth wedyn ? Mae hyd yn oed ‛ pechaduriaid ‛ yn fodlon benthyg i'w pobl eu hunain — ac yn disgwyl cael eu talu yn ôl yn llawn !
+42006039	~		Yna dyma Iesu'n dyfynnu'r hen ddywediad : “ ‘ Ydy dyn dall yn gallu arwain dyn dall arall ? ’ Nac ydy wrth gwrs ! Bydd y ddau yn disgyn i ffos gyda'i gilydd !
+42006041	Pam		“ Pam rwyt ti'n poeni am y sbecyn o flawd llif sydd yn llygad rhywun arall , pan mae trawst o bren yn sticio allan o dy lygad di dy hun ! ?
+42006042	Sut		Sut alli di ddweud , ‘ Gyfaill , gad i mi dynnu'r sbecyn yna sydd yn dy lygad di , ’ pan wyt ti'n methu'n lân â gweld dim am fod trawst yn sticio allan o dy lygad dy hun ? Rwyt ti mor ddauwynebog ! Tynna'r trawst allan o dy lygad dy hun yn gyntaf , ac wedyn byddi'n gweld yn ddigon clir i dynnu'r sbecyn allan o lygad y person arall .
+42006046	Pam		“ Pam dych chi'n fy ngalw i'n ‛ Arglwydd ‛ ac eto ddim yn gwneud beth dw i'n ei ddweud ?
+42007024	sut		Ar ôl i negeswyr Ioan fynd , dechreuodd Iesu siarad â'r dyrfa am Ioan : “ Sut ddyn aethoch chi allan i'r anialwch i'w weld ? Brwynen wan yn cael ei chwythu i bob cyfeiriad gan y gwynt ?
+42007025	Beth		Na ? Beth roeddech chi'n ei ddisgwyl ? Dyn yn gwisgo dillad crand ? Wrth gwrs ddim ! Mewn palasau mae pobl grand yn byw !
+42007026	~		Felly ai proffwyd aethoch chi allan i'w weld ? Ie ! A dw i'n dweud wrthoch chi ei fod e'n fwy na phroffwyd .
+42007031a	sut		“ Sut mae disgrifio'r dynion yma ? ” meddai Iesu , 
+42007031b	beth		“ I beth maen nhw'n debyg ?
+42007042	pa un		Ond pan oedd y naill a'r llall yn methu ei dalu'n ôl , dyma'r benthyciwr yn canslo dyled y ddau ! Felly , pa un o'r ddau wyt ti'n meddwl fydd yn ei garu fwyaf ? ”
+42007049	Pwy		A dyma'r gwesteion eraill yn dechrau siarad ymhlith ei gilydd , “ Pwy ydy hwn , yn meddwl y gall faddau pechodau ? ”
+42008025a	ble		“ Ble mae'ch ffydd chi ? ” gofynnodd i'w ddisgyblion . Roedden nhw wedi dychryn ac yn rhyfeddu at beth ddigwyddodd . 
+42008025b	pwy		“ Pwy ydy hwn ? ” medden nhw , “ Mae hyd yn oed yn rhoi gorchymyn i'r gwynt a'r dŵr , ac maen nhw'n ufuddhau iddo . ”
+42008028	~		Pan welodd Iesu , rhoddodd y dyn sgrech a syrthio i lawr o'i flaen tan weiddi nerth ei ben , “ Gad di lonydd i mi , Iesu , mab y Duw Goruchaf ! Dw i'n crefu arnat ti , paid poenydio fi ! ”
+42008030	Beth		A dyma Iesu'n gofyn iddo , “ Beth ydy dy enw di ? ” “ Lleng , ” atebodd , achos roedd llawer o gythreuliaid wedi mynd iddo .
+42008045	Pwy		“ Pwy gyffyrddodd fi ? ” gofynnodd Iesu . Wrth i bawb wadu'r peth , dyma Pedr yn dweud , “ Ond Feistr , mae'r bobl yma i gyd yn gwthio ac yn gwasgu o dy gwmpas di ! ”
+42009009a	pwy		“ Torrais ben Ioan i ffwrdd , ” meddai Herod , “ felly , pwy ydy hwn dw i'n clywed y pethau yma amdano ? ” Roedd ganddo eisiau gweld Iesu .
+42009009b	~		
+42009018	Pwy		Un tro pan oedd Iesu wedi bod yn gweddïo ar ei ben ei hun , aeth at ei ddisgyblion a gofyn iddyn nhw , “ Pwy mae'r bobl yn ei ddweud ydw i ? ”
+42009020a	beth		“ Ond beth amdanoch chi ? ” meddai . 
+42009020b	pwy		“ Pwy dych chi'n ddweud ydw i ? ” Atebodd Pedr , “ Meseia Duw . ”
+42009025	Beth		Beth ydy'r pwynt o gael popeth sydd gan y byd i'w gynnig , a cholli eich hunan ?
+42009041a	am faint		“ Pam dych chi mor ystyfnig ac amharod i gredu ? ” meddai Iesu , “ Am faint dw i'n mynd i aros gyda chi a'ch dioddef chi ? Tyrd â dy fab yma . ”
+42009041b	~		
+42010025	beth		Un tro safodd un o'r arbenigwyr yn y Gyfraith ar ei draed i roi prawf ar Iesu . Gofynnodd iddo , “ Athro , beth sydd raid i mi ei wneud i gael bywyd tragwyddol ? ”
+42010026a	beth		Atebodd Iesu , “ Beth mae Cyfraith Moses yn ei ddweud ? 
+42010026b	sut		Sut wyt ti'n ei deall ? ”
+42010029	pwy		Ond roedd y dyn eisiau cyfiawnhau ei hun , felly gofynnodd i Iesu , “ Ond pwy ydy fy nghymydog i ? ”
+42010036a	~		“ Felly ” meddai Iesu , “ yn dy farn di , 
+42010036b	pa un		pa un o'r tri fu'n gymydog i'r dyn wnaeth y lladron ymosod arno ? ”
+42011008	~		Ond wir i chi , er ei fod yn gwrthod codi i roi bara iddo am eu bod yn ffrindiau ; am ei fod yn dal ati i ofyn bydd yn codi yn y diwedd , ac yn rhoi popeth mae e eisiau iddo .
+42011011	Pwy		“ Pwy ohonoch chi fyddai'n rhoi neidr i'ch plentyn pan mae'n gofyn am bysgodyn ?
+42011012	~		Neu sgorpion pan mae'n gofyn am ŵy ? Wrth gwrs ddim !
+42011013	~		Felly os ydych chi sy'n ddrwg yn gwybod sut i roi anrhegion da i'ch plant , mae'r Tad nefol yn siŵr o roi'r Ysbryd Glân i'r rhai sy'n gofyn iddo ! ”
+42011018	sut		Os ydy Satan yn ymladd ei hun , a'i deyrnas wedi ei rhannu , sut mae'n bosib i'w deyrnas sefyll ? Dw i'n gofyn y cwestiwn am eich bod chi'n honni mai Beelsebwl sy'n rhoi'r gallu i mi fwrw allan gythreuliaid .
+42011019	pwy		Felly os mai Beelsebwl sy'n rhoi'r gallu i mi , pwy sy'n rhoi'r gallu i'ch dilynwyr chi ? Byddan nhw'n eich barnu chi !
+42012014	pwy		Atebodd Iesu , “ Ffrind , pwy wnaeth fi yn farnwr neu'n ganolwr i sortio rhyw broblem felly rhyngoch chi'ch dau ? ”
+42012017	Beth		‘ Does gen i ddim digon o le i storio'r cwbl , ’ meddai . ‘ Beth wna i ? ’
+42012020	Pwy		“ Ond dyma Duw yn dweud wrtho , ‘ Y ffŵl dwl ! Heno ydy'r noson rwyt ti'n mynd i farw . Pwy fydd yn cael y cwbl rwyt ti wedi ei gasglu i ti dy hun ? ’
+42012024	~		Meddyliwch am gigfrain : Dyn nhw ddim yn hau nac yn medi , a does ganddyn nhw ddim ystordy nag ysgubor — ac eto mae Duw'n eu bwydo nhw . Dych chi'n llawer mwy gwerthfawr yn ei olwg nag adar !
+42012025	~		Allwch chi ddim hyd yn oed gwneud eich bywyd eiliad yn hirach drwy boeni !
+42012026	beth		Os allwch chi ddim gwneud peth bach fel yna , beth ydy'r pwynt o boeni am bopeth arall ?
+42012042	Pwy		Atebodd yr Arglwydd , “ Pwy ydy'r rheolwr doeth mae'r meistr yn gallu dibynnu arno ? Mae wedi ei benodi i fod yn gyfrifol am y gweision i gyd , ac i'w bwydo'n rheolaidd .
+42012049	~		“ Dw i wedi dod i gynnau tân ar y ddaear , a byddwn i'n hoffi petai'r gwaith eisoes wedi ei wneud !
+42012056	Pam		Am ragrithwyr ! Dych chi'n gwybod sut i ddehongli arwyddion y tywydd . Pam allwch chi ddim dehongli beth sy'n digwydd nawr ?
+42012057	Pam		“ Pam allwch chi ddim penderfynu beth sy'n iawn ?
+42013004	beth		“ Neu beth am y bobl yna gafodd eu lladd pan syrthiodd tŵr Siloam ar eu pennau ? — un deg wyth ohonyn nhw ! Ydych chi'n meddwl eu bod nhw'n waeth na phawb arall oedd yn byw yn Jerwsalem ? ”
+42013007	~		Felly dyma'r dyn yn dweud wrth y gwas oedd yn gweithio fel garddwr iddo , ‘ Dw i wedi bod yn disgwyl i ffrwyth dyfu ar y goeden ffigys yma ers tair blynedd , ac wedi cael dim . Torra hi i lawr , mae hi'n wastraff o dir da . ’
+42013015	~		Ond meddai'r Arglwydd wrtho , “ Rwyt ti mor ddauwynebog ! Dych chi i gyd yn gollwng ychen ac asyn yn rhydd ar y Saboth , ac yn eu harwain at ddŵr !
+42013018a	sut		Gofynnodd Iesu , “ Sut beth ydy teyrnasiad Duw ? 
+42013018b	sut		Sut alla i ei ddisgrifio ?
+42013020	sut		A gofynnodd eto , “ Sut beth ydy teyrnasiad Duw ?
+42013025	~		Pan fydd perchennog y tŷ wedi codi i gau'r drws , bydd hi'n rhy hwyr . Byddwch chi'n sefyll y tu allan yn curo ac yn pledio , ‘ Syr , agor y drws i ni . ’ Ond bydd yn ateb , ‘ Dw i ddim yn gwybod pwy ydych chi . ’
+42014005	~		Wedyn gofynnodd iddyn nhw , “ Petai plentyn neu ychen un ohonoch chi yn syrthio i mewn i bydew ar y Saboth , fyddech chi ddim yn mynd i'w dynnu allan ar unwaith ? ”
+42014028	~		“ Does neb yn mynd ati i adeiladu adeilad mawr heb eistedd i lawr yn gyntaf i amcangyfri'r gost a gwneud yn siŵr fod ganddo ddigon o arian i orffen y gwaith .
+42014031	~		“ A dydy brenin ddim yn mynd i ryfel heb eistedd gyda'i gynghorwyr yn gyntaf , ac ystyried ydy hi'n bosib i'w fyddin o ddeg mil o filwyr drechu'r fyddin o ugain mil sy'n ymosod arno .
+42014034	pa		“ Mae halen yn ddefnyddiol , ond pan mae'n colli ei flas pa obaith sydd i'w wneud yn hallt eto ?
+42015004	~		“ Dychmygwch fod gan un ohonoch chi gant o ddefaid , a bod un ohonyn nhw wedi mynd ar goll . Oni fyddai'n gadael y naw deg naw ar y tir agored ac yn mynd i chwilio am y ddafad aeth ar goll nes dod o hyd iddi ?
+42015008	~		“ Neu petai gan ryw wraig ddeg darn arian , ac yn colli un ohonyn nhw . Byddai hi'n cynnau lamp ac yn mynd ati i lanhau'r tŷ i gyd , a chwilio ym mhob twll a chornel am y darn arian nes iddi ddod o hyd iddo .
+42015026	beth		Galwodd fachgen ifanc ato , a gofyn iddo beth oedd yn digwydd .
+42015029	~		Ond meddai wrth ei dad , ‘ Edrych ! Dw i wedi slafio ar hyd y blynyddoedd yma , heb erioed wrthod gwneud unrhyw beth i ti . Ches i erioed fyn gafr gen ti i gael parti gyda fy ffrindiau !
+42016002	Beth		Felly dyma'r dyn yn galw'r fforman i'w weld , a gofyn iddo , ‘ Beth ydy hyn dw i'n ei glywed amdanat ti ? Dw i eisiau gweld y llyfrau cyfrifon . Os ydy'r stori'n wir , cei di'r sac . ’
+42016003	Beth		“ ‘ Beth dw i'n mynd i wneud ? ’ meddyliodd y fforman . ‘ Dw i'n mynd i golli fy job . Dw i ddim yn ddigon cryf i fod yn labrwr , a fyddwn i byth yn gallu cardota .
+42016005	Faint		“ A dyma beth wnaeth — cysylltodd â phob un o'r bobl oedd mewn dyled i'w feistr . Gofynnodd i'r cyntaf , ‘ Faint o ddyled sydd arnat ti i'm meistr i ? ’
+42016007	Faint		“ Yna gofynnodd i un arall , ‘ Faint ydy dy ddyled di ? ’ “ ‘ Can erw o wenith , ’ atebodd . “ ‘ Tafla'r bil i ffwrdd , ’ meddai'r fforman . ‘ Dwedwn ni wyth deg . ’
+42016011	pwy		Felly os dych chi ddim yn onest wrth drin arian , pwy sy'n mynd i'ch trystio chi gyda'r gwir gyfoeth ?
+42016012	pwy		Os dych chi ddim yn onest wrth drin eiddo pobl eraill , pwy sy'n mynd i roi eiddo i chi ei gadw i chi'ch hun ?
+42017007	~		“ Pan mae eich gwas yn dod i'r tŷ ar ôl bod wrthi'n aredig y tir neu'n gofalu am y defaid drwy'r dydd , ydych chi'n dweud wrtho , ‘ Tyrd i eistedd i lawr yma , a bwyta ’ ?
+42017017	Ble		Meddai Iesu , “ Roeddwn i'n meddwl mod i wedi iacháu deg o ddynion . Ble mae'r naw arall ?
+42017018	~		Ai dim ond y Samariad yma sy'n fodlon rhoi'r clod i Dduw ? ”
+42017020	Pryd		Un diwrnod , dyma'r Phariseaid yn gofyn i Iesu , “ Pryd mae teyrnasiad Duw yn mynd i ddechrau ? ” Atebodd Iesu , “ Does yna ddim arwyddion gweledig yn dangos fod teyrnasiad Duw wedi cyrraedd !
+42017037	ble		“ Arglwydd , ble bydd hyn yn digwydd ? ” gofynnodd y disgyblion . Atebodd Iesu , “ Bydd mor amlwg â'r ffaith fod yna gorff marw lle mae fwlturiaid wedi casglu . ”
+42018018	beth		Un tro gofynnodd rhyw arweinydd crefyddol y cwestiwn yma i Iesu : “ Athro da , beth alla i ei wneud i gael bywyd tragwyddol ? ”
+42018019	Pam		“ Pam wyt ti'n fy ngalw i'n dda ? ” meddai Iesu . “ Onid Duw ydy'r unig un sy'n dda ?
+42018026	~		Dyma'r rhai glywodd hyn yn dweud , “ Oes gobaith i unrhyw un gael ei achub felly ? ”
+42018036	Beth		yn clywed sŵn tyrfa o bobl yn pasio heibio , a dyma fe'n gofyn , “ Beth sy'n digwydd ? ”
+42018041	Beth		“ Beth ga i wneud i ti ? ” “ Arglwydd , ” meddai , “ dw i eisiau gallu gweld . ”
+42019007	~		Doedd y bobl welodd hyn ddim yn hapus o gwbl ! Roedden nhw'n cwyno a mwmblan , “ Mae wedi mynd i aros i dŷ ‛ pechadur ‛ — dyn ofnadwy ! ”
+42019023	Pam		Pam wnest ti ddim rhoi'r arian mewn cyfri banc ? Byddwn i o leia wedi ei gael yn ôl gyda rhyw fymryn o log ! ’
+42019031	Pam		Os bydd rhywun yn gofyn , ‘ Pam ydych chi'n ei ollwng yn rhydd ? ’ dwedwch wrthyn nhw , ‘ Mae'r meistr ei angen . ’ ”
+42019033	Beth		Wrth iddyn nhw ei ollwng yn rhydd , dyma'r rhai oedd biau'r ebol yn dweud , “ Hei ! Beth ydych chi'n ei wneud ? ”
+42020002a	pa		a gofyn iddo , “ Pa hawl sydd gen ti i wneud beth wnest ti ? 
+42020002b	pwy		Pwy yn union roddodd yr awdurdod i ti ? ”
+42020005a	~		Wrth drafod y peth gyda'i gilydd , dyma nhw'n dweud , “ Os atebwn ni ‘ Ie ’ , bydd yn gofyn , 
+42020005b	pam		‘ Pam doeddech chi ddim yn ei gredu ? ’
+42020013	Beth		“ ‘ Beth wna i ? ’ meddai'r dyn oedd biau'r winllan . ‘ Dw i'n gwybod ! Anfona i fy mab annwyl atyn nhw . Byddan nhw'n ei barchu e . ’
+42020015	beth		Felly dyma nhw'n ei daflu allan o'r winllan a'i ladd . Felly beth fydd y dyn biau'r winllan yn ei wneud iddyn nhw ?
+42020017	beth		Edrychodd Iesu i fyw eu llygaid , ac meddai , “ Felly beth ydy ystyr y geiriau yma o'r ysgrifau sanctaidd : ‘ Mae'r garreg wrthododd yr adeiladwyr wedi cael ei gwneud yn garreg sylfaen ’ ?
+42020023	~		Ond roedd Iesu'n gweld eu bod yn ceisio'i dwyllo .
+42020024a	pwy		“ Dewch â darn arian yma , ” meddai wrthyn nhw . “ Llun pwy sydd arno ? 
+42020024b	bwy		Am bwy mae'r arysgrif yma'n sôn ? ” “ Cesar , ” medden nhw .
+42020033	pwy		Felly dyma'n cwestiwn ni : ‘ Pan fydd yr atgyfodiad yn digwydd , gwraig pwy fydd hi ? ’ Roedd hi wedi bod yn wraig i'r saith ohonyn nhw ! ”
+42020041	Pam		Yna dyma Iesu'n dweud wrthyn nhw , “ Pam maen nhw'n dweud fod y Meseia yn fab i Dafydd ?
+42020044	~		
+42021007a	pryd		A dyma nhw'n gofyn iddo , “ Pryd mae hyn i gyd yn mynd i ddigwydd , Athro ? 
+42021007b	~		Fydd unrhyw rybudd cyn i'r pethau yma ddigwydd ? ”
+42022009	Ble		“ Ble rwyt ti am i ni fynd i'w baratoi ? ” medden nhw wrtho .
+42022011	ble		i mewn i'r tŷ y bydd yn mynd iddo , a gofyn i'r perchennog , ‘ Mae'r athro eisiau gwybod ble mae'r ystafell westai , iddo ddathlu'r Pasg gyda'i ddisgyblion . ’
+42022027	Pwy		Pwy ydy'r pwysica fel arfer ? Ai'r sawl sy'n eistedd wrth y bwrdd neu'r sawl sy'n gwasanaethu ? Y sawl sy'n eistedd wrth y bwrdd wrth gwrs ! Ond dw i yma fel un sy'n gwasanaethu .
+42022046	Pam		Gofynnodd iddyn nhw , “ Pam dych chi'n cysgu ? Codwch ar eich traed , a gweddïwch y byddwch chi ddim yn syrthio pan gewch chi'ch profi . ”
+42022064	Pwy		Dyma nhw'n rhoi mwgwd arno ac yna ei daro a dweud wrtho , “ Tyrd , Proffwyda ! Pwy wnaeth dy daro di y tro yna ? ”
+42022071	Pam		A dyma nhw'n dweud , “ Pam mae angen tystiolaeth bellach ? Dŷn ni wedi ei glywed yn dweud y peth ei hun . ”
+42023022a	pam		Gofynnodd iddyn nhw'r drydedd waith , “ Pam ? 
+42023022b	beth		Beth mae wedi ei wneud o'i le ? Dydy'r dyn ddim yn euog o unrhyw drosedd sy'n haeddu dedfryd o farwolaeth ! Felly dysga i wers iddo â'r chwip ac yna ei ollwng yn rhydd . ”
+42023031	~		
+42024005	Pam		Roedd y gwragedd wedi dychryn am eu bywydau , a dyma nhw'n plygu a'u hwynebau i lawr o'u blaenau . Yna dyma'r dynion yn gofyn iddyn nhw , “ Pam dych chi'n edrych mewn bedd am rywun sy'n fyw ?
+42024017	beth		Gofynnodd iddyn nhw , “ Am beth dych chi'n dadlau gyda'ch gilydd ? ” Dyma nhw'n sefyll yn stond . ( Roedd eu tristwch i'w weld ar eu hwynebau . )
+42024019	beth		“ Gwybod beth ? ” gofynnodd . “ Beth sydd wedi digwydd i Iesu o Nasareth , ” medden nhw . “ Roedd yn broffwyd i Dduw ac yn siaradwr gwych , ac roedd pawb wedi ei weld yn gwneud gwyrthiau rhyfeddol .
+42024025	pam		“ Dych chi mor ddwl ! ” meddai Iesu wrth y ddau oedd e'n cerdded gyda nhw , “ Pam dych chi'n ei chael hi mor anodd i gredu'r cwbl ddwedodd y proffwydi ?
+42024038a	beth		Ond dyma Iesu'n gofyn iddyn nhw , “ Beth sy'n bod ? 
+42024038b	pam		Pam dych chi'n amau pwy ydw i ?
+43001019	pwy		Dyma'r arweinwyr Iddewig yn Jerwsalem yn anfon offeiriaid a Lefiaid at Ioan Fedyddiwr i ofyn iddo pwy oedd .
+43001021	pwy		“ Felly pwy wyt ti ? ” medden nhw . “ Ai Elias y proffwyd wyt ti ? ” “ Nage ” meddai Ioan . “ Ai y Proffwyd soniodd Moses amdano wyt ti ? ” Atebodd eto , “ Na . ”
+43001022a	pwy		“ Felly , pwy wyt ti'n ddweud wyt ti ? ” medden nhw yn y diwedd , “ i ni gael rhoi rhyw ateb i'r rhai sydd wedi'n hanfon ni . 
+43001022b	beth		Beth fyddet ti'n ei ddweud amdanat ti dy hun ? ”
+43001025	pa		yn gofyn iddo , “ Ond pa hawl sydd gen ti i fedyddio os mai dim ti ydy'r Meseia , nag Elias , na'r Proffwyd ? ”
+43001038a	beth		Trodd Iesu a'u gweld nhw'n ei ddilyn , a gofynnodd iddyn nhw , “ Beth dych chi eisiau ? ” 
+43001038b	ble		“ Rabbi ” medden nhw “ ble rwyt ti'n aros ? ” ( Ystyr y gair Hebraeg ‛ Rabbi ‛ ydy ‛ Athro ‛ )
+43001046	~		“ Nasareth ? ” meddai Nathanael , “ — ddaeth unrhyw beth da o'r lle yna erioed ? ” “ Tyrd i weld , ” meddai Philip .
+43001048	sut		“ Sut wyt ti'n gwybod sut un ydw i ? ” meddai Nathanael . Atebodd Iesu , “ Gwelais di'n myfyrio dan y goeden ffigys , cyn i Philip dy alw di . ”
+43002004	~		Atebodd Iesu , “ Mam annwyl , gad lonydd i mi . Paid busnesa . Dydy fy amser i ddim wedi dod eto . ”
+43002018a	~		Ond dyma'r arweinwyr Iddewig yn ei herio , 
+43002018b	pa		“ Pa arwydd gwyrthiol wnei di i brofi i ni fod gen ti hawl i wneud hyn i gyd ? ”
+43003004	Sut		“ Sut gall unrhyw un gael ei eni pan mae'n oedolyn ? ” gofynnodd Nicodemus . “ Allan nhw'n sicr ddim mynd i mewn i'r groth am yr ail waith i gael eu geni felly ! ”
+43003009	Sut		“ Sut mae hynny'n gallu digwydd ? ” gofynnodd Nicodemus .
+43003012	sut		Os dw i wedi siarad â chi am bethau sy'n digwydd ar y ddaear a dych chi ddim yn credu , sut byddwch chi'n credu os gwna i siarad am bethau'r byd nefol ?
+43004009	Sut		“ Iddew wyt ti , ” meddai'r wraig , “ Sut alli di ofyn i mi am ddiod ? Dw i'n wraig o Samaria . ” ( Y rheswm pam wnaeth hi ymateb fel yna oedd fod Iddewon fel arfer yn gwrthod defnyddio'r un llestri â'r Samariaid . )
+43004011	Ble		“ Syr , ” meddai'r wraig , “ Ble mae'r ‛ dŵr bywiol ‛ yma sydd gen ti ? Does gen ti ddim bwced i godi dŵr ac mae'r pydew yn ddwfn .
+43004027a	beth		Dyna pryd daeth ei ddisgyblion yn ôl . Roedden nhw'n rhyfeddu ei weld yn siarad â gwraig , ond wnaethon nhw ddim gofyn iddi “ Beth wyt ti eisiau ? ” , 
+43004027b	pam		na “ Pam wyt ti'n siarad gyda hi ? ” i Iesu .
+43005012	Pwy		Felly dyma nhw'n gofyn iddo , “ Pwy ydy'r dyn ddwedodd hynny wrthot ti ? ”
+43005044	Sut		Sut allwch chi gredu ? Dych chi'n mwynhau canmol eich gilydd , tra'n gwneud dim ymdrech i dderbyn y ganmoliaeth sy'n dod oddi wrth yr unig Dduw .
+43005047	sut		Ond gan eich bod chi ddim yn credu beth ysgrifennodd e , sut ydych chi'n gallu credu beth dw i'n ei ddweud ? ”
+43006005	Ble		Pan welodd Iesu dyrfa fawr yn dod tuag ato , gofynnodd i Philip , “ Ble dŷn ni'n mynd i brynu bwyd i'r bobl yma i gyd ? ”
+43006009	~		“ Mae bachgen yma sydd â phum torth haidd a dau bysgodyn bach ganddo . Ond dydy hynny fawr o werth hefo cymaint o bobl ! ”
+43006025	pryd		Pan ddaethon nhw o hyd iddo ar ôl croesi'r llyn , dyma nhw'n gofyn iddo , “ Rabbi , pryd ddest ti yma ? ”
+43006028	Beth		Felly dyma nhw'n gofyn iddo , “ Beth sydd raid i ni ei wneud ? Beth mae Duw yn ei ofyn gynnon ni ? ”
+43006030a	~		Felly dyma nhw'n gofyn iddo , “ Felly gwna wyrth fydd yn arwydd clir i ni o pwy wyt ti . Byddwn ni'n credu ynot ti wedyn . 
+43006030b	beth		Beth wyt ti am ei wneud ?
+43006042	Sut		“ Onid Iesu , mab Joseff , ydy e ? ” medden nhw , “ dŷn ni'n nabod ei dad a'i fam . Sut mae'n gallu dweud , ‘ Dw i wedi dod i lawr o'r nefoedd ’ ? ”
+43006052	Sut		Dyma'r arweinwyr Iddewig yn dechrau ffraeo'n filain gyda'i gilydd . “ Sut all y dyn hwn roi ei gnawd i ni i'w fwyta ? ” medden nhw .
+43006060	Pwy		Ond ymateb llawer o'i ddilynwyr wrth glywed y cwbl oedd , “ Mae'n dweud pethau rhy galed . Pwy sy'n mynd i wrando arno ? ”
+43006062	Sut		Sut fydd hi pan welwch chi fi , Mab y Dyn , yn mynd i fyny i ble roeddwn i o'r blaen ?
+43006068	bwy		“ Arglwydd , at bwy awn ni ? ” meddai Simon Pedr , “ Mae beth rwyt ti'n ei ddweud yn arwain i fywyd tragwyddol .
+43007011	Ble		Yn yr Ŵyl roedd yr arweinwyr Iddewig yn edrych allan amdano . “ Ble mae e ? ” medden nhw .
+43007015	ble		Roedd yr arweinwyr crefyddol yn rhyfeddu ac yn gofyn , “ Ble cafodd y dyn y fath wybodaeth heb fod wedi cael ei hyfforddi ? ”
+43007019	Pam		Oni wnaeth Moses roi'r Gyfraith i chi ? Ac eto does neb ohonoch chi'n ufuddhau i'r Gyfraith . Pam dych chi'n ceisio fy lladd i ? ”
+43007020	Pwy		“ Mae cythraul yn dy wneud di'n wallgof , ” atebodd y dyrfa . “ Pwy sy'n ceisio dy ladd di ? ”
+43007023	pam		Nawr , os ydy'n iawn i fachgen gael ei enwaedu ar ddydd Saboth er mwyn peidio torri Cyfraith Moses , pam dych chi wedi gwylltio am fy mod i wedi iacháu rhywun yn llwyr ar y Saboth ?
+43007035	i ble		Meddai'r arweinwyr Iddewig , “ I ble mae'r dyn yma'n bwriadu mynd os fyddwn ni ddim yn gallu dod o hyd iddo ? Ydy e'n mynd at ein pobl ni sy'n byw ar wasgar mewn gwledydd eraill , a dysgu pobl y gwledydd hynny ?
+43007036	Beth		Beth mae'n e'n ei olygu wrth ddweud , ‘ Byddwch chi'n edrych amdana i , ond yn methu dod o hyd i mi , ’ a ‘ Fyddwch chi'n methu dod i ble bydda i ’ ? ”
+43007041	sut		Roedd eraill yn dweud , “ Y Meseia ydy e ! ” Ond eraill wedyn yn dal i ofyn , “ Sut all y Meseia ddod o Galilea ?
+43007045	Pam		Aeth swyddogion diogelwch y deml yn ôl at y prif offeiriaid a'r Phariseaid , a gofynnodd y rheiny iddyn nhw , “ Pam wnaethoch chi ddim dod ag e yma ? ”
+43007048	~		“ Oes unrhyw un o'r arweinwyr neu o'r Phariseaid wedi credu ynddo ?
+43007051	~		“ Ydy'n Cyfraith ni yn condemnio pobl heb roi gwrandawiad teg iddyn nhw gyntaf er mwyn darganfod y ffeithiau ? ”
+43008005	Beth		Yn y Gyfraith mae Moses yn dweud fod gwragedd o'r fath i gael eu llabyddio i farwolaeth gyda cherrig . Beth wyt ti'n ei ddweud am y mater ? ”
+43008010	ble		Edrychodd i fyny eto , a gofyn iddi , “ Wel , wraig annwyl , ble maen nhw ? Oes neb wedi dy gondemnio di ? ”
+43008019	Ble		“ Ble mae dy dad di ? ” medden nhw . “ Dych chi ddim wir yn gwybod pwy ydw i , ” atebodd Iesu , “ nac yn nabod fy Nhad chwaith . Tasech chi'n gwybod pwy ydw i , byddech chi'n nabod fy Nhad i hefyd . ”
+43008025a	pwy		“ Mai ti ydy pwy ? ” medden nhw . 
+43008025b	~		“ Yn union beth dw i wedi ei ddweud o'r dechrau , ” atebodd Iesu .
+43008033	beth		“ Dŷn ni'n ddisgynyddion i Abraham , ” medden nhw , “ fuon ni erioed yn gaethweision ! Felly beth wyt ti'n ei feddwl wrth ddweud , ‘ Byddwch chi'n cael bod yn rhydd ’ ? ”
+43008043	Pam		Pam dydy fy ngeiriau i ddim yn gwneud synnwyr i chi ? Am eich bod yn methu clywed y neges sydd gen i .
+43008046a	~		Oes unrhyw un ohonoch chi'n gallu profi fy mod i'n euog o bechu ? 
+43008046b	pam		Felly pam dych chi'n gwrthod credu pan dw i'n dweud y gwir ?
+43008053	Pwy		Wyt ti'n fwy o ddyn nag Abraham , tad y genedl ? Buodd e farw , a'r proffwydi hefyd ! Pwy wyt ti'n feddwl wyt ti ? ”
+43008057	~		“ Dwyt ti ddim yn hanner cant eto ! ” meddai'r arweinwyr Iddewig wrtho , “ Wyt ti'n honni dy fod di wedi gweld Abraham ? ”
+43009002	pwy		Gofynnodd y disgyblion iddo , “ Rabbi , pwy wnaeth bechu i achosi i'r dyn yma gael ei eni'n ddall — fe ei hun , neu ei rieni ? ”
+43009010	sut		“ Ond , sut wyt ti'n gallu gweld ? ” medden nhw .
+43009012	Ble		“ Ble mae e ? ” medden nhw . “ Wn i ddim , ” meddai .
+43009016	Sut		Meddai rhai o'r Phariseaid , “ All e ddim bod yn negesydd Duw , am ei fod e ddim yn cadw rheolau'r Saboth . ” Ond roedd eraill yn dweud , “ Sut mae rhywun sy'n bechadur cyffredin yn gallu gwneud y fath arwyddion gwyrthiol ? ” Felly roedden nhw'n anghytuno â'i gilydd .
+43009017	Beth		Yn y diwedd dyma nhw'n troi at y dyn dall eto , “ Beth sydd gen ti i'w ddweud amdano ? Dy lygaid di agorodd e . ” Atebodd y dyn , “ Mae'n rhaid ei fod yn broffwyd . ”
+43009019	sut		“ Ai eich mab chi ydy hwn ? ” medden nhw . “ Gafodd e ei eni'n ddall ? Ac os felly , sut mae e'n gallu gweld nawr ? ”
+43009026a	beth		Dyma nhw'n gofyn iddo eto , “ Beth yn union wnaeth e ? 
+43009026b	sut		Sut agorodd e dy lygaid di ? ”
+43009027	Pam		Atebodd y dyn , “ Dw i wedi dweud unwaith , a dych chi ddim wedi gwrando . Pam dych chi eisiau mynd trwy'r peth eto ? Ydych chi hefyd eisiau bod yn ddilynwyr iddo ? ”
+43009034	~		“ Wyt ti'n ceisio rhoi darlith i ni ? ” medden nhw , “ Cest ti dy eni mewn pechod a dim byd arall ! ” A dyma nhw'n ei ddiarddel .
+43009036	Pwy		“ Pwy ydy hwnnw , syr ? ” meddai'r dyn . “ Dywed wrtho i , er mwyn i mi gredu ynddo . ”
+43010020	Pam		Roedd llawer ohonyn nhw'n dweud , “ Mae cythraul ynddo ! Mae'n hurt bost ! Pam ddylen ni wrando arno ? ”
+43010021	~		Ond roedd pobl eraill yn dweud , “ Dydy e ddim yn siarad fel rhywun wedi ei feddiannu gan gythraul . Ydy cythraul yn gallu rhoi golwg i bobl ddall ? ”
+43010024	am faint		Dyma'r arweinwyr Iddewig yn casglu o'i gwmpas , a gofyn iddo , “ Am faint wyt ti'n mynd i'n cadw ni'n disgwyl ? Dywed wrthon ni'n blaen os mai ti ydy'r Meseia . ”
+43010032	ba un		ond meddai Iesu wrthyn nhw , “ Dych chi wedi fy ngweld i'n gwneud lot fawr o bethau da — gwyrthiau'r Tad . Am ba un o'r rhain dych chi'n fy llabyddio i ? ”
+43010036	sut		sut dych chi'n gallu dweud fy mod i'n cablu dim ond am fy mod i wedi dweud ‘ Fi ydy mab Duw ’ ? Y Tad ddewisodd fi a'm hanfon i i'r byd .
+43011034	Ble		“ Ble dych chi wedi ei gladdu ? ” gofynnodd . “ Tyrd i weld , Arglwydd , ” medden nhw .
+43011047	Pam		A dyma'r prif offeiriaid a'r Phariseaid hynny yn galw cyfarfod o'r Sanhedrin Iddewig . “ Pam ydyn ni ddim yn gwneud rhywbeth ? ” medden nhw . “ Mae'r dyn yma'n gwneud llawer o arwyddion gwyrthiol .
+43011056	Beth		Roedden nhw yn edrych am Iesu drwy'r adeg , ac yn sefyllian yng nghwrt y deml a gofyn i'w gilydd , “ Beth dych chi'n feddwl ? Dydy e ddim yn mynd i ddod i'r Ŵyl , siawns ! ”
+43012005	~		“ Roedd y persawr yna'n werth ffortiwn ! Dylid bod wedi ei werthu , a rhoi'r arian i bobl dlawd ! ”
+43012027	Beth		“ Ar hyn o bryd dw i wedi cynhyrfu . Beth alla i ddweud ? O Dad , achub fi rhag y profiad ofnadwy sydd i ddod ? Na ! dyma pam dw i wedi dod .
+43012034a	beth		“ Mae'r ysgrifau sanctaidd yn dweud fod y Meseia yn mynd i aros am byth , ” meddai'r dyrfa wrtho , “ felly am beth wyt ti'n sôn pan wyt ti'n dweud fod rhaid i Fab y Dyn farw ? 
+43012034b	pwy		Pwy ydy'r ‛ Mab y Dyn ‛ yma rwyt ti'n sôn amdano ? ”
+43012038a	~		Dyma'n union a ddwedodd y proffwyd Eseia fyddai'n digwydd : “ Arglwydd , oes rhywun wedi credu ein neges ? 
+43012038b	~		Oes rhywun wedi gweld mor rymus ydy'r Arglwydd ? ”
+43013025	bwy		Felly pwysodd yn ôl at Iesu , a gofyn iddo , “ Arglwydd , am bwy rwyt ti'n sôn ? ”
+43013036	Ble		“ Ble rwyt ti'n mynd , Arglwydd ? ” gofynnodd Simon Pedr iddo . Atebodd Iesu , “ Ar hyn o bryd allwch chi ddim dod i ble dw i'n mynd . Ond byddwch yn dod yno yn nes ymlaen . ”
+43013037	Pam		“ Pam alla i ddim dod rwan ? ” meddai Pedr , “ dw i'n fodlon marw drosot ti ! ”
+43014002	~		“ Mae digon o le i fyw yn nhŷ fy Nhad ; byddwn i wedi dweud wrthoch chi os oedd hi fel arall . Dw i'n mynd yno i baratoi lle ar eich cyfer chi .
+43014005	sut		“ Ond Arglwydd , ” meddai Tomos “ dŷn ni ddim yn gwybod ble rwyt ti'n mynd , felly sut allwn ni wybod y ffordd yno ? ”
+43014009	sut		Atebodd Iesu : “ Dw i wedi bod gyda chi i gyd ers cymaint o amser ! Wyt ti'n dal ddim yn fy nabod i , Philip ? Mae pwy bynnag sydd wedi fy ngweld i wedi gweld y Tad . Felly sut alli di ddweud , ‘ Dangos y Tad i ni ’ ?
+43014022	Sut		“ Ond , Arglwydd , ” meddai Jwdas ( dim Jwdas Iscariot ) , “ Sut dy fod di am ddangos dy hun i ni ond ddim i'r byd ? ”
+43016005	Ble		“ Bellach dw i'n mynd yn ôl at Dduw , yr un anfonodd fi , a does neb ohonoch chi'n gofyn , ‘ Ble rwyt ti'n mynd ? ’
+43016017	Beth		Dyma'i ddisgyblion yn gofyn i'w gilydd , “ Beth mae'n ei olygu wrth ddweud , ‘ Yn fuan iawn bydda i wedi mynd , a fyddwch chi ddim yn fy ngweld i ddim mwy . Yna'n fuan iawn wedi hynny byddwch yn fy ngweld eto ’ ? A beth mae ‘ Am fy mod i'n mynd at y Tad ’ yn ei olygu ?
+43016018	Beth		Beth ydy ystyr ‘ Yn fuan iawn ’ ? Dŷn ni ddim yn deall . ”
+43018004	bwy		Roedd Iesu'n gwybod yn union beth oedd yn mynd i ddigwydd iddo , felly aeth atyn nhw a gofyn , “ Am bwy dych chi'n edrych ? ”
+43018007	Pwy		Gofynnodd iddyn nhw eto , “ Pwy dych chi eisiau ? ” A dyma nhw'n dweud “ Iesu o Nasareth . ”
+43018011	~		“ Cadw dy gleddyf ! ” meddai Iesu wrtho , “ Wyt ti'n meddwl fy mod i ddim yn barod i ddioddef , ac yfed o'r cwpan chwerw mae'r Tad wedi ei roi i mi ? ”
+43018021	Pam		Pam wyt ti'n fy holi i ? Hola'r bobl oedd yn gwrando arna i . Maen nhw'n gwybod beth dw i wedi ei ddweud . ”
+43018023	pam		“ Os dwedais i rywbeth o'i le , ” meddai Iesu , “ dywed wrth bawb beth . Ond os oedd beth ddwedais i yn iawn , pam wnest ti fy nharo i ? ”
+43018029	Beth		Felly daeth Peilat allan atyn nhw a gofyn , “ Beth ydy'r cyhuddiadau yn erbyn y dyn hwn ? ”
+43018035	Beth		“ Dw i ddim yn Iddew ! ” atebodd Peilat . “ Dy bobl di a'u prif offeiriaid sydd wedi dy drosglwyddo di i mi . Beth yn union wyt ti wedi ei wneud ? ”
+43018038	Beth		“ Beth ydy gwirionedd ? ” meddai Peilat . Yna aeth allan at yr arweinwyr Iddewig eto a dweud , “ Dw i ddim yn ei gael yn euog o unrhyw drosedd .
+43019009	o ble		Aeth yn ôl i mewn i'r palas a gofyn i Iesu , “ O ble wyt ti wedi dod ? ” Ond roddodd Iesu ddim ateb iddo .
+43019015	~		Ond dyma nhw'n gweiddi , “ I ffwrdd ag e ! I ffwrdd ag e ! Croeshoelia fe ! ” “ Dych chi am i mi groeshoelio eich brenin chi ? ” meddai Peilat . “ Cesar ydy'n hunig frenin ni ! ” oedd ateb y prif offeiriaid .
+43020013	pam		Dyma nhw'n gofyn i Mair , “ Wraig annwyl , pam rwyt ti'n crïo ? ” “ Maen nhw wedi cymryd fy Arglwydd i ffwrdd , ” atebodd , “ a dw i ddim yn gwybod ble maen nhw wedi mynd ag e ”
+43020015a	pam		“ Wraig annwyl , ” meddai Iesu wrthi , “ pam rwyt ti'n crïo ? 
+43020015b	bwy		Am bwy rwyt ti'n chwilio ? ” Roedd hi'n meddwl mai'r garddwr oedd e , a dwedodd , “ Syr , os mai ti sydd wedi ei symud , dywed lle rwyt ti wedi ei roi e , a bydda i'n mynd i'w nôl e . ”
+43021012	Pwy		“ Dewch i gael brecwast , ” meddai Iesu . Doedd dim un o'r disgyblion yn meiddio gofyn iddo , “ Pwy wyt ti ? ” — roedden nhw yn gwybod yn iawn mai'r Arglwydd oedd e .
+43021020	pwy		Dyma Pedr yn troi a gweld y disgybl roedd Iesu yn ei garu yn eu dilyn nhw . ( Dyma'r un oedd wedi pwyso'n ôl at Iesu yn y swper a gofyn , “ Arglwydd , pwy sy'n mynd i dy fradychu di ? ” )
+43021021	beth		Pan welodd Pedr e , gofynnodd i Iesu , “ Arglwydd , beth fydd yn digwydd iddo fe ? ”
+43021022	beth		Atebodd Iesu , “ Petawn i am iddo aros yn fyw nes i mi ddod yn ôl , beth ydy hynny i ti ? Dilyn di fi . ”
+43021023	beth		A dyna pam aeth y stori ar led ymhlith y credinwyr fod y disgybl hwnnw ddim yn mynd i farw . Ond dim dweud ei fod e ddim yn mynd i farw wnaeth Iesu ; dim ond dweud , “ Petawn i am iddo aros yn fyw nes i mi ddod yn ôl , beth ydy hynny i ti ? ”
+44001011	beth		a dweud , “ Chi Galileaid , beth dych chi'n ei wneud yma yn syllu i'r awyr ? Mae Iesu wedi cael ei gymryd i'r nefoedd oddi wrthoch chi . Ond yn union yr un fath ag y gweloch e'n mynd bydd yn dod yn ôl eto . ”
+44002008	Sut		“ Sut maen nhw'n gallu siarad ein hieithoedd ni ? ”
+44002012	Beth		Dyna lle roedden nhw yn sefyll yn syn , heb ddim clem beth oedd yn digwydd . “ Beth sy'n mynd ymlaen ? ” medden nhw .
+44002037	beth		Roedd pobl wedi eu hysgwyd i'r byw gan beth ddwedodd Pedr , a dyma nhw'n gofyn iddo ac i'r apostolion eraill , “ Frodyr , beth ddylen ni wneud ? ”
+44003012a	pam		Pan welodd Pedr y bobl o'u cwmpas , dwedodd wrthyn nhw : “ Pam dych chi'n rhyfeddu at hyn , bobl Israel ? 
+44003012b	pam		Pam syllu arnon ni fel petai gynnon ni'r gallu ynon ni'n hunain i wneud i'r dyn yma gerdded , neu fel tasen ni'n rhyw bobl arbennig o dduwiol ?
+44004007a	~		Dyma nhw'n galw Pedr ac Ioan i ymddangos o'u blaenau a dechrau eu holi : 
+44004007b	pa		“ Pa bŵer ysbrydol , 
+44004007c	pa		neu pa enw wnaethoch chi ei ddefnyddio i wneud hyn ? ”
+44004016	Beth		“ Beth wnawn ni â'r dynion yma ? ” medden nhw . “ Mae pawb yn Jerwsalem yn gwybod eu bod wedi cyflawni gwyrth anhygoel , a dŷn ni ddim yn gallu gwadu hynny .
+44004025a	pam		Ti ddwedodd drwy'r Ysbryd Glân yng ngeiriau dy was , y Brenin Dafydd : ‘ Pam mae'r cenhedloedd mor gynddeiriog , 
+44004025b	~		a'r bobloedd yn gwastraffu eu hamser yn cynllwynio ?
+44005003	pam		Pan ddaeth at yr apostolion dyma Pedr yn dweud wrtho , “ Ananias , pam rwyt ti wedi gadael i Satan gael gafael ynot ti ? Rwyt ti wedi dweud celwydd wrth yr Ysbryd Glân trwy gadw peth o'r arian gest ti am y tir i ti dy hun !
+44005004	beth		Ti oedd biau'r tir , ac roedd gen ti hawl i wneud beth fynnet ti â'r arian . Beth wnaeth i ti feddwl gwneud y fath beth ? Dim wrthon ni rwyt ti wedi dweud celwydd , ond wrth Dduw ! ”
+44005009	Beth		Ac meddai Pedr , “ Beth wnaeth i'r ddau ohonoch chi gytuno i roi Ysbryd yr Arglwydd ar brawf ? Gwranda ! Mae'r dynion ifanc wnaeth gladdu dy ŵr di tu allan i'r drws , a byddan nhw'n dy gario di allan yr un fath . ”
+44007026	Pam		Y diwrnod wedyn gwelodd ddau o bobl Israel yn ymladd â'i gilydd . Ymyrrodd eto , a cheisio eu cael i gymodi . ‘ Dych chi'n frodyr i'ch gilydd ffrindiau ! Pam dych chi'n gwneud hyn ? ’
+44007027	Pwy		“ Ond dyma'r dyn oedd ar fai yn gwthio Moses o'r ffordd ac yn dweud wrtho , ‘ Pwy sydd wedi rhoi'r hawl i ti ein rheoli ni a'n barnu ni ?
+44007035	Pwy		“ Moses oedd yr union ddyn oedden nhw wedi ei wrthod pan wnaethon nhw ddweud , ‘ Pwy sydd wedi rhoi'r hawl i ti ein rheoli ni a'n barnu ni ? ’ Drwy gyfrwng yr angel a welodd yn y berth cafodd ei anfon gan Dduw ei hun i'w harwain nhw a'u hachub nhw !
+44007049a	~		‘ Y nefoedd ydy fy ngorsedd i , a'r ddaear yn stôl i mi orffwys fy nhraed arni . Allech chi adeiladu teml fel yna i mi ? meddai'r Arglwydd . 
+44007049b	ble		Ble dych chi'n mynd i'w roi i mi i orffwys ?
+44007052	~		Fuodd yna un proffwyd gafodd mo'i erlid gan eich cyndeidiau ? Nhw lofruddiodd hyd yn oed y rhai broffwydodd fod yr Un Cyfiawn yn dod — sef y Meseia . A dych chi nawr wedi ei fradychu a'i ladd e !
+44008031	Sut		“ Sut alla i ddeall heb i rywun ei esbonio i mi ? ” meddai'r dyn . Felly gofynnodd i Philip fynd i eistedd yn y cerbyd gydag e .
+44008033	sut		Cafodd ei gam-drin heb achos llys teg . Sut mae'n bosib sôn am ddisgynyddion iddo ? Cafodd ei dorri i ffwrdd o dir y byw . ”
+44008034	~		A dyma'r eunuch yn gofyn i Philip , “ Dywed wrtho i , ydy'r proffwyd yn sôn amdano'i hun neu am rywun arall ? ”
+44008036	pam		Wrth fynd yn eu blaenau , dyma nhw'n dod at le lle roedd dŵr . “ Edrych , ” meddai'r eunuch , “ mae dŵr yn y fan yma . Oes yna unrhyw reswm pam ddylwn i ddim cael fy medyddio ? ”
+44009004	Pam		Syrthiodd ar lawr a chlywed llais yn dweud wrtho : “ Saul ? Saul ? Pam rwyt ti'n fy erlid i ? ”
+44009005	Pwy		“ Pwy wyt ti , syr ? ” gofynnodd Saul . “ Iesu ydw i , ” atebodd , “ yr un rwyt ti'n ei erlid .
+44009006	beth		Nawr cod ar dy draed a dos i mewn i'r ddinas . Cei di wybod yno beth mae'n rhaid i ti ei wneud . ”
+44010004	Beth		Roedd Cornelius yn syllu arno mewn dychryn . “ Beth , Arglwydd ? ” meddai . Atebodd yr angel , “ Mae dy weddïau a'th roddion i'r tlodion wedi cael eu derbyn fel offrwm gan Dduw .
+44010021	Pam		Felly dyma Pedr yn mynd i lawr y grisiau a dweud wrth y dynion , “ Fi dych chi'n edrych amdano . Pam dych chi yma ? ”
+44010029	pam		Felly pan anfonoch chi amdana i , doedd dim dadl am y peth — des i ar unwaith . Ga i ofyn felly , pam wnaethoch chi anfon amdana i ? ”
+44010047	~		“ Oes unrhyw un yn gallu gwrthwynebu bedyddio'r bobl yma â dŵr ? Maen nhw wedi derbyn yr Ysbryd Glân yn union yr un fath â ni ! ”
+44011017a	pwy		Felly gan fod Duw wedi rhoi'r un rhodd iddyn nhw ag a roddodd i ni pan wnaethon ni gredu yn yr Arglwydd Iesu Grist , pwy oeddwn i i geisio rhwystro Duw ? ”
+44011017b	~		
+44012018	beth		Y bore wedyn roedd cynnwrf anhygoel ymhlith y milwyr ynglŷn â beth oedd wedi digwydd i Pedr .
+44013025	~		Pan oedd gwaith Ioan bron â dod i ben , dwedodd fel hyn : ‘ Dych chi'n meddwl mai fi ydy'r Meseia ? Na , dim fi ydy e . Mae'n dod ar fy ôl i , a dw i ddim yn haeddu bod yn gaethwas i ddatod carrai ei sandalau hyd yn oed ! ’
+44014015	Pam		“ Na ! Na ! Ffrindiau ! Pam dych chi'n gwneud hyn ? Pobl gyffredin fel chi ydyn ni ! Dŷn ni wedi dod â newyddion da i chi ! Rhaid i chi droi cefn ar y pethau diwerth yma , a chredu yn y Duw byw . Dyma'r Duw wnaeth greu popeth — yr awyr a'r ddaear a'r môr a'r cwbl sydd ynddyn nhw !
+44015010	pam		Felly pam dych chi'n amau beth mae Duw wedi ei wneud , drwy fynnu fod y disgyblion yma'n cario beichiau roedden ni a'n hynafiaid yn methu eu cario ?
+44016030	Beth		Yna aeth a nhw allan a gofyn iddyn nhw , “ Beth sydd raid i mi ei wneud i gael fy achub ? ”
+44017018	Beth		Dechreuodd dadl rhyngddo â grŵp o athronwyr , rhai yn Epicwreaid ac eraill yn Stoiciaid . “ Beth mae'r mwydryn yma'n sôn amdano ? ” meddai rhai ohonyn nhw . “ Sôn am ryw dduwiau tramor mae e , ” meddai eraill . ( Roedden nhw'n dweud hyn am fod Paul yn cyhoeddi'r newyddion da am Iesu a'r atgyfodiad . )
+44017019	beth		Felly dyma nhw'n mynd â Paul i gyfarfod o gyngor yr Areopagus . “ Dywed beth ydy'r grefydd newydd yma rwyt ti'n sôn amdani , ” medden nhw .
+44019003	pa		“ Felly pa fedydd gawsoch chi ? ” meddai Paul . “ Bedydd Ioan , ” medden nhw .
+44019015	pwy		Dyma'r ysbryd drwg yn ateb , “ Dw i'n nabod Iesu , ac yn gwybod am Paul , ond pwy dych chi ? ”
+44019035	~		Clerc y ddinas lwyddodd i dawelu'r dyrfa yn y diwedd , ac meddai : “ Bobl Effesus . Mae pawb drwy'r byd i gyd yn gwybod mai yn ein dinas ni mae teml y dduwies fawr Artemis , ac mai ni sy'n gwarchod y ddelw ohoni ddaeth i lawr o'r nefoedd .
+44021013a	pam		Ond ateb Paul oedd , “ Pam yr holl grïo yma ? 
+44021013b	~		Dych chi'n torri fy nghalon i . Dw i'n fodlon nid yn unig cael fy rhwymo , ond marw yn Jerwsalem er mwyn yr Arglwydd Iesu . ”
+44021022	~		Mae'n rhaid gwneud rhywbeth . Maen nhw'n siŵr o glywed dy fod ti wedi dod yma .
+44021033a	pwy		Dyma'r capten yn arestio Paul ac yn gorchymyn ei rwymo gyda dwy gadwyn . Wedyn gofynnodd i'r dyrfa pwy oedd , 
+44021033b	beth		a beth oedd wedi ei wneud .
+44022007	Pam		Syrthiais ar lawr , a chlywed llais yn dweud wrtho i , ‘ Saul ! Saul ! Pam rwyt ti'n fy erlid i ? ’
+44022008	Pwy		“ Gofynnais , ‘ Pwy wyt ti , Arglwydd ? ’ “ ‘ Iesu o Nasareth ydw i , ’ meddai'r llais , ‘ sef yr un rwyt ti'n ei erlid . ’
+44022010	Beth		“ Gofynnais iddo , ‘ Beth wna i , Arglwydd ? ’ A dyma'r Arglwydd yn ateb , ‘ Cod ar dy draed , a dos i Damascus . Yno cei di wybod popeth rwyt ti i fod i'w wneud . ’
+44022016	pam		Felly , pam ddylet ti oedi ? Cod ar dy draed i ti gael dy fedyddio a golchi dy bechodau i ffwrdd wrth alw arno i dy achub di . ’
+44022026	beth		Pan glywodd y swyddog hynny , aeth at y capten . “ Syr , beth dych chi'n ei wneud ? ” meddai wrtho . “ Mae'r dyn yn ddinesydd Rhufeinig . ”
+44023003	sut		Dyma Paul yn ymateb trwy ddweud , “ Bydd Duw yn dy daro di , y rhagrithiwr ! Sut alli di eistedd yna yn fy marnu i ar sail Cyfraith Moses , tra'n torri'r un Gyfraith drwy orchymyn fy nharo i ! ”
+44023009	~		Roedd yna dwrw ofnadwy , gyda rhai o'r arbenigwyr yn y Gyfraith oedd yn Phariseaid ar eu traed yn dadlau'n ffyrnig . “ Dydy'r dyn yma ddim wedi gwneud unrhyw beth o'i le ! Falle fod ysbryd neu angel wedi siarad â fe ! ”
+44023019	Beth		Dyma'r capten yn gafael yn llaw'r bachgen , a mynd o'r neilltu a gofyn iddo , “ Beth rwyt ti eisiau ei ddweud wrtho i ? ”
+44026008	Pam		“ Pam dych chi bobl yn ei chael hi mor anodd i gredu fod Duw yn gallu dod â'r meirw yn ôl yn fyw ?
+44026014	pam		Dyma ni i gyd yn disgyn ar lawr , a chlywais lais yn siarad â mi yn Hebraeg , ‘ Saul , Saul , pam rwyt ti'n fy erlid i ? Dim ond gwneud drwg i ti dy hun wyt ti wrth dynnu'n groes i mi . ’
+44026015	Pwy		“ A dyma fi'n gofyn , ‘ Pwy wyt ti , Arglwydd ? ’ A dyma'r Arglwydd yn ateb , ‘ Iesu ydw i , sef yr un rwyt ti'n ei erlid .
+45002017	ble		Felly ble mae hynny'n dy adael di sy'n galw dy hun yn Iddew ? Rwyt ti'n brolio fod gen ti berthynas â Duw am fod gen ti'r Gyfraith .
+45002021	pam		Rwyt ti'n dysgu pobl eraill , wyt ti ? Felly , pam wyt ti ddim wedi dy ddysgu dy hun ? Ti'n dweud wrth rywun arall “ Paid dwyn , ” ond yn dwyn dy hun !
+45002028	~		Dydy'r pethau allanol ddim yn dy wneud di'n Iddew go iawn . A dydy'r ddefod gorfforol ddim yr un peth ag enwaediad go iawn .
+45003001a	~		Felly oes unrhyw fantais bod yn Iddew ? 
+45003001b	~		Oes unrhyw bwynt i'r ddefod o enwaediad ?
+45003003	~		Mae'n wir fod rhai ohonyn nhw wedi bod yn anffyddlon , ond ydy hynny'n golygu wedyn fod Duw ddim yn gallu bod yn ffyddlon ?
+45003005	~		Ond ydyn ni'n mynd i ddadlau wedyn , “ Mae'r pethau drwg dŷn ni'n eu gwneud yn dangos yn gliriach fod Duw yn gwneud beth sy'n iawn , felly mae Duw yn annheg yn ein cosbi ni ” ? ( A dyna sut mae rhai pobl yn dadlau ) .
+45003006	Sut		Wrth gwrs ddim ! Sut fyddai Duw'n gallu barnu'r byd oni bai ei fod yn gwneud beth sy'n iawn ?
+45003007a	~		Neu ydy'n iawn dadlau fel yma ? : “ Mae'r celwydd dw i'n ddweud yn dangos yn gliriach fod Duw yn dweud y gwir , ac mae'n ei anrhydeddu e ! 
+45003007b	pam		Felly pam dw i'n dal i gael fy marnu fel pechadur ? ”
+45003008	~		Na ! Waeth i ni ddweud wedyn , “ Gadewch i ni wneud drwg er mwyn i ddaioni ddod o'r peth ” ! Ac oes , mae rhai yn hel straeon sarhaus mai dyna dŷn ni yn ei ddweud ! … Maen nhw'n haeddu beth sy'n dod iddyn nhw !
+45003009	beth		Felly beth ydyn ni'n ei ddweud ? Ydyn ni Iddewon yn well yng ngolwg Duw na phawb arall ? Wrth gwrs ddim ! Dŷn ni wedi dangos fod pechod yn rheoli'n bywydau ni fel pawb arall !
+45003027a	~		Felly oes gynnon ni'r Iddewon le i frolio ? Nac oes ! 
+45003027b	pam		Pam ddim ? — Yn wahanol i gadw'r Gyfraith Iddewig dydy credu ddim yn rhoi unrhyw le i ni frolio .
+45003027c	~		
+45004001	beth		Ond beth am Abraham felly — tad y genedl Iddewig ? Oes ganddo fe rywbeth i'w ddysgu i ni am hyn i gyd ?
+45004003	~		Dyma mae'r ysgrifau'n ei ddweud amdano : “ Credodd Abraham , a chafodd ei dderbyn i berthynas iawn gyda Duw . ”
+45004010	pryd		Pryd ddigwyddodd hynny ? Ai ar ôl iddo fynd trwy'r ddefod o gael ei enwaedu , neu cyn iddo gael ei enwaedu ? Yr ateb ydy , cyn iddo gael ei enwaedu !
+45005010	~		Os mai marwolaeth Mab Duw wnaeth ein perthynas ni â Duw yn iawn ( a hynny pan roedden ni'n dal yn elynion iddo ! ) , does dim amheuaeth o gwbl , gan ein bod ni bellach yn y berthynas yma , y byddwn ni'n cael ein hachub am ei fod yn fyw !
+45005021	~		Yn union fel roedd pechod wedi cael gafael mewn pobl a hwythau wedyn yn marw , mae haelioni Duw yn gafael mewn pobl ac yn dod â nhw i berthynas iawn gydag e . Maen nhw'n cael bywyd tragwyddol — o achos beth wnaeth ein Harglwydd ni , Iesu y Meseia .
+45006001	beth		Felly , beth mae hyn i gyd yn ei olygu ? Ei bod hi'n iawn i ni ddal ati i bechu er mwyn i Dduw ddangos mwy a mwy o haelioni ?
+45006002	sut		Na , wrth gwrs ddim ! Dŷn ni wedi marw i'r hen fywyd o bechod , felly sut allwn ni ddal ati i bechu o hyd ?
+45006015	~		Felly , ydyn ni'n mynd i ddal i bechu am mai dim y Gyfraith sy'n ein rheoli ni bellach , a'n bod wedi profi haelioni Duw ? Na ! Wrth gwrs ddim !
+45006021	beth		Ond beth oedd canlyniad hynny yn y pen draw ? Marwolaeth ! Dyna oedd canlyniad y pethau mae gynnoch chi gymaint o gywilydd ohonyn nhw bellach .
+45007007	beth		Felly beth mae hyn yn ei olygu ? Ydw i'n awgrymu fod y Gyfraith roddodd Duw yn beth drwg ? Wrth gwrs ddim ! Heb y Gyfraith fyddwn i ddim yn gwybod fy mod i'n pechu . Sut fyddwn i'n gwybod fod chwennych yn beth drwg oni bai fod Cyfraith Duw yn dweud “ Paid chwennych ”
+45007024	Pwy		Dw i mewn picil go iawn ! Oes yna ffordd allan ? Pwy sy'n mynd i'm hachub i o ganlyniadau'r bywyd yma o bechu ?
+45008024	~		Am ein bod wedi'n hachub gallwn edrych ymlaen at hyn yn hyderus . Does neb yn edrych ymlaen at rywbeth sydd ganddo'n barod !
+45008031a	beth		Felly , beth mae hyn yn ei olygu ? 
+45008031b	pwy		Os ydy Duw ar ein hochr ni , does dim ots pwy sy'n ein herbyn ni !
+45008032	~		Wnaeth Duw ddim hyd yn oed arbed ei Fab ei hun ! Rhoddodd e yn aberth i farw yn ein lle ni i gyd . Felly oes yna unrhyw beth dydy e ddim yn fodlon ei roi i ni ?
+45008033	Pwy		Pwy sy'n mynd i gyhuddo'r bobl mae Duw wedi eu dewis iddo'i hun ? Wnaiff Duw ddim ! Duw ydy'r un sy'n eu gwneud nhw'n ddieuog yn ei olwg !
+45008034	pwy		Felly pwy sy'n mynd i'n condemnio ni ? Wnaiff y Meseia Iesu ddim ! Fe ydy'r un gafodd ei ladd a'i godi yn ôl yn fyw ! A bellach mae'n eistedd yn y sedd anrhydedd ar ochr dde Duw , yn pledio ar ein rhan ni .
+45008035	~		Oes yna rywbeth sy'n gallu'n gwahanu ni oddi wrth gariad y Meseia ? Nac oes , dim byd ! Dydy poen ddim yn gallu , na dioddefaint , cael ein herlid , newyn na noethni , peryglon na hyd yn oed cael ein lladd !
+45009014	Beth		Beth mae hyn yn ei olygu ? Ydy e'n dangos fod Duw yn annheg ? Wrth gwrs ddim !
+45009019a	pa		“ Ond os felly , ” meddai un ohonoch chi , “ pa hawl sydd gan Dduw i weld bai , 
+45009019b	~		gan fod neb yn gallu mynd yn groes i'w ewyllys ? ”
+45009020a	pwy		Ond pwy wyt ti i ddadlau yn erbyn Duw ? 
+45009020b	~		Dim ond person dynol wyt ti ! “ Oes gan y peth sydd wedi ei siapio hawl i ddweud wrth yr un wnaeth ei greu , 
+45009020c	pam		‘ Pam rwyt ti wedi fy ngwneud i fel hyn ? ’ ”
+45009021	~		Oes gan y crochenydd ddim hawl i ddefnyddio'r un lwmp o glai i wneud llestr crand neu i wneud llestr fydd yn dal sbwriel ?
+45009022	~		A'r un fath , mae gan Dduw berffaith hawl i ddangos ei ddigofaint a'i nerth ! Mae wedi bod mor amyneddgar gyda'r rhai sy'n haeddu dim byd ond cosb , ac sy'n dda i ddim ond i gael eu dinistrio !
+45009023	~		Ac mae'n barod i ddangos ei ysblander aruthrol , a'i rannu gyda'r rhai mae wedi dewis trugarhau wrthyn nhw , sef y rhai mae wedi eu paratoi ar gyfer hynny o'r dechrau cyntaf .
+45009024	~		Ac ie , ni ydy'r rheiny ! — dim Iddewon yn unig , ond pobl o genhedloedd eraill hefyd !
+45009030	beth		Felly beth mae hyn i gyd yn ei olygu ? Mae'n golygu fod pobl o genhedloedd eraill — pobl oedd ddim yn ceisio dilyn Duw — wedi cael eu derbyn i berthynas iawn gyda Duw trwy gredu .
+45009032	Pam		Pam ? Am eu bod nhw'n dibynnu ar beth roedden nhw eu hunain yn ei wneud yn lle credu . Maen nhw wedi baglu dros ‛ y garreg sy'n baglu pobl ‛ ,
+45010006	Pwy		Ond mae cael perthynas iawn gyda Duw trwy gredu yn dweud : “ Paid meddwl : Pwy wnaiff fynd i fyny i'r nefoedd ? ” ( hynny ydy , i ddod â'r Meseia i lawr )
+45010007	Pwy		Neu “ Pwy wnaiff fynd i lawr i'r dyfnder ” ( hynny ydy , i ddod â'r Meseia yn ôl yn fyw ) .
+45010008	~		Dyma mae'n ei ddweud : “ Mae'r neges yn agos atat ti ; mae ar dy wefusau ac yn dy galon di . ” ( Hynny ydy , y neges dŷn ni'n ei chyhoeddi , sef mai credu ydy'r ffordd ) :
+45010014a	sut		Ond wedyn , sut mae disgwyl i bobl alw arno os ydyn nhw ddim wedi credu ynddo ? 
+45010014b	sut		A sut maen nhw'n mynd i gredu ynddo heb fod wedi clywed amdano ? 
+45010014c	sut		Sut maen nhw'n mynd i glywed os ydy rhywun ddim yn dweud wrthyn nhw ?
+45010015	phwy		A phwy sy'n mynd i ddweud wrthyn nhw heb gael ei anfon ? Dyna mae'r ysgrifau sanctaidd yn ei olygu wrth ddweud : “ Mae mor wych fod y rhai sy'n cyhoeddi'r newyddion da yn dod ! ”
+45010016	pwy		Ond dydy pawb ddim wedi derbyn y newyddion da . Fel mae'r proffwyd Eseia'n dweud , “ Arglwydd , pwy sydd wedi credu ein neges ni ? ”
+45011004	Beth		Beth oedd ateb Duw iddo ? Dyma ddwedodd Duw : “ Mae gen i saith mil o bobl eraill sydd heb fynd ar eu gliniau i addoli Baal . ”
+45011007	beth		Dyma beth mae hyn yn ei olygu : Wnaeth pawb yn Israel ddim cael gafael yn beth roedden nhw'n ei geisio mor daer . Ond mae rhai wedi ei gael , sef y rhai mae Duw wedi eu dewis . Mae'r lleill wedi troi'n ystyfnig .
+45011015	beth		Os ydy eu taflu nhw i ffwrdd wedi golygu fod pobl o weddill y byd yn dod i berthynas iawn â Duw , beth fydd canlyniad eu derbyn nhw yn ôl ? Bydd fel petai'r meirw'n dod yn ôl yn fyw !
+45011018	~		Ond paid meddwl dy fod ti'n wahanol i'r canghennau gafodd eu llifio i ffwrdd ! Cofia mai dim ti sy'n cynnal y gwreiddiau — y gwreiddiau sy'n dy gynnal di !
+45011033a	beth		Mae Duw mor ffantastig ! Mae e mor aruthrol ddoeth ! Mae'n deall popeth ! Mae beth mae e'n ei benderfynu y tu hwnt i'n hamgyffred ni , 
+45011033b	beth		a beth mae'n ei wneud y tu hwnt i'n deall ni !
+45011034a	pwy		Pwy sy'n gallu honni ei fod yn deall meddwl yr Arglwydd ? 
+45011034b	pwy		Pwy sydd wedi dod i wybod digon i roi cyngor iddo ?
+45011035	Pwy		Pwy sydd wedi rhoi cymaint i Dduw nes bod Duw â dyled i'w thalu iddo ?
+45014004	~		Oes gen ti hawl i ddweud y drefn wrth was rhywun arall ? Meistr y gwas sy'n penderfynu os ydy beth mae'n ei wneud yn iawn ai peidio . Gad i'r Arglwydd benderfynu os ydy'r rhai rwyt ti'n anghytuno gyda nhw yn gwneud y peth iawn .
+45014010a	pam		Felly pam rwyt ti mor barod i feirniadu dy gyd-Gristnogion 
+45014010b	~		ac edrych i lawr arnyn nhw ? Cofia y bydd rhaid i bob un ohonon ni sefyll o flaen llys barn Duw .
+46001020a	ble		Ble mae'r bobl glyfar ? 
+46001020b	ble		Ble mae athrawon y Gyfraith ? 
+46001020c	ble		Ble mae'r dadleuwyr i gyd ? Mae Duw wedi gwneud i ddoethineb dynol edrych yn dwp !
+46002011	Pwy		Pwy sy'n gwybod beth sydd ar feddwl rhywun arall ? Does neb , dim ond y person ei hun . Felly Ysbryd Duw ydy'r unig un sy'n gwybod beth sydd ar feddwl Duw .
+46002016a	pwy		“ Pwy sy'n gallu honni ei fod yn deall meddwl yr Arglwydd ? 
+46002016b	pwy		Pwy sy'n gallu rhoi cyngor iddo ? ” Ond mae'r gallu gynnon ni i weld pethau o safbwynt y Meseia .
+46003005a	pwy		Pwy ydy Apolos ? 
+46003005b	pwy		Pwy ydy Paul ? Dim ond gweision ! Trwon ni y daethoch chi i gredu , ond dim ond gwneud ein gwaith oedden ni — gwneud beth oedd Duw wedi ei ddweud wrthon ni .
+46004007a	beth		Beth sy'n eich gwneud chi'n well na phobl eraill ? 
+46004007b	beth		Beth sydd gynnoch chi ydych chi ddim yn y pen draw wedi ei dderbyn gan Dduw ? Ac os mai rhodd gan Dduw ydy'r cwbl , 
+46004007c	beth		beth sydd i frolio amdano ? — fel petaech chi'ch hunain wedi cyflawni rhywbeth !
+46004021	beth		Dewiswch beth sydd orau gynnoch chi — i mi ddod gyda gwialen i gosbi a dweud y drefn , neu ddod yn llawn cariad ac yn addfwyn ?
+46005002	pam		A dych chi'n dal yn falch ohonoch chi'ch hunain ? Dylai'r fath beth godi cywilydd arnoch chi ! Dylech chi fod wedi'ch llethu gan alar ! Pam dych chi ddim wedi disgyblu'r dyn , a'i droi allan o gymdeithas yr eglwys ?
+46005012	~		Dim fy lle i ydy barnu pobl y tu allan i'r eglwys . Ond dŷn ni yn gyfrifol am y bobl sy'n perthyn i'r eglwys .
+46006001	sut		Pan mae gynnoch chi achos yn erbyn Cristion arall , sut allwch chi feiddio mynd i lys barn ? Rhannwch y peth gyda'ch cyd-Gristnogion , iddyn nhw ddelio â'r mater .
+46006003	~		Rhaid i chi gofio y byddwn ni'n barnu angylion bryd hynny ! Felly does bosib nad ydyn ni'n gallu setlo problemau pob dydd ar y ddaear yma !
+46006004	~		Ond na , mae rhyw achos yn codi a dych chi'n gofyn i bobl y tu allan i'r eglwys ddelio â'r mater !
+46006007a	~		Mae achosion llys fel yma rhwng Cristnogion â'i gilydd yn dangos methiant llwyr . Byddai'n well petaech chi'n diodde'r cam , 
+46006007b	~		ac yn gadael i'r person arall eich twyllo chi !
+46006009	~		Ydych chi ddim yn sylweddoli bod pobl ddrwg ddim yn cael perthyn i deyrnasiad Duw ? Peidiwch twyllo'ch hunain : Fydd dim lle yn ei deyrnas i bobl sy'n anfoesol yn rhywiol , yn addoli eilun-dduwiau , neu'n godinebu , i buteinwyr gwrywgydiol , gwrywgydwyr gweithredol ,
+46006016	~		Ydych chi ddim yn sylweddoli fod dyn yn clymu ei hun gyda'r butain wrth gael rhyw gyda hi ? “ Bydd y ddau yn dod yn un , ” meddai'r ysgrifau sanctaidd .
+46006019	~		Ydych chi ddim yn sylweddoli fod eich corff chi'n deml i'r Ysbryd Glân ? Mae'r Ysbryd yn byw ynoch chi — mae wedi ei roi'n rhodd i chi gan Dduw . Dim chi biau eich bywyd ;
+46007016a	~		Dwyt ti ddim yn gwybod , wraig , falle y byddi di'n gyfrwng i achub dy ŵr ! 
+46007016b	~		Neu ti'r gŵr , falle y byddi di'n gyfrwng i achub dy wraig !
+46009007a	~		Ydy milwr yn y fyddin yn gorfod talu ei gostau ei hun ? 
+46009007b	~		Ydy rhywun yn plannu gwinllan a byth yn cael bwyta'r grawnwin ? 
+46009007c	~		Neu'n gofalu am braidd a byth yn cael yfed y llaeth ?
+46009018	beth		Felly beth ydy'r wobr i mi ? Hyn yn syml : Fy mod yn cyhoeddi'r newyddion da i bobl yn rhad ac am ddim , heb fanteisio ar fy hawliau fel pregethwr .
+46010019a	beth		Felly beth dw i'n geisio ei ddweud ? 
+46010019b	~		— fod bwyta beth sydd wedi ei offrymu i eilun-dduwiau yn golygu rhywbeth , 
+46010019c	~		neu fod yr eilun ei hun yn rhywbeth ?
+46010029	pam		cydwybod y person hwnnw dw i'n ei olygu , nid eich cydwybod chi . “ Ond pam dylai fy rhyddid i gael ei glymu gan gydwybod rhywun arall ? ” meddech chi .
+46010030	pam		“ Os dw i'n diolch i Dduw am y bwyd o mlaen i , pam dylwn i gael enw drwg am ei fwyta ? ”
+46011022	Beth		Oes gynnoch chi ddim cartrefi i bartïo ac i yfed ynddyn nhw ? Neu dych chi wir am fwrw sen ar eglwys Dduw , a chodi cywilydd ar y bobl hynny sydd heb ddim ? Beth alla i ei ddweud ? Ydw i'n mynd i'ch canmol chi ? Na , dim o gwbwl !
+46012017a	~		Fyddai'r corff ddim yn gallu clywed petai'n ddim byd ond llygaid ! 
+46012017b	sut		A petai'n ddim byd ond clustiau , sut fyddai'n gallu arogli ?
+46012019	~		Petai pob rhan o'r corff yr un fath â'i gilydd , fyddai'r corff ddim yn bod !
+46014006	~		Ffrindiau annwyl , taswn i wedi dod atoch chi yn siarad mewn ieithoedd dieithr , fyddai hynny'n dda i ddim . Byddai'n llawer gwell i mi rannu rhywbeth sydd wedi ei ddatguddio i mi , neu air o wybodaeth neu broffwydoliaeth neu neges fydd yn dysgu rhywbeth i chi .
+46014007	sut		Mae'r un fath ag offerynnau cerdd : mae ffliwt neu delyn yn gallu gwneud sŵn , ond sut mae disgwyl i rywun nabod yr alaw oni bai fod nodau gwahanol ?
+46014008	pwy		Neu meddyliwch am utgorn yn canu — os ydy'r sain ddim yn glir , pwy sy'n mynd i baratoi i fynd i ryfel ?
+46014009	pa		Mae'r un fath gyda chi . Os ydy beth dych chi'n ei ddweud ddim yn gwneud sens , pa obaith sydd i unrhyw un ddeall ? Byddwch yn siarad gyda'r gwynt !
+46014015	beth		Felly beth wna i ? Gweddïo o ddyfnder fy ysbryd , a gweddïo gyda'r meddwl hefyd ; canu mawl o waelod fy ysbryd , a chanu mawl gyda'r meddwl hefyd .
+46014016	sut		Os mai dim ond yn dy ysbryd rwyt ti'n moli Duw , sut mae pobl eraill i fod i ddeall a dweud “ Amen ” i beth rwyt ti'n diolch amdano ? — dŷn nhw ddim yn gwybod beth rwyt ti'n ddweud !
+46014026	beth		Beth dw i'n ei ddweud felly , ffrindiau annwyl ? Pan fyddwch yn cyfarfod gyda'ch gilydd , mae gan bawb rywbeth i'w rannu — cân , rhywbeth i'w ddysgu i eraill , rhyw wirionedd sydd wedi ei ddatguddio , siarad iaith ddieithr neu'r gallu i esbonio beth sy'n cael ei ddweud . Dylai popeth gael ei wneud mewn ffordd fydd yn cryfhau cymdeithas yr eglwys .
+46014036	beth		Beth ? Ai oddi wrthoch chi ddaeth neges Duw gyntaf ? Neu ai chi ydy'r unig bobl y mae neges Duw wedi dod atyn nhw ?
+46015012	sut		Os ydyn ni'n cyhoeddi fod y Meseia wedi ei godi yn ôl yn fyw , sut mae rhai pobl yn gallu dweud fod y rhai sydd wedi marw ddim yn mynd i atgyfodi ?
+46015029a	~		
+46015029b	beth		Os ydy'r rhai sydd wedi marw ddim yn mynd i gael eu codi yn ôl yn fyw , beth ydy'r pwynt o bobl yn cymryd eu bedyddio er mwyn y rhai sydd wedi marw ? 
+46015029c	~		Os ydyn nhw ddim yn mynd i ddod yn ôl yn fyw , mae'n ddiystyr .
+46015030a	~		A beth amdanon ni ! 
+46015030b	pam		Pam dŷn ni'n fodlon peryglu'n bywydau drwy'r adeg ?
+46015032	pa		Pa fantais oedd i mi ymladd gyda'r anifeiliaid gwyllt yn Effesus , os oeddwn i'n gwneud hynny o gymhellion dynol yn unig , ac os nad oes bywyd ar ôl marwolaeth ? “ Gadewch i ni gael parti ac yfed ; falle byddwn ni'n marw fory ! ”
+46015035a	sut		Ond wedyn dw i'n clywed rhywun yn gofyn , “ Sut mae'r rhai sydd wedi marw yn mynd i godi ? 
+46015035b	sut		Sut fath o gorff fydd ganddyn nhw ? ”
+46015055a	ble		“ O farwolaeth ! Ble mae dy fuddugoliaeth di ? O farwolaeth ! 
+46015055b	ble		Ble mae dy bigiad marwol di ? ”
+47002002	~		
+47002016	Pwy		Mae fel mwg gwenwynig i'r ail grŵp , ond i'r lleill yn bersawr hyfryd sy'n arwain i fywyd . Pwy sy'n ddigon da i wneud gwaith mor bwysig ? Neb mewn gwirionedd !
+47003008	beth		Felly beth am drefn newydd yr Ysbryd ? Oni fydd hi'n dod gydag ysblander llawer iawn mwy rhyfeddol ?
+47003009	~		Os oedd y drefn sy'n arwain i farn yn wych , meddyliwch mor anhygoel o wych fydd y drefn newydd sy'n dod â ni i berthynas iawn gyda Duw !
+47006014a	~		Dych chi'n wahanol i bobl sydd ddim yn credu — felly peidiwch ymuno â nhw . Ydy cyfiawnder a drygioni'n gallu bod yn bartneriaid ? 
+47006014b	~		Neu olau a thywyllwch ?
+47006015a	~		Ydy'r Meseia a'r diafol yn creu harmoni ? 
+47006015b	beth		Beth sydd gan rywun sy'n credu a rhywun sydd ddim yn credu yn gyffredin ?
+47006016	~		Ydy'n iawn rhoi eilun-dduwiau yn nheml Duw ? Na ! A dŷn ni gyda'n gilydd yn deml i'r Duw byw . Fel mae Duw ei hun wedi dweud : “ Bydda i'n byw gyda nhw ac yn symud yn eu plith nhw ; fi fydd eu Duw nhw a nhw fydd fy mhobl i . ”
+47011011	pam		Ond pam dw i'n gwneud hyn ? Am fy mod i ddim yn eich caru chi ? Duw a ŵyr cymaint dw i'n eich caru chi !
+47011029a	~		Os ydy rhywun yn teimlo'n wan , dw i yno gydag e . 
+47011029b	~		Os ydy rhywun yn cael ei arwain i bechu , dw i'n berwi y tu mewn !
+47012013	~		Wnes i lai i chi na wnes i i'r eglwysi eraill ? Dim ond peidio bod yn faich ariannol arnoch chi ! … O , maddeuwch i mi am wneud cam â chi !
+47012017	sut		Sut felly ? Wnes i ddefnyddio'r bobl anfonais i atoch chi i gymryd mantais ohonoch chi ?
+48002014	sut		Ond roedd hi'n gwbl amlwg i mi eu bod nhw'n ymddwyn yn groes i wirionedd y newyddion da . Felly dyma fi'n dweud wrth Pedr o'u blaen nhw i gyd , “ Rwyt ti'n Iddew , ac eto rwyt ti'n byw fel pobl o genhedloedd eraill , felly sut wyt ti'n cyfiawnhau gorfodi pobl o'r gwledydd hynny i ddilyn traddodiadau Iddewig ? ”
+48003001	Pwy		Chi bobl Galatia , ydych chi wir mor dwp â hynny ? Pwy sydd wedi'ch hudo chi ? Cafodd ystyr marwolaeth Iesu y Meseia ar y groes ei esbonio'n glir i chi .
+48003019	beth		Felly beth oedd diben rhoi'r Gyfraith ? Cafodd ei rhoi i ddangos i bobl beth ydy ystyr pechu , hyd nes i'r ‛ hedyn ‛ y soniwyd amdano gyrraedd — sef yr un oedd yr addewid yn cyfeirio ato . Cofiwch hefyd fod Duw wedi defnyddio angylion i roi'r Gyfraith i ni , a hynny trwy ganolwr , sef Moses .
+48004009a	pam		Ond bellach dych chi wedi cyfarfod , a dod i nabod , y gwir Dduw ( er , Duw ddaeth i'ch cyfarfod chi go iawn ) . Felly pam dych chi eisiau troi'n ôl at y pethau hynny sydd mor wan a thila ? 
+48004009b	~		Ydych chi eisiau cael eich caethiwo ganddyn nhw unwaith eto ?
+48004010	~		Ydych chi'n meddwl mai cadw rhyw fân reolau am ddyddiau arbennig a misoedd a thymhorau'r gwyliau crefyddol blynyddol sy'n plesio Duw ?
+48004015	Beth		Roeddech chi mor hapus ! Beth sydd wedi digwydd ? Dw i'n reit siŵr y byddech chi bryd hynny wedi tynnu'ch llygaid eich hunain allan a'u rhoi nhw i mi petai'n bosib .
+48004021	beth		Dwedwch wrtho i — chi sydd eisiau cael eich rheoli gan fanion y Gyfraith Iddewig . Ydych chi ddim yn gwrando ar beth mae'r Gyfraith yn ei ddweud ?
+48004030	beth		Ond beth ydy ateb yr ysgrifau sanctaidd i'r broblem ? “ Rhaid i ti gael gwared â'r gaethferch a'i mab . Fydd mab y gaethferch ddim yn cael rhan o etifeddiaeth mab dy wraig , sy'n rhydd . ”
+48005007a	pam		Roeddech chi'n dod ymlaen mor dda . Pwy wnaeth eich rhwystro chi rhag ufuddhau i'r gwir ?
+48005007b	~		
+48005011	pam		Frodyr a chwiorydd , os ydw i'n dal i bregethu bod rhaid mynd trwy ddefod enwaediad , pam ydw i'n dal i gael fy erlid ? Petawn i'n gwneud hynny , fyddai'r groes ddim problem i neb .
+49004009	~		
+50001018	pa		Ond pa wahaniaeth ? Beth bynnag ydy eu rhesymau nhw , y peth pwysig ydy bod y neges am y Meseia yn cael ei chyhoeddi ! Mae hynny'n fy ngwneud i'n hapus . A hapus fydda i hefyd !
+50001021	~		I mi , y Meseia ydy holl ystyr a phwrpas byw , a dw i'n ennill hyd yn oed os bydda i'n cael fy lladd !
+51002020	pam		Buoch farw gyda'r Meseia , a dych chi wedi'ch rhyddhau o afael y dylanwadau drwg sy'n rheoli'r byd yma . Felly pam ydych chi'n dal i ddilyn rhyw fân reolau fel petaech chi'n dal i ddilyn ffordd y byd ?
+52002019	~		Wedi'r cwbl , chi sy'n rhoi gobaith i ni ! Chi sy'n ein gwneud ni mor hapus ! Chi ydy'r goron fyddwn ni mor falch ohoni pan safwn ni o flaen ein Harglwydd Iesu ar ôl iddo ddod yn ôl !
+52003009	Sut		Sut allwn ni ddiolch digon i Dduw amdanoch chi ? Dych chi wedi'n gwneud ni mor hapus !
+54003005	sut		( Os ydy rhywun ddim yn gallu cadw trefn ar ei deulu ei hun , sut mae disgwyl iddo ofalu am eglwys Dduw ? )
+54006007a	~		Doedd gynnon ni ddim pan gawson ni ein geni , 
+54006007b	~		a fyddwn ni'n gallu mynd â dim byd gyda ni pan fyddwn ni farw .
+58001005	~		Wnaeth Duw ddweud hyn wrth angel erioed : “ Ti ydy fy Mab i ; heddiw des i yn dad i ti ” ? Neu hyn : “ Bydda i'n dad iddo fe , A bydd e'n fab i mi ” ?
+58001013	~		Wnaeth Duw ddweud hyn wrth angel erioed ? : “ Eistedd yma yn y sedd anrhydedd nes i mi wneud i dy elynion blygu fel stôl i ti orffwys dy draed arni . ”
+58001014	~		Dim ond gweision ydy'r angylion . Ysbrydion wedi eu hanfon i wasanaethu'r rhai fydd yn cael eu hachub !
+58002003	pa		Felly pa obaith sydd i ni ddianc rhag cael ein cosbi os gwnawn ni ddiystyru'r neges ffantastig yma am Dduw yn achub ! Cafodd ei chyhoeddi gyntaf gan yr Arglwydd Iesu ei hun . Wedyn cafodd ei rhannu gyda ni gan y bobl hynny oedd wedi clywed Iesu .
+58002006a	beth		Mae rhywun wedi dweud yn rhywle : “ Beth ydy pobl i ti boeni amdanyn nhw ? 
+58002006b	pam		Pam ddylet ti ofalu am berson dynol ?
+58003016	pwy		A pwy oedd y rhai wnaeth wrthryfela er eu bod wedi clywed llais Duw ? Onid y bobl wnaeth Moses eu harwain allan o'r Aifft ?
+58003017	pwy		A gyda pwy roedd Duw'n ddig am 40 mlynedd ? Onid gyda'r rhai oedd wedi pechu ? — nhw syrthiodd yn farw yn yr anialwch !
+58003018	bwy		Ac am bwy ddwedodd Duw ar lw na chaen nhw byth fynd i'r lle sy'n saff i orffwys gydag e ? — onid y bobl hynny oedd yn gwrthod ei ddilyn ?
+58006004	~		Mae'n gwbl amhosib arwain y rhai sydd wedi troi cefn ar y Meseia yn ôl ato . Dyma'r bobl welodd oleuni'r gwirionedd unwaith . Cawson nhw brofi rhodd hael Duw , a derbyn yr Ysbryd Glân gydag eraill .
+58007011	pam		Mae'r Gyfraith Iddewig yn dibynnu ar waith yr offeiriaid sy'n perthyn i urdd Lefi . Os oedd y drefn offeiriadol hon yn cyflawni bwriadau Duw yn berffaith pam roedd angen i offeiriad arall ddod ? Pam wnaeth Duw anfon un oedd yr un fath â Melchisedec yn hytrach nag un oedd yn perthyn i urdd Lefi ac Aaron ?
+58009014	~		Ond mae gwaed y Meseia yn cyflawni llawer iawn mwy — mae'n glanhau'r gydwybod o'r pethau sy'n arwain i farwolaeth . Felly gallwn ni wasanaethu'r Duw byw ! Mae'r Meseia wedi cyflwyno ei hun yn aberth perffaith i Dduw drwy nerth yr Ysbryd tragwyddol .
+58010001	~		Rhyw awgrym o'r pethau gwych sydd i ddod sydd yn y Gyfraith Iddewig — dim y bendithion eu hunain . Dyna pam dydy'r Gyfraith ddim yn gallu glanhau'n berffaith y rhai sy'n mynd i addoli , a pham mae'r un aberthau yn gorfod cael eu cyflwyno dro ar ôl tro , flwyddyn ar ôl blwyddyn .
+58010029a	~		Bydd y gosb yn llawer iawn mwy llym i'r bobl hynny sydd wedi sathru Mab Duw dan draed fel petai'n sbwriel ac wedi trin ei waed ( gwaed yr ymrwymiad newydd ) fel petai'n beth aflan ! Maen nhw wedi sarhau Ysbryd hael Duw !
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	Beth		Beth arall sydd raid i mi ei ddweud ? Does gen i ddim amser i sôn am Gideon , Barac , Samson , Jefftha , Dafydd , Samuel a'r holl broffwydi .
+58012007	pwy		Cymerwch y dioddef fel disgyblaeth . Mae Duw'n eich trin chi fel ei blant . Pwy glywodd am blentyn sydd ddim yn cael ei ddisgyblu gan ei rieni ?
+58012009	~		Pan oedd ein rhieni yn ein disgyblu ni , roedden ni'n eu parchu nhw . Felly oni ddylen ni wrando fwy fyth ar ein Tad ysbrydol , i ni gael byw ?
+58012025	~		Gwnewch yn siŵr eich bod yn gwrando'n ofalus ar Dduw , yr un sy'n siarad â chi . Os wnaeth pobl Israel ddim dianc pan wrthodon nhw wrando ar Moses , yr un o'r ddaear oedd yn eu rhybuddio nhw , pa obaith sydd i ni os ydyn ni'n troi'n cefnau ar Iesu , yr Un o'r nefoedd sydd wedi'n rhybuddio ni !
+58013006	Beth		Felly gallwn ni ddweud yn hyderus , “ Yr Arglwydd ydy'r un sy'n fy helpu i ; fydd gen i ddim ofn . Beth all pobl ei wneud i mi ? ”
+59002006	~		Ond dych chi'n amharchu'r tlawd ! Y cyfoethog ydy'r bobl sy'n eich cam-drin chi ! Onid nhw sy'n eich llusgo chi o flaen y llysoedd ?
+59002014	beth		Frodyr a chwiorydd , beth ydy'r pwynt i rywun honni ei fod yn credu , ac wedyn gwneud dim byd o ganlyniad i hynny ? Ai dyna'r math o ‛ gredu ‛ sy'n achub rhywun ?
+59002016a	~		ac yna'n dweud , “ Pob bendith i ti ! Cadw'n gynnes , a gobeithio cei di rywbeth i'w fwyta . ” 
+59002016b	beth		Beth ydy'r pwynt os ydych chi'n ei adael yno heb roi dim byd iddo ?
+59002018	~		Ond wedyn mae rhywun yn dadlau “ Mae gan rai pobl ffydd ac mae eraill yn gwneud daioni . ” A dw i'n ateb , “ Wyt ti'n gallu dangos dy ffydd i mi heb wneud dim ? Dw i'n dangos fy mod i'n credu drwy beth dw i'n ei wneud ! ”
+59002021	~		Meddylia am ein cyndad Abraham . Onid y ffaith ei fod wedi gweithredu , a mynd ati i offrymu ei fab Isaac ar yr allor wnaeth ei berthynas e gyda Duw yn iawn ?
+59003013	Pwy		Pwy ohonoch chi sy'n meddwl ei fod yn ddoeth ac yn gall ? Dylai ddangos hynny yn y ffordd mae'n ymddwyn . Mae doethineb go iawn yn gwneud daioni heb frolio am y peth .
+59003017	~		Ond mae'r doethineb sy'n dod oddi wrth Dduw yn y lle cyntaf yn bur . Mae hefyd yn meithrin heddwch , addfwynder , cydweithrediad , caredigrwydd a gweithredoedd da . Mae'n gwbl ddiduedd a diragrith .
+59004001a	beth		Beth sy'n gyfrifol am yr holl frwydro 
+59004001b	~		a'r gwrthdaro sy'n eich plith chi ? Onid yr ymdrech barhaus i fodloni'r hunan ydy'r drwg ?
+59004012	Pwy		A'r Un sydd wedi rhoi'r Gyfraith i ni , Duw ei hun , ydy'r unig Farnwr go iawn . Fe sydd â'r gallu i achub a dinistrio , dim ti ! Pwy wyt ti'n feddwl wyt ti yn barnu dy gymydog ?
+59004014	~		Wyddoch chi ddim beth fydd yn digwydd fory ! Dydy'ch bywyd chi yn ddim byd ond tarth — mae'n ymddangos am ryw ychydig , ac yna'n diflannu !
+60002020	~		Does dim rheswm i ganmol rhywun am fodloni cael ei gosbi os ydy e wedi gwneud drwg . Ond os ydych chi'n fodlon dioddef er eich bod chi wedi gwneud y peth iawn , mae hynny'n plesio Duw .
+60003013	~		Does neb yn gallu gwneud niwed go iawn i chi os dych chi'n frwd i wneud daioni .
+60004017	beth		Mae'n bryd i'r farn ddechrau , a phobl Dduw ydy'r rhai cyntaf i gael eu barnu . Ac os ydyn ni'n cael ein barnu gyntaf , beth fydd yn digwydd i'r rhai hynny sydd ddim yn ufudd i newyddion da Duw ?
+60004018	beth		Fel mae'r ysgrifau sanctaidd yn dweud : “ Os mai o drwch blewyn mae'r rhai sy'n gwneud beth sy'n iawn yn dianc beth ddaw o bobl annuwiol sy'n anufudd i Dduw ? ”
+61003004	Ble		Byddan nhw'n dweud , “ Wnaeth e ddim addo dod yn ôl ? Ble mae e felly ? Er bod y genhedlaeth gyntaf wedi marw , does dim wir wedi newid — mae bywyd yn mynd yn ei flaen yr un fath ers dechrau'r byd ! ”
+61003011	sut		Am fod popeth yn mynd i gael ei ddinistrio fel hyn , mae'n amlwg sut bobl ddylen ni fod ! Dylen ni fyw bywydau glân sy'n rhoi Duw yn y canol ,
+62002022	pwy		A pwy sy'n dweud celwydd ? Dweda i wrthoch chi ! — unrhyw un sy'n gwrthod y ffaith mai Iesu ydy'r Meseia . Gelynion y Meseia ydy pobl felly — pobl sy'n gwrthod y Tad yn ogystal â'r Mab !
+62003012	pham		Rhaid i ni beidio bod fel Cain , oedd yn perthyn i'r un drwg ac a laddodd ei frawd . A pham wnaeth e ladd ei frawd ? Am fod Cain wedi gwneud drwg , a'i frawd wedi gwneud y peth iawn .
+62003017	sut		Os oes gan rywun ddigon o arian ac eiddo , ac yn gweld fod brawd neu chwaer mewn angen , ac eto'n dewis gwneud dim byd i'w helpu nhw , sut allwch chi ddweud fod cariad Duw yn rhywun felly ?
+62004020	sut		Pwy bynnag sy'n dweud ei fod yn caru Duw ac eto ar yr un pryd yn casáu brawd neu chwaer , mae'n dweud celwydd . Os ydy rhywun ddim yn gallu caru Cristion arall mae'n ei weld , sut mae e'n gallu caru'r Duw dydy e erioed wedi ei weld ?
+62005005	Pwy		Pwy sy'n llwyddo i ennill y frwydr yn erbyn y byd ? Dim ond y rhai sy'n credu mai Iesu ydy Mab Duw .
+66005002	Pwy		Wedyn gwelais angel pwerus yn cyhoeddi'n uchel , “ Pwy sy'n deilwng i dorri'r seliau ar y sgrôl a'i hagor ? ”
+66006010a	faint		Roedden nhw'n gweiddi'n uchel , “ O Feistr Sofran , sanctaidd a gwir ! Faint mwy sydd raid i ni aros cyn i ti farnu'r bobl sy'n perthyn i'r ddaear , 
+66006010b	~		a dial arnyn nhw am ein lladd ni ? ”
+66006017	Pa		Mae'r diwrnod mawr iddo ddangos mor ddig ydy e wedi dod ! Pa obaith sydd i unrhyw un ? ”
+66007013a	pwy		Yna dyma un o'r arweinyddion ysbrydol yn gofyn i mi , “ Wyt ti'n gwybod pwy ydy'r bobl hyn sy'n gwisgo mentyll gwynion , 
+66007013b	o ble		ac o ble maen nhw wedi dod ? ”
+66013004a	~		
+66013004b	~		
+66015004a	pwy		Pwy fyddai ddim yn dy barchu di , 
+66015004b	~		a chanmol dy enw di , Arglwydd ? Oherwydd dim ond ti sy'n sanctaidd . Bydd pobl y gwledydd i gyd yn dod i addoli o dy flaen di , oherwydd mae'n amlwg fod beth wnaethost ti yn gyfiawn . ”
+66017007	~		
+66018018	~		Wrth weld y mwg yn codi am ei bod hi'n llosgi , byddan nhw'n gweiddi , ‘ Oes dinas arall debyg i'r ddinas fawr hon ? ’

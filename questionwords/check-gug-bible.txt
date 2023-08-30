@@ -1,0 +1,743 @@
+40002002	Moõpa		Ha oporandu hikuái upépe : — Moõpa oime pe mitã ou vaekue Israelgua kuéra ruvicha guasurã ? Rohecha niko kuarahy resẽme mbyja chupe omohenondéva , ha roju romomba'e guasúvo chupe .
+40002004	mamópa		Upémarõ , mburuvicha guasu ohenoika pa'i ruvicha kuérape , Moisés rembiapoukapy mbo'eha kuérape , ha oporandu chupe kuéra mamópa ou vaerã ra'e pe Mesías .
+40003007	Máva piko		Juan ohechávo umi fariséo ha Saduséo kuérava hetaha oúva oñemongarai haguã , he'i chupe kuéra : — Peẽ mbói ñemoñare ! Máva piko he'i peẽme ikatúne haguã pekañy upe ñenupã Tupã omboútavagui ?
+40005013	~		Peẽ niko jukýicha hína ko yvy ári . Juky nahe'ẽvéi ramo niko ndaikatu véima oñemohe'ẽ jey , naiporã véima mba'everã . Upévare , okápe oñemombo ha oñepyrũmba hese .
+40005046	Mba'éicha piko		Mba'éicha piko Tupã omyengoviáta peẽme , peẽ pehayhúrõ umi pende rayhúvapente ? Umi viru ombyatýva táva Roma peguarã jepe niko péicha oiko .
+40005047	piko mba'e		Ha peẽ peñe'ẽrõ umi peikuaávapente , piko mba'e iporãva oĩ upévape ? Umi Tupãre ojerovia'ỹva jepe niko péicha ojapo .
+40006027	Máva piko		Máva piko pende apytégui ojepy'apy haguére ikatúne ombojoapy hekove michĩ ra'ymínte jepe ?
+40006028	Maerã piko		Maerã piko pejepy'apy pemonde vaerãre ? Pema'ẽ umi yvoty ñúme guáre , mba'éichapa okakuaa , omba'apo ha ojapo'ỹre mba'eve .
+40006031a	Mba'éiko		Upévare , ani pejepy'apy ha peje : ‘ Mba'éiko ja'úta ? 
+40006031b	Mba'éiko		Mba'éiko ñamboy'úta ? 
+40006031c	Mba'éiko		Mba'éiko ñamondéta ? ’
+40007003	Mba'éicha piko		Mba'éicha piko rehecha pe yvyra ku'i nde ryvy resápe oĩva , ha nderehechái pe yvyra poguasu nde resápe voi rerekóva ?
+40007004	Mba'éicha piko		Mba'éicha piko eréta nde ryvýpe : “ Taipe'a ndéve pe yvyra ku'i nde resápe oĩva ” , nde voi rereko ramo peteĩ yvyra poguasu nde resápe ?
+40007009	~		Peẽ piko , pende ra'y ojerure ramo peẽme mbuja peme'ẽta chupe ita pehẽngue ?
+40007016a	~		Hembiapokuére peikuaáta chupe kuéra . Ndojepo'ói niko úva ñuatĩ mátagui , 
+40007016b	~		térã ígo ñuatĩ pytãgui .
+40008026	Mba'ére piko		Jesús katu he'i chupe kuéra : — Mba'ére piko peichaite peve pekyhyje ? Pejerovia'i eterei niko Tupãre . Upépe Jesús opu'ã ha oñembo'y . Oja'o pochy pe yvytu ha pe ýpe , ha opi pe yvytu ha oguapy pe y .
+40008027	Mávatepa		Hemimbo'e kuéra katu oñemondyipa ha oporandu ojupe : — Mávatepa kóva , ko yvytu ha yguasu jepe iñe'ẽ rendúva chupe ?
+40008029	~		Hatã osapukái hikuái ha he'i : — Aníke rejapo ore rehe mba'eve , Tupã Ra'y . Reju piko ore mbohasa asývo ára paha oguahẽ mboyve ?
+40009004	Mba'ére piko		Ha Jesús ohecha kuaágui mba'épa he'i hína hikuái , he'i chupe kuéra : — Mba'ére piko ivaíva pembojere peína pene akãme ?
+40009005	Mba'épa		Mba'épa ndahasyive ja'e ko kuimba'épe : “ Ojeheja reíma ndéve ne angaipa ” , térãpa “ Epu'ã ha eguata ” ?
+40009011	Mba'éicha rupi piko		Fariséo kuéra ohechávo upéva he'i Jesús remimbo'e kuérape : — Mba'éicha rupi piko pene mbo'ehára oguapy okaru viru mbyatyha ha iñangaipáva ndive ?
+40009014	Mba'ére piko		Upéi Juan Bautista remimbo'e kuéra oñemboja Jesús rendápe , ha oporandu chupe : — Fariséo kuéra ha ore ave , niko rohasa jepi ára ro'u'ỹre mba'eve . Mba'ére piko ne remimbo'e kuéra ndaupéichai ?
+40009015	~		Jesús he'i chupe kuéra : — Peẽ piko peimo'ã peteĩ omenda ramóva irũ nguéra oñembyasytaha ha'e oĩ aja hendive kuéra imendahápe ? Nahániri . Ágãnte oguahẽne ára ipore'ỹvo ha'e , ha upépe katu ohasáne ho'u'ỹre mba'eve .
+40010025	piko mba'e		Upévare , peteĩ temimbo'e ovy'a vaerã ohupytýrõ imbo'ehárape , ha peteĩ tembiguái ijárape . Óga járare oje'érõ Beelzebú , , piko mba'e ndoje'e mo'ãi umi hóga guáre ?
+40011007	mba'e		Juan remimbo'e kuéra ohokuévo , Jesús oñepyrũ oñe'ẽ hese opavavépe , ha he'i : — Peẽ pesẽ ramo guare peho yvy ojeiko'ỹháme , mba'e pehecha haguãpa peho ra'e ? Pehechápa ra'e takuapi yvytu ombovaváva ? Nahániri .
+40011008	Maerã		Maerã aipo ramo peho ? Pehópa pehecha peteĩ kuimba'e oñemonde jeguapávapa ? Peẽ niko peikuaa porã umi oñemonde jeguáva oikoha mburuvicha guasu kuéra rógapente .
+40011009	mba'e		Amo ipahápe , mba'e aipo ramo pesẽ pehecha ? Peteĩ maranduhárape , ajépa . Upéicha añete . Ha pejuhu peteĩ mba'e guasuvéva maranduháragui katu .
+40011016	Mávarepa		Mávarepa ikatu ambojoja umi ko'agãgua ? Ojogua umi mitã pe okáre oñembojarúva ha osapukáiva ojupe :
+40012011	Mávapa		Jesús he'i chupe kuéra : — Mávapa pende apytépe pende ovecha peteĩ ho'árõ yvy kuápe pytu'uha árape , ndapehói peguenohẽ haguã ?
+40012026	mba'éicha piko		Péicha avei Sataná voi opu'ã ramo ijehe , mba'éicha piko imbarete tapiáta ?
+40012027	máva piko		Peẽ niko peje che amosẽha mba'epochy Beelzebú pokatu rupi . Péicharõ añete , máva piko ome'ẽ pene remimbo'e kuérape pokatu omosẽ haguã chupe kuéra ? Pene remimbo'e kuéra ojapóva rupi voi , ojehecha peẽ pejavyha .
+40012029	~		Avave ndoike mo'ãi peteĩ kuimba'e imbaretéva rógape omonda haguã chupe , ndoipokuái ha ndoipykuái raẽirõ . Péicha ojapo ramo mante ikatúne omonda chugui .
+40012034	Mba'éicha piko		Peẽ mbói ñemoñare ! Mba'éicha piko iporãva pejéta , ko peẽ voi pende reko vaíva ? Pe ñande py'apýpe jarekóva , ñahenduka ñande juru rupi .
+40012048a	Mávaiko		Jesús katu he'i : — Mávaiko che sy 
+40012048b	máva		ha máva che ryvy ?
+40013010	Mba'ére piko		Upéi , hemimbo'e kuéra oñemboja Jesús rendápe ha oporandu chupe : — Mba'ére piko opavavépe reñe'ẽ jave , reiporu ñe'ẽ mbojoja chupe kuéra rembo'e haguã ?
+40013027	Mba'éicha piko		Pe kokue jára rembiguái kuéra oho hendápe ha he'i chupe : ‘ Karai , pe mba'e ra'ỹi reñotỹ vaekue nde kokuépe niko iporã vaekue . Mba'éicha piko péicharõ osẽ ko'ã ñana ijapytépe ? ’
+40013054a	Moõgui piko		ha oguahẽ upe ha'e oikove ypy haguépe . Upépe oñepyrũ oporombo'e umi judío kuéra tupaópe . Ha opavave ohecha ramoite chupe , ha he'i : — Moõgui piko oikuaa kóva hetaite mba'e ? 
+40013054b	Mba'éicha rupi piko		Mba'éicha rupi piko ojapo umi mba'e hechapyrãva ?
+40013056	Moõgui piko		Ha heindy kuéra nga'u piko ndoikói ñande apytépe ? Moõgui piko oguenohẽ opa ko'ã mba'e ?
+40014031	Mba'ére piko		Upévo Jesús ipojái ipóre , ha he'i chupe : — Rejerovia'i eterei ra'e ! Mba'ére piko nde py'a mokõi reguata haguã ?
+40015002	Mba'ére piko		— Mba'ére piko umi ne remimbo'e ndojapói hekópe umi mba'e ñande ypykue ñande reko mbo'e vaekue ? Ndojepohéiri niko okaru haguã , ojejapo vaerãháicha .
+40015003	mba'ére piko		Jesús he'i chupe kuéra : — Ha mba'ére piko peẽ avei ndapejapói hekópe Tupã rembiapoukapy , ha peẽ pejepokuaaháichante pejapo ?
+40015033	Mba'éicha piko		Hemimbo'e kuéra katu he'i chupe : — Mba'éicha piko jajuhúta tembi'u ñamongaru haguã opavavépe . Ko'a rupi niko ndaipóri avave oikóva .
+40015034	mboy		Jesús oporandu chupe kuéra : — Mboy mbuja piko pereko ? Ha'e kuéra he'i chupe : — 7 , ha pira mbovymi .
+40016008	Mba'ére piko		Ha Jesús oikuaa mba'épa he'i hikuái , ha upévare he'i chupe kuéra : — Mba'ére piko peñe'ẽterei ndaperekoiha mbuja ? Pejerovia'i etépa che rehe .
+40016009	mboy		Na pene mandu'ái nga'u piko amboja'o hague 5 mbuja 5.000 kuimba'épe , ha mboy ajakápa pembyaty hembyrégui ?
+40016010a	~		Na pene mandu'ái nga'u piko amboja'o hague umi 7 mbuja umi 4.000 kuimba'épe , 
+40016010b	mboy		ha mboy ajakápa pembyaty hembyrégui ?
+40016011	~		Ndapehecha kuaái ra'e na ñe'ẽi hague peẽme mbujáre . Ha'ese kuri peẽme peñeñangareko haguã umi fariséo ha Saduséo kuéra rova mokõigui .
+40016013	mavaha		Jesús oho táva Cesarea Filípope , ha upépe oĩ aja oporandu hemimbo'e kuérape : — Che , yvypóraicha aju vaekue rehépa , mavaha chépa oje'e ?
+40016015a	piko mba'e		Jesús oporandu chupe kuéra : — Ha peẽ piko mba'e peje , 
+40016015b	mávapa		mávapa che ?
+40016026a	Mba'épa		Mba'épa oguenohẽne yvypóra oguerekopárõ opaite mba'e ipópe , ha oñehundi ramo ha'e ? Mba'eve ! 
+40016026b	Mba'épa		Mba'épa ikatúne yvypóra ome'ẽ oikove jey haguã ? Mba'eve !
+40017010	Mba'ére piko		Hemimbo'e kuéra oporandu Jesúspe : — Mba'ére piko umi Moisés rembiapoukapy mbo'eha he'i Elías ou raẽ vaerãha ?
+40017017a	araka'e peve piko		Jesús he'i upémarõ : — Há , tekove jerovia'ỹ ! Araka'e peve piko aiméta pene ndive , 
+40017017b	araka'e peve piko		araka'e peve piko aikóta pende reheve ? Peru chéve pe mitã rusu .
+40017019	Mba'ére piko		Upéi umi hemimbo'e kuéra oñe'ẽ Jesús ndive ha'eñoháme , ha oporandu chupe : — Mba'ére piko ndaikatúi ra'e ore romosẽ pe mba'epochy ?
+40017025a	mba'épa		Ha Pedro he'i chupe : — Ome'ẽ . Upéi , Pedro oikévo Jesús rógape , Jesús raẽ imandu'a Pédrope , ha oporandu chupe : — Simón , mba'épa nde ere ? 
+40017025b	mávarepa		Mburuvicha kuéra ombyaty ramo viru , mávarepa ha'e kuéra omopẽ ? Hetãgua kuérarepa térã ambue tetãguáre ?
+40018001	Máva piko		Upérõ avei , hemimbo'e kuéra oñemboja Jesús rendápe ha oporandu chupe : — Máva piko pe mba'e guasuvétava Tupã oporosãmbyhývo yvágape ?
+40018012	Mba'épa		Mba'épa peẽ peimo'ã ojapotaha peteĩ kuimba'e oguerekóva 100 ovecha , ha okañy ramo chugui peteĩ ? Ohejáne ñúme umi 99 , oho haguã oheka pe okañy vaekue .
+40018021	mbovy		Upépe Pedro oñemboja Jesús rendápe ha he'i chupe : — Che Jára , mbovy jevyvépa che rapicha rembiapo vaikue aheja rei vaerã chupe ? Iporãma piko 7 jevyve aheja rei ramo ?
+40019007	Mba'ére piko		Upépe umi fariséo he'i chupe : — Mba'ére piko aipo ramo Moisés rembiapoukapýpe he'i kuimba'e ome'ẽ vaerãha hembirekópe kuatia jueja rehegua , ha upéi opoi chugui ?
+40019016	mba'e		Peteĩ karia'y oguahẽ Jesús rendápe ha oporandu chupe : — Mbo'ehára , mba'e iporãvapa ajapo vaerã ahupyty haguã jeikove opave'ỹva ?
+40019017	Mba'éicha rupi piko		Jesús he'i chupe : — Mba'éicha rupi piko reporandu chéve mba'épa hína pe iporãva ? Tupã rehe añónte niko ikatu ja'e upéva . Ha reikovese ramo , ejapo Tupã rembiapoukapy he'íva .
+40019018	Mavaitévapa		Pe karia'y he'i chupe : — Mavaitévapa ? Ha Jesús he'i chupe : — Ani reporojuka , ani reporomyakã ratĩ , ani remonda , ani eñe'ẽ rei nde rapicháre ,
+40019020	Mba'éiko		Pe karia'y he'i chupe : — Opa umíva niko ajapopáma . Mba'éiko ajapove vaerã ?
+40019025	Máva piko		Hemimbo'e kuéra ohendúvo upéva omomba'ete , ha he'i ojupe : — Máva piko aipórõ ikatúta oñepysyrõ ?
+40019027	Mba'éichapa		Upémarõ Pedro he'i chupe : — Ore niko roheja opa mba'e ndéve romoirũ haguã . Mba'éichapa oñemyengoviáta oréve upéva ?
+40020006	Mba'ére piko		Ha ka'aruete , osẽ oho jey upe oñeñemuháme ha ojuhu jey upépe hembiapo'ỹvape . Ha he'i chupe kuéra : “ Mba'ére piko peẽ peime rei peína ko'ápe ára pukukue pemba'apo'ỹre ? ”
+40020012	~		He'i chupe : “ Umi tapykue oike vaekue niko , sapy'amínte omba'apo ha reme'ẽ chupe kuéra oréve reme'ẽháicha , jepe ore ára pukukue romba'apo pe kuarahy akúpe . ”
+40020021	Mba'épa		Jesús oporandu chupe : — Mba'épa reipota ajapo ? Ha'e he'i chupe : — Aipota ere chéve , ko'ã che memby mokõi oguapytaha peteĩ nde akatúa gotyo ha ambue nde asu gotyo reguapývo reisãmbyhy mburuvicha guasúrõ .
+40020032	Mba'épa		Upévo Jesús opyta , ohenói umi ohecha'ỹvape ha he'i chupe kuéra : — Mba'épa peipota ajapo pende rehe ?
+40021010	Máva piko		Oguahẽvo Jesús Jerusalénpe , opa upepegua ipy'a tarovapa . Heta oĩ oporandúva : — Máva piko kóva ?
+40021016	mba'épa		Ha he'i Jesúspe : — Rehendu piko mba'épa he'i hikuái ? Ha Jesús he'i chupe kuéra : — Ahendu aína . Ndapeikuaái nga'u piko peẽ Ñandejára Ñe'ẽme he'iha : Mitã nguéra jurúguiha mitã kambu mimiche momba'e guasu vaerã hekoitépe .
+40021020	Mba'éicha piko		Hemimbo'e kuéra ohechávo upéva , ohecha ramoite ha oporandu Jesúspe : — Mba'éicha piko pe ígo máta pya'ete ipirupa ?
+40021023a	Máva piko		Jesús oho jey Tupaópe , ha oporombo'e jave upépe hína , oguahẽ hendápe pa'i ruvicha kuéra ha Israel myakãhára kuéra . Oporandu chupe hikuái : — Máva piko oheja ndéve rejapo haguã ko'ã mba'e ? 
+40021023b	Máva		Máva pokatu rupi reju ?
+40021025a	Máva piko		Peje chéve : Máva piko ombou raka'e Juánpe oporomongarai haguã ? Tupã térã piko yvypóra ? Ha'e kuéra katu oñepyrũ oñomongeta kyre'ỹ oñondive , ha he'i : 
+40021025b	~		“ Ja'e ramo Tupã ombou hague chupe , he'íta ñandéve : 
+40021025c	mba'ére		‘ Mba'ére ndaperoviái ra'e chupe ? ’
+40021028	Mba'épa		Jesús oporandu opavavépe : — Mba'épa peje ko peẽme amombe'útavare . Oĩ vaekue peteĩ kuimba'e ita'ýra mokõiva . Ha he'i pe ijypykuépe : “ Che ra'y , tereho emba'apo ñande parraltýpe . ”
+40021031	Mávapa		Mávapa umi mokõivévagui ojapo itúva rembipota ? Umi upépe oĩva he'i chupe : — Pe ijypykue . Upépe Jesús he'i chupe kuéra : — Añetehápe ha'e peẽme , umi viru ombyatýva Rómape guarã ha umi kuña reko vai raẽ oikéta pende hegui Tupã sãmbyhy yvágape .
+40021040	Mba'épa		Upéi Jesús oporandu : — Mba'épa hi'ã peẽme ojapotaha pe yvy jára ?
+40022012	mba'éicha piko		He'i chupe : “ Che irũ , mba'éicha piko reike ko'ápe remonde'ỹre mendahápe guarã ao ? ” Pe kuimba'e katu okirirĩnte .
+40022017	mba'épa		Roikuaase mba'épa nde ere kóvape : Iporã piko rome'ẽ viru mburuvicha guasu Roma peguápe , térãpa nahániri ?
+40022018	Mba'ére piko		Jesús katu ohecha kuaa omoñuhãseha chupe hikuái , ha he'i : — Peẽ tekove ahẽ , rova mokõi . Mba'ére piko che moñuhãse peína ?
+40022020a	máva		Omañávo hese Jesús oporandu chupe kuéra : — Máva ra'ãnga 
+40022020b	máva		ha máva réra piko ko oĩva hese ?
+40022028	máva		Ha néi , ágã ojeikove jey vove , máva rembirekótapa hína pe kuña , ko'ã 7 omenda vaekue hese apytégui ?
+40022036	mávapa		— Mbo'ehára , mávapa umi Tupã rembiapoukapy apytépe mba'e guasuvéva ?
+40022042a	Mba'épa		ha oporandu chupe kuéra : — Mba'épa peẽ peje pe Mesías rehe ? 
+40022042b	Máva		Máva ñemoñarépa ha'e ? He'i hikuái chupe : — David ñemoñare .
+40022043	Mba'éicha rupi piko		Upépe Jesús he'i chupe kuéra : — Mba'éicha rupi piko David , Espíritu Santo rupi he'i chupe “ che Jára ” ? David niko he'i vaekue :
+40022045	Mba'éicha piko		David voi niko he'i chupe “ Che Jára ” ? Mba'éicha piko aipórõ pe Mesías David ñemoñaréta ?
+40023017	Máva piko		Peẽ tekove tavy resatũ ! Máva piko pe mba'e guasuvéva ? Pe óro piko , térãpa pe Tupao ? Pe óro niko oñemboyke Tupãme guarã Tupao ryepýpe oĩ haguére . ”
+40023019	Máva piko		Peẽ tekove tavy resatũ ! Máva piko pe mba'e guasuvéva ? Umi mba'e kuave'ẽ , térãpa pe altar ? Umi mba'e kuave'ẽ niko oñemboyke Tupãme guarã oĩ haguére pe altar ári .
+40023033	~		Peẽ mbói , ha mbói ñemoñare ! Peimo'ã piko ndapeho mo'ãiha aña retãme ?
+40024003a	araka'épa		Upéi oho hikuái Yvyty Olivotýpe . Jesús oguapy upépe , ha hemimbo'e kuéra oñemboja hendápe . Ha upe ha'eñoháme oporandu chupe hikuái : — Roikuaase niko mba'éichapa rohecha kuaáta oguahẽmaha pe ára nde reju haguã . Roikuaase araka'épa ojehúta umi mba'e .
+40024003b	mba'éichapa		
+40024045	Mávapa		Mávapa hína pe tembiguái jeroviaháva ha imba'e recha kuaáva ? Upéva hína pe ijára omoĩva ipoguýpe ambue hembiguái kuéra omongaru haguã oikotevẽ jave .
+40025037	araka'e piko		Upépe umi heko potĩva he'íne : “ Ore Jára , araka'e piko ndéve rohecha ne ñembyahýi ramo ha romongaru ? Araka'e piko rohecha nde yuhéi ha romboy'u ?
+40025038	Araka'e piko		Araka'e piko ndéve rohecha mombyrygua ramo , ha romoguahẽ ore rógape ? Araka'e piko nde opívo ha romonde ?
+40025039	Araka'e piko		Araka'e piko ndéve rohecha nde rasy ramo , térã reñemyakãsã ha roho ne andúvo ? ”
+40025044	araka'e piko		Upépe ha'e kuéra he'íta chéve : “ Ore Jára , araka'e piko ore rohecha ne ñembyahýi ramo , térã nde yuhéi , térã mombyrygua reiko ramo , térã nde opívo , térã nde rasy , térã reñemyakãsãhápe , ha ndéve noroipytyvõi ? ”
+40026008	Maerã piko		Hemimbo'e kuéra ohechávo upéva ipochy , ha oñepyrũ he'i : — Maerã piko ohundi rei pe mba'e repyete ?
+40026010	Maerã piko		Jesús ohendu upéva ha he'i chupe kuéra : — Maerã piko péicha peñe'ẽ ko kuñáre ? Mba'e iporãva niko ko ojapóva che rehe .
+40026015	Mbovýpa		He'i chupe kuéra : — Mbovýpa peme'ẽta chéve aitýrõ Jesús pende pópe ? Ha ha'e kuéra ome'ẽ chupe 30 pira pire pláta guigua .
+40026017	Moõpa		Pe oñepyrũha árape arete oje'uhápe mbuja oñembovu'ỹva , Jesús remimbo'e kuéra ou hendápe ha oporandu chupe : — Moõpa reipota rombosako'i ndéve Páskua rembyarete haguã ?
+40026040	~		Upéi ou jey umi hemimbo'e kuéra oĩháme , ha ojuhu chupe kuéra okepa joa hína . He'i Pédrope : — Ndaikatúi piko peime che ndive peke'ỹre , sapy'amínte jepe ?
+40026050	~		Jesús he'i chupe : — Che irũ , nde Pya'éke reikopa haguã . Upévo , umi kyse puku ipópe ou vaekue , oñemboja Jesús rehe , omyakãsã chupe ha ogueraha .
+40026054	piko mba'éicha		Péicha ajapórõ , piko mba'éicha ojehúta upe Ñandejára Ñe'ẽme he'íva , kóicha tekotevẽha ojehu ?
+40026062a	~		Upépe , pe pa'i guasu opu'ã ha he'i Jesúspe : — Mba'eve piko ndeere mo'ãi ? 
+40026062b	piko mba'épa		Nerehendúi piko mba'épa he'i nde rehe hikuái ?
+40026065	~		Upéva ohendúvo , pe pa'i guasu omondoro ijao ha he'i : — Kóva ko kuimba'e ojahéi Tupãre . Nañaikotevẽ véima avavére he'i vaerã ñandéve mba'eve . Pehendúma niko pe he'íva Tupãre .
+40026066	Mba'épa		Mba'épa peje jajapo vaerã hese ? Ha ha'e kuéra he'i : — Hembiapo vai , omano mante vaerã .
+40026068	Máva piko		ha upéi he'íva : — Nde Mesías , nde ndajeko maranduhára . Máva piko upe ne nupãva ?
+40027004	mba'e piko		Judas he'i chupe kuéra : — Ivaíva niko ajapo . Ame'ẽ reiete ojejuka haguã peteĩ hembiapo vai'ỹva . Ha'e kuéra katu he'i chupe : — Ha mba'e piko oréve upéva ? Ejecha nde .
+40027013	~		Upérõ Pilato he'i chupe : — Nerehendúi piko umi mba'e vaieta he'íva nde rehe hikuái ?
+40027017	Mávaguipa		Ha opavave oñembyatývo , Pilato oporandu chupe kuéra : — Mávaguipa peipota apoi peẽme : Barrabás térãpa Jesús , pe Mesías oje'eha ?
+40027021	Máva		Pilato oporandu jey opavavépe : — Máva ko'ãva mokõigui peipota apoi peẽme ? Ha ha'e kuéra he'i : — Barrabás .
+40027022	Mba'épa		Pilato oporandu chupe kuéra : — Mba'épa peipota ajapo Jesús , pe Mesías oje'ehágui ? Opavave he'i : — Emosãingo kurusúre .
+40027023a	~		Ha Pilato he'i chupe kuéra : 
+40027023b	mba'e		— Mba'e ivaíva piko ojapo ? Ha'e kuéra katu osapukái hatãve : — Tosãingo kurusúre .
+40027046	mba'ére piko		Upévo Jesús hatã osapukái he'ívo : — Elí , Elí , lemá sabactani ? ” he'iséva : “ Tupã che Jára , Tupã che Jára , mba'ére piko che reja cheño ? ”
+41001024	Mba'ére piko		— Mba'ére piko reñemoĩ ore rehe , Jesús Nazaretgua ? Reju piko ore rundívo ? Che roikuaa . Nde hína pe imarangatúva , Tupã omboúva .
+41001027	Mba'eichagua		Opavave oñemondýi ha he'i joa ojupe : — Mba'eichagua ñe'ẽ piko ãva ? Oikuaa porãhápe ha pokatúpe ko kuimba'e he'i umi mba'epochýpe osẽ haguã , ha ha'e kuéra ojapo ha'e he'íva !
+41002007a	mba'ére piko		“ Mba'ére piko kóva péicha oñe'ẽ ? Ojahéi niko Tupãre , ku hendaguépe oĩrõ guáicha . 
+41002007b	~		Tupã añónte niko ikatu oheja rei ñandéve ñane angaipa . ”
+41002008	Mba'érepa		Ha Jesús pya'e ohecha kuaa mba'épa he'i hína hikuái ipy'apýpe , ha oporandu chupe kuéra : — Mba'érepa pejepy'a mongeta péicha ?
+41002009	Mba'épa		Mba'épa ndahasyive , ja'e ko ijapávape : “ Ojeheja reíma ndéve ne angaipa ” , térãpa “ Epu'ã . Ehupi nde rupa ha eguata ” ?
+41002016	Mba'éicha rupi piko		Mbovymi Moisés rembiapoukapy mbo'eha Fariséova , ohechávo Jesús okaruha umíva ndive , oporandu hemimbo'e kuérape : — Mba'éicha rupi piko pene mbo'ehára oguapy okaru viru mbyatyha ha iñangaipáva ndive ?
+41002018	Mba'ére piko		Peteĩ jey , Juan Bautista remimbo'e kuéra ha fariséo kuéra ohasa jave ára ho'u'ỹre mba'eve , ojeho Jesús rendápe ha oporandu chupe hikuái : — Juan Bautista ha fariséo remimbo'e kuéra niko ohasa jepi ára ho'u'ỹre mba'eve . Mba'ére piko ne remimbo'e kuéra ndaupéichai ?
+41002019	~		Jesús he'i chupe kuéra : — Peẽ piko peimo'ã peteĩ omenda ramóva irũ nguéra oñembyasytaha ha'e oĩ aja hendive kuéra imendahápe ? Nahániri , ndaikatúi ho'u'ỹvo mba'eve .
+41002024	~		Umi fariséo he'i chupe : — Ema'ẽmi , ne remimbo'e kuéra niko ojapo , ojejapo'ỹ arã pytu'uha árape ave .
+41003004	Mba'e-mba'épa		Upéi oporandu umi ambuépe : — Mba'e-mba'épa ikatu jajapo pytu'uha árape : ivaívapa , térãpa iporãva ? Japoromonguera térãpa japorohundi ? Ha'e kuéra katu okirirĩ .
+41003023	Mba'éicha piko		Jesús ohenói ha he'i chupe kuéra ñe'ẽ mbojojápe : “ Mba'éicha piko ikatúta Aña voi omosẽ Añáme ?
+41003033a	mávaiko		Jesús katu he'i : — Mávaiko che sy 
+41003033b	máva		ha máva che ryvy ?
+41004013	piko mba'éicha		He'i chupe kuéra : “ Nahesakãi piko peẽme ko mbojoja ? Aipórõ piko mba'éicha hesakãta peẽme umi ambue ?
+41004030a	Mba'épepa		He'i avei Jesús : Mba'épepa ojogua Tupã sãmbyhy ? 
+41004030b	mba'épepa		Mba'épepa ñambojojáta ?
+41004038	~		Jesús katu oke hína upe kanóa ruguáipe , peteĩ akãngyta ári . Omombáy ha he'i chupe hikuái : — Mbo'ehára , nderehecha kuaái piko ja'yguyha ?
+41004040a	mba'ére piko		Upéi Jesús he'i hemimbo'e kuérape : — Mba'ére piko peñemondýi ? 
+41004040b	~		Ne'ĩra gueteri piko pejerovia ?
+41004041	Máva piko		Hemimbo'e kuéra katu okyhyje eterei ha oporandu joa ojupe : — Máva piko kóva , yvytu ha yguasu jepe iñe'ẽ rendúva chupe ?
+41005007	~		he'i chupe osapukaihápe : — Aníke rejapo che rehe mba'eve Jesús , Tupã Yvatetegua Ra'y . Tupãre ajerure ndéve , ani haguã che mbohasa asy !
+41005009	Mba'éicha		Jesús he'i chupe : — Mba'éicha nde réra . Ha'e he'i : — Legión che réra , ore retágui ore .
+41005030	Mávapa		Jesús oñandu osẽ hague chugui pokatu , oñembojere oma'ẽ opavavére ha oporandu : — Mávapa opoko ra'e che aóre ?
+41005031	mávapa		Hemimbo'e kuéra he'i chupe : — Rehecháma niko opavave nde jopyha opa guio , ha piko reporandu mávapa opoko nde rehe ?
+41005035	Maerã piko		Jesús oñe'ẽ jave gueteri hína , oguahẽ peteĩ tembijokuái ha he'i Jáirope : — Nde rajy omanóma . Maerã piko remyangekoivéta Mbo'ehárape ?
+41005039a	mba'ére piko		oike ha he'i chupe kuéra : — Mba'ére piko pende ayvu 
+41005039b	~		ha pene rasẽ upéicha ? Ko mitãkuña niko nomanói , okénte hína .
+41006002a	Moõgui piko		Oguahẽvo pytu'uha ára oñepyrũ oporombo'e judío kuéra tupaópe . Ha heta ohendúva Jesúspe , ijurujái ha oporandu ojupe : — Moõgui piko oikuaa kóva hetaite mba'e ? 
+41006002b	Moõgui piko		Moõgui piko oguenohẽ imba'e kuaa 
+41006002c	mba'e		ha umi mba'e rechapyrã ojapóva ?
+41006022	~		Herodías memby oike ha ojeroky pe karu guasuhápe . Herodes oguerohory eterei pe ijeroky ha opavave upépe oĩva rovake , he'i pe kuñataĩme : — Ejerure chéve reipotáva ha ame'ẽta ndéve .
+41006024	Mba'épa		Ha'e osẽ ha oporandu isýpe : — Mba'épa ajeruréta ? He'i chupe : — Ejerure chupe Juan Bautista akãngue .
+41006037	~		Jesús katu he'i chupe kuéra : — Peẽ voi pemongaru chupe kuéra . Ha'e kuéra katu he'i chupe : — Reipota piko roho rojogua 200 pláta pehẽngue repy mbuja , romongaru haguã chupe kuéra ?
+41006038	Mboy		Jesús he'i : — Mboy mbuja piko pereko ? Tapeho pehecha . Oikuaa vove he'i chupe : — 5 mbuja ha mokõi pira .
+41007005	Mba'ére piko		Upévare fariséo ha Moisés rembiapoukapy mbo'eha oporandu chupe : — Mba'ére piko umi ne remimbo'e ndojapói hekópe umi mba'e ñande ypykue ñande reko mbo'e vaekue , ha okaru ipo potĩ'ỹre ?
+41008004	Máva piko		Hemimbo'e kuéra he'i chupe : — Máva piko ojuhúta tembi'u omongaru haguã opavavépe ? Ko'a rupi niko ndaipóri avave oikóva .
+41008005	Mboy		Jesús oporandu chupe kuéra : — Mboy mbuja piko pereko ? — 7 , — he'i hikuái .
+41008012	Mba'ére piko		Jesús hi'ãho ipy'aite guive ha he'i : — Mba'ére piko ko'ã tekove ojerure ohecha haguã mba'e hechapyrãva ? Añetehápe ha'e peẽme , ndojehechauka mo'ãi peẽme mba'eveichagua mba'e hechapyrãva .
+41008017	Mba'ére piko		Ha Jesús oikuaa mba'épa he'i hikuái , ha upévare he'i chupe kuéra : — Mba'ére piko peñe'ẽterei ndaperekoiha mbuja ? Ne'ĩra pehecha kuaa ajépa . Peichaite peve piko oñemboty pene apytu'ũ ?
+41008018a	~		Pende resa niko , 
+41008018b	~		ha piko ndapehechái ? Pende apysa ha napehendúi ? Na pene mandu'ái nga'u piko ,
+41008019	mboy		amboja'o hague 5 mbuja 5.000 apytépe , ha mboy ajakápa pembyaty hembyrégui ? Ha'e kuéra he'i : — 12 .
+41008020	mboy		Na pene mandu'ái nga'u piko amboja'o hague umi 7 mbuja umi 4.000 kuimba'épe . Ha mboy ajaka piko pembyaty hembyrégui ? He'i hikuái : — 7 .
+41008021	~		Upérõ he'i chupe kuéra : — Ndapehecha kuaái gueteri piko ?
+41008023	~		Jesús ipojái pe ohecha'ỹva póre ha oguenohẽ chupe táva rokápe , hendýpe omyakỹ hesa , omoĩ ipo hese ha oporandu chupe ikatúpa ohecha .
+41008027	Mavaha		Upéi Jesús ha hemimbo'e kuéra oho táva Cesarea Filípope . Tapére Jesús oporandu hemimbo'e kuérape : — Mavaha che piko oje'e ?
+41008029a	piko mba'e		Jesús oporandu chupe kuéra : — Ha peẽ piko mba'e peje , 
+41008029b	mávapa		mávapa che ? Pedro he'i chupe : — Nde hína upe Mesías .
+41008036	Mba'épa		Mba'épa oguenohẽne yvypóra oguerekopárõ opaite mba'e ipópe , ha oñehundi ramo ha'e ? Mba'eve !
+41008037	Mba'épa		Mba'épa ikatúne yvypóra ome'ẽ oikove jey haguã ? Mba'eve !
+41009010	mba'épa		Upévare oñongatu hikuái upéva ñemiháme , oporandu jepe ojupe mba'épa he'iséne upe jeikove jey .
+41009011	Mba'ére piko		Oporandu hikuái Jesúspe : — Mba'ére piko umi Moisés rembiapoukapy mbo'eha he'i Elías ou raẽ vaerãha ?
+41009012	mba'ére piko		Ha'e he'i chupe kuéra : — Añete niko Elías raẽ ou vaerãha , ha ha'e omoĩmba porã vaerã opaite mba'e hekópe . Ha mba'ére piko he'i Ñandejára ñe'ẽ pe yvypóraicha ou vaekue ohasa asy vaerã ha ojeapo'i vaerãha ?
+41009016	Mba'ére piko		Ha'e oporandu chupe kuéra : — Mba'ére piko peñoñe'ẽ api hendive kuéra ?
+41009019a	araka'e peve piko		Jesús he'i : — Há , tekove jerovia'ỹ ! Araka'e peve piko aiméta pene ndive , 
+41009019b	araka'e peve piko		araka'e peve piko aikóta pende reheve ? Peru chéve pe mitã rusu .
+41009021	Araka'e guive piko		Jesús oporandu itúvape : — Araka'e guive piko ojehu chupe kóva ? Itúva he'i : — Imitã guive .
+41009028	Mba'ére piko		Upéi Jesús oike peteĩ ógape ha hemimbo'e kuéra oporandu chupe ha'eñoháme : — Mba'ére piko ndaikatúi ra'e ore romosẽ pe mba'epochy ?
+41009033	Mba'ére piko		Oguahẽ hikuái Cafarnaúmpe . Oĩmarõ hikuái hógape , Jesús oporandu chupe kuéra : — Mba'ére piko peñoñe'ẽ api pejúvo tapére ?
+41009050	~		“ Juky niko iporã , ha nahe'ẽvéi ramo niko ndaikatu véima oñemohe'ẽ jey , naiporã véima mba'everã . Perekóke juky pende pype ha peiko py'a guapýpe oñondive . ”
+41010003	Mba'épa		Ha'e he'i chupe kuéra : — Mba'épa he'i raka'e peẽme Moisés ?
+41010017	mba'épa		Jesús osẽvo oho haguã , oñaniháme ou hendápe peteĩ kuimba'e , oñesũ henondépe ha oporandu chupe : — Mbo'ehára marangatu , mba'épa ajapo vaerã ahupyty haguã pe jeikove opave'ỹva ?
+41010018	Mba'ére piko		Jesús he'i chupe : — Mba'ére piko ere che rehe che marangatuha ? Imarangatúva peteĩnte oĩ , ha upéva Tupã .
+41010026	Máva piko		Ohendúvo chupe , ko'ýte omomba'ete ha oporandu joa ojupe : — Máva piko aipórõ ikatúta oñepysyrõ ?
+41010036	mba'épa		Ha'e oporandu chupe kuéra : — Mba'épa peipota ajapo pende rehe ?
+41010051	Mba'épa		Ha'e oporandu chupe : — Mba'épa reipota ajapo nde rehe ? Pe ohecha'ỹva he'i chupe : — Mbo'ehára , ahechase .
+41011003	maerãpa		Ha oimérõ oporandúva peẽme maerãpa peruse , peje chupe : “ Ore Jára oikotevẽ hese ha pya'e ogueruka jeýta ” .
+41011005	Mba'ére piko		Umi upépe oĩva oporandu chupe kuéra : — Mba'ére piko pejora pe vúrro ?
+41011028a	Máva piko		Oporandu chupe hikuái : — Máva piko oheja ndéve rejapo haguã ko'ã mba'e ? 
+41011028b	Máva		Máva pokatu rupi reju ?
+41011030	Máva piko		Peje chéve : Máva piko ombou raka'e Juánpe oporomongarai haguã ? Tupã térã piko yvypóra ?
+41011031a	~		Ha'e kuéra katu oñepyrũ oñomongeta kyre'ỹ oñondive , ha he'i : “ Ja'e ramo Tupã ombou hague chupe , he'íta ñandéve : 
+41011031b	Mba'ére		‘ Mba'ére ndaperoviái ra'e chupe ? ’
+41012009	Mba'épa		Mba'épa hi'ã peẽme ojapotaha pe yvy jára ? Ohóta ojuka umi mba'apohárape ha ome'ẽta iparralty ambuépe .
+41012015	Mba'ére piko		Jesús katu ohecha kuaa hova mokõiha hikuái , ha he'i : — Mba'ére piko pe che moñuhãse ? Pehechauka chéve pe viru peme'ẽva jepi .
+41012016a	máva		Ha ombohasa chupe hikuái . Jesús oporandu chupe kuéra : — Máva ra'ãnga 
+41012016b	máva		ha máva réra piko ko oĩva hese ? Ha'e kuéra he'i : — Mburuvicha guasu Roma pegua .
+41012023	máva		Ha néi , ágã ojeikove jey vove , ko'a 7 apytégui , máva rembirekótapa hína pe kuña ?
+41012028	Mávapa		Ohechávo Jesús he'i porã hague chupe kuéra , peteĩ Moisés rembiapoukapy mbo'eha , ohendu vaekue chupe kuéra oñoñe'ẽ apírõ , oñemboja hese ha oporandu chupe : — Mávapa umi Tupã rembiapoukapy apytégui pe mba'e guasuvéva ?
+41012035	mba'ére piko		Jesús oporombo'e hína Tupaópe ha oporandu : — Mba'ére piko Moisés rembiapoukapy mbo'eha he'i pe Mesías , David ñemoñareha ?
+41012037	Mba'éicha piko		David voi niko he'i chupe “ Che Jára ” ? Mba'éicha piko aipórõ pe Mesías David ñemoñaréta ? Heta umi ijatýva upépe , ha oguerohory joa Jesús ñe'ẽ .
+41013004a	araka'épa		— Roikuaase niko mba'éichapa rohecha kuaáta oguahẽmaha pe ára paha . Roikuaase araka'épa ojehúta umi mba'e .
+41013004b	mba'éichapa		
+41014004	Maerã piko		Ha upépe oĩva ipochýva , ha he'íva : — Maerã piko ohundi rei pe mba'e ryakuã repyete ?
+41014006	Maerã piko		Jesús katu he'i : — Maerã piko péicha peñe'ẽ hese ? Mba'e iporãva niko ko ojapóva che rehe .
+41014012	Moõpa		Pe oñepyrũha árape arete oje'uhápe mbuja oñembovu'ỹva , ha ojejukaha pe ovecha Páskua rehegua , Jesús remimbo'e kuéra oporandu chupe : — Moõpa reipota rombosako'i ndéve Páskua rembyarete haguã ?
+41014014	Mávapa		ha upe óga oikeha járape peje : “ Ore Mbo'ehára oporandu : Mávapa pe koty ahasataha Páskua arete che remimbo'e kuéra ndive ? ”
+41014060a	~		Upépe , pe pa'i guasu opu'ã opavave apytépe , ha he'i Jesúspe : — Mba'eve piko ndeere mo'ãi ? 
+41014060b	piko mba'épa		Nerehendúi piko mba'épa he'i nde rehe hikuái ?
+41014063	~		Upéva ohendúvo , pe pa'i guasu omondoro ijao ha he'i : — Nañaikotevẽ véima avavére he'i vaerã ñandéve mba'eve .
+41014064	Mba'épa		Pehendúma niko pe he'íva Tupãre . Mba'épa peje jajapo vaerã hese ? Ha opavave he'i hembiapo vaiha , ha omano mante vaerãha .
+41015004	~		upérõ Pilato oporandu jey chupe : — Ndeeréi piko mba'eve umi mba'e vaieta nde rehe he'ívape ?
+41015012	Mba'épa		Pilato oporandu chupe kuéra : — Mba'épa peipota aipórõ ajapo pe judío kuéra ruvicha guasu oje'évagui ?
+41015014a	~		Ha Pilato he'i chupe kuéra : 
+41015014b	mba'e		— Mba'e ivaíva piko ojapo ? Ha'e kuéra katu osapukái hatãve : — Emosãingo kurusúre .
+41015034	mba'ére piko		Upévo Jesús hatã osapukái he'ívo : “ Eloí , Eloí , lemá sabactani ? ” he'iséva : “ Tupã che Jára , Tupã che Jára , mba'ére piko che reja cheño ? ”
+41016003	Mávapa		He'i ohóvo ojupe hikuái : — Mávapa oipe'áta ñandéve pe ita , itakua jurúgui ?
+42001018	Mba'éicha piko		Zacarías oporandu pe Tupã remimboúpe : -- Mba'éicha piko aikuaa porãta upéva ? Ché che tujáma ha che rembireko ave iguãiguĩma .
+42001034	Mba'éicha piko		María oporandu pe Tupã remimboúpe : -- Mba'éicha piko ojehúta upéva , ko che ndaikóiva gueteri kuimba'e ndive ?
+42001043	Máva piko		Máva piko che ou haguã che rendápe che Jára sy ?
+42001066	Mba'e		Ohendúva guive oñeporandu joa : “ Mba'e apoharãnepa ko mitã ? ” . Ojehecha porã Ñandejára omoĩha hese ipokatu .
+42002048	mba'ére piko		Ohechávo chupe itúva kuéra ipy'andýi , ha isy he'i chupe : -- Che memby , mba'ére piko rejapo ore rehe péicha ? Nde ru ha che heta rojepya'apy nde rekávo .
+42002049	Mba'ére piko		Jesús katu he'i chupe : -- Mba'ére piko pe che reka ? Ndapeikuaái piko aime vaerãha che Ru rógape ?
+42003007	Máva piko		Ha umi osẽvape oñemongarai haguã , Juan he'i : “ Peẽ mbói ñemoñare ! Máva piko he'i peẽme ikatúne haguã pekañy upe ñenupã Tupã omboútavagui ?
+42003010	Mba'e piko		Aipórõ , umi oĩva upépe oporandu chupe : -- Mba'e piko rojapo vaerã ?
+42003012	mba'e piko		Oñemboja avei oñemongarai haguã umi omono'õva viru jehepyme'ẽ Rómape guarã , ha oporandu hikuái Juánpe : -- Mbo'ehára , mba'e piko ore rojapo vaerã ?
+42003014a	~		Oĩ avei ñorãirõhára oporandúva Juánpe : 
+42003014b	mba'e		-- Ha orépa mba'e rojapo vaerã ? Juan he'i chupe kuéra : -- Ani peipe'a mba'eve avavégui , pemongyhyjévo térã pembojávo hese ojapo'ỹ vaekue . Ha pevy'ánte pene rembiapo repykuére .
+42004034	Mba'ére piko		-- Mba'ére piko reñemoĩ ore rehe , Jesús Nazaretgua ? Reju piko ore rundívo ? Che roikuaa . Nde hína pe imarangatúva , Tupã omboúva .
+42004036	Mba'eichagua		Opavave oñemondýi , ha he'i joa ojupe : -- Mba'eichagua ñe'ẽ piko ãva ? Oikuaa porãhápe ha pokatúpe ko kuimba'e he'i umi mba'epochýpe osẽ haguã , ha ha'e kuéra osẽ !
+42005021a	Máva piko		Ha upévo , umi Moisés rembiapoukapy mbo'eha ha umi fariséo oñepyrũ he'i : “ Máva piko kóva péicha ojahéi haguã Tupãre , ku hendaguépe oĩrõ guáicha ? 
+42005021b	~		Tupã añónte niko ikatu oheja rei ñandéve ñane angaipa . ”
+42005022	Mba'érepa		Ha Jesús ohecha kuaa mba'épa he'i hína hikuái ipy'apýpe , ha oporandu chupe kuéra : -- Mba'érepa pejepy'a mongeta péicha ?
+42005023	Mba'épa		Mba'épa ndahasyive ja'e : “ Ojeheja reíma ndéve ne angaipa ” , térãpa : “ Epu'ã ha eguata ” ?
+42005030	Mba'ére piko		Umi fariséo ha umi Moisés rembiapoukapy mbo'eha katu oñepyrũ oñe'ẽ api hikuái Jesús remimbo'e kuérape . He'i chupe kuéra : -- Mba'ére piko peẽ pekaru ha pe'u kaguy , umi Roma peguarã viru omono'õva ndive , ha mba'e vai apoha ndive ?
+42005033	~		He'i hikuái Jesúspe : -- Umi Juan ha fariséo remimbo'e kuéra py'ỹinte ohasa ára ho'u'ỹre mba'eve ha oñembo'e manté . Ne remimbo'e kuéra katu okaru ha kaguy ho'úvonte oiko .
+42005034	~		Jesús he'i chupe kuéra : -- Peẽ nga'u piko napemongaru mo'ãi umi oĩva mendahápe , pe menarã oĩ aja hendive kuéra ?
+42006002	Mba'ére piko		Umi fariséo oporandu chupe kuéra : -- Mba'ére piko peẽ pejapo pe ojejapo'ỹ arã pytu'uha árape ?
+42006009	Mba'e-mba'épa		ha Jesús he'i umi ambuépe : -- Aporandúta peẽme : Mba'e-mba'épa ikatu jajapo pytu'uha árape : ivaívapa , térãpa iporãva ? Japoromonguera térã ñaporohundi ?
+42006032	mba'e piko		Peẽ pehayhúrõ umi pende rayhúvapente , mba'e piko pejapo tuichaiterei mba'éva ? Umi mba'e vai apoha jepe niko péicha oiko .
+42006033	piko mba'e		Ha pejapórõ iporãva umi pende rehe ojapóva iporãvarente , piko mba'e iporãva oĩ upévape ? Umi mba'e vai apoha jepe niko péicha ojapo .
+42006034	~		Ha peipurukárõ umi omyengovia jeýtava peẽmente , pejapo nga'u piko tuichaiterei mba'éva ? Umi mba'e vai apoha avei oiporuka ojupe , oha'arõgui ojepurukátaha avei chupe .
+42006039	~		Jesús omombe'úvo chupe kuéra ko ñe'ẽ mbojoja : “ Peteĩ ohecha'ỹva nga'u piko ikatu omboguata ambue ohecha'ỹvape ? Ndo'a mo'ãi nga'úpa mokõivéva peteĩ yvykuápe ?
+42006041	Mba'éicha piko		Mba'éicha piko rehecha pe yvyra ku'i nde ryvy resápe oĩva , ha nderehechái pe yvyra poguasu nde resápe voi rerekóva ?
+42006042	mba'éicha piko		Ha nderehecháirõ pe yvyra poguasu oĩva nde resápe voi , mba'éicha piko nde py'a ere haguã nde ryvýpe : ‘ Che ryvy , taipe'a ndéve pe yvyra ku'i nde resápe oĩva ’ . Nde , tekove rova mokõi ! Eipe'a raẽ pe yvyra poguasu nde resápe oĩva rehecha porã haguã , ha upéi reipe'a haguã pe yvyra ku'i nde ryvy reságui . ”
+42006046	Mba'ére piko		Mba'ére piko peẽ peje chéve : “ Karai , karai ” , ha ndapejapói che ha'éva ?
+42007024	mba'e		Juan remimondo kuéra oho rire , Jesús oñepyrũ oñe'ẽ hese opavavépe , ha he'i : -- Peẽ pesẽ ramo guare peho yvy ojeiko'ỹháme , mba'e pehecha haguãpa peho ra'e ? Pehechápa ra'e takuapi yvytu ombovaváva ? Nahániri ?
+42007025	Maerã		Maerã aipo ramo peho ? Pehópa pehecha peteĩ kuimba'e oñemonde jeguapávapa ? Peẽ niko peikuaa porã umi oñemonde jeguáva ha vy'ahápe oikóva , oikoha mburuvicha guasu kuéra rógapente .
+42007026	mba'e		Amo ipahápe , mba'e aipo ramo pesẽ pehecha ? Peteĩ maranduhára , ajépa . Upéicha añete . Ha pejuhu peteĩ mba'e guasuvéva maranduháragui katu .
+42007031a	mba'e		“ Mba'e rehépa ambojoja kuaa yvypóra ko'agãgua ? 
+42007031b	mba'épepa		Mba'épepa ojogua ?
+42007042	mávapa		Ha ndaikatúigui ome'ẽ hikuái , pe viru porukaha oheja rei mokõivépe . Ko'ágã ere chéve : mávapa umi mokõigui ohayhuvéne chupe ?
+42007049	Máva piko		Umi ambue ojejerure hague oho haguã okarúvo , oñepyrũ oporandu ojupe : -- Máva piko kóva angaipágui jepe oporopysyrõva ?
+42008025a	mba'e piko		Upéi Jesús he'i hemimbo'e kuérape : -- Mba'e piko oiko pe pende jeroviágui . Ha'e kuéra katu , ohecha ramo pe oikóva ha kyhyje pópe oporandu joa ojupe : 
+42008025b	Máva piko		-- Máva piko kóva , ko oñe'ẽva yvytu ratã ha y pochýpe , ha iñe'ẽ rendúva chupe ?
+42008028	~		Ohechávo Jesúspe , oñesũ henondépe ha osapukái : -- Aníke rejapo che rehe mba'eve Jesús , Tupã Yvatetegua Ra'y . Tupãre ajerure ndéve , ani haguã che mbohasa asy !
+42008030	Mba'éicha		Jesús he'i chupe : -- Mba'éicha nde réra . Ha ha'e he'i : -- Che réra Legión . Péicha he'i , hetágui umi mba'epochy oike vaekue ipype .
+42008045	Máva piko		Aipórõ Jesús oporandu : -- Máva piko opoko che rehe ? Avave nde'írimarõ opoko hague hese , Pedro he'i : -- Mbo'ehára , opavavéko nde jopy ha ne myaña opa guio . Ha piko reporandu , mávapa opoko nde rehe ?
+42009009a	Máva piko		Ha Herodes he'i : -- Cheté ha'e vaekue oñeñaka'õ haguã Juan . Máva piko aipórõ pe hetaite mba'e oñemombe'uha ? Upévare Herodes oñeha'ã ohecha Jesúspe .
+42009009b	~		
+42009018	Mavaha		Peteĩ jey , Jesús oñembo'e jave hína ha'eño , ha hemimbo'e kuéra oĩ hendive , oporandu chupe kuéra : -- Mavaha che piko oje'e ?
+42009020a	piko mba'e		Jesús oporandu chupe kuéra : -- Ha peẽ piko mba'e peje , 
+42009020b	mávapa		mávapa che ? Ha Pedro he'i : -- Nde hína upe Mesías , Tupã rembiporavo .
+42009025	Mba'épa		Mba'épa oguenohẽne yvypóra oguerekopárõ opaite mba'e ipópe , térã oñehundi ramo ha'e ipo rupiete ? Mba'eve !
+42009041a	Araka'e peve piko		Jesús he'i chupe : -- Há , tekove jerovia'ỹ ha heko añáva ! Araka'e peve piko aikóta pende reheve 
+42009041b	~		ha pogueropu'aka ? Eru ko'ápe nde ra'y .
+42010025	mba'e piko		Peteĩ Moisés rembiapoukapy mbo'eha oho oñe'ẽ Jesús ndive , ha oha'ã haguã chupe oporandu : -- Mbo'ehára , mba'e piko ajapo vaerã areko haguã jeikove opa'ỹva ?
+42010026a	mba'épa		Jesús he'i chupe : -- Mba'épa oĩ tembiapoukapýpe ? 
+42010026b	mba'e piko		Mba'e piko pehecháva kuatiápe ?
+42010029	máva piko		Pe tembiapoukapy mbo'eha katu , omoĩ porãsévo imba'e porandu , he'i Jesúspe : -- Ha máva piko pe che rapicha ?
+42010036a	~		Ha néi , 
+42010036b	mávapa		mávapa ko'ãvagui , ndéverõ guarã pe karia'y rapicha , ohape joko vaekue umi mba'e vai apoha ?
+42011008	~		Ha'e peẽme , nopu'ãi ramo jepe omba'e me'ẽvo chupe , iñirũ haguére , ome'ẽne chupe opa mba'e oikotevẽva anive haguã omyangekói chupe .
+42011011	Máva piko		Máva peẽva piko , pende ra'y ojerure ramo peẽme pira , peme'ẽta chupe mbói ?
+42011012	~		Térã ñandu kavaju ojerure ramo chupe ryguasu rupi'a ?
+42011013	~		Peẽ , pene rembiapo vaíva Tupã renondépe , peme'ẽ kuaa ramo iporãva pende ra'y kuérape , ko'yteve pende Ru yvágape oĩva ome'ẽta Espíritu Santo umi chupe ojerurévape .
+42011018	mba'éicha piko		Péicha avei Sataná voi opu'ã ramo ijehe , mba'éicha piko imbarete tapiáta ? Kóicha ha'e , peẽ pejégui che amosẽha mba'epochy kuérape , Beelzebú pokatu rupi .
+42011019	máva piko		Péicharõ añete , máva piko ome'ẽ pene remimbo'e kuérape pokatu omosẽ haguã chupe kuéra ? Pene remimbo'e kuéra ojapóva rupi voi , ojehecha peẽ pejavyha .
+42012014	máva piko		Ha Jesús he'i chupe : -- Che irũ , máva piko che moĩ ra'e pende apytépe mbojovakehárõ térã mboja'ohárõ ?
+42012017	Mba'e piko		Upe imba'e retáva oñemoĩ ojepy'a mongeta : ‘ Mba'e piko ajapóta ? Ndarekói niko moõpa añongatúta che remitỹngue amono'õva . ’
+42012020	piko mávape		Tupã katu he'i chupe : ‘ Nde , výro , ko pyharépe voi remanóta . Ha pe rerekóva iñongatupy piko mávape guarãta ?
+42012024	~		Pema'ẽ umi guyráre . Ha'e kuéra noñemitỹi ha nomono'õi , ha noñongatúi mamove . Opáichavo , Tupã omongaru chupe kuéra . Mba'e guasueteve niko peẽ chugui kuéra .
+42012025	Máva piko		Máva piko pende apytégui ojepy'apy haguére ikatúne ombojoapy hekove michĩ ra'ymínte jepe ?
+42012026	maerã piko		Ndaikatúirõ pejapo umi mba'e michĩvéva jepe , maerã piko pejepy'apýta mba'evére ? ’ ”
+42012042	Mávapa		Ñandejára he'i : Mávapa hína pe tembiguái ijeroviaháva ha imba'e recha kuaáva ? Upéva hína pe ijára omoĩva ipo guýpe ambue hembiguái kuéra omongaru haguã oikotevẽ jave .
+42012049	~		“ Che aju vaekue amyendývo tata yvypóra apytépe , ha aipotaitépa ojepotáma ra'e hína !
+42012056	Mba'éicha rupi piko		Peẽ tekove rova mokõi ! Peẽ niko peikuaa mba'épa ojehúta árare pemañárõ . Mba'éicha rupi piko ndapeikuaái mba'épa he'ise ko'ã ára peikoveha ? ”
+42012057	Mba'ére piko		“ Mba'ére piko nde voi nderehecha kuaái pe heko jojáva ?
+42013004	~		Peimo'ã piko peẽ umi 18 omano vaekue ako ho'a ramo hi'ári kuéra Siloé pegua óga yvate , hembiapo vaive ra'e umi ambue Jerusalénpe oikóvagui ?
+42013007	maerã piko		Aipórõ he'i pe parralty ñangarekohápe : ‘ Ma'ẽ , mbohapy áño pukukue aju ko igo'akue arahávo , ha araka'eve ndajuhúi . Eikytĩ mba'e , maerã piko ombyai reíta hína ko yvy ? ’
+42013015	~		Ñandejára he'i chupe : -- Peẽ , tekove rova mokõi ! Ndapejorái nga'u piko pene rymba guéi térã pene rymba vúrro pytu'uha ára jave , peraha haguã pemboy'úvo ?
+42013018a	Mba'épepa		Jesús he'i avei : “ Mba'épepa ojogua pe Tupã sãmbyhy 
+42013018b	mba'e		ha mba'e rehépa ikatu ambojoja ?
+42013020	mba'e		Jesús he'i avei : “ Mba'e rehépa ikatu ambojoja pe Tupã sãmbyhy ?
+42013025	mamoguápa		Óga jára opu'ã ha omboty rire okẽ , peẽ , okápe peiméva , pesapukáita pejévo : ‘ Karai , eipe'ána oréve pe okẽ . ’ Ha'e katu he'íta peẽme : ‘ Che ndaikuaái mamoguápa peẽ . ’
+42014005	Mávapa		Ha umi Fariséope he'i : -- Mávapa pende apytépe , ita'ýra térã hymbaguéi ho'árõ yvykuápe , pya'e ndohói oguenohẽ , pytu'uha ára ramo jepe ?
+42014028	~		Peteĩva peẽ ojaposérõ peteĩ óga yvate , ndoguapy raẽi nga'úpa ohecha mbovýpa ohupytýta chupe , ohecha haguã oguerekótapa ojapopa haguã ?
+42014031	~		Térã peteĩ mburuvicha guasu ohótarõ oñorãirõ ambue mburuvicha guasu ndive , ndoguapýi nga'úpa ohecha 10.000 ñorãirõhára rehevépa ikatúne ombohovái pe hi'ári oúvape 20.000 reheve ?
+42014034	~		“ Juky niko iporã . Nahe'ẽvéi ramo katu niko naiporã véima mba'everã .
+42015004	Mávapa		“ Mávapa pende apytépe , oguerekórõ 100 ovecha ha okañy chugui peteĩ , ndohejái chéne umi 99 ñúme , ha oho oheka pe okañy vaekue , ojuhu peve ?
+42015008	mba'e		“ Ỹrõ katu , mba'e kuñápa oguerekóva 10 viru ha okañy chugui peteĩ , nomyendýi peteĩ tataindy ha oitypei porãite asy hóga ojuhu peve ?
+42015026	mba'épa		Aipórõ ohenói peteĩ hembiguáipe ha oporandu chupe mba'épa oiko hína .
+42015029	~		Ha'e he'i itúvape : ‘ Nde reikuaa mboy áñopa amba'apo ndéve , ha ojapopa opa mba'e nde reipotáva , ha araka'eve nereme'ẽiva chéve peteĩ kavara ra'ymínte jepe , ajapo haguã karu guasu che irũ nguéra ndive .
+42016002	mba'e piko		Ijára ohenói ha he'i chupe : ‘ Mba'e piko ko oje'éva nde rehe ? Emoĩmba chéve kuatiáre ne rembiapokue , nde ndaikatu véima reiko che róga rerekuárõ . ’
+42016003	mba'e piko		Upe óga rerekua oñemoĩ ojepy'a mongeta : ‘ Mba'e piko ajapóta ko'ágã , che jára che rejáva mba'apo'ỹre ? Na che mbaretéi ayvyjo'o haguã ha atĩ ajerure haguã tupãmba'e .
+42016005	Mbovýpa		Ohenói peteĩ-teĩme umi ohepyme'ẽ vaerãva ijárape . Pe tenonde guápe oporandu : ‘ Mbovýpa rehepyme'ẽ vaerã che járape ? ’
+42016007	mboy		Upéi oporandu ambuépe : ‘ Ha nde , mboy rehepyme'ẽ vaerã ? Ha ha'e he'i : ‘ 100 atýra trígo . ’ Pe óga rerekua he'i avei chupe : ‘ Kóina ápe nde kuatia , ejapo ambue 80 rehénte . ’
+42016011	máva piko		Ha upéicha , umi mba'e reta gua'u ko yvy arigua ndive peẽ napendereko potĩri ramo , máva piko ojeroviáta pende rehe ome'ẽ haguã peẽme umi mba'e reta añeteguáva ?
+42016012	máva piko		Ha na pende reko potĩri ramo pene mba'e'ỹre , máva piko ome'ẽta peẽme pe pene mba'éva ?
+42017007	~		“ Pe oguerekóva hembiguái oguahẽva oyvyjokahágui ha oñangarekohágui hymba kuérare , he'i nga'úpa chupe : ‘ Ehasa ha eguapy ekaru ? ’
+42017017	Moõ piko		Jesús he'i chupe : -- Ndaha'éi piko 10 ra'e umi ipotĩ vaekue imba'asýgui ? Moõ piko oime umi ambue 9 ?
+42017018	~		Ko kuimba'e mombyrygua año piko ou oguerohory haguã Tupãme ?
+42017020	araka'épa		Umi fariséo oporandu Jesúspe araka'épa oguahẽ vaerã Tupã porosãmbyhy , ha ha'e he'i chupe kuéra : -- Tupã sãmbyhy oguahẽvo ndaha'éi opavave ohecha vaerã .
+42017037	Moõ piko		-- Moõ piko upéva oikóta , ore Jára ? Ha ha'e he'i chupe kuéra : -- Te'õngue oĩháme , ijaty yryvu .
+42018018	mba'épa		Peteĩ myakãhára oporandu Jesúspe ; -- Mbo'ehára marangatu , mba'épa ajapo vaerã ahupyty haguã pe jeikove opave'ỹva ?
+42018019	Mba'ére piko		Jesús he'i chupe : -- Mba'ére piko ere che rehe che marangatuha ? Imarangatúva peteĩnte oĩ , ha upéva Tupã .
+42018026	Máva piko		Umi ohendu vaekue chupe oporandu joa : -- Máva piko ikatúta aipórõ oñepysyrõ ?
+42018036	mba'épa		ohendúvo ohasaha heta yvypóra , oporandu mba'épa ojehu .
+42018041	Mba'épa		-- Mba'épa reipota ajapo nde rehe ? Upe ohecha'ỹva he'i : -- Che Jára , ahechase jey .
+42019007	~		Ohechávo upéva , opavave oñepyrũ oñe'ẽ Jesús rehe , he'i hikuái ohoha opyta peteĩ iñangaipáva rógape .
+42019023	mba'eha		mba'eha ndererahái ra'e che viru ikatuhápe oñemomba'apo , reme'ẽ haguã chéve imemby reheve aju jey rire ? ’
+42019031	maerãpa		Ha oimérõ oporandúva peẽme maerãpa pejora , peje chupe : “ Ore Jára oikotevẽ . ”
+42019033	Maerã piko		Ojorávo hikuái pe vúrro , umi ijára oporandu chupe kuéra : -- Maerã piko pejora ?
+42020002a	Máva piko		Ha he'i chupe hikuái : -- Máva piko oheja ndéve rejapo haguã ko'ã mba'e ? 
+42020002b	Máva		Máva pokatu rupi reju ?
+42020005a	~		Ha'e kuéra katu oñepyrũ oñomongeta kyre'ỹ oñondive , ha he'i : -- Ja'e ramo Tupã ombou hague chupe , he'íta ñandéve : 
+42020005b	mba'ére		‘ Mba'ére ndaperoviái ra'e chupe ? ’
+42020013	Mba'éiko		Amo ipahávo hasypeve pe yvy jára he'i : ‘ Mba'éiko ajapóta ? Amondóta che ra'y ahayhuetéva . Ikatu chupe omomba'e hikuái . ’
+42020015	Mba'épa		Ha ojeity hi'ári hikuái , oguenohẽ pe parraltýgui ha ojuka chupe . Upéi Jesús oporandu : -- Mba'épa hi'ã peẽme ojapotaha pe yvy jára ?
+42020017	piko mba'e		Jesús katu oma'ẽ hese kuéra ha he'i : -- Aipórõ piko mba'e he'ise pe Ñandejára Ñe'ẽ he'íva : “ Upe ita omboykéva umi óga mopu'ãháraupéva ári ko'ágã oñemopu'ã . Ñandejára upéicha ojapoha ore jurujái rohechávo . ”
+42020023	~		Jesús katu ohecha kuaa omoñuhãseha chupe hikuái , ha he'i :
+42020024a	máva		-- Pehechauka chéve viru . Máva ra'ãnga 
+42020024b	máva		ha máva réra piko ko oĩva hese ? Ha'e kuéra he'i : -- Mburuvicha guasu Roma pegua .
+42020033	máva		Ha néi , ágã ojeikove jey vove , máva rembirekótapa hína pe kuña , umi 7 niko omenda vaekue hese ?
+42020041	Mba'ére piko		Jesús oporandu chupe kuéra : -- Mba'ére piko oje'e pe Mesías David ñemoñareha ?
+42020044	Mba'éicha piko		Mba'éicha piko aipórõ pe Mesías David ñemoñaréta , ko David voi he'íva chupe “ Che Jára ” ?
+42021007a	~		Aipórõ oporandu chupe hikuái : -- Mbo'ehára , 
+42021007b	mba'éicha piko		mba'éicha piko rohecha kuaáta oguahẽmaha ára oiko potaha umi eréva ?
+42022009	Moõpa		Ha'e kuéra oporandu : -- Moõpa reipota rombosako'i ?
+42022011	~		ha peje pe óga járape : “ Mbo'ehára oporanduka ndéve mávapa hína pe koty ohasatahápe Páskua arete hemimbo'e kuéra ndive . ”
+42022027	Máva piko		Máva piko pe mba'e guasuvéva , pe oguapýva mesápe okaru haguã piko , térãpa pe oporomongarúva ? Ndaha'éi nga'u piko pe mesápe oguapýva ? Che katu aime pende apytépe oporomongarúvaicha . ”
+42022046	Mba'ére piko		He'i chupe kuéra : -- Mba'ére piko peke hína ? Pepu'ã ha peñembo'e , ani haguã pejepy'a ra'ã .
+42022064	Máva piko		Ohesa jokua chupe , ha oporandu joa : -- Nde ndajeko maranduhára . Máva piko upe ne nupãva ?
+42022071	~		Upépe ha'e kuéra he'i : -- Nañaikotevẽ véima avavére he'i vaerã ñandéve mba'eve . Ñandetéma voi ñahendu ijuru rupi .
+42023022a	~		Mbohapy jeyha Pilato he'i jey chupe kuéra : 
+42023022b	mba'e		-- Mba'e ivaíva piko ojapo ra'e ? Che ndajuhúi hese mba'eve ivaíva ikatu haguã ojejuka . Ainupãukáta ha upéi ahejáta oho .
+42023031	mba'épa		Pe yvyra hokývare ojapo ramo péicha , mba'épa ndojapói chéne hikuái pe ipirúvare ?
+42024005	Mba'ére piko		Kyhyjepópe , ojayvy hikuái yvy peve , ha umi kuimba'e katu he'i chupe kuéra : -- Mba'ére piko peẽ peheka omanóva apytépe pe oikovévape ?
+42024017	Mba'e piko		Jesús oporandu chupe kuéra : -- Mba'e piko peje pehóvo ? Opyta hikuái , hovasy ñembyasýgui .
+42024019	Mba'e piko		Ha'e oporandu chupe kuéra : -- Ha mba'e piko ojehu ? He'i chupe hikuái : -- Ha pe Jesús Nazaretgua rehegua , peteĩ maranduhára vaekue , ipu'akapáva ojapóvape ha he'ívape Tupã renondépe ha opavave renondépe .
+42024025	~		Aipórõ Jesús he'i chupe kuéra : -- Ndaikatúi ete voi ra'e peikuaa mba'eve ha hasy eterei peẽme perovia haguã opa mba'e he'i vaekue maranduhára kuéra !
+42024038a	Mba'ére piko		Jesús katu he'i chupe kuéra : -- Mba'ére piko peñemondýi ? 
+42024038b	Mba'ére piko		Mba'ére piko pende py'a mokõi , perovia ha ndaperoviái ?
+43001019	mávapa		Judío myakãhára kuéra omondo pa'i kuéra ha umi Tupã rembiapoukapy mbo'eha Juan rendápe , oporandu haguã chupe mávapa ha'e .
+43001021	mba'épa piko		Oporandu jey chupe hikuái : -- Máva piko nde péicharõ ? Ndaha'éi mba'épa maranduhára Elías ? Juan he'i : -- Nahániri . He'i chupe upémarõ hikuái : -- Nde piko hína ku maranduhára ou vaerãva ? Juan he'i chupe kuéra : -- Nahániri .
+43001022a	mávapa		He'i chupe hikuái : -- Emombe'u oréve mávapa nde . Umi ore mbou vaekue rendápe roho vaerã ro'e mávapa nde . 
+43001022b	mavaha		Mavaha nde ere nde jehe ?
+43001025	mba'ére		oporandu chupe upémarõ : -- Nde ndaha'éi ramo pe Mesías , ha ndaha'éi ramo maranduhára Elías térã pe maranduhára ou vaerãva , mba'ére reporomongarai reikóvo ?
+43001038a	mba'e piko		Upéi Jesús ojere ha ohechávo ouha hapykuéri , oporandu chupe kuéra : -- Mba'e piko peheka ? Ha ha'e kuéra he'i chupe : 
+43001038b	moõ piko		-- Mbo'ehára , moõ piko reiko ?
+43001046	~		Natanael katu he'i chupe : -- Nazarétgui piko araka'e osẽva iporãva . Ha Felipe he'i chupe : -- Eju ndete ehecha .
+43001048	Mba'éicha rupi piko		Natanael he'i chupe : -- Mba'éicha rupi piko nde che kuaa ? Jesús he'i chupe : -- Rohecha kuri reguapy jave reína ígo máta guýpe , Felipe ne renói mboyve .
+43002004	Mba'ére piko		Jesús he'i chupe : -- Mba'ére piko ere chéve upéva ? Ne'ĩra gueteri niko oguahẽ chéve che ára .
+43002018a	~		Umi judío kuéra oporandu chupe : 
+43002018b	mba'épa		-- Mba'épa hechapyrãva rejapóta rehechauka haguã oréve nde ikatuha reju rejapóvo ko'ã mba'e ?
+43003004	Mba'éicha piko		Nicodemo he'i chupe : -- Mba'éicha piko peteĩ okakuaapámava oikove pyahu jeýta ? Oike jeýta nga'u piko isy ryépe , upéi osẽ jey haguã ?
+43003009	mba'éichata piko		Nicodemo he'i jey chupe : -- Mba'éichata piko upéva ?
+43003012	Mba'éicha piko		Peẽ niko nda che reroviái añe'ẽ ramo peẽme umi mba'e ko yvy ári ojehúvare . Mba'éicha piko aipo ramo che reroviáta añe'ẽ ramo peẽme umi mba'e yvágape ojehúvare ?
+43004009	Mba'éicha rupi piko		Pe kuña katu he'i chupe : -- Nde niko judío ha che Samariagua . Mba'éicha rupi piko aipo ramo rejerure chéve y rey'u haguã ? ( Judío kuéra niko ndoy'úiva Samariagua mbayru kuéragui )
+43004011	Mba'éicha		Pe kuña he'i chupe : -- Karai , mba'evépe niko ndereguerekói y renohẽ haguã , ha ko ykua ipypuku . Mba'éicha piko aipóramo reme'ẽta chéve y che moingovétava ?
+43004027a	mba'épa		Upe jave oguahẽ Jesús remimbo'e kuéra , ha ohecha ramo hikuái ojuhu haguére chupe oñe'ẽha peteĩ kuña ndive . Opáichavo , avave noporandúi pe kuñáme mba'épa oipota , 
+43004027b	mba'épa		térã Jesúspe , mba'épa ha'e he'i pe kuñáme .
+43005012	máva		Ha'e kuéra oporandu chupe : -- Ha máva he'i ndéve : ‘ Ehupi nde rupa ha tereho ? ’
+43005044	Mba'éicha piko		Peẽ pevy'a pende rapicha pene momba'e ramo , ha ndapehekái pe ha'eñoite Tupãva , ha'e pene momba'e haguã . Mba'éicha piko péicha ramo pejeroviáta che rehe ?
+43005047	piko mba'éicha		Ha ndaperoviái ramo upe ha'e omoĩ vaekue kuatiáre , piko mba'éicha peroviáta umi mba'e che ha'éva peẽme ? ”
+43006005	Moõgui piko		Jesús ohechávo hetaha umi hapykuéri ou vaekue , he'i Felípepe : -- Moõgui piko jajoguáta tembi'u opa ko'ãvape ñamongaru haguã ?
+43006009	~		-- Oime ápe peteĩ mita'i oguerekóva 5 mbuja sevádagui ojejapóva ha mokõi pira . Umíva jepe niko ndohupyty mo'ãi ñamongaru haguã opavavépe .
+43006025	araka'e piko		Oguahẽvo pe yguasu mboypýri , ojuhu hikuái Jesúspe ha oporandu chupe : -- Mbo'ehára , araka'e piko reju ra'e ápe ?
+43006028	Mba'épa		Oporandu chupe hikuái : -- Mba'épa rojapo vaerã ikatu haguã rojapo umi mba'e Tupã oipotáva ?
+43006030a	mba'e		Oporandu chupe hikuái upémarõ : -- Mba'e hechapyrãva piko rejapóta ore rohecha haguã ha péicha roguerovia haguã pe eréva ? 
+43006030b	mba'e-mba'épa		Emombe'u oréve mba'e-mba'épa rejapo .
+43006042	Mba'éicha piko		He'i hikuái : -- Kóva piko ndaha'éi Jesús , José ra'y ? Jaikuaa niko isy ha itúvape . Mba'éicha piko ko'ágã oúta he'i oguejy hague yvágagui ?
+43006052	Mba'éicha piko		Kóva ombopochy umi judío kuérape , ha he'i hikuái ojupe : -- Mba'éicha piko hete ho'ukáta ñandéve ?
+43006060	Máva piko		Ohendúvo ko'ã mba'e , heta umi upépe oĩva he'i : -- Ko'ã mba'e he'íva niko hasy ñamokõ haguã . Máva piko ojapóta ?
+43006062	mba'e piko		Mba'e piko ndojehúi chéne peẽme péicharõ , che recha ramo chéve , yvypóraicha aju vaekue ko yvy ári , ajupi jey ramo aju haguégui ?
+43006068	máva rendápe piko		Simón Pedro he'i chupe : -- Ore Jára , máva rendápe piko rohóta ? Ne ñe'ẽ niko umi oporomoingovéva opa árape guarã .
+43007011	Moõpa		Umi judío myakãhára kuéra oheka chupe , ha oiko oporandu : -- Moõpa oiméne ?
+43007015	Mba'éicha rupi piko		Umi judío myakãhára kuéra ijurujaipa opytávo , ha he'i : -- Mba'éicha rupi piko hetaite mba'e oikuaa , ko avave nombo'éi vaekue chupe ?
+43007019	Mba'ére piko		Añete niko Moisés oheja hague peẽme hembiapoukapy , ajépa . Ha pende apytépe ndaipóri peteĩnte jepe ojapóva pe ipype he'íva . Mba'ére piko peẽ che jukase ?
+43007020	Máva piko		Heta oĩ he'íva chupe : -- Mba'e pochy ne mbotarova . Máva piko nde jukase ?
+43007023	mba'ére		Peteĩ mitã peapi'ouka ramo Moisés rembiapoukapy péicha he'ígui , ha upéva pejapo pytu'uha árape jepe , mba'ére ko'ágã pende pochy che ndive amonguera haguére peteĩ hasývape pytu'uha árape ?
+43007035	Moõ mba'e piko		Judío myakãhára kuéra oporandu joa ojupe kóicha : -- Moõ mba'e piko ohóta kóva , ikatu'ỹ haguã jajuhu chupe ? Ohóta mba'e piko tetã ambuére , judío kuéra oikoha rupi , ha umi rupi ombo'e umi Tupãre ija'e'ỹvape ?
+43007036	Mba'éiko		Mba'éiko he'ise , he'írõ : “ Che rekáne ha nda che juhu mo'ãi , ndaikatu mo'ãigui peho che ahatahápe ? ”
+43007041	~		Oĩ katu he'íva : -- Kóva ha'e pe Mesías . Ha oĩve he'íva : -- Ndaha'éi . Pe Mesías niko ndaha mo'ãi Galileagua .
+43007045	Mba'ére piko		Umi ñorãirõhára kuéra Tupao pegua oho jey umi fariséo ha pa'i ruvicha kuéra rendápe . Ha'e kuéra oporandu umi ñorãirõhárape : -- Mba'ére piko ndapeguerúi ?
+43007048	~		Oĩ nga'u piko peteĩnte jepe myakãhára kuéra , térã Fariséova ogueroviáva chupe ?
+43007051	~		-- Ndaikatúi ja'e mba'eve avavére ñahendu mboyve mba'épa oguereko he'i vaerã ijehe ha jaikuaa porã mboyve pe ojapo vaekue . Ñande léi péicha he'i .
+43008005	mba'e		Moisés rembiapoukapýpe niko he'i ko'ãichagua kuña oñembo'íta vaerã omano meve . Ndépa mba'e ere ?
+43008010	Moõ piko		ha oñakã rapu'ã ha'e ha oporandu pe kuñáme : -- Moõ piko ohopa hikuái ? Ndaipóri véima piko oipotáva remano ?
+43008019	Moõ piko		Oporandu chupe hikuái : -- Moõ piko oime nde ru ? Jesús he'i chupe kuéra : -- Peẽ nda che kuaái , ha ndapeikuaái che Rúpe . Chéve che kuaa rire , peikuaa vaerã mo'ã avei che Rúpe .
+43008025a	Máva piko		Upépe oporandu chupe hikuái : -- Máva piko nde ? 
+43008025b	~		Jesús he'i chupe kuéra : -- Iñepyrũmby guive niko ha'éva peẽme ,
+43008033	Mba'e		Ha'e kuéra katu he'i chupe : -- Ore niko Abraham ñemoñare , ha araka'eve ndoroikói vaekue avave po guýpe . Mba'e erese oréve , ere ramo rojejorataha ?
+43008043	Mba'érepa		Mba'érepa ndoikéi peẽme pene akãme umi mba'e ha'éva peẽme ? Napehenduséigui che ñe'ẽ .
+43008046a	máva		Máva pende apytégui ikatu he'i che rehe che rembiapo vaiha ? 
+43008046b	mba'éré		Ha añetegua ramo pe ha'éva peẽme , mba'ére nda che reroviái ?
+43008053	Máva piko		Nde nga'u piko nde tuichave ore ypykue Abrahámgui ? Ha'e niko omano vaekue ha umi maranduhára kuéra péichante avei . Máva piko nde ?
+43008057	~		Umi judío kuéra he'i Jesúspe : -- Ne'ĩra gueteri niko remboty 50 áño , ha piko eréta oréve rehecha hague Abrahámpe ?
+43009002	mba'érepa		Ha hemimbo'e kuéra oporandu chupe : -- Mbo'ehára , mba'érepa ndohechái ha'e oikove ypy guive ? Túva kuéra angaipáre , térãpa iñangaipáre voi ?
+43009010	Mba'éicha rupi piko		Upépe oporandu chupe hikuái : -- Ha mba'éicha rupi piko ko'ágã rehecha ?
+43009012	Moõ piko		Oporandu chupe hikuái : -- Moõ piko oime pe kuimba'e ? Ha'e he'i chupe kuéra : -- Ndaikuaái .
+43009016	piko mba'éicha		Oĩ fariséo he'íva : -- Péicha ojapóva ndoúi Tupãgui . Nomomba'éi niko pytu'uha ára . Oĩ katu he'íva : -- Peteĩ iñangaipáva piko mba'éicha ojapóta mba'e hechapyrãva koichagua ? Ha ojoavypa hikuái oñondive .
+43009017	mba'e		Upéi katu oporandu jey pe ohecha'ỹ vaekuépe : -- Ha'e niko ne monguera ha rehecha haguã . Ndépa mba'e ere hese ? Ha ha'e he'i : -- Che ha'e hese , ha'e maranduharaha .
+43009019	Mba'éicha rupi piko		ha oporandu chupe kuéra : -- Kóva piko pende ra'y , peẽ pejéva ndohechái hague oikove ypy guive ? Mba'éicha rupi piko ko'ágã ohecha ?
+43009026a	mba'e		Oporandu jey chupe hikuái : -- Mba'e ojapo nde rehe , 
+43009026b	~		rehecha haguã ?
+43009027	Maerã piko		Ha'e he'i chupe kuéra : -- Ha'éma niko peẽme , ha na che renduséi . Maerã piko peporandu chéve amombe'u jey-jey haguã peẽme ? Térã piko peikose peẽ , hemimbo'e ramo avei ?
+43009034	~		Upérõ he'i chupe hikuái : -- Nde , ne renyhẽva tembiapo vaígui reikove ypy guive , piko rejúta ore reko mbo'e haguã ? Ha upepete omosẽ chupe hikuái pe judío kuéra tupaógui .
+43009036	mávapa		He'i ha'e : -- Ere chéve mávapa , ha ajeroviáta hese .
+43010020	Maerã piko		Oĩ heta he'íva : -- Mba'e pochy niko oguereko , ha itarova . Maerã piko pehendu chupe ?
+43010021	Mba'éicha piko		Oĩ katu he'íva : -- Mba'e pochy oguerekóva noñe'ẽ mo'ãi péicha . Mba'éicha piko mba'e pochy omongueráta peteĩ ohecha'ỹvape ?
+43010024	Araka'e peve piko		Upépe , umi judío kuéra oñembojerepa hese ha oporandu chupe : -- Araka'e peve piko ore rerekóta roikuaa porã'ỹre mba'épa ro'e vaerã nde rehe ? Emombe'u porãntena oréve . Ndépa hína pe Mesías ?
+43010032	Mavaitévarepa		Jesús katu he'i chupe kuéra : -- Che Ru pokatu rupi , heta mba'e iporãva ajapo pende rovake . Mavaitévarepa che jukáta itápe ?
+43010036	Mba'éicha piko		Tupã che mboyke vaekue imba'erã ha che mbou yvy ári . Mba'éicha piko aipóramo pejéta ajahéi hague hese , ha'e haguére che Tupã Ra'yha ?
+43011034	Moõ piko		Oporandu chupe kuéra : -- Moõ piko pemoĩ ra'e hetekue ? He'i hikuái chupe : -- Eju ehecha , ore Jára .
+43011047	Mba'épa		Upépe fariséo ha pa'i ruvicha kuéra oñembyaty umi myakãhára kuérape , ha oporandu hikuái : -- Mba'épa jajapóta ? Ko kuimba'e niko ojapo hína heta mba'e hechapyrãva .
+43011056	Mba'épa		Umíva oiko oheka Jesúspe , ha pe Tupaóre oporandu joa hikuái : -- Mba'épa peẽ peje ? Oúnepa ko areterã térãpa nahániri ?
+43012005	Mba'ére piko		-- Mba'ére piko noñeme'ẽi ra'e ko mba'e ryakuã porã 300 pláta pehẽnguére oñepytyvõ haguã mboriahúpe ?
+43012027	piko mba'e		Ko'ágã tuicha ajepy'apy aína . Ha piko mba'e ha'éta ? Ikatúta nga'u piko ha'e : ‘ Che Ru , eipe'a che hegui ko jehasa asy ahasáva ’ ? Upevarã voínte niko aju vaekue .
+43012034a	mba'éicha piko		Opavave he'i chupe : -- Ñandejára Ñe'ẽme niko he'i pe Mesías nomano mo'ãiha araka'eve . Mba'éicha piko aipóramo nde ere oñemosãingo vaerãha upe yvypóraicha ou vaekuépe ko yvy ári ? 
+43012034b	Mávapa piko		Mávapa piko aipóramo pe yvypóraicha ou vaekue ko yvy ári ?
+43012038a	máva piko		Péicha ojehu oiko haguã maranduhára Isaías omoĩ haguéicha kuatiápe : “ Ore Jára , máva piko ogueroviaupe ore romombe'úva ? 
+43012038b	mávape piko		Mávape piko Ñandejáraohechauka ipokatu ? ”
+43013025	máva piko		Oñembojave ha'e Jesús rehe ha oporandu chupe : -- Che Jára , máva piko hína ?
+43013036	moõ piko		Simón Pedro oporandu Jesúspe : -- Che Jára , moõ piko rehóta ? Jesús he'i chupe : -- Che ahatahápe ndaikatúi ko'ágã reju che ndive . Upe rirénte rejúta .
+43013037	mba'ére piko		Pedro he'i chupe : -- Che Jára , mba'ére piko ndaikatu mo'ãi aha nde ndive ko'ágã ? Che niko aime amano haguã nde rehe .
+43014002	~		Heta rendaguã che Ru rógape oĩ , ha che aha ambosako'i peẽme pene rendaguã . Ndaupéichai rire , namombe'úi vaerã mo'ã peẽme .
+43014005	mba'éicha piko		Tomás he'i chupe : -- Ore Jára , ndoroikuaái niko moõpa reho , mba'éicha piko aipóramo roikuaáta pe tape ?
+43014009	Mba'éicha piko		Jesús he'i chupe : -- Felipe , aréma niko aiko hague pene ndive , ha piko ne'ĩra che kuaa ? Upe chéve che recháva , ohecháma che Rúpe . Mba'éicha piko péicharõ ejerure chéve ahechauka haguã peẽme che Ru ?
+43014022	mba'ére piko		Judas , ndaha'éi Judas Iscariote , oporandu chupe : -- Ore Jára , mba'ére piko orévente rejechaukáta , ha nderejechauka mo'ãi opa yvypórape ?
+43016005	moõpa		Ko'ágã katu niko aháta aime haguã upe che mbouhare ndive , ha peẽ napeporandúi chéve moõpa aháta .
+43016017	Mba'éiko		Upépe , oĩ Jesús remimbo'e kuéra oporandúva ojupe : -- Mba'éiko pe he'iséva ? He'i ñandéve ko'ẽrõite ndajahecha mo'ã veimaha chupe , ha upe riremínte jahecha jeytaha chupe , ohótagui Túva rendápe .
+43016018	Mba'éiko		Mba'éiko he'ise he'i ramo ‘ ko'ẽrõite ’ ? Ndajaikuaái niko mba'e rehépa oñe'ẽ ?
+43018004	Mávape piko		Jesús niko oikuaapáma mba'épa ojehúta chupe . Upévare osẽ ohuguãitĩvo ha oporandu chupe kuéra : -- Mávape piko peheka ?
+43018007	Mávape piko		Jesús oporandu jey chupe kuéra : -- Mávape piko peheka ? Ha ha'e kuéra he'i : -- Jesús , Nazaret guápe .
+43018011	~		Jesús katu he'i Pédrope : -- Emoinge jey nde kyse puku hyrúpe . Nde piko reimo'ã naimeiha ahasa asy haguã che Ru omoĩ haguéicha chéve ?
+43018021	Mba'ére piko		Mba'ére piko reporandu chéve ko'ã mba'ére ? Eporandu umi che rendu vaekuépe ha ha'e kuéra tomombe'u ndéve mba'e rehépa añe'ẽ chupe kuéra . Ha'e kuéra niko oikuaa mba'épa ha'e chupe kuéra .
+43018023	piko maerã		Jesús he'i chupe : -- Oime rire ha'e oimeraẽ mba'e hendape'ỹ , ere chéve . Nda'éi rire mba'eve ivaíva , piko maerã che rovapete ?
+43018029	Mba'e		Upévare Pilato osẽ oñe'ẽ haguã chupe kuéra . Oporandu chupe kuéra : -- Mba'e ivaíva piko peje ko kuimba'e ojapo hague ? He'i chupe umi judío kuéra :
+43018035	mba'e mba'éiko		Pilato he'i chupe : -- Che nga'u piko judío ? Ne retãgua voi ha umi pa'i ruvicha kuéra niko umi nde reru vaekue nde reja che pópe . Mba'e mba'éiko rejapo ?
+43018038	mba'e piko		Pilato he'i chupe : -- Ha mba'e piko pe añetegua ? Ko'ã mba'e oporandu rire Jesúspe , Pilato osẽ jey oñe'ẽ umi judío kuéra ndive . He'i chupe kuéra : -- Che niko ndajuhúi ko kuimba'e ojapo hague mba'eve ivaíva .
+43019009	Moõgua piko		Oike jey hógape ha oporandu Jesúspe : -- Moõgua piko nde ? Jesús katu nde'íri chupe mba'eve .
+43019015	~		Ha'e kuéra katu osapukái : -- Tomano , tomano . Emosãingo kurusúre . Pilato oporandu chupe kuéra : -- Pende ruvicha guasu piko amosãingóta kurusúre ? Ha umi pa'i ruvicha kuéra he'i chupe : -- Mburuvicha guasu Roma pegua , ha'e añónte ore ruvicha guasu .
+43020013	Mba'ére piko		Umi Tupã remimbou oporandu chupe : -- Mba'ére piko ne rasẽ ? Ha'e he'i chupe kuéra : -- Ogueraha niko hikuái che Járape , ha ndaikuaái moõpa oheja .
+43020015a	mba'ére piko		Ha Jesús oporandu chupe : -- Mba'ére piko ne rasẽ ? 
+43020015b	Mávape piko		Mávape piko reheka ? María oimo'ãgui pe kokuére oñangarekóva pe oñe'ẽva chupe , he'i : -- Nde , che karai , eraha rire ere chéve moõpa reheja ra'e , ha aháta ipiári .
+43021012	mávapa		Upéi Jesús he'i chupe kuéra : -- Peju pe rambosaHa avave noporanduséi chupe mávapa ha'e . Oikuaa niko hikuái Ñandejára Jesucristoha .
+43021020	máva piko		Pedro ojere ha ohecha ouha hapykuéri kuéra Jesús remimbo'e ha'e ohayhuetéva . Upéva voi ku pyhare karuhápe , oĩ vaekue Jesús ykére ha oporandu vaekue chupe : “ Che Jára , máva piko pe ne moñuhãtava ” ?
+43021021	piko mba'e		Pedro ohechávo chupe , oporandu Jesúspe : -- Che Jára , ha kóvape piko mba'e ojehúta ?
+43021022	piko mba'e		Jesús he'i chupe : -- Aipota ramo ha'e oikove aju jey peve , piko mba'e ndéve ? Nde , eju che moirũ .
+43021023	piko mba'e		Upévare , isarambi ñe'ẽ umi Jesús rehe ojeroviáva apytépe , upéva pe Jesús remimbo'e nomano mo'ãiha . Jesús katu niko nde'íri nomano mo'ãiha . He'ínte : “ Aipota ramo oikove che aju jey peve , piko mba'e ndéve ? ”
+44001011	mba'ére piko		ha he'i chupe kuéra : — Peẽ Galileagua , mba'ére piko pepyta pema'ẽ yvágare ? Upe Jesús voi oĩ vaekue pene ndive ha ojehupi vaekue yvágape , ou jeýta pehecha haguéicha oho .
+44002008	Mba'éicha rupi piko		Mba'éicha rupi piko ñahendu oñe'ẽ ramo ñane ñe'ẽ teépe ?
+44002012	Mba'éiko		Opavave ijurujái , ndoikuaái upe oikóva ha he'i joa ojupe : — Mba'éiko he'ise opa ko'ã mba'e ?
+44002037	mba'éiko		Umi ijaty vaekue ohendúvo ko'ã mba'e , oñembyasy eterei ha oporandu joa Pedro ha apóstol kuérape : — Ore pehẽngue , mba'éiko rojapóta ?
+44003012a	mba'ére piko		Pedro , ohechávo kóva , he'i chupe kuéra : “ Mba'ére piko pehecha ramó kóva , peẽ Israelgua ? 
+44003012b	mba'ére piko		Mba'ére piko pema'ẽ ore rehe , ha'érõ guáicha ore umi romonguera vaekue ko kuimba'épe , térã romboguata chupe ore pokatu térã ore marangatu rupi ?
+44004007a	~		Pedro ha Juánpe omoĩvo henondépe kuéra oporandu hikuái chupe kuéra : 
+44004007b	Máva		— Máva rupi  
+44004007c	máva		térã máva rérapepa pejapo ko'ã mba'e ?
+44004016	mba'e piko		He'i ojupe hikuái : — Mba'e piko jajapóta ko'ã tekovére ? Opa Jerusalengua oikuaa ojapo hague hikuái ko hechapyrãva techaukarã , ha ndaikatúi ja'e japuha upéva .
+44004025a	Maerãpa		ere vaekue Espíritu Santo ha ne rembiguái ore ru ypykue David juru rupi : Maerãpa opu'ã tetã nguéraha ojaposemba'e opa reítava ?
+44004025b	~		
+44005003	maerã piko		Pedro he'i chupe : — Ananías , maerã piko reheja Sataná ipu'aka nde rehe ha ne mbojapu Espíritu Sántope , reipe'ávo ne mba'erã pe yvy repykuégui ?
+44005004	Mba'ére piko		Na ne mba'éi piko ra'e pe yvy , ha reme'ẽ rire hepýre , na ne mba'éi ra'e pe hepykue ? Mba'ére piko aipórõ rejapo péicha ? Ndaha'éi yvypórape nde japúva , Tupãme uvei katu .
+44005009	Mba'ére	 piko	Pedro he'i chupe : Mba'ére piko peñemoĩ peteĩ ñe'ẽme pende japu haguã Ñandejára Espíritupe ? Péina oúma umi ogueraha vaekue oñotỹ ne ménape , ha ágã nde reraháta ndéve avei .
+44007026	mba'ére piko		Upe ára ambuépe Moisés ohecha mokõi Israelguáva oñorãirõha oñondive , ha omoingo porãsévo he'i chupe kuéra : ‘ Peẽ oñopehẽngue hína , ha mba'ére piko peñorãirõta oñondive ? ’
+44007027	Máva piko		Upémarõ pe oinupãva hapichápe omyaña Moiséspe ha he'i chupe : ‘ Máva piko ne moĩ ore ruvicha ha ore mbojovakehárõ ?
+44007035	Máva piko		Ha'e kuéra omboyke ramo jepe Moiséspe ha he'i chupe : ‘ Máva piko ne moĩ ore ruvicha ha ore mbojovakeha ramo ? ’ , Tupã omondo chupe huvicha ha imosãsoha ramo , upe Tupã remimbou ojechauka vaekue chupe jukerípe rupive .
+44007049a	mamo piko		Yvága che guapyhaha yvy che pyenda . Mamo piko ikatútapemopu'ã che rogarã ? 
+44007049b	mamo piko		Mamo piko ikatútapejapo apytu'u haguãme ?
+44007052	Máva		Máva umi maranduháravape piko ndoguereko asýi raka'e pende ru kuéra ypykue ? Ha'e kuéra ojuka umi oñe'ẽ vaekuépe upe imarangatúva ou vaerãre , ha ágã oúma ramo ko imarangatúva , peẽ pe pu'ã hese ha pejuka .
+44008031	Mba'éicha piko		Upe Etiopiagua he'i chupe : — Mba'éicha piko hesakãta , ndaipóri ramo omyesakãva chéve ? Ojerure Felípepe ojupi ha oguapy haguã ijykére .
+44008033	Mávapa		Oñemotĩndyha noñembojovakéi hekópe . Mávapa imandu'áneiñemoñarére ? Hekove niko ojepe'ako yvy árigui .
+44008034	Mávare piko		Pe mburuvicha Etiopiagua oporandu Felípepe : — Mávare piko he'i ko'ã mba'e maranduhára : ijehe piko térã ambuére ?
+44008036	~		Upéi ohasávo hikuái peteĩ hi'yha rupi , pe mburuvicha he'i : — Ápe oĩ y , ikatúpa che añemongarai ?
+44009004	mba'ére piko		Saulo ho'a yvýre ha ohendu peteĩ he'íva chupe : “ Saulo , Saulo , mba'ére piko reñemoĩ che rehe ? ”
+44009005	Máva piko		Saulo oporandu : “ Máva piko nde , che Jára ? ” Upe oñe'ẽva he'i chupe : “ Che hína Jesús , upe nde reñemoĩha .
+44009006	~		Epu'ã ha eike upe távape , upépe oje'éta ndéve ne rembiaporã . ”
+44010004	Mba'épa		Cornelio oma'ẽvo hese , okyhyje eterei ha oporandu chupe : “ Mba'épa reipota , che Jára ? ” Tupã remimbou he'i chupe : “ Tupã ohendu ne ñembo'e ha umi rejapo vaekue reipytyvõ haguã oikotevẽvape .
+44010021	mba'épa		Pedro oguejy ha he'i umi kuimba'épe : — Che hína upe pehekáva , mba'épa peipota ?
+44010029	maerãpa		Upévare añehenóivo , aju ha'e'ỹre mba'eve . Aikuaase aipórõ maerãpa pe che renoika .
+44010047	~		Upérõ Pedro he'i : — Mañei piko ikatu jajoko ani haguã oñemongarai ko'ã oñeme'ẽ vaekuépe Espíritu Santo ñandéveicha avei ?
+44011017a	máva piko		Tupã ome'ẽ ramo avei chupe kuéra upe ome'ẽ vaekue ñandéve , jajerovia vaekuére Ñandejára Jesucrístore , máva piko che ajokose haguã Tupãme ?
+44011017b	~		
+44012018	mba'épa		Ko'ẽmba rire oiko sarambi guasu ñorãirõhára apytépe , ndoikuaáigui mba'épa oiko ra'e Pédrogui .
+44013025	~		Ha Juan , hi'aguĩma ramo hi'ára guahẽ , he'i vaekue : ‘ Che ndaha'éi upe peẽ peimo'ãva : che rire katu ou peteĩ , chéve ija'ỹva ajora ipy reheguánte jepe . ’
+44014015	mba'ére piko		— Peẽ kuimba'e , mba'ére piko pejapo péicha ? Oréko yvypóra peẽichaguánte avei . Roju kuri pomomarandúvo pe marandu porã , pejehejáma haguã ko'ã výro reígui , ha pejevy Tupã oikovévare ojapo vaekue yvága , yvy , yguasu ha opa ipype oĩva .
+44015010	Mba'érepa		Mba'érepa aipórõ peñemoĩse Tupã rehe , peitývo ko'ã Jesús reroviaha ári mba'e pohýi , ñande ha ñande ru kuéra ypykue ikatu'ỹ vaekue jaropu'aka ?
+44016030	mba'épa		Upéi oguenohẽ chupe kuéra ha oporandu : — Karai kuéra , mba'épa ajapo vaerã añepysyrõ haguã ?
+44017018	Mba'e piko		Avei arandu kuéra epicúreova ha estóicova oñepyrũ oñoñe'ẽ api hendive . Oĩ he'íva : — Mba'e piko he'íta ñandéve ko tekove ñe'ẽngatu ? Ha oĩ he'íva : — Oime vaerãko hína tupã mombyrygua myerakuãha . Péicha he'i hikuái Pablo omyerakuãgui Jesús marandu porã ha jeikove jey rehegua .
+44017019	mba'eichagua		Upérõ ogueraha hikuái chupe Areópagope ha oporandu hikuái chupe : — Ikatúpa jaikuaa mba'eichagua temimbo'e pyahúpa reru oréve ?
+44019003	Mba'eichagua		Pablo oporandu chupe kuéra : — Mba'eichagua ñemongarai rupi piko peñemongarai ra'e ? Ha'e kuéra he'i : — Juan ñemongarai rupi .
+44019015	piko máva		Peteĩ jey katu upe mba'e pochy he'i chupe kuéra : “ Aikuaa Jesús ha mávapa Pablo , ha peẽ piko máva ? ”
+44019035	~		Pe mba'e haihára táva pegua , ikatúmarõ oporomokirirĩ , he'i : “ Efesogua kuéra ! Opavave oikuaa porã , ko táva oĩha oñangareko haguã tupã guasu Artemisa tupaóre ha ha'ãnga yvágui ho'a vaekuére .
+44021013a	mba'ére		Pablo katu he'i : — Mba'ére piko pene rasẽ ha pe che mbopy'a mbyasy ? Che aime , ndaha'éi ajepokua ha ajepykua haguãicha añónte , amano haguãicha uvei katu Jerusalénpe Ñandejára Jesús rayhupápe .
+44021013b	~		
+44021022	Mba'épa		Mba'épa oĩ kóvagui ? Katuete niko ojekuaáta reju hague .
+44021033a	mávapa		Upérõ pe mburuvicha oñemboja , ipojái Páblore ha oipokuauka kadénape . Upéi oporandu mávapa 
+44021033b	mba'épa		ha mba'épa ojapo ra'e .
+44022007	mba'ére piko		ha ha'a yvýre . Ahendu peteĩ he'íva chéve : ‘ Saulo , Saulo , mba'ére piko reñemoĩ che rehe ? ’
+44022008	Máva piko		Aporandu : ‘ Máva piko nde , che Jára ? ’ Ha pe oñe'ẽva he'i chéve : ‘ Che hína Jesús Nazaretgua upe nde reñemoĩha . ’
+44022010	Mba'épa		Che aporandu : ‘ Mba'épa ajapo vaerã che Jára ? ’ Ha Ñandejára he'i chéve : ‘ Epu'ã ha tereho Damasco peve . Upépe oje'éta ndéve opa rejapo vaerã . ’
+44022016	~		Ha ko'ágã ani reha'arõve . Epu'ã , eñemongaraika ha eñemopotĩ ne angaipágui , rehenóivo Ñandejára réra . ”
+44022026	~		Ohendúvo upéva , pe mburuvicha oho omombe'u huvichápe he'ívo chupe : — Ema'ẽke upe rejapótavare , ko kuimba'e niko Romagua hína .
+44023003	mba'érepa		Pablo katu he'i chupe : — Tupã ne nupãta , tekove rova mokõi ! Nde reguapýrõ upépe che mbojovake haguã ñane rembiapoukapy he'iháicha , mba'érepa ere añenupã haguã , ko ñane rembiapoukapy ndohejáiva upéva ojejapo ?
+44023009	~		Opavave osapukaipa , ha oĩ Moisés rembiapoukapy mbo'eha fariséova , opu'ãva ha he'íva : — Ko kuimba'e ndojapói mba'eve ivaíva . Oime vaerãko oñe'ẽ chupe ra'e peteĩ espíritu térã Tupã remimbou .
+44023019	Mba'épa		Pe mburuvicha ipojái pe mitã póre , ogueraha ha'eñoháme ha oporandu chupe : — Mba'épa erese chéve ?
+44026008	Mba'ére piko		Mba'ére piko peẽ ndaperoviái Tupã omoingove jeyha omano vaekuépe ?
+44026014	mba'ére piko		Opavave ro'a yvýre , ha ahendu peteĩ he'íva chéve hebréo ñe'ẽme : ‘ Saulo , Saulo , mba'ére piko reñemoĩ che rehe ? Nde jehe voi rejapo hína ivaíva , ku repyvoi ramo guáicha nde kutuha apỹire . ’
+44026015	Máva piko		Upérõ ha'e : ‘ Máva piko nde , che Jára ? ’ Ñandejára he'i chéve : ‘ Che hína Jesús upe nde reñemoĩha reikóvo .
+45002017	~		Nde ere nde jehe judioha , rejerovia Moisés rembiapoukapýre ha reñembotuicha ne Tupãre .
+45002021	mba'eha		Ha iporã . Rembo'e ramo ambuépe , mba'eha nderejeheko mbo'éi nde voi ?
+45002028	~		Judío , ndaha'éi judío ijapére rei , ha pe ojeapi'o vaekue , ndaha'éi ojeapi'óva hetére rei .
+45003001a	mba'épepa		Aipórõ , mba'épepa iporã ndéve , 
+45003001b	~		nde judío ramo ha rejeapi'o ?
+45003003	mba'e		Mba'e ojehu aipórõ ? Tupã nga'u piko ndaheko jeroviaha mo'ã véima , oĩ haguére mbovymi ndaheko jeroviaháiva ?
+45003005	mba'e		Pe ñane ñañanguére oĩ ramo ohechauka haguã Tupã heko jojaha , mba'e ikatu ja'e ? Tupã ndahekojaiha ñane nupãrõ piko ? ( Añe'ẽ hína yvypóra oñe'ẽháicha ) .
+45003006	mba'éicha piko		Hesakã ndaupeichaiha ! Tupã ndaheko jojái rire , mba'éicha piko ombojovakéta yvypórape ?
+45003007a	~		Pe che japukue iporã ramo , Tupã reko joja omimbi tuichave haguã , 
+45003007b	mba'ére piko		mba'ére piko añembojovake angaipa apoháicha ?
+45003008	mba'eha piko		Upéicharõ , mba'eha piko ndojejapói ivaíva ou haguã iporãva ? Upéva voi niko pe oje'éva che ambo'eha , che moherakuã vai haguã . Umi péicha he'ívape ou porã oñenupã .
+45003009	mba'e piko		Mba'e piko aipórõ ? Jarekópa , ñande judío , mba'e iporãvéva umi ambuégui ? Hesakã nda upeichaiha ! Jahechaukáma , opavave , judíova ha judio'ỹva , oĩha angaipa poguýpe .
+45003027a	Mamópa		Mamópa aipórõ opyta pe yvypóra ojererovuha Tupã renondépe ? Mamove . 
+45003027b	mba'ére piko		Ha mba'ére piko upéva ? 
+45003027c	~		Ndaha'éi ojapo haguére tembiapoukapy he'íva , oguerovia haguérente .
+45004001	mba'épe		Ha aipórõ , mba'épe osẽ porã hague piko ja'éta ñande ru ypykue Abraham .
+45004003	~		Ñandejára Ñe'ẽ he'i : “ Abraham niko oguerovia vaekue Tupãme , upévare Tupã oguereko vaekue chupe heko jojáva ramo . ”
+45004010	araka'e piko		Ha araka'e piko ojehecha kuaa ra'e chupe ? Abraham ojeapi'o rirépa ra'e , térãpa upe mboyve ? Nda upe riréi , upe mboyve vaekue .
+45005010	~		Tupã ñane moingo porã jeýrõ hendive , Ta'ýra mano rupi , ñane rembiapo vai ramo gueteri jaikóvo , ikatueteve ñane pysyrõ , ko'ágã jaiko porã jeýmava hendive .
+45005021	~		Ha pe angaipa ipu'aka haguéicha ha ogueru ñemano , upéicha avei Tupã py'a porãngue ñane sãmbyhy , ñane mboheko jojávo ha ome'ẽvo ñandéve jeikove opa'ỹva , Ñandejára Jesucristo rupi .
+45006001	Mba'e piko		Mba'e piko ja'éta aipórõ ? Ñane rembiapo vaivéta piko jahávo Tupã imba'e porãve haguã ?
+45006002	Mba'éicha piko		Ahániri upéva ! Angaipa apópe guarã ñande ñamanóma ? Mba'éicha piko aipórõ jaikótante jahávo upe angaipa apópe ?
+45006015	mba'e piko		Mba'e piko aipórõ ? Ñane angaipáta piko nañaiméi haguére tembiapoukapýre , ha ñaime Tupã mba'e porãre ? Nahániri upéva !
+45006021	mba'épe		Ha mba'épe iporã peẽme ra'e upérõ ? Ko'ágã peẽ petĩ umi mba'ére , oporoguerahágui ñemanómente .
+45007007	~		Ja'éta nga'u piko upévare , pe tembiapoukapy ivaiha ? Ahániri upéva ! Upéicharõ jepe , ndaha'éi rire pe tembiapoukapýre , che ndaikuaái vaerã mo'ã mba'épa pe angaipa apo . Araka'eve ndaikuaái vaerã mo'ã mba'épa pe mba'e pota , pe tembiapoukapy nde'íri rire : “ Ani ne mba'e pota . ”
+45007024	Mávapa		Aichejáranga che ! Mávapa che pe'áne pe mano pu'aka , che retépe oĩvagui ?
+45008024	Máva voi piko		Upe mba'e ñaha'arõva reheve ñañerenohẽ vaekue jejopýgui . Ñaha'arõ pe jahechámava niko ndaha'éi ñeha'arõ . Máva voi piko oha'arõ pe ohechámava ?
+45008031a	mba'épa		Mba'épa ikatuve ja'e ? 
+45008031b	piko máva		Tupã oĩ ramo ñane ndive , piko máva oñemoĩta ñande rehe ?
+45008032	mba'éicha piko		Tupã ome'ẽ rire ñandéve Ta'ýra tee jepe , ha oheja katu omano ñande rehe , mba'éicha piko nome'ẽ mo'ãi ñandéve , Ita'ýra ndive , opa mba'e ?
+45008033	~		Oiméta piko oñe'ẽ vaíva umi Tupã oiporavo vaekuére ? Tupã niko pe omboheko jojáva chupe kuéra .
+45008034	Mávapa		Mávapa ikatúne omboja hese kuéra angaipa ? Avave . Jesucristo niko pe omano vaekue . Ha oimeve katu , ha'e niko pe oikove jey vaekue ha oime ko'ágã Tupã akatúape , oñembo'e hína ñande rehe .
+45008035	Máva piko		Máva piko ikatúta ñande pe'a Jesucristo mborayhúgui ? Jehasa asy piko , mba'e mbyasy , ñemuña , ñembyahýi , opívo térã ñemano vai piko ?
+45009014	~		Ja'éta piko upévare Tupã ndaheko jojaiha ? Ahániri katu !
+45009019a	mba'e piko		Eréta jepe chéve : “ Upéicharõ , mba'e piko Tupã omboja kuaa yvypórare , 
+45009019b	~		ko avave ndaikatúiva opu'ã hese ? ”
+45009020a	máva piko		Ha nde , yvypóra , máva piko nde , rehova api haguã Tupãme ? 
+45009020b	~		Japepo yvy piko he'íta nga'u ijapoharépe : 
+45009020c	mba'ére piko		“ Mba'ére piko che apo péicha ? ”
+45009021	~		Kambuchi apoha ikatu ojapo ojaposéva pe tujúgui , ha upe tujúgui voi , ikatu ojapo peteĩ japepo ojeporu vaerã ha'e oikuaahápe , ha ambue oiporu haguã maymáva .
+45009022	~		Tupã , oikuaauka haguã mba'éichapa oporonupã , ha ohechaukávo ipokatu , ogueropu'aka heta ñeha'arõ kuaápe , umi oñenupã vaerãme ha ho'áva ohóvo ñehundípe .
+45009023	~		Upe jave avei , oikuaaukase vaekue ñande pype heko mimbipa tuichaitéva . Ñande poriahurereko niko , ha ñane mbosako'i voive guive jaike haguã upe heko mimbipápe .
+45009024	~		Ha upéicha , Tupã ñane renói , judío apytepeguáva ha judio'ỹva apytepeguáva .
+45009030	Mba'épa		Mba'épa ja'éne kóvape ? Ñande jerovia rupi , Tupã omboheko joja hague umi heko jeroviaha'ỹvape , ndohekái vaekue voi teko joja .
+45009032	Mba'ére piko		Mba'ére piko ? Noñemopyendáigui jeroviápe , hembiapokuépente . Upévare oñepysãnga hikuái pe “ ita oñeñepysãngaháre ” ,
+45010006	Máva piko		Ha pe teko joja ipyendáva jeroviáre , oje'e : “ Ani rejepy'a mongeta kóicha : ‘ Máva piko ojupíta yvágape ? ’ ( upéva hína , omboguejy haguã Jesucristo ) ,
+45010007	Mávapa		térã : ‘ Mávapa oguejýta yvykua pypukúpe ? ’ ( upéva hína , Jesucristo ojupi haguã omanóva apytégui ) . ”
+45010008	mba'e piko		Mba'e piko aipórõ pe oje'éva ? “ Pe ñe'ẽ niko oĩ nde ypýpe , nde jurúpe , nde py'ápe . ” Upéva hína pe jerovia rehegua marandu romosarambíva .
+45010014a	mba'éicha piko		Ha mba'éicha piko oñembo'éta hikuái chupe , ko ndogueroviái vaekue Tupãme ? 
+45010014b	mba'éicha piko		Ha mba'éicha piko ogueroviáta chupe , ko avave noñe'ẽiva chupe kuéra hese ? 
+45010014c	mba'éicha piko		Ha mba'éicha piko ohendúta , ndaipóri ramo peteĩ oñe'ẽva chupe kuéra upe marandu pyahúre ?
+45010015	mba'éicha piko		Ha mba'éicha piko oiméta oñe'ẽva upe marandu pyahúre , noñemondói rirérõ upevarã ? He'iháicha Ñandejára Ñe'ẽ : “ Iporãite piko jahecha ramo oguahẽ umi marandu porã oguerúva ! ”
+45010016	máva piko		Nda opavavéiko ojuhu porã pe marandu pyahu . Isaías he'iháicha : “ Che Jára , máva piko oguerovia ra'e ohendúvo pe marandu ? ”
+45011004	~		Tupã katu he'i chupe : “ Amboyke chéve guarã 7.000 kuimba'e oñesũ'ỹ vaekue tupã Baal renondépe . ”
+45011007	piko mba'e		Aipórõ piko mba'e ? Israelgua kuéra ndohupytýi pe ohekáva , ha umi Tupã oiporavo vaekue katu , umíva ohupyty . Umi ambuépe oñembopy'a hatã ,
+45011015	mba'e		Tupã jejahéi judío kuérare ogueru rire jeiko porã jey hendive , mba'e nipo ndoguerúi chéne , Tupã oheja jey ramo oñemoaguĩ hese hikuái : Jeikove jey umi omano vaekuépe guarã !
+45011018	~		Ani jepe rejererovu ha rejahéi umi hakã ypykuére . Upéicha rejapórõ , ne mandu'áke ndaha'eiha nde pe hapo rejokóva , pe hapo katu ndéve nde joko .
+45011033a	~		Tuichaite mba'e piko umi mba'e Tupã oguerekóva , ha pe iñarandu ha iñakã porãngue ! Avave ndaikatúi omyesakãvo mba'épa ha'e ojapóta , 
+45011033b	~		ha oikuaávo hape kuéra .
+45011034a	máva piko		“ Máva piko oikuaa Ñandejára akã ryepy ? 
+45011034b	máva piko		Máva piko oñemoñe'ẽta chupe ?
+45011035	Mávapa		Mávapa omba'e ome'ẽ raka'e chupe , ha'e ko'ágã omyengovia haguã ? ”
+45014004	Máva piko		Máva piko nde , reñe'ẽ haguã pe ambuépe guarã omba'apóvare ? Opyta porã térã opyta vaírõ , upéva oikuaa ijára . Ha opyta porãne , Ñandejára oguereko rupi pokatu omombyta porã haguã .
+45014010a	mba'ére piko		Mba'ére piko aipórõ reñe'ẽ ne pehẽnguére ? 
+45014010b	mba'ére		Térã mba'ére rejahéi hese ? Opavave ñañemoĩ vaerã Tupã renondépe , ha'e ñane mbojovake haguã
+46001020a	mba'épepa		Mba'épepa opyta pe iñarandúva 
+46001020b	~		ha pe oporombo'éva , 
+46001020c	~		ha pe oñe'ẽ kuaáva opa mba'e ko yvy peguáre ? Tupã ojapo ko yvy pegua arandúgui výro rei !
+46002011	Máva 		Máva yvypóra piko oiméta oikuaáva mba'épa oĩ yvypóra py'apýpe , ndaha'éi ramo pe yvypóra espíritu oĩva yvypóra rekovépe ? Upéicha avei , Tupã Espíritu mante ikatu oikuaa mba'épa oĩ Tupã rekovépe .
+46002016a	ava piko		Ñandejára Ñe'ẽ niko he'i : “ Ava piko oime oikuaáva Tupã apytu'ũ ? 
+46002016b	máva piko		Máva piko oheko mbo'éta chupe . ” Ñande jepe jareko Cristo apytu'ũ .
+46003005a	máva piko		Amo ipahápe , máva piko Apolo ? 
+46003005b	máva piko		Máva piko Pablo ? Tembiguáinte , ha'e kuéra rupi peguahẽ pende jeroviápe . Mokõive rojapo pe Ñandejára ome'ẽ vaekue oréve rojapo haguã .
+46004007a	máva piko		Máva piko ne moĩ ambue kuéra ári ? 
+46004007b	mba'e piko		Ha mba'e piko rereko Tupã nome'ẽi vaekue ndéve ? 
+46004007c	mba'ére piko		Ha ha'e ome'ẽ rire ndéve , mba'ére piko rejejapo , ñaimo'ã katu nde rehe aénte voi rehupyty vaekue ?
+46004021	Mba'épa		Mba'épa peipotave : Aha poinupã haguãicha , térãpa aha pohechávo mborayhu ha kunu'ũ reheve ?
+46005002	~		Ha peẽ pejerovu heseve . Pembyasy vaerã katu ha pemosẽ pende apytégui upe mba'e vai apoha .
+46005012	~		Ndachéi ambojovake vaerã umi okápe oĩvape . Tupã ombojavake vaerã chupe kuéra . Peẽ katu pembojovakéma hína pende apyte peguápe . Upévare , peipe'a pe mba'e vai apoha pende apytégui .
+46006001	mba'ére piko		Oime ramo peteĩ peẽva ojoavy hapicha ndive , mba'ére piko ojeruréta omboheko joja haguã chupe kuéra umi mbojovakehára heko jeroviaha'ỹva , ojerure rangue umi Tupã mba'évape ?
+46006003	~		Ndapeikuaái piko umi Tupã rembiguáipe jepe ñande ñambojovake vaerãha ? Ha piko nañambojovake mo'ãi yvy arigua ?
+46006004	mba'ére piko		Aipórõ , oimérõ pejoavyha ko yvy ári guáre , mba'ére piko pemoĩta pene mbojovakeha ramo , umi Tupã rehegua'ỹme ?
+46006007a	~		Pejoavy haguérente ojoapytépe , ivai etereíma . Naiporãvéi vaerãpa peropu'aka pe jeiko joja'ỹ ? 
+46006007b	~		Naiporãvéi vaerãpa peheja ta pene monda ?
+46006009	~		Ndapeikuaái piko peẽ , umi nda heko jojáiva ndaikatu mo'ãiha oike Tupã sãmbyhýpe ? Ani peñembotavy , Tupã sãmbyhýpe ndaija mo'ãi umi ojeitýva teko vaípe , umi omomba'éva ta'ãnga rei , umi omyakãratĩva hembirekópe , umi heko kuñáva ha oikóva kuña ramo , umi oikóva omonda , umi hakate'ỹva , umi ika'úva , umi oñe'ẽ reíva hapicháre , umi mondaha .
+46006016	~		Ndapeikuaái piko peẽ , peteĩ kuimba'e ojoaju ramo kuña reko vai ndive , oikoha chugui kuéra peteĩ reténte ? Ñandejára Ñe'ẽ voi he'i : “ Mokõivévagui oiko vaerã peteĩnte . ”
+46006019	~		Ndapeikuaái piko peẽ , pende rete Espíritu Santo rogaha hína , Tupã ome'ẽ vaekue peẽme , ha Espíritu Santo oikoveha pende pype ? Peẽ ndaha'éi pende rekove jára tee .
+46007016a	mba'éicha piko		Mba'éicha piko nde , tembireko , reikuaa ikatutaha repysyrõ ne ménape ? 
+46007016b	mba'éicha		Térã nde , ména , mba'éicha reikuaáta ikatúpa sapy'ánte reipysyrõ ne rembirekópe ?
+46009007a	~		Oime piko ñorãirõhára oikóva ijehegui omba'apo aja ? 
+46009007b	~		Oime piko oñotỹva parral ha ndo'úi hi'akue ? 
+46009007c	~		Oime piko oñangerekóva ovecháre ha nokamby'úi ?
+46009018	~		Aipóramo , che rembiapo rekovia hína pe vy'a ahasáva , amoherakuã haguére pe marandu porã ojehepyme'ẽ'ỹre chéve , he'ise , ajerure'ỹre pe oñeme'ẽ vaerã chéve amoherakuã haguére pe marandu .
+46010019a	mba'épepa		Kóvape nda'eséi pe ta'ãnga rei oimeha mba'épepa iporã , 
+46010019b	~		térã pe so'o oñekuave'ẽva upe ta'ãnga reípe iporãveha oimeraẽva ambue so'ógui .
+46010019c	~		
+46010029	~		Añe'ẽ hína umi ambue ipy'apýpe oñandúvare , ndaha'éi pende py'apýpe peñandúvare . Che ndaikatúi ahejávo ajehape joko ambue ipy'apýpe oñandúvare .
+46010030	mba'ére piko		Che aguije ame'ẽ ramo Tupãme pe ha'úvare , mba'ére piko ahejáta oñeñe'ẽ vai chéve upe aguije ame'ẽháre .
+46011022	Mba'e piko		Peẽ piko ndaperekói óga pekaru ha pemboy'u haguã ? Mba'ére piko pembotapykue Ñandejára Iglésia , ha pemotĩ umi oguereko'ỹvape mba'eve ? Mba'e piko peipota ha'e peẽme ? Poguerohoryha ? Ko'ã mba'e ko'ãvape nahániri !
+46012017a	~		Ñande rete tuichakue tesánte ramo , ndaikatu mo'ãi ñahendu . 
+46012017b	~		Ha ñande rete tuichakue apysánte ramo , ndaikatu mo'ãi ñahetũ .
+46012019	~		Peteĩ mba'énte rire , na ñande retéi vaerã mo'ã .
+46014006	mba'épa		Che pehẽngue kuéra , ndaha'e mo'ãi mba'eve aha ramo pohecha ha añe'ẽ peẽme ñe'ẽ ojekuaa'ỹvape . Iporãve vaerã añe'ẽ ramo peẽme umi Tupã ohechaukávare , térã añetegua jekuaáre , térã amombe'u peẽme mba'épa oikóta , térã poheko mbo'e oimeraẽva mba'ére .
+46014007	mba'éichapa		Umi mba'epu , mimby , ha árpa umíva , ndaipu joavýi rire , ndaikatúi vaerã mo'ã ojehecha kuaa mba'éichapa ipu peteĩ-teĩ .
+46014008	~		Ha ñorãirõháme pe turu ndaipúi rire oñehendu porã haguãicha , avave noñembosako'iri vaerã mo'ã oñorãirõ haguã .
+46014009	mba'éicha piko		Upéicha avei peẽ . Ndapeiporúi ramo pene kũ peñe'ẽ haguã ojekuaa haguãicha mba'épa peje , mba'éicha piko ojekuaáta mba'épa peje ? Peñe'ẽta hína yvytu reípe !
+46014015	mba'e piko		Mba'e piko ajapo vaerã aipórõ ? Añembo'e vaerã che espíritu ndive , ha upéicha avei che akã reheve . Apurahéi vaerã che espíritu reheve , ha avei che akã reheve .
+46014016	~		Oimérõ nde rerohory Tupãme nde espíritu año rehevénte , ha ne rendu oimeraẽva , ndaikatu mo'ãi ne moirũ ne ñembo'épe , ndoikuaa mo'ãigui mba'épa ere .
+46014026	~		Mbykyhápe , che pehẽngue kuéra , ku peñembyatývo , ikatu oime opurahéiva , ambue oporombo'éva térã omombe'úva umi mba'e Tupã ohechauka vaekue chupe , térã oñe'ẽva ñe'ẽ ojekuaa'ỹvape ha oime omyesakãva pe he'iséva . Opa mba'e tojejapo oñeñomombarete haguã .
+46014036	~		Pene mandu'áke Ñandejára Ñe'ẽ noñepyrũi hague pene ndive , ha napeẽme añói oñeme'ẽ hague .
+46015012	mba'ére		Ro'e ramo Cristo oikove jey hague , mba'ére oime he'íva omanóva ndoikove jey veimaha ?
+46015029a	~		Upeicha'ỹ ramo , 
+46015029b	mba'e		mba'e ohupytýta umi omanóvare oñemongaraíva ? 
+46015029c	maerã		Omano vaekue ndoikove jeýi ramo , maerã piko oñeñemongaraíta hese kuéra ?
+46015030a	~		
+46015030b	mba'ére piko		Mba'ére piko jaikóta opa ára ivai haguãicha ñandéve ?
+46015032	mba'épe		Che , ako Éfesope , añorãirõ rire ramo tymba ñarõ ndive yvypóra rehehápente , mba'épe iporã vaerã mo'ã chéve ? Ha añete ramo upe oje'éva , umi omanóva ndoikove jey veimaha , aipórõ : “ Jakaru ha ñamboy'u , ko'ẽrõite niko ñamanóne ! ”
+46015035a	mba'éicha piko		Ikatúne oime oporandúva : “ Mba'éicha piko oikove jeýta umi omano vaekue ? 
+46015035b	Mba'eichaguáta piko		Mba'eichaguáta piko umi hete ? ”
+46015055a	mamo		Ha , mano , 
+46015055b	moõpa		moõpa oime nde popía ? ”
+47002002	máva piko		Che pomoñembyasýrõ , máva piko che mbovy'áta ndaha'éirõ peẽ , che voi pomoñembyasy vaekue ?
+47002016	mávapa		Umi oñehundívape , ko insiénso ryakuã ojuka . Umi ivaívagui osẽvape katu , omoingove . Ha mávapa ikatu ojapo upéva ?
+47003008	~		Ñe'ẽ Ñome'ẽ Pyahu ñemyerakuã katu , oguapýva Espíritu ári , ko'ýte omimbipa vaerã .
+47003009	~		He'ise , omimbipa vaekue ramo pe tembiapoukapy ñemyerakuã oĩva ñande juka haguã , ko'ýte omimbipáta , pe Tupã ñane mboheko jojaha ñemyerakuã .
+47006014a	~		Ani peñemoĩ umi oguerovia'ỹva ykére . Ndaikatúi oñoirũvo pe heko jojáva ha pe heko joja'ỹva , 
+47006014b	~		pe hesakãva ha pe iñypytũva .
+47006015a	Mba'éicha piko		Mba'éicha piko oikóta peteĩ ñe'ẽme Cristo ha Sataná , 
+47006015b	~		térã ogueroviáva ha oguerovia'ỹva ?
+47006016	Mba'e piko		Mba'e piko oguereko ojapo vaerã oñondive Tupã iglésia umi ta'ãnga rei ndive ? Ñande hína Tupã oikovéva róga , ha'e voi he'i haguéicha : “ Aikóta ijapytépe kuéra , chéta Tupã Ijára , ha'e kuéra katuche retãguáta . ”
+47011011	Mba'érepa		Mba'érepa añe'ẽ upéicha ? Oiménepa ndapohayhúigui mba'e ? Tupã oikuaa porã pohayhuha !
+47011029a	~		Oimérõ hasýva , che avei che rasy . 
+47011029b	~		Oimérõ hapichápe oitýva angaipápe , che pochy hendy .
+47012013	~		Aipota peheja rei chéve oime rire pombopochy ra'e . Peteĩ mba'épente peẽ pene michĩve umi Jesucristo reroviaha ambuégui : che nda che pohýiri vaekue peẽme guarã !
+47012017	~		Che piko ajopy vai ra'e pene ndive , umi peẽme amondo vaekue rupi ?
+48002014	mba'ére piko		Upévare , ahechávo ha'e kuéra ndoikoiha marandu porã añeteguáva rekópe , ha'e Céfaspe opavave rovake : “ Nde , judíova , reiko hína ndaha'éiva ramo guáicha judío , mba'ére piko aipórõ , rejopyse umi judio'ỹvape oiko haguã judío ramo guáicha ? ”
+48003001	Máva piko		Peẽ Galaciagua ñembotavy . Máva piko pene mbotavy ra'e ajeve ramo na pende ñe'ẽ rendúi añeteguáre . Rohechauka porã vaekue peẽme mba'echaitépa Jesucristo omano kurusúre .
+48003019	mba'épe		Mba'épe iporã aipórõ pe tembiapoukapy ? Upe tembiapoukapy oñeme'ẽ upe rire , ohechauka haguã yvypóra naiñe'ẽ renduiha , ou peve pe “ ñemoñare ” upe ñe'ẽ oñeme'ẽ hague . Upe tembiapoukapy oikuaauka vaekue Tupã remimbou kuéra , Moisés rupi .
+48004009a	mba'éicha piko		Ko'ágã peikuaámava Tupãme katu , ja'e porãsérõ guarã Tupã pende kuaámava , mba'éicha piko peikose jeýta umi espíritu ikangy ha ndaha'éiva mba'eve poguýpe ?
+48004009b	~		
+48004010	~		Peẽ niko peiko pembyarete : ára , mes , umi ára reko ha áño hamba'e .
+48004015	Mba'e piko		Mba'e piko oiko upe vy'a peñandu vaekuégui ? Ikatu ha'e pende rehehápe , ikatu rire , peipe'a vaerã mo'ãha pende resa peme'ẽ haguã chéve .
+48004021	mba'épa		Peje chéve peteĩ mba'e , peẽ peikoséva tembiapoukapýre . Napehendúi nga'u piko mba'épa he'i pe tembiapoukapy ?
+48004030	mba'e piko		Ha mba'e piko he'i pe Ñandejára Ñe'ẽ ? He'i : “ Emosẽ okápe pe tembiguái ha imemby . Tembiguái memby ndaikatúi oñomboja'ovo pe Tupã oheja vaekuére pe tembiguai'ỹva memby ndive . ”
+48005007a	máva piko		Peẽ peho vaekue tape porãre . Máva piko pende joko ra'e na pene ñe'ẽ renduvéi haguã añeteguávape ?
+48005007b	~		
+48005011	mba'eha		Che katu , che pehẽngue kuéra , aiko rire aporombo'e aikóvo tuicha mba'eha pe jajeapi'ouka , umi judío na che muñái vaerã mo'ã . Aipórõ , umi mba'e che ambo'éva Cristo kurusu rehegua nombopochy mo'ãi chupe kuéra .
+49004009	mba'épa		Ha mba'épa he'ise “ ha'e ojupi yvate ” ? Upéva he'ise , ha'e oguejy raẽ hague yvy guýpe , ipypukuvehápe .
+50001018	~		Marãve ndoikói . Taha'e py'a porãme térã tova mokõime , Cristo oñemyerakuãma guive , upéva che mbovy'a . Ha avy'avétante hína ,
+50001021	~		Chéve guarã niko che rekove hína Cristo , ha amanórõ katu aime porãvéta .
+51002020	Mba'ére piko		Peẽ pemano vaekue Cristo ndive ha napeime véima umi yvy rekóre ipu'akáva poguýpe . Mba'ére piko aipórõ peiko ko arapýpe guáva ramo , umi mbojojaha poguýpe ?
+52002019	Mávare piko		Mávare piko ikatu rojerovia , rovy'a ha roñembotuicha , Ñandejára Jesús renondépe , ou jeývo ? Napeẽi ramo , avavéne .
+52003009	Mba'éicha		Mba'éicha nipo rome'ẽmba kuaáta ore aguije Tupãme pende rehe ha pe vy'a guasuete roñandúvare henondépe rehe ?
+54003005	mba'éicha		Noisãmbyhy kuaáirõ hóga voi , mba'éicha piko oñangareko kuaáta Tupã iglésiare ?
+54006007a	~		Mba'eve niko ndajaguerúi jajúvo ko yvy ári , 
+54006007b	~		ha mba'eve ndajaguerahái .
+58001005	~		Tupã niko nde'íri avave hemimboúre : “ Nde ha'e che Ra'y , che romoñemoña ko árape . ” Ha nde'íri avei avave hemimboúpe : “ Che itúvataha ha'e che ra'ýta . ”
+58001013	~		Araka'eve Tupã nde'íri vaekue hemimbou kuérape : “ Eguapy che akatúape , tamoĩ ne pyenda ramoumi nde rayhu'ỹva . ”
+58001014	~		Opa umi Tupã remimbou niko espíritu omba'apóva Tupãme guarã , oñemboúva oipytyvõ haguã umi ohupytýtavape Tupãgui ñepysyrõ .
+58002003	Mba'éicha piko		Mba'éicha piko , aipórõ , nañañenupã mo'ãi ñande , ndajajepy'apýi ramo ñañepysyrõ haguãre , ko tuichaite mba'éva upéva . Ñandejára voi niko oñemotenonde vaekue omombe'u haguã ñandéve . Ha upéi upéva , omoañete porãve ñande apytépe umi ohendu vaekue ko'ã ñe'ẽ .
+58002006a	Máva piko		Upéva rangue , Ñandejára Ñe'ẽme oime peteĩ hendápe he'iha : “ Máva piko yvypórane mandu'a haguã hese ? 
+58002006b	Máva piko		Máva piko yvypórarejepy'apy haguã hese ?
+58003016	máva piko		Ha máva piko hína umi opu'ã vaekue Tupã rehe ohendu rire iñe'ẽ ? Umi oguenohẽ vaekue Moisés Egíptogui .
+58003017	máva ndive piko		Ha máva ndive piko Tupã ipochy raka'e 40 áño pukukue ? Umi iñangaipa vaekue ndive , ho'a vaekue omano yvy ojeiko'ỹha rupi .
+58003018	máva		Ha máva rehépa Tupã oñe'ẽ me'ẽ ndoikéi chéne haguã ha'e opytu'uhápe ? Umi iñe'ẽ rendu'ỹ vaekuére .
+58006004	~		Umi ojehesape'áma vaekue ha umi oñandúma vaekue Tupã remime'ẽngue ha ohupyty vaekue imba'erãva Espíritu Sántogui ,
+58007011	~		Israelgua maymáva oikuaa tembiapoukapy osẽ hague Leví rehegua pa'i rekógui . Jahechami , umi pa'i umíva ikatu rire omoĩ porã yvypórape , natekotevẽi vaerã mo'ã ambue pa'íre , ndaha'éiva Aarón reheguáva , Melquisedec chagua katu .
+58009014	~		Ha umi mba'e upéicharõ , pe Cristo ruguykue katu piko mba'eichaite peve iporãta . Espíritu opa ára guarã oikovéva rupi , Cristo imarã'ỹva oñekuave'ẽ Tupãme omano haguã . Ha pe huguy omopotĩ ñande py'apy umi mba'e ñande rerahávagui manóme , ikatu haguã ñamba'apo Tupã oikovévape guarã .
+58010001	~		Moisés rembiapoukapy niko umi mba'e porã ou vaerã joguahánte , ha ndaha'éi pe ha'etéva voi . Upévare , upe tembiapoukapy máramo ndaikatúi omoporã añete umi oñemboja mantévape Tupã renondépe oikuave'ẽ haguã chupe mymbajuka jeýnte .
+58010029a	~		Napeimo'ãipa peẽ ipohyivéne haguã pe ñenupã ojeruréva umi Tupã Ra'ýre opyrũva 
+58010029b	~		ha ojahéiva huguýre , 
+58010029c	~		ha umi oñe'ẽ vaíva Tupã Espíritu ohayhúva chupe kuéra rehe ? 
+58010029d	~		Upe tuguy niko hína pe omoañetéva ñe'ẽ me'ẽ ha upéva rupi ha'e kuéra oñemoboyke Tupãme guarã .
+58011032	Mba'épa		Mba'épa ha'evéta ? Mbyky chéve ára añe'ẽ haguã Gedeón rehe , Barac , Sansón , Jefté , David , Samuel ha umi maranduhárare .
+58012007	~		Peẽ niko pehasa asy hína pejeheko mbo'e haguã . Tupã pende rereko ta'ýra ramo guáicha . Oĩ nga'u piko túva oinupã'ỹva ita'ýrape ?
+58012009	Mba'ére piko		Upéi avei , ako ñane mitãrõ , ñande ru ñane reko mbo'emi , ha ñande jajapómi chupe kuéra mba'e ramo . Mba'ére piko aipórõ nañañemoĩ mo'ãi ñande ru yvága pegua poguýpe , jaikove añete haguã ?
+58012025	~		Upévare , pema'ẽke ani napehenduséi pe ñandéve oñe'ẽvape . Umi oñemboyke vaekue Tupãgui , ha'e omomarandu ramo guare chupe kuéra ko yvy ári , nokañýi vaekue chugui . Ha ñandéma katu ndaikatúi eteve vaerã ñakañy , ñame'ẽ ramo ñande atukupe pe yvága guive ñane momarandúvape .
+58013006	mba'e piko		Aipórõ ikatu ja'e jeroviápe : “ Ñandejára che pytyvõhára , ndakyhyjéi chéne . Mba'e piko ojapóta che reheyvypóra ? ”
+59002006	~		Peẽ katu ndapejapói mba'evérõ imboriahúvape . Ndaha'éi nga'u piko mba'e reta rekoha umi pene momba'apo reíva , ha pende reraháva mburuvicha kuéra renondépe ?
+59002014	mba'épe piko		Che pehẽngue kuéra , mba'épe piko iporã ja'e jajeroviaha ha ndojapói mba'eve iporãva ? Ikatu nga'u piko peichagua jerovia ñane renohẽ ivaívagui ?
+59002016a	~		ha peteĩ peẽva he'i chupe : “ Toho porãite ndéve . Eñeñuã ro'ýgui ha ekaru ” ha nome'ẽi chupe upe oikotevẽva , 
+59002016b	mba'épe piko		mba'épe piko iporã upéva ?
+59002018	~		Ikatu jepe oĩ he'íva : “ Nde rejerovia ha che katu ajapo iporãva ” . Ehechauka chéve aipórõ , nde jerovia rejapo'ỹre mba'eve , ha che ahechaukáta ndéve che jerovia che rembiapokue rupi .
+59002021	~		Tupã oguereko vaekue imarangatúvarõ ñande ru ypykue Abrahámpe , upe ojapo vaekuére oikuave'ẽ ramo guare ita'ýra Isaácpe .
+59003013	~		Oĩrõ pende apytépe iñarandu ha oikuaapáva , tohechauka heko marangatu rupi ha ojejapo'ỹre , iñaranduha .
+59003017	~		Umi oguerekóva arandu Tupãgui oúva katu heko potĩ , ndaipochy kuaái , ipy'a porã ha iñe'ẽ rendu kuaa . Upéicha avei , oporoporiahurereko kuaa , iñe'ẽ añete , ndahova mokõiri ha ojapo iporãva .
+59004001a	Mamógui piko		Mamógui piko ou umi ñorãirõ 
+59004001b	~		ha joavy pende apytépe ? Ou pene rembipota vaígui , pene moñorãirõ mantéva .
+59004012	piko máva		Peteĩnte upe ome'ẽ vaekue tembiapoukapy ha upéva hína Tupã , ikatúva oporope'a ivaívagui térã oporohundi . Ha nde piko máva , remoĩ vai haguã nde rapichápe ?
+59004014	~		Ndapeikuaái mba'épa ojehúta peẽme ko'ẽrõ . Ñande rekove ojogua tatatĩna sapy'ami ojekuaávape ha upéi opa reíva .
+60002020	mba'épepa		Oimérõ peñenupã pejapo haguére mba'e vai , mba'épepa iporãne peẽme ? Pehasa asy ramo pejapo haguére mba'e porã katu , upéva ombohory Tupãme .
+60003013	Máva piko		Máva piko ojapóta pende rehe ivaíva , peẽ peñeha'ã tapia ramo pejapo iporãva ?
+60004017	mba'eichaitépa		Oguahẽma ára ñembojovake oiko haguã umi Tupã reheguáva apytépe voi . Ha pe ñembojovake oñepyrũma ramo hína péicha ñande rehe , mba'eichaitépa opáne umi marandu pyahu ohenduse'ỹva ?
+60004018	mba'épa		Ha pe heko jojávape hasy ramo oñepysyrõ , mba'épa ojehúne pe iñañáva ha angaipa apohápe ?
+61003004	Moõ piko		ha he'íta peẽme : “ Cristo niko he'i vaekue ou jeytaha . Moõ piko oime ? Ore ru kuéra niko omanombáma , ha ko yvy katu oĩ iñepyrũmby guive guaréicha . ”
+61003011	~		Péicha oñehundipátagui opa mba'e , peẽ peñeha'ã vaerã pende rekove peme'ẽmbaite Tupãme .
+62002022	Mávapa		Mávapa pe ijapúva ? Upe he'íva Jesús ndaha'eiha pe Cristo . Upéva hína pe Crístore opu'ãva ndoikuaaséigui mba'eve Túva ha Ta'ýragui .
+62003012	mba'ére piko		Ha ani jaiko oiko haguéicha Caín , mba'epochy mba'e vaekue ha ojuka tyvýrape . Ha mba'ére piko ojuka chupe ? Hembiapokue ivaígui , tyvýra rembiapokue katu iporã .
+62003017	mba'éicha piko		Pe oguereko hetáva ha ndoiporiahurerekói hapicha oguereko'ỹvape , mba'éicha piko ikatúta he'i Tupã mborayhu oĩha ipype ?
+62004020	piko mba'éicha		Oĩrõ he'íva : “ Che ahayhu Tupãme ” , ha upekuévo ndohayhúi hapichápe , ijapu . Pe ohayhu'ỹva hapicha ohechávape , piko mba'éicha ohayhúta Tupã ohecha'ỹvape ?
+62005005	~		Upe ogueroviáva Jesús Tupã Ra'yha , ipu'aka yvypóra rekóre .
+66005002	Mávapa		Ha ahecha peteĩ Tupã remimbou ipu'akapáva , oporandu hatãva : “ Mávapa ijeroviaháva , oipeka haguã ko kuatia apakuapy ha ojoka umi séllo ? ”
+66006010a	araka'e piko		Hatã he'i hikuái : “ Mburuvicha guasu imarangatu ha añetéva , araka'e piko rembojovakéta yvypórape 
+66006010b	~		ha remyengoviáta ore mano ? ”
+66006017	mávapa		Péina oguahẽ ñenupã guasu ára , ha mávapa ikatúne ogueropu'aka ” ?
+66007013a	máva piko		Upérõ , pe karai myakãhára peteĩva oporandu chéve : “ Máva piko ko'ã oñemondéva ao morotĩme , 
+66007013b	moõgui piko		ha moõgui piko ou hikuái ? ”
+66013004a	Mávapa		Omomba'e guasu hikuái pe teju jaguápe ome'ẽ haguére mbarete pe tymba vai guasúpe , ha omomba'e guasu avei pe tymba vai guasúpe , he'ívo : “ Mávapa oiméne ko tymba vai guasuichagua , 
+66013004b	mávapa		ha mávapa ipu'akáne hese ? ”
+66015004a	máva piko		Máva piko ndokyhyjéi chénende hegui , ore Jára ? 
+66015004b	Avápa		Avápa na nde rerohorýi chéne ? Nde ñoite ne marangatu ; opa tetã oúta nde rerohorývo , rembojekuaa rupi ne rembipota . ”
+66017007	Mba'ére piko		Upévo upe Tupã remimbou he'i chéve : “ Mba'ére piko ne pirĩmba ? “ Amombe'úta ndéve pe ñemihamegua he'iséva ha pe kuña ha pe tymba vai guasu ogueraháva chupe hi'ári , umi 7 iñakã ha umi 10 hatĩ .
+66018018	mba'e		ha ohechávo tatatĩ opu'ãva pe táva guasúgui , osapukái joa : Mba'e táva guasúpa oiméne ikatu ñambojoja kóvare ?

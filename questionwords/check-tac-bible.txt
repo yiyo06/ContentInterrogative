@@ -1,0 +1,743 @@
+40002002	Koche		'Lige alué ralámuli « mago » alé we'ká riógichi Rusaleni sébaga rukele alué wa'lula Erore : ― ¿ Koche ajtí alué wa'lula ralámuli jurío nuleme alué napu kulí ochérale ? Alé 'nákatu napu rayénali ma'chíname ju jena Rusaleni asiruga aleka enágame etératuru bilé so'pilí , 'lige alué so'pilika pe ruyame ju 'ma ochériligo alué napu Wa'lula nímili ju . Alekeri jsirúpá ramué 'we a'lá nirániliga .
+40002004	koche		'Lige alué wa'lula Erore suwábaga balé e'wélala bayele , 'lige aminami alué e'wélala Moisesi nila nulalí benírame abiena bayéleru . 'Lige rukele koche ochérimili níliga alué Kristo , alué napu Onorúgame julámili nílige .
+40003007	Chieri		'Lige jaré rió jurío sébale okaná chojkégame . Ye okaná chojkégame bariseo nile jaré , 'lige saruseo nile jaré . 'We benírame nile napurigá 'we a'lá gatewa bilé nóchali , a'boi 'lina tabiléchigo sébali olame nílekó . Alueka pe jsile najkigá napurigá rewarawa ba'wichí bokobuga Juánite . 'Lige Juani anele e'wele ra'íchaga : ― ¡ 'Émika pe napurigá sinowí 'kúchila alarigá júkuru , asíriga 'yégame júkuru 'emi ! ¿ Chieri aníbeché júmasiwa napurigá tabilé gastigáriwa ?
+40005013	~		› Jénaka bilé tétali ruyame ju . 'Émika pe napurigá oná ju . Napurigá 'we a'lá ajkágame newame ju go'ame , 'lige aminami napurigá tabilé bikamela sa'pá oná ajchésiga , 'émika gu'írame ju ralámuli napurigá tabilé aminabi resí nokísimala . Oná 'ma najsawísaká tabilé ra'ígame gainasa pecha sirbe nímalawé . Pecha uchéchigo ku 'la gainámalagó . 'Liko pe pálime nímala alué oná , 'lige ralámulika amoba e'yénamala re'keka . 'We a'lá na'tawa choniame ka ye tétali .
+40005046	~		Mué pe alué 'we a'lá nirame ralámuli 'we a'lá nirásaká , 'liko mueka tabilé 'la narémala Onorúgame nila tábiri alarigá 'síkariká . Alué napu goblálome ju enomí alarigá nokame júchigó .
+40005047	tachiri		'Emi pe a'boi amígola 'la repórisa , tachiri najtékame nímalawé . Alué ralámuli tabilé Onorúgame oyérame , alueka abiena alarigá nokame ju . 'Émika 'we a'lá semáriga nokimeli júkuru , tase napurigá alué ralámuli .
+40006027	Chieri		¿ Chieri 'la ochéramalawé uché pe'tá o'wétiri rekó 'we ochérinilie ? Rekó uché rajpé ochérinilie 'emi , tase uché rajpé abé re'pá jágame gainámala 'emi . Onorúgame 'sime ju newá re'pá jágame 'lige re'lé jágame .
+40006028	Tachiri		› ¿ Tachiri sirbe nímalawé pe o'páchacho na'talia ? 'We a'lá na'táwabala churigá o'chérame ka sewá jami nerúgame . Aka alué sewaka peka nóchame júkuru , nibilé o'páchati newame júkuru .
+40006031a	tachiri		'Liko tabilé we'ká 'nata mochiwa : « ¿ Tachiri go'póbeché jipe ? 
+40006031b	tachiri		¿ Tachiri bajíwaché jipe ? 
+40006031c	tachiri		¿ Tachiri o'pachátawaché jipe ? »
+40007003	chonigá		'Lige ta machisá mué bo'né wa'lú wejkolí ajchágame ko mué bo'né busílachi , 'liko ¿ chonigá regá aneme ju mué uché jaré ralámuli : « Muérigo , aka ne ma'chí pátirigo alué u'tá wejkolí mué busílachi ajtígame » ? 'La ma'chí pápua mué bo'né bajchá alué wa'lú wejkolí mué busílachi ajtígame , a'liko 'la ma'chí pámala mué alué u'tá wejkolí alué rió busílachi ajtígame . ( Yeka aniame ju 'emi chojkila neraga che'wásaká uché jaré pe u'tá tábiriti kachi , tabilé 'nátaga mué bo'né abéchigo chojkila ke , tabilé 'la ju . )
+40007004	~		Mué 'we resítiri nocha asisá , ¿ chonémala mué bilé amigo ? ¿ Regá anémala mué : « Ne 'la nejkúrimala ma'chí paa alué resítiri napu mué nocha ajtí » ?
+40007009	~		› 'Emi 'kúchila baní tasa , 'émika tabilé rejté 'yámili júkuru .
+40007016a	~		'We a'lá nérékuru 'we a'lá 'nátame ko 'we a'lá nóchali nochasa . Tabilé 'la ralámuli nísaká , 'liko tabilé 'la nóchali newámala . Tabilé rakémala i'wilí ( 'uba ) alé golalachi , 
+40007016b	~		'lige aminami tabilé rakémala alué chuná alé bilena bitáyachi .
+40008026	Chonigá		'Lige Esúsika anile : ― ¿ Chonigá aliena majáliché 'emi ? 'Émika tabilé bijchígilia Onorúgame 'la nejkúrimio napurigá 'la tabilé bokuímala ye barko . 'Lige asísale Esusi , 'lige ená anele Esusi alué eká 'lige ba'wítiri . 'Lige 'ma gelale alué eká 'lige ba'wítiri .
+40008027	Tachiri		'Lige alué oyérameka pe i'kilí jábele Esusi e'negá . 'Lige regá anile : ― ¿ Tachiri a'walí nígame júpeché alué rió 'siá ? 'La e'wenti júkuru eká 'lige ba'wí .
+40008029	chonigá		'Lige e'wele ra'íchale : ― Mué Onorúgame Inolá , ¿ chonigá nawá mué jeka ramué mochígichi ? ¿ Ramué gastigárimia nawá mué ? Ta'chó sébachi raweli gastigo narékime .
+40009004	Chonigá		'Lige Esusi 'we a'lá machile alieri 'nata mochigo alué benírame . 'Lige anele Esusi : ― ¿ Chonigá aliena chátiri 'nátili 'nata mochípeché 'emi ?
+40009005	Churigá		¿ Churigá anilía 'nalina abé a'lá nítéko ? ¿ Pa'lá regá anilía : « Mué rió 'ma bujé ne mué alué chátiri 'nátili napurigá 'la moinámala mué rewagachi » , regáchala aniá : « O'weti ilísiga yati einawa » ?
+40009011	Chonigá		'Lige alé sébale jaré bariseo , 'lige anele alué Esusi oyérame olagá : ― Alué 'emi benírame enomí goblálome 'yuga ajtíkuru go'yá , 'lige uché jaré cha nokame ralámulitiri 'yuga . ¿ Chonigá alué 'yuga go'áaché ?
+40009014	chonigá		'Lige pe'tá i'libékorikáchi sébale Juani oyérame ralámuli , alué Juani napu ralámuli rewarame nílige . 'Lige anile alué ralámuli Esusi olagá : ― Ramué 'lige bariseo 'we ayúname niru . Aka mué oyérameka , ¿ chonigá tabilé ayúnabeché ? 'Lige Esúsika regá anele :
+40009015	~		― Napu'lige bilé rió newímichi , alué gompaniérola napu nejkúrimili ju napu'lige newichi , asíriga ra'sáligá mochímala . Alekeri tabilé ayunámala . 'Lige bilé rawé sebámala napu'lige alué newímili rió o'toboa . A'lige kulí ayunámala alué rió newímili gompaniérola , cháchigo seweka mochímime kame . ( Yeka ruwime ju bilé rawé smeo jaré rió Esusi o'tomea . A'lige kulí 'we seweka mochimio Esusi oyérame . )
+40010025	~		
+40011007	tachiri		Napu'lige alué rió Juani gompaniérola simasa , Esusi chojkile ruyea ralámuli alarigáriga níligo Juani . Regá anile : ― Napu'lige 'emi 'mi alé simíbalige alé napu tabilé 'me u'kume ju , alé napu Juani asálige nawésali ruyea ralámuli 'yuga , ¿ tachiri e'nemia simárupeché ? ¿ Pe bilé rió napuyépiri rejcholi oyérame ?
+40011008	Tachiri		¿ Tachiri e'nemia simárukó 'liko ? ¿ Simáruchalá e'nemia bilé rió 'we a'lá semátiri o'páchigime ? 'Emi 'la machilke alué 'we a'lá a'ká o'páchigime ralámulika alué e'wélala galílachi mochime ko .
+40011009	tachiri		¿ 'Liko tachiri e'nemia simárupeché ? ¿ Bilé rió napu ruyame ju napu anele Onorúgame , alué e'nemia simaru ? Ju , alué e'nemia simíbale 'emi . Aminami alueka 'we najtékame nóchali nígame júpá , me'tigá alué uché jaré ralámuli napu ruyame nílige napu anélige Onorúgame .
+40011016	chieti		› ¿ 'La chieti alué ralámuli jipe mochígame ? Pe alué okaná chojkégame kuchí 'kuchi kárékuru napu mochime ju alé we'ká riógachi nasípami re'ea , napu re'énilime ju uché jaré 'yuga , napu regá aneme ju alué uché bilena chojkégame kuchítiri napu re'eme ju :
+40012011	'lacha		'Lige Esúsika nejele : ― Bilé rawé bilé bo'á wijchisá 'emi bujkula bilena rejkolíchimi bilé rawé resíbilichi , ¿ 'Lacha ta ma'chí pámala 'we 'emi na'temaka ?
+40012026	'lacha		'Lige alué Satanasi ma'chí pasa alué u'tabela remónisi , ¿ 'lacha a'wálimalawé alué Satanasi alarigá 'sísaká ? Tabilé gainámala bo'né nila nóchali newá .
+40012027	chieri		'Lige ne ma'chí pame nísaká alué u'kuchípala remónisi Belsebú a'walílate , ¿ chieri 'yame júkó a'walí alué 'emi gompaniérola napu'lige buyáname ju alué u'kuchípala remónisi ? Remónisi nejime júlé . 'Émika tabilé remónisi 'sime kóríguru . 'Liko tabilé machigá aní 'emi ne'chí chojkila neraga che'wáa .
+40012029	chieri		› Bilé rió tabilé gainámala chigoa bilé rió a'wágame galílachi , alué rió a'wágame tabilé buluruga asisáká . Napu'lige alué rió buluruga ajtígichi , a'liko 'la gainámala tábiri chigoa .
+40012034	'lacha		¡ 'Émika pe napurigá sinowí 'kúchila júkuru ! 'Émika asíriga cha nokame ralámuli júkuru , 'lige ¿ 'lacha a'ká ra'íchali ra'ichámiliwé 'emi , pe cha nokame ralámuli ke ?
+40012048a	chieri		'Lige Esusi anele alué napu simile ruimea : ― ¿ Chieri júkó ne eyela , 
+40012048b	chieri		chieri júkó ne bonila 'lige ne waíla ?
+40013010	Chonigá		'Liko alué Esusi 'yuga járome a'bé mochíbale napu asale alué Esusi , 'lige regá anele alué Esusi : ― ¿ Chonigá alarigá anéché mué alué ralámuli alué tételite peka 'la námame kachi alarigá ra'íchachi mué ?
+40013027	Kócheka		'Liko nóchame alé ri'ligó echégichi , simíbale ruyemia alué ri'ligó echágame . Regá anele : « Mué , ¿ 'la a'ká ke alué talí napu mué echálige ? ¿ Kócheka ma'chínalepeché alué chátiri gajsalá ? »
+40013054a	koche		Napu'lige sebasa alé we'ká riógichi napu bejtégame nílige alué bo'né Esusi re'malí ka ( Nasareta anilichi ) , chojkile ralámuli ra'íchali beniria alé u'tá re'obachi « sinagoga » anilime . 'Lige ralámulika 'we e'negá jale . Pe laa jale alué ralámuli : ― ¿ Koche benílepeché suwábaga ye ra'íchali ? 
+40013054b	koche		¿ Koche narélepeché a'walí napurigá newámala ye 'we semátiri tábiri napu tabilé gayéname ju newá ralámuli ? ― regá rukele a'bopi ra'íchaga ― .
+40013056	Koche		¿ Tacha jena ejperégame ju alué rió waíla jena we'ká riógachi ? ¿ Koche benílepeché ye rió suwábaga alué tábiri ?
+40014031	~		'Lige Esúsika yati cha'pile sekate , 'lige anele : ― ¡ Mueka 'we pee bijchígame ju !
+40015002	Chonigá		― Mué 'yuga járome ka tabilé 'la sébali olá alué nulalí panígilime napu nulale alué 'ya mochígame . ¿ Chonigá alarigá nokame ju ? Alueka tabilé panígime ju napu'lige go'ame go'mea napurigá nokiame niru ramué .
+40015003	chonigá		'Lige Esúsika rukele : ― 'Émika ¿ chonigá tabilé 'la sébali oliágó napu nulale Onorúgame 'we 'ya ? Pe a'lá sébali olame júkuru 'emi nulalila .
+40015033	Churigá		'Lige alué Esusi 'yuga járomeka anele : ― ¿ Churigá kóchimiyéna rewibówé go'ame napurigá ye ralámuli go'mela ? Jénaka pe jami júkuru tabilé riógichi .
+40015034	Chekí		'Lige Esusi rukele alué bo'né 'yuga járome : ― ¿ Chekí baní o'kame nírukó 'emi ? 'Lige nejele alué oyérame : ― Ramueka pe gichao baní o'kame niru , 'lige pe u'kabi ro'chí 'yúriga ― anile .
+40016008	Chonigá		'Lige Esusi 'la machile alaniá mochígichi , 'lige rukele : ― 'Émika 'we pee bijchígime júkuru Onorúgame 'we a'lá nejkúrimio . ¿ Chonigá ra'icha 'emi a'boi tabilé a'pigárika baní ?
+40016009	chekí		¿ Ta'chó nama 'emi , 'lige tabilé nélá 'emi pe maligi banite bosárigo ne maligi mili rió ? ¿ Tabilé nélá 'emi chekí atabé rasírigo baní ?
+40016010a	~		¿ Abiena tabilé nélá 'emi pe gichao banite bosárigo ne naó mili ralámuli ? 
+40016010b	chekí		¿ 'Lige chekí atabé go'ame rasírigo ?
+40016011	'Lacha		¿ 'Lacha tabilé námatu pe tabilé baní olagá anió ne ? Uchéchigo siné ruimé ne , 'la 'we 'la 'nátaga alué bariseo nila kawali , 'lige saruseo nílatiri .
+40016013	chieri		Napu'lige Esusi sebasa alé a'bé Sesarea Bilipo rewégichi we'ká riógachi , 'lige Esusi rukele alué makué oká rió bo'né 'yuga járome : ― ¿ Chonígó ralámuli , chieri korí ne napu nawale 'pa rewagáchika rió neraga ?
+40016015a	~		― 'Lige 'émika , 
+40016015b	chieri		¿ chieri koriágó ne'chí ? ― anile Esusi .
+40016026a	Chekí		Tabilé a'lá ju rekó bilé rió we'ká meme ke enomí , alué rió alawálaka wamí 'légana injiérnochi simeli júkuru . ¿ Chekí najtétimala alué rió napurigá bo'né alawala tabilé simela injiérnochi ?
+40016026b	~		
+40017010	Chonigá		'Lige alué oyérameka rukele : ― ¿ Chonigá alué Moisesi nila nulalí benírimeka aniáníché Elíasi bajchá nawámili ko 'lige alué uché bilélaka napu Onorúgame julámili ju 'pa rewigáchika napurigá ralámuli gu'írimala , alueka nujubá nawámili ko ?
+40017017a	Chekí rawé		'Lige Esúsika anile : ― ¡ Tachiti ralámuli ! ¿ Tabilé bijchígime ju 'emi Onorúgame a'walí nígame ko napurigá 'la umbámala sa'wá ? ¿ Chekí rawé asiati káréko ne 'emi 'yuga napurigá 'emi 'we a'lá benimela ? 
+40017017b	Chiéniko		¿ Chiéniko si anachamio ne 'emi 'yuga ? Jeka o'tobógó 'liko alué re'malí .
+40017019	Chonigá		'Lige pe'tá i'libékorikáchi alué Esusi 'yuga járome Esusi si ra'íchale aminami , a'mibemi waná rukele : ― ¿ Chonigá tabilé umabárupeché ramué alué u'tabela remónisi ma'chí pa ?
+40017025a	chonígobá		'Lige Pégroka nejele : ― Abiena . Napu'lige galírale sebasa , Esusi bajchá ra'íchale Pegro 'yuga , regá anele : ― Mué Simoni , ¿ mueka chonígobá ? 
+40017025b	chieri		¿ Chieri najtétamarágo enomí alué e'wélala nulame , napu jena wijchimoba mochí , a'boi 'kúchila gobláliga aní o uchéchigo jaré ralámuli ?
+40018001	Chieri		A'lígerikáchi alué Esusi 'yuga járome alemi a'bemi jábale napu asale Esusi 'lige regá anele : ― ¿ Chieri abé najtékame ju napu'lige Onorúgame nulachi ralámuli alawálachi ?
+40018012	choniágó		› ¿ 'Émika choniágó ? Bilé rió bujkégame nisa bilé siento bo'á 'lige bilé bo'á we'kasa , ¿ tacha yati simime júkó 'yamia alué bo'á we'kágame , alé jami a'resa alué gi makuesa makué na gi makué ?
+40018021	chekisá		'Liko Pegro rukele Esusi : ― Mué Wa'lula , bilé rió Onorúgame oyérame abisibi cha olasa ne'chí , ¿ chekisá e'kawa ? ¿ Gicháosa ?
+40019007	chonigá		'Lige alué bariséoka anele : ― ¿ 'Liko chonigá 'la anile ko alué Moisesi 'la ko napurigá bilé apeli newawa alé ra'íchali gatélichi ruwime 'ma a'réligo bo'né upila ?
+40019016	tachiri		'Lige Esusi boichimi enágichi , alemi nápale bilé re'malí 'lige regá rukele : ― Mué benírame , ¿ tachiri chu'simía 'we a'lá ju napurigá moinawa 'pa rewagachi alé asimea senibí ?
+40019017	chonigá		'Lige Esúsika anele alué re'malí : ― Mueka , ¿ chonigá rukéché mué tachiri 'la ko ? Onorúgamecho ju 'we a'lá sébali olame . 'La moinánilisaká 'pa rewagachi mué , 'liko 'la sébali olawa napu nulale Moisesi 'we 'ya .
+40019018	Tachiri		'Lige alué re'malika rukele : ― ¿ Tachiri nulálekó alué Moisesi ? 'Lige Esúsika anele : ― Tase me'liboa ralámuli . Tase e'sena umugí 'yuga gojchiboa , pe mué bo'né upílacho 'yuga gojchiboa . Tase chigowa . Tase 'wesi ralámuli 'yuga 'yega ra'ichawa .
+40019020	Tachiri		'Lige alué re'malika nejele : ― Suwábaga alué 'la sébali olame ju ne 'yasi u'tá towí ka . ¿ Tachiri chu'sílime rokáréko ?
+40019025	Chieri		Alué Esusi 'yuga járome tabilé námale alieti akea , 'lige rukele : ― ¿ Chieri 'la rewagachi moinámala napu'lige mukusá ?
+40019027	tachiri		'Liko alué Pégroka anele alué Esusi : ― Ramueka 'ma a'reru suwábaga tábiri napu nígame nírige ramué mué 'yuga e'yénimia . Alekeri tachiri nóchali 'yámala Onorúgame ramué 'pa rewagachi .
+40020006	Chonigá		'Lige 'ma abé alí , 'ma amulí rapagachi , uchéchigo simile alé we'ká rioga ilígichi nasípami , 'lige etele alemi uchéchigo jaré rió pe mochigo alemi tabilé nocha , 'lige rukele : « ¿ Chonigá pe jemi mochíripeché 'émika rukuchégame tabilé nóchaga ? »
+40020012	~		regá anigá : « Ye ralámuli 'ma alí mo'ígame nocha asíriga 'la mékuru 'la napu ekí metu ramué napu 'la rukachégame nocharu 'we rajtáliga raminá . »
+40020021	Tachiri		'Lige Esúsika anele : ― ¿ Tachiri nóchali i'lime najkí mué alué ejtemali ? 'Lige alué mukika anele : ― Napu'lige 'ma chojkichi nulá mué 'pa rewagachi , nuláwaká napurigá ye oká ejtemali ne 'kúchila mochímala alé mué 'yuga , bilé o'iná 'lige bilé wajtoná .
+40020032	Tachiri		'Lige alué Esúsika ilíbale 'lige bayele alué tabilé ma'chílime , 'lige anele : ― ¿ Tachiri choliame najkígó 'emi ?
+40021010	Chieri		Napu'lige alué Esusi 'ma sebasa alé Rusaleni rewégichi we'ká riógichi , ralámulika majale 'lige anile : ― ¿ Chieri júché ye rió ?
+40021016	~		'lige regá anéliru Esusi : ― Mué Esusi , ¿ 'la aké mué alaniá jago alué ralámuli ? 'Lige Esúsika anele : ― Ju , 'la aké ne . ¿ Tabilecha siné leera 'emi Onorúgame nila ra'íchalichi napu aní : Alué u'kuchítiri 'kuchi bijí chi'ime chu'álachika ma'chínamala Onorúgame wikala ?
+40021020	Churigá		Alieti etega alué Esusi 'yuga járome tabilé námaka regá anile : ― ¿ Churigá 'la wakíbalaché pe yati pe alanésiga alué chuná ?
+40021023a	tachiri		Napu'lige alé ra'pichí wa'lú re'obachi bajkisá alué Esusi , 'lige alemi ilígichi alué Esusi ralámuli beniria , yati alemi jsile alué e'wélala balé 'lige alué jurío ralámuli nuleme , 'lige anele : ― ¿ Tachiri gite buyánaché mueka alué ralámuli alé wa'lú re'obachi ra'pichí mochígame ralinea ? 
+40021023b	Chiérite		¿ Chiérite ajchárigame júkó mué Wa'lula neraga ? ¿ Tachiri najtékame nóchali nígame júkó mué 'siá ?
+40021025a	Chieri		¿ Chieri júlale Juani ralámuli rewarániliga , Onorúgame chalá o ralámuli chalá ? 'Lige alué e'wélala balé 'lige alué jurío ralámuli nuleme a'bopi rukele , regá anile : 
+40021025b	~		― Onorúgame júlale anisúká 'liko animela alué Esusi : 
+40021025c	chonigá		« ¿ 'Lige chonigá ta bijchígirupaché 'emi napu anié Juani ? » anile .
+40021028	choniágó		› 'Émika ¿ choniágó ? Bilé rió oká 'kúchigame nile , 'lige alemi a'bemi simigá napu ajtile alué bilé , regá anele : « Simigá mué jipe nochawa alé we'ká i'wilí echégichi . »
+40021031	Chieri		¿ Chieri 'nalina 'la e'wálekobá napu o'nola nulele ? 'Liko alué e'wélala balé 'lige jurío ralámuli nuleme regá anile : ― Alué bajchá nulérimeguru . 'Lige Esúsika anile : ― Neka 'la bijchiá aníbá , alué enomí goblálome 'lige alué we'ká rió 'yuga okome umugí , alueka bajchá 'la lisensia 'yámala napurigá Onorúgamete nulewa alawálachi , tase napurigá 'emi ,
+40021040	cholámalawé		› Napu'lige nawasa alué gawígame , ¿ cholámalawé alué banawá repume ?
+40022012	churigá		'Lige regá anele alué rió : « Mué rió , ¿ churigá 'la bajkíché mué jena peka o'páchaga nawasa napu o'páchaga nawilime ju bilé newigime nerúgichi ? » 'Lige alué rioka tabilé pe'tá nejele rukilía .
+40022017	~		Alekeri najkiá napurigá ruwimela mué : ¿ Pala 'la ju nejilia alué enomí napu nejílime ju alué wa'lula rey Sesar i'lime ? ¿ Tabiléchala ?
+40022018	Chonigá		Alué Esúsika 'we a'lá machile pe resítiri 'nátaga aníligo alué ralámuli , machile pe Esusi resí olániliga aníligo , 'lige anile Esusi : ― ¿ Chonigá alaníbiché 'émika pe resí olániliga ne'chí ? 'Émika 'we a'lá ra'íchame ju pe iligá chátiri 'nátame júkó .
+40022020a	chieri		'Lige Esúsika anele alué bariseo 'lige alué Erore gompaniérola : ― ¿ Chieri mo'ola ju ye mo'ó jena enomichi ajtígame , 
+40022020b	chieri		'lige chieri rewalá chujkú ye enomichi ?
+40022028	chieri		'Lige alarigá anesa , kúchigo regá rukéliru Esusi : ― Napu'lige alé rewagachi sebasa alué gichao ejtemali 'lige alué mukí aleka , ¿ chieri 'nalina upila nímalawé alué mukí ? Jena wijchimóbaka suwábaga gichao ejtemali upila níligame .
+40022036	tachiri		― Mué Esusi , benírame ralámuli Onorúgame nila ra'íchali , ¿ tachiri júkó alué nulalí rejcholi 'we najtékame ?
+40022042a	choniágó		― 'Émika ¿ choniágó , chieri koriágó alué Kristo ? 
+40022042b	Chieri		¿ Chieri rijimala korí 'emi alué ? 'Lige alué bariséoka anile : ― Pe Rabí .
+40022043	chonigá		'Lige Esúsika anile : ― ¿ 'Lige chonigá wa'lula aneme júché alué Rabí alué Kristo olagá ? Onorúgame Alawala gu'írale napurigá animela regá :
+40022045	~		Aka alué bo'né Rabí aneme ju « ne'chí nuleme » alué Kristo , 'liko abéchigo najtékame júleké alué Kristo me'tigá alué Rabí .
+40023017	Tachiri		¡ 'Émika pe tonto julke 'lige aminami siego ! ¿ Tachiri abé najtékame júkó , 'oro o re'obáchala alé napu 'oro nerú ? Tabilé nerúlasaká 'oro alé re'obachi Onorúgame galílachi , 'liko pe tabilé 'me najtékame nímiliké .
+40023019	Tachiri		¡ 'Emi 'we siego ju ! ¿ Tachiri abé najtékame ju , go'ame Onorúgame kógilime o mésachala ? Tabilé mésachi jásaká go'ame , 'liko pe napuyépiri go'ame neraga jámilike .
+40023033	Churigá		› ¡ 'Émika ju napurigá sinowí ! ¿ Churigá 'la neyúsimala 'emi napurigá tabilé rujsúmala 'légana injiérnochi ?
+40024003a	Chieti		'Liko alé rabó simíbale Olibo anilichi . Napu'lige Esusi i'kilí ajtígachi alé alué makué okáraga Esusi 'yuga járome nawile Esusi rukemia . 'Lige tabilé najkile napurigá uché jaré ralámuli akimela ra'íchachi . Regá anele : ― Ramueka machinálilike'é , ramué ruyéwaká chiéniko na'mináwili ko alué wa'lú re'obá . ¿ Chieti tábiri nerúlamala ruyame mué ku sebamio ? 
+40024003b	chieti		¿ Chieti tábiri nerúlamala napu'lige gawí suibámichi ?
+40024045	churigá		› Ruwimé ne churigá nóchame ko bilé nóchame 'we a'lá sébali nóchame . Napu'lige bilé batroni a'resa bilé nóchame napurigá 'yámala go'ame uché jaré nóchame , 'liko alué 'we a'lá sébali olámili ju . 'La 'yámili ju go'ame .
+40025037	chiéniko		'Lige alué a'ká ralámulika animela : « Mué wa'lula , ¿ chiéniko etérukó ramué 'we e'lowika eyénachi mué napurigá go'ame 'yawa mué ? Ramueka tajsiné 'yalíwé go'ame mué . ¿ Chiéniko etérukó ramué 'we balámaka eyénachi mué napurigá ba'wí 'yawa mué ? Ramueka tajsiné 'yalíwé ba'wí mué .
+40025038	Chiéniko		¿ Chiéniko etérukó ramué mejkaka nawachi mué napurigá galírale bayériwa mué ? Ramueka tasiné etéliwé mejkaka nawachi mué 'lige ta siné bailíwé galírale . ¿ Chiéniko etérukó ramué tabilé o'páchiga ajtígame mué napurigá o'pacha kógiwa ? Ramueka tasiné 'yalíwé o'pacha mué .
+40025039	Chiéniko		¿ Chiéniko etérukó ramué 'we nayua ajtigó mué o galírale bajcháriga ajtígichi mué napurigá simawa alemi e'newa alemi mué ajtígichi ? »
+40025044	chiéniko		'Liko alué 'we i'nílime ralámuli rukémala alué wa'lula : « Mué Wa'lula , ¿ chiéniko tabilé 'yárukó go'ame mué e'lowika eyénachi 'lige balámaka eyénachi ? ¿ Chiéniko tabilé 'yárukó o'pacha tabilé o'páchaga eyénachi mué ? ¿ 'Lige chiéniko tabilé e'nénilekó mué napu'lige galírale bajcháriga ajtígichi mué ? »
+40026008	Chonigá		Napu'lige alué Esusi 'yuga járome etesa alieti , asíriga ayole 'lige anile : ― ¿ Chonigá najsabúché alué mukika alué ba'wí semá júkame ?
+40026010	Chonigá		'Lige Esusi machigá alanichi alué ralámuli , anele : ― ¿ Chonigá alanilíbaché ye mukí ? Neka 'we a'lá niraga etiá ye mukí alué ba'wí semá júkame ro'echi .
+40026015	Chekí		'lige rukele : ― ¿ Chekí enomí najtétamala 'emi , ne nejkúrisa Esusi cha'piá ? 'Liko alué e'wélala baleka baisá makué ijchirúlime enomí plata najtétamoríle nejkúrisaká Esusi cha'piachi .
+40026017	Koche		Napu'lige sebasa raweli Páskua piéstachi baní go'yachi tase kawali ro'igá newárigime , a'lige rawé alué Esusi 'yuga járome rukele alué Esusi , regá : ― ¿ Koche 'la nítéko go'ame newalía napurigá go'mela mué o'rako rukó ?
+40026040	~		'Lige nawale ku alé napu ejtebílige alué bakiá rió bo'né 'yuga járome , 'lige 'ma okoka bi'tígame rewale , 'lige anele Pegro : ― ¿ Tabilé anacharu e'negá mochiga bilé 'ora ?
+40026050	~		'Lige Esúsika anele : ― Mué gompaniero , 'la sébali olawa napu 'sima olá mué . 'Liko alué we'ká rió napu 'yuga enale Jurasi a'bemi jábale , 'lige yati cha'pile alué Esusi .
+40026054	gu'churigá		'Lige Onorúgame ne'chí gu'írasaká jipe , ¿ churigá 'la sébali ikimélewé napu anime chujkú osilichi ?
+40026062a	~		'Lige o'weti ilísaga alué wa'lula balé rukele Esusi : ― ¿ Tabilé aké mué napu aní mué e'chéwaga ? ¿ Tabilé pe'tá nejé mué ? 
+40026062b	Chongá		¿ Chongá lanilí mué alué ralámulite ?
+40026065	~		'Liko alué wa'lula balé banasuka chi'wánale bo'né o'páchala , regá anigá : ― ¡ Ye rió tabilé niráchine Onorúgame ! Ya 'ma 'we a'lá sébali akirúke'é , tase rokáré uché bilé rió testigo . 'Émi 'we a'lá akékuru tabilé 'la niráchinio Onorúgame ye rió Esusi .
+40026066	choniágó		'Émika ¿ choniágó ? 'Lige alué we'ká ralámulika anile : ― Me'liáté alué rió alanime .
+40026068	chieri		regá anegá : ― Mué Kristo , ruwíbá , ¿ chieri ka napu mué wejpá ?
+40027004	~		'Lige Jurasi anele : ― Ne bo'né 'we resí 'síleke'é . Nejíleke'é ne bilé rió peka chojkila kachi napurigá me'liboa . 'Lige alué e'wélalaka anile : ― Ramueka pecha che aniágó alieti , mué bo'né machíliké .
+40027013	~		Alekeri alué Pilato anile : ― ¿ Tabilé aké mué suwábaga napu aní mué olagá sairúgame neraga ?
+40027017	chieri		'Liko napu'lige 'ma suwábaga ralámuli napuíka mochígichi , alué wa'lula Pilato rukele suwábaga ralámuli chieri 'la ka ma'chí pasía . Regá anile : ― ¿ Chieri 'la nerago 'émika napurigá ma'chí pápua , Barabasi o Esusi , alué napu Kristo anilime ju ?
+40027021	Chieri		'Lige alué selígame uchéchigo siné rukele alué we'ká ralámuli : ― ¿ Chieri 'la niti káréko napurigá su'panawa ? 'Lige ralámulika anele : ― ¡ Barabasi !
+40027022	cholámala		'Lige Pilátoka anile : ― 'Lige Esúsika , alué napu Kristo anelime ju , ¿ cholámala ne ? 'Lige suwábaga nejele : ― ¡ Alueka gulusichi ujchigá me'libógurú !
+40027023a	Chonigá		'Lige Pilátoka rukele : ― ¿ Chonigá ? 
+40027023b	tachiri		¿ Tachiri najsabúgime kékó ? Ralámulika pe abisibi bochí aniá jale tabilé akeme neraga : ― ¡ Me'liboa gulusichi ujchigá ! ― anile .
+40027046	chonigá		'lige 'ma abé alírikáchi ta'chó ma'chígichi , Esusi e'wele ne'ole bo'né ra'ichálila ra'íchaga . Regá anile : ― Elí , Elí , ¿ lama sabáktani ? Yeka pe aniame nile , « O'nó Onorúgame , O'nó Onorúgame , ¿ chonigá bi'neli a'répaché mué ne'chí ? »
+41001024	~		― Mué Esusi Nasareta anilichi ajtígame Rabí rijimala , mueka pe nejkumemia nawale . ¿ Mueka nawapa ramué me'limea ? Ne 'la machí Onorúgamete wanápurigame ko mué ― anile alué rió chátiri alawá ajchágame .
+41001027	Chieri		Suwábaga ralámuli napu ekí e'negá jale pe i'kilí jábale . 'Lige regá rukegá jale a'bopi : ― ¿ Chieri júché ye rió ? Tabilé siné akirume kéturu sineko ye tétili . 'La semáriga ra'íchanti júkuru 'la benegá . Alueka 'la wa'lula neraga nulame ju ne'óchiga alué chátiri alawá , 'lige 'la e'weme ju alué chátiri alawá .
+41002007a	~		« Alué Esúsika pe Onorúgame gawéliga aní alaniá . Pe Onorúgameka 'la e'kámaleké resítiri 'nátili . » 
+41002007b	~		Alarigá 'nátale alué Moisesi nila nulalí beníriame .
+41002008	~		Esusi 'la machile alarigá 'nata mochígichi alué ralámuli . Alekeri regá anele : ― Tabilé 'la 'nata mochí 'emi , 'émika 'nata Onorúgame gawéliga anió ne .
+41002009	Chieri		¿ Chieri abé nóchali kame ju , e'kalia o 'yolia ? ¿ Regá anilía : « 'Ma e'káragime ju mué » , o regáchala : « O'weti asá , ro'miná mué gemala 'lige simigá ku galírale » ?
+41002016	~		Jaré Moisesi nulalila beníriame 'lige jaré bariseo abiena mochile alé , 'lige anele alué Esusi 'yuga járome : ― Alué Esusi tabilé go'meli júkuru alué enomí goblálome 'yuga , 'lige nibilé alué uché jaré ralámuli cha nokame 'yúgachigó ― anele .
+41002018	Chonigá		Bilé rawé Juani 'yuga járome 'lige jaré alué bariseo ayuna mochígichi , 'lige jaré ralámuli jsile alé napu ajtile Esusi , 'lige anele : ― ¿ Chonigá ta ayuna mué 'yuga járome ka ? Juani 'yuga járome 'lige bariséochigó suwábaga alueka 'la ayuna ― anele .
+41002019	~		Esúsika regá nejele : ― Napu'lige bilé rió newichi , ralámulika tabilé ayúname ju alué rió 'yuga mochiga . 'Ma tabilé ajtígachi alué rió , a'lige kulí ayunámala . 'Lige alarigá nokiame niru ramué . Ne 'yuga járome ka tabilé ayúnachigó jipe ,
+41002024	~		Alué bariséoka anele alué Esusi : ― E'né chonoká noká mué 'yuga járome . 'Ya mochígame nulale napurigá tabilé alarigá nokiboa resíbilichi rawé .
+41003004	Choní		A'lige Esúsika rukele bariseo : ― ¿ Choní 'emi nila nulalí ? ¿ Chu'simía 'la ju resíbilichi rawé ? ¿ Tachiri abé a'lá ju , ralámuli nayúkame sa'walía o tabilé sa'walía chalá ? ¿ Cha 'sika enalia o tabilé cha 'sika enalia ? ¿ Gu'írilia o me'liá ? Bariséoka pe i'kilí jábale tabilé pe'tá ra'íchiga .
+41003023	~		A'lige Esúsika bayele alué Moisesi nila nulalí beníriame , 'lige ruyele bilé ra'íchili oká tétili ruwime . Anile : ― Alué wa'lula remónisi tabilé buyáname ju alué chátiri alawá napu pe bo'né 'yuga járome ju .
+41003033a	chieri		'Lige Esúsika nejele : ― Jipe 'la animé ne chieri ka ne eyela , 
+41003033b	~		'lige ne waíla , 'lige ne bonila .
+41004013	churigá		Esusi abiena 'la ruyele alué ralámuli : ― ¿ Tabilé 'la nama 'emi ye ra'íchili ? A'liko ¿ churigá 'la inámamaché 'emi uché bilé ra'íchili rejcholi oká 'nátili ruwime ? 'Lige ruyele choniame ka alaniá :
+41004030a	Churigá		'Lige anélechigó : ― ¿ Churigá ju Onorúgame nulechi ralámuli alawálachi ? 
+41004030b	Churigá		¿ Churigá ra'ichawa napurigá 'la a'chigóyéri nímala napurigá Onorúgame nulechi ralámuli alawálachi , 'lige napurigá 'la inámomala 'emi ?
+41004038	~		Esúsika gojchigá bo'ile . Alué 'yuga járomeka ajchale alué Esusi . 'Lige e'wele ra'íchiga anele : ― ¡ Mué Wa'lula ! ¿ Tabilé chélá mué rekó ye barko ba'wichí bokuíchi ?
+41004040a	Chonigá		A'lige Esúsika anele alué makué oká bo'né 'yuga járome : ― ¿ Chonigá aliena majáché 'emi ? 
+41004040b	~		¿ 'Emi tabilé 'cho 'la bijchigi Onorúgame 'la sébali nejkúrame ko ? ― anele .
+41004041	Chieri		Esusi 'yuga járomeka 'we majale . 'Lige pe a'bopi ra'íchale : ― ¿ Chieri júché ye rió ? ¡ Ba'wí 'lige eká 'la akérinti júkuru !
+41005007	tachiri		'Lige alué Remónisi alawala ra'ichárile alué rió . E'wele ra'íchaga anele alué Esusi olagá : ― Mué Esusi , Onorúgame Inolá , ¿ tachiri najkí mué ne'chí 'yuga ? Tase nijkumewa ne'chí 'yuga .
+41005009	cho		A'lige rukele Esusi alué rió : ― ¿ Cho anilime ju mué ? 'Lige alué rioka anile : ― Neka Lejioni anilime ju , ramueka we'ká nírigime ― anile .
+41005030	Chieri		Aba'lige yati sayele Esusi , bo'né Esusi a'walílate bilé ralámuli sa'wáliga . Abajá ilíbale , 'lige gu'liga rukele ralámuli : ― ¿ Chieri nochá ne'chí o'páchala ?
+41005031	Chonigá		'Lige Esusi 'yuga járomeka anele : ― ¿ Chonigá rukéché mué chieri nocháligo mué o'páchala ? Aliena we'ká rajchiga e'yénachi kachi ralámuli jena ― anele .
+41005035	~		Napu'lige Esusi bijí ra'icha ilígichi alué mukí 'yuga , jaré rió jsile Jairo galílachika simíbaga , 'lige anéleru Jairo alué ralámulite : ― 'Ma mukúpá mué malala , 'ma tabilé nejkumewa ― anele alé sigá .
+41005039a	Chonigá		'Lige Esusi bajkile alé pachami . 'Lige anele ralámuli : ― ¿ Chonigá aliena nalá mochípeché 'emi ? Alué ta tewé pecha mukugá bo'íkó , pe gojchigá bo'í .
+41005039b	~		
+41006002a	koche		Resíbilichi rawé sebasa , simile u'tá re'obachi « sinagoga » anilime , Onorúgame ra'ichálila benírimia . We'ká ralámuli kilí mochile gepuga Esusi ra'íchachi . 'Lige ra'íchale rukigá a'bopi : ― ¿ Koche ma'chí páleché ye 'nátili ? 
+41006002b	koche		¿ Koche beníleché alueka alakí ra'íchili ? 
+41006002c	~		'We a'lá sa'wame ju nayúkome 'lige 'la ajalí 'yame ju suwígame .
+41006022	~		Alemi bajkile bilé mukí iwé alué mukí Eroríasi ranala , napu rió mochile alemi yawile alué mukí iwé . 'We ganílile alué we'ká rió alué iwé yawichi . Alué Erore anele alué iwé : ― Táwaká suwábaga tábiri napu najkí mué , ne 'la nejímala .
+41006024	~		A'lige eyélaka nejele : ― Juani mo'ola tániwagó .
+41006037	~		'Lige Esúsika anele : ― 'Emi 'yáwaguru go'ame . 'Lige Esusi 'yuga járomeka nejele : ― Asíriga we'ká enomí najkibóleké napurigá 'la umubawa alakí ralámuli go'yame go'ame ralá , napu ekí meme ju bilé rió osá naó mechá nóchaga ― nejele .
+41006038	chekí		'Lige Esúsika anele : ― Rukéwagó ralámuli chekí baní nu'tugégame ka . 'Lige alué makué oká Esusi 'yuga járomeka simíbale rukemia , 'lige ku sébaga anele : ― Pe maligi baní o'kame ju ralámuli 'lige oká ro'chí 'yúriga .
+41007005	Chonigá		A'lige bariseo 'lige alué Moisesi nila nulalí beníriame si rukele Esusi : ― ¿ Chonigá mué 'yuga járome ka tabilé panígisa go'áché , napurigá nokale alué 'ya mochígame ralámuli ? ― anele .
+41008004	~		― Jena tabilé 'wesi bejté . Tabilé asé reiboa go'ame ― anele alué Esusi 'yuga járome .
+41008005	Chekí		'Lige rukele Esusi : ― ¿ Chekí baní o'kame niru 'emi ? ― Gichao ― anile alué 'yuga járome .
+41008012	Chonigá		'Liko Esusi sewékame iwile . Tabilé galele 'lige regá anele : ― ¿ Chonigá machinali 'emi pala 'la Onorúgame júlaligo ne'chí ? 'Emi etériga tabilé che'simia ne napu 'emi tani ne'chí ― anele .
+41008017	Chonigá		Esusi 'la machile tabilé inámiligó . 'Lige anele : ― ¿ Chonigá alaniáché 'emi : « Tabilé a'paru baní » ? ¿ Tabilé inámolia 'emi ? Rekó 'la buségame ke 'emi tabilé ma'chili 'emi . Rekó 'la najkégame ke 'emi , tabilé aké 'emi . ¿ Tabilé nélá 'emi ,
+41008018a	~		
+41008018b	~		
+41008019	~		napu a'lige ne chi'wana maligi baní a'tabé , maligi mili miná rasígame ralámuli kógimia ? ¿ Tabilé nélá 'emi alakí rasírigo baní a'tabé chi'wágame ? ― Makué oká atabé rasiro ― regá nejele alué Esusi 'yuga járomeka .
+41008020	chekí		― Aminami abé 'yabé napu a'lige chi'wana ne gichao baní a'tabé , naó mili rasígame ralámuli kógimia , ¿ chekí rasírikó a'lige a'tabé chi'wágame baní ? ― rukele Esusi . 'Lige alué Esusi 'yuga járomeka anile : ― Gichao morali rasiro a'liko .
+41008021	Chonigá		A'lige anile : ¿ Chonigá tabilé 'cho námuliché 'lige ? ― anele Esusi .
+41008023	~		'Liko Esusi cha'pile sekala , o'tole a'miná suwemi tabilé riógichi . Alé a'kachípale busila . A'lige nochale busila , 'lige rukele :
+41008027	Chieri		Esusi , 'lige alué makué oká rió bo'né 'yuga járome , simíbale Sesarea Belipo anilichi ejiro a'tabemi riógichi . Boichimi enagá rukele Esusi bo'né 'yuga járome : ― ¿ Chieri korí ralámuli ne'chí ?
+41008029a	~		― ¿ 'Émika , 
+41008029b	choniágó		choniágó ? ― rukele Esusi . 'Lige alésíko Pegro nejele : ― Mueka ju Wa'lula Kristo .
+41008036	~		Pecha 'la júkó rekó bilé rió we'ká e'karúgame nígame ke , tabilé 'la Onorúgame oyérame nísaká , 'ma chátiri gainámala bo'né alawala .
+41008037	~		Alésíko 'ma tabilé gainámala rewagachi moyena . Abéchigo najtékame ju bi'wígame alawega enalia .
+41009010	Chonigá		'Lige alué bakiá rió tabilé ruwile . We'sá anile a'bopi : « ¿ Chonigá alanílepué ku asísimio ? » anile a'boi .
+41009011	Chonigá		A'kinana , boichimi 'yéniga , alué Esusi 'yuga járome rukele alué Esusi : ― ¿ Chonigá aní alué Moisesi nila nulalí beníriame sebamio bajchabé bilé rió Elíasi rewégame ta'chó nawachi alué Kristo ?
+41009012	chonigá		'Lige Esúsika regá anele : ― Elíasi bajchá sébale 'we a'lá o'wé bowechi jawamia ralámuli jena wijchimoba napurigá 'la sébili mochímala napu'lige sébachi alué Onorúgamete julárigame . 'Lige 'ma sebasa alué Elíasi ralámuli o'wé ajawamia , ¿ chonigá alué osilí alarigá ruwí 'we resí olawa alué Onorúgamete julárigame napurigá rió neraga ?
+41009016	tachiri		A'lige Esusi rukele alué ralámuli : ― 'Émika ¿ tachiri ra'ichalia alué Moisesi nila nulalí beníriame si ? Bochí aniá aníchaneguru .
+41009019a	Chéniko		Esúsika anele ralámuli : ― ¿ Chéniko si 'la machimélaché 'emi ralámuli 
+41009019b	~		'lige 'emi ne 'yuga járome churigá 'yólime ka ? 'Ma we'ká rawé ajtíkuru ne 'emi 'yuga . Jeka o'tó alué towí .
+41009021	Chekí rawé		Esusi rukele o'nola : ― ¿ Chekí rawé ju alué chátiri alawala bajkisá ye towichi ? 'Lige o'nólaka nejele : ― 'Ma wa'lubé kachi bajkile .
+41009028	Chonigá		Napu'lige bilena galírale mochiga , Esusi 'yuga járomeka rukele alué Esusi : ― ¿ Chonigá tabilé gainárupeché ramueka ma'chí 'pa alué chátiri alawá ?
+41009033	Tachiri		Napu'lige sebasa we'ká riógachi Kapernaumi anilichi mo'ile pachá galírale napu che'labámili nile 'lige Esúsika rukele alué bo'né 'yuga járome : ― ¿ Tachiri choniae 'emi boichika 'yénaga ?
+41009050	~		Oná 'we a'lá ju 'la ajkabasa go'ame . Tabilé ajkabasa go'ame , pe tabilé 'la ajkabame ju alué oná . Alarigá ju alué resí ikiame napurigá oná . Alué resí ikiame 'la gu'írame nisa ralámuli 'we a'lá 'nata Onorúgame 'yuga a'liko napurigá oná 'la ajkabame alarigá ju . Alué resí ikiame tabilé gu'írome nísaká alué ralámuli 'we a'lá 'nata Onorúgame 'yuga , a'liko tabilé 'la ju . 'Liko alué resí ikiame ju napurigá oná tabilé ajkabame . Tase we'kuawa alué resí ikiame gu'írome ko Onorúgame si na'talia 'liko 'we ganíliga ejperélamala 'emi suwábaga .
+41010003	Tachiri		'Lige Esúsika rukele : ― ¿ Tachiri rejcholi nejile ko alué rió Moisesi 'ya ? ― rukele Esusi .
+41010017	tachiri		Bilé rawé Esusi enale simiá , 'lige bilé rió nawá 'we 'maga , 'lige chokóbasiga ilíbale alé o'wemi napu Esusi iligé . 'Lige alué rió anele alué Esusi : ― Mué 'we a'lá beníriame , ¿ tachiri chu'simía 'la ju napurigá bejtélamala ne 'pa rewagachi nabí ? ― anile alué rió .
+41010018	Chonigá		'Lige Esúsika anele : ― ¿ Chonigá aníché mué : « 'We a'lá beníriame » ? Pe bi'neli Onorúgame ju 'we a'lá beníriame .
+41010026	Chieri		'Lige akisá alué Esusi 'yuga járome , tabilé inámole . 'Lige anile a'bopi : ― ¿ Chieri 'la sebámalawé alé rewagachi ?
+41010036	~		a'bemi simíbale Esusi ajtígachi 'lige anele : ― Mué beníriame , pe rekó , nóchali 'yáwaká ramué .
+41010051	Tachiri		Esúsika rukele : ― ¿ Tachiri najkí mué ? 'Lige alué tabilé ma'chílimeka nejele : ― Mué beníriame , najkí ne napurigá ne'chí 'yómala mué napurigá 'la ma'chílimala ne ku .
+41011003	chonigá		'Lige bilé rió rukisá chonigá su'panalio alué bulito , yati anewa : « Alué Wa'lula najkí napurigá tanewa ye bulito , pe yati ku ronolawa ramué » , anile Esusi .
+41011005	Chonigá		'Lige jaré rió jale alé 'lige bilé alué rió alemi ajtígame rukele : ― ¿ Chonigá su'panaru alué bulito ?
+41011028a	tachiri		'Lige anele : ― Mué Esusi , ¿ tachiri najtékame nóchali nígame ju mué ? 
+41011028b	Chiérite		¿ Chiérite ajcharu mué napurigá Wa'lula nulame nímala mué ? ¿ Tachiri gite buyánaché mué ralámuli wa'lú re'obá ra'pichí mochígame ralinea ?
+41011030	Chieri		¿ Chieri júlaliga Juani ralámuli rewarániliga ? ¿ Onorúgame o pe ralámuli ?
+41011031a	~		A'liko alué e'wélala o'maka chojkile ra'icha a'bopi rukegá , regá anile : 
+41011031b	Churigá		― ¿ Churigá nejiawa ? « Onorúgame júlale » , anisúká 'liko animela alué Esusi ,
+41012009	~		'Lige abichilubi anile Esusi : ― ¿ Alésíko chu'símalawé alué gawígame ? Alueka nawámala suwábaga me'limea alué tebume , 'lige uché jaré mochiámala tebútiga alé .
+41012015	Chonigá		Alué Esúsika 'we a'lá machile pe resítiri 'nátaga anió alué ralámuli , machile pe resí olániliga anió Esusi alué ralámuli 'yégiga ra'íchanelega , 'lige anile alué Esusi : ― ¿ Chonigá alaníbiché 'émika pe resí olániliga 'yégiga ra'íchaga ? Aka jeka a'pásigo bilé enomí .
+41012016a	chieri		'Liko alué bariseo 'lige jaré alué Erore gompaniérola yati a'pile bilé enomí chijtúligame bewárigame alué Esusi , 'lige Esúsika rukele : ― ¿ Chieri mo'ola ju ye mo'ó jena enomichi ajtígame , 
+41012016b	chieri		'lige chieri rewalá chujkú ye enomichi ? 'Liko alué bariséoka 'lige alué Erore gompaniérola anele : ― Pe alué Wa'lula Sesar .
+41012023	chieri		― Napu'lige alé rewagachi sebasa alué gichao ejtemali 'lige alué mukí , aleka ¿ chieri 'nalina upila nímalawé alué mukí napu alué gichao rió gunámakame nile ?
+41012028	Tachiri		Alemi nawale bilé alué napu Moisesi nila nulalí beníriame nile , alué benírameka akea asale alieri benírachi Esusi , akea asale 'we a'lá nejechi alué Esusi . 'Lige alué benírameka regá rukele alué Esusi : ― ¿ Tachiri júkó alué nulalí 'we najtékame ?
+41012035	Chonigá		Esusi alemi ilile alé wa'lú re'obachi ra'pichí ralámuli beniria Onorúgame nila rejcholi . 'Lige Esusi regá rukele alué ralámuli napu jale alemi gepua : ― ¿ Chonigá aníché alué napu Moisesi nila nulalí beníriame ju ralámuli , pe Rabí inolá ko alué Kristo ?
+41012037	'lacha		Rabí « Wa'lula » aneme ju 'lige ¿ 'lacha Rabí inolá nímalawé alué Wa'lula ? 'Lige alué ralámulika 'we a'lá gepua jale 'we ra'sálagá .
+41013004a	Chiéniko		― ¿ Chiéniko gajúmala alué wa'lú re'obá napurigá anié mué ? 
+41013004b	Churigá		¿ Churigá 'la machiboa 'ma sebamio raweli 'ma gajúmili ko alué wa'lú re'obá ?
+41014004	Chonigá		'Lige jaré alemi mochígame tabilé galele , 'we ayole , 'lige regá anile a'boi : ― ¿ Chonigá suwábaga ro'éleché alué nawá ba'wila Esusi mo'ólachi ? 'Ma cha olákuru , 'ma suwábaga go'líkuru .
+41014006	~		'Liko Esúsika anele alué ralámuli : ― 'Ma tabilé chati 'nata mochisi . Ye mukika 'we a'lá semá 'smíkuru alué nawá ba'wila 'we semá júkame ro'ea ne'chí mo'ola .
+41014012	Koche		Sébale raweli Páskua piesta oliame , baní go'achi tase kawali ro'igá newárigime , a'lige rawé napu ekiná riógichi me'liame nile galírale bilé bo'á Onorúgame kógimia . ( Alueka pe 'nátaga nokame nile napu'lige alué santo ánjeli tabilé me'ale alué bajchá o'chérigame ejtemali israelita alé Ejipto . ) A'lige rawé alué Esusi 'yuga járome rukele alué Esusi : ― ¿ Koche 'la nítékó alué go'ame newalía Páskua piesta oliachi go'yame ?
+41014014	Koche		'lige napu bajkí alé galírale osámana ilígame , anewa alué rió galí nígame : « Alué wa'lula ramué nuleme regá aní : ¿ Koche go'mela ne go'ame ne 'yuga járome 'yuga alué go'ame jipe alí go'yame Páskua anilime piesta sebasa ? »
+41014060a	~		'Liko alué wa'lula balé o'weti ilísale , 'lige alé iligá rukele alué Esusi : ― ¿ Bijchiga aní ye ralámuli napurigá aní ? 
+41014060b	Chonigá		¿ Chonigá ta nejé mué ?
+41014063	~		'Liko alué wa'lula balé banasuka chi'wánale bo'né o'páchala . ( Alueka ruwime nile 'we ayóligo alué wa'lula balé alanichi alué Esusi . ) 'Lige regá anile : ― Ya 'ma 'we a'lá sébali akirúke'é , tase rokáré uché bilé rió napurigá ra'ichámala Esusi saíla neraga .
+41014064	chonígó		Suwábaga 'emi 'we a'lá aké Onorúgame saíla niraga ra'ichio ye Esusi . ¿ 'Émika chonígó ? ¿ Cholátékobá ? 'Lige suwábaga ralámuli 'we anile napurigá me'liboa alué Esusi ra'íchaligo Onorúgame saíla neraga .
+41015004	~		'Liko alué Pilato uchéchigo rukele : ― ¿ Ta nejiama olá mué ? 'La chekí tábiri ruyáníguru alué e'wélala balé .
+41015012	choliame		'Lige Pilato uchéchigo siné rukele alué ralámuli : ― ¿ 'Émika choliame najkí alué napu 'emi Wa'lula Rey ralámuli jurío nuleme aneme ju ?
+41015014a	~		'Lige Pilátoka uchéchigo rukele : 
+41015014b	tachiri		― ¿ Tachiri chu'síkame júkó ye rió ? 'Lige ralámulika uchéchigo anile abé a'wágame : ― ¡ Gulusichi ujchawa ! ― anile o'maka alué ralámuli .
+41015034	chonigá		Aba'lige 'ma ku rayénachi alué rayénali , Esusi e'wele ra'íchaga regá anile : ― Eloi , Eloi ¿ lama sabáktani ? ( Pe arameo ra'íchaga anile . ) Pe regá anigá anile : « Muérigo Onorúgame ne O'nola , ¿ chonigá a'réché mué ne'chí ? »
+41016003	Chieri		'lige anisia e'yénale alué bakiá umugí : ― ¿ Chieri 'la nejkúrimala alué wa'lú rejté se'wí ajchalichi alé yochi ajtígame ?
+42001018	Churigá		Sakaríasika rukele alué santo ánjeli : ― ¿ Churigá 'la bijchígamala ne alarigá nimio suwábaga napu aní mué ? Aka neka 'ma 'we o'chérame júpaché , 'lige ne upílachigó 'we o'chérame ju .
+42001034	'Lacha		'Liko Maríaka rukele alué santo ánjeli : ― ¿ 'Lacha ranélamalawé ne ? Neka tabilé 'yúgame júpaché rió .
+42001043	Chieri		¿ Chieri júpaché ne napurigá nawámala mué María ne'chí e'nemia mué napu ju alué Onorúgamete julárigame eyela nímili ?
+42001066	Tachiri		Suwábaga ralámuli napu ekí akele alué ra'íchali anigá e'yénale a'bopi : ― ¿ Tachiri nóchame nímalawé alué towí wa'lú ochérasa ? Alarigá anile napugiti 'la bijchiá machíligame a'lígesí wa'lú a'walí 'yáligo Onorúgame alué towí .
+42002048	chonigá		Napu'lige alué o'nola 'lige eyela etesa aliena benegá ra'icha ajtígichi alué ralámuli 'yuga , pe i'kilí jábale , 'lige pe'tá nujubapi eyélaka anele : ― Mué towí , ¿ mueka chonigá ala'simípiché ? Ramueka 'we chálagá e'yénilie 'yaga mué .
+42002049	Chonigá		'Liko alué re'malí Esusi anele : ― ¿ Chonigá 'yárupaché 'émika ne'chí ? ¿ Tacha machíché 'émika neka nochámali ko ne O'nola galílachi ?
+42003007	Chieri		Napu'lige alué ralámuli sébachi alé rewarárigame nimia ba'wichí , 'lige Juánika anele : ― 'We chátiri 'nátame ju 'emi . ¿ Chieri ané 'emi tabilé naremio alué gastigo napu jipe 'ma a'mulípika ená ? ¿ Mayé 'emi tabilé naremio alué gastigo 'ma rewarárigame kóriká ? Rekó 'la rewarárigame ke 'emi 'lige cha nokogá járome nisa 'emi , abirigá narémala 'emi gastigo .
+42003010	Cho		'Lige alué ralámulika rukele : ― ¿ Cho nokibóché 'liko ?
+42003012	churigá		Abiena jsile rewarárigame nimia jaré rió enomí nareme alué enomí napu nejílame nile alé wa'lúlachi , 'lige rukéliru Juani : ― Muérigo benírame , ¿ ramueka churigá nochawa ?
+42003014a	~		Abiena jaré sontalo regá rukele : ― Ramuégó 
+42003014b	churigá		¿ churigá nochawa ? 'Lige Juánika regá anele : ― Tase bujewa ralámuli tábiri resí anigá majáriga , aminami tase e'chewawa alué ralámuli tabilé chojkila kachi . 'La ganíliga ejtebiwa 'emi napu ekí meme ju 'emi .
+42004034	chonigá		― ¡ Wamí simigá mué ! Mueka ¿ chonigá nawíbaché ne'chí mué Esusi Nasareta bejtégame ? ¿ Mueka nawá cha olamia ramué ? Neka 'la machí mué : ¡ Mueka wanápurigame ju Onorúgamete !
+42004036	Churigá		'Liko suwábaga ralámuli 'we majale , 'lige anile a'bopi ra'íchaga : ― ¿ Churigá 'la uméroché ye rioka alué remónisi u'tabela pe ra'íchaga , 'la ma'chípá 'smíguru alué u'tabela remónisi ye riochi ?
+42005021a	chieri		'Lige alué rió Moisesi rejchólila benírame abiena alué bariseo 'nátale : « ¿ Chieri júpaché ye rioka síkaniá tabilé niranti Onorúgame ? 'La bujenti koriá aníguru ralámuli chátiri 'nátili napurigá 'la moinámala rewagachi . Pecha 'wesi rió bujémalagó chátiri 'nátili ralámuli , pe Onorúgameka 'la bujémala napurigá 'la moinámala rewagachi » , 'nátale . Alué bariseo níriká 'we chátiri nile alué napurigá 'sile Esusi bujea chátiri 'nátili .
+42005021b	~		
+42005022	chonigá		'Lige Esúsika 'la machile alarigá 'nátachi alué ralámuli , 'lige rukele : ― 'Émika ¿ chonigá alieri 'nata mochípeché ?
+42005023	Churigá		¿ Churigá anilía 'nalina abé 'la nítékó pala regá anilía ? : « Mué rió , 'ma bujé ne mué nila chátiri 'nátili napurigá 'la moinámala mué rewagachi » , regáchala anilía : « ¡ O'weti ilísiga , yati einawa ! »
+42005030	Chonigá		'Lige jaré rió bariseo , 'lige jaré rió Moisesi nila ra'íchali rejcholi benírame , chojkile ra'icha alué Esusi 'yuga benime sayega . Regá anele : ― ¿ Chonigá go'áché 'emi 'lige bají 'emi alué ralámuli enomí goblálome 'yuga 'lige aminami alué ralámuli 'we chátiri 'nátame 'yuga ?
+42005033	chonigá		'Lige alué ralámuli rukele alué Esusi : ― Alué Juani 'yuga benime , abiena alué ralámuli bariseo , ¿ chonigá 'we ayúname ju 'lige 'we tánime iwérali Onorúgame ? 'Lige ¿ chonigá mué 'yuga benímeka tabilé siné alarigá nokame júché ?
+42005034	'Lacha		'Lige alué Esúsika nejele regá anigá : ― ¿ 'Lacha nulémalawé 'emi napurigá ayunámala alué ralámuli kólime newigichi sígame alué rió newímili si ajtígachi ? Tabilé nulémala 'emi .
+42006002	Chonigá		'Lige alué jaré rió bariseo etele 'lige rukele : ― ¿ Chonigá alarigá nokáché 'émika jipe rawé resíbulichi ? 'Emi 'we a'lá machí osáligo Moisesi ra'íchali rejcholi napu ruwime ju Onorúgame tabilé lisensia nejío napurigá rijpunawa nibilé pe u'kabi ri'ligó mulalá rawé resíbulichi .
+42006009	Tachiri		'Lige alué Esusi anele alué uché jaré ralámuli : ― Ne bilé ra'íchali rukirá 'emi . ¿ Tachiri chu'simía 'la lisensia ju rawé resíbulichi ? ¿ Gu'írilia ralámuli , resí oliáchalá ? ¿ Sa'walia ralámuli , a'rilíachalá napurigá mukumela ? ¿ Churigá nulale alué Moisesi ?
+42006032	'wecha		› 'Lige 'emi ralámuli galésaká pe alué ralámuli napu 'emi machime ju , ¿ 'wecha a'lá ju alarigá nokiá ? Alarigá nokame ju alué ralámuli napu galeme ju aminá uché jaré ralámuli napurigá 'la galéwachigó . 'Émika 'la galémili júkuru alué ralámuli 'emi galeme , abiénachigó alué ralámuli tabilé galeme 'emi .
+42006033	'wecha		'Emi ralámuli 'la gu'írisa pe alué ralámuli napu 'emi gu'írame ju , ¿ 'wecha a'lá ju alarigá nokiá ? Alarigá nokame ju alué ralámuli tabilé oyérame Onorúgame . 'Émika abé a'ká ralámuli nímili júkuru , me'tagá alué ralámuli tabilé oyérame Onorúgame .
+42006034	'wecha		'Emi tanesa tábiri alué bilé rió napu ku 'la gu'linásaré , ¿ 'wecha a'lá nímalawé alarigá nokiá ? Alarigá nokame ju alué ralámuli tabilé oyérame Onorúgame . Tanesa , buigá mochime ju ku gu'línilime .
+42006039	~		'Lige aminami alué Esusi rukele : ― ¿ 'La 'yúrimeréle bilé rió tase ma'chílime uché bilé rió tase ma'chílime ? ¿ Ta rujsúmerélé okáraga alé bilénami rejkolichi ?
+42006041	chonigá		› 'Lige ta machisá mué bo'né wa'lú wejkolí ajchágame ko mué bo'né busílachi , 'lige ¿ chonigá regá aneme ju mué alué rió : « Muérigó , aka ne ma'chí pátirigo alué u'tá wejkolí mué busílachi ajtígame » ? 'La ma'chí pápua mué bo'né bajchá alué wa'lú wejkolí mué busílachi ajtígame a'liko 'la ma'chí pámala mué alué u'tá wejkolí alué rió busílachi ajtígame .
+42006042	~		
+42006046	chonigá		― 'Émika ¿ chonigá wa'lula nulame anéché ne'chí , peka sébali olame ke napurigá nulé ne 'emi ?
+42007024	chieti		Napu'lige 'ma ku simasa alué oká rió napu Juani júlale , Esúsika chojkile ra'íchali ruyea alué ralámuli churigá níliga alué Juani , regá rukega : ― Napu'lige 'emi e'yenia e'néniga alué Juani alé jami , ¿ chieti mayéliko alué rió ? ¿ Péchala mayelie nimio napurigá pe bilé gajsalá ekate noká ilime ?
+42007025	tachiri		'Lige ta alieti rió e'néniga e'yénisiká 'emi , 'liko ¿ tachiri e'néniga e'yéniliché 'emi alemi ? ¿ E'néniga e'yénilie 'emi bilé rió 'we semati o'páchigime ? 'Lige 'emi 'we machíguru alué rió 'we semati o'páchigime ka 'we ganíliga semárikáchi bejtégame ko alé wa'lú galichi napurigá bilé rió 'we enomígame . 'Liko ¿ tachiri e'néniga e'yéniliché 'emi alemi alué ralámuli ?
+42007026	~		¿ E'néniga e'yénale 'emi alué napu ruwime ju napu ané Onorúgame ? Ju , alué e'néniga e'yénale 'emi , alueka júkuru abé wa'lú a'walí nígame me'tagá alué uché jaré napu ruwime ju napu ané Onorúgame .
+42007031a	chieti		Alué Esusi abiena regá anele : ― ¡ 'La chieti ralámuli jipe riógame !
+42007031b	~		
+42007042	Chieri		'Lige okánika tase umébale ku gu'lina . 'Lige alué enomí tanémeká 'la e'kale alué wikame okánika alué rió . ¿ Chieri 'nalina abé ganíliga rejpílekobá alué rió enomí taneme 'yuga ?
+42007049	Chieri		Alué ralámuli bayérigame napu mochile alé si , alueka chojkile ra'icha a'bopi , regá anigá : ― ¿ Chieri júché ye rió síkaniá napu 'la e'kágorianíguru ? Pe alué Onorúgameka 'la e'kame ju .
+42008025a	Chukirúpeché		― ¿ Chukirúpeché ? ¿ Chonigá tabilé bijchigi 'emi pe Onorúgame gite 'la asibamio ye eká ? 'Lige alué ralámulika e'karúgame 'nátaga , a'bopi rukele : 
+42008025b	chieri		― ¿ Chieri júché ye rió ? Aka 'la e'wárinti ka'e ekátiri .
+42008028	Tachiri		'Lige alué rió Esusi etesa a'wágame sinale , 'lige 'male a'bemi napu ilile Esusi 'lige a'bé ilíbale chojkóbisiga napu ilile Esusi , 'lige e'wele ne'oka anile : ― ¿ Tachiri najkí mué Esusi , Onorúgame 'pa rewagachi ajtígame inolá ? ¡ Pe rekó tase resí olawa ne'chí !
+42008030	Chonilime		Esúsika rukele alué lo'í : ― ¿ Chonilime ju mué ? Alué lo'ika regá nejele : ― Neka Lejioni rewégame ju . Alarigá anile alué rió napugiti we'ká remónisi u'kuchípala mochígame níligame pachágana alué riochi .
+42008045	Chieri		'Liko Esúsika rukele : ― ¿ Chieri nochá ne'chí o'páchala se'wala ? 'Lige o'maka anile : ― Ta'wésigurú . 'Lige Pégroka anile : ― Mué Wa'lula , alué ralámulika 'we namó járo'é jemi 'we rajchiní . « ¿ Chieri nochá ne'chí o'páchala se'wala ? » , aniá aníguru mueka . Ramueka tabilé machirú .
+42009009a	chieri		'Lige alué wa'lula selígame Erore Antípasi rewégameka regá anile : ― Aka 'ma nuligéché ne me'líniliga Juánika 'lige 'ma a'pírigeturu ne alué Juani mo'ola rijpúniga gujtala , 'lige ¿ chieri júché alué rió ? 'We ruwanti júkuru alué rió . 'Lige alué wa'lula selígame Erore eténale alué Esusi .
+42009009b	~		
+42009018	Chieri		Bilé rawé alué Esusi Onorúgame 'yuga ra'icha ilígachi waná bi'neli alué makué oká rió alué Esúsite benírilime alemi mochílechigó . 'Lige rukele : ― ¿ Chieri korí alué ralámuli ne'chí ?
+42009020a	~		'Liko Esúsika rukele : ― 'Émika 
+42009020b	chieri		¿ chieri koriágó ne'chí ? Pégroka anile : ― Mueka pe alué Kristo ju .
+42009025	Churigá		¿ Churigá 'la nímalawé rekó bilé rió 'we a'lá nígame ke peka 'la 'nátame rió ke pe chibi 'sika eyéname ke ?
+42009041a	chiéniko		'Lige Esúsika regá anile : ― 'Emi ralámuli cha nokame tabilé bijchígime , chiéniko si asimélaché ne 'emi 'yuga napurigá 'la bijchígamala 'emi . Jeka o'tó mué inolá .
+42009041b	~		
+42010025	chu'símala		'Lige bilé rió ra'íchali benírame , alué ra'íchali napu a'rele Moisesi 'we 'ya , simile a'bé Esusi 'yuga ra'ichamia rukemia pe machináliga churigáriga anirá pala pe'tá chajkena nejiara , 'lige regá rukele : ― Mué Benírame , ¿ chu'símala ne napurigá 'la moinámala ne 'pa rewagachi ?
+42010026a	Churigá		Esúsika regá rukele : ― ¿ Churigá anígó alué ra'íchali napu a'rele Moisesi ? 
+42010026b	Churigá		¿ Churigá námogo mué ?
+42010029	Chieri		'Lige alué rió ra'íchali benírameka alué ra'íchali napu a'rele Moisesi 'we 'ya , napurigá a'lá rió neraga regá rukele chonirá Esusi , pala pe'tá chajkena nejiara : ― ¿ Chieri ju alué uché jaré ralámuli napu 'la niraga etémili ju ne ?
+42010036a	~		Esúsika 'ma suwénasa ye ra'íchali ruyá , rukele : 
+42010036b	chieri		― ¿ Chieri alué bakiá rió abé na'temaka etélekobá ?
+42011008	~		Abirigá asísimala mué 'yamia go'ame alué rió alemi ilígame go'ame taa napugiti pe alarigá nokame kame ralámuli jemi , napurigá tabilé se'winá lámala alué nawágame go'ame táame 'lige uché jaré ralámuli . Asísamala mué regá 'nátaga : « Resía ye rió , 'yama ne baní . » Bilena galírale 'yériga ilisá yochi , e'wérali olawa napurigá i'púmala yochi alué pachá mochígame ralámuli .
+42011011	'lacha		› Mué inógame nisa , 'lige alué mué inolá remé táachi , ¿ 'lacha rejté 'yámalawé mué ? 'Lige bilé ro'chí táachi mué inolá , ¿ 'lacha sinowí 'yámalawé mué ?
+42011012	'lacha		'Lige bilé ga'wá táachi mué inolá , ¿ 'lacha majchili 'yámalawé mué ?
+42011013	~		Mué rió 'we resí 'sime ke , 'la bi'wígame go'ame 'yame ju mué bo'né inolá , 'lige alué Wa'lula Onorúgame 'pa rewagachi ajtígame , alueka abéchigo semáriga 'yámala alué bo'né alawala alué ralámuli napu taní Onorúgame Alawala .
+42011018	~		'Lige alué wa'lula remónisi sairasa u'kuchípala remónisi , 'ma bi'neli rejpímala alué wa'lula remónisi . 'Lige neka alarigá ruwíguru , 'émika cha cha aniame , 'émika aníguru ma'chí buyáname ko ne alué chátiri u'kuchípala remónisi alué wa'lula remónisi Belsebú a'walílate .
+42011019	'lacha		Ne alué Belsebú gompaniérola nísaká , ¿ 'lacha buinámapué ne alué u'kuchípala remónisi ralámulichi pachágana mochígame ? 'Emi 'yuga nóchame 'la buyáname ju alué remónisi u'kuchípala Onorúgame gite , a'lígeko 'emi abiena 'la machí buyáname ko ne u'kuchípala remónisi Onorúgame gite , pe iligá tabilé 'la ma'chígime ruwíguru 'emi .
+42012014	chieri		'Liko Esúsika regá anele : ― Mué rió , ¿ chieri 'ya ko ne'chí nóchali napurigá ne ra'íchali gateme nímala , rojáname alué tábiri ?
+42012017	Cholama		'Lige alué rioka 'nátale : « ¿ Cholama ne jipe alakí go'ame ? » lale . « Tase níkuru ne wa'lú rekoa alé gatélime alakí go'ame . »
+42012020	chieri		› 'Lige alué Onorúgameka anele : « Mué rió tase 'la 'nátame , rekó we'ká 'wige mué go'ame , jipe rukó mukumela mué rió . Alué we'ká go'ame napu mué 'wile , alueka ¿ chieri niga rejpímala 'lige ? »
+42012024	~		Aka alué golachi ta siné echame ke , senibí go'yame ká'é go'ame napugiti Onorúgame 'we a'lá gu'írame kame . ¡ 'Émika abé najtékame ju Onorúgame níriga me'tagá alué golachi !
+42012025	~		Rekó 'we re'pá jágame gainánilie 'emi , tase uché rajpé re'pá jágame gainámala 'emi .
+42012026	chonigá		Tabilé aminabi ochérame nísaká bilé rió pe napu echilú ju , 'liko ¿ chonigá cha lámala ? 'Lige aminami ¿ chonigá 'we cha lámala tabilé nígariká go'ame , enomí 'lige galí , 'lige e'karúgame tabiri tábiri ?
+42012042	Chieri		'Liko rukele alué Esusi : ― ¿ Chieri kárékobá alué bilé rió wa'lubela nóchalichi nulame 'la sébali olame ? ¿ Pala alué rió kárékobá napu galí nígame a'reme ju repúniliga alué galí napurigá kógimala go'ame alué ralámuli nóchame 'la sébali alé , 'la tase 'cho 'we charigá e'lowichi alué ralámuli ?
+42012049	~		― Neka nawákuru na'áwali o'inamia jena 'emi ralámuli ejperélachi .
+42012056	chonigá		Rekó 'émika 'la machime ke chiéniko u'kumeo 'lige chiéniko rajtálimio , 'lige ¿ chonigá ta machíché 'emi alarigá ikimeo nujubami rawé rekó 'la etee ne'chí nochálila 'lige rekó 'la akéeme ke ne ra'ichálila ? Abiena anile Esusi :
+42012057	Chonigá		― ¿ Chonigá ta gateme júkó 'emi a'boi alué na'áwali ?
+42013004	~		'Lige uchéchigo rukele : ― ¿ 'La bijchiá mayé 'emi ralámuli wa'lú gastigo nígame níligo alué makué osánó ralámuli napu suwile alé Siloé alué re'pá ilígame galite me'táchaga , me'tagá alué uché jaré pe abalé Rusaleni ejperégame ? 'Lige anele :
+42013007	~		'Liko anele alué rió napu repume nile alemi echerúgime : « Neka 'ma bakiá bamí nawáguru jena e'nemia ye chuná pala rakega iligá , 'lige tasiné rakéguru ye chuná . 'Ma me'teka pápua , pe nejkumea ilí jena i'wilí jágichi . »
+42013015	Tacha		'Liko Esúsika regá anele alué nulame : ― ¡ Tabilé sébali olame ju 'emi napurigá aní a'bopi ! ¿ Tacha su'páname ju 'emi alué roló alué bulito kómá rawé resíbulichi o'tomea ba'wí bajírimia ?
+42013018a	churigá		'Lige anile Esusi : ― ¿ Churigá ruyésiga 'la nímalaché 'emi napurigá 'la námamala 
+42013018b	churigá		churigá ka napu'lige ralámuli 'la sébali olachi alué napu nulá Onorúgame ? Bajchá bilé ralámuli benime ju Onorúgame ra'ichálila 'lige uché jaré ralámuli benírame ju , 'lige pe yati we'ká ralámuli 'la oyérame ju alué ra'íchali . Alué Onorúgame ra'ichálilaka napurigá alué a'lásini rakala , alarigá ju . 'We u'tá ju nobi 'wéchigo wa'lú ochérame ju me'tigá ri'ligó , 'lige chulugí alé jsime ju kábimia . › Ruwimé ne bilé ra'íchali : Bilé gajsalá rakala 'we u'tá ke 'lige alué gajsalá rakala ya'wisá wa'lú ochérame ju re'pá ilígame , 'lige alué chulugí jsime ju 'lige alé mochíbame ju . Alarigá júkuru Onorúgame nulachi jena wijchimoba .
+42013020	Churigá		Abiena anile Esusi : ― ¿ Churigá ruyésiga 'la nímalaché napurigá 'la námamala 'emi churigá ka napu'lige ralámuli 'la sébali olachi Onorúgame ra'ichálila ?
+42013025	~		Alué rió galí nígame ilísiga 'yérisa 'yera 'lige 'emi ralámuli jaré ma'chika jaga regá animela : « Mué rió , i'pú yochi . » 'Lige alué galí nígameka animela : « Neka tase machí chieri ka 'emi . »
+42014005	tacha		'Lige Esúsika ra'íchale alué bariseo 'yuga 'lige alué benírame 'yuga , 'lige rukele : ― Bilé 'emi inolá wijchisá rawé resíbulichi , bilé roló kómá 'emi bujkula alé rejkolichi napu maníbame ju ba'wí bajílime i'pichí napu newalime niru ramué jena Israeli 'we rojkógachi , ¿ tacha ku ma'chí pámala 'emi ? ¿ Abajáchala a'rémala 'emi ?
+42014028	~		'Lige bilé rió wa'lú galí re'pá ilígame newánilisa , bajchako 'we a'lá e'némili júkuru alué rió chekí enomí sebátiká .
+42014031	~		'Lige anélechigó Esusi : ― Bilé rió wa'lula selígame rey tase nejkome ju bilé liá mili sontalo sayega makué mili gompaniéroga , senibí bajchá 'we a'lá 'nátame ju .
+42014034	~		― Onaka 'la ju napu'lige bijí ajkágame kachi . Alué oná 'ma najsuwisa , tase siné ku a'lá gainámala .
+42015004	tacha		― Bilé rió bujkégame nisa bilé siento bo'á , 'lige bilé bo'á we'kasa , ¿ tacha yati simime ju 'yamia alué bilé we'kágame alé jami a'resa alué gi makuesa makué miná gi makué ? Napusí rewisá a'reme ju 'yaa .
+42015008	tacha		― Abiena , bilé mukí makué enomígame enomí plata 'lige we'kawasa bilé alué enomí , ¿ 'lige tacha rajémalawé chopé 'yamia alué enomí 'lige arigá tacha 'ma pechímalawé 'yaga 'la kilí alé galírale napusí rewá si alué enomí ?
+42015026	Tachiri		'Liko bayele bilé alué rió nóchame 'lige rukele : « ¿ Tachiri gite rabisía mochí ralámuli alé galírale ? »
+42015029	~		'Lige alué re'malika anele alué o'nola : « Mué 'la sébali machí alakí bamí gu'iria ne mué . 'Lige neka senibí 'la e'weme ju mué , 'lige mueka tasiné nejime ju nibilé rekó pe bilé chibá u'tátiri kachi napurigá ne newámala bilé yawiyame ne gompaniérola 'yuga .
+42016002	~		'Liko alué nóchali nígame bilé rió júlale bayéniliga alué nulame , 'lige 'ma nawasa alué nulame , anele : « Tabilé 'la nóchame kará mué . Jípeko 'ma ku nejiwa mué alué nóchali , 'ma suwábaga alué apeli 'yúriga . 'Ma tabilé nochámala mué ne 'yuga . »
+42016003	tachiri		› 'Lige alué nóchalichi nulámeka 'nátale regá : « Jípeko ¿ tachiri nochámalaché ne bujésiga nóchali ? Tase benégame ju ne bejtégame nóchaga , 'lige chijuna ne pe taga go'gá » , alarigá 'nátale alué rió .
+42016005	Chekí		› 'Lige bayesa alué bilé rió , rukele : « ¿ Chekí wiké mué alué wa'lula nóchali nígame ? »
+42016007	chekí		› 'Lige uché bilé rukele : « Mueka ¿ chekí wikégó alué wa'lula nóchali nígame ? » 'Lige alué rió rukilime ka regá nejele : « Neka bilé siento gostali ri'ligó wikáre'é . » 'Liko anile alué rió nóchalichi nulame : « 'La bijchiá ju , jena chujkú napu mué wiká , asíriga we'ká wiká mué , alekeri gu'írimala ne mué , pe osá nosa makué gostali ri'ligó najtétimala mué , 'lige pe alakí ujchawa jena apélichi mué bo'né . »
+42016011	~		'Lige alué rió tabilé 'la semáriga uneme nisa alué we'ká tábiri napu iní jena wijchimoba , a'lígeko churigá 'la semáriga uneme nímalawé alué Onorúgame nila semátiri 'nátili .
+42016012	~		'Lige tabilé 'la repume nisa alué tábiri uché jaré ralámuli nila , alésíko 'ma tabilé 'yawa Onorúgamete alué tábiri napu 'yáwali nílige napurigá bo'né niga neraga asimela .
+42017007	'lacha		Abiena anile Esusi : ― Bilé rió nóchali nígame bilé rió ralisá tabilé najtétiga nochárimia 'lige 'minami julasa asarániliga , 'lige kuka nawasa alemi 'sisa asará , 'mimi einasa 'ma ajágame nesigá , 'lige ¿ 'lacha regá anémalawé alué rió nóchali nígame ? : « Pachaka asagá , go'yá asá remé » , ¿ 'lacha regá anémalawé ?
+42017017	koche		'Liko alué Esusi regá rukele alué ralámuli alé jágame e'negá : ― ¿ Tacha makué rió ke sa'wígame ? 'Lige ¿ koche mo'íbaleché alué uché jaré gi makué rió ?
+42017018	~		Ye riocho uché bilena gawichí bejtégame 'la kuka nolina wa'lú cheliera 'yamia Onorúgame .
+42017020	Chiéniko		Alué ralámuli bariseo rukele Esusi : ― ¿ Chiéniko si 'la machí nérélamala Onorúgame 'ma nulao ? 'Lige Esúsika regá nejele : ― Napu'lige nulachi Onorúgame , tase 'wesi etémala ,
+42017037	koche		'Lige alué benímeka rukele Esusi : ― Mué Wa'lula , ¿ koche ikimela 'lige alué alarigá ? 'Lige Esúsika regá nejele : ― Alé napu bo'í mukúgame , alé napuímala gonoli 'lige wilú .
+42018018	tachiri		Bilé wa'lula ralámuli jurío nuleme rukele alué Esusi : ― Mué , benírame , 'we a'lá rió , ¿ tachiri nochámili ju ne napurigá moinámala ne re'pá rewagachi nabí alé asimea ?
+42018019	chonigá		Esúsika regá nejele : ― Mueka ¿ chonigá « 'we a'lá rió » anéché ne'chí ? Alué 'we a'laka pe Onorúgame ju .
+42018026	chieri		'Lige alué ralámuli napu akele alué ra'íchali , regá anile : ― 'Liko ¿ chieri la sébali olámalaché napurigá Onorúgame nulá napurigá sebámala rewagachi ?
+42018036	cho		'Lige akisá we'ká ralámuli simárochi alemi , rukele : ― ¿ Cho nokogá aní alué ralámuli ?
+42018041	Tachiri		― ¿ Tachiri choliame najkí mué ? 'Lige alué rió tase ma'chílime ka regá anile : ― Mué bi'neli neyúriga wa'lú a'walí nígame , neka najkí napurigá mué ne'chí 'yómala busila napurigá ku 'la ma'chílamala ne .
+42019007	~		Alué we'ká ralámuli etesa alué Sakeo galílachi bajkigó Esusi go'ame go'mea , 'lige alué ralámuli chojkile a'bopi ra'icha sayega alué Esusi . Anile alué Esusi bajkíligo alé galírale enomí bujeme ralámuli rió bejtélachi .
+42019023	chonigá		'Lige ¿ chonigá ta nochari ko mué alué enomí alé enomí gatélachi mo'ogá ? Alarigaka 'la uché rajpé narémikuru ne alué enomí ku nawagá . »
+42019031	chonigá		'Lige ralámuli rukésaká chonigá su'panalia alué bulito , regá anewa : « Alué Wa'lula najkí bulito . »
+42019033	Chonigá		'Lige alué bulito su'pana uchúkachi , alué upugégame ka anele : ― ¿ Chonigá su'panáliché 'emi alué bulito ?
+42020002a	tachiri		'Lige alué ralámulika regá anele alué Esusi : ― Mué Esusi , ¿ tachiri najtékame nóchali nígame ju mué ? ¿ Wa'lula ju mué ? 
+42020002b	Chiérite		¿ Chiérite ajcharu mué napurigá wa'lula nímala mué ?
+42020005a	Churigá		'Liko alué ralámulika chojkile ra'icha a'bopi rukegá , regá anile : ― ¿ Churigá nejiawa ? « Onorúgame júlale » , anisúgaká , 'liko regá animela : 
+42020005b	chonigá		« ¿ 'Lige chonigá ta bijchígileché 'emi ? » animela .
+42020013	Churigá		› 'Lige arigá 'nátale alué i'wilí nígame : « ¿ Churigá olásiga 'la nímalaché ? Jípeko julámala ne ne bo'né inolá . Siné kachi alueka 'la niráwaréko . »
+42020015	Cholámalawé		'Liko alésíko 'minami mejkabé o'togá me'ale . Alarigá anele Esusi alué ralámuli 'lige rukele : ― ¿ Cholámalawé alué wasá i'wilí nígame alué ralámuli alué re'malí me'ágame ?
+42020017	tachiri		'Lige Esúsika e'néniga anele : ― ¿ 'Lige tachiri ruwime ju alué osilí napu uchú osiruga alé bilena apélichi napu uchú Onorúgame wikárila regá anime ? : Jaré rió galí newame gawélele bilé rejté , 'lige alué rejteka 'we a'lá a'wagá asíbale alé chijtochi ajchásiga . Alanime júturu alué osilí napu uchú alé bilena apélichi napu uchú Onorúgame wikárila .
+42020023	~		Alué Esúsika 'la machile chátiri 'nátaga rukeo alué ralámuli , 'lige anele :
+42020024a	chieri		― 'Emi bilé ralámuli , jeka o'tóbá bilé enomí . 'Lige bilé ralámuli yati 'yale bilé enomí chijtúligame bawérigame . 'Lige Esúsika rukele alué we'ká ralámuli : ― ¿ Chieri mo'ola ju ye mo'ó jena enomichi ajtígame ? 
+42020024b	chieri		'Lige ¿ chieri rewalá ju napu chujkú jena ? 'Lige alué ralámulika regá nejele : ― Aka aluéguru wa'lula gobierno enomí nareme .
+42020033	chieri		Napu'lige alé rewagachi sebasa alué we'ká ejtemali 'lige alué mukí , aleka ¿ chieri 'nalina upila nímalawé alué mukí ? Alarigá rukele rekó tabilé bijchígime ke rewagachi simíbame ko suwígame .
+42020041	chonigá		Esúsika rukele alué e'wélala : ― 'Émika ¿ chonigá regá aní Onorúgamete julárigame pe alué Rabí rijimala ko alué Rabí 'we 'ya ajtígame ?
+42020044	~		Aka alué Rabí osálige'é « wa'lula ne'chí nuleme » anime , 'liko alué Onorúgamete julárigame abé najtékame ju me'tigá Rabí .
+42021007a	chiéniko		A'liko rukéliru alué Esusi : ― Mué Wa'lula , ¿ chiéniko gajunáwili júkó ye wa'lú re'obá ? 
+42021007b	Churigá		¿ Churigá 'la machiboa 'ma sebamio raweli gajunáwili ko ye wa'lú re'obá ?
+42022009	Koche		'Lige alué oká rioka rukele : ― ¿ Koche 'la nítéko alué go'ame newalía ?
+42022011	~		'lige anewa 'emi alué rió galí nígame ne napu ju benírame najkió bilé galí napurigá go'mé ne 'emi makué oká rió 'yuga o'rako alí chónachi .
+42022027	Chieri		¿ Chieri júkó abé najtékame , alué mésachi asíbame go'ame go'mea , alué chalá go'ame ro'ame ? ¿ Tacha alué mésachi ajtígame abé najtékame ju ? Neka pe napurigá bilé rió ju go'ame ro'ame . 'Émichigó a'chigóriga niwa napurigá ne .
+42022046	Chonigá		'Lige anele : ― ¿ Chonigá okoka bi'tirúché 'émika ? Mochísiga o'weti , ra'ichawa Onorúgame 'yuga , iwérili tániwa napurigá ta neyúrimala Remónisi nila 'nátili .
+42022064	chieri		Busila bulesa ba'nasólite abichilubi 'we chibi olale 'lige rukele : ― Machígobá ¿ chieri 'siá nejchoa ?
+42022071	~		'Liko regá anile alué ralámuli : ― Ya 'ma 'la sébali machirúke'é , tase rokáré uché bilé rió machime napugiti bo'né 'la sébali ruyame .
+42023022a	~		'Lige Pilato uchéchigo regá anile , alésíko 'ma baisá nile : 
+42023022b	tachiri		― ¿ Tachiri chátiri nasibule ko ye rió ? Ne níriká tabilé se'winá 'síkame ju ye rió napurigá me'liboa . 'Lige neka pe nulámala napurigá wejpisópua , 'lige pe yati ku elímala ne napurigá simela 'minami .
+42023031	~		'We cha nokame ju ye ralámuli , ne 'la Onorúgamete julárigame kachi chiena 'we resí oliá ne , 'lige a'kinana abéchigo resí oláwili júkuru 'emi .
+42024005	Chonigá		'Lige alué umugika majaga wijchí rojpóchaga uchúpale . 'Lige bilé alué santo ánjelika rukele : ― ¿ Chonigá 'yamíché 'émika Esusi jemi suwígame gatélachi ?
+42024017	tachiri		'Lige Esúsika rukele : ― ¿ 'Émika tachiri ra'ichasia i'nárikó jemi bowesia ?
+42024019	Chukirú		'Lige Esúsika rukele : ― ¿ Chukirú ko alé ? 'Lige bilé alué ralámulika regá anile : ― 'Ma me'líliru alué Esusi Nasareta bejtégame , alué napu ruwime nile napu anele Onorúgame . 'We 'la benégame nile we'ká e'karúgame nóchaga abiena rejcholi ruigá napugiti Onorúgame a'walila nígame níligame . Onorúgame 'we a'lá nirale suwábaga napurigá 'sile alué Esusi abiena ralámulichigó .
+42024025	~		A'lígeko alué Esusi anele : ― ¡ 'La tabilé 'nátanti ju 'emi , tabilé o'má bijchíginti napu anílige alué 'ya mochígame napu ruwime nile napu anele Onorúgame !
+42024038a	Chonigá		Nobi Esúsika anele ko : ― ¿ Chonigá majawíché 'emi ? 'Émika tabilé 'cho bijchigi ne Esusi ku ajániligo .
+42024038b	~		
+43001019	Chieri		Alué e'wélala jurío Rusaleni anilichi mochígame napu'lige machisá ralámuli rewará ajtigó Juani , a'lige juláliru jaré balé , 'lige jaré ralámuli napu lebita anilime nile , napurigá regá rukémala alué Juani : ― ¿ Chieri ju mué ?
+43001021	~		'Liko rukéleru Juani alué ralámulite : ― A'lígeko , ¿ mué ju alué 'ya bejtégame napu Elíasi anilime nílige , alué napu ruwime nile napu anele Onorúgame ? 'Lige Juánika anele : ― Neka tabilé ju . 'Lige ralámuli uchéchigo siné rukele : ― ¿ Alué napu ruwime nile napu anele Onorúgame , alué napu nawámaráe , alué júleke'é mué 'liko ? ― anile alué ralámuli . 'Lige Juánika anele : ― Tabilé .
+43001022a	chieri		'Lige alué ralámulika anele : ― ¿ Chieri ju mué 'liko ? 'La rupóagurú napurigá ramué 'la ma'chígime ruyéwampá alué e'wélala ku sebasa . 
+43001022b	Chonígó		¿ Chonígó mueka ?
+43001025	chonigá		'lige alueka rukele : ― Mué tabilé alué rewagáchika nawágame nísaká , 'lige tabilé Elíasi nísaká mué , 'lige tabilé alué uché bilé rió nísaká mué napu ruwime nile napu anele Onorúgame , 'liko ¿ chonigá rewará mué ralámuli ?
+43001038a	tachiri		'Liko Esusi , napu'lige gu'lía etele alué oká rió guwánaka e'yénigo , 'lige rukele : ― ¿ Tachiri 'yaga e'yénili 'emi ? ― anele . 'Lige alué oká rioka nejele : 
+43001038b	koche		― Mué benírame , ¿ koche che'lébame ju mué ?
+43001046	~		'Lige Natanaélika anele : ― Tabilé 'wesi i'té a'ká ralámuli alé Nasareta anilichi . 'Lige Belípeka anele : ― Jeka simigá e'newa , 'liko 'la machiboa .
+43001048	Churigá		Natanaélika akele alanichi Esusi 'lige anile : ― ¿ Churigá machígó mué ne'chí ? 'Lige Esúsika nejele : ― Neka alé 'mi chunachi pachárale ilígichi eté ne mué abé bajchabé ta'chó bailichi mué Belípete .
+43002004	chonigá		'Lige Esusi nejele : ― ¿ Mueka , chonigá alaníché ? Ta'chó sébago ne nila raweli .
+43002018a	~		'Liko napu'lige etea 'ma suwábaga ralámuli mabuchi , alué ralámuli juríoka anile : ― Mué a'lá nulérigime nísaká Onorúgamete napurigá ala'símala , newáwagó 'liko bo'né 'nátaga 'we semátiri tábiri napu tabilé gayéname ju ralámuli newá napurigá ramué machibómpá 'la Onorúgamete 'yárigame ko mué alieri a'walí .
+43002018b	~		
+43003004	Churigá		'Lige Nikorémioka rukele : ― ¿ Churigá 'la uchéchigo siné ochérimalewé bilé rió 'ma we'ká bamígame nisa ? ¿ Ku eyela rojpálachi bajkimela napurigá uchéchigo siné ochéramala ?
+43003009	Churigá		'Liko Nikorémioka uchéchigo rukele : ― ¿ Churigá 'la alarigá nímalawé ye ? ¿ Churigá 'la gainámalawé bilé rió Onorúgame Alawala narea ?
+43003012	~		Mueka tabilé bijchigi ye ra'íchili napu ne ruwí , ye ra'íchilika ruyame júkuru alakió jena wijchimoba . 'Liko ne ruisáká alakió 'pa rewagachi , a'liko abéchigo pecha námamalagó mué .
+43004009	chonigá		'Lige alué mukí Samaria bejtégame ka anele : ― Mueka ralámuli jurío ju . Ralámuli Samaria ejperégame ka tabilé 'yuga ra'íchame ju alué ralámuli jurío 'yuga . ¿ Mueka chonigá tánibaché ne'chí ba'wí bajimia ? Neka Samaria bejtégame mukí júkuru .
+43004011	koche		'Lige alué mukika tabilé námale 'lige anile : ― Mué Wa'lula , mueka tabilé ni bilé sikolí , asíriga re'lé rojkógichi ilí ba'wí . 'Liko ¿ koche ni mué alué ba'wí napu ená ilí ?
+43004027a	Chonigá		A'lige ra'icha jágichi , sébale alué ralámuli Esusi oyérame , 'lige alué oyérame pe i'kilí jale e'negá 'nata : « ¿ Chonigá 'yuga ra'icha ilípaché alué mukí Samaria bejtégame 'yuga ? » Tabiléchigo che aníleko nibilé tábiri rukélechigó .
+43004027b	~		
+43005012	Chieri		A'lige rukéleru alué rió : ― ¿ Chieri júkó alué rió napu anile : « Ro'miná mué gemala 'lige simigá » ?
+43005044	~		'Émika 'we ganílime ju tabiri nóchali newigá napurigá uché jaré 'la semáriga nirámala , napurigá 'we a'lá niraga ra'ichámala 'emi olagá . Nobi tabiléchigo 'la 'nátago 'la semá nokiame napurigá 'we a'lá niraga ra'ichámala Onorúgame 'emi olagá . Alekeri tabilé 'la bijchígamala napu ne ruwí .
+43005047	~		'Emi tabilé bijchígasaká napu Moisesi osale , 'liko tabilé bijchígimala napu ruwimela ne .
+43006005	Koche		Esúsika etele we'ká ralámuli moyena e'yénigichi alérimi Esusi ajtígichi . A'lige Esusi anele Belipe : ― ¿ Koche raliboa baní napurigá go'mela alakí ralámuli ?
+43006009	~		― Jena ajtí bilé re'malí maligi baní o'kame sebárate newárigime 'lige oká ro'chí , nobi asíriga u'tá go'ame júkó napurigá go'mela alakí ralámuli .
+43006025	chiéniko		'Lige 'ma seba bajuniga , alé asale Esusi , 'lige alué ralámulika rukele : ― Mué benírame , ¿ chiéniko seba mué jena ?
+43006028	Chonikiboli		'Liko alué ralámulika regá anele : ― ¿ Chonikiboli ju ramué napurigá 'la cha'piboa alué 'nátili ?
+43006030a	Chu'simi		'Lige anile alué ralámuli : ― Newágó pe bo'né a'walílate 'nátaga alué nóchali 'we semátiri napurigá 'la etéwampá ramué . A'lígeko 'la oyériwa alué mué na'tálila . ¿ Chu'simi olágó mué ?
+43006030b	~		
+43006042	chonigá		'Lige rukigá járiga a'bopi anile : ― ¿ Tacha Esusi ju ye rió , alué José inolá ? 'We a'lá machiame ke ye rió o'nola , 'lige 'we a'lá machiáa ye rió eyela . A'lígeko ¿ chonigá rewigáchika nawágame koríbeché ?
+43006052	Churigá		'Lige ralámuli jurío 'we ayoga ra'íchale a'bópika . 'Lige anile : ― ¿ Churigá bo'né sa'pala nejímalabeché ye rió napurigá go'mela ralámuli ? Alarigá anile tabiléchigo námalakó napu anile Esusi .
+43006060	~		Napu'lige akesa ye ra'íchali we'ká Esusi oyérame , anile a'bopi : ― Asíriga nóchali kame ju ye ra'íchali beniaa . Tabilé 'wesi námamala .
+43006062	chulámalaché		'We e'karúgame na'tálika ne 'la ruwichi ye ra'íchali , ¿ chulámalaché 'emi ne'chí etea napu'lige re'pá rewagachi simichi ne napu asale ne 'yabé bajchabé rawé ?
+43006068	chieri		'Lige Simoni Pégroka regá anele : ― Mué Wa'lula , ¿ chieri 'yuga simáwawé ramué ? Mué júkuru napu ra'íchame ju ra'íchali napu 'la nejkúrame ju napurigá rewagachi sebawa 'lige 'la Onorúgame 'yuga ejperélewa senibí niraga .
+43007011	Koche		Alué ralámuli jurío e'wélala 'we 'yaga e'yénale Esusi alé piéstachi , regá anigá a'bopi : ― ¿ Koche ajtípué alué rió ?
+43007015	Churigá		'Lige jurío e'wélala pe e'negá ejtebile , 'lige regá anile alué ralámuli a'bopi : ― Ye rioka tabilé simígame ke eskuélachi . ¿ Churigá 'la machíbeché suwábaga alué ra'íchali ?
+43007019	chonigá		― ¿ 'La bijchiá ju Moisesi 'síligo beniria alué nulalí 'emi ? 'Lige 'emi tabilé 'wesi 'la sébali olá alué nulalí . 'Liko ¿ chonigá ne'chí 'yaga e'yénaché 'emi ne'chí me'lináliga ?
+43007020	Chieri		'Lige ralámulika anile : ― Mueka Remónisi alawala ajchágame ju . ¿ Chieri rió me'linali mué ?
+43007023	chonigá		'Lige pe 'la sébali olániliga napurigá nulale Moisesi , 'lige ¿ chonigá ayóbeché 'emi ne'chí 'yuga 'la 'yochi ne bilé rió sawalachi rawé napu resíbulichi ju ?
+43007035	Kochiena		'Lige alué ralámuli jurío a'bopi regá anile : ― ¿ Kochiena simé oláwé ye rió napu ramué tabilé rewiboa ? ¿ Alé uché bilena riógachi simé olale napu jaré ralámuli jurío mochí alué uché jaré ralámuli 'yuga napu se'wináriga ra'íchame ju , amináchigo uché jaré ralámuli benírimia ?
+43007036	Chonióríbeché		Ye rió aní ramué simáwaráo 'yawa alué rió 'lige tabilé rewibóráo , 'lige aminami tabilé sebáwaráo napu asimeo bo'né . ¿ Chonióríbeché alarigá ?
+43007041	~		'Lige jaré regá anile : ― Ye rió Esusi alué Kristo ju , napu ralámuli buinámili ju chátiri bowechi . 'Lige jaré regá anile : ― Krístoka pecha ejiro Galiléachi ochérimili júkó .
+43007045	Chonigá		'Lige 'ma ku ro'isa alué sontalo , alué e'wélala balé 'lige bariseo rukele alué sontalo regá : ― ¿ Chonigá tabilé a'párupaché ?
+43007048	~		¿ Alué e'wélala ralámuli jurío nuleme 'lige alué bariseo e'wélala 'ma bijchígile alué rió ra'ichálila ? Tabilé siné bijchígilime niru ramueka nibilé alué e'wélala .
+43007051	~		― Regá aní ramué nila ra'íchalika : tabilé lisensia nígame niru ramué napurigá gastigáriwa bilé rió tabilé akésiga ramué a'boi alanichi bilé rió . 'La 'we a'lá machiame júkuru bajchá .
+43008005	chonígó		Moisesi ra'ichálila anime júturu me'liame ko rejtete basibuga bilé mukí ala'sime napurigá 'sile ye mukí . ¿ Mueka chonígó ?
+43008010	Koche		A'lige Esusi o'weti ilísiga , 'lige rukele : ― ¿ Koche simíbale ? Tabilé 'wesi i'tékuru napu mué bajsibuga me'linálile . 'Lige alué mukika regá nejele :
+43008019	Kochiena		'Liko rukéliru Esusi alué ralámulite : ― ¿ Kochiena ajtí mué o'nola ? 'Lige Esúsika regá anele : ― 'Émika tabilé machí chieri ko ne , 'lige tabilé machí chieri ko ne O'nola . 'La machime nísaká 'emi chieri ko ne a'lígeko 'la machimeli ke 'emi chieri ko ne O'nola .
+43008025a	chieri		'Lige alué ralámuli jurío regá rukele : ― ¿ Chieri ju mué ? 'Lige Esúsika regá nejele : ― Neka 'ma ruwíturu 'yabé bajchibé rawé .
+43008025b	~		
+43008033	chonigá		'Lige alué ralámuli juríoka regá anile : ― Ramueka Abraámi rijimala niru 'we 'ya bejtégame . 'Lige tabilé siné napurigá ralirúgame ralámuli niru ramué bilé wa'lúlate . A'lígibeché , ¿ chonigá alaníché mué napurigá bilé wa'lúlate ralirúgame ralámuli nírigo ramué ? Peka ralirúgame nírigichi ramué .
+43008043	Chonigá		¿ Chonigá tabilé námaché 'emi napu ruwí ne ? ¿ Tabilé akénili ne ra'ichálila ?
+43008046a	chieri		¿ Chieri 'emi 'la machígó ne cha 'sika ilírome ka ? Ruisígó . Neka peka siné 'yégiga ra'íchame kachi , 
+43008046b	chonigá		'lige ¿ chonigá tabilé bijchígibeché 'emi napu aní alué ra'íchali ?
+43008053	chieri		¿ Mueka abé najtékame ju me'tigá alué Abraámi napu ramué rijimala ju , alué napu 'ya asale jena ? Alueka 'ma 'ya mukule 'lige alué ralámuli napu ruwime nile napu anele Onorúgame 'ya mochígame abiénachigó 'ma suwile . ¿ Mueka chieri korígó mué bo'nepi ?
+43008057	~		'Lige alué ralámuli juríoka regá anile : ― Mueka pecha malígisa makué bamígame júkó , 'lige mueka 'la etégorí alué Abraámi . Napu'lige bejtele alué Abraámi jena 'ma we'ká siento bamí júkuru .
+43009002	chonigá		'Lige alué Esusi oyérame rukele : ― Mué benírame , ¿ chonigá tabilé ma'chílime ochérile ye rió ? ¿ Cha nokale alué bo'né o'nola 'lige eyela , alekeri gite alarigá ochérale ? O ¿ alué bo'né 'we resí 'sika ilírome nile ?
+43009010	Churigá		'Liko rukéleru : ― ¿ Churigá 'la ma'chili mué jípeko ?
+43009012	Koche		'Liko rukéleru : ― ¿ Koche ajtiko alué rió ? 'Liko alué rió anele : ― Neka tabilé machí .
+43009016	Churigá		'Liko jaré bariseo anile : ― Alué rioka napu ye 'yole pecha Onorúgamete nulérigime júkó , napugiti pecha nerame kame wa'lú rawé . Alekeri tabilé Onorúgame oyérame júkuru alué rió . 'Lige jaré anile : ― ¿ Churigá 'la gayénabeché aliena 'la sa'wá napu 'we resí 'sika ilírome ke ? Tabiléchigo 'la a'chigóriga 'nátiga aníleko alué bariséoka .
+43009017	chonígó		'Liko uchéchigo siné rukéleru alué rió napu tabilé ma'chílime nílige abé 'ya : ― Mueka , ¿ chonígó alué rió olagá napu 'yole mué ? 'Lige alué rioka anile : ― Neka aníguru pe bilé rió ko napu ruwime ju napu ané Onorúgame .
+43009019	Churigá		'Lige rukéleru : ― ¿ 'Emi inolá ju ye rió napu tabilé ma'chílime koriánié 'emi , napu tabilé ma'chílime ochérigame koriánié 'emi ? ¿ Churigá 'la ma'chílibeché jipe ?
+43009026a	Churigá		'Lige uchéchigo siné rukéleru alué rió : ― ¿ Churigá 'la sa'wárukó mué alué riote ?
+43009026b	~		
+43009027	Chonigá		'Lige alué rioka regá nejele : ― 'Ma ruwí ne , 'émika tabiléchigo bijchíginiligó . ¿ Chonigá najkíché 'emi napurigá uchéchigo siné ruyewa ? ¿ 'Émichigó alué oyérame gainánili ?
+43009034	Churigá		'Liko alué bariseo anele 'we ayóniga : ― Mueka , asíriga resítiri sulega ochérale , alekeri tabilé ma'chílime ochérale mué . ¿ Churigá 'la benírumalawé mué ramué ? 'Liko 'ma mabúliru alé napu e'wélala mochile .
+43009036	chieri		'Lige alué rioka anile : ― Mué Wa'lula , ne'chí ruyéwagó chieri ka alué napurigá ne 'la nirámempá aminami 'la bijchígimempá ne alué rió ra'ichálila .
+43010020	Chonigá		Jaré alué ralámuli jurío regá anile : ― Alueka bilé remónisi alawala ajchágame ju pachágana , pe lo'í ju . ¿ Chonigá gepúlibeché ?
+43010021	~		'Lige jaré anile : ― Bilé rió u'tabela remónisi alawala ajchágame nísaká pachágana pecha aliena 'la semátiri ra'ichámilikó napurigá ra'icha ye rió . Bilé u'tabela remónisika pecha gainámalagó bilé ralámuli tabilé ma'chílime sa'wá .
+43010024	Chiéniko		'Liko we'ká ralámuli jurío napuíle noligá alé napu ilile Esusi rukéniliga uché rajpé . 'Lige rukele : ― ¿ Chiéniko ruimé olá mué chieri ko mué bo'né ? 'La bijchiá ruipóguru , ¿ mué ju Kristo napu buinámala ralámuli chátiri bowechi ?
+43010032	Tachiri		'Lige Esúsika anele : ― Neka asíriga we'ká semátiri nóchali nóchaturu napurigá 'emi etémala , O'nó Onorúgame a'walílate newáturu ne alué semátiri nóchali . ¿ Tachiri nóchame korigá bajsibúwaché ne ?
+43010036	chonigá		'Lige alarigá nisa , 'lige ¿ chonigá gastigáriniliché ne'chí Onorúgame Inolá korichi ne bo'né ? Onorúgameka ne'chí wanápale 'lige alekeri júlale ne'chí jékana wijchimoba . ¿ Chonigá laníché 'émika ne tabilé nirame ko Onorúgame ?
+43011034	Kochiena		'lige anile : ― ¿ Kochiena rekaru ko alué mukúgame ? 'Lige anéleru : ― Mué Wa'lula , aka simáwa'é e'newa .
+43011047	Chonokiboa		'Lige jaré bariseo 'lige alué e'wélala balé júlale napurigá napabúniliga alué uché jaré e'wélala , 'lige anile a'boi ra'íchaga : ― ¿ Chonokiboa ? Ye rioka asíriga i'kirú 'siá simíguru tabilé siné etérume .
+43011056	choniágó		'Lige ralámulika 'we 'yaga e'yénale Esusi . Napu'lige ra'icha jale alé wa'lú re'obachi ra'pichí , regá rukigá járale a'bopi : ― ¿ 'Émika choniágó ? ¿ Pala nawamio mayelia 'émika Esusi napu'lige nerúgichi alué piesta ?
+43012005	Chonigá		― ¿ Chonigá tabilé ralinérupeché ye ba'wí 'we semá júkame napurigá alué enomí tabilé nígame ralámuli kógiwa ? Asíriga najteme júkuru alué ba'wí semá júkame , napu ekí meme ju bilé rió bilé bamí nóchiga .
+43012027	Chonimela		'Lige Esusi aminabi anile : ― Jípeko asíriga we'ká 'nata ne . We'ká 'nata ajtí ne alakimeo ne . ¿ Chonimela ne ? ¿ Tánamala ne O'nola Onorúgame napurigá tabilé che ikimela ne napu'lige resí ikimeli ju ne pe 'we ? Tabilé tánamala ne alieti . Neka jena wijchimoba nawákuru resí ikimea .
+43012034a	chonigá		'Lige ralámuli anile : ― Alué Onorúgame ra'ichálila 'ya nerúgame 'we a'lá ruwime ju alué rió napu ramué buinámili ju alé resítiri bowechi , alué rió 'la nabí bejtélimili ju . 'Lige ¿ chonigá laní mué alué rewigáchika nawágame gulusichi chujkugá mukumeli ko ? 
+43012034b	chieri		¿ Chieri júpaché 'lige alué rió 'pa rewigáchika nawágame ?
+43012038a	chieri		Alarigá nímili nílekuru , asíriga 'ya osirúgime nílekuru alué osilí napu osálige alué Isaíasi anilime rió napu ruwime nile napu anele Onorúgame . Regá anime nile : Mué Wa'lula , ralámulika tabilé bijchigi ramué ra'ichálila . ¿ Chieri ralámuli etiágó chiena a'wágame ka mué ?
+43012038b	~		
+43013025	chieri		'Liko alué Juani abéchigo a'bé asíbale napu asálige alué Esusi , 'lige rukele : ― Mué Wa'lula , ¿ chieri júkó ?
+43013036	koche		Napu'lige Esusi anílige tabilé gainamio simiba ralámuli napu simeli nílige bo'né , 'lige Simoni Pegro Esusi rukele : ― Mué Wa'lula , ¿ koche simé olá mué ? 'Lige Esúsika nejele : ― Napu simé olá ne , tabilé gainámala mué ne'chí najatia . Pe abé i'libeko najátamala mué ne'chí .
+43013037	Chonigá		'Liko Pégroka anele : ― ¿ Chonigá tabilé najátawa mué jipe ? Tabilé chéré rekó me'liruge ne , neka abirigá 'we a'lá listo ajtíkuru mué si simea .
+43014002	~		Alé 'pa ne O'nola galílachi asíriga we'kaná nerú napurigá ejperega mochímala 'emi . Ta bijchiá nísaká , pecha animé ko ne alé simeo 'we a'lá gatemia napurigá 'emi ejperélamala .
+43014005	churigá		'Lige anele alué Romasi : ― Mué Wa'lula , tabilé machiaa ramué alé napu simé olá mué . 'Lige ¿ churigá machibówé alué ko bowé alé simime ?
+43014009	chonigá		'Liko Esusi anile : ― Mué Belipe , 'ma asíriga we'ká rawé ajtíkuru ne 'emi 'yuga , ¿ bijí tabilé 'cho machí mué ne'chí ? Bilé rió ne'chí eteme ka , alueka ne O'nola Onorúgame abiena eteme júkuru . 'Liko ¿ chonigá tánebeché mué ne'chí napurigá elawa napurigá mué 'la etémala alué O'nó Onorúgame ?
+43014022	churigáriga		'Lige Jurasi asale alé , alué napu tabilé Jurasi Iskariote nile , 'lige anile : ― Mué Wa'lula , ¿ churigáriga júpaché ? ¿ Chonigá pe ramuecho benírama oláché mué chieri ko mué , 'lige chonigá tabilé benírama oláché mué uché jaré ralámuli chieri ko mué ?
+43016005	Koche		› Jípeko 'ma simé ne alué napu ne'chí júlale jékana alué 'yuga asimea . 'Lige 'émika tabilé ruké ne'chí : « ¿ Koche simé olá mué ? »
+43016017	Tachiri		'Liko anile jaré alué oyérame a'bopi ra'íchaga : ― ¿ Tachiri ju alué napu ruyá aní ? Regá aniáníguru : « Pe u'kabi rawé kachi pecha etémalawé 'emi ne'chí . » 'Lige aniáníguru : « Pe abé i'libeko 'la etémala 'emi ne'chí . » 'Lige aminami aniáníguru : « Neka O'nó bejtélachi simeo oláguru , alekeri tabilé etémala 'emi ne'chí . »
+43016018	Tachiri		'Lige alué oyérame uché rajpé rukele : ― ¿ Tachiri ruyame ju napu'lige alarigá ra'icha « pe u'kabi rawé » kachi aniá ? Tabilé námalia ramué alieti ra'íchiga anió .
+43018004	Chieri		Esúsika 'ma machigá asale suwábaga alakimeo , alekeri etesa , pe'tá simile najtepamia , 'lige rukele : ― ¿ Chieri 'yamía 'emi ?
+43018007	Chieri		A'lígeko Esusi uchéchigo siné rukele : ― ¿ Chieri 'yamía 'emi ? 'Lige sontáloka nejele : ― Esusi , Nasareta anilichi bejtégame .
+43018011	~		'Lige Esúsika nulele Pegro : ― Ku reká alué siparina alé napu ma'chí pa mué . Ne O'nola Onorúgamete ajchárigame ju ne napurigá ejelímala . ¿ Tabilé mayé mué 'la sébali olamio ne ye resí ikiame ?
+43018021	Chonigá		¿ Chonigá ne'chí rukéliaché suwábaga ye ra'íchali ? Alué ralámuli napu ne'chí gepule , alué rukéwaguru suwábaga ra'íchali rukewa napu aníligo ne . Alué ralámuli 'la machí suwábaga napu aníligo ne .
+43018023	chonigá		Esúsika regá nejele : ― Ne se'winá charigá aniákó , ruwígó churigá ko . 'Láchigo 'la bijchiá kágobá napu aní ne . ¿ 'Lige chonigá wejpápaché mué ne'chí ?
+43018029	Tachiri		Alekeri alué selígame Pilato anilime ma'chínale alé pachaka galíraleká , 'lige regá rukele : ― ¿ Tachiri gite nejiga e'yénilia 'emi ye rió ?
+43018035	Tachiri		Pilátoka regá nejele : ― Neka tabilé chélá wa'lula ko mué o tabilé wa'lula ko mué . Neka tabilé jurío ju . Alué ralámuli jurío 'lige alué balé e'wélala nokale mué nejía . Mué jurío júchigó . ¿ Tachiri chu'síkame júkó mué ?
+43018038	Tachiri		'Lige Pilátoka regá rukele : ― ¿ Tachiri júkó alué 'la bijchiá ra'íchali ?
+43019009	Koche		Ku pachá galírale bajkile Esusi 'yuga , 'lige rukele : ― ¿ Koche bejtégame ju mué ? Esúsika tabilé tábiri nejele .
+43019015	~		Alué suwábaga ralámuli jurío uchéchigo a'wágame ra'íchaga regá anile : ― ¡ O'togá , o'togá ye rió , bilé gulusichi ujchugá me'liboa ! Pilátoka regá anile : ― ¿ Najkiá 'emi napurigá me'liboa ye rió 'emi nuleme bilé gulusichi ujchugá ? 'Lige alué e'wélala balé regá nejele : ― Alué rioka tabilé wa'lula ju ramué nuleme . Bi'lepi wa'lula ju , alué napu ajtí alé Roma anilichi .
+43020013	chonigá		'Lige alué santo ánjelika rukele alué María : ― Mué mukí , ¿ chonigá nalá mué ? Maríaka regá nejele : ― 'Ma pecha néréko Esusi jena napu rekárilige , 'lige tabilé machí ne kochiena bo'igó .
+43020015a	chonagá		'Lige Esusi regá anele : ― Mué mukí , ¿ chonagá nalá mué ? 
+43020015b	chieri		¿ Chieri 'yaga eyena mué ? 'Lige María alué repume mayega , regá anele : ― Mué rió , mué 'sísaká alué Esusi o'toa , ruyewa ne koche bo'igó , 'lige ne bo'né 'símala ku jena a'pá .
+43021012	~		'Lige Esusi regá anele : ― Jeka simasi , 'ma go'poa . Suwábaga alué ralámuli mayele ye rió Wa'lula Esusi ko , nobi majale ko rukea pala 'la Wa'lula Esusi ko .
+43021020	Chieri		Simoni Pégroka gu'lile 'lige etele alué rió enágichi , alué rió napu Esusi 'we galeme nílige , alué rió napu a'bé asale go'yá Esusi 'yuga napu'lige napuíka go'álige bijí ta'chó cha'piá Esusi , alué napu regá rukele : « ¿ Chieri ju alué napu mué sayega ilibámala ? »
+43021021	chukimeli		Simoni Pégroka etesa alué rió enágichi , regá rukele alué Esusi : ― Mué Wa'lula Esusi , ¿ alué rioka chukimeli ju ?
+43021022	tachiri		Esúsika regá nejele : ― Ne bo'né a'résaká napurigá tabilé mukumela ye rió napusí ne ku bo'né nawasa , ¿ tachiri chureko mué si ? Mueka pe iligá ne'chí 'yuga enáwaguru .
+43021023	tachiri		Alekeri chojkile a'bopi ra'icha alué we'ká ralámuli Esusi oyérame , alué ra'íchali napu regá anime ju « tabilé mukumeli ju ye rió » , nobi Esúsika tabiléchigo alarigá anime ke anile . Pe anile : « Ne bo'né nerásaká napurigá tabilé mukumela ye rió napusí ne ku bo'né nawasa , ¿ tachiri chureko mué si ? » pe regá anile .
+44001011	~		Anele : ― 'Emi ralámuli Galilea ejperégame , tase e'negá jawa o'wétiri . Esúsika 'ma ku 'pa rewagachi simile , pe nujubapi ku nolínamaleké pe abalieri napuyeri kíbige .
+44002008	Churigá		¿ Aka abalieri ra'íchame júpaché ? ¿ Churigá júpaché ? Ramueka wanáchigo ejperégame niru .
+44002012	Chonigá		Suwábaga alé jale e'negá . Tabilé machiá alarigá ko . Jaré rukele machináliga : ― ¿ Chonigá alieri ra'icháliché ? ― anile .
+44002037	chukiboa		Napu'lige alanichi Pegro , alué ralámuli kilí mochile 'we seweka . A'lige ralámuli rukele Pegro uché jaré makué bilé Esusi 'yuga járome si : ― 'Emi ralámuli israelita napurigá ramué , ¿ chukiboa jipe ?
+44003012a	Chonigá		Pegro anele alué ralámuli : ― 'Emi ralámuli Israeli mochígame . ¿ Chonigá e'negá ja 'emi ? 
+44003012b	~		¿ 'Yome mayéleké 'emi ramué ? 'Émika mayéleké 'we a'lá a'walí nígame ko ramué , alekeri 'la sa'wáligo mayéleké alué rió . Tabilé bijchiá ju . Esusi júkuru sa'wame ka .
+44004007a	~		Napu a'lige napuísa alué e'wélala , alué Pegro 'lige Juani nasipa jawáliru . A'lige bilé alué wa'lula rukele Pegro 'lige Juani : 
+44004007b	chieri		― ¿ Chieri nejí lisensia napurigá 'yowa alué sujírigame ? ― anele .
+44004007c	~		
+44004016	Cholásiga		Anile : ― ¿ Cholásiga 'la nímala alué oká rió ? 'La sa'wale alué sujírigame . Suwábaga alué Rusaleni mochígame machíguru aliena 'la sa'wáliga . Alekeri tabilé chérigá anewa , pecha aniboa tabilé sa'wale .
+44004025a	chonigá		Mué Alawala gu'írile alué Rabí anilime 'ya bejtégame napurigá ra'ichámala napurigá najkile mué . Anile alué rió : ¿ Chonigá 'we na'áwaché suwábaga jena gawichí ejperégame ? 
+44004025b	chonigá		'Lige ¿ chonigá 'nátaché alué chátiri 'nátili ? Tabilé gayena rekó 'natie .
+44005003	Chonigá		A'lige anile Pegro : ― Mué Ananíasi . ¿ Chonigá bi'lepi 'nátame ju mué Remónisi 'yuga ? Mué 'yégale Onorúgame Alawala . Tabilé suwábaga a'pale mué enomí alué wasá ralinérigame .
+44005004	~		¿ Aka mué nila képaché alué wasá ? Napu'lige ralinesa alué wasá , aka enomí abiénachigó mué nila júpeché . Alekeri 'la gayénale mué napurigá najkile mué . Tabilé 'yégatélikuru mué . Mueka pe ramuecho 'yégaga iliro oláleké , Onorúgame abiena 'yégaga iliro mué ― anile Pegro .
+44005009	Chonigá		A'lige anele Pegro : ― Mueka , mué gunala si bi'lepi 'nátame nile . ¿ Chonigá saíla niru alué Alawá napu júlale alué Wa'lula Esukristo ? ¡ E'néwagrú ! Alué napu be'bé mo'íbage tomia mué gunala , a'má ku aleka e'yénakuru . Jípeko mué o'tomela .
+44007026	chonigá		'Lige melénala Moisesi etele oká bo'né rijimala nakó uchúkachi . 'Lige Moisesi tabilé najkile napurigá aminabi nakómala . Anele : « Aka rijimala júpaché 'emi , ¿ chonigá nakóliché ? » , anele .
+44007027	~		'Lige alué abé chojkila rajkibule Moisesi . Anele : « Mueka pecha selígame júkó napurigá gustisia olámala ne'chí .
+44007035	~		› 'Lige ku Ejipto simile alué Moisesi . Onorúgame ajchale alué Moisesi wa'lula neraga napurigá buinámala alué bo'né rijimala alé Ejipto mochígame napurigá simámala uché bilena napurigá tabilé resí nílamala . 'Yako alué Moisesi bijí alé Ejipto bejtégachi , tabilé galéliliru a'boi rijimálate . Anele alué rijimala : « Mueka tabilé selígame ju napurigá ra'íchali gatega einámala ramué 'yuga » , anele . Onorúgame napurigá bilé ánjeli niraga napu Moisesi etele alé 'mi o'weti ilígame wejchachi nasipa rajá ilígame , alué Onorúgameka júlale alué Moisesi .
+44007049a	chieti		Neka pe rewagachi ajtime ju 'lige bochígimi wijchimoba teka asame ju ne . ¿ Chieti galí elimo olago mué ne'chí , 
+44007049b	~		napurigá ne resíbumala ? Ne nulá suwábaga . Neka panápuri eyéname kame . Neka panápuri resíbame júkuru .
+44007052	~		'Emi a'chigóriga nokame ju napurigá 'emi rijimala 'ya ejperégame . Alué 'emi rijimala tabilé nirame nile alué ralámuli napu ruwime nílige napu anele Onorúgame , 'lige me'líliru alué ralámuli napu anile uché bilé nawamio ralámuli gu'írimia . Jipe pe kulí kachi nejile 'emi alué gu'írame Esusi . 'Emi nulele me'línalaga alué .
+44008031	~		'Lige anile alué rió : ― Tabilé , pecha 'wesi i'tigá napurigá ruyémala ne'chí . 'Lige bayéleru alué Belipe alé re'pá napurigá alé si enámala alé asagá .
+44008033	~		'Lige tabilé niráliru alué rió , pe napurigá bilé ajágame pe alarigá etéliru alué rió . Pe gastigáriliru alué rió ralámulite , pe tabilé niraga olale . 'We cha nokame nile alué ralámuli alé mochígame . 'Ma me'ale alué rió . Alarigá tabilé 'kúchigame nile alué rió napu me'líliru . Alarigá osale alué Isaíasi anilime rió 'ya ajtígame .
+44008034	chieri		'Lige alué rió Etiopía bejtégame rukele alué Belipe : ― Pe rekó , ¿ chieri rió nile alué napu tabilé galegá etéliru , napu me'liboli nile ? ¿ Aluéchala Isaíasi nile , o uché bilé nile ?
+44008036	chonigá		'Lige aba 'we simíbale alué alé karétachi mochiga , 'lige sébale alé ba'wí ilígichi . ― Aka jena 'la ilípaché ba'wí , ¿ chonigá ta rewaráwabaché mué ne'chí ? 'Ma 'la oyérame ju ne Esukristo ― anile alué rió Etiopía bejtégame alé ba'wí ilígichi sebasa . 'Lige anile alué Belipe : ― 'La nímaleké .
+44009004	chonigá		'Lige 'ma wijchí bo'íbale . 'Lige alé bo'igá akele bilé ra'íchili . Anile alué ra'íchili : ― Sauli , Sauli chonigá sairúgame niraga ajtípiché mueka ne'chí 'yuga ― anile alué ra'íchili .
+44009005	Chieri		― ¿ Chieri ju mué Wa'lula sikaniá ? ― rukele alué Sauli . ― Neka pe Esusi júke'é , pe aba alué ju ne napu mué 'yuga ayome ju .
+44009006	~		Jípeko ilísiwa simibóká alé 'mi wa'lú we'ká riógichi . Alé buwéwaká , ne julámala bilé rió alemi napurigá ruyémala chu'símiliká mué ― alarigá anile alué ra'íchili .
+44010004	Tachiri		'Lige alué Kornelio 'we majale alué alieti etega . 'Lige alué rió Kornelio rukele : ― ¿ Tachiri najkí mué Wa'lula ? ― anele alué rió Kornelio . 'Lige anele alué santo ánjeli : ― Onorúgame 'la aké mué e'kali tánichi . 'Lige Onorúgame 'we galegá etiá mué Kornelio napugiti 'we a'lá gu'írime kame mué alué ralámuli tabilé nígame .
+44010021	Chonigá		'Lige yati re'kísele alué Pegro . 'Lige anile alué Pegro alé yochi ilíbaga alué rió alé jágame etega : ― Ne ju napu 'emi 'ya . ¿ Chonigá 'yamí 'emi ne'chí ? ― anele Pegro .
+44010029	Chonigá		'Lige napu'lige Kornelio júlale alué ralámuli ne'chí bayéniliga , ne yati e'wá tabilé chélagá rekó 'émika e'sena ralámuli kachi . ¿ Chonigá jula mué Kornelio alué ralámuli ne'chí bayéniliga ? ¿ Tachiri nakiágó 'emi ralámuli ?
+44010047	~		'Lige Pegro anile : ― Alué ralámuli 'ma nígame ju Onorúgame Alawala napurigá ramué . Pecha che anéwagó napurigá tabilé rewarárigame nímala alué ralámuli ba'wichí bochígimi bokuíka ― anile Pegro .
+44011017a	'lacha		Onorúgame 'yásaká bo'né Alawala alué ralámuli tabilé jurío a'chigóriga napurigá 'yale ramué napu'lige ramué 'la bijchígirige alué Wa'lula Esukristo ko , 'lige ¿ ne 'lacha animela tabilé 'la ko Onorúgame Alawala bajkiá alué ralámulichi ? 
+44011017b	chieri		¿ Chieri ju ne napurigá Onorúgame saega asimela ?
+44012018	Koche		'Lige che'lisá we'ká 'nata mochile alué sontalo alué Pegro repúkame . ― ¿ Koche kiba alué Pegro ? ― anile alué sontalo .
+44013025	~		'Lige napu'lige amulí mukiá alué Juani , anile alué Juani : « 'Emi ralámuli buwewa bilé wa'lula napu Onorúgame julámioríle . Neka tabilé alué ju , neka pe se'nú ju . Alué napu 'emi buwé , alueka 'ma amulí seba , pe'wé pe'kabi rawé kachi 'ma sebámala alué wa'lula . Alueka 'we najtékame nímala . Neka tabilé alarigá najtékame ju , neka pe apiépiri rió kame . »
+44014015	Chonigá		― ¿ Chonigá alarigá nokiábaché 'émika ? Ramueka pe iligá rió niru napurigá 'emi , tase riosi niru ramueka ― anile alué rió alé jaga napu alué ralámuli we'ká jágichi jaga ― . Jipe jena jaru ramué napurigá ruyewa 'emi napurigá tabilé alarigá nokimela 'emi . Pe Onorúgame alé rewagachi bejtégame ka , alueka 'la bijchiá Onorúgame júkuru . Alué Onorúgame 'nalina oyérawaguru . Alué Onorúgame alé rewagachi ajtígame newale ye gawí , 'lige 'ma wa'lú ba'wítiri . Suwábaga napu ekí tábiri nerú jipe jena wijchimoba Onorúgame rewagachi ajtígame newalila júkuru ye suwábaga . Bi'lepi re'pá ajtígame Onorúgame newalila júkuru suwábaga tábiri .
+44015010	Chonigá		¿ Chonigá alanokiábaché 'emi Onorúgame tabilé niraga ? Alué isílala rijpunálime nulalika napurigá bilé mo'sogola 'we bejtégame tabilé anachálime , alarigá júkuru alué isílala rijpunali ka . Alué ralámuli ramué rijimala 'ya mochígame tabilé anáchale alué alarigá nulalí .
+44016030	churigá		'Lige yati ma'chí buyánale . 'Lige alué rió repume ma'chí buinasa alué ralámuli Páulo 'lige alué Silasi , 'lige rukele bilé ra'íchili : ― 'Emi rió ¿ churigá 'símala ne napurigá 'la e'kámala Onorúgame ne'chí ? ― anile alué rió alé iligá .
+44017018	Chieri		'Lige jaré ralámuli mochile alé Pekurio oyérame . 'Lige jaré mochile alué Seno anilime ra'íchili oyérame ralámuli . 'Lige alué ralámuli anile akisá Páulo ra'íchachi : ― ¿ Chieri júkó ye rió 'we we'ká ra'íchanti , ramueka tabiléchigo námatugó ? 'Lige jaréchigo anile : ― Pe uché bilé riosi najátilime najkigá aniá káwé ye rió . Alué rió Páulo ruwile alué Esusi ra'ichálila , 'lige abiénachigó ra'íchale ku ajániligo Esusi mukusá . Alekeri mayele alué ralámuli : « Pe uché bilé riosi najátilime najkigá aniá káwé ye rió . »
+44017019	tachiri		'Lige bayéleru alué Páulo alé bilena Areópago anilichi , alé napu napuíme nile alué ralámuli alué ra'íchili gatemia . 'Lige anile alué ralámuli alé mochígame : ― Ramué ralámuli machináliru alué ra'íchali , ¿ tachiri ruyame ko alué ra'íchili , alué napu mué ruyá aní ?
+44019003	tachiri		'Lige alué Páulo uchéchigo siné rukele , anile : ― 'Lige ¿ tachiri gite rewarárigame júkó 'emi ? ― anile alué Páulo . 'Lige alué ralámuli uchéchigo nejele , anile : ― Rewarárigame niru ramué ralámuli napurigá anílige Juani .
+44019015	chieri		Nobi siné nejele alué u'tabela remónisi , anele : ― Neka 'la machí alué ko Esusi , 'lige alué Páulo aba aké néchigó . 'Lige 'émika , ¿ chieri júpaché nokagá aniá ? ― anile alué remónisi u'tabela .
+44019035	~		'Lige bilé rió wa'lula alé we'ká riógichi , alué rioka 'la umébale alué ralámuli kilí jawia alé laniá jágichi . 'Lige anele kilí jábasa alué ralámuli : ― Suwábaga ralámuli napu ekí ejperéliru jena we'ká riógichi Ebeso , ramué ralámuli nílirukuru alué nóchili napurigá repúpua alué wa'lú re'obá jena we'ká riógichi ilígame , alué wa'lula Riana re'obala . 'Lige alué wa'lula napu alé rewagáchika wijchile napu alué Riana ju , alué abiena repugime júkuru ramué ralámuli jena we'ká riógichi mochígame .
+44021013a	chonigá		'Lige Páulo nejele alanilía : ― 'Emi ralámulika , ¿ chonigá naligíabaché pe ne'chí sewétigá ? Tabilé chérikáwé rekó ralámulika ne'chí bulé , 'lige rekó me'ae ne'chí alé Rusaleni mochígame ralámuli . Neka 'ma jena ajtíkuru mukumea alué Wa'lula Esusi oyériga ― anile alué Páulo alanilía .
+44021013b	~		 
+44021022	Chonokiboa		¿ Chonokiboa ramué jipe ? Napu'lige alué ralámuli akisá mué jena ajtigáráo , we'ká napuímala mué saíla . Tabilé ganílimala jena ajtígachi mué .
+44021033a	chieri		'Lige alué wa'lula sontalo alé a'bé simile . 'Lige nulale cha'píniliga alué Páulo . 'Lige nulale buléniliga oká karénate alué Páulo . 'Lige 'ma bulugá ajchasa alué Páulo , 'lige alué wa'lula sontalo rukele alué ralámuli . Anele : ― ¿ Chieri ju ye rió ? 
+44021033b	tachiri		¿ Tachiri nasibú ye rió 'emi ralámuli 'yuga ? ― anele alué rió .
+44022007	chonigá		'Lige ne 'ma wijchí bo'íbaturu . 'Lige alé wijchí bo'igá bilé ra'íchali akéturu ne . 'Lige aniéturu alué ra'íchali : « Sauli , Sauli , ¿ chonigá sayega eyena mué rió ne'chí 'yuga ? » , aníchane alué ra'íchali alé .
+44022008	Chieri		'Lige ne anéturu : « ¿ Chieri ju mué sikaniá ? » , anéturu ne alué ra'íchili . 'Lige aniéturu alué ra'íchali : « Ne rió ju Nasareta bejtégame alué Rabí rijimala napu nawámili nílige , napu mué najatu resí olániliga , alué ju ne . »
+44022010	chu'símili		'Lige neka rukéturu : « Mué Wa'lula , ¿ chu'símili júkó ne ? » 'Lige alarigá nejele : « Ilísiwa mué alé , 'lige yati simiboa alé 'mimi we'ká riógichi Ramasko anilichi . 'Lige mué rió alé we'ká riógichi Ramasko sebasa , alé bilé rió ruyémala mué churigá 'símio mué . »
+44022016	~		'Lige jipe tabilé aminabi buwewa mué . 'Lige yati rewarárigame niwa mué rió alé wa'lú ba'wichí bochígimi bokuíka , alué Wa'lula Onorúgame tániga e'kali napurigá e'kámala mué na'tálila . »
+44022026	~		'Lige alué gapitani alué ra'íchili akisá , simile alué abé wa'lula sontalo e'nemia . 'Lige simigá alué gapitani alé anele : ― 'We a'lá 'nátaga , siné kachi cha 'símirépokué mué alué rió 'yuga . Alué rioka 'we najtékame ju , 'lige aminami romano ju ― anile alué rió simigá alé 'mimi alué abé wa'lula sontalo e'nemia simiá .
+44023003	chonigá		― Onorúgame wejpimela mué rió . Mué rió 'we semáriga asagá aní kaka amóbaka , 'lige alué mué alawálaka 'we chóligame ke asagá aní alé . Mué 'we a'lá rejcholi ruyétékuru , 'lige pe chátiri ra'íchili ruyé aní mué alué ralámuli . Mueka ¿ chonigá nulébeché ne'chí wejpíniliga ? Pe sayega ra'icha mué rió alué 'we a'lala ra'íchili 'yuga . 'Lige alué ralámuli alé mochígame anele alué Páulo :
+44023009	~		'Lige abéchigo bochí anile na'áuka alieti ra'íchiga . 'Lige jaré alué bariseo napu benírame nile alué Moisesi nulalila , alueka o'weti jásele . 'Lige anile : ― Ye rió pecha che 'sika eyéneleko jemi . Siné kachi Onorúgame Alawálate 'we a'lá ra'íchame kéréleké ye rió . 'Lige siné kachi alué santo ánjeli 'yuga ra'íchame kéréleké ye rió . 'Lige ramué ralámuli lanelia ye rió , pe sayega ra'icháwaleké Onorúgame 'yuga ― anile alué ralámuli .
+44023019	Tachiri		'Lige alué rió abé wa'lula sontalo cha'pile alué re'malí sekala , 'lige 'minami o'tole alué ra'íchili rukemia . 'Lige rukele : ― ¿ Tachiri ra'íchili ruimé olá ko mué ? ― anile alué wa'lula sontalo .
+44026008	chonigá		'Émika ¿ chonigá ta bijchígame júkó Onorúgame ku ajánarime ko suwígame ?
+44026014	chonigá		'Lige ramué ralámuli 'ma wijchí bi'tibáruturu alué ra'ósalite rasoga . 'Lige alé wijchí bo'igá akéturu ne bilé ra'íchili . 'Lige aniéturu ebreo ra'ichálila ra'íchaga : « Sauli , Sauli , ¿ chonigá saega eyena mué rió ne'chí 'yuga ? ¿ Chonigá echébaché mué alué gusite napu roló ejchela ju napurigá o'wé simámala ? Alarigá simí mué , tabilé oyérame ju mué ne'chí . »
+44026015	Chieri		'Lige anéturu ne : « ¿ Chieri ju mué wa'lula sikaniá ? » 'Lige aniéturu alué ra'íchili : « Neka pe alué Esukristo ju napu mué 'we najátame ju resí olániliga » , anile alué ra'íchili .
+45002017	~		'Émika jurío korí 'lige 'we ra'sálá 'emi jurío kóriká 'lige 'we machime ju 'emi Moisesi nulalila 'lige 'we ra'sálá 'emi 'la Onorúgame oyérame kame .
+45002021	chonigá		'Émika 'we 'la rejcholi benírame ju uché jaré ralámuli , ¿ 'lige 'emi chonigá tabilé 'la benime júkó bajchá ? 'Émika benírame ju ralámuli tabilé 'la ko chigolia , ¿ 'lige chonigá chigome júkó 'emi ?
+45002028	~		Bilé ralámuli napu 'la bijchiá 'la Onorúgame oyérame ju , tabilé chéré rekó sikirétigame ke pe'tá isílala guwala .
+45003001a	tacha		¿ Tacha 'la júkó jurío níriga 
+45003001b	~		'lige sikerétigame níriga pe'tá isílala guwala wi'chila ?
+45003003	chukimélawé		'Lige ¿ chukimélawé 'ma a'resa Onorúgame oyeria jaré alué ralámuli 'lige napu 'la sikirétigame nile pe'tá isílala guwala wi'chila ? ¿ 'Lige 'lacha alekeri 'ma tabilé sébili olámalawé Onorúgame napu sébili olámorílige ?
+45003005	~		Regá 'nátame ju jaré ralámuli : « Napu'lige cha nokisuga 'lige ku guwana na'tásiga , suwábaga e'nesi chiena 'la semá 'sime ko Onorúgame ka . 'Liko tabilé 'la ju Onorúgame gastigaria ramué napu'lige cha nokisuga . › › ( Regá ra'íchame ju ralámuli napu tabilé Onorúgame oyérame ju . )
+45003006	~		Tabilé 'la ju alarigá na'talia . Onorúgameka tabilé 'yégimala napu'lige raweli sebasa napu Onorúgame gastigo 'yámili ju ralámuli .
+45003007a	~		Abirigáchigo jaréchigo regá anime ju : « Napu'lige ne 'yégali ra'íchachi , Onorúgame gu'írame kéré ne . 
+45003007b	~		Onorúgame pecha gastigáromili júkó ne'chí . »
+45003008	~		Jaré ralámuli anime ju , alarigá nejime kará ne rejcholi , tabiléchigo bijchiá júkó , alué ralámulika gastigáriwili ju .
+45003009	~		¿ Abé a'ká ralámuli niru ramué jurío abé a'lá 'nátame me'tagá uché jaré ralámuli ? Tabilé . Napurigá aní ne , suwábaga ralámuli tabilé a'lá alawégame niru rekó jaré jurío nírige 'lige aminami jaré tabilé jurío ke .
+45003027a	~		Ramueka pecha regá anéwagó Onorúgame : « Ramueka 'we 'la sébali olame niru alué nulalí Moisesi nila . » 
+45003027b	~		Pecha 'la ju rekó alarigá aniá , pecha 'la sébali olame nírigime . 
+45003027c	~		Onorúgameka 'we na'temá ramué napugiti ramueka Esukristo oyérame nírigime .
+45004001	Churigá		Regá aniboa : ¿ Churigá 'la na'temaka etele Onorúgame alué Abraámi ramué rijimala ye 'ya ajtígame ?
+45004003	~		Aka regá aníché alué osilí Moisesi osilila : « Onorúgameka regá 'nátaga etele alué Abraámi : Ye rió 'la rewagachi moinámala napugiti 'we 'la bijchígiligame napu aní ne . »
+45004010	Chiéniko		¿ Chiéniko 'la neraga etélekó ? ¿ Bajchá ta'chó sikirekia pe'tá alué isílala guwala o máchala nujubá 'ma sikirésiga ? Aka ta'chó sikirékiaguru pe'tá isílala .
+45005010	~		Onorúgame saíla nírige , 'lige 'ma gatele alué bo'né inolá náoliga napurigá me'liboa bilena gulusichi . Jípeko Onorúgame 'kúchila niru 'lige 'la rewagachi simawa napugiti Krístoka 'pa rewagachi ajtigame 'we tania Onorúgame napurigá Onorúgame 'la gu'írimala ramué .
+45005021	~		'We 'yasi chojkiná rawé 'we cha nokale ralámuli , jípesí abalarigá e'yena , alekeri suwime ju , 'lige Onorúgameka 'we 'la na'temaka gu'ira ralámuli jipe ejperégame napurigá e'wámala napurigá najkí Onorúgame , napurigá 'la rewagachi simámala napu'lige suwisá . Wa'lula Esukristo 'ma gatele napurigá Onorúgame najkí .
+45006001	Chonokibóaché		¿ Chonokibóaché 'liko ? ¿ 'We cha nokiboa napurigá Onorúgame abé na'temámala ramué ?
+45006002	'Lacha		¿ 'Lacha bijí i'níliga járome níwaché , 'ma a'régame nírige alué tabilé a'lá 'nátili , 'lige 'lacha bijí na'táwaché alué tabilé a'lá 'nátili ?
+45006015	~		'Émika 'ma tabilé regá 'nátame nísaká : « Neka ta'mé 'we chélá rekó tabilé umebe ne sébali olá Moisesi nulalila » , 'lige 'lacha alekeri cha nokogá e'yénamalawé 'emi .
+45006021	Tachiri		¿ Tachiri métukó 'lige 'emi alanokigá e'yénaga iligá pe chijúnaga e'yena 'emi jipe alanokisá napugiti 'émika 'we gawélime níligame Onorúgame ?
+45007007	~		¿ Tabilé sirbe ju alué nulalí Moisesi nila ? Abiénaguru , napugiti neka 'we 'la machiame chu'simía 'la ko , pe alué nulalí leéraga . Neka pecha machimékó chu'simía a'lá ko 'lige chu'simía tabilé 'la ko tabilé machisáká ne alué nulalí . Tabilé machisáká ne regá anime osilí chujkugó alé nulalichi : « Tase we'ká e'karúgamea tábiri niga asináliwa . Onorúgame tase alarigá najkí » , pecha machimé ko ne tabilé 'la ko alarigá na'tálila .
+45007024	Chieri		¡ Resí ikí ne ! ¿ Chieri 'la nejkúrimala napurigá ne 'we a'lá na'támala ?
+45008024	~		Esukristo 'ma o'tole ramué nila gastigo napurigá ramué 'la bi'wígame alawégame niwa 'lige buigá mochiru napurigá ku 'la semáriga nímala jena gawichí . Bilé ralámuli 'la etea napurigá ikimeli ju , 'liko alué ralámuli 'ma pecha buigá asimeli júkó .
+45008031a	Churigá		¿ Churigá júkó 'liko ? Onorúgame 'la ramué repuka asisáká , 
+45008031b	chiérite		'liko ¿ chiérite umériwawé ramué ? ¡ Ta'wésitegurú !
+45008032	'lacha		Onorúgameka pecha regá 'nátale ko : « Pe me'libóleké ne Inolá wijchimoba julásaká ne . » Iligá Onorúgameka júlale bo'né Inolá napurigá mukumela bilena gulusichi ralámuli nila gastigo o'togá . 'Lige ¿ 'lacha ta nejímalawé suwábaga tábiri napu 'la ju ?
+45008033	'lacha		Onorúgame 'ma 'la gu'írile napurigá sébali olame nímala 'emi . ¿ 'Lacha animélawé ralámuli pe cha nokame ko 'emi ? ¿ Aka bo'né Onorúgame 'ma 'la ma'chígime aníché tabilé gastigo naremio alué napu gu'íriliru Onorúgamete napurigá 'la sébali olame nímala ?
+45008034	~		Pecha animélagó ralámuli wa'lú gastigo narépuli ko ramué napugiti Kristo kame napu mukule , 'lige alué kame napu ku ajánale , 'lige jípeko Onorúgame 'yuga ajtíkuru 'we tania Onorúgame napurigá ramué gu'írimala .
+45008035	tachírite		'Liko ¿ tachírite umériwa ramué napurigá 'ma tabilé oyérame niwa ramué alué Kristo ? Tabilé tábirigurú . Krístoka abichilubi repúmala ramué . Rekó 'we resí níliga ejperélisiga , 'lige rekó 'we resí anésiga ralámulite , 'lige rekó 'we e'lowika e'yénisiga 'mimi mejkami , 'lige rekó 'we ejelísiga ukíbaga mejkami e'yénaga , 'lige rekó amulí me'lisuga ramué , ramueka pecha a'rewa oyeria Kristo napugiti bo'né Kristo abichilubi 'we 'la nejkúrimempá . 'Lige rekó 'ma suwisuge , abiena alué Kristo 'yuga mochiwa .
+45009014	Churigá		¿ Churigá júpaché 'líkobá ? ¿ Onorúgame jaré tabilé galegá eté ?
+45009019a	'Lacha		¿ 'Lacha anémalawé Onorúgame 'emi 'we i'níligame ralámuli ko ? Peka 'wesi ralámuli abé wa'lula neraga 'nátame kachi me'tigá Onorúgame . Siné kachi bilé 'emi regá animela : « Alarigá nísaká , 
+45009019b	chonigá		¿ 'liko chonigá gastigari Onorúgame ne'chí ? Neka 'la sébali olame ju napu Onorúgame najkí . »
+45009020a	chieri		¿ Chieri júpaché mueka napurigá alarigá anémala Onorúgame ? 
+45009020b	~		Bilé sikolí wejcholite newárigime 'lacha regá anémalawé alué ralámuli sikolí newágame : 
+45009020c	Chonigá		« ¿ Chonigá alieti sikolí newápeché mué ne'chí ? »
+45009021	~		Alué ralámuli sikolí newame , newame ju napu chibiyeri newánili alué wejcholite . Wejcholí josa bilé rió oká sikolí newame ju abaleké wejcholite , 'lige uneme ju napurigá bo'né najkí , bilé 'we 'la uneme ju ba'wí ro'igá 'lige bilé uneme ju go'ame kógimia Onorúgame .
+45009022	~		Onorúgameka a'chigóriga ju ralámuli 'yuga napurigá alué ralámuli sikolí newame . Jaré ralámuli 'la elime ju napurigá abichilubi 'we resí nokimela 'lige we'lisi anáchame ju 'lige tase yati ayome ju , 'ma a'kinana ayome ju 'lige 'we a'wágame gastigárime ju napurigá ralámuli 'la machimela Onorúgame wa'lú a'walí nígame ko .
+45009023	~		Jaré tabilé gastigárile iligá 'we 'la gu'írile napurigá machimela ralámuli 'we na'temame ko Onorúgame suwábaga ralámuli .
+45009024	~		'Lige tabilé chélagá etele rekó jaré jurío ralámuli nílige napurigá ramué 'lige jaré tabilé jurío kachi .
+45009030	~		Ye ra'íchilika pe anime kéré : Onorúgame 'la bi'wígame alawégame newáligo alué ralámuli tabilé jurío . Alué ralámuli tabilé juríoka tabilé oyérame nile Onorúgame abirigá 'la oyérale Onorúgame .
+45009032	~		
+45010006	Chieri		Bilé rió napu 'la oyérame ju Kristo , alué rioka 'la machí Kristo 'la sébali oláligo napurigá 'la rewagachi simawa napu'lige suwisuga . Alekeri gite nawale Kristo . Bo'né ku ajánale 'lige abé a'kinana 'ma rewagachi simile . 'Lige ramué napu 'la oyérame niru Kristo 'la rewagachi moináwachigó pe 'la Kristo oyériga . Pecha regá anibógó : « ¿ Chieri 'la nejkúrimalawé napurigá rewagachi moinawa ? ¿ Chieri nejímalawé alawá napu'lige suwisuga ? » Kristo 'ma gatele .
+45010007	Chieri		¿ Chieri nejímalawé alawá napu'lige suwisuga ? » Kristo 'ma gatele .
+45010008	~		Moisesi abiena regá anílechigó : « 'Émika 'we a'lá gepule alué rejcholi napu nulá 'we 'la bijchígilime ko napu aní Onorúgame . » Alué rejcholi ju napu ramué beníriru 'emi .
+45010014a	churigá		'Lige ¿ churigá 'la tánimalaché iwérali peka oyérame ke alué Kristo ? 
+45010014b	churigá		'Lige ¿ churigá 'la oyéramalaché Onorúgame alué ralámuli , 
+45010014c	~		peka 'cho siné e'yénaché alemi Onorúgame nila ra'íchali benírame ?
+45010015	churigá		'Lige ¿ churigá 'la simámalaché alué ralámuli Onorúgame nila ra'íchali benírimia aminá uché jarénami peka 'wesi i'tégichi napurigá julámala ? Aka regá aníché Onorúgame nila osilichi : « 'We 'la ga kame ju eteria alué ralámuli sébachi napu benírimili ju Onorúgame nila ra'íchali . »
+45010016	Chieri		Tabiléchigo suwábaga 'la oyéralekó Onorúgame nila ra'íchali . Aka regá aníleché alué Isaíasi 'we 'ya : « ¿ Chieri 'la bijchiá 'la oyéralekobá Onorúgame napu'lige ramué benírisiga Onorúgame nila ra'íchali alué ralámuli ? Tabilé 'wésiguru . »
+45011004	~		Nobi Onorúgameka regáchigo anélekó : « Neka tabilé a'ré napurigá me'liboa alué gichao mili ralámuli jurío napu tabilé tánime ju iwérali alué tabilé Onorúgame alué Baáli anilime napu pe newárigime ju . »
+45011007	~		Alué ralámuli israelita 'we e'wérali olame nile 'la sébali olániliga alué Moisesi nila nulalí 'la bi'wígame alawégame gainániliga . Onorúgame 'la niraga etele alué u'kabi ralámuli israelita napu bo'né najkile . 'Lige uché jareka tabilé nirale 'lige tabilé námame newale tachiri najkió Onorúgame .
+45011015	chukimélawé		Napu'lige alué ralámuli jurío a'resa Onorúgame oyeria , 'liko alué Onorúgame nila ra'íchali benírame uché jarénami simíbale napu ejperégame nile alué ralámuli tabilé jurío . 'Lige ¿ chukimélawé jena wijchimoba napu'lige alué ralámuli jurío ku 'la oyérasa Onorúgame ? Alué ralámuli jurío 'lige alué ralámuli tabilé jurío 'ma 'la bi'wimela alawala .
+45011018	~		'Lige 'emi ralámuli tabilé jurío tabilé gichiga etewa alué ralámuli jurío napu tabilé oyérame ju Onorúgame , napugiti 'émika kame napurigá alué olibo koriente atuala alé jino olíbochi na'chuchárigame , 'lige alué ralámuli juríoka ju napurigá olibo jino atuala 'lige nawala .
+45011033a	~		'We a'lá 'nátame ju Onorúgame , 
+45011033b	chieri		¿ Chieri 'la ruyémala rejcholi Onorúgame ?
+45011033b	~		ta'wesi anaga . 'Lige pecha 'wesi anámalagó Onorúgame .
+45011034a	chieri		« ¿ Chieri 'la machí napu 'nata Onorúgame ? 
+45011035	Chieri		¿ Chieri ralámuli kógile bajchá Onorúgame napurigá 'la nejímalachigó Onorúgame ? »
+45014004	~		Pecha aniame júkó bilé ralámuli nóchame tabilé 'la nóchachi tabilé alué rió batrónila níriká : « 'La abé najsinákuliti rió , tabilé benéganti nóchaga . » Alieti nísaká alué nóchame , pe bo'né batrónila machíleké . Bo'né Onorúgame 'la animela pala 'la nóchame ko o pala tabilé 'la nóchame ka alué ralámuli . 'Lige bo'né Onorúgame 'we a'lá gu'írimala napurigá 'la semáriga nochámala alué nóchame .
+45014010a	chonigá		'Liko ¿ chonigá gawéliga eteme ju mué alué uché jaré ralámuli Onorúgame oyérame ? Onorúgame bo'né animela : « 'Émika 'la sébali olálepá napu ne najkié . » 'Lige bo'né Onorúgame animela : « 'Émika tabilé sébali olálepá napu ne najkié . »
+45014010b	~		
+46001020a	~		Alué rió 'we machime ka pecha neyúrimili júkó Onorúgame 'yuga . 
+46001020b	~		Onorúgameka pe tabilé 'la 'nátame neraga etémala alué rió 'we machime , 
+46001020c	~		Onorúgameka cha benégame kame me'tigá alué rió .
+46002011	~		Bilé rió tabilé machimela alieti 'nata ajtigó chebilé rió , pe alué rió bo'neka 'la machimela alieti 'nata ajtigó bo'né o bo'né alawala abiena 'la machimela alieti 'nata ajtigó alué rió . Alarigá júkuru Onorúgame 'yuga . Bilé rió pecha machimeli júkó alieti 'nata ajtigó Onorúgame , pe Onorúgame Alawálaka 'la námamala alieti 'nata ajtigó .
+46002016a	~		Aka regá aníché Onorúgame nila ra'íchali 'we 'ya osirúgime : « Tabilé 'wesi rió i'té machime alieti 'nata ajtigó Onorúgame . 
+46002016b	~		'Lige aminami tabilé 'wesi rió i'té napurigá Onorúgame benírimala . » Nobi ramueka Onorúgame Alawala alawégame nírukó 'lige alekeri na'tálime niru napurigá Kristo .
+46003005a	chieri		¿ Chieri ju ne '
+46003005b	chieri		lige chieri ju Apolo ? Ramueka pe Onorúgamete nulérigime niru napurigá 'emi beníriwa napurigá 'emi 'la oyéramala Kristo . 'Lige a'pílipi ramué beníriru napurigá nulá Onorúgame .
+46004007a	~		Aka Onorúgame 'síleché se'unátiri 'nátali 'ya a'pílipi 'emi , alekeri 'emi tase na'támili júkuru abé jebénigame ko 'emi beníraga Onorúgame nila ra'íchali me'tigá uché jaré . 
+46004007b	~		Suwábaga 'nátali napu 'nátame ju 'emi pe Onorúgame 'sile aleké 'nátali 'yaa , 
+46004007c	chonigá		'liko chonigá 'emi 'we riólame júpaché 'la 'emi a'boi na'tálilate 'nátame kóriká .
+46004021	Churigá		¿ Churigá najkí 'emi napurigá ne simela 'emi kólimia ? ¿ Bilé gusí o'ká 'emi wejpisomia , o 'wéchala 'la ganíliga ?
+46005002	~		'Lige 'we ganíliga mochígara 'emi abisibi 'we riola . Iligá 'we chijunátékuru 'lige seweka mochítékuru . Alué rió ala'sime 'ma tabilé elítékuru napurigá bajkimela alé napu beniame ju Onorúgame nila ra'íchali .
+46005012	~		Neka tabilé lisensia nígame ju napurigá gustisia olámala alué ralámuli 'yuga napu tabilé Onorúgame oyérame ju . Alueka Onorúgame 'símili júkuru gastigaria ,
+46006001	chonigá		Napu'lige jaré 'emi na'áwame nisa uché bilé oyérame 'yuga , 'liko ¿ chonigá 'émika nejkúrili tánime júkó alué e'wélala napu tabilé Onorúgame oyérame ju napurigá gatémala alué na'áwali ? Iligá tániwakuru nejkúrili bilé Onorúgame oyérame napurigá gatémala alué na'áwali .
+46006003	~		¿ Tabilé machí 'emi gatémili ko alué santo ánjeli 'yuga ramué napu Onorúgame oyérame niru ? ¡ Aka alekeri abéchigo 'la gatéwili júkó ye jena gawichí nerúgame na'áwili !
+46006004	chonigá		'Liko ¿ chonigá 'émika gateme júkó alué na'áwili alué e'wélala mochígichi napu tabilé Onorúgame oyérame ju ?
+46006007a	~		'We enátiri ju nakolia 'emi a'bopi níriga . Pe a'kéwaguru chibi anichi 'emi olagá . 
+46006007b	~		'Lige aminami pe etéwaguru 'emi nila chigochi .
+46006009	~		¿ Tabilé machí 'emi alué cha nokame ralámuli tabilé simíbame ko alé napu ajtí nulá Onorúgame ? 'Emi ralámuli , tase tonto niwa . Ralámuli alué tabilé a'boi 'yula umugí 'yuga o'kome 'lige alué Onorúgame neraga eteme alué e'karúgame tábiri napu tabilé Onorúgame ju , 'lige aminami alué rióchoká okome ,
+46006016	~		¿ Tabilé machí 'emi , 'emi 'yuga o'kósaká alué umugí we'ká rió 'yuga o'kome , 'ma pe bi'lepi sa'pá gainamio 'emi sa'pala 'yúriga 'lige alué umugí sa'pala 'yúriga ? Pe a'chigóriga ju napurigá anélige Onorúgame alué Arani 'lige Eba 'we 'ya . Regá anele : « 'Emi oká ralámuli pe bi'lepi ralámuli neraga nímala . »
+46006019	~		¿ 'Émika tabilé machí 'emi ko Onorúgame Alawala re'obala , 'lige Onorúgame Alawala 'émichi bejtégame ko , alué alawá napu 'emi 'yáliru ? Aka Onorúgame ká'é ramué nuleme .
+46007016a	~		Abé 'la ju napurigá tabilé rojámala 'emi . 
+46007016b	~		Iligá 'emi Onorúgame oyérame gu'írimili júkuru 'emi a'boi 'yula 'la napurigá Onorúgame oyérame nímala .
+46009007a	chieri		¿ Chieri sontalo nóchame ju bo'nepi najtétiga go'ame ? Bilé ralámuli echisá i'wilí , 
+46009007b	tacha		¿ tacha go'yame ju alué i'wilí rakala ? 'Lige bilé ralámuli napu tebume ju bo'né bukula chibá , 
+46009007c	tacha		¿ tacha bajime ju rechí chibá sunasa ?
+46009018	chonigá		'Liko ¿ chonigá tabilé goblálome júpaché ne Onorúgame ra'ichálila beníriga ? ¿ Tachiri narémalaché ne ? Neka 'we ganílame ju ralámuli beníriga . Neka tabilé najkí napurigá ralámuli najtétamala ne'chí . Pe alarigá 'la ju .
+46010019a	~		¿ 'La námilia 'emi napu ne ruwí jipe ? Alué mono napu kógilime ju , 
+46010019b	~		¿ alawégame ju ? 'Lige ¿ 'la bijchiá 'la Onorúgame ju ? 
+46010019c	~		¿ 'We najtékame ju alué go'ame napu kógilime ju alué mono ?
+46010029	Chonigá		Mueka 'ma machíguru 'la ko napuyépiri go'ame go'aa , nobi iligá tabilé go'poa aleké go'ame napurigá tabilé chélámala alué rió napu pe kulí 'la oyérame ju Onorúgame . ¿ Chonigá tabilé go'meli júpaché bilé go'ame pe bilé ralámuli na'tasa tabilé 'la ko ?
+46010030	chonigá		Ne cheliera 'yásaká Onorúgame alué go'ame go'mea 'liko , ¿ chonigá cha anilíbiché ne alué go'ame go'yachi ?
+46011022	chonigá		¿ Tabilé galégame niru 'emi napurigá go'mela 'emi 'lige napurigá bajímala ? ¿ Chonigá tabilé nirame nírukó 'emi napu'lige napuísa alué ralámuli Onorúgame oyérame ? 'Lige aminami , ¿ chonigá gawéliga eteme níruko 'emi alué ralámuli napu tabilé nígame ju ? ¿ Choneme ne 'emi ? Neka pecha animeli go 'we a'ká ralámuli ko 'emi .
+46012017a	churigá		Tabilé najkégame níriká , pe buségamecho níriká , 'liko ¿ churigá akibóché ? Tabilé ajkégame níriká , 
+46012017b	churigá		'liko ¿ churigá júluwapaché ?
+46012019	chieti		Tabilé ronégame nísiga ramué , nibilé sekégame nibilé mo'égame , ¿ chieti níwapué ramué ? Buségame nísiga 'lige tabilé najkégame nísiga , o pe akégame nísiga 'lige tabilé ronégame nísiga , ¿ chieti níwapué ramué ?
+46014006	churigá		'Emi Onorúgame oyérame napurigá ne , ne simisá 'emi kólimia 'lige ne benírisa Onorúgame nila ra'íchali se'unáriga ra'íchaga napu 'emi tabilé námame ju , ¿ churigá nejkúramalawé ? Ne ruisáká 'la suériga napu Onorúgame beniri ne'chí , 'lige aminami ruisá ne napu machí ne , 'lige ruisá ne napu Onorúgame najkí , 'lige ne benírisa bilé tétali 'liko ne 'la ma'chígime beníguru , 'liko 'la nejkúrime nímala alué ra'íchali .
+46014007	chieri		Alué rabisílime napu ju alué baká buchilime , 'lige alué rabeli , tabilé ma'chígime rabisime nísaká , 'liko chieri ralámuli 'la machimélawé tachiri wiká rabisília alué baká bujchigá 'lige alué rabeli .
+46014008	~		'Lige bilena nakó nerúgichi , tabilé 'la buchésaká alué trompeta anilime , pecha 'wesi machimélagó nakó nerumio .
+46014009	churigá		A'chigóriga ikime ju 'emi 'yuga , 'emi tabilé 'la ra'ichásaká napurigá 'la námapua , ¿ churigá machibóaché napu aniá mochí 'emi ? 'Émika pe 'oni ra'íchame kárélamala .
+46014015	chu'símalaché		Alarigá nísaká , 'lige ¿ chu'símalaché ne ? Ra'ichámili ju ne Onorúgame 'yuga ne bo'né alawálate , abiena ra'ichámili ju ne Onorúgame 'yuga 'we 'la námatume ra'íchilite . 'Lige aminami wikarámili ju ne Onorúgame wikala , ne bo'né alawálate , 'lige abiena wikarámili ju ne 'we 'la námatume wiká .
+46014016	churigá		Mué wikarásaká Onorúgame wikala 'lige cheliera 'yasa mué Onorúgame se'winátiri ra'íchilite , 'liko ralámuli ¿ churigá cheliera 'yámalawé Onorúgame mué 'yuga pecha námame kame napu mué aní ?
+46014026	~		'Emi Onorúgame oyérame napurigá ne , napu'lige 'emi napuísa Onorúgame nila ra'íchali benimea , jaré 'emi wikarámili júkuru Onorúgame wikala , 'lige jaré benírimili júkuru , 'lige jaré ruimeli júkuru napu Onorúgame anele napurigá ruyémala ralámuli , 'lige jaré ra'ichámili júkuru se'winátiri ra'íchali , 'lige jaré ruyame nímili júkuru napu aní alué ralámuli se'wináriga ra'íchame , nobi suwábaga 'emi gu'írimili júkuru napurigá ralámuli aminabi benimela 'lige aminabi oyéramala Onorúgame .
+46014036	~		'Émika pecha bajchá naréleko Onorúgame nila ra'íchali , 'lige aminami pecha 'émicho naréleko Onorúgame nila ra'íchali .
+46015012	chonigá		Ye ju alué a'lala ra'íchali napu ramué ruigá e'yéniru : Kristo ku ajániligo . 'Liko ¿ chonigá aníché jaré 'emi suwígame tabilé ku ajáname ko ?
+46015029a	~		Alué suwígame tabilé ku ajánimili nísaká , 
+46015029b	Chonigá		'liko ¿ chonigá jaré ralámuli rewarame júpaché alué suwígame neraga ? 
+46015029c	Chonigá		¿ Chonigá alanokame júpaché peka bijchígime ke ku ajánamio alué suwígame ?
+46015030a	~		Tabilé ajánamili nísaká alué suwígame , 
+46015030b	chonigá		'liko ¿ chonigá a'kuepi amulí suwiyame nírupaché ramué ?
+46015032	chonigá		Tabilé ku ajáname nísaká alué suwígame , 'liko ¿ chonigá tabilé majame nílepaché ne alué ralámuli 'yuga ra'icha napu 'we jobátigame nile ? Tabilé ajánamili nísaká suwígame 'liko abé 'la júleké ganíliga ejperelia pe go'ame go'gá 'lige bajiga napugiti pe be'limi 'ma suwiboli kame .
+46015035a	Churigá		Jaré ralámuli regá 'nátame kérépukué : « ¿ Churigá ajáname kéréle alué suwígame ? 
+46015035b	chieti		¿ Chieti sa'pégame júpué ? »
+46015055a	~		« Ku ajánimili ju 
+46015055b	~		'lige tabilé siné mukumeli ju . »
+47002002	~		Neka tabilé sebánili alé 'emi tabilé a'résaká alué chátiri 'nátili . Neka najkí napurigá 'la ganíliga mochímala 'emi 'lige 'we a'lá 'nátaga bi'lepi 'nátili . Alarigá nokisáká 'emi , 'liko 'we ganíliga sebámala ne alemi .
+47002016	~		Alué ralámulika tabilé Kristo oyérame ju , napu'lige aké ramué ra'ichálichi , 'we a'lá machíguru re'lé simámili ko alé injierno anilichi , nobi alué ralámulika tabiléchigo 'nátame júkó . 'Lige alué ralámuli Kristo oyérame , napu'lige aké ramué ra'ichálichi , 'we 'la machíguru 'pa rewagachi simamio . Onorúgame a'walí nígame júkuru napurigá 'la semáriga ma'chínamala suwábaga ye .
+47003008	~		'Lige alué rejcholi napu benírale alué rió Moisesi 'we semati níleke'é kaka , nobi alué rejcholi napu jipe beniaa uché rajpé abé semati ju , me'tagá alué rió Moisesi rejchólila , napugiti jípeko Onorúgame Alawala nígame niru ramué ralámuli .
+47003009	~		Chiena 'la nílige alué nulalí napu alué Moisesi benírile alué ralámuli napurigá machimela chibi nokáliga , jípeko abé a'lá júkuru Onorúgame nejile bo'né Alawala napurigá 'la a'walí nígame niwa ramué ralámuli napurigá 'la sébali olawa napurigá nulá Onorúgame .
+47006014a	~		Bilé rió 'we 'la 'nátame nísaká Onorúgame 'yuga , tabilé gompaniéroga einámala alué rió napu tabilé 'la 'nátame ju Onorúgame 'yuga . 
+47006014b	~		Bilé rió bi'wígame alawégame nísaká , tabilé 'la bi'lepi na'támala alué rió chátiri alawégame 'yuga .
+47006015a	~		Alué Esukristo tabilé gompaniérola júkuru alué Remónisi . 
+47006015b	~		'Lige 'emi ralámuli tabilé gompaniérola niwa bilé rió tabilé Esukristo oyérame .
+47006016	~		Pecha 'la júkó alé Onorúgame galílachi bajkiá tániga enalia bilé mono newárigime napu tabilé Onorúgame ju . 'Lige Onorúgame Alawálaka jena ramué sulálachi bejtékuru . Ramué sa'pálaka Onorúgame bejtélachi ju . Alekeri tabilé 'la júkuru alué Remónisi na'tálila na'talia , tase napubuwa alué 'we a'lala 'nátili si . Ramueka Onorúgame galila nírukuru , alekeri 'we 'la bi'wígame niwa . 'Yako regá anílekuru Onorúgame : Ne alawala asimela bejtega 'emi ralámulichi . 'Lige 'emi ralámuli panápuri e'yénachi , alué alawaka aba alemi einámala 'emi 'yuga . Alué 'la ne'chí oyérame ralámuli , neka 'we a'lá galémala alué ralámuli . 'Lige alué ralámuli ne'chí oyérame , nabí ne'chí oyérimili júkuru .
+47011011	Chonigá		¿ Chonigá alarigá ra'icha ne ? ¿ Mayé 'emi ne tabilé galeo 'emi ? Onorúgame 'la sébali machíguru 'we a'lá galeo ne 'emi .
+47011029a	~		'Lige alué ralámuli Esukristo oyérame resí ikichi , 'lige ne 'we cháláme júturu napurigá ne bo'né resí ikime niraga . 
+47011029b	~		'Lige alué ralámuli Esukristo oyérame chibi 'sisa , 'lige ne 'we chijúname ju napurigá ne bo'né chibi 'síkame niraga .
+47012013	~		Neka tabilé naré alué enomí napu ne'chí 'yámoríle 'emi . Neka pe naréturu alué uché jaré Onorúgame oyérame ralámuli nejílala . Tabilé 'la nísaká alué 'emi nila enomí naregía , 'liko e'káibogó ne . Neka tabilé chibi 'síliga mayé ne . 'Émika pe abisibi najtékame ju napurigá alué uché jaré ralámuli .
+47012017	~		Tasemi jula ne bujéniliga enomí .
+48002014	chonigá		Alekeri 'ma ne'ocha ne alué Pegro suwábaga ralámuli etériga regá anegá : « Aka mueka 'ma a'regéché alué ralámuli jurío nila 'nátili rekó jurío ke mué , 'lige ¿ chonigá ala'simíché mueka ? Chijuna 'smíguru mué alué tabilé jurío ralámuli 'yuga go'gá . 'Liko mueka tabilé 'cho a'régame kéré alué ralámuli jurío nila 'nátili . 'Lige alué ralámuli tabilé jurío alieti etega lámala 'we 'la ko alué ralámuli jurío nila 'nátili peka 'la kachi . »
+48003001	Chieri		'Emi ralámuli Galasia mochígame , 'la tachíriti . ¿ Chieri 'smíkó 'emi 'yégiga ? Ne chiena 'la aniéturu alé gulusichi ujchagá mukúligo alué Esukristo alué napu ku 'pa rewagachi simile .
+48003019	tachiri		'Lige ¿ tachiri gite osale Moisesi alué nulalí rejcholi napu 'ya osale ? Alué nulalí rejcholi osisá simile Moisesi napurigá machimela ralámuli 'we chátiri alawégame ko rekó tabilé cha nokame ke jaré , 'lige 'we rokáréligo bilé alué ralámuli buyáname chátiri bowechi . Jipe 'ma sébapá 'lige alué ralámuli buyáname alé chátiri bowechi napu nawale alué Onorúgame Alawala a'remia . Aminami Onorúgame júlale jaré santo ánjeli napurigá nulémala osíniliga alué Moisesi alué nulalí rejcholi . 'Lige Moisésika osale napurigá ralámuli machigá nokísimala tachiri najkiá Onorúgame .
+48004009a	chonigá		'Yabeko tabilé machime nile 'emi alarigá ko Onorúgame , 'lige jipe 'ma 'la machié 'emi alarigá ko Onorúgame , 'lige ¿ chonigá uchéchigo ku alué 'nátili oyériniliché 'emi , 
+48004009b	~		alué 'nátili chátiri tabilé najtékame Onorúgame níriga napu oyérame nile 'emi 'yabé ta'chó machiáa alarigá ko Onorúgame ?
+48004010	~		'Émika a'kué newame ju yawiyame napurigá nokame ju alué ralámuli jurío napu 'we 'la sébali olame ju alué Moisesi nila nulalí rejcholi mayega 'la rewagachi moinamio 'emi aleké yawiyame newagá .
+48004015	chonigá		'Lige jípeko , ¿ chonigá 'ma tabilé ra'sálagá mochíripeché 'emi ? Neka 'we 'la ruwíbá , 'emi noli 'we e'wérali olámituru napurigá ku 'la sa'wimela ne . 'Lige busila nayume nísaká ne noli 'ma 'yámikuru 'emi ne'chí 'emi busila napurigá ku 'la ma'chílamala ne .
+48004021	~		'Emi ralámuli napu 'we 'la oyérinili napu osale Moisesi 'we 'ya , ¿ tabilé machí 'emi napu aní alué osilí ?
+48004030	~		Alué osilí Onorúgame ra'ichálila regá aní : « 'Ma mabuwa 'mi mejká alué mukí napu pe nóchame ju mué bejtélachi , 'ma ranala 'yúriga mabuwa , alué napu mué upila gu'írame ju , napugiti pecha narémili kame alué napu mué a'rémili ju napu'lige mué 'ma mukusá . »
+48005007a	chieri		'Émika 'ma 'we 'la bijchígime kéturu napu aní Onorúgame ra'ichálila . 'Lige ¿ chieri 'smíbaché se'winátiri 'nátili 'ya 'emi napurigá 'emi a'rémala 'la Onorúgame oyeria ?
+48005007b	~		
+48005011	~		'Emi Onorúgame oyérame napurigá ne , ne bijí 'we nuligá enásaká napurigá 'la sikirétigame niwa pe'tá isílala wi'chila , 'liko alué ralámuli jurío 'ma tabilé ayómikuru rekó ruyechi ne bilena gulusichi mukúligo Esusi .
+49004009	Choniame		¿ Choniame mayé 'emi alué ra'íchali regá anime « simile 'pa rewagachi » ? Alué ra'íchalika regá aniame kérékuru , 'pákana rewagáchika re'kínagame níligo .
+50001018	~		Tabiléchigo chéréko rekó jaré ralámuli jena Roma ejperégame ra'ichie tabilé nélegá Onorúgame , neka abirigáchigo 'la ra'sálagó napugiti alué ralámuli abiena 'la Kristo ra'ichálila benírame ju uché jaré ralámuli .
+50001021	~		Neka bijí jena asagá ajagá 'la Kristo oyériga bejtégame ju ne , napu'lige ne mukusáká 'ma rewagachi moinámala ne Kristo 'yuga asimea , alarigá ka abé 'la nímala .
+51002020	chonigá		'Émika 'yako 'nátame nile napurigá uché jaré ralámuli , nobi jípeko 'máchigo 'la bi'lepi 'nátili 'nátame júkó 'emi pe Krístocho 'yuga napu mukule 'emi gu'íriga . 'Émika 'ma pecha a'chigóriga nokimeli júkó napurigá nokame nílige 'emi 'ya . ¿ 'Lígebiché chonigá oyériliaché ye nulalí napurigá oyérame nílige 'emi 'ya , alué nulalí napu anime ju :
+52002019	~		Napu'lige uchéchigo siné nawasa alué Wa'lula Esukristo , 'lige rukesa chonikirú ramué , neka 'we a'lá ra'ichámala churigá ko 'emi ralámuli . Tabilé chijunámala ne . Asíriga ra'sálámala ne alieti ra'icha .
+52003009	~		Napu'lige Onorúgame 'yuga ra'ichalia 'we ra'sáláru ramué ra'íchaga alieti tábiri nóchame ko 'emi . Wa'lú cheliera 'yawa Onorúgame 'we a'lá gu'írilimpá 'emi .
+54003005	churigá		Alué rió tabilé 'la repume nísaká bo'né 'yula 'lige bo'né 'kúchila , 'liko ¿ churigá 'la umbámalawé repua suwábaga ralámuli Onorúgame oyérame ?
+54006007a	~		Napu'lige ocheria tabilé tábiri niga ochériru , 
+54006007b	~		napu'lige suwisuga pecha tábiri o'tobógó .
+58001005	~		Onorúgameka tabilé siné che anele bilé santo ánjeli regá : Mué ne Inolá júkuru . Jípeko ne mué O'nola júkuru . Ye ra'íchali anele Onorúgame bo'né Inolá . Abiena regá anele Onorúgame : Neka ju alué O'nola , 'lige alué ne Inolá ju . Onorúgameka tabilé siné alarigá anele bilé santo ánjeli .
+58001013	~		Onorúgameka tajsiné che anele bilé santo ánjeli ye ra'íchali : Jena asibóká ne'chí 'yuga wajtoná napu ne ajtí napurigá wa'lula neraga napusí ne ro'aba mué saíla .
+58001014	~		Alué santo ánjelika pe napurigá bilé alawá niraga ju 'mimi julálime ju ralámuli gu'íriniliga , alué ralámuli napu Onorúgame buinámala alé resítiri bowechi .
+58002003	~		Tabilé e'wásigaká alué nulalí Esukristo nulalila , 'liko ramué abéchigo wa'lú gastigo narépua . Alué ralámuli napu akele Esusi ra'íchachi , alueka ramué ruyele .
+58002006a	~		Regá anime osáliru 'we 'ya : Sineko napurigá bilé rió neraga newale alué bo'né Inolá , 
+58002006b	~		'lige ramueka ta'mé a'wágame niru peka napurigá alué santo ánjeli .
+58003016	chieri		'Emi 'we 'la machíguru chieri níligo alué 'ya ejperégame , alué ralámuli israelita napu Moisesi buyánilige 'ya alé wa'lú gawí bo'ígichi Ejipto anilichi .
+58003017	~		Onorúgameka 'we ayoga asale alué ralámuli 'yuga oká liá bamí . Alué ralámuli 'we cha nokale 'lige alé suwile alé 'we wakígachi napu tabilé 'wesi riógame nile .
+58003018	~		'Emi 'we a'lá néláleke 'we a'wágame anéligo Onorúgame alué ralámuli , alué ralámuli napu sairúgame neraga mochile Onorúgame 'yuga . 'Lige anile : « 'Émika tajsiné nílamala ne a'walila napurigá 'la ganíliga ejperélamala . Tabilé siné resíbimala jena wijchimoba 'lige tabilé siné moinámala rewagachi . »
+58006004	~		Ralámuli 'la gepúsaká alué 'la bijchiá ra'íchali Esukristo ra'ichálila , 'lige naresa alué 'we semátiri napu nejime ju Onorúgame Alawala alué oyérame 'yuga ,
+58007011	~		Alué balé Lebí rijimala 'la a'walí nígame nísaká ralámuli gu'írilime napurigá alué ralámuli 'la sébali olame nímala , 'liko pecha uché bilé balé asimé ko napurigá Melkísare ralámuli gu'iria .
+58009014	~		'La nejkúrime nísaká alué ajágame me'liá , jípeko abéchigo 'la nejkúrimala alué Kristo mukúligame gulusichi chujkugá . ¡ Bo'nepi 'yale Onorúgame bi'wéniliga ramué na'tálila resítiri 'nátili napurigá ta cha'piboa resítiri bowé , napurigá oyérawa alué 'la bijchiá Onorúgame ! Alué Onorúgame Alawala , alué napu tasiné mukume ju , alueka gu'írile alué Kristo napurigá bi'wémala ramué alawala .
+58010001	~		Alué Moisesi nulalílaka pe tétali nile churigáriga nimio a'kinana rawé . Alué nulalika tabilé nígame nile a'walí napurigá ralámuli gu'írimala napurigá alué ralámuli 'la oyéramala , alueka pe iligá tétali nile . Alueka pecha nejkúrimili júkó napurigá ralámuli 'la sébali olámala , rekó alué wa'lula balé me'ae alué ajágame Onorúgame kógimia nabí bamí .
+58010029a	~		Alarigá 'sísaká bilé rió , tabilé a'lá e'wásaká bilé nulalí Moisesi nulalila , abéchigo enáriga nímala bilé rió sairúgame neraga gainásaká Onorúgame Inolá 'yuga , alué napu Esukristo anilime ju . 
+58010029b	~		Bilé rió alué napu sairúgame neraga ajtí Onorúgame Inolá 'yuga anime ju : « Tabilé 'la ju rekó mukugé Esusi . » 
+58010029c	~		Ye rioka pe najsabua ajtíkuru napu Onorúgame gatélige alué rió gu'íriga . 
+58010029d	~		Alueka pe gawélilekuru Onorúgame Alawala napu Onorúgame júlalige napurigá gu'írimala alué rió .
+58011032	~		Neka 'ma 'la ruwíturu napurigá 'emi 'we a'lá bijchígimala Onorúgameka 'la sébali oláame napu aní . Tabilé ikiru ne ruyá churigá nokáliga alué uché jaré ramué rijimala 'ya mochígame , napu nile Gereoni , 'lige Baraki , 'lige Sansoni , 'lige Jeptesi , 'lige Rabí , 'lige Samueli , 'lige alué 'ya mochígame napu ruwime nile napu anele Onorúgame .
+58012007	~		Alekeri 'la anachálime júkuru rekó 'we ená ke napurigá 'la sébali na'tawa Onorúgame 'yuga . Onorúgameka napurigá bilé bo'né inolá alarigá etiáguru 'emi . Bilé rió 'kúchigame 'we 'la ruyeme ju bo'né 'kúchila napurigá 'la benimela 'lige 'la sébali olámala . Ta e'wásaká abiena gastigárime ju .
+58012009	~		Suwábaga napu ekí ramué o'nola ju jena wijchimoba ejperégame , alarigá ruyame júkuruchigó . 'Lige asíriga 'la nirálime júkuru napu'lige ruwichi . 'Liko abéchigo rajpé 'la nirálime júkuru alué Wa'lula O'nó Onorúgame napu repume ju ramué alawala . Alarigá 'la semati raweli nígame niwa ramué .
+58012025	~		'We a'lá 'nátaga 'emi ralámuli . Tase gawéliwa alué Esusi ra'ichálila . Alué ralámuli 'ya mochígame gastigo narele napu'lige tabilé e'wale napu Moisesi nulachi , 'liko ramueka abé wa'lú gastigo narépua tabilé e'wásiká napu jula Esukristo 'pa rewagáchika .
+58013006	~		Alekeri ramué ralámuli tabilé we'ká 'nátaga aniboli júkuru : Wa'lula Onorúgame 'smi ne'chí gu'iria . Tabilé siné majame ju neka . Alué cha nokame ralámuli tabilé gainámala ne'chí umeria .
+59002006	~		'Émika tabilé na'temale ralámuli tabilé nígame . ¿ Tabilé alué rió 'we nígame noká resí olá alué ralámuli tabilé nígame 'lige bilénami e'wélala mochígichi o'toa wejpisomia rejcholi 'yamia ?
+59002014	chiena		'Emi Onorúgame oyérame napurigá ne , ¿ chiena 'la ju Onorúgame oyérame koriá 'lige tabilé sébali olame níriga ? Rekó alarigá na'talie tabilé sebawa alé 'pa rewagachi .
+59002016a	~		'lige 'emi regá anesa : « 'We iwega enawa boichimi , tase ukíwiga 'lige aminami tase e'luíka » , 
+59002016b	'lacha		¿ 'lacha 'la nímalawé alarigá anilía bilé ralámuli peka 'la kógilie go'ame alué 'we resitiri o'páchigime tabilé nutugégeme napurigá go'mela boichimi ?
+59002018	~		Siné kachi bilé 'emi animérémá : « Mueka 'we 'la oyérame korí Onorúgame , neka pe 'we 'la nóchame ju Onorúgame nochálila . » 'Lige neka aní : « Mué tabilé 'la sébali olasa nóchali napu nulame ju Onorúgame , tabilé machí pala 'la Onorúgame oyérame ko mué . Neka 'we 'la sébali olame ju nóchali napu nulá Onorúgame , alekeri mué níriga 'la ma'chígime nérékuru 'la semáriga oyérame ko ne Onorúgame . »
+59002021	~		Onorúgameka etele Abraámi ramué rijimala 'we 'ya ajtígame napurigá 'we a'lá rió napugiti Abraámika 'we 'la sébali e'wáligame napu Onorúgame nulele . Abraámika amulí me'ale e'kósiga bo'né inolá Isaki rewégame Onorúgame kógimia 'la sébali e'wagá napu nulele Onorúgame , alé napu ajágame sa'pala e'kósilime nile Onorúgame kogia . Onorúgameka alarigá nulele alué Abraámi machináliga pala 'la e'wara alué Abraámi , 'lige Abraámika 'la e'wale , 'lige Onorúgameka tabilé elile napurigá me'limela bo'né inolá . Alésíko Onorúgameka pe bilé bo'á 'yale napurigá Onorúgame kógimala .
+59003013	~		Bilé 'emi rejcholi beníriame nisa , asíriga 'la semátiri ralámuli júkuru alué nóchali nígame 'lige tabilé gawélimili júkuru alué rió uché jaré ralámuli olagá . Alué rioka 'la sébali olámili júkuru napurigá beniria alué bo'né .
+59003017	~		Bilé ralámuli 'we 'la benégame Onorúgame rejchólila beníriga Onorúgame gite , alué ralámulika asíriga 'la sébali ju , 'lige asíriga la gu'írome ju ralámuli napurigá 'la sébali nímala tabilé we'ká 'nátame , tabilé a'wágame nulame ju , alueka 'we rejchirúgame ju bilé ra'íchali gepúlichi uché jaré ralámuli ra'íchachi , 'la nejkúrome ju gatélichi napu'lige tabilé o'wé enágichi bilé nóchali , 'la nejkúrome ju napu'lige bilé ralámuli nejkúrali táachi , 'la semátiri nóchali nóchame ju , 'la tabilé na'temame ju abé pe jaré ralámuli me'tigá uché jaré 'lige 'la tabilé se'wináriga 'nátame ju napu aní .
+59004001a	koche		¿ Koche o'wime ju nakoli ? 
+59004001b	koche		'Lige ¿ Koche o'wime ju na'áwili ? Ma'chíname júkuru napu'lige bilé ralámuli tabilé 'la 'nata ajtígichi .
+59004012	Chieri		Pe bi'lepi ju napu newale alué nulalí , 'lige pe alué bi'lepi ju napu animela pala 'la gastigo narémili ko bilé ralámuli . Pe Onorúgamecho júkuru napu umébame ju ralámuli ma'chí pa gastigo bo'ígichi rewagachi julamia , 'lige pe aluecho ju napu júlame ju injierno . ¿ Chieri júkó 'emi napurigá pe ne'óchiga e'yénamala apiépiri ralámuli peka chérikáme kachi napurigá alanokigá e'yénamala 'emi ?
+59004014	~		'Émika pecha machígó alakimeo be'limi . Siné kachi bajchabé suwibóréma . Pe napurigá bilé molí nírukuru ramueka , bilé molí pe'wera 'la ma'chí ename ju , pe abiéniko tabilé ne ikime ju .
+60002020	~		'Emi níriga pecha najtékame júkó anachalia napu'lige gastigárilia pe cha nokágame nísaká 'emi , pe rioksi anachálinti kárélamala . 'Emi 'we resí oliáe peka resí nokágame ke 'emi , 'liko 'we 'la gu'íriwa 'emi Onorúgamete , 'liko pecha chérélamalagó rekó resí oliae 'emi .
+60003013	Chiérite		¿ Chiérite cha oláwawé 'emi 'la senibí 'la a'ká ralámuli nísaká 'emi , tase i'nílime ? Tabilé 'wésiguru .
+60004017	~		Jipe 'ma seba raweli napu'lige Onorúgame 'we a'wágame gastigárimili nile siné rawé suwábaga ralámuli jena wijchimoba , 'lige 'we a'wágame gastigáriliaguru ramué Onorúgamete rekó 'la Onorúgame oyérame nírige , 'lige abéchigo resí ikimela alué ralámuli tabilé Onorúgame oyérame .
+60004018	chukimélaché		'We nóchali olagá sebásiga 'pa rewagachi ramué ralámuli rekó 'la Onorúgame oyérame nírige , ¿ 'liko chukimélaché alué napu tabilé Onorúgame oyérame ju rekó 'la rewagachi moinánilie ?
+61003004	Koche		'Lige regá animela : « Esusi uchéchigo siné nawámaoriéturu . ¿ Koche ajtí ? Napusí Onorúgame newale ye gawí , suwábaga peba alarigá ju . »
+61003011	~		Suwábaga suwibámili ju alarigá . 'Liko 'emi pe Onorúgamecho e'wímili júkuru 'lige 'la sébali olamili júkuru 'emi napu Onorúgame najkí .
+62002022	~		Bilé rió , tabilé Onorúgamete julárigame korime Esusi rewigáchika , 'liko alué rioka 'yégiga ra'íchame nímala , alueka Kristo korime nímala bo'nepi , 'lige O'nó Onorúgame saíla nímala .
+62003012	Chonigá		Tase napurigá Kaíni , alué Arani 'lige Eba inolá , tabilé alarigá niwa , alueka pe Remónisi gompaniérola nile , alekeri me'ale bo'né bonila . ¿ Chonigá me'ale ? Alué Kaínika me'álekuru 'wéchigo chátiri 'nátaga eyéname níligame . Kaíni bonílaka 'we 'la rió nile , alekeri me'líliru .
+62003017	~		Bilé rió we'ká e'karúgame nígame 'lige go'ame , 'lige tabilé gu'írame nisa ralámuli tabilé nígame , alué rioka tabilé 'la galegá na'temame nímala ralámuli . Alueka tabilé alawégame ju Onorúgame Alawala .
+62004020	'lacha		Bilé rió 'we 'la nirame kórisá Onorúgame , 'lige 'we ayome nisa Onorúgame oyérame ralámuli 'yuga , 'liko alué rió 'we 'yégame nímala , tabilé nirame nímala Onorúgame alué rió . Bilé rió tabilé nirame nisa ralámuli rekó 'we 'la etee , ¿ 'lige 'lacha nirámalawé Onorúgame ? Onorúgameka pecha ma'chiná ajtigá .
+62005005	Chieri		¿ Chieri 'la umérame ju Remónisi ? Pe alué ralámuliguru alué napu 'la bijchigi la Onorúgame Inolá ko Esusi napu jena wijchimoba nawale .
+66005002	Chieri		'Lige bilé santo ánjeli etiáturu ne alué santo ánjeli wa'lula e'wele sináká regá anime : ― ¿ Chieri 'la 'yárigame ju lisensia Onorúgamete napurigá 'la gojinámala alué gichao selá 'lige napurigá ra'lanámala alué apeli kabítigame ?
+66006010a	chiéniko		'Lige e'wele ra'íchaga regá aniá mochígituru alué we'ká alawá : ― Muérigo Onorúgame , mué napu ju Wa'lula Nulame , napu tabilé siné chátiri 'nátame ju , 'la bijchígiga ra'íchame , ¿ chiéniko gastigárima olá mué alué ralámuli napu ramué me'ale ?
+66006010b	~		
+66006017	chieri		napugiti 'ma sebálimpá raweli napu sebámili nílige napu alué alé wa'lú síachi ajtígame suwábaga ralámuli jena wijchimoba mochígame gastigárimili ju . 'Lige ¿ chieri 'la ajagá rejpímala ?
+66007013a	chieri		'Lige bilé alué wa'lula rukéturu ne'chí regá : ― ¿ Chieri ju ye ralámuli rojsákame o'páchigime ? 
+66007013b	Kócheka		¿ Kócheka si ?
+66013004a	~		'lige tánituru iwérali alué wa'lú chátiri ajágame napuyeri ochá napu wa'lula nulame newálige alué uché bilela ajágame napuyeri re'séwili ( « leopardo » anilime yolí ra'íchaga ) . Abiénachigó tánituru iwérali alué ajágame napuyeri re'séwili . 'Lige regá aniániéturu suwábaga alué ralámuli jena wijchimoba ejperégame : ― Tabilé 'wesi i'té aminá uché bilé aliena a'wágame napuyena a'wágame ju ye ajágame . 
+66013004b	~		Tabilé 'wesi i'té napurigá neyúrimala ye ajágame 'yuga nejkoga .
+66015004a	chieri		¿ Chieri ralámuli tabilé nirámalawé mué Onorúgame , 
+66015004b	chieri		'lige chieri tabilé 'la semáriga ra'ichámalawé mué olagá ? Aka péchigo muecho kago bi'neli neyúriga 'la bijchiá Onorúgame . Suwábaga chojkégame ralámuli napu ekí ejperé jena wijchimoba , sebámala napu mué ajtí iwérali tánimia mué , napugiti mueka 'la sébali oláligime napurigá 'símili nílige .
+66017007	~		'Lige alué santo ánjelika anéturu ne'chí : ― ¿ Tabilé machí mué tachiri ruwime ka alué mukí 'lige alué ajágame 'we enátiri alué gichao mo'égame 'lige makué a'wégame ? Ne 'la ruwimela .
+66018018	Kochiena		'Lige animela : ― ¿ Kochiena uché bilena jágame képá aliena 'la semátiri galí napuyeri alé we'ká riógichi jágame galí ?

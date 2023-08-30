@@ -1,0 +1,743 @@
+40002002	Nasaan		Nagtanung-tanong sila , “ Nasaan ang ipinanganak na hari ng mga Judio ? Nakita namin sa silangan ang kanyang bituin , kaya’t naparito kami upang siya’y sambahin . ”
+40002004	Saan		Kaya’t tinipon niya ang lahat ng mga punong pari at mga tagapagturo ng Kautusan at sila’y tinanong , “ Saan ba isisilang ang Cristo ? ”
+40003007	~		Nang makita niyang lumalapit din sa kanya ang maraming Pariseo at mga Saduseo upang magpabautismo , sinabi niya sa kanila , “ Lahi ng mga ulupong ! Akala ba ninyo’y makakatakas kayo sa parusa ng Diyos ?
+40005013	paano		“ Kayo ang asin ng sangkatauhan . Ngunit kung ang asin ay mawalan na ng alat , paano pa ito mapapaalat muli ? Hindi ba wala na itong kabuluhan kundi ang itapon at tapakan ng mga tao ?
+40005046	anong		“ Kung ang mga nagmamahal sa inyo ang siya lamang ninyong mamahalin , anong gantimpala ang inyong maaasahan ? Hindi ba’t ginagawa rin iyan ng mga maniningil ng buwis ?
+40005047	ano		At kung ang mga kapatid lamang ninyo ang inyong binabati , ano ang ginagawa ninyong higit kaysa iba ? Hindi ba’t ginagawa rin iyan ng mga Hentil ?
+40006027	Sino		Sino sa inyo ang makakapagpahaba ng kanyang buhay nang kahit isang oras sa pamamagitan ng kanyang pagkabalisa ?
+40006028	bakit		“ At bakit kayo nababalisa tungkol sa pananamit ? Isipin ninyo kung paano tumutubo ang mga bulaklak sa parang ; hindi sila nagtatrabaho ni gumagawa ng damit .
+40006031a	~		“ Kaya’t huwag kayong mag-alalang baka kayo kapusin sa pagkain , inumin o damit .
+40006031b	~		
+40006031c	~		
+40007003	Bakit		Bakit mo pinapansin ang puwing sa mata ng iyong kapatid ngunit hindi mo pinapansin ang trosong nasa iyong mata ?
+40007004	Paano		Paano mong masasabi sa iyong kapatid , ‘ Halika’t aalisin ko ang puwing mo , ’ gayong troso ang nasa mata mo ?
+40007009	~		Bibigyan ba ninyo ng bato ang inyong anak kapag siya’y humihingi ng tinapay ?
+40007016a	~		Makikilala ninyo sila sa kanilang mga gawa . Mapipitas ba ang ubas sa puno ng dawag , 
+40007016b	~		o ang igos sa matitinik na halaman ?
+40008026	Bakit		Ngunit sinabi niya sa kanila , “ Bakit kayo natatakot ? Napakaliit naman ng inyong pananampalataya ! ” Bumangon siya , pinatigil ang hangin at ang mga alon , at bumuti ang panahon .
+40008027	ano		Namangha silang lahat at sinabi , “ Ano kayang uri ng tao ito ? Maging ang hangin at ang lawa ay sumusunod sa kanya ! ”
+40008029	Ano		Biglang nagsisigaw ang dalawang lalaki , “ Ano ang pakialam mo sa amin , Anak ng Diyos ? Naparito ka ba upang pahirapan kami kahit hindi pa panahon ? ”
+40009004	Bakit		Alam ni Jesus ang kanilang iniisip kaya’t sinabi niya , “ Bakit kayo nag-iisip nang ganyan ?
+40009005	Ano		Ano ba ang mas madali , ang sabihing , ‘ pinapatawad na ang iyong mga kasalanan , ’ o ang sabihing , ‘ tumayo ka at lumakad ? ’
+40009011	Bakit		Nang makita ito ng mga Pariseo , tinanong nila ang kanyang mga alagad , “ Bakit sumasalo ang inyong guro sa mga maniningil ng buwis at sa mga makasalanan ? ”
+40009014	bakit		Lumapit kay Jesus ang mga alagad ni Juan na Tagapagbautismo , at siya’y tinanong , “ Kami po ay madalas mag-ayuno , gayundin ang mga Pariseo , ngunit bakit hindi po nag-aayuno ang inyong mga alagad ? ”
+40009015	~		Sumagot siya , “ Dapat bang malungkot ang mga panauhin sa kasalan habang kasama pa nila ang lalaking ikinasal ? Kapag wala na ito , saka pa lamang sila mag-aayuno .
+40010025	~		Sapat nang matulad ang alagad sa kanyang guro , at ang alipin sa kanyang panginoon . Kung ang ama ng sambahayan ay tinawag nilang Beelzebul , lalo nang lalaitin nila ang kanyang mga kasambahay . ”
+40011007	Bakit		Nang paalis na ang mga alagad ni Juan , nagsalita si Jesus sa mga tao tungkol kay Juan , “ Bakit kayo nagpunta sa ilang ? Ano ang nais ninyong makita ? Isa bang tambo na hinihipan ng hangin ?
+40011008	Bakit		Bakit kayo pumunta sa ilang ? Para makita ang isang taong may mamahaling kasuotan ? Ang mga nagdaramit ng ganyan ay nasa palasyo ng mga hari !
+40011009	Ano		Ano nga ba ang nais ninyong makita ? Isang propeta ? Bakit nga ba kayo lumabas ? Upang makita ang isang propeta ? Oo , siya’y propeta . At sinasabi ko sa inyo , siya’y higit pa sa isang propeta .
+40011016	Saan		“ Saan ko ihahambing ang mga tao sa panahong ito ? Ang katulad nila’y mga batang nakaupo sa plasa at sumisigaw sa kanilang mga kalaro :
+40012011	~		Sumagot siya , “ Kung kayo’y may tupang mahulog sa balon sa Araw ng Pamamahinga , hindi ba ninyo ito iaahon ?
+40012026	paano		Kaya’t kung si Satanas ang nagpapalayas kay Satanas , kinakalaban niya ang kanyang sarili ! Kung gayon , paano pa niya mapapanatili ang kanyang kaharian ?
+40012027	kaninong		Kung ako’y nagpapalayas ng mga demonyo sa kapangyarihan ni Beelzebul , kaninong kapangyarihan naman nagpapalayas ng demonyo ang inyong mga tagasunod ? Ang mga tagasunod ninyo ang magpapatunay na maling-mali kayo .
+40012029	~		“ Hindi mapapasok ang bahay ng isang taong malakas kung hindi muna siya gagapusin . Kung nakagapos na siya , saka pa lamang malolooban ang bahay niya .
+40012034	Paano		Lahi ng mga ulupong ! Paano kayong makakapagsabi ng mabubuting bagay gayong kayo’y masasama ? Kung ano ang nag-uumapaw sa puso ay siyang sinasabi ng bibig .
+40012048a	sino		Ngunit sinabi niya , “ Sino ang aking ina at 
+40012048b	sinu-sino		sinu-sino ang aking mga kapatid ? ”
+40013010	Bakit		Lumapit ang mga alagad at tinanong si Jesus , “ Bakit po ninyo dinadaan sa talinhaga ang inyong pagtuturo sa kanila ? ”
+40013027	bakit		Kaya’t pumunta ang mga utusan sa may-ari ng bukid at nagtanong , ‘ Hindi po ba mabuting binhi lamang ang inihasik ninyo sa inyong bukid ? Bakit po may damo ngayon ? ’
+40013054a	saan		Umuwi siya sa kanyang bayan at nagturo sa kanilang sinagoga . Nagtaka ang mga nakarinig sa kanya , kaya’t kanilang itinanong , “ Saan kumuha ng ganyang karunungan ang taong iyan ? 
+40013054b	paano		Paano siya nakakagawa ng mga himala ?
+40013056	Saan		At tagarito rin ang kanyang mga kapatid na babae , di ba ? Saan kaya niya natutuhan ang lahat ng iyan ? ”
+40014031	Bakit		Agad siyang inabot ni Jesus . “ Bakit ka nag-alinlangan ? Napakaliit ng iyong pananampalataya ! ” sabi niya kay Pedro .
+40015002	Bakit		“ Bakit nilalabag ng mga alagad mo ang mga katuruang minana natin sa ating mga ninuno ? Kumakain sila nang hindi muna naghuhugas ng kamay ayon sa paraang ipinag-uutos ! ”
+40015003	Bakit		Sinagot sila ni Jesus , “ Bakit naman ninyo nilalabag ang utos ng Diyos dahil sa inyong mga tradisyon ?
+40015033	Saan		Sinabi naman ng mga alagad , “ Saan po tayo kukuha ng sapat na pagkain para sa ganito karaming tao sa ilang na ito ? ”
+40015034	Ilan		“ Ilan pang tinapay ang nariyan ? ” tanong ni Jesus sa kanila . “ Pito po , at mayroon pang ilang maliliit na isda , ” sagot nila .
+40016008	Bakit		Alam ni Jesus ang pinag-uusapan nila kaya’t sila’y tinanong , “ Bakit ninyo pinag-uusapang kayo’y walang dalang tinapay ? Napakaliit ng inyong pananampalataya !
+40016009	Ilang		Wala pa ba kayong pagkaunawa hanggang ngayon ? Nakalimutan na ba ninyo kung paanong pinaghati-hati ang limang tinapay para sa limanlibong tao ? Ilang kaing na tinapay ang lumabis ?
+40016010a	~		Gayundin ang pitong tinapay para sa apat na libo ! 
+40016010b	Ilang		Ilang kaing na tinapay ang lumabis ?
+40016011	~		Hindi tungkol sa tinapay ang sinasabi ko nang sabihin ko sa inyong mag-ingat kayo sa pampaalsang ginagamit ng mga Pariseo at mga Saduseo ! Hindi ba ninyo maunawaan ito ? ”
+40016013	Ano		Nang dumating si Jesus sa bayan ng Cesarea ng Filipos , tinanong niya ang kanyang mga alagad , “ Ano ang sinasabi ng mga tao patungkol sa Anak ng Tao ? ”
+40016015a	~		Tinanong ulit sila ni Jesus , “ Ngunit para sa inyo , 
+40016015b	sino		sino ako ? ”
+40016026a	ano		Sapagkat ano ba ang mapapala ng isang tao makamtan man niya ang buong daigdig , ngunit mapapahamak naman ang kanyang sarili ? 
+40016026b	ano		Ano ba ang maibabayad ng isang tao para mabawi niya ang kanyang buhay ?
+40017010	Bakit		Tinanong siya ng mga alagad , “ Bakit po sinasabi ng mga tagapagturo ng Kautusan na dapat munang dumating si Elias ? ”
+40017017a	hanggang kailan		Sumagot si Jesus , “ Lahing napakasama at walang pananampalataya ! Hanggang kailan ako dapat manatiling kasama ninyo ? 
+40017017b	hanggang kailan		Hanggang kailan ko kayo pagtitiisan ? Dalhin ninyo rito ang bata ! ”
+40017019	Bakit		Pagkatapos , lumapit ang mga alagad at tinanong si Jesus , nang wala na ang ibang nakakarinig , “ Bakit po hindi namin mapalayas ang demonyo ? ”
+40017025a	ano		“ Opo , ” sagot ni Pedro . Nang pumasok siya sa bahay , tinanong siya ni Jesus , “ Ano sa palagay mo , Simon ? 
+40017025b	sino		Sino ang dapat magbayad ng buwis sa hari ng isang bansa , ang mga mamamayan ba , o ang mga dayuhan ? ”
+40018001	Sino		Nang mga sandaling iyon , lumapit kay Jesus ang mga alagad at nagtanong , “ Sino po ang pinakadakila sa kaharian ng langit ? ”
+40018012	Ano		“ Ano sa akala ninyo ang gagawin ng isang taong may sandaang tupa kung nawala ang isa sa mga iyon ? Hindi ba niya iiwan ang siyamnapu’t siyam sa bundok upang hanapin ang naligaw ?
+40018021	ilang beses		Lumapit si Pedro at nagtanong kay Jesus , “ Panginoon , ilang beses ko po bang patatawarin ang kapatid kong paulit-ulit na nagkakasala sa akin ? Pitong beses po ba ? ”
+40019007	bakit		Tinanong siya ng mga Pariseo , “ Kung gayon , bakit iniutos ni Moises na bigyan ng lalaki ang kanyang asawa ng isang kasulatan ng paghihiwalay bago niya palayasin at hiwalayan ito ? ”
+40019016	ano		May isa namang lalaking lumapit kay Jesus at nagtanong , “ Guro , ano pong kabutihan ang dapat kong gawin upang makamtan ko ang buhay na walang hanggan ? ”
+40019017	Bakit		Sumagot si Jesus , “ Bakit mo ako tinatanong kung ano ang mabuti ? Iisa lang ang mabuti . Ngunit kung nais mong magkamit ng buhay na walang hanggan , sundin mo ang mga Kautusan ng Diyos . ”
+40019018	alin		“ Alin sa mga iyon ? ” tanong niya . Sumagot si Jesus , “ Huwag kang papatay ; huwag kang mangangalunya ; huwag kang magnanakaw ; huwag kang sasaksi nang walang katotohanan ;
+40019020	Ano		Sinabi ng binata , “ Tinutupad ko na po ang lahat ng iyan . Ano pa po ang dapat kong gawin ? ”
+40019025	sino		Nagtaka ang mga alagad nang marinig ito kaya’t naitanong nila , “ Kung gayon , sino po ang maliligtas ? ”
+40019027	Ano		Nagsalita naman si Pedro , “ Tingnan po ninyo , iniwan namin ang lahat at kami’y sumunod sa inyo . Ano po naman ang para sa amin ? ”
+40020006	Bakit		Nang mag-aalas singko na ng hapon , siya’y lumabas muli at nakakita pa ng mga ibang wala ring ginagawa . Sinabi niya sa kanila , ‘ Bakit tatayu-tayo lang kayo dito sa buong maghapon ? ’
+40020012	bakit		Sinabi nila , ‘ Isang oras lamang gumawa ang mga huling dumating , samantalang maghapon kaming nagtrabaho at nagtiis sa nakakapasong init ng araw . Bakit naman pinagpare-pareho ninyo ang aming upa ? ’
+40020021	Ano		“ Ano ang gusto mo ? ” tanong ni Jesus . Sumagot siya , “ Kapag naghahari na po kayo , paupuin ninyo sa inyong tabi ang dalawa kong anak , isa sa kanan at isa sa kaliwa . ”
+40020032	Ano		Tumigil si Jesus , tinawag sila at tinanong , “ Ano ang gusto ninyong gawin ko para sa inyo ? ”
+40021010	Sino		Pagpasok ni Jesus sa Jerusalem , nagulo ang buong lunsod . “ Sino kaya ito ? ” tanong nila .
+40021016	bakit		Sinabi nila kay Jesus , “ Di mo ba naririnig ang sinasabi nila ? ” “ Naririnig ko ! ” tugon ni Jesus . “ Bakit ? Hindi pa ba ninyo nababasa ang ganitong pangungusap sa kasulatan : ‘ Pinalabas mo sa bibig ng mga sanggol at ng mga pasusuhin ang wagas na papuri ? ' "
+40021020	Paanong		Nakita ng mga alagad ang nangyari at sila’y namangha . “ Paanong natuyo agad ang puno ng igos ? ” tanong nila .
+40021023a	ano		Pumasok si Jesus sa Templo . Habang siya’y nagtuturo doon , lumapit sa kanya ang mga punong pari at ang mga pinuno ng bayan , at siya’y tinanong , “ Ano ang karapatan mong gumawa ng mga bagay na ito ? 
+40021023b	sino		Sino ang nagbigay sa iyo ng karapatang gumawa nito ? ”
+40021025a	kanino		Kanino nagmula ang karapatan ni Juan upang magbautismo , sa Diyos ba o sa tao ? ” Kaya’t sila’y nag-usap-usap , 
+40021025b	~		“ Kung sasabihin nating mula sa Diyos , sasabihin naman niya sa atin , 
+40021025c	bakit		‘ Bakit hindi ninyo siya pinaniwalaan ? ’
+40021028	Ano		“ Ano ang palagay ninyo rito ? May isang taong may dalawang anak na lalaki . Lumapit siya sa nakatatanda at sinabi , ‘ Anak , pumunta ka ngayon sa ubasan at magtrabaho ka roon . ’
+40021031	Sino		Sino sa dalawa ang sumunod sa kalooban ng kanyang ama ? ” “ Ang nakatatanda po , ” sagot nila . Sinabi sa kanila ni Jesus , “ Tandaan ninyo : ang mga maniningil ng buwis at ang mga bayarang babae ay nauuna pa sa inyong pasakop sa paghahari ng Diyos .
+40021040	ano		At tinanong sila ni Jesus , “ Pagbalik ng may-ari ng ubasan , ano kaya ang gagawin niya sa mga taong iyon ? ”
+40022012	bakit		Tinanong niya ito , ‘ Kaibigan , bakit ka pumasok dito nang hindi nakasuot ng damit pangkasalan ? ’ Hindi nakasagot ang tao ,
+40022017	Ano		Ano po ang palagay ninyo ? Naaayon ba sa Kautusan na magbayad ng buwis sa Emperador , o hindi ? ”
+40022018	Bakit		Alam ni Jesus ang kanilang masamang layunin kaya’t sinabi niya , “ Kayong mga mapagkunwari ! Bakit nais ninyo akong hulihin ?
+40022020a	kaninong		“ Kaninong larawan at pangalan ang nakaukit diyan ? ” tanong ni Jesus .
+40022020b	~		
+40022028	sino		Ngayon , sino po sa pito ang magiging asawa niya sa muling pagkabuhay , yamang siya’y napangasawa nilang lahat ? ”
+40022036	alin		“ Guro , alin po ang pinakamahalagang utos sa Kautusan ? ” tanong niya .
+40022042a	ano		“ Ano ang pagkaalam ninyo tungkol sa Cristo ? 
+40022042b	kanino		Kanino siyang anak ? ” “ Kay David po , ” sagot nila .
+40022043	bakit		Sabi ni Jesus , “ Kung gayon , bakit siya tinawag ni David na ‘ Panginoon ’ nang nasa kanya ang Espiritu ? Ganito ang kanyang sinabi ,
+40022045	paanong		Ngayon , kung si David ay tumawag sa kanya ng ‘ Panginoon , ’ paanong masasabing anak ni David ang Cristo ? ”
+40023017	Alin		Mga bulag ! Mga hangal ! Alin ba ang mas mahalaga , ang ginto , o ang Templong nagpapabanal sa ginto ?
+40023019	Alin		Mga bulag ! Alin ba ang mas mahalaga , ang handog o ang dambana na nagpapabanal sa handog ?
+40023033	~		Mga ahas ! Lahi ng mga ulupong ! Hindi kayo makakaiwas na maparusahan sa impiyerno !
+40024003a	kailan		Noon , si Jesus ay nasa Bundok ng mga Olibo . Habang siya’y nakaupo roon , palihim siyang tinanong ng kanyang mga alagad , “ Kailan po ba mangyayari ang mga sinabi ninyo ? 
+40024003b	ano		Ano po ang magiging palatandaan ng inyong muling pagparito at ng katapusan ng mundo ? ”
+40024045	Sino		“ Sino ang tapat at matalinong alipin ? Hindi ba’t ang pinamamahala ng kanyang panginoon upang magpakain sa iba pang mga alipin sa takdang oras ?
+40025037	kailan		“ Sasagot ang mga matuwid , ‘ Panginoon , kailan po namin kayo nakitang nagutom at aming pinakain , o nauhaw at aming pinainom ?
+40025038	Kailan		Kailan po kayo naging dayuhan at aming pinatuloy , o kaya’y walang maisuot at aming dinamitan ?
+40025039	kailan		At kailan po namin kayo nakitang nagkasakit o nabilanggo at kayo’y aming dinalaw ? ’
+40025044	kailan		“ At sasagot din sila , ‘ Panginoon , kailan po namin kayo nakitang nagutom , nauhaw , walang matuluyan , walang maisuot , may sakit , o nasa bilangguan , na hindi namin kayo tinulungan ? ’
+40026008	bakit		Nagalit ang mga alagad nang makita ito . “ Bakit inaksaya ang pabango ? ” tanong nila .
+40026010	Bakit		Alam ito ni Jesus kaya’t sinabi niya , “ Bakit ninyo minamasama ang ginagawa niya ? Isang mabuting bagay ang ginawa niyang ito sa akin .
+40026015	Ano		“ Ano po ang ibibigay ninyo sa akin kung tulungan ko kayong madakip si Jesus ? ” tanong niya . Noon di’y binayaran nila si Judas ng tatlumpung pirasong pilak .
+40026017	Saan		Dumating ang unang araw ng Pista ng Tinapay na Walang Pampaalsa . Lumapit kay Jesus ang mga alagad at nagtanong , “ Saan po ninyo nais na maghanda kami ng hapunang pampaskwa ? ”
+40026040	~		Nagbalik siya at dinatnan niyang natutulog ang tatlong alagad . Sinabi niya kay Pedro , “ Talaga bang hindi kayo makapagpuyat na kasama ko kahit isang oras man lamang ?
+40026050	~		Sinabi sa kanya ni Jesus , “ Kaibigan , gawin mo na ang sadya mo . ” At siya’y nilapitan nila at dinakip .
+40026054	paanong		Ngunit paanong matutupad ang mga Kasulatan na nagsasabing ito’y dapat mangyari ? ”
+40026062a	~		Tumayo ang pinakapunong pari at sinabi kay Jesus , “ Wala ka bang isasagot sa paratang na ito laban sa iyo ? ”
+40026062b	~		
+40026065	~		Pagkarinig nito , pinunit ng pinakapunong pari ang kanyang damit at sinabi , “ Nilapastangan niya ang Diyos ! Hindi na natin kailangan ng mga saksi . Narinig ninyo ngayon ang kanyang paglapastangan sa Diyos !
+40026066	Ano		Ano ang pasya ninyo ? ” Sumagot sila , “ Dapat siyang mamatay ! ”
+40026068	sino		at kinutya , “ Hoy , Cristo , hulaan mo nga kung sino ang sumampal sa iyo ! ”
+40027004	Ano		Sinabi niya , “ Nagkasala ako ! Ipinagkanulo ko ang dugo ng taong wala ni anumang bahid ng kasalanan . ” “ Ano ang pakialam namin sa iyo ? Bahala ka sa buhay mo ! ” sagot nila .
+40027013	~		Kaya’t sinabi sa kanya ni Pilato , “ Hindi mo ba narinig ang paratang nila laban sa iyo ? ”
+40027017	Sino		Nang magkatipon ang mga tao ay tinanong sila ni Pilato , “ Sino ang ibig ninyong palayain ko , si Jesus Barabbas , o si Jesus na tinatawag na ‘ Cristo ’ ? ”
+40027021	Sino		Muli silang tinanong ng gobernador , “ Sino sa dalawa ang nais ninyong palayain ko ? ” “ Si Barabbas ! ” sigaw ng mga tao .
+40027022	ano		Sinabi sa kanila ni Pilato , “ Kung gayon , ano ang gagawin ko kay Jesus , na tinatawag na Cristo ? ” At sumagot ang lahat , “ Ipako siya sa krus ! ”
+40027023a	bakit		“ Bakit ? 
+40027023b	ano		Ano ang nagawa niyang masama ? ” tanong ni Pilato . Ngunit lalo pang lumakas ang kanilang sigawan , “ Ipako siya sa krus ! ”
+40027046	bakit		Nang mag-aalas tres na ng hapon , sumigaw si Jesus , na ang ibig sabihi’y “ Diyos ko , Diyos ko , bakit mo ako pinabayaan ? ”
+41001024	Ano		“ Ano ang pakay mo sa amin , Jesus na taga-Nazaret ? Naparito ka ba upang kami’y puksain ? Kilala kita , ikaw ang Banal na mula sa Diyos . ”
+41001027	Paanong		Ang lahat ay namangha kaya’t sila’y nagtanungan sa isa’t isa , “ Paanong nangyari iyon ? Ito ay isang kakaibang katuruan ! Makapangyarihan niyang nauutusan ang masasamang espiritu , at sumusunod naman ang mga ito sa kanya . ”
+41002007a	bakit		“ Bakit siya nagsasalita nang ganoon ? Nilalapastangan niya ang Diyos ! 
+41002007b	~		Hindi ba’t ang Diyos lamang ang makakapagpatawad ng kasalanan ? ”
+41002008	Bakit		Alam ni Jesus ang kanilang iniisip kaya’t sinabi niya agad , “ Bakit kayo nag-iisip nang ganyan ?
+41002009	Alin		Alin ba ang mas madali , ang sabihin sa paralitiko , ‘ Pinapatawad na ang mga kasalanan mo , ’ o ang sabihing , ‘ Tumayo ka , bitbitin mo ang iyong higaan at lumakad ka ’ ?
+41002016	Bakit		Nang makita ito ng ilang tagapagturo ng Kautusan na kabilang sa pangkat ng mga Pariseo , tagapagturo ng Kautusan at mga Pariseo . tinanong nila ang kanyang mga alagad , “ Bakit siya kumakaing kasama ang mga maniningil ng buwis at mga makasalanan ? ”
+41002018	Bakit		Minsan , nag-aayuno ang mga alagad ni Juan na Tagapagbautismo at ang mga Pariseo . May lumapit kay Jesus at nagtanong , “ Bakit po hindi nag-aayuno ang inyong mga alagad , samantalang ang mga alagad ni Juan na Tagapagbautismo at ang mga Pariseo ay nag-aayuno ? ”
+41002019	~		Sumagot si Jesus , “ Dapat bang mag-ayuno ang mga panauhin sa kasalan habang kasama pa nila ang lalaking ikinasal ? Hindi ! Hangga’t kasama nila ito , hindi nila gagawin iyon .
+41002024	~		Sinabi ng mga Pariseo kay Jesus , “ Tingnan mo ang ginagawa ng iyong mga alagad . Mahigpit iyang ipinagbabawal ng Kautusan sa Araw ng Pamamahinga ! ”
+41003004	alin		Pagkatapos , tinanong naman niya ang mga tao , “ Alin ba ang naaayon sa Kautusan , ang gumawa ng mabuti , o ang gumawa ng masama sa Araw ng Pamamahinga ? Ang magligtas ng buhay , o ang pumatay ? ” Ngunit sila’y hindi sumagot .
+41003023	Paanong		Dahil dito , pinalapit ni Jesus ang mga tao at sinabi sa kanila ang ilang talinhaga . Sabi niya , “ Paanong mapapalayas ni Satanas ang kanyang sarili ?
+41003033a	sino		“ Sino ang aking ina 
+41003033b	~		at mga kapatid ? ” tanong naman ni Jesus .
+41004013	Paano		Pagkatapos , tinanong sila ni Jesus , “ Hindi pa ba ninyo nauunawaan ang talinhagang ito ? Paano ninyo mauunawaan ang iba pang mga talinhaga ?
+41004030a	saan		“ Saan pa natin maihahambing ang kaharian ng Diyos ? 
+41004030b	anong		Anong talinhaga ang gagamitin natin upang mailarawan ito ? ” tanong ni Jesus .
+41004038	~		Si Jesus ay natutulog noon sa may hulihan ng bangka , nakahilig sa isang unan . Ginising siya ng mga alagad at sinabi , “ Guro , bale-wala ba sa inyo kung mapahamak kami ? ”
+41004040a	bakit		Pagkatapos , sinabi niya sa mga alagad , “ Bakit kayo natatakot ? 
+41004040b	~		Hanggang ngayon ba’y wala pa rin kayong pananampalataya ? ”
+41004041	Anong		Natakot sila nang labis at namangha . Sabi nila sa isa’t isa , “ Anong klaseng tao ito ? Pati hangin at lawa ay sumusunod sa inuutos niya ! ”
+41005007	bakit		Sumigaw siya nang malakas , “ Jesus , Anak ng Kataas-taasang Diyos , bakit mo ako pinapakialaman ? Ipangako mo sa pangalan ng Diyos na hindi mo ako pahihirapan ! ”
+41005009	ano		Tinanong siya ni Jesus , “ Ano ang pangalan mo ? ” “ Batalyon , sapagkat marami kami , ” tugon niya .
+41005030	Sino		Naramdaman naman ni Jesus na may kapangyarihang lumabas sa kanya , kaya’t bumaling siya agad sa mga tao at nagtanong , “ Sino ang humipo sa aking damit ? ”
+41005031	sino		Sumagot ang kanyang mga alagad , “ Nakikita po ninyong napakaraming nagsisiksikan sa paligid ninyo , bakit pa ninyo itinatanong kung sino ang humipo sa damit ninyo ? ”
+41005035	~		Habang nagsasalita pa si Jesus , may ilang taong dumating mula sa bahay ni Jairo . “ Patay na po ang inyong anak . Huwag na po ninyong abalahin ang Guro , ” sabi nila .
+41005039a	bakit		Pagpasok niya ay kanyang sinabi , “ Bakit kayo nagkakagulo 
+41005039b	~		at nag-iiyakan ? Hindi patay ang bata . Siya’y natutulog lamang . ”
+41006002a	saan		Pagdating ng Araw ng Pamamahinga , si Jesus ay nagturo sa sinagoga . Maraming tao ang nakarinig sa kanya at sa kanilang pagkamangha’y nagtatanungan sila , “ Saan niya natutunan ang lahat ng iyan ? 
+41006002b	anong		Anong karunungan itong ipinagkaloob sa kanya ? 
+41006002c	paano		Paano siya nakakagawa ng mga himala ?
+41006022	~		Nang pumasok ang anak na babae ni Herodias at nagsayaw , labis na nasiyahan si Herodes at ang mga panauhin , kaya’t sinabi ng hari sa dalaga , “ Hingin mo ang anumang nais mo at ibibigay ko sa iyo . ”
+41006024	Ano		Kaya’t lumabas ang dalaga at tinanong ang kanyang ina , “ Ano po ang hihingin ko ? ” “ Ang ulo ni Juan na Tagapagbautismo , ” sagot ng ina .
+41006037	~		Ngunit sinabi sa kanila ni Jesus , “ Bigyan ninyo sila ng makakain . ” Sumagot ang mga alagad , “ Nais po ba ninyong bumili kami ng pagkain sa halagang dalawandaang salaping pilak ? ”
+41006038	Ilan		“ Ilan ang dala ninyong tinapay ? Tingnan nga ninyo , ” utos niya . Pagkatapos tingnan ay kanilang sinabi , “ Lima po , at dalawang isda . ”
+41007005	Bakit		Kaya tinanong si Jesus ng mga Pariseo at ng mga tagapagturo ng Kautusan , “ Bakit hindi sumusunod ang mga alagad mo sa mga turo ng ating mga ninuno ? Kumakain sila nang hindi muna naghuhugas ng kamay ayon sa kaugalian . ”
+41008004	Saan		“ Ito po ay isang ilang na lugar . Saan po tayo kukuha ng pagkain para sa ganito karaming tao ? ” tanong ng mga alagad .
+41008005	Ilang		“ Ilang tinapay pa ang natitira ? ” tanong ni Jesus . “ Pito po , ” sagot nila .
+41008012	Bakit		Napabuntong-hininga si Jesus at sinabi sa kanila , “ Bakit naghahanap kayo ng himala ? Pakatandaan ninyo : kailanma’y hindi makakakita ng anumang tanda ang salinlahing ito . ”
+41008017	Bakit		Dahil alam ni Jesus ang kanilang pinag-uusapan , sinabi niya sa kanila , “ Bakit ninyo pinag-uusapang kayo’y walang dalang tinapay ? Hindi pa ba kayo nakakaintindi ? Hindi pa ba ito abot ng inyong isip ?
+41008018a	~		Wala ba kayong mata ? 
+41008018b	~		Wala ba kayong tainga ? Nakalimutan na ba ninyo
+41008019	Ilang		nang paghati-hatiin ko ang limang tinapay para sa limanlibong tao ? Ilang kaing ang napuno ninyo ng lumabis na pagkain ? ” “ Labindalawa po , ” tugon nila .
+41008020	ilang		“ At nang paghati-hatiin ko ang pitong tinapay para sa apat na libong tao , ilang kaing ang napuno ninyo ? ” tanong niya . “ Pito po , ” muli nilang sagot .
+41008021	~		“ At hindi pa rin ba ninyo nauunawaan ito ? ” tanong niya .
+41008023	~		Inakay niya ang bulag at dinala ito sa labas ng bayan . Matapos duraan at takpan ang mga mata nito ng kanyang kamay , tinanong ni Jesus , “ May nakikita ka ba ? ”
+41008027	ano		Si Jesus at ang kanyang mga alagad ay nagpunta sa mga nayon ng Cesarea na sakop ng Filipos . Habang sila’y naglalakbay , tinanong niya ang kanyang mga alagad , “ Ano ang sinasabi ng mga tao tungkol sa akin ? ”
+41008029a	~		“ Ngunit para sa inyo , 
+41008029b	ano		ano ang masasabi ninyo tungkol sa akin ? ” tanong niya . Sumagot si Pedro , “ Kayo po ang Cristo . ”
+41008036	ano		Sapagkat ano ba ang mapapala ng isang tao makamtan man niya ang buong daigdig , ngunit mapapahamak naman ang kanyang sarili ?
+41008037	Ano		Ano ba ang maibabayad ng isang tao para mabawi niya ang kanyang buhay ?
+41009010	ano		Sinunod nila ang tagubiling ito , ngunit sila’y nagtanungan sa isa’t isa kung ano ang kahulugan ng sinabi niyang muling pagkabuhay .
+41009011	Bakit		At tinanong nila si Jesus , “ Bakit po sinasabi ng mga tagapagturo ng Kautusan na dapat munang dumating si Elias ? ”
+41009012	bakit		Tumugon siya , “ Darating nga muna si Elias upang ihanda ang lahat ng bagay . Ngunit bakit sinasabi din sa Kasulatan na ang Anak ng Tao’y hahamakin at magtitiis ng maraming hirap ?
+41009016	Ano		Tinanong ni Jesus ang kanyang mga alagad , “ Ano ang inyong pinagtatalunan ? ”
+41009019a	hanggang kailan		Sinabi ni Jesus sa kanila , “ Lahing walang pananampalataya ! Hanggang kailan pa ba ako mananatiling kasama ninyo ? 
+41009019b	hanggang kailan		Hanggang kailan ko kayo pagtitiisan ? Dalhin ninyo rito ang bata ! ”
+41009021	Kailan		“ Kailan pa siya nagkaganyan ? ” tanong ni Jesus sa ama . “ Simula pa po noong bata siya ! ” tugon niya .
+41009028	Bakit		Nang pumasok si Jesus sa bahay , palihim siyang tinanong ng kanyang mga alagad , “ Bakit po hindi namin napalayas ang masamang espiritung iyon ? ”
+41009033	Ano		Dumating sila sa Capernaum . Nang sila’y nasa bahay na , tinanong ni Jesus ang kanyang mga alagad , “ Ano ang pinagtatalunan ninyo sa daan ? ”
+41009050	paano		Mabuti ang asin , ngunit kung ang asin ay mawalan na ng alat , paano pa ito mapapaalat muli ? Maging kagaya kayo ng asin , at mamuhay kayong mapayapa sa isa’t isa . ”
+41010003	Ano		Sumagot siya , “ Ano ba ang utos ni Moises sa inyo ? ”
+41010017	ano		Nang siya’y paalis na , may isang lalaking patakbong lumapit kay Jesus , lumuhod sa harapan niya at nagtanong , “ Mabuting Guro , ano po ba ang dapat kong gawin upang makamtan ko ang buhay na walang hanggan ? ”
+41010018	Bakit		Sumagot si Jesus , “ Bakit mo ako tinatawag na mabuti ? Walang mabuti kundi ang Diyos lamang .
+41010026	sino		Lalong nagtaka ang mga alagad , kaya’t nagtanong sila , “ Kung gayon , sino pa kaya ang maliligtas ? ”
+41010036	Ano		“ Ano ang maipaglilingkod ko sa inyo ? ” tanong ni Jesus .
+41010051	Ano		“ Ano ang gusto mong gawin ko para sa iyo ? ” tanong sa kanya ni Jesus . Sumagot ang bulag , “ Guro , gusto ko pong makakitang muli . ”
+41011003	bakit		Kapag may nagtanong kung bakit ninyo kinakalagan iyon , sabihin ninyong iyon ay kailangan ng Panginoon may-ari . at ibabalik din niya agad . ”
+41011005	Bakit		tinanong sila ng ilang nakatayo roon , “ Bakit ninyo kinakalagan iyan ? ”
+41011028a	ano		Siya’y tinanong nila , “ Ano ang karapatan mong gumawa ng mga bagay na ito ? 
+41011028b	sino		Sino ang nagbigay sa iyo ng ganyang karapatan ? ”
+41011030	kanino		Sabihin ninyo sa akin ; kanino nagmula ang karapatan ni Juan na magbautismo , sa Diyos ba o sa mga tao ? ”
+41011031a	~		At sila’y nag-usap-usap , “ Kung sasabihin nating mula sa Diyos , 
+41011031b	bakit		itatanong naman niya sa atin kung bakit hindi natin pinaniwalaan si Juan .
+41012009	Ano		“ Ano kaya ang gagawin ng may-ari ng ubasan ? Pupuntahan niya at papatayin ang mga katiwalang iyon , at ang ubasan ay ipapamahala niya sa iba .
+41012015	Bakit		Alam ni Jesus na sila’y nagkukunwari lamang , kaya sinabi niya sa kanila , “ Bakit ba ninyo ako sinusubok ? Bigyan ninyo ako ng isang salaping pilak . ”
+41012016a	kaninong		At siya nga ay binigyan nila ng salaping pilak . “ Kaninong larawan 
+41012016b	~		at pangalan ang nakatatak dito ? ” tanong ni Jesus sa kanila . “ Sa Emperador po , ” tugon nila .
+41012023	sino		Kapag binuhay na muli ang mga patay sa araw ng muling pagkabuhay , sino po ba sa pitong magkakapatid ang kikilalaning asawa ng babaing iyon , sapagkat silang lahat ay napangasawa niya ? ”
+41012028	Alin		Ang kanilang pagtatalo ay narinig ng isa sa mga tagapagturo ng Kautusan na naroon . Nakita niyang mahusay ang pagkasagot ni Jesus sa mga Saduseo kaya siya naman ang lumapit upang magtanong , “ Alin po ba ang pinakamahalagang utos ? ”
+41012035	Bakit		Habang si Jesus ay nagtuturo sa Templo , sinabi niya , “ Bakit sinasabi ng mga tagapagturo ng Kautusan na ang Cristo ay anak ni David ?
+41012037	paano		Si David na rin ang tumawag sa kanya ng Panginoon ; paano siya magiging anak ni David ? ” Napakaraming tao ang malugod na nakikinig sa kanya .
+41013004a	kailan		“ Kailan po ba mangyayari ang mga bagay na ito , 
+41013004b	ano		at ano po ba ang palatandaan na ang lahat ng mga ito’y malapit nang maganap ? ”
+41014004	bakit		Nagalit ang ilang naroroon at sila’y nag-usap-usap , “ Bakit niya inaksaya ang pabango ?
+41014006	Bakit		Ngunit sinabi naman ni Jesus , “ Bakit ninyo siya ginugulo ? Pabayaan ninyo siya ! Isang mabuting bagay ang ginawa niyang ito sa akin .
+41014012	Saan		Unang araw noon ng Pista ng Tinapay na Walang Pampaalsa , araw ng paghahain ng korderong pampaskwa . Tinanong si Jesus ng kanyang mga alagad , “ Saan po ninyo nais na maghanda kami ng hapunang pampaskwa ? ”
+41014014	~		sa bahay na kanyang papasukan at sabihin ninyo sa may-ari , ‘ Ipinapatanong po ng Guro kung mayroon kayong silid na maaaring magamit niya at ng kanyang mga alagad para sa hapunang pampaskwa . ’
+41014060a	~		Tumayo ang pinakapunong pari sa harap ng kapulungan at tinanong si Jesus , “ Wala ka bang isasagot sa paratang nila sa iyo ? ”
+41014060b	~		
+41014063	~		Pinunit ng pinakapunong pari ang kanyang kasuotan at sinabi , “ Hindi na natin kailangan pa ng mga saksi !
+41014064	Ano		Narinig ninyo ang kanyang paglapastangan sa Diyos ! Ano ang inyong desisyon ? ” At nagkaisa silang lahat na hatulan siya ng kamatayan .
+41015004	~		kaya’t siya’y muling tinanong ni Pilato , “ Wala ka bang isasagot ? Narinig mo ang dami ng kanilang paratang laban sa iyo . ”
+41015012	Ano		Kaya’t muli silang tinanong ni Pilato , “ Ano naman ang gusto ninyong gawin ko sa taong ito na tinatawag ninyong Hari ng mga Judio ? ”
+41015014a	bakit		“ Bakit , 
+41015014b	ano		ano ba ang kasalanan niya ? ” tanong ni Pilato . Ngunit lalo pang sumigaw ang mga tao , “ Ipako siya sa krus ! ”
+41015034	bakit		Nang ikatlo na ng hapon , sumigaw si Jesus , “ na ang kahulugan ay , “ Diyos ko , Diyos ko , bakit mo ako pinabayaan ? ”
+41016003	Sino		Ngunit sila ay nagtatanungan sa isa’t isa , “ Sino kaya ang maaari nating mapakiusapang maggulong ng batong nakatakip sa pintuan ng libingan ? ”
+42001018	Paano		Sinabi ni Zacarias sa anghel , “ Paano ko pong matitiyak na mangyayari iyan ? Ako’y matanda na at gayundin ang aking asawa . ”
+42001034	Paano		“ Paano pong mangyayari ito gayong ako’y isang birhen ? ” tanong ni Maria .
+42001043	Sino		Sino ako upang dalawin ng ina ng aking Panginoon ?
+42001066	ano		Pinag-isipan ito ng mga nakabalita , anupa’t naging tanong nilang lahat , “ Magiging ano kaya ang batang ito ? ” Sapagkat maliwanag na nasa kanya ang Panginoon .
+42002048	bakit		Namangha rin ang kanyang mga magulang nang siya’y makita . Sinabi ng kanyang ina , “ Anak , bakit mo naman ginawa ito sa amin ? Lubha ang aming pag-aalala ng iyong ama sa paghahanap sa iyo . ”
+42002049	Bakit		Sumagot si Jesus , “ Bakit po ninyo ako hinahanap ? Hindi po ba ninyo alam na ako’y dapat mamalagi sa bahay ng aking Ama ? ” dapat kong iukol ang aking panahon sa gawain ng aking Ama ?
+42003007	Sino		Marami ngang tao ang nagsilapit kay Juan upang magpabautismo . Ngunit sinabi niya sa kanila , “ Kayong lahi ng mga ulupong ! Sino ang nagbabala sa inyo upang tumakas sa kaparusahang darating ?
+42003010	ano		Tinanong siya ng mga tao , “ Kung gayon , ano po ang dapat naming gawin ? ”
+42003012	ano		Dumating din ang mga maniningil ng buwis upang magpabautismo . Sila’y nagtanong sa kanya , “ Guro , ano po ang dapat naming gawin ? ”
+42003014a	~		Tinanong din siya ng mga kawal , 
+42003014b	ano		“ At kami po naman , ano ang dapat naming gawin ? ” “ Huwag kayong manghihingi kaninuman sa pamamagitan ng pamimilit o ng pagpaparatang ng di makatuwiran ; masiyahan na kayo sa inyong sweldo , ” sagot niya .
+42004034	Ano		“ Ano ang pakialam mo sa amin , Jesus na taga-Nazaret ? Naparito ka ba upang puksain kami ? Kilala kita . Ikaw ang Banal na mula sa Diyos . ”
+42004036	Ano		Namangha ang lahat ng nakasaksi kaya’t nasabi nila sa isa’t isa , “ Ano ito ? Lubhang makapangyarihan ang kanyang salita ! Nauutusan niyang lumayas ang masasamang espiritu , at sumusunod naman sila ! ”
+42005021a	sino		Pagkarinig nito’y nag-usap-usap ang mga tagapagturo ng Kautusan at mga Pariseo , “ Sino itong nagsasalita ng kalapastanganan sa Diyos ? 
+42005021b	~		Hindi ba’t Diyos lamang ang makakapagpatawad ng mga kasalanan ? ”
+42005022	Bakit		Palibhasa’y alam ni Jesus ang kanilang pag-uusap , sinabi niya sa kanila , “ Bakit kayo nag-iisip nang ganyan ?
+42005023	alin		Alin ba ang mas madaling sabihin , ‘ Pinapatawad ka na sa iyong mga kasalanan , ’ o ‘ Tumayo ka at lumakad ’ ?
+42005030	Bakit		Kaya’t nagbulung-bulungan ang mga Pariseo at ang mga kasamahan nilang tagapagturo ng Kautusan . Sinabi nila sa mga alagad ni Jesus , “ Bakit kayo kumakain at umiinom na kasalo ng mga maniningil ng buwis at ng mga makasalanan ? ”
+42005033	Bakit		May ilan namang nagsabi kay Jesus ng ganito : “ Ang mga alagad ni Juan ay malimit mag-ayuno at manalangin , gayundin ang mga alagad ng mga Pariseo . Bakit ang mga alagad mo’y patuloy sa pagkain at pag-inom ? ”
+42005034	~		Sumagot si Jesus , “ Dapat bang magayuno ang mga panauhin sa kasalan habang kasama pa nila ang lalaking ikinasal ?
+42006002	Bakit		“ Bakit kayo gumagawa ng bawal sa Kautusan sa Araw ng Pamamahinga ? ” tanong ng ilang Pariseo .
+42006009	alin		Pagkatapos , sinabi ni Jesus sa mga tagapagturo ng Kautusan at Pariseo , “ Tatanungin ko kayo . Alin ba ang naaayon sa Kautusan , ang gumawa ng mabuti o ang gumawa ng masama sa Araw ng Pamamahinga ? Ang magligtas ng buhay o ang pumatay ? ”
+42006032	ano		“ Kung ang nagmamahal lamang sa inyo ang inyong mamahalin , ano pang gantimpala ang inyong hihintayin ? Ang mga makasalanan man ay marunong ding magmahal sa mga nagmamahal sa kanila .
+42006033	ano		Kung ang mga nagmamabuti lamang sa inyo ang inyong gagawan ng mabuti , ano pang gantimpala ang inyong hihintayin ? Kahit ang masasamang tao ay gumagawa rin niyan !
+42006034	ano		At kung ang makakabayad lamang ang inyong pauutangin , ano pang gantimpala ang inyong hihintayin ? Kahit ang masasamang tao ay nagpapautang din sa kapwa nila masama , sa pag-asang sila’y mababayaran .
+42006039	~		Tinanong sila ni Jesus nang patalinhaga , “ Maaari kayang mag-akay ang isang bulag ng kapwa niya bulag ? Pareho silang mahuhulog sa hukay kapag ginawa nila ang ganoon !
+42006041	Bakit		“ Bakit mo pinapansin ang puwing ng iyong kapatid ngunit hindi mo pinapansin ang troso sa iyong mata ?
+42006042	Paano		Paano mong masasabi sa iyong kapatid , ‘ Kapatid , hayaan mong alisin ko ang iyong puwing , ’ gayong hindi mo nakikita ang trosong nasa iyong mata ? Mapagkunwari ! Alisin mo muna ang troso sa iyong mata , nang makakita kang mabuti ; sa gayon , maaalis mo na ang puwing ng iyong kapatid . ”
+42006046	Bakit		“ Bakit ninyo ako tinatawag ng ‘ Panginoon , Panginoon , ’ gayong hindi naman ninyo tinutupad ang sinasabi ko ?
+42007024	Bakit		Habang papaalis ang mga sugo , nagsalita si Jesus sa mga tao tungkol kay Juan , “ Bakit kayo pumunta sa ilang ? Ano ang ibig ninyong makita ? Isang halamang tambo na iniuugoy ng hangin ?
+42007025	Ano		Ano nga ba ang inyong dinayo roon ? Isang taong may mamahaling damit ? Ang mga nagdaramit ng mamahalin at namumuhay sa karangyaan ay nasa palasyo ng mga hari .
+42007026	Ano		Ano nga ang inyong dinayo ? Isang propeta ? Oo . At sinasabi ko sa inyo , siya’y higit pa sa isang propeta .
+42007031a	kanino		Sinabi pa ni Jesus , “ Kanino ko maihahambing ang mga tao ngayon ? 
+42007031b	ano		Ano ang nakakatulad nila ?
+42007042	sino		Nang hindi sila makabayad , kapwa sila pinatawad . Ngayon , sino kaya sa kanila ang higit na magmamahal sa pinagkautangan ? ”
+42007049	Sino		At ang kanyang mga kasalo sa pagkain ay nagsimulang magtanong sa sarili , “ Sino ba itong nangangahas na magpatawad ng kasalanan ? ”
+42008025a	nasaan		Pagkatapos , sinabi niya , “ Nasaan ang inyong pananampalataya ? ” Ngunit sila’y natakot at namangha . Sinabi nila sa isa’t isa , 
+42008025b	sino		“ Sino kaya ito ? Inuutusan niya pati ang hangin at ang tubig , at sinusunod naman siya ng mga ito ! ”
+42008028	ano		Nang makita si Jesus ay nagsisisigaw ang lalaki , nagpatirapa at sinabi nang malakas , “ Jesus , Anak ng Kataas-taasang Diyos , ano ang pakialam mo sa akin ? Nakikiusap ako sa iyo , huwag mo akong pahirapan ! ”
+42008030	ano		Tinanong siya ni Jesus , “ Ano ang pangalan mo ? ” “ Pulutong , ” sagot niya , sapagkat marami ang demonyong pumasok sa kanya .
+42008045	Sino		Nagtanong si Jesus , “ Sino ang humawak sa damit ko ? ” Nang walang umamin , sinabi ni Pedro , “ Panginoon , napapaligiran po kayo at sinisiksik ng mga tao ! ”
+42009009a	sino		Ngunit sinabi ni Herodes , “ Pinapugutan ko na si Juan . Sino kaya ang lalaking ito ? Marami na akong nababalitaan tungkol sa kanya . ” Kaya sinikap niyang makita si Jesus .
+42009009b	~		
+42009018	Sino		Isang araw , habang si Jesus ay nananalanging mag-isa , lumapit sa kanya ang mga alagad . Tinanong sila ni Jesus , “ Ano ang sinasabi ng mga tao tungkol sa akin ? Sino raw ako ? ”
+42009020a	~		“ Kayo naman , 
+42009020b	ano		ano ang sabi ninyo ? ” tanong niya sa kanila . “ Kayo po ang Cristo na sinugo ng Diyos ! ” sagot ni Pedro .
+42009025	Ano		Ano nga ang mapapala ng tao , makamtan man niya ang buong daigdig kung ang mapapahamak naman ay ang kanyang sarili .
+42009041a	hanggang kailan		Sumagot si Jesus , “ Lahing napakasama at walang pananampalataya ! Hanggang kailan pa ako dapat manatiling kasama ninyo ? 
+42009041b	hanggang kailan		Hanggang kailan ko kayo pagtitiisan ? ” At sinabi niya sa lalaki , “ Dalhin ninyo rito ang iyong anak . ”
+42010025	ano		Isang dalubhasa sa kautusang Judio ang lumapit kay Jesus upang siya’y subukin . “ Guro , ano ang dapat kong gawin upang magkaroon ako ng buhay na walang hanggan ? ” tanong niya .
+42010026a	ano		Sumagot si Jesus , “ Ano ba ang nakasulat sa Kautusan ? 
+42010026b	ano		Ano ba ang nababasa mo roon ? ”
+42010029	Sino		Upang huwag siyang lumabas na kahiya-hiya , nagtanong pa ang lalaki , “ Sino naman ang aking kapwa ? ”
+42010036a	~		
+42010036b	sino		At nagtanong si Jesus , “ Sa palagay mo , sino kaya sa tatlo ang naging tunay na kapwa ng taong hinarang ng mga tulisan ? ”
+42011008	~		Sinasabi ko sa inyo , hindi man siya bumangon dahil sa kanilang pagiging magkaibigan , babangon siya upang ibigay ang hinihingi ng kaibigan dahil sa pagpupumilit nito .
+42011011	~		Kayong mga ama , bibigyan ba ninyo ng ahas ang inyong anak kung ito’y humihingi ng isda ?
+42011012	~		Bibigyan ba ninyo siya ng alakdan kung siya’y humihingi ng itlog ?
+42011013	gaano		Kung kayong masasama ay marunong magbigay ng mabubuting bagay sa inyong mga anak , gaano pa kaya ang inyong Ama na nasa langit ! Ibibigay niya ang Espiritu Santo sa mga humihingi sa kanya ! ”
+42011018	paano		Kung may mga pangkat sa kaharian ni Satanas na naglalaban-laban , paano mananatili ang kanyang kaharian ? Sinasabi ninyong nagpapalayas ako ng mga demonyo sa kapangyarihan ni Beelzebul .
+42011019	kaninong		Kung sa kapangyarihan ni Beelzebul ako nagpapalayas ng mga demonyo , sa kaninong kapangyarihan naman nagpapalayas ng demonyo ang inyong mga tagasunod ? Sila na rin ang magpapatunay na mali kayo .
+42012014	Sino		Sumagot siya , “ Sino ang naglagay sa akin bilang hukom o tagapaghati ng mana ninyo ? ”
+42012017	Ano		Kaya’t nasabi niya sa sarili , ‘ Ano ang gagawin ko ngayon ? Wala na akong paglagyan ng aking mga ani !
+42012020	Kanino		“ Ngunit sinabi sa kanya ng Diyos , ‘ Hangal ! Sa gabi ring ito’y babawian ka na ng buhay . Kanino ngayon mapupunta ang mga inilaan mo para sa iyong sarili ? ’
+42012024	~		Tingnan ninyo ang mga uwak , hindi sila nagtatanim ni umaani man ; wala rin silang bodega o kamalig ; ngunit pinapakain sila ng Diyos . Higit kayong mahalaga kaysa mga ibon !
+42012025	Sino		Sino sa inyo ang makakapagpahaba ng kanyang buhay nang kahit isang oras sa pamamagitan ng pangangamba ?
+42012026	bakit		Kung hindi ninyo magawâ ang ganoong kaliit na bagay , bakit kayo nangangamba tungkol sa ibang mga bagay ?
+42012042	Sino		Sumagot ang Panginoon , “ Sino nga ba ang tapat at matalinong katiwala ? Sino ang katiwalang pamamahalain ng kanyang panginoon sa kanyang sambahayan upang magbigay sa ibang mga alipin ng kanilang pagkain sa takdang oras ?
+42012049	~		“ Naparito ako upang magdala ng apoy sa lupa at sana’y nagliliyab na ito !
+42012056	bakit		Mga mapagkunwari ! Marunong kayong umunawa ng palatandaan sa lupa at sa langit , bakit hindi ninyo nauunawaan ang mga tanda ng kasalukuyang panahon ? ”
+42012057	Bakit		“ Bakit hindi ninyo mapagpasyahan kung ano ang dapat ninyong gawin ?
+42013004	~		At ang labing-walong namatay nang mabagsakan ng tore sa Siloe , sa akala ba ninyo’y higit silang makasalanan kaysa sa ibang naninirahan sa Jerusalem ?
+42013007	~		Dahil dito , sinabi niya sa tagapag-alaga ng ubasan , ‘ Tatlong taon na akong pumaparito at naghahanap ng bunga sa punong ito , ngunit wala akong makita . Putulin mo na’t nakakasikip lang iyan ! ’
+42013015	~		Sinagot siya ng Panginoon , “ Mga mapagkunwari ! Hindi ba’t kinakalag ninyo sa sabsaban ang inyong baka o asno at dinadala sa painuman kahit sa Araw ng Pamamahinga ?
+42013018a	ano		Sinabi ni Jesus , “ Ano ang katulad ng kaharian ng Diyos ? 
+42013018b	saan		Saan ko ito maihahambing ?
+42013020	saan		Sinabi pa ni Jesus , “ Saan ko ihahambing ang paghahari ng Diyos ?
+42013025	~		Kapag ang pinto ay isinara na ng pinuno ng sambahayan , magtitiis kayong nakatayo sa labas at katok nang katok . Sasabihin ninyo , ‘ Panginoon , papasukin po ninyo kami . ’ Ngunit sasabihin niya sa inyo , ‘ Hindi ko kayo kilala ! ’
+42014005	~		Pagkatapos ay sinabi niya sa kanila , “ Kung ang inyong anak o ang inyong baka ang nahulog sa balon , hindi ba’t iaahon ninyo ito kaagad kahit Araw ng Pamamahinga ? ”
+42014028	~		“ Kung ang isa sa inyo’y nagbabalak na magtayo ng tore , hindi ba siya uupo muna upang magplano at kuwentahin kung magkano ang magagastos niya upang matiyak kung may sapat siyang pera para maipatapos ang kanyang ipapatayo ?
+42014031	sinong		“ O sinong hari na makikipagdigma sa kapwa hari ang hindi muna mauupo upang pag-aralang mabuti kung ang sampung libong kawal niya ay maisasagupa sa kalaban na may dalawampung libong kawal ?
+42014034	paano		“ Mabuti ang asin , ngunit kung ang asin ay mawalan na ng alat , paano pa ito mapapaalat muli ?
+42015004	ano		“ Kung ang sinuman sa inyo ay may isandaang tupa at mawalan ng isa , ano ang gagawin niya ? Hindi ba’t iiwan niya ang siyamnapu’t siyam sa pastulan at hahanapin ang nawawala hanggang sa ito’y matagpuan ?
+42015008	ano		“ O kaya , kung ang isang babae ay may sampung salaping pilak at mawala ang isa , ano ang gagawin niya ? Hindi ba’t magsisindi siya ng ilawan , wawalisan ang buong bahay at hahanaping mabuti ang nawawalang salapi hanggang sa ito’y kanyang makita ?
+42015026	Bakit		Tinawag niya ang isang utusan at tinanong , ‘ Bakit ? Ano’ng mayroon sa atin ? ’
+42015029	~		Ngunit sumagot siya , ‘ Pinaglilingkuran ko kayo sa loob ng maraming taon at kailanma’y hindi ko kayo sinuway . Ngunit ni minsa’y hindi ninyo ako binigyan ng kahit isang maliit na kambing para magkatuwaan kami ng aking mga kaibigan .
+42016002	Ano		Kaya’t ipinatawag niya ang katiwala at tinanong , ‘ Ano ba itong naririnig ko tungkol sa iyo ? Ihanda mo ang ulat ng iyong pangangasiwa sapagkat tatanggalin na kita sa iyong tungkulin . ’
+42016003	Ano		Sinabi ng katiwala sa kanyang sarili , ‘ Ano ang gagawin ko ? Aalisin na ako ng aking amo sa pangangasiwa . Hindi ko kayang magbungkal ng lupa ; nahihiya naman akong magpalimos .
+42016005	Magkano		Isa-isa niyang tinawag ang mga may utang sa kanyang amo . Tinanong niya ang una , ‘ Magkano ang utang mo sa aking amo ? ’
+42016007	gaano		At tinanong naman niya ang isa , ‘ Ikaw , gaano ang utang mo ? ’ Sumagot ito , ‘ Isandaang kabang trigo po . ’ ‘ Heto ang kasulatan ng iyong pagkakautang , ’ sabi niya . ‘ Isulat mo , walumpu . ’
+42016011	sino		Kaya kung hindi kayo mapagkakatiwalaan sa mga kayamanan ng mundong ito , sino ang magtitiwala sa inyo ng tunay na kayamanan ?
+42016012	sino		At kung hindi kayo mapagkakatiwalaan sa kayamanan ng iba , sino ang magbibigay sa inyo ng talagang para sa inyo ?
+42017007	Sino		“ Sino sa inyo ang magsasabi sa kanyang aliping kagagaling sa pag-aararo o pagpapastol ng mga tupa sa bukid , ‘ Halika , at kumain ka na ’ ?
+42017017	Nasaan		“ Hindi ba’t sampu ang aking pinagaling at nilinis ? ” tanong ni Jesus . “ Nasaan ang siyam ?
+42017018	~		Wala bang nagbalik upang magpuri sa Diyos kundi ang dayuhang ito ? ”
+42017020	kailan		Minsan , si Jesus ay tinanong ng mga Pariseo kung kailan magsisimula ang paghahari ng Diyos . Sumagot siya , “ Walang makikitang palatandaan ng pagsisimula ng paghahari ng Diyos ,
+42017037	Saan		“ Saan po , Panginoon ? ” tanong ng kanyang mga alagad . Sumagot siya , “ Kung saan may bangkay , doon nagkakatipon ang mga buwitre . ”
+42018018	ano		May isang pinuno ng bayan na nagtanong kay Jesus , “ Mabuting Guro , ano po ba ang dapat kong gawin upang makamtan ko ang buhay na walang hanggan ? ”
+42018019	Bakit		Sumagot si Jesus , “ Bakit mo ako tinatawag na mabuti ? Ang Diyos lamang ang mabuti !
+42018026	sino		Nagtanong ang mga naroong nakikinig , “ Kung gayon , sino pa kaya ang maliligtas ? ”
+42018036	ano		Nang marinig niyang nagdaraan ang maraming tao , itinanong niya kung ano ang nangyayari .
+42018041	Ano		“ Ano ang gusto mong gawin ko para sa iyo ? ” “ Panginoon , gusto ko po sanang makakitang muli , ” sagot niya .
+42019007	~		Lahat ng nakakita nito ay nagbulung-bulungan . “ Nakikituloy siya sa isang makasalanan , ” sabi nila .
+42019023	Bakit		Bakit hindi mo na lamang idiniposito sa bangko ang aking salapi ? May tinubo sana iyan bago ako dumating . ’
+42019031	bakit		Kapag may nagtanong kung bakit ninyo iyon kinakalagan , sabihin ninyong kailangan iyon ng Panginoon . ”
+42019033	Bakit		Habang kinakalagan nila ang batang asno , tinanong sila ng mga may-ari , “ Bakit ninyo kinakalagan iyan ? ”
+42020002a	ano		Sinabi nila sa kanya , “ Sabihin mo nga sa amin kung ano ang karapatan mong gumawa ng mga bagay na ito ? 
+42020002b	sino		Sino ang nagbigay sa iyo ng ganyang karapatan ? ”
+42020005a	~		Kaya’t nag-usap-usap sila , “ Kung sasabihin nating sa Diyos , sasabihin naman niya sa atin , 
+42020005b	bakit		‘ Bakit hindi kayo naniwala sa kanya ? ’
+42020013	Ano		Napag-isip-isip ng may-ari ng ubasan , ‘ Ano kaya ang mabuti kong gawin ? Mabuti pa yata’y ang minamahal kong anak ang papupuntahin ko . Tiyak na siya’y igagalang nila . ’
+42020015	Ano		Siya’y inilabas nga nila sa ubasan at pinatay . “ Ano kaya ang gagawin sa kanila ng may-ari ng ubasan ? ” tanong ni Jesus .
+42020017	ano		Tiningnan sila ni Jesus at tinanong , “ Kung gayon , ano ang kahulugan ng talatang ito sa kasulatan , ‘ Ang batong itinakwil ng mga tagapagtayo ng bahay ang siyang naging batong-panulukan ’ ?
+42020023	~		Alam ni Jesus ang kanilang masamang balak kaya’t sinabi niya ,
+42020024a	kanino		“ Iabot ninyo sa akin ang isang salaping pilak . Kanino ang larawan 
+42020024b	~		at ang pangalang nakatatak dito ? ” “ Sa Emperador po , ” tugon nila .
+42020033	sino		Ngayon , sa muling pagkabuhay , sino po sa pito ang kikilalaning asawa ng babae , yamang silang lahat ay napangasawa niya ? ”
+42020041	Paano		Si Jesus naman ang nagtanong sa kanila , “ Paano nasasabi ng mga taong ang Cristo ay anak ni David ?
+42020044	bakit		Ngayon , kung ‘ Panginoon ’ ang tawag ni David sa Cristo , bakit sinasabi ng mga taong siya’y anak ni David ? ”
+42021007a	kailan		Tinanong nila si Jesus , “ Guro , kailan po mangyayari iyon ? 
+42021007b	ano		At ano ang magiging palatandaang iyon ay magaganap na ? ”
+42022009	Saan		“ Saan po ninyo nais na maghanda kami ? ” tanong nila .
+42022011	~		Sabihin ninyo sa may-ari ng bahay , ‘ Ipinapatanong po ng Guro kung mayroon kayong silid na maaaring magamit niya at ng kanyang mga alagad para sa hapunang pampaskwa . ’
+42022027	Sino		Sino ba ang higit na nakakataas , ang nakadulog sa hapag , o ang naglilingkod ? Hindi ba ang nakadulog sa hapag ? Ngunit ako’y kasama ninyo bilang isang naglilingkod .
+42022046	Bakit		“ Bakit kayo natutulog ? ” tanong niya . “ Bumangon kayo at manalangin upang hindi kayo madaig ng tukso . ”
+42022064	sino		Siya’y piniringan nila at tinatanong , “ Hulaan mo nga kung sino ang sumuntok sa iyo ! ”
+42022071	~		“ Hindi na natin kailangan ng mga saksi ; tayo na mismo ang nakarinig mula sa sarili niyang bibig ! ” sabi nila .
+42023022a	bakit		Ikatlong ulit na sinabi sa kanila ni Pilato , “ Bakit , 
+42023022b	ano		ano ba ang ginawa niyang masama ? Wala akong makitang dahilan upang siya’y hatulan ng kamatayan . Ipahahagupit ko na lamang siya at pagkatapos ay palalayain . ”
+42023031	ano		Sapagkat kung ganito ang ginagawa sa kahoy na sariwa , ano naman kaya ang gagawin kapag ito’y tuyo na ? ”
+42024005	Bakit		Dahil sa matinding takot , sila’y nagpatirapa . Tinanong sila ng mga lalaki , “ Bakit ninyo hinahanap ang buháy sa lugar ng mga patay ?
+42024017	Ano		Tinanong sila ni Jesus , “ Ano ba ang pinag-uusapan ninyo ? ” Tumigil silang nalulumbay , at
+42024019	Anong		“ Anong pangyayari ? ” tanong niya . Sumagot sila , “ Tungkol kay Jesus na taga-Nazaret , isang propetang makapangyarihan sa salita at gawa maging sa harap ng Diyos at ng mga tao .
+42024025	Bakit		Sinabi sa kanila ni Jesus , “ Hindi ba kayo makaunawa ? Bakit hindi kayo makapaniwala sa lahat ng sinasabi ng mga propeta ?
+42024038a	bakit		Kaya’t sinabi ni Jesus , “ Bakit kayo natitigilan ? 
+42024038b	bakit		Bakit kayo nag-aalinlangan ?
+43001019	sino		Ang mga pinuno ng mga Judio sa Jerusalem ay nagsugo ng ilang paring Judio at Levita upang itanong kay Juan kung sino nga ba siya .
+43001021	sino		“ Sino ka kung gayon ? ” tanong nila . “ Ikaw ba si Elias ? ” “ Hindi ako si Elias , ” tugon niya . “ Ikaw ba ang Propeta ? ” Sumagot siya , “ Hindi rin . ”
+43001022a	sino		“ Sino ka kung gayon ? Sabihin mo kung sino ka upang may masabi naman kami sa mga nagsugo sa amin . 
+43001022b	ano		Ano ang masasabi mo tungkol sa iyong sarili ? ” tanong nilang muli .
+43001025	Bakit		Muli nilang tinanong si Juan , “ Bakit ka nagbabautismo , gayong hindi naman pala ikaw ang Cristo , o si Elias , o ang Propeta ? ”
+43001038a	ano		Lumingon si Jesus , at nang makita niyang sumusunod sa kanya ang mga ito , sila’y tinanong niya , “ Ano ang kailangan ninyo ? ” Sumagot sila , 
+43001038b	saan		“ Saan po kayo nakatira , Rabi ? ” Ang kahulugan ng salitang ito’y Guro .
+43001046	~		“ May mabuti bang maaaring magmula sa Nazaret ? ” tanong ni Nathanael . Sumagot si Felipe , “ Halika’t tingnan mo . ”
+43001048	Paano		Tinanong siya ni Nathanael , “ Paano ninyo ako nakilala ? ” Sumagot si Jesus , “ Bago ka pa tawagin ni Felipe , nakita na kita nang ikaw ay nasa ilalim ng puno ng igos . ”
+43002004	~		Sinabi ni Jesus , “ Huwag po ninyo akong pangunahan , Ginang . Hindi pa po ito ang tamang panahon . ”
+43002018a	~		
+43002018b	anong		Dahil dito’y tinanong siya ng mga pinuno ng Judio , “ Anong himala ang maipapakita mo upang patunayang may karapatan kang gawin ito ? ”
+43003004	Paanong		“ Paanong maipapanganak pang muli ang isang taong matanda na ? Makakapasok pa ba siya sa sinapupunan ng kanyang ina para muling isilang ? ” tanong ni Nicodemo .
+43003009	~		“ Puwede po bang mangyari iyon ? ” tanong ni Nicodemo .
+43003012	paano		Kung hindi ninyo pinaniniwalaan ang mga sinasabi ko tungkol sa mga bagay dito sa mundo , paano pa ninyo mapapaniwalaan ang sasabihin ko tungkol sa mga bagay doon sa langit ?
+43004009	Bakit		Sinabi sa kanya ng babae , “ Ikaw ay Judio at Samaritana naman ako ! Bakit ka humihingi sa akin ng inumin ? ” Sinabi niya iyon sapagkat hindi nakikihalubilo ang mga Judio sa mga Samaritano . hindi gumagamit ang mga Judio ng pinggan o tasa ng mga Samaritano .
+43004011	Saan		Nagsalita ang babae , “ Ginoo , malalim ang balong ito at wala ka namang panalok . Saan ka kukuha ng tubig na nagbibigay-buhay ?
+43004027a	ano		Dumating ang kanyang mga alagad nang sandaling iyon , at nabigla sila nang makita nilang nakikipag-usap si Jesus sa isang Samaritana . Ngunit isa man sa kanila’y walang nagtanong sa babae , “ Ano ang kailangan ninyo ? ” Wala ring nagtanong kay Jesus , 
+43004027b	bakit		“ Bakit ninyo siya kinakausap ? ”
+43005012	Sino		At siya’y tinanong nila , “ Sino ang nagsabi sa iyong buhatin mo ang iyong higaan at lumakad ka ? ”
+43005044	paano		Ang hinahangad ninyo’y ang papuri ng isa’t isa at hindi ang papuri na nanggagaling sa iisang Diyos ; paano kayo maniniwala sa akin ?
+43005047	~		Dahil hindi ninyo pinapaniwalaan ang mga isinulat niya , hindi rin ninyo pinaniniwalaan ang mga sinasabi ko . ”
+43006005	Saan		Tumanaw si Jesus at nang makita niyang dumarating ang napakaraming tao , tinanong niya si Felipe , “ Saan kaya tayo makakabili ng tinapay upang makakain ang mga taong ito ? ”
+43006009	~		“ Mayroon po ritong isang batang lalaki na may dalang limang tinapay at dalawang isda . Subalit sasapat kaya ang mga ito ? ”
+43006025	kailan		Nang makita nila si Jesus sa ibayo ng lawa , siya’y tinanong nila , “ Guro , kailan pa kayo rito ? ”
+43006028	Ano		Kaya’t siya’y tinanong nila , “ Ano po ang dapat naming gawin upang aming matupad ang ipinapagawa ng Diyos ? ”
+43006030a	ano		“ Ano pong himala ang maipapakita ninyo upang sumampalataya kami sa inyo ? 
+43006030b	ano		Ano po ang inyong gagawin ?
+43006042	Paano		Sinabi nila , “ Hindi ba ito si Jesus na anak ni Jose ? Kilala natin ang kanyang ama’t ina . Paano niya masasabi ngayong , ‘ Bumabâ ako mula sa langit ’ ? ”
+43006052	Paanong		Dahil dito’y nagkaroon ng mainitang pagtatalu-talo ang mga Judio , “ Paanong maibibigay sa atin ng taong ito ang kanyang laman upang makain natin ? ”
+43006060	sino		Narinig ito ng kanyang mga alagad at marami sa kanila ang nagsabi , “ Mabigat na pananalita ito ; sino ang makakaunawa nito ? ”
+43006062	Gaano		Gaano pa kaya kung makita ninyong umaakyat ang Anak ng Tao papunta sa dati niyang kinaroroonan ?
+43006068	kanino		Sumagot si Simon Pedro , “ Panginoon , kanino pa po kami pupunta ? Nasa inyo ang mga salitang nagbibigay ng buhay na walang hanggan .
+43007011	Nasaan		Hinahanap siya roon ng mga Judio . “ Nasaan kaya siya ? ” tanong nila .
+43007015	Saan		Nagtataka ang mga pinuno ng mga Judio at naitanong nila , “ Saan kaya nakakuha ng karunungan ang taong ito gayong hindi naman siya nakapag-aral ? ”
+43007019	Bakit		Hindi ba’t ibinigay sa inyo ni Moises ang Kautusan ? Bakit wala ni isa man sa inyo ang tumutupad nito ? Bakit nais ninyo akong patayin ? ”
+43007020	Sino		Sumagot ang mga tao , “ Isa kang hangal ! Sino ba ang gustong pumatay sa iyo ? ”
+43007023	bakit		Kung tinutuli ang isang sanggol na lalaki kahit Araw ng Pamamahinga para masunod ang utos ni Moises , bakit kayo nagagalit sa akin dahil sa nagpagaling ako ng isang tao sa Araw ng Pamamahinga ?
+43007035	Saan		Nag-usap-usap ang mga Judio , “ Saan kaya pupunta ang taong ito at hindi na raw natin siya makikita ? Pupunta kaya siya sa ating mga kababayang nasa lupain ng mga Griego upang magturo sa kanila ?
+43007036	Ano		Ano kaya ang ibig niyang sabihin nang kanyang sinabing , ‘ Hahanapin ninyo ako ngunit hindi ninyo ako makikita , ’ at ‘ Hindi kayo makakapunta sa pupuntahan ko ’ ? ”
+43007041	~		“ Siya na nga ang Cristo ! ” sabi naman ng iba . Ngunit mayroon namang sumagot , “ Maaari bang magmula sa Galilea ang Cristo ?
+43007045	Bakit		Nang bumalik ang mga bantay ng Templo , tinanong sila ng mga punong pari at mga Pariseo , “ Bakit hindi ninyo siya dinala rito ? ”
+43007048	~		“ Mayroon bang pinuno o Pariseong naniniwala sa kanya ?
+43007051	~		“ Hindi ba’t labag sa ating Kautusan na hatulan ang isang tao nang di muna nililitis at inaalam kung ano ang kanyang ginawa ? ”
+43008005	Ano		Ayon sa Kautusan ni Moises , dapat batuhin hanggang sa mamatay ang mga katulad niya . Ano naman ang masasabi ninyo ? ”
+43008010	Nasaan		Tumayo si Jesus at tinanong ang babae , “ Nasaan sila ? Wala na bang humahatol sa iyo ? ”
+43008019	Nasaan		Siya’y tinanong nila , “ Nasaan ang iyong ama ? ” Sumagot si Jesus , “ Hindi ninyo ako kilala , at hindi rin ninyo kilala ang aking Ama . Kung kilala ninyo ako , kilala rin ninyo siya . ”
+43008025a	sino		“ Sino ka nga bang talaga ? ” 
+43008025b	~		tanong nila . Sumagot si Jesus , “ Matagal ko nang sinabi sa inyo kung sino ako .
+43008033	Paano		Sumagot sila , “ Kami ay mula sa lahi ni Abraham , at kailanma’y hindi kami naalipin ninuman . Paano mo masasabing palalayain kami ? ”
+43008043	Bakit		Bakit di ninyo maunawaan ang sinasabi ko ? Hindi ba’t ito’y dahil sa ayaw n’yong tanggapin ang itinuturo ko ?
+43008046a	sino		Sino sa inyo ang maaaring magpatunay na ako’y nagkasala ? 
+43008046b	bakit		At kung katotohanan ang sinasabi ko , bakit ayaw ninyong maniwala sa akin ?
+43008053	Ano		Mas magaling ka pa ba kaysa sa aming amang si Abraham ? Siya’y namatay , gayundin ang mga propeta . Ano ba ang palagay mo sa iyong sarili ? ”
+43008057	paano		Dahil dito’y sinabi sa kanya ng mga Judio , “ Wala ka pang limampung taong gulang , paano mo masasabing nakita mo na si Abraham ? ”
+43009002	sino		Tinanong siya ng kanyang mga alagad , “ Guro , sino po ang nagkasala at ipinanganak na bulag ang lalaking ito , siya ba o ang kanyang mga magulang ? ”
+43009010	Paano		“ Paano kang nakakita ? ” tanong nila .
+43009012	Nasaan		“ Nasaan siya ? ” tanong nila sa kanya . “ Hindi ko alam , ” sagot niya .
+43009016	Paanong		Ang sabi ng ilang Pariseo , “ Hindi maaaring mula sa Diyos ang taong iyon , sapagkat hindi niya ipinapangilin ang Araw ng Pamamahinga . ” Ngunit sinabi naman ng iba , “ Paanong makakagawa ng ganitong mga himala ang isang makasalanan ? ” At hindi sila magkaisa .
+43009017	ano		Kaya’t tinanong nilang muli ang dating bulag , “ At ikaw , ano naman ang masasabi mo tungkol sa kanya , dahil pinagaling niya ang iyong mga mata ? ” “ Isa siyang propeta ! ” sagot niya .
+43009019	Bakit		“ Anak nga ba ninyo ito ? Talaga bang siya’y ipinanganak na bulag ? Bakit nakakakita na siya ngayon ? ” tanong nila .
+43009026a	ano		“ Ano ang ginawa niya sa iyo ? 
+43009026b	paano		Paano niyang pinagaling ang iyong mga mata ? ” tanong nila .
+43009027	Bakit		Sumagot siya , “ Sinabi ko na po sa inyo , at ayaw naman ninyo akong paniwalaan . Bakit gusto ninyong marinig muli ? Nais ba ninyong maging alagad din niya ? ”
+43009034	~		Sumagot sila , “ Ipinanganak kang makasalanan at ngayo’y nais mo pa kaming turuan ! ” At siya’y kanilang itiniwalag .
+43009036	Sino		Sumagot ang lalaki , “ Sino po ba siya , Ginoo ? Sabihin ninyo sa akin upang ako’y manalig sa kanya . ”
+43010020	Bakit		Marami sa kanila ang nagsabi , “ Sinasapian siya ng demonyo at nababaliw ! Bakit kayo makikinig sa kanya ? ”
+43010021	~		Sinabi naman ng iba , “ Hindi makakapagsalita nang ganoon ang isang sinasapian ng demonyo ! Nakapagpapagaling ba ng bulag ang demonyo ? ”
+43010024	hanggang kailan		pinaligiran siya ng mga Judio at sinabi sa kanya , “ Hanggang kailan mo kami ilalagay sa alanganin ? Kung ikaw nga ang Cristo , sabihin mo na nang tuwiran . ”
+43010032	Alin		Kaya’t sinabi sa kanila ni Jesus , “ Marami akong mabubuting gawang ipinakita sa inyo mula sa Ama . Alin ba sa mga ito ang dahilan at ako’y inyong babatuhin ? ”
+43010036	paano		Ako’y pinili at isinugo ng Ama ; paano ninyo ngayon masasabing nilalapastangan ko ang Diyos dahil sa sinabi kong ako ang Anak ng Diyos ?
+43011034	Saan		“ Saan ninyo siya inilibing ? ” tanong ni Jesus . Sumagot sila , “ Panginoon , halikayo at tingnan ninyo . ”
+43011047	Ano		Kaya’t tinipon ng mga punong pari at mga Pariseo ang mga kagawad ng Sanedrin . Kanilang sinabi , “ Ano ang gagawin natin ? Gumagawa ng maraming himala ang taong ito .
+43011056	Ano		Hinahanap nila si Jesus sa Templo , at sila’y nagtatanungan , “ Ano sa palagay ninyo ? Paparito kaya siya sa pista ? ”
+43012005	Bakit		“ Bakit hindi na lamang ipinagbili ang pabango at ibinigay sa mga dukha ang pinagbilhan ? Maaaring umabot sa tatlong daang salaping pilak ang halaga ng pabangong iyan ! ”
+43012027	~		“ Ako’y nababagabag ngayon . Sasabihin ko bang , ‘ Ama , iligtas mo ako sa oras na ito ? ’ Hindi ! Sapagkat ito ang dahilan kung bakit ako naparito .
+43012034a	bakit		Sinagot siya ng mga tao , “ Sinasabi sa Kautusan na ang Cristo ay mananatili magpakailanman . Bakit mo sinasabing dapat maitaas ang Anak ng Tao ? 
+43012034b	sino		Sino ba ang Anak ng Tao ? ”
+43012038a	sino		Nangyari ito upang matupad ang sinabi ni Propeta Isaias , “ Panginoon , sino ang naniwala sa aming ipinahayag ? 
+43012038b	kanino		Kanino mo ipinakita ang iyong kapangyarihan ? ”
+43013025	sino		Humilig ang alagad na ito sa dibdib ni Jesus at nagtanong , “ Panginoon , sino po ba iyon ? ”
+43013036	Saan		“ Saan po kayo pupunta , Panginoon ? ” tanong ni Simon Pedro . Sumagot si Jesus , “ Sa pupuntahan ko’y hindi ka makakasunod ngayon , ngunit susunod ka pagkatapos . ”
+43013037	Bakit		Sumagot si Pedro , “ Bakit po hindi ako makakasunod sa inyo ngayon ? Buhay ko ma’y iaalay ko para sa inyo . ”
+43014002	~		Sa bahay ng aking Ama ay maraming silid . Kung hindi ito totoo , sasabihin ko ba sa inyong pupunta ako roon upang ipaghanda ko kayo ng inyong matitirhan ?
+43014005	paano		Sinabi sa kanya ni Tomas , “ Panginoon , hindi po namin alam kung saan kayo pupunta , paano naming malalaman ang daan ? ”
+43014009	Bakit		Sumagot si Jesus , “ Felipe , kaytagal na ninyo akong kasama , hanggang ngayo’y hindi mo pa ako kilala ? Ang nakakita sa akin ay nakakita na sa Ama . Bakit mo sinasabing ‘ Ipakita mo sa amin ang Ama ’ ?
+43014022	bakit		Tinanong siya ni Judas ( hindi si Judas Iscariote ) , “ Panginoon , bakit po sa amin lamang kayo magpapakilala nang lubusan at hindi sa sanlibutan ? ”
+43016005	saan		Ngunit ngayo’y pupunta na ako sa nagsugo sa akin at wala ni isa man sa inyo ang nagtatanong kung saan ako pupunta .
+43016017	Ano		Nag-usap-usap ang ilan sa mga alagad , “ Ano kaya ang ibig niyang sabihin ? Bakit niya sinabing kaunting panahon na lamang at hindi na natin siya makikita , at pagkaraan ng kaunti pang panahon ay makikita natin siyang muli ? Sinabi pa niya , ‘ Sapagkat ako’y pupunta sa Ama . ’
+43016018	Ano		Ano kaya ang kahulugan ng , ‘ kaunting panahon na lamang ’ ? Hindi natin maunawaan ang kanyang sinasabi ! ”
+43018004	Sino		Alam ni Jesus ang lahat ng mangyayari sa kanya kaya’t sila ay sinalubong niya at tinanong , “ Sino ang hinahanap ninyo ? ”
+43018007	Sino		Muli siyang nagtanong , “ Sino nga ba ang hinahanap ninyo ? ” “ Si Jesus na taga-Nazaret , ” sagot nila .
+43018011	~		Sinabi ni Jesus kay Pedro , “ Ibalik mo sa lalagyan ang iyong tabak ! Dapat kong danasin ang paghihirap na ibinigay sa akin ng Ama . ”
+43018021	Bakit		Bakit ako ang tinatanong ninyo ? Ang tanungin ninyo’y ang mga nakarinig sa akin ; alam nila kung ano ang sinabi ko . ”
+43018023	bakit		Sumagot si Jesus , “ Kung may nagawa akong masama , patunayan mo ! Ngunit kung totoo ang sinabi ko , bakit mo ako sinampal ? ”
+43018029	Ano		Kaya’t si Pilato ay lumabas sa palasyo at tinanong sila , “ Ano ang paratang ninyo laban sa taong ito ? ”
+43018035	Ano		Tugon ni Pilato , “ Hindi ako Judio . Ang mga kababayan mo at ang mga punong pari ang nagdala sa iyo rito . Ano ba ang ginawa mo ? ”
+43018038	Ano		“ Ano ba ang katotohanan ? ” tanong ni Pilato . Pagkasabi nito , muling lumabas si Pilato at sinabi sa mga Judio , “ Wala akong makitang kasalanan sa taong ito .
+43019009	Taga-saan		Muli siyang pumasok sa palasyo at tinanong si Jesus , “ Taga-saan ka ba ? ” Subalit hindi tumugon si Jesus .
+43019015	~		Sumigaw sila , “ Patayin siya ! Patayin ! Ipako sa krus ! ” “ Ipapako ko ba sa krus ang inyong hari ? ” tanong naman ni Pilato . Sumagot ang mga punong pari , “ Wala kaming hari kundi ang Emperador ! ”
+43020013	bakit		Tinanong nila si Maria , “ Babae , bakit ka umiiyak ? ” Sumagot siya , “ May kumuha po sa aking Panginoon at hindi ko alam kung saan siya dinala . ”
+43020015a	bakit		Tinanong siya ni Jesus , “ Babae , bakit ka umiiyak ? 
+43020015b	sino		Sino ang hinahanap mo ? ” Akala ni Maria , ang kausap niya’y ang hardinero kaya’t sinabi niya , “ Ginoo , kung kayo po ang kumuha sa kanya , pakituro nga po ninyo sa akin kung saan ninyo siya dinala at kukunin ko . ”
+43021012	sino		“ Halikayo at mag-almusal tayo , ” sabi ni Jesus . Isa man sa mga alagad ay hindi nangahas magtanong sa kanya kung sino siya sapagkat alam nila na siya ang Panginoon .
+43021020	sino		Lumingon si Pedro at nakita niyang kasunod niya ang alagad na minamahal ni Jesus , ang siyang humilig sa dibdib ni Jesus nang sila’y naghahapunan at nagtanong , “ Panginoon , sino po ang magkakanulo sa inyo ? ”
+43021021	paano		Nang makita siya ni Pedro ay tinanong nito si Jesus , “ Panginoon , paano po naman ang taong ito ? ”
+43021022	ano		Sumagot si Jesus , “ Kung nais kong mabuhay siya hanggang sa pagbabalik ko , ano sa iyo ? Sumunod ka sa akin ! ”
+43021023	ano		Kumalat sa mga mananampalataya ang balitang hindi mamamatay ang alagad na ito . Ngunit hindi naman sinabi ni Jesus na hindi siya mamamatay , kundi , “ Kung nais kong mabuhay siya hanggang sa pagbabalik ko , ano sa iyo ? ”
+44001011	bakit		Sabi nila , “ Kayong mga taga-Galilea , bakit kayo nakatayo rito at nakatingin sa langit ? Itong si Jesus na umakyat sa langit ay magbabalik gaya ng nakita ninyong pag-akyat niya . ”
+44002008	Bakit		Bakit sila nakapagsasalita sa ating wika ?
+44002012	Ano		Hindi nila lubusang maunawaan ang nangyari , kaya’t nagtatanungan sila , “ Ano ang kahulugan nito ? ”
+44002037	ano		Nabagbag ang kanilang kalooban nang marinig ito , kaya’t tinanong nila si Pedro at ang ibang mga apostol , “ Mga kapatid , ano ang dapat naming gawin ? ”
+44003012a	bakit		Kaya’t sinabi ni Pedro sa mga tao , “ Mga Israelita , bakit kayo nagtataka sa nangyaring ito ? 
+44003012b	bakit		Bakit ninyo kami tinitingnan nang ganyan ? Akala ba ninyo’y napalakad namin siya dahil sa sarili naming kapangyarihan o kabanalan ?
+44004007a	~		
+44004007b	anong		Pinaharap nila ang mga apostol at tinanong , “ Sa anong kapangyarihan 
+44004007c	kaninong		o sa kaninong pangalan ninyo ginagawa ang bagay na ito ? ”
+44004016	Ano		“ Ano ang gagawin natin sa mga taong ito ? Hayag na sa buong Jerusalem na isang pambihirang himala ang naganap sa pamamagitan nila ; hindi natin ito maikakaila .
+44004025a	bakit		Kayo po ang nagsalita sa pamamagitan ng aming ninunong si David na inyong lingkod nang sabihin niya sa patnubay ng Espiritu Santo , ‘ Bakit galit na galit ang mga Hentil , 
+44004025b	~		at ang mga tao’y nagbabalak ng walang kabuluhan ?
+44005003	bakit		Kaya’t sinabi ni Pedro , “ Ananias , bakit ka nagpadala kay Satanas at nagsinungaling ka sa Espiritu Santo ? Bakit mo binawasan ang pinagbilhan mo ng lupa ?
+44005004	Bakit		Bago mo ipinagbili ang lupa , hindi ba iyo iyon ? At nang maipagbili na , hindi ba iyo rin ang pinagbilhan ? Bakit mo naisipang gawin iyon ? Hindi ka sa tao nagsinungaling kundi sa Diyos . ”
+44005009	Bakit		Kaya’t sinabi sa kanya ni Pedro , “ Bakit nagkaisa kayong subukin ang Espiritu ng Panginoon ? Hayan ! Kadarating pa lamang ng mga naglibing sa iyong asawa , at ikaw naman ngayon ang isusunod nilang ilibing ! ”
+44007026	Bakit		Kinabukasan , may nakita siyang dalawang Israelitang nag-aaway , at sinikap niyang sila’y pagkasunduin . Sabi niya , ‘ Mga kaibigan , pareho kayong Israelita . Bakit kayo nag-aaway ? ’
+44007027	Sino		Subalit tinabig siya ng lalaking nananakit at pinagsabihan ng ganito : ‘ Sino ang naglagay sa iyo upang mamahala at humatol sa amin ?
+44007035	Sino		“ Itinakwil nila si Moises nang kanilang sabihin , ‘ Sino ang naglagay sa iyo upang maging pinuno at hukom namin ? ’ Ngunit ang Moises ding iyon ang isinugo ng Diyos upang mamuno at magligtas sa kanila , sa tulong ng anghel na nagpakita sa kanya sa mababang punongkahoy .
+44007049a	ano		‘ Ang langit ang aking trono , ’ sabi ng Panginoon , ‘ at ang lupa ang aking tuntungan . Ano pang bahay ang itatayo ninyo para sa akin , 
+44007049b	anong		o anong lugar ang pagpapahingahan ko ?
+44007052	Sinong		Sinong propeta ang hindi inusig ng inyong mga ninuno ? Pinatay nila ang mga nagpapahayag tungkol sa pagparito ng Matuwid na inyo namang pinagtaksilan at ipinapatay .
+44008031	Paano		Sagot naman nito , “ Paano ko mauunawaan ito kung walang magpapaliwanag sa akin ? ” At si Felipe ay inanyayahan niyang sumakay sa karwahe at umupo sa kanyang tabi .
+44008033	~		Siya’y hinamak at pinagkaitan ng katarungan . Walang sinumang makapagsasalaysay tungkol sa kanyang angkan , sapagkat kinitil nila ang kanyang buhay . ”
+44008034	sino		Nagtanong kay Felipe ang pinuno , “ Sabihin mo nga sa akin , sino ba ang tinutukoy dito ng propeta ? Sarili ba niya o iba ? ”
+44008036	~		Nagpatuloy sila sa paglalakbay , at dumating sa isang lugar na may tubig . Kaya’t sinabi ng pinuno , “ Tingnan mo , may tubig dito ! Hindi pa ba ako maaaring bautismuhan ? ” Sinabi sa kanya ni Felipe , “ Maaari , kung sumasampalataya ka nang buong puso . ” Sumagot ang pinuno , “ Sumasampalataya ako na si Jesu-Cristo ang Anak ng Diyos ! ”
+44009004	Bakit		Natumba siya sa lupa at narinig niya ang isang tinig na nagsasabi , “ Saulo , Saulo ! Bakit mo ako inuusig ? ”
+44009005	Sino		“ Sino kayo , Panginoon ? ” tanong niya . “ Ako’y si Jesus , ang iyong inuusig , ” tugon ng tinig sa kanya .
+44009006	ano		“ Tumayo ka’t pumasok sa lunsod , at doo’y sasabihin sa iyo kung ano ang dapat mong gawin . ”
+44010004	Ano		Tumingin siya at takot na takot na nagtanong , “ Ano po iyon ? ” Sumagot ang anghel , “ Kinalulugdan ng Diyos ang iyong mga dalangin at ang pagtulong mo sa mahihirap .
+44010021	Ano		Nanaog nga si Pedro at sinabi sa mga tao , “ Ako ang hinahanap ninyo . Ano ang maipaglilingkod ko sa inyo ? ”
+44010029	bakit		Kaya’t nang ipasundo ninyo ako , hindi ako nag-atubiling sumama . Nais kong malaman kung bakit ninyo ako ipinasundo . ”
+44010047	sino		“ Tulad natin , sila’y pinagkalooban din ng Espiritu Santo . Sino ang makakapagbawal na bautismuhan sila sa tubig ? ”
+44011017a	sino		Kung binigyan sila ng Diyos ng kaloob na tulad ng ibinigay niya sa atin noong tayo’y manalig sa Panginoong Jesu-Cristo , sino ako para hadlangan ang Diyos ? ”
+44011017b	~		
+44012018	ano		Kinaumagahan , gulung-gulo ang mga kawal dahil sa pagkawala ni Pedro , at hindi nila alam kung ano ang nangyari sa kanya .
+44013025	sino		Nang matatapos na ni Juan ang kanyang gawain , sinabi niya sa mga tao , ‘ Sino ba ako sa akala ninyo ? Hindi ako ang Cristo . Ngunit siya’y darating na kasunod ko . At hindi ako karapat-dapat kahit magkalag man lamang ng kanyang sandalyas . ’
+44014015	~		“ Mga ginoo , huwag ninyong gawin iyan ! Mga tao rin kaming tulad ninyo ! Ipinapangaral namin sa inyo ang Magandang Balita upang talikuran ninyo ang mga walang kabuluhang bagay na iyan , at manumbalik kayo sa Diyos na buháy na lumikha ng langit , lupa , dagat , at lahat ng naroroon .
+44015010	Bakit		Bakit ba marunong pa kayo sa Diyos ? Bakit ninyo iniaatang sa mga mananampalataya ang isang pasaning hindi nakayang dalhin ng ating mga ninuno at hindi rin natin kayang pasanin ?
+44016030	ano		Sila ay inilabas niya at sinabi , “ Mga ginoo , ano po ang dapat kong gawin upang ako’y maligtas ? ”
+44017018	Ano		Subalit nakipagtalo sa kanya ang ilang pilosopong Epicureo at Estoico . “ Ano ba ang sinasabi sa atin ng nagmamarunong na iyan ? ” sabi ng ilan . Sabi naman ng iba , “ Nangangaral yata tungkol sa ibang mga diyos . ” Sinabi nila iyon dahil nangangaral si Pablo tungkol kay Jesus at sa muling pagkabuhay .
+44017019	ano		Siya’y isinama nila at iniharap sa kapulungan ng Areopago at tinanong , “ Maaari bang malaman namin kung ano itong bagong aral na itinuturo mo ?
+44019003	ano		“ Kung gayon , sa ano kayo nabautismuhan ? ” tanong niya . “ Sa bautismo ni Juan , ” tugon naman nila .
+44019015	sino		Subalit sinagot sila ng masamang espiritu , “ Kilala ko si Jesus , kilala ko rin si Pablo , ngunit sino ba kayo ? ”
+44019035	sino		Sa wakas dumating ang punong-bayan at pinatahimik ang mga tao . At kanyang sinabi , “ Mga taga-Efeso ! Sino ba ang hindi nakakaalam na ang lunsod ng Efeso ang siyang tagapag-ingat ng templo ng dakilang Artemis ? Sinong hindi nakakaalam na ang banal na batong ito ay mula sa langit ?
+44021013a	bakit		Ngunit sumagot si Pablo , “ Bakit kayo umiiyak ? 
+44021013b	~		Pinapahina lamang ninyo ang loob ko ! Handa ako , hindi lamang pagapos , kundi kahit mamatay doon sa Jerusalem kung kailangan , alang-alang sa pangalan ng Panginoong Jesus . ”
+44021022	Ano		Ano ngayon ang nararapat nating gawin ? Tiyak na mababalitaan nilang dumating ka .
+44021033a	sino		Lumapit ang pinuno , dinakip si Pablo at ipinagapos ng dalawang tanikala . “ Sino ang taong ito ? 
+44021033b	ano		Ano ang kanyang ginawa ? ” tanong niya .
+44022007	Bakit		Napasubasob ako sa lupa at narinig ko ang isang tinig na nagsalita sa akin , ‘ Saulo , Saulo ! Bakit mo ako inuusig ? ’
+44022008	Sino		Ako’y sumagot , ‘ Sino po kayo , Panginoon ? ’ ‘ Ako ang iyong pinag-uusig na si Jesus na taga-Nazaret , ’ tugon ng tinig .
+44022010	Ano		‘ Ano po ang gagawin ko , Panginoon ? ’ tanong ko . At tumugon siyang muli , ‘ Tumayo ka at pumunta sa Damasco . Sasabihin sa iyo roon ang lahat ng itinakda na dapat mong gawin . ’
+44022016	ano		At ngayon , ano pang hinihintay mo ? Tumayo ka na , magpabautismo at manalangin ka sa kanyang pangalan upang mapatawad ka sa iyong mga kasalanan . ' "
+44022026	Paano		Nang marinig ito ng kapitan , pumunta siya sa pinuno at sinabi , “ Paano ito ? Mamamayang Romano pala ang taong iyon ! ”
+44023003	~		Sinabi ni Pablo , “ Hahampasin ka ng Diyos , ikaw na mapagkunwari ! Nakaluklok ka riyan upang hatulan ako ayon sa Kautusan , ngunit labag sa Kautusan ang ipasampal mo ako . ”
+44023009	~		At lumakas ang kanilang sigawan . Tumayo ang ilan sa mga tagapagturo ng Kautusan na kapanig ng mga Pariseo at malakas na tumutol , “ Wala kaming makitang pagkakasala sa taong ito . Anong malay natin , baka nga kinausap siya ng isang espiritu o isang anghel ! ”
+44023019	Ano		Hinawakan ng pinuno sa kamay ang binatilyo , dinala sa isang tabi at tinanong , “ Ano ba ang sasabihin mo sa akin ? ”
+44026008	Bakit		Bakit hindi mapaniwalaan ng mga naririto na maaaring muling buhayin ng Diyos ang mga patay ?
+44026014	bakit		Kaming lahat ay natumba sa lupa , at narinig ko ang isang tinig na nagsabi sa akin sa wikang Hebreo , ‘ Saulo , Saulo , bakit mo ako pinag-uusig ? Ikaw na rin ang masasaktan sa ginagawa mong iyan . Para kang sumisipa sa talim . ’
+44026015	Sino		At itinanong ko , ‘ Sino po kayo , Panginoon ? ’ At kanyang sinabi , ‘ Ako’y si Jesus na iyong pinag-uusig .
+45002017	~		Ngunit ikaw na nagsasabing ikaw ay Judio at nananalig sa Kautusan , ipinagmamalaki mong may kaugnayan ka sa Diyos .
+45002021	bakit		Nagtuturo ka sa iba , bakit di mo turuan ang iyong sarili ? Nangangaral kang masama ang magnakaw , hindi ka ba nagnanakaw ?
+45002028	~		Sapagkat ang isang tao ay hindi nagiging Judio dahil sa panlabas na kaanyuan o dahil sa siya ay tinuli sa laman .
+45003001a	paanong		Kung gayon , paanong nakakalamang ang Judio sa hindi Judio ? 
+45003001b	ano		Ano ang kabuluhan ng pagiging tuli ?
+45003003	Ano		Ano nga kung hindi naging tapat ang ilan sa kanila ? Ang ibig kayang sabihin niyon ay hindi na rin tapat ang Diyos ?
+45003005	~		Ngunit kung ang kasamaan natin ay nagpapakilala ng katarungan ng Diyos , masasabi ba nating hindi siya makatarungan dahil tayo’y pinaparusahan niya ? ( Ganyan ang pangangatuwiran ng tao . )
+45003006	paano		Hinding-hindi ! Kung hindi makatarungan ang Diyos , paano niya hahatulan ang sanlibutan ?
+45003007a	~		Kung sa pamamagitan ng aking kasinungalingan ay lalong lumilitaw ang kaluwalhatian ng Diyos , sapagkat lalong nakikilala na siya’y tapat , 
+45003007b	bakit		bakit pa niya ako paparusahan bilang isang makasalanan ?
+45003008	bakit		Kung gayon , bakit nga hindi natin sabihin , “ Gumawa tayo ng masama kung mabuti naman ang magiging bunga noon ? ” Ganyan daw ang itinuturo namin , sabi ng mga naninira sa amin . Sila’y paparusahan ng Diyos , at iyan ang nararapat .
+45003009	ano		Ano ngayon ? Ang kalagayan ba nating mga Judio ay mas mabuti masama . kaysa sa mga Hentil ? Hindi ! Tulad na nga ng aming sinabi , ang lahat ng tao ay makasalanan , maging Judio o Hentil man .
+45003027a	ano		Kaya’t ano ngayon ang ating maipagmamalaki ? Wala ! 
+45003027b	bakit		At bakit naman tayo magmamalaki ? Dahil ba sa ating pagsunod sa Kautusan ? Hindi ! Kundi dahil sa ating pananampalataya kay Cristo .
+45003027b	~		
+45004001	Ano		Tungkol kay Abraham na ating ninuno , ano naman ang masasabi natin ? Ano ang kanyang karanasan tungkol sa bagay na ito ?
+45004003	Ano		Ano ang sinasabi ng kasulatan ? “ Si Abraham ay sumampalataya sa Diyos ; at dahil dito , siya ay itinuring ng Diyos bilang isang taong matuwid . ”
+45004010	Kailan		Kailan iyon nangyari ? Bago siya tinuli , o pagkatapos ? Bago siya tinuli , at hindi pagkatapos .
+45005010	~		Dati , tayo’y mga kaaway ng Diyos , ngunit tinanggap na niya tayo bilang mga kaibigan sa pamamagitan ng pagkamatay ng kanyang Anak . At dahil dito , tiyak na maliligtas tayo sapagkat si Cristo ay buháy .
+45005021	~		Kaya nga , kung paanong naghari ang kasalanan sa pamamagitan ng kamatayan , gayundin naman maghahari ang kagandahang-loob ng Diyos sa pamamagitan ng pagpapawalang-sala . Ito’y magdudulot ng buhay na walang hanggan sa pamamagitan ng ating Panginoong Jesu-Cristo .
+45006001	Ano		Ano ngayon ang sasabihin natin ? Patuloy ba tayong magkakasala upang sumagana sa atin ang kagandahang-loob ng Diyos ?
+45006002	paano		Hinding-hindi ! Tayo’y patay na sa kasalanan , paano pa tayo mamumuhay sa pagkakasala ?
+45006015	~		Ngayon , malaya na ba tayong magkasala dahil hindi na tayo saklaw ng kautusan kundi ng kagandahang-loob ng Diyos ? Hinding-hindi !
+45006021	Ano		Ano ang napalâ ninyo sa mga bagay na iyon na ikinahihiya ninyo ngayon ? Kamatayan ang ibinubunga ng mga iyon .
+45007007	~		Ang ibig bang sabihin nito’y ang Kautusan ay masama ? Hinding-hindi ! Kaya lamang , kundi dahil sa Kautusan ay hindi ko sana nalaman kung ano ang kasalanan . Hindi ko sana nalaman kung ano ang pag-iimbot kung hindi sinabi ng Kautusan , “ Huwag mong pagnanasaang maangkin ang pag-aari ng iba . ”
+45007024	Sino		Anong saklap ng aking kalagayan ! Sino kaya ang magliligtas sa akin sa kalagayang ito na nagpapahamak sa akin ?
+45008024	sinong		Naligtas tayo dahil sa pag-asang ito . Ngunit hindi iyon matatawag na pag-asa kung nakikita na natin ang ating inaasahan . Sapagkat sinong tao ang aasa pa kung ito’y nakikita na niya ?
+45008031a	ano		Ano pa ang masasabi natin tungkol dito ? 
+45008031b	sino		Kung ang Diyos ay panig sa atin , sino ang makakalaban sa atin ?
+45008032	~		Kung ang sarili niyang Anak ay hindi niya ipinagkait , sa halip ay ibinigay para sa ating lahat , hindi kaya niya ibibigay sa atin ang lahat ng bagay ?
+45008033	Sino		Sino ang makakapagharap ng paratang laban sa mga hinirang ng Diyos , gayong ang Diyos ang nagpapawalang-sala sa kanila ?
+45008034	Sino		Sino ang hahatol na sila’y parusahan ? Si Cristo Jesus na pinatay , ngunit higit sa lahat ay muling binuhay , ngayon ay nasa kanan ng Diyos upang mamagitan para sa atin .
+45008035	Sino		Sino ang makapaghihiwalay sa atin sa pag-ibig ni Cristo ? Ang kaguluhan kaya , ang kapighatian , pag-uusig , pagkagutom , kahirapan , panganib , o kamatayan ?
+45009014	~		Masasabi ba nating hindi makatarungan ang Diyos dahil dito ? Hinding-hindi !
+45009019a	bakit		Sasabihin mo naman sa akin , “ Kung gayon , bakit pa sinisisi ng Diyos ang tao ? 
+45009019b	sino		Sino ba ang makakasalungat sa kanyang kalooban ? ”
+45009020a	sino		Tao ka lamang , sino kang mangangahas na sumagot nang ganoon sa Diyos ? 
+45009020b	~		Masasabi kaya ng isang hinuhubog sa kanyang manghuhubog , 
+45009020c	bakit		“ Bakit ninyo ako ginawang ganito ? ”
+45009021	~		Wala bang karapatan ang gumagawa ng palayok na bumuo ng mamahalin o mumurahing sisidlan mula sa iisang tumpok ng putik ?
+45009022	~		Kaya , kahit nais nang ipakita noon ng Diyos ang kanyang poot at ipakilala ang kanyang kapangyarihan , buong tiyaga pa rin niyang pinagtiisan ang mga taong dapat sana’y parusahan at lipulin .
+45009023	~		Ginawa niya iyon upang ipakilala ang kanyang walang kapantay na kadakilaan sa mga taong kanyang kinahabagan , na noong una pa’y inihanda na niya para sa kaluwalhatian .
+45009024	~		Tayo ang mga taong iyon na tinawag niya hindi lamang mula sa mga Judio subalit mula rin sa mga Hentil .
+45009030	Ano		Ano ngayon ang masasabi natin ? Ang mga Hentil na hindi nagsikap na maging kalugud-lugod sa Diyos ay pinawalang-sala niya sa pamamagitan ng pananampalataya .
+45009032	Bakit		Bakit ? Dahil sinikap nilang kalugdan sila ng Diyos sa pamamagitan ng mga gawa , at hindi sa pamamagitan ng pananampalataya sa kanya . Natisod sila sa batong katitisuran ,
+45010006	Sino		Ngunit ganito naman ang sinasabi tungkol sa pagiging matuwid batay sa pananampalataya , “ Huwag mong sabihin sa iyong sarili , ‘ Sino ang aakyat sa langit ? ' " na para bang nais pababain si Cristo .
+45010007	Sino		“ Huwag mo ring sabihin , ‘ Sino ang bababâ sa kailaliman ? ' " na para bang nais pabangunin si Cristo mula sa mga libingan .
+45010008	~		Sapagkat ganito ang sinasabi , “ Malapit sa iyo ang kautusan , nasa iyong mga labi at nasa iyong puso . ” Ang tinutukoy dito’y ang salitang ipinapangaral namin tungkol sa pananampalataya .
+45010014a	paano		Paano naman sila tatawag sa kanya kung hindi sila sumasampalataya ? 
+45010014b	paano		Paano sila sasampalataya kung wala pa silang napakinggan tungkol sa kanya ? 
+45010014c	paano		Paano naman sila makakapakinig kung walang mangangaral sa kanila ?
+45010015	paanong		At paanong makakapangaral ang sinuman kung hindi siya isinugo ? Tulad ng nasusulat , “ O kay gandang pagmasdan ang pagdating ng mga may dalang Magandang Balita ! ”
+45010016	sino		Ngunit hindi lahat ay tumanggap sa Magandang Balita , gaya ng sinulat ni Isaias , “ Panginoon , sino ang naniwala sa aming mensahe ? ”
+45011004	ano		Ngunit ano ang sagot sa kanya ng Diyos ? “ Nagtira ako ng pitong libong lalaking hindi sumamba sa diyus-diyosang si Baal . ”
+45011007	Ano		Ano ngayon ? Hindi nakamtan ng bansang Israel ang kanyang minimithi . Ang mga hinirang lamang ang nagkamit nito dahil matigas ang ulo ng iba .
+45011015	~		Kung ang pagkatakwil sa kanila ay naging daan upang maibalik sa Diyos ang sanlibutan , ang muling pagtanggap sa kanila ng Diyos ay matutulad sa muling pagkabuhay ng patay !
+45011018	~		huwag kang magmalaki sa mga sangang pinutol . Alalahanin mong hindi ikaw ang bumubuhay sa mga ugat ; ang mga ugat ang bumubuhay sa iyo .
+45011033a	sino		Lubhang napakasagana ng kayamanan ng Diyos ! Di matarok ang kanyang karunungan at kaalaman ! Sino ang makakapagpaliwanag ng kanyang mga kapasyahan ? 
+45011033b	sino		Sino ang makakaunawa ng kanyang mga pamamaraan ? Gaya ng nasusulat ,
+45011034a	sino		“ Sino ang nakakaalam sa pag-iisip ng Panginoon ? 
+45011034b	sino		Sino ang maaaring maging tagapayo niya ?
+45011035	Sino		Sino ang nakapagbigay ng anuman sa kanya na dapat niyang bayaran ? ”
+45014004	Sino		Sino ka upang humatol sa lingkod ng iba ? Ang panginoon lamang niya ang makahahatol kung siya’y karapat-dapat o hindi . At aariin naman siyang karapat-dapat sapagkat kayang gawin iyon ng Panginoon .
+45014010a	bakit		Ngunit ikaw , bakit mo hinahatulan ang iyong kapatid ? 
+45014010b	bakit		At ikaw naman , bakit mo hinahamak ang iyong kapatid ? Tayong lahat ay haharap sa hukuman ng Diyos .
+46001020a	ano		Ano ngayon ang kabuluhan ng marurunong , 
+46001020b	~		ng mga tagapagturo ng Kautusan , 
+46001020c	~		ng mahuhusay na debatista sa kapanahunang ito ? Ipinapakita ng Diyos na ang karunungan ng sanlibutang ito ay pawang kahangalan lamang .
+46002011	~		Sapagkat walang nakakaalam sa iniisip ng isang tao maliban sa kanyang sariling espiritu . Gayundin naman , walang nakakaalam sa mga iniisip ng Diyos maliban sa Espiritu ng Diyos .
+46002016a	sino		“ Sino ang nakakaalam ng pag-iisip ng Panginoon ? 
+46002016b	sino		Sino ang makapagpapayo sa kanya ? ”
+46003005a	sino		Sino ba si Apolos 
+46003005b	sino		at sino si Pablo ? Kami’y mga lingkod lamang ng Diyos na kinasangkapan niya upang akayin kayo sa pananampalataya kay Cristo . Ginawa lamang ng bawat isa sa amin ang tungkuling ibinigay ng Panginoon .
+46004007a	paano		Paano kayo nakakahigit sa iba ? 
+46004007b	~		Hindi ba’t lahat ng nasa inyo’y ibinigay lamang sa inyo ng Diyos ? 
+46004007c	bakit		Kung gayon , bakit ninyo ipinagyayabang iyon na parang hindi kaloob sa inyo ?
+46004021	Ano		Ano bang gusto ninyo ? Pupunta ba akong may dalang pamalo , o taglay ang diwa ng pag-ibig at kahinahunan ?
+46005002	~		At nakukuha pa ninyong magmalaki ! Dapat sana’y mahiya kayo at malungkot , at ang taong gumagawa ng ganoon ay dapat ninyong itiwalag !
+46005012	~		Kung sabagay , wala akong karapatang humatol sa mga hindi Cristiano ; ang Diyos ang hahatol sa kanila . Hindi ba’t ang mga nasa loob ng iglesya ang dapat ninyong hatulan ? Sabi nga sa kasulatan , “ Itiwalag ninyo sa inyong samahan ang masamang tao . ”
+46006001	bakit		Kung may reklamo ang sinuman sa inyo laban sa kapwa Cristiano , bakit siya nagsasakdal sa mga hukom na hindi Cristiano , sa halip na ipaubaya sa mga hinirang ng Diyos ang pag-aayos ng usapin nila ?
+46006003	~		Hindi ba ninyo alam na hahatulan natin ang mga anghel ? Gaano na lang ang mga bagay na may kinalaman sa buhay na ito !
+46006004	bakit		Kung may mga usapin kayo , bakit ninyo ito idinudulog sa mga taong hindi kinikilala ng iglesya ?
+46006007a	bakit		Ang pagkakaroon ninyo ng usapin laban sa isa’t isa ay isa nang kabiguan sa inyo . Bakit hindi na lang ninyo hayaang gawan kayo ng masama ? 
+46006007b	bakit		Bakit hindi na lamang ninyo hayaang madaya kayo ?
+46006009	~		Hindi ba ninyo alam na ang mga makasalanan ay walang bahagi sa kaharian ng Diyos ? Huwag ninyong dayain ang inyong sarili ! Ang mga nakikiapid , sumasamba sa diyus-diyosan , nangangalunya , nakikipagtalik sa kapwa lalaki o kapwa babae ,
+46006016	~		Hindi ba ninyo alam na nagiging isa ang katawan ng bayarang babae at ng nakikipagtalik sa kanya ? Sapagkat sinasabi sa kasulatan , “ Ang dalawa’y magiging isa . ”
+46006019	~		Hindi ba ninyo alam na ang inyong katawan ay templo ng Espiritu Santo na nasa inyo at ipinagkaloob ng Diyos sa inyo ? Hindi na ninyo pag-aari ang inyong katawan ;
+46007016a	anong		Anong malay ninyo , mga babae , baka kayo ang maging kasangkapan sa ikaliligtas ng inyong asawa ? 
+46007016b	anong		At kayong mga lalaki , anong malay ninyo , baka kayo ang maging kasangkapan sa ikaliligtas ng inyong asawa ?
+46009007a	~		Ang kawal ba ang gagastos para sa kanyang sariling pangangailangan habang naglilingkod siya ? 
+46009007b	sinong		Sinong tao ang nagtatanim ng ubas at di nakikinabang sa mga bunga nito ? 
+46009007c	sinong		Sinong pastol ang nag-aalaga ng tupa at di nakikinabang sa gatas nito ?
+46009018	Ano		Ano ngayon ang aking kabayaran ? Ang maipangaral ko nang walang-bayad ang Magandang Balita , at ang hindi ko pag-angkin ng karapatang nauukol sa akin bilang tagapangaral .
+46010019a	anong		Anong ibig kong sabihin ? 
+46010019b	~		Sinasabi ko bang ang diyus-diyosan , 
+46010019c	~		o ang pagkaing inihandog sa mga diyus-diyosan ay may kabuluhan ?
+46010029	Bakit		Ang aking tinutukoy ay ang budhi ng inyong kapwa , at hindi ang budhi ninyo . Ikakatuwiran naman ng iba , “ Bakit hahadlangan ng budhi ng iba ang aking kalayaan ? ”
+46010030	Bakit		Bakit ako susumbatan dahil sa pagkain ko ng mga bagay na ipinagpasalamat ko naman sa Diyos ? ”
+46011022	Ano		Wala ba kayong sariling bahay upang doon kumain at uminom ? O hinahamak ninyo ang iglesya ng Diyos at hinihiya ang mahihirap ? Ano ang gagawin ko ngayon ? Ipagmamalaki ko ba kayo dahil sa bagay na iyon ? Hinding-hindi ko gagawin iyon !
+46012017a	paano		Kung puro mata lamang ang buong katawan , paano ito makakarinig ? 
+46012017b	paano		Kung puro tainga lamang ang buong katawan , paano ito makakaamoy ?
+46012019	~		Kung ang lahat ng bahagi ay pare-pareho , hindi iyan maituturing na katawan .
+46014006	ano		Kaya , mga kapatid , kung pumunta man ako riyan at magsalita sa inyo sa iba’t ibang mga wika , ano ang mapapakinabang ninyo sa akin ? Wala ! Makikinabang lamang kayo kung tinuturuan ko kayo ng mga pahayag ng Diyos , ng nalalaman ko tungkol sa kanya , ng mga mensaheng mula sa Diyos , at ng mga aral .
+46014007	paanong		Maging sa mga instrumentong walang buhay tulad ng plauta at alpa , paanong malalaman ninuman kung ano ang tinutugtog kung hindi malinaw ang tunog ng mga nota ?
+46014008	sino		At kung hindi malinaw ang tunog ng trumpeta , sino ang maghahanda sa pakikipaglaban ?
+46014009	paanong		Gayundin naman , paanong malalaman ninuman ang nais ninyong sabihin kung magsasalita kayo sa pamamagitan ng wikang hindi naman nila nauunawaan ? Para kayong nakikipag-usap sa hangin .
+46014015	Ano		Ano ang dapat kong gawin ? Mananalangin ako sa pamamagitan ng aking espiritu , ngunit gagamitin ko rin ang aking pag-iisip sa aking pananalangin . Ako’y aawit sa pamamagitan ng espiritu , ngunit gagamitin ko rin ang aking pag-iisip sa aking pag-awit .
+46014016	paanong		Kung nagpapasalamat ka sa Diyos sa pamamagitan ng espiritu lamang , paanong makakapagsabi ng “ Amen ” ang isang taong naroroon kung hindi niya nauunawaan ang iyong sinasabi ?
+46014026	Ano		Ano ngayon ang kahulugan ng lahat ng iyon , mga kapatid ? Kung sa inyong pagtitipon ay may umaawit , may nagtuturo , may naghahayag ng kalooban ng Diyos , may nagsasalita sa iba’t ibang mga wika , at mayroon namang nagpapaliwanag noon , gawin ninyo ang lahat ng iyan sa ikauunlad ng iglesya .
+46014036	~		Inaakala kaya ninyong sa inyo nagmula ang salita ng Diyos , o kayo lamang ang tumanggap nito ?
+46015012	bakit		Ngayon , kung ipinapangaral naming si Cristo’y muling nabuhay , bakit sinasabi ng ilan sa inyo na hindi bubuhaying muli ang mga patay ?
+46015029a	~		
+46015029b	ano		Kung hindi gayon , ano ang halaga ng pagpapabautismo ng mga tao para sa mga patay ? 
+46015029c	bakit		Kung talagang hindi bubuhaying muli ang mga patay , bakit pa nagpapabautismo ang mga tao alang-alang sa kanila ?
+46015030a	~		
+46015030b	bakit		At bakit pa kami nalalagay sa panganib sa lahat ng oras ?
+46015032	ano		Kung ang pakikipaglaban ko sa mababangis na kaaway sa Efeso ay para sa tao lamang , ano ang mapapala ko ? Kung hindi rin lamang bubuhaying muli ang mga patay , mabuti pa’y sundin na lamang natin ang kasabihang ito , “ Kumain tayo at uminom , sapagkat bukas tayo’y mamamatay . ”
+46015035a	paano		Subalit may magtatanong , “ Paano bubuhaying muli ang mga patay ? 
+46015035b	ano		Ano ang magiging uri ng katawan nila ? ”
+46015055a	nasaan		“ Nasaan , O kamatayan , ang iyong tagumpay ? 
+46015055b	nasaan		Nasaan , O kamatayan , ang iyong kamandag ? ”
+47002002	sino		Dahil kung dudulutan ko kayo ng kalungkutan , sino pa ang aaliw sa akin ? Hindi ba’t kayo rin ?
+47002016	Sino		Sa mga napapahamak , ito’y parang alingasaw na nakamamatay , ngunit sa mga naliligtas , ito’y halimuyak na nagdudulot ng buhay . Sino ang may sapat na kakayahang gumawa ng mga bagay na ito ?
+47003008	gaano		gaano pa kaya ang kaluwalhatian ng paglilingkod ayon sa Espiritu ?
+47003009	~		Kung may kaluwalhatian ang paglilingkod na nagdudulot ng hatol na kamatayan , lalo pang maluwalhati ang paglilingkod na nagdudulot ng pagpapawalang-sala .
+47006014a	~		Huwag na kayong makipag-isa sa mga di sumasampalataya . Maaari bang magsama ang katuwiran at ang kalikuan ? 
+47006014b	~		O kaya’y ang liwanag at ang kadiliman ?
+47006015a	~		Maaari bang magkasundo si Cristo at si Belial ? 
+47006015b	ano		Ano ang kaugnayan ng sumasampalataya sa di sumasampalataya ?
+47006016	~		O di kaya’y ng templo ng Diyos sa diyus-diyosan ? Hindi ba’t tayo ang templo tayo ang mga templo , kayo ang templo . ng Diyos na buháy ? Siya na rin ang maysabi , “ Mananahan ako at mamumuhay sa piling nila . Ako ang magiging Diyos nila , at sila’y magiging bayan ko .
+47011011	Bakit		Bakit ko ginagawa ito ? Dahil ba sa hindi ko kayo mahal ? Alam ng Diyos kung gaano ko kayo kamahal !
+47011029a	~		Kung may nanghihina , karamay nila ako , 
+47011029b	~		at kung may nahuhulog sa pagkakasala , labis na naghihirap ang aking kalooban .
+47012013	Paano		Paano nakalamang sa inyo ang ibang mga iglesya ? Hindi sila nakalamang , liban sa pangyayaring hindi ako humingi sa inyo ng kahit anong tulong . Ipagpatawad ninyo kung iyon ay isang pagkukulang .
+47012017	bakit		Bakit ? Pinagsamantalahan ko ba ang inyong kabutihan sa pamamagitan ng mga isinugo ko riyan ?
+48002014	bakit		Nang makita kong ang kanilang ikinikilos ay hindi ayon sa tunay na diwa ng Magandang Balita , sinabi ko kay Pedro sa harap nilang lahat , “ Kung ikaw na isang Judio ay namumuhay na parang Hentil at di bilang Judio , bakit mo ngayon pinipilit ang mga Hentil na mamuhay gaya ng mga Judio ? ”
+48003001	Sino		Mga hangal kayong mga taga-Galacia ! Sino ang nakagayuma sa inyo ? Maliwanag na ipinahayag na sa inyo kung paano namatay si Jesu-Cristo sa krus !
+48003019	bakit		Kung ganoon , bakit pa ibinigay ang Kautusan ? Ibinigay ito upang maipakita kung ano ang paglabag . Bago dumating ang anak na pinangakuan , ibinigay ang Kautusang ito sa pamamagitan ng mga anghel , sa tulong ng isang tagapamagitan .
+48004009a	bakit		ngunit ngayong nakikilala na ninyo ang Diyos , o mas tamang sabihin , ngayong nakikilala na kayo ng Diyos , bakit kayo bumabalik sa mga tuntuning walang bisa at walang halaga ? 
+48004009b	bakit		Bakit gusto na naman ninyong paalipin sa mga iyon ?
+48004010	~		May itinatangi kayong mga araw , mga buwan , mga panahon at mga taon !
+48004015	nasaan		Nasaan ngayon ang kagalakang ipinamalas ninyo noon sa akin ? Ako mismo ang makakapagpatotoo na kung maaari nga lamang pati ang inyong mga mata’y dudukitin ninyo at ibibigay sa akin noon .
+48004021	~		Sabihin nga ninyo sa akin , kayong nagnanais mapasailalim ng Kautusan , hindi ba ninyo napapakinggan ang sinasabi sa Kautusan ?
+48004030	~		Ngunit ganito ang sinasabi ng kasulatan , “ Palayasin mo ang babaing alipin at ang kanyang anak , sapagkat ang anak ng alipin ay hindi dapat makibahagi sa mana ng anak ng malaya . ”
+48005007a	sino		Mabuti na sana ang inyong ginagawa . Sino ang pumigil sa inyong pagsunod sa katotohanan ?
+48005007b	~		
+48005011	bakit		Mga kapatid , kung talagang nangangaral pa ako na kailangan ang pagtutuli , bakit pa ako inuusig hanggang ngayon ? Kung iyo’y totoo , hindi na sana nila ikinagagalit ang aking pangangaral tungkol sa pagkamatay ni Cristo sa krus .
+49004009	Anong		Anong ibig sabihin ng “ umakyat siya ” ? Ang ibig sabihin niyan ay bumabâ muna siya sa mga kailalimang bahagi ng lupa . mga kailaliman ng lupa .
+50001018	~		Ngunit walang anuman sa akin ang lahat ng iyon . Ikinagagalak ko pa nga na si Cristo ay naipapangaral , maging tapat man o hindi ang hangarin ng ibang mga nangangaral . Ang isa ko pang ikinagagalak
+50001021	~		Sapagkat para sa akin , si Cristo ang aking buhay at kahit kamatayan ay pakinabang .
+51002020	Bakit		Kayo’y namatay nang kasama ni Cristo at hindi na sakop ng mga alituntunin ng mundong ito . Bakit pa kayo sumusunod sa mga alituntuning tulad ng
+52002019	~		Hindi ba’t kayo lamang ang aming pag-asa , kaligayahan , at ang koronang maipagmamalaki namin sa harap ng Panginoong Jesus pagparito niya ?
+52003009	Paano		Paano kaya namin mapapasalamatan nang sapat ang Diyos dahil sa kagalakang natamo namin dahil sa inyo ?
+54003005	paano		Sapagkat paano siyang makakapangasiwa nang maayos sa iglesya ng Diyos kung hindi niya maiayos ang sarili niyang pamilya ?
+54006007a	~		Wala tayong dalang anuman sa sanlibutan , 
+54006007b	~		at wala rin tayong madadalang anuman pag-alis dito .
+58001005	~		Sapagkat kailanma’y hindi sinabi ng Diyos sa sinumang anghel , “ Ikaw ang aking Anak , mula ngayo’y ako na ang iyong Ama . ” “ Ako’y kanyang magiging Ama , at siya’y aking magiging Anak . ”
+58001013	~		Kailanma’y hindi sinabi ng Diyos sa sinumang anghel , “ Maupo ka sa kanan ko , hanggang lubusan kong mapasuko sa iyo ang mga kaaway mo . ”
+58001014	ano		Ano ang mga anghel , kung ganoon ? Sila’y mga espiritung naglilingkod sa Diyos at mga isinugo upang tumulong sa mga maliligtas .
+58002003	paano		Gayundin naman , paano tayo makakaiwas sa parusa kung hindi natin pahahalagahan ang napakadakilang kaligtasang ito ? Ang Panginoon ang unang nagpahayag ng kaligtasang ito , at ang mga nakarinig sa kanya ang nagpatunay sa atin na ito’y totoo .
+58002006a	ano		Sa halip ay ganito ang sinasabi ayon sa isang bahagi ng kasulatan : “ Ano ba ang tao upang iyong pahalagahan , 
+58002006b	~		o ang anak ng tao upang iyong pangalagaan ?
+58003016	sino		Sino ang naghimagsik laban sa Diyos kahit na narinig nila ang kanyang tinig ? Hindi ba’t ang lahat ng inilabas ni Moises sa Egipto ?
+58003017	kanino		At kanino nagalit ang Diyos sa loob ng apatnapung taon ? Hindi ba’t sa mga nagkasala at namatay sa ilang ?
+58003018	sino		At sino ang tinutukoy niya nang kanyang sabihin , “ Hinding-hindi sila makakapagpahinga sa piling ko ” ? Hindi ba’t ang mga taong ayaw sumunod ?
+58006004	paano		Sapagkat paano pang magsisisi at manunumbalik ang mga tumalikod na sa kanilang pananampalataya ? Dati’y naliwanagan na sila , nakalasap ng makalangit na kaloob at naging kabilang sa mga tumanggap ng Espiritu Santo .
+58007011	~		Ang Kautusan ay ibinigay ng Diyos sa mga Israelita . Kung ang pagiging-ganap ay nakamtan sa pamamagitan ng mga paring mula sa angkan ni Levi , hindi na sana kinailangan pa ang ibang pari , ayon sa pagkapari ni Melquisedec , na iba sa pagkapari ni Aaron .
+58009014	~		higit ang nagagawa ng dugo ni Cristo ! Sa pamamagitan ng walang hanggang Espiritu , inialay niya sa Diyos ang kanyang sarili bilang handog na walang kapintasan . Ang kanyang dugo ang lumilinis sa ating inyong . puso’t isipan sa mga gawaing walang kabuluhan upang tayo’y makapaglingkod sa Diyos na buháy .
+58010001	~		Ang Kautusan ay anino lamang at hindi lubos na naglalarawan ng mabubuting bagay na darating . Hindi ito nagpapabanal sa mga lumalapit sa Diyos sa pamamagitan ng mga handog na iniaalay taun-taon .
+58010029a	gaano		Gaano kabigat , sa akala ninyo , 
+58010029b	~		ang parusang nararapat sa taong humamak sa Anak ng Diyos , 
+58010029c	~		lumapastangan sa dugong nagpatibay sa tipan at nagpabanal sa kanya , 
+58010029d	~		at humamak sa mahabaging Espiritu ?
+58011032	~		Magpapatuloy pa ba ako ? Kulang ang panahon para maisalaysay ko ang tungkol kina Gideon , Barak , Samson , Jefte , David , Samuel , at mga propeta .
+58012007	Sinong		Tiisin ninyo ang lahat ng hirap bilang pagtutuwid ng isang ama , dahil ito’y nagpapakilalang kayo’y tinatanggap ng Diyos bilang tunay niyang mga anak . Sinong anak ang hindi dinidisiplina ng kanyang ama ?
+58012009	~		Hindi ba’t dinidisiplina tayo ng ating mga magulang , at dahil diyan ay iginagalang natin sila ? Hindi ba’t upang tayo’y mabuhay , mas nararapat na tayo’y pasakop sa Diyos na ating Ama sa espiritu ?
+58012025	Gaano		Kaya’t makinig kayong mabuti sa kanya na nagsasalita . Ang tumangging makinig sa nagsalita sa kanila dito sa lupa ay hindi nakaligtas sa parusa ! Gaano pa kaya tayo , kung tayo’y tatangging makinig sa nagsasalita mula sa langit !
+58013006	Ano		Kaya’t buong tapang nating masasabi , “ Ang Panginoon ang tumutulong sa akin , hindi ako matatakot . Ano ang magagawa sa akin ng tao ? ”
+59002006	~		Ngunit hinahamak ninyo ang mahihirap . Hindi ba’t ang mayayaman ang umaapi sa inyo at sila ang nagsasakdal sa inyo sa hukuman ?
+59002014	ano		Mga kapatid , ano ang mapapala ng isang tao kung sabihin man niyang siya’y may pananampalataya , ngunit hindi naman niya ito pinapatunayan sa gawa ? Maililigtas ba siya ng ganoong uri ng pananampalataya ?
+59002016a	~		Kung sasabihin ninyo sa kanya , “ Patnubayan ka nawa ng Diyos ; magbihis ka’t magpakabusog , ” ngunit hindi naman ninyo siya binibigyan ng kanyang kailangan , may mabuti bang naidudulot sa kanya iyon ?
+59002016b	~		
+59002018	~		Ngunit may nagsasabi , “ May pananampalataya ka at may gawa naman ako . ” Ipakita mo sa akin ang iyong pananampalatayang walang kasamang gawa , at ipapakita ko naman sa iyo ang aking pananampalataya sa pamamagitan ng aking mga gawa .
+59002021	~		Ang ating amang si Abraham ay kinalugdan ng Diyos dahil sa kanyang mga gawa , nang ihandog niya sa dambana ang anak niyang si Isaac , hindi ba ?
+59003013	Sino		Sino sa inyo ang marunong at nakakaunawa ? Ipakita niya ito sa pamamagitan ng wastong pamumuhay na bunga ng kapakumbabaan at karunungan .
+59003017	~		Ngunit ang may karunungang mula sa Diyos , una sa lahat , ay malinis ang pamumuhay , maibigin sa kapayapaan , mahinahon , mapagbigay , mahabagin , masipag sa paggawa ng mabuti , hindi nagtatangi at hindi nagkukunwari .
+59004001a	saan		Saan nanggagaling 
+59004001b	~		ang inyong mga alitan at pag-aaway ? Hindi ba’t nagmumula iyan sa masasamang nasa na naglalaban-laban sa inyong kalooban ?
+59004012	sino		Ang Diyos lamang ang nagbigay ng Kautusan at siya rin ang hukom . Tanging siya ang may kapangyarihang magligtas at magpahamak . Ngunit ikaw , sino ka upang humatol sa iyong kapwa ?
+59004014	ano		Ni hindi nga ninyo alam kung ano ang mangyayari sa inyo sa araw ng bukas ! Ang buhay ninyo’y parang usok lamang , sandaling lumilitaw at agad nawawala .
+60002020	~		Maipagmamalaki ba ang magtiis ng parusa kung ito ay dahil sa paggawa ng masama ? Hindi ! Ngunit kung magtiis kayo ng hirap sa kabila ng paggawa ninyo ng mabuti , pagpapalain kayo ng Diyos .
+60003013	sino		At sino naman ang gagawa sa inyo ng masama kung wala kayong hinahangad kundi pawang kabutihan ?
+60004017	ano		Dumating na ang panahon ng paghuhukom , at ito’y magsisimula sa mga bayan ng Diyos . At kung sa atin ito magsisimula , ano kaya ang magiging wakas ng mga hindi sumusunod sa Magandang Balita ng Diyos ?
+60004018	paano		Tulad ng sinasabi ng kasulatan , “ Kung ang taong matuwid ay napakahirap maligtas , ang di kumikilala sa Diyos , paano pa maliligtas ? ”
+61003004	Nasaan		Sasabihin nila , “ Si Cristo’y nangakong darating , hindi ba ? Nasaan na siya ? Namatay na ang ating mga ninuno ngunit wala pa ring pagbabago buhat nang likhain ang mundong ito . ”
+61003011	~		At dahil ganito ang magiging wakas ng lahat ng bagay , mamuhay kayo nang may kabanalan at sikapin ninyong maging maka-Diyos
+62002022	Sino		Sino nga ba ang sinungaling ? Hindi ba’t siya na nagsasabing si Jesus ay hindi ang Cristo ? Ang sinumang nagsasabi nito ay ang anti-Cristo ; hindi nila pinaniniwalaan ang Ama at ang Anak .
+62003012	Bakit		Huwag tayong tumulad kay Cain ; siya’y kampon ng diyablo . Pinatay niya ang kanyang kapatid . Bakit ? Sapagkat masama ang kanyang mga gawa , ngunit matuwid ang mga gawa ng kanyang kapatid .
+62003017	~		Kapag nakikita ng isang maykaya sa buhay ang kanyang kapatid na nangangailangan , at hindi niya ito tinulungan , masasabi bang siya’y umiibig sa Diyos ?
+62004020	paano		Ang nagsasabing “ Iniibig ko ang Diyos , ” subalit napopoot naman sa kanyang kapatid ay isang sinungaling . Kung ang kapatid na kanyang nakikita ay hindi niya magawang ibigin , paano niya maiibig ang Diyos na hindi niya nakikita ?
+62005005	Sino		Sino ang nagtatagumpay laban sa sanlibutan ? Ang sinumang sumasampalataya na si Jesus ang Anak ng Diyos .
+66005002	Sino		At nakita ko rin ang isang makapangyarihang anghel na nagtanong nang malakas , “ Sino ang karapat-dapat na mag-alis sa mga selyo at magbukas sa kasulatan ? ”
+66006010a	~		Ubos-lakas silang sumigaw , “ O Panginoong Makapangyarihan , banal at tapat ! Huwag na po ninyong patagalin ang paghatol at pagpaparusa sa mga taong pumatay sa amin . ”
+66006010b	~		
+66006017	sino		Sapagkat dumating na ang malagim na araw ng pagbubuhos nila ng kanilang poot , at sino ang makakatagal ? ”
+66007013a	sino		Tinanong ako ng isa sa mga pinuno , “ Sino ang mga taong nakadamit ng puti , 
+66007013b	saan		at saan sila nanggaling ? ”
+66013004a	sino		Sinamba ng lahat ng tao ang dragon sapagkat ibinigay nito ang kanyang kapangyarihan sa halimaw . Sinamba rin nila ang halimaw . “ Sino ang makakatulad sa halimaw ? 
+66013004b	sino		Sino ang makakalaban sa kanya ? ” sabi nila .
+66015004a	sino		Sino ang hindi matatakot sa iyo , Panginoon ? 
+66015004b	sino		Sino ang hindi magpupuri sa iyong pangalan ? Ikaw lamang ang banal ! Lahat ng mga bansa ay lalapit at sasamba sa iyo , sapagkat nakita ng lahat ang matuwid mong mga gawa . ”
+66017007	Bakit		“ Bakit ka nanggilalas ? ” tanong sa akin ng anghel . “ Sasabihin ko sa iyo ang kahulugan ng babae at ng sinasakyan niyang halimaw na may pitong ulo at sampung sungay .
+66018018	~		at tinangisan nila ang nasusunog na lunsod habang minamasdan ang usok na nagmumula roon , “ Walang katulad ang katanyagan ng lunsod na iyon ! ”

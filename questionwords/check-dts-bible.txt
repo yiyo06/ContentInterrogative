@@ -1,0 +1,743 @@
+40002002	yago		Jerusalɛmu ana nɛ dɔwaa , selumaa kijɛ be gi : « Yahutunw ɔgɔnɛ kanɛ narin gɔ yago wɔɔ ? Emɛ tolo womɔ duu sibɛ go iyaa , woi demɛniyɛnmɔi wɛin . »
+40002004	yago		Wo Ama bɛrɛ sadagadɔɔnɔw kuu bɛɛnw bemɛ lee , Ama tɔɔru deerenw bemɛ lee mɔɔnaa , Ama Yabanɛ Diyɛ tiido gɔ yago narandɛin ma selumaabe .
+40003007	aa		Parisiɛn joo lee , Saduseyɛn joo lee , unrunbei batise kanranmɔi wɛɛubɛin . Jan , wogɔ iyaa , be le ɔn gin ’ gɛɛbe : « E yuguru kɔkɔju tɔgu gɔbe , Ama kinɛbanrun wɛɛido gɔ nɛ ebaa ɛli goo ga aa ei tinwinrun ?
+40005013	yani		« Yɛnɛi ! Aduna nɛ ei nɛwin . Kaa , nɛu , ɛɛlu womɔ manaai ye , wo bɛrɛ ɛɛlu gɔ yani pilemu ye obu bɛɛmɔdo ? Bain go woi togoti ye , inɛw bɛrɛ namamɔi laa ye , niwɛn waja sɛlɛ .
+40005046	ingei		E , inɛw ei ibɛɛ wɔin gɔbe sai ibɛi ye , Ama bɛrɛ tujɔ ingei bɛɛdei ? Halu , sɛgu yabanw gɔbe , be kanran yinkanranɲu .
+40005047	ingei		E , e ba unrunwin laa ye , inɛ waja poonɔɔlɛi ye , kijɛ sigɛ e kanranjɛ gɔ ingei ? Inɛw Ama inin gɔbe kanran yinkanraannɛ ma ?
+40006027	inɛ aa		Logoro ebe nɛ inɛ aa kuu womɔ dɛi jiire wo jiirejɛ dɛi , kinruntaun womɔ , halu gaila kanran baru bɛɛjɛ ?
+40006028	inge dɛi		« Iyaa , inge dɛi sɔi e yooido dɛi jiire le biyɛdei ? Minɛ nɛ kinrunbɔmɔbe aŋai puyo be puyojɛ ajubu yɛnɛi . Be birɛ birɛɛnɛ . Sɔi kanran tiyɛɛnɛ .
+40006031a	inge		Nɛɛ , diyɛdai le bii ye , e inge kayadɛin ma , 
+40006031b	inge		inge nɔɔdɛin ma , 
+40006031c	inge		inge goriyedɛin ma gɛɛnɔugi .
+40007003	inge dɛi		Giri uwɔ nɛ lalu too gɔ kajubaalɛu , u bɔɔnɛ giri nɛ keri too gɔ inge dɛi iyejɛu ?
+40007004	yani		Iyaa giri uwɔ nɛ lalu wo tonu , u bɔɔnɛ womaa giri womɔ nɛ keri too gɔ goonɔmu yani gɛɛ bɛɛjɛu ?
+40007009	inɛ aa		Nɛɛ , logoro ebe nɛ , inɛ aa , aini womɔ wo bɛrɛ buru gɛnyaanjɛ ye , tibu wo bɛrɛ obodo ?
+40007016a	~		E birɛ bemɛ bana le bei jugɔdei . Resɛn ilɛ , teɲu na nɛ pala bɛbɛɛmɔjɛ ma ? 
+40007016b	~		Iyaa , gaa ii , ɛɲɛ anran jijii nɛ pala bɛbɛɛmɔjɛ ma ?
+40008026	Inge		Yesu be le saa gi : « Inge sabu dɛi e ɔn baa liyaa wɔi ? Gagawu ebe gaila ! » Kɔɔ gin ’ giyaatiyaa , wo ingelaa ooɲɔ gɔ lee , dibe dii gɔ lee ganwaanbe . Kunrin , yalu gɔ kelemu biyaai .
+40008027	inge		Inɛw puu bɛrɛ sɔɔ gɔ maunɛ kanraanbe . Kɔɔ dɛi , be ɔn gin ’ gɛɛbɛin : « Aa ! Inɛ ɔn inɛ inge tɔgui ? Halu ooɲɔ lee , dibe dii lee , sɔɔ womɔ yabauwɔin . »
+40008029	ingei		Anranw kɔɔbe , Yesu bɛrɛ wiyaa , mii ɛɛn le ɔn gin ’ gɛɛbɛin : « Ama Aini , uwɔ ingei ? Emi ɔɲɔmɔu waaru dɔɔlu wo wɔnu , u emi ɔɲɔmɔdou ma ? »
+40009004	inge dɛi		Yesu , kinɛ bemɛ ajubu jugɔube gɔ digɛu , be le ɔn gin ’ sɔi : « E inge dɛi , kinɛ ebe nɛ ajubu mɔɲu kɔɔ ajubauwɔi ?
+40009005	yagɔ		Yɛnɛi ! Ainɛ ɔn womaa , hakɛ womɔ yaabu kanraantin aŋa le gɛɛ lee , womaa ingele ye yoi yaa gɛɛ lee , kolɛi logoro nɛ yagɔ naaran ?
+40009011	inge dɛi		Parisiɛnbe wogɔ iyaa , jaŋu unrunw gɔbe le ɔn gin ’ sɔin : « Jaŋudeerenɛ ebe gɔ , sɛgu yabanw lee , inɛw boi mɔɲu bemɛ gowaa wɔin lee , inge dɛi be le mɔrinyaan jaa kayauwɔ ? »
+40009014	inge dɛi		Jan Batise jaŋu unrunw gɔbe Yesu genɛ nɛ dɔwaa ɔn gin ’ wo bɛrɛ selumi : « Parisiɛnbe lee , emɛ lee , emɛ wooi aŋa papagaɲu . Inge dɛi jaŋu unrunw uwɔ gɔbe aŋa pagaanɛ wɔin ? »
+40009015	~		Yesu saa : « Purupagu bai gɔ , akana anrunge gɔbe , akana le wɔnu , yiundɔin daain gin ’ kanran bɛbɛɛdɛin ma ? Asuu . Kaa , bai yawɛɛjɛ , akana gɔ be le kabugutiidɛin . Kɔɔ waaru le be aŋa papagadɛin . »
+40010025	~		Jaŋu ii , jaŋudeerenɛ womɔ yalu wɔɔ gɔ nɛ dɔwaai ye , woi babaado . Birɛbirɛnɛ kanran wo baŋa yalu wɔɔ gɔ nɛ dɔwaai ye , wogɔ woi babaado . Inɛw , ginrun gonɔ kuu baŋa gɔ nɛ Belujebule boi kuni biyaai ye , ginrun gonɔ womɔ nɛ inɛw toin gɔbe bɛrɛ boi kɔɔ dɛi mɔɲu kukunɔdɛin ga igii biyɛi . »
+40011007	inge		Jan jaŋu unrunw gɔbe yaa be yaa , Yesu , inɛw joo wo le bɛin gɔbe bɛrɛ Jan dɛi sɔɔ ɔn gin ’ sɔɔi tɔlu : « Waaru olusolo go e yai le , e , inɛ inge tɔgui yɛnɛi yaii ? Saguba ooɲɔ woi jigemɔjɛi yɛnɛi yaii ma ?
+40011008	ingei		Nɛɛ , e ingei yɛnɛi yaii ? Ɔgɔinɛ sɔi ɛju kunaa wɔɔi , yɛnɛi yaii ma ? Ai . Inɛw sɔi ɛju le wɔin gɔbe , ɔgɔnw ginrun nɛ toiyoɲu .
+40011009	inge dɛi		Kɔɔi biyaa ye , e , olusolo go inge dɛi yaii ? Inɛ Ama titiyainɛ yɛnɛi yaii ma ? Ee gun , halu titiyainɛ dɛi kanran sigɛ .
+40011016	aa		« Kanɛ inɛw ɔnbe , mu aa le bei tunwɔndɔn ? Be unrunw dagunw , tai nɛ dɛinyaan , tunmɔ ɔn gin ’ jarugaɲu le murin wɔin :
+40012011	inɛ aa		Kɔɔ gin ’ be selumaa , Yesu saa : « Logoro ebe nɛ , inɛ aa , peju turu wo sɛɛ gɔ , ɔmɔrɔn nɛ bagaa yowaai ye , deeliye baii giye , peju gɔi goonɔlu kanrando ?
+40012026	yani		Setanu , kuu womɔ le Setanui nanajɛ ye , wo kuu womɔ le jaiyɛuwɔ . Nɛɛ , laamu womɔ gɔ yani iŋi bɛɛdo ?
+40012027	aa bei		Kaa iyaa , mu Belujebule gɔnrɔn le jinrunbe nanajɔn biyaai ye , nɛɛ e bɔɔnw gɔbe , jinrun inɛw kuu nɛ nana be goonɔjɛ gɔ , gɔnrɔn wogɔ aa bei obaajɛ ? Saliyɛ ebe be kiredo .
+40012029	~		« Yɛnɛi , inɛ turu kanran , inɛ ɛjii paŋa sɛɛ ginrun nɛ yoi ye , baŋai laa ai ye kɔmɔlu go , ginrun gɔ bala bɛɛlɛ . Kaa woi laa aa kɔmaatiyaa ye , wo ginrun gɔ bala bɛbɛɛdo .
+40012034	yani		Kɔɔi biyaa ye , nɛɛ , e inɛw mɔɲu gɔbe , yuguru kɔkɔju tɔgu gɔ , yani sɔɔ ɛju sɔɔ bɛɛdei ? Kinɛ nɛ sɔɔ jowaa too gɔ , aŋa wogɔi sɔɔjɛ .
+40012048a	aai		Yesu , inɛ kɔɔ aŋa saa : « Mu na gɔ aai ? 
+40012048b	aabei		Mu suŋɔw gɔbe aabei ? »
+40013010	inge dɛi		Kɔɔ onu nɛ , Yesu jaŋu unrunw , genɛ womɔ nɛ dɔwaa , inɛw bɛrɛ taanrinyɛn le sɔɔ wo sɔɔjɛ gɔ , inge dɛii ma gin .
+40013027	yago		Birɛbirɛnw gɔbe dɔgɔ mɔɲu gɔ iyaa , minɛ baŋa bɛrɛ wiyaa ɔn gin ’ selumi : ‘ Emɛ baŋa , u minɛ uwɔ nɛ toi ɛjui kunɔlu ma ? Nɛɛ dɔgɔ mɔɲu ɔnbe yago goin ? ’
+40013054a	yago		ana wo gabi gɔ nɛ yai . Kɔɔ nɛ wiyaa , Yesu Ama gɛɛn ginrun nɛ yowaa , waaju kanrain tɔlu . Waaju bana wo kanranbe gɔ , inɛwin ɛjii maunɛ kanrun . Kɔɔ dɛi be ɔn gin ’ sɔɔubɛin : « Hakilɛ wo sɛɛ ɔn lee , taanrinyɛn birɛ wo birɛjɛ ɔn lee , yago gowaa wo bɛrɛ wɛi ?
+40013054b	~		
+40013056	~		Wo saabe puu emɛ le unwɔnɛ ma ? Nɛɛ wo ɔn puu , aa le bɛi ? »
+40014031	inge dɛi		Ɔgu kɛu Yesu , numɔ unrunmɔ wajaraa , woi aa , ɔn gin ’ wo le sɔi : « U inge dɛi liyiu ? Gagawu uwɔ gaila . »
+40015002	inge dɛi		« Jaŋu unrunw uwɔ gɔbe , emɛ tirɛ anranw atɛmu gɔ inge dɛi yamalaɲu ? Be jaa kayanu numɔ bemɛ aŋai jaan gin ’ mɔŋɔɔnɛ . »
+40015003	inge dɛi		Yesu aŋa bemɛ saa : « E kanran , inge dɛi Ama tɔɔru gɔ pajaatiyaa , atɛmu ebe giru kunaa yaauwɔi ?
+40015033	yago		Jaŋu unrunw gɔbe saa : « Yalu pana wɔlɔ ɔn nɛ , inɛw ɔnbe puu kijɛ kayaido emɛ yago bɛɛdɛin . »
+40015034	aŋa		Kɔɔ gin ’ be saa , Yesu bemaa buru aŋa sɛin ma gi . Be saa , buru sɔi lee , iiju uji gaila lee sɛin gin .
+40016008	inge dɛi		Yesu , sɔɔ be sɔɔbe soo biyaa ɔn gin ’ gi : « E inge dɛi ajubau , maa buru sɛlɛ e wɔɔ gɔ dɛi sɔɔjɛ gɛɛuwɔi ? Gagawu ebe gaila de !
+40016009	aŋa		E nimɛ kanran paamu kanranli ma ? Buru numɔrɔn , inɛw muɲu numɔrɔn bɛrɛ mu gamulu gɔ , e sɔɔ wogɔ naŋaai ma ? Buru waju taju aŋa jɛɛli ma naŋaai ma ?
+40016010a	~		Iyaa , buru sɔi , inɛw muɲu nai bɛrɛ mu gamulu gɔ , e sɔɔ wogɔ naŋaai ma ? 
+40016010b	aŋa		Buru waju taju aŋa jɛɛli ma naŋaai ma ?
+40016011	inge dɛi		Nɛɛ , sɔɔ mu sɔi gɔ , buru dɛi sɔɔlun ga paamaalɛi e wɔɔ gɔ inge dɛi ? Kaa Parisiɛnbe lee , Saduseyɛnbe lee kijɛ buru pidemu gɔ dɛi kuu ebe kajubai . »
+40016013	aai		Kɔɔ onu nɛ , Yesu , Sesare Pilipe ana le gana diŋɛ gɔ nɛ yaabe . Wo jaŋu unrunw womɔ bɛrɛ ɔn gin ’ selumu : « Inɛw , Inɛ Aini gɔi aai gɛɛɲu ? »
+40016015a	~		Yesu be bɛrɛ selumaa : « Nɛɛ , 
+40016015b	aai		e mui aai ga sɛi . »
+40016026a	~		Aduna ɔn puu uwɔi kanran , kinrun uwɔ suiyaai ye , niwɛn yasɛ ma ? 
+40016026b	inge		U waja kijɛ inge le kinrun uwɔ gɔ dɔrugu bɛɛdou ?
+40017010	inge dɛi		Sɔɔ kɔɔ onu nɛ , jaŋu unrunw gɔbe sɔɔ ɔn Yesu bɛrɛ selumi : « Inge dɛi Ama tɔɔru deerenw gɔbe , Ama Yabanɛ Diyɛ tii gɔ wɛɛmɔ nɛ Eli laa pilemɛ ye wɛɛdo gɛɛɲu ? »
+40017017a	yagɔ baa		Yesu saa : « Aa ! E inɛw mɔɲu , gagawu sɛnɛ gɔbe , waaru yagɔ baa e le mu biyɛun jaan ? 
+40017017b	yagɔ baa		Waaru yagɔ baa ei muyɔndɔn ? Ii gɔi ɔn nɛ mu bɛrɛ jɛɛlɛi . »
+40017019	inge dɛi		Jaŋu unrunw gɔbe , waja Yesu be wooi sai wɔu , genɛ womɔ nɛ dɔwaa , ɔn gin ’ selumi : « Emɛ inge dɛi jinrun gɔ nanaa bɛɛnɛ kanrin ? »
+40017025a	yani		Piɛru saa , wo tutujɔjɛ gi . Nɛɛ , waaru ginrun be yoi le , Yesu , wo laa Piɛru le ɔn gin ’ sɔi : « Simɔ , u yani ajubaa wɔu ? 
+40017025b	aa		Aduna ɔn paŋagunw gɔbe aa bɛrɛ tɛɛbɛ lee , sɛgu lee yabaɲu ? Gana bemɛ inɛw tɔitɔi bɛrɛ yabaɲu ma , yerunw bɛrɛ yabaɲu ? »
+40018001	inɛ aa		Waaru wogɔ le tee , Yesu jaŋu unrunw gɔbe , giru womɔ nɛ dɔwaa ɔn gin ’ selumi : « Alagala diinɛ gɔ nɛ , inɛ aa diyɛi biyɛdo ? »
+40018012	~		« Ajubu yɛnɛi , inɛ turu peju suŋu wo sɛnu , turu manaai ye , pɛtuwɔ tuwɔsigɛ gɔbe kokoo nɛ pajaatiyaa ye , peju manu gɔ dɛnɛi yaaidolo ma ?
+40018021	aŋa baa		Kɔɔ gin ’ Piɛru , Yesu genɛ nɛ dɔwaa ɔn gin ’ selumu : « Inɛw Baŋa , mu bainɛ mu bɛrɛ digu digu hakɛ kanraunwɔ ye , kubɔ aŋa baa yaabu kanrun womɔ yabadɔn . Kubɔ sɔi baa biyɛdo ma ? »
+40019007	inge dɛi		Parisiɛnbe Yesu bɛrɛ ɔn gin ’ selumi : « Kunrin biyaa ye , inge dɛi Mɔise , ainɛ gɔ womaa yaanran womɔ bɛrɛ yaajipolu dɔn tɔŋaa obaatiyaa ye , woi yinpaja ga tɔɔru ? »
+40019016	ingei		Ainɛ turu Yesu bɛrɛ wiyaa , ɔn gin ’ selumu : « Jaŋudeerenɛ , maa ɔnmɔsɔgɔ bɛɛ ga , ɛju kanraun mu jaan gɔ ingei ? »
+40019017	yani		Yesu aŋa womɔ saa gi : « U yani ɛju dɛi mui selumɛuwɔu ma ? Amai laa ye , inɛ ɛju turu kanran wɔlɔ . Kaa , u ɔnmɔ gɔ bɛɛ ibɛɛ wɔu ye , Ama tɔɔru gɔbe gɛliyɛ . »
+40019018	~		Ainɛ gɔ tɔɔru yagɔbei ma , Yesu bɛrɛ selumu . Yesu ɔn gin ’ sai : « Inɛ daanɔu , dimu dimiyɛnnɔu , gunyɔn gunyɔnnɔu , sɛɛrɛ kakalu goonɔu ,
+40019020	ingei		Sagatara ii kɔɔ Yesu aŋa saa , unrun tɔɔru kɔɔbe puu yadigɛun gi . Kijɛ unrun kanraun jaan wajaai gɔ ingei ma gi .
+40019025	aai		Sɔɔ kɔɔ waaru be ɛgu le , jaŋu unrunw gɔbe bɛrɛ saii maunɛ kanrun . Be Yesu womaa kunrin biyaa ye , inɛ yabu bɛɛmɔido gɔ aai ma gin .
+40019027	yani		Piɛru , Yesu bɛrɛ selumaa womaa kunrin biyaa ye , unrunbe inɛw kijɛ puu pajaatiyaa , woi dimiyaan wɔin gɔbe , unrunbe dɛi yani biyɛdo ma gi .
+40020006	inge dɛi		Dumɔrɔn gɔ , digɛnai lɛɛrɛ numɔrɔn waaru le gowaa , ibɛ nɛ inɛwin tɛmaa , bei selumu : ‘ Hei , e inge dɛi dɛnrun gɔ wooi nɛ , ɔn nɛ bamai wɔi ? ’
+40020012	~		Kijɛ be gi : ‘ Inɛw dumɔrɔn wɛɛnw ɔnbe , lɛɛrɛ turu sai kanrin . Be lee , emɛ inɛw aga gowaa digɛnai yaa dɔɔ , nai uju tariyɛnw gɔbe lee , emi kɛukɛu tujɔuwɔu . ’
+40020021	inge		Yesu aŋa womɔ saa , « U inge ibɛɛ wɔu ma » gi . Wo Yesu le saa : « Unrunw lɛi ma ɔnbe , diinɛ uwɔ gɔ nɛ , turui numɔ iin uwɔ sibɛ nɛ dɛinyɛnmɔ , lɛiye gɔ numɔ nana uwɔ sibɛ nɛ dɛinyɛnmɔ ga , pui wogɔ mu le kunɔ . »
+40020032	ingei		Kɔɔ gin ’ gɛɛu be wɔu , Yesu iŋiyaan , bei boonaa , be bɛrɛ ɔn gin ’ selumu : « Maa e dɛi kijɛ kanran ga e ibɛ gɔ ingei ? »
+40021010	aai		Yesu waaru Jerusalɛmu nɛ wo yoi le , ana gɔ puu giru giru kanraanbe . Inɛw selumɛu , ainɛ kɔɔ aai ma gɛɛbɛin .
+40021016	~		Be Yesu le ɔn gin ’ gɛɛubɛin : « Unrunw ɔnbe sɔɔ gɛɛɲu gɔ ɛgɛɛlɛu ma ? Bemaa sɔɔnɔu ga , bei ganwan . » Yesu aŋa bemɛ saa : « Mu ɛgɛuwɔn . Ama Dɔn nɛ sɔɔ tɔŋaaɲu ɔn , e jaŋali ma ? “ Ama , u unrunw dagunw lee , unrunw iru digɛin lee aŋa nɛ sɔmu ɛgɛmaabeu . ” »
+40021020	yani		Yesu jaŋu unrunw gɔbe , waaru sɔɔ kɔɔ be iye le , be bɛrɛ saii maunɛ biyaabe . Be Yesu bɛrɛ selumaa yani kanraan gaa na ɔn kanɛ sɛsai maaŋiyaan wɔɔ ma gin .
+40021023a	Kijɛ inge		Yesu , Ama Ginrun Diyɛ gɔ nɛ yowaa deeru deereu wo wɔu , Ama bɛrɛ sadagadɔɔnɔw kuu bɛɛnw gɔbe lee , Yahutunw inɛw naw gɔbe lee , genɛ womɔ nɛ dɔwaa , ɔn gin ’ wo bɛrɛ selumi : « Kijɛ inge uwɔ dɛi u kijɛ ɔnbe kanraunwɔu ? 
+40021023b	Inɛ aa		Inɛ aa u bɛrɛ gɔnrɔn obaa , uwaa kijɛ ɔnbe kanran gi ? »
+40021025a	Inɛ aa		Inɛ aa Jain tiyaa , womaa batise kanran gi ? Ama woi tii ma , inɛw woi tii ? » 
+40021025b	~		Be tunmɔ le sɔwaa ɔn gin ’ gɛɛbɛin : 
+40021025c	inge dɛi		« Emɛ Ama woi tii giyaaɲu ye , wo emaa inge dɛi sɔɔ womɔ le gawanɛ kanrin ma gɛɛdo .
+40021028	yani		Yesu sɔwaa gi : « E bɛrɛ sɔɔ ɔn yani wɔɔ ? Ainɛ turu unrunw lɛi yasɛbe . Wo aini pɔlɔ gɔ le ɔn gin ’ sɔi : ‘ Ii ma , u iye resɛn minɛ ma nɛ yaa ye , birɛ birɛ . ’
+40021031	yagɔi		Unrunw lɛi kɔɔbe logoro nɛ , inɛ wo ba diŋɛ kanrannɛ gɔ yagɔi ? » Be saa , pɔlɔ baŋa gɔi gin . Kɔɔ dɛi Yesu be le sɔwaa : « Mu naran go e bɛrɛ tagauwɔn , sɛgu yabanw lee , yaanw dimu le kayanw lee , Ama diinɛ nɛ giru ebe nɛ yoodɛin .
+40021040	inge		Yesu selumaa , sadiŋɛ baŋa gɔ wiyaai ye resɛn birɛbirɛnw kɔɔbɛɛnw bɛrɛ inge kanrando ma gi ?
+40022012	yani		Ɔgɔnɛ gɔ , ainɛ gɔ le ɔn gin ’ sɔi : ‘ Hei , mu anrunge , u yani kanraan purupagu sɔi kunɔlu go ɔn nɛ yoiu ? ’ Kaa , ainɛ kɔɔ sɔɔ saaun bɛɛlu .
+40022017	~		Kɔɔ sabu dɛi u emɛ bɛrɛ taga , Rɔmɛ ɔgɔnɛ diyɛ gɔ bɛrɛ sɛgu emɛ tujɔun jaain wɔɔ ma jaanla ? »
+40022018	inge dɛi		Kaa Yesu , ajubu mɔɲu bemɛ jugaabe gɔ digɛu , be le kijɛ wo gi : « E inɛw aŋa lɛilɛigunw gɔbe , inge dɛi e aŋa ma dɛnɛuwɔi ?
+40022020a	aa mɔi		Yesu be bɛrɛ ɔn gin ’ selumu : « Buudu gɔ nɛ kuu yegeraa too gɔ lee , boi tɔŋaa wɔɔ gɔ lee , aa mɔi ? »
+40022020b	~		
+40022028	aa		Nɛɛ , anranw sɔi gɔ puu yaanran gɔi jeɲaabɛin gɔ digɛu , yiun bulogu bai gɔ le , woi aa yaanrain biyɛdo ? »
+40022036	yagɔi		« Jaŋudeerenɛ , tɔɔru gɔbe logoro nɛ tɔɔru sigɛ le maa gɔ yagɔi ? »
+40022042a	yani		« E , Ama Yabanɛ Diyɛ tii gɔ dɛi yani ajubaa wɔi ma ? 
+40022042b	inɛ aa		E woi inɛ aa tiruwɛnɛi ga wɔi ma ? » Parisiɛnbe saa , Ama Yabanɛ Diyɛ tii gɔ Dawide tiruwɛnɛi gin .
+40022043	yani		Yesu pilemaa be le saa gi : « Kɔɔ narain biyaa ye , Dawide , Ama Kikinu woi damaa yani woi Inɛw Baŋa boonaa , ɔn gin ’ sɔɔ sɔi :
+40022045	yani		Nɛɛ , Dawide woi Inɛw Baŋai gi biyaa ye , Ama Yabanɛ Diyɛ tii gɔ , Dawide tiruwɛnɛi yani bii bɛɛjɛ ? »
+40023017	yagɔ		E sɔɔ kanma inin , ei girumuwin . Kange gɔ , Ama Ginrun Diyɛ gɔ nɛ too gɔ dɛi , Ama dɛi woi dɛiin wɔɔ woi laa ? Kɔɔi ye , kange gɔ lee , Ama Ginrun Diyɛ gɔ lee yagɔ diyɛi ?
+40023019	yagɔ		Ei girumuwin ! Sadaga gɔ dumu gɔ nɛ wo diin dɛi , Ama dɛi dɛiin wɔɔ woi laa ? Kɔɔi ye , sadaga gɔ lee dumu gɔ lee yagɔ diyɛi ?
+40023033	yani		Nɛɛ , kɔɔ gin ’ wɔɔ ye , yaun asuu yinwɛɛnlɛ gɔ nɛ yani yoolu kanrandei ? Ei yugurubei . Ei yuguru kɔkɔju tɔgui .
+40024003a	waaru inge le		Sɔɔ kɔɔ onu nɛ Yesu Oliwe tetemɛ nɛ yaa dɛinyin . Jaŋu unrunw gɔbe dɛiin wo bɛrɛ wiyaa ɔn gin ’ selumi : « Sɔɔ kanɛ u sɔi gɔ , waaru inge le biyɛdo ? 
+40024003b	inge		Iyaa , wɛɛgu uwɔ dɔwaai ga , aduna dogogu dɔwaai ga , sɛɛrɛ inge le jugɔmɔdo ma , emɛ bɛrɛ taga . »
+40024045	aai		« Nɛɛ , birɛbirɛnɛ sɔɔ turu baŋa , hakilɛ sɛɛ gɔ aai ? Inɛ wogɔ waaru jaan gɔ le birɛbirɛnw wajunw gɔbe pana tɔɔ ga , wo baŋa sagu bemɛ wo bɛrɛ gawarado .
+40025037	waaru inge le		Kɔɔ waaru le inɛw teitai wɔin gɔbe , aŋa womɔ ɔn gin ’ saadɛin : ‘ Inɛw Baŋa , emɛ waaru inge le giyɛ le u wɔu iyaa , pana u bɛrɛ obin ? Waaru inge le diinɔɔrin le u wɔu iyaa , dii u bɛrɛ obin ?
+40025038	waaru inge le		Waaru inge le yeru wiyaa u wɔu , ginrun emɛ nɛ ui sɛgurin ? Maa , duŋu le u wɔu , sɔi u bɛrɛ obin ?
+40025039	waaru inge le		Waaru inge le jinwaan u diiun ma , kajuginrun nɛ u tou , emɛ u bɛrɛ wiyaabɛin ma ? ’
+40025044	waaru inge le		Kɔɔ waaru le , wo le kijɛ be gɛɛido : ‘ Inɛw Baŋa , emɛ waaru inge le giyɛ le ma , diinɔɔrin le ma , yeru wiyaa u wɔu ma , duŋu le u wɔu ma , jinwaan u diiun ma , kajuginrun nɛ u tou ma iyaa , kai uwɔ kilɛnɛ kanrin ma ? ’
+40026008	ingei		Waaru jaŋu unrunw gɔbe kɔɔ be iyi le , kinɛ banranmaa , ɔn gin ’ gɛɛbɛin : « Ɔn gin ’ yanwan tɛbu gɔ , ingei ?
+40026010	inge dɛi		Yesu , be kɔɔ gin ’ sɔɔubɛin ga jugaa , be le kijɛ wo gi : « E inge dɛi yaanran gɔ kinɛ jinwɛnmɔuwɔi ? Kijɛ wo kanrun gɔ , wo mu sibɛ go birɛ ɛjui biru .
+40026015	kijɛ inge		ɔn gin ’ be le gi : « Yesui numɔ ebe nɛ mu kunɔ ye , e kijɛ inge mu bɛrɛ obodei ? » Be sarudu buudu pɛtaanu lugaa , numɔ womɔ nɛ kuni .
+40026017	yagɔ		Buru kijɛ pidemu tolo janwan bai pɔlɔ gɔ , Yesu jaŋu unrunw gɔbe genɛ womɔ nɛ dɔwaa wo le ɔn gin ’ gin : « Taŋagalu pana gɔ u emaa yalu yagɔ nɛ yegere ga ibɛu ? »
+40026040	~		Jaŋu unrunw taanu gɔbe bɛrɛ pilemaa wo wiyaa , giri yeiyaa be wɔu tɛmu . Piɛru le ɔn gin ’ gi : « Aiwa , e lɛɛrɛ turu sai kanran giri yeiyelu go mu le bariyaa bɛɛli ma ?
+40026050	~		Yesu wo le ɔn gin ’ sɔi : « Mu anrunge , kijɛ kanrain u wɛi gɔ kanran . » Inɛw wajunw gɔbe Yesui yaa yinhain .
+40026054	yani		Kaa kɔɔ gin ’ biyaa ye , kijɛ ɔnbe bibiyɛdɛin ga , Ama Dɔn sɔɔjɛ gɔ , yani kibedo ? »
+40026062a	~		Ama bɛrɛ sadagadɔɔnɔnɛ kuu baŋa gɔ ingelaa , Yesu le ɔn gin ’ gi : « Inɛw ɔnbe u le sɔɔ gɛɛɲu gɔ u ɛgɛu wɔlɔu ma ? 
+40026062b	~		Sɔɔ be le saaɲu sɛlɛu ma ? »
+40026065	~		Yesu kɔɔ gin ’ wo saa , Ama bɛrɛ sadagadɔɔnɔnɛ kuu baŋa gɔ arugoi unrunmɔ aa , kaaraatiyaa , wo bɔɔnw gɔbe le ɔn gin ’ gi : « Wo Ama boi yamulu sɔɔ sɔɔuwɔ . Nɛɛ kai sɛɛrɛ dɛnɛnu doori . E wooi puu Ama boi yamulu sɔɔ wo sɔi gɔ ɛgaabei .
+40026066	inge		Nɛɛ , e wo bɛrɛ inge kanranmɔ gi ? » Badubadanw diyɛnw gɔbe saa , woi daaun jaain wɔɔ gin .
+40026068	inɛ aa		wo le ɔn gin ’ gɛɛubɛin : « U Ama Yabanɛ Diyɛ tii gɔ , inɛ aa ui lagu ma jugɔ bɛɛ . »
+40027004	~		Be le ɔn gin ’ gi : « Inɛ jarugu wo le wɔlɔ gɔi numɔ ebe nɛ mu kunu dɛi hakɛ kanraantun . » Kaa , be aŋa womɔ saa : « Tagu emɛ tolo . Kɔɔ sɔɔ uwɔi . »
+40027013	~		Pilate pilemaa Yesu le ɔn gin ’ sɔi : « Inɛw ɔnbe kuu uwɔ nɛ sɔɔ sɔɔu wɔin gɔ , u ɛgɛɛlɛu ma ? »
+40027017	aai		Kɔɔ gin ’ Pilate , mɔɔnu gɔ bɛrɛ selumaa , bemaa aai unrun paju ye dɛnɛɲu ma gi . Barabasui ma , Yesu , Kirisito gɛɛɲu gɔi ma gi .
+40027021	inɛ aa		Kubɔ lɛiye gɔ , Pilate be bɛrɛ inɛ aa paja ire ma wo selumaa , be saa , Barabasui paja gin .
+40027022	inge		Wo pilemaa inɛw gɔbe bɛrɛ ɔn gin ’ selumu : « Kɔɔi ye , Yesu , Kirisito gɛɛɲu gɔ le maa inge kanran ? » Inɛw gɔbe puu ɔn gin ’ sain : « Baga jai nɛ woi pɛgɛ ye daa ! »
+40027023a	~		Pilate , inɛw gɔbe bɛrɛ ɔn gin ’ selumu : « Kɔɔi ye inɛ ɔn , 
+40027023b	ingei		mɔɲu ingei kanrun ? » Kaa , inɛ kanma puu mii bemɛ ɛɛnnaa ye , ɔn gin ’ gɛɛbɛin : « Woi baga jai nɛ pɛgɛ ye daa ! »
+40027046	inge dɛi		Lɛɛrɛ taanu waaru gɔ le gin ’ , Yesu ɛɛnnaa ɔn gin ’ gi : « Eli , Eli , lɛma sabakutani . » Tiyɛ gɔ Ama ma , Ama ma , inge dɛi ɔn gin ’ mui pajaajɛu ?
+41001024	inge dɛi		« Yesu , Nasarɛtu ana bɛɛnnɛ gɔ , mu ui aai ma igii wɔun . Inɛ ɛjaai Ama bɛrɛ goi gɔ ui . Inge dɛi u emi tɔɔɲɔuwɔu ? U emi suyoi wɛiu ma ? »
+41001027	inge		Inɛw gɔbe puu bɛrɛ ɛjii maunɛ kanrun . Be tunmɔ le sɔɔu , ɔn gin ’ gɛɛbɛin : « Ɔn sɔɔ yeru inge tɔgui ? Ɔn deeru kanai de ! Ainɛ gɔ , halu jinrunbe bɛrɛ gɔnrɔn le sɔɔ sɔwaajɛ ye be sɔɔ womɔ koi yabaɲu . »
+41002007a	inge		« Ainɛ ɔn , sɔɔ inge tɔgui sɔɔjɛ ?
+41002007b	inɛ aa		Amai laa ye inɛ aa , hakɛ yaabu kanrun bɛɛjɛ ? Wo Ama boi yamalauwɔ . »
+41002008	inge dɛi		Yesu ɔgu kɛu kinɛ bemɛ ajubu jugaa , be le ɔn gin ’ sɔi : « Inge dɛi e kinɛ ebe nɛ ajubu kɔɔ ajubauwɔi ?
+41002009	yagɔ		Ainɛ goju sanaai gɔ womaa , hakɛ womɔ yaabu kanraantin aŋa le gɛɛ lee , womaa ingele ye pɛnrɛnpanran womɔ jeɲɛ ye , yoi yaa gɛɛ lee , kolɛi logoro nɛ yagɔ naaran ?
+41002016	inge dɛi		Yesu , inɛw kɔɔbe tunmɔ le mɔrinyaan jaa kayauwɔ ga , Ama tɔɔru deerenw , Parisiɛnbe mɔɔnu nɛ toin gɔbe iyaa , be jaŋu unrunw womɔ gɔbe bɛrɛ ɔn gin ’ gin : « Inge dɛi wo sɛgu yabanw lee , inɛw boi mɔɲu bemɛ gowaa wɔin wajabe lee le mɔrinyaan jaa kayauwɔ ? »
+41002018	inge dɛi		Nɛɛ Jan Batise jaŋu unrunw lee , Parisiɛnbe lee , be aŋa pagaa sɛbɛin . Inɛw wiyaa Yesu bɛrɛ ɔn gin ’ gin : « Jan Batise jaŋu unrunw lee , Parisiɛnbe jaŋu unrunw lee , aŋa papagaɲu . Inge dɛi jaŋu unrunw uwɔ gɔbe aŋa pagaanɛ wɔin ? »
+41002019	~		Yesu aŋa bemɛ saa gi : « Purupagu bai gɔ , akana anrunge gɔbe , akana le wɔnu aŋa pagu ye bii bɛbɛɛdɛin ma ? Asuu ! Akana be wooi wɔnu , be aŋa pagu bɛɛidenɛ .
+41002024	inge dɛi		Parisiɛnbe wogɔ iyaa , Yesu le sɔwaa gin : « Jaŋu unrunw uwɔ yɛnɛ . Deeliye bai kijɛ kanran danwan gɔ , be wogɔ inge dɛi kanranɲu ? »
+41003004	inge		Kɔɔ onu nɛ wo inɛw gɔbe bɛrɛ ɔn gin ’ selumu : « Deeliye bai , inge kanraun jaan ? Ɛju kanraun jaan ma , mɔɲu kanraun jaan ? Inɛ kinrun yabaun jaan ma , inɛi daaun jaan ? » Kaa inɛ turu kanran aŋa womɔ saa ga yabalu .
+41003023	~		Kɔɔ gin ’ be giyaa , Yesu bei boonɔmaa , taanrinyɛn le aŋa bemɛ sai . Wo ɔn gin ’ gi : « Setanu , jinrunbe kuu baŋa gɔ , kuu womɔ le birɛbirɛnw womɔbe nananado ma ? Asuu .
+41003033a	aai		Yesu saa : « Mu na gɔ aai ? 
+41003033b	aabei		Mu suŋɔw gɔbe aabei ? »
+41004013	yani		Kɔɔ onu nɛ Yesu be le sɔwaa gi : « E taanrinyɛn ɔn paamu kanraanlɛi ye , taanrinyɛn wajunw gɔbe yani paamu kanrandei ?
+41004030a	inge		Yesu iyaa taanrinyɛn waja daan gi : « Ama diinɛ gɔ paamu kanran ga emɛ kijɛ inge tɔgu le woi tunwɔndɛin ? 
+41004030b	inge		Sɔɔ inge tɔgu le tiyɛ womɔ sɔɔdɛin ?
+41004038	~		Waaru wogɔ le , Yesu diikoro bɔlɔ go , kuu tuŋurun nɛ kuu womɔ duunaa giri yeiyeube . Jaŋu unrunw gɔbe woi yaa , yemɛlaa be gi : « Jaŋudeerenɛ , emi suiyoido ga wɔɔ gɔ u mai sɛlɛu ma ? »
+41004040a	inge		Yesu , jaŋu unrunw womɔ le ɔn gin ’ sɔi : « Inge sabu dɛi e ɔn baa liyaa wɔi ? 
+41004040b	~		E nimɛ kanran gagawu le wɔlɔi ma ? »
+41004041	inge		Kaa , be kai liyaa tunmɔ le ɔn gin ’ gɛɛbɛin : « Aa ! Inɛ ɔn inɛ inge tɔgui ? Halu ooɲɔ lee , dibe dii lee , sɔɔ womɔ yabauwɔin . »
+41005007	ingei		mii diyɛ le kɔnwaan gi : « Yesu , Ama daa naa daa go wɔɔ baŋa Aini gɔ , uwɔ ingei ? Ama ga , mui ɔɲɔmɔnɔu . »
+41005009	inge		Kaa Yesu pilemaa sɔwaa gi : « Boi uwɔ inge gɛɛɲu ? » Jinrun gɔ saa : « Emɛ jinrun jooi wɔin digɛu , boi ma “ Emɛ jooi wɔin ” gɛɛɲu . »
+41005030	inɛ aa		Yesu , gɔnrɔn wo nɛ gowaai ga jugaabe . Kɔɔ dɛi , wo iŋiyaan , inɛw woi gɔŋaa bɛin gɔbe bɛrɛ selumaa gi : « Inɛ aa arugoi ma tabu ? »
+41005031	inɛ aa		Jaŋu unrunw gɔbe aŋa womɔ saa gin : « Inɛw sibɛ puu nɛ ui damauwɔin iyeuwɔu , iyaa inɛ aa ui tabu ma , yani selumɛjɛu ? »
+41005035	~		Yesu kɔɔ gin ’ yaanran gɔ le sɔɔu wo gɛlɛu , Yahutunw Ama gɛɛn ginrun kuu baŋa , Jayirusu ginrun nɛ gowaa inɛw wiyaa , Jayirusu le sɔwaa gin : « Iyaa uwɔ yinwaain . Nɛɛ jaŋudeerenɛ gɔi ɔɲɔmɔnu doori . »
+41005039a	inge dɛi		Yesu , ginrun gɔ nɛ yowaa , inɛw gɔbe le ɔn gin ’ sɔi : « E inge dɛi ɔn gin ’ siɲɛ siɲɛu , 
+41005039b	~		pii piiuwɔi ? Ii gɔ yinwɛnlu . Wo giri yeiyeuwɔ . »
+41006002a	aa		Deeliye bai dɔwaa wo kanran , wo Ama gɛɛn ginrun nɛ yowaa , deeru deerei tɔlu . Inɛw joo woi keŋiyɛunbɛin gɔbei ɛjii maunɛ kanrun . Kɔɔ dɛi be tunmɔ le ɔn gin ’ sɔɔubɛin : « Hakilɛ wo sɛɛ ɔn , aa woi obu ? 
+41006002b	aa		Taanrinyɛn wo kanranjɛ ɔnbe gɔnrɔn gɔ aa woi obu ? 
+41006002c	aa		Wo ɔn puu aa le bɛi ?
+41006022	~		Herɔdiade iyaa gɔ wiyaa giru bemɛ nɛ gɔɔ gɔɔi tɔlu . Herɔde lee , inɛw wajunw gɔbe lee , gɔɔ womɔ gɔ kinɛ bemɛ ɛjii aabe . Ɔgɔnɛ kinɛ ɛɛliyaa gabaa , iyaa gɔ le ɔn gin ’ sɔi : « Kijɛ u dɛnɛjɛ mui taga . Mu kijɛ wogɔ ui ohobodɔn . »
+41006024	kijɛ inge		Iyaa gɔ gowaa yaa , wo nai tɛmaa ɔn gin ’ selumu : « Maa kijɛ inge gɛɛn ? » Iyaa gɔ na gɔ saa gi : « Yaajɛu ye , Jan Batise kuu gɛɛn . »
+41006037	~		Yesu aŋa bemɛ saa gi : « E kuu ebe le pana bei oboi . » Jaŋu unrunw gɔbe saa gin : « Sarudu buudu suŋu lɛi baa buru ɛbɛ ye be bɛrɛ kayamɔdɛin ma ? »
+41006038	aŋa		Kaa , Yesu ɔn gin ’ be le gi : « Buru aŋa sɛi ma yai yɛnɛi . » Jaŋu unrunw gɔbe yaa selumaa yɛnaa , pilemaa wiyaa buru numɔrɔn lee , iiju lɛi lee yɔɔ gin .
+41007005	inge dɛi		Kɔɔ dɛi Parisiɛn gɔbe lee , Ama tɔɔru deerenw gɔbe lee , Yesu jaŋu unrunw , atɛmu le kɛukɛu numɔ mɔŋɔlu go jaa kayau be wɔu iyaa , Yesu bɛrɛ wiyaa ɔn gin ’ selumi : « Jaŋu unrunw uwɔ gɔbe , inge dɛi emɛ tirɛ anranw atɛmu gɔ gɛliyɛlu kanraan , numɔ lɔgɔgu le jaa kayaɲu ? »
+41008004	yago		Jaŋu unrunw gɔbe aŋa womɔ saa gin : « Olusolo ɔn nɛ , inɛw ɔn puu kijɛ kayaido , emɛ yago bɛɛdɛin ? »
+41008005	aŋa		Yesu bemaa buru aŋa sɛin ma gi . Be saa , unrunbe buru sɔi sɛin gin .
+41008012	inge dɛi		Yesu ninu anran ɛjii ninaatiyaa , ɔn gin ’ aŋa bemɛ sai : « E , kanɛ inɛw ɔnbe , inge dɛi taanrinyɛn waja iye nawain . Mu naran go e bɛrɛ tagauwɔn , taanrinyɛn turu kanran kanrun ye , ei tagaraidenɛ . »
+41008017	inge dɛi		Tunmɔ le jiiru jiireu be wɔu , Yesu soo biyaa , ɔn gin ’ be le gi : « E inge dɛi ajubau , maa buru sɛlɛ e wɔɔ gɔ dɛi sɔɔjɛ gɛɛuwɔi ? Kɔɔi ye e nimɛ kanran paamu kanranli ma ? Hakilɛ sɛlɛi ma ? Kinɛ ebe ɛɛin wɔɔ !
+41008018a	~		E giri yasɛi , giri iyeelɛi yinwɔi ma ? S
+41008018b	~		uguru yatoi , suguru ɛgɛɛlɛi yinwɔi ma ? Kɔɔi ye , e sɔɔ mu kanrun gɔbe naŋaai ma ?
+41008019	aŋa		Waaru buru numɔrɔn inɛw muɲu numɔrɔn bɛrɛ mu gamulu le , e buru waju taju aŋa jɛɛli ? » Be saa , buru waju taju pɛli lɛisigɛ jɛɛlin gin .
+41008020	aŋa		« Iyaa waaru buru sɔi inɛw muɲu nai bɛrɛ mu gamulu le , e buru waju taju diyɛ aŋa jɛɛli ? » Be saa taju sɔi jɛɛlin gin .
+41008021	~		Yesu gimaa be le ɔn gin ’ gi : « Nimɛ kanran e paamu kanranli ma ? »
+41008023	~		Yesu , giruminɛ gɔ numɔ aa , woi dimɛraan , ginrun onu go yai . Wo ainɛ gɔ giri nɛ yuguja paraatiyaa , kuu womɔ nɛ numɔ yaŋaraan , wo bɛrɛ ɔn gin ’ selumu : « Kijɛ u iyejɛ yɔɔ ma ? »
+41008027	inɛ aai		Kɔɔ onu nɛ , Yesu lee , jaŋu unrunw womɔ lee , Sɛmɛginɛ Pilipe ana daanu , Sesare Pilipe gɛɛɲu sibɛ go ana wɔin gɔbe nɛ yain . Oju nɛ yaau wɔu , Yesu , jaŋu unrunw womɔ bɛrɛ selumaa gi : « Inɛw mui inɛ aai gɛɛɲu ? »
+41008029a	~		Yesu gimaa be bɛrɛ ɔn gin ’ selumu : « Nɛɛ , 
+41008029b	aai		e mui aai ga sɛi ? » Piɛru saa : « Ama Yabanɛ Diyɛ tii gɔ ui . »
+41008036	~		Aduna ɔn puu uwɔi kanran , kinrun uwɔ suiyaai ye , niwɛn yasɛ ma ?
+41008037	kijɛ inge		U waja kijɛ inge le kinrun uwɔ gɔ dɔrugu bɛɛdou ?
+41009010	ingei		Jaŋu unrunw gɔbe sɔɔ womɔ yabaabɛin . Kaa be tunmɔi selumɛu kijɛ be gɛɛbe : « Yinwɛn ye bubulodɔn wo gɛɛjɛ gɔ , tiyɛ gɔ ingei ? »
+41009011	inge dɛi		Sɔɔ kɔɔ sugaa wo yaa , jaŋu unrunw taanu gɔbe selumu ɔn gin ’ Yesu bɛrɛ selumi : « Inge dɛi Ama tɔɔru deerenw gɔbe , Ama Yabanɛ Diyɛ tii gɔ wɛɛmɔ nɛ , Eli laa pilemɛ ye wɛɛdo gɛɛɲu ? »
+41009012	inge dɛi		Yesu aŋa bemɛ saa gi : « Narain , Eli wɛi ye kijɛ puu wo yegereun jaain wɔɔ . Nɛɛ , kɔɔi ye , inge dɛi Inɛ Aini gɔ ɛjii ɔhɔɲɔdo , woi ihibiliyɛdɛin ga Ama Dɔn nɛ tɔŋaaɲu ?
+41009016	inge		Yesu , jaŋu unrunw womɔ gɔbe bɛrɛ selumaa gi : « E wooi , jiiru gɔ , inge kuu nɛ goi ? »
+41009019a	Waaru yagɔ baa		Yesu be le sɔwaa gi : « Aa ! E inɛw gagawu sɛnɛ gɔbe , waaru yagɔ baa e le mu biyɛun jaan ? 
+41009019b	Waaru yagɔ baa		Waaru yagɔ baa ei muyɔndɔn ! Ii gɔ mu bɛrɛ jɛɛlɛi . »
+41009021	waaru yagɔ le		Yesu , ii gɔ ba bɛrɛ selumaa , womaa jiun gɔ waaru yagɔ le baa ii gɔ bɛrɛ tɔlu ma gi . Ii ba gɔ saa : « Jiun gɔ dagi womɔ le baa wo bɛrɛ tɔlu .
+41009028	inge dɛi		Yesu pilemaa ginrun wiyaa , jaŋu unrunw womɔ be wooi sai wɔu , be wo bɛrɛ ɔn gin ’ selumi : « Emɛ inge dɛi jinrun gɔ nanaa bɛɛnɛ kanrin ? »
+41009033	inge		Be kɔɔ gin ’ Kapɛrunaumu ana nɛ dɔin . Waaru ginrun be yoi le , Yesu , jaŋu unrunw womɔ bɛrɛ selumaa bemaa oju nɛ wɛɛu , sɔɔ inge kuu nɛ jiiru jiireubɛin ma gi .
+41009050	~		« Nɛu kijɛ ɛjui ga emɛ puu igii wɔin . Kaa ɛɛlu womɔ manaai ye , niwɛn tolo . Ɛɛlu womɔ pilemu ye wo bɛrɛ obo bɛɛmɔidolo . Kodigɛu nɛu , e nɛ wo toiyomɔi . Iyaa tunmɔ le jamu le biyɛi . »
+41010003	yani		Yesu yaa selumu ɔn le aŋa bemɛ sai : « Mɔise , wogɔ sibɛ go Tɔɔru dɔn nɛ yani gi ? »
+41010017	ingei		Yesu , jaŋu unrunw womɔ be wooi oju be gowaa , ainɛ turu jɔbaa wiyaa giru womɔ nɛ tuŋiyaan ɔn gin ’ wo nɛ selumu : « Jaŋudeerenɛ , u inɛ ɛju gɔ , maa ɔnmɔsɔgɔ bɛɛ ga , kijɛ kanraun mu jaan gɔ ingei ? »
+41010018	Inge dɛi		Yesu aŋa womɔ saa gi : « Inge dɛi ma inɛ ɛjui gɛɛjɛu ? Amai laa ye inɛ ɛju wɔlɔ .
+41010026	aai		Sɔɔ kɔɔ pɔlɔ mɔ gɔ dɛi sigɛ jaŋu unrunw gɔbei maunɛ kanranmu . Be tunmɔ le ɔn gin ’ gɛɛbɛin : « Kɔɔ gin ’ wɔɔ biyaa ye nɛɛ , inɛ yabu bɛɛmɔido gɔ aai ? »
+41010036	kijɛ inge		Yesu bemaa be dɛi kijɛ inge unrun kanrun ye dɛnɛɲu ma wo selumaa ,
+41010051	ingei		Yesu gi : « Maa u dɛi kijɛ kanran ga u ibɛ gɔ ingei ? » Barutimɛ saa : « Jaŋudeerenɛ , pilemu ye giri mu iyemɔ . »
+41011003	inge dɛi		Inɛ ebaa inge dɛi jandulu gɔ kɔmɔlɔjɛ ma selumaajɛ ye , Inɛw Baŋa kai yasɛ gɛɛi . Tanwanlu go womaa pilemu ye kojɛɛlɛdo wa . »
+41011005	Inge dɛi		Inɛw gamuu yalu gɔ nɛ wɔu , selumaa gin : « Hei ! Ebe ingei ? Inge dɛi jandulu kɔɔ kɔmɔlɔuwɔi ? »
+41011028a	Kijɛ inge		ɔn gin ’ wo bɛrɛ selumi : « Kijɛ inge uwɔ dɛi u kijɛ ɔnbe kanraunwɔu ? 
+41011028b	Inɛ aa		Inɛ aa u bɛrɛ gɔnrɔn obaa , uwaa kijɛ ɔnbe kanran gi ? »
+41011030	~		Jan , womaa batise kanran ga , Ama woi tii ma , inɛw woi tii ? Mu bɛrɛ sai oboi . »
+41011031a	~		Be tunmɔ le sɔwaa ɔn gin ’ gɛɛubɛin : 
+41011031b	inge dɛi		« Emɛ Ama woi tii giyaaɲu ye , wo emaa inge dɛi sɔɔ womɔ le gawanɛ kanrin ma gɛɛdo .
+41012009	inge		« Nɛɛ , sadiŋɛ baŋa gɔ inge kanrando ? Wo wiyaa ye , resɛn birɛbirɛnw kɔɔbei daatiyaa ye sadiŋɛ unrunmɔ inɛw waja bɛrɛ gagawarado .
+41012015	inge dɛi		Kaa be kinɛ bemɛ nɛ sɔɔ too tɔitɔi gɔ sɔɔnɛ ga Yesu igii bee dɛi , saa gi : « E inge dɛi aŋa ma dɛnɛuwɔi . Sarudu buudu turu mu bɛrɛ jɛɛlu yɛnɛmɔi . »
+41012016a	aa mɔi		Buudu gɔ be jɛɛlaa , Yesu yɛnaa ɔn gin ’ be bɛrɛ selumu : « Buudu gɔ nɛ kuu yegeraa too gɔ lee , boi tɔŋaa wɔɔ gɔ lee , aa mɔi ? » Be saa , Rɔmɛ ɔgɔnɛ diyɛ mɔi gin .
+41012016b	~		
+41012023	aa mɔi		Nɛɛ , anranw sɔi gɔ puu yaanran gɔi jeɲaabɛin gɔ digɛu , yiun bulogu bai gɔ le , yaanran gɔ aa mɔi biyɛdo ? »
+41012028	yagɔi		Yesu lee , inɛw kɔɔbe lee kunrin sɔɔ sɔɔu be wɔu , Ama tɔɔru deerenɛ turu ɛgaabe . Yesu , Saduseyɛn gɔbe aŋa ɛjii sai ga , wo iyaabe . Kɔɔ dɛi wo Yesu genɛ nɛ dɔwaa , ɔn gin ’ selumu : « Tɔɔru gɔbe logoro nɛ , tɔɔru sigɛ le maa gɔ , tɔɔru yagɔi ? »
+41012035	yani		Yesu Ama Ginrun Diyɛ gɔ nɛ deeru deereu wɔu , ɔn gin ’ sɔi : « Ama tɔɔru deerenw gɔbe , Ama Yabanɛ Diyɛ tii gɔ , Dawide tiruwɛnɛi be yani gɛɛuwɔin ma ?
+41012037	yani		Dawide , kuu womɔ le Ama Yabanɛ Diyɛ tii gɔ Inɛw Baŋai gi . Nɛɛ , Inɛw Baŋa womɔ wo tiruwɛnɛi yani bii bɛɛjɛ ? » Inɛw joo kɔɔ nɛ bɛin gɔbe , kinɛ ɛɛli le woi keŋiyɛunbɛin .
+41013004a	waaru inge le		« Sɔɔ kanɛ u sɔi gɔ , waaru inge le biyɛdo ? 
+41013004b	inge		Iyaa waaru wogɔ dɔwaai ga , sɛɛrɛ inge le jugɔmɔdo ma , emɛ bɛrɛ taga . »
+41014004	ingei		Inɛw gamuu yalu gɔ nɛ wɔu kinɛ ɛjii jinwaan , ɔn gin ’ tunmɔ le gɛɛbɛin : « Lajukɔrɔ gɔ ɔn gin ’ yamalaa wo paju gɔ , ingei ?
+41014006	inge dɛi		Kaa Yesu be le ɔn gin ’ sɔi : « Yaanran gɔi yoboi pajai . E inge dɛi kinɛ womɔ jinwɛnmɔuwɔi ? Kijɛ wo kanrun gɔ , wo mu sibɛ go birɛ ɛjui biru .
+41014012	inɛ aa		Kɔɔ gin ’ buru kijɛ pidemu tolo janwan , bai pɔlɔ gɔ dɔwaai . Bai wogɔ , ginrun tuturu nɛ peju ii yɛmaa ye , sɛnwaan ye , Taŋagalu pana bemɛ kunrin yegerebɛin . Yesu jaŋu unrunw gɔbe genɛ womɔ nɛ dɔwaa , ɔn gin ’ wo bɛrɛ selumi : « Taŋagalu pana gɔ , emɛ inɛ aa mɔ nɛ yegere ga ibɛu ? »
+41014014	yago		Ginrun wo yooido gɔ nɛ , ginrun baŋa le ɔn gin ’ gɛɛi : ‘ Jaŋudeerenɛ emɛ uwaa , unrun , jaŋu unrunw unrunmɔ le , Taŋagalu pana deun unrunbe kayaido gɔ yago wɔɔ ma gi . ’
+41014060a	~		Kɔɔ gin ’ wɔu , Ama bɛrɛ sadagadɔɔnɔnɛ kuu baŋa gɔ , inɛw puu giru nɛ ingelaa ɔn gin ’ Yesu bɛrɛ selumu : « Inɛw ɔnbe u le sɔɔ gɛɛɲu gɔ , u ɛgɛuwɔlɔu ma ? 
+41014060b	~		Sɔɔ be le saaɲu sɛlɛu ma ? »
+41014063	~		Sadagadɔɔnɔnɛ kuu baŋa gɔ ingelaa , arugoi unrunmɔ aa , kaaraatiyaa , wo bɔɔnw gɔbe le ɔn gin ’ gi : « Nɛɛ kai sɛɛrɛ dɛnɛnu doori .
+41014064	inge		E wooi puu Ama boi yamulu sɔɔ wo sɔi gɔ ɛgaabei . Nɛɛ , e wo bɛrɛ inge kanranmɔ gi ? » Badubadanw gɔbe puu kuu womɔ nɛ jarugu duuraa , woi daaun jaain wɔɔ gin .
+41015004	~		Pilate pilemaa ɔn gin ’ wo le gi : « Inɛw ɔnbe kuu uwɔ nɛ sɔɔ sɔɔu wɔin gɔ u ɛgɛɛlɛu ma ? Be le sɔɔ saaɲu sɛlɛu ma ? »
+41015012	inge		Pilate pilemaa be bɛrɛ ɔn gin ’ selumu : « Kɔɔi ye , inɛ Yahutunw ɔgɔnɛi e gɛɛjɛ gɔ le , maa inge kanran ? »
+41015014a	~		Pilate , inɛw gɔbe bɛrɛ ɔn gin ’ selumu : 
+41015014b	ingei		« Kɔɔi ye inɛ ɔn mɔɲu ingei kanrun ? » Kaa inɛ kanma puu mii bemɛ ɛɛnnaa ye , ɔn gin ’ gɛɛbɛin : « Woi baga jai nɛ pɛgɛ ye , daa ! »
+41015034	inge dɛi		Lɛɛrɛ taanu waaru gɔ le , Yesu ɛɛnnaa ɔn gin ’ gi : « Eloi , Eloi , lɛma sabakutani . » Tiyɛ gɔ Ama ma , Ama ma , inge dɛi ɔn gin ’ mui pajaajɛu ?
+41016003	inɛ aa		Ɔnsain gɔ nɛ yaau wɔu , be tunmɔ le ɔn gin ’ gɛɛbɛin : « Ɔnsain gɔ nɛ dɔwaa ye , dumɔ diyɛ murɔn aŋa gɔ nɛ pinɛ gɔ , inɛ aa emɛ bɛrɛ dunɔrɔnmu obodo ? »
+42001018	yani		Jakari , Mɛlɛnkɛ gɔ aŋa saa gi : « Mui pɛyaai , iyaa yaanran ma yaa inɛ pɛii . Nɛɛ , mu wogɔ yani jugɔdɔn ma ? »
+42001034	yani		Mari , mɛlɛnkɛ gɔ le kijɛ gi : « Sɔɔ kɔɔ yani kanrun bɛɛmɔdo ma ? Sabu mu ainɛ inɔn . »
+42001043	kijɛ inge		Kijɛ inge ma dɛi Inɛw Baŋa ma na gɔ mu bɛrɛ wɛɛu wɔɔ ma ?
+42001066	inge		Inɛw sɔɔ kɔɔbe ɛgɛnw gɔbe puu ajubu ajubu yɛnɛubɛin . Iyaa kuu unrunbemɛ selumɛubɛin , kijɛ be gɛɛbe : « Ii ɔn , inge ii tɔgui biyɛdo ? » Inɛw Baŋa Ama gɔnrɔn diyɛ gɔ naran go ii gɔ le yabe .
+42002048	inge dɛi		Mari lee , Josɛpu lee , waaru Yesui be iye le , be bɛrɛ ɛjii maunɛ biyaabe . Wo na wo le kijɛ gi : « U inge dɛi ɔn gin ’ emɛ bɛrɛ kanraanbeu ma ? Yɛnɛ , u ba lee , mu lee , emɛ ui dɛnɛu ɛjii liyaabɛin . »
+42002049	inge dɛi		Yesu aŋa bemɛ saa gi : « E inge dɛi mui dɛnɛubei ma ? E maa , mu Ba birɛ mu birɛun dagaa ga inin ma ? »
+42003007	aa		Inɛw mɔɔnu joo wo bɛrɛ wɛi ye , unrunbei batise kanranmɔubɛin gɔbe le , Jan kijɛ gi : « E yuguru kɔkɔju tɔgu gɔbe , Ama kinɛbanrun wɛɛido gɔ nɛ ebaa ɛli goo ga aa ei tinwinrun ?
+42003010	kijɛ inge		Kɔɔ waaru le , mɔɔnu gɔ , nɛɛ kijɛ inge unrunbe kanraun dagaa ma Jan bɛrɛ selumi .
+42003012	inge		Sɛgu yabanw gɔbe yaa , unrunbei batise kanranmɔ ga wiyaa , Jan bɛrɛ selumaa gin : « Jaŋudeerenɛ , emɛ , inge emɛ kanraun dagaa ma ? »
+42003014a	~		Sɔludasu unrunw gamuu yaa , wo bɛrɛ selumaa gin : 
+42003014b	inge		« Emɛ yaa , nɛɛ inge emɛ kanraun jaan ma ? » Jan aŋa bemɛ saa : « E inɛ turu nɛ kanran kɛɛlɛ , paŋa le ma , sɛɛrɛ kakalu le ma yabanɔugi . Kaa tujɔ ebe gɔ ei wo baamɔi . »
+42004034	inge dɛi		« Hei ! Yesu , Nasarɛtu ana bɛɛnnɛ gɔ , mu ui aai ma igii wɔun . Inɛ ɛjaai Ama bɛrɛ goi gɔ ui . Inge dɛi u emi tɔɔɲɔuwɔu ? U emi suyoi wɛiu ma ? »
+42004036	inge		Inɛw gɔbe puu bɛrɛ ɛjii maunɛ kanrun . Be tunmɔ le ɔn gin ’ gɛɛbɛin : « Ɔn sɔɔ yeru inge tɔgui ? Sabu wo jinrun gɔbe bɛrɛ gɔnrɔn le , paŋa le sɔɔ sɔwaajɛ ye , be inɛw kuu nɛ koi gooɲu . »
+42005021a	aai		Ama tɔɔru deerenw gɔbe lee , Parisiɛn gɔbe lee , kinɛ bemɛ nɛ ɔn gin ’ gɛɛbɛin : « Inɛ Ama boi yamalanɛ kɔɔ aai ma ? 
+42005021b	inɛ aa		Amai laa ye , inɛ aa , hakɛ yaabu kanrun bɛɛjɛ ? »
+42005022	inge dɛi		Kaa Yesu , kinɛ bemɛ ajubu jugaa , be le ɔn gin ’ sɔi : « Inge dɛi e kinɛ ebe nɛ ajubu kɔɔ ajubauwɔi ?
+42005023	yagɔ		Ainɛ ɔn womaa , hakɛ womɔ wo bɛrɛ yaabu kanraantin aŋa le gɛɛ lee , womaa , ingele ye yoi yaa gɛɛ lee , kolɛi logoro nɛ , yagɔ naaran ?
+42005030	inge dɛi		Parisiɛnbe lee , Ama tɔɔru deerenw bemɛ gɔbe lee guguun gunwaan , Yesu jaŋu unrunw le kijɛ be gi : « Inge dɛi e sɛgu yabanw lee , inɛw boi mɔɲu bemɛ gowaa wɔin wajabe lee le mɔrinyaan , jaa kayauwɔi ? »
+42005033	~		Kɔɔ onu nɛ , inɛw , Yesu le ɔn gin ’ gin : « Jan Batise jaŋu unrunw gɔbe lee , Parisiɛnbe jaŋu unrunw gɔbe lee , waaru joo aŋa papagaɲu , Ama gɛgɛɛnɲu . Kaa jaŋu unrunw uwɔ gɔbe kakayaɲu , nɔnɔɔɲu . »
+42005034	~		Kɔɔ gin ’ be sɔwaa , Yesu aŋa bemɛ ɔn gin ’ sai : « Purupagu bai gɔ , akana anrunge gɔbe , akana le wɔnu , be bɛrɛ aŋa pagamɔ bɛbɛɛdei ma ? Asuu !
+42006002	inge dɛi		Parisiɛn gamuu wogɔ iyaa , ɔn gin ’ be le gin : « Deeliye bai kijɛ kanran danwan gɔ , e wogɔ inge dɛi kanranjɛi ? »
+42006009	~		Yesu , inɛw woi sebereubɛin gɔbe bɛrɛ ɔn gin ’ gi : « Mu e bɛrɛ selumɛuwɔn : Deeliye bai inge kanraun jaan ? Ɛju kanraun jaan ma , mɔɲu kanraun jaan ? Inɛ kinrun yabaun jaan ma , inɛi suyoun jaan ? »
+42006032	~		« E , inɛw ei ibɛɛ wɔin gɔbe sai ibɛi ye , kijɛ sigɛ e kanranjɛ wɔlɔ . Halu hakɛ kanranw gɔbe , be kanran , inɛw bei ibɛɛ wɔin gɔbei ibɛɛ wɔin .
+42006033	~		Iyaa , e inɛw e bɛrɛ ɛju kanranw gɔbe sai bɛrɛ ɛju kanranjɛi ye , kijɛ sigɛ e kanranjɛ wɔlɔ . Halu , inɛw hakɛ kanranw gɔbe yaa , yinkanraunwɔin .
+42006034	~		E iyaa , inɛw numɔ nɛ yoru ebe bɛbɛɛdei ga e wɔɔ gɔbe bɛrɛ yoru kunɔjɛi ye , kijɛ sigɛ e kanranjɛ wɔlɔ . Inɛw hakɛ kanranw gɔbe yaa , pilemɛ ye kɔɔ tunmɔ bɛɛ ga , hakɛ kanranw be bɔɔnw gɔbe bɛrɛ yoru yinkunɔɲu .
+42006039	~		Kɔɔ onu nɛ , Yesu , taanrinyɛn ɔn le be le sɔwaabe : « Giruminɛ , giruminɛ wo tunmɔnɛ teeremu bɛbɛɛjɛ ma ? Kunrin , kanraain ye , be lɛi kɛu , bonɔ nɛ numɔ yooidenɛ ma ?
+42006041	inge dɛi		« Giri uwɔ nɛ lalu too gɔ kajubaalɛu , u bɔɔnɛ giri nɛ keri too gɔ inge dɛi iyejɛu ?
+42006042	yani		Iyaa , u inɛ giri uwɔ nɛ lalu too gɔ iyeelɛ gɔ , u bɔɔnɛ womaa ‘ Banrunge , giri uwɔ nɛ keri too gɔ goonɔmu ’ yani gɛɛ bɛɛjɛu ? U aŋa lɛilɛiginɛ gɔ , giri uwɔ nɛ lalu too gɔ laa yai goonɔ . Kɔɔ onu nɛ , u bɔɔnɛ giri nɛ keri too gɔ goonɔ ga sɛɛu giri ihiyedou . »
+42006046	inge dɛi		« Iyaa , e inge dɛi maa ‘ Inɛw Baŋa , Inɛw Baŋa ’ aŋa le sai gɛɛnu , kijɛ ebaa kanran mu gɛɛjɛ gɔbe kanraanlɛi wɔi ma ?
+42007024	inge		Jan inɛw tii gɔbe yaa be yaa , Yesu , inɛw joo wo le bɛin gɔbe bɛrɛ Jan dɛi sɔɔ ɔn gin ’ sɔɔi tɔlu : « Waaru olusolo go e yai le , e , inɛ inge tɔgui yɛnɛi yaii ? Saguba ooɲɔ woi jigemɔjɛi yɛnɛi yaii ma ?
+42007025	ingei		Nɛɛ , e ingei yɛnɛi yaii ? Ɔgɔinɛ sɔi ɛju kunaa wɔɔi yɛnɛi yaii ma ? Ai . Inɛw sɔi ɛju kunaa , saŋa kayaɲu gɔbe , be , ɔgɔginrun nɛ toiyoɲu .
+42007026	inge dɛi		Kɔɔi biyaa ye , e , olusolo go inge dɛi yaii ? Inɛ Ama titiyainɛ yɛnɛi yaii ma ? Ee gun , halu titiyainɛ dɛi kanran sigɛ .
+42007031a	aa		Sɔɔ kɔɔbe kuu nɛ gimaa , Yesu , inɛw gɔbe le ɔn gin ’ sɔi : « Kanɛ inɛw ɔnbe , mu aa le bei tunwɔndɔn ? 
+42007031b	aa		Bei aa le murun ?
+42007042	yagɔ		Be yoru gɔ bana tujɔɲu sɛbenɛ dɛi , yoru kunɔnɛ gɔ , inɛw lɛi gɔ kɛu bɛrɛ yoru gɔ yaabaatun gi . Nɛɛ inɛw lɛi gɔbe logoro nɛ , inɛ yagɔ , ainɛ yoru kunɔnɛ gɔi sigɛ le ibɛɛ biyɛdo ? »
+42007049	inɛ aai		Kɔɔ waaru le inɛw Yesu le jaa kayaun daanbɛin gɔbe kinɛ bemɛ nɛ kijɛ be gɛɛbe : « Kɔɔi ye , ɔn inɛ aai , hakɛ yaa yaabu kanranjɛ baŋa gɔ ? »
+42008025a	yago		Yesu , jaŋu unrunw womɔ gɔbe le ɔn gin ’ gi : « Gagawu ebe gɔ yago wɔɔ ? » Kaa , be kai , Yesu kijɛ kanrun gɔ iyaa , liyaa maunɛ biyaa , tunmɔ le ɔn gin ’ gɛɛbɛin : 
+42008025b	inge		« Aa ! Inɛ ɔn inɛ inge tɔgui ? Ooɲɔ lee , dibe dii lee , sɔɔ womɔ koi yabaɲu . »
+42008028	ingei		Yesui waaru wo iyi le , wo mii diyɛ le piyaa , Yesu kubɔ doɲu nɛ numaa sugaa , mii ɛɛn le ɔn gin ’ wo le sɔi : « Yesu , Ama daa naa daa go wɔɔ baŋa Aini gɔ , uwɔ ingei ? Mu u bɛrɛ gɛɛunwɔn , mui ɔɲɔmɔnɔu . »
+42008030	inge		Yesu ainɛ gɔi selumaa : « Boi uwɔ inge gɛɛɲu ? » Jinrun joo ainɛ gɔ kuu nɛ yadaanbɛin gɔ digɛu , wo saa gi : « Boi ma “ Emɛ jooi wɔin ” gɛɛɲu . »
+42008045	Inɛ aai		Kɔɔ waaru le , Yesu ɔn gin ’ selumu : « Inɛ aai mui tabu ? » Inɛw gɔbe puu unrunbei laa ga gɛɛubɛin . Piɛru saa gi : « Mu baŋa , mɔɔnu gɔ ui gɔŋaa gɛliyaa , inɛw sibɛ sibɛ ui damauwɔin iyeelɛu ! »
+42009009a	inɛ aai		Kaa Herɔde , wo ɔn gin ’ gi : « Mu Jan kuu polomaabɔn . Nɛɛ inɛ dɛi sɔɔ kɔɔbe wooi ɛgɛu mu wɔɔ gɔ , wogɔ inɛ aai ma gun ? » Wo kɔɔ gin ’ gɛɛu , Yesui bana iyeɲu dɛnɛube .
+42009009b	~		
+42009018	inɛ aai		Yesu , bai turu dɛiin biyaa , Ama gɛɛun waaru wo bee le , jaŋu unrunw womɔ yaa wo le yabɛin . Kɔɔ gin ’ wo be bɛrɛ ɔn gin ’ selumu : « Inɛw mui inɛ aai gɛɛɲu ? »
+42009020a	~		Yesu be bɛrɛ selumaa : « Nɛɛ , 
+42009020b	aai		e mui aai ga sɛi ? » Piɛru saa : « Ama Yabanɛ Diyɛ tii gɔ ui . »
+42009025	~		Aduna ɔn puu uwɔi kanran , kuu uwɔ suyaajɛu ma , kuu uwɔ yamalaajɛu ma biyaai ye , niwɛn yasɛ ma ?
+42009041a	Waaru yagɔ baa		Yesu saa gi : « Aa ! E inɛw mɔɲu , inɛw gagawu sɛnɛ gɔbe . Waaru yagɔ baa e le mu biyɛun jaan ? 
+42009041b	Waaru yagɔ baa		Waaru yagɔ baa ei muyɔndɔn ? Ii uwɔ gɔ ɔn nɛ jɛɛlɛ . »
+42010025	kijɛ inge		Kɔɔ onu nɛ , Ama tɔɔru deerenɛ turu ingelaa , Yesui subɔrɔ yɛnɛ dɛi , wo le ɔn gin ’ sɔi : « Jaŋudeerenɛ , maa ɔnmɔsɔgɔ bɛɛ ga , kijɛ inge mu kanraun jaan ? »
+42010026a	ingei		Yesu wo le saa gi : « Tɔɔru dɔn gɔ nɛ ingei tɔŋaaɲu ? 
+42010026b	yani		U sɔɔ wogɔ jaŋaa , yani paamu ? »
+42010029	aai		Kaa Ama tɔɔru deerenɛ gɔ kuu unrunmɔ bɛrɛ naran obu ibɛi bee dɛi , Yesu le ɔn gin ’ gi : « Nɛɛ , mu bɔɔnɛ gɔ aai ? »
+42010036a	~		Yesu , Ama tɔɔru deerenɛ gɔ bɛrɛ ɔn gin ’ selumu : 
+42010036b	inɛ aai		« Inɛw taanu ɔnbe logoro nɛ , ajubu uwɔ nɛ , inɛ aai , ainɛ kuu nɛ kuu numɔ numɔw numi gɔ bɔɔnɛi bii ? »
+42011008	~		mu e bɛrɛ tagauwɔn , be lɛi logoro nɛ anrunge too gɔ dɛi yagɔ baŋa ingele ga yabalu kanran , woi gɛɛn joo gɔ le ɔɲɔmaati dɛi , wo ingele ye , aŋai kai womɔ kilɛido gin ’ wo bɛrɛ ohobodo .
+42011011	yagɔ		Kɔɔ gin ’ , logoro ebe nɛ banɛ yagɔ , aini womɔ wo bɛrɛ iiju gɛnyaanjɛ ye yuguru wo bɛrɛ obodo ?
+42011012	~		Maa iyaa wo bɛrɛ ɛɲɛ talu selumaajɛ ye , woi mɔmiyɛn obodo ?
+42011013	aŋai		E inɛw mɔɲu gɔbe , unrunw ebe bɛrɛ kijɛ ɛju aŋai oboɲu igii wɔi ye , Ba Ama alagala nɛ daan gɔ , inɛw wo bɛrɛ gɛɛnw bɛrɛ kɔɔ dɛi sigɛ Kikinu Pilu oboidolo ma ? »
+42011018	yani		Kɔɔ bana wɔɔ gin ’ , Setanu , kuu womɔ le jaiyɛuwɔ ye , laamu womɔ gɔ yani iŋi bɛɛdo ? Sabu e maa Belujebule gɔnrɔn le jinrun inɛw kuu nɛ nanajɛ gi .
+42011019	aa bei		Kaa iyaa , mu Belujebule gɔnrɔn le jinrunbe nanajɔn biyaai ye , nɛɛ e bɔɔnw gɔbe , jinrun inɛw kuu nɛ nana be goonɔjɛ gɔ , gɔnrɔn wogɔ , aa bei obaajɛ ? Saliyɛ ebe be kiredo .
+42012014	inɛ aa		Kaa Yesu , ainɛ gɔ le ɔn gin ’ sai : « Hei ! Banrunge , inɛ aa mui saliyɛkirenɛ ebei biyɛ ga kuu ebe nɛ daanu ? Maa , inɛ aa mui kijɛ gamalanɛ ebei boju ? »
+42012017	inge		Kɔɔ waaru le , ɔgɔinɛ gɔ , kinɛ unrunmɔ nɛ ɔn gin ’ gɛɛbe : ‘ Nɛɛ , mu inge kanrandɔn ? Sabu mu dɛnrɛn ma gɔbe puu yalu kunɔɲu sɛlɔn . ’
+42012020	aa		Kaa Ama , ainɛ ɔgɔinɛ gɔ le ɔn gin ’ sɔwaa gi : ‘ Bomɔginɛ ! Iye digɛ tee kinrun uwɔ gogoodo . Nɛɛ kijɛ balaa mɔɔnaa u sɛɛ gɔ , wogɔ aa mɔi biyɛdo ? ’ »
+42012024	～		E gaŋabe sɔɔ ajubu yɛnɛi : Be toi tɔɔnɛ , gɛlu gɛlɛɛnɛ . Iyaa be yalu kijɛ baŋaranɲu ma , guyɔ ma sɛnɛ . Kaa Ama , pana bemɛ tɔtɔɔjɛ . Ei sigɛ le sasaabe dɛi ire .
+42012025	inɛ aa		Logoro ebe nɛ inɛ aa , kuu womɔ dɛi jiire wo jiirejɛ dɛi kinruntaun womɔ halu gaila kanran baru bɛɛjɛ ?
+42012026	inge dɛi		E kɔɔ gin ’ kijɛ dagi kɔɔ tunmɔ kanran kanrun bɛɛlɛi biyaa ye , inge dɛi kijɛ wajunw dɛi diyɛdai le wɔi ?
+42012042	aai		Inɛw Baŋa , Piɛru le saa gi : « Ginrun kajubanɛ sɔɔ turu baŋa , hakilɛ sɛɛ gɔ aai ? Inɛ wogɔ waaru jaan gɔ le birɛbirɛnw wajunw gɔbe pana tɔɔ ga , wo baŋa sagu bemɛ wo bɛrɛ gawarado .
+42012049	~		« Mu aduna nɛ yaun kunɔi wɛiun . Kanɛ baa yaun gɔ tanugaatiyaabɛin ye ibɛɛ wɔun .
+42012056	inge dɛi		E inɛw aŋa lɛilɛigunw gɔbe , minɛ lee , alagala lee yɛnɛ ye tiyɛ bemɛ jugu bɛbɛɛjɛi ye , e inge dɛi waaru ɔn sɔɔ tiyɛ jugɔɔlɛi wɔi ma ? »
+42012057	inge dɛi		« E inge dɛi kuu ebe le sɔɔ bana teitai kanraun jaan gɔ yɛnɛɛlɛi wɔi ma ?
+42013004	~		Inɛw pɛli gagarasigɛ kuu nɛ Silowe ginrun gabu numaa sugaa bei daabe gɔ , ajubu ebe nɛ , inɛw wogɔbe Jerusalɛmu nɛ inɛw tobɛin gɔbe puu dɛi sigɛ mɔɲu kanranwin ga e wɔi ma ?
+42013007	inge		Kɔɔ waaru le , wo minɛ womɔ walanɛ gɔ le ɔn gin ’ sɔi : ‘ Yɛnɛ ! Gaa na ɔn kuu nɛ ii dɛnɛi wiyaa tɛmɛlu mu kanrun anranguju taaniyei . Woi bɛŋɛti . Wo inge sabu dɛi minɛ gɔ nɛ yalu bamai aa gɛlɛ ? ’
+42013015	~		Inɛw Baŋa aŋa womɔ saa gi : « E inɛw aŋa lɛilɛi gɔbe , e tuturu puu , deeliye bai , jandulu ebe ma , naa jiŋu ebe ma , bei dii nɔɔmɔ dɛi pegu bemɛ nɛ pagalaidelei ma ?
+42013018a	inge		Yesu kijɛ gi : « Ama diinɛ gɔ , inge le murin wɔɔ ? 
+42013018b	inge		Mu inge le woi tunwɔn bɛɛdɔn ?
+42013020	inge		Yesu iyaa taanrinyɛn waja daan ɔn gin ’ gi : « Mu Ama diinɛ inge le iyaa tunwɔndɔn ?
+42013025	yago		Waaru gɔ dɔwaai ye , ginrun baŋa gɔ ingelaa ye taan gɔ pinaa ye sɔsɔgɔdo . Kɔɔ waaru le , e bain go wɔnu , taan gɔ tɔgɔnu ɔn gin ’ gɛɛdei : ‘ Emɛ baŋa , taan gɔ emɛ dɛi pinɛlɛ . ’ Ginrun baŋa gɔ sasaado : ‘ Mu e yago goii ma inɔn . ’
+42014005	inɛ aa		Kɔɔ onu nɛ Yesu , inɛw kɔɔ nɛ bɛin gɔbe le ɔn gin ’ gi : « Logoro ebe nɛ , inɛ aa , aini womɔ ma , naa jiŋu womɔ ma , deeliye bai ɛkɔrɔ nɛ ɛliyaa yowaai ye , ɔgu kɛu goonɔlu go kɔɔ nɛ pajado ? »
+42014028	inɛ aai		« Logoro ebe nɛ inɛ aai kanran ginrun diyɛ ujɔ ibɛɛ wɔɔ ye , wo bɔlɔtei gɔ daanaatiyaa ye , ginrun gɔ ujɔ dɔɔnu bɛɛidolo kakanrando ma giye , wogɔ ujɔ dɔɔnɔɲu kɛɛlɛ yasɛ ma , inɛ dɛinyaan ye ajubaidolo gɔ yɔɔ ma ? Kɔɔi laa ye , bɔlɔtei gɔ wo daanaajɛ onu nɛ , wo dɔɔnaa bɛɛlu ye , inɛw woi iyeidɛin puu woi mɔmɔmɔdɛin .
+42014031	~		« Maa , iyaa ɔgɔnɛ turu ɔgɔnɛ waja le kɔmɔ tai ibɛɛ wɔɔ ye , inɛw muɲu pɛlu le , inɛw muɲu pɛɛlɛi kuu nɛ gɔnrɔn bɛbɛɛdo ma , ɔgɔnɛ dɛinyaan ye badu badaidolo gɔ yɔɔ ma ?
+42014034	yani		« Narain , nɛu kai kijɛ ɛjui . Kaa , nɛu ɛɛlu womɔ manaai ye , wo bɛrɛ ɛɛlu gɔ yani pilemɛ ye obu bɛɛmɔdo ?
+42015004	inɛ aa		« Inɛ aa , logoro ebe nɛ peju suŋu sɛnu , turu manaai ye , peju pɛtuwɔ tuwɔsigɛ gɔbe olu nɛ pajaatiyaa ye , turu manaai gɔi wo iyeido baa , dɛnɛnu biyɛidolo ma ?
+42015008	~		« Iyaa kɔɔ gin ’ , yaanran aa , sarudu kɛɛlɛ pɛlu sɛnu , koturu manaai ye , lanpa tanugaa ye , ginrun kɔlɔ gɔ sɛmaa ye , kɛɛlɛ gɔ wo iyeido baa , ɛjii dɛnɛlu kanrando ?
+42015026	ingei		Wo birɛbirɛnw gɔbe logoro nɛ turui boonaa , sɔɔ kɔɔ tiyɛ ingei ma selumaabe .
+42015029	~		Kaa wo ba le ɔn gin ’ sai : ‘ Yɛnɛ , mu anranguju joo u le birɛ birɛuwɔn , iyaa bai turu kanran sɔɔ uwɔ yabalu kanrantɛlun . Kaa maa mu anrungebe le kinɛ ɛɛliyɛmɔ ga , halu ɛnrɛn ii turu kanran mui obotɛlu .
+42016002	inge		Arusɛgɛ kajubanɛ gɔi boonaa , ɔgɔinɛ gɔ wo le kijɛ gi : ‘ U dɛi sɔɔ mu ɛgɛjɛ gɔ inge sɔɔi ma ? Aiwa ! Mu birɛ ma nɛ ui goonaatun . Kɔɔ sabu dɛi u yaa ye , kɛɛlɛ ma lugi gɔ puu dɔn nɛ tɔŋaa ye jɛɛlɛ . ’
+42016003	inge		Kɔɔ waaru le , arusɛgɛ kajubanɛ gɔ ajubaa yɛnaa , kinɛ womɔ nɛ kijɛ gi : ‘ Mu nɛɛ inge kanrandɔn ? Sabu mu baŋa arusɛgɛ kajubu womɔ birɛ gɔ nɛ mui gogoonɔdo gi . Mu wolu walu birɛ gɔnrɔindolɔn . Iyaa , gɛɛn gɛɛn ga , mu bɛrɛ wogɔ dɔgɔi .
+42016005	aŋa		Kɔɔ gin ’ arusɛgɛ kajubanɛ gɔ , wo baŋa yoru inɛw tobɛin gɔbe puu tuturu boonaa jɛɛlaa , pɔlɔ baŋa bɛrɛ ɔn gin ’ gi : ‘ U mu baŋa yoru aŋa baa sɛu ? ’
+42016007	aŋa		Kɔɔ onu nɛ inɛ waja le sɔwaa gi : ‘ U yaa yoru aŋa baa sɛu ? ’ Kɔɔbaŋa saa gi : ‘ Alukama bɔɔri suŋu . ’ Ainɛ arusɛgɛ kajubanɛ gɔ saa gi : ‘ Yoru uwɔ dɔn unwɔ : U pilemɛ ye bɔɔri pɛgagara sɛu tɔŋɔ . ’
+42016011	inɛ aa		E aduna ɔn arusɛgɛ gɔbe sibɛ go sɔɔ turu bɛɛnwin biyɛli ye , inɛ aa arusɛgɛ tɔitɔi gɔbe sagu e bɛrɛ gawarado ma ?
+42016012	inɛ aa		E inɛ waja arusɛgɛ dɛi sɔɔ turu bɛɛnwin biyɛli ye , arusɛgɛ ebei biyɛ ga aa e bɛrɛ obodo ma ?
+42017007	~		« Kɔɔ gin ’ , logoro ebe nɛ inɛ turu , birɛbirɛnɛ woluwalanɛ ma , bɛlugirɛnɛ yasɛ ye , birɛbirɛnɛ gɔ olu gowaa wiyaai ye , womaa wɛɛ maini dɛinyɛn , jaa kaya gɛgɛɛdo ma ?
+42017017	yago		Yesu , kɔɔ waaru le saa gi : « Inɛw pɛlu gɔbe puu bajugamɔnɛ ma ? Nɛɛ , inɛw tuwɔ gɔbe , be yago wɔin ?
+42017018	~		Ainɛ yerunɛ ɔin laa ye , inɛ waja wiyaa Amai birɛpoo tagu wɔlɔ ma ? »
+42017020	waaru inge le		Parisiɛnbe , Yesu bɛrɛ selumaa , womaa Ama diinɛ gɔ aduna nɛ waaru inge le wɛɛdo ma gin . Yesu aŋa bemɛ saa gi : « Ama diinɛ wɛi gɔ , sɛɛrɛ giri le iyemɔjɛ le biyɛidolo .
+42017037	yagɔ		Jaŋu unrunw gɔbe , Yesu le kijɛ be gi : « Wogɔ yalu yagɔ nɛ biyɛdo ma , Inɛw Baŋa ? » Kaa wo aŋa bemɛ saa gi : « Yalu inge nɛi kanran , kijɛ yiun yadiin ye , waajibi dubɔbe kɔɔ nɛ mɔmɔrinyɛndɛin . »
+42018018	kijɛ inge		Kɔɔ onu nɛ Yahutunw inɛ giru too turu Yesu bɛrɛ selumaa gi : « Jaŋudeerenɛ , u inɛ ɛju gɔ , ɔnmɔsɔgɔ bɛɛ ga , kijɛ inge mu kanraun jaan ma ? »
+42018019	inge dɛi		Yesu aŋa womɔ saa gi : « Inge dɛi maa inɛ ɛjui gɛɛjɛu ? Amai laa ye , inɛ ɛju wɔlɔ .
+42018026	inɛ aai		Inɛw sɔɔ gɔ keŋiyɛnw gɔbe saa gin : « Kɔɔ gin ’ wɔɔ biyaa ye nɛɛ , inɛ yabu bɛɛmɔido gɔ aai ? »
+42018036	ingei		Mɔɔnu gɔ galau wo wɔu ɛgaa , wo inɛw bɛrɛ wogɔ ingei ma selumaabe .
+42018041	ingei		« Maa u dɛi kijɛ kanran ga u ibɛ gɔ ingei ? » Ainɛ gɔ saa : « Mu Baŋa , pilemu ye , giri mu iyemɔ . »
+42019007	~		Inɛw kijɛ kɔɔ waaru be iye le , guguun gunwaan kijɛ be gi : « Wo ainɛ hakɛ kanrannɛ ginrun nɛ sugaa wɔɔ . »
+42019023	inge dɛi		U inge dɛi kange buudu ma kɛɛlɛ tɔŋutɔŋɔw numɔ nɛ kunɔlu kanrun ma ? Kunrin waaru pilemaa mu wiyaa le , buudu gɔ tinɛ womɔ le yayababɔn . ’
+42019031	inge dɛi		Inɛ turu e bɛrɛ selumaa , ebaa inge dɛi jandulu gɔi kɔmɔlɔjɛi ma giyaajɛ ye , e Inɛw Baŋa kai yasɛ gɛɛi . »
+42019033	inge dɛi		Jandulu borogo gɔ kɔmɔlɔu be wɔu , jandulu bɛɛnw gɔbe bemaa inge dɛi jandulu borogo kɔɔi kɔmɔlɔuwɔin ma selumi .
+42020002a	Kijɛ inge		wo bɛrɛ ɔn gin ’ sɔin : « Kijɛ inge uwɔ dɛi u kijɛ ɔnbe kanraunwɔu ? 
+42020002b	inɛ aa		Inɛ aa u bɛrɛ gɔnrɔn obaa , uwaa kijɛ ɔnbe kanran gi ma emɛ bɛrɛ taga . »
+42020005a	~		Yesu kɔɔ gin ’ bei selumaa wo kanran , be tunmɔ le sɔwaa ɔn gin ’ gɛɛbɛin : 
+42020005b	inge dɛi		« Emɛ Ama woi tii giyaaɲu ye , wo emaa inge dɛi sɔɔ womɔ le gawanɛ kanrin ma gɛɛdo .
+42020013	yani		Kɔɔ onu nɛ sadiŋɛ baŋa gɔ gi : ‘ Mu nɛɛ yani kanrandɔn ma ? Mu aini ibɛ ma gɔi titiidɔn . Ajubu ma nɛ , be woi kai bababadɛin . ’
+42020015	inge		Be kɔɔ gin ’ aini gɔi sadiŋɛ gɔ nɛ biɲaa goonaa daabɛin . « Nɛɛ , sadiŋɛ baŋa gɔ wo be bɛrɛ inge kanrando ?
+42020017	ingei		Kaa , Yesu bei yɛnaa be le ɔn gin ’ gi : « Kɔɔi biyaa ye , Ama Dɔn nɛ sɔɔ tɔŋaaɲu ɔn tiyɛ gɔ ingei ? “ Ginrun ujɔnw tibu kamaa pajin gɔ , tibu wogɔ , ginrun sibɛ tibu gɔ woi bii . ”
+42020023	~		Kaa Yesu , ajubu mɔɲu bemɛ jugaabe gɔ digɛu , be le kijɛ wo gi :
+42020024a	aa mɔi		« E sarudu buudu turu mu bɛrɛ jɛɛlu yɛnɛmɔi . Buudu gɔ nɛ , kuu yegeraa too gɔ lee , boi tɔŋaa wɔɔ gɔ lee aa mɔi ? » Inɛw gɔbe saa , Rɔmɛ ɔgɔnɛ diyɛ mɔi gin .
+42020024b	~		
+42020033	aa mɔi		Nɛɛ , anranw sɔi gɔ puu yaanran gɔi jeɲaabɛin gɔ digɛu , yiun bulogu bai gɔ le , yaanran gɔ aa mɔi biyɛdo ? »
+42020041	yani		Yesu be le kijɛ gi : « Ama Yabanɛ Diyɛ tii gɔ , yani inɛw woi Dawide tiruwɛnɛi gɛɛuwɔin ma ?
+42020044	yani		Kɔɔ gin ’ Dawide , Ama Yabanɛ Diyɛ tii gɔ Inɛw Baŋai gi . Nɛɛ , Inɛw Baŋa womɔ wo tiruwɛnɛi yani bii bɛɛjɛ ? »
+42021007a	waaru inge le		Kaa be wo bɛrɛ selumaa gin : « Jaŋudeerenɛ , sɔɔ kanɛ u sɔi gɔ waaru inge le biyɛdo ? 
+42021007b	inge		Iyaa waaru gɔ dɔwaai ga , sɛɛrɛ inge le jugɔmɔdo ? »
+42022009	yagɔ		Be Yesu aŋa saa gin : « U emaa wogɔ yalu yagɔ nɛ yegere ga wɔu ? »
+42022011	yago		Ginrun baŋa gɔ le ɔn gin ’ gɛɛi : ‘ Jaŋudeerenɛ emɛ uwaa , unrun , jaŋu unrunw unrunmɔ le Taŋagalu pana deun nɛ unrunbe kayaido gɔ yago wɔɔ ma gi . ’
+42022027	aai		Sabu inɛ dɛinyaan jaa kayau wɔɔ lee , inɛ jaa jeɲu jɛɛlɛnɛ gɔ lee , be lɛi logoro nɛ kuu baŋa gɔ aai ? Inɛ jaa kayau daan gɔi laa ma ? Kaa , mu logoro ebe nɛ inɛ jaa jeɲu jɛɛlɛnɛ gɔ gin ’ wɔun .
+42022046	inge dɛi		Yesu be le kijɛ gi : « E inge dɛi giri yeiyeuwɔi ma ? Ebaa subɔrɔ waaru le numɔnɔu ga , ingele ye Ama gɛɛin . »
+42022064	inɛ aa		Be girupala womɔ sɔi le kɔmaatiyaa ye , woi selumaa ye , ɔn gin ’ gɛɛubɛin : « Inɛ aa ui lagu ma jugɔ bɛɛ ! »
+42022071	~		Kɔɔ gin ’ be saa gin : « Nɛɛ kai , sɛɛrɛ dɛnɛnu doori . Emɛ kuu emɛ le aŋa sɛɛrɛ womɔ gɔ ɛgaabɛin . »
+42023022a	~		Kubɔ taaniye gɔ , Pilate be bɛrɛ selumaa gi : « Kɔɔi ye , 
+42023022b	ingei		inɛ ɔn mɔɲu ingei kanrun ma ? Mu kijɛ yiun wo le dagaa turu kanran wo nɛ iyelun . Kɔɔi biyaa ye , waaru woi bɔɔniyɛn le lagamaa mu tiyaajɛ onu nɛ , mu woi paja ye yayaamɔdɔn . »
+42023031	yani		Sabu tinrun ɔru bɛrɛ kijɛ kɔɔbe kanraunwɔin ye , tinrun maa bɛrɛ yani bibiyɛdo ma ? »
+42024005	inge dɛi		Yaanw gɔbe liyaa yaa , girupala bemɛ minɛ nɛ dujaa be wɔu , anranw gɔbe be le kijɛ be gi : « E inge dɛi inɛ ɔnmɔi wɔɔ gɔ inɛw yiunbe logoro nɛ dɛnɛuwɔi ma ?
+42024017	inge		Wo be le kijɛ wo gi : « E tunmɔ le inge sɔɔ sɔɔu yaauwɔi ma ? » Kɔɔ waaru le be kinɛ jinwɛnmaa , iŋiyaanbɛin .
+42024019	inge		Sɔɔ inge tɔgui ma Yesu selumaabe . Be saa gin : « Yesu Nasarɛtu bɛɛnnɛ gɔ bɛrɛ sɔɔ dɔi gɔi . Wo inɛ Ama titiyainɛ diyɛi bee : Wo wogɔ , birɛ womɔ nɛ lee , sɔɔ womɔ nɛ lee , Ama lee , inɛw lee giru nɛ tagaraabe .
+42024025	~		Kɔɔ waaru le , Yesu be le kijɛ gi : « E inɛw hakilɛ sɛnɛbei . Iyaa inɛw Ama titiyaanw sɔɔ sɔin gɔbe puu le yaa gawa ga kinɛ ebe ɔgiri yabaalɛ .
+42024038a	~		Kaa Yesu be le ɔn gin ’ sɔi : 
+42024038b	inge dɛi		« E inge dɛi kikinu manu lee , kinɛ lɛilɛi lee le jowaa wɔi ma ?
+43001019	aai		Jerusalɛmu ana nɛ gowaa , Yahutunw , Jan Batise bɛrɛ inɛ tiyaa , woi aai ma selumɛ gin . Be , Ama bɛrɛ sadagadɔɔnɔw lee , Ama Ginrun Diyɛ birɛbirɛnw lee tiyaabɛin . Inɛw kɔɔbe be wiyaa , Jan sɛɛrɛ gowaa , baŋaranlu go , daii sɔi : « Ama Yabanɛ Diyɛ tii gɔ mui laa . »
+43001021	~		Kɔɔ gin ’ wo sɔwaa , inɛw gɔbe kɔɔi ye , woi aai ma gin . « Ui Elii ma ? » Jan saa , ai woi laa gi . « Kɔɔi ye inɛ Ama titiyainɛ wɛwɛɛjɛ gin gɔi ma ? » Jan saa ai gi .
+43001022a	aai		« Kɔɔi ye , ui aai ? Inɛw emi tiin gɔbe bɛrɛ emɛ aŋasaara obu ibɛɛ wɔin . 
+43001022b	aai		U kuu uwɔ le ui aai gɛɛjɛu ? »
+43001025	inge dɛi		Jan kɔɔ gin ’ wo saa , be womaa , woi Ama Yabanɛ Diyɛ tii gɔi laa , Elii laa , inɛ Ama titiyainɛ gin gɔi laa biyaai ye , inge dɛi batise kanranjɛ ma selumi .
+43001038a	ingei		Yesu , onu kigelemaa , be woi dimi ga iyaa , kijɛ wo gi : « E ingei dɛnɛjɛi ? » Be saa , 
+43001038b	yago		« Rabi , u yago wɔu ma » gin . Rabi , tiyɛ gɔ jaŋudeerenɛ .
+43001046	~		Pilipe kɔɔ gin ’ wo sɔwaa , Natanayɛlu ɔn gin ’ wo le sɔi : « Kijɛ ɛju Nasarɛtu ana nɛ goo bɛbɛɛjɛ ma ? » Pilipe saa , wɛɛ yɛnɛ gi .
+43001048	yago		Yesu kɔɔ gin ’ wo sɔwaa , Natanayɛlu ɔn gin ’ wo bɛrɛ selumu : « U yago mui jugu ? » Yesu aŋa womɔ saa kijɛ gi : « Pilipe ui wo boonɔmɔ nɛ , gaa na doɲu nɛ waaru u tobe le , mu ui iyaabɔn . »
+43002004	~		Yesu aŋa womɔ saa kijɛ gi : « Mu na , kijɛ mu kanraun jaan , mu bɛrɛ u tagajɛ ma ? Waaru ma nimɛ kanran dɔɔlu . »
+43002018a	~		Nɛɛ Yahutunw inɛw giru toin gɔbe , Yesu kijɛ kanrun gɔ dɛi wo bɛrɛ ɔn gin ’ selumi : 
+43002018b	inge		« Kijɛ u kanrun kɔɔ kanranɲu gɔnrɔn yasɛu ga , u taanrinyɛn inge le emɛ bɛrɛ jugɔmɔdou ? »
+43003004	yani		Nikodɛmu wo le kijɛ gi : « Inɛ pɛyaai ye , yani woi pilemu ye narandɛin ? Wo na bɛrɛ nɛ pilemu yoi ye woi narandɛin ma ? »
+43003009	yani		Nikodɛmu iyaa ɔn gin ’ selumu : « Kɔɔ yani kanrinyɛnjɛ ? »
+43003012	yani		Aduna ɔn kijɛ sɔɔ e bɛrɛ mu sɔwaa , e gawaa bɛɛli . Nɛɛ , alagala kijɛ sɔɔ e bɛrɛ mu sɔi ye , e yani gawa bɛɛdei ?
+43004009	yani		Nɛɛ , Yesu kɔɔ gin ’ dii wo selumaa , Samari yaanran gɔ ɔn gin ’ wo le sai : « U Yahutunw tɔgu inɛ gɔ , mu Samari bɛɛnnɛ gɔ bɛrɛ yani dii obu nɔɔmɔ gɛɛjɛu ? » Yahutunw tɔgu gɔbe , Samari bɛɛnw le mɔrin ye kijɛ turu kanran kanranbenɛ digɛu , yaanran gɔ wogɔ dɛi kɔɔ gin ’ sɔi .
+43004011	yago		Yesu kɔɔ gin ’ wo sɔwaa , yaanran gɔ kijɛ gi : « Mu baŋa , ɛkɔrɔ gɔ tooi wɔɔ , u kijɛ dii kɔbu sɛlɛu . Nɛɛ , dii ɔnmɔ u gɛɛjɛ gɔ , u yago bɛɛdou ?
+43004027a	ingei		Kɔɔ waaru le tee , jaŋu unrunw womɔ gɔbe wiyaa dɔwaabɛin . Yesu , yaanran le sɔɔ sɔɔuwɔ ga iyaa , bei maunɛ kanraanbe . Kaa inɛ turu kanran womaa ingei dɛnɛjɛ ma , 
+43004027b	inge dɛi		inge dɛi wo le sɔɔ sɔɔjɛ ma selumɛ ga daariyɛlu .
+43005012	aai		Be wo bɛrɛ selumaa pɛnrɛnpanran uwɔ jeɲɛ ye yaa u bɛrɛ gɛɛnɛ gɔ aai ma gin .
+43005044	yani		Nɛɛ kɔɔ gin ’ wɔɔ biyaai ye , e tunmɔ sɔmui dɛnɛjɛi . Ama turu gɔ bɛrɛ sɔmu goojɛ gɔ , e wogɔ ibɛlai . Nɛɛ yani kanrun ye e mu le gawa bɛɛdei ?
+43005047	yani		Kaa Mɔise sɔɔ tɔŋu gɔ le gawali ye , e sɔɔ ma le yani gawadei ? »
+43006005	yago		Tetemɛ kuu nɛ daaun , Yesu kuu jeɲaa , mɔɔnu diyɛ wo bɛrɛ wɛɛu wo wɔu iyaabe . Jaŋu ii womɔ Pilipe gɛɛɲu gɔ le kijɛ wo gi : « Inɛw ɔn puu , pana kayaɲu emɛ yago ɛbɛ bɛɛdɛin ? »
+43006009	inge		« Ii dagi turu ɔn nɛ ɔruje buru numɔrɔn lee , iiju lɛi lee unsɛɛ . Kaa inɛw joo ɔn bɛrɛ kɔɔ inge niwɛin sɛɛ ? »
+43006025	waaru inge le		Kunrin mɔɔnu gɔ dibe sibɛ waja gɔ nɛ Yesui tɛmaa , wo bɛrɛ ɔn gin ’ selumi : « Jaŋudeerenɛ , u waaru inge le ɔn nɛ wɛiu ? »
+43006028	kijɛ inge		Inɛw gɔbe ɔn gin ’ wo bɛrɛ selumi : « Ama , birɛ dɛnɛjɛ birɛ ga , kijɛ inge emɛ kanraun jaan ? »
+43006030a	inge		Be kijɛ be gi : « Emaa u le gawu bɛɛ ga u taanrinyɛn inge emɛ bɛrɛ kanrun tagaradou ? 
+43006030b	yago		Birɛ u birɛjɛ gɔ yago wɔɔ ?
+43006042	yani		Kijɛ be gɛɛbe : « Ɔn Josɛpu ii Yesu , wo ba lee , wo na lee , emɛ jugɔjɛ gɔ woi laa ma ? Unrun alagala gowaa sugu wo yani gɛɛuwɔ ? »
+43006052	yani		Sɔɔ kɔɔ ɛgaa , Yahutunw tunmɔ le ɛjii jiireu , ɔn gin ’ gɛɛbɛin : « Inɛ ɔn , gojunawan womɔ emi yani obu tɛnwɛnmɔdo ? »
+43006060	inɛ aa		Yesu jaŋu unrunw joo sɔɔ kɔɔ keŋiyaan kijɛ be gi : « Sɔɔ ɔn keŋiyɛn ga nanau gabaai . Inɛ aa sɔɔ ɔn le yaba bɛɛjɛ ? »
+43006062	yani		Kɔɔi ye , Inɛ Aini gɔ , yalu wo bee gɔ nɛ pilemaa ulou wo wɔu iyaajɛi ye , e bɛrɛ yani biyɛdo ?
+43006068	inɛ aa		Simɔ Piɛru , aŋa womɔ ɔn gin ’ sai : « Inɛw Baŋa , ɔnmɔsɔgɔ nɛ inɛi sɔɔ jɛyaajɛ gɔ u sɛɛ . Nɛɛ emɛ inɛ aa bɛrɛ yaadɛin ?
+43007011	yago		Yahutunw inɛw giru toin yaa janwan gɔ nɛ woi dɛnɛubɛin . Kijɛ be gɛɛbe : « Wo yago wɔɔ ? »
+43007015	yani		Deeru womɔ gɔ Yahutunwin maunɛ kanranmaabe . Kijɛ be gɛɛbe : « Wo jaŋu jaŋalu . Nɛɛ , Ama Dɔn ɔn gin ’ yani jugɔjɛ ? »
+43007019	inge dɛi		Mɔise e bɛrɛ Tɔɔru obolu ma ? Kaa e wooi logoro nɛ , inɛ tɔɔru gɛlɛ turu kanran wɔlɔ . Inge dɛi e mui daadei ga bana dɛnɛuwɔi ? »
+43007020	Inɛ aa		Mɔɔnu gɔ wo le ɔn gin ’ sai : « Kuu uwɔ nɛ jinruin daan . Inɛ aa ui daado ga dɛnɛuwɔ ? »
+43007023	ingei		Deeliye bai le inɛ araa nɔɔmaa giye , Mɔise tɔɔru gɔ yanwaanlɛ . Nɛɛ kɔɔi ye inɛ sɛɛu , deeliye bai le mu bajugu gɔ dɛi , mu le kinɛ banranmaa e wɔɔ gɔ ingei ?
+43007035	yago		Yesu kɔɔ gin ’ wo sɔwaa , Yahutunw tunmɔ le ɔn gin ’ sɔɔbɛin : « Emɛ woi dɛnɛ iyeidenɛ baa , wo yago yaado ? Tɔgu wajabe logoro nɛ Yahutunw ginaa toin gɔbe bɛrɛ yai ye , inɛw Yahutunw tɔgui laain gɔbe bɛrɛ deeru womɔ obodo ma ?
+43007036	ingei		Emaa unruin dɛnɛ iyeidenɛ , iyaa yalu unrun biyɛido gɔ nɛ wɛɛ bɛɛidenɛ wo gɛɛjɛ gɔ , tiyɛ gɔ ingei ? »
+43007041	~		Inɛw wajabe kijɛ gɛɛbe : « Ɔn Ama Yabanɛ Diyɛ tii gɔ woi . » Kaa inɛw gamuu iyaa , ɔn gin ’ sɔɔubɛin : « Ama Yabanɛ Diyɛ tiido gɔ , naran go Galile gana nɛ goi ye wɛɛdo ma ?
+43007045	inge dɛi		Yesui aa ga garidu tiin gɔbe , Ama bɛrɛ sadagadɔɔnɔw kuu bɛɛnw gɔbe lee , Parisiɛn gɔbe lee bɛrɛ pilemaa be wiyaa , inɛw kɔɔbe be le ɔn gin ’ sɔin : « E inge dɛi woi aa jɛɛlɛli kanrin ? »
+43007048	~		Inɛw giru toin emɛ gɔbe logoro nɛ ma , Parisiɛnbe logoro nɛ ma , inɛ turu wo le gawaabe ma ?
+43007051	~		« Baŋa sɔɔ laa keŋiyɛnlu go , sɔɔ wo kanrun laa jugɔlu go , saliyɛ womɔ kire ye , wo bɛrɛ jarugu duurɔ ga , tɔɔru emɛ yayabajɛ ma ? »
+43008005	inge		Tɔɔru dɔn gɔ nɛ , Mɔise emaa yaanw ɔn tunmɔ , tibu le kama daa gi . Nɛɛ u wo bɛrɛ inge kanran gu ? »
+43008010	yago		Yesu jimɛraan , yaanran gɔ le ɔn gin ’ sɔi : « Ui jaruganw gɔbe yago wɔin ? Kuu uwɔ nɛ inɛ jarugu duuru turu kanran wɔlɔ ma ? »
+43008019	yago		Be saa , womaa wo ba yago wɔɔ ma gin . Yesu saa kijɛ gi : « E mui inin , mu Bai yaa inin . E mui igii bei ye , mu Bai yaa jujugɔbei . »
+43008025a	aai		Be saa : « Ui aai ? » 
+43008025b	~		Yesu saa kijɛ gi : « Tɔlɔ gɔ le baa sɔɔ e bɛrɛ sɔɔu mu gɛlɛ gɔ woi .
+43008033	inge dɛi		Be saa gin : « Emɛ Abarahamu tɔgu nɛ goin . Nɛɛ , emɛ inɛ turu kanran gunɔ yootɛnɛ bai , emaa hɔɔlɔi biyɛdo u gɛɛjɛ gɔ inge dɛi ? »
+43008043	inge dɛi		Sɔɔ mu sɔɔjɛ gɔ paamaalɛ e wɔɔ gɔ inge dɛi ? Kijɛ waja dɛi laa , deeru ma nɛ suguru ɛjii dɛɛru bɛɛlɛi e wɔɔ gɔ dɛi .
+43008046a	aai		Yɛnɛi , maa hakɛ turu kanraanbe ga , logoro ebe nɛ inɛ iŋi bɛɛjɛ gɔ aai ? 
+43008046b	inge dɛi		Aiwa , nɛɛ mu narain sɔɔjɔn ye , mu le gawaalɛ e wɔɔ gɔ inge dɛi ?
+43008053	aai		Kɔɔi ye emɛ ba Abarahamu wo yinwaain laa , u wo dɛi sigɛu ma ? Inɛw Ama titiyaanw gɔbe yaa yinwaain . Kɔɔi ye ui aai ga lugaa sɛu ? »
+43008057	~		Yahutunw gɔbe saa : « U nimɛ kanran inɛ anranguju pɛnumɔrɔn bɛɛlu gɔ , u Abarahamui iyaabeu ma ? »
+43009002	~		Jaŋu unrunw womɔbe , ainɛ wogɔ kuu nɛ selumu selumaa , Yesu le kijɛ be gi : « Jaŋudeerenɛ , ainɛ ɔn abirɛi wo wɔɔ gɔ , woi hakɛ kanrun ma , woi naranwin hakɛ kanrin ? »
+43009010	yani		Inɛw gɔbe wo bɛrɛ selumaa , giri womɔ yani pinulu ma gin .
+43009012	yago		Inɛw gɔbe , inɛ wo gɛɛjɛ gɔ yago wɔɔ ma gin . Wo unrun inɔn gi .
+43009016	yani		Parisiɛn gamuu kijɛ gɛɛbe : « Ainɛ kɔɔ , deeliye bai emɛ taalɛ . Wo Ama bɛrɛ goolu . » Gamuu iyaa ɔn gin ’ gɛɛbɛin : « Inɛ hakɛ kanrannɛ , taanrinyɛn ɔn tunmɔ yani kanrun bɛɛjɛ ? » Kunrin logoro bemɛ nɛ mii kabu yatobe .
+43009017	inge		Pilemaa ainɛ gɔi selumaa kijɛ be gi : « Ainɛ giri uwɔ pinulu gɔ , u sibɛ nɛ woi inɛ inge tɔgui ? » Wo saa , inɛ Ama titiyainɛi gi .
+43009019	yani		Nɛɛ , yani kanraan wo kanɛ giri iyeuwɔ ? »
+43009026a	yani		Be iyaa selumaa kijɛ be gi : « Wo u bɛrɛ yani kanrun ? 
+43009026b	yani		Yani kanraan giri uwɔ pinulu ? »
+43009027	inge		Ainɛ gɔ saa kijɛ gi : « Mu wogɔ e bɛrɛ tagaabɔn . Kaa e mui keŋiyɛnli . Nɛɛ pilemu ɛgɛ ye e inge kanrandei ? Kɔɔi ye e yaa jaŋu unrunw womɔi taŋa ibɛi ma ? »
+43009034	~		Parisiɛn gɔbe wo le kijɛ gin : « Ui narin gowaa , iye wɛɛ dɔɔ , u inɛ hakɛ nɛ muiyaan too gɔ , u emi deeredou ga wɔu ma ? » Be kunrin Yahutunw Ama gɛɛn ginrun gɔ nɛ woi nanaa gooni .
+43009036	inɛ aai		Ainɛ gɔ saa kijɛ gi : « Mu baŋa , maa wo le gawa ga , inɛ wogɔ aai ma , mu bɛrɛ taga . »
+43010020	inge dɛi		Logoro bemɛ nɛ inɛw joo , Yesu dɛi ɔn gin ’ sɔɔubɛin : « Jinrun , kuu womɔ nɛ yadaan . Wo wejeginɛi . E inge dɛi woi keŋiyɛunwɔi ? »
+43010021	~		Gamuu ɔn gin ’ gɛɛbɛin : « Ai , jinrun kuu womɔ nɛ inɛ daan sɔɔ ɔn gin ’ sɔɔlɛ . Jinrun , giruminɛi bajamɔ bɛbɛɛjɛ ma ? »
+43010024	~		Yahutunw woi wiyaa gɔŋaa , ɔn gin ’ wo le sɔin : « Ama Yabanɛ Diyɛ tii gɔ ui ye , emɛ bɛrɛ wogɔ ɛjɛmɔ . Kɔɔi laa ye , kinɛ emɛ yagalajɛ . »
+43010032	yagɔ		Yesu pilemaa be le ɔn gin ’ sɔi : « Mu Ba kɔrumɔ le , mu birɛ ɛju ɛju , e bɛrɛ kanraan tagaraabɔn . Nɛɛ birɛ kɔɔbe nɛ , birɛ yagɔ dɛi mui tibu le kama daadei ga wɔi ? »
+43010036	~		Mu , Ba Ama inɛ yɛmaa dɛiin bojaa , aduna nɛ wo tiyaajɛ gɔ , mui Ama Ainii mu giyaajɛ gɔ dɛi , maa Ama boi yamalajɛ e yingi ma ?
+43011034	yago		Kijɛ wo gi : « E woi yago boji ? » Inɛw gɔbe saa kijɛ be gi : « Inɛw Baŋa , wɛɛ yɛnɛ . »
+43011047	yani		Kunrin Parisiɛn gɔbe lee , Ama bɛrɛ sadagadɔɔnɔw kuu bɛɛnw gɔbe lee , badubadanw diyɛnw gɔbei mɔɔnaa , kijɛ be gi : « Inɛ ɔn taanrinyɛn joo kanraunwɔ . Emɛ yani kanrandɛin ?
+43011056	yani		Inɛw kɔɔbe , Yesui selumɛubɛin . Ama Ginrun Diyɛ gonɔ gɔ nɛ mɔrinyaan wɔu , tunmɔ le kijɛ be gɛɛbe : « E yani ajubauwɔi ? Wo janwan gɔ nɛ wɛɛidolo ma ? »
+43012005	inge dɛi		« Inge dɛi lajukɔrɔ ɔn sarudu buudu suŋu taanu dɔnraan , kɛɛlɛ gɔ naugunw bɛrɛ obonɛ kanrin ? »
+43012027	inge		Yesu iyaa gimaa kijɛ gi : « Kanɛ tee kinɛ ma ɛjii ɔɲaa wɔɔ . Nɛɛ mu inge gɛɛdɔn ? Mu Ba Ama womaa waaru ɔn ɔɲɛ nɛ mui yaba gɛɛdɔn ma ? Ai , mu ɔɲɛ gɔ ɔɲɔ ga wɛiun .
+43012034a	yani		Yesu kɔɔ gin ’ wo sɔwaa , mɔɔnu gɔ aŋa womɔ saa : « Tɔɔru dɔn nɛ bana emɛ ɛgu le kɛukɛu , Ama Yabanɛ Diyɛ tiido gɔ asuu ɔnmɔi biyɛdo gin . Nɛɛ Inɛ Aini gɔi minɛ daa nɛ uhunɔdɛin u yani gɛɛuwɔu ? 
+43012034b	aai		Kɔɔi ye Inɛ Aini gɔ aai ? »
+43012038a	inɛ aa		Kunrin inɛ Ama titiyainɛ Esayi sɔɔ ɔn kibaai : “ Inɛw Baŋa Ama , inɛ aa , sɔɔ emɛ gɔ le gawaabe ma ? 
+43012038b	inɛ aa		Iyaa , Inɛw Baŋa Ama , gɔnrɔn womɔ , inɛ aa bɛrɛ jugɔmu ? ”
+43013025	inɛ aai		Kunrin , jaŋu ii wogɔ Yesu sibɛ nɛ unruin gɛŋɛrɛnmaa , ɔn gin ’ selumu : « Inɛw Baŋa , inɛ aai ? »
+43013036	yago		Yesu kɔɔ gin ’ wo sɔwaa , Simɔ Piɛru ɔn gin ’ wo bɛrɛ selumu : « Inɛw Baŋa , u yago yaajɛu ? » Yesu saa : « Yalu mu yaajɛ gɔ nɛ u kanɛ mui dimi bɛɛidolou . Kaa waja u wogɔ nɛ mui didimiyɛndou . »
+43013037	inge dɛi		Piɛru saa kijɛ gi : « Inɛw Baŋa , inge dɛi kanɛ mu ui dimi bɛɛidolɔn ma ? Mu kinrun ma u giye paja ga yayabadɔn . »
+43014002	~		Mu Ba Ama ginrun nɛ , ginrun joo yɔɔ . Kunrin bele bee ye , mu ei tatagabɔn . Mu e dɛi yalu yegerei yaajɔn .
+43014005	yani		Yesu , kunrin wo sɔwaa , Tɔmasu ɔn gin ’ wo le gi : « Inɛw Baŋa , emɛ yalu u yaajɛ inin . Nɛɛ oju le yaaɲu gɔ yani jugɔdɛin ? »
+43014009	yani		Yesu wo le saa kijɛ gi : « Pilipe , e le biyaa , bana mu tanwaanjɛ ɔn , u nimɛ kanran mui inɛɛu ma ? Yɛnɛ , inɛ aai kanran , mui iyaajɛ ye , Ba Amai iyaajɛ . Nɛɛ , Ba Ama emi tagara yani gɛɛjɛu ?
+43014022	yani		Yesu kunrin wo sɔwaa , Judasu , Judasu Isukariɔtei laa gɔ , wo bɛrɛ ɔn gin ’ selumu : « Inɛw Baŋa , emɛ bɛrɛ ui jujugɔmɔdou , kaa , aduna bɛrɛ ui jugɔmɔidolou gɔ , kɔɔ yani wɔɔ ? »
+43016005	yago		Kaa kanɛ mu , mui tiinɛ bɛrɛ yaajɔn . Kaa ‘ U yago yaajɛu ma ’ inɛ selumɛjɛ e logoro nɛ wɔlɔ .
+43016017	ingei		Yesu kunrin wo sɔwaa , jaŋu unrunw gamuu tunmɔ le ɔn gin ’ gɛɛbɛin : « Emɛ bɛrɛ , sɔɔ wo sɔɔjɛ tiyɛ gɔ ingei ? Gaila kanraan ye e mui iyeidelei gi , iyaa gaila kanraan ye e mui ihiyedei gi . Iyaa unrun Ba bɛrɛ yaajɔn dɛi gi .
+43016018	inge		Gaila kanraan ye wo gɛɛjɛ gɔ , sɔɔ ingei ? Wo inge sɔɔi sɔɔjɛ ma emɛ inin . »
+43018004	aai		Yesu , unrun bɛrɛ sɔɔ dɔɔido igii bee dɛi , genɛ bemɛ nɛ yadɔwaa , ɔn gin ’ be le sɔi : « E aai dɛnɛuwɔi ? »
+43018007	aai		Yesu pilemaa be bɛrɛ selumaa , bemaa aai dɛnɛɲu ma gi . Be saa , Nasarɛtu bɛɛnnɛ Yesui gin .
+43018011	~		Yesu , Piɛru le kijɛ gi : « Polu uwɔ kɔgɔ womɔ nɛ kunɔ . Ajubu uwɔ nɛ , mu Ba Ama , maa ɔɲɛ iye ga wo bojaajɛ gɔ , mu ɔɲɔu jaanla ma ? »
+43018021	inge dɛi		Nɛɛ inge dɛi mui selumɛjɛu ? Inɛw mui keŋii gɔbe bɛrɛ , mu inge sɔɔi sɔiun ma selumɛ yɛnɛ . Be kai sɔɔ mu sɔi igii wɔin . »
+43018023	inge dɛi		Yesu , garidu gɔ aŋa saa kijɛ gi : « Mu sɔɔ dagiyɛlu sɔwaabɔn ye , yalu dagiyɛlu gɔ taga yɛnɛmɔ . Nɛɛ sɔɔ ma narain ye , inge dɛi mui lagajɛu ? »
+43018029	ingei		Kunrin Pilate , sɛmɛginɛ gɔ , wo gowaa , be bɛrɛ selumaabe : « E ainɛ ɔn dɛi jarugu ingei sɛi ? »
+43018035	ingei		Pilate aŋa womɔ ɔn gin ’ sai : « Mui Yahutunɛi ga sɛu ma ? Tɔgu uwɔ lee , Ama bɛrɛ sadagadɔɔnɔw kuu bɛɛnw lee , numɔ ma nɛ ui be kunu . Aiwa , kijɛ u kanrun gɔ ingei ? »
+43018038	ingei		Pilate sɔwaa gi : « Naran gɔ ingei ? » Kɔɔ gin ’ sɔwaatiyaa , Pilate pilemaa bain go Yahutunw inɛw gɔbe bɛrɛ yaa kijɛ wo gi : « Mu kai ainɛ ɔn kuu nɛ kijɛ dɛi jarugu duurɔɲu iyelun .
+43019009	yago		Wo pilemaa ginrun nɛ yowaa , Yesu bɛrɛ ɔn gin ’ selumu : « U yago bɛɛnnɛi ? » Yesu aŋa womɔ saalu .
+43019015	~		Kaa inɛw gɔbe ɔn gin ’ gɛɛbɛin : « Woi daa , woi daa , baga nɛ woi pɛgɛ ye daa ! » Pilate be le sɔwaa kijɛ gi : « Ɔgɔnɛ ebe gɔi baga nɛ pɛgɛ ye daa ma ? » Ama bɛrɛ sadagadɔɔnɔw kuu bɛɛnw gɔbe saa gin : « Rɔmɛ ɔgɔnɛ diyɛi laa ye , emɛ ɔgɔnɛ waja sɛnɛ . »
+43020013	inge dɛi		Mɛlɛnkɛ kɔɔbe Mari le kijɛ be gi : « Yaanran , u inge dɛi pii piijɛu ? » Mari saa , Inɛw Baŋa unrunmɔi goonaaɲu , woi yago kuni ma inɔn dɛi gi .
+43020015a	inge dɛi		Yesu wo le kijɛ gi : « Emɛ saa , u inge dɛi pii piijɛu ? 
+43020015b	aai		U aai dɛnɛuwɔu ? » Mari , sadiŋɛ birɛbirɛnɛ gɔi unrun le sɔɔ sɔɔjɛ ga ajubaa , ɔn gin ’ sai : « Mu baŋa , woi u jeɲu ye , yalu woi u kunu mui taga . Mu woi jejeɲɛdɔn . »
+43021012	aai		Yesu be le sɔwaa , kijɛ gi : « Wɛɛ pana kayai . » Jaŋu unrunw gɔ logoro nɛ inɛ turu kanran woi aai ma wo bɛrɛ selumɛ ga daariyɛlu . Inɛw Baŋa woi ga , be puu igii bɛin .
+43021020	aai		Piɛru onu gɔnaa yɛnaa , Yesu , jaŋu ii wo ibɛ gɔ , onu bemɛ nɛ wo dimɛu iyaabe . Digɛ pana kayau , Yesu sibɛ go gɛŋiyaan , numɔ nɛ inɛ woi kunɔido gɔ aai ma , selumɛnɛ gɔ woi .
+43021021	kijɛ inge		Piɛru , jaŋu ii kɔɔi iyaa , Yesu le ɔn gin ’ sɔi : « Inɛw Baŋa , inɛ ɔn dɛi yani biyɛdo ? Wo bɛrɛ kijɛ inge dɔɔdo ? »
+43021022	ingei		Yesu saa kijɛ gi : « Pilemu ye mu wɛɛido baa , womaa ɔnmɔi biyɛ ga wɔun kanran , u le ingei digɛ ? U kai , mui yadimiyɛn . »
+43021023	ingei		Kɔɔ gin ’ Yesu wo sɔi gɔ digɛu , jaŋu ii kɔɔ yinwɛindolo ga , ba unrunw logoro nɛ ginaa bee . Kaa Yesu , Piɛru womaa jaŋu ii kɔɔ yinwɛindolo gɛɛlu . Kijɛ wo gi : « Pilemu ye mu wɛɛido baa , womaa ɔnmɔi biyɛ ga wɔun kanran , u le ingei digɛ ? »
+44001011	ingei		kijɛ be gi : « Galile gana bɛɛnw , ɔn nɛ iŋiyaan alagala go yɛnɛu e wɔɔ gɔ ingei ? Yesu , logoro ebe nɛ jeɲaa alagala go uni gɔ , bana alagala yaau wo wɔu e iyi gin ’ tee , pilemɛ ye yinwɛɛdo . »
+44002008	yani		Emɛ tuturu puu , emɛ ba ginrun sɔɔ aŋa bemɛ nɛ yani ɛgɛuwɔin ?
+44002012	ingei		Be puu bɛrɛ saii maunɛ kanraan , be sɔɔ ajubaɲu inin bɛin . Tunmɔ le sɔɔu , kijɛ be gɛɛbe : « Kijɛ ɔn tiyɛ gɔ ingei ? »
+44002037	inge		Piɛru sɔɔ gɔ kinɛ bemɛ ɛjii jigemaabe . Kɔɔ sabu dɛi waaru sɔɔ womɔ kilu le , be Piɛru lee Yesu jaŋu unrunw tiyaaɲu wajunw gɔbe lee bɛrɛ kijɛ be gi : « Ba unrunw , emɛ inge kanraun jaan ? »
+44003012a	inge dɛi		Piɛru wogɔ iyaa , inɛw gɔ le kijɛ wo gi : « Mu ba unrunw Isɛrɛlu bɛɛnw , inge dɛi sɔɔ ɔn e bɛrɛ maunɛ biyaa wɔɔ ? 
+44003012b	ingei		Ainɛ gɔi kuu emɛ gɔnrɔn le ma , Ama giru liyɛ emɛ le ma woi yoi emɛ yaamu gin ’ , emɛ nɛ giri dɛɛraa e wɔɔ gɔ ingei ?
+44004007a	~		Be Piɛru lee Jan leei logoro bemɛ nɛ iŋiyɛnmaa , bei selumaa , kijɛ be gi : 
+44004007b	inge		« Ainɛ gɔi e bajumu gɔ , gɔnrɔn inge le e wogɔ kanraanbei ? 
+44004007c	aa		Maa , aa boi le kanraanbei ? »
+44004016	inge		kijɛ be gi : « Emɛ anranw ɔnbe bɛrɛ inge kanrandɛin ? Yɛnɛi , numɔ bemɛ le digɛu taanrinyɛn diyɛ biyaai ga , Jerusalɛmu inɛw puu bɛrɛ jɛnrɛin wɔɔ . Emɛ wogɔ kɔri gɛɛ bɛɛidenɛ .
+44004025a	inge dɛi		Kikinu Pilu gɔnrɔn le , birɛbirɛnɛ uwɔ , emɛ ba Dawide bɛrɛ sɔɔmaa , ɔn gin ’ u sɔi : “ Inge dɛi tɔgu wajunw gɔbe kinɛ banranmaa ingelaa wɔin ? 
+44004025b	inge dɛi		Inge dɛi be aaru tiyɛ sɛlɛ tunmɔ le aaraa wɔin ?
+44005003	yani		Kɔɔ gin ’ wo kanraan , Piɛru kijɛ gi : « Ananiasu , yani Setanu u le yowaa , u bɛrɛ minɛ uwɔ dɔnrun gamamaa , Kikinu Pilu le baa , ɔn gin ’ kakalu maŋamɔuwɔ ?
+44005004	yani		Minɛ gɔ waaru dɔnrɔnlu u bee le uwɔi bele ma ? Iyaa minɛ gɔ dɔnraan , buudu u bɛi gɔ le kijɛ u dɛnɛjɛ kanrun bɛɛbeleu ma ? Nɛɛ , kɔɔi biyaai ye , birɛ mɔɲu u biru ajubu gɔ , kinɛ uwɔ nɛ yani yoi ? Yɛnɛ , u inɛ bɛrɛ kakalu maŋalu . Kaa Ama bɛrɛ maŋu . »
+44005009	yani		Kɔɔ waaru le Piɛru saa : « U lee u igɛ lee , e lɛi aaraa , yani Inɛw Baŋa Kikinu gɔi subɔraa yɛnɛuwɔi ? Yɛnɛ , u igɛ yiun bojonw gɔbe murɔn aŋa nɛ kowɛɛɲu . Be ui yaa duiyi ye yayaadɛin . »
+44007026	inge dɛi		Bai wogɔ aga baa yaa gɔ , Isɛrɛlu unrunw lɛi tunmɔ le jaiyɛu be wɔu Mɔise sɛgɛraabe . Wo be lɛi aŋurun ye , bemaa jamu le biyɛ ga dɛnaabe . Wo gi : ‘ Yɛnɛi , e lɛi ba unrunwin . E inge dɛi tunmɔi ɔɲɔmɔuwɔi ? ’
+44007027	aa		Inɛ wo bainɛi ɔɲɔmɔu bee gɔ , woi damaa , wo le kijɛ gi : ‘ Kuu emɛ nɛ ui aa daanu ? Maa ui saliyɛkirenɛ emɛi ga aa gi ?
+44007035	Aa		« Mɔise le yabalu be kanrun gɔ , inɛ bɛrɛ sɔwaa , ‘ Aa ui kuu emɛ nɛ daanu , aa ui saliyɛkirenɛ emɛi boju ’ be gɛɛbe gɔ , Ama iyaa Mɔise wogɔ tee kuu bemɛ baŋai ga tii . Mɛlɛnkɛ uriye logoro nɛ unruin taguru gɔ , woi baraa ye bei yaba ga tii .
+44007049a	inge		“ Alagala , ɔgɔdɔin mai . Minɛ , kubɔ duunu mai . Nɛɛ mu dɛi e ginrun inge tɔgu ujɔdei ? 
+44007049b	yago		Yalu nɛ wɛi ye mu deeliyeido , yago yeguru bɛɛmɔjɛ ? Kijɛ kɔɔbe puu mu maŋalu ma ? Inɛw Baŋa Ama kunrin sɔi . ”
+44007052	yagɔi		E babe , inɛ Ama titiyainɛ tɔɔɲɔlu be kanrun gɔ yagɔi ? Iyaa , Teitai Baŋa gɔ wɛwɛɛdo ga , inɛw Ama titiyaanw gin gɔbe puu e babe bei daatin . E yaa kanɛ Teitai Baŋa wogɔi jamaa daati .
+44008031	yani		Ainɛ gɔ saa : « Inɛ mu bɛrɛ tiyɛ gɔ tagajɛ wɔlɔ ye , mu yani paamu kanrun bɛɛdɔn ? » Kunrin sɔwaatiyaa , wo Pilipei gɛnyaan , womaa wogotoro gɔ nɛ wɛɛ yoo dɛinyɛn gi .
+44008033	aai		Wo bɛrɛ dɔgɔ tagaraabɛin . Naran wo bɛrɛ obo ga yabanɛ . Aduna nɛ woi daabɛin . Nɛɛ , tɔgu womɔ sɔɔ , inɛ sɔɔ bɛɛido gɔ aai ? ”
+44008034	aa		Ainɛ gɔ Pilipe le kijɛ wo gi : « Inɛ Ama titiyainɛ gɔ sɔɔ ɔn aa dɛi sɔɔjɛ ma , mainiyaanjɛu ye mui taga . Kuu womɔ sɔɔi sɔɔjɛ ma , inɛ waja dɛi sɔɔjɛ ? »
+44008036	kijɛ inge		Be oju bemɛ digiyaa yaau , dii yalu nɛ dɔwaabɛin . Etiopi ainɛ gɔ gi : « Dii unwɔ . Batise yoo ga kijɛ inge mui tɛŋɛjɛ ? » [
+44009004	inge dɛi		Woi minɛ nɛ numaa sugaabe . Mii turu wo le sɔɔ sɔɔuwɔ wo ɛgɛube . Mii gɔ ɔn gin ’ gɛɛbe : « Sɔlu , Sɔlu , u inge dɛi mui tɔɔɲɔuwɔu ? »
+44009005	aai		Sɔlu saa kijɛ gi : « Ui aai ma Inɛw Baŋa ? » Mii gɔ saa gi : « Mu Yesui . Inɛ tɔɔɲɔu u wɔɔ gɔ mui .
+44009006	~		Ingele , ana kɔlɔ nɛ yoo . Kɔɔ nɛ kijɛ kanraun u jaan gɔ u bɛrɛ tatagadɛin . »
+44010004	ingei		Kɔrunɛye giri gɔmaa woi yɛnɛu , kinwɛun , ɔn gin ’ sai : « Mu baŋa , ingei ? » Mɛlɛnkɛ gɔ saa : « Gɛɛn uwɔbe lee , naugunw bɛrɛ kijɛ u obu gɔbe lee , Ama yabaajɛ . Wo ui ajubaajɛ .
+44010021	inge dɛi		Kunrin Piɛru , anranw gɔbe bɛrɛ sugaa , kijɛ wo gi : « Mu unwɔun . Inɛ e dɛnɛjɛ gɔ mui . Ɔn nɛ e wɛi gɔ , inge dɛi ma mui jugɔmɔi . »
+44010029	~		Wogɔ digɛu inɛ tiyaa , mui e boonaa , mu jiiru kunɔlu go wiyaabɔn . Nɛɛ , kijɛ dɛi mui boonaa e jɛɛlu gɔ mui jugɔmɔi . »
+44010047	~		Piɛru iyaa sɔɔ jeɲaa , gi : « Kikinu Pilu kuu emɛ nɛ bana wɛi gin ’ , inɛw ɔnbe kuu nɛ yaa yinwɛi . Nɛɛ , inɛw wogɔbei dii nɛ batise kanranlu kanrun bɛbɛɛmɔjɛ ma ? »
+44011017a	~		Aiwa , Inɛw Baŋa Yesu Kirisito le waaru emɛ gawu le , Ama emɛ bɛrɛ sin obu wo obu gɔ , be bɛrɛ yaa obaajɛ . Nɛɛ , Ama le mu jaiyɛun jaain bee ma ? »
+44011017b	~		
+44012018	yago		Aga , baa wo yaa , sɔludasu unrunw gɔbe kinɛmana diyɛ le bɛin . Piɛru yago yai ma be inin bɛin .
+44013025	aai		Jan birɛ womɔ dogoido waaru dɔwaa wo kanran , ɔn gin ’ sɔi : ‘ E mui aai ga sɛi ? Inɛ e dɔmɔ gɔ wogɔ mui laa . Kaa yɛnɛi , inɛ wogɔ onu ma nɛ yawɛɛjɛ . Taga womɔ suŋu kɔmɔlɔ ga mu le jaanla . ’
+44014015	inge dɛi		« E inge dɛi kɔɔ kanraunwɔi ? Emɛ yaa e gin ’ inɛbei . Emɛ Kibɛru Ɛju gɔ e bɛrɛ jɛɛlɛuwɔin . Ebaa ɔmɔlɔ ɔnbe kijɛ kanmai laa ga , wogɔ pajaa ye , Ama ɔnmɔ , alagala lee , minɛ lee , nɛudii lee , kɔlɔ bemɛ nɛ kijɛ toin puu lee maŋanɛ gɔ sibɛ go ei kigelemɔ ga , e bɛrɛ tagauwɔin .
+44015010	ingei		Nɛɛ , Amai subɔrɔu wɔnɛ biyaai ye , emɛ babe lee , emɛ lee , dɔɔ gɔnrɔnlu emɛ wɔɔ gɔ , wogɔ jaŋu unrunw bɛrɛ duurɔdei ga e wɔɔ gɔ ingei ?
+44016030	kijɛ inge		Wo bei bain go dimɛraan goonaa kijɛ wo gi : « Mu baŋabe , yayabu bɛɛ ga kijɛ inge mu kanraun jaan ? »
+44017018	inge		Jugɔ jugɔnw Epikuriɛn gɛɛɲu gɔbe lee , Sitoyisiɛn gɛɛɲu gɔbe lee gamuu yaa Pɔlu le jiiru jiireubɛin . Kunrin inɛw gamuu kijɛ gɛɛbe : « Sɔɔ diyɛ sɔɔnɛ ɔn inge gɛɛuwɔ ? » Pɔlu , Yesu Kibɛru Ɛju sɔɔ tagaube , iyaa bulogu sɔɔ sɔɔube . Wogɔ digɛu , gamuu iyaa ɔn gin ’ sɔɔubɛin : « Ɔn baŋa , ama yerube sɔɔi sɔɔjɛ gin ’ wɔɔ . »
+44017019	ingei		Kunrin be Pɔlui dimɛraan , badu yalu diyɛ bemɛ Areyopaje gɔ nɛ jɛyaa , wo le ɔn gin ’ sɔin : « Deeru kana sɔɔ u sɔɔjɛ gɔ ingei ma , u emɛ bɛrɛ taga bɛbɛɛdou ma ?
+44019003	~		Pɔlu bemaa kɔɔi ye batise be bɛi gɔ batise yɔgɔi ma gi . Be saa batise Jan kanrun gɔi gin .
+44019015	aabei		Jinrun gɔ le kunrin be sɔwaa , wo aŋa bemɛ ɔn gin ’ sai : « Mu Yesui igii wɔun . Pɔlu aai ma igii wɔun . Kaa e aabei ? »
+44019035	aai		Dumɔ gɔ , ana dɔn tɔŋɔnɛ gɔ mɔɔnu gɔi kelemu biyɛmaa , ɔn gin ’ sɔi : « Epɛse bɛɛnw , Arutemise ginrun diyɛ babaɲu gɔ lee , dege womɔ alagala gowaa bagaa sugu gɔ lee , bei Epɛse ana sagi ga inɛ inɛɛ gɔ aai ?
+44021013a	ingei		Kaa Pɔlu ɔn gin ’ sai : « Pii piiu anrangaju ma donugou e wɔɔ gɔ ingei ? Inɛw Baŋa Yesu dɛi Jerusalɛmu nɛ kɔmu sai laa , kaa yinwɛn ga yaa mu yeguru le wɔun . »
+44021013b	~		
+44021022	yani		Nɛɛ , uwaa wiyaai ga be ɛhɛgɛdɛin laa , emɛ yani kanrandɛin ?
+44021033a	aai		Sɔludasu kuu baŋa diyɛ gɔ , Pɔlu genɛ nɛ dɔwaa , woi aa , yɔgu lɛi le woi kɔmɔ ga tɔɔraabe . Kɔɔ onu nɛ woi aai ma , 
+44021033b	inge		wo inge kanrun ma sɔludasu kuu baŋa gɔ selumaabe .
+44022007	inge dɛi		Mui minɛ nɛ numaa sugaa , mii turu mu le ɔn gin ’ sɔɔu wo wɔu ɛgaabɔn : ‘ Sɔlu , Sɔlu , inge dɛi mui tɔɔɲɔuwɔu ? ’
+44022008	aai		Mu saa , Inɛw Baŋa , ui aai ma gun . Wo saa kijɛ gi : ‘ Mu Nasarɛtu bɛɛnnɛ Yesui . Inɛ tɔɔɲɔu u wɔɔ gɔ mui . ’
+44022010	inge		Mu iyaa ɔn gin ’ gun : ‘ Inɛw Baŋa , mu nɛɛ inge kanrandɔn ? ’ Inɛw Baŋa saa gi : ‘ Ingele , Damasu nɛ yaa . Kijɛ uwaa kanran ga Ama tɔɔru gɔ puu u bɛrɛ tatagadɛin . ’
+44022016	ingei		Nɛɛ ingei dɔmɔu ? Ingele , Inɛw Baŋa boi boonaa ye , batise yowaajɛu ye , hakɛ uwɔ u le wo goomɔ . ’ »
+44022026	yani		Sɔludasu suŋu kuu baŋa gɔ sɔɔ kɔɔ ɛgaa , sɔludasu kuu baŋa diyɛ gɔ bɛrɛ yaa tagaa kijɛ wo gi : « Ainɛ gɔ Rɔmɛ ii , nɛɛ u yani kanrandou ? »
+44023003	~		Pɔlu wo le saa : « U kanran , Ama ui lalagado , kijɛ jege piliniyɛnmaaɲu ɔn . Uwaa Tɔɔru le kɛukɛu saliyɛ ma kire ga ui daanaa be kanran , mui laga gɛɛjɛu ? Wogɔ Tɔɔru yamuli . »
+44023009	~		Siɲɛ ɛjii yabe . Parisiɛn mɔɔnu nɛ Ama tɔɔru deerenw toin gamuu ingelaa , jiiru diyɛ jiirei tɔlaa , kijɛ be gi : « Emɛ ainɛ ɔn nɛ mɔɲu turu kanran iyenɛ . Kikinu ma , Mɛlɛnkɛ turu wo le sɔɔ sɔwaabe ma aa jugɔjɛ ? »
+44023019	ingei		Sɔludasube kuu baŋa gɔ sagatara ii gɔ numɔ aa , dɔraa gowaa , ii gɔi selumaabe : « U sɔɔ ingei mu bɛrɛ tagai wɛiu ? »
+44026008	~		Ama , yiun bubulomɔjɛ ga , wogɔ le gawa bɛɛmɔɔlɛ gin ’ e Yahutunw gɔbe , e bɛrɛ yinwɔɔ ma ?
+44026014	inge dɛi		Emɛ wooi puu minɛ nɛ numaa sugaabɛin . Mii turu Yahutunw sɔɔ le ɔn gin ’ mu le gɛɛu wo wɔu mu ɛgaabɔn : ‘ Sɔlu , Sɔlu , u inge dɛi mui tɔɔɲɔuwɔu ? Mu le pirigiyenu doori . ’
+44026015	aai		Mu saa Inɛw Baŋa u aai ma gun . Inɛw Baŋa saa kijɛ gi : ‘ Mu Yesui . Inɛ tɔɔɲɔu u wɔɔ gɔ mui .
+45002017	~		Kaa u kai , u ui Yahutunɛi ga gɛɛuwɔu , u Mɔise tɔɔru gɔ nɛ diyɛ uwɔ daanaa wɔu , iyaa u Ama tɔitɔi gɔ Ama uwɔi dɛi kuu uwɔ unɔuwɔu .
+45002021	inge dɛi		Nɛɛ , u inɛw wajunw deerenɛ gɔ , u kuu uwɔ le inge dɛi ui deereelɛu wɔu ma ? U gunyɔn gunyɔun jaanla ga waaju taganɛ gɔ , u yani kuu uwɔ le gunyɔn gunyɔunwɔu ma ?
+45002028	~		Nɛɛ Yahutunɛ tɔitɔi gɔ , inɛw inɛ Yahutunɛi gɛɛɲu gɔi laa . Iyaa , araa nɔi tɔitɔi gɔ gojunawan nɛ iyemɔjɛ gɔi laa .
+45003001a	~		Yahutunɛi bii nɛ kijɛ sigɛ inɛ kuu nɛ bariyɛjɛ yɔɔ ma ? 
+45003001b	~		Iyaa , araa nɔɔmu gɔ yaa niwɛn yasɛ ma ?
+45003003	yani		Yani wɔɔ ma ? Inɛw gamuu sɔɔ turu bɛɛnwin laain ye , sɔɔ turu bɛɛnwin biyɛla bemɛ gɔ Ama sɔɔ turu baŋai bii gɔ yayamalado ma ?
+45003005	inge		Kaa teitai laa emɛ gɔ , Ama teitai gɔ inɛw bɛrɛ jugɔmɔjɛ ye , emɛ sɔɔ inge saa bɛɛdɛin ? Ama waaru emi wo lagajɛ le , wo teitai laa kanraunwɔ ma ? Mu Adama unrunw aŋai sɔɔɲu gin ’ sɔɔuwɔn .
+45003006	yani		Asuu . Ama teitai laa bee biyaai ye , wo yani aduna saliyɛ kire bɛɛdo ?
+45003007a	~		Kakalu ma gɔ le digɛnu , Ama bɛrɛ naran goojɛ gɔ sigɛ le gaai jugɔmɔjɛ biyaai ye , iyaa wogɔ dɛi baba womɔ babariyɛjɛ biyaai ye , 
+45003007b	inge dɛi		nɛɛ inge dɛi mui hakɛ kanrannɛi gin ’ lugo ye , jarugu kuu ma nɛ duurɔdɛin ma ?
+45003008	~		Kɔɔ gin ’ inɛw gamuu gɛgɛɛɲu : « Ɛju gɔ wɛɛmɔ ga , emɛ mɔɲu kanranmɔi . » Inɛw gamuu kuu ma nɛ kakalu maŋaa , maa kunrin gɛɛuwɔ gin . Inɛw kɔɔbe , saliyɛ jarugu , kuu bemɛ nɛ susugodo . Wogɔ be le dagaa .
+45003009	yani		Yani wɔɔ ? Emɛ Yahutunw gɔbe , emɛ inɛw wajunw dɛi irein ma ? Ai , turu kanran irelain . Yahutunw lee , tɔgu wajunw lee , be puu hakɛ bei laamauwɔ ga , mu giru nɛ baa sɔwaabɔn .
+45003027a	kijɛ inge dɛi		Nɛɛ inɛw , kijɛ inge dɛi kuu ulo ulo bɛɛdɛin ? Kijɛ turu dɛi kanran be kuu bemɛ unu bɛɛidenɛ . 
+45003027b	inge dɛi		Inge dɛi kuu bemɛ unu bɛɛidenɛ wɔin ? 
+45003027c	~		Be Tɔɔru kijɛ kanran gɛɛjɛ gɔbe kanraan teitai biyaain dɛi kuu bemɛ unɔdɛin ma ? Ai , be wogɔ dɛi kuu bemɛ unu bɛɛidenɛ . Kaa be gawaa wɔin dɛi , Ama , giru unrunmɔ nɛ bei teitai wɔɔ ga lugodo .
+45004001	kijɛ inge		Nɛɛ , emɛ ba Abarahamu , gojunawan sibɛ go emɛ Yahutunw tirɛ ainɛ gɔ dɛi emɛ inge gɛɛdɛin ? Wo kijɛ ingei bɛi ?
+45004003	~		Bana Ama Dɔn nɛ tɔŋaaɲu gin ’ : “ Abarahamu Ama le gawaabe . Gagawu womɔ gɔ digɛu , Ama woi teitai wɔɔ ga lugaabe . ”
+45004010	yagɔ		Sɔɔ wogɔ waaru yagɔ le bii ? Abarahamu araa nɔɔlu wo wɔu bii ma , araa nɔwaan wo galaai ? Araa nɔɔlu wo wɔu Ama woi teitai wɔɔ ga lugaabe , araa nɔwaan wo galaai laa .
+45005010	~		Emi Ama jaŋuwin bee , kaa Aini womɔ yiun gɔ digɛu , emɛ lee , Ama lee logoro nɛ sɔɔ yegeraatin . Nɛɛ iyaa , Ama lee , emɛ lee logoro nɛ sɔɔ yegeraaɲu onu nɛ , Aini womɔ ɔnmɔi wɔɔ dɛi sigiyaa emi yayabadɛin .
+45005021	~		Nɛɛ yiun le digɛu bana hakɛ inɛwin laamu kanranjɛ gin ’ , iyaa Yesu Kirisito , Inɛw Baŋa emɛ le digɛnu ɔnmɔsɔgɔ gɔ nɛ emi jɛyaa ga , Ama nɛɛma gɔ , inɛwin teitai bojoɲu gɔnrɔn yasɛ .
+45006001	yani		Emɛ yani gɛɛdɛin ? Ama nɛɛma sigɛ le narinyɛn ga emɛ hakɛ kanrannu biyɛdɛin ma ?
+45006002	yani		Asuu . Emi hakɛ sibɛ go yinwaain , emɛ yani iyaa lee hakɛ kanrannu biyɛdɛin ma ?
+45006015	Yani		Yani wɔɔ ? Emɛ Tɔɔru diinɛ nɛ tonɛ , kaa Ama nɛɛma diinɛ nɛ toin dɛi , hakɛ kakanrandɛin ma ? Asuu .
+45006021	ingei		Kijɛ dɛi kanɛ dɔgɔ ei aajɛ gɔ waaru kanraun e bee le , tinɛ ingei bɛii ? Sabu kijɛ wogɔ yiun jɛɛlɛjɛ .
+45007007	inge		Emɛ inge gɛɛdɛin ma ? Tɔɔru gɔ hakɛi ma ? Ai asuu . Kaa Tɔɔru gɔ , hakɛ ingei ma mui wo jugɔmu . Tɔɔru maa “ U inɛ kijɛ daariyɛnɔu ” gɛɛlu bee ye , mu kijɛ daari ingei ma igi biyɛbelɔn .
+45007024	inɛ aa		Mui naran go amasɔgɔi . Inɛ aa , yiun nɛ goju mui biɲaa yaajɛ ɔn numɔ nɛ mui ɛlɛ ye goonɔdo ?
+45008024	inɛ aa		Sabu diyɛdɔn wogɔ nɛ toiyaa wɔu emi yabaaɲu . Nɛɛ kijɛ iyemɔjɛ diyɛdɔn gɔ , wogɔ diyɛdɔn tɔitɔii laa . Inɛ aa kijɛ wo iyejɛ bɛbɛɛdo diyɛdɔn le biyɛdo ma ?
+45008031a	yani		Emɛ kijɛ kɔɔbe wooi dɛi yani gɛɛdɛin ma ? 
+45008031b	inɛ aa		Ama emɛ le wɔɔ ye , inɛ aa jaŋunɛ emɛi biyɛdo ma ?
+45008032	yani		Wo Aini womɔ ɔɲɛ nɛ paabalu , kaa emɛ wooi dɛi woi inɛw numɔ nɛ kunaabe . Wo Aini womɔ emɛ bɛrɛ obaabe . Kɔɔ gin ’ yani wo iyaa lee , dɔnrun wɔlɔ go kijɛ puu emi obolu kanrando ma ?
+45008033	inɛ aa		Inɛ aa Ama inɛw yɛmu gɔbei jarugado ma ? Inɛ turu kanran . Sabu bei teitai wɔɔ ga lugonɛ gɔ Amai .
+45008034	inɛ aa		Inɛ aa kuu bemɛ nɛ jarugu duurɔdo ma ? Inɛ turu kanran . Sabu yinwɛnnɛ gɔ Kirisito Yesui , kɔɔ dɛi sigɛ wo bulaai , wo Ama numɔ iin sibɛ nɛ yadaan , iyaa wo emɛ dɛi Ama bɛrɛ gɛɛunwɔ .
+45008035	kijɛ inge		Kijɛ inge emi Kirisito ihibɛ le kabugu goonu bɛɛdo ma ? Ɔɲɛ diyɛi ma , kinɛ ɔɲɛi ma , tɔɔɲɔi ma , giyɛi ma , dɛgui ma , parujui ma , yinwin ma ?
+45009014	inge		Emɛ nɛɛ inge gɛɛdɛin ? Teitai laa Ama le yɔɔ ma ? Asuu .
+45009019a	inge dɛi		Inɛ turu mu le ɔn gin ’ gɛɛdo bibiyɛ : « Kɔɔ gin ’ wɔɔ biyaai ye , Ama inge dɛi inɛi pɛbɛjɛ ? 
+45009019b	inɛ aa		Sabu inɛ aa Ama diŋɛ le yabalu kanrun bɛɛdo ma ? »
+45009020a	aai		Kaa u inɛ Ama le jiirenɛ gɔ ui aai ? 
+45009020b	~		Nage toroi , 
+45009020c	inge dɛi		woi maanɛ le womaa inge dɛi unruin ɔn gin ’ kanrun ma gɛɛidolo .
+45009021	~		Toroimaanɛ nage gɔ le kijɛ wo ibɛ kanran bɛbɛɛjɛ . Nage tutunmɔ gɔ le wo gelu dɔnrun gaa yeguru bɛbɛɛdo , wo iyaa gelu birɛ biru kanran yeguru bɛbɛɛdo .
+45009022	~		Ama yaa kijɛ kanrun wo ibɛ gɔ kanrun bɛbɛɛdo . Wo kinɛ banrun womɔ jugɔmu ibɛɛ bee , iyaa gɔnrɔn womɔ taguru ibɛɛ bee . Kokanran inɛw kuu nɛ kinɛbanrun womɔ sugoun jaanbe gɔbe , suiyi be le jaan gɔbe , be sibɛ go , Ama , muyɔn diyɛ unrunmɔ tagaraabe .
+45009023	~		Emɛ inɛw amasɔgɔ emɛ wo jugaajɛ gɔbe , emɛ inɛw giru nɛ baa , emaa dooro womɔ bɛɛ ga wo boonu gɔbe bɛrɛ dooro diyɛ womɔ tagara ga , wo wogɔ gin ’ kanraanbe .
+45009024	~		Sabu Yahutunw logoro nɛ sai laa , kaa tɔgu wajunw logoro nɛ inɛw wo boonu gɔbe emi .
+45009030	inge		Emɛ nɛɛ inge gɛɛdɛin ma ? Wogɔ unwɔ : Inɛw Yahutunwin laain gɔbe , inɛw Ama giru nɛ teitai biyɛ ga mainiyɛun benɛ gɔbe , gagawu dɛi bei teitai wɔɔ ga lugaaɲu .
+45009032	Inge		Inge sabu dɛi ? Sabu kijɛ dɛi mainiyɛun be bee gɔ , gagawu le digɛla bee , kaa wogɔ birɛ bemɛ le digɛbe . Be “ tibu inɛi tomɔmaa ye numɔmɔjɛ ” gɔ nɛ kubɔ bemɛ tomaai ,
+45010006	inɛ aa		Gagawu le digɛnu Ama giru nɛ teitai bii gɔ dɛi sɔɔ sɔin gɔ ɔn woi : U kinɛ uwɔ nɛ Kirisitoi sunugoun jaain wɔɔ ga gɛɛnɔu , bana tɔŋaaɲu gin ’ : “ Inɛ aa alagala uhulodo ma . ”
+45010007	inɛ aa		Kirisitoi yiunbe logoro nɛ bulugu goonɔu jaain wɔɔ kanran gɛɛnɔu , bana tɔŋaaɲu gin ’ : “ Inɛ aa aduna minɛ doɲu nɛ too gɔ nɛ sugodo ? ”
+45010008	ingei		Nɛɛ sɔɔ ingei sɔin ? Wogɔ unwɔ : “ Ama sɔɔ gɔ u le bɛrii wɔɔ , aŋa uwɔ lee , kinɛ uwɔ lee nɛ yato . ” Wogɔ gagawu sɔɔ waaju emɛ tagajɛ gɔ woi .
+45010014a	yani		Be inɛ le gawanɛ be wɔɔ go boi , yani boonu bɛɛdɛin ? 
+45010014b	yani		Be inɛ dɛi sɔɔ turu kanran ɛgɛnɛ be wɔɔ gɔ le , yani gawu bɛɛdɛin ? 
+45010014c	yani		Inɛ turu kanran , wo dɛi waaju tagalu ye , be yani ɛgɛdɛin ?
+45010015	yani		Inɛw waaju taganw gɔbe tiinɛ ye , yani waaju gɔ tagadɛin ? Bana Ama Dɔn nɛ tɔŋaaɲu gin ’ : “ Inɛw Kibɛru Ɛju taganw wɛɛgu gɔ saii ɛjii wɔɔ . ”
+45010016	inɛ aa		Kaa inɛw puu Kibɛru Ɛju gɔ le yabanɛ . Kunrin Esayi sɔwaa kijɛ gi : “ Inɛw Baŋa , inɛ aa sɔɔ emɛ gɔ le gawaabe ma ? ”
+45011004	yani		Kaa , Ama yani aŋa womɔ sai ? Wo Eli le kijɛ gi : “ Mu inɛw muɲu sɔi mu dɛi bojaa yasɔn , be ɔmɔlɔ Baalu gɔ giru nɛ tuŋiyɛnnɛ . ”
+45011007	inge		Emɛ nɛɛ inge gɛɛdɛin ma ? Isɛrɛlu tɔgu inɛw gɔbe kijɛ be dɛnɛbe gɔi bɛɛnɛ . Kaa Ama inɛw yɛmu gɔbe wogɔ biyaabɛin . Inɛw wajunw gɔbe kai hakilɛ bemɛ pinaatin ,
+45011015	yani		Sabu waaru bei kamaa dagin le , aduna lee , Ama lee logoro nɛ sɔɔ yegiyaai . Nɛɛ , waaru Ama bei sɛgɛrɛi wo do yani biyɛdo ? Wogɔ inɛw yinwaan gɔbe bɛrɛ ɔnmɔi bii biyɛdo .
+45011018	~		Nɛɛ , numɔ ii kɛjaa gooni gɔbei e gailamɔu jaanla . E kuu ulo le e biyɛun jaanla . Ei numɔ ii sai . Tiun duu gɔ bɛrɛ paŋa e oboolɛ , kaa tiun duu gɔi paŋa ei obojɛ .
+45011033a	Inɛ aa		Ama arusɛgɛ gɔ halu gaai wɔɔ . Hakilɛ womɔ lee , jugɔ womɔ lee , halu tooi wɔin . Inɛ aa Ama kijɛ kanran ga wo kɛju gɔ jugɔ bɛɛdo ? 
+45011033b	Inɛ aa		Inɛ aa bana birɛ wo birɛjɛ paamu kanrun bɛɛdo ?
+45011034a	Inɛ aa		Bana Ama Dɔn nɛ tɔŋaaɲu gin ’ : “ Inɛ aa Inɛw Baŋa Ama ajubu gɔbe igii wɔɔ ma ? 
+45011034b	Inɛ aa		Inɛ aa tinwinrun obonɛ womɔi bii bɛɛdo ma ?
+45011035	inɛ aa		Baŋai pilemɛ ye tujɔ ga , inɛ aa laa wo bɛrɛ kijɛ obaabe ma ? ”
+45014004	aai		Ui aai ma , u inɛ waja birɛbirɛnɛi jaruganɛ gɔ ? Wo kijɛ wo kanranjɛ nɛ ɛɛn go iŋɛ ma , ɛɛn go iŋɛla ma , wo baŋa turu sai tagu yato . Kaa wo ɛɛn go iŋiyɛndo , sabu Inɛw Baŋa woi ɛɛn go iŋiyɛnmɔɲu gɔnrɔn yasɛ .
+45014010a	inge dɛi		Nɛɛ u , inge dɛi u bainɛi jarugau wɔu ma ? 
+45014010b	inge dɛi		U kanran , inge dɛi u bainɛi gailiyɛmɔu wɔu ma ? Sabu saliyɛ emɛ kiru dɛi emɛ puu Ama giru nɛ bai turu ihiŋiyɛndɛin .
+46001020a	yago		Nɛɛ hakilɛginɛ yago wɔɔ ? 
+46001020b	yago		Jaŋudeerenɛ diyɛ yago wɔɔ ? 
+46001020c	yago		Maa , aduna ɔn jiiru kunɔnɛ yago wɔɔ ? Aduna ɔn hakilɛ gɔ bomɔ sɔɔi ga Ama tagaralu ma ?
+46002011	aai		Adama ii ajubu jugɔnɛ gɔ aai ? Kikinu womɔi laa ye yɔɔ ma ? Kɔɔ bana wɔɔ gin ’ , Ama sibɛ go yaa , Ama Kikinui laa ye , Ama ajubu jugɔnɛ wɔlɔ .
+46002016a	Inɛ aa		Ama Dɔn kijɛ gi : “ Inɛ aa Inɛw Baŋa Ama ajubu gɔbe igii wɔɔ ma ? 
+46002016b	Inɛ aa		Inɛ aa woi tinwinrun bɛɛjɛ ma ? ” Kaa , emɛ kai , Kirisito ajubu sɛɛ gɔ woi sɛin .
+46003005a	aai		Apɔlɔsu aai ? 
+46003005b	aai		Pɔlu aai ? Emɛ le digɛu e gagawu oju nɛ wɛii laa ye , emɛ Ama birɛbirɛnw peerei . Emɛ tuturu puu Inɛw Baŋa , emɛ bɛrɛ birɛ gɔ bana obu gin ’ , inɛ kanma puu yinbiraabe .
+46004007a	aa		Inɛ wajunw dɛi ire aa ui boju ? 
+46004007b	~		Kijɛ u sɛɛ gɔ puu u bɛrɛ obo le obonɛ ma ? 
+46004007c	ingei		Nɛɛ u bɛrɛ ohobin ye , u bɛrɛ obonɛ , kuu uwɔ le bɛiu gin ’ kuu uwɔ unɔu u wɔɔ gɔ ingei ?
+46004021	~		Baga gɛli ye , ei lagai mu wɛɛjɛ e bɛrɛ ire ma , ihibɛ le , jamu kunɔ ye , e bɛrɛ mu wɛɛjɛ ire ? Kɔɔ lɛi logoro nɛ e bɛrɛ ire gɔ e yɛmɛjɛ .
+46005002	~		Kɔɔ wooi nɛ , e kai kuu ulo le wɔi . Ai , kinɛ jiun diyɛ le bii ye , inɛ wogɔ kanrannɛ gɔi logoro ebe nɛ nana e goonɔu jaain wɔɔ .
+46005012	~		Bain inɛw , inɛw tubu tonɛ , saliyɛ kire ga , wogɔ sɔɔ mai laa . Ama saliyɛ bemɛ kiredo . Kaa inɛw ebe gɔbe , saliyɛ bemɛ e kireun jaanla ma ? Kɔɔ biyaai ye , Ama Dɔn bana gɛɛjɛ le kɛukɛu : “ Mɔɲu kanrannɛ gɔi logoro ebe nɛ nana goonɔi . ”
+46006001	yani		Logoro ebe nɛ , inɛ turu baŋa , inɛ waja le sɔɔ biyaajɛ ye , wo Ama inɛw pajaatiyaa ye , aduna saliyɛkirenw bɛrɛ yani yai bɛɛjɛ ?
+46006003	~		Aduna ɔn sɔɔbe saliyɛi laa koi , halu mɛlɛnkɛbe saliyɛ emɛ kiredo ga e inin ma ?
+46006004	~		Kaa e tunmɔ le sɔɔ biyaajɛi ye , inɛw , Ama inɛw mɔɔnu sɔɔ be le digɛla bɛrɛ yai ye sɔɔ gɔ giru goonɔmɔjɛi .
+46006007a	inge dɛi		Naran go , tunmɔ le saliyɛ sɔɔ e sɛɛ gɔ dɛi , kanɛ baa ei numaai sɛɛrɛi . Tunmɔ le saliyɛ yoo dɛi , inge dɛi teitai laa e bɛrɛ kanranɲu gɔ muyɔindelei wɔi ? 
+46006007b	inge dɛi		Inge dɛi ei pajaa ye punɔmɔidelei ma ?
+46006009	~		Koi ye , mɔɲu kanranw gɔbe Ama diinɛ kɛn bɛɛidenɛ ga e inin ma ? Kuu ebe lelemɔnɔugi : Salagunw lee , ɔmɔlɔ bulonw lee , dimudimiyɛnw lee , anranw be tunmɔ dɛnɛw lee ,
+46006016	~		Koi ye , yaanran dimu le kayanɛ le ainɛ yoojɛ , wo le goju turu taŋajɛ ga e inin ma ? Ama Dɔn kijɛ gi : “ Be lɛi inɛ turu taŋaɲu . ”
+46006019	~		Goju ebe gɔ , Kikinu Pilu ginruin ga e inin ma ? Kikinu Pilu e nɛ yato . E woi Ama bɛrɛ bɛii . Kuu ebe ebei laa , kaa Ama , dɔnrun kunaa ei ɛbaajɛ ga e inin ma ? Ama dɔnrun tujaa ei ɛbu . Wogɔ digɛu , goju ebe le Amai babai .
+46007016a	yani		U yaanran jaŋu ii , u igɛi yayabadou ma yani jugɔ bɛɛdou ? 
+46007016b	yani		U igɛnɛ jaŋu ii , yaanran uwɔi yayabadou ma , u yaa yani jugɔ bɛɛdou ?
+46009007a	aa		Sɔludasu ii aa , kɔmɔ taa yaa ye kuu unrunmɔ kijɛ le kai unrunmɔ kilɛjɛ ? 
+46009007b	~		Maa , resɛn tiun yibenɛ womaa , resɛn tiun ii womɔ kayanɔu yɔɔ ma ? 
+46009007c	~		Maa bɛlugirɛnɛ arusɛgɛ womɔ iru nɔɔnɔu yɔɔ ma ?
+46009018	ingei		Nɛɛ , wogɔ nɛ tujɔ mu bɛɛjɛ gɔ ingei ? Kibɛru Ɛju taganɛ tinɛ bɛɛjɛ gɔ dɛnɛlu go , bamai kɛɛlɛ wɔlɔ go Kibɛru Ɛju tagaa ye kinɛ kaalu mu bɛɛjɛ gɔ , wogɔ tujɔ ma gɔ woi .
+46010019a	~		Mu ɔmɔlɔ ma , ɔmɔlɔ nawan ma kijɛ nanaai gɛɛuwɔn ma ? Ai .
+46010019b	~		
+46010019c	~		
+46010029	~		Kinɛjugɔ jarugu sɔɔ mu gi gɔ , kinɛjugɔ uwɔ ui jarugajɛ dɛi laa , kaa inɛ u bɛrɛ taganɛ gɔ kinɛjugɔ womɔ woi jarugajɛ dɛi sɔɔuwɔn . Nɛɛ inɛw gamuu ɔn gin ’ selumu bɛbɛɛɲu : « Inɛ waja kinɛ jugɔ womɔ woi jarugajɛ dɛi , maa kijɛ mu dɛnɛjɛ kanrannɔu yɔɔ ma ?
+46010030	inge dɛi		Mu kijɛ mu kayajɛ dɛi Amai birɛpoo tagaabɔn ye , birɛ poo tagu le pana mu kayajɛ dɛi inge dɛi boi ma yanwanjɛ ? »
+46011022	inge		Kɔɔi ye , ginrun ebe nɛ jaa kayi ye nɔɔ bɛɛlɛi ma ? Maa e Ama inɛw mɔɔnu gɔi gailiyɛmɔu , inɛw kijɛ sɛnɛ gɔbe bɛrɛ dɔgɔ tagarauwɔi ? Mu e le inge gɛɛdɔn ? Ei sɔsɔmɔdɔn ma ? Ai , sɔɔ kɔɔ nɛ mu ei sɔmɔlun .
+46012017a	yani		Goju gɔ puu girii bee ye , yani kanraan ye suguru ɛgɛmɔdo ? 
+46012017b	yani		Goju gɔ puu sugurui bee ye , yani kanraan ye jiɲu sama bɛɛmɔdo ?
+46012019	yagɔi		Goju gɔ puu digɛ koturu sai bee ye , goju naa gɔ yalu yagɔi biyɛdo ?
+46014006	inge		Ba unrunw , e bɛrɛ selumɛuwɔn : Sɔɔ inɛmɔ e bɛrɛ wiyaa sɔwaajɔn ye , e bɛrɛ inge niwɛin sɛɛ ? Kaa Ama mu bɛrɛ sɔɔ jugɔmu turu le ma , jugɔ sɔɔ turu le ma , Ama bɛrɛ sɔɔ goi turu le ma , deeru turu le ma e bɛrɛ wiyaajɔn ye , mui e bɛrɛ niwɛn yato .
+46014007	yani		Ajubu yɛnɛi , kijɛ nii nii , kere gin ’ ma , kɔni gin ’ ma , mii bemɛ kabu kunu bɛɛmɔɔlɛ biyaai ye , kijɛ be gɛɛjɛ gɔ yani paamu kanrun bɛɛmɔdo ?
+46014008	aa		Iyaa kaan sujɔnɛ , kaan gɔ , tiyɛ le sujɔɔlɛ ye , sɔludasu ii aa kɔmɔ taa ga unruin yegeredo ?
+46014009	aa		Kɔɔ bana wɔɔ gin ’ , sɔɔ inɛmɔ le sɔɔ e sɔɔjɛ gɔ ɛjɛlu ye , kijɛ e gɛɛjɛ gɔ aa paamu kanrando ? E sɔɔ ebe ooɲɔ le sɔii .
+46014015	yani		Kɔɔ biyaai ye mu yani kanrandɔn ? Kikinu ma le Ama gɛgɛɛndɔn , iyaa hakilɛ ma le yaa gɛgɛɛndɔn . Mu kikinu ma le nii niniidɔn , hakilɛ ma le yaa niniidɔn .
+46014016	yani		Kɔɔ gin ’ wɔlɔ biyaa ye , Amai birɛpoo taganu , u kikinu sai le sɔɔjɛu ye , inɛ waja mɔɔnu nɛ daan gɔ , sɔɔ u gi gɔ inɛɛ wɔnu , wo Amai birɛpoo tagu uwɔ dɛi amina yani gɛɛ bɛɛdo ?
+46014026	yani		Nɛɛ ba unrunw , yani wɔɔ ? Ama baba ga waaru e mɔrinyaanjɛ , inɛ turu Amai birɛpoo tagu nii sɛɛ , inɛ waja mɔ deerui , inɛ waja mɔ Ama wo bɛrɛ sɔɔ jugɔmui , inɛ waja mɔ sɔɔ inɛmɔ sɔii , inɛ waja mɔ sɔɔ inɛmɔ tiyɛ tagi . Kɔɔ wooi , Ama inɛw mɔɔnu paŋa bariyɛmu sɔɔi biyɛmɔi .
+46014036	~		Maa , Ama sɔɔ gɔ ebe nɛ goi ma ? Maa e bɛrɛ sai Ama sɔɔ dɔi ?
+46015012	yani		Kirisito yiun nɛ bulaai ga , emɛ wogɔ waajui kanranɲu . Nɛɛ logoro ebe nɛ , inɛw gamuu , yiun buloidolo ga yani sɔɔɲu ?
+46015029a	~		
+46015029b	yani		Iyaa , yiunbe giye inɛw unrunbei batise kunɔmɔu gɔbe , bemɛ yani biyɛdo ? 
+46015029c	inge dɛi		Naran go yiunbe buloonɛ bɛin ye , inge dɛi be giye unrunbei batise kunɔmɔɲu ?
+46015030a	~		Emɛ yaa , 
+46015030b	inge dɛi		inge dɛi waaru puu paruju nɛ yooɲu ?
+46015032	inge		Aduna ɔn tinɛ bɛɛ dɛi , mu ɔn nɛ Epɛse ana nɛ olunawanbe le jai jaiyɛdɔn ye , mu bɛrɛ wogɔ inge niwɛin sɛɛ ? Yiunbe buloonɛ bɛin ye , inɛw bana gɛɛɲu le kɛukɛu : “ Yogo emi yiyinwɛndo digɛnu , maini ye , kayi ye nɔɔmɔi . ”
+46015035a	yani		Inɛ turu ajubaa yɛnaa ye , yani kanraan ye yiun bulojɛ ma selumɛjɛ ? 
+46015035b	inge		Yiun bulaa ye , goju bemɛ goju inge tɔgui ma gɛɛjɛ ?
+46015055a	yago		“ Aa , yiun , gɔnrɔn uwɔ yago wɔɔ ? 
+46015055b	yago		Aa , yiun , kijɛ inɛ barumu uwɔ gɔ yago wɔɔ ? ”
+47002002	aa		Yɛnɛi , kinɛ ebe mu jinwɛnmɔjɛ ye , aa mu bɛrɛ kinɛ ɛɛlu obodo ? Inɛw kinɛ mu jinwɛnmu gɔbei laa ma ?
+47002016	inɛ aa		Inɛw suiyou wɔin bɛrɛ emɛ yiun jiɲu , inɛ daajɛi jiɲiyɛnɲu . Inɛw yabaaɲu bɛrɛ ɔnmɔ jiɲu , ɔnmɔ obojɛi jiɲiyɛnɲu . Inɛ aa birɛ kɔɔbe birɛ bɛɛdo ?
+47003008	~		Kikinu birɛ gɔ kɔɔ dɛi sigɛ Ama dooro tagaraidolo ma ?
+47003009	~		Tɔɔru birɛ , jarugu inɛ kuu nɛ duurɔjɛ gɔ dooro le bee ye , Kikinu birɛ , inɛwin teitai bojojɛ gɔ sigɛ le ɛjii dooro le biyɛidolo ma ?
+47006014a	ingei		Inɛw Ama le gawanɛ le mɔrin ye , pagu turu biyɛnɔugi . Sabu teitai lee , teitai laa lee mɔɔnu ingei too ? 
+47006014b	ingei		Maa wijɛ lee , ɔlɔ lee bɔɔ ingei too ?
+47006015a	ingei		Iyaa Kirisito lee , jinrun puu kuu baŋa lee , aaru ingei too ? 
+47006015b	ingei		Inɛ Ama le gawaajɛ lee , Ama le gawalu lee gamulu ingei too ?
+47006016	yani		Ama Ginrun Diyɛ lee , ɔmɔlɔ lee yani yegi bɛɛjɛ ? Ama ɔnmɔ Ginrun Diyɛ gɔ emi . Ama wo kuu womɔ le ɔn gin ’ sɔi : “ Mu logoro bemɛ nɛ toi ye be le yoi yayaadɔn . Mu Ama bemɛi bibiyɛdɔn . Be tɔgu mai bibiyɛdɛin . ”
+47011011	inge dɛi		Kɔɔ gin ’ sɔɔ mu sɔɔjɛ gɔ , inge dɛi ? Ei ibɛlaun dɛi ma ? Ei ibɛɛ wɔun ga Ama kai igii wɔɔ .
+47011029a	~		Turu baŋa yɛbiliyaai ye , mui yaa yɛbiliyaai . 
+47011029b	~		Turu baŋa hakɛ nɛ numaa yowaai ye , kinɛ ma jijinwɛnjɛ .
+47012013	ingei		Dɔɔ ma e bɛrɛ duurɔlun mu kanrun gɔi laa go , Ama inɛw mɔɔnu wajunw kijɛ bɛin e bɛɛlu gɔ ingei ? Teitai laa wogɔ mui yaabu kanrain .
+47012017	~		Inɛw e bɛrɛ mu tii gɔbe le mu ei punaa kayaabɔn ma ?
+48002014	yani		Kaa , be Kibɛru Ɛju naran gɔ le kɛkɛu yoi yaabenɛ ga waaru mu iye le , mu inɛw puu giru nɛ Piɛru le ɔn gin ’ sɔiun : « U Yahutunw tɔgu gɔ , u Yahutunw atɛmu gɔ pajaatiyaa , inɛw Yahutunw tɔgui laain atɛmu gɔ le kɛukɛu biyaabeu . Nɛɛ , u yani inɛw Yahutunw tɔgui laain gɔbe bemaa Yahutunw bana wɔin gin ’ tee biyɛ kaara giye tɔɔru ibɛɛ wɔu ? »
+48003001	inɛ aa		Hei , Galasi bɛɛnw , e hakilɛ sɛnɛ de ! Yesu Kirisitoi bana baga jai nɛ pɛgaa dain gɔ , e inɛw bɛrɛ sɛɛu ɛjɛmaa jugɔmaabɛin gɔbe , inɛ aa ei dugaabe ma ?
+48003019	inge dɛi		Nɛɛ kunrin biyaai ye , Tɔɔru gɔ inge dɛi daani ? Tɔɔru gɔ pui kuni onu nɛ daani , Tɔɔru yamulu gɔ jugɔmɔ dɛi daani . Abarahamu tiruwɛnɛ , inɛ dɛi pui gɔ kuni gɔ wɛɛido baa , Tɔɔru gɔ biyɛun jaain bee . Tɔɔru wogɔ , mɛlɛnkɛ gɔbe le digɛu , iyaa sɔɔ yegerenɛ turu le digɛu obaabɛin .
+48004009a	yani		Kaa kanɛ Amai waaru e jugaajɛ gɔ le , kɔɔ dɛi ire , Ama waaru ei wo jugaajɛ gɔ le , e yani kijɛ yɛbɛlɛgunw , paŋagunwin ga wɔin gɔbe , kijɛ koolo kɔɔbe bɛrɛ pilemaa wɛɛuwɔi ? 
+48004009b	yani		E yani iyaa lee gunɔw bemɛi bii ibiyaa wɔi ?
+48004010	~		E bai gamuu gɔbe lee , iyepilu gamuu gɔbe lee , anrandii nɛ waaru gamuu gɔbe lee , anranguju gamuu gɔbe lee koi taajɛi !
+48004015	yago		Kinɛ ɛɛlu diyɛ e sɛbe gɔbe puu yago yai ? Mu sɔɔ ɔn e dɛi sɔɔ bɛbɛɛgɔn : E kanrun bɛbɛɛbei ye , giri ebe kanran wɔguru goonu ye mu bɛrɛ ohobobei .
+48004021	~		E inɛw Mɔise tɔɔru sɔɔ le tubi ibɛin gɔbe , e Tɔɔru sɔɔ gɛɛjɛ gɔbe ɛhɛgɛjɛi ma mui tagai .
+48004030	yani		Kaa , Ama Dɔn yani gi ? Ama Dɔn kijɛ gi : “ Gunɔ yaanran kɔɔ lee , aini womɔ leei digɛ tii . Sabu gunɔ yaanran aini gɔ , yaanran hɔɔlɔnɛ aini le bari ye banɛ kɛn gɔ bɛɛ gamalaidolo . ”
+48005007a	Inɛ aa		E bana ɛju le tɔlaabei . Inɛ aa ebaa naran gɔ sɔɔ yabanɔu ga ei tɛŋaabe ma ?
+48005007b	~		
+48005011	inge dɛi		Ba unrunw , iye bai dɔɔ mu araa nɔɔmu gɔ jaain wɔɔ waaju gɔ kunɔu gɛlɔn gɔ narain biyaai ye , inɛw inge dɛi mui ɔɲɔmɔnu biyɛdɛin ma ? Kunrin biyaai ye , Kirisito , baga jai kuu nɛ wo yinwun sɔɔ gɔ dɛi inɛ turu kanran kinɛ yanwanbele .
+49004009	ingei		Nɛɛ , “ wo ulu ” tiyɛ gɔ ingei ? Wo laa gɔ , minɛ doɲu yalu too gɔ nɛ sugaabe gɔ woi laa ma ?
+50001018	~		Wogɔ gaju turu kanran wɔlɔ . Be kinɛgɛun le birɛɲu ma , kinɛpilu le birɛɲu ma , bana biyaai wooi puu , Kirisito waaju gɔ tagi wɔɔ . Wogɔ dɛi kinɛ ma ɛɛli wɔɔ . Iyaa kinɛ ma kanran ɛɛliyɛmɔnu biyɛdɔn .
+50001021	~		Sabu , mu bɛrɛ kai ɔnmɔ gɔ Kirisitoi , iyaa yiun gɔ tinɛi .
+51002020	inge dɛi		E Kirisito le tunmɔ go yinwin dɛi , aduna ɔn kijɛ paŋagunw iyemɔɔlɛ gɔbe sɔɔ nɛ gowaai bai , ei aduna mɔi gin ’ , ɔn jeɲɛnɔu , ɔn nɛwɛnnɔu , ɔn tabanɔu tɔɔru , inge dɛi kuu ebe nɛ daanamaa wɔi ?
+52002019	~		Sabu diyɛdɔn emɛ gɔ lee , kinɛ ɛɛlu emɛ gɔ lee , gɔnrɔn bɛi sɛɛrɛ le kuu emɛ unɔ emɛ bɛɛido gɔ lee , Inɛw Baŋa emɛ Yesu waaru unruin wo tagaraido gɔ le , giru womɔ nɛ , inɛw leei laa , kaa ei tee biyɛdo .
+52003009	~		Kanɛ emɛ e dɛi Amai birɛpoo ɛjii tagu bɛbɛɛdɛin . Emɛ e dɛi giru womɔ nɛ kinɛ ɛɛlu emɛ sɛɛ gɔ puu dɛi woi birɛpoo tagauwɔin .
+54003005	yani		Sabu inɛ ginrun duu unrunmɔ bana gɛliyɛɲu inɛɛ gɔ , kɔɔ baŋa yani Ama inɛw mɔɔnu gɔi gɛli bɛɛdo ?
+54006007a	~		Sabu emɛ aduna nɛ wɛɛu , kijɛ turu kanran le wɛɛnɛ , 
+54006007b	~		iyaa waaru aduna nɛ emɛ gooido , kijɛ turu kanran le yaaidenɛ .
+58001005	aa		Mɛlɛnkɛ aa bɛrɛ Ama ɔn gin ’ sɔwaatɛli : “ Ui Aini mai , iye mu ui narun . ” Maa , “ Mu wo bai biyɛdɔn , wo Aini mai biyɛdo . ”
+58001013	aa		Mɛlɛnkɛ aa bɛrɛ Ama ɔn gin ’ sɔwaatɛli : “ Jaŋuw uwɔ gɔbe gɔnrɔn ye kubɔ uwɔ doɲu nɛ yai mu kunɔido baa , uwɔ numɔ iin ma sibɛ nɛ wɛɛ dɛinyɛn . ”
+58001014	~		Kɔɔ biyaai ye , titiyaanw gɔbe puu , kikinu Ama dɛi birɛbirɛnwin . Yayabu gɔ inɛw bɛɛidɛin gɔbei bara ga bei tiyaaɲu .
+58002003	yani		emɛ yayabu diyɛ ɔn lugolu kanraanɲu ye , yani ɛli bɛɛdɛin ? Inɛw Baŋa kuu womɔ le wo laa yayabu kɔɔ sɔɔ wo tagaa inɛw ɛgin gɔbe , sɔɔ gɔ narain ga emɛ bɛrɛ yinjugɔmi .
+58002006a	kijɛ ingei		Kaa inɛ turu Ama Dɔn yalu turu nɛ sɛɛrɛ ɔn gowaa gi : “ Inɛ , kijɛ ingei bai , Ama , u woi ajubadou ? 
+58002006b	kijɛ ingei		Adama ii kijɛ ingei bai , woi kajubadou ?
+58003016	aabei		Inɛw Ama mii ɛgaabɛin , kaa murutu kanrin gɔbe aabei ? Inɛw Mɔise bei teeremaa , Ejipute gana nɛ goin gɔbe puu bei laa ma ?
+58003017	aabe		Anranguju pɛnai , Ama , inɛw aabe le kinɛbanrun le bee ? Inɛw hakɛ kanraan olusolo nɛ numaa yayinwin gɔbei laa ma ?
+58003018	aabe		Iyaa Ama jɛbiyaa , inɛw aabe deeliye be dɛi unrun boju gɔ nɛ asuu yooidenɛ gi ? Inɛw sɔɔ womɔ yabalu kanranw gɔbei laa ma ?
+58006004	~		Inɛw Ama wijɛ gɔ kubɔ turu biyaa , alagala sin obu gɔ nɛwaan , Kikinu Pilu biyaa , Ama sɔɔ ɛjii wɔɔ ga jugaa , aduna wɛɛido gɔnrɔn gɔ nɛwaan , pilemaa numaa oju nɛ gowaain gɔbe , be pilemaa Ama Aini gɔi baga jai nɛ pɛgɛu , inɛw wooi giru nɛ dɔgɔ wo bɛrɛ tagarauwɔin . Kɔɔ sabu dɛi bei pilemɛ ye waja ajubuduli nɛ jɛɛlu bɛɛmɔɔlɛ .
+58007011	inge dɛi		Isɛrɛlu unrunw bɛrɛ Tɔɔru obin gɔ , duu womɔ Lewi tɔgu inɛw sadaga dɔɔnu birɛ sɔɔ kuu nɛ daan . Sadaga dɔɔnu birɛ sɔɔ wogɔ , kijɛ kibaai bee ye , Aarɔn mɔ gin ’ pajati ye , Mɛlukisedɛku mɔ gin ’ Ama bɛrɛ sadagadɔɔnɔnɛ waja daana ga inge dɛi waajibi bii ?
+58009014	~		Kɔɔ kunrin wɔɔ ye , Kirisito ili gɔ kɔɔ dɛi sigɛ gɔnrɔn sɛɛ . Wo Ama Kikinu asuu wɔɔ gɔ le digɛu kuu unrunmɔ Ama bɛrɛ sadaga lɔgɔ taralai obu . Ili womɔ kinɛjugɔ emɛ nɛ birɛ niwɛn sɛlɛ gɔbe ɛjɛmɔ ye , emaa Ama ɔnmɔi wɔɔ gɔ dɛi birɛ birɛ ga kakanrando .
+58010001	~		Yahutunw tɔɔru gɔ , kijɛ nanaa gɔbe bana sɛɛu tagaraalɛ . Kaa kijɛ ɛju wɛɛido gɔ kikinɛi sai . Kɔɔ sabu dɛi , sadaga tutunmɔ deeliye sɛlɛ go pipilemu anranguju puu goonɔɲu gɔbe le digɛnu , tɔɔru kɔɔ Ama giru nɛ inɛw dɔɔnw gɔbei asuu kibemu bɛɛlɛ .
+58010029a	yani		Nɛɛ , Ama Aini gɔi kubɔ le inɛ namanu galaido gɔ , aaru ili , kole woi hakɛ nɛ ɛjɛmaabɛin gɔ kijɛ yamalai inɛ bojoido gɔ , iyaa Ama Kikinu , nɛɛma wo bɛrɛ obu gɔi inɛ duyɔido gɔ mɔ yani biyɛdo ? 
+58010029b	yagɔ		Tujɔ wo le jaan gɔ , yagɔ baŋa mɔ dɛi sigɛ le mɔɲu biyɛun jaan ga e ajubaalɛi ma ?
+58010029c	~		
+58010029d	~		
+58011032	inge		Mu nɛɛ inge sɔi baradɔn ? Sabu Jedeyɔn ma , Baraku ma , Samusɔn ma , Jɛpute ma , Dawide ma , Samuɛlu ma , inɛw Ama titiyaanw gɔbe ma sɔɔ sɔɔdɔn gun ye , wogɔ waaru bɛɛidolɔn .
+58012007	~		Ɔɲɛ gɔ kɔi logi gin ’ muyɔin , sabu Ama , unrunw womɔi gin ’ ei aa gɛlɛ . Ii wo ba kɔi logi bɛɛlɛ yɔɔ ma ?
+58012009	~		Emɛ aduna ɔn nɛ banw yasin , be emi kɔwaabɛin dɛi emɛ bei babaabɛin . Kɔɔ biyaai ye , emaa ɔnmɔi biyɛ ga , kɔɔ dɛi sigɛ emɛ Ba alagala nɛ wɔɔ gɔ le emɛ tubiyeun jaan .
+58012025	yani		Wogɔ digɛu , kuu ebe kajubai . E le sɔɔ sɔɔjɛ baŋa sɔɔ gɔ pogonɔugi . Sabu aduna nɛ , Ama tinwinrun be bɛrɛ oboube sɔɔ inɛw yabanɛ gɔbe , jarugu duiyi nɛ ɛliyɛnɛ . Nɛɛ , alagala nɛ wɔu , emɛ bɛrɛ tinwinrun obojɛ baŋa gɔ , emɛ wo le onu dulaatin ye , emɛ yani ɛliyɛdɛin ?
+58013006	inge		Kodigɛu , emɛ anrangaju le “ Inɛw Baŋa Ama mui baranɛi , mu liyɛidolɔn . Inɛ mu bɛrɛ inge kanrun bɛɛdo ma ? ” gɛɛ bɛbɛɛɲu .
+59002006	~		Kaa , e kai , dɔgɔpaganw gɔbei gailiyɛmɔuwɔi . Inɛw ei ɔɲɔmɔw gɔbe , inɛw ei saliyɛ kiru yalu nɛ paŋa le jɛyaanw gɔbe , ɔgɔ unrunw gɔbe bei laa ma ?
+59002014	ingei		Ba unrunw mabe , inɛ turu unrun gagawu yasɛ gɛɛjɛ , kaa birɛ womɔ le wogɔ tagaraalɛ ye , wogɔ niwɛn ingei sɛɛ ? Gagawu womɔ kɔɔ gin ’ woi yabu bɛbɛɛdo ma ?
+59002016a	~		kɔɔ gin ’ logoro ebe nɛ turu baŋa bemaa , « Jamu le biyɛi , Ama kaali ebe goo , Ama pana ebe tɔɔ » aŋa le sai giyaajɛ ye , e inɛw kɔɔbe bɛrɛ kijɛ kai bemɛ kilɛido oboolɛi ye , 
+59002016b	inge		wogɔ be bɛrɛ inge niwɛin sɛɛ ?
+59002018	~		Kaa , inɛ turu ɔn gin ’ sɔwaajɛ ye : « U gagawu yasɛu , mu kai birɛ gɔbe yasɔn . Birɛ wɔlɔ go gagawu uwɔ yani bii bɛɛjɛ ma mu bɛrɛ tagara , kɔɔ waaru le mu gagawu ma , birɛ le u bɛrɛ tatagaradɔn .
+59002021	~		Emɛ tirɛ ainɛ Abarahamu , waaru aini womɔ Isakai sadagadumu gɔ nɛ Ama bɛrɛ sadaga gin ’ wo obu le , birɛ womɔ sabu dɛi , Ama woi inɛ teitai wɔɔi ga lugaabe .
+59003013	~		Logoro ebe nɛ inɛ hakilɛ lee , jugɔ lee sɛɛ yato ma ? Aiwa , inɛ wogɔ baŋa wo hakilɛ lee , sasai lee yasɛ ga bana ɛju womɔ le jugɔmɔ . Iyaa , kijɛ wo kanranjɛ puu kuu sunugu lee hakilɛ lee le kanranjɛ ga jugɔmɔ .
+59003017	~		Kaa , hakilɛ daa go goo ye wɛɛjɛ gɔ , wogɔ laa gɔ ɛjaa wɔɔ . Kɔɔ onu nɛ woi jamu hakilɛi , kaali wɔɔ , inɛ le ɛjii wɔɔ , amasɔgɔjugɔ le jowaa wɔɔ , sɔɔ ɛju tɔgu dɛin dɛin kanrannɛi , inɛi kabu kunɔɔlɛ , aŋa lɛilɛi sɛlɛ .
+59004001a	inge		Logoro ebe nɛ kɔmɔ lee , jai lee , inge ingelemɔjɛ ma ? Dadaaru mɔɲu waaru puu goju ebe nɛ jaiyɛuwɔ gɔbe birɛi laa ma ?
+59004001b	~		
+59004012	aai		Tɔɔru daananɛ gɔ lee , saliyɛkirenɛ gɔ lee , Ama turu sai . Yabanɛ gɔ lee , susuiyomɔnɛ gɔ lee , Ama turu sai . Nɛɛ u , inɛ waja saliyɛ kirenɛ gɔ , ui aai ?
+59004014	yagɔ		E , yogo kijɛ biyɛido inɛw inin gɔbe ! Sabu kinruntaun ebe yagɔ baa wɔɔ ma ? Kukumɔ , waaru gaila le iyemaajɛ ye , kɔɔ onu nɛ ɔgu giru emɛ nɛ manayaajɛ gɔ , ei wogɔ le murin wɔɔ .
+60002020	~		Mɔɲu e kanrun dɛi ei lagaaɲu ye , e wogɔ muyaanjɛi giye wogɔ dɛi ei sɔmɔ ga wɔi ma ? Kaa ɛju e kanrun dɛi ei ɔɲɔmaaɲu ye , e wogɔ muyaanjɛi ye , Ama giru nɛ wogɔ sɔɔ ɛjui .
+60003013	inɛ aa		Ɛju kanrun dɛi e saii mainiyɛunwɔi ye , inɛ aa e bɛrɛ mɔɲu kakanrando ma ?
+60004017	yagɔ		Sabu saliyɛ kiru tɔlɔgu gɔ dɔwaai . Ama ginrun gonɔ maranw gɔbe saliyɛ laa kiredɛin . Nɛɛ , saliyɛ kiru gɔ kuu emɛ nɛ laa tɔlɔdo ye , inɛw Ama bɛrɛ Kibɛru Ɛju goi gɔ le yabanɛ gɔbe le bana yagɔ le dogodo ?
+60004018	yani		Ama Dɔn bana sɔɔjɛ gin ’ : “ Inɛw teitai gɔbe yaba ga nawin wɔɔ ye , inɛw Amai babanɛ , hakɛ kanranw gɔbe mɔ yani biyɛdo ? ”
+61003004	yago		kijɛ be gɛɛido : “ Wo wɛwɛɛdo ga pui kunaabe woi laa ma ? Aiwa ! Wo yago wɔɔ ? Emɛ babe yinwaan galaain , kaa aduna maŋi nɛ iye wɛɛ dɔɔ , kijɛ wooi bana be bee gin ’ wɔin . ”
+61003011	inge		Kijɛ puu kɔɔ gin ’ tɔtɔɔnrinyɛndo digɛu , e kuu ebe le inɛw inge tunmɔi biyɛun jaan ? Ama bai aduna saliyɛ kirɛido waaru e dɔmɔ gɔ le , iyaa bai wogɔ ɔgu dɔɔ dɛi waaru e mainiyɛnjɛ , ei Ama dɛi waaru wooi inɛw dɛiin bojaaɲui biyɛun jaain wɔɔ , waaru wooi Ama giri liyɛwin e biyɛun jaain wɔɔ . Bai wogɔ dɔwaai ye , alagalabe yaun tɛgɛ ye dodogodo . Kijɛ puu yaun bije uju gɔ dɛi tɔtɔɔnrinyɛndo .
+62002022	aai		Nɛɛ , kakalu maŋanɛ gɔ aai ? Ama Yabanɛ Diyɛ tii gɔ Yesui laa , inɛ gɛɛnɛ gɔi laa ma ? Inɛ kɔɔbaŋa Kirisito jaŋunɛ gɔ woi . Wo , Ba Ama le yabalu . Aini womɔ Yesu le yaa yabalu .
+62003012	~		Kɔɔ sabu dɛi , emɛ Kayɛn gin ’ biyɛmɔnɔugin . Wo Mɔɲu kuu baŋa inɛi bee , iyaa , wo suŋɔrɔin daabe . Birɛ womɔ ɛjula bee dɛi , wo , wo suŋɔrɔn dai . Kaa , wo suŋɔrɔn birɛ gɔ teitai bee .
+62003017	~		Inɛ ɔgɔinɛ turu , wo bainɛ , kai turu le wɔɔ ga iyaa , kinɛ unrunmɔ ɛɛnnaa , amasɔgɔ womɔ jugɔlu ye , inɛ kɔɔbaŋa , Ama ihibɛ wo nɛ yato ma ?
+62004020	~		Inɛ turu , unrun Amai ibɛɛ wɔɔ gɛɛnu , wo bainɛi ibiliyaa wɔɔ ye , inɛ kɔɔ kakalu maŋanɛi . Wo bainɛ , giri womɔ le wo iyejɛ gɔi ibɛla ye , inɛ kɔɔbaŋa , Ama iyeelɛ wo wɔɔ gɔ , ibɛi bii bɛɛlɛ .
+62005005	~		Naran go , Yesu Ama Aini ga , inɛ gawaa wɔɔ gɔi laa ye , aduna ɔn kuu nɛ inɛ gɔnrɔn bɛɛjɛ wɔlɔ .
+66005002	aa		Mu mɛlɛnkɛ gɔnrɔn sɛɛ turu , mii ɛɛn le ɔn gin ’ sɔɔu wo wɔu iyaabɔn : « Sɛɛrɛ gɔbe taruluti ye , dɔn gɔ pinɛlɛ ga aa le dagaa ? »
+66006010a	waaru yagɔ baa		Be mii diyɛ le ɔn gin ’ gin : « Inɛw Baŋa ɛjaa wɔɔ baŋa gɔ , naran baŋa gɔ , u waaru yagɔ baa dɔmi ye , saliyɛ kiru ye , minɛ nɛ inɛw wɔin kuu nɛ emi dain duguru goodou ? »
+66006010b	~		
+66006017	Inɛ aa		Sabu kinɛbanrun bemɛ bai diyɛ gɔ wiyaai . Inɛ aa wogɔ tari bɛɛjɛ ? »
+66007013a	aabei		Inɛw naw gɔbe logoro nɛ turu baŋa mu le sɔwaa gi : « Arugoi pilu kunaa kowɔin gɔbe aabei ? 
+66007013b	yago		Be yago gowaa wɛin ? »
+66013004a	yago		Olunawan demɛrɛn gɔ , olunawan gɔ bɛrɛ paŋa wo obu dɛi , be olunawan demɛrɛn gɔi demɛniyɛnmaabɛin . Be iyaa olunawan gɔi demɛniyɛnmaa ɔn gin ’ gɛɛubɛin : « Olunawan gɔ le murin wɔɔ baŋa gɔ yago wɔɔ ? 
+66013004b	aa		Aa wo le jaiyi bɛɛjɛ ? »
+66015004a	inɛ aa		Inɛw Baŋa , inɛ aa ui liyɛɛlɛ , boi uwɔ sɔmɔɔlɛ wɔɔ ? Sabu u turu sai ɛjaa wɔɔ . Gana gɔbe wooi wɛi ye , giru uwɔ nɛ ui dedemɛniyɛnmɔdɛin . Sabu birɛ teitai uwɔ gɔbe iyemaajɛ . »
+66015004b	~		
+66017007	inge dɛi		Kɔɔ gin ’ wo biyaa , mɛlɛnkɛ gɔ mu le sɔwaa gi : « Inge dɛi ui maunɛ kanranmɔuwɔu ? Mu yaanran gɔ lee , olunawan woi duiyaa , kuu sɔi , kɛlɛ pɛlu sɛɛ gɔ lee , sɔɔ boŋurun bemɛ u bɛrɛ tatagadɔn .
+66018018	~		woi tɛgurin kukumɔ gɔ iyaa ye , kijɛ be gɛɛido : ‘ Ana diyɛ ɔn le ana tunwɔnɲu wɔlɔ . ’

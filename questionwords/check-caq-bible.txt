@@ -1,0 +1,743 @@
+40002002	isuh		“ Isuh Ap töfötnyu Rāchakūö Yahūti ? Tön meuk ngam taneūsömat Ò in , lā chuhöt ; ngaich yihtöre öi salāman . ”
+40002004	~		Hamūlhöti angaaṅ töyik mākūö kūönṙô yik kamūich inrē mii yik tarik ; ngaich hatönö cha , tö chūök finötnyö Kristū .
+40003007	achīö		Ngaich hē Yôhan nö meuk yik tömaṙôngö aṅ i yik Feresī , aṅ i yik Satuki inrē , nö yihtöre nö hòṅ vōkö ; ngaich ngö ṙô angaaṅ tö cha , “ Yīö kūön pēch ; achīö ap hamôten yīö falgöre , tö ngam yamih lanīnö ?
+40005013	isuh		“ Yīö yin sāl ngih panam ; yē ngam sāl pöri nö chuhu kumchik , isuh lökten öng min nö haṙeihu ? Öt hēngö kanôlò an ; höng tökavāli pöri , nö elkahôiṙen , ngaich rööntukui tö tarik .
+40005046	asuh		Yē yīö öi höng hāngenlōn tö yip töhāngenlōn tö yīö , asuh öp öre raneushö yīö ? Röh aich vē mahamūl ṙāi kinëhet chehen nö ngatī ?
+40005047	asuh		Yē yīö höng salām hol re , asuh ap tömööḵngöre tī yīö tö tahëng ? Röh aich vē tahëng mihëṅṙö tarik nö ngatī ?
+40006027	achīö		Röh öi yīö mööḵlö tö u ? Achīö ap öre pumṙūta , tökô nö ṙūötö rôòtö nômöre ?
+40006028	Pòyòh		Pòyòh öi yīö piṙūtkö hilā ? Ngëichkö në pūl elkahôyö sitih sanīöpö ön . Öt maharëtnyöelmatre nun ; öt rēhĕn nö kumpāt .
+40006031a	asuh		Lökten yin , ui piṙūta öi ngö ṙô , Asuh ap min òk hī ? 
+40006031b	~		
+40006031c	asuh		Hēk , Asuh ap min hilā hī ? ’
+40007003	Kūöyòh		Kūöyòh öm meeṅ ngëichkö pinṙōnghötmat ngam holre ; ngaich röö pöri meeṅ meuk ngam chōn elmatre ?
+40007004	sitih		Hēk , sitih kanôòṅ öm ngö ṙô tö ngam holre , ‘ Hökngen chu kēḵngö ngam pinṙōnghöt mat meh ; ngaich öm töaṅhaṅv el mat tö chōn ?
+40007009	achīö		Achīö ap öre tö yīö , yē ngam kūön ò nö havëkö ròtī ; ngaich kēĕkūö ò angaaṅ tö ihong ?
+40007016a	~		Lökten i laen cha yin min akahalōn tö cha . Kôòren aich vē tarik nö hamūl angkūr , nö i ṙòng nup töchökhukūö ? 
+40007016b	~		Hēk , kôòren hòng nö hamūl anchīr , nö i ṙòng nup vòk ?
+40008026	Kūöyòh		Ngaich ngö ṙô Angaaṅ tö cha , “ Kūöyòh öi paekūö , Ō yīö tökūöṅnö mikah ? ” Choholre Angaaṅ , ngaich vëkö ngam kuföt , ngam mai inrē ; ngaich kalūöng takô .
+40008027	Tösitih		Ngaich yik tarik nö pingangkūö ; ngaich ngö ṙô . “ Tösitih ang ngòh tarik , tö ngam kuföt , ngam mai inrē , nö uroh nö hang chöngö Ò ? ”
+40008029	asuh		Ngaich hūḵa chaa nö ngö ṙô , “ Asuh ap lōn Meh in ai ? Meeṅ kūön ngam Tēv , Yih Öm ihih öthakôlò ai , urēhĕkūö ngam ṙētak ? ”
+40009004	~		Ngaich Yēsū nö akahalōn tö lōn cha ; ngaich ngö ṙô ,
+40009005	öp yòh öp		Öp yòh öp tölööṙen nö ṙô , ‘ Aṙēlöngö nup tökööl meh nö ngaich ; ngih ṙöng , ‘ Choholre ; kirööngöre ?
+40009011	Kūöyòh		Ngaich hē yik Feresī nö meūkö e , ngö ṙô chaa ngaich , tö yik haköptö Ò , “ Kūöyòh Ang ngam mahaköpten yīö nö nyā nö holtö mahamūl ṙāi kinëhöt chehen , tököölö fālen inrē ?
+40009014	Kūöyòh		Yihtöre nö in Ò yik haköptö Yôhan ; ngaich ngö ṙô , “ Kūöyòh öi īhö , tö yip Feresi , ṙöpen ahik ; höng öt ahik pöri më haköptö Meh ?
+40009015	~		Ngaich ngö ṙô Yēsū tö cha , “ Kôòren aich vē hol ngam töhapīhö nö haṙivlōn , isaha ò nö in cha ? Yih nup min sakāmö , hē ngam töhapīhö nö kēĕyö nö ṙāang in cha ; ngaich möl chaa min nö ahik .
+40010025	iṙôkhöl		Ngaīchö tölngö ön ngòh mahaköp , yĕn höng sā ngam mahaköptöre ; ngatī inrē ngòh mahalanṙen , yĕn höng sā ngam yöngṙenre . Yē cha nö Pĕelsipūl ngö ṙô tö ngam töpatīivö ; iṙôkhöl ṙô yip öre tö yip aṅ ngam patī .
+40011007	Asuh		Ngaich hē cha nö ngaich ; kaknyöre ngaich Yēsū nö i yik tömaṙôngö tö inlahen Yôhan , nö ngöṙô “ Asuh ök hatīönkö yīö elinchōn , öi kiröönngöre ? Tafūyu ökuh , tökalöka tökūö kuföt ?
+40011008	Asuh		Asuh ṙöng ök hatīönkö yīö öi kiröönngöre ? Tarik tö hilātö tötanyīka ? Yĕh meuk , vē tötanyīka hilā , nö iyöng el patī rācha .
+40011009	Asuh		Asuh pöri lökten yīö kiröönngöre ? Hatīönkö pròfĕt ? Hôṅ ; ngö ṙô Chin tö yīö , mööḵlö tö pròfĕt .
+40011016	yòh		Sā yòh tī Öichvöh min , asātö ngih tūmö ? Sā yip nyīö an , amūichhaka nö elpanam , yip mahavëkö holre ; nö ngö ṙô . 
+40012011	Chīöp		Ngaich ngö ṙô Angaaṅ tö cha , “ Chīöp öre tarik in yīö tö hĕng nòng pököre , öp töt kamëḵ an , tūöklen ò inrē , yē ò nö suktöre nö el mak , hē el töhet sakāmö ?
+40012026	siti		Yē ngam Sātān nö ahōngö Sātān , harēvöre ngaich , nö lāalre : ngaich siti kanôòṅ nö köp ngam pūlngö ò ?
+40012027	chīö		Yē Chu lökten Pĕelsipūl ahōngö sīö , lökten chīö tī yip kūön yīö nö ahōngö sīö ? Lökten yip min nö chaa , kamhòkken yīö .
+40012029	siti		Hēk , siti kanôòṅ ang ngòh töhĕng tak nö kuhēthötre nö el patī öp tökalēk tarik , nö kēḵ nup chehen ò , yē ò nö öt urĕh nö nyëk ngam tökalēk , Ngaich möl angaaṅ nö kēḵ nup aṅ patī ò .
+40012034	siti		Yīö kūön pēch ! Siti kanôòṅ öi löökö ṙô , yē yīö tötlöök ? Pòn i ṙôken nup aṅ ellōn , ngam elvāng nö ṙôòv .
+40012048a	Achīö		Ngö ṙô pöri Angaaṅ nö sapṙô ök vameeny nangre , Achīö ap Yöng Chu kikānö , yip kahëm Chu inrē ?
+40012048b	~		
+40013010	Kūöyòh		Yihtöre ngaich yik mahaköp , ngaich ngö ṙô tö Ò Kūöyòh Öm inchōḵovṙô veekūö cha ?
+40013027	yih		Ngaich yik mahalanṙen ngam töpanôòṅvö , nö yihtöre , nö ngö ṙô , Mā ; röh Öm teūichtö tölöök kulöl el ngam panôòṅre ? Ṙamaang yih ön në aṅ e pökeh , tötkôlò chōn ?
+40013054a	yih		Ngaich yihtöre nö ik panamre ; ngaich haköpten cha Angaaṅ , nö el chūök vineeṅkūötēv cha . Ngaich chaa nö pingangkūö ; ngaich ngö ṙô , Aṅ yih öng ngih mikah ngòh tarik ? 
+40013054b	~		Ngam minhôiṅyö inrē laen ?
+40013056	yih		Röh yip kanānö Ò nö ṙòkhöre nö in hī ? Aṅ yih ön në nö ṙòkhöre ing tarik ? ” Ngaich chaa nö sōḵ nö hang ṙô Ò .
+40014031	Kūö yòh		Mā ; hayööken chu . Iṙūö hateutnyö këlre Yēsū ngaich ngö ṙô tö ò . Ō meeṅ tökūöṅnen mikah ; kūö yòh öm katöngalōn ?
+40015002	Kūö yòh		Kūö yòh aich më haköptö Meh nö öt haköp nup falngen yik mā misī ? Pò cha nö öt söich eltīre yē cha nö nyā .
+40015003	Kūö yòh		Ngaich ngö ṙô Angaaṅ nö sapṙô cha , Kūö yòh öi yīö inrē öt haköp ngam chöngö ngam Tēv , kūö nup fālen yīö ?
+40015033	isuh		Ngaich ngö ṙô yik maköp tö Ò , Isuh öi min ngati ṙôken ròtī ihih elichōn öi hatööḵngen töngati ṙôngö tarik ?
+40015034	am		Ngaich ngö ṙô Yēsū tö cha , Am nup ròtī in yīö ? Ngaich ngö ṙô chaa , Sat ; harohtum nòng kun kāḵ inrē .
+40016008	kūö yòh		Ngaich akahalōn Yēsū tö e , ngaich ngö ṙô , Ō yīö tökūöṅnen mikah ; kūö yòh öi veekūöre , pò yīö öt īnu tö ròti ?
+40016009	ām		Öl öi akahalōn , öt rēhĕn hòng köpölōn tö nuk tö taneui ròtī , i yik tötaneui köṅny ; ngaich ām kumvôkö chahap yīö ?
+40016010a	~		Öt rēhĕn tö nuk tö sat ròtī , i yik tö fën köṅny , 
+40016010b	ām		ngaich ām kumvôkö chahap yīö ?
+40016011	Sitih		Sitih öyih öt akahalōn tö Chu öt ṙô tö ṙôtī in yīö , Haṙēmngenre pöri , tö ngam töaföhlöng i yip Feresī , Satukī inrē .
+40016013	Achīö		Hē Yēsū nö yihtöre nö i kūöngö Kaisarī Filip , ngaich hatön yik haköptöre . Angaaṅ nö ngö ṙô , Achīö Öich Chuö , Kūön Tarik , tö ṙô vē tarik ?
+40016015a	~		Ngö ṙô Angaaṅ töcha , 
+40016015b	Achīö		Achīö Öich Chūö , tö ṙô yīö ?
+40016026a	asuh		Asuh öp öre kanôlò ngòh tarik , yē ò nö teūngen töng panam , ngaich öt teūngen tö nômöre ? 
+40016026b	asuh		Hēk , asuh öp öre tī ngòh tarik , nö ṙënngen ngam nômö ò ?
+40017010	Sitih		Ngaich hatönan yik haköptö Ò , nö ngö ṙô , Sitih öp Ēlaicha nö mūurĕhtö yihih , tö ṙô yip kamūich ?
+40017017a	I rôòten		Ngaich ngö ṙô Ang Yēsū , Ō tötakaha , töminôṙô tūmö ; i rôòten Öich min in yīó ? 
+40017017b	I rôòtö		I rôòtö manöiyö Öich min in yīö ? Kēten ò ihih , in chu . ”
+40017019	Kūöyòh		Yihtöre ngaich yik mahaköp nö in Yēsū ; ngaich ulāikenre nö ngö ṙô , Kūöyòh öi īhö öt kô ahōngen ò ?
+40017025a	sitih		Ngaich ngö ṙô angaaṅ , Hôṅ . Chalô angaaṅ nö el patī ; ngaich urĕhnyô Yēsū nö veekūö ò , nö ngö ṙô , Sitih lōn öm meeṅ , Sīmōn . 
+40017025b	chīö		In chīö aich vē rāchakūö panam nö kēḵ ṙāi kinëhöt chehen , ṙāi tum tak inrē ? I yip kūönre ? i yip tahëng ṙöng ?
+40018001	Achīö		Hē e , yik mahaköp nö yihtöre nö in Yēsū , ngaich ngö ṙô , Achīö öp töpōyö nö im pūlngö ngam halīöngö ?
+40018012	Sitih		Sitih lōn öi yīö ? Yē öp tarik töhēngòng pököre , ngaich hĕng hang nòng tö u öp tö lōongkūö ; röh ang nö ṙāngö nup tömachūötör anāi machūötör ngaich chuh kui rôngö , nö chöh ngam tö lōongkūö ?
+40018021	ām heuh		Yihtöre ang Pītör nö in Yēsū , ngaich ngö ṙô tö Ò , Mā ; ām heuh öp hol chu öre , nö köölö fālen nö in chu , ngaich aṙēlen ò chuö ? Tölngö tösat heuh hòng ?
+40019007	Kūö yòh		Ngaich ngö ṙô chaa tö Ò , Kūö yòh ök pöri Môsös nö hōtö kinūichngö ṙināngö , ngaich ṙāaiyö ngam kikānö ?
+40019016	asuh		Ngaich hĕng tak ök yamihtöre nö in Yēsū , tö ngö ṙô , Mahaköphöti ; asuh ap tölöök laen chu , hòṅ chu nômuvö tö ngam tö örheūheu aṅ ?
+40019017	Kūöyòh		Ngaich ngö ṙô Angaaṅ tö ò . Kūöyòh öm hatönö Chu , tö inlahen tölöök ? Humëng taka Ap tölöök . Yē meh pöri hòṅ kuhēthötre im nômö , haköp në man yēḵ chöngö .
+40019018	nup yòh		Ngaich ngö ṙô angaaṅ , Nup yòh ? Ngaich ngö ṙô Yēsū , Um fël tarik ; um asĕhha ; um ulāiyö ; um sūöicha ;
+40019020	Asuh		Ngaich ngö ṙô ök ṙāl tarik tö Ò , Ngaich chin haköpö u nö ṙòkhöre . Asuh ap tö öltöre nö in chu ?
+40019025	Achīö		Hē yik mahaköp nö hāngö e ; ngaich chaa nö pōiyen pinngangkūö , nö ngö ṙô Achīö öp pökeh tökô nö hayöökaṙen ?
+40019027	Asuh		Ngaich Pītör nö ngö ṙô tö Ò , Yĕh meuk ; ṙòkhöre ṙahāngö in īhö , ngaich tömrit Meh . Asuh papkeh min taneūngen ih ?
+40020006	Kūöyòh		Im tö taneui köṅny ṙô angaaṅ nö kiröönngöre nö hēk ; ngaich kôtökūö tö yik tahëng taka , nöng sökhaka . Ngaich ngö ṙô angaaṅ tö cha , Kūöyòh öi yīö höng sökhaka ihih , hĕng sumkam , höng öt laevṙen ?
+40020012	~		Höng humeng köṅny ṙô rôòten yin vē nö laevṙen ; ngaich nö haṙongtu nö in ih , tö meh , īhö töhĕng sumkam laevṙen , öi el ngam tavūöi .
+40020021	Asuh		Ngaich ngö ṙô Angaaṅ tö ò , Asuh ap lōn meh ? Ngaich ngö ṙô angaaṅ tö Ò , Chöngu Man yēḵ hòṅ nā kūön chu nö ūichhaka , hĕng tarik lahāmö Meh , hĕng taka latavē meh inrē , nö im pūlngö meh .
+40020032	Asuh		Sökngöre ngaich Yēsū ; ngaich havëten cha ; ngaich ngö ṙô , Asuh ap lōn nā , laen Chu in nāṅ ?
+40021010	Achīö		Ngaich hē Ò nö yih nö i Yerūsalem , hĕng pumnāmö ngaich ngam panam nö taṙōllöngṙen ; ngaich ngö ṙô . Achīö ang ngòh ?
+40021016	~		Ngaich ngö ṙô tö Ò , Hang ṙô vē nyīö , Ömeh ? Ngaich ngö ṙô Yēsū tö cha , Hôṅ ; öt veekūö ngih öi yīö , Löknyö elvāng tëṅnö , nööinyö man tö töteung .
+40021020	Sitih		Ngaich hēk yik mahaköp nö meūkan ; ngaich pingangkūö chaa ; ngaich ngö ṙô , Sitih ang ngam anychīr chōn nö iṙūö nyangngö ?
+40021023a	asuh		Ngaich hē Ò nö kuhēthötre nö el ök töhet chūök ; ngaich yik mākūö kūönṙô , tö yik mākūö yik tarik inrē , nö yihtöre nö in Ò , hē Ò nö haköphöti ; ngaich ngö ṙô , Asuh ap chöngö Meh , laevṙen tö në ? 
+40021023b	Achīö		Achīö ap kamëḵeṅkūö Meh tö chöngö ?
+40021025a	yih		Aṅ yih ök vinôkö tī Yôhan ? Aṅ el halīöngö ? Aṅ i tarik ṙöng ? ” Ngaich chaa nö veekūöre , nö ngö ṙô , Yē hī ngö ṙô , Aṅ el halīöngö ; 
+40021025b	~		ngaich ngö ṙô min angaaṅ tö hī , 
+40021025c	Kūöyòh		Kūöyòh pöri öi öt ṙātö ellōnre in Ò ?
+40021028	Sitih		Sitih lōn öi yīö ? Hĕng taka ök tarik tö nët tak kūön tö kikōnyö . Yihtöre angaaṅ nö ik maṙöinylö , ngaich ngö ṙô , Kakūönö ; kuṙòh , laevṙen man töngamuh el öp panôòṅ vāin .
+40021031	öp yòh öp		Öp yòh öp tö mināṅ tö nët tak töteūngen tö lōn ngam yöng ? Ngaich ngö ṙô chaa , Ngam maṙöinylö . Ngaich ngö ṙô Yēsū tö cha , Tökôò ṙô Chin tö yīö , tö vē mahamūl ṙāi kinëhöt chehen , vē tötkôlò kikānö inrē , nö urĕh tö yīö , nö kuhēthötre nö im pūlngö ngam Tēv .
+40021040	Sitih		Sitih tī öp min tö panôòṅvö tö yip yōm panôòṅ , yē öp hē ò nö yih .
+40022012	sitih		Ngaich ngö ṙô angaaṅ tö ò , Kahōlö ; sitih lökta öm meeṅ ihih , öm öt hīlā tö hilā yamih nö im inpīhö ?
+40022017	Sitih		Veeny nang ih Man , lökten , Sitih lōn Ömeh ? Töhuveū ön ngam kinëeṅkūö Kaisör , tö ṙāi ṙētö tarik ? Röö ṙöng ?
+40022018	Kūöyòh		Akahalōn pöri Yēsū tö ötlanöökö cha ; ngaich ngö ṙô , Kūöyòh öi kalaha Chu , yīö mahanyatkö elmat ?
+40022020a	chīö		Ngaich ngö ṙô Angaaṅ tö cha , Insāa chīö öng ngih ? 
+40022020b	~		Ngam kinūichö inrē ?
+40022028	chīö		Lökten , ip invanlö tökapah min , pīhö chīö ök min tö më tö sat tak ; tön ṙòkhöre chaa nö pīhövö tö ò ?
+40022036	ap yòh		Mahaköphöti ; ap yòh ap töpōyö chöngö i në chöngö ?
+40022042a	sitih		Sitih lōn öi yīö tö Kristū ? 
+40022042b	chīö		Kūön chīö Angah ? Ngaich ngö ṙô chaa tö Ò , Kūön Tāvit .
+40022043	Sitih		Ngaich ngö ṙô Angaaṅ tö cha , Sitih pöri Tāvit nö ngö ṙô , nö hachōḵnyu ṙô töm Töhet Fanöinylö ; Mā , nö ngö tö Ò ;
+40022045	sitih		Yē Tāvit nö Mā ngö tö Ò , sitih Ang nö kūön ò ?
+40023017	öp yòh öp		Yīö tötakaha , tötmeuk inrē ; öp yòh öp töpōyö ? Ngam humlum ? Ngam töhet chūök ṙöng , ngam maahetlö ngam humlum ?
+40023019	öp yòh öp		Yīö tötmeuk ; öp yòh öp töpōyö ? Ngam tökētu ? Ngam tahāklö ṙöng , ngam maahetlö ngam tökētu ?
+40023033	sitih		Yīö pēch , kūön sāṙen ; sitih lökten öi min öt kôòngvah el ngam chūök ötinkôlò ?
+40024003a	ĕhē		Ngaich hē Ò nö ūichngöre , nö i kui ap Rôngö Òliv ; ngaich ulāikenre yik mahaköp nö yihtöre nö in Ò , ngaich ngö ṙô . Veeny nang ih Man , ĕhē ön min anuö ? 
+40024003b	asuh		Asuh öp min inrē minkahngö yanihih Meh , öp manāngen ngih panam inrē ?
+40024045	Achīö		Achīö öp öre tökôen , töakaha inrē , mahalanṙen , öp mahayōm nup aṅ patī öp yöngṙenre , ngaich haaṅlen cha ip ṙētak ?
+40025037	ĕhē		Ngaich ngö ṙô min yip tölöök , nö sap ṙô Ò , Mā ; ĕhē öi īhö meūkö Meh kapahare , ngaich haaṅlen Meh ; hēk haṙëhe nômö , ngaich kētö òk Meh ?
+40025038	ĕhē		Ĕhē öi īhö meūkö Meh ötlööṙu yih , ngaich hachūöklen Meh ; hēk öt hilāṙu , ngaich kafānö Meh ?
+40025039	ĕhē		Ĕhē öi īhö meūkö Meh vahavö , hēk el kinlōngö , ngaich yihken Meh ?
+40025044	ĕhē		Ngaich ngö Ṙô min chaa nö sap ṙô Ò , Mā ĕhē öi īhö meūkö Meh kapahare , haṙëhe nômö , öt lööṙu yih , öt hilāṙu , vahavö , el kinlōngö inrē , ngaich röö öi meukṙen Meh ?
+40026008	Kūö yòh		Hē yik mahaköp pöri nö meūkö e , ngaich kunyahaṅlōn chaa , nö ngö ṙô , Kūö yòh ön nö mëchi ?
+40026010	Kūöyòh		Akahalōn pöri Yēsū tö e ; ngaich ngö ṙô ; Kūöyòh öi uyëken ngam kikānö ? Tö ò nö tö löökö tī nö in Chu .
+40026015	I ṙôken		Ngaich ngö ṙô , I ṙôken tī öyih , kēĕkūö chu , hòṅ chu kēten Ò in yīö ? Ngaich chaa nö kalah lumngan tö lūöi anāi rupīö , ngaich kēĕkūö ò .
+40026017	isuh		Im ranehtökūö sakāmö ngam tötaföhlöng ròtī , ngaich yihtöre yik mahaköp nö in Yēsū ; nö ngö ṙô , Isuh lōn Ömeh , tö ih halēnken Meh nyā ngih paska ?
+40026040	Sitih		Yihtöre Angaaṅ nö i yik mahaköp , ngaich kôtökūö tö cha nö haṙòh , ngaich ngö ṙô Angaaṅ tö Pītör , Sitih , öt kô öi hĕng köṅnyṙô rôòten aṅhaṅti hol Chu ?
+40026050	~		Ngaich ngö ṙô Yēsū tö ò , Hol Chu ; kētöre man ngaich , töp löktöröönö meh yih . Ngaich yihtöre chaa , ngaich kētötīre nö in Yēsū , ngaich kēḵ An .
+40026054	Sitih		Sitih kinheūṅtngö ṙô ṙöng öng min ngam töhet līpöre , tö e nö töhòṅ ngatī ?
+40026062a	~		Ngaich ök mākūö kūönṙô nö söklöre , ngaich ngö ṙô tö Ò , Höng öt ṙôòvö Ömeh ? 
+40026062b	asuh		Asuh ön në ṙô vē vamënyö fālen Meh ?
+40026065	Iṙôktöre		Ngaich tikaichngö hilāre ök mākūö kūön ṙô ; nö ngö ṙô , Öt lēkôre Ana , Iṙôktöre lōn öi , tö vamëeny ? Yĕh meuk ; hang ngam ötlinëkô yin ngaich , 
+40026066	Sitih		Sitih lōn öyih ? Ngaich ngö ṙô chaa , Tö hòṅ kapah An .
+40026068	Achīö		Veeny nang ih Man , Meeṅ Kristū , Achīö ap famôhò Meh .
+40027004	asuh		Ngö ṙô pöri chaa , Asuh öng angūö nö in ih ? Kahngenre man meeṅ tö e .
+40027013	ṙôken		Ngaich ngö ṙô ang Pailĕt tö Ò , Hang ṙôken ṙô cha Ömeh , nö vënyö fālen Meh ?
+40027017	Achīö		Ngaich hē cha nö hamūlöre , ngaich ngö ṙô Pailĕt tö cha , Achīö ap lōn yīö ṙahānyö chu ? Pārapas ? Yēsū ṙöng ngam tö Kristū invëka ?
+40027021	Öpyòh öp		Ngaich ngö ṙô ök mahayöng tö cha , Öpyòh öp lōn yīö tö nā tö nët taka , ṙahānyö chu in yīö ? Pārapas , ngö chaa .
+40027022	Sitih		Ngaich ngö ṙô Pailĕt tö cha , Sitih tī öich min tö Yēsū , ngòh tö Kristū invëka ? Ngaich ṙòkhöre ṙô chaa , nö ngö ṙô , Harāten Ò .
+40027023a	Kūö yòh		Ngaich ngö ṙô Angaaṅ , Kūö yòh ? 
+40027023b	aush		Asuh ap tötlöök laen Ò ? Höng iṙuhö ṙô chaa , nö hūḵa , nö ngö ṙô , Harāten Ò .
+40027046	Kūön yòh		Ngaich im tö lūöi köṅny ṙô , Yēsū nö pōitô nö hūḵa nö ngö ṙô Ēli ; Ēli lama sapaktani , ngam tö ngö , Tēv Chu , Tēv Chu , Kūön yòh Öm ṙāngen Chu ?
+41001024	Asuh		Nö ngö ṙô , Asuh Öm Meeṅ in ih , Meeṅ Yēsū aṅ Nāsaret ? Yih Ömeh Öm öthakôlò ih ? Akahakūö chin tö meh ; töhet Man aṅ im Tēv .
+41001027	Asuh		Ṙòkhöre chaa ngaich nö uṙeh ; ngaich hatönöre , nö ngö ṙô . Asuh öng anguö ? Tufömngöre inköphöti ! Holtö chöngö An nö tölṙô më tötlöök sīö ; ngaich hang ṙô Ò chaa .
+41002007a	Kūöyòh		Nö ngö , Kūöyòh Ang ngòh tarik nö ngatī ṙô ? Ötlēkôre An . 
+41002007b	Achīö		Achīö öp tökô nö aṙēĕl tökööl , höng humĕng tak , ngam Tēv ?
+41002008	Kūöyòh		Iṙūö akahalōn Yēsū tö cha nöng ellōnhanga nö inre ; ngaich ngö ṙô tö cha , Kūöyòh öi höng ellōnhanga tö u ?
+41002009	yòh		Ngam yòh öng tölööṙen ṙô i ngam tölum , Aṙēlöng nup tökööl meh nö ngaich ? Ane ṙöng , Choholre ; kēḵ ngam chamanre , kiröönngöre ?
+41002016	Sitih		Ngaich hē yik kamūich , yik Feresī inrē , nö meūkan nö nyā nö hol yik tököölö fālen , mahamūl ṙāi kinëhet chehen inrē ; ngö ṙô chaa tö yik haköptö Ò , Sitih Ang nö nyā , òk inrē , nö holkūö mahamūl ṙāi kinëhet chehen , tököölö fālen inrē ?
+41002018	Kūöyòh		Ahik yik haköptö Yôhan , yik Feresī inrē . Ngaich yīhiv Angaaṅ tö yik töngö ṙô , Kūöyòh yip haköptö Yôhan , haköptö yip Feresī inrē , nö ahik ; ngaich röö më haköptö Meh nö ahik ?
+41002019	~		Ngaich Yēsū nö ngö ṙô tö cha , Kôòren aich vē hol ngam töhapihö nö ahik , yē ò nö ṙòngmö in cha ? Yē ò nö ṙòngmö ngöh nö in cha , öt kô chaa nöahik .
+41002024	kūöyòh		Ngaich ngö ṙô yik Feresī tö Ò , Yĕh meuk ; kūöyòh aich nö laevṙen tö ngam tötkô nö laen hē el töhet sakāmö ?
+41003004	~		Ngaich ngö ṙô Angaaṅ tö cha , Töhuveūen önguh ngam tölöök laen , el töhet sakāmö , ngam tötlöök ṙöng ? Inyööken nômö , finëlngö ṙöng ? Ngaich pöri chaa nöng öt ṙôòv .
+41003023	Sitih		Ngaich havëten cha Angaaṅ nö in Ò ngaich ngö ṙô tö cha , nö inchōḵovṙô , Sitih kanôòṅ ang ngam Sātān nö ahōngö Sātān ?
+41003033a	Achīö		Ngaich ngö ṙô Angaaṅ nö sap ṙô cha , Achīö öp yöng Chu kikānö , 
+41003033b	~		yip mëm Chu inrē .
+41004013	Sitih		Ngaich ngö ṙô Angaaṅ tö cha , Öt akahalōn öi tö ngih inchōḵoṙô ? Sitih mikahlōn öi min tö në inchōḵoṙô nö ṙòkhöre ?
+41004030a	sitih		Ngaich ngö ṙô Angaaṅ . Sitih tī öi min asātö ngam pūlngö ngam Tēv ? 
+41004030b	asuh		Asuh öp min inchōḵoṙô hī tö e ?
+41004038	~		Ngaich Angaaṅ nöng lārit nöng haṙòh nö el tinnyik ; ngaich kilanglen Ò chaa , nö ngö ṙô ; Mahaköphöti ; öt chumkūöṙen Öm tö hī ötkôlò ?
+41004040a	Kūöyòh		Ngaich ngö ṙô Angaaṅ tö cha , Kūöyòh öi ngatī pinheeṅkūö ? 
+41004040b	~		Öl öi mikahavö ?
+41004041	Achīö		Ngaich chaa nö pōi pinheeṅkūö ; ngaich ngö ṙô tö höö , Achīö Ang min ngòh , tö uroh nö hāngö chöngö tö kuföt , mai inrē ?
+41005007	Sitih		Ngaich pōitô nö hūḵa , nö ngö ṙô , Sitih öich chuö in Meh , Yēsū , Meeṅ Kūön ngam Tēv lātulöng ? Im Tēv ṙô Chin veekūö Meh , Uh chin öthakôlöngṙô tö Meh .
+41005009	Achīö		Ngaich hatönan Angaaṅ nö ngö ṙô , Achīö ap mineeny meh ? Ngaich ngö ṙô angaaṅ , Līkiön , öp mineeny chu ; pò ih maṙôngö .
+41005030	Achīö		Akahaiṙen Ang Yēsū nö in re , töp kanôòṅ Ò nö kēkaṙen ; havöötökūöre Angaaṅ ngaich nö i yik tömaṙôngö ; ngaich ngö ṙô . Achīö ap lamūölkö hilā Chu ?
+41005031	Achīö		Ngaich yik haköptö Ò nö ngö ṙô , Meuk më tömaṙôngö Man , nö singngen Meh , ngaich Öm ngö ṙô , Achīö ap lamūölken Chu ?
+41005035	Kūöyòh		Ngaich hē Ò nö ṙònghöich ṙô nö ṙôòvö , yihtöre ngaich yik ṙamāang patī ök yöngṙen chūök vineeṅkūötēv , ngaich ngö ṙô , Kapah ap kūön meh nö ngaich . Kūöyòh öm iṙuöhen öm haṙeikö ngam Mahaköphöti ?
+41005039a	asuh		Ngaich hē Ò nö kuhēthötre , ngö ṙô ngaich Angaaṅ , Asuh öng ngam tinṙōlen yīö , pineūinyö inrē ? Höng haṙòh an ngam nyīö ; röö an nö kapah .
+41005039b	~		
+41006002a	yih		Chalô ngaich ngam töhet sakāmö , ngaich haköphöti Angaaṅ nö el chūök vineeṅkūötēv . Ngaich maṙôngö yik töpingangkūö , hamang ; ngö ṙô chaa , Aṅ yih ön në i ngòh tarik ? 
+41006002b	asuh		Asuh öng ngam mikah , tö kētu nö in Ò ? 
+41006002c	~		Në töngati minhôiṅyö inrē laen , kahëken Ò ?
+41006022	~		Ngaich hē ök kūön Hērôti kikānö nö kuhēthötre nö kiṙīöm ; ngaich ṙāmölōn ang Hērôt , tötī ò , yik holkūö ò inrē nö nyā . Ngaich ngö ṙô ngam rācha tö ngam nyīö kikānö , Veekūö chu man yēḵ , tö töng lōnre . Ngaich kēĕkūö meh chuö min tö e .
+41006024	Asuh		Ngaich kunyiinyre angaaṅ , ngaich ngö ṙô tök yöngre kikānö , Asuh ap min havëkö chu ? Ngaich ngö ṙô angaaṅ , Ap kui Yôhan ap vamôk .
+41006037	~		Ngö ṙô pöri Yēsū tö cha , Kētö nyaaṅkūö cha yin yīö . Ngaich ngö ṙô chaa tö Ò , Kôòṙen öi kiröönngöre , öi havah nyaaṅkūö cha , tö tö nëtòng ṙāi tö rupīö ; hòṅ ih haaṅlen cha .
+41006038	~		Ngaich ngö ṙô Angaaṅ tö cha , Kuṙòh , ngëcha yin āṅmö aṅ in öi tö ròtī ? Ngaich ngö ṙô chaa , hē cha nö ngaich nö akahalōn , Taneui ; nët nòng kāḵ inrē .
+41007005	Kūöyòh		Ngaich yik Feresī , tö yik kamūich inrē , nö hatönan , nö ngö ṙô , Kūöyòh aich më haköptö Meh nö öt lök i falngen yik mā misī ; ngaich pöri nöng nyaaṅvkūö , nöng ötlöökö eltī ?
+41008004	Aṅyih		Ngaich ngö ṙô yik haköptö Ò , Aṅyih kanôòṅ öi min hatööḵngen vē tarik tö nyaaṅkūö , öi elinchōn ihih ?
+41008005	~		Ngaich hatönö cha Angaaṅ , nö ngö ṙô , Āṅmö aṅin öi yīö tö ròtī ? Ngaich ngö ṙô chaa , Sat .
+41008012	Kūöyòh		Uhômlöre ngaich Angaaṅ , ngaich ngö ṙô , Kūöyòh öng ngih tūmö nö hòṅ chöh minkahngö ? Tökôòṙô Chin tö yīö , Öt kēĕvkūö ön ngih tūmö tö minkahngö .
+41008017	Kūöyòh		Akahalōn Ang Yēsū tö e , ngaich ngö ṙô tö cha , Kūöyòh öi veekūöre , pò yīö öt īnu tö ròtī ? Öl öi meuk , öt rēhĕn öi akahalōn ? Höng ngëḵengre nup ellōn yīö ?
+41008018a	yih		Mātu yin yih , ngaich öt meuk hòng ? 
+41008018b	yih		Elnāngu yin yih , ngaich öt hang hòng ? Öt köpölōn hòng yīö inrē ?
+41008019	ām		Hē chu fòk nuk tö taneui ròtī nyāaṅ yik tö taneui köṅny , ngaich ām kumvôkö nuk linreūkö nö chāpö tö yīö ? Ngaich ngö ṙô chaa tö Ò , Nët sīön .
+41008020	ām		Ngaich hē nuk tö sat , nö nyāaṅ yik tö fën köṅny , ām kumvôkö nuk linreūkö chahap yīö ? Ngaich ngö ṙô chaa tö Ò , Sat .
+41008021	~		Ngaich ngö ṙô Angaaṅ tö cha , Höng öl öi akahalōn ?
+41008023	~		Ngaich sarōk kël öt tötmeuk Angaaṅ ; ngaich kēḵnyen ò nö lauk ök tuhēt , Keuheūthëṙen Angaaṅ nö köshöt elmat ò , ṙātö eltīre nö in ò ; ngaich hatönan , nö ngö ṙô , Maheūṅku öm ngaich ?
+41008027	achīö		Kiröönngöre ngaich Yēsū tö yik haköptö Ò inrē , nö kuhēt nö i nup tuhēt i Kaisarī Filip . Ngaich el talöökö Angaaṅ nö hatön yik haköptöre , nö ngö ṙô Achīö Öich Chuö , tö ṙô tarik ?
+41008029a	~		Ngaich hatönö cha Angaaṅ , nö ngö ṙô , 
+41008029b	Achīö		Achīö Öich Chuö , tö ṙô yīö ? Ngaich sap ṙô Ò Pītör nö ngö ṙô . Meeṅ Man Kristū .
+41008036	asuh		Asuh öp öre kanôlò ngòh tarik , ngòh tö teūngen töng panam , ngaich löhöltī pöri tö nômöre ?
+41008037	asuh		Asuh öp öre , ṙāitī ngòh tarik tö nômöre ?
+41009010	~		Ngaich haköpngö ngam ṙô chaa ; hatönöre tö manah ngam chinôhòlre nö ṙāang yip tökapah .
+41009011	sitih		Ngaich hatönan chaa , nö ngö ṙô , Sitih yip kamūich nö ngö ṙô , tö Ēlaicha nö muurĕh tö yihih ?
+41009012	sitih		Ngaich ngö ṙô Angaaṅ tö cha , Kô ap Ēlaicha nö urĕh tö yihih , ngaich halēn taṙòkhöre . Ngaich Sitih kinūichngö ngòh Kūön Tarik , tö Ò nö ötkôn röö nö pōiyen kanihngen , sōḵovö inrē ?
+41009016	asuh		Ngaich hatön yik kamūich Angaaṅ , nö ngö ṙô , Asuh ap ṙô yīö , veekūö cha ?
+41009019a	Irôòten		Ngaich ngö ṙô Angaaṅ tö cha , Ō yīö tötakaha tūmö ; irôòten Öich min in yīö ? 
+41009019b	Irôòtö		Irôòtö manööyö Öich min in yīö ? Kēten ò in Chu .
+41009021	I ṙôòtenng		Ngaich hatön ök yöng ò Yēsū , nö ngö ṙô , I ṙôòten ang nö ngaich tök hētö yanihih e nö in ò ? Ngaich ngö ṙô angaaṅ , Hētentö ò nö ṙòngmö nyīö .
+41009028	Kūöyòh		Ngaich hē Ò nö yòhlö nö el patī . Ngaich yik haköptö Ò nö ulāikôre nö hatönan , nö ngö ṙô , Kūöyòh öi ihö öt kô ahōngen ò ?
+41009033	asuh		Chalô chaa ngaich nö i Kafarnahum . Ngaich hē Ò nö yòhlö nö el patī , ngaich hatönö cha Angaaṅ , nö ngö ṙô , Asuh ök ṙô yīö taheui veekūöre , eltalöökö ?
+41009050	Sitih		Tölöök ön ngih sāl . Yē e pöri nö öt ngöhöre inṙeihu , Sitih tī öi min kumchiklö e ? Sālu in yin yēḵ ; ngaich kö kuchīken in höö .
+41010003	Sitih		Ngaich ngö ṙô Angaaṅ , nö sap ṙô cha , Sitih chöngö ök Môsös tö yīö ?
+41010017	asuh		Ngaich hē Ò nö iṙuhöröön nö kiröönngöre , ngaich hĕng tak ök umuh famaltöre nö in Ò ; ngaich simngöre nö veekūö Ò , nö ngö ṙô , Tölöök Mahaköphöti ; asuh ap min laen chu , hòṅ chu amīnuvö tö ngam nômö tö örheūheuaṅ ?
+41010018	Kūöyòh		Ngaich ngö ṙô Yēsū tö ò , Kūöyòh Öich tölöök , tö ṙô meh ? Öt hĕng tak tölöök , höng humeng , ngam Tēv .
+41010026	Achīö		Ngaich pōyen pinngangkūö chaa ; ngaich ngö ṙô tö Ò , Achīö öp pökeh tökô nö hayöökaṙen ?
+41010036	asuh		Ngaich angaaṅ nö ngöṙô tö cha , Asuh ap lōn nāṅ kahëkö kaha chu ?
+41010051	Asuh		Ngaich Yēsū nö ngö ṙô tö ò , Asuh ap lōn meh , laen Chu in meh ? Ngaich ngö ṙô ök tötmeuk tarik tö Ò , Rappōni ; hòṅ meuk chin .
+41011003	Kūöyòh		Ngaich yĕn hĕng tak min tö ngö ṙô tö nāṅ , Kūöyòh an ngatī ? Ngö ṙô panchö , Hòṅ īnu öp Mā tö ò ; ngaich ilööṙen min angaaṅ nö tīnten ò nö ihih .
+41011005	Kūöyòh		Ngaich yik töng sökhak nö ngö ṙô tö cha , Kūöyòh an luhlö ngam kūön köttö ?
+41011028a	asuh		Ngaich ngö ṙô chaa tö Ò , Asuh ap chöngö Meh , laevṙen tö në ? 
+41011028b	Achīö		Achīö ap kamëḵeṅkūö Meh tö chöngö , Öm laevṙen tö u ?
+41011030	~		Ök vinôkö tī Yôhan , aṅ el halīöngö ök ? Aṅ i tarik ṙöng ? Sapṙô Chu .
+41011031a	~		Ngaich veekūöre chaa , nö ngö ṙô , Yē hī min ngö ṙô , Aṅ el halīöngö ; 
+41011031b	Kūöyòh		ngaich ngö ṙô min Angaaṅ , Kūöyòh pöri öi öt ṙātö ellōnre in ò ?
+41012009	sitih		Sitih tī ap min töpanôòṅvö ? Yih ap min nö fëlngö yip yōm panôòṅ ; ngaich kēḵngö ngam panôòṅ i yip tahëng .
+41012015	Kūöyòh		Akahalōn pöri Angaaṅ tö ngam innyatkö elmat in cha ; ngaich ngö ṙô tö cha , Kūöyòh öi kalaha Chu ? Hĕng hata tāk yin , kētö rupīö ; hòṅ Chu meūkö e .
+41012016a	chīö		Ngaich kētö e chaa . Ngaich ngö ṙô Angaaṅ tö cha , Insāa chīö öng ngih ? 
+41012016b	~		Ngam kinūchö inrē ? Ngaich ngö ṙô chaa tö Ò , Insāa Kaisöör .
+41012023	chīö		Ip invanlö tökapah min , pīhö chīö ang min tö cha ? Tön satre taka chaa nö pīhövö tö ò .
+41012028	Öpyòh öp		Ngaich hĕng tak ök aṅ i yik kamūich yamihtöre , ngaich hang ṙô cha nö veekūöre . Ngaich akahalōn inrē tö Ò nö huveūeu ṙô nö sapṙô cha ; hatönan ngaich angaaṅ , nö ngö ṙô , Öpyòh öp raneh i në chöngö nö ṙòkhöre ?
+41012035	Sitih		Ngaich ngö ṙô Ang Yēsū , hē Ò nö haköphöti nö el ök töhet chūök , Sitih Ang Kristū nö Kūön Tāvit , tö ṙô yip kamūich ?
+41012037	aṅyih		Yē Tāvit nö Mā ngö , nö havëken Ò , aṅyih Ang nö Kūön ò ? Ngaich yik tömaṙôngö nö ṙāmölōn nö hang ṙô Ò .
+41013004a	ĕhē		Veeny nang ih Man , ĕhē ön min anūö ? 
+41013004b	asuh		Asuh ap min minkahngö hē u nö sölta ?
+41014004	Asuh		Rēvre yik umuhtö ngö ṙô tö höö , nö i kumnyahlōnre , Asuh ap minëchngö ngam tötahūsa ?
+41014006	kūöyòh		Ngaich ngö ṙô Yēsū , Hökngen ò ; kūöyòh öi vëken ò ? Tölöökö laen an nö in Chu .
+41014012	isuh		Im raneh sakāmö ngam Tötaföhlöng Ròtī , hē cha nö fëlngö ngam Paska , ngaich ngö ṙô yik haköptö Ò , Isuh lōn Öm tö ih halēna , hòṅ Meh nyā ngih paska ?
+41014014	isuh		Yē öp töng chūök ò patī , nö kuhēthötre ; ngaich ngö ṙô nāaṅ töp töpatīivö , Ngö ṙô ap Mahaköphöti , Isuh ap lööṙö yamih urôhò , chūök Chu nyā ngih paska , holtö vē haköptöre .
+41014060a	~		Söklöre ngaich ök mākūö kūönṙô nö ellōn ; ngaich hatönö Yēsū , nö ngö ṙô , Öt ṙahônyu Ömeh ? 
+41014060b	asuh		Asuh ön në ṙô vē tö Meh ?
+41014063	Iṙôktöre		Ngaich ök mākūö kūönṙô nö tikaichngö ök aṅ ël inyutre ; ngaich ngö ṙô , Iṙôktöre lōn öi tö vameeny ?
+41014064	sitih		Hang ṙô Ò yin ngaich , nö öt lēḵkôre . Sitih lōn öi ? Ngaich ṙòkhöre ṙô chaa tö Ò , nö tö hòṅ kumpaha .
+41015004	~		Ngaich hēk Pailĕt nö hatönan , nö ngö ṙô Öt sahāpu Ömeh ? Yĕh meuk , iṙôken ṙô aich nö veeny fālen Meh .
+41015012	Sitih		Ngaich hēk Pailĕt nö ngö ṙô tö cha , Sitih tī öich pökeh , tö ngòh Rāchakūö Yahūti , tö ṙô yīö ?
+41015014a	Kūöyòh		Ngaich Pailĕt nö ngö ṙô tö cha , Kūöyòh ? 
+41015014b	asuh		Asuh ap tötlöök fālen Ò ? Ṙūönyôre pöri chaa nö ngö ṙô , nö hūḵa , Harāten Ò .
+41015034	kūöyòh		Ngaich im tö lūöi köṅny ṙô Yēsū nö pōitô , nö ngö ṙô , Ēli , Ēli , lāma sapaktānī ; ngam tö ngö manah , Tēv Chu , Tēv Chu , kūöyòh Öm ṙāngen Chu ?
+41016003	Achīö		Ngö ṙô chaa tö höö , Achīö öp min pumlönngö ap ihong nö i kūö ap anūlö ?
+42001018	Sitih		Ngaich ngö ṙô Sakariā tö ngam maahānga , Sitih mikahkūö öich min tö e ? Tö chu ngaich öich köiny ngam pihö chu inrē nö sööḵngö tö ṙētöre .
+42001034	Sitih		Ngaich ngö ṙô ang Mariā tö ngam maahānga , Sitih öng min ? tö chu öt akahakūö tö kikōnyö .
+42001043	Sitih		Sitih tal öng min nö in chu , tö ngam yöng ngam Mā chu nö yihtöre nö in chu .
+42001066	Tösitih		Ngān höng ellōnre lōn yik hamāngö u , nö ngö ṙô , Tösitih tal angvöh min ngòh ? Pò ngam eltī ngam Mā Tēv nö i kui ò .
+42002048	pò yòh		Pingangkūö inrē minā yöng Ò tö matre nö meūkan ngö ṙô ök yöng Ò kikānö tö Ò ; Kakūönö , pò yòh Öm ngati tī tö ai . Yĕh meūkö ai , höng haṙīvölōn ai chöhö Meh .
+42002049	Sitih		Ngaich ngö ṙô Angaaṅ tö cha , Sitih an chöhö Chu ? Röh an akahalōn tö Chu mii laen ngam Yöng re ?
+42003007	achīö		Lökten ò nö ṙô tö yik tömaṙôngö tarik chamuh in ò , Yīö kūön pēch , achīö ap hamôten yīö hatūingöre tö ngam lanīnö yamih ?
+42003010	Sitih		Ngaich ngö ṙô më tömaṙôngö tarik tö ò , Sitih inlaha öi pökeh ?
+42003012	sitih		Ngaich yihtöre nö in ò inrē yik mahamūl ṙāi kinehet chehen , nö hòṅ vōkö ; ngaich ngö ṙô chaa tö ò , Mahaköphöti ; sitih inlaha öi pökeh ?
+42003014a	~		
+42003014b	sitih		Sitih inlaha öi pökeh ihö ? Ngö ṙô yik kumyung tö ò ; ngaich ngö ṙô angaaṅ tö cha , Ui chökhuṙen tö tarik ; ui rēhĕn kahëev öi ötlöknyu chööḵnyi , höng ngāichölōn tö nup töng raneushöre .
+42004034	Sitih		Eh ! Sitih fālen öi min ihö , in Meh ; Meeṅ Yēsū aṅ Nāsaret ? Yamih Öm fëlngen ih ? Akahakūö chin tö Meh , Töhet Man aṅ im Tēv .
+42004036	tösitih		Pingangkūö ngaich më taṙòkhöre , ngaich ngö ṙô chaa tö höö , tösitih öng ngih ṙô , tö Ò nö holtö chöngöre nö tölṙô më tötlöök sīö , ngaich kunyīinyre chaa .
+42005021a	Achīö		Ngaich yik kamūich , yik Feresī in re , nö ngö ṙô nö inrē , Achīö ang ngòh tötmilēḵṙô tö ngam Tēv ? 
+42005021b	Achīö		Achīö ap tökô nö aṙēĕl tökööl , höng humeng taka An , ngam Tēv ?
+42005022	asuh		Akahtöheichlōn pöri ang Yēsū , tö lōn cha , ngaich ngö ṙô nö sapṙô cha , Asuh ap ellōn yīö öp lōn ?
+42005023	yòh		 Ngam yòh öng tölööṙen nö ṙô ? Aṙēlöngö nuk tökööl meh nö ngaich , ane ṙöng , Choholre man kiröönngöre ?
+42005030	Kūö yòh		Ngaich yik Feresī , yik kamūich inrē , nö vahëkuvö nö i yik mahaköp nö in Ò , nö ngö ṙô , Kūö yòh öi yīö nyā , òk inrē , öi holkūö mahamūl ṙāi kinëhöt chehen , tököölö fālen inrē ?
+42005033	~		Ngaich ngö ṙô chaa tö Ò , Ṙöpen yip mahaköp nö in Yôhan nö ahik , veekūötēv inrē ; ngatī inrē yip mahaköp nö i yip Feresī . Ngaich pöri më mahaköp nö in Meh , nöng nyā hĕnghöre òk inrē .
+42005034	~		Ngaich ngö ṙô Yēsū tö cha Kòòren öi tīivö tö më hamòl ngam töhapihö nö ahik , yē ò nö ṙòngmöng in cha ?
+42006002	pò yòh		Ngaich rēvre yik töngö ṙô Feresī , Pò yòh öi yīö ngatī , yĕn tötkô nö laen vö hē el töhet sakāmö ?
+42006009	~		Ngaich ngö ṙô Yēsū tö cha , Hatönö yīö Chin . Kôòren öi laevṙen tö tölöök hē el töhet sakāmö , tötlöök ṙöng ? Inyööken nômö , ane ṙöng ötinkôlò e ?
+42006032	asuh		Yē yīö öi hāngenlōn tö yip töhāngenlōn tö yīö , asuh ap öre ineūeuṅ yīö ? Ngatī yin vē tököölö fālen nö hāngenlōn tö yip töhāngenlōn tö cha .
+42006033	Asuh		Yē yīö öi hakôlò yip tökôlòtī tö yīö . Asuh ap öre ineūeuṅ yīö ? Ngatī yin vē tököölö fālen inrē .
+42006034	asuh		Yē yīö öi haṙūönghökūö yip chūök yīö öi teūngen , tö lōnre ; asuh ap öre ineūeuṅ yīö ? Ngatī yin vē tököölö fālen nö haṙūönghökūö tököölö fālen , ngaich sā ṙôken nup töhaṙūöngö taneūngen nö hēk .
+42006039	~		Ngaich hĕng ök inchōḵoṙô Ò tö cha ; Kôòren aich vē tötmeuk nö hachōkūö vē tötmeuk ? Röh aich öre nö nëtre taka nö suktöre nö el vëlö ?
+42006041	Pò yòh		Pò yòh öm meeṅ ngëichkö chōnmat ngam holre . Ngaich pöri öm öt meuk ngam yöng chōn el matre meeṅ ?
+42006042	sitih		Hēk sitih kanôòṅ öm öre , öm ngö ṙô töm holre . Hol chu : hökngö tī chu man , kēḵngö ngam chōnmat meh ; yē meh öm öt meuk ngam tökiröng chōnmatre ? Mahanyatköelmat man , urĕh man , kēḵngö ngam tökiröng chōn el matre ; hòṅ meh löökö mat , yē meh kēḵngö ngam chōnmat ngam holre .
+42006046	pò yòh		Pò yòh öi , Mā , Mā ngö ṙô öi havëken Chu ; ngaich röö öi laevṙen tö nup ṙô Chu ?
+42007024	Asuh		Chuhhë nak tötīntuvö tö Yôhan ; ngaich ngö ṙô Ò tö Yôhan , nö i më tömaṙôngö , Asuh ök maheuṅk yīö , öi chuh elinchōn ? Tafūyö ökuh tökalöka tö kūö kuföt ?
+42007025	Asuh		Asuh ṙöng ök maheuṅk yīö ? Tarik ṙöng ökuh , nö töhilātö tötanyīka ? Yĕh meuk yin , tö vē tölöökö hilā , ane inrē tökôlòṙen , nö iyöng i patī rācha .
+42007026	Asuh		Asuh ök pöri maheuṅk yīö ? Pròfĕt ṙöng ? Hòṅ ; ngö ṙô Chin tö yīö , mööḵlö ṙôkö ap tö pròfĕt .
+42007031a	sitih		Sitih inlahen tī Öichvö min asā tö vē tarik mii ngih tūmö ? 
+42007031b	yòh		Sā yòh aichvö ?
+42007042	ap yòh ap		Ngaich hē cha nö öt kahëtuvö , ngaich nëtre taka chaa nö aṙēlöngö tö ò . Ap yòh ap öre tö cha ap tömööḵlö hanāngenlōn tö ò ?
+42007049	Achīö		Ngaich yik hamòlkūö Ò nö nyā , nö ngö ṙô nö in re , Achīö ang ngòh tö uroh nö aṙēĕl tökööl ?
+42008025a	isuh		Ngaich ngö ṙô Angaaṅ tö cha , Isuh ap mikah yīö ? Paekūö ngaich chaa , hĕnghöre pingangkūö ; 
+42008025b	Achīö		ngaich ngö ṙô chaa tö höö , Achīö angvö ngòh tamölṙô ngam kuföt , ngam mai inrē ngaich hāngö ṙô .
+42008028	Sitih		Höng meuktöre angaaṅ tö Yēsū , ngaich hūḵa , ane inrē afukngöre nö i kūö Ò , ngaich pōitô nö ngö ṙô , Sitih falngen öich min in Meh , Yēsū , Meeṅ kūön ngam Tēv Lamātulöng . Veekūö Meh chin , uh chin hakihtuṙen .
+42008030	Achīö		Hatönan ang Yēsū , nö ngö ṙô , Achīö ap mineeny meh ? Ngaich ngö ṙô ò . Līkiön chin ; pòn maṙôngö yik sīö nö in ò .
+42008045	Achīö		Ngaich ngö ṙô Yēsū , Achīö ap lamūölken Chu ? Ngaich ṙòkhöre nöng rööv ṙô , ngaich ngö ṙô Pītör , yik hamòl ò inrē , Mahaköphöti ; sīngi Man tö vē tömaṙôngö , ane inrē kirāchi .
+42009009a	Achīö		Ngaich töngö ṙô Hērôt röki likeun ök Yôhan tö chu . Achīö angvö ngòh , 
+42009009b	~		ngam ahang inlahen chu tö töngatī . Ngaich hòṅ meukkūö Ò angaaṅ .
+42009018	Achīö		Ngaich hē Ò nöng hĕng taka nö veekūötēv , hōlu . Angaaṅ tö yik mahaköp , ngaich hatönö cha Angaaṅ nö ngö ṙô , Achīö öich kan , tö ṙô vē tömaṙôngö ?
+42009020a	~		Ngaich ngö ṙô Angaaṅ tö cha , 
+42009020b	Achīö		Achīö öich rih Chuö tö ṙô yīö ? Ngaich ang Pītör nö sapṙô Ò nö ngö ṙô , Kristū ngam Tēv Man .
+42009025	asuh		Asuh ap öre kanôlò ngòh tarik , yē ò nö teūngen töng taṙòkhöre panam ; ngaich pöri nö ötteūngen tö nômöre , nö ötinkôlò ?
+42009041a	I rôòten		Ngaich sapṙô ò Yēsū nö ngö ṙô , Ō tötmikahavö tūmö tövāchökuö ; i rôòten Öich min holtöṙah yīö ? 
+42009041b	I rôòten		I rôòten manöiyö Öich min in yīö ? Kētö ngam kūönre man ihih .
+42010025	Asuh		Hĕng taka ök mahaköptö ngam chöngö , samöklöre nö kalah , nö ngö ṙô . Asuh ap min laen chu hòṅ chu amīnuvö tö ngam töörheūheuaṅ nômö ?
+42010026a	asuh		Ngaich ngö ṙô Angaaṅ tö ò , Asuh ap tökūichiyö nö im chöngö ? 
+42010026b	sitih		Sitih ṙô öm veekūö e ?
+42010029	Achīö		Ngaich pöri angaaṅ nö hòṅ halöököre , ngaich ngö ṙô ò tö Yēsū , Achīö ap hol chu ?
+42010036a	~		
+42010036b	ök yòh ök		Ök yòh ök tö më tö lūöi taka , lōn meh , hol ò ök tökööḵlö tö tötūmu .
+42011008	~		Ngö ṙô Chin tö yīö , pòrô angaaṅ nö ötkô nö choholre nö kēĕkūö ò , pò ò nö hol ò ; ngaich pò ò nöng iṙuhöṙô nö havea , ngaich choholre angaaṅ , nö kēĕkūö ò , sā tūmö lōn ò .
+42011011	Achiāp		Achiāp öre tö yīö yīö inyöngö , öp tö havëkakūö tö kūönre tö ròtī , ngaich kēĕkūö ò tö ihong ?
+42011012	~		Hēk yĕn havëkö kāḵ , ngaich angaaṅ nö kēĕkūö ò tö pēch nö ṙënngen ngam kāḵ ? Hēk yē ò nö havëkö uhöö , kôòren ang nö kēĕkūö ò tö tökanaptöritre ?
+42011013	i ṙôkhöltī		Yē yīö yīö yih , töötlanöökuvö , öi akahalōn tö tölöök kahëtöre i më kūön yīö ; i ṙôkhöltī ang öre ngam aṅ el halīöngö Yöng yīö , nö kētö ngam Töhet Fanöinylö nö i yip mahavëa nö in Ò .
+42011018	sitih		Yē ngòh Sātān nöng surīkhöre , sitih höng nganöhö öng ngam pūlngö ò . Pò yīö ṙôòv tö Chu , Öich lökten Pĕelsipūl tī ahōngö sīö .
+42011019	chīö		Yē Chu , lökten Pĕelsipūl tī Öich ahōngö sīö ; lökten in chīö tī yip kūön yīö nö ahōngen cha ? Lökten yip min nö kamhôkken yīö .
+42012014	Achīö		Ngö ṙô pöri Angaaṅ tö ò , Achīö ap vamīlen Chu kamhôṅka ane inrē kamtölhökūö yīö ?
+42012017	Sitih		Ngaich angaaṅ nö chöh ellōnre nö ngö ṙô , Sitih öich min ? pò chu yih öt chūöku tī öich hachūökngö në ṙòng ?
+42012020	chīö		Ngö ṙô pöri ngam Tēv tö ò . Meeṅ tötakaha , i ngih hatööm ap nômö meh min nö kēĕyö , nö ṙāang in meh . Chehen chīö ön min minë halēnken meh ?
+42012024	~		Yē ngëiṅchkö në chehechōn , töttameūich , ötrēhĕn nö hamūl ; në töt urôhòv chūök nyaaṅkūö , ötrēhĕn nö chūöku tī tö patī ; ngam Tēv pöri mahaaṅhaṅl u . Mööḵlö yin yīö tö në chehechōn .
+42012025	Achīö		Achīö ap öre tö paṙūtalōn tö yīö , öp tö kôòren nö ṙūölö rôta nômöre ?
+42012026	pòyòh		Yē yīö öi ötkô rēhĕn vī tö kūöṅnen , pòyòh öi paṙūtalōn tö nup tahëng ?
+42012042	Achīö		Ngaich ngö ṙô ngam Mā , Achīö ap rih , öp tökôen töakaha inrē yōm chehen , öp töhamālöng tö ngam mā nö i patī ò , nö kameḵeṅkūö cha tö nyaaṅkūö ip hē nyinaaṅ ?
+42012049	sitih		Yamih Chin Öich kavaltö tameūyö i kui ngih panam ; sitih Öich min , yē e nö haehangen nö ökngö ?
+42012056	sitih		Yīö mahanyatköelmat , huveūeu ṙô yin veeny inlahen ngih tumlat , ngam halīöngö inrē ; sitih ṙô öi pökeh öt huveūeu ṙô öi veeny inlahen ngih ṙētak ?
+42012057	Pòyòh		Pòyòh öi yīö kahngenre kahòkken ngam töhuveūen ?
+42013004	~		Hēk yik tö hëvhöre sīön taka töfukkui tök kaha Sīlōm , ngaich kapahakūö tö cha ; kūöre aich chaa nö tömööḵlö höteh tö yip taṙòkhöre tarik miiyöng Yerūsalem , tölōn yīö ?
+42013007	kūöyòh		Ngaich ngö ṙô Ò tö ngam yōm panôòṅ , Yĕh meuk ; lūöi samyeūheu chin ngaich yihtöre chöhkö ṙòng ngòh anychīr ; ngaich öt maheūṅku . Kūölten ò man ; kūöyòh ang inrē nö yëḵngen kūö töng tumlat ?
+42013015	~		Ngö ṙô pöri ngam Mā nö sapṙô ò , Yīö mahanyatköelmat , röh öi yīö luhlö nuā ane inrē köttö hē el töhet sakāmö , öi ṙāang im chūök u , ngaich hachōḵngö u ip chūök u nö òk mak ?
+42013018a	yòh		Lökten Ò nö ngö ṙô , Sā yòh öng ngih pūlngö ngam Tēv ; 
+42013018b	sitih		Sitih tī Öich min asātö e ?
+42013020	sitih		Hēk Angaaṅ nö ngö ṙô , Sitih tī Öich min asātö ngam pūlngö ngam Tēv ?
+42013025	~		Yĕn hĕng heuh ngam töpatīivö nö choholre , nö löptökūö ngam inkūp ; ngaich yīö sökhaka elkahôiṙen öi kuröngkö uk ngam inkūp , öi ngö ṙô , Mā ; löpnyökūö ih . Ngaich ngö ṙô min Angaaṅ nö sapṙô yīö , Öt akahakūö Chin töp ṙahāngö yīö .
+42014005	Achiāp		Ngaich ngö ṙô Angaaṅ tö cha , Achiāp öre tö hĕng nòng köttö , hēk nuā inrē , töp tö suktöre nö el mak ; ngaich röövö nö ilööṙen nö tūöklen ò , hē el töhet sakāmö ?
+42014028	Achīö		Achīö ap öre tö yīö töhòṅ vīlö ihong patī , öp töt urĕh nö ūichngöre , nö kaheuk ṙôken ṙāi , yē ò nö kô nö keuheūtngen e ?
+42014031	achīö		Hēk achīö ap öre rācha , öp kumröönngöre nö kiyung tahëng rācha , öp töt urĕh nö ūichngöre , nö halēnöre yē ò nö kô nö holtö tö söm köṅny kumyung , nö lāal yip yamih tö kahuk michöömö köṅny kumyung .
+42014034	isuh		Tölöök ön ngih sāl ; yē e pöri nö öt ngöhören inṙeihu , isuh ap min kumchik e ?
+42015004	Achīö		Achīö ap öre tö yīö öp tö hēngòng pököre ; ngaich hĕng nòng öp töchatngen ; öp tötṙamāngö nup tömachūötör anāi machūötör nö elinchōn , ngaich chöh ngam töchatngen hanöng saha kanôtökūö ò .
+42015008	achīö		Hēk achīö ap öre kikānö , tö söm tāk rupīö , ngaich hĕng hang tāk öp töchatngen ; öp töt tamôttökūö ëṅāvö ; ngaich fòh ël ngam patī , haṙēmngenre nö chöh , hanöng saha kanôtökūö ò tö e .
+42015026	~		Hĕng tak havëti angaaṅ ngaich tö yik kamūönkūö , ngaich hatönan töp tö taṙōlaṙen .
+42015029	~		Ngaich ngö ṙô ò nö sap ṙô ök yöng re , Yĕh meuk tum samyeūheu chu halanṙen meh ; öthĕngheuh öich öthang chöngö meh . Ngaich meeṅ öthĕngheuh kēĕkūö chu tö kun pököre ; hòṅ chu öre haṙamlōnre holtö holre .
+42016002	Asuh		Haveeti angaaṅ ngaich tö ò ; ngaich ngö ṙô tö ò , Asuh öng ngih ahang chu inlahen meh ? Kētö tūmö nup chehen man ngaich ; tön röö man ngöhören yōm chehen .
+42016003	Sitih		Ngaich ngam yōm chehen nö ngö ṙô nö in re , Sitih öich min ? tö ap yöng chu nö ṙāngen chu hayōm chehen . Öt kumlēḵĕv öich ul ; sirōngkūö inrē öich havëkö nyaaṅkūöre .
+42016005	I ṙôken		Kö kahĕngtak haveeti angaaṅ tö yik tö hötehevö nö ik yöng ò ; ngö ṙô angaaṅ tö ngam muurĕh . I ṙôken höteh öm meeṅ ip yöng chu ?
+42016007	I ṙôken		Ngaich ngö ṙô ò tö ngam tahëng taka , I ṙôken höteh öm meeṅ ? Ngaich ngö ṙô angaaṅ , Hēngòng tūmö kinlaha sāīny . Ngaich ngö ṙô angaaṅ tö ò , Kēḵ ngam chūök tīre man kūich ; hëvhöre anāi kahūich .
+42016011	achīāp		Yē yīö ngaich öt kôen im tömichūṙen kanôlò , achīāp min kamëtö öp tökôen kanôlò nö in yīö ?
+42016012	achīö		Yē yīö öt kôen i në chehen tahëng taka , achīö ap min kameeṅkūö yīö tö nup chehen yīö takô ?
+42017007	Achīö		Achīö ap öre tö yīö , tökūönuvö tö vamī panôòṅ ane inrē amahtö pököre , öp tö ngö ṙô tö ò , yē ò nö yih nö ṙāang el panôòṅ , Taih ilööṙen , ūichngöre nyaaṅvkūö .
+42017017	Isuh		Ngaich ngö ṙô ang Yēsū Röh öi sömre taka öi lööken ? Isuh yip pökeh tömachūötöre taka ?
+42017018	~		Höng öthĕntak hòng mahavan töre nö haöiny ngam Tēv , höng ngòh tahëng tarik .
+42017020	~		Ngaich pò Ò nö hatönö tö yik Feresī , tö hē yanihih ngam pūlngö ngam Tēv ; ngaich Angaaṅ nö sapṙô cha , nö ngö ṙô , Röö an ngam pūlngö ngam Tēv nö yih , nö sā mineūkö e .
+42017037	isuh		Ngaich ngö ṙô chaa nö sap ṙô Ò , Mā ; isuh ? Ngaich ngö ṙô Angaaṅ tö cha , I chūök ngam alaha , in e min nup matēṙö nö hamūlöre .
+42018018	asuh		Ngaich hĕng tak ök mākūö yahūti mahatönan nö ngö ṙô , Tölöök Mahaköphöti ; asuh ap min laen chu , hòṅ chu amīnuvö tö ngam nômö töörheūheuaṅ ?
+42018019	Pò yòh		Ngaich ngö ṙô Yēsū tö ò , Pò yòh öm tölöök ngö ṙô , öm havëken Chu ? Öt tölöökuvö höng humeng ngam Tēv .
+42018026	Achīö		Ngaich ngö ṙô yik hamang , Achīö öp pökeh tökôòren nö hayöökaṙen ?
+42018036	~		Ngaich hang ṙô röön yik tömaṙôngö , ngaich hatöntöre angaaṅ tö e .
+42018041	Asuh		Asuh ap lōn meh , laen chu in meh ? Ngaich ngö ṙô angaaṅ , Mā ; hòṅ meuk chin .
+42019007	~		Ngaich hē cha nö meūkö e , ṙòkhöre chaa nöng in re ṙô , nö ngö ṙô , Ngaich An nö iyöng patī ngam tarik tököölö fālen .
+42019023	Kūöyòh		Kūöyòh ömeh öt kēḵngö ngam rupīö chu nö el chūök rupīö ? Ngaich yih hë chuö , ngaich kôòren öich teūngen tö e , nö holtö ṙāi inṙūöngköre .
+42019031	Kūöyòh		Yē nāṅ hatönö tö tarik , nö ngö ṙô , Kūöyòh ang nö luhlöng tö nāṅ ? Ngö ṙô pancha , Hòṅ īnu ap Mā tö ò .
+42019033	Kūöyòh		Ngaich luhlö ök kūön köttö chaa , ngaich ngö ṙô tö cha yik töchehevṙen , Kūöyòh an luhlö ngam kūön köttö ?
+42020002a	asuh		Ngaich ṙôòv chaa nö ngö ṙô tö Ò , Veenynang ih Man , asuh öp chöngö Meh Öm ngatī ? 
+42020002b	Achīö		Achīö ap kameeṅkūö Meh tö ngih chöngö ?
+42020005a	~		Ngaich chaa nöng in re lōn nö ngö ṙô , Yē hī min ngö ṙô . 
+42020005b	Kūöyòh		Lamöktö el halīöngö ; ngaich ngö ṙô min Angaaṅ , Kūöyòh öi öt ṙātö ellōnre in ò ?
+42020013	Sitih		Ngaich ngö ṙô ngam mā töangkūruvö . Sitih tī öichvö min ? Hòṅ tīnngö ngòh hanāngenlōnre Chin kūönre ; lohten yip min nö milēḵṙen tö ò .
+42020015	sitih		Ahōṙi ngaich angaaṅ tö cha , nö ṙaang el ap panôòṅ ; ngaich fëli . Lökten , sitih tī ap min töpanôòṅvö tö cha ?
+42020017	asuh		Ngaich ngëichken cha angaaṅ , ngaich ngö ṙô , Asuh öng ngih töngö kinūichngö , Ngòh ihong sahōḵo yip mamānö , ngaich angaaṅ nö vīlöngö nö yöngkūö sinkeukngö .
+42020023	~		Ngaich akahalōn Angaaṅ tö huneūeuṅ cha , ngaich ngö ṙô tö cha ,
+42020024a	chīö		Hameukhömat Chu taih tö rupīö . Insāa chīö ? 
+42020024b	chīö		Kinūichö chīö öng ngam in e ? Ngaich ngö ṙô chaa , Kaisöör .
+42020033	chīö		Lökten , hē ap invanlö tökapah , pihö chīö ang min ngam kikānö tö cha ; pò më tö sat tak nö kö pihöv tö ò .
+42020041	Sitih		Ngaich ngö ṙô Angaaṅ tö cha , Sitih ṙô aich tö Kristū nö kūön Tāvit ?
+42020044	sitih		Yē Tāvit nö Māav ṙô tö Ò , sitih Ang nö kūön ò ?
+42021007a	ĕhē		Ngaich chaa nö hatönan nö ngö ṙô , Mahaköphöt ; Ĕhē ön min anūö ? 
+42021007b	asuh		Asuh ap min minkahngö u , yĕn ngaich nö hòṅ yih ?
+42022009	Isuh		Ngaich ngö ṙô chaa tö Ò , Isuh lōn Öm , tö ai halēna .
+42022011	Isuh		Ngaich ngö ṙô panchö töp tarik ap töpatīivö , Ngö ṙô ap Mahaköphöti tö meh , Isuh ap urôhò , ap chūök Chu min Öich nyā ngih paska , Öich holtö vē mahaköp ?
+42022027	Achīö		Achīö ṙöng ap töpōyö ngam amūichhak nö nyā , ngam mameukṙen ò ṙöng ? Röh ang nö ngam amūichhak nö nyā ? El ṙôngö yīö pöri Chūö Öich höng sā mameukṙen .
+42022046	Kūöyòh		Ngaich ngö ṙô Angaaṅ tö cha . Kūöyòh öi haṙòh , choholre yin veekūötēv , hòṅ yīö öt im kanihngen .
+42022064	achīö		Ngaich chaa nö nyëkngömat Ò , ngaich hatönan , nö ngö ṙô , Veeny Man yĕh , achīö ap angaaṅ famôhòh Meh ?
+42022071	Asuh		Ngaich ngö ṙô chaa , Asuh töre ap lōn tö mahameukhöti ? Tö hī ayīö ngaich hang lamöknyö el vāng Ò .
+42023022a	Kūöyòh		Ngaich ngö ṙô angaaṅ tö cha ; im linūöi heuh , Kūöyòh ? 
+42023022b	asuh		Asuh ap tötlöök tī ngòh tarik ? Röö chin kanôtukūö töp lökngen kinpaha , nö in Ò , Lökten chin höng hòṅ fohan ; ngaich ṙāngen Ò .
+42023031	sitih		Yē cha nö ngati tī tö u , nö i ngòh töayal chōn , sitih ang min ngòh tönyangngö ?
+42024005	Kūöyòh		Ngaich kūö cha , nö paekūö ngaich sōntökūöre nö el tumlat ; ngaich ngö ṙô chaa tö më kikānö , Kūöyòh öi chöh töaṅ öi i vē tökapah ?
+42024017	Asuh		Ngaich ngö ṙô Angaaṅ tö cha , Asuh ön në ṙô nāṅ , an höng veekūö höö tö kinröönngö nāṅ ? Sökngöre chaa ngaich nöng ūnökūö .
+42024019	Asuh		Ngaich ngö ṙô Angaaṅ tö cha , Asuh nup ? Ngaich ngö ṙô chaa tö Ò , Nuk inlahen Yēsū , ök aṅ Nāsaret , ök pròfĕt tömihôiṅ nö i laen , i ṙô inrē , nö i kūö ngam Tēv , i kūö tarik inrē .
+42024025	~		Ngaich ngö ṙô Angaaṅ tö cha , Ō yīö tötakaha , tötkaeūyen ellōn öi ṙātö ellōnre i nup ṙô yik pròfĕt .
+42024038a	Kūöyòh		Ngaich ngö ṙô Angaaṅ tö cha , Kūöyòh öi röiyö alaha ? 
+42024038b	Kūöyòh		Kūöyòh öi katönga ellōn ?
+43001019	Achīö		Hē yik Yahūti nö tīnngö yik kūönṙô , yik kūön Lēvī inrē , nö ṙāang Yerūsalem , nö hatönö Yôhan , nö ngö ṙô , Achīö öm meeṅ ?
+43001021	Asuh		Ngaich hatönan chaa nö ngö ṙô , Asuh pöri ? Ēlaicha ömeh ? Ngaich ngö ṙô angaaṅ , Höö chin . Ngam pròfĕt öm meeṅ ? Höö , ngö angaaṅ nö sapṙô cha .
+43001022a	Achīö		Ngaich lökten cha nö ngö ṙô tö ò ; Achīö öm meeṅ ? Hòṅ ih sapṙô yip tamīnngöre . 
+43001022b	sitih		Sitih ṙô öm töre ?
+43001025	Kūöyòh		Ngaich hatönan chaa , nö ngö ṙô tö ò , Kūöyòh pömri meeṅ vōk , yĕm öt Kristū , öt rēhĕn öm Ēlaicha , öt rēhĕn öm ngam pròfĕt ?
+43001038a	asuh		Havöölökūöre Yēsū , ngaich meūkö cha nö tömrit Ò ; ngaich ngö ṙô tö cha , Asuh ap lōn nāṅ ? 
+43001038b	yih		Ngaich ngö ṙô chaa tö Ò , Rappī ( ngam tö ngö Mahaköphöti ) , iyöng yih Öm ?
+43001046	~		Ngaich ngö ṙô Netenīĕl tö ò , Tölööku hòng kôòren , ṙamāang Nāsaret ? Ngaich ngö ṙô Filip tö ò , Taa , ngëicha .
+43001048	Sitih		Ngaich ngö ṙô Netenīĕl tö Ò , Sitih mikahkūö Öm tö chu ? Ngaich ngö ṙô Yēsū nö sapṙô ò , Meūköm Chin , hē meh elkatòh ap anychīr chōn , urēhĕkūö ṙô Filip nö havëken meh .
+43002004	Suh		Ngaich Yēsū nö ngö ṙô tö ò , Suh ap lōn meh , laen Chu ? Öltö yihih an ngam ṙētak Chu .
+43002018a	~		
+43002018b	asuh		Lökten yik Yahūti nö ngö ṙô tö Ò , Asuh ap minkahngö hameuktö Meh in ih , Öm ngatī laen tö u ?
+43003004	Sitih		Ngaich ngö ṙô ang Nikòtimös tö Ò . Sitih kanôòṅ ang ngòh tarik nö fötnyu , yē ò nö köiny nö ngaich ? Kôòren ang nö kuhēthötre nö ellōn yöngre , ngaich fötnyu nö hēk ?
+43003009	Sitih		Ngaich ngö ṙô ang Nikòtimös , nö sapṙô Ò nö hēk , Sitih kanôòṅ ön anūö ?
+43003012	Sitih		Yē Chu ṙôtö aṅ el tumlat in yīö , ngaich öt ṙātö ellōnre yīö ; Sitih kanôòṅ öi ṙātö ellōnre , yē Chu ṙôtö aṅ el halīöngö , in yīö ?
+43004009	Sitih		Lökten ngam aṅ Samariā kikānö nö ngö ṙô tö Ò , Sitih Ömeh havëkö òkre in chu , öich kikānö aṅ Samariā , yē Meh öm Yahūti ? ( Pò vē Yahūti nö öt holre tö aṅ Samariā . )
+43004011	yih		Ngaich ngö ṙô ngam kikānö tö Ò , Mā ! Öt chūökutī Man fòk mak ; aṙūuti inrē ngam mak , Aṅ yih aṅin Öm tö töaṅ mak ?
+43004027a	asuh		Hē e , yik haköptö Ò nö yih , ngaich chaa nö uṙeh tö Ò nö veekūö kikānö ; örhĕng tak pöri , tö ngö ṙô , Asuh ap lōn meh ? 
+43004027b	Kūöyòh		Hēk , Kūöyòh Öm veekūö ngam kikānö ?
+43005012	Achīö		Ngaich ngö ṙô chaa nö hatönan , Achīö ap taheui tarik tö ngö ṙô tö meh , Kēḵ ngam chammre man ; ngaich kiröönngöre ?
+43005044	sitih		Sitih kanôòṅ öi ṙātö ellōnre , yē yīö höng kö eūeu höö , ngaich yīö öt hōḵ tö ngam ineūeuṅ aṅ im töng hĕng Tēv .
+43005047	Sitih		Yē yīö pöri öt ṙātö ellōnre i nup kahūich ò , Sitih kanôòṅ öi ṙātö ellōnre i në ṙô Chu ?
+43006005	Isuh		Chingôhòl kūöre Yēsū , ngaich ngëichkö yik tömaṙôngö nö yihtöre nö in Ò ; ngaich ngö ṙô tö Filip , Isuh öivöh havah ròtī , hòṅ vē nö nyā ?
+43006009	Asuh		Hĕng taka öp ihih nyīö , tö taneūyö aṅin tö parli ròtī , nët nòng kun kāḵ inrē . Asuh nup anūö nö i töngatī ṙôngö ?
+43006025	ĕhē		Ngaich hē cha nö kôtökūö tö Ò , nö ik tahëng lā kaha ngam mai ; ngaich ngö ṙô chaa tö Ò , Rappī ! Ĕhē tö yihih Öm ihih ?
+43006028	Asuh		Ngaich ngö ṙô chaa tö Ò , Asuh ap laen ih , hòṅ ih laevṙen tö laen ngam Tēv ?
+43006030a	asuh		Ngaich ngö ṙô chaa tö Ò , Asuh ap tī Meh minkahngö , hòṅ ih meuk , ngaich ṙātö ellōnre in Meh ?
+43006030b	asuh		Asuh ap laen Meh ?
+43006042	Sitih		Ngaich ngö ṙô chaa , Röh Ang ngòh nö Yēsū , nö Kūön Yôsĕf ; akahakūö in tö nap Yöng Ò ? Sitih Ang nö ngö ṙô , Yônti Chin , ṙāang el halīöngö ?
+43006052	Sitīh		Hē e yik Yahūti nö lāalkūö höö , nö ngö ṙô , Sitīh kanôòṅ Ang ngòh tarik nö kētö nyaaṅkūö hī tö Alahare ?
+43006060	Achīö		Maṙôngö yik haköptö Ò tö ngö ṙô , hē cha nö hāngö e , Tökihngen ön ngih ṙô . Achīö öp tökô nö hāngö e ?
+43006062	Sitīh		Sitīh öi min , yē yīö meuk ngòh Kūön Tarik nö yônlö nö im chūökre nö lāurĕh ?
+43006068	chīö		Ngaich ngö ṙô Sīmōn Pītör , nö sapṙô Ò , Mā ! Chuh in chīö öi min ? I minë ṙô Meh , an ngam nômö tö örheūheuaṅ .
+43007011	Isuh		Lökten yik Yahūti nö chöhan , nö im paratīn ; ngaich ngö ṙô , Isuh Apa ?
+43007015	Sitih		Ngaich pingang kūö yik Yahūti , ngö ṙô chaa , Sitih huneūeuṅ ṙô Ang ngòh Tarik , nöng töt mahaköp ?
+43007019	kūöyòh		Röh ang nö Môsös kameeṅkūö yīö tö ngam chöngö ? Ngaich öt hĕng tak tö yīö , tö laevṙen tö e , kūöyòh öi lukkenre hòn fëlö Chu ?
+43007020	Achīö		Ngaich ngö ṙô yik tö maṙôngö , Sīu aṅin Man . Achīö ap lamukkenre nö hòṅ fëlö Meh ?
+43007023	~		Yē ngòh tarik nö tunyīnyi hē el töhet sakāmö , pòn sōtu ngam chöngö Môsös nö filāli ; līn öi in Chu , pò Chu lööken tī tö tarik hē el töhet sakāmö ?
+43007035	yih		Lökten yik Yahūti nö ngö ṙô nö in re , Chuh yih Angvöh min ngòh tarik , töp lökten hī öt kôtökūö min tö Ò ? Chuh i yip töparāti Angvöh min , i yip tahëng mihëṅṙö tarik , nö haköpten cha ?
+43007036	Asuh		Asuh öng ngih ṙô Ò , Chöhö Chuh yin min ; ngaich öt kôtökūö min tö Chu . Öt kô yin yih im chūök Chu ?
+43007041	~		Ngö ṙô yik tahëng tak , Angaaṅ An Kristū . Rēvre pöri yik tö ngö ṙô , Löknyö i Kelelī ap Kristū .
+43007045	Kūöyòh		Hē yik tösökhaka nö yih nö i yik mākūö kūönṙô , yik Feresī inrē ; ngaich ngö ṙô chaa tö cha , Kūöyòh öi öt kumten Ò ?
+43007048	~		Māav hòng ṙamātö ellōnre nö in Ò ? Feresīṙu hòng ?
+43007051	~		Kahòkken tarik öng ngih chöngö hī yĕn öl nö hang , akahalōn inrē töp inlahen ò ?
+43008005	Sitih		Ngaich Môsös nö im chöngö nö hōten ih kulehngökui töngatī ; Sitih ṙô Öm Meeṅ tö e ?
+43008010	isuh		Hōklöre Ang Yēsū , ngaich ngö ṙô tö ò , Meeṅ kikānö ; isuh yip vamënyen meh ?
+43008019	I suh		Ngaich ngö ṙô chaa tö Ò ; I suh Ap Yöng Meh ? Ngaich ngö ṙô Yēsū , nö sapṙô Cha , Öt rēhĕn yin ahakūö töm Yöng Chu . Yē yīö akahakūö tö Chu , ngaich kôòren öi akahakūö töm Yöng inrē .
+43008025a	Achīö		Ngaich ngö ṙô chaa nö hatönan , Achīö Öm Meeṅ ? 
+43008025b	~		Ngö ṙô Ang Yēsū tö cha , Höng sā ngam ṙô Chu ngaich tö yīö .
+43008033	Sitih		Ngö ṙô chaa , nö sapṙô Ò , Kūön Aprahām in ihö ; öt hĕng heuh inkövö in tö töng tarik . Sitih Öm ngö ṙô , Luhnyu yin min ?
+43008043	Kūöyòh		Kūöyòh öi öt akaha elnang tö ṙô Chu ? Tön kūö yīö öt kô hang ṙô Chu .
+43008046a	Achīö		Achīö öp tö yīö , vamënyö tökööl in Chu ? 
+43008046b	kūöyòh		Yē Chu Öich kôò ṙô , kūöyòh öi öt ṙātö ellōnre in Chu ?
+43008053	Achīö		Tömööḵlö ṙôkö Öm Meeṅ tök yöng ih Aprahām , ök tökapah ? Kapah inrē yik pròfĕt . Achīö Öm Meeṅ vīilre ?
+43008057	~		Lökten yik yahūti nö ngö ṙô tö Ò , Öl Man taneui anāi samyeūheu ; ngaich Öm meūkö Aprahām hòng ?
+43009002	achīö		Ngaich yik haköptö Ò nö hatönan , nö ngö ṙô , Rappī ; achīö öp tököölö fālen , ngòh tarik ? Nap yöng ò ṙöng ? Töp lökten ò nö ötmeuk , nö fötnyu ?
+43009010	Sitih		Sitih lökten pömri , löpnyörekūö mat ? Ngö ṙô chaa , nö hatönan .
+43009012	Isuh		Ngaich hatönan chaa , nö ngö ṙô , Isuh Apa ? Höö chin akahlōn , ngö ṙô angaaṅ .
+43009016	Sitih		Rēvre yik Feresī tö ngö ṙô , Röö öp tarik Angaaṅ , nö aṅ im Tēv ; tön öt haköp töhet sakāmö ap . Ngö ṙô pöri yik tahëng , Sitih kanôòṅ ang ngòh tarik tököölö fālen , nö ngatī laen tö minkahngö ?
+43009017	Sitih		Ngaich chaa nö kö harīkngöre lōn . Lökten cha nö ngö ṙô nö hēk , tök tötmeuk sin tarīk , Sitih ṙô öm meeṅ tö Ò , i tī Ò nö löpnyökūö mat meh ? Ngaich ngö ṙô angaaṅ Lohten Öp nö pròfĕt .
+43009019	Sitih		Ngaich hatönö cha , nö ngö ṙô , Kūön nāṅ ang ngòh , ngòh töfötnyu nö ötmeuk , tö ṙô yīö ? Sitih lökten ang nö meuk töngamuh ?
+43009026a	sitih		Lökten cha nö ngö ṙô tö ò , Sitih tī öp tö meh ? 
+43009026b	sitih		Sitih inlahen öp nö löpnyökūö mat meh ?
+43009027	Kūöyòh		Ngaich ngö ṙô angaaṅ nö sapṙô cha , Fömngöre ṙô chin taheui tö yīö ; ngaich yīö öt hang . Kūöyòh öi hòṅ hāngö e hēk ? Hòṅ mahaköp öi yīö inrē in Ò ?
+43009034	~		Ngaich ngö ṙô chaa , nö sapṙô ò ; Höng töfötnyu man meeṅ i tökööl ; ngaich öm haköpten ih hòng ? Ngaich ahōngen ò chaa , nö ṙāang ik māṅre .
+43009036	Achīö		Ngaich ngö ṙô angaaṅ nö sap ṙô Ò , Achīö Öp Angaaṅ Mā ? Hòṅ chu ṙātö ellōnre in Ò .
+43010020	kūöyòh		Ngaich maṙôngö yik tö ngö ṙô , aṅ in cha , Sīu aṅ in An ; kulōov inrē ; kūöyòh öi hang ṙô Ò ?
+43010021	~		Ngaich rēvre yik töngö ṙô . Höö nun në , nö ṙô tö sīu aṅ in . Kôòren ṙöng ang ngòh sīö nö löpnyökūö mat vē tötmeuk ?
+43010024	I rôòten		Yihtöre yik Yahūti , nö kiteūmtöre nö in Ò , ngaich ngö ṙô , I rôòten Öm Meeṅ kitöngkölōn ih ? Halöökṙôre Man yēḵ ; veeny nang ih , yē Meh Öm Meeṅ Kristū .
+43010032	öp yòh öp		Ngaich ngö ṙô Yēsū tö cha , Pōyen nuk tölöök laen Chu , hameuktö Chu in yīö , aṅ im Yöng . Öp yòh öp in u , lökten yīö hòṅ kulehe Chu ?
+43010036	~		Ngö ṙô yīö tö Ò , ngam ahetlö ngam Yöng , ngaich tīntu nö ing panam , Ötlēkôre Mana ; pò Chu ngö ṙô , Kūön ngam Tēv Chin Chūö ?
+43011034	Isuh		Ngaich ngö ṙô Angaaṅ , Isuh tī öi ulngen ò ? Ngaich ngö ṙô chaa tö Ò , Mā ; taa , meuk Man .
+43011047	Sitih		Lökten yik mākūö kūönṙô , yik Feresī inrē , nö hamūl yik kamhôṅka ; ngaich ngö ṙô , Sitih inlahen öi , tö ngòh tarik nö pōihöl tö minkahngö ?
+43011056	Sitih		Ngaich chaa nö chöhö Yēsū ; ngaich ngö ṙô tö höö , hē cha nö sökhaka nö ël ök töhet chūök , Sitih lōn öi ? Yih Öp min nö ing paratīn ?
+43012005	Kūöyòh		Kūöyòh öng ngih tötahūsa tavīi nö öt inyihiyö , nö lūöi höt ṙòng tö rupīö ; ngaich kētu nö i yāich ?
+43012027	Sitih		Haṙīvö ellōn Chin töngamuh . Sitih inlahen Öich min ? Kayöngö ; laklen Chu i ngih ṙētak .
+43012034a	Kūöyòh		Ngaich yik tömaṙôngö nö ngö ṙô tö Ò , Töt chanūhuvṙen Öp Kristū , nö hāngö tö ih , nö im chöngö . Kūöyòh Öm ngö ṙô , Hatamlöngö Ön min ngòh Kūön tarik ?
+43012034b	~		
+43012038a	achīö		Nö kinheūṅtngö ṙô ngam pròfĕt Isayā tö ngih tö ngö , Mā ; achīö öp ṙamātö ellōnre nö i në ṙô ih ? 
+43012038b	chīö		In chīö ang ngam Mā Tēv nö hameuktu ?
+43013025	achīö		Harôntöre angaaṅ nö in Yēsū , ngaich ngö ṙô Yēsū , ngaich ngö ṙô , Mā ; achīö apa ?
+43013036	yih		Ngaich ngö ṙô Sīmōn Pītör tö Ò , Chuh yih Ömeh ? Ngaich ngö ṙô Yēsū , nö sapṙô ò , Öt kô man in Chu töngamuh , ip kūö chu kiröönngöre , Unôich man min tömkörit Chu .
+43013037	kūöyòh		Ngaich ngö ṙô Pītör tö Ò , Mā kūöyòh öich öt kô in Meh töngamuh . Kôòren chin kapah töpòkūö Meh .
+43014002	~		Pōyen nup chūökö i patī ngam Yöng Chu . Yĕn öt ngatī öre , ngaich veeny nang yīö Chūö ; tön kiröönngöre Chin halēnkö chūök yīö .
+43014005	Sitih		Ngaich ngö Ṙô Tômas tö Ò , Öt akahalōn in töp chahuhu Meh ; Sitih kanôòṅ öi akahalōn tö ngam talöökö ?
+43014009	Sitih		Ngaich Yēsū nö ngö ṙô tö ò , Röh Öich ngaich marôòten in yīö , ngaich öl hòng meeṅ akahakūö tö Chu Filip ? Ngòh mameūkö Chu , ngaich meuk ngam Yöng inrē . Sitih öm ngö ṙô Hameukhömat ih töm Yöng ?
+43014022	Sitih		Ngö ṙô ang Yūtā tö Ò , ( röö nö Iskaryöt , ) Mā ; Sitih Öm höng in ih hameuktöre , ngaich röö ing panam ?
+43016005	yih		Kiröönngöre Chin töngamuh i ngam tamīnten Chu ; öt hĕng tak tö yīö mahatönö Chu , Chuh yih Öm Meeṅ .
+43016017	Asuh		Lökten nö rēvre yik mahaköp nö in Ò , tö ngö ṙô tö höö , Asuh öng ngih ṙô Ò nö in hī , Rahëchhangkūö , ngaich yīö öt meūkö Chu ; ngaich hēḵ rahëchhangkūö , ngaich yīö min meūkö chu ; ane inrē , Pò Chu chuh im Yöng ?
+43016018	Asuh		Lökten chaa nö ngö ṙô , Asuh öng ngih ṙô Ò , Rahëchhangkūö ? Öt akaha elnang in tö ṙô Ò .
+43018004	Achīö		Akahalōn Ang Yēsū tö nup taṙòkhöre yamihen Ò ; kunyīinyre ngaich , ngaich ngö ṙô tö cha , Achīö ap chahöh yīö ?
+43018007	Achīö		Ngaich hēk Angaaṅ nö hatönö cha , nö ngö ṙô , Achīö ap chahöh yīö ? Chöhö Yēsū in , öp aṅ Nāsaret , ngö ṙô chaa .
+43018011	~		Ngaich ngö ṙô Yēsū tö Pītör , Hayulhöt ngam sanëtre man ; sōtu ṙöng Öich òkkūö ngam kulah , ngam kahëtö ngam Yöng Chu ?
+43018021	Kūöyòh		Kūöyòh Öm hatönö Chu Hatön yip hamang ṙô Chu man yēk , tö ṙô Chu tö cha . Akahalōn yin vē tö ṙô Chu .
+43018023	kūöyòh		Ngaich ngö ṙô Yēsū tö ò , Yē Chu Öich chōchö ṙô , ngaich ameūkö ngam tö chōich . Yē Chu pöri löökô , kūöyòh öm fōhoh Chu ?
+43018029	Asuh		Lökten Pailĕt nö kunyīinyre nö in cha , ngaich ngö ṙô , Asuh ap falngen ngòh tarik , vahënyö yīö ?
+43018035	Asuh		Ngaich ngö ṙô Pailĕt , Yahūti Öich Chūö ? Yip aṅ panam Meh , tö yip mākūö kūönṙô inrē , kamëten Meh nö in chu . Asuh ap falngen Meh ?
+43018038	Asuh		A Ngaich ngö ṙô ang Pailĕt . Asuh öng ngam kanôen ? Keuheūthë ṙô angaaṅ tö e ; ngaich kunyīinyre nö hēk nö i yik Yahūti ; ngaich ngö ṙô tö cha . Öt maheūṅku chin tö falngen in Ò .
+43019009	yih		Kuhēthötre hēk angaaṅ nö el ök patī mahayöng ngaich ngö ṙô tö Yēsū , Aṅ yih Öm Meeṅ ? Ngaich nöng öt sapṙô ò Yēsū .
+43019015	~		Lökten cha nö hūḵa , nö ngö ṙô , Hachuhngen Ò ; hachuhngen Ò , harāten Ò ! Ngaich ngö ṙô Pailĕt tö cha . Harātö ngòh Rācha yīö , öich kòh ? Ngaich ngö ṙô yik mākūö kūönṙô , Öt rāchavö in īhö , tö tahëng , höng Kaisöör .
+43020013	Kūöyòh		Ngaich ngö ṙô chaa tö ò , Kūöyòh öm peuny ? Ngaich ngö ṙô angaaṅ , nö sapṙô cha , Pò cha nö kēḵngö ök Mā chu ; öt akahalōn Chūö tö chūök tī cha nö ṙāten Ò .
+43020015a	kūöyòh		Ngaich ngö ṙô Yēsū tö ò , Meeṅ kikānö ; kūöyòh öm peuny ? 
+43020015b	Achīö		Achīö ap chahöh meh ? Yōm panôòṅ Angaaṅ , tö lōn Mariā , ngaich ngö ṙô tö Ò , Mā ; yē Meh kēḵngen Ò nö ṙāang hih , veeny nang chu Man yēk , tö chūök tīre ṙāten Ò ; hòṅ chu kēḵ an .
+43021012	Achīö		Ngaich ngö ṙô Yēsū tö cha , Taih ; nyā yin . Öthĕng tak tö yik mahahöp , tö hòṅ hatönan , nö ngö , Achīö Öm Meeṅ ? Pò cha nö akahakūö tö Ò nö ngam Mā .
+43021020	achīö		Havöölökūöre Pītör , ngaich meuk ök mahaköp , ök hanāngelōn Yēsū nö tömrit cha ; ök maharônlöre nö in Ò , hē ök nyināaṅ , ngaich ngö ṙô , Mā ; achīö ap kamëḵngen Meh ?
+43021021	Sitih		Höng meuktöre Pītör tö ò , ngaich ngö ṙô tö Yēsū Mā ; Sitih min ngòh tarik ngòh ?
+43021022	asuh		Ngaich Yēsū nö ngö ṙô tö ò , Yē Chu lōnuvö tö ò nöngngöh hanöng saha yanīhih Chu , asuh öng angūö nö in meh ? Taa tömrit Chu man meeṅ .
+43021023	asuh		Ngaich a ngūö nö hāngö tö yik hol cha , tö ò angaaṅ mahaköp nö töthōḵ nö kapah . Röö pöri Yēsū nö ṙôòv tö ò nö töthōḵ nö kapah , tön höng ngö ṙô . Yē Chu lōnuvö tö ò nöngngöh hanöng saha yanīhih Chu , asuh öng angūö nö in meh ?
+44001011	kūöyòh		Yīö tarik aṅ Kelelī ; kūöyòh öi höng sökhaka , hatīönkö el halīöngö ? Ngatī yanihih ön ngòh Yēsū min , ngam tö kēḵlöngö nö el halīöngö , nö ṙāang in yīö , sā mat yīö meūkan nö yônlö nö el halīöngö .
+44002008	Sitih		Sitih öi hang ṙô cha , nö kö ṙô tö ëlô hī ;
+44002012	Asuh		Ṙòkhöre chaa nö ureh , öt akahalōn inrē ; ngö ṙô chaa tö höö , Asuh öng ngih töngatī ?
+44002037	Sitih		Ngaich hē cha nö hāngö e , ngaich lòkngöre ellōn chaa ; ngaich ngö ṙô tö Pītör , tö yik tahëng inrē tanīnöṙô , Kahōlö ; Sitih öi min ?
+44003012a	kūöyòh		Ngaich hē Pītör nö meūkö e , ngaich ngö ṙô angaaṅ tö yik tarik , Yīö tarik aṅ Israĕl , kūöyòh öi pingangkūö i ngòh tarik ? 
+44003012b	Kūöyòh		Kūöyòh öi inrē haköpmatre tö ai , ai sā mīip kanôòṅre , lanöököre inrē , ai tīiv tö ngòh tarik nö kiröönngöre ?
+44004007a	~		
+44004007b	asuh		Ngaich hē cha nö asöklen cha nö ellōn , ngaich ngö ṙô nö hatön , Asuh ap chöngö yīö ? 
+44004007c	chīö		Hēk , i mineeny chīö , öi laevṙen tö u ?
+44004016	Sitih		Sitih tī öi min tö nāṅ tarik ? Tön kô ngam minkahngö laen cha , nö hameuktuvö nö i vē taṙòkhöre mīi Yerūsalem ; öt kô in mahngö e .
+44004025a	Kūöyòh		Meeṅ lamökten im Töhet Fanöinylö , Öm ngö ṙô , löknyö elvāng ök muvöhngö ih , Tāvit , ök kūön Meh , Kūöyòh aich vē tahëng mihëṅṙö nö tainy ? 
+44004025b	Kūöyòh		Kūöyòh aich vē tarik nö lōntö chanök alaha ?
+44005003	Sitih		Ngaich ngö ṙô Pītör tö ò , Ananī ; Sitih ang ngam Sātān nö hatööklö ellōn meh , öm hōtu minyôinyaṅ i ngam Töhet Fanöinylö , ngaich ròngti hayunngö tö ṙāi ök taṙeū ?
+44005004	Sītih		Hē e nöngngöh , öt inlānen meh hòng angūö ? Keuheūthë tī meeṅ inyihngö e öt kanahanglōn meh hòng ? Sītih ömeh ngatī lōn ellōnre ?
+44005009	Kūöyòh		Ngaich ngö ṙô Pītör tö ò , Kūöyòh an hĕngrelōn kalah ngam Töhet Fanöinylö ngam Mā Tēv ? Yĕh meuk röön yip amulngö ök pihö meh , nö i kūö inkūp . Keunnyu man min tö cha .
+44007026	kūöyòh		Ngaich im huṙöich angaaṅ nö meūkö tö cha , hē cha nö lāal kūö höö ; ngaich hòṅ halāmö cha , nö ngö ṙô , Mah ! Holre yīna ; kūöyòh öi chökhuṙen tö höö ?
+44007027	Achīö		Ngaich pöri ök töchökhu tī tök holre nö kuringngen ò , nö ngö ṙô , Achīö öp vamīlen meh hayöng , kahòkken ih inrē ?
+44007035	Achīö		Angaaṅ Môsös ngam sahōḵo cha sin , nö ngö ṙô , Achīö öp vamīlen meh hayöng , kahôka inrē ? Angaaṅ tahīntö ngam Tēv nö hĕnghöre mahayöng , ṙamānyö inrē , nö lökten ik maahānga , ök tömeūkö tö ò nö el töyul .
+44007049a	sitih		Kantēra Chu an ngam halīöngö ; ranöönö röön Chu ngam tumlat , Sitih tī öi min vīlö patī Chu ? ngö ṙô ngam Mā Tēv ;
+44007049b	asuh		Hēk asuh ap min chūök haneūheu Chu ?
+44007052	Ök yòh ök		Ök yòh ök pròfĕt tö röö nö öthakôlöngṙô tö yik muvöhngö yīö ? Ngaich chaa inrē nö fëlngö yik mūurĕh mahameuktö yanihih ngam Tölöök . Yīö yin kamëḵngen Ò töngamuh , famëlngen Ò inrē ;
+44008031	Sitih		Ngaich ngö ṙô angaaṅ , Sitih kanôòṅ öich , höng yĕn höng hĕng tak öp mahachōtökūö chu ? Ngaich veekūö Filip angaaṅ , nö hōten ò nö yôklö , nö Ūichngöre nö in ò .
+44008033	achīö		Im inyāichngö Ò , ngam ötinkôlò Ò nö keuheūten ; achīö öp min mahameukhömat yip tūmö Ò ? Pòn ngaich ök nômö Ò nö kēĕyö , nö ṙāang ing panam .
+44008034	chīö		Ngaich ngö ṙô ök kumkantöre tö Filip , Ṙôten chīö ök pròfĕt tö e ? Ṙôtöre hòng ? Ṙôtö tahëng ṙöng ?
+44008036	asuh		Ngaich hē cha nö iṙuhöröön nö kiröönngöre , sölta chaa ngaich nö ik mak . Ngaich ngö ṙô angaaṅ , Ngīöng yih mak ! Asuh ap lökngen chu öt kô vōkö ?
+44009004	Kūöyòh		Fukngö angaaṅ ngaich nö el tumlat ; ngaich hang ök ṙô angaaṅ , tö ngö ṙô tö ò , Sôl , Sôl ! Kūöyòh öm öthakôlò chu ?
+44009005	Achīö		Ngaich ngö ṙô angaaṅ , Mā Achīö Öm Meeṅ ? Ngaich ngö ṙô Angaaṅ , Yēsū Chin Chuö , Öich töthakôlöngṙô tö meh . Chök man , öm röönngökūö ngam töchökhukūö .
+44009006	asuh		Ngaich kichëyöre angaaṅ , pingangkūö inrē ; ngaich ngö ṙô tö Ò , Mā ! Asuh ap lōn Meh , laen chu ? Ngaich ngö ṙô ngam Mā tö ò , Choholre man ; kuhēthötre im panam ; vënyu nang man min töp laenre .
+44010004	Asuāpa		Ngaich haköpmatre angaaṅ nö ngëichken ò ; ngaich ngö ṙô , tö pinheeṅkūöre , Mā ! Asuāpa ? Ngaich ngö ṙô angaaṅ tö ò , Söllö nup ṙô meh veekūötēv , nup tī meh inrē inlōnti , nö inköpkölōn nö i kūö ngam Tēv .
+44010021	Asuh		Yòhngö ngaich Pītör nö i yik tarik ; ngaich ngö ṙô , Chūö chin chahöh yīö . Asuh ap chööḵnyö yīö yih ?
+44010029	~		Lökten chin yih , öich öt sahōḵngu , hē linukkö chu .
+44010047	~		Ngaich ngö ṙô ang Pītör , Tarīku hòng tö kô nö sōtö ngam mak , hòṅ vē nö öt vōkö , vē tö ngaich nö teūngen tö ngam Töhet Fanöinylö , nö sā hī ayīö ?
+44011017a	achīö		Yē ngam Tēv nö kēĕkūö cha tö ngam inlōnti , nö sā tīre nö in hī , hē ranehten hī ṙātö ellōnre im Mā Yēsū Kristū ; achīö öich chūö tö kô tahngö ngam Tēv ?
+44011017b	~		
+44012018	~		Peuheūeulre ngam peuheū , ngaich ök yöng tinṙōlen i yik kumyung , tökūö öt mikahlōn cha tö inlahen Pītör .
+44013025	Achīö		Hē Yôhan nö ngaich nö hòṅ keuheūten tök laenre ; ngaich ngö ṙô angaaṅ Achīö öich chuö , tö lōn yīö ? Röö chin chūö Angaaṅ . Yĕh meuk , hĕng taka ap yamih nö unôich tö chu ; öt kô chin rēhĕn luhnyökūö rehen kunröpö Ò .
+44014015	Kūö yòh		Mah ! Kūö yòh öi ngatī ? Tarik an āyö inrē , tö sā yīö ; kamëtö ngih tölöök inhānga in yīö , hòṅ yīö havööngökūöre , ṙāang i në töng röö , öi im tö aṅ Tēv , ngam Vamīiṅl halīöngö , panam , mai , nup taṙòkhöre mīin u .
+44015010	kūöyòh		Lökten , kūöyòh öi kalah ngam Tēv ; öi hakeunlö elranôṙö yip mahaköp , tö ngam töt rēhĕn nö kanôòṅ yik muvöhngö hī öt rēhĕn ayīö kô keūnö e ?
+44016030	Asuh		Ngaich kēḵnyen cha , ngaich ngö ṙô , Mā ! Asuh ap laen chu , hòṅ chu hayöökaṙen ?
+44017018	Asuh		Rēvre inrē yik Epikuri , Satoiki inrē , yik töpōi haköp , nö kil ṙô ò . Rēvre yik tö ngö ṙô , Asuh ap tinkākö ṙô ngòh tarik ? Rēvre yik tahëng , tö ngö ṙô , Sā maahangkö tēv an tötohtöre ; pò ò nö ahangken Yēsū , invanlö tökapah inrē .
+44017019	~		Ngaich chaa nö kēḵ an , ngaich ngôṅten ò nö i kui ap rung Arĕs nö ngö ṙô , Kôòren öi akahalōn tö ngih tumfömngöre inköphöti ngam ṙô meh ?
+44019003	Asuh		Ngaich ngö ṙô angaaṅ , Asuh apri vinôkö yīö ?
+44019015	achīö		Ngaich ngam tötlöök sīö nö ngö ṙô , nö sapṙô cha . Akahakūö chin tö Yēsū akahkūö tö Pôl inrē ; achīö öi yīö ?
+44019035	achīö		Ngaich hē ök kamhôṅka nö hachēvngö yik tömaṙôngö ; nö ngö ṙô , Yīö tarik aṅ Efisös ; achīö öp tarik tötakahalōn tö ngih panam vē aṅ Efisös , nö amahtö ngam chūök ngam yöng Artēmis , ngam insā inrē tö suktöre nö ṙāang el halīöngö .
+44021013a	Kūöyòh		Ngaich ngö ṙô ang Pôl , Kūöyòh öi peuny ane inrē miṙivngölōn chu , öi ngatī , yē chu tölēnen , öt höng tönyëkö , tön kapah inrē , i Yerūsalem , töpòkūö Mineeny ngam Mā Yēsū ?
+44021013b	~		
+44021022	Sitih		Sitih pökeh ? Hāngö meh yip min öm yih . Lökten man yēḵ , hang ṙô ih tö meh .
+44021033a	~		Yihtöre ngaich ök yöngkūö kumyung , nö haröhtöre , ngaich kēĕ Pôl , ngaich hōten ò nö nëtö nyanëk tö sayōk ; ngaich hatöntöre tö ò , tö fālen ò inrē .
+44021033b	~		
+44022007	Kūöyòh		Ngaich afukngöre chūö el tumlat ; ngaich hang ök ṙô , tö ngö ṙô tö chu , Sôl ; Sôl ! Kūöyòh öm öthakôlò Chu ?
+44022008	Achīö		Ngaich ngö ṙô chuö , sap ök ṙô , Mā ! Achīö Öm Meeṅ ? Ngaich ngö ṙô Angaaṅ tö chu , Yēsū Chin , aṅ Nāsaret ; Öich töthakôlöngṙô tö meh .
+44022010	Asuh		Ngaich ngö ṙô chuö . Asuh lap pökeh laen chu ? Mā ! Ngaich ngö ṙô ngam Mā tö chu . Choholre man ; kuṙòh , chuh Tāmöskös ; in e man min vënyu nang tö nup taṙòkhöre , töhalēni laen meh .
+44022016	Sitih		Sitih pömrih öm höngngöh ? Choholre man ; öm vōkö , söichngö nup tököölre ; havëkö Mineeny Ò .
+44022026	Sitih		Ngaich ök yöngṙen töhēngòng kumyung nö hāngö e , yihtöre ngaich angaaṅ nö ik mākūö kumyung , ngaich veeny nang ò , nö ngö ṙô , Sitih tī ömeh ? Tön aṅ Rōma ap tarik .
+44023003	~		Ngaich ngö ṙô Pôl tö ò , Fëlö man min tö ngam Tēv , meeṅ tö miisohnyu kaha ; meeṅ amūichhak kahòkken chu , asā ngam chöngö ; ngaich hōten chu fohoh , harīkiyö töm chöngö .
+44023009	sitih		Ngaich taṙōla ṙô chaa ; rēvre yik kamūich aṅ i yik Feresī samöklöre , ngaich kilṙô , nö ngö ṙô , Öt kôtökūö in tö tötlöök i ngòh tarik . Sitih öre yĕn maalaha , hēk yĕn maahānga vameeṅkūö Ò ?
+44023019	asuh		Ngaich ök mākūö kumyung nö kēḵ kël ò , ngaich ṙūöngen ò , ulāikenre ngaich nö hatönan , nö ngö ṙô , Asuh ap ṙô meh , veeny nang chu ?
+44026008	Kūö yòh		Kūö yòh öi öt kô ṙātö ellōnre , yē ngam Tēv nö hachohlö tökapah .
+44026014	kūöyòh		Ngaich hē ih fukngö el tumlat , ngaich hang ök ṙô chūö tö ngö ṙô tö chu , i ëlô Heprāi , Sôl Sôl , kūöyòh öm öt hakôlò Chu ? Chök man , röönngö kūö ngam töchökhukūö .
+44026015	Achīö		Ngaich ngö ṙô chuö , Mā ! Achīö Öm Meeṅ ? Ngaich ngam Mā nö ngö ṙô , Yēsū Chin , Öich töt hakôlöngṙô tö meh .
+45002017	~		Yē meh pöri meeṅ minënyu tö mineeny Yahūti , öm töönglöre im chöngö , ngaich eūeure im Tēv ,
+45002021	~		Lökten meh haköp tö tahëng , ngaich öm öt haköp töre hòng meeṅ ? Meeṅ mumkahten tarik nö un ulāyö , ngaich ulāyö hòng meeṅ ?
+45002028	~		Pò ò angaaṅ nö öt Yahūti ngam töng el kahôyö , öt rēhĕn nö tunnyinyngö ngam töng lāuk nö im alaha .
+45003001a	suh		Suh papkeh kanôòṅ i vē Yahūti ? 
+45003001b	suh		Suh ap kanôlò aṅ im tunnyinyngö ?
+45003003	Pòyòh		Pòyòh yĕn rēvre töt mikahavö ? Ngaich ngam hanāten cha hòng nö im mikah , nö öt kanôlòvö tī tö ngam kanôen ngam Tēv ?
+45003005	sitih		Yē ngam michūṙen hī pöri nö hōtö ngam lanöökö ngam Tēv , sitih ṙô öi min ? Tömichūṙen ang ngam Tēv ngam chamöha nö holtö lanīnö ? ( Sā ṙô tarik chin ṙôòv ) .
+45003006	sitih		Un ngatī yēḵ ; sitih inlahen ṙöng ang ngam Tēv min nö kahòkken ngih panam ?
+45003007a	~		Yē ngam Tēv pöri nö lökten im minyôinyaṅ chu nö pōilö ngaich nö im kanôlò Ò , 
+45003007b	pò yòh		pò yòh öich ṙòng möng kahòkkaṙen sā tököölö fālen ?
+45003008	kūöyòh		Ngaich kūöyòh röö ( sānup tö eūka sinūöichkö ih , sā ṙô yip rēvre ṙung nö eūken ih nö ngöṙô ) , töi chōichö laen , hòn yih ngam tölöök ? Yip tölöökö öt inkôlò .
+45003009	Sitih		Sitih pökeh ? Höichngen inlahen öi ayīö tö cha ? Höö , öt höichngen : pò hī taheui , hĕnghöre i yip Yahūti , i yip krik inrē töm fālen , tö cha nö ṙòkhöre nö elkatòh ngam tökööl ;
+45003027a	isuh		Isuh ap pökeh ineūeuṅ ? Öt mūlta an . 
+45003027b	yòh		Lökten ip yòh chöngö ? Aṅ i laen hòng ? Höö , tön lökten i chöngö aṅ i mikah .
+45003027c	~		
+45004001	Sitih		Sitih ṙô öi pökeh tö kanôtökūö Aprahām ök muvöhngö hī , nö sā ngam alaha ?
+45004003	Sitih		Sitih ṙô ṙöng öng ngam töhet līpöre ? Ṙātöellōnre Aprahām nö im Tēv ngaich kaheuktu nö lanöökö nö in Ò .
+45004010	Sitih		Sitih kinṙeukti önguh ? Unôichrit ò ṙöng nö tunyīnyi ? Urĕh ṙöng ? Röön unôich ; tön urĕh .
+45005010	~		Pò hī , hē hī sin ṙòngmö kumnyah elmat , ngaich lökten im kinpaha ngam kūön Ò öi halāmtu im Tēv , möthë min ayīö hayöökaṙen lökten im nômö Ò , pôi ngaich halāmtu .
+45005021	~		Sā ngam tökööl nö hayöng im kinpaha , hòṅ ngatī ngam inlōnti nö hayöng lökten im lanöökö nö im nômö töörheūheuaṅ , lökten Yēsū Kristū ngam Mā hī .
+45006001	Sitih		Sitih ṙô öi pakeh ? Iṙūöhen öi im tökööl hòṅ ngam inlōnti nö pōyen ?
+45006002	sitih		Öt halöngten e an ngam Tēv . Ayīö tö kapah ngaich öi ṙāang ngam tökööl , sitih höngngöhören öi min in e ?
+45006015	Sitih		Sitih ṙöng ? Köölö fālen öi hòng sā hī öt elkatòh ngam chöngö , elkatòh ngam inlōnti pöri ? Öt halöng An ngam Tēv .
+45006021	Suh		Suh nup pökeh ṙòng in yīö hē e , i nup sumrōngkūö töngamuh ? Tön ngam kinpaha manāngen u anūö .
+45007007	Sitih		Sitih ṙô öi pökeh ? Tökööl öng ngam chöngö ? Öt halöng an ngam Tēv . Höö pöri chuö sin akahakūö tö tökööl höng lökten im chöngö : pò chu öt akahakūö tö yinikngö sīnö , höng ngam chöngö tö ngö ṙô , Uh man yikhanga .
+45007024	Achīö		Ō chuö tötkôlò tarik ! Achīö ap min ṙamānyen chu ṙāang ing alaha kinpaha ?
+45008024	achīö		Pò hī hayöökaṙen lökten im mineūka ; achīö ṙöng ap ṙung mameūkkö tömeūkö ?
+45008031a	sitih		Sitih ṙô öi pökeh min tö në ? 
+45008031b	Chiāp		Chiāp lāal hī yē ngam Tēv nö in hī ?
+45008032	~		Angaaṅ ngam töt ṙamāal ngam Kūönre takô , kēḵngen Ò pöri nö pòkūö hī ṙòkhöre , röh ang min nö hol Ò nö öt maiṅtīre nö kēĕkūö hī tö taṙòkhöre ?
+45008033	Achīö		Achīö ap min mīi vē katöllö ngam Tēv tī tö fālen ? Ngam Tēv An mahalöökhölö .
+45008034	Achīö		Achīö ang angaaṅ min töt mahakôlò ; Kristū Yēsū an ngam tö kapah ; hôṅ ngam tö hachohlöngö nö ṙāang yip tö kapah , ngam lahāmö ngam Tēv , ngam vameelkui hī inrē .
+45008035	Achīö		Achīö min mahaköhngen hī tö ngam hanāngenlōn Kristū ? Yöng kanihngen hòng , hēk miṙivlōn , hēk öt inkôlò , hēk inyāichö , hēk linchôyö , hēk kanihngen i pinlāḵngen , hēk sanët ?
+45009014	sitih		Sitih ṙô öi pökeh ? Öt lanööku hòng im Tēv ? Öt halöng an ngam Tēv .
+45009019a	Kūyòh		Ngaich hòṅ ngö ṙô meeṅ tö Chu , Kūyòh ang nö ṙòngmö chöh fālen ? 
+45009019b	Achīö		Achīö ṙöng ap lamakngö ngam lōn Ò ?
+45009020a	achīö		Höö , achīö ṙöng öm meeṅ , Ō tarik , öm samapṙô lāal ngam Tēv ? 
+45009020b	~		Ngö ṙô öng min ngam tövīi tö Ò ngam vamīiṅl e , 
+45009020c	Kūöyòh		Kūöyòh Öm ngatī tī vīi chu ?
+45009021	~		Hēk , röh ang ngam vamī tanīönyö nö kanahaiṙen nö im tilin , nö hĕng lā vahī tö tölöök tanīöyö , nö im tö hĕng mumūlö , ngaich chōich ngam tahëng ?
+45009022	sitih		Sitih öre yē ngam Tēv nö hòṅ hameuktö lanīnöre , ane inrē vīten ngam minhôiṅyöre nö im chehen lanīnö tö hakaptu nö im öt inkôlò ;
+45009023	~		Hòṅ Ò inrē , nö mikahtölōn , tö ngam vanāyö Ò , nö i nup chehen neūkölōn , nup tö halēni misī nö lā urĕh tö Ò , nö im kanôlò ,
+45009024	~		Ihö , öi tö havëtu tö Ò , öt höng ṙaang i yip Yahūti , tön ṙāang i yip Tahëng mihëṅṙö inrē tarik ?
+45009030	Sitih		Sitih ṙô öi pökeh ? Tö vë Tahëng , mihëṅṙö tarik , nö sölta nö im lanöökö , vē töt tamömrit lanöökö , ngam aṅ im mikah lanöökö .
+45009032	Pòyòh		Pòyòh ? Pò cha nö öt chöhö e nö lökten i mikah ; sāre pöri yĕn lökten i laen . Kavēĕre chaa ngaich nö im ihong kinvēngöröön :
+45010006	chiāp		Ngö ṙô pöri ngam lanöökö aṅ im mikah , Um ngö ṙô ellōnre , chiāp min yamônlö nö el halīöngö ? Öp kamëten Kristū nö i taṙeū :
+45010007	chiāp		Hēk , chiāp min yamônti nö lataṙeū ? Öp kamëlen Yēsū nö ṙāang i yip tökapah .
+45010008	Sitih		Sitih pöri ngam ṙô e ? Ranghen meh an ngam ṙô , i elvāng meh , i ellōn meh inrē : angūö , ngam ṙô mikah ngam inhānga tö ih :
+45010014a	sitih		Sitih aich min nö vëekūö Ò , yĕn öt ṙātö ellōnre nö in Ò ? 
+45010014b	sitih		Sitih inlahen aich min nö ṙātö ellōnre nö im töt ahangre ? 
+45010014c	sitih		Sitih elnang aich min nö hang , yĕn öt mumkahtenvö ?
+45010015	Sitih		Sitih inlahen aich min nö mikahten , yē cha nö öt tīntu ? Sā kinūichngö e nö ngö , “ Iṙën vanāyö röön aich vē maahangkö ngam kumchikṙen , tö kumtö ngam tölööḵ inhangkö tölöök inrē ! ”
+45010016	achīö		Ngaich pöri chaa nö öt ṙòkhöre nö hangihtöre tö ngam tölöök inhānga . Pò Isayā nö ngö ṙô , Mā : achīö öp ṙamātö ellōnre nö i ṙô ih ?
+45011004	sitih		Ngaich sitih ṙô ngam Tēv nö sapṙô Ò ? Sat köiny yip tarik ṙahātö chu , yip töt sāmimtö kui kinmônöre nö i kūö Pēal .
+45011007	Sitih		Sitih pökeh ? Ngam tö chöhöh tö Israĕl , öt teūngen angaaṅ tö e ; teūngen pöri yip tö katöllöng , ngaich hangëengre yip chööḵ :
+45011015	sitih		Yē ngam kinvalngö cha nö inlāmö ngih panam , ngaich sitih ngam kinëeṅ , tön nômö nö ṙāang i tökapah ?
+45011018	~		Un eūeu nup pak ; yē meh hòṅ eū , röö man meeṅ tö kumtö ngam ṙĕh tön keūnö meeṅ töm ṙĕh ;
+45011033a	~		Ō , ngam ṙūuti minë kanôlò minë mikah , töm inkaha ngam Tēv inrē ! öt chanöhen nup kinṙôka aṅ in Ò , 
+45011033b	~		öt ankahen nup talöökö Ò !
+45011034a	Achīö		Achīö ṙöng ap tö ngaich nö tö akahalōn tö ellōn ngam Tēv ? 
+45011034b	Achīö		Achīö ap misī mahalēnö Ò ?
+45011035	achīö		Hēk achīö ap mūurĕh nö kēĕkūö Ò , hòṅ e nö hēk nö haṙëniṙen nö in Ò ?
+45014004	Achīö		Achīö ṙöng öm meeṅ , muuyëkö kūön holre ? Lökngökūö ngam yöngre an min , nö söklöre , hēk fukngö , pòn minhôiṅyu ngam Mā nö asöklen ò .
+45014010a	Kūöyòh		Kūöyòh öm pöri meeṅ , uyëken ngam holre ? 
+45014010b	kūöyòh		Hēk meeṅ , kūöyòh öm hayëḵngen ngam holre ? Söklöre in yih min ṙòkhöre i kūö ngam anūichö kinṙôka tö ngam Tēv .
+46001020a	isuh		Isuh ap töakaha ? 
+46001020b	isuh		Isuh ap kamūich ? 
+46001020c	isuh		Isuh ap kamilṙô ing panam ? Röh ang ngam Tēv nö vītö kumlōov nö mikah ngih panam ?
+46002011	Achīö		Achīö ṙöng ap i vē tarik tö akahalōn tö aṅ i ngòh tarik , höng ngam maalaha ngam tarik , ngam miin ò ? Ngatī öt hĕng tak tö akahalōn tö nup aṅ im Tēv höng ngam Töhet Fanöinylö ngam Tēv .
+46002016a	Achīö		Achīö ṙöng ap töakahalōn tö ellōn ngam Tēv , 
+46002016b	~		nö tö hòṅ haköpten Ò ? Inu pöri ayīö tö ellōn aṅ in Kristū .
+46003005a	asuh		Asuh ang Apòlös ? 
+46003005b	asuh		Asuh inrē Pôl ? Mameukṙen , löktö yīö ṙātö ellōnre , kö i tī tö ellōnre , kö i tī ngam Mā nö kēĕkūö ò .
+46004007a	Achīö		Achīö ṙöng ap vamīi meh harīkngöre ? 
+46004007b	asuh		Asuh ap inrē in meh ap töt taneūngen meh ? 
+46004007c	kūöyòh		Yē meh pöri ngaich teūngen , kūöyòh öm eūeure , öm sāre yē meh öt teūngen tö e ?
+46004021	Suh		Suh ap lōn yīö ? Kumtö chinökṙen öich kòh , i hanāngenlōn ṙöng , inyāichngö ellōn inrē ?
+46005002	~		Ngaich yīö hakeūṙöre , öi öt sòk öre haṙivlōn , hòṅ ap tö ngatī laen nö kēĕyö nö ṙāang in yīö .
+46005012	Suh		Suh lökten ṙöng öich chūö , kahòkken yip aṅ lāuk ? Röh öi yīö kahòkken yip meël ?
+46006001	~		Öt paekūö öyih , öi chuh im kinṙôka , i kūö ngam tömichūṙen , yē yīö lāalkūö höö , ngaich röö öi i kūö yip töhet ?
+46006003	~		Öt akahalōn öyih tö hī min kahòkken maahānga ? Röh öng angūö nö möthë tö nup aṅ ngih nômö ?
+46006004	~		Yē yīö kahòkkuvöṙen tö nup aṅ ngih nômö , ngaich haūichlö yip töt aṅ ngih māṅ hòng yīö nö kahôka ?
+46006007a	sitih		Höö , haehangen an ngaich nö hanāten nö in yīö , öi kö lāal im kinṙôka . Sitih öt hökngenre lahëḵ hayeḵe ? 
+46006007b	sitih		Sitih öt hökngenre lahëḵ hachīlö ?
+46006009	~		Öt akahalōn öyih , tö vē tömichūṙen min nö öt amīnuvö tö ngam pūlngö ngam Tēv ? Un nyātölōn ; öt rēhĕn chamôòṅkānö ; vameekūö insātēv , maasĕhha , kumkantöre , chamôòṅ kikōnyö .
+46006016	~		Hēk öt akahalōn öyih tö ngòh tö hamūltu nö im miinyihköre kikānö nö hēngö alaha ? Pòn ngö ṙô angaaṅ , Hēngö alaha nan minā tö nët tak ,
+46006019	~		Hēk , öt akahalōn öyih tö ngam alaha yīö nö töhet chūök ngam Töhet Fanöiylö ngam miin yīö , ngam in yīö ngaich aṅ im Tēv ?
+46007016a	sitih		Sitih mikahlōn ṙöng öm meeṅ , Ō inpihö kikānö töre yē meh kô hayööken ngam pihöre ? 
+46007016b	sitih		Hēk , sitih mikahlōn öm meeṅ , Ō inpihö kikōnyö , töre yē meh kô hayööken ngam pihöre ?
+46009007a	Achīö		Achīö öp ṙung kumyung töng mameukṙenre nöng kahngenre ? 
+46009007b	Achīö		Achīö öp ṙung tameūich vāin , ngaich röö nö nyā ṙòng ò ? 
+46009007c	Achīö		Achīö ap ṙung mahaaṅhaṅl nuā ngaich röö nö nyā aṅteh ?
+46009018	Asuh		Asuh ap pökeh raneushö chu ? Yē chu ahangkö ngam tölöök inhānga , ngaich öt ṙāyu tī chūö tö inhangkö ngam tölöök inhānga , hòṅ chu öt hateungngö ngam kanahngen im tölöök inhānga .
+46010019a	sitih		Sitih ṙô öichpökeh ? 
+46010019b	~		tö kô nup tökētu nö i insātēv , 
+46010019c	~		hēk tökô nup insātēv ?
+46010029	kūöyòh		Ngam kuilōn , ṙô chu , röö nö kuilōn meh , tön yip tahëng ; kūöyòh ṙöng öng ngam kanahngen chu nö uyëka tö kuilōn tahëng .
+46010030	kūöyòh		Yē chu hamòl lökten im inlōnti , kūöyòh öich chōchö ineūka , tö kūö e ngam haöiny tö chu ?
+46011022	Sitih		Sitih ? Öt patīivö öyih tö chūökre nyā , òk inrē ? Hòṅ hayëḵngen vē māṅ ngam Tēv öyih ? Ngaich sumrōngngökūö cha vē töt nyamā ? Sitih ṙô öich min tö yīö ? Haöinyö yīö öich in e ? Höö chin haöinyö yīö .
+46012017a	isuh		Yĕn ṙòkhöre öre ngam alaha nöng mat ; isuh öre hināngö ? 
+46012017b	isuh		Yĕn ṙòkhöre nöng hināngö ; isuh öre tinôngö ?
+46012019	isuh		Ngaich yē u öre nö ṙòkhöre nö tūmö alaha nöng hĕng , isuh öre ngam alaha ?
+46014006	asuh		Kahōlö , yē chu pöri töngamuh yih in yīö , ṙô tö tahëng ëlô , asuh ap kanôlò yīö tö tī chu , yē chu öt ṙôòv lökten i inmeukti , hēk mikah , hēk minkahten , hēk inköphöti ?
+46014007	sitih		Pòrô nup töt unhômu ṙung , ngaich nöng ṙôòv , fanöö , hēk ranöng , yē u nö öt kö i ëlôre ṙô nö ip pööinyṙôre , sitih inkaha öp min yĕn töfööṙö , hēk röngö .
+46014008	achīö		Pò ngam fanöö öre nö öt lēnö ṙô , ngaich achīö öre mahalēnöre nö im kinyūngö ?
+46014009	sitih		Ngatī inrē yīö , yē yīö öt ṙô tö tölööṙen inkaha ṙô , sitih inkaha öng öre ngam töṙônyu ? Höng veekūö kuföt yin yih min ngaich .
+46014015	Asuh		Asuh öng pökeh ? Hòṅ hol tö ngam maalahare chin vëekūötēv , hòṅ hol tö ngam mikahre chin inrē vëekūötēv ; hòṅ hol tö ngam maalahare chin tikökṙôre , hòṅ hol tö ngam mikahre chin inrē tikökṙôre .
+46014016	sitih		Lökten yē meh holtö ngam maalaha hakôlò , ngaich sitih lökten min ngam töthuveūeuṙô nö ṙô tö , Āmen , ip hē meh haöiny ; tö ò nö öt akaha elnang tö ṙô meh ?
+46014026	asuh		Kahōlö , asuh öng pökeh ? Yē yīö mūlö yanihih , kö hēngö in tö salmai , īnu tö tahëng ëlô , īnu tö vineeny manah . Hökngen u nö ṙòkhöre nö kēkaṙen nö inrukhölö .
+46014036	asuh		Asuh ? Lökngörit in meh chanuhu öng misī ngam ṙô ngam Tēv ? Hēk , höng meeṅ hòng tölööṙu tö e ?
+46015012	sitih		Yē Kristū nö ngaich nö ahangka nö hachohlöngö nö ṙāang i yip tökapah , sitih yip rēvre in yīö tö rööv ṙô tö invanlö tökpaha ?
+46015029a	~		
+46015029b	sitih		Yē e öre nö öt ngatī , sitih aich min vē tö vōkö tö kūö vē tökapah ? 
+46015029c	kūöyòh		Yē vē tökapah öre nö öt havanlöre , kūöyòh aich nö vōkö tö kūö cha ?
+46015030a	~		
+46015030b	Kūöyòh		Kūöyòh öi ayīö örheūheu kihngen ?
+46015032	Sūap		Sūap kanôlò chu , yē chu öre kilöön nup tö tainy chehechōn i Efisös ? Yē vē tökapah öre nö öt mahavanlöre , Tāa töi nyā , inrē ; tön kapah in huṙöich .
+46015035a	sitih		Yôòv öp min tö ngö ṙô , sitih inchohlö aich vö vē tö kapah ? 
+46015035b	asuh		Asuh ap min alaha cha ?
+46015055a	isuh		Ō kinpaha , isuh ap minhôiṅyö meh ? 
+46015055b	isuh		Ō kinpaha , isuh ap chanökö meh ?
+47002002	achīö		Pò chu , yē chu miṙivngö lōn yīö , achīö ap pökeh tö ṙāmölōn tī tö chu , tön angaaṅ ngam tö miṙīvilōn tö chu ?
+47002016	Achiāp		Kumchik im töhĕng aṅ im kinpaha , nö im kinpaha ; im tahëng kumchik aṅ im nômö nö im nômö Achiāp töthāṅten in në ?
+47003008	sitih		Sitih nö öt mötlö ngam mineukṙen nö hol tö kanôlò ngam aṅ im maalaha ?
+47003009	~		Yē ngam mineukṙen aṅ im ötinkôlò , nö kanôlò , mötlö ngam mineukṙen aṅ im lanöökö nö yahlö nö im kanôlò .
+47006014a	sitih		Un haṙongtö kaheunre i töt ṙāmātö ellōnre : sitih innôltö ṙöng ngam lanöökö nö im öt lanöökö ? 
+47006014b	sitih		Sitih inmūlti ngam hanātö nö im sinngūlö ?
+47006015a	sitih		Sitih ranòngta ṙöng Kristū nö in Pēlial ? 
+47006015b	asuh		Hēk asuh minchöḵö ngòh ṙamātö ellōnre nö im tötṙamātö ellōnre ?
+47006016	sitih		Sitih hanôòṅ ngam töhet chūök ngam Tēv tö ngam insā tēv ? Pò hī ayīö töhet chūök ngam tö aṅ Tēv ; sā ngam Tēv nö ngö ṙô , Iyöng in cha chin min , lök in cha inrē , ngaich tarik chu min chaa .
+47011011	Kūöyòh		Kūöyòh ? Kūö öt hanāngen chu tö yīö ? Akahalōn an ngam Tēv .
+47011029a	~		Hĕng tak hòng ngòh tötkalēḵen , ngaich öt kalēḵen röh chuö ? 
+47011029b	~		Hĕng tak hòng ngòh töfukngö , ngaich hūṙö ellōn röh chuö ?
+47012013	asuh		Asuh ṙöng ap umuh ap hanöḵangen yīö tö yip tahëng māṅ , höng angūö , pò chu öt lumngan yīö ? Aṙēlen chu tö ngih tö vaich .
+47012017	~		Ngaich hakeūngen yīö hông chuö öich lökten i yip tahīnngöre in yīö ?
+48002014	sitih		Ngaich hē chu meūkö cha nö öt chīpö talöökö nö i kanôen ngam tölöök inhānga , ngaich ngö ṙô chuö tö Pītör , i kūö cha nö ṙòkhöre , Yē meh meeṅ öm Yāhūti , öm asīntö re i vē Tahëng mihëṅṙö tarik , ngaich röö öm sā Yahūti , sitih öm līpten yip Tahëng mihëṅṙö nö asīntöre nö i Yāhūti ?
+48003001	achīö		Ō töt akaha aṅ Kalatī , achīö öp vamīngen yīö ? I kūö chīö ök Kristū nö ngāṅlnyi nö harātu ?
+48003019	Asuh		Asuh öng pökeh ngam chöngö ? Kētu an kūö tökööl , hanöng saha ngam lamökngörit nö yih , ngam lööṙö ngam kinlēḵngô ; lökten i maahānga angūö nö kētuvö , nö eltī ngam aṅhôi .
+48004009a	sitih		Ngaich pöchö yin akahakūö tö ngam Tēv , hēk , akaha tö ngam Tēv , sitih öi hēk havantöre im töt kalēḵen tötkôlò öt mikah , 
+48004009b	~		ngam chūök lōn yīö hòṅ hakövö hēk ?
+48004010	~		Haköpkö nup sakāmö yin yih , chingëṅt , ṙētak , samyeūheu inrē .
+48004015	Isuh		Isuh öp pökeh nöinyö yīö ? Tön eūken yīö chin chuö , tö yīö kôòren peôknyö matre ngaich kētö u nö in chu .
+48004021	Kūöyòh		Vëenynang chu yin yīö , tö hòṅ elkatòh ngam chöngö , Kūöyòh öi öt hang ṙô ngam chöngö ?
+48004030	Sitih		Sitih ṙô pöri ngam töhet līpöre , Ahōngö ngam mahalanṙen kikānö , töm kūön ò inrē . Pòn ötkô ngam kūon ngam mahalanṙen , nö amīnu nö hol ngam kūön ngam töt hakövö .
+48005007a	achiāp		Löököröön yin ngaich fal ; achiāp maasānngen yīö öi hōtu ahôngen ngam kanôen ?
+48005007b	~		
+48005011	kūöyòh		Kahōlö , yē chu pöri ṙòngmö ahangkö ngam tunnyinyngö , kūöyòh öich ṙòngmö öthakôlòngṙô ? Ngaich panchö ngam insātö ngam töhakālö nö kēĕyö .
+49004009	asuh		Yônlö Angaaṅ , asuh öng angūö , tön kūö Ò ngaich nö yônti nö lātaṙeūḵ töng panam ?
+50001018	Sitih		Sitih pökeh ? Höng angūö , nö kö löktöre inhangka Kristū , yĕn innyatkö elmat ; hēk kanôen : ṙāmölōn chuö in e , hôṅ ; hòṅ ṙāmölōn chin .
+50001021	~		Pòn in Kristū ngam anāhaṅ chu , taneūngen , yē chu kapah .
+51002020	kūöyòh		Yē yīö kapah hol Kristū ṙāang i nup ranehlö ing panam , kūöyòh öi yīö elkatòh nup chöngö , öi sā miiyöng ing panam ,
+52002019	Asuh		Asuh ṙöng ap , maheūṅkkö ih , ṙanāmölōn , sapīöv ineūeuṅ ? Röh öi yīö , i kūö ngam Mā Yēsū ip yanihih Ò ?
+52003009	Suh		Suh öp öre nöinyö ngam Tēv tötī ih tö pòkūö yīö , tö kò nö kahëtö ih , tön ṙòkhöre nup ṙanāmölōn , nup ṙanāmölōn ih nö i kūö ngam Tēv hī , tö pòkūö yīö ;
+54003005	sītih		Yē tarik pöri nö öt huveūen nö hayöng patīre , sītih kanôen ang min nö meukkö ngam Māṅ ngam Tēv ?
+54006007a	yih		Pò hī öt kūmuṙen yih ing panam , 
+54006007b	~		bngaich röö rēhĕn ayīö kô kūmuṙen ṙāngö e ;
+58001005	Öpyòh		Öpyòh ṙöng öp ṙung maahānga , ṙô Ò nö ngö ṙô , Meeṅ man Kūön Chu : i ngih sakāmö man Öm lökngörit Chu , ngaich hēk , Yöng Ò Chin min ; kūön Chu min angaaṅ inrē .
+58001013	Achīö		Achīö öp pöri tö yip maahānga ṙô Ò nö hĕng heuh ṙô nö ngö , Ūichngöre man lahāmö chu , hanöng sahatī chu vītö yip tö kunyahaṅ elmat tö meh nö ṙanöönö röön meh ?
+58001014	~		Röh yip chaa nö ṙòkhöre nö mameukṙen ngam Tēv , tīntu nö tö laevṙen tö pòkūö cha yip tö amīnu min tö inyööken ?
+58002003	Sitih		Sitih öt kanôòngvah öi min ayīö , yē hī öt kūöngenre tö töngatī ṙôken inyööken ? Nuk tö ngaich nö urĕh sin misī nö lökten im Mā , nö ṙônyu ngaich hameuktu nö kôen nö in hī tö cha yip hamang .
+58002006a	asuh		Hĕng tak pöri öp tö yôòv chūök ṙô nö hameukhöti , nö ngö , Asuh ang ngòh tarik , tö Meh urōholōn tö ò , 
+58002006b	~		ngòh kūön tarik inrē tö Meh meukṙen ò ?
+58003016	Achīö		Achīö yik maharunnyö lanīnö , hē cha nö hang ? Höö , röh yik chaa nö ṙòkhöre nö ṙāang Aikup tö tī Môsös ?
+58003017	chīö		In chīö Anga nö fën anāi samyeūheu nö kunyahaṅlōn ? Röh Ang nö in cha , yik tököölö fālen , yik tö hulalhak alaha nö elinchōn ?
+58003018	chīö		In chīö Ang nö chūökuṙô , tö cha nö öt kuhēthötre nö im haneūheu Ò , tön höng in cha yik tö minôṙô ?
+58006004	~		I inlahen cha yip tö ngaich nö hĕng heuh inhatlö elmat , tö ngaich nö kalahlöngkūö tö aṅ elhalīöngö inlōnti , vītu inrē nö hamòl ngam Töhet Fanöinylö ,
+58007011	asuhtöre		Yĕn teungten öre nö lökten in Lēvī ngam laen kūönṙô ( pòn el katòh yik tarik nö teūngen tö ngam chöngö ) , asuhtöre lōn öi ayīö tö tahëng kūönṙô öi hōklöre öi lökngörit Melkisētĕk , öi öt lökngörit in Melkisētĕk , öi öt kaheuktu öi lökngörit in Āròn ?
+58009014	Iṙôkhöl		Iṙôkhöl öre ngam mahām Kristū , ngam lamökten im töörheūheuaṅ Töhet Fanöinylö , nö kēḵngöre nö im Tēv , nö töt mirūnuvö , ahetlö elkui lōn yīö , i nup tökapah laen , öi lök laen ngam töaṅ Tēv .
+58010001	~		Pò ngam chöngö nöng nyat nup tölöök yamih , öt nup tökôen takô nö insā ; ötkô anūö nö holtö nup tökētuvö töt hĕnghang samyeūheu , nup kahëtö cha nö örheūheu , nö teungtentī tö yip yamih .
+58010029a	Iṙôkhöl		Iṙôkhöl öt inkôlò min , tö lōn yīö , angaaṅ , 
+58010029b	~		ngam ramööntö kui ngam Kūön ngam Tēv nö elröönre ngaich inrē nö kaheuktö ngam mahām ngam kinlēḵngô nö töthet , 
+58010029c	~		ngam löktö ò nö ahetlöngö , 
+58010029d	~		ngaich miyëḵṙen inrē tö ngam Töhet Fanöinylö inlōntö ?
+58011032	Iṙôktöre		Iṙôktöre ṙô öich min ? Keuheūtö ṙētak chin min , yē chu vënyen Kītīön , Pārök , Sëmsön , Yefta ; Tāvit , Samuĕl inrē , tö yik pròfĕt inrē :
+58012007	achīö		Kūö e angūö chinökṙen ngam kaheun yīö , sā tīre An ngam Tēv tö yīö , tö kūön ; achīö ṙöng öp nyīö töt chöken tö yöngre ?
+58012009	~		Hēk inrē ayīö yöngu tö tarik nö chamökṙen hī , ngaich ayīö ṙung milēḵṙen tö cha : röh öi mötlö hòṅ hang chöngö ngam yöng maalaha , ngaich aṅ ?
+58012025	~		Meūkö e yin , ui sōḵen ngam tö takaka ṙô . Pò cha , yē cha nö kôḵòngvah , hē cha nö sōḵ tö ò , ngam mahatūitö elnang cha nö ing panam , kôḵòngvah min ayīö öi möthë , öi mahavööngö kūöre tö Ò ngam mahatūinyôre nö ṙāang elhalīöngö :
+58013006	~		Lökten hī holtö nyanatlö öi ngö ṙô , Ngam Mā Tēv an hamòlṙen chu ; öt paekūö chin min , töp tī öp tarik min tö chu .
+59002006	~		Ngaich pöri yīö miṙēngö ngam yāich tarik . Röh yip tökôlò ṙung nö miyëḵ tö yīö , ngaich chaa inrē nö tūökten yīö i kūö chūök kinṙôka ?
+59002014	asuh		Kahōlö , asuh ap kanôlò , e , yē ngòh tarik nö aṅhaṅvin tö ṙinātö ellōnre , öt aṅhaṅvin pöri tö nup laen ? Kô öng ngam ṙinātö ellōn nö hayööken ò ?
+59002016a	~		Ngaich hĕng tak tö yīö tö ngö ṙô tö cha , Kuṙòh ngaich yin , im kumchikṙen , ṙāich yin yēḵ ngaich , tööḵngen yēḵ inrē , ngaich röö yīö kēĕkūö cha tö nup lōn ngam alaha ; 
+59002016b	asuh		asuh ap kanôlò tī e ?
+59002018	~		Hôṅ , yĕn hĕng tak öp tarik tö ngö ṙô , Aṅhaṅvin man meeṅ tö ṙinātö ellōn , aṅhaṅvin chuö inrē tö nup laen ; hameuktö ngam ṙinātö ellōnre man in chu nö köhngen tö nup laen meh , ngatī chuö inrē i nup laenre hameuktö ngam ṙinātö ellōnre in meh .
+59002021	~		Röh ök muvöhngö hī Aprahām , nö kūö nuk laen nö halööklöngö , i ò nö kētö ök kūönre Īsak nö el ök tahāklö ?
+59003013	Achīö		Achīö öp in yīö töakaha , tö akaha ellōn inrē ? Hökngen ò yēḵ nö hameuktö lanöökö inlahenre nö i vahīṙenre , holtö inyāichngö , öp aṅ im mikah .
+59003017	~		Ngam mikah pöri ṙamāang lātulöng nö hanëtö raneh , lanāmen , hēk ṙanēmen , tövanëenkūö , tööḵlö tö miṙēlōn , tölöök laen inrē , öt īnu tö intölten , innyatkö elmat inrē .
+59004001a	ṙeūeungyih		Ṙeūeungyih ön në kinyūngö , 
+59004001b	ṙeūeungyih		ṙeūeungyih inrē në kinlöönö , nö in yīö ? Röh ön nö lökten i ngih ihih , ngam kunchikngenre tö yīö , ngam kumyung nö i minë tūmö alaha yīö ?
+59004012	chīö		Höng hĕng tak an ngam kamëtö chöngö , maakah inrē , höng angaaṅ An tö kô nö hayööken , fëlhanga inrē ; chīö öm pöri meeṅ maakah holre ?
+59004014	asuh		Ngaich röö yīö akahalōn töp min ip huṙöich . Asuh öng ngam nômö yīö ? Tö yīö höng hanusngö , töng rahëichtaṙen meūkö , chaṙēviyö ngaich .
+60002020	asuh		Asuh ap öre ineūeuṅ e , yē yīö kūö fālenre öi hachökö , ngaich hökngenre yīö holtö manöiyöre ? Yē yīö pöri laevṙen tö tölöök , ngaich kihngen töpòkūö e , hökngenre yīö tö e holtö manöiyö , töhōḵovö an angūö nö im Tēv .
+60003013	Achīö		Achīö ap min töchökhuṙen tö yīö , yē yīö hāngenlōn takô tö tölöök ?
+60004017	sitih		Tön yih an ngam ṙētak kinṙôka nö rĕhlöngö nö el patī ngam Tēv : yē e pöri nö rĕhlöngö nö in hī , ngaich sitih manāngen min yip maahôngô ngam tölöök inhangkö ngam Tēv ?
+60004018	isuh		Yē ngam tölöök inrē nö öhngövah nö öt hayöökaṙen , ngaich isuh min yip tötlöök , tö yip tököölö fālen inrē nö meūkö ?
+61003004	Isuh		Nö ngö ṙô , Isuh ap kinlēḵngô yanihih Ò ? Tön höng iṙūöhen nun në taṙòkhöre nö sāre misī tö ranehlö vinīil u , hētentö yik muvöhngö hī nö kapah .
+61003011	sitih		Meuk öm pöichö tö në nö ngatī nö ṙòkhöre nö piyööyi , hòṅ sitih inlahen öi yīö tarik öi i nup töhet , nup lanöökö inrē ,
+62002022	Achiāp		Achiāp töminyôiny ? Tön höng angaaṅ ngòh mamahngen Yēsū nö Kristū . Angaaṅ an ngòh töminyôiny Kristū , angaaṅ ngam mamhangö ngam Yöng töm Kūön inrē .
+62003012	Kūöyòh		Öt sā Kēn , nö aṅ im sīö tötlöök , ngaich fëlngö ök kahëmre . Kūöyòh ök nö fëlngen ò ? Pò nuk laen ò nö tötlöök , ngaich tölöök nuk laen ök kahëm ò .
+62003017	sitih		Yē ngòh tökôlò nö ing panam ngaich meuk holre nö ötkôlò , ngān röövö nö aheūkölōn tö Ò , sitih hanāngenlōn ang angaaṅ tö ngam Tēv ?
+62004020	~		Yĕn hĕng tak tö ngö ṙô , Hāngenlōn chin chuö töm Tēv ; ngaich surīkhö holre : töminyôinyaṅ an angaaṅ . Pò ngòh töt hāngenlōn tö holre tö ngòh maheuṅkre , ötkô nö hāngenlōn töm Tēv , ngam töt maheuṅk ò .
+62005005	Achīö		Achīö öp tö mihôiṅ töng panam ? Tön höng ngòh ṙamātö ellōnre tö Yēsū nö Kūön ngam Tēv .
+66005002	Achīö		Ngaich hĕng tak öp maheuṅk chu tökalēḵ Maahānga , ahānga nö pōitô , Achīö öp tökô nö löpnyökūö ngam līpöre , ṙòngnyökūö minë inpanngö e inrē ?
+66006010a	Iṙôktören		Ngaich hūḵa chaa nö pōitô nö ngö ṙô , Iṙôktören ? Öt kamhôka ömeh ? Öt havahalvah nuk mahām ih öm ; in cha yip mīiyöng kūö ngam panam ? Ō Mā , Töhet , tökôen inrē .
+66006010b	~		
+66006017	achīö		Pò ngam tökiröng sakāmö ngam lanīnö cha nö yih achīö öp tökô nö sökhaka ?
+66007013a	Achīö		Ngaich hĕng tak ök aṅ i yik mā tö ngö ṙô tö chu , nö sap ṙô , Achīö aich vē , tö hayūtö tö töaṙūuti inyut töisoh , 
+66007013b	yih		ṙāang yih aich inrē ?
+66013004a	Achiāp		Ngaich chaa nö salām ök tulan , pò ò nö kētö chöngöre nö ik töṙeūla ; ane inrē chaa salām ök töṙeūla , nö ngö ṙô , Achiāp tö sā ngam töṙeūla ? 
+66013004b	Achiāp		Achiāp inrē tö kô nö kiyung nö lāal ò ?
+66015004a	Achiāp		Achiāp töt paekūö , Ō Mā ? 
+66015004b	Achiāp		Achiāp töt mahapōilö ngam minëeny meh inrē ? Tö meh höng meeṅ töhet , pòn ṙòkhöre min vē pumnāmö tarik nö yih ngaich salām nö ikūö meh ; pòn hameuktu nö ngaich nuk lanöökö laen meh .
+66017007	Kūöyôm		Ngaich ngö ṙô ök Maahānga tö chu , Kūöyôm pingangkūö ? Hòṅ vëenynang meh chin tö ngam ötmikahkūö aṅ im kikānö , tö ngam töṙeūla inrē ngam chūök ò , ngam tökuiyu tö minë tö sat tö sömö sinrōl inrē .
+66018018	öp yòh öp		Ngaich hūḵnyôre , tö saha matre nö meuk lulkūö finöngngö ò , nö ngö ṙô , Öp yòh öp elpanam tö sā ngam tökiröng elpanam ?

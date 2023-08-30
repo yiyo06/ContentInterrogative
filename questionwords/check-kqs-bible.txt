@@ -1,0 +1,743 @@
+40002002	Kuɛɛ		má ɲuna aa : « Kuɛɛ masa Yuifia co yɛ , o langa volun-ndo pɛɛn ? Kani n lo a ba paalen le can-ndo , mí n ca loei ndɔɛi . Le ndu biiloo naa n hin ni . »
+40002004	nɛɛ		Mí masaa mɔɔsiaa bolii vanaa-solia-lasálàá kpow a vanaa pɛɛkaa latɔŋnda , mó ɲuna nda nɛɛ Krista ndóò bɛnda le volɔnndo-a .
+40003007	Nɛ̀ɛ́-nɛ̀		Nsaŋ ndóò cɔu maa Faliisia a Sadusea co hunɔɔ taw le yinɔɔ sɔlaa , mó dimul nda aa : « Niaa cuavaa hɔ̀ɔ̀lɔ́a ha ! Nɛ̀ɛ́-nɛ̀ dimul-lɛ niaa le kɔltuw Hala co nin hoo kpɛɛlun-ndo ɲaanɔnndo ?
+40005013	vɛ̀ɛ̀		« Hɛlle niaa co o lɛŋnden coo ni . Kɛ te yeelaa fula pɛ hɛlle , vɛ̀ɛ̀ vana mingi yɛ ndi yeeliaa ? I niŋ ndɛ le ɲɛ-ɲɛ le , fɔ le ndi viovɔɔ o bɛ́ɛ̀ , mì vannda nɛw ndi .
+40005046	yɛɛ		Kani te la kaola pɛ vanaa kaola niaa-a daama , vɔ̀ngɔ̀ yɛɛ nɛ niaa sɔ̀là yɛnin o kon ? Vɛ̀ɛ̀ o co lende le vanaa biyaa mulua bɛɛ tosa le ?
+40005047	ɔ́ɔ̀		Te o va pɛ maa puapilɛa niaa daama niaa yìl ni , ɔ́ɔ̀ dɛnɛ bɛndu niaa tosa o kon-ndo ? Vɛ̀ɛ̀ o co lende le vanaa sina Hala le-a bɛɛ a tosa le ?
+40006027	nɛɛ		O niaa tɛɛn , nɛɛ nɔla yɛ mò cɔɔlu yoomu ndɔɔ bɛndi hali ɲɛ-pɔmbɔ a buulannda ndɔlan ?
+40006028	le yɛɛ		Le yɛɛ niaa co yɛ niko buulanndo le ɲɛ cuɛinanndo ? La mɛɛndan-ndɔ mɛɛ billo hindu yondoo nin yɛ , o tosa baala le , o vomul te .
+40006031a	Yɛɛ		Lelan , la buulan mì la ɲunan te aa : ‹ Yɛɛ naa n dia yɛnin ? › , 
+40006031b	Yɛɛ		‹ Yɛɛ naa n kol-lɛnin ? › , te kon te aa : 
+40006031c	Yɛɛ		‹ Yɛɛ kpeekpei naa n cuɛinun yɛnin ? › .
+40007003	le yɛɛ		Le yɛɛ n co yɛ bilte co puapilɛ nɔmndo o hɔl-ten tofaa , a dow yɔm ipɛngɛ co nɔm pila o lehɔl-lo taasi le ?
+40007004	vɛ̀ɛ́		Te kon te , vɛ̀ɛ́ n dimul-lɛnin puapilɛ nɔmndo aa : ‹ Mɛi-yɔ i soli nɔm bilte co nɔm o hɔl-ten › , te yɔm ipɛngɔɔ co pɛ nɔm pila o lehɔl ?
+40007009	ɔ́ɔ̀		O niaa tɛɛn , ɔ́ɔ̀ vana po ndɔɔ piɛi buloo mò ke ndu powvo-o ?
+40007016a	Vɛ̀ɛ̀		O komɔɔ ndaa niaa sinanin nda ni . Vɛ̀ɛ̀ vana kiandu pá rɛsɛnndon o yɔm n'yɔɔ , 
+40007016b	~		te kon te vooson o siɛmbullo ?
+40008026	le yɛɛ		Mó dimul nda aa : « Le yɛɛ niaa co yɛ a siòònde ? Laalan niaa dɔɔnan dɛ ! » O kon , mó can , mó kpaa hoeiye a mɛnndan , mí ɲɔɔ mei o lepilɔɔ doŋ .
+40008027	yɛɛ		Mí kɔndɔfili bɛndoo bii vanaa kan kpow , má va dimulanndo aa : « Vanaciee súú yɛɛ co yɛ hoo ? Hali hoeiye a mɛnndan ma bii sɔɛi ndɔɛi ! »
+40008029	Yɛɛ		Má can yoondiaa aa : « Yɛɛ n yeema yɛ le naa yɔŋndo , nɔm po Hala-o ? Vɛ̀ɛ̀ le naa saangiaa n hin ni lɔ́ɔ́ pá mì telenndo tiiya ? »
+40009004	le yɛɛ		Yeesu ndóò sina nin yiyan ndaa , mó ɲuna nda aa : « Le yɛɛ niaa nɔ yɛ yiyannda vɔɔnndan o lakɔl ?
+40009005	kuɛɛ		I kuɛɛ hiow yɛ va bɛɛn-bɛɛn o sɔɔn miunndon mun nin , dimio aa : ‹ Hakila nɔmndan la malnun haki › , a dimio aa : ‹ Cɔn ma kela ? ›
+40009011	le yɛɛ		Faliisia cɔu lende , má ɲuna kaandeŋaa Yeesu-a aa : « Le yɛɛ vana niaa bɛndoo co yɛ dioo nda vanaa biyaa mulua a vanaa lahakia latulu ? »
+40009014	le yɛɛ		Tuma pum , mí kaandeŋaa Nsaŋ-nda hun o Yeesu lo , má ɲuna ndu aa : « Le yɛɛ nɛ naa a Faliisia n co yɛ sumndo biyɔɔ , kɛ kaandeŋaa nɔmnda nda co sum biyɔɔ le ? »
+40009015	~		Mí Yeesu mulul nda aa : « Mialaa hin vana yil lanɔɔ sɛnɛi-yo o bɛngu coo-a nɔla pá mà yii hɔlla , te vana yil kon lanɔɔ sɛnɛi-yo co vɔ pɛ nda tɛɛn ? Telen vanin mà faŋa ndu nda tɛɛn , o kon nda biinin sumndo ni .
+40010025	~		Kɛ kaandennɔɔ tiiya pɛ maa vana ndɔ pɛɛkaa , mì cɛɔ tiiya maa vana ndɔ bɛndoo , kon tiw . Nɛɛ nda veelu vɔ vana co cɛiyo bollen-ndo nuaa aa Beɛlsebul , vanaa co cɛinin-nda yɛ niko ?
+40011007	Yɛɛ		Tuma kaandeŋaa Nsaŋ-nda va kɔnndan-ndo , mí Yeesu mulin sɔɛi o vannda lo a Nsaŋ o kɔɔ aa : « Yɛɛ niáà kɔɛ yɛ tofaa o lɛŋnde vesɛilen nin ? Vɛ̀ɛ̀ kpɛ̀ndɛ̀le hoeiye va hiiloo len niáà kɔɛ tofaa ni ?
+40011008	yɛɛ		Kɛ yɛɛ niaa kɔ cɔ yɛ ? Mò va maa langbanɔ vownun volɔɔla cuɛinannda sɔvɛlan-ndo ni ? Kɛ o cɛila masaa nin vanaa vownun volɔɔla sɔvɛlan-nda co ni .
+40011009	Yɛɛ		Yɛɛ niáà kɔɛ yɛ niko tofaa ? Bàà vana-tɛɛngaa-diom Hala-o ni ? I co niaa dimul , hiovɔɔ bɛɛ vana-tɛɛngaa-diom Hala-o coo .
+40011016	nɛ̀ɛ̀		A nɛ̀ɛ̀ ya tuu yɛnin vanndacieea vaalio ho ? A co ko kpen a cuaambɔa co icali o luŋ , mà va caaŋaa ndaa veeloo-a ,
+40012011	ɔ́ɔ̀		Mí Yeesu mulul nda aa : « O niaa tɛɛn , ɔ́ɔ̀ vana nɔ saa ndu pilɛ , mì saa kon del o soondo nin o paale pɛngiaalen coo , mò kɛɛ ndu biyɔɔ le ndu solio-o ?
+40012026	vɛ̀ɛ̀		Te Setana tow pɛ Setana , mɛɛ ndu pila piɔvan ni , vɛ̀ɛ̀ masale ndɔlen le nɔla yɛ mì le lo lemasa ?
+40012027	nɛ̀ɛ́-nɛ̀		Te o va pɛ aa a kpaaya Beɛlsebul-lo ya co ɲinaa vɔɔnda tovɔɔ ni , mɛɛ a kpaaya nɛ̀ɛ́-nɛ̀ poaa niaa co yɛ ɲinaa vɔɔnda tovɔɔ ? Lelan kpeekpei nda pila kialunin niaa iyama ni .
+40012029	vɛ̀ɛ̀		Te kon te , vɛ̀ɛ̀ vanndo nɔla yɛ mò kɔ luɛi o vana kpaayaa pum ndo cɛinin , mò cua ɲɛm ndɔn kpow , te o yii fɔlɔn vana kpaaya kon , malan o mulin niko mo cua ɲɛm ndɔn te ?
+40012034	vɛ̀ɛ̀		Niaa cuavaa hɔ̀ɔ̀lɔ́a ha , vɛ̀ɛ̀ niaa tiw yɛnin ba sɔɔn kɛndɔn dimio , te niaa pila co pɛ a vɔɔn-vɔɔn ? Kani ɲɛ pia o kɔllo nin-ndo , ndu sondoo dimi ni .
+40012048a	Nɛ̀ɛ́		Kɛ mí Yeesu mulul vana kon aa : « Nɛ̀ɛ́ co yɛ kala nuu , 
+40012048b	nɛ̀ɛ̀aa		nɛ̀ɛ̀aa co yɛ pɔmbɔa nia ? »
+40013010	le yɛɛ		Mí kaandennda sɔɔnguu Yeesu ikɛi , má ɲuna ndu aa : « Le yɛɛ n soaa yɛ o vannda lo o talelan nin ? »
+40013027	kuɛɛ		Mí vanaa baalaa vana iciɛɔ hun dimul ndu vana iciɛɔ aa : ‹ Fallo , o co malun kɛndɔn te n saŋ o ciɛi nɔmnde nin te ? Kɛ kuɛɛ bil vɔɔndo ho ndu fula yɛ niko kpeekpei ? ›
+40013054a	Kuɛɛ		Mó kɔa o lɛŋnde ndɔlen nin , mó kandu vannda pɛɛkoo o cɛila lekaanndan nin , mí kɔndɔfillo bii nda . Má va dimio aa : « Kuɛɛ o fula yɛ a kɔlkaloo ho a á kaamaala o co lan tosaa lan ?
+40013054b	~		
+40013056	Kuɛɛ		Yemaa ndɔa co macoaa naa tɛɛn kpede le ? Kuɛɛ ndu fula yɛ nin a kpaayaa ho ? »
+40014031	le yɛɛ		Fɔ́ɔ́fɔ̀ , mí Yeesu siɛndi baa , mó saa ndu , mó dimul ndu aa : « Laalan nɔmndo dɔɔnan bɔɔ , le yɛɛ n kiisan yɛ ? »
+40015002	le kɔlɔ yɛɛ		« Le kɔlɔ yɛɛ kaandeŋaa nɔmnda co yɛ naamula fuɲaa naa mamaa tɛɛmbuuo ? Kani a pulù balan le ɲɛdiaa dioo mɛɛ naamu naa co yɛ le . »
+40015003	le yɛɛ		Mó muli aa : « Niaa yɛ , le yɛɛ niaa co yɛ tɔŋ Hala-o tɛɛmbuuo le naamu niaa ?
+40015033	Kuɛɛ		Mí kaandennda ɲuna ndu aa : « Kuɛɛ naa n fula yɛnin a ɲɛdiaa o lɛŋnde veselɛilen nden nin le sɛ́lɛ́ bɛndoo ho kpow pimio ? »
+40015034	Vɛ̀ɛ̀		Mí Yeesu ɲuna nda aa : « Vɛ̀ɛ̀ kpɛɛ niaa nɔ yɛ bululan ? » Má mulul ndu aa : « Laŋɔmmɛw a suvaa pɔmbɔa ɲɛ-pɔmbɔ . »
+40016008	le yɛɛ		Yeesu biyɔɔ sɔɛi nda va ken-nde bila , mó dimul nda aa : « Le yɛɛ niaa co yɛ dimio niaa pila tɛɛn aa : ‹ Le bulu naa n cue loo o co dimio nuaa ni › ? Laalan niaa dɔɔnan bɔɔ dɛ !
+40016009	~		La bii yɔ bila le ? La loonun a bulula ŋuɛɛnula vanaa vaala ŋuɛɛnua de , mí la lo kambɛilan taw , mí la kɔannun a lan-ndan te ?
+40016010a	~		La loonun ndɔ vɛlɛ a bulula ŋɔmmɛwla piɔwnun vannda vàálan tan hiɔɔlu , 
+40016010b	~		mí la kɔa a latɔ̀lan kambɛilan taw lan te ?
+40016011	le yɛɛ		Te i dimul niaa pɛ aa : ‹ La mandan a lɛvɛn Faliisia a Sadusea › , le yɛɛ niaa co yɛ kɛɛ bila biyɔɔ maa o co le ɲɛdiaa le ya soo lende le ? »
+40016013	Vɛ̀ɛ̀		Yeesu tiiyaa o tàndá Sesaree Filipe-o nin , mó ɲuna kaandeŋaa ndɔa aa : « Vɛ̀ɛ̀ vannda co yɛ dimio le vana ya co-o , ya Po vanacieo ? »
+40016015a	~		Kɛ mí Yeesu ɲuna nda aa : « Kɛ niaa yɛ , 
+40016015b	vɛ̀ɛ̀		vɛ̀ɛ̀ niaa co yɛ dimio le vana ya co-o ? »
+40016026a	yɛɛ		Vanacieo sɔla bɛɛ ceendo ho kpede , te yoomu ndɔɔ hɛlun ndu pɛ , tɔnɔ yɛɛ o sɔla yɛ o kon ? 
+40016026b	yɛɛ		Te kon te , yɛɛ kpeekpei vanacieo yɔngù yɛ le yoomu ndɔɔ singaa ?
+40017010	le yɛɛ		O kon kɔɔli , mí kaandennda ɲuna Yeesu aa : « Le yɛɛ vanaa pɛɛkaa latɔŋnda co yɛ niko dimio maa Elii co fɔlɔn hunɔɔ ni ? »
+40017017a	Háá telen kuɛɛ		Mí Yeesu muli aa : « Éé , niaa vanaa nila kalua a vanaa laasiannda ha ! Háá telen kuɛɛ nɛ ya lo yɛnin niaa ikɛi ? 
+40017017b	Vɛ̀ɛ̀ kpɛ́		Vɛ̀ɛ̀ kpɛ́ ya lo yɛnin biwnɔnndo a niaa ? La cuu ya ndu nanu . »
+40017019	le yɛɛ		O kon mí kaandennda sɔɔnguu Yeesu ikɛi , má ɲuna ndu sɔɔsɔɔ aa : « Le yɛɛ naa n bumba yɛ ɲina vɔɔndo ho tovɔɔ ? »
+40017025a	vɛ̀ɛ́		Mí Piɛr muli aa : « O salà . » Piɛr luɛyɔɔ cɛinin , mí Yeesu keleŋa sɔɛi cua , mó ɲuna ndu aa : « Simɔn , vɛ̀ɛ́ n yiyan yɛ a sɔɛi he : 
+40017025b	nɛ̀ɛ̀aa		nɛ̀ɛ̀aa masaa co o lɛŋnden coo-a bii yɛ muloo o ba , pilacieea baa mialla ? »
+40018001	Nɛ̀ɛ́		Tuma kon , mí kaandennda sɔɔnguu Yeesu ikɛi , má ɲuna ndu aa : « Nɛ̀ɛ́ hiow yɛ vaa o bɔɔ o masale halataala len nin ? »
+40018012	Vɛ̀ɛ̀		Mí Yeesu dimi taloo aa : « Vɛ̀ɛ̀ niaa yiyan yɛ ? Te vanndo pum nɔ pɛ saa kɛmɛ , mì o pilɛ o nda tɛɛn o lo , vɛ̀ɛ̀ o mɛi saa belaŋɔmahiɔɔlu a à ŋɔmahiɔɔlua o pembei coo mò kɔɛ o lo-o nuwviaa le ?
+40018021	vɛ̀ɛ̀ kpɛ́		O kon mí Piɛr sɔɔnguu , mó dimi aa : « Maalii , te puapilɛ nuu cua pɛ hakio a ya , vɛ̀ɛ̀ kpɛ́ ya bɛnda yɛ mì mal ndu haki ? Vɛ̀ɛ̀ bɛmbɛ leŋɔmmɛw ni ? » Mí Yeesu mulul ndu aa :
+40019007	le yɛɛ		Mí Faliisia kan ɲuna ndu vɛlɛ aa : « Le yɛɛ nɛ niko mí Moise dimi maa vana va pɛ laa ndɔ kɛɔ , vana kon sɛva sɛbɛ tɛɛmbua nɔu mò yɔngu ndu ? »
+40019016	yɛɛ		Paale pilɛ , mí langbanɔɔ pum sɔɔnguu , mó ɲuna Yeesu aa : « Kɔɔfa , dɛnɛ kɛndɛ yɛɛ ya tosá yɛ mì sɔla yoomu fɛɛn-fɛɛndo ? »
+40019017	le yɛɛ		Mí Yeesu mulul ndu aa : « Le yɛɛ n co yɛ ya ɲunaa a dɛnɛ kɛndɔɔ o kɔɔ ? Ɲɔɔ ndu pilɛ kpé naŋ ni . Taa yeema pɛ le cindaa sɔlaa , mɛɛ bii tɔŋndan . » Mí langbanɔɔ ɲuna ndu aa :
+40019018	ɔ́ɔ̀		« Ɔ́ɔ̀ tɔŋnda lan ? » Mí Yeesu mulul ndu aa : « Dii vanacieo le , suunda le , tɛnda seile lakafalen te , yɔŋ levui le .
+40019020	Yɛɛ		Mí langbanɔɔ mulul ndu aa : « I bii nin sɔɔn mun kpow . Yɛɛ lo yɛ ya vɛlɛ ? »
+40019025	nɛ̀ɛ́		Kaandennda tueyɔɔ sɔɔn mun , mí kɔndɔfili bɛndoo bii nda . Má va dimio aa : « Mɛɛ nɛ̀ɛ́ nɔla yɛnin cindaa sɔlaa o kon ? »
+40019027	Vɛɛ		O kon mí Piɛr dimul ndu aa : « Naa naa , ɲɔɔn kpow naa n mɛi ni mí n del nɔm kɔɔli . Vɛɛ la va yɛnin le naa ? »
+40020006	le yɛɛ		A lɛɛlɛ ŋuɛɛnundɔɔ , mó fula vɛlɛ , mó saalun a pum , a vannun isisi lon . Mó ɲuna nda aa : ‹ Le yɛɛ niaa niinu yɛ hau nanu kpɛŋ , la tosa ɲɛ-ɲɛ le ? ›
+40020012	~		Má dimi aa : ‹ Lɛɛlɔɔ ndu pilɛ kpé vanaa mɛɛlu haa hunɔɔ-a tosa vallo ni , a muungu naa ɲɛ pilɔɔ keo naa ndaa ? Naa yɛ , nanu naa n niinu ni , hangullo niinu naa palaa kpɛŋ . ›
+40020021	Yɛɛ		Mí Yeesu ɲuna ndu aa : « Yɛɛ nɛ n yeema yɛ ? » Mó mulul ndu aa : « Cɛl mì poaa nia ŋiɔnda ha kɔ va icali nɔm ikɛi o masale nɔmnden nin , o pilɛ nɔm o ba kɛndɔɔ coo , o pilɔɔ nɔm o ba mɛllo coo . »
+40020032	Yɛɛ		Mí Yeesu sim , mó veelu nda , mó dimul nda aa : « Yɛɛ niaa yeema yɛ mì tosal niaa ? »
+40021010	Nɛ̀ɛ́		Tuma Yeesu luɛi Yerusalɛm ciee-o , mí cieo kpow biiŋun . Mí vannda va ɲuunianndo aa : « Nɛ̀ɛ́ co yɛ hoo ? »
+40021016	Vɛ̀ɛ̀		Má dimul ndu aa : « Vɛ̀ɛ̀ a co pá ɲɛ nda co dimio-o tueyɔɔ ? » Mí Yeesu dimul nda aa : « Oi . Vɛ̀ɛ̀ kabi bɛɛ la dimi vɔ o co o sɛvaa-o le aa : ‹ A toosiaa lisa nɔmndo cuaambɔa pɔmbɔa a á sondola cɛlɛkpɛa co vɔɛiyo-a o lasondo ? › »
+40021020	Vɛɛ		Kaandennda cɔu dɛnɛ kon , mí kɔndɔfili bɛndoo bii nda . Má ɲuna aa : « Vɛɛ voosu tumndo ho looku yɛ dɔ́ɔ́ vesaa ho fɔ́ɔ́fɔ̀ ? »
+40021023a	Nɛ̀ɛ́-nɛ̀		Mí Yeesu kɔa o Cɛi-Hala-o nin . O lo pɛɛkoo , mí bolii vanaa-solia-lasálàá a kaasoŋaa kɔlkalua lelɛŋnda hun ɲuna ndu aa : « Nɛ̀ɛ́-nɛ̀ vem yɛ nɔm dɛnndan ndan tosaa ? 
+40021023b	Nɛ̀ɛ́		Nɛ̀ɛ́ ke yɛ nɔm di kon ? »
+40021025a	nɛ̀ɛ́		Yinɔɔ Nsaŋ van vannda-o , nɛ̀ɛ́ óò vem yɛ ndu ? Hala bàà vanndacieea ? » Kɛ mí nda pila yiyan , má dimi aa : 
+40021025b	~		« Te n muli pɛ aa : ‹ Hala óò vem ndu ni › , o co naa ɲuna aa : 
+40021025c	le yɛɛ		‹ Kɛ le yɛɛ niaa kɛɛ yɛ niko ndu laalan ? ›
+40021028	Vɛɛ		Mí Yeesu dimul nda aa : « Vɛɛ niaa yiyan yɛ ? Langbanɔ pilɛ ndóò nɔ poaa nda ŋiɔn , mó dimul o tasoo aa : ‹ Po nuu , kɔ tosal-la hau baalaa o nakɔ n'rɛsɛn nuu nin ! ›
+40021031	ɔ́ɔ̀		O vanaa ŋiɔŋaa kan nin , ɔ́ɔ̀ o tosa hɛnan fuɲa ndɔ-o-o » Má muli aa : « O tasoo ! » Mí Yeesu dimul nda aa : « Mì dimul niaa toɲaa , vanaa biyaa mulua a vanaa suundaa hiawnin niaa laci o masale Hala len nin .
+40021040	vɛ̀ɛ̀		Te vana nakɔɔ hin niko pɛ , vɛ̀ɛ̀ o tosa yɛnin a vanaa tósà baalaa o nakɔ n'rɛsɛnndo nin-nda ? »
+40022012	Vɛɛ		Mó ɲuna ndu aa : ‹ Caan nuu sei ! Vɛɛ nɔm looku yɛ luɛyɔɔ nanu a sɔla volɔɔla kafo lanɔ sɛnɛiyo le ? › Langbanɔ kon kuŋ te o soli le .
+40022017	~		Lelan dimul naa : O bɛnda pá mì n mal muloo Sesar o ba ? »
+40022018	le yɛɛ		Kɛ le tùú Yeesu ndóò sina yiyannda ndala vɔɔnndan-ndo , mó muli aa : « Le yɛɛ niaa co yɛ ya yaŋɔɔlen hendullo , niaa vanaa muuluannda ha ?
+40022020a	nɛ̀ɛ́		Mó ɲuna nda aa : « Hɔlaa nɛ̀ɛ́ a diola 
+40022020b	nɛ̀ɛ́		nɛ̀ɛ́ la co yɛ lan lecoo ? »
+40022028	nɛ̀ɛ́-nɛ̀		O tendul vanvílɛ́iya , lanɔɔ nɛ̀ɛ́-nɛ̀ cua kon va yɛnin o puapilɛa ŋɔmmɛvaa kan tɛɛn ? Kani nda kpow , o kei nda o ba . »
+40022036	ɔ́ɔ̀		« Kɔɔfa , o tɔŋndan nin kpow , ɔ́ɔ̀ tɔŋ hiow vaa o bɔɔ-o ? »
+40022042a	Vɛ̀ɛ̀		« Vɛ̀ɛ̀ niaa yiyan yɛ a Krista ? 
+40022042b	nɛ̀ɛ́		Po nɛ̀ɛ́ o co yɛ ? » Má mulul ndu aa : « Po David-o o co ni . »
+40022043	le kɔlɔ yɛɛ		Mí Yeesu ɲuna nda aa : « Le kɔlɔ yɛɛ David veelu yɛ ndu niko o kpaaya Kɔl-Diandaa bɛngu aa : ‹ Maalii › ? Kani telen pilɛ mó dimi-o aa :
+40022045	vɛ̀ɛ̀		Te David pila veelu ndu pɛ aa ‹ Maalii › , vɛ̀ɛ̀ o nɔla yɛ vɛlɛ mò va po ndɔɔ ? »
+40023017	yɛɛ		Niaa vanaa sumɛiya bii ha dɛnɛ bila le-a ! Sianion a Cɛi-Hala co sianion dindio-o , yɛɛ hiow yɛ ?
+40023019	yɛɛ		Niaa vanaa sumɛiya ha , sálàá a fonda-loamaa-lasálà co sálàá dindi-o , yɛɛ hiow yɛ ?
+40023033	Vɛ̀ɛ̀		Niaa kɛwva ha , niaa hɔ̀ɔ̀lɔ́a ! Vɛ̀ɛ̀ niaa ɲaanun yɛnin yamɛi co niaa hunɔɔ kilulɔn le kɔlan o ɲánndávàà-e ?
+40024003a	telen kuɛɛ		Mɛɛ Yeesu va icali o Pembii oliviei coo , mí kaandennda hun ɲuna ndu nda pilɛ kínɛí aa : « Dimul naa , telen kuɛɛ dɛnnda lan la yɔŋnun yɛnin ? 
+40024003b	ɔ́ɔ̀		Ɔ́ɔ̀ tɔɔmasele hunɔɔ nɔmndo a tɔɔmasele mɛɛlula ceendo ? »
+40024045	ɔ́ɔ̀		« Ɔ́ɔ̀ vana baala kɔlkalu lò kon o diomnden coo-o , ò vana ndɔ bɛndoo handu buɛyaa ndɔa bollen le nda baloo keo o telen bɛnda-o-o ?
+40025037	lɔ́ɔ́ kuɛɛ		O kon vanaa sandaa mululnin ndu aa : ‹ Maalii , lɔ́ɔ́ kuɛɛ naa n ce yɛ nɔm a yiaan mí n ke nɔm ɲɛdiaa , te kon te mí kolɔɔ bii nɔm , mí n ke nɔm má kol ?
+40025038	lɔ́ɔ́ kuɛɛ		Lɔ́ɔ́ kuɛɛ n hin yɛ sumialii naa , mí n yiya nɔm , te kon te ma va a fɛ́lio , mí n cuɛi nɔm ?
+40025039	lɔ́ɔ́ kuɛɛ		Lɔ́ɔ́ kuɛɛ naa n ce yɛ nɔm a nàá te kon te o kaasoo , mí n kɔa nɔm yilɔɔ ? ›
+40025044	lɔ́ɔ́ kuɛɛ		O kon nda bɛɛ a ɲunanin aa : ‹ Maalii , lɔ́ɔ́ kuɛɛ naa n ce yɛ nɔm a yiaan te kon te mí kolɔɔ bii nɔm , ma va miallo te kon te a fɛ́lio te kon te a nàá , te kon te o kaasoo , mí n kɛɛ nɔm malaa ? ›
+40026008	le yɛɛ		Kaandennda cɔu lende , má tambu kɔltan , má ɲuna aa : « Le yɛɛ nɛ man tɛɛmbuuo ho nuaa ?
+40026010	le yɛɛ		Mí Yeesu bii sɔɛi ken bila , mó dimul nda aa : « Le yɛɛ niaa co yɛ palaa ho ? Dɛnɛ kɛndɔɔ o tosal-la ni .
+40026015	yɛɛ		mó dimul nda aa : « Te i mal pɛ ndu niaa o ba , yɛɛ nɛ niaa ke yɛnin ya ? » Má cua volin latámán beleyaa , má yɔngu ndu .
+40026017	Kuɛɛ		O paale tasele kafo bulu toosian a lɛvɛn too len coo , mí kaandennda hun ɲuna Yeesu aa : « Kuɛɛ nɛ n yeema yɛ mì n bɛɛndial nɔm ɲɛdiaa le kafo-hiavaa-coo ? »
+40026040	~		O kon kɔɔli , mó muungu nɛɛ kaandennda va-a , mó komal nda o lɔan , mó ɲuna Piɛr aa : « La nɔla bɛɛ vaa lahɔl a ya latulu le lɛɛlɛ pilɛ le !
+40026050	~		Mí Yeesu dimul ndu aa : « Caan nuu , tosa ɲɛ n hin tosa-o . » O kon mí vanaa tɔ̀a sɔɔnguu , má bii Yeesu .
+40026054	vɛ̀ɛ̀		Kɛ te i tosa pɛ lende , vɛ̀ɛ̀ ɲɛ sɛvan o Sɛbɛ Hala-o nin-ndo peelun yɛnin ? Kani o co o sɛvaa maa lende i bɛnda le tosan-ndo ni . »
+40026062a	~		Mí bolle vanaa-solia-lasálàá can , mó ɲuna Yeesu aa : « 
+40026062b	Vɛ̀ɛ̀		Vɛ̀ɛ̀ a co ɲɛ-ɲɛ dimi a seile vannda ha co tɛndaa a nɔm o kɔɔ len te ? »
+40026065	Ɔ́ɔ̀		O kon , mí bolle vanaa-solia-lasálàá sɛɛsian volɔɔlan lekɔɔ , mó dimi aa : « O dimi sɔɛi tana-i a Hala . Ɔ́ɔ̀ seyaa naa n co vɛlɛ ɲuna le hee-a ? Kámáá niaa pila langa tuei mɛɛ o dimi sɔɛi tanɛi a Hala yɛ ! Ɔ́ɔ̀ yiyan niaa ? »
+40026066	~		Má muli aa : « O bɛnda mò sɔla piɔ́mndo . »
+40026068	~		« Krista ! Cɔm ndɔ naa vana lɔɔ nɔm-ndo . »
+40027004	~		Mó dimul nda aa : « I tosa yɔŋ vɔɔndo le vana tɛɛmbuu isɔɔ loo malɔɔ vannda o ba le ndu diyɔɔ . » Kɛ má mulul ndu aa : « O co sɔɛi naa le co ken te ! Nɔm sina ken ni ! »
+40027013	Vɛ̀ɛ̀		O kon mí Pilate ɲuna ndu aa : « Vɛ̀ɛ̀ a co sɔɔn nda co mun nɔm hɛɛnduuo coo-on tueyɔɔ le ? »
+40027017	ɔ́ɔ̀		Mí Pilate ɲuna sɛ́lɛ́ bɛndu va lon-ndo aa : « Barabas a Yeesu nda veelu aa Krista-o , ɔ́ɔ̀ vana niaa yeema mì mel niaa-o ? »
+40027021	ɔ́ɔ̀		Mí masa ibungaa ɲuna nda vɛlɛ aa : « Ɔ́ɔ̀ o niaa yeema mì i mal o vanaa ŋiɔnda ha tɛɛn-ndo ? » Má muli aa : « Barabas . »
+40027022	vɛ̀ɛ̀		Mó ɲuna nda aa : « Mí vɛ̀ɛ̀ ya yɔŋ yɛ a Yeesu nda veelu hoo aa Krista-o ? » Mí nda kpow muli aa : « Baŋ ndu o yɔm singafilaa coo ! »
+40027023a	~		Mí masa ibungaa ɲuna nda aa : 
+40027023b	yɛɛ		« Dɛnɛ vɔɔn yɛɛ o tosa yɛ ? » Kɛ má cɔɔlu deŋi coocoo kpélén aa : « Baŋ ndu o yɔm singafilaa coo ! »
+40027046	le yɛɛ		Lɛɛlɛ yàándɔɔ kandɔɔ le tiiyaa , mí Yeesu deŋi coocoo kpélén aa : « Elii , Elii , lema sabatani ? » Kon co dimio ni aa : « Hala nuu , Hala nuu , le yɛɛ nɛ n kɛɛ yɛ ya ? »
+41001024	Yɛɛ		« Yɛɛ n yeema yɛ naa yɔŋndo , nɔm Yeesu fula Nasarɛt-o ? Le naa ciiyo n hin ni ? I sina vana n co-o , O-Diandaa Hala vem-ndo n co ni . »
+41001027	yɛɛ		Mí siòònde bii nda kpow , má muungu ɲuunianndo aa : « Dɛnɛ yɛɛ co yɛ hoo ? Pɛɛku sɛnɛi celen co vɛlɛ hoo ni , o nɔ bɔɔ kpaayaa . Hali ɲinaa vɔɔnda , langbanɔɔ ho co nda deŋullo mà va sɔɛi ndɔɛi biyɔɔ . »
+41002007a	le yɛɛ		« Le yɛɛ langbanɔɔ ho co yɛ sɔɛi nuaa ? Sɔɔn tanan o co dimio a Hala nuaa ni . 
+41002007b	Nɛ̀ɛ́		Nɛ̀ɛ́ nɔla yɛ vana hakilan malɔɔ , te o co Hala ndu pilɛ kpé le ? »
+41002008	le yɛɛ		Fɔ́ɔ́fɔ̀ , mí Yeesu sina dɔ́ɔ́ yiyan ndaa . Mó dimul nda aa : « Le yɛɛ niaa co yɛ yiyanndo o kɔlta niaalan nin lende ?
+41002009	ɔ́ɔ̀		Vana falun vílɛ́iyo dimullo aa : ‹ Hakila nɔmndan la malnun haki › , a ndu dimullo aa : ‹ Cɔn , cua ɲɛ nɔm hinia mà kɔɛnnun › , ɔ́ɔ̀ o hiow va bɛɛn-bɛɛn ndo ?
+41002016	le yɛɛ		Vanaa pɛɛkaa latɔŋnda a Faliisia cɔu ndu ɲɛdiaa dioo nda vanaa biyaa mulua a vanaa lahakia latulu , má ɲuna kaandeŋaa ndɔa aa : « Le yɛɛ o co yɛ dioo latulu nda vanaa biyaa mulua a vanaa lahakia ? »
+41002018	le yɛɛ		Kaandeŋaa Nsaŋ-nda a Faliisia va sumndo biyɔɔ . Má hun ɲuna Yeesu aa : « Le yɛɛ nɛ kaandeŋaa Nsaŋ-nda a kaandeŋaa Faliisia co yɛ sumndo biyɔɔ , mì kaandeŋaa nɔmnda nda va kɛɔ le kon tosaa ? »
+41002019	~		Mí Yeesu mulul nda aa : « Caaŋaa vana yil lanɔɔ sɛnɛi-yo nɔla pá sumndo biyɔɔ telen vana lanɔ sɛnɛi kon co nda ikɛi-yo ? Taa co vɔ pɛ latulu nda vana lanɔ kon , a nɔla sumndo biyɔɔ le .
+41002024	le yɛɛ		Mí Faliisia dimul Yeesu aa : « Le yɛɛ nɛ nda co yɛ dɛnɛ kuunan o paale pɛngiaalen coo-o tosaa ? »
+41003004	~		O kon mó ɲuna nda aa : « I co pá i cɛlnan le vanndo dɛnɛ kɛndɔɔ te kon te dɛnɛ vɔɔndo tosallo o paale pɛngiaalen coo , baa ciindiaa ndu , te kon te malɔɔ ndu mo vinnun ? » Kɛ má mei kpili .
+41003023	Vɛɛ		Mí Yeesu veelu nda , mó dimul nda isɔɔ o tale nin aa : « Vɛɛ Setana nɔla yɛ mo tow Setana ?
+41003033a	Nɛ̀ɛ́		Mó muli aa : « Nɛ̀ɛ́ co yɛ kala nuu , 
+41003033b	nɛ̀ɛ̀aa		nɛ̀ɛ̀aa co yɛ pɔmbɔa nia ? »
+41004013	Vɛ̀ɛ̀		Mó dimul nda vɛlɛ aa : « La bii bundɛi he bila le . Vɛ̀ɛ̀ niaa bii yɛnin bundɔn tɔ̀un kpow bila ?
+41004030a	yɛɛ		Mó dimi vɛlɛ aa : « A yɛɛ naa n tuu yɛnin masale Hala len , 
+41004030b	kuɛɛ		te kon te a sanda kuɛɛ naa n tuu yɛnin masale Hala len ?
+41004038	Vɛ̀ɛ̀		Yeesu ndu va o lɔan o dɛ̀ndɔ̀ɔ́ tumndo , mó handu bollen o bɔlɔ handaa lebollo coo . Má tindi ndu , má dimul ndu aa : « Kɔɔfa , vuo naa n co nuaa ni ! Vɛ̀ɛ̀ a cen mà soo le naa le ? »
+41004040a	Le yɛɛ		O kon mó ɲuna nda aa : « Le yɛɛ niaa nɔ yɛ siòònde nuaa taw ? 
+41004040b	~		La nɔ manɔa laalan te ? »
+41004041	yɛɛ		Mí siòònde bii nda taw , má dimulan vellaa-velle aa : « Vanaciee súú yɛɛ co yɛ hoo , le mì hoeiye a mɛnndan ma tuei ndu diom ? »
+41005007	le yɛɛ		mó deŋi kpélén aa : « Le yɛɛ n co yɛ ya kɔɔli , nɔm Yeesu po Hala-Hiow-Ɲɔɔn-Kpow-vo ? I co nɔm ɲɔɔlu , tosa le Hala , luei ya imɔnɔ le . »
+41005009	Vɛɛ		Mí Yeesu ɲuna ndu aa : « Vɛɛ n nɔ yɛ diolan ? » Mó mulul ndu aa : « Diola nilan aa Sɛ́lɔ́ɔ́ , kani n co sɛ́lɛ́ . »
+41005030	Nɛ̀ɛ́		Mí Yeesu sinan dɔ́ɔ́ fɔ́ɔ́fɔ̀ , maa kpaayaa pum fula ndu nin . Mó mulin o sɛ́lɔ́ɔ́ tɛɛn , mó ɲuna aa : « Nɛ̀ɛ́ pilan yɛ ya domaa ? »
+41005031	Nɛ̀ɛ́		Mí kaandeŋaa ndɔa dimul ndu aa : « A co cɔu mɛɛ sɛ́lɔ́ɔ́ co nɔm ŋoviŋovio yɛ , a muungu ɲunaa aa ‹ Nɛ̀ɛ́ pilan yɛ ya ? › »
+41005035	le yɛɛ		O lo sɔɛi , mí vannda hun fulaa o simlacinɔ cɛi lekaanndo lo , má dimi aa : « Cua nɔmndo vinnun , le yɛɛ n co yɛ vɛlɛ vana bɛndoo saangiaa ? »
+41005039a	Le yɛɛ		Mó luɛi , mó ɲuna nda aa : « Le yɛɛ niaa co yɛ ivɔkɔ-vɔkɔɛi he a caŋndan ndan ? Cuaambɔɔ vi le , o lɔan o co ni . »
+41005039b	~		
+41006002a	Kuɛɛ		Paale pɛngiaalen tiiyaa , mó kɔa vannda pɛɛkoo o cɛi lekaando nin . Mí sɛ́lɛ́ bɛndu va ndu nilan yaŋɔɔ-o dɔawnun kɔndɔfili . Mí vannda va dimio aa : « Kuɛɛ o fula yɛ a hee kpow ? 
+41006002b	yɛɛ		Kɔlkalu súú yɛɛ kennun yɛ ndu hoo ? 
+41006002c	Vɛ̀ɛ̀		Vɛ̀ɛ̀ o looku yɛ dɛnnda kaamaalan ndan kpow tosaa ?
+41006022	~		Mí cua Herodiade-o luɛi , mó ya . Mí ɲɔɔ hɛnan Herɔde nda vanaa ndɔa o veelu-a . Mí masaa dimul cuaambɔɔ aa : « Piɛi ya ɲɛ n yeema-o , mì ke nɔm ndu . »
+41006024	Yɛɛ		Mí cuaambɔɔ fula , mó kɔ ɲuna kala ndɔ aa : « Yɛɛ ya kɔ piɛi yɛ ndu ? » Mí kala ndɔ mulul ndu aa : « Bolle Nsaŋ Vana-yinaa len . »
+41006037	~		Mí Yeesu mulul nda aa : « Niaa pila ke nda ɲɛdiaa . » Kɛ má mulul ndu aa : « Mò va maa n kɔ piondu buloo a volin latámán kɛmɛ lediin , mì n hun ke nda ni ? »
+41006038	Vɛɛ		Mó mulul nda aa : « Vɛɛ niaa nɔ yɛ bululan ? La kɔ tofa vɔ ! » Ndáà mɛɛndianndo , má dimi aa : « Bululan tan ŋuɛɛnu a suwva nda ŋiɔn naa n nɔ nanu ni . »
+41007005	le yɛɛ		Mí Faliisia a vanaa pɛɛkaa latɔŋnda ɲuna ndu aa : « Le yɛɛ nɛ kaandeŋaa nɔmnda co yɛ kɛɔ kelaa o naamula fuɲaa naa mamaa coo , mà va ɲɛdiaa dioo a bala nɔɔlɛilan ? »
+41008004	vɛ̀ɛ̀		Mí kaandeŋaa ndɔa mulul ndu aa : « Kɛ vɛ̀ɛ̀ naa n tosa yɛnin le nda ɲɛdiaa keo , mà pim o lɛŋnde veselɛilen nden nin nanu ? »
+41008005	Vɛ̀ɛ̀ kpɛ́		Mí Yeesu ɲuna nda aa : « Vɛ̀ɛ̀ kpɛ́ niaa nɔ yɛ bululan ndon ? » Má muli aa : « La ŋɔmmɛw . »
+41008012	le yɛɛ		Mí Yeesu yoomu fúù , mó dimi aa : « Le yɛɛ nɛ vanndacieea paalen nden hau a co yɛ ɲunaa le nda tɔɔmasele kaamaa tosallo ? I co niaa toɲaa dimul , tɔɔmasele kɛ́-kɛ̀ yɔngunnin vanndacieea paalen nden hau le . »
+41008017	le yɛɛ		Mí Yeesu bii bila , mó ɲuna nda aa : « Le yɛɛ niaa co yɛ yiyanndo maa le tùú niaa nɔ bulu o ba loo ni ? Vɛ̀ɛ̀ la bii-yɔ sɔɛi nii bila mì la sina ndi le ?
+41008018a	~		La nɔ hɔltan , kɛ la co macoaa cɔ a lan te ? 
+41008018b	~		La nɔ nilan , kɛ la co macoaa tueyɔɔ a lan te ? Vɛ̀ɛ̀ la co loonɔn te ,
+41008019	vɛ̀ɛ̀ kpɛ́		telen ya yimiyimi bululan tan ŋuɛɛnu le vanpiaandua vàálan tan ŋuɛɛnua-o le , vɛ̀ɛ̀ kpɛ́ la bingi-bingila lo lan la va yɛ kambɛilan ? » Mí kaandennda mulul ndu aa : « Tɔ́ a latiɔn ! »
+41008020	vɛ̀ɛ̀ kpɛ́		« Telen ya yimiyimi bulula ŋɔmmɛwlan le vanpiaandua vaala hiɔɔlua-o , vɛ̀ɛ̀ kpɛ́ la bingi-bingila lo lan la va yɛ kambɛilan ? » Má dimi aa : « La ŋɔmmɛw ! »
+41008021	~		O kon mó ɲuna nda aa : « La bii-yɔ bila le ? »
+41008023	~		Mó bii ndu baa , mó kɔa a ndu o cieo kɔɔli . O kon mó sui ndu lɔluan o lahɔl , mó handu ndu balan coo , mó ɲuna ndu aa : « A co ɲɛ pum cɔu ? »
+41008027	Vɛ̀ɛ̀		Mí Yeesu kɔannun nda kaandeŋaa ndɔa o cieon cɛɛlian a Sesaree Filipe-on . Ndáà tiiyaa nɛi-tɛɛn , mó ɲuna nda aa : « Vɛ̀ɛ̀ vannda co yɛ dimio le vana ya co-o ? »
+41008029a	~		Mó ɲuna nda aa : « Kɛ niaa yɛ , 
+41008029b	yɛɛ		yɛɛ niaa co yɛ dimio le vana ya co-o ? » Mí Piɛr mulul ndu aa : « Nɔm co Krista ni . »
+41008036	ɔ́ɔ̀		Vanacieo sɔla bɛɛ ceendo kpede , kɛ te yoomu ndɔɔ hɛlun ndu pɛ , ɔ́ɔ̀ tɔnɔ o sɔla-o ?
+41008037	~		Nduyɛ , te yoomu fɛɛn-fɛɛndo hɛlun pɛ vanacieo , o nɔla pá ndu baŋa ?
+41009010	yɛɛ		Má bii sɔɛi o dimul nda ken-nde , kɛ má va ɲuunianndo nda pila tɛɛn aa : « Kɔlɔ yɛɛ co yɛ tendullo fulaa vanvílɛ́iya tɛɛn ? »
+41009011	le yɛɛ		Mí kaandennda ɲuna ndu aa : « Le yɛɛ vanaa pɛɛkaa latɔŋnda a co yɛ dimio maa fɔ mì Elii hin ? »
+41009012	Vɛ̀ɛ̀		Mó mulul nda aa : « Kani Elii co fɔlɔn hunɔɔ , mò mingi dɛnndan kpow o fonda ndɔɔ . Vɛ̀ɛ̀ o co yɛ o sɛvaa a Po vanacieo o kɔɔ , o co hunɔɔ , mò sanga taw , mì vannda ce ndu vana fondoo-o ?
+41009016	yɛɛ		Mó ɲuna nda aa : « O yɛɛ coo niaa co yɛ suukanndo niaa ndaa ? »
+41009019a	Háá lɔ́ɔ́ kuɛɛ		Mí Yeesu mulul nda aa : « Kpòkóó , niaa vanaa nila kalua ha ! Háá lɔ́ɔ́ kuɛɛ ya lo yɛnin niaa ikɛi ? 
+41009019b	Háá lɔ́ɔ́ kuɛɛ		Háá lɔ́ɔ́ kuɛɛ ya lo yɛnin niaa biuvɔnndo ? La cuu ya poombɔ kalaa ! » O kon má yoo ndu ndu .
+41009021	Vɛ̀ɛ̀ kpɛ́		Mí Yeesu ɲuna fuɲaa poombɔɔ aa : « Vɛ̀ɛ̀ kpɛ́ naa ho viow yɛ nin ndu coo ? » Mí fuɲaa muli aa : « Kabi o icɛlɛkpɛya .
+41009028	le kɔlɔ yɛɛ 		Telen Yeesu luɛi cɛinin-ndo , mí kaandeŋaa ndɔa veelu ndu yunyen , má ɲuna ndu aa : « Le kɔlɔ yɛɛ nɛ naa n bumba yɛ ɲina vɔɔndo ho tovɔɔ ? »
+41009033	yɛɛ		Má kɔa Kapɛrnaum . Ndáà luɛyɔɔ cɛinin , mí Yeesu ɲuna nda aa : « O sɔɛi yɛɛ coo niaa va yɛ baltan nɛi-tɛɛn ? »
+41009050	yɛɛ		Ɲɛ kɛndɔɔ hɛlle co ni , kɛ te yeelaa fulan pɛ o hɛlle , a yɛɛ niaa mingi yɛnin ndi yeeliaa ? La nɔ́ hɛlle niaa nin , mì la va o kɔlɲuloo nin vellaa-velle . »
+41010003	Yɛɛ		Mó mulul nda aa : « Yɛɛ nɛ Moise dimul lɛ niaa ? »
+41010017	yɛɛ		Yeesu cɔnɔnndo kɔlan , mí langbanɔɔ pum ɲaanun ndu kɔɔli , mó kɔ baŋ vulan ndu o labɛngunin . Mó ɲuna ndu aa : « Kɔɔfanɔ kɛndɔɔ , yɛɛ ya tosa yɛ mì sɔla cinda fɛɛn-fɛɛndo ? »
+41010018	le yɛɛ		Mí Yeesu dimul ndu aa : « Le yɛɛ n co yɛ ya veeloo aa ‹ o kɛndɔɔ ? › Vana-vana niŋ te , fɔ Hala ndu pilɛ kpé .
+41010026	nɛ̀ɛ́		Mí kɔndɔfillo cɔɔlu kaandennda biyɔɔ , ma va dimulanndo aa : « Mɛɛ nɛ̀ɛ́ nɔla yɛnin cindaa sɔlaa o kon ? »
+41010036	Yɛɛ		Mó dimul nda aa : « Yɛɛ niaa yeema yɛ mì tosal niaa ? »
+41010051	Yɛɛ		Mí Yeesu ɲuna ndu aa : « Yɛɛ n yeema yɛ mì tosal nɔm ? » Mí vana sumɛiyo dimul ndu aa : « Vana bɛndoo , tosa mì ce vɛlɛ maa paandu . »
+41011003	le yɛɛ		Te vanndo ɲuna pɛ niaa aa : ‹ Le yɛɛ nɛ niaa co yɛ hee tosaa ? › La mulul ndu aa : ‹ Maalii nɔ makoo a ndu ni , kɛ o co ndu mingi nanu sisa . › »
+41011005	le yɛɛ		Mí vanaa va lon-nda pum a ɲuna nda aa : « Le yɛɛ niaa co yɛ sofɛlɛ téndé kon timbio ? »
+41011028a	Nɛ̀ɛ́-nɛ̀		má ɲuna ndu aa : « Nɛ̀ɛ́-nɛ̀ vem yɛ nɔm dɛnndan ndan tosaa ? 
+41011028b	Nɛ̀ɛ́		Nɛ̀ɛ́ ke yɛ nɔm dio le lan tosaa ? »
+41011030	~		Yinɔɔ Nsaŋ va vannda-o , Hala vem ndu ni bàà vanndacieea ? La mulul-la . »
+41011031a	~		Mí nda pila yiyan , má dimi aa : « Te n muli pɛ aa : ‹ Hala vem ndu ni › , o co naa ɲuna aa : 
+41011031b	le yɛɛ		‹ Kɛ le yɛɛ nɛ niaa kɛɛ yɛ niko ndu laalan ? ›
+41012009	Yɛ̀ɛ̀		Yɛ̀ɛ̀ vana nakɔɔ tosa yɛnin ? O hunnin , mò diw vanaa tósà kan baalaa o nakɔ n'rɛsɛnndo nin-nda , mò sɔɔ nakɔɔ vanaa celen o ba .
+41012015	le yɛɛ		Kɛ Yeesu ndóò sina muuluɔn ndaa . Mó mulul nda aa : « Le yɛɛ niaa co yɛ ya yaŋɔɔlen hendullo ? La cuu vɔ ya volii támái , mì tofa . »
+41012016a	nɛ̀ɛ́		Má cuu ndu ipilɛ , mó ɲuna nda aa : « Hɔlaa nɛ̀ɛ́ a diola 
+41012016b	nɛ̀ɛ́		nɛ̀ɛ́ la co yɛ lan lecoo ? » Má mulul ndu aa : « Sesar ni . »
+41012023	nɛ̀ɛ́-nɛ̀		O tendul vanvílɛ́iya , lanɔɔ nɛ̀ɛ́-nɛ̀ cua kon va yɛnin o vanaa ŋɔmmɛvaa kan tɛɛn ? Kani o kei nda kpow o ba o nɔu . »
+41012028	ɔ́ɔ̀		Mí vana pɛɛkaa latɔŋndo pum , ó tuei nda suukan kon-ndo ca maa Yeesu caa muli , mó hun ɲuna ndu aa : « Ɔ́ɔ̀ tɔŋ tasoo o tɔŋndan kpow nin ? »
+41012035	le yɛɛ		Yeesu va pɛɛkoo yɔngoo o Cɛi-Hala-o nin , mó ɲuna aa : « Le yɛɛ vanaa pɛɛkaa latɔŋnda co yɛ dimio maa po David-o Krista co ni ?
+41012037	vɛ̀ɛ̀		David pila veelu ndu aa ‹ Maalii › , vɛ̀ɛ̀ o nɔla yɛ vɛlɛ mò va po ndɔɔ ? » Sɛ́lɛ́ bɛndu va lon-ndo va ndu yaŋnɔnndo a kɔlkɛndɔɔ .
+41013004a	telen kuɛɛ		« Dimul naa , telen kuɛɛ dɛnnda lan la yɔŋnun yɛnin ? 
+41013004b	ɔ́ɔ̀		Ɔ́ɔ̀ tɔɔmasele cɔmnin mɛɛlula dɛnndan ndan kpow-vo ? »
+41014004	le yɛɛ		Mí vanaa va lon-nda a pum a tambu kɔltan , má va dimulanndo aa : « Le yɛɛ nɛ cuɛima cun kɛndɛan man tɛɛmbuuo ?
+41014006	le yɛɛ		Kɛ mí Yeesu dimi aa : « La mal cuaa ho . Le yɛɛ niaa co yɛ ndu palaa ho ? Dɛnɛ kɛndɔɔ o tosal-la ni .
+41014012	Kuɛɛ		O paale tasele kafo bulu toosian a lɛvɛn too len coo , paale ndáà diw saa téndéa le kafo-hiavaa-coo tosaa len , mí kaandennda ɲuna Yeesu aa : « Kuɛɛ nɛ n yeema yɛ mì n kɔ bɛɛndial nɔm ɲɛdiaa le kafo-hiavaa-coo ? »
+41014014	kuɛɛ		Nɛɛ o kɔ luɛinin-nda , la ɲuna vana ciɛi kon aa : ‹ Kɔɔfa ɲuna aa kuɛɛ nɛ o dia yɛnin ɲɛdiaa kafo-hiavaa-coo nda kaandeŋaa ndɔa ? ›
+41014060a	~		O kon , mí bolle vanaa-solia-lasálàá can o sɛ́lɛ́ kon tɛɛn , mó ɲuna Yeesu aa : 
+41014060b	Vɛ̀ɛ̀		« Vɛ̀ɛ̀ a co ɲɛ-ɲɛ dimi a seile vannda ha co nɔm tɛndallo len o kɔɔ le ? »
+41014063	ɔ́ɔ̀		O kon mí bolle vanaa-solia-lasálàá sɛɛsian volɔɔlan lekɔɔ , mó dimi aa : « Ɔ́ɔ̀ seyaa naa n co vɛlɛ ɲuna le hee-a ?
+41014064	ɔ́ɔ̀		Kámáá niaa pila tuei sɔɛi tanɛi o dimi a Hala-e ! Ɔ́ɔ̀ yiyan niaa a sɔɛi he ? » Mí nda kpow muli aa : « O del kasi , o bɛnda mò sɔla piɔ́mndo . »
+41015004	Vɛ̀ɛ̀		O kon mí Pilate ɲuna ndu vɛlɛ aa : « Vɛ̀ɛ̀ a co ɲɛ-ɲɛ muli le ? Tuei-yɔ sɔɔn nda co nɔm hɛɛnduuo coo-on . »
+41015012	Vɛ̀ɛ̀		Mí Pilate cua vɛlɛ sɔɛi , mó ɲuna nda aa : « Mi vɛ̀ɛ̀ ya yɔŋ yɛ niko a o niaa co hoo veeloo aa masa Yuifia-o ? »
+41015014a	~		Mí Pilate ɲuna nda aa : 
+41015014b	yɛɛ		« Dɛnɛ vɔɔn yɛɛ o tosa yɛ ? » Kɛ má cɔɔlu deŋi kpélén aa : « Baŋ ndu o yɔm singafilaa coo ! »
+41015034	le yɛɛ		A lɛɛlɛ yàándɔɔ , mí Yeesu deŋi coocoo kpélén aa : « Elohi , Elohi , lama sabatani ? » Kon co dimio ni aa : « Hala nuu , Hala nuu , le yɛɛ nɛ n kɛɛ yɛ ya ? »
+41016003	nɛ̀ɛ́		Má va ɲuunianndo aa : « Ko nɛ̀ɛ́ pimbulul-lɛnin naa powvo le ndu faŋaa o sɛiyo sondoo ? »
+42001018	Vɛ̀ɛ̀		Mí Sakari ɲuna mɛlɛkanɔɔ aa : « Vɛ̀ɛ̀ ya sina yɛnin kon ? Kani i yuuva , laa nuu bɛɛ nɔnin vɔsilan taw . »
+42001034	Vɛ̀ɛ̀		Mí Mari ɲuna mɛlɛkanɔɔ aa : « Vɛ̀ɛ̀ ken i yɔŋnun yɛnin , kani i sina vɔ dɛnɛ vanapɔnɔ le ? »
+42001043	yɛɛ		Bɛɛle súú yɛɛ ya sɔla yɛ len , mì kalaa vana ni bɛndoo hin o ya lo ?
+42001066	yɛɛ		Vanaa va sɔɔn mun tueyɔɔ-a a va mun biinɔnndo o lakɔl , má va ɲunanndo aa : « Vana súú yɛɛ poombɔɔ ho va yɛnin ? » Kani ba Mɛlɛka-o va ndu coo .
+42002048	le yɛɛ		Yungu ndɔɔ cɔu ndu , má dɔawnun kɔndɔfili , mí kala ndɔ ɲuna ndu aa : « Po nuu , le yɛɛ n tosal-lɛ naa dɛnɛ vaa nuaa ? N co nɔm nuwviaa a buulanndo naa fuɲa nɔm . »
+42002049	le yɛɛ		Mó mulul nda aa : « Le yɛɛ niaa co yɛ ya nuwviaa ? La sina le maa mɛɛ mì va o Fuɲa nuu lo cɛinin ? »
+42003007	Nɛ̀ɛ́		O kon mí Nsaŋ ɲuna vanaa sɛ́lɛ́ bɛndua va hunɔɔ le yinɔɔ sɔlaa ndu o ba-a aa : « Niaa hɔ̀ɔ̀lɔ́a ha ! Nɛ̀ɛ́ cɔm yɛ niaa nɛiyo le kɔltuw Hala co hunɔɔ tosan-ndo kpakpalaa ?
+42003010	Yɛɛ		Mí sɛ́lɔ́ɔ́ ɲuna Nsaŋ aa : « Yɛɛ naa n tosa yɛ niko ? »
+42003012	Yɛɛ		Mí vanaa biyaa mulua bɛɛ a hun le yinɔɔ sɔlaa , má ɲuna ndu aa : « Yɛɛ naa n tosa yɛ ? »
+42003014a	~		Mí vanaa cɔwva bɛɛ ɲuna ndu aa : « Naa yɛ , 
+42003014b	yɛɛ		yɛɛ naa n tosa yɛ ? » Mó mulul nda aa : « La del vana coo le , la cua ɲɛ vana a lakafa le , la hìní kɔl a sala niaa . »
+42004034	Yɛɛ		« Yɛɛ n yeema yɛ naa yɔŋndo ho , nɔm Yeesu Nasarɛt ? Vɛ̀ɛ̀ le naa ciiyo n hin ni ? I sina vana n co-o , O-Diandaa Hala-o . »
+42004036	yɛɛ		Mí kɔndɔfillo bii nda kpow , má va ɲuunianndo vellaa-velle aa : « Dɛnɛ súú yɛɛ co yɛ hoo ? O deŋul ɲinaa vɔɔnda a kpaayaa , má fula . »
+42005021a	yɛɛ		Mí vanaa pɛɛkaa latɔŋnda a Faliisia a kandu yiyanndo aa : « Vana súú yɛɛ co yɛ ho sɔɔn tanan dimio a Hala o kɔɔ ? 
+42005021b	ɔ́ɔ̀		Ɔ́ɔ̀ vana tiwba mò mal vana haki-o , te o co Hala ndu pilɛ kpé le ? »
+42005022	le yɛɛ		Yeesu sinaa yiyannda ndalan , mó cua sɔɛi , mó ɲuna nda aa : « Le yɛɛ niaa co yɛ yiyanndo o kɔlta niaalan nin lende ?
+42005023	ɔ́ɔ̀		Ɔ́ɔ̀ o hiow va bɛɛn-bɛɛn-ndo ? Vana falun vílɛ́iyo dimullo aa : ‹ Hakila nɔmndan la malnun haki › baa ndu dimullo aa : ‹ Cɔn , cua ɲɛ nɔm hinia mà kɔɛ › ?
+42005030	le kɔlɔ yɛɛ		Mí Faliisia a vanaa ndaa pɛɛkaa latɔŋnda soaa sɔɔn pɔmbɔn , má ɲuna kadeŋaa ndɔa aa : « Le kɔlɔ yɛɛ niaa co yɛ dioo mì la va kolɔɔ niaa vanaa biyaa mulua a vanaa lahakia latulu ? »
+42005033	~		Mí Faliisia dimul Yeesu aa : « Kaandeŋaa Nsaŋ-nda co sumndo biyɔɔ cuɛi-cuɛi ma va Hala piɛiyo , a naa bɛɛ co kon tosaa . Kɛ a nɔmnda yɛ , a co dioo ma va kolɔɔ . »
+42005034	vɛ̀ɛ̀		Mí Yeesu mulul nda aa : « Telen vana yil lanɔɔ sɛnɛi-yo co caaŋaa ndɔa ikɛi-yo , vɛ̀ɛ̀ la nɔla pá caaŋaa ndɔa kan dimul ma bii sumndo ?
+42006002	le yɛɛ		Mí Faliisia pum ɲuna nda aa : « Le yɛɛ nɛ niaa co yɛ ɲɛ kuunan o paale pɛngiaalen coo-o tosaa ? »
+42006009	~		Mí Yeesu ɲuna nda aa : « I co pá i cɛlnan le dɛnɛ kɛndɔɔ te kon te dɛnɛ vɔɔndo tosaa o paale pɛngiaalen coo , le vanndo ciindiaa te kon te le ndu malɔɔ mo vi ? »
+42006032	kuɛɛ		Te la kaola pɛ vanaa kaola niaa kínɛí , balika kuɛɛ niaa sɔ̀là yɛnin o kon nin ? Kani vanaa lahakia bɛɛ a kaola vanaa kaola nda-a .
+42006033	kuɛɛ		Te la tosal pɛ vanaa co niaa dɛnɛ kɛndɔɔ tosallo-a dɛnɛ kɛndɔɔ , balika kuɛɛ niaa sɔ̀là yɛnin o kon nin ? Vanaa lahakia bɛɛ , lende koni nda tosa ni .
+42006034	kuɛɛ		Te la dɔnda pɛ vanaa niaa laalan maa a mingulnin niaa-a , balika kuɛɛ niaa sɔ̀là yɛnin o kon nin ? Kani vanaa lahakia bɛɛ , vanaa mingulnin nda-a nda dɔnda ni .
+42006039	Vɛ̀ɛ̀		Mí Yeesu dimul nda vɛlɛ taloo aa : « Vɛ̀ɛ̀ vana sumɛiyo nɔla pá mò biilul vana sumɛiyo tindaa ? O co o soondo nin te nda ŋiɔn kpow a delnin te ?
+42006041	le yɛɛ		Le yɛɛ nɛ n co yɛ bilte co puapilɛ nɔmndo o hɔl-ten tofaa , a dow yɔm ipɛngɛ co nɔm o lehɔl-lo taasi le ?
+42006042	Vɛ̀ɛ̀		Vɛ̀ɛ̀ n dimul-lɛnin puapilɛ nɔmndo aa : ‹ Puapilɛ nuu , mɛi-yɔ mì soli nɔm bilten o lehɔl › , te a co yɔm ipɛngɛ co nɔm o lehɔl-lo cɔ le ? Nɔm vana muuluanndo ho , solin-ndɔ fɔlɔn yɔm ipɛngɛ co nɔm o lehɔl-lo , o kon mà ce válán le bilte co puapilɛ nɔmndo o hɔl-ten solio . »
+42006046	le yɛɛ		« Le yɛɛ niaa co yɛ ya veeloo aa : ‹ Maalii , Maalii › , la co ɲɛ ya co niaa dimullo-o tosa le ?
+42007024	Yɛɛ		Telen kiilaa Nsaŋ vem-nda faŋan-ndo , mí Yeesu soaa o vannda lo a Nsaŋ o kɔɔ aa : « Yɛɛ niaa kɔɛ yɛ tofa o lɛŋnde veselɛilen nin ? Kpɛ̀ndɛ̀le hoeiye biiŋuu len te niaa kɔɛ tofa le ?
+42007025	yɛɛ		Kɛ yɛɛ kpeekpei niaa kɔɛ yɛ tofaa ? Mò va maa langbanɔ vownun volɔɔla cuɛinannda sɔvɛlan-ndo ni ? O cɛila masaa nin vanaa vownun volɔɔla sɔvɛlan , ma va o dɛnɛ kɛndɔɔ nin-nda co ni .
+42007026	Yɛɛ		Yɛɛ nɛ niaa kɔɛ yɛ niko tofaa ? Mò va maa vana-tɛɛngaa-diom Hala-o ni ? Mì dimul niaa , o hiow bɛɛ vana-tɛɛngaa-diom Hala .
+42007031a	kuɛɛ		Mí Yeesu ɲuna vɛlɛ aa : « A vanaa kuɛɛ kpeekpeei ya tuu yɛnin vanndacieea vaalio ho ? 
+42007031b	ɔ́ɔ̀		Ɔ́ɔ̀ velan ndaa ?
+42007042	kuɛɛ		Mɛɛ nda ŋiɔn kpow vana-vana nɔla mun sala le yɛ , mó mal nda le kueela lan nda ŋiɔn kpow . O nda ŋiɔŋaa kan tɛɛn , o kuɛɛ hiaw yɛnin ndu kaolaa ? »
+42007049	yɛɛ		Mí vanaa va dioo nda ndu latulu-a va ɲuunianndo o kɔlnin aa : « Ɛ̀ɛ̀ vana súú yɛɛ langbanɔɔ ho ndu co yɛ , o co hoo vannda hakilan malɔɔ-o ? »
+42008025a	Kuɛɛ		Mí Yeesu ɲuna kaandeŋaa ndɔa aa : « Kuɛɛ laalan niaa co yɛ ? » Mí siòònde bii nda taw , má dɔawnun kɔndɔfili . Má muungu ɲuunianndo vellaa-velle aa : 
+42008025b	yɛɛ		« Vana súú yɛɛ fallo ho co yɛ ? Hali hoeiye a mɛnndan , mi ma tuɛi ndu diom . »
+42008028	le yɛɛ		Ndóò cɔu Yeesu , mó yonda kpélén , mó del Yeesu o labɛngunin , mó heelu diomndo aa : « Le yɛɛ n co yɛ ya kɔɔli , nɔm Yeesu Po Hala-Hiow-Ɲɔɔn-Kpow-vo ? I co nɔm tɛɛlɔn , saangiaa ya le . »
+42008030	Vɛ̀ɛ̀		Mí Yeesu ɲuna ndu aa : « Vɛ̀ɛ̀ nɛ n nɔ yɛ diolan ? » Mó muli aa : « Sɛ́lɔ́ɔ́ » , kani ɲinaa vɔɔnda taw aa luɛi ndu nin ni .
+42008045	Nɛ̀ɛ́-nɛ̀		Mí Yeesu ɲuna aa : « Nɛ̀ɛ́-nɛ̀ɛ pilan yɛ ya ? » Le tùú nda kpede a va cɛvɔnndo a lasondo-o , mí Piɛr dimi aa : « Vana bɛndoo , vannda co nɔm balɔɔ sɔ́ , a co nɔm ŋoviŋovio . »
+42009009a	ɔ́ɔ̀		Kɛ mí Herɔde dimi aa : « Ya vem vannda ni le Nsaŋ bollen kiolɔɔ . Ɔ́ɔ̀ niko Nsaŋ ya co hoo sɔɔn ndɔn tueyɔɔ-o ? » O va nɛilan nuwviaa le ndu cɔu .
+42009009b	~		
+42009018	Vɛ̀ɛ̀		Paale pilɛ , Yeesu va Hala piɛiyo o fonda yilio pum , kaandeŋaa ndɔa va ndu ikɛi , mó ɲuna nda aa : « Vɛ̀ɛ̀ vannda co yɛ dimio a ya o kɔɔ ? »
+42009020a	~		Mó ɲuna nda aa : « Kɛ niaa yɛ niko , 
+42009020b	yɛɛ		yɛɛ niaa co yɛ dimio le vana ya co-o ? » Mí Piɛr muli aa : « Krista fula o Hala lo-o n co ni . »
+42009025	ɔ́ɔ̀		Ɔ́ɔ̀ tɔnɔ vanacieo nɔ le ceendo kpede sɔlaa , kɛ mì ndu pila laasian , mò tɛɛmbun-ndo ?
+42009041a	Háá telen kuɛɛ		Mí Yeesu dimi aa : « Éé niaa vanaa yɔŋ vɔɔŋaa nɔ haa laalan te-a ! Háá telen kuɛɛ ya lo yɛnin niaa ikɛi 
+42009041b	~		mì lo biuvɔnndo ho a niaa nuaa ? Cuu vɔ ya po nɔm kalaa nanu . »
+42010025	yɛɛ		Mí vana pɛɛkaa latɔŋndo pum can le Yeesu kɔlɔɔ solio , mó ɲuna ndu aa : « Kɔɔfa , yɛɛ ya tosa yɛ́ mì sɔla yoomu fɛɛn-fɛɛndo ? »
+42010026a	Yɛɛ		Mí Yeesu mulul ndu aa : « Yɛɛ co yɛ o sɛvaa o tɔŋndo nin ? 
+42010026b	Vɛ̀ɛ̀		Vɛ̀ɛ̀ n bii yɛ ndu bila ? »
+42010029	Nɛ̀ɛ́		Kɛ langbanɔ kon ndóò yeema mì ndu pila ndóò kennun di , le hee mó ɲuna Yeesu aa : « Nɛ̀ɛ́ co yɛ caan nuu ? »
+42010036a	~		Mí Yeesu hiaw laci a sɔɛi , mó ɲuna aa : 
+42010036b	ɔ́ɔ̀		« O vanaa yaa kan tɛɛn , ɔ́ɔ̀ vana co caaŋoo langbanɔ nda del hoo coo-o ? »
+42011008	~		Mì dimul niaa , hali mò cen mò yɔngu ndu le tùú o co caan ndɔ-o le , kɛ mɛɛ mò cɛn , mò yɔngu ndu ɲɛ-ɲɛ o yeema le baŋnɔn o baŋnun ndu ɲunaa-o . »
+42011011	ɔ́ɔ̀		O niaa tɛɛn , ɔ́ɔ̀ fuɲa po ndɔɔ piɛi buloo mò ke ndu powvo-o ? Te kon te o piɛi ndu pɛ suwvo , o ke ndu kɛwvo o fonda suwvo ?
+42011012	~		Te kon te , o piɛi ndu pɛ pelte sɔɔlen , o ke ndu ngeemaa ?
+42011013	vɛ̀ɛ̀		Niaa vanaa vɔɔnda co vɔ cuavaa niaa ɲɛm kɛndɔn keo , ko nin te Fuɲa niaa co o halataala-o , vɛ̀ɛ̀ o kɛɛ yɛnin vanaa co ndu ɲunaa-a Hala Kɔl-Diandaa yɔngu ! »
+42011018	vɛ̀ɛ̀		Lelan te Setana pila sɛyan pɛ , vɛ̀ɛ̀ masale ndɔlen le sim yɛnin ? Kani la co dimio maa a kpaaya Bɛlsebul-lo ya co ɲinaa vɔɔnda tovɔɔ nuaa ni .
+42011019	nɛ̀ɛ̀		Te a kpaaya Bɛlsebul-lo ya co ɲinaa vɔɔnda tovɔɔ ni , ɛɛ vanaa co yɛ niaa simndan kɔɔli-a yɛ niko , a kpaaya nɛ̀ɛ̀ nda nda co yɛ nda tovɔɔ ? Lelan , nda pila cɔmnin niaa maa la nɔ dí le .
+42012014	nɛ̀ɛ́		Mí Yeesu ɲuna ndu aa : « Fallo , nɛ̀ɛ́ kɛsi yɛ ya le vaa vana kialaa n'yamaa a vana piɔvaa n'ɲɔɔ niaa tɛɛn ? »
+42012017	vɛ̀ɛ̀		Mɛɛ tɔlɔɔla ndɔla lan la kom lende , mó ɲunan aa : ‹ Ko vɛ̀ɛ̀ ya tosa yɛ ? I nɔ lɛ fonda oo fonda ya cuungiaa ɲɛm ya kow-von kpow le . ›
+42012020	nɛ̀ɛ́-nɛ̀		Kɛ mí Hala mulul ndu aa : ‹ Diɔmndo ho , cɔɛllɛn kpeekpei ya co yoomu nɔmndo hiɔlɔɔ ni , ɲɛm n bɛɛndiaa mun-ndon , nɛ̀ɛ́-nɛ̀ n co yɛ mun mel ? › »
+42012024	~		La tofa vɔ basabasakoendea , a seŋ te , a kuw le , a nɔ nɛɛ mandaa ɲɛ le , a nɔ konda le , kɛ Hala co nda baloo dɔvɔɔ . Niaa la hiow yowva polon !
+42012025	ɔ́ɔ̀		O niaa tɛɛn , ɔ́ɔ̀ vana cɔɔlu nin yoomu ndɔɔ bɛndi hali paale pilɛ le buulannda ndɔlan-ndo ?
+42012026	le yɛɛ		Te la bumba yɛ pɛ sɔɛi pɔmbɔɛi vaa lende , le yɛɛ niaa co yɛ niko buulanndo le ɲɛm tɔ̀un ?
+42012042	ɔ́ɔ̀		Mí Maalii mulul ndu aa : « Ɔ́ɔ̀ niko vana baala kɔlkalu lò kon o diomnden coo-o ? Ndu co ò vana ndɔ bɛndoo dimulnin le hɔlla landɔɔ cɛi ndɔɔ coo a le vanaa baalaa tɔ̀a ɲɛdiaa yɔngoo a telen bɛnda-o-o ni .
+42012049	~		Mí Yeesu hiaw laci a sɔɛi , mó dimi aa : « Yinnden ya cuu o ceendo coo ni , yáà yeema taw mì léè va nin biyɔɔ !
+42012056	le yɛɛ		Niaa vanaa muuluannda ha ! La tiwba mì la tofa lɛŋnden a halataalaa , mì la bii lan bila . Kɛ le yɛɛ niaa co yɛ niko kɛɛ telenndo ho bila biyɔɔ ? »
+42012057	le yɛɛ		Mí Yeesu dimi vɛlɛ aa : « Le yɛɛ nɛ niaa pila co yɛ kɛɛ iyama kiolɔn o sandei nin ?
+42013004	~		N'van tɔ́ a vanaa ŋɔmaa cɛi coocoo vilɛiyo del coo Siloe , mó diw nda-a yɛ , la laalan maa nda yɔŋnun vanaa yɔŋ vɔɔnda hiovɔɔ vanaa tɔ̀a Yerusalɛm coo ni ?
+42013007	~		O kon , mó dimul vana va nakɔ n'rɛsɛn kon mandaa-o aa : ‹ Tofa vɔ , vɔsilan tan yáá co hoo ni , i co hunɔɔ voosun koaman nuwviaa o vosoo ho coo , kɛ i co ɲɛ-ɲɛ komal te . Kiolu ndu . O bɛnda mò bii fondaa o lɛŋnden coo fúú le ! ›
+42013015	vɛ̀ɛ̀		Mí Maalii mulul ndu aa : « Niaa vanaa muuluannda ha ! Niaa a pilɛn-pilɛnnda , vɛ̀ɛ̀ la timbi navaa niaa a sofɛlɛa niaa nɛɛ niaa dow nda billo-a o paale pɛngiaalen coo le nda koesio le .
+42013018a	yɛɛ		O kon kɔɔli , mí Yeesu dimi aa : « A yɛɛ nɛ masale Hala len le velan yɛ ? 
+42013018b	yɛɛ		A yɛɛ nɛ ya tuu yɛ len ?
+42013020	yɛɛ		Mí Yeesu ɲuna vɛlɛ aa : « A yɛɛ nɛ ya tuu yɛnin masale Hala len ?
+42013025	~		Telen vana cɛiyo cannin mò kinda dioo-o , la lonin o bɛ́ɛ̀ . La kandunin dioo lɔɔ a dimio aa : ‹ Maalii ! Kumbil naa dioo . › Kɛ mò mulul niaa aa : ‹ I sina nɛɛ niaa fula le . ›
+42014005	vɛ̀ɛ̀		O kon kɔɔli , mó ɲuna nda aa : « Te vana pilɛ o niaa tɛɛn nɔ pɛ poo , te kon te nawvo , mò del o soondo nin o paale pɛngiaalen coo , vɛ̀ɛ̀ o kuenin fɔ́ɔ́fɔ̀ , mò kɔ soli ndu le ? »
+42014028	~		Mó hiaw laci a sɔɛi , mó dimi aa : « Te vana pilɛ o niaa tɛɛn yeema pɛ le cɛi coocoo tangullo , mɛɛ mò cal fɔlɔn , mò tuu ɲɛ o bɛnda le solio-o , haliko mo sina te ɲɛ-sɔlaa o nɔ-o mala ndu mò cii cɛi kon tangulu .
+42014031	~		Lende koni vɛlɛ ni , te masa pum yeema pɛ le masa celen simullo , mɛɛ mò cal fɔlɔn , mò yiyan te o nɔlanin masa nɔ vanaa cɔwva vaalan bidiin-ndo simullo a vanaa ndɔa cɔwva vaalan tɔ́ .
+42014034	yɛɛ		« Ɲɛ kɛndɔɔ pila hɛlle co ni , kɛ te i muungu pɛ paŋ , a yɛɛ vana mingi yɛ ndi vɛlɛ yeeliaa ?
+42015004	vɛ̀ɛ̀		« O niaa tɛɛn , te vanndo nɔ pɛ saa kɛmɛ , mì o pilɛ lo , vɛ̀ɛ̀ o co saa belaŋɔmahiɔɔlu a ŋɔmahiɔɔlua le o mɛi-yɔ yondoo nin , mò kɔɛ o lo kon-ndo nuwviaa háá mò saalun ndu le ?
+42015008	vɛ̀ɛ̀		Mí Yeesu hiaw laci a sɔɛi , mó dimi aa : « Te kon te , te vanalanɔɔ pum nɔ pɛ volin latámán tɔ́ , mì voliei ipilɛ i lo , vɛ̀ɛ̀ o co fitinaa le o mɛndul , mò bɛɛsuu cɛiyo , mò nuwviaa ɲɛkɛndɛi háá mò saalun volii ken te ?
+42015026	~		Mó veelu vana baalaa o pilɛ , mó ɲuna ndu a dɛnɛ va kon tosanndo-o o kɔɔ .
+42015029	~		Kɛ mó mulul fuɲa ndɔ aa : ‹ Vɔsilan ndan kpede , i co nɔm baalaa tosallo , i kɛɛ nɔm diom tueyɔɔ le . A kon kpede , lepilɛ bɛɛ a soli hali cuin cuaa mì tosa kɔlkɛndɔɔ naa caaŋaa nia le .
+42016002	Vɛ̀ɛ̀		Mí vana bolofaa kon veelu ndu , mó ɲuna ndu aa : ‹ Vɛ̀ɛ̀ ya co yɛ tueyɔɔ a nɔm o kɔɔ ? Downun ya kona , kani a manda lɛnin bolofaa nuu le . ›
+42016003	Vɛ̀ɛ̀		Mí vana mandaa bolofaa kon ɲunan o kɔl ndɔɔ nin aa : ‹ Vɛ̀ɛ̀ ya tosa yɛ ? Kani vana ni bɛndoo co ya ɲɛm ndɔn faŋa o ba ? I nɔ yɛ mayoomu mì tosa vali yondo le , nduyɛ siɛmbulan la co ya vɛlɛ le vannda ɲɔɔn piɛiyo .
+42016005	Vɛ̀ɛ̀		O kon , mó veelu vanáà nɔ kueela vana ndɔ bɛndoo-a a pilɛn-pilɛnnda , mó ɲuna o tasoo aa : ‹ Vɛ̀ɛ̀ kuee vana ni bɛndoo co yɛ nɔm ? ›
+42016007	vɛ̀ɛ́		O kon kɔɔli , mó ɲuna o pilɔɔ aa : ‹ Nɔm yɛ , vɛ̀ɛ́ n nɔ yɛ le salaa ? › Mí ndu dimul ndu aa : ‹ Maalon panio kɛmɛ . › Mó dimul ndu aa : ‹ Má cè sɛbɛ lesei nɔmndo ! Sɛva panio belaŋɔmaa . ›
+42016011	nɛ̀ɛ́		Lelan , te la sendu o bolofaa ceendo ho nin te , nɛ̀ɛ́ yɔngu yɛnin niaa bolofaa kpeekpeiyo mandaa ?
+42016012	nɛ̀ɛ́		Te la sendu o ɲɛm pilan mandan nin te , nɛ̀ɛ́ yɔngu yɛnin niaa ɲɛm co le niaa pila-on ?
+42017007	vɛ̀ɛ̀		« O niaa tɛɛn , te vanndo nɔ pɛ vana baalaa , mì vana baala kon va vàá , te kon te mò va cɔlua mandaa , mò hin fulaa o poli , vɛ̀ɛ̀ o dimul ndu pá aa : ‹ Hun cɔ́-cɔ́ , mà de ɲɛdiaa › ?
+42017017	ɔ́ɔ̀		O kon mí Yeesu ɲuna aa : « N'van tɔ́ le sɔla siongɔɔ le . A ŋɔmahiɔɔlua yɛ niko , ɔ́ɔ̀ ba nda co-o ?
+42017018	~		A tɔ̀a kpede , vana-vana hin mò hun mel Hala balika le , fɔ miallo ho ! »
+42017020	Lɔ́ɔ́ kuɛɛ		Mí Faliisia ɲuna Yeesu aa : « Lɔ́ɔ́ kuɛɛ nɛ Masale Hala len le hun yɛnin ? » Mó mulul nda aa : « Masale Hala len le hinnin mì vannda ce le .
+42017037	Kuɛɛ		O kon , mí kaandennda ɲuna ndu aa : « Kuɛɛ nɛ hee yɔŋnun yɛnin , Maalii ? » Mó mulul nda aa : « Nɛɛ ɲɛ vílɛ́iyo co-a , lon duàá cuungian ni . »
+42018018	yɛɛ		Mí simlacinɔ Yuifinɔɔ pilɛ ɲuna Yeesu aa : « Vana pɛɛkaa kɛndɔɔ , yɛɛ nɛ ya tosa yɛ mì sɔla yoomu fɛɛn-fɛɛndo ? »
+42018019	le yɛɛ		Mí Yeesu dimul ndu aa : « Le yɛɛ nɛ n co yɛ ya veeloo aa vana pɛɛkaa kɛndɔɔ ? Vana-vana co o kɛndɛ le , fɔ Hala .
+42018026	nɛ̀ɛ́		Mí vanaa va ndu nilan yaŋɔɔ-a ɲuna aa : « Mɛɛ nɛ̀ɛ́ nɔla yɛnin cindaa sɔlaa o kon ? »
+42018036	~		Mɛɛ o tuei sɛ́lɔ́ɔ́ ivoolun-voolunnde , mó ɲuna nda ɲɛ yɔŋnun-ndo .
+42018041	Yɛɛ		« Yɛɛ n yeema yɛ mì tosal nɔm ? » Mó muli aa : « Maalii , tosa mì ce vɛlɛ maa paandu . »
+42019007	~		Vannda kpow ndáà cɔu lende , má va sɔɔn pɔmbɔn dimio aa : « Tofa vɔ , o kɔɛ o yiya o vana lahakio lo cɛinin . »
+42019023	le yɛɛ		Le yɛɛ nɛ niko a yee volin nun o cɛi mandaa bolofaa nin te ? O kon mɛɛ yáà muungu nanu nuaa yɛ , yáà hun soli mun a tɔnɔɔ lecoo ? ›
+42019031	le yɛɛ		Te vana ɲuna niaa pɛ aa : ‹ Le yɛɛ nɛ niaa co yɛ ndu timbio ? › La mulul ndu aa : ‹ Maalii nɔ makoo a ndu ni . › »
+42019033	le yɛɛ		A lo sofɛlɛ téndé kalaa timbio , mí vanaa ɲɛ-a ɲuna nda aa : « Le yɛɛ niaa co yɛ sofɛlɛ téndé kon timbio ? »
+42020002a	nɛ̀ɛ́-nɛ̀		má ɲuna ndu aa : « Dimul naa , nɛ̀ɛ́-nɛ̀ vem yɛ nɔm dɛnndan ndan tosaa ? 
+42020002b	Nɛ̀ɛ́		Nɛ̀ɛ́ ke yɛ nɔm di kon ? »
+42020005a	~		O kon má yɔngan yiyanndan vellaa-velle , má dimi aa : « Te n muli pɛ aa ‹ Hala vem ndu ni › , o co naa ɲuna aa : 
+42020005b	le yɛɛ		‹ Kɛ le yɛɛ nɛ niaa kɛɛ yɛ niko ndu laalan ? ›
+42020013	Vɛ̀ɛ̀		Mí vana nakɔɔ dimi aa : ‹ Vɛ̀ɛ̀ ya co yɛ hee biyɔɔ ? I co po ni kaolaa vomɔɔ , bɔɔle ma ke ndu bɛɛlen . ›
+42020015	Vɛ̀ɛ̀		O kon má toaw ndu o nakɔɔ kɔɔli , má dii ndu . Vɛ̀ɛ̀ vana nakɔɔ tosa yɛnin a nda ?
+42020017	yɛɛ		O kon mí Yeesu tofa nda ciŋ , mó ɲuna nda aa : « Kɔlɔ yɛɛ sɔɛi co hee isɛvaa-e nɔ yɛ aa : ‹ Pow vanaa tangulaa cɛiya viow-vo , pow kon siŋnun pow lebollo ni ? ›
+42020023	~		Kɛ le tùú Yeesu ndóò sina kɔlkalu nda vɔɔndo-o , mó mulul nda aa : « La cɔm ya volii támái .
+42020024a	nɛ̀ɛ́		Hɔlaa nɛ̀ɛ́ a diola 
+42020024b	nɛ̀ɛ́		nɛ̀ɛ́ la co yɛ lan lecoo ? » Má muli aa : « Sesar ni . »
+42020033	nɛ̀ɛ́		O tendul vanvílɛ́iya , lanɔɔ nɛ̀ɛ́ cua kon va yɛnin ? Kani o kei vanaa ŋɔmmɛvaa kan kpow o ba o nɔu . »
+42020041	le yɛɛ		O kon mí Yeesu dimul nda aa : « Le yɛɛ vannda co yɛ dimio maa po David-o Krista co ni ?
+42020044	vɛ̀ɛ̀		Nduyɛ , David pila veelu ndu aa : ‹ Maalii › , vɛ̀ɛ̀ o nɔla yɛ vɛlɛ ò va po ndɔɔ ? »
+42021007a	telen kuɛɛ		Má ɲuna ndu aa : « Kɔɔfa , telen kuɛɛ kon tosan yɛnin ? 
+42021007b	Yɛɛ		Yɛɛ va yɛnin tɔɔmaseloo le dɛnnda lan cɔmndo ? »
+42022009	Kuɛɛ		Má ɲuna ndu aa : « Kuɛɛ nɛ n yeema yɛ mì n bɛɛndiaa ndu ? »
+42022011	kuɛɛ		mì la dimul vana cɛi kon aa : ‹ Kɔɔfa dimi aa kuɛɛ nɛ o dia yɛnin ɲɛdiaa kafo-hiavaa-coo nda kaandeŋaa ndɔa ? ›
+42022027	ɔ́ɔ̀		Kani ɔ́ɔ̀ vana co vana bɛndoo-o : vana co ɲɛdiaa dioo-o baa vana co ndu ɲɛdiaa keo-vo ? Vɛ̀ɛ̀ o co vana co dioo-o le ? Nduyɛ , ya i co niaa tɛɛn maa vana niaa baala .
+42022046	le yɛɛ		Mó ɲuna nda aa : « Le yɛɛ niaa co yɛ lɔan ? La tiondu mì la piɛi , yɔŋii niaa del o tɔɔndanndo nin . »
+42022064	~		Má yii ndu hɔlla , má va ndu ɲunaa aa : « Cɔm naa vana lɔɔ nɔm-ndo . »
+42022071	yɛɛ		O kon má dimi aa : « Seyaa yɛɛ naa n co yɛ vɛlɛ cum ? Naa pila n tuei ɲɛ fula ndu o sondo-o . »
+42023022a	~		Mí Pilate ɲuna nda vɛlɛ o bɛmbɛ yàándɔɔ aa : 
+42023022b	yɛɛ		« Dɛnɛ vɔɔn yɛɛ langbanɔɔ ho tosa yɛ ? Ya ya , i ci tɛɛmbuu kɛ́-kɛ̀ o bɛnda le piɔ́m sɔla le . Lelan , i co vannda vomɔɔ mà lɔɔ ndu , o kon mì mal ndu . »
+42023031	vɛ̀ɛ̀		Kani taa tosa pɛ nuaa a yɔm kiyɔɔ , vɛ̀ɛ̀ kpeekpei i va yɛnin a o vesɛiyo ? »
+42024005	le yɛɛ		Mí siòònde bii nda , má tundu hɔlla lɛŋ . Mí vanaa kan ɲuna nda aa : « Le yɛɛ nɛ niaa co yɛ vana co yoomuo nuwviaa vanvílɛ́iya tɛɛn ?
+42024017	yɛɛ		Mí Yeesu ɲuna nda aa : « O sɔɛi yɛɛ coo niaa co yɛ kɔlan a suukanndo ho ? » Má sim , mí mɔnɛi bii nda .
+42024019	yɛɛ		Mí Yeesu ɲuna nda aa : « Dɛnnda yɛɛ nɛ lan ? » Má mulul ndu aa : « Ɲɛ yɔŋnun Yeesu fula Nasarɛt-o pɛɛn , o yɔŋnun Vana-tɛɛngaa-diom Hala kpaayaa-o , o cɔm kon o dɛnnda o tosa lan nin a sɔɔn o va dimi-on nin Hala o hɔl a vannda kpow o hɔl .
+42024025	~		O kon mí Yeesu dimul nda aa : « Niaa vanaa nɔ haa kɔlkalu le-a , kɔlta niaalan la yala sɔɔn vanaa-tɛɛngaa-diom Hala-a dimi-on biyɔɔ le !
+42024038a	Le yɛɛ		Kɛ mí Yeesu ɲuna nda aa : « Le yɛɛ niaa co yɛ buulanndo ? 
+42024038b	Le yɛɛ		Le yɛɛ niaa co yɛ sikaa o kɔlta niaalan nin ?
+43001019	Nɛ̀ɛ̀		Seile Nsaŋ-nden le co len ni , telen Yuifia lo Yerusalɛm má viam vanaa-solia-lasálàá a leviia le ndu Nsaŋ kɔlan ɲunaa-o aa : « Nɛ̀ɛ̀ kpeekpei nɔm co yɛ ? »
+43001021	Nɛ̀ɛ́		Má ɲuna ndu aa : « Nɛ̀ɛ́ n co yɛ ? Mò va maa Elii n co ni ? » Mó dimi aa : « I co Elii le . » Má ɲuna ndu aa : « Mò va maa vana-tɛɛngaa-diom Hala naa n co cumndo-o ni ? » Mó muli aa : « Ɛ-ɛ ! »
+43001022a	Nɛ̀ɛ́		O kon má dimul ndu aa : « Nɛ̀ɛ́ n co yɛ niko ? 
+43001022b	vɛ̀ɛ̀		Haliko mi n kɔ mulul vanaa vem naa-a , vɛ̀ɛ̀ nɔm pila co yɛ cɔnnɔnndo ? »
+43001025	le yɛɛ		Má ɲuna ndu aa : « Le yɛɛ n co yɛ niko vannda yinɔɔ , nɔm yɛ a co Krista le , a co Elii le , a co yɛ vana-tɛɛngaa-diom Hala-o le ? » Mí Nsaŋ mulul nda aa :
+43001038a	Yɛɛ		Yeesu mulinndo , mó cannun nda hunɔɔ ndu kɔɔli , mó dimul nda aa : « Yɛɛ niaa co yɛ nuwviaa ? » Má dimul ndu aa : 
+43001038b	kuɛɛ		« Kɔɔfa naa n co nuwviaa ni , kuɛɛ nɛ n co yɛ o yiya ? »
+43001046	~		Mí Natanaɛl ɲuna ndu aa : « Ɲɛ kɛndɔɔ nɔla pá fulaa Nasarɛt ? » Mí Filipe mulul ndu aa : « Hun mà ce . »
+43001048	Kuɛɛ		Mí Natanaɛl dimul ndu aa : « Kuɛɛ n sina yɛ ya ? » Mí Yeesu mulul ndu aa : « Lɔ́ɔ́ pá mi Filipe veelu nɔm nɛɛ n va o voosu tumndo bɛngu-a , yáà ce nin nɔm . »
+43002004	vɛ̀ɛ̀		Mí Yeesu ɲuna ndu aa : « Vuɛɛndo , mi vɛ̀ɛ̀ ya yɔŋ yɛ ? Telen nuu tiiya vɔ le . »
+43002018a	~		O kon mí Yuifia cua sɔɛi , má dimul ndu aa : 
+43002018b	ɔ́ɔ̀		« Ɔ́ɔ̀ tɔɔmasale cɔm naa maa a nɔ dí le tosaa nuaa-o ? »
+43003004	Vɛɛ		Mí Nikodɛm dimul ndu aa : « Vɛɛ vanacieo nɔla yɛ vɛlɛ violɔn te o yuuva nin pɛ ? O nɔla lɛ muungoo kala ndɔ o dembe mò velun te ? »
+43003009	Vɛɛ		Mí Nikodɛm ɲuna ndu aa : « Vɛɛ ken i nɔla mì i tosan ? »
+43003012	vɛ̀ɛ̀		Te la laalan telen ya co niaa sɔɔn co o lɛŋnden coo-on dimullo le , vɛ̀ɛ̀ niaa laalan yɛnin telen ya dimulnin niaa sɔɔn vaa o halataala ?
+43004009	~		Mí vanalanɔ kon dimul ndu aa : « Nɔm Yuifinɔɔ a piɛi ya mɛnndan le kolɔɔ , ya Samarinɔɔ ? » Kani Yuifia nɔ mako a Samaria le .
+43004011	Kuɛɛ		Mí cuaa mulul ndu aa : « Maalii , a nɔ ɲɛ kɔandaa mamɛn te , nduyɛ soon-kólaa yingila . Kuɛɛ nɔm óò fula yɛnin a mɛmma cindaama man ?
+43004027a	~		A lo suukan kon , mí kaandeŋaa ndɔa hun , mí kɔndɔfillo bii nda le ndu komallo sɔɛi nda vanalanɔɔ . 
+43004027b	~		Kɛ vana-vana ɲuna ndu le sɔɛi nda va nda cua kon-nde o kɔɔ le .
+43005012	ɔ́ɔ̀		Má ɲuna ndu aa : « Ɔ́ɔ̀ vana dimul nɔm kon aa : ‹ Cua ɲɛ hinia nɔmndo mà kɔɛ-o ? › »
+43005044	Vɛ̀ɛ̀		Vɛ̀ɛ̀ niaa nɔla yɛnin laalanndo , la co niaa pila candanndo vellaa-velle , la co candɔɔla Hala lan kínɛí nuwviaa le ?
+43005047	vɛ̀ɛ̀		Kɛ te la laalan sɔɔn o sɛva-on te , vɛ̀ɛ̀ niaa laalan yɛnin sɔɔn nun ? »
+43006005	Kuɛɛ		Yeesu tofaa , mó ca maa sɛ́lɛ́ bɛndoo va ndu kɔlan kɔɔli . Mó ɲuna Filipe aa : « Kuɛɛ naa n piandu yɛnin buloo le vannda ha dioo ? »
+43006009	~		« Poombɔɔ pum nɔ bulula ɔrselan nanu tan ŋuɛɛnu a suwva nda ŋiɔn , kɛ kan co ɲɛ-ɲɛ le sɛ́lɛ́ bɛndu vaa nuaa le . »
+43006025	telen kuɛɛ		Má kɔ saalun ndu o dalaa kɔngɔɔ pilɔɔ , má ɲuna ndu aa : « Vana bɛndoo , telen kuɛɛ n tiiya yɛ nanu ? »
+43006028	Yɛɛ		Má ɲuna ndu aa : « Yɛɛ naa n tosa yɛ mi kon va dɛnnda Hala lan ? »
+43006030a	ɔ́ɔ̀		Má ɲuna ndu aa : « Ɔ́ɔ̀ dɛnɛ kaamaa n co tosa haliko mi n ce mi n laalan nɔm-ndo ? 
+43006030b	ɔ́ɔ̀		Ɔ́ɔ̀ dɛnɛ n co tosa-o !
+43006042	le yɛɛ		Má va dimio aa : « O co macoaa ndu le co Yeesu po Yosɛf-o le ? N sina masinaa fuɲa ndɔ a kala ndɔ le ? Kɛ le yɛɛ o co yɛɛ naa niko dimullo maa o halataala o fula ni ? »
+43006052	Vɛɛ		Mí Yuifia va sɛɛngianndo nda pila tɛɛn , ma va ɲunaa aa : « Vɛɛ o ke yɛnin naa dialun ndɔn le dioo ? »
+43006060	nɛ̀ɛ́		Ndáà ciiyo ndu diomndo tueyɔɔ , mí kaandeŋaa ndɔa bɔɔ-bɔɔ a dimi aa : « Sɔɔn mun kendu bɔɔ , nɛ̀ɛ́ nɔla yɛ mun biyɔɔ ? »
+43006062	vɛ̀ɛ̀		Te la hun cɔ yɛ pɛ niko Po vanacieo helɔɔ nɛɛ o va o tasendɔ-a , vɛ̀ɛ̀ niaa dimi yɛnin ?
+43006068	nɛ̀ɛ̀		Mí Simɔn Piɛr mulul ndu aa : « Maalii , o nɛ̀ɛ̀ lo naa n kɔa yɛnin ? Nɔm nɔ sɔɔn yoomu fɛɛn-fɛɛnndon ni .
+43007011	~		Yuifia va ndu nuwviaa o kafoo , má va ɲuuniaa le ba o va-o .
+43007015	vɛ̀ɛ̀		Mí kɔndɔfillo va Yuifia biyɔɔ , ma va dimio aa : « Ndu sɔla pɛɛku bɔɔ loo , vɛ̀ɛ̀ o looku yɛ Sɛbɛ Hala-o sinaa ? »
+43007019	Le yɛɛ		Vɛ̀ɛ̀ o co tɔŋndo le Moise ke niaa le ? Nduyɛ niaa kpede , vana-vana co kela o tɔŋ kon coo le . Le yɛɛ niaa co yɛ niko nɛilan nuwviaa le ya diyɔɔ ? »
+43007020	~		Mí sɛ́lɔ́ɔ́ mulul ndu aa : « Ɲina vɔɔndo co nɔm nin ni , ndu co nɛilan nuwviaa le nɔm diyɔɔ ni . »
+43007023	le yɛɛ		Te la dii pɛ vanndo tooma o paale pɛngiaalen coo , haliko la del kasi a tɔŋ Moise-o le , le yɛɛ niaa tambu yɛ niko kɔl a ya le vanaciee ya singi o paale pɛngiaalen coo-o ?
+43007035	Kuɛɛ		Mí Yuifia dimulan aa : « Kuɛɛ o kɔa yɛnin mì n bumba ndu saalɔn ? Mo va o Yuifia co a sɛŋiannda Krɛkia tɛɛn-nda lo o kɔanin mo kɔ pɛɛku Krɛkia ni ?
+43007036	ɔ́ɔ̀		Ɔ́ɔ̀ kɔlɔ sɔɛi o dimi hee-e aa : ‹ La nuwviaanin ya , kɛ la seelunnin ya le , nɛɛ ya vanin-nda , la nɔlanin kɔlan ndon te . › ? »
+43007041	~		Mí a pum nda va dimio aa : « Krista co hoo ni . » Kɛ mí a tiŋ nda va dimio aa : « Mò va maa Kalile Krista fulanin ni ? »
+43007045	le yɛɛ		Kpalilla muungoo o bolii vanaa-solia-lasálàá a o Faliisia lo , má kɔ ɲuna nda aa : « Le yɛɛ niaa kɛɛ yɛ ndu biyɔɔ ? »
+43007048	~		La ce nin simlacia vana pilɛ te kon te Faliisia vana pilɛ bɛɛ kpé ndu laalanndo ?
+43007051	Vɛ̀ɛ̀		« Vɛ̀ɛ̀ tɔŋ naa cɛl pá mì n kelu yamɛi vanndo te o co mi vana kon soo , mì vana sina dɛnɛ o tɛɛmbuu-o le ? »
+43008005	vɛ̀ɛ́		Nduyɛ o tɔŋndo nin , Moise dimul naa le vanalanɔ vaa nuaa lou viiyo a powtan háá mo vi : kɛ nɔm yɛ , vɛ̀ɛ́ n yiyan yɛ ? »
+43008010	ɔ́ɔ̀		O kon mí Yeesu can , mó ɲuna ndu aa : « Vuɛɛndo , ɔ́ɔ̀ vanaa lɔlu nɔm-nda ? Vana-vana yaala nɔm te ? »
+43008019	Kuɛɛ		O kon má dimul ndu aa : « Kuɛɛ Fuɲa nɔm co yɛ ? » Mí Yeesu muli aa : « La sina ya le , la sina vɛlɛ Fuɲa nuu le . Te niáà sina ya pɛ , la va Fuɲa nuu sina . »
+43008025a	Nɛ̀ɛ́		Má ɲuna ndu aa : « Nɛ̀ɛ́ n co yɛ ? » 
+43008025b	~		Mí Yeesu mulul nda aa : « Kabi o tasendɔ , vana ya dimul niaa maa ndu ya co ni-o , ndu ya co ni .
+43008033	le yɛɛ		Má mulul ndu aa : « Cuavaa-imamaa Abraham-nda naa n co ni , lepilɛ bɛɛ n tosa lecɛ vana o ba le , le yɛɛ n co yɛ naa dimullo maa mì n fula o cɛlen nin ? »
+43008043	le yɛɛ		Le yɛɛ niaa co yɛ kɛɔ sɔɛi nii bila biyɔɔ ? Kani la yeema mì la tuei sɔɔn nun te .
+43008046a	nɛ̀ɛ́		O niaa tɛɛn , nɛ̀ɛ́ cɔm yɛ ya maa i tosa hakio ? 
+43008046b	le yɛɛ		Te toɲaa ya co yɛ dimio ni , le yɛɛ niaa co yɛ niko ya kɛɔ laalanndo ?
+43008053	Nɛ̀ɛ̀		Mò va maa nɔm hiow Abraham fuɲa naa vi-o ni ? Vanaa-tɛɛngaa-diom Hala-a bɛɛ a vi . Nɛ̀ɛ̀ nɔm pila co yɛ niko cɔnnɔnndo ? »
+43008057	~		Mí Yuifia dimul ndu aa : « A nɔ vɔ bɛɛ vɔsila beleŋuɛɛnu le , a dimi aa má ca Abraham ? »
+43009002	le yɛɛ		Mí kaandeŋaa ndɔa ɲuna ndu aa : « Kɔɔfa , le yɛɛ nɛ langbanɔɔ ho velun yɛ o sumɛiyo ? Mò va maa le haki vanaa velu ndu-a o suma ni baa le haki ndu pila tosa-o ? »
+43009010	Vɛ̀ɛ̀		O kon má ɲuna ndu niko aa : « Vɛ̀ɛ̀ hɔltan la looku yɛ nɔm kumbin ? »
+43009012	Kuɛɛ		Má dimul ndu aa : « Kuɛɛ langbanɔ kalaa co yɛ ? » Mó muli aa : « I sina le . »
+43009016	Vɛ̀ɛ̀		Mí vannda pum a va dimio Faliisia tɛɛn aa : « Langbanɔɔ ho co vana Hala le , kani o ke paale pɛngiaalen lebɛɛ le . » Mí a pum nda va dimio aa : « Vɛ̀ɛ̀ vana lahakio ndu looku yɛnin dɛnnda kaamaala vaa nuaa tosa ? »
+43009017	vɛ̀ɛ́		O kon má muungu , má ɲuna vɛlɛ vana va kon o sumɛiyo-o aa : « Nɔm niko , vɛ̀ɛ́ n yiyan yɛ a langbanɔ kumbi nɔm hoo hɔltan-ndo ? » Mó muli aa : « Vana-tɛɛngaa-diom Hala-o o co ni . »
+43009019	Vɛɛ		má ɲuna nda aa : « Vɛ̀ɛ̀ po niaa dimi maa o sumɛiyo niaa velu ndu ni-o co hoo ni ? Vɛɛ o looku yɛ niko cɔu ? »
+43009026a	Yɛɛ		Má ɲuna ndu aa : « Yɛɛ o yɔŋ yɛ nɔm ? 
+43009026b	Vɛɛ		Vɛɛ o looku yɛ nɔm hɔltan kumbi ? »
+43009027	le yɛɛ		Mó mulul nda aa : « I dimul nihau niaa ndi , la yeŋ ya lani le . Le yɛɛ niaa yeema yɛ vɛlɛ ndi tueyɔɔ ? Mò va maa yeemɛi niaa bɛɛ nɔ le siŋnɔnndo kaandeŋaa ndɔa ni ? »
+43009034	~		Má mulul ndu aa : « Nɔm pila kpow , o hakio nin n velun ni , nɔm kon hun naa pɛɛkoo ni ! » Má ɲindu ndu o bɛ́ɛ̀ .
+43009036	Nɛ̀ɛ́-nɛ̀		Mí langbanɔɔ muli aa : « Nɛ̀ɛ́-nɛ̀ kon Maalii , haliko mi laalan ndu . »
+43010020	le yɛɛ		Mí vanaa bɔɔ-bɔɔ o nda tɛɛn a va dimio aa : « Ɲina vɔɔndo co ndu nin ni . O seema . Le yɛɛ niaa co yɛ ndu yaŋnɔnndo ? »
+43010021	Vɛ̀ɛ̀		Mí a pum nda va dimio aa : « Vana seemɛi súú nuaa le ! Vɛ̀ɛ̀ mì ɲina vɔɔndo ndu kumbi vana sumɛiyo hɔltan ? »
+43010024	haa telen kuɛɛ		Mí Yuifia balu ndu , má dimul ndu aa : « Haa telen kuɛɛ kɔltan la lo yɛnin naa la landaa nuaa ? Te nɔm co Krista ni , mɛɛ dimul naa kpendekele . »
+43010032	kuɛɛ		O kon mí Yeesu dimul nda aa : « I tosa dɛnnda kɛndɛkɛndɛla Pua cɔm ya lan taw niaa o hɔl . O dɛnnda lan nin , le dɛnɛ kuɛɛ niaa yeema yɛ le ya viiyo a powtan mì la dii ya ? »
+43010036	le yɛɛ		Ya yɛ , Hala hɛli ya ni , mó cuu ya o ceendo coo . Le yɛɛ niaa co yɛ niko dimio maa i yei ndu Hala , kani i dimi maa ya co Po Hala-o ni ?
+43011034	Kuɛɛ		mó ɲuna aa : « Kuɛɛ niaa kɛsi yɛ dialun ndɔn ? » Má mulul ndu aa : « Maalii , hun tofa vɔ . »
+43011047	Vɛɛ		O kon mí bolii vanaa-solia-lasálàá a Faliisia mɔɔsiaa vanaa kialaa n'yamaa lelɛŋnda , má dimul nda aa : « Vɛɛ naa n co yɛ tosa ? Kani langbanɔɔ ho co bɔɔ dɛnnda kaamaalan tosaa .
+43011056	~		A va Yeesu nuwviaa , má va ɲuunianndo vellaa-velle aa : « La yiyan maa o hinnin o kafoo le ? »
+43012005	le yɛɛ		« Le yɛɛ nda kɛɛ yɛ cuɛima cun kɛndɛan man pisi támálan kɛmɛ leyáá , mì vanáà piɔw vanaa bala fondoa volin mun ? »
+43012027	Vɛ̀ɛ̀		« Sisa , kɔllo laasian ya niŋ kpede , i sina bɛɛ ɲɛ ya dimi le ! Vɛ̀ɛ̀ mì dimi aa Pua baŋa ya o telenndo ho ? Ɛ-ɛ , kani le sangaa ho sɔlaa ya hin ni .
+43012034a	Le yɛɛ		Mí sɛ́lɔ́ɔ́ mulul ndu aa : « O naa n saalun o sɛbɛ latɔŋndo nin-ndo co ni maa Krista vanin yoomu le fɛɛn a fɛɛn . Le yɛɛ n co yɛ niko naa dimullo aa : ‹ Mɛɛ mì Po vanacieo sɔla heeloo ? 
+43012034b	Nɛ̀ɛ́		Nɛ̀ɛ́ co yɛ nin Po vanaciee kon ? › »
+43012038a	nɛ̀ɛ́		haliko mi sɔɛi Esai vana-tɛɛngaa-diom Hala-o ndóò dimi-e ndíì peelun aa : « Mɛlɛka , nɛ̀ɛ́ laalan yɛ sɔɛi naa n dimi-e ? 
+43012038b	Nɛ̀ɛ̀		Nɛ̀ɛ̀ Mɛlɛka cɔm yɛ kpaaya ndɔɔ ? »
+43013025	ɔ́ɔ̀		Mí kaandennɔ kon nangun Yeesu o ibuŋ , mó ɲuna ndu aa : « Ɔ́ɔ̀ vana kon nɛ Maalii ? »
+43013036	kuɛɛ		Mí Simɔn Piɛr ɲuna Yeesu aa : « Maalii , kuɛɛ nɛ n co yɛ kɔlan ? » Mí Yeesu mulul ndu aa : « A tiw-vɔ ba kɔlan ya kɔɔli sunsun te , kɛ o kon kɔɔli a hun kɔanin . »
+43013037	le kɔlɔ yɛɛ		Mí Piɛr ɲuna ndu aa : « Le kɔlɔ yɛɛ ya kɛɛ yɛnin tiwba nɔm kɔlan kɔɔli sunsun ? Te vuo ni , i vi le nɔm . »
+43014002	~		Fondalan la co taw o Fuɲa nuu lo cɛinin , te ndóò ve toɲa le , i va niaa dimul . Kɛ fondaa ya co lakɔ niaa toosial ni .
+43014005	vɛ̀ɛ̀		Mí Tomas dimul ndu aa : « Maalii , n sinà nɛɛ n co kɔlan-nda le , vɛ̀ɛ̀ naa n sina yɛnin nɛiyo le kɔlan ndon ? »
+43014009	le yɛɛ		Mí Yeesu dimul ndu aa : « O co lɛhau le naa n co latulu naa niaa le Filipe , yee a kon kpede a sina vɔ ya le ? Vana ce ya pɛ , mɛɛ Pua o ce lende ni . Le yɛɛ n co yɛ vɛlɛ dimio aa : ‹ Cɔm naa Pua › ?
+43014022	le yɛɛ		Mí Yuda ( o co Iskariɔt le ) ɲuna ndu aa : « Maalii , le yɛɛ n co yɛ mɛi ceendo cɔmnɔnndo mà cɔmnun naa ? »
+43016005	~		Nihau , o vana vem ya-o lo ya co kɔnndan ni , vana-vana co yɛ dɔ́ɔ́ ɲuna le nɛɛ ya co kɔlan-nda le !
+43016017	ɔ́ɔ̀		Mí kaandeŋaa ndɔa pum dimulan aa : « Ɔ́ɔ̀ kɔlɔ sɔɛi ndɔɛi he aa : ‹ O lo ɲɛ-pɔmbɔ , la ci lɛnin ya le , telen bingi o kon kɔɔli , la canin ya vɛlɛ . › Te kon te aa : ‹ I co lakɔ o Pua lo › .
+43016018	yɛɛ		Kɔlɔ yɛɛ co yɛ ‹ ɲɛ-pɔmbɔ › o co kon dimio-o ? N co sɔɛi ndɔɛi he bila biyɔɔ le few ! »
+43018004	Nɛ̀ɛ́-nɛ̀		Yeesu ndóò sina nin dɛnnda va ndu hunɔɔ yɔŋnɔn ndan kpow . Lelan , mó sɔɔnguu , mó ɲuna nda aa : « Nɛ̀ɛ́-nɛ̀ niaa co yɛ nuwviaa ? »
+43018007	Nɛ̀ɛ́-nɛ̀		Mó ɲuna nda vɛlɛ aa : « Nɛ̀ɛ́-nɛ̀ niaa co yɛ nuwviaa ? » Má mulul ndu aa : « Yeesu Nasarɛt . »
+43018011	Vɛ̀ɛ̀		Mí Yeesu dimul Piɛr aa : « Mingi mɔɛi nɔmii cɔwve o boo ndɔɔ nin . Vɛ̀ɛ̀ ya kɛɛ yɛnin kolɔɔ o taala kólaa imɔnɔ Fuɲa nuu ke ya le kolɔɔ lenin-ndo nin ? »
+43018021	yɛɛ		Le sabu yɛɛ nɛ n co yɛ nin ya ɲunaa ho ? Ɲuna vanaa tuei diomnda ya dimi lan-nda . Nda sina ɲɛ ya dimi-o . »
+43018023	le kɔlɔ yɛɛ		Mí Yeesu dimul ndu aa : « Te diom vɔɔndo ya dimi ni , mɛɛ cɔm ndɔ diom vɔɔn kon . Kɛ te i caa yɛ pɛ sɔɛi , mɛɛ le kɔlɔ yɛɛ n lɔɔ yɛ niko ya ? »
+43018029	yɛɛ		Mí Pilate fula o dio , mó ɲuna nda aa : « Sɔɛi yɛɛ nɛ langbanɔɔ ho tɛɛmbuu yɛ mì la hun a ndu ? »
+43018035	Yɛɛ		Mí Pilate mulul ndu aa : « Mò va maa Yuifinɔɔ ya co ni ? Vanaa nɔmnda a bolii vanaa-solia-lasálàá hin a nɔm o ya lo ni . Yɛɛ n tosa yɛ ? »
+43018038	Yɛɛ		Mí Pilate ɲuna ndu aa : « Yɛɛ co yɛ toɲaa ? » Pilate ciiyo dimio lende , mó fula vɛlɛ o dio , mó komal Yuifia hin a Yeesu-a , mó dimul nda aa : « Ya i ci tɛɛmbuu oo tɛɛmbuu vana yaala langbanɔɔ ho le .
+43019009	Kuɛɛ		mó muungu o cɛi lemasaa nin , mó kɔ ɲuna Yeesu aa : « Kuɛɛ nɛ n fula yɛ ? » Kɛ Yeesu mulul ndu le .
+43019015	Vɛ̀ɛ̀		Kɛ má deŋi o lepilɔɔ aa : « Faŋa naa ndu o hɔl ! Faŋa naa ndu o hɔl ! Kɔ baŋ ndu o yɔm singafilaa coo . » Mí Pilate ɲuna nda aa : « Vɛ̀ɛ̀ mì baŋ masa niaa o yɔm singafilaa coo ? » Mí bolii vanaa-solia-lasálàá muli aa : « Naa n nɔ masa celen o Sesar kɔɔli le . »
+43020013	le yɛɛ		Mí mɛlɛkaa kan a ɲuna ndu aa : « Vuɛɛndo , le yɛɛ nɛ n co yɛ caŋndo ? » Mó mulul nda aa : « A cii Maalii ni vi-o cua , i sínà nɛɛ nda kɛsi ndu le . »
+43020015a	le yɛɛ		Mí Yeesu ɲuna ndu aa : « Vuɛɛndo , le yɛɛ nɛ n co yɛ caŋndo ? 
+43020015b	Nɛ̀ɛ́-nɛ		Nɛ̀ɛ́-nɛ̀ n co yɛ nuwviaa ? » Mari ca ko bɛɛ aa vana baala nakɔɔ ni , mó dimul ndu aa : « Fallo , te nɔm faŋa dialun Yeesu-on ni , mɛɛ dimul-la nɛɛ n kɔ kɛsi mun-nda , mì kɔ cua . »
+43021012	~		Mí Yeesu dimul nda aa : « La hun dio . » O kaandeŋaa ndɔa tɛɛn , vana-vana tɔɔndan mò ɲuna ndu vana o co-o le , kani a va sinaa maa Maalii ni .
+43021020	nɛ̀ɛ́-nɛ̀		Piɛr mulinndo , mó cannun kaandennɔ Yeesu ndóò kaola-o nda kɔɔli , ó va o sɛɛŋan Yeesu o ibuŋ telen nda va ɲɛdiaa icɔllo dioo mi ndóò ɲuna Yeesu-o aa : « Maalii , nɛ̀ɛ́-nɛ̀ mal-lɛnin nɔm vannda o ba ? »
+43021021	yɛɛ		Mɛɛ o ce ndu , mí Piɛr dimul Yeesu aa : « Hoo yɛ Maalii , yɛɛ hun yɔŋnun yɛnin ndu ? »
+43021022	~		Mí Yeesu mulul ndu aa : « Te i yeema pɛ mò lo yoomu háá mi hin , mò va maa mako nɔm co kon ni ? Nɔm hun ya kɔɔli tuŋ ! »
+43021023	~		O kon kɔɔli , mí sɔɛi ken tiw vanaa laalannda tɛɛn maa kaandennɔ kon ndu vinin te . Nduyɛ Yeesu ndóò dimul ndu maa o vinin te le , kɛ nuaa ndóò dimul ndu ni aa : « Te i yeema pɛ mò lo yoomu háá mi hin , mò va maa mako nɔm co kon ni ? »
+44001011	le yɛɛ		má dimul nda aa : « Niaa Kalilea ha , le yɛɛ nɛ niaa co yɛ tofaa o halataala ? Yeesu faŋan hoo niaa ikɛi , mó hel o halataala-o hunnin vɛlɛ mɛɛ niaa ce ndu kɔlan o halataala nuaa yɛ . »
+44002008	Yɛɛ		Yɛɛ co yɛ niko tosaa mì vana-vana va ɲɛ nda co dimio-o tueyɔɔ o sɔɛi ndɔɛi o velun-nde nin ?
+44002012	yɛɛ		Má dɔawnun kɔndɔfili taw , ndáà nɔ mɛɛ dimia le . Má muungu ɲuunianndo vellaa-velle aa : « Dɛnɛ súú yɛɛ co yɛ hoo ? »
+44002037	yɛɛ		Mɛɛ vannda tuei sɔɔn mun , mí n pilan nda kɔltan ɲɛkɛndɛi . Má ɲuna Piɛr a kiilaa tɔ̀a aa : « Puapilɛa naa , yɛɛ naa n tosa yɛ ? »
+44003012a	le yɛɛ		Piɛr cɔu dɛnnda lan , mó ɲuna nda aa : « Niaa Israɛlla ha , le yɛɛ nɛ niaa co yɛ kɔndɔfillo dɔwnɔnndo le siongɔɔ langbanɔɔ ho ? 
+44003012b	le yɛɛ		Le yɛɛ nɛ niaa co yɛ naa tofaa mì la va yiyanndo maa a kpaaya naa pilaa , te kon te maa ɲíí nɛi i tosa ni mó kɔa ?
+44004007a	~		
+44004007b	kuɛɛ		Má hun a Piɛr nda Nsaŋ nda o hɔl , má ɲuna nda aa : « A kpaaya kuɛɛ , 
+44004007c	nɛ̀ɛ́-nɛ̀		te kon te o diola nɛ̀ɛ́-nɛ̀ niaa singi yɛ langbanɔ ho ? »
+44004016	Vɛɛ		Má ɲuunian aa : « Vɛɛ naa n co yɛ yɔŋ a vannda ha ? Kani Yerusalɛmnda kpow a sina maa nda tosa dɛnɛ kaamaa hoo ni , n tiwba kon sɛɛngiaa le .
+44004025a	le yɛɛ		Nɔm tosa ni mí Hala Kɔl-Diandaa luɛi David fuɲa naa mamaa nin , David vana nɔm baala pɛɛn , mó dimi aa : ‹ Le yɛɛ nɛ vanaa-mangalaa-isɔɔa co yɛ vɔkɔ-vɔkɔ hoo ? 
+44004025b	le yɛɛ		Le yɛɛ nɛ vannda co yɛ dúmbúlan yiiyo o fondoo coo ?
+44005003	le yɛɛ		Kɛ mí Piɛr ɲuna ndu aa : « Ananias , le yɛɛ nɛ n kumbil-lɛ Setana kɔl nɔmndo le Hala Kɔl-Diandaa còòlan dimullo , má faŋa volin n pisi yondoo-on baa pilɔɔ le nɔm pila ?
+44005004	le yɛɛ		Nɔm óò tiwba mí nɔm óò manda yondo kon , te kon te , mɛɛ nɔm óò cii ndu pisi yɛ , mí nɔm óò manda volin mun . Kɛ le yɛɛ nɛ n tosa yɛ dɛnɛ vaa nuaa ? O co vanaciee le n dimul còòlan te , kɛ Hala n dimul còòlan nuaa ni . »
+44005009	le yɛɛ		O kon mí Piɛr dimul ndu aa : « Le yɛɛ nɛ niaa cɛlan yɛ le Hala Kɔl-Diandaa huiyo ? Tofa vɔ ! Vanaa kumbu pɔnɔ nɔm-nda co o dio nuaa ni . Nɔm bɛɛ a co lakɔ a nɔm . »
+44007026	le yɛɛ		Diimandɔɔ , mí Moise komal puapilɛa ndɔa cɔlɔbaa . Mó kindin , mó toosiaa nda sɔɔngɔɔ tɛɛn , mó dimi aa : ‹ Caaŋaa nia , puapilɛa niaa co ni . Le yɛɛ nɛ niaa co yɛ niaa pilaa mɔnɛi lueinanndo ? ›
+44007027	Nɛ̀ɛ́		Kɛ mí o va caan ndɔ saangiaa-o ɲindu Moise , mó ɲuna ndu aa : ‹ Nɛ̀ɛ́ siinguu yɛ nɔm simlacinɔɔ a vana kialaa n'yamaa le naa ?
+44007035	Nɛ̀ɛ́		Moise Israɛlla ndáà kɛɛ kon má dimi aa : ‹ Nɛ̀ɛ́ siinguu yɛ nɔm simlacinɔɔ a vana kialaa n'yamaa naa coo-o ? › , o ndu lo Hala vem mɛlɛkanɔɔ le ndu dimullo mo va simlacinɔ naa a vana baŋaa naa ni , ndu Moise mɛlɛkanɔɔ cɔɔmun kon o bɔɔ nin-ndo pɛɛn .
+44007049a	yɛɛ		‹ Halataalaa co kpɛŋɛ ni lemasaa ni , lɛŋnden le co ɲɛ ni kɛsiaa n'peloo ni . Cɛi súú yɛɛ nɛ niaa nɔla yɛnin ya tengullo ? 
+44007049b	kuɛɛ		Fonda kuɛɛ va yɛnin fonda ni pɛngiaa kpeekpeiyo ?
+44007052	~		Fuɲaa niaa mamaa lekɛ́ndɛi niaa vel ni ! Vana-tɛɛngaa-diom Hala kon co le , o fuɲaa niaa mamaa kɛɛ yɛlen tollo . A cii vanaa va sɔɛi a hunɔɔ vana sandaa ndu pilɛ kpé dimio-a diw . Sunsun yɛ niko , niaa bɛɛ cii ndu baa kei o mundu , mí la dii ndu .
+44008031	Vɛ̀ɛ̀		Mí langbanɔɔ muli aa : « Vɛ̀ɛ̀ ya bii yɛnin ndu bila ? Te vana tɛɛsial-la ndu le ! » O kon , mó dimul Filipe maa o hel o ɲɛ ɲaanan kalaa nin , mò cal ndu ikɛi .
+44008033	nɛ̀ɛ́-nɛ̀		A tuisi ndu siɛmbulan , má kɔɔsal ndu . A faŋa yoomu ndɔɔ o ceendo ho coo , nɛ̀ɛ́-nɛ̀ buulan yɛnin a cuavaa ndɔa imamaa o kɔɔ ? »
+44008034	nɛ̀ɛ̀		Mí Etiopiinɔɔ ɲuna Filipe aa : « A yandi , dimul-la , a nɛ̀ɛ̀ o kɔɔ vana-tɛɛngaa-diom Hala-o ho co yɛ sɔɛi he nuaa ? A ndu pila o kɔɔ ni baa a vana celen o kɔɔ ? »
+44008036	Yɛɛ		A lo kɔlan , má komal mɛnndan . Mí langbanɔ kon dimi aa : « Má cè mɛnndan ! Yɛɛ kuuna yɛnin ya yinɔɔ sɔlaa ? »
+44009004	le yɛɛ		Mí Sol del lɛŋ , mó tuɛi diomndo pum ndu dimullo aa : « Sol , Sol , le yɛɛ nɛ n co yɛ ya yɛlen tol-lo ? »
+44009005	nɛ̀ɛ́-nɛ̀		Mí Sol ɲuna aa : « Nɔm nɛ̀ɛ́-nɛ̀ , Maalii ? » Mí diomndo muli aa : « Ya ni , Yeesu n co yɛlen tollo-o .
+44009006	~		Kɛ cɔn mà kɔɛ ciee . A kɔ dimulnin nɔm ɲɛ n bɛnda ma tosa-o . »
+44010004	Yɛɛ		Mí Kɔrnɛil tofa ndu ciŋ a siòònde , mó ɲuna aa : « Yɛɛ nɛ Maalii ? » Mí mɛlɛkanɔɔ mulul ndu aa : « Mɛlɛka tuei piɛile nɔmnden , o naŋ kɔl a kɛndɛi n tosal vanaa bala fondoa-e . O pɔɛɛnun a nɔm te .
+44010021	~		Mí Piɛr toal , mó ɲuna nda aa : « Ya co vana niaa co nuwviaa-o ni . La vɛ hunɔɔ nanu ? »
+44010029	~		Lelan , lɔ́ɔ́ niaa vem ya vannda veeloo-o , mí hun , i sɛɛngiaa le . Nduyɛ , i yeema mì sina kɔlɔ niaa veelu ya-o . »
+44010047	Vɛ̀ɛ̀		O kon , mí Piɛr ɲuna aa : « Vɛ̀ɛ̀ o bɛnda pá mi vana kɛɛ nihau vanaa sɔla haa Hala Kɔl-Diandaa maa naa-a yinɔɔ o mɛnndan nin ? »
+44011017a	vɛ̀ɛ̀		Ɛ̀ɛ̀ nduyɛ , te Hala ke nda pɛ ke pilɔɔ maa naa laalan Maalii Yeesu Krista-a , vɛ̀ɛ̀ yáà kuuna nin Hala hɛnan ndɔɔ tosaa ni ? »
+44011017b	~		
+44012018	~		A paale siaalen , mí sɛɛngian bɛndoo koma can vanaa cɔwva tɛɛn : ma va ɲuunianndo vellaa-velle le sinaa ba Piɛr hiow-vo .
+44013025	yɛɛ		Telen Nsaŋ va baala ndɔɔ siowvo-o , mó ɲuna aa : ‹ O yiyan niaa nin , vana súú yɛɛ nɛ ya co yɛ ? O co vana niaa co cumndo-o le ya co le . Ndu hunnin o ya kɔɔli , i co bɛɛ co ya timbi ndu samtalan o n'pelu le . ›
+44014015	le yɛɛ		« Le yɛɛ nɛ niaa co yɛ ho tosaa ? Naa bɛɛ , vanndacieea daama naa n co maa niaa ni . Yoongu Kɛndɔɔ naa hin niaa tiiyallo ni , haliko mi la mal piɔmaa fondoa sooloo , mì la mulul Hala nɔ yoomoo o ba-o hɔlla , o cɔw halataalaa , lɛŋnden , mɛmma ihɛllan a ɲɛm co lenin-ndon kpow-vo .
+44015010	le yɛɛ		Le yɛɛ nɛ niaa co yɛ niko Hala kɔllo tɛɛmbuuo ? La yeema mì la siilu vanaa laalannda volɔɔ fuɲaa naa mamaa , te kon te niaa pilaa tiwba cuaa loo ?
+44016030	yɛɛ		O kon kɔɔli , mó soli nda , mó ɲuna nda aa : « Pua sei , yɛɛ ya tosa yɛ mì sɔla cindaa ? »
+44017018	Yɛɛ		Vanaa kɔlkalua del Epikuri nda Stoise kɔɔli-a a pum a va ndu sɛɛngiaa . Mí a pum a va ɲunaa aa : « Yɛɛ vana tombolaa ho yeema yɛ dimio ? » Mí a pum nda dimi aa : « Bɔɔle a halaa mialla o kɔɔ o co sɔɛi nuaa ni . » Le tùú nda tuei Pol sɔɛi a Yoongu Kɛndɛ Yeesu-o o kɔɔ a á tendul ndɔɔ fulaa vanvílɛ́iya tɛɛn-ndo o kɔɔ-o nda va dimio lende ni .
+44017019	Vɛ̀ɛ̀		O kon má bii ndu , má kɔa a ndu o vanaa kialaa n'yamaa kobia lo , má ɲuna ndu aa : « Vɛ̀ɛ̀ a nɔla mà cɔm naa pɛɛku sɛnɛi n co hoo sɔɛi ndɔɛi-yo ?
+44019003	yɛɛ		O kon mí Pol ɲuna nda aa : « Yinɔɔ yɛɛ nɛ niaa sɔla yɛ niko ? » Má muli aa : « Yinɔɔ Nsaŋ yin naa-o naa n sɔla ni . »
+44019015	nɛ̀ɛ̀aa		Kɛ paale pilɛ , mí ɲina vɔɔndo mulul nda aa : « I sinà Yeesu , i sinà vɛlɛ Pol , kɛ niaa niaa , nɛ̀ɛ̀aa niaa co yɛ ? »
+44019035	~		Kɛ nduyɛ , mí vana sɛvaa kobio nɔla sɛ́lɔ́ɔ́ kpaa , mó dimul nda aa : « Efɛsea sei , vannda kpow a sinà maa Efɛs co cɛi hala Artemis piɔm bɛndoo kandaa ni , maa ndu co vɛlɛ tɔɔmasele tuula ndɔ fula o halataala mó del-lo ni .
+44021013a	le yɛɛ		Kɛ mó muli aa : « Le yɛɛ nɛ niaa co yɛ caŋndo mì la va ya kɔllo tɛɛmbuuo ? Kani o co le ya yiiyo daama le ya co o bɛɛndianndo le , kɛ haliko mi sɔla vɛlɛ piɔ́mndo Yerusalɛm o diola Maalii Yeesu lan . »
+44021013b	~		
+44021022	Vɛɛ		Vɛɛ naa n tosa yɛnin ? Kani a co tueyɔɔ maa a tiiya nanu .
+44021033a	~		O kon mí simlaci-vanaa cɔwva kan sɔɔnguu Pol ikɛi , mó simi ndu , mó dimul vannda le ndu yiiyo o yɔlɔn kundalan tan tiɔn . 
+44021033b	~		O kon kɔɔli , mó ɲuna le sinaa vana súú Pol va-o a ɲɛ o va tosaa-o .
+44022007	le yɛɛ		Mí del lɛŋ , mí tuɛi diomndo pum ya dimullo aa : « Sol , Sol , le yɛɛ nɛ n co yɛ ya yɛlen tollo ? »
+44022008	nɛ̀ɛ́-nɛ̀		Mí ɲuna aa : « Nɔm nɛ̀ɛ́-nɛ̀ , Maalii ? » Mí diom kon muli aa : « Ya Yeesu fula Nasarɛt-o ni , ya n co yɛlen tollo-o pɛɛn . »
+44022010	Yɛɛ		O kon mí ɲuna aa : « Yɛɛ ya tosa yɛ Maalii ? » Mí Maalii dimul-la aa : « Cɔn ma kɔɛ Damas , lon nda dimulnin nɔm ɲɛ n bɛnda le tosaa-o ni . »
+44022016	Yɛɛ		Yɛɛ nɛ n co yɛ nihau cum ? Cɔn ma sɔla yinɔɔ , mà dendu le hakila nɔmndan , mà biilu Hala o diola Maalii lan . »
+44022026	Vɛɛ		Mɛɛ simlacinɔ kon tuei sɔɔn mun , mó kɔ dimul simlacinɔ vanaa cɔvaa kɛmɛa aa : « Vɛɛ n co yɛ tosa ? Rɔmnɔɔ langbanɔɔ ho co ni ? »
+44023003	~		O kon mí Pol dimul ndu aa : « Hala co nɔm lɔɔ ni , nɔm co hoo maa cìì cɛi humbu-o . A cal le ya yamɛi kiolɔɔ mɛɛ tɔŋndo co yɛ , má dimul vannda le ya lɔɔ , nduyɛ o co lende le tɔŋndo dimi le . »
+44023009	~		Mí vannda cɔɔlu yonda taw , kɛ mí vanaa pɛɛkaa latɔŋnda pum , a va o kunda Faliisia coo-a can , má sɛɛngiaa , má dimi aa : « N ci ɲɛ-ɲɛ langbanɔɔ ho o tɛɛmbuu le . Bɔɔle ɲinaa , te kon te mɛlɛkanɔɔ soo o ndu lo nuaa ni . »
+44023019	Yɛɛ		Mí simlacinɔ simlacia vanaa cɔvaa kɛmɛa kan bii langbanɔ felengi kon baa , má kɔa lándán , mó kɔ ɲuna ndu aa : « Yɛɛ nɛ n nɔ yɛ le ya dimullo ? »
+44026008	le yɛɛ		Niaa Yuifia yɛ , le yɛɛ nɛ niaa co yɛ kɛɛ laalan maa Hala nɔla mò mingi vanaa vi-a yoomu ?
+44026014	le yɛɛ		Mí naa kpow n deli lɛŋ , mí tuɛi diomndo pum ya dimullo o aramei nin aa : ‹ Sol , Sol , le yɛɛ nɛ n co yɛ ya yɛlen tollo ? Fondo fúú n co ya simullo ho ni , mɛɛ visio simul tinda vana co ndu mandaa-o nuaa yɛ pɛɛn . ›
+44026015	nɛ̀ɛ́-nɛ̀		Mí ɲuna aa : ‹ Nɔm nɛ̀ɛ́-nɛ̀ Maalii ? › Mí Maalii mulul-la aa : ‹ Ya Yeesu n co yɛlen tollo-o ni .
+45002017	~		Tofa-vɔ , nɔm pila co veelɔnndo aa Yuifnɔɔ , a tiindan tɔŋndo , a co lisanndo maa a sínà Hala ,
+45002021	~		Kɛ nɔm co caanda pɛɛkoo-o , vɛ nɔm pila pɛɛkun te ? A co vannda yondallo maa vana yɔŋ levui le , vɛ mì nɔm pila va vuilen tosaa ?
+45002028	~		O co dɛnnda vana ca a lehɔltan te la tosa mì vana va Yuifinɔ le , o co vɛlɛ toomaa o diallon nin te cɔm ken te .
+45003001a	ɔ́ɔ̀		Ɔ́ɔ̀ niko mɛɛ Yuifia hiow vanaa tɔ̀a yɛ ? 
+45003001b	ɔ́ɔ̀		Ɔ́ɔ̀ niko tɔnɔ toomaa ?
+45003003	vɛ̀ɛ̀		Te Yuifia pum a lo o lediom coo le , vɛ̀ɛ̀ mì ken kuuna Hala lou o diomnde ndɔlen coo ?
+45003005	vɛ̀ɛ̀		Kɛ te sandii nɛi lepɛŋnde tosa pɛ mì sandii Hala-e sinan , vɛ̀ɛ̀ naa n dimi yɛnin ken ? Vɛ̀ɛ̀ vana sandaa lepɛŋndo Hala va le kɔllo tuuloo a naa ni ? ( O vanacieeyɛi nin ya co sɔɛi nuaa ni . )
+45003006	Vɛ̀ɛ̀		Kɛì-kɛì bɛɛ ! Vɛ̀ɛ̀ Hala kialu yɛnin yamɛi ceendo o kon ?
+45003007a	~		Kɛ te Hala sɔla pɛ biiloo o còòla nilan nin , mì toɲa ndɔɔ fula ceen vakpa , 
+45003007b	le kɔlɔ yɛɛ		le kɔlɔ yɛɛ ya sɔ̀là yɛnin yaalaa maa vana lahaki ?
+45003008	~		Maa mɛɛ vannda pum a co naa tɔ́ɔ́ tɛɛmbuuo mà va dimio yɛ aa : « N tosan dɛnɛ vɔɔndo haliko mi o kɛndɔɔ fula lenin . » Vanaa kan a sɔlanin yaalaa , ɛɛ nduyɛ , o bɛnda lende .
+45003009	~		Kpo ! Mò va maa naa Yuifia n hiow caanda ni ? Kɛì-kɛì bɛɛ ! Kani n cii nihaw cɔm maa vanndacieea kpede , vana va Yuifinɔ , vana va vana súú celen , o kpaaya hakio bɛngu naa n co ni .
+45003027a	ɔ́ɔ̀		Ɔ́ɔ̀ niko kɔlɔ naa n co kuundianndo-o ? O co sɔɛi vana kuundian te . 
+45003027b	kuɛɛ		Kuundianndo le tɔŋ kuɛɛ nɛ ? 
+45003027c	kuɛɛ		Le dɛnnda kuɛɛ nɛ ? N bɛnda mì n kuundian le ɲɛ-ɲɛ le , fɔ le tɔŋ laalanndo .
+45004001	Vɛ̀ɛ̀		Vɛ̀ɛ̀ naa n dimi yɛnin a Abraham o kɔɔ , o yɔŋnun fuɲa naa mamaa o falon nin-ndo ? Yɛɛ o sɔla yɛ ?
+45004003	~		Kani Sɛbɛ Hala-o dimi aa : « Mɛɛ Abraham laalan Hala , mí Hala ca ndu vana sandaa le ken . »
+45004010	telen kuɛɛ		Kɛ telen kuɛɛ laalan kon cɔmnun yɛ ndu coo lende ? Telen o va nin falenɔ-o ni baa telen o va vɔ kɔ̀ndénɔ-o ? Telen ndóò dii-yɔ tooma loo , o va vɔ kɔ̀ndénɔ .
+45005010	~		Kani , telen naa n va yaamɔaa Hala-va-o , mí ndu pila mingi bɛndaa naa ndaa tɛɛn a piɔ́m Po ndɔɔ sɔla-o . Kodinte mɛɛ bɛndaa co nin naa tɛɛn naa ndaa nuaa yɛ , o ciindiaanin naa a yoomu Po ndɔɔ .
+45005021	~		Nduyɛ , mɛɛ hakio tosa masalen a piɔ́mndo o kɔɔ yɛ , lende koni kɛndɛi co masalen tosaa a dɛnɛ sandaa o kɔɔ ni , le vanndacieea yoomu fɛɛn-fɛɛndo yɔngoo Maalii naa Yeesu Krista o ba bɛngu .
+45006001	Vɛ̀ɛ̀		Vɛ̀ɛ̀ naa n dimi yɛnin o kon ? Vɛ̀ɛ̀ n lonnun o hakio nin o kon mì kɛndɛi kui ?
+45006002	vɛ̀ɛ̀		Kɛì-kɛì bɛɛ ! Naa n vi nin a ba hakio-a , vɛ̀ɛ̀ naa n muungu yɛnin vɛlɛ mì va o hakio nin ?
+45006015	~		Kpo ! Bàà mì n tosa hakio le mɛɛ naa n co lɛ o tɔŋ bɛngu le yɛ , kɛ mì n va o kɛndɛi Hala-e bɛngu ? Kɛì-kɛì bɛɛ !
+45006021	yɛɛ		Tɔnɔ yɛɛ niaa sɔla yɛ o dɛnnda lan nin telen kon , dɛnnda siɛmbulan la co niaa biyɔɔ sunsun-ndan pɛɛn ? Kani mɛɛlula dɛnnda lan co piɔ́mndo ni .
+45007007	Vɛɛ		Vɛɛ naa n dimi yɛnin o kon ? Mò va maa hakio tɔŋndo co ni ? Kɛì-kɛì bɛɛ ! Kɛ tɔŋndo tosá ni mí síná hakio . Kani yáà sinanin ɲɛ co ɲɛ pilaa hɔlten fulaa-o le , te tɔŋndo ndóò dimi le aa : « Fula ɲɛ pila lehɔl te . »
+45007024	Nɛ̀ɛ́		Mbɔ̀ dɛnɛ pala ya fɔ́ ! Nɛ̀ɛ́ baŋa yɛnin ya dialun piɔ́mndon mun o ba ?
+45008024	Vɛɛ		Kani o kɔlkɛsiaa nin naa n sɔla cindaa ni . Nduyɛ vanndo ce nin pɛ ɲɛ o kɛsi kɔllo coo-o , mɛɛ kon co lɛ kɔlkɛsiaa le . Vɛɛ vana kɛsi yɛ vɛlɛ ɲɛ n ce nin-ndo kɔllo coo ?
+45008031a	Vɛɛ		Vɛɛ naa n dimi yɛnin vɛlɛ a ken o kɔɔ ? 
+45008031b	nɛ̀ɛ́		Te Hala co pɛ le naa , nɛ̀ɛ́ cɔlɔba yɛnin naa ?
+45008032	~		Ndu kuunan Po ndɔ ndu pila-o coo loo , kɛ mó faŋa ndu baa coo le naa kpow , baa mò kɛɛ naa ɲɔɔn kpow ke naa Po ndɔ kon-ngaa latulu ?
+45008033	Nɛ̀ɛ́		Nɛ̀ɛ́ lɔalu yɛnin vanaa Hala hɛli-a ? Hala siinguu vana vana sandaa ni .
+45008034	Nɛ̀ɛ́		Nɛ̀ɛ́ co yɛ vana yaala vana-o ? Yeesu Krista vi , hiovɔɔ o kon coo , mó tendul , o co icali Hala o ba kɛndɔɔ coo mo va piɛilen le naa .
+45008035	Nɛ̀ɛ́		Nɛ̀ɛ́ sɛi yɛnin naa a canyɛi Krista-e ? Mo va maa dɛnɛ palaa ni ? Buulan bɛndoo bàà ? Yaamɔɔlen bàà ? Yiaan bàà ? Bala fondolan bàà ? Kpundɛlan bàà ? Mɔɛi cɔwve bàà ?
+45009014	Vɛɛ		Vɛɛ naa n dimi yɛnin vɛlɛ ? Mò va maa Hala sendu le ? O co lende le i co le .
+45009019a	le yɛɛ		Bɔɔle mì vana pum ndu dimi aa : « Mì le yɛɛ Hala kalaa co yɛ naa niko tɔ́ɔ́yaa biyɔɔ ? 
+45009019b	nɛ̀ɛ́-nɛ̀		Kani nɛ̀ɛ́-nɛ̀ kuuna yɛnin ndu hɛnan ndɔɔ tosaa ? »
+45009020a	nɛ̀ɛ́-nɛ̀		Kɛ nɛ̀ɛ́-nɛ̀ nɔm co yɛ , le simndan sɛɛngianndo niaa Hala ? 
+45009020b	~		Kpɛɛnɛi puului nda cɔw-ve i ɲuna pá vana cɔw ndi-o aa : 
+45009020c	le yɛɛ		« Le yɛɛ nɛ n cɔw yɛ ya nuaa ? »
+45009021	~		Vɛ̀ɛ̀ o co vana cɔavaa n'kpɛɛnɔɔ le tosa ɲɛ o yeema-o a puuloo le ! A puulu lindaa pilɔɔ , o nɔla mò cɔw kpɛɛnɛi sɔvɛi te kon te kpɛɛnɛi nɔ mako lei .
+45009022	~		Hala yeema le kɔltuw ndɔɔ cɔmndo haliko mi vannda sina kpaaya ndɔɔ . Nduyɛ , biwnɔnndo pila o biwnun a vanaa kɔltuw ndɔɔ va le nda-a ni . Kɛ nduyɛ telenndo ndóò tiiya nin le tambii ndɛi .
+45009023	~		Kɛ mó yeema le cɔmndo mɛɛ kpɛ́ biilu ndɔɔ co o bɔɔ le kpɛɛnɛn o tuinun iɲíí-yon yɛ , n o cɔw le biiloo-on pɛɛn .
+45009024	~		Naa n co yɛ kpɛɛnɛn mun ni , o tasoo , naa o veelu fulaa Yuifia tɛɛn-nda , kɛ kɔ bii niko a vanaa fula vanaa-mangalaa-isɔɔa celen tɛɛn-nda .
+45009030	Vɛɛ		Vɛɛ naa n liima yɛ niko sɔɛi he ? Vanaa ve dí nuwviaa le-a sɔla dío , di sɔlan a laalanndo-o .
+45009032	le kɔlɔ yɛɛ		Le kɔlɔ yɛɛ nɛ kon ? Kani o co a laalan te Iraɛlla va ndu nuwviaa le , kɛ le dɛnnda ndalan cɔmndo . Mí ken yɔŋnun pow boŋaa le nda ,
+45010006	Nɛ̀ɛ́		Kɛ sandii fula o laalanndo nin-nde ndi dimi aa : « Dimin o kɔl nin te aa : ‹ Nɛ̀ɛ́ hel-lɛnin o halataala ? › Le kɔlan Krista tuisio lɛŋ nanu co kon ni . »
+45010007	Nɛ̀ɛ́		Dimi vɛlɛ le aa : « Nɛ̀ɛ́ toal-lɛnin o soon nɔ lamɛɛlu loo nin ? » Le Krista heeloo fulaa vanvílɛ́iya tɛɛn co kon ni .
+45010008	Yɛɛ		Yɛɛ sandii ken dimi yɛ niko ? Aa : « Sɔɛi co nɔm ikɛi , nɔm o sondo a nɔm o kɔl . » Nduyɛ , sɔɛi laalaŋii ken naa n co vannda tiiyallo ni aa :
+45010014a	Vɛ̀ɛ̀		Kɛ vɛ̀ɛ̀ nda veelu yɛnin vana nda laalan too ? 
+45010014b	Vɛ̀ɛ̀		Vɛ̀ɛ̀ nda laalan yɛnin vana nda tui tɔ́ɔ́ loo ? 
+45010014c	vɛ̀ɛ̀		Nduyɛ vɛ̀ɛ̀ nda tuɛi yɛnin ndu tɔ́ɔ́ , te o co mì vana yondal nda sɔɛi ndɔɛi le ?
+45010015	vɛɛ		Nduyɛ vɛɛ nɛ nda yonda yɛnin , te vana vim nda le ? Maa mɛɛ o sɛvan yɛ aa : « O naŋ bɔɔ le vanaa kan cɔu hunɔɔ , vanaa co yoongula kɛndɛlan yondaa-a . »
+45010016	nɛ̀ɛ́		Kɛ o co vannda kpow le a cɛl Yoongu kɛndɔɔ le . Mí Esai dimi ndi aa : « Mɛlɛka , nɛ̀ɛ́ laalan yɛ sɔɛi naa n co yondaa-e ? »
+45011004	~		Kɛ mí diom Hala-o mulul ndu aa : « I mandalan vannda vàálan tan ŋɔmmɛw , a beŋ vulan Baal o labɛngunin te-a . »
+45011007	Yɛɛ		Yɛɛ yɔŋnun yɛ hoo ? Ɲɛ Israɛlla va nuwviaa-o , a sɔla kon te . Kɛ mí vanaa hɛlin-nda nda sɔla ndu . Vanaa tɔ̀a nda , nila kalulan nda tosa ni ,
+45011015	yɛɛ		Kani te siɛinɔn ndaa tosa pɛ mì ceendo muungu Hala o ibuŋ , mɛɛ yɛɛ tosan yɛnin , taa mingi pɛ hɔlla o Hala lo ? Kon co macoaa mɛɛ vanvílɛ́iya-a muungu yoomu nuaa yɛ .
+45011018	~		mɛɛ kuundian lɛvun nda kili mun-ndon coo le . O va bɛɛ ma va kuundian , kɛ sinà pɛɛngu maa o co puundon te vil nɔm te , kɛ nɔm vil o puundon ni .
+45011033a	~		Bolofaa Hala-o co o bɔɔ dɛ ! Kɔlkalu ndɔɔ a dɛnɛ sinaa ndɔɔ yingila bɔɔ , vana sínà yiyannda ndɔlan te , 
+45011033b	~		vana nɔla tuula ndɔlan bila biyɔɔ le .
+45011034a	Nɛ̀ɛ́		Nɛ̀ɛ́ sina yɛ yiyan Mɛlɛka-o ? 
+45011034b	Nɛ̀ɛ́		Nɛ̀ɛ́ yɔŋnun yɛ vana silaa ndɔɔ ?
+45011035	Nɛ̀ɛ̀		Nɛ̀ɛ̀ fɔlɔn ke yɛ nin ndu ɲɛ , haliko mi ndu bɛɛ sɔla ɲɛ ndu o ba ?
+45014004	Nɛ̀ɛ̀		Nɛ̀ɛ̀ nɔm co yɛ , le yamɛi vana baala pilaa kiolɔɔ ? O sim-ou , o del-ou , vana ndɔ bɛndoo sina ken ni . Kɛ nduyɛ , o simnin yili , kani Maalii nɔ kpaayaa le ndu simio .
+45014010a	le yɛɛ		Kɛ nɔm , le yɛɛ n co yɛ yamɛi puapilɛ nɔmndo kiolɔɔ ? 
+45014010b	le yɛɛ		Te kon te , le yɛɛ nɔm co yɛ puapilɛ nɔmndo pɛɛsaa ? Kani mɛɛ naa n co kpede , n simnin Hala o hɔl mò kelu naa iyama .
+46001020a	Kuɛɛ		Kuɛɛ vana kɔlkaloo co yɛ ? 
+46001020b	Kuɛɛ		Kuɛɛ vana dɛnɛ sinaa co yɛ ? 
+46001020c	Kuɛɛ		Kuɛɛ vanaa caa kɔɔsɔ sondoo-a co yɛ o telenndo ho bɛngu ? Vɛ̀ɛ̀ o co Hala le sííngùù dɛnɛ sinaa ceendo ho diɔmnde le ?
+46002011	ɔ́ɔ̀		Kani o niaa tɛɛn , ɔ́ɔ̀ vana sínà yiyannda vanacieo-vo , te o co Kɔl-Diandaa co ndu nin-ndo le ? Lende vɛlɛ koni , vana-vana sínà yiyannda Hala lan te , fɔ Kɔl Hala-o .
+46002016a	ɔ́ɔ̀		Kani o co o sɛvaa aa : « Ɔ́ɔ̀ vana sínà yiyannda Mɛlɛka lan-ndo ? 
+46002016b	ɔ́ɔ̀		Ɔ́ɔ̀ vana nɔlà mo cɔm ndu dɛnɛ sinaa-o ? » Kɛ naa naa , kɔlkalu Krista-o naa n nɔ ni .
+46003005a	Nɛ̀ɛ́		Nɛ̀ɛ́ co yɛ niko Apolɔs ? 
+46003005b	Nɛ̀ɛ́		Nɛ̀ɛ́ co yɛ Pol ? Vanaa baala Hala-a daama naa n co ni , a niaa laalan o ba-a , maa mɛɛ Hala ke vana-vana vallo le tosaa yɛ .
+46004007a	kuɛɛ		Kani o nɛi kuɛɛ coo n co yɛ yiyanndo maa a hiow caanda ? 
+46004007b	vɛ̀ɛ̀		Ɲɛm n nɔ-on kpow , vɛ̀ɛ̀ o co Hala le ke nɔm mun te ? 
+46004007c	le yɛɛ		Te o co yɛ pɛ lende , le yɛɛ nɛ n co yɛ niko lisanndo maa o co ke le nda ke nɔm mun te ?
+46004021	ɔ́ɔ̀		Ɔ́ɔ̀ o hɛnan niaa-o ? Vɛ̀ɛ̀ i kɔ o niaa lo a siondoolen baa i kɔ bɛɛn-bɛɛn a kaolaa o piaa ya o kɔl ?
+46005002	~		Nduyɛ la co yongaa sɔɛi . Óò bɛnda mì mɔnɛi ndíì bii niaa taw , mí niáà soli vana tosa dɛnɛ kon-ndo niaa tɛɛn .
+46005012	vɛ̀ɛ̀		Nduyɛ , o co sɔɛi ni mì kelu vanaa co vanaa Krista le-a iyama le . Hala kialunin nda iyama ni . Kɛ vɛ̀ɛ̀ o co niaa le bɛnda mì la kelu vanaa co o kunda vanaa laalaŋaa niaa co tɛɛn-nda iyama le ? Maa mɛɛ sɛbɛ Hala-o dimi yɛ aa : « La soli vana vɔɔn kon niaa tɛɛn . »
+46006001	vɛ̀ɛ̀		Te sɔɛi pum keekan pɛ vana pilɛ o niaa vanaa laalaannda tɛɛn nda caan ndɔ vana laalanndo , vɛ̀ɛ̀ o vanaa sínà Hala le-a lo o kɔ mò kɔ cɛɛŋun ni ?
+46006003	yɛ		Vɛ̀ɛ̀ la co sínà le maa naa kialunin mɛlɛkaa iyama ni ? Te o co yɛ pɛ lende , vɛ̀ɛ̀ mì la bumba sɔɔn ceendo ho toosiaa ?
+46006004	~		Nduyɛ , te sɔngɔlan la va pɛ niaa vanaa laalannda tɛɛn , mɛɛ vanaa co ɲɛ-ɲɛ vanaa laalannda o hɔl te-a kialunin niaa iyama ni .
+46006007a	le yɛɛ		Kɔɔsɔla co lan niaa vanaa laalannda tɛɛn-ndan la cɔm ni maa la cuu delɔɔ . Te caan nɔm tosal nɔm pɛ sandii lepɛŋnde , le yɛɛ nɛ mà kɛɛ biuvɔn lende ? 
+46006007b	le yɛɛ		Te o ciimbuu nɔm pɛ , le yɛɛ nɛ mà kɛɛ malɔɔ lende ?
+46006009	~		Niaa pila sínà maa vanaa sendu le-a lueinin o Masale Hala len nin te . La huinun te : vanaa-vanaa co keiyo suundaa , vanaa soolaa n'piɔmnda , vanaa kei suundaa a langbaa felengia-a , vanpiaandua tosa kpelemɔsaa a caaŋaa ndaa vanpiaandua-a ,
+46006016	Vɛ̀ɛ̀		Vɛ̀ɛ̀ la sínà le maa vana yiinan pɛ nda vana co suundaa-o , ndu siŋnun kɔɔle pilɛ len nda ndu ŋiɔn te ? Kani o co o sɛvaa aa : « O kon mì vanapɔnɔɔ nda vanalanɔɔ siŋnun dialle ipilɛ . »
+46006019	~		La sínà le maa dialun nian n co Cɛi-Mɛlɛka Hala Kɔl-Diandaa ni , o co niaa nin-ndo pɛɛn , o niaa sɔla Hala o ba-o ? La co a ba niaa le .
+46007016a	vɛ̀ɛ́		Nɔm vanalanɔɔ laalan hoo-o , vɛ̀ɛ́ n sínà yɛnin maa a tiwnin ba mà ciindiaa pɔnɔ nɔm ? 
+46007016b	vɛ̀ɛ́		Te kon te , nɔm vanapɔnɔ laalan hoo-o , vɛ̀ɛ́ n sínà yɛnin maa a ciindiaanin laa nɔm ?
+46009007a	Nɛ̀ɛ́		Nɛ̀ɛ́ sala yɛ saravusoo le vali o co tosaa lenin-ndo ? 
+46009007b	Nɛ̀ɛ́		Nɛ̀ɛ́ tɔal-lɛ nakɔ n'rɛsɛnndo mò kɛɛ kɔmnde ndɔlen dio ? 
+46009007c	Nɛ̀ɛ́		Nɛ̀ɛ́ manda yɛ cɔlua mò kɛɛ nɔnɔma ndan kolɔɔ ?
+46009018	Yɛɛ		Yɛɛ co yɛ niko sala nuu ? Ndu co ɲɔɔ ya hɛnando le vannda Yoongu kɛndɔɔ tiiyallo fondo fúú ni , i nɔ mì ɲuna o yɔngun ya-o le diom kon dimio le .
+46010019a	~		Kɛ nduyɛ , te i va pɛ hee dimio , baa dimio co kon ni maa visin vannda co Mɛlɛka sálàlan solullo-on co ɲɛ ? 
+46010019b	~		Te kon te maa ɲɛ pum piɔmndo co ni ?
+46010019c	~		
+46010029	Vɛ̀ɛ̀		I co niaa hee dimul , o co le kɔlta niaalan te , kɛ le kɔl vana co niaa sɔɛi ken dimul-lo . Vɛ̀ɛ̀ mì kɔl vana celen kelu ɲɛ ya nɔ le tosaa-o iyama ?
+46010030	le yɛɛ		Te i mel pɛ Hala balika le ɲɛ pum dioo , le yɛɛ mì vannda congu ya o ɲɛ kon dioo ?
+46011022	Yɛɛ		Vɛ̀ɛ̀ vana-vana nɔ cɛi ndɔ le dioo a kolɔɔ lon te ? Te kon te vɛ̀ɛ̀ vanaa laalan Hala-a niaa yeema bɛ̀ɛ̀lan tɛɛmbuuo mì la tuisi vanaa nɔ ɲɛ-ɲɛ le-a siɛmbulan ni ? Yɛɛ ya dimul-lɛ niaa vɛlɛ ? Vɛ̀ɛ̀ i candu niaa lelan ? Kɛì-kɛì bɛɛ ! I cendù niaa le .
+46012017a	vɛ̀ɛ̀		Te kɔɔlen kpede léè va pɛ hɔlten , vɛ̀ɛ̀ léè tuɛi yɛnin ? 
+46012017b	vɛ̀ɛ̀		Te léè va yɛ pɛ nilan kpow , vɛ̀ɛ̀ léè saa yɛnin ɲɔɔn cun ?
+46012019	kuɛɛ		Te kɔɔlen kpow léè va pɛ falei ndi pilɛ , kuɛɛ nɛ diallon mun-ngoo va yɛnin ?
+46014006	yɛɛ		Puapilɛa nia , te i kɔɛ pɛ o niaa lo , mì kɔ soo o sɔɔn mangalan celen nin , yɛɛ kon nɛŋul-lɛnin niaa ? Kon nɛŋul niaa ɲɛ-ɲɛ le , mɛɛ mì tɛɛngul niaa sɔɛi cɔmnun-nde , te kon te dɛnɛ sinaa , te kon te mì tɛɛngul niaa diom Hala-o , te kon te vɛlɛ mì pɛɛku niaa ?
+46014007	vɛ̀ɛ̀		O va bɛɛ mì ɲɛm-caan yɛ́-yɛ́ɔn va sɔɛi , maa mɛɛ sɛ̀ŋnden a bangaa co nuaa yɛ , te n soli diomndan yɛ́-yɛ́ mɛɛ o bɛnda yɛ le , vɛ̀ɛ̀ vana sínà yɛ diom lesɛ̀ŋndo a diom bangaa ?
+46014008	nɛ̀ɛ́		Te bulu cɔwvo suu válán te , nɛ̀ɛ́ toosian yɛnin le cɔwvo ?
+46014009	vɛ̀ɛ̀		Lende koni vɛlɛ o co le niaa ni , te la dimi pɛ sɔɔn mangalan vannda sínà loon , vɛ̀ɛ̀ ɲɛ niaa co dimio-o sinan yɛnin ? Hoeyii fondoei kínɛí niaa solinin o kon ni .
+46014015	yɛɛ		O kon , yɛɛ nɛ ya tosa yɛ ? I vanin Hala piɛiyo o kɔl nin , mì va vɛlɛ piɛilen a kɔlkalu nuu . I vanin condei o kɔl nin , mì va vɛlɛ condei a kɔlkalu nuu .
+46014016	vɛ̀ɛ̀		Dɔw bɛɛ duaa o diola Kɔl-Diandaa , vɛ̀ɛ̀ vana co icali vannda tɛɛn-ndo muli yɛnin aa : « Amiina » te o bii ɲɛ n dimi-o bila le ?
+46014026	vɛ̀ɛ̀		Puapilɛa nia , vɛ̀ɛ̀ vana tosa yɛ niko ? Te la cuungian pɛ , mì vana pum nɔ le condei solio , mì o pum nɔ pɛɛkoo le yɔngoo , mì o pum nɔ dɛnɛ cɔɔmun ndu-o , mì o pum nɔ yoongoo le dimio o sɔɛi mangalɛi celen nin , te kon te mì o pum ndu nɔ sɔɛi pum le tɛɛsiaa , kon kpow bɛnda mò tosan le vanaa laalannda yoomuan lueiyo .
+46014036	vɛ̀ɛ̀		Vɛ̀ɛ̀ o niaa lo sɔɛi Hala-e i kandun ni baa niaa daama nda tiiyal ndi ni ?
+46015012	le yɛɛ		Nduyɛ , te n dimul niaa pɛ maa Krista tendul fulaa vanvílɛ́iya tɛɛn , le yɛɛ nɛ vanaa pum niaa tɛɛn a co yɛ dimio maa vanvílɛ́iya a muungunin yoomu le ?
+46015029a	~		Te vana muungu yɛ yoomu le , 
+46015029b	vɛ̀ɛ́		vɛ̀ɛ́ nɛ vanaa co yinɔɔ sɔlaa o fonda vanvílɛ́iya-a tosa yɛnin ? 
+46015029c	le kɔlɔ yɛɛ		Te vanaa vi-a muungunin yoomu le , le kɔlɔ yɛɛ nda sɔla yɛ niko yinɔɔ le nda ?
+46015030a	~		Naa yɛ niko , 
+46015030b	le kɔlɔ yɛɛ		le kɔlɔ yɛɛ nɛ naa pila n co yɛ o dɛnɛ palaa nin lɔ́ɔ́-lɔ́ɔ̀ ?
+46015032	ɔ́ɔ̀		O dimi ivanacieeyaa nin , te vanvílɛ́iya a muungu lɛnin yoomu le , ɔ́ɔ̀ tɔnɔ naa sɔla mí n simul visia yondoa , mí n cɔlɔba nda Efɛs-o ? Mɛɛ vanaa pum a dìmì yɛ aa : « N dionnun mì n kolnun , kani n co hunɔɔ vu siɔdii . »
+46015035a	Vɛ̀ɛ̀		Mì vana pum ɲuna dɔ́ɔ́ aa : « Vɛ̀ɛ̀ vanvílɛ́iya a muungu yɛnin yoomu ? 
+46015035b	yɛɛ		Kɔɔle súú yɛɛ nda nɔ yɛnin ? »
+46015055a	ɔ́ɔ̀		« Òó piɔ́mndo , ɔ́ɔ̀ kpaaya nɔmndo ? 
+46015055b	ɔ́ɔ̀		Òó piɔ́mndo , ɔ́ɔ̀ kefii nɔmnde ? »
+47002002	ɔ́ɔ̀		Kani te i tɛɛmbuu pɛ niaa kɔltan , ɔ́ɔ̀ vanaa yɔngunin ya ɲaaloo o kɔl-la ? Fɔ niaa vanaa ya tɛɛmbuu kan kɔltan-nda .
+47002016	Nɛ̀ɛ́		Le vanaa co kɔlan o lou nin-nda yɛ , cun yɔngu vana piɔ́mndo sɔlaa-o co nda diyɔɔ . A co kɔlan o nɛi cindaa coo-a nda , cun yɔngu vana yoomoo-o co nda yoomoo yɔngoo . Nɛ̀ɛ́ tiw yɛ ba mò tosa dɛnɔɔ ho ?
+47003008	vɛ̀ɛ̀		vɛ̀ɛ̀ baala Kɔl-Diandaa co tosaa-o hiwnin biilu kon ɲamaa le !
+47003009	vɛ̀ɛ̀		Te vali yɔngu vanndacieea piɔ́mndo sɔlaa-o sɔla pɛ biiloo , vɛ̀ɛ̀ biilu vali dɛnɛ sandaa ndu hiwnin kon vaa o bɔɔ le ?
+47006014a	ɔ́ɔ̀		La luei bollen o yɔm lebol pilɔɔ bɛngu niaa vanaa laalan te-a le . Kani ɔ́ɔ̀ bɛnda co ɲɛ sandu-o a ɲɛ sendu loo tɛɛn-ndo ? 
+47006014b	ɔ́ɔ̀		Ɔ́ɔ̀ canyɛi co ɲɛ-tengaa a ɲumndan tɛɛn-nde ?
+47006015a	ɔ́ɔ̀		Ɔ́ɔ̀ bɛnda co Krista nda Setana tɛɛn-ndo ? 
+47006015b	ɔ́ɔ̀		Te kon te ɔ́ɔ̀ bɛnda co vana laalanndo nda vana co vana laalan too tɛɛn-ndo ?
+47006016	ɔ́ɔ̀		Ɔ́ɔ̀ bɛnda co Cɛi-Hala-o nda piɔmnda tɛɛn-ndo ? Kani naa co Cɛi-Hala kiyɛiyo ni , maa mɛɛ Hala pila dimi yɛ aa : « I vanin niaa tɛɛn , mì kela niaa tɛɛn , i vanin Hala niaa mì niaa va cuavaa nia . »
+47011011	le yɛɛ		Le yɛɛ ya co yɛ ken dimio ? Bàà mò va maa i kaola niaa le ? Hala sínà maa i kaola niaa .
+47011029a	~		Te vana pum va pɛ vana nɔ mayoomu loo , ya bɛɛ i cennun vana nɔ mayoomu loo . 
+47011029b	~		Te vana pilɛ pɔw pɛ , i sanga taw o kɔl nuu nin .
+47012013	Vɛ̀ɛ̀		Vɛ̀ɛ̀ kundala vanaa laalaŋaa tɔ̀a hiow yɛ tɔnɔɔ sɔla a niaa ? Mɛɛ le kɛɛ ya kɛɛ siŋnɔn volɔɔ le niaa-o dɛ ? Te lende yɛ ni , mɛɛ la mal-la haki le dɛnɛ sandaa lepɛŋ kon !
+47012017	Vɛ̀ɛ̀		Vɛ̀ɛ̀ delɔɔ ya del niaa coo ni ? Vɛ̀ɛ̀ vana pilɛ o vanaa ya vem o niaa lo-a tɛɛn de niaa balan ni ?
+48002014	le kɔlɔ yɛɛ		Yáà cɔu lende maa a co dɛnndan tosa mɛɛ toɲa co o Yoongu kɛndɔɔ nin-ndo co yɛ le , mí dimul Sefas vannda kpow o hɔl aa : « Nɔm co Yuifnɔɔ-o , te nɔm tosa pɛ dɛnndan maa vana súú celen , le kɔlɔ yɛɛ n co yɛ niko vanaa co N'Yuifi le-a dimullo le tosaa maa N'Yuifi ? »
+48003001	Nɛɛ		Éé niaa Kalatea diɔmnda ha ! Nɛɛ mangala yɛ dɔ́ɔ́ niaa kɔltan niŋ nuaa ? Nduyɛ niaa o hɔl kpendekele naa n cɔm niaa sɔɛi Yeesu Krista nda baŋ o yɔm singafilaa coo-e ni .
+48003019	le yɛɛ		Mi le yɛɛ nɛ tɔŋndo ndu co yɛ niko ? Le tɛɛmbuula vanndacieea o handun ni , háá mi polale kpemaa ndóò yiinun-nden léè tiiya . Mɛlɛkaa dimul vana tɛɛngaa ndu ni .
+48004009a	Le yɛɛ		Kɛ sunsun , la sínà Hala , o co yɛ niaa le sínà Hala le , ndu sínà niaa ni . Le yɛɛ niaa co yɛ vɛlɛ sɔɔn fondon nɔ mun tɔnɔ lon hɔlla mulullo ? 
+48004009b	~		La yeema mì la muungu vɛlɛ mun o ba bɛngu ?
+48004010	~		La co tɔŋnda ipalalan , tɔŋnda n'paangulan , tɔŋnda telenndan a la vɔsilan biyɔɔ .
+48004015	Kuɛɛ		Kuɛɛ nɛ kɔlkɛndɛ bɛndu niáà nɔ lɔ́ɔ́ kon-ndo hiow yɛ ? Kani i co lesei . Te ndíì nɔla pɛ tosan , la va hɔltan kaalian mì niáà yɔngu ya lan .
+48004021	vɛ̀ɛ̀		Niaa yeema haa le vaa o tɔŋndo bɛngu-a , la dimul-lɔ ya hau , vɛ̀ɛ̀ la co tueyɔɔ ɲɛ tɔŋndo co dimio-o le ?
+48004030	vɛ̀ɛ̀		Kɛ vɛ̀ɛ̀ Sɛbɛ Hala-o ndu dimi yɛ ? Aa : « Tow cɛɔ ho nda po ndɔɔ , kani po cɛɔ muuliannin kɛ́ɔ cuaa nda po lanɔ co o ba ndɔɔ coo-o le ! »
+48005007a	Nɛ̀ɛ́		Niáà kandu kiltan ɲɛkɛndɛi ! Nɛ̀ɛ́ simi yɛ niaa le niaa sɔɔn toɲan kuunaa biyɔɔ ?
+48005007b	~		
+48005011	le yɛɛ		Ya le ya puapilɛa nia , te ndóò va pɛ maa sɔɛi toomaa diyɔɔ ya co keiyo vannda yondallo ni , mɛɛ le yɛɛ nda co yɛ niko hiovɔɔ laci a ya yɛlen tollo ? Te lende ni , mɛɛ piɔ́m Yeesu sɔla o yɔm singafilaa coo-o co lɛ pow boŋaa le vana-vana le .
+49004009	yɛɛ		Nduyɛ , kɔlɔ yɛɛ diomndo ho nɔ yɛ aa : « O hel » ? Kon co dimio ni maa o tol fɔlɔn o fondala co o lɛŋnden bɛngu lan di-di .
+50001018	~		Mɛ̀ɛ́-mɛ̀ɛ́ nda tosa pɛ , o va a yiyan kɛndɛ , o va a yiyan celen , haliko sii sɔɛi Krista-e i co diminndo ! Lelan , i co a ɲaaloo le dɛnɛ kon . Nduyɛ , i hiawnin laci a ɲaaloo dɔwnɔnndo .
+50001021	~		Kani le ya , Krista co yoomoo ni , piɔ́mndo ndu , ɲɛ ya co sɔla-o co kon ni .
+51002020	le yɛɛ		Te o va pɛ maa la vi nin niaa Krista-aa latulu , mí la sɔla baŋaa kpaayala ceenndan o ba , mɛɛ le yɛɛ niaa co yɛ vɛlɛ kelaa o dɛnnda ceenndan nin , mì la va tɔŋnda vanaa ceenda cɛlɔɔ vana ca kaa o ceendo nin niaa co vɔ ni ?
+52002019	~		Kani niaa naa n tiindan ni , o niaa nin naa n dɔawnun ɲaale ni . Telen Maalii Yeesu hunnin-ndo , niaa vanin tɔɔmasele cɔ̀m maa n nɔla-o ni .
+52003009	~		N sínà bɛɛ mɛɛ naa n mel Hala balika le niaa le , kani la yɔngu naa ɲaaloo o lakɔl ndu o hɔl .
+54003005	vɛ̀ɛ̀		Kani te vanndo cee yungule ndɔlen biyɔɔ le , vɛ̀ɛ̀ o tiw yɛnin ba mo caa vanaa Hala-a biyɔɔ ?
+54006007a	~		Kani n hin a ɲɛ-ɲɛ o ba o ceendo ho coo le , 
+54006007b	~		n kuenin vɛlɛ a ɲɛ-ɲɛ o ba le .
+58001005	~		Lepilɛ bɛɛ o dimul mɛlɛkanɔ kɛ́-kɛ̀ le aa : « Nɔm co po nuu ni , kandɔɔ hau , i siŋnun Fuɲa nɔm . » Nduyɛ , lepilɛ bɛɛ vɛlɛ o dimul lɔ mɛlɛkanɔɔ pum te aa : « Ya co va fuɲaa le nɔm ni , mì nɔm va po nuu . »
+58001013	~		Lepilɛ bɛɛ Hala dimul-lɔ mɛlɛkanɔ pilɛ le aa : « Cal-la o ba kɛndɔɔ coo , mì tosa mà nɛw yaamɔaa nɔmnda a n'pelu . »
+58001014	~		Mɛlɛkaa nda co macoaa maa kiilaa Hala-a , nda Hala viam le kɔlan vanaa sɔlanin cindaa-a sɔɔn dimullo ni .
+58002003	vɛ̀ɛ̀		Nduyɛ , vɛ̀ɛ̀ naa naa n fula yɛnin o ken nin , te n luei sɔɛi cinda bɛndoo ho yii le ? Maalii pila kandu sɔɛi ndɔɛi dimio ni , o kon kɔɔli , mí vanaa tuei sɔɛi cinda kon-nda peelul naa diomnde len .
+58002006a	yɛɛ		Kani maa mɛɛ vanndo pum dimi yɛ aa : « Éé Hala , yɛɛ vanacieo co yɛ , mà loonun a ndu , 
+58002006b	yɛɛ		yɛɛ o co yɛ , mà handu ndu hɔlten coo ?
+58003016	ɔ́ɔ̀		Ɔ́ɔ̀ vanaa ndáà tuei ndu kan sɔɛi kɛ má kɛɛ ndu diom-nda ? Vanaa kɛ́-kɛ̀ Moise soli Esipte kpow .
+58003017	nɛ̀ɛ́-nɛ̀		A nɛ̀ɛ́-nɛ̀aa Hala fula yɛ kɔllo o vɔsilan belehiɔɔlu bɛngu ? A vanaa tosa hakio , má sɔla piɔ́mndo o lɛŋnde veselɛilen nin-nda .
+58003018	nɛ̀ɛ̀aa		Hala cii mɛnan aa : « Le fɛɛn a fɛɛn , a lueinin o lɛŋnde ya toosial nda pɛngio len nin te few . » Le nɛ̀ɛ̀aa o mɛnan yɛ lende ? Vɛ̀ɛ̀ o co le vanaa bii sɔɛi ndɔɛi le-a le ?
+58006004	~		N tofan ndɔ sɔɛi vanaa muungu mà del o ceen nda paandoo nin-nda . A sɔla ɲɛ-tengaa Hala-o , má sɔla ke Hala-o , má sɔla Hala Kɔl-Diandaa ,
+58007011	~		O tɔŋ Israɛlla nin , o cuavaa-imamaa Levii-a tɛɛn nda bɛnda le vanaa-solia-lasálàá hɛlio ni . Nduyɛ , te vanaa-solia-lasálàá fula o polale Levii len nin-nda ndáà nɔ isɔw o vali kon tosaa le , vanaa nɔ lɛnin mako a vana-solia-lasálà celen teengen maa Mɛlkisedɛk le .
+58009014	vɛ̀ɛ̀		Nɛɛ ken tosan-ndɔ lende , vɛ̀ɛ̀ kooma Yeesu-an man ma hiw kpaayaa lende le ? Kani a kpaaya Hala Kɔl-Diandaa ndu pila yɔngun Hala ni , maa cɔlu sálà nɔ lenamta loo . Lelan , o dindinin kɔlta naalan le dɛnnda naala vɔɔnndan haliko mi n tosal Hala yoomaa vallo .
+58010001	~		Vundule ɲɛm kɛndɛn co laci-on daama tɔŋndo co ni . O yeema mi sálàla pilɛlan la va solinndo vɔsi oo vɔsi , pɛngi ve le . Lelan o tiwba mì vanaa co sɔɔnguuo Hala ikɛi o nɛi kon coo-a a peelun te .
+58010029a	Vɛ̀ɛ̀		Vɛ̀ɛ̀ kpeekpei ɲɔɔ va yɛnin niko le vana pɛɛsa sɔɛi Po Hala-o-a ? 
+58010029b	~		Vana cì kooma Yeesu baŋa ndu a hakio-an ɲɛ-ɲɛ loo pɛɛn ? 
+58010029c	~		Hala Kɔl-Diandaa cɔm naa kɛndɛi Hala-e-o o pilan tana lende ni .
+58010029d	~		
+58011032	Vɛɛ		Vɛɛ ya dimi yɛ vɛlɛ a hee ? I nɔ telen bɔɔ mì tɛɛsial niaa a Sedeɔn , Barak , Samsɔn , Yɛfte , David , Samiɛl a vanaa-tɛɛngaa-diom Hala-a o kɔɔ le .
+58012007	ɔ́ɔ̀		La biwnun sangaa , le niaa silaa ni . Maa cuavaa ndɔ Hala co niaa biyɔɔ ni . Kani ɔ́ɔ̀ hɔ́ɔ́ fuɲa ndɔ saangiaa le tɛɛmbuu ndɔɔ loo ?
+58012009	~		Naa n nɔ fuɲaa n'falua , a va pɛ naa saangiaa le tɛɛmbuula naalan , n ke nda bɛɛlen . Vɛ niko n tuisin a fuɲaa naa Hala , mì n va yoomu le ?
+58012025	vɛ̀ɛ̀		La caa dɛ ! La kɛɛ diom vana co sɔɛi o niaa lo-o le . Kani vanaa kɛɛ sɔɛi vana va nda kanalanndo o lɛŋnden coo-o-a helun dɛnɛ palaa ndóò bɛnda le nda delɔɔ coo-o le . Konin te naa , vɛ̀ɛ̀ naa n hialun yɛnin , te n mulul pɛ diom vana fula o halataala le naa kanalanndo-o kɔɔ ?
+58013006	Yɛɛ		Lelan n tiwba mì n dimi a laalanndo aa : « Mɛlɛka co vana co ya malaa-o ni , siòòŋii co ya a ɲɛ-ɲɛ le . Yɛɛ vanndacieea nɔla yɛ ya yɔŋ ? »
+59002006	Vɛ̀ɛ̀		Niaa yɛ , la co vanaa bala fondoa bɛ̀ɛ̀lan tɛɛmbuuo . Vɛ̀ɛ̀ o co vanaa bolofaa le a co niaa mɔnɛi lueiyo le ? Vɛ̀ɛ̀ nda le a co niaa yɔɔ o fondala kialaa n'yamalan te ?
+59002014	ɔ́ɔ̀		Puapilɛa nia , ɔ́ɔ̀ tɔnɔ co le dimio maa vanndo nɔ laalanndo-o , te o peelu ndu a dɛnndan te ? Laalan vaa lende nɔla pá mò ciindiáá vana ?
+59002016a	~		mì vana pilɛ o niaa tɛɛn dimul nda aa : « La kɔ a kɔlɲuloo . La kɔ hangu mì la pim ! » 
+59002016b	yɛɛ		Te la yɔngu nda ɲɛm diallon nɔ makoo-on te , yɛɛ nɛ ken nɛŋi yɛ ?
+59002018	~		Kɛ vana pum diminin aa : « Nɔm , a nɔ laalanndo , ya bɛɛ , i nɔ dɛnndan . Cɔm ya laalan nɔmndo o va a dɛnɛ le , mì ya ya cɔm nɔm laalan nuu o dɛnndan nin .
+59002021	Vɛ̀ɛ̀		Vɛ̀ɛ̀ o co le dɛnndan te fuɲa naa mamaa Abraham siŋnun vana sandaa , le tùú o soli Isaak po ndɔ sálàá o fonda-loamaa-lasálàá coo-o le ?
+59003013	Nɛ̀ɛ́-nɛ̀		Nɛ̀ɛ́-nɛ̀ co yɛ vana kɔlkaloo a vana sinaa dɛnɔɔ o niaa tɛɛn ? Vana kon bɛnda mò cɔm o kela ndɔ kɛndɔɔ nin maa dɛnnda ndɔlan la fula o tuisinndo nin a o kɔlkaloo nin .
+59003017		~	O diandaa kɔlkalu fula coocoo-o co vɔ fɔlɔn ni , o kon kɔɔli kɔlkalu kɔlɲuloo a kɔlkalu fɛ́ɛ́-fɛ́ɛ́o , o kindù tɛɛlɔn te , o pɛ a ɲííye a kɔmnde kɛndɛlen , o hiyàn vannda le , o muulun te .
+59004001a	Kuɛɛ		Kuɛɛ nɛ sɔngɔlan a cɔlɔbala co niaa tɛɛn-ndan la co yɛ fulaa ? 
+59004001b	Vɛ̀ɛ̀		Vɛ̀ɛ̀ o co o yeeman co niaa cɔlɔbaa o lakɔl-lon nin te ?
+59004012	nɛ̀ɛ̀		Nduyɛ , Hala ndu pilɛ kpé handu tɔŋndo ni , ndu pilɛ kpé tiw vɛlɛ ba yaman kiolɔɔ ni . Ndu pilɛ kpé nɔla ciindiaa a tɛɛmbuuo ni . Kɛ nɔm yɛ , nɛ̀ɛ̀ n co yɛ , nɔm co caanda yaalaa-o ?
+59004014	~		la sínà bɛɛ mɛɛ ceen niaa vanin siɔdii le . Maa hangulu niaa co ni , o fula pɛ le telen bingi o kon kɔɔli o kiolu .
+60002020	ɔ́ɔ̀		Kani taa saangiaa pɛ vana le kela nɔm vɔɔndo , ɔ́ɔ̀ bɛɛle n sɔla o ken nin-nden ? Kɛ taa saangiaa pɛ vana o dɛnɛ kɛndɛ n tosa-o kɔɔli , dɛnɛ kɛndɔɔ o va le nɔm Hala o hɔl ni .
+60003013	Nɛ̀ɛ́		Nɛ̀ɛ́ saangiaa yɛnin niaa , te la nɔ pɛ dialun fulan le dɛnɛ kɛndɔɔ tosaa ?
+60004017	vɛ̀ɛ̀		Kani o telen kon , yamɛi kandunnin kiolɔnndo a Cɛi-Hala-o o kɔɔ . Nduyɛ , te yamɛi kandun pɛ a naa , vɛ̀ɛ̀ mɛɛlula vanaa cɛl sɔɛi Hala-e le-a va yɛnin ?
+60004018	vɛ̀ɛ̀		Maa mɛɛ Sɛbɛ Hala-o dimi yɛ aa : « Te i yɔŋnun sɔɛi bɛɛn-bɛɛn le vana sandaa cindaa sɔlaa le , vɛ̀ɛ̀ la va yɛnin a vana lahaki sina Hala loo ? »
+61003004	ɔ́ɔ̀		a dimulnin niaa aa : « Vɛ̀ɛ̀ ndu le dimi aa o co hunɔɔ le ? Mɛɛ ɔ́ɔ̀ niko ndu ? Fuɲaa naa vi lɔ́ɔ́ kon , kɛ mɛɛ dɛnndan la co kabi o ceendo cɔwnɔnndo yɛ , lende koni la co vɔ ni . »
+61003011	~		Le mɛɛ dɛnnda lan kpow la hun tosannin lende yɛ , mɛɛ la sina niko mɛɛ niaa bɛnda le tosaa yɛ ! Mɛɛ mì kela niaa va o diandaa , mì la yiinun a Hala .
+62002022	Nɛ̀ɛ́		Nɛ̀ɛ́ co yɛ vana lacòòvaa , o faŋan pɛ o vana co sɛɛngiaa maa Yeesu co Krista loo kɔɔli ? Ndu co yaamɔɔ Krista-o ni , o kɛɛ Poo a Fuɲaa-o pɛɛn .
+62003012	le yɛɛ		N tosan maa Kaɛn te , le vana Vɔɔndo ndu va ni , mó dii pɔmbɔ ndɔ . Le yɛɛ kpeekpei o dii yɛ ndu ? Le mɛɛ dɛnnda ndɔlan láà vɔw , mí la pɔmbɔ ndɔlan láà sandu yɛ .
+62003017	vɛ̀ɛ̀		Te vanndo nɔ pɛ ɲɛm ceenndon o ba , mo ce puapilɛ ndɔɔ o bahavɛiyo nin , mò kindal ndu kɔl ndɔɔ , vɛ̀ɛ̀ o dimi yɛ o kon maa o kaola Hala ?
+62004020	~		Te vanndo dimi pɛ aa : « I kaola Hala » , kɛ mò nɔ nɛyɔn puapilɛ ndɔɔ , mɛɛ vana lacòòvaa o co ni . Kani te vanndo kaola puapilɛ ndɔ o co cɔu-vo le , o nɔla mò kaola Hala o co cɔ loo le .
+62005005	ɔ́ɔ̀		Ɔ́ɔ̀ vana nɔla ceendo-o , te o faŋan pɛ o vana laalan maa Yeesu co Po Hala-o ni-o kɔɔli ?
+66005002	Nɛ̀ɛ́		O kon mí ca mɛlɛkanɔ kpaayaa pum yondaa coocoo kpélén aa : « Nɛ̀ɛ́ co yɛ vana kon , o bɛnda mò tɛɛmbuu tɔɔmaselelan ndan , mò kumbi sɛbɔɔ ho-o ? »
+66006010a	lɔ́ɔ́ kuɛɛ		A va yoondiaa coocoo kpélén aa : « Vana naa bɛndu diandaa toɲaa sei , vɛ́ cumndo ho , lɔ́ɔ́ kuɛɛ n co yɛ yamɛi kiolɔɔ , mà mingi màá nda dii naa-o o vanndacieea co o lɛŋnden coo-a lo ? »
+66006010b	~		
+66006017	nɛ̀ɛ́		Kani paale bɛndule kɔltuw ndaa le tiiya , nɛ̀ɛ́ nɔla yɛnin simndan ? »
+66007013a	yɛɛ		O kon mí bɛndu yuuvɛiyo pilɛ cua sɔɛi , mó ɲuna ya aa : « A nɔ haa domala bɛndula humbulan-nda , vanaa súú yɛɛ nda co yɛ , 
+66007013b	kuɛɛ		kuɛɛ nda fula yɛ ? »
+66013004a	nɛ̀ɛ́		Má baŋ vulan tambálakáà o labɛngunin le tùú ndóò ke visi tɔɔma kon kpaayaa-o , má baŋ vulan visi kon o labɛngunin , má va dimio aa : « Nɛ̀ɛ́ co yɛ maa visi tɔɔma ho , 
+66013004b	nɛ̀ɛ́		nɛ̀ɛ́ nɔla yɛ ndu cɔlɔba ? »
+66015004a	nɛ̀ɛ́		Mɛlɛka , nɛ̀ɛ́ tɔɔndan yɛnin mo kɛɛ diola nɔmndan biilu ? Kani nɔm pilɛ kpé co o diandaa ni . Vanaa-mangalaa-isɔɔa kpow a hunnin mà baŋ vulan nɔm o labɛngunin , kani sandii nɔmnde cɔmnun vakpa . »
+66015004b	~		
+66017007	le yɛɛ		Mí mɛlɛkanɔɔ ɲuna ya aa : « Le yɛɛ nɛ n dɔwnun yɛ kɔndɔfili ? I cɔmnin nɔm kɔlɔ vuɛɛndo ho a kɔlɔ visi o cal ho coo a bolle ndii ŋɔmmɛw a leelan tɔ́-o .
+66018018	~		Telen nda va kumii va cɔnɔnndo telen kobi kalaa va ŋɔw-ve tofaa-o , má va deŋio aa : « Kabi bɛɛ kobi yɔŋnun maa kobi bɛndoo ho le ! »

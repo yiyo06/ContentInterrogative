@@ -1,0 +1,743 @@
+40002002	kuti		Nanena , Ali kuti amene adabadwa mfumu ya Ayuda ? Chifukwa tidawona nyenyezi yake kum’mawa , ndipo tidabwera kudzamlambira Iye .
+40002004	kuti		Ndipo pamene adasonkhanitsa ansembe akulu onse ndi alembi a anthu , adafunsira iwo , adzabadwira kuti Khristuyo ?
+40003007	ndani		Koma pamene iye adawona ambiri a Afarisi ndi a Asaduki alimkudza ku ubatizo wake , adati kwa iwo , wobadwa a njoka inu , ndani adakulangizani kuthawa m’kwiyo ulimkudza ?
+40005013	chiyani		Inu ndinu m’chere wa dziko lapansi ; koma m’cherewo ngati ukasukuluka , adzaukoleretsa ndi chiyani ? Pamenepo sungakwanirenso kanthu konse , koma kuti ukaponyedwe kunja , nupondedwe ndi anthu .
+40005046	yanji		Chifukwa ngati muwakonda iwo akukondana ndi inu mphotho yanji muli nayo ? Kodi angakhale amisonkho sachita chomwecho ?
+40005047	muchitanji		Ndipo ngati muyankhula abale anu wokhawokha , muchitanji choposa ena ? Kodi angakhale anthu amisonkho sachita chomwecho ?
+40006027	ndani		Ndipo ndani wa inu ndi kudera nkhawa angathe kuwonjezera pa msinkhu wake mkono umodzi ?
+40006028	muderanji		Ndipo muderanji nkhawa ndi chobvala ? Taganizirani za maluwa a kuthengo , makulidwe awo ; sagwira ntchito , kapena sapota :
+40006031a	chiyani		Chifukwa chake musadele nkhawa , ndi kuti , tidzadya chiyani ? 
+40006031b	chiyani		Kapena tidzamwa chiyani ? 
+40006031c	chiyani		Kapena tidzabvala chiyani ?
+40007003	bwanji		Ndipo upenya bwanji kachitsotso kali m’diso la m’bale wako , koma mtengo uli m’diso la iwe mwini suwuganizira ?
+40007004	bwanji		Kapena udzati bwanji kwa mbale wako , tandilola ndichotse kachitsotso m’diso lako ; ndipo wona , mtengowo uli m’diso lako .
+40007009	ndani		Kapena munthu ndani wa inu , amene pompempha mwana wake mkate , adzampatsa mwala ?
+40007016a	~		Mudzawazindikira ndi zipatso zawo . Kodi atchera mphesa paminga , 
+40007016b	~		kapena nkhuyu pamtula ?
+40008026	bwanji		Ndipo adanena Iye kwa iwo , Muli amantha bwanji , wokhulupirira pang’ono inu ? Pomwepo Iye adadzuka , nadzudzula mphepo ndi nyanja , ndipo padagwa bata lalikulu .
+40008027	wotani		Ndipo adazizwa anthuwo nanena , Ndiye munthu wotani uyu , pakuti ngakhale mphepo ndi nyanja zimvera Iye ?
+40008029	chiyani		Ndipo onani , adafuwula nati , tiri nanu chiyani , Inu Mwana wa Mulungu ? Mwadza kuno kodi kutizunza ife , nthawi yake siyidafike ?
+40009004	Chifukwa chiyani		Ndipo Yesu pozindikira maganizo awo , adati , Chifukwa chiyani muli m’kuganizira zoyipa m’mitima yanu ?
+40009005	n’chiti		Pakuti chapafupi n’chiti , kunena , Machimo ako akhululukidwa ; kapena kunena , Tanyamuka nuyende ?
+40009011	Chifukwa chiyani		Ndipo pamene Afarisi adawona ichi , adanena kwa wophunzira ake , Chifukwa chiyani Mphunzitsi wanu alimkudya pamodzi ndi amisonkho ndi wochimwa ?
+40009014	Chifukwa chiyani		Pomwepo adadza kwa Iye wophunzira ake a Yohane , nati , Chifukwa chiyani ife ndi Afarisi tisala kudya kawiri kawiri , koma wophunzira anu sasala ?
+40009015	~		Ndipo Yesu adati kwa iwo , Nanga ana a nyumba ya ukwati angathe kulira kodi nthawi imene mkwati akhala nawo ? Koma adzafika masiku , pamene mkwati adzachotsedwa kwa iwo , ndipo pomwepo adzasala kudya .
+40010025	~		Kumkwanira wophunzira kuti akhale monga mphunzitsi wake , ndi mtumiki monga mbuye wake . Ngati adamutcha , mkulu wanyumba Belezebule , sadzaposa kodi kuwatero apabanja ake ?
+40011007	kukapenyanji		Ndipo m’mene iwo adalimkupita , Yesu adayamba kunena ndi makamu zokhudzana ndi Yohane . Mudatuluka kumka kuchipululu kukapenyanji ? Bango logwedezeka ndi mphepo kodi ?
+40011008	chiyani		Koma mudatuluka kukawona chiyani ? Munthu wobvala zofewa kodi ? Onani , wobvala zofewa ali m’nyumba za mafumu .
+40011009	chiyani		Koma mudatuluka Kukawona chiyani m’neneri kodi ? Indetu , ndinena kwa inu , koma woposa m’neneri .
+40011016	chiyani		Koma ndidzafanizira ndi chiyani wobadwa awa a makono ? Ali wofanana ndi ana wokhala m’mabwalo a malonda amene ali kuyitana anzawo ,
+40012011	ndani		Ndipo Iye adati kwa iwo , Munthu ndani wa inu , amene ali nayo nkhosa imodzi , ndipo ngati idzagwa m’dzenje tsiku la sabata , kodi sadzayigwira ndikuyitulutsa .
+40012026	bwanji		Ndipo ngati Satana amatulutsa Satana , iye wagawanika pa yekha ; ndipo udzakhala bwanji ufumu wake ?
+40012027	ya yani		Ndipo ngati Ine ndimatulutsa ziwanda ndi mphamvu yake ya Belezebule , ana anu amazitulutsa ndi mphamvu ya yani ? Chifukwa chake iwo adzakhala woweruza anu .
+40012029	bwanji		Kapena akhoza bwanji munthu kulowa m’banja la munthu wolimba , ndi kuwononga akatundu ake , ngati iye sayamba kumanga munthu wolimbayo ? Ndipo pamenepo adzawononga za m’banja lake .
+40012034	bwanji		Wobadwa inu a njoka mungathe bwanji kuyankhula zabwino , inu wokhala woyipa ? Pakuti m’kamwa mungoyankhula mwa kusefukira kwake kwa mtima .
+40012048a	ndani		Koma Iye adayankha , nati kwa iye wonenayo , Amayi wanga ndani ? 
+40012048b	ayani		Ndi abale anga ndi ayani ?
+40013010	Chifukwa chiyani		Ndipo wophunzirawo adadza , nati kwa Iye , chifukwa chiyani muyankhula ndi iwo m’mafanizo ?
+40013027	kuti		Ndipo atumiki ake a mwini nyumbayo adadza , nati kwa iye , Mbuye , kodi simudafesa mbewu zabwino m’munda mwanu ? Nanga wachokera kuti namsongoleyo ?
+40013054a	kuti		Ndipo pamene adafika kudziko la kwawo , adaphunzitsa iwo m’masunagoge mwawo , kotero kuti adazizwa , nanena , 
+40013054b	kuti		Uyu adazitenga kuti nzeru zimenezi ndi ntchito zamphamvu izi ?
+40013056	kuti		Ndipo alongo ake Sali ndi ife onsewa ? Ndipo Iyeyo adazitenga zinthu zonsezi kuti ?
+40014031	wakayikiranji		Ndipo pomwepo Yesu adatansa dzanja lake , namgwira iye , nanena naye , iwe wokhulupirira pang’ono , wakayikiranji mtima ?
+40015002	Chifukwa chiyani		Kodi chifukwa chiyani wophunzira anu akulumpha miyambo ya akulu ? Pakuti sasamba manja awo pakudya mkate ?
+40015003	mulumphiranji		Koma Iye adayankha , nati kwa iwo , Inunso mulumphiranji lamulo la Mulungu chifukwa cha miyambo yanu ?
+40015033	kuti		Ndipo wophunizira ake adanena kwa Iye , tiyiwona kuti mikate yotere m’chipululu yokhutitsa unyinji wotere wa anthu ?
+40015034	ingati		Ndipo Yesu adanena kwa iwo , Muli nayo mikate ingati ? Ndipo iwo adati , Isanu ndi iwiri , ndi tinsomba pang’ono .
+40016008	Chifukwa chiyani		Koma Yesu , m’mene adadziwa , adati , Ha , inu wokhulupirira pan’gono , mufunsana chifukwa chiyani wina ndi mzake , chifukwa kuti simudatenge mikate ?
+40016009	ingati		Kodi simudziwa , ndipo simukumbukira mikate isanu ija ya zikwi zisanu , ndi mitanga ingati mudayitola ?
+40016010a	~		Penanso mikate isanu ndi iwiri ija ya zikwi zinayi , 
+40016010b	angati		ndi madengu angati mudatola ?
+40016011	Bwanji		Bwanji nanga simukudziwa kuti sindidanena kwa inu za mikate ? Koma pewani chotupitsa cha Afarisi ndi Asaduki .
+40016013	yani		Pamene Yesu , adadza kudziko la ku Kayisareya wa Filipi , adafunsa wophunzira ake , kuti , anthu anena kuti Mwana wa munthu ndiye yani ?
+40016015a	~		Iye adanena kwa iwo , 
+40016015b	yani		koma inu mukuti ndine yani ?
+40016026a	adzapindulanji		Pakuti munthu adzapindulanji , akalandira dziko lonse , nataya moyo wake / 
+40016026b	adzaperekanji		kapena munthu adzaperekanji chosinthana ndi moyo wake ?
+40017010	bwanji		Ndipo wophunzira ake adamfunsa Iye , nanena , Ndipo bwanji alembi amanena kuti Eliya ndiye atsogole kudza ?
+40017017a	nthawi yanji		Ndipo Yesu adayankha nati , Ha , wobadwa wosakhulupilira ndi amphulupulu , ndidzakhala ndi inu nthawi yanji ? 
+40017017b	nthawi yanji		Ndidzalekerera inu nthawi yanji ? M`bweretseni kwa Ine .
+40017019	Chifukwa chiyani		Pamenepo wophunzira adadza kwa Yesu , ali pa yekha , nati , chifukwa chiyani ife sitidakhoza kumtulutsa iye ?
+40017025a	bwanji		Iye adabvomeza Inde , apereka . Ndipo pamene iye amalowa m’nyumba , Yesu adatsogola kunena naye , nati , Simoni , uganiza bwanji ? 
+40017025b	yani		Mafumu a dziko lapansi alandira msonkho kwa yani ? Kwa ana awo kodi , kapena kwa alendo .
+40018001	Ndani		Nthawi yomweyo wophunzira adadza kwa Yesu , nanena , Ndani kodi ali wamkulukulu mu Ufumu wa Kumwamba ?
+40018012	motani		Mukuganiza motani ? Ngati munthu ali nazo nkhosa makumi khumi , ndipo isokera imodzi ya izo , kodi saleka zija makumi asanu ndi anayi mphambu zisanu ndi zinayi , napita kumapiri , kukafunafuna yosokerayo ?
+40018021	kangati		Pamenepo Petro anadza kwa Iye nati , Ambuye , m`bale wanga adzandilakwira kangati , ndipo ine ndidzamkhululukira iye ? Kufikira kasanu ndi kawiri kodi ?
+40019007	n’chifukwa chiyani		Iwo adanena kwa Iye , Nanga n’chifukwa chiyani Mose adalamulira kupatsa kalata wa chilekaniro , ndi kumchotsa ?
+40019016	n’chiti		Ndipo onani , m’modzi anadza kwa Iye , nati , Mphunzitsi , wabwino , chabwino n’chiti ndichichite , kuti ndikhale nawo moyo wosatha ?
+40019017	bwanji		Ndipo Iye adati kwa iye , unditcha bwanji kuti ndine wabwino ? Kulibe wabwino , koma m’modzi , ndiye Mulungu : koma ngati ufuna kulowa m’moyo , sunga malamulo .
+40019018	wotani		Iye adanena kwa iye Wotani ? Yesu adati , Usaphe , Usachite chigololo , Usabe , Usachite umboni wonama .
+40019020	chiyani		M’nyamata wachichepereyo adanena kwa Iye , Zonsezi ndidazisunga kuyambira ndiri mwana , ndisowanso chiyani ?
+40019025	ndani		Pamene wophunzira ake adamva ichi , adazizwa kwambiri , nanena , Ngati n’kutero angapulumuke ndani ?
+40019027	chiyani		Pomwepo adayankha Petro , nati kwa Iye , Onani , ife tidasiya zonse ndi kutsata inu ; nanga tsono tidzakhala ndi chiyani ?
+40020006	Chifukwa chiyani		Ndipo pa ora la khumi ndi limodzi adatuluka , napeza ena atangoyima chabe , ndipo adati kwa iwo , Chifukwa chiyani mwangoyima pano chabe tsiku lonse ?
+40020012	~		Nati , Omalizira awa adagwira ntchito kwa ola limodzi , ndipo mudawalinganiza ndi ife amene tidapilira kuwawa kwa dzuwa ndi kutentha kwake kwa tsiku .
+40020021	chiyani		Ndipo Iye adati kwa iye , Ufuna chiyani ? Iye adanena , Lamulirani kuti ana anga awiri amenewa adzakhale , wina ku dzanja lanu la manja , ndi wina kulamanzere , mu Ufumu wanu .
+40020032	chiyani		Ndipo Yesu adayima , nawayitana , nati , Mufuna kuti ndikuchitire chiyani ?
+40021010	Ndani		Ndipo m’mene adalowa mu Yerusalemu muzinda wonse udasokonezeka , nanena , Ndani uyu ?
+40021016	~		Ndipo adati kwa Iye , Mulikumva kodi chimene ali kunena awa ? Ndipo Yesu adanena kwa iwo , Inde , simudawerenga kodi , Mkamwa mwa makanda ndi woyamwa mudafotokozera zolemekeza ?
+40021020	bwanji		Ndipo pamene wophunzira adawona ichi adazizwa , nati , Mkuyu udafota bwanji msanga ?
+40021023a	wotani		Ndipo pamene Iye adalowa m’kachisi , ansembe akulu ndi akulu a anthu adadza kwa Iye ali kuphunzitsa , nanena , Muchita izi ndi ulamuliro wotani ? 
+40021023b	ndani		Ndipo ndani adakupatsani ulamuliro wotere ?
+40021025a	kuti		Ubatizo wa Yohane , udachokera kuti , kumwamba kapena kwa anthu ? Koma iwo adafunsana wina ndimzake , 
+40021025b	~		kuti , Tikati uchokera Kumwamba , Iye adzati kwa ife , 
+40021025c	mudalekeranji		mudalekeranji kukhulupirira iye ?
+40021028	bwanji		Koma mukuganiza bwanji inu ? Munthu wina adali nawo ana amuna awiri ; nadza iye kwa woyamba nati , Mwanawe , kagwire lero ntchito ku munda wanga wampesa .
+40021031	Ndani		Ndani wa awiriwo adachita chifuniro cha atate wawo ? Iwo adanena kwa Iye , Woyambayo . Yesu adanena kwa iwo , Indetu ndinena kwa inu , kuti amisonkho ndi akazi a chiwerewere adzatsogolera inu , kulowa mu Ufumu wa Mulungu .
+40021040	chiyani		Tsono atabwera mwini munda , adzachitira wolimawo chiyani ?
+40022012	bwanji		Ndipo adanena kwa iye , Mzanga udalowa bwanji muno wosakhala nacho chobvala cha ukwati ? Ndipo iye adalibe mawu .
+40022017	chiyani		Chifukwa chake mutiwuze ife , muganiza chiyani ? Kuloledwa kodi kupatsa msonkho kwa Kayisara , kapena iyayi ?
+40022018	Mundiyeseranji		Koma Yesu adadziwa kuyipa kwawo , nati , Mundiyeseranji Ine , wonyenga inu ?
+40022020a	N’chayani		Ndipo Iye adati kwa iwo , N’chayani chithunzithunzi ichi , 
+40022020b	~		ndikulemba kwake ?
+40022028	wayani		Chifukwa chake m’kuwuka kwa akufa , iye adzakhala mkazi wayani wa asanu ndi awiriwo ? Pakuti onse adakhala naye .
+40022036	~		Mphunzitsi , lamulo lalikulu ndi liti la m’chilamulo
+40022042a	bwanji		Nati , Muganiza bwanji za Khristu ? 
+40022042b	wa yani		Ali mwana wa yani ? Iwo adanena kwa Iye Mwana wa Davide .
+40022043	bwanji		Iye adati kwa iwo , Ndipo Davide mu Mzimu amtchula Iye bwanji Ambuye , nanena ,
+40022045	bwanji		Chifukwa chake ngati Davide amtchula Iye Ambuye , ali mwana wake bwanji ?
+40023017	n’chiti		Inu wopusa , ndi akhungu ; pakuti choposa n’chiti , golidi kodi , kapena kachisi amene ayeretsa golidiyo ?
+40023019	n’chiti		Inu wopusa ndi akhungu , pakuti choposa n’chiti , mphatso kodi , kapena guwa lansembe limene liyeretsa mphatsoyo ?
+40023033	bwanji		Njoka inu , wobadwa inu a mamba , mudzatha bwanji kuthawa kulanga kwake kwa gehena ?
+40024003a	liti		Ndipo pamene Iye adalikukhala pansi pa phiri la Azitona , wophunzira adadza kwa Iye pa yekha , nanena , Mutiwuze ife zija zidzawoneka liti ? 
+40024003b	n’chiyani		Ndipo chizindikiro cha kufika kwanu n’chiyani , ndi cha mathedwe a nthawi ya pansi pano ?
+40024045	Ndani		Ndani kodi ali mtumiki wokhulupirika ndi wanzeru , amene mbuye wake adamkhazika woyang’anira banja lake , pakuwapatsa zakudya pa nthawi yake ?
+40025037	liti		Pomwepo wolungama adzayankha Iye kuti , Ambuye tidakuwonani Inu liti wanjala , ndikukudyetsani ? Kapena wa ludzu ndikukumwetsani ?
+40025038	liti		Ndipo tidawona Inu liti mlendo , ndikukucherezani ? Kapena wamaliseche , ndi kukubvekani ?
+40025039	liti		Ndipo tidakuwonani Inu liti wodwala , kapena m’nyumba yandende , ndipo tidadza kwa Inu ?
+40025044	liti		Pomwepo iwonso adzayankha Iye kuti , Ambuye tidakuwonani liti wanjala , kapena waludzu , kapena mlendo , kapena wamaliseche , kapena wodwala kapena m’nyumba ya ndende , ndipo ife sitidakutumikirani Inu ?
+40026008	chifukwa ninji		Koma m’mene wophunzira ake adawona , anada mtima , nanena , Chifukwa ninji kuwononga kumeneku ?
+40026010	Mumbvutiranji		Koma Yesu podziwa , adati kwa iwo , Mumbvutiranji mkaziyu ? Popeza andichitira Ine ntchito yabwino .
+40026015	chiyani		Nati kwa iwo , Mufuna kundipatsa chiyani , ndipo ine ndidzampereka Iye kwa inu ? Ndipo iwo adamuwerengera iye ndalama zasiliva makumi atatu .
+40026017	kuti		Ndipo tsiku loyamba la mkate wopanda chotupitsa , wophunzira anadza kwa Yesu nati kwa Iye , Mufuna tikakonzere kuti Paskha , kuti mukadye ?
+40026040	~		Ndipo adadza kwa wophunzira , nawapeza iwo ali m’tulo , nanena kwa Petro , Nkutero kodi ? Kodi Simukhoza kuchezera ndi Ine ora limodzi ?
+40026050	wafikiranji		Ndipo Yesu adati kwa iye , Mzanga wafikiranji iwe ? Pomwepo iwo anadza , namthira Yesu manja , namtenga Iye .
+40026054	bwanji		Koma pakutero malembo adzakwaniritsidwa bwanji , pakuti kuyenera chomwecho ?
+40026062a	~		Ndipo mkulu wa ansembe adayimilira , nati kwa Iye , Sukuyankha kanthu kodi ? 
+40026062b	Nchiyani		Nchiyani ichi chimene awa akunenera Iwe ?
+40026065	tifuniranji		Pomwepo mkulu wa ansembe adang’amba zobvala zake , nati , Achitira Mulungu mwano ; tifuniranji mboni zina ? Onani , tsopano mwamva mwanowo .
+40026066	bwanji		Muganiza bwanji ? Iwo adayankha nati , Ali wochimwa woyenera kumupha .
+40026068	ndani		Nati , Utilote ife , Khristu iwe , wakumenya iwe ndani ?
+40027004	chiyani		Nanena , Ndidachita koyipa ine , pakupereka mwazi wosalakwa . Koma iwo adati , Tiri nacho chiyani ife ? Udziwonere wekha izo .
+40027013	~		Pomwepo Pilato adanena kwa Iye , Sukumva kodi zinthu zambiri zotere akunenera Iwe ?
+40027017	yani		Chifukwa chake pamene adasonkhana pamodzi , Pilato adanena kwa iwo , Mufuna kuti ndikumasulireni yani ? Baraba kodi , kapena Yesu , wotchedwa Khristu ?
+40027021	uti		Koma kazembe adayankha nati kwa iwo , Mufuna kuti ndikumasulireni uti wa awa awiri ? Ndipo iwo adati , Baraba .
+40027022	chiyani		Pilato adanena kwa iwo , Nanga ndidzachita chiyani ndi Yesu , wotchedwa Khristu ? Ndipo onse adati , Apachikidwe .
+40027023a	Chifukwa chiyani		Ndipo kazembe adati , Chifukwa chiyani ? 
+40027023b	chotani		Adachita choyipa chotani ? Koma iwo adafuwulitsa kopambana nati , Apachikidwe .
+40027046	mwandisiyiranji		Ndipo poyandikira ola lachisanu ndi chinayi , Yesu adafuwula ndi mawu akulu nanena , Eli Eli , Lamasabakitani ? Ndiko kunena kuti , Mulungu wanga , Mulungu wanga , mwandisiyiranji Ine ?
+41001024	chiyani		Kuti , Tisiyeni , tiri ndi chiyani ife ndi Inu Yesu wa ku Nazarete ? Kodi mwadza kudzatiwononga ife ? Ndikudziwani , ndinu Woyerayo wa Mulungu .
+41001027	nchiyani		Ndipo adazizwa onse , kotero kuti adafunsana mwa iwo okha , kuti , Ichi nchiyani ? Chiphunzitso chatsopano ! Ndi mphamvu Iye alamula ngakhale mizimu yonyansa , ndipo idamvera Iye .
+41002007a	n’chifukwa chiyani		Kodi n’chifukwa chiyani munthu ameneyu akuchitira Mulungu mwano wotere ? 
+41002007b	ndani		Akhoza ndani kukhululukira machimo , koma m’modzi , ndiye Mulungu ?
+41002008	bwanji		Ndipo pomwepo Yesu pozindikira mu mzimu wake kuti alikuganizira chomwecho mwa iwo okha , adanena nawo , Muganiza bwanji zinthu izi m’mitima yanu ?
+41002009	n’chiti		Chapafupi n’chiti , kapena kumuwuza wodwala manjenje kuti , Machimo ako akhululukidwa ; kapena kuti , Nyamuka , senza mphasa yako , nuyende ?
+41002016	~		Ndipo pamene Alembi ndi Afarisi adawona Iye kuti alimkudya nawo wochimwa ndi amisonkho , adanena ndi wophunzira ake , Uyu akudya ndi kumwa nawo amisonkho ndi wochimwa ?
+41002018	Bwanji		Ndipo wophunzira a Yohane ndi Afarisi adalimkusala kudya ; ndipo anadza , nanena ndi Iye , Bwanji asala kudya wophunzira a Yohane , ndi wophunzira Afarisi , koma wophunzira anu sasala kudya ?
+41002019	~		Ndipo Yesu adanena nawo , Kodi akhoza kusala kudya ana a ukwati pamene mkwati ali pamodzi nawo ? Pokhala ali naye mkwati pamodzi ndi iwo sakhoza kusala .
+41002024	achitiranji		Ndipo Afarisi adanena kwa Iye , Tawonani , achitiranji chosaloleka kuchitika tsiku la sabata ?
+41003004	~		Ndipo adanena kwa iwo , N’kololedwa tsiku la sabata kuchita zabwino , kapena zoyipa ? Kupulumutsa moyo kapena kupha ? Koma adakhala chete .
+41003023	bwanji		Ndipo adawayitana iwo , nanena nawo m’mafanizo , Satana angathe bwanji kutulutsa Satana ?
+41003033a	ndani		Ndipo adawayankha iwo nanena , Amayi wanga ndi abale anga ndani ?
+41003033b	~		
+41004013	bwanji		Ndipo adanena nawo , Simudziwa kodi fanizo ili ? ndipo mudzazindikira bwanji mafanizo onse ?
+41004030a	chiyani		Ndipo adanena , Tidzafanizira ndi chiyani Ufumu wa Mulungu ? 
+41004030b	lotani		Kapena tidzawulinganiza ndi fanizo lotani ?
+41004038	~		Ndipo Iye mwini adali ku chiwongolero , chachombo nagona tulo , pamtsamiro ; ndipo adamudzutsa Iye nanena kwa Iye , Mphunzitsi , kodi simusamala kuti tiri kuwonongeka ife ?
+41004040a	Muchitiranji		Ndipo adanena nawo , Muchitiranji mantha ? 
+41004040b	~		Kufikira tsopano mulibe chikhulupiriro kodi ?
+41004041	ndani		Ndipo iwo adachita mantha akulu , nanena wina ndi mzake , Munthu uyu ndani nanga , kuti ingakhale mphepo ndi nyanja zimvera Iye ?
+41005007	chiyani		Ndipo adafuwula ndi mawu akulu , nanena , Ndiri ndi chiyani ndi inu , Yesu Mwana wa Mulungu Wammwambamwamba ? Ndikulumbirirani pa Mulungu musandizunze .
+41005009	ndani		Ndipo adamfunsa iye , Dzina lako ndani ? Ndipo adayankha kuti , Dzina langa ndine Legiyo ; chifukwa tiri ambiri .
+41005030	Ndani		Ndipo pomwepo Yesu , pamene adazindikira mwa Iye yekha kuti mphamvu idatuluka mwa Iye , adapotolokera kwa womkanikizawo , nanena , Ndani adakhudza zobvala zanga ?
+41005031	ndani		Ndipo wophunzira ake adanena kwa Iye , Mukuwona kuti khamu liri kukanikiza Inu , ndipo munena kodi , Wandikhudza ndani ?
+41005035	ubvutiranjinso		M’mene Iye adali chiyankhulire , adafika a kunyumba ya mkulu wa sunagoge , nanena , kuti , Mwana wako wafa ; ubvutiranjinso Mphunzitsi ?
+41005039a	chifukwa chiyani		Ndipo m’mene adalowa , adanena nawo , Mubuma ndi kulira chifukwa chiyani ? Buthuli silidafe koma liri m’tulo .
+41005039b	~		
+41006002a	kuti		Ndipo pofika tsiku la sabata , adayamba kuphunzitsa m’sunagoge ; ndipo ambiri adamva Iye , nazizwa , nanena , Uyu adazitenga kuti izi ? 
+41006002b	njotani		Nzeru yopatsidwa kwa munthuyu njotani ? 
+41006002c	~		Ndi zamphamvu zotere zochitidwa ndi manja ake ?
+41006022	~		Ndipo pamene mwana wa mkazi wa Herodiya adalowa yekha nabvina , adakondweretsa Herode ndi iwo wokhala naye pachakudya ; ndipo mfumuyo idati kwa buthulo , Tapempha kwa ine chiri chonse uchifuna , ndidzakupatsa iwe .
+41006024	chiyani		Ndipo adatuluka , nati , kwa amake , Ndidzapempha chiyani ? Ndipo iye adati , Mutu wake wa Yohane M’batizi .
+41006037	~		Koma Iye adayankha nati kwa iwo , Apatseni kudya ndinu . Ndipo iwo adanena naye , kodi tipite ife ndi kugula mikate ya makobiri mazana awiri ndi kuwapatsa kudya ?
+41006038	ingati		Ndipo Iye adanena kwa iwo , kuti , Muli nayo mikate ingati ? Pitani mukawone . Ndipo m’mene adadziwa adanena , Isanu ndi nsomba ziwiri .
+41007005	Bwanji		Ndipo Afarisi ndi alembi adamfunsa Iye , Bwanji wophunzira anu satsata mwambo wa akulu , koma akudya mkate wawo ndi m’manja mwakuda ?
+41008004	kuti		Ndipo wophunzira ake adamuyankha Iye , Munthu adzatha kutenga kuti mikate yokhutitsa anthu awa m’chipululu muno ?
+41008005	ingati		Ndipo adawafunsa iwo , Muli nayo mikate ingati ? Ndipo adati , Isanu ndi iwiri .
+41008012	bwanji		Ndipo adawusa moyo mu mzimu wake , nanena , Anthu a m’badwo uno afunafuna chizindikiro bwanji ? Indetu ndinena kwa inu , ngati Chizindikiro sichidzapatsidwa kwa m’badwo uno !
+41008017	Bwanji		Ndipo pamene Yesu adazindikira , adanena nawo , Bwanji mukutsutsana chifukwa mulibe mkate ? Kodi kufikira tsopano simuzindikira , ndikudziwitsa ? Kodi mitima yanu ndi yowuma ?
+41008018a	~		Pokhala nawo maso simupenya kodi ? 
+41008018b	~		Ndipokhala nawo makutu simukumva kodi ? Ndipo simukumbukira kodi ?
+41008019	ingati		Pamene tidanyema mikate isanu ndi kugawira kwa anthu zikwi zisanu , Kodi mudatola mitanga ingati yodzala ndi makombo ? Iwo adanena kwa Iye , khumi ndi iwiri .
+41008020	ingati		Ndipo mikate isanu ndi iwiri kwa anthu zikwi zinayi , mudatola mitanga ingati yodzala ndi makombo ? Ndipo adanena , Isanu ndi iwiri .
+41008021	Chifukwa chiyani		Ndipo Iye adanena nawo , Nanga n’chifukwa chiyani simukuzindikira ?
+41008023	~		Ndipo adamgwira dzanja munthu wakhunguyo , natulukira naye kunja kwa mzinda ; ndipo atamthira malobvu m’maso mwake , nayika manja pa iye , adamfunsa iye , Uwona kanthu kodi ?
+41008027	yani		Ndipo adatuluka Yesu ndi wophunzira ake , nalowa ku mizinda ya ku Kayisareya wa Filipi ; ndipo panjira adawafunsa wophunzira ake , nanena nawo , Kodi anthu amanena kuti Ine ndine yani ?
+41008029a	~		Ndipo Iye adati kwa iwo , 
+41008029b	yani		Koma inu munena kuti ndine yani ? Petro adayankha nanena naye , Ndinu Khristu .
+41008036	~		Pakuti munthu apindulanji akadzilemeleretsa dziko lonse lapansi , natayapo moyo wake ?
+41008037	chiyani		Kapena munthu adzapereka chiyani chosinthana ndi moyo wake ?
+41009010	kutanthawuzanji		Ndipo adasunga mawuwo mwa iwo wokha , nafunsana mwa iwo wokha , kuti kuwuka kwa akufa kutanthawuzanji ?
+41009011	bwanji		Ndipo adamfunsa Iye , nanena , Nanga alembi anena bwanji kuti adzayamba kufika Eliya ?
+41009012	bwanji		Ndipo Iye adayankha nanena nawo , Eliya ayamba kudza ndithu , nadzabwezeretsa zinthu zonse ; nanga zalembedwa bwanji za Mwana wa munthu , kuti ayenera kumva zowawa zambiri ndi kuyesedwa chabe ?
+41009016	chiyani		Ndipo adafunsa alembi , Mufunsana nawo chiyani ?
+41009019a	nthawi yaitali yanji		Ndipo Iye adawayankha iwo nanena , M`bado wosakhulupirira inu , ndidzakhala ndi inu nthawi yaitali yanji ? 
+41009019b	nthawi yanji		Ndidzakulekererani nthawi yanji ? Mudze naye kwa Ine .
+41009021	liti		Ndipo Iye adafunsa atate wake , kuti chimenechi chidayamba liti kumgwira ? Ndipo adati , akali mwana .
+41009028	bwanji		Ndipo pamene Iye adalowa m’nyumba , wophunzira ake adafunsa mtseri kuti , Nanga bwanji sitinakhoza ife kuwutulutsa ?
+41009033	chiyani		Ndipo Iye anadza ku Kapernao ; ndipo pamene adakhala m’nyumba , Iye adawafunsa , Mudali kutsutsana chiyani panjira ?
+41009050	chiyani		Mchere ndi wabwino ; koma ngati mchere usukuluka , mudzaukoleretsa ndi chiyani ? Khalani nawo mchere mwa inu nokha , ndipo khalani ndi mtendere wina ndi mzake .
+41010003	chiyani		Ndipo Iye adayankha nati kwa iwo , Kodi Mose adakulamulirani inu chiyani ?
+41010017	chiyani		Ndipo pamene Iye adatuluka kutsata njira , adamthamangira m`modzi wolamulira , namgwadira Iye , namfunsa , Mphunzitsi wabwino , ndizichita chiyani kuti ndilandire moyo wosatha ?
+41010018	bwanji		Ndipo Yesu adati kwa iye , Unditcha Ine wabwino bwanji ? Palibe wabwino koma m’modzi ndiye Mulungu .
+41010026	ndani		Ndipo anadabwa koposa muyeso , nanena kwa iwo wokha , ndipo angathe kupulumuka ndani ?
+41010036	chiyani		Ndipo Iye adati kwa iwo , Mufuna kuti ndidzakuchitireni inu chiyani ?
+41010051	chiyani		Ndipo Yesu adayankha nati kwa iye , Ufuna kuti ndikuchitire chiyani ? Ndipo munthu wakhunguyo adati kwa Iye , Ambuye , ndilandire kuwona kwanga .
+41011003	bwanji		Ndipo munthu akati kwa inu , Mutero bwanji ? Mukati , Ambuye akumfuna iye ; ndipo pomwepo adzamtumiza kuno .
+41011005	chiyani		Ndipo ena woyima kumeneko adanena nawo , Muchita chiyani ndi kumasula mwana wa bulu ?
+41011028a	wotani		Ndipo adati kwa iye , Izi muzichita ndi ulamuliro wotani ? 
+41011028b	ndani		Kapena adakupatsani ndani ulamuliro uwu wochita izi ?
+41011030	~		Kodi ubatizo wa Yohane uchokera kumwamba kapena kwa anthu ? Mundiyankhe Ine .
+41011031a	~		Ndipo adatsutsana mwa iwo wokha , nanena , Tikati , udachokera kumwamba ; 
+41011031b	bwanji		adzanena Iye , ndipo simudakhulupirira iye bwanji ?
+41012009	chiyani		Kodi pamenepo mwini munda adzachita chiyani ? Adzafika , nadzawononga wolimawo , nadzapereka mundawo kwa ena .
+41012015	Mundiyeseranji		Kodi tipereke kapena tisapereke ? Koma Iye podziwa chinyengo chawo , adati kwa iwo , Mundiyeseranji ? Nditengereni khobiri latheka , kuti ndiliwone .
+41012016a	za yani		Ndipo adalitenga . Ndipo adati kwa iwo , Chithunzi ichi , ndi chilembo chake ziri za yani ? Ndipo adati kwa Iye , za Kaisara .
+41012016b	~		
+41012023	wa yani		Chotero pakuwuka kwa akufa adzakhala mkazi wa yani wa iwowa ? Pakuti asanu ndi awiriwo adamuyesa mkazi wawo .
+41012028	liti		Ndipo anadza m’modzi wa alembi , namva iwo alikufunsana pamodzi , ndipo podziwa kuti adawayankha bwino , adamfunsa Iye , Lamulo loyamba la onse ndi liti ?
+41012035	Bwanji		Ndipo Yesu adayankha nati , pamene adali kuphunzitsa m’kachisi , Bwanji alembi akunena kuti Khristu ndiye mwana wa Davide ?
+41012037	bwanji		Chomwecho Davide mwini yekha amtchula Iye Ambuye ; ndipo ali mwana wake bwanji ? Ndipo anthu a makamuwo adakondwa kumva Iye .
+41013004a	liti		Tiwuzeni zinthu izi zidzachitika liti ? 
+41013004b	chotani		Ndi chotani chizindikiro chake pamene zinthu izi zonse zidzakwaniritsidwa ?
+41014004	chifukwa ninji		Koma adakhalako ena adabvutika mtima mwa iwo wokha , ndi kuti , Mafutawo atayidwa chifukwa ninji ?
+41014006	mumbvutiranji		Ndipo Yesu adati , Mulekeni , mumbvutiranji ? Wandichitira Ine ntchito yabwino .
+41014012	kuti		Ndipo tsiku loyamba la mikate yopanda chotupitsa , pamene amapha Paskha , wophunzira ake adanena naye , Mufuna tipite kuti , tikakonze mukadyereko Paskha ?
+41014014	kuti		Ndipo kumene adzalowako iye , munene naye mwini nyumba wabwino , Mphunzitsi anena , chiri kuti chipinda cha alendo m’menemo ndidzadyera Paskha ndi wophunzira anga ?
+41014060a	~		Ndipo mkulu wa ansembe adanyamuka pakati , namfunsa Yesu , nanena , Suyankha kanthu kodi ? 
+41014060b	Nchiyani		Nchiyani ichi chimene awa alikuchitira umboni mokutsutsa Iwe .
+41014063	Tifuniranjinso		Ndipo mkulu wa ansembe adang’amba malaya ake , nanena , Tifuniranjinso mboni zina ?
+41014064	bwanji		Mwamva mwano wake ; muyesa bwanji ? Ndipo onse adamtsutsa Iye kuti ayenera kufa .
+41015004	~		Ndipo Pilato adamfunsanso , nanena , Suyankha kanthu kodi ? Tawona , akuchitira umboni Iwe mokutsutsa zinthu zambiri zotere .
+41015012	chiyani		Ndipo Pilato adayankha natinso kwa iwo , Pamenepo ndidzachita chiyani ndi Iye amene mumtchula Mfumu ya Ayuda ?
+41015014a	Chifukwa chiyani		Pamenepo Pilato adanena nawo , Chifukwa chiyani , 
+41015014b	chotani		Iye adachita choyipa chotani ? Koma iwo adafuwulitsatu , Mpachikeni Iyeyo .
+41015034	mwandisiyiranji		Ndipo pa ola la chisanu ndi chinayi Yesu adafuwula ndi mawu wokweza , Eloi , Eloi , lamasabakitani ? Ndiko kutathauza , Mulungu wanga Mulungu wanga mwandisiyiranji Ine ?
+41016003	ndani		Ndipo adalikunena mwa wokha , Adzatikunkhunizira ndani mwalawo , pakhomo la manda ?
+42001018	chiyani		Ndipo Zakariya adati kwa m’ngelo , Ndidzadziwitsa ichi ndi chiyani ? Pakuti ndine nkhalamba , ndipo zaka zake za mkazi wanga zachuluka .
+42001034	bwanji		Pamenepo Mariya adati kwa m’ngelo , ichi chidzachitika bwanji popeza ine sindidziwa mwamuna .
+42001043	kuti		Ndipo ichi chichokera kuti kudza kwa ine , kuti adze kwa ine amake wa Ambuye wanga ?
+42001066	wotani		Ndipo onse amene adazimva adazisunga m’mitima mwawo , nanena , Nanga mwana uyu adzakhala wotani ? Pakuti dzanja la Ambuye lidakhala pamodzi ndi iye .
+42002048	wachitiranji		Ndipo m’mene adamuwona Iye , anadabwa ; ndipo amake adati kwa Iye , Mwanawe , wachitiranji ife chotero ; tawona , atate wako ndi ine tidali kufunafuna iwe ndi kuda nkhawa .
+42002049	bwanji		Ndipo Iye adati kwa iwo , Kuli bwanji kuti mudali kundifunafuna Ine ? Simudziwa kodi kuti kundiyenera Ine ndikhale m’zake za Atate wanga ?
+42003007	ndani		Pamenepo iye adati kwa makamu amene anadza kudzabatizidwa ndi iye , Wobadwa anjoka inu , ndani adakulangizani kuthawa mkwiyo ulimkudza ?
+42003010	chiyani		Ndipo anthu adamfunsa iye , nanena , Ndipo tsono tidzichita chiyani ?
+42003012	chiyani		Pamenepo amisonkho anadza kwa iye kudzabatizidwanso , nati kwa iye , Mphunzitsi , ife tizichita chiyani ?
+42003014a	~		Ndipo asilikali omwe adamfunsa iye , nati , 
+42003014b	chiyani		Nanga ife tizichita chiyani ? Ndipo iye adati kwa iwo , Musawopseze , musamanamize munthu ali yense ; khalani wokhutitsidwa ndi kulipidwa kwanu .
+42004034	chiyani		Nanena , Tilekeni ; kodi tiri ndi chiyani ndi Inu , Yesu wa ku Nazarete ? Kodi mudadza kudzatiwononga ife ? Ndikudziwani Inu muli yani , ndinu Woyera wake wa Mulungu .
+42004036	wotani		Ndipo anthu onse anadabwa , nayankhulana wina ndi mzake , nanena , Mawu amenewa ali wotani ? Chifukwa ndi ulamuliro ndi mphamvu angolamulira mizimu yonyansa , ndipo ingotuluka .
+42005021a	ndani		Ndipo alembi ndi Afarisi adayamba kulingalira kuti , Ndani Uyu ayankhula zomchitira Mulungu mwano ? 
+42005021b	ndani		ndani angathe kukhululukira machimo , koma Mulungu yekha .
+42005022	chiyani		Koma pamene Yesu adadziwa malingaliro awo , nayankha , nati kwa iwo , mukulingalira chiyani m’mitima yanu ?
+42005023	n’chiti		Chapafupi n’chiti kunena , Akhululukidwa kwa iwe machimo ako ; kapena kunena Tawuka , nuyende ?
+42005030	Bwanji		Ndipo Afarisi ndi alembi awo adang’ung’uza kwa wophunzira ake , nanena , kuti , Bwanji inu mukudya ndi kumwa pamodzi ndi anthu amisonkho ndi wochimwa ?
+42005033	~		Ndipo iwo adati kwa Iye , Wophunzira a Yohane a masala kudya kawiri kawiri , ndi kuchita mapemphero ; chimodzimodzinso a Afarisi ; koma anu amangodya ndi kumwa .
+42005034	~		Koma Iye adati kwa iwo , Kodi mungathe kuwapanga ana a ukwati kuti asale , pamene mkwati ali nawo pamodzi ?
+42006002	Muchitiranji		Ndipo Afarisi ena adati kwa iwo , Muchitiranji chosaloledwa kuchitika m`masiku a Sabata ?
+42006009	~		Ndipo pamenepo Yesu adati kwa iwo , Ndikufunsani inu chinthu chimodzi , Kodi kuloleka tsiku la sabata kuchita zabwino , kapena kuchita zoyipa ? Kupulumutsa moyo , kapena kuwuwononga ?
+42006032	chotani		Ndipo ngati muwakonda iwo akukondana ndinu , mudzalandira chiyamiko chotani ? Pakuti wochimwa womwe akonda iwo akukondana nawo .
+42006033	chotani		Ndipo ngati muwachitira zabwino iwo amene akuchitirani inu zabwino , mudzalandira chiyamiko chotani ? Pakuti anthu wochimwa amachitanso chomwecho .
+42006034	chotani		Ndipo ngati mukongoletsa kanthu kwa iwo amene muyembekeza kulandiranso , mudzalandira chiyamiko chotani ? Pakuti onse anthu wochimwa amakongoletsa kwa wochimwa amzawo , kuti alandirenso momwemo .
+42006039	~		Ndipo Iye adawayankhulira fanizo , kodi wa khungu angatsogolere wakhungu ? Kodi sadzagwa onse awiri m’dzenje ?
+42006041	uyang’anitsitsiranji		Ndipo uyang’anitsitsiranji kachitsotso kali m’diso la m’bale wako , koma mtengo wa m’diso la iwe mwini suwuzindikira ?
+42006042	bwanji		Kapena ungathe bwanji kunena kwa mbale wako , leka ndichotse kachitsotso kali m’diso lako , wosayang’anitsitsa bwino iwe mwini mtengo uli m’diso lako ? Wonyenga iwe ! Yamba wachotsa mtengowo uli m’diso lako , ndipo pomwepo udzayang’anitsitsa bwino kuchotsa kachitsotso ka m’diso la m’bale wako .
+42006046	munditchuliranji		Ndipo munditchuliranji Ine , Ambuye , Ambuye , ndi kusachita zimene Ine ndizinena ?
+42007024	chiyani		Ndipo atachoka amithenga ake a Yohane , Iye adayamba kunena kwa anthu zokhudzana ndi Yohane , nati , Mudatuluka kupita kuchipululu kukapenya chiyani ? Bango logwedezeka ndi mphepo kodi ?
+42007025	chiyani		Koma mudatuluka kukawona chiyani ? Munthu wobvala zobvala zofewa kodi ? Onani , iwo wobvala zolemera , ndi wokhala modyerera , ali m’nyumba za mafumu .
+42007026	chiyani		Koma mudatuluka kukawona chiyani ? Mneneri kodi ? Etu , ndinena kwa inu , ndipo woposa mneneri .
+42007031a	chiyani		Ndipo Ambuye adati , Ndidzafanizira ndi chiyani anthu am’badwo uno ? 
+42007031b	chiyani		Ndipo afanana ndi chiyani ?
+42007042	ndani		Ndipo popeza adalibe chobwezera , iye adawakhululukira onse awiri . Tandiwuzani , ndani wa iwo adzaposa kumkonda ?
+42007049	ndani		Ndipo iwo akuseyama naye pachakudya adayamba kunena mwa wokha , Uyu ndani amene akhululukiranso machimo ?
+42008025a	kuti		Ndipo Iye adati kwa iwo , chikhulupiriro chanu chiri kuti ? 
+42008025b	wotani		Ndipo m’kuchita mantha adazizwa iwo , nanena wina ndi mzake , Munthu uyu ndi wotani , kuti angolamula mphepo ndi madzi , ndipo zimvera Iye ?
+42008028	chiyani		Pamene adamuwona Yesu , iye adafuwula , nagwa pansi pamaso pake , nati ndi mawu akulu , Ndiri nacho chiyani ndi Inu , Yesu Mwana wa Mulungu Wamkulukulu ? Ndikupemphani Inu musandizunze ayi .
+42008030	yani		Ndipo Yesu adamfunsa iye , kuti , Dzina lako ndiwe yani ? Ndipo adati , Legiyo , chifukwa ziwanda zambiri zidalowa mwa iye .
+42008045	ndani		Ndipo Yesu adati , wandikhudza Ine ndani ? Koma pamene onse adakana , Petro ndi iwo wokhala naye adati , Ambuye , khamu likukankhana pa Inu ndi kukanikizana , ndipo munena kuti , Ndani wandikhudza Ine ?
+42009009a	ndani		Ndipo Herode adati , Yohane ndinamdula mutu ine ; koma uyu ndani ndikumva zotere za iye ? Ndipo adakhumba kumuona Iye .
+42009009b	~		
+42009018	yani		Ndipo kudali , pamene Iye adali kupemphera payekha wophunzira adali naye ; ndipo adawafunsa iwo , kuti , anthu anena kuti Ine ndine yani ?
+42009020a	~		Iye adati kwa iwo , 
+42009020b	yani		koma inu munena kuti Ine ndine yani ? Ndipo adayankha Petro , nati , Khristu wa Mulungu .
+42009025	adzapindulanji		Pakuti munthu adzapindulanji akadzilemeretsa dziko lonse lapansi nadzatayapo , kapena kulipa moyo wake ?
+42009041a	nthawi yanji		Ndipo Yesu adayankha , nati , Ha ! Wobadwa inu wosakhulupilira ndi amphulupulu , ndidzakhala ndi inu nthawi yanji ? Ndikulekerera inu ? Idza naye kuno mwana wako .
+42009041b	~		
+42010025	chiyani		Ndipo tawonani , wachilamulo wina adayimilira namuyesa Iye , nanena , Mphunzitsi , ndidzalowa moyo wosatha ndi kuchita chiyani ?
+42010026a	chiyani		Ndipo adati kwa iye , M’chilamulo mulembedwa chiyani ? 
+42010026b	bwanji		Uwerenga bwanji ?
+42010029	ndani		Koma iye , pofuna kudziyesa wolungama yekha , adati kwa Yesu , Ndipo m’nansi wanga ndani ?
+42010036a	~		
+42010036b	uti		Uti wa awa atatu , uyesa iwe , adakhala m’nansi wa iye uja adagwa m’manja mwa achifwamba ?
+42011008	~		Ndinena ndi inu , ngakhale sadzauka ndi kumpatsa , chifukwa ali bwenzi lake , koma chifukwa cha liwuma lake adzauka nadzampatsa iye ziri zonse azifuna .
+42011011	ndani		Ndipo ndani wa inu ali atate , mwana wake akadzampempha mkate , kodi adzampatsa mwala ? Kapena nsomba , nadzam’ninkha njoka m’malo mwa nsomba kodi ?
+42011012	~		Kapena akadzampempha dzira kodi adzampatsa chinkhanira ?
+42011013	kotani		Potero inu , ngati inu , wokhala woyipa , mudziwa kupatsa ana anu mphatso zabwino , koposa kotani nanga Atate wanu wa Kumwamba adzapatsa Mzimu Woyera kwa iwo akumpempha Iye ?
+42011018	bwanji		Ndiponso ngati satana agawanika kudzitsutsa mwini , udzayima bwanji Ufumu wake ? Popeza munena kuti nditulutsa ziwanda ndi belezebule .
+42011019	yani		Ndipo ngati Ine ndimatulutsa ziwanda ndi belezebule , ana anu azitulutsa ndi yani ? Mwa ichi iwo adzakhala woweruza anu .
+42012014	ndani		Ndipo adati kwa iye , Munthu iwe , ndani adandiyika Ine ndikhale woweruza , kapena wogawira inu ?
+42012017	Ndidzatani		Ndipo adaganizaganiza mwa yekha , nanena , Ndidzatani ine , popeza ndiribe mosungiramo zipatso zanga ?
+42012020	za yani		Koma Mulungu adati kwa iye , Wopusa iwe , usiku womwe uno udzafunidwa moyo wako ; ndipo zinthu zimene udazisunga zidzakhala za yani ?
+42012024	~		Lingilirani makungubwe , kuti samafesayi , kapena kutemayi , alibe nyumba yosungiramo , kapena nkhokwe ; ndipo Mulungu amawadyetsa : nanga inu simuziposa mbalame kwambiri ?
+42012025	ndani		Ndipo ndani wa inu , ndi kuda nkhawa angathe kuwonjeza mkono pa msinkhu wake ?
+42012026	muderanji		Kotero ngati simungathe ngakhale chaching’onong’ono , muderanji nkhawa chifukwa cha zina zija ?
+42012042	Ndani		Ndipo Ambuye adati , Ndani tsono ali mdindo wokhulupirika ndi wa nzeru , amene mbuye wake adzamuyika kapitawo wa pa banja lake , kuwapatsa iwo phoso lawo pa nthawi yake ?
+42012049	ndifunanji		Ine ndinadzera kuponya moto pa dziko lapansi ; ndipo ndifunanji ngati udatha kuyatsidwa ?
+42012056	bwanji		Wonyenga inu , mudziwa kuzindikira nkhope yake ya dziko lapansi ndi ya thambo ; koma simudziwa bwanji kuzindikira nyengo yino ?
+42012057	mulekeranji		Ndipo inunso , pa nokha mulekeranji kuweruza kolungama ?
+42013004	~		Kapena aja khumi ndi asanu ndi atatu , amene nsanja yayitali ya m’Siloamu idawagwera , ndi kuwapha ; kodi muyesa kuti iwo adali wochimwa koposa anthu onse wokhala m’Yerusalemu ?
+42013007	uyeseranjinso		Ndipo adati kwa wosungira munda wa mphesa , Tawona , zaka zapita zitatu ndimadza ine kudzafuna chipatso pa mtengo wa mkuyu uwu ; ndipo ndimapeza palibe : tawulikha ; uyeseranjinso nthaka yopanda pake ?
+42013015	~		Koma Ambuye adamyankha iye , nati Wonyenga iwe , kodi munthu aliyense wa inu samayimasula ng’ombe yake , kapena bulu wake kuchodyeramo , tsiku la Sabata , kupita nayo kukayimwetsa madzi ?
+42013018a	chiyani		Pamenepo Iye adanena , Ufumu wa Mulungu ufanana ndi chiyani ? 
+42013018b	chiyani		Ndipo ndidzaufanizira ndi chiyani ?
+42013020	chiyani		Ndiponso Iye adati , Ndidzafanizira Ufumu wa Mulungu ndi chiyani ?
+42013025	~		Pamene atawuka mwini nyumba natseka pakhomo , ndipo inu mudzayamba kuyima pabwalo , ndi kugogoda pachitseko , ndi kunena , Ambuye titsegulireni ife ; ndipo Iye adzayankha nadzati kwa inu ; sindidziwa inu kumene muchokerako :
+42014005	Ndani		Ndipo adati kwa iwo , Ndani wa inu bulu wake kapena ng’ombe yake itagwa m’chitsime , ndipo sadzayitulutsa pomwepo tsiku la Sabata kodi ?
+42014028	ndani		Pakuti ndani wa inu amene akufuna kumanga nsanja yayitali , sayamba wakhala pansi , nawerengera mtengo wake , awone ngati ali nazo zakuyimaliza ?
+42014031	yanji		Kapena mfumu yanji pakupita kukomana ndi nkhondo ya mfumu imzake , siyiyamba yakhala pansi , nafunsana ndi akulu ngati akhoza ndi asilikari ake zikwi khumi kulimbana naye wina uja alikudza kukomana naye ndi asilikari zikwi makumi awiri ?
+42014034	chiyani		Mchere ndi wa bwino ; koma ngati mchere usukuluka adzaukoleretsa ndi chiyani ?
+42015004	ndani		Munthu ndani wa inu , ali nazo nkhosa makumi khumi , ndipo pakutayika imodzi ya izo , sasiya nanga m’chipululu zinazo makumi asanu ndi anayi mphambu zisanu ndi zinayi , nalondola yotaikayo , kufikira atayipeza ?
+42015008	wanji		Kapena mkazi wanji ali nazo ndalama za siliva khumi , ngati itayika imodzi , sayatsa nyali , nasesa m’nyumba yake , nafunafuna chisamalire kufikira atayipeza ?
+42015026	nzotani		Ndipo iye adayitana m’modzi wa mtumiki , namfunsa , zinthu izi nzotani ?
+42015029	~		Koma iye adayankha nati kwa atate wake , Onani , ine ndidakhala mtumiki wanu zaka zambiri zotere , ndipo sindidalakwira lamulo lanu nthawi ili yonse ; ndipo simunandipatsa ine kamodzi konse mwana wa mbuzi , kuti ndisekere ndi abwenzi anga .
+42016002	chiyani		Ndipo adamuyitana , nati kwa iye , Ichi ndi chiyani ndikumva za iwe ? Undiwerengere za ukapitawo wako , pakuti sungathe kukhalabe kapitawo .
+42016003	chiyani		Ndipo kapitawo uyu adati mumtima mwake , ndidzachita chiyani , chifukwa mbuye wanga wandichotsera ukapitawo ? Kulima ndiribe mphamvu , kupemphapempha kundichititsa manyazi .
+42016005	chiyani		Ndipo adadziyitanira m’modzi ndi m’modzi amangawa onse a mbuye nati kwa woyamba , udakongola chiyani kwa mbuye wanga ?
+42016007	wotani		Pomwepo adati kwa wina , ndipo iwe uli nawo mangawa wotani ? Ndipo uyu adati ; Mitanga ya tirigu zana . Iye adanena naye , Tenga kalata wako nulembere makumi asanu ndi atatu .
+42016011	ndani		Chifukwa chake ngati simukhala wokhulupirika m’chuma chosalungama , adzakhulupirira inu ndani ndi chuma chowona ?
+42016012	ndani		Ndipo ngati simudakhala wokhulupirika ndi zake za wina , adzakupatsani inu ndani za inu eni ?
+42017007	ndani		Koma ndani mwa inu ali naye mtumiki wolima , kapena woweta nkhosa , amene pobwera iye kuchokera kumunda adzanena kwa iye , Lowa tsopano , khala pansi udye ;
+42017017	kuti		Ndipo Yesu adayankha nati , Kodi sadakonzedwa khumi ? Koma ali kuti asanu ndi anayi aja ?
+42017018	~		Sadapezeka wobwera kudzalemekeza Mulungu koma mulendo uyu yekha .
+42017020	liti		Ndipo pamene Afarisi adamfunsa Iye , kuti Ufumu wa Mulungu ukudza liti ; adawayankha , nati , Ufumu wa Mulungu sukudza ndi mawonekedwe ;
+42017037	kuti		Ndipo iwo adayankha nanena kwa Iye , kuti Ambuye ? Ndipo adati kwa iwo kumene kulikonse kuli mtembo , pomweponso mbalame za miyimba zidzasonkhana .
+42018018	chiyani		Ndipo mkulu wina adamfunsa Iye , nanena , Mphunzitsi wabwino , ndizichita chiyani , kuti ndilowe moyo wosatha ?
+42018019	bwanji		Koma Yesu adati kwa iye , Unditcha Ine wabwino bwanji , palibe wabwino , koma m’modzi , ndiye Mulungu .
+42018026	ndani		Koma akumvawo adati , Tsono ndani angathe kupulumutsidwa ?
+42018036	nchiyani		Ndipo pakumva khamu la anthu alimkupita , adafunsa ; Ichi nchiyani ?
+42018041	chiyani		Nanena , ufuna ndikuchitire chiyani ? Ndipo iye adati , Ambuye , kuti ndipenyenso .
+42019007	~		Ndipo m’mene adachiwona adang`ung`udza onse , nanena , Adalowa amchereze munthu ali wochimwa .
+42019023	bwanji		Ndipo sudapereka bwanji ndalama yanga pokongoletsa , ndipo ine pakudza ndikadayitenga ndi phindu lake ?
+42019031	mum’masuliranji		Ndipo munthu akati kwa inu , mum’masuliranji ? Mudzatero naye , Ambuye amfuna iye .
+42019033	mum’masuliranji		Ndipo pamene adamasula mwana wa bulu , eni ake adati kwa iwo , Mum’masuliranji mwana wa bulu ?
+42020002a	wotani		Ndipo iwo adati kwa Iye , nanena , Mutiwuze muchita izi ndi ulamuliro wotani ? 
+42020002b	ndani		Kapena ndani iye amene adakupatsani ulamuliro umenewu ?
+42020005a	~		Ndipo adakambirana mwa wokha , nanena , Ngati tinena udachokera Kumwamba ; 
+42020005b	chifukwa ninji		adzati , simudamkhulupilira chifukwa ninji ?
+42020013	chiyani		Ndipo adati mwini mundawo , Ndidzachita chiyani ? Ndidzatumiza mwana wanga amene ndikondana naye ; kapena adzamchitira iye ulemu .
+42020015	chiyani		Ndipo adamponya kunja kwa mundawo , namupha . Pamenepo mwini munda wamphesawo adzawachitira chiyani ?
+42020017	Nchiyani		Koma Iye adawapenyetsetsa iwo , nati , Nchiyani ichi chidalembedwa , Mwala umene womanga nyumba adawukana , womwewo udakhala mutu wa pangodya .
+42020023	Chifukwa chiyani		Koma Iye adazindikira Chinyengo chawo , nati kwa iwo , chifukwa chiyani mukundiyesa ?
+42020024a	nchayani		Tandiwonetsani Ine khobiri . Chithunzithunzi ndi cholemba chake nchayani ? Adati iwo , cha Kayisala .
+42020024b	~		
+42020033	wayani		Chotero pa kuwuka kwa akufa iye adzakhala mkazi wayani wa iwo ? Pakuti asanu ndi awiriwo adamkwatira iye .
+42020041	bwanji		Koma Iye adati kwa iwo , Amanena bwanji kuti Khristuyo ndiye Mwana wa Davide ?
+42020044	bwanji		Chotero Davide adamtchula Iye Ambuye , ndipo nanga ali mwana wake bwanji ?
+42021007a	liti		Ndipo iwo adamfunsa Iye , nati , Mphunzitsi , nanga zinthu izi zidzawoneka liti ? 
+42021007b	chiyani		Ndipo chizindikiro chake ndi chiyani pamene izi ziti zidzachitike ?
+42022009	kuti		Ndipo iwo adanena naye , Mufuna tikakonzere kuti ?
+42022011	kuti		Ndipo mukanene kwa mwini nyumba wabwinoyo , Mphunzitsi anena nawe , chipinda cha alendo chiri kuti , m’mene ndikadye Paskha pamodzi ndi wophunzira anga ?
+42022027	ndani		Pakuti wamkulu ndani , iye wakukhala pachakudya kapena wotumikirapo ? Si ndiye wakukhala pachakudya kodi ? Koma Ine ndiri pakati pa inu monga ngati wotumikira .
+42022046	Mugoneranji		Ndipo Iye adati kwa iwo , Mugoneranji ? Dzukani , pempherani kuti mungalowe m’kuyesedwa .
+42022064	ndani		Ndipo adamkulunga Iye m’maso nampanda Iye kumaso namfunsa , nati ; Nenera wakupanda Iwe ndani ?
+42022071	Tifuniranjinso		Ndipo iwo adati , Tifuniranjinso mboni ? Pakuti ife tokha tamva m’kamwa mwa Iye mwini .
+42023022a	~		Ndipo iye adati kwa iwo nthawi yachitatu , 
+42023022b	chanji		Nanga munthuyu adachita choyipa chanji ? Sindinapeza chifukwa cha kufera Iye ; chotero ndidzamkwapula Iye ndi kum’masula .
+42023031	kudzatani		Pakuti ngati azichitira izi mtengo wauwisi , nanga kudzatani ndi wouma ?
+42024005	Mufuniranji		Ndipo m’mene adakhala ndi mantha naweramira pansi nkhope zawo , adati kwa iwo , Mufuniranji wa moyo pakati pa akufa ?
+42024017	wotani		Ndipo Iye adati kwa iwo , Mawu awa ndi wotani muli kukambirana wina ndi mzake pamene mukuyenda ndi chisoni ? Ndipo adayima ndi nkhope zawo zachisoni .
+42024019	zanji		Ndipo Iye adati kwa iwo , zinthu zanji ? Ndipo adati kwa Iye , Izi za Yesu Mnazarete , ndiye munthu m’neneri wamphamvu m’ntchito , ndi m’mawu , pamaso pa Mulungu ndi anthu onse ;
+42024025	~		Ndipo Iye adati kwa iwo , Opusa inu , ndi wozengereza mtima kusakhulupirira zonse adaziyankhula aneneri !
+42024038a	bwanji		Ndipo Iye adati kwa iwo , Mukhala bwanji wobvutika ? 
+42024038b	bwanji		Ndipo mtsutso wanu uwuka bwanji m’mitima mwanu ?
+43001019	yani		Ndipo uwu ndiwo umboni wa Yohane , pamene Ayuda adatuma ansembe ndi alembi aku Yerusalemu ankamfunse iye , Ndiye yani ?
+43001021	bwanji		Ndipo adamfunsa iye , Nanga bwanji ? Ndiwe Eliya kodi ? Nanena iye , sindine . Ndiwe Mneneriyo kodi ? Nayankha Iyayi .
+43001022a	yani		Chifukwa chake adati kwa iye , Ndiwe yani ? 
+43001022b	chiyani		Kuti tibwezere mawu kwa iwo adatituma ife unena chiyani za iwe wekha ?
+43001025	bwanji		Ndipo adamfunsa iye , nati kwa iye , nanga ukubatiza bwanji , ngati suli Khristu , kapena Eliya , kapena Mneneriyo ?
+43001038a	chiyani		Koma Yesu adachewuka , napenya iwo alikumtsata , nanena nawo , Mufuna chiyani ? 
+43001038b	kuti		Ndipo adati kwa Iye , Rabi ( ndiko kutanthauza , Mphunzitsi ) , mumakhala kuti ?
+43001046	~		Natanayeli adati kwa iye , ku Nazarete mkutha kuchokera kanthu kabwino kodi ? Filipo adanena naye , Tiye ukawone .
+43001048	kuti		Natanayeli adanena naye , Mudandidziwira kuti ? Yesu adayankha nati kwa iye , Asadakuyitane Filipo , pokhala iwe pansi pa mtengo wa mkuyu paja , ndidakuwona iwe .
+43002004	chiyani		Yesu adanena naye , mkazi , ndiri ndi chiyani ndi inu ? Nthawi yanga sidafike .
+43002018a	~		Ndipo Ayuda adayankha nati kwa Iye , 
+43002018b	chanji		Mutiwonetsera ife chizindikiro chanji , pakuti muchita izi ?
+43003004	bwanji		Nikodemo adanena kwa Iye , munthu akhoza bwanji kubadwa atakalamba ? Kodi akhoza kulowanso kachiwiri m’mimba ya amake ndi kubadwa ?
+43003009	bwanji		Nikodemo adayankha nati kwa iye , izi zingatheke bwanji ?
+43003012	bwanji		Ngati ndakuwuzani za pansi pano , ndipo simukhulupirira , mudzakhulupirira bwanji , ngati ndikuwuzani za kumwamba ?
+43004009	Bwanji		Pamenepo mkazi wa ku Samariyayo adanena ndi Iye , Bwanji Inu , muli m’Yuda , mupempha kwa ine kumwa , ndine mkazi Msamariya ? Pakuti Ayuda sayenderana nawo a Samariya .
+43004011	kuti		Mkaziyo adanena ndi Iye , Ambuye , mulibe chotungira madzi , ndi chitsime chiri chakuya ; ndipo mwatenga kuti madzi a moyo ?
+43004027a	chiyani		Ndipo pamenepo adabwera ophunzira ake nazizwa kuti adalimkulankhula ndi mkazi ; koma panalibe wina adati , Mukufuna chiyani ? 
+43004027b	chiyani		Kapena , mukulankhula naye chiyani ?
+43005012	ndani		Ndipo iwo adamfunsa , Munthuyo ndani wonena ndi iwe . Yalula mphasa yako nuyende .
+43005044	bwanji		Mungathe inu bwanji kukhulupirira , popeza mulandira ulemu wina kwa mzake ndipo ulemu wochokera kwa Mulungu yekha simuwufuna ?
+43005047	bwanji		Koma ngati simukhulupirira malembo a iyeyu , mudzakhulupirira bwanji mawu anga ?
+43006005	kuti		Pamenepo Yesu pokweza maso ake ndi kuwona kuti khamu lalikulu lirimkudza kwa Iye , adanena kwa Filipo , Tidzagula kuti mikate kuti adye awa ?
+43006009	bwanji		Pali m’nyamata pano , amene ali nayo mikate isanu yabalere , ndi tinsomba tiwiri ; koma nanga izi zikwanira bwanji ambiri otere ?
+43006025	liti		Ndipo pamene adampeza Iye tsidya lina la nyanja , adati kwa Iye , Rabi , munadza kuno liti ?
+43006028	chiyani		Pamenepo adati kwa Iye , Tichite chiyani , kuti tichite ntchito za Mulungu ?
+43006030a	chanji		Chifukwa chake adati kwa Iye , Ndipo muchita chizindikiro chanji , kuti tiwone ndi kukhulupirira Inu ?
+43006030b	~		
+43006042	bwanji		Ndipo iwo adanena , Si Yesu uyu mwana wa Yosefe , atate wake ndi amayi wake tiwadziwa ? Anena bwanji tsopano , kuti , Ndidatsika Kumwamba ?
+43006052	bwanji		Pamenepo Ayuda adatetana wina ndi mzake ndi kunena , Akhoza bwanji ameneyu kutipatsa ife kudya thupi lake ?
+43006060	ndani		Pamenepo ambiri akuphunzira ake pakumva izi , adati , Mawu awa ndi wosautsa ; akhoza kumva awa ndani ?
+43006062	bwanji		Nanga bwanji mukadzawona Mwana wa Munthu alikukwera kumene adali kale lomwe ?
+43006068	yani		Simoni Petro adamuyankha Iye , Ambuye , tidzapita kwa yani ? Inu muli nawo mawu a moyo wosatha .
+43007011	kuti		Pomwepo Ayuda adalikumfuna Iye paphwando , nanena , Ali kuti uja ?
+43007015	bwanji		Chifukwa chake Ayuda adazizwa , nanena , Ameneyu adziwa bwanji zolemba , koma wosaphunzira .
+43007019	Chifukwa chiyani		Si Mose kodi adakupatsani chilamulo , ndipo palibe m’modzi mwa inu achita chilamulo ? Mufuna kundipha Ine chifukwa chiyani ?
+43007020	ndani		Anthu adayankha nati , Muli ndi chiwanda : ndani afuna kukuphani Inu ?
+43007023	~		Ngati munthu alandira mdulidwe tsiku la sabata , kuti chilamulo cha Mose chingapasulidwe ; kodi mundikwiyira Ine , chifukwa ndamchiritsadi munthu tsiku lasabata ?
+43007035	kuti		Chifukwa chake Ayuda adati mwa iwo wokha , Adzapita kuti uyu kuti ife sitikampeza Iye ? Kodi adzapita kwa Amitundu wobalalikawo , ndi kuphunzitsa Amitunduwo ?
+43007036	wotani		Mawu awa amene adanena ndi wotani , Mudzandifunafuna osandipeza Ine ; ndipo komwe ndiri Ine , inu simungathe kudzako ?
+43007041	~		Ena adanena , Uyu ndi Khristu . Koma ena adanena , kodi Khristu abwera kutuluka mu Galileya ?
+43007045	bwanji		Pamenepo asilikariwo anadza kwa ansembe akulu ndi Afarisi ; ndipo iwowa adati kwa iwo , simudamtenga Iye bwanji ?
+43007048	~		Kodi wina wa olamulira kapena wa Afarisi adakhulupirira Iye . ?
+43007051	~		Kodi chilamulo chathu chiweruza munthu , osayamba kumva iye , ndi kuzindikira chimene akuchita ?
+43008005	chiyani		Koma m’chilamulo Mose adatilamulira , tiwaponye miyala otere . Nanga Inu munena chiyani za iye ?
+43008010	kuti		Koma pamene Yesu adaweramuka , adati kwa iye , Mkazi iwe , ali kuti aja adakutsutsa ? Palibe munthu adakutsutsa kodi ?
+43008019	kuti		Chifukwa chake adanena ndi Iye , Ali kuti Atate wanu ? Yesu adayankha , simudziwa , kapena Ine , kapena Atate wanga ; mukadadziwa Ine , mukadadziwanso Atate wanga .
+43008025a	yani		Pamenepo adanena kwa Iye , Ndinu yani ? Yesu adati kwa iwo , chimene ndidalankhulanso ndi inu kuyambira pa chiyambi .
+43008025b	~		
+43008033	bwanji		Adamuyankha Iye , tiri mbewu ya Abrahamu , ndipo sitidakhala akapolo a munthu nthawi ili yonse ; munena bwanji , Mudzayesedwa a ufulu ?
+43008043	Chifukwa chiyani		Simuzindikira malankhulidwe anga chifukwa chiyani ? Chifukwa simungathe kumva mawu anga .
+43008046a	ndani		Ndani mwa inu anditsutsa Ine za tchimo ? 
+43008046b	chifukwa chiyani		Ndipo ngati Ine ndinena chowonadi , simukhulupirira Ine chifukwa chiyani ?
+43008053	yani		Kodi Inu ndinu wamkulu ndi atate wathu Abrahamu , amene adamwalira ? Ndi aneneri adamwalira : mudziyesera nokha muli yani ?
+43008057	~		Ayuda pamenepo adati kwa Iye , Inu simudafikire zaka makumi asanu , ndipo inu mudawona Abrahamu kodi ?
+43009002	ndani		Ndipo wophunizra ake adamfunsa Iye , nanena , Mphunzitsi , adachimwa ndani mwini wake , makolo ake , kuti adabadwa wosawona ?
+43009010	bwanji		Pamenepo adanena ndi iye , Nanga maso ako adatseguka bwanji ?
+43009012	kuti		Ndipo adati kwa iye , Ali kuti Iyeyo ? Adati , sindikudziwa ine .
+43009016	bwanji		Choncho ena mwa Afarisi adanena , Munthu uyu sadachokere kwa Mulungu , chifukwa sasunga tsiku la sabata . Koma ena adanena , Ngati munthu ali wochimwa akhoza bwanji kuchita zozizwitsa zotere ? Ndipo padali kugawanikana pakati pa iwo .
+43009017	unenanji		Ndipo adanenanso kwa wosawonayo , Iwe unenanji za Iye ? Pakuti adakutsegulira maso ako . Iye adati , Ali m`neneri .
+43009019	bwanji		Ndipo adawafunsa iwo , nanena kodi uyu ndi mwana wanu , amene inu munena kuti anabadwa wosawona ? Ndipo apenya bwanji tsopano ?
+43009026a	chiyani		Pamemnepo adati kwa iye , Anakuchitira iwe chiyani ? 
+43009026b	motani		Adatsegula motani iye maso ako ?
+43009027	bwanji		Iye adayankha iwo , Ndidakuwuzani kale , ndipo simudamva ; mufuna kumvanso bwanji ? Kodi inunso mufuna kukhala wophunzira ake ?
+43009034	~		Adayankha nati kwa iye , Wobadwa iwe konse m`zoipa , ndipo iwe utiphunzitse ife kodi ? Ndipo adamponya kunja .
+43009036	Ndani		Iyeyu adayankha nati , Ndani Iye , Ambuye , kuti ndimkhulupirire Iye ?
+43010020	bwanji		Ndipo ambiri mwa iwo adanena , Ali ndi chiwanda , nachita misala ; mukumvera Iye bwanji ?
+43010021	~		Ena adanena , Mawu awa sali a munthu wogwidwa chiwanda . Kodi chiwanda chikhoza kumtsegulira maso wosawona ?
+43010024	liti		Pamenepo Ayuda anadza namzungulira Iye , nanena ndi Iye , kufikira liti musinkhitsasinkhitsa moyo wathu ? Ngati Inu ndinu Khristu , tiwuzeni momveka .
+43010032	yiti		Yesu adayankha iwo , Ndakuwonetsani ntchito zabwino zambiri za kwa Atate ; chifukwa cha ntchito yiti ya izo mundiponya miyala Ine ?
+43010036	~		Kodi inu munena za Iye , amene Atate adampatula namtuma kudziko lapansi , Uchita mwano ; chifukwa ndidati , ndiri Mwana wa Mulungu ?
+43011034	kuti		Adati , Mwamuyika kuti iye ? Adanena ndi Iye , Ambuye , tiyeni , mukawone .
+43011047	Titani		Pamenepo ansembe akulu , ndi Afarisi adasonkhanitsa akulu , nanena , Titani ife ? Chifukwa munthu uyu akuchita zozizwitsa zambiri !
+43011056	bwanji		Pamenepo adali kumfuna Yesu , nanena wina ndi mzake poyimilira iwo m’kachisi , Muyesa bwanji inu , sadzabwera kuphwando kodi ?
+43012005	Bwanji		Bwanji mafuta wonunkhirawa sadagulitsidwe ndi makobiri mazana atatu , ndi kuwapatsa wosauka ?
+43012027	chiyani		Moyo wanga wabvutika tsopano ; ndipo ndidzanena chiyani ? Atate , ndipulumutseni Ine kunthawi iyi . Koma chifukwa cha ichi ndidadzera nthawi iyi .
+43012034a	bwanji		Anthu adayankha Iye , Tidamva ife m’chilamulo kuti Khristu akhalakunthawi yonse ; ndipo Inu munena bwanji kuti Mwana wa Munthu ayenera kukwezedwa ? 
+43012034b	ndani		Mwana wa Munthu ameneyu ndani ?
+43012038a	ndani		Kuti mawu a Yesaya m’neneri akakwaniritsidwe , amene adati , Ambuye , wakhulupirira ndani kulalikira kwathu ? 
+43012038b	yani		Ndipo mkono wa Ambuye wabvumbulukira kwa yani ?
+43013025	yani		Iyeyu potsamira pomwepo , pa chifuwa cha Yesu , adanena ndi Iye , Ambuye , ndiye yani ?
+43013036	kuti		Simoni Petro adanena ndi Iye , Ambuye mupita kuti ? Yesu adayankha , Kumene ndipita sungathe kunditsata Ine tsopano ; koma udzanditsata pambuyo pake .
+43013037	chifukwa ninji		Petro adanena ndi Iye , Ambuye , sindingathe kukutsatani Inu tsopano chifukwa ninji ? Ndidzataya moyo wanga chifukwa cha Inu .
+43014002	~		M’nyumba ya Atate wanga alimo malo okhalamo ambiri . Ngati sikudali kutero , ndikadakuwuzani inu ; pakuti ndipita kukakukonzerani inu malo .
+43014005	bwanji		Tomasi adanena ndi Iye , Ambuye , sitidziwa kumene mukupita ; tidziwa njira bwanji ?
+43014009	bwanji		Yesu adanena naye , kodi ndiri ndi inu nthawi yayikulu yotere , ndipo sudandizindikira , Filipo ? Iye amene wandiona Ine wawona Atate ; unena iwe bwanji , Mutiwonetsere Atate ?
+43014022	chiyani		Yudasi , amene sindiye Isikariyote , adanena ndi Iye , Ambuye , chachitika chiyani kuti muziti mudziwonetsa nokha kwa ife , koma sikwa dziko lapansi ?
+43016005	kuti		Koma tsopano ndipita kwa Iye wondituma Ine ; ndipo palibe wina mwa inu andifunsa Ine , Mupita kuti ?
+43016017	chiyani		Pamenepo wophunzira ake tsono adati mwa iwo wokha , Ichi chiyani chimene anena kwa ife , kanthawi ndipo simundiwona ; ndipo kanthawi mudzandiwona chifukwa ndipita kwa Atate ?
+43016018	n’chiyani		Chifukwa chake adanena , Ichi n’chiyani chimene anena , kanthawi ? Sitidziwa chimene ayankhula .
+43018004	yani		Pamenepo Yesu , podziwa zinthu zonse ziri nkudza pa Iye , adatuluka nati kwa iwo , Mufuna yani ?
+43018007	yani		Pamenepo adawafunsanso , Mufuna yani ? Ndipo iwo adati , Yesu Mnazarete .
+43018011	~		Pamenepo Yesu adati kwa Petro , Longa lupanga m’chimake chake ; chikho chimene Atate wandipatsa Ine sindiyenera kumwera ichi kodi ?
+43018021	Undifunsiranjis		Undifunsiranji Ine ? Funsa iwo amene adamva chimene ndidayankhula nawo , tawona , amenewo adziwa chimene ndidanena Ine .
+43018023	undipandiranji		Yesu adayankha iye , Ngati ndayankhula choyipa , chitira umboni wa choyipacho , koma ngati bwino , undipandiranji ?
+43018029	chanji		Ndipo Pilato adatulukira kunja kwa iwo , nati , chifukwa chanji mwadza nacho cha munthu uyu ?
+43018035	chiyani		Pilato adayankha , Ndiri Myuda kodi ? Mtundu wako ndi ansembe akulu adakupereka kwa ine ; wachita chiyani ?
+43018038	chiyani		Pilato adanena kwa Iye , chowonadi ndi chiyani ? Ndipo pamene adanena ichi , adatulukiranso kwa Ayudawo , nanena nawo , Ine sindikupeza chifukwa chiri chonse mwa Iye .
+43019009	kuti		Ndipo adalowanso ku nyumba ya chiweruzo , nanena kwa Yesu , Muchoka kuti ? Koma Yesu sadamyankha kanthu .
+43019015	~		Pamenepo adafuwula iwowa , Chotsani , chotsani , mpachikeni Iye ! Pilato adanena nawo , Ndipachike Mfumu yanu kodi ? Ansembe akulu adayankha , tiribe mfumu koma Kayisala .
+43020013	uliranji		Ndipo iwowa adanena kwa iye , Mkazi , uliranji ? Adanena nawo , chifukwa adachotsa Ambuye wanga , ndipo sindidziwa kumene adamuyika Iye .
+43020015a	Uliranji		Yesu adanena naye , Mkazi , Uliranji ? 
+43020015b	yani		Ufuna yani ? Iyeyu poyesa kuti ndiye wakumanda adanena ndi Iye , Mbuye ngati mwamunyamula Iye , ndiwuzeni kumene mwamuyika Iye , ndipo ndidzamchotsa .
+43021012	yani		Yesu adanena nawo , Idzani mudye . Koma palibe m’modzi wa wophunzira adatha kumfunsa Iye , ndinu yani ? Podziwa kuti ndiye Ambuye .
+43021020	Ndani		Petro m’mene adachewuka , adapenya wophunzira amene Yesu adamkonda alikutsata , amenenso adatsamira pachifuwa pake pamgonero , nati , Ambuye , Ndani iye wakupereka Inu ?
+43021021	bwanji		Pamenepo Petro pakumuwona , adanena kwa Yesu , Ambuye , zidzakhala bwanji ndi munthu uyu ?
+43021022	chiyani		Yesu adanena naye , ngati ndifuna uyu akhale kufikira ndidza Ine , kuli chiyani ndi iwe ? Nditsate Ine .
+43021023	chiyani		Chifukwa chake mawu awa adatuluka kufikira kwa abale , kuti wophunzira uyu sadzafa ; koma Yesu sadanena kwa iye kuti sadzafa . Koma ngati ndifuna iye akhale kufikira ndidza , kuli chiyani ndi iwe ?
+44001011	muyimiranji		Amenenso adati ; Amuna inu a ku Galileya , muyimiranji ndi kuyang’ana Kumwamba ? Yesu amene walandiridwa kumka Kumwamba kuchokera kwa inu , adzabwera momwemo monga mudamuwona ali mkupita Kumwamba .
+44002008	bwanji		Ndipo nanga , ife tikumva bwanji munthu aliyense , m’chiyankhulidwe chathu chimene tinabadwa nacho ?
+44002012	n’chiyani		Ndipo anadabwa onse , nathedwa nzeru , nanena wina ndi mzake , kodi ichi n’chiyani ?
+44002037	chiyani		Koma pamene adamva ichi , adalaswa mtima , natitu kwa Petro ndi atumwi enawo , Tidzachita chiyani , amuna inu , abale ?
+44003012a	bwanji		Koma m’mene Petro adachiwona , adayankha kwa anthu , Amuna inu a Israyeli , muzizwa naye bwanji ameneyo ? 
+44003012b	bwanji		Kapena mutipenyetsetsa ife bwanji , monga ngati tamuyendetsa iye ndi mphamvu yathu , kapena ndi chiyero ndi chipembedzo chathu ?
+44004007a	~		Ndipo m’mene adawayimika pakati , adafunsa kuti , 
+44004007b	yanji		Ndi mphamvu yanji , 
+44004007c	l- anji		kapena m’dzina lanji , mwachita ichi inu ?
+44004016	chiyani		Nanena kuti , Tidzawachitira chiyani anthu awa ? Pakutitu chawoneka kwa onse akukhala m’Yerusalemu kuti chizindikiro chozindikirika chachitidwa ndi iwo , ndipo sitingathe kukana .
+44004025a	asokoseranji		Amene mwa pakamwa pa Davide mtumiki wanu , mudati , Amitundu asokoseranji ndi anthu alingilira zopanda pake ?
+44004025b	~		
+44005003	chifukwa ninji		Koma Petro adati , Hananiya , Satana adadzaza mtima wako chifukwa ninji kudzanyenga Mzimu Woyera , kupatula pa mtengo wake wa mundawo ?
+44005004	Bwanji		Pamene udali nawo sudali wako kodi ? Ndipo pamene udawugulitsa sudali m’manja mwako kodi ? Bwanji chidalowa ichi mumtima mwako ? sudanyenga anthu , komatu Mulungu .
+44005009	bwanji		Pamenepo Petro adati kwa iye , mudapangana pamodzi bwanji kuyesa Mzimu wa Ambuye ? Tawona , mapazi awo a iwo amene adayika mwamuna wako ali pakhomo , ndipo adzakunyamula kutuluka nawe .
+44007026	bwanji		Ndipo m’mawa mwake adawawonekera alikulimbana ndewu , ndipo adafuna kuti , awayanjanitsenso , nati , Amuna inu , muli abale ; muchitira choyipa bwanji ?
+44007027	ndani		Koma iye wakumchitira mzake choyipa adamkankha , nati , Wakuyika iwe ndani mkulu ndi wotiweruza ?
+44007035	ndani		Mose uyu amene adamkana , ndi kuti , Wakuyika iwe ndani mkulu ndi wotiweruza ? Ameneyo Mulungu adamtuma akhale mkulu , ndi mombolo , ndi dzanja la m’ngelo womuwonekera pachitsamba .
+44007049a	yotani		Thambo la Kumwamba ndilo mpando wachifumu wanga , ndi dziko lapansi chopondapo mapazi anga ; mudzandimangira nyumba yotani ? 
+44007049b	wotani		Ati Ambuye , kapena malo a mpumulo wanga ndi wotani ?
+44007052	yani		Ndiye yani wa aneneri amene makolo anu sadamzunza ? Ndipo adawapha iwo amene adawonetseratu za kudza kwake kwa Wolungamayo ; wa Iye amene mwakhala tsopano akumpereka ndi akumupha :
+44008031	bwanji		Ndipo iye adati , Ndingathe bwanji , popanda munthu wonditsogolera ine ? Ndipo adapempha Filipo akwere nakhale naye .
+44008033	ndani		M’kuchepetsedwa kwake chiweruzo chake chidachotsedwa ; m’bado wake adzawubukitsa ndani ? Chifukwa wachotsedwa kudziko moyo wake .
+44008034	yani		Ndipo mdindoyo adayankha Filipo , nati , Ndikupemphani m’neneri anena ichi za yani ? Za yekha kapena za munthu wina ?
+44008036	chiyani		Ndipo monga adapita panjira pawo , adadza kumadzi ena ; ndipo mdindoyo adati , Tawonapo pano pali madzi ; chindiletsa ine chiyani ndisabatizidwe ?
+44009004	undinzunziranji		Ndipo adagwa pansi , namva mawu akunena naye , Saulo , Saulo , undinzunziranji Ine ?
+44009005	yani		Koma iye adati , Ndinu yani Ambuye ? Ndipo adati , Ndine Yesu amene umnzunza . Ndikobvuta kwa iwe kumenyana ndi zisonga zakuthwa kwambiri .
+44009006	, chimene		Ndipo iye adanthunthumira ndikudabwa nati , Ambuye , kodi mufuna kuti ine ndichite chiyani ? Ndipo Ambuye adati kwa iye , Uka , nulowe m’mudzi , ndipo kudzanenedwa kwa iwe chimene uyenera kuchita .
+44010004	Nchiyani		Ndipo pompenyetsetsa iye ndi kuwopa , adati , Nchiyani , Mbuye ? Ndipo adati kwa iye , mapemphero ako ndi zachifundo zako zidakwera zikhala chikumbutso pamaso pa Mulungu .
+44010021	chiyani		Pamenepo Petro adatsikira kwa anthuwo amene adatumizidwa kwa iye ndi Korneliyo , nati , Tawonani , ine ndine mumfuna ; chifukwa chake mwadzera chiyani ?
+44010029	mwandiyitaniranji		Chifukwa chakenso ndidadza wosakana , m’mene mudatuma kundiyitana . Pamenepo ndifunsa , mwandiyitaniranji ?
+44010047	~		Kodi pali munthu akhoza kuletsa madzi , kuti asabatizidwe awa , amene alandira Mzimu Woyera ngatinso ife ?
+44011017a	yani		Ngati tsono Mulungu adawapatsa iwo mphatso yomweyi yonga ya kwa ife , pamene tidakhulupirira Ambuye Yesu Khristu , ndine yani kuti ndingathe kuletsa Mulungu ?
+44011017b	~		
+44012018	~		Tsopano kutacha , padali phokoso lalikulu mwa asilikali , Petro wamuka kuti .
+44013025	yani		Ndipo pakukwaniritsa njira yake Yohane , adanena , Muyesa kuti ine ndine yani ? Ine sindine Iye . Koma tawonani , akudza wina wonditsata ine , amene sindiyenera kumasura nsapato za kumapazi ake .
+44014015	bwanji		Nati , Anthunu , bwanji mukuchita zinthu zimenezi ? Ifenso tiri anthu a mkhalidwe wathu umodzimodzi ndi wanu , akulalikira kwa inu Uthenga Wabwino , wakuti musiye zinthu zachabe izi , nimutembenukire kwa Mulungu wamoyo , amene adalenga zakumwamba ndi zapansi , ndi nyanja , ndi zonse ziri momwemo .
+44015010	bwanji		Nanga bwanji tsopano muli kumuyesa Mulungu , kuti muyike pa khosi la wophunzira goli , limene sadatha kunyamula kapena makolo athu kapena ife ?
+44016030	nyamandichitenjini		Ndipo adawatulutsa iwo kunja , nati , Ambuye , ndichitenji kuti ndipulumuke ?
+44017018	chiyani		Ndipo akukonda nzeru ena a Epikureya ndi a Stoyiki adatengana naye . Ena adati , Ichi chiyani afuna kunena wobwetuka uyu ? Ndipo ena , Anga wolalikira ziwanda zachilendo , chifukwa adalalikira Yesu ndi kuwuka kwa akufa .
+44017019	~		Ndipo adamgwira , namka naye ku Arewopagi , nati , kodi tingathe kudziwa chiphunzitso ichi cha tsopano uchinena iwe ?
+44019003	chiyani		Ndipo iye adati , Nanga munabatizidwa ndi chiyani ? Ndipo adati , Mu ubatizo wa Yohane .
+44019015	yani		Ndipo udayankha mzimu woyipa , nuti kwa iwo , Yesu ndimzindikira , ndi Paulo ndimdziwa , koma inu ndinu yani ?
+44019035	ndindani		Ndipo pamene mlembi wa mzinda adatontholetsa anthuwo , adati , Amuna a Aefeso inu , munthu uyu ndindani wosadziwa kuti mzinda wa Aefeso ndiwo wopembedza Mulungu wamkazi wamkulu Diyana , ndi fano limene lidagwa pansi kuchokera ku Jupita ?
+44021013a	Muchitanji		Pamenepo Paulo adayankha , Muchitanji , 
+44021013b	~		polira ndi kundiswera mtima ? Pakuti ndakonzeka ine sikumangidwa kokha , komatunso kufera ku Yerusalemu chifukwa cha dzina la Ambuye Yesu .
+44021022	chiyani		Chingachitike ndi chiyani tsono ? Khamu lidzafuna kudza pamodzi : pakuti Adzamva kuti iwe wafika .
+44021033a	yani		Pamenepo poyandikira kapitawo wamkulu adamgwira iye , nalamulira am’mange ndi unyolo uwiri ; ndipo adamfunsa kuti ndi yani 
+44021033b	chiyani		uyu ndipo wachita chiyani ?
+44022007	undinzunziranji		Ndipo ndidagwa pansi , ndipo ndidamva mawu akunena nane , Saulo , Saulo , undinzunziranji Ine ?
+44022008	yani		Ndipo ndidayankha , Ndinu yani Ambuye ? Ndipo adati kwa ine , Ndine Yesu wa ku Nazarete amene umzunza .
+44022010	chiyani		Ndipo ndidati , Ndidzachita chiyani , Ambuye ? Ndipo Ambuye adati kwa ine , Tawuka , pita ku Damasiko ; kumeneko adzakufotokozera zinthu zonse zoyikika kwa iwe uzichite .
+44022016	uchedweranji		Ndipo tsopano uchedweranji ? Tawuka , nubatizidwe ndi kusamba kuchotsa machimo ako , nuyitane pa dzina la Ambuye .
+44022026	Nchiyani		Ndipo pamene adamva ichi Kenturiyo , adamka kwa kapitawo wamkulu , namuwuza , nanena , Nchiyani ichi uti uchite ? Pakuti munthuyu ndi Mroma .
+44023003	~		Pamenepo Paulo adati kwa iye , Mulungu adzakupanda iwe , khoma loyeretsedwa iwe : ndipo kodi ukhala iwe wakundiweruza ine monga mwa chilamulo , ndipo ulamulira andipande ine mosemphana ndi chilamulo ?
+44023009	~		Ndipo chidawuka chipolowe chachikulu ; ndipo alembi ena a kwa Afarisi adayimilira , natsutsana , nanena , sitipeza choyipa chiri chonse mwa munthuyu ; ndipo nanga bwanji ngati mzimu kapena m’ngelo wayankhula naye ; sitiyenera kulimbana ndi Mulungu .
+44023019	chiyani		Ndipo kapitawo wamkulu adamgwira dzanja , napita naye padera , namfunsa m’seri , chiyani ichi uli nacho kundifotokozera ?
+44026008	~		Muchiyesa chinthu chosakhulupirika , chakuti Mulungu awukitsa akufa ?
+44026014	undinzunziranji		Ndipo pamene tidagwa pansi tonse , ndidamva mawu akunena kwa ine m’chinenedwe cha Chihebri , Saulo , Saulo , undinzunziranji Ine ? Mkobvuta kwa iwe kumenyana ndi zisonga zakuthwa kwambiri .
+44026015	yani		Ndipo ndidati , ndinu yani Mbuye ? Ndipo Ambuye adati , Ine ndine Yesu amene iwe umnzunza .
+45002017	~		Tawona iwe wakudzitcha wekha Myuda , nukhazikika palamulo , nudzitamandira pa Mulungu ,
+45002021	~		Iwe tsono wophunzitsa wina , kodi ulibe kudziphunzitsa mwini ? Iwe wolalikira kuti munthu asabe , kodi ulikuba mwini wekha ?
+45002028	~		Pakuti sali Myuda amene akhala wotere pamaso , kapena suli mdulidwe umene uli wotere pamaso , m’thupi :
+45003001a	ninji		Ndipo potero Myuda aposa ninji ? 
+45003001b	upindulanji		Kapena mdulidwe upindulanji ?
+45003003	bwanji		Nanga bwanji ngati ena sadakhulupirira ? Kodi kusakhulupirira kwawo kupangitsa chabe chikhulupiriro cha Mulungu chopanda mphamvu ?
+45003005	tidzatani		Koma ngati chosalungama chathu chitsimikiza chilungamo cha Mulungu , tidzatani ife ? Kodi ali wosalungama Mulungu amene afikitsa mkwiyo ? ( ndilankhula monga munthu ) .
+45003006	bwanji		Msatero ayi ; ngati kotero , Mulungu adzaweruza bwanji mlandu wadziko lapansi ?
+45003007a	~		Pakuti ngati chowonadi cha Mulungu chichulukitsa ulemerero wake chifukwa cha bodza langa , 
+45003007b	bwanji		nanga inenso ndiweruzidwa bwanji monga wochimwa ?
+45003008	~		Ndipo tilekerenji kunena , Tichite zoyipa kuti zabwino zikadze ( monganso ena atinamiza ndi kuti timanena ) ? Kulanga kwa amenewo kuli kolungama .
+45003009	chiyani		Ndipo chiyani tsono ? Kodi tiposa ife ? Iyayi ndithu ; pakuti tidawaneneza kale Ayuda ndi Ahelene omwe , kuti onsewa agwidwa ndi uchimo ;
+45003027a	kuti		Pamenepo kudzitamandira kuli kuti ? 
+45003027b	lotani		Kwaletsedwa ndi lamulo lotani ? 
+45003027c	~		La ntchito kodi ? Iyayi ; koma ndi lamulo lachikhulupiriro .
+45004001	chiyani		Ndipo tsono tidzanena kuti Abrahamu , kholo lathu monga mwa thupi , adalandira chiyani ?
+45004003	chiyani		Pakuti lembo likuti chiyani ? Ndipo Abrahamu adakhulupirira Mulungu , ndipo chidaweregedwa kwa iye chilungamo .
+45004010	bwanji		Tsono chidawerengedwa bwanji ? M’mene iye adali wodulidwa kapena wosadulidwa ? sipamene adali wodulidwa ayi , koma wosadulidwa .
+45005010	~		Pakuti ngati , pokhala ife adani ake , tidayanjanitsidwa ndi Mulungu mwa imfa ya Mwana wake , makamaka ndithu , popeza ife tayanjanitsidwa , tidzapulumuka ndi moyo wake .
+45005021	~		Kuti , monga uchimo udachita ufumu muimfa , chomwechonso chisomo chikachite ufumu mwa chilungamo , kufikira moyo wosatha mwa Yesu Khristu Ambuye wathu .
+45006001	chiyani		Tidzanena chiyani tsono ? Tidzakhalabe mu uchimo kodi , kuti chisomo chichuluke ?
+45006002	bwanji		Msatero ayi . Ife amene tili akufa ku uchimo tidzakhala bwanji chikhalire m’menemo ?
+45006015	chiyani		Ndipo chiyani tsono ? Tidzachimwa kodi chifukwa sitiri a lamulo , koma a chisomo . Msatero ayi .
+45006021	zanji		Ndipo mudali nazo zabala zanji nthawi ija , m’zinthu zimene muchita nazo manyazi tsopano pakuti chimaliziro cha zinthu zimenezo chili imfa ?
+45007007	chiyani		Tidzanena chiyani tsono ? Kodi chilamulo chiri uchimo ? Msatero ayi . . Ayi , koma ine sindikadazindikira uchimo ; koma mwa lamulo ndimo : pakuti sindikadazindikira chilakolako , chikadapanda chilamulo kunena kuti usasilire .
+45007024	ndani		Ho ! munthu wosauka ine ! Adzandilanditsa ndani m’thupi la imfa iyi ?
+45008024	ndani		Pakuti ife tidapulumutsidwa ndi chiyembekezo ; koma chiyembekezo chimene chiwoneka si chiri chiyembekezo ayi ; pakuti ayembekezera ndani chimene achipenya ?
+45008031a	chiyani		Ndipo tidzanena chiyani kuzinthu izi ? 
+45008031b	ndani		Ngati Mulungu ali ndi ife , adzatitsutsa ndani ?
+45008032	adzalekeranji		Iye amene sadatimana Mwana wake wa Iye yekha , koma adampereka chifukwa cha ife tonse , adzalekeranji kutipatsanso ife zinthu zonse kwaulere pamodzi ndi iye ?
+45008033	Ndani		Ndani adzaneneza wosankhidwa a Mulungu ? Mulungu ndiye amene adawalungamitsa .
+45008034	Ndani		Ndani adzawatsutsa ? Khristu Yesu ndiye amene adawafera , inde makamaka , ndiye amene adawuka kwa akufa , amene akhalanso pa dzanja la manja la Mulungu , amenenso atipembedzera ife .
+45008035	ndani		Adzatisiyanitsa ndani ndi chikondi cha Khristu ? Nsautso kodi , kapena kupsinjika mtima , kapena kuzunzidwa , kapena njala , kapena usiwa , kapena zowopsa , kapena lupanga ?
+45009014	chiyani		Ndipo tsono tidzanena chiyani ? Kodi chiripo chosalungama ndi Mulungu ? Msatero ayi .
+45009019a	chifukwa chiyani		Ndipo iwe pamenepo udzanena kwa ine chifukwa chiyani iye wapeza cholakwa ? 
+45009019b	ndani		Pakuti ndani adakaniza chifuno chake ?
+45009020a	yani		Ayi , koma munthu iwe , ndiwe yani wakubwezera Mulungu mawu ? 
+45009020b	~		Kodi chinthu chopangidwa chidzanena ndi amene adachipanga , 
+45009020c	Undipangiranji		Undipangiranji ine chotero ?
+45009021	~		Kodi kapena wowumba mbiya sakutha kuchita zake padothi , kuwumba ndi ntchintchi yomweyo chotengera chimodzi cha ulemu ndi china chamanyazi ?
+45009022	~		Ndipo titani ngati Mulungu , pofuna iye kuwonetsa mkwiyo wake , ndi kudziwitsa mphamvu yake , adalekerera ndi chilekerero chambiri zotengera za mkwiyo zokonzekera chiwonongeko ?
+45009023	~		Ndikuti iye akadziwitse chuma cha ulemerero wake wawukulu pa zotengera za chifundo , zimene iye adazikonzeratu kuulemerero wake .
+45009024	~		Ndiwo ife amenenso iye adatiyitana , si a mwa Ayuda wokhawokha , komanso a mwa anthu amitundu ?
+45009030	chiyani		Kodi tidzanena chiyani tsono ? Kuti amitundu amene sadatsata chilungamo , adafikira kuchilungamo , ndicho chilungamo cha m`chikhulupiriro .
+45009032	Chifukwa chiyani		Chifukwa chiyani ? Chifukwa kuti sadalitsata ndi chikhulupiro , koma monga ndi ntchito za lamulo . Adakhumudwa pamwala wokhumudwitsa .
+45010006	ndani		Koma chilungamo cha chikhulupiriro chitero , Usamanena mumtima mwako . Adzakwera ndani kumwambako ? ( Ndiko kutsitsako Khristu : )
+45010007	ndani		Kapena adzatsikira ndani kudzenjeko ? ( Ndiko kukweza Khristu kwa akufa . )
+45010008	chiyani		Koma akuti chiyani ? Mawu ali pafupi ndi iwe , m’kamwa mwako , ndi mumtima mwako ; ndiwo mawu achikhulupiriro , amene ife tiwalalikira ;
+45010014a	bwanji		Ndipo iwo adzayitana bwanji pa Iye amene sadamkhulupirira ? 
+45010014b	bwanji		Ndipo adzakhulupirira bwnaji Iye amene sadamva za Iye ? 
+45010014c	bwanji		Ndipo adzamva bwanji wopanda wolalikira ?
+45010015	bwanji		Ndipo adzalalikira bwanji , ngati satumidwa ? Monganso kwalembedwa , Wokometsetsa ndithu ali mapazi a iwo akulalikira Uthenga wa mtendere wobweretsa chisangalalo muzinthu zabwino .
+45010016	ndani		Koma sadamvera uthenga onsewo . Pakuti Yesaya anena , Ambuye , ndani adakhulupirira zonena zathu ?
+45011004	kudatani		Koma kuyankha kwa Mulungu kudatani kwa iye ? Ndidadzisiyira ndekha anthu amuna zikwi zisanu ndi ziwiri , amene sadagwadira Baala .
+45011007	chiyani		Ndipo chiyani tsono ? Ichi chimene Israyeli afunafuna sadachipeza ; koma osankhidwawo adachipeza , ndipo wotsalawo adachititsidwa khungu ;
+45011015	kudzatani		Pakuti ngati kuwataya kwawo kuli kuyanjanitsa kwa dziko lapansi , nanga kulandiridwa kwawo kudzatani , koma ndithu ngati moyo wakuchokera kwa akufa ?
+45011018	~		Usadzitama iwe wekha motsutsana ndi nthambizo ; Koma ngati udzitama wekha , suli iwe amene unyamula muzu , ayi , koma muzu ukunyamula iwe .
+45011033a	~		Ha ! Kuya kwake kwa m`chuma pamodzi ndi nzeru ndi chidziwitso cha Mulungu . ! Wosasanthulikadi maweruzo ake , 
+45011033b	~		ndi njira zake mzosalondoleka !
+45011034a	ndani		Pakuti adadziwa ndani mtima wa Ambuye ? 
+45011034b	ndani		Kapena adakhala phungu wake ndani ?
+45011035	ndani		Ndipo adayamba ndani kumpatsa Iye , ndipo adzam’bwezeranso Iye ?
+45014004	Ndani		Ndani iwe woweruza m’nyamata wa mwini wake ? Iye ayimilira kapena kugwa kwa mbuye wake wa mwini yekha . Ndipo adzayimiliritsidwa ; pakuti Ambuye ali wamphamvu kumuyimiliritsa .
+45014010a	uweruziranji		Koma iwe uweruziranji mbale wako ? 
+45014010b	upeputsiranji		Kapena iwenso upeputsiranji mbale wako ? Pakuti ife tonse tidzayimilira ku mpando wakuweruza wa Mulungu .
+46001020a	kuti		Ali kuti wanzeru ? 
+46001020b	kuti		Mlembi ali kuti ? 
+46001020c	kuti		Ali kuti wotsutsana wa nthawi ya pansi pano ? Kodi Mulungu sadayipusitsa nzeru ya dziko lapansi ?
+46002011	ndani		Pakuti ndani wa anthu adziwa zinthu za munthu , koma mzimu wa munthuyu uli mwa iye ? Momwenso zinthu za Mulungu palibe wina azidziwa , koma Mzimu wa Mulungu .
+46002016a	ndani		Pakuti wadziwa ndani mtima wa Ambuye , 
+46002016b	~		kuti akamlangize Iye ? Koma ife tiri nawo mtima wa Khrstu .
+46003005a	nchiyani		Ndipo Apolo nchiyani , 
+46003005b	nchiyani		ndi Paulo nchiyani ? Atumiki amene mudakhulupirira mwa iwo , yense monga Ambuye adampatsa .
+46004007a	ndani		Pakuti akusiyanitsa iwe ndani ndi wina ? 
+46004007b	chiyani		Ndipo uli nacho chiyani chosati wachilandira ? 
+46004007c	bwanji		Koma ngati wachilandira udzitamanda bwanji , monga ngati sudachilandira ?
+46004021	chiyani		Mufuna chiyani ? Kodi ndifike kwa inu ndi ndodo , kapena mwachikondi , ndi mzimu wakufatsa ?
+46005002	~		Ndipo mukhala wodzitukumula , osati makamaka mwachita chisoni , kuti achotsedwe pakati pa inu iye amene adachita ntchito iyi .
+46005012	nditani		Pakuti nditani nawo akunja kukaweruza iwo ? Kodi amene ali m’katimo simuwaweruza ndi inu ?
+46006001	~		Kodi akhoza wina wa inu , pamene ali nawo mlandu pa mzake , kupita kukaweruzidwa kwa wosalungama , osati kwa woyera mtima ?
+46006003	kotani		Kodi simudziwa kuti tidzaweruza angelo ? Koposa kotani nanga zinthu za moyo uno ?
+46006004	~		Chifukwa chake , ngati muli nayo milandu ya zinthu za moyo uno , kodi muweruzitsa iwo amene ayesedwa achabe mu Mpingo .
+46006007a	chifukwa ninji		Koma pamenepo pali chosowa konse konse mwa inu , kuti muli nayo milandu wina ndi mzake . Chifukwa ninji simusankhula kulola kuyipsidwa ? 
+46006007b	chifukwa ninji		Simusankhula chifukwa ninji kulola kunyengedwa ?
+46006009	~		Kapena simudziwa kuti wosalungama sadzalandira ufumu wa Mulungu ? Musasocheretsedwe ; achiwerewere , kapena wopembedza mafano , kapena achigololo , kapena akudzipsa okha ndi manthanyula .
+46006016	~		Kapena simudziwa kuti iye wophatikidwa ndi mkazi wachiwerewere ali thupi limodzi ? Pakuti awiriwo , ati , adzakhala thupi limodzi .
+46006019	M`chiyani		M`chiyani kodi ? simudziwa kuti thupi lanu liri kachisi wa Mzimu Woyera , amene ali mwa inu , amene muli naye kwa Mulungu ndipo simukhala a inu nokha ?
+46007016a	bwanji		Pakuti udziwa bwanji mkazi iwe , ngati udzapulumutsa mwamunayo ? 
+46007016b	bwanji		Kapena udziwa bwanji , mwamuna iwe , ngati udzapulumutsa mkazi ?
+46009007a	ndani		Msilikari ndani achita nkhondo , nthawi ili yonse nadzifunira zake yekha ? 
+46009007b	ndani		Awoka mpesa ndani , wosadya chipatso chake ? 
+46009007c	ndani		Kapena aweta gulu ndani , wosadya mkaka wake wa gululo ?
+46009018	nchiyani		Mphotho yanga nchiyani tsono ? Indetu kuti pakulalikira Uthenga Wabwino ndiyese Uthenga Wabwino ukhale wa ulere , kuti ndisayipse ulamuliro wanga mu Uthenga Wabwino .
+46010019a	chiyani		Ndinena chiyani tsono ? 
+46010019b	~		Kuti choperekedwa nsembe kwa mafano chiri kanthu ? 
+46010019c	~		Kapena kuti fano liri kanthu kodi ?
+46010029	ninji		Ndinena chikumbumtima , si cha iwe mwini , koma cha winayo ; pakuti ufulu wanga uyesedwa ninji ndi chikumbumtima cha wina ?
+46010030	bwanji		Ngati ine ndilandirako mwachisomo , ndinenezedwa bwanji zoipa chifukwa cha ichi chimene ndiyamikapo ?
+46011022	chiyani		Chiyani ? mulibe nyumba zodyeramo ndi kumweramo ? Kapena kodi munyoza mpingo wa Mulungu , ndi kunyoza iwo amene alibe kanthu ? Ndidzanena chiyani kwa inu ? Kodi ndidzatama inu m’menemo ? Sindikutamani .
+46012017a	kuti		Ngati thupi lonse likadakhala diso kukadakhala kuti kumvera . 
+46012017b	kuti		Ngati thupi lonse lidakakhala khutu kukada khala kuti kununkhiza ?
+46012019	kuti		Koma ngati zonse zikadakhala chiwalo chimodzi ; likadakhala kuti thupi ?
+46014006	chiyani		Koma tsopano , abale , ngati ndidza kwa inu ndi kuyankhula malilime , ndikakupindulitsani chiyani , ngati sindiyankhula ndi inu kapena m’bvumbulutso , kapena m’chidziwitso , kapena m’chinenero , kapena m’chiphunzitso .
+46014007	bwanji		Ngakhale zinthu zopanda moyo , zopereka mawu , ngati toliro , kapena ngoli , ngati sizisiyanitsa malilidwe , chidzazindikirika bwanji chimene chiwombedwa kapena kuyimbidwa ?
+46014008	ndani		Pakuti ngati lipenga lipereka mawu wosazindikirika , adzadzikonzera ndani kunkhondo ?
+46014009	bwanji		Momwemonso inu ngati mwa lilime simupereka mawu womveka bwino , chidzazindikirika bwanji chimene chiyankhulidwa ? Pakuti mudzayankhula mosapindulitsa .
+46014015	chiyani		Kuli chiyani tsono ? Ndidzapemphera ndi mzimu , koma ndidzapempheranso ndi chidziwitso changa ; ndidzayimba ndi mzimu , koma ndidzayimbanso ndi chidziwitso .
+46014016	bwanji		Chifukwa ngati udalitsa ndi mzimu , nanga iye wakukhala nawe m`chipinda wosaphunzira adzati Amen bwanji , pa kuyamika kwako , popeza sadziwa chimene unena ?
+46014026	chiyani		Nanga chiyani tsono , abale ? Pamene musonkhana , yense ali nalo salmo , ali nacho chiphunzitso , ali nalo bvumbulutso , ali nalo lilime , ali nacho chimasuliro . Muchite zonse kukumangilira .
+46014036	Chiyani		Chiyani ? Mawu a Mulungu adatuluka kwa inu ? Kapena adafika kwa inu nokha ?
+46015012	bwanji		Koma ngati Khristu alalikidwa kuti wawukitsidwa kwa akufa , nanga ena mwa inu anena bwanji kuti kulibe kuwuka kwa akufa ?
+46015029a	~		Ngati sikutero , 
+46015029b	chiyani		adzachita chiyani iwo amene abatizidwa chifukwa cha akufa ? 
+46015029c	chifukwa ninji		Ngati akufa sawukitsidwa konse , abatizidwa chifukwa ninji chifukwa cha akufa ?
+46015030a	~		
+46015030b	bwanji		Nanga ifenso tiri m’mowopsa bwanji nthawi zonse ?
+46015032	ndipindulanji		Ngati mwa khalidwe la wathu ndidalimbana ndi zirombo ku Efeso monga mwa munthu , ndipindulanji ? Ngati akufa sawukitsidwa tidye , timwe pakuti mawa timwalira .
+46015035a	bwanji		Koma munthu wina adzati , Akufa awukitsidwa bwanji ? 
+46015035b	lotani		Ndipo adza nalo thupi lotani ?
+46015055a	kuti		Haa imfa ululu wako uli kuti ? 
+46015055b	kuti		Haa imfa , manda ako ali kuti ? chigonjetso chako chiri kuti ?
+47002002	ndaninso		Pakuti ngati ine ndimvetsa inu chisoni , ndaninso amene adzandikondweretsa ine , koma iye amene ndam’mvetsa chisoni ?
+47002016	ndani		Koma kwa ena fungo la imfa ku imfa ; ndi kwa ena fungo lamoyo ku moyo . Ndipo azikwanira ndani izi ?
+47003008	wotani		Nanga utumiki wa Mzimu udzakhala ndi ulemerero wotani ?
+47003009	~		Pakuti ngati utumiki wa chitsutso udali wa ulemerero , makamaka utumiki wa chilungamo uchulukira mu ulemerero kwambiri .
+47006014a	bwanji		Musakhale womangidwa m’goli ndi wosakhulupirira wosiyana ; pakuti chilungamo chigawana bwanji ndi chosalungama ? 
+47006014b	bwanji		Kapena kuwunika kuyanjana bwanji ndi m’dima ?
+47006015a	bwanji		Ndipo Khristu abvomerezana bwanji ndi Beliyali ? 
+47006015b	lanji		Kapena wokhulupirira ali nalo gawo lanji pamodzi ndi wosakhulupirira ?
+47006016	nchanji		Ndipo chiphatikizo chake nchanji ndi kachisi wa Mulungu ndi wa mafano ? Pakuti inu ndinu kachisi wa Mulungu wamoyo ; monga Mulungu adati , Ndidzakhalitsa mwa iwo , ndipo ndidzayendayenda mwa iwo ; ndipo ndidzakhala Mulungu wawo , ndi iwo adzakhala anthu anga .
+47011011	Chifukwa chiyani		Chifukwa chiyani ? Chifukwa sindikonda inu kodi ? Adziwa Mulungu .
+47011029a	ndani		Afoka ndani wosafowoka inenso ? 
+47011029b	ndani		Akhumudwitsidwa ndani , wosatenthanso ine ?
+47012013	kuti		Pakuti kuli chiani chimene munachepetsedwa nacho ndi Mipingo yotsala yina ; ngati si ichi kuti ine ndekha sindidakulemetsani inu ? Ndikhululukireni pa choipa ichi .
+47012017	~		Ndinapindula kwa inu mwa wina aliyense amene ndidamtuma kwa inu .
+48002014	bwanji		Komatu pamene ndidawona kuti sadali kuyenda kowongoka , monga mwa chowonadi cha Uthenga Wabwino , ndidati kwa Petro pamaso pa onse , Ngati inu muli Myuda mutsata makhalidwe wa amitundu , ndipo si wa Ayuda , mukangamiza bwanji amitundu atsate makhalidwe wa Ayuda ?
+48003001	ndani		Agalatiya wopusa inu adakulodzani ndani , kuti musamvere chowonadi , inu amene Yesu Khristu adawonetsedwa pamaso panu , wopachikidwa ?
+48003019	~		Nanga kutumikira kwa chilamulo tsono ? Chidawonjezeka chifukwa cha zolakwa , kufikira ikadza mbewu ya Iye amene adamulonjeza imene adayilonjezera ; ndipo chidakonzeka ndi angelo m’dzanja la nkhoswe .
+48004009a	bwanji		Koma tsopano podziwa Mulungu inu , koma makamaka podziwika ndi Mulungu , mubwereranso bwanji kutsata miyambo yofowoka ndi yaumphawi , 
+48004009b	~		imene mufuna kubwerezanso kuyichitira ukapolo .
+48004010	~		Musunga masiku , ndi miyezi , ndi nyengo , ndi zaka .
+48004015	kuti		Pamenepo dalitso lanu liri kuti ? Limene mudaliyankhula . Pakuti ndikuchitirani inu umboni , kuti , kukadakhala kotheka , mukadakolowola maso anu ndi kundipatsa ine .
+48004021	~		Ndiwuzeni , inu akukhumba kukhala omvera lamulo , kodi simukumva chilamulo ?
+48004030	chiyani		Koma lembo linena chiyani ? Taya kubwalo mdzakazi ndi mwana wake , pakuti sadzalowa nyumba mwana wa mdzakazi pamodzi ndi mwana wa mfulu .
+48005007a	mdani		Mudathamanga bwino ; adakuletsani mdani kuti musamvere chowonadi ?
+48005007b	~		
+48005011	bwanji		Koma ine , abale , ngati ndilalikiranso mdulidwe , ndizunzikanso bwanji ? Pamenepo chokhumudwitsa cha mtanda chidatha .
+49004009	nchiyani		( Koma ichi , chakuti , adakwera , nchiyani nanga koma kuti Iye adatsikiranso ku madera akunsi kwa dziko ?
+50001018	Nchiyani		Nchiyani kodi ? Chokhacho kuti monsemo , ngati pamaso pokha , ngati m’chowonadi , Khristu alalikidwa ; ndipo m’menemo ndikondwera , komanso ndidzakondwera .
+50001021	~		Pakuti kwa ine kukhala ndi moyo ndiko Khristu , ndi kufa kuli kupindula .
+51002020	Chiyani		Chiyani nanga ngati mudafa pamodzi ndi Khristu kusiyana nazo zoyamba za dziko lapansi , mugonjeranji ku zoyikikazo , monga ngati moyo wanu mukhala nawo m’dziko lapansi .
+52002019	n’chiyani		Pakuti chiyembekezo chathu , mchiyani kapena chimwemwe , kapena korona wakudzitamandira naye n’chiyani ? Si ndinu nanga , pamaso pa Ambuye wathu Yesu Khristu pakufika kwake ?
+52003009	chanji		Pakuti tikhoza kubwezera kwa Mulungu chiyamiko chanji chifukwa cha inu , pa chimwemwe chonse tikondwera nacho mwa inu pamaso pa Mulungu wathu ;
+54003005	bwanji		( Koma ngati munthu sadziwa kuweruza nyumba yake ya iye yekha , adzasamalira bwanji Mpingo wa Mulungu ? )
+54006007a	~		Pakuti sitidatenga kanthu polowa m’dziko lapansi , 
+54006007b	~		ndiponso sitikhoza kupita nako kanthu pochoka pano .
+58001005	uti		Pakuti kwa m’ngelo uti adati nthawi ili yonse , Iwe ndiwe Mwana wanga , lero Ine ndakubala iwe ? Ndiponso Ine ndidzakhala kwa Iye Atate ? Ndipo Iye adzakhala kwa Ine Mwana ?
+58001013	uti		Koma za m’ngelo uti adati nthawi ili yonse , khala pa dzanja lamanja langa , kufikira ndikayika adani ako chopondapo mapazi ako ?
+58001014	~		Kodi siyili yonse mizimu yotumikira , yotumidwa kuti itumikire iwo amene adzalowa chipulumutso ?
+58002003	bwanji		Kodi tidzapulumuka bwanji ife , tikapanda kusamala chipulumutso chachikulu chotero ? Chimene Ambuye adayamba kuchiyankhula , ndipo iwo adachimva adatitsimikizira ife ;
+58002006a	nchiyani		Koma wina adachita umboni pena nati , “ Munthu nchiyani kuti mumkumbukira iye ? 
+58002006b	~		Kapena mwana wa munthu kuti mucheza naye ?
+58003016	~		Pakuti ena , pamene adamva , adawawidwa mtima : kodi si onse aja adatuluka mu Aigupto ndi Mose ?
+58003017	ayani		Koma ndi ayani adakwiya nawo zaka makumi anayi ? Kodi siamene adachimwa aja , amene mitembo yawo yidagwa m’chipululu ?
+58003018	ayani		Ndipo ndi ayani adawalumbirira Iye kuti asalowe mpumulo wake , koma kwa iwo amene sadakhulupirire ?
+58006004	~		Pakuti sikutheka kwa iwo amene adaunikidwa panthawi yake , nalawa mphatso ya Kumwamba , nakhala wolandirana naye Mzimu Woyera ,
+58007011	kotani		Ndipo pakadakhala ungwiro mwa unsembe wa chilevi , ( pakuti momwemo anthu adalandira chilamulo ) pakadatsala kusowa kotani kuti awuke wansembe wina monga mwa dongosolo la Melikizedeke , wosayesedwa monga mwa dongosolo la Aroni ?
+58009014	kotani		Koposa kotani nanga mwazi wa Khristu amene adadzipereka yekha wopanda chilema kwa Mulungu mwa Mzimu wosatha , udzayeretsa chikumbumtima chanu kuchisiyanitsa ndi ntchito zakufa , kukatumikira Mulungu wamoyo ?
+58010001	~		Pakuti chilamulo , pokhala nacho chithunzithunzi cha zabwino zirimkudza , wosati chifaniziro chenicheni cha zinthunzo , sizikhozatu , ndi nsembe zomwezi chaka ndi chaka , zimene azipereka kosalekeza , kuwayesera angwiro iwo akuyandikira .
+58010029a	kotani		Ndipo kulanga koposa kotani nanga adzayesedwa woyenera iye amene adapondereza Mwana wa Mulungu , 
+58010029b	~		nayesa mwazi wa chipangano umene adayeretsedwa nawo chinthu wamba , 
+58010029c	~		nachitira chipongwe Mzimu wa chisomo ?
+58010029d	~		
+58011032	chiyaninso		Ndipo ndinena chiyaninso ? Pakuti idzandiperewera nthawi ndifotokozere za Gideyoni , Baraki , Samsoni , Yefita ; za Davide ndi Samueli ndi aneneri .
+58012007	wanji		Mukapirira kufikira kulangidwa Mulungu achitira inu monga ngati ana ; pakuti mwana wanji amene atate wake samlanga ?
+58012009	~		Komanso tidali nawo atate a thupi lathu akutilanga , ndipo tidawalemekeza : kodi sitidzagonjera Atate wa mizimu koposa nanga , ndi kukhala ndi moyo ?
+58012025	~		Penyani kuti musamkane iye woyankhulayo . Pakuti ngati iwowa sadapulumuka , pomkana Iye amene adawachenjeza padziko , koposatu sitidzapulumuka ife ngati tipatuka kwa Iye woyankhula kuchokera Kumwamba :
+58013006	~		Kotero kuti tinena molimbika mtima , Mthandizi wanga ndiye Ambuye ; sindidzawopa chimene munthu adzandichitira .
+59002006	~		Koma inu mumanyoza munthu wosauka . Kodi sakusautsani inu achuma , nakukokerani iwo ku mabwalo a milandu ?
+59002014	n’chiyani		Chipindulo chake n’chiyani , abale anga , munthu akanena . Ndiri nacho chikhulupiriro , koma alibe ntchito ? Kodi chikhulupirirocho chikhoza kumpulumutsa ?
+59002016a	~		Ndipo wina wa inu akanena nawo , mukani ndi mtendere , mukafunde ndi kukhuta ; osawapatsa iwo zosowa za pathupi ; 
+59002016b	n’chiyani		kupindula kwake n’chiyani ?
+59002018	~		Koma wina akati , Iwe uli nacho chikhulupiliro , ndipo ine ndiri nazo ntchito ; undiwonetse ine chikhulupiliro chako chopanda ntchito zako , ndipo ine ndidzakuwonetsa iwe chikhulupiliro changa chotuluka m’nchito zanga .
+59002021	~		Abrahamu kholo lathu , sadayesedwa wolungama ndi ntchito kodi , paja adapereka mwana wake isake nsembe pa guwa la nsembe ?
+59003013	Ndani		Ndani ali wanzeru , ndi waluso mwa inu ? Awonetsere ndi mayendedwe ake abwino ntchito zake munzeru yofatsa .
+59003017	~		Koma nzeru yochokera Kumwamba iyamba kukhala yoyera , nikhalanso yamtendere , yaulere , yomveka bwino , yodzala chifundo ndi zipatso zabwino , yopanda tsankhu , ndi yopanda chinyengo .
+59004001a	kuti		Zichokera kuti nkhondo , 
+59004001b	kuti		zichokera kuti zolimbana mwa inu ? Kodi sizichokera ku zilakolako zanu zochita nkhondo m’ziwalo zanu ?
+59004012	yani		Woyika lamulo , ndiye m’modzi ndiye amene akhoza kupulumutsa ndi kuwononga ; koma iwe woweruza mzako ndiwe yani ?
+59004014	wotani		Inu amene simudziwa chimene chidzagwa mawa . Moyo wanu uli wotani ? Uli monga nthunzi , wakuwonekera kanthawi kakang’ono , ndi pamenepo ukanganuka .
+60002020	yanji		Pakuti mbiri yokoma yanji , mukapilira pochimwa ndi kubwanyulidwapo ? Komatu , ngati pochita zabwino , ndi kumvako zowawa mumapilira , ichi ndi chobvomerezeka pa maso paMulungu .
+60003013	ndani		Ndipo ndani iye amene adzakuchitirani choyipa , ngati muchita nacho changu chinthu chabwino ?
+60004017	chotani		Chifukwa yafika nthawi kuti chiweruziro chiyambe pa nyumba ya Mulungu ; koma ngati chiyamba pa ife , chitsiriziro cha iwo wosamvera Uthenga Wabwino wa Mulungu chidzakhala chotani ?
+60004018	kuti		Ndipo ngati munthu wolungama apulumuka ndikuyesetsa kokha kokha , munthu wosapembedza ndi wochimwa adzawoneka kuti ?
+61003004	kuti		Ndi kunena , liri kuti lonjezano la kudza kwake ? Pakuti kuyambira kuja makolo adamwalira zonse zikhala monga chiyambire chilengedwe .
+61003011	wotani		Popeza izi zonse zidzakanganuka kotero , muyenera inu kukhala anthu wotani nanga , m’mayendedwe wopatulika ndi m’chipembedzo .
+62002022	ndani		Wabodza ndani , koma iye wokanayo kuti Yesu sali Khristu ? Iye ndiye wokana Khristu , amene akana Atate ndi Mwana .
+62003012	chifukwa ninji		Osati monga Kayini adali wochokera mwa woyipayo , namupha mbale wake . Ndipo adamupha iye chifukwa ninji ? Popeza ntchito zake zidali zoyipa , ndi za mbale wake zolungama .
+62003017	bwanji		Koma iye amene ali nacho chuma cha dziko lapansi , nawona mbale wake ali wosowa ndi kutsekereza chifundo chake pom’mana iye , nanga chikondi cha Mulungu chikhala mwa iye bwanji ?
+62004020	bwanji		Munthu akati , kuti , Ndikonda Mulungu , nadana naye m’bale wake , ali wabodza ; pakuti iye wosakonda m’bale wake amene wamuwona , akonda Mulungu bwanji amene sadamuwona ?
+62005005	ndani		Koma ndani iye wogonjetsa dziko lapansi ; koma iye amene akhulupirira kuti Yesu ndiye Mwana wa Mulungu .
+66005002	ndani		Ndipo ndidawona m’ngelo wamphamvu wakulalikira ndi mawu akulu , ayenera ndani kutsegula buku , ndi kumasula zizindikiro zake ?
+66006010a	liti		Ndipo adafuwula ndi mawu akulu , ndi kunena , kufikira liti , o ! inu Ambuye , woyera ndi wowona , muleka kuweruza ndi kubwezera chilango chifukwa cha mwazi wathu , pa iwo akukhala padziko lapansi ?
+66006010b	~		liti
+66006017	ndani		Chifukwa lafika tsiku lalikulu la mkwiyo wake wafika , ndipo akhoza kuyima ndani ?
+66007013a	ayani		Ndipo m’modzi wa akulu adayankha , nanena ndi ine , Iwo wobvala zobvala zoyera ndiwo ayani ? 
+66007013b	kuti		ndipo achokera kuti ?
+66013004a	ndani		Ndipo adalambira chinjoka , chimene chidachipatsa mphamvu chirombocho : ndipo adalambira chirombo ndi kunena , Afanana ndi chirombo ndani ? 
+66013004b	ndani		Ndipo akhoza ndani kumenya nacho nkhondo ?
+66015004a	ndani		Ndani amene adzakhala wosawopa inu ndi wosalemekeza dzina lanu Ambuye ? Chifukwa Inu nokha muli woyera : chifukwa mitundu yonse idzadza nidzalambira pamaso panu , popeza ziweruziro zanu zawonetsedwa .
+66015004b	~		
+66017007	Chifukwa chiyani		Ndipo m’ngelo adati kwa ine , uzizwa chifukwa chiyani ? Ine ndidzakuwuza iwe chinsinsi cha mkazi , ndi cha chirombo chakum’tenga iye , chokhala nayo mitu isanu ndi iwiri ndi nyanga khumi .
+66018018	uti		Ndipo adalira ndi kufuwula powona utsi wa kutentha kwake , nanena , mzinda uti uwu ufanana ndi mzinda waukuluwo ?

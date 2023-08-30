@@ -1,0 +1,743 @@
+40002002	léq		Alới ki blớh neq : “ Pỡ léq manoaq mbỡiq sễt ca nỡ ra cỡt puo tỗp Yuda ? Hếq hữm chơ mantỗr án tễ angia moat mandang loōh . Ngkíq hếq toâq ễ sang án . ”
+40002004	léq		Hê‑rôt parỗm nheq máh cũai sốt tỗp alới ca tễng rit sang Yiang Sursĩ , cớp máh cũai yống rit tỗp I‑sarễl ỡt tâng cruang ki . Án blớh alới ki neq : “ Pỡ léq Crĩt sễt ? ”
+40003007	~		Toâq Yang hữm clứng cũai tễ tỗp Pha‑rasĩ cớp tỗp Sa‑dusê , toâq pỡ án ễq án táq batễm yỗn alới , ngkíq án pai chóq alới ki neq : “ Anhia la pla ariang cusân tur . Anhia tỡ têq viaq vớt tễ Yiang Sursĩ táq anhia toâq án táq cũai lôih tâng tangái parsốt .
+40005013	nṓq		“ Anhia la samoât riang boi yỗn cũai canṓh ỡt tâng cutễq nâi . Ma khân boi cỡt ntiah , ki nṓq ễ táq yỗn cỡt báq loah ? Tỡ têq táq ntrớu noâng boi ki . Hái tốh táh yỗn cũai tĩn chíq .
+40005046	ntrớu		Khân anhia ma ayooq ống alới ca ayooq anhia sâng , ki ntrớu Yiang Sursĩ yỗn anhia bữn cóng ? Lứq samoât cũai ca ĩt práq thễq la táq machớng ki tê .
+40005047	ntrớu		Cớp khân anhia tabỡp tabéh o ống sễm ai anhia sâng , ki tỡ bữn salễh ntrớu tễ cũai canṓh . Dếh alới ca tỡ nai sâng tễ Yiang Sursĩ táq machớng ki tê .
+40006027	aléq		Tỡ bữn cũai aléq ma têq táq anhúq án cỡt cuti hỡn cỗ án clơng la‑ỡq .
+40006028	nṓq		“ Cớp nṓq anhia ma lua cứt máh tampâc anhia tâc ? Anhia nhêng chu piar bát . Án tỡ bữn túh táq ranáq ntrớu tễ tampâc tâc .
+40006031a	Nṓq		“ Ngkíq anhia chỗi clơng cớp pai neq : ‘ Nṓq hái ễ táq yỗn bữn sana cha , 
+40006031b	~		bữn dỡq nguaiq , 
+40006031c	~		tỡ la bữn tampâc tâc tâng tangái ntun ? ’
+40007003	Nṓq		Nṓq anhia hữm brếh tâng moat yớu , ma anhia tỡ bữn dáng loâng khlễc pian ễn catáng chíq moat anhia ?
+40007004	nṓq		Ma nṓq anhia clṓq pai cớp yớu neq : ‘ Dōq yỗn cứq ĩt chíq brếh tễ moat mới . ’ Ma anhia tỡ bữn dáng loâng khlễc pian sadal chíq moat anhia ?
+40007009	nṓq		Máh anhia ca bữn con chơ , nṓq khân con anhia sễq cha bễng , ki anhia yỗn án cha tamáu tỡ ?
+40007016a	~		Têq anhia sacoal alới toâq anhia hữm ranáq alới táq . Nỡm sarlia tacỡng tỡ nai cỡt palâi nho . 
+40007016b	~		Cớp nỡm sarlia cáng tỡ nai cỡt palâi tarúng .
+40008026	Nṓq		Ma Yê‑su ta‑ỡi loah alới neq : “ Nṓq anhia ngcṓh ? Nṓq anhia sa‑âm bĩq lứq ? ” Chơ Yê‑su yuor tayứng sưoq cuyal cớp dỡq lampóh . Ngkíq dỡq cớp cuyal ki tangứt .
+40008027	Nṓq		Dũ náq cũai sâng dớt lứq cớp pai neq : “ Nṓq cũai nâi ? Cuyal cớp dỡq ma têq án ! ”
+40008029	Ntrớu		Bo alới hữm Yê‑su , alới bar náq ki hễr casang lứq neq : “ Ơ Con Yiang Sursĩ ơi ! Ntrớu anhia yoc ễ táq cớp hếq ? Hếq yũah ngư chĩuq tỗiq bap toâq pỡ hếq . Ma anhia yoc ễ táq yỗn hếq chĩuq tỗiq bap ki sanua tỡ ? ”
+40009004	Nṓq		Ma Yê‑su khoiq dáng chơ alới chanchớm ngkíq . Án blớh alới ki neq : “ Nṓq anhia chanchớm ṓc sâuq ngkíq tâng mứt anhia ?
+40009005	aléq		Santoiq aléq anhia sâng ien hỡn cứq atỡng ? Pĩeiq cứq atỡng cũai a‑ĩ coang neq : ‘ Lôih mới cứq táh yỗn , ’ tỡ la : ‘ Mới yuor tayứng pỡq . ’ Santoiq aléq anhia sâng ien hỡn cứq atỡng ?
+40009011	Nṓq		Bữn cũai tễ tỗp Pha‑rasĩ hữm ngkíq . Chơ alới blớh tỗp rien tễ Yê‑su neq : “ Nṓq thâi anhia cha parnơi cớp alới ca parỗm ĩt práq thễq cớp cũai lôih canṓh hỡ ? ”
+40009014	Nṓq		Moâm ki alới tỗp rien tễ Yang toâq pỡ Yê‑su . Alới blớh án neq : “ Nṓq tỗp hếq cớp tỗp Pha‑rasĩ , nheq hếq dốq rưoh tangái ót sana , miaq hếq yoc ễ chanchớm ngê Yiang Sursĩ sâng , ma tỗp rien tễ thâi nṓq alới tỡ bữn táq machớng hếq ? ”
+40009015	~		Yê‑su ta‑ỡi alới neq : “ Khân bữn samiang ễ ĩt lacuoi , hỗi yớu pỡq racoâiq cớp án , alới sâng bũi . Ma tữ alới chu tễ racoâiq , chơ alới miar ỡt . Tữ ki alới ót sana sanhữ loah yớu alới .
+40010025	~		Ngkíq án ca rien cóq pruam chĩuq túh coat machớng thâi án tê . Cớp án ca táq sũl cóq pruam chĩuq túh coat machớng ncháu án tê . Khân noau acrieiq án ca ncháu dống , dōq án la ramứh Bễn‑sabũl , ntâng hỡn ễn noau acrieiq cũai canṓh tâng dống ki . ”
+40011007	ntrớu		Toâq tỗp rien tễ Yang chu loah pỡ án , ki Yê‑su atỡng tễ Yang yỗn cũai clứng ki sâng . Án blớh alới neq : “ Tữ anhia pỡq ramóh Yang tâng ntốq aiq , ntrớu anhia yoc ễ hữm tâng ntốq ki ? Anhia yoc ễ hữm cuyal phát bát tứng tooc tỡ ?
+40011008	ntrớu		Ma lứq anhia pỡq , anhia yoc ễ hữm ntrớu ? Anhia yoc ễ hữm manoaq sớp au nêuq tỡ ? Lứq alới ca sớp au nêuq la ỡt tâng dống puo .
+40011009	ntrớu		Ma ntrớu anhia yoc ễ hữm tâng ntốq ki ? Anhia chanchớm yoc ễ hữm cũai tang bỗq Yiang Sursĩ tỡ ? Lứq samoât cứq atỡng anhia , Yang ki , án la cũai tang bỗq Yiang Sursĩ tê , ma án bữn chớc toâr hỡn tễ cũai tang bỗq canṓh .
+40011016	ntrớu		“ Ntrớu cứq têq sacâm máh cũai tâng dỡi nâi la samoât ntrớu ? Lứq samoât máh cũai ỡt tâng dỡi nâi la riang carnễn ỡt lơiq tâng nchṓh . Muoi tỗp carnễn ki arô yớu alới .
+40012011	~		Yê‑su ta‑ỡi loah alới neq : “ Khân manoaq tễ anhia ma bữn charán cữu sapứl tâng prúng tâng tangái rlu , ki án acṓq chuai yỗn cữu ki loōh tễ prúng ki , pĩeiq tỡ ?
+40012026	~		Khân yiang Satan ma tuih tỗp án bữm , ki tỗp ki cỡt ratáh . Chơ tỡ bữn cỡt tỗp noâng .
+40012027	~		Anhia pai cứq tuih aloōh yiang sâuq cỗ nhơ yiang Bễn‑sabũl yỗn cứq bữn chớc táq ranáq ki . Ma khân cũai ca puai anhia táq ranáq machớng ki tê , ki anhia tỡ bữn pai alới bữn chớc tễ yiang Bễn‑sabũl . Yuaq ngkíq , lứq samoât bữn tễ tỗp anhia toâp ca tếq anhia bữm .
+40012029	noau		“ Khân noau yoc ễ mut dống cũai bán rêng cớp ĩt nheq crơng án , cóq noau chṓq chíq cũai ki voai . Ki nṓq têq talốh dống cũai ki cớp ĩt crơng án .
+40012034	Nṓq		Anhia la samoât cusân bữn pih ! Nṓq têq anhia cũai sâuq ma pai santoiq o ? Ngê ntrớu tâng mứt pahỡm cũai , ki bỗq cũai ki pai aloōh .
+40012048a	noau		Ma Yê‑su blớh neq : “ Noau la mpiq cứq , 
+40012048b	noau		cớp noau la sễm ai cứq ? ”
+40013010	nṓq		Tỗp rien tễ Yê‑su toâq pỡ án cớp blớh án neq : “ Cỗ nṓq thâi atỡng toâq parnai sacâm chóq máh cũai ki ? ”
+40013027	léq		Ngkíq cũai táq ranáq yỗn ncháu ki , alới toâq pỡ ncháu cớp pai neq : ‘ Ncháu ơi ! Lứq ma tỡ bữn , ncháu choat ống ṓc saro sâng tâng sarái ncháu ? Khân ngkíq , ki tễ léq payuac yoaq nian ki toâq ? ’
+40013054a	léq		Án chu pỡ vil án , la vil Na‑sarễt . Án ỡt ngki atỡng tâng dống sang tỗp I‑sarễl . Alới ca tamứng santoiq án , alới ki sâng dớt lứq . Cớp alới blớh neq : “ Tễ léq án nâi bữn ngê rangoaiq nâi ? 
+40013054b	nṓq		Cớp yuaq nṓq án têq táq ranáq salễh ki ?
+40013056	nṓq		Cớp lứq ma tỡ bữn , amuaq án ỡt muoi vil cớp hái ? Ma nṓq cũai nâi bữn sa‑ữi ngê ngkíq ? ”
+40014031	Nṓq		Sanua toâp Yê‑su tavoc atĩ án , âc acṓq Phi‑ễr tễ dỡq . Cớp Yê‑su atỡng án neq : “ Mới sa‑âm bĩq lứq ! Nṓq mới tỡ bữn sa‑âm samoât samơi ? ”
+40015002	Nṓq		“ Nṓq tỗp rien tễ thâi tỡ bữn puai phễp rit achúc achiac hái ? Nṓq nhũang alới chi‑cha ma alới tỡ bữn ariau atĩ puai phễp rit ki ? ”
+40015003	Nṓq		Yê‑su ta‑ỡi loah alới neq : “ Nṓq anhia táh chíq ṓc patâp tễ Yiang Sursĩ , ma anhia ĩt ngê anhia bữm ễn ?
+40015033	Nṓq		Tỗp rien tễ Yê‑su blớh loah án neq : “ Nṓq hái ễ táq bữn crơng sana siem cũai clứng nâi , yuaq ntốq nâi yơng tễ ntốq cũai ỡt ? ”
+40015034	Sếq		Yê‑su blớh loah alới neq : “ Sếq lám bễng anhia bữn ? ” Alới ta‑ỡi neq : “ Hếq bữn tapul lám bễng cớp bar pái lám sĩaq sâng . ”
+40016008	Nṓq		Tữ Yê‑su sâng alới pai ngkíq , án atỡng ễn chóq alới neq : “ Dớt ơiq , anhia tỡ bữn sa‑âm samoât samơi ! Nṓq anhia sarhống tễ anhia ṓq bễng cha ?
+40016009	sếq		Nṓq anhia tỡ yũah sapúh ? Anhia sanhữ ma tỡ bữn tễ sỡng lám bễng cứq siem yỗn sỡng ngin náq cũai cha ? Bo ki anhia parỗm loah bữn sếq carưo clữi tễ cũai ki cha ?
+40016010a	~		Cớp anhia sanhữ ma tỡ bữn tễ tapul lám bễng cứq siem yỗn pỗn ngin náq cũai cha ? 
+40016010b	sếq		Bo ki anhia parỗm loah bữn sếq carưo clữi tễ cũai ki cha ?
+40016011	nṓq		Toâq cứq atỡng anhia tễ crơng yỗn bễng mi cỡt pluoih tễ tỗp Pha‑rasĩ cớp tỗp Sa‑dusê , nṓq anhia tỡ bữn dáng parnai ki la parnai sacâm sâng ? ”
+40016013	noau		Toâq Yê‑su mut tâng cruang cheq vil Sê‑sarê Phi‑lip , án blớh tỗp rien tễ án neq : “ Máh cũai pai cứq , Con Yiang Cỡt Cũai , la noau ? ”
+40016015a	~		Yê‑su blớh loah alới neq : 
+40016015b	noau		“ Ma anhia ễn pai cứq la noau ? ”
+40016026a	ntrớu		Khân cũai aléq ma bữn túc palễc tễc pacan crơng crớu tâng dỡi nâi tỡ bữn ṓq ntrớu , ma án táh chíq rangứh án bữm , ntrớu la kia yỗn án ? 
+40016026b	ntrớu		Cớp acán ntrớu cũai têq ralêq loah yỗn rangứh án ?
+40017010	Nṓq		Chơ tỗp rien tễ Yê‑su blớh án neq : “ Nṓq cũai yống rit pai Ê‑li cóq toâq nhũang Crĩt ? ”
+40017017a	máh léq		Ngkíq Yê‑su ta‑ỡi neq : “ Anhia ơi ! Máh anhia ca ỡt tâng dỡi nâi , lứq anhia tỡ bữn sa‑âm , cớp anhia la loâi lứq . Noâng dũn máh léq cứq ỡt cớp anhia ? 
+40017017b	máh léq		Cớp noâng dũn máh léq cứq chĩuq tanhĩr anhia tỡ bữn sa‑âm ? Dững asuoi con ki toâq pỡ cứq ! ”
+40017019	Nṓq		Vớt tễ ki , Yê‑su ỡt parnơi cớp ống tỗp rien tễ án . Alới blớh Yê‑su neq : “ Nṓq hếq ma tỡ riap tuih aloōh yiang sâuq ki ? ”
+40017025a	Ntrớu		Phi‑ễr ta‑ỡi neq : “ Lứq án yỗn tê . ” Tữ Phi‑ễr mut tâng dống , ki Yê‑su blớh toâp án neq : “ Si‑môn ơi ! Ntrớu mới chanchớm , 
+40017025b	noau		máh puo tâng dỡi nâi parỗm ĩt práq tễ noau ? Alới ĩt práq tễ cruang alới bữm , tỡ la tễ cruang canṓh , cruang ca alới khoiq rachíl riap chơ ? ”
+40018001	noau		Bo ki tỗp rien tễ Yê‑su toâq pỡ án ; chơ blớh neq : “ Tâng tỗp Yiang Sursĩ sốt , noau cỡt toâr hỡn nheq tễ canṓh ? ”
+40018012	Nṓq		“ Nṓq anhia chanchớm ? Khân bữn cũai aléq ca bữn muoi culám lám cữu , ma muoi lám cữu ki clṓc rana , ntrớu cũai ki táq ? Lứq án dōq takêh chít takêh lám cữu ki tâng lễng , cớp án chỗn toâp tâng cóh chuaq muoi lám cữu ca clṓc rana ki . Lứq tỡ ?
+40018021	Sếq trỗ		Moâm ki Phi‑ễr toâq pỡ Yê‑su cớp blớh án neq : “ Ncháu ơi ! Sếq trỗ sễm ai cứq táq lôih cớp cứq , nṓq cứq táh lôih ki ? Tapul trỗ péq tỡ , Ncháu ? ”
+40019007	Nṓq		Cũai Pha‑rasĩ ki blớh loah Yê‑su neq : “ Nṓq Môi‑se khoiq patâp hếq , khân cũai aléq ma yoc ễ táh lacuoi án , cóq cũai ki chĩc tâng choâiq máh ranáq ki yỗn cũai canṓh dáng ? Ngkíq têq án táh lacuoi án . ”
+40019016	ntrớu		Bữn manoaq samiang toâq pỡ Yê‑su . Án blớh Yê‑su neq : “ Thâi ơi ! Ranáq o ntrớu cóq cứq táq yỗn têq cứq bữn tamoong mantái ? ”
+40019017	Nṓq		Yê‑su ta‑ỡi loah án neq : “ Nṓq mới blớh cứq tễ ranáq o ? Bữn ống Yiang Sursĩ sâng lứq o . Khân mới yoc ễ bữn tamoong mantái , cóq mới trĩh nheq ṓc Yiang Sursĩ patâp . ”
+40019018	ntrớu		Cũai samiang ki blớh loah neq : “ Ṓc patâp ntrớu ? ” Yê‑su ta‑ỡi loah neq : “ Chỗi cachĩt cũai ; chỗi cooc lacuoi noau ; chỗi tutuoiq ; chỗi táq ntỡng lauq ;
+40019020	ntrớu		Cũai póng ki ta‑ỡi loah neq : “ Dũ ṓc patâp ki cứq khoiq trĩh chơ . Ma ṓc ntrớu cứq tỡ yũah táq ? ”
+40019025	noau		Bo tỗp rien tễ Yê‑su sâng ngkíq , alới sâng dớt lứq cớp alới blớh neq : “ Khân ngkíq , noau têq mut tâng tỗp Yiang Sursĩ sốt ? ”
+40019027	ntrớu		Moâm ki Phi‑ễr pai cớp Yê‑su neq : “ Nâi ! Hếq khoiq táh chíq chơ dũ ramứh hếq bữn , yuaq hếq puai thâi . Ngkíq nỡ ra hếq bữn kia ntrớu ? ”
+40020006	Nṓq		Cớp toâq moat mandang ralóh , ncháu ki pỡq pỡ dỗng sĩa . Án ramóh máh cũai canṓh tỡ bữn táq ranáq ntrớu . Ki án blớh máh cũai ki neq : ‘ Nṓq anhia ỡt níc nâi , nheq muoi tangái nâi anhia tỡ bữn táq ntrớu ? ’
+40020012	~		Alới pai neq : ‘ Máh cũai ca toâq ntun ki , alới táq mahỗi sâng . Ma hếq nâi , hếq táq nhứp bữ . Hếq chĩuq tiang phũac cớp chĩuq lakéh lakiei táng tangái . Ma ncháu culáh práq cóng hếq machớng ncháu culáh práq cóng alới ki tê . ’
+40020021	ntrớu		Yê‑su blớh mansễm ki neq : “ Ramứh ntrớu mới yoc ễ bữn ? ” Mansễm ki ta‑ỡi neq : “ Sễq thâi yỗn bar lám con cứq nâi tacu manoaq coah atoam , manoaq coah avêr thâi toâq thâi cỡt sốt . ”
+40020032	ntrớu		Ngkíq Yê‑su tangứt . Án arô bar náq ki cớp blớh alới ki neq : “ Ramứh ntrớu anhia yoc cứq táq yỗn anhia ? ”
+40021010	noau		Bo Yê‑su mut tâng vil Yaru‑salễm , nheq tữh cũai ỡt tâng vil ki , alới parlṓng nhêng cớp alới blớh neq : “ Cũai nâi la noau ? ”
+40021016	~		Ngkíq alới blớh Yê‑su neq : “ Thâi sâng ma tỡ bữn máh cũai carnễn nâi triau cupo ? ” Yê‑su ta‑ỡi alới neq : “ Lứq cứq sâng . Nṓq riang pai anhia tỡ nai doc tâng tâm saráq Yiang Sursĩ ? Án khoiq atỡng santoiq neq : ‘ Yiang Sursĩ ơi , anhia táq yỗn bỗq carnễn ca cớt lứq , dếh alới ca noâng pu tóh , la ũat khễn anhia . ’ ”
+40021020	Nṓq		Tữ tỗp rien tễ Yê‑su hữm ranáq nâi , alới sâng dớt lứq cớp alới blớh neq : “ Nṓq nỡm aluang nâi cỡt roōh chái lứq ? ”
+40021023a	ntrớu		Yê‑su chu loah pỡ dống sang toâr sĩa . Bo án atỡng cũai ỡt tâng ki , bữn máh cũai sốt tỗp tễng rit sang Yiang Sursĩ , cớp máh cũai sốt nheq sâu toâq pỡ ki tê ; cớp alới blớh án neq : “ Tễ chớc ntrớu thâi táq ranáq salễh nâi ? 
+40021023b	noau		Noau yỗn thâi bữn chớc nâi ? ”
+40021025a	léq		Ranáq batễm Yang táq , tễ léq án bữn chớc táq ranáq ki , tễ Yiang Sursĩ tỡ la tễ cũai sâng ? ” Chơ alới manoaq sarhống manoaq neq : “ Khân hái ta‑ỡi án neq : 
+40021025b	~		‘ Ranáq batễm nâi toâq tễ Yiang Sursĩ , ’ ngkếq án blớh loah hái neq : 
+40021025c	nṓq		‘ Khân ngkíq , ki nṓq anhia tỡ bữn sa‑âm Yang ? ’
+40021028	Ntrớu		“ Ntrớu anhia chanchớm tễ parnai sacâm nâi ? Bữn manoaq ca bữn bar lám con samiang . Mpoaq ki toâq pỡ án ca ai , cớp ớn án neq : ‘ Con ơi ! Tangái nâi mới pỡq táq ranáq tâng nưong hái , nơ ai . ’
+40021031	aléq		“ Bar náq con samiang ki , án ca aléq lứq trĩh cớp puai mứt pahỡm mpoaq ? ” Alới ki ta‑ỡi Yê‑su neq : “ Án ca ai . ” Chơ Yê‑su atỡng ễn neq : “ Lứq samoât cứq atỡng anhia , máh cũai ca parỗm práq thễq cớp máh cũai mansễm ca chếq tỗ , lứq alới bữn mut tâng tỗp Yiang Sursĩ sốt tễ nhũang anhia .
+40021040	ntrớu		“ Toâq ncháu ki pỡq pỡ nưong án , ntrớu án táq cớp alới ca táq dỡ nưong án ? ”
+40022012	Nṓq		Chơ án pai chóq cũai ki neq : ‘ Yớu ơ ! Nṓq mới toâq hâu racoâiq nâi ma mới tỡ bữn sớp au noau dốq racoâiq . ’ Ma cũai ki tỡ têq ta‑ỡi ntrớu án .
+40022017	Ntrớu		Ngkíq hếq sễq thâi atỡng yỗn hếq . Ntrớu thâi chanchớm , pĩeiq ma tỡ bữn hái cóq muap práq thễq pỡ puo Rô‑ma ? ”
+40022018	Nṓq		Ma Yê‑su dáng chơ alới chim án , ễq án tỡ dáng ta‑ỡi . Án pai chóq alới neq : “ Anhia la ễm bĩq parnai sâng ! Nṓq anhia chuaq ralíh chóq cứq ?
+40022020a	noau		Yê‑su blớh alới neq : “ Roâp anâi cớp chĩr anâi samoât tỗ noau ? ”
+40022020b	~		
+40022028	noau		Tữ alới ca cuchĩt ki tamoong loah , mansễm ki cỡt lacuoi noau , yuaq alới tapul náq ki ndỡm nheq mansễm ki ? ”
+40022036	ntrớu		Án blớh neq : “ Thâi ơi ! Tâng phễp rit hái , ṓc patâp ntrớu la toâr clữi nheq tễ ṓc canṓh ? ”
+40022042a	Ntrớu		“ Ntrớu anhia chanchớm tễ manoaq Crĩt ? 
+40022042b	noau		Án la tễ tṓng toiq noau ? ” Alới ki ta‑ỡi neq : “ Án la tễ tṓng toiq puo Davĩt . ”
+40022043	nṓq		Ngkíq Yê‑su blớh loah alới neq : “ Khân ngkíq , ki nṓq Raviei Yiang Sursĩ yỗn puo Davĩt dōq Crĩt la ‘ Ncháu ’ ? , cỗ tễ mbṓq puo Davĩt khoiq pai neq chơ :
+40022045	nṓq		 Khân Davĩt dōq Crĩt nâi la ‘ Ncháu ’ , ki nṓq têq Davĩt dōq cũai tễ tṓng toiq án bữm la ‘ Ncháu ’ ? ”
+40023017	aléq		Anhia ca cũai sacũl cớp riang cũai sũt moat ơi ! Aléq la toâr hỡn ? Yễng ca ỡt tâng dống sang toâr , tỡ la dống sang ca táq yỗn yễng ki cỡt o yáng moat Yiang Sursĩ ?
+40023019	aléq		Lứq anhia la samoât riang cũai sũt moat ! Aléq la toâr hỡn ? Crơng sang ỡt tâng prông ki , tỡ la prông ca táq yỗn crơng ki cỡt o yáng moat Yiang Sursĩ ?
+40023033	~		Anhia la cũai ca bữn mứt pahỡm loâi lứq , samoât riang cusân pla . Lứq anhia tỡ têq roac tễ Yiang Sursĩ rablớh anhia cớp takễl anhia tâng pống sarloac .
+40024003a	maléq		Bo Yê‑su tacu ỡt tâng Dũal O‑li‑vê , bữn ống tỗp rien tễ án sâng toâq pỡ án . Alới blớh án neq : “ Thâi ơi ! Sễq thâi atỡng yỗn hếq , noâng maléq dũn ranáq nâi toâq ? 
+40024003b	ntrớu		Bữn tếc ntrớu sapáh yỗn hếq dáng thâi chu loah pỡ cutễq nâi cớp toâq tangái parsốt ? ”
+40024045	~		“ Khân bữn cũai sũl táq o cớp rangoaiq , ki ncháu chóh yỗn án táq sốt nhêng máh cũai canṓh ca táq ranáq án . Ntrớu ncháu ớn siem , ki án siem ramứh ki .
+40025037	Bo léq		Chơ alới ca tanoang o ki blớh neq : ‘ Ncháu ơi ! Bo léq hếq hữm Ncháu panhieih cớp hếq siem yỗn Ncháu ? Tỡ la Ncháu khlac dỡq cớp hếq yỗn Ncháu nguaiq ?
+40025038	Bo léq		Bo léq hếq hữm Ncháu la cũai tamoi liaq , cớp hếq tabỡp tabéh o yỗn Ncháu mut tâng dống hếq ? Tỡ la Ncháu ṓq tampâc cớp hếq yỗn Ncháu bữn tampâc ?
+40025039	bo léq		Cớp bo léq hếq hữm Ncháu a‑ĩ tỡ la ỡt tũ tâng cuaq , ma hếq pỡq sa‑óh Ncháu ? ’
+40025044	Bo léq		Chơ alới cũai ki blớh Puo neq : ‘ Ncháu ơi ! Bo léq hếq hữm Ncháu sâng panhieih , tỡ la khlac dỡq , tỡ la cũai tamoi liaq , tỡ la Ncháu ṓq tampâc , tỡ la Ncháu a‑ĩ cớp ỡt tũ tâng cuaq , ma hếq tỡ bữn chuai nứng Ncháu ? ’
+40026008	Nṓq		Tữ tỗp rien tễ Yê‑su hữm mansễm ki táq ngkíq , alới sâng cutâu lứq , cớp alới pai neq : “ Nṓq mansễm nâi táq ranáq ki , ma palỗ miat mun ?
+40026010	Nṓq		Ma Yê‑su sâng alới pai ngkíq , cớp án atỡng alới neq : “ Nṓq anhia táq yỗn mansễm nâi ngua ? Mansễm nâi táq ranáq o yỗn cứq .
+40026015	ntrớu		Cớp án atỡng alới neq : “ Khân cứq ma chiau tỗ Yê‑su toâq pỡ atĩ anhia , ki ntrớu anhia yỗn cứq ? ” Ngkíq alới pruam yỗn pái chít ṓc práq .
+40026017	aléq		Tâng máh tangái tỗp I‑sarễl cha bũi sanhữ Tangái Loōh , nheq tapul tangái alới cha bễng tỡ bữn pluoih . Tâng tangái muoi ki , tỗp rien tễ Yê‑su toâq pỡ án cớp blớh neq : “ Ntốq aléq thâi yoc hếq pỡq thrũan yỗn thâi cha pêl bũi ? ”
+40026040	Nṓq		Chơ Yê‑su chu loah pỡ pái náq tỗp rien tễ án . Án ramóh alới ki bếq . Án blớh Phi‑ễr neq : “ Nṓq anhia tỡ rơi trỗl mahỗi cớp cứq ?
+40026050	ntrớu		Yê‑su atỡng loah án neq : “ Yớu ơi ! Ranáq ntrớu mới yoc ễ táq , ki mới táq chái ! ” Chơ noau toâq yống cớp cỗp Yê‑su .
+40026054	~		Ma khân cứq táq ngkíq , lứq tỡ bữn rapĩeiq máh Yiang Sursĩ khoiq pai tâng tâm saráq án tễ mbṓq . Saráq ki pai máh ranáq nâi cóq toâq . ”
+40026062a	~		Ngkíq án ca ndỡm nheq tễ rit sang Yiang Sursĩ , án yuor tayứng cớp án blớh Yê‑su neq : “ Máh cũai nâi cauq mới , lứq samoât mới pai ngkíq , ma tỡ bữn ? 
+40026062b	ntrớu		Cớp ntrớu mới yoc ễ ta‑ỡi loah chóq alới ki ? ”
+40026065	~		Ngkíq án ca ndỡm rit sang Yiang Sursĩ háq tampâc án bữm táq tếc án sâng ngua lứq . Cớp án pai chóq nheq tữh cũai canṓh neq : “ Án nâi pai ngkíq , ki la máh án khoiq acrieiq Yiang Sursĩ . Choam hái ễ blớh noâng cũai canṓh ? Anhia khoiq sâng chơ án pai parnai ki .
+40026066	Nṓq		Nṓq anhia chanchớm tễ ṓc ki ? ” Ngkíq alới ki ta‑ỡi neq : “ Lứq pĩeiq án cóq cuchĩt ! ”
+40026068	noau		cớp blớh neq : “ Ơ Crĩt ơi ! Khân mới la lứq cũai tang bỗq Yiang Sursĩ , âu mới atỡng hếq , noau chooc mới ? ”
+40027004	ntrớu		Án pai neq : “ Cứq táq lôih yuaq cứq khoiq chếq chíq manoaq ca tỡ bữn bữn lôih ntrớu . ” Ma alới ki ta‑ỡi Yuda neq : “ Ṓc ki tỡ bữn ntrớu cớp hếq . Tam mới ! ”
+40027013	~		Chơ Phi‑lat blớh ễn : “ Mới sâng ma tỡ bữn noau cauq mới sa‑ữi ramứh ? ”
+40027017	aléq		Ngkíq , bo clứng cũai ki rôm , Phi‑lat blớh máh cũai ki neq : “ Cũai aléq anhia yoc cứq acláh yỗn anhia , Ba‑raba , tỡ la Yê‑su , án ca noau dōq la Crĩt ? ”
+40027021	aléq		Án ca sốt ki blớh cũai clứng ki neq : “ Bar náq cũai nâi , anhia yoc cứq acláh án ca aléq ? ” Alới ta‑ỡi : “ Ba‑raba ! ”
+40027022	ntrớu		Phi‑lat blớh ễn neq : “ Khân ngkíq , ki ntrớu anhia ễq cứq táq cớp Yê‑su , án ca noau dōq Crĩt ? ” Alới ki ta‑ỡi neq : “ Téh án tâng aluang sangcáng ! ”
+40027023a	Nṓq		Phi‑lat blớh loah sĩa : “ Nṓq ? 
+40027023b	Ntrớu		Ntrớu án táq lôih cớp anhia ? ” Ma alới ki ta‑ỡi casang lứq hỡn tễ nhũang : “ Téh án tâng aluang sangcáng ! ”
+40027046	Nṓq		Toâq mandang priang Yê‑su arô casang lứq neq : “ Ê‑li , Ê‑li , lama sabac‑tani ? ” Santoiq nâi parlong loah la : “ Yiang Sursĩ cứq ơi ! Yiang Sursĩ cứq ơi ! Nṓq mới táh chíq cứq ? ”
+41001024	Ntrớu		“ Ntrớu anhia yoc cớp hếq , Yê‑su tễ vil Na‑sarễt ? Anhia toâq pỡ nâi ễ cachĩt hếq tỡ ? Cứq sacoal anhia la toâq tễ Yiang Sursĩ cớp tỡ bữn lôih ntrớu . ”
+41001027	Nṓq		Aléq aki sâng dớt lứq . Manoaq blớh manoaq neq : “ Nṓq têq án táq ranáq nâi ? Án atỡng parnai tamái mō bữn chớc salễh . Án sưoq yiang sâuq , cớp yiang ki trĩh án . ”
+41002007a	Nṓq		“ Nṓq cũai nâi pai ngkíq ? Án yoc ễ táq chớc máh Yiang Sursĩ tê . 
+41002007b	aléq		Ngkíq santoiq án pai la máh án acrieiq Yiang Sursĩ chơ . Tỡ bữn cũai aléq têq táh lôih . Ống manoaq Yiang Sursĩ toâp têq táh lôih . ”
+41002008	Nṓq		Bo ki toâp Yê‑su dáng alới ki chanchớm ngkíq tâng mứt alới . Án blớh alới neq : “ Nṓq anhia chanchớm ngkíq tâng mứt anhia ?
+41002009	aléq		Santoiq aléq anhia sâng ien hỡn cứq atỡng ? Pĩeiq cứq atỡng cũai a‑ĩ coang neq : ‘ Lôih mới cứq táh yỗn , ’ tỡ la ‘ Mới yuor tayứng , pỡq . Mới dững achu loâng cantrang mới ’ ? Santoiq aléq anhia sâng ien hỡn cứq atỡng ?
+41002016	Nṓq		Bữn cũai yống rit tễ tỗp Pha‑rasĩ ễn hữm Yê‑su cha parnơi cớp cũai parỗm ĩt práq thễq cớp cũai lôih canṓh . Ngkíq cũai yống rit ki blớh tỗp rien tễ Yê‑su : “ Nṓq án ki cha parnơi cớp cũai parỗm ĩt práq thễq cớp cũai lôih canṓh ? ”
+41002018	Nṓq		Máh cũai rien tễ Yang cớp máh cũai Pha‑rasĩ , alới dốq rưoh tangái dōq ót sana cỗ alới yoc chanchớm tễ ngê Yiang Sursĩ . Alới toâq blớh Yê‑su neq : “ Tỗp rien tễ Yang cớp alới ca puai tỗp Pha‑rasĩ , alới rưoh tangái dōq ót sana . Nṓq tỗp rien tễ thâi tỡ bữn táq machớng alới ki tê ? ”
+41002019	~		Yê‑su ta‑ỡi loah alới neq : “ Khân bữn samiang ĩt lacuoi , bo yớu pỡq racoâiq cớp án , alới sâng bũi .
+41002024	ntrớu		Tỗp Pha‑rasĩ atỡng Yê‑su neq : “ Ki ! Alới ki táq ranáq tỡ cỡt rit cuang ntrớu tâng tangái rlu . ”
+41003004	ntrớu		Chơ Yê‑su blớh alới ca ỡt mpễr ki neq : “ Khân puai rit hái , ntrớu anhia sâng pĩeiq hỡn noau táq tâng tangái rlu ? Pĩeiq noau táq o , ma pĩeiq noau táq sâuq ? Pĩeiq noau chuai amoong , ma pĩeiq noau cachĩt ? Ṓc aléq anhia sâng o hỡn ? ” Ma alới ki tỡ bữn ta‑ỡi ntrớu .
+41003023	Nṓq		Ngkíq Yê‑su arô cũai ki toâq pỡ án . Án atỡng alới toâq parnai sacâm neq : “ Nṓq yiang Satan ma têq tuih tỗ án bữm ?
+41003033a	Noau		Ma Yê‑su blớh loah alới ki : “ Noau la mpiq cớp sễm ai cứq ? ”
+41003033b	~		
+41004013	nṓq		Yê‑su blớh alới ki neq : “ Khân anhia tỡ dáng parnai sacâm nâi , nṓq anhia bữn dáng nheq tữh parnai sacâm canṓh ?
+41004030a	ntrớu		Yê‑su blớh ễn : “ Hái chanchớm Yiang Sursĩ táq sốt la samoât riang ntrớu ? 
+41004030b	ntrớu		Cớp hái ĩt parnai sacâm ntrớu ễ sacâm tễ sốt ki ?
+41004038	Nṓq		Yê‑su ỡt tâng soi tuoc ki bếq tacỗl racỗl . Yớu án amoaih án cớp pai neq : “ Thâi ơi ! Nṓq thâi tỡ bữn croōq hái ễ cuchĩt ? ”
+41004040a	Nṓq		Chơ án blớh alới ki neq : “ Nṓq anhia ngcṓh ? 
+41004040b	Nṓq		Nṓq anhia tỡ yũah sa‑âm sĩa ? ”
+41004041	Nṓq		Ma alới ki santar sâng tâng mứt alới . Manoaq blớh manoaq neq : “ Nṓq cũai nâi ? Cuyal cớp dỡq ma têq án ! ”
+41005007	Ntrớu		Án hễr casang lứq pai neq : “ Ntrớu anhia yoc ễ táq chóq cứq , Yê‑su ? Anhia la Con Yiang Sursĩ , án ca toâr clữi nheq tễ canṓh . Cứq sễq anhia yáng moat Yiang Sursĩ , chỗi táq tỗiq bap cứq . ”
+41005009	Ntrớu		Chơ Yê‑su blớh án : “ Ntrớu ramứh mới ? ” Yiang sâuq ki ta‑ỡi : “ Hếq clứng lứq . Ngkíq ramứh cứq la Poâl . ”
+41005030	Noau		Yê‑su dáng toâp rêng loōh tễ tỗ án yỗn cỡt ranáq nâi . Yê‑su píh nhêng cũai clứng ki , chơ blớh : “ Noau satoaq au cứq ? ”
+41005031	Noau		Tỗp rien tễ Yê‑su ta‑ỡi : “ Thâi hữm chơ clứng cũai nêt thâi . Nṓq noâng thâi blớh : ‘ Noau satoaq cứq ? ’ ”
+41005035	Nṓq		Bo Yê‑su noâng táq ntỡng cớp mansễm ki , bữn cũai canṓh toâq tễ dống Yaru , án ca ndỡm muoi dống sang tỗp I‑sarễl . Cũai ki atỡng Yaru neq : “ Con mansễm mới khoiq cuchĩt chơ . Nṓq noâng mới pakhoq thâi ? ”
+41005039a	Nṓq		Toâq án mut tâng dống , Yê‑su blớh alới ki neq : “ Nṓq anhia nhiam u‑ỗi casang lứq ? Con ki tỡ bữn cuchĩt mō . Án bếq sâng . ”
+41005039b	~		
+41006002a	nléq		Toâq tangái rlu án pỡq atỡng tâng dống sang tỗp I‑sarễl . Nheq tữh cũai clứng ki , alới sâng dớt lứq . Alới rablớh neq : “ Tễ nléq cũai nâi bữn santoiq nneq ? 
+41006002b	Nṓq		Nṓq án bữn sa‑ữi ngê rangoaiq ? Bữn sa‑ữi ranáq salễh tễ atĩ án táq . ”
+41006002c	~		
+41006022	Ntrớu		Tữ con mansễm Hê‑rô‑dĩa mut pỡ clống noau cha ki , án puan sarai . Hê‑rôt cớp tamoi , alới sâng bũi lứq con Hê‑rô‑dĩa puan . Ngkíq Hê‑rôt atỡng mansễm ki neq : “ Ntrớu mới yoc ễ bữn , mới sễq tễ cứq . Lứq cứq yỗn mới aki . ”
+41006024	ntrớu		Mansễm ki loōh tễ ki , pỡq blớh mpiq án : “ Ramứh ntrớu mới yoc cứq sễq tễ án ? ” Mpiq án ta‑ỡi neq : “ Mới sễq plỡ Yang , án ca dốq táq batễm . ”
+41006037	~		Ma Yê‑su atỡng loah alới ki neq : “ Anhia toâp yỗn alới bữn crơng sana cha . ” Ngkíq alới blớh Yê‑su : “ Thâi yoc hếq pỡq chỡng bar culám ṓc práq crơng sana yỗn alới cha tỡ ? ”
+41006038	Sếq		Yê‑su blớh loah alới neq : “ Sếq lám bễng anhia bữn ? Anhia pỡq nhêng chim voai . ” Tữ alới pỡq nhêng chơ , alới pai neq : “ Hếq bữn sỡng lám bễng cớp bar lám sĩaq . ”
+41007005	Nṓq		Ngkíq máh cũai Pha‑rasĩ cớp cũai yống rit blớh Yê‑su neq : “ Nṓq tỗp rien tễ thâi tỡ bữn puai rit achúc achiac alới ? Nṓq alới chi‑cha ma atĩ alới tỡ bữn ariau puai phễp rit ? ”
+41008004	Nṓq		Tỗp rien tễ án blớh loah án neq : “ Nṓq hái ễ táq bữn crơng sana siem nheq tữh cũai nâi bữn cha pasâi , yuaq ntốq nâi yơng tễ vil cũai ỡt ? ”
+41008005	Sếq		Yê‑su blớh loah alới : “ Sếq lám bễng anhia bữn ? ” Alới ta‑ỡi neq : “ Tapul lám . ”
+41008012	Nṓq		Ma Yê‑su tangứh cusốh tâng mứt án , chơ ta‑ỡi alới neq : “ Nṓq cũai tâng dỡi nâi chuaq níc tếc salễh tễ cứq ? Lứq samoât cứq atỡng anhia , cứq tỡ bữn yỗn cũai ỡt tâng dỡi nâi bữn tếc ntrớu . ”
+41008017	Nṓq		Yê‑su sâng alới pai ngkíq , chơ blớh alới neq : “ Nṓq anhia ỡt sarhống pai hái tỡ bữn bễng cha ? Nṓq anhia yũah sâng , yũah dáng tỡ ? Mứt anhia noâng coang , lứq tỡ ?
+41008018a	Nṓq		Nṓq anhia bữn moat , 
+41008018b	~		ma tỡ bữn hứm ? Anhia bữn cutũr , ma tỡ bữn sâng ? Anhia sanhữ ma tỡ bữn ?
+41008019	sếq		Bo cứq pĩh sỡng lám bễng yỗn sỡng ngin náq , bữn sếq carưo poân anhia parỗm loah máh ngcáh anhia cha ? ” Alới ta‑ỡi án neq : “ Muoi chít la bar carưo . ”
+41008020	sếq		Yê‑su blớh sĩa : “ Cớp bo cứq pĩh tapul lám bễng yỗn pỗn ngin náq , sếq carưo poân anhia parỗm loah máh ngcáh anhia cha ? ” Alới ta‑ỡi án neq : “ Tapul carưo . ”
+41008021	~		Yê‑su blớh loah alới neq : “ Anhia sapúh ma tỡ yũah ? ”
+41008023	ntrớu		Yê‑su tếc atĩ cũai sũt ki cớp dững án loōh yáng tiah vil . Moâm ki Yê‑su pruih dỡq viaq tâng moat cũai sũt cớp satoaq án , chơ blớh cũai sũt ki neq : “ Mới hữm ntrớu tỡ ? ”
+41008027	noau		Vớt ki Yê‑su pỡq loah cớp tỗp rien tễ án . Alới mut máh vil tâng cruang Sê‑sarê Phi‑lip . Bo alới pỡq tâng rana , Yê‑su blớh tỗp rien tễ án neq : “ Ntrớu anhia sâng noau pai cứq la noau ? ”
+41008029a	~		Yê‑su blớh loah alới neq : 
+41008029b	noau		“ Ma anhia ễn pai cứq la noau ? ” Phi‑ễr ta‑ỡi án : “ Lứq thâi la Crĩt , án ca Yiang Sursĩ rưoh dōq chuai amoong cũai . ”
+41008036	ntrớu		Khân cũai aléq ma bữn túc palễc tễc pacan crơng crớu tâng dỡi nâi tỡ bữn ṓq ntrớu , ma án táh chíq rangứh án bữm , ntrớu la kia yỗn án ?
+41008037	ntrớu		Cớp acán ntrớu cũai têq ralêq loah yỗn rangứh án ?
+41009010	Ntrớu		Ngkíq alới trĩh parnai Yê‑su patâp . Ma alới manoaq blớh manoaq : “ Ntrớu ramứh anâi , án tamoong loah tễ ping ? ”
+41009011	Nṓq		Chơ alới blớh loah Yê‑su neq : “ Nṓq cũai yống rit pai Ê‑li cóq toâq nhũang Crĩt ? ”
+41009012	nṓq		Yê‑su ta‑ỡi loah alới neq : “ Lứq Ê‑li toâq nhũang dōq atức dũ ramứh tamái loah . Khân ngkíq , ki nṓq parnai Yiang Sursĩ khoiq chĩc chơ tễ Con Yiang Cỡt Cũai cóq chĩuq sa‑ữi ramứh túh coat cớp noau tỡ bữn yám noap án ?
+41009016	Ntrớu		Yê‑su blớh alới ki neq : “ Ntrớu anhia rasuon cớp tỗp rien tễ cứq ? ”
+41009019a	máh léq		Yê‑su blớh loah alới ki neq : “ Anhia ơi ! Anhia ỡt tâng dỡi nâi , lứq anhia tỡ bữn sa‑âm . Noâng dũn máh léq cứq ỡt cớp anhia ? 
+41009019b	máh léq		Noâng dũn máh léq cứq chĩuq cớp tanhĩr anhia tỡ bữn sa‑âm . Âu anhia dững asuoi con ki toâq pỡ cứq . ”
+41009021	Maléq		Yê‑su blớh mpoaq án ki neq : “ Maléq dũn án bữn a‑ĩ ngkíq ? ”
+41009028	Nṓq		Tữ Yê‑su cớp tỗp rien tễ án mut tâng dống , chơ tỗp rien tễ án blớh loah án neq : “ Nṓq hếq ma tỡ riap tuih yiang sâuq ki ? ”
+41009033	ntrớu		Moâm ki alới toâq pỡ vil Cabê‑na‑ũm . Tữ Yê‑su ỡt tâng dống , án blớh alới neq : “ Bo anhia pỡq tâng rana , ntrớu anhia sarhống ? ”
+41009050	nṓq		Boi la lứq crơng o . Ma khân boi cỡt ntiah , ki nṓq ễ táq yỗn án cỡt báq loah ? Cóq anhia báq pachóc ỡt ratoi parnơi , cớp manoaq saryóq manoaq . ”
+41010003	Ntrớu		Yê‑su blớh loah alới neq : “ Ntrớu Môi‑se patâp anhia ? ”
+41010017	Ntrớu		Bo Yê‑su ntôm loōh ễ pỡq tâng rana , bữn manoaq samiang lúh toâq pỡ án cớp sacốh racớl yáng moat án . Cũai ki blớh Yê‑su neq : “ Thâi ơi ! Thâi la o lứq . Ntrớu cứq cóq táq , yỗn têq cứq bữn tamoong mantái ? ”
+41010018	Nṓq		Yê‑su blớh loah án neq : “ Nṓq mới dōq cứq o ? Ống Yiang Sursĩ toâp o .
+41010026	noau		Tỗp rien tễ Yê‑su sâng dớt lứq , cớp alới blớh loah Yê‑su neq : “ Khân ngkíq , noau têq mut tâng tỗp Yiang Sursĩ sốt ? ”
+41010036	ntrớu		Yê‑su blớh alới bar náq neq : “ Ṓc ntrớu anhia yoc cứq táq yỗn anhia ? ”
+41010051	Ntrớu		Yê‑su blớh án neq : “ Ntrớu mới yoc cứq táq yỗn mới ? ” Cũai sũt ki ta‑ỡi : “ Thâi ơi ! Sễq yỗn moat cứq cỡt blang loah ! ”
+41011003	Nṓq		Khân bữn noau blớh anhia neq : ‘ Nṓq anhia táq ngkíq ? ’ ki anhia ta‑ỡi neq : ‘ Ncháu hái yoc ễ mian . Moâm án mian , chơ án dững culáh loah yỗn anhia . ’ ”
+41011005	ntrớu		Cũai ỡt tayứng cheq ki blớh alới neq : “ Anhia leh táq ntrớu aséh ki ? ”
+41011028a	ntrớu		Cớp alới blớh án : “ Tễ chớc ntrớu thâi táq ranáq salễh nâi ? 
+41011028b	Noau		Noau yỗn thâi bữn chớc nâi ? ”
+41011030	léq		Ranáq batễm Yang táq , tễ léq ranáq nâi toâq , tễ Yiang Sursĩ tỡ la tễ cũai sâng ? Anhia ta‑ỡi cứq . ”
+41011031a	~		Chơ alới manoaq sarhống manoaq : 
+41011031b	nṓq		“ Khân hái ta‑ỡi án neq : ‘ Ranáq batễm nâi tễ Yiang Sursĩ , ’ ngkếq án blớh loah hái : ‘ Khân ngkíq , ki nṓq anhia tỡ bữn sa‑âm án ? ’
+41012009	Nṓq		Nṓq toâp ncháu nưong nâi ễ táq ? Lứq án toâq cachĩt chíq cũai táq dỡ nưong ki , cớp án chiau yỗn cũai canṓh ễn táq dỡ nưong ki .
+41012015	Nṓq		Ma Yê‑su dáng alới ki táq nan sâng . Án blớh loah alới neq : “ Nṓq anhia chuaq ralíh chóq cứq ? Anhia dững yỗn cứq muoi ṓc práq , yỗn cứq nhêng . ”
+41012016a	noau		Ngkíq alới ki dững yỗn án muoi ṓc práq . Chơ án blớh loah alới neq : “ Roâp anâi cớp chĩr anâi samoât tỗ noau ? ” Alới ki ta‑ỡi án neq : “ Puo Rô‑ma . ”
+41012016b	~		
+41012023	noau		Tữ máh cũai cuchĩt bữn tamoong loah , ki mansễm ki la lacuoi noau ? Yuaq tapul náq alới la ndỡm nheq mansễm ki . ”
+41012028	aléq		Bữn manoaq tễ tỗp cũai yống rit toâq pỡ ki cớp sâng alới ki raloai . Án sâng Yê‑su ta‑ỡi o lứq , ngkíq án blớh Yê‑su neq : “ Tễ máh ṓc Yiang Sursĩ patâp , ṓc aléq toâr clữi nheq tễ ṓc canṓh ? ”
+41012035	Nṓq		Bo Yê‑su atỡng tâng dống sang toâr , án blớh neq : “ Nṓq cũai yống rit pai Crĩt la tễ tṓng Davĩt ?
+41012037	nṓq		Cutỗ Davĩt toâp dōq Crĩt nâi la ‘ Ncháu ’ . Ki nṓq têq Davĩt dōq cũai tễ tṓng toiq án bữm la ‘ Ncháu ’ ? ” Cũai clứng ki sâng bũi o lứq Yê‑su atỡng ngkíq .
+41013004a	maléq		Alới ki blớh án : “ Sễq thâi atỡng hếq , noâng dũn maléq ranáq nâi toâq ? 
+41013004b	ntrớu		Tếc ntrớu sapáh nhũang ranáq nâi ễ toâq ? ”
+41014004	Nṓq		Bữn cũai ỡt ngki sâng cutâu lứq , cớp alới sarhống pai neq : “ Nṓq dỡq phuom nâi ma án palỗ chíq ngkíq ?
+41014006	Nṓq		Ma Yê‑su atỡng alới neq : “ Dōq tam án . Nhôp táq ntrớu mansễm ki ? Nṓq anhia táq yỗn án ngua ? Án khoiq táq ranáq o yỗn cứq .
+41014012	léq		Tâng tangái cũai I‑sarễl cha bễng tỡ bữn pluoih cớp kiac charán cữu dōq sanhữ Tangái Loōh , tangái ki tỗp rien tễ Yê‑su blớh án neq : “ Ntốq léq thâi yoc hếq pỡq thrũan yỗn thâi cha pêl bũi nâi ? ”
+41014014	Nléq		Khân án mut dống aléq , anhia atỡng ncháu dống ki neq : ‘ Thâi blớh neq : “ Nléq clống tamoi yỗn cứq cớp tỗp rien tễ cứq cha pêl bũi Tangái Loōh ? ” ’
+41014060a	~		Tữ ki án ca ndỡm nheq tễ rit sang Yiang Sursĩ yuor tayứng ỡt mpứng dĩ alới . Án blớh Yê‑su neq : “ Mới ễ ta‑ỡi ma tỡ bữn ? 
+41014060b	Nṓq		Nṓq mới sâng alới ki cauq tễ mới ? ”
+41014063	~		Chơ án ca ndỡm nheq tễ rit sang Yiang Sursĩ háq tampâc án bữm , táq tếc án sâng ngua lứq . Cớp án pai neq : “ Choam hái ễ blớh noâng cũai canṓh ?
+41014064	Nṓq		Anhia khoiq sâng chơ án pai parnai ki la máh án khoiq acrieiq Yiang Sursĩ . Nṓq anhia chanchớm tễ ṓc ki ? ” Nheq tữh alới ki pruam muoi mứt anoat Yê‑su cóq chĩuq cuchĩt .
+41015004	Nṓq		Chơ Phi‑lat blớh loah Yê‑su : “ Nṓq mới tỡ bữn ta‑ỡi ntrớu ? Mới sâng chơ noau cauq mới sa‑ữi ramứh . ”
+41015012	Ntrớu		Phi‑lat blớh loah alới ki neq : “ Ntrớu anhia ễq cứq táq cớp cũai nâi , ca anhia dōq puo I‑sarễl ? ”
+41015014a	Nṓq		Phi‑lat blớh loah alới ki neq : “ Nṓq ? 
+41015014b	ntrớu		Ṓc ntrớu án táq sâuq ? ” Ma alới ki ta‑ỡi casang lứq hỡn tễ nhũang ễn : “ Téh án tâng aluang sangcáng ! ”
+41015034	nṓq		Toâq mandang priang Yê‑su arô casang lứq neq : “ Ê‑lô‑i , Ê‑lô‑i , lama‑sabac‑tani ? ” Santoiq nâi parlong loah la , “ Yiang Sursĩ cứq ơi , Yiang Sursĩ cứq ơi , nṓq mới táh chíq cứq ? ”
+41016003	Noau		Alới manoaq blớh manoaq neq : “ Noau têq vih tamáu yỗn hái tễ ngoah ping ki ? ”
+42001018	Nṓq		Sa‑chari blớh loah ranễng ki neq : “ Nṓq cứq têq dáng ṓc ki la lứq pĩeiq ? Cứq cớp lacuoi cứq khoiq thâu chơ . ”
+42001034	nṓq		Mari ta‑ỡi ranễng ki neq : “ Cứq tỡ yũah bếq parnơi cớp cũai samiang aléq . Ngkíq , nṓq ramứh nâi têq toâq pỡ cứq ? ”
+42001043	nṓq		Yuaq nṓq mpiq Ncháu cứq toâq sa‑óh cứq ? Ṓc nâi la toâr lứq yỗn cứq !
+42001066	nṓq		Nheq tữh cũai ca sâng tễ ramứh ki , alới chanchớm tễ ṓc ki , cớp alới manoaq blớh manoaq neq : “ Con nâi nỡ ra án cỡt nṓq ? ” Yuaq Yiang Sursĩ lứq ỡt cớp án .
+42002048	Nṓq		Toâq mpiq mpoaq Yê‑su hữm án pỡ ki , alới sâng dớt lứq . Mpiq án pai chóq án : “ Nṓq con táq nneq cớp hếq ? Mpoaq mới cớp cứq hớl sâng chuaq mới . ”
+42002049	ntrớu		Yê‑su ta‑ỡi alới neq : “ Chuaq cứq táq ntrớu ? Anhia dáng ma tỡ bữn , cứq cóq ỡt tâng dống Mpoaq cứq ? ”
+42003007	~		Bữn clứng cũai toâq pỡ Yang yoc án táq batễm yỗn alới . Án atỡng chóq alới ki neq : “ Anhia la pla ariang cusân tur . Anhia tỡ têq viaq vớt tễ Yiang Sursĩ táq anhia toâq án táq cũai lôih tâng tangái parsốt .
+42003010	ntrớu		Máh cũai ki blớh Yang neq : “ Khân ngkíq , ki ntrớu hếq ễ táq ? ”
+42003012	Ntrớu		Bữn cũai ca parỗm práq thễq toâq pỡ Yang yoc án táq batễm yỗn alới . Alới ki blớh neq : “ Thâi ơi ! Ntrớu hếq cóq táq ? ”
+42003014a	~		Cớp cũai tahan , alới blớh tê : “ Ma hếq , 
+42003014b	ntrớu		ntrớu hếq cóq táq ? ” Yang atỡng loah alới neq : “ Anhia chỗi cachĩt lôp cũai , cớp chỗi cauq apớt cũai canṓh . Cớp anhia chỗi chanchớm ễ bữn práq hỡn tễ práq casâi anhia . ”
+42004034	Nṓq		“ Nṓq anhia yoc ễ táq cớp hếq , Yê‑su tễ vil Na‑sarễt ? Anhia toâq pỡ nâi ễ cachĩt hếq tỡ ? Cứq sacoal anhia la toâq tễ Yiang Sursĩ cớp tỡ bữn lôih ntrớu . ”
+42004036	ntrớu		Aléq aki sâng dớt lứq , chơ manoaq blớh manoaq neq : “ Santoiq ki la santoiq ntrớu ? Cũai nâi bữn chớc têq tuih aloōh yiang sâuq tễ tỗ cũai , cớp yiang sâuq ki têq án ! ”
+42005021a	noau		Cũai yống rit cớp cũai Pha‑rasĩ , alới tếng tâng mứt alới neq : “ Cũai nâi la noau ? Án yoc ễ cỡt chớc máh Yiang Sursĩ tê . Ngkíq santoiq án pai la máh án acrieiq Yiang Sursĩ chơ . 
+42005021b	aléq		Tỡ bữn cũai aléq têq táh lôih . Ống manoaq Yiang Sursĩ toâp têq táh lôih . ”
+42005022	Nṓq		Ma Yê‑su khoiq dáng alới chanchớm ngkíq ; chơ án blớh alới ki neq : “ Nṓq anhia chanchớm ṓc ki tâng mứt anhia ?
+42005023	aléq		Santoiq aléq anhia sâng ien hỡn cứq atỡng ? Pĩeiq cứq atỡng cũai a‑ĩ coang neq : ‘ Lôih mới cứq táh yỗn , ’ tỡ la ‘ Mới yuor tayứng , pỡq . ’ Santoiq aléq anhia sâng ien hỡn cứq atỡng ?
+42005030	Nṓq		Ma máh cũai Pha‑rasĩ cớp cũai yống rit , alới tếq tỗp rien tễ Yê‑su neq : “ Nṓq anhia cha parnơi cớp alới ca parỗm práq thễq cớp cũai lôih canṓh hỡ ? ”
+42005033	~		Máh cũai Pha‑rasĩ cớp cũai yống rit , alới atỡng Yê‑su neq : “ Máh tỗp rien tễ Yang , sa‑ữi pêl alới ót sana cỗ alới yoc ễ chanchớm tễ ngê Yiang Sursĩ , cớp alới ễ câu sâng . Alới ca rien tễ tỗp Pha‑rasĩ , alới táq machớng ki tê . Ma tỗp rien tễ thâi , alới cha nguaiq níc . ”
+42005034	~		Yê‑su atỡng loah alới toâq parnai sacâm neq : “ Khân bữn samiang ĩt lacuoi , hỗi yớu pỡq racoâiq cớp án alới sâng bũi .
+42006002	Nṓq		Bữn cũai tễ tỗp Pha‑rasĩ blớh alới neq : “ Nṓq anhia táq tỡ cỡt rit cuang ntrớu tâng tangái rlu ? ”
+42006009	nṓq		Chơ Yê‑su atỡng cũai canṓh mpễr ki neq : “ Cứq blớh anhia : puai rit hái , nṓq hái táq tâng tangái rlu ? Hái táq o , tỡ la hái táq sâuq ? Hái chuai amoong cũai , tỡ la hái cachĩt cũai ? ”
+42006032	ntrớu		“ Khân anhia ma ayooq ống cũai ca ayooq anhia sâng , ki ntrớu Yiang Sursĩ yỗn anhia bữn cóng ? Lứq alới ca tỡ bữn puai ngê Yiang Sursĩ , alới ayooq loah cũai ca ayooq alới tê .
+42006033	ntrớu		Cớp khân anhia ma táq o chóq alới ca táq o chóq anhia sâng , ki ntrớu Yiang Sursĩ yỗn anhia bữn cóng ? Cũai ca tỡ bữn puai ngê Yiang Sursĩ , lứq alới táq ngkíq tê .
+42006034	ntrớu		Khân anhia ma yỗn cũai canṓh voaq práq anhia , ma anhia ngcuang ễ bữn loah práq anhia tễ cũai ki , ki ntrớu Yiang Sursĩ yỗn anhia bữn cóng ? Cũai ca tỡ bữn puai ngê Yiang Sursĩ , alới yỗn cũai canṓh voaq tê práq alới , khân alới ngcuang bữn loah práq ki sĩa .
+42006039	~		Yê‑su atỡng cũai ki parnai sacâm neq : “ Cũai sũt moat tỡ têq ayông cũai sũt canṓh . Khân án ayông , ki bar náq alới sapứl nheq tâng prúng .
+42006041	Nṓq		“ Nṓq anhia hữm brếh tâng moat yớu , ma anhia tỡ bữn dáng loâng khlễc pian catáng chíq moat anhia ?
+42006042	nṓq		Cớp nṓq anhia clṓq pai cớp yớu neq : ‘ Dōq yỗn cứq ĩt chíq brếh tễ moat mới , ’ ma lứq anhia tỡ bữn dáng loâng khlễc pian sadal chíq moat anhia ? Anhia la cũai ễm bĩq parnai sâng ! Cóq anhia ĩt chíq khlễc pian tễ moat anhia voai . Ki nṓq têq anhia hữm raloaih cớp têq anhia ĩt brếh tễ moat yớu . ”
+42006046	Nṓq		“ Nṓq anhia pai cớp cứq : ‘ Ncháu ơi ! Ncháu ơi ! ’ Ma anhia tỡ bữn trĩh máh parnai cứq atỡng ?
+42007024	ntrớu		Vớt tỗp rien tễ Yang chu loah pỡ án , ki Yê‑su atỡng tễ Yang yỗn cũai clứng ki sâng . Án blớh alới neq : “ Bo anhia pỡq ramóh Yang tâng ntốq aiq , ntrớu anhia yoc ễ hữm tâng ntốq ki ? Anhia yoc ễ hữm cuyal phát bát tứng tooc tỡ ?
+42007025	ntrớu		Ma lứq anhia pỡq , anhia yoc ễ hữm ntrớu ? Anhia yoc ễ hữm manoaq sớp au nêuq tỡ ? Lứq alới ca sớp au nêuq cớp tâc cha la thrưong , alới ki ỡt tâng dống puo .
+42007026	ntrớu		Ma lứq ntrớu anhia yoc ễ hữm tâng ntốq ki ? Anhia chanchớm yoc ễ hữm cũai tang bỗq Yiang Sursĩ tỡ ? Lứq samoât cứq atỡng anhia , Yang la cũai tang bỗq Yiang Sursĩ tê , ma án bữn chớc toâr hỡn tễ cũai tang bỗq canṓh .
+42007031a	ntrớu		Yê‑su pai ễn : “ Chơ ntrớu cứq 
+42007031b	ntrớu		têq sacâm máh cũai ỡt tâng dỡi nâi la samoât ntrớu ?
+42007042	aléq		Bar náq ki , alới tỡ bữn ntrớu ễ culáh loah práq án ca manrai ki . Ngkíq án táh nheq práq alới tu án . Ma tễ bar náq alới ki , aléq ayooq hỡn án ca manrai práq yỗn alới ? ”
+42007049	noau		Máh cũai ca ỡt cha cớp Yê‑su , alới chanchớm tâng mứt neq : “ Cũai nâi la noau , ma khớn pai têq án táh lôih ? ”
+42008025a	Nṓq		Yê‑su blớh tỗp rien tễ án neq : “ Nṓq anhia tỡ bữn sa‑âm ? ” Ma alới ki dớt lứq cớp alới ngcṓh . Manoaq pai chóq manoaq neq : 
+42008025b	Nṓq		“ Nṓq cũai nâi ? Án sưoq cuyal cớp dỡq . Ma cuyal cớp dỡq trĩh án ! ”
+42008028	Ntrớu		Tữ án hữm Yê‑su , án hễr casang lứq , sacốh racớl , cớp pai casang lứq neq : “ Ntrớu anhia yoc ễ táq chóq cứq Yê‑su ? Anhia la Con Yiang Sursĩ , án ca toâr clữi nheq tễ canṓh . Cứq sễq anhia chỗi táq tỗiq bap cứq . ”
+42008030	Ntrớu		Yê‑su blớh cũai ki neq : “ Ntrớu ramứh mới ? ” Cũai ki ta‑ỡi : “ Ramứh cứq la Poâl . ” Án pai ngkíq , yuaq bữn sa‑ữi yiang sâuq ỡt tâng tỗ án .
+42008045	Noau		Yê‑su blớh neq : “ Noau satoaq cứq ? ” Ma aléq la tỡ bữn ngin . Cớp Phi‑ễr pai neq : “ Thâi ơi ! Clứng lứq cũai ỡt khĩt thâi , cớp alới nêt tỗ thâi . ”
+42009009a	noau		Ma Hê‑rôt pai neq : “ Lứq cứq khoiq cṓh chơ tacong Yang , ma cũai nâi la noau ca cứq sâng cũai pai án táq ranáq ngkíq ? ” Ngkíq Hê‑rôt chuaq ễ ramóh Yê‑su .
+42009009b	~		
+42009018	noau		Bữn muoi tangái bo Yê‑su ntôm ỡt câu manoaq án , chơ tỗp rien tễ án toâq . Yê‑su blớh alới neq : “ Máh cũai clứng , alới pai cứq la noau ? ”
+42009020a	~		Yê‑su blớh loah alới neq : 
+42009020b	noau		“ Ma anhia ễn pai cứq la noau ? ” Phi‑ễr ta‑ỡi neq : “ Thâi la Crĩt , án ca Yiang Sursĩ rưoh dōq chuai amoong cũai ! ”
+42009025	ntrớu		Khân cũai aléq ma bữn túc palễc tễc pacan crơng crớu tâng dỡi nâi tỡ bữn ṓq ntrớu , ma án táh chíq tỡ la pứt chíq rangứh án bữm , cũai ki bữn kia ntrớu ?
+42009041a	máh léq		Yê‑su ta‑ỡi neq : “ Anhia ơi ! Anhia ca ỡt tâng dỡi nâi , lứq anhia tỡ bữn sa‑âm cớp anhia la loâi lứq ! Noâng dũn máh léq cứq ỡt cớp anhia cớp chĩuq anhia tỡ bữn sa‑âm ? Dững asuoi con ki toâq pỡ cứq ! ”
+42009041b	~		
+42010025	Ntrớu		Manoaq cũai thâi atỡng phễp rit I‑sarễl toâq pỡ Yê‑su . Án blớh chim Yê‑su ễq Yê‑su tỡ dáng ta‑ỡi . Án pai neq : “ Thâi ơi ! Ntrớu cứq táq yỗn cứq bữn tamoong mantái ? ”
+42010026a	ntrớu		Yê‑su ta‑ỡi neq : “ Tâng phễp rit Yiang Sursĩ khoiq chĩc ntrớu ? 
+42010026b	ntrớu		Toâq anhia doc , ntrớu anhia sâng tễ parnai ki ? ”
+42010029	Noau		Ma cũai ki , án yoc apáh mứt án , ễq Yê‑su pai án la cũai tanoang o . Ngkíq án blớh ễn Yê‑su neq : “ Noau la yớu cứq ? ”
+42010036a	~		
+42010036b	aléq		Moâm Yê‑su atỡng parnai sacâm nâi , án blớh cũai ca chim án neq : “ Tễ cũai pái náq pỡq rana ki , aléq la yớu manoaq ca savễng táq ki ? ”
+42011008	~		Ma cứq atỡng anhia neq : khân yớu ki tỡ ễq ĩt racáu yỗn anhia cỗ anhia táq yớu cớp án , lứq samoât án ĩt yỗn anhia yuaq anhia pakhoq ntếq án .
+42011011	nṓq		Máh anhia ca bữn con chơ , nṓq khân con anhia sễq sĩaq , ki anhia yỗn án cusân tỡ ?
+42011012	~		Cớp khân án sễq tarễl ntruoi , ki anhia yỗn án pông catiang tỡ ?
+42011013	sễq		Anhia la nheq cũai loâi , ma noâng anhia dáng yỗn crơng o pỡ con anhia . Casỡn Mpoaq anhia tâng paloōng yỗn anhia bữn Raviei Yiang Sursĩ khân anhia sễq tễ án ! ”
+42011018	~		Khân tỗp yiang Satan , manoaq rachíl chóq manoaq , ki tỡ bữn cỡt noâng tỗp yiang Satan . Anhia pai cứq tuih aloōh yiang sâuq cỗ nhơ yiang Bễn‑sabũl yỗn cứq bữn chớc táq ngkíq .
+42011019	~		Ma khân cũai ca puai anhia táq ranáq machớng ki tê , anhia tỡ bữn pai alới ma bữn chớc tễ yiang Bễn‑sabũl . Yuaq ngkíq , lứq samoât bữn tễ tỗp anhia toâp ca tếq anhia bữm .
+42012014	Noau		Yê‑su blớh loah cũai ki neq : “ Noau yỗn cứq chớc dōq sữq anhia cớp tampễq mun anhia bar náq ? ”
+42012017	Ntrớu		Cũai ca ndỡm sarái ki chanchớm tâng mứt án neq : ‘ Tỡ bữn noâng ntốq dōq palâi tễ sarái cứq . Ntrớu cứq táq ? ’
+42012020	noau		Ma Yiang Sursĩ pai chóq cũai ki neq : ‘ Mới la sacũl lứq . Sadâu nâi toâp nheq anhúq mới . Chơ nheq máh sanốc mới pachứm , ki noau ễn bữn ndỡm ? ’ ”
+42012024	~		Anhia nhêng chu chớm ca‑ac . Chớm ki tỡ bữn choat choi , tỡ bữn sot , cớp tỡ bữn dōq sana ntrớu tâng dống . Ma lứq Yiang Sursĩ chứm siem yỗn chớm ki . Casỡn anhia la Yiang Sursĩ pasếq hỡn tễ chớm .
+42012025	aléq		Tỡ bữn cũai aléq ma têq táq anhúq án cỡt cuti hỡn cỗ án clơng la‑ỡq .
+42012026	nṓq		Khân anhia ma tỡ têq táq muoi ranáq cớt ngkíq , ki nṓq anhia yoc ễ clơng níc tễ ramứh canṓh ễn ?
+42012042	~		Yê‑su ta‑ỡi neq : “ Khân bữn cũai sũl táq o cớp rangoaiq , ki ncháu chóh yỗn án táq sốt nhêng máh cũai canṓh ca táq ranáq án . Ntrớu ncháu ớn siem , ki án siem ramứh ki .
+42012049	~		“ Cứq toâq pỡ nâi la samoât riang cứq dững ũih sễng chṓng chíq tâng cốc cutễq nâi . Cứq yoc lứq ranáq ki yỗn vớt dớh .
+42012056	ntrớu		Anhia la cũai táq nan dáng sa‑ữi ! Anhia dáng sacoal tếc tâng cutễq nâi cớp tâng paloōng , ma anhia tỡ bữn dáng ntrớu tễ tếc Yiang Sursĩ yỗn anhia dáng tễ ngê án tâng dỡi nâi .
+42012057	Nṓq		“ Nṓq anhia tỡ bữn dáng rưoh bữm ṓc aléq la pĩeiq ?
+42013004	ntrớu		Cớp ntrớu anhia chanchớm tễ muoi chít tacual náq ca ỡt tâng Salũam bo ngôl cuti ralíh catễt alới cuchĩt ? Anhia chanchớm alới muoi chít tacual náq ki bữn lôih hỡn tễ cũai canṓh ỡt tâng vil Yaru‑salễm tỡ ?
+42013007	~		Ngkíq án atỡng chóq cũai ca kĩaq nưong ki neq : ‘ Nâi ! Khoiq pái cumo nâi chơ cứq toâq chuaq palâi tễ nỡm nâi , ma cứq tỡ hữm án palâi ntrớu . Chơ mới cứl chíq nỡm nâi . Chỗi yỗn án dáh noâng tâng cutễq o nâi . ’
+42013015	~		Ma Yê‑su atỡng loah chóq cũai ca ndỡm dống sang ki neq : “ Anhia la cũai táq nan sâng ! Nheq tữh anhia , khân ma anhia bữn ntroōq tỡ la aséh ỡt tâng cuaq , ki lứq anhia pớh , yỗn án têq loōh nguaiq dỡq tâng tangái rlu tê .
+42013018a	ntrớu		Yê‑su atỡng ễn neq . “ Yiang Sursĩ táq sốt la samoât riang ntrớu ? 
+42013018b	ntrớu		Cớp ramứh ntrớu têq cứq sacâm tễ sốt ki ?
+42013020	ntrớu		Cớp Yê‑su sacâm ễn neq : “ Yiang Sursĩ táq sốt la samoât riang ntrớu ?
+42013025	léq		“ Toâq ncháu dống yuor catáih chíq ngoah toong , ki nheq tữh anhia ỡt yáng tiah cucṓq toong ki cớp arô neq : ‘ Ncháu ơi ! Sễq Ncháu pớh toong yỗn hếq mut ! ’ Ma Ncháu ki ta‑ỡi anhia neq : ‘ Cứq tỡ bữn dáng tễ léq anhia toâq ! ’
+42014005	~		Moâm ki Yê‑su atỡng neq : “ Khân bữn manoaq tễ anhia ma bữn con samiang tỡ la ntroōq ma sapứl tâng dỡq parníq tâng tangái rlu , ki anhia âc aloōh bo ki toâp , pĩeiq ma tỡ bữn ? ”
+42014028	~		Khân bữn manoaq tễ anhia yoc ễ táq muoi lám dống toâr , tễ dâu lứq cóq án tếng nheq máh aluang aloai crái samữ voai .
+42014031	nṓq		Cớp khân bữn puo ca bữn muoi vian tahan , ma án ễ pỡq rachíl cớp puo canṓh ca bữn bar vian tahan , tễ dâu lứq puo ki cóq chanchớm táq nṓq ma têq riap .
+42014034	nṓq		“ Boi la lứq crơng o . Ma khân boi cỡt ntiah , ki nṓq ễ táq yỗn án cỡt báq loah ?
+42015004	~		“ Khân manoaq tễ anhia bữn muoi culám lám cữu ma pứt chíq muoi lám , lứq án dōq takêh chít takêh lám cữu ki tâng lễng voai . Chơ án pỡq chuaq toâp muoi lám cữu ki toau án ramóh loah . Lứq tỡ bữn ?
+42015008	Ntrớu		“ Tỡ la khân bữn manoaq mansễm ca bữn muoi chít ṓc práq ma pứt chíq muoi ṓc . Ntrớu án táq ? Lứq án tacât chớp tớu , pễh dống , cớp nhêng chuaq tâng nheq soq dống toâq án ramóh loah ṓc práq ki .
+42015026	Ntrớu		Án arô manoaq cũai tuthễ ; chơ blớh neq : ‘ Ntrớu noau táq ngkíq ? ’
+42015029	Ntrớu		Con ki pai neq : ‘ Tỡ dáng sếq cumo nâi chơ cứq táq samoât sũl yỗn mới . Ntrớu mới ớn cứq táq , ki cứq táq aki . Ma mới tỡ nai yỗn cứq muoi lám con mbễq yỗn cứq cha bũi cớp yớu .
+42016002	Ntrớu		Ngkíq ncháu ki arô cũai ki , cớp blớh neq : ‘ Ntrớu noau cauq mới táq tỡ pĩeiq chóq cứq ? Mới atỡng loah yỗn cứq máh léq mới ĩt chếq , cớp máh léq mới yỗn noau . Lứq mới tỡ têq cỡt noâng ayững atĩ dōq nhêng salĩq mun cứq . ’
+42016003	nṓq		Ngkíq , cũai ki chanchớm neq tâng mứt án : ‘ Ncháu cứq cheq ễ táh cứq . Án tỡ yỗn cứq nhêng salĩq noâng mun án . Ngkíq nṓq cứq ễ táq ? Tỗ cứq tỡ bữn bán rêng dōq táq sarái . Cớp pỡq susễq , ki cứq casiet táq .
+42016005	Maléq		Ngkíq án arô máh cũai ca tu ncháu án . Án blớh án ca toâq nhũang neq : ‘ Maléq mới tu ncháu cứq ? ’
+42016007	maléq		Chơ án blớh cũai canṓh ễn neq : ‘ Ma mới , maléq mới tu ? ’ Cũai ki ta‑ỡi : ‘ Cứq tu muoi culám sanic saro . ’ Ranễng ki pai loah : ‘ Cứq yỗn mới culáh loah tacual chít sanic sâng . ’
+42016011	nṓq		Ngkíq , khân anhia tỡ bữn táq o cớp crơng sanốc anhia tâng dỡi nâi , ki nṓq Yiang Sursĩ têq yỗn anhia bữn mun ca tỡ nai pứt tâng paloōng .
+42016012	noau		Cớp khân anhia tỡ bữn táq o cớp crơng cũai canṓh yỗn anhia kĩaq dỡ , ki tỡ bữn noau chiau yỗn anhia bữn crơng anhia bữm .
+42017007	~		“ Khân manoaq tễ anhia ma bữn sũl táq ranáq tal sarái tỡ la bán charán cữu yỗn án , ki toâq sũl ki chu tabữ , ncháu ki tỡ bữn pai chóq án neq : ‘ Âu mới mut cha voai sanua . ’
+42017017	Nléq		Yê‑su pai neq : “ Bữn muoi chít náq khoiq cỡt bán . Nléq alới takêh náq ễn ?
+42017018	~		Ống manoaq nâi toâp toâq sa‑ỡn Yiang Sursĩ . Cớp án la cũai tễ cruang canṓh . ”
+42017020	maléq		Bữn máh cũai tễ tỗp Pha‑rasĩ blớh Yê‑su noâng maléq dũn nṓq Yiang Sursĩ táq sốt . Yê‑su ta‑ỡi alới ki neq : “ Yiang Sursĩ táq sốt la án tỡ bữn apáh tếc yỗn cũai hữm samoât samơi .
+42017037	léq		Moâm Yê‑su pai ngkíq , tỗp rien tễ án blớh neq : “ Ncháu ơi ! Pỡ léq toâq ranáq nâi ? ” Yê‑su ta‑ỡi alới toâq parnai sacâm neq : “ Ntốq aléq bữn cũai cuchĩt , lứq ntốq ki bữn chớm calang sarúh rôm cha cumuiq ki . ”
+42018018	Ntrớu		Bữn manoaq cũai sốt tâng tỗp I‑sarễl toâq blớh Yê‑su neq : “ Thâi ơi ! Thâi la lứq o . Ntrớu cứq cóq táq yỗn têq cứq bữn tamoong mantái ? ”
+42018019	Nṓq		Yê‑su blớh loah án neq : “ Nṓq mới dōq cứq o ? Ống Yiang Sursĩ toâp o .
+42018026	noau		Alới ca sâng Yê‑su pai ngkíq , alới blớh án neq : “ Khân ngkíq , noau têq mut tâng tỗp Yiang Sursĩ sốt ? ”
+42018036	Ntrớu		Bo án sâng cũai clứng pỡq pha cheq án , án blớh : “ Ntrớu anhia táq hỗ hât ? ”
+42018041	Ntrớu		“ Ntrớu mới yoc cứq táq yỗn mới ? ” Cũai sũt ki ta‑ỡi loah : “ Ncháu ơi ! Sễq Ncháu táq yỗn moat cứq cỡt blang loah ! ”
+42019007	~		Máh cũai canṓh ki hữm ngkíq , ki alới bubéq bubữp neq : “ Cũai nâi toâq pỡ dống cũai lôih . ”
+42019023	~		Khân ngkíq , pĩeiq lứq mới yỗn cũai canṓh voaq práq cứq . Chơ , toâq tangái cứq chu loah cứq bữn práq ki cớp lơi tê . ’
+42019031	Ntrớu		Khân noau blớh anhia : ‘ Ntrớu anhia leh táq aséh nâi ? ’ chơ anhia ta‑ỡi neq : ‘ Ncháu hái ễ mian aséh nâi . ’ ”
+42019033	Ntrớu		Bo alới leh aséh con ki , cũai ndỡm aséh ki blớh alới neq : “ Ntrớu anhia leh táq aséh nâi ? ”
+42020002a	ntrớu		“ Tễ chớc ntrớu thâi táq ranáq salễh nâi ? 
+42020002b	noau		Noau yỗn thâi bữn chớc nâi ? ”
+42020005a	~		Alới manoaq sarhống manoaq neq : 
+42020005b	nṓq		“ Khân hái ta‑ỡi án neq : ‘ Ranáq batễm nâi toâq tễ Yiang Sursĩ , ’ ngkếq án blớh loah hái neq : ‘ Khân ngkíq , ki nṓq anhia tỡ bữn sa‑âm Yang ? ’
+42020013	Nṓq		Chơ ncháu nưong ki chanchớm neq : ‘ Nṓq ễn cứq ễ táq ? Cứq ớn yỗn con samiang ca cứq pasếq lứq ễn pỡq . Lứq samoât alới ki yám noap án . ’
+42020015	nṓq		Chơ alới âc sadṓh con ncháu ki loōh tễ nưong , cớp alới cachĩt chíq án . Ngkíq , nṓq toâp ncháu ki ễ táq chóq cũai ca táq dỡ nưong án ?
+42020017	ntrớu		Ma Yê‑su nhêng chu alới cớp blớh neq : “ Khân tỡ bữn ngkíq , ki ntrớu la ngê santoiq tâng tâm saráq Yiang Sursĩ pai tễ mbṓq neq : ‘ Cốc tamáu cũai ca táq dống khoiq táh chơ , lứq samoât cũai canṓh hữm tamáu ki o hỡn tễ nheq tamáu canṓh . Chơ alới ĩt cớp chĩp bân soq dống . ’
+42020023	~		Ma Yê‑su khoiq dáng chơ alới bữn ngê yoc ễ táq tỡ o ; chơ án pai chóq alới neq :
+42020024a	noau		“ Anhia yỗn cứq nhêng muoi ṓc práq ! Ṓc práq nâi bữn roâp cớp chĩr samoât tỗ noau ? ”
+42020024b	~		
+42020033	noau		Tữ máh cũai cuchĩt ki tamoong loah , ki mansễm ki la lacuoi noau ? Yuaq alới tapul náq ndỡm nheq mansễm ki ! ”
+42020041	nṓq		Yê‑su blớh máh cũai ki neq : “ Yuaq nṓq cũai têq pai Crĩt toâq tễ tṓng toiq puo Davĩt ?
+42020044	nṓq		Cutỗ Davĩt toâp dōq Crĩt nâi la ‘ Ncháu . ’ Ki nṓq têq Davĩt dōq cũai tễ tṓng toiq án bữm la ‘ Ncháu ’ ? ”
+42021007a	maléq		Alới blớh Yê‑su neq : “ Thâi ơi ! Sễq thâi atỡng yỗn hếq dáng , noâng dũn maléq ranáq nâi toâq ? 
+42021007b	ntrớu		Cớp bữn tếc ntrớu sapáh nhũang ranáq nâi toâq ? ”
+42022009	aléq		Ma alới blớh loah Yê‑su : “ Ntốq aléq thâi yỗn hếq thrũan ? ”
+42022011	Nléq		Chơ anhia atỡng cũai ncháu dống ki , pai neq : ‘ Thâi yoc ễ blớh mới neq : “ Nléq clống tamoi ? Tâng clống ki cứq yoc ễ cha pêl bũi sanhữ Tangái Loōh cớp tỗp rien tễ cứq . ” ’
+42022027	aléq		Cũai aléq anhia hữm toâr hỡn , án ca tacu cha sâng tỡ la án ca táq ranáq tễng sana yỗn án ? Lứq án ca tacu cha , la toâr hỡn . Ma cứq ỡt cớp anhia samoât cũai ranễng sâng .
+42022046	Nṓq		Yê‑su blớh alới : “ Nṓq anhia bếq ? Cóq anhia tamỡ ! Cớp cóq anhia câu yỗn vớt tễ noau radững anhia táq lôih . ”
+42022064	noau		Alới tán moat án ; chơ pai neq : “ Âu mới pai , mới ca tang bỗq Yiang Sursĩ , noau ca chooc mới . ”
+42022071	~		Chơ alới pai neq : “ Choam hái ễ blớh noâng cũai canṓh . Hái sâng tễ bỗq án pai la péq . ”
+42023022a	~		Chơ Phi‑lat blớh sĩa alới toâq pái trỗ : 
+42023022b	Ntrớu		“ Ntrớu lôih anhia hữm án táq ? Cứq tỡ bữn ramóh ṓc ntrớu ma têq cachĩt chíq án . Ngkíq cứq toân án sâng , chơ cứq acláh . ”
+42023031	noau		Chơ Yê‑su sacâm ễn neq : “ Khân aluang ramoong ma noau poâiq chíq , casỡn ca aluang roōh noau táq clữi tễ ki ễn . ”
+42024005	Nṓq		Mansễm ki ngcṓh lứq , chơ alới ngũq moat alới chu cutễq . Ma cũai samiang ki pai chóq alới neq : “ Nṓq anhia chuaq cũai tamoong tâng ntốq nâi ? Ntốq nâi la noau dōq cũai cuchĩt .
+42024017	ntrớu		Yê‑su blớh alới : “ Ṓc ntrớu anhia sarhống tễ adớh , manoaq táq ntỡng cớp manoaq ? ” Chơ alới tangứt cớp moat múh alới ngua lứq .
+42024019	ntrớu		Yê‑su blớh : “ Ramứh ntrớu noau táq ? ” Chơ alới atỡng án , pai neq : “ Máh ramứh tễ Yê‑su , cũai tễ vil Na‑sarễt . Án la cũai tang bỗq Yiang Sursĩ . Salễh lứq ranáq án táq cớp blễng lứq parnai án pai yáng moat Yiang Sursĩ cớp nheq tữh cũai .
+42024025	~		Chơ Yê‑su atỡng alới bar náq ki neq : “ Anhia la sacũl lứq , cớp cro lứq anhia sa‑âm máh parnai cũai tang bỗq Yiang Sursĩ khoiq pai tễ mbṓq chơ .
+42024038a	nṓq		Chơ Yê‑su blớh alới neq : “ Nṓq anhia ngcṓh ? 
+42024038b	nṓq		Cớp nṓq anhia chanchớm ngkíq tâng mứt anhia ?
+43001019	noau		Nâi la parnai Yang atỡng bo tỗp I‑sarễl tễ vil Yaru‑salễm ớn bar pái náq tễ tỗp tễng rit sang Yiang Sursĩ cớp tễ tỗp Lê‑vi toâq blớh Yang neq : “ Thâi la noau ? ”
+43001021	noau		Alới ki blớh loah sĩa Yang neq : “ Khân ngkíq , thâi la noau ? Thâi la Ê‑li tỡ ? ” Yang ta‑ỡi loah : “ Cứq la tỡ cỡn Ê‑li . ” Alới blớh loah án : “ Thâi la cũai tang bỗq Yiang Sursĩ ca hếq ngcuang tỡ ? ” Yang ta‑ỡi loah : “ Tỡ cỡn . ”
+43001022a	noau		Alới blớh loah sĩa : “ Khân ngkíq , thâi la noau ? Sễq mới atỡng hếq yỗn hếq dững parnai mới chu pỡ cũai ca ớn hếq toâq pỡ nâi . 
+43001022b	noau		Sễq mới ngin mới la noau ? ”
+43001025	nṓq		Bữn cũai tễ tỗp Pha‑rasĩ toâq blớh sĩa Yang neq : “ Khân mới tỡ cỡn Crĩt , tỡ la Ê‑li , tỡ la manoaq tang bỗq Yiang Sursĩ , ki nṓq mới táq batễm yỗn cũai ? ”
+43001038a	Ntrớu		Yê‑su luliaq hữm alới bar náq ki puai yoah clĩ án , chơ án blớh alới ki neq : “ Ntrớu anhia ễ bữn anhia puai cứq ? ” Alới bar náq ta‑ỡi : 
+43001038b	Nléq		“ Nléq thâi ỡt ? ”
+43001046	ntrớu		Ma Na‑thanĩal blớh neq : “ Loōh lưr ntrớu ca tễ vil Na‑sarễt ? ” Phi‑lip ta‑ỡi : “ Âu mới pỡq nhêng salĩq voai . ”
+43001048	Nṓq		Na‑thanĩal blớh Yê‑su : “ Nṓq thâi dáng tễ mứt cứq ? ” Yê‑su ta‑ỡi án neq : “ Tễ nhũang Phi‑lip tỡ yũah arô mới , bo mới ỡt nhưp nỡm aluang tarúng , ki cứq khoiq dáng chơ mới . ”
+43002004	ntrớu		Yê‑su ta‑ỡi loah mpiq án neq : “ Tỡ bữn ntrớu , mpiq . Nâi la tỡ cỡn ranáq cứq . Ngư ranáq cứq tỡ yũah toâq . ”
+43002018a	~		
+43002018b	ntrớu		Moâm ki cũai tỗp I‑sarễl blớh Yê‑su neq : “ Tếc ntrớu thâi apáh yỗn hếq dáng thâi bữn chớc táq ranáq nâi ? ”
+43003004	Nṓq		Chơ Ni‑cudễm blớh loah neq : “ Nṓq cũai khoiq thâu chơ ma têq sễt loah ? Lứq aléq la tỡ têq mut noâng tâng púng mpiq cớp sễt loah muoi trỗ ễn ! ”
+43003009	Nṓq		Vớt Yê‑su pai ngkíq Ni‑cudễm blớh loah : “ Dớt ơiq ! Nṓq têq cũai cỡt loah ? ”
+43003012	nṓq		Tữ cứq atỡng anhia tễ ramứh tâng cutễq nâi , ma anhia tỡ bữn sa‑âm cứq , casỡn cứq atỡng máh ramứh tễ paloōng ễn , ki nṓq têq anhia sa‑âm ?
+43004009	Nṓq		Mansễm Sa‑mari ki pai loah neq : “ Âu ! Nṓq mới la cũai I‑sarễl , ma sễq nguaiq dỡq tễ cứq ? Cứq la cũai Sa‑mari . ” Án pai ngkíq yuaq tỗp I‑sarễl tỡ ễq ratoi cớp tỗp Sa‑mari .
+43004011	léq		Mansễm ki ta‑ỡi loah Yê‑su neq : “ Thâi ơi ! Thâi ṓq crơng puoc dỡq , cớp dỡq parníq nâi yarũ lứq . Ngkíq tễ léq thâi bữn dỡq ca yỗn tamoong ?
+43004027a	Ntrớu		Bo ki tỗp rien tễ Yê‑su toâq tễ vil . Alới sâng dớt lứq Yê‑su táq ntỡng cớp mansễm ki . Ma tỡ bữn noau tễ tỗp alới blớh mansễm neq : “ Ntrớu mới ễ bữn ? ” Cớp tỡ bữn noau blớh Yê‑su : 
+43004027b	Nṓq		“ Nṓq thâi táq ntỡng cớp án ? ”
+43005012	Noau		Cũai I‑sarễl blớh loah án neq : “ Noau atỡng mới ĩt chĩau mới ; chơ mới pỡq ? ”
+43005044	nṓq		Anhia yoc lứq manoaq khễn manoaq , ma anhia tỡ bữn chuaq yỗn Yiang Sursĩ khễn anhia ; ống án toâp lứq Yiang . Ngkíq , ki nṓq têq anhia sa‑âm ?
+43005047	nṓq		Ma khân anhia tỡ bữn sa‑âm parnai Môi‑se khoiq chĩc chơ , nṓq anhia têq sa‑âm parnai cứq atỡng sanua ? ”
+43006005	aléq		Tữ Yê‑su tapoang achỗn , án hữm clứng cũai toâq pỡ án ; chơ án pai neq cớp Phi‑lip : “ Ntốq aléq hái chỡng crơng sana yỗn khám nheq tữh cũai nâi cha ? ”
+43006009	nṓq		Anrê pai neq : “ Bữn manoaq carnễn samiang ỡt nâi . Án bữn sỡng lám bễng cớp bar lám sĩaq . Ma nṓq têq khám yỗn nheq tữh cũai nâi cha ? ”
+43006025	Bo léq		Tữ cũai clứng ramóh Yê‑su yáng dỡq clóng , alới blớh án neq : “ Thâi ơi ! Bo léq thâi toâq pỡ nâi ? ”
+43006028	ntrớu		Moâm ki cũai clứng blớh Yê‑su neq : “ Ranáq ntrớu hếq cóq táq máh Yiang Sursĩ yoc hếq táq ? ”
+43006030a	ntrớu		Cũai clứng ki blớh loah : “ Tếc salễh ntrớu thâi táq yỗn têq hếq hữm cớp sa‑âm thâi ? 
+43006030b	Nṓq		Nṓq thâi táq ?
+43006042	Nṓq		Tỗp I‑sarễl pai neq : “ Lứq ma tỡ , cũai nâi la Yê‑su , con Yô‑sễp ? Hái khoiq dáng chơ mpiq mpoaq án . Nṓq án têq pai án sễng tễ paloōng ? ”
+43006052	Nṓq		Moâm Yê‑su pai ngkíq , cũai tễ tỗp I‑sarễl alới rasuon ratuaq ; chơ blớh neq : “ Nṓq án nâi yỗn hái cha sâiq án ? ”
+43006060	Noau		Sa‑ữi náq tễ tỗp puai Yê‑su tamứng Yê‑su atỡng santoiq ki , cớp alới pai neq : “ Coat lứq ramứh án atỡng nâi . Noau têq dáng ramứh ki ? ”
+43006062	nṓq		Khân ngkíq , nṓq anhia chanchớm khân anhia hữm Con Yiang Cỡt Cũai chỗn loah chu ntốq án ỡt tễ nhũang ?
+43006068	noau		Si‑môn Phi‑ễr ta‑ỡi loah neq : “ Ncháu ơi ! Tỡ bữn noau hếq ễ puai noâng . Ống Ncháu sâng bữn parnai ca yỗn cũai bữn tamoong mantái .
+43007011	Nléq		Bân ntốq alới cha bũi ki , cũai tỗp I‑sarễl chuaq Yê‑su cớp alới blớh neq : “ Nléq án ki ? ”
+43007015	Nṓq		Cũai I‑sarễl sâng dớt lứq , cớp alới blớh neq : “ Nṓq án nâi tỡ yũah rien , ma án dáng sa‑ữi ? ”
+43007019	nṓq		Môi‑se khoiq yỗn anhia bữn phễp rit Yiang Sursĩ chơ . Ma tỡ bữn noau tễ anhia trĩh phễp rit ki . Yuaq nṓq anhia yoc ễ cachĩt chíq cứq ? ”
+43007020	Noau		Cũai clứng ki ta‑ỡi Yê‑su neq : “ Thâi la samoât cũai yúh . Noau ca yoc ễ cachĩt thâi ? ”
+43007023	nṓq		Khân anhia têq táq rit cứt yỗn con samiang tâng tangái rlu tỡ ễq táh phễp rit Môi‑se , nṓq anhia ũan cớp cứq cỗ tian cứq táq bán cũai a‑ĩ tâng tangái rlu ?
+43007035	léq		Ngkíq cũai I‑sarễl ki manoaq blớh manoaq : “ Ntốq léq cũai nâi ễ pỡq , ma hái tỡ têq chuaq ramóh án ? Nâng án ễ pỡq pỡ cũai I‑sarễl ca ỡt cruang yơng , dōq atỡng alới ca tỡ cỡn cũai I‑sarễl tâng cruang ki tỡ ?
+43007036	Ntrớu		Adớh án pai neq : ‘ Anhia chuaq cứq , ma anhia tỡ bữn ramóh cứq . ’ Cớp án pai neq hỡ : ‘ Ntốq cứq ỡt , anhia tỡ têq pỡq ntốq ki . ’ Ntrớu toâp án pai ngkíq ? ”
+43007041	~		Cũai canṓh pai neq : “ Lứq samoât án nâi la Crĩt . ” Ma bữn cũai canṓh ễn pai neq : “ Crĩt tỡ bữn toâq tễ cruang Ca‑li‑lê .
+43007045	Nṓq		Vớt ki ranễng tễ dống sang toâr chu loah pỡ máh cũai sốt tỗp tễng rit sang Yiang Sursĩ , cớp pỡ tỗp Pha‑rasĩ hỡ . Máh cũai sốt ki blớh ranễng alới : “ Nṓq anhia tỡ bữn cỗp cũai ki ? ”
+43007048	Léq		Léq anhia hữm cũai sốt tỡ la cũai tễ tỗp Pha‑rasĩ ma sa‑âm án ?
+43007051	~		“ Khân puai rit hái , têq tỡ hái parchĩn parnai cũai ma tỡ yũah sâng ṓc án pai ? ”
+43008005	nṓq		Tâng phễp rit hái , Môi‑se khoiq atỡng chơ , khân cũai aléq táq tỡ o ngkíq , cóq cachĩt chíq án tám chóq tamáu . Ma nṓq thâi pai tễ ṓc nâi ? ”
+43008010	léq		Yê‑su yuor loah cớp blớh mansễm ki neq : “ Niang ơi ! Pỡ léq cũai ca ễ tếq mới ? Alới noâng ễ tếq mới ễn tỡ ? ”
+43008019	nléq		Chơ tỗp Pha‑rasĩ blớh Yê‑su : “ Mpoaq thâi ỡt nléq ? ” Yê‑su ta‑ỡi alới neq : “ Anhia tỡ bữn dáng cứq tỡ la Mpoaq cứq . Khân anhia ma dáng cứq , ki anhia dáng tê Mpoaq cứq . ”
+43008025a	noau		Alới blớh loah Yê‑su : “ Thâi la noau ? ” 
+43008025b	~		Yê‑su ta‑ỡi neq : “ Máh cứq khoiq pai cớp anhia tễ nhũang chơ .
+43008033	Nṓq		Ma cũai ki ta‑ỡi Yê‑su neq : “ Hếq la tṓng toiq A‑praham . Hếq tỡ nai táq sũl noau . Nṓq thâi pai acláh hếq tễ táq sũl ? ”
+43008043	Nṓq		Nṓq anhia tỡ bữn sâng parnai cứq atỡng ? Anhia tỡ bữn sâng , yuaq anhia tỡ ễq tamứng parnai cứq .
+43008046a	noau		Noau toâp tễ anhia bữn tếc têq cauq cứq táq ranáq lôih ? 
+43008046b	nṓq		Khân cứq atỡng pĩeiq lứq , ki nṓq anhia tỡ bữn sa‑âm cứq ?
+43008053	noau		Mới la toâr hỡn tễ achúc achiac hếq A‑praham tỡ ? A‑praham khoiq cuchĩt chơ , cớp cũai tang bỗq Yiang Sursĩ la cuchĩt tê . Mới ễq noau dōq mới la noau ? ”
+43008057	nṓq		Cũai I‑sarễl ki pai loah neq : “ Dỡi mới tỡ yũah toâq sỡng chít cumo . Ma nṓq mới pai mới khoiq hữm chơ A‑praham ? ”
+43009002	Noau		Tỗp rien tễ Yê‑su blớh Yê‑su neq : “ Thâi ơi ! Noau táq lôih yỗn cũai nâi sũt moat tễ mpiq canỡt án ? Án ki , tỡ la mpiq mpoaq án táq lôih ? ”
+43009010	nṓq		Ngkíq cũai canṓh blớh án : “ Khân lứq mới cũai ki , cỗ nṓq moat mới cỡt blang loah ? ”
+43009012	Nléq		Cũai canṓh ki blớh loah neq : “ Nléq cũai ki sanua ? ” Ma án ki ta‑ỡi : “ Cứq tỡ dáng pỡ léq án . ”
+43009016	Nṓq		Bữn cũai tễ tỗp Pha‑rasĩ pai neq : “ Cũai nâi tỡ bữn toâq tễ Yiang Sursĩ , yuaq cũai nâi táh phễp rit tangái rlu . ” Ma bữn cũai canṓh pai neq : “ Nṓq cũai lôih ma têq táq ranáq salễh neq ? ” Chơ tỗp Pha‑rasĩ ki cỡt bar tỗp , muoi tỗp pai nneq , muoi tỗp pai ngkíq .
+43009017	ntrớu		Ngkíq tỗp Pha‑rasĩ blớh sĩa cũai sũt ki neq : “ Án ca táq moat mới cỡt blang loah , ntrớu mới pai tễ cũai ki ? ” Cũai sũt ki ta‑ỡi neq : “ Cũai ki la manoaq tang bỗq Yiang Sursĩ . ”
+43009019	nṓq		Chơ alới blớh mpiq mpoaq án neq : “ Lứq ma tỡ , án nâi la con samiang anhia ? Lứq án sũt tễ tangái anhia canỡt án tỡ ? Cỗ nṓq sanua án cỡt blang loah ? ”
+43009026a	ntrớu		Chơ tỗp Pha‑rasĩ blớh loah án neq : “ Cũai ki táq ṓc ntrớu chơ yỗn mới ? 
+43009026b	Nṓq		Nṓq toâp án táq moat mới cỡt blang loah ? ”
+43009027	Nṓq		Cũai sũt ki ta‑ỡi neq : “ Cứq khoiq atỡng anhia chơ , ma anhia tỡ ễq tamứng . Nṓq noâng anhia ễq cứq atỡng loah sĩa ? Anhia ễ puai ngê án tê tỡ ? ”
+43009034	Nṓq		Ma tỗp Pha‑rasĩ pai ễn neq : “ Mới la cũai lôih tễ tangái mpiq mới canỡt ! Nṓq mới ma táq sốt , yoc ễ atỡng hếq ? ” Vớt ki alới tuih aloōh cũai sũt ki .
+43009036	noau		Cũai sũt ta‑ỡi loah : “ Thâi ơi , án ki la noau ? Thâi atỡng cứq yỗn cứq dáng . Cứq yoc ễ sa‑âm án tê . ”
+43010020	Nṓq		Muoi tỗp pai neq : “ Lứq samoât án ki bữn yiang sâuq payốh . Án la cũai yúh . Nṓq anhia tamứng santoiq án ? ”
+43010021	Nṓq		Ma tỗp canṓh pai : “ Khân manoaq nâi ma lứq yiang sâuq payốh , ki mō têq án atỡng máh santoiq án atỡng . Nṓq cũai bữn yiang sâuq , ma têq táq blang loah moat cũai sũt ? ”
+43010024	Maléq		Tỗp I‑sarễl rôm pễr Yê‑su , cớp alới blớh án neq : “ Maléq dũn noâng thâi yỗn hếq ngṓh rangṓh ngcuang ? Khân thâi la Crĩt , ki thâi atỡng raloaih yỗn hếq dáng toâp . ”
+43010032	ntrớu		Ma Yê‑su atỡng alới neq : “ Cứq khoiq táq sa‑ữi ranáq o máh Mpoaq cứq yỗn cứq táq . Cỗ tian ṓc ntrớu tễ ranáq ki ma anhia ễ tám tamáu chóq cứq ? ”
+43010036	nṓq		Ma cứq nâi , Mpoaq cứq khoiq rưoh cứq , cớp án ớn cứq toâq pỡ cutễq nâi . Ngkíq , nṓq anhia pai cứq acrieiq ramứh Yiang Sursĩ toâq cứq pai cứq la Con Yiang Sursĩ ?
+43011034	léq		Án blớh neq : “ Bân léq anhia tứp án ? ” Alới pai : “ Ncháu ơi ! Sanua hái pỡq nhêng . ”
+43011047	Nṓq		Ngkíq tỗp Pha‑rasĩ cớp máh cũai sốt tỗp tễng rit sang Yiang Sursĩ , alới arô nheq tữh cũai sốt tỗp I‑sarễl ; chơ alới sarhống . Alới pai neq : “ Cũai nâi táq ranáq salễh sa‑ữi lứq chơ . Nṓq hái ễ táq sanua ?
+43011056	Nṓq		Cũai ki chuaq níc Yê‑su . Alới ỡt tayứng tâng dống sang toâr , cớp alới manoaq blớh manoaq : “ Nṓq mới chanchớm ? Án ki toâq cha bũi sanhữ tangái ki tê , ma tỡ bữn ? ”
+43012005	Nṓq		“ Nṓq án tỡ bữn chếq dỡq phuom ; chơ ĩt práq kia ki chuai cũai cadĩt ? Kia dỡq phuom nâi li cớp práq cóng noau tuthễ pái culám tangái . ”
+43012027	~		“ Sanua mứt cứq sâng túh arức lứq . Têq ma tỡ cứq pai sanua neq : ‘ Mpoaq ơi ! Chuai yỗn cứq têq viaq chíq tễ ṓc cuchĩt nâi ? ’ Cứq tỡ têq pai ngkíq , yuaq cứq toâq pỡ cutễq nâi yỗn têq chĩuq ṓc cuchĩt ki .
+43012034a	nṓq		Ma clứng cũai ki atỡng loah neq : “ Phễp rit hếq atỡng hếq la manoaq Crĩt tamoong mantái . Ngkíq nṓq thâi pai Con Yiang Cỡt Cũai cóq ayṓng tâng aluang sangcáng ? 
+43012034b	noau		Noau la Con Yiang Cỡt Cũai ? ”
+43012038a	noau		Ngkíq rapĩeiq santoiq Ê‑sai , cũai tang bỗq Yiang Sursĩ , khoiq chĩc tễ mbṓq neq : “ Ncháu ơi ! Noau khoiq sa‑âm parnai hếq atỡng ? 
+43012038b	noau		Toâq noau toâp Ncháu khoiq apáh chớc Ncháu ? ”
+43013025	noau		Ngkíq cứq sĩc cheq Yê‑su cớp pai neq : “ Sễq Ncháu atỡng cũai ki la noau ? ”
+43013036	léq		Si‑môn Phi‑ễr blớh Yê‑su : “ Ncháu ơi ! Pỡ léq Ncháu ễ pỡq ? ” Yê‑su ta‑ỡi án neq : “ Ntốq cứq pỡq , sanua mới tỡ têq puai cứq . Ma nỡ ra têq mới puai cứq tê . ”
+43013037	Nṓq		Ngkíq Phi‑ễr blớh ễn : “ Ncháu ơi ! Nṓq cứq tỡ têq puai Ncháu sanua ? Cứq rơi chĩuq cuchĩt cớp Ncháu . ”
+43014002	~		Tâng dống Mpoaq cứq bữn sa‑ữi ntốq ỡt . Sanua cứq pỡq thrũan ntốq yỗn anhia ỡt . Khân ṓc nâi ma tỡ bữn pĩeiq , ki cứq tỡ bữn atỡng ṓc nâi yỗn anhia .
+43014005	Nṓq		Ma Thỗ‑mat blớh Yê‑su neq : “ Ncháu ơi ! Hếq tỡ dáng chu léq Ncháu pỡq . Nṓq têq hếq dáng rana toâq pỡ ki ? ”
+43014009	Nṓq		Yê‑su ta‑ỡi án neq : “ Phi‑lip ơi ! Cứq ỡt cớp anhia khoiq dũn chơ , ma nṓq noâng mới tỡ yũah dáng cứq ? Cũai aléq ca khoiq hữm cứq chơ , machớng án khoiq hữm Mpoaq cứq tê . Nṓq mới sễq yỗn cứq apáh Mpoaq cứq yỗn anhia dáng án ?
+43014022	nṓq		Moâm Yê‑su pai ngkíq , Yuda ( Yuda nâi tỡ cỡn Yuda I‑cari‑ỗt ) blớh Yê‑su neq : “ Ncháu ơi , cỗ nṓq Ncháu apáh ngê Ncháu yỗn ống hếq sâng , ma Ncháu tỡ bữn apáh yỗn máh cũai tâng dỡi nâi ? ”
+43016005	léq		“ Sanua cứq chu loah pỡ án ca ớn cứq toâq pỡ nâi , ma noâng tỡ bữn noau tễ anhia blớh cứq neq : ‘ Pỡ léq thâi pỡq ? ’
+43016017	ntrớu		Tỗp rien tễ Yê‑su , alới manoaq blớh manoaq neq : “ Ṓc ntrớu toâp án pai cớp hái ? Án pai neq : ‘ Tỡ bữn dũn noâng anhia tỡ bữn hữm noâng cứq chơ , tễ tangái ki tỡ bữn dũn noâng , anhia hữm loah cứq . ’ Cớp án pai : ‘ Yuaq cứq chu pỡ Mpoaq cứq . ’
+43016018	Ntrớu		Ntrớu la ṓc tễ santoiq nâi : ‘ Tỡ bữn dũn noâng ’ ? Hái tỡ bữn dáng ntrớu án pai . ”
+43018004	Noau		Yê‑su khoiq dáng chơ máh ramứh ca ễ toâq pỡ án . Ngkíq án loōh blớh alới ki : “ Noau anhia chuaq ? ”
+43018007	Noau		Chơ Yê‑su blớh loah alới neq : “ Noau anhia chuaq ? ” Alới ta‑ỡi loah neq : “ Hếq chuaq Yê‑su , án ca cũai tễ vil Na‑sarễt . ”
+43018011	~		Yê‑su ớn Phi‑ễr neq : “ Mới chóq loah dau mới tâng sor ! Lứq samoât sanua cứq cóq nguaiq tễ tangan Mpoaq cứq yỗn cứq nguaiq . ”
+43018021	nṓq		Ngkíq nṓq anhia blớh cứq ? Ca lứq pĩeiq anhia blớh alới ca khoiq sâng parnai cứq atỡng . Lứq alới dáng nheq máh cứq pai . ”
+43018023	nṓq		Yê‑su ta‑ỡi án ki neq : “ Khân cứq pai tỡ pĩeiq , ngkíq o mới atỡng cứq . Ma khân cứq pai pĩeiq , nṓq mới tapáh cứq ? ”
+43018029	ntrớu		Cỗ tỗp I‑sarễl tỡ ễq mut ntốq noau rasữq ki , ngkíq yuaq Phi‑lat , án ca cũai sốt ki , loōh toâq pỡ alới . Án blớh alới ki neq : “ Cỗ ṓc ntrớu anhia cauq án nâi ? ”
+43018035	ntrớu		Phi‑lat ta‑ỡi loah neq : “ Mō têq cứq dáng ! Cứq tỡ bữn tễ tỗp I‑sarễl . Cũai mới cớp cũai sốt rit sang cruang mới , alới ki dững mới toâq pỡ cứq . Ṓc ntrớu toâp mới táq lôih ? ”
+43018038	ntrớu		Phi‑lat blớh loah : “ Ki ntrớu la ṓc pĩeiq ? ” Vớt Phi‑lat pai ngkíq , án loōh tễ dống toâq loah pỡ cũai I‑sarễl . Án atỡng alới neq : “ Cứq tỡ bữn ramóh muoi ṓc lôih ntrớu tễ án .
+43019009	léq		Án mut loah tâng dống sữq ki , chơ án blớh Yê‑su neq : “ Tễ léq mới toâq ? ” Ma Yê‑su tỡ bữn ta‑ỡi ntrớu .
+43019015	~		Ma máh cũai ki pai loah casang lứq neq : “ Hếq tỡ ễq án ! Téh chíq án tâng aluang sangcáng ! ” Phi‑lat blớh loah alới : “ Anhia yoc cứq téh puo anhia tâng aluang sangcáng tỡ ? ” Ma alới ca sốt tỗp tễng rit sang Yiang Sursĩ ta‑ỡi neq : “ Án tỡ cỡn puo hếq ! Puo hếq la ống puo Rô‑ma sâng ! ”
+43020013	Ntrớu		Alới blớh Mari neq : “ Avia ơi ! Ntrớu mới nhiam ? ” Mari ta‑ỡi : “ Khoiq noau ĩt Ncháu cứq , cớp cứq tỡ dáng pỡ léq noau dững án . ”
+43020015a	Ntrớu		Yê‑su pai neq cớp án : “ Avia ơi ! Ntrớu mới nhiam ? 
+43020015b	noau		Noau mới chuaq ? ” Mari chanchớm án la cũai sama tâng nưong ki . Ngkíq án ta‑ỡi neq : “ Achuaih ơi ! Khân achuaih dững aloōh án ki , achuaih yỗn cứq dáng ntốq léq achuaih dōq . Ngkíq cứq pỡq ĩt án . ”
+43021012	noau		Yê‑su atỡng hếq neq : “ Anhia toâq cha voai . ” Tỡ bữn aléq tễ hếq tỗp rien tễ án khớn blớh án : “ Thâi la noau ? ” Nheq tữh hếq khoiq dáng chơ nâi la Ncháu hếq .
+43021020	noau		Phi‑ễr luliaq chu clĩ . Án hữm cứq ca ratoi lứq cớp Yê‑su ỡt pỡ ki tê . Cứq la án ca ỡt tĩng Yê‑su bo hếq cha dỗi parnơi pêl tabữ ki . Cứq nâi toâp khoiq blớh Yê‑su noau ca ễ chếq án .
+43021021	ntrớu		Tữ Phi‑ễr hữm cứq , án blớh Yê‑su neq : “ Ncháu ơi ! Án nâi cuchĩt na ntrớu ? ”
+43021022	ntrớu		Yê‑su ta‑ỡi Phi‑ễr neq : “ Khân cứq yoc án nâi ỡt toau cứq toâq loah pỡ nâi , bữn mới tutuaiq táq ntrớu ? Ma mới , cóq mới puai cứq . ”
+43021023	ntrớu		Moâm Yê‑su pai ngkíq , parnai ki toâq la‑ữt la‑ữi pỡ cũai ca sa‑âm Yê‑su . Ngkíq alới chanchớm pai cứq tỡ cuchĩt noâng . Ma Yê‑su tỡ bữn pai cứq tỡ cuchĩt . Yê‑su pai la neq : “ Khân cứq yoc án nâi ỡt toau cứq toâq loah pỡ nâi , bữn mới tutuaiq táq ntrớu ? ”
+44001011	Nṓq		cớp pai neq : “ Cũai tễ cruang Ca‑li‑lê ơi ! Nṓq anhia ỡt tayứng ntốq nâi nhêng níc chu paloōng ? Yê‑su nâi , nỡ ra án sễng loah pỡq cutễq nâi machớng anhia hữm án chỗn sanua tê . ”
+44002008	Nṓq		Nṓq hái sâng alới táq ntỡng parnai hái ma raloaih lứq ?
+44002012	Ntrớu		Ngkíq nheq tữh alới santar cớp sâng dớt lứq tâng mứt alới . Manoaq blớh manoaq : “ Ntrớu ramứh ranáq nâi ? ”
+44002037	Nṓq		Tữ tỗp ki sâng parnai nâi , mứt alới sâng lavoâiq loah . Alới blớh Phi‑ễr cớp tỗp muoi chít la muoi náq neq : “ Sễm ai ơi ! Nṓq hếq ễ táq sanua ? ”
+44003012a	Nṓq		Toâq Phi‑ễr hữm cũai clứng ki , án atỡng alới neq : “ Cũai I‑sarễl ơi ! Nṓq anhia dớt tễ ranáq nâi ? 
+44003012b	Nṓq		Nṓq anhia nhêng cloân níc chu hếq ? Anhia chớm hếq têq táq bữm ranáq nâi tỡ ? Cớp anhia chớm hếq o hỡn tễ yớu canṓh yáng moat Yiang Sursĩ tỡ ? Tỡ cỡn ! Lứq tễ Yê‑su Crĩt toâp cũai nâi cỡt bán .
+44004007a	~		
+44004007b	noau		Cũai sốt ki ớn noau dững Phi‑ễr cớp Yang toâq pỡ alới ; chơ alới blớh bar náq ki neq : “ Noau yỗn anhia bữn chớc táq bán cũai yỗt ki ? 
+44004007c	Ntrớu		Ntrớu ramứh án ? ”
+44004016	Nṓq		Alới pai neq : “ Nṓq hái ễ táq cớp alới bar náq nâi ? Nheq tữh cũai tâng vil Yaru‑salễm khoiq hữm chơ alới bar náq táq ranáq o lứq yỗn cũai yỗt nâi . Hái tỡ têq suon pai alới tỡ bữn táq ranáq ki .
+44004025a	nṓq		Tễ mbṓq anhia khoiq atỡng na achúc achiac hếq , Davĩt , máh ramứh Raviei Yiang Sursĩ yỗn án atỡng . Davĩt pai neq : ‘ Cỗ nṓq máh cũai tâng cruang cutễq nâi ũan cớp Yiang Sursĩ ? 
+44004025b	nṓq		Cỗ nṓq alới sarhống ngê tỡ bữn cỡt kia ntrớu ?
+44005003	Nṓq		Chơ Phi‑ễr atỡng A‑nania neq : “ A‑nania ơi ! Nṓq mới puai rangứh yiang Satan ? Mới cakéq cớp Raviei Yiang Sursĩ práq kia anhia chếq cutễq , cớp anhia dōq loah muoi pún ma yỗn muoi pún sâng .
+44005004	Nṓq		Bo anhia tỡ yũah chếq , la lứq cutễq anhia . Práq kia chếq cutễq ki lứq práq anhia . Nṓq anhia pai khoiq chiau nheq práq kia cutễq ki , ma noâng anhia dōq loah muoi pún ? Anhia tỡ bữn cakéq cớp cũai , ma lứq anhia cakéq cớp Yiang Sursĩ . ”
+44005009	Nṓq		Phi‑ễr pai ễn neq : “ Nṓq anhia bar náq pruam muoi mứt yoc ễ phếq Raviei Yiang Sursĩ ? Cayac mới khoiq noau dững tứp chơ . Sanua alới ca tứp cayac mới , ki khoiq toâq ngoah toong chơ . Sanua alới ễ dững tứp mới ễn . ”
+44007026	Nṓq		Tangái parnỡ ễn Môi‑se ramóh bar náq cũai I‑sarễl carchĩt . Môi‑se yoc ễ mangcra alới tỡ yỗn alới carchĩt noâng . Án atỡng alới ki neq : ‘ Lứq anhia la sễm ai . Nṓq anhia manoaq nhôp manoaq , manoaq táq manoaq ? ’
+44007027	Noau		Ma án ca toân yớu , án cutớl Môi‑se cớp pai neq : ‘ Noau chóh mới cỡt sốt cớp parchĩn hếq ?
+44007035	Noau		“ Tễ nhũang , Môi‑se yoc ễ chuai tê tỗp I‑sarễl , ma alới ki tỡ ễq yỗn án chuai . Bo ki alới pai neq : ‘ Noau chóh mới cỡt sốt cớp parchĩn hếq ? ’ Ma ranễng Yiang Sursĩ ỡt tâng rambũ ca blữ ki , án atỡng yỗn Môi‑se dáng Yiang Sursĩ toâp rưoh Môi‑se táq sốt tỗp I‑sarễl cớp chuai amoong alới .
+44007049a	ntrớu		‘ Cứq tacu táq sốt tâng paloōng , cớp cốc cutễq la cỡt ntốq cứq chóq ayững cứq . Khân ngkíq , anhia yoc ễ táq dống ntrớu yỗn cứq ỡt ? Cứq tỡ nai lakéh . 
+44007049b	Nṓq		Nṓq anhia táq dống yỗn cứq rlu ?
+44007052	~		Alới táq túh coat máh cũai tang bỗq Yiang Sursĩ . Cớp alới cachĩt chíq cũai ca atỡng sacoâiq yỗn alới dáng nỡ ra bữn manoaq Con Yiang Sursĩ sễng tâng cutễq nâi . Sanua án khoiq toâq chơ tâng cutễq nâi , ma anhia chếq chíq án , cớp anhia cachĩt án .
+44008031	noau		Án ta‑ỡi Phi‑lip neq : “ Mō têq cứq dáng khân tỡ bữn noau atỡng cứq ? ” Ngkíq án mơi Phi‑lip chỗn tâng sễ án , tacu cớp án .
+44008033	noau		Alới ayê án . Án tỡ bữn táq lôih ntrớu , ma noau táq án . Alới cachĩt chíq án , tỡ yỗn án tamoong noâng tâng cutễq nâi . ”
+44008034	noau		Moâm án doc , cũai Ê‑thie‑bĩ ki blớh Phi‑lip neq : “ Ê‑sai nâi , án atỡng tễ noau ? Án atỡng tễ tỗ án bữm , ma án atỡng tễ cũai canṓh ? ”
+44008036	~		Bo alới pỡq tâng rana ki , alới toâq pỡ ntốq bữn dỡq . Cũai Ê‑thie‑bĩ ki pai neq : “ Ki ! Mới nhêng dỡq ki . Têq mới táq batễm yỗn cứq sanua toâp tỡ ? ”
+44009004	Nṓq		Án dớm tâng cutễq . Cớp án sâng sưong sabau án neq : “ Salơ ơi ! Ơ Salơ ! Nṓq mới táq cứq ? ”
+44009005	noau		Salơ ta‑ỡi neq : “ Ncháu ơi ! Anhia la noau ? ” Sưong ki ta‑ỡi loah Salơ neq : “ Cứq la Yê‑su . Mới táq ngkíq tỡ pĩeiq cớp cứq .
+44009006	ntrớu		Yuor tayứng , chơ mut tâng vil . Tâng vil ki bữn noau atỡng mới cóq mới táq ntrớu . ”
+44010004	Ntrớu		Ma Cor‑nai ngcṓh lứq . Án nhêng cloân níc ranễng ki , cớp án blớh neq : “ Ncháu ơi ! Ntrớu anhia ễ bữn cứq ? ” Ranễng Yiang Sursĩ ta‑ỡi án neq : “ Yiang Sursĩ khoiq sâng chơ santoiq mới câu sễq tễ án . Cớp Yiang Sursĩ khoiq dáng chơ práq mới chuai máh cũai cadĩt . Ngkíq yuaq Yiang Sursĩ sanhữ níc mới .
+44010021	Ntrớu		Ngkíq Phi‑ễr sễng ramóh alới cớp pai neq : “ Cứq nâi la án ca anhia chuaq . Ntrớu anhia ễ bữn cứq ? ”
+44010029	nṓq		Cỗ ngkíq ma cứq tỡ bữn ngcṓh toâq pỡ nâi . Sanua cứq yoc ễ dáng cỗ nṓq anhia sễq cứq toâq pỡ nâi ? ”
+44010047	noau		Ngkíq Phi‑ễr atỡng ễn neq : “ Lứq máh cũai nâi bữn Raviei Yiang Sursĩ chơ , ariang hếq bữn tễ nhũang tê . Tỡ bữn noau têq catáng tễ ranáq táq batễm yỗn máh cũai nâi sanua . ”
+44011017a	Nṓq		Ngkíq sanua Yiang Sursĩ yỗn Raviei án pỡ cũai tỡ cỡn cũai I‑sarễl hỡ , machớng án khoiq yỗn Raviei án pỡ hếq ca sa‑âm Yê‑su Crĩt tễ nhũang tê . Nṓq anhia chanchớm cứq têq sưoq Yiang Sursĩ tỡ ? 
+44011017b	ntrớu		Ranáq ntrớu án yoc ễ táq , ki án táq . ”
+44012018	nṓq		Mbỡiq poang rưm rưm , tahan ca kĩaq cuaq ki , alới croōq lứq , tỡ dáng nṓq alới ễ táq noâng sarbiet chíq Phi‑ễr tễ cuaq ki .
+44013025	~		Tữ Yang táq máh ranáq Yiang Sursĩ ớn án khoiq cheq ễ moâm chơ , án pai neq : ‘ Cứq la tỡ cỡn manoaq ca anhia ỡt ngcuang . Ma ntun , án ca anhia ngcuang lứq toâq . Cứq la tỡ bữn pĩeiq dếh leh cansâi cỡp tễ ayững án , yuaq cứq la chớc cớt cớt lứq . ’
+44014015	Nṓq		Chơ alới bar náq lúh chu cũai clứng ki cớp pai casang lứq neq : “ Sễm ai ơi ! Nṓq anhia yoc ễ toōng yỗn hếq ? Hếq la cũai machớng anhia tê . Hếq toâq pỡ nâi yoc ễ atỡng anhia dáng chỗi toōng noâng yiang canṓh yuaq yiang ki tỡ têq chuai anhia ntrớu . Ma cóq anhia sang ống Yiang Sursĩ sâng . Ống Yiang Sursĩ toâp la Yiang tamoong níc . Lứq ống Yiang Sursĩ toâp tễng paloōng , cutễq , dỡq , cớp nheq tữh ramứh ỡt tâng ki .
+44015010	nṓq		Ma nṓq anhia tỡ bữn noap Yiang Sursĩ táq ngkíq ? Nṓq anhia yoc ễ ễp cũai sa‑âm ca tỡ cỡn cũai I‑sarễl yỗn alới puai phễp rit coat lứq ? Phễp rit nâi , hái cớp achúc achiac hái tễ mbṓq la tỡ rơi puai .
+44016030	Ntrớu		Án dững aloōh alới bar náq cớp án blớh alới neq : “ Yớu ơi ! Ntrớu cứq táq yỗn têq cứq tamoong mantái ? ”
+44017018	~		Chơ toâq pỡ án cũai tễ tỗp Ễp‑curien cớp tỗp Sa‑tũoc . Bar tỗp ki yoc ễ rien tễ máh ngê rangoaiq tâng dỡi nâi . Alới ki pai tễ Phau‑lô neq : “ Án nâi la cũai sacũl . Án atỡng tỡ cỡt ṓc . ” Ma cũai canṓh pai neq : “ Cṓh lơ án atỡng tễ yiang ca hái tỡ yũah dáng . ” Alới pai ngkíq yuaq Phau‑lô atỡng tễ Yê‑su , cớp án atỡng tễ cũai ca khoiq cuchĩt chơ cỡt tamoong loah .
+44017019	ntrớu		Cũai ki dững asuoi Phau‑lô toâq muoi ntốq cũai sốt dốq ễ sarhống . Ntốq nâi la tâng cóh Arễu‑ba . Alới ki atỡng Phau‑lô neq : “ Hếq yoc ễ dáng samoât samơi ramứh tamái nâi mới atỡng la ramứh ntrớu .
+44019003	ntrớu		Ngkíq Phau‑lô blớh ễn neq : “ Tữ anhia roap batễm , anhia puai ngê ntrớu ? ” Alới ta‑ỡi neq : “ Hếq puai ngê Yang , án ca dốq táq batễm . ”
+44019015	noau		Ma yiang sâuq ta‑ỡi alới tapul náq ki neq : “ Yê‑su cứq dáng , cớp Phau‑lô cứq sacoal , ma anhia la noau ? ”
+44019035	~		Vớt ki bữn manoaq tễ vil Ê‑phê‑sô ca táq saráq yỗn cũai sốt tâng vil ki . Án sễq cũai clứng ki ỡt rangiac dōq án atỡng alới muoi ramứh . Án atỡng neq : “ Sễm ai tễ vil Ê‑phê‑sô ơi ! Nheq tữh cũai dáng moâm vil Ê‑phê‑sô nâi lứq kĩaq níc dống sang toâr yiang Dian . Cớp nheq tữh cũai dáng moâm hái kĩaq níc rup yiang Dian ca sễng tễ paloōng .
+44021013a	Ntrớu		Ma Phau‑lô ta‑ỡi hếq neq : “ Ntrớu anhia nhiam táq ? Sễq anhia chỗi catoâng cứq . Cứq tỡ bữn ngcṓh . Tỡ bữn ntrớu noau chṓq ayững atĩ cứq . Cớp tỡ bữn ntrớu alới cachĩt chíq cứq . Cứq tỡ bữn ngcṓh ntrớu noau táq cứq cỗ cứq dững parnai Yê‑su Crĩt . ”
+44021013b	~		
+44021022	nṓq		Tỡ bữn dũn noâng alới ca cauq mới dáng toâp mới toâq pỡ vil nâi . Ngkíq nṓq hái ễ táq sanua ?
+44021033a	noau		Cũai sốt tahan ki pỡq cheq Phau‑lô , cớp án ớn tahan cỗp chíq Phau‑lô ; chơ chṓq án toâq bar ntreh sái sô . Moâm ki án blớh : “ Án nâi la noau ? 
+44021033b	Ntrớu		Ntrớu án táq ? ”
+44022007	Nṓq		Chơ cứq dớm tâng rana , cớp cứq sâng sưong noau sabau cứq neq : ‘ Salơ ơi ! Ơ Salơ ! Nṓq mới táq cứq ? ’
+44022008	noau		Chơ cứq ta‑ỡi sưong ki neq : ‘ Ncháu ơi ! Anhia la noau ? ’ Án ta‑ỡi loah cứq neq : ‘ Cứq la Yê‑su tễ vil Na‑sarễt . Mới táq ngkíq tỡ pĩeiq cớp cứq . ’
+44022010	Nṓq		Chơ cứq blớh Yê‑su ễn neq : ‘ Ncháu ơi ! Nṓq cứq ễ táq sanua ? ’ Yê‑su ta‑ỡi loah cứq neq : ‘ Mới yuor tayứng ; chơ mới mut tâng vil Damac . Tâng vil ki bữn cũai atỡng yỗn mới dáng ranáq ntrớu cứq yoc mới táq . ’
+44022016	Nṓq		Nṓq mới noâng acoan ? Mới yuor tayứng roap batễm . Mới câu sễq Yê‑su táh lôih mới . ’ ”
+44022026	Nṓq		Tữ tahan ki sâng santoiq ngkíq , án pỡq atỡng toâp cũai sốt án neq : “ Nṓq mới yoc ễ táq cũai nâi ? Án la cũai proai cruang Rô‑ma ! ”
+44023003	~		Chơ Phau‑lô pai chóq cũai sốt ki neq : “ Nỡ ra Yiang Sursĩ táq mới samoât mới táq cứq sanua tê . Bỗq mới táq ntỡng samoât riang o , ma tâng mứt pahỡm mới , ki cooc . Mới yoc ễ parchĩn cứq puai phễp rit Yiang Sursĩ , ma mới yỗn noau tapáh chíq cứq . Ngkíq mới táh chíq phễp rit Yiang Sursĩ . ”
+44023009	~		Ngkíq bar tỗp ki rasuon casang lứq . Bữn cũai yống rit tễ tỗp Pha‑rasĩ , alới yuor tayứng cớp pai neq : “ Lứq hếq tỡ hữm ṓc ntrớu lôih cũai nâi táq . Cṓh lơ lứq bữn raviei tỡ la ranễng Yiang Sursĩ atỡng án . ”
+44023019	Ntrớu		Cũai sốt ki tếc atĩ cũai póng , dững án yơng tễ cũai canṓh ; chơ blớh án : “ Ntrớu mới yoc táq ntỡng cớp cứq ? ”
+44026008	Nṓq		Nṓq anhia chanchớm salễh Yiang Sursĩ têq táq cũai cuchĩt cỡt tamoong loah ?
+44026014	Nṓq		Nheq tữh hếq dớm proac prêq nheq tâng cutễq . Cớp cứq sâng sưong sabau atỡng cứq toâq parnai cứq bữm , la parnai Hê‑brơ , pai neq : ‘ Salơ ơi ! Ơ Salơ ! Nṓq mới táq cứq ? Mới táq ngkíq la samoât tariac noau clốh múh ễ tếc án chu tíh , ma án cữuq nhanhiar ễ pỡq chu canṓh , tỡ ễq puai ncháu án . Mới táq ngkíq coat lứq yỗn mới . ’
+44026015	noau		Ma cứq ta‑ỡi sưong ki neq : ‘ Ncháu ơi ! Anhia la noau ? ’ Chơ sưong ki ta‑ỡi loah cứq neq : ‘ Cứq la Yê‑su . Mới táq ngkíq tỡ pĩeiq cớp cứq .
+45002017	~		Ma máh anhia ca ngin anhia la cũai I‑sarễl , anhia chanchớm phễp rit Yiang Sursĩ táq khễ yỗn anhia , cớp anhia khễn bữm anhia ỡt cheq Yiang Sursĩ .
+45002021	~		Anhia atỡng cũai canṓh , ma anhia tỡ bữn atỡng tỗ anhia bữm . Anhia atỡng cũai canṓh : “ Chỗi tutuoiq ! ” , ma anhia toâp tutuoiq tê .
+45002028	noau		Khân ngkíq , ki noau la cũai I‑sarễl samoât samơi ? Tỡ bữn dũ náq tễ tṓng toiq Yacốp ca táq rit cứt puai phễp rit Môi‑se la cũai I‑sarễl lứq samoât .
+45003001a	~		Ngkíq , tỗp I‑sarễl o hỡn tễ cũai canṓh yáng moat Yiang Sursĩ tỡ ? 
+45003001b	ntrớu		Cớp rit cứt alới táq bữn kia ntrớu tỡ ?
+45003003	~		Lứq bữn cũai tễ tỗp I‑sarễl ca tỡ bữn sa‑âm Yiang Sursĩ , ma noâng Yiang Sursĩ táq tapun parnai án khoiq ữq chơ .
+45003005	~		Cũai tâng dỡi yoc ễ pai neq : “ Khân hái ma táq ranáq lôih , ki cũai dáng raloaih hỡn ễn Yiang Sursĩ lứq tanoang , yuaq án tỡ bữn táq lôih ariang hái . ” Cớp alới pai neq tê : “ Yiang Sursĩ táq tỡ pĩeiq khân án táq hái cỗ tian hái táq ranáq lôih . ”
+45003006	nṓq		Ma lứq samoât tỡ têq pai Yiang Sursĩ táq tỡ pĩeiq ! Khân Yiang Sursĩ tỡ bữn lứq tanoang , nṓq têq án rablớh nheq tữh cũai ?
+45003007a	~		Bữn cũai blớh neq : “ Khân cũai bữn khễn Yiang Sursĩ , cớp alới bữn dáng án atỡng tanoang lứq cỗ alới sâng cứq atỡng tỡ pĩeiq , 
+45003007b	nṓq		mō nṓq Yiang Sursĩ tếq cứq táq lôih ? ”
+45003008	~		Chơ bữn án ca ễ pai neq : “ Âu ! Hái táq sâuq palứq ! Ngkíq noau bữn khễn Yiang Sursĩ sa‑ữi hỡn ễn . ” Cớp bữn cũai tũn cứq , pai cứq atỡng ṓc ki tê . Ma nỡ ra Yiang Sursĩ lứq táq máh cũai ca pai ngkíq .
+45003009	~		Ngkíq cũai I‑sarễl o hỡn tễ cũai canṓh tỡ ? Lứq tỡ cỡn ! Cứq khoiq atỡng chơ , cũai I‑sarễl cớp cũai tỡ cỡn cũai I‑sarễl la machớng nheq . Dũ náq alới la cũai lôih .
+45003027a	noau		Khân Yiang Sursĩ táq ngkíq yỗn hái , bữn noau têq pai án táq bữm ranáq o tỡ ? Lứq tỡ têq . 
+45003027b	nṓq		Cỗ nṓq alới tỡ têq pai ngkíq ? Cỗ Yiang Sursĩ tỡ yỗn máh cũai ỡt tanoang o yáng moat án yuaq alới trĩh phễp rit Môi‑se . Yiang Sursĩ táq yỗn máh cũai têq ỡt tanoang o yáng moat án , la cỗ alới sa‑âm Yê‑su Crĩt sâng .
+45003027c	~		
+45004001	~		Sanua cứq yoc atỡng anhia tễ A‑praham , la achúc achiac tỗp I‑sarễl tễ dâu lứq .
+45004003	~		Tâm saráq Yiang Sursĩ tễ mbṓq khoiq pai chơ tễ A‑praham neq : “ A‑praham sa‑âm Yiang Sursĩ ; ngkíq Yiang Sursĩ noap án la cũai tanoang o . ”
+45004010	Bo léq		Bo léq Yiang Sursĩ noap A‑praham tanoang o ? Nhũang tỡ la ntun A‑praham táq rit cứt ? Lứq samoât Yiang Sursĩ noap A‑praham tanoang o bo án tỡ yũah táq rit cứt , tỡ cỡn ntun án táq tếc ki .
+45005010	~		Hỗi rái , sarnớm hái par‑ũal cớp Yiang Sursĩ , ma hái cỡt ratoi loah cớp án cỗ nhơ Con án chĩuq cuchĩt tang hái . Sanua hái ỡt ratoi cớp Yiang Sursĩ ; ngkíq hái ngcuang án chuai amoong hái cỗ nhơ Yê‑su tamoong loah tễ cuchĩt .
+45005021	~		Tễ nhũang , ṓc lôih cỡt sốt tâng mứt pahỡm cũai . Cỗ tian ṓc lôih , ma cũai cuchĩt . Ma sanua Yiang Sursĩ yỗn ṓc chuai miat ễn cỡt sốt tâng mứt pahỡm cũai . Ngkíq cũai têq bữn mứt pahỡm tanoang o , cớp bữn tamoong mantái níc cỗ nhơ Yê‑su Crĩt , Ncháu hái .
+45006001	nṓq		Khân ngkíq , nṓq hái ễ pai ? O ma tỡ bữn hái táq lôih níc , yỗn Yiang Sursĩ têq chuai hái sa‑ữi lứq ễn ?
+45006002	~		Lứq tỡ pĩeiq ngkíq ! Hái la samoât cũai cuchĩt . Khân cũai khoiq cuchĩt chơ , alới tỡ têq táq lôih noâng .
+45006015	nṓq		Khân ngkíq , nṓq hái ễ pai ? Sanua Yiang Sursĩ chuai miat hái , cớp phễp rit Môi‑se tỡ bữn sốt noâng hái . Ngkíq , hái têq táq ranáq lôih tỡ ? Lứq tỡ têq !
+45006021	ntrớu		Ngê anhia puai hỗi ki cỡt palâi ntrớu ? Lứq tỡ bữn palâi o ntrớu . Sanua anhia sâng casiet táq lứq cỗ tian ranáq sâuq ki , yuaq ngê sâuq bữn palâi la anhia cuchĩt .
+45007007	nṓq		Khân ngkíq , nṓq hái ễ pai ? Hái ễ pai phễp rit Môi‑se la lôih tỡ ? Lứq tỡ cỡn ! Ma phễp rit ki apáh yỗn hái dáng ṓc lôih la ntrớu . Lứq samoât cứq tỡ bữn dáng cứq táq lôih ham crơng noau , khân phễp rit ki tỡ bữn pai neq : “ Anhia chỗi ham crơng noau . ”
+45007024	Noau		Ơiq ! Bap lứq cứq ! Noau rơi chuai cứq yỗn racláh tễ ngê sâuq nâi ca yoc ễ cachĩt cứq ?
+45008024	Nṓq		Hỗi Yiang Sursĩ chuai amoong hái , án ữq yỗn hái bữn tỗ tamái ễn . Ngkíq hái noâng ngcuang ṓc ki . Khân hái bữn chơ ṓc hái ngcuang , hái tỡ bữn túh ngcuang noâng . Nṓq hái noâng ngcuang ṓc ca hái khoiq bữn chơ ?
+45008031a	Nṓq		Nṓq hái ễ pai tễ ranáq nâi ? 
+45008031b	noau		Khân Yiang Sursĩ lứq chuai hái ngkíq , tỡ bữn noau têq táq ntrớu chóq hái .
+45008032	~		Yiang Sursĩ khoiq yỗn Con án cuchĩt tang hái chơ . Khân án ma chuai hái ngkíq , lứq hái dáng án chuai tê máh ramứh hái yoc ễ bữn yỗn hái têq táq ranáq án .
+45008033	noau		Tỡ bữn ntrớu noau ễ cauq hái ca Yiang Sursĩ khoiq rưoh chơ , yuaq Yiang Sursĩ toâp noap hái tanoang o .
+45008034	noau		Cớp tỡ bữn ntrớu noau tếq hái cỗ tian lôih hái , yuaq Yê‑su Crĩt toâp ỡt coah atoam Yiang Sursĩ , cớp án rapai chuai hái cớp Yiang Sursĩ . Yê‑su Crĩt khoiq cuchĩt tang hái , cớp án khoiq tamoong loah chơ tễ án cuchĩt .
+45008035	ntrớu		Yê‑su Crĩt ayooq lứq hái cớp tỡ bữn muoi ṓc ntrớu têq cayoah hái tễ ṓc ayooq ki . Khân hái ramóh coat arức , tỡ la túh cadĩt , tỡ la noau táq hái , tỡ la hái sâng panhieih khlac , tỡ la ṓq tampâc tâc , tỡ la ramóh croōq , tỡ la noau tráh toâq dau , lứq máh ramứh nâi tỡ têq táq yỗn Yê‑su Crĩt tỡ bữn ayooq hái .
+45009014	Nṓq		Nṓq hái yoc ễ pai tễ ṓc ki ? Hái ễ pai Yiang Sursĩ táq tỡ pĩeiq tỡ ? Lứq tỡ cỡn ngkíq !
+45009019a	nṓq		Cṓh lơ anhia ễ blớh cứq neq : “ Khân ngkíq , nṓq Yiang Sursĩ tếq hái , pai hái bữn lôih ? 
+45009019b	ntrớu		Hái tỡ rơi táq ṓc sâuq ntrớu khân Yiang Sursĩ tỡ bữn yỗn hái táq . ”
+45009020a	Nṓq		Ma cứq ta‑ỡi loah anhia neq : “ Ơ sễm ai ơi ! Nṓq anhia khớn pai ngkíq chóq Yiang Sursĩ ? 
+45009020b	~		Adéh cutễq tỡ têq suon loah chóq cũai ca mial án pai neq : 
+45009020c	Nṓq		‘ Nṓq mới táq roâp cứq neq ? ’ ”
+45009021	~		Lứq án ca mial bar bễng adéh tễ muoi cốc cutễq , têq án mial muoi bễng nêuq lứq , cớp muoi bễng nêuq padam sâng . Tam mứt án .
+45009022	~		Machớng ki tê Yiang Sursĩ ndỡm nheq tữh cũai . Án bữn mứt cutâu lứq chóq alới ca táq moang ranáq sâuq . Ngkíq , nỡ ra án pupứt chíq alới ki . Ma Yiang Sursĩ yoc ễ apáh chớc án tê . Ngkíq án ót dũn chóq cũai ca táq ranáq sâuq ki .
+45009023	~		Yiang Sursĩ táq ngkíq , yuaq án yoc apáh yỗn hái dáng án bữn chớc toâr lứq , cớp án ayooq táq hái sa‑ữi lứq . Lứq án rưoh hái tễ mbṓq yỗn hái têq rachống tê chớc ang ữr tễ án .
+45009024	~		Yuaq ngkíq Yiang Sursĩ arô hái , dếh cũai I‑sarễl , dếh cũai tỡ cỡn cũai I‑sarễl .
+45009030	nṓq		Khân ngkíq , nṓq hái ễ pai tễ ṓc nâi ? Lứq hái ễ pai neq : cũai ca tỡ cỡn tễ tỗp I‑sarễl tỡ bữn chuaq ỡt tanoang o yáng moat Yiang Sursĩ , ma lứq alới bữn ṓc ki cỗ alới sa‑âm Yê‑su Crĩt .
+45009032	nṓq		Yuaq nṓq alới tỡ bữn bữn ? Yuaq alới tỡ bữn sa‑âm Yê‑su Crĩt . Alới chanchớm alới cóq táq puai phễp rit sâng . Ngkíq Yê‑su Crĩt cỡt samoât tamáu tâng rana yỗn tỗp I‑sarễl . Alới ki tỡ ễq sa‑âm , ngkíq samoât alới tũl chíq tamáu ki .
+45010006	Noau		Ma cũai aléq ca sa‑âm Yê‑su Crĩt têq yỗn án ỡt tanoang o yáng moat Yiang Sursĩ , lứq Yiang Sursĩ atỡng cũai ki neq : “ Anhia chỗi dớt , pai neq : ‘ Noau rơi chỗn chu paloōng , dōq coâiq Yê‑su sễng chuai hái ? ’
+45010007	Noau		Cớp anhia chỗi dớt , pai : ‘ Noau rơi sễng chu pưn pỡ ntốq raviei cũai cuchĩt ỡt , dōq coâiq Yê‑su tamoong loah tễ cuchĩt ? ’ ”
+45010008	ntrớu		Ma parnai Yiang Sursĩ pai ntrớu tễ ṓc tanoang o nâi ? Lứq án pai neq : “ Ṓc tanoang o yáng moat Yiang Sursĩ tỡ bữn yơng tễ anhia . Cóq anhia ngin toâq bỗq anhia cớp sa‑âm samoât samơi tâng mứt anhia sâng . ” Nâi la machớng santoiq hếq khoiq atỡng anhia chơ yỗn anhia bữn sa‑âm Yê‑su Crĩt .
+45010014a	nṓq		Ma nṓq têq cũai câu sễq tễ án , khân alới tỡ yũah sa‑âm án ? 
+45010014b	nṓq		Cớp nṓq têq alới sa‑âm án , khân alới tỡ yũah bữn sâng ntrớu tễ án ? 
+45010014c	nṓq		Cớp nṓq alới têq bữn sâng tễ án , khân tỡ bữn noau pỡq atỡng alới ?
+45010015	nṓq		Cớp nṓq cũai têq pỡq atỡng alới , khân tỡ bữn noau chuai yỗn alới pỡq ? Tâng tâm saráq Yiang Sursĩ tễ mbṓq noau pai neq : “ Bốn lứq cũai ca dững parnai o yỗn cũai canṓh dáng . ”
+45010016	aléq		Ma lứq tỡ bữn dũ náq ma yoc ễ tamứng parnai o tễ Yê‑su Crĩt . Machớng Ê‑sai khoiq pai tễ mbṓq neq : “ Ncháu cứq ơi ! Tỡ bữn cũai aléq noap parnai cứq atỡng . ”
+45011004	ntrớu		Ma ntrớu Yiang Sursĩ ta‑ỡi Ê‑li ? Yiang Sursĩ ta‑ỡi án neq : “ Cứq noâng bữn tapul ngin náq cũai samiang tỗp I‑sarễl ca sang cứq . Lứq alới ki tỡ bữn pruam sacốh racớl sang yiang Ba‑al . ”
+45011007	nṓq		Khân ngkíq , nṓq hái ễ pai ? Hái ễ pai neq : nheq tữh cũai I‑sarễl yoc ễ ỡt tanoang o yáng moat Yiang Sursĩ . Ma bĩq lứq alới ramóh ṓc ki . Ống alới ca Yiang Sursĩ rưoh sâng bữn ṓc ki . Ma alới ca tỡ ễq sa‑âm , mứt alới cỡt coang lứq ễn .
+45011015	ntrớu		Toâq Yiang Sursĩ táh cũai I‑sarễl ca tỡ bữn sa‑âm , ki án ĩt anhia ca tỡ cỡn cũai I‑sarễl ễn cỡt muoi mứt cớp án . Ma nỡ ra Yiang Sursĩ arô loah nheq cũai I‑sarễl . Chơ ntrớu bữn kia tễ ṓc ki ? Lứq ṓc ki bữn kia cũai cuchĩt bữn tamoong loah .
+45011018	~		Anhia chỗi chanchớm anhia la o hỡn tễ tỗp I‑sarễl . Khân anhia chanchớm ngkíq , cóq anhia chanchớm loah neq : abễng tỡ bữn amoong rêh , ma lứq rêh amoong abễng .
+45011033a	~		Ô ! Rangoaiq lứq Yiang Sursĩ ! Án dáng dũ ramứh . Hái tỡ rơi noap máh ṓc án dáng . Cớp hái tỡ têq dáng máh ranáq án yoc ễ táq cớp máh sarnớm án chanchớm .
+45011033b	~		
+45011034a	aléq		Tâng tâm saráq Yiang Sursĩ tễ mbṓq noau khoiq blớh neq : “ Bữn cũai aléq têq dáng sarnớm Yiang Sursĩ tỡ ? 
+45011034b	aléq		Tỡ la bữn cũai aléq têq tĩeih atỡng Yiang Sursĩ tỡ ?
+45011035	aléq		Tỡ bữn cũai aléq têq pai Yiang Sursĩ tu án muoi ramứh ntrớu , cỗ án khoiq yỗn Yiang Sursĩ tễ nhũang chơ . ”
+45014004	noau		Nṓq anhia khớn tếq cũai ca táq ranáq yỗn noau canṓh ? Lứq ống ncháu án toâp têq pai cũai ki táq ranáq o ma tỡ o . Cớp lứq hái dáng Yiang Sursĩ bữn chớc têq chuai yỗn cũai ki táq ranáq o .
+45014010a	nṓq		Ngkíq , nṓq anhia ễ tếq sễm ai anhia ? 
+45014010b	nṓq		Cớp nṓq anhia mumat sễm ai anhia ? Lứq nỡ ra nheq tữh hái cóq ỡt tayứng yáng moat Yiang Sursĩ yỗn án rablớh hái .
+46001020a	~		Ngkíq cũai rangoaiq , noâng rangoaiq tỡ ? 
+46001020b	~		Cũai ca rien sa‑ữi , noâng dáng sa‑ữi tỡ ? 
+46001020c	~		Cớp cũai ca dáng táq ntỡng blễng , lứq blễng tỡ ? Lứq samoât tỡ bữn cỡt ngkíq , yuaq Yiang Sursĩ khoiq táq yỗn ngê rangoaiq tâng dỡi nâi cỡt máh ngê sacũl sâng .
+46002011	~		Ma máh cũai , manoaq tỡ bữn dáng ngê manoaq . Alới miar dáng bữm ngê alới . Machớng ki tê , ống Raviei Yiang Sursĩ sâng dáng ngê Yiang Sursĩ .
+46002016a	aléq		Tâng tâm saráq Yiang Sursĩ tễ mbṓq , án khoiq blớh neq : “ Cũai aléq têq dáng sarnớm Yiang Sursĩ ? 
+46002016b	aléq		Cớp cũai aléq têq tĩeih atỡng Yiang Sursĩ ? ” Ma hái lứq bữn sarnớm Yê‑su Crĩt ỡt tâng mứt pahỡm hái .
+46003005a	noau		Ma Ablô la noau ? 
+46003005b	noau		Cớp Phau‑lô la noau ? Lứq hếq bar náq la cũai táq ranáq Yiang Sursĩ sâng . Hếq radững anhia yỗn anhia sa‑âm Yiang Sursĩ . Lứq Yiang Sursĩ toâp yỗn hếq bar náq táq ranáq án , manoaq muoi ranáq .
+46004007a	noau		Tễ noau anhia dáng pai o cũai nâi , ma sâuq cũai ki ? 
+46004007b	ntrớu		Máh ramứh ntrớu anhia bữn , lứq Yiang Sursĩ toâp yỗn anhia bữn ramứh ki . 
+46004007c	nṓq		Khân Yiang Sursĩ yỗn anhia bữn ngkíq , ki nṓq anhia pai anhia bữn bữm ?
+46004021	Ntrớu		Ntrớu anhia ễ bữn toâq cứq toâq pỡ anhia ? Anhia ễ bữn dũi , ma anhia ễq cứq ayooq anhia cớp bữn mứt lamên chóq anhia ?
+46005002	Nṓq		Nṓq anhia noâng chanchớm pai anhia la cũai o yáng moat Yiang Sursĩ ? Nṓq anhia tỡ bữn sâng ngua tễ ramứh sâuq ki ? O hỡn anhia tuih aloōh chíq án ca táq ranáq sâuq ki .
+46005012	~		Tỡ cỡn ranáq cứq dōq rablớh cũai ca tỡ yũah sa‑âm . Lứq Yiang Sursĩ toâp rablớh cũai ki . Ma máh cũai sa‑âm tâng tỗp anhia , cóq anhia rablớh ! Cóq anhia tuih aloōh chíq cũai ca táq ranáq sâuq ki tễ tỗp anhia .
+46006001	nṓq		Khân bữn tâng tỗp sa‑âm anhia , ma manoaq ralỗih cớp manoaq , nṓq anhia khớn toâq pỡ cũai ca tỡ bữn sa‑âm yỗn alới sữq anhia ? O hỡn la anhia toâq pỡ cũai ca khoiq sa‑âm chơ yỗn alới ki sữq anhia .
+46006003	~		Anhia dáng ma tỡ bữn , nỡ ra hái bữn chớc rablớh dếh ranễng Yiang Sursĩ hỡ ? Khân ngkíq , la khễ hỡn hái sữq máh ngê tâng dỡi nâi .
+46006004	nṓq		Ngkíq khân cũai tâng tỗp anhia ma manoaq ralỗih chóq manoaq tễ ngê tâng dỡi nâi , nṓq anhia yỗn cũai ca tỡ bữn sa‑âm ma sữq anhia ?
+46006007a	~		Yuaq tâng tỗp sa‑âm anhia bữn manoaq ralỗih cớp manoaq ; nâi la tếc anhia tỡ bữn puai ngê Yiang Sursĩ samoât samơi . Lứq o hỡn anhia chĩuq cũai canṓh táq anhia . 
+46006007b	~		Cớp o hỡn anhia chĩuq cũai canṓh ĩt crơng anhia .
+46006009	~		Lứq anhia khoiq dáng chơ , máh cũai ca tỡ bữn táq tanoang o , lứq Yiang Sursĩ tỡ bữn sốt tâng mứt pahỡm cũai ki . Anhia chỗi phếq tỗ anhia bữm , lứq Yiang Sursĩ tỡ bữn sốt tâng mứt pahỡm cũai ca táq ranáq neq : cũai tỡ bữn lacuoi cayac ma bếq parnơi , sang yiang canṓh , cooc lacuoi tỡ la cayac noau , mansễm ễ bữn rato mansễm , samiang ễ bữn rato samiang , tutuoiq , ham crơng noau , bũl blṓng , pai voōq noau , cớp ĩt crơng noau .
+46006016	~		Cớp anhia dáng ma tỡ bữn , cũai aléq ma dốq ễ pỡq langơp mansễm ca chếq tỗ , lứq alới bar náq ki cỡt samoât muoi sâiq sâng ? Tâng tâm saráq Yiang Sursĩ tễ mbṓq , án khoiq pai neq : “ Lứq bar náq ki cỡt riang muoi sâiq sâng . ”
+46006019	~		Anhia dáng ma tỡ bữn , tỗ anhia la samoât riang dống sang yỗn Raviei Yiang Sursĩ ỡt ? Lứq Yiang Sursĩ toâp yỗn anhia bữn Raviei án . Anhia tỡ bữn ndỡm tỗ anhia bữm , ma lứq Yiang Sursĩ ndỡm tỗ anhia .
+46007016a	~		Ơ mansễm ca cỡt lacuoi ơi ! Nỡ ra têq cống bữn mới chuai cayac mới yỗn án sa‑âm tê , khân mới lứq puai ngê Yê‑su Crĩt samoât samơi . 
+46007016b	~		Cớp samiang ca cỡt cayac ơi ! Nỡ ra têq cống bữn mới chuai lacuoi mới yỗn án sa‑âm tê , khân mới lứq puai ngê Yê‑su Crĩt samoât samơi .
+46009007a	~		Lứq tỡ nai bữn cũai táq tahan ma tỡ bữn cha práq lưong . 
+46009007b	~		Cớp tỡ nai bữn cũai táq nưong , ma tỡ bữn cha palâi tễ nưong ki . 
+46009007c	~		Cớp tỡ nai bữn cũai mantán charán cữu , ma tỡ bữn cha sâiq cữu ki .
+46009018	ntrớu		Ngkíq ntrớu la cóng cớp lơi cứq ? Cóng cớp lơi cứq la neq : cứq sâng bũi pahỡm toâq cứq atỡng parnai o tễ Yiang Sursĩ . Ki cứq atỡng sâng , ma tỡ bữn ĩt cóng ntrớu tễ cũai canṓh . Khân cứq yoc ễ ĩt , ki lứq têq cứq ĩt riang cũai canṓh .
+46010019a	ntrớu		Cứq táq ntỡng ngkíq , ntrớu ngê cứq ễ pai ? 
+46010019b	~		Cứq yoc ễ pai la yiang canṓh ki 
+46010019c	~		cớp crơng tutoōng ki la o yỗn cũai tỡ ?
+46010029	nṓq		Cứq tỡ bữn pai tễ mứt pahỡm anhia , ma cứq tamỗr mứt pahỡm cũai ki . Cṓh lơ anhia yoc ễ blớh cứq neq : “ Hếq dáng , khân hếq cha crơng sana nâi la tỡ bữn ntrớu . Ngkíq , ki nṓq hếq tỡ têq cha cỗ cũai canṓh chanchớm pai tỡ têq ?
+46010030	nṓq		Khân hếq ma sa‑ỡn Yiang Sursĩ án yỗn hếq bữn crơng sana cha ki , nṓq cũai canṓh noâng tếq hếq cha crơng ki ? ”
+46011022	nṓq		Nṓq ariang pai anhia ṓq dống cóq pỡq cha nguaiq tâng dống sang ? Nṓq anhia tỡ bữn yám noap tỗp sa‑âm Yiang Sursĩ ? Cớp nṓq anhia táq yỗn cũai cadĩt sâng casiet ? Ntrớu anhia yoc cứq atỡng tễ ramứh nâi ? Anhia yoc cứq khễn anhia tỡ ? Lứq cứq tỡ bữn khễn anhia ngkíq !
+46012017a	nṓq		Khân tỗ ma bữn ống moat sâng , ki nṓq án têq sâng ? 
+46012017b	nṓq		Cớp khân tỗ ma bữn ống cutũr sâng , ki nṓq án têq sâng hỡi ntrớu ?
+46012019	~		Khân bữn ống muoi ramứh sâng , ki lứq tỡ têq cỡt tỗ .
+46014006	ntrớu		Sễm ai ơi ! Khân cứq toâq pỡ anhia , ma atỡng toâq parnai mpha , ki ntrớu cỡt kia yỗn anhia ? Ma khân cứq toâq atỡng anhia máh ngê Yiang Sursĩ sapáh yỗn cứq , tỡ la máh ngê cứq dáng tễ án , tỡ la máh ngê ca tỡ yũah toâq , tỡ la máh ṓc pĩeiq tễ ngê Yiang Sursĩ , ṓc ki lứq cỡt kia yỗn anhia .
+46014007	noau		Cứq yoc ễ sacâm tễ crơng lampỡiq . Máh crơng ki tỡ bữn toâr ntrớu . Ma khân noau plóng tarĩal tỡ la tapáih achúng , ma tỡ bữn dáng , ki cũai ca tamứng tỡ bữn sâng bũi ntrớu sưong ki .
+46014008	noau		Cớp khân noau plóng lavia arô yỗn tahan pỡq rachíl , ma án tỡ bữn plóng pĩeiq , ki máh cũai tahan tỡ bữn dáng táq ntrớu .
+46014009	noau		Machớng ki tê , khân bỗq anhia atỡng , ma tỡ bữn raloaih , ki noau canṓh tỡ bữn sâng ntrớu anhia yoc ễ pai . Yuaq santoiq anhia tỡ bữn cỡt ṓc ntrớu !
+46014015	nṓq		Khân ngkíq , nṓq cứq ễ táq ? Cứq táq neq : cứq câu toâq parnai mpha , cớp cứq câu toâq parnai cứq bữm hỡ . Cớp bo cứq ũat khễn Yiang Sursĩ , cứq ũat toâq parnai mpha , cớp cứq ũat toâq parnai cứq bữm hỡ .
+46014016	nṓq		Khân anhia câu sa‑ỡn Yiang Sursĩ tâng mứt anhia toâq parnai mpha , ki nṓq têq cũai ca ỡt ngki pruam câu muoi mứt cớp anhia ? Lứq alới tỡ bữn dáng santoiq ntrớu anhia câu .
+46014026	nṓq		Khân ngkíq , ki nṓq ễ táq ? Bo anhia rôm parnơi anhia táq neq : án ca bữn cansái ũat khễn Yiang Sursĩ , án ca bữn ngê án yoc atỡng , án ca atỡng máh ramứh Yiang Sursĩ sapáh yỗn án , án ca táq ntỡng toâq parnai mpha , cớp án ca têq aloōh ngê parnai mpha hỡ . Máh ramứh anhia táq , ki cóq anhia chuai yỗn nheq tỗp sa‑âm cỡt sa‑âm pacái lứq ễn .
+46014036	~		Lứq tỡ bữn pĩeiq khân anhia chanchớm tỗp anhia sa‑âm tễ nhũang tỗp canṓh , cớp ống tỗp anhia sâng dáng parnai Yiang Sursĩ .
+46015012	nṓq		Ma khân hếq atỡng pai Crĩt khoiq tamoong loah chơ , ki nṓq bữn cũai tễ anhia ma pai máh cũai cuchĩt tỡ têq tamoong loah ?
+46015029a	~		
+46015029b	nṓq		Khân cũai cuchĩt ma tỡ bữn tamoong loah , cỗ nṓq ma bữn cũai tễ anhia chanchớm alới têq roap batễm tang alới ca khoiq cuchĩt chơ ? 
+46015029c	nṓq		Yuaq nṓq alới yoc ễ táq ngkíq , khân máh cũai cuchĩt ma tỡ bữn tamoong loah ?
+46015030a	~		
+46015030b	nṓq		Cớp hếq nâi , khân cũai cuchĩt ma tỡ bữn tamoong loah , ki nṓq hếq chĩuq túh coat cu rangái yoc ễ atỡng cũai tễ ngê ki ?
+46015032	ntrớu		Lứq cứq chĩuq sa‑ữi ramứh túh coat tâng vil Ê‑phê‑sô , ma khân cũai ca khoiq cuchĩt chơ ma tỡ bữn tamoong loah , ki ntrớu la kia yỗn cứq ? Khân cũai khoiq cuchĩt ma tỡ bữn tamoong loah , ki khaq hái tũoiq cũai ca pai neq : “ Hái nguaiq cha palứq , yuaq tỡ dáng tangái léq hái cuchĩt . ”
+46015035a	nṓq		Bữn cũai tễ anhia ễ blớh neq : “ Nṓq cũai ca khoiq cuchĩt chơ ma têq tamoong loah ? 
+46015035b	nṓq		Cớp tỗ cũai ki cỡt roâp nṓq ễn ? ”
+46015055a	~		Yiang ca dốq cachĩt cũai ơi ! Âu mới táq pla ễn ! 
+46015055b	~		Âu mới cachĩt ễn cũai ! ”
+47002002	noau		Khân cứq ma táq yỗn anhia sâng ngua , ki noau ễn táq yỗn cứq cỡt bũi ? Lứq samoât ống anhia toâp têq táq ngkíq . Ma nṓq anhia têq táq ngkíq , khân cứq táq yỗn anhia sâng ngua ?
+47002016	Noau		Yỗn máh cũai ca Yiang Sursĩ pupứt , hỡi ki la samoât riang hỡi crơng bũl ; chơ alới cuchĩt . Ma yỗn máh cũai ca Yiang Sursĩ ễ chuai amoong , hỡi ki samoât riang hỡi phuom ; cớp táq yỗn alới tamoong . Noau toâp rapĩeiq tễ ranáq nâi ?
+47003008	~		ki hỡn tễ ki ễn ngê tamái tễ Raviei Yiang Sursĩ bữn chớc ang ữr clữi tễ canṓh .
+47003009	~		Khân ngê ca táq yỗn cũai dáng alới táq lôih la bữn chớc ang ữr , ngkíq ngê ca táq yỗn cũai cỡt tanoang o yáng moat Yiang Sursĩ la bữn chớc ang ữr clữi tễ canṓh .
+47006014a	~		Anhia chỗi pruam ratoi cớp cũai ca tỡ bữn sa‑âm ngê Yê‑su Crĩt . Ngê tanoang o tỡ bữn pruam cớp ngê sâuq . 
+47006014b	~		Ṓc poang tỡ bữn pruam cớp ṓc canám .
+47006015a	~		Yê‑su Crĩt tỡ bữn pruam cớp yiang Satan . 
+47006015b	~		Cớp án ca sa‑âm chơ , án tỡ têq pruam cớp cũai ca tỡ bữn sa‑âm .
+47006016	~		Dống sang Yiang Sursĩ mpha tễ rup yiang sâuq . Lứq hái toâp la dống sang Yiang Sursĩ . Yiang Sursĩ khoiq pai neq chơ : “ Cứq lứq pỡq cớp ỡt nứng alới . Cứq cỡt Yiang Sursĩ alới , cớp alới cỡt cũai ca puai ngê cứq . ”
+47011011	nṓq		Cỗ nṓq cứq atỡng anhia ngkíq ? Cỗ cứq tỡ bữn ayooq anhia tỡ ? Ma Yiang Sursĩ khoiq dáng chơ cứq ayooq lứq anhia .
+47011029a	aléq		Khân bữn cũai aléq ma tỡ bữn puai ngê Yiang Sursĩ samoât samơi , ki mứt cứq yoc ễ chuai án ki puai samoât samơi . 
+47011029b	aléq		Cớp khân bữn cũai aléq ma noau radững táq lôih , ki cứq sâng ngua cớp án ca radững ki tê .
+47012013	~		Bữn muoi ngê sâng cứq táq cớp anhia mpha tễ cứq dốq táq cớp máh tỗp sa‑âm canṓh . Ngê ki la neq : cứq tỡ bữn yỗn anhia túh siem cứq . Cứq sễq lôih anhia yuaq cứq táq tỡ pĩeiq ngkíq !
+47012017	~		Máh cũai ca cứq ớn toâq pỡ anhia , alới chuaq u‑ĩt crơng anhia yỗn cứq tỡ ?
+48002014	Nṓq		Tữ cứq hữm alới ki tỡ bữn puai lứq tanoang parnai o tễ Yê‑su Crĩt , cứq atỡng Phi‑ễr yáng moat nheq tữh cũai ki neq : “ Mới la cũai I‑sarễl . Ma cutỗ mới toâp tỡ bữn puai phễp rit I‑sarễl . Nṓq têq mới pasĩt níc cũai tỡ cỡn cũai I‑sarễl yỗn alới puai nheq phễp rit ki ?
+48003001	Noau		Cũai Ca‑lati ơi ! Anhia la cũai sacũl ! Noau plóng ramoon sadal chíq moat anhia , chơ radững anhia pỡq tâng rana tỡ pĩeiq ? Yuaq tễ nhũang anhia dáng samoât chơ tễ Yê‑su Crĩt cuchĩt tâng aluang sangcáng .
+48003019	nṓq		Khân ngkíq , ki nṓq Yiang Sursĩ ma yỗn phễp rit I‑sarễl ? Lứq phễp rit nâi toâq yỗn hái dáng samoât hái bữn lôih . Ma nheq ramứh phễp rit nâi la Yiang Sursĩ yỗn toau toâq tangái Yê‑su Crĩt toâq . Lứq Yiang Sursĩ khoiq ữq ngkíq cớp Yê‑su Crĩt . Lứq samoât Yiang Sursĩ yỗn cũai bữn phễp rit I‑sarễl nâi na ranễng Yiang Sursĩ cớp na cũai atoâq parnai .
+48004009a	nṓq		Ma sanua anhia khoiq chuaq ramóh Yiang Sursĩ chơ . Ma pĩeiq lứq la Yiang Sursĩ chuaq ramóh anhia . Khân ngkíq , ki nṓq anhia yoc ễ píh táq sũl loah máh ngê tâng dỡi nâi ? 
+48004009b	~		Máh ngê nâi tỡ bữn blễng cớp tỡ bữn têq chuai anhia .
+48004010	~		Anhia noâng noap tangái , casâi , cớp cumo tampân . Anhia chanchớm anhia têq ỡt tanoang o cớp Yiang Sursĩ cỗ anhia táq ngkíq .
+48004015	ntrớu		Tangái ki anhia bũi lứq cớp cứq . Ma sanua , ntrớu ca táq anhia tỡ bữn bũi noâng riang tễ nling ? Lứq cứq dáng , tangái ki khân rơi anhia culáiq chíq ṓc moat anhia chuai yỗn cứq , ki lứq anhia culáiq .
+48004021	ntrớu		Cứq yoc ễ blớh cũai tễ anhia ca yoc ễ puai níc phễp rit I‑sarễl neq : anhia dáng ma tỡ bữn , phễp rit ki atỡng ramứh ntrớu yỗn anhia ?
+48004030	ntrớu		Ma ntrớu tâm saráq Yiang Sursĩ tễ mbṓq atỡng tễ ramứh nâi ? Án atỡng neq : “ Tuih chíq lacuoi sũl cớp con án . Lứq samoât , con tễ cũai sũl tỡ têq rachống mun mpoaq parnơi cớp con tễ lacuoi tỡ bữn sũl . ”
+48005007a	noau		Cứq hữm bo nhũang anhia puai ngê Yê‑su Crĩt lứq samoât . Ma sanua cứq dớt lứq , tỡ dáng noau catáng chíq tỡ yỗn anhia puai noâng ngê pĩeiq tễ Yiang Sursĩ .
+48005007b	~		
+48005011	~		Sễm ai ơi , bữn noau cauq cứq pai cứq atỡng nheq tữh cũai cóq táq rit cứt khân yoc ễ ỡt o yáng moat Yiang Sursĩ . Khân cứq ma pai ngkíq , ki cũai I‑sarễl tỡ bữn ễ táq cứq , cớp alới tỡ bữn sâng ũan ntrớu cứq atỡng tễ aluang sangcáng Yê‑su Crĩt .
+49004009	nṓq		Toâq parnai ki pai “ chỗn loah , ” nṓq anhia chanchớm ? Lứq án khoiq sễng nhũang toâq pỡ cutễq nâi .
+50001018	ntrớu		Ma tỡ bữn ntrớu ṓc ki . Cứq sâng bũi lứq bữn cũai atỡng tễ ngê Yê‑su Crĩt , tam alới ki bữn mứt pĩeiq tỡ la tỡ bữn pĩeiq . Cớp cứq dáng nỡ ra cứq noâng sâng bũi .
+50001021	~		Khân cứq tamoong , la cứq puai rangứh Yê‑su Crĩt sâng ; ma khân cứq cuchĩt , ṓc nâi la o hỡn ễn yỗn cứq .
+51002020	nṓq		Khân anhia khoiq cuchĩt parnơi cớp Yê‑su Crĩt chơ , nṓq têq noau ễp anhia puai phễp rit tâng dỡi nâi ?
+52002019	nṓq		Cỗ nṓq hếq têq dáng Yê‑su sâng bũi cớp hếq ? Cỗ nṓq hếq têq sâng bũi ỡn ? Cớp cỗ nṓq hếq têq pai hếq táq ranáq o yáng moat Yê‑su , Ncháu hái , toâq tangái án toâq loah pỡ cutễq nâi ? Lứq samoât hếq bữn nheq máh ṓc ki la cỗ tễ anhia .
+52003009	~		Cứq sa‑ỡn Yiang Sursĩ sa‑ữi lứq anhia sa‑âm samoât samơi . Cỗ anhia sa‑âm , cứq bữn ṓc bũi hỡr lứq yáng moat Yiang Sursĩ .
+54003005	nṓq		Khân án tỡ dáng radững o dống sũ án bữm , nṓq têq án radững máh tỗp cũai sa‑âm Yiang Sursĩ ễn ?
+54006007a	ntrớu		Tễ dâu mpiq hái canỡt , hái tỡ bữn dững crơng ntrớu mut tâng dỡi nâi . 
+54006007b	ntrớu		Cớp toâq hái cuchĩt , hái tỡ têq dững crơng ntrớu puai hái .
+58001005	aléq		Tỡ bữn ranễng aléq ma Yiang Sursĩ ngin pai neq : “ Mới la Con cứq . Tangái nâi cứq lứq cỡt Mpoaq mới . ” Cớp Yiang Sursĩ tỡ bữn pai tễ ranễng aléq neq : “ Cứq la Mpoaq án . Án la Con cứq . ”
+58001013	~		Yiang Sursĩ tỡ nai atỡng manoaq ranễng án tễ paloōng neq : “ Mới tacu ỡt coah atoam cứq toau toâq tangái léq cứq yỗn alới ca yoc ễ cachĩt mới ỡt pưn talang ayững mới , táq sũl mới . ”
+58001014	noau		Khân ngkíq , máh ranễng Yiang Sursĩ ki la noau ? Ranễng ki la samoât raviei ca táq ranáq yỗn Yiang Sursĩ ; chơ án yỗn ranễng ki pỡq rachuai máh cũai ca yoc ễ roap ṓc chuai amoong .
+58002003	ntrớu		Khân ngkíq , ntrớu Yiang Sursĩ táq chóq hái , khân hái tỡ ễq tamứng parnai ca toâr lứq nâi , la parnai án ễ chuai amoong hái ? Tễ dâu lứq Ncháu hái , Yê‑su Crĩt , atỡng parnai nâi . Vớt ki alới ca tamứng án ễn atỡng loah yỗn hái .
+58002006a	Ntrớu		Ma bữn cũai chĩc tâng parnai Yiang Sursĩ tễ mbṓq neq : “ Ntrớu o anhia hữm cũai , ma anhia chanchớm tễ án ? 
+58002006b	Ntrớu		Ntrớu o anhia hữm án , ma anhia ayooq án ?
+58003016	aléq		Cũai aléq ca tamứng ma tỡ ễq ễ trĩh Yiang Sursĩ ? La nheq tữh alới ca Môi‑se dững aloōh tễ cruang Ễ‑yip‑tỗ tễ mbṓq .
+58003017	aléq		Cớp cũai aléq ca Yiang Sursĩ sâng cutâu nheq pỗn chít cumo ki ? Lứq án sâng cutâu chóq alới ca táq lôih , alới ca cuchĩt nheq tâng ntốq aiq .
+58003018	aléq		Cớp cũai aléq ca án khoiq thễ , tỡ yỗn alới mut tâng ntốq ien khễ án khoiq thrũan ? Lứq alới ca tỡ ễq ễ trĩh án .
+58006004	nṓq		Khân bữn cũai ca táh ngê Yiang Sursĩ , nṓq têq cũai ki ngin loah cớp sa‑âm loah ? Cũai ki la samoât khoiq ỡt tâng poang tê . Alới chim chơ máh ramứh o Yiang Sursĩ chuai . Alới chống tê Raviei Yiang Sursĩ .
+58007011	~		Nhơ tễ tṓng toiq tỗp Lê‑vi , cũai I‑sarễl bữn phễp rit Yiang Sursĩ patâp na Môi‑se . Khân tỗp Lê‑vi tễng rit sang Yiang Sursĩ pĩeiq nheq , ki noau tỡ bữn pai noâng cóq bữn cũai canṓh tễng rit sang Yiang Sursĩ puai tễ chớc Manchi‑sadéc , tỡ bữn puai tễ chớc Arôn , tṓng Lê‑vi .
+58009014	~		Ma khân aham ki têq yỗn cũai cỡt pĩeiq loah yáng moat Yiang Sursĩ , hỡn tễ ki ễn têq aham Yê‑su Crĩt táq yỗn mứt pahỡm anhia cỡt pĩeiq loah . Nhơ tễ Raviei Yiang Sursĩ , manoaq ca tỡ bữn lôih ntrớu tháng , án sang tỗ án bữm yỗn Yiang Sursĩ . Ngkíq têq mứt pahỡm anhia cỡt pĩeiq loah dōq têq táq ranáq Yiang Sursĩ .
+58010001	~		Phễp rit Yiang Sursĩ atỡng na Môi‑se ariang noau sapáh baih sâng , yoc atỡng tễ ṓc o ca toâq nỡ ra . Ma phễp rit ki tỡ bữn bữn ṓc o ki . Ngkíq máh crơng noau chiau sang puai phễp rit ki tỡ têq táq yỗn alới ca yoc ễ toâq pỡ Yiang Sursĩ cỡt ṓq bân tanĩq .
+58010029a	nṓq		Khân lứq ngkíq , nṓq anhia chanchớm pĩeiq noau táq chóq cũai ca tĩn calon Con Yiang Sursĩ ? 
+58010029b	~		Cũai ki chanchớm aham Yê‑su Crĩt tỡ bữn o ntrớu . 
+58010029c	~		Ma lứq aham ki toâp táq yỗn têq Yiang Sursĩ par‑ữq ratoi cớp hái . Cớp cũai ki mumat Raviei Yiang Sursĩ ca chuai miat hái . 
+58010029d	~		Lứq Yiang Sursĩ táq cũai ki ntâng hỡn ễn .
+58011032	nṓq		Ma nṓq têq cứq ngih nheq cũai sa‑âm ki ? Khân cứq ruaih nheq máh ranáq alới táq , lứq tỡ rơi mō . Cứq tỡ loâp atỡng tễ Kê‑dĩen , Barac , Sam‑sôn , Yễp‑thê , Davĩt , Samu‑ễl , cớp máh cũai tang bỗq Yiang Sursĩ .
+58012007	aléq		Khân Yiang Sursĩ manrap anhia , cóq anhia chĩuq ṓc manrap ki , yuaq anhia dáng án ngin anhia la con . Tỡ nai sâng cũai aléq bữn con ma tỡ nai manrap con án .
+58012009	~		Mpoaq hái tâng dỡi nâi , alới dốq manrap hái , cớp hái yám noap alới . Clữi tễ ki ễn cóq hái yám noap Mpoaq hái tâng paloōng , nṓq têq hái bữn tamoong .
+58012025	nṓq		Cóq anhia nhêng samoât , cṓh lơ mứt pahỡm anhia tỡ ễq ễ tamứng parnai án pai cớp anhia . Máh cũai ca tỡ ễq ễ tamứng parnai Yiang Sursĩ patâp na Môi‑se , lứq samoât cũai ki tỡ têq viaq tễ noau táq alới . Khân ngkíq , nṓq têq hái viaq tễ noau táq hái , khân hái ma nguai chíq tễ án ca atỡng tễ paloōng .
+58013006	ntrớu		Yuaq ngkíq hái têq cỡt clṓq lứq pai neq : “ Lứq Yiang Sursĩ toâp chuai cứq . Cứq tỡ bữn ngcṓh ntrớu . Cũai tỡ têq táq ntrớu tháng chóq cứq . ”
+59002006	aléq		Anhia táq yỗn cũai cadĩt cỡt casiet . Ma cứq ễ blớh anhia neq : cũai aléq dốq ễ táq túh coat yỗn anhia , cớp dững anhia toâq pỡ cũai sốt ? Lứq cũai sốc dốq táq ngkíq .
+59002014	ntrớu		Sễm ai ơi ! Khân bữn cũai aléq ma pai án sa‑âm Yê‑su Crĩt , ma cũai ki tỡ bữn táq ranáq o ntrớu , lứq ṓc sa‑âm ki tỡ bữn cỡt kia ntrớu . Khân cũai ki sa‑âm máh ki sâng , lứq Yiang Sursĩ tỡ bữn chuai amoong án .
+59002016a	~		Ma anhia pai sâng chóq alới ki neq : “ Anhia chu ien khễ nơ ! Yiang Sursĩ yỗn anhia bữn dũ tâc khám cha . ” Khân anhia pai ngkíq sâng chóq alới ca ṓq , ma anhia tỡ bữn chuai ntrớu alới , 
+59002016b	ntrớu		ki ṓc sa‑âm anhia tỡ bữn cỡt kia ntrớu .
+59002018	Nṓq		Cṓh lơ bữn noau tễ anhia yoc ễ pai neq : “ Bữn cũai ca sa‑âm sâng , cớp bữn cũai canṓh ca chuai yớu sâng . ” Ma têq ta‑ỡi cũai ki neq : “ Nṓq têq anhia apáh yỗn cứq dáng anhia sa‑âm Yê‑su chơ , khân anhia tỡ bữn táq ranáq ntrớu chuai yớu ? Ma cứq ễ apáh yỗn anhia dáng cứq sa‑âm Yê‑su samoât samơi , la cỗ nhơ tễ ranáq cứq táq chuai yớu . ”
+59002021	~		Anhia sanhữ tễ A‑praham , achúc achiac hái . Án la cũai tanoang o yáng moat Yiang Sursĩ , yuaq án trĩh parnai Yiang Sursĩ . Yiang Sursĩ patâp án yỗn kiac chiau sang chíq I‑sac , con án , tâng prông Yiang Sursĩ . Cớp A‑praham trĩh ṓc ki .
+59003013	~		Bữn ma tỡ bữn cũai tễ tỗp anhia ca lứq rangoaiq cớp khễuq ? Khân bữn , cóq cũai ki ỡt khũn phễp cớp táq ranáq o níc , ma cóq án chỗi táq ễq noau khễn án . Ngkíq cũai canṓh dáng án lứq rangoaiq .
+59003017	~		Ma khân Yiang Sursĩ yỗn hái bữn ṓc rangoaiq tễ án , nhũang lứq mứt pahỡm hái tỡ ễq táq ranáq sâuq . Ntun ễn , hái tỡ bữn ralỗih cớp yớu . Hái bữn mứt khũn . Hái ĩt mứt pahỡm yớu . Hái sâng ayooq táq cũai canṓh . Hái táq níc ranáq o . Hái tỡ bữn bữn bar mứt . Cớp hái tỡ bữn táq ntỡng lauq .
+59004001a	nṓq		Yuaq nṓq bữn manoaq ralỗih cớp manoaq , manoaq táq ma‌noaq tâng tỗp anhia ? Bữn cũai táq ngkíq yuaq anhia dốq ham sa‑ữi ramứh tâng mứt . Mứt anhia cỡt alia bar ploah .
+59004001b	~		
+59004012	~		Ống manoaq Yiang Sursĩ toâp tễng phễp rit cớp têq tếq cũai . Yiang Sursĩ têq chuai amoong cũai , tỡ la cachĩt cũai . Ma anhia tỡ bữn bữn chớc têq tếq yớu .
+59004014	ntrớu		Ma lứq samoât anhia tỡ dáng ṓc ntrớu toâq tangái parnỡ . Rangứh tamoong anhia la samoât ntrớu ? Lứq rangứh tamoong anhia la samoât talúc . Talúc ki toâq , ma án ỡt mahỗi sâng . Chơ án taiq .
+60002020	ntrớu		Khân anhia chĩuq tanhĩr noau táq anhia cỗ tian táq lôih , ki ṓc chĩuq ki Yiang Sursĩ tỡ bữn khễn ntrớu . Ma khân anhia chĩuq tanhĩr noau táq anhia ma anhia tỡ bữn táq lôih ntrớu , ki ṓc chĩuq ki lứq bữn kia yáng moat Yiang Sursĩ .
+60003013	aléq		Khân anhia ma déc pa déc yoc ễ táq ranáq o , ki tỡ bữn cũai aléq ma têq táq anhia .
+60004017	nṓq		Cheq toâq ngư chơ Yiang Sursĩ rablớh loah nheq tữh cũai . Khân hái ma án blớh nhũang , nṓq án blớh alới ca ntun ễn , alới ca tỡ bữn trĩh tháng parnai o tễ Yiang Sursĩ .
+60004018	nṓq		Yuaq tâm saráq Yiang Sursĩ tễ mbṓq khoiq pai neq : “ Khân cũai tanoang o ma sâng coat toâq tangái yỗn tamoong mantái , ki nṓq ễn cỡt yỗn cũai loâi cớp tỡ ễq trĩh Yiang Sursĩ ? ”
+61003004	Nléq		Alới pai neq : “ Yê‑su nâi , án pruam toâq loah . Nléq anhia hữm án toâq loah ? Tễ tangái án pruam ngkíq , sa‑ữi cũai cuchĩt chơ ma tỡ hữm ntrớu yũah . Tễ tangái Yiang Sursĩ tễng paloōng cutễq la patoat ki níc . ”
+61003011	ntrớu		Khân anhia dáng chơ máh ramứh tâng dỡi nâi cỡt ralốh nheq , chơ ranáq ntrớu anhia chanchớm o yỗn anhia táq ? Cóq anhia chiau loah tỗ anhia yỗn Yiang Sursĩ , chơ táq ranáq án sâng .
+62002022	aléq		Lứq samoât cũai aléq ca pai Yê‑su tỡ bữn lứq Crĩt , cũai ki la cũai lauq . Cớp án yoc ễ pupứt chíq ngê Yê‑su . Cũai ki calỡih chíq Yiang Sursĩ cớp Con Yiang Sursĩ hỡ .
+62003012	nṓq		Hái chỗi táq ariang Ca‑in . Án tũoiq yiang Satan , cớp án cachĩt chíq a‑ễm án . Yuaq nṓq án cachĩt chíq a‑ễm án ? Cỗ Ca‑in táq ranáq sâuq ma a‑ễm án táq ranáq tanoang o .
+62003017	aléq		Khân cũai aléq ma dũ tâc khám cha , chơ hữm sễm ai án ṓq , ma án tỡ bữn sâng sarũiq táq , cũai ki tỡ têq pai án bữn mứt pahỡm ayooq tễ Yiang Sursĩ .
+62004020	nṓq		Khân bữn cũai pai neq : “ Cứq ayooq Yiang Sursĩ , ” ma cũai ki kêt sễm ai án , cũai ki táq ntỡng lauq sâng . Khân cũai ki tỡ bữn ayooq sễm ai ca ỡt níc cớp án , nṓq têq án ayooq Yiang Sursĩ ca án tỡ nai hữm loâng ?
+62005005	aléq		Cũai aléq têq rachíl riap máh ngê tâng dỡi nâi ? Lứq samoât máh cũai ca sa‑âm Yê‑su la Con Yiang Sursĩ , alới ki riap rachíl máh ngê tâng dỡi nâi .
+66005002	Noau		Cứq hữm tê muoi ranễng Yiang Sursĩ , án ca bán rêng lứq . Án blớh casang lứq neq : “ Noau bữn chớc pĩeiq cadṓh tếc tarang nâi , chơ pớh chíq pơ saráq nâi ? ”
+66006010a	maléq		Alới arô casang lứq neq : “ Ơ Ncháu hếq ơi ! Anhia la lứq bráh o cớp anhia táq pĩeiq níc ! Maléq dũn noâng anhia acoan toau toâq anhia rablớh cũai ỡt tâng cutễq ? 
+66006010b	maléq		Cớp maléq dũn noâng anhia carláh dỡq chóq alới ca khoiq cachĩt hếq ? ”
+66006017	noau		yuaq khoiq toâq chơ tangái alới carláh dỡq . Tỡ bữn noau têq viaq vớt tễ atĩ alới ! ”
+66007013a	ntrớu		Chơ bữn manoaq tễ tỗp cũai thâu ki blớh cứq neq : “ Cũai ntrớu alới ca sớp au tuar cloc ki ? 
+66007013b	léq		Cớp tễ léq alới toâq ? ”
+66013004a	noau		Dũ náq cũai sang ngưoc tuang ki , yuaq án yỗn charán pla bữn sốt machớng án tê . Cớp alới sang charán pla ki tê . Alới blớh neq : “ Bữn noau toâr machớng charán pla nâi ? 
+66013004b	noau		Cớp noau têq rachíl cớp charán nâi ? ”
+66015004a	noau		Ơ Ncháu ơi ! Tỡ bữn noau ca tỡ bữn ngcṓh anhia . 
+66015004b	noau		Cớp tỡ bữn noau ca tỡ bữn khễn anhia . Ống anhia toâp ca tỡ bữn lôih ntrớu . Nỡ ra dũ cruang cũai lứq toâq sang yáng moat anhia , yuaq alới bữn hữm ranáq anhia táq la tanoang o níc . ”
+66017007	Nṓq		Ma ranễng Yiang Sursĩ blớh cứq neq : “ Nṓq mới sâng dớt ngkíq ? Sanua cứq aloōh yỗn mới dáng tễ ngê cutooq tễ mansễm nâi cớp tễ charán pla ca radững án , charán ca bữn tapul lám plỡ cớp muoi chít lám tacoi .
+66018018	~		Cớp toâq alới hữm phĩac chỗn tễ vil ki , alới pai casang lứq neq : “ Tễ hỗi rái toau sanua , tỡ nai bữn vil canṓh la ariang vil toâr nâi ! ”

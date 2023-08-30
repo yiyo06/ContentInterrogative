@@ -1,0 +1,743 @@
+40002002	maipitak		Chipika tapunakurka : — Judiukunapa atun mandag ña tiagsamuska , ¿ maipitak ka ? Istrilla pai tiagsamuska kawachigtami indi llugsidirupi kawarkanchi . Chimandami samurkanchi , paita kunguringapa .
+40002004	maipitak		Herodeska , tukui iaia sasirdutikunata i Moisés ima niskata iachachig taitakunata kaiaspa , tapurkakunata : — Cristo , ¿ maipitak tiagsamungapa willaraiá ?
+40003007	Pitak		Achka fariseo i saduseo suti taitakunapas , Juanpagma chaiagrirkakuna baugtisaringapa . Chikunata kawaspaka , paika nirka : — Mana alli runakuna , kulibrasinami kangichi . ¿ Pitak kamkunata willagrirka : “ Taita Dius iapa rabiarispa llakii puncha , ñami chaiamuku . Mitikuichi , kispiriska kangapa ” ?
+40005013	~		— Kamkuna , kai alpapi kaugsanakuskamanda kachisinami kangichi , tukuikuna mas sumaglla kaugsanakungapa . Kachi wagllirigpika , mana pudiringachu kachiachingapa . Ñi imapapas mana balingapa kanchu . Chasataka , sitaimi chaiá , pipas saruspa ialingapa .
+40005046	imatak		— Kasapas . Kam kikinpuralla kuianakuspa kagpika , kamkunata , ¿ imatak Taita Dius karangapa suianakungichi ? Maikan mana suma ruragpurapas kuianakuspami kaugsankuna .
+40005047	imapitak		Kamkunapa waugkindipuralla “ Puangi ” ninakugpika , ¿ imapitak allilla ruranakungichi ? Chasami Taita Diusta manara rigsigkunapas , kikinpura kaugsanakú .
+40006027	Pikunatak		— ¿ Pikunatak , maituku iuiarispapas , sug palmullapas awa wiñai pudingapa kangichi ? Ñi pipas manima .
+40006028	Imapatak		¿ Imapatak iapa iuiarinakungichi : “ ¿ Ima katangatak churarisunchi ? ” ? Kawaichi imasa liriu tugtukuna chagrapi suma wiñariskakunata . Iuiariichi : paikuna mana puchkaspa awankunachu . Ñi ima mana rurankunachu .
+40006031a	imatak		— Chimanda , mana iapa iuiarinakungichi : “ ¿ Imatak mikusunchi ? 
+40006031b	imatak		¿ Imatak upiasunchi ? 
+40006031c	ima		¿ Ima katangatak churarisunchi ? ” .
+40007003	imapatak		— Nigpika , ¿ imapatak sugpa ñawipi juituriska ugsata kawakungi ; ikuti kam kikinpa ñawipi sug atun ugsa juituriska iukaskataka mana kawaringi ?
+40007004	imasatak		Chasallata , kam kikinpa ñawipi chi atun juituriska iukaspaka , ¿ imasatak sugta ninkangi : “ Ñawipi juituriska ugsata anchuchisaki ” ?
+40007009	~		— Sug wambra , paipa taitata tanda mañakugpika , ¿ rumichu karantra ?
+40007016a	~		Imasami kawangichi sachakuna , miski muiu u winja muiu tiarigta : chasallatami paikunata ima ruraskata kawaspaka , rigsinkangichi . Ispinaiug sachakunapi , mana ubas muiu tandachirinchu . 
+40007016b	~		Chini sachakunapi , mana igus pallarinchu .
+40008026	Imapatak		Jesuska , rigcharispa , ainirkakunata : — ¿ Imapatak chituku mancharingichi ? Kamkuna , maillami nukamanda iuiawaspa kangichi . Chasa nispaka , atarispa , wairata i iakuta piñarka . Chasa piñauraka , tukui allillami kasillaiagsamurka .
+40008027	ima		Katiraiagkuna , ujnarispami paipura tapurinakurka : — ¿ Ima runasik ka ? Waira i iakupas , paita uiankuna .
+40008029	imapatak		Chi runakunaka , Jesusta kawaspa , kaparispa nirkakuna : — Ai , kam Diuspa wambra , ¿ imapatak nukanchi kaskama samukungi ? ¿ Samukungichu , sinchi nanachii puncha manara chaiagpipas , nukanchita llakichingapa ?
+40009004	Imapatak		Jesuska , chasa iuianakuskata iachaspa , nirkakunata : — ¿ Imapatak sungullapi mana suma iuianakungichi ?
+40009005	Maikantak		¿ Maikantak mas alli ka : ningapa : “ Kam pandariikunata ñami pasinsiaska kangi ” ? Mana kagpika , ¿ ningapa : “ Atarii , kamba wasima riilla ; ña ambiriskami kangi ” ?
+40009011	imapatak		Chasa kawaspaka , fariseokuna chi katiraiagkunata tapurkakuna : — Kamkunata iachachig , ¿ imapatak mana judíu kagkunamanda kulki chaskig i mana allilla ruragkunawa sugllapi mikuku ?
+40009014	imawantak		Chiura Juan Bautistawa purigkuna , kaillaiaspa , Jesusta tapurkakuna : — Kamta katiraiagkuna , ¿ imawantak imaurapas mikuspalla kankuna ? Ikuti nukanchika fariseokunapas , achka punchakuna mana mikuspallami chisianchi .
+40009015	~		Chiura , Jesuska ainirkakunata : — Kasaraipi , kusa tukunga kunbidaskakunawa kankama , ¿ irkiaspa llakiiwa mana mikuspallachu kangakuna ? Manima . Imaura chaiachu , kusa anchuchii tukungapa : chiurami paikunata chaianga , mana mikuspalla kangapa .
+40010025	~		Iachaikugkunata iachachigtasina suma kawagpikuna , allillami kantra . Chasallata , lutrinkunata kikinpatasina suma kawagpikuna , allillami kantra . Nukataka wasi duiñusinatami kamiwankuna , kasa nispa : “ Beelzebú suti iaia kukuwami kangi ” . Chasa nukata kamiwagpika , maschar nuka ima niskata ruragkunata kamipuangakuna .
+40011007	imatak		Juan kachaskakuna ikuti paipagmallatata kutinakuura , Jesuska chipi kagkunata Juanmanda nirka : — Kamkuna , chusa sitaska alpapi Juan kaskama chaiagrispaka , ¿ imatak kawagrirkangichi ? ¿ Sug wiru wairawa pakichingasina kuiuchikuskatasinachu kawagrirkangichi ?
+40011008	imatak		Mana kagpika , ¿ imatak kawagrirkangichi ? ¿ Sug runa iapa suma musu katanga churariskatachu tarigrirkangichi ? Manima . Chasa suma churarigkuna , mandagkunapa wasikunallapimi kaugsankuna .
+40011009	imatak		Chasa kagpika , ¿ imatak kawagrirkangichi ? ¿ Santu Ispirituwa rimagtachu tarigrirkangichi ? Ari , niikichitami : Santu Ispirituwa ñugpamanda rimagkunamandapas , Juan mas atunmi ka .
+40011016	imasa		— Kai punchakuna kaugsanakuska runakunata , ¿ imasa kagtatak nisa ? Sug wambrakuna kallipi tiarispa pugllanakugsinami kankuna .
+40012011	~		— Kamkunapa ubija sanjapi urmagpika , ¿ manachu warda puncha kagpipas surkuntrangichi ?
+40012026	~		Chasallata iaia kukuwa kagkuna iaia kukuwa kagkunata llugsichigpikunaka , kikinpura piñachirinakugsinami niraiantra . Chasa piñachirinakugpika , ¿ manachu paipura mandai , chiuralla puchukarintra ?
+40012027	pipa		— Beelzebupa iachaiwa nuka kuku wairakunata llugsichikugpika , kampurakunaka , ¿ pipa iachaiwatak llugsichinkuna ? Pai kikinkunami kawachingapa kankuna , imasa kamkuna mana allilla nukamanda iuiarispa ninakugta .
+40012029	~		— Maikanpas sug wapu runapa wasima iaikuspa , ima iukaskata kichungapa munaspa , iukanmi ñugpa paita watanga . Mana kagpika , manima kichungapa pudingapa kanchu .
+40012034	imasatak		Kamkunaka , kulibrakunasinami mana alli runakuna kangichi . Kam kikinkuna mana alli iuiaikuna iukaspa , ¿ imasatak alli rimaita iukankangichi ? Iuiaipi imasa iuianakuskasinami simipi rimachigsamú .
+40012048a	pital		Paika , chi runata ainirka : — ¿ Pitak nukapa mama niraiá ? 
+40012048b	Pikunatak		¿ Pikunatak niraiankuna nukapa waugkikuna ?
+40013010	Imapatak		Chasa uiaspaka katiraiagkuna , Jesuspagma kaillaiaspa , tapurkakuna : — ¿ Imapatak chasa parlukunallawa runakunata rimangi ?
+40013027	Maimandasik		Chasa kawaspaka piunkuna , chagraiugpagma rispa , tapugrirkakuna : “ Taita waugki , ¿ manachu kam , alli similla tarpurkangi ? ¿ Maimandasik mana alli ugsa llugsirirka ? ” .
+40013054a	imawasik		Paipagma chaiagrispaka , tandaridiru wasima iaikuspa , iachachii kallarirka . Paita uiaspa , iapa ujnarispa , kasa kikinpura tapurinakurka : — Kai runa , ¿ imawasik chituku suma iachaiwa tukurka ? 
+40013054b	Imawasik		¿ Imawasik chituku mana imaurapas kawaskasina rurai pudí ?
+40013056	Maipisik		¿ Manachu tukui paipa panindikunapas , nukanchiwa kankuna ? ¿ Maipisik chituku iachaikugrirka ? — .
+40014031	imapatak		Kaparigllapi Jesuska , maki suniaspa , Pedrota apispa , kasami nirka : — Kam , ¿ imapatak nukamanda mana mas suma allilla iuiaringi ?
+40015002	imapatak		— Kamta katiraiagkuna , ¿ imapatak ñugpamandakuna imasa iachachiskasina mana ruraspa kaugsanakú ? Mana maki maillarispallami mikunakú .
+40015003	imapatak		Jesuska nirkakunata : — Kamkunaka , ¿ imapatak Taita Dius ima niskata mana rurangichi ? Ñugpamandakuna iachachiskallata ruraspami kaugsanakungichi .
+40015033	maipitak		Katiraiagkuna ainirkakuna : — Kai maikan runapas mana kaugsanakuskapi , ¿ maipitak chituku achka tanda randisunchi , kai tukui runakunata karangapa ?
+40015034	Maituku		Jesuska tapurkakunata : — ¿ Maituku tandatak tiapungichita ? Chiura ainirkakuna : — Kanchis tandallami tia , sug uchulla chalwakunapas .
+40016008	Imapatak		Chi rimanakuskata uiaspa , Jesuska nirka : — ¿ Imapatak ninakungichi : “ Tanda mana apamuskamandami chasa nukanchita niku ” ? Nukamandaka , ¿ imapatak mana mas suma allilla iuiaringichi ?
+40016009	maituku		¿ Imawantak , uiawaspapas , kamkunapa umapika manara iaikú ? Nuka pichka tandata pitichiuraka , pichka waranga runakuna mikurkakuna ; chi puchuskakunataka , ¿ manachu iuiaringichi , maituku saparu junda tandachigtakuna ?
+40016010a	~		Chasallata , nuka kanchis tandata pitichiuraka , chusku waranga runakuna mikurkakuna ; chi puchuskakunataka , ¿ manachu iuiaringichi , 
+40016010b	maituku		maituku saparu junda tandachigtakuna ?
+40016011	Imapatak		¿ Imapatak mana iuiaringichi , nukaka tandamandalla mana kamkunata rimakugta ? Fariseokunapa i saduseokunapa libadurasina iuiaita , ¡ ujalallapas iuiangichi !
+40016013	pitak		Jesús , Filipopa Sesarea suti alpama chaiagrispaka , paita katiraiagkunata tapurka : — Runakunaka kai Runa Tukuskamanda , ¿ pitak kagta ninkuna ?
+40016015a	~		Chiura , Jesús tapurkakunata : — Kamkunaka nukamanda , 
+40016015b	pi		¿ pi kagtatak niwangichi ?
+40016026a	~		— Sug runa , tukui kai alpapi ima munaska iukagpipas , paipa almata mana kispichigpika , chi iukaskakuna , ñi imapa mana balipungapa kanchu . Chi runaka , paipa almata chingachispaka , 
+40016026b	imawatak		¿ imawatak pudingapa ka , ikuti taringapa ? Ñi imawapas manima .
+40017010	imapatak		Chiura katiraiagkuna , paita tapurkakuna : — Nigpi , ¿ imapatak Moisés ima niskata iachachig taitakuna ninkuna : “ Eliastami chaiaku , Taita Dius agllaska Cristopa ñugpa samungapa ” ?
+40017017a	Imaurakamatak		Jesuska ainirka : — ¡ Ai , kam mana alli runakuna , Taita Diuswa ñi ima mana iuiagkunami kangichi ! ¿ Imaurakamatak kamkunata chasa charinakusakichita ? — . Chasa nispaka — Chi ungugta kaima pusamuichi — nirka .
+40017017b	~		
+40017019	Imawantak		Paita katiraiagkuna , chasa kawaspaka , Jesús sapalla kaskapi kaillaiaspa , tapurkakuna : — ¿ Imawantak nukanchika mana pudirkanchi , chi kuku wairata llugsichingapa ?
+40017025a	imatak		Pedro wasi ukuma iaikugrispa , manara imapas rimagpi , Jesuska paita tapurka : — Kai alpapi mandagkuna , ¿ pikunatatak impuistu chaskinkuna : kikinpa wambrakunata u sugkunata ? Kam , ¿ imatak ainiwangi ?
+40017025b	pikunatatak		
+40018001	pitak		Chasa kagllapi , Jesusta katiraiagkunaka , kaillaiaspa , tapurkakuna : — Suma luarpi , Taita Dius mandakuskapi , ¿ pitak mas atun taita tukuska kangapa ka ?
+40018012	Imatak		— ¿ Imatak iuiangichi ? Maikan runapas , patsa ubija iukaspa , sug ubija chingapugpika , ¿ manachu iskun chunga iskunta sakispa , maskai kallarintra , chi ubijata tarinkama ? Ari .
+40018021	maituku		Chiura Pedro , kaillaiaspa , Jesusta tapurka : — Taita waugki , maikanpas nukata mana allilla rurawagpika , ¿ maituku biajitak chaiawaku , paita pasinsiangapa ? ¿ Kanchis biajikamachu pasinsiangapa chaiawangapa ka ?
+40019007	imapatak		Paikunaka tapurkakuna : — Nigpika , ¿ imapatak Moisés sakirka , kusa , sug iskribiska warmita kuaspaka , ña paitaka sitaska niraiangapa ?
+40019016	ima		Sug musu , Jesuspagma kaillaiagrispa , tapurka : — Iachachig taita , ¿ ima alli ruraiwatak iukani ruranga , mana puchukaridiru suma kaugsaita taringapa ?
+40019017	Imapatak		Jesuska ainirka : — ¿ Imapatak alli ruraimanda tapuwakungi ? Taita Diusllami alli ka . Chi kaugsaita iukangapa munaspaka , Moisés ima niskata allilla ruraspa kaugsangi .
+40019018	Maikankuna		Chi musuka ikuti tapurka : — ¿ Maikankuna ? Chiura , Jesuska ainirka : — Mana wañuchingi . Mana sugpa warmiwa siriringi . Mana sisangi . Mana pimandapas llullangi .
+40019020	imatak		Chasa uiaspa , chi musu nirka : — Tukui chi niskata chasa ruraspami kaugsani . Niwai : ¿ imatak pisiwaku ?
+40019025	pisik		Chasa uiaspaka katiraiagkuna , iapa ujnarispa , kasa tapurkakuna : — Nigpika , ¿ pisik kispiringapa pudinga ?
+40019027	imatak		Chiura , Pedroka nirka : — Uiamui . Nukanchi , tukui ima iukaskata sakispami kamta katiraianchi . Nigpika , ¿ imatak nukanchimanda tiangapa ka ?
+40020006	Imapatak		Ña indi chingakuurapas , ikuti kallima rispa , sugkuna saianakuskatasi tarigrirka . Chikunatasi tapurka : “ ¿ Imapatak chisiagta ianga saianakungichi ? ” .
+40020012	Imapatak		“ Kati chaiamugkuna , sug urallami pallarkakuna . Nukanchikar , indi iapa ruparikuskapimi chisiarkanchi . ¿ Imapatak paikuna chaskiskasinallatata nukanchita pagachirkangi ? ” .
+40020021	Imatak		Chiura , Jesús tapurka : — ¿ Imatak munakungi ? Chasa uiaspa , chi warmika ainirka : — Kam mandangapa tiarispa chaiaura , kai nukapa iskandi wambrakunata tiarichipuangi : sugtaka , kamba alli ladu ; sugtaka , kamba lluki ladu .
+40020032	Imatak		Chasa uiaspa Jesuska , saiarispa , chi runakunata kaiaspa , tapurka : — ¿ Imatak munanakungichi , nuka kamkunata rurangapa ?
+40021010	pisik		Jesús chasa Jerusalenma chaiagriuraka , chipi kaugsagkuna , iapa achka runakuna katiraiagkunata kawaspa , mancharispa tapunakurka : — Chi runa , ¿ pisik ka ?
+40021016	~		Jesusta tapurkakuna : — Kaikuna ima kammanda kaparinakugta , ¿ manachu uiakungi ? Chiura , Jesuska ainirka : — Ari . ¿ Manachu ñugpamanda librupi kawarkangichi kasa willaraiagta ? Uchulla wawakunata chuchug wawakunawantami iachachirkangi , “ Tukuipi iapa suma atunmi kangi ” ningapa .
+40021020	Imawasik		Chasa kawaspaka , katiraiagkuna iapa ujnarirkakuna , kasa tapuspa : — ¿ Imawasik chi sacha , chasa nigllapi chakirirka ?
+40021023a	imapatak		Chimandaka Jesús , Diuspa atun wasi ukuma ikuti iaikugrirka . Chipi iachachikuuraka , iaia sasirdutikuna i sug taitakunapas paipagma kaillaiarkakuna , kasa tapungapa : — ¿ Imapatak chasa ruraspa purikungi ? 
+40021023b	pitak		¿ Pitak kamta kachamurka , atun tukuspa purikungapa ?
+40021025a	pitak		¿ Pitak Juanta kacharka , baugtisangapa ? ¿ Taita Diuschu kachamurka ? Mana kagpika , ¿ runakunallachu kacharka ? Chiuraka , kikinpura rimarinakurka , kasa iuiarispa : — “ Taita Dius kachamuskami karka ” nigpika , paika ainingami : 
+40021025b	~		“ Nigpika , 
+40021025c	imapatak		¿ imapatak mana paita uiarkangichi ? ” .
+40021028	Imasatak		Kasapasmi Jesús nirkakunata : — ¿ Imasatak kai parlu , kamkunata uiarintra ? Sug runa , iskai wambrakunasi iukarka . Chi runaka , atun wambrata kaiaspa , nirkasi : “ Rii chagrama . Ubas pallagrii ” .
+40021031	maikantak		Chasa parlaspaka , Jesús tapurkakunata : — Chi iskandikuna , ¿ maikantak taita imasa munakuskasina allilla rurarka ? — Atun wambra — ainirkakuna . Chasa ainiura , Jesuska nirkakunata : — Kasami nuka niikichita : mana judíu kaskakunamanda kulki chaskigkuna i karisapa warmikuna , kamkunapa ñugpami suma luarma iaikugringapa kankuna .
+40021040	imatak		Chasa parlaspaka , Jesús tapurka : — Nigpi chi duiñuka , ¿ imatak chi runakunata ruragsamunga ?
+40022012	imapatak		Paita kawaspaka , nirka : “ Kam waugki , ¿ imapatak nuka katanga mañachiskata mana churarispalla iaikurkangi ? ” . — Chi runa , ñi ima mana ainirka .
+40022017	imatak		Chimandami tapugsamunchi : kam , ¿ imatak ningi ? ¿ Allillachu ka , Romamanda iaia mandagta nukanchi impuistu kuangapa ? ¿ Pagasunchichu u mana ?
+40022018	imapatak		Jesuska iacharka , mana allilla iuiaiwa chasa tapunakugta . Nispaka , nirkakunata : — Kamkuna sungu awalla iuiagkuna , ¿ imapatak munanakungichi pandachiwangapa ?
+40022020a	pipa		Chita kawaspa , Jesuska tapurkakunata : — Kai kulkipi , ¿ pipa ñawitak kawariku ? 
+40022020b	pimandatak		¿ Pimandatak willaska niraiá ?
+40022028	pipatak		Nigpika , wañuskakuna kaugsariuraka , ¿ pipatak chi warmika kanga , tukui chi kanchis waugkindikunawa kasadu kaspa ?
+40022036	maikantak		— Iachachig taita , tukui mandaikunamanda , ¿ maikantak mas atun ka ?
+40022042a	imasatak		— Taita Dius agllaska Cristomanda , ¿ imasatak kamkuna iuianakungichi ? 
+40022042b	pipa		¿ Pipa wambrapa kati wambratak ka ? Chiura ainirkakuna : — Davidpa wambrapa kati wambra .
+40022043	imapatak		Chiura , Jesuska nirkakunata : — Chasa kagpika , ¿ imapatak kikin Davidka , Santu Ispirituwa kaspa , Cristomanda nirka : “ Nukapa iaia ” ? Kasa willaraiaskapimi David nirka :
+40022045	imawantak		Chasami David kikin , Cristomanda nirka : “ Nukapa iaia ” . Nigpika , ¿ imawantak Cristo , paipa wambrapa kati wambra kanga ?
+40023017	Maikantak		¡ Mana ñawiiug upakunasinami kangichi ! ¿ Maikantak mas bali niraiá : kuri u Diuspa atun wasi ? Chi wasi ukupi tiaskamandami chi kuri Diuspalla tukugsamuska niraiá .
+40023019	Maikantak		¡ Mana ñawiiugkunasinami kangichi ! ¿ Maikantak mas bali niraiá : kamariku u altar ? Altarpi churaskamandami Taita Diusta kawachiska kamariku niraiá .
+40023033	Imasatak		— ¡ Kulibrakunasina , mana alli runakunami kangichi ! ¿ Imasatak kispiringapa kangichi , diltudupa ninama sitai tukungapa ?
+40024003a	imauratak		Olivos lumapi chaiagrispa tiarigriuraka , Jesusta katiraiagkunalla , kaillaiaspa , tapurkakuna : — Nukanchita willai : ¿ imauratak chasa pasaringa ? Kam ikuti samungapa puncha i kai alpa puchukaringapa puncha chaiangapa kaura , 
+40024003b	imawatak		¿ imawatak chi pasaringapa kaskata kawachinkangi ?
+40024045	~		— Maikan tukuipi alli rurag piun kagtami paipa patrun sakirka , ima wasipi kawapungapa , sug piunkunata mikui karaspa , pai kikin chaiamunkama .
+40025037	imauratak		— Chiura , chi allilla ruraspa kagkuna tapungapami kankuna : “ Taitiku , ¿ imauratak , kam iarkaiwa kaskata kawaspa , mikui kararkanchi ? ¿ Imauratak , kam iakunaiwa kaskata kawaspa , upiangapa kararkanchi ?
+40025038	Imauratak		¿ Imauratak , kam ñambipi ialispa purikuskata kawaspa , kaiarkanchi ? ¿ Imauratak , kam mana katangawa kaskata kawaspa , churachirkanchi ?
+40025039	Imauratak		¿ Imauratak kam ungug u karsilpi kaskata chaiangapa rirkanchi ? ” .
+40025044	imauratak		— Chiura tapungapami kankuna : “ Taitiku , ¿ imauratak kam iarkaiwa u iakunaiwa kaskata , ñambipi purikuskata u mana katangawa u ungug u karsilpi kaskata kawaspapas , mana ñi imapas rurarkanchi ? ” .
+40026008	Imapatak		Paita katiraiagkuna , chasa kawaspaka , rabiarispa , kasami kikinpura ninakurka : — ¿ Imapatak ianga tallí ?
+40026010	Imapatak		Jesuska , chasa uiaspa , nirkakunata : — ¿ Imapatak kai warmita ninakungichi , mana allilla ruragta ? Paika allillami rurawarka .
+40026015	maituku		tapurkakunata : — Nuka kamkunata Jesusta apichigpika , ¿ maituku kulkitak karawantrangichi ? Chiura , paikuna ainirkakuna : — Kimsa chunga kulkimi kamta karasunchi .
+40026017	maipitak		Tanda mana libadurawa mikudiru atun punchakuna kallariura , chi punchaka Jesusta katiraiagkuna , kaillaiaspa , tapurkakuna : — Paskua punchapa mikui kam mikungapa , ¿ maipitak munangi , nukanchi allichigringapa ?
+40026040	~		Chasa nispa , chi kimsandikunapagma kutispaka , puñunakuskata tarigrispa , Pedrota nirka : — ¿ Manachu ñi sug ratullapas nukawa rigcharaiangapa pudirkangichi ?
+40026050	imapatak		Jesuska nirka : — Waugki , ¿ imapatak samukungi ? Chiuralla , kaillaiaspa , Jesusta apirkakuna .
+40026054	imasatak		Chasa tukugpika , ¿ imasatak ima nukamanda willaraiaskasina allilla tukunga ?
+40026062a	~		Chasa uiaspaka , iaia sasirduti , saiarispa , Jesusta tapuchirka : — Kammanda mana allilla rimanakuskataka , 
+40026062b	imapatak		¿ imapatak mana ainingi ?
+40026065	Imapatak		Chasa uiaspaka , chi iaia sasirdutika , iapa rabiarispa , kikinpa katangata llikichirirka , kasa nispa : — Kikin Taita Diussina tukuspami willariku . ¿ Imapatak sugkunata suianakusunchi , paimanda imapas willangapa ? Ñami nukanchi kikin uiarkanchi , imasa Taita Diussina tukuspa willarigta .
+40026066	imatak		Kamkuna , ¿ imatak ningichi ? Chiura chi taitakuna , Jesusmanda ainirkakuna : — Paita wañuchiimi chaiá .
+40026068	pitak		ninakurka : — Kam Taita Dius agllaska Cristo kaspaka , willamui : ¿ pitak kamta piarka ?
+40027004	imatak		kasa nispa : — Nukaka , kunaurami iuiariwarka , mana allilla ruragta . Ñi ima pandariipas mana ruraska runatami wañuchingapa apichirkani . Paikunaka nirkakuna : — Nukanchitaka , ¿ imatak ninkangi ? Chika , kam kikinllami iachankangi .
+40027013	~		Chimanda Pilatoska , paita tapurka : — ¿ Manachu uiakungi , kam achka mana allilla ruraskakunata willanakugpipas ?
+40027017	Maikantatak		Tukui runakuna tandariska kaura , Pilatos tapurkakunata : — ¿ Maikantatak kamkuna munanakungichi , nuka kacharingapa : [ Jesús ] Barrabasta u Cristo suti Jesusta ? — .
+40027021	maikantatak		Ikuti Pilatoska tapurkakunata : — Chi iskai runakunataka , ¿ maikantatak kamkuna munanakungichi , nuka kacharingapa ? Chiura , tukui chipi kagkuna kaparirkakuna : — Barrabasta .
+40027022	imatak		Chasa uiaspaka , Pilatos tapurkakunata : — Nigpika , ¿ imatak munanakungichi , kai Cristo suti Jesusta nuka rurangapa ? Chiura , tukuikuna kaparirkakuna : — Kruspi churaspa wañuchii .
+40027023a	~		Pilatos tapurkakunata : — Kamkunataka , 
+40027023b	imapitak		¿ imapitak kawarí , mana allilla ruraska kagta ? Paikunaka , mas sinchi kaparispa , ikuti nirkakuna : — Kruspi churaspa wañuchii .
+40027046	imapatak		Chaugpi chisi kaura , Jesuska sinchi kapariiwa kaparirka , kasa nispa : — Elí , Elí , ¿ lema sabaktani ? — . Chi niraianmi : “ Nukapa Dius , nukapa Dius , ¿ imapatak nukata sapalla sakiwangi ? ” .
+41001024	imapatak		— Nazaret puiblumanda Jesús , ¿ imapatak nukanchipagma samurkangi ? Nukanchita puchukangapachar samurkangi . Nuka allillami rigsiiki , kam Taita Diuspa tukuipi mas alli wambra kagta .
+41001027	imasik		Tukui chasa kawagkuna , iapa mancharirkakuna . Kikinpura tapurinakurka : — Chi pasariska , ¿ imasik niraiá ? Kai runaka , musu rimaiwami atun mandagsina suma iachachiku . Kuku wairakunata pai rimaura , ima niskata uiaspa , runamanda anchurinkuna .
+41002007a	imapatak		“ Kai runa , ¿ imapatak Diussina tukuspa , chasa rimaku ? 
+41002007b	~		Ñi pipas mana pudinkunachu , pandariikunata pasinsiangapa . Taita Diusllami pasinsiangapa pudí ” .
+41002008	Imapatak		Jesuska , chasa iuianakuskata iachaspa , nirkakunata : — ¿ Imapatak chasa sungullapi iuianakungichi ?
+41002009	Maikantak		¿ Maikantak mas alli ka : kai runata ningapa : “ Kam pandariikunata ñami pasinsiaska kangi ” ? Mana kagpika , ¿ ningapa : “ Atarii ; chakanata markarispa , kamba wasima riilla ; ña ambiriskami kangi ” ?
+41002016	imapatak		Jesús chi runakunawa mikunakuskata kawaspaka , Moisés ima niskata iachachig taitakuna i fariseokuna paipa katiraiagkunata tapurkakuna : — Kamkunata iachachig , ¿ imapatak mana judíu kaskakunamanda kulki chaskig i mana allilla ruragkunawa sugllapi mikuku ?
+41002018	imawantak		Juan Bautistawa i fariseokunawa purigkuna iukarkakuna , sug punchakuna mana mikuspalla chisianga . Chimanda sug runakuna , Jesusta tapugrirkakuna : — Kamta katiraiagkuna , ¿ imawantak imaurapas mikuspalla kankuna ? Ikuti Juanwa i fariseokunawa purigkunaka , achka punchakuna mana mikuspallami chisiankuna .
+41002019	~		Chiura , Jesuska ainirkakunata : — Kasaraipi , kusa tukunga kunbidaskakunawa kankama , ¿ mana mikuspallachu kangakuna ? Manima . Imaura kusa tukunga paikunawa kankama , iukankunami sumaglla mikuspa kangakuna .
+41002024	imapatak		Chasa kawaspaka , sug fariseokuna Jesusta tapurkakuna : — Kawamui . Kamta katiraiagkuna , ¿ imapatak warda puncha pandarinakú ?
+41003004	imatak		Chasa nispa , chipi kagkunataka tapurka — Warda puncha , ¿ imatak mas alli ka : allilla u mana allilla rurangapa ; runata kispichingapa , ubi wañuchingapa ? Chiura , upallami tianakurka .
+41003023	Imasatak		Chasa ninakugmanda , Jesuska , paikunata kaiaspa , iuiai apingasina suma parlarka , kasa nispa : — ¿ Imasatak iaia kuku , paipura kaspa , llugsichingapa munanga ?
+41003033a	pikunatak		Paika ainirkakunata : — ¿ Pikunatak nukapa mama , 
+41003033b	~		nukapa waugkikuna niraiankuna ?
+41004013	imasatak		Kasapasmi Jesús nirkakunata : — Chi iuiai apingasina parlaskaka , ¿ kamkunapaschu ima niraiaskata mana iachangichi ? Chasaka , ¿ imasatak kunauramanda sug parlukunata ima niraiaskata iachankangichi ?
+41004030a	imasatak		Kasapasmi Jesús nirka : — Diuspa suma mandai , ¿ imasatak rigchá ? 
+41004030b	ima		¿ Ima parluwatak iachachintraikichita ?
+41004038	~		Jesuska , kati ladu puñukurka , sawinapi uma churaspa . Chiura katiraiagkuna , paita rigchachirkakuna , kasa nispa : — Iachachig taita , ¿ manachu nukanchimanda llakingi , wañungapa kagpipas ?
+41004040a	imapatak		Chiura , Jesuska nirkakunata : — ¿ Imapatak chituku mancharingichi ? 
+41004040b	~		¿ Manarachu nukamanda suma iuiawaspa rigsiwangichi ?
+41004041	imasik		Paikunaka , iapa mancharispami kikinpura tapurinakurka : — Kai runa , ¿ imasik ka ? Waira i iakupas , paita uiankuna .
+41005007	imapatak		Sinchi rimaiwa kaparispa , nirka : — Ai , kam tukuimanda mas atun Taita Diuspa wambra Jesús , ¿ imapatak nuka kaskama samukungi ? Diusmanda purdiusllami mañaiki : mana nukata sungu nanagta llakichiwakugsamui — .
+41005009	imatak		Jesuska , chi runata tapurka : — Kam , ¿ imatak suti kangi ? Chiura ainirka : — Nuka , achka warangakunami suti kani . Iapa achkakunami kanchi .
+41005030	Pitak		Chasa ambirigllapi Jesuska , paipa iachaillawa maikan ambiriskata iuiachirispa , katiraiagkunata tigraspa , tapurka : — ¿ Pitak nukapa katangata llamkawarka ?
+41005031	Pitak		Paiwa iachaikugkunaka nirkakuna : — ¿ Manachu tukuikuna , tanganakuiwanta kamta katiraianakú ? Nigpika , ¿ imapatak tapukungi : “ ¿ Pitak llamkawarka ? ” ?
+41005035	Imapatak		Jesús chara rimakugllapi , chi taitapa wasimanda chaiagrirkakuna , kasa nispa : — Kamba wambra ñami wañurka . ¿ Imapatak chara kai iachachig taitata imapas mañakunkangi ?
+41005039a	Imapatak		Jesuska , ukuma iaikuspa , nirkakunata : — ¿ Imapatak wakaspa killachinakungichi ? Chi wambra mana wañuska kanchu . Puñuillami puñuku .
+41005039b	~		
+41006002a	maipisik		Warda punchaka Jesús , tandaridiru wasima iaikuspa , iapa achkakunata iachachii kallarirka . Paita uiaspa tukuikuna , iapa ujnarispa , kasami kikinpura tapurinakurka : — Kai runa , ¿ maipisik chituku iachaikugrirka ? 
+41006002b	imawasik		¿ Imawasik chituku suma iachaiwa tukurka ? 
+41006002c	imawasik		¿ Imawasik chituku mana imaurapas kawaskasina rurai pudí ?
+41006022	~		Tukui kunbidaskakuna kawaspa tianakunkama , chi warmipa sipas warmi wambra , chi ukupi iaikugrispa , iapa sumasi bailarka . Chasa bailagmanda , mandag Herodesta i paiwa mikunakuskata iapasi sumarka . Chiura paika , sipasta nirka : — Kam ima munaska mañawai ; karasakimi — .
+41006024	Imatak		Chasa uiaspaka chi sipaska , llugsispa , mamandita tapugrirka : — ¿ Imatak mañasa ? Chi warmika ainirka : — Juan Bautistapa umata mañai .
+41006037	~		Jesuska nirkakunata : — Kamkuna , paikunata mikui karaichi . Paikunaka ainirkakuna : — ¿ Iskai patsa puncha ganaska kulkiwa tanda randigrispachu paikunata karasunchi ?
+41006038	maituku		Jesuska nirkakunata : — Kawagriichi : ¿ maituku tandatak tiapungichita ? Kawagrispaka , nigrirkakuna : — Pichka tanda i iskai chalwallami tia .
+41007005	imapatak		Chasa ruradiru kagmandami chi runakuna , Jesusta tapurkakuna : — Kamta katiraiagkuna , ¿ imapatak ñugpamandakuna imasa iachachiskasina mana ruraspa kaugsanakú ? Mana maki maillarispallami mikunakú .
+41008004	imawatak		Katiraiagkuna ainirkakuna : — Kai maikan runapas mana kaugsanakuskapi , paikunata , ¿ imawatak iarkai anchuchisunchi ?
+41008005	maituku		Jesuska tapurkakunata : — ¿ Maituku tandatak tiapungichita ? Chiura ainirkakuna : — Kanchis tandallami tia .
+41008012	Imapatak		Jesuska , llakirispa , sinchi samai kachaspa , nirkakunata : — ¿ Imapatak kai punchakunamanda runakuna mañawanakungichi : “ Mana kawaskasina kawachiwai ” ? Kasami nuka niikichita : ñi imapas mana kamkuna munaskasina kawangapa kangichichu .
+41008017	Imapatak		Chi rimarinakuskata uiaspa , Jesuska nirkakunata : — ¿ Imapatak ninakungichi : “ Tanda mana apamuskamandami chasa nukanchita niku ” ? ¿ Imawantak , uiawaspapas , kamkunapa umapika manara iaikú ? Kamkunapa iuiaika , ¿ charachu amsapisina kangichi ?
+41008018a	~		Ñawi iukaspapas , ¿ charachu mana kawagsina kangichi ? Chasallata , rinri iukaspapas , 
+41008018b	~		¿ charachu mana uiagsina kangichi ?
+41008019	maituku		¿ Manachu iuiaringichi , nuka pichka tandata pitichiuraka , pichka waranga runakuna mikugtakuna ? Chi puchuskakunataka , ¿ maituku saparu jundatak tandachirkangichi ? Paikunaka ainirkakuna : — Chunga iskai saparu .
+41008020	maituku		Jesuska tapurka : — Chasallata , nuka kanchis tandata pitichiuraka , chusku waranga runakuna mikurkakuna ; chi puchuskakunataka , ¿ maituku saparu jundatak tandachirkangichi ? Ainirkakuna : — Kanchis saparu .
+41008021	~		Chasa ainiura , Jesuska nirkakunata : — Chasa kagpipas , ¿ manarachu kamkunapa iuiaipi iaikú ?
+41008023	~		Chiura Jesuska , chi mana ñawi kawagta makimanda apispa , chi puiblumanda sugsinama pusarka . Chaiachigrispaka , paipa tuka makipi churaspa , ñawipi llamkarka . Nispaka , paita maki churaspa , tapurka : — ¿ Ñachu imapas kawangi ?
+41008027	pitak		Chimandaka , Filipopa Sesarea suti suiu paita katiraiagkunawanta purinakurka . Ñambi rinakuskapika , Jesús tapurkakunata : — Maikankuna nukamanda , ¿ pitak kagta ninkuna ?
+41008029a	~		Chiura , Jesús tapurkakunata : — Kamkunaka nukamanda , 
+41008029b	pi		¿ pi kagtatak niwangichi ? Chasa tapuura , Pedroka ainirka : — Taita Dius agllaska Cristomi kangi .
+41008036	~		— Sug runa tukui kai alpapi ima munaska iukagpipas , paipa almata mana kispichigpika , chi iukaskakuna ñi imapa mana balipungapa kanchu .
+41008037	imawatak		Chi runaka , paipa almata chingachispaka , ¿ imawatak pudingapa ka , ikuti taringapa ? Ñi imawapas manima .
+41009010	imatak		Chasa paikuna uiaspaka , ñi pita mana willarkakuna . Chi kimsandikunaka tapurinakurka : — Chi “ wañuspa , ikuti kaugsariska ” , ¿ imatak niraiá ? — .
+41009011	Imapatak		Nispaka , Jesustaka tapurkakuna — ¿ Imapatak Moisés ima niskata iachachig taitakuna ninkuna : “ Eliastami chaiaku , Taita Dius agllaska Cristopa ñugpa samungapa ” ?
+41009012	~		Chiura , Jesuska ainirkakunata : — Sutipami Elías ñugpa samungapa ka . Tukuimi allichigsamungapa ka . Chasa samungapa willaraiaskaka , allillami ka . Kasapasmi ñugpamanda librupi willaraiá : Runa Tukuska , achka llakii i nanai iukaspa , wabutiimi tukungapa ka .
+41009016	Imatak		Chiura , Jesuska tapurkakunata : — ¿ Imatak chikunawa sinchi rimanakungichi ?
+41009019a	Imaurakamatak		Jesuska , paikunata nirka : — ¡ Ai , kam runakuna , Taita Diuswa ñi ima mana iuiagkunami kangichi ! ¿ Imaurakamatak kamkunata chasa charinakusakichita ? — . Chasa nispaka — Chi ungugta , kaima pusamuichi — nirka .
+41009019b	~		
+41009021	maituku unaitak		Chiura Jesuska , taitandita tapurka : — ¿ Maituku unaitak chasa ungui iuká ? Chiura ainirka : — Uchullauramandata .
+41009028	Imawantak		Chiuramanda Jesuska , sug wasipi iaikugrirka . Chipika pai sapalla kaura , paita katiraiagkuna tapurkakuna : — ¿ Imawantak nukanchika mana pudirkanchi , chi kuku wairata llugsichingapa ?
+41009033	imatak		Kafarnaum puibluma chaiagrispaka , wasima iaikurkakuna . Chipika , Jesuska tapurkakunata : — Ñambi samunakuskapi , ¿ imatak sinchi rimanakurkangichi ?
+41009050	imasa		— Kasapas . Kachi , allillami ka . Kachi wagllirigpika , mana pudiringachu kachiachingapa . Imasa allilla kachiwa mikuita kachiachigsina , kam kikinpura tukuipi sumaglla kaugsangichi , mana piñachirinakuspalla .
+41010003	imatak		Chiura , Jesuska tapurkakunata : — Moiseska , ¿ imatak kamkunapa ñugpamandakunata nirka ?
+41010017	imasatak		Chimanda ñambi llugsikuskapika , sug runa , kalpaspa , Jesuspa ñugpa ladu kungurigrirka , kasa tapuspa : — Alli iachachig taita , ¿ imasatak iukani ruranga , mana puchukaridiru suma kaugsaita taringapa ?
+41010018	Imapatak		Jesuska ainirka : — ¿ Imapatak nukata : “ Alli iachachig taita ” niwakungi ? Maikanpas mana alli tianchu . Taita Diusllami alli ka .
+41010026	pisik		Chasa uiaspaka katiraiagkuna , iapa mancharispa , kikinpura tapurinakurka : — Nigpika , ¿ pisik kispiringapa pudinga ?
+41010036	Imatak		Chiura , Jesús tapurka : — ¿ Imatak munanakungichi , nuka rurangapa ?
+41010051	Imatak		Chaiagriura , Jesuska paita tapurka : — ¿ Imatak munakungi , nuka kamta rurangapa ? Chiura ainirka : — Nukapa iachachig taita , nuka kawangapami munakuni .
+41011003	Imapatak		Maikan tapuchu : “ ¿ Imapatak chasa ruranakungichi ? ” : chiura ainingichi : “ Iaia Jesustami ministiku . Mañachii . Ñami kutichimunga ” .
+41011005	Imapatak		Chipi kagkunaka tapurkakuna : — ¿ Imapatak buruta paskanakungichi ?
+41011028a	imapatak		tapungapa : — ¿ Imapatak chasa ruraspa purikungi ? 
+41011028b	pitak		¿ Pitak kamta kachamurka , atun tukuspa purikungapa ?
+41011030	Pitak		¿ Pitak Juanta kacharka , baugtisangapa ? ¿ Taita Diuschu kachamurka ? Mana kagpika , ¿ runakunachu kacharka ? Ainiwaichi .
+41011031a	~		Chiuraka , kikinpura rimarinakurka , kasa iuiarispa : — “ Taita Dius kachamuskami karka ” nigpika , paika ainingami : “ Nigpika , 
+41011031b	imapatak		¿ imapatak mana paita uiarkangichi ? ” .
+41012009	~		Chasa parlaspaka , Jesús nirka : — Nigpi chi duiñuka , ¿ manachu samuspa , chi runakunata tukuita wañuchigsamuntra ; nispaka , chi sachakunata ikuti sugkunata almangapa sakintra ?
+41012015	Imapatak		Jesuska iacharka , sungu awalla chasa tapunakugta . Nispaka nirkakunata : — ¿ Imapatak munanakungichi pandachiwangapa ? Impuistu kulki kuadiruta apamuichi , nuka kawangapa .
+41012016a	pipa		Chiura , sug kulki apagrispa kuagrirkakuna . Chita kawaspa , Jesuska tapurkakunata : — Kai kulkipi , ¿ pipa ñawitak kawariku ? 
+41012016b	Pimandatak		¿ Pimandatak willaska niraiá ? — Romamanda iaia mandagmanda — ainirkakuna .
+41012023	pipatak		Nigpika , wañuskakuna kaugsariuraka , ¿ pipatak chi warmika kanga , chi kanchis waugkindikunawa kasadu kaspa ?
+41012028	maikantak		Moisés ima niskata sug iachachig taita , Jesús saduseokunawa rimanakuskata uiakurka . Jesús chasa suma ainiskata iachaspa , chi runaka , paipagma kaillaiaspa , tapurka : — Tukui mandaikunamanda , ¿ maikantak mas atun ka ?
+41012035	imapatak		Diuspa atun wasi ukupi iachachikuspa , Jesuska nirka : — Taita Diuspa agllaska Cristomanda , ¿ imapatak Moisés ima niskata iachachig taitakuna ninkuna , Davidpa wambrapa kati wambra kagta ?
+41012037	imawantak		Chasami David kikin , Cristomanda nirka : “ Nukapa iaia ” . Nigpika , ¿ imawantak Cristo , paipa wambrapa kati wambra kanga ? Iapa achka runakuna , Jesusta sumagllami uianakurka .
+41013004a	imauratak		— Nukanchita willai : ¿ imauratak chasa pasaringa ? Ña tukui chasa pasaringapa kagta , 
+41013004b	imawatak		¿ imawatak kawachinga ?
+41014004	Imapatak		Chasa kawaspaka sugkuna , rabiarispa , kasami kikinpura ninakurka : — ¿ Imapatak chi suma asna asiti , ianga tallí ?
+41014006	Imapatak		Jesuska nirkakunata : — Ianga kawaichi . ¿ Imapatak kai warmita ninakungichi , mana allilla ruragta ? Paika , allillami rurawarka .
+41014012	maipitak		Tanda mana libadurawa mikudiru kallarii puncha chaiarka ; chiurallatata paskua ubija wañuchispa mikungapa . Chi punchaka , Jesusta katiraiagkuna paita tapurkakuna : — Paskua punchapa mikui kam mikungapa , ¿ maipitak munangi , nukanchi allichigringapa ?
+41014014	Maikan		Chi runa sug wasima chaiagriskapika , chi wasiiugta nigringichi : “ Nukanchita iachachig taitami kachamú , kamta tapungapa : ‘ ¿ Maikan uku ladutak nukapa purigkunawa paskua mikungapa kani ? ’ . ”
+41014060a	~		Chiuramanda iaia sasirduti , chaugpipi saiarispa , Jesusta tapuchirka : — Kammanda mana allilla rimanakuskataka , 
+41014060b	imapatak		¿ imapatak mana ainingi ?
+41014063	Imapatak		Chasa uiaspa chi iaia sasirdutika , iapa rabiarispa , kikinpa katangata llikichirirka , kasa nispa : — ¿ Imapatak sugkunata suianakusunchi , paimanda imapas willangapa ?
+41014064	imatak		Ñami nukanchi kikin uiarkanchi , imasa Taita Diussina tukuspa willarigta . Kamkuna , ¿ imatak ningichi ? Chiura tukui chi taitakuna , Jesusmanda ainirkakuna : — Paita wañuchiimi chaiá .
+41015004	Imapatak		Pilatoska , ikuti Jesusta tapuchirka : — ¿ Imapatak mana imapas ainingi ? ¿ Manachu uiakungi , kam achka mana allilla ruraskakunata willawanakugpipas ?
+41015012	imatak		Paikuna chasa mañaura , Pilatoska ikuti tapurkakunata : — Nigpika , ¿ imatak munanakungichi , kai runata kamkuna judiukunapa atun mandag sutichiskata nuka rurangapa ?
+41015014a	~		Pilatos tapurkakunata : — Kamkunataka , 
+41015014b	imapitak		¿ imapitak kawarí , mana allilla ruraska kagta ? Paikunaka , mas sinchi kaparispa , ikuti nirkakuna : — Kruspi churaspa wañuchii .
+41015034	imapatak		Chaugpi chisi kaura , Jesuska sinchi kapariiwa kaparirka , kasa nispa : — Elí , Elí , ¿ lema sabaktani ? — . Chi niraianmi : “ Nukapa Dius , nukapa Dius , ¿ imapatak nukata sapalla sakiwangi ? ” .
+41016003	pisik		Ñambipi , kikinpura tapurinakurka : — Chi atun utkuchiska pungupi kilparaiaska rumita , ¿ pisik anchuchinga , nukanchi iaikungapa ?
+42001018	Imasatak		Chiura Zakarías , anjilta tapurka : — ¿ Imasatak nuka iachasa , kam willawaska sutipa kagta ? Nukapa warmi i nukapas , iapa rukumi kanchi .
+42001034	imasatak		— Nukaka , manara kusaiug kanichu — María anjilta ainirka — . Chimanda , ¿ imasatak chasa tukuwanga ?
+42001043	imatak		Nukaka , ¿ imatak kani , chituku suma nuka Iaiapa mama chaiawagsamungapa ?
+42001066	imasik		Atun Taita Dius sutipa paiwa kagmanda , tukui uiagkuna , iuiarispa , tapurinakurka : — Chi wambra , wiñaspaka , ¿ imasik tukunga ?
+42002048	imapatak		Jesuspa mama taitandika , iapa ujnarispa paita kawarkakuna . Mamandi nirka : — Nukapa wambra , ¿ imapatak nukanchita chasa rurarkangi ? Kamba taita i nuka , iapa llakiiwami maskaspa purinakurkanchi .
+42002049	Imapatak		Chiura , Jesuska ainirka : — ¿ Imapatak maskawanakurkangichi ? ¿ Manachu kamkuna iachangichi , nukapa Taita imasa munaskata rurangapa nukata chaiawakugta ?
+42003007	Pitak		Achka runakuna Juanpagma chaianakurka , baugtisaringapa . Chiura paika , maikankunataka nikurka : — Mana alli runakuna , kulibrasinami kangichi . ¿ Pitak kamkunata willagrirka : “ Taita Dius iapa rabiarispa llakii puncha ñami chaiamuku . Mitikuichi , kispiriska kangapa . ” ?
+42003010	imatak		Chipi kagkuna tapurkakuna : — Nigpika nukanchitaka , ¿ imatak rurangapa chaiá ?
+42003012	imatak		Mana judíu kaskakunamanda kulki chaskigkunapas , baugtisaringapa chaiagrispaka , Juanta tapurkakuna : — Iachachig taita , nukanchitaka , ¿ imatak rurangapa chaiá ?
+42003014a	~		Sug suldadukunapas tapugrirkakuna : — Nukanchitaka , 
+42003014b	imatak		¿ imatak rurangapa chaiá ? Chiura , Juanka ainirka : — Manchachispa , ñi llullaspa i ianga juchachispa mana pitapas kichungichi . Mailla gananakuskallawa kuntintaringichi .
+42004034	imapatak		— Ai , Nazaret puiblumanda Jesús , ¿ imapatak nukanchipagma samurkangi ? Nukanchita puchukangapachar samurkangi . Nuka allillami rigsiiki , kam Taita Diuspa tukuipi mas alli wambra kagta .
+42004036	Ima		Tukui chasa kawagkuna , iapa mancharirkakuna . Kikinpura tapurinakurka : — ¿ Ima rimaisik ka ? Kai runaka , paipa iapa iachaiwa atun mandagsina kuku wairakunata rimaspa , runamanda llugsichí .
+42005021a	pisik		Chasa uiaspaka , Moisés ima niskata iachachig taitakuna i fariseokunaka kikinpura ninakurka : “ Kai chasa rimag , Diussina tukuspa , ¿ pisik ka ? 
+42005021b	~		Ñi pipas mana pudinkunachu , pandariikunata pasinsiangapa . Taita Diusllami pasinsiangapa pudí ” .
+42005022	Imapatak		Jesuska , chasa iuianakuskata iachaspaka , nirkakunata : — ¿ Imapatak chasa sungullapi iuianakungichi ?
+42005023	Maikantak		¿ Maikantak mas alli ka ningapa : “ Kam pandariikunata ñami pasinsiaska kangi ” ? Mana kagpika , ¿ ningapa : “ Atarii ; kamba wasima riilla ; ña ambiriskami kangi ” ?
+42005030	Imapatak		Chasa kawaspaka , fariseokuna i Moisés ima niskata iachachig taitakuna Jesusta katiraiagkunata piñaspa tapurkakuna : — ¿ Imapatak mana judíu kaskakunamanda kulki chaskig i mana allilla ruragkunawa sugllapi mikunakungichi i upianakungichi ?
+42005033	~		Chipi kagkuna , Jesusta nirkakuna : — Juanwa i fariseokunawa purigkuna , achka punchakuna mana mikuspallami chisiadur kankuna , Taita Diusta mañaspalla . Ikuti kamta katiraiagkunaka , imaurapasmi mikunkuna i upiankuna .
+42005034	~		Chiura , Jesuska ainirkakunata : — Kasaraipi , kusa tukunga kunbidaskakunawa kankama , ¿ pudinkangichichu ninga : “ Mana mikuspalla kaichi ” ? Manima .
+42006002	Imapatak		Chasa kawaspaka , sug fariseokuna tapurkakuna : — ¿ Imapatak warda puncha pandarinakungichi ?
+42006009	imatak		Chiura Jesuska , chi taitakunata nirka : — Tapusakichita : warda puncha , ¿ imatak mas alli ka : allilla u mana allilla rurangapa ; runata kispichingapa ubi puchukangapa ?
+42006032	imatak		— Kam kikinpuralla kuianakuspa kagpika , kamkunaka , ¿ imatak Taita Dius karangapa suianakungichi ? Maikan mana allilla ruraspa kaugsanakugpurapas kuianakuspami kaugsankuna .
+42006033	imatak		Chasallata , kamkunata suma ruragkunallata suma ruragpika , kamkunaka , ¿ imatak Taita Dius karangapa suianakungichi ? Mana allilla ruragkunapas , paipura suma ruranakuspami kaugsankuna .
+42006034	imatak		Maikanpas kutichiwachu iuiaspalla mañachigpika , kamkunaka , ¿ imatak Taita Dius karangapa suianakungichi ? Mana allilla ruragkunapas , paipura mañachirinakú , parijuma kutichirinakungapa .
+42006039	~		Chasa nispaka , chipi kagkunata iuiai apingasina suma parlarka , kasa nispa : — Mana ñawi kawag , sug mana ñawi kawagta pusagpika , ¿ manachu iskandikuna pusuma urmagrintrakuna ?
+42006041	Imapatak		— ¿ Imapatak sugpa ñawipi juituriska ugsata kawakungi ; ikuti kam kikinpa ñawipi sug atun ugsa juituriska iukaskataka mana kawaringi ?
+42006042	imasatak		Chasallata , kam kikinpa ñawipi chi atun juituriska iukaskata mana kawarispalla , ¿ imasatak sugta ninkangi : “ Waugki , ñawipi juituriska ugsata anchuchisaki ” ? Sungu awalla rimag , kam kikinpa ñawita chi atun juituriska iukaskata ñugpa anchuchirii . Chasa ruraspami allilla kawankangi , sugpa ñawita juituriska ugsata anchuchingapa .
+42006046	Imapatak		— ¿ Imapatak , nuka imasa niskata mana ruraspapas , nukata : “ Iaia Jesús , Iaia Jesús ” niwangichi ?
+42007024	imatak		Juan kachaskakuna chimanda riura , Jesuska chipi kagkunata Juanmanda nirka : — Kamkuna , chusa sitaska alpapi Juan kaskama chaiagrispaka , ¿ imatak kawagrirkangichi ? ¿ Sug wiru wairawa pakichingasina kuiuchikuskatasinachu kawagrirkangichi ?
+42007025	imatak		Mana kagpika , ¿ imatak kawagrirkangichi ? ¿ Sug runa iapa suma musu katanga churariskatachu tarigrirkangichi ? Manima . Chasa suma churarigkuna , mandagkunapa wasikunallapimi iapa suma iuiachilla kaugsankuna .
+42007026	imatak		Chasa kagpika , ¿ imatak kawagrirkangichi ? ¿ Santu Ispirituwa rimagtachu tarigrirkangichi ? Ari , niikichitami : Santu Ispirituwa ñugpamanda rimagkunamandapas , Juan mas atunmi ka .
+42007031a	imasatak		Kasapasmi Jesús nirka : — Kai punchakuna kaugsanakuska runakunata , ¿ imasatak kagta nisa ? Kasa nintrani .
+42007031b	~		
+42007042	maikantak		Nigpi , kutichingapa mana pudinakugmandaka , kulki mañachig , iskandikunatasi pasinsiarka . — Kunaura niwai : chi iskandi kulki dibinakugka , ¿ maikantak mañachigta mas kuianga ?
+42007049	pisik		Jesuswa mikungapa kunbidanakuskapura tapurinakurka : — Kai runa , pandariskakunata pasinsiag niku ; ¿ pisik ka ?
+42008025a	~		Chiura Jesuska , katiraiagkunata nirka : — ¿ Manarachu nukamanda suma iuiawaspa rigsiwangichi ? Chiura , iapa mancharispa ujnarispami paipura tapurinakurka : — Kai runa , 
+42008025b	imasik		¿ imasik ka ? Waira i iakupas , paita uiankuna .
+42008028	imapatak		Chi runaka , Jesusta kawaspaka , kaparispa , paipa ñugpa ladu kungurigrirka . Sinchi rimaiwa nirka : — Ai , kam tukuimanda mas atun Taita Diuspa wambra Jesús , ¿ imapatak nuka kaskama samukungi ? Mañaikimi : mana nukata sungu nanagta llakichiwakugsamui .
+42008030	imatak		Chiura Jesuska , chi runata tapurka : — Kam , ¿ imatak suti kangi ? Chiura ainirka : — Nuka , achka warangakunami suti kani — . Iapa achka kuku wairakuna paita iaikuska kaspami chasa ainirka .
+42008045	Pitak		Chiura , Jesuska tapurka : — ¿ Pitak llamkawarka ? Tukuikuna : “ Ñi pipas manima ” ainiura , Pedro nirka : — Iachachig taita , ¿ manachu tukuikuna , tanganakuiwanta kamta katiraianakú ?
+42009009a	pisik		Herodeska nikurka : — Nuka kikinmi Juanta uma anchuchingapa kacharkani . Chiwanka , chi tukui ima ruraskata uiaspa , paimanda nuka ninimi : “ ¿ Pisik ka ? ” — . Chimanda munakurka , Jesusta rigsingapa .
+42009009b	~		
+42009018	pi		Sug puncha Jesús , Taita Diusta rimakurka , katiraiagkunallawa sugllapi kaspa . Nispaka , paikunata tapurka : — Maikankuna nukamanda , ¿ pi kagtatak ninkuna ?
+42009020a	~		Chiura , Jesuska tapurkakunata : — Kamkunaka nukamanda , 
+42009020b	pi		¿ pi kagtatak niwangichi ? Chasa tapuura , Pedroka ainirka : — Taita Dius kikin agllaska Cristomi kangi .
+42009025	~		— Sug runa tukui kai alpapi ima munaska iukagpipas , paipa almata mana kispichigpika , chi iukaskakuna ñi imapa mana balipungapa kanchu .
+42009041a	Imaurakamatak		Jesuska , paikunata nirka : — ¡ Ai , kam mana alli runakuna , Taita Diuswa ñi ima mana iuiagkunami kangichi ! ¿ Imaurakamatak kamkunata chasa charinakusakichita ? — . Chasa nispaka , wambrapa taitataka nirka — Kamba wambrata kaima pusamui .
+42009041b	~		
+42010025	imasatak		Tianakuskamanda , Moisés ima niskata sug iachachig taita saiarirka . Chi runaka , Jesusta pandachingapa iuiaiwa tapurka : — Iachachig taita , ¿ imasatak iukani ruranga , mana puchukaridiru suma kaugsaita taringapa ?
+42010026a	ima		Chiura , Jesús tapurka : — Moisés ima willaraiaskapi , 
+42010026b	imatak		¿ imatak rurangapa niraiá ? Willawai .
+42010029	Pitak		Chi runaka , allilla iuiaiiug kagta kawachiringapa , Jesusta tapurka : — ¿ Pitak nukapa waugkisina niraiá ?
+42010036a	imasatak		Chasa parlaspaka , Jesuska tapurka : — ¿ Imasatak kamta rigchá ? Sisaikuna apiska wañukuskapika , chi kimsandikunamanda , 
+42010036b	maikantak		¿ maikantak waugkindisina kawarí ?
+42011008	~		— Iuiarisunchi : maituku iacharidu kagmandalla , mana atarispa kanchu . Niikichitami : “ Mana mas killachiwachu ” iuiaspami tukui ima mañakuskata kuangapa ka .
+42011011	~		— Sug wambra paipa taitata chalwa mañakugpika , ¿ kulibrachu karantra ?
+42011012	~		Chasallata , sug wibus mañakugpika , ¿ chini kukuchu karantra ? Manima .
+42011013	maikan		Kamkuna , mana alli kaspapas , kamkunapa wambrakunata suma imapas karangichi . Nigpika kamkunapa Taita suma luarpi kagka , ¿ imawantak mana Santu Ispirituta karamunga , maikan suma mañagpika ?
+42011018	~		Chasallata iaia kukuwa kagkuna sugma sugma tukugpikunaka , ¿ manachu paipura mandai chiuralla puchukarintra ? Kamkuna nukamanda ninakungichi : “ Beelzebupa iachaiwami kuku wairakunata llugsichiku ” ; chimandami chasa ninakuikichita .
+42011019	pipa		— Beelzebupa iachaiwa nuka kuku wairakunata llugsichikugpika , kampurakunaka , ¿ pipa iachaiwatak llugsichinkuna ? Pai kikinkunami kawachingapa kankuna , imasa kamkuna mana allilla nukamanda iuiarispa ninakugta .
+42012014	~		Jesuska ainirka : — Waugki , ñi pipas mana churawarkachu , kamkunapa justisia kangapa , ima kamkunata sakiskata chaugpingapa .
+42012017	Imasatak		Nispaka iuiarirka : “ ¿ Imasatak rurasa ? Kunaura pallaripuaskata , ¿ maipitak wakachisa ? ” .
+42012020	pimandasik		— Chasa iuiarikunkamaka , Taita Diuska nirka : “ Ja , kam mana allilla iuiaiiug . Kunantutallami kamba almata mañangapa kaiki . Nigpika chi wakachiskaka , ¿ pimandasik kanga ? ” .
+42012024	~		Chiwakukunamanda iuiariichi . Paikunaka mana tarpunkunachu . Mikui pallaspa , wakachidiru trujapas mana iukankunachu . Chasa kagpipas , Taita Diuska ñi ima mana pisichinkunatachu . Kamkunaka , piskukunamanda mas balimi kangichi .
+42012025	Pikunatak		— ¿ Pikunatak , maituku iuiarispapas , sug palmullapas awa wiñai pudingapa kangichi ? Ñi pipas manima .
+42012026	imapatak		Chi uchulla ruraita mana pudispaka , ¿ imapatak sug imakunamanda iapa iuiarinakungichi ?
+42012042	Maikan		Chiura , Iaia Jesuska ainirka : — Maikan tukuipi alli rurag runa kagtami paipa patrun sakirka , ima wasipi kawapungapa , sug piunkunata mikui karaspa , pai kikin chaiamunkama .
+42012049	~		— Nuka samurkanimi , kai alpapi nina sindichigsina rurangapa . Munakunimi , ña sindi rupakugsina kantra .
+42012056	imapatak		Kamkuna , sungu awalla rimagkunami kangichi . Imasa awapi i alpapi kawariskakunata kawaspaka , iachangichimi ninga , punchakuna imasa kangapa kagta . Nigpika , kai punchakuna nuka ima rurakuskata kawaspaka , ¿ imapatak mana iuiaringichi ima niraiagta ?
+42012057	Imapatak		— ¿ Imapatak kam kikinkuna mana iuiaringichi , ima allilla u mana allilla kagta ?
+42013004	~		— Chasallata , chi chunga pusag runakuna , Siloepi sug askurinti iapa awa wasi paikunapa awalla urmaura , wañuskakuna : ¿ iuianakungichichu : chikuna , tukui Jerusalenpi kaugsanakuskamandapas mas pandarigkunachar karkakuna ?
+42013007	Imapatak		Chimanda , chagra kawagta nirka : “ Kawamui . Ñami kimsa wata samukuni , kai sachapi igus tianchu kawangapa . Ñi imapas mana tarigsamunichu . Kuchuilla . ¿ Imapatak kai sacha , alpapi ianga saiakunga ? ” .
+42013015	~		Chasa niura , Iaia Jesuska nirka : — Kamkuna , sungu awalla rimagkunami kangichi . Kamkunapa wagra u buru wataraiaskakunata , ¿ manachu paskangichi , iaku upiachigringapa , warda puncha kagpipas ?
+42013018a	imasatak		Kasapasmi Jesús nirka : — Diuspa suma mandai , ¿ imasatak rigchá ? Kasa nintrani .
+42013018b	~		
+42013020	ima		Kasapasmi nirka : — Diuspa suma mandai , ¿ ima kagsinatak nintrani ?
+42013025	Maimandakunachar		— Kamkuna kanchapi kankama , wasi duiñu pungu wichkagpika , kamkuna kaiaspa , ninkangichimi : “ Taita waugki , nukanchimanda pungu paskapuai ” . — Paika ainingami : “ Kamkunata mana rigsiikichitachu . ¿ Maimandakunachar kangichi ? ” .
+42014005	~		Kachaspaka , chipi kagkunata nirka : — Kamkunapa wambra u wagra sanjapi urmagpika , ¿ manachu warda puncha kagpipas chiuralla surkuntrangichi ?
+42014028	Maikan		— Maikan kamkunapura , atun awa wasi rurangapa munaspaka , manara kallarispalla , ¿ manachu tiarintra , iuiaringapa : maituku kulkiwasik pagtawanga puchukagta rurangapa ?
+42014031	maikan		— Chasallata maikan mandag , sugnigmanda mandagwa manara wañuchinakungapa llugsispalla , ¿ manachu iuiarintra : chunga waranga suldadukunallawachu pagtawanga , sug mandag iskai chunga waranga suldadukuna samunakuskawa wañuchinakungapa ?
+42014034	~		— Kachi , allillami ka . Kachi wagllirigpika , mana pudiringachu kachiachingapa .
+42015004	Maikan		— Maikan kamkunapura , patsa ubija iukaspa , sug ubija chingapugpika , ¿ manachu iskun chunga iskunta sakispa , maskai kallarintra , chi ubijata tarinkama ? Ari .
+42015008	maikan		— Chasallata maikan warmi , chunga kuri kulki iukaspa , sug kulki chingapugpika , ¿ manachu bila sindichispa , wasi ukuma suma allimanda pichanga , imaura chingapuskata tarinkama ?
+42015026	Ima		Sug piunta kaiaspaka , tapurka : “ ¿ Ima atun punchatak kaipi ialichinakú ? ” .
+42015029	~		— Paika ainirka : “ Taita , uiawai . Maituku watakuna kam ima niwaskata imaurapas allilla ruraspalla kaugsakuni . Chasa kagpipas , nukata ñi imaurapas mana karawangichu ñi sug kuchillapas , nuka iacharidukunawa mikuspa , kuntintaringapa .
+42016002	imasatak		Chiura patrunka , chi kawagta kaiaspa , nirkasi : “ Kammanda , ¿ imasatak nukata willawanakú ? Kam imasa trabajukuna ruraskata kawachiwai . Ña kunauramanda , mana mas nuka ima iukaskata kawapuag kangapa kangichu ” .
+42016003	Imasami		— Chiura , chi runataka iuiarirka : “ ¿ Imasami rurani ? Nukapa patrun , ñami llugsichiwaku . Mana animu iukanichu , alpa pikangapa . Limusna mañaspa puringapa , nukata pingaimi iuiachiwá .
+42016005	Masatak		— Chasa iuiarispaka , paipa patrunta dibinakuskata sug sugllasi kaiarka . Sug runata tapurka : “ ¿ Masatak nukapa patrunta dibikungi ? ” .
+42016007	maitukutak		— Chasallata , sug runata tapurka : “ Kamka , ¿ maitukutak dibikungi ? ” . — Chiura ainirka : “ Patsa tupu trigumi dibikuni ” . — Chasa uiaspaka , chi kawagka nirka : “ Chiká . Kam , patrunta dibikuska listata kawai . Nispaka , pusag chungalla dibikugta churai ” .
+42016011	imasatak		Kai mana alli alpamanda kulki u imapas iukaskata kamkuna mana allilla ruragpika , ¿ imasatak suma luarmanda sutipa iukaikunata kamkunata mingangakuna ?
+42016012	imasatak		Chasallata , sugkuna mingaskata mana allilla ruragpika , ¿ imasatak kam kikinkunata chaiakuskata kuangakuna ?
+42017007	maikan		— Kamba lutrin chagrapi trabajakuspa u wagra kawakuspa , kutimuuraka , ¿ maikan kampuratak nintrangi : “ Tiarispa , mikugsamui ” ?
+42017017	maipitak		Nigpi Jesuska , chipi kagkunata nirka : — ¿ Manachu chunga runa ambiriska kankuna ? Sug iskunkunaka , ¿ maipitak kankuna ?
+42017018	Imapatak		¿ Imapatak kai mana judíu runalla kutimurka , Taita Diusta iapa suma atun kagta ningapa ?
+42017020	imauratak		Fariseokuna , Jesusta tapurkakuna : — Diuspa suma mandai puncha , ¿ imauratak chaiamungapa ka ? Chiura , paika ainirka : — Diuspa suma mandai puncha chaiamugtaka kamkunapa ñawiwa mana kawangapa kangichichu .
+42017037	Imasami		Chasa tapuura , Jesuska ainirka : — Imasami gallinasukuna , pipas mana willagpi , paikuna wañuska kaskama tandarinkuna : chasami tukugsamungapa ka .
+42018018	imasatak		Sug mandag runa , Jesusta tapurka : — Alli iachachig taita , ¿ imasatak iukani ruranga , mana puchukaridiru suma kaugsaita taringapa ?
+42018019	Imapatak		Jesuska ainirka : — ¿ Imapatak nukata : “ Alli iachachig taita ” niwakungi ? Maikanpas mana alli tianchu . Taita Diusllami alli ka .
+42018026	pisik		Chasa uiagkuna tapurkakuna : — Nigpika , ¿ pisik kispiringapa pudinga ?
+42018036	Imatak		Chi runaka , achkakuna ialinakuskata uiaspa , tapurka : — ¿ Imatak pasariku ?
+42018041	Imatak		— ¿ Imatak munakungi , nuka kamta rurangapa ? Chiura ainirka : — Taita waugki , nuka kawangapami munakuni .
+42019007	~		Tukui chasa kawagkuna , paipura mana allilla iuiaiwa ninakurka : — Pandarigpagmami Jesús iaikugrirka , paiwa sugllapi kagringapa .
+42019023	imapatak		Chasa iachaspaka , ¿ imapatak nukapa kulki mirangapa , mana bankupi mingapuarkangi ; chasaka , nuka kutimuura , iapawa kuawangapa ? ” .
+42019031	Imapatak		Maikan tapuchu : “ ¿ Imapatak buruta paskanakungichi ? ” : chiura ainingichi : “ Iaia Jesustami ministiku ” .
+42019033	Imapatak		Buruta paskanakuuraka , duiñukuna tapurkakuna : — ¿ Imapatak buruta paskanakungichi ?
+42020002a	imapatak		tapurkakuna : — Nukanchita willai : ¿ imapatak chasa ruraspa purikungi ? 
+42020002b	pitak		¿ Pitak kamta kachamurka , atun tukuspa purikungapa ?
+42020005a	~		Chiuraka , kikinpura rimarinakurka , kasa iuiarispa : — “ Taita Dius kachamuskami karka ” nigpika , paika ainingami : “ Nigpika , 
+42020005b	imapatak		¿ imapatak mana paita uiarkangichi ? ” .
+42020013	Imatak		— Nigpi , chi duiñuka iuiarirkasi : “ ¿ Imatak rurasa ? Nukapa iapa kuiaska wambratami kachasa . Nukapa wambra kagmanda , mana imapas rurapuangakunachu ” .
+42020015	~		Chasa nispaka , paita chi alpamanda llugsichispa , wañuchirkakuna . Chasa parlaspaka , Jesús tapurka : — Nigpi chi alpa duiñuka ,
+42020017	imatak		Chasa niura Jesuska , ñawima kawaspa , nirkakunata : — Nigpi , ñugpamanda librupi kasa willaraiaska , ¿ imatak niraiá ? Wasichigkuna wabutiska rumi , wasita charigmi tukugsamurka .
+42020023	~		Jesuska iacharka , mana allilla iuiaiwa chasa tapunakugta . Nispaka nirkakunata :
+42020024a	pipa		— Impuistu kulki kuadiruta kawachiwaichi — . Kawachiuraka , tapurka — ¿ Pipa ñawitak kawariku ? 
+42020024b	pimandatak		¿ Pimandatak willaska niraiá ? Chiura ainirkakuna : — Romamanda iaia mandagmanda .
+42020033	pipatak		Nigpika , wañuskakuna kaugsariuraka , ¿ pipatak chi warmi kanga , chi kanchis waugkindikunawa kasadu kaspa ?
+42020041	imapatak		Chiura , Jesuska nirkakunata : — Taita Dius agllaska Cristomanda , ¿ imapatak ninkuna , Davidpa wambrapa kati wambra kagta ?
+42020044	imawantak		Chasami David kikin , Cristomanda nirka : “ Nukapa iaia ” . Nigpika , ¿ imawantak Cristo , paipa wambrapa kati wambra kanga ?
+42021007a	imauratak		Chiura , paita tapurkakuna : — Iachachig taita , ¿ imauratak chasa pasaringa ? Ña chasa pasaringapa kagta , 
+42021007b	imawatak		¿ imawatak kawachinga ?
+42022009	Maipitak		Chiura tapurkakuna : — ¿ Maipitak munangi , nukanchi allichigringapa ?
+42022011	Maikan		Chi wasiiugta nigringichi : “ Nukanchita iachachig taitami kachamú , kamta tapungapa : ‘ ¿ Maikan uku ladutak nukapa katiraiagkunawa paskua mikungapa kani ? ’ . ”
+42022027	Maikantak		¿ Maikantak mas atun taita ka : mikungapa tiakug u paita mikui ialichig ? Mikungapa tiakugmi ka . Chasa kagpipas , nukami kamkunata mikui ialichigsina kani .
+42022046	Imapatak		nirka : — ¿ Imapatak puñurirkangichi ? Atarispa , Taita Diusta mañanakuichi , tukui mana allilla ruraikuna kamkunata mana chaiachu .
+42022064	pitak		Paipa ñawita kilpaspa , piaspaka , ninakurka : — Willamui : ¿ pitak kamta piarka ? — .
+42022071	imapatak		Chasa ainiura , nirkakuna : — Chiwanka , ¿ imapatak chara paimanda willagkunata ministisunchi ? Nukanchi kikinmi uiarkanchi , pai kikin Taita Diussina tukuspa willarigta .
+42023022a	Imapitak		Pilatoska , ña kimsama ikuti nirka : — ¿ Imapitak kawarí , mana allilla ruraska kagta ? Ñi ima pandariipas mana tarinichu . 
+42023022b	Imamandatak		¿ Imamandatak paita wañuchingapa chaiá ? Asutichispaka , kacharingapami kani .
+42023031	imasasik		Chawa kaspita kasa ruragpikunaka , chakiska kaskataka , ¿ imasasik rurangakuna ?
+42024005	Imapatak		Chi warmikuna , iapa mancharispa , ñallapas alpakama kumurispa kawanakurka . Chiura , chi runakunaka nirkakunata : — ¿ Imapatak kaugsariskata maskanakungichi wañuskakuna pambadirupi ?
+42024017	Imamandatak		Jesuska tapurkakunata : — ¿ Imamandatak rimaspa rinakungichi ? Chiura , llakiiwa irkiaspa , saiarirkakuna .
+42024019	Imatak		— ¿ Imatak pasarirka ? — Jesús tapurka . Chiura ainirkakuna : — Nazaret puiblumanda Jesús ima pasagta . Pai runa , Santu Ispirituwa rimag kaspa , Taita Diuspa i runakunapa ñawipi mana imaurapas kawaskasina ruraspa , tukuipi allilla iachachispami karka .
+42024025	imawantak		Chiura , Jesuska nirka : — Ai , kam runakuna , ¿ manarachar iuiai iukangichi ? Santu Ispirituwa rimagkuna tukui ima ñugpata willaraiaskata , ¿ imawantak kamkuna , iapa allimanda iuiaringichi ?
+42024038a	Imapatak		Chiura , Jesuska nirka : — ¿ Imapatak mancharingichi ? 
+42024038b	Imapatak		¿ Imapatak kamkunapa sungupi chasa iuianakungichi ?
+43001019	pitak		Jerusalenmanda judíu taitakuna , sasirdutikunata i Diuspa atun wasipi aidagkunata Juanpagma kacharkakuna , tapungapa : — Kam , ¿ pitak kangi ?
+43001021	imatak		— Nigpika — tapurkakuna — , ¿ imatak kangi ? ¿ Eliaschu kangi ? Chiura , paika ainirka : — Manima . — Mana kagpika , ¿ Santu Ispirituwa rimag samungapa niraiaskachu kangi ? — Manima .
+43001022a	pitak		Chiura tapurkakuna : — ¿ Pitak kangi ; chasaka , nukanchi kachamuskakunata willagringapa ? Kam kikinmanda , 
+43001022b	imatak		¿ imatak niringi ?
+43001025	imapatak		Nispaka , paita tapurkakuna : — Nigpi kamka , Cristo , ñi Elías ñi chi Santu Ispirituwa rimag mana kaspaka , ¿ imapatak baugtisakungi ?
+43001038a	imatak		Jesuska , tigrarispa , chi katinakugta kawaspa , tapurka : — ¿ Imatak maskanakungichi ? Chiura ainirkakuna : 
+43001038b	maipitak		— Rabí , ¿ maipitak kaugsangi ? — . ( Rabí niraianmi : “ Iachachig taita ” . )
+43001046	Imauratak		Natanaelka nirka : — ¿ Imauratak uiaska kanchi , Nazaret puiblumanda suma alli runa llugsigta ? Chiura , Felipeka nirka : — Akushi ; kawankangimi .
+43001048	imasatak		Natanaelka tapurka : — Nukata , ¿ imasatak rigsiwangi ? Chiura , Jesús ainirka : — Felipe manara kambagma chaiagrigpita , kam igira sacha sikipi tiakuskatami kawakurkaiki .
+43002004	imapatak		Paika ainirka : — Mama , ¿ imapatak chasa niwakungi ? Nukapa puncha manara chaiamunchu .
+43002018a	~		Jesús chasa ruragmandaka , judiukuna paita tapurkakuna : 
+43002018b	imawatak		— Kamka , ¿ imawatak kawachinkangi , kam chasa llugsichingapa pudigta ?
+43003004	imasatak		Chiura , Nikodemo tapurka : — Ña ruku runa kaspa , ¿ imasatak ikuti pudiringa tiagsamungapa ? Nigpi , ¿ ikutichu mamandipa wigsa ukuma iaikurispa , pudirí tiagsamungapa ; chasachu pudirí ?
+43003009	imasatak		Chiura , Nikodemo tapurka : — ¿ Imasatak chasa kanga ?
+43003012	imasatak		Nuka kai alpapi tiaskamanda willakuskata kamkuna mana uiawagpika , ¿ imasatak suma luarpi tiaskamanda willakuskataka uiawankangichi ?
+43004009	Imasamandatak		Chi warmika ainirkasi : — ¿ Imasamandatak kamka , judíu kaspa , nukata iaku mañawakungi , nuka Samariamanda warmi kaskata ? — . ( Judiukunawa i Samariamanda runakunawa mana rimanakudur kankuna . )
+43004011	imawatak		Chi warmika nirka : — Kam taita turika , mana imapas iukangichu , iaku surkungapa . Kai pusu , iapa jundumi ka . Nigpika , ¿ imawatak chi mana wañudiru iakuta surkupuankangi ?
+43004027a	imatak		Chikama Jesusta katiraiagkunaka , chima chaiagrispa , paita sug warmiwa rimanakuskata kawaspaka , iapa ujnarirkakuna . Chasa kawaspapas , mana pipas paita tapurkakuna : “ ¿ Imatak munakungi ? ” u 
+43004027b	imatak		“ ¿ Imatak chi warmiwa rimanakungichi ? ” .
+43005012	Maikan		Chiura tapurkakuna : — ¿ Maikan runatak kamta : “ Atarichispa , kamba wasima rii ” nirka ?
+43005044	imasatak		— Suglla Taita Dius kamkunata atuniachingapa kaskata maskangataka , kamkunapurallami atuniachirispa kangichi . Chasa ruranakuspaka , ¿ imasatak nukamanda suma iuiawankangichi ?
+43005047	imasatak		Pai librupi willaska sakiskata mana uiaspaka , ¿ imasatak nuka rimakuskataka suma iuiawankangichi ?
+43006005	Maipitak		Chi lumapi tiakuspaka , Jesuska tukuikunata kawarka , chi achka runakuna paipagma kaillaianakugta . Chasa kawaspaka , Felipeta tapurka : — ¿ Maipitak tanda randinchi , kai tukui runa samunakuskata karangapa ? — .
+43006009	imatak		— Kaipimi ka sug wambra . Pichka sibada tanda i iskai chalwami iuká . Chika , ¿ imatak pagtanga , kai tukui achka runakunata karangapa ?
+43006025	imauratak		Chaiagrispaka , Jesusta tarigrirkakuna . Nispaka tapurkakuna : — Iachachig taita , ¿ imauratak kaima chaiamurkangi ?
+43006028	Imasatak		Chiura tapurkakuna : — ¿ Imasatak nukanchi rurasunchi , Taita Dius imasa munakuskasina paita kawachingapa ?
+43006030a	Imasatak		Chiura , Jesusta tapurkakuna : — ¿ Imasatak nukanchita kawachinkangi ; chasaka , nukanchi kamta suma iuiaringapa ? 
+43006030b	Imaurapas		¿ Imaurapas mana kawaskasina ruraspachu kawachinkangi ?
+43006042	imawantak		kasa nispa : — Kai runa , ¿ manachu ka Josepa wambra Jesús ? Paipa taita i mamanditapas , nukanchi rigsinchimi . Nigpika , ¿ imawantak niku : “ Suma luarmandami uraikumuska kani ” ?
+43006052	imasatak		Chiura judiukunaka , kikinpura tapurinakurka , kasa nispa : — Kai runa , ¿ imasatak paipa aichata karangapa ka , nukanchi mikungapa ?
+43006060	Pisik		Achka Jesusta katiraiagkuna , chasa uiaspaka , nirkakuna : — Chi rimaikuna , iapa mana uiangasinami ka . ¿ Pisik chasa uiangapa munanga ?
+43006062	imasatak		Kai Runa Tukuska ñugpata kaskama , chimallatata sikakuskata kamkuna kawaspaka , ¿ imasatak iuiantrangichi ?
+43006068	piwatak		Chiura , Simón Pedroka ainirka : — Taita waugki , kamta sakispaka , ¿ piwatak risunchi ? Kamllami mana puchukaridiru suma kaugsaita rimag kangi .
+43007011	maipisik		Chikama judiukunaka , chi punchakuna paita maskanakuspa , paipura tapurinakurka : — Chi runa , ¿ maipisik ka ?
+43007015	imasamandasik		Paita uiaspaka , judiukuna iapa ujnarispami kikinpura tapurinakurka : — Kai runa , ¿ imasamandasik chituku iachá , ñi piwapas mana iachaikuspalla ?
+43007019	imapatak		¿ Manachu Moisés , kamkunapa ñugpamanda taitakunata Taita Dius imasa rurangapa willarka ? Chasa willaraiagpipas , ñi pi mana chasa rurangichichu . Nukataka , ¿ imapatak wañuchiwangapa munanakungichi ?
+43007020	Pikunatak		Chiura , chipi kagkuna ainirkakuna : — Sug kuku waira iaikuskami kangi . ¿ Pikunatak kamta wañuchingapa munanakú ?
+43007023	imapatak		Chasaka , warda puncha kagpipas , chi marka churachingichimi , Moisés imasa niraiaskasina iuiaspa . Nigpika , ¿ imapatak warda puncha sug runata nuka allilla aliachiskamanda , kamkuna nukawa jiru iuianakungichi ?
+43007035	maimatak		Chiura judiukuna , kikinpura tapurinakurka : — Kai runa , ¿ maimatak ringapa ka ; chiwanka , nukanchi paita mana tarii pudingapa ? ¿ Manachu munaku , sug alpakunapi judiukuna kaugsanakuskama ringapa ; chipika , mana judíu kagkunatapas iachachigringapa ?
+43007036	Imatak		¿ Imatak niraiá kasa niskata : “ Kamkuna nukata maskawaspapas , mana tariwangapa kangichichu . Nuka maipi kaskama , kamkunaka mana chaiagrii pudingapa kangichichu ” ?
+43007041	~		Sugkunaka ninakurka : — Kaimi sutipa Taita Dius agllaska kangapa ka . Ikuti sugkunaka nirkakuna : — Taita Dius agllaska kagpika , Galileamanda mana kangapa kagtami niraiá .
+43007045	Imapatak		Kachaska alwasilkunaka , iaia sasirdutikuna i fariseokunapagma kutirkakuna . Chaiagriuraka , paikuna tapurkakuna : — ¿ Imapatak mana Jesusta pusamurkangichi ?
+43007048	~		Judíu taitapura i fariseopura , ñi pipas paita mana uianchichu .
+43007051	~		— Moisés ima nukanchita willaraiaskapi , ¿ manachu kasa niraiá : maikan runatapas , pai ima ruraskamanda mana tapuchispalla i uiaspalla , mana justisiai rurai pudirinchu ?
+43008005	imatak		Moisés ima willaraiaskapi , kasami niraiá : “ Maikan warmipas chasa rurakugta apispa , rumiwa piaspa , wañuchingapami niraiá ” . Kamka , ¿ imatak ningi ? — .
+43008010	maipitak		Chiura Jesuska , saiarispa , tapurka : — Pani , ¿ maipitak kammanda willagkuna kankuna ? ¿ Pipas manachu justisiaspa , kamta wañuchingapa nirkakuna ?
+43008019	maipitak		Chiura tapurkakuna : — Kamba taitaka , ¿ maipitak ka ? Jesuska ainirka : — Kamkunaka , nukata ñi nukapa Taitata mana rigsingichichu . Nukata rigsiwagka , nukapa Taitata rigsigsinami ka .
+43008025a	pitak		Chiura tapurkakuna : — Kam , ¿ pitak kangi ? 
+43008025b	~		Chiura , Jesuska ainirka : — Ñugpamandatami nuka ña kamkunata willarkaikichita .
+43008033	imapatak		Chiura nirkakuna : — Nukanchika kanchimi ñugpa taita Abrahampa wambrapa wambrakuna . Imaurapas ñi maikan runakunapagma mana wataskasina kaska kanchichu . Nigpika , ¿ imapatak kamka nikungi : “ Kispichiimi tukunkangichi ” ?
+43008043	Imawantak		¿ Imawantak nuka ima rimakuskata mana iachaikungapa munangichi ? Mana munangichichu , nuka ima willakuskata uiawangapa .
+43008046a	~		Ñi pipas mana nukata kawachiwangapa pudingichichu , imapipas pandarig kagta . Nuka ñi imapi mana llullaspalla nikugpika , 
+43008046b	imapatak		¿ imapatak mana nukawa iuiaringichi ?
+43008053	ima		Nukanchipa wañuska taita Abrahammandapas , ¿ maschu atun kangi ? Santu Ispirituwa ñugpamanda rimagkunapasmi chasallata wañurkakuna . Kamka , ¿ ima kagtatak iuiakungi ?
+43008057	imawantak		Chiura , judiukuna nirkakuna : — Kam , manara pichka chunga watallapas iukaspaka , ¿ imawantak ningi , Abrahamta kawaska ?
+43009002	imawantak		Chi runata kawaspaka , Jesusta katiraiagkunaka tapurkakuna : — Iachachig taita , ¿ imawantak kai runa , mana ñawi kawag tiagsamurka ? ¿ Paichu imapi mana allilla rurarka ? Mana kagpika , ¿ paipa atunkunachu imapi pandarirkakuna ?
+43009010	imawantak		Chiura tapurkakuna : — Nigpika , ¿ imawantak ñawi aliaska kangi ?
+43009012	maipitak		Chiura tapurkakuna : — Chi runaka , ¿ maipitak ka ? Chi runaka ainirka : — Mana iachanichu .
+43009016	imawantak		Chasa ainiura , sug fariseokuna nirkakuna : — Chi aliachig runa warda puncha mana samaspalla trabajag , mana Taita Dius kachamuska kangapa kanchu . Ikuti sugkunaka ninakurka : — Pandaridurllatata runa kaspaka , ¿ imawantak chasa mana imaurapas kawaskasina suma rurangapa pudí ? Chasa rimanakuspaka , iskaima tukurkakuna .
+43009017	imatak		Chimanda , ikuti chi ñawi ambiriskata tapuchirkakuna : — Chi runa kamba ñawita aliachiskamanda , kamka , ¿ imatak ningi ? Chiura ainirka : — Paika , sutipa Santu Ispirituwa rimagmi ka .
+43009019	Imasamandatak		Nispaka tapuchirkakuna : — ¿ Kaichu ka kamkunapa wambra ? ¿ Paimandachu ningichi : paimi mana ñawi kawag tiagsamurka ? ¿ Imasamandatak kunaura kawaku ?
+43009026a	imatak		Chiura , ikuti tapuchirkakuna : — ¿ Imatak kamta rurarka ? 
+43009026b	imasatak		¿ Imasatak ñawi aliachirka ?
+43009027	Imapatak		Paika ainirka : — Timpumi willarkaikichita . ¿ Manachu uiawarkangichi ? ¿ Imapatak ikuti uiawangapa munanakungichi ? ¿ Kamkunapaschar paita katiraiagkuna tukungapa munanakungichi ?
+43009034	~		Paikunaka nirkakuna : — Kam , tiagsamuskauramandata pandaridurmi kangi . ¿ Kunaurachu tinlla kam nukanchita iachachingapa munakungi ? — . Chasa nispaka , paita chimanda llugsichirkakuna .
+43009036	pitak		Chiura ainirka : — Taita waugki , niwai : ¿ pitak ka , nuka paimanda suma iuiangapa ?
+43010020	Imapatak		Achkakuna ninakurka : — Pai , kuku waira iaikuskami ka . Upa tukuskami ka . ¿ Imapatak chara uianakusunchi ?
+43010021	~		Ikuti sugkunaka ninakurka : — Kuku waira iaikuskaka , manachar chasa rimakuntra . Kuku waira iaikuska kagpika , manachar pudintra , mana ñawi kawagkunata ambingapa .
+43010024	Imaurakamatak		Chiura judiukunaka , paita muiuchispa , tapurkakuna : — ¿ Imaurakamatak nukanchita charikunkangi , kammanda mana iachaspalla kangapa ? Kam kikin Cristo kagpika , nukanchita willarii .
+43010032	Maikan		Paika nirka : — Nukapa Taita imasa munakuskasina ruraspami kawachirkaikichita , nuka achka allilla ruragta . ¿ Maikan allilla ruraskamandatak nukata rumiwa wañuchiwangapa munanakungichi ?
+43010036	imapatak		Nukataka , Taita Dius kikin agllawaskamandami kai alpama kachamuwaska samurkani . Nuka : “ Taita Diuspa wambrami kani ” nigmandaka , ¿ imapatak niwanakungichi : “ Taita Diussina tukuspa , jiru llullaspami nikungi ” ?
+43011034	Maipitak		Nispaka tapurka : — ¿ Maipitak pambarkangichi ? — Taita turi — ainirkakuna — , akushi kawangapa .
+43011047	Imasami		Chasa willagriura , iaia sasirdutikuna i fariseokunaka tukui judiukunapa taitakunata tandachirkakuna . Sugllapi kaura , rimanakurka : — ¿ Imasami chi runata ruranchi ? Mana imaurapas kawaskasina mas achkami ruraku .
+43011056	Imatak		Chipika , Jesusta maskanakurka . Diuspa atun wasipi kagkunapas , kikinpura tapurinakurka : — ¿ Imatak iuianakungichi ? Kai atun puncha , ¿ paipas samungacha ?
+43012005	Imapatak		— ¿ Imapatak chi asitita kimsa patsa puncha ganaska bali kulkimanda mana katurka ? Chiwa pudirirka , mana ñi imapas iukaskakunata chi kulkikunata karangapa — .
+43012027	~		Kasapasmi Jesús nirka : — Kunaura , sungu nanagtami llakiwaku . Chimanda , ¿ kasachu nisa : “ Taitiku , kai llakiita kunaura anchuchiwai ” ? Mana . Chasapami samurkani — .
+43012034a	imapatak		Jesús chasa niuraka , chipi kagkunaka nirkakuna : — Ñugpamanda librupi kawaspaka , iachanchimi , Taita Dius agllaska Cristoka ñi imaurapas mana wañungapa kagta . Nigpika , ¿ imapatak kamka nikungi : “ Runa Tukuskata chaiakumi , atarichii tukungapa ” ? Chi Runa Tukuska , 
+43012034b	pimandatak		¿ pimandatak nikungi ?
+43012038a	pikunatak		chasaka , Isaías suti Santu Ispirituwa rimag imasa willaskasina tukugsamungapa . Kasami niraiá : Taitiku , ¿ pikunatak munarkakuna , nukanchi ima willaskata suma uiangapa ? Maillakunalla . Chasallata , atun Taita Diuspa iapa iachaita , 
+43012038b	pikunatatak		¿ pikunatatak kawachirka ?
+43013025	pitak		Chiura chi runaka , Jesuspagma mas kimirispa , tapurka : — Taita waugki , willawai : ¿ pitak ka ?
+43013036	maimatak		Chiura , Simón Pedroka tapurka : — Taita waugki , ¿ maimatak rikungi ? Chiura , Jesús ainirka : — Nuka maima ringapa kaskama , kunaura kam mana katiwai pudingapa kangichu . Kipamami katichiwankangi .
+43013037	imawantak		Pedroka tapurka : — Taita waugki , ¿ imawantak kunaura nuka mana kamta katingapa pudiiki ? Kammanda wañuchiipasmi tukuntrani .
+43014002	~		Nukapa Taitapagpi achka kaugsadirumi tia . Mana chasa tiagpika , timpumi willaikichita . Kunaura , paipagmami ringapa kani , kamkunamanda kaugsadiruta allichigringapa .
+43014005	Imasatak		Chasa uiaspaka , Tomás nirka : — Taita waugki , nukanchi mana iachanchi kam maima rikugta . ¿ Imasatak iachasunchi maikan ñambi ringapa kagta ?
+43014009	imawantak		Chiura Jesuska , paita ainirka : — Nuka , ña unaimi kamkunawa kani . Nigpika , ¿ manarachu kam nukata rigsiwangi ? Maikanpas nukata kawawag , nukapa Taitatapasmi ña kawag niraiá . Nigpika , ¿ imawantak kam niwakungi : “ Kamba taitata nukanchita kawachii ” ?
+43014022	imapatak		Chiura sug Judas , mana Iskariote kagka , tapurka : — Taita waugki , ¿ imapatak nikungi , kai alpapi tiaskakunallawa iuiagkunata mana kawarispalla , nukanchillata kawaringapa ?
+43016005	Maimatak		— Nuka mana ñugpa willarkaikichitachu , kamkunawa kaspa . Ikuti kunauraka , nukata kachamuwagpagmami ringapa kani . Ñi pipas mana tapuwangichichu : “ ¿ Maimatak rikungi ? ” .
+43016017	imatak		Chiuraka paita sug katiraiagkuna , kikinpura tapurinakurka : — Nukanchita chasa rimaika , ¿ imatak niraiá ? “ Sug mana unailla , nukata mana kawawangapa kangichichu . Sug ratumaka , ikutimi kawawangapa kangichi ” . Kasapasmi nirka : “ Nukapa Taitapagmami ringapa kani ” .
+43016018	imasik		Chi mana unailla , ¿ imasik niraiá ? Chasa rimai ima niraiagta mana iachanchichu .
+43018004	Pitatak		Jesuska , tukui imasa pasangapa kagta iachaspa , chaianakuskata kaillaiaspa , tapurka : — ¿ Pitatak maskanakungichi ?
+43018007	Pitatak		Ikutimi Jesuska tapurkakunata : — ¿ Pitatak maskanakungichi ? Chiura ainirkakuna : — Nazaretmanda Jesusta .
+43018011	~		Jesuska , Pedrota nirka : — Kamba ispadata churachidirullapita wakachii . Nukata chaiawakumi , nukapa Taita imasa niwaskasina iapa llakii iukangapa .
+43018021	Imapatak		¿ Imapatak nukata chasa tapuchiwakungi ? Uiawagkunata tapuchii , nuka ima paikunata rimagta . Paikuna iachankunami nuka ima rimaskata .
+43018023	imapatak		Chiura , Jesuska ainirka : — Imapi nuka mana allilla rimaska kagpika , chita willawai . Nuka allilla rimakugpika , ¿ imapatak piawakungi ?
+43018029	ima		Chimanda mandag Pilatoska , kanchama llugsispa , tapurkakunata : — Kai runa , ¿ ima mana allilla ruraskamandatak willawangapa samunakungichi ?
+43018035	Imatak		— Nuka , mana judíu kanichu — Pilatos ainirka — . Kamba alpamanda runakuna i iaia sasirdutikunami kamta kaima apamurkakuna . ¿ Imatak ruraspa purikurkangi ?
+43018038	imatak		Chasa uiaspa , Pilatoska nirka : — Kam chi sutipa kaskata willakuska , ¿ imatak niraiá ?
+43019009	maimandatak		Chi wasi ukuma ikuti iaikuspaka , Jesusta tapurka : — Kam , ¿ maimandatak kangi ? Jesuska , mana imapas ainirka .
+43019015	~		Paikunaka kaparirkakuna : — Anchuchii . Anchuchii . Kruspi churaspa wañuchii . Chiura , Pilatos tapurka : — ¿ Kamkunapa atun mandagtachu kruspi klabachisa ? Chiura , iaia sasirdutikunaka ainirkakuna : — Romamanda iaia mandagllami nukanchika iukanchi . Ñi sug mas mandag mana iukanchichu .
+43020013	imapatak		Paikunaka , Mariata tapurkakuna : — Kam warmisita , ¿ imapatak wakakungi ? Chiura , María ainirka : — Nukapa iaiatami apapuarkakuna . Nuka mana iachanichu maipi churapuagrigtakuna .
+43020015a	imapatak		Chiura , Jesuska tapurka : — Kam warmisita , ¿ imapatak wakakungi ? 
+43020015b	pitatak		¿ Pitatak maskakungi ? Mariaka , “ Wirta kawagchar ka ” iuiaspa , ainirka : — Turi , kam paita apaska kagpika , willawai : ¿ maipitak churagrirkangi ? , nuka apagringapa .
+43021012	pitak		Chiuramanda , Jesuska nirkakunata : — Samuichi mikungapa . Iaia Jesús kagta iachaspaka , ñi maikan katiraiagkuna mana tapurkakuna : “ Kam , ¿ pitak kangi ? ” .
+43021020	pitak		Katima tigraspaka , Pedro kawarka , Jesús iapa kuiaska kati kati katiraiagta . Pai runa karkami paskua atun puncha mikudiru mikunakuura , Jesusta kimirispa tapug , kasa nispa : “ Taita waugki , ¿ pitak kamta apichingapa ka ? ” .
+43021021	imatak		Paita kawaspaka , Pedroka Jesusta tapurka : — Taita waugki , paipas , ¿ imatak pasanga ?
+43021022	imatak		Jesuska ainirka : — Nuka ikuti samunkama kaugsakuchu nigpika , kamtaka , ¿ imatak ministí ? Kam , upalla nukata katiwai .
+43021023	imatak		Chasa niskata mana allilla uiaspa , Jesuswa tukuskakuna rimanakuskata iacharirka , kasa nigta : “ Kai Jesusta katiraiag , ñi imaurapas mana wañungapa kanchu ” . Chasaka , Jesús mana nirkachu . Kasami nirka : “ Nuka ikuti samunkama kaugsakuchu nigpika , kamtaka , ¿ imatak ministí ? ” .
+44001011	imapatak		— Galileamanda runakuna , ¿ imapatak awasinama kawanakungichilla ? Pai Jesús ña suma luarma sikaska , ikutimi samungapa ka ; imasami kamkuna sikai kawarkangichi : chasallata .
+44002008	imasamandatak		Nigpika , ¿ imasamandatak tukui nukanchi , sug rigcha sug rigcha uchulla kauramandata rimaikunata allilla uianakunchi ?
+44002012	Imamandasik		Ñi imaurapas mana kawaskasina uiaskasina kagmanda , tukuikuna , iapa ujnarispa , parijuma tapurinakurka , kasa nispa : — ¿ Imamandasik chasa pasariku ?
+44002037	imatak		Chasa uiaspaka , chipi kagkuna sungu nanagta llakirirkakuna . Nispaka , Pedrota i paipura Jesús kikin agllaskakunata tapurkakuna : — Niwaichi , taita waugkikuna : ¿ imatak nukanchi rurasunchi ?
+44003012a	imapatak		Paikunata kawaspaka , Pedroka kasami nirka : — Kamkuna Israelmanda taitakuna , ¿ imapatak kai runata nukanchiwanta ujnarispa kawanakungichi ? Nukanchipa iachaiwa ñi nukanchipa risaiwa mana kai runa purig tukugsamurkachu .
+44003012b	~		
+44004007a	~		Chasa tandariska kauraka , Pedro i Juanta chaiachigrispa , chaugpipi saiachispa , tapuchii kallarirkakuna : 
+44004007b	pitak		— ¿ Pitak kamkunata kachamurka , 
+44004007c	pipa		u pipa iachaiwatak kamkuna chasa ruranakungichi ?
+44004016	Imatak		kasa nispa : — ¿ Imatak chi runakunata rurasunchi ? Jerusalenpi tukui kaugsagkunami ña iachankuna , paikuna sug mana imaurapas kawaskasinata ruragtakuna . Chita , nukanchi mana piñarii pudingapa kanchichu .
+44004025a	Imapatak		Kammi [ Santu Ispirituwa ] nukanchipa ñugpamanda taita David kammanda allilla ruragta kasa rimachirkangi : ¿ Imapatak mana judíu kagkuna kaparispa killachirinakú ? 
+44004025b	Imapatak		¿ Imapatak iangalla imapas rurangapa iuiarinakú ?
+44005003	Imawantak		Chiura Pedroka , Ananiasta nirka : — ¿ Imawantak iaia kuku , kamba iuiaipi iaikurka , Santu Ispirituta llullachingapa ? Chi alpa katuska kulkita , chaugpimi pakalla wakachirirkangi .
+44005004	imapatak		Alpata manara katuura , ¿ manachu kamba karka ? Chasallata katuskauramanda , chi kulki , ¿ manachu kamba karka ? Nigpika , ¿ imapatak chasa iuiaringi llullachigsamungapa ? Mana runapurata llullachikungichu . Taita Diustami llullakungi .
+44005009	Imapatak		Chiura , Pedroka nirka : — ¿ Imapatak iuiarirkangichi , atun Taita Diuspa Ispirituta llullachingapa ? Uiamui . Kamba kusata pambangapa apagkuna , kanchallapimi samunakú . Kunauraka , kamtapasmi apangapa kankuna , pambangapa .
+44007026	Imapatak		— Chi kaiandi , Israelmanda iskai runakuna makanakuskatami Moisés tarigrirka . Tarigrispaka , pasinsiachispami nirka : “ Kamkuna , waugkindikunami kangichi . ¿ Imapatak rabiachirinakuspa makanakungichi ? ” .
+44007027	Pitak		— Chi paipura makanakui kallarigka , Moisesta tangaspa , nirka : “ ¿ Pitak kamta mandag churarka ; chasaka , nukanchita justisiangapa ?
+44007035	Pitak		— Chi Moisestami Israelmanda runakuna wabutiska karka . “ ¿ Pitak kamta mandag churarka ; chasaka , nukanchita justisiangapa ? ” niska karka . Chi Moisesmi Taita Dius , mandag i kispichig churarka , paipa anjilwa nina sacha rupakuskapi kawachispa .
+44007049a	imasa		Atun Taita Diuska , kasami ni : “ Sug luar , nuka mandangapa tiaridirumi niraiá . Alpaka , nukapa chaki sarudirumi ka . Nigpika , ¿ imasa wasitak munanakungichi saiachipuangapa ? 
+44007049b	Maikantak		¿ Maikantak nuka samadiru kapuanga ?
+44007052	maikankunatatak		Kamkunapa ñugpamanda taitakuna , Santu Ispirituwa rimagkunata , ¿ maikankunatatak mana llakichispa wañuchirkakuna ? Chi rimagkunaka willaskami karkakuna , alli iuiag Cristo samungapa kagta . Chi alli iuiag runa ña samuuraka , kamkunaka apichispami wañuchii nirkangichi .
+44008031	imasatak		Chiura , chi runaka ainirka : — Ñi pipas mana iachachiwankunachu . Nigpika , ¿ imasatak nuka iachasa ? — . Nispaka , Felipeta mañarka — Diusmanda sikamui , sugllapi nukawa tiaringapa .
+44008033	~		Justisiakunaka , paita wabutispa , mana uiaspallami wañuchirkakuna . Pai musu kagpita , kaugsaitami anchuchipurkakuna . Chimandami wambra , mana paita tiapú .
+44008034	~		Chasa kawaspa willaura , chi runaka Felipeta tapurka : — Diusmanda willawai : chi rimag , ¿ kikinmandachu chasa rimarka ; u sugmandachu nirka ?
+44008036	~		Chasa ñambi rinakuskapika , iaku tiaskapi chaiagrirkakuna . Chiura , chi runaka nirka : — Kaipi iakumi tia . ¿ Manachu nukatapas pudirintra baugtisawangapa ? [
+44009004	imapatak		Punchaiachigllapi , Sauloka alpapi urmagsamurka . Chiuraka , paita rimai uiarigsamurka , kasa nispa : — Saulo , Saulo , ¿ imapatak puchukawangapa iuiaillawa purikungi ?
+44009005	pitak		Chiura , Saulo tapurka : — Kam Taitiku , ¿ pitak kangi ? Chasa tapuura , chi rimagka ainigsamurka : — Nukami kani Jesús . Nuka kikintami puchukawangapa iuiaillawa purikungi . [
+44009006	imatak		Chasa uiaspaka , Saulo , dimanchai chugchuspa , tapurka : — Taitiku , ¿ imatak nuka rurangapa munakungi ? Chiura , Iaia Jesuska ainirka : ] — Atarispa rii . Chi puibluma iaikugrii . Chipimi kamta ningakuna , ima rurangapa chaiagta .
+44010004	imatak		Chasa kawaspaka , Kornelio iapa mancharigsamurka . Nispaka , tapurka : — Kam taitaka , ¿ imatak munakungi ? Chiura , anjilka ainirka : — Taita Dius , kam ima mañakuskatami uiarka . Chasallata , iapa ministidukunata kulki karakuskatami kawarka .
+44010021	Imapatak		Chiura Pedroka , uraikuspa , chi runakunata nirka : — Nukami kani kamkuna maskanakuska . ¿ Imapatak samunakungichi ?
+44010029	imapatak		Chimandami , kamkuna pusamuwangapa chaiagrigllapi , mana ñi ima piñarispalla samurkani . Chasamandami iachangapa munani : ¿ imapatak kaiawanakungichi ?
+44010047	imamandatak		— Kai runakunapas , Santu Ispirituta ñami chaskirkakuna , nukanchisinallatata . Nigpika , ¿ imamandatak manara baugtisaringakuna ? — .
+44011017a	imatak		Nigpi , imasami nukanchi Iaia Jesucristomanda suma iuiaskakunata , Taita Dius paipa Ispirituta karagsamurka : chasallatami paikunatapas kararka . Nigpika nuka , ¿ imatak kani , Taita Dius kikin munakuskata : “ Mana ” ningapa ?
+44011017b	~		
+44012018	~		Pakariuraka , suldadukuna , kawagrispa , mana iacharkakuna Pedro ima tukugta . Chimanda , paipura iapa mancharirkakuna .
+44013025	~		Juan ña wañuchii tukungapa kauraka , nirkami : “ Nuka mana kanichu kamkuna imasa nukamanda iuianakuskasina . Nukapa katika , sugmi samungapa ka . Paita nuka mana pudinichu , kungurispa , paipa chakikunapi churaraiaska wataskata paskapungapagllapas ” .
+44014015	imapatak		— Waugkikuna , ¿ imapatak chasa ruranakungichi ? Nukanchipas , kamkunasina ianga runakunami kanchi . Kamkunata kai Alli Willaita willangapami samurkanchi , kamkuna kai ianga kawariska ruraikunata sakispa , sutipa kaugsa Taita Dius tiaskawa tukugsamungapakuna . Paimi ka sug luarta , kai alpa luarta i lamar iakuta rurag . Tukui ima chikunapi tiaskakunapas , paillatatami ruraska ka .
+44015010	imapatak		Chasa kagmandaka , ¿ imapatak kunauraka Taita Dius ima ruraskamanda mana allilla rimanakungichi ? Ñi nukanchipa ñugpamanda taitakuna ñi nukanchipas mana pudinakurkanchichu , Moisés tukui ima niskata ruraspa kaugsangapa . Kunauraka chi Jesuswa tukuskakunataka , ¿ imapatak chi mana pudingasina mandaikunata aparichigsina rurangapa munanakungichi ?
+44016030	imatak		Kanchama llugsichispaka , tapurka : — Taita waugkikuna , ¿ imatak nuka rurasa , kispiriska kangapa ?
+44017018	Imasatak		Iacha Epikúreo i Estoikos sutikunawa iachaikugkunawapasmi Pablo chasallata rimanakurka . Pablo nikurka : — Jesús wañuskaka kaugsarirkami . Chasallatami nukanchipas , tukui wañuskakuna kaugsaringapa kanchi . Chasa nigmanda , paipura tapurinakurka : — ¿ Imasatak kai iapa rimadur rimaku ? Ikuti sugkunaka , mana iachaspalla ninakurka : — Paika , mainigmanda sug diuskunamanda willakugsinami uiarí .
+44017019	~		Chimanda , Pablota mañarkakuna , Areópago suti atun tandaridiru wasima ringapa , kasa nispa : — Munantranchi , kam sug rigcha iachachikuskata iachangapa .
+44019003	ima		Chiura , Pabloka tapurka : — Nigpika , ¿ ima iuiarispatak baugtisariska kangichi ? Chiura ainirkakuna : — Juan iachachiskata iuiarispami baugtisarii tukuska kanchi .
+44019015	Pikunachar		Chi kuku wairaka , paikunata kasa ainirka : — Jesusta i chi Pablo pi kagta , nuka rigsinimi . Ikuti kamkunataka mana rigsiikichitachu . ¿ Pikunachar kangichi ? — .
+44019035	~		Chipi mandagpa iskribingapa aidagka , tukuikunata rimaspa upallachispaka , kasami nirka : — Kam Efesomanda kagkuna , ¿ manachu tukuikuna iachankuna : nukanchi Efesomandakuna iukanchimi , Artemisa atun mama diusta iuiaridiru wasita i kikinpa imajin awa luarnigmanda urmaskata mana imapas pasaringapa kawanga ?
+44021013a	Imapatak		Chiura , Pabloka ainirka : — ¿ Imapatak kamkuna wakaspa llakichiwanakungichi ? Nukaka suiakunimi , Jerusalenpi wataskalla kangapa : mana . Munakunimi , Iaia Jesusmanda wañuchiipas tukungapa .
+44021013b	~		
+44021022	imatak		Paikuna chasa uiaskamandaka , nukanchika , ¿ imatak nisunchi ? Paikuna iachangapami kankuna kam kaipi chaiamugta .
+44021033a	pitak		Chiura mandagka , Pablopagma chaiagrispa , paita apichispa , nirka , iskai kadinakunawa watachukuna . Nispaka , chipi kagkunata tapurka : — Kai runa , ¿ pitak ka ? 
+44021033b	imatak		¿ Imatak rurakurka ?
+44022007	imapatak		Chiwanka , alpamami urmarkani . Chiura , sug rimaika uiariwagsamurka , kasa nispa : “ Saulo , Saulo , ¿ imapatak puchukawangapa iuiaillawa purikungi ? ” .
+44022008	pitak		— Nukaka tapurkani : “ Kam Taitiku , ¿ pitak kangi ? ” . — Chasa tapuura , ainiwagsamurka : “ Nukami kani Nazaretmanda Jesús . Nuka kikintami puchukawangapa iuiaillawa purikungi ” .
+44022010	imatak		Chiura , nuka tapurkani : “ Taitiku , nukaka , ¿ imatak iukani ruranga ? ” . — Chiura , Iaia Jesuska ainiwarka : “ Atarispa , Damaskoma rii . Chipimi kamta ningakuna , ima rurangapa kagta ” .
+44022016	imatak		Kunauraka , ¿ imatak suiakungi ? Atarispa , baugtisarii ; chasaka , Iaia Jesusmanda iuiarispa , kam pandariskakunata pasinsiai tukungapa ” . Chasami Ananías niwarka .
+44022026	~		Chasa uiaspa chi kapitanka , mandagpagma iaikuspa , willagrirka : — Chi runa , Romamandasi ka . Manachar chaiaku , paita asutingapa .
+44023003	imapatak		Pabloka ainirka : — Kamtami Taita Dius piangapa ka . Kam , mana suma llunchiska wasita iuraiachiskasinami kangi . Kam tiakungimi , Moisés imasa niraiaskapi iachaspa , justisiai rurawangapa . Nigpika , ¿ imapatak imasa justisiai rurai niraiaskasina mana allilla ruraspa piachiwakungi ?
+44023009	imatak		Chasaka , iapa uiarii chaiagsamurka . Chiura fariseopuramanda sug iachachig taitakunaka , atarispa , rabiawa kaparirkakuna : — Kai runata ñi ima pandariska mana tarirkanchichu . Nukanchi , ¿ imatak iachasunchi ? Maikan ispíritu u anjilpaschar paita chasa rimagsamurka .
+44023019	Imatak		Chiura chi mandagka , musuta makimanda apispa , sugsinama sapalla pusaspa , tapuchirka : — ¿ Imatak willawangapa kangi ?
+44026008	imapatak		Kamkunaka , ¿ imapatak iuianakungichi , Taita Dius , wañuskakunata kaugsachingapa mana pudigta ?
+44026014	imapatak		Tukuikunami alpama urmarkanchi . Chiuraka , hebreo rimaiwa uiariwagsamurka , kasa nispa : “ Saulo , Saulo , ¿ imapatak puchukawangapa iuiaillawa purikungi ? Imasami wagrata tawinawa takaura , tawinata aitaspa , nanachirí : chasallatami kam kikin rurarikungi ” .
+44026015	pitak		— Chiura , nuka tapurkani : “ Kam Taitiku , ¿ pitak kangi ? ” . — Chasa tapuura , Iaia Jesuska ainiwarka : “ Nukami kani Jesús . Nuka kikintami puchukawangapa iuiaillawa purikungi .
+45002017	~		Maikan kampura nichu : “ Judiumi kani ; Moisés ima rurangapa willaskatami iuiarini ” . “ Taita Diuspallami kani ” iuiarispa , atunmi tukungi .
+45002021	imapatak		Kam chasa : “ Sugkunata iachachigmi kani ” iuiarispaka , ¿ imapatak kam kikin mana allilla iuiaringi ? “ Mana sisakungi ” nikuspaka , kam kikin , ¿ imapatak sisangi ?
+45002028	~		Sugkunapa kawaillapi alli iuiag kagta kawarigka , mana alli judíu niraianchu . Chasallata , judiukunapa marka kuirpupi churaraiag , chillawa mana niraianchu , sutipa judíu kagta .
+45003001a	imapitak		Chasa niraiagpika , judíu kagpika , ¿ imapitak alli ningapa niraiá ? Chasallata judiukunapa marka churaska kagpika , 
+45003001b	imapitak		¿ imapitak mas allilla kapunga ?
+45003003	imatak		Sug judiukuna paipa rimaita mana uiangapa munagpikunaka , chika , ¿ imatak niraiá ? ¿ Niraianchu , Taita Dius kikin , pai ima rurangapa niskata sakingapa kagta ?
+45003005	imatak		Kunauraka , runakunapa iuiaiwami rimani . Sugka nichu : “ Nukanchi mana allilla ruraskakunamandami Taita Dius alli justisiag kagta kawachirí ; chika , ¿ imatak niraiá ? ¿ Niraianchu , Taita Dius , nukanchiwa rabiarispa , pandarikugta ? ” .
+45003006	imasatak		Ñi imapipas manima . Taita Dius kikin pandarii iukagpika , ¿ imasatak pudintra , kai alpapi , kaugsagkunata allilla justisiangapa ?
+45003007a	~		Kasapas iuiarispa nichu : “ Nukapa llullai balintra , Taita Dius mana llulla kagta mas suma iacharingapa . Chasakuna baligpika , 
+45003007b	imawantak		¿ imawantak niwangapa ka , nuka pandariska kagta ?
+45003008	~		Chasapaka , nukanchi jiru ruraspalla kaugsanakusunchi . Chasapika , paimanda tukui allillami tukugsamungapa ka ” . Chasallatami sugkuna , nukanchi iachachinakuskata juchachispa kankuna . Paikunatami chaiaku , diltudupa ninama sitangapa .
+45003009	~		Chasa kagpika , nukanchi judiukuna , ¿ sugkunamanda mas allichu kanchi ? Ñi imapas manima . Ñami nirkaikichita , judíu i mana judíu kagkuna , tukuikunami pandariiwa wataskasina kankuna .
+45003027a	~		Chasa kagpika , ¿ pudinchichu , Taita Diuspa ñawipi atun tukungapa ? Mana pudinchichu . 
+45003027b	imamanda		¿ Imamanda ? 
+45003027c	ima		¿ Moisés ima niskata ruraskamanda ? Manima . Jesuswa suma iuiarispami mana pudinchi , Taita Diuspa ñawipi atun tukungapa .
+45004001	imasatak		Chasa kagpika , ¿ imasatak niipa , nukanchipa ñugpamanda achala taita Abraham mana pandarig niraiagta ?
+45004003	~		Ñugpamanda librupi , kasami Abrahammanda willaraiá : Abrahamka , Taita Dius ima niskata iuiarispami karka : “ Chasami tukunga ” . Chimandami pai mana pandarig niraiá .
+45004010	Imauratak		¿ Imauratak paita nirka , mana pandarig niraiagta ? ¿ Judiukunapa marka ña churaska u manara churaska kaurachu chasa nirka ? Churaska kaura , manima ; manara churaska kagpitami chasa nirka .
+45005010	~		Nukanchi manara Taita Diusta munag kaurami nukanchiwa i pai kikinwa pasinsiachigsamurka , paipa wambra wañuskamanda . Chasa pasinsiachinakui tukuskamanda , Cristopa kaugsaiwami tukurii puncha nukanchita kispichingapa ka .
+45005021	~		Imasami runakuna , pandariikunawa mandai tukunkuna wañunkama : chasallatami Taita Diuspa suma kuiaiwa mandai tukunkuna ; chasawaka , mana pandarig niraiaspa , nukanchipa Iaia Jesucristowa mana puchukaridiru suma kaugsaita iukangapa .
+45006001	~		Chasa kagpika , ¿ kasachu nisunchi : “ Pandariilla apasunchi ; chasaka , Taita Diuspa suma kuiaita mas nukanchita kawachingapa ” ?
+45006002	~		Ñi imapas manima . Mana mas pandaringapa wañuskasinami kanchi . Chasa kaspaka , mana iukanchichu , ikuti pandarispa kaugsanakunga .
+45006015	~		Chasa kaspaka , ¿ kasachu nisunchi : “ Moisés niskawa ña mana wataskasinami kanchi . Taita Diuspa suma kuiaipi wataraiaskasinami kanchi . ¿ Chimandachu pandarisunchi ? ” ? Ñi imapas manima .
+45006021	imatak		Chi jiru ruraskamanda , ¿ imatak chaskirkangichi ? Chasa ruraskakunamandaka , kunaura kamkunata iapa pingaipami iuiachiku . Chasa ruragkunaka , wañuillami chaskinkuna .
+45007007	ima		Chasa kagpika , ¿ nisunchichu , Moisés ima rurangapa willaska , pandarii niraiagta ? Ñi imapas manima . Mana chasa kagpipas , Moisés willaska mana tiagpika , manami iachangapa karkani ima ruraikuna pandarii niraiagta . Moisés niskapi willaraiá : “ Sugkuna iukaskakunata mana munaringi ” ; mana chasa willaraiagpika , manami iachangapa karkani sugkunapata munarii , pandarii niraiagta .
+45007024	Pitak		¡ Ai nukajim , imachar pasasa ! ¿ Pitak pudí , kai kuirpu diltudupa wañuima chaiachiwakugriskata kispichiwangapa ?
+45008024	imatak		Chasa suianakuskawami kispichii tukurkanchi . Ima suianakuskata ña makipi charinakuspaka , ¿ imatak mas suianakusunchi ?
+45008031a	imatak		Chasa kagpika , ¿ imatak nisunchi ? Taita Dius nukanchiwa kagpi , 
+45008031b	pitak		¿ pitak pudinga , nukanchimanda kuntra kanga ? Ñi pipas manima .
+45008032	~		Taita Diusmi kikinpa wambrata mana michaspalla kachamurka , tukuikunamanda wañuchii tukungapa . Nigpika , ¿ manachu paiwa nukanchita tukui allilla chasallata karangapa ka ?
+45008033	pitak		Taita Dius kikin agllaskakunata , ¿ pitak pudinga , paikuna ima pandariikuna iukagta ningapa ? Ñi pipas manima . Taita Dius kikinmi timpu paikunamanda niska karka : “ Cristo wañuchii tukuskamandami mana pandarig niraiangapa kankuna ” .
+45008034	pitak		Nigpika , ¿ pitak pudinga , nukanchita diltudupa ninama sitangapa ? Ñi pipas manima . Jesucristo , wañuchii tukuspa kaugsarispami Taita Diuspa alli ladu kagrí ; paimi nukanchimanda tukui sumaglla mañaku .
+45008035	pitak		Cristo nukanchita iapa kuiagmanda , ¿ pitak pudinga , nukanchita paiwa kaskamanda anchuchingapa ? Llakii , ñi nanai , ñi iarkai , ñi mana katanga iukai , ñi manchai , ñi jiru iuiaspa kalpachigkuna ñi wañuchigkuna , ñi pipas mana pudingapa kanchu , Cristowa kaskamanda nukanchita anchuchingapa .
+45009014	imatak		Chasa agllaskamandaka , ¿ imatak nisunchi ? Taita Dius chasa agllaspaka , ¿ mana allillachu rurarka ? Ñi imapas manima .
+45009019a	imapatak		Chimanda , kamka niwankangichar : “ Chasa kaspaka , ¿ imapatak Taita Dius , maikan runatapas ni : ‘ Mana allilla ruragmi kangi ’ ? Pai ima rurangapa munaskataka , 
+45009019b	pisik		¿ pisik pudinga : ‘ Chitaka mana rurakui ’ ningapa ? ” .
+45009020a	imatak		Kam runa , ¿ imatak kangi , Taita Diusta imasa rurakuskata tapuchingapa ? 
+45009020b	~		Alpata ruraska mangaka mana pudingapa ka , ruragta tapuchingapa : 
+45009020c	Imapatak		“ ¿ Imapatak chasa rurawarkangi ? ” .
+45009021	~		Alpata imapas ruragka , ¿ manachu pudí , chi alpallatata sug kuashagsina atun punchakuna upiadiru ruranga ; ikuti sugka , ianga punchakuna upiadiru ruranga ?
+45009022	~		Jiru ruraspa , diltudupa ninama sitai tukungapa kagkunata , Taita Diusmi suiarka , mana piñakuspalla ; chasaka , pai rabiarispa , tukui pudig kagta kawachingapa .
+45009023	~		Chasallata , sugkunamanda llakii iukaspa , ñugpamandatami agllarka , paiwa suma puncha luarpi kagringapa ; chasaka , pai askurinti iapa atun suma kagta kawachingapa .
+45009024	~		Chi agllaskapi , nukanchipasmi kanchi . Judiupurakunapi i mana judíu kaskakunapipasmi agllarka .
+45009030	imatak		Chasa kagmandaka , ¿ imatak nisunchi ? Mana judíu kagkuna , Taita Diuspa ñawipi alli kangapa mana maskanakugpipas , paikuna Cristowa suma iuiarispa kagmandami mana pandarig tukugsamunkuna .
+45009032	Imapatak		¿ Imapatak mana chasa pudirkakuna ? Cristowa iuiaringataka , Moisés ima rurangapa willaraiaskallata katichiraiaspami mana pudirkakuna , Taita Diuspa ñawipi allilla tukungapa . Imasami runakuna , rumipi takarispa urmankuna : ñallapas chasallata Cristo kruspi wañuskamanda , paikunata iapa mana sumami uiarigsamurka .
+45010006	Pitak		Ikuti Cristowa suma iuiarispa , mana pandarig niraiangapa kaskamandaka , kasami willaraiá : “ Kamba iuiaipi mana ningi : ‘ ¿ Pitak sug luarma sikanga ? ’ , ” Cristota nigringapa : “ Uraikumui ” .
+45010007	Pitak		“ Chasallata , kamba iuiaipi kasapas mana ningi : ‘ ¿ Pitak alpa ukuma uraikunga ? ’ , ” Cristota nigringapa : “ Wañuskakunapagmanda llugsimui ” .
+45010008	~		Chasapaka , kasami willaraiá : Diuspa Rimai , kamba ladullapimi ka . Kam kikinpa simiwami pudingi rimanga . Kam kikinpa iuiaiwami pudingi iuiaringa . Chi Rimaitami willanchi , Cristowa suma iuiaringapa .
+45010014a	imasatak		Paiwa mana iuiarispalla kaugsanakuspaka , ¿ imasatak paita mañangakuna ? Paimanda ñi ima mana uiaspaka , 
+45010014b	imasatak		¿ imasatak paiwa iuiaringakuna ? Ñi pipas mana paikunata Alli Willaita willagrigpikunaka , 
+45010014c	imasatak		¿ imasatak iachangakuna ?
+45010015	pitak		Paikunapagma Taita Dius ñi pitapas mana kachagpika , ¿ pitak willagringa ? Chasallatami willaraiá , kasa nispa : Maikanpas Alli Willaita willangapa chaiamugpika , iapa allimi uiarigsamú .
+45010016	pikunatak		Maituku Alli Willaita willanakugpipas , mana tukuikuna munankunachu , chi willaita uiangapa . Chasallatami Isaías kasa niska karka : Taitiku , ¿ pikunatak munarkakuna , nukanchi ima willaskata suma uiangapa ? Maillakunalla .
+45011004	~		Chiura Taita Diuska , kasami paita ainirka : Baal suti ianga diuspa ñugpa ladu mana kunguringapa , kanchis waranga runakunatami nukamanda wakachirirkani .
+45011007	imatak		Chasa kagmandaka , ¿ imatak nisunchi ? Israelmanda runakuna maskarinakurka , mana pandarig tukungapa . Nigpika , manima chasa tarirkakunachu . Taita Dius agllaskakunallami mana pandarig tukugsamurkakuna . Ikuti chi sugkunataka paikunapa iuiai tutaiachiskasinami tukugsamurkakunata .
+45011015	imatak		Taita Dius , judiukunata wabutispa , mana judiukunatami agllarka ; chasaka , tukuikuna paiwa pasinsiachirispa kangapakuna . Judiukunata Taita Dius ikuti kaiauraka , ¿ imatak niraiangapa ka ? Wañuska kaspa , kaugsariskami niraiangapa ka .
+45011018	~		Chimanda , ¡ ujalallapas iuiakungi : “ Alli olivos sachamanda kuchuska malkisinakunamanda mas allimi kani ” ! Chasa iuiaspaka , iuiarii , kamka mana anguta charig kagta . Chasapaka iuiarii : angukunami kamta charig kankuna .
+45011033a	~		Taita Dius , ña askurinti sumami kuiá . Ña askurinti iuiai iachami ka . Pai ima iuiakuskata , ñi pipas mana iachangapa pudinchichu . Mana imapas pudinchichu , pai ima rurakuskata iachangapa ima niraiagta .
+45011033b	~		
+45011034a	~		Chasallatami ñugpamanda librupi willaraiá , kasa nispa : Atun Taita Dius ima iuiakuskata , ñi pipas mana iachanchu . 
+45011034b	~		Paita ñi pipas mana imapas iuiachinchu .
+45011035	~		Ñi pipas mana paita imapas ñugpa kararkachu , pai kutichingapa .
+45014004	imapatak		Kam , ¿ imapatak sug patrunpa lutrinta ningi : “ Mana allilla ruraspami kangi ” ? Pai allilla u mana allilla rurakuskata , kikin patrunmi iuká kawanga . Chasa kagpipas , Iaia Jesusmi paita aidanga , allilla tukugsamungapa . Chimandami mikug u mana mikug kaskakunata pai ningapa ka : “ Allillami ka ” .
+45014010a	Imapatak		Nigpika kamka , ¿ imapatak Cristowa tukuskakunata nikungi : “ Kam , mana allilla ruraspami kangi ” ? 
+45014010b	Imapatak		¿ Imapatak paikunata wabutikungi ? Tukuikunami iukanchi , Taita Diuspagma chaiagringa . Chipimi allilla u mana allilla ruraskakunata kawachii tukusunchi .
+46001020a	~		Kai alpamanda iachaikunaka , 
+46001020b	~		Taita Diuspa ñawipi upakunapa iuiaisinami niraiá . 
+46001020c	~		Chimandaka iachakuna , iachachigkuna i kai alpamanda iachaiwa sug rigcha sug rigcha rimanakugka , iangami ka ; ñi imapa mana balinchu .
+46002011	maikan		Ñi maikan runapas , sug runa ima iuiakuskata mana iachangapa pudinchu . Chi kikin runapa iuiai ispiritullapimi iachá . Chasallata ñi pipas , Taita Dius ima iuiakuskata mana iachangapa pudinchichu . Diuspa Ispiritullami iachá .
+46002016a	pitak		Chasallatami ñugpamanda librupi willaraiá , kasa nispa : Atun Taita Diuspa iuiaita , ¿ pitak rigsí ? 
+46002016b	pitak		¿ Pitak paita imapas iachachingapa pudí ? Ñi pi . Chasa willaraiagpipas , nukanchika Cristo iuiachiskatami iuianchi .
+46003005a	imatak		Pablo i Apoloska , ¿ imatak kanchi ? Iaia Jesús ima niskata willagkunallami kanchi . Nukanchita uiaspallami kamkuna paiwa iuiarirkangichi . Imasami Iaia Jesús , nukanchita sug sugta mingarka : chikunatami ruranchi .
+46003005b	~		
+46004007a	pitak		Kam chasa niskataka , ¿ pitak “ Sugkunamanda mas allimi kangi ” niku ? Kamta tukui ima Santu Ispíritu karamuskaka , 
+46004007b	~		¿ manachu Taita Dius karamuska ka ? Pai tukuita karamuska kagpika , 
+46004007c	imapatak		¿ imapatak kam kikin ruraskasina iuiaspa , atun tukukungi ?
+46004021	imatak		Nuka kamkunapagma chaiagriuraka , ¿ imatak munangichi : asutigringapa u iapa kuiaspa , mana piñaspalla kawagringapa ?
+46005002	imapatak		Kamkunapura chasa jiru ruraspa kaugsanakugpika , ¿ imapatak atun tukuspa iuianakungichi ? Chasapaka iukangichimi , wañuskamanda llakispa , wakanakugsina kanga . Chi jiru ruragta iukangichimi , kamkunawa kaskamanda llugsichinga .
+46005012	~		Nukata mana chaiawakunchu , Iaia Jesusta manara rigsiskakunata justisiangapa . Jesuswa tukuskakunatami iukangichi justisianga .
+46006001	imapatak		Kam kikinpura imapipas rabiachinakuspa kagpi , ¿ imapatak mana Taita Diusta rigsig justisiakunata willanakugringichi ? Iukangichimi Taita Diuspalla kagkunata willangakuna .
+46006003	~		¿ Manachu iachangichi , mana alli anjilkunatapas nukanchi justisiangapa kagtakuna ? Chasa justisiangapa kaspaka , pudisunchimi kai kaugsaipi ima rabiachinakuskata pasinsiachingapa .
+46006004	imapatak		Chimanda , kam kikinpura kai kaugsaipi imajmandalla rabiachinakuskapika , ¿ imapatak Cristowa tukuskapura mas uchulla niraiagpipas justisiangapa mana willanakungichi ?
+46006007a	imapatak		Kam kikinpura chasa rabiachinakuiwa tiagmandaka , imapipas mana allilla tukugsamunchu . Maikan kam kikinpura sug waugkindita mana allilla ruragpika , ¿ imapatak mana ianga kawangichi ? 
+46006007b	~		Maikan imapas kichugpika , paita chasallata ianga kawaichi .
+46006009	~		¿ Manachu iachangichi , Dius suma mandakuskapi , mana alli ruragkuna manima iaikugringapa kagtakuna ? Mana pandariichi . Kari warmiwa jiru ruraspa kaugsagkuna , ñi ianga diuskunata kungurispa muchagkuna , ñi sugpa warmiwa kariwa siririgkuna , ñi karikuna warmisina tukuspa kaugsagkuna , ñi karipura warmiwasina pandarigkuna ,
+46006016	~		¿ Manachu iachangichi , maikanpas karisapa warmiwa suglla tukugka , suglla kuirpusina kagta ? Chasallatami ñugpamanda librupi willaraiá , kasa nispa : Kari warmiwa iskandikuna , suglla kuirpusinami tukunkuna .
+46006019	~		¿ Manachu iachangichi , kamkunapa kuirpu , Santu Ispíritu kaugsadiru kagta ? Santu Ispiritutami Taita Dius kamkunata karamurka . Pai Santu Ispiritumi kamkunapi kaugsaku . Chimanda , kam kikinkuna mana kangichichu kam kikinkunamanda .
+46007016a	imasatak		Kam warmi , ¿ imasatak iachankangi , kamba kusata Cristomanda kispichii tukungapa kagta ? Chasallata kam kusapas , 
+46007016b	imasatak		¿ imasatak iachankangi , kamba warmita Cristomanda kispichii tukungapa kagta ?
+46009007a	~		Ñi maikan suldadu tukuspa , mana kikinpa kulkiwa kaugsangapa kanchu . Pipas ubas u ima mikui tarpuspa iukaskata , ¿ manachu pukuura pallaspa mikungapa pudí ? Ubijakuna iukagpas , 
+46009007b	~		¿ manachu lichi kapispa upiangapa pudí ?
+46009007c	~		
+46009018	imatak		Chasa willaspa puriskamanda , ¿ imatak mañaspa kani ? Mana imapas mañaspallami willaspa purini . Alli Willaita willaspa puriskamanda , ima mañangapa pudispapas , mana imapas mañanichu .
+46010019a	~		Chasa nispaka , mana niikichitachu ianga diuskuna ima niraiagta , ñi chi diuskunata kamariku karaska aichaka , sug aichakunamandapas mas bali kagta .
+46010019b	~		
+46010019c	~		
+46010029	imapatak		Kam kikinpa iuiaimandaka mana chasa niikichitachu . Chi willag iuiakumi , chi aichata mikuspa , sug diusta iuiarigsina ruragta ; chimandami chasa niikichita . Chasa kagpipas , sugka nichu : “ Nuka ima rurai munakuskataka , ¿ imapatak mana chasa rurai pudini , sug runa sug rigcha iuiakugmanda ?
+46010030	imapatak		Nuka Taita Diusta : ‘ Pai Siñur ’ nispa mikugpika , ¿ imapatak nuka mikuskamanda pipas piñawanga ? ” .
+46011022	Imatak		Chasa ruranakuspaka , ¿ manachu Taita Diuswa tukuskakunata wasa churagsina ruranakungichi ? ¿ Manachu mana mikui iukagkunata pingaiachigsina ruranakungichi ? ¿ Manachu wasi iukangichi , chipika mikungapa i upiangapa ? ¿ Imatak nisakichita ? ¿ Nisakichitachu : “ Allillami ruranakungichi ” ? Chasa ruranakuskata niikichitami : “ Mana allilla ruranakungichichu ” .
+46012017a	~		Tukui kuirpu ñawilla kagpika , manachar uiangapa pudirintra . 
+46012017b	~		Chasallata , tukui kuirpu rinrilla kagpika , manachar asnangapa pudirintra .
+46012019	~		Kuirpupi suglla suti tiagpika , manachar kuirpu kantra .
+46014006	~		Chasaka , taitakuna i mamakuna , nuka kamkunapagma chaiagrispa , mana iachaska rimaikunawa rimagpika , ñi imapas mana kamkunamanda allilla tukunchu . Ikuti imasa Taita Dius muskui ukupisina kawachiwaskata u allilla iachaskata iachachispa , paipa Ispíritu iuiachiwaskata willagpika , kamkunamanda mas allimi tukú .
+46014007	~		Flaugta , arpa i sug rigcha uiachidirukuna , tukuikuna sugllasina uiarinakugpika , mana iacharintrachu maikanta uianga .
+46014008	~		Chasallata , sug puibluwa sug puibluwa wañuchinakuima llugsingapa bututu mana sinchi pukui uiarigpika , ñi pipas manachar allichirintrakuna , chi wañuchinakuima ringapa .
+46014009	imasatak		Chasallata kamkunapas , uiagkuna mana iachaska rimaiwa rimanakugpika , ¿ imasatak iachangakuna ima niraiagta ? Iangallami wairata rimagsina kantra .
+46014015	imatak		Chasa kagpika , ¿ imatak iukani ruranga ? Iukanimi , nukapa ispirituwa Taita Diusta mañakuura , nukapa iuiaiwapas sugllapi kanga . Chasallata nukapa ispirituwa kantakuura , iukanimi nukapa iuiaiwapas sugllapi kantakunga .
+46014016	imasatak		Kamba ispiritullawa Taita Diusta : “ Pai Siñur ” nispa kagpika , mana iachagka , kam chasa nikuskata uiaspa , ¿ imasatak pudinga kamwa ningapa : “ Chasa kachu ” ?
+46014026	~		Nigpika , kam taitakuna i mamakuna sugllapi tandariska kauraka , kasa rurangichi . Kampura sugkuna ima suma kantu birsiachu , ima iachachichu , ima muskui ukupisina Taita Dius kawachiska willachu , mana iachaska rimaiwa ima rimachu , chi rimaskaka ima niraiaskata iachaspa willachu : chasa ima ruraspapas , tukuikuna mas alli suma iuiai iuiachinakungapa kachu .
+46014036	~		Kasapas iuiariichi : Diuspa Rimaita willangapaka , mana kamkunawa kallarirkachu . Mana kamkunamandalla chaiarkachu .
+46015012	imapatak		Cristo wañuspa , kaugsariska kagtami nukanchi willanchi . Nigpika , ¿ imapatak kamkunapura sugkuna ninakú : “ Wañuskakuna mana mas kaugsaringapa kankunachu ” ?
+46015029a	~		Kasapas . Wañuskakuna mana mas kaugsaringapa kagpika , 
+46015029b	imapatak		¿ imapatak sugkuna , wañuskakunapa kuinta baugtisarinakú ? 
+46015029c	~		Chasa baugtisarispaka , iangachar rurantrakuna .
+46015030a	~		Nukanchipas chasallata mana ikuti kaugsaringapa kaspaka , 
+46015030b	imapatak		¿ imapatak imaurapas purinakunchi , wañuchiwangapa munanakugta iuiarispa ?
+46015032	~		Nukaka Cristomanda Efeso puiblupi rabiag sachukumanda animalkunasinawa makanakurkani ; kai alpapi tiaskakunallawa iuiaspa chasa makanakugpika , ñi imapa mana baligsinami ka . Wañuskakuna mana kaugsaringapa kagpika , imasami sugkuna ninkuna : “ Mikuspa upiaspa kusikusunchi ; sug punchakuna ñami wañusunchi ” .
+46015035a	imasatak		Sug tapuchu : “ Wañuskakunaka , ¿ imasatak kaugsaringapa kankuna ? 
+46015035b	ima		¿ Ima kuirpuwatak tukugsamungapa kankuna ? ” .
+46015055a	maipitak		Kunaura , kam wañuika , ¿ maipitak tiapungi , kam binsingapa iuiakuska ? 
+46015055b	maipitak		¿ Maipitak kam tugsispa wañuchidiru tiapungi ?
+47002002	pitak		Nuka chasa kamkunata llakichigpika , ¿ pitak nukamanda llakintra , alli iuiachiwangapa ? Kamkunallami , nukawa llakichii tukuspa , pudintrangichi , nukata alli iuiachiwangapa .
+47002016	pitak		Mana kispiringapa kagkunataka chi Alli Willaita uiaskawaka diltudupa wañuimi chaiangapa kankunata . Ikuti kispiringapa kagkunaka , diltudupa kaugsaimi chaskingapa kankuna . Chasa tukungapa kaskamandaka , ¿ pitak tia , tukui chikunata allilla willangapa ? Ñi pipas manima .
+47003008	~		Ikuti kikin Santu Ispíritu karamuskaka iukanmi , askurinti mas iapa punchawa tukugsamunga .
+47003009	~		Ari , justisiai tukungapa willaraiaskata iapa punchawami Moisesta kuagsamurka ; mana pandarig niraiangapa Alli Willaita uiaspa iukanmi , Santu Ispirituwa askurinti mas iapa punchawa tukugsamunga .
+47006014a	~		Mana Cristota rigsigkunawa mana sugllapi tukunakungichi . Allilla ruragkunawa mana allilla ruragkunawa mana pudirinchu , sugllapi tukungapakuna . 
+47006014b	~		Chasallata , iuiaikunata punchaiachiska kagkunawa iana tutapisina kagkunawa mana pudirinchu , suglla iuiai apanakungapa .
+47006015a	~		Cristowa iaia kukuwa mana pudirinchu , suglla iuiai kangapa . 
+47006015b	~		Chasallata , Cristowa suma iuiagwa manara paita rigsigwa , suglla iuiaiwa mana kangapa pudirinchu .
+47006016	~		Ianga diuskunawa mana pudirinchu , Diuspa wasi ukupi sugllapi kangapa . Nukanchimi kaugsag Diuspa wasisina niraianchi . Chasallatami ñugpamanda librupi Taita Dius kikin willarka , kasa nispa : “ Paikunapa chaugpipi purispami kaugsangapa kani . Paikunapa Taita Diusmi kangapa kani . Paikunaka , nuka agllaska runakunami kapuangapa kankuna ” .
+47011011	Imapatak		¿ Imapatak chasa rimarini ? ¿ Kamkunata mana kuiaspachu chasa rimarini ? Taita Diusmi allilla iachá , nuka sutipa kamkunata kuiagta .
+47011029a	~		Maikan Jesuswa kaspa paita katingapa sambaiagpika , ¿ manachu nukatapas sambaiawantra ? Chasallata , pipas maikanta pandachigpika , 
+47011029b	~		¿ manachu nukata iapa llakiriwantra ?
+47012013	~		Imasami Cristowa tukuskakuna sugnigta kaugsanakuskawa karkani : ¿ manachu kamkunawapas chasallata karkani ? Chasallata ima kagpipas , kamkunata ñi imapas mana mañaspa llakichirkaikichitachu . Chasa mana mañaskamandaka , pasinsiawaichi .
+47012017	Maikanta		¿ Maikanta kamkunapagma kachaspachu , kamkunata llullachispa , imapas kichurkaikichita ? Manima .
+48002014	imapatak		Nuka kawarkanimi , chi anchurig judiukunaka sutipa Alli Willaita niraiaskata mana katinakugta . Nuka , chasa kawaspaka , tukuikunapa ñawipimi Pedrota nirkani : — Uiamui . Kam , judíu kaspapas , ¿ manachu mana judiusina kaugsakurkangi ? Nigpika , ¿ imapatak mana judíu kagkunataka ningapa kangi : “ Judiukunasina kaugsangichi ” ?
+48003001	pitak		¡ Ai , Galasiamanda runakuna , iapa upashkunasinami kangichi ! Kam kikinkuna Jesucristota kawanakuskasinami pai kruspi klabai tukuskamanda willarkanchi . Nigpika , ¿ pitak kunauraka kamkunapa iuiaita tuntiachiku ?
+48003019	imapatak		Chasa kagpika , Moisés ima rurangapa niraiaskaka , ¿ imapatak balí ? Balinmi imakunapi pandariikuna niraiaskata iachangapa . Chi Moisés ima rurangapa willaskataka Abrahamta karangapa niraiaskamami iapachigsamurka , imaura Taita Dius kachamungapa niska wambra samunkama . Taita Dius ima niskata , anjilkunami Moisesta willarkakuna , paika paipurakunata willangapa . Chasa Taita Diuska , Moiseswami runakunata rimadur karka .
+48004009a	imapatak		Ikuti kunauraka , sutipa Taita Diustami rigsingichi . Chasa kagpipas , Taita Diuska kamkunata ñugpamandatami allilla rigsirka . Nigpika kamkuna , ¿ imapatak ikuti munanakungichi , chi ñi imapapas mana balig dius niraiaskakunawa tigrangapa ; 
+48004009b	~		chasaka , ikuti paikunapa lutrinkunasina tukungapa ?
+48004010	~		Charami kamkunaka , punchakunata , killakunata , watakunata i sug punchakunatapas judiukunasina wardangichi .
+48004015	imapatak		Nuka kamkunawa chi punchakuna kaura , alli iuiachiiwami karkangichi . Ikuti kunauraka , ¿ imapatak mana alli iuiachiiwa kangichi ? Kamkunamanda kasami allilla iuiarispa niikichita : pudirigpika , nukata dikuiai kam kikinkunapa ñawi murutapaschar surkurispa kuawantrangichi .
+48004021	~		Kamkuna Moisés ima niskata ruraspa kaugsangapa munanakugka , kasa willawaichi : ¿ manachu iacharkangichi chi niskapi ima willaraiagta ?
+48004030	imasatak		Chasa pasarikugpipas , ¿ imasatak ñugpamanda librupi willaraiá ? Kasami willaraiá : Randiska warmita paipa wambrawanta kaimanda llugsichii . Chi randiska warmipa wambra mana pudinchu , mana randiskapa wambrawaka taita ima sakingapa kaskata chaugpi chaugpi partinakungapa .
+48005007a	imawantak		Kamkuna , allillami kaugsanakurkangichi . Nigpika , ¿ imawantak kunaura sutipa Alli Willaita mana iuiaspa kaugsanakungichi ?
+48005007b	~		
+48005011	~		Taitakuna i mamakuna , nuka chara judiukunapa marka churachingapa iachachikugpika , judiukunaka manachar jiru rurawangapa munawanakuntra . Chiwanka , Cristo kruspi wañuskamanda rimaitaka manachar wabutintrakuna .
+49004009	imatak		Chi “ awama sikaska ” , ¿ imatak niraiá ? Niraianmi , Cristo ñugpa kai alpa ukuma uraikugta .
+50001018	~		Chasa munanakugpipas , nuka ninimi : “ Paikuna iachachukuna ” . Allilla u mana allilla iuiaiwa willanakugpipas , Cristomanda willanakugpika , nukataka allimi uiariwá . Kasamandami mas alli iuiachiiwa kangapa kani :
+50001021	~		Chasawaka , nuka kaugsankama , Cristo kikinmi nukapa kaugsai kapuá . Nukata wañui chaiamuwauraka , tukui alli sumagllami sug luarpi tukupuagringapa ka .
+51002020	imapatak		Kamkunaka , kai alpamandalla niraiaskakunata sakispa , Cristowa wañuskasinami niraiangichi . Chasa niraiagpika , ¿ imapatak kai alpamanda ima niskakunata chara uianakungichi ?
+52002019	Pitak		¿ Pitak nukanchita alli iuiachinga ? ¿ Imatak suianakunchi ? Nukanchipa Iaia Jesús samuuraka , kam kikinkunami paipa ñawipi kawaringapa kangichi . Kamkuna chipi kaskakunata kawaspami nukanchita iapa alli iuiachingapa ka .
+52003009	~		Kamkuna nukanchita iapa alli iuiachiskamanda , nukanchi iukanchimi , Taita Diuspa ñugpa ladu kaspa , imaurapas paita : “ Pai Siñur ” kamkunamanda ninga .
+54003005	imasatak		Maikanpas kikinpa wasipi kaugsanakuskata sumaglla kaugsanakungapa mana iachachii pudigpika , ¿ imasatak Taita Diuswa tukuskakunata pudí , sumaglla kawaspa iachachingapa ?
+54006007a	~		Nukanchi tiagsamuura , ñi imawa mana chaiagsamurkanchichu . 
+54006007b	~		Chasallata , wañuura , ñi imapas mana apaspa ringapa kanchichu .
+58001005	~		Ñi maikan anjiltapas , Taita Dius mana kasa nirkachu : Kam , nukapa wambrami kangi . Nukami kuna puncha kaugsai karaiki . Kasapasmi ñugpamanda librupi nirka : Nukami paipa Taita kangapa kani . Pai , nukapa wambrami kangapa ka .
+58001013	~		Ñi maikan anjiltapas , Taita Dius mana imaurapas kasa nirkachu : Nukapa alli ladu tiarii , nuka tukui kamta mana munagkunata apagrispa , kamba chaki sarudiru ukuma churankama .
+58001014	~		Tukui anjilkunaka , ispiritukunallami kankuna , Taita Dius ima munaskata ruragkuna . Paikuna kachamuskami kankuna , suma luarpi diltudupa kispirigringapa kagkunata aidag kangapa .
+58002003	imasatak		Nigpika nukanchi kikinkuna , chi kispiringapa kaskamanda iapa suma Alli Willaita kungarigpika , ¿ imasatak iuiasunchi , Taita Dius llakiriskamanda kispiringapa kagtakuna ? Iaia Jesús kikinmi ñugpa willarka , nukanchi imasa ruraspa kispiringapa kagtakuna . Chiuramandaka , paita uiagkunami nukanchita chasa kaskata willagsamurkakuna .
+58002006a	Imapatak		Mana kagpika , sug ñugpamanda librupi , maikanchar Taita Diusta kasa nispa willamú : ¿ Imapatak runakunamandalla iuiaringi ? 
+58002006b	Imapatak		¿ Imapatak paikunamanda llakingi ?
+58003016	Pikunatak		¿ Pikunatak , Taita Dius rimaskata uiaspapas , paita piñarig karkakuna ? ¿ Manachu karkakuna Ejipto alpamanda tukui Moisés llugsichiskakuna ?
+58003017	pikunawatak		Chasallata , ¿ pikunawatak chusku chunga wata Taita Dius rabiariska karka ? ¿ Manachu jiru ruraska kagkunawa rabiariska karka ? Chi chusa sitaska alpapi purinakugka , tukuimi wañurkakuna .
+58003018	pikunamandatak		Chasallata , ¿ pikunamandatak Taita Dius mana llullaspalla nirka : “ Mana iaikugringapa kankunachu nuka alpa karangapa niskama , chipi samarigringapa ” ? ¿ Manachu pai ima niskata mana uiagkunamanda chasa nirka ?
+58006004	~		Maikanpas , paipa iuiaikunata punchaiachii tukuspa , Taita Dius karamuskata iachaspa , Santu Ispirituta chaskispa ,
+58007011	~		Levipa wambrakunapa wambrakunatami Israelmanda runakuna , Moisés ima rurangapa willaskata chaskirkakuna iachachingapa . Chi willaskata tukuipi allilla ruraspa kaugsangapa pudigpikunaka , manachar chaiangapa karka , sug Melkisedekpa sasirdutipura kawarigsamungapa . Chi sasirdutika , Aarón suti Levipa wambrakunapa kati wambrapapura mana kanchu .
+58009014	~		Chasa kagpika , Cristopa iawarwaka iapa mas achkami pudirí . Pai kikin , ñi imapipas mana mapasina kaspa , kuirpupi wañurka , Taita Diusta ufrindasina kikin tukuspa . Paipa ispirituka , ñi imaurapas mana wañunchu . Paipa iawarwaka nukanchipa mana suma iuiaikunatami sumaiachigsamú , nukanchi mana diltudupa wañungapa ; chasaka , kaugsag Taita Dius ima munaskata allilla ruraspa kaugsangapa .
+58010001	~		Moisés ima rurangapa willaraiaskaka , kipa samungapa kaska allikunata amsapisina kawachigsinallami karka . Chi samungapa niraiaskaka mana karkachu . Chimanda , chi niskapi willaraiaskasina Taita Diusmanda animalkunata rupachingapa tukui wata kaillaiagkunaka , chi rupachiskakunawa mana imaurapas pudingapa kankunachu , tukuipi alli tukungapakuna .
+58010029a	~		Chimanda , maikanpas Taita Diuspa wambrata sarugsina ruraspa , paipa iawarta : “ Ianga , mana balimi ka ” nispa , kuiag Santu Ispirituta unz̈aspa kaugsanakugtaka , ¿ manachu iuiangichi : chasa ruragkunata chaianga , Taita Dius askurinti rabiarispa , paikunata justisiangapa kagta ? Chi iawarwami Taita Dius runakunawa musu iuiariskaka allilla tukugsamurka . Chi iawarllawantami chi runakunapas Taita Diuspalla tukugsamurkakuna .
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	~		¿ Ikuti sugkunamandachu willasakichita ? Mana pagtariwanchu , Jedeonmanda , Barakmanda , Sansonmanda , Jeftemanda , Davidmanda , Samuelmanda i Santu Ispirituwa rimagkunamanda willangapa .
+58012007	~		Chasa iuiarispaka , Taita Dius kamkunata llakichigpipas , upalla kangichi . Kamkuna paipa wambrakuna niraiaskamandami chasa llakichii tukungichi . Maikan taitapas , pai kikinpa wambratami asutí .
+58012009	~		Kasapas . Nukanchi uchulla wambrakuna kaura , nukanchipa kai alpamanda taitakuna nukanchita asutigmandaka , paikunata suma uiaspa kuiaspami kaugsarkanchi . Chimandaka , ¿ manachu nukanchita chaiá , Taita Dius kaugsai karagta suma allilla uiangapa ; chasaka , alli kaugsaita charingapa ?
+58012025	~		Kamkuna , ¡ ujalallapas Taita Dius rimaskata wabutingichi ! Ñugpata kai alpapi Taita Dius iuiachispa rimaskata wabutigkuna , paipa rabiamanda mana kispirirkakunachu . Suma luarmanda iuiachispa rimamuskata nukanchi wabutisunchi ; chika manima kispiringapa kanchichu .
+58013006	~		Chimandami nukanchi , mana manchaspalla ninchi : Atun Taita Diusmi ka nukata aidawag . Chimandami mana manchani maikan runapas jiru rurawangapa iuiaspa kaskata .
+59002006	~		Ikuti kamkunaka , mana iukagkunataka mana balitasinami kawangichi . ¿ Manachu chi iapa iukagkunaka , kamkunata imapipas mana allilla charinkuna ? ¿ Manachu paikuna , kamkunata justisiakunapagma aliuspa apachinkuna ?
+59002014	imawatak		Taitakuna i mamakuna , maikanpas iuiarichu : “ Taita Diuswa suma iuiarigmi kani ” : chasa iuiariillawa kaspaka , ñi ima allilla mana ruragpika , ¿ imawatak kawachinga , suma iuiarig kagta ? Pai chasa iuiariillawa sug luarpi mana kispirigringapa kanchu .
+59002016a	~		Chasa mana iukaskataka , maikan kampura nintra : “ Apaijim . Alli katanga churaringi . Wigsa jundagta mikungi . Kunaura riilla ” ; chasa nispaka , ñi ima mana karaspalla kachagpika , 
+59002016b	imatak		¿ imatak allilla ruragta niraiá ?
+59002018	~		Maikan ningami : “ Kam , Taita Diuswa sumasi iuiaringi . Ikuti nukaka , tukui allillami rurani . Kam , ñi ima allilla mana ruraspapas , kawachiwai paiwa suma iuiarikugta . Ikuti nukaka , allilla ruraskawami kawachisaki , nuka paiwa suma iuiarig kagta ” .
+59002021	~		Nukanchipa ñugpamanda taita Abrahamka , ¿ manachu paipa wambra Isaakta altarpi rupachingapa churaskamanda , Diuspa ñawipi alli runa kagta kawarka ?
+59003013	~		¿ Kamkunapura tianchu tukuipi iachag ? Maikan chasa tiagpika , paipa alli suma kaugsaiwa uchullasina tukuspa , kawachichu pai sutipa iacha kagta .
+59003017	~		Ikuti Taita Dius karaska iachaita iukagkunaka , ñi imapi mana pandarispallami kaugsankuna . Chimanda , tukuikunawa sumaglla mana piñachirinakuspallami kaugsankuna . Paikunapa suma iuiaiwa tukuikunamandami alli iuiankuna . Ima niskatami uiankuna . Sugkunamanda llakispa , tukui imapipas allillami rurankuna . Ñi pitapas mana sug rigcha sug rigcha iuiaiwa kawaspalla , ñi imapipas mana llullaspallami kaugsankuna .
+59004001a	imamandatak		Kam kikinpura , ¿ imamandatak makanakui 
+59004001b	~		i piñachirinakui tiagsamú ? Kam kikinkuna mana suma iuiai iukaspami chasa ruranakungichi .
+59004012	pitak		Suglla Taita Diusmi tia , runakuna imasa rurangapa nidur . Paillatatami justisia kangapa ka . Paimi pudí kispichingapa u puchukangapa . Nigpi kamka , ¿ pitak kangi , justisia tukuspa , kamba waugkindikunamanda mana allilla rimakungapa ?
+59004014	~		Kamkunaka mana iachangichichu , ñi kaia ima pasaringapa kagta . Nukanchipa kaugsai , puiusinami ka ; imasami puiuka , kawarispa , sug mana unaillapika ikuti mana kawarí : chasa .
+60002020	~		Kamkuna jiru ruraskamanda asutiura , mana piñarispalla kagpikunaka , ñi ima primiu mana tiangapa kanchu . Ikuti kamkuna tukuipi allilla ruranakugmanda ianga asutigpika , mana piñarispalla kagpikunaka , Taita Diuspa ñawipika allimi ka .
+60003013	pitak		Kamkuna imaurapas allilla ruraspalla kagpikunaka , ¿ pitak kamkunata mana allilla rurangapa pudingakuna ? Ñi pipas manima .
+60004017	imachar		Taita Dius justisiangapa punchaka ñami chaiarka . Taita Diuswa tukuskakuna maipipas kaskakunatami justisiai kallariku . Nukanchita chasa justisiai kallarigpika , Taita Diusmanda Alli Willaita mana uiagkunaka , ¿ imachar pasangakuna ?
+60004018	imasik		Allilla ruragkuna , maillamandallami kispiringakuna . Taita Diusta mana manchaspa pandarigkunaka , ¿ imasik pasangakuna ?
+61003004	imawantak		Unz̈aspa , kasami ningapa kankuna : “ Cristo ikuti samungapa niskaka , ¿ imawantak mana samú ? Nukanchipa taitakuna wañugpipas , ñi ima manima sug rigcha tukú . Imasami Taita Dius tukui ima wiñachiskauramandata kaska ka : chasallami ka ” .
+61003011	~		Chasa tukui puchukaringapa kagta iachaspaka , kamkunata chaiakumi , Taita Diusta sumaglla iuiarispa , paimandalla kaugsangapakuna .
+62002022	Pitak		¿ Pitak llulla ka ? Maikan Jesusmanda nidurkuna , mana Taita Dius agllaska Cristo kagta . Chasa nidurkunami Cristota mana munag kankuna . Chasakuna , Taita Diusta i paipa wambratami piñarinakú .
+62003012	Imapatak		Mana rurasunchi Kaín suti karisina . Chi karika , iaia kukuwa kaspami paipa waugkindita wañuchirka . ¿ Imapatak wañuchirka ? Kaín kikin mana allilla rurag kaspa , paipa waugki allilla rurag kagmandami wañuchirka .
+62003017	imasasik		Maikanpas , kai alpapi iukag kaspa , sug waugkindi ñi ima mana iukaskata kawaspapas , mana aidagpika , ¿ imasasik Taita Diuspa kuiaita paipa sungupi charikugta nintra ?
+62004020	imasasik		Maikanpas kikin nirichu : “ Nuka , Taita Diusta kuianimi ” ; nigpika , waugkindita mana kuiachu : chika , sug llullami ka . Waugkindita allilla kawanakuspapas , mana kuiagpika , ¿ imasasik mana kawaska Taita Diustaka kuianga ?
+62005005	~		Jesús Taita Diuspa wambra kagta suma iuiarigkunallami chi mana alli munai i ruraikunata sakispa binsinchi .
+66005002	Pitak		Sug anjil iapa pudigtapasmi kawarkani . Chi anjilka , sinchi rimaiwa kaparirka , kasa tapuspa : — ¿ Pitak iapa alli kangichi , chi sillukunata pitichispa , iskribiraiaskata paskangapa ?
+66006010a	Imauratak		Chikunaka , sinchimi kaparinakurka , kasa tapuspa : — Tukui manduiug Taitiku , tukuipi mas alli kag , suma mandaiwa kag i sutipa ima niskata rurag , ¿ imaurakamatak suiankangi , justisiai rurangapa ? 
+66006010b	Imauratak		¿ Imauratak nukanchita wañuchiska iawar surkuskakunata alpapi kaugsagkunata randichipuankangi ?
+66006017	pisik		Paikuna askurinti rabiarispa llakii punchami chaiamurka . Chasataka , ¿ pisik pudinga kispiringapa ?
+66007013a	pikunatak		Chipi kag sug iacha taitaka tapuwarka , kasa nispa : — Chi iura katanga churariskakuna , ¿ pikunatak kankuna ? 
+66007013b	Maimandatak		¿ Maimandatak samurkakuna ?
+66013004a	pisik		Amarun chi kukuta paipa mandaita karaskamandaka , paitami kungurirkakuna . Kikin animaltapasmi chasallata kungurirkakuna , kasa nispa : — ¿ Pisik tia kai kukusina ? 
+66013004b	pisik		¿ Pisik pudinga , paiwa makanakungapa ?
+66015004a	~		Kam tukuipi mas alli atun Taita Diusllami kangi . Chimandaka tukui runakunami , kamta suma manchaiwa iuiarispa , mas suma atuniachinakunga . Kam imasa chaiaskasina justisiai ruragsamugmandami tukui alpanigmanda runakuna , chasa kawaspaka , samuspa , kamta kunguringapa kankuna .
+66015004b	~		
+66017007	Imapatak		Chi anjilka niwarka : — ¿ Imapatak mancharingi ? Chi warmi kanchis umaiug chunga kachuiug atun kukupi tiakuska i kikin kuku ima niraiaskakunatami willangapa kaiki .
+66018018	Maikan		Chi puiblu rupakuskata , kusni nina sindi puiuiakuskata kawaspaka , kaparirkakuna : — ¿ Maikan puiblusik tia ; kam atun puiblu puchukarikungi : chasa ?

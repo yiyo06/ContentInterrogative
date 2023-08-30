@@ -1,0 +1,743 @@
+40002002	Ma		Chi ajcxy yajtɨy : ― ¿ Ma je judíojäy yrey tɨɨbɨ yma'xung'aty ? Tɨ ɨɨch ajcxy n'ijxɨ yɨ' ymadza' jɨm ma xɨɨ ypɨdzɨmy , e yɨ' ɨɨch ajcxy ya miñ nhuindzɨgɨ̈huaangɨxy .
+40002004	ma		Huin'it je rey huomujctay tüg'ócɨy teedytɨjc huindzɨndɨjc huɨdibɨ anajty yaj'ixpɨjcp yɨ Dios yley , chi yajtɨy ma anajty yma'xung'ada'ñ yɨ Cristo .
+40003007	Pɨn		Per yɨ Juan y'ix co may fariseo jäy etz saduceo jäy miñ anajty ajcxy nɨɨbejtcɨxy , chi ajcxy nɨmay : ― ¡ Miich ajcxy , m'ajuugy m'amɨgüg ahua'n ɨyujc ! ¿ Pɨn tɨ xyajni'ixɨɨygɨxy nej jëbɨ huaad mgögueeccɨxy yɨ ayo'n huɨdibɨ huingomb ?
+40005013	nej		Jadu'n nej caan ca' yajpüch je tzüch jɨɨcxy tɨm jadu'n miich ajcxy myajpaady ya naaxhuiñ . Pen je caan ca' mɨɨd ti xücx'ajtɨn , ¿ nej jëbɨ nyajtuunɨm ? Ca' y'oc'oyyajtunɨty , chi yajnajtzxɨdɨɨyñɨ , chi yhuaanɨ tembejt hua'cpejt .
+40005046	ti		Pen miich ajcxy mdzojcpy je huɨdibɨ xychojcp , ¿ ti jäygɨdaacɨn yɨ' m'ocpadamyb ? Nañ jadu'n yɨ' ajcxy yja'ɨdɨɨtzp yɨ pocyjäydɨjc etz yɨ yajcogüejtpɨdɨjc .
+40005047	ti		Pen miich ajcxy mgapxpocxyp yɨ mjugymɨgüg , ¿ ti oybɨ yɨ' ? Nañ jadu'n ajcxy yɨ' yja'ɨdɨɨtzp yɨ huɨdibɨ ajcxy ca' Dios nejhuɨɨygɨxy .
+40006027	Pɨn		¿ Pɨn ji ma miich ajcxy , ooy mɨj jahuinmay , jëbɨ tüg nuux yjacyeegyɨ ?
+40006028	na'amy		¿ E na'amy co miich ajcxy mdzachnidajy mdzachnimay mɨɨd je mhuit mducxy ycɨxpɨ ? Oc'ix miich ajcxy nej yoñ tüg je pɨjy huɨdi yajpatp tun nïgap . Ni yɨ' ycatuñ ni piidy .
+40006031a	ti		Paady ca' nɨgoobɨ mdzachhuinmaaygɨxy ma ajcxy mbaadɨp ti mgayɨpy m'ügɨpy 
+40006031b	ti		o ti mhuit'adɨɨyb mducxy'adɨɨyb .
+40006031c	~		
+40007003	nej co		¿ Nej co miich m'ixy huɨdibɨ mmɨgüg ytumyb e hueenɨ ytundɨgooyb , e ca' mnay'ixyii huɨdibɨ miich jac mɨj mdundɨgooybɨ ?
+40007004	Nej		¿ Nej jëbɨ mmɨgüg m'ocnɨmäy : “ Nbubedamybɨch miich ca'ydɨ mjacpocytuñ ” , e miich yam m'ocmɨɨdpɨ jac mɨj pocy ?
+40007009	nej		¿ Nej ji jada' miich ajcxy nidügtɨ co m'ung pɨjtzoohuɨpy tzajcaagy nej mmöhuɨpy tüg tzaajɨ ?
+40007016a	~		Miich ajcxy jëbɨ m'ijxcapy nejjaty ajcxy mɨɨdɨty chɨnaayɨn yjugy'ajtɨn ; ca' pɨn caamuxy cha'm tucy ma apy quipy , 
+40007016b	~		e nañ jadu'n ca' pɨn higo tɨɨm tucy ma jaam'apy quipy .
+40008026	Na'amy		Huin'it Jesús y'adzooy : ― ¿ Na'amy co mdzachtzɨgɨ́ɨygɨxnɨ ? ¡ Miich ajcxy hueenɨ mɨɨdɨty mɨbɨjcɨn ! Huin'it Jesús ypɨdɨ̈gy . Chi mɨgapxy je poj etz je mejy . Huin'it je mejy etz je poj yhua'cxɨjptay .
+40008027	Pɨn		E je' ydiscípulos ajcxy nɨgoobɨ y'occɨ́x y'occuejtnɨ chachmɨnaangɨxy : ― ¿ Pɨn yëydɨjc jada jada' , co je mejy je poj tɨ ycapxymɨdoyii ?
+40008029	Ti		E co anajty Jesús jɨm ñaxy huin'it janch ahua'n ymɨgapxqueecɨ : ― ¿ Ti miich mdunamyb mɨɨd ɨɨch ajcxy , Jesús , miich Dios y'ung ? ¿ Nej tɨ mmiñ jayɨjp co xychaachytúngɨxɨch ma ca'nɨ xɨɨ tiempo paady ?
+40009004	nej co		Com Jesús ñejhuɨɨy jadu'n nej anajty ajcxy je jäy tzachjot'ájtɨgɨxy , chi ajcxy nɨmay : ― ¿ Nej co ajcxy jɨbɨc mdzachjot'ájtɨgɨxy jotjoty huinma'ñyjoty ?
+40009005	Huɨdibɨ		¿ Huɨdibɨ ca' chipɨty , co nmɨná'ñɨbɨch : “ Tɨ yɨ mbocy nhuinmeecxɨch ” , o co nmɨná'nɨbɨch : “ Pɨdɨ̈g etz tüyöy ” ?
+40009011	Na'amy		Co je fariseos jadu'n ijxy ajcxy , chi nɨmay ajcxy je' ydiscípulos : ― ¿ Na'amy co yɨ mHuindzɨn ycaymucy mɨɨd je yajcogüejtpɨdɨjc je pocyjäydɨjc ?
+40009014	Na'amy		Huin'it ajcxy ymiñ Juan ydiscípulos ma Jesús . Chi je ajcxy nɨmay Jesús : ― ¿ Na'amy co ɨɨch ajcxy etz fariseo ajcxy ayuu'ijtcɨxy , e yɨ' ajcxy huɨdibɨ xymɨɨdhuɨdijtp ca' ajcxy ayuu'íjtcɨxy ?
+40009015	nej		Huin'it Jesús y'adzooy : ― ¿ Nej jëbɨ yaj'ayuu'aty jäy ajcxy huɨdi yajpaatpɨ ma je pɨjcpɨ yajnixɨɨduñyɨ , pen quipxyɨ yam yajpaady mɨɨd je huɨdibɨ pɨjcp ? Minamb je xɨɨ je tiempo mɨna je pɨjcpɨ yajtzonɨɨyb , huin'it janchtɨy ajcxy jëbɨ y'ayuu'ajtcɨxy .
+40010025	~		Jëb jotcujc idɨpy je discípulo co jadu'n yajpaadɨpy jadu'n nej yhuindzɨn , e je tumbɨ jotcujc idɨpy nej yhuindzɨn . Pen jäy mɨnamb co ɨɨch nmɨɨdɨch ca'oybɨ , jac nïgɨ ymɨna'na'ñ co miich ajcxy mɨɨdɨty .
+40011007	Ti		Co Juan je Bautista ydiscípulos ajcxy ñɨcxnɨ , chi Jesús ytɨgɨɨy nimɨydaccoty Juan je Bautista ytung ma je mayjäy , chi ymɨnañ : ― ¿ Ti miich ajcxy oy m'ixy jɨm mɨjtɨgɨ̈duum ? ¿ Tüg nähuaax huɨdibɨ poj xɨjpɨ ?
+40011008	ti		¿ Ti ajcxy oy m'ixy ? ¿ Ti oy m'ixy , tüg jäy huɨdibɨ ooy y'oyxöxyɨty ?
+40011009	Ti		¿ Ti miich ajcxy oy m'ixy ? ¿ Nej tɨ m'ixy tüg Dios y'ayucnajtzcapxɨɨybɨ ? Janch co tɨ m'íjxcɨxy tüg jäy jac mɨj ca'ydɨ tüg Dios y'ayucnajtzcapxɨɨybɨ .
+40011016	Pɨn		Jesús yjacmɨnañ : ― ¿ Pɨn mɨɨd n'ocyajtügɨ̈huɨbyɨch yɨ jäy huɨdi ajcxy cham tzɨnaayb ? Tɨm jadu'n yɨ' ajcxy nej pi'ctɨjc huɨdibɨ ajcxy ɨyɨɨyb ma mayjäy yjuygɨxy ytooccɨxy , mɨyaaxcɨxy mɨdɨnaaygɨxy ymɨgügtɨjc :
+40012011	nej		Chi Jesús y'adzooy : ― Pen ya ma miich ajcxy ji tüg jäy huɨdibɨ cöbixy yjutcögäy sábado xɨɨ , ¿ nej ca' je' nɨcxy yajpɨdzɨmy mɨc'amy ?
+40012026	~		Pen Satanás , je ca'oybɨ huindzɨn , yajpɨdzɨmy ixyipy ca'oybɨ ma je jäy ajcxy , chi cɨ'm ixyipy je ca'oybɨ tɨ ñaybɨjc-huäcxɨgɨxy , e je Satanás ymɨc'ajt ca' y'ida'ñ .
+40012027	nej		Miich ajcxy mɨnamb co ɨɨch nyajpɨdzɨmyɨch ca'oybɨ mɨɨd je ca'oybɨ huindzɨn , je Beelzebú ymɨc'ajt . Pen tɨy'ajt jadu'n nej miich ajcxy mɨna'ñ , je jäy ajcxy huɨdibɨ xymɨjnɨcxpejt miich ajcxy , ¿ nej yɨ' ajcxy paady mɨc'ajt ma je mujcu' co ajcxy yajpɨdzɨmy ca'oybɨ ma je pa'm jäy ? Pues ca' , paady yɨ' ajcxy tɨy'ajt yejcp co miich ajcxy tɨ mgapxtɨgoy co ymɨnaangɨxy co ɨɨch nyajpɨdzɨmyɨch ca'oybɨ mɨɨd Satanás ymɨc'ajt .
+40012029	Nej		( Dios ycötujcɨn jac mɨc ca'ydɨ je ca'oybɨ ycötujcɨn , paady jëbɨ nyajpɨdzɨmyɨch ca'oybɨ . ) ¿ Nej jëbɨ tüg jäy ytɨgɨɨy ma tüg mɨcpɨ jäy ytɨjc etz pɨgaanɨ tijaty yɨ' ymɨɨd , pen ca' jayɨjp ycɨ' ytecy xojtzɨty ? Pues ca' . Coonɨ jayɨjp ycɨ' ytecy xojtzɨty , huin'it jëb pɨjcɨp tɨjaty ymɨɨd .
+40012034	nej		Jɨbɨc jäy miich ajcxy , jadu'n nipaady nej jɨhuɨ̈y ahua'n ɨyujc xy'ung'ajtp . Pen miich ajcxy jɨbɨc jäy'ajtp , ¿ nej jëbɨ miich ajcxy oybɨ ayuc mgapxɨpy ? Jadu'n nej jäy ajcxy yjot yhuinma'ñ mɨɨdɨty , ac tɨm jadu'n ajcxy ycapxy .
+40012048a	Pɨn		Jesús y'adzooy , nɨmay je jäy huɨdibɨ ytaj y'ayuc yajnajxɨ ma yɨ' : ― ¿ Pɨn jäy miich ajcxy mdijy co ɨɨch ndaj'adyii etz ɨɨch n'uch'adyii nmɨgüg'adyii ?
+40012048b	~		
+40013010	Na'amy		Chi je' ydiscípulos ajcxy nimɨjhua'cy Jesús , chi ajcxy yajtɨɨy : ― ¿ Na'amy co myajtuñ jɨhuimbit ayuc co myaj'ixpɨcy je mayjäy ?
+40013027	nej co		Chi je ytumbɨdɨjc oy yhuindzɨn yajnɨmay : “ Huindzɨn , ¿ nej ca' tɨ mnïpy ac trigotɨɨm ? ¿ Nej co jɨm nañ jadu'n jɨbɨc ujtz yajpaady ? ”
+40013054a	ma		Co Jesús chooñ jɨm , chi ñɨcxy ma ycɨ'mnaax ycɨ'mgajp . Chi Jesús ytɨgɨɨy ma je judio ñaymujctac , e ytɨgɨɨy yaj'ixpɨjcp . Chi je mayjäy jiiby ooy jɨhuɨy huinmay nej yɨ' yaj'ixpɨcy , ymɨnañ ajcxy : ― ¿ Ma jada' jada yëydɨjc tɨ paady jada ixpɨjcɨn ? 
+40013054b	ma		¿ Ma mɨc'ajt paady co ooy mɨjhuinma'ñ tzachtuñ ?
+40013056	Ma		Nañ jadu'n ya chɨnay ma ɨɨch ajt je' y'uch ajcxy töxyjäy . ¿ Ma oy tɨ paady jada ixpɨjcɨn jada mɨc'ajtɨn ?
+40014031	nej co		Huin'it Jesús oy ycɨ' mɨmajtzɨ , chi nɨmay : ― Miich , janch hueenɨ mmɨbɨjcɨn . ¿ Nej co ca' yajxon xymɨbɨcyɨch ?
+40015002	Na'amy		― ¿ Na'amy co miich mdiscípulos ajcxy ca' cuydungɨxy judío ñi'ap costumbre ? Yɨ' ajcxy ycaaygɨxy y'uuccɨxy , e ca' jayɨjp ycɨ̈bujcɨxy , ca' ixpujcɨxy ixjëtzcɨxy ypocy .
+40015003	Na'amy		Chi Jesús y'adzooy , yajtɨɨy : ― ¿ Na'amy co miich ajcxy mgapxycömɨdodägy Dios ? Mdzachcuydungɨxy mgɨ'mgostumbre ma yjapadyii mguydungɨxy ixyipy Dios ycötújcɨn .
+40015033	ma		Chi je' ydiscípulos ajcxy mɨnañ : ― ¿ Per ma n'ocpatɨm ti jada jäy ajcxy ycaayɨpy yjɨɨcxɨpy ya ma jada abac it ma ca' pɨn chɨnäy ? Co ooy mayjäyɨty .
+40015034	Naag		Chi Jesús yajtɨɨy : ― ¿ Naag jiiby tzajcaagy miich ajcxy mjacmɨɨdɨty ? Chi ajcxy y'adzooy : ― Jëyɨ huɨxtujc tzajcaagy etz hueen acx .
+40016008	Na'amy		Jesús nejhuɨy nej ajcxy nayñɨmáayɨgɨxy miñ xyɨpy , chi nɨmay ajcxy : ― ¿ Na'amy co miich ajcxy mɨnaangɨxy co ca' ajcxy tzajcaagy mɨɨdɨty ? Janch hueenɨ miich ajcxy mmɨbɨjcɨn .
+40016009	naag		¿ Nej ca'nɨ miich ajcxy mhuinjɨhuɨ̈yɨ ? ¿ Nej ca' mjäymechyii co ɨɨch mɨgoox tzajcaayg nyajhuäcxy etz ni mɨgoox mil je yëydɨjctɨjc anajty huɨdibɨ ajcxy cay ? ¿ E ni mga'ajɨhuɨ̈yii ajcxy naag cach cayduc uuctuc tɨ myajpɨdɨ̈gy ?
+40016010a	~		¿ E ni mga'ajɨhuɨ̈yii ajcxy co huɨxtujc tzajcaagy nyajhuäcxyɨch ma nimɨdaax mil yëydɨjc ajcxy huɨdibɨ caay etz 
+40016010b	naag		naag cach cayduc uuctuc myajpɨdɨ̈gy ajcxy ?
+40016011	nej co		¿ Nej co ca' miich ajcxy mhuinjɨhuɨ̈y , co ca' ɨɨch yam nigapxy yɨ tzajcaagy huɨdibɨ miich ajcxy tɨ mjäydɨgoy , co tɨ nyajnɨmaaygɨxy je levadura huɨdibɨ je fariseos etz saduceos ajcxy ymɨɨd ?
+40016013	nej		Co Jesús yja'ty ma Cesarea Filipo naaxjot , chi Jesús y'amɨdooy je' ydiscípulos ajcxy : ― ¿ Nej jäy ajcxy ymɨna'ñ , pɨ́nɨc ɨɨch ?
+40016015a	nej		Chi Jesús ymɨnañ : ― ¿ E miich ajcxy nej mɨnaangɨxy , 
+40016015b	pɨn		pɨn ɨɨch ?
+40016026a	ti		¿ Ti jäygɨdaacɨn yɨ' co tüg jäy y'ocnayyajpadɨɨyb yɨ meeñ etz mɨc'ajtɨn huindu'my ñaaxhuiñybɨ , e yjugy'ajtɨn cɨxɨpy tɨgoyɨpy tüccɨ'y ? 
+40016026b	Jadu'ñyɨ		¿ Jadu'ñyɨ jëbɨ jäy y'alma yjugy'ajtɨn occojuyɨ ? Nïgɨ choohuɨty jäy ajcxy y'alma yjugy'ajtɨn , ca'ydɨ jac ni ti .
+40017010	nej co		Huin'it je' ydiscípulos ajcxy yajtɨɨy Jesús : ― ¿ Nej co yɨ escribas , yɨ' ajcxy huɨdibɨ nïjaydutp etz yajnïguejp Dios y'ayuc , ymɨnaangɨxy co Elías yɨ' miinaam jayɨjp etz axam je Cristo ?
+40017017a	naag xɨɨ naag tiempo		Chi Jesús y'adzooy : ― Miich ajcxy huɨdibɨ jugy'ajtp jadachambɨ xɨɨ tiempo , ca' miich ajcxy mmɨbɨga'ñ Dios , ca' miich ajcxy mgapxymɨdoohua'ñ Dios . ¿ Naag xɨɨ naag tiempo ɨɨch miich ajcxy njacmɨmecxtugɨpy ? Yajmiingɨx yɨ yeeg'anäg .
+40017017b	~		
+40017019	nej co		Jac co hueeñɨ , je' ydiscípulos ajcxy mɨɨdmɨydac Jesús ahuingujc , chi ajcxy yajtɨɨy ma Jesús : ― ¿ Nej co ɨɨch ajcxy ca' tɨ nmadägy nɨcx nyajpɨdzɨ́ɨmgɨxyɨch je ca'oybɨ ma je yeeg'anäg ?
+40017025a	nej		Chi Pedro y'adzooy : ― Cuejtpy . E huin'it hora co anajty Pedro ytɨgɨ̈y tɨgoty , chi Jesús jayɨjp ymɨgapxy , ñɨmay : ― Simón , ¿ nej mmɨna'ñ ? 
+40017025b	Pɨn		¿ Pɨn je rey ajcxy yajcuejcpy ? ¿ Yɨ' yjäy o huingjäyɨ ?
+40018001	Pɨnjäy		Je huin'it hora je' ydiscípulos ajcxy ymɨjhuäctay Jesús etz yajtɨy : ― ¿ Pɨnjäy je'jac nïg ymɨɨd je mɨj'ajtɨn ma Dios y'ane'my jiiby tzajpjoty ?
+40018012	nej		¿ Nej miich ajcxy mɨna'ñ ? Pen tüg jäy ymɨɨd mɨgo'px cöbixy , etz pen yöydɨgooyb nidügtɨ cöbixy , ¿ nej ca' jëbɨ ixmach je nimɨda'px majmocx mɨdaax cöbixy etz nɨcxy ixtäy je jadügpɨ huɨdibɨ yöydɨgooy ?
+40018021	naag'oc		Chi Pedro y'amɨdooy Jesús ymɨnañ : ― Huindzɨn , ¿ naag'oc huaad nhuinmeecxyɨch yɨ' ajcxy huɨdibɨ xymɨdundɨgooybɨch ? ¿ Nej nméecxɨbɨch ixtɨ coonɨ huɨxtujc'ocɨ ?
+40019007	Na'amy		Huin'it je fariseos ajcxy y'amɨdooy Jesús : ― ¿ Na'amy co Moisés cötujcɨn tɨ yejcy jecy'ajty co tüg yëydɨjc jëbɨ huaad ixmach ytöxyɨjc , e möhuɨpy ñinecy ñidɨy'ajt e jadu'n jëbɨ ixmach ?
+40019016	ti		Chi tüg yëydɨjc oy ixy Jesús . Chi y'amɨdooy : ― Huindzɨn , ¿ ti jada' co oy ɨɨch ndunɨpyɨch jaydëb nbaadɨbɨch jugy'ajtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy ?
+40019017	Na'amy		Chi Jesús y'adzooy : ― ¿ Na'amy co xyñɨmäyɨch co oy huindzɨn ɨɨch ? Dios tügpajc oyɨp , ca' jac pɨn . Pen miich mdzojcpy co mbada'ñ jugy'ajtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy nimɨna mguydunɨpy je Dios ycötujcɨn huɨdibɨ Moisés ycojaay jecy'ajty .
+40019018	Huɨdibɨ		Chi je yeeg'anäg yajtɨɨhuimbijty : ― ¿ Huɨdibɨ cötujcɨn miich mdijp ? Chi Jesús ymɨnañ : ― Ca' mɨgüg myaj'ögɨpy . Ca' mɨgüg ytöxyɨjc mɨgapxtɨgooyɨpy . Ca' mmeedzɨp . Ca' mmɨgüg mhuin'ɨɨnɨp .
+40019020	Ti		Chi je yeeg'anäg Jesús nɨmaayɨ : ― Tɨ nguydundäyɨch jadayaabɨ cötujcɨn ajcxy maabɨ ɨɨch nbi'c'atyɨch . ¿ Ti jada njacyajtɨgoy'ijtpyɨch ?
+40019025	Pɨn		Co Jesús ydiscípulos ajcxy jadu'n mɨdoy , chi ajcxy ooy jɨhuɨy huinmay . Chi ajcxy ñay'amɨdoohuɨ miñ xyɨpy : ― ¿ Pɨn jëbɨ paady je' y'alma nïdzoocɨn ?
+40019027	ti		Huin'it Pedro ymɨna'ñ : ― Huindzɨn , ɨɨch ajcxy tɨ n'ixmajtztäyɨch tüg'ócɨy huɨdijaty anajty ɨɨch ajcxy nmɨɨd etz nbanɨcx ɨɨch ajcxy miich . ¿ E ti jada' ɨɨch ajcxy nbaadaamybɨch ?
+40020006	Na'amy		Nañ tɨm jadu'n tzuu jadüg'oc je cogam ñɨcxy tumbɨ ijxtaayb , chi paty nijëjɨty cajpcujc huɨdibɨ ca' ti tung mɨɨdɨty ajcxy , chi ajcxy nɨmay : “ ¿ Na'amy co miich ajcxy myaajɨty ? ¿ Nej co ca' mnɨcxy mdungɨxy ? ”
+40020012	Na'amy		Chi ajcxy nɨmay je cam huindzɨn : “ ¿ Na'amy co quipxyjaty ɨɨch ajcxy tɨ xymujuyɨch mɨɨd je huɨdibɨ tɨ miiñ axam tumbɨ ? Yɨ' ajcxy tüg jaxɨ̈gy tɨ ytuñ , e ɨɨch ajcxy tüg xɨɨ je anbɨ tɨ ngöbɨcyɨch . ”
+40020021	Ti		Chi yajtɨɨy Jesús : ― ¿ Ti mdzojcpy ? Chi je ungdaj y'adzooy : ― Tun may'ajt möhuɨpy ɨɨch metzpɨ yɨ nmang yɨ jacmɨjtung ma miich m'ane'mɨn , jaydëb ɨñähuɨpy ma miich mmɨjc , tüg a'oy'amy etz jadüg anajty'amy .
+40020032	Ti		Huin'it Jesús ytɨnayxɨjp , e ymɨnañ : ― Ocmin miich ajcxy ya . Huin'it yajtɨɨy : ― ¿ Ti mdzojcpy ndunɨpyɨch mɨɨd miich ?
+40021010	Pɨn		Co Jesús ytɨgɨɨy jɨm Jerusalén , chi tüg'ócɨy je mayjäy huinmay'ahuɨdijty , chi ñay'amɨdóohuɨgɨxy miñ xyɨpy : ― ¿ Pɨn yɨ' yɨjiibɨ jäy ?
+40021016	nej		Chi je teedy etz escribas ajcxy Jesús nɨmay : ― ¿ Nej ca' miich mmɨdooy nej je pi'c'anäg chach mɨnaangɨxy ? Chi Jesús y'adzooy : ― Nmɨdooybɨch . ¿ Nej ca' miich ajcxy mgapxyñɨ Dios ñecy ma ymiiñ jaaybety co jadu'n ymɨna'ñyɨ ? : Tɨ myaj'ixpɨcy ɨɨy ma je pi'ctɨjc ma'xungdɨjc jaydëbɨ ajcxy ɨɨbaadɨp capxpaadɨp Dios .
+40021020	Na'amy		E co je' ydiscípulos ajcxy jadu'n ijxy , chi ajcxy ooy huinmay . Chi ajcxy y'amɨdooy Jesús : ― ¿ Na'amy co yɨ higuerɨ quipy mɨc'amy tɨ ytɨ̈ch ?
+40021023a	ma		Co Jesús yja'ty Jerusalén , chi ytɨgɨɨy jadüg'oc ma Dios ytɨjc . E jiiby anajty yaj'ixpɨcy je mayjäy , chi ñimiinɨ je teedy mɨjtungmɨɨdpɨ etz judío mɨjjäydɨjc ajcxy . Chi ajcxy y'amɨdoohuɨ : ― ¿ Ma cötujcɨn tɨ mbaady co jadu'n mduñ tzajtɨgoty ? 
+40021023b	Pɨn		¿ Pɨn jada cötujcɨn tɨ xymöy ?
+40021025a	Pɨn		¿ Pɨn quejxy je Juan , je Bautista , yajnɨɨbejtpɨ , Dios o jäy ajcxy ? Chi ajcxy ñayñɨmáayɨgɨxy miñ xyipy : 
+40021025b	~		― Co ixyipy ajt n'adzoohuɨm co Dios Juan quejx , huin'it xy'adzoohuɨm : 
+40021025c	na'amy		“ ¿ Na'amy co miich ajcxy ca' mmɨbɨjcy Juan ? ”
+40021028	Nej		Chi Jesús ymɨnañ : ― ¿ Nej m'oc'ixy m'ocjaygugɨ' jadayaabɨ ixpejt ? Tüg je yëydɨjc ymɨɨd anajty metz je' ymang . Chi nɨmay je mɨjpɨ : “ Nɨcx cham m'octuñ ma ɨɨch n'uva cam . ”
+40021031	Huɨdi		¿ Huɨdi je' nidügtɨ ycuyduuñ nej anajty yteedy tzocy ? Chi ajcxy ymɨnañ : ― Je' ymang mɨjpɨ huɨdibɨ jayɨjp nɨmay . Huin'it Jesús nɨmay ajcxy : ― Janch tɨy'ajt jadu'n nej nɨmaaygɨxy co je huɨdibɨ ajcxy yajcogüejtpɨ etz je töxyjäy ajcxy huɨdibɨ tundɨgooyb mɨɨd yëydɨjc , je' ajcxy tɨgɨ̈huamb jayɨjp ma Dios y'ane'my jiiby tzajpjoty , ca'ydɨ miich ajcxy .
+40021040	ti		Huin'it Jesús ymɨnañ : ― Co anajty tɨ miiñ je conaax je cogam , ¿ ti jada' y'octunɨpy mɨɨd je tumbɨdɨjc ajcxy ?
+40022012	nej		Huin'it je rey mɨnañ : “ Mɨgüg , ¿ nej ya tɨ mdɨgɨ̈y tɨgoty , e ca' mxojx mɨɨdɨty nej ypaadyii ? ” E je yëydɨjc amoñyɨ je' yhuɨ'my .
+40022017	nej		Nejhuɨ̈huamy ɨɨch ajcxy nej miich mɨna'ñ pen tɨy'ajt jadu'n : ¿ Nej ndundɨgooyɨm ma Dios ycötujcɨn , co ngüejtɨm ma César , je romano mɨj'ane'mbɨ ?
+40022018	na'amy		Per Jesús ñejhuɨɨyb anajty ajcxy yjɨbɨc-huinma'ñ , e chi ajcxy nɨmay : ― Ooy miich ajcxy naybɨdáacɨgɨxy nej jɨhuɨ̈y ooy mdudägyɨty , e ca' yjanchɨty . ¿ Na'amy co ajcxy xychachjot'ixy xychachhuinma'ñ'ixyɨch ?
+40022020a	pɨn		Chi co Jesús y'ijxy je meeñ , chi yajtɨɨy : ― ¿ Pɨn y'ahuɨnax 
+40022020b	pɨn		e pɨn yxɨɨ cɨxjaay ma jada meeñ ?
+40022028	huɨdibɨ		E co anajty xɨɨ tiempo paty , co anajty Dios yajjugypɨcy yɨ tɨɨbɨ ajcxy y'ögy , ¿ huɨdibɨ jada' ajcxy nidügtɨ je yëydɨjc töxyɨjc'adaanɨp je töxyjäy ? Com tɨ ajcxy jadu'n nihuɨxtujcpɨ mɨɨddzɨnay'abɨdzɨmgɨxy .
+40022036	ma		― Huindzɨn , ¿ ma yɨ maybɨ Dios ycötujcɨn , huɨdibɨ yɨ' jaccopɨcyɨp ?
+40022042a	nej		― ¿ Nej miich ajcxy huinmay mɨɨd Cristo ? 
+40022042b	Pɨn		¿ Pɨn je' y'apmang ? Chi ajcxy y'adzooy : ― Je David je' y'apmang .
+40022043	na'amy		Chi Jesús ajcxy nɨmay : ― ¿ Na'amy co David anajty tɨ ymɨna'ñ co Cristo hue' je' yɨ' yhuindzɨn ? Jadu'n tɨ capxy David anajty mɨɨd je Dios yjɨhuɨ'ñ ymɨc'ajt , ymɨnañ :
+40022045	nej		¿ Nej jëbɨ David ymɨj'ap'adyii je Cristo ? Com David cɨ'm ymɨnañ co Cristo yɨ' je' yhuindzɨn .
+40023017	Huɨdibɨ		Tzuudɨjc locɨdɨjc huɨdibɨ ca' huinjɨhuɨ̈y je tɨy'ajt . ¿ Huɨdibɨ jaccopɨcyɨp : je oorɨ o je Dios ytɨjc ma je oorɨ yoxy ity ?
+40023019	Huɨdibɨ		¡ Tzuudɨjc locɨdɨjc huɨdibɨ ca' huinjɨhuɨ̈y je tɨy'ajt ! ¿ Huɨdibɨ jacmɨj'ajtɨn ymɨɨd je huɨdibɨ tɨ yajyoxy o je altar ?
+40023033	~		¡ Jadu'n miich ajcxy nipaady nej mayxoox ! Ca' miich ajcxy madägɨpy cöguëgɨpy je tzaachypɨ jiiby ayoodactuuby .
+40024003a	mɨna		Chi oy ñɨcxnɨ ajcxy ma Olivos cögop . E co anajty jɨm , Jesús y'ɨñäy , chi ñɨmaayɨ ameech je' ydiscípulos ajcxy : ― Ɨɨch ajcxy nejhuɨ̈huamyb mɨna jëdu'n ytuna'ñyii yjada'ñyii . 
+40024003b	ti		¿ Ti je' quëxɨ̈gamb co anajty miich mhuimbida'ñ ya naaxhuiñ , e co anajty je naaxhuiñybɨ ytɨgoya'ñ ?
+40024045	Huɨdibɨ		¿ Huɨdibɨ tumbɨ je' ya huɨdibɨ tumb mɨɨd yhuindzɨn janch cɨxyjot huinɨjot huɨdibɨ mɨɨd ixpɨjcɨn , huɨdibɨ je' yhuindzɨn mooyɨpy ane'mɨn ma ytɨjc , huɨdibɨ yajnigɨdagɨ̈huɨpy ma ymɨgügtɨjc caayɨn uucɨn mɨna ypadyii ?
+40025037	mɨna		Huin'it ymɨna'na'ñ je jäy ajcxy huɨdibɨ oy tɨ ytungɨxy mɨɨd ɨɨch : “ Huindzɨn , ¿ mɨna ɨɨch miich ajcxy tɨ n'ixy ayuu , e tɨ nyajcay ? O ¿ mɨna ɨɨch miich ajcxy tɨ n'ixy co mdɨdzɨ̈yii , e tɨ nyajnɨɨ'ügy ?
+40025038	Mɨna		¿ Mɨna ɨɨch miich ajcxy tɨ n'ixy co miich mnihuɨdity , e tɨ nmöy jättac ? O ¿ mɨna mhuit tɨ myajmayjaty , e tɨ nmöy je mhuit ?
+40025039	Mɨna		¿ Mɨna ɨɨch miich ajcxy tɨ n'ixy , co miich mbɨgyii , e oy tɨ ngüend'aty ? etz ¿ mɨna ɨɨch miich ajcxy tɨ n'ixy co pujxtɨgoty myajpaady , e oy tɨ ngogapxɨ̈y ? ”
+40025044	mɨna		E chi je' ajcxy ymɨna'na'ñ : “ Huindzɨn , ¿ mɨna ɨɨch ajcxy miich tɨ n'ijxcɨxy co anajty miich yubögyii tɨdzɨ̈yii , o co anajty mnihuɨdity ? ¿ Mɨna tɨ n'ijxcɨxy co ca' mhuit mɨɨdɨty , o co mbɨgyii , o co anajty pujxtɨgoty myajpaady , e ca' ɨɨch ajcxy miich nbubejty ? ”
+40026008	Ti		Co Jesús ydiscípulos ajcxy jadu'n ijxy , chi ajcxy mɨjotma'ty je töxyjäy . Chi ajcxy ñayñɨmaayɨ miñ xyɨpy : ― ¿ Ti co jada perfume huɨdibɨ ooy oy xuugy ayoy ?
+40026010	Na'amy		E co Jesús nejhuɨɨy nej ajcxy ymɨnañ , chi nɨmay : ― ¿ Na'amy co m'amayɨ̈y jadayaabɨ töxyjäy ? Yɨ' huɨdibɨ tɨ tuñ , je' yɨ' tüg oybɨ .
+40026015	ti		nɨmay ajcxy : ― ¿ Ti ajcxy xymöhuɨbɨch co ngɨ̈yegɨpyɨch Jesús ? Chi ajcxy moy iipxmajc plata meeñ .
+40026017	Ma		Je ymɨdügpɨ xɨɨ , je amayxɨɨ , je pascua xɨɨ ma anajty yajcay je tzajcaagy huɨdi ca' levadura mɨɨdɨty , huin'it je' ydiscípulos ajcxy nimiiñ Jesús . Chi ajcxy yajtɨɨy : ― ¿ Ma mdzocy co ɨɨch ajcxy ni'ixɨ̈huɨp huidi mgayamy je pascua xɨɨ cɨxpɨ ?
+40026040	nej		Huin'it Jesús yhuimbijty jɨm ma anajty tɨ yajhuɨ'my je nidugɨɨgpɨ . E oy paady ac tɨm maab anajty ajcxy . Chi nɨmay je Pedro : ― ¿ Nej ca' madäga'ñ miich ajcxy co m'idɨpy juugy tüg hora mɨɨd ɨɨch ycɨxpɨ ?
+40026050	na'amy		Chi Jesús ñɨmayɨ : ― Mɨgüg , ¿ na'amy co xyñimɨjhuägyɨch ? E co jadu'n nɨmay , chi mɨc'amy yɨ' ajcxy majch Jesús . Chi ajcxy yajnɨcxy tzumy mach .
+40026054	nej		¿ Per nej ycɨxɨpy yca'pxɨpy nej miiñ jaaybety , jadu'n nej cham ytuñyii yjadyii mɨɨd ɨɨch ycɨxpɨ ?
+40026062a	nej co		Huin'it je teedy mɨjtungmɨɨdpɨ ytɨnayɨ̈gy , e nɨmay Jesús : ― ¿ Nej co ca' m'adzooy ? 
+40026062b	nej		¿ Nej janch tɨy'ajt nej jadayaabɨ metzpɨ testigo ymɨna'ñ ?
+40026065	Ti		Chi je teedy jacmɨjtungmɨɨdpɨ oy yhuit huindzecxy huinma'ch , chi ymɨnañ : ― Jadayaabɨ yëydɨjc tɨ capxtɨgooy Dios . ¿ Ti testigo njac-huaanɨm ? Miich ajcxy cɨ'm tɨ mmɨdoogɨxy co yɨ' tɨ ycapxytɨgooy ma Dios , e minañ :
+40026066	nej		¿ Nej miich ajcxy mɨnaangɨxy ? Chi ajcxy ymɨnañ : ― Tɨ ycapxytigooy , copɨcy co y'ögɨpy .
+40026068	pɨn		E chi ajcxy nɨmay : ― Pen janch co miich je' je Cristo octɨygapx pɨn tɨ xycoxy .
+40027004	Ti		Chi Judas nɨmay je teedy mɨjtungmɨɨdpɨ etz je mɨjjäydɨjc ajcxy : ― Ɨɨch tɨ ndundɨgooyɨch co tɨ ngɨ̈yecyɨch yɨ tudägyjäy ma miich ajcxy . Chi je' ajcxy y'adzooy : ― Ti ɨɨch ajcxy n'occuent . Miich yɨ' mnïgɨxp tɨɨbɨ mduñ .
+40027013	Nej		Chi je Pilato ñɨmay Jesús : ― ¿ Nej ca' mmɨdooy nej yɨ' ajcxy yxɨ̈yɨ ?
+40027017	Pɨn		E co anajty jɨm tɨ ytügmujctaaygɨxy , chi Pilato ajcxy y'amɨdooy : ― ¿ Pɨn miich ajcxy mdzojcpy co ɨɨch nnajtzmadzɨ̈huɨbɨchɨ ? ¿ Najtzmadzɨ̈yɨch Barrabás o Jesús huɨdibɨ jäy ajcxy ytijpy je Cristo ?
+40027021	Huɨdibɨ		Paady co jadüg'oc je gobernador y'amɨdooy je mayjäy : ― ¿ Huɨdibɨ machyjäy mdzojcpy co nnajtzmadzɨ̈huɨbɨch ? Chi je mayjäy y'adzooy : ― Najtzmadzɨ' Barrabás .
+40027022	nej		Chi Pilato y'amɨdooy je mayjäy : ― ¿ E nej ndunɨpyɨch yɨ Jesús , huɨdibɨ jäy ytijpy Cristo ? Huin'it ajcxy nidüg'ócɨy y'adzoday : ― ¡ Yajcruutzpet yɨ Jesús !
+40027023a	~		Chi Pilato ymɨnañ : ― Pues , 
+40027023b	nej		¿ nej tɨ ytundɨgooy ? Per je mayjäy nɨgoob y'adzoday : ― ¡ Yajcruutzpet ! ¡ Yajcruutzpet !
+40027046	ti		Huin'ítɨy Jesús ycapxyqueecy janch mɨc ymɨnañ : ― Elí , Elí , ¿ lama sabactani ? ― yɨ jadu'mbɨ ayuc hue' yhuimbɨdzɨmy : Dios Teedy , Dios Teedy , ¿ ti co tɨ xy'ixmachɨch ?
+41001024	Ti		― ¿ Ti co xy'amayɨ̈y ɨɨch ajcxy , Jesús huɨdibɨ tzomb jɨm Nazaret ? ¿ Nej tɨ mmiñ co xyajhuindɨgoyáangɨxyɨchɨ ? Ɨɨch n'ijxcajpy miich , e nejhuɨɨybɨch co miich je' je Huätzpɨ Dios .
+41001027	Ti		Tüg'ócɨy je mayjäy jiiby ma je naymujctac ooy ajcxy ñay'adzɨgɨɨyɨ , e ñayñɨmaayɨ ajcxy miñ xyɨpy : ― ¿ Ti jada' yɨ' ? Jada yëydɨjc ymɨɨd jemybɨ ixpɨ́jcɨn . Yɨ' mɨɨd mɨc'ajt etz ane'm'ajt , paady ycɨxpɨ yɨ' ane'my yɨ ca'oybɨ , e ycapxmɨdoohuɨp .
+41002007a	nej co		“ ¿ Nej co jada jäy jadu'n ymɨna'ñ co tɨ yajhuinmecxy jada pa'mjäy ypocy ? Capxtɨgooyb yɨ' mɨɨd Dios . 
+41002007b	nipɨnjäy		Com ca' nipɨnjäy jëb ypocyhuinmecxy . Tügpajc Dios yɨ' huɨdibɨ jëb ypocyhuinmecxy . ”
+41002008	Na'amy		Per Jesús ñejhuɨɨyb anajty nej je' ajcxy chachmɨna'ñ jotjoty huinma'ñyjoty , paady mɨc'amy ymɨnañ : ― ¿ Na'amy co mdzachhuinmaaygɨxy ?
+41002009	Huɨdibɨ		¿ Huɨdibɨ jada jac'ooy co nnɨmäyɨch yɨ pa'mjäy : “ Tɨ mbocy yajhuinmecxytäyɨ . ” O jac'ooy co nnɨmähuɨbɨch : “ Pɨdɨ̈g , e yajpɨdɨ̈g yɨ mdögy , e tüyöy ? ” Tú'cɨy yɨ' .
+41002016	nej co		Jɨm anajty ma Leví ytɨjc nijëjɨty fariseojäy , je huindzɨndɨjc huɨdibɨ tzach padumb judíojäy ycostumbre . E co je' ajcxy ijxy co Jesús caayb uucp anajty tügmucy mɨɨd tüg'ócɨy je mayjäy ajcxy huɨdibɨ tundɨgooyb mɨɨd judíojäy ytɨy'ajt ycötújcɨn , etz yajcogüejtpɨdɨjc , chi ajcxy mɨgapxy Jesús ydiscípulos , je' ajcxy huɨdibɨ mɨjnɨcxpejtp anajty Jesús , nɨmay ajcxy : ― ¿ Nej co Jesús miich ajcxy mHuindzɨn ycaymucy y'ucmucy mɨɨd yɨ yajcogüejtpɨdɨjc ajcxy , etz jacjadyii jäy ajcxy huɨdibɨ tundɨgooyb mɨɨd judíojäy ycötújcɨn ?
+41002018	nej co		Jadu'n yjajtɨ tüg tiempo ayuu'ijtp anajty je jäy ajcxy huɨdibɨ mɨjnɨcxpejtp anajty Juan je Bautista . Nañ jadu'n ayuu'ajtp anajty je fariseojäy ajcxy . Chi nijëjɨty ajcxy ymiñ ma Jesús e amɨdoy : ― ¿ Nej co yɨ jäy ajcxy huɨdibɨ mɨjnɨcxpejtp ajcxy Juan etz nañ jadu'n yɨ fariseojäy ajcxy ayuu'ajtp ajcxy , e je jäy ajcxy huɨdib miich xymɨjnɨcxpejtp , ca' y'ayuu'ájtcɨxy ?
+41002019	~		Chi Jesús y'adzooy : ― Co ya nyajpaadyɨch ya naaxhuiñ , ca' ycopɨ́cɨty co ɨɨch ndiscípulos ajcxy y'ayuu'adɨp . Jadu'n nipaady nej jäy ajcxy huɨdibɨ pɨ́jcɨn nixɨɨdumy ca' ajcxy y'ayuu'aty ma yam yɨ pɨ́jcɨn nixɨɨduñ , e penɨ ca'nɨ je pɨjcpɨ ymɨgügtɨjc y'ixmajtztäyii . Namɨ je pɨjcpɨ ca'nɨ choñ , chi ca' pɨn y'ayuu'ada'ñ huɨdibɨ nixɨɨdum je pɨ́jcɨn .
+41002024	Na'amy		Co je fariseo jäy ajcxy ijxy jadu'n nej Jesús ydiscípulos ajcxy anajty tujcmujc trigo tɨɨm , chi ajcxy nɨmay Jesús : ― Ix miich . ¿ Na'amy co miich mdiscípulos túngɨxy huɨdibɨ judío ycötújcɨn capx'adujcpy sábado xɨɨ ?
+41003004	nej		Huin'it Jesús y'amɨdoy je jäy ajcxy e nɨmay : ― ¿ Nej miich ajcxy mɨnaangɨxy : Nej jëbɨ jada nduñɨch je oybɨ o je jɨbɨcpɨ sábado xɨɨjoty ? ¿ Jëbɨ nyajtzögɨch jäy o jëbɨ nyajtɨgoyɨch jugy'ájtɨn ? Per je jäy amoñ ajcxy ijty , ca' ajcxy je' y'adzooy .
+41003023	nej		Chi Jesús huoomiñ ma yɨ' je escribas ajcxy , e yajmɨɨdmɨydacy ajcxy tüg jɨhuimbit ayuc . Chi Jesús ymɨnañ : ― ¿ Nej tɨy'ajt jada nej miich ajcxy mɨna'ñ co Satanás jëb cɨ'm ñayyajpɨdzɨmyii ma jäy ajcxy y'aa yjot ? Ca' tɨy'ajt nej miich ajcxy mɨna'ñ .
+41003033a	Pɨnjäy		Chi Jesús ymɨnañ : ― ¿ Pɨnjäy miich ajcxy mdijy co ɨɨch ndaj'adyii etz ɨɨch n'uch'adyii ?
+41003033b	~		
+41004013	nej		Chi Jesús yjacmɨnañ : ― ¿ Nej ca' miich ajcxy mhuinjɨhuɨ̈y jada jɨhuimbit ayuc ? Pen ca' miich ajcxy mhuinjɨhuɨ̈y jada jɨhuimbit ayuc , ca' miich ajcxy mhuinjɨhuɨ̈huɨp yɨ jacjadyii jɨhuimbit ayuc .
+41004030a	nej		Nañ jadu'n Jesús ymɨnañ : ― ¿ Nej m'oc'a'ɨxɨ́ɨygɨxy yɨ Dios y'ané'mɨn ? 
+41004030b	ti		¿ Ti mɨɨd n'ocyajquipyxɨ̈huɨbɨch ?
+41004038	nej		Jesús maab anajty ma je barco ɨjx ma tüg mabejt . Chi yajmäybɨdɨ̈gɨ , e nɨmay ajcxy : ― Huindzɨn , ¿ nej ca'mduñcuend co ɨɨch ajt yam nguinaanɨm ?
+41004040a	na'amy		Huin'it Jesús ymɨnañ : ― ¿ Na'amy co mdzachtzɨgɨɨygɨxy ajcxy ? 
+41004040b	nej		¿ Nej ca' mmɨbɨ́jccɨxy co nmɨɨdɨch Dios ymɨc'ajt ?
+41004041	Pɨn		Jesús ydiscípulos ajcxy ooy chɨgɨɨy , e ñayñɨmaayɨ ajcxy miñ xyɨpy : ― ¿ Pɨn jäy jada' jada Jesús ? Ooy chachmɨjhuinma'ñ co yɨ poj etz je mejy ycapxymɨdoyii .
+41005007	na'amy		Je ca'oybɨmɨɨdpɨ mɨc mɨgapxcooty Jesús , e nɨmay : ― Jesús , je mɨjpɨ Dios y'ung , ¿ na'amy co xymɨdziptzooñɨch ? May'ajt nbɨjctzooybɨch ma Dios co ca' ɨɨch jëb huaad xychaachytuñɨch .
+41005009	ti		Jesús y'amɨdooy je ca'oybɨ : ― ¿ Ti mxɨɨ ? Chi je ca'oybɨ y'adzooy : ― Ɨɨch nxɨɨ hue' je' “ ni may ” , com ni may ɨɨch ajcxy huɨdibɨ yajpatp ma jada yëydɨjc .
+41005030	Pɨn		E Jesús jɨhuɨɨy co anajty tɨ yajtzögy tüg jäy mɨɨd ymɨc'ajt , paady ni'ijxhuimbijty je mayjäy huɨdibɨ anajty pamíinɨp , y'amɨdooy ajcxy : ― ¿ Pɨn ɨɨch nhuit tɨ xyñïdonɨ ?
+41005031	Pɨn		Huin'it Jesús ñɨmaayɨ ajcxy ydiscípulos : ― Miich m'ijxpy co yɨ mayjäy xychach'adijɨ̈y xychach'agodɨ̈y , e miich mɨna'ñ : “ ¿ Pɨn tɨ xyñïdóñɨch ? ”
+41005035	~		Capxp mɨydacp anajty Jesús mɨɨd je töxyjäy co nijëjɨty jäy ñimiinɨ , choñ ma je judío jäy ñaymujctac mɨjtungmɨɨdpɨ ytɨjc , e nɨmay je töxy'anäg yteedy : ― Yɨ mnɨɨx tɨ je y'ögy . Ca' huaad mjac'amayɨ̈y nïg yɨ Huindzɨn Jesús .
+41005039a	nej co		Co Jesús tɨjctɨgɨɨy , chi nɨmay je jäy ajcxy : ― ¿ Nej co nɨgoo ajcxy mdzachne'mnɨ , 
+41005039b	~		e mdzachyáaxcɨxnɨ ? Yɨ pi'c töxy'anäg ca' yɨ' tɨ y'ögy , maab yɨ' .
+41006002a	ma		Sábado xɨɨjoty Jesús ytɨgɨy yaj'ixpɨjcp ma je mayjäy huɨdibɨ yöymújccɨxp ma je judío jäy ñaymujctac . E je mayjäy huɨdibɨ amɨdoo'ijtp anajty ooy jɨhuɨy huinmay ajcxy , e ñayñɨmaayɨ ajcxy miñ xyɨpy : ― ¿ Ma jada' jadayaab jäy tɨ ni'ixpɨgɨ̈y jadayaab ixpɨ́jcɨn ? 
+41006002b	ma		¿ Ma tɨ paady jada huijy'ajt cujc'ajt huɨdibɨ ymɨɨd ? 
+41006002c	ma		¿ Ma jada' tɨ paady yɨ mɨc'ajt huɨdibɨ mɨɨd mɨjhuima'ñ tumyb ?
+41006022	ti		Xɨɨduñyjoty anajty co Herodías ñɨɨx oy y'ech ma je rey anajty yajpaady mɨɨd je may jäy huɨdibɨ anajty yajcaayb yaj'uucpy . E jadu'n nej je Herodías ñɨɨx y'ejch , ooy je rey jadu'n jäygɨdacy , etz tüg'ócɨy je jäy je huɨdijaty anajty mɨɨd ajcxy ycaaygɨxy y'uuccɨxy . Chi je rey nɨmay je töxy'anäg : ― Pɨjctzóohuɨgɨch ti mdɨmdzojcpy , ɨɨch miich nmöhuɨpy .
+41006024	Ti		Chi je töxy'anäg ñɨcxy ma ytaj oy amɨdoy , nɨmay : ― ¿ Ti nbɨjctzohuɨ́pɨch ? Chi je' ytaj y'adzooy : ― Pɨjctzoohuɨ yɨ Juan je Bautista ycohuajc .
+41006037	~		Huin'it Jesús y'adzooy yɨ' ydiscipulos ajcxy : ― Miich ajcxy móoygɨx jada mayjäy caayɨn úucɨn . Chi ajcxy Jesús y'adzooy : ― ¿ Huaad ɨɨch ajcxy nɨcxy njuy mejtz mɨgo'px denario tzajcaagy , jɨgɨx ycayɨpy y'ügɨpy jada mayjäy ?
+41006038	Naag		Chi Jesús y'amɨdooy ydiscípulos ajcxy : ― ¿ Naag tzajcaagy miich ajcxy mɨɨdɨty ya ? Nɨcx íjxcɨx . Co ajcxy tɨy'ajt paty , chi ajcxy Jesús nɨmay : ― Ɨɨch ajcxy nmɨɨd mɨgoox tzajcaagy etz metz acx .
+41007005	Na'amy		Chi je fariseos etz escribas ajcxy y'amɨdooy Jesús , nɨmaayɨ : ― ¿ Na'amy co miich mdiscípulos ajcxy ca' cuydúngɨxy judíojäy ñi'ap costumbre ? ¿ Na'amy co ajcxy ycaaygɨxy y'úccɨxy , e ca' jayɨjp ixpújcɨxy yɨ' ypocyɨ ?
+41008004	Ma		Chi je discípulos ajcxy Jesús adzooy : ― ¿ Ma ɨɨch ajt nbaatɨm je caayɨn uucɨn huɨdibɨ jëb mɨɨd nyajcaayɨm nyaj'úucɨm jada mayjäy ? Com mɨjtɨgɨ̈duum ya nyajpaatɨm ma ca' pɨn chɨnäy .
+41008005	Naag		Chi Jesús y'amɨdooy je' ydiscípulos ajcxy : ― ¿ Naag tzajcaagy miich ajcxy mɨɨdɨty ? Chi je' ajcxy y'adzooy : ― Huɨxtujc tzajcaagy .
+41008012	Na'amy		Chi Jesús tajy may ñayjɨhuɨɨyɨ jotjoty huinma'ñyjoty , chi ymɨcxejy , e ymɨnañ : ― ¿ Na'amy co jada jäy ajcxy huɨdibɨ jugy'ajtp cham , pɨjctzoogɨxy ijxpejt huɨdibɨ tzomb tzajpjoty ? Janch ɨɨch miich nɨmaaygɨxy co ca' nyaj'ixaangɨxy ijxpejt huɨdibɨ tzomb tzajpjoty .
+41008017	Na'amy		E Jesús ñejhuɨɨyb anajty nej je' ydiscípulos ajcxy ñayñɨmaayɨ miñ xyɨpy , paady ymɨnañ : ― ¿ Na'amy co mdzachnimɨydaaccɨxy je caayɨn uucɨn huɨdibɨ tɨ mjäydɨgooygɨxy ? ¿ Nej ca' mhuinjɨhuɨɨygɨxy e ca' mguendɨtungɨxy ɨɨch n'ayuc ? ¿ Nej co ajcxy mdzachcöjuuñɨty ?
+41008018a	nej co		Miich ajcxy mɨɨd mhuiin : ¿ Nej co ca' m'ijxcɨxy huɨdibɨ ndumybɨch ? Miich ajcxy mɨɨd mdädzac : 
+41008018b	nej co		¿ Nej co ca' mmɨdo'mbɨ́jccɨxy ɨɨch n'ayuc ? ¿ Nej co ca' mjäyméjtzcɨxy ti tɨ nduñɨch ?
+41008019	naag		Jayhuin co ndujc-huäcxyɨch je mɨgooxpɨ tzajcaagy e nyajcaayɨch mɨgoox mil jäy : ¿ Naag cach cayduc jɨcxtuc tɨ ajcxy myajpɨdɨ̈gy ? Chi ajcxy y'adzooy : ― Hue' ɨɨch ajcxy nyajpɨdɨ̈gyɨch majmetz cach cayduc jɨcxtuc .
+41008020	naag		Chi Jesús ymɨnañ : ― E jayhuin co ndujc-huäcxyɨch je huixtujcpɨ tzajcaagy , e nyajcaayɨch mɨdaax mil jäy : ¿ Naag cach cayduc tɨ ajcxy myajpɨdɨ̈gy ? Chi ajcxy y'adzooy : ― Hue' ɨɨch ajcxy nyajpɨdɨ̈gyɨch huixtujc cach cayduc jɨcxtuc .
+41008021	nej		Chi Jesús ymɨnañ : ― ¿ Nej chambaad miich ajcxy ca' mhuinjɨhuɨɨy ?
+41008023	~		Huin'it Jesús huijtztzooñ je huintzpɨ ma ycɨ' , chi mɨɨd cajppɨdzɨmy . E chi Jesús yajjaaxy yɨ chujyñɨɨ je huintzpɨ yhuiin , etz cɨ̈nïxajy , e chi amɨdoy pen y'ijxpy anajty tigati yinjaty huenjaty .
+41008027	pɨn		Chi Jesús ñɨcxy mɨɨd ydiscípulos ajcxy jɨm ma nijëjɨty mutz cajp mɨhuingon je mɨj cajp Cesarea Filipo . E tü'am Jesús amɨdoy ajcxy ydiscípulos , nɨmay : ― ¿ Nej jäy ymɨnaangɨxy pɨn ɨɨch ?
+41008029a	nej		Jesús y'amɨdooy je' ydiscípulos ajcxy : ― Miich ajcxy , ¿ nej miich mmɨnaangɨxy 
+41008029b	pɨn		pɨn ɨɨch ? Chi Pedro y'adzooy : ― Miich je' je Cristo .
+41008036	Ti		¿ Ti oy'ájtɨn yɨ' co tüg jäy y'ocnayyajpadɨɨyb yɨ meeñ etz mɨc'ájtɨn ( huɨdi yajpaatp ya ñaaxhuiñybɨ ) e y'alma yjugy'ájtɨn cɨxɨpy tɨgoyɨpy tügcɨ̈y ?
+41008037	Jadu'ñyɨ		¿ Jadu'ñyɨ jëb jäy y'alma yjugy'ájtɨn occojuyɨ ? Nïgɨ tzoohuɨn mɨɨdɨty jäy ajcxy y'alma yjugy'ájtɨn , ca' jac ti .
+41009010	~		
+41009011	Na'amy		Huin'it ajcxy Jesús y'amɨdooy : ― ¿ Na'amy co yɨ escribas ymɨna'ñ co yɨ Elías huɨdibɨ chɨnay jecy'ajty jayɨjp miina'ñ ca'ydɨ je Cristo ?
+41009012	~		Chi Jesús y'adzooy : ― Tɨy'ajt jadu'n co miñ jaybety ma Dios ñecy jecy'ajty co Elías yhuimbidɨpy jacjayɨjp ca'ydɨ je Cristo , e yaj'oyɨydähuɨpy huinjemybɨ tüg'ócɨy mɨɨd Dios ycɨxpɨ . E nañ tɨy'ajt jadu'n co jaybety ymiiñ ma Dios ñecy co je Cristo , je jäy huɨdib tzoon tzajpjoty , yajnaxa'ñ ayo'n etz tzaachypɨ etz mayjäy ca' y'ixa'nɨɨby .
+41009016	ti		Chi Jesús y'amɨdooy je mayjäy , nɨmay : ― ¿ Ti ayuc miich ajcxy mdzachyajyomyb mɨɨd ɨɨch ndiscípulos ajcxy ?
+41009019a	Naag xɨɨ naag po'		Jesús nɨmay je mayjäy : ― Miich ajcxy huɨdibɨ jugy'ajtp jadachambɨ xɨɨ tiempo huɨdibɨ ca' mɨjpɨdägy Dios y'ayuc , ¿ naag xɨɨ naag po' ɨɨch njac-huɨ'mmɨ̈huɨbɨch mɨɨd miich ajcxy ? 
+41009019b	Naag xɨɨ naag po'		¿ Naag xɨɨ naag po' n'ocmɨmecxtuguipɨch miich ajcxy ? Mɨɨdmiin yɨ mmang ya ma ɨɨch nhuinduu .
+41009021	Mɨnaag		Jesús y'amɨdooy je pa'mjäy yteedy : ― ¿ Mɨnaag jɨmɨjt cujc yöy maabɨ mmang ypa'mbety ? Chi je ungdeedy y'adzooy : ― Ma'xung anajty co pa'mbedyii . Canaag'oc je ca'oybɨ yajyachyii yajquïdyii ɨɨch nmang , ixtɨ tɨ oy ycogɨdahuɨ̈y jɨɨnjoty etz nɨɨjoty . Je ca'oybɨ canaag'oc jayaj'ögy ɨɨch nmang . Pen miich mɨɨd tzöc'ajt mɨc'ajt jaydëb xypubedɨpyɨch , tun may'ajt pa'ayoogɨch etz pubejtcɨch .
+41009028	Na'amy		Co Jesús ytɨgɨɨy ma tüg tɨjc , chi je' ydiscípulos ajcxy y'amɨdou ameech , minañ ajcxy : ― ¿ Na'amy co ɨɨch ajcxy ca' tɨ nmadägyɨch nej nyajpɨdzɨmɨp ɨɨch ajcxy yɨ ca'oybɨ ?
+41009033	Ti		E Jesús mɨɨd ydiscípulos ajcxy oyjäty jɨm Capernaum . Co ajcxy ytɨjctɨgɨɨy , chi Jesús yaj'amɨdoy ydiscípulos ajcxy , nɨmay : ― ¿ Ti ayuc miich ajcxy naymɨɨdmɨydáacɨgɨxy jɨm ma anajty mdüyöygɨxy ?
+41009050	~		Yɨ caan ooy yɨ' y'óyɨty , pen ymɨɨd xücx'ájtɨn . Co je caan ytɨgoy yxücx'ájtɨn , ca' ji ni ti huɨdibɨ jëb mɨɨd nyajxücxɨɨyɨm . Mɨɨd'ájtcɨx ɨɨch n'ayuc ma mjot mhuinma'ñ , jadu'n ɨɨch n'ayuc nipaady nej caan , e tzɨna' miich ajcxy jotcujc mɨɨd mmɨgügtɨjc nidüg nidüg .
+41010003	nej		Chi Jesús y'adzooy , ymɨnañ : ― ¿ Nej Moisés ymɨna'ñ ma yɨ' ycötújcɨn ñecy ?
+41010017	ti		Co Jesús chooñ jadüg'oc , chi ñimiinɨ poyɨ̈gy tüg yëydɨjc , ycojxtɨnay'ahuɨy ma Jesús yhuinduu , e ymɨnañ : ― Miich , oybɨ Huindzɨn , ¿ ti huaad ndunɨpyɨch jɨgɨx jëbɨ nbadɨpyɨch jugy'ájtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy ?
+41010018	Na'amy		Chi Jesús ymɨnañ : ― ¿ Na'amy co xyñɨmäyɨch co oy huindzɨn ɨɨch ? Dios tügpajc óyɨp , ca' jac ni pɨn .
+41010026	pɨnjäy		Co jadu'n ajcxy mɨdoy nej Jesús ymɨnañ , chi ooy ajcxy yhuinmay'ahuɨdijty , e nayñɨmáayɨgɨxy miñ xyɨpy : ― Pen janch tɨy'ajt jadu'n , ¿ pɨnjäy jada' huaad jëb y'alma ñïdzögɨpy ?
+41010036	ti		E Jesús ymɨnañ : ― ¿ Ti mdzojcpy co ndunipɨch mɨɨd miich ajcxy ycɨxpɨ ?
+41010051	Ti		Chi Jesús je huintzpɨ y'amɨdooy : ― ¿ Ti mdzojcpy ndunɨpyɨch mɨɨd miich ycɨxpɨ ? Chi je huintzpɨ ymɨnañ : ― Huindzɨn , ndzójcpyɨch co xyajhuindɨcxɨ̈gɨbɨch .
+41011003	Na'amy		Pen jɨm pɨnjaty xy'amɨdoogɨxy : “ ¿ Na'amy co mmɨdzonaangɨxy yɨ burro ? ” Chi miich ajcxy mnɨmähuɨpy : “ Je Huindzɨn ( Jesús ) yajtunamyb tzojc , e yajhuimbidamy mɨc'amy . ”
+41011005	Ti		Ycoguejtuutyp anajty ajcxy je burro co nijëjɨty jäy jɨm huingon ymɨnañ : ― ¿ Ti mdungɨxyp ? ¿ Na'amy co mgoguejtuutcɨxy yɨ burro ?
+41011028a	Pɨn		― ¿ Pɨn cötújcɨn tɨ xymöy huɨdibɨ tɨ mduñ ya tzajtɨgoty ? 
+41011028b	ma		¿ Ma cötújcɨn tɨ mbaady co jëb m'ane'my ya tzajtɨgoty ?
+41011030	Pɨn		¿ Pɨn yajnïbɨjc Juan , je Bautista , co huen jäy yajnɨɨbety ? ¿ Dios , o naaxhuiñyjäy ? Adzoogɨch ajcxy .
+41011031a	~		Chi ajcxy ytɨgɨɨy huinmay'ahuɨdijtpɨ , ñayñɨmáayɨgɨxy miñ xyɨpy : ― Pen mɨnaanɨm co Dios tzajpjotypɨ tɨ yajnïbɨcy Juan , chi Jesús xyñɨmáayɨmɨpy : 
+41011031b	nej co		“ ¿ Nej co ca' miich ajcxy mɨbɨjcy Juan y'ayuc ? ”
+41012009	Ti		Co Jesús jadu'n mɨydactay je jɨhuimbit ayuc , chi ymɨnañ : ― ¿ Ti ytunamyb je cogam mɨɨd je tumbɨdɨjc ajcxy ? Hue' min cɨ'm ma je' ycam , e yaj'öctähuɨpy je tumbɨdɨjc ajcxy huɨdibɨ tundɨgoy . E yegɨpy pɨjctzoy je' ycam mɨɨd huingbɨ jäy ajcxy .
+41012015	na'amy		Per Jesús ñejhuɨɨyb anajty ajcxy yjɨbɨc-huinma'ñ , e chi ajcxy nɨmay : ― ¿ Na'amy co miich ajcxy xyjot'ixy xyhuinma'ñ'íxyɨch ? Yajmiingɨx tüg meeñ jɨgɨx n'oc'ixɨpyɨch .
+41012016a	pɨn		Chi ajcxy mɨmiiñ tüg meeñ e co Jesús ijxy je meeñ , chi ymɨnañ : ― ¿ Pɨn y'ahuanax etz 
+41012016b	pɨn		pɨn yxɨɨ ijtp ma jada meeñ ? Chi ajcxy y'adzooy : ― Hue' yɨ' César .
+41012023	huɨdibɨ		E co anajty xɨɨ tiempo paaty , co anajty Dios yajjugypɨcy yɨ tɨɨbɨ ajcxy y'ögy , ¿ huɨdibɨ jada' ajcxy nidüctɨ je yëydɨjc töxyɨjc'adaanɨp je töxyjäy ? Com tɨ ajcxy jadu'n nihuɨxtujcpɨ mɨɨd tzɨnay'abɨdzɨmgɨxy .
+41012028	Huɨdibɨ		Nañ jadu'n je huin'it tiempo nimiiñ Jesús tüg escriba . E yɨ' anajty y'amɨdo'ijtpy co Jesús adzooy je jäy huɨdibɨ ca' mɨbɨcy co yɨ öcpɨ yjugypɨgɨpy ajcxy jadüg'oc . Jada escriba ñejhuɨɨyb co Jesús ooy oy tɨ y'adzooy je saduceos ajcxy , paady yɨ' Jesús amɨdooyɨ : ― ¿ Huɨdibɨ je' Dios y'ané'mɨn jacmɨjpɨ ?
+41012035	na'amy		Jesús yaj'ixpɨjcpy anajty je mayjäy jiiby ma Dios ytɨjc , e ymɨnañ : ― ¿ Na'amy co yɨ escribas ajcxy ymɨnaangɨxy co Cristo hue' je' David y'ap y'oc ?
+41012037	nej co		¿ Per nej co yjadu'nɨty co jäy ajcxy ymɨnaangɨxy co je Cristo David je' y'ap y'oc ? ¿ E David cɨ'm ymɨnañ co je Cristo yɨ' yHuindzɨn'ajtpy ? Jotcujc anajty je mayjäy amɨdoo'ijtɨ Jesús y'ayuc .
+41013004a	mɨna		― Tun may'ajt ɨɨch ajcxy yajnɨmaayg mɨna jada ytuna'ñyii yjada'ñyii co huindɨgoydähuɨp Jerusalén cajp . 
+41013004b	ti		¿ Ti ijxpejt'adam co anajty jadayaabɨ jadu'n ytuna'ñyii yjada'ñyii ?
+41014004	nej		E nijëjɨty jäy ajcxy huɨdibɨ anajty jɨm , ca' anajty ajcxy yjotcújcɨty mɨɨd huɨdibɨ je töxyjäy tɨ tuñ , e ñayñɨmayɨ ajcxy miñ xyɨpy : ― ¿ Nej jada co ocyaj'ayoonɨ yɨ perfume huɨdibɨ ooy oy yxuugy ?
+41014006	nej co		Chi Jesús ymɨnañ : ― Ixmajtzcɨx jada töxyjäy . ¿ Nej co m'amayɨɨygɨxy ? Yɨ huɨdibɨ tɨ tuñ mɨɨd ɨɨch , ooy yɨ' y'óyɨty .
+41014012	Ma'amy		Chi paty je mɨj xɨɨ mɨna je xɨɨ'ajtpɨdɨjc tzajcaagy cay huɨdibɨ ca'p levadura mɨɨdɨty , e yaj'öccɨxy je cöbixy huɨdibɨ ajcxy yajhuindzɨgɨɨyb anajty Dios . Chi ydiscípulos ajcxy y'amɨdooy Jesús : ― ¿ Ma'amy mdzocy co ni'ixɨɨyɨm je pascua xɨɨ adzu'ájtɨn ?
+41014014	ma		Mbanɨ́cxɨpy ajcxy je yëydɨjc , ixtɨ coon mbajädɨpy ma ytɨjc . E miich ajcxy mnɨmähuɨpy je codɨjc : “ Je Huindzɨn Jesús ñejhuɨ̈huam ma miich mɨɨdɨty tüg cuarto ma je Huindzɨn Jesús mɨɨd ydiscípulos ajcxy jëb caaygɨxy yɨ pascua xɨɨ adzu'ájtɨn . ”
+41014060a	nej		Chi je teedy huɨdibɨ je jacmɨjtungmɨɨd ytɨnayɨ̈gy juntajoty , chi y'amɨdooy Jesús e nɨmay : ― Jesús , ¿ ca' nej m'adzohua'ñyɨ ? 
+41014060b	nej		¿ Ca' mmɨdoy nej xychachxɨ̈gɨxy ?
+41014063	Ti		Chi je teedy huindzech huinhuocy ycɨ'm yhuit , je' je' tɨy'ájtɨp co ca' anajty yjotcújcɨty mɨɨd Jesús y'ayuc , chi ymɨnañ : ― ¿ Ti testigo njac-huaanɨm ?
+41014064	nej		Miich ajcxy cɨ'm tɨ mmɨdoogɨxy yɨ' y'ayuc , jadu'n nej ycapxtɨgoy mɨɨd Dios . ¿ Nej miich ajcxy mɨnaangɨxy ? Chi nidüg'ócɨy ajcxy ymɨnañ co janch jadu'n Jesús mɨj oy tɨ ycapxtɨgoy mɨɨd Dios ytɨy'ajt , paady huaad mooygɨxy yɨ o'cɨn .
+41015004	nej		Chi Pilato jadüg'oc Jesús y'amɨdooy , nɨmay : ― ¿ Ca' nej m'adzohua'ñɨ ? Ix nej yɨ mmɨdzip ajcxy xychachxɨ̈gɨxy .
+41015012	Nej		Chi Pilato y'amɨdooy je mayjäy jadüg'oc : ― ¿ Nej miich ajcxy mdzocy ndunɨpyɨch mɨɨd jada yëydɨjc huɨdibɨ jäy ajcxy ytijpy co yrey'aty ma yɨ judíojäy ajcxy ?
+41015014a	~		Chi Pilato ymɨnañ : ― Per 
+41015014b	ti		¿ ti yɨ' tɨ tundɨgoy ? Huin'it je mayjäy nïgɨ mɨc ymɨnañ : ― ¡ Yajcruutzpet !
+41015034	Na'amy		Mɨnacyxɨɨ Jesús mɨc ymɨnañ mɨɨd aramaico ayuc : ― Eloi , Eloi , ¿ lama sabactani ? ― yɨ jadu'mbɨ ayuc hue' yhuimbɨdzɨmy : Tat Dios . Tat Dios . ¿ Na'amy co tɨ xy'ix'ixyɨch ?
+41016003	Pɨn		Chi je tugɨɨgpɨ töxyjäy ajcxy nayñɨmaayɨ miñ xyɨpy : ― ¿ Pɨn xy'ocpubéjtɨm jɨgɨ̈huɨpy je mɨj tzaa huɨdibɨ mɨɨd agɨɨyɨty je öcpɨ jut ?
+42001018	nej		Chi Zacarías nɨmay je ángel : ― ¿ Nej jada ɨɨch nejhuɨ̈huɨpy penɨ janch huɨdibɨ xyajnɨmaaybɨch ? Tɨ nmɨjjäyɨɨyñɨch , cham ndöxyɨjcɨch nañ tɨ ymɨjjäyɨɨyñɨ .
+42001034	Nej		Chi María je ángel nɨmaay : ― ¿ Nej jada co yjadú'nɨty ? Ɨɨch ca'nɨ nyëydɨjc mɨɨd tzɨnäy .
+42001043	nej		¿ Nej ɨɨch jada co jadu'n tɨ n'ahuägɨ̈y co nHuindzɨnɨch ytaj miñ xyco'ixɨ̈yɨch ?
+42001066	Ti		Tüg'ócɨy pɨnjaty anajty mɨdoob je ayuc , chi jäymejtzhuɨ'm ajcxy ma yjot yhuinma'ñ , chi ñayñɨmáayɨgɨxy : ― ¿ Ti jada' ytunamyb jada pi'c'anäg ? Com je Huindzɨn Dios je' mɨɨd y'ity .
+42002048	nej co		Co Jesús ytaj yteedy y'ijxpatɨ , chi ooy ajcxy tzachjɨhuɨɨy . Chi ungdaj ymɨnañ : ― Aay ung , ¿ nej co miich jadu'n xytúngɨxyɨch ? Yɨ mdeedy etz ɨɨch yam tzachjottɨgooyb nay'adzɨgɨ̈yiijɨch n'ixtáaygɨxɨch miich .
+42002049	na'amy		Chi Jesús y'adzooy : ― ¿ Na'amy co miich xy'ixtáaygɨxyɨch ? ¿ Ca' mnejhuɨɨygɨxy co copɨty n'ida'ñɨch ma nDéedyɨch ytung ?
+42003007	Pɨn		Chi Juan ojy ajcxy je jäy pɨnjaty anajty miimb nɨɨbejtpɨ , ymɨnañ : ― ¡ Miich ajcxy tza'ñ ajcxy y'ajugy y'amɨgüg ! ¿ Pɨn miich ajcxy tɨ xynɨmäy quëg ma yɨ ayo'n huɨdibɨ Dios yquexaamy ?
+42003010	Ti		Chi je mayjäy ajcxy y'amɨdooy je Juan : ― ¿ Ti ɨɨch ajcxy jëbɨ nduñ ?
+42003012	Ti		Chi miiñ jadyii yajcogüejtpɨ co anajty ñɨɨbedaangɨxy , ymɨnañ ajcxy : ― ¿ Ti huaad ɨɨch ajcxy nduñ ( jɨgɨx Dios xymɨjotcujc'adɨpyɨch ) ?
+42003014a	~		Chi soldado ajcxy ymɨnañ : 
+42003014b	ti		― ¿ Ti ɨɨch ajcxy ndunɨpy ( jɨgɨx Dios xymɨjotcujc'adɨpyɨch ) ? Chi Juan y'adzooy : ― Ni pɨn ajcxy ti mgapɨ́jcɨpy , ni mganïhuambedɨpy ajcxy . Nañ jadu'n mɨjotcujc'ájtcɨxy nej myajmujuuygɨxy .
+42004034	ti		― Ixmajtzcɨch ajcxy , ¿ ti mdunamy mɨɨd ɨɨch ajcxy Jesús je nazaretpɨ ? ¿ Nej tɨ mmiñ co xyajhuindɨgoyáanɨgɨxyɨch ? Ɨɨch miich n'ijxcapy co miich je' je Huätzpɨ Dios .
+42004036	Ti		Tüg'ócɨy jäy jɨm ooy ajcxy ñay'adzɨgɨɨyɨ miñ xyɨpy yjanayñɨmáayɨgɨxy : ― ¿ Ti ayuc jada' yɨ' ? Co mɨɨd y'ané'mɨn etz mɨc'ajt ane'my ca'oybɨ etz yajpɨdzɨmy ma jäy .
+42005021a	~		Chi je' ajcxy huɨdi yaj'ixpɨjcpy Dios ñecy etz je judío ixpɨcytɨjc huɨdi naydíjɨgɨxp fariseojäy huinmaygoty , ñayñɨmáayɨgɨxy : “ Jada Jesús ooy ycapxtɨgoy mɨɨd Dios . Ni pɨn yëydɨjc huaad ca' ti pocymeecxy . Tügpajc nHuindzɨn'ájtɨm Dios huɨdi pocyhuinmecxp . ”
+42005021b	~		
+42005022	Ti		Jesús ñejhuɨɨy je' ajcxy yjot yhuinma'ñ , paady ajcxy nɨmay : ― ¿ Ti mdzachhuinmaayb ajcxy ma mjot mhuinma'ñ ?
+42005023	ti		¿ Ti jactzip co mɨnaanɨm co tɨ mbocy yajmeecxy o mɨnaanɨm : “ Pɨdɨ̈g etz nɨcxnɨ ” ?
+42005030	Na'amy		Chi je' ajcxy huɨdibɨ yaj'ixpɨjcp Dios ñecy etz je ixpɨcytɨjc huɨdi naydíjɨgɨxp fariseojäy tzachni'ameechycápxcɨxy ni'ojɨɨygɨxy je Jesús ydiscípulos ajcxy , ymɨnaangɨxy : ― ¿ Na'amy co mgaaygɨxy m'uuccɨxy mɨɨd yajcogüejtpɨ etz mɨɨd pocyjäy ajcxy ?
+42005033	nej co		Chi je mayjäy ajcxy Jesús nɨmay : ― Nej co yɨ' ( Juan ) ydiscípulos ajcxy janam jadzojc jaygay y'íjtcɨxy etz ycapxtáccɨxy , nañ jadu'n je fariseojäy ydiscípulos ajcxy janam jadzojc jaygay y'íjtcɨxy . Chi miich mdiscípulos ajcxy ca' ajcxy jaygay y'ijtcɨxy , caaby uucp ajcxy jabom jabom .
+42005034	nej		Chi Jesús ymɨnañ : ― ¿ Nej jëbɨ yaj'ayuu'aty jäy ajcxy huɨdi yajpatpɨ ma je pɨjcpɨ yajnixɨɨduñ , pen quipxyɨ yam yajpaady mɨɨd je huɨdibɨ pɨjcp ?
+42006002	ti		Chi nidügtɨ fariseojäy ymɨnañ : ― ¿ Ti co ajcxy jadu'n mdundɨgooy co mdúngɨxy huɨdi ca' ñigodúcyɨty ajcxy mdunɨpy pocxɨn xɨɨduum ?
+42006009	nej		Chi Jesús ymɨnañ : ― Nyaj'amɨdohuaamybɨch miich ajcxy tüg ayuc . ¿ Nej Dios ñecy ymɨna'ñ , jëbɨ oybɨ nduunɨm pocxxɨɨduum o jëbɨ jɨbɨcpɨ nduunɨm , nyajtzoocɨm jäy o nyajtɨgooyɨm jäy yjugy'ajt ?
+42006032	ti		Pen miich ajcxy jëyɨ mdzojccɨxpy pɨnjaty xychojccɨxp , ¿ ti oyjäy'ájtɨn jada' miich ajcxy m'ocpaadɨpy ? Nañ jadu'n je pocyjäy ajcxy chojcpy pɨnjaty yɨ' ajcxy tzójcɨp .
+42006033	Ti		Pen mdumyb oybɨ huɨdijaty mmɨɨd ooy mnaymɨgüg'adyii . ¿ Ti oyjäy'ajtɨn jada' miich ajcxy m'ocpáadɨp ? Nañ jadu'n je pocyjäy ajcxy tuñ oybɨ mɨɨd ymɨgügtɨjc .
+42006034	ti		Pen myejcpɨjctzou mɨɨd je jäy huɨdibɨ miich ajcxy mjɨjp'ijxpy co nañ jadu'n xymöhuɨpy tigatii , ¿ ti oyjäy'ájtɨn miich ajcxy mdumyb ? Nañ jadu'n yɨ jɨbɨc jäydɨjc jayejcpɨ tijaty pɨjctzoy co nañ jadu'n jɨjp'íjxcɨxy co ymöhuɨpy tigatii .
+42006039	nej		Chi Jesús yajnɨmay je mayjäy tüg jɨhuimbit ayuc : ― ¿ Nej jëbɨ tüg jäy huintzpɨ ymɨgüg huintzpɨ huijtzyöyñɨ ? ¿ Nej ca' mdijy nimetz yjutcögägɨxɨpy ?
+42006041	Na'amy		¿ Na'amy co mɨc'amy mbocy'ixy mmɨgüg co hueenɨ ytundɨgoy , e miich jac mɨj ooy mdundɨgoy , e ca' mjɨhuɨ'ñybɨcy ? Tɨm jadu'n nipaady nej jɨhuɨ̈y tɨ m'ixy pi'cpüx ma mmɨgüg yhuiin , e ma miich mgɨ'mhuiin jac jiiby mɨj quipy , e ca' m'ixy je quipy ma mgɨ'mhuiin .
+42006042	~		Ca' huaad mnɨmähuɨpy mmɨgüg : “ Nayyegɨɨ miñɨch püx n'ocyajpɨdzɨm maabɨ mhuiin ” , e miich ca' m'ijxy mɨj quipy ma mgɨ'mhuiin . Jɨbɨcjäy miich . Jayɨjp miich myajhuädzɨp mjot mhuinma'ñ , huin'it jëbɨ mmɨgüg m'ɨɨhuíjɨp mgapxhuíjɨp , jadu'n nipaady nej jɨhuɨ̈y tɨ myajpɨdzɨmy je quipy maabɨ mhuiin , jachuädz m'íjxɨ̈gɨpy e chi jëbɨ yɨ pi'cpüx myajpɨdzɨmɨpy maabɨ mmɨgüg yhuiin .
+42006046	nej co		Chi Jesús yjacmɨnañ : ― ¿ Nej co nɨgo mɨnaangɨxy : “ Huindzɨn , Huindzɨn ” , ni ca' ajcxy mdúngɨxy huɨdi nyajnɨmaaygɨxpy ?
+42007024	ti		Co je Juan yquexyyöybɨ yhuimbijttay , chi Jesús nimɨydaccoty je Juan ma je mayjäy ajcxy , ymɨnañ : ― Co ajcxy tɨ m'oy mɨjtɨgɨ̈duum , ¿ ti tɨ m'íjxcɨxy ? ¿ Nej tɨ m'íjxcɨxy tüg jäy ametz jotmetz , jadu'n nejhuɨ̈y tüg nähuaax huɨdi pojmiimb pojxɨjp ?
+42007025	ti		Chi jada' , ¿ ti oy tɨ m'íjxcɨxy ? ¿ Tüg yëydɨjc huɨdi mɨɨd oy yhuit yxöxyɨty ? Yɨ jäy ajcxy oy yxojxypɨ huɨdi agujc jotcujc tzɨnaaygɨxp hue' ajcxy yajpaady ma yɨ rey ytɨjc .
+42007026	Ti		¿ Ti ajcxy tɨ m'ixy jɨm mɨjtɨgɨ̈duum ? ¿ Tüg jäy huɨdi Dios ytɨy'ajt mɨɨd ? Janch tɨ m'íjxcɨxy tüg Dios ytɨy'ajtmɨɨdpɨ , etz jacnïgɨ ymɨ́jɨty je' ca'ydɨ Dios y'ayucnajtzcapxɨɨybɨ huɨdi jecy'ajty tzɨnay .
+42007031a	ti		Chi je Huindzɨn Jesús ymɨnañ : ― ¿ Ti mɨɨd nyajquipxɨ̈huɨbɨch jadayaabɨ jäy huɨdi tzɨnayb ma jadachambɨ tiempo ? 
+42007031b	Huɨdi		¿ Huɨdi mɨɨd nyajtügɨ̈huɨbɨch ?
+42007042	huɨdibɨ		Com je' ajcxy ca' anajty mɨɨdɨty ti mɨɨd cuedɨp , chi je comeeñyjäy huinmecxy nimetz . Miich ocnɨmaaygɨch , ¿ je metzpɨ jäy huɨdi nuucxy , huɨdibɨ je' nïgɨ chojpy ?
+42007049	Pɨn		Pɨnjaty anajty ɨñaayb ma je mesa ñayñɨmáayɨgɨxy miñ xyɨpy : ― ¿ Pɨn jäy jada jada' co nañ yhuinmeecxɨpy jäy ypocy ?
+42008025a	ma		Chi Jesús ymɨnañ : ― ¿ Ma miich ajcxy je mmɨbɨ́jcɨn ? Chi ajcxy yjanchchɨgɨygoty janch yhuinmay ajcxy ñayñɨmáayɨgɨxy miñ xyɨpy : 
+42008025b	Pɨn		― Pɨn yëydɨjc jada jada' co je poj etz nɨɨ jɨɨguexy , etz yajhuäcxɨpy , etz ycapxycöbɨgyii .
+42008028	Ti		Co je' ixpaty Jesús , chi yaaxqueecy , e ycoxtɨnay'ahuɨɨy ma Jesús yhuinduu , ymɨnañ janch mɨc : ― ¿ Ti ɨɨch miich co xyñimiiñɨch , Jesús , tügpajc mɨjpɨ Dios y'ung ? Tun may'ajt ca' nijot xychachchaachytúñɨch .
+42008030	ti		Chi Jesús y'amɨdooy je locɨjäy : ― ¿ Ti miich mxɨɨ ? Chi je ca'oybɨ ymɨnañ : ― Ɨɨch nxɨɨ Legión ( hue' yhuimbɨdzɨmy nimay ) . Jadu'n mɨnañ com nimay anajty ca'oybɨ tɨ ytɨgɨɨygɨxy ma je jäy .
+42008045	Pɨn		Chi Jesús ymɨnañ : ― ¿ Pɨn xyñïdoñ ɨɨch nhuit ? Chi ajcxy y'adzooy co ca' pɨn . Chi Pedro etz tüg'ócɨy mɨɨd je' ymɨnañ : ― Huindzɨn , jäy tɨ xy'adijɨ̈y tɨ xy'abodɨ̈y etz miich mɨna'ñ : “ ¿ Pɨn tɨ xyñïdoñɨch ? ”
+42009009a	Pɨn		Chi Herodes ymɨnañ : ― Ɨɨch yɨ' ni'ane'mdɨy co huen ajcxy Juan ycohuajc yajmɨnajcɨ . ¿ Pɨn jada jada' huɨdi ɨɨch nmɨdooybɨch co tzachnimɨydaaccɨxy ? Herodes ooy anajty ja'ixa'ñ Jesús .
+42009009b	~		
+42009018	Pɨn		Chi jadu'n yjajtɨ co Jesús anajty ycapxtägy ahuingujc mɨɨd je' ydiscípulos ajcxy , chi Jesús je' ajcxy y'amɨdoy : ― ¿ Pɨn ɨɨch jäy xytijy ?
+42009020a	~		Chi Jesús ymɨnañ : ― ¿ Miich ajcxy , 
+42009020b	pɨn		pɨn ɨɨch miich ajcxy xytíjcɨxy ? Chi Pedro y'adzooy : ― Dios yCristo .
+42009025	Ti		¿ Ti tüg jäy ypatpy , pen tɨ paady tüg'ócɨy cohuit'ájtɨn comeeñ'ájtɨn ya naaxhuiñ e nayyajtɨgoyii , etz ca' y'alma yajnïdzögy ?
+42009041a	Naag xɨɨ		Chi Jesús ymɨnañ : ― ¡ Miich jäy ajcxy huɨdibɨ ca' mɨbɨjcp ca' ajcxy mmɨjpɨdäga'ñ yɨ tɨy'ajt ! ¿ Naag xɨɨ ɨɨch njac'idɨpy ma miich ajcxy nmɨmecxtújccɨxɨpy ? Mɨmin m'ung ya .
+42009041b	~		
+42010025	ti		Chi tüg jäy huɨdi yaj'ixpɨjcp Dios ñecy ytɨnaay'ahuɨɨy jot'ixy huinma'ñ'ixy Jesús , chi y'amɨdooy : ― Huindzɨn , ¿ ti huaad ndunɨpɨch co ɨɨch jugy'ajtɨn huinɨxɨɨbɨ nbáadɨbɨch ?
+42010026a	ti		Chi Jesús y'adzooy : ― ¿ Ti jaybétyɨp ma yɨ Dios ñecy ? 
+42010026b	nej		¿ Nej mhuinjɨhuɨ̈y co mnecycapxy ?
+42010029	Pɨn		E je' nañ jadu'n tɨm tɨy ñejhuɨ̈hua'ñ , nɨmay Jesús : ― ¿ Pɨn ɨɨch nmɨdɨjc'ajtpy ?
+42010036a	~		
+42010036b	ma		¿ Ma je nidugɨɨgpɨ jäy pɨn je oybɨ tɨ tuñ mɨɨd je jäy huɨdi anajty je meetzpɨ tɨ ymeechyii tɨ yajtzaachɨ̈yii ?
+42011008	~		Ɨɨch miich nɨmaayb , oy ca' tzojc nipɨdɨ̈ga'ñ ymöhuamy huɨdi pɨjctzou co mɨgüg'adyii , hue' ymöhuamy jaydëbɨ ca'ydɨ yjac'amayɨ̈yii , chi yegɨpy tüg'ócɨy huɨdi yajmayjajtpy .
+42011011	Pɨn		¿ Pɨn ungdeedy ji ma miich ajcxy pen y'ung ypɨjctzoob tzajcaagy , nej mmöhuɨpy tüg tzaajɨ ? ¿ E pɨn ypɨjctzooyb acx , nej jëbɨ mmöhuɨpy tüg tza'ñɨ ?
+42011012	nej		¿ Pen ypɨjctzoyb tzeydüty , nej jëbɨ mmöhuɨpy ca'ty ?
+42011013	nej		Pen miich jɨbɨcjäy ajcxy mnejhuɨɨyb nej oybɨ m'ung móoygɨxɨpy , ¿ nej ca' mdijy yjánchɨty co mDios Teedy tzajpjotypɨ xymóoygɨxɨpy je Espíritu Santo , pen miich ajcxy mmɨbɨjctzohuɨpy ?
+42011018	nej		Pen je mujcu' ajcxy ñaybɨjc-huäcxɨp , ¿ nej jada je mujcu' y'ané'mɨn yjac'idɨpy ? Miich ajcxy mɨnamb co ɨɨch mɨɨd ndúñɨch je Beelzebú ymɨc'ajt co ɨɨch ca'oybɨ nyajpɨdzɨmy .
+42011019	pɨn		Pen jadu'n yɨ' , ¿ pɨn je mɨc'ajt mooyb huɨdi miich ajcxy xypahuɨdijtp co yajpɨdzɨmy je ca'oybɨ ? Paady yɨ' ajcxy cɨ'm yajniquëxɨ̈cp co miich ajcxy mdundɨgooygɨxy mgapxtɨgooygɨxy .
+42012014	pɨn		Chi Jesús ymɨnañ : ― Yëydɨjc , ca' ɨɨch ni pɨn tɨ xypɨdägyɨch ane'mbɨ ma miich ajcxy etz yajhuäcxpɨ .
+42012017	Ti		Je comeeñyjäy anajty ooy cɨ'm huinmay ma yjot yhuinma'ñ , ymɨnañ : “ ¿ Ti n'octunɨpɨch com ca' nmɨ́ɨdɨdyɨch ma nyajnïgɨdägɨbɨch yɨ tɨɨbɨ y'ity ? ”
+42012020	pɨn		Chi Dios nɨmay je comeeñyjäy : “ Ooy jɨbɨc-huinma'ñ miich mɨɨdɨty . Cham coodz ɨɨch miich nibɨjctzohuɨ̈huaanɨy yɨ m'alma ( m'ögɨp ) , e co anajty tɨ m'ögy yɨ huɨdibɨ tɨ myujcpɨcy , ¿ pɨn yɨ' je'adɨɨb ? ”
+42012024	nej		Ijxcɨx yɨ joogy ni ca' ñïpy , ni ca' chijccɨxy , ni ca mɨɨdɨty ytɨjc ni chëx , e Dios yɨ' ajcxy mooyɨpy huɨdi yjɨɨcxcɨxyp , ¿ nej cayjacnïgɨ miich ajcxy mdzoohuɨty ca'ydɨ joon ajcxy ?
+42012025	pɨn		Ca' ji ni pɨn ma miich ajcxy pɨn jadɨpy nej ñayjɨjptzomɨ̈huɨɨb jadüg cɨ̈nuux .
+42012026	nej co		Pen ca' mjajtcɨxy nej mdúngɨxɨpy huɨdi hueen huinma'ñ , ¿ nej co mdzachmɨjottɨgooygɨxy yɨ tzɨnaayɨn yɨ comeeñ'ájtɨn ?
+42012042	Huɨdibɨ		Chi je Huindzɨn Jesús ymɨnañ : ― Huɨdibɨ tumbɨ je' ya huɨdi tumb mɨɨd yhuindzɨn janch cɨxyjot huinɨjot huɨdi mɨɨd yhuijy'ajt ycujc'ajt huɨdi je yhuindzɨn mooyɨp ané'mɨn ma ytɨjc , huɨdi yajnigɨdägɨɨyb tumbɨdɨjc nej ypaadyii .
+42012049	~		Chi Jesús yjacmɨnañ : ― Ɨɨch tɨ nmiiñɨch ya naaxhuiñ co jɨɨn nbɨdägɨbɨch . ¡ Ooy njadzocyɨch ji ixyipy ñitooyñɨ !
+42012056	Nej co		¡ Miich jɨbɨc jäy ajcxy ! Ooy mjajtcɨxy nej myajcapxcɨxy yɨ xɨɨ tiempo huɨdi ajcxy m'ijxpy tzajpcɨ́xy etz ya naaxhuiñ : ¿ Nej co ca' mjajtcɨxy nej myajcápxcɨxɨpy xɨɨ tiempo ymiñ ycɨdägy ?
+42012057	nej co		¿ Nej co miich ajcxy ca' cɨ'm mnaydɨydúunɨgɨxy nej ytudägyɨty je tɨy'ajt ?
+42013004	nej		E je' ajcxy je majmocxtugɨɨgpɨ huɨdi je mɨjtɨjc jɨm Siloé nïgɨdaagoottɨ , yaj'öcɨ ajcxy . ¿ Nej mdijy nïgɨ ajcxy ypocymɨɨdɨty , ca'ydɨ nidüg'ócɨy je jäy huɨdi tzɨnayb jɨm Jerusalén ?
+42013007	nej co		Chi nɨmay je' ytumbɨ : “ Cham mɨdugɨɨg jɨmɨjt miiñɨch ya higuerɨ tɨɨm ijxtayb ma jada higuerɨ cop , ni tüg ngapaadyɨch . Huen yajpujxcɨday jada higuerɨ cop , nej co nɨgoobɨ ñaaxnihua'ñ . ”
+42013015	nej		Chi je huindzɨn Jesús ymɨnañ : ― ¡ Miich ajcxy naybɨdaacɨp nej tudägyjäy , e ca' yjanchɨty ! ¿ Nej ca'miich ajcxy mmɨguejɨ̈y mhuajyuubɨ , etz mburro ma ypëcxtac pocxxɨɨduum , e myajnɨcxy ajcxy nɨɨ'ucpɨ ?
+42013018a	nej		Chi Jesús ymɨnañ : ― ¿ Nej m'oc'a'ɨxɨɨygɨxy yɨ Dios y'ané'mɨn ? 
+42013018b	Huɨdi		¿ Huɨdi mɨɨd n'ocyajquipxɨ̈huɨbɨch ?
+42013020	Huɨdibɨ		Chi Jesús jadüg'oc ymɨnañ : ― ¿ Huɨdibɨ mɨɨd n'ocyajquipxɨ̈huɨbɨch yɨ Dios y'ané'mɨn ?
+42013025	ma		Co je codɨjc ypɨdɨ̈gɨpy etz agɨɨyñɨp ytɨjc , huin'it miich ajcxy pɨnjaty tɨbäy huɨ'm , chi jiiby tɨbäy miich ajcxy mmɨnandägɨpy : “ Huindzɨn , yaj'ahuädz ” , e chi je tɨjc huindzɨn miich ajcxy xy'adzohuɨpy : “ Ca' ɨɨch miich ajcxy nejhuɨ̈yɨch ma miich ajcxy mdzoongɨxy . ”
+42014005	nej		Chi Jesús nɨmay je fariseos ajcxy : ― ¿ Nej miich ajcxy pen nɨɨjutcögäp ajcxy mhuajyuubɨ o mburro pocxxɨɨduum , nej ca' mɨc'amy nɨcxy yajpɨdzɨmgɨxy oy ypocxxɨɨduumɨ ?
+42014028	~		Co miich ajcxy mmɨjtɨjc mgoja'ñ , chi miich ajcxy jayɨjp m'ixtaaccɨxy e m'a'ɨxɨɨygɨxy jadu'ñyɨ meeñydunaangɨxy , nej pen mɨɨd ajcxy huɨdi jëbɨ mɨɨd myajmaaygɨxy je mmɨjtɨjc , o penɨ ca' .
+42014031	huɨdi		O huɨdi rey ji co chona'ñ tziptumbɨ mɨɨd huingbɨ rey , ¿ ca' jayɨjp huinmayɨpy pen jëbɨ chiptuñ mɨɨd majc mil jäy , pen je ymɨdzip miimb mɨɨd iipx mil jäy ?
+42014034	~		Yɨ caan ooy yɨ' y'óyɨty pen ymɨɨd ytamtz'ájtɨn . Co je caan ytɨgoy ytamtz'ájtɨn ca' ji ni ti xücx'ájtɨn yegɨpy .
+42015004	Huɨdi		― Huɨdi jäy ji ma miich ajcxy pen ymɨɨd mɨgo'px cöbixy co ytɨgoy nidügtɨ , ¿ nej ca' yajhuɨ'mɨpy je mada'px majmocx mɨdaaxpɨ jɨm ma chɨnaaydac , chi nɨcxy ixtäy huɨdi anajty tɨ ytɨgoy ixtɨ coonɨ paadɨp ?
+42015008	Huɨdi		Chi Jesús yjacmɨnañ : ― ¿ Huɨdi töxyjäy ji pen ymɨɨd majc ymeeñ , co ytɨgooy tüg meeñ , nej ca' jɨɨn nöctzohuɨpy , e ytɨgɨ̈huɨpy pedɨ̈gpɨ ixtähuɨpy ymeeñ oñydägy ixtɨ coonɨ paadɨpy ?
+42015026	Ti		Chi yaaxɨ tüg ytumbɨ y'amɨdooy : “ ¿ Ti yɨ' túnɨp jájtɨp ? ”
+42015029	~		Chi je' y'adzooy , nɨmay yteedy : “ Janch mɨcanaag jɨmɨjt ɨɨch miich mɨɨd nduñ , ni ca' ngapxhuimbityɨch . Ca' chambaad miich ni xycamooyɨch tüg pi'ccöbixy jaydëb njotcujc'adɨpyɨch nxɨɨdunɨpyɨch mɨɨd nmɨgügtɨjcɨch .
+42016002	nej		Chi je huindzɨn oy yajhuoyii je' ytumbɨ , chi nɨmay : “ ¿ Nej jada co ɨɨch jadu'n nɨmäyiijɨch mɨɨd miich ycɨxpɨ ? Ya yɨ cuentɨ cɨ̈moydaaygɨch nej tɨ mduñ , etz ca' ɨɨch miich n'ocjactumbɨ'adaanɨn . ”
+42016003	Ti		Chi je pɨdägy cuend'ajtpɨ jot'ajtɨ : “ ¿ Ti ndunɨpɨch ? co yɨ' nhuindzɨn xyajpɨdzɨma'ñɨch ma yɨ ytung . Juttajɨɨ ca' njatyɨch , co limosna nbɨjctzohuɨpyɨch tzöydúmbɨch .
+42016005	Jadu'ñyɨ		Chi tüg tüg huoy pɨn anajty mɨnuucx'ajtp je' yhuindzɨn ; chi y'amɨdooy je jayɨjpɨ : “ ¿ Jadu'ñyɨ miich mɨnuucxy'adyii ɨɨch nhuindzɨn ? ”
+42016007	jadu'ñɨ		Chi jadüg nɨmay : “ ¿ Miich jadu'ñɨ mmɨnuucxy'adyii ? ” Chi je' y'adzooy : “ Mɨgo'px quipxɨ'ñ trigo . ” Chi nɨmay : “ Matz mnecy , cojayɨ' mɨda'px . ”
+42016011	pɨn		Pen ca' mjajtcɨxy nej mgüend'ájtcɨxɨpy yɨ jugy'ájtɨn huɨdibɨ ya naaxhuiñ yajpatp , ¿ pɨn miich ajcxy m'ocyajmɨhuɨ'mamy je jugy'ájtɨn je riqueza oybɨ janchypɨ ?
+42016012	pɨn		Pen ca' mjájtcɨxy nej mgüend'ájtcɨxɨpy tɨɨbɨ mɨhuɨ́'mgɨxy huɨdi huingjäy yje'ajtpy , ¿ pɨn miich ajcxy xymöhuɨp huɨdibɨ ajcxy yjë'ajtpy ?
+42017007	pɨn		Pen ji miich ajcxy nidüg pɨn ymɨɨd tüg ytumbɨ huɨdi tumb ñaaxjɨdzitzɨɨ o yhuaj cuend'aty , co yja'ty ma mdɨjc , ¿ nej jëbɨ nɨmay : “ Tɨgɨ' , ixtäg ma mesa etz adzu'at ? ”
+42017017	Ma		Chi Jesús ymɨnañ : ― ¿ Nej ca' nimajc miich ajcxy huɨdi tɨ mdzooccɨxy ? ¿ Ma ajcxy je' janidaxtujcpɨ ?
+42017018	nej		¿ Nej ca' pɨn jac yhuimbijty miiñ jäymedza'ñ cömaya'ñ Dios , jëyɨ tügpajc tɨ yhuimbity jada samaritanojäy ?
+42017020	mɨna		Chi je fariseojäy ajcxy y'amɨdooy Jesús mɨna anajty yɨ Dios ya miñ ya naaxhuiñ y'ane'ma'ñ . Chi Jesús y'adzooy : ― Je Dios y'ané'mɨn ca' je' yminɨpy jadu'n nej ti yaj'ixy o yajmɨdoy .
+42017037	Ma		Chi je jäy ajcxy huɨdi ixpɨjcp Jesús y'ayuc ymɨnañ ajcxy : ― ¿ Ma jadu'n yjadɨɨyb nej miich tɨ mɨna'ñ , Huindzɨn ? Chi Jesús ymɨnañ : ― Ma anajty je ögpɨ yajpaady , jɨm yɨ luud ajcxy ñïmuga'ñ .
+42018018	ti		Chi tüg mɨcjäy y'amɨdooy Jesús , nɨmay : ― Miich oyjäybɨ Huindzɨn , ¿ ti huaad nduñɨch co ɨɨch n'alma nïdzoocɨn paadɨpy ?
+42018019	nej co		Chi Jesús y'adzooy : ― ¿ Nej co xytíjɨch oyjäy ? Ni pɨn ya yca'oyjäyɨty , je'yɨ Dios tügpajc y'oyjäyɨty .
+42018026	Pɨn		Chi je jäy ajcxy anajty tɨɨbɨ ajcxy mɨdoogɨxy Jesús y'ayuc , ymɨnaangɨxy : ― ¿ Pɨn jada' jëbɨ y'alma paadɨpy nïdzoocɨn ?
+42018036	Pɨn		Co mɨdooy mayjäy ñaxy , chi je' yajtɨy : ― ¿ Pɨn yɨ' ñajxp ?
+42018041	ti		― ¿ Ti mdzojcpy ndunɨpyɨch mɨɨd miich ? Chi je' y'adzooy : ― Huindzɨn , yajhuindɨcxɨ̈ccɨch .
+42019007	~		Co jadu'n ijxy , chi je mayjäy ajcxy nigapxy ni'ojɨɨygɨxy Jesús , ymɨnaangɨxy : ― Tɨ ñɨcxy jättacpɨ ma tüg pocyjäy ytɨjc .
+42019023	nej co		¿ Nej co ca' tɨ mbɨdägy ɨɨch nmeeñ ma je banco , jɨgɨx co ixyipy nhuimbityɨch , may meeñ ixyipy xycɨ̈dɨgɨ̈yɨch mɨɨd meeñ'ung ? ”
+42019031	nej co		Pen jɨm pɨn xy'amɨdoogɨxy , ¿ nej co yɨ burro mgoguejtüdy ? Chi ajcxy jadu'n m'adzohuɨpy : “ Je nhuindzɨnɨch jɨm tzojcp . ”
+42019033	nej co		Jɨm anajty ajcxy je burro mang coguejtuutcɨxy , co ñihuindzɨn ñɨmaayɨ ajcxy : ― ¿ Nej co yɨ burro mang mgoguejtuutcɨxy ?
+42020002a	ma		Chi ajcxy mɨgapxy Jesús nɨmay : ― Yajnɨmaaygɨch , ¿ ma cötújcɨn tɨ mbaady co jäy myaj'ixpɨcy ya ma Dios ytɨjc ? 
+42020002b	Pɨn		¿ Pɨn je' tɨɨbɨ xycötujc möy ?
+42020005a	~		Chi ajcxy ytɨgɨɨy huinmay'ahuɨdijtpɨ ñayñɨmáayɨgɨxy miñ xyɨpy : ― Pen mɨnaanɨm co tzajpjoty choñ je Juan ycötújcɨn , Jesús xyñɨmaayɨmɨp ya : 
+42020005b	nej co		“ ¿ Nej co ca' miich ajcxy mɨjpɨdacy yɨ' y'ayuc ? ”
+42020013	Ti		Huin'it je camuuxycam huindzɨn ymɨnañ : “ ¿ Ti ndunɨpyɨch ? Ocquejxyɨch nmang huɨdibɨ ooy ndzocyɨch . Ca' jécyɨty co ajcxy ixɨpy nmangɨch , yajmɨj'adɨpy ajcxy . ”
+42020015	Ti		Chi ajcxy je cogam ymang yajpɨdzɨmɨ camjoty , chi ajcxy yaj'o'cy . Chi Jesús y'amɨdooy : ― ¿ Ti jada' ytunɨpy je cam huindzɨn ?
+42020017	Ti		Chi Jesús huindɨcxpejty je mayjäy nɨmay ajcxy : ― ¿ Ti tijamy huɨdi yjaybétyɨp ma Dios ñecy ? Jadu'n : Je yëydɨjc huɨdi je jäy ajcxy ca' anajty tzocy , tɨ Dios pɨdacy mɨj'ane'mbɨ . Tɨm jadu'n nipaady nejɨhuɨ̈y je tzaa oyjatypɨ huɨdibɨ je pojtzpɨdɨjc ajcxy ca' yajtuna'ñ , je' oy tɨ yhuɨ'mnɨ ma anajty yjaccopɨ́cyɨty .
+42020023	Ti		Chi Jesús huinjɨhuɨɨy yɨ' ajcxy yjɨbɨc-huinma'ñ , paady ajcxy nɨmay : ― ¿ Ti co miich ajcxy xyjot'ixy xyhuinma'ñ'íxyɨch ?
+42020024a	pɨn		Yaj'ijxcɨch tüg meeñ . ¿ Pɨn y'ahuɨnax etz 
+42020024b	pɨn		pɨn yxɨɨ mimb ma jada meeñ ? Chi ajcxy y'adzooy : ― Yɨ César .
+42020033	huɨdi		Co anajty je nihuixtujcpɨ jugypɨjccɨxy , ¿ huɨdi jada' octöxɨjc'adɨɨyb je töxyjäy ? Com nihuixtujc ajcxy tɨ töxyɨjc'ájtɨgɨxy .
+42020041	Nej co		Chi Jesús je' ajcxy nɨmay : ― ¿ Nej co miich ajcxy mɨna'ñ co Cristo David y'ap y'oc ?
+42020044	nejtz		Co David yxɨɨmoy Cristo ɨɨch nHuindzɨn , ¿ nejtz yɨ' co y'ap'adyii y'oc'adyii ?
+42021007a	mɨna		Chi ajcxy y'amɨdooy Jesús : ― Huindzɨn , ¿ mɨna jada jadu'n ytunɨɨyb yjadɨɨyb nej miich tɨ mmɨnañ ? 
+42021007b	ti		¿ Ti tɨy'ajt ji yaj'ixɨp co jada anajty jadu'n ytuna'ñyii yjada'ñyii ?
+42022009	Ma		Chi ajcxy y'amɨdooy : ― ¿ Ma mdzocy co nyaj'oyɨ̈huɨbɨch ajcxy ?
+42022011	Ma		Co miich ajcxy mjädɨpy ma je jäy ytɨjc , chi ajcxy mnɨmähuɨpy je codɨjc : “ Nhuindzɨnɨch jadu'n mɨnaam : ¿ Ma yaj'ahuädz yajpaady ma ngayɨpyɨch je pascua adzu'ɨ̈bɨ mɨɨd ɨɨch ndiscípulotɨjcɨ ? ”
+42022027	Pɨn		¿ Pɨn je' jacmɨ́jɨp ? ¿ Huɨdi ɨñaybɨ ma mesa , o huɨdi ni'ixɨɨyb a'ɨxɨɨyb caayɨn uucɨn ? Yɨ' je' jacmɨ́jɨp huɨdi ɨñaayb ma mesa . Per ɨɨch ijtpɨch mɨɨd miich ajcxy jadu'n nej huɨdi ni'ixɨɨyb aa'ɨxɨɨyb caayɨn uucɨn .
+42022046	ti		Chi Jesús nɨmay ymɨgügtɨjc ajcxy : ― ¿ Ti co mdzachmaagɨxy ? Pɨdɨ̈ccɨx mɨbɨjctzoogɨx Dios , ca'ydɨ jɨbɨc tuum mdɨgɨɨygɨxy .
+42022064	pɨn		Chi ajcxy huiingoxodzɨy , e cojxy ajcxy ma yhuiñyjɨjp , nɨmaaygɨxy : ― Octɨygapx , ¿ pɨn tɨ xycoxy ?
+42022071	ti		Chi ajcxy ymɨnañ : ― ¿ Ti ajt njac-huáanɨm testigo ? Tɨ ajt yam cɨ'm nmɨdoohuɨm nej mɨna'ñ .
+42023022a	~		Chi Pilato ymɨnañ je mɨdugɨɨg'ocpɨ : 
+42023022b	ti		― ¿ Ti Jesús tɨ tundɨgoy ? Ca' yɨ' ma ypocy nbaatɨch . Miñ n'octzaachytuñɨch , e najtzmadzɨ̈huɨbɨch .
+42023031	nej		Pen jäy ajcxy tzaachypɨ ayo'n mooyb Dios y'ung , nïgɨ ajcxy jacjiinɨ ytundɨgoya'ñ mɨɨd Dios yjäy , tɨm jadu'n nipaady nej pɨn puxam tzuxy quipy nañ puxamy quipy tɨ̈tzpɨ .
+42024005	Na'amy		Chi ajcxy ooy chɨgɨy , chi ajcxy yhuindactay , chi je metzpɨ yëydɨjc ymɨnañ : ― ¿ Na'amy co m'ixtaaygɨxy yɨ jugypɨ ma yɨ tɨɨbɨ y'ögy ?
+42024017	Ti		Chi Jesús y'amɨdooy je' ajcxy : ― ¿ Ti miich ajcxy mɨydacpy ma yam mdüyöygɨxy ? ¿ Nej co mdájcɨxy mmáygɨxy ?
+42024019	Ti		Chi Jesús je' ajcxy nɨmay : ― ¿ Ti tɨ ytuñyii tɨ yjadyii ? Chi je' ajcxy ymɨnañ : ― Jesús Nazaretpɨ , huɨdi Dios y'ayucnajtzcapxɨɨyɨp , yɨ' anajty mɨj jánchɨp ma yɨ ayuc etz huinma'ñ ma Dios yhuinduu , etz cham ma tüg'ócɨy naax cajp .
+42024025	~		Chi Jesús ymɨnañ : ― ¡ Miich jäy ajcxy ooy ajcxy m'aajuuñɨty mjotjuuñɨty , ca' ajcxy tɨ mdzojcmɨbɨjccɨxy co ajcxy mjamɨbɨgá'nɨp huɨdibɨ y'ayuc najtzcapxɨɨybɨ ajcxy ycapxy !
+42024038a	na'amy		Chi Jesús nɨmay je' ajcxy : ― ¿ Na'amy co mjot mhuinma'ñ tɨ ytɨgoydaaygɨxy ? 
+42024038b	nej co		¿ Nej co m'aa'ájtɨgɨxy mjot'ájtɨgɨxy pɨn ɨɨch ?
+43001019	~		Jadaabɨ je' je tɨy'ajt huɨdibɨ Juan yejc , co judío jäy ajcxy quejxy nijëjɨty teedytɨjc etz tzajptɨjc tungmɨɨdpɨ . Jɨm ajcxy chooñ Jerusalén nɨcxy ma anajty Juan yajpaady , chi ajcxy y'amɨdooy : ― ¿ Mbɨn miich ? ¿ Nej miich je' je Cristo huɨdibɨ Dios yquexamy ?
+43001021	pɨn		Chi ajcxy jac'amɨdoy : ― ¿ E pɨn miich mnaydijyii ? Pen ca' mjëjɨty je Cristo . ¿ Nej miich je' je Elías ? Chi Juan y'adzooy : ― Ca' je' n'ɨɨchɨty . Chi ajcxy jac'amɨdooy : ― ¿ Nej miich je' je Dios y'ayuccapxhuäcxpɨ , je huɨdibɨ ñigapxy ma Dios ñecy co ymiinañ ya naaxhuiñ ? Chi Juan y'adzooy : ― Ca' .
+43001022a	~		Chi y'amɨdooy ajcxy jadüg'oc : ― ¿ Mbɨn miich ? Jɨgɨx ɨɨch ajcxy tɨy'ajt nyajnɨ́cxɨbɨch ma yɨ tɨɨbɨ ɨɨch ajcxy xyquexyɨch . 
+43001022b	ti		¿ Ti miich nayxɨɨgoyäxyii ?
+43001025	ti		Chi ajcxy jactɨm'amɨdoy Juan : ― ¿ Ti miich co mjäyyajnɨɨbety ? Penɨ ca' miich mjëjɨty je Cristo , ni mgajëjɨty je Elías , ni mgajëjɨty huɨdibɨ Dios y'ayuc najtzcapxɨɨyɨp .
+43001038a	ti		Chi Jesús y'ijxhuimbijty , chi ijxy co anajty ajcxy ypanɨcxyii , chi jada' nɨmay ajcxy : ― ¿ Ti ajcxy m'ixtaayb ? Chi ajcxy y'adzooy : 
+43001038b	ma		― Huindzɨn , ¿ ma tɨɨyɨ tɨ mja'ttägy ?
+43001046	nej		Chi Natanael y'adzohuimbijty : ― ¿ Nej jɨm Nazaret tɨ choñ tüg oyjäyɨ ? Com ac jadu'n jäy ymɨna'ñ co ac jɨbɨcjäydɨjc jɨm tzɨnaayb . Chi Felipe ymɨnañ : ― Jam cɨ'm octɨm'ix .
+43001048	nej		Chi Natanael ymɨnañ : ― ¿ Nej miich tɨ xy'ijxcapyɨch pɨn jäy ɨɨch ? Chi Jesús nɨmay Natanael : ― Ca'nɨ anajty Felipe xyñɨmaayñɨ : “ Jam íjxɨm je Jesús ” co anajty miich jiiby'emy ma je higuerɨ quipypa't , huin'it ɨɨch miich tɨ n'ijxcapy .
+43002004	ti		Chi Jesús y'adzooy ytaj nɨmay : ― Ca' ti jotmay nmɨɨdɨdyɨch mɨɨd miich töxyäy . Ɨɨch nhorɨ ca'nɨ paady mɨna jäy ajcxy nyajnejhuɨ̈huɨbɨch pɨn ɨɨch .
+43002018a	~		Chi je judío ixpɨcytɨjc ajcxy y'amɨdooy Jesús : 
+43002018b	ti		― ¿ Ti mɨjhuinma'ñ miich xy'ocyaj'ixambɨch ajcxy nej tüg ijxpejt , pen janch mɨɨdɨty cötujcɨn co m'ixhuojppɨdzɨmdäy yɨ ajuuybɨ adoocpɨ ajcxy ?
+43003004	nej		Chi Nicodemo yajtɨy : ― Per , ¿ nej tüg jäy tɨɨbɨ ymɨj'anäccɨɨyñɨ y'ocnima'xung'ajttɨgájtzpɨty jadüg'oc ? ¿ Nej jëbɨ jadüg'oc ytɨgɨ̈y ma ytaj y'aa yjot , e chi yma'xung'adɨty jadüg'oc ?
+43003009	Nej		Chi Nicodemo yajtɨhuimbijty : ― ¿ Nej tijy co yjadu'nɨty ? Ca' nhuinjɨhuɨ̈yɨch .
+43003012	~		Pen ca' miich ajcxy mɨbɨjccɨxy jada tɨy'ajt huɨdibɨ njanimɨydacypɨch huɨdibɨ yajpatp ya naaxhuiñ , ca' ajcxy mmɨbɨgɨpy co njanimɨydägɨbɨch yɨ tɨy'ajt huɨdibɨ tzajpjoty yajpatp .
+43004009	na'amy		Chi je töxyjäy y'adzooy huɨdibɨ anajty cogajpɨp Samaria : ― ¿ Na'amy co ɨɨch nɨɨ xypɨjctzoohuɨch ? com miich hue' miich judíojäy , e samariajäy ɨɨch . ( Co yɨ judíojäy etz samariajäy ca' ajcxy ñaygodɨgɨ̈yiigɨxy . )
+43004011	Ma		Chi je töxyjäy y'adzooy nɨmay Jesús : ― Huindzɨn , miich ca' mmɨɨdɨty ti mɨɨd myajpɨdzɨmɨpy yɨ nɨɨ , e yɨ nɨɨjut cɨɨcy yɨ' ooy . ¿ Ma tijy m'ocpada'ñ yɨ nɨɨ huɨdibɨ yajjugy'ajtp ?
+43004027a	ti		Chi jada' yja'ty ajcxy Jesús ydiscípulos ajcxy . Chi ajcxy ooy jɨhuɨy ti anajty co Jesús je töxyjäy mɨɨdmɨydägy , e ni pɨn ca' yaj'amɨdooy ti anajty chojcyp 
+43004027b	ti		ti anajty yñimɨydacyp mɨɨd yɨ töxyjäy .
+43005012	Pɨn		Chi ajcxy y'amɨdooy : ― ¿ Pɨn miich jadu'n tɨ xyñɨmäy : “ Yajpɨdɨ̈ yɨ mmaabejt etz tüyöychoon ” ?
+43005044	nej		Ca' mjájtcɨxɨpy nej ɨɨch miich ajcxy xymɨjpɨdägɨbɨch , mɨɨd co ajcxy cɨ'm mdzachnaygömayáanɨgɨxy ac miich ajcxy jëyɨ . E co ixyipy miich ajcxy xycöbɨga'ñɨch , huin'it ajcxy Dios xycömayɨpy .
+43005047	nej		Pen ca' mmɨjpɨdaaccɨxy Moiseś ñecy , ca' mjájtcɨxɨpy nej ajcxy mɨjpɨdáaccɨxɨpy ɨɨch n'ayuc .
+43006005	Ma		Chi Jesús ijxy co janch mayjäy tɨ ypamiinyii , chi nɨmay Felipe : ― ¿ Ma jada' caayɨn uucɨn n'ocjuyɨm , ti nyajcaayɨm jada mayjäy huɨdibɨ tɨ xypamiinɨm ?
+43006009	~		― Cha tüg pi'c'anäg huɨdibɨ mɨɨd mɨgoox cebada tzajcaagy , e mejtz acx ung . E ni ycatiijɨty yɨ' yɨ mɨgooxpɨ tzajcaagy , etz mejtz acx ung mɨɨd jada mayjäy .
+43006025	mɨna		Co ajcxy mɨnaybaatɨ Jesús mejy ñïnaxy , chi ajcxy nɨmay : ― Huindzɨn , ¿ mɨna miich ya tɨ mmiñ ?
+43006028	Ti		Chi ajcxy nɨmay Jesús : ― ¿ Ti ɨɨch ajcxy jëbɨ huaad nduñ , nej jëbɨ ɨɨch ajcxy Dios xymɨjotcujc'aty ?
+43006030a	ti		Chi ajcxy nɨmay Jesús : ― ¿ Ti ijxpejt mdunamy mɨɨd ɨɨch ajcxy , jëbɨ ɨɨch ajcxy n'ixɨpy Dios ymɨc'ajt etz ɨɨch ajcxy nmɨbɨgɨpy co miich je' je Cristo ? 
+43006030b	ti		¿ Ti mɨjhuinma'ñ mdunamy ?
+43006042	Nej co		Jadu'n anajty ajcxy chachmɨna'ñ : ― ¿ Nej ca' je' yjadaajɨty je Jesús , je José y'ung , je huɨdibɨ ajt ytaj yteedy n'ixy'ajtɨm ? ¿ Nej co jadu'n ymɨna'ñ : “ Ɨɨch tɨ ndzooñɨch tzajpjoty ” ?
+43006052	Nej		Chi je judío y'ixpɨcytɨjc ajcxy ooy yaj'ayucyooñ yajcapxyooñ , ac je'yɨ ajcxy ñayñɨmáayɨgɨxy : ― ¿ Nej jada yëydɨjc tijy yɨ' ñinïcx njɨɨcxy'ajtɨm ?
+43006060	pɨn		Co ajcxy Jesús y'ayuc mɨdodaayɨ , nigujc-huäcxy je huɨdibɨ anajty ixpɨjcp ma Jesús . Chi ajcxy capxpɨdzɨmy , e jadu'n ajcxy ymɨnañ : ― Ooy chachchipɨty je Jesús y'ayuc . Ca' huaad ji pɨn huinjɨhuɨyday .
+43006062	Nej		¿ Nej xymɨjpɨdägɨbɨch ajcxy , pen m'ijxpy ixyipy ajcxy co anajty nba'ttɨgɨ̈yɨch jadüg'oc jiiby tzajpjoty ma ndzooñɨch ? Com ɨɨch je' je jäy huɨdibɨ tzoon tzajpjoty .
+43006068	pɨn		Chi y'adzooy Simón Pedro : ― Huindzɨn , ca' jac ni pɨn ɨɨch ajcxy jëbɨ huaad nmɨjpɨdägyɨch , com miich tügpajc mɨɨd je ayuc huɨdibɨ xyajni'ixɨɨyɨch ajcxy nej jëbɨ huaad ɨɨch ajcxy nbaadɨpy jugy'ajtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy tüccɨ'yɨ .
+43007011	Ma		Xɨɨjoty je judíojäy ooy ajcxy ja'ixtay Jesús , e chi ajcxy ymɨnañ : ― ¿ Ma jada' je Jesús ?
+43007015	Nej		Je judío y'ixpɨcytɨjc tzachmaañyhuindɨɨcxcɨxy anajty je Jesús , chachmɨnaangɨxy anajty : ― ¿ Nej jada' tijy jada chach'ixpɨcyɨty ? e ca' ni ma tɨ y'escuel'aty .
+43007019	Ti		Janch co Moisés miich ajcxy xymoy Dios ytɨy'ajt . E ni tüg miich ajcxy mgacuydungɨxy je tɨy'ajt . ¿ Ti ycɨxpɨ co miich ajcxy xyaj'öga'nɨch ?
+43007020	Pɨn		Chi je jäy ajcxy y'adzooy : ― Mujcu' miich mɨɨd ma mjot mhuinma'ñ . ¿ Pɨn miich yam xyaj'ögam ?
+43007023	Ti		E chi jada' ca'ydɨ miich ajcxy Moisés ytɨy'ajt mnɨxiicɨ myajxiicɨ , paady ajcxy m'ung mdɨy'ajttɨɨygɨxy oy sábado xɨɨjoty . ¿ Ti miich ajcxy co xymɨjotma'tcɨxɨch co tüg jäy tɨ nyajtzögyɨch sábado xɨɨjoty ?
+43007035	Ma		Huin'it je judíojäy ixpɨcytɨjc acjëyɨ ajcxy ñay'amɨdoohuɨ : ― ¿ Ma jada jada' y'ocnɨcxa'ñ , e nɨcxy ɨɨch ajt ngapaatɨm ? ¿ Nej nɨcxɨɨb jada' ma je judíojäy ajcxy huɨdibɨ yajpaatcɨxy yxɨɨ yaa ma yɨ griegojäy ajcxy , e yaj'ixpɨgaangɨxy yɨ griegos ajcxyɨ ?
+43007036	nej		¿ Nej jada' yajhuimbɨdzɨmy ? co ymɨna'ñ : “ Xy'ixtähuɨbɨch miich ajcxy , e ca' xypáadɨbɨch , e ma anajty ɨɨch nyajpaady , ca' miich ajcxy jaydëbɨ jiiby mnɨcxcɨxy . ”
+43007041	~		Jacjadyii ymɨnañ ajcxy : ― Je' yɨ' je Mesías . Per nijëjɨty ajcxy huɨdibɨ ca' ymɨbɨjccɨxy chachmɨnaangɨxy : ― Ca' jɨm Galilea naaxjot chona'ñ je Mesías .
+43007045	nej		Chi ajcxy policías huɨdibɨ tumb ma tzajptɨjc nihuimbijty ajcxy je teedy mɨjtungmɨɨdpɨ etz je fariseojäy ajcxy , chi ajcxy ñɨmaayɨ : ― ¿ Nej ajcxy co ca' tɨ mmajtzcɨxy je Jesús ?
+43007048	~		Ca' nmɨnaanɨm tɨ ajcxy teedy mɨjtungmɨɨdpɨ o fariseojäy ajcxy mɨbɨjccɨxy Jesús .
+43007051	~		― Jadu'n ɨɨch ajt ngötujcɨn xy'ane'mɨm co ca' huaad ndzaachytuunɨm pɨnjäy , pen ca'p jayɨjp n'ixyöyɨm nbayöyɨm ti anajty tɨ tuñ .
+43008005	Nej		Moisés ytɨy'ajt ɨɨch ajcxy xyñajtz'ane'mɨy jecy'ajty co yajtzaagögädzɨpy jada jadu'mbɨ töxyjäy . ¿ Nej miich m'ocmɨnambɨ ?
+43008010	Ma		Chi Jesús yhuäccugɨy jadüg'oc nɨmay je töxyjäy jada' : ― ¿ Ma ajcxy je jäy ? ¿ Ca' ni pɨn tɨ xychaachytuñ mɨɨd mbocy ycɨxpɨ ?
+43008019	Ma		Chi ajcxy y'amɨdooy : ― ¿ Ma miich mdeedy yajpaady ? Chi Jesús y'adzooy : ― Com co ca' ɨɨch miich ajcxy xy'ijxcapy co ɨɨch je' je Cristo , nañ ca' ajcxy m'ixy'adyii ɨɨch nDeedy . Co ixyipy ajcxy xy'ijxcapyɨch , nañ jaydëbɨ ixyipy ajcxy nejhuɨ̈y pɨn ɨɨch nDeedy'ajtyp .
+43008025a	pɨn		Chi ajcxy nɨmay Jesús : ― ¿ E miich , pɨn miich ? 
+43008025b	~		Chi Jesús y'adzooy : ― Tɨ ajcxy nyajnɨmaaygɨxy pɨn ɨɨch , co oga'n ndɨgɨɨyɨch jäy yaj'ixpɨjcpɨ . Cham jadüg'oc nyajnɨmaaygɨxy .
+43008033	nej co		Chi ajcxy y'adzooy : ― Abraham ɨɨch ajcxy nmɨj'ap nmɨjteedy'ajtpy . Ca' ɨɨch ajcxy huaad ni pɨnjäy xyjac'ane'my . ¿ Nej co miich jadu'n mɨna'ñ : “ Dios ajcxy xyñihua'nɨp ma yɨ mjɨbɨc-huinma'ñ xy'ane'mgɨxy ” ?
+43008043	ti		¿ Ti co ca' miich ajcxy mhuinjɨhuɨ̈y ɨɨch n'ayuc ? Je' co ca' ajcxy mɨdohuaangɨxy ɨɨch n'ayuc .
+43008046a	pɨn		Ni pɨn miich ajcxy xycayajpocycähuɨpy . 
+43008046b	ti		Penɨ tɨy'ajt ɨɨch miich ajcxy nyajnɨmaayb , ¿ ti co ca' mmɨjpɨdaaccɨxy ɨɨch n'ayuc ?
+43008053	nej		¿ Nej mjacmɨɨd miich mɨc'ajt , ca'ydɨ Abraham , ɨɨch ajt nmɨj'ap nmɨjteedy huɨdibɨ o'cɨ ? ¿ Nej mjacmɨɨd miich mɨc'ajt , ca'ydɨ ajcxy huɨdibɨ Dios y'ayucnajtzcapxɨɨy , huɨdibɨ ajcxy o'cɨ ? ¿ Pɨn miich mdɨmnaydijyii ?
+43008057	mmɨna'ñ		Chi je judío ixpɨcytɨjc ajcxy nɨmay Jesús : ― Ni mgamɨɨdɨty huixchigui'px majc jɨmɨjt , e ¿ mmɨna'ñ co m'ijxy Abraham ? ( Ca' m'ixy'ajtɨ je Abraham , naxy tüg mil jɨmɨjt maabɨ je' y'o'cnɨ . )
+43009002	pɨn		Chi ydiscípulos ajcxy y'amɨdoohuɨ : ― Huindzɨn , ¿ pɨn pocy ytuun , jada huintzpɨ o ytaj yteedy , co huintz yma'xung'atyɨ ?
+43009010	Nej		Jadu'n anajty ajcxy tzach'amɨdoy : ― ¿ Nej yɨ mhuiin tɨ ñay'ahuäcxyii ?
+43009012	Ma		Chi ajcxy je' nɨmay : ― ¿ Ma je' je yëydɨjc ? Chi je huintzpɨ y'adzooy : ― Ca' nnejhuɨ̈yɨch .
+43009016	Nej		Nijëjɨty fariseojäy ajcxy ymɨnañ : ― Yɨ yëydɨjc huɨdibɨ jada jadu'n tɨ tuñ , ca' yɨ' Dios ytɨy'ajt mɨɨdɨty , com ca' yɨ' amay'aty sábado xɨɨ . Chi ajcxy jacjadyii y'adzooy : ― ¿ Nej tijy jada mɨjhuinma'ñ octuñ , pen hue' yɨ' pocyjäy ? Ca' ajcxy nay'ayuc-huinjɨhuɨ́ɨyɨgɨxy .
+43009017	nej		Chi ajcxy jadüg'oc nɨmay je jäy huɨdibɨ anajty tɨ y'ijxɨ̈gy : ― E miich , ¿ nej m'ocmɨnambɨ ? ¿ Pɨn jäy yɨ tɨɨbɨ xyajhuindɨcxɨ̈gy ? Chi je jäy y'adzooy : ― Tüg jäy huɨdibɨ Dios y'ayuc etz ymɨc'ajt mɨɨd .
+43009019	Nej		Chi ajcxy amɨdoohuɨ ytaj yteedy : ― ¿ Nej je' jada miich ajcxy m'ung huɨdibɨ huintz ma'xung'ajtɨ ? ¿ Nej jada tɨ yhuindɨcxɨ̈gy ?
+43009026a	nej		Chi ajcxy y'amɨdooy jadüg'oc : ― ¿ Nej tɨ xytuñ ? 
+43009026b	ti		¿ Ti tɨ tuñ co tɨ xyaj'ijxɨ̈cɨ yɨ mhuiin ?
+43009027	nej		Chi je' y'adzooy : ― Tɨ ajcxy nyajnɨmaaygɨxy , e ca' ajcxy tɨ m'amɨdo'idaangɨxy . ¿ Nej nañ ixpɨgaangɨxy miich ajcxy ma yɨ'jɨ ?
+43009034	~		Huin'it ajcxy y'adzooy : ― Miich jadu'n tɨ mma'xung'aty pocymɨɨd . Ca' miich huaad ti xyaj'ixpɨ́jccɨxyɨch . E chi ajcxy yajpɨdzɨmy tɨbäy'tüccɨ'yɨ ( ma ajcxy ñaymujctac etz ma Dios ytɨjc ) .
+43009036	pɨn		Chi je' y'adzooy : ― Huindzɨn , nɨmaaygɨch pɨn je' , jɨgɨx nmɨbɨcyɨch .
+43010020	nej co		Mayjäy ymɨnañ : ― Ca'oybɨ yɨ' ymɨɨd , locjɨɨyb yɨ' , ¿ nej co ajt n'amɨdo'ijtɨm y'ayuc ?
+43010021	~		E jacjadyii ajcxy ymɨnaangɨxy : ― Jadayaabɨ tɨy'ajt etz mɨc'ajt ca' yajpaady ma tüg jäy huɨdibɨ mujcu' ymɨɨd . Ca' jëbɨ tüg mujcu' jäy huintzpɨ yaj'ixɨ̈gy .
+43010024	Ixtɨ mɨnaanɨ		Chi ajcxy je judío y'ixpɨcytɨjc nimujcy ooy Jesús , nɨmay ajcxy : ― ¿ Ixtɨ mɨnaanɨ miich ɨɨch ajcxy tɨydudägy xyajhuinjɨhuɨ̈huáangɨxyɨch pen miich je' je Cristo ? Yajhuinjɨhuɨɨygɨch ajcxy tɨydudägy .
+43010032	Huɨdi		Chi Jesús je' ajcxy nɨmay : ― Tɨ ɨɨch ooy mɨj oybɨ nduñɨch ma miich mhuinduu mɨɨd je nDeedyɨch ymɨc'ajt ycɨxpɨ . ¿ Huɨdi ycɨxpɨ miich ajcxy xychaagädzáangɨxyɨch ?
+43010036	nej co		Dios tɨ xyajnïbɨcyɨch jada tung , e xyquejxyɨch ya naaxhuiñ . ¿ Nej co mmɨnaangɨxy co ɨɨch ngapxtɨgooyɨch co nmɨna'ñɨch co Dios xy'ung'adyiijɨch ?
+43011034	Ma		Chi jada' Jesús yajtɨy : ― ¿ Ma ajcxy Lázaro tɨ myajnaaxtɨgɨ̈ ? Chi ajcxy nɨmay : ― Huindzɨn , jam ijxɨm .
+43011047	Nej		Je teedy tungmɨɨdpɨ ajcxy , etz je fariseojäy ajcxy , chi ajcxy ñayhuoomujctayɨ je tungmɨɨdpɨ ajcxy nidüg'ócɨy , chi ajcxy ymɨnañ : ― ¿ Nej ajt Jesús n'octuunɨm ? Yɨjiibɨ yëydɨjc ooy yɨ' mɨjhuinma'ñ tzachtuunɨ .
+43011056	nej		Ooy anajty jäy ajcxy ijxtäy Jesús huin'it . Paady anajty chachnayñɨmáayɨgɨxy nidüg nidüg miñ xyɨpy , co ajcxy ytɨnay'ahuɨɨy ma Dios ytɨjc , jadu'n ajcxy ymɨnañ : ― ¿ Nej m'ocmɨnaangɨxy ? ¿ Minɨpy jada' Jesús xɨɨ'ijxpɨ , o ca'jɨ ?
+43012005	~		― Jac'oy co ixyipy tɨ ndoocɨm jada ujtzpɨjyñɨɨ oy mɨgo'pxpeexytɨ jadɨɨb ixyipy ajt ayoobtɨjc nbubejtɨm .
+43012027	nej		Chi Jesús yjacmɨnañ : ― Tájnɨbɨch mayñɨbɨch cham jotjoty huinma'ñyjoty . ¿ Nej nnɨmähuɨbɨch nDeedyɨch ? ¿ Nïhuaangɨch ma jada ayo'n tzaachypɨ huɨdibɨ tɨ yhuaad'ajtnɨ ? Ca' yjadu'nɨty . Com paady ycɨxp tɨ nmiiñɨch ma jada xɨɨ tiempo , jëbɨ ayo'n nyajnajxɨch mɨɨd jäy ajcxy ypocy ycɨxpɨ .
+43012034a	nej		Chi je mayjäy ajcxy ymɨnañ : ― Ma Dios ñecy jiiby jadu'n ymiñ jaybety co je Cristo huinɨxɨɨ je' y'ida'ñ . E ¿ nej miich co cham jadu'n mɨna'ñ co copɨcy co yɨ jäy huɨdibɨ tzoon tzajpjoty , huimbidam jadügtecy tzajpjoty ? 
+43012034b	Pɨn		¿ Pɨn jëdu'n mdijyp huɨdibɨ tzomb tzajpjoty ?
+43012038a	~		Huɨdibɨ Jesús ytun ycapx , jiiby anajty jadu'n ycojayɨty ma je Dios y'ayuc necy , je Isaías ñecy , co Isaías jadu'n ymɨnañ : Huindzɨn , ca' ni pɨn ajt n'ayuc ndɨy'ajt tɨ xymɨbɨjcɨm . 
+43012038b	~		Ca' ni pɨn huɨdibɨ huinjɨhuɨɨyb je Huindzɨn Dios ymɨc'ajt .
+43013025	Pɨn		Chi je discípulos ajcxy huɨdibɨ anajty ɨñaayb ma Jesús yhuinduu nɨmay yhuindzɨn : ― ¿ Pɨn jadu'n mdijyp ?
+43013036	ma		Chi Pedro nɨmay : ― Huindzɨn , ¿ ma miich mnɨcxa'ñ ? Huin'it Jesús y'adzooy : ― Ma ɨɨch nnɨcxa'ñɨch miich ca' huaad xypanɨcxyɨch . Jac'axam xypanɨ́cxɨbyɨch .
+43013037	nej co		Chi Pedro ymɨnañ : ― E ¿ nej co ca' huaad jëbɨ ɨɨch miich nbanɨcxy ? com ɨɨch ngɨ̈yegamyɨch njugy'ajtɨn ma yɨ o'cɨn mɨɨd miich ycɨxpɨ .
+43014002	~		Jiiby ma ɨɨch nDeedy chɨnäy , jiiby mɨjtɨgɨydac . Co ixyipy ca' yjadu'nɨty , ca' ixyipy tɨ nnɨmaaygɨxy co nnɨcxyɨch ma nDeedyɨch n'ocni'ixɨy tzɨnaaydac mɨɨd miich ajcxy ycɨxpɨ .
+43014005	nej		Chi Tomás ymɨnañ : ― Huindzɨn , ca' ɨɨch ajcxy nejhuɨɨygɨxy ma miich mnɨcxa'ñ , e ca' ɨɨch ajcxy nnejhuɨɨygɨxy nej jëbɨ njá'tcɨxɨbyɨch jiiby .
+43014009	nej		Paady Jesús nɨmay je Felipe : ― Cham xɨɨ jɨmɨjt ñɨcxnɨ maabɨ ɨɨch nja'ityɨch mɨɨd miich ajcxy , e ¿ ca'nɨ miich xytɨmy'ijxhuɨ'myɨch Felipe ? Yɨ jäy ajcxy tɨɨbɨ xy'íjxcɨxyɨch , nañ y'ijxyp ajcxy yɨ' Dios Teedy . E chi jada' , ¿ nej miich co jadu'n xyñɨmäyɨch : “ Yaj'ijxcɨch je Dios Teedy ? ”
+43014022	nej co		Je jadügpɨ Judas , ca' nmɨnaanɨm Judas Iscariote , nɨmay Jesús : ― Huindzɨn , ¿ nej co mnayyajniguëxɨ̈ga'ñyii ma ɨɨch ajcxy , e ca' mnayyajniguëxɨ̈ga'ñyii ma je jäy ajcxy huɨdibɨ ca' xymɨjpɨdägy ?
+43016005	Ma		Ca' anajty ajcxy jada tɨ nyajnɨmäy mɨɨd jëgɨx nmɨɨd'ity ajcxy . E cham janchtɨy nnɨcxáanɨbɨch ma yɨ huɨdibɨ tɨ xyquexyɨch ya naaxhuiñ . E ni tüg miich ajcxy xyca'amɨdooyɨch : “ ¿ Ma mnɨcxa'ñ ? ”
+43016017	ti		E huin'it ajcxy nijëjɨty Jesús ydiscípulos ajcxy ñayñɨmaayɨ miñ xyɨpy ac jëyɨ : ― ¿ Ti jadu'n ytijyp ? Co jadu'n ymɨna'ñ , co tɨm huaad'ajtnɨp xɨɨ tiempo mɨna ɨɨch miich ajcxy ca' xy'ocjac'íjxnɨbyɨch , e co yjacnajtznïnɨcxɨ̈huɨp xɨɨ tiempo , huin'it miich ajcxy xyjac'ixɨpyɨch jadüg'oc , com nnɨcxaamɨch ma Dios Teedy .
+43016018	ti		Chi ajcxy jadu'n ñayñɨmaayɨ miñ xyɨpy : ― ¿ Ti jadu'n ytijamy ? Co jadu'n ymɨna'ñ co tɨm huaad'ajtnɨp xɨɨ tiempo . Ca' ɨɨch ajt nhuinjɨhuɨɨyɨm ti jadu'n ytijamy .
+43018004	Pɨn		E Jesús com ñejhuɨydaayb anajty tüg'ócɨy nej anajty yjada'ñ y'ayohua'ñ , chi jɨjpcohuägɨy je ymaymɨdzip ajcxy , e nɨmay : ― ¿ Pɨn ajcxy m'ijxtaayb ?
+43018007	Pɨn		Chi Jesús jadüg'oc y'amɨdooy ajcxy : ― ¿ Pɨn ajcxy m'ijxtaayb ? Chi ajcxy jadüg'oc y'adzooy : ― Yɨ Jesús , je Nazaret jäy .
+43018011	~		Chi Jesús nɨmay Pedro : ― Pɨdäg m'espada ma ñidɨjc . Ca' mnejhuɨ̈y co copɨcy nyajnaxɨpyɨch je tzaachypɨ je ayo'n huɨdibɨ Dios Teedy tɨ xyajnigo'adugɨ̈yɨch . Min n'ocmɨnaxy n'ocyajnaxyɨch jada tzaachypɨ jadu'n nej ixyipy tüg tasɨ ta'm'ujtznɨɨ ngo'uucnaxyɨch .
+43018021	na'amy		¿ Na'amy co xyjactɨm'amɨdooyɨch ti anajty tɨ nyaj'ixpɨcyɨch ? Yɨ' ajcxy amɨdou pɨnjaty tɨ xy'amɨdo'ijtɨch n'ayucɨch , yɨ' ajcxy nejhuɨɨyb ti ɨɨch jadu'n tɨ nyaj'ixpɨcyɨch . Yɨ' ajcxy tüg'ócɨy ñejhuɨydaayb nejjaty ɨɨch tɨ nmɨna'ñɨch .
+43018023	nej co		Chi Jesús y'adzooy : ― Pen jɨbɨc ɨɨch tɨ n'adzooy yec tɨy'ajt nej co yjɨbɨcɨty . Pen oy ɨɨch tɨ n'adzooy , ¿ nej co xycoxyɨch ?
+43018029	Ti		Co ca' ajcxy ytɨgɨ̈hua'ñ anajty ma je agujctɨjc , chi je gobernador Pilato nibɨdzɨmy ajcxy tɨba'y ma anajty ajcxy mɨɨdɨty Jesús cuend'aty . Chi Pilato ymɨnañ : ― ¿ Ti xɨ̈huɨn ajcxy mmɨɨd , mɨɨd jadayaabɨ yëydɨjc ?
+43018035	Ti		Chi jada' Pilato y'adzooy : ― ¿ Nej nañ judiojäy jada' ɨɨchɨ ? Mgɨ'mnaax mgɨ'mgajp etz je teedy mɨjtungmɨɨdpɨ tɨ xycɨ̈yecy ma ɨɨch . ¿ Ti tɨ mdundɨgooy ?
+43018038	Ti		Chi Pilato y'adzooy : ― ¿ Ti jadu'n mdijy tɨy'ajt tɨydudägypɨ ? Jadu'ñyɨ je' jada'ajty yjacmɨnañ , chi pɨdzɨmy jadüg'oc tɨba'y ma anajty je judíojäy ajcxy . Chi ajcxy nɨmay : ― Ca' ɨɨch ni ti bocy nbaadyɨch ma jada jäy ma yɨ romanojäy yley .
+43019009	Ma		Chi ytɨgɨɨy jadüg'oc ma je cötujctac mɨɨd Jesús , chi nɨmay : ― ¿ Ma miich tɨɨyɨ mgogajpɨty ? E Jesús ca' y'adzooy .
+43019015	~		E je' ajcxy y'adzooy : ― Huen ögy , huen ögy . Yajcruudzpet . Chi Pilato ymɨnañ : ― Miich ajcxy mrey , ¿ miñ n'ocyajcruudzpétyɨchɨ ? Chi je teedy tungmɨɨdpɨ ajcxy y'adzooy : ― Ɨɨch ajcxy ca' ɨɨch ajcxy huingbɨ rey nmɨɨdɨty , jëyɨ César ɨɨch ajt nrey'ajtɨm .
+43020013	na'amy		Chi je ángel ajcxy nɨmay je María : ― ¿ Miich töxyjäy na'amy co myäxy ? Chi je María y'adzooy : ― Tɨ ajcxy nHuindzɨn ñaaxnïcx yajnɨcxɨ , e ca' nnejhuɨ̈yɨch ma ajcxy tɨ pɨdägy .
+43020015a	ti		Chi Jesús ymɨnañ : ― Töxyjäy , ¿ ti co myäxy ? 
+43020015b	Pɨn		¿ Pɨn m'ixtaayb ? María hue' anajty tijy je aguemy cuend'ajtpɨ mɨgapxɨp , paady jadu'n ymɨnañ : ― Huindzɨn , pen tɨ myajnɨcxy Jesús ñaaxnïcx , nigapx ma tɨ mbɨdägy , e ɨɨch nɨcxy nyajtzooñɨch .
+43021012	Pɨn		Chi Jesús nɨmay ajcxy : ― Min ajop'ajtcɨx . E ni tüg ydiscípulos ajcxy ca' y'amɨdoohuɨ : ― ¿ Pɨn miich ? Com ñejhuɨɨyb anajty ajcxy co je' anajty Huindzɨn Jesús .
+43021020	pɨn		Chi Pedro ñayjɨɨ'ijxɨ , chi ijxy co anajty tú'cɨy anajty ymiingɨxy je' ydiscípulo huɨdibɨ anajty Jesús ooy tzocy jɨhuɨ̈y je huɨdibɨ anajty ɨñaayb huingon ma Jesús ma je mesa co anajty y'adzuu'ajtcɨxy . Je huɨdibɨ nɨmay je' yHuindzɨn : ― Huindzɨn , ¿ pɨn miich yɨ' xycɨ̈yegam ma yɨ mmɨdzip ?
+43021021	ti		Co Pedro ijxy je jadügpɨ discípulo axam Jesús ypanɨcxyii , chi ymɨnañ : ― Huindzɨn , e jadayaabɨ mɨgüg , ¿ ti yɨ' jadaanɨp ?
+43021022	ti		Chi Jesús y'adzooy : ― Co ixyipy ndzocyɨch co yɨ' huen jugy'aty ixtɨ mabaad nhuimbityɨch , ca' miich xypaady mnejhuɨ̈huɨpy ti yɨ' jadam . Panɨcxcɨch miich .
+43021023	ti		Paady ycɨxp huinjɨhuɨy je ymɨgügtɨjc ajcxy co je ymɨgüg huɨdibɨ Jesús ooy tzocy jɨhuɨ̈y ca' anajty y'öga'ñ . Per Jesús canan je' anajty jadu'n ytijyp co ca' y'öga'ñ . Hue' anajty tɨ ymɨna'ñ janchtɨy : ― Pen ndzojcypɨch ixyipy co jada mɨgüg yhuɨ'mɨpy ixtɨ mabaad nhuimbityɨch , ca' miich xypaady mnejhuɨ̈huɨpy ti yɨ' ytunamy .
+44001011	nej co		chi ajcxy ñɨmaayɨ : ― Galilea jäy ajcxy , ¿ nej co mdzachpät'ijxcɨxy tzajpcɨ́xy ? Yɨ Jesús huɨdibɨ tɨ chajppety , tɨ chooñ ma miich ajcxy , minaamb jadüg'oc jadu'n nej tɨ m'ijxcɨxy co tɨ ypättɨgɨ̈y .
+44002008	Nej		¿ Nej ɨɨch ajt co nmɨdo'mbɨ́jcɨm co tzachmɨydaaccɨxy ɨɨch ajt n'ayuc huɨdibɨ tɨ nmɨbi'c'ájtɨm ?
+44002012	nej		Nidüg'ócɨy ajcxy ooy jɨhuɨ̈y , e chi ajcxy ooy yhuinmay'ahuɨdijty , miñ xyɨpy ñay'amɨdóohuɨgɨxy : ― ¿ Nej jada yhuimbɨdzɨma'ñ ?
+44002037	ti		Co je mayjäy ajcxy jadu'n mɨdoy , chi ajcxy yjotyungɨɨy , e amɨdoy ajcxy je Pedro etz jacjadyii jäy huɨdi Jesús y'ayuc capxhuäcxɨ anajty , chi ajcxy ymɨnañ : ― Mɨgügtɨjc , ¿ ti ɨɨch ajcxy jëbɨ huaad nduñ ?
+44003012a	nej co		Pedro co jadu'n ijxy je mayjay , chi ymɨnañ : ― Judío yëydɨjctɨjc , ¿ nej co mdzachhuinmaaygɨxy mɨjcajee ? 
+44003012b	nej co		¿ Nej co ɨɨch miich ajcxy xychachhuindɨɨcxcɨxy jadu'n nej jɨhuɨ̈y ɨɨch ajcxy jada jäy tɨ nyajtzögyɨch tɨ nyajyöychooñɨch mɨɨd ngɨ̈mmɨc'ajtɨch , o mɨɨd co ɨɨch ajcxy ooy nDios'ojadaty ?
+44004007a	~		Chi ajcxy pɨdacy Pedro etz Juan cujc'amy ma anajty ajcxy ñaymugyii , chi ajcxy y'amɨdooy : 
+44004007b	Pɨn		― ¿ Pɨn miich ajcxy tɨ xymöy cötujcɨn co jada jadu'n tɨ mdungɨxy ?
+44004007c	~		
+44004016	Ti		Chi ajcxy ymɨnañ : ― ¿ Ti cham nduunɨm mɨɨd yɨjiibɨ jäy ajcxy ? Com tüg'ócɨy jäy huɨdibɨ tzɨnaayb ya Jerusalén ñejhuɨɨyb ajcxy co tɨ túngɨxy mɨjhuinma'ñ , e ca' huaad ɨɨch ajt nmɨnaanɨm co ca' yjanchɨty .
+44004025a	nej co		Miich mɨɨd mEspíritu je David myajcapxy , e yɨ' jadu'n ymɨnañ : ¿ Nej co jada naaxhuiñybɨ jäy chachhuaangɨxy chachjɨhuɨɨygɨxy , 
+44004025b	~		e yɨ jäy ajcxy huinmaaygɨxy huɨdibɨ ca' ytimytiijɨty ?
+44005003	nej co		Chi Pedro nɨmay Ananías : ― Ananías , ¿ nej co myajtuñ je mujcu' yhuinma'ñ , e mhuin'ɨɨna'ñ je Espíritu Santo , e tɨ mbugoñ jac'anaxypɨ meeñ nej tɨ tzoo'adyii yɨ pɨdägy tɨɨbɨ mdoogy ?
+44005004	nej co		¿ Nej ca' anajty yɨ' miich mdundac'adyii ? E co tɨ mdoogy , ¿ nej ca' anajty je' miich mmeeñ'adyii ? ¿ Nej co jadu'n tɨ mdundɨgooy ? Dios tɨ mhuin'ɨɨñ , canan jäy .
+44005009	nej co		Chi Pedro ymɨnañ : ― ¿ Nej co tɨ mnaygápxɨgɨxy mhuin'ɨɨna'ñ yɨ Espíritu Santo ? Cha ma tɨjc'aguu je jäy ajcxy ytɨnäy huɨdi oy tɨ yajnaaxtɨgɨ̈y mñäy , e jadachambɨ miich ajcxy xyajnɨcxaam nañ jadu'n .
+44007026	nej co		Com jabom Moisés paty mejtz Israel jäy chachtziptungɨxy . Chi Moisés jayajxemaañ je tzip , chi nɨmay : “ Miich ajcxy nay'amɨgüg'ajtɨp , ¿ nej co mdziptungɨxy miich ajcxy miñ xyɨpy ? ”
+44007027	Pɨn		Je huɨdibɨ anajty ymɨgüg tzaachytuumb huin'it najtztijɨɨy Moisés , nɨmay : “ ¿ Pɨn tɨ xypɨdägy huindzɨn etz tɨydumbɨ ma ɨɨch ajcxy ?
+44007035	Pɨn		Chi Esteban yjacmɨnañ : ― Co Moisés oga'n ñɨcxy ma ɨɨch ajt nmɨj'ap nmɨjteedy ca' ajcxy cöbɨjcy huen y'ane'mɨɨyb , chi ajcxy ymɨnañ : “ ¿ Pɨn tɨ xyñɨmäy co ɨɨch miich ajcxy nhuindzɨn'adɨɨyb ? ” Co mɨmetz'ocpɨ Moisés ñɨcxy ma yɨ Israel jäy , je taabɨ anajty je ángel tɨ ymɨgapxyii jɨnye'ñ agujc , chi ajcxy cöbɨjcy .
+44007049a	ti		Je tzajp hue' je' ɨɨch n'ane'mdac , jada naaxhuiñybɨ ɨɨch ndecypocxtac . ¿ Ti tɨjc ɨɨch miich ajcxy xycojaanɨp ? 
+44007049b	ma		¿ Ma je it huɨdibɨ it ma ɨɨch jëbɨ nbocxy ?
+44007052	~		Miich ajcxy mmɨj'ap mmɨjteedy chaachytuun tüg'ócɨy Dios y'ayucnajtzcapxɨɨybɨ . Yɨ' ajcxy yaj'o'c Dios y'ayucnajtzcapxɨɨybɨ huɨdibɨ jayɨjp'aty najtzcapxɨɨy co ymina'ñ tüg jäy huɨdibɨ tudägyɨp . E co je tudägy jäy ymiiñ , chi miich ajcxy agojɨɨx myaj'o'cy .
+44008031	Nej		Chi je jäy y'adzooy : ― ¿ Nej ɨɨch nhuinjɨhuɨ̈huɨpy pen ca' pɨn xyajnɨmäyɨch ? Chi je eunuco nɨmay je Felipe co huen mɨɨd ɨñäyii carretɨjoty .
+44008033	pɨn		Tɨ jäy yajtzöyduñyii , ca' ajcxy a'ɨxɨɨy co yjanayñïgapxtüdaanɨ . Ni y'ap y'oc ycaca'ty pɨn ocnigapxtüdɨɨb . Co yaj'öcɨ , chi choonɨ ya naaxhuiñ .
+44008034	pɨn		Chi je eunuco y'amɨdooy Felipe : ― Tunmay'ajt yajnɨmaaygɨch pɨn jada ayucnajtzcapxɨɨybɨ ñimɨydacpy , ¿ cɨ'm ñayñimɨdyägyii o ji jada huingbɨ pɨn nimɨydacpy ?
+44008036	nej		Co ajcxy ñajx ma tüg nɨɨ , chi je eunuco ymɨnañ : ― Cha nɨɨ , ¿ nej ca' ɨɨch jëbɨ huaad nnɨɨbetyɨ ?
+44009004	na'amy		Huin'it Saulo ycɨday , e mɨdoy co ñɨmäyii : ― Saulo , Saulo , ¿ na'amy co xychachpahuɨdijttägyɨch ?
+44009005	~		Chi Saulo yajtɨy : ― ¿ Mbɨn miich , Huindzɨn ? Chi mɨdoy co y'adzoyii : ― Ɨɨch je' Jesús , je huɨdibɨ miich mdzachpahuɨdijttacpy , cɨ'm nayyajtzaachytunyii jadu'n nej huajyuub co jɨjpconebɨ'y huɨdi mɨɨd ñuumygumyii .
+44009006	ti		Chi Saulo chɨyuygoty chachchɨgɨɨy , e ymɨnañ : ― Huindzɨn , ¿ ti mdzojcpy ndunɨpyɨch ? Chi je Huindzɨn Jesús ñɨmaayɨ : ― Pɨdɨ̈g etz nɨcx cajpjoty , e jɨm nyajnɨmähuɨpy ti jëbɨ mduñ .
+44010004	Ti		Chi Cornelio huindɨcxpejty je ángel janch tzɨgɨɨyb anajty , e chi yajtɨɨy : ― ¿ Ti Huindzɨn ? Huin'it je ángel y'adzooy : ― Jadu'n nej mDios'ojadaty etz jadu'n nej mbubety ayoobtɨjc tɨ Dios jäygɨdägy .
+44010021	ti		Huin'it Pedro ymɨnajcy ma je' ajcxy , je Cornelio quexyöybɨ , nɨmay ajcxy : ― Ɨɨch je' huɨdibɨ miich ajcxy m'ixtaayb , ¿ ti ycɨxpɨ co tɨ mmiingɨxy ?
+44010029	~		Paady co oy tɨ xyajhuoyiijɨch tɨ nmiiñɨch , ni ca' huam tɨ nmɨna'ñɨch . Nnejhuɨ̈huaamyɨch na'amy co oy tɨ xyajhuoyiijɨch .
+44010047	nej		Chi Pedro ymɨnañ : ― ¿ Nej ca' jada' y'óyɨty co ñɨɨbedɨpy ajcxy huɨdibɨ Dios tɨ ymóoyɨgɨxy je yEspíritu Santo jadu'n nej ɨɨch ajt xymooyɨm ?
+44011017a	pɨn		Pen Dios tɨ ymöyii je jäy ajcxy huɨdibɨ ca' yjudíojäyɨty tú'cɨy mɨɨd huɨdibɨ ɨɨch ajt tɨ xymooyɨm co nmɨbɨ́jcɨm Jesucristo . ¿ Ocjactɨm pɨn ɨɨch co Dios nmɨdzɨp'adɨɨybɨch ?
+44011017b	~		
+44012018	~		Co yxɨɨmɨɨy , huin'it soldadtɨjc ajcxy ooy ytɨgɨɨy huambɨ jɨhuɨɨybɨ huinmay'ahuɨdijty , com ca' nejhuɨɨygɨxy nej je' anajty tɨ ytunyii tɨ yjadyii mɨɨd Pedro ycɨxpɨ .
+44013025	~		Co anajty Juan y'o'cɨn huingon , chi ymɨnañ : “ Ca' ɨɨch njëjɨty je Cristo , jadu'n nej mmɨnaangɨxy . Jayɨjp tɨ nmiiñɨch , jac'axam miina'ñ je Cristo ; jacmɨc'ajt mɨɨd je' ca'ydɨ ɨɨch . Ca' xypaadyɨch nɨcxy yɨ' ycɨ̈ghuin nguejɨch . ”
+44014015	nej co		― ¡ Yëydɨjctɨjc ajcxy ! ¿ Nej co jada jadu'n m'ɨdɨɨtzcɨxy ? Nañ jadu'n ɨɨch ajcxy jäyɨty , jadu'n nej miich ajcxy . Paady ɨɨch ajcxy tɨ nmingɨxy ma miich ajcxy mgajp jɨgɨx ajcxy m'ixmadzɨpy jada jadu'mbɨ huinma'ñ huɨdibɨ ca' choobaady ma Dios . E mɨjpɨdaaccɨxp je Dios juugypɨ huɨdi oyduñ tzajp etz naaxhuiñybɨ , je mejy etz tüg'ócɨy tijaty ya n'íjxɨm .
+44015010	nej co		Jadachambɨ , ¿ nej co ca' mhuinjɨhuɨ̈huaangɨxy mɨbɨgaangɨxy nej Dios ytuñ mɨɨd huɨdibɨ ca' yjudíojäyɨty ? ¿ Nej co adzip myajnïhuidzaangɨxy je costumbre huɨdi ni ɨɨch ajt ni n'ap ndeedy ca' tɨ mɨmadägy nɨcxy cuydundaaygɨxy ?
+44016030	ti		Chi yajpɨdzɨmy Pablo etz Silas , e yaj'amɨdooy : ― Huindzɨn , ¿ ti ɨɨch jëbɨ nduñ jɨgɨx nïdzoocɨn nbáadɨbɨch ?
+44017018	Ti		Nijëjɨty ixpɨcytɨjc ñay'ijxquípxɨgɨxy y'ixpɨjcɨn mɨɨd Pablo . Jɨm huɨdibɨ ni'ixpɨgɨɨyb epicúreo ixpɨjcɨn , etz cham huɨdi ni'ixpɨgɨɨyb estoico ixpɨjcɨn . Chi ajcxy nijëjɨty ymɨnaangɨxy : ― ¿ Ti jada jada' ajt xyajnɨmaayɨm jada yëydɨjc capxymaaybɨ ? Chi jadyii ymɨnaangɨxy : ― Hue' jada ycapxhuäcxyp huingbɨ dios y'ayuc . Jadu'n ajcxy ymɨnañ co Pablo nimɨydacy Jesús etz jadu'n nej jäy yjugypɨcy huɨdijaty tɨ y'öccɨxyp .
+44017019	nej		Chi ajcxy mɨɨdnɨcxy Pablo ma je it ma je ixpɨcytɨjc ñaymugyii huɨdi anajty yxɨɨ Areópago , chi ajcxy Pablo nɨmay : ― ¿ Nej jëbɨ njájtcɨxɨch jada jemybɨ ixpɨjcɨn huɨdi miich mmɨmimb ?
+44019003	ti		Chi Pablo y'amɨdooy ajcxy : ― ¿ Ti nɨɨbejtɨn miich ajcxy mbaad ? Chi je' ajcxy y'adzooy : ― Je Juan , je Bautista , ñɨɨbejtɨn .
+44019015	~		Co je Esceva ymang ajcxy mɨgapx je ca'oybɨ , chi je ca'oybɨ y'adzooy : ― N'ix'atypɨch je Jesús , e nnejhuɨɨybɨch pɨn je' Pablo , e miich ajcxy , ¿ mbɨn miich ajcxy ?
+44019035	~		Chi je cajp jaaybɨ co anajty je jäy tɨ yaj'amoongɨxy hueenɨ , chi ajcxy nɨmay : ― Efeso jäy , tüg'ócɨy yɨ naaxhuiñyjäy nejhuɨ̈y co jada Efeso cajp yɨ' cuend'ajtp yɨ Diana chajptɨjc , je' Diana huɨdi ooy tɨ yajcömay , etz yɨ Diana ñinïcx huɨdi cä'u tzajpcɨ́xy .
+44021013a	nej co		Huin'it Pablo y'adzooy : ― ¿ Nej co myaaxcɨxy mɨɨd ɨɨch ycɨxpɨ ? 
+44021013b	nej		¿ Nej ɨɨch miich ajcxy co njot nhuinma'ñ xyaj'amutzcɨɨyɨ ? Ɨɨch nayyéjcɨbɨch mɨɨd naygɨ̈xodzɨɨ naydecyxodzɨɨ , nañ jëbɨ n'ögɨbɨch jɨm Jerusalén mɨɨd je Huindzɨn Jesús ycɨxpɨ .
+44021022	ti		¿ Ti huaad nduunɨm ? Jotmädam ajcxy co nejhuɨ̈huɨpy co ya miich tɨ mjäty .
+44021033a	pɨn		Co je soldado huindzɨn jɨm ja'ty , chi yajmajtzɨ je Pablo , ni'anëmdɨy co huen cɨ̈xochyii mɨɨd mejtz cadena . Chi yajtɨɨy pɨn je' anajty , 
+44021033b	ti		e ti tɨ tuñ .
+44022007	ti		Chi jɨm ngɨdaayɨch , huin'it nmɨdooyɨch tüg ayuc xyñɨmäyɨch : “ Saulo , Saulo , ¿ ti co xypahuɨdijttägyɨch ? ”
+44022008	~		Huin'it n'amɨdooyɨch : “ ¿ Mbɨn miich , Huindzɨn ? ” Chi xy'adzooyɨch : “ Ɨɨch je' je Jesús je huɨdi cogajp jɨm Nazaret , je huɨdi miich mdzachpahuɨdijttacpy . ”
+44022010	ti		Huin'it nnɨmaayɨch : “ ¿ Ti jëbɨ nduñɨch , Huindzɨn ? ” Chi je Huindzɨn Jesús xy'adzooyɨch : “ Pɨdɨ̈g e yajyöy mdu' , nɨcxy jɨm Damasco , jɨm myajnɨmähuɨɨyb tüg'ócɨy ti jëbɨ mduñ . ”
+44022016	nej co		Jadachambɨ , ¿ nej co mhuäcxɨpy ? Pɨdɨ̈g etz nɨɨbet . Mɨbɨjctzou Dios jɨgɨx mbocy ñïhuädzɨpy . ”
+44022026	~		Co jadu'n mɨdooy je capitán , chi ñɨcxy oy yajnɨmäy je comandante : ― Ixcɨm nej mduñ yɨ jäy , com hue' yɨ' romanojäy .
+44023003	~		Chi Pablo ymɨnañ : ― ¡ Dios xychaachytunɨpy miich huɨdibɨ mnaybɨdaacɨp nej jɨhuɨy ooy mdudägyjäyɨty , e ca' yjanchɨty ! Paady miich m'ɨñäy ma cötujctac jɨgɨx nyajtɨydunɨpyɨch nej je ley y'ane'my . Chi mmɨdundɨgooy je ley co tɨ xyajcojxyiijɨch .
+44023009	~		Tüg'ócɨy jäy ajcxy ma je naymujctac ytɨgɨɨy huambɨ jɨhuɨɨybɨ . Chi nijëjɨty fariseojäy huɨdi nihuindzɨn'ajtpy je Moisés ycötújcɨn nïgapxtuty Pablo ymɨnañ : ― Jadayaabɨ jäy ca' ti pocy tɨ tuñ . Ca' yjecyɨty tɨ jada' ymɨgapxyii tüg espíritu o tüg ángel .
+44023019	Ti		Chi je comandante majch je yeeg'anäg ma ycɨ' , e yajnɨcxy abɨcy , chi yaj'amɨdooy : ― ¿ Ti xyajnɨmähuaamyɨch ?
+44026008	Na'amy		¿ Na'amy co ca' miich ajcxy mɨbɨga'ñ co jëbɨ Dios yajjugypɨcy je tɨɨbɨ ajcxy y'ögy ?
+44026014	nej co		Huin'it nidüg'ócɨy ɨɨch ajcxy ngɨdaday , e nmɨdooyɨch tüg ayuc xymɨgapxɨch mɨɨd hebreo y'ayuc , xyñɨmäyɨch : “ Saulo , Saulo , ¿ nej co chach xypahuɨdijttägyɨch ? Cɨ'm nayyajtzaachɨ̈yii jadu'n nej huaj yuub co jɨjpconebɨ̈y huɨdi mɨɨd ñumygumyii . ”
+44026015	~		Huin'it n'adzooyɨch , nnɨmaayɨch : “ ¿ Mbɨn miich Huindzɨn ? ” E je Huindzɨn xyñɨmaayɨch : “ Ɨɨch je' Jesús je huɨdi miich mdzachpahuɨdijttacpy .
+45002017	~		Miich ajcxy huɨdibɨ mɨnamb co mjudíojäyɨty , miich ajcxy mmɨjpɨdaaccɨxyp Dios ycötujcɨn , je jecyɨp huɨdibɨ jaybetyɨp . Miich ajcxy mnaygömáayɨgɨxy co miich ajcxy Dios xyjäy'adyii .
+45002021	nej co		Miich ajcxy myaj'ixpɨjcpy jacjadyii jäy ajcxy Dios ytɨy'ajt . ¿ Nej co ca' cɨ'm mguydungɨxy nej tɨ myaj'ixpɨjccɨxy ? Myaj'ixpɨjcpy ajcxy jacjadyii jäy co ca' huaad ymeetzcɨxy , e miich cɨ'm ajcxy meetzp .
+45002028	~		Je ijxpejt janchypɨ co pɨnjaty Dios yjäy'ajtyp , canan je' je ijxpejt huɨdibɨ ymɨɨd ma ninïcx . E nañ jadu'n canan je' je tɨy'ajttɨ̈huɨɨ cötujcɨn huɨdibɨ jäy cuydun jecy'ajty .
+45003001a	ti		Pen tɨy'ajt jadu'n nej nmɨna'ñɨch , ¿ ti jäygɨdaacɨn yɨ judíojäy ajcxy ymɨɨd ma Dios huɨdibɨ yɨ jacjadyii jäy ajcxy ca' mɨɨdɨty ? 
+45003001b	ti		¿ Ti jäygɨdaacɨn ajcxy ypatpy co ajcxy mɨɨdɨty tɨy'ajt ma ñinïcx co Dios yjäy'adyii ?
+45003003	Nej		¿ Nej mdijy co Dios ca' cuyduna'ñ yɨ' y'ayuc mɨɨd yɨ judíojäy ajcxy mɨɨd co nijëjɨty judíojäy ca' cuyduñ yɨ' ycötujcɨn ?
+45003005	nej		Pen Dios cömaybɨdzɨmɨpy mɨɨd ajt nbocy ycɨxpɨ , ¿ nej tɨy'ajt jadu'n nej jäy ymɨnaangɨxy co Dios ca' oy ytuñ , co xychaachytuunɨm mɨɨd ajt nbocy ycɨxpɨ ?
+45003006	~		Ca' yjadu'nɨty . Co ixyipy yjadu'nɨty , Dios ca' yɨ' tɨydunɨpy naaxhuiñyjäy mɨɨd ajcxy ypocy ycɨxpɨ .
+45003007a	~		Co ixyipy ytɨy'ajtɨty jadu'n nej jäy ymɨnaangɨxy co Dios ooy yjotcujcɨty co ca' xychaachytunɨpyɨch mɨɨd nbocyɨch ycɨxpɨ , jac'oy co ixyipy ndundɨgooyɨch , jɨgɨx Dios janch ycömaybɨdzɨmɨpy .
+45003007b	~		
+45003008	~		Jac'oy ixyipy nmɨnaanɨm : “ Tzoc tundɨgooyɨm jɨgɨx jëbɨ Dios cömay ypɨdzɨmɨpy . ” Ixtɨ nijëjɨty jäy tɨ xyñïhuambetyɨch co ɨɨch jadu'n tɨ nmɨna'ñɨch . Ca' jadu'n nmɨna'ñɨch co Dios jäy tzaachytunɨpy ninɨgoob . Dios chaachytunɨpy pocyjäy ajcxy , com paatɨp ajcxy jadu'n yɨ tzaachypɨ .
+45003009	Nej		¿ Nej janch jadu'n co ɨɨch ajcxy huɨdibɨ judíojäy , jac'oyjäy ɨɨch ajcxy ca'ydɨ yɨ jacjadyii jäy ajcxy ? Ca' yjadu'nɨty , ca' ɨɨch ajcxy njac'oyjäyɨty . Com tɨ jayɨjp nyaj'ixpɨcyɨch co tüg'ócɨy jäy ajcxy yajpaady pocymɨɨd , yɨ judíojäy , etz nañ jadu'n jacjadyii jäy ajcxy .
+45003027a	ti		¿ Ti huaad jäy ajcxy tungɨxy huɨdibɨ jëbɨ mɨɨd ñaygömayɨɨyb ma Dios ? Ca' ni ti . 
+45003027b	na'amy		¿ Na'amy co yjadu'nɨty ? 
+45003027c	nej		¿ Nej jëbɨ ajcxy ñaygömayɨɨyb mɨɨd co yajmɨj'ajtcɨxy Dios ycötujcɨn ? Ca' yjadu'nɨty . Ca' huaad ñaygömáyɨgɨxy cɨ'm , com Dios tɨ yaj'ahuimbity jäy ajcxy tudägy huɨdibɨ mɨjpɨdacp Jesús .
+45004001	nej		¿ Nej n'ocmɨnaanɨm ? ¿ Ti oybɨ tɨ paady ma Dios je Abraham ɨɨch ajt nmɨj'ap nmɨjteedy ?
+45004003	~		Jadu'n jaybety ymiiñ ma Dios ñecy ma jadu'n ymɨna'ñ : “ Abraham ymɨjpɨdaacɨ Dios , e paady Dios jadu'n cöbɨjcy Abraham jadu'n nej tüg tudägyjäy . ”
+45004010	Nej		¿ Nej mdijy Dios ycöbɨjcɨ Abraham jayɨjp ca' anajty yajtɨy'ajttɨ̈yñɨ ? o ¿ tɨ anajty yajtɨy'ajttɨ̈y ? Dios ycöbɨjc Abraham jadu'n nej jɨhuɨ̈y ytudägyjäyɨty ca'nɨ anajty pɨdacy tɨy'ajt ma ñinïcx co Dios yjäy'adyii .
+45005010	~		Co anajty ca' Cristo ymiiñɨ ya naaxhuiñ , huin'it anajty nmɨdzip'ajtɨm Dios . Je tzip capxy tɨ Dios yaj'oyɨ̈y co quejxy y'ung ya naaxhuiñ , e y'o'cy mɨɨd ajt nbocy ycɨxpɨ . Mɨɨd co Cristo xycodɨnaayɨm ma yɨ o'cɨn , paady nïgɨ xypubejtɨm xypudɨgɨɨyɨm cham co yajpaady juugy .
+45005021	nej co		Tɨm jadu'n nej co jäy ypocytungɨxy , huin'it ajcxy pocymɨɨd chɨnaaygɨxy , ixtɨ mabaad anajty y'öccɨxy mɨɨd ypocy ycɨxpɨ . Nañ tɨm jadu'n co Dios may'ajt tuuñ co yaj'ahuimbity jäy ajcxy tudägy , huin'it Dios ane'my yɨ' ajcxy chɨnaayɨn mɨɨd tudägy huinma'ñ , etz nañ xymöhuaanɨm jugy'ajtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy nimɨna , co nmɨjpɨdaacɨm ajt nHuindzɨn Jesucristo huɨdibɨ yjugy'ajtɨn yejc mɨɨd ajt nbocy ycɨxpɨ .
+45006001	nej		¿ Nej n'ocmɨnaanɨm ? ¿ Tzoc ooy nïgɨ tundɨgooyɨm jɨgɨx Dios nïgɨ may'ajt tunɨpy mɨɨd ɨɨch ajt ?
+45006002	~		Ca' jadu'n ytɨy'ajtɨty , ca' huaad njacpocytuunɨm . Co nmɨbɨjcɨm Jesucristo , chi jadu'n nipaady nejɨhuɨ̈y tɨ n'o'cɨm , e cham ca' n'ijtɨm pocymɨɨd .
+45006015	ti		¿ Ti huaad nduunɨm ? ¿ Nej jëbɨ huaad njacpocytuunɨm ? Com Dios mɨjmay'ajt tɨ tuñ co tɨ jöch ajt nbocy etz nxɨ̈huɨn , e Dios ycötujcɨn , je jecyɨp , ca' xyjacyajpocycähuɨm . Ca' huaad njacpocytuunɨm .
+45006021	Ti		¿ Ti jotcujc'ajtɨn miich ajcxy tɨ mbaatcɨxy co jɨbɨc jot jɨbɨc-huinma'ñ mdungɨxy huɨdibɨ jadachambɨ tiempo mdzöydu'n'ajtɨp ajcxy ? Yɨ jɨbɨc jot jɨbɨc-huinma'ñ xyyajnɨcxp ajcxy ma yɨ o'cɨn .
+45007007	Nej		¿ Nej n'ocmɨnaanɨm ? ¿ Nej janch co je cötujcɨn huɨdibɨ Moisés xymooyɨm xyajpocytuunɨm anajty ? Ca' yjadu'nɨty . Co ixyipy ca' anajty nmɨɨdɨdyɨch Moisés ycötujcɨn , ca' ixyipy ɨɨch tɨ nnejhuɨ̈yɨch co tɨ ndundɨgooyɨch ma Dios ytɨy'ajt . Co ixyipy anajty ca' n'ocnejhuɨ̈yɨch Moisés ycötujcɨn ma jadu'n ymɨnañ : “ Ca' mmɨgüg ni ti m'adzojcɨpy . ” Tɨ ixyipy ndundɨgooyɨch , e ca' ixyipy nejhuɨ̈yɨch ma tɨ ndundɨgooyɨch .
+45007024	Pɨn		Paady ca' njotcújcɨgyɨch . ¿ Pɨn jëbɨ xyñihua'ñɨch xyajnïdzögɨbɨch ma jadayaab nninïcxɨch huɨdibɨ xyajnɨcxpɨch ma yɨ o'cɨn ?
+45008024	pɨn		Mɨɨd co n'aa'ijxɨm njɨjp'ijxɨm co Dios xyajnïdzögaanɨm ajt n'alma , paady tɨ nbaatɨm jugy'ajtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy . Co ixyipy tɨ nbaatɨm huɨdibɨ anajty njɨjp'ijxɨm , ca' ixyipy njacjɨjp'ijxɨm co nbadáanɨmnɨ . Com ca' pɨn jacjɨjp'ijxnɨ co padaanɨp je huɨdibɨ tɨ ocpatpɨ .
+45008031a	ti		¿ Ti jada' njacjɨjp'ijxɨm ti jada' njactzojcɨm ? Ca' ni ti . Pen Dios ɨɨch ajt xypubejtɨm xypudɨgɨɨyɨm , 
+45008031b	pɨn		¿ pɨn ɨɨch ajt jëbɨ xymɨmadaacɨm ? Janch ni ca pɨn .
+45008032	~		Dios ixtɨ ycɨ'm'ung tɨ yecy mɨɨd ɨɨch ajt ycɨxpɨ , co oy y'o'cy mɨɨd ɨɨch ajt ycɨxpɨ , co oy y'o'cy ma yɨ cruudz mɨɨd nidüg'ócɨy ajt nbocy ycɨxpɨ . Paady janch janch co Dios xymöhuaanɨm tüg'ócɨy oybɨ quipxyjaty mɨɨd yɨ' y'ung , Jesucristo .
+45008033	Pɨn		¿ Pɨn jada' jëbɨ ocxɨ̈y je jäy ajcxy huɨdibɨ Dios tɨ huin'ixy ? Ca' ni pɨn . Com Dios cɨ'm yɨ' tɨ yaj'ahuimbijttäy tudägy .
+45008034	Pɨn		¿ Pɨn yɨ' ajcxy jëbɨ ocyajpocycäy ? Ca' ni pɨn . Com Cristo o'c je' mɨɨd ajt nbocy ycɨxpɨ , etz yjugypɨjcy jadüg'oc , e jadachambɨ xɨɨ tiempo yajpaady a'oy'amy ma Dios ymɨjc , e yɨ' ane'mdaayb tüg'ócɨy . E Cristo ɨɨch ajt xyñibɨjctzohuɨɨyɨm , ypɨjctzooyb may'ajt ma Dios mɨɨd ɨɨch ajt ycɨxpɨ .
+45008035	~		Com Cristo ooy xychojcɨm xyjɨhuɨɨyɨm , paady ni nej ca' xy'ixmadzaanɨm . Huen ti ndɨmpaatɨm ca' xy'ixmadzaanɨm . Oy ixyipy tzaachypɨ ayo'n nmɨnajxɨm nyajnajxɨm , oy ixyipy tajɨn mayɨn nbaatɨm ; oy ixyipy jäy xy'ixhuɨdijtɨm xypahuɨdijtɨm ; oy ixyipy yuu ayo'n nbaatɨm ; oy ixyipy huit tucxy nyajmayjajtɨm ; oy ixyipy tzɨgɨ'ñ nyajnajxɨm ; oy ixyipy jäy xytɨmyyaj'o'cɨm . Oy ti ayo'n ndɨmbaatɨm , Cristo ca' xy'ixmadzaanɨm .
+45009014	nej		¿ Nej n'ocmɨnaanɨm ? ¿ Dios ca' tɨɨybɨ tuñyɨ ? Ca' yjadu'nɨty . Dios tɨydudägy ytuñ .
+45009019a	ti		Huin'it miich ajcxy xyñɨmähuɨbɨch : “ Penɨ janch yjadu'nɨty , ¿ ti co Dios jadu'n jadüg'oc pocy'ixy jäy ? 
+45009019b	Pɨn		¿ Pɨn jada' occapxhuimbidɨp nej yɨ' tzocyɨ ? ”
+45009020a	~		Miich jäy , ¿ mbɨn miich co tɨ myajcapxycoja'ñ myaj'ayuccoja'ñ mɨɨd Dios ? 
+45009020b	nej		¿ Nej jëbɨ pochytüdz nɨmäy je pɨn anajty tɨ yajcojyii ? 
+45009020c	nej co		“ ¿ Nej co jadu'n tɨ xyajcojyɨch ? ”
+45009021	~		Tüdzyajcojpɨ yɨ' yaj'oyɨɨyb je mo'ntz nej tɨm tzocy . Pen yajcojamyb tüdz oybɨ tzoojatypɨ , yajcojpy je' . Penɨ yajcojamyb tüdz huɨdibɨ ca' oyjatyɨty , yajcojpy je' .
+45009022	~		Tɨm jadu'n nej je tüdzyajcojpɨ yaj'oyɨɨy mo'ntz nej tzocy , nañ jadu'n Dios tuñ mɨɨd jäy nej tzocy . Dios tɨ yajcojy jäy , e mɨɨd ymɨc'ajt jëb tzaachytuñ mɨɨd ypocy ycɨxpɨ . E co jadu'n tzaachytunɨpy , chi ñiguëxɨ̈gɨpy yɨ' ymɨc'ajt . Dios ooy jecy tɨ jamɨmecxtucy ajcxy huɨdibɨ paatɨp co Dios chaachytunɨɨyb ajcxy . Com Dios tɨ yajcojy jäy paady jëb nañ jadu'n pa'ayoohuɨpy etz may'ajt tunɨpy mɨɨd yɨ' ajcxy , jëbɨ ajcxy paadɨp yɨ' y'oy'ajtɨn . Dios ɨɨch ajt tɨ xyhuin'ijxɨm nijëjɨty judíojäy , etz nijëjɨty huɨdibɨ ca' yjudíojäyɨty , jëbɨ ajt n'alma nïdzoocɨn paady .
+45009023	~		
+45009024	~		
+45009030	~		Jadu'n jëbɨ mhuinjɨhuɨɨygɨxy huɨdibɨ tɨ nyajnijayɨɨygɨxy jadu'n nej Dios ytun mɨɨd jäy ajcxy . Yɨ jäy ajcxy huɨdibɨ ca' yjudíojäyɨty , huɨdibɨ ca' cuyduñ Dios ycötujcɨn je jecyɨp , co ajcxy mɨjpɨdägy je Cristo , chi ajcxy paady tudägy'ajtɨn ma Dios .
+45009032	Na'amy		¿ Na'amy co ca' ajcxy mɨmadägy cuydundäy Dios cötujcɨn ? Je' co ajcxy ca' mɨjpɨdägy huɨdibɨ Dios tɨ tuñ mɨɨd yɨ' ajcxy ycɨxpɨ . Hue' ajcxy tijy co tudägy'ajtɨn padaangɨxy ma Dios mɨɨd co tzachcuydungɨxy Dios ycötujcɨn je jecyɨp . Hue' ajcxy ayo'n ypadamyb co ca' Cristo cöbɨjccɨxy , tɨm jadu'n nej jäy ayo'n paady co ycönepy ma tüg tzaa .
+45010006	Pɨn		Per yɨ jäy ajcxy huɨdibɨ mɨjpɨdaacp Cristo etz cuydunɨ yɨ' ytɨy'ajt , yɨ' ajcxy ymɨnañ : “ Ca' huaad judíojäy ajcxy ymɨnaangɨxy jotjoty huinma'ñyjoty : ¿ Pɨn ocpättɨgɨ̈huɨp tzajpjoty nɨcx je Cristo yajtzooñ ? 
+45010007	Pɨn		o ¿ Pɨn nɨcxamb ca'oydactuuby ma ajcxy öcpɨdɨjc y'ity e yajjugypɨgaanɨp je Cristo ? ”
+45010008	nej		¿ Nej Dios y'ayuc ymɨna'ñ ? Jadu'n Dios y'ayuc ymɨna'ñ : “ Tɨ mmɨdoy miich ajcxy Dios y'ayuc ytɨy'ajt ma mgɨ'm'ayuc , tɨ jäy ajcxy capxhuäcxy ma miich , tɨ mmɨdo'mbɨjccɨxy . ” Pues jada je' je y'ayuc tɨy'ajt nej jëb mɨjpɨdaaccɨxy Cristo , huɨdibɨ tɨy'ajt ɨɨch ajcxy ngapxhuäcxp .
+45010014a	nej		¿ Nej jëbɨ jäy ajcxy occohuanɨ̈y Jesucristo co huen y'alma nïdzögy , pen ca' anajty tɨ mɨbɨjcɨ je ytɨy'ajt ? Pues ca' yjadu'nɨty . 
+45010014b	nej		¿ Nej jëbɨ jäy mɨbɨcy Jesucristo penɨ ca'nɨ ajcxy amɨdo'ijtɨ y'ayuc ? Pues ca' yjadu'nɨty . 
+45010014c	nej		¿ Nej jëbɨ jäy ajcxy mɨdoogɨxy Jesucristo y'ayuc , pen ca' pɨn capxhuäcxy ma yɨ' ajcxy ?
+45010015	jadu'n		¿ Nej jëbɨ jäy ajcxy capxhuäcxy Jesucristo y'ayuc ytɨy'ajt , pen ca' pɨn yquexyii ayuccapxhuäcxpɨ ? Com jaybety jadu'n ymiiñ ma Dios ñecy , ma jadu'n ymɨnañ : “ Ooy oy jäy ñayjɨhuɨ̈yii co pɨnjaty mɨmimb mɨja'tp oybɨ tɨy'ajt , pɨnjaty capxhuäcxp oybɨ tɨy'ajt ma yɨ' ajcxy . ”
+45010016	pɨn		Per ca' nidüg'ócɨy jäy mɨbɨcy je oybɨ tɨy'ajt , com Isaías jadu'n cojay ma ñecy ma jadu'n ymɨnañ : “ Huindzɨn Dios , ¿ pɨn tɨ mɨjpɨdägy ɨɨch ajcxy n'ayuc ? ”
+45011004	~		E chi Dios y'adzooy nɨmay Elías : Ca' mim naydügɨty , ji ɨɨch ahuing nmɨ́ɨdɨdyɨch yujcpɨcy jahuɨxtujc mil yëydɨjc huɨdi xy'ojadajtpɨch xyhuindzɨgɨɨybɨch chambaad , huɨdibɨ ca'nɨ huingoxtɨnäy yɨ Baal , yɨ dios falso , ca'pɨ ti mɨc'ajt mɨɨdɨty ni ti tzöc'ajt ca mɨɨdɨty .
+45011007	ti		¿ Ti tɨ ytunyii tɨ yjadyii mɨɨd yɨ Israel jäy ajcxy ? May ajcxy ca' may'ajtɨn oy'ajtɨn paady ma Dios jadu'n nej ajcxy jɨjp'ijxcɨxy . Jëyɨ ajcxy huɨdi Dios huin'ijxɨ tɨ ajcxy paatcɨxy oy'ajt ma Dios . Yɨ jacjadyii Israel jäy ajcxy Dios nïg ooy yajjotmɨj'öccɨxy .
+45011015	~		Com pen je naaxhuiñyjäy huɨdibɨ ca' yjudíojäyɨty , huɨdibɨ Dios jecy'ajty ca' jäygɨdacɨ ajcxy chɨnaayɨn , pen tɨ ajcxy cöbɨjcɨ Dios ytɨy'ajt , pen tɨ ajcxy oy'ajtɨn paady ma Dios , mɨɨd co Dios tɨ ixmach yɨ Israel jäy huɨdibɨ ca' cöbɨcy yɨ' ytɨy'ajt , chi yɨ Israel jäy co ajcxy jadüg'oc yjothuimbidɨpy etz cöbɨgɨpy Dios ytɨy'ajt , nañ jadu'n ooy yjotcugɨ̈huɨpy ajcxy , jadu'n nejjɨhuɨ̈y tɨ ajcxy y'ögy etz nej jɨhuɨ̈y ajcxy tɨ yjugypɨcy jadüg'oc .
+45011018	~		Ca' huaad amɨj agɨx mnayjɨhuɨɨygɨxy , e ni ca' huaad m'ixtijcɨxy yɨ judíojäy huɨdibɨ ca' mɨjpɨdaaccɨxy je Cristo . Miich ajcxy yɨ m'oy'ajt tɨ mbaady ma Dios , tɨm jadu'n nej je quipy y'aacx mɨc'ajt paady ma yɨ quipy ytictz .
+45011033a	~		¡ Ooy ycodzɨgɨ̈jɨty Dios ! Dios ooy mɨjcajee may'ajt oy'ajt tuñ mɨɨd jäy ajcxy ycɨxpɨ . Dios ooy mɨjcajee mɨjhuinma'ñ tɨ tuñ mɨɨd jäy ajcxy ycɨxpɨ . Dios ooy mɨjcajee ycohuinma'ñɨty . Ca' ni pɨn jëbɨ huinjɨhuɨydäy je ayuc huinma'ñ huɨdi Dios ymɨɨd . 
+45011033b	~		Etz nañ ca' ni pɨn jëbɨ huinjɨhuɨydäy huɨdibɨ Dios ytumyb .
+45011034a	~		Com jaybety jadu'n miiñ ma Dios ñecy ma jadu'n ymɨna'ñ : Ca' ni pɨn jëbɨ huinjɨhuɨydäy nej Dios yhuinma'ñ mɨɨdɨty . 
+45011034b	pɨnjäy		Ca' ji ni pɨnjäy huɨdi tɨ capxhuijy Dios .
+45011035	pɨnjäy		Ca' ji ni pɨnjäy huɨdi tijaty tɨ ocmooybɨ Dios . Dios ca' ni ti nuucxy mɨɨdɨty mɨɨd ni pɨnjäy .
+45014004	~		Ca' huaad miich ajcxy mnɨmähuɨpy yɨ mmɨgüg co ca' oytuñ , tɨm jadu'n nipaady nej co tüg jäy nɨmähuɨpy huingbɨ jäy ytumbɨ co ca' oy ytuñ . Dios cɨ'm nɨmähuɨp huɨdi ajcxy mɨbɨjcp Jesucristo , pen oytuñ o ca' oytuñ . Dios ypubejtyp pɨnjaty mɨbɨjcp , paady madaacp ajcxy ma chɨnaayɨn .
+45014010a	na'amy		¿ Na'amy co mmɨgüg mdzachpocy'ixy ? 
+45014010b	nej co		o ¿ Nej co mmɨgüg mdzach'ixtijy ? Ca' jadu'n y'oyɨty co ajcxy jadu'n m'ɨdɨ̈ch . Com nidüg'ócɨy ajt njädaanɨm ma Dios ytɨydundac .
+46001020a	ti		¿ Ti mɨc'ajt ymɨɨd yɨ cohuinma'ñyjäydɨjc ajcxy ? 
+46001020b	ti		¿ Ti mɨc'ajt ymɨɨd yɨ ixpɨcytɨjc ? 
+46001020c	ti		¿ Ti mɨc'ajt ymɨɨd yɨ huɨdibɨ ajcxy nay'ixquipxɨp mɨɨd ixpɨjcɨn ? Ca' ti mɨc'ajt mɨɨdɨty yɨ' ajcxy , com Dios tɨ yaj'ahuimbity yɨ naaxhuiñ y'ixpɨjcɨn tzuu huinma'ñ locɨ huinma'ñ .
+46002011	pɨnjäy		Ca' pɨnjäy jëbɨ huinjɨhuɨ̈y nej jadügpɨ jäy yjot yhuinma'ñ mɨɨdɨty . Je jäy ycɨ'mhuinma'ñ jëbɨ huinjɨhuɨ̈y nej je' ycɨ'mjot ycɨ'mhuinma'ñ mɨɨdɨty , ca' jac pɨn . Nañ jadu'n ca' jac pɨn jëbɨ huinjɨhuɨ̈y nej Dios yjot yhuinma'ñ mɨɨdɨty . Dios ycɨ'mjɨhuɨ'ñ huinjɨhuɨɨyb nej Dios yjot yhuinma'ñ mɨɨdɨty .
+46002016a	Pɨn		Com jadu'n Dios ymɨna'ñ ma ñecy : “ ¿ Pɨn jäy huinjɨhuɨɨyb nej Dios yhuinma'ñymɨɨdɨty ? Ca' ni pɨn . 
+46002016b	Pɨn		¿ Pɨn jäy huaad Dios yaj'ixpɨcy ? Ca' ni pɨn . ” Oy ca' pɨn huinjɨhuɨ̈y jecy'ajty nej Dios yhuinma'ñymɨɨdɨty , jadachambɨ ɨɨch ajt nhuinjɨhuɨɨyɨm nej Cristo yhuinma'ñymɨɨdɨty .
+46003005a	Pɨn		¿ Pɨn je' je Apolos ? 
+46003005b	Pɨn		¿ Pɨn je' je Pablo ? Ɨɨch Pablo etz Apolos nimetz ajcxy nduñ ma Dios ytung , e ɨɨch miich ajcxy nyajmɨbɨjccɨxy Cristo . Ɨɨch ajcxy nduñ nidüg nidüg je tung huɨdibɨ Dios xymooyɨch .
+46004007a	Pɨn		¿ Pɨn tɨ xyajnajxcɨxy jadu'n nej jɨhuɨ̈y ajcxy ooy mgömayɨty ? Ca' ni pɨn . 
+46004007b	ti		¿ Ti miich ajcxy mɨɨdɨty , huɨdibɨ Dios ca' tɨ xymooygɨxy ? Ca' ni ti . E pen Dios tɨ xymooygɨxy tijaty ajcxy mmɨɨdɨty , 
+46004007c	na'amy		¿ na'amy co mnaygömáyɨgɨxy cɨ'm , jadu'n nej jɨhuɨ̈y cɨ'm tɨ mganar'ajtcɨxy tijaty ajcxy mmɨɨdɨty ?
+46004021	ti		Co nnɨ́cxɨbɨch jɨm ma miich ajcxy , ¿ ti ajcxy mdzojccɨxyp ndunɨpyɨch ? ¿ Nej oy nmɨnɨ́cxɨbɨch ma miich ajcxy tüg matz jɨgɨx ajcxy nhuójpcɨxɨpy ? o ¿ Mdzojccɨxyp co nnɨ́cxɨbyɨch ma miich ajcxy mɨɨd yungnaxy njot nhuinma'ñɨch , etz oy'amy ajcxy nmɨgapxɨpy , jadu'n nej jɨhuɨ̈y ooy ndzojccɨxy njɨhuɨɨygɨxy ?
+46005002	~		Jɨm miich ajcxy mɨɨdɨty je mɨjpocytumbɨ , e miich ajcxy amɨj agɨxy mnayjɨhuɨ́ɨyɨgɨxy co ajcxy mdzach'ixpɨcyɨty ma Dios ytɨy'ajt . Jac'oy co ixyipy mdajcɨxy mmaygɨxy . Yajpɨdzɨmgɨx ma miich ajcxy yɨ jäy huɨdibɨ jadu'n tundɨgooyb .
+46005012	~		Com ca' yhuaadɨty co ɨɨch nyajcɨ̈yöyɨpy nyajtecyyöyɨpy yɨ jäy ajcxy ypocy huɨdibɨ ca' mɨjpɨdaaccɨxy Jesucristo . Dios cɨ'm yajcɨ̈yöyam yajtecyyöyam yɨ' ajcxy ypocy . Hue' janchtɨy copɨcy co miich ajcxy myajcɨ̈yöyɨp myajtecyyöyɨp yɨ mɨbɨjcpɨdɨjc ajcxy ypocy . Yajpɨdzɨmgɨxp yɨ pocytumbɨ ma miich ajcxy .
+46006001	nej		Pen xymɨdundɨgooyb tüg mɨbɨjcpɨ , ¿ nej oy mnayjɨhuɨ̈yii co nɨcxy mxɨ̈y yɨ mmɨgüg ma yɨ tungmɨɨdpɨ huɨdibɨ ca' mɨbɨjccɨxy Dios y'ayuc ? ¿ Cay jac'oy co myaj'abɨgɨpy je mɨbɨjcpɨdɨjc ajcxy , e jɨm y'oyɨ̈huɨpy je ayuc nej anajty tɨ xymɨdundɨgoy ?
+46006003	nej		¿ Nej ca' mnejhuɨɨygɨxy co miich ajcxy myajcɨ̈yöyamyb myajtecyyöyamyb ixtɨ yɨ ángeles ajcxy ypocy ? Pen miich ajcxy myajcɨ̈yöyamyb myajtecyyöyamyb yɨ ángeles ajcxy ypocy , nïgɨ ca' chipɨty co ajcxy myajcɨ̈yöyɨpy myajtecyyöyɨpy yɨ mɨbɨjcpɨdɨjc ajcxy ypocy huɨdibɨ tzɨnaayb jugy'ajtp ma jadachambɨ xɨɨ tiempo .
+46006004	nej co		Pen miich ajcxy mnaymɨdundɨgóoyɨgɨxp , ¿ nej co nɨcxy mbɨdaaccɨxy yɨ mxɨ̈huɨn ma yɨ jäy ajcxy huɨdibɨ ca' yajpaady ma miich ajcxy myöymujccɨxy ?
+46006007a	nej		Co miich ajcxy mnayxɨ̈huɨgɨxy ma cajp tungmɨɨdpɨ , je' je tɨy'ajt co ca' ajcxy mguydúngɨxy Cristo y'ayuc ytɨy'ajt . ¿ Nej cay jac'oy co mnaymɨmecxtújcɨgɨxɨpy , ca'ydɨ co mnayxɨ̈huɨgɨxy ? 
+46006007b	nej		¿ Nej cay jac'oy co xytɨgóoyɨgɨxɨpy tijaty , ca'ydɨ co mnayxɨ̈huɨgɨxy ?
+46006009	nej		¿ Nej ca' mnejhuɨɨygɨxy co yɨ jäy ajcxy huɨdibɨ tundɨgooyb , ca' ajcxy it lugar pada'ñ ma Dios y'ane'my ? Ca' mnayhuin'ɨɨngɨxy , ca' ajcxy it lugar pada'ñ ma Dios y'ane'my yɨ jäy ajcxy huɨdibɨ mɨgapxtɨgooyb töxyjäydɨjc , huɨdibɨ ajcxy ojadajtp tzaadzech quipychech , huɨdibɨ ajcxy mɨgapxtɨgooyb ymɨgüg ytöxyɨjc , huɨdibɨ ajcxy adöxyñɨ'aa .
+46006016	nej		¿ Nej ca' mnejhuɨɨygɨxy co tüg yëydɨjc puhuägɨ̈y tüg töxyjäy huɨdibɨ jɨbɨc-huinma'ñ tumb , tügɨty ajcxy y'ijtcɨxy ? Com jadu'n yjaybetyɨty ma Dios ñecy , ma Dios jadu'n ymɨna'ñ : “ Nimetz y'idaangɨxy jadu'n nej tügpɨ ninïcx . ”
+46006019	nej		¿ Nej ca' mnejhuɨɨygɨxy co je Espíritu Santo huɨdibɨ Dios xymooyɨm , tɨ chɨnaydacpɨcy ma miich ajcxy mjot mhuinma'ñ ? Paady ycɨxpɨ miich ajcxy ca' cɨ'm nay'ané'mɨgɨxy .
+46007016a	~		Jëbɨ ñay'ixmájtzɨgɨxy com je töxyjäy ca' tɨydudägy ñejhuɨ̈y pen mɨmadacy yñäy yajmɨbɨgɨpy Cristo . 
+46007016b	~		Nañ jadu'n je yëydɨjc ca' tɨydudägy ñejhuïy pen jëbɨ ytöxyɨjc yajmɨbɨgɨpy Cristo .
+46009007a	Huɨdibɨ		¿ Huɨdibɨ soldado yɨ' ma je ejercito cɨ'm ygasto cojuy ? 
+46009007b	Pɨn		¿ Pɨn ji cam nidungɨɨyb , e ca' jɨɨcxɨpy je huɨdibɨ tɨ yaj'ity ? 
+46009007c	Pɨn		Pɨn ychibo cuend'ajtp , ¿ e ca' ügɨpy je chibo yleche ?
+46009018	Ti		¿ Ti muju'ñ nbáadɨbɨch mɨɨd ndungɨch ycɨxpɨ ? Nbáadɨbɨch jotcujc'ajtɨn co ngapxhuäcxɨbɨch Cristo y'ayuc jadu'ñyɨ , ca' ymeeñygɨxyɨty . Ca' nyajtuñɨch je ane'mɨn huɨdibɨ Cristo xymóyɨch mɨɨd caayɨn uucɨn ycɨxpɨ .
+46010019a	~		Ɨɨch nmɨna'ñɨch co yɨ tzaadzech ca' ti mɨc'ajt mɨɨdɨty , 
+46010019b	~		e nañ jadu'n yɨ tzüch huɨdibɨ yajhuindzɨgɨɨyb tzaadzech ca' jac nïgɨ oy'ajtɨn mɨɨdɨty , 
+46010019c	~		ca'ydɨ jac huɨdibɨ tzüch .
+46010029	Na'amy		Hue' nimɨydacypɨch je mmɨgüg huɨdibɨ jɨbɨc nayjɨhuɨ̈huɨɨyb pen miich mdzu'chpyɨ tzüch huɨdibɨ tzaadzech yhuindzɨgɨ'ñ'ajtp . Ca' nnimɨydägyɨch nej miich cɨ'm mnayjɨhuɨ̈yii . Ca' yjecyɨty co nijëjɨty jäy xyñɨmähuɨbɨch : “ ¿ Na'amy co xycapx'adujcɨch tijaty nɨgoob mɨɨd co huingbɨ jäy jɨbɨc ñayjɨhuɨ̈yii mɨɨd jëgɨxpɨ ?
+46010030	na'amy		Pen nyajnajxypɨch Dioscojuyip mɨɨd tijaty ycɨxpɨ huɨdibɨ ngaaybɨch n'uucypɨch , ¿ na'amy co xyñigapxa'ñɨch xyñi'ojɨ̈hua'ñɨch co tɨ ngay tɨ n'ügyɨch tijaty ? ”
+46011022	nej		¿ Nej ca' miich ajcxy mɨɨdɨty mjɨɨn mdɨjc ma jëbɨ mgaaygɨxy m'uuccɨxy ? Jadu'n nej miich ajcxy mdungɨxy ca' mmɨj'ijxcɨxy ca' mɨjpɨdaaccɨxy je jäy ajcxy nidüg'ócɨy huɨdibɨ mɨjpɨdacp Dios . E nañ jadu'n myajtzo'ydungɨxy yɨ ayoobɨ jäy huɨdibɨ ajcxy ca' ti mɨɨdɨty . ¿ Huam ɨɨch miich ajcxy nɨmähuɨpy ? ¿ Nej jëbɨ ngömaaygɨxy miich ajcxy jadu'n nej mdungɨxy ? Ca' huaad ngömaaygɨxy miich ajcxy co jadu'n m'ɨdɨɨtzcɨxy .
+46012017a	ma		Co ixyipy tüg'ócɨy je jäy ñinïcx y'oc-huin'aty , ¿ ma ixyipy mɨɨdɨty huɨdi mɨdooyb ? O co ixyɨpy tüg'ócɨy je jäy ñinïcx ytädzac'aty , 
+46012017b	ma		¿ ma ixyipy mɨɨdɨty huɨdibɨ jëbɨ mɨɨd tijaty xuugyii ?
+46012019	ti		Pen huiindɨ'ajty ixyipy ninïcx'ajtp , ¿ ti ninïcx ixyipy jada ?
+46014006	ti		Mɨgügtɨjc ajcxy , co ixyipy nnɨcxyɨch ma miich ajcxy , e ngapxyɨch ixyipy huingbɨ ayuc , ¿ ti oybɨ miich ajcxy mbadamyb ma ɨɨch ? Pen ca' anajty ti pubejtɨn nduñɨch ma miich ajcxy , pen ca' nyajnejhuɨɨygɨxy Dios ytɨy'ajt jemybɨ , pen ca' nyaj'ixpɨjccɨxy Dios ytɨy'ajt o pen ca' nnajtzcapxɨ̈yɨch Dios y'ayuc , o pen ca' nyecyɨch ixpɨjcɨn .
+46014007	~		Tzoc ocpɨdaacɨm tüg ijxpejt ma je xüxy , jadu'n nej je flautɨ o je arpa . Pen ca' nmɨdo'mbɨjcɨm je nota je tono nidüg nidüg , ca' nmɨdo'mbɨjcɨm ti pieza ti xüxy yajxuxp o yajcoob .
+46014008	~		Nañ jadu'n co soldados ajcxy chiptunaangɨxy , pen je trompeta ca' huädz yxüxy , ca' ni tüg soldado ñayñi'ixɨ̈hua'ñyii ma je tzip ytuna'ñyii yjada'ñyii .
+46014009	nej		Nañ tɨm jadu'n mɨɨd miich ajcxy , pen mgapxcɨxyp huingbɨ ayuc huɨdibɨ ca' pɨn huinjɨhuɨ̈y , ¿ nej yajnejhuɨ̈huɨpy ti miich anajty mgapxyp ? Jadu'n je' anajty yhuimbɨdzɨmnɨ nej nɨgoob mdɨm'ixmɨydaaccɨxy .
+46014015	ti		¿ Ti huaad ndunɨpyɨch ? Pues copɨcy nmɨbɨjctzooyɨch n'ojadatyɨch Dios mɨɨd ɨɨch njɨhuɨ'ñɨch , e nañ jadu'n nmɨbɨjctzooyɨch mɨɨd ɨɨch nhuinma'ñɨch . N'ɨɨbadaamyɨch ngapxpadaamyɨch Dios mɨɨd ɨɨch njɨhuɨ'ñɨch etz mɨɨd ɨɨch nhuinma'ñɨch .
+46014016	~		Com pen miich mhuin'ɨɨgɨxyp mhuingapxtaaccɨxyp Dios mɨɨd yɨ mjɨhuɨ'ñ , je mɨgüg huɨdibɨ amɨdoo'ijtp ca' je' huinjɨhuɨ̈y je huing ayuc huɨdibɨ mgapxyp , e ca' jëbɨ ymɨna'nɨp “ jadu'n jada , Amén . ” Com ca' yɨ' huinjɨhuɨ̈y ti yɨ' mgapxyp .
+46014026	ti		Mɨgügtɨjc ajcxy , ¿ ti huaad mdúngɨxɨpy ? Co mnayyöymújcɨgɨxɨpy , nijëjɨty miich ajcxy mhuin'ixɨpy tüg salmo , tüg ayuc huɨdibɨ yaj'ixpɨgamyb , tüg tɨy'ajt huɨdibɨ Dios tɨ xyajnejhuɨɨygɨxy , etz capxɨp huingbɨ ayuc , etz capxtɨ̈cxɨpy nej yhuimbɨdzɨmyb je huingbɨ ayuc . Tüg'ócɨy jadu'n tungɨx , jaydëbɨ ajcxy jäygɨdägɨpy etz yujcpedɨpy ajcxy ymɨbɨjcɨn huɨdibɨ tɨ ñayyöymújcɨgɨxy .
+46014036	~		Miich ajcxy hue' mdzachnaybɨdáacɨgɨxy nej jɨhuɨ̈y miich ajcxy jayɨjp tɨm nejhuɨɨygɨxy Dios y'ayuc , ca'ydɨ jac pɨn . Miich ajcxy mnaybɨdáacɨgɨxy jadu'n nej jɨhuɨ̈y jɨmyɨ jadu'n yajcapxhuäcxy Dios y'ayuc , ca' yjacmaajɨty .
+46015012	na'amy		Per pen ɨɨch ajcxy ayuc ngapxhuäcxpɨch co je Cristo yjugypɨjcy jadüg'oc co y'o'cy , ¿ na'amy co nijëjɨty miich ajcxy mɨnaangɨxy co yɨ jäy ajcxy tɨɨbɨ y'o'ccɨxy ca' ajcxy yjugypɨgaangɨxy jadüg'oc ?
+46015029a	~		Pen ca' yjadu'nɨty , 
+46015029b	na'amy		¿ na'amy co mdzachnɨɨbejtcɨxy co öcpɨ tzachcodɨnaaygɨxy ? Co ixyipy ca' pɨn yjugypɨga'ñ jadüg'oc co anajty tɨ y'o'cy , 
+46015029c	na'amy		¿ na'amy co jäy ñɨɨbejtcɨxy mɨɨd öcpɨ ycɨxpɨ ?
+46015030a	~		
+46015030b	ti		¿ E ti ycɨxpɨ co ɨɨch ajcxy nyajpatcɨxy ayo'nduum jabom jabom ?
+46015032	~		Mɨnaambɨch jadu'n co ooy nhuindɨnäy njɨjptɨnäyɨch nmɨdzip ya Efeso . Tɨm jadu'n nipaady nej jɨbɨc ɨyujc ahua'n ɨyujc nhuindɨnäy njɨjptɨnäyɨch . Pen ca' yjanchɨty co yɨ öcpɨ ajcxy yjugypɨgɨpy jadüg'oc , naadɨgɨ̈'ajtp ixyipy co ɨɨch ayo'n jabom jabom nhuindɨnäy njɨjptɨnäyɨch . Nïg oy co ixyipy nyajtüyöyɨm jadu'n nej ayuc y'ityɨn : “ Tzoc caayɨm uucɨm , agujc'ajtɨm jotcujc'ajtɨm , com jabom huɨxtɨc njugy'ajtɨn ycɨxaanɨm mɨɨd yɨ o'cɨn . ”
+46015035a	ma		Ycadɨmjecyɨty co nijëjɨty miich ajcxy xy'amɨdohuɨpyɨch : “ ¿ Ma mɨc'ajt pátcɨxɨpy je o'cpɨ ajcxy co jëbɨ yjugypɨjccɨxy jadüg'oc ? 
+46015035b	Huɨdibɨ		¿ Huɨdibɨ ninïcx ajcxy ymɨ'idamyb ? ”
+46015055a	ma		¿ Ma yɨ o'cɨn ocjacpada'ñ mɨc'ajt co tijy xy'ocjactzaachytunaanɨm ? 
+46015055b	ma		¿ Ma yɨ o'cɨn ocjacpada'ñ mɨc'ajt co tijy xy'ocmɨmadägaanɨm ? ”
+47002002	pɨn		Com pen ɨɨch miich anajty ajcxy nyajtajpy nyajmaayb , ¿ pɨn jada' ɨɨch xyajjotcugɨ̈huɨbɨch ? Pues miich ajcxy huɨdibɨ tajp mayb , miich ajcxy xyajjotcugɨ̈huɨbɨch .
+47002016	~		Pɨnjaty mɨjpɨdacp Cristo y'ayuc huɨdibɨ ngapxhuäcxypɨch , hue' je' y'alma nïdzögamb . E pɨnjaty ca' mɨjpɨdägy Cristo y'ayuc , hue' je' y'alma tɨgoyaamb . Ooy chachchipɨty chachmɨjhuinma'ñɨty ɨɨch ajcxy ndung .
+47003008	~		
+47003009	~		Pen mɨj anajty oy'ajtɨn mɨɨdɨty je cötujcɨn huɨdibɨ tuuñ co y'ane'my ma ɨɨch ajt nbocy n'o'cɨn . Nïgɨ mɨj'oy'ajtɨn mɨɨdɨty Dios y'ayuc ytɨy'ajt je jemybɨ huɨdibɨ mɨnaamb co Dios jëbɨ xyaj'ahuimbijtɨm tudägy .
+47006014a	nej		Miich ajcxy , ca' mdungmujccɨxy m'ayoomujccɨxy mɨɨd jäy ajcxy huɨdibɨ ca' mɨbɨjccɨxy Cristo . Com ca' huaad tudägyjäy ajcxy mɨɨddzɨnaaygɨxy jäy ajcxy huɨdibɨ ca' tudägy huinma'ñ mɨɨdɨty . ¿ Nej jëbɨ je huɨdibɨ tɨy'ajtɨp ytügɨ̈y mɨɨd huɨdibɨ ca' ytɨy'ajtɨty ? 
+47006014b	nej		¿ Nej jëbɨ pɨnjaty tɨy'ajt mɨɨd mɨɨd'idɨpy pɨnjaty huɨdibɨ ca' tɨy'ajt mɨɨdɨty ? Je huɨdibɨ tɨy'ajt mɨɨd jadu'n nipaady nej chɨnäy ma jɨɨn ytɨɨcxɨn . E je huɨdibɨ ca' tɨy'ajt mɨɨdɨty ñipatp nej jɨhuɨ̈y chɨnäy agootztuuby .
+47006015a	nej		¿ Nej jëbɨ Cristo etz Satanás ñay'ayuc-huinjɨhuɨ́ɨyɨgɨxy ? 
+47006015b	nej		¿ Nej jëbɨ tüg mɨbɨjcpɨ yajtügɨɨy yhuinma'ñ mɨɨd tüg huɨdibɨ ca' ymɨbɨcy ?
+47006016	~		Ca' ni nej jëbɨ tzaadzech quipychech y'idɨpy ma Dios ytɨjc . Com yɨ' ajcxy huɨdibɨ tzaadzech ojadajtp ca' ajcxy yhuinma'ñ ytügɨ̈y mɨɨd Dios ytɨy'ajt . Je Dios juugypɨ ymɨɨd chɨnaydac ma ɨɨch ajt njot nhuinma'ñ , paady ycɨxp jadu'n ɨɨch ajt nipaady nej Dios ytɨjc . Com jaybety y'ity ma Dios jadu'n ymɨna'ñ : Ndzɨnaydac nbɨdägaamybɨch ma yɨ' ajcxy . Huɨdidaamybɨch ma yɨ' ajcxy yajpaady . Yɨ' ajcxy ɨɨch xyDios'adaanɨp . E ɨɨch ajcxy yɨ' njäy'adaanɨp .
+47011011	Na'amy		¿ Na'amy co jadu'n nmɨna'ñɨch ? ¿ Je' co ɨɨch miich ajcxy ca' ndzojccɨxy ? Ca' yjadu'nɨty . Dios ñejhuɨɨyb co ndzocy njɨhuɨ̈yɨch miich ajcxy .
+47011029a	~		Pen nijëjɨty mɨbɨjcpɨdɨjc yajpaady amutz ma ajcxy ymɨbɨjcɨn , nañ jadu'n ɨɨch nayjɨhuɨ̈yiijɨch amutz . 
+47011029b	~		Pen nijëjɨty mɨbɨjcpɨdɨjc ypocytungɨxy , ɨɨch ndzo'ydu'n njɨhuɨɨybɨch etz jɨbɨc nayjɨhuɨ̈yiijɨch mɨɨd yɨ' ajcxy ypocy ycɨxpɨ .
+47012013	~		Ca' jadu'n ytɨy'ajtɨty co mmɨnaangɨxy co nïgɨ oy tɨ nduuñɨch ma yɨ jacjadyii mɨbɨjcpɨdɨjc ma jacjadyii cajp , ca'ydɨ jadu'n nej tɨ nduuñɨch ma miich ajcxy . Pen tɨ ndundɨgooyɨch co ca' tɨ nbɨjctzooyɨch meeñ mɨɨd ɨɨch ndung ycɨxpɨ ma miich ajcxy , jadu'n nej jacjadyii ajcxy ytungɨxy , pues tungɨx may'ajt meecxcɨch ajcxy .
+47012017	nej		¿ Nej tɨ ɨɨch miich ajcxy nhuin'ɨɨngɨx mɨɨd je mɨgügtɨjc huɨdibɨ ajcxy nyajniguejx ?
+48002014	nej		E co ɨɨch jadu'n oy n'ixyɨch co ca' ajcxy cuydungɨxy yajxon Jesucristo ytɨy'ajt , chi ɨɨch nnɨmaayɨch Pedro mayjäy'agujc : “ Penɨ miich judíojäy , e tɨ m'ixmajtznɨ judíojäy ycostumbre co tɨ mɨbɨcy Jesucristo , e tɨ m'occuydumyb je huinma'ñ huɨdibɨ judíojäy ca' cuydungɨxy , ¿ nej tijy cham co adzip mdzachmɨnaandägy co yɨ' ajcxy huɨdibɨ ca'p yjudíojäyɨty , copɨcy cuydúngɨxɨpy judíojäy ycostumbre , huɨdijaty miich tɨ m'ixmajtznɨ ? ”
+48003001	~		Janch locɨ miich ajcxy mɨgügtɨjc huɨdibɨ tzɨnaayb jɨm Gálatas naaxjot . Tɨ jäy ajcxy xyajhuinma'ñydɨgooygɨxy mɨɨd jɨbɨc-huinma'ñ . Paady ycɨxp mdzach'ixmadzaangɨxy je Dios ytɨy'ajt . Ɨɨch oy njacapxhuäcxyɨch ma miich ajcxy mhuinduu je tɨy'ajt jadu'n nej Cristo yajcruudzpejtɨ mɨɨd ɨɨch ajt nbocy ycɨxpɨ .
+48003019	Ti		¿ Ti ycɨxpɨ Dios co moy Moisés je cötujcɨn huɨdibɨ ycojay ? Hue' je' Dios moy jada cötujcɨn jɨgɨx jëbɨ niguëxɨ̈gy co jäy ajcxy ca' ycapxymɨdoogɨxy . Tunamb anajty Dios ycötujcɨn huɨdibɨ Moisés ycojay mabaad tɨ quexy ya naaxhuiñ yɨ' y'ung , je' je' je Cristo , je Abraham y'ap y'oc huɨdibɨ yajpocyñïhuätzp jäy ajcxy . Dios ycötujcɨn hue je' yajniguejx Moisés mɨɨd ángeles ajcxy . E chi Moisés capxnajxy ma ymɨgügtɨjc ajcxy .
+48004009a	nej co		Jadachambɨ tɨ mnejhuɨɨygɨxy Dios ytɨy'ajt etz Dios tɨ xycöbɨjccɨxy . ¿ Nej co jadüg'oc mdzachnihuimbidaangɨxy yɨ judíojäy ycötujcɨn , ca'p ti mɨc'ajt mɨɨdɨty , huɨdibɨ tɨ m'ijxmajtzcɨxy ? E jadüg'oc xy'ane'mygɨxy je judíojäy ycötujcɨn .
+48004009b	~		
+48004010	~		Jadachambɨ mdzachcuydunaangɨxy judíojäy ycostumbre , jadu'n nej ajcxy myajmɨj'ajtcɨxy xɨɨbo' xɨɨjɨmɨjt .
+48004015	ti		Jadachambɨ ¿ ti tɨ ytunyii tɨ yjadyii co ca' mmɨjotcujc'ajtcɨxy ɨɨch n'ayuc ? Com nyejcɨch tɨy'ajt co je taabɨ anajty oga'n jɨm n'ityɨch ma miich ajcxy co janch xypubedaambɨch miich ajcxy . Ixtɨ mgɨ'm huiin anajty ajcxy mjayajpɨdzɨmaangɨxyp etz xymöhuaangɨxyɨch anajty co ɨɨch ngaa'a'ɨxɨy .
+48004021	nej		Miich ajcxy huɨdibɨ mdzachcuydunamyb Dios ycötujcɨn je jecyɨp . Nmɨmaaygɨxy ajcxy , ¿ nej ca'nɨ ajcxy mɨdoogɨxy huɨdibɨ Dios ycötujcɨn nigapxypɨ ?
+48004030	~		Oc-huinmay miich ajcxy nej jaybetyɨty ymiñ ma Dios ñecy co jadu'n Dios nɨmay Abraham : Yajpɨdzɨm ma mdɨjc je mbödumbɨ mɨɨd ymang . Com ca' jadu'n ytɨy'ajtɨty co je pödumbɨ ymang paadɨpy miich mbɨdägy . Yɨ' je' padamb je mbɨdägy huɨdibɨ miich mdöxyɨjc ymang'ajtpy .
+48005007a	Pɨn		Jayɨjp'aty oy yajxon anajty m'occuydungɨxp Jesucristo ytɨy'ajt . ¿ Pɨn tɨ xy'agapxɨɨygɨxy co ca' mgapxymɨdohuaangɨxy tɨy'ajt ?
+48005007b	~		
+48005011	nej co		Mɨgügtɨjc ajcxy , co ixyipy yjanchɨty co ɨɨch ngapxhuäcxyɨch co copɨcy nidüg'ócɨy jäy yajtɨy'ajttɨ̈huɨpy , ¿ nej co je'nɨ chambaad judíojäy xychach'ixhuɨdityɨch xychachpahuɨdityɨch ? Pen ca' ixyipy xy'ixhuɨdityɨch xypahuɨdityɨch jadu'n nipaady nej jɨhuɨ̈y nyaj'ixpɨcyɨch co je Cristo ca' y'o'cy mɨɨd ɨɨch ajt nbocy ycɨxpɨ .
+49004009	nej co		¿ Nej co jadu'n Dios y'ayuc ymɨnañ co je Cristo ypättɨgɨy tzajpjoty ? Hue' je' jadu'n ymɨnañ mɨɨd co je Cristo jayɨjp ycɨdacy etz ooy ayooy ya naaxhuiñgɨ́xy .
+50001018	~		Pen jäy ajcxy capxhuäcxp Cristo y'ayuc mɨɨd co ñaygömayáanɨgɨxy cɨ'm , o pen ycapxhuäcxyp mɨɨd oyjot oyhuinma'ñ , ca' ñejɨty , jotcujc'ajtpɨch co capxhuäcxy ajcxy Jesucristo y'ayuc .
+50001021	~		Ɨɨch ndzɨnaayɨn njuugy'ajtɨn Cristo yɨ' ycɨxpɨ , e penɨ n'o'cpɨch , tɨ ɨɨch anajty mɨj nmadägy .
+51002020	Na'amy		Co miich ajcxy tɨ mmɨbɨcy Cristo , jadu'n nipaady nejɨhuɨ̈y tɨ m'öccɨxy quipxyɨ mɨɨd Cristo , e nañ tɨ mbɨdzɨmgɨxy ma yɨ naaxhuiñyjäy yhuinma'ñ xyaj'ane'mgɨxy . ¿ Na'ámy co chambaad mjactzɨnaaygɨxy jadu'n nej jɨhuɨɨy yɨ naaxhuiñyjay yhuinma'ñ xy'ane'mgɨxy ? ¿ Na'amy co mjaccuydungɨxy yɨ jäy ajcxy ycötujcɨn huɨdibɨ mɨnaamb co ca' huaad mgonɨ̈gy jada , ni ca' huaad mjɨɨcxy jada , ni ca' huaad nïdoñ yɨjɨmbɨ ?
+52002019	ti		¿ Ti mɨj'ajt miich ajcxy mdijy njɨjp'ijxpɨch ? ¿ Ma mdijy ajcxy nbada'ñɨch njotcujc'ajtɨn n'oy'ajtɨn ? Co anajty ajt nHuindzɨn Jesucristo yhuimbity ya naaxhuiñ , nbadaamybɨch jotcujc'ajtɨn etz oy'ajtɨn mɨj'ajtɨn mɨɨd je tɨɨbɨ nduuñɨch ma miich ajcxy co tɨ mmɨjpɨdaaccɨxy Dios y'ayuc ytɨy'ajt .
+52003009	~		Nyajnajxpɨch jäygɨdaacɨn ma Dios yhuinduu mɨɨd miich ajcxy ycɨxpɨ , mɨɨd co janch jotcujc nayjɨhuɨ̈yiijɨch co miich ajcxy ca' m'ixtɨgɨ̈huägy ma mmɨbɨjcɨn .
+54003005	nej		Pen ca' jaty nej y'ung y'anäg mɨgapx ane'mɨp ma yjɨɨn ytɨjc , ¿ nej oc'ane'ma'ñ yɨ mɨbɨjcpɨdɨjc ?
+54006007a	ti		Ni ti ɨɨch ajt ya naaxhuiñ ca' tɨ nmɨmiinɨm co nma'xung'ajtɨm , 
+54006007b	ti		nañ ni ti ngamɨnɨcxɨm co n'o'cɨm .
+58001005	~		Com Dios ca' yɨ' ni tüg ángel nɨmay : Ɨɨch miich n'ung'ajtpy . Ɨɨch miich tɨ nyajpi'c'aty jadachambɨ xɨɨ . Nañ jadu'n ca' Dios ni tüg ángel nɨmay : Miich xyteedy'adɨɨbɨch , ɨɨch miich n'ung'adɨɨyb .
+58001013	~		Ni camɨna Dios canɨmay ni tüg je ángeles ajcxy : Ɨña' ma ɨɨch nmɨjc a'oy'amy , ixtɨ mabaad ɨɨch miich je mmɨdzip nmɨmadactäyɨch , jadu'n yɨ'ajcxy nipaadɨpy nej yɨ' miich mdecypocxpejt'adyii .
+58001014	~		Tüg'ócɨy je ángeles ajcxy ac espíritu yɨ' ajcxy , e ytungɨxy ma Dios , yquexyöygɨxy jɨgɨx pubedɨpy je jäy ajcxy huɨdibɨ ajcxy y'alma padam ñïdzoocɨn .
+58002003	Nej		¿ Nej tijy ɨɨch ajt co Dios ycastigo nga'ocpaatɨm , pen je' je' yam ca' nmɨjpɨdaacɨm je Dios ytɨy'ajt jadu'n nej jëbɨ xyajnïdzoocɨm ajt n'alma ? Yɨ Huindzɨn Jesús jayɨjp'aty cɨ'm nigapxy Dios ytɨy'ajt jadu'n nej jëbɨ Dios xyajnïdzoocɨm ajt n'alma . E jac'axam je discípulos ajcxy nañ jadu'n najtzcapxɨ̈y Jesús y'ayuc , e nïgapxpejty ajcxy co yjanchɨty je Jesús y'ayuc , e chi capxnajxy ajcxy jada tɨy'ajt ma ɨɨch ajt .
+58002006a	ti		Hue' janchtɨy ji tüg'it yjaybetyɨty ma Dios ñecy , ma ymɨna'ñ : Miich Dios , ¿ ti yɨ' je naaxhuiñyjäy , co miich yɨ' ajcxy mjäymedzɨɨyb ? 
+58002006b	ti		¿ Ti yɨ' je naaxhuiñyjäy , co miich je' ajcxy mjotmay'adyii ?
+58003016	Pɨnjaty		¿ Pɨnjaty ajcxy huɨdibɨ jecy'ajty mɨdou Dios y'ayuc e mɨbɨdɨ̈gy Dios ? Nidüg'ócɨy je' ajcxy huɨdibɨ tzomb Egipto naaxjot jecy'ajty mɨɨd Moisés .
+58003017	Pɨnjaty		¿ Pɨnjaty je Dios ymɨjotma't jadu'n huixchiguɨ̈px jɨmɨjt ? Je huɨdijaty ajcxy tundɨgoy mɨɨd Dios ytɨy'ajt , e je' ajcxy cɨjx y'öctaaygɨxy jɨm mɨjtɨgɨ̈duum .
+58003018	Pɨnjaty		¿ Pɨnjaty Dios ñɨmay co ni camɨna ytɨgɨ̈huɨpy ma je Dios y'it ylugar ma jëbɨ ypoocxcɨxy mɨɨd yɨ' ? Je' ajcxy huɨdibɨ ca' ycapxymɨdoy .
+58006004	~		Com pɨnjaty tɨ huinjɨhuɨ̈y Dios y'ayuc ytɨy'ajt , e jäygɨdägy huɨdibɨ Dios yejcpy , etz mɨɨdɨty Dios yjɨhuɨ'ñ ma y'ay yjot , jadu'n je' nipaady nejjɨhuɨ̈y chɨnay ma jɨɨn ytɨɨcxɨn .
+58007011	~		Je Israel cajp yajcɨ̈dɨgɨɨyɨ je' je Dios y'ane'mɨn ycötujcɨn je Levita ajcxy huɨdibɨ anajty huingapxp je mayjäy ma Dios , je' je' anajty ajcxy Aarón y'ap y'oc . Chi jada' co jada ajcxy janch ca'ocyaj'ahuimbijttäy tudägy pɨnjaty anajty je Dios ycötujcɨn payöyb , ca'p tɨm je' anajty ycopɨcyɨty co ycajacquëxɨ̈gy jadüg huɨdibɨ codɨnähuɨp je mayjäy ma Dios , ca' y'ocje'jɨñ ma ymiiñ Aarón y'ap y'oc . Je jadügpɨ huɨdibɨ codɨnähuamyb je mayjäy ma Dios , hue' copɨcy co tú'cɨy naybadɨɨyb mɨɨd Melquisedec .
+58009014	~		( Je huingapxpɨ huɨdibɨ tumb ma Dios ytɨjc ya naaxhuiñ ca' ymadägy co jäy yajpocyhuädzɨpy mɨɨd toro ñɨ'py ) , Jesucristo nïgɨ tɨ ymadägy yajpocyhuäch jäy ajcxy mɨɨd ycɨ'mnɨ'py . Com Jesucristo ymɨɨd je Dios yjɨhuɨ'ñ ymɨc'ajt huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy ni mɨna , chi ñaygɨ̈yejcɨ cɨ'm ma Dios mɨɨd Dios yjɨhuɨ'ñ ymɨc'ajt , jadu'n nej tüg huindzɨgɨ'ñ huätzpɨ , com ca' ni ma ni ti tundɨgoy . E mɨɨd ycɨ'mnɨ'py Jesucristo xyajhuaatzɨm je jɨbɨcpɨ ma ajt njot nhuinma'ñ , ca'ydɨ ndunɨm huɨdibɨ Dios ca' jäygɨdägy , e jadu'n ajt huaad ndunɨm ma je Dios juugypɨ ytung .
+58010001	~		Je Dios ycötujcɨn huɨdibɨ Moisés jayhuɨ'my jecy'ajty , hue' je' anajty ñidɨy'ajt je oybɨ huɨdibɨ miinamb . Ca'p je' anajty yjëjɨty je oybɨ . Paady je cötujcɨn huɨdibɨ Moisés yjayhuɨ'm ca' je' jëbɨ huädz yaj'ahuimbity pɨnjaty pocy ytumb , pɨnjaty mɨjhuäcp anajty ma Dios mɨɨd je ɨyujc huɨdibɨ ajcxy Dios yajhuindzɨgɨɨyb , huɨdibɨ ytun'ahuimbijtcɨxyp jɨmɨjt jɨmɨjt .
+58010029a	nej		¿ Nej miich ajcxy mɨnaangɨxy ? 
+58010029b	nej		¿ Nej cay jac'öctɨy je tzaachypɨ mɨhuaad'ajtcɨxy ? 
+58010029c	~		Je pɨnjaty ca' ixa'ñ Dios y'ung etz nɨxiicɨ yajxiicɨ Cristo ñɨ'py huɨdibɨ yajpocyñïhuaatzp , jadu'n nej je jemybɨ ayuc ymɨna'ñ huɨdibɨ Dios yajhuɨ'm . 
+58010029d	~		Etz nañ jadu'n ajcxy ni'ojɨɨygɨxy Dios yEspíritu huɨdibɨ may'ajt oy'ajt tumb mɨɨd je' ajcxy .
+58011032	Ti		¿ Ti njacmɨydägɨbɨch ? Nyajtɨgoy'idaamybɨch tiempo co nimɨydägɨbɨch Gedeón , Barac , Sansón , Jefté , David , Samuel , e jacjadyii Dios y'ayucnajtzcapxɨɨybɨ .
+58012007	nej		Mɨmadaaccɨx miich ajcxy je castigo , com Dios jadu'n yɨ' xymɨɨdɨty ajcxy nej jɨhuɨ̈y ycɨ'm'ung . ¿ Nej ji jada' tüg ung , e ca' yteedy chaachytunɨɨyb co ytundɨgooy ?
+58012009	nej co		Jadüg nax , taabɨ anajty ajt nbi'cnɨty , ɨɨch ajt ndeedy ya naaxhuiñ xy'ɨɨhuijɨm xycapxhuijɨm anajty , e xychaachytuunɨm co ca' ngapxymɨdoohuɨm nhuindzɨgɨɨyɨm ajcxy . ¿ Nej co ca' huaad n'ijtɨm ane'my ma ajt ndeedy huɨdibɨ tzajpjoty yajpatp ? E jadu'n jëbɨ nbaatɨm je jugy'ajtɨn huɨdibɨ ca' ycɨxɨpy ytɨgoyɨpy nimɨna .
+58012025	~		Paady ycɨxp ooy cuendɨtungɨx miich ajcxy , ca'ydɨ yaj'ixtijy Dios , je pɨn tɨ xyajmɨhuɨ'mɨm jemybɨ y'ayuc . Je jäy ajcxy huɨdibɨ tzɨnay jecy'ajty , ca'p je' ajcxy chocy co ajcxy ixtijy Dios co jecy'ajty yjamɨgapxɨ ajcxy ya naaxhuiñ . O'ctɨ́y ɨɨch ajt ca' ndzoocɨm , pen nmooyɨm ajt njɨɨx je Dios , je pɨn y'ayuc xyajmɨhuɨ'mɨm huɨdi tzoon tzajpjoty .
+58013006	~		Jadu'n jëbɨ nmɨnaanɨm agujc jotcujc : “ Yɨ Huindzɨn Dios yɨ' xypubejtpɨch , ca' ndzɨgɨ̈hua'ñɨch jäy nej xyjatuna'ñɨch . ”
+59002006	nej		Myajtzo'yduungɨxyp miich ajcxy ayoobtɨjc . ¿ Nej cayɨ comeeñyjäy ajcxy huɨdibɨ miich ajcxy xychachxɨ̈p ma cötujctac , e xyajnɨcxcɨxy ma tungmɨɨdpɨ yhuinduu , oy ajcxy mdzocy mgatzocy ?
+59002014	~		Mɨgügtɨjc ajcxy , ni ti m'alma capada'ñ pen miich mmɨnaamb co myajmɨj'ajtyp Dios , e pen ca' myajniguëxɨ̈gy ni ma co oybɨ mduñ . Ca' Dios yajnïdzöga'ñ yɨ m'alma mɨɨd co nɨgoob mmɨna'ñ co Dios mmɨjpɨdägy , e ca' mguydunɨ yɨ' ytɨy'ajt .
+59002016a	~		
+59002016b	ti		¿ Ti oyjäy'ajtɨn anajty tɨ mduñ ?
+59002018	~		Ca' yjecyɨty co tüg jäy xyñɨmähuɨbɨch jadu'n : “ Miich mdzachmɨjpɨdacpy yɨ Dios ytɨy'ajt , e ɨɨch ndumybɨch oybɨ . ” Ɨɨch n'adzohuɨpyɨch yɨ jadu'mbɨ jäy co ca' jadu'n ytɨy'ajtɨty nej miich mɨna'ñ . Pen ca' miich mmɨjpɨdägy Dios y'ayuc , ca' mjadɨpy nej mdunɨpy oybɨ jadu'n nej Dios huaad jäygɨdägy . Co ɨɨch oybɨ nduñ , jadu'n ñigüexɨ̈gy co nmɨjpɨdägyɨch Dios .
+59002021	~		Je Abraham yejc tüg ijxpejt nej jëbɨ huaad ngapxymɨdoohuɨm Dios co jecy'ajty je' ymang Isaac cɨ̈yejcy nej tüg huindzɨgɨ'ñ ma Dios .
+59003013	~		Pen miich ajcxy huijycujc mnayjɨhuɨɨyɨ , pen oyhuinma'ñ ajcxy mmɨɨd , yajtungɨx m'oyhuinma'ñ ma mdzɨnaayɨn mjugy'ajtɨn . Ca' huaad cɨ'm ñaygömáayɨgɨxy . Mɨɨd je oyjäy'ajtɨn huɨdibɨ ajcxy mdumyb huen jäy cɨ'm nejhuɨɨygɨxy co oyhuinma'ñ miich ajcxy mɨɨd'ajtcɨxyp .
+59003017	~		Je huijy'ajt cujc'ajt huɨdibɨ Dios yejcyp , ooy yɨ' . Yɨ Dios huɨdi tzɨnaayb tzajpjoty oyhuinma'ñ ymɨɨd . Pen nyajtuunɨm je tɨy'ajt huɨdibɨ Dios tɨ xymooyɨm , chi jotcujc ndzɨnaayɨm , ca' ma tzip capxy , etz nmɨmecxtujcɨm nmɨgügtɨjc , etz yung naxy jot huinma'ñ nmɨɨd'ajtɨm , etz nba'ayoohuɨm nmɨgügtɨjc , etz nduunɨm oyjäy'ajtɨn , etz tudägy nhuinma'ñ nmɨɨd'ajtɨm . E ca' nɨgoo naybɨdaacɨm jadu'n nej jɨhuïy nmɨjpɨdaacɨm Dios , e ca' yam yjanchɨty .
+59004001a	ma'amy		¿ Ma'amy ajcxy mdijy chooñ je tzip capx huɨdibɨ yajpatp 
+59004001b	ma		ma miich ajcxy ? Tüg'ócɨy yɨ jadu'mbɨ jɨbɨcpɨ yajpatp ma ajcxy mjot mhuinma'ñ , paady ycɨxp mganay'ayuc-huinjɨhuɨɨyɨgɨxy , e tzipcapxy myajcojcɨxy myaj'abadɨɨygɨxy .
+59004012	~		Dios tügpajc huɨdibɨ ane'mɨn pɨdägy , e yɨ' je' tügpajc huɨdibɨ tɨydunamb pocyjäy . Yɨ Dios tügpajc huɨdibɨ yajtzögɨp o yajtɨgoyɨp jäy ajcxy y'alma . Paady ycɨxpɨ miich ajcxy ca' ypadyii nɨcxy mɨgüg mnigapxcɨxy mni'ojɨɨygɨxy .
+59004014	~		E miich ajcxy ni mganejhuɨɨygɨxy ti je' anajty je jabombɨ mimb cɨdacp . Je jugy'ajtɨn ni pɨn ca' nejhuɨ̈y nej pɨn chɨnähua'ñ yjugy'ada'ñ . Jadu'n miich ajcxy mjugy'ajtɨn nej joc co y'ocquëxɨ̈gy cham , e tɨm tügjaxɨ̈gy tɨ ñitɨgooyñɨ .
+60002020	~		Pen tɨ anajty mdundɨgooygɨxy , e paady anajty myajtzaachytungɨxy , ca' pɨn xycömáaygɨxɨpy xycapxpáadygɨxɨpy , oy tɨ mjamecxtujctaaygɨxy huɨdijaty tzaachypɨ . Pen ooy mdungɨxy etz tzaachypɨ mbaatcɨxy , chi janchtɨy Dios jäygɨdägɨpy nej mmɨmecxtujctaaygɨxy .
+60003013	~		Pen mdumyb oyjot oyhuinma'ñ ajcxy , huin'it ca' pɨn ajcxy xymɨjotmädɨpy .
+60004017	~		Tɨ xɨɨ tiempo tɨm paatnɨ mɨna Dios tɨyduna'ñ je jäy ajcxy huɨdibɨ cuydumb je' ytɨy'ajt . Pen Dios ɨɨch ajt huɨdi nmɨbɨjcɨm xytɨyduunɨm e nbaatɨm hueenɨ tzaachypɨ , nïgɨ tzaachypɨ padaangɨxy ajcxy huɨdibɨ ca' mɨjpɨdaaccɨxy Dios .
+60004018	ti		Pen je jäy huɨdibɨ oyjot oyhuinma'ñ mɨɨd mɨc tzaach padaangɨxy je' y'alma nïdzoocɨn , ¿ ti jada ytunaangɨxy pɨnjaty jɨbɨc-huinma'ñ mɨɨd , pɨnjaty pocytungɨx ?
+61003004	ti		Chi ajcxy ymɨna'nɨp : “ ¿ Ti co mdzachmɨbɨjccɨxy co Cristo yhuimbida'ñ jadüg'oc ya naaxhuiñ ? Nej ajcxy je' y'o'ctay je mɨj'ap je mɨjteedy , je'nɨ y'ijttäy tüg'ócɨy jadu'n nej naaxhuiñybɨ chondacy . Paady ca' yjanchɨty co je Cristo yhuimbida'ñ jadüg'oc ya naaxhuiñ , ” jadu'n ymɨnaangɨxy .
+61003011	~		Com tüg'ócɨy tijaty huɨdibɨ ji'ajtp yhuindɨgoydähua'ñ mɨɨd jɨɨn , paady ycɨxpɨ nïgɨ copɨcy miich ajcxy co mdzɨnaaygɨxp tudägy e myajmɨj'ajtcɨxyp Dios .
+62002022	~		Yɨ' je' ɨndacp huɨdibɨ mɨnamb co Jesús ca' yɨ' yjëjɨty je Cristo huɨdibɨ Dios yquejx . Yɨ ɨndacpɨ je'mɨdzip'ajtp Jesucristo etz ca' mɨbɨcy Dios Teedy etz nañ ca' mɨbɨjcɨ Dios y'ung .
+62003012	nej co		Ca' huaad jadu'n n'ɨdɨɨtzɨm nej Caín y'ɨdɨɨch co anajty mujcu' huinma'ñ mɨɨdɨty , chi y'uch yaj'o'cy . ¿ Nej co y'uch yaj'o'cy ? Je' co anajty je' jɨbɨc-huinma'ñ yajtuñ , e je' y'uch oyhuinma'ñ anajty yajtumyb paady ycɨxp je y'uch yaj'o'cy .
+62003017	~		Janch pɨnjaty yjamɨɨd ymadaacɨn , e yja'ijxpy co ymɨgüg tigati yajmayjaty , e amɨj agɨx ñayjɨhuɨ̈yii , ca' pa'ayo'n mɨɨdɨty , ca' pubeda'ñ ymɨgüg , ca' je' anajty tzocy jɨhuɨ̈y ymɨgüg jadu'n nej Dios chogyii yjɨhuɨ̈yii .
+62004020	~		Yɨ jäy ajcxy pɨnjaty jadu'n mɨnamb co mɨjpɨdaaccɨxy Dios , e ca' ymɨgüg tzogaangɨxy ixaangɨxy , hue' je' ajcxy anɨɨdaacp . Com penɨ ca' jajtcɨxy nej tzójccɨxɨpy jɨhuɨ̈huɨ́ɨygɨxɨpy yɨ ymɨgügtɨjc huɨdibɨ ajcxy ixy'ajtpy , ca' ajcxy jadɨp nej mɨjpɨdáaccɨxɨpy Dios huɨdibɨ ca' ixy'ájtɨgɨxy .
+62005005	pɨnjaty		Yɨ jäy ajcxy pɨnjaty mɨbɨjcp co Jesús Dios je' y'ung , yɨ' ajcxy mɨhuindɨnaayb yɨ jɨbɨc huinma'ñ ya naaxhuiñ .
+66005002	Pɨn		Chi nañ jadu'n nhuin'ijxyɨch tüg ángel huɨdibɨ mɨj cötujcɨn mɨɨd , yajtɨy mɨɨd ycapxɨn janch mɨc : ― ¿ Pɨn jada' janch tudägyɨp co yaj'ahuädzɨp jada libro etz mɨgɨɨdzɨydähuɨpy yɨ ysellɨ ?
+66006010a	Jadu'ñyɨ		Je' anajty ajcxy huɨdibɨ yaj'ögy patp mɨɨd Dios y'ayuc ycɨxpɨ chachmɨnaangɨxy janch mɨc : ― Huindzɨn , janch mɨjpɨ janch huätzpɨ , huɨdibɨ cuydundaayb yɨ m'ayuc huɨdibɨ myejc ma ɨɨch ajcxy . ¿ Jadu'ñyɨ jada' mjac-huäcxɨba'ñ mɨna anajty yɨ jäy ajcxy mdɨydunaangɨxy mdzaachytunaangɨxy mɨɨd ypocy ycɨxpɨ huɨdibɨ xyaj'o'c ɨɨch ajcxy , 
+66006010b	~		yɨ' ajcxy huɨdibɨ tzɨnaayb naaxhuiñygɨ́xy ?
+66006017	Pɨn		Com tɨ je xɨɨ je tiempo yhuaad'ajtnɨ mɨna Dios etz Dios y'ung y'ahua'ndägaangɨxy etz tzaachytunaangɨxy naaxhuiñyjäy . ¿ Pɨn je' ocmɨmadägɨp ajcxy chip y'ejcɨn ?
+66007013a	pɨn		Huin'it nidügtɨ je mɨj jäy ycapxy , e xy'amɨdooyɨch : ― ¿ Pɨn jada ajcxy jada' huɨdibɨ poob huit mɨɨd yxoxyɨty , 
+66007013b	ma		e ma yɨ' jada' tɨ choongɨxy ?
+66013004a	pɨn		Je mayjäy ajcxy ooy huindzɨgɨɨygɨxy je ama'y tza'ñ , je mujcu' , com je' co anajty tɨ möy cötujcɨn ane'mɨn je ca'oy'ɨyujc . Chi ajcxy nañ jadu'n ooy huindzɨgɨɨygɨxy je ca'oy'ɨyujc , chachmɨnaangɨxy : ― ¿ Pɨn jada' ocjadu'nɨp nej jadayaabɨ ca'oy'ɨyujc , 
+66013004b	pɨn		e pɨn jada' octziptuunɨp mɨɨd yɨ' ? Ca' pɨn .
+66015004a	Pɨn		¿ Pɨn miich xyca'octzɨgɨ̈huamb , Huindzɨn ? 
+66015004b	Pɨn		¿ Pɨn miich xyca'occömayaanɨp mxɨɨ ? Tug'ócɨy naaxhuiñyjäy xyajmɨj'adɨpy xyhuindzɨgɨ̈huɨpy , com miich naydügpajc je huätzpɨ Dios , com miich nyaj'ijxp mgötujcɨn co ytudägɨty .
+66017007	nej co		Chi je ángel xyñɨmaayɨch : ― ¿ Nej co mgɨxy mgüety ? Ɨɨch miich nyajnɨmähuɨpy nej yhuimbɨdzɨmy huɨdibɨ ca' pɨn huinjɨhuɨ̈y ma yɨ töxyjäy etz ma yɨ ca'oy'ɨyujc huɨdibɨ yaj'ɨñaayb , huɨdibɨ ycohuajc huixtujc mɨɨd etz majc ymu'n .
+66018018	Huɨdibɨ		Co ajcxy ijxy nej anajty ytoy yjocy je mɨj ciudad , chi ajcxy ymɨnañ : ― ¿ Huɨdibɨ cajp jada' ji jadu'nɨp nej jada anajty jadayaabɨ mɨj cajp ?

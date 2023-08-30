@@ -1,0 +1,743 @@
+40002002	harv		hia nuniwesei ; harv na cudenv ugvwiyuhi anicusi unaceliga , ogigohvyeno uceli noqisi dikalvgv idirv , ale ocadadolisdaneliga .
+40002004	~		dulawidvno nigadv nunigvwiyusv acilv anelohi , ale yvwi dinowelanehi , dudvdvnei , nahna udedi gesv galonedv .
+40003007	gago		aseno dugohv unicati aniqalisi ale anisadusi anilugv dadawosgvi , hia niduwehalei ; ci ! inadv cuneci nihi ! gago iceyatanv ecaliediyi utalawohisdi cvcai ?
+40005013	gado		nihi ama elohi uceliga ; iyusgini ama yucisgolv gado yigalisdoda ama yadorvna ; vra hnaqo gohusdi gvdodi yigagi , adinvdiqo uwasv , ale yvwiqo unalasdaedi .
+40005046	gado		iyuyeno yidicigeyuha gecigeyuhi , gado yecaguyvdasi ? rasgo nasgi yinanadvneho ayeli-adelv anigisidohi ?
+40005047	gado		iyu ale icadanvriqo unvsv yidiciyoliha , gado icadvnehv decigonadvdi anisoi ? rasgo nasgi yinanadvneho ayeli-adelv anigisidohi ?
+40006027	gagono		gagono nihi cinicadvnv udasuya uwelihisgvqo yeli saqo iyurilodv yikaneqoca gvnvi ?
+40006028	gadono		ale gadono dinuwo docelihisgoi ? dicadanvdvli cucilvhi rogesi cehi dadvsgvi . vra yidunilvwisdanehoi , ale vra yanisdohoi .
+40006031a	gado		nasgi iyusdi resdi yicelihisgesdi hia yiniciwesgesdi ; gado dayocigi , 
+40006031b	gado		ale gado dayocaditahi , 
+40006031c	gado		ale gado dayocanuwoi ?
+40007003	gadono		ale gadono ihigowatisgo urvdalvdv ugasuhvi disdadanvri , nelisgvnano igeso unosdv ada cvsv cagasuhvi .
+40007004	gado		ale gado yigalisdoda hia yiniwesi disdadanvri , gvlvsi urvdalvdv cagasuhvi , gvniyuqono unosdv ada cvsv cagasuha .
+40007009	gagoge		gagoge asgaya hia cinicadvnv , iyuno uweci gadu yutayoseha , nvyaqo yahvsi ?
+40007016a	~		nusdv anadadvsgvi dodacolistani . cigo yvwi telvladi danadesgo cisdunigisdihi ? 
+40007016b	~		ale svgata-iyunasdi cigocicihi danadesgoi ?
+40008026	gadono		hiano niduweselei , gadono icisgaiha ? usdi icohiyuhi ! hnaqono dulenv dusgace unole ale vdali , ucatino udacinasdvhi nulistanei .
+40008027	gado usdi		anisgayano unisqanigosei , hia nuniwesei ; gado usdi hia asgaya , nasqoyeno unole ale vdali igvwohiyuhvsga .
+40008029	~		ale gvniyuqo unelunei , hia nuniwesei ; vra gohusdi digadadvdodi yigi nihi , cisa unelanvhi uweci , cigo ani calucilv sginigiliyoisdodiyiqo asiqo nasqalisgvna ?
+40009004	gadono		cisano agatahe nusdv anadanvtesgvi , hiano niduweselei ; gadono uci icadanvteha dicinawiyi ?
+40009005	gadoge usdi		gadoge usdi uri ahidiyu kaneisdiyi , cigo hia yinagawea , casganvcv ecadoligi ? hiage yinagawea , talehvga ale geda ?
+40009011	gadono		aniqalisino unadolehosv , hia nidu niweselv gvwasdawadidohi ; gadono diceyohvsgi adelv anigisidohi ale anisgana iculaha ianalisdayvhvsga ?
+40009014	gadono		hnaqono cani gvwasdawadidohi [ cisa ] gvwalucelvgi , hia nigvwaweselvgi ; gadono ayv aniqalisino yano amari cocvsga , nihino gecasdawadidohi amari nanvsgvna cigi ?
+40009015	~		cisano hia niduweselvgi ; cigo yeli degegacvsdisgv anigatahi yidanaroyiga asiqo udesvnilvhi uneladidohvi ? aseno iga dvliyiloli dageciyanveli udesvnilvhi , gila hnaqo amari dvnvni .
+40010025	~		yeliqoyeno dideloqasgi cuweyohvsgi iculahaqo yigi , ale acinvsidasdi unvsidohi iculahaqo yigi . iyuyeno cudatihnai adanelv qeliciqa yunoselv , uri ahidiyu nasgi icuniwesediyi dudatihnavi .
+40011007	gado		iunenvno cisa ulenvhvgi hia niduweselvgi unicati cani dunohedanelvgi ; gado icagatanvse inagei ? wasonasgo unole utelvhesgvi ?
+40011008	gadoge		gadoge icagatanvsei ? asgayasgo diwanage cunuwai ? gvniyuqo diwanage cunanuwai unigvwiyuhi daninelv anehoi .
+40011009	gadoge		gadoge icagatanvsei ? adolehosgisgo ? vv , icvyoseha , ale urihiyu esgaqo adolehosgi .
+40011016	gadoge		gadoge dodagaciyarilostani hia gohi caneha ? diniyoliqo nasgiya ganododiyi caninoi ale ciwidaniyanisgo unedasdi ;
+40012011	~		hiano niduweselvgi ; cigo ayagaya ugasuya icehvi , iyuno saqo awi unodena yunaraa , atalesvno yulvcv unadodaqasgvi , nasgi wuniyvdi ale wulesdi nigesvna ?
+40012026	gadono		iyu ale sedani sedani yiganugowisga , tali nadadisgoi uwasvqo adarudisgoi ; gadono yigalisdoda yinigvwa sdiqo uceligohi ?
+40012027	gago		iyuno ayv qeliciqa yagisdeli anisgina yidicinugowisga , gago unisdelisgo diceci cidaninugowisgoi ? nasgi sgini digecugodanehi gesesdi .
+40012029	gado		ale gado yadvlo ulinigidv asgaya ganelv yayvha ale uhnav yawonv , iyuno igvyi nulvlvna yigi nasgi ulinigidv asgaya ? gila hnaqo yawonv ganelvi uhnavi .
+40012034	~		yo inadv cuneci nihi ! ciniciyoiyv gale rugv usonv nicvga udvno usonvi ; rugvyeno golisdodi geso nusdv udvi .
+40012048a	gago		unecvno hia nuweselv unonelvhi ; gago eci ? 
+40012048b	gago		ale gago ocalinvri ?
+40013010	gadono		gvwasdawadidohino gvwalucelv hia nigvwaweselvgi ; gadono dehiwonedisgv cideharilosdaneha ?
+40013027	gado		hnaqono asgaya ganela cunvsidasdi gvwalucelei , hia nigvwaweselei ; sginvsidasdi , rasgo osdv ugata yicawise calogesvi ? gado digalisdodaha uyo cuyega ?
+40013054a	gado		hnaqono uwasv uceligohi ulucv cunilawiisdiyi duweyonvgi ; nasgi iyusdi unisqanigosvgi , ale hianuniwesvgi ; gado ulisdotanv hia nasgi asgaya cagala hnaa 
+40013054b	~		ale usqanigodi cidulvwisdaneha ?
+40013056	gadono		alekani cudo nigadv esgani caneha ? gadono ulisdotanv hia nigadv cuweha ?
+40014031	gadohi		gilaqono iyvdv cisa wudoyanvhidv wuniyvhvgi , hia nuweselvgi ; usdi cohiyuhi , gadohi vcaļasidvsi ?
+40015002	gadono		gadono gecasdawadidohi aniyosdisgo eti anehi uninohelvhi ? rayeno yidanosulesgo cunoyeni cvdinalisdayvnisoi .
+40015003	gadono		aseno unecv hia niduweselvgi ; gadono nasqo nihi eti anehi uninohelvhi icvdisgo iciyosdisgo unelanvhi unecvhi ?
+40015033	harvno		gvwasdawadidohino hia nvgvwaweselvgi ; harvno yocigi nasgi igai alisdayvdi inagei , nasgi iyunicati yeli cunolvhisdi ?
+40015034	ilago		cisano hia niduweselvgi ; ilago gadu deciyeha ? galiqogi , ilvsgino cunasdi acadi , unadvnvgi .
+40016008	gadono		cisano nasgi udolehosv hia niduweselvgi ; usdi icohiyuhi , gadono icvsv gesv icinoheha alisdayvdi niciyehvna gesvi ?
+40016009	~		rasgo asi yicoliga , ale rasgo yicanvta hisgi gadu hisgi iyagayvli cinanivgi , ale iyakalii taluca icutesvi ?
+40016010a	~		ale galiqogi gadu nvgino iyagayvli cinanivgi , 
+40016010b	iyakalii		ale iyakalii talaca icutesvi ?
+40016011	gado		gado digalisdodi nicoligvna cigi , nasgi hia cinicvwesi rasgini gadu yicidvga , iceyatahesdi agododi aniqalisi ale anisadusi unaceliga , cicvyosi ?
+40016013	gago		cisano ulucv sisaliyi qeligiyi , dudvdvnvgi gvwasdawadidohi , hia niduweselvgi ; ayv yvwi uweci cigi gago gvqoseho yvwi ?
+40016015a	~		hiano niduweselvgi ; 
+40016015b	gago		nihinano gago sgiyoseha ?
+40016026a	gado		gado yvwi yuneqoci iyuno elanigv uceli yinulistanv , udanvdono yuyohuslv ; 
+40016026b	gado		ale gado yahvga yvwi yiganeriyvsda udanvdo .
+40017010	gadono		gvwasdawadidohino gvwadvdvnei , hia nuniwesei ; gadono dinowelisgi , ilaya igvyi dagaluci , canadisgoi ?
+40017017a	ilago		cisano unecv hia nuwesvgi ; nicohiyusvna ale icagatahvdv gohi ciceha , ilago nigohilesdi icvyeladidohesdi ? 
+40017017b	ilago		ilago nigohilesdi unanelagi icvyelisehesdi ? sgiyatinohisi
+40017019	gadono		hnaqono gvwasdawadidohi cisa gvwalucelvgi unvsv gesvi , hia nuniwesvgi ; gadono coginulvnvgi ocinugowisdiyi ?
+40017025a	gado		vv , udvnei . adanelvno ulucv cisa uyosdodanelvgi , hia nuwesvgi ; gado heliha , sawani ; 
+40017025b	gago		gago ayeli gvwanadayveho unigvwiyuhi elohi anehi ; cunecisgo , nvwanadalege ?
+40018001	gago		nahiyu cisa gvwalucelv gvwasdadawadidohi , hia nigvwaweselvgi ; gago uriacilvqodiyu nahna galvladi ehi ugvwiyuhi gesvi .
+40018012	gado		gado iceliha ; iyuno gilo asgaya asgohicuqi awi yidunaraa , saqono yuleyoelv , rasgo soonelasgohi soonelagali iyanidv yidigvdegoi , ale yidikanalusidoho gadusi yuyoho uleyoelvhi ?
+40018021	ilago		hnaqono qida ulucelv hia nuwesvgi ; cagvwiyuhi , ilago nagisganvcegesdi cosdadanvri , asiqo iciyadoligesdi ? galiqogisgo ?
+40019007	gadono		hiano nvgvwaweselvgi ; gadono yisi cunece goweli ganvnediyi digalenvdodi , ale agehidasdiyi ?
+40019016	gado usdi		gvniyuqono asiyvwi ulucelvgi hia nuweselvgi ; hosdv tadeyohvsgi , gado usdi osdv ahusdi dagadvneli agiwadvdodi winasdvna gvnidv ?
+40019017	gadono		hiano nuweselvgi ; gadono hosdv isqoseha ? vra gilo osdv yigi saqo uwasvhiyu , nasgi unelanvhi . aseno cadulisgesdi gvnidv digesv wicananugoisdiyi tisqanigoda dikahnawadvsdi .
+40019018	gado usdi		hia nuweselvgi ; gado usdi ? cisa hia nuweegi ; hia , resdi cadalvgi ; resdi cadayonelvgi ; resdi canosgisvgi ; danadayilidohv resdi gayegogi canohelvgi ;
+40019020	gado		awinv hia nuweselvgi ; hia nasgi nigadv dagikahnawadenv cicuca gesv nvdagvwadalenvdv , gado asi agilula ?
+40019025	gagono		gvwasdawadidohino unadvganv ucatanvhi unisqanigosvgi , hia nuniwesvgi gagono yeli yacisdelv ?
+40019027	gadono		hnaqono qida unecv hia nuweselvgi ; gvniyuqo ayv nigadiyu dogiyosonv ale icvsdawadenv ; gadono ayv dayociwadvhi ?
+40020006	gadono		hisgineno iyurilodv kalawadisv taline iuwenvsei , ale duwadvhe nvwanadale anidonae gohusdi nanadvnehvna , hiano niduweselei ; gadono ani icidonaa udodaqadv gohusdi nicadvnehvna ?
+40020012	~		hia nuniwesei ; hia oniyi unilucvhi saqoqo iyurilodv dunilvwisdasi , iculahaqono nvsgiyvga ayv nasgi gagesv ale udilegv iga cogilvwisdanelvhi .
+40020021	gado		hiano nuweselvgi ; gado caduliha ? hia nvdayuweselvgi ; halisgolvda hia anitali diqeci cunidiyi caceligohi gesvi , saqo higatisi idirv , soino higasgani .
+40020032	gado		cisano ulewistanv widuyanvhvgi , ale hia niduweselvgi ; gado isdaduli ayv isdvyadvnediyi ?
+40021010	gago		cilusilimino ulucv nigv gaduhv unalitelvnvgi , hia naniwesgvgi ; gago hia ?
+40021016	~		ale hia nigvwaweselvgi ; hadvgisgo hia cinaniweha ? cisano hia niduweselvgi ; vv , rasgo hilvhiyu hia yicigoliyeoi ; cunasdi diniyoli ale dinisdai aniholi unugocvhi cawadvdotanv ecalvqododiyi ?
+40021020	~		gvwasdawadidohino unigohv unisqanigosvgi , hia nuniwesvgi ; naregvqo gvyvhi svgata-iyusdi rugvi !
+40021023a	gado		udvnano digalawiisdiyi ulucv , nunigvwiyusv acilv-anelohi ale cunadvsonvhi yvwi anehv gvwalucelvgi dadeyohvsgvi , hia nuniwesvgi ; gado calisgasdodi hia nasgi cidecalvwisdaneha ? 
+40021023b	gago		ale gago canecelvhi ?
+40021025a	harv		cani cidadawosgvgi harv cudalenei ? galvladisgo , yvwiqoge anehv cudalenei ? elaweyino unadanvtelvgi , hia naniwesgvgi ; 
+40021025b	~		iyuno galvladi , yogadvnv , 
+40021025c	gadono		gadono ra yiecoiyunei ? yogosi .
+40021028	gado		aseno gado iceliha ? gilo asgaya anitali cuweci anisgaya anehei ; asiyvwino igvyi wulucelv , hia nuweselei ; aqeci , hena gohi widicalvwisdasi telvladi dagiwisvi .
+40021031	gago		gago hia anitali udoda unecv nudvnelei ? igvyi wulucelvhi , vgvweselvgi . cisano hia niduweselvgi ; udohiyuhiya hia nicvweseha , adelv anigisidohi ale cunacesati anigeyv unelanvhi ugvwiyuhi gesv waniyvhiha degecigoniha .
+40021040	gado		hnaqono nasgi telvladi dawisv uceliga galucvha , gado dodagvneli narogesi cunilvwisdanehi ?
+40022012	gadono		hiano nuweselei ; ginalii , gadono ani vhiyvliga nicanuwavna igi degegacvsdisgv anuwosdi ? elaweyiqono gesei .
+40022017	gado		nasgi iyusdi sginohvsi , gado heliha ? cisa duyugodi sisa aguyvediyi ayeli aguyvdi gesvi ; rage ?
+40022018	gadono		aseno cisa udolehosvgi uyoqo anadanvtesgvi , ale hia niduweselvgi ; gadono isgisadvvsga , icaronasdi ?
+40022020a	gago		hiano niduwehalvgi ; gago hia dagarilosdi , 
+40022020b	gago		ale gago acinoheha hia cigowela ?
+40022028	gago		nasgi iyusdi hnaqo cuniyohusvhi danalehisanvha , gago udalii gesesdi nasgi galiqogi iyanidv gesvi ?
+40022036	gado usdi		tadeyohvsgi , gado usdi uri galvqodiyu ulinecv dikahnawadvsdi ?
+40022042a	gado		hia nuwesvgi ; gado iceli ecadanvtesgv galonedv , 
+40022042b	gago		gago uweci ? dewi , vgvwoselvgi .
+40022043	gadono		hia niduweselvgi ; gadono digalisdodiha , dewi adanvdo uweyohvsgvi , cagvwiyuhi , cigoseha ? hia cinigaweha ;
+40022045	gado		iyuyeno dewi , cagvwiyuhi , yigoseha , gado yigalisdoda uweci yigi ?
+40023017	gado usdi		icinegu ale dicigewi ! gado usdi uri galvqodiyu , adelvsgo dalonigei , udvna-digalawiisdiyige nasgi galvqodiyu cinigvneha adelv dalonigei ?
+40023019	gado usdi		icinegu ale dicigewi ! gado usdi uri galvqodiyu , alisgolvtanvhisgo , acilvge-gelasdiyi , nasgi galvqodiyu cinigvneha alisgolvtanvhi ?
+40023033	gadono		inadv nihi ! unisgasedi inadv cuneci nihi ! gadono yigalisdoda yecadiwisi agiliyoisdi digesv cvsginoi ?
+40024003a	hilago iyu		oliwayono usahilv uwolvi gvwasdawadidohi unvsv gesv gvwalucelvgi , hia nuniwesvgi ; sginohvsi hilago iyu hia nasgi nvdagalistani ; 
+40024003b	gado usdi		ale gado usdi uyelvdv gesesdi caluhisdiyi , ale gohi gesv ulisqadisdiyi ?
+40024045	gagogeno		gagogeno agaliya ale asinasani acinvsidasdi , nasgi unvsidohi nugvwiyusv iyuwanelvhi ganelv dudatihnavi , nasgi unalisdayvdi cunediyi unalisdayvdiyi nigalistanisvi ?
+40025037	ilagiyu		hnaqono unadanvti dvnineci hia nvdagvwaweseli ; cagvwiyuhi , ilagiyu icvgosv cayosisgei , icvyelastaneno ; ale catadegisgei , icvuneno ;
+40025038	ilagiyu		ilagiyu icvgoe necagatahvna , icvyvtaneno ; ale cayelvha gesei , icvnuwoeno ;
+40025039	ilagiyu		ale ilagiyu icvgoe carvgei , ale didasdudiyi ecasduhei , icvyagatanileno ?
+40025044	ilagiyu		nasqono nasgi dvnineci , hia nvdagvwaweseli , cagvwiyuhi , ilagiyu icvgoe cayosisgei , ale catadegisgei , ale necagatahvna gesei , ale cayelvha gesei , ale carvgei , ale didasdudiyi ecasduhei , nicvsdelvhvnano gesei ?
+40026008	gadono		gvwasdawadidohino gvwagohv unitalawosvgi , hia nuwesvgi ; gadono hia cacewogi ?
+40026010	gadono		cisano udolehosv , hia niduweselvgi ; gadono iecadeyadodi ageyv ? osiyuyeno dulvwisdasi cinaqvga .
+40026015	gado		hia winiduweselei ; gado dasgineli ayvno dodacvyohiseli ? coasgohino ayeli-adelv degvwasasdanelei .
+40026017	harv		igvyiyiqono iga nagotanvna gadu agisdiyi gesv gvwasdawadidohi gvwalucelv cisa , hia nigvwaweselvgi , harv caduliha ogadvnvisdodiyi calisdayvdiyi kanohiyegi .
+40026040	gadoqo		gvwasdawadidohino aninv diulucv duwadvhe anilinei , hiano nuwesele qida ; gadoqo , rasgo ciyawisgv saqo iyurilodv igohidv geciyawisdi yigi ?
+40026050	gadono		cisano hia nuweselvgi ; ginalii , gadono vhilugi . hnaqono unilucvgi ale degvwasitadvgi cisa , gvwaniyvhvgi .
+40026054	gado		aseno gado yigalisdoda yadohiyuhvga nusdv gowelvi , ase nasgi iyulisdodi cigi ?
+40026062a	~s		nugvwiyusvno acilv-gelohi dulenei , hia nuweselei ; rasgo yinega ? 
+40026062b	gado		gado hia anigatahv caninoheha cigecarudiha ?
+40026065	gadono		hnaqono nugvwiyusv acilv-gelohi dunuwav duwecagalvhei ; asorvisda , udvnei ; gadono asi anigatahi yaninoheha ? gvniyuqo hnaqo icadvgvga asorvisdisgvi .
+40026066	gado		gado iceliha ? uninecvno hia nuniwesei ; yeliqo gvwayohuhisdi .
+40026068	gago		hia naniwesgei ; sgiyadoleohisi , galonedv , gago cicvniga ?
+40027004	gado		hia nuwesei ; cisganvgi nusganvcvna gigv cigaruda . hiano nuniwesei ; gado nasgi ayv ogvdodi ? cvsv nasgi dicalvwisdasi .
+40027013	~		hnaqono qaledi hia nuweselei ; rasgo yadvgiha nigav gvnigesv nanvnehv anigatahi gecarudisgvi
+40027017	gago		nasgi iyusdi hnaqo dunilawicv qaledi hia niduweselei ; gago icaduli dicvyohisediyi ? qalaqasgo ? cisagegalonedv canosehoi ?
+40027021	gago		ugvwiyuhino unecv hia niduweselei ; gago hia anitali gesv icaduli dicvyohisediyi ? qalaqa , unadvnei .
+40027022	gadono		qaledi hia niduweselei ; gadono daciyvneli cisa , galonedv canosehoi ? wagadvvga , gvwosele nigadv .
+40027023a	gadono		ugvwiyuhino hia nuwesei ; gadono , 
+40027023b	gado		gado udvnelv usganvcv ? aseno uriqo nigae unelunei , wagadvvga , anadisgvi .
+40027046	gadono		coineno iyurilodv iyv katawadisv usvhiyeyi idirv cisa unece asdaya , hia nuwesei ; ila , ila , lama saqadani ? nasgi hia nusdi gadvgvi , unelanvhi aqaceliga , unelanvhi aqaceliga , gadono iswvdecvqo ?
+41001024	gado		hia nuwesei , oganelagi ; gado digadadvdodi nihi , cisa , naselidi hehi ? cisa sgidvtanilv ? gvgataha , nihi nasgi gesvi ; nasgi acilvqodi unelanvhi uceliga .
+41001027	gado usdi		nigadvno unisqanigosei ; ale unvsv gesv dunadadvdvnei , hia naniwesgei ; gado uyelvdi hia ? gado usdi hia ice dideyodi gesvi ? ulinigidvyeno uhv gvdi dekaneceho anigadaha didanvdo , ale gvwohiyuhvsgoi .
+41002007a	gadono		gadono hia asgaya hia nigaweha iasorvisdiha ? 
+41002007b	gago		gago yeli asganvcv gvwadadolisdi , saqoqo uwasv , nasgi unelanvhi ?
+41002008	gadono		gilaqono iyvdv cisa cudanvdv udolehosv nusdv anadanvtesgv docunadanvdvi , hia niduweselei ; gadono nasgi hia niusdi icadanvteha dodicadanvdvi ?
+41002009	gado usdi		gado usdi uri ahidiyu ? cigo hia yinagawese ulvdalvvsgi , casganvcv ecadoligi ; hiage yinagawea , talehvga , ale hinagi cacesdo , ale heda ?
+41002016	gadono		dinowelisgino ale aniqalisi gvwagohv iculaha analisdayvhvsgv adelv anigisidohi ale anisgana , hia niduniwesele gvwasdawadidohi , gadono iculaha canalisdayvhvsga ale iculaha canaditasga adelv anigisidohi ale anisganai .
+41002018	gadono		canino gvwasdawadidohi ale aniqalisi gvwanisdawadidohi amari anvsgi gesei ; uniluceno ale hia nigvwaweselei , gadono cani gvwasdawadidohi , ale aniqalisi gvwanisdawadidohi amari canvsgoi , nihino gecasdawadidohi amari nanvsgvna cigesoi ?
+41002019	~		cisano hia niduweselei , cigo degegacvsdisgv anigatahi yeli amari yanvna adesvhvsgi uneladidohv igohidv ? igohidv adesvhvsgi uneladidohv , vra yeli amari yvgvnvna .
+41002024	gadono		aniqalisino hia nigvwaweselei , gvniyuqo , gadono unadodaqasgv iga niduyugodvna gesv nanadvneha .
+41003004	~		hiano niduweselei , duyugodisgo osdv digalvwisdanediyi unadodaqasgv iga , uyoge digalvwisdanediyi ? gvnvgilo asdelvediyi , ahisdiyige ? elaweqono unvsei .
+41003023	gado		nasgino widuyanvhv , hia niduwesele durilosdanelei , gado yigalisdoda sedani yiganugowa sedani ?
+41003033a	gago		duneceleno hia nuwesei , gago eci , 
+41003033b	~		ale ocalinvri ?
+41004013	gado		ale hia niduweselei , rasgo yicoligahia nasgi darilosdvi ? gadono yigalisdoda yidecoligi nigadv darilosdvi ?
+41004030a	gado		hiano nuwesei , gado dodadacelastani unelanvhi ugvwiyuhi gesvi ? 
+41004030b	gadoge		gadoge darilosdv dodadarilostani ?
+41004038	~		ciyuhino onidirv ucae galihei , agusdo ugusdaei ; gvwayestaneno , ale hia nigvwaweselei , tadeyohvsgi , rasgo gohusdi yeliha cvdayocadisvni ?
+41004040a	gadono		hiano niduweselei , gadono nicisgasvna ? 
+41004040b	gado		gado digalisdodi nicohiyusvna igi ?
+41004041	gado usdi		ucatino unisgalei , ale hia nidunadaweselei , gado usdi hia asgaya , nasqoyeno unole ale vdali igvwohiyuhvsga .
+41005007	gado		ale asdaya uwelune hia nuwesei ; gado diginadadvdodi nihi cisa , wasdv galvladiyu ehi unelanvhi uweci ? gvneceha , unelanvhi gvneisdaneha , nasgi sgigiliyoisdodiyi nigesvna .
+41005009	gado		udvdvneno , gado decadov ? uwoselei . hiano nuweselei , sunadarugi daqadov ; ogicatayeno .
+41005030	gago		cisano gilaqo iyvdv udolehosv uwasv gesv udanvwodi gesv unugocvi , ugatahvse nahna unvtidv anidonavi , ale hia nuwesei , gago dasvniga diqanuwo ?
+41005031	gago		gvwasdawadidohino hia nigvwaweselei , degigowadiha unicati gecanenulasdisgv , cigono gago aqasvniga ihadiha ?
+41005035	gadono		asiqo kanegei , nugvwiyusadegi digalawiisdiyi ganelv nvdayunadalenvhi uniluce hia nuniwesei , uyohusv ceci ; gadono asiqo ihiyadeyadodiha dideyohvsgi ?
+41005039a	gadono		uyelvno hia niduweselei , gadono icadanoyvlisdiha , 
+41005039b	~		ale docaroyiha ? vra yuyohusv ageyuca , galihaqosgini .
+41006002a	harv		unadodaqasgvno uliyelolv , ulenvhe dudeyone digalawiisdiyi ; unicatino gvwadvganelv unisqanigosei , hia naniwesgei , harv agiha hia asgaya hia nasgi igvwadvnedi cigi ? 
+41006002b	gado usdi		ale gado usdi agadovhisdi nasgi acinelvhi cigi , 
+41006002c	~		nasgi iyusdi usqanigodi cidulvwisdaneha ?
+41006022	~		nasgino elodisi uweci adv uyvlilv , ale ulisgisv , ale elodv ale nasgi iculaha aniniļai osiyu uniyelvnv , ugvwiyuhi hia nuwesele adv , sgitayosi iyusdiqo helisgvi , dagvnelino .
+41006024	gado		unugocvno hia winuwesele uci , gado dacitayoli ? hiano nuweselei , cani didawosgi asgoli .
+41006037	~		duneceleno hia niduweselei , nihi dicelasda . hiano nigvwaweselei , cigo dayocesi talicuqi anigisi cugvwalodi gadu yvdayogiwasi , ale dodayocelastani ?
+41006038	ilago		hiano niduweselei , ilago gadu deciyeha ? wicagata . unadolehosvno , hia nuhiwesei , hisgi , talino acadi .
+41007005	gadono		hnaqono aniqalisi ale dinowelisgi igvwadvdvne hia nigvwaweselei ; gadono gecasdawadidohi vra yidanikahnawadega eti unadenvhi uninecvi , nasgi nidunasulehvnaqo canalisdayvhvsga ?
+41008004	harv		gvwasdawadidohino hia nigvwaweselei , harv yidagi gilo nasgi igai gadu ani inagei , hia nasgi yeli gvwanidvdanedi .
+41008005	ilago		dudvdvneno hia nuwesei ; ilago gadu deciyeha ? hiano nuniwesei , galiqogi .
+41008012	gadono		udanvdogihino hawini uliyetanei , ale hia nuwesei , gadono gohi hia caneha uyelvdv uniyoha ? udohiyuhiya hia nicvweseha , vra gvnigesv igegvnedi yigesesdi uyelvdv hia gohi caneha .
+41008017	gadono		cisano udolehosv hia niduweselei , gadono icalinoheha gadu nidiciyehvna gesv iyusdi ? asiqosgo nicadolehosgvna igi , ale nicoligvna igi ? asiqosgo asdaya nidecvnv dicinawi ?
+41008018a	~		decikanvsgo , nicigowatisgvnano igi ? 
+41008018b	~		decililugasgo , nicadvgisgvnano igi ? ale nicanvdadisgvnasgo igi ?
+41008019	ilago		hisgi gadu dagigvhaluyv hisgi iyagayvli decinelv , ilago iyakalii taluca uligvhaluyvhi icutesei ? taladu igvwoselei .
+41008020	ilago		galiqodino [ gadu ] nvgi iyagayvli decinelv , ilago iyakalii taluca uligvhaluyvhi icutesei ? galiqogi unadvnei .
+41008021	gado		hiano niduweselei , gado galisdodiha nicoligvna cigi ?
+41008023	~		digewino uwoyanesv , gaduhv unugowisei ; digadolino dulicisqv , ale dusitadv , gohusdisgo higowadvdiha ? uwoselei .
+41008027	gago		cisano unugoce ale nasgi gvwasdawadidohi , sisaliyi qiligi degaduhv wunilosei ; wanaisvno dudvdvne gvwasdawadidohi , hia niduweselei , gago gvqoseho yvwi ?
+41008029a	~		hiano niduweselei , 
+41008029b	gago		nihinano gago sgiyoseha ? qidano unecv hia neweselei , galonedv nihi .
+41008036	gadoyeno		gadoyeno yuneqoci yvwi , iyuno nigvnadv elohi uceli yinulistanv , uwasvno udanvdo yuyohuselv ?
+41008037	gado		ale gado yahvga yvwi yiganeriyvsda udanvdo ?
+41009010	~		nasgino nuwesv unagasayastanei , danadadvdvhvsge gadvgv ayohusv dilehisodi gesvi .
+41009011	gadono		gvwadvdvneno hia nuniwesei , gadono dinowelisgi ilaya igvyi dagaluci canadisgoi ?
+41009012	~		unecvno hia niduweselei , ilaya udohiyuhi igvyv uluhisdi , ale nigadv uworvhisodi ; ale nasqo hia nigvnvgowela yvwi uweci acinohesgvi , nasgi ucati cudalenvdv ugiliyoisdi gesesdi , ale aseqo dayeciyelvni .
+41009016	gado		dudvdvneno dinowelisgi , gado decadvdvhelvvsga duweselei ?
+41009019a	ilago		unecelvno , hia nuwesei , yo ! nicohiyusvna gohi ciceha ! ilago igohidv icvyeladidohesdi ? 
+41009019b	ilago		ilago igohidv unelagi icvyelisehesdi ? ani hiyatinoga .
+41009021	itago nigohigi		udvdvneno udoda , itago nigohigi nasgi hia igvwalisdanelvhi ? uwoselei . ayoliqo gesvi , udvnei ;
+41009028	gadono		galicodeno wiuyvlv , gvwasdawadidohi unvsv gesv gvwadvdvnei , gadono ayv vra gayocinugowisdi yigesei ? unadvnei .
+41009033	gado		geqanino ulucilei ; galicogano ayav dudvdvne , gado nasgi cicinohesgv icvsv gesv a didaisvi .
+41009050	gado		ame osiyu ; aseno ama yucisgolv gado yicvga nucisgolvna yinicvga ? ame icilocvhi gesesdi , ale dohiyi nicvnesdi icehvi .
+41010003	gado		unecvno hia nisuweselei , gado usde icinecele mosi ?
+41010017	gado		unigisvno ganvnv wulucv , gilo iyusdi udiroelvgi , ale duliniqanvnelvgi , udvdvne hia nuweselei , hosdv tadeyohvsgi , gado dagadvneli ulisqadisdi nigesvna gvnidv aqaceli iyulisdodiyi ?
+41010018	gadono		cisano hia nuweselei , gadono hosdv isqoseha ayv ? vra gilo osdv yigi , saqo uwasvhiyu , nasgi unelanvhi .
+41010026	gagoge		ulosvstanvhino unisqanigosgei , hia nidanadawesehei , gagoge yeli gayecisdelvdi ?
+41010036	gadono		hiano niduweselei , gadono isdaduli isdvyadvnediyi ?
+41010051	gado		cisano unecv hia nuweselei , gado cadulu gvyadvnediyi ? digewino hia nuweselei , cagvwiyuhi , vagigowadvdiyi [ aqaduliha . ]
+41011003	gadono		iyuno gilo gadono nasgi nisdadvneha isdoselvha ? ugvwiyuhi uduliha , isdadvnvha ; gilaqono iyvdv dodayuyosi ani esdatinohisdiyi .
+41011005	gadono		gilono iyunasdi nahna dinidogi hia niduniweselei , gadono iesdelisade agiwi ?
+41011028a	gado		ale hia nigvwaweselei , gado calisgasdodi hia nasgi cihnadvneha ? 
+41011028b	gago		ale gago canele nasgi hia icadvnediyi ?
+41011030	~		cani cidadawosgvgi , galvlasgo cudalenei , yvwiqoge anehvi ? sginohvsi .
+41011031a	~		unvsvno gesv unalinohelei , hia nuniwesei , iyuno galvladi nvdayudalenvhi yigadvnv , hia yinigawi , 
+41011031b	gadono		gadono ra yiecoiyunei ?
+41012009	gadono		gadono nasgi dvdvneli telvladi dawisv uceliga ? dagaluci ale dodvdvtani nasgi rogesi cunilvwisdanehi , ale nvwanadale dodvneli telvladi dawisvi .
+41012015	gadono		dayocinicu , rage yvdayocini ? aseno agatahe unaronasdvi , hia niduweselei , gadono isgigoliyeha ? esgivsi agisi cugvwalodi nasgi agigowadvdiyi .
+41012016a	gago		uniyoleno . hiano niduweselei , gago hia dagarilosdi , 
+41012016b	gago		ale gago acinohese hia cigawela ? sisa , igvwoselei .
+41012023	gago		cuniyohusvhino cunalehisodi gesvi , nahiyu nasgi hia danalehisanvha , gago udalii gesesdi nasgi hia ? galiqogiyeno iyanidv anadayehvgi .
+41012028	gado usdi		dinowelisgino gesv asiyvwi ulucelv , udvganv analinohesgvi , ale udolehosv osiyu nuwesv dunece lvi , udvdvnei , gado usdi uri galvqodiyu nigadv dikahnawadvsdi gesvi ? udvnei .
+41012035	gadono		cisano unecv dadeyohvsgv udvnvdigalawiisdiyi , hia nuwesei ; gadono dinowelisgi galonedv dewi uweci , canadisgoi ?
+41012037	gadono		dewiyeno uwasv ugvwiyuhi igoseha ; gadono digalesdodiha uweci igi ? unicatino yvwi unalihelicvhi gvwadvdanelei .
+41013004a	ilagiyu		sginohvsi , ilagiyu nasgi hia nvdagalistani ? 
+41013004b	gado		ale gado uyelvdv gesesdi nahiyu hia nasgi nigadv uliyeilohisdi gesvi ?
+41014004	gadono		gilono unadasuyv unvyuce docunadanvdvi , ale hia nuniwesei , gadono hia acewogi aronedi ?
+41014006	gadono		cisano hia nuwesei , unelagi ; gadono iecadeyadodiha ? osiyu deulvwisdasi cinaqvga .
+41014012	harv		igvyiyino iga nagotanvna gadu agisdiyi , nahiyu unilv kanohiyegi dilisdayvdiyi , gvwasdawadidohi hia nigvwaweselei , harv caduli wogadvnvisdodiyi , kanohiyegi calisdayvdiyi ?
+41014014	harv		ilvhirvno wayvlvha , hia nesdiweselvha asgaya ganela , dideyohvsgi hia nigaweha , harv anedohi uniyvsdiyi , nahna kanohiyegi iculaha ogalisdayvdiyi gvgisdawadidohi .
+41014060a	~		nugvwiyusvno acilv-gelohi ayeli ulenv , udvdvne cisa , hia newesei , rasgo gohusdi yadiha ? 
+41014060b	gado		gado nasgi hia caninoheha gecarudisgvi ?
+41014063	gadono		nugvwiyusvno acilv-gelohi dunuwav duwecagalvhei , hia nuwesei , gadono asi yidigaduli aninohesgi ?
+41014064	gado		icadvgvga asorvisdisgvi ; gado iceliha ? nigadvno degvwugolinele yeliqo gvwayohuhisdi gesvi .
+41015004	~		qaledino taline udvdvne hia nuwesei ; rasgo gohusdi yadiha ? gvniyuqo ucati cudalenvdv aninoheha gecarudiha .
+41015012	gadono		qaledino taline unecv , hia niduweselei , gadono icaduli ciyvnediyi nasgi na ugvwiyuhi anicusi unaceliga cecoseha ?
+41015014a	gadono		qaledino hia niduweselei , gadono , 
+41015014b	gado usdi		gado usdi uyo dulvwisdanelv ? aseno uriqo iyasdaya unelunei , hiyadvvga , unadvnei .
+41015034	gadono		coine iyurilodv uliyeilolv cisa asdaya uwelunei , hia nuwesei , iloi , iloi , lama saqadani ? nasgi anervtanvhi hia nusdi gadvga , aqanelanvhi , aqanelanvhi , gadono vsqvdegi ?
+41016003	gago		hiano nidunadaweselei , gago dagihveli nvya acelisdv galohisdiyi ahvi ?
+42001018	gadono		cegalayano hia nuwesele dikahnawadidohi , gadono aqadolehohisdodi gesesdi nasgi hia ? aqadvsonvhiyeno , ale aqadalii hnaqo agayvligei
+42001034	gado		melino hia nuwesele dikahnawadidohi ; gado yigalisdoda nasgi yinigalisda , nicigatahvnano cigi asgaya ?
+42001043	gadono		gadono dagalisdoda ayv nasgi cinaqalisdasi , nasgi aqaceli ugvwiyuhi uci cagilucisi ?
+42001066	gado usdesdi		nanivno nasgi unadvganvhi cunadvganvhi cuninawiyi unisqanigotanei , hia naniwesgei ; gado usdesdi hia ayoli ? yihowano usdelvhidohei .
+42002048	gadono		cugayvligeno gvwagohv unisqanigosei ; ucino hia nuweselei aqeci , gadono nvsginadvnisiqo ? cadoda isdvyohvgi uwelihisdi oginadanvtawadegvgi .
+42002049	gadono		hiano niduweselei ; gadono isginiyohei ? rasgo yisdigatahe edodoyi ase aqedasdi gesvi ?
+42003007	gago		hnaqono hia niduwesele unicati nasgi digegawesdiyi unilvsolvhi ; yo inadv cuneci nihi ! gago iceyatanv ecaliediyi utalawohisdi uluhisdi gesvi ?
+42003010	gado		unicatino gvwadvdvne hia nigvwaweselei ; gado dayocadvneli ?
+42003012	gado		nasqono adelv-anigisidohi unilvsole digegawosdiyi , ale hia nigvwaweselei ; tadeyohvsgi , gado dayocadvneli ?
+42003014a	~		aniyawisgino nasqo igvwadvdvne , hia nuniwesei ; 
+42003014b	gado		ayv nano gado dayocadvneli ? hiano niduweselei ; resdi gilo gvsgaisdagi iyecvnelvgi , ale resdi gayegogi yicadalawisehesdi ; ale yeliqo iciyelvsesdi ecaguyvehvi .
+42004034	gado		hia nigawesgei , oganelagi ; gado digadadvdodi nihi cisa naselidi hehi ? sgidvtaninule ? gvgataha nihi nasgi gesvi-galvqodiyu unelanvhi uceliga gesvi
+42004036	gado usdi		nigadvno unisqanigosei , ale unalinohele unvsv gesv hia nidunadaweselei ; gado usdi kaneisdi hia ? uceligayayeno ale ulinigidv gesv degvdiha dekanece anigadaha didanvdo , ale aninugoga .
+42005021a	gago		dinowelisgino ale aniqalisi unadanvtele hia nuniwesei ; gago hia nasgi casorvisdiha ? 
+42005021b	gago		gago gvwadadolisdi asganvcvi ? rasgo unelanvhi uwasv ?
+42005022	gado		aseno cisa udolehosv nusdv danadanvtesgvi , unece hia niduweselei ; gado icadanvteha dodilodanvdvi ?
+42005023	gado usdi		gado usdi uri ahidiyu kaneisdiyi , casganvcv ecadoligi advdiyi ; ale hia igawesdiyi , talehvga ale heda ?
+42005030	gadono		dinowelisgini cunaceli ale aniqalisi dunitalawohisele gvwasdawadidohi , hia nuniwesei ; gadono iculaha icalisdayvhvsga ale icaditasga adelv anigisidohi ale anisganai ?
+42005033	gadono		hiano nigvwaweselei ; gadono cani gvwasdawadidohi yanogiyu amari anvsgoi ale anadadolisdisgoi , ale nasqo aniqalisi gvwanisdawadidohi ; nihisgini gecasdawadidohi analisdayvhvsgo ale anaditasgoi .
+42005034	~		hiano niduweselei ; cigo degegacvsdisgv anigatahi amari unvdiyi yinidecvnisi asiqo uneladidohv udesvnilvhi ?
+42006002	gadono		gilono iyunasdi aniqalisi hia nigvwaniweselei , gadono nihi nicadvneha nasgi igvdvnedi nigesvna gesv unadodaqasgv iga .
+42006009	gado		hnaqono cisa hia niduweselei ; sudalegi dacvyadvdvni ; gado duyugodi unadodaqasgvi ? osdvsgo digalvwisdanediyi , uyoge digalvwisdanediyi ? gvnv asdelvdiyi , adahisdiyige ?
+42006032	gado		iyuyeno gecigeyuhiqo [ unvsv ] yidicigeyuha , gado iciha gayecalielicedi gesvi ? anisganayeno nasqo dunigeyuso gvwanigeyuhi .
+42006033	godo		iyu ale osdv yinidicadvneha osdv igecadvnehi , godo iciha gayecalielicedi gesvi ? anisganayeno nasqo nasgiya nanadvnehoi .
+42006034	gado		iyu ale dvgogineli dicelisehi yidicadolasdiha ; gado iciha gayecalielicedi gesvi ? anisganayeno nasqo anisgana danadolasdisgoi , nasgi igai taline vgecinediyi .
+42006039	~		hiano nuwese durilosdanelei ; cigodigewi yeliqo yatinuga digewi ? rasgo icula atalesv yidogvnilvgi ?
+42006041	gadono		ale gadono ihigowatisgo urvdalvdv ugasuhvi disdadanvri , nelisgvnano igeso unosdv ada cvsv cagasuhvi ?
+42006042	gado		ale gado yigalisdoda hia yiniwesi disdadanvri ; dinadanvri gvlvsi urvdalvdv cagasuhvi , cvsvno nigowatisgvna unosdv ada cvsv cagasuhvi ? caronasdi ! igvyi hilv unosdv ada cvsv cagasuhvi , hnaqono gvnigesviyu cagowadvdiyi gesesdi hilvediyi urvdalvdv disdadanvri ugasuhvi .
+42006046	gadono		ale gadono cagvwiyuhi , cagvwiyuhi , isgiyohoi , niciwesgvno nicadvnehvna igesoi ?
+42007024	gado		hnaqono cani nidodayunvsidv iunenv , ulenvhe cani duneisdanele yvwi ; gado icagatanvse inagei ? wasonasgo unole utelvhesgvi ?
+42007025	gadoge		gadoge icagatanvsei ? asgayasgo diwosgili cunuwai ? gvniyuqo cuwoduhi cunanuwai ale osdv dinalisdayvhvsgi unigvwiyuhi daninelv anehoi .
+42007026	gadoge		gadoge icagatanvsei ? adolehosgisgo ? vv , icvyoseha . ale uri acilvqodiyu esgaqo adolehosgi .
+42007031a	gadogedodagacirilostani		ugvwiyuhino hia nuwesei ; gadogedodagacirilostani yvwi gohi caneha ? 
+42007031b	gado		ale gado danacelv ?
+42007042	gago		gohusdino nunihvna gesv unaguyvdodi , duyoseqo icula . nasgino sginohvsi , gago nasgi uri nudageyusesdi ?
+42007049	gago		nasgino naiculaha aniniļai analisdayvhvsgv unalenvhe docunadanvdv hia nuniwesei ; gago nasgi hia , asganvcv nasqo cidegadoliga ?
+42008025a	hara		hiano niduweselei , hara icohiyusvi ? nasgino anisgaihv unisqanigosei , hia nidunadaweselei ; 
+42008025b	gado usdi		gado usdi hia asgaya ? dekaneceyeno unole ale ama , ale igvwohiyuhvsga .
+42008028	ga-do		ugohvno cisa , uwelunei , ale udanvne gadogv igvyidirv , ale asdaya hia nuwesei ; ga-do di-ginada-dvdodi , cisa , unelanvhi wasdv galvladiyu ehi uweci ? gvtayoseha resdi sgigilvnvgi .
+42008030	gado		cisano udvdvne hia nuweselei ; gado decadov ? hiano nvdiuwesei ; sunadarugi ; unicateyeno anisgina gvwayvlvhi gesei .
+42008045	gago		cisano hia nuwesei ; gago aqasvniga ? nigadvno unadayilv , qida ale nasgi anehi hia nuniwesei ; tadeyogvsgi , unicati gecadaruwisdidega ale gecanenulasdiha , cigono gago aqasvniga ihadiha ?
+42009009a	gago		elodvno hia nuwesei , cani cisgudesvgi ; hiasgini gago , 
+42009009b	~		nasgi hia cinusdi ciciyadvgiha ? urinigvneleno ugowadvdiyi .
+42009018	gago		hiano nulistanei nasgi uwasv gesv adadolisdisgv gvwasdawadidohi anehei ; dudvdvneno hia niduweselei , gago gvqoseho yvwi ?
+42009020a	~		hiano niduweselei , 
+42009020b	gago		nihinano gago sgiyuseha ? qida unecv hia nuwesei , galonedv unelanvhi uceliga .
+42009025	gadoyeno		gadoyeno yuneqoci yvwi iyuno nigv elohi uceli yinulistanv , uwasvno yuyohusv ale yagadainv .
+42009041a	ilago		cisano unecv hia nuwesvgi ; yo , nicohiyusvna ale icagatahvdv gohi ciceha ! ilago nigohilesdi icvyeladidohesdi , 
+42009041b	~		ale unanelagi icvyelisehesdi ? ehiyatinuga ceci .
+42010025	gado		gvniyuqono , gilo iyusdi dikahnawadvsdi digosisisgi dulenei , ale ugoliyesgv hia nuwesei , tadeyohvsgi , gado yaqadvnelv aqaceli yinigalisda gvnidv alisqadisgi nigesvna ?
+42010026a	gado		hiano naciweselei , gado gvnv gowela dikahnawadvsdiyi ? 
+42010026b	gado		gado usdo higoliyesgoi ?
+42010029	gagono		aseno udulisgv ududalesdiyi hia nuwesele cisa , gagono nav icoginadala ?
+42010036a	~		hiano nasgi coi iyanidv gesv , nihi hadanvtesgv , 
+42010036b	gago		gago nav icunadala nvwasdi nasgi dinadanasahvsgi cidunadawadvtanei ?
+42011008	~		icvyoseha gvwadidvdi nigesvna ale digvwanedi nigesvna yigi , unaliiqo gesv iyusdi , nasuligogvnasgini gesv iyusdi yadidv ale yideahvsi nigav dudulisgvi .
+42011011	~		iyu ale gilo hia cinicadvnv icigayvlige gesv uweci gadu yutayoseha , cisa nvyaqo yahvsi ? iyu ale acadi yutayoseha , cigo acadi unvnedi gesv inadvqo yiganvvsi ?
+42011012	~		iyu ale uweci yutayoselv , cigo gadogv-adacvyasdisgi yiganvvsi .
+42011013	~		nasgi iyusdi iyuno nihi iciyoi , yicisinahi osdv gesv dicinediyi diceci , urihiyu nudvnvisdi icidoda galvladi ehi cunediyi galvqodiyu adanvdo gvwatayosehi !
+42011018	gado		iyu ale sedani tali yinudaa uwasv yadarudiha , gado tigalisdodi yinigvwasdiqo uceligohi ? nvdigalisdodiha qeliciqa usdeliha anisgina cideganugowisga cisgiyoseha .
+42011019	gago		iyuno qeliciqa yagisdeliha anisgina decinugowisgvi , gago unisdeliha diceci nasgi daninugowisgvi ? nasgi iyusdi nasgi digecugodanehi gesesdi .
+42012014	gago		hiano nuweselei , hisgaya , gago disdvyugodanehi ale isdvyadohehi naqvnelv ?
+42012017	gado		udanvteleno uwasv cudanvdvi , hia nuwesei , gado dagadvneli , vrayeno yeli yuļanvdv agidiyi aqadvhiselvhi .
+42012020	gagono		aseno unelanvhi hia nuweselei ; nicadanvdvna , gohiqo usvi cadanvdo dayecayanvsvli ; gagono uceli gesesdi nasgi cicadanelanv .
+42012024	esgaqo		golanv dicadanvdvli ; vrayeno yaniwisgoi , vra ale yanisgudesgoi ; vra ale cunadananvdiyi ale uninvdiyi yidadanelv ; ale unelanvhi degelohoi . nigavuri necilvqodi nihi esgaqo cisqa .
+42012025	gagono		gagono hia cinicadvnv uwelihisgvqo teli yiganvhida gvnvi saqo iyagiyusqidv .
+42012026	gadono		iyuno nasgi usdikani gesv yeli igecadvnedi nigesvna yigi , gadono asi nvwadale wicelihisgoi ?
+42012042	gagono		ugvwiyuhino hia nuwesei , gagono nasgi na osdv ale agatanai adanelv acigatidisdi , nasgi unvsidohi nugvwiyusadegi nvdayuwaneli ganelvi , nasgi cunediyi unalisdayvdi nidasqalvhisvi ?
+42012049	gado		agilucilv nasgi iyaqvniidiyi acilv gadohi uluhisdiyi ; ale gado yaqadula iyuno gayula yucisra ?
+42012056	gadono		icaronasdi ! yeliqo icadolehosgo nusdv galvladi , ale elohi ; gadono digalisdodiha nicadolehosgvna cigi gohi gesvi ?
+42012057	gadono		ale gadono icvsv gesv digecugododi nigesvna igi duyugodv gesvi ?
+42013004	~		ale na netadu iyanidv sa-lomi invigati adanelv cunasonei , ale cidunilei , cigo icadanvtesgv cunigonadvtanvhi gese anisganahiyu gvsv nigadv cilusilimi anehi ?
+42013007	gadono		hnaqono hia nuwesele osdv iyuwahnadegi telvladi duwisvi , gvniyuqo , hnaqo coi nadetiyv cilugvgi agiyohvgi uda-tanvhi hia nasgi egata-iyusdi rugvi , ale vra yiciwatiha ; hileyvsda ; gadono iugedi gadohi ?
+42013015	~		ugvwiyuhino hnaqo unecele hia nuweselei , caronasdi ! rasgo nihi icisiyvwiha gesv unadodaqa-sgv yecelisadesgo digelasdiyi icaceli wago ale soqilidigalianv-hidv , ale yecatinego ama yecaditastanegoi ?
+42013018a	gado		hnaqono hia nuwesei , gado dacelv unelanvhi ugvwiyuhi gesvi ? 
+42013018b	gado		ale gado dodagarilostani ?
+42013020	gado		alewo hia nuwesei , gado dodagarilostani unelanvhi ugvwiyuhi gesvi ?
+42013025	~		iyuno hnaqo asgaya ganela dalenvha ale asdunvha galohisdiyi , nihino icalenvhv doyidirv icidonavi , ale icvnihesdi galohisdiyi hia nicewesgesdi , cagvwiyuhi , cagvwiyuhi , esgisduisi ; ale dikanecv hia nvdiciweselvha , vra yicigataha dicadalenvi ;
+42014005	gago		duneceleno hia niduweselei , gago hia cinicadvnv soqili-digalianvhidv ale waga yulvce-lv atalesv vra gilaqo iyvdv yiwvgalagi unadodaqasgv iga ?
+42014028	gagoyeno		gagoyeno hia cinicadvnv , yadanvte inv igati unesgediyi , vra igvyi yigahvsgo yasehiho igai cugvwatanihisdi gesvi , udolehohisdiyi yeli gvwasqadisdodi igai uhvi .
+42014031	gago		ale gago iyusdi ugvwiyuhi , dahnawa yinvdvnvneli nvwadale ugvwiyuhi , vra igvyi yigahvsgo ale yadanvtesgo yeliqo asgohi iyagayvli datinehv digvwanariyvdi gesv cugatilegi talasgohi iyagayvli datinehvi .
+42014034	gado		~ama osiyu ; iyusgini ~ama yucisgolv , gado tigalisdoda ~ama yadorvna .
+42015004	gago		gago hia tinicadvnv , asgohicuqi yidunaraa uninodena , iyuno saqo yuyohuselv , vra yidigvdego inage anedohv soonelasgohi soonelagali iyanidv , ale yuyolego uyohuselvhi , gvni awadv ?
+42015008	gago		ale gago iyusdi ageyv asgohi yiduha agisi cunagvwalodi , iyuno saqo yuyohuselv , vra yacvsdvsgo acvsdodi ale yigvnosasgo galicode , ale ulisinahisdi yuyoho gvni awadv ?
+42015026	~		wuyanvheno asiyvwi acinvsidasdi , ale udvdvne uyelvv nasgi nanadvnehvi .
+42015029	~		unecvno hia nuwesele udoda ; gvniyuqo ucata nadetiyv gvsdelvhida , alevra ilvhiyu naqohiyunvna yigi canecvi , aseno vra ilvhiyu awi-agina asenulvhi yisgikaneloi , osdv ogadanvdadisdodi diqalii .
+42016002	gado		wuyanvheno hia nuweselei , gado digalisdodiha cinusdi cigvyadvgiha ? gvnigesv nvga nusdv decalvwisdanelv cagasayasdidegi gesvi ; gohiyeno iyudalenvdv vra hnaqo cagasayasdidegi yigesesdi .
+42016003	gado		ugasayasdidegino hia nuwese uwasv cudanvdvi , gado dagadvneli , aginvsidohiyeno agigieha aqagasayasdidegi gesvi ? rano yeli gvqasgosdi yigi ; aqaduladidasdiyino igadeosga .
+42016005	ilago		howano widuyanvhe nigadv unvsidohi cudugi , igvyiyino hia nuweselei , ilago igai caduga aginvsidohi .
+42016007	ilago		nvwadaleno hia nuweselei , nihina ilago ecaduga ? hiano nuwesei , asgohicuqi iyurilodv ucalesdi . hiano nuweselei , hinagi goweli ecadugvi , ale nelasgohi howelvga .
+42016011	gago		nasgi iyusdi iyuno duyugodv nicadvnehvna igesesdi udalidasdi genvisdi gesv gohusdi icvdisgvi , gago yicigatidisda nudalidasdvna genvisdi gesvi ?
+42016012	gago		iyuno duyugodv nicadvnelvna yigi nvwadale uceliga gesvi , gago dacineli icvsv icaceli gesvi ?
+42017007	gago		aseno gago hia cinicadvnv , ecinvsidasdi yigadalugiha , ale yigelolvvsga , rogesi nvdayulosonvhi , gilaqo iyvdv hia yineciwesi , hena walisdayvhvga ?
+42017017	harv		cisano unecv hia nuwesei , rasgo asgohi yigecinvgalvei ? aseno soonela iyanidv harv ?
+42017018	~		vra yigeciwadv nvdayunacvdv unelanvhi anilvqodisgi , hia nvwadale yvwi uwasv .
+42017020	~		aniqalisino gvwadvdvnv iyuqo uluhisdiyi unelanvhi ugvwiyuhi gesv , dunecelei , hia nuwesei , unelanvhi ugvwiyuhi gesv vra gvgowadvdi yigesesdi galucvha .
+42017037	harv		uninecvno hia nigvwaweselei , harv , cagvwiyuhi ? hiano niduweselei , ilvhirv gohusdi uliwocvhi ciganoi , nahna awohali anadarisisgoi .
+42018018	gado		gilono iyusdi nugvwiyusadegi udvdvne , hia nuwesei , hosdv tadeyohvsgi , gado yaqadvnelv winasdvna gvnidv yiciwadv ?
+42018019	gadono		cisano hia nuweselei , gadono hosdv isqoseha ? vra gilo osdv yigi saqo uwasvhiyu , nasgi unelanvhi .
+42018026	gagono		unadvganvhino hia nuniwesei , gagono yeli yacisdelv ?
+42018036	~		udvganvno unicati anilosgv udvdvne nasgi uyelvdvi .
+42018041	gado		hia nuwesei , gado caduli gvyadvnediyi ? hiano nuwesei , cagvwiyuhi , vagigowadvdiyi aqaduliha .
+42019007	~		unigohvno nasgi nigadv unisonvcelei , hia nuniwesei , wayvrv wvdvsvseli asgaya asganai .
+42019023	gadono		gadono ra disqanigododiyi yiwidocane diqaceli adenu , agilucilvno diqaceli ale unineqocvhi yidagigisei .
+42019031	gadono		iyuno gilo isdadvdvnv gadono iesdelisade-ha ? isdoselvha , hia nesdiweselvha ; ugvwiyuhiyena uduliha .
+42019033	gadono		anelisadesgeno agina , uninarai hia nigvwaniweselei , gadono iesdelisade agina ?
+42020002a	gado		ale gvwalinohetane , hia nuniwesei , sginohvsi , gado calisgasdodi hia nasgi cinusdi cidecalvwisdaneha ? 
+42020002b	gago		ale gago nasgi nacanelvhi nasgi icadvnediyi ?
+42020005a	~		docunadanvdvno unadanvtele hia naniwesgei , iyuno galvladi , yogadvnv , hia yinogiwesi , 
+42020005b	gadono		gadono ra yiecoiyunei ?
+42020013	gado		hnaqono telvladi dawisv uceliga , hia nuwesei , gado dagadvneli ? aqeci cigeyui dacinvsi ; yanilvqoda yigi nasgi anigohvha .
+42020015	gado		howano uniugowisv telvladi dawisvi , unilei . nasgi iyusdi nasgi na telvladi dawisv uceliga gado dodagvneli nasgi ?
+42020017	gadono		dukahnanvno , hia nuwesei , gadono nasgi hia cinigvnv cigowela , dinanesgesgi uniyoiselvhi nvya nasgi nugvwiyusv unvsiyv adi nulistanv ?
+42020023	gadono		aseno udolehose anisinasanvgvi , ale hia niduweselei , gadono isgisadvvsga ?
+42020024a	gago		cigowadv agisi cugvwalodi . gago dagarilosdi , 
+42020024b	gago		ale gago acinohese hia cigowela ? unineceno , sisa , unadvnei .
+42020033	gago		nasgino hnaqo dilehisodi nigalistanilvha , gago udalii gesesdi nasgi , galiqo-giyeno iyanidv unadayvdv igi .
+42020041	gado		hiano nidu-weselei , gado digalisdodiha galonedv dewi uweci canadiha ?
+42020044	gadono		dewiyeno cagvwiyuhi goseha ; gadono digalisdodiha uweci igi ?
+42021007a	ilagono iyu		gvwadvdvneno hia nuniwesei , tadeyohvsgi , ilagono iyu hia nasgi nvdagalistani ? 
+42021007b	gado usdi		ale gado usdi uyelvdv gesesdi nahiyu hia nasgi cudalenvdv aliyeilolvha ?
+42022009	harv		hiano nigvwaweselei , harv casuliha oginadvnvisdodiyi ?
+42022011	herv		hiano nesdiweselvha asgaya ganela , dideyohvsgi hia nvdicaweseha , herv anedohi uniyvsdiyi nahna kanohiyegi iculaha ogalisdayvdiyi gvnisdawadidohi ?
+42022027	gagoyeno		gagoyeno uri acilvqodiyu , alisdayvhvsgi ano adasdelvhidohi ? rasgo nasgi na alisdayvhvsgi ? ayvsgini icvyeladidoha adasdelvhidohi nasgiyai .
+42022046	gadono		hiano niduweselei , gadono icilinaa ? dicalehvga icadadolisdi , nasgi udalenasdiyi gesv wiciyvsdiyi nigesvna .
+42022064	gago		degvwagadurvnvno ukadv degvwanihei , gvwadvdvsge hia naniwesgei , hadolehohi , gago cicvniga ?
+42022071	gadono		hiano nuniwesei , gadono igvdodi asi gohiyudisgi ? igvsvyeno edadvgasi uwasv kanegvi .
+42023022a	gadono		coineno hia niduweselei , gadono , 
+42023022b	gado usdi		gado usdi uyo dulvwisdanelv ? vra yiciwadveha gohusdi yeli gvwayohuhisdi gesvi ; nasgi iyusdi dacilivnili ale dodaciyosi .
+42023031	gado		iyuyeno ice rugv nasgi yinvdvnvneli , gado gesesdi ukayodv rugvi ?
+42024005	gadono		anisgaiheno ale eladi nidunvne dunakadvi , nasgi hia nigvwaniweselei , gadono gvnodv ieciyoha cuniyohusvhi nunadvnvi ?
+42024017	gado		hiano nisuweselei , gado isdinoheha hia nasgi cisdalinoheha isdaisvi ale uyoqo cinvwasdi cisdadanvta ?
+42024019	gado usdi		hiano niduweselei , gado usdi ? hiano nigvwaweselei , cisa naselidi cehvgi nulisdanelvi , nasgi adolehosgi cigesvgi , ulinigidv dulvwisdanelv ale dadeyohvsgv cigese unelanvhi agatahv ale nigadv yvwi anigatahvi .
+42024025	~		hnaqono hia niduweselei , icineguci , ale icadanvdv icisganoliyu icohiyudiyi nigav nuniwesv anadolehosgi !
+42024038a	gadono		hiano niduweselei , gadono icadeyataneha ? 
+42024038b	gadono		ale gadono curvwidv nicalisdane dodicadanvdvi ?
+43001019	gago		ale nasgi hia cani unohelvhi , nahiyu anicusi cilusilimi docuninvsv acilv-anelohi ale aniliwi gvwadvdvdiyi , hia iyuniwesdiyi ; gago nihi ?
+43001021	gagoge		ale vgvwadvdvnvgi hia nuniwesvgi ; gagoge ? ilayayago nihi ? hiano nuwesvgi ; vra . cigoge naadolehosgi nihi ? vra , udvnvgi .
+43001022a	gago		hnaqono hia nvgvwaweselvgi ; gago nihi ? widocinonediyiyeno nvdagoginvsvhi ; 
+43001022b	gado		gado hadiha cvsv hadanohesgvi ?
+43001025	gadono		gvwadvdvnvgino hia nigvwaweselvgi ; gadono cidehadawosga , iyuno nihi nasgi nagalonedv ale ilaya ale nasgi naadolehosgi nigesvna yigi ?
+43001038a	gado		cisano ugatahvsv , ale gvwasdawadisv dugohv , hia niduweselvgi ; gado isdiyoha ? hiano nigvwaweselvgi ; 
+43001038b	harv		taqi -- nasgi anervtanvhi gadvga tadeyohvsgi -- harv dicenv .
+43001046	~		nedanilino hia nuweselvgi ; yelisgo gohusdi osdv nvdagvwananugoisdi naselidi ? qiligi hia nuweselvgi ; inena , wagata .
+43001048	gado		nedanilihia nuweselvgi ; gado digalisdodi isgigataha ? cisa unecv hia nuweselvgi ; asiqo qiligi winicayanisgvna cigesvgi , egata-iyusdi rugvi hawinidirv cicolvgi , wigvgovgi .
+43002004	gado		cisano hia nuweselvgi ; higeyv gado ayv diginadadvdodi ? vra asi ayv yagisqalvelv .
+43002018a	~		anicusino uninecv hia nvgvwaweselvgi ; 
+43002018b	gado		gado adolehohisdodi gvnigesv nvdasgiyvneli , nasgi cinusdi cidecalvwisdaneha ?
+43003004	gado		nigadimasino hia nuweselvgi ; gado tigalisdoda yvwi yadehvga hnaqo agayvlige yigi ? cigo taline ucisiyi wiyayvha , yadehvga ?
+43003009	gado		nigadimasi unecv hia nuweselvgi ; gado yigalisdoda nasgi yinusdi ?
+43003012	gado		iyuno elohi nigalistanidohv icvnohehelv nicohiyuhvsgvna yigi , gado yigalisdoda yicohiyuhvga , galvladi nigalistanidohv yicvnohehelv ?
+43004009	gado		hnaqono nasgi ageyv sameliyi ehi hia nuweselei ; gado digalisdodiha nihi hicusi aditasdi isgitayoseha cigeyv sameliyi gei . ( anicusiyeno ale sameliyi anehi vra yidunadagasayasdoi . )
+43004011	harvno		ageyv hia nuweselei , hia nuweselei , hisgaya , vra gohusdi yiyeha arvdi , hawiniyuno atalesvi , harvno canegisv nasgi gvnidv ama ?
+43004027a	gado		hnaqono gvwasdawadidohi unilucvgi , ale unisqanigosvgi ageyv alinohedisgvi . aseno vra giloi , gado cayoha ? 
+43004027b	gadono		ale gadono ihiyalinohesdi ? yuwoselei .
+43005012	gago		hnaqono unadvdvnei , hia nuniwesei ; gago iyusdi nasgi asgaya , cacesdo hinagi ale heda , coselvhi ?
+43005044	gado		gado yigalisdoda yicohiyuhvga , icvsv decadalvqodisgv cidecadanilvga , niciyohvnano cigi vdadilvqododi gesv nasgi unelanvhi uwasvhiyu nvdayulisgolvdodi cigi ?
+43005047	gado		aseno nicohiyuhvsgvna yigi nasgi uwowelanvhi , gado yigalisdoda yicohiyuhvga ayv cinegvi ?
+43006005	harv		cisano dusaladanv digadoli , ale dugohv unicati digvwalucelisvi , hia nuweselvgi qiligi ; harv dagiwasi gadu hia unigisdi .
+43006009	~		asiyvwi awinuca ani edoha , nasgi dayeha hisgi ucalesdi-iyusdi gadu , ale tali cunasdi acadi deganeha ; aseno aseqokani nasgi , hiano cinunicata ?
+43006025	hilago iyu		gvwawadvhvno vdali isgonidirv hia nvgvwaweselvgi ; tadeyohvsgi , hilago iyu ani calucei ?
+43006028	gado		hnaqono hia nvgvwaweselvgi ; gado dayocadvneli dodayogilvwisdaneli unelanvhi uceliga digalvwisdanedi gesvi ?
+43006030a	gadono usdi		hnaqono hia nvgvwaweselvgi ; gadono usdi uyelvdv hinanugowisga , nasgi ogigowadvdiyi ale icvyoiyudiyi ? 
+43006030b	gado usdi		gado usdi decalvwisdaneha ?
+43006042	gadono		hiano nuniwesvgi ; rasgo hia nasgi na cisa yigi , cowa uweci , nasgi udoda ale uci didigatahi cigi ? gadono ulisdotanv , galvladi nvdvqaroasvhi , cadiha ?
+43006052	gado		hnaqono anicusi unvsvqo dunatiyolvgi , hia nuniwesvgi , gado yigalisdoda hia asgaya yigihvsi uwasv uwiya igalisdayvdodi ?
+43006060	gago		nasgi iyusdi unicadvgi gvwasdawadidohi unadvganv , hia nuniwesvgi ; nasgi hia asdayiyu kanohedv ; gago yeli yadvgvga ?
+43006062	~		iyunano yecigov yvwi uweci yulisaladanv nahna cusalenv yiwolosv ?
+43006068	gago		hnaqono sawani qida hia nuweselvgi ; cagvwiyuhi , gago cuwolv wvdayocilosi ? nihi casqanigodi kanohedv alisqadisgi nigesvna advnidisdodi .
+43007011	harv		hnaqono anicusi gvwayolvgi gvwayolvgi danalisdayvhvsgvi , ale hia nuniwesvgi ; harv nasgi edoha ?
+43007015	gado		anicusino unisqanigosvgi , ale nuniwesvgi ; gado ulisdotanv hia asgaya goweli disinasiyu cigi , cudeloqavhino nigesvna ?
+43007019	gadono		rasgo yisi yicinele dikahnawadvsdi ? aseno vra gilo yudasuya dikahnawadvsdi nigawesgv yinadvneha . gadono icaduli sgiisdiyi ?
+43007020	gago		unicati uninecvgi , hia nuniwesvgi ; asgina cayaa ; gago uduli cahisdiyi ?
+43007023	~		iyuno asgaya unadodaqasgv iga yacinvsdeseha , yinvdigalisdodiha dikahnawadvsdi mosi uceli uyoisdi nigesvna gesvi , cigo isgisgaga nvdigalisdodiha asgaya nigv ayelv cicinvwanv unadodaqasgv iga ?
+43007035	harv		hnaqono anicusi hia nidunadaweselvgi , harv wvdagalosi , gayediwadvdi nigesvna igesesdi ? cunadalenvdvsgo yvwi danewadisv unadigaleyocvhi dodvwadvhesi , ale widodageyoni cunadalenvdv yvwi ?
+43007036	gado		gado gadvga hia cinuwesv ; sgiyohesdi aseno dasgiyaroci , ale wigevi vra wiyvgecilugi ?
+43007041	~		igadvno hia nuniwesvgi ; hia nasgi galonedv . aseno igadv hia nuniwesvgi ; cigo galonedv gelili nvsiyunanugoisdi ?
+43007045	gadono		hnaqono dinadaniyisgi gvwanilucelvgi nunigvwiyusv acilv-anelohi ale aniqalisi . hiano niduniweselvgi ; gadono ra yvecatinoga ?
+43007048	~		cigo gilo nunigvwiyusv ale aniqalisi gvwohiyunv ?
+43007051	~		cigo digikahnawadvsdi duwugodaneho gilo asi nagadvganelvna cigesoi , ale dulvwisdanehv adolehosvhi nigesvna cigesoi ?
+43008005	gado		ka , mosi oginecvlvgi dikahnawadvsdiyi nasgi iyunasdi nvya digegvnisdodiyi ; aseno nihi gado hadiha ?
+43008010	harv		cisano udacinohistanv , ale ageyvqo uwasv ugohv , hia nuweselvgi ; higeyv , harv na gecuhisdisgi ? rasgo gilo casdenvcvi yidegugoda ?
+43008019	harv		hnaqo hia nvgvwaweselvgi , harv cadoda ? cisa hia niduweselvgi ; vra ayv yisgigataha , ale vra yecigataha edoda . iyuno ayv yisgigatahei , nasqo yecigatahe edoda .
+43008025a	gagonihi		hnaqono hia nvgvwaweselvgi ; gagonihi ? 
+43008025b	~		cisano hia niduweselvgi ; nasgiqo cicvyosehoi , udohiyuhiya nasgiqo .
+43008033	gadono		gvwanecelv hia nigvwaweselvgi ; ayv eqahami unervtanvdv , ale vra ilvhiyugilo yidoginarvnoi , gadono nidecinaravna nvdayecvneli , cadiha ?
+43008043	gadono		gadono ra yicoliga ciwonisgvi ? nvdigalisdodisgini cinegv yeli gecadvgodi nigesvna gesvi .
+43008046a	gago		gago udasuya hia cinicadvnvgvnigesv igvwanedi agisganvcvhi gesvi ? 
+43008046b	gadono		iyuno duyugodv yicinega , gadono ra yisgiyoiyuhvsga ?
+43008053	gago		cigo nihi uri ecalvqodiyu esgaqo eqahami ogidoda , cuyohusv ? ale nasqo anadolehosgi duniyohusv . gago nihi hacelvsga ?
+43008057	~		hnaqono anicusi hia nvgvweselvgi ; vra asi hisgisgohi icadetiyvdv yigi ; cisano higovhi igi eqahami ?
+43009002	gago		gvwasdawadidohino gvwadvdvnvgi , hia nuniwesvgi ; tadeyohvsgi , gago usganvcei , hiasgo , cugayvligeige , digewi cudenei ?
+43009010	gado		hnaqono hia nvgvwaweselvgi , gado ulisdotane tigadoli dulisduisei ?
+43009012	harv		hnaqono hia nvgvwaweselvgi ; harv edoha ? vra yicigataha , edvnvgi .
+43009016	gado		hnaqono igadv aniqalisi hia nuniwesvgi ; nasgi hia asgaya vra unelanvhi nvdayudalenvhi yigi , rayeno yasqanigodiha unadodaqasgvi . igadvno hia nuniwesvgi ; gado yigalisdoda yvwi asganai nasgi iyusdi usqanigodi yidulvwisdasi ? talino nunadadvgi .
+43009017	gado		talineno hia nuniweselvgi digewi ; gado nihi sediha nasgi hinohesgvi cidecasduielv tigadoli ? adolehosgi , unvdvnvgi .
+43009019	gadono		dunadvdvnvgino , nasgi hia nuniwesvgi ; hiasgo nihi isdeci , nasgi digewi udenvgi cisdadiha ? gadono ulisdotanv gohi cagowatiha ?
+43009026a	godo		hnaqono taline hia nuniweselvgi ; godo cvnele decasduiele tigadoli ?
+43009026b	~		
+43009027	gadono		unecv hia niduweselvgi ; gayula icvnonelv , aseno vra yicadvdastanei ; gadono icaduli taline icadvgodiyi ? nasqosgo nihi icaduliha ecisdawadidohi icalisdodiyi .
+43009034	~		uninecv hia nvgvwaweselvgi ; nvhvi asgani gesv cadenvgi , cigano ayv isgiyeyohvsga ? vgvwanugowisvgino .
+43009036	gago		nasgi unecv hia nuwesvgi ; gago nasgi , cagvwiyuhi , nasgi ciyoiyudiyi ?
+43010020	gadono		unicadvgino unadasuyvgi hia nuniwesvgi ; asgina uyaa , ale ulvnotiha ; gadono iecadvdasdaneha ?
+43010021	~		igadvno hia nuniwesvgi ; nasgi hia cinigawe cikanega vra asgina uyai uneisdi yigi ; cigo asgina yeli yidasduisi digewi digadoli .
+43010024	hilago		hnaqono anicusi gvwadaruwistanvgi , hia nigvwaweselvgi ; hilago nvdagohici sgiyeliisdisgesdi ? iyuno nihi galonedv gesesdi , sginohvsi duyugodvi .
+43010032	gado usdi		cisa unecvgi hia duniweselvgi , ucata yisdv digalvwisdanedi gesv edodoyi nvdayudalenvhi gvnigesv nicvyvnelv ; gado usdi nasgi digalvwisdanedi agisdvdia nvya cidesgiyvnisdiha ?
+43010036	~		cigo hisorvisdiha iecoseha agayvligei ulvqotanvhi ale elohi uluhisdiyi unvsidv , nvdigalisdodiha " ayv unelanvhi uweci " cigadv ?
+43011034	harv		ale hia nuwesvgi ; harv ecinvnei ? cagvwiyuhi , ehagata , gvwoselvgi .
+43011047	godo		hnaqono nunigvwiyusv acilv-anelohi ale aniqolisi dunilawidvgi , ale hia nuniwesvgi ; godo idadvneha ? hiayeno asgaya ucata usqanigodi dulvwisdaneha .
+43011056	gado		cisano uniyolvgi , ale udvnvdigalawisdiyi anidonav hia nidunadaweselvgi ; gado iceliha ? rasgo danalisdayvhvsgv yvdagaluci ?
+43012005	gadono		gadono hia aronedi vra yuninadinvse ale coicuqi agisi cunawalodi yiduniwadvhei , ale vra uyo iyunadvhnadegi nasgi yiduninelei ?
+43012027	gadono		hnaqo aqadanvdo edeyataneha ; gadono dagadvni ? [ hiasgo nvdaciwesi , ] edoda , squdalagi gohi gesvi ? aseno nasgi iyusdi cagisqalve gohi agisqalvediyi agilucilv .
+43012034a	gadono		yvwi uninecv hia nigvwaweselvgi , ayv ogadvganv dikahnawadvsdiyi nasgi galonedv ulisqadisdi nigesvna ehvi ; gadono yvwi uweci ase dayecisaladani ihadiha ? 
+43012034b	gago		gago nasgi na yvwi uweci ?
+43012038a	gago		nasgino udohiyunvgi unecv isaya adolehosgi , hia cinuwesei ; " cagvwiyuho , gago uwohiyunv oginohelvi ? 
+43012038b	gago		ale gago acinanugowiselv ugvwiyuhi kanogeni ? "
+43013025	gago		hnaqono cisa ganecii usdvgali hia nuweselvgi ; cagvwiyuhi , gago ?
+43013036	harv		sawani qida hia nuweselvgi , cagvwiyuhi , harv hai ? cisa unecelvgi ; wicigadv vra hnaqo yvgesgisdawaduga ; onisgini dasgisdawadesi .
+43013037	gadono		qida hia nuweselvgi ; cagvwiyuhi , gadono vra yeli hnaqo gagvsdawadvsdi yigi ? nihi nvdagalisdotani eladi dacini gvnvi .
+43014002	~		edoda ganelvi ucata dadanelv . iyuno nasgi nusdvna yigesei , yicvnonelei . gadvnvistani iciyvsdiyi .
+43014005	godono		dami hia nuweselvgi ; cagvwiyuhi , vra yocigataha wigadvi ; gadono yigalisdoda yocigataha wiganvnvi .
+43014009	gadono		cisa hia nuweselvgi ; cigo yvgohigi iculaha ineda , asisgono vra yisgigadovsga , qiligi ; gilo ayv agigohvhi cigesoi , ugohvhi geso agayvligei ; gadono hia nihiwea ; sginanugowisi agayvligei ?
+43014022	gado		cudasi , vra isgaladi , hia nuweselvgi ; cagvwiyuhi , gado dagalisdotani gvnigesv ayv nvdvsgiyadvneli , vrano elohi ?
+43016005	harv		hnaqono nvdvginvsidv cuwolv wicigati , vrano gilo nihi nicadvnv yudasuya yaqadvdvhvsga , hia yinigawe ; harv wigati ?
+43016017	gado		hnaqono igadv gvwasdawadisohi hia nidunadaweselvgi ; gado gadvga hia cinigiweseha ; nigohilvnaqo hnaqo vra yisgigowatisgesdi , ale hnaqo taline nigohilvnaqo isgigowatisgesdi ? ale nvdigalisdodiha agayvligesdvyi wicigadvi ?
+43016018	gado		nasgi iyusdi hia nuniwesvgi , gado gadvga nigohilvnaqo cadiha ? vra yocoliga nusdv gadvgvi .
+43018004	gago		cisano agatahiyu gesv nigav iyulisdanedi gesvi , uwenvsvgi hia winiduweselvgi ; gago eciyoha ?
+43018007	gago		hnaqono taline doudvdvnvgi , gago eciyoha ? duweselvgi hiano nuniwesvgi ; cisa naselidi ehi .
+43018011	~		hnaqono cisa hia nuweselvgi qida ; cihilada caceli ayelasdi-ganvhidv gala-disdiyi ; ulisqidi edoda aginelvhi , rasgo yvdagaditahi ?
+43018021	gadono		gadono ayv isqadvdvhvsga ? nasgi na tadvdvhvga unadvganvhi nasgi nigaciweselvi . gvniyuqo anigataha nagiwesvi .
+43018023	gadono		cisa hia nuweselvgi ; iyuno usonv aginecesdi , nasgi higatahi winigalisda usonv aginecvi ; iyusgini osiyu aginecesdi , gadono cisqvniha ?
+43018029	godo		qaledino dayunugocvgi anidonav ulucvgi , hia nuwesvgi ; godo ecuisdiha hia asgaya ?
+43018035	gado		qaledi hia nuwesvgi ; cigo ayv cicusi ? dicaceliga yvwi , ale nunigvwiyusv acilv-anelohi degecayosv gado cadvnelv .
+43018038	gado usdi		qaledi hia nuweselvgi ; gado usdi udohiyusv gesvi ? nasgino hia nuwesv , taline unugocvgi anicusi anidonav wulosvgi , ale hia winiduweselvgi ; vra yiciwatiha usganvcvi .
+43019009	harv		ale taline uyvlvgi digugodiyi , hia winuweselvgi cisa ; harv nvdacadalenvhi ? aseno cisa vra yunecelei .
+43019015	~		aseno unelunvqo hia nuniwesvgi ; hiluga ! hiluga ! hiyadvvga ! qaledi hia niduweselvgi ; daciyadvnisgo icaceliga ugvwiyuhi ? nunigvwiyusv acilv-anelohi hia nuniweselvgi ; vra yogikaha ugvwiyuhi , sisa uwasv !
+43020013	gadono		hiano nvgvwaweselvgi ; higeyv , gadono doharoyiha ? hiano niduweselvgi ; nvdigalisdodiha uninesv ugvwiyuhi aqaceliga , ale uninvnv nicigatahvna gesvi .
+43020015a	gadono		cisa hia nuweselvgi ; higeyv , gadono doharoyiha ? 
+43020015b	gago		gago hiyoha ? awiediyi osdv iyuwahnadegi uwelisvgi , hia nuweselvgi ; hisgaya , iyuno nihi hinawidvhesdi , sginohvsi winvnvi , ayvno dacinawidvhi .
+43021012	gago		cisa hia niduweselvgi ; ecalisdayvnuga . vrano gilo anadasdawadidohi , gago nihi , gvwosedi yigesei , anigatahvgiyeno ugvwiyuhi gesvi .
+43021020	gago		qidano ugatahvsv ugohvgi adasdawadisvgi cisa ugeyuhi adasdawadidohi , nasgi usdvgalvnvhi cisa ganeciyi analisdayvhvsgvi , ale hia iyuwedv cigi ; cagvwiyuhi , gago nasgi carudisgi .
+43021021	gadoi		qida nasgi ugohv , hia nuweselvgi cisa ; cagvwiyuhi , hianano gadoi ?
+43021022	gado		cisa hia nuweselvgi ; iyuno cilucvha gvdisgi ehesdi yaqelisv , gado nasgi cvdodi ? sgisdawadugaqo .
+43021023	gado		nasgi iyusdi anadanvri anehv uyelisvgi hia naniwesgvi , nasgi adasdawadidohi vra advyohusi . aseno cisa vra advyohusi vra yuwoselei , hiaqosgini nuweselvgi ; iyuno cilucvha gvdisgi ehesdi yaqelisv , gado nasgi cvdodi .
+44001011	gadono		nasgino hia nuniwesei ; icisgaya gelili icehi , gadono icidonaa galvladi widocikahna ? nasgi hia cisa ceciyanvsi galvladi ciwigalohi nasgiya nvdvdvneli dagaluci cecigowadv galvladi ciwigalohi .
+44002008	gadono		gadono digalisdodiha cidedadvgia didisiyvwiha degadvsv digiwonihisdi ?
+44002012	gado		nigadvno unisqanigosei ale unadanvtetanei , hia nidunadaweselei , gado hia gadvga ?
+44002037	gado		hnaqono nasgi unadvganv cuninawiyi dunicayolei ; hiano niduniwesele qida ale anisoi gecinvsidv ; icisgaya idadanvri , gado dayocadvneli ?
+44003012a	gadono		qidano udolehosv hia niduwesele yvwi ; icisgeya isili cuweci , gadono icisqanigosga hia , 
+44003012b	gadono		ale gadono uyanvsvhi dosginaganiha , nasgiya oginvsv doginalinigvgv ale osdosiyu gesv coginvtanoi hia gvwedasdi cinosdvneloi .
+44004007a	~		ale lino dunikanv hia nuniwese dunadvdvnei ; 
+44004007b	gago		gago ulinigvgvi ale 
+44004007c	gago		gago gadov isdvtanv , hia nisdadvnelv ?
+44004016	gado		hia nuniwesei ; gado dodadvneli hia anisgaya , nuļasidvsvnayeno usqanigodi dunilvwisdanelv gvnigesv nunalisdanelv nigadv cilusilimi anehi , ale vra yeli yvgedadayiga .
+44004025a	gadono		hinvsidasdi dewi aholi cvtanvhi hia icawedv cigi ; " gadono cunadalenvdv yvwi unitalawosei , 
+44004025b	~		ale yvwi unadanvtele iyunadvnediyi nasgi igvwalisdodi nigesvna gesvi .
+44005003	gadono		qidano hia nuwesei ; eninaya , gadono sedani canawi icakalielv , hiyacigonediyi galvqodiyu adanvdo , ale cagvwalanvhi .
+44005004	gadono		cinvwasdvqo rasgo caceligaya yigesei ? canadinvno rasgo yicahe hadanvtesgvqo icvnediyi ? gadono hia nasgi niusdi icorvnv canawiyi ? vrasgini yvwiqo yigiyacigonelv , unelanvhisgini hiyacigonelv .
+44005009	gadono		hnaqono qida hia nuweselei ; gadono cisdaligonv esdigoliyediyi ugvwiyuhi uceli adanvdo ? gvniyuqo aqo galohisdiyi cunalasideni cayehi gvwanisanvhi , nasgino nihi dvgecanawidvhi .
+44007026	gadono		ugicvdvno dunanugocele analihvi , ale gagohisdanehe hia nuwesei ; " isdisgaya , disdadanvriqo ; gadono uyo nidosdadadvneha ? "
+44007027	gago		aseno ucatini iyudvnelvhi nav icunadala diuwesadoyeqo , hia nuwesei ; gago nicagvwiyusadegi ale disgiyugodanehi icakanv nihi ?
+44007035	gago		nasgi hia mosi cuniyoisele hia cinuniwesei , gago nicagvwiyusadegi ale dugodisgi cakanv , nasgi unelanvhi unvse nugvwiyusadegi ale unudalesgi nuwanele uwatane dikahnawadidohi gvnigesv iyudvnelvhi uweyodadvi .
+44007049a	gado usdesdi		" galvladi agidiyi elohino diqalasidiyi . gado usdesdi galicode dasgiyanesgeli ? adiha ugvwiyuhi ; 
+44007049b	harv		ale harv aqalidohisdodiyi ;
+44007052	gado usdi		gado usdi nasgi na anadolehosgi gesv dicigayvlige vra uyo iyunvnelvhi yigi ? ale deunilv unadolehodvhi gvnigesv iyunvnelvhi uluhisdiyi nasganvna nasgi nihi ecilonuelvhi ale ecilvhi cinulistanv ;
+44008031	gado		nasgino hia nuweei ; gado yigalisdoda , iyuno gilo naqasehehvna yigi ? utayoleno qiligi ucodiyi ale iculaha cunidiyi .
+44008033	gago		uyo nudvhnadegvi acigielvgi uceli gesv duyugodvi ; ale gago dodakanoheli yvwi nahiyu cehe anehi ? gvnvyeno unigisvgi elohi . "
+44008034	gago		ayunagano unecv hia nuwesele qiligi ; gago kanoheha adolehosgi hia nasgi cinigawese ? uwasvsgo , nvwadalege giloi ?
+44008036	gado		amaisvno nvnohi , amayi unilucei . ayunagano hia nuwesei ; ani ama , gado agiyosdodane vqawosdiyi ?
+44009004	gadono		eladino unvcv udvgane gilo kanegvi hia nuwesehvi ; sola , sola , gadono uyo nisqvneha ?
+44009005	gago		hiano nuwesei ; gago nihi , cagvwiyuhi ? ugvwiyuhino hia nuwesei ; ayv cisa uyo ciniyvneha : udeyadodiyu dicahvtesdiyi digosdaya .
+44009006	gado		nasgino uwenawe ale usqanigose hia nuwesei ; cagvwiyuhi , gado caduli aqadvnediyi ? ugvwiyuhino hia nuweselei ; talehvga , digaduhv hena , dayecanonelino icadvnediyi .
+44010004	gadoi		dukahnanvno ale usgalv hia nuwesei ; gadoi , cagvwiyuhi . hiano nuweselei ; hadadolisdisgv ale hadanelvvsgv dulisaladanv anvdadisdodi iyulisdodiyi unelanvhi agatahvi .
+44010021	gado		hnaqono qida ureasv widulucelv aniwinv kaniliya cunvsidv gvwayanvhilvhi , hia nuwesei ; gvniyuqo ayv nasgi ceciyoha . gado culiyeilvstanv hia cicilugi ?
+44010029	~		nasgino iyusdi gohusdi nasgonelosgvna dvqenvsvgi wvgiyanvhelvqo . nasgino iyusdi icvyedvdvhvga nvculisdotanv wisgiyanvhvi .
+44010047	~		cigo gilo yunvsdohi ama hia nasgi digegawosdiyi nasgi nasqo galvqodiyu adanvdo cigecinelv nasgiya ayv egenelvi ?
+44011017a	gado		iyuno unelanvhi cunelvhi yigi udanedi gesv nasgiya ciginelvgi ayv nasgi edoiyunvhi ugvwiyuhi cisa galonedv , gado ayv gese yeli gaciyosdodanedi gese unelanvhi .
+44011017b	~		
+44012018	~		igano nulistanv vra usdiqo yunadeyatanele aniyawisgi nasgi qida winudvnetanvi .
+44013025	gago		canino hnaqo akaliihe culawisdanedi gesvi , hia nuwesei ; gago sgiyeliseha ? vra ayv nasgi yigi , aseno gvniyuqo oni dayai nasgi dulasulv vra ayv yeli digvgikaneyvdi yigi .
+44014015	gadono		hia naniwesgei ; icisgaya , gadono nasgi hia nicadvneha ? ayv nasqo yvwiqo nasgiya nicalisdanehv iyoginalisdanehi , ale icvyalicidoneha diciyohisdiyi hia aseqoqo nicadvnehvi , wicagatahvsdiyino gvnidv unelanvhi idirv , nasgi uworvnvhi cigi galvloi ale gadohi ale ameqohi ale naniv nahna anehi ;
+44015010	gadono		ka gadono iecigoliye unelanvhi , decigilanaladisgv anohiyuhvsgi , nasgi digigayvlige ale nasqo igvsv yeli gegagilanaladisdi nigesvna cigesvgi .
+44016030	gado		dunugowisvno hia nuwesei ; isdisgaya , gado dagadvneli vgisdelvdiyi ?
+44017018	gado		gilono iyunasdi anigatahnai aniqigula ale anisdoiga gvwalinohetanvgi ; igadvno hia nuniwesvgi ; gado uduli udvdiyi hia nuwelvdvna gawonisgi ; anisoino hia ; nvwanadale yvwi cunaceli galvladi anehi digananugowisgi nvwasdi ; nvdagalisdodisgvgi dalicidonehvi cisa ale dilehisodi gesv ugvwali .
+44017019	~		wigvwayanvhvno elioqiga gvwatinolvgi , hia nuniwesvgi ; cigo gayogadvgodiqo nusdv nasgi hia ice dideyodi gesv nasgi cinoheha ?
+44019003	gado usdi		hiano niduweselvgi ; gado usdi didawosdodi gesv decawostanei ? cani cudawosdodi gesv , unadvnvgi .
+44019015	gago		uyono adanvdo unecv hia nuwesei ; cisa cigataha , ale qola cigataha , nihisgini gago icasdi ?
+44019035	gago		digowelisgino duyosdodanelv yvwi , hia nuwesvgi ; icisgaya eqisa icehi , gago eha nagatahvna gaduhv eqisa nasgi edadadolisdanehi gesv galvqodiyu galvladi ehi dayeni , ale cuqodo nvdayuloosvhi dirilostanvhi ?
+44021013a	gado		aseno qola unecv hia nuwesvgi gado iciyelvdi , 
+44021013b	~		cideciyvga ale cicidawodiha aginawi ; aqadvnvisdiyeno , vra vqalvsdiyiqo uwasv , nasqosgini agiyohuhisdiyi cilusilimi , nvdigalisdodisgv dudov ugvwiyuhi cisa .
+44021022	gadono		gadono advnedi ? ase unadarisodi unicati , dvnadvganiyeno calucvi .
+44021033a	~		hnaqono nugvwiyusv didatinidohi nav ulucv , uniyvhvgi , ale unecvgi tali cudadesvdv cagalvsdodiyi , ale udvdvnvgi iyusdi gesv , asgaya , 
+44021033b	~		ale nudvnelvi .
+44022007	godono		eladino aginvcvgi , kanegvno aqadvganvgi , hia nagiweselvgi ; sola , sola , godono uyo nisqvneha ?
+44022008	gago		ayvno aginecv hia nagiwesvgi ; gago nihi , cagvwiyuhi ? hiano nagiweselvgi , ayv cisa naseliti cesgi , nasgi uyo ciniyvneha .
+44022010	gado		hiano nagiwesvgi , gado dagadvneli , cagvwiyuhi ? ugvwiyuhino hia nagiweselvgi ; talehvga , demasga hena , nahnano dayecaqaneli nigav dudugotanv icadvnediyi .
+44022016	gadono		ka , gadono ihadohidiha ? talehvga , ale wecawoca , ale hosuli casganvcvi , hitayohihesdi hvdisgesdi deudov ugvwiyuhi .
+44022026	~		asgohicuqino ditinidohi , nasgi udvganv , wunonelvgi nugvwiyusv didatinidohi , hia winuwesvgi ; heyatahesdi hia cinvtadvneli ; hiayeno asgaya alomi .
+44023003	~		qolano hia nuweselvgi ; unelanvhi dacvnili nihi , asoyi unegvigvnelvhi ; colayeno geli disqegodanediyi nasgiwo dikahnawadvsdi nigawesgvi ? cigono ihinega vqvnisdiyi dikahnawadvsdi dohigatilega ?
+44023009	~		ucatino unelunvgi ; dinowelisgino aniqalisi unaligosv unaligohi dunalenvunadisvgi , hia nuniwesvgi ; vra gohusdi uyo yociwadveha hia asgaya , iyusgini adanvdo ale dikahnawadidohi unecelvhi gesesdi , resdi unelanvhi cedariyvelvgi .
+44023019	gado		nugvwiyusvno didatinidohi uwoyanesv , iyvdv udelisv wutinvstanvgi , udvdvnvgi , hia nuwesvgi ; gado nasgi na sginonedi cigi ?
+44026008	gadono		gadono gagohiyudi nigesvna iciyelvso unelanvhi culedodi gesv cuniyohusvhi ?
+44026014	gadono		nigadvno eladi doginvcv , nanegv aqadvganvgi aginecehvgi , anicusi uniwonihisdi gvdisgvgi ; hia nigawesgvgi sola , sola , gadono uyo nisqvneha ? udeyadodiyu dicahvtesdiyi digosdaya .
+44026015	gago		hiano nagiwesvgi ; gago nihi , cagvwiyuhi ? hiano nuwesvgi ; asi cisa nasgi uyo ciniyvneha .
+45002017	~		gvniyuqo , acusi decadov , ale dikahnawadvsdi calisgasdodi , ale hiyarvqasdodi unelanvhi ,
+45002021	~		nasgino nihi nvwadale hiyeyohvsgi cigi , rasgo cvsv yadadeyohvsga ? nihi halicidohvsgv resdi canosgisvgi cadiha , cigo ihinosgiha ?
+45002028	~		vrayeno nasgi na acusi yigi , gaduqo idirv acusi yigi ; vra ale nasgi na ahusdesdi gesv yigi , gaduqo idirv uqedalvqo yigi ;
+45003001a	gadogeno		gadogeno usdv uri nudvnv acusi ? 
+45003001b	gado usdesdi		ale gado usdv gvwadasdelvdi ahusdesdi gesvi ?
+45003003	gadono		gadono iyu igadv nunohiyunvna yigi ? cigo nunohiyunvna gesv aseqoqo yinigvga unelanvhi gagohiyudi gesvi ?
+45003005	gado		aseno iyuno niduyugodvna nogadvnelv gvnigesv yinigvneha duyugodv iyadvnehi gesv unelanvhi , gado dadadvni ? asganvgasgo unelanvhi nasgi cidasdvdisdodiha ? ( yvwiqo iyuwesdi niciweha ) .
+45003006	gado		gvwarisdi ; iyuyeno nasgi yinusdi gado yigalisdoda unelanvhi elohi yidegugodasi ?
+45003007a	~		iyuyeno duyugodv kanegi gesv unelanvhi uri igai uneqocvhi yigi nasgi galvqodiyu nuwanehvi ayv gacigohvsgv yinvdigalisdodiha , 
+45003007b	gadono		gadono ayv nasqo asiqo dvqugodaneha cisgana nasgiyai ?
+45003008	~		alesgo vra nasgi hia yugvwiyuha , ( nasgi gayogisorvdv cigoginoheha , ale gilo nasgi naniwe cigogoseha , ) uyo degilvwisdanehesdi nasgi osdv gesv uliyeilvsdiyi ? nasgi unisganvcv cunadugodanediyi duyugodi .
+45003009	gadoge		gadoge ugvwiyuha ? urisgo nidohi ? vra usdigidv unv ; gayulayeno degugotanv nasgi icula anicusi ale cunadalenvdv yvwi , nigadiyu asganvisdi gesv unadanuyvdvi .
+45003027a	harvgeno		harvgeno arvqasdi gesvi ? iyvdv igvnelvhi . 
+45003027b	gado usdi		agado usdi dikahnawadvsdi gatanvhi ? 
+45003027c	~		digalvwisdanediyisgo adanecehi ? vra ; dikahnawadvsdisgini gvtanvhi gohiyudi gesv adanecehi .
+45004001	gado		nasgino cinusdi gado dadadvni eqahami igidoda uwadvhv uqedali gesv nvdayudalenvdv ?
+45004003	gadoyeno		gadoyeno adiha galvqodi goweli ? eqahami uwohiyune unelanvhi , nasgino duyugodv iyadvnedi gesv aciyelvnanelei .
+45004010	ilagiyuno		ilagiyuno nasgi nusde aciyelvnanelei ? cigo aciusdeselvhi cigesei ? cigoge aciusdeselvhi nigesvna cigesei ? vra aciusdeselvhi cigesei , aciusdeselvhisgini nigesvna cigesei .
+45005010	~		iyuyeno , asi edisgagi cigesvgi edoisdanelvhi yigi unelanvhi gvtanvhi uweci uyohusvi , hnaqo gohi edoisdanelvhi cigi , urihi udohiyuhiya egisdelvdi gesesdi nasgi gvnodv gesv iyusdi .
+45005021	~		nasgino asgani cugvwiyusadegvgi ayohuhisdi gesv gananugowisgvi , nasgiya nasqo gvwagatiya udadolisdi gesv ugvwiyusadegi iyulisdodiyi gvnidv gananugowisgv gvtanvhi adudalesdodi gesv cisa galonedv ugvwiyuhi igaceli iyuwanisadv .
+45006001	gadogeno		gadogeno dadadvni ? cigo asiqo gedisganvgesdi nasgi iyuwanisodiyi uneqoisdiyi gvwagatiya udadolisdi gesvi ?
+45006002	gado		gvwarisdi . ayv digiyohusvhi asganvisdi gesv ugvwali , gado yidulisdoda yeli asi nahna adalenida ?
+45006015	gadono		gadono ? idisganvgesdisgo , nvdigalisdodisgesdi dikahnawadvsdiyi nigadanuyvdvna gesvi , gvwagatiyasgini udadolisdi gesv igadanuyvdvi ? gvwarisdi .
+45006021	gado usdi		nahiyuno cigesvgi gado usdi icinuqocehe nasgi gohi cicadehosga ? ayohuhisdiyeno gesv wuliyeilohisdi nasgi .
+45007007	gadogeno		gadogeno dadadvni ? cigo dikahnawadvsdi asganiqo ? gvwarisdi . vrasgini asgani yigvgigadovse vra dikahnawadvsdi ; vrayeno yigacigatahe uyo adulvnvdi gesvi , iyuno dikahnawadvsdi hia nuwesvna yigesei , resdi cadadulvelvgi .
+45007024	gago		uyosdvqo naqasdi ayv ! gago dvqedalesi hia nasgi ciyelv adahihi aqadudalvdvi .
+45008024	gadono		udugiqoyeno igvha egisdelvdiyi ; udugisgini owasv agohvhi cigesoi vra udugi yowasoi ; gohusdiyeno cvgowatisgoi , gadono asi udugi yigayowaha ?
+45008031a	gadono		gadono dadadvni hia nasgi cinusdi ? 
+45008031b	gago		iyuno unelanvhi yigisdeliha gago yigaruda ?
+45008032	gado		nasgi na nugeyunvna cigese uwasv uweci , ciduyoseqosgini ayv nidiv igisdelisgvi , gado yigalisdoda nasgi degiyohisehv aseqo digegiyohisedi nigesvna yinigalisda nigadiyu gohusdi ?
+45008033	gago		gago unisganvcv dodaguhistani unalenvhi cusuyedv ? cisa unelanvhi , nasgi unudalesgi ?
+45008034	gago		gago cunugodanehi ? galonedvsgo , nasgi cunihusei , vv , ale nasqo nasgi cidulehinv , nasgi nasqo unelanvhi agadisidirv cuwola , nasgi nasqo cigalisdiyedaneha ?
+45008035	gago		gago iyvdv nvdagvneli galonedv igigesvi ? cisa agiliyoisdi gesvi , ale uwelihisdi adanvdadisdi gesvi , ale uyo iyvdadvnedi gesvi , ale udagonulohisdi gesvi , ale digiyelvha gesvi , ale unayehisdi gesvi , ale ayelasdi-ganvhidv ?
+45009014	gado		nasgino cinusdi gado dadadvni ? cigo niduyugodvna gesv uweha unelanvhi ? gvwarisdi .
+45009019a	gadono		hia ka geli nvdvsgiweseli , gadono asiqo esga ayelvsga ? 
+45009019b	gagoyeno		gagoyeno dugatilenv nusdv adanvtesgvi ?
+45009020a	gago		aseno nihi yvwiqo gago icasdi cineceha dehigatilegv unelanvhi ? 
+45009020b	~		cigo gohusdi arvnvhi hia nvdagaweseli nasgi uworvnvhi , 
+45009020c	gadono		gadono nasgi hia nisqvnelv isqorvnv ?
+45009021	~		rasgo diwali digorvsgi yuha adanvtesgv iyuwanelidasdiyi gadaqala , nasgiqo ganaqalvsv agvhalvdv saqo atelido uworvdiyi galvqododi , nvwadaleno galvqodidi nigesvna ?
+45009022	gadono		[ gadono yusdi , ] iyuno unelanvhi udulisgv gvnigesv iyuwanediyi utalawohisdi gesvi , ale ulinigvgv unanugowisdiyi , gvnidiyu gesv gvdisgv gohidiyu unelagi yiduweliselv ditelido utalawohisdi gesv dirisdi , didvnvistanvhi didvdodiyi ;
+45009023	~		ale nasgi [ udulisgv ] gvnigesv iyuwanediyi uceli ucatanvhi galvqodiyu gesv degvdisgv ditelido udadolisdi gesv dirisdi , nasgi cudvnvistanvhi cinigese galvqodiyu digesv wunadediyi ,
+45009024	~		nasgi ayv , igiyanvdv cigi , vra anicusiqo unvsv anehvi , nasqosgini cunadalenvdv yvwi anehvi ;
+45009030	gado		nasgino cinusdi gado dadadvni ? nasgi na cunadalenvdv yvwi , nasgi adudalesdi gesv nunisdawadvsvna gesv , nasgi adudalesdi gesv uniwadvhv , nasgi gohiyudi gesv adudalesdodi cigi .
+45009032	gadono		gadono ? nvdigalisdodiha nasgi gohiyudi gesv nunvtanvna gesvi , dikahnawadvsdisgini nigawesgv iyadvnedi gesv unvtanvi ; dunodestaneyeno nasgi na nvya didadodehihi gesvi ;
+45010006	gago		gohiyudisgini adudalesdodi gesv hia nigaweha , resdi canawiyi hia yiniwesgesdi , gago galvloi dayesi ? ( nasgi galonedv agarovdodiyi ; )
+45010007	gago		ale gago asdvgi gesv wvdagalosi ? ( nasgi galonedv uyohusv culedodiyi ; )
+45010008	gado		aseno gado adiha ? kanohedv hehv navniyu nusdidega , nasgi hiholiqo , ale canawiyiqo eha ; nasgi hia kanohedv gohiyudi gesv kanohesgi , nasgi ayv cocalicidohvsga ;
+45010014a	gadono		gadono yigalisdoda yanadadolisdasi gilo nunohiyusvna yigi ehvi ? 
+45010014b	gado		ale gado yigalisdoda yanohiyuhvga gilo ehv nasgi unadvganvhi nigesvna yigi ehvi ? 
+45010014c	gado		ale gado yigalisdoda yanadvgvga gilo alicidohvsgi nunehvna yigi ?
+45010015	gado		ale gado yigalisdodi yanalicidohvga iyuno nigecinvsvna yigi ? nasgiya hia cinigvnv cigowela , niduwoduha cunalasideni nasgi na osdv kanohedv nvwadohiyadv adanehi analicidohvsgi , osdv kanohedv analicidohvsgi nasgi osdv ugvwali gesvi .
+45010016	gago		aseno vra naniv unohiyunvhi yigi osdv kanohedv . isayayeno hia nigaweha , yihowa , gago uwohiyunv ocinohesgvi ?
+45011004	gado		aseno gado adiha unelanvhi uwohiliyvsdanehvi ? gvqalinohiyediyi naqvnelv galiqogi iyagayvli iyanidv anisgaya nasgi nidunaliniqanvnelvna qeali .
+45011007	gadono		gadono [ wigvdvdi nigalisdiha ? ] isili vra yuwadvhv nasgi cuyohvgi ; gegasuyedvsgini gesv uniwadvhv , anisoino dunigusiyocvgi .
+45011015	gado		iyuyeno nasgi gecisonvistanvi unohisdanehi yinigalisdi elohi , gado ulisdodi gesesdi degegadanilvcvha , duniyohusvsgini dunalehisanv gesesdi .
+45011018	~		resdi yitarvqi-sehesdi duwanigalvi . iyusgini yarvqisga , vra nihi duhnasderv yitinanugowisga , duhnasdervsgini nihi gecananugowisga .
+45011033a	~		nasewiniyv ucatanvhi agadosaniyu gesv ale agatanaiyu gesv unelanvhi ! nagavqo gvgoliyedi nigesvna nusdv degugodisgvi , 
+45011033b	~		ale uwedasdiyi gesv gagoluwadvdi nigesvna !
+45011034a	gagoyeno		gagoyeno ugadovso nusdv udanvdv yihowa ? 
+45011034b	gago		ale gago unateqolono unadanvteloi ?
+45011035	gago		ale gago dudalenvtanv unelv , ale taline dvagaguyveli ?
+45014004	gago		gago nihi cidehiyugodane nvwadale unvsidasdi ? uwasvqo unvsidohi ulisgasdodi gadogv ale ganvgvi . vv , aciyosdodanedi gesesdi unvisdiyi ; unelanvhiyeno yeliqo ulediyi igvwanedi .
+45014010a	godono		ale nihi , godono dohiyugodaneha isdalinvri ? 
+45014010b	gadono		ale nihi nasqo , gadono nvlisaliqo ihiyelvsga isdalinvri ? nigadiyuyeno igvyidirv wigaledi gesesdi galonedv cuwugodiyi uwesgilvi .
+46001020a	harv		harv asinasani ? 
+46001020b	harv		harv digowelisgi ? 
+46001020c	harv		harv gawonisgv adisvhihi ani elohi ehi ? rasgo unelanvhi alisganedvqo yinuwanelv asinasanv elohi ?
+46002011	gagoyeno		gagoyeno iyusdi yvwi cudalenvdv yvwi cuceliga agataha ? uwasvqosgini yvwi udanvdo nasgi cuyaa . nasgiya nasqo cusalenvdv unelanvhi cuceliga vra gilo yagataha , unelanvhi udanvdo uwasv .
+46002016a	gagage		gagage ugadovso yihowa udanvdvi , 
+46002016b	~		nasgi yeli gvweyodi igvwalisdodi ? ayvsgini galonedv udanvdv igeha .
+46003005a	gagogeno		gagogeno iyusdi qola , 
+46003005b	gago		ale aqola gago ? rasgo gecinvsidasdiqo yigi , nasgi iyunvnisadv cicohiyunvgi , nasgiya ugvwiyuhi anisiyvwiha dunelvi ?
+46004007a	gagoge		gagoge nvwadalenicvnelv ? 
+46004007b	gado		ale gado caha nasgi necanelvna gesvi ? 
+46004007c	gadono		iyuno ecanelvhi yigi , gadono iharvqisga necanelvnaqo cigeso nasgiyai ?
+46004021	gadono		gadono icaduliha ? cigo ganasda cinei wvsacvluceli ? cigoge adageyudiyu gesv , ale udanvti adanvdo gvdi wvdacvluceli ?
+46005002	~		docadeqvhisdiqono nihi , ale vra uyoqo yiciyelvnv , nasgi hia iyudvnelvhi gayecinugowisdi icadarugv iyulisdodiyi ugvwali .
+46005012	gadono		gadono yidigaciyugodaneha nasgi nasqo doyidirv anehi ? rasgo nihi yidicugodaneho nasgi na aniyai ?
+46006001	~		iyuno gilo icehv gohusdi yuha nvwadale uyeilidasdodi , yeliqosgo niduyugodvna iyanadvnehi dunolv yidecadayeilida , vrano unadanvti dunolvi ?
+46006003	~		rasgo yicigataha dinikahnawadidohi digedugodanedi gesvi ? vrasgono yeli yidogedugoda gohusdi gohiqo gesv ugvwali ?
+46006004	~		iyuno gohusdi yiciha digugododi gohiqo gesv ugvwali , nasgi decikahvsgesdi cunugododiyi esga iyvdv geciyelvi nahna icadarugvi .
+46006007a	gadono		nasgi cinusdi gvnigesviyu ucatini nicadvnehvi , nvdigalisdodiha icvsvqo decadayeilidohvi . gadono uri osiyu niciyelvsgvna cigi uyo iyecvnediyi ? 
+46006007b	gadono		gadono uri osiyu niciyelvsgvna cigi cugvwalodi ecigiediyi ?
+46006009	~		rasgo yicigataha nasgi niduyugodvna iyanadvnehi unaceli iyulisdodi nigesvna gesv unelanvhi uceligohi ? resdi icilidastanvgi ; nasqo udelidv dinanisihvsgi , ale unalanvhi diyelvhi dinadadolisdanehi , ale dinadayonehi , ale anisgaya digeciyegi , ale anisgaya anisgayaqo dinisorvdisgi ,
+46006016	~		raqosgo yicigataha nasgi gilo unegucidv cidunadudado saqoqo aniyelv gesvi ? hiayeno nigaweha , anitali saqoqo nigalisdisgesdi uniqedalvi .
+46006019	~		raqosgo yicigataha nasgi diciyelv ganelv gesv galvqodiyu adanvdo nasgi ciciyaa , nasgi unelanvhi icinelvhi gesvi , ale nihi icvsv icadaceli nigesvna gesvi ?
+46007016a	gadoyeno		gadoyeno digalisdodiha ihigataha , higeyv , gahisdelvdi nigesvna gesv cayehi ? 
+46007016b	gado		ale gado digalisdodiha ihigataha hisgaya gahisdelvdi nigesvna gesv casalii ?
+46009007a	gago		gago ilvhiyu dahnawa egoi uwasvqo uguyvhidasdi aguyvdi gesvi ? 
+46009007b	gago		gago dawisgo telvladi nidigeyesgvnano geso unadadvnvhi ? 
+46009007c	gago		ale gago dagatiyo awi , nalisdayvdisgvnano geso unvdi awi uninenvhi ?
+46009018	gadono		gadono vqaguyvedi gesesdi ? hia nasgi , nasgi osdv kanohedv galicidohvsgesdi cugvwalodi nigesvna iyaqvnediyi osdv kanohedv galonedv uceliga ; nasgi uyo iyaqadvnediyi nigesvna nusdv aqasvgalv osdv kanohedv gesvi .
+46010019a	gadono		gadono gadiha ? 
+46010019b	~		cigo unelanvhi ayelvhi gohusdi gadiha ? 
+46010019c	~		cigoge nasgi na alisgolvtanvhi acilv gelasdanedi unelanvhi ayelvhi gohusdi , gadiha ?
+46010029	gadoyeno		adanvdogi gesv gadiha , vra adina cvsv cadanvdogi , soisgini udanvdogi ; gadoyeno galisdodi ayv iyaqadvnedi agihv nvwadale udanvdo cuwugododi yinigalisdiha ?
+46010030	gadono		iyuyeno alihelisdi gesv gvdi yigalisdayvhvsga , gadono nayo vginoheha nvdigalisdodi nasgi na ugvwali cigalieliga ?
+46011022	gado		rasgono yidicinelv nahna italisdayvdiyi ale itaditasdiyi ? cigoge icisorvdiha cunanelodi unadarugv unelanvhi uceliga , ale decadehohisdiha nunihvna ? gado dacvyoseli ? dacvlvqotanicu ? hia nicvdvnehv vra yicvlvqodiha .
+46012017a	harv		iyuno nigv ayelv agata yigi , harv advgododi yigi ? 
+46012017b	harv		iyuno nigv advgododi yigi , harv owewasvisdodiyi yigi ?
+46012019	harv		iyuno nigadv saqoqo uwirv yigi , harv ayelv yigi ?
+46014006	gado usdi		iyuno , idalinvri , yinicvlucelv ilvsgi iyudalegi yidiciwoniha , gado usdi yicvneqosi , iyusgininonv icvwonedisgv gohusdi yicvnanugowiseha , ale icigadovhisdiyi yinicvyvneha , ale yigadolehosga , ale yidigadeyohvsga .
+46014007	gado		nasqoyeno gohusdiqo gvnodv nigesvna , yunoyvga , aceluhisdi ale dikanogisdodi yigi , iyuno cudalehnai nidunoyvgvna yigi , gado yigalisdoda yvdolehohi nasgi aceluhidv gesv ale nasgi dikanogidv gesvi ?
+46014008	gago		iyuyeno aceluhisdi gagolisdi nigesvna yunoyvga , gago yadvnvisda dahnawa uwenvsdiyi ?
+46014009	gado		nasgiya nasqo nihi , iyuno dicinogo digvdi gagolisdi niciwonisgvna yigi , gado yigalisdoda gvdolehohisdi yigi , niciwesv iciwonisvi ? ganolesgvyeno iciwonedisgi gesesdi .
+46014015	gado		gado howa usdi ? aqadanvdo gvdisgesdi gadadolisdisgesdi , ale gagolisdi gadadolisdisgesdi ; ale aqadanvdo gvdisgesdi decinogisgesdi ale gagolisdi decinogisgesdi .
+46014016	gado		nasgiyeno nusdv yigi , hnaqo halihelicv cadanvdo hvtanvha , gado yigalisdoda nasgi na nagatanavna uwediyi yuwola , yeli emenv yadv haliheligi ? nigoligvnayeno yigi niwesgvi .
+46014026	gado		gado howa usdi , idalinvri ? iyuno decilawigi , icisiyvwiha dikanogidv icadvnvisdoi , dideyodi icadvnvisdoi , cudalenvdv digawonihisdi icadvnvisdoi , gvnigesv igvnedi icadvnvisdoi , anervdodi icadvnvisdoi . nigadv adina decilvwisdanehv dicadalinigohisdodiyi ugvwalesdi .
+46014036	~		cigo nihi icehv cudalene kanohedv unelanvhi uceliga ? cigoge nihiqo icvsv icilucelei ?
+46015012	gadono		nasgino iyu galonedv uyohusvhi deulehisanv yagalicidohvsga , gadono igadv gecadasuyv hia nianiweha , vra cunalehisodi yigi cuniyohusvhi ?
+46015029a	~		
+46015029b	gado		iyuno nasgi nusdvna yigi , gado dvnadvneli cuniyohusvhi cinvdigalisdodisgo cidegegawosgoi ? 
+46015029c	gadono		iyuno cuniyohusvhi ase cunalehisodi nigesvna igesesdi , gadono cuniyohusvhi nvdigalisdodisgo dogegawosgoi ?
+46015030a	~		
+46015030b	gadono		ale gadono unayehisdi nigadvhnadega nigohilvi ?
+46015032	gado		iyuno yvwi iyunadvnedi iyaqadvnelvhi yigi , nvgi dininvsadi unisgasedi ogalilvhi yigi eqisa gaduhvi , gado gvgineqocedi osdv gesv , iyuno cuniyohusvhi cunalehisodi nigesvna yigi ? idalisdayvhvsgesdi , ale idaditasgesdi ; sunaleqoyeno dodadiyohusi .
+46015035a	gado		aseno gilo hia yinvgawi , gado dagegvneli dodagegaletani cuniyohusvhi ? 
+46015035b	gado usdesdi		ale gado usdesdi udorvsv diniyelv anilucvha ?
+46015055a	harv		nihi ayohuhisdi gesvi , harv cadacvyasdigesvi ? 
+46015055b	harv		nihi didanisodiyi gesvi , harv cadasegogisdi gesvi ?
+47002002	gago		iyuyeno uyo yicv yadanvdadistanv , gago osdv yaqadanvdadisda , nasgiqo na uwasv uyo ciyadanvdadistanvhi ?
+47002016	gagono		nasgi sunadalegi gesv adahihi gawasvgi nasgi unihihi nidocalisdaneha ; anisoino adadvnidisgi gawasvgi nasgi unvnidisgi nidocalisdaneha . gagono yeli gayegagenvdisdi hia nasgi digalvwisdanedi gesvi .
+47003008	~		rasgo ho yugvwiyusesdi galvqodiyu yigesesdi adanvdo ugvwali gesv digalvwisdanedi ?
+47003009	~		iyuyeno digalvwisdanedi didadugodanehi gesv gananuwisgi galvqodiyu yigi , ho ugvwiyuha udagonadvdi galvqodiyu adadudalesgi gesv digalvwisdanedi .
+47006014a	gadoyeno		resdi nidicadoligvna iculaha yidecigilanaladisgesdi nanohiyuhvsgvna ; gadoyeno usdi dunadudadv duyugodv gesv ale niduyugodvna gesvi ? 
+47006014b	gado usdi		ale gado usdi saqo nunvnv iga-gati ale ulisigi ?
+47006015a	gado usdi		ale gado usdi uroyi nunvnv galonedv ale qiliyili ? 
+47006015b	gado usdi		ale gado usdi iculaqo unaceliga geso gohiyuhvsgi ale gohiyuhvsgi nigesvna ?
+47006016	gado usdi		ale gado usdi didoligi nigalisdiha unelanvhi uceli adanelv ale unelanvhi dirilostanvhi ? nihiyeno nasgi gvnidv unelanvhi uceliga uneladisdiyi ; nasgiya unelanvhi hia cinewesv , nasgi na gaciyaesdi , ale anehv gedohesdi ; ale ayv gaciyanelanvhi gesesdi , ale unvsv diqaceli yvwi gesesdi .
+47011011	gadono		gadono ? cigo nicvgeyusvna gesv iyusdi ? unelanvhi aataha .
+47011029a	gago		gago awanagaloi , ayvno niciwanigalvna gesoi ? 
+47011029b	gago		gago duwodehihoi , ayvno nicileyvsgvna gesoi ?
+47012013	gadono usdi		gadono usdi nasgi nahna esga decohasga disoi cunanelodi dunadaruwadisvi , hia uwasv , nasgi ayv aqvsv gagedv nicv yvnelvna gesvi ? gesgivsiqo adina hia nasgi ucatini nicvyadvnelvi .
+47012017	~		cigo icvlonuesge gaciyvdisge gilo gacinvsidv wige-cilucelvhi ?
+48002014	gadono		aseno agigohv niduyugodvna nanadvnehvi , nasgiya duyugodv dadeyohvsgv osdv kanohedv , nigadv anigatahv hia nvciweselvgi qida , iyuno nihi , hicusi cigi , cunadalenvdv yvwi nunasdv nasgiya yinusdi yeha , anicusino nusdv anehv nasgiya nusdvna yigi hehvi , gadono anicusi nusdv anehv nasgiya unadediyi cinidehvneha cunadalenvdv yvwi ?
+48003001	gago		icinegu gelesiyi icehi , gago icilonasgitanv , nasgi icohiyudiyi nigesvna nicvnelv udohiyuhi gesvi , nihi decikanv cisa galonedv gvnigesv nagvnelv dadahnawasdv gadv icehvi .
+48003019	godono		godono gvdodi dikahnawadvsdi ? asganvisdi gesv nvdigalisdodisge wigudatanvhi gesei , nasgi unervtanvhi aciduisdanelvhi gesv unanugoisdi gesv gvdisgi ; [ ale nasgi dikahnawadvsdi ] dinikahnawadidohi osdv nunvhnadege nasgi cusvgale ayeli nelenehi .
+48004009a	gado		aseno gohi cigi , hnaqo ecigadovsvhi cigi unelanvhi , ale yadvnv unelanvhi icigadovsvhi cigi , gado digalisdodiha icacvha docalisgasdodiha awanagala ale uyo iyudvhnadegi dilenvdodi dideloqasdi , 
+48004009b	~		nasgi asi nahna cicaduli cecinara taline icalisdodiyi ?
+48004010	~		decisqanigodo dadodaqegvi , ale dacolanegvi , ale dasqalvhegvi , ale dadetiyvhegvi .
+48004015	~		nasgino nigavgi nvwadohiyadv icadanvdvgi ! icvyoi-yudanehayeno , nasgi iyuno yeli nasgi igvwalisdodi yigesei , icvsv yidicadagatedoisei , ale ayv yidisginelei .
+48004021	~		sginohvsi , nihi icadulisgi dikahnawadvsdi ahv icadanuyvdodiyi , rasgo yicadvgiha dikahnawadvsdi ?
+48004030	gado		aseno gado adiha goweli ? hinugowa acinarai ageyv ale nasgi uweci ; acinaraiyeno ageyv uweci , vra uweladisdodi yigesesdi uceli iyulisdodi gesv nacinaravna ageyv uweci .
+48005007a	gago		osiyu icadogiyasgvgi ; gago iciyosdodanele , 
+48005007b	~		ale gvnigeyuiyu ra gohusdi yvgedinugowa .
+48005007b	~		nasgi digecikahnawadvsdi nigesvna nulistanv udohiyuhi gesvi ?
+48005011	gadono		ale ayv idalinvri , iyuno ahusdesdi gesv asi yigalicidohvsga , gadono asiqo uyo nivqvhnadega ? hnaqo ahvdv nigalisdiha didadodesdisgi gesv dadahnawasdvi .
+49004009	gado		nasgino culenvhi cadiha , gado gadvga , iyuno igvyiyi nasqo curoasv eladirv degesadisv elohi ulucv nigadvgvna yigi ?
+50001018	gadogeno		gadogeno ? unelagi , nanadvnehvi , nasqo aseqoqo yinanadvneha , ale udohiyuhi yuniyelvha , golonedv acinoheha ; ale nahnani galieliga , vv , ale ase galieligesdi .
+50001021	~		asiyeno yaqalenidolv galonvdv cilvqododi , yagiyohusvno ayv agineqocedi .
+51002020	gadono		nasgi iyusdi , iyuno galonedv uyohusv diciyohusvhi gesesdi elohi ehi alenvdodi dideloqasdi ugvwali , gadono elohi ciceho nasgiya docanelodi dikahnawadvsdi ,
+52002019	gado usdi		gadoyeno udugi ogvha , ale gado osdv yigadanvdadiha , ale gado usdi alisdulo yagalihelisdodi ? rasgo nihi yigesesdi agatahv igaceli ugvwiyuhi cisa galonedv nahiyu galucvha ?
+52003009	~		talagoyeno igai alihelisdi yocaguyvdasi unelanvhi nihi gesv iyusdi , nvdigalisdodisgv nigav osdv adanvdadisdi gvsv nasgi ocadanvdadisgv nihi gesv ugvwali ogaceli unelanvhi agatahvi ;
+54003005	gado		iyuyeno gilo nagatahvna yigi uwasv dudatihnav osdv cukahnawadidasdiyi , gado yigalisdoda yidagasayasda cunanelohi unadarugv unelanvhi uceliga ?
+54006007a	~		rayeno gohusdi yigiyole ani elohi , 
+58001005	gago		dinikahnawadohiyeno gesv gago ilvhiyu hia nuweseloi , aqeci nihi gohi iga sqadehvsi ? ale nasqo hia ; ayv cigayvlige gesesdi , nasgino na ayaci gesesdi ?
+58001013	gadoge usdi		gadoge usdi dinikahnawadidohi gesv hia nuweseloi , cigatisidirv colesdi gvni gecesgagi gasgilo dicalasidiyi nigaciyvnelvha ?
+58001014	~		rasgo nasgi na nigadv didanvdo gecinvsidv cunisdelvhidasdiyi nasgi na alisdelvdodi gesv unaceli iyulisdodi cigi ?
+58002003	gado		gado yigalisdoda yidagudalagi , iyuno nigagasayastanvna yigi nasgi igalvqodi alisdelvdodi ; nasgi igvyi culenvhv cunohedv ugvwiyuhi , ale nasgi ayv cigegisdayidelvgi nasgi na gvwadvganelvhi ;
+58002006a	gado		asiyvwisgini ilvhirv unece , hia nuwesei , gado yvwi nasgi ciyadanvtesgoi ? 
+58002006b	~		ale yvwi uweci , nasgi ciyagatanihihoi ?
+58003016	gagoyeno		gagoyeno hnaqo unadvganv , unihnalvstanei ; rasgo nigadv iciqiyi nidodayudinvstanvhi yisi , nasgi yinunadvnelei ?
+58003017	gago		ale gago nvgasgohi cudetiyvdv duniqatilei ? rasgo nasgi na unisganvcvhi cigesei , nasgi na diniyelv inage cidunvcei ?
+58003018	gago		ale gago dunecele aselidvsgv nasgi uniyvsdiyi nigesvna gesv uceli acaweyvnusdodiyi ? rasgo nasgi yigese na nunohiyusvna cigesei ?
+58006004	~		gvwarisdiyeno nasgi na ilvhiyu igagegadisdanelvhi gesvi , ale unanelotanvhi gesv galvloi nvdayudalenvhi adanedi gesvi , ale galvqodiyu adanvdo gegaroyastanv gecinelvhi .
+58007011	gadono		nasgi iyusdi iyuno acilvgelasdi gesv aniliwi cigegasvgalode , nvsganvna igvwadadvnedi yigesei , ( acilv-gelasdiyeno gesv ale dikahnawadvsdi dunadudate yvwi ganadanilvcv ) gadono asi udulvdi nigalisdisge nvwadale acilvgelohi unanugoisdiyi maligisidegi nusdv nasgiyai , elanino nasgiya gayegosedi nigesvna gesvi ?
+58009014	ilago iyudv igai		ilago iyvdv igai urihiyu galonedv ugigv , dicadanvdo dodacinvgalveli dodacikahvsi adahihi decilvwisdanehvi , gvnidvno unelanvhi cecanelododiyi nvdacvneli nasgi winasdvna ehi adanvdo gvdisgv nudanvgalvna [ asgana , ] galonedv uwasv udalisgolvtanvhi cigi unelanvhi udalisgolvdanelvhi cigi ?
+58010001	~		dikahnawadvsdiyeno osdv uliyeilohisdi gesv udawadisdodv cuwehvgi , ale akalii dirilostanvhi nigesvna cigesvgi , vra yeliga , nasgi didasgolvdodi danvdisgv , nidadetiyvhisv nigohilv cidanalisgolvdisgei nahna anilugi nunigolv-na igvwanvnedi yigesei .
+58010029a	~		rasgo uri igai yinidogvwayugodi acisdvdisdodiyi gilo unelanvhi uweci ulasdaelvhi , 
+58010029b	~		ale nasgi na gigvkanohedv dirohisdotanvhi nasgi udanvgalotanvhi gesv gadaha uyelvnvhi , 
+58010029c	~		ale gagvwasorvtanvhi gvwagatiya adadoligi adanvdo .
+58010029d	~		
+58011032	gado		ale gado asi dagadvni ? vrayeno gvgisqadisdi yigi yigacinohelv gidiyani , ale qelegi , ale samisini , ale ceqida ; dewi nasqo , ale sami , ale anadolehosgi .
+58012007	gagoyeno		iyuno ecigiliyoisdisgesdi , nasgiya cuweci nidadvnehv nicadvneha unelanvhi ; gagoyeno eha ayoli nasgi udoda nugiliyoisdisgvna ?
+58012009	~		ale wo , uqedali gesv digidoda degehvgi , nasgi cigegigiliyoisdisgvgi ; ale gedilvqodiyu cigesvgi ; rasgo uri yinidogvwayugodi cedadayohisediyi digadanvdo cuworvnvhi cigi , ale igadvnidisdiyi ?
+58012025	~		iceyatahesdi resdiqo eciyoiselvgi nasgi na cikanega . iyuyeno nunadadiwiselvna yigi nasgi na uniyoisedv elohi unecvhi , urihiyu gvwarisdi igadadiwisediyi iyuno iyvdv yinedadvnelv galvladi cvdikanega ;
+58013006	~		nasgi iyusdi nidinayesgvna hia igegiwesdi , ugvwiyuhi agisdelisgi , ale vra yvgacisgaya yvwi igagvqvnedi gesvi .
+59002006	~		nihisgini vra yecigasayastanv uyo iyudvhvdegi . rasgo cunehnai uyo yinigecvhnadegoi , ale yidigecatinohiho digugododiyi ?
+59002014	gado		gado gvdodi , idalinvri , iyuno gilo aqohiyuha yadiha , nidulvwisdanehvnano yigi ? uwohiyusvsgo yeliqo yusdelv ?
+59002016a	~		gilono nihi icadarugv hia yinisuweselv ; nvwadohiyadv cicena , iciganawosvhi ale dicolvsvhi gesesdi ; nidicinehvnano igesesdi ayelv ulisdelvdodi gesvi ; 
+59002016b	gado		gado gvdodi nasgi ?
+59002018	~		udohiyuhi gilo hia yinvgawi , nihi cohiyuha , ayvno dagilvwisdaneha ; gvnigesv nisqvnisi cohiyusv decalvwisdanehv nvdisgvna gesvi , ayvno gvnigesv nvdagvyvneli aqohiyusv dagilvwisdanehv gvdisgvi .
+59002021	~		rasgo eqahami igidoda yududalestane dulvwisdanehvi , ulisgolvtanv uweci esigi acilv gelasdiyi ?
+59003013	gago		gago nihi nicadvnvi udasuya asinasani ale agatanii ? nasgi wigananugowa deulvwisdanehvi wigvdoda osiyu nadvnehvi , ale wigvdoda asinasaniyu gesv tali udvdesdi udanvti gesvi .
+59003017	~		galvladisgini nvdayudalenvhi cigi asinasaniyu gesv igvyiyi gadaha nigesvna gesoi , hnaqono gohisdisgi , ale udanvti , ale uwohiyuhisdv , ale akaliwohi adadolisdi gesvi ale osdv digalvwisdanedi gesvi , ale nudalvqodvna , ale uronasdi nigesvna .
+59004001a	harv		harv didalehvsga dahnawa 
+59004001b	~		ale dilisdi gesv nihi icehvle ? rasgo nasgi adulvdi gesv diciyelv hawini cidaliha nahna yvdidalehvsga ?
+59004012	gago		asiyvwi eha dikahnawadvsdi gorvsgi yeliqo gvwadasdelvdi ale gvwadahisdi ; gago nihi nvwadale cidehiyugodaneha ?
+59004014	gado usdi		nicigatahvnano iyulisdodi gesv sunalei ; decvnvyeno gado usdi ? ugvsedvqo nasgiyai nasgi rega cidunanugogoi hnaqono calidvdisgoi .
+60002020	gadogeno		gadogeno galvqododi nigalisdiha , iyuno ucatini nicadvnelv icisdvdisgesdi ecilivnihesdi icvnidiyu gesesdi ; iyusgini osdv nicadvnehesdi ale icigiliyogesdi icvnidiyu gesesdi , nasgi osdv ayeli gesv unelanvhi adanvtesgvi .
+60003013	gogono		gogono nasgi osinv yinicvga iyuno osdv gesv icisdawadegi yigi ?
+60004017	gado usdi		usqalvhvyeno nasgi digugodoti gesv unelanvhi uceli adanelv udalenvdiyi ; iyuno ayv yegalenvtanv gado usdi wunaliyilohisdi gesesdi nasgi na nunohiyusvna osdv kanohedv unelanvhi uceliga .
+60004018	~		iyu ale udanvti usegacvhi acisdelvdi gesesdi unelanvhi nidunelodvna ale asganai .
+61003004	gado		ale hia iyaniwesgi , gado ulistanv uluhisdiyi uduistanvi ? anigayvligeyeno gvwanilinvcvhi nvdagvwalenvdv , nvwasdiqo nigav gohusdi cinusdvqo cudalenvhv uworvnvnv nvdagvwadalenvdv .
+61003011	~		nasgino nigadiyu cudalenvdv udisvhvsdi cigi , nigav nicisganvna yigi icalenidohvi ale unelanvhi ganayehisdi gesv icehvi !
+62002022	gago		gago gayegogi , iyuno nasgi nigesvna yigi na adayihi cisa galonedv gesvi . nasgi na galonedvarudisgi , adayihi agayvligei ale uweci .
+62003012	gadono		vra nasgi gena nudvnelvi , nasgi unegucidv nvdayudalenvhi cigesei , ale unvri cule . gadono iulei ? nvdigalisdodisgesgini uwasv dulvwisdanehv uyoiyu gesvi , unvrino dulvwisdanehv osiyu gesvi .
+62003017	gado		gilosgini elohi ehi alisdelvdodi gesv cuwehoi , ale cagowatisgo dinadanvri unigvgvi , aseno nasgi casdunehoqo unawi , gado yigalisdoda yuweha unelanvhi ageyudi gesvi ?
+62004020	gado		iyuno gilo unelanvhi cigeyua yadiha , yasgagano dinadanvri , gayegogi nasgi , ugeyuhiyeno nigesvna yigi dinadanvri nasgi ugohvhi , gado yigalisdoda ugeyuhiyu yigi unelanvhi ugohvhi nigesvna gesvi .
+62005005	gago		gago na elohi asegogisgi iyuno nasgi nigesvna yigi nasgi na gohiyuhvsgicisa unelanvhi uweci gesvi ?
+66005002	gago		ale dikahnawadidohi ulinigidv vcigovgi uwelugvgi asdaya kanegvgi , hia nigawesgvgi , gago yeli gvwasduisdi goweli , ale digvwayosdodi nasgi dasdudvi ?
+66006010a	ilago		ale asdaya unelunvgi hia nuniwesvgi , ilago nvdagohici cagvwiyuhi , nihi nisganvna ale duyugodv ihadvnehi , 
+66006010b	~		gila dodagiyugodanelv dagisdvdistani ale dagiyarecei ogigigv unicvnv nasgi na elohi caneha .
+66006017	gagono		galvqodiyuyeno iga nahiyu utalawohisdi gesv usqalvhv ; gagono yeli gvwaledi gesesdi ?
+66007013a	gago		aniyvwino nasgi na cunadvsonvhi gesv unecvgi , hia nagiweselvgi , gago hia nacunegv cunanuwai cigi ? 
+66007013b	harv		ale harv cunadalenei ?
+66013004a	gago		ale unadadolisdanelvgi inadv nasgi nvgi-daganvsadi ulinigvgv unelvhi gesvi ; ale nasgi nvgi-diganvsadi unadadolisdanelvgi , hia nanewesgvgi , gago nvgi-diganvsadi nusdv nasgiya nusdi ? 
+66013004b	gago		gago yeli nasgi dahnawa yinanvga ?
+66015004a	gago		gago nicanayesgvna gesesdi nihi cagvwiyuhi , 
+66015004b	~		ale nigalvqodisgvna gesesdi decadovi ? nihiyeno cvsvhiyu nisganvna , nigadiyuyeno unadacelidv yvwi danewadisv dvniluci ale nicadvnv igvyirv dvnadadolistani ; nihiyeno dicogododi gesv gvnigesv nulistanv .
+66017007	gadono		dikahnawadidohino hia nagiweselvgi , gadono vcasqanigoli ? dagvnoneli nusdv gadvgv ageyv , ale nusdv gadvgv nvgidiganvsadi nasgi cugilvdi , nasgi galiqogi cidasgudadv ale asgohi ciduluga .
+66018018	gado usdi		ale unelunvgi iyuno unigohv dugasvsdv nasgi agohvsgvi , hia naniwesgvgi , gado usdi nasgiya gese nasgi hia eqa gaduhv nusdvi ?

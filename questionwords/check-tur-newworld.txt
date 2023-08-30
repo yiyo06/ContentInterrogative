@@ -1,0 +1,743 @@
+40002002	nerede		“ Yahudilerin yeni doğan kralı nerede ? Biz doğudayken onun yıldızını gördük ve önünde eğilmeye geldik ” dediler .
+40002004	nerede		Kral , bütün yüksek kâhinleri ve yazıcıları toplayarak onlara Mesih’in nerede doğacağını sormaya başladı .
+40003007	kim		Ferisilerden ve Sadukilerden birçoğunun vaftiz yerine geldiğini görünce Yahya onlara şöyle dedi : “ Siz engerek soyu , gelecek gazaptan kaçabileceğinizi size kim söyledi ?
+40005013	nasıl		Siz yeryüzünün tuzusunuz , fakat tuz özelliğini kaybederse , ona nasıl yeniden tat verilir ? Artık hiçbir işe yaramadığından dışarı atılır ve ayaklar altında çiğnenir .
+40005046	ne		Eğer sizi sevenleri severseniz ne kazancınız olur ? Vergi tahsildarları da aynı şeyi yapmıyor mu ?
+40005047	~		Sadece kardeşlerinize selam verirseniz , olağanüstü bir şey mi yapmış olursunuz ? Diğer milletlerden insanlar da aynı şeyi yapmıyor mu ?
+40006027	hanginiz		Hanginiz kaygılanmakla ömrünü bir parça olsun uzatabilir ?
+40006028	neden		Ayrıca , neden giyecek konusunda kaygı çekiyorsunuz ? Kır zambaklarına bakın ve ders alın . Nasıl büyüdüklerini düşünün . Ne çalışıp didinir ne de iplik eğirirler ,
+40006031a	ne		Öyleyse ‘ Ne yiyeceğiz ? ’ 
+40006031b	ne		‘ Ne içeceğiz ? ’ ya da 
+40006031c	ne		‘ Ne giyeceğiz ? ’ diyerek kaygı çekmeyin .
+40007003	neden		Öyleyse neden kardeşinin gözündeki çöpe bakıyorsun da kendi gözündeki merteği görmüyorsun ?
+40007004	nasıl		Kendi gözünde mertek varken , kardeşine nasıl ‘ Dur gözündeki çöpü çıkarayım ’ dersin ?
+40007009	hanginiz		Gerçekten de , hanginiz , oğlu kendisinden ekmek istediğinde ona taş verir ?
+40007016a	~		Onları meyvelerinden tanıyacaksınız . İnsanlar hiç dikenlerden üzüm ya da 
+40007016b	~		çalılardan incir toplar mı ?
+40008026	neden		Fakat İsa , “ Ey az imanlılar , neden yüreksizlik ediyorsunuz ? ” diye karşılık verdi . Sonra kalkıp rüzgârı ve suyu azarladı , ortalık sütliman oldu .
+40008027	nasıl		Hayrete düşüp şöyle dediler : “ Bu nasıl biridir ki , rüzgâr ve su bile onun sözünü dinliyor ? ”
+40008029	ne		Adamlar , “ Ey Tanrı’nın Oğlu , bizden ne istiyorsun ? Vaktinden önce bize eziyet etmek için mi buraya geldin ? ” diye haykırıyorlardı .
+40009004	neden		Onların ne düşündüğünü bilen İsa şöyle dedi : “ Neden yüreklerinizden kötü düşünceler geçiriyorsunuz ?
+40009005	hangisi		Hangisi daha kolay ? ‘ Ayağa kalk ve yürü ’ demek mi , yoksa ‘ Günahların bağışlandı ’ demek mi ?
+40009011	neden		Bunu gören Ferisiler öğrencilere , “ Sizin öğretmeniniz neden vergi tahsildarları ve günahkârlarla yemek yiyor ? ” diye sormaya başladı .
+40009014	neden		O zaman Yahya’nın öğrencileri İsa’ya gelip , “ Neden Ferisiler ve biz oruç tutuyoruz da senin öğrencilerin tutmuyor ? ” diye sordular .
+40009015	~		İsa şöyle cevap verdi : “ Güvey yanlarında olduğu sürece sağdıçlarının yas tutmasına gerek var mı ? Fakat güveyin yanlarından alınıp götürüleceği günler gelecek , işte o zaman oruç tutacaklar .
+40010025	neler		Öğrenci öğretmeni gibi , hizmetkâr da efendisi gibi olursa iyidir . İnsanlar ev sahibine Beelzebub dedilerse , ev halkına neler demezler !
+40011007	ne		Yahya’nın öğrencileri yola çıkınca İsa oradaki kalabalığa Yahya hakkında şunları söyledi : “ Çöle ne görmeye gittiniz ? Rüzgârla sallanan bir kamış mı ?
+40011008	ne		Öyleyse ne görmeye gittiniz ? Güzel yumuşak giysiler giymiş bir adam mı ? Yumuşak giysiler giyenler kral saraylarında bulunur .
+40011009	neden		Gerçekten , oraya neden gittiniz ? Bir peygamber görmeye mi ? Evet , şunu bilin ki , gördüğünüz kişi bir peygamberden de ötedir .
+40011016	kimlere		Bu nesli kimlere benzeteyim ? Çarşı meydanlarında oturup oyun arkadaşlarına bağıran küçük çocuklara benziyorlar .
+40012011	hanginiz		Onlara şöyle cevap verdi : “ Tek bir koyununuz olsa ve Sebt günü çukura düşse , hanginiz onu tutup oradan çıkarmaz ?
+40012026	nasıl		Aynı şekilde , eğer Şeytan Şeytan’ı çıkarıyorsa kendi içinde bölünmüş demektir . O zaman onun krallığı nasıl ayakta kalabilir ?
+40012027	kimin		Eğer ben cinleri Beelzebub yardımıyla çıkarıyorsam , oğullarınız kimin yardımıyla çıkarıyor ? İşte bu nedenle sizi yargılayanlar kendi oğullarınız olacak .
+40012029	nasıl		Ya da bir kişi nasıl güçlü bir adamın evine girip malını çalabilir ? Ancak önce onu bağlarsa evini yağmalayabilir .
+40012034	nasıl		Siz engerek soyu , kötü kişiler olduğunuz halde nasıl iyi şeyler konuşabilirsiniz ? Çünkü ağız yürekten taşanı söyler .
+40012048a	kim		İsa bunu söyleyen adama dönüp , “ Benim annem kim , 
+40012048b	kim		kardeşlerim kim , biliyor musun ? ” diye sordu .
+40013010	neden		Bunun üzerine öğrencileri ona gelip , “ Neden onlarla konuşurken hep örnekler kullanıyorsun ? ” diye sordular .
+40013027	nasıl		Bunun üzerine toprak sahibinin adamları gelip ona , ‘ Efendimiz , sen tarlana iyi tohum ekmemiş miydin ? Öyleyse nasıl oluyor da delice çıkıyor ? ’ diye sordular .
+40013054a	nereden		Kendi memleketine gelince , halka kendi havralarında Tanrı’nın sözünü öğretmeye başladı . Onlar da hayretler içinde şöyle diyordu : “ Bu adam bu hikmeti ve büyük işler yapma gücünü nereden almış ?
+40013054b	~		
+40013056	nereden		Ya kız kardeşleri , onlar da aramızda değil mi ? Öyleyse bu adam bütün bu şeyleri nereden edindi ? ”
+40014031	neden		İsa hemen elini uzatıp onu tuttu , “ Ey az imanlı , neden kuşkuya kapıldın ? ” dedi .
+40015002	neden		“ Senin öğrencilerin neden atalarımızın geleneklerini çiğniyor ? Örneğin , yemek yemeden önce ellerini yıkamıyorlar . ”
+40015003	neden		İsa da onlara şöyle karşılık verdi : “ Peki siz neden gelenekleriniz uğruna Tanrı’nın emrini çiğniyorsunuz ?
+40015033	nereden		Fakat öğrencileri ona , “ Bu ıssız yerde bu kadar büyük kalabalığı doyuracak ekmeği nereden bulacağız ? ” diye sordu .
+40015034	kaç		Bunun üzerine İsa , “ Sizin yanınızda kaç ekmek var ? ” dedi . “ Yedi ekmek var ; birkaç da küçük balık ” dediler .
+40016008	neden		Bunu fark eden İsa şöyle dedi : “ Neden kendi aranızda hiç ekmeğimiz yok diye konuşuyorsunuz ? Ey az imanlılar !
+40016009	kaç		Hâlâ anlamıyor musunuz ? Beş bin erkeğin beş ekmekle nasıl doyduğunu ve artanlarla kaç sepet doldurduğunuzu hatırlamıyor musunuz ?
+40016010a	nasıl		Ya da dört bin erkeğin yedi ekmekle nasıl doyduğunu 
+40016010b	kaç		ve artanlarla kaç küfe doldurduğunuzu unuttunuz mu ?
+40016011	nasıl		Sizinle ekmek hakkında konuşmadığımı nasıl fark etmiyorsunuz ? Size Ferisilerin ve Sadukilerin mayasından sakının , diyorum . ”
+40016013	kim		İsa , Filipos Sezariyesi bölgesine geldiğinde öğrencilerine , “ İnsanlar İnsanoğlunun kim olduğunu söylüyor ? ” diye sordu .
+40016015a	ne		O zaman , “ Peki siz ne dersiniz ? 
+40016015b	kimim		Ben kimim ? ” diye sordu .
+40016026a	neye		Bir insan bütün dünyayı kazanıp da canını kaybederse neye yarar ? 
+40016026b	neye		Ya da canına karşılık ne verebilir ?
+40017010	neden		Fakat öğrenciler İsa’ya , “ Peki yazıcılar neden önce İlya’nın gelmesi gerektiğini söylüyor ? ” diye sorunca ,
+40017017a	ne kadar		İsa şu karşılığı verdi : “ Ey imansız ve bozuk nesil , daha ne kadar aranızda kalacağım ? 
+40017017b	ne kadar		Daha ne kadar size katlanacağım ? Onu bana getirin . ”
+40017019	neden		Bunun üzerine İsa yalnızken öğrencileri yanına gelip “ Onu biz neden çıkaramadık ? ” diye sordular .
+40017025a	ne		O da “ Evet , ödüyor ” dedi . Fakat eve girdiğinde İsa ondan önce söze başlayıp şöyle dedi : “ Simun , ne dersin ? 
+40017025b	kimlerden		Dünyadaki krallar gümrüğü ya da baş vergisini kimlerden alır ? Kendi oğullarından mı , yoksa yabancılardan mı ? ”
+40018001	kimdir		Bu sırada öğrenciler İsa’nın yanına gelip , “ Acaba göklerin krallığında en büyük kimdir ? ” diye sordular .
+40018012	ne		Ne dersiniz , bir adamın yüz koyunu olsa ve onlardan biri yolunu şaşırsa , adam doksan dokuz koyunu dağda bırakıp yolunu şaşırmış olanı aramaya çıkmaz mı ?
+40018021	kaç		O zaman Petrus yanına gelip , “ Efendim , kardeşim bana karşı kaç defa günah işlerse onu affetmeliyim ? Yedi defaya kadar mı ? ” diye sordu .
+40019007	neden		O zaman İsa’ya , “ Öyleyse Musa neden bir kadından boşanmak için boşanma belgesi verilmesini söyledi ? ” diye sordular .
+40019016	nasıl		Derken , birisi yanına gelip , “ Öğretmen , sonsuz yaşamı elde edebilmek için nasıl bir iyi iş yapmalıyım ? ” diye sordu .
+40019017	neyin		İsa da , “ Neden bana neyin iyi olduğunu soruyorsun ? İyi olan bir Kişi vardır . Bununla birlikte , hayat kazanmak istiyorsan emirlere uy ” dedi .
+40019018	hangilerine		Adam “ Hangilerine ? ” diye sorunca , İsa şöyle dedi : “ Adam öldürmeyeceksin . Zina yapmayacaksın . Çalmayacaksın . Yalan şahitlik etmeyeceksin .
+40019020	ne		Genç adam İsa’ya , “ Bütün bunlara zaten uyuyorum . Başka ne eksiğim var ? ” diye sordu .
+40019025	kim		Öğrenciler bunu duyunca çok şaşırdılar ve “ Öyleyse kim kurtulabilir ? ” dediler .
+40019027	ne		O zaman Petrus , “ Bak , biz her şeyi bıraktık ve senin ardından geldik ; bizim kazancımız ne olacak ? ” diye sordu .
+40020006	neden		Son olarak , günün on birinci saatinde çıktı ve orada duran başkalarını gördü . ‘ Neden bütün gün burada boş duruyorsunuz ? ’ diye sordu .
+40020012	~		‘ Bu son gelenler bir saat çalıştı , fakat sen gün boyu güneşin alnında çalışan bizlerle onları bir tuttun ! ’ diyorlardı .
+40020021	ne		İsa ona “ Ne istiyorsun ? ” diye sorunca kadın , “ Bana söz ver , krallığında bu iki oğlumdan biri sağında biri de solunda otursun ” dedi .
+40020032	ne		Bunun üzerine İsa durup onları yanına çağırdı ve “ Sizin için ne yapmamı istiyorsunuz ? ” diye sordu .
+40021010	kim		İsa Yeruşalim’e girdiği zaman , bütün şehir “ Bu da kim ? ” sorusuyla çalkalanıyordu .
+40021016	ne		İsa’ya , “ Şunların ne söylediğini duyuyor musun ? ” diye sordular . İsa da “ Evet ” dedi . “ ‘ Küçük çocukların ve emziktekilerin ağzından övgüler işittirdin ’ sözlerini hiç okumadınız mı ? ”
+40021020	nasıl		Bunu gören öğrenciler şaşırarak , “ İncir ağacı birden nasıl kurudu ? ” dediler .
+40021023a	hangi		İsa mabede girdikten sonra Tanrı’nın sözünü öğretirken , yüksek kâhinler ve halkın ihtiyarları yanına gelip , “ Bunları hangi yetkiyle yapıyorsun ? 
+40021023b	kim		Bu yetkiyi sana kim verdi ? ” diye sordular .
+40021025a	nereden		Yahya vaftiz etme yetkisini nereden aldı ? Gökten mi , yoksa insanlardan mı ? ” Aralarında fikir yürütmeye başladılar : “ 
+40021025b	~		Eğer ‘ Gökten ’ dersek , 
+40021025c	neden		‘ Öyleyse neden ona inanmadınız ? ’ diyecek .
+40021028	ne		“ Şuna ne dersiniz ? Bir adamın iki çocuğu vardı . Birincisine gitti ve ‘ Oğlum bugün bağa gidip çalış ’ dedi .
+40021031	hangisi		Bu ikisinden hangisi babasının isteğini yapmış oldu ? ” “ İkincisi ” dediler . İsa da onlara şöyle dedi : “ Emin olun ki , sizden önce vergi tahsildarları ve fahişeler Tanrı’nın krallığında bir yer ediniyor .
+40021040	ne		Bu durumda , bağın sahibi geldiğinde o bağcılara ne yapacak dersiniz ? ”
+40022012	nasıl		‘ Arkadaş , düğün kıyafeti giymeden buraya nasıl girdin ? ’ diye sorunca adamın dili tutuldu .
+40022017	ne		Şimdi bize söyle , Sezar’a baş vergisi ödemek Kanuna uygun mu , değil mi ? Sen ne dersin ? ”
+40022018	neden		Fakat İsa niyetlerinin kötü olduğunu bildiğinden şöyle dedi : “ İkiyüzlüler , beni neden deniyorsunuz ?
+40022020a	kime		O zaman onlara , “ Bu resim ve yazı kime ait ? ” diye sordu .
+40022020b	~		
+40022028	hangisinin		O halde , dirilmede kadın bu yedi kardeşten hangisinin karısı olacak ? Çünkü hepsi onu eş olarak almıştı . ”
+40022036	hangisidir		“ Öğretmen , Kanundaki en büyük emir hangisidir ? ”
+40022042a	ne		“ Mesih hakkında ne düşünüyorsunuz ? 
+40022042b	kimin		Sizce o kimin oğlu ? ” “ Davut’un ” dediler .
+40022043	nasıl		İsa da onlara şöyle dedi : “ Öyleyse , nasıl oluyor da Davut ilhamla ona ‘ Efendim ’ diye hitap ediyor ?
+40022045	nasıl		Davut ona ‘ Efendim ’ diyorsa , Mesih nasıl Davut’un oğlu olabilir ? ”
+40023017	hangisi		Ey akılsız ve kör adamlar ! Aslında hangisi daha önemlidir ? Altın mı , yoksa altını kutsal kılan mabet mi ?
+40023019	hangisi		Kör adamlar ! Aslında hangisi daha önemlidir ? Sunu mu , yoksa sunuyu kutsal kılan sunak mı ?
+40023033	nasıl		Ey yılanlar , ey engerekler soyu , Hinnom Vadisi cezasından nasıl kaçacaksınız ?
+40024003a	ne zaman		İsa Zeytinlik Dağında otururken öğrencileri özel olarak yanına gelip şöyle dediler : “ Bize söyler misin , bu olaylar ne zaman olacak ? 
+40024003b	ne		Senin hazır bulunuşunun ve bu ortamın sonunun alameti ne olacak ? ”
+40024045	kimdir		Evin hizmetkârlarına yiyeceklerini vaktinde vermesi için Efendinin onların başına atadığı sadık ve sağgörülü hizmetkâr gerçekten kimdir ?
+40025037	ne zaman		O zaman doğru kişiler ona şöyle karşılık verecek : ‘ Efendimiz , biz ne zaman seni aç görüp doyurduk , susamış görüp içecek verdik ?
+40025038	ne zaman		Ne zaman yabancı olduğunu görüp konuk ettik , çıplak görüp giydirdik ?
+40025039	ne zaman		Ne zaman seni hasta ya da hapiste görüp yanına geldik ? ’
+40025044	ne zaman		O zaman onlar şöyle karşılık verecek : ‘ Efendimiz , biz seni ne zaman aç , susuz , yabancı , çıplak , hasta ya da hapiste gördük de sana hizmet etmedik ? ’
+40026008	niye		Bunu gören öğrencileri kızarak , “ Bu savurganlık niye ?
+40026010	neden		İsa bunu fark ederek onlara şöyle dedi : “ Neden kadının canını sıkıyorsunuz ? O benim için güzel bir şey yaptı .
+40026015	ne		“ Onu ele verirsem bana ne verirsiniz ? ” dedi . Onlar da ücretini otuz gümüş olarak belirlediler .
+40026017	nerede		Mayasız Ekmek Bayramının birinci gününde öğrencileri İsa’nın yanına gelerek “ Fısıh yemeğini yemen için nerede hazırlık yapmamızı istersin ? ” dediler .
+40026040	~		İsa öğrencilerinin yanına geldiğinde onları uykuda buldu ve Petrus’a seslendi : “ Sizler benimle birlikte bir saat bile uyanık kalamadınız mı ?
+40026050	neden		İsa ona , “ Arkadaş , neden buradasın ? ” dedi . O zaman ötekiler öne çıktılar ve İsa’yı yakalayıp tutukladılar .
+40026054	nasıl		Fakat o zaman böyle olması gerektiğini bildiren Kutsal Yazılar nasıl yerine gelirdi ? ”
+40026062a	~		Bunun üzerine başkâhin ayağa kalkıp İsa’ya , “ Bir şey söylemeyecek misin ? 
+40026062b	ne		Aleyhindeki bu tanıklık hakkında ne diyorsun ? ” diye sordu .
+40026065	ne		Bunun üzerine başkâhin kaftanını yırtarak , “ Tanrı’ya küfretti ! ” dedi . “ Artık tanıklara ne gerek var ? Küfrü kendiniz de duydunuz .
+40026066	ne		Bu duruma ne diyorsunuz ? ” Onlar “ Ölümü hak etti ! ” diye cevap verdiler .
+40026068	kim		“ Hey Mesih , sana vuran kim ? Peygambersen söyle bakalım ” diyorlardı .
+40027004	ne		“ Doğru bir insanın kanına girerek günah işledim ” dedi . Onlar da “ Bundan bize ne ? Onu sen düşün ! ” dediler .
+40027013	ne çok		O zaman Pilatus , “ Senin aleyhinde ne çok şey söylüyorlar , duymuyor musun ? ” dedi .
+40027017	hangisini		Halk bir araya toplanmışken Pilatus onlara şöyle dedi : “ Hangisini serbest bırakmamı istersiniz , Barabbas’ı mı , yoksa Mesih denilen İsa’yı mı ? ”
+40027021	hangisini		Vali onlara , “ Bu ikisinden hangisini sizin için salıvereyim ? ” deyince , “ Barabbas’ı ” dediler .
+40027022	ne		Pilatus , “ O zaman Mesih denilen İsa’yı ne yapayım ? ” diye sordu . Hep bir ağızdan , “ Direğe gerilsin ! ” dediler .
+40027023a	neden		Vali , “ Neden ? 
+40027023b	ne		O ne kötülük etti ? ” diye sordu . Fakat onlar daha da çok bağırarak “ Direğe gerilsin ! ” dediler .
+40027046	neden		Dokuzuncu saate doğru İsa yüksek sesle , “ Eli , Eli , lama sabaktani ? ” diye bağırdı . Bu , “ Tanrım , Tanrım , beni neden bıraktın ? ” anlamına gelir .
+41001024	ne		“ Ey Nasıralı İsa , bizden ne istiyorsun ? Bizi yok etmeye mi geldin ? Senin kim olduğunu biliyorum ; Tanrı’nın Kutsal Kulusun ” diyordu .
+41001027	nesi		Hepsi öylesine şaşkına dönmüştü ki , “ Bu da nesi ? ” diye aralarında tartışmaya başladılar . “ Yeni bir öğretme yöntemi ! Kötü ruhlara bile yetkiyle emrediyor , onlar da itaat ediyor ” diyorlardı .
+41002007a	neden		“ Bu adam neden böyle konuşuyor ? Tanrı’ya küfrediyor . 
+41002007b	kim		Tanrı’dan başka kim günahları bağışlayabilir ? ” diye geçiriyorlardı .
+41002008	niçin		İsa onların ne düşündüğünü ruhunda hemen fark ederek şöyle dedi : “ Niçin yüreğinizden bu düşünceler geçiyor ?
+41002009	~		Bu felçli adama , ‘ Ayağa kalk , döşeğini topla da yürü ’ demek mi daha kolay , yoksa ‘ Günahların bağışlandı ’ demek mi ?
+41002016	~		Ancak Ferisi yazıcılar , onun günahkârlarla ve vergi tahsildarlarıyla yemek yediğini görünce , öğrencilerine İsa için , “ Vergi tahsildarlarıyla ve günahkârlarla mı yemek yiyor ? ” demeye başladılar .
+41002018	neden		Yahya’nın öğrencileri ve Ferisiler oruç tutarlardı . Bu yüzden İsa’nın yanına gelip , “ Neden hem Yahya’nın hem de Ferisilerin öğrencileri oruç tutuyor da seninkiler tutmuyor ? ” diye sordular .
+41002019	~		İsa onlara şöyle dedi : “ Güvey yanlarındayken , sağdıçları oruç tutabilir mi ? Güvey aralarında olduğu sürece tutamazlar .
+41002024	neden		Bunun üzerine Ferisiler ona , “ Şuraya bak ! Neden Sebt gününde yapılması yasak olan şeyi yapıyorlar ? ” dediler .
+41003004	~		Sonra onlara , “ Sebt günü iyilik yapmak mı kanuna uygundur , yoksa kötülük yapmak mı ? Can kurtarmak mı , yoksa öldürmek mi ? ” diye sordu . Onlar ise sustular .
+41003023	nasıl		Bunun üzerine kendilerini yanına çağırıp örneklerle konuşmaya başladı : “ Şeytan Şeytan’ı nasıl çıkarabilir ?
+41003033a	kim		Buna karşılık İsa , “ Benim annem kim , 
+41003033b	kim		kardeşlerim kim , biliyor musunuz ? ” diye sordu .
+41004013	nasıl		Sonra onlara , “ Bu örneği anlamıyorsanız , diğerlerini nasıl anlayacaksınız ? ” dedi .
+41004030a	neye		Sonra şunları söyledi : “ Tanrı’nın krallığını neye benzetelim , 
+41004030b	nasıl		onu nasıl bir örnekle anlatalım ?
+41004038	~		İsa ise arka taraftaydı , bir yastık almış uyuyordu . Onu uyandırıp , “ Öğretmen , boğuluyoruz , aldırmıyor musun ? ” dediler .
+41004040a	neden		Onlara , “ Neden yüreksizlik ediyorsunuz ? 
+41004040b	~		Hiç mi imanınız yok ? ” dedi .
+41004041	kim		Onlar ise çok korkmuşlardı , birbirlerine , “ Bu adam gerçekten kim ki , rüzgâr da su da onun sözünü dinliyor ? ” diyorlardı .
+41005007	ne		Haykırarak , “ Yüceler Yücesi Tanrı’nın Oğlu İsa , benden ne istiyorsun ? Tanrı hakkı için sana ant ettiririm , bana eziyet etme ” dedi .
+41005009	ne		İsa ona , “ Senin adın ne ? ” diye sordu . O da “ Benim adım Ordu , çünkü biz kalabalığız ” dedi .
+41005030	kim		O anda İsa da kendisinden kuvvet çıktığını fark etti , kalabalığa dönüp , “ Giysime kim dokundu ? ” diye sormaya başladı .
+41005031	kim		Öğrencileri ona , “ Nasıl ‘ Bana kim dokundu ’ dersin ? Seni sıkıştıran kalabalığı görmüyor musun ? ” diyorlardı .
+41005035	~		İsa daha bunları söylerken , havra yöneticisinin evinden bazı adamlar gelip “ Kızın öldü ! Artık öğretmene zahmet vermesen ? ” dediler .
+41005039a	neden		İçeri girdi ve “ Neden ortalığı velveleye verip 
+41005039b	~		ağlıyorsunuz ? Çocuk ölmedi , uyuyor ” dedi .
+41006002a	nereden		Sebt günü gelince havrada Tanrı’nın sözünü öğretmeye başladı ; dinleyenlerin çoğu hayretler içinde şöyle diyordu : “ Bu adam bunları nereden öğrenmiş ? 
+41006002b	nedir		Kendisindeki bu hikmetin ve onun elleriyle gerçekleşen bu büyük işlerin sebebi nedir ?
+41006002c	~		
+41006022	ne		O gece Herodias’ın kızı da içeri girip dans etti ; bu , Herodes’in ve onunla birlikte sofrada oturanların hoşuna gitti . Kral genç kıza , “ Dile benden ne dilersen ” dedi .
+41006024	ne		Kız dışarı çıkıp , “ Ne isteyeyim ? ” diye annesine sordu . Annesi de , “ Vaftizci Yahya’nın başını ” dedi .
+41006037	~		İsa cevap olarak “ Onlara siz yiyecek bir şeyler verin ” dedi . Bunun üzerine , “ Halka vermek için gidip iki yüz dinarlık ekmek mi alacağız ? ” dediler .
+41006038	kaç		İsa , “ Bakın bakalım , kaç ekmeğiniz var ? ” dedi . Soruşturduktan sonra “ Beş ekmek var , iki de balık ” dediler .
+41007005	neden		Bu Ferisiler ve yazıcılar ona , “ Senin öğrencilerin neden atalarımızın geleneğine uymuyor , arınmamış ellerle yemek yiyor ? ” diye sordular .
+41008004	nereden		Öğrencileri , “ Böyle ıssız bir yerde bunca insanı doyuracak ekmek nereden bulunur ? ” diye karşılık verdiler .
+41008005	kaç		Yine de İsa , “ Sizin yanınızda kaç ekmek var ? ” diye sordu . “ Yedi ” dediler .
+41008012	neden		O ise , derin bir iç çekip şöyle dedi : “ Bu nesil neden bir alamet arıyor ? Emin olun , bu nesle hiçbir alamet verilmeyecek . ”
+41008017	neden		İsa bunu görünce şöyle dedi : “ Neden ekmeksiz kaldınız diye tartışıyorsunuz ? Hâlâ akıl erdiremiyor ve anlamıyor musunuz ? Yürekleriniz anlayacak durumda değil mi ?
+41008018a	~		‘ Gözleriniz olduğu halde görmüyor musunuz ? 
+41008018b	~		Kulaklarınız olduğu halde işitmiyor musunuz ? ’ Hatırlamıyor musunuz ,
+41008019	kaç		beş somunu beş bin erkek için böldüğümde topladığınız parçalar kaç sepet dolusuydu ? ” Onlar da “ on iki ” dediler .
+41008020	kaç		“ Yedi ekmeği dört bin erkek için böldüğümde kaldırdığınız parçalar kaç küfe dolusuydu ? ” “ Yedi ” dediler .
+41008021	~		Bunun üzerine onlara , “ Hâlâ mı anlamadınız ? ” dedi .
+41008023	~		İsa kör adamı elinden tutup köyün dışına çıkardı ; gözlerine tükürerek ellerini onun üzerine koydu ve “ Bir şey görüyor musun ? ” diye sordu .
+41008027	kim		Sonra İsa ve öğrencileri oradan ayrılıp Filipos Sezariyesi köylerine doğru yola çıktılar . İsa yolda öğrencilerine sorular sormaya başladı . “ İnsanlar benim kim olduğumu söylüyor ? ” dedi .
+41008029a	ne		Bunun üzerine onlara , “ Peki siz ne dersiniz ? 
+41008029b	kimim		Ben kimim ? ” diye sordu . Petrus “ Sen Mesih’sin ” diye cevap verdi .
+41008036	neye		Gerçekten , bir insan bütün dünyayı kazanır da canını kaybederse neye yarar ?
+41008037	ne		Evet , bir insan canına karşılık ne verebilir ?
+41009010	ne		Bu sözü yüreklerine koydular ; ancak dirilmeyle ilgili sözlerin ne anlama geldiğini aralarında tartışıyorlardı .
+41009011	neden		Sonra ona sorular sormaya başladılar ; “ Yazıcılar neden önce İlya’nın gelmesi gerektiğini söylüyor ? ” diyorlardı .
+41009012	neden		İsa şöyle cevap verdi : “ Evet , önce İlya gelir ve her şeyi eski durumuna getirir . Peki , İnsanoğlunun pek çok acılar çekmesi ve hiçe sayılması gerektiği neden yazılmıştır ?
+41009016	neyi		İsa , “ Onlarla neyi tartışıyorsunuz ? ” diye sordu .
+41009019a	ne kadar		Bunun üzerine İsa şöyle dedi : “ Ey imansız nesil , daha ne kadar aranızda kalacağım ? 
+41009019b	ne kadar		Daha ne kadar size katlanacağım ? Onu bana getirin . ”
+41009021	ne zamandan		İsa çocuğun babasına , “ Ne zamandan beri böyle ? ” diye sordu . Babası da , “ Küçüklüğünden beri ” dedi .
+41009028	neden		Eve girdikten sonra öğrencileri yalnızken , “ Onu biz neden çıkaramadık ? ” diye sordular .
+41009033	neyi		Kefernahum’a geldiler . Evde otururken onlara , “ Yolda neyi tartışıyordunuz ? ” diye sordu .
+41009050	neyle		Tuz iyidir ; fakat tuz özelliğini yitirmişse , ona neyle tat verirsiniz ? Kendi içinizde tuz olsun , aranızda barışı koruyun . ”
+41010003	ne		İsa cevap olarak , “ Musa size ne emretti ? ” dedi .
+41010017	ne		Yola çıkmak üzereyken bir adam koşarak yanına geldi , önünde diz çöküp ona şöyle sordu : “ İyi Öğretmen , sonsuz yaşamı miras almak için ne yapmalıyım ? ”
+41010018	neden		İsa şu karşılığı verdi : “ Neden bana ‘ İyi ’ diyorsun ? Biri dışında kimse iyi değildir , O da Tanrı’dır .
+41010026	kim		Daha da şaşırdılar ve ona , “ Bu durumda kim kurtulabilir ? ” diye sordular .
+41010036	ne		İsa , “ Sizin için ne yapmamı istiyorsunuz ? ” diye sordu .
+41010051	ne		İsa ona , “ Senin için ne yapmamı istiyorsun ? ” dedi . Kör adam , “ Öğretmen , ne olur gözlerim görsün ” dedi .
+41011003	ne		Biri size ‘ Ne yapıyorsunuz ? ’ diyecek olursa , ‘ Efendimizin ona ihtiyacı var , hemen geri gönderecek ’ dersiniz . ”
+41011005	ne		Fakat orada duran bazıları , “ Ne yapıyorsunuz , sıpayı neden çözüyorsunuz ? ” demeye başladılar .
+41011028a	hangi		“ Bunları hangi yetkiyle yapıyorsun ? 
+41011028b	kim		Bunları yapman için kim sana yetki verdi ? ” diye sormaya başladılar .
+41011030	~		Yahya’nın vaftiz etme yetkisi gökten miydi , yoksa insanlardan mı ? Söyleyin . ”
+41011031a	~		Aralarında fikir yürütmeye başladılar , 
+41011031b	neden		“ Eğer ‘ Gökten ’ dersek , ‘ Öyleyse neden ona inanmadınız ? ’ diyecek .
+41012009	ne		Bu durumda bağın sahibi ne yapacak dersiniz ? Gelip bu bağcıları yok edecek ve bağı başkalarına verecek .
+41012015	neden		Ödeyelim mi , yoksa ödemeyelim mi ? ” İsa onların ikiyüzlülüklerini fark ederek şöyle dedi : “ Neden beni deniyorsunuz ? Bir dinar getirin de bakalım . ”
+41012016a	kime		Getirdiler . Onlara , “ Bu resim ve yazı kime ait ? ” diye sordu . “ Sezar’a ” dediler .
+41012016b	~		
+41012023	hangisinin		Dirilmede kadın onlardan hangisinin karısı olacak ? Çünkü yedisi de onu eş olarak almıştı . ”
+41012028	hangisidir		Oraya gelip tartışmayı dinlemiş olan yazıcılardan biri , İsa’nın çok güzel cevaplar verdiğini görerek ona şunu sordu : “ Tüm emirler içinde en başta gelen hangisidir ? ”
+41012035	nasıl		Daha sonra İsa mabette Tanrı’nın sözünü öğretirken şunları söyledi : “ Nasıl oluyor da yazıcılar ‘ Mesih Davut’un oğludur ’ diyor ?
+41012037	nasıl		Davut kendisi ona ‘ Efendim ’ diyor , peki Mesih nasıl onun oğlu olur ? ” Büyük bir kalabalık onu zevkle dinliyordu .
+41013004a	ne zaman		“ Bize söyler misin , bu olaylar ne zaman olacak ? 
+41013004b	ne		Bütün bunların sona ereceği zamanın alameti ne olacak ? ”
+41014004	neden		Bunun üzerine bazıları kızarak aralarında konuştular ; “ Bu kokulu yağ neden israf edildi ? ” diyorlardı .
+41014006	neden		İsa ise , “ Kadını rahat bırakın ” dedi . “ Neden canını sıkıyorsunuz ? O benim için güzel bir şey yaptı .
+41014012	nerede		Fısıh kurbanının kesilmesinin âdet olduğu , Mayasız Ekmek Bayramının ilk günü , öğrencileri İsa’ya “ Fısıh yemeğini nerede yemek istersin , gidip hazırlayalım ? ” dediler .
+41014014	nerede		Hangi eve girerse , o evin sahibine deyin ki , ‘ Bizi öğretmen gönderdi , öğrencilerimle birlikte Fısıh yemeğini yiyebileceğim misafir odası nerede diye soruyor . ’
+41014060a	~		En sonunda başkâhin hepsinin ortasında ayağa kalkıp İsa’ya şöyle sordu : “ Sen hiç cevap vermeyecek misin ? 
+41014060b	ne		Aleyhindeki bu tanıklık hakkında ne diyorsun ? ”
+41014063	ne		Bunun üzerine başkâhin giysisini yırtarak şöyle dedi : “ Artık tanıklara ne gerek var ?
+41014064	ne		Küfrü kendiniz duydunuz . Ne diyorsunuz ? ” Hepsi , “ Ölümü hak etti ” diye hüküm verdiler .
+41015004	~		O zaman Pilatus tekrar , “ Senin diyecek bir sözün yok mu ? Bak , seni ne çok şeyle suçluyorlar ” demeye başladı .
+41015012	ne		Buna karşılık Pilatus yine onlara , “ Peki , Yahudilerin kralı dediğiniz kişiyi ne yapayım ? ” diye sordu .
+41015014a	neden		Pilatus ise , “ Neden ? 
+41015014b	ne		O ne kötülük etti ? ” diye sordu . Fakat onlar “ Direğe ger ! ” diye daha da çok bağırdılar .
+41015034	neden		Dokuzuncu saatte İsa yüksek sesle , “ Eli , Eli , lama sabaktani ? ” diye bağırdı ; bu , “ Tanrım , Tanrım , beni neden bıraktın ? ” anlamına gelir .
+41016003	kim		“ Bizim için mezarın girişinden taşı kim yuvarlayacak ? ” diye aralarında konuşuyorlardı .
+42001018	nasıl		Zekeriya meleğe “ Bundan nasıl emin olabilirim ? Ben yaşlı bir adamım , karım da çok yaşlı ” dedi .
+42001034	nasıl		Fakat Meryem meleğe , “ Nasıl olur ? Benim hiçbir erkekle ilişkim olmadı ki ! ” dedi .
+42001043	~		Benim için ne büyük bir onur ! Efendimin annesi yanıma geliyor .
+42001066	ne		Bunları duyanlar , “ Acaba bu çocuk ne olacak ? ” diye düşünürlerdi . Çünkü Yehova’nın eli onun üzerindeydi .
+42002048	neden		Ana babası onu görünce şaşkınlığa düştüler ; annesi “ Oğlum , neden böyle yaptın ? Babanla ben hep seni aradık , çok endişelendik ” dedi .
+42002049	ne		İsa ise , “ Beni aramanıza ne gerek vardı ? Babamın evinde olacağımı bilmiyor muydunuz ? ” dedi .
+42003007	kim		Yahya vaftiz edilmek üzere kendisine gelenlere şunları söylüyordu : “ Siz engerek soyu , gelecek gazaptan kaçabileceğinizi size kim söyledi ?
+42003010	ne		İnsanlar , “ O halde ne yapalım ? ” diye soruyorlardı .
+42003012	ne		Vergi tahsildarları bile vaftiz edilmek için geliyor , “ Öğretmen , ne yapmalıyız ? ” diye soruyorlardı .
+42003014a	~		Askerler de , 
+42003014b	ne		“ Ya biz ne yapalım ? ” diye soruyorlardı . Yahya , “ Kimseye sıkıntı vermeyin ve kimse için sahte suçlamada bulunmayın , aldığınız tayınla yetinin ” cevabını veriyordu .
+42004034	ne		“ Ey Nasıralı İsa , bizden ne istiyorsun ? Bizi yok etmeye mi geldin ? Senin kim olduğunu biliyorum , Tanrı’nın Kutsal Kulusun . ”
+42004036	nasıl		Bunun üzerine , herkesi büyük bir şaşkınlık aldı . “ Bu nasıl bir konuşma böyle ? Kötü ruhlara güç ve yetkiyle emrediyor , onlar da çıkıyor ” diye aralarında konuşmaya başladılar .
+42005021a	kim		O zaman yazıcılar ve Ferisiler , “ Tanrı’ya küfreden bu adam kim oluyor ? 
+42005021b	kim		Tanrı’dan başka kim günahları bağışlayabilir ? ” diye düşünmeye başladılar .
+42005022	neler		Onların ne düşündüğünü bilen İsa şunları dedi : “ Yüreğinizden neler geçiriyorsunuz ?
+42005023	~		‘ Ayağa kalk ve yürü ’ demek mi daha kolay , yoksa ‘ Günahların bağışlandı ’ demek mi ?
+42005030	neden		Bunun üzerine Ferisiler ve onlardan olan yazıcılar , İsa’nın öğrencilerine söylenerek , “ Neden vergi tahsildarlarıyla ve günahkârlarla yiyip içiyorsunuz ? ” dediler .
+42005033	~		Onlar da İsa’ya , “ Yahya’nın öğrencileri sık sık oruç tutar ve dualar ederler ; Ferisilerin öğrencileri de öyle . Fakat seninkiler yiyip içiyor ” dediler .
+42005034	~		İsa onlara şöyle dedi : “ Güvey yanlarındayken , sağdıçlarına oruç tutturabilir misiniz ?
+42006002	neden		Bunun üzerine Ferisilerden bazıları , “ Sebt gününde yapılması yasak olan şeyi neden yapıyorsunuz ? ” diye sordular .
+42006009	~		Sonra İsa , “ Size sorarım , Sebt günü iyilik yapmak mı yoksa kötülük yapmak mı kanuna uygundur ? Can kurtarmak mı yoksa öldürmek mi ? ” dedi .
+42006032	~		Eğer sizi sevenleri severseniz , bu size takdir kazandırır mı ? Çünkü günahkârlar da kendilerini sevenleri sever .
+42006033	~		Size iyilik edenlere iyilik ederseniz , takdir kazanır mısınız ? Günahkârlar da aynısını yapıyor .
+42006034	~		Ayrıca , ödeyeceğini umduğunuz kişilere ödünç verirseniz , bu takdir edilecek bir şey midir ? Günahkârlar bile ödeyeceğini düşündükleri günahkârlara ödünç verirler .
+42006039	~		Sonra İsa onlara örnekler verdi : “ Kör köre kılavuzluk edebilir mi ? Her ikisi de çukura düşmez mi ?
+42006041	neden		Öyleyse neden kardeşinin gözündeki çöpe bakıyorsun da , kendi gözündeki merteği görmüyorsun ?
+42006042	nasıl		Sen kendi gözündeki merteğe bakmayıp , kardeşine nasıl ‘ Dur kardeşim , gözündeki çöpü çıkarayım ’ dersin ? İkiyüzlü ! Önce kendi gözünden merteği çıkar ; o zaman kardeşinin gözünden çöpü çıkarmak için daha iyi görürsün .
+42006046	neden		Bana ‘ Efendim ! Efendim ! ’ diyorsunuz da neden söylediklerimi yapmıyorsunuz ?
+42007024	ne		Yahya’nın habercileri gittikten sonra , İsa oradaki kalabalığa Yahya hakkında şunları söyledi : “ Çöle ne görmeye gittiniz ? Rüzgârla sallanan bir kamış mı ?
+42007025	ne		Öyleyse ne görmeye gittiniz ? Güzel yumuşak giysiler giymiş bir adam mı ? Göz alıcı giysiler giyenler ve lüks içinde yaşayanlar kral saraylarında bulunurlar .
+42007026	ne		Peki öyleyse ne görmeye gittiniz ? Bir peygamber mi ? Evet , şunu bilin ki , gördüğünüz kişi bir peygamberden de ötedir .
+42007031a	kimlerle		“ O halde , bu neslin insanlarını kimlerle karşılaştırayım ? 
+42007031b	kimlere		Onlar kimlere benzer ?
+42007042	hangisi		Borçlarını ödeyecek hiçbir şeyleri olmadığından , alacaklı ikisinin de borçlarını koşulsuz bağışladı . Bu durumda , onlardan hangisi alacaklıyı daha çok sever ? ”
+42007049	kim		Bunun üzerine onunla birlikte sofrada oturanlar , “ Bu adam kim ki günahları bile bağışlıyor ? ” diye içlerinden geçirmeye başladılar .
+42008025a	~		O zaman İsa onlara , “ Hani imanınız ? ” diye sordu . Fakat öğrenciler dehşete kapılmışlardı ; şaşkınlık içinde birbirlerine , 
+42008025b	kim		“ Bu adam gerçekten kim ki , rüzgâra ve suya bile emir veriyor , onlar da itaat ediyor ? ” diyorlardı .
+42008028	ne		Adam , İsa’yı görünce haykırarak onun önünde yere kapandı ve “ Yüceler Yücesi Tanrı’nın Oğlu İsa , benden ne istiyorsun ? Yalvarırım bana eziyet etme ” diye bağırdı .
+42008030	ne		İsa ona “ Adın ne senin ? ” diye sordu . O da “ Ordu ” dedi , çünkü onun içine birçok cin girmişti .
+42008045	kim		İsa , “ Bana kim dokundu ? ” diye sordu . Herkes inkâr edince Petrus , “ Öğretmen , kalabalık seni kuşatmış sıkıştırıyor ” dedi .
+42009009a	kim		Herodes , “ Yahya’nın boynunu vurdurttum . Peki , hakkında söylentiler duyduğum bu kişi kim ? ” diyordu . Bu nedenle onu görmek istiyordu .
+42009009b	~		
+42009018	kim		Daha sonra İsa yalnız başına dua ederken öğrenciler yanına geldi . İsa onlara “ İnsanlar benim kim olduğumu söylüyor ? ” diye sordu .
+42009020a	ne		O zaman onlara , “ Peki siz ne dersiniz ? 
+42009020b	kimim		Ben kimim ? ” diye sordu . Petrus , “ Tanrı’nın Mesihi ” dedi .
+42009025	neye		Gerçekten de , bir insan bütün dünyayı kazanıp da canını kaybederse veya zarara uğrarsa , neye yarar ?
+42009041a	ne kadar		İsa şu karşılığı verdi : “ Ey imansız ve bozuk nesil ! Daha ne kadar aranızda kalacağım ? 
+42009041b	ne kadar		Daha ne kadar size katlanacağım ? ” Sonra adama , “ Oğlunu buraya getir ” dedi .
+42010025	ne		Bir Kanun uzmanı , İsa’yı sınamak için kalkıp “ Öğretmen , sonsuz yaşamı miras almak için ne yapmalıyım ? ” diye sordu .
+42010026a	ne		İsa ona , “ Kanunda ne yazılıdır ? 
+42010026b	ne		Okuduğundan ne anlıyorsun ? ” dedi .
+42010029	kim		Fakat , doğru biri olduğunu göstermek isteyen adam İsa’ya , “ Peki benim komşum kim ? ” diye sordu .
+42010036a	~		
+42010036b	hangisi		Sence bu üç kişiden hangisi haydutların eline düşen adama komşusu gibi davrandı ? ”
+42011008	~		Size şunu söyleyeyim ki , adam arkadaşlık hatırı için kalkıp bir şey vermese bile , gelenin cüretkâr ısrarcılığı yüzünden mutlaka kalkıp ona ihtiyacı olan şeyleri verir .
+42011011	hangi		Gerçekten de , aranızda hangi baba , oğlu kendisinden balık istediğinde ona balık yerine yılan verir ?
+42011012	~		Ya da yumurta istediğinde akrep verir ?
+42011013	~		Dolayısıyla , sizler kötü olduğunuz halde çocuklarınıza iyi armağanlar vermesini bilirseniz , gökteki Babamız Kendisinden isteyenlere kutsal ruhu daha çok vermez mi ? ”
+42011018	nasıl		Dolayısıyla , eğer Şeytan da kendi içinde bölünmüşse , onun krallığı nasıl ayakta kalabilir ? Çünkü siz , cinleri Beelzebub’un yardımıyla çıkardığımı söylüyorsunuz .
+42011019	kimin		Eğer ben cinleri Beelzebub’un yardımıyla çıkarıyorsam , oğullarınız kimin yardımıyla çıkarıyor ? Bu yüzden , sizin hakkınızdaki hükmü onlar verecek .
+42012014	kim		O da , “ Aranızda hâkim olmam ya da miraslarınızı paylaştırmam için beni başınıza kim tayin etti ? ” diye karşılık verdi .
+42012017	ne		Bunun üzerine , ‘ Ne yapsam ? Çünkü ürünümü koyacak yerim yok ’ diye düşünmeye başladı .
+42012020	kime		Fakat Tanrı ona şöyle dedi : ‘ Ey akılsız , bu gece canın senden isteniyor . Biriktirdiğin bu şeyler kime kalacak ? ’
+42012024	~		Kuzgunlara bakın : Ne ekerler ne biçerler , ne ambarları ne de kilerleri var ; ama Tanrı onları besler . Sizler kuşlardan çok daha değerlisiniz !
+42012025	hanginiz		Hanginiz kaygılanmakla ömrünü bir parça olsun uzatabilir ?
+42012026	neden		Bu küçücük şeye bile gücünüz yetmiyorsa , neden diğerleri için kaygı çekiyorsunuz ?
+42012042	kimdir		O da şu cevabı verdi : “ Hizmetçilerine yiyeceklerini vaktinde sağlaması için Efendinin onların başına atayacağı sadık ve sağgörülü kâhya kimdir ?
+42012049	ne		Ben yeryüzüne bir ateş atmaya geldim , eğer bu ateş şimdiden yakılmışsa daha ne isterim ?
+42012056	nasıl		İkiyüzlüler ! Yerin ve göğün görünümünden anlamlar çıkarmasını biliyorsunuz da , bu dönemin anlamını nasıl bilmiyorsunuz ?
+42012057	neden		Neyin doğru olduğu konusunda da neden kendiniz yargıya varmıyorsunuz ?
+42013004	~		Ya da , Siloam’daki kule üzerlerine yıkıldığında ölen on sekiz kişinin , Yeruşalim’de yaşayan diğer tüm insanlardan daha günahkâr olduğunu mu düşünüyorsunuz ?
+42013007	neden		O zaman bağda çalışan işçisine şöyle dedi : ‘ Üç yıldır gelip bu incir ağacında meyve arıyorum , fakat bir tane bile bulamıyorum . Onu kes ! Neden toprağı boşuna işgal etsin ? ’
+42013015	~		O zaman Efendimiz şu karşılığı verdi : “ Ey ikiyüzlüler , siz Sebt günü öküzünüzü ya da eşeğinizi ahırdaki yerinden çözüp sulamaya götürmez misiniz ?
+42013018a	neye		Sonra İsa sözlerine şöyle devam etti : “ Tanrı’nın krallığı neye benzer ? 
+42013018b	neye		Onu neye benzeteyim ?
+42013020	neye		İsa tekrar sordu : “ Tanrı’nın krallığını neye benzeteyim ?
+42013025	kim		Ev sahibi kalkıp kapıyı kapatınca dışarıda kalacaksınız ve kapıyı çalıp , ‘ Efendim , bize kapıyı aç ’ diyeceksiniz . Fakat o size , ‘ Kim olduğunuzu bilmiyorum ’ karşılığını verecek .
+42014005	hanginizin		“ Hanginizin Sebt gününde oğlu veya öküzü kuyuya düşer de onu hemen çekip çıkarmaz ? ” diye sordu .
+42014028	hanginiz		Çünkü , hanginiz bir kule inşa etmek ister de , tamamlamaya gücünün yetip yetmeyeceğini görmek üzere önce oturup masrafı hesap etmez ?
+42014031	hangi		Ya da , hangi kral başka bir kralla savaşa giderken , üzerine gelen yirmi bin askerin karşısına on bin askerle çıkabilir miyim diye önce oturup çevresindekilere danışmaz ?
+42014034	neyle		Tuz elbette iyidir . Fakat tuz özelliğini yitirirse , ona tadını neyle verirsiniz ?
+42015004	kimin		“ Sizden kimin yüz koyunu olur da , birini kaybederse doksan dokuzunu kırda bırakıp kaybolanı bulana dek aramaz ?
+42015008	hangi		Ya da , hangi kadının on gümüş parası olur da , birini kaybederse ışık yakıp evi süpürmez ve onu bulana dek dikkatle aramaz ?
+42015026	neler		Bunun üzerine hizmetkârlardan birini yanına çağırıp neler olduğunu sordu .
+42015029	~		Oğlan babasına şu karşılığı verdi : ‘ Ben bunca yıldır sana hizmet ediyorum ve bir kere bile emrinden çıkmadım , ama sen arkadaşlarımla eğleneyim diye bana bir kez olsun bir oğlak vermedin .
+42016002	ne		Bunun üzerine adam kâhyayı çağırdı ve şunları dedi : ‘ Senin hakkında bazı şeyler duyuyorum ; bunlar ne demek oluyor ? Kâhya olarak hesabını ver , artık evin idaresi sende kalamaz . ’
+42016003	ne		O zaman kâhya kendi kendine şöyle dedi : ‘ Şimdi ne yapacağım ? Efendim kâhyalığı benden alıyor . Toprak kazacak gücüm yok , dilenmekten de utanırım .
+42016005	ne kadar		Efendisine borcu olan herkesi yanına çağırdı ; birincisine , ‘ Efendime ne kadar borcun var ? ’ diye sordu .
+42016007	ne kadar		Sonra diğer borçluya , ‘ Sen gel , senin ne kadar borcun var ? ’ dedi . Adam ‘ Yüz ölçek buğday ’ diye cevap verdi . Kâhya ‘ Senedini geri al ve seksen yaz ’ dedi .
+42016011	kim		Dolayısıyla , eğer haksız serveti kullanmak konusunda güvenilir olmazsanız , gerçek serveti size kim emanet eder ?
+42016012	kim		Başkasına ait bir şey konusunda güvenilir olmazsanız , sizin için olanı size kim verir ?
+42017007	hanginizin		Hanginizin saban süren veya sürü güden bir hizmetkârı olur da , tarladan döndüğünde ona , ‘ Hemen gel , sofraya otur ’ der ?
+42017017	nerede		İsa , “ Arınanlar on kişi değil miydi ? Öyleyse , dokuzu nerede ?
+42017018	~		Başka milletten olan bu adamın dışında Tanrı’ya şükretmek için dönen olmadı mı ? ” diye sordu .
+42017020	ne zaman		Ferisiler İsa’ya Tanrı’nın krallığının ne zaman geleceğini sordular . O da şu cevabı verdi : “ Tanrı’nın krallığının gelişi göze çarpan şekilde olmayacak .
+42017037	nerede		Bunun üzerine öğrencileri İsa’ya , “ Efendimiz , nerede ? ” diye sordular . O da , “ Ölü nerede ise , kartallar da orada toplanacak ” dedi .
+42018018	ne		Bir yönetici İsa’ya , “ İyi Öğretmen , ne yaparsam sonsuz yaşamı miras alırım ? ” diye sordu .
+42018019	neden		İsa şu karşılığı verdi : “ Neden bana ‘ İyi ’ diyorsun ? Biri dışında kimse iyi değildir , O da Tanrı’dır .
+42018026	kim		Bunu duyanlar “ Öyleyse kim kurtulabilir ? ” diye sordular .
+42018036	neler		Adam geçen kalabalığın sesini işittiğinden , neler olduğunu sormaya başladı .
+42018041	ne		“ Senin için ne yapmamı istiyorsun ? ” Adam , “ Efendim , ne olur gözlerim görsün ” dedi .
+42019007	~		İnsanlar bunu görünce , “ Gidip günahkâr bir adamın evinde konuk oldu ” diye söylenmeye başladılar .
+42019023	neden		gümüş paramı neden bankaya koymadın ? Böyle yapsaydın , geldiğimde onu faiziyle alırdım . ’
+42019031	neden		Eğer biri ‘ Onu neden çözüyorsunuz ? ’ diye sorarsa , ‘ Efendimizin ona ihtiyacı var ’ dersiniz . ”
+42019033	neden		Hayvanı çözerlerken , sahipleri , “ Sıpayı neden çözüyorsunuz ? ” diye sordular .
+42020002a	hangi		“ Bunları hangi yetkiyle yapıyorsun ? 
+42020002b	kim		Bu yetkiyi sana kim verdi ? ” diye herkesin önünde sordular .
+42020005a	~		O zaman aralarında konuşup şu sonuca vardılar : 
+42020005b	neden		“ Eğer ‘ gökten ’ dersek , ‘ Öyleyse neden ona inanmadınız ? ’ diyecek .
+42020013	ne		Bunun üzerine bağın sahibi , ‘ Ne yapsam acaba ? ’ diye düşündü . ‘ Sevgili oğlumu göndereyim , herhalde onu sayarlar ’ dedi .
+42020015	ne		Böylece onu bağdan dışarıya atıp öldürdüler . Şimdi bağın sahibi onlara ne yapacak ?
+42020017	nedir		Fakat İsa onlara bakıp şöyle söyledi : “ Öyleyse , ‘ Yapı ustalarının reddettiği taş , baş köşe taşı oldu ’ diyen yazının anlamı nedir ?
+42020023	~		Fakat İsa onların kurnazlığını fark edip ,
+42020024a	kimin		“ Bana bir dinar gösterin ” dedi . “ Bunun üzerindeki resim ve yazı kimin ? ” diye sordu . “ Sezar’ın ! ” dediler .
+42020024b	~		
+42020033	hangisinin		O halde , dirilmede kadın hangisinin karısı olacak ? Çünkü yedisi de onu eş olarak almıştı . ”
+42020041	nasıl		Sonra İsa onlara şöyle dedi : “ Nasıl oluyor da , Mesih Davut’un oğludur diyorlar ?
+42020044	nasıl		Davut ona ‘ Efendim ’ dediğine göre , o nasıl Davut’un oğlu olur ? ”
+42021007a	ne zaman		Sonra ona şöyle sordular : “ Öğretmen , bu olaylar gerçekten ne zaman olacak ? 
+42021007b	ne		Bunların gerçekleşeceği zamanın alameti ne olacak ? ”
+42022009	nerede		Onlar , “ Yemeği nerede hazırlamamızı istiyorsun ? ” diye sordular .
+42022011	nerede		Ev sahibine deyin ki , ‘ Bizi öğretmen gönderdi , öğrencilerimle birlikte Fısıh yemeğini yiyebileceğim misafir odası nerede ? diye soruyor . ’
+42022027	hangisi		Hangisi daha büyüktür ? Sofrada oturan mı , yoksa hizmet eden mi ? Sofrada oturan değil mi ? Ben ise aranızda hizmet edenim .
+42022046	neden		Onlara , “ Neden uyuyorsunuz ? ” dedi , “ Kalkın , dua etmeyi sürdürün ki , ayartılmayasınız . ”
+42022064	kim		Yüzüne bir örtü koyup , “ Sana vuran kim ? Peygambersen söyle bakalım ” diyorlardı .
+42022071	ne		O zaman , “ Başka tanığa ne gerek var ? ” dediler , İşte bunu kendi ağzından biz duyduk . ”
+42023022a	neden		Üçüncü kez onlara , “ Neden ? 
+42023022b	ne		Bu adam ne kötülük etti ? ” dedi . “ Ölümü hak edecek bir suçunu görmedim ; dayak attırdıktan sonra onu serbest bırakacağım . ”
+42023031	ne		Çünkü ağaç henüz yaşken bunları yaparlarsa , kuruyunca ne olacak ? ”
+42024005	neden		Kadınlar korkmuşlar ve başlarını yere eğmişlerdi ; adamlar onlara şöyle dedi : “ Diriyi neden ölüler arasında arıyorsunuz ?
+42024017	nedir		İsa , “ Yolda giderken aranızda tartıştığınız mesele nedir ? ” diye sordu . Öğrenciler yüzlerinde üzgün bir ifadeyle oldukları yerde durdular .
+42024019	hangi		O da “ Hangi olanları ? ” dedi . Onlar şöyle karşılık verdi : “ İşleri ve sözleriyle Tanrı’nın ve tüm halkın gözünde güçlü bir peygamber olan Nasıralı İsa’yla ilgili olanları ;
+42024025	~		Bunun üzerine İsa onlara şöyle dedi : “ Ey akılsızlar ve peygamberlerin bütün söylediklerini kabul etmekte yürekleri duyarsız olanlar !
+42024038a	neden		Bu nedenle İsa onlara şöyle dedi : “ Neden telaşlandınız ? 
+42024038b	neden		Neden yüreğinizde kuşkular doğuyor ?
+43001019	kimsin		Yahudiler Yahya’ya “ Sen kimsin ? ” diye sormak için Yeruşalim’den kâhinler ve Levioğulları gönderdiğinde onun tanıklığı şöyle oldu :
+43001021	~		“ Peki o zaman İlya mısın ? ” diye sorduklarında , “ Değilim ” dedi . “ Sen o Peygamber misin ? ” diye de sordular . “ Hayır ! ” diye cevap verdi .
+43001022a	kimsin		O zaman , “ Sen kimsin ? Bizi gönderenlere ne cevap verelim ? 
+43001022b	ne		Kendin hakkında ne diyorsun ? ” dediler .
+43001025	neden		Ona bazı sorular sordular ; “ Mademki sen Mesih , İlya veya o Peygamber değilsin , neden vaftiz ediyorsun ? ”
+43001038a	ne		İsa geri dönüp peşinden geldiklerini görünce , “ Ne istiyorsunuz ? ” dedi . Onlar da , 
+43001038b	nerede		“ Rabbi , sen nerede kalıyorsun ? ” dediler . ( “ Rabbi ” , öğretmen anlamına gelir . )
+43001046	~		Fakat Natanael , “ Nasıra’dan iyi bir şey çıkabilir mi ? ” dedi . Filipus da ona , “ Gel de gör ” diye karşılık verdi .
+43001048	nereden		Natanael , “ Beni nereden tanıyorsun ? ” diye sorunca , İsa şöyle cevap verdi : “ Filipus seni çağırmadan önce , incir ağacının altındayken gördüm . ”
+43002004	ne		Fakat İsa ona , “ Benden ne istiyorsun ? ” diye karşılık verdi . “ Benim vaktim henüz gelmedi . ”
+43002018a	~		
+43002018b	nasıl		Yahudiler ona şöyle sordular : “ Bunları yapmaya yetkin olduğuna dair bize nasıl bir alamet göstereceksin ? ”
+43003004	nasıl		Nikodimos , “ Bir insan büyüdükten sonra nasıl yeniden doğabilir ? Tekrar ana rahmine girip ikinci sefer doğabilir mi ? ” diye sorunca ,
+43003009	nasıl		Nikodimos , “ Bu nasıl olur ? ” diye sordu .
+43003012	nasıl		Eğer size yerle ilgili şeyleri anlattığım halde inanmazsanız , gökle ilgili şeyleri anlatırsam nasıl inanacaksınız ?
+43004009	nasıl		Samiriyeli kadın , “ Ben Samiriyeli bir kadınım , sen ise Yahudisin ; benden nasıl su istiyorsun ? ” dedi . ( Yahudilerin Samiriyelilerle hiçbir alışverişleri olmazdı . )
+43004011	nereden		Kadın şöyle dedi : “ Efendim , su çekecek bir kovan bile yok , kuyu da çok derin . Bu hayat suyunu nereden bulacaksın ?
+43004027a	ne		Tam o sırada İsa’nın öğrencileri geldi . Onun bir kadınla konuşuyor olmasına şaşırdılar . Tabii hiçbiri , “ Ondan ne istiyorsun ? ” ya da 
+43004027b	neden		“ Neden onunla konuşuyorsun ? ” demedi .
+43005012	kim		“ Sana ‘ Döşeğini topla , yürü ’ diyen adam kim ? ” diye sordular .
+43005044	nasıl		Birbirinizden övgü kabul edip de , tek Tanrı’nın övgüsünü kazanmaya çalışmıyorsanız nasıl iman edebilirsiniz ?
+43005047	nasıl		Fakat onun yazdıklarına inanmıyorsanız , benim sözlerime nasıl inanacaksınız ? ”
+43006005	nereden		Bu sırada , İsa başını kaldırıp büyük bir kalabalığın kendisine doğru geldiğini gördü . Filipus’a , “ Bu insanları doyurmak için nereden ekmek alacağız ? ” dedi .
+43006009	nedir		“ Burada beş arpa ekmeğiyle iki küçük balığı olan bir çocuk var . Fakat bu kadar insan için bu nedir ki ? ”
+43006025	ne zaman		Onu gölün karşı kıyısında bulunca , “ Öğretmen , buraya ne zaman geldin ? ” diye sordular .
+43006028	ne		O zaman ona şöyle dediler : “ Tanrı’nın istediği işleri yerine getirmek için ne yapalım ? ”
+43006030a	nasıl		Onlar da şöyle karşılık verdiler : “ Peki öyleyse , görüp sana inanmamız için nasıl bir alamet gerçekleştiriyorsun ? 
+43006030b	nasıl		Sen nasıl bir iş yapıyorsun ?
+43006042	nasıl		“ Bu Yusuf’un oğlu İsa değil mi ? Anasını ve babasını tanırız . Şimdi nasıl olur da ‘ Ben gökten geldim ’ der ? ”
+43006052	nasıl		O zaman Yahudiler aralarında tartışmaya başladılar . “ Bu adam kendi bedenini biz yiyelim diye nasıl verebilir ? ” diyorlardı .
+43006060	kim		Öğrencilerinden birçoğu bunları işitince , “ Bunlar çok ağır sözler , kim kabul edebilir ? ” diye konuştular .
+43006062	ne		Öyleyse , İnsanoğlunun daha önce bulunduğu yer olan göklere çıktığını görürseniz ne olacak ?
+43006068	kime		Simun Petrus şöyle cevap verdi : “ Efendimiz biz kime gidelim ? Sonsuz yaşamın sözleri sende .
+43007011	nerede		Bu arada Yahudiler bayramda onu aramaya başladılar . “ Bu adam nerede ? ” diyorlardı .
+43007015	nasıl		Bu yüzden Yahudiler şaşırdılar . “ Bu adam okulunda okumadığı halde bütün bu yazıları nasıl bilir ? ” diyorlardı .
+43007019	neden		Size Kanunu veren Musa değil miydi ? Fakat hiçbiriniz Kanuna uymuyorsunuz . Neden beni öldürmeye çalışıyorsunuz ? ”
+43007020	kim		Kalabalık şöyle cevap verdi : “ Seni kim öldürmeye çalışıyor ? Sende cin var . ”
+43007023	neden		Eğer Musa kanunu çiğnenmesin diye birisi Sebt günü sünnet edilebilirse , ben bir adamı Sebt günü tamamen iyileştirdim diye neden öfkeden köpürüyorsunuz ?
+43007035	nereye		Bunun üzerine Yahudiler aralarında şöyle konuşmaya başladılar : “ Bu adam nereye gitmeye niyetleniyor ki biz onu bulamayalım ? Acaba niyeti Yunanlıların arasına dağılmış olan Yahudilere mi gitmek ? Yoksa bunları Yunanlılara mı öğretecek ?
+43007036	ne		‘ Beni arayacaksınız fakat bulamayacaksınız , bulunduğum yere de gelemezsiniz ’ derken acaba ne demek istedi ? ”
+43007041	~		Başkaları da , “ Bu Mesih ” diyorlardı . Fakat bazıları “ Mesih Celile’den çıkacak değil ya ? ” diyorlardı .
+43007045	neden		O sırada görevliler , yüksek kâhinlerle Ferisilerin yanına döndüler . Ferisiler , “ Onu neden getirmediniz ? ” diye sordular .
+43007048	~		“ Bakın , yöneticilerden ya da Ferisilerden ona iman eden kimse var mı ?
+43007051	~		“ Kanunumuza göre , bir insanı dinlemeden ve ne yaptığını öğrenmeden hüküm vermek doğru olur mu ? ”
+43008005	ne		Musa kanununda böyle bir kadını taşlamamız buyurulmuştur . Sen ne dersin ? ”
+43008010	nerede		İsa doğrularak kadına , “ Onlar nerede ? Kimse seni mahkûm etmedi mi ? ” diye sordu .
+43008019	nerede		O zaman , “ Senin Baban nerede ? ” demeye başladılar . İsa şöyle cevap verdi : “ Siz ne beni ne de Babamı tanıyorsunuz . Eğer beni tanısaydınız , Babamı da tanırdınız . ”
+43008025a	kimsin		O zaman ona , “ Sen kimsin ? ” 
+43008025b	~		demeye başladılar . İsa şu karşılığı verdi : “ Size söylediklerimin hepsi boşa mı gitti ?
+43008033	nasıl		Diğerleri ona şu cevabı verdi : “ Biz İbrahim’in soyundanız ve hiç kimseye kölelik etmedik . Nasıl ‘ Özgür olacaksınız ’ dersin ? ”
+43008043	neden		Acaba söylediklerimi neden anlamıyorsunuz ? Çünkü sözlerime katlanamıyorsunuz .
+43008046a	hanginiz		Günah işlediğimi hanginiz kanıtlayabilir ? 
+43008046b	neden		Eğer hakikati söylüyorsam neden bana inanmıyorsunuz ?
+43008053	kim		Babamız İbrahim’den de büyük değilsin ya ? O öldü , peygamberler de öldüler . Sen kim olduğunu sanıyorsun ? ”
+43008057	~		O zaman Yahudiler , “ Daha elli yaşında bile değilsin , İbrahim’i de mi gördün ? ” dediler .
+43009002	kimin		Öğrencileri , “ Öğretmen , bu adamın kör doğması kimin günahı yüzünden ? Kendisinin mi , ana babasının mı ? ” diye sordular .
+43009010	nasıl		Bunun üzerine , “ Peki o zaman gözlerin nasıl açıldı ? ” diye sordular .
+43009012	nerede		Buna karşılık , “ O adam nerede ? ” diye sordular . “ Bilmiyorum ” dedi .
+43009016	nasıl		Bunun üzerine Ferisilerden bazıları şöyle dedi : “ O Tanrı’dan gelmiş biri değil , çünkü Sebt kurallarına uymuyor . ” Başkaları da , “ Günahkâr biri nasıl olur da böyle alametler yapabilir ? ” diyordu . Böylece aralarında bir fikir ayrılığı doğdu .
+43009017	ne		Yine kör adama dönüp , “ Senin gözlerini açtığına göre , o adam hakkında sen ne diyorsun ? ” diye sordular . Adam , “ Bence o bir peygamber ” dedi .
+43009019	nasıl		Onlara , “ Doğuştan kör dediğiniz oğlunuz bu mu ? ” diye sordular . “ Peki şimdi nasıl görüyor ? ”
+43009026a	ne		O zaman , “ Sana ne yaptı ? 
+43009026b	nasıl		Gözlerini nasıl açtı ? ” diye sordular .
+43009027	neden		Adam şu cevabı verdi : “ Size anlatmıştım ya , herhalde dinlemediniz . Neden tekrar duymak istiyorsunuz ? Yoksa siz de mi onun öğrencisi olmak istiyorsunuz ? ”
+43009034	~		“ Tamamen günah içinde doğduğun halde bize ders mi vermeye kalkıyorsun ? ” dedikten sonra adamı dışarı attılar .
+43009036	kimdir		Adam , “ Efendim o kimdir , söyle de ona iman edeyim ? ” diye karşılık verdi .
+43010020	neden		Birçokları , “ Onda cin var , bu adam deli . Neden onu dinliyorsunuz ? ” diyordu .
+43010021	~		Başkaları da , “ Bunlar cinli bir adamın sözleri değil . Cin körlerin gözünü açabilir mi ? ” diyorlardı .
+43010024	ne kadar		Yahudiler etrafını çevirip ona şöyle demeye başladılar : “ Bizi daha ne kadar merakta bırakacaksın ? Mesih’sen açıkça söyle . ”
+43010032	hangisi		İsa onlara şu karşılığı verdi : “ Ben size Babamın isteğiyle birçok iyi iş gösterdim . Bu işlerden hangisi için beni taşlıyorsunuz ? ”
+43010036	~		siz Babanın kutsal kılıp dünyaya gönderdiği bana , Tanrı’nın Oğluyum dediğim için mi ‘ küfrettin ’ diyorsunuz ?
+43011034	nereye		“ Onu nereye yatırdınız ? ” dedi . “ Efendimiz gel de gör ” dediler .
+43011047	ne		Bunun üzerine , yüksek kâhinler ve Ferisiler Sanhedrin’i topladılar . “ Ne yapacağız ? Bu adam birçok alamet yapıyor ” diyorlardı .
+43011056	ne		İsa’yı arıyorlardı ; mabetteyken birbirlerine , “ Ne dersiniz ? Acaba bayrama hiç mi gelmeyecek ? ” diyorlardı .
+43012005	neden		“ Neden bu güzel kokulu yağ üç yüz dinara satılıp parası yoksullara verilmedi ? ”
+43012027	ne		İçim sıkılıyor . Peki ne diyeyim ? ‘ Baba , bu saati yaşamama izin verme ’ mi ? Fakat ben bu saat için geldim .
+43012034a	nasıl		O zaman kalabalık şöyle cevap verdi : “ Bize Kanundan anlatılanlara göre Mesih sonsuza dek duracak . Sen nasıl İnsanoğlu yukarı kaldırılmalı diyorsun ? 
+43012034b	kim		Bu İnsanoğlu kim ? ”
+43012038a	kim		Böylece , İşaya peygamberin şu sözleri gerçekleşiyordu : “ Ey Yehova , duyduğumuz habere kim inandı ? 
+43012038b	kime		Yehova kolunun gücünü kime gösterdi ? ”
+43013025	kim		O da İsa’nın göğsüne yaslanarak , “ Efendimiz , o kim ? ” diye sordu .
+43013036	nereye		Simun Petrus ona , “ Efendimiz , nereye gidiyorsun ? ” diye sordu . İsa şöyle karşılık verdi : “ Gittiğim yere siz şimdi gelemezsiniz , fakat sonra geleceksiniz . ”
+43013037	neden		Petrus , “ Efendim , neden şimdi senin peşinden gelemeyeyim ? Senin uğruna canımı veririm ” dedi .
+43014002	~		Babamın evinde kalacak çok yer var . Olmasaydı size söylerdim . Çünkü ben size yer hazırlamaya gidiyorum .
+43014005	nasıl		O zaman Tomas , “ Efendimiz ” dedi . “ Biz senin nereye gittiğini bilmiyoruz . Yolu nasıl bilelim ? ”
+43014009	nasıl		İsa ona şöyle dedi : “ Filipus , bunca zamandır sizinleyim , hâlâ beni tanımadın mı ? Beni görmüş olan Babamı da görmüş olur . Nasıl ‘ Bize Babayı göster ’ dersin ?
+43014022	ne		Yahuda ( İskariyot değil diğeri ) ona şöyle dedi : “ Efendimiz , ne oldu da kendini dünyaya değil bize açıkça göstermek istiyorsun ? ”
+43016005	nereye		Şimdi , beni gönderene gidiyorum . Fakat hiçbiriniz ‘ Nereye gidiyorsun ? ’ diye sormuyorsunuz .
+43016017	ne		O zaman öğrencilerinden bazıları aralarında şöyle konuştular : “ ‘ Kısa bir süre sonra beni görmeyeceksiniz ve yine kısa bir süre sonra göreceksiniz , çünkü Babama gidiyorum ’ derken acaba ne demek istiyor ? ”
+43016018	ne		Ayrıca şöyle diyorlardı : “ ‘ Kısa bir süre sonra ’ demekle ne anlatmak istiyor ? Neden bahsettiğini anlamıyoruz . ”
+43018004	kimi		Başına neler geleceğini bilen İsa öne çıktı ve “ Kimi arıyorsunuz ? ” diye sordu .
+43018007	kimi		İsa , “ Kimi arıyorsunuz ? ” diye tekrar sordu . “ Nasıralı İsa’yı ” dediler .
+43018011	~		Fakat İsa Petrus’a şöyle dedi : “ Kılıcını kınına sok . Babamın bana verdiği kâseyi içmeyeyim mi ? ”
+43018021	neden		Neden beni sorguya çekiyorsun ? Konuştuklarımı duyan kimselere sor . İşte onlar ne dediğimi biliyorlar . ”
+43018023	neden		İsa da buna karşılık , “ Eğer yanlış konuşuyorsam yanlışımı göster ; yok eğer söylediklerim doğruysa bana neden vuruyorsun ? ” dedi .
+43018029	neyle		Bu yüzden Pilatus dışarıya , karşılarına çıkıp , “ Bu adamı neyle suçluyorsunuz ? ” diye sordu .
+43018035	ne		Pilatus , “ Ben Yahudi miyim ? Kendi milletin ve yüksek kâhinler seni bana getirdi . Söyle , ne yaptın ? ” dedi .
+43018038	nedir		Pilatus ona , “ Hakikat nedir ? ” dedi . Bunu dedikten sonra yine Yahudilerin karşısına çıkıp onlara şöyle dedi : “ Ben onda bir suç görmüyorum ,
+43019009	neredensin		Yeniden vali konağına girip İsa’ya , “ Sen neredensin ? ” diye sordu . Fakat İsa hiç cevap vermedi .
+43019015	~		Ancak onlar , “ Öldür ! Öldür ! Direğe ger ! ” diye bağrışıyorlardı . Pilatus , “ Kralınızı direğe mi gereyim ? ” diye sordu . Yüksek kâhinler , “ Bizim Sezar’dan başka kralımız yok ” diye cevap verdiler .
+43020013	neden		Melekler kadına “ Neden ağlıyorsun ? ” dediler . O da , “ Efendimi alıp götürmüşler . Nereye koyduklarını da bilmiyorum ” dedi .
+43020015a	neden		İsa ona “ Neden ağlıyorsun ? 
+43020015b	kimi		Kimi arıyorsun ? ” dedi . Meryem onu bahçıvan sanıp , “ Efendim , onu sen götürdüysen , nereye koyduğunu söyle de gidip alayım ” dedi .
+43021012	kimsin		İsa onlara , “ Gelin , kahvaltı edin ” dedi . Öğrencilerden hiçbiri ona “ Sen kimsin ? ” diye sormaya cesaret edemiyordu , çünkü onun Efendileri olduğunu anlamışlardı .
+43021020	kim		Petrus dönünce İsa’nın sevdiği öğrencinin arkalarından geldiğini gördü . Bu , akşam yemeğinde İsa’nın göğsüne yaslanıp , “ Efendimiz , sana ihanet eden kim ? ” diye soran öğrenciydi .
+43021021	ne		Petrus onu görünce İsa’ya , “ Efendimiz o ne olacak ? ” diye sordu .
+43021022	ne		İsa da , “ Ben gelene kadar onun kalmasını istiyorsam sana ne ? Sen ardımdan gelmeye devam et ” dedi .
+43021023	ne		Bunun üzerine , kardeşler arasında bu öğrencinin ölmeyeceği söylentisi yayıldı . Ancak , İsa Petrus’a onun ölmeyeceğini söylememişti . “ Ben gelene kadar onun kalmasını istiyorsam sana ne ? ” demişti .
+44001011	neden		Onlara , “ Celileliler neden göğe bakıp duruyorsunuz ? Yanınızdan göğe alınan bu İsa , göğe gidişini gördüğünüz gibi , aynı şekilde geri gelecektir ” dediler .
+44002008	nasıl		Nasıl oluyor da her birimiz doğduğumuzdan beri duyduğumuz dilde , kendi dilimizde konuşmalar işitiyoruz ?
+44002012	neler		Hepsi hayret ve şaşkınlık içinde birbirine “ Neler oluyor ? ” diye soruyordu .
+44002037	ne		Bunu duyunca yüreklerine hançer saplanmış gibi oldu ve Petrus’la diğer elçilere “ Efendiler , kardeşler , ne yapacağız ? ” diye sordular .
+44003012a	neden		Petrus bunu görünce onlara şöyle dedi : “ Ey İsrailoğulları , buna neden şaşırıyorsunuz ? 
+44003012b	~		Ya da bu adamı sanki kendi gücümüzle veya dindarlığımız sayesinde yürütmüşüz gibi bize bakıyorsunuz ?
+44004007a	~		
+44004007b	hangi		Onları ortaya getirip “ Hangi yetkiyle veya 
+44004007c	kimin		kimin adıyla bunu yaptınız ? ” diyerek sorgulamaya başladılar .
+44004016	ne		“ Bu adamlara ne yapacağız ? ” diyorlardı . “ Çünkü onlar aracılığıyla olağanüstü bir iş gerçekleşti ; bunu tüm Yeruşalim halkı biliyor , biz de inkâr edemeyiz .
+44004025a	neden		Atamız olan hizmetkârın Davut’un ağzından kutsal ruh aracılığıyla söyledin : ‘ Neden milletler kargaşa içinde 
+44004025b	~		ve halklar boş şeyler kuruyor ?
+44005003	nasıl		Fakat Petrus ona şunları söyledi : “ Hananya , nasıl Şeytan’a uydun da paranın bir kısmını kendine saklayarak kutsal ruha karşı yalan söylemeye cüret ettin ?
+44005004	neden		Tarla satılmadan önce sana ait değil miydi ? Sattıktan sonra da istediğini yapmakta serbest değil miydin ? Neden yüreğinde böyle bir işe niyet ettin ? Sen insanlara değil Tanrı’ya yalan söyledin . ”
+44005009	niçin		Bunun üzerine Petrus ona şöyle dedi : “ Yehova’nın ruhunu sınamak için niçin aranızda söz birliği ettiniz ? Bak ! Kocanı gömenler kapıda , şimdi seni de götürecekler . ”
+44007026	neden		Ertesi gün onlardan ikisi kavga ederken karşılarına çıkıp , ‘ Efendiler , siz kardeşsiniz , neden birbirinize kötü davranıyorsunuz ? ’ diyerek onları barıştırmaya çalıştı .
+44007027	kim		Fakat komşusuna kötü muamele eden , ona karşı çıkarak ‘ Kim seni başımıza yönetici ve hâkim atadı ?
+44007035	kim		İsrailoğullarının ‘ Kim seni yönetici ve hâkim atadı ? ’ diyerek reddettiği bu Musa’yı , Tanrı çalıda görünen melek aracılığıyla hem yönetici hem de kurtarıcı olarak Mısır’a gönderdi .
+44007049a	ne gibi		‘ Yehova diyor ki , Gök tahtım , yeryüzü ise ayaklarıma basamaktır . Benim için ne gibi bir ev yapacaksınız ? 
+44007049b	neresidir		Ya da dinleneceğim yer neresidir ?
+44007052	~		Atalarınızın zulmetmediği bir peygamber var mı ? Evet , onlar o doğru Kişinin gelişini önceden duyuranları öldürdüler . Sizler de şimdi onu ele verdiniz ve onun katilleri oldunuz .
+44008031	nasıl		Adam ise , “ Biri bana yol göstermedikçe nasıl anlayabilirim ? ” dedi . Arabaya binip yanına oturması için Filipus’a yalvardı .
+44008033	kim		Aşağılandığı sırada adil bir yargılama kendisinden esirgendi . Onun geçmişinin ayrıntılarını kim söyleyecek ? Çünkü yeryüzünde yaşamına son veriliyor . ”
+44008034	kimin		Saray görevlisi , Filipus’a “ Rica ederim açıklar mısın , peygamber bu sözleri kimin için söylüyor ? Kendisi için mi , yoksa başka birisi için mi ? ” diye sordu .
+44008036	ne		Yolda giderlerken bir su kenarına geldiler ve saray görevlisi , “ İşte su , vaftiz edilmeme ne engel var ? ” diye sordu .
+44009004	neden		Yere düştü ve “ Saul , Saul , neden bana zulmediyorsun ? ” diye bir ses duydu .
+44009005	kimsin		Saul , “ Ey Efendim , sen kimsin ? ” diye sordu . Sesin sahibi , “ Ben zulmettiğin İsa’yım .
+44009006	~		Şimdi kalk , şehre gir ; yapman gerekenler sana bildirilecek ” dedi .
+44010004	~		Meleğe korku içinde bakakaldı ve “ Buyur Efendim ” dedi . Melek ona şunları söyledi : “ Duaların ve yaptığın hayırlar Tanrı tarafından anılmak üzere O’nun katına erişti .
+44010021	neden		Böylece Petrus aşağıya inip adamlara , “ Aradığınız kişi benim . Neden gelmiştiniz ? ” diye sordu .
+44010029	nedeninizi		Bu nedenle , çağrılınca itiraz etmeden geldim . Beni çağırma nedeninizi duymak isterim . ”
+44010047	kim		“ Bizim gibi kutsal ruhu almış bu kişilerin suyla vaftiz edilmelerini kim yasaklayabilir ? ”
+44011017a	kim		Eğer Tanrı , Efendimiz İsa Mesih’e iman eden bizler gibi , aynı armağanı onlara da bağışladıysa , ben kim oluyordum ki Tanrı’yı engelleyeyim ? ”
+44011017b	~		
+44012018	ne		Sabah olduğunda , Petrus’a ne olduğunu anlamaya çalışan askerler arasında büyük bir telaş yaşandı .
+44013025	kim		Fakat Yahya hizmetini tamamlamak üzereyken şöyle dedi : ‘ Benim kim olduğumu sanıyorsunuz ? Düşündüğünüz kişi ben değilim . İşte , benden sonra biri geliyor ki , ben onun çarıklarının bağını çözmeye layık değilim . ’
+44014015	neden		ve “ Efendiler ” diye haykırdılar . “ Neden böyle şeyler yapıyorsunuz ? Biz de sizin gibi zayıflıkları olan insanlarız ; bu boş şeyleri bırakıp yaşayan Tanrı’ya yönelmeniz için iyi haberi bildiriyoruz . O Tanrı ki göğü , yeri , denizi ve içlerindeki her şeyi yaratandır .
+44015010	neden		Öyleyse neden şimdi atalarımızın da bizim de taşıyamadığımız bir boyunduruğu öğrencilerin boyunlarına takarak Tanrı’yı sınıyorsunuz ?
+44016030	ne		Onları dışarıya çıkarıp , “ Efendiler , kurtulmak için ne yapmalıyım ? ” diye sordu .
+44017018	ne		Fakat Epikurosçu ve Stoacı bazı filozoflar onunla tartışmaya koyuldular . Kimi , “ Bu ukala ne anlatmak istiyor ? ” , kimi de , “ Galiba yabancı tanrıların habercisi ” diyordu . Çünkü o , İsa ve dirilme hakkındaki iyi haberi bildiriyordu .
+44017019	ne		Bu yüzden Pavlus’u tutup Areopagos’a götürdüler . “ Anlattığın bu yeni öğretinin ne olduğunu öğrenebilir miyiz ? ” dediler .
+44019003	neye		“ O halde neye göre vaftiz edildiniz ? ” diye sordu , “ Yahya’nın vaftizine göre ” dediler .
+44019015	kimsiniz		Fakat bir keresinde kötü ruh onlara , “ İsa’yı bilirim , Pavlus’u da tanırım , peki siz kimsiniz ? ” diye karşılık verdi .
+44019035	~		Sonunda şehir kâtibi kalabalığı susturdu ve şöyle seslendi : “ Ey Efesoslular , büyük Artemis’in tapınağının ve gökten düşen tasvirinin bekçisi Efesos şehridir ; tüm dünyada bunu bilmeyen var mı ?
+44021013a	ne		O zaman Pavlus bize şunları söyledi : “ Ne yapıyorsunuz ? 
+44021013b	neden		Ağlayarak neden yüreğimi eritiyorsunuz ? Bilin ki , ben Efendimiz İsa’nın ismi uğrunda Yeruşalim’de sadece zincire vurulmaya değil , ölmeye de hazırım . ”
+44021022	ne		Bu durumda ne yapacağız ? Senin buraya geldiğini mutlaka duyacaklar .
+44021033a	kim		Komutan gelip Pavlus’u yakaladı ve çift zincirle bağlanmasını emretti . Onun kim olduğunu 
+44021033b	ne		ve ne yaptığını soruşturmaya başladı .
+44022007	neden		Yere düştüm ve ‘ Saul , Saul , neden bana zulmediyorsun ? ’ diye bir ses duydum .
+44022008	kimsin		‘ Kimsin Efendim ? ’ diye sordum ; ‘ Ben zulmettiğin Nasıralı İsa’yım ’ dedi .
+44022010	ne		Bunun üzerine , ‘ Ne yapmalıyım Efendim ? ’ diye sordum . Efendimiz , ‘ Kalk , Şam’a git ; senin için belirlenen görevler sana orada söylenecek ’ dedi .
+44022016	ne		Şimdi ne bekliyorsun ? Kalk , vaftiz edil ve onun ismiyle yakararak günahlarından arın . ’
+44022026	ne		Subay bunu duyunca komutana gidip , “ Ne yapmak niyetindesiniz ? Bu adam Roma vatandaşı ” diyerek durumu bildirdi .
+44023003	~		O zaman Pavlus ona , “ Ey beyaz badanalı duvar , Tanrı da sana vuracak ! ” diye karşılık verdi . “ Sen hem Kanuna göre beni yargılıyor , hem de Kanunu çiğneyerek bana vurulmasını mı emrediyorsun ? ”
+44023009	~		Birden bağırıp çağırmaya başladılar ; Ferisiler kanadındaki yazıcılardan bazıları kalkıp hararetli bir savunmaya giriştiler . “ Bizce bu adamın işlediği bir suç yok ; bir ruh veya melek onunla konuşmuş olamaz mı ? . . . ” dediler .
+44023019	nedir		Komutan genci elinden tutup bir kenara çekti ve onunla özel olarak konuşarak “ Bana söyleyeceğin nedir ? ” diye sordu .
+44026008	neden		Tanrı’nın ölüleri diriltmesi neden sizlere inanılmaz geliyor ?
+44026014	neden		Hepimiz yere düştüğümüzde , benimle İbranice konuşan bir ses işittim , ‘ Saul , Saul , neden bana zulmediyorsun ? Üvendireyi teperek kendine zarar veriyorsun ’ dedi .
+44026015	kimsin		O zaman , ‘ Efendim , kimsin ? ’ diye sordum , ‘ Ben zulmettiğin İsa’yım ’ cevabını verdi .
+45002017	~		Mademki sen ismen bir Yahudisin , kanuna dayanıyor ve Tanrı’yla gurur duyuyorsun ,
+45002021	~		öyleyse , başkasına öğreten sen , kendine öğretmez misin ? “ Çalma ! ” emrini duyuran sen , çalar mısın ?
+45002028	~		Çünkü , dıştan Yahudi olan Yahudi değildir , dıştan , bedene yapılan sünnet de sünnet değildir .
+45003001a	nedir		O halde , Yahudinin üstünlüğü ya da sünnetin yararı nedir ?
+45003001b	~		
+45003003	ne		Peki , bazıları iman etmedilerse ne olur ? Onların imansızlığı Tanrı’nın güvenilirliğini boşa mı çıkarır ?
+45003005	ne		Peki , bizim haksızlığımız Tanrı’nın haklılığını daha da belirginleştiriyorsa , ne diyebiliriz ? ( İnsanın bakış açısıyla söylüyorum ) Tanrı gazabını ortaya döktüğünde acaba adaletsiz mi olur ?
+45003006	nasıl		Asla ! Öyle olsaydı Tanrı dünyayı nasıl yargılardı ?
+45003007a	~		Yine de , eğer benim yalanım yüzünden Tanrı’nın doğruyu söylediği daha da belirginleşiyor ve O yüceliyorsa , 
+45003007b	neden		neden ben hâlâ günahkâr olarak hüküm giyiyorum ?
+45003008	neden		Neden bazılarının bize yakıştırdığı , “ Kötülük yapalım ki , iyilik olsun ” sözünü biz de söylemeyelim ? Onlara verilen hüküm adalete uygundur .
+45003009	ne		Öyleyse ne diyelim ? Biz daha mı iyi durumdayız ? Kesinlikle değil ! Çünkü yukarıda , hem Yahudileri hem de Yunanlıları , hepsi günahın elindedir diye suçladık .
+45003027a	~		Öyleyse , ortada övünme diye bir şey kalır mı ? Hiçbir şekilde kalmaz . 
+45003027b	hangi		Bu hangi kanunla oluyor ? İşlerin kanunuyla mı ? Hayır , imanın kanunuyla .
+45003027c	~		
+45004001	ne		Bu durumda , soyumuzun atası olan İbrahim için ne diyebiliriz ?
+45004003	ne		Çünkü ayet ne diyor ? “ İbrahim Yehova’ya iman etti ve böylece doğru bir kişi sayıldı . ”
+45004010	hangi		Peki , hangi koşullarda böyle sayıldı ? Sünnetliyken mi yoksa sünnetsizken mi ? Sünnetliyken değil , sünnetsizken .
+45005010	~		Eğer bizler düşmanken Oğlunun ölümü sayesinde Tanrı ile barıştıysak , şimdi O’nunla barıştırılmışken , Oğlunun yaşamı sayesinde kurtulmamız daha da kesindir .
+45005021	nedir		Amaç nedir ? Günah ölümle birlikte kral olarak hüküm sürdüğü gibi , lütuf da Efendimiz İsa Mesih sayesinde sonsuz yaşam için doğruluk yoluyla kral olarak hüküm sürsün .
+45006001	ne		O halde ne diyelim ? Lütuf çoğalsın diye günaha devam mı edelim ?
+45006002	nasıl		Asla ! Bizler günah açısından öldüğümüze göre , artık nasıl günah içinde yaşarız ?
+45006015	nedir		Bundan çıkan sonuç nedir ? Kanuna değil lütfa tabi olduğumuzdan günah mı işleyelim ? Asla !
+45006021	ne		Peki , o zamanlar ne elde etmiştiniz ? Şimdi utanç duyduğunuz şeyleri ; üstelik bunların sonu ölümdür .
+45007007	ne		Öyleyse ne diyelim ? Kanun günah mıdır ? Asla ! Ancak , Kanun olmasaydı , gerçekten günahın ne olduğunu bilmezdim . Örneğin , Kanun “ Açgözlülük etmeyeceksin ” demeseydi , ben açgözlülüğün ne olduğunu bilmezdim .
+45007024	kim		Ne zavallı insanım ! Ölüme götüren bu bedenden beni kim kurtaracak ?
+45008024	~		Bu ümitle kurtulduk ; fakat görülen ümit , ümit değildir . İnsan gördüğü şeyi ümit eder mi ?
+45008031a	ne		Öyleyse , tüm bunlara ne diyelim ? 
+45008031b	kim		Eğer Tanrı bizimleyse , kim bize karşı durabilir ?
+45008032	neden		Kendi Oğlunu bile bizden esirgemeyip hepimiz için onu teslim eden , bize onunla birlikte diğer tüm şeyleri de neden lütfetmesin ?
+45008033	kim		Tanrı’nın seçtiklerini kim suçlayabilir ? Onları aklayan Tanrı’dır .
+45008034	kim		Kim onları mahkûm edebilir ? Ölmüş , fakat diriltilmiş olan , Tanrı’nın sağında bulunup bizim için yalvaran kişi Mesih İsa’dır .
+45008035	ne		Bizi Mesih’in sevgisinden ne ayırabilir ? Sıkıntı mı , keder mi , zulüm mü ; aç ya da çıplak kalmak mı ; tehlike mi , yoksa kılıç mı ?
+45009014	ne		O halde , ne diyebiliriz ? Tanrı adaletsizlik mi yapıyor ? Asla !
+45009019a	neden		Şimdi diyeceksin ki , “ Neden hâlâ kusur buluyor ? 
+45009019b	kim		O’nun açıkça belirttiği isteğine kim karşı gelebildi ? ”
+45009020a	kim		Sen , ey insan , kim oluyorsun da Tanrı’ya karşılık veriyorsun ? 
+45009020b	~		Kendisine biçim verilen şey , biçim verene , 
+45009020c	neden		“ Beni neden böyle yaptın ” der mi ?
+45009021	ne		Ne demek ? Çömlekçinin balçık üzerinde yetkisi yok mudur ; aynı kil topağından bir kabı onurlu bir işte kullanılmak üzere , diğerini de onurlu olmayan bir işte kullanılmak üzere yapamaz mı ?
+45009022	ne		Tanrı , öfkesini ve gücünü ortaya koymak istediği halde , yok edilmeye hazır olan gazap kaplarına büyük bir tahammülle katlandıysa ne diyebiliriz ?
+45009023	~		Ve böylece , onurlandırmak üzere önceden hazırladığı merhamet kapları olan bizlerde Kendi yüceliğindeki zenginliği göstermek istediyse ?
+45009024	~		Bizler , yalnız Yahudilerden değil diğer milletlerden de O’nun davet ettikleri , bunu sorgulayabilir miyiz ?
+45009030	ne		O halde ne diyelim ? Diğer milletlerin insanları doğruluğun peşinde olmadıkları halde ona eriştiler ; evet , imandan kaynaklanan doğruluğu elde ettiler .
+45009032	neden		Neden ? Çünkü çabası imana değil işlere dayanıyordu . “ Tökezleten taşa ” takılıp düştüler .
+45010006	kim		Oysa imandan kaynaklanan doğruluk hakkında şunu diyor : “ Yüreğinden şöyle geçirme : ‘ Kim göğe çıkacak da Mesih’i indirecek ? ’
+45010007	kim		Ya da ‘ Kim o dipsiz çukura inecek de Mesih’i ölüler arasından çıkaracak ? ’ ”
+45010008	ne		Peki ayet ne diyor ? “ O söz sana yakındır , senin ağzında ve yüreğindedir ” ; bizim duyurduğumuz , imanla kabul edilen “ söz ” işte budur .
+45010014a	nasıl		Ancak , iman etmedikleri kişiye nasıl yakaracaklar ? 
+45010014b	nasıl		Hakkında bir şey işitmedikleri kişiye nasıl iman edecekler ? 
+45010014c	nasıl		Birileri duyurmadıkça nasıl işitecekler ?
+45010015	nasıl		Eğer gönderen olmazsa nasıl gidip duyuracaklar ? Tıpkı yazıldığı gibi : “ İyi şeyler müjdeleyenlerin ayakları ne güzeldir ! ”
+45010016	kim		Yine de , hepsi iyi habere itaat etmedi . Çünkü İşaya şöyle diyor : “ Ey Yehova , bizden duyduğu habere kim iman etti ? ”
+45011004	neydi		Tanrı’dan gelen cevap neydi ? “ Baal’in önünde diz çökmemiş yedi bin kişiyi Kendime ayırdım . ”
+45011007	nedir		Öyleyse durum nedir ? İsrail , peşine düştüğü şeyi elde edemedi , ancak seçilmiş olanlar onu elde etti . Diğerleri duyarlılıklarını yitirmişlerdi .
+45011015	~		Onların atılması dünya için Tanrı ile barışma yolunu açtıysa , kabul edilmeleri ölümden hayata geçiş anlamına gelmez mi ?
+45011018	~		dallar karşısında övünme . Eğer onlar karşısında övünüyorsan unutma ki , kökü taşıyan sen değilsin , kök seni taşıyor .
+45011033a	~		Tanrı’nın nimetlerinde , hikmetinde ve bilgisinde ne büyük bir derinlik var ! 
+45011033b	~		Ne akıl ermez hükümleri , ne keşfedilemez yolları var !
+45011034a	kim		Çünkü “ Yehova’nın düşüncesini kim bildi , 
+45011034b	kim		ya da kim O’nun danışmanı oldu ? ”
+45011035	~		“ O’na daha önce bir şey vermiş olan var mı ki , alacaklı olsun ? ”
+45014004	kimsin		Sen kimsin ki , başkasının evindeki hizmetçiyi yargılıyorsun ? Efendisinin kararına göre , görevinde kalır ya da kalmaz . Kalacaktır da , çünkü Yehova onu görevinde tutabilir .
+45014010a	neden		Öyleyse , neden kardeşini yargılıyorsun ? 
+45014010b	neden		Ya da neden ona tepeden bakıyorsun ? Çünkü hepimiz Tanrı’nın hüküm kürsüsü önünde duracağız .
+46001020a	nerede		Bu dünyanın bilgeleri nerede ? 
+46001020b	nerede		Kanun uzmanları nerede ?  
+46001020c	nerede		Tartışmacıları nerede ? Tanrı dünyanın bilgeliğini akılsızlığa çevirmedi mi ?
+46002011	kim		İnsanlar arasında , bir insana ait şeyleri o insanın kendi ruhundan başka kim anlayabilir ? Aynı şekilde , Tanrı’ya ait şeyleri de Tanrı’nın ruhundan başka kimse anlayamaz .
+46002016a	kim		“ Yehova’nın düşünüşünü kim anlıyor 
+46002016b	~		ki O’na akıl verebilsin ? ” Biz ise Mesih’in düşünüşüne sahibiz .
+46003005a	kim		Peki , Apollos kim ? 
+46003005b	kim		Ya da Pavlus kim ? Her biri Rabbin kendisine verdiği işi yaparak iman etmenizde aracı olmuş hizmetkârlardır .
+46004007a	kim		Çünkü kim seni diğerinden farklı kılıyor ? 
+46004007b	~		Gerçekten de , almadan sahip olduğun bir şey var mı ? 
+46004007c	neden		Aldınsa , neden almamış gibi övünüyorsun ?
+46004021	hangisini		Hangisini istersiniz , size değnekle mi , yoksa sevgiyle ve yumuşak bir tutumla mı geleyim ?
+46005002	~		Sizse hâlâ böbürleniyor musunuz ? Oysa yas tutmanız ve bunu yapan kişiyi aranızdan atmanız gerekmez mi ?
+46005012	~		Dışarıdaki kişileri yargılamak benim işim mi ? Siz içinizdekileri yargılamaz mısınız ?
+46006001	neden		Aranızdan biri , diğeriyle bir davası olduğunda neden mahkemeye gitmeye kalkışır ? Neden konuyu kutsal kişilere değil de adaletsiz insanların önüne götürür ?
+46006003	~		Melekleri yargılayacağımızı bilmiyor musunuz ? Öyleyse , şimdiki hayata ait davalara bakamaz mıyız ?
+46006004	~		Eğer şimdiki hayatla ilgili bakılması gereken davalarınız varsa , bunları cemaatin itibar etmediği yargıçlara mı götürüyorsunuz ?
+46006007a	neden		Aslında aranızda davalar olması sizin için tam bir yenilgidir . Böyle davranacağınıza neden haksızlığa katlanmıyorsunuz ? 
+46006007b	neden		Dolandırılsanız bile neden bunu sineye çekmiyorsunuz ?
+46006009	nasıl		Doğruluktan uzak kişilerin Tanrı’nın krallığında mirası olmayacak , bunu nasıl bilmezsiniz ? Aldanmayın . Ne cinsel ahlaksızlık yapanlar , ne putperestler , ne zina yapanlar , ne sapık amaçla kullanılan erkekler , ne oğlancılar ,
+46006016	~		Evet , bilmiyor musunuz , fahişeyle birleşen onunla tek beden olur ? Çünkü , “ İkisi tek beden olacaklar ” diyor .
+46006019	~		Bedeninizin Tanrı’dan aldığınız ve sizde duran kutsal ruh için bir mabet olduğunu bilmiyor musunuz ? Siz kendinize ait değilsiniz ,
+46007016a	nereden		Çünkü sen kadın olarak , kocanı kurtaramayacağını nereden biliyorsun ? 
+46007016b	nereden		Ya da erkek olarak , karını kurtaramayacağını nereden biliyorsun ?
+46009007a	kim		Kim kendi harcamalarını karşılayarak askerlik hizmeti yapar ? 
+46009007b	kim		Kim bağ kurar da meyvesinden yemez ? 
+46009007c	kim		Kim sürü güder de sütünden içmez ?
+46009018	nedir		Öyleyse , alacağım karşılık nedir ? İyi haberi bildirirken , iyi haberin bana verdiği hakkı sonuna kadar kullanmadan , bu hizmeti karşılıksız olarak sunabilmektir .
+46010019a	nereye		Sözü nereye getirmek istiyorum ? 
+46010019b	~		Puta kurban edilen herhangi bir şeyin ya da putun bir anlamı var mı ?
+46010019c	~		
+46010029	neden		“ Vicdan ” derken senin değil , diğerinin vicdanından söz ediyorum . Çünkü başkasının vicdanı neden benim özgürlüğümü yargılasın ?
+46010030	neden		Eğer şükürle yiyorsam , şükrettiğim şey konusunda neden kötüleneyim ?
+46011022	ne		Peki , yiyip içmek için evleriniz yok mu ? Yoksa siz Tanrı’nın cemaatini hor mu görüyorsunuz ? Yiyecek bir şeyi olmayanları utandırmak mı istiyorsunuz ? Bu durumda size ne diyeyim ? Öveyim mi ? Bu konuda övemem .
+46012017a	nasıl		Eğer bedenin tümü göz olsaydı , işitme nasıl mümkün olurdu ? 
+46012017b	nasıl		Tümü işitmeye yarasaydı , koku alma nasıl mümkün olurdu ?
+46012019	~		Hepsi aynı uzuv olsaydı , beden diye bir şey olur muydu ?
+46014006	ne		Şimdi kardeşlerim , yanınıza gelip farklı diller konuşsam , bir vahiy , bir bilgi , bir peygamberlik sözü aktarmadıkça ya da bir şey öğretmedikçe bunun size ne yararı olur ?
+46014007	nasıl		Kaval ya da lir gibi cansız şeyler de ses verirler ; ancak kaval ya da lir , farklı sesleri net olarak veremezlerse , onlarla ne çalındığı nasıl anlaşılır ?
+46014008	kim		Gerçekten , borazan da belirsiz bir sesle çağrı yaparsa kim savaşa hazırlanır ?
+46014009	nasıl		Benzer şekilde , sizin dile getirdikleriniz de anlaşılır şeyler değilse , söylenenler nasıl ayırt edilir ? Böylece aslında havaya konuşuyor olursunuz .
+46014015	ne		Öyleyse ne yapayım ? Ruhun verdiği yetenekle dua ettiğim gibi , zihnimle de dua edeyim . Ruhun verdiği yetenekle şükran ilahileri söylediğim gibi , zihnimle de söyleyeyim .
+46014016	nasıl		Eğer ruhun verdiği yetenekle Tanrı’ya şükredersen , orada oturan kişiler arasında bilgisiz biri , senin ne söylediğini anlamadan , şükran duana nasıl “ Amin ” desin ?
+46014026	nedir		Kardeşler , bundan çıkan sonuç nedir ? Bir araya geldiğinizde , kiminizde mezmur , kiminizde öğretecek bir şey , kiminizde vahiy , kiminizde farklı bir dil konuşma , kiminizde de tercüme yeteneği var . Her ne olursa olsun , her şey yapıcı bir amaçla yapılsın .
+46014036	~		Yoksa Tanrı’nın Sözü sizden mi çıkıp yayıldı , ya da yalnız size mi erişti ?
+46015012	nasıl		Eğer Mesih’in ölüyken diriltildiği duyuruluyorsa , nasıl oluyor da aranızdan bazıları “ dirilme yoktur ” diyor ?
+46015029a	~		
+46015029b	ne		Aksi halde , ölüler olmak üzere vaftiz edilenlerin durumu ne olur ? 
+46015029c	neden		Ölüler diriltilmeyecekse , neden bu amaçla vaftiz ediliyorlar ?
+46015030a	~		
+46015030b	neden		Biz de neden her an tehlike içindeyiz ?
+46015032	ne		Eğer Efesos’ta vahşi hayvanlarla boğuşurken bunu diğer insanlar gibi yaptımsa , bana ne yararı olur ? Eğer ölüler diriltilmeyecekse , “ Yiyelim , içelim , nasıl olsa yarın öleceğiz . ”
+46015035a	nasıl		Yine de bazıları şöyle der : “ Ölüler nasıl diriltilir ? 
+46015035b	ne tür		Ne tür bir bedenle hayata gelirler ? ”
+46015055a	nerede		“ Ey ölüm , nerede senin zaferin ? 
+46015055b	nerede		Nerede senin zehirli iğnen ? ”
+47002002	kim		Eğer sizi üzersem , üzdüğüm sizlerden başka beni sevindirecek kim var ?
+47002016	kim		İkinci grup için ölümün öldüren kokusu , birinciler içinse hayatın yaşatan kokusuyuz . Kim böyle bir şey için yeterli durumdadır ?
+47003008	~		ruh hizmeti , bundan çok daha ihtişamlı olmaz mı ?
+47003009	~		Evet , mahkûmiyete hizmet eden kanun ihtişamlı olduysa , doğruluk hizmeti ondan çok daha ihtişamlı olur .
+47006014a	nasıl		İman etmeyenlerle aynı bağın içine girmeyin . Çünkü doğrulukla kanunsuzluk arasında nasıl bir birlik olabilir ? 
+47006014b	ne		Ya da ışığın karanlıkla paylaştığı ne olabilir ?
+47006015a	nasıl		Mesih ile Belial arasında nasıl bir uyum olabilir ? 
+47006015b	ne		İman edenle iman etmeyen arasında ortak ne olabilir ?
+47006016	nasıl		Tanrı’nın mabediyle putlar arasında nasıl bir uyuşma olabilir ? Çünkü biz yaşayan Tanrı’nın mabediyiz ; Tanrı’nın söylediği gibi : “ Aralarında oturacağım ve aralarında yürüyeceğim , Ben onların Tanrısı olacağım , onlar da Benim halkım olacak . ”
+47011011	neden		Acaba neden ? Sizi sevmediğim için mi ? Sevdiğimi Tanrı biliyor .
+47011029a	kim		Kim zayıf olur da ben zayıflık hissetmem ? 
+47011029b	kim		Kim iman yolunda tökezletilir de ben kızmam ?
+47012013	~		Benim size yük olmamam dışında , diğer cemaatlerden aşağı kalır tarafınız var mı ? Bu hatamı da lütfen bağışlayın .
+47012017	~		Size gönderdiğim kişilere gelince , herhangi biri aracılığıyla sizden bir çıkar mı sağladım ?
+48002014	nasıl		İyi haberin içerdiği hakikate uygun davranmadıklarını görünce hepsinin önünde Kifas’a şöyle dedim : “ Sen bir Yahudi olduğun halde , Yahudi gibi değil diğer milletlerden biri gibi yaşarken , nasıl olur da milletlerden insanları Yahudi âdetlerine uymaya zorlarsın ? ”
+48003001	kim		Ey akılsız Galatyalılar ! Kim sizin aklınızı başınızdan aldı ? İsa Mesih’in direğe gerilişini bizden dinlerken , bunu gözlerinizle görüyor gibi değil miydiniz ?
+48003019	neden		Öyleyse Kanun neden verildi ? Kanun , İbrahim’in soyundan vaadi alan kişi gelene kadar suçları ortaya çıkarmak üzere sonradan eklendi ve bir aracının eliyle melekler kullanılarak iletildi .
+48004009a	nasıl		Fakat şimdi Tanrı’yı tanıdınız , daha doğrusu Tanrı tarafından tanındınız ; öyleyse nasıl olur da bu dünyanın zayıf ve aciz kalan temellerine geri dönerek 
+48004009b	~		yine onlara kulluk etmek istersiniz ?
+48004010	~		Belirli günleri , ayları , dönemleri ve yılları titizlikle tutuyorsunuz .
+48004015	nerede		O mutluluğunuz şimdi nerede ? Şundan kesinlikle eminim ki , mümkün olsaydı kendi gözlerinizi çıkarır bana verirdiniz .
+48004021	neler		Kanunun hükmü altında olmak isteyen sizler , bana söyleyin , Kanunda neler yazdığını duymadınız mı ?
+48004030	ne		Bununla birlikte , Kutsal Yazılar ne diyor ? “ Hizmetçiyi ve oğlunu kov , çünkü hizmetçinin oğlu asla özgür kadının oğluyla birlikte mirasçı olamaz . ”
+48005007a	kim		Bu yolda gayet iyi koşuyordunuz . Hakikat sözüne uymanıza kim engel oldu ?
+48005007b	~		
+48005011	~		Bana gelince kardeşlerim , hâlâ sünnet edilmenin gereğini savunsaydım zulüm görür müydüm ? Aslında o zaman , işkence direği onların önünde bir engel olmaktan çıkardı .
+49004009	neden		Demek ki o aşağılara , yeryüzüne inmiştir ; yoksa neden “ çıktığında ” ifadesini kullansın ?
+50001018	ne		Fakat bunun ne önemi var ? İster art niyetle ister iyi niyetle olsun , Mesih her şekilde ilan ediliyor ve ben bundan sevinç duyuyorum . Evet , sevinmeye de devam edeceğim .
+50001021	~		Benim için yaşamak Mesih’tir ve ölmek kazançtır .
+51002020	neden		Bu dünyanın dayandığı temeller açısından siz de Mesih’le birlikte öldünüz ; o halde neden sanki bu dünyaya ait olanlar gibi ,
+52002019	nedir		Çünkü Efendimiz İsa’nın hazır bulunuşu sırasında , onun önünde ümidimiz veya sevincimiz ya da övünç tacımız nedir ? Siz değil misiniz ?
+52003009	ne kadar		Tanrımızın önünde bize yaşattığınız büyük sevinçten ötürü , O’na sizin için ne kadar şükretsek azdır .
+54003005	nasıl		( Bir adam kendi ev halkını yönetmeyi bilmiyorsa , Tanrı’nın cemaatiyle nasıl ilgilenebilir ki ? )
+54006007a	~		Çünkü dünyaya bir şey getirmedik 
+54006007b	~		ve ondan bir şey de götüremeyiz .
+58001005	hangisine		Örneğin Tanrı meleklerden hangisine , “ Sen Benim oğlumsun ; Ben bugün senin baban oldum ” demiştir ? Ya da “ Ben onun babası olacağım , o da Benim oğlum olacak ” demiştir ?
+58001013	hangi		Ayrıca hangi meleğe , “ Ben düşmanlarını ayaklarının altına basamak yapıncaya dek sağımda otur ” demiştir ?
+58001014	~		Onların hepsi , kurtuluşu miras alacak olanlara hizmet etmek için gönderilen , hizmetle görevli ruhlar değil mi ?
+58002003	nasıl		böyle büyük bir kurtuluşa karşı kayıtsız kalırsak biz cezadan nasıl kaçabiliriz ? O kurtuluş ki , Efendimiz aracılığıyla bildirilmeye başlanmış ve onu duyanlar tarafından bize doğrulanmıştır .
+58002006a	kim		Buna tanıklık eden biri , bir yerde şunları söylüyor : “ İnsan kim ki , sen onu hatırlayasın , 
+58002006b	ne		ya da insanoğlu ne ki , onunla ilgilenesin ?
+58003016	kimlerdi		O’nun sesini duydukları halde , içini acı ve öfkeyle dolduranlar kimlerdi ? Musa’nın önderliğinde Mısır’dan çıkanların tümü değil mi ?
+58003017	kimlerden		Peki , Tanrı kırk yıl kimlerden usanç duydu ? Günah işleyenlerden , leşleri çöle serilenlerden değil mi ?
+58003018	kim		İtaatsiz davranışlarda bulunanlardan başka kim için , “ Dinlenme günüme onlar girmeyecek ” diye yemin etti ?
+58006004	~		Çünkü bir kere aydınlanmış , gökle ilgili karşılıksız armağanı tatmış , kutsal ruhtan pay almış ,
+58007011	ne		Tanrı’nın halkına verilen Kanunun önemli bir özelliği olan Levi kâhinliği yoluyla kusursuzluğa erişmek gerçekten mümkün olsaydı , Harun usulüne göre değil , Melkisedek usulüne göre olduğu söylenen başka bir kâhinin ortaya çıkmasına ne gerek kalırdı ?
+58009014	~		sonsuz olan ruh aracılığıyla kendini Tanrı’ya kusursuz olarak sunan Mesih’in kanı , yaşayan Tanrı’ya ibadet edebilmemiz için vicdanımızı ölü işlerden çok daha iyi arındırmaz mı ?
+58010001	~		Kanunda , gelecek iyi şeylerin aslı değil gölgesi bulunduğundan , insanlar her yıl devamlı sundukları aynı kurbanlarla , Tanrı’ya ibadet edenleri asla kusursuzluğa eriştiremezler .
+58010029a	~		O halde Tanrı’nın Oğlunu ayaklar altına alan , kendisini kutsal kılan ahdin kanını sıradanmış gibi gören ve lütuf ruhunu küçümseyerek inciten , sizce çok daha ağır bir cezaya layık görülmez mi ?
+58010029b	~		
+58010029c	~		
+58010029d	~		
+58011032	ne		Daha ne diyeyim ? Eğer Gideon , Barak , Şimşon , Yeftah , Davut , Samuel ve diğer peygamberlerden anlatmaya devam etsem zaman yetmeyecek .
+58012007	hangi		Tahammülünüz size bu terbiyeyi sağlayacaktır . Tanrı size oğulları gibi davranıyor . Hangi oğul babası tarafından terbiye edilmez ?
+58012009	~		Üstelik , bedeni hayatımızı borçlu olduğumuz babalarımız da bizi terbiye ederdi ve onlara saygı duyardık . O halde yaşamak için , ruhi hayatımızı borçlu olduğumuz Babamıza daha büyük istekle boyun eğmemiz gerekmez mi ?
+58012025	ne		Sizinle konuşanı sakın dinlemezlik etmeyin . Çünkü yeryüzünde Tanrı’nın uyarılarını aktaran kişiyi dinlemeyenler cezadan kurtulamadıysa , biz göklerden konuşandan yüz çevirirsek ne durumda oluruz ?
+58013006	ne		Böylece biz de tam bir cesaretle şöyle diyebiliyoruz : “ Bana yardım eden Yehova’dır , ben korkmam . İnsan bana ne yapabilir ? ”
+59002006	~		Oysa sizler yoksulu aşağıladınız . Sizi ezip mahkemelere sürükleyenler zenginler değil mi ?
+59002014	ne		Kardeşlerim , birisi imanı olduğunu söylüyorsa fakat iyi işler yapmıyorsa , ne yararı var ? Bu iman onu kurtarabilir mi ?
+59002016a	~		sizden biri onlara , “ Haydi güle güle gidin , ısının , karnınızı doyurun ” derse , 
+59002016b	ne		fakat yaşamak için ihtiyacı olan şeyleri vermezse ne yararı var ?
+59002018	~		Fakat biri şöyle diyebilir : “ Senin imanın var , benim de işlerim var . Sen bana imanını işler olmaksızın göster , ben de sana imanımı işlerimle göstereyim . ”
+59002021	~		Babamız İbrahim , oğlu İshak’ı sunak üzerinde sunduktan sonra , işleri sayesinde aklanmadı mı ?
+59003013	kim		Aranızda kim hikmetli ve anlayışlı ? İyi davranış tarzıyla , hikmetten kaynaklanan yumuşak başlı işleriyle bunu ortaya koysun .
+59003017	~		Fakat yukarıdan gelen hikmet , her şeyden önce saf ve temizdir ; ayrıca barışçıdır , makuldür , itaate hazırdır , merhametle ve iyi meyvelerle doludur , ayrımcılık yapmaz , ikiyüzlü değildir .
+59004001a	nereden		Aranızdaki savaşlar , kavgalar nereden kaynaklanıyor ? Bedeninizde sürekli çatışan güçlü arzulardan değil mi ?
+59004001b	~		
+59004012	kim		Kanun koyucu ve hâkim tektir . O , kurtarma ve yok etme gücüne sahiptir . Ya sen , kim oluyorsun da komşunu yargılıyorsun ?
+59004014	ne		yarın başınıza ne geleceğini bilemezsiniz . Sizler , kısa bir süre belirip kaybolan buğu gibisiniz .
+60002020	ne		Günah işlediğiniz için dayak yerseniz , buna katlanmanın ne değeri olur ? Fakat iyi olanı yaparken sıkıntı çeker ve buna katlanırsanız , bu Tanrı’yı memnun eder .
+60003013	kim		Gerçekten de , iyi olanı yapmakta gayretli olursanız , size kim zarar verebilir ?
+60004017	ne		Çünkü , Tanrı’nın evinden başlayacak yargılama için belirlenen zaman gelmiştir . Önce bizden başlanacaksa , Tanrı’nın iyi haberine itaatsiz olanların sonu ne olur ?
+60004018	nerede		“ Eğer doğru insan bile güçlükle kurtuluyorsa , Tanrı’dan korkmayan günahkâr nerede kalır ? ”
+61003004	nerede		şöyle diyecekler : “ Onun vaat edilen hazır bulunuşu nerede kaldı ? Bakın , atalarımızın ölüm uykusuna daldığı günlerden beri , yaratılışın başlangıcından bu yana her şey olduğu gibi sürüp gidiyor . ”
+61003011	ne		Bütün bu şeyler böyle dağılıp gideceğinden , kutsal davranışlar ve Tanrı’ya bağlılık yansıtan işler açısından ne gibi kişiler olmanız gerektiğini bilin .
+62002022	kim		İsa’nın Mesih olduğunu inkâr eden yalancı değilse kim yalancıdır ? Babayı ve Oğlu inkâr eden Mesih düşmanıdır .
+62003012	ne		kötüden olup kardeşini katleden Kain gibi olmayalım . Kardeşini ne için katletmişti ? Kendi işleri kötü , kardeşinin işleri doğru olduğu için .
+62003017	nasıl		Fakat dünya malına sahip olan biri , kardeşinin yokluk içinde olduğunu görüp de ondan şefkatini esirgerse , Tanrı’yı sevdiği nasıl söylenebilir ?
+62004020	~		“ Tanrı’yı seviyorum ” deyip de kardeşinden nefret eden yalancıdır . Çünkü , gördüğü kardeşini sevmeyen görmediği Tanrı’yı seviyor olamaz .
+62005005	kimdir		Dünyaya karşı zafer kazanan kimdir ? İsa’nın Tanrı’nın Oğlu olduğuna iman eden değil mi ?
+66005002	kim		Ayrıca güçlü bir melek gördüm ; yüksek sesle , “ Tomarı açmaya ve mühürlerini çözmeye layık kim var ? ” diyordu .
+66006010a	ne kadar		Feryat ederek şöyle diyorlardı : “ Kutsal ve gerçek olan Ulu Rabbimiz , yeryüzünde oturanları yargılayıp kanımızın öcünü almadan daha ne kadar bekleyeceksin ? ”
+66006010b	~		
+66006017	kim		Onların büyük gazap günü geldi . Buna kim dayanabilir ? ”
+66007013a	kim		Bunun üzerine , ihtiyarlardan biri bana şöyle dedi : “ Beyaz kaftanlar giymiş olan bu kişiler kim 
+66007013b	nereden		ve nereden geldiler ? ”
+66013004a	~		Onlar ejdere tapındılar , çünkü canavara yetkiyi o vermişti . Ayrıca , “ Canavar gibisi var mı ? 
+66013004b	kim		Onunla kim savaşabilir ? ” diyerek canavara da tapındılar .
+66015004a	kim		Kim Senden korkmaz 
+66015004b	~		ve adını yüceltmez , ey Yehova ? Çünkü vefalı olan yalnız Sensin ! Bütün milletler Senin önüne gelip tapınacak , çünkü buyruklarının adil olduğu açıkça görüldü . ”
+66017007	neden		Bu yüzden melek bana şöyle dedi : “ Neden şaşırıyorsun ? Şimdi sana kadının sırrını ve onu taşıyan yedi başlı on boynuzlu canavarın sırrını söyleyeyim :
+66018018	~		O yanarken çıkan dumana bakıp bağırdılar : ‘ Bu büyük şehir gibisi var mı ? ’
