@@ -1,0 +1,27 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+gara	20	gara
+gara pe	2	gara pe
+gara rehe	6	gara rehe
+garamo	3	gara -mo
+ma	5	ma
+ma'g̃a	43	ma'g̃a
+mahã	5	ma -hã
+maname	4	maname
+manamehũ	1	maname -hũ
+manameuhũ	1	maname -hũ
+manamo	10	ma -namo
+manongara	3	manon gara
+marã	73	mara
+mara'ngu	2	mara -'ngu
+marag̃atu	2	mara -g̃atu
+marãi	16	mara -i
+maramomi	8	mara -momi
+maraname	53	mara -name
+maranameuhũ	14	mara -name -hũ
+maranime	4	mara -nime
+maranuhũ	7	mara -nu -hũ
+maranuhũrame	27	mara -nu -hũ -rame
+marãva'ea	11	mara -va'ea
+marãve'ga	1	mara -ve'ga
+marãve'g̃a	2	mara -ve'ga
+mome	15	mome

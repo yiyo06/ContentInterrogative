@@ -1,0 +1,28 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+cá	35	cá
+cá fada	1	cá fad -a
+cá fhad	2	cá fad
+cad	142	cad
+cad as	3	cad as
+cad chuige	24	cad chuige
+cad é mar	2	cad é mar
+cád fad	1	cad fad # irish mutation
+cad fáth	1	cad fáth
+cárbh	2	cá -r # '-bh' is just a phonological element 
+cé	90	cé
+cé acu	17	cé acu
+cé agaibh	1	cé agaibh
+cé an fáth	1	cé an fáth
+cé mhéad	5	cé mhéad
+cé mhéad uair	1	cé mhéad uair
+céard	6	cé an rud
+cén	34	cé an
+cén áit	2	cé an áit
+cén chaoi	7	cé an chaoi
+cén duine agaibh	4	cé an duine agaibh
+cén fáth	38	cé an fáth
+cén sórt	4	cé an sórt
+cén uair	7	cé an uair
+cérbh	4	cé -r 
+conas	44	conas
+fada a	1	fada a # may lack 'cá'?

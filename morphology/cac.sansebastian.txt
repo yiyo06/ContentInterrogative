@@ -1,0 +1,33 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+'aj	10	'aj
+'aj 'ay	5	'aj 'ay
+'aja	8	'aja
+'ajm	4	'aj -m
+'ajm 'ay	1	'aj -m 'ay
+'ajtc 'ay	1	'aj -t -c 'ay
+'ajtil	7	'aj -til
+'ajtil 'ay	1	'aj -til 'ay
+aj 'ay	1	'aj 'ay
+aja	1	'aja
+ajm til	1	'aj -m -til
+b'a'n̈	4	b'a'n̈
+b'a'n̈i	3	b'a'n̈ -i
+b'a'n̈to	3	b'a'n̈ -to
+chajtl	4	chajtl
+chajtlto	1	chajtl -to
+i'ajm til	1	i- 'aj -m -til
+janic'	1	janic'
+jantc	2	jantc
+jantc xo tiempo	1	jantc xo tiempo
+jaye	4	jaye
+mach	63	mach
+machch	3	mach -ch
+machm	4	mach -m
+machn	2	mach -n
+macht	3	mach -t
+machtc	1	mach -t -c
+tas	104	tas
+tas yuj	81	tas yuj
+tasm	7	tas -m
+tasm yuj	3	tas -m yuj
+tast	11	tas -t

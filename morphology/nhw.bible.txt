@@ -1,0 +1,16 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ajqueya	75	ajqueya
+ajqueyame	2	ajqueya -me
+canque	24	canque
+catlique	6	catlique
+hasta quema	1	hasta quema
+hasta quesqui	1	hasta quesqui
+para tlen	51	para tlen
+quema	3	quema
+quemaya	5	quema -ya
+quenicatza	53	quenicatza
+quenque	45	quenque
+quesqui	7	quesqui
+quesqui tonali	3	quesqui tonali
+tlaque	90	tlaque
+tlen	4	tlen

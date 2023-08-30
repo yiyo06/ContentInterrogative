@@ -1,0 +1,25 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hoe	68	hoe
+hoe lang	2	hoe lang
+hoe vaak	1	hoe vaak
+hoelang	3	hoe -lang
+hoeveel	4	hoe -veel
+van wie	2	van wie
+waar	19	waar
+waar naartoe	1	waar naartoe
+waar vandaan	7	waar vandaan
+waarmee	2	waar -mee
+waarom	73	waarom
+waaroom	2	waarom
+waarop	1	waar -op
+waarover	2	waar -over
+waaruit	1	waar -uit
+waarvan	1	waar -van
+waarvoor	2	waar -voor
+wanneer	7	wanneer
+wat	100	wat
+wat voor	12	wat voor
+welk	2	welk
+welke	5	welk -e
+wie	83	wie
+wiens	2	wie -ns

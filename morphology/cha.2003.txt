@@ -1,0 +1,37 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+amånu	2	a- månu
+amånu nai	2	a- månu nai
+hafa	3	håfa
+håfa	121	håfa
+hafa na	1	håfa na
+håfa na	65	håfa na
+håfa taimanu	8	håfa tai- månu
+hafa taimanu na	1	håfa tai- månu na
+håfa taimanu na	9	håfa tai- månu na
+håyi	108	håyi
+håyi na	4	håyi na
+kuånto	6	kuånto
+kuånto na	1	kuånto na
+kuåntos tiempo	3	kuånto -s tiempo
+mangge	1	månu -gge
+mangginen manu	3	man- ginen månu
+mångge	6	månu -gge
+manhanåomanu	1	man- hanåo- månu
+manmångge	1	man- månu -gge
+månu	3	månu
+månu na	1	månu na
+ginen manu	3	ginen månu
+ginen manu na	1	ginen månu na
+ginen manu nai	1	ginen månu nai
+månu nai	7	månu nai
+ngai'an nai	6	ngai'an nai
+ngaian nai	1	ngai'an nai
+para månu	3	para månu
+sa håfa na	1	sa' håfa na
+sa' håfa	2	sa' håfa
+sa' håfa na	40	sa' håfa na
+sa' put håfa	1	sa' put håfa
+sa' put håfa na	6	sa' put håfa na
+taimanu	33	tai- månu
+taimanu na	1	tai- månu na
+taimanu nai	1	tai- månu nai

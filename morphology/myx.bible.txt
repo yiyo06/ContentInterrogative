@@ -1,0 +1,34 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aryeena	21	a- rye ena
+banaanu	6	ba- naanu
+barye	1	ba- rye
+baryeena	7	ba- rye ena
+biryeena	3	bi- rye ena
+buryeena	3	bu- rye ena
+byeenga	2	bye- enga
+eena	2	e- ena
+ena	11	ena
+indyeena	2	i- ndye- ena
+iryeena	1	i- rye -ena
+khulwashiina	16	khu- lwa- shiina
+khuryeena	11	khu- rye ena
+khushiina	1	khu- shiina
+khuutsya ena	1	khu- utsya ena
+kirye	1	ki- rye
+kyeenga	4	kye- enga
+liina	10	liina
+liryeena	1	li- rye ena
+lwaheena	1	lwa- he- ena
+lwashiina	53	lwa- shiina
+murye	2	mu- rye
+muryeena	10	mu- rye ena
+naanu	104	naanu
+ndyeena	1	ndye- ena
+shiina	135	shiina
+shiryeena	13	shi- rye ena
+tsiryeena	1	tsi- rye ena
+urye	2	u- rye
+uryeena	7	u- rye ena
+wahe	1	wahe ena
+waheena	23	wahe ena
+wutsya ena	1	w- utsya ena

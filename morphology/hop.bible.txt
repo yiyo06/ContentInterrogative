@@ -1,0 +1,68 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hak	78	haki -ø
+hak’i	4	haki -ø -’i
+hakim	3	haki -mu
+hákimu	1	haki -mu
+hakimuy	2	haki -mu -y
+hakiy	15	haki -y
+hákiynihqat	2	haki -y -ni -h -qat
+hákiyniqw	1	haki -y -ni -qw
+hakni	1	haki -ø -ni
+haknihqe	5	haki -ø -ni -h -qe
+haqam	17	haqam
+haqami	1	haqam -mi
+haqamii	2	haqam -mi -i
+haqamini	1	haqam -mi -ni
+haqaminiqw	1	haqam -mi -ni -qw
+haqamiya	2	haqam -mi -ya
+háqamni	2	haqam -ni
+háqamnihqe	1	haqam -ni -h -qe
+háqamo	4	haqam -o
+haqaqw	3	haqam -qw
+háqaqwya	1	haqam -qw -ya
+hihsa’	1	hihsa’
+hihsa’ hihta	1	hihsa’ hihta
+hihsa’haqam	3	hihsa’ haqam
+hihsakip	1	hihsa' -kip
+hihsakis	1	hihsa' -kis
+hihsavohaqam	3	hihsa' -vo haqam
+hihta	67	hihta (himu)
+hihtasana	1	hihta -sana (himu)
+hihtawat	6	hihta -wat (himu)
+hihtawata	1	hihta -wat -a (himu)
+himu	7	himu (himu)
+hímunihqey	1	himu -ni -h -qe -y (himu)
+hímuu	5	himu -u (himu)
+himuwa	8	himu -wa (himu)
+hin	65	hin
+hin’i	1	hin -’i
+hinhaqam	1	hin haqam
+hinhte’	1	hinh -te’
+hinhti	1	hinh -ti
+hinhtini	3	hinh -ti -ni
+hinhtiniqat	1	hinh -ti -ni -qat
+hinhtiniqw	1	hinh -ti -ni -qw
+hinhtiqw	3	hinh -ti -qw
+hinhtotini	3	hinh -to -ti -ni
+hinhtotiniqat	1	hinh -to -ti -ni -qat
+hinoq’ö	1	hinoqw ’ö # should be 'hinoqw'?
+hinoqw	89	hinoqw
+hiṅqaqwani	2	hin -qaq -wa -ni
+hiṅqaqwaqat	1	hin -qaq -wa -qat
+hiṅqaqwaqw	1	hin -qaq -wa -qw
+hiṅqawhqat	2	hin -qaw -h -qat
+hiṅqawlawu	1	hin -qaw -lawu
+hiṅqawni	2	hin -qaw -ni
+hinta	2	hin -ta
+hintani	8	hin -ta -ni
+hintaqamuy	1	hin -ta -qa -mu -y
+hintaqw	12	hin -ta -qw
+hintsakni	1	hin -tsa -ki -ni
+hintsanni	5	hin -tsa -na -ni
+hintsanniqat	2	hin -tsa -na -ni -qat
+hintsanyani	1	hin -tsa -na -ya -ni
+hintsatsk̇a	1	hin -tsa -ts -ki -̇a # not sure!
+hintsatsnani	2	hin -tsa -ts -na -ni
+hintsatsnaniqw	1	hin -tsa -ts -na -ni -qw
+hisat	9	hisat
+hísathaqam	1	hisat haqam

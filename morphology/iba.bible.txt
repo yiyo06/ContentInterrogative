@@ -1,0 +1,17 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+apa	1	apa
+ari ni	3	ari ni
+baka ni	81	baka ni
+berapa	5	ber- apa
+berapa penyuah	1	ber- apa penyuah
+dini	19	di- ni
+kapa	1	ka- apa
+kati ku	2	kati ku
+kemaya	8	kemaya
+kini	5	ka- ni
+nama	100	nama
+nama kebuah	99	nama kebuah
+namaka	4	nama -ka
+ni	17	ni
+ni pengelama	5	ni pengelama
+sapa	109	s- apa

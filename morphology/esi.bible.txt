@@ -1,0 +1,138 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+kia	21	ki -a
+kialiqaa	1	ki -a -liqaa
+kialiqaa-suli	1	ki -a -liqaa -suli
+kikulli	1	ki -kulli
+kimik	2	ki -mik
+kimun	2	ki -mun
+kiña	13	ki -ña
+kiñaasii	1	ki -ña -aasii
+kiñaasiiñ	1	ki -ña -aasii -ñ
+kiñaliqaa	5	ki -ña -liqaa
+kiñami	1	ki -ña -mi
+kiñauna	2	ki -ña -una
+kiñauvvauna	2	ki -ña -uvva -una
+kisimi	1	ki -si -mi
+kisuimma	1	ki -su -imma
+kisunik	1	ki -su -nik
+kisuniñ	1	ki -su -niñ
+kisunun	1	ki -su -nun
+kisut	2	ki -su -t
+kisuuva	1	ki -su -uva
+kisuuvat	1	ki -su -uva -t
+kitkuuvisi	1	ki -tkuu -visi # tkuu?
+kiumayumiñaġlugu	1	ki -umayumiñaġ -lugu # uma?
+kiunasugaluŋa	1	ki -una -suga -luŋa
+kiunasugivich	2	ki -una -sugi -vich
+kiuniaqpaasii	2	ki -u -niaq -p -aasii 
+kiunisuuvanŋa	2	ki -uni -su -uvanŋa # uni?
+kiunivisiŋa	1	ki -uni -visiŋa # uni?
+kiuva	6	ki -uva
+kiuvauna	1	ki -uva -una
+kiuvich	1	ki -u -vich
+kiuviñmi	1	ki -u -viñ -mi
+nalliak	5	nalli -ak
+nalliakta	2	nalli -ak -ta
+nallianun	1	nalli -a -nun
+nalliat	3	nalli -at
+nalliat-unnii	1	nalli -at -unnii
+nalliata	2	nalli -at -a
+nalliatigun	1	nalli -at -igun
+nalliŋich	1	nalli -ŋich # not sure!
+nalliqsi	4	nalli -q -si # not sure!
+nallivsi	2	nalli -v -si # not sure!
+nauŋ	2	nauŋ
+qakugu	3	qakugu
+qanuġayaqpa	1	qanuġ -ayaq -pa
+qanuġimña	1	qanuġ -imña
+qanuġli	3	qanuġ -li
+qanuġlikiaq	1	qanuġ -li -kiaq
+qanuġlugich	1	qanuġ -lugich
+qanuġlugu	3	qanuġ -lugu
+qanuġluni	8	qanuġ -luni
+qanuġluŋa	1	qanuġ -luŋa
+qanuġlusi	4	qanuġ -lusi
+qanuġluta	1	qanuġ -luta
+qanuġlutin	4	qanuġ -lutin
+qanuġlutiŋ	2	qanuġ -lutiŋ
+qanuġniaġmiñiqpat	1	qanuġ -niaġ -miñiq -pat # miñiq?
+qanuġniaġniqpat	1	qanuġ -niaġ -niq -pat
+qanuġniaġniqpik	1	qanuġ -niaġ -niq -pik
+qanuġniaqpaasiiñ	1	qanuġ -niaq -p -aasii -ñ
+qanuġ‌niaqpagich	1	qanuġ -niaq -pagich
+qanuġniaqpa‌liuna	1	qanuġ -niaq -pa -li -una
+qanuġniaqpigu	1	qanuġ -niaq -pigu
+qanuġniaqpisa	3	qanuġ -niaq -pisa
+qanuġniaqpisigik	1	qanuġ -niaq -pisigik
+qanuq	19	qanuq
+qanuq-aasii	2	qanuq -aasii
+qanuqimña	1	qanuq -imña
+qanuqłuni	8	qanuq -łuni
+qanuqłunimi	1	qanuq -łuni -mi
+qanuqłuniuna	1	qanuq -łuni -una
+qanuqłusi	1	qanuq -łusi
+qanuqłutin	4	qanuq -łutin
+qanuqłutiŋ	4	qanuq -łutiŋ
+qanuqsaagaluaqpaŋa	1	qanuq -saagaluaq -paŋa
+qanuqtilaaŋagun	1	qanuq -tilaa -ŋa -gun
+qanuquvisik	1	qanuq -u -visik
+qanusiġaqpatin	1	qanusiġaq -patin
+qanutchimik	2	qanutchi -mik
+qanutchiñik	1	qanutchi -ñik
+qanutułhaaq	1	qanutułhaaq
+qanutulli	1	qanutun -lli
+qanutun	13	qanutun
+qaŋa	4	qaŋa
+qaŋaaglaan	1	qaŋa -aglaan
+qavsiiqsuaġlugu	1	qavsi -iqsuaġlugu
+qavsiñik	2	qavsi -ñik
+qavsiñullu	1	qavsi -ñu -llu
+suġallakkaluaġumi	2	su -ġallakka -luaġumi
+suksraq	1	su -ksraq
+suliqutauniaqpat	1	su -li -qu -tau -niaq -pat
+suliqutauva	3	su -li -qu -tau -va
+sum	4	su -m
+sumi	4	su -mi
+sumiitpa	3	su -mi -it -pa
+sumiitpaimma	1	su -mi -it -pa -imma
+sumiitpaimña	1	su -mi -it -pa -imña
+sumik	40	su -mik
+sumik-aasii	1	su -mik -aasii
+sumiḷḷu	1	su -mi -llu
+sumiñ	8	su -miñ
+summagaisa	1	su -m -ma -gai -sa
+summallivsauq	1	su -m -ma -lli -vsauq
+summallu	1	su -m -ma -llu
+summan	73	su -m -man
+summan-aasii	2	su -m -man -aasii
+summanaasii	1	su -m -ma -n -aasii
+summanmi	1	su -m -ma -nmi
+summanmiuvva	1	su -m -ma -nmi -uvva
+sumuaqsivauna	1	su -muaq -si -va -una #?
+sumun	5	su -mun
+sumuŋniaqpich	1	sumuŋ -niaq -pich
+suna	3	su -na
+sunaimña	3	su -naim -ña
+sunamiuvvauna	1	su -nami -uvva -una
+sunauna	1	su -na -una
+suniaqpiŋa	1	su -niaq -piŋa
+suniaqpisa	1	su -niaq -pisa
+suniglu	1	su -niglu
+sunik	2	su -nik
+suŋiññiŋagaa	1	su -ŋi -ññi -ŋa -gaa
+suŋitchuq	1	su -ŋitchuq
+suruksrauvisa	1	su -ruksrau -visa
+susaġumaagaqsivich	1	su -saġumaagaq -si -vich
+sut	1	su -t
+sutquvich	1	su -t -qu -vich
+sutquyumavisi	1	su -t -qu -yuma -visi
+sutun	2	su -tun
+suuva	4	su -uva
+suuvik	1	su -u -vik
+suvisik	1	su -visik
+suvluniasii	1	su -vlu -ni -aasii
+suvlusi	1	su -vlu -si
+suvlusiasiuvva	1	su -vlu -si -asi -uvva
+suvluta	1	su -vlu -ta
+suvlu‌tauvagut	1	su -vlu -tau -vagut
+suvlutin	1	su -vlu -tin

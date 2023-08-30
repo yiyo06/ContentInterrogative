@@ -1,0 +1,42 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+amìı	91	amìı
+ayìı	54	ayìı
+ayìı dàts'ele	1	ayìı dàts' -ele
+ayìı dàts'ı̨ı̨	3	ayìı dàts' -ı̨ı̨
+ayìı gha	2	ayìı gha
+ayìı ghǫ	9	ayìı ghǫ
+ayìı t'à	2	ayìı t'à
+ayìıcho	1	ayìı -cho
+ayìıha	34	ayìı -ha
+dàde	1	dàde
+dàdıì-adı	2	dàdıì-adı
+dàgedıı	1	dàgedıı
+dàgets'ele	1	dàgets'ele
+dàgode	2	dàgode
+dàgǫ̀ht'e	2	dàgode -̨ht'e
+dàgòjà	2	dàgòjà
+dàgole	3	dàgole
+dàgǫǫle	2	dàgǫǫle
+dàgot'ı̨	1	dàgode -t'ı̨
+dàgot'ı̨į̀	1	dàgode -t'ı̨ -į̀
+dàhodıì	1	dàhodıì
+dàhòt'ı̨ı̨	6	dàhòt'ı̨ı̨
+dàht'e	4	dàht'e
+dàht'e-ı̨dè	3	dàht'e -ı̨dè
+dàı̨dı	1	dàı̨ -dı
+dàı̨waà-ı̨dè	1	dàı̨ -waà -ı̨dè
+dàneewǫ	2	dàneewǫ
+dànì	40	dànì
+dànì t'à	3	dànì t'à
+dànìghǫ	78	dànì -ghǫ
+dànìyeh	1	dànì -yeh
+dànıt'à	5	dànı -t'à
+dàtłǫ	6	dàtłǫ
+dàtłǫǫ̀	1	dàtłǫ -ǫ̀
+dàts'edı	3	dàts' -edı
+dàts'ejà	1	dàts' -ejà
+dàwehłe	1	dàwehłe
+dàwhaà	4	dàwhaà
+edı̨į̀	15	edı̨į̀
+gılaedì	2	gı- laedì
+welaedì	3	we- laedì

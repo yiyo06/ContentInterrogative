@@ -1,0 +1,32 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+apa	54	apa
+apa'a	2	apa -'a
+aponapa	43	a- pon- apa
+aponapa'a	3	a- pon- apa -'a
+arapa	47	ar- apa
+arapa'a	5	ar- apa -'a
+baramma	31	baramma
+baramma'a	3	baramma -'a
+barampa	3	barampa
+barampa abidda	1	barampa abidda
+bila	2	bila
+bilaepon	6	bila -epon
+dha' emma	2	dha' emma
+dhari dhimma	7	dhari dh- imma
+dhari ka'imma	1	dhari ka'- imma
+dhimma	8	dh- imma
+epabaramma	3	epa- baramma
+epabaramma'a	2	epa- baramma -'a
+ka'dhimma	6	ka'- dh- imma
+ka'imma	12	ka'- imma
+kadi ponapa	32	kadi pon- apa
+kantos bilaepon	1	kantos bila -epon
+kantos saponapa kale	1	kantos sa- pon- apa kale
+kemma	10	kemma
+pasera	40	pasera
+ponapa	58	pon- apa
+ponapana	1	pon- apa -na
+sampe' bila	2	sampe' bila
+sapa	53	s- apa
+saponapa	4	sa- pon- apa
+saponapa abidda	1	sa- pon- apa abidda

@@ -1,0 +1,40 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+angngapa	69	angng- apa
+antekamma	53	antekamma
+antekammako	4	antekamma -ko
+antekammami	5	antekamma -mo -i
+apa	108	apa
+apa saba'na	28	apa saba'na
+apai	2	apa -i
+apaka	1	apa -ka
+apami	6	apa -mo -i
+apamo	7	apa -mo
+apapi	2	apa -pi
+apaya	1	apa -ya
+inai	60	inai
+inaia'	3	inai -a'
+inaika	13	inai -ka
+inaiki'	1	inai -ki'
+inaiko	4	inai -ko
+inaikoka	1	inai -ko -ka
+inaimi	8	inai -mo -i
+inaimo	1	inai -mo
+kemae	14	kemae
+kemaei	5	kemae -i
+kemaeki	1	kemae -ki'
+kemaeki'	4	kemae -ki'
+kemaeko	1	kemae -ko
+kemaemi	4	kemae -mi
+kereanga	14	kere -anga
+kereangami	2	kere -anga -mo -i
+keremae	1	kere -mae
+nai	1	inai # special form of 'inai'?
+pirambaku	1	pirang -mbaku # not sure!
+pirang	1	pirang
+pissiapai	1	pissi- apa -i
+ringngapanna	8	ringngapanna
+siapa	3	siapa
+siapa sallona	1	siapa sallo -na
+siapami sallona	1	siapa -mi sallo -na
+siapapi salloku	1	siapa -pi sallo -ku
+siapapi sallona	1	siapa -pi sallo -na

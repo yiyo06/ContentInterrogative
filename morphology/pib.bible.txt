@@ -1,0 +1,58 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+gi	72	gi
+gi gixpoko	6	gi gixpoko
+gi gixpokotanu	1	gi gixpoko -ta -nu
+gi gixpokotyawaka	1	gi gixpoko -ta -ya -waka
+gi pejnu	6	gi pejnu
+gi pejnugognenanukta	2	gi pejnu -gogne -nanu -kta
+gi pejnupiranananukta	1	gi pejnu -pirana -nanu -kta
+gi pixpoko	3	gi p- gixpoko
+gi rixpoko	24	gi r- gixpoko
+gi rixpokotanna	1	gi r- gixpoko -ta -na -na
+gi rixpokotanu	4	gi r- gixpoko -ta -nu
+gi rixpokotyawaka	2	gi r- gixpoko -ta -ya -waka
+gi rixpokotyi	1	gi r- gixpoko -ta -yi
+giklu	4	gi -klu
+giklunanu	2	gi -klu -nanu
+gikluplu	1	gi -klu -pa -lu
+giklupni	2	gi -klu -pa -ni
+ginaka	20	ginaka
+ginakakokta	1	ginaka -ko -kta
+ginakapmaklu	3	ginaka -pa -maka -lu
+ginakapni	1	ginaka -pa -ni
+ginakatkalu	2	ginaka -tka -lu
+ginakatkana	2	ginaka -tka -na
+ginaklu	9	ginaka -lu
+ginna	2	ginna
+ginnanwa	1	ginna -n -wa
+gipshini	1	gi -pshi -ni
+girni	12	giru -ni
+giru	20	giru
+girupni	4	giru -pa -ni
+giryi	1	giru -yi
+katgi	1	katu -gi
+katmakla	1	katu -maka -la
+katni	13	katu -ni
+katu	51	katu
+katuklopishni	1	katu -klopish -ni
+katunni	1	katu -n -ni
+katunpatkani	1	katu -n -pa -tka -ni
+katupiranni	1	katu -pirana -ni
+katupni	2	katu -pa -ni
+katyegmaka	1	katu -yegi -maka # not sure about '-yegi'!
+katyi	2	katu -yi
+klu	73	klu
+klu chinanu	74	klu china -nu
+klu chinanugkoshpiroklu	1	klu china -nu -gkoshpiro -ko -lu # not sure about '-ko'!
+klu chinau	1	klu china -nu # typographic error?
+klukta	1	klu -kta
+klumka	1	klu -maka
+klunerkoxni	2	klu -neru -ko -x -ni
+klunerni	14	klu -neru -ni
+klunernige	1	klu -neru -ni -ge
+kluneru	9	klu -neru
+klunerukokta	1	klu -neru -ko -kta
+klunerupni	1	klu -neru -pa -ni
+klunerutkange	1	klu -neru -tka -n -ge
+kluneruya	2	klu -neru -ya
+klupirana	1	klu -pirana

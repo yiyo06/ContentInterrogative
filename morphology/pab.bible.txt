@@ -1,0 +1,59 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aliyakerala	1	aliyakere ala
+aliyakere	10	aliyakere
+aliyakerexe	7	aliyakere -xe
+aliyakereya	41	aliyakere -ya
+aliyakereyala	1	aliyakere -ya -la
+aliyakeriya	5	aliyakere -iya
+aliyako	3	aliyo -ako # not sure!
+aliyakoiyala	1	aliyo -ako -iya -la
+aliyakotaite	2	aliyo -ako -ta -ite
+aliyekoa	1	aliyo -koa
+aliyetala	1	aliyo -ta -la
+aliyo	11	aliyo
+aliyotala	3	aliyo -ta -la
+aliyotare	1	aliyo -ta -re
+alyako	3	alyako
+alyakoite	1	alyako -ite
+alyakota	2	alyako -ta
+alyakotare	1	alyako -ta -re
+otene kijiyaite	2	otene kij -iya -ite
+xala	66	xala
+xalaite	9	xala -ite
+xalaiya	20	xala -iya
+xalaiyatya	1	xala -iya -tya
+xalanae	2	xala -nae
+xalanai	1	xala -nai
+xalatya	4	xala -tya
+xoana	10	xoana
+xoana atyo hoka	2	xoana atyo hoka
+xoana hekota	1	xoana heko -ta
+xoana hoka	65	xoana hoka
+xoana xowaka	5	xoana xowaka
+xoana xowakaite	3	xoana xowaka -ite
+xoana xowakiya	1	xoana xowaka -iya
+xoanahalanite	1	xoana -halan -ite
+xoanaite	7	xoana -ite
+xoanaiya	1	xoana -iya
+xoanaiya hoka	1	xoana -iya hoka
+xoanala hoka	2	xoana -la hoka
+xoanama	1	xoana -ma
+xoanamakiya	1	xoana -ma -ka -iya
+xoanamate	2	xoana -ma -te
+xoanere	10	xoana -re
+xoanere ala hoka	2	xoana -re ala hoka
+xoanere hoka	22	xoana -re hoka
+xoaneretya	2	xoana -re -tya
+xoaneretya hoka	2	xoana -re -tya hoka
+xoanereya	1	xoana -re -ya
+xoanereya hoka	3	xoana -re -ya hoka
+xoare	70	xoare
+xoare haoka	1	xoare haoka
+xoare maheta	8	xoare maheta
+xoare mahetaiya	4	xoare maheta -iya
+xoare mahetala	1	xoare maheta -la
+xoarehare	4	xoare -hare
+xoareharenae	1	xoare -hare -nae
+xoarenai	1	xoare -nai
+xoaretya	1	xoare -tya
+xoareya	6	xoare -ya

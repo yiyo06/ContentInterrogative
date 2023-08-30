@@ -1,0 +1,22 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+apai	21	apai
+asakai	1	asa- kai
+asakai nari dekahna	1	asa- kai nari dekahna
+engkai	56	e- ng- kai
+i ja	21	i ja
+i ja nari	8	i ja nari
+ise	100	ise
+ja	2	ja
+kade	2	kade
+kadena	1	kade -na
+kadendu	2	kade -ndu
+kai	101	kai
+kai nari dekahna	2	kai nari dekahna
+ku ja	2	ku ja
+kuga	65	uga
+ndigan	3	ndigan
+ndiganai	5	ndigan -ai
+ngkai	36	ng- kai
+piga	3	piga
+piga kali	1	piga kali
+uga	2	uga

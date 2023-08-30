@@ -1,0 +1,45 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hány	3	hány
+hányszor	1	hány -szor
+hogyan	51	hogy -an
+hol	22	hol
+honnan	17	hogy -n
+honnét	1	hogy -n -t
+hová	5	hová
+ki	50	ki
+kicsoda	38	ki -csoda
+kicsodák	1	ki -csoda -k
+kié	2	ki -é
+kihez	3	ki -hez
+kik	3	ki -k
+kiknek	1	ki -k -nek
+kikre	1	ki -k -re
+kiktől	1	ki -k -től
+kinek	8	ki -nek
+kiről	1	ki -ről
+kit	3	ki -t
+meddig	4	meddig
+melyeket	1	mely -ek -et
+melyik	8	mely -ik
+melyiké	1	mely -ik -é
+melyikért	1	mely -ik -ért
+melyiket	2	mely -ik -et
+melyiküknek	2	mely -ik -üknek
+mennyi ideje	1	mennyi ideje
+mennyiben	1	mennyi -ben
+mennyivel	3	mennyi -vel
+mi	57	mi
+miből	1	mi -ből
+micsoda	8	mi -csoda
+mid	1	mi -d
+miért	81	mi -ért
+miféle	1	mi -féle
+mihez	2	mi -hez
+miként	2	mi -ként
+miképpen	2	mi -képpen
+mikor	7	mi -kor
+milyen	11	mi -lyen # also possible from 'mely'
+mire	2	mi -re
+miről	3	mi -ről
+mit	69	mi -t
+mivel	2	mi -vel

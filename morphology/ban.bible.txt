@@ -1,0 +1,72 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+akuda	3	a- kuda
+apa	26	apa
+apa krana	10	apa krana
+apa kranae	1	apa krana -e
+apa kranane	5	apa krana -ne
+apake	9	apa -ke
+apanga	2	apa -ang -a
+asapunapi	3	a- sapu- napi
+asapunapike	7	a- sapu- napi -ke
+buin amunapake	1	buin amu- napi -ke
+buin apa	1	buin apa
+dija	8	d- ija
+dijake	2	d- ija -ke
+dijanne	1	d- ija -ne
+dijaya	2	d- ija -ya
+dipidanke	3	di- pidan -ke
+encen	1	encen
+encenke	3	encen -ke
+enyen	4	e- nyen
+enyenke	1	e- nyen -ke
+kalinapi	1	kali- napi
+kenken	18	kenken
+kenkenang	2	kenken -ang
+kenkenanga	2	kenken -ang -a
+kenkenangake	1	kenken -ang -a -ke
+kenkenke	2	kenken -ke
+kija	3	k- ija
+kudake	1	kuda -ke
+kudang	2	kuda -ang
+malih amunapi	1	malih amu- napi
+malih amunapike	1	malih amu- napi -ke
+malih pidanke	3	malih pidan -ke
+napi	22	napi
+napi awinan	23	napi awinan
+napi awinane	3	napi awinan -e
+napi awinanipun	24	napi awinan -ipun
+napi awinannya	2	napi awinan -nya
+napike	26	napi -ke
+napike awinane	1	napi -ke awinan -e
+napike awinanipun	2	napi -ke awinan -ipun
+nguda	3	nguda
+ngudiang	8	nguda -ang
+nyen	17	nyen
+nyene	1	nyen -e
+nyenke	18	nyen -ke
+pidanke	1	pidan -ke
+punapi	7	pu- napi
+punapi awinan	3	pu- napi awinan
+punapi awinanipun	5	pu- napi awinan -ipun
+punapi awinannya	2	pu- napi awinan -nya
+punapi mawinan	1	pu- napi awinan # typographic error?
+punapike	21	pu- napi -ke
+punapike awinan	2	pu- napi -ke awinan
+punapike awinanipun	1	pu- napi -ke awinan -ipun
+ring dija	4	ring d- ija
+ring dijake	6	ring d- ija -ke
+saking dija	3	saking d- ija
+saking dijake	1	saking d- ija -ke
+sane encen	4	sane encen
+sane encenan	1	sane encen -ang # missing "g" ?
+sane encenke	7	sane encen -ke
+sapasira	5	sapa sira
+sapasirake	53	sapa sira -ke
+sapunapi	22	sapu- napi
+sapunapiang	2	sapu- napi -ang
+sapunapianga	1	sapu- napi -ang -a
+sapunapike	14	sapu- napi -ke
+sira	2	sira
+sirake	5	sira -ke
+uli dija	2	uli d- ija
+uling ipidan	1	uli -ang i- pidan # strange case

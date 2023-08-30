@@ -1,0 +1,54 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+a-yinmiya	11	a- yinmiya
+a-yinmiyana	9	a- yinmiya -na
+aburr-guyinmiya	1	a- burr- guyinmiya
+aburr-nga	4	a- burr- nga
+aburr-ngay	1	a- burr- nga -y
+aburr-ngiya	2	a- burr- nga
+aburr-yinmiya	6	a- burr- yinmiya
+an-an․gaya	5	an- an․ gaya
+an-guyinmiya	4	an- guyinmiya
+an-nga	6	an- nga
+an-nga nula	87	an- nga nula
+an-ngiya	1	an- nga
+ana-nga	76	ana- nga
+ana-nga jin-nika	2	ana- nga jin- nika
+ana-ngay	1	ana- nga -y
+arr-yinmiya	4	arr- yinmiya
+ay-yinda	2	ay- yinda
+gu-gaya	1	gu- gaya
+gu-gaya wenga	3	gu- gaya wenga
+gu-guyinmiya	1	gu- guyinmiya
+gu-yinmiya	6	gu- yinmiya
+gu-yinmiyana	1	gu- yinmiya -na
+gu-yinmiyapa	2	gu- yinmiya -pa
+gu-yinpa	9	gu- yinpa
+gun-an․gaya	4	gun- an․ gaya
+gun-guniya	1	gun- guyinmiya # typographic error or abbreviation?
+gun-guyinmiya	4	gun- guyinmiya
+gun-nga	38	gun- nga
+gun-nga nula	2	gun- nga nula
+gun-ngiya	6	gun- nga
+jin-ngay	1	jin- nga -y
+jiny-yinmiya	1	jin- yinmiya
+mu-yinmiyapa	5	mu- yinmiya -pa
+mun-an․gaya	1	mun- an․ gaya
+mun-nga	2	mun- nga
+ngu-ngiya	4	ngu- nga
+ngu-yinmiya	13	ngu- yinmiya
+ngu-yinmiyapa	2	ngu- yinmiya -pa
+nguburr-yinmiya	11	ngu- burr- yinmiya
+ny-yinga	8	nyi- nga
+ny-yingiya	2	nyi- nga # not sure, all verses are 'who are you?'
+ny-yinmiya	7	nyi- yinmiya
+ny-yinmiyana	6	nyi- yinmiya -na
+nyi-guyinmiya	2	nyi- guyinmiya
+nyiburr-guyinmiya	1	nyi- burr- guyinmiya
+nyiburr-nga	1	nyi- burr- nga
+nyiburr-ngiya	1	nyi- burr- nga
+nyiburr-yinmiya	12	nyi- burr- yinmiya
+yina aburr-gaya	2	yina a- burr- gaya
+yina an-gaya	5	yina an․ gaya
+yina gaya	7	yina gaya
+yina gaya wenga	2	yina gaya wenga
+yina gun-gaya	4	yina gun- gaya

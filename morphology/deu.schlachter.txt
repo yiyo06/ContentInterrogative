@@ -1,0 +1,27 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+wann	7	wann
+warum	50	warum
+was	165	was
+was für	6	was für
+welche	3	welch -e
+welchem	2	welch -em
+welchen	5	welch -en
+welcher	8	welch -er
+welches	8	welch -es
+wem	10	wer -em
+wen	6	wer -en
+wer	84	wer
+wessen	5	wes -sen
+wie	64	wie
+wie lange	5	wie lange
+wie oft	1	wie oft
+wie viele	2	wie viel -e
+wie vieles	1	wie viel -es
+wieviel	4	wie viel
+wo	24	wo
+woher	16	wo -her
+wohin	2	wo -hin
+womit	2	wo -mit
+woran	1	wo -an
+worauf	1	wo -auf
+wozu	4	wo -zu

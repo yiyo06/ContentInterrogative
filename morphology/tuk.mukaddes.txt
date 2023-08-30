@@ -1,0 +1,39 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+haçan	9	haçan
+haçana çenli	3	haçan -a çenli
+hany	8	hany
+haýsy	10	haýsy
+haýsyny	3	haýsy -ny
+haýsyňyz	2	haýsy -ňyz
+haýsysy	7	haýsy -sy
+haýsysynyň	3	haýsy -sy -nyň
+kim	65	kim
+kimden	1	kim -den
+kimdir	1	kim -dir
+kime	6	kim -e
+kimi	3	kim -i
+kimiň	2	kim -iň
+kimiňki	2	kim -iň -ki
+kimkä	5	kim -kä
+kimler	1	kim -ler
+kimlerdi	1	kim -ler -di
+kimmişiň	2	kim -mi -şiň
+kimsiň	1	kim -siň
+näçe	7	näçe
+näçe wagt	1	näçe wagt
+nädip	31	nädip
+nähili	25	nähili
+nämä	13	näme -ä
+nämäni	1	näme -ä -ni
+näme	108	näme
+näme üçin	88	näme üçin
+nämede	1	näme -de
+nämedigini	2	näme -digi -ni
+nämedir	1	näme -dir
+nämejik	1	näme -jik
+neneň	1	neneň
+niçik	1	niçik
+nirä	2	nire -ä
+nirede	12	nire -de
+nireden	15	nire -den
+nireli	1	nire -li

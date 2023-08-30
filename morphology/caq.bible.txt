@@ -1,0 +1,48 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+achiāp	8	a- chīö ap
+achīāp	1	a- chīö ap
+achīö	81	a- chīö
+am	1	ām
+ām	2	ām
+ām heuh	1	ām heuh
+aṅyih	2	aṅ- yih
+ap yòh	1	ap yòh
+ap yòh ap	1	ap yòh ap
+asuāpa	1	a- suh ap -a
+asuh	83	a- suh
+asuhtöre	1	a- suh -tö -re
+chiāp	3	chīö ap
+chīö	16	chīö
+chīöp	1	chīö ap
+ĕhē	6	ĕhē
+i ṙôken	3	i- ṙôk -en
+i rôòten	2	i- ṙô -ò -ten
+i ṙôòtenng	1	i- ṙô -ò -ten -ng
+i suh	1	i- suh
+iṙôkhöl	1	i- ṙôk -höl
+iṙôktöre	1	i- ṙôk -tö -re
+iṙôktören	1	i- ṙôk -tö -re -n
+irôòtö	1	i- ṙô -ò -tö
+isuh	24	i- suh
+kūö yòh	6	kūö yòh
+kūön yòh	1	kūö -n yòh
+kūöyòh	59	kūö yòh
+kūöyôm	1	kūö yòh -öm # not sure!
+kūyòh	1	kūö yòh # typographic error?
+nup yòh	1	nup yòh
+ök yòh ök	2	ök yòh ök
+öp yòh öp	5	öp yòh öp
+öpyòh öp	2	öp yòh öp
+pò yòh	6	pò yòh 
+pòyòh	4	pò yòh
+ṙeūeungyih	1	ṙeūeung- yih
+ṙôken	1	ṙôk -en
+siti	2	sitih
+sitih	105	sitih
+sitīh	2	sitih
+sītih	2	sitih
+sūap	1	suh ap
+suh	5	suh
+tösitih	3	tö- sitih
+yih	11	yih
+yòh	5	yòh

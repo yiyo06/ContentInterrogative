@@ -1,0 +1,14 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aba	65	aba
+abate	6	aba -te
+ma	17	ma
+mangue	11	mangu -e
+manguiti	2	mangu -iti
+mañɨ	63	mañɨ
+manose	5	manose
+manosete	5	manose -te
+manya	6	manya
+mbae	45	mbae
+mbaerã	115	mbae -rã
+mbaete	1	mbae -te
+sábado	2	s- aba -do # not sure!

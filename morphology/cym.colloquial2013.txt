@@ -1,0 +1,21 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+am faint	3	am faint
+ba un	1	pa un
+beth	113	beth
+ble	29	ble
+bwy	6	b pwy
+ers faint	1	ers faint
+faint	4	faint
+i ble	1	i ble
+o ble	3	o ble
+pa	15	pa
+pa rai	1	pa rai
+pa un	10	pa un
+pam	83	pam
+pham	3	pam
+phwy	1	pwy
+pryd	8	pryd
+pwy	77	pwy
+sawl	3	sawl
+sawl gwaith	1	sawl gwaith
+sut	58	sut

@@ -1,0 +1,31 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+a'achu tɨ pua'an	1	a'achu tɨ pua' an 
+a'achuni	6	a'achu -ni
+a'achuni pua'amua	1	a'achu -ni pua' amua
+a'achuni pua'amuaca	1	a'achu -ni pua' amua -ca
+a'achuni pua'an	1	a'achu -ni pua' an
+a'anaj	1	a'anaj
+a'anajni	6	a'anaj -ni
+a'anajqui	1	a'anaj -qui
+a'ataajni	1	a'a -taj -ni
+a'ataan	1	a'a -taa -ni # ?
+a'ataani	48	a'a -taa -ni
+a'atáɨnni	1	a'a -taa -ɨn -ni # strange case or 2.PL? 
+a'atajni	4	a'a -taj -ni
+a'atajqui	1	a'a -taj -qui
+a'atani	7	a'a -ta -ni
+a'ataqui	2	a'a -ta -qui
+a'atyaɨnni	2	a'a -tya -ɨn -ni # not sure
+a'atyaɨnqui	1	a'a -tya -ɨn -qui
+a'ini	157	a'i -ni
+a'ini een cɨn	59	a'i -ni een cɨn
+a'iqui	8	a'i -qui
+a'uni	30	a'u -ni
+a'uní	1	a'u -ni
+a'uqui	2	a'u -qui
+ai ta'uj	4	ai ta'uj
+ti'itaani	18	ti'i -taa -ni
+ti'itajni	40	ti'i -taj -ni
+ti'itajqui	4	ti'i -taj -qui
+ti'itani	1	ti'i -ta -ni
+ti'itaqui	2	ti'i -ta -qui

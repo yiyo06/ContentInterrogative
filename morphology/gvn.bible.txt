@@ -1,0 +1,34 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+wanja-wanja	12	wanja wanja
+wanjabu	16	wanja -bu
+wanjabuda	1	wanja -bu -da
+wanjaku	7	wanja -ku
+wanjamun	9	wanja -mun
+wanjanguy	1	wanja -nguy
+wanjarr	14	wanjarr
+wanjarrku	15	wanjarr -ku
+wanjarrmal	21	wanjarr -mal
+wanjarrmalda	9	wanjarr -mal -da
+wanjarrmalkuda	1	wanjarr -mal -ku -da
+wanjarrmalmal	1	wanjarr -mal -mal
+wanjarrman	4	wanjarr -man
+wanjarrmanka	5	wanjarr -man -ka
+wanjingka	1	wanji -ngka
+wanjinyaku	2	wanji -nyaku
+gwanjundumun	3	wanju -ndu -mun
+wanjundumundu	1	wanju -ndu -mun -du
+wanjungku	25	wanju -ngku
+wanjunku	3	wanju -nku
+wanjuyimbu	1	wanju -ymbu # typographic error?
+wanjuymbu	1	wanju -ymbu
+wanya	1	wanya
+wanyambaku	3	wanya -mba -ku
+wanyanda	1	wanya -nda
+wanyandamun	2	wanya -nda -mun
+wanyangka	4	wanya -ngka
+wanyanka	1	wanya -nka
+wanyu	33	wanyu
+wanyunku	1	wanyu -nku
+wanyurrimbu	4	wanyu -rri -ymbu
+wanyurrinju	1	wanyu -rri -ynju
+wanyurrinku	82	wanyu -rri -nku

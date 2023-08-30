@@ -1,0 +1,86 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hayka	1	hayka
+hayka kutikamataq	1	hayka ku -ti -kama -taq
+hayka watañataq	1	hayka wa -ta -ña -taq
+haykapikamataq	4	hayka -pi -kama -taq
+haykapitaq	6	hayka -pi -taq
+haykaptaq	1	hayka -pi -taq # typographic error?
+haykataq	3	hayka -taq
+haykatataq	3	hayka -ta -taq
+ima	18	ima
+imamantaq	2	ima -man -taq
+imamantataq	4	ima -manta -taq
+imananqakuraq	1	ima -na -nqa -ku -raq
+imanarusunkichikmá	1	ima -na -ru -sun -ki -chik -má
+imanasqa	1	ima -na -sqa
+imanasqamá	22	ima -na -sqa -má
+imanasqataq	62	ima -na -sqa -taq
+imanaykusurqankitaq	1	ima -na -y -ku -surqan -ki -taq
+imanichkantaq	1	ima -ni -chka -n -taq
+imaninantaq	1	ima -ni -na -n -taq
+imaninkichiktaq	2	ima -ni -nki -chik -taq
+imaninkitaq	3	ima -ni -nki -taq
+imaninmá	1	ima -ni -n -má
+imanisaqtaq	1	ima -ni -saq -taq
+imanisuntaq	2	ima -ni -sun -taq
+imaniwankichikya	1	ima -ni -wa -nki -chik -ya
+imaniymantaq	1	ima -ni -y -man -taq
+imapaqmá	2	ima -paq -má
+imapaqmi	1	ima -paq -mi
+imapaqñataq	3	ima -paq -ña -taq
+imapaqtaq	11	ima -paq -taq
+imaraq	1	ima -raq
+imaraqtaq	2	ima -raq -taq
+imata	2	ima -ta
+imatamá	1	ima -ta -má
+imataq	10	ima -taq
+imataraq	3	ima -ta -raq
+imataraqtaq	1	ima -ta -raq -taq
+imatataq	43	ima -ta -taq
+imawanraq	1	ima -wan -raq
+imawantaq	2	ima -wan -taq
+imayna	2	imayna
+imaynam	1	imayna -m
+imaynamá	6	imayna -má
+imaynanpi	1	imayna -npi
+imaynanpimá	4	imayna -npi -má
+imaynanpitaq	4	imayna -npi -taq
+imaynaraq	2	imayna -raq
+imaynatamá	2	imayna -ta -má
+imaynataq	27	imayna -taq
+imaynataqcha	1	imayna -taq -cha
+imaynataqmá	1	imayna -taq -má
+imaynatataq	4	imayna -ta -taq
+maymantamá	2	may -manta -má
+maymantataq	3	may -manta -taq
+maypim	2	may -pi -m
+maypitaq	12	may -pi -taq
+maypitaqcha	1	may -pi -taq -cha
+mayqan	4	mayqan
+mayqannikichiktaq	3	mayqan -ni -ki -chik -taq
+mayqanninmantataq	1	mayqan -ni -n -manta -taq
+mayqanninpamá	1	mayqan -ni -n -pa -má
+mayqannintaq	2	mayqan -ni -n -taq
+mayqannintataq	1	mayqan -ni -n -ta -taq
+mayqanpa	2	mayqan -pa
+mayqantaq	6	mayqan -taq
+mayqantataq	1	mayqan -ta -taq
+maytaq	5	may -taq
+maytataq	1	may -ta -taq
+maytaya	1	may -ta -ya
+pi	1	pi
+pikunamantaq	1	pi -kuna -man -taq
+pikunamantataq	1	pi -kuna -manta -taq
+pikunapaqtaq	1	pi -kuna -paq -taq
+pikunataq	2	pi -kuna -taq
+pim	3	pi -m
+pimá	6	pi -má
+pimantaq	2	pi -man -taq
+pimantaqsi	1	pi -man -taq -si
+pimantataq	1	pi -manta -taq
+pipa	5	pi -pa
+pipaqtaq	1	pi -paq -taq
+piraqtaq	1	pi -raq -taq
+pitaq	60	pi -taq
+pitaqsi	2	pi -taq -si
+pitataq	1	pi -ta -taq

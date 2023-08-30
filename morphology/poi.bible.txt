@@ -1,0 +1,29 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ai̱apaap	4	a- i̱ -apaap
+hasta jusaŋ	1	hasta jusaŋ
+i̱	66	i̱
+i̱apaap	19	i̱ -apaap
+iñt́icutɨgɨ̱yɨ	2	iñ- t́i -cutɨgɨ̱yɨ
+jucha̱	3	juch a̱
+juchɨs	4	juch ɨs
+juchɨxam	1	juch ɨxam
+ju̱na	2	ju̱na
+junɨm	1	junɨm
+junɨmpa	3	junɨm -pa
+junɨmyajpa	1	junɨm -yaj -pa
+jup	10	jup
+júp	1	jup
+juppɨc	10	jup -pɨc
+ju̱t́	27	ju̱t́
+jute̱n	2	jute̱n
+ju̱t́pɨc	2	ju̱t́ -pɨc
+jutsa̱	5	jutsa̱p
+jutsaŋ	4	jutsaŋ
+jutsa̱p	38	jutsa̱p
+juutspɨc	2	juuts -pɨc
+mii̱apaap	10	mi- i̱ -apaap
+t́i	88	t́i
+t́iapaap	4	t́i -apaap
+t́iiga	113	t́iiga
+t́iigas	1	t́iiga -s
+t́it́am	3	t́i -t́am

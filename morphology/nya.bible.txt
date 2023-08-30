@@ -1,0 +1,81 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+adzaperekanji	1	a- dza- pere- ka- -a- nji
+adzapindulanji	1	a- dza- pindu- li- -a- nji
+asokoseranji	1	a- sokose- ra- nji
+ayani	4	-a- yani
+bwanji	97	bwa- nji
+chanji	5	chi- -a- nji
+chifukwa chiyani	16	chifukwa chiyani
+chifukwa ninji	6	chifukwa ni- nji
+chiyani	76	chiyani
+chotani	4	chi- -a- ku- tani
+ingati	3	i- ngati
+kangati	1	ka- ngati
+kotani	2	ka- -a- ku- tani
+kudatani	1	ku- da- tani
+kudzatani	2	ku- dza- tani
+kutanthawuzanji	1	ku- tanthawu- zi- -a- nji
+kuti	42	ku- ti
+lanji	2	li- -a- nji
+liti	11	li- ti
+lotani	3	li- -a- ku- tani
+mdani	1	m- ndani
+motani	1	mu- -a- ku- tani
+muchitanji	2	mu- chita- nji
+muchitiranji	1	mu- chiti- ra- nji
+muderanji	2	mu- de- ra- nji
+mufuniranji	1	mu- funi- ra- nji
+mugoneranji	1	mu- gone- ra- nji
+mulekeranji	1	mu- leke- ra- nji
+mulumphiranji	1	mu- lumphi- ra- nji
+mum’masuliranji	2	mu- m’masuli- ra- nji
+mumbvutiranji	1	mu- mbvuti- ra- nji
+munditchuliranji	1	mu- ndi- tchuli- ra- nji
+mundiyeseranji	1	mu- ndi- yese- ra- nji
+muyimiranji	1	mu- yimi- ra- nji
+mwandisiyiranji	1	mu- -a- ndi- siyi- ra- nji
+mwandiyitaniranji	1	mu- -a- ndi- yi tani ra- nji
+n’chayani	1	n- chi- -a- yani
+n’chifukwa chiyani	2	n- chifukwa chiyani
+n’chiti	4	n- chi- ti
+n’chiyani	5	n- chiyani
+nchanji	1	n- chi- -a- nji
+nchayani	1	n- chi- -a- yani
+nchiyani	13	ndi chiyani
+ndani	76	ndani
+ndaninso	1	ndani -nso
+ndipindulanji	1	ndi- pindu- li- -a- nji
+ninji	2	ni- nji
+njotani	1	nj- a- -a- ku- tani
+nthawi yanji	2	nthawi i- -a- nji
+nyamandichitenjini	1	nyama- ndi- chite- nji -ni
+tidzatani	1	ti- dza- tani
+tifuniranjinso	1	ti- funi- ra- nji -nso
+titani	1	ti- tani
+ubvutiranjinso	1	u- bvuti- ra- nji -nso
+uchedweranji	1	u- chedwe- ra- nji
+uliranji	1	u- li- ra- nji
+undifunsiranjis	1	u- ndi- funsi- ra- nji -s
+undinzunziranji	1	u- ndi- nzunzi- ra- nji
+undipandiranji	1	u- ndi- pandi- ra- nji
+undipangiranji	1	u- ndi- pangi- ra- nji
+unenanji	1	u- nena- nji
+upeputsiranji	1	u- peputsi- ra- nji
+upindulanji	1	u- pindu- li- -a- nji
+uti	3	u- ti
+uweruziranji	1	u- weruzi- ra- nji
+uyang’anitsitsiranji	1	u- yang’an- itsitsi- ra- nji
+uyeseranjinso	1	u- yese- ra- nji -nso
+wa yani	2	u- -a- yani
+wachitiranji	1	u- -a- chiti- ra- nji
+wafikiranji	1	u- -a- fiki- ra- nji
+wakayikiranji	1	u- -a- kayiki- ra- nji
+wanji	1	u- -a- nji
+wayani	2	u- -a- yani
+wotani	11	u- -a- ku- tani
+yani	23	yani
+yanji	2	i- -a- nji
+yiti	1	i- ti # not sure!
+yotani	1	i- -a- ku- tani
+za yani	1	zi- -a- yani
+zanji	2	zi- -a- nji

@@ -1,0 +1,53 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+agehoki	1	a ga- hoki
+chaki	4	chi- a- ki
+chenani	4	chi- nani # ?
+chigambeki	2	chi- gamb- a- ki
+chihoki	2	chi- hoki
+chinani	1	chi- nani
+choni	70	chi- o- ni
+dihoki	3	di- hoki
+dyaki	2	di- a- ki
+dyuwahe	1	di- uw- a- hoki
+dyuwahi	1	di- uw- a- hoki
+fingahi	2	fi- ingahi
+finhani	2	fi- nhani
+fyani	1	fi- ani
+hoki	23	hoki
+igambigwaki	1	i- gamb- igw- a- ki
+ihoki	3	i- hoki
+ikulawahi	1	i- ku la wa- uw- a- hoki
+inachoni	1	i- na- chi- o- ni
+inhani	1	i- nhani
+kahoki	1	ku- uw- a- hoki
+kengahe	1	ka- ingahi
+konitendaki	1	ka- o- ni- tend- a- ki
+kowahe	3	ka- uw- a- hoki
+kowahi	1	ka- uw- a- hoki
+kwanani	2	ku- uw- a- nani # not sure!
+kwani	1	ku- ani
+lwaki	2	lu- a- ki
+lwani	1	lu- ani
+milaki	8	milaki
+mingahe	1	mi- ingahi
+mpaka milaki	4	mpaka milaki
+nani	80	nani
+nhani	156	nhani
+nigambeki	1	ni- gamb- a- ki
+nonani	7	no- nani
+noyehoki	1	no- ya- hoki
+saki	1	si- a- ki
+ukugambaki	3	u- -ku- gamb- a- ki
+ukupatahi	1	u- -ku- pata- hoki
+ukwijahe	1	u- -ku- ija- hoki
+wahoki	1	wa- uw- a- hoki
+waki	12	u- a- ki
+wani	2	wa- ani
+wenhani	1	wa- nhani # context should be 'who(m)', error of 'nani'?
+wowahe	1	wa- uw- a- hoki
+yaki	12	ya- a- ki
+yanhani	7	ya- nhani
+yani	2	ya- ani
+yehoki	12	ya- hoki
+yokuwanhani	1	ya- -ku- wa- nhani
+yoni	3	i- o- ni

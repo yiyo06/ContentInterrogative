@@ -1,0 +1,24 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aa	20	aa
+aa bei	1	aa be -i
+aa mɔi	4	aa mɔ -i
+aabe	2	aa be
+aabei	4	aa be -i
+aai	32	aa -i
+aŋa	5	aŋa
+aŋa baa	1	aŋa baa
+inɛ aa	41	inɛ aa
+inɛ aai	8	inɛ aa -i
+inge	55	inge
+inge dɛi	79	inge dɛ -i
+ingei	44	inge -i
+kijɛ inge	15	kijɛ inge
+kijɛ inge dɛi	1	kijɛ inge dɛ -i
+kijɛ ingei	2	kijɛ inge -i
+waaru inge le	7	waaru inge le
+waaru yagɔ baa	3	waaru yago baa
+waaru yagɔ le	1	waaru yago le
+yago	34	yago
+yagɔ	11	yago
+yagɔi	5	yago -i
+yani	78	yani

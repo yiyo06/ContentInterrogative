@@ -1,0 +1,38 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+angı	3	angı
+angılarını	1	angı -ları -nı
+angısı	4	angı -sı
+angısını	2	angı -sı -nı
+angısının	4	angı -sı -nı -n
+kaç	4	kaç
+kіm	70	kіm
+kіmä	5	kіm -a
+kіmdän	1	kіm -dan
+kіmdі	1	kіm -dі
+kіmdіr	16	kіm -dіr
+kіmsіn	6	kіm -sіn
+kіmsіnіz	1	kіm -sі -nіz
+kіmі	3	kі -mі
+kіmіm	4	kіm -іm
+kіmіn	9	kіm -іn
+näända	1	nään -da
+näändan	3	nään -dan
+nasıl	22	nasıl
+ne	132	ne
+neçіn	87	ne -çіn
+nedän	2	ne -dan
+nedіr	9	ne -dіr
+nekadar	4	ne -kadar
+neredä	19	nere -da
+neredän	12	nere -dan
+neredänsіn	1	nere -dan -sіn
+nereyі	2	nere -yі
+nesoy	44	ne -soy
+netürlü	1	ne -türlü
+neyä	2	ne -a
+neylän	5	ne -lan
+neyіn	1	ne -yіn
+nezaman	8	ne -zaman
+nezamanadan	3	ne -zaman -a -dan
+nezamandan	1	ne -zaman -dan
+nіcä	1	nіcä

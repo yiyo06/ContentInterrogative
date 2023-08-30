@@ -1,0 +1,16 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+how	69	how
+how long	5	how long
+how many	2	how many
+how many times	1	how many time -s
+how much	3	how much
+what	121	what
+what kind of	6	what kind of
+when	8	when
+where	33	where
+which	5	which
+which one	7	which one
+who	83	who
+whom	5	who -m
+whose	8	who -se
+why	92	why

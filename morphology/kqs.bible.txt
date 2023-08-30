@@ -1,0 +1,22 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+háá lɔ́ɔ́ kuɛɛ	1	háá lɔ́ɔ́ kuɛɛ
+haa telen kuɛɛ	1	háá telen kuɛɛ
+háá telen kuɛɛ	1	háá telen kuɛɛ
+kuɛɛ	34	kuɛɛ
+le kɔlɔ yɛɛ	9	le kɔlɔ yɛɛ
+le yɛɛ	93	le yɛɛ
+lɔ́ɔ́ kuɛɛ	5	lɔ́ɔ́ kuɛɛ
+nɛɛ	2	nɛ̀ɛ́
+nɛ̀ɛ́	51	nɛ̀ɛ́
+nɛ̀ɛ̀	9	nɛ̀ɛ́
+nɛ̀ɛ́-nɛ	1	nɛ̀ɛ́ -nɛ̀
+nɛ̀ɛ́-nɛ̀	16	nɛ̀ɛ́ -nɛ̀
+nɛ̀ɛ̀aa	4	nɛ̀ɛ́ -aa
+ɔ́ɔ̀	52	ɔ́ɔ̀
+telen kuɛɛ	4	telen kuɛɛ
+vɛɛ	15	vɛɛ
+vɛ̀ɛ́	7	vɛɛ
+vɛ̀ɛ̀	71	vɛɛ
+vɛ̀ɛ̀ kpɛ́	3	vɛɛ kpɛ́
+yɛɛ	81	yɛɛ
+yɛ̀ɛ̀	1	yɛɛ

@@ -1,0 +1,35 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ca jun q'uin	1	ca jun q'uin
+ca ti q'uin	1	ca ti q'uin
+caba	4	camba
+cache'	21	cache'
+cache'da	55	cache' -da
+cada	24	cada
+camba	4	camba
+can uc'a	8	cua uc'a
+caq'uin	8	ca q'uin
+catac	1	catac # strange case
+cax ti amba q'uin	1	cax ti amba q'uin
+caxca	12	caxca
+caxca q'uin	1	caxca q'uin
+caxca une	38	caxca une
+caxcaba	4	cax- caba
+caxcada	3	cax- cada
+caxcadajet	1	cax- cada -jet
+caxcajet	6	caxca -jet
+caxcajetla	1	caxca -jet -la
+caxcajon	7	caxca -jon
+caxcamba	13	cax- camba
+caxcatac	5	caxca -tac
+caxcone	11	caxca une
+cua'	74	cua '
+cua' tuba	7	cua ' tuba
+cua' uc'a	88	cua ' uc'a
+cua'tac	2	cua ' -tac
+cuaxca	18	cuaxca
+cuaxca tuba	1	cuaxca tuba
+cuaxca uc'a	4	cuaxca uc'a
+cuaxcatac	1	cuaxca -tac
+jäynum	1	jäy- num
+jäyp'e	7	jäy- p'e
+jäyp'e q'uin	1	jäy- p'e q'uin

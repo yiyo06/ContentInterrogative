@@ -1,0 +1,25 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ba'ax	140	ba'ax
+ba'ax kiin	8	ba'ax kiin
+ba'ax ten	9	ba'ax ten
+ba'ax ti'al	1	ba'ax ti'al
+ba'axi'	1	ba'ax -i'
+ba'axten	74	ba'ax ten
+bajux	1	bajux
+bix	71	bix
+buca'aj	7	buca'aj
+buca'aj kiin	1	buca'aj kiin
+jay p'éel	3	jay p'éel
+jay téen	1	jay téen
+máacal máac	4	máacalmáac
+máacalmáac	10	máacalmáac
+máax	90	máax
+máaxe'ex	1	máax -e'ex
+máaxech	7	máax -ech
+máaxen	4	máax -en
+máaxi'	4	máax -i'
+máaxo'obi'	1	máax -o'obi'
+macalmáac	1	máacalmáac
+tac ba'ax kiin	4	tac ba'ax kiin
+tu'ux	27	tu'ux
+tu'uxilech	1	tu'ux -il -ech

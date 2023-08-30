@@ -1,0 +1,16 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+dee mawx	39	dee mawx
+ka mawx	7	ka mawx
+lai mawx	6	lai mawx
+mawx	64	mawx
+miex	3	miex
+miex bawg	1	miex bawg
+miex ding	3	miex ding
+miex grheung	5	miex grheung
+pa tix	13	pa tix
+patix	60	pa tix
+pui mawx	35	pui mawx
+tik	1	tix # strange case?
+tix	10	tix
+yam mawx	1	yam mawx
+yuh ka mawx	213	yuh ka mawx

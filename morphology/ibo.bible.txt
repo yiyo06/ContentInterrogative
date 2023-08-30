@@ -1,0 +1,16 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aǹa	1	aṅa
+aṅa	57	aṅa
+gini	203	gini
+n'ihi gini	5	n'ihi gini
+n'ìhi gini	22	n'ihi gini
+ole	8	ole # 'how many'
+òle	24	òle # where/how
+òle ebe	40	òle ebe
+ọle ebe	1	òle ebe
+ole mb͕e	5	ole mb͕e
+òle mb͕e	6	òle mb͕e
+onye	23	ònye
+ònye	79	ònye 
+ọ̀nye	1	ònye
+ùb͕ò ole	1	ùb͕ò ole

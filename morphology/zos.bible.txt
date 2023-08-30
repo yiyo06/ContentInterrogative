@@ -1,0 +1,47 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hasta jujchøc	1	hasta jujchøc
+i	16	i
+i'is	32	i -'is
+i'ise	1	i -'is -e
+icøsi	1	i -cøsi
+inda'mete	1	i -nd -a'm -ete
+ipø	5	i -pø
+is	1	i -s
+ita'mete	1	i -ta'm -ete
+iyø	2	i -yø
+iyøṉ	2	i -yø -ṉ
+jujche	34	jujche
+jujche tiempo	1	jujche tiempo
+jujche'øc	1	jujche -'øc
+jujchecøs	1	jujche -cøs
+jujchepø	5	jujche -pø
+jujchøc	4	jujchøc
+jujta'mbø	1	jujche -ta'm -bø # strang case of 'where'?
+jut	20	jut
+jutacs	2	jut -acs
+juti	1	jut
+jutipø	10	jutipø
+jutipø'is	4	jutipø -'is
+jutita'mbø	1	jutipø -ta'm -bø # not sure!
+jutpøt	1	jut -pø -t
+jutz nøm	2	jutznøm
+jutz nømø	2	jutznøm -ø
+jutznøm	7	jutznøm
+jutznømø	4	jutznøm -ø
+ⁿiye	1	ⁿ- i -y -e # strange case; not sure!
+por qúe	1	por qúe
+qué	1	qué
+quién	4	quién
+ti	63	ti
+ti'ajcuy	84	ti -'ajcuy
+ti'cøtoya	1	ti -cøtoya
+ti'is	1	ti -'is
+ti'sque'te	1	ti -'s -que't -e
+ticotoya	1	ti -cøtoya
+ticøtoya	35	ti -cøtoya
+tina'ṉ	1	ti -na'ṉ
+tiyacs	1	ti -y -acs
+tiyete	1	ti -y -ete
+tiyø	20	ti -yø
+tiyø'ṉ	1	ti -yø -ṉ
+tiyøṉ	1	ti -yø -ṉ

@@ -1,0 +1,24 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+amb què	1	amb què
+com	68	com
+d'on	12	de on
+de qui	7	de qui
+de quin	3	de quin
+fins quan	3	fins quan
+on	25	on
+per què	69	per què
+per quin	1	per quin
+per quina	4	per quin -a
+quan	8	quan
+quan temps fa	1	quan temps fa
+quant	2	quant
+quant de temps	1	quant de temps
+quantes	3	quant -es
+quantes vegades	1	quant -es vegades
+quants	1	quant -s
+què	116	què
+qui	99	qui
+quin	27	quin
+quina	20	quin -a
+quines	1	quin -es
+quins	1	quin -s

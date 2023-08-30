@@ -1,0 +1,28 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+când	9	când
+care	24	care
+care-ți	1	care -ți
+căruia	3	care -ui -a # not sure!
+cât	3	cât
+cât mai este până când	1	cât mai este până când
+câtă vreme 	1	cât -ă vreme 
+câte	4	cât -e
+câte ori	1	cât -e ori
+ce	129	ce
+ce fel de	5	ce fel de
+ce-ai	1	ce -ai
+ce-am	1	ce -am
+ce-ar	1	ce -ar
+ce-mi	2	ce -mi
+cine	99	cine
+cui	8	cine -ui
+cum	60	cum
+de ce	75	de ce
+de ce-i	1	de ce -i
+de ce-l	7	de ce -l
+de ce-mi	1	de ce -mi
+de unde	13	de unde
+până când	3	până când
+pe care	3	pe care
+pe cine	3	pe cine
+unde	27	unde

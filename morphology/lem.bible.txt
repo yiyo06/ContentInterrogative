@@ -1,0 +1,18 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aányɛ́	83	aányɛ́
+aátɛ́	86	aátɛ́
+anyána	78	anyána
+anyíatɛ́	74	a- nyí- aátɛ́
+asana a yaátɛ́	6	asana a yaátɛ́
+báányɛ́	8	bá- aányɛ́ # not sure!
+beényí	1	be- ényí
+bɛ́yaátɛ́	2	bɛ́- yaátɛ́
+bínyie	2	bí- ényí -e
+ciényí	1	ci- ényí
+háányɛ́	43	háányɛ́
+nyiényí	2	nyí- ényí
+nyíényí	12	nyí- ényí
+túnyie	2	tú- ényí -e
+weényi	1	we- ényí
+weényí	4	we- ényí
+yaátɛ́	21	yaátɛ́

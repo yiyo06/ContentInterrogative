@@ -1,0 +1,39 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ali	6	ali
+aliig	2	ali -ig
+alinaas	1	ali -na -as
+haa	1	haa
+haana	23	haa -na
+haanaas	12	haa -na -as
+haashaa	1	haa -sh -aa
+heden	2	hed -en
+heden udaa	1	hed -en udaa
+hedii boltol	1	hed -ii boltol
+hedii hurtel	2	hed -ii hurtel
+hen	97	hen
+hend	3	hen -d
+heneer	1	hen -ee -r
+henees	1	hen -ee -s
+henii	5	hen -ii
+heniig	5	hen -ii -g
+heniih	2	hen -ii -h
+hentei	1	hen -tei
+her	1	her
+her udaan	2	her udaan
+herhen	12	her -hen
+hezee	7	hezee
+yaagaad	41	yaa -g -aa -d
+yaah	15	yaa -h
+yaaj	39	yaa -j
+yaasan	1	yaa -san
+yamar	47	yamar
+yuu	75	yuu
+yuug	1	yuu -g
+yuugaa	2	yuu -g -aa
+yuugaar	2	yuu -g -aa -r
+yuugaaraa	2	yuu -g -aa -r -aa
+yuun	4	yuu -n
+yuund	53	yuu -n -d
+yuuny	2	yuu -n -y
+yuut	1	yuu -t
+yuutai	2	yuu -tai

@@ -1,0 +1,20 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ai	112	ai
+bao giờ	1	bao giờ
+bao lâu	4	bao lâu
+bao nhiêu	7	bao nhiêu
+của ai	7	của ai
+đâu	25	đâu
+đi đâu	2	đi đâu
+gì	102	gì
+khi nào	4	khi nào
+làm sao	40	làm sao
+mấy lần	1	mấy lần
+nào	14	nào
+ở đâu	11	ở đâu
+sao	33	sao
+tại đâu	2	tại đâu
+tại sao	78	tại sao
+thế nào	8	thế nào
+thể nào	9	thế nào
+vì sao	1	vì sao

@@ -1,0 +1,50 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+abahe	1	aba- he
+amaki	1	ama- ki
+ate	18	a- te
+ba nde	6	ba nde
+bate	11	ba- te
+bingahe	1	bi- ngahe
+bite	11	bi- te
+bute	1	bu- te
+c'igihe	2	c'- iki- he
+dute	9	du- te
+gihe	1	gi- he
+giki	1	gi- ki
+gite	2	gi- te
+gute	4	gu- te
+hehe	46	he he
+ibihe	1	ibi- he
+ibiki	12	ibi- ki
+igihe	2	iki- he
+igiki	24	iki- ki
+igiki catumye	6	iki- ki catumye
+igiki gituma	16	iki- ki gituma
+igiki gitumye	12	iki- ki gitumye
+iki	95	iki
+iki catumye	2	iki catumye
+iki gituma	1	iki gituma
+iki gitumye	4	iki gitumye
+ikihe	6	iki- he
+ingahe	1	i- ngahe
+inki	1	in- ki
+irihe	2	iri- he
+ite	1	i- te
+kangahe	1	ka- ngahe
+ki	17	ki
+ko	2	ko
+ku ki	2	kuki
+kuki	2	kuki
+kw'iki	1	kw'- iki
+mute	9	mu- te
+n'igiki	1	n'- iki- ki
+n'iki	6	n'- iki
+nde	97	nde
+nk'iki	1	nk'- iki
+nte	3	n- te
+riki	1	ri- ki
+rite	1	ri- te
+rute	1	ru- te
+ryari	11	ryari
+ute	8	u- te
+uwuhe	2	uwu- he

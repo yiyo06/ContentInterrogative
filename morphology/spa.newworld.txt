@@ -1,0 +1,26 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+a dónde	1	a dónde
+adónde	2	a dónde
+cómo	59	cómo
+cuál	20	cuál
+cuáles	1	cuál -es
+cuándo	7	cuándo
+cuántas	3	cuánt -as
+cuántas veces	1	cuánt -as veces
+cuánto	2	cuánt -o
+cuánto tiempo	1	cuánt -o tiempo
+cuántos	1	cuánt -os
+de cuál	2	de cuál
+de cuánto	1	de cuánt -o
+de dónde	7	de dónde
+de qué	9	de qué
+de quién	6	de quién
+de quiénes	2	de quién -es
+dónde	28	dónde
+hasta cuándo	4	hasta cuándo
+por qué	86	por qué
+por qué razón	2	por qué razón
+qué	136	qué
+qué clase de	5	qué clase de
+quién	92	quién
+quiénes	5	quién -es

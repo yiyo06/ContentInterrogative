@@ -1,0 +1,52 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ima	10	ima
+imachar	1	ima -char
+imamanda	1	ima -manda
+imamandasik	1	ima -manda -sik
+imamandatak	3	ima -manda -tak
+imapatak	110	ima -pa -tak
+imapitak	4	ima -pi -tak
+imasa	3	ima -sa
+imasamandasik	1	ima -sa -manda -sik
+imasamandatak	3	ima -sa -manda -tak
+imasami	2	ima -sa -mi
+imasasik	3	ima -sa -sik
+imasatak	44	ima -sa -tak
+imasik	5	ima -sik
+imatak	66	ima -tak
+imaurakamatak	2	ima -ura -kama -tak
+imaurapas	1	ima -ura -pas
+imauratak	9	ima -ura tak
+imawantak	15	ima -wan -tak
+imawasik	4	ima -wa -sik
+imawatak	9	ima -wa -tak
+maikan	8	maikan
+maikankuna	1	maikan -kuna
+maikankunatatak	1	maikan -kuna -ta -tak
+maikantak	10	maikan -tak
+maikantatak	2	maikan -ta -tak
+maimandakunachar	1	mai -manda -kuna -char
+maimandasik	1	mai -manda -sik
+maimandatak	2	mai -manda -tak
+maimatak	2	mai -ma -tak
+maipisik	3	mai -pi -sik
+maipitak	13	mai -pi -tak
+maituku	5	maituku
+maituku unaitak	1	maituku unaitak
+maitukutak	1	maituku -tak
+masatak	1	masa -tak
+pi	2	pi
+pikunachar	1	pi -kuna -char
+pikunamandatak	1	pi -kuna -manda -tak
+pikunatak	7	pi -kuna -tak
+pikunatatak	2	pi -kuna -ta -tak
+pikunawatak	1	pi -kuna -wa -tak
+pimandasik	1	pi -manda -sik
+pimandatak	1	pi -manda -tak
+pipa	5	pi -pa
+pipatak	3	pi -pa -tak
+pisik	13	pi -sik
+pitak	35	pi -tak
+pital	1	pi -tal
+pitatak	2	pi -ta -tak
+piwatak	1	pi -wa -tak

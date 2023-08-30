@@ -1,0 +1,105 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ca	10	ca
+cacetek	1	ca -cetek
+caciqekemken	1	ca -ciqekem -ken
+caciqsikut	1	ca -ciqsi -ku -t
+caciqsiu	2	ca -ciqsi -u
+cakaniutnguciqa	1	ca -kaniutng -uci -qa
+cakciqaki	1	ca -kciqaki
+cakun	2	ca -kun
+cali-llu	1	ca -li -llu
+cali-qaa	1	ca -li -qaa
+caliaqumallruceci	1	ca -li -aquma -llru -ceci
+caliat-llu	1	ca -li -at -llu
+caliat-qaa	1	ca -li -at -qaa
+calua	1	ca -lu -a
+caluci	1	ca -luci
+caluku-llu	1	ca -luku -llu
+caluni	1	ca -luni
+caluten	1	ca -luten
+cam-llu	1	ca -m -llu
+camek	36	ca -mek
+camek-llu	1	ca -mek -llu
+camun	2	ca -mun
+camun-mi	1	ca -mun -mi
+canek	2	ca -nek
+casqellua	1	ca -sqellua
+cassurluci	1	ca -ssur -luci
+catairucianek	1	ca -tair -uci -a -nek
+cateksia	1	ca -teksia
+catngua	1	ca -tngua
+catnguciqat	1	ca -tng -uci -qa -t
+catun	1	ca -tun
+catun-llu	1	ca -tun -llu
+cauceci	1	ca -u -ceci
+caucianek	3	ca -uci -a -nek
+cauciqa	1	ca -uci -qa
+cauciqat	1	ca -uci -qa -t
+cauga	7	ca -u -ga
+cauga-llu	1	ca -u -ga -llu
+cauga-mi	1	ca -u -ga -mi
+caugat	1	ca -u -gat
+cauqatarta	1	ca -u -qatar -ta
+causit	1	ca -u -sit
+causit-mi	1	ca -u -sit -mi
+cauyukluten	1	ca -u -yuk -luten
+cauyuksit	3	ca -u -yuk -sit
+ciin	70	ciin
+ciin-llu	8	ciin -llu
+ciin-mi	9	ciin -mi
+kia	30	ki -a
+kia naliagnek	1	ki -a nali -ag -nek
+kia naliata	3	ki -a nali -at -a
+kia-kiq	1	ki -a -kiq
+kia-llu	3	ki -a -llu
+kia-mi	1	ki -a -mi
+kiami-llu	1	ki -a -mi -llu
+kina	23	ki -na
+kina-kiq	2	ki -na -kiq
+kina-kiq-llu	1	ki -na -kiq -llu
+kina-llu	2	ki -na -llu
+kina-mi	3	ki -na -mi
+kinkunek-llu	1	ki -n -ku -nek -llu
+kinkunun	1	ki -n -ku -nun
+kinkunun-llu	1	ki -n -ku -nun -llu
+kinkusmi	1	ki -n -ku -smi
+kinkut	3	ki -n -ku -t
+kinkut-llu	1	ki -n -ku -t -llu
+kitumek	1	ki -tu -mek
+kitumun	1	ki -tu -mun
+kitumun-llu	1	ki -tu -mun -llu
+kituuga	3	ki -tu -u -ga
+kituuga-mi	3	ki -tu -u -ga -mi
+kituuniatnga	1	ki -tu -u -ni -at -nga
+kituusit	2	ki -tu -u -sit
+kituuyuksecia	2	ki -tu -u -yuk -secia
+naken	4	na -ken
+naken-llu	1	na -ken -llu
+naken-mi	7	na -ken -mi
+naliagnek	2	nali -ag -nek
+naliak	7	nali -ak
+naliat	3	nali -at
+naliit	3	nali -ait
+nalirci	2	nali -ar -ci
+nalirpeci	1	nali -ar -peci
+nani	4	na -ni
+nani-mi	1	na -ni -mi
+nanta	6	na -nt -a
+nantat-llu	1	na -nt -a -t -llu
+natmun	3	na -t -mun
+nau͡gg'un	7	na -u͡gg'un
+nauwa	4	na -u -wa
+nauwa-mi	3	na -u -wa -mi
+nauwa-tuall'	1	na -u -wa -tuall'
+qaillun	83	qaillun
+qaillun-llu	6	qaillun -llu
+qaillun-mi	30	qaillun -mi
+qaillun-mi-llu	1	qaillun -mi -llu
+qaku	3	qaku
+qaku-mi	1	qaku -mi
+qangvaq	3	qang -vaq
+qangvaq-llu	1	qang -vaq -llu
+qangvarnek	1	qang -var -nek
+qavcin	2	qavci -n
+qavcinek	1	qavci -nek
+qavcirqunek	1	qavci -rqu -nek

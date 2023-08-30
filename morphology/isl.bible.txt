@@ -1,0 +1,33 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+af hverju	3	af hver -ju
+af hverjum	1	af hver -jum
+hvað	116	hvað
+hvaða	16	hvað -a
+hvaðan	11	hvað -an
+hvar	25	hvar
+hve lengi	2	hve lengi
+hve margar	2	hve margar
+hve mikið	1	hve mikill -ið
+hve miklu	1	hve mikill -lu
+hve mjög	1	hve mjög
+hve mörg	1	hve mörg
+hve oft	1	hve oft
+hvenær	6	hvenær
+hver	93	hver
+hverjir	4	hver -jir
+hverju	10	hver -ju
+hverjum	5	hver -jum
+hvern	5	hver -n
+hvernig	61	hvernig
+hvers	10	hver -s
+hvers vegna	26	hver -s vegna
+hversu	1	hversu
+hversu lengi	3	hversu lengi
+hvert	9	hver -t # can be 'hvert -t' what or 'hvar -at' where to,4
+hví	55	hví
+hvílíkur	1	hvílíkur
+hvor	2	hvor
+hvorn	2	hvor -n
+hvort	8	hvor -t
+nær	1	hvennær
+til hvers	3	til hver -s

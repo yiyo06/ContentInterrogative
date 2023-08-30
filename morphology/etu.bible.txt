@@ -1,0 +1,19 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+bhaghé	26	bhaghé
+bhaghé ebhú	6	bhaghé é- bhú
+bhaghé ejûm	9	bhaghé é- jûm
+bhaghé ekpak	4	bhaghé é- kpak
+bhaghé énê	3	bhaghé é- nê
+é bhík	1	é bhík
+é bhík	1	é bhík
+ébhík	1	é bhík
+echî	2	echî jen # reduction
+énê	79	é- nê
+fan	30	fan
+í bhík	1	í bhík
+íbhík	1	í bhík
+jen	138	jen
+jen é yími kən	11	jen é- yími kən
+nan	78	nan
+njə́n	4	n- jə́- n
+nnyón	10	n- nyó- n

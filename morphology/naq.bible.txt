@@ -1,0 +1,76 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+mâ	40	mâ
+mâ xū-i ǃaroma	1	mâ xū -i ǃaroma
+mâ ǁae	3	mâ ǁae
+mâ ǁaeb	2	mâ ǁae -b
+mâ ǁaeba	1	mâ ǁae -ba
+mâ ǁaen	1	mâ ǁae -n
+mâ ǁaets	1	mâ ǁae -ts
+mâ-e	2	mâ -e
+mâ-i	2	mâ -i
+mâb	5	mâ -b
+mâba	6	mâ -ba
+mâde	2	mâ -de
+mân	1	mâ -n
+mâna	2	mâ -na
+mânab	1	mâ -na -b
+mapa	24	mapa
+mapab	7	mapa -b
+mapas	7	mapa -s
+mapats	1	mapa -ts
+mâs	4	mâ -s
+mâsa	8	mâ -sa
+mati	40	mati
+mati-i	1	mati -i
+matib	16	mati -b
+matikō	5	mati -kō
+matikō ǃnāde	1	mati -kō ǃnāde
+matikōse	3	mati -kō -se
+matikōsets	2	mati -kō -se -ts
+matin	8	mati -n
+matis	6	mati -s
+matisa	1	mati -sa
+matits	11	mati -ts
+matt	1	matt
+mâǀîts	1	mâ ǀî -ts
+mâǁaen	1	mâ ǁae -n
+tarasa	1	tara -sa
+tarasats	1	tara -sa -ts
+tare	9	tare
+tare xū-e	1	tare xū -e
+tare xū-i	1	tare xū -i
+tare xū-i ǃaroma	13	tare xū -i ǃaroma
+tare xū-i ǃaromab	4	tare xū -i ǃaroma -b
+tare xū-i ǃaroman	1	tare xū -i ǃaroma -n
+tare xū-i ǃaromasa	2	tare xū -i ǃaroma -sa
+tare xū-i ǃaromats	4	tare xū -i ǃaroma -ts
+tare-e	45	tare -e
+tare-e nî	1	tare -e nî
+tare-eb	4	tare -e -b
+tare-en	2	tare -e -n
+tare-es	2	tare -e -s
+tare-ets	10	tare -e -ts
+tare-i	4	tare -i
+tare-i ǃaroma	1	tare -i ǃaroma
+tareba	1	tare -ba
+tarebe	4	tare -be
+tarena	1	tare -na
+tares	1	tare -s
+taresa	1	tare -sa
+tarexa	37	tare -xa
+tarexa xū-i	1	tare -xa xū -i
+tarexab	4	tare -xa -b
+tarexan	1	tare -xa -n
+tarexas	3	tare -xa -s
+tarexats	16	tare -xa -ts
+tari	4	tari
+tari-e	54	tari -e
+tari-eb	1	tari -e -b
+tari-es	1	tari -e -s
+tari-i	7	tari -i
+tarib	6	tari -b
+tariba	15	tari -ba
+tarigo	1	tari -go
+tarina	2	tari -na
+tarits	2	tari -ts
+taritsa	5	tari -ts -a

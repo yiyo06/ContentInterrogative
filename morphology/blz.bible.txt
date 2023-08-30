@@ -1,0 +1,30 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aana	12	aana
+aanamo	3	aana -mo
+aupa	7	a- upa
+ime	100	ime
+ipi	2	ipi
+ipimo	1	ipi -mo
+kadai	12	kadai
+koi upa	89	koi upa
+koi upamo	2	koi upa -mo
+maana	7	m- aana
+maripi	4	mar- ipi
+mbaria	4	m- aana
+mbariana	1	m- aana
+mbaripi	1	mar- ipi
+no'upaon	1	no'- upa -on
+nokadai	3	no- kadai
+nongko'upa	78	no- ngko'- upa
+pataka ipi	3	pataka ipi
+pipii	5	pi- pii
+piripii	1	piri- pii
+upa	102	upa
+upaionkumo	1	upa -ion -ku -mo
+upaiontamo	1	upa -ion -ta -mo
+upaioonmo	1	upa -ion -mo
+upamai	1	upa -mai
+upamo	2	upa -mo
+upamuu	2	upa -muu
+upana	2	upa -na
+upapo	1	upa -po

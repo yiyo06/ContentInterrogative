@@ -1,0 +1,116 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aka tovaini	1	aka tovai -ni
+akanivatirikara	1	aka -nivati -rika -ra
+akasamaninivatirorokari	1	aka -samani -nivati -rorokari
+akatanake	1	aka -t -an -ak -e
+akatovainivati	1	aka tovai -nivati
+akatovaiti	5	aka tovai -ti
+antari gara	16	antari gara
+tata	7	tata
+tatampatyo	1	tata -mpa -tyo
+tatampatyora	2	tata -mpa -tyo -ra
+tatarika	5	tata -rika
+tatarikatyo	5	tata -rika -tyo
+tatatayo	1	tata -tyo # typographic error?
+tatatyo	26	tata -tyo
+tatoita	13	tata -oita
+tyampa ankantaigakempa	1	tya -mpa a- n- kant -aig -ak -empa
+tyampa nonkantaigakempa	1	tya -mpa no- kant -aig -ak -empa
+tyampatyo onkantaenkani	1	tya -mpa -tyo o- n- kant -a -en -kani
+tyampatyo pinkantaigakempa	1	tya -mpa -tyo pi- n- kant -aig -ak -empa
+tyampatyora	3	tya -mpa -tyo -ra
+tyampatyora okantira	1	tya -mpa -tyo -ra o- kant -i -ra
+tyani	36	tya -ni
+tyanimpatyo	8	tya -ni -mpa -tyo
+tyanimpatyora	36	tya -ni -mpa -tyo -ra
+tyaniratyo	2	tya -ni -ra -tyo
+tyanirika	1	tya -ni -rika
+tyanirikaratyo	1	tya -ni -rika -ra -tyo
+tyanirikatyo	3	tya -ni -rika -tyo
+tyanirorokari	1	tya -ni -rorokari
+tyanityo	3	tya -ni -tyo
+tyanityora	6	tya -ni -tyo -ra
+tyara	25	tya -ra
+tyara ankantaigakempara	2	tya -ra a- n- kant -aig -ak -empa -ra
+tyara ankantaigakeri	1	tya -ra a- n- kant -aig -ak -e -ri
+tyara ikantaigakara	4	tya -ra i- kant -aig -ak -a -ra
+tyara ikantaigana	1	tya -ra i- kant -aig -a -na # an or na?
+tyara ikantaka	1	tya -ra i- kant -ak -a
+tyara ikantakara	4	tya -ra i- kant -ak -a -ra
+tyara ikantakempi	1	tya -ra i- kant -ak -e -mpi
+tyara ikantakerira	1	tya -ra i- kant -ak -e -ri -ra
+tyara ikantanakara	1	tya -ra i- kant -an -ak -a -ra 
+tyara inkantaigakeri	1	tya -ra i- n- kant -aig -ak -e -ri
+tyara inkantaiganaempa	1	tya -ra i- n- kant -aig -a -na -empa # an or na?
+tyara inkantakempa	2	tya -ra i- n- kant -ak -empa
+tyara inkantakempara	5	tya -ra i- n- kant -ak -empa -ra
+tyara inkantakenkani	2	tya -ra i- n- kant -ak -en -kani
+tyara nokanti	1	tya -ra no- kant -i
+tyara nonkantaigakempara	1	tya -ra no- n- kant -aig -ak -empa -ra
+tyara nonkantaige	1	tya -ra no- n- kant -aig -e
+tyara nonkantaigempi	1	tya -ra no- n- kant -aig -e -mpi
+tyara nonkantakempa	4	tya -ra no- n- kant -ak -empa
+tyara nonkantakempara	2	tya -ra no- n- kant -ak -empa -ra
+tyara nonkantakero	1	tya -ra no- n- kant -ak -e -ro
+tyara nonkante	1	tya -ra no- n- kant -e
+tyara okanta	1	tya -ra o- kant -a
+tyara okantaigakempi	1	tya -ra o- kant -aig -ak -e -mpi
+tyara okantaka	12	tya -ra o- kant -ak -a
+tyara okantakara	43	tya -ra o- kant -ak -a -ra
+tyara okantanakara	1	tya -ra o- kant -an -ak -a -ra
+tyara okanti	2	tya -ra o- kant -i
+tyara okantira	1	tya -ra o- kant -i -ra
+tyara onkantaigakeri	1	tya -ra o- n- kant -aig -ak -e -ri
+tyara onkantakempara	2	tya -ra o- n- kant -ak -empa -ra
+tyara pikantaigakara	8	tya -ra pi- kant -aig -ak -a -ra
+tyara pikantaigana	1	tya -ra pi- kant -aig -a -na # an or na?
+tyara pikantaigi	1	tya -ra pi- kant -aig -i
+tyara pikantaka	1	tya -ra pi- kant -ak -a
+tyara pikantakara	1	tya -ra pi- kant -ak -a -ra
+tyara pikantana	1	tya -ra pi- kant -a -na # an or na?
+tyara pikantiro	1	tya -ra pi- kant -i -ro
+tyara pinkantaigakempa	1	tya -ra pi- n- kant -aig -ak -empa
+tyara pinkantaigakempara	2	tya -ra pi- n- kant -aig -ak -empa -ra
+tyara pinkantaigakenara	2	tya -ra pi- n- kant -aig -ak -e -na -ra
+tyara pinkantaigakeri	4	tya -ra pi- n- kant -aig -ak -e -ri
+tyara pinkantaige	2	tya -ra pi- n- kant -aig -e
+tyara pinkante	4	tya -ra pi- n- kant -e
+tyara pinkantera	4	tya -ra pi- n- kant -e -ra
+tyaratyo	1	tya -ra -tyo
+tyaratyo inkantaigakempa	1	tya -ra -tyo i- n- kant -aig -ak -empa
+tyaratyo inkantaigakempara	3	tya -ra -tyo i- n- kant -aig -ak -empa -ra
+tyaratyo inkantakempara	2	tya -ra -tyo i- n- kant -ak -empa -ra
+tyaratyo nonkantaigakempara	1	tya -ra -tyo no- n- kant -aig -ak -empa -ra
+tyaratyo nonkantakerira	1	tya -ra -tyo no- n- kant -ak -e -ri -ra
+tyaratyo nonkantera	1	tya -ra -tyo no- n- kant -e -ra
+tyarika	3	tya -rika
+tyarika ankantaige	3	tya -rika a- n- kant -aig -e
+tyarika ikantaiga	1	tya -rika i- kant -aig -a
+tyarika ikantaigakempi	1	tya -rika i- kant -aig -ak -e -mpi
+tyarika ikantakara	1	tya -rika i- kant -ak -a -ra
+tyarika ikantakempi	1	tya -rika i- kant -ak -e -mpi
+tyarika inkantaigakempa	1	tya -rika i- n- kant -aig -ak -empa
+tyarika inkantaigakeri	1	tya -rika i- n- kant -aig -ak -e -ri
+tyarika inkantaitakena	1	tya -rika i- n- kant -ai -t -ak -e -na
+tyarika nonkantakempa	1	tya -rika no- n- kant -ak -empa
+tyarika okantakara	1	tya -rika o- kant -ak -a -ra
+tyarika okanti	1	tya -rika o- kant -i
+tyarikara	1	tya -rika -ra
+tyarikara ikantira	1	tya -rika -ra i- kant -i -ra
+tyarikarorokari pinkantaiganakempa	1	tya -rika -rorokari pi- n- kant -aig -an -ak -empa
+tyarikatyo	6	tya -rika -tyo
+tyarikatyo ankantaigakerira	1	tya -rika -tyo a- n- kant -aig -ak -e -ri -ra
+tyarikatyo ikantaigakara	1	tya -rika -tyo i- kant -aig -ak -a -ra
+tyarikatyo ikantaka	1	tya -rika -tyo i- kant -ak -a
+tyarikatyo ikantakara	3	tya -rika -tyo i- kant -ak -a -ra
+tyarikatyo inkantanakempara	1	tya -rika -tyo i- n- kant -an -ak -empa -ra
+tyarikatyo okantakara	3	tya -rika -tyo o- kant -ak -a -ra
+tyarikatyo pikantaigakara	1	tya -rika -tyo pi- kant -aig -ak -a -ra
+tyatake	1	tya -t -ak -e
+tyati	3	tya -ti
+tyatimpatyo	1	tya -ti -mpa -tyo
+tyatimpatyora	2	tya -ti -mpa -tyo -ra
+tyatirikara	3	tya -ti -rika -ra
+tyatirityo	1	tya -ti -ri -tyo
+tyatityo	1	tya -ti -tyo
+tyatityora	3	tya -ti -tyo -ra

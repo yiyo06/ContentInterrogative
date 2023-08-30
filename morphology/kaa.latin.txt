@@ -1,0 +1,35 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+kim	91	kim
+kimdi	3	kim -di
+kimge	4	kim -ge
+kimler	3	kim -ler
+kimlerden	1	kim -ler -den
+kimlerge	3	kim -ler -ge
+kimmen	1	kim -men
+kimnin'	6	kim -nin
+kimsen	1	kim -sen
+kimsen'	4	kim -sen
+kimsiz	1	kim -siz
+ne	93	ne
+ne ushın	12	ne ushın
+nege	86	ne -ge
+neler	1	ne -ler
+neni	7	ne -ni
+neshe	4	ne -she
+qa'ne	8	qa'- ne
+qalay	44	qalay
+qalayınsha	9	qalay -ın -sha
+qanday	34	qan -day
+qansha	4	qan -sha
+qashan	9	qashan
+qashang'a	3	qashan -g'a
+qay jerde	5	qay jer -de
+qay jerdensen'	1	qay jer -den -sen
+qay jerge	1	qay jer -ge
+qayaqqa	2	qay -aq -qa
+qayaqta	8	qay -aq -ta
+qayaqtan	14	qay -aq -tan
+qaysı	7	qay -sı
+qaysısı	5	qay -sı -sı
+qaysısın	1	qay -sı -sın
+qaysısının'	3	qay -sı -sın -ın

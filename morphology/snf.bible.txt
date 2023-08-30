@@ -1,0 +1,33 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+bi kera	4	bi kera
+ɓa	62	ɓa
+ɓaa	1	ɓa -a
+ɓada	1	ɓ- aa gada
+ɓee	1	ɓa -e
+ɓiida	5	ɓ- iida
+cera	4	c- era
+ciida	1	c- iida
+fiida	1	f- iida
+gada	17	gada
+gaɗa	2	gada # Allomorphe of '-ada'?
+hín na	1	hín na
+kada	1	k- aa gada
+kera	7	kera
+meyanɓa	1	meyan- ɓa
+na	79	na
+naɓa	1	na- ɓa
+raasɓa	1	raas- ɓa
+tah ya	44	tah ya
+tahɓa ya	1	tah -ɓa ya
+tahhaa ya	1	tah haa ya
+tahhúu ya	2	tah húu ya
+tahkaɗa ya	1	tah kaɗa ya
+wada	3	w- aa gada
+wiida	11	w- iida
+wuu ɓa	1	w- uu ɓa
+ya	110	ya
+ya da	3	y- aa gada # not sure!
+yada	2	y- aa gada
+yee	1	ya -e
+yiida	42	y- iida
+yuuɓa	1	y- uu ɓa

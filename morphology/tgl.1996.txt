@@ -1,0 +1,22 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+alin	9	alin
+ano	109	ano
+anong	11	ano -ng
+bakit	110	bakit
+gaano	3	ga- ano
+hanggang kailan	3	hanggang kailan
+ilan	1	ilan
+ilang	2	ilan -g
+ilang beses	1	ilan -g beses
+kailan	9	kailan
+kanino	7	kan- ino
+kaninong	3	kan- ino -ng
+magkano	1	magk- ano
+nasaan	11	na- saan
+paano	37	pa- ano
+paanong	12	pa- ano -ng
+saan	19	saan
+sino	91	s- ino
+sinong	4	s- ino -ng
+sinu-sino	1	sinu- s- ino
+taga-saan	1	taga- saan

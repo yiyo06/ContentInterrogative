@@ -1,0 +1,31 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+apa	27	apa
+apa sebabnya	14	apa sebabnya
+apa yang	32	apa yang
+apakah	21	apa -kah
+apakah yang	27	apa -kah yang
+bagaimana	57	bagai- mana
+bagaimanakah	3	bagai- mana -kah
+berapa	5	ber- apa
+berapa kali	1	ber- apa kali
+berapa lama	4	ber- apa lama
+berapakah	1	ber- apa -kah
+bilakah	1	bila -kah
+bilamanakah	1	bila mana -kah
+dari mana	4	dari mana
+di mana	5	di mana
+di manakah	5	di mana -kah
+kapan	3	kapan
+kapankah	2	kapan -kah
+ke mana	4	ke mana
+mana	7	mana
+mana yang	4	mana yang
+manakah yang	4	mana -kah yang
+mengapa	65	meng- apa
+mengapakah	1	meng- apa -kah
+siapa	13	si- apa
+siapa yang	17	si- apa yang
+siapakah	35	si- apa -kah
+siapakah yang	22	si- apa -kah yang
+untuk apa	1	untuk apa
+yang mana	2	yang mana

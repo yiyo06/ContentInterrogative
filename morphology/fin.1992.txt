@@ -1,0 +1,39 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+keille	2	ke -i -lle
+keiltä	1	ke -i -ltä
+keitä	3	ke -i -tä
+kenelle	1	ke -ne -lle
+kenen	10	ke -ne -n
+kenestä	1	ke -ne -stä
+ketä	2	ke -tä
+ketkä	2	ke -t -kä
+kuinka	52	kuinka
+kuinka kauan	5	kuinka kauan
+kuinka monta	2	kuinka monta
+kuinka monta kertaa	1	kuinka monta kertaa
+kuinka paljon	1	kuinka paljon
+kuka	68	ke -ne kuka
+kumman	2	kumpi -man
+kumpaa	1	kumpi -paa  
+kumpi	8	kumpi
+mihin	2	mi -hin
+mikä	32	mi -kä
+mikähän	1	mi -kä -hän
+miksei	1	mi -ksi -ei
+mikset	1	mi -ksi -et
+miksi	69	mi -ksi
+millä	9	mi -llä
+millainen	2	millai -nen
+millaisen	1	millai -sen
+millaisia	2	millai -sia
+millaista	1	millai -sta
+milloin	7	mi -lloin
+minkä	4	mi -n -kä
+minkähän	1	mi -n -kä -hän
+minne	3	mi -n -ne
+missä	18	mi -ssä # 'where' but actually a inflected form of 'mikä'
+mistä	20	mi -stä # same problem as 'missä'
+mitä	105	mi -tä
+miten	15	mi -ten
+montako	1	monta -ko
+paljonko	3	paljon -ko

@@ -1,0 +1,26 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+a ŋmɩn	5	a ŋmɩn
+ã-mɩnɛ	4	ã -mɩn -ɛ
+ãa	94	ãa
+abobe	3	abobe
+ãnʋ	2	ãnʋ
+bo	11	bo
+buor	36	buor
+bʋnʋ	8	bʋnʋ
+bʋnʋ̀	1	bʋnʋ
+bʋ̃nʋ	1	bʋnʋ
+bʋnʋ ƴãw	17	bʋnʋ ƴãw
+bʋ̃nʋ ƴãw	1	bʋnʋ ƴãw
+bʋ̃ʋ	32	bʋ̃ʋ
+bʋ̃ʋ n'ʋ	49	bʋ̃ʋ n'ʋ
+bʋ̃ʋ n'ʋ so	48	bʋ̃ʋ n'ʋ so
+bʋ̃ʋ so	6	bʋ̃ʋ so
+bʋ̃ʋ ƴãw	17	bʋ̃ʋ ƴãw
+debor	13	debor
+na-mɩnɛ	1	a -mɩn -ɛ # strange 'n'
+nyɩn	2	nyɩn
+nyɩnɛ	31	nyɩn # Allomorph
+ŋmɩn	11	ŋmɩn
+ŋmɩŋmɩn	67	ŋmɩŋ -mɩn
+ŋmɩŋmɩn na	1	ŋmɩŋ -mɩn na
+wa	8	wa

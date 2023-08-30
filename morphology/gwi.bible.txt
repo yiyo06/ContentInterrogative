@@ -1,0 +1,62 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+adaajii	7	ad- aajii
+aiiyu	1	aiiyu
+daanchy'aa	3	daan -chy'aa
+dagaajii	1	dag- aajii
+dahthee	1	dahthee
+deeginyąą	4	dee ginyąą
+deegooreheelyaa	1	dee goo reheel -yaa
+deegwaanchy'aa	1	dee gwaan -chy'aa
+deegwąhkhyuk	2	dee gwąh -khyuk
+deegwahtsii	1	dee gwąh -tsii
+deegwąhtsii	1	dee gwąh -tsii
+deegwehee'yaa	2	dee gwehee -yaa
+deegweheechy'aa	1	dee gwehee -chy'aa
+deegweheenjyaa	3	dee gwehee -nj -yaa
+deegwii'in	1	dee gwii -'in
+deegwiizhik	1	dee gwii -zhik
+deegwiłkhan	1	dee gwił -khan
+deegwiłkhyuk	1	dee gwił -khyuk
+deegwiłtsii	1	dee gwił -tsii
+deegwinyąą	2	dee gwinyąą
+deegwinyąą t'igwinyąą	2	dee gwinyąą t'igwinyąą
+deehee'yaa	6	dee -hee -yaa
+deeheechy'aa	1	dee -hee -chy'aa
+deehihjyaa	1	dee -hihj -yaa
+deehihłyaa	1	dee -hihł -yaa
+deehiinjyaa	2	dee -hiinj -yaa
+deehini'yaa	1	dee -hini -yaa
+deehishi'yaa	1	dee -hishi -yaa
+deekhwa'yaa	1	dee khwa -yaa
+deenahaihjyaa	1	dee nahaihj -yaa
+deeni'in	3	dee ni -'in
+deeni'yaa	1	dee ni -yaa
+deeniinlik	1	dee ni -inlik
+deenyąą	1	dee -nyąą
+deenyąą t'inyąą	2	dee -nyąą t'inyąą
+deereheelyaa	2	dee reheel -yaa
+deeshahah'yaa	1	dee shahah -yaa
+deeshi'yaa	4	dee shi -yaa
+deesho'ya'	2	dee sho -'ya'
+deesho'yaa	1	dee sho -yaa
+deeyiindhan	1	dee yiindhan
+deeyųųhthan	1	dee yųųhthan
+deiinyąą t'iinyąą	1	deiinyąą t'iinyąą
+deiinyąą t'inyąą	1	deiinyąą t'inyąą
+doonchy'aa	2	doon -chy'aa
+gweheenjyaa	1	gwehee -nj -yaa
+jaghaii	106	jaghaii
+jidii	47	jidii
+jidii shrit	5	jidii shrit
+juu	78	juu
+juu dee	14	juu dee
+juu shrit	1	juu shrit
+nats'ąą	35	nats'ąą
+nats'ahts'ą'	28	nats'ahts'ą'
+nijin	16	nijin
+nijin dąį'	4	nijin dąį'
+nijin gwats'ą'	1	nijin gwats'ą'
+nijin gwats'an	4	nijin gwats'an
+nijin ji'	3	nijin ji'
+nijuk	3	nijuk
+t'igwinyąą	1	t'igwinyąą # not sure!

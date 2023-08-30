@@ -1,0 +1,26 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+faa mande	4	faa ma- nde
+gila mande	1	gila ma- nde
+hende	1	ho- n- de # dialectal variant
+hendi	1	ho- n- di
+hoɓe	7	ho- ɓe
+hoɗe	1	ho- ɗe
+hoɗi	1	ho- ɗi
+homo	105	ho- mo
+honde	6	ho- n- de
+hondu	2	ho- n- du
+hongal	3	ho- n- gal
+hongol	1	ho- n- gol
+hono	85	hono
+hono foti	5	ho- no foti
+hono waɗi	1	ho- no waɗi
+hoto	28	ho- to
+ko	49	ko
+ko ɗum	2	ko ɗum
+ko saabii	41	ko saabii
+ko waɗi	10	ko waɗi
+koɗum	95	ko ɗum
+koɗum waɗi	17	ko ɗum waɗi
+mande	5	ma- nde
+mo	1	mo
+nde	2	nde

@@ -1,0 +1,32 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+gado	122	gado
+gado usdesdi	4	gado usdi # = 'usdi'?
+gado usdi	34	gado usdi
+gadoge	2	gado -ge
+gadogeno	3	gado -ge -no
+gadohi	1	gado -hi
+gadoi	2	gado -i
+gadono	117	gado -no
+gadono usdi	2	gado -no usdi
+gadoyeno	5	gado -ye -no
+gagage	1	gago -ge # typographic error?
+gago	90	gago
+gagoge	4	gago -ge
+gagogeno	2	gago -ge -no
+gagonihi	1	gago -ni -hi
+gagono	8	gago -no
+gagoyeno	5	gago -ye -no
+godo	3	godo
+godono	3	godo -no
+gogono	1	gago -no # typographic error?
+hara	1	harv # strange case
+harv	29	harv
+harvgeno	1	harv -ge -no
+harvno	2	harv -no
+hilago	1	hilago
+hilago iyu	1	hilago iyu
+ilagiyu	4	hilago iyu
+ilagiyuno	1	hilago iyu -no
+ilago	8	hilago
+ilagono iyu	1	hilago -no iyu
+itago nigohigi	1	hilago nigohigi # strange case, not sure!

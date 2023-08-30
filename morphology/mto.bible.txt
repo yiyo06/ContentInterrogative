@@ -1,0 +1,38 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+joma	9	joma
+jomas	6	joma -s
+jómase'e	12	joma -s -e'e
+jómats	4	joma -ts
+jómit	1	joma -it # not sure!
+juu'	7	juu'
+juu's	2	juu' -s
+juu'se'e	2	juu' -s -e'e
+pa̱n	34	pa̱n
+pa̱n ti	1	pa̱n ti
+pa̱na	2	pa̱n -a
+pá̱nam	1	pa̱n -am
+pa̱ne'e	12	pa̱n -e'e
+pa̱nts	48	pa̱n -ts
+pá̱nu̱kts	3	pa̱n -u̱k -ts
+ti	34	ti
+tiinumts	1	ti -inum -ts
+tis	17	ti -s
+tise'e	21	ti -s -e'e
+tisna	1	ti -s -na
+tits	16	ti -ts
+tya̱jx	29	tya̱jx
+tya̱jxe'e	4	tya̱jx -e'e
+tya̱jxs	2	tya̱jx -s
+tya̱jxse'e	19	tya̱jx -s -e'e
+tya̱jxts	35	tya̱jx -ts
+vin'it	4	vin'it
+vin'ite'e	1	vin'it -e'e
+vin'ítnumts	1	vin'ít -num -ts
+vin'itts	5	vin'it -ts
+vintso̱	23	vintso̱
+vintso̱s	19	vintso̱ -s
+vintso̱se'e	30	vintso̱ -s -e'e
+vintso̱ts	20	vintso̱ -ts
+vintso̱va	1	vintso̱ -va
+vinxu̱p	6	vinxu̱p
+vinxu̱pts	2	vinxu̱p -ts

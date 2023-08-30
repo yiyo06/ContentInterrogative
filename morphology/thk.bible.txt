@@ -1,0 +1,26 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+arî kû	4	a- rîkû
+ata	22	ata
+baao	1	baao
+barîkû	1	ba- rîkû
+bigana	2	bi- gana
+bûrîkû	11	bû- rîkû
+îgana	1	î- gana
+irî	1	i- rî # not sure!
+kî	17	kî
+kî n'ûntû	32	kî n'ûntû
+kîrîkû	4	kî- rîkû
+kû	29	kû
+magana	1	ma- gana
+marîkû	3	ma- rîkû
+mbi	45	mbi
+mbi n'ûntû	10	mbi n'ûntû
+n'ata	88	n'- ata
+n'ata n'ûntû	1	n'- ata n'ûntû
+n'irîkû	1	n'- i- rîkû
+n'ûrîkû	4	n'- û- rîkû
+n'ûû	66	n'- ûû
+rî	11	rî
+rîgana	2	rî- gana
+rîrîkû	2	rî- rîkû
+ûû	38	ûû

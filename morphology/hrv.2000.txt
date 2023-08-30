@@ -1,0 +1,37 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+čega	1	če -ga (što)
+čemu	11	če -mu (što)
+čija	3	čij -a
+čije	1	čij -e
+čiji	3	čij -i
+čijom	1	čij -om
+čime	4	čo -ime (što)
+dokle	2	dokle
+gdje	14	gdje
+kad	2	kada
+kada	6	kada
+kakav	3	kakav
+kako	64	kako
+kakva	8	kakav -a
+kakve	3	kakav -e
+kakvo	9	kakav -o
+kakvog	1	kakav -og
+kakvu	1	kakav -u
+kamo	4	kamo
+kime	2	ko -ime (tko)
+koga	5	ko -ga (tko)
+koja	3	koj -a
+koje	3	koj -e
+koji	8	koj -i
+kojim	3	koj -im
+kojoj	1	koj -oj
+koliko	8	koliko
+koliko puta	1	koliko puta
+kome	2	ko -me (tko)
+komu	2	ko -mu (tko)
+odakle	9	odakle
+otkad	1	ot- kada
+otkud	1	otkud
+što	101	što (što)
+tko	88	tko (tko)
+zašto	81	za- što (što)

@@ -1,0 +1,57 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+kim	51	kim
+kimdu	6	kim -du
+kimdur	1	kim -dur
+kimge	4	kim -ge
+kimler	3	kim -ler
+kimlerdin	1	kim -ler -din
+kimlerge	2	kim -ler -ge
+kimlerni	1	kim -ler -ni
+kimmu	10	kim -mu
+kimni	3	kim -ni
+kimning	8	kim -ni -ng
+kimsen	2	kim -sen
+
+nedimu	1	ne -dimu
+nedin	8	ne -din
+nege	2	ne -ge
+
+nemanche	2	neman -che
+
+neme	77	neme
+neme uchun	40	neme uchun
+nemidegen	1	neme -degen
+nemidin	2	neme -din
+nemige	6	neme -ge
+nemikin	1	neme -kin
+nemilerni	2	neme -ler -ni
+nemini	3	neme -ni
+nemisi	1	neme -si
+nemiti	2	neme -ti
+nemixqa	36	neme -ix -qa # grammar p.53
+
+neri	1	ne -ri
+
+qachan	9	qachan
+qachanghiche	3	qachan -ghi -che
+qanche	4	qanche
+qanchilik	2	qanche -lik
+qanchilik waqit	1	qanche -lik waqit
+
+qandaq	70	qandaq
+qandaqche	1	qandaq -che
+qandaqlarche	7	qandaq -ler -che
+qandaqmu	31	qandaq -mu
+qandaqsige	1	qandaq -si -ge
+
+qaysi	4	qaysi
+qaysinglar	2	qaysi -ng -ler
+qaysisi	4	qaysi -si
+qaysisini	2	qaysi -si -ni
+qaysisining	1	qaysi -si -ni -ng
+
+qeni	7	qe -ni
+qeyerde	8	qe -yer -de
+qeyerdin	3	qe -yer -din
+qeyerge	2	qe -yer -ge
+qeyerlerge	1	qe -yer -ler -ge

@@ -1,0 +1,18 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hvad	100	hvad
+hvad for en	1	hvad for en
+hvad for noget	3	hvad for noget
+hvad med	2	hvad med
+hvem	81	hvem
+hvilke	1	hvilk -e
+hvilken	5	hvilk -en
+hvilket	5	hvilk -et
+hvor	20	hvor
+hvor fra	5	hvor fra
+hvor længe	5	hvor længe
+hvor mange	1	hvor mange
+hvor mange gange	1	hvor mange gange
+hvor meget	4	hvor meget
+hvordan	70	hvor -dan
+hvorfor	69	hvor -for
+hvornår	3	hvor -når

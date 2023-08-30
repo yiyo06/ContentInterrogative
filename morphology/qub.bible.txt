@@ -1,0 +1,75 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ayca	3	ayca
+ayca cutitaj	1	ayca cuti -taj
+aycataj	2	ayca -taj
+aycatataj	1	ayca -ta -taj
+ima	18	ima
+imachötaj	1	ima -chö -taj
+imallapäraj	1	ima -lla -pa -raj
+imallataraj	1	ima -lla -ta -raj
+imamanraj	2	ima -man -raj
+imamantaj	1	ima -man -taj
+imanacäcushcanquitaj	1	ima -na -ca -cush -ca -nqui -taj
+imaninquitaj	1	ima -ni -nqui -taj
+imanintaj	1	ima -ni -n -taj
+imanir	2	ima -ni -r
+imanir-raj	2	ima -ni -r -raj
+imanirantaj	1	ima -ni -r -an -taj
+imanirtaj	88	ima -ni -r -taj
+imano	3	imano
+imanöpanataj	1	imano -pa -na -taj
+imanöparaj	18	imano -pa -raj
+imanöparäshi	2	imano -pa -ra -shi
+imanöpataj	24	imano -pa -taj
+imanöraj	7	imano -raj
+imanötaj	3	imano -taj
+imapaj	2	ima -paj
+imapänataj	3	ima -pa -na -taj
+imapäraj	1	ima -pa -raj
+imapätaj	13	ima -pa -taj
+imapitataj	4	ima -pita -taj
+imata	13	ima -ta
+imataj	16	ima -taj
+imataraj	10	ima -ta -raj
+imataräshi	1	ima -ta -ra -shi
+imatashi	1	ima -ta -shi
+imatataj	27	ima -ta -taj
+imawannataj	1	ima -wan -na -taj
+imawanraj	4	ima -wan -raj
+imay örataj	1	imay öra -taj
+imaycamaraj	1	imay -cama -raj
+imaycamataj	1	imay -cama -taj
+imaypitanataj	1	imay -pita -na -taj
+imaypitataj	1	imay -pita -taj
+imaytaj	7	imay -taj
+maychöraj	3	may -chö -raj
+maychöräshi	1	may -chö -ra -shi
+maychötaj	8	may -chö -taj
+maygan	6	may -ga -n
+mayganëtaj	1	may -ga -n -ë -taj
+mayganparaj	3	may -ga -n -pa -raj
+maygantaj	4	may -ga -n -taj
+maygantataj	1	may -ga -n -ta -taj
+maygayquipapis	2	may -ga -y -qui -pa -pis
+maygayquipis	1	may -ga -y -qui -pis
+maygayquitapis	2	may -ga -y -qui -ta -pis
+mayllachöga	1	may -lla -chö -ga
+maymanraj	1	may -man -raj
+maymantaj	2	may -man -taj
+mayninmantaj	1	may -ni -n -man -taj
+maypitaraj	1	may -pita -raj
+maypitataj	3	may -pita -taj
+mayraj	1	may -raj
+maytaj	3	may -taj
+pï	8	pi
+picunapätaj	2	pi -cuna -pa -taj
+picunataj	3	pi -cuna -taj
+pillaraj	1	pi -lla -raj
+pimantaj	1	pi -man -taj
+pinataj	1	pi -na -taj
+pipa	4	pi -pa
+pipäraj	1	pi -pa -raj
+pipätaj	1	pi -pa -taj
+piraj	34	pi -raj
+pitaj	35	pi -taj
+pitataj	4	pi -ta -taj

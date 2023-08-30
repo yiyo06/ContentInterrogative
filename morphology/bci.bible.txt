@@ -1,0 +1,15 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ble ônin	1	ble ônin
+nin	27	nin
+nin fan	3	nin fan
+nnye	6	nnye
+nzu	90	nzu
+nzu ti	75	nzu ti
+nzuo	1	nzu -o
+o yô se	41	o yô se
+oh yôh se	25	o yô se
+ônin	37	ônin
+se	51	se
+tyen ônin	6	tyen ônin
+waan	2	wan # Allomorphe of 'wan'?
+wan	77	wan

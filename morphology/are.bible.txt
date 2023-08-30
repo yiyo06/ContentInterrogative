@@ -1,0 +1,52 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ilangara	1	ilangara
+ilangarama	6	ilangara -ma
+iwukala	1	iwunha -ka -la
+iwukama	8	iwunha -ka -ma
+iwunha	4	iwunha
+iwunhakakwia	1	iwunha -ka -kwia
+iwunhakama	4	iwunha -ka -ma
+iwunhakantama	2	iwunha -ka -nta -ma
+iwunhakarta	1	iwunha -karta
+iwunhama	16	iwunha -ma
+iwunhanga	12	iwunha -nga
+iwunhangala	34	iwunha -nga -la
+iwunhangama	23	iwunha -nga -ma
+iwunhangantama	24	iwunha -nga -nta -ma
+iwunhantama	5	iwunha -nta -ma
+iwunhiperrama	3	iwunha -iperra -ma
+ngulama	2	ngunha -la -ma
+ngunha	10	ngunha
+ngunhaka	7	ngunha -ka
+ngunhakama	4	ngunha -ka -ma
+ngunhala	3	ngunha -la
+ngunhalama	12	ngunha -la -ma
+ngunhalantama	6	ngunha -la -nta -ma
+ngunhama	26	ngunha -ma
+ngunhanhantama	2	ngunha -nha -nta -ma
+ngunhantama	7	ngunha -nta -ma
+ngunhiperrama	2	ngunha -iperra -ma
+ngunhurnama	1	ngunha -urna -ma
+nthakinha	14	nthakinha
+nthakinhala	8	nthakinha -la
+nthakinhama	17	nthakinha -ma
+nthakinhamilaka	1	nthakinha -milaka
+nthakinhantama	37	nthakinha -nta -ma
+nthakinherramai	1	nthakinha -erra -ma -i # not sure!
+nthakinherritjina	1	nthakinha -erritjina
+nthakinhilamarama	1	nthakinha -ilamara -ma
+nthakinhilitjikala	1	nthakinha -ilitji -ka -la
+nthakintjala	1	nthakintja -la
+nthakintjama	4	nthakintja -ma
+nthakintjarangama	1	nthakintja -ranga -ma
+nthanha	1	nthanha
+nthanhakama	2	nthanha -ka -ma
+nthanhalama	4	nthanha -la -ma
+nthanhama	5	nthanha -ma
+nthanhanga	1	nthanha -nga
+nthanhangama	1	nthanha -nga -ma
+nthanhangantama	2	nthanha -nga -nta -ma
+nthanhantama	2	nthanha -nta -ma
+nthanharinyama	1	nthanha -rinya -ma
+nthanhiakama	1	nthanha -ia -ka -ma
+nthanhurnama	2	nthanha -urna -ma

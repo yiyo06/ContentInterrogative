@@ -1,0 +1,12 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hăng hơgĕt	1	hăng hơgĕt
+hlơi	125	hlơi
+hơbin	9	hơbin
+hơdôm	6	hơdôm
+hơdôm sui	3	hơdôm sui
+hơgĕt	131	hơgĕt
+hyư̆m	119	hyư̆m
+mơ̆ng pă	8	mơ̆ng pă
+pă	4	pă
+pơpă	25	pơ pă
+yua hơgĕt	52	yua hơgĕt

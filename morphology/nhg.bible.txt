@@ -1,0 +1,27 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+cöne	18	cöne
+cönenca	2	cöne -n -ca
+cötlaja	11	cötl -aja
+cötlejuanu	1	cötl -e -ju -a -nu
+cuale	4	cuale
+de cöne	11	de cöne
+hasta cöne	2	hasta cöne
+hasta quiema	3	hasta quiema
+nionöque	6	nion- öque
+öque	15	öque
+öquemeju	5	öque -me -ju
+öquene	1	öque -ne
+öqueniji	5	öque -ni -ji
+öquenu	77	öque -nu
+öquenuju	1	öque -nu -ju
+quiejquech	6	quiejquech
+quiejquechpa	1	quiejquech -pa
+quiema	7	quiema
+quiename	1	quiene -a -me # not sure!
+quiene	65	quiene
+tli	123	tli
+tli para	19	tli para
+tlica	79	tli -ca
+tlin	3	tli -n
+tlininiji	4	tli -ni -ni -ji
+tlininu	5	tli -ni -nu

@@ -1,0 +1,34 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+čeho	4	če -ho (co)
+čem	4	če -m (co)
+čemu	7	če -mu (co)
+čí	5	čí (kdo)
+čím	3	čím (co)
+co	80	co (co)
+jak	48	jak
+jak dlouho	4	jak dlouho
+jaká	1	jaký -á
+jaké	3	jaký -é
+jakou	4	jaký -ou
+jaký	5	jaký
+jakým	1	jaký -m
+jakými	1	jaký -mi
+jakže	1	jak -že # Is the root 'jak' or 'jaký'?
+kam	9	kam
+kde	18	kde
+kdepak	1	kde -pak
+kdo	58	kdo (kdo)
+kdy	5	kdy
+koho	11	ko -ho (kdo)
+kolik	5	kolik
+kolikrát	1	kolik -rát
+kom	1	ko -m (kdo)
+komu	4	ko -mu (kdo)
+která	1	který -á
+které	3	který -é
+kterému	1	který -é -mu
+který	4	který
+kým	1	kým (kdo)
+nač	1	nač
+odkud	4	odkud
+proč	64	proč

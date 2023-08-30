@@ -1,0 +1,47 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+'lacha	13	'la -cha
+'wecha	1	'we -cha
+chekí	6	che -ki
+chekí rawé	1	che -ki ra -wé
+chekisá	1	che -ki -sá
+chiena	1	chie -na
+chiéniko	11	chie -ni -ko
+chieri	80	chie -ri
+chiérite	3	chie -ri -te
+chieti	6	chie -ti
+cho	2	cho
+cholámala	1	cho -lá -mala
+cholámalawé	2	cho -lá -mala -wé
+cholásiga	1	cho -lá -si -gá
+chonagá	1	cho -na -gá
+chongá	1	cho -na -gá # not sure! 
+choní	1	cho -ni
+choniágó	3	cho -ni -á -gó # not sure!
+choniame	1	cho -ni -me
+chonigá	99	cho -ni -gá
+chonígó	3	cho -ni -gó
+chonígobá	1	cho -ni -gó -bá
+chonikiboli	1	cho -ni -ki -bo -li
+chonilime	1	cho -ni -li -me
+chonimela	1	cho -ni -mela
+chonokiboa	2	cho -no -ki -bóa
+chonokibóaché	1	cho -no -ki -bóa -ché
+chu'símala	1	chu -'sí -mala
+chu'símalaché	1	chu -'sí -mala -ché
+chu'simi	1	chu -'simi 
+chukiboa	1	chu -ki -bóa
+chukimélaché	1	chu -ki -mela -ché
+chukimélawé	1	chu -ki -mela -wé
+chukimeli	1	chu -ki -me -li
+chukirú	1	chu -ki -rú
+chukirúpeché	1	chu -ki -rú -pe -ché
+chulámalaché	1	chu -lá -mala -ché
+churigá	41	chu -ri -gá
+churigáriga	1	chu -ri -gá -ri -gá
+gu'churigá	1	gu'- chu -ri -gá
+koche	21	ko- che
+kócheka	2	ko- che -ka
+kochiena	4	ko- chie -na
+tacha	6	ta- cha
+tachiri	45	ta- chi -ri
+tachírite	1	ta- chi -ri -te

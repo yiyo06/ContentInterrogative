@@ -1,0 +1,68 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+araka'e guive piko	1	araka'e guive piko
+araka'e peve piko	3	araka'e peve piko
+araka'e piko	6	araka'e piko
+araka'épa	2	araka'e -pa
+ava piko	1	máva piko
+maerã	1	mba'e -rã
+maerã piko	10	mba'e -rã piko
+maerãpa	4	mba'e -rã -pa
+mamo	1	moõ # allomorph of 'moõ'
+mamo piko	2	moõ piko
+mamoguápa	1	moõ -gua -pa
+mamógui piko	1	moõ -gui piko
+mamópa	2	moõ -pa
+máva	14	máva
+máva 	1	máva 
+máva ndive piko	1	máva ndive piko
+máva piko	57	máva piko
+máva rendápe piko	1	máva rendá -pe piko
+máva voi piko	1	máva voi piko
+mávaguipa	1	máva -gui -pa
+mavaha	3	máva -ha
+mávaiko	1	máva -iko
+mavaitévapa	1	máva -ité -va -pa
+mavaitévarepa	1	máva -ité -va -re -pa
+mávapa	27	máva -pa
+mávapa piko	1	máva -pa piko
+mávape piko	3	máva -pe piko
+mávare piko	2	máva -re piko
+mávarepa	2	máva -re -pa
+mávatepa	1	máva -te -pa
+mba'e	17	mba'e
+mba'e mba'éiko	1	mba'e mba'e -iko
+mba'e piko	25	mba'e piko
+mba'e-mba'épa	3	mba'e mba'e -pa
+mba'eha	3	mba'e -ha
+mba'éicha	5	mba'e -icha
+mba'éicha piko	38	mba'e -icha piko
+mba'éicha rupi piko	10	mba'e -icha rupi piko
+mba'eichagua	4	mba'e -icha -gua
+mba'eichaguáta piko	1	mba'e -icha -gua -ta piko
+mba'eichaitépa	1	mba'e -icha -ité -pa
+mba'éichapa	4	mba'e -icha -pa
+mba'éichata piko	1	mba'e -icha -ta piko
+mba'éiko	7	mba'e -iko
+mba'épa	41	mba'e -pa
+mba'épa piko	1	mba'e -pa piko
+mba'épe	4	mba'e -pe
+mba'épe piko	2	mba'e -pe piko
+mba'épepa	8	mba'e -pe -pa
+mba'ére	7	mba'e -re
+mba'éré	1	mba'e -re
+mba'ére piko	63	mba'e -re piko
+mba'érepa	6	mba'e -re -pa
+mbovy	1	mbovy
+mbovýpa	2	mbovy -pa
+mboy	4	mbovy
+moõ mba'e piko	1	moõ mba'e piko
+moõ piko	9	moõ piko
+moõgua piko	1	moõ -gua piko
+moõgui piko	6	moõ -gui piko
+moõpa	4	moõ -pa
+piko maerã	1	piko maerã
+piko máva	3	piko máva
+piko mávape	1	piko máva -pe
+piko mba'e	6	piko mba'e
+piko mba'éicha	5	piko mba'e -icha
+piko mba'épa	2	piko mba'é -pa

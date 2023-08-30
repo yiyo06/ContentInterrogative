@@ -1,0 +1,33 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ana	14	ana
+ban	12	b- an
+bu	3	b- u
+fan	4	f- an
+foo	3	f- oo
+fooy	1	f- oo -y
+fu	15	f- u
+gan	8	g- an
+kan	60	k- an
+kañ	13	kañ
+koo	2	k- oo
+kooy	1	k- oo -y
+ku	41	k- u
+kuy	8	k- u -y
+la	1	l- an # when followed by words with inital 'n'?
+lan	27	l- an
+loo	13	l- oo
+looy	3	l- oo -y
+lu	76	l- u
+lu tax	89	l- u tax
+lu tere	1	l- u tere
+lu waral	1	l- u waral
+luy	9	l- u -y
+na	1	n- an # when followed by words with inital 'n'
+ñaata	6	ñaata
+naka	17	naka
+nan	26	n- an
+ñan	7	ñ- an
+noo	3	n- oo
+nu	13	n- u
+nuy	1	n- u -y
+yan	1	y- an

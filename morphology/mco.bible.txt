@@ -1,0 +1,23 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+huɨdi	6	huɨdi
+huɨdibɨ	14	huɨdi -bɨ
+ixtɨ mɨnaanɨ	1	ixtɨ mɨnaa -nɨ
+jadu'n	1	jadu' -n
+jadu'ñɨ	1	jadu' -ñyɨ
+jadu'ñyɨ	4	jadu' -ñyɨ
+ma	36	ma
+ma'amy	1	ma -'amy
+mɨna	7	mɨnaa
+mɨnaag	1	mɨnaa -g
+na'amy	40	na'amy
+naag	3	naag
+naag xɨɨ	1	naag xɨɨ
+naag xɨɨ naag po'	1	naag xɨɨ naag po'
+naag'oc	1	naag -'oc
+nej	78	nej
+nej co	49	nej co
+nejtz	1	nej -tz
+pɨn	77	pɨn
+pɨnjaty	4	pɨn -jaty
+pɨnjäy	5	pɨn -jäy
+ti	107	ti

@@ -1,0 +1,18 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ȩn	24	ȩn
+ȩná	51	ȩn -á
+ȩnnélá	1	ȩn -né -lá
+moo ȩn	82	moo ȩn
+moo ȩná	5	moo ȩn -á
+ndɛnná	5	ndɛn -ná
+née	70	née
+nɛ́nná	46	nɛ́n -ná
+nóo	89	nóo
+nóo woo	3	nóo woo
+nóo woolá	5	nóo woo -lá
+nɔ́nná	21	nɔ́n -ná
+sey woo téé	1	sey woo téé
+sey woo tɛ́lá	1	sey woo tɛ́ -lá
+tée	1	téé
+téé	12	téé
+tɛ́lá	33	tɛ́ -lá

@@ -1,0 +1,45 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+hangi	6	hangi
+hangilerine	1	hangi -ler -in -e
+hanginiz	4	hangi -niz
+hanginizin	1	hangi -niz -in
+hangisi	7	hangi -si
+hangisidir	2	hangi -si -dir
+hangisini	3	hangi -sin -i
+hangisinin	3	hangi -sin -in
+kaç	4	kaç
+kim	74	kim
+kimdir	5	kim -dir
+kime	4	kim -e
+kimi	2	kim -i
+kimim	1	kim -im
+kimin	7	kim -in
+kimlerden	2	kim -ler -den
+kimlerdi	1	kim -ler -di
+kimlere	2	kim -ler -e
+kimsin	3	kim -sin
+kimsiniz	1	kim -si -niz
+nasıl	68	nasıl
+ne	103	ne
+ne çok	1	ne çok
+ne gibi	1	ne gibi
+ne kadar	7	ne kadar
+ne tür	1	ne tür
+ne zaman	7	ne zaman
+ne zamandan	1	ne zaman -dan
+neden	81	neden
+nedeninizi	1	neden -niz -i
+nedir	10	ne -dir
+neler	3	ne -ler
+nerede	19	nere -de
+nereden	13	nere -den
+neredensin	1	nere -den -sin
+neresidir	1	nere -si -dir
+nereye	4	nere -ye
+nesi	1	ne -si
+neydi	1	ne -y -di
+neye	6	ne -y -e
+neyi	2	ne -y -i
+neyin	1	ne -y -in
+neyle	2	ne -yle # suffix for instrumental
+niçin	2	niçin

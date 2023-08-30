@@ -1,0 +1,24 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+awe	1	awe
+haawe	2	ha- awe
+hampe awe	2	hampe awe
+hampe hampire	1	hampe ham- pire
+hang awe	19	hang awe
+hantamian	8	hantamian
+hie	93	hie
+hiekah	1	hie -kah
+inun	145	inun
+inun sababni	5	inun sababni
+inun wuah	1	inun wuah
+kaalawe	1	kaal- awe
+kala awe	8	kala awe
+kalaawe	16	kala awe
+kewangun	30	kewangun
+ma inun	6	ma inun
+maawe	2	ma- awe
+nainun	1	na- inun
+pire	5	pire
+sa awe	3	sa awe
+saawe	7	sa awe
+teka awe	8	teka awe
+wuah inun	83	wuah inun

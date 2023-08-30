@@ -1,0 +1,87 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+ánsan	3	ánsan
+ánti	1	ánti
+átiri	2	átiri
+átiri dan	1	átiri dan
+atiribei	1	átiri -bei
+átiribeísan	2	átiri -bei -san
+átiriñein	1	átiri -ñein
+átiriñeingi	1	átiri -ñein -gi
+átiriñoun	1	átiri -ñoun
+ca	55	cá
+cá	3	cá
+ca lan uágu	3	cá lan uágu
+ca san uágu	1	cá san uágu
+ca uágu	40	cá uágu
+cá uágu	1	cá uágu
+cába	11	cá -ba
+cába uágu	1	cá -ba uágu
+cábagi	16	cá -ba -gi
+cábagi uágu	1	cá -ba -gi uágu
+cábasan	17	cá -ba -san
+cábasanti	1	cá -ba -san -ti
+cábati	8	cá -ba -ti
+cáfunasan	1	cá -funa -san
+cági	30	cá -gi
+cági uágu	5	cá -gi uágu
+cáme	2	cá -me
+cámegi	5	cá -me -gi
+cámesan	3	cá -me -san
+cásan	16	cá -san
+cásan uágu	19	cá san uágu
+cáta	3	cá -ta
+cátabuñadíbugi	3	cá -ta -bu -ña -di -bu -gi
+cátabusan	1	cá -ta -bu -san
+cátabuti	2	cá -ta -bu -ti
+cátaña	1	cá -ta -ña
+cátanagi	1	cá -ta -na -gi
+cátañagi	1	cá -ta -ña -gi
+cátanañadina	1	cá -ta -na -ña -dina
+cátanañadináti	1	cá -ta -na -ña -dina -ti
+cátanasan	1	cá -ta -na -san
+cátañasan	1	cá -ta -ña -san
+cátanati	1	cá -ta -na -ti
+cátañati	1	cá -ta -ña -ti
+cátaün	1	cá -ta -ün
+cátei	10	cá -tei
+cátei funásan	2	cá -tei funa -san
+cáteibeí funasan	1	cá -tei -bei funa -san
+cáteigi	6	cá -tei -gi
+cáteiñeigi	1	cá -tei -ñei -gi
+cáteiñein	1	cá -tei -ñein
+cáteiñeinsan	1	cá -tei -ñein -san
+cáteisan	13	cá -tei -san
+cáteisán	1	cá -tei -san
+cáteiti	10	cá -tei -ti
+cáteitimasan	1	cá -tei -ti -ma -san
+cáti	10	cá -ti
+cáti uágu	13	cá -ti uágu
+darísan ídaba	1	darísan ída -ba
+darísan ídame	1	darísan ída -me
+ída	69	ída
+ída bugagí	3	ída bugagí
+ídaba	1	ída -ba
+ídame	2	ída -me
+ídamé	1	ída -me
+ídatimá	1	ída -ti -ma
+jagáñagi	1	ja -gáña -gi
+jagáñasán	1	ja -gáña -san
+jageí funásan	1	ja -geí funa -san
+jageígi	2	ja -geí -gi
+jageísan	1	ja -geí -san
+jagoún	1	ja -goún
+jalía	1	ja -lía
+jalía funásan	1	ja -lía funa -san
+jalíabasan	2	ja -lía -ba -san
+jalíabei	1	ja -lía -bei
+jalíagi	1	ja -lía -gi
+jalíagiñésan	2	ja -lía -gi -ñe -san
+jalíagiñeti	1	ja -lía -gi -ñe -ti
+jalíana	1	ja -lía -na
+jalíanasan	1	ja -lía -na -san
+jalíañeinti	1	ja -lía -ñein -ti
+jalíasan	2	ja -lía -san
+jalíñañeinsan	1	ja -lía -ña -ñein -san
+jalíñounba funásan	1	ja -lía -ñoun -ba funa -san
+jalíñounbadibusan	1	ja -lía -ñoun -ba -di -bu -san
+jigeígi	2	ja -geí -gi # typographic error?

@@ -1,0 +1,30 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+galle	3	galle
+gallii	1	galle -ii # not sure!
+geaidda	2	gii -ea -idda
+gean	15	gii -ea -n
+geanin	4	gii -ea -nin
+geas	1	gii -ea -s
+geasa	2	gii -ea -sa
+geat	5	gii -ea -t
+gii	73	gii
+goabbá	6	goabbá
+goappá	3	goabbá
+goas	8	goas
+gos	29	gos
+gosa	6	gos -a
+guđiid	1	guđiid
+guhte	1	guhte
+guhtemuš	6	guhte -muš
+maid	64	mii -a -id
+mainna	4	mii -a -inna
+makkár	8	makkár
+man	8	mii -a -n
+man guhká	5	mii -a -n guhká
+man ollu	3	mii -a -n ollu
+manin	1	mii -nin
+manne	92	manne
+mas	5	mii -a -s
+mat	2	mii -a -t
+mii	41	mii
+mo	67	mo

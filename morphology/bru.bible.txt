@@ -1,0 +1,12 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+aléq	26	a- léq
+bo léq	5	bo léq
+léq	14	léq
+máh léq	2	máh léq
+maléq	8	máh léq
+nléq	8	n- léq
+noau	79	noau
+nṓq	182	nṓq
+ntrớu	117	ntrớu
+sếq	3	sếq
+sếq trỗ	1	sếq trỗ
