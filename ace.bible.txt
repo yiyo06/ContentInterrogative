@@ -1,0 +1,26 @@
+WORDFORM	FREQUENCY	MORPHOLOGY
+dipat	19	di- pat
+ho	4	ho
+hoka	1	ho -ka
+keupeue	21	keu- peue
+keupeuguna	6	keu- peue -guna
+padub	8	peue -dub
+padubna	1	peue -dub -na
+pajan	8	peue -jan
+pakon	72	peue -kon
+pakriban	55	peue -kriban
+pane	2	pat -ne
+panena	5	pat -ne -na
+pat	4	pat
+peu	41	peue # allomorph of 'peue'
+peubeutôi	1	peue -beutôi
+peubuet	2	peue -buet
+peue	80	peue
+peue sabab	9	peue sabab
+peue-peue	1	peue peue
+peukeuneuk	1	peue -keuneuk
+peusabab	1	peue sabab
+peuteuk	1	peue -teuk
+sampoe án pajan	2	sampoe án peue -jan
+soe	98	soe
+toh	12	toh
