@@ -1,4 +1,4 @@
-Experiments of automatic comparison for chinese and german bible texts
+AExperiments of automatic comparison for chinese and german bible texts
 ===========
 
 ### Introduction
